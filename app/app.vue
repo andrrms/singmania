@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
+import { Analytics } from '@vercel/analytics/nuxt'
 import LoadingOverlay from '~/components/LoadingOverlay.vue'
 import DeviceCheck from '~/components/DeviceCheck.vue'
 import { onMounted } from 'vue'
@@ -16,6 +18,8 @@ onMounted(() => {
 
 <template>
   <div>
+    <SpeedInsights />
+    <Analytics />
     <DeviceCheck />
     <LoadingOverlay />
     <NuxtRouteAnnouncer />
