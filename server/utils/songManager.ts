@@ -45,6 +45,162 @@ const extractYoutubeId = (content: string): string | undefined => {
   return check(video) || check(mp3)
 }
 
+export interface SongFilterOptions {
+  page: number
+  limit: number
+  search?: string
+  type?: string
+  language?: string
+  sort?: string
+}
+
+export const getSongs = async (options: SongFilterOptions): Promise<{ data: SongListItem[], total: number }> => {
+  const { page, limit, search, type, language, sort } = options
+  const offset = (page - 1) * limit
+
+  // 1. Supabase (Production)
+  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
+    try {
+      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+      let query = supabase
+        .from('songs')
+        .select('filename, title, artist, is_duet, cover, youtube_id, created_at, language', { count: 'exact' })
+
+      // Search
+      if (search) {
+        query = query.or(`title.ilike.%${search}%,artist.ilike.%${search}%`)
+      }
+
+      // Filters
+      if (type === 'youtube') {
+        query = query.not('youtube_id', 'is', null)
+      } else if (type === 'local') {
+        query = query.is('youtube_id', null)
+      } else if (type === 'duet') {
+        query = query.eq('is_duet', true)
+      }
+
+      if (language && language !== 'all') {
+        query = query.ilike('language', language)
+      }
+
+      // Sort
+      if (sort === 'date') {
+        query = query.order('created_at', { ascending: false })
+      } else if (sort === 'artist') {
+        query = query.order('artist', { ascending: true })
+      } else {
+        query = query.order('title', { ascending: true })
+      }
+
+      // Pagination
+      query = query.range(offset, offset + limit - 1)
+
+      const { data, error, count } = await query
+
+      if (!error && data) {
+        const songs = data.map((s: any) => ({
+          filename: s.filename,
+          title: s.title,
+          artist: s.artist,
+          isDuet: s.is_duet,
+          cover: s.cover,
+          youtubeId: s.youtube_id,
+          addedAt: new Date(s.created_at).getTime(),
+          language: s.language
+        }))
+        return { data: songs, total: count || 0 }
+      }
+    } catch (e) {
+      console.error('Error fetching songs from Supabase', e)
+    }
+  }
+
+  // 2. Fallback (Local File System)
+  const allSongs = await getSongList()
+  
+  let songs = allSongs
+
+  // Type Filter
+  if (type === 'youtube') {
+    songs = songs.filter(s => !!s.youtubeId)
+  } else if (type === 'local') {
+    songs = songs.filter(s => !s.youtubeId)
+  } else if (type === 'duet') {
+    songs = songs.filter(s => s.isDuet)
+  }
+
+  // Language Filter
+  if (language && language !== 'all') {
+    const lang = language.toLowerCase()
+    songs = songs.filter(s => s.language?.toLowerCase() === lang)
+  }
+
+  // Search
+  if (search) {
+    const normalize = (str: string) => str.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase()
+    const searchNormalized = normalize(search)
+
+    songs = songs.filter(s =>
+      normalize(s.title).includes(searchNormalized) ||
+      normalize(s.artist).includes(searchNormalized)
+    )
+  }
+
+  // Sort
+  songs.sort((a, b) => {
+    if (sort === 'date') {
+      return b.addedAt - a.addedAt
+    } else if (sort === 'artist') {
+      return a.artist.localeCompare(b.artist)
+    } else {
+      return a.title.localeCompare(b.title)
+    }
+  })
+
+  const total = songs.length
+  const paginatedSongs = songs.slice(offset, offset + limit)
+
+  return {
+    data: paginatedSongs,
+    total
+  }
+}
+
+export const getAvailableLanguages = async (): Promise<string[]> => {
+  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
+    try {
+      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+      // Fetch all languages to compute unique set. 
+      // Ideally we would use a distinct query or a separate table for languages.
+      const { data, error } = await supabase
+        .from('songs')
+        .select('language')
+        .not('language', 'is', null)
+      
+      if (!error && data) {
+        const languages = new Set<string>()
+        data.forEach((row: any) => {
+          if (row.language) languages.add(row.language.trim())
+        })
+        return Array.from(languages).sort()
+      }
+    } catch (e) {
+      console.error('Error fetching languages from Supabase', e)
+    }
+  }
+
+  const songs = await getSongList()
+  const languages = new Set<string>()
+  songs.forEach(song => {
+    if (song.language) {
+      const lang = song.language.trim()
+      if (lang) languages.add(lang)
+    }
+  })
+  return Array.from(languages).sort()
+}
+
 export const getSongList = async (): Promise<SongListItem[]> => {
   if (cachedSongs) return cachedSongs
 
