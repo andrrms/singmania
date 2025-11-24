@@ -1,5 +1,12 @@
 import type { UltraStarSong } from './ultrastarParser'
 
+export interface NoteStats {
+	ok: number
+	good: number
+	excellent: number
+	perfect: number
+}
+
 export interface SavedSong {
 	id?: number
 	title: string
@@ -12,6 +19,12 @@ export interface SavedSong {
 	isVideoBackground: boolean
 	youtubeId?: string
 	addedAt: number
+	// Stats
+	highScore?: number
+	rank?: string
+	playCount?: number
+	lastPlayedAt?: number
+	noteStats?: NoteStats
 }
 
 const DB_NAME = 'karaoke-db'

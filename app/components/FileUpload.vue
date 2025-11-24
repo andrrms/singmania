@@ -179,7 +179,9 @@ const startKaraoke = async () => {
 			<!-- Lyrics File -->
 			<div class="group">
 				<label class="block text-sm font-bold text-white/80 mb-2 uppercase tracking-wider flex items-center gap-2">
-					<Icon name="material-symbols:description-outline" class="text-violet-400" />
+					<ClientOnly>
+						<Icon name="material-symbols:description-outline" class="text-violet-400" />
+					</ClientOnly>
 					Letra UltraStar (.txt)
 				</label>
 				<div class="relative">
@@ -198,7 +200,9 @@ const startKaraoke = async () => {
 			<!-- Audio File -->
 			<div class="group">
 				<label class="block text-sm font-bold text-white/80 mb-2 uppercase tracking-wider flex items-center gap-2">
-					<Icon name="material-symbols:audio-file-outline" class="text-violet-400" />
+					<ClientOnly>
+						<Icon name="material-symbols:audio-file-outline" class="text-violet-400" />
+					</ClientOnly>
 					Arquivo de Áudio (MP3/M4A/Video)
 				</label>
 				<input type="file" accept="audio/*,video/*" @change="handleAudioUpload" class="block w-full text-sm text-gray-300
@@ -215,7 +219,9 @@ const startKaraoke = async () => {
 			<!-- Background File (Optional) -->
 			<div class="group" :class="{ 'opacity-50 pointer-events-none': useVideoAsBackground }">
 				<label class="block text-sm font-bold text-white/80 mb-2 uppercase tracking-wider flex items-center gap-2">
-					<Icon name="material-symbols:image-outline" class="text-violet-400" />
+					<ClientOnly>
+						<Icon name="material-symbols:image-outline" class="text-violet-400" />
+					</ClientOnly>
 					Fundo (Opcional)
 				</label>
 				<input type="file" accept="image/*,video/*" @change="handleBackgroundUpload" :disabled="useVideoAsBackground"
@@ -240,21 +246,27 @@ const startKaraoke = async () => {
 			</div>
 
 			<div v-if="error" class="p-4 bg-red-500/10 border border-red-500/20 rounded-xl text-red-400 text-sm text-center font-medium flex items-center justify-center gap-2">
-				<Icon name="material-symbols:error-outline" />
+				<ClientOnly>
+					<Icon name="material-symbols:error-outline" />
+				</ClientOnly>
 				{{ error }}
 			</div>
 
 			<div class="flex flex-col gap-3 pt-4">
 				<button @click="startKaraoke" :disabled="!youtubeId || !txtFile || loading"
 					class="w-full py-4 px-6 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold uppercase tracking-wider shadow-lg hover:shadow-red-600/20 transform hover:-translate-y-0.5 transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 disabled:hover:translate-y-0 disabled:hover:shadow-none">
-					<Icon name="material-symbols:youtube-activity" class="w-6 h-6" />
-					{{ loading ? 'Carregando...' : 'Iniciar com YouTube' }}
+					<ClientOnly>
+						<Icon name="material-symbols:youtube-activity" class="w-6 h-6" />
+					</ClientOnly>
+					{{ loading ? 'Carregando...' : 'Adicionar à Biblioteca (YouTube)' }}
 				</button>
 
 				<button @click="startKaraoke" :disabled="!txtFile || !audioFile || loading"
 					class="w-full py-4 px-6 rounded-xl bg-violet-600 hover:bg-violet-500 text-white font-bold uppercase tracking-wider shadow-lg hover:shadow-violet-600/20 transform hover:-translate-y-0.5 transition-all disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 disabled:hover:translate-y-0 disabled:hover:shadow-none">
-					<Icon name="material-symbols:play-arrow-rounded" class="w-6 h-6" />
-					{{ loading ? 'Carregando...' : 'Iniciar (Arquivos Locais)' }}
+					<ClientOnly>
+						<Icon name="material-symbols:library-add-rounded" class="w-6 h-6" />
+					</ClientOnly>
+					{{ loading ? 'Carregando...' : 'Adicionar à Biblioteca (Local)' }}
 				</button>
 			</div>
 		</div>
