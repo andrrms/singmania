@@ -173,8 +173,15 @@ export const getAvailableLanguages = async (): Promise<string[]> => {
   if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
     try {
       const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
-      // Fetch all languages to compute unique set. 
-      // Ideally we would use a distinct query or a separate table for languages.
+      
+      // Try RPC first for efficiency
+      const { data: rpcData, error: rpcError } = await supabase.rpc('get_distinct_languages')
+      
+      if (!rpcError && rpcData) {
+        return rpcData.map((r: any) => r.language).sort()
+      }
+
+      // Fallback to fetching all languages (less efficient)
       const { data, error } = await supabase
         .from('songs')
         .select('language')
@@ -208,35 +215,7 @@ export const getAvailableLanguages = async (): Promise<string[]> => {
 export const getSongList = async (): Promise<SongListItem[]> => {
   if (cachedSongs) return cachedSongs
 
-  // 1. Try to fetch from Supabase (Production/Cloud Source)
-  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
-    try {
-      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
-      const { data, error } = await supabase
-        .from('songs')
-        .select('filename, title, artist, is_duet, cover, youtube_id, created_at, language')
-      
-      if (!error && data) {
-        cachedSongs = data.map((s: any) => ({
-            filename: s.filename,
-            title: s.title,
-            artist: s.artist,
-            isDuet: s.is_duet,
-            cover: s.cover,
-            youtubeId: s.youtube_id,
-            addedAt: new Date(s.created_at).getTime(),
-            language: s.language
-        }))
-        return cachedSongs
-      } else if (error) {
-        console.error('Supabase error:', error)
-      }
-    } catch (e) {
-      console.error('Error fetching songs from Supabase', e)
-    }
-  }
-
-  // 2. Fallback to Local File System (Development)
+  // 1. Fallback to Local File System (Development)
   try {
     const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
     // Check if directory exists
