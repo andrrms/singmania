@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { list } from '@vercel/blob'
+import { createClient } from '@supabase/supabase-js'
 
 export interface SongListItem {
   filename: string
@@ -14,7 +14,6 @@ export interface SongListItem {
 }
 
 let cachedSongs: SongListItem[] | null = null
-let cachedManifestUrl: string | null = null
 
 const extractHeaderValue = (content: string, tag: string): string | undefined => {
   const regex = new RegExp(`#${tag}:(.*)`, 'i')
@@ -49,28 +48,31 @@ const extractYoutubeId = (content: string): string | undefined => {
 export const getSongList = async (): Promise<SongListItem[]> => {
   if (cachedSongs) return cachedSongs
 
-  // 1. Try to fetch from Vercel Blob Manifest first (Production/Cloud Source)
-  if (process.env.BLOB_READ_WRITE_TOKEN) {
+  // 1. Try to fetch from Supabase (Production/Cloud Source)
+  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
     try {
-      // Find the manifest file URL
-      if (!cachedManifestUrl) {
-        const { blobs } = await list({ token: process.env.BLOB_READ_WRITE_TOKEN })
-        const manifest = blobs.find(b => b.pathname === 'songs_manifest.json')
-        if (manifest) {
-          cachedManifestUrl = manifest.url
-        }
-      }
-
-      if (cachedManifestUrl) {
-        const response = await fetch(cachedManifestUrl)
-        if (response.ok) {
-          const songs = await response.json()
-          cachedSongs = songs
-          return songs
-        }
+      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+      const { data, error } = await supabase
+        .from('songs')
+        .select('filename, title, artist, is_duet, cover, youtube_id, created_at, language')
+      
+      if (!error && data) {
+        cachedSongs = data.map((s: any) => ({
+            filename: s.filename,
+            title: s.title,
+            artist: s.artist,
+            isDuet: s.is_duet,
+            cover: s.cover,
+            youtubeId: s.youtube_id,
+            addedAt: new Date(s.created_at).getTime(),
+            language: s.language
+        }))
+        return cachedSongs
+      } else if (error) {
+        console.error('Supabase error:', error)
       }
     } catch (e) {
-      console.error('Error fetching songs from Vercel Blob', e)
+      console.error('Error fetching songs from Supabase', e)
     }
   }
 
@@ -152,20 +154,21 @@ const parseSong = (filename: string, content: string, addedAt: number): SongList
 }
 
 export const getSongContent = async (filename: string): Promise<string | null> => {
-  // 1. Try Vercel Blob
-  if (process.env.BLOB_READ_WRITE_TOKEN) {
+  // 1. Try Supabase
+  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
     try {
-        const { blobs } = await list({ token: process.env.BLOB_READ_WRITE_TOKEN, prefix: filename })
-        // Exact match check or just take the first one that matches the filename
-        const blob = blobs.find(b => b.pathname === filename)
-        if (blob) {
-            const response = await fetch(blob.url)
-            if (response.ok) {
-                return await response.text()
-            }
+        const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+        const { data, error } = await supabase
+            .from('songs')
+            .select('content')
+            .eq('filename', filename)
+            .single()
+        
+        if (!error && data) {
+            return data.content
         }
     } catch (e) {
-        console.error(`Error reading song content from Blob ${filename}`, e)
+        console.error(`Error reading song content from Supabase ${filename}`, e)
     }
   }
 
