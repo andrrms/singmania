@@ -28,6 +28,6 @@ export default defineNuxtConfig({
     ]
   },
   build: {
-    transpile: ['vue-virtual-scroller']
+    transpile: ['vue-virtual-scroller', '@supabase/supabase-js']
   }
 })
