@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
+import { list } from '@vercel/blob'
 
 export interface SongListItem {
   filename: string
@@ -13,6 +14,7 @@ export interface SongListItem {
 }
 
 let cachedSongs: SongListItem[] | null = null
+let cachedManifestUrl: string | null = null
 
 const extractHeaderValue = (content: string, tag: string): string | undefined => {
   const regex = new RegExp(`#${tag}:(.*)`, 'i')
@@ -47,67 +49,62 @@ const extractYoutubeId = (content: string): string | undefined => {
 export const getSongList = async (): Promise<SongListItem[]> => {
   if (cachedSongs) return cachedSongs
 
-  try {
-    const storage = useStorage('assets:songs')
-    let keys = await storage.getKeys()
-    
-    // Fallback for local development if server assets are not mounted correctly
-    if (keys.length === 0 && process.env.NODE_ENV === 'development') {
-      try {
-        const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
-        const files = await fs.readdir(SONGS_DIR)
-        keys = files.filter(f => f.endsWith('.txt'))
-        
-        // Map FS files to storage-like behavior or just process them
-        // To keep logic unified, we will process them similarly but we need to read content differently
-        // So let's branch out here
-        const songPromises = keys.map(async (filename) => {
-           try {
-             const filePath = path.join(SONGS_DIR, filename)
-             const content = await fs.readFile(filePath, 'utf-8')
-             const stats = await fs.stat(filePath)
-             const addedAt = stats.birthtimeMs || stats.mtimeMs
-             
-             return parseSong(filename, content, addedAt)
-           } catch (e) {
-             return null
-           }
-        })
-        
-        const results = await Promise.all(songPromises)
-        cachedSongs = results.filter((s): s is SongListItem => s !== null)
-        return cachedSongs
-      } catch (e) {
-        console.error('Error reading local songs directory', e)
+  // 1. Try to fetch from Vercel Blob Manifest first (Production/Cloud Source)
+  if (process.env.BLOB_READ_WRITE_TOKEN) {
+    try {
+      // Find the manifest file URL
+      if (!cachedManifestUrl) {
+        const { blobs } = await list({ token: process.env.BLOB_READ_WRITE_TOKEN })
+        const manifest = blobs.find(b => b.pathname === 'songs_manifest.json')
+        if (manifest) {
+          cachedManifestUrl = manifest.url
+        }
       }
+
+      if (cachedManifestUrl) {
+        const response = await fetch(cachedManifestUrl)
+        if (response.ok) {
+          const songs = await response.json()
+          cachedSongs = songs
+          return songs
+        }
+      }
+    } catch (e) {
+      console.error('Error fetching songs from Vercel Blob', e)
+    }
+  }
+
+  // 2. Fallback to Local File System (Development)
+  try {
+    const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
+    // Check if directory exists
+    try {
+      await fs.access(SONGS_DIR)
+    } catch {
+      return []
     }
 
-    const txtFiles = keys.filter((k: string) => k.endsWith('.txt'))
-
-    const songPromises = txtFiles.map(async (key: string): Promise<SongListItem | null> => {
-      try {
-        const content = await storage.getItem(key) as string
-        if (!content) return null
-
-        // We don't have reliable file stats in all storage drivers, use current time or 0
-        const meta = await storage.getMeta(key)
-        const mtime = meta?.mtime
-        const addedAt = mtime ? new Date(mtime).getTime() : 0
-
-        return parseSong(key, content, addedAt)
-      } catch (e) {
-        console.error(`Error parsing ${key}`, e)
-        return null
-      }
+    const files = await fs.readdir(SONGS_DIR)
+    const txtFiles = files.filter(f => f.endsWith('.txt'))
+    
+    const songPromises = txtFiles.map(async (filename) => {
+        try {
+          const filePath = path.join(SONGS_DIR, filename)
+          const content = await fs.readFile(filePath, 'utf-8')
+          const stats = await fs.stat(filePath)
+          const addedAt = stats.birthtimeMs || stats.mtimeMs
+          
+          return parseSong(filename, content, addedAt)
+        } catch (e) {
+          return null
+        }
     })
-
+    
     const results = await Promise.all(songPromises)
-    const validSongs = results.filter((s): s is SongListItem => s !== null)
-    cachedSongs = validSongs
-
-    return cachedSongs || []
+    cachedSongs = results.filter((s): s is SongListItem => s !== null)
+    return cachedSongs
   } catch (e) {
-    console.error('Error reading songs directory', e)
+    console.error('Error reading local songs directory', e)
     return []
   }
 }
@@ -155,17 +152,28 @@ const parseSong = (filename: string, content: string, addedAt: number): SongList
 }
 
 export const getSongContent = async (filename: string): Promise<string | null> => {
-  try {
-    const storage = useStorage('assets:songs')
-    const content = await storage.getItem(filename)
-    if (content) return content as string
-    
-    if (process.env.NODE_ENV === 'development') {
-        const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
-        const filePath = path.join(SONGS_DIR, filename)
-        return await fs.readFile(filePath, 'utf-8')
+  // 1. Try Vercel Blob
+  if (process.env.BLOB_READ_WRITE_TOKEN) {
+    try {
+        const { blobs } = await list({ token: process.env.BLOB_READ_WRITE_TOKEN, prefix: filename })
+        // Exact match check or just take the first one that matches the filename
+        const blob = blobs.find(b => b.pathname === filename)
+        if (blob) {
+            const response = await fetch(blob.url)
+            if (response.ok) {
+                return await response.text()
+            }
+        }
+    } catch (e) {
+        console.error(`Error reading song content from Blob ${filename}`, e)
     }
-    return null
+  }
+
+  // 2. Fallback to Local
+  try {
+    const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
+    const filePath = path.join(SONGS_DIR, filename)
+    return await fs.readFile(filePath, 'utf-8')
   } catch (e) {
     console.error(`Error reading song content ${filename}`, e)
     return null
