@@ -98,7 +98,9 @@ export const getSongs = async (options: SongFilterOptions): Promise<{ data: Song
 
       const { data, error, count } = await query
 
-      if (!error && data) {
+      if (error) {
+        console.error('Supabase error in getSongs:', error)
+      } else if (data) {
         const songs = data.map((s: any) => ({
           filename: s.filename,
           title: s.title,
@@ -178,7 +180,9 @@ export const getAvailableLanguages = async (): Promise<string[]> => {
         .select('language')
         .not('language', 'is', null)
       
-      if (!error && data) {
+      if (error) {
+        console.error('Supabase error in getAvailableLanguages:', error)
+      } else if (data) {
         const languages = new Set<string>()
         data.forEach((row: any) => {
           if (row.language) languages.add(row.language.trim())
@@ -320,7 +324,9 @@ export const getSongContent = async (filename: string): Promise<string | null> =
             .eq('filename', filename)
             .single()
         
-        if (!error && data) {
+        if (error) {
+            console.error(`Supabase error reading content for ${filename}:`, error)
+        } else if (data) {
             return data.content
         }
     } catch (e) {
