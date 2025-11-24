@@ -1,9 +1,5 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { Buffer } from 'node:buffer'
-
-const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
-const DEMO_SONGS_DIR = path.resolve(process.cwd(), 'public/demo_songs_old')
 
 export interface SongListItem {
   filename: string
@@ -52,73 +48,62 @@ export const getSongList = async (): Promise<SongListItem[]> => {
   if (cachedSongs) return cachedSongs
 
   try {
-    const files = await fs.readdir(SONGS_DIR)
-    const txtFiles = files.filter((f: string) => f.endsWith('.txt'))
-
-    const songPromises = txtFiles.map(async (filename: string) => {
+    const storage = useStorage('assets:songs')
+    let keys = await storage.getKeys()
+    
+    // Fallback for local development if server assets are not mounted correctly
+    if (keys.length === 0 && process.env.NODE_ENV === 'development') {
       try {
-        const filePath = path.join(SONGS_DIR, filename)
-        // Read first 2KB to get headers
-        const fileHandle = await fs.open(filePath, 'r')
-        const buffer = Buffer.alloc(2048)
-        const { bytesRead } = await fileHandle.read(buffer, 0, 2048, 0)
-        await fileHandle.close()
-
-        const stats = await fs.stat(filePath)
-        const addedAt = stats.birthtimeMs || stats.mtimeMs
-
-        const content = buffer.toString('utf-8', 0, bytesRead)
-
-        const title = extractHeaderValue(content, 'TITLE')
-        const artist = extractHeaderValue(content, 'ARTIST')
-        const language = extractHeaderValue(content, 'LANGUAGE')
-        let cover = extractHeaderValue(content, 'COVER')
-        const youtubeId = extractYoutubeId(content)
-
-        // Filter: Must have YouTube ID - REMOVED to allow local songs
-        // if (!youtubeId) return null
-
-        // Fallback to filename parsing if tags are missing
-        let finalTitle = title
-        let finalArtist = artist
-
-        if (!finalTitle || !finalArtist) {
-          const nameWithoutExt = filename.replace(/\.txt$/, '')
-          const parts = nameWithoutExt.split(' - ')
-          if (parts.length >= 2) {
-            if (!finalArtist) finalArtist = parts[0].trim()
-            if (!finalTitle) finalTitle = parts.slice(1).join(' - ').trim()
-          } else {
-            if (!finalTitle) finalTitle = nameWithoutExt
-            if (!finalArtist) finalArtist = 'Unknown'
-          }
-        }
-
-        const isDuet = filename.toUpperCase().includes('DUET') || (content.includes('P1') && content.includes('P2'))
-
-        // Generate Cover URL if missing but we have YouTube ID
-        if (!cover && youtubeId) {
-          cover = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`
-        }
-
-        return {
-          filename,
-          title: finalTitle || filename,
-          artist: finalArtist || 'Unknown',
-          isDuet,
-          cover,
-          youtubeId,
-          addedAt,
-          language
-        }
+        const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
+        const files = await fs.readdir(SONGS_DIR)
+        keys = files.filter(f => f.endsWith('.txt'))
+        
+        // Map FS files to storage-like behavior or just process them
+        // To keep logic unified, we will process them similarly but we need to read content differently
+        // So let's branch out here
+        const songPromises = keys.map(async (filename) => {
+           try {
+             const filePath = path.join(SONGS_DIR, filename)
+             const content = await fs.readFile(filePath, 'utf-8')
+             const stats = await fs.stat(filePath)
+             const addedAt = stats.birthtimeMs || stats.mtimeMs
+             
+             return parseSong(filename, content, addedAt)
+           } catch (e) {
+             return null
+           }
+        })
+        
+        const results = await Promise.all(songPromises)
+        cachedSongs = results.filter((s): s is SongListItem => s !== null)
+        return cachedSongs
       } catch (e) {
-        console.error(`Error parsing ${filename}`, e)
+        console.error('Error reading local songs directory', e)
+      }
+    }
+
+    const txtFiles = keys.filter((k: string) => k.endsWith('.txt'))
+
+    const songPromises = txtFiles.map(async (key: string): Promise<SongListItem | null> => {
+      try {
+        const content = await storage.getItem(key) as string
+        if (!content) return null
+
+        // We don't have reliable file stats in all storage drivers, use current time or 0
+        const meta = await storage.getMeta(key)
+        const mtime = meta?.mtime
+        const addedAt = mtime ? new Date(mtime).getTime() : 0
+
+        return parseSong(key, content, addedAt)
+      } catch (e) {
+        console.error(`Error parsing ${key}`, e)
         return null
       }
     })
 
     const results = await Promise.all(songPromises)
-    cachedSongs = results.filter((s: any): s is SongListItem => s !== null)
+    const validSongs = results.filter((s): s is SongListItem => s !== null)
+    cachedSongs = validSongs
 
     return cachedSongs || []
   } catch (e) {
@@ -127,18 +112,62 @@ export const getSongList = async (): Promise<SongListItem[]> => {
   }
 }
 
+const parseSong = (filename: string, content: string, addedAt: number): SongListItem => {
+    const title = extractHeaderValue(content, 'TITLE')
+    const artist = extractHeaderValue(content, 'ARTIST')
+    const language = extractHeaderValue(content, 'LANGUAGE')
+    let cover = extractHeaderValue(content, 'COVER')
+    const youtubeId = extractYoutubeId(content)
+
+    // Fallback to filename parsing if tags are missing
+    let finalTitle = title
+    let finalArtist = artist
+
+    if (!finalTitle || !finalArtist) {
+      const nameWithoutExt = filename.replace(/\.txt$/, '')
+      const parts = nameWithoutExt.split(' - ')
+      if (parts.length >= 2) {
+        if (!finalArtist) finalArtist = parts[0].trim()
+        if (!finalTitle) finalTitle = parts.slice(1).join(' - ').trim()
+      } else {
+        if (!finalTitle) finalTitle = nameWithoutExt
+        if (!finalArtist) finalArtist = 'Unknown'
+      }
+    }
+
+    const isDuet = filename.toUpperCase().includes('DUET') || (content.includes('P1') && content.includes('P2'))
+
+    // Generate Cover URL if missing but we have YouTube ID
+    if (!cover && youtubeId) {
+      cover = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`
+    }
+
+    return {
+      filename,
+      title: finalTitle || filename,
+      artist: finalArtist || 'Unknown',
+      isDuet,
+      cover,
+      youtubeId,
+      addedAt,
+      language
+    }
+}
+
 export const getSongContent = async (filename: string): Promise<string | null> => {
   try {
-    // Try main songs dir
-    const filePath = path.join(SONGS_DIR, filename)
-    return await fs.readFile(filePath, 'utf-8')
-  } catch (e) {
-    // Try demo songs dir as fallback
-    try {
-      const demoPath = path.join(DEMO_SONGS_DIR, filename)
-      return await fs.readFile(demoPath, 'utf-8')
-    } catch (e2) {
-      return null
+    const storage = useStorage('assets:songs')
+    const content = await storage.getItem(filename)
+    if (content) return content as string
+    
+    if (process.env.NODE_ENV === 'development') {
+        const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
+        const filePath = path.join(SONGS_DIR, filename)
+        return await fs.readFile(filePath, 'utf-8')
     }
+    return null
+  } catch (e) {
+    console.error(`Error reading song content ${filename}`, e)
+    return null
   }
 }

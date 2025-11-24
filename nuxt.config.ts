@@ -19,6 +19,14 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt'
   ],
+  nitro: {
+    serverAssets: [
+      {
+        baseName: 'songs',
+        dir: 'public/songs'
+      }
+    ]
+  },
   build: {
     transpile: ['vue-virtual-scroller']
   }
