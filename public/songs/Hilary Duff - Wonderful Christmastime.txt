@@ -1,0 +1,266 @@
+#ARTIST:Hilary Duff
+#TITLE:Wonderful Christmastime
+#MP3:Hilary Duff - Wonderful Christmastime.mp3
+#CREATOR:britneyblisswilliams
+#EDITION:Christmas
+#GENRE:Pop
+#YEAR:2002
+#LANGUAGE:English
+#BPM:291.2
+#GAP:22300
+#VIDEO:a=ueMquBWk3Mw,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/da/eb/ca/daebca67-4c2e-e95a-4af1-d4c2f87bf904/00094637187753.jpg/5000x5000bb.jpg,bg=hilary-duff-4dded378b3b58.jpg,tags=Christmas
+: 0 2 -1 The 
+: 4 2 4 mood 
+: 8 4 6 is 
+: 16 6 8 right 
+- 24
+: 52 2 -1 The 
+: 56 3 4 spi
+: 60 4 6 rits 
+: 68 4 8 up 
+- 74
+: 104 2 -1 We’re 
+: 108 4 4 here 
+: 116 2 6 to
+: 120 4 8 night 
+- 126
+: 156 2 -1 And 
+: 160 4 4 that’s 
+: 166 4 6 e
+: 172 4 8 nough 
+- 178
+: 200 10 8 Sim
+: 212 8 6 ply 
+: 224 9 9 ha
+: 234 1 11 ~
+: 236 1 9 ~
+: 238 6 8 ving 
+- 246
+: 248 2 4 A 
+: 252 3 11 won
+: 256 3 9 der
+: 260 2 8 ful 
+: 264 5 4 Christ
+: 270 4 4 mas 
+: 276 12 4 time 
+- 290
+: 300 14 8 Sim
+* 316 8 6 ply 
+: 328 9 9 ha
+: 338 1 11 ~
+: 340 1 9 ~
+: 342 6 8 ving 
+- 350
+: 352 2 4 A 
+: 356 3 11 won
+: 360 2 9 der
+: 364 2 8 ful 
+: 368 5 4 Christ
+: 374 4 4 mas 
+: 380 12 4 time 
+- 394
+: 414 2 -1 The 
+: 418 4 4 par
+: 424 4 6 ty’s 
+: 430 6 8 on 
+- 438
+: 466 2 -1 The 
+: 470 3 4 fee
+: 474 4 6 ling’s 
+: 482 4 8 here 
+- 488
+: 518 2 -1 It’s 
+: 522 4 4 all 
+* 528 4 6 be
+: 534 6 8 cause 
+- 542
+: 570 3 11 It’s 
+: 574 2 11 ti
+: 578 4 13 ~me 
+: 584 2 11 of 
+: 588 2 8 the 
+: 592 6 4 year 
+- 600
+: 614 10 8 Sim
+: 626 8 6 ply 
+* 638 9 9 ha
+: 648 1 11 ~
+: 650 1 9 ~
+: 652 6 8 ving 
+- 659
+: 660 2 4 A 
+: 664 3 11 won
+: 668 2 9 der
+: 672 2 8 ful 
+: 676 5 4 Christ
+: 682 4 4 mas 
+: 688 12 4 time 
+- 702
+: 714 14 8 Sim
+: 730 8 6 ply 
+: 742 11 9 ha
+: 754 8 8 ving 
+- 764
+: 766 2 4 A 
+: 770 3 11 won
+: 774 2 9 der
+: 778 2 8 ful 
+* 782 5 4 Christ
+: 788 4 4 mas 
+: 794 10 4 time 
+- 806
+: 1040 8 11 A 
+: 1052 12 8 choir 
+: 1068 8 4 of 
+: 1080 10 6 chil
+: 1092 8 6 dren 
+: 1108 8 11 sing 
+: 1118 10 11 their 
+: 1132 12 4 song 
+- 1146
+: 1248 8 11 They 
+: 1260 12 8 prac
+: 1274 8 4 tice 
+: 1286 10 6 all 
+: 1300 8 6 night 
+: 1312 2 6 lo
+: 1316 12 8 ~ng 
+- 1330
+: 1450 2 -1 The 
+: 1454 4 4 word 
+: 1460 4 6 is 
+: 1466 4 8 out 
+- 1472
+: 1502 2 -1 A
+: 1506 4 4 bout 
+: 1512 2 6 the 
+: 1518 6 8 town 
+- 1526
+: 1554 2 -1 To 
+: 1558 4 4 lick 
+: 1564 4 6 your 
+: 1570 4 8 glass 
+- 1576
+: 1592 14 13 I 
+: 1610 14 11 don’t 
+: 1626 10 8 doubt 
+- 1638
+: 1648 12 8 Simp
+: 1662 8 6 ly 
+: 1674 7 9 ha
+: 1682 1 11 ~
+: 1684 2 9 ~
+: 1688 6 8 ving 
+- 1695
+: 1696 2 4 A 
+: 1700 4 11 won
+: 1706 2 9 der
+: 1710 2 8 ful 
+* 1714 5 4 Christ
+: 1720 4 4 mas 
+: 1726 10 4 time 
+- 1738
+: 1748 14 8 Sim
+: 1764 8 6 ply 
+: 1778 11 9 ha
+: 1790 6 8 ving 
+- 1798
+: 1800 2 4 A 
+: 1804 4 11 won
+: 1810 2 9 der
+: 1814 2 8 ful 
+: 1818 4 4 Christ
+: 1824 4 4 mas 
+: 1830 10 4 time 
+- 1842
+: 2072 2 -1 The 
+: 2076 2 4 mood 
+: 2080 4 6 is 
+: 2088 4 8 right 
+- 2094
+: 2124 2 -1 The 
+: 2128 2 4 spi
+: 2132 4 6 rits 
+: 2140 4 8 up 
+- 2146
+: 2176 2 -1 We’re 
+: 2180 4 4 here 
+: 2186 2 6 to
+: 2190 6 8 night 
+- 2198
+: 2226 2 -1 And 
+* 2230 6 4 that’s 
+: 2238 2 6 e
+: 2244 6 8 nough 
+- 2252
+: 2270 11 8 Sim
+: 2282 8 6 ply 
+: 2294 9 9 ha
+: 2304 1 11 ~
+: 2306 1 9 ~
+: 2308 6 8 ving 
+- 2315
+: 2316 2 4 A 
+: 2320 4 11 won
+: 2326 2 9 der
+: 2330 2 8 ful 
+: 2334 4 4 Christ
+: 2340 4 4 mas 
+: 2346 8 4 time 
+- 2356
+: 2372 11 8 Sim
+: 2384 8 6 ply 
+: 2396 9 9 ha
+: 2406 1 11 ~
+: 2408 1 9 ~
+: 2410 6 8 ving 
+- 2418
+: 2420 2 4 A 
+: 2424 4 11 won
+: 2430 2 9 der
+: 2434 2 8 ful 
+: 2438 4 4 Christ
+: 2444 4 4 mas 
+: 2450 8 4 time 
+- 2464
+: 2470 16 8 Sim
+: 2488 8 6 ply 
+: 2500 9 9 ha
+: 2510 1 11 ~
+: 2512 1 9 ~
+: 2514 6 8 ving 
+- 2522
+: 2524 2 4 A 
+: 2528 2 11 won
+: 2532 2 9 der
+: 2536 4 8 ful 
+: 2542 4 4 Christ
+: 2548 4 4 mas 
+: 2554 16 4 time 
+- 2574
+: 2578 13 8 Sim
+: 2592 10 6 ply 
+* 2606 11 9 ha
+: 2618 6 8 ving 
+- 2626
+: 2628 2 4 A 
+: 2632 4 11 won
+: 2638 2 9 der
+: 2642 2 8 ful 
+: 2646 4 4 Christ
+: 2652 4 4 mas 
+: 2658 10 4 time 
+- 2670
+: 2784 14 8 Sim
+: 2800 10 6 ply 
+: 2814 11 9 ha
+: 2826 6 8 ving 
+- 2834
+: 2836 2 4 A 
+: 2840 4 11 won
+: 2846 2 9 der
+: 2850 2 8 ful 
+: 2854 4 4 Christ
+: 2860 4 4 mas 
+: 2866 10 4 time 
+E

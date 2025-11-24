@@ -1,0 +1,711 @@
+#ARTIST:Neneh Cherry
+#TITLE:Buffalo Stance
+#MP3:Neneh Cherry - Buffalo Stance.mp3
+#CREATOR:daggeg
+#YEAR:1988
+#LANGUAGE:English
+#BPM:245.32
+#GAP:13260
+#VIDEO:v=JWsRz3TJDEY,co=buffalo-stance-5f4ad38a64612.jpg,bg=cherry-neneh-53538b1eeca0c.jpg
+R 0 1 0 Who’s 
+R 7 1 0 that 
+R 12 1 0 gi
+R 15 1 0 go
+R 17 1 0 lo 
+R 22 1 0 on 
+R 27 1 0 the 
+R 29 1 0 street 
+- 32
+R 35 1 0 With 
+R 37 1 0 his 
+R 39 1 0 hands 
+R 44 1 0 in 
+R 46 1 0 his 
+R 49 1 0 pock
+R 51 1 0 ets 
+R 53 1 0 and 
+R 55 1 0 his 
+R 58 1 0 cro
+R 60 1 0 co
+R 62 1 0 dile 
+R 67 1 0 feet 
+- 70
+R 72 1 0 Hang
+R 74 1 0 ing 
+R 76 1 0 ofR 
+R 81 1 0 the 
+R 83 1 0 curb, 
+R 90 1 0 look
+R 92 1 0 ing 
+R 94 1 0 all 
+R 99 1 0 dis
+R 102 1 0 turbed 
+- 105
+R 108 1 0 At 
+R 111 1 0 the 
+R 113 1 0 boys 
+R 117 1 0 from 
+R 122 1 0 home, 
+R 129 1 0 they 
+R 131 1 0 all 
+R 136 1 0 came 
+R 140 1 0 run
+R 142 1 0 ning 
+- 144
+R 145 1 0 They 
+R 147 1 0 were 
+R 150 1 0 mak
+R 152 1 0 ing 
+R 157 1 0 noise, 
+R 163 1 0 man
+R 168 1 0 hand
+R 172 1 0 ling 
+R 175 1 0 toys 
+- 178
+R 182 1 0 That’s 
+R 184 1 0 the 
+R 186 1 0 girls 
+R 191 1 0 on 
+R 193 1 0 the 
+R 195 1 0 block 
+R 200 1 0 with 
+R 202 1 0 the 
+R 204 1 0 nas
+R 209 1 0 ty 
+R 213 1 0 curls 
+- 216
+R 219 1 0 Wear
+R 221 1 0 ing 
+R 223 1 0 pad
+R 225 1 0 ded 
+R 230 1 0 bras 
+R 237 1 0 suck
+R 239 1 0 ing 
+R 241 1 0 beers 
+R 246 1 0 through 
+R 251 1 0 straws 
+- 254
+R 255 1 0 Drop
+R 257 1 0 ping 
+R 259 1 0 down 
+R 264 1 0 their 
+R 268 1 0 drawers, 
+R 273 1 0 where 
+R 275 1 0 did 
+R 277 1 0 you 
+R 282 1 0 get 
+R 287 1 0 yours? 
+- 290
+R 306 1 4 Gi
+R 308 1 4 go
+R 310 1 4 lo, 
+: 316 3 6 Huh, 
+: 332 2 6 suck
+: 335 3 8 er 
+- 340
+R 342 1 0 Gi
+R 344 1 0 go
+R 346 2 0 lo. 
+- 350
+R 379 1 0 Gi
+R 381 1 0 go
+R 383 1 0 lo, 
+: 389 3 6 Huh, 
+: 405 2 6 suck
+: 408 3 8 er 
+- 413
+: 445 1 0 Who’s 
+: 447 1 -2 look
+: 449 1 -4 ing 
+: 451 3 -2 good 
+: 456 1 -4 to
+: 458 7 0 day? 
+- 467
+: 481 1 0 Who’s 
+: 483 1 -2 look
+: 485 1 -4 ing 
+: 488 3 -2 good 
+: 493 1 -4 in 
+: 497 4 -2 e
+: 502 1 -4 very 
+* 505 7 0 way? 
+- 514
+: 520 3 -2 No 
+: 525 2 -2 style 
+: 529 2 -4 rook
+: 532 7 0 ie 
+- 541
+: 554 1 -2 You 
+: 556 1 -2 bet
+: 558 1 -2 ter 
+: 561 3 -2 watch 
+: 566 2 -4 don’t 
+: 570 3 -2 mess 
+: 575 2 -4 with 
+: 578 8 0 me 
+- 588
+* 621 3 3 No 
+* 626 1 5 mo
+* 628 3 3 ney 
+* 633 7 3 man 
+: 649 1 0 can 
+: 651 3 0 win 
+: 656 4 5 my 
+: 663 8 3 love
+: 672 6 5 ~ 
+- 680
+: 694 2 5 It’s 
+: 698 8 10 sweet
+: 708 6 7 ness 
+: 717 6 3 that 
+: 726 7 0 I’m 
+: 735 4 0 think
+: 740 1 -2 ing 
+: 742 7 -2 oR 
+- 751
+: 775 1 0 We 
+: 777 1 -2 al
+: 779 1 -4 ways 
+: 781 4 -2 hang 
+: 786 1 -2 in 
+: 788 1 -2 a 
+: 790 1 -2 Buff
+: 792 1 -2 a
+: 794 3 -4 lo 
+: 799 7 0 Stance 
+- 808
+: 811 1 0 We 
+: 813 1 -2 do 
+: 815 1 -4 the 
+: 817 3 -2 dive 
+: 822 1 -2 e
+: 824 2 -4 very 
+: 827 3 -2 time 
+: 831 2 -4 we 
+: 834 7 0 dance 
+- 843
+: 848 1 0 I’ll 
+: 850 1 -2 give 
+: 852 1 -4 you 
+: 854 3 -2 love 
+: 859 1 -2 ba
+: 861 1 -4 by 
+: 863 2 -2 not 
+: 868 2 -4 ro
+: 871 6 0 mance 
+- 879
+: 884 1 0 I’ll 
+: 886 1 -2 make 
+: 888 1 -4 a 
+* 891 3 -2 move 
+: 895 1 -2 no
+: 897 1 -4 thing 
+: 900 3 -2 left 
+: 904 2 -4 to 
+: 907 5 0 chance 
+- 913
+: 914 2 -2 So 
+: 918 4 3 don’t 
+: 930 1 -2 you 
+: 932 1 -2 get 
+: 937 2 5 fresh 
+: 941 2 5 with 
+: 946 3 0 me 
+- 951
+R 1015 2 0 Get 
+R 1019 2 0 funk
+R 1023 2 0 y. 
+- 1027
+R 1050 2 0 Yeah 
+R 1056 1 0 Tim
+R 1058 3 0 my 
+- 1063
+R 1083 1 0 So 
+R 1092 1 0 you 
+R 1101 1 0 say 
+R 1104 1 0 you 
+R 1106 1 0 want
+R 1108 1 0 ed 
+R 1111 1 0 mon
+R 1113 1 0 ey 
+R 1115 1 0 but 
+R 1117 1 0 you 
+R 1120 1 0 know 
+R 1122 1 0 it’s 
+R 1124 1 0 ne
+R 1127 1 0 ver 
+R 1129 1 0 fun
+R 1131 1 0 ny 
+- 1133
+R 1133 1 0 When 
+R 1135 1 0 your 
+R 1138 1 0 shoes 
+R 1143 1 0 worn 
+R 1147 1 0 through 
+R 1150 1 0 and 
+R 1152 1 0 there’s 
+R 1154 1 0 a 
+R 1157 1 0 rum
+R 1159 1 0 ble 
+R 1161 1 0 in 
+R 1163 1 0 your 
+R 1166 1 0 tum
+R 1168 1 0 my 
+- 1170
+R 1171 1 0 But 
+R 1173 1 0 you 
+R 1175 1 0 had 
+R 1177 1 0 to 
+R 1179 1 0 have 
+R 1184 1 0 style 
+R 1189 1 0 get 
+R 1191 1 0 a 
+R 1193 1 0 gold 
+R 1198 1 0 tooth 
+R 1203 1 0 smile 
+- 1206
+R 1207 1 0 Put 
+R 1209 1 0 a 
+R 1211 1 0 girl 
+R 1216 1 0 on 
+R 1218 1 0 the 
+R 1221 1 0 cor
+R 1223 1 0 ner 
+R 1225 1 0 so 
+R 1228 1 0 you 
+R 1232 1 0 can 
+R 1234 1 0 make 
+R 1237 1 0 a 
+R 1239 1 0 pile 
+- 1242
+R 1246 1 0 Com
+R 1249 1 0 mit
+R 1251 1 0 ted 
+R 1253 1 0 a 
+R 1256 1 0 crime 
+R 1262 1 0 and 
+R 1267 1 0 went 
+R 1269 1 0 in
+R 1275 1 0 side 
+- 1278
+R 1280 1 0 It 
+R 1283 1 0 was 
+R 1285 1 0 com
+R 1287 1 0 ing 
+R 1290 1 0 your 
+R 1294 1 0 way 
+R 1299 1 0 but 
+R 1301 1 0 you 
+R 1303 1 0 had 
+R 1306 1 0 to 
+R 1308 1 0 sur
+R 1312 1 0 vive 
+- 1315
+R 1317 1 0 When 
+R 1319 1 0 you 
+R 1321 1 0 lost 
+R 1326 1 0 your 
+R 1329 1 0 babe, 
+R 1338 1 0 you 
+R 1340 1 0 lost 
+R 1345 1 0 the 
+R 1347 1 0 race 
+- 1350
+R 1354 1 0 Now 
+R 1356 1 0 you’re 
+R 1358 1 0 look
+R 1361 1 0 ing 
+R 1363 1 0 at 
+R 1367 1 0 me 
+R 1372 1 0 to 
+R 1374 1 0 take 
+R 1379 1 0 her 
+R 1384 1 0 place 
+- 1387
+: 1398 1 0 Who’s 
+: 1400 1 -2 look
+: 1402 1 -4 ing 
+: 1404 3 -2 good 
+: 1409 1 -4 to
+: 1411 7 0 day? 
+- 1420
+: 1434 1 0 Who’s 
+: 1436 1 -2 look
+: 1438 1 -4 ing 
+: 1441 3 -2 good 
+: 1445 3 -4 in 
+: 1450 3 -2 e
+: 1454 1 -4 very 
+: 1457 7 0 way? 
+- 1466
+: 1472 3 -2 No 
+: 1477 3 -2 style 
+* 1482 1 -4 rook
+* 1484 7 0 ie 
+- 1493
+: 1507 1 -2 You 
+: 1509 1 -2 bet
+: 1511 1 -2 ter 
+: 1514 3 -2 watch 
+: 1519 3 -4 don’t 
+: 1523 3 -2 mess 
+: 1528 1 -4 with 
+: 1530 7 0 me 
+- 1539
+: 1573 3 3 No 
+: 1578 2 5 mo
+: 1581 3 3 ney 
+: 1586 7 3 man 
+: 1601 2 0 can 
+: 1604 3 0 win 
+: 1609 4 5 my 
+: 1615 8 3 love
+: 1624 6 5 ~ 
+- 1632
+: 1647 2 5 It’s 
+: 1651 8 10 sweet
+: 1660 6 7 ness 
+: 1669 6 3 that 
+: 1678 7 0 I’m 
+: 1687 4 0 think
+: 1692 1 -2 ing 
+: 1695 9 -2 oR 
+- 1706
+: 1728 1 0 We 
+: 1730 1 -2 al
+: 1732 1 -4 ways 
+* 1734 3 -2 hang 
+* 1738 1 -2 in 
+: 1740 1 -2 a 
+: 1743 1 -2 Buff
+: 1745 1 -2 a
+: 1747 3 -4 lo 
+: 1752 7 0 Stance 
+- 1761
+: 1764 1 0 We 
+: 1766 1 -2 do 
+: 1768 1 -4 the 
+: 1770 3 -2 dive 
+: 1775 1 -2 e
+: 1777 2 -4 very 
+: 1780 3 -2 time 
+: 1784 2 -4 we 
+: 1787 7 0 dance 
+- 1796
+: 1800 1 0 I’ll 
+: 1802 1 -2 give 
+: 1804 1 -4 you 
+: 1807 3 -2 love 
+: 1811 1 -2 ba
+: 1813 1 -4 by 
+: 1816 3 -2 not 
+: 1821 2 -4 ro
+: 1824 6 0 mance 
+- 1832
+: 1837 1 0 I’ll 
+: 1839 1 -2 make 
+: 1841 1 -4 a 
+: 1844 3 -2 move 
+: 1849 1 -2 no
+: 1851 1 -4 thing 
+: 1853 3 -2 left 
+: 1858 1 -4 to 
+: 1860 5 0 chance 
+- 1866
+: 1866 2 -2 So 
+* 1871 4 3 don’t 
+: 1883 1 -2 you 
+: 1885 1 -2 get 
+: 1890 2 5 fresh 
+: 1894 2 5 with 
+: 1899 3 0 me 
+- 1904
+R 1930 2 0 Smok
+R 1935 4 0 in’, 
+- 1941
+R 1967 1 0 Not 
+R 1972 2 0 cok
+R 1977 3 0 in’, 
+- 1982
+R 2003 1 0 Get 
+R 2008 1 0 funk
+R 2010 1 0 y 
+R 2013 3 0 sax 
+- 2018
+: 2058 1 6 Look
+: 2060 1 6 ing 
+: 2063 5 6 good, 
+: 2072 1 6 hang
+: 2074 1 6 ing 
+: 2076 1 3 with 
+: 2079 1 3 the 
+: 2082 3 6 wild 
+: 2087 3 3 bunch 
+- 2092
+: 2096 1 6 Look
+: 2098 1 6 ing 
+: 2100 3 6 good 
+: 2105 1 3 in 
+: 2107 1 3 a 
+: 2110 1 8 Buff
+: 2112 1 8 a
+: 2114 2 8 lo 
+: 2119 4 3 Stance 
+- 2125
+: 2132 1 8 Look
+: 2134 1 8 ing 
+: 2137 3 8 good 
+: 2142 1 3 when 
+: 2144 1 3 it 
+: 2146 1 3 comes 
+: 2151 1 3 to 
+: 2154 2 6 the 
+: 2159 4 3 crunch 
+- 2165
+: 2168 1 8 Look
+: 2170 1 8 ing 
+: 2173 3 8 good’s 
+: 2178 2 3 a 
+: 2182 2 8 state 
+: 2185 2 8 oR 
+: 2190 3 3 mind 
+- 2195
+: 2204 1 13 State 
+: 2206 1 11 oR 
+: 2209 2 6 mind 
+: 2214 2 3 don’t 
+: 2219 2 6 look 
+: 2224 1 3 be
+: 2226 3 6 hind 
+: 2232 3 3 you 
+- 2237
+: 2242 1 8 State 
+: 2244 1 6 oR 
+: 2246 2 8 mind 
+: 2251 2 3 or 
+: 2256 2 8 you’ll 
+: 2260 2 8 be 
+: 2265 3 3 dead 
+- 2270
+: 2279 1 13 State 
+: 2281 1 11 oR 
+: 2283 2 6 mind 
+: 2288 2 3 may 
+: 2292 2 6 I 
+: 2297 2 3 re
+: 2300 3 6 mind 
+: 2305 3 3 you 
+- 2310
+R 2315 1 0 Bomb 
+R 2318 1 0 the 
+R 2321 1 0 Bass, 
+- 2324
+R 2338 1 0 Rock 
+R 2343 1 0 this 
+R 2348 1 0 place! 
+- 2351
+R 2365 2 0 What 
+R 2368 1 0 is 
+R 2374 4 0 he 
+R 2380 6 0 like? 
+- 2388
+R 2402 2 0 What’s 
+R 2409 4 0 he 
+R 2416 3 0 like 
+R 2423 1 0 a
+R 2426 1 0 ny
+R 2428 2 0 way? 
+- 2432
+R 2475 2 0 Yo 
+R 2479 3 0 man 
+R 2485 1 0 what 
+R 2487 1 0 do 
+R 2489 1 0 you 
+R 2491 1 0 ex
+R 2495 4 0 pect, 
+- 2500
+R 2500 1 0 The 
+R 2502 1 0 guy’s 
+R 2508 1 0 a 
+R 2511 1 0 gi
+R 2514 1 0 go
+R 2517 2 0 lo 
+R 2524 8 0 man 
+- 2534
+R 2593 1 0 You 
+R 2595 1 0 know 
+R 2597 1 0 what 
+R 2599 1 0 I 
+R 2601 3 0 mean? 
+- 2606
+: 2635 3 3 No 
+: 2640 2 5 mo
+: 2643 3 3 ney 
+: 2648 7 3 man 
+: 2663 2 0 can 
+: 2666 3 0 win 
+: 2671 4 5 my 
+: 2677 8 3 love
+: 2686 6 5 ~ 
+- 2694
+: 2709 2 5 It’s 
+* 2714 8 10 sweet
+* 2723 6 7 ness 
+: 2732 6 3 that 
+: 2741 7 0 I’m 
+: 2750 3 0 think
+: 2754 2 -2 ing 
+: 2757 7 -2 oR 
+- 2766
+: 2790 1 0 We 
+: 2792 1 -2 al
+: 2794 1 -4 ways 
+: 2796 3 -2 hang 
+: 2801 1 -2 in 
+: 2803 1 -4 a 
+: 2805 1 -2 Buff
+: 2808 1 -2 a
+: 2810 3 -4 lo 
+: 2815 6 0 Stance 
+- 2823
+: 2826 1 10 We 
+: 2828 1 8 do 
+: 2830 1 5 the 
+: 2833 3 3 dive 
+: 2837 1 3 e
+: 2839 2 3 very 
+: 2842 3 3 time 
+: 2846 2 6 we 
+: 2849 6 3 dance 
+- 2857
+: 2862 2 10 I’ll 
+: 2865 1 8 give 
+: 2867 1 5 you 
+: 2870 2 8 love 
+: 2874 1 3 ba
+: 2876 1 3 by 
+: 2878 3 3 not 
+: 2883 4 3 ro
+: 2888 5 3 mance 
+- 2895
+: 2900 1 10 I’ll 
+: 2902 1 8 make 
+: 2904 1 5 a 
+: 2906 3 8 move 
+: 2911 1 3 no
+: 2913 1 3 thing 
+: 2915 3 10 left 
+: 2920 1 8 to 
+: 2922 5 3 chance 
+- 2928
+: 2929 2 0 So 
+: 2934 4 8 don’t 
+: 2945 1 0 you 
+: 2947 2 0 get 
+: 2952 2 8 fresh 
+: 2956 2 8 with 
+: 2961 3 0 me 
+- 2966
+R 2979 1 0 Wind 
+R 2983 1 0 on 
+R 2987 1 0 my 
+R 2993 5 0 face, 
+R 3008 4 0 sound 
+R 3016 1 0 in 
+R 3020 2 0 my 
+R 3026 6 0 ears 
+- 3034
+R 3043 1 0 Wa
+R 3047 1 0 ter 
+R 3051 2 0 from 
+R 3056 1 0 my 
+R 3060 9 0 eyes, 
+R 3075 1 0 and 
+R 3080 2 0 you 
+R 3085 1 0 on 
+R 3090 1 0 my 
+R 3095 6 0 mind 
+- 3103
+R 3107 1 0 As 
+R 3110 1 0 I 
+R 3116 5 0 sink, 
+R 3133 1 0 div
+R 3137 1 0 ing 
+R 3140 3 0 down 
+R 3147 3 0 deep, 
+- 3152
+R 3171 2 0 Deep
+R 3175 2 0 er 
+R 3182 2 0 in
+R 3189 2 0 to 
+R 3194 2 0 your 
+R 3202 7 0 soul 
+- 3211
+* 3258 3 3 No 
+: 3264 2 5 mo
+: 3267 3 3 ney 
+: 3271 7 3 man 
+* 3286 2 0 can 
+* 3289 3 0 win 
+: 3294 4 5 my 
+: 3300 8 3 love
+: 3309 6 5 ~ 
+- 3317
+: 3331 2 5 It’s 
+: 3336 8 10 sweet
+: 3345 6 7 ness 
+: 3354 6 3 that 
+: 3364 7 0 I’m 
+: 3373 4 0 think
+: 3378 1 -2 ing 
+: 3380 9 -2 oR 
+- 3391
+: 3405 3 3 No 
+: 3410 2 5 mo
+: 3413 3 3 ney 
+: 3417 7 3 man 
+: 3432 2 0 can 
+: 3435 3 0 win 
+* 3440 4 5 my 
+* 3447 8 3 love
+* 3456 7 5 ~ 
+- 3465
+: 3478 2 5 It’s 
+: 3483 8 10 sweet
+: 3492 6 7 ness 
+: 3501 6 3 that 
+: 3510 7 0 I’m 
+: 3519 4 0 think
+: 3524 2 -2 ing 
+: 3527 9 -2 oR 
+- 3538
+: 3551 3 3 No 
+: 3557 2 5 mo
+: 3560 3 3 ney 
+: 3565 7 3 man 
+: 3579 2 0 can 
+: 3582 3 0 win 
+: 3587 4 5 my 
+: 3594 8 3 love
+: 3603 7 5 ~ 
+- 3612
+: 3624 3 3 No 
+* 3630 2 5 mo
+* 3633 3 3 ney 
+: 3637 7 3 man 
+: 3652 2 0 can 
+: 3655 3 0 win 
+: 3660 4 5 my 
+* 3667 8 3 love
+* 3676 8 5 ~ 
+- 3686
+R 3698 2 3 No 
+R 3703 1 5 mo
+R 3706 1 3 ney 
+R 3710 6 3 man 
+R 3724 1 0 can 
+R 3727 2 0 win 
+R 3733 2 5 my 
+R 3740 6 3 love
+R 3749 9 5 ~ 
+E

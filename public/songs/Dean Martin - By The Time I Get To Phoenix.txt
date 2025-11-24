@@ -1,0 +1,177 @@
+#ARTIST:Dean Martin
+#TITLE:By The Time I Get To Phoenix
+#MP3:Dean Martin - By The Time I Get To Phoenix.mp3
+#CREATOR:dude76
+#YEAR:1968
+#LANGUAGE:English
+#BPM:364
+#GAP:10880
+#VIDEO:v=KJODBg9oW3U,co=https://media.hitparade.ch/cover/big/dean_martin-not_enough_indians_s.jpg,bg=martin-dean-5110b0dce51ed.jpg
+: 0 4 2 By 
+: 6 4 4 the 
+: 12 20 4 time 
+: 52 10 4 I 
+: 64 4 4 get 
+: 70 4 2 to 
+: 76 4 4 Phoe
+: 82 16 4 nix 
+- 100
+: 118 8 2 She’ll 
+: 128 10 9 be 
+* 140 10 9 ri
+* 152 62 6 sing 
+- 216
+: 260 6 2 She’ll 
+: 268 28 4 find 
+: 298 4 2 the 
+: 304 20 4 notes 
+: 326 4 4 I 
+: 332 6 4 left 
+: 340 6 4 hang
+: 348 20 4 in’ 
+- 370
+: 388 6 2 On 
+: 396 4 9 her 
+: 402 4 9 do
+: 408 56 6 ~or 
+- 466
+* 522 6 9 She’ll 
+: 530 6 11 laugh
+: 538 24 9 ~ 
+- 564
+: 578 4 9 When 
+: 584 4 9 she 
+: 590 8 9 reads 
+: 600 4 4 the 
+: 606 32 9 part 
+- 639
+: 640 6 7 That 
+: 648 8 9 says 
+: 658 4 11 I’m 
+: 664 8 9 leav
+: 674 60 9 in’ 
+- 736
+: 780 6 2 ’Cause 
+: 788 4 4 I’ve 
+: 794 10 7 left 
+: 806 8 7 that 
+: 816 32 7 girl 
+- 850
+: 858 14 6 So 
+: 874 4 6 ma
+: 880 4 6 ny 
+: 886 26 4 times 
+: 914 4 4 be
+: 920 4 6 fore
+: 926 54 4 ~ 
+- 982
+: 1040 8 2 By 
+: 1050 4 4 the 
+: 1056 28 4 time 
+: 1090 8 4 I 
+: 1100 6 4 make 
+: 1108 4 4 Al
+: 1114 4 2 bu
+: 1120 4 4 quer
+: 1126 12 4 que 
+- 1140
+: 1164 10 2 She’ll 
+: 1176 14 9 be 
+: 1192 8 9 work
+: 1202 60 6 ing 
+- 1264
+: 1306 8 2 She’ll 
+: 1316 6 4 pro
+: 1324 12 4 b’bly 
+: 1356 12 4 stop 
+: 1370 4 2 at 
+: 1376 12 4 lunch 
+- 1390
+: 1406 6 2 And 
+: 1414 6 2 give 
+: 1422 12 9 me 
+: 1436 4 6 a 
+: 1442 6 9 call
+: 1450 52 6 ~ 
+- 1504
+: 1554 8 11 But 
+: 1564 8 11 she’ll 
+: 1574 38 11 just 
+: 1614 6 11 hear 
+: 1622 6 11 that 
+: 1630 38 11 phone 
+: 1678 12 7 keep 
+: 1692 6 9 on 
+: 1700 14 11 ring
+: 1716 60 9 in’ 
+- 1778
+: 1812 10 4 Off 
+: 1824 4 6 the 
+: 1830 4 6 wall
+: 1836 108 4 ~ 
+- 1946
+* 1954 8 4 That’s 
+* 1964 76 4 all 
+- 2042
+: 2078 6 2 By 
+: 2086 4 4 the 
+: 2092 28 4 time 
+: 2128 8 4 I 
+: 2138 8 4 make 
+: 2148 4 4 O
+: 2154 4 2 kla
+: 2160 6 4 ho
+: 2168 12 4 ma 
+- 2182
+: 2336 4 4 She 
+: 2342 4 4 will 
+: 2348 6 4 turn 
+: 2356 12 4 sof
+: 2370 12 4 tly 
+- 2384
+: 2408 6 4 Call 
+: 2418 4 4 my 
+: 2424 32 4 name
+: 2458 12 2 ~ 
+: 2472 8 9 out 
+: 2482 4 9 low
+: 2488 62 6 ~ 
+- 2552
+: 2584 8 14 And 
+: 2594 8 14 she’ll 
+: 2604 4 14 cr
+: 2610 24 11 y 
+- 2636
+: 2648 8 11 Just 
+: 2658 4 11 to 
+: 2664 34 11 think 
+: 2712 10 9 I’d 
+: 2724 6 9 real
+: 2732 6 11 ly 
+: 2740 6 9 leave 
+: 2748 62 9 her 
+- 2812
+: 2852 6 2 Tho’ 
+: 2860 24 6 time 
+: 2886 4 6 ’n’ 
+: 2892 22 6 time 
+: 2916 4 6 I 
+: 2922 34 6 tried 
+- 2958
+: 2972 10 9 To 
+: 2984 4 9 tell 
+: 2990 4 9 her 
+: 2996 4 9 so
+: 3002 50 6 ~ 
+- 3054
+: 3108 6 4 She 
+: 3116 8 6 just 
+: 3126 6 4 di’n’t 
+: 3134 56 4 know 
+- 3192
+: 3220 6 4 I 
+: 3228 6 4 would 
+: 3236 4 4 real
+: 3242 6 9 ly 
+* 3250 294 6 go 
+E

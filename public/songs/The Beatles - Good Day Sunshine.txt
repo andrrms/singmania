@@ -1,0 +1,195 @@
+#ARTIST:The Beatles
+#TITLE:Good Day Sunshine
+#MP3:The Beatles - Good Day Sunshine.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:238
+#GAP:8450
+#VIDEO:a=R9ncBUcInTM,co=revolver-54883ce38e623.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 8 18 Good 
+: 12 8 15 day 
+: 23 8 18 sun
+: 36 8 15 shine 
+- 46
+: 64 8 18 Good 
+: 76 8 15 day 
+: 88 8 18 sun
+: 100 8 15 shine 
+- 110
+: 128 8 20 Good 
+: 140 8 18 day 
+: 152 8 16 sun
+: 164 8 14 shine 
+- 174
+: 182 1 4 I 
+: 184 4 9 need 
+: 190 1 11 to 
+: 192 4 13 laugh 
+- 198
+: 215 1 13 And 
+: 217 3 13 when 
+: 222 1 9 the 
+: 224 2 11 sun 
+: 227 2 6 is 
+* 230 4 9 out 
+- 236
+: 258 6 20 I’ve 
+: 265 6 18 got 
+: 273 5 16 some
+: 279 1 16 thing 
+: 281 3 14 I 
+: 286 3 13 can 
+: 294 3 14 laugh 
+: 298 3 13 a
+: 303 4 9 bout 
+- 309
+: 311 2 9 I 
+: 315 3 11 feel 
+* 319 4 13 good 
+- 325
+: 344 2 13 In 
+: 347 3 9 a 
+: 352 1 11 spe
+: 354 3 6 cial 
+: 360 8 9 way 
+- 370
+: 387 6 20 I’m 
+: 395 6 18 in 
+: 403 5 16 love 
+: 409 1 16 and 
+: 411 3 14 it’s 
+: 416 3 13 a 
+* 424 3 14 sun
+* 428 3 13 ny 
+: 433 6 9 day 
+- 441
+: 452 8 18 Good 
+: 465 8 15 day 
+: 477 8 18 sun
+: 490 8 15 shine 
+- 500
+: 517 8 18 Good 
+: 530 8 15 day 
+: 541 8 18 sun
+: 554 8 15 shine 
+- 564
+* 582 8 20 Good 
+: 594 8 18 day 
+: 606 8 16 sun
+: 618 8 14 shine 
+- 628
+: 636 1 4 We 
+: 638 4 9 take 
+: 644 1 11 a 
+: 646 5 13 walk 
+- 653
+: 669 2 13 The 
+: 672 3 13 sun 
+: 677 2 9 is 
+: 680 4 11 shi
+: 685 2 6 ning 
+: 688 8 9 down 
+- 698
+: 712 6 20 Burns 
+: 720 6 18 my 
+* 728 4 16 feet 
+: 733 2 16 as 
+: 736 3 14 they 
+: 741 3 13 touch 
+: 747 2 13 the 
+: 750 16 9 ground
+: 768 4 8 ~
+: 774 4 6 ~ 
+- 780
+: 909 8 18 Good 
+: 922 8 15 day 
+* 934 8 18 sun
+* 947 8 15 shine 
+- 957
+: 974 8 18 Good 
+: 987 8 15 day 
+: 999 8 18 sun
+: 1012 8 15 shine 
+- 1022
+: 1040 8 20 Good 
+: 1052 8 18 day 
+: 1064 8 16 sun
+: 1076 8 14 shine 
+- 1086
+: 1097 4 9 Then 
+: 1103 1 11 we 
+: 1105 5 13 lie 
+- 1112
+* 1127 2 13 Be
+* 1130 3 13 neath 
+: 1135 2 9 a 
+: 1138 4 11 sha
+: 1143 2 6 dy 
+: 1146 8 9 tree 
+- 1156
+: 1170 6 20 I 
+: 1178 6 18 love 
+: 1186 5 16 her 
+: 1192 2 16 and 
+: 1195 3 14 she’s 
+: 1200 3 13 lo
+: 1204 3 14 ving 
+: 1208 6 9 me 
+- 1216
+: 1224 2 9 She 
+: 1227 4 11 feels 
+: 1232 5 13 good 
+- 1239
+: 1257 2 13 She 
+: 1260 3 13 knows 
+: 1265 2 9 she’s 
+: 1268 1 11 look
+: 1270 2 6 ing 
+: 1273 8 9 fine 
+- 1283
+: 1301 6 20 I’m 
+: 1308 6 18 so 
+* 1316 5 16 proud 
+: 1322 2 16 to 
+: 1325 3 14 know 
+: 1330 3 13 that 
+: 1338 2 14 she 
+: 1341 3 13 is 
+: 1346 8 9 mine 
+- 1356
+: 1366 8 18 Good 
+: 1379 8 15 day 
+: 1391 8 18 sun
+: 1404 8 15 shine 
+- 1414
+: 1431 8 18 Good 
+* 1444 8 15 day 
+: 1455 8 18 sun
+: 1468 8 15 shine 
+- 1478
+: 1496 8 20 Good 
+: 1509 8 18 day 
+: 1520 8 16 sun
+: 1533 8 14 shine 
+- 1543
+: 1553 8 18 Good 
+: 1565 8 15 day 
+: 1576 8 20 sun
+: 1589 8 18 shine 
+- 1599
+: 1617 8 18 Good 
+: 1629 8 15 day 
+* 1640 8 20 sun
+* 1653 8 18 shine 
+- 1663
+: 1680 8 20 Good 
+: 1693 8 18 day 
+: 1704 8 16 sun
+: 1717 8 14 shine 
+- 1727
+* 1736 8 21 Good 
+* 1749 8 19 day 
+* 1760 8 17 sun
+* 1773 8 15 shine. 
+E

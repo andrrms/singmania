@@ -1,0 +1,620 @@
+#ARTIST:Flight of the Conchords
+#TITLE:Business Time
+#MP3:Flight of the Conchords - Business Time.mp3
+#CREATOR:Desidiosus
+#EDITION:Rock Band Network
+#YEAR:2008
+#LANGUAGE:English
+#BPM:396.51
+#GAP:5860
+#VIDEO:a=pie4igBlgww,co=flight-of-the-conchords-50643ba5d6975.jpg,bg=flight-of-the-conchords-4e4ac18154fca.jpg
+F 0 31 19 Oh 
+- 33
+F 95 11 19 Girl 
+- 108
+F 167 1 19 To
+F 169 3 19 night 
+F 174 1 19 we’re 
+F 177 1 19 gon
+F 179 1 19 na 
+F 183 2 19 make 
+F 188 7 19 love 
+- 197
+F 206 1 19 You 
+F 209 2 19 know 
+F 212 5 19 how 
+F 218 1 19 I 
+F 221 8 19 know? 
+- 231
+F 259 1 19 Be
+F 262 2 19 cause 
+F 267 2 19 it’s 
+F 274 6 19 Wednes
+F 283 5 19 day 
+- 290
+F 309 2 19 And 
+F 313 3 19 Wednes
+F 319 2 19 day 
+F 322 3 19 night 
+F 327 2 19 is 
+F 330 2 19 the 
+F 334 3 19 night 
+F 339 2 19 that 
+F 343 4 19 we 
+F 349 2 19 u
+F 353 2 19 sual
+F 356 2 19 ly 
+F 362 3 19 make 
+F 368 7 19 love 
+- 377
+F 407 3 19 Mon
+F 411 2 19 day 
+F 415 3 19 night 
+F 419 2 19 is 
+F 424 6 19 my 
+F 432 3 19 night 
+F 438 1 19 to 
+F 443 4 19 cook 
+- 449
+F 464 3 19 Tues
+F 469 2 19 day 
+F 473 4 19 night 
+F 479 3 19 we 
+F 484 2 19 go 
+F 487 2 19 and 
+F 491 2 19 vis
+F 494 1 19 it 
+F 498 2 19 your 
+F 503 3 19 mo
+F 507 3 19 ther 
+- 512
+F 521 2 19 But 
+F 525 8 19 Wednes
+F 536 7 19 day 
+F 552 2 19 we 
+F 556 3 19 make 
+F 576 4 19 sweet 
+F 583 3 19 week
+F 591 2 19 ly 
+F 595 8 19 love 
+- 605
+F 682 2 19 It’s 
+F 686 3 19 when 
+F 690 3 19 eve
+F 694 3 19 ry
+F 699 5 19 thing 
+F 705 3 19 is 
+F 711 2 19 just 
+F 717 9 19 right 
+- 728
+F 746 2 19 There’s 
+F 751 2 19 no
+F 756 4 19 thing 
+F 762 2 19 good 
+F 765 5 19 on 
+F 772 4 19 T
+F 778 7 19 V 
+- 787
+F 820 1 19 You 
+F 822 2 19 have
+F 825 2 19 n’t 
+F 829 2 19 had 
+F 833 2 19 your 
+F 837 4 19 af
+F 844 1 19 ter 
+F 846 6 19 work 
+F 861 3 19 so
+F 867 4 19 cial 
+F 878 3 19 sports 
+F 887 4 19 team 
+F 892 3 19 prac
+F 899 2 19 tice 
+- 903
+F 905 2 19 So 
+F 908 2 19 you’re 
+F 911 2 19 not 
+F 917 3 19 too 
+F 923 10 19 tired 
+- 935
+F 965 18 19 Oh 
+F 1000 2 19 it’s 
+F 1005 9 19 all 
+F 1015 15 19 on 
+- 1032
+F 1080 4 19 You 
+F 1085 3 19 lean 
+F 1091 5 19 in 
+F 1097 2 19 and 
+F 1101 2 19 whis
+F 1107 2 19 per 
+F 1111 3 19 some
+F 1115 3 19 thing 
+F 1122 2 19 se
+F 1129 2 19 xy 
+F 1132 2 19 in 
+F 1136 3 19 my 
+F 1142 5 19 ear 
+F 1149 5 19 like 
+- 1156
+F 1169 1 19 I 
+F 1171 4 19 might 
+F 1176 2 19 go 
+F 1180 1 19 to 
+F 1184 3 19 bed 
+F 1190 4 19 now 
+F 1195 2 19 I’ve 
+F 1201 2 19 got 
+F 1205 3 19 work 
+F 1210 1 19 in 
+F 1213 1 19 the 
+F 1217 4 19 mor
+F 1223 4 19 ning 
+- 1229
+F 1267 17 19 Ooh 
+- 1286
+F 1313 1 19 I 
+F 1315 3 19 know 
+F 1319 2 19 what 
+F 1323 1 19 you’re 
+F 1327 2 19 tryin’ 
+F 1331 2 19 to 
+F 1335 4 19 say 
+F 1342 9 19 girl 
+- 1353
+F 1384 2 19 You’re 
+F 1389 3 19 tryin’ 
+F 1393 2 19 to 
+F 1397 4 19 say 
+F 1405 10 19 aww 
+F 1417 12 19 yeah 
+- 1431
+F 1463 3 19 It’s 
+F 1471 3 19 busi
+F 1478 2 19 ness 
+F 1486 13 19 time 
+- 1501
+F 1529 3 19 It’s 
+F 1538 3 19 busi
+F 1543 3 19 ness 
+F 1552 14 19 time 
+- 1568
+: 1618 6 14 It’s 
+: 1636 8 10 busi
+: 1652 6 7 ness
+: 1659 5 5 ~ 
+: 1685 5 14 it’s 
+: 1702 7 10 busi
+: 1718 3 7 ness 
+: 1727 5 13 time
+: 1733 4 14 ~ 
+- 1739
+: 1751 2 24 I 
+: 1755 2 25 know 
+: 1759 1 24 what 
+: 1763 1 22 you’re 
+: 1768 6 24 tryin’ 
+: 1775 2 22 to 
+: 1781 3 24 say 
+- 1785
+: 1786 2 22 You’re 
+: 1792 2 24 tryin’ 
+: 1795 2 22 to 
+: 1801 1 24 say 
+: 1803 2 22 it’s 
+: 1809 2 24 time 
+: 1813 2 22 for 
+: 1817 2 24 busi
+: 1822 1 22 ness 
+: 1825 3 24 it’s 
+: 1835 3 26 busi
+: 1843 2 19 ness 
+: 1850 4 19 time 
+: 1859 5 26 ooh
+: 1865 4 24 ~ 
+- 1871
+: 1883 6 14 It’s 
+* 1900 7 10 busi
+* 1916 7 7 ness
+* 1924 5 5 ~ 
+* 1949 6 14 it’s 
+* 1966 7 10 busi
+* 1982 2 7 ness 
+* 1992 7 13 time
+* 2000 4 14 ~ 
+- 2006
+: 2038 8 25 Oh
+: 2047 3 24 ~ 
+: 2063 7 25 oh
+: 2071 3 24 ~ 
+: 2077 6 24 oh 
+: 2090 8 25 oh
+: 2099 10 26 ~ 
+: 2115 9 19 yeah 
+- 2126
+F 2149 5 19 Then 
+F 2156 1 19 we’re 
+F 2158 2 19 in 
+F 2162 1 19 the 
+F 2166 5 19 bath
+F 2175 9 19 room 
+- 2186
+F 2208 3 19 Bru
+F 2215 2 19 shing 
+F 2219 4 19 our 
+F 2228 9 19 teeth 
+- 2239
+F 2261 2 19 That’s 
+F 2265 3 19 all 
+F 2272 4 19 part 
+F 2277 2 19 of 
+F 2281 1 19 the 
+F 2287 5 19 fore
+F 2296 6 19 play 
+- 2304
+F 2328 2 19 I 
+F 2334 6 19 love 
+F 2344 5 19 fore
+F 2355 6 19 play 
+- 2363
+F 2389 2 19 A-
+F 2395 3 19 shig
+F 2399 2 19 ga 
+F 2404 2 19 shig
+F 2407 2 19 ga 
+F 2414 2 19 a-
+F 2420 2 19 shig
+F 2425 2 19 ga 
+F 2429 2 19 shig
+F 2433 2 19 ga 
+- 2437
+F 2440 1 19 A-
+F 2445 3 19 shig
+F 2450 1 19 ga 
+F 2454 2 19 shig 
+F 2457 11 19 ow! 
+- 2470
+F 2532 1 19 Then 
+F 2534 3 19 you 
+F 2540 3 19 sort 
+F 2544 3 19 out 
+F 2549 1 19 the 
+F 2551 2 19 re
+F 2557 4 19 cy
+F 2565 8 19 cling 
+- 2575
+F 2591 2 19 That 
+F 2594 2 19 is
+F 2597 3 19 n’t 
+F 2602 3 19 part 
+F 2606 2 19 of 
+F 2610 1 19 the 
+F 2614 3 19 fore
+F 2619 3 19 play 
+F 2625 3 19 pro
+F 2631 2 19 cess 
+- 2635
+F 2637 1 19 But 
+F 2640 1 19 it 
+F 2643 2 19 is 
+F 2649 4 19 still 
+F 2655 3 19 ver
+F 2659 1 19 y 
+F 2661 3 19 im
+F 2666 4 19 por
+F 2672 3 19 tant 
+- 2677
+F 2732 2 19 Next 
+F 2737 2 19 thing 
+F 2741 2 19 you 
+F 2744 3 19 know 
+F 2748 2 19 we’re 
+F 2752 2 19 in 
+F 2756 1 19 the 
+F 2761 5 19 bed
+F 2769 8 19 room 
+- 2779
+F 2791 3 19 You’re 
+F 2795 5 19 wea
+F 2801 2 19 rin’ 
+F 2806 3 19 that 
+F 2812 4 19 bag
+F 2818 2 19 gy 
+F 2822 7 19 old 
+F 2831 3 19 ug
+F 2837 2 19 ly 
+F 2842 4 19 T-
+F 2848 4 19 shirt 
+- 2854
+F 2855 2 19 You 
+F 2859 3 19 got 
+F 2866 2 19 from 
+F 2870 2 19 your 
+F 2874 5 19 work 
+F 2883 2 19 seve
+F 2888 3 19 ral 
+F 2893 4 19 years 
+F 2899 2 19 a
+F 2903 9 19 go 
+- 2914
+F 2939 14 19 Mmm 
+F 2955 2 19 you 
+F 2959 3 19 know 
+F 2964 1 19 the 
+F 2967 4 19 one 
+F 2974 5 19 ba
+F 2980 8 19 by 
+- 2990
+F 3004 2 19 With 
+F 3008 1 19 the 
+F 3013 3 19 cur
+F 3017 3 19 ry 
+F 3026 8 19 stain 
+- 3036
+F 3065 35 19 Ow 
+F 3105 7 19 ah 
+- 3114
+F 3206 3 19 I 
+F 3210 2 19 re
+F 3215 6 19 move 
+F 3226 3 19 my 
+F 3233 10 19 clothes 
+F 3250 5 19 ver
+F 3257 5 19 y 
+F 3266 4 19 ver
+F 3271 4 19 y 
+F 3281 5 19 clum
+F 3289 3 19 si
+F 3293 7 19 ly 
+- 3302
+F 3328 1 19 Trip
+F 3333 6 19 ping 
+F 3344 4 19 sen
+F 3352 1 19 su
+F 3354 2 19 ous
+F 3361 3 19 ly 
+F 3367 2 19 o
+F 3371 2 19 ver 
+F 3375 3 19 my 
+F 3381 9 19 pants 
+- 3392
+F 3448 8 19 Now 
+F 3459 6 19 I’m 
+F 3467 4 19 na
+F 3474 6 19 ked 
+F 3491 2 19 ex
+F 3497 2 19 cept 
+F 3501 2 19 for 
+F 3505 3 19 my 
+F 3512 7 19 socks 
+- 3521
+F 3540 2 19 And 
+F 3543 2 19 you 
+F 3547 8 19 know 
+F 3556 2 19 when 
+F 3559 4 19 I’m 
+F 3565 4 19 down 
+F 3571 3 19 to 
+F 3576 2 19 just 
+F 3582 4 19 my 
+F 3589 6 19 socks 
+- 3597
+F 3628 2 19 What 
+F 3634 4 19 time 
+F 3640 2 19 it 
+F 3644 8 19 is 
+- 3654
+F 3710 9 19 Uh 
+- 3721
+: 3733 6 14 It’s 
+: 3751 8 10 busi
+: 3767 6 7 ness
+: 3774 4 5 ~ 
+: 3800 5 14 it’s 
+: 3817 7 10 busi
+: 3832 3 7 ness 
+: 3841 6 13 time
+: 3848 4 14 ~ 
+- 3854
+: 3856 1 22 You 
+: 3862 5 26 know 
+: 3870 1 24 when 
+: 3872 2 24 I’m 
+: 3879 3 24 down 
+: 3883 2 22 to 
+: 3887 3 22 my 
+: 3895 3 22 socks 
+- 3900
+: 3903 1 22 It’s 
+: 3908 2 24 time 
+: 3912 1 22 for 
+: 3916 2 24 busi
+: 3921 1 22 ness 
+- 3924
+: 3925 3 24 That’s 
+: 3933 3 24 why 
+: 3937 1 22 they’re 
+: 3941 4 24 called 
+: 3949 3 25 busi
+: 3958 2 19 ness 
+: 3966 2 22 socks 
+- 3970
+: 3973 9 26 Ooh
+: 3983 4 19 ~ 
+- 3989
+: 3998 6 14 It’s 
+* 4014 6 10 busi
+* 4031 7 7 ness
+* 4039 4 5 ~ 
+* 4064 6 14 it’s 
+* 4081 6 10 busi
+* 4097 2 7 ness 
+* 4106 7 13 time
+* 4114 5 14 ~ 
+- 4121
+: 4123 12 26 Ooh 
+: 4139 5 24 hoo 
+: 4148 5 24 hoo
+: 4154 5 23 ~ 
+: 4161 3 24 hoo
+: 4165 6 22 ~ 
+: 4173 7 24 oh 
+: 4181 4 25 yeah
+: 4186 3 22 ~
+: 4190 7 19 ~ 
+: 4201 2 17 uh 
+: 4207 7 24 yeah
+: 4215 11 19 ~ 
+- 4228
+: 4270 2 6 Ma
+: 4275 2 6 kin’ 
+: 4279 6 7 love 
+- 4287
+: 4337 2 6 Ma
+: 4341 2 6 kin’ 
+: 4345 4 7 love 
+F 4354 6 7 for 
+- 4362
+: 4403 2 6 Ma
+: 4407 2 6 kin’ 
+: 4410 5 7 love 
+: 4419 1 5 for 
+: 4423 7 10 two 
+- 4432
+: 4469 2 10 Ma
+: 4473 2 10 king 
+: 4477 3 10 love 
+: 4481 2 7 for 
+: 4487 4 12 two
+: 4492 7 14 ~ 
+F 4501 3 7 min
+F 4505 3 7 utes 
+F 4512 15 7 mmm 
+- 4529
+F 4550 2 19 When 
+F 4553 1 19 it’s 
+F 4556 2 19 with 
+F 4561 3 19 me 
+F 4566 5 19 girl 
+F 4572 1 19 you 
+F 4576 3 19 on
+F 4580 2 19 ly 
+F 4584 3 19 need 
+F 4591 3 19 two 
+F 4596 1 19 min
+F 4599 3 19 utes 
+- 4604
+F 4621 2 19 Be
+F 4625 2 19 cause 
+F 4629 4 19 I’m 
+F 4638 4 19 so 
+F 4643 4 19 in
+F 4653 6 19 tense 
+- 4661
+F 4770 2 19 You 
+F 4773 2 19 whis
+F 4777 2 19 per 
+F 4781 2 19 some
+F 4785 3 19 thing 
+F 4791 2 19 sex
+F 4796 2 19 y 
+F 4800 5 19 like 
+- 4807
+F 4819 1 19 Is 
+F 4823 3 19 that 
+F 4828 5 19 it? 
+- 4835
+F 4870 1 19 I 
+F 4872 2 19 know 
+F 4875 1 19 what 
+F 4878 1 19 you’re 
+F 4881 2 19 tryin’ 
+F 4885 1 19 to 
+F 4888 3 19 say 
+F 4894 7 19 girl 
+- 4903
+F 4914 1 19 You’re 
+F 4917 2 19 tryin’ 
+F 4920 2 19 to 
+F 4924 3 19 say 
+F 4930 10 19 aww 
+F 4942 5 19 yeah 
+F 4949 4 19 that’s 
+F 4958 5 19 it 
+- 4965
+F 4992 2 19 Then 
+F 4995 2 19 you 
+F 4999 2 19 tell 
+F 5003 1 19 me 
+F 5005 1 19 you 
+F 5007 3 19 want 
+F 5014 2 19 some 
+F 5019 9 19 more 
+F 5030 5 19 well 
+F 5037 5 19 uh 
+- 5044
+F 5068 4 19 I’m 
+F 5074 2 19 not 
+F 5080 1 19 sur
+F 5085 13 19 prised 
+- 5100
+F 5134 1 19 But 
+F 5136 6 19 I’m 
+F 5147 3 19 quite 
+F 5156 3 19 sleep
+F 5163 7 19 y 
+- 5172
+: 5219 15 26 Mmm 
+: 5253 6 14 it’s 
+: 5270 8 10 busi
+: 5287 6 7 ness
+: 5294 4 5 ~ 
+: 5320 5 14 it’s 
+: 5337 7 10 busi
+: 5353 3 7 ness 
+: 5361 6 13 time
+: 5368 4 14 ~ 
+- 5374
+: 5400 3 26 Busi
+: 5407 3 23 ness 
+: 5414 6 24 hours
+: 5421 4 22 ~ 
+: 5427 1 24 are 
+: 5433 7 26 o
+: 5443 4 19 ver 
+: 5460 5 25 ba
+: 5466 5 24 ~
+: 5477 13 24 by
+: 5491 11 22 ~ 
+- 5504
+: 5518 5 14 It’s 
+: 5535 7 10 busi
+: 5552 12 7 ness 
+: 5584 6 14 it’s 
+: 5601 8 10 busi
+: 5617 2 7 ness 
+: 5626 6 13 time
+: 5633 5 14 ~ 
+- 5640
+: 5643 12 26 Ooh 
+: 5659 5 24 hoo 
+: 5668 4 24 hoo
+: 5673 5 23 ~ 
+: 5681 3 24 hoo
+: 5685 7 22 ~ 
+: 5693 7 24 oh 
+: 5702 3 25 yeah
+: 5706 4 22 ~
+: 5711 6 19 ~ 
+: 5721 2 17 uh 
+: 5727 7 24 yeah
+: 5735 10 19 ~ 
+- 5747
+: 6086 5 25 Oh
+: 6092 5 24 ~ 
+: 6110 6 25 oh
+: 6117 4 24 ~ 
+: 6125 6 24 oh 
+: 6138 7 25 oh
+: 6146 9 26 ~ 
+: 6162 7 19 yeah 
+E

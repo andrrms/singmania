@@ -1,0 +1,206 @@
+#ARTIST:Starmarket
+#TITLE:Amber
+#MP3:Starmarket - Amber.mp3
+#CREATOR:daggeg
+#YEAR:1995
+#LANGUAGE:English
+#BPM:394.49
+#GAP:23400
+#VIDEO:v=FzJp9oh6kF8,co=https://i.discogs.com/g8jWG_Wm51HYb35Qapn0mnchl8DfsfJXez_83r7ScHs/rs:fit/g:sm/q:90/h:593/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgz/NDYtMTI3NDg1Nzgw/OS5qcGVn.jpeg
+: 0 3 11 De
+: 4 5 11 li
+: 11 5 11 vered 
+: 18 5 11 me
+: 25 5 11 mo
+: 32 4 11 ries 
+: 39 4 11 to 
+: 46 10 11 am
+: 58 3 7 ber 
+: 63 6 7 all 
+: 72 3 9 the 
+: 77 8 7 time. 
+- 87
+: 124 3 11 You 
+: 128 5 11 don’t 
+: 136 5 11 ask 
+: 144 4 11 for 
+: 151 6 11 am
+: 159 4 11 ber, 
+: 166 13 11 just 
+: 184 10 7 come 
+: 197 12 9 a
+: 212 10 7 round. 
+- 224
+: 244 4 19 Come 
+: 249 4 19 a
+: 256 8 16 round 
+: 266 3 14 when 
+: 271 5 14 he 
+: 279 4 11 is 
+: 287 8 16 down 
+: 298 3 14 to 
+: 303 4 14 make 
+: 309 4 16 it 
+: 316 11 14 worse. 
+- 329
+: 364 4 14 Things 
+: 371 4 14 that 
+: 377 5 16 all 
+: 385 4 14 just 
+: 392 4 14 mean 
+: 399 4 11 the 
+: 406 24 16 same 
+: 433 14 14 thing. 
+- 449
+: 482 4 2 When 
+: 488 4 2 it 
+: 496 10 6 comes 
+: 509 8 7 a
+: 520 15 7 round 
+- 537
+: 558 3 7 You 
+: 562 4 7 are 
+: 568 5 7 left 
+: 579 3 6 for
+: 584 6 7 got
+: 592 3 2 ten 
+: 597 12 2 here. 
+- 611
+: 616 8 6 Left 
+: 628 9 9 be
+: 639 16 7 hind. 
+- 657
+: 722 4 2 Now 
+: 729 4 2 it 
+: 737 4 6 all 
+: 745 8 7 comes 
+: 758 22 7 down. 
+- 782
+: 797 5 7 Fast
+: 804 4 7 er 
+: 810 5 7 than 
+: 818 3 6 you 
+: 823 6 7 know 
+: 831 3 2 it 
+: 835 5 2 will 
+- 842
+: 857 3 6 Ru
+: 861 4 6 in 
+: 869 8 9 your 
+: 879 15 7 mind. 
+- 896
+: 1428 4 11 Just 
+: 1435 4 11 take 
+: 1441 3 11 a
+: 1445 5 11 way 
+: 1453 4 11 the 
+: 1460 5 11 pain 
+: 1468 4 11 can’t 
+: 1475 8 11 stand 
+: 1486 3 7 it 
+: 1492 7 7 a
+: 1501 3 9 ny
+: 1505 9 7 more. 
+- 1516
+: 1551 4 11 Can’t 
+: 1557 4 11 do 
+: 1564 4 11 a
+: 1570 5 11 ny
+: 1577 4 11 thing 
+: 1585 4 11 but 
+: 1592 15 11 stay 
+: 1611 9 7 down 
+: 1623 11 9 all 
+: 1637 10 7 day. 
+- 1649
+: 1662 2 14 Your 
+: 1666 4 19 face 
+: 1672 5 19 ex
+: 1679 6 16 pres
+: 1687 4 14 sion 
+: 1694 5 14 leaves 
+: 1702 4 11 no 
+: 1709 8 16 an
+: 1719 3 14 swer 
+: 1724 5 14 back 
+: 1732 5 16 to 
+: 1740 10 14 me. 
+- 1752
+: 1787 3 14 Try 
+: 1793 3 14 to 
+: 1798 5 14 fall 
+: 1806 4 14 with
+: 1813 4 14 out 
+: 1821 4 11 a 
+: 1828 24 16 shel
+: 1856 22 14 ter. 
+- 1880
+: 1903 4 2 When 
+: 1909 4 2 it 
+: 1917 9 6 comes 
+: 1928 8 7 a
+: 1940 15 7 round 
+- 1957
+: 1978 4 7 You 
+: 1984 4 7 are 
+: 1991 5 7 left 
+: 2001 3 6 for
+: 2006 6 7 got
+: 2014 3 2 ten 
+: 2019 11 2 here. 
+- 2032
+: 2038 8 6 Left 
+: 2050 9 9 be
+: 2061 16 7 hind. 
+- 2079
+: 2144 4 2 Now 
+: 2152 4 2 it 
+: 2160 8 6 all 
+: 2172 7 7 comes 
+: 2183 20 7 down. 
+- 2205
+: 2221 5 7 Fast
+: 2228 4 7 er 
+: 2235 5 7 than 
+: 2243 3 6 you 
+: 2248 6 7 know 
+: 2256 2 2 it 
+: 2260 5 2 will 
+- 2267
+: 2282 3 6 Ru
+: 2286 4 6 in 
+: 2295 8 9 your 
+: 2305 14 7 mind. 
+- 2321
+: 2841 13 11 Car
+: 2858 10 14 ry 
+- 2870
+: 2889 5 11 Car
+: 2896 4 12 ry 
+: 2903 4 11 my 
+: 2911 19 14 bones 
+: 2934 4 12 out 
+: 2941 19 11 of 
+: 2964 4 9 the 
+: 2971 3 9 fi
+: 2975 11 11 ~
+: 2987 4 7 re 
+- 2993
+: 3083 13 11 Car
+: 3099 10 14 ry 
+- 3111
+: 3129 5 11 Car
+: 3136 4 12 ry 
+: 3143 4 11 my 
+: 3150 19 14 bones 
+: 3172 4 12 out 
+: 3180 19 11 of 
+: 3203 4 9 the 
+: 3210 3 9 fi
+: 3214 10 11 ~
+: 3225 4 7 re 
+- 3231
+: 3263 5 11 Tastes 
+: 3270 2 7 the 
+: 3274 6 7 same 
+E

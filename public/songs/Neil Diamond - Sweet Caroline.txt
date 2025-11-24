@@ -1,0 +1,217 @@
+#ARTIST:Neil Diamond
+#TITLE:Sweet Caroline
+#MP3:Neil Diamond - Sweet Caroline.mp3
+#CREATOR:ultrastarsongs
+#YEAR:1969
+#LANGUAGE:English
+#BPM:241.2
+#GAP:14780
+#VIDEO:a=5JfU4PKgmJc,co=https://i.discogs.com/4N2thKY4gJoQydBdLt6E3hG9KlFAOBSoGtOgNVWQlyU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkw/NC0xNDM2MDExNDgx/LTE2NDAuanBlZw.jpeg,co-crop=1-4-594-594,bg=diamond-neil-53221e68d8444.jpg
+: 0 2 3 Where 
+: 4 2 4 it 
+: 8 2 6 be
+: 12 8 6 gan, 
+- 22
+: 60 4 1 I 
+: 66 4 3 can’t 
+: 72 2 4 be
+: 76 6 4 gin 
+: 84 2 4 to 
+: 88 4 3 know
+: 94 4 1 in’, 
+- 100
+: 120 4 -1 But 
+: 126 2 1 then 
+: 130 2 3 I 
+: 134 8 3 know 
+: 144 2 3 it’s 
+* 148 6 1 grow
+* 156 4 -1 in’ 
+* 168 6 -6 strong. 
+- 176
+: 244 2 3 Was 
+: 250 1 4 in 
+: 252 1 6 the 
+: 258 6 6 spring, 
+- 266
+: 304 4 1 Then 
+: 310 4 3 spring 
+: 316 2 4 be
+: 320 4 4 came 
+: 326 2 4 the 
+: 332 2 3 sum
+: 336 2 1 mer. 
+- 340
+: 364 4 -1 Who’d 
+: 370 1 1 a 
+: 372 2 3 be
+: 376 10 3 lieved 
+: 388 4 3 you’d 
+: 394 8 1 come 
+: 404 2 -1 a
+: 408 20 1 long? 
+- 430
+: 474 34 6 Hands, 
+: 540 2 8 tou
+: 544 2 8 chin’ 
+: 548 22 8 hands, 
+- 572
+: 604 2 10 Rea
+: 609 1 10 chin’ 
+: 612 7 10 ou
+: 620 1 8 ~
+: 622 2 6 ~t 
+- 626
+: 656 2 11 Tou
+: 662 2 11 chin’ 
+: 666 14 11 me, 
+- 682
+: 700 4 11 Tou
+: 706 4 13 chin’ 
+* 712 56 13 you. 
+- 770
+: 772 12 15 Sweet 
+: 789 3 6 Ca
+: 794 2 8 ro
+: 798 10 8 line, 
+- 810
+: 846 4 8 Good 
+: 852 8 16 times 
+: 862 2 16 ne
+: 866 4 15 ver 
+: 874 6 13 seemed 
+: 884 6 11 so 
+: 892 16 6 good. 
+- 910
+: 950 12 15 I’ve 
+: 966 4 6 been 
+: 972 2 8 in
+: 978 12 8 clined 
+- 992
+: 1024 4 8 To 
+: 1030 4 16 be
+: 1036 8 16 lieve 
+: 1046 6 15 they 
+: 1055 2 13 ne
+: 1058 4 11 ver 
+: 1064 12 13 would. 
+: 1084 8 11 But 
+: 1100 10 6 now 
+: 1116 14 4 I 
+- 1132
+: 1146 2 3 Look 
+: 1150 2 4 at 
+: 1154 2 6 the 
+: 1158 8 6 night, 
+- 1168
+: 1206 4 1 And 
+: 1212 2 3 it 
+: 1216 2 4 don’t 
+: 1222 4 4 seem 
+: 1230 2 4 so 
+: 1236 4 3 lone
+: 1242 6 1 ly 
+- 1250
+: 1268 2 -1 We 
+: 1272 4 1 fill 
+: 1278 2 3 it 
+: 1282 6 3 up 
+: 1292 2 3 with 
+: 1298 4 1 on
+: 1304 4 -1 ly 
+: 1312 12 -6 two 
+- 1326
+: 1388 4 3 And 
+: 1394 2 4 when 
+: 1398 8 6 I 
+: 1408 6 6 hurt, 
+- 1416
+: 1448 4 1 Hur
+: 1454 2 3 tin’ 
+: 1458 4 4 runs 
+: 1466 4 4 off 
+: 1472 2 4 my 
+: 1478 4 3 shoul
+: 1484 6 1 der. 
+- 1492
+: 1510 4 -1 How 
+: 1516 1 1 can 
+: 1518 2 3 I 
+: 1524 10 3 hurt 
+: 1536 4 3 when 
+: 1542 4 1 hol
+: 1548 4 -1 din’ 
+: 1554 20 3 you? 
+- 1576
+: 1618 30 6 Warm, 
+* 1684 4 8 tou
+* 1690 2 8 chin’ 
+* 1696 20 8 warm, 
+- 1718
+: 1752 2 10 Rea
+: 1757 2 10 chin’ 
+: 1762 16 10 out, 
+- 1780
+: 1808 2 11 Tou
+: 1812 2 11 chin’ 
+: 1820 10 11 me, 
+- 1832
+: 1848 2 11 Tou
+: 1853 4 13 chin’ 
+: 1862 54 13 you. 
+- 1918
+* 1922 12 15 Sweet 
+* 1938 2 6 Ca
+* 1944 4 8 ro
+* 1950 14 8 line, 
+- 1966
+: 1996 4 8 Good 
+: 2002 6 16 times 
+: 2010 4 16 ne
+: 2016 4 15 ver 
+: 2024 4 13 seemed 
+: 2032 6 11 so 
+: 2042 18 6 good. 
+- 2062
+: 2104 10 15 I’ve 
+: 2117 3 6 been 
+: 2124 3 8 in
+: 2128 16 8 clined 
+- 2146
+: 2176 2 8 To 
+: 2180 4 16 be
+: 2188 6 16 lieve 
+: 2196 6 15 they 
+: 2204 6 13 ne
+: 2212 4 11 ver 
+: 2218 10 13 would. 
+: 2238 6 11 Oh, 
+: 2252 6 6 no, 
+: 2268 6 4 no, 
+- 2276
+: 2496 10 15 Sweet 
+: 2512 2 6 Ca
+: 2518 4 8 ro
+: 2524 8 8 line, 
+- 2534
+: 2570 4 8 Good 
+: 2576 6 16 times 
+: 2584 4 16 ne
+: 2590 4 15 ver 
+: 2598 4 13 seemed 
+: 2606 4 11 so 
+: 2612 14 6 good. 
+- 2628
+: 2674 10 15 Sweet 
+: 2690 2 6 Ca
+: 2696 4 8 ro
+: 2702 10 8 line, 
+- 2714
+: 2748 4 8 I 
+: 2754 4 16 be
+: 2760 6 16 lieve 
+: 2768 4 15 they 
+: 2778 2 13 ne
+: 2782 6 11 ver 
+: 2792 14 13 could. 
+E

@@ -1,0 +1,298 @@
+#ARTIST:The Police
+#TITLE:Spirits In The Material World
+#MP3:The Police - Spirits In The Material World.mp3
+#CREATOR:extraaa
+#COVER:The Police - Spirits In The Material World [CO].jpg
+#BACKGROUND:The Police - Spirits In The Material World [BG].jpg
+#GENRE:Rock
+#YEAR:1981
+#LANGUAGE:English
+#BPM:424
+#GAP:4160
+#VIDEO:v=BHOevX4DlGk,co=spirits-in-the-material-world-55c7cb4542d7c.jpg,bg=police-the-65539dc046d2b.jpg
+F 0 4 0 Oh! 
+- 60
+: 313 5 9 There 
+: 320 3 9 is 
+: 328 3 11 no 
+: 335 5 9 po
+: 342 3 12 li
+: 350 4 11 ti
+: 360 5 9 cal 
+: 370 4 7 so
+: 378 3 9 lu
+: 386 6 4 tion 
+- 448
+: 518 3 9 To 
+: 524 3 11 our 
+: 532 4 12 trou
+: 541 1 9 ble
+: 544 6 11 ~d 
+: 553 4 9 e
+: 563 6 7 vo
+: 574 4 9 lu
+: 584 5 4 tion 
+- 645
+: 710 3 9 Have 
+: 718 3 11 no 
+: 728 4 12 faith 
+: 737 3 11 in 
+* 745 5 9 Con
+* 755 4 7 sti
+* 765 3 9 tu
+* 773 4 4 tion 
+- 833
+: 892 2 9 There 
+: 896 2 9 is 
+: 904 6 11 no 
+* 915 5 12 bloo
+* 925 7 11 dy 
+: 936 5 9 re
+: 947 5 7 vo
+: 957 3 9 lu
+: 967 5 4 tion 
+- 1000
+: 1059 4 9 We 
+: 1070 5 9 are 
+: 1082 10 9 spi
+: 1094 4 2 rits 
+: 1114 3 9 in 
+: 1119 4 11 the 
+: 1125 3 12 ma
+* 1133 8 14 te
+: 1144 1 9 ria
+: 1146 7 11 ~l 
+: 1156 5 9 world 
+- 1166
+: 1168 5 9 Are 
+* 1180 10 9 spi
+* 1192 4 2 rits 
+: 1210 3 9 in 
+: 1216 3 11 the 
+: 1221 2 12 ma
+: 1227 8 14 te
+: 1237 2 9 ria
+: 1240 8 11 ~l 
+: 1251 5 9 world 
+- 1261
+: 1263 5 9 Are 
+: 1275 10 9 spi
+: 1287 4 2 rits 
+: 1307 3 9 in 
+: 1311 5 11 the 
+: 1317 3 12 ma
+: 1324 9 14 te
+: 1334 2 9 ria
+: 1337 8 11 ~l 
+* 1348 4 9 world 
+- 1358
+: 1360 3 9 Are 
+: 1372 9 9 spi
+: 1383 6 2 rits 
+: 1402 4 9 in 
+: 1407 4 11 the 
+* 1413 4 12 ma
+* 1420 7 14 te
+: 1429 1 9 ria
+: 1432 8 11 ~l 
+: 1442 10 9 world 
+- 1462
+: 1490 4 9 Our 
+: 1497 5 12 so-
+: 1505 7 11 called 
+: 1515 4 9 lea
+: 1521 5 7 ders 
+: 1538 5 9 speak 
+- 1599
+: 1683 3 11 With 
+* 1690 6 12 words, 
+: 1699 6 11 they 
+: 1707 9 9 try 
+: 1719 3 7 to 
+: 1727 9 9 jail 
+* 1739 5 4 ya 
+- 1800
+: 1875 5 9 They 
+: 1883 5 12 sub
+: 1891 6 11 ju
+: 1901 6 9 gate 
+: 1910 3 7 the 
+: 1920 6 9 meek 
+- 1982
+: 2059 2 9 But 
+: 2063 4 9 it’s 
+: 2069 5 11 the 
+: 2076 5 12 rhe
+: 2083 7 11 to
+: 2092 5 9 ric 
+: 2100 5 7 of 
+: 2111 7 9 fai
+: 2121 4 4 lure 
+- 2153
+: 2213 5 9 We 
+: 2224 4 9 are 
+: 2237 7 9 spi
+: 2248 4 2 rits 
+: 2268 3 9 in 
+: 2273 4 11 the 
+: 2279 3 12 ma
+: 2285 8 14 te
+: 2295 1 9 ria
+: 2298 7 11 ~l 
+: 2308 5 9 world 
+- 2318
+: 2320 3 9 Are 
+: 2333 9 9 spi
+: 2345 3 2 rits 
+: 2363 3 9 in 
+: 2368 4 11 the 
+: 2374 3 12 ma
+: 2380 9 14 te
+: 2391 2 9 ria
+: 2395 6 11 ~l 
+: 2405 4 9 world 
+- 2414
+: 2416 5 9 Are 
+: 2428 10 9 spi
+: 2440 4 2 rits 
+: 2459 2 9 in 
+: 2463 4 11 the 
+: 2469 3 12 ma
+: 2476 8 14 te
+: 2486 2 9 ria
+: 2490 6 11 ~l 
+: 2500 4 9 world 
+- 2510
+: 2512 5 9 Are 
+: 2524 9 9 spi
+: 2535 5 2 rits 
+: 2554 2 9 in 
+: 2559 4 11 the 
+: 2566 4 12 ma
+: 2572 8 14 te
+: 2581 2 9 ria
+: 2585 6 11 ~l 
+: 2595 53 9 worl
+: 2650 97 7 ~d 
+- 2803
+: 3220 5 11 Where 
+: 3227 5 12 does 
+: 3236 7 11 the 
+: 3245 6 9 ans
+: 3255 8 7 wer 
+* 3267 15 9 lie? 
+- 3338
+: 3420 3 11 Li
+: 3425 5 12 ving 
+: 3432 8 11 from 
+: 3444 9 9 day 
+: 3456 3 7 to 
+: 3463 11 9 day 
+- 3530
+: 3594 3 9 If 
+: 3599 4 11 it’s 
+: 3606 5 12 some
+: 3617 5 11 thing 
+: 3627 6 9 we 
+: 3635 8 7 can’t 
+: 3648 4 7 buy
+: 3654 14 9 ~ 
+- 3724
+: 3785 3 9 There 
+: 3790 4 11 must 
+: 3797 10 12 be 
+: 3809 1 9 a
+: 3812 6 11 ~
+: 3821 8 9 no
+: 3831 10 7 ther 
+: 3843 12 9 way 
+- 3883
+: 3942 5 9 We 
+: 3952 5 9 are 
+* 3964 9 9 spi
+* 3976 5 2 rits 
+: 3996 2 9 in 
+: 4001 3 11 the 
+: 4006 5 12 ma
+: 4013 8 14 te
+: 4024 2 9 ria
+: 4028 5 11 ~l 
+: 4037 4 9 world 
+- 4046
+: 4048 5 9 Are 
+: 4060 9 9 spi
+: 4072 4 2 rits 
+: 4091 3 9 in 
+: 4096 3 11 the 
+: 4101 5 12 ma
+: 4108 9 14 te
+: 4119 1 9 ria
+: 4122 8 11 ~l 
+: 4132 5 9 world 
+- 4142
+: 4144 5 9 Are 
+: 4156 9 9 spi
+: 4168 4 2 rits 
+: 4187 3 9 in 
+: 4192 3 11 the 
+: 4197 5 12 ma
+: 4204 9 14 te
+: 4215 1 9 ria
+: 4218 8 11 ~l 
+: 4228 5 9 world 
+- 4238
+: 4240 5 9 Are 
+: 4252 9 9 spi
+: 4263 4 2 rits 
+: 4282 3 9 in 
+: 4287 3 11 the 
+: 4292 5 12 ma
+: 4299 9 14 te
+: 4310 1 9 ria
+: 4313 8 11 ~l 
+: 4323 5 9 world 
+- 4333
+: 4335 5 9 Are 
+: 4347 9 9 spi
+: 4359 4 2 rits 
+: 4378 3 9 in 
+: 4383 3 11 the 
+: 4388 5 12 ma
+: 4395 9 14 te
+: 4406 1 9 ria
+: 4409 8 11 ~l 
+: 4419 5 9 world 
+- 4429
+: 4431 5 9 Are 
+: 4443 9 9 spi
+: 4455 4 2 rits 
+: 4474 3 9 in 
+: 4479 3 11 the 
+: 4483 5 12 ma
+: 4490 9 14 te
+: 4501 1 9 ria
+: 4504 8 11 ~l 
+: 4514 5 9 world 
+- 4524
+: 4526 5 9 Are 
+: 4538 9 9 spi
+: 4550 4 2 rits 
+: 4569 3 9 in 
+: 4574 3 11 the 
+: 4579 5 12 ma
+: 4586 9 14 te
+: 4597 1 9 ria
+: 4600 8 11 ~l 
+: 4610 5 9 world 
+- 4620
+F 4622 5 9 Are 
+F 4634 9 9 spi
+F 4646 4 2 rits 
+F 4665 3 9 in 
+F 4670 3 11 the 
+F 4675 5 12 ma
+F 4682 9 14 te
+F 4693 1 9 ria
+F 4696 7 11 ~l 
+F 4705 5 9 world 
+E

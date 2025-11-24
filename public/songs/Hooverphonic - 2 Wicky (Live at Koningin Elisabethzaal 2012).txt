@@ -1,0 +1,236 @@
+#ARTIST:Hooverphonic
+#TITLE:2 Wicky (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - 2 Wicky (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - 2 Wicky (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - 2 Wicky (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:62050
+#VIDEO:v=ZJSQxbedplM,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 3 4 Pro
+: 7 2 3 phet 
+: 15 8 3 six 
+- 33
+: 45 2 1 Ze
+: 48 3 1 ro 
+: 55 4 3 ze
+: 60 5 3 ro 
+: 67 9 5 nine 
+: 79 5 1 one 
+- 94
+: 122 4 3 This 
+: 127 3 3 is 
+: 131 8 3 the 
+: 141 14 3 flight 
+: 157 7 3 num
+: 166 8 1 ber 
+: 182 2 1 of 
+: 187 4 1 our 
+: 193 3 1 ga
+: 197 9 3 lac
+: 211 5 5 tic 
+: 222 16 1 sun 
+- 258
+: 285 3 10 Pro
+: 289 4 5 phet 
+: 300 9 3 six 
+- 319
+: 330 7 1 Zero 
+: 339 11 3 zero 
+: 353 9 10 nine 
+: 367 8 1 one 
+- 385
+: 406 3 1 Be
+: 411 6 3 fore 
+: 418 6 3 we 
+: 428 7 3 start 
+: 438 3 3 you 
+: 443 3 1 should 
+: 449 5 3 know 
+: 455 4 1 that 
+: 460 7 3 you’re 
+: 469 5 1 not 
+- 476
+: 478 3 1 The 
+: 482 12 3 on
+: 495 12 5 ly 
+: 508 26 6 one 
+- 540
+: 542 3 3 Who 
+: 546 3 1 can 
+: 550 6 3 hurt 
+: 559 12 1 me 
+- 611
+: 932 3 4 S 
+: 938 3 3 H 
+: 946 6 3 one 
+- 962
+: 975 7 1 Zero 
+: 984 6 3 one 
+: 1000 3 3 five
+: 1005 4 5 ~ 
+: 1012 5 1 one 
+- 1027
+: 1052 3 3 This 
+: 1057 6 3 is 
+: 1065 3 3 the 
+: 1070 9 3 se
+: 1080 3 3 ri
+: 1084 5 4 al 
+: 1091 3 3 num
+: 1097 9 1 ber 
+: 1114 2 1 of 
+: 1117 4 1 ou
+: 1123 3 1 r 
+: 1128 6 3 or
+: 1136 6 3 bi
+: 1145 5 5 tal 
+: 1155 10 1 gun 
+- 1185
+: 1216 3 10 S 
+: 1222 5 4 H 
+: 1230 19 3 one 
+: 1261 8 1 zero 
+: 1270 8 3 one 
+: 1285 4 8 five
+: 1290 5 10 ~ 
+: 1299 5 1 one 
+- 1314
+: 1338 4 1 You 
+: 1343 3 3 bet
+: 1347 3 3 ter 
+: 1351 4 3 be 
+: 1358 9 3 sure 
+: 1369 3 3 be
+: 1374 6 3 fore 
+: 1384 7 1 you 
+: 1392 6 3 leave 
+: 1400 5 1 me 
+: 1406 4 1 for 
+: 1411 2 3 a
+: 1414 12 3 no
+: 1429 9 5 ther 
+: 1441 17 6 one 
+- 1469
+: 1473 2 3 You 
+: 1477 2 1 can 
+: 1481 4 3 hurt 
+: 1487 20 1 me 
+- 1517
+* 1545 2 8 I
+* 1548 2 10 ~ 
+* 1554 8 4 can 
+* 1570 10 3 hurt 
+* 1589 9 1 you 
+- 1608
+: 1617 4 1 You 
+: 1624 10 3 can 
+- 1644
+: 1664 5 3 Hurt 
+: 1674 10 1 me 
+- 1704
+: 1760 3 3 You 
+: 1764 3 1 can 
+: 1768 7 3 hurt 
+: 1777 8 1 me 
+- 1805
+: 1830 6 10 I 
+: 1838 4 4 can 
+: 1845 10 3 hurt 
+: 1858 29 1 you 
+- 1897
+: 1905 3 1 But 
+: 1910 4 1 you 
+: 1916 3 3 bet
+: 1920 3 1 ter 
+: 1924 3 3 be 
+: 1932 7 3 sure 
+: 1941 5 1 be
+: 1947 6 3 fore 
+: 1956 6 1 you 
+: 1964 7 3 leave 
+: 1972 6 1 me 
+: 1979 5 1 for 
+: 1985 2 1 a
+: 1989 11 3 no
+: 2001 10 5 ther 
+: 2015 14 6 one 
+- 2039
+: 2047 2 1 I 
+: 2051 3 1 can 
+: 2056 4 3 hurt 
+: 2063 14 1 you 
+- 2097
+: 2119 5 10 You 
+: 2126 4 4 can 
+: 2132 4 3 hurt 
+: 2138 14 1 me 
+- 2172
+: 2192 3 1 But 
+: 2197 3 1 you 
+: 2202 4 3 bet
+: 2207 3 1 ter 
+: 2211 6 3 be 
+: 2220 7 3 sure 
+: 2229 4 1 be
+: 2234 7 3 fore 
+: 2242 6 1 you 
+: 2249 8 3 leave 
+: 2258 4 1 me 
+: 2264 7 1 for 
+: 2272 2 1 a
+: 2275 7 3 no
+: 2289 9 5 ther 
+: 2301 19 6 one 
+- 2330
+F 2358 3 1 Oh
+F 2363 2 2 ~
+F 2366 5 3 ~
+F 2375 5 4 ~
+F 2383 64 5 ~
+F 2449 10 6 ~
+F 2461 14 7 ~
+F 2477 4 8 ~ 
+- 2491
+: 2513 11 5 Uh
+: 2528 12 12 ~
+: 2543 12 13 ~
+: 2563 21 6 ~ 
+- 2604
+: 2651 13 5 Uh
+: 2668 15 12 ~
+: 2684 14 13 ~
+: 2701 45 10 ~ 
+- 2766
+: 2797 10 5 Uh
+: 2813 14 12 ~
+: 2829 13 13 ~
+: 2846 20 6 ~ 
+- 2886
+: 2940 12 5 Uh
+: 2954 14 12 ~
+: 2970 18 13 ~
+: 2991 26 10 ~ 
+- 3037
+: 3086 10 5 Uh
+: 3099 14 12 ~
+: 3114 12 13 ~
+: 3133 19 6 ~ 
+- 3172
+: 3224 14 5 Uh
+: 3244 12 12 ~
+: 3259 16 13 ~
+: 3278 43 10 ~ 
+- 3341
+: 3375 12 5 Uh
+: 3388 19 12 ~
+: 3408 13 13 ~
+: 3428 41 6 ~ 
+- 3489
+: 3523 16 5 Uh
+: 3543 19 12 ~
+: 3566 11 13 ~
+: 3581 63 10 ~ 
+E

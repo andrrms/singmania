@@ -1,0 +1,183 @@
+#ARTIST:The Good, The Bad & The Queen
+#TITLE:Drifters & Trawlers
+#MP3:The Good, The Bad & The Queen - Drifters & Trawlers.mp3
+#CREATOR:daggeg
+#YEAR:2018
+#LANGUAGE:English
+#BPM:241.75
+#GAP:13630
+#VIDEO:v=S-RzsHk7toU,co=merrie-land-5eb43ac99931b.jpg,bg=good-the-bad--the-queen-the-53f37a21b2f1c.jpg
+: 0 4 -1 I’ve 
+: 7 8 -3 done 
+: 20 2 -1 en
+: 24 5 -1 ough 
+: 35 2 1 to
+: 39 5 1 day 
+- 54
+: 63 5 8 Sweet 
+: 71 9 6 Lord 
+: 83 2 4 I’ve 
+: 87 6 4 done 
+: 99 2 4 e
+: 103 4 4 nough 
+: 114 2 1 to
+: 118 4 1 day 
+- 124
+: 126 4 -1 I’ve 
+: 134 8 -3 seen 
+: 146 2 -1 the 
+: 150 9 -1 jet
+: 162 2 1 sam 
+: 166 14 1 rise 
+: 196 2 -1 and 
+: 203 15 1 fall 
+- 224
+: 226 2 -3 ’Cause 
+: 230 5 -3 they 
+: 238 2 -3 got 
+: 242 2 -1 them 
+: 246 5 -1 all 
+- 252
+: 254 2 -1 They 
+: 257 2 -1 were 
+* 261 6 1 traw
+* 269 4 1 ling 
+- 283
+: 293 6 6 Down 
+: 301 2 6 at 
+: 305 2 6 the 
+: 309 2 4 bot
+: 313 2 4 tom 
+- 315
+: 317 5 4 Where 
+: 325 2 4 e
+* 329 2 1 very
+* 333 2 1 thing 
+* 340 4 1 ends 
+- 347
+: 349 2 -1 And 
+: 352 2 -3 the 
+: 356 9 -3 lov
+: 368 2 -1 ers 
+: 372 8 -1 I 
+: 385 2 1 have 
+: 389 11 1 lost 
+: 417 2 -1 have 
+: 421 7 1 gone 
+- 460
+: 664 4 -1 I’ve 
+: 672 7 -3 done 
+: 685 2 -1 e
+: 689 5 -1 nough 
+: 701 2 1 to
+: 705 5 1 day 
+- 720
+: 728 4 8 Sweet 
+: 736 8 6 Lord 
+: 748 2 4 I’ve 
+: 752 5 4 done 
+: 765 2 4 e
+: 769 5 4 nough 
+: 780 2 1 to
+: 784 5 1 day 
+- 789
+: 791 4 -1 I’ve 
+: 799 8 -3 seen 
+: 811 2 -1 the 
+* 815 9 -1 jet
+* 827 2 1 sam 
+: 831 15 1 rise 
+: 860 2 -1 and 
+: 866 15 1 fall 
+- 884
+: 886 2 -1 Sing
+: 890 2 -1 ing 
+: 894 5 -3 back 
+: 902 2 -3 to 
+: 906 2 -3 the 
+: 910 7 -1 sands 
+: 926 2 1 run 
+: 930 2 -1 a
+: 934 7 1 shore 
+- 951
+: 958 3 6 Fixed 
+: 965 3 6 odds 
+: 973 7 4 and 
+: 985 2 4 with 
+: 989 2 4 lit
+: 993 2 1 tle 
+: 997 5 1 care 
+- 1002
+: 1004 4 1 I 
+: 1012 4 -1 shall 
+: 1021 6 -3 go 
+: 1030 2 -3 in
+: 1033 2 -3 to 
+* 1037 5 -1 town 
+: 1045 2 -1 in 
+: 1049 2 -1 the 
+* 1053 2 1 dev
+* 1057 2 1 il’s 
+* 1061 10 1 name, 
+: 1082 2 -1 a
+: 1085 14 1 lone 
+- 1131
+: 1351 1 6 When 
+: 1353 1 6 the 
+: 1356 9 6 sea 
+: 1370 2 4 is 
+: 1377 8 1 glass 
+- 1395
+: 1413 1 6 And 
+: 1415 1 6 the 
+: 1418 6 6 land 
+: 1430 2 4 is 
+: 1434 6 4 dark 
+: 1445 8 1 still 
+- 1462
+: 1465 2 6 Throw 
+: 1469 2 6 a
+: 1473 2 6 way 
+: 1477 2 6 your 
+: 1481 6 6 fears
+: 1489 1 4 ~ 
+- 1496
+* 1498 2 8 Throw 
+* 1502 2 8 a
+* 1506 2 8 way 
+: 1510 2 8 the 
+: 1514 6 8 nets
+: 1522 1 6 ~ 
+- 1525
+: 1527 3 6 And 
+: 1533 26 10 throw 
+: 1569 2 11 a
+: 1573 16 11 way 
+: 1595 2 9 the 
+: 1600 13 9 past 
+- 1623
+: 1634 2 11 When 
+: 1637 2 11 it’s 
+: 1641 5 11 tak
+: 1648 3 9 en 
+: 1655 10 9 you 
+- 1675
+: 1687 4 11 Half 
+: 1695 2 11 of 
+: 1698 2 11 the 
+: 1702 5 11 day 
+: 1711 2 9 to 
+: 1715 2 9 get 
+: 1719 6 13 o
+: 1727 2 13 ver 
+: 1731 2 13 the 
+: 1735 5 13 waves
+: 1742 2 11 ~ 
+- 1746
+: 1748 3 11 You 
+: 1754 2 11 carve
+: 1758 33 13 ~
+: 1807 2 -1 a
+* 1812 4 -1 way
+* 1819 9 13 ~ 
+E

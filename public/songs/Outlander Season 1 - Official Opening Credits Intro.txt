@@ -1,0 +1,112 @@
+#ARTIST:Outlander Season 1
+#TITLE:Official Opening Credits Intro
+#MP3:Outlander Season 1 - Official Opening Credits Intro.mp3
+#CREATOR:lava
+#COVER:Outlander Season 1 - Official Opening Credits Intro [CO].jpg
+#BACKGROUND:Outlander Season 1 - Official Opening Credits Intro [BG].jpg
+#LANGUAGE:English
+#BPM:300.2
+#GAP:420
+#VIDEO:v=_jKK6IkWmfI,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/77/7c/93777cfb-7572-3495-72fc-f6fa6062bde7/dj.cchwrpvt.jpg/5000x5000bb.jpg
+: 0 11 -3 Sing 
+: 13 3 -1 me 
+: 18 5 -3 a 
+: 28 12 2 song 
+: 43 3 2 of 
+: 50 3 2 a 
+: 55 5 4 lass 
+: 68 5 6 that 
+: 74 3 4 is 
+: 86 13 9 gone 
+- 101
+: 114 9 6 Say 
+: 126 2 4 could 
+: 132 5 6 that 
+: 139 6 -1 lass 
+: 163 3 -1 be 
+: 172 30 -3 I? 
+- 204
+: 228 12 -3 Mer
+: 241 3 -1 ry 
+: 245 3 -3 of 
+: 254 13 2 soul 
+: 272 3 2 she 
+: 281 11 4 sailed 
+: 294 2 6 on 
+: 298 5 4 a 
+: 308 14 9 day 
+- 324
+: 333 11 6 O
+: 346 2 4 ver 
+: 350 2 6 the 
+: 361 9 -1 sea 
+: 378 5 -1 to 
+: 394 14 -3 Skye 
+- 410
+: 437 8 6 Bil
+: 447 4 2 low 
+: 454 6 6 and 
+: 463 19 6 breeze 
+: 486 11 4 is
+: 499 3 -1 lands 
+: 507 3 4 and 
+: 516 13 4 seas 
+- 531
+: 541 6 2 Moun
+: 551 4 -1 tains 
+: 557 4 2 of 
+: 569 12 2 rain 
+: 585 4 1 and 
+: 602 22 -1 sun 
+- 626
+: 647 6 6 All 
+: 656 3 2 that 
+: 662 5 6 was 
+: 672 20 6 good 
+: 697 5 4 all 
+: 706 5 -1 that 
+: 714 3 4 was 
+: 725 12 4 fair 
+- 739
+: 752 5 2 All 
+: 760 4 -1 that 
+: 767 4 2 was 
+: 775 15 2 me 
+: 796 3 1 is 
+: 806 37 -1 gone 
+- 845
+: 855 9 -3 Sing 
+: 867 3 -1 me 
+: 871 2 -3 a 
+* 881 10 2 song 
+* 894 3 2 of 
+* 901 3 2 a 
+* 906 5 4 lass 
+* 918 5 6 that 
+* 924 3 4 is 
+* 936 13 9 gone 
+- 951
+: 961 7 6 Say 
+: 972 4 4 could 
+: 978 3 6 that 
+: 985 9 -1 lass 
+: 1006 4 -1 be 
+: 1017 30 -3 I? 
+- 1049
+: 1063 11 -3 Mer
+: 1076 3 -1 ry 
+: 1080 3 -3 of 
+: 1089 12 2 soul 
+: 1108 3 2 she 
+: 1117 11 4 sailed 
+: 1129 3 6 on 
+: 1134 4 4 a 
+: 1142 16 9 day 
+- 1160
+: 1165 37 6 O
+: 1205 3 4 ver 
+: 1210 2 6 the 
+: 1220 13 -1 sea 
+: 1251 21 -1 to 
+* 1284 76 -3 Skye 
+E

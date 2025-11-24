@@ -1,0 +1,153 @@
+#ARTIST:Frank Zappa
+#TITLE:Mr. Green Genes
+#MP3:Frank Zappa - Mr. Green Genes.mp3
+#CREATOR:dude76
+#YEAR:1969
+#LANGUAGE:English
+#BPM:240
+#GAP:16750
+#VIDEO:a=eXSyCJEQcM8,co=https://m.media-amazon.com/images/I/611tcoHX+4L.jpg,bg=zappa-frank-532b3747cadee.jpg
+: 0 44 -3 Eat 
+: 48 17 4 your 
+: 66 27 -1 greens 
+- 95
+: 100 6 -1 Don’t 
+: 107 8 0 for
+: 116 7 -1 get 
+: 124 7 0 your 
+: 132 45 -3 beans 
+- 179
+: 183 12 4 And 
+: 197 7 -1 ce
+: 205 2 -3 le
+: 208 19 -1 ry 
+- 229
+: 233 7 -1 Don’t 
+: 241 7 0 for
+: 249 8 -1 get 
+: 258 8 -5 to 
+: 267 38 -3 bring 
+- 307
+* 315 14 4 Your 
+: 330 10 -1 fake 
+: 341 7 -3 I.
+: 349 15 -1 D. 
+- 365
+: 365 8 -1 Eat 
+: 374 6 0 a 
+: 381 8 -1 bunch 
+: 390 7 -5 of 
+: 398 36 -3 these 
+- 436
+: 447 14 4 Mag
+: 464 3 -1 ni
+: 468 2 -3 fi
+: 471 22 -1 cent 
+- 495
+: 521 6 -12 With 
+: 528 6 -10 sa
+: 535 4 -8 uer
+: 540 51 -8 kraut 
+- 593
+* 595 22 0 Mmm 
+: 618 2 -1 mmm 
+: 621 6 -3 mmm 
+: 628 19 -3 mmm 
+- 649
+: 655 3 -12 With 
+: 659 9 -10 sau
+: 669 6 -8 er
+: 676 41 -8 kraut 
+- 719
+: 790 8 -3 Eat 
+: 799 6 -7 a 
+: 806 7 -3 grape, 
+: 814 5 0 a 
+: 820 9 -1 fig 
+- 830
+: 830 5 -5 A 
+: 836 8 -1 crum
+: 845 6 2 pet, 
+: 852 21 0 too 
+- 874
+: 874 7 -1 You’ll 
+: 882 6 0 pump 
+: 889 7 -1 ’em 
+: 897 12 0 right 
+: 910 61 2 through 
+- 973
+: 976 4 2 Doo 
+: 981 2 0 wee 
+* 984 48 2 yoo 
+- 1034
+: 1545 43 -3 Eat 
+: 1590 13 4 your 
+: 1604 26 -1 shoes 
+- 1632
+: 1635 6 -1 Don’t 
+: 1642 7 0 for
+: 1650 7 -1 get 
+: 1658 3 0 the 
+: 1662 40 -3 string 
+- 1704
+: 1710 12 4 And 
+: 1723 28 -1 socks 
+- 1753
+: 1754 7 -1 E
+: 1762 6 0 ven 
+: 1769 7 -1 eat 
+: 1777 6 -5 the 
+: 1784 29 -3 box 
+- 1815
+: 1828 15 4 You 
+: 1844 4 -1 bought 
+: 1849 3 -3 ’em 
+: 1853 17 -1 in 
+- 1872
+: 1873 8 -1 You 
+: 1882 7 0 can 
+: 1890 6 -1 eat 
+: 1897 5 0 the 
+: 1903 33 -3 truck 
+- 1938
+: 1949 15 4 That 
+: 1965 4 -1 brought 
+: 1970 1 -3 ’em 
+: 1972 44 -1 in 
+- 2018
+: 2023 8 -10 Gar
+: 2032 5 -8 bage 
+: 2038 37 -8 truck 
+- 2077
+* 2098 17 0 Mmm 
+* 2116 11 -1 mmm 
+: 2128 7 -3 moul
+: 2136 5 -12 dy 
+: 2142 7 -10 gar
+: 2150 5 -8 bage 
+: 2156 36 -8 truck 
+- 2194
+: 2263 7 -3 Eat 
+: 2271 5 -7 the 
+: 2277 8 -3 truck 
+: 2286 5 0 and 
+: 2292 7 -1 dri
+: 2300 6 -5 ver 
+: 2307 6 -1 and 
+: 2314 5 2 his 
+: 2320 30 0 gloves 
+- 2352
+: 2369 7 0 Nu
+: 2377 3 2 tri
+: 2381 4 0 tious
+: 2386 37 2 ness 
+- 2425
+: 2427 5 2 De
+: 2433 3 4 li
+: 2437 4 2 cious
+: 2442 32 4 ness 
+- 2476
+: 2487 8 4 Worth
+: 2496 5 2 less
+* 2502 195 2 ness 
+E

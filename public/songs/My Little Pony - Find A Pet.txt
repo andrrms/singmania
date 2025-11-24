@@ -1,0 +1,739 @@
+#ARTIST:My Little Pony
+#TITLE:Find A Pet
+#MP3:My Little Pony - Find A Pet.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2011
+#LANGUAGE:English
+#BPM:400
+#GAP:6220
+#VIDEO:v=jBcqWRaJ4eQ,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 12 3 Now, 
+: 15 6 5 Rain
+: 22 3 3 bow 
+: 26 4 1 my 
+: 32 9 5 dear, 
+- 42
+: 42 3 5 I 
+: 46 5 5 can
+: 52 4 5 not 
+: 57 3 5 ex
+: 61 6 6 press 
+: 68 4 5 my 
+: 73 2 6 de
+: 76 32 8 light 
+- 110
+: 123 8 1 It’s 
+: 132 3 3 a
+* 136 4 5 bun
+: 141 3 3 dant
+: 145 6 1 ly 
+: 152 8 5 clear 
+- 161
+: 161 4 5 That 
+: 168 3 5 some
+: 172 4 3 where 
+: 178 3 1 out 
+: 182 5 5 here 
+- 188
+: 188 3 5 Is 
+: 192 2 5 the 
+: 195 5 3 pet 
+: 201 4 3 that 
+: 206 3 3 will 
+: 211 6 3 suit 
+: 218 3 1 you 
+* 222 5 5 just 
+: 229 20 3 right 
+- 251
+: 262 4 6 I 
+: 267 3 6 can’t 
+: 271 5 6 wait 
+: 277 2 6 to 
+: 280 4 6 get 
+: 285 8 5 star
+: 294 8 1 ted, 
+- 304
+: 310 4 1 But 
+: 316 6 3 first 
+: 323 2 3 let 
+: 326 2 3 me 
+: 329 7 3 set 
+: 337 3 1 a 
+: 341 5 5 few 
+* 347 15 3 rules 
+- 364
+: 368 4 5 It’s 
+: 373 3 5 of 
+: 377 5 6 ut
+: 383 4 6 most 
+: 388 3 6 im
+: 392 3 6 por
+: 396 5 6 tance 
+- 402
+: 402 3 6 The 
+: 406 7 6 pet 
+: 414 3 6 that 
+: 418 2 6 I 
+: 421 6 6 get 
+- 429
+: 433 4 6 Is 
+: 438 4 6 some
+: 443 5 6 thing 
+: 449 3 6 that’s 
+: 453 5 6 awe
+: 459 4 5 some 
+: 464 4 6 and 
+: 470 20 8 cool 
+- 492
+F 499 4 0 Awe
+F 504 6 0 some, 
+F 514 8 0 cool, 
+F 527 6 0 got 
+F 534 4 0 it 
+- 540
+: 550 3 1 I 
+: 554 3 3 have 
+* 558 6 5 so 
+: 565 3 3 ma
+: 569 4 1 ny 
+: 574 5 5 won
+: 580 3 3 der
+: 584 3 1 ful 
+: 588 5 8 choi
+: 594 4 6 ces, 
+- 599
+: 599 4 5 Just 
+: 604 6 3 wait, 
+: 611 2 5 you 
+: 614 2 6 will 
+: 617 31 8 see 
+- 650
+: 670 2 1 I 
+: 673 4 3 need 
+: 678 5 5 some
+* 684 3 5 thing 
+: 688 3 5 real 
+: 692 7 5 fast 
+- 700
+: 700 4 5 Like 
+: 705 2 5 a 
+: 708 6 8 bul
+: 715 3 5 let 
+: 719 4 1 to 
+: 724 6 3 keep 
+* 731 2 1 up 
+: 734 4 3 with 
+: 739 23 1 me 
+- 764
+F 798 12 0 Sure! 
+: 816 5 5 How 
+: 822 4 5 ’bout 
+: 827 3 5 a 
+: 831 5 3 bu
+: 837 8 1 nny? 
+- 847
+: 853 5 3 They’re 
+: 861 5 5 cut
+: 867 4 5 sey 
+: 872 2 5 and 
+: 875 5 8 wu
+: 881 4 8 tsey 
+- 886
+: 886 3 8 And 
+: 891 6 3 quick 
+: 898 2 1 as 
+* 901 5 1 can 
+: 907 11 3 be 
+- 920
+F 922 12 0 Cutsey? 
+F 935 12 0 Wutsey? 
+F 948 5 0 Have 
+F 954 3 0 you 
+F 958 6 0 even 
+F 965 4 0 met 
+F 970 6 0 me? 
+- 978
+: 996 5 5 Rain
+: 1002 3 5 bow 
+: 1006 3 5 have 
+: 1010 12 3 faith 
+- 1024
+: 1032 2 1 You 
+: 1035 7 3 see, 
+* 1044 12 6 I 
+: 1057 12 5 will 
+: 1071 7 3 bet 
+: 1079 8 1 you 
+- 1089
+: 1101 6 4 Some
+: 1108 4 4 where 
+: 1113 3 4 in 
+: 1118 5 4 here 
+: 1124 1 4 is 
+: 1126 3 4 the 
+: 1131 6 3 pet 
+: 1138 3 1 that 
+: 1142 4 1 will 
+* 1147 6 3 get 
+: 1155 6 1 you 
+- 1163
+F 1171 10 0 C’mon, 
+F 1182 2 0 the 
+F 1185 12 0 sky’s 
+F 1198 3 0 the 
+F 1202 12 0 limit! 
+- 1216
+F 1221 8 0 Sky 
+F 1230 4 0 is 
+F 1235 8 0 good. 
+F 1248 4 0 I’d 
+F 1253 4 0 like 
+F 1258 2 0 it 
+F 1261 2 0 to 
+F 1264 14 0 fly! 
+- 1280
+F 1281 11 0 Really? 
+F 1297 5 0 Because 
+F 1303 2 0 I 
+F 1306 3 0 think 
+F 1310 4 0 this 
+F 1315 6 0 widdle 
+F 1322 9 0 puddy 
+F 1332 5 0 tat 
+- 1338
+F 1338 3 0 Has 
+F 1342 2 0 your 
+F 1345 4 0 name 
+F 1350 5 0 written 
+F 1356 5 0 all 
+F 1362 7 0 over 
+F 1370 4 0 him 
+- 1376
+F 1379 7 0 Yes 
+F 1387 4 0 he 
+F 1394 12 0 does 
+- 1408
+F 1416 7 0 Aww, 
+F 1424 8 0 look, 
+F 1433 2 0 he 
+F 1436 15 0 likes 
+F 1452 10 0 you! 
+- 1464
+F 1492 16 0 Pass. 
+- 1510
+: 1514 4 1 I 
+: 1519 3 3 have 
+: 1524 5 5 so 
+: 1530 2 3 ma
+* 1533 5 1 ny 
+: 1540 3 5 won
+: 1544 3 3 der
+: 1548 4 1 ful 
+: 1553 5 8 choi
+: 1559 5 6 ces 
+- 1565
+: 1565 3 5 For 
+: 1569 5 3 you 
+: 1576 3 5 to 
+: 1580 2 6 de
+: 1583 35 8 cide 
+- 1620
+: 1637 3 1 There 
+: 1641 3 3 are 
+: 1646 5 5 ot
+: 1652 5 3 ters 
+: 1658 2 1 and 
+* 1661 8 5 seals 
+- 1670
+: 1671 4 5 With 
+: 1676 5 5 mas
+: 1682 3 3 sive 
+: 1686 4 1 app
+: 1691 11 5 eal 
+- 1704
+F 1707 8 0 Otters 
+F 1717 3 0 and 
+F 1721 6 0 seals 
+F 1728 3 0 do 
+F 1732 5 0 not 
+F 1738 10 0 fly 
+- 1750
+F 1753 10 0 Maybe 
+F 1765 7 0 not, 
+F 1773 2 0 but 
+F 1776 1 0 I’ve 
+F 1778 7 0 seen 
+F 1786 3 0 this 
+F 1790 13 0 particular 
+F 1804 6 0 seal 
+F 1812 6 0 catch 
+- 1820
+F 1822 6 0 Ten 
+F 1829 4 0 feet 
+F 1834 1 0 of 
+F 1836 4 0 air 
+F 1841 2 0 when 
+F 1844 3 0 he 
+F 1848 8 0 breaches 
+F 1857 3 0 the 
+F 1861 10 0 water 
+- 1873
+F 1914 8 0 That’s 
+F 1923 3 0 it. 
+F 1931 5 0 I’m 
+F 1937 4 0 outta 
+F 1942 7 0 here. 
+- 1951
+F 1972 9 0 Wait! 
+: 1982 3 6 There 
+: 1986 6 6 must 
+: 1993 5 6 be 
+: 1999 2 6 a 
+* 2003 6 5 pet 
+: 2011 7 1 here 
+- 2020
+: 2024 4 3 That 
+: 2029 4 5 will 
+: 2034 15 6 fit 
+: 2050 12 5 the 
+: 2064 5 3 ti
+: 2070 12 1 cket 
+- 2084
+: 2093 4 4 How 
+: 2098 5 4 ’bout 
+: 2104 2 4 a 
+: 2107 6 4 la
+: 2114 2 4 dy
+: 2117 6 4 bug 
+: 2124 5 3 or 
+: 2130 3 1 a 
+: 2134 6 1 cute 
+: 2141 4 3 cri
+: 2146 7 1 cket? 
+- 2155
+F 2163 12 0 Bigger! 
+F 2179 6 0 And 
+F 2186 14 0 cooler! 
+- 2202
+F 2215 10 0 Bigger. 
+F 2228 12 0 Cooler. 
+F 2245 9 0 Right. 
+- 2256
+: 2270 4 5 I’ve 
+: 2275 5 7 got 
+: 2281 4 5 just 
+: 2286 2 3 the 
+* 2289 5 7 thing 
+: 2295 4 5 in 
+: 2300 5 3 that 
+: 2306 12 7 tree, 
+: 2320 10 10 Dash 
+- 2332
+: 2338 3 3 Meet 
+: 2342 3 3 your 
+: 2346 3 3 new 
+: 2350 6 3 fa
+: 2357 2 0 bu
+: 2360 6 3 lous 
+: 2367 10 5 pet 
+- 2378
+: 2379 17 9 Squirre
+: 2397 39 10 ly! 
+- 2438
+F 2452 7 0 It’s 
+F 2462 6 0 just 
+F 2469 2 0 a 
+F 2472 10 0 squirrel 
+- 2484
+F 2493 3 0 Not 
+F 2497 8 0 just 
+F 2506 4 0 any 
+F 2511 10 0 squirrel 
+- 2523
+F 2527 5 0 A 
+F 2533 19 0 flying 
+F 2553 19 0 squirrel! 
+- 2574
+F 2637 12 0 Yeah... 
+F 2652 9 0 So, 
+F 2662 5 0 like 
+F 2668 3 0 I 
+F 2672 3 0 was 
+F 2676 11 0 saying... 
+- 2689
+: 2709 5 3 Flu
+: 2715 2 3 tter
+: 2718 10 3 shy, 
+* 2731 13 6 pal, 
+: 2756 6 5 this 
+: 2767 9 5 won’t 
+: 2780 5 8 cut 
+: 2786 6 8 it 
+- 2794
+: 2799 4 5 I 
+: 2804 7 6 need 
+: 2812 3 5 a 
+: 2816 5 3 pet 
+: 2822 4 1 to 
+: 2829 8 1 keep 
+: 2840 5 1 up 
+: 2847 4 5 with 
+: 2853 17 3 me 
+- 2872
+: 2900 7 1 Some
+: 2912 10 1 thing 
+: 2924 6 3 awe
+: 2932 10 1 some, 
+: 2949 8 6 some
+: 2960 6 6 thing 
+: 2970 10 8 fly
+: 2981 7 6 ing 
+- 2990
+: 2993 5 6 With 
+: 2999 6 8 cool
+: 3006 4 8 ness 
+: 3011 4 8 that 
+: 3016 5 8 de
+: 3022 13 8 fies 
+: 3036 7 6 gra
+* 3044 6 10 vi
+: 3051 27 8 ty 
+- 3080
+F 3088 6 0 I’m 
+F 3095 12 0 sensing 
+F 3108 3 0 you 
+F 3112 1 0 want 
+F 3114 3 0 an 
+F 3118 6 0 animal 
+F 3125 2 0 that 
+F 3128 4 0 can 
+F 3133 8 0 fly 
+- 3143
+F 3147 3 0 Ya 
+F 3151 10 0 think? 
+- 3163
+: 3174 10 1 I 
+: 3185 10 3 have 
+: 3198 7 5 plen
+: 3206 4 3 ty 
+: 3211 4 1 of 
+: 3217 4 5 won
+: 3222 2 3 der
+: 3225 4 1 ful 
+* 3231 3 8 crea
+: 3235 5 6 tures 
+- 3241
+: 3241 2 4 Who 
+: 3244 5 2 soar 
+: 3250 3 4 in 
+: 3254 3 6 the 
+: 3258 28 8 sky 
+- 3288
+: 3298 11 1 Like 
+: 3310 3 3 a 
+: 3314 7 5 sweet 
+: 3322 4 3 hum
+: 3327 3 1 ming
+: 3331 7 5 bird 
+- 3339
+: 3339 2 5 Or 
+: 3342 3 5 a 
+: 3346 5 5 gi
+: 3352 4 5 ant 
+: 3357 4 6 mo
+: 3362 4 8 narch 
+: 3367 4 6 but
+: 3372 3 5 ter
+: 3376 14 3 fly 
+- 3391
+F 3392 8 0 Better, 
+F 3401 3 0 but 
+F 3405 11 0 cooler! 
+- 3418
+: 3424 5 3 I 
+: 3430 10 1 see, 
+: 3446 7 1 how 
+: 3454 4 1 ’bout 
+: 3459 5 3 an 
+: 3465 3 3 o
+: 3469 7 1 wl, 
+- 3478
+: 3483 3 2 Or 
+: 3487 2 4 a 
+: 3490 10 6 wasp, 
+: 3507 8 1 or 
+: 3516 5 5 a 
+: 3522 3 3 tou
+: 3526 10 1 can? 
+- 3538
+: 3544 4 1 There’s 
+: 3549 5 1 so 
+: 3555 4 1 ma
+: 3560 3 1 ny 
+: 3564 4 1 won
+: 3569 3 1 der
+: 3573 4 1 ful 
+: 3578 6 3 crea
+: 3585 4 1 tures 
+: 3590 2 1 the 
+: 3593 11 1 likes 
+: 3605 3 3 of 
+: 3609 10 1 that 
+- 3621
+: 3657 4 -2 There 
+: 3662 4 0 are 
+: 3668 8 1 fal
+: 3680 11 1 cons 
+: 3692 5 1 and 
+* 3698 4 3 ea
+: 3703 9 1 gles 
+- 3714
+: 3717 4 2 They 
+: 3722 4 4 are 
+: 3727 10 6 both 
+* 3738 15 8 quite 
+: 3754 6 8 re
+: 3761 11 5 gal 
+- 3774
+: 3780 2 2 Per
+: 3783 6 4 haps 
+: 3790 2 4 what 
+: 3793 3 4 you 
+: 3797 5 4 need 
+- 3803
+: 3803 3 4 Is 
+: 3807 4 4 a 
+: 3812 5 3 dark 
+: 3818 3 1 and 
+: 3822 4 1 mys
+: 3827 3 1 te
+: 3831 4 3 ri
+: 3836 4 4 ous 
+* 3841 11 3 bat 
+- 3854
+F 3856 6 0 Now 
+F 3863 4 0 you’re 
+F 3868 15 0 talking! 
+- 3885
+F 3902 5 0 But 
+F 3908 8 0 instead 
+F 3917 1 0 of 
+F 3919 5 0 just 
+F 3926 7 0 one 
+F 3934 11 0 stand 
+F 3946 7 0 out, 
+- 3955
+F 3960 4 0 Now 
+F 3965 5 0 that’s 
+F 3971 6 0 too 
+F 3978 9 0 many 
+- 3989
+: 4015 5 5 So 
+: 4021 1 5 ma
+: 4023 4 5 ny 
+: 4028 9 5 choi
+* 4038 14 8 ces, 
+- 4054
+: 4060 5 1 And 
+: 4066 7 3 such 
+: 4074 3 5 ri
+: 4078 5 3 ches 
+: 4084 3 1 a
+: 4088 8 5 plen
+: 4097 9 3 ty 
+- 4108
+F 4115 4 0 Not 
+F 4120 2 0 a 
+F 4123 4 0 bad 
+F 4128 6 0 problem 
+F 4135 2 0 to 
+F 4138 8 0 have 
+F 4148 3 0 if 
+F 4152 3 0 you 
+F 4156 6 0 ask 
+F 4163 9 0 me 
+- 4174
+: 4187 4 0 The 
+: 4192 6 0 bat 
+: 4199 3 0 would 
+: 4203 3 0 be 
+: 4207 4 0 awe
+: 4212 8 -2 some, 
+- 4222
+: 4224 2 1 But 
+: 4227 2 1 the 
+: 4230 5 1 wasp 
+: 4236 4 1 I’m 
+: 4241 7 1 digg
+: 4249 5 3 ing 
+: 4256 10 1 too 
+- 4268
+: 4276 2 0 D’you 
+: 4279 4 0 have 
+: 4284 4 0 some
+: 4289 2 0 thing 
+: 4292 3 0 in 
+: 4296 3 0 a 
+: 4303 4 0 yel
+: 4308 4 -3 low 
+: 4314 9 0 striped 
+: 4327 18 1 bat? 
+- 4347
+F 4353 12 0 No, 
+: 4371 4 1 I’ve 
+: 4376 4 1 got 
+: 4381 2 1 a 
+: 4384 4 1 hot 
+: 4389 5 1 pink 
+: 4396 4 1 fla
+: 4401 6 1 min
+: 4408 8 -3 go, 
+- 4418
+: 4420 6 0 Just 
+: 4427 6 1 dy
+: 4434 5 1 ing 
+: 4441 4 1 to 
+: 4446 7 3 meet 
+: 4454 14 1 you 
+- 4470
+: 4472 10 4 What 
+: 4486 7 4 to 
+: 4498 10 4 do? 
+: 4510 7 1 What 
+: 4518 4 4 to 
+* 4524 18 3 do? 
+F 4548 13 0 *GASP* 
+- 4563
+F 4570 3 0 A 
+F 4574 13 0 prize! 
+F 4589 10 0 That’s 
+F 4600 4 0 it! 
+- 4606
+: 4617 4 5 There’s 
+: 4622 5 7 real
+: 4628 4 7 ly 
+: 4634 5 7 just 
+: 4640 5 9 one 
+: 4647 11 7 way 
+- 4660
+: 4666 3 3 To 
+: 4672 11 4 find 
+: 4684 5 4 out 
+: 4690 5 4 which 
+: 4696 5 4 a
+: 4702 3 1 ni
+* 4706 11 4 mal’s 
+: 4721 19 6 best 
+- 4742
+: 4764 4 4 Hold 
+: 4769 2 4 a 
+: 4772 5 4 con
+: 4778 9 1 test, 
+F 4790 3 5 of 
+F 4794 15 9 speed, 
+- 4811
+: 4815 3 4 A
+: 4819 5 6 gi
+: 4825 4 6 li
+: 4830 7 6 ty 
+* 4838 4 8 and 
+: 4844 10 6 guts 
+- 4856
+: 4864 5 3 That 
+: 4871 8 3 will 
+: 4882 6 3 put 
+: 4889 4 3 each 
+: 4894 6 4 pet 
+: 4901 3 3 to 
+: 4906 12 4 the 
+: 4919 80 11 test! 
+- 5001
+: 5017 3 7 Don’t 
+: 5021 2 7 for
+: 5024 3 7 get 
+: 5028 6 7 sty
+: 5035 6 10 le, 
+- 5042
+: 5042 3 6 That 
+: 5046 3 6 should 
+: 5050 1 6 be 
+: 5052 3 6 con
+: 5056 5 6 si
+: 5062 5 3 dered 
+- 5068
+: 5068 2 6 Then 
+: 5071 2 6 we’ll 
+: 5074 2 6 know 
+: 5077 1 6 for 
+: 5079 5 6 sure 
+- 5085
+: 5086 5 4 Who’s 
+* 5092 6 6 best 
+: 5099 2 6 of 
+: 5102 1 6 the 
+: 5104 5 6 lit
+: 5110 5 4 ter 
+- 5116
+: 5116 6 8 One 
+: 5123 2 8 who 
+: 5126 2 8 is 
+: 5129 4 8 ul
+: 5134 1 8 ti
+* 5136 4 11 mate 
+: 5141 9 6 cool 
+- 5151
+: 5152 8 4 Just 
+: 5161 5 9 like 
+: 5167 19 7 me 
+- 5188
+: 5207 4 7 Can’t 
+: 5212 4 9 set
+: 5217 2 9 tle 
+: 5220 4 9 for 
+: 5225 7 9 less, 
+: 5233 6 12 ’cause 
+: 5240 4 12 I’m 
+: 5245 5 7 the 
+: 5251 5 7 best 
+- 5257
+: 5258 2 7 So 
+: 5261 2 7 a 
+: 5264 5 12 con
+: 5270 7 12 test 
+* 5278 4 12 we 
+: 5283 4 14 will 
+: 5288 15 12 see 
+- 5305
+: 5308 4 6 Who’s 
+: 5313 1 8 the 
+: 5315 3 10 num
+: 5319 2 10 ber 
+: 5322 3 10 one, 
+: 5328 4 10 grea
+: 5333 5 10 test, 
+: 5340 2 10 per
+: 5343 3 10 fec
+: 5347 4 8 test 
+: 5352 5 10 pet 
+- 5359
+: 5360 2 5 In 
+: 5363 3 7 the 
+* 5367 20 14 world 
+: 5388 23 12 for 
+: 5412 54 10 me! 
+- 5468
+: 5473 5 2 May 
+: 5479 4 4 the 
+: 5485 13 6 games 
+: 5499 10 13 be
+* 5510 70 11 gin 
+- 5582
+F 5626 5 0 And 
+F 5632 4 0 may 
+F 5637 4 0 the 
+F 5644 9 0 best 
+F 5655 8 0 pet 
+F 5667 11 0 win! 
+E

@@ -1,0 +1,90 @@
+#ARTIST:Neal Hefti
+#TITLE:Batman Theme
+#MP3:Neal Hefti - Batman Theme.mp3
+#CREATOR:Schreiadler
+#GENRE:Themes
+#YEAR:1966
+#LANGUAGE:English
+#BPM:625
+#GAP:11940
+#VIDEO:v=kK4H-LkrQjQ,co=batman-theme-and-19-hefti-bat-songs-5106cf93c336d.jpg,bg=https://wallpapercave.com/wp/wp10645265.jpg,preview=11.88
+#END:137000
+: 0 12 7 Bat
+: 16 36 7 man, 
+: 128 12 7 Bat
+: 144 36 7 man 
+- 182
+: 256 12 12 Bat
+: 272 36 12 man, 
+: 384 12 7 Bat
+: 400 36 7 man 
+- 438
+: 512 12 14 Bat
+: 528 36 14 man, 
+: 576 12 12 Bat
+: 592 36 12 man, 
+: 640 12 7 Bat
+: 656 36 7 man 
+- 694
+: 768 12 7 Bat
+: 784 36 7 man, 
+: 896 12 7 Bat
+: 912 36 7 man 
+- 950
+: 1027 12 12 Bat
+: 1043 36 12 man, 
+: 1156 12 7 Bat
+: 1172 36 7 man 
+- 1210
+: 1286 12 14 Bat
+: 1302 36 14 man, 
+: 1350 12 12 Bat
+: 1366 36 12 man, 
+: 1415 12 7 Bat
+: 1431 36 7 man 
+- 1469
+: 3842 12 7 Bat
+: 3858 36 7 man, 
+: 3970 12 7 Bat
+: 3986 36 7 man 
+- 4024
+: 4096 12 12 Bat
+: 4112 36 12 man, 
+: 4224 12 7 Bat
+: 4240 36 7 man 
+- 4278
+: 4352 12 14 Bat
+: 4368 36 14 man, 
+: 4416 12 12 Bat
+: 4432 36 12 man, 
+: 4480 12 7 Bat
+: 4496 36 7 man 
+- 4534
+: 4608 12 14 Bat
+: 4624 36 14 man, 
+: 4672 12 12 Bat
+: 4688 36 12 man, 
+: 4736 12 7 Bat
+: 4752 36 7 man 
+- 4790
+: 4925 5 14 Ba 
+: 4933 5 14 Ba 
+: 4941 5 13 Ba 
+: 4949 5 13 Ba 
+: 4957 5 12 Ba 
+: 4965 5 12 Ba 
+: 4973 5 13 Ba 
+: 4981 5 13 Ba 
+: 4989 5 14 Ba 
+: 4997 5 14 Ba 
+: 5005 5 13 Ba 
+: 5013 5 13 Ba 
+: 5021 5 12 Ba 
+: 5029 5 12 Ba 
+: 5037 5 13 Ba 
+: 5045 5 13 Ba 
+: 5053 4 14 Ba 
+- 5059
+* 5089 12 17 Bat
+* 5107 96 19 man 
+E

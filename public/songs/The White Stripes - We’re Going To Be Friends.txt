@@ -1,0 +1,336 @@
+#ARTIST:The White Stripes
+#TITLE:We’re Going To Be Friends
+#MP3:The White Stripes - We’re Going To Be Friends.mp3
+#CREATOR:Viktor1234678
+#YEAR:2001
+#LANGUAGE:English
+#BPM:386.87
+#GAP:10030
+#VIDEO:v=PKfD8d3XJok,co=https://i.discogs.com/pANjd5icLAJCazHOTTeA_tbtRecXaBqcVp8tNL_GZWQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjAy/NzYtMTYxOTkyNjkw/MS0yNDc0LmpwZWc.jpeg,bg=the-white-stripes-4dd452be2a616.jpg
+: 0 5 2 Fall 
+: 7 2 0 is 
+: 12 7 -1 here, 
+: 33 5 2 hear 
+: 40 2 0 the 
+: 44 7 -1 yell 
+- 53
+: 65 4 2 Back 
+: 72 2 0 to 
+: 77 8 -1 school, 
+: 98 4 2 ring 
+: 106 2 0 the 
+: 110 6 -1 bell 
+- 118
+: 131 4 2 Brand 
+: 138 3 0 new 
+: 143 7 -1 shoes, 
+: 163 4 2 wal
+: 169 3 0 king 
+: 175 6 -1 blues 
+- 183
+: 196 4 2 Climb 
+: 203 3 0 the 
+: 208 7 -1 fence, 
+: 229 4 2 books 
+: 236 3 0 and 
+: 241 6 -1 pens 
+- 249
+: 260 3 2 I 
+: 269 3 2 can 
+: 276 4 2 tell 
+: 285 4 2 that 
+: 292 4 0 we 
+: 300 4 0 are 
+: 308 2 0 gon
+: 312 2 2 na 
+: 317 4 0 be 
+: 324 6 -1 friends 
+- 332
+: 389 5 2 I 
+: 396 4 2 can 
+: 404 4 2 tell 
+: 413 3 2 that 
+: 421 4 0 we 
+: 430 3 0 are 
+: 438 2 0 gon
+: 441 3 2 na 
+: 446 4 0 be 
+: 454 2 -1 friends
+: 457 3 -5 ~ 
+- 462
+: 585 4 2 Walk 
+: 592 2 0 with 
+: 596 9 -1 me, 
+: 619 4 2 Su
+: 626 2 0 zy 
+: 631 7 -1 Lee 
+- 640
+: 652 3 2 Through 
+: 657 2 0 the 
+: 663 8 -1 park 
+: 675 3 -5 and 
+: 683 3 2 by 
+: 689 2 0 the 
+: 694 8 -1 tree 
+- 704
+: 715 3 2 We 
+: 723 3 0 will 
+: 730 4 -1 rest 
+: 739 4 -5 u
+: 746 4 2 pon 
+: 754 3 0 the 
+: 759 7 -1 ground 
+- 768
+: 770 5 -5 And 
+: 778 4 2 look 
+: 785 2 0 at 
+: 790 4 -1 all 
+: 799 3 -5 the 
+: 805 5 2 bugs 
+: 813 5 0 we 
+: 821 7 -1 found 
+- 830
+: 841 3 2 Safe
+: 850 4 2 ly 
+: 857 5 2 walk 
+: 865 4 2 to 
+: 873 4 0 school 
+: 881 5 0 with
+: 889 4 0 out 
+: 896 3 0 a 
+: 901 9 -1 sound 
+- 912
+: 970 5 2 Safe
+: 977 4 2 ly 
+: 985 4 2 walk 
+: 993 4 2 to 
+: 1001 4 0 school 
+: 1008 4 0 with
+: 1016 4 0 out 
+: 1024 3 0 a 
+: 1029 8 -5 sound 
+- 1039
+: 1161 3 2 Here 
+: 1168 3 0 we 
+: 1173 5 -1 are, 
+: 1194 3 2 no 
+: 1200 2 0 one 
+: 1204 5 -1 else 
+- 1211
+: 1219 2 -5 We 
+: 1224 4 2 walk 
+: 1232 2 0 to 
+: 1238 5 -1 school 
+: 1248 3 -5 all 
+: 1255 3 2 by 
+: 1261 3 0 our
+: 1269 6 -1 selves 
+- 1277
+: 1288 4 2 There’s 
+: 1296 5 0 dirt 
+: 1304 4 -1 on 
+: 1312 4 -5 our 
+: 1320 2 2 u
+: 1325 3 0 ni
+: 1332 5 -1 forms 
+- 1339
+: 1344 4 -5 From 
+: 1351 5 2 cha
+: 1359 2 0 sing 
+: 1363 6 -1 all 
+: 1373 4 -5 the 
+: 1380 5 2 ants 
+: 1387 5 0 and 
+: 1394 8 -1 worms 
+- 1404
+: 1414 3 2 We 
+: 1421 4 2 clean 
+: 1429 3 2 up 
+: 1436 4 2 and 
+: 1443 4 0 now 
+: 1452 3 0 it’s 
+: 1459 4 0 time 
+: 1466 3 0 to 
+: 1470 8 -1 learn 
+- 1480
+: 1540 4 2 We 
+: 1547 5 2 clean 
+: 1555 4 2 up 
+: 1562 4 2 and 
+: 1570 4 0 now 
+: 1578 4 0 it’s 
+: 1586 4 0 time 
+: 1593 2 0 to 
+: 1597 3 -1 learn
+: 1601 5 -5 ~ 
+- 1608
+: 1729 4 2 Num
+: 1736 4 0 bers, 
+: 1744 3 -1 let
+: 1748 3 -1 ters, 
+: 1761 4 2 learn 
+: 1766 4 0 to 
+: 1773 8 -1 spell 
+- 1783
+: 1792 4 2 Nouns, 
+: 1800 3 0 and 
+: 1808 4 -1 books, 
+: 1816 3 -5 and 
+: 1825 4 2 show 
+: 1830 3 0 and 
+: 1837 5 -1 tell 
+- 1844
+: 1856 4 2 Play
+: 1863 4 0 time, 
+: 1871 3 -1 we 
+: 1879 3 -5 will 
+: 1887 5 2 throw 
+: 1895 2 0 the 
+: 1899 6 -1 ball 
+- 1907
+: 1918 4 2 Back 
+: 1926 2 0 to 
+: 1931 6 -1 class, 
+: 1950 4 2 through 
+: 1959 2 0 the 
+: 1963 4 -1 hall 
+- 1969
+: 1981 5 2 Tea
+: 1989 4 2 cher 
+: 1998 4 2 marks 
+: 2006 4 2 our 
+: 2013 4 0 height 
+: 2021 3 0 a
+: 2029 4 0 gainst 
+: 2037 3 0 the 
+: 2041 8 -1 wall 
+- 2051
+: 2107 5 2 Tea
+: 2116 4 2 cher 
+: 2124 4 2 marks 
+: 2132 4 2 our 
+: 2140 4 0 height 
+: 2148 4 0 a
+: 2156 4 0 gainst 
+: 2164 3 0 the 
+: 2168 3 -1 wall
+: 2172 6 -5 ~ 
+- 2180
+: 2312 3 0 And 
+: 2317 2 0 we 
+: 2321 4 0 don’t 
+: 2330 3 0 no
+: 2336 3 0 tice 
+: 2346 3 2 a
+: 2351 3 0 ny 
+: 2358 5 -1 time 
+: 2371 7 -5 pass 
+- 2380
+: 2442 3 0 We 
+: 2447 6 0 don’t 
+: 2456 3 0 no
+: 2461 5 0 tice 
+: 2472 3 2 a
+: 2477 4 0 ny
+: 2485 7 -1 thing 
+- 2494
+: 2551 4 -3 We 
+: 2559 4 -3 sit 
+: 2567 4 -3 side 
+: 2575 3 -1 by 
+: 2582 4 1 side 
+: 2590 3 -3 in 
+: 2598 3 1 e
+: 2605 3 -1 very 
+: 2612 13 -3 class 
+- 2627
+: 2677 3 0 Tea
+: 2683 3 0 cher 
+: 2689 4 0 thinks 
+: 2698 3 0 that 
+: 2703 4 0 I 
+: 2712 4 0 sound 
+: 2722 3 2 fun
+: 2726 4 0 ny 
+- 2732
+: 2738 3 2 But 
+: 2744 4 2 she 
+: 2753 4 2 likes 
+: 2762 1 2 the 
+: 2766 4 2 way 
+: 2773 4 4 you 
+: 2781 6 2 sing 
+- 2789
+: 2794 3 -5 To
+: 2800 4 2 night 
+: 2807 3 0 I’ll 
+: 2813 6 -1 dream, 
+: 2824 4 -5 while 
+: 2833 3 2 I’m 
+: 2838 3 0 in 
+: 2844 6 -1 bed 
+- 2852
+: 2856 3 -5 When 
+: 2863 3 2 sil
+: 2868 4 0 ly 
+: 2876 5 -1 thoughts 
+: 2887 3 -5 go 
+: 2894 3 2 through 
+: 2899 4 0 my 
+: 2906 7 -1 head 
+- 2915
+: 2922 3 -5 A
+: 2926 5 2 bout 
+: 2934 2 0 the 
+: 2937 6 -1 bugs 
+: 2949 2 -5 and 
+: 2953 6 2 al
+: 2963 2 0 pha
+: 2968 5 -1 bet 
+- 2975
+: 2982 3 -5 And 
+: 2987 3 2 when 
+: 2992 4 0 I 
+: 2998 5 -1 wake 
+: 3009 3 -5 to
+: 3014 3 2 mor
+: 3019 2 0 row, 
+: 3022 3 0 I’ll 
+: 3028 5 -1 bet 
+- 3035
+: 3040 4 -1 That 
+: 3047 3 2 you 
+: 3052 3 2 and 
+: 3058 6 2 I 
+: 3071 4 2 will 
+: 3080 4 0 walk 
+: 3088 4 0 to
+: 3096 2 0 ge
+: 3099 3 2 ther 
+: 3104 2 0 a
+: 3108 6 -1 gain 
+- 3116
+: 3174 5 2 I 
+: 3182 4 2 can 
+: 3190 3 2 tell 
+: 3198 3 2 that 
+: 3206 4 0 we 
+: 3214 3 0 are 
+: 3222 2 0 gon
+: 3225 3 2 na 
+: 3230 3 0 be 
+: 3238 9 -1 friends 
+- 3249
+: 3295 3 -1 Yes, 
+: 3302 4 2 I 
+: 3310 3 2 can 
+: 3318 4 2 tell 
+: 3326 4 2 that 
+: 3335 3 0 we 
+: 3342 5 0 are 
+: 3351 3 0 gon
+: 3355 3 2 na 
+: 3360 5 0 be 
+: 3369 3 -1 friends
+: 3373 5 -5 ~ 
+E

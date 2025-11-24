@@ -1,0 +1,173 @@
+#ARTIST:Paul Simon aka Jerry Landis
+#TITLE:Just A Boy
+#MP3:Paul Simon aka Jerry Landis - Just A Boy.mp3
+#CREATOR:andriej
+#YEAR:1995
+#LANGUAGE:English
+#BPM:220.89
+#GAP:11690
+#VIDEO:a=Uzxr506lWMM,co=https://m.media-amazon.com/images/I/71kcBzg9YeL.jpg
+: 0 14 6 I 
+: 16 13 11 am 
+: 40 3 10 just 
+: 44 3 6 a 
+: 48 13 6 boy 
+- 63
+: 72 3 8 Not 
+: 76 1 3 a 
+: 78 5 3 mig
+: 84 8 3 hty 
+: 93 14 6 man 
+- 109
+: 124 3 -1 But 
+: 128 12 -1 your 
+: 144 18 4 love 
+: 168 4 3 gives 
+: 173 1 3 me 
+: 175 15 3 strength 
+- 192
+: 197 2 -1 To 
+: 200 3 -1 do 
+: 204 3 3 the 
+: 208 7 1 best 
+: 216 3 -1 that 
+: 220 2 1 I 
+: 223 3 1 can
+: 227 19 -1 ~ 
+- 248
+: 290 13 6 I 
+: 305 18 11 am 
+: 328 4 10 just 
+: 333 3 7 a 
+: 337 10 7 boy 
+- 348
+: 348 3 8 Un
+: 352 19 8 wise 
+: 372 3 3 and 
+: 376 4 3 full 
+: 381 2 3 of 
+: 384 19 6 fears 
+- 405
+: 416 2 -1 But 
+: 419 13 -1 your 
+: 433 19 4 love 
+: 458 4 3 brings 
+: 463 2 3 to 
+: 466 15 3 me 
+- 483
+: 488 1 -1 The 
+: 490 3 -1 wis
+: 494 3 3 dom 
+: 498 6 1 of 
+: 506 2 -1 ma
+: 509 3 1 ny 
+: 513 24 -1 years 
+- 539
+: 578 21 11 Though 
+: 601 8 10 I’m 
+: 610 21 8 young 
+- 633
+: 634 5 11 I 
+: 640 12 10 still 
+: 654 3 11 can 
+: 658 10 10 un
+: 669 3 11 der
+: 673 18 10 stand 
+- 693
+: 700 3 10 Your 
+: 704 22 11 love 
+: 728 7 10 some
+: 736 7 8 day 
+- 745
+: 748 3 5 Will 
+: 752 8 6 turn 
+: 761 7 8 this 
+: 769 10 10 boy 
+: 780 3 11 in
+: 784 9 10 to 
+: 796 3 11 a 
+: 800 19 10 man 
+- 821
+: 832 15 6 Though 
+: 848 16 11 I’m 
+: 872 4 10 just 
+: 877 2 5 a 
+: 880 13 5 boy 
+- 894
+: 894 2 8 On 
+: 897 11 8 this 
+: 909 3 3 you 
+: 913 6 3 can 
+: 921 6 3 re
+: 928 3 6 ly
+: 932 3 8 ~
+: 936 12 6 ~ 
+- 950
+: 960 16 -1 You 
+: 978 14 4 are 
+: 1000 5 3 just 
+: 1006 2 3 the 
+: 1009 18 3 girl 
+- 1029
+: 1033 3 -1 I 
+: 1037 2 3 will 
+: 1040 7 1 love 
+: 1049 4 -1 till 
+: 1054 2 1 I 
+: 1057 3 0 di
+: 1061 24 -1 e 
+- 1087
+: 1122 20 11 Though 
+: 1146 7 10 I’m 
+: 1154 21 8 young 
+- 1177
+: 1178 5 11 I 
+: 1184 12 10 still 
+: 1198 3 11 can 
+: 1202 10 10 un
+: 1213 2 11 der
+: 1216 20 10 stand 
+- 1238
+: 1246 4 11 Your 
+: 1251 17 11 love 
+: 1271 9 10 some
+: 1281 7 8 day 
+- 1289
+: 1289 7 5 Will 
+: 1297 6 6 turn 
+: 1305 6 8 this 
+: 1313 12 10 boy 
+: 1326 2 11 in
+: 1329 10 10 to 
+: 1341 2 11 a 
+: 1344 12 10 man 
+- 1358
+: 1377 14 6 Though 
+: 1393 18 10 I’m 
+: 1417 3 9 just 
+: 1421 2 6 a 
+: 1425 11 6 boy 
+- 1438
+: 1439 2 8 On 
+: 1442 8 8 this 
+: 1453 2 3 you 
+: 1456 7 3 can 
+: 1464 6 3 re
+: 1472 3 6 ly
+: 1476 3 8 ~
+: 1480 11 6 ~ 
+- 1493
+: 1504 15 -1 You 
+: 1521 16 4 are 
+: 1544 4 3 just 
+: 1549 3 3 the 
+: 1553 18 3 girl 
+- 1573
+: 1578 2 -1 I 
+: 1581 2 3 will 
+: 1584 9 1 love 
+: 1594 3 -1 till 
+: 1598 2 1 I 
+: 1601 3 1 di
+: 1605 19 -1 e 
+E

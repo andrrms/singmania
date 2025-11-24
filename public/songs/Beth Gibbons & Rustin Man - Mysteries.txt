@@ -1,0 +1,186 @@
+#ARTIST:Beth Gibbons & Rustin Man
+#TITLE:Mysteries
+#MP3:Beth Gibbons & Rustin Man - Mysteries.mp3
+#CREATOR:lava
+#YEAR:2002
+#LANGUAGE:English
+#BPM:299.25
+#GAP:64740
+#VIDEO:a=HiQC5uQHL1s,co=out-of-season-639b21b3c3915.jpg,bg=beth-gibbons--rustin-man-52c0b61d7228d.jpg
+: 0 12 2 God 
+: 13 17 4 knows 
+: 31 12 2 how 
+: 44 10 0 I 
+: 55 5 -3 a
+: 61 15 0 dore 
+: 77 7 0 life 
+: 85 21 2 ~ 
+- 108
+: 144 4 5 When 
+: 149 7 4 the 
+: 157 16 5 wind 
+: 174 17 5 turns 
+: 193 4 4 on 
+: 198 4 2 the 
+: 203 19 5 shores 
+: 223 24 4 lies 
+: 248 4 2 an
+: 253 16 -3 o
+: 270 5 -2 ther 
+: 276 18 -2 day 
+- 296
+: 324 6 2 I 
+: 331 8 2 can
+: 340 8 4 not 
+: 349 17 2 ask 
+: 367 4 0 for 
+: 372 5 0 more 
+: 378 15 -3 ~ 
+- 395
+: 430 5 5 When 
+: 436 5 4 the 
+: 442 17 7 time 
+: 460 20 5 bell 
+: 490 16 4 blows 
+: 507 5 2 my 
+: 513 18 2 heart 
+- 532
+: 533 2 0 And 
+: 536 8 2 I 
+: 545 4 0 have 
+: 550 10 2 scored 
+: 561 2 0 a 
+: 564 6 2 bet
+: 571 3 2 ter 
+: 575 15 4 day 
+- 592
+: 604 6 7 Well 
+: 611 7 9 no
+: 619 6 5 bo
+: 626 6 2 dy 
+: 633 19 0 made 
+: 653 5 2 this 
+: 659 16 0 war 
+: 676 5 -2 of 
+: 682 17 -3 mine 
+- 701
+: 718 3 5 And 
+: 722 4 4 the 
+: 727 7 5 mo
+: 735 12 2 ments 
+: 748 4 0 that 
+: 753 12 2 I 
+: 766 4 0 en
+: 771 16 2 joy 
+- 789
+: 795 3 0 A 
+: 799 13 2 place 
+: 813 5 0 of 
+: 819 9 2 love 
+: 829 5 0 and 
+: 835 8 2 mys
+: 844 3 5 te
+: 848 14 5 ry 
+- 864
+* 875 21 9 I’ll 
+* 897 11 9 be 
+* 909 12 7 there 
+* 922 3 7 a
+* 926 12 5 ny
+* 939 22 0 time 
+- 963
+: 1006 8 4 Oh 
+: 1015 5 5 mys
+: 1021 3 2 te
+: 1025 10 5 ries 
+: 1036 4 2 of 
+: 1041 15 5 love 
+- 1057
+: 1057 4 4 Where 
+: 1062 13 5 war 
+: 1076 6 2 is 
+: 1083 6 4 no 
+: 1090 14 5 more 
+- 1106
+* 1110 5 5 I’ll 
+* 1116 7 4 ~ 
+* 1124 20 2 ~ 
+* 1158 22 9 be 
+* 1181 24 7 there 
+* 1206 5 7 a
+* 1212 12 5 ny
+* 1225 24 5 time 
+- 1251
+: 1863 5 5 When 
+: 1869 5 5 the 
+: 1875 17 7 time 
+: 1893 28 5 bell 
+: 1922 17 4 blows 
+: 1940 6 2 my 
+: 1947 15 2 heart 
+- 1963
+: 1964 2 0 And 
+: 1967 8 2 I 
+: 1976 3 2 have 
+: 1980 10 2 scored 
+: 1991 2 0 a 
+: 1994 7 2 bet
+: 2002 5 2 ter 
+: 2008 12 4 day 
+- 2022
+: 2036 7 7 Well 
+: 2044 7 9 no
+: 2052 7 5 bo
+: 2060 6 2 dy 
+: 2067 14 0 made 
+: 2082 8 2 this 
+: 2091 16 0 war 
+: 2108 4 -2 of 
+: 2113 17 -3 mine 
+- 2132
+: 2149 4 5 And 
+: 2154 3 4 the 
+: 2158 8 5 mo
+: 2167 12 2 ments 
+: 2180 3 0 that 
+: 2184 11 2 I 
+: 2196 5 0 en
+: 2202 14 2 joy 
+- 2218
+: 2227 5 0 A 
+: 2233 12 2 place 
+: 2246 4 0 of 
+: 2251 12 2 love 
+: 2264 7 0 and 
+: 2272 6 2 mys
+: 2279 4 5 te
+: 2284 11 5 ry 
+- 2297
+* 2307 23 9 I’ll 
+* 2331 11 9 be 
+* 2343 10 7 there 
+* 2354 6 7 a
+* 2361 9 5 ny
+* 2371 20 0 time 
+- 2393
+: 2447 6 5 Mys
+: 2454 3 2 te
+: 2458 11 5 ries 
+: 2470 3 2 of 
+: 2474 10 5 love 
+- 2486
+: 2488 5 4 Where 
+: 2494 16 5 war 
+: 2511 4 2 is 
+: 2516 6 4 no 
+: 2523 11 5 more 
+- 2536
+* 2544 5 5 I’ll 
+* 2550 4 4 ~ 
+* 2555 18 2 ~ 
+* 2591 22 9 be 
+* 2614 23 7 there 
+* 2638 5 7 a
+* 2644 11 5 ny
+* 2656 39 5 time 
+E

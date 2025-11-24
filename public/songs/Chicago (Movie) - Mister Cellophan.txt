@@ -1,0 +1,418 @@
+#ARTIST:Chicago (Movie)
+#TITLE:Mister Cellophan
+#MP3:Chicago (Movie) - Mister Cellophan.mp3
+#CREATOR:lava
+#GENRE:Soundtrack
+#YEAR:2002
+#LANGUAGE:English
+#BPM:300.05
+#GAP:17350
+#VIDEO:a=lE45BiQc1tA,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/7e/11/107e1141-5d72-a884-c972-108570be5c53/5099751053224.jpg/5000x5000bb.jpg
+F 0 4 4 If 
+F 5 5 4 some
+F 11 2 4 one 
+F 14 5 4 stood 
+F 20 2 4 up 
+F 23 3 4 in 
+F 27 2 4 a 
+F 30 4 4 crowd 
+- 44
+F 57 3 4 And 
+F 61 4 4 raised 
+F 66 4 4 his 
+F 71 2 4 voice 
+F 74 5 4 up 
+F 80 3 4 way 
+F 84 3 4 out 
+F 88 4 4 loud 
+- 102
+F 112 4 4 And 
+F 117 4 4 waved 
+F 122 3 4 his 
+F 126 3 4 arm 
+F 130 6 4 and 
+F 137 3 4 shook 
+F 141 3 4 his 
+F 145 3 4 leg 
+- 158
+: 173 5 4 You’d 
+: 179 3 1 no
+: 183 3 2 tice 
+: 187 5 4 him 
+- 212
+F 237 3 4 If 
+F 242 5 4 some
+F 248 4 4 one 
+F 253 2 4 in 
+F 256 4 4 the 
+F 261 2 4 mo
+F 264 3 4 vie 
+F 268 3 4 show 
+- 279
+F 282 9 4 Yelled 
+F 292 5 4 “Fi
+F 298 3 4 re 
+F 302 8 4 in 
+F 311 3 4 the 
+F 315 4 4 se
+F 320 2 4 cond 
+F 323 4 4 row 
+- 332
+F 334 4 4 This 
+F 339 3 4 whole 
+F 343 2 4 place 
+F 346 4 4 is 
+F 351 3 4 a 
+F 355 3 4 pow
+F 359 4 4 der 
+F 365 3 4 keg!” 
+- 378
+: 403 5 4 You’d 
+: 410 3 12 no
+: 415 4 11 tice 
+: 420 4 9 him 
+- 444
+: 471 7 8 And 
+: 479 5 8 e
+: 485 4 8 ven 
+: 490 3 8 with
+: 494 6 4 out 
+- 500
+: 502 4 6 Cluc
+: 507 3 6 king 
+: 511 5 6 like 
+: 517 4 3 a 
+: 522 5 1 hen 
+- 537
+: 565 5 8 E
+: 571 4 8 very
+: 576 4 8 one 
+: 581 5 4 gets 
+: 587 4 6 no
+: 592 6 6 ticed 
+- 598
+: 600 4 6 Now 
+: 605 5 3 and 
+: 611 6 1 then 
+- 627
+: 646 4 9 Un
+: 651 4 11 less 
+: 656 4 11 of 
+: 661 5 11 course 
+- 666
+: 668 3 8 That 
+: 672 5 9 per
+: 678 3 9 so
+: 682 6 9 nage 
+: 689 5 6 should 
+: 695 6 8 be 
+- 721
+F 744 6 4 In
+F 758 4 4 vi
+F 763 4 4 si
+F 768 4 4 ble 
+F 795 10 4 in
+: 810 5 11 con
+: 816 5 6 se
+: 822 4 5 quen
+: 827 10 6 tial 
+* 872 54 11 me! 
+- 946
+: 985 14 8 Cel
+: 1000 11 6 lo
+: 1015 16 4 phane 
+- 1037
+: 1040 6 6 Mis
+: 1047 10 4 ter 
+: 1063 7 8 Cel
+: 1071 6 6 lo
+: 1078 19 4 phane 
+- 1097
+: 1098 5 6 Shoul
+: 1105 7 4 da 
+: 1121 6 9 been 
+: 1129 5 6 my 
+: 1136 17 4 name 
+- 1154
+: 1156 6 6 Mis
+: 1163 12 4 ter 
+: 1180 6 9 Cel
+: 1187 6 6 lo
+: 1194 13 4 phane 
+- 1207
+: 1209 5 4 ’Cause 
+: 1215 7 6 you 
+: 1223 5 7 can 
+: 1229 13 8 look 
+: 1243 13 8 right 
+: 1257 8 6 through 
+: 1266 13 4 me 
+- 1285
+: 1287 13 8 Walk 
+: 1303 10 8 right 
+: 1316 8 6 by 
+: 1325 7 4 me 
+- 1342
+: 1353 6 12 And 
+: 1360 4 12 ne
+: 1365 4 12 ver 
+: 1370 15 12 know 
+: 1387 7 11 I’m 
+: 1395 20 9 there 
+- 1417
+: 1419 11 4 I 
+: 1431 11 6 tell 
+: 1444 12 7 ya 
+- 1463
+: 1466 9 8 Cel
+: 1476 5 6 lo
+: 1484 17 4 phane 
+- 1501
+: 1502 6 6 Mis
+: 1509 8 4 ter 
+: 1525 6 8 Cel
+: 1532 5 6 lo
+: 1538 17 4 phane 
+- 1558
+: 1560 5 6 Shoul
+: 1566 5 4 da 
+: 1583 7 9 been 
+: 1591 6 6 my 
+: 1598 19 4 name 
+- 1617
+: 1618 6 6 Mis
+: 1625 6 4 ter 
+: 1641 7 9 Cel
+: 1649 5 6 lo
+: 1655 14 4 phane 
+- 1669
+: 1670 6 4 ’Cause 
+: 1677 6 6 you 
+: 1684 4 7 can 
+: 1689 12 8 look 
+: 1703 10 8 right 
+: 1719 6 6 through 
+: 1726 9 4 me 
+- 1744
+: 1748 12 8 Walk 
+: 1761 11 8 right 
+: 1775 7 6 by 
+: 1783 6 4 me 
+- 1799
+: 1814 5 12 And 
+: 1820 3 12 ne
+: 1824 2 12 ver 
+: 1827 15 12 know 
+: 1843 8 11 I’m 
+: 1853 43 9 there 
+- 1936
+F 2034 4 4 Sup
+F 2039 4 4 pose 
+F 2044 2 4 you 
+F 2047 2 4 was 
+F 2050 1 4 a 
+F 2052 2 4 lit
+F 2055 4 4 tle 
+F 2060 8 4 cat 
+- 2078
+F 2082 2 4 Re
+F 2085 3 4 si
+F 2089 3 4 din’ 
+F 2093 1 4 in 
+F 2095 3 4 a 
+F 2099 3 4 per
+F 2103 6 4 son’s 
+F 2110 9 4 flat 
+- 2119
+F 2120 3 4 Who 
+F 2124 8 4 fed 
+F 2133 3 4 you 
+F 2137 8 4 fish 
+F 2146 3 4 and 
+F 2150 8 4 scratched 
+F 2159 5 4 your 
+F 2165 9 4 ears? 
+- 2182
+: 2185 6 4 You’d 
+: 2192 4 1 no
+: 2197 3 2 tice 
+: 2201 6 4 him 
+- 2217
+F 2240 4 4 Sup
+F 2245 6 4 pose 
+F 2252 3 4 you 
+F 2256 2 4 was 
+F 2259 2 4 a 
+F 2262 2 4 wo
+F 2265 5 4 man 
+F 2271 6 4 wed 
+- 2283
+F 2286 3 4 And 
+F 2290 5 4 slee
+F 2296 2 4 pin’ 
+F 2299 2 4 in 
+F 2302 2 4 a 
+F 2305 2 4 dou
+F 2308 4 4 ble 
+F 2313 7 4 bed 
+- 2321
+F 2323 2 4 Be
+F 2326 5 4 side 
+F 2332 4 4 one 
+F 2337 8 4 man 
+F 2346 3 4 for 
+F 2350 5 4 se
+F 2356 2 4 ven 
+F 2359 12 4 years 
+- 2381
+: 2394 4 4 You’d 
+: 2399 6 12 no
+: 2406 4 11 tice 
+: 2411 10 9 him 
+- 2441
+: 2464 3 8 A 
+: 2468 5 8 hu
+: 2474 5 8 man 
+: 2480 3 8 be
+: 2484 5 4 ing’s 
+: 2490 4 6 made 
+: 2495 3 6 of 
+: 2499 5 6 more 
+: 2505 4 3 than 
+: 2510 11 1 air 
+- 2531
+F 2546 4 6 With 
+: 2551 4 8 all 
+: 2556 6 8 that 
+: 2563 5 8 bulk 
+- 2568
+: 2570 4 4 You’re 
+: 2575 4 6 bound 
+: 2580 3 6 to 
+: 2584 5 6 see 
+: 2590 4 3 him 
+: 2595 9 1 there 
+- 2614
+: 2626 3 9 Un
+: 2630 6 11 less 
+: 2637 6 11 that 
+: 2644 3 11 hu
+: 2648 3 8 man 
+: 2652 3 9 be
+: 2656 6 9 in’ 
+: 2663 6 9 next 
+: 2670 3 6 to 
+: 2674 9 8 you 
+- 2703
+F 2728 11 4 Is 
+: 2740 2 11 un
+: 2743 4 6 im
+: 2748 4 5 pres
+: 2753 4 6 sive 
+: 2777 4 11 un
+: 2782 6 6 dis
+: 2789 4 5 tin
+: 2794 8 6 guished 
+- 2812
+: 2822 6 8 You 
+: 2852 14 9 know 
+: 2891 50 11 who 
+- 2981
+: 3085 7 7 Shoul
+: 3093 4 5 da 
+: 3108 7 10 been 
+: 3116 8 7 my 
+: 3125 9 5 name 
+- 3141
+: 3144 7 7 Mis
+: 3152 6 5 ter 
+: 3168 6 10 Cel
+: 3175 7 7 lo
+: 3183 13 5 phane 
+- 3196
+: 3197 7 5 ’Cause 
+: 3205 7 7 you 
+: 3213 4 8 can 
+: 3218 12 9 look 
+: 3231 14 9 right 
+: 3246 8 7 through 
+: 3255 9 5 me 
+- 3273
+: 3277 12 9 Walk 
+: 3290 13 9 right 
+: 3307 7 7 by 
+: 3315 8 5 me 
+- 3333
+: 3345 5 12 And 
+: 3351 3 12 ne
+: 3355 4 12 ver 
+: 3360 15 12 know 
+: 3376 9 11 I’m 
+: 3386 18 9 there 
+- 3409
+: 3411 10 6 I 
+: 3422 12 8 tell 
+: 3435 13 9 ya 
+- 3454
+: 3457 7 10 Cel
+: 3465 7 8 lo
+: 3473 17 6 phane 
+- 3490
+: 3492 6 8 Mis
+: 3499 6 6 ter 
+: 3513 6 10 Cel
+: 3520 7 8 lo
+: 3528 10 6 phane 
+- 3542
+: 3544 8 8 Shoul
+: 3553 8 6 da 
+: 3567 9 11 been 
+: 3577 6 8 my 
+: 3584 13 6 name 
+- 3602
+: 3604 6 8 Mis
+: 3611 6 6 ter 
+: 3627 4 11 Cel
+: 3632 6 8 lo
+: 3639 14 6 phane 
+- 3653
+: 3654 5 6 ’Cause 
+: 3660 6 8 you 
+: 3667 5 9 can 
+: 3673 10 10 look 
+: 3685 13 10 right 
+: 3699 8 8 through 
+: 3708 6 6 me 
+- 3726
+: 3730 10 10 Walk 
+: 3741 14 10 right 
+: 3756 9 8 by 
+: 3766 7 6 me 
+- 3783
+: 3794 5 14 And 
+: 3800 3 14 ne
+: 3804 4 14 ver 
+: 3809 15 14 know 
+: 3825 10 13 I’m 
+* 3836 61 11 there 
+- 3901
+: 3903 4 2 Ne
+: 3909 5 -1 ver 
+: 3928 5 2 e
+: 3934 9 -1 ven 
+* 3954 106 6 know 
+* 4106 22 2 I’m 
+* 4129 51 -1 there 
+- 4220
+F 4274 3 4 Hope 
+F 4278 2 4 I 
+F 4281 2 4 have
+F 4284 2 4 nt 
+F 4287 3 4 take 
+F 4291 2 4 up 
+F 4294 3 4 too 
+F 4298 4 4 much 
+F 4303 2 4 of 
+F 4306 2 4 your 
+F 4309 8 4 time 
+E

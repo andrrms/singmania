@@ -1,0 +1,410 @@
+#ARTIST:The 69 Eyes
+#TITLE:Lost Boys
+#MP3:The 69 Eyes - Lost Boys.mp3
+#CREATOR:Phoenix69
+#GENRE:Goth
+#YEAR:2004
+#LANGUAGE:English
+#BPM:311.69
+#GAP:8550
+#VIDEO:v=MRq2J2M2ap8,co=https://i.discogs.com/EICOXE6wdtwdDgOKgbX1LqG1Ky76hOPxINxit11H_oM/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjky/Mi0xNTI0NDI3MjAx/LTM0NjcuanBlZw.jpeg,co-crop=72-9-510-510,bg=69-eyes-the-5e480d739dbbc.jpg
+F 0 1 0 No
+F 4 1 0 thing’s 
+F 7 1 0 gon
+F 11 1 0 na 
+F 15 5 0 make 
+F 22 4 0 you 
+F 30 11 0 stop 
+- 43
+: 85 1 0 You 
+: 89 1 -3 want 
+: 92 1 3 to 
+: 96 13 3 rock 
+- 111
+F 257 1 0 Eve
+F 262 1 0 ry
+F 266 1 0 bo
+F 269 3 0 dy 
+F 273 6 0 knows 
+F 280 7 0 you’re 
+F 288 20 0 lost. 
+- 310
+: 497 1 0 Mor
+: 501 2 3 ning 
+: 507 12 -3 light 
+: 529 1 -3 hurts 
+: 533 4 3 your 
+: 542 9 -3 eyes 
+- 553
+: 565 1 3 But 
+: 569 1 0 that’s 
+: 573 1 -3 a
+: 576 2 3 no
+: 581 1 3 ther 
+: 584 13 0 thing 
+- 599
+: 624 1 0 No
+: 627 1 0 thing 
+: 631 1 0 real
+: 638 1 0 ly 
+: 642 2 0 mat
+: 646 10 0 ters 
+- 658
+: 663 1 3 Be
+: 666 1 -3 hind 
+: 668 2 -3 the 
+* 671 7 3 shades 
+: 680 3 0 of 
+: 684 6 0 blue 
+- 692
+: 749 12 0 Blind 
+: 764 13 -3 boys 
+: 783 12 0 never 
+: 796 10 -3 lie 
+- 808
+: 820 2 3 But 
+: 823 2 0 that’s 
+: 827 1 -3 a
+: 831 1 3 no
+: 835 1 3 ther 
+: 839 12 0 thing 
+- 853
+: 879 1 0 No
+: 883 1 3 thing 
+: 887 2 0 real
+: 895 1 3 ly 
+: 898 1 3 mat
+: 902 10 0 ters 
+- 914
+: 917 1 0 Be
+: 920 1 3 hind 
+: 924 1 -3 the 
+: 927 7 3 shades 
+: 936 4 0 of 
+: 941 12 0 blue 
+- 955
+: 1000 2 3 ’Cause 
+: 1008 6 3 in 
+: 1016 2 0 the 
+: 1020 12 3 end 
+- 1034
+: 1062 6 0 You’re 
+: 1072 3 0 just 
+: 1079 7 3 re
+: 1087 4 0 born 
+: 1094 1 -3 a
+: 1097 6 -3 gain 
+- 1105
+: 1107 2 0 You 
+: 1111 2 -3 want 
+: 1115 2 6 to 
+: 1118 12 6 rock 
+- 1132
+: 1150 1 0 No
+: 1153 1 0 thing’s 
+: 1157 1 0 gon
+: 1161 2 0 na 
+: 1165 6 -3 make 
+: 1174 5 -3 you 
+: 1181 15 3 stop 
+- 1198
+: 1211 1 3 And 
+: 1215 1 3 no
+: 1219 1 3 thing’s 
+* 1222 3 3 gon
+: 1228 4 3 na 
+: 1233 5 3 break 
+: 1239 8 0 you 
+: 1248 10 0 up 
+- 1260
+: 1273 2 0 Eve
+: 1282 2 0 ry
+: 1287 1 0 bo
+: 1291 1 0 dy 
+: 1294 7 -3 knows 
+: 1303 8 -3 you’re 
+: 1313 11 -3 lost 
+- 1326
+: 1335 1 3 In 
+: 1339 1 3 the 
+: 1342 5 6 night 
+: 1350 5 6 time, 
+: 1358 4 6 honey 
+- 1364
+* 1366 7 -3 Lost 
+* 1376 9 -3 boys 
+- 1387
+: 1391 5 0 We 
+: 1397 3 3 are 
+: 1405 10 -3 dead 
+: 1422 1 0 un
+: 1426 2 3 til 
+: 1434 11 -3 dark 
+- 1447
+: 1460 1 0 But 
+: 1464 1 -3 that’s 
+: 1468 2 -3 a
+: 1472 2 3 no
+: 1476 2 3 ther 
+: 1480 12 0 thing 
+- 1494
+: 1518 1 0 No
+: 1522 2 0 thing 
+: 1526 3 0 real
+: 1530 4 0 ly 
+: 1535 4 3 mat
+: 1540 10 0 ters 
+- 1552
+: 1554 1 0 Be
+: 1559 1 -3 hind 
+: 1562 3 3 the 
+: 1566 9 3 shades 
+: 1576 4 0 of 
+: 1581 11 0 blue 
+- 1594
+: 1612 7 0 You 
+: 1622 10 0 say 
+- 1634
+: 1647 1 3 You 
+: 1651 5 3 want 
+: 1657 2 -3 to 
+: 1660 11 -3 live 
+: 1679 1 3 like 
+: 1684 1 0 I 
+: 1692 6 -3 do 
+- 1700
+: 1713 5 3 But 
+: 1719 1 3 that’s 
+: 1722 2 -3 a
+: 1726 2 3 no
+: 1730 2 3 ther 
+: 1734 11 0 thing 
+- 1747
+: 1774 1 0 No
+: 1778 1 0 thing 
+: 1782 1 0 real
+: 1786 1 0 ly 
+: 1790 1 0 mat
+: 1794 11 0 ters 
+- 1807
+: 1812 1 0 Be
+: 1815 1 3 hind 
+: 1819 1 -3 the 
+: 1822 7 3 shades 
+: 1831 2 3 of 
+: 1840 10 0 blue 
+- 1852
+: 1894 6 3 ’Cause 
+: 1903 4 3 in 
+: 1911 1 0 the 
+: 1914 13 3 end 
+- 1929
+: 1957 6 0 We’re 
+: 1965 6 0 just 
+: 1973 6 3 re
+: 1982 7 -3 born 
+: 1991 1 3 a
+: 1994 6 -3 gain 
+- 2002
+: 2004 1 3 You 
+: 2007 1 -3 want 
+: 2011 1 -3 to 
+: 2014 13 -3 rock 
+- 2029
+: 2045 1 0 No
+: 2048 1 0 thing’s 
+: 2052 2 0 gon
+: 2056 2 0 na 
+: 2060 6 -3 make 
+: 2069 5 -3 you 
+: 2076 14 3 stop 
+- 2092
+: 2108 2 3 And 
+: 2112 1 3 no
+: 2116 1 3 thing’s 
+: 2119 1 3 gon
+: 2123 3 3 na 
+: 2127 6 3 break 
+: 2134 7 0 you 
+: 2142 9 0 up 
+- 2153
+: 2170 8 0 Eve
+: 2180 1 0 ry
+: 2184 1 0 bo
+: 2187 1 0 dy 
+: 2190 7 -3 knows 
+: 2199 5 -3 you’re 
+: 2206 14 -3 lost 
+- 2222
+: 2230 1 6 In 
+: 2234 1 6 the 
+: 2237 5 6 night 
+: 2245 5 6 time, 
+: 2252 6 6 honey 
+- 2260
+* 2262 3 -3 Lost 
+* 2269 15 -3 boys 
+- 2286
+: 2301 2 0 No
+: 2304 2 0 thing’s 
+: 2307 1 0 gon
+: 2311 2 0 na 
+: 2315 6 -3 make 
+: 2326 2 -3 you 
+: 2332 14 3 stop 
+- 2348
+: 2363 2 3 And 
+: 2367 1 3 no
+: 2371 1 3 thing’s 
+: 2375 2 3 gon
+: 2379 3 3 na 
+: 2383 6 3 break 
+: 2390 7 0 you 
+: 2398 11 0 up 
+- 2411
+: 2425 6 -3 Eve
+: 2434 1 0 ry
+: 2438 1 0 bo
+: 2441 1 0 dy 
+: 2445 6 -3 knows 
+: 2454 4 -3 you’re 
+: 2462 14 -3 lost 
+- 2478
+: 2486 1 3 In 
+: 2489 1 3 the 
+: 2493 5 3 night 
+: 2500 7 3 time, 
+: 2509 1 3 honey 
+- 2512
+* 2514 8 -2 Lost 
+* 2525 14 -2 boys 
+- 2541
+: 2958 4 -3 You 
+: 2964 4 -3 want 
+: 2969 1 3 to 
+: 2971 14 -3 rock 
+- 2987
+: 3006 1 0 No
+: 3009 1 0 thing’s 
+: 3013 1 0 gon
+: 3017 1 0 na 
+: 3020 6 -3 make 
+: 3029 5 -3 you 
+: 3036 13 3 stop 
+- 3051
+: 3069 1 3 And 
+: 3073 1 3 no
+: 3075 1 3 thing’s 
+: 3080 5 3 gon
+: 3086 2 3 na 
+: 3089 5 3 break 
+: 3096 7 0 you 
+: 3104 9 0 up 
+- 3115
+: 3131 1 0 Eve
+: 3135 1 0 ry
+: 3138 1 0 bo
+: 3142 2 0 dy 
+: 3147 7 -3 knows 
+: 3156 4 -3 you’re 
+: 3167 8 -3 lost 
+- 3177
+: 3190 1 -6 In 
+: 3194 1 -6 the 
+: 3197 5 -6 night 
+: 3205 5 -6 time, 
+: 3213 3 -6 honey 
+- 3218
+* 3220 7 -3 Lost 
+* 3230 12 -3 boys 
+- 3244
+: 3259 3 0 No
+: 3263 1 0 thing’s 
+: 3267 1 0 gon
+: 3272 1 0 na 
+: 3276 5 -3 make 
+: 3284 3 -3 you 
+: 3290 12 3 stop 
+- 3304
+: 3324 1 3 And 
+: 3327 1 3 no
+: 3331 1 3 thing’s 
+: 3335 2 3 gon
+: 3339 3 3 na 
+: 3343 5 3 break 
+: 3349 6 0 you 
+: 3356 9 0 up 
+- 3367
+: 3384 5 0 Eve
+: 3392 1 0 ry
+: 3396 1 0 bo
+: 3400 1 0 dy 
+: 3403 7 -3 knows 
+: 3412 4 -3 you’re 
+: 3421 12 -3 lost 
+- 3435
+: 3445 1 6 In 
+: 3449 1 6 the 
+: 3452 3 6 night 
+: 3459 4 6 time, 
+: 3468 4 6 honey 
+- 3474
+* 3476 6 -3 Lost 
+* 3486 9 -3 boys 
+- 3497
+: 3516 1 0 No
+: 3520 1 0 thing’s 
+: 3524 1 0 gon
+: 3528 1 0 na 
+: 3531 5 -3 make 
+: 3540 4 -3 you 
+: 3547 15 3 stop 
+- 3564
+: 3578 2 3 And 
+: 3583 1 3 no
+: 3586 1 3 thing’s 
+: 3590 2 3 gon
+: 3595 2 3 na 
+: 3598 5 3 break 
+: 3604 7 0 you 
+: 3612 9 0 up 
+- 3623
+: 3639 7 0 Eve
+: 3649 1 0 ry
+: 3653 1 0 bo
+: 3656 2 0 dy 
+: 3660 6 -3 knows 
+: 3669 3 -3 you’re 
+: 3678 12 -3 lost 
+- 3692
+: 3700 1 6 In 
+: 3704 1 6 the 
+: 3708 5 6 night 
+: 3715 5 6 time, 
+: 3723 4 6 honey 
+- 3729
+: 3731 4 -3 Lost 
+: 3740 12 -3 boys 
+- 3754
+: 3771 1 0 No
+: 3773 2 0 thing’s 
+: 3777 1 0 gon
+: 3781 2 0 na 
+: 3787 6 -3 make 
+: 3794 4 -3 you 
+: 3803 9 3 stop 
+- 3814
+: 3858 6 -3 Lost 
+: 3867 11 -3 boys 
+- 3880
+: 3899 3 0 Eve
+: 3905 1 0 ry
+: 3909 1 0 bo
+: 3912 1 0 dy 
+: 3916 5 -3 knows 
+: 3924 4 -3 you’re 
+: 3931 16 -3 lost 
+- 3949
+: 3987 5 -3 Lost 
+: 3995 16 -3 boys 
+E

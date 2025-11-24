@@ -1,0 +1,285 @@
+#ARTIST:Information Society
+#TITLE:What’s On Your Mind (Pure Energy)
+#MP3:Information Society - What’s On Your Mind (Pure Energy).mp3
+#CREATOR:frippio
+#GENRE:Pop
+#YEAR:1988
+#LANGUAGE:English
+#BPM:314.95
+#GAP:2700
+#VIDEO:v=ijAYN9zVnwg,co=whats-on-your-mind-pure-energy-5ba59e0038f5d.jpg,bg=information-society-5bafbdd7c3fa2.jpg
+: 0 4 -3 I 
+: 5 3 0 wan
+: 10 2 -3 na 
+: 14 11 2 know 
+: 41 3 -3 what 
+: 47 7 0 you’re 
+: 57 3 0 thin
+: 62 8 2 king 
+- 72
+: 92 3 0 There 
+: 97 2 2 is 
+: 102 8 5 some 
+: 112 10 4 things 
+: 124 4 2 you 
+: 130 8 0 can’t 
+: 140 10 2 hide 
+- 152
+: 171 4 -3 I 
+: 176 3 0 wan
+: 182 2 -3 na 
+: 185 11 2 know 
+: 212 3 -3 what 
+: 218 7 0 you’re 
+: 228 3 0 fee
+: 233 8 2 ling 
+- 243
+: 269 5 5 Tell 
+: 277 3 5 me 
+: 282 9 4 what’s 
+: 293 3 2 on 
+: 298 8 0 you 
+: 308 14 4 mind 
+- 324
+: 1203 4 0 Here 
+: 1209 8 0 I 
+: 1219 10 2 am 
+: 1235 3 0 in 
+: 1240 9 -1 si
+: 1252 11 -3 lence 
+: 1278 3 -3 loo
+: 1283 2 -1 king 
+: 1288 6 0 round 
+: 1298 6 -1 with
+: 1305 6 -3 out 
+: 1315 6 -5 a 
+: 1324 14 -3 clue 
+- 1340
+: 1368 4 -3 I 
+: 1374 8 -1 find 
+: 1384 4 0 my
+: 1389 12 2 self 
+: 1405 4 0 a
+: 1410 10 -1 long 
+: 1422 6 -3 a
+: 1431 12 -3 gain 
+: 1458 8 0 all 
+: 1469 4 0 a
+: 1474 8 -1 lone 
+: 1485 8 0 with 
+: 1495 18 -3 you 
+- 1515
+: 1544 4 0 I 
+: 1549 8 0 can 
+: 1559 13 2 see 
+: 1575 4 0 be
+: 1580 8 -1 hind 
+: 1591 8 -3 your 
+: 1602 10 -3 eyes 
+: 1623 4 -1 the 
+: 1628 8 0 things 
+: 1639 8 -1 that 
+: 1650 3 -3 I 
+: 1655 7 -5 don’t 
+: 1666 13 -3 know 
+- 1681
+: 1714 3 0 If 
+: 1719 8 0 you 
+: 1729 13 2 hide 
+: 1745 3 0 a
+: 1751 7 -1 way 
+: 1761 7 -3 from 
+: 1772 10 -3 me 
+: 1798 8 -3 how 
+: 1808 6 -1 can 
+: 1815 5 0 our 
+: 1824 8 2 love 
+: 1836 23 4 grow? 
+- 1861
+: 1869 4 -3 I 
+: 1874 3 0 wan
+: 1879 2 -3 na 
+: 1883 11 2 know 
+: 1910 3 -3 what 
+: 1916 7 0 you’re 
+: 1926 3 0 thin
+: 1931 8 2 king 
+- 1941
+: 1959 3 0 There 
+: 1964 2 2 is 
+: 1969 8 5 some 
+: 1979 10 4 things 
+: 1991 4 2 you 
+: 1997 8 0 can’t 
+: 2007 10 2 hide 
+- 2019
+: 2039 4 -3 I 
+: 2044 3 0 wan
+: 2050 2 -3 na 
+: 2053 11 2 know 
+* 2080 3 -3 what 
+* 2086 7 0 you’re 
+* 2096 3 0 fee
+* 2101 8 2 ling 
+- 2111
+: 2138 5 5 Tell 
+: 2146 3 5 me 
+* 2151 9 4 what’s 
+* 2162 3 2 on 
+* 2167 8 0 your 
+* 2177 14 4 mind 
+- 2193
+: 2400 4 0 I 
+: 2405 6 0 know 
+: 2414 10 2 I 
+: 2428 3 0 could 
+: 2433 8 -1 break 
+: 2443 7 -3 you 
+: 2453 12 -3 down 
+: 2475 6 -1 but 
+: 2482 7 0 what 
+: 2491 6 -1 good 
+: 2500 8 -3 would 
+: 2510 6 -5 it 
+: 2517 16 -3 do? 
+- 2535
+: 2567 3 0 I 
+: 2572 8 0 could 
+: 2582 14 2 sure
+: 2598 5 0 ly 
+: 2605 8 -1 ne
+: 2615 6 -3 ver 
+: 2625 12 -3 know 
+: 2647 4 -1 that 
+: 2653 5 0 what 
+: 2662 4 -1 you 
+: 2668 8 -1 say 
+: 2678 7 0 is 
+: 2688 18 -3 true 
+- 2708
+: 2736 4 0 Here 
+: 2742 8 0 I 
+: 2753 12 2 am 
+: 2768 3 0 in 
+: 2774 7 -1 si
+: 2783 14 -3 lence 
+: 2812 3 -3 it’s 
+: 2817 3 -1 a 
+: 2822 8 0 game 
+: 2832 4 -1 I 
+: 2843 10 -3 have 
+: 2854 4 -5 to 
+: 2860 20 -3 play 
+- 2882
+: 2907 3 0 You 
+: 2913 6 0 and 
+: 2922 15 2 I 
+: 2939 3 0 in 
+: 2944 8 -1 si
+: 2955 12 -3 lence 
+: 2987 3 -3 with 
+: 2992 7 -3 no
+: 3003 6 -1 thing 
+: 3010 6 0 else 
+: 3019 8 2 to 
+: 3029 21 4 say 
+- 3052
+: 3062 4 -3 I 
+: 3067 3 0 wan
+: 3072 2 -3 na 
+: 3076 11 2 know 
+: 3103 3 -3 what 
+: 3109 7 0 you’re 
+: 3119 3 0 thin
+: 3124 8 2 king 
+- 3134
+: 3152 3 0 There 
+: 3157 2 2 is 
+: 3162 8 5 some 
+: 3172 10 4 things 
+: 3184 4 2 you 
+: 3190 8 0 can’t 
+: 3200 10 2 hide 
+- 3212
+: 3232 4 -3 I 
+: 3237 3 0 wan
+: 3243 2 -3 na 
+: 3246 11 2 know 
+: 3273 3 -3 what 
+: 3279 7 0 you’re 
+: 3289 3 0 fee
+: 3294 8 2 ling 
+- 3304
+: 3329 5 5 Tell 
+: 3337 3 5 me 
+: 3342 9 4 what’s 
+: 3353 3 2 on 
+: 3358 8 0 your 
+: 3368 14 4 mind 
+- 3384
+: 4937 4 -3 I 
+: 4942 3 0 wan
+: 4947 2 -3 na 
+: 4951 11 2 know 
+: 4978 3 -3 what 
+: 4984 7 0 you’re 
+: 4994 3 0 thin
+: 4999 8 2 king 
+- 5009
+: 5028 3 0 There 
+: 5033 2 2 is 
+: 5038 8 5 some 
+: 5048 10 4 things 
+: 5060 4 2 you 
+: 5066 8 0 can’t 
+: 5076 10 2 hide 
+- 5088
+: 5108 4 -3 I 
+: 5113 3 0 wan
+: 5119 2 -3 na 
+: 5122 11 2 know 
+* 5149 3 -3 what 
+* 5155 7 0 you’re 
+* 5165 3 0 fee
+* 5170 8 2 ling 
+- 5180
+: 5207 5 5 Tell 
+: 5215 3 5 me 
+* 5220 9 4 what’s 
+* 5231 3 2 on 
+* 5236 8 0 your 
+* 5246 14 4 mind 
+- 5262
+: 5277 4 -3 I 
+: 5282 3 0 wan
+: 5287 2 -3 na 
+: 5291 11 2 know 
+: 5318 3 -3 what 
+: 5324 7 0 you’re 
+: 5334 3 0 thin
+: 5339 8 2 king 
+- 5349
+: 5369 3 0 There 
+: 5374 2 2 is 
+: 5379 8 5 some 
+: 5389 10 4 things 
+: 5401 4 2 you 
+: 5407 8 0 can’t 
+: 5417 10 2 hide 
+- 5429
+: 5449 4 -3 I 
+: 5454 3 0 wan
+: 5460 2 -3 na 
+: 5463 11 2 know 
+: 5490 3 -3 what 
+: 5496 7 0 you’re 
+: 5506 3 0 fee
+: 5511 8 2 ling 
+- 5521
+: 5547 5 5 Tell 
+: 5555 3 5 me 
+: 5560 9 4 what’s 
+: 5571 3 2 on 
+: 5576 8 0 your 
+: 5586 14 4 mind 
+E

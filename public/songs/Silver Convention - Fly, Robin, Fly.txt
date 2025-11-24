@@ -1,0 +1,94 @@
+#ARTIST:Silver Convention
+#TITLE:Fly, Robin, Fly
+#MP3:Silver Convention - Fly, Robin, Fly.mp3
+#CREATOR:Fepo
+#GENRE:General Mainstream Rock
+#YEAR:1975
+#LANGUAGE:English
+#BPM:200.63
+#GAP:18510
+#VIDEO:v=WtT6mqfGFcs,co=https://i.discogs.com/FzvTritKKDtJE_MepgJlpYXxbeF4aa8Ra5VgUpdJ_jo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg0/NjYtMTQ5NzQ2MTQx/MS02NjcyLmpwZWc.jpeg
+: 0 4 7 Fly 
+: 8 1 5 Ro
+: 10 1 3 bin 
+: 15 11 7 fly 
+- 28
+: 64 4 0 Fly 
+: 72 1 3 Ro
+: 74 1 5 bin 
+: 79 6 0 Fly 
+- 87
+: 128 4 7 Fly 
+: 136 1 5 Ro
+: 138 1 3 bin 
+: 143 11 7 fly 
+- 156
+: 192 2 3 Up 
+: 196 2 5 up 
+: 200 1 7 to 
+: 202 1 10 the 
+: 206 10 12 Sky 
+- 218
+: 512 4 7 Fly 
+: 520 1 5 Ro
+: 522 1 3 bin 
+: 527 11 7 fly 
+- 540
+: 576 4 0 Fly 
+: 584 1 3 Ro
+: 586 1 5 bin 
+: 591 6 0 Fly 
+- 599
+: 640 4 7 Fly 
+: 648 1 5 Ro
+: 650 1 3 bin 
+: 655 11 7 fly 
+- 668
+: 704 2 3 Up 
+: 708 2 5 up 
+: 712 1 7 to 
+: 714 1 10 the 
+: 718 10 12 Sky 
+- 730
+: 1376 4 7 Fly 
+: 1384 1 5 Ro
+: 1386 1 3 bin 
+: 1391 11 7 fly 
+- 1404
+: 1440 4 0 Fly 
+: 1448 1 3 Ro
+: 1450 1 5 bin 
+: 1455 6 0 Fly 
+- 1463
+: 1504 4 7 Fly 
+: 1512 1 5 Ro
+: 1514 1 3 bin 
+* 1519 11 7 fly 
+- 1532
+: 1568 2 3 Up 
+: 1572 2 5 up 
+: 1576 1 7 to 
+: 1578 1 10 the 
+* 1582 10 12 Sky 
+- 1594
+: 1888 4 7 Fly 
+: 1896 1 5 Ro
+: 1898 1 3 bin 
+: 1903 11 7 fly 
+- 1916
+: 1952 4 0 Fly 
+: 1960 1 3 Ro
+: 1962 1 5 bin 
+: 1967 6 0 Fly 
+- 1975
+: 2016 4 7 Fly 
+: 2024 1 5 Ro
+: 2026 1 3 bin 
+: 2031 11 7 fly 
+- 2044
+: 2080 2 3 Up 
+: 2084 2 5 up 
+: 2088 1 7 to 
+: 2090 1 10 the 
+: 2094 10 12 Sky 
+E

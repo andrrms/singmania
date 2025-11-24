@@ -1,0 +1,134 @@
+#ARTIST:Joe Cocker
+#TITLE:You Are So Beautiful
+#MP3:Joe Cocker - You Are So Beautiful.mp3
+#CREATOR:DoubleDee
+#COVER:Joe Cocker - You Are So Beautiful [CO].jpg
+#BACKGROUND:Joe Cocker - You Are So Beautiful [BG].jpg
+#YEAR:1974
+#LANGUAGE:English
+#BPM:372
+#GAP:17960
+#VIDEO:a=9rmGcE6m3KI,co=https://media.hitparade.ch/cover/big/joe_cocker-you_are_so_beautiful_s.jpg,co-crop=0-2-600-600,bg=joe-cocker-4de279ca1ad47.jpg,preview=17.96,medley=0-1457
+: 0 24 0 You 
+: 30 32 0 are 
+: 73 17 0 so 
+: 92 4 0 beau
+: 97 3 -2 ti
+: 105 12 -4 ful 
+- 166
+: 279 3 -9 To 
+: 285 29 0 me 
+- 338
+: 407 23 0 You 
+: 433 28 0 are 
+: 472 18 0 so 
+: 492 3 0 beau
+: 496 5 -2 ti
+: 505 11 -4 ful 
+- 565
+: 671 5 -9 To 
+: 678 45 0 me 
+- 733
+: 757 6 0 Can’t 
+: 765 5 1 you 
+: 773 3 1 see
+: 777 34 3 ~
+: 812 2 5 ~
+: 815 2 3 ~
+: 818 2 4 ~
+: 821 4 5 ~
+* 829 11 8 ~ 
+- 864
+: 916 7 5 Eve
+: 925 11 5 ry
+: 941 4 5 thing 
+: 946 12 5 I 
+: 960 9 7 hope 
+: 973 15 0 for 
+- 1037
+: 1094 10 -4 You’re 
+: 1114 10 7 eve
+: 1125 6 5 ry
+: 1135 3 5 thing
+: 1139 2 3 ~ 
+: 1142 7 3 I 
+: 1151 4 -2 need
+: 1156 6 -4 ~
+: 1163 10 -2 ~ 
+- 1222
+: 1274 21 0 You 
+: 1297 26 0 are 
+: 1333 16 0 so 
+: 1354 2 0 beau
+: 1357 4 -2 ti
+: 1363 7 -4 ful 
+- 1394
+: 1434 6 -9 To 
+: 1441 7 -2 me
+: 1449 8 -4 ~ 
+- 1506
+: 1562 18 0 You 
+: 1585 26 0 are 
+: 1623 16 0 so 
+: 1643 3 0 beau
+: 1647 2 -2 ti
+: 1654 13 -4 ful 
+- 1716
+: 1817 5 -9 To 
+: 1824 20 0 me 
+- 1868
+: 1939 22 0 You 
+: 1965 29 0 are 
+: 2002 18 0 so 
+: 2023 2 0 beau
+: 2026 5 -2 ti
+: 2034 14 -4 ful 
+- 2097
+: 2194 5 -9 To 
+: 2201 17 0 me 
+- 2242
+: 2275 7 0 Can’t 
+: 2284 4 1 you 
+: 2292 38 3 see
+: 2331 1 5 ~
+: 2333 1 3 ~
+: 2335 1 4 ~
+: 2337 3 5 ~
+: 2341 3 10 ~
+: 2348 5 8 ~
+: 2356 11 11 ~
+: 2368 9 10 ~ 
+- 2387
+: 2419 3 3 You’re
+: 2423 10 5 ~ 
+: 2435 7 5 eve
+: 2444 3 5 ry
+: 2451 5 5 thing 
+: 2457 11 5 I 
+: 2471 5 7 hope 
+: 2481 7 7 for
+: 2489 2 2 ~
+: 2493 6 0 ~
+: 2500 2 -2 ~ 
+- 2526
+: 2586 9 8 Eve
+: 2596 2 7 ~
+: 2599 13 8 ry
+: 2618 4 5 thing
+: 2623 10 3 ~ 
+: 2635 7 5 I 
+: 2646 4 -2 need
+: 2651 10 -4 ~ 
+- 2710
+: 2861 22 0 You 
+: 2886 29 0 are 
+: 2925 15 0 so 
+: 2944 3 0 beau
+: 2948 4 -2 ti
+: 2955 13 -4 ful 
+- 2992
+: 3025 4 7 To
+: 3030 3 10 ~
+: 3040 2 5 ~ 
+* 3044 88 8 me 
+E

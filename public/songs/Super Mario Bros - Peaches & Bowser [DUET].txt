@@ -1,0 +1,401 @@
+#ARTIST:Super Mario Bros
+#TITLE:Peaches & Bowser [DUET]
+#MP3:Super Mario Bros - Peaches & Bowser [DUET].mp3
+#CREATOR:UltraSinger
+#EDITION:[DUET]-Songs
+#COVER:Super Mario Bros - Peaches & Bowser [DUET] [CO].jpg
+#BACKGROUND:Super Mario Bros - Peaches & Bowser [DUET] [BG].jpg
+#LANGUAGE:English
+#BPM:369.14
+#GAP:3110
+#VIDEO:v=zw2NJdMNz44,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/10/37/4910370a-1389-ee8f-e540-e40e44da9fa5/676.jpg/5000x5000bb.jpg,p1=Bowser,p2=Peach
+P1
+: 0 4 9 This 
+: 5 3 2 one 
+- 10
+: 35 2 1 Is 
+: 42 2 1 for 
+: 48 3 -1 my 
+: 52 5 2 one 
+: 58 3 1 and 
+: 62 6 1 only 
+: 69 7 1 true 
+: 77 5 -1 love 
+- 84
+: 110 7 1 Prin
+: 117 7 1 cess 
+- 126
+: 129 7 1 Peach 
+- 138
+: 191 26 -4 Peach 
+- 219
+: 232 2 11 You’re 
+: 234 2 11 so 
+: 244 13 13 cool 
+- 259
+: 310 2 11 And 
+: 318 2 4 with 
+: 325 9 4 my 
+: 334 17 4 star 
+: 352 17 3 we’re 
+: 374 5 0 gon
+: 380 5 1 na 
+: 386 32 -2 rule 
+- 420
+: 450 22 10 Peach 
+- 474
+: 486 50 8 Understand? 
+- 538
+: 550 3 8 I’m 
+: 559 4 8 gon
+: 563 4 8 na 
+: 568 20 16 love 
+: 591 2 15 you 
+: 599 12 15 till 
+: 615 12 17 the 
+: 627 15 13 very 
+: 643 17 9 end 
+- 662
+: 704 9 13 Peaches 
+: 720 8 10 peaches 
+: 732 8 10 peaches 
+: 743 5 9 peaches 
+: 752 10 10 peaches 
+: 768 10 12 peaches 
+: 785 5 11 peaches 
+: 796 6 12 peaches 
+: 808 2 13 peaches 
+: 816 11 13 peaches 
+: 828 22 15 I 
+: 852 28 20 love 
+: 887 40 15 you 
+- 929
+: 961 9 10 Peaches 
+: 977 7 10 peaches 
+: 988 4 10 peaches 
+: 1000 5 10 peaches 
+: 1010 9 10 peaches 
+: 1025 5 12 peaches 
+- 1032
+: 1041 5 12 Peaches 
+: 1053 10 12 peaches 
+- 1065
+: 1071 1 12 Peaches 
+: 1073 9 12 peaches 
+: 1082 16 15 I 
+: 1099 38 17 love 
+: 1138 24 22 you 
+- 1164
+: 2250 13 10 Mario 
+: 2270 12 10 Luigi 
+- 2284
+: 2298 2 13 And 
+: 2301 3 9 a 
+: 2308 5 10 don
+: 2314 5 12 key 
+: 2319 11 10 kong 
+: 2334 10 10 too 
+- 2346
+: 2364 2 8 A 
+- 2368
+: 2376 3 15 Thou
+: 2379 3 15 sand 
+: 2389 5 17 Troops 
+: 2397 2 15 of 
+: 2405 10 15 Koopas 
+: 2421 7 15 couldn’t 
+- 2430
+: 2437 5 13 Keep 
+: 2445 5 13 me 
+: 2450 7 12 from 
+: 2459 10 12 you 
+- 2471
+: 2501 7 10 Prin
+: 2509 10 9 cess 
+: 2521 19 10 Peach 
+- 2542
+: 2547 6 13 At 
+: 2557 6 -2 the 
+: 2564 5 -2 end 
+: 2574 5 12 of 
+: 2581 5 10 the 
+: 2587 21 10 line 
+- 2610
+: 2629 18 17 I’ll 
+: 2653 12 20 make 
+: 2670 8 21 you 
+- 2680
+: 2686 21 15 Mine 
+- 2709
+: 2759 9 10 Peaches 
+: 2774 5 10 peaches 
+- 2781
+: 2787 4 10 Peaches 
+: 2798 1 11 peaches 
+: 2805 10 10 peaches 
+: 2819 1 13 peaches 
+: 2887 18 15 I 
+- 2907
+: 2911 28 20 Love 
+: 2942 34 20 you 
+: 3064 50 15 Peaches 
+- 3116
+: 4336 1 15 I 
+: 4337 4 15 got 
+: 4342 3 15 my 
+: 4348 6 15 peaches 
+: 4356 3 15 at 
+: 4360 1 13 the 
+: 4362 1 13 end 
+- 4365
+: 4400 2 15 I 
+: 4404 2 15 got 
+: 4407 2 15 my 
+: 4412 6 15 peaches 
+: 4420 3 15 at 
+: 4424 1 13 the 
+: 4426 1 13 end 
+- 4429
+: 4464 2 15 I 
+: 4468 2 15 got 
+: 4470 4 15 my 
+: 4476 7 15 peaches 
+: 4484 3 15 at 
+: 4489 2 13 the 
+: 4491 1 13 end 
+- 4494
+: 4500 2 15 Got 
+: 4503 3 15 my 
+: 4508 6 15 peaches 
+: 4516 3 15 at 
+: 4521 1 13 the 
+: 4522 1 13 end 
+- 4525
+: 4532 2 15 Got 
+: 4535 3 15 my 
+: 4540 7 15 peaches 
+: 4548 3 15 at 
+: 4553 1 13 the 
+: 4554 1 13 end 
+- 4557
+: 4592 2 15 I 
+: 4596 2 15 got 
+: 4599 3 15 my 
+: 4605 6 15 peaches 
+: 4613 3 15 at 
+: 4617 2 13 the 
+: 4620 1 13 end 
+- 4623
+: 4657 2 15 I 
+: 4660 2 15 got 
+: 4663 3 15 my 
+: 4669 6 15 peaches 
+: 4675 4 15 at 
+: 4681 2 13 the 
+: 4684 1 13 end 
+- 4687
+: 4721 2 15 I 
+: 4725 2 15 got 
+: 4728 3 15 my 
+: 4733 6 15 peaches 
+: 4741 3 15 at 
+: 4745 2 13 the 
+: 4748 1 15 end 
+: 4757 2 15 Got 
+: 4760 3 15 my 
+: 4765 6 15 peaches 
+: 4773 3 15 at 
+: 4777 1 15 the 
+: 4778 3 13 end 
+- 4783
+: 4789 2 15 Got 
+: 4792 3 15 my 
+: 4797 6 15 peaches 
+: 4803 4 15 at 
+: 4809 1 15 the 
+: 4810 3 13 end 
+P2
+: 1216 33 10 Bowser 
+- 1251
+: 1255 7 10 You’re 
+: 1264 10 10 so 
+: 1274 38 10 cool 
+- 1314
+: 1337 6 9 And 
+: 1345 2 11 with 
+: 1353 8 17 your 
+- 1363
+: 1369 13 15 Star 
+- 1383
+: 1384 15 15 We’re 
+: 1401 5 13 gon
+: 1406 10 13 na 
+: 1417 47 10 rule 
+- 1466
+: 1480 29 10 Bowser 
+- 1511
+: 1513 56 10 Understand? 
+- 1571
+: 1579 7 8 I’m 
+: 1586 5 8 gon
+: 1591 5 8 na 
+: 1600 17 16 love 
+: 1618 7 15 you 
+: 1627 11 15 till 
+: 1640 13 15 the 
+: 1657 14 13 very 
+: 1671 11 10 end 
+- 1684
+: 1740 2 13 Bowser 
+: 1747 6 10 Bowser 
+: 1760 8 10 Bowser 
+: 1771 3 11 Bowser 
+: 1780 9 10 Bowser 
+: 1795 11 12 Bowser 
+: 1811 17 12 Bowser 
+: 1835 3 12 Bowser 
+: 1844 14 12 Bowser 
+- 1859
+: 1860 19 15 I 
+- 1880
+: 1882 30 20 Love 
+: 1914 26 20 you 
+- 1942
+: 1965 14 16 Oh 
+- 1981
+: 1989 34 16 Bowser 
+- 2025
+: 2035 51 20 Bowser 
+- 2088
+: 2099 6 9 Oh 
+: 2107 21 13 yeah 
+- 2130
+: 2166 7 16 Oh 
+: 2173 14 14 yeah 
+- 2189
+: 2250 13 10 Mario 
+: 2270 12 10 Luigi 
+- 2284
+: 2298 3 13 And 
+: 2301 3 9 a 
+: 2308 5 10 don
+: 2314 5 12 key 
+: 2319 11 10 kong 
+: 2334 10 10 too 
+- 2346
+: 2364 2 8 A 
+- 2368
+: 2376 3 15 Thou
+: 2379 3 15 sand 
+: 2389 5 17 Troops 
+: 2397 2 15 of 
+: 2405 10 15 Koopas 
+: 2421 7 15 couldn’t 
+- 2430
+: 2437 5 13 Keep 
+: 2445 5 13 me 
+: 2450 7 12 from 
+: 2459 10 12 you 
+- 2471
+: 2629 18 17 I’ll 
+: 2653 12 20 make 
+: 2670 8 21 you 
+- 2680
+: 2686 38 15 Mine 
+- 2726
+: 2733 18 12 Oh 
+- 2753
+: 2822 16 14 Bowser 
+- 2838
+: 2838 13 12 Bowser 
+: 2851 12 13 Bowser 
+: 2863 7 12 Bowser 
+: 2870 13 13 Bowser 
+: 2884 22 15 I 
+- 2907
+: 2907 36 20 Love 
+: 2946 28 20 you 
+- 2976
+: 2990 13 17 Oh 
+- 3005
+: 3015 41 17 Bowser 
+- 3058
+: 3143 30 22 Bowser 
+- 3175
+: 3185 52 20 Bowser 
+- 3239
+: 4336 1 15 I 
+: 4337 4 15 got 
+: 4342 3 15 my 
+: 4348 6 15 peaches 
+: 4356 3 15 at 
+: 4360 1 13 the 
+: 4362 1 13 end 
+- 4365
+: 4400 2 15 I 
+: 4404 2 15 got 
+: 4407 2 15 my 
+: 4412 6 15 peaches 
+: 4420 3 15 at 
+: 4424 2 13 the 
+: 4426 1 13 end 
+- 4429
+: 4464 2 15 I 
+: 4468 2 15 got 
+: 4470 4 15 my 
+: 4476 7 15 peaches 
+: 4484 3 15 at 
+: 4489 2 13 the 
+: 4491 1 13 end 
+- 4494
+: 4500 2 15 Got 
+: 4503 3 15 my 
+: 4508 6 15 peaches 
+: 4516 3 15 at 
+: 4521 1 13 the 
+: 4522 1 13 end 
+- 4525
+: 4532 2 15 Got 
+: 4535 3 15 my 
+: 4540 7 15 peaches 
+: 4548 3 15 at 
+: 4553 1 13 the 
+: 4554 1 13 end 
+- 4557
+: 4592 2 15 I 
+: 4596 2 15 got 
+: 4599 3 15 my 
+: 4605 6 15 peaches 
+: 4613 3 15 at 
+: 4617 2 13 the 
+: 4620 1 13 end 
+- 4623
+: 4657 2 15 I 
+: 4660 2 15 got 
+: 4663 3 15 my 
+: 4669 6 15 peaches 
+: 4675 4 15 at 
+: 4681 2 13 the 
+: 4684 1 13 end 
+- 4687
+: 4721 2 15 I 
+: 4725 3 15 got 
+: 4728 3 15 my 
+: 4733 6 15 peaches 
+: 4741 3 15 at 
+: 4745 2 13 the 
+: 4748 1 15 end 
+: 4757 2 15 Got 
+: 4760 3 15 my 
+: 4765 6 15 peaches 
+: 4773 3 15 at 
+: 4777 1 15 the 
+: 4778 3 13 end 
+- 4783
+: 4789 2 15 Got 
+: 4792 3 15 my 
+: 4797 6 15 peaches 
+: 4803 4 15 at 
+: 4809 1 15 the 
+: 4810 3 13 end 
+E

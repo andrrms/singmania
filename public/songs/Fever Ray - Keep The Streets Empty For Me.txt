@@ -1,0 +1,276 @@
+#ARTIST:Fever Ray
+#TITLE:Keep The Streets Empty For Me
+#MP3:Fever Ray - Keep The Streets Empty For Me.mp3
+#COVER:Fever Ray - Keep The Streets Empty For Me [CO].jpg
+#BACKGROUND:Fever Ray - Keep The Streets Empty For Me [BG].jpg
+#GENRE:Indie Pop
+#YEAR:2009
+#LANGUAGE:English
+#BPM:300
+#GAP:33760
+#VIDEO:a=jWFb5z3kUSQ,co=fever-ray-4f11f3a1b1d3d.jpg,medley=483-1481
+: 0 8 30 Memory 
+: 13 6 34 comes 
+: 20 3 25 when 
+* 28 15 27 memory’s 
+* 44 16 23 old 
+- 80
+: 118 2 33 I 
+: 123 7 25 am 
+: 133 8 28 never 
+: 142 3 20 the 
+: 147 9 22 first 
+: 157 4 21 to 
+: 165 22 25 know 
+- 207
+: 241 5 31 Fol
+: 248 7 30 low
+: 257 6 34 ing 
+: 264 3 26 the 
+: 271 6 27 stream 
+: 279 4 26 up 
+: 287 24 23 North 
+- 331
+: 360 8 26 Where 
+: 370 3 25 do 
+: 376 4 29 pe
+: 382 3 28 ople 
+: 386 6 19 like 
+: 395 10 20 us 
+: 409 27 25 float 
+- 456
+: 483 8 30 There 
+: 492 3 31 is 
+: 499 11 33 room 
+* 514 3 26 in 
+* 521 6 26 my 
+* 530 20 23 lap 
+- 570
+: 598 4 33 For 
+: 605 8 24 brui
+: 614 5 24 ses, 
+: 621 9 28 as
+: 632 3 33 ses, 
+: 636 8 21 hand 
+: 649 28 25 claps 
+- 697
+: 727 5 33 I 
+: 733 7 30 will 
+: 742 7 34 ne
+: 750 5 24 ver 
+: 757 11 25 disap
+: 775 18 23 pear 
+- 813
+: 848 5 25 For 
+: 856 7 25 for
+: 864 11 28 ever, 
+: 879 4 33 I’ll 
+: 887 5 22 be 
+: 894 35 25 here 
+- 939
+: 968 10 26 Whis
+: 983 34 23 pering 
+- 1037
+: 1061 7 26 Mor
+: 1069 5 23 ning, 
+: 1075 6 26 keep 
+: 1084 3 33 the 
+: 1095 26 25 streets 
+: 1122 5 25 emp
+: 1130 71 28 ty 
+: 1206 2 34 for 
+: 1210 22 26 me 
+- 1252
+: 1304 7 26 Mor
+: 1312 4 23 ning, 
+: 1317 6 26 keep 
+: 1327 5 21 the 
+: 1335 24 25 streets 
+: 1365 5 25 emp
+: 1372 60 28 ty 
+- 1443
+: 1447 6 23 For 
+: 1455 26 26 me 
+- 1521
+: 1572 3 20 I’m 
+: 1577 5 30 lay
+: 1583 5 30 ing 
+: 1591 12 33 down, 
+: 1607 5 27 ea
+: 1615 4 26 ting 
+: 1622 18 23 snow 
+- 1660
+: 1695 3 33 My 
+: 1699 6 25 fur 
+: 1707 3 33 is 
+: 1711 5 28 hot, 
+: 1721 4 21 my 
+: 1727 11 21 tongue 
+: 1740 2 33 is 
+: 1746 32 25 cold 
+- 1798
+: 1820 4 30 On 
+: 1825 3 30 a 
+: 1831 10 33 bed 
+: 1842 1 25 of 
+: 1845 3 33 s
+: 1850 7 26 pi
+: 1858 5 28 der 
+: 1865 23 23 web 
+- 1908
+: 1937 2 25 I 
+: 1942 5 25 think 
+: 1948 4 25 of 
+: 1957 5 29 how 
+: 1964 2 22 to 
+: 1968 10 21 change 
+: 1979 3 19 my
+: 1983 28 25 self 
+- 2031
+: 2059 2 33 A 
+: 2063 4 29 lot 
+: 2069 3 30 of 
+: 2075 7 33 hope 
+: 2085 3 19 in 
+: 2089 1 19 a 
+: 2093 6 26 one 
+: 2101 5 28 man 
+: 2107 22 23 tent 
+- 2149
+: 2185 6 25 There’s 
+: 2192 7 25 no 
+: 2200 7 28 room 
+: 2210 4 21 for 
+: 2216 4 20 inno
+: 2227 28 25 cence 
+- 2275
+: 2300 4 33 So 
+: 2305 6 30 take 
+: 2315 3 30 me 
+: 2321 7 33 home 
+: 2333 10 26 before 
+: 2345 5 28 the 
+: 2351 32 23 storm 
+- 2403
+: 2427 5 24 Vel
+: 2433 3 25 vet 
+: 2438 8 28 mo
+: 2447 2 33 ~ths 
+: 2450 4 20 will 
+: 2455 6 21 keep 
+: 2464 14 18 us 
+: 2481 40 25 warm 
+- 2531
+: 2546 15 26 Whis
+: 2564 28 23 pering 
+- 2612
+: 2637 8 26 Mor
+: 2647 4 30 ning, 
+: 2653 7 26 keep 
+: 2661 3 31 the 
+: 2670 30 28 streets 
+: 2701 6 28 emp
+: 2708 68 28 pty 
+- 2782
+: 2785 6 33 For 
+: 2793 20 26 me 
+- 2833
+: 2881 8 30 Mor
+: 2890 4 30 ning, 
+: 2896 6 31 keep 
+: 2904 3 33 the 
+: 2914 30 28 streets 
+: 2945 6 28 emp
+: 2952 56 28 ty 
+- 3018
+: 3025 9 33 For 
+: 3036 22 27 me 
+- 3098
+: 4127 15 28 Whis
+: 4144 33 26 pering 
+- 4197
+: 4217 15 30 Morning, 
+: 4234 5 30 keep 
+: 4240 4 30 the 
+: 4250 25 28 streets 
+: 4281 5 28 e
+: 4288 2 33 ~mp
+: 4291 69 28 ty 
+: 4363 7 23 for 
+: 4372 16 26 me 
+- 4408
+: 4460 15 30 Morning, 
+: 4477 7 30 keep 
+: 4485 3 30 the 
+: 4494 26 28 streets 
+* 4524 6 28 emp
+* 4531 58 28 ty 
+- 4599
+: 4606 7 33 For 
+: 4615 22 26 me 
+- 4677
+F 4728 13 25 Uncover 
+F 4744 6 21 our 
+F 4752 9 21 heads 
+F 4762 3 18 and 
+F 4767 8 21 reveal 
+F 4776 3 21 our 
+F 4780 45 25 souls 
+- 4835
+F 4856 9 26 We 
+F 4867 7 23 were 
+F 4876 11 23 hungry 
+F 4890 11 23 before 
+F 4904 3 21 we 
+F 4910 7 23 were 
+F 4920 9 23 born 
+- 4949
+F 4970 13 25 Uncover 
+F 4986 5 21 our 
+F 4994 9 22 heads 
+F 5006 5 18 and 
+F 5014 11 21 reveal 
+F 5028 5 25 our 
+F 5036 11 25 souls 
+- 5067
+F 5099 3 25 We 
+F 5105 7 23 were 
+F 5115 11 23 hungry 
+F 5129 11 23 before 
+F 5143 3 23 we 
+F 5148 7 21 were 
+F 5157 35 23 born 
+- 5202
+F 5213 13 25 Uncover 
+F 5229 5 21 our 
+F 5237 9 21 heads 
+F 5249 1 33 and 
+F 5252 2 33 reveal 
+F 5257 4 33 our 
+F 5266 36 25 soul
+F 5304 7 25 s 
+- 5321
+F 5343 3 26 We 
+F 5349 7 26 were 
+F 5359 11 23 hungry 
+F 5372 9 23 before 
+F 5384 4 23 we 
+F 5390 5 21 were 
+F 5397 9 21 born 
+- 5426
+F 5457 13 33 Uncover 
+F 5473 5 33 our 
+F 5481 9 11 heads 
+F 5493 5 33 and 
+F 5501 11 21 reveal 
+F 5515 5 37 our 
+F 5523 11 37 souls 
+- 5554
+F 5609 2 33 We 
+F 5614 6 33 were 
+F 5623 9 33 hungry 
+F 5635 10 33 before 
+F 5648 2 33 we 
+F 5653 6 22 were 
+F 5662 8 22 born 
+E

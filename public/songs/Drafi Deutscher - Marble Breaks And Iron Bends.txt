@@ -1,0 +1,265 @@
+#ARTIST:Drafi Deutscher
+#TITLE:Marble Breaks And Iron Bends
+#MP3:Drafi Deutscher - Marble Breaks And Iron Bends.mp3
+#CREATOR:Joecuul
+#YEAR:1966
+#LANGUAGE:English
+#BPM:224.75
+#GAP:6620
+#VIDEO:a=AGKHYjhMPmE,co=https://i.discogs.com/TH5TKGElP3VequefsIswUJTUfBvLMpV2KNQJPsDoIXo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAy/NzgyLTE2MDIzNTg1/MzEtNDMzMS5qcGVn.jpeg
+: 0 3 4 If 
+: 4 5 4 the 
+: 12 5 4 sun 
+: 20 3 3 doe
+: 24 5 4 sn’t 
+* 32 3 8 al
+: 37 4 4 ways 
+: 45 5 4 shine 
+- 52
+: 57 7 4 Dam 
+: 65 8 6 dam 
+* 89 7 9 dam 
+: 97 8 8 dam 
+- 107
+: 129 4 4 Just 
+: 134 7 4 re
+: 142 6 4 mem
+: 150 3 3 ber 
+: 154 6 4 that 
+* 162 3 8 you 
+: 167 5 4 are 
+: 174 6 4 mine 
+- 182
+: 186 6 4 Dam 
+: 194 7 6 dam 
+* 218 6 9 dam 
+: 226 6 8 dam 
+- 234
+: 255 4 16 Mar
+: 260 5 16 ble 
+: 268 11 16 breaks 
+: 280 7 16 and 
+: 288 3 15 i
+: 292 5 13 ron 
+: 299 7 13 bends 
+- 308
+: 319 3 15 But 
+: 323 5 15 our 
+: 330 7 15 lo
+: 338 3 13 ve 
+: 342 4 15 will 
+: 349 3 16 ne
+: 353 3 11 ~
+: 358 3 13 ver 
+: 362 6 11 end 
+- 370
+: 380 3 16 Af
+: 384 8 16 ter 
+: 396 3 16 all 
+: 400 8 16 is 
+* 411 3 15 said 
+: 415 6 13 and 
+: 424 8 13 done 
+- 434
+: 443 3 15 You’re 
+: 447 7 15 the 
+: 458 2 13 on
+: 462 5 15 ly 
+: 470 12 16 one 
+- 484
+: 537 4 4 Should 
+: 542 7 4 I 
+: 550 6 4 e
+: 558 2 3 ver 
+: 562 4 4 be 
+* 569 3 8 far 
+: 573 7 4 a
+: 581 5 4 way 
+- 588
+: 593 6 4 Dam 
+: 601 7 6 dam 
+* 625 6 9 dam 
+: 633 7 8 dam 
+- 642
+: 664 3 4 My 
+: 669 5 4 love 
+: 676 6 4 is 
+: 684 3 3 with 
+: 688 4 4 you 
+* 695 4 8 night 
+: 700 6 4 and 
+: 707 7 4 day 
+- 716
+: 719 6 4 Dam 
+: 727 7 6 dam 
+* 750 6 9 dam 
+: 758 7 8 dam 
+- 767
+: 788 3 16 Mar
+: 793 5 16 ble 
+: 801 10 16 breaks 
+: 812 5 16 and 
+: 820 4 15 i
+: 825 5 13 ron 
+: 832 6 13 bends 
+- 840
+: 852 2 15 But 
+: 856 5 15 our 
+: 863 6 15 lo
+: 870 3 13 ve 
+: 874 4 15 will 
+: 881 3 16 ne
+: 885 3 11 ~
+: 889 3 13 ver 
+: 893 7 11 end 
+- 902
+: 913 3 16 Af
+: 917 7 16 ter 
+: 928 3 16 all 
+: 932 7 16 is 
+* 943 4 15 said 
+: 948 5 13 and 
+: 955 8 13 done 
+- 965
+: 975 3 15 You’re 
+: 979 9 15 the 
+: 989 4 13 on
+: 994 4 15 ly 
+: 1002 11 16 one 
+- 1015
+: 1035 5 20 Mar
+: 1042 4 20 ble 
+: 1050 7 20 breaks 
+: 1058 7 20 and 
+: 1069 7 18 i
+: 1077 3 16 ron 
+: 1081 3 13 be~
+: 1085 3 11 ~
+: 1089 5 9 ~nds 
+- 1096
+: 1100 6 15 But 
+: 1107 4 11 our 
+: 1112 5 13 love 
+: 1118 6 15 will 
+: 1131 6 16 ne
+: 1138 3 16 ver
+: 1142 3 13 ~ 
+: 1146 5 11 end 
+- 1153
+: 1160 4 20 Af
+: 1166 4 20 ter 
+: 1172 3 18 all
+: 1176 3 20 ~ 
+: 1180 3 18 is
+: 1184 4 20 ~ 
+: 1192 6 18 said 
+: 1199 3 16 and 
+: 1203 3 13 done
+: 1207 3 11 ~
+: 1211 3 9 ~ 
+- 1216
+: 1218 3 15 You’re 
+: 1222 4 15 the
+: 1227 5 11 ~ 
+: 1233 4 13 on
+: 1238 4 15 ly 
+: 1245 12 16 one 
+- 1259
+: 1348 4 5 Til 
+: 1353 6 5 I 
+: 1360 7 5 give 
+: 1368 4 4 you 
+: 1373 5 5 a 
+* 1380 4 9 band 
+: 1385 7 5 of 
+: 1393 5 5 gold 
+- 1400
+: 1405 6 5 Dam 
+: 1413 7 7 dam 
+* 1437 6 10 dam 
+: 1445 7 9 dam 
+- 1454
+: 1477 3 5 Take 
+: 1481 7 5 my 
+: 1489 6 5 heart 
+: 1497 3 4 now 
+: 1502 4 5 to 
+* 1509 4 9 have 
+: 1514 6 5 and 
+: 1522 5 5 hold 
+- 1529
+: 1534 6 5 Dam 
+: 1542 7 7 dam 
+* 1565 7 10 dam 
+: 1574 7 9 dam 
+- 1583
+: 1603 3 17 Mar
+: 1607 5 17 ble 
+: 1615 11 17 breaks 
+: 1627 5 17 and 
+: 1634 4 16 i
+: 1639 6 14 ron 
+: 1646 7 14 bends 
+- 1655
+: 1666 3 16 But 
+: 1670 6 16 our 
+: 1677 6 16 lo
+: 1684 4 14 ve 
+: 1689 4 16 will 
+: 1696 3 17 ne
+: 1700 3 12 ~
+: 1704 3 14 ver 
+: 1708 7 12 end 
+- 1717
+: 1726 3 17 Af
+: 1730 7 17 ter 
+: 1741 3 17 all 
+: 1745 7 17 is 
+* 1756 4 16 said 
+: 1761 5 14 and 
+: 1768 8 14 done 
+- 1778
+: 1788 3 16 You’re 
+: 1792 9 16 the 
+: 1802 3 14 on
+: 1806 4 16 ly 
+: 1814 11 17 one 
+- 1827
+: 1848 5 21 Mar
+: 1855 4 21 ble 
+: 1862 8 21 breaks 
+: 1871 7 21 and 
+: 1882 6 19 i
+: 1889 3 17 ron 
+: 1893 3 14 be~
+: 1897 3 12 ~
+: 1901 5 10 ~nds 
+- 1908
+: 1913 6 16 But 
+: 1920 3 12 our 
+: 1924 6 14 love 
+: 1931 6 16 will 
+: 1944 5 17 ne
+: 1950 4 17 ver
+: 1955 3 14 ~ 
+: 1959 3 12 end
+: 1963 3 9 ~ 
+- 1968
+: 1973 4 21 Af
+: 1979 4 21 ter 
+: 1985 3 19 all
+: 1989 3 21 ~ 
+: 1993 3 19 is
+: 1997 4 21 ~ 
+: 2005 6 19 said 
+: 2012 3 17 and 
+: 2016 3 14 done
+: 2020 3 12 ~
+: 2024 3 10 ~ 
+- 2029
+: 2031 3 16 You’re 
+: 2035 3 16 the 
+: 2039 5 12 on
+: 2050 4 16 ly 
+: 2058 11 17 one 
+E

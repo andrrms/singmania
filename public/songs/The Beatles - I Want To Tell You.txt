@@ -1,0 +1,194 @@
+#ARTIST:The Beatles
+#TITLE:I Want To Tell You
+#MP3:The Beatles - I Want To Tell You.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:256.12
+#GAP:16180
+#VIDEO:v=ja7P5890yIM,co=https://www.earlybeatles.com/song-images/NS-1966__I_Want_To_Tell_You.jpg,bg=beatles-the-53062b2a99606.jpg,preview=15.0
+: 0 2 4 I 
+: 4 3 9 want 
+: 10 3 11 to 
+: 18 13 13 tell 
+: 35 3 9 you 
+- 40
+: 65 2 4 My 
+: 69 2 9 head 
+: 74 4 11 is 
+: 82 4 13 filled 
+: 90 4 9 with 
+* 98 4 11 things 
+* 107 4 13 to 
+* 115 28 15 say 
+- 145
+: 166 3 14 When 
+: 171 5 13 you’re 
+: 180 7 11 here 
+- 189
+: 230 3 14 All 
+: 235 4 13 those 
+: 244 5 11 words 
+: 253 4 11 they 
+: 261 4 9 seem 
+: 269 4 8 to 
+- 275
+: 278 3 9 Slip 
+: 283 4 11 a
+: 291 40 13 way 
+- 333
+: 355 1 4 When 
+: 358 3 9 I 
+: 363 3 11 get 
+: 373 13 13 near 
+: 389 3 9 you 
+- 394
+: 420 2 4 The 
+: 423 3 9 games 
+: 429 4 11 be
+: 437 4 13 gin 
+: 445 4 9 to 
+: 453 4 11 drag 
+: 461 4 13 me 
+: 469 28 15 down 
+- 499
+* 520 3 14 It’s 
+* 525 5 13 al
+* 534 8 11 right 
+- 544
+: 584 3 14 I’ll 
+: 590 4 13 make 
+: 598 4 11 you 
+: 605 4 11 may
+: 613 4 9 be 
+: 621 5 8 next 
+- 628
+: 632 3 9 Time 
+: 638 4 11 a
+: 646 28 13 round 
+- 676
+: 708 2 11 But 
+: 711 2 11 if 
+: 716 4 11 I 
+: 725 6 13 seem 
+: 736 2 11 to 
+: 740 4 11 act 
+: 748 4 11 un
+: 756 2 11 kind
+: 760 4 9 ~ 
+- 766
+: 772 4 9 It’s 
+: 779 4 9 on
+: 785 3 9 ly 
+: 792 4 11 me, 
+: 799 4 9 it’s 
+: 807 4 9 not 
+* 815 4 8 my 
+* 823 2 9 mind
+* 826 2 8 ~
+* 829 8 6 ~ 
+- 839
+: 864 2 11 That 
+: 869 6 9 is 
+: 878 4 8 con
+: 888 3 11 fu
+: 894 5 9 sing 
+: 902 24 9 things 
+- 928
+: 966 2 4 I 
+: 969 3 9 want 
+: 974 4 11 to 
+: 983 13 13 tell 
+: 999 3 9 you 
+- 1004
+* 1029 2 4 I 
+* 1032 2 9 feel 
+* 1037 4 11 hung 
+* 1045 4 13 up 
+: 1053 1 9 and 
+: 1055 3 9 I 
+: 1061 4 11 don’t 
+: 1069 4 13 know 
+: 1077 28 15 why 
+- 1107
+: 1128 3 14 I 
+: 1133 5 13 don’t 
+: 1142 6 11 mind 
+- 1150
+: 1192 3 14 I 
+: 1197 4 13 could 
+: 1205 4 11 wait 
+: 1213 4 11 for
+: 1221 4 9 e
+: 1229 4 8 ver 
+- 1235
+: 1240 3 9 I’ve 
+: 1245 4 11 got 
+: 1253 46 13 time 
+- 1301
+* 1316 4 11 Some
+* 1323 4 11 times 
+* 1331 4 11 I 
+* 1338 3 13 wish 
+: 1344 4 11 I 
+: 1351 4 11 knew 
+: 1358 4 11 you 
+: 1365 2 11 well
+: 1369 4 9 ~ 
+- 1375
+: 1388 2 9 Then 
+: 1392 2 9 I 
+: 1397 3 9 could 
+: 1405 3 11 speak 
+: 1411 3 9 my 
+: 1417 3 9 mind 
+: 1423 4 8 and 
+: 1431 3 9 tell 
+: 1438 6 6 you 
+- 1446
+: 1474 3 11 May
+: 1480 5 9 be 
+: 1488 4 8 you’d 
+: 1496 4 11 un
+: 1504 4 9 der
+: 1512 18 9 stand 
+- 1532
+: 1574 2 4 I 
+: 1577 3 9 want 
+: 1583 4 11 to 
+* 1591 12 13 tell 
+* 1607 3 9 you 
+- 1612
+: 1638 2 4 I 
+: 1642 2 9 feel 
+: 1646 4 11 hung 
+: 1654 4 13 up 
+: 1662 1 9 and 
+: 1664 3 9 I 
+: 1671 4 11 don’t 
+: 1679 4 13 know 
+: 1687 30 15 why 
+- 1719
+: 1738 3 14 I 
+: 1744 4 13 don’t 
+: 1752 8 11 mind 
+- 1762
+: 1802 3 14 I 
+: 1808 4 13 could 
+: 1815 4 11 wait 
+: 1823 4 11 for
+: 1831 4 9 e
+: 1839 4 8 ver 
+- 1845
+: 1851 3 9 I’ve 
+: 1856 4 11 got 
+: 1864 46 13 time 
+- 1912
+* 1982 3 9 I’ve 
+* 1988 4 11 got 
+* 1995 38 13 time 
+- 2035
+: 2047 3 9 I’ve 
+: 2053 4 11 got 
+: 2061 60 13 time. 
+E

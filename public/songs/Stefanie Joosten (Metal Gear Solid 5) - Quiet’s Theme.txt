@@ -1,0 +1,169 @@
+#ARTIST:Stefanie Joosten (Metal Gear Solid 5)
+#TITLE:Quiet’s Theme
+#MP3:Stefanie Joosten (Metal Gear Solid 5) - Quiet’s Theme.mp3
+#CREATOR:magic-ott
+#YEAR:2015
+#LANGUAGE:English
+#BPM:252
+#GAP:1290
+#VIDEO:a=3lwUS0GlNIA,co=https://eta.vgmtreasurechest.com/soundtracks/metal-gear-solid-v-original-soundtrack-2015/Front.png
+: 0 31 2 Huuh 
+: 48 21 4 huuh-
+: 70 8 2 huh-
+: 80 23 2 huuh 
+- 105
+: 132 19 1 Huuh 
+: 156 26 2 huuh 
+: 213 17 4 huuh-
+: 231 9 2 huh-
+: 241 25 2 huuh 
+- 268
+* 320 24 2 Birds 
+: 384 10 4 in 
+: 400 7 2 the 
+: 409 31 2 sky 
+- 442
+: 475 6 1 Car
+: 482 17 2 ry 
+: 530 6 9 the
+: 537 9 8 se 
+: 547 19 4 words 
+: 572 7 3 for 
+: 580 28 2 me. 
+- 610
+: 644 16 2 Life 
+: 702 13 4 tas
+: 716 6 3 ted 
+: 723 37 2 sweet, 
+- 762
+: 783 4 5 It 
+: 788 6 5 let 
+: 795 6 7 me 
+: 802 15 7 live, 
+- 819
+: 863 1 4 It 
+: 865 7 4 let 
+: 873 17 2 me 
+: 891 26 2 breathe. 
+- 919
+: 968 25 2 Love 
+: 1025 20 4 hurts 
+: 1046 5 3 so 
+: 1052 21 2 bad, 
+- 1075
+: 1108 9 2 But 
+: 1118 24 2 still 
+: 1186 14 5 sav
+: 1201 2 4 ed 
+: 1204 7 3 my 
+: 1212 19 2 soul. 
+- 1233
+: 1284 22 2 Flo
+: 1307 16 2 wers 
+* 1325 18 10 of 
+: 1349 2 7 a 
+: 1352 4 8 brigh
+: 1357 13 4 ter 
+: 1371 14 3 past, 
+- 1387
+: 1420 10 5 They 
+: 1431 10 6 bloom
+: 1442 7 6 ed 
+: 1450 5 7 so 
+: 1456 14 7 free, 
+- 1472
+: 1503 7 10 Be
+: 1511 18 4 neath 
+: 1530 3 3 the 
+* 1534 26 2 sun 
+- 1562
+* 1608 10 3 Me
+* 1619 5 2 mo
+* 1625 37 2 ries, 
+- 1664
+: 1685 6 2 I 
+: 1692 6 3 want 
+: 1699 4 2 to 
+: 1704 9 2 give 
+: 1714 8 9 them 
+: 1723 8 5 to 
+: 1732 21 6 you, 
+- 1755
+: 1768 4 2 So 
+: 1773 5 2 you 
+: 1779 6 2 can 
+: 1786 29 2 see, 
+- 1817
+: 1824 17 3 What 
+: 1842 9 3 we 
+* 1852 3 3 left
+* 1856 3 4 ~
+* 1860 3 5 ~
+* 1864 19 6 ~ 
+: 1884 31 4 there. 
+- 1917
+: 1920 6 3 When 
+: 1927 6 3 all 
+: 1934 12 3 hope 
+: 1947 12 7 bleeds 
+* 1960 34 7 ou
+* 1995 2 6 t, 
+- 1998
+: 1998 9 2 What 
+: 2008 4 2 re
+: 2013 15 3 mains 
+: 2029 6 3 is 
+: 2036 5 3 doubt,
+: 2042 5 4 ~
+: 2048 18 5 ~ 
+- 2068
+: 2084 7 4 Should 
+: 2092 4 5 have 
+: 2097 7 6 left 
+: 2105 4 5 it 
+* 2110 2 6 all
+* 2113 2 7 ~
+* 2116 2 8 ~
+* 2119 10 9 ~ 
+: 2130 7 8 for 
+: 2138 16 9 you 
+- 2155
+: 2155 9 2 For 
+: 2165 5 2 to
+: 2171 8 1 mor
+: 2180 23 0 row. 
+- 2205
+: 2239 9 7 As 
+: 2249 5 6 your 
+: 2255 13 7 time 
+: 2269 13 6 draws 
+* 2283 25 7 near, 
+- 2310
+: 2322 8 1 Will 
+: 2331 7 1 you 
+: 2339 6 1 live 
+: 2346 5 1 in 
+: 2352 5 2 fear? 
+: 2358 10 5 ~
+: 2369 2 0 ~
+: 2372 19 1 ~ 
+- 2393
+: 2403 9 1 Could 
+: 2413 3 1 have 
+: 2417 10 1 left 
+: 2428 4 1 it 
+: 2433 1 4 all
+: 2435 1 6 ~
+: 2437 1 8 ~
+: 2439 1 9 ~
+: 2441 7 10 ~ 
+: 2449 12 9 for 
+: 2462 15 9 you, 
+- 2479
+: 2482 8 4 But 
+: 2491 8 4 we 
+* 2500 2 5 let
+* 2503 2 6 ~
+* 2506 38 7 ~ 
+* 2560 31 0 go. 
+E

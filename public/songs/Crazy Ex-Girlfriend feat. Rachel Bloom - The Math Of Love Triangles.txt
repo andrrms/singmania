@@ -1,0 +1,638 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Rachel Bloom
+#TITLE:The Math Of Love Triangles
+#MP3:Crazy Ex-Girlfriend feat. Rachel Bloom - The Math Of Love Triangles.mp3
+#CREATOR:blackcat6
+#COVER:Crazy Ex-Girlfriend feat. Rachel Bloom - The Math Of Love Triangles [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Rachel Bloom - The Math Of Love Triangles [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:370
+#GAP:1700
+#VIDEO:v=Ck-UhvbCDAk,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/e8/60/45e86038-0b28-8f57-8de4-04559f60767d/794043191060.jpg/5000x5000bb.jpg
+: 0 3 -2 What’s 
+: 8 2 -2 a 
+: 13 3 -2 girl 
+: 19 1 -2 to 
+: 25 6 5 do 
+: 37 2 5 when 
+: 43 2 5 she’s 
+: 52 2 3 stuck 
+: 59 1 3 be
+: 65 6 3 tween 
+: 75 9 0 men? 
+- 96
+: 100 2 -2 It’s 
+: 108 4 -2 like 
+: 118 2 -2 she’s 
+: 122 2 -2 a 
+: 129 6 5 Bar
+: 137 4 5 bie 
+- 143
+F 145 2 0 With 
+F 155 4 0 two 
+F 162 4 0 per
+F 170 3 0 fect 
+F 177 12 0 Kens 
+- 201
+F 205 2 0 But 
+F 212 5 0 wait, 
+F 229 3 0 it 
+F 235 3 0 just 
+F 242 2 0 oc
+F 248 5 0 curred 
+F 258 2 0 to 
+F 263 4 0 me 
+- 277
+: 302 4 3 May
+: 307 3 3 be 
+: 311 2 3 I 
+: 316 2 3 can 
+: 324 4 3 solve 
+: 332 2 0 this 
+: 344 2 1 with 
+* 351 3 3 ge
+* 356 4 5 o
+* 362 2 6 me
+* 368 12 5 try 
+- 390
+F 394 3 0 Yes, 
+F 403 7 0 smarts 
+F 415 3 0 can 
+F 420 3 0 help 
+F 428 3 0 this 
+F 434 3 0 si
+F 439 3 0 tu
+F 444 3 0 a
+F 449 3 0 tion 
+F 454 4 0 un
+F 461 6 0 tan
+F 468 4 0 gle 
+- 481
+F 485 4 0 So 
+F 493 3 0 pro
+F 499 3 0 fes
+F 505 5 0 sors 
+- 522
+F 526 7 0 Teach 
+F 535 5 0 me 
+- 549
+: 553 2 7 The 
+: 559 7 9 math 
+: 572 4 0 of 
+: 588 8 8 love 
+: 604 12 8 tri
+: 618 7 7 an
+: 626 18 5 gles 
+- 654
+F 668 6 0 Yay, 
+F 678 4 0 time 
+F 684 2 0 for 
+F 689 4 0 book 
+F 696 11 0 facts 
+- 717
+: 743 1 2 A 
+: 746 4 5 tri
+: 751 2 5 an
+: 754 6 2 gle 
+: 762 5 0 is 
+: 770 4 -3 a 
+: 778 4 0 po
+: 783 4 2 ly
+: 789 5 0 gon 
+- 796
+: 798 1 0 With 
+: 802 5 2 three 
+: 809 3 5 ed
+: 815 3 2 ges 
+: 822 7 0 and 
+: 834 4 -3 three 
+: 840 5 0 ver
+: 846 3 2 ti
+: 853 5 0 ces 
+- 863
+: 865 3 2 Take 
+: 870 1 0 the 
+: 874 3 5 base 
+: 881 3 2 times 
+: 887 1 0 the 
+: 890 4 5 height, 
+- 902
+: 905 2 5 Cut 
+: 909 2 5 that 
+: 912 3 2 in 
+: 917 5 5 half 
+: 925 1 2 to 
+: 928 4 5 find 
+: 933 2 2 the 
+: 936 4 5 a
+: 941 2 5 re
+: 944 4 5 a 
+- 950
+: 952 5 7 Of 
+: 960 4 8 the 
+: 968 4 7 sur
+: 973 3 5 fa
+: 980 4 5 ces 
+- 986
+F 988 3 0 Uh 
+F 992 2 0 huh, 
+F 996 2 0 I 
+F 1000 2 0 wa
+F 1004 2 0 sn’t 
+F 1008 2 0 real
+F 1012 2 0 ly 
+F 1016 2 0 lis
+F 1020 2 0 te
+F 1024 3 0 ning, 
+F 1029 2 0 but 
+F 1033 3 0 I 
+F 1039 3 0 can 
+F 1046 5 0 see 
+- 1057
+F 1060 1 0 The 
+F 1065 2 0 cen
+F 1069 2 0 ter 
+F 1072 2 0 of 
+F 1075 2 0 the 
+F 1080 4 0 tri
+F 1085 2 0 an
+F 1089 3 0 gle 
+F 1093 2 0 is 
+F 1097 4 0 lil’ 
+F 1102 4 0 old 
+F 1110 5 0 me 
+- 1139
+: 1188 1 5 The 
+: 1193 4 5 math 
+: 1200 2 2 of 
+: 1207 4 0 love 
+* 1217 4 -5 tri
+* 1223 4 -3 an
+* 1229 4 0 gles 
+- 1243
+: 1256 3 5 Is
+: 1261 4 2 n’t 
+: 1270 5 0 hard 
+: 1280 2 -5 to 
+: 1285 8 -3 learn 
+- 1303
+: 1307 2 5 You’re 
+: 1310 5 5 not 
+: 1319 3 5 ta
+: 1324 2 5 king 
+: 1327 5 2 in 
+: 1335 4 0 what 
+: 1342 2 -5 we’re 
+: 1349 5 -3 sa
+: 1356 6 0 ying 
+- 1371
+: 1374 5 -7 We’re 
+: 1380 2 -7 a 
+: 1383 4 -7 lit
+: 1388 4 -7 tle 
+: 1396 3 -4 bit 
+: 1403 4 -5 con
+: 1412 2 -5 cerned
+: 1415 6 -7 ~ 
+- 1431
+: 1438 2 5 Yes, 
+: 1444 1 5 the 
+: 1448 3 5 math 
+: 1454 2 2 of 
+: 1461 3 0 love 
+: 1471 4 -5 tri
+: 1477 4 -3 an
+: 1483 5 0 gles 
+- 1496
+: 1499 1 5 Is 
+: 1503 2 5 as 
+: 1510 3 5 sim
+: 1517 3 5 ple 
+* 1524 4 7 as 
+* 1533 3 8 can 
+* 1540 8 9 be 
+- 1558
+F 1562 3 0 Which
+F 1566 2 0 e
+F 1569 2 0 ver 
+F 1574 5 0 Tom 
+F 1581 3 0 or 
+F 1587 6 0 Dick 
+F 1606 3 0 I 
+F 1611 5 0 might 
+F 1619 5 0 pick 
+- 1630
+F 1632 1 0 The 
+F 1638 3 0 cen
+F 1642 2 0 ter 
+F 1645 1 0 of 
+F 1648 1 0 the 
+F 1654 3 0 tri
+F 1658 2 0 an
+F 1661 2 0 gle 
+F 1664 2 0 is 
+F 1668 5 0 lil’ 
+F 1674 4 0 old 
+F 1682 8 0 me 
+- 1696
+: 1699 2 5 Ac
+: 1706 2 5 tual
+: 1709 3 5 ly 
+: 1713 2 5 a 
+: 1717 4 5 tri
+: 1722 2 5 an
+: 1725 3 5 gle 
+: 1729 2 5 has 
+: 1734 3 8 mul
+: 1739 1 5 ti
+: 1742 3 7 ple 
+: 1750 3 7 cen
+: 1754 4 5 ters 
+- 1807
+: 1883 3 -4 This 
+: 1892 3 -4 tri
+: 1896 2 -4 an
+: 1900 3 -4 gle’s 
+: 1908 4 0 sca
+: 1913 6 0 lene 
+- 1921
+F 1923 3 0 That’s 
+F 1929 3 0 as
+F 1936 6 0 tute, 
+F 1947 3 0 so 
+F 1951 3 0 I 
+F 1955 3 0 need 
+F 1959 2 0 to 
+F 1963 4 0 de
+F 1968 5 0 cide 
+F 1976 5 0 which 
+F 1983 5 0 man’s 
+F 1991 4 0 more 
+F 1996 3 0 a
+F 2001 6 0 cute 
+- 2009
+: 2011 1 -4 Here’s 
+: 2016 1 -4 Py
+: 2019 3 -4 tha
+: 2023 3 -4 go
+: 2027 2 -4 ras’
+: 2031 1 -4 ~ 
+: 2035 2 0 the
+: 2038 2 0 o
+: 2041 2 0 rem 
+- 2045
+F 2047 2 0 Will 
+F 2051 3 0 this 
+F 2056 3 0 help 
+F 2060 3 0 me 
+F 2065 5 0 choose? 
+- 2072
+F 2074 3 0 If 
+F 2081 4 0 not, 
+F 2088 2 0 I’ll 
+F 2092 2 0 be 
+F 2097 2 0 swin
+F 2100 3 0 ging 
+F 2106 2 0 from 
+F 2109 2 0 a 
+F 2114 3 0 hy
+F 2119 4 0 po
+F 2125 2 0 te
+F 2129 7 0 nuse 
+- 2144
+: 2147 2 -4 Let’s 
+: 2155 3 -4 take 
+: 2159 2 -4 a 
+: 2162 3 0 look 
+: 2166 2 0 at 
+: 2170 2 0 what 
+: 2174 1 0 this 
+: 2178 4 -1 line 
+: 2184 3 -1 bi
+: 2191 5 -2 sects 
+- 2204
+F 2207 1 0 Is 
+F 2210 3 0 that 
+F 2218 4 0 spelled 
+F 2226 5 0 B-
+F 2234 4 0 I-
+F 2242 4 0 S-
+F 2248 3 0 E-
+F 2255 9 0 X? 
+- 2270
+: 2273 3 -4 Those 
+: 2278 2 -4 are 
+: 2281 4 -4 good 
+: 2289 3 0 puns 
+: 2294 2 0 but 
+: 2298 4 0 please 
+: 2305 3 -1 pay 
+: 2310 4 -1 at
+: 2317 4 -2 ten
+: 2326 3 -2 tion 
+- 2331
+F 2333 2 0 Oh 
+F 2337 4 0 no, 
+F 2344 3 0 pro
+F 2349 3 0 fes
+F 2354 3 0 sors, 
+F 2358 2 0 am 
+F 2361 4 0 I 
+F 2368 4 0 fa
+F 2374 3 0 cing 
+F 2379 3 0 sus
+F 2385 4 0 pen
+F 2390 5 0 sion? 
+- 2400
+F 2402 9 0 Wee! 
+F 2412 2 0 A 
+F 2419 7 0 swing! 
+F 2431 3 0 It’s 
+F 2437 5 0 lite
+F 2443 3 0 ral 
+F 2447 6 0 sus
+F 2456 4 0 pen
+F 2463 6 0 sion! 
+- 2479
+: 2494 2 5 The 
+: 2498 4 5 math 
+: 2506 1 2 of 
+: 2514 2 0 love 
+: 2521 5 -5 tri
+: 2527 5 -3 an
+: 2534 5 0 gles 
+- 2549
+: 2561 3 5 Is
+: 2566 4 2 n’t 
+: 2575 4 0 hard 
+: 2584 3 -5 to 
+: 2590 9 -3 learn 
+- 2611
+: 2615 4 5 We’re 
+: 2623 7 5 star
+: 2631 5 2 ting 
+: 2640 4 0 to 
+: 2647 2 -5 sus
+: 2652 4 -3 pect 
+- 2666
+: 2675 2 5 You 
+: 2678 4 5 don’t 
+: 2684 1 5 sin
+: 2687 4 5 cere
+: 2692 2 5 ly 
+: 2695 4 5 wan
+: 2700 1 5 na 
+: 2703 4 5 know 
+: 2708 1 5 a
+: 2711 3 5 bout 
+* 2719 4 8 tri
+* 2725 4 7 an
+* 2731 5 5 gles 
+- 2740
+: 2742 1 5 Yes, 
+: 2747 2 5 the 
+: 2751 4 5 math 
+: 2759 2 2 of 
+: 2766 3 0 love 
+: 2776 4 -5 tri
+: 2782 4 -3 an
+: 2788 5 0 gles 
+- 2802
+: 2806 1 5 Is 
+: 2810 2 5 as 
+: 2816 3 5 sim
+: 2822 3 5 ple 
+: 2831 3 7 as 
+: 2839 3 7 can 
+: 2846 8 9 be 
+- 2863
+F 2867 2 0 I 
+F 2871 2 0 need 
+F 2876 1 0 to 
+F 2881 2 0 choose 
+F 2885 1 0 be
+F 2890 4 0 tween 
+F 2896 7 0 men, 
+F 2907 2 0 but 
+F 2910 4 0 un
+F 2916 3 0 til 
+F 2922 9 0 then 
+- 2935
+F 2937 2 0 The 
+F 2942 3 0 cen
+F 2947 2 0 ter 
+F 2950 1 0 of 
+F 2952 2 0 the 
+F 2958 3 0 tri
+F 2962 2 0 an
+F 2965 2 0 gle 
+F 2968 1 0 is 
+F 2973 4 0 lil’ 
+F 2979 5 0 old 
+F 2986 8 0 me 
+- 3004
+F 3033 2 0 Is 
+F 3037 2 0 this 
+F 3042 2 0 a 
+F 3047 3 0 tri
+F 3051 5 0 an
+F 3057 6 0 gle? 
+- 3067
+: 3069 4 5 No, 
+: 3074 2 5 that’s 
+: 3078 1 5 a 
+: 3083 8 2 shoe 
+- 3094
+F 3096 2 0 Is 
+F 3101 2 0 this 
+F 3105 1 0 a 
+F 3111 4 0 tri
+F 3116 4 0 an
+F 3121 5 0 gle? 
+- 3129
+* 3131 5 5 No, 
+* 3137 3 5 that’s 
+* 3145 7 2 you 
+- 3158
+F 3160 3 0 So 
+F 3165 3 0 I’m 
+F 3169 1 0 a 
+F 3174 4 0 tri
+F 3179 3 0 an
+F 3183 4 0 gle? 
+- 3193
+F 3195 4 0 What? 
+: 3211 7 2 No! 
+- 3225
+F 3228 4 0 One, 
+F 3236 4 0 two, 
+F 3244 5 0 three, 
+F 3252 4 0 six, 
+F 3260 4 0 eight, 
+F 3267 6 0 three, 
+F 3276 10 0 go! 
+- 3310
+F 3363 3 0 You 
+F 3367 3 0 don’t 
+F 3373 2 0 seem 
+F 3376 1 0 to 
+F 3378 3 0 know 
+F 3382 1 0 how 
+F 3384 2 0 to 
+F 3388 8 0 count 
+- 3406
+F 3434 4 0 We’re 
+F 3440 3 0 sin
+F 3446 3 0 cere
+F 3450 3 0 ly 
+F 3456 2 0 wo
+F 3459 2 0 rried 
+F 3462 2 0 a
+F 3465 4 0 bout 
+F 3472 5 0 you 
+- 3481
+F 3483 7 0 Catch 
+F 3492 20 0 me! 
+- 3522
+F 3534 3 0 You’re 
+F 3539 6 0 rui
+F 3546 3 0 ning 
+F 3551 2 0 the 
+F 3555 4 0 num
+F 3561 6 0 ber! 
+- 3575
+: 3578 2 4 This 
+: 3583 3 4 an
+: 3587 2 4 gle’s 
+: 3592 6 3 right 
+- 3606
+F 3609 3 0 Which 
+F 3614 4 0 an
+F 3619 4 0 gle’s 
+F 3625 3 0 right? 
+- 3630
+: 3632 2 2 No, 
+: 3635 4 2 not 
+: 3642 3 4 right 
+: 3647 3 4 like 
+: 3652 3 4 co
+: 3656 4 3 rrect 
+- 3663
+F 3665 6 0 Ooh, 
+F 3674 3 0 are 
+F 3679 2 0 you 
+F 3682 3 0 e
+F 3687 4 0 rect? 
+- 3696
+: 3698 5 2 No, 
+: 3705 4 1 nine
+: 3710 2 1 ty 
+: 3713 2 1 de
+: 3719 5 1 grees 
+- 3728
+F 3730 4 0 That’s 
+F 3737 4 0 real
+F 3742 2 0 ly 
+F 3745 3 0 e
+F 3750 5 0 rect 
+- 3763
+: 3766 3 7 The 
+: 3771 4 7 math 
+: 3779 2 4 of 
+: 3787 2 2 love 
+: 3796 3 -3 tri
+: 3801 5 -1 an
+: 3807 4 2 gles 
+- 3821
+: 3828 1 7 Is 
+: 3835 2 7 su
+: 3842 2 4 per 
+: 3850 2 2 du
+: 3855 3 -3 per 
+: 3864 7 -1 fun 
+- 3881
+: 3894 2 4 We’re 
+: 3897 7 7 tired 
+: 3905 5 4 of 
+: 3913 6 7 all 
+: 3920 3 4 your 
+: 3926 6 7 tan
+: 3934 4 4 gents 
+- 3948
+: 3958 1 7 That’s 
+* 3961 4 10 al
+: 3968 5 10 so 
+: 3974 1 10 a 
+: 3977 4 9 tri
+: 3982 2 7 an
+: 3985 3 9 gle 
+: 3990 7 7 pun 
+- 4002
+F 4004 12 0 Oh, 
+F 4024 7 0 thanks 
+F 4033 3 0 for 
+F 4039 3 0 tea
+F 4043 4 0 ching 
+F 4048 3 0 me 
+F 4052 7 0 man 
+F 4060 12 0 math 
+- 4081
+: 4084 3 7 You 
+: 4088 6 7 all 
+: 4097 2 4 de
+: 4105 3 2 serve 
+: 4109 2 -3 a 
+: 4118 3 -1 kiss 
+- 4131
+: 4151 7 7 La
+: 4159 5 4 dy, 
+: 4167 4 7 we’re 
+: 4172 5 4 all 
+: 4180 7 7 gay 
+- 4197
+: 4204 2 7 We 
+: 4207 3 7 get 
+: 4214 5 10 no
+: 4223 7 10 thing 
+: 4231 5 9 out 
+: 4237 3 9 of 
+: 4244 3 7 this 
+- 4257
+: 4280 3 7 Nei
+: 4287 4 4 ther 
+: 4295 5 2 man 
+: 4303 5 -3 will 
+: 4311 4 -1 no
+: 4319 2 2 tice 
+- 4331
+: 4338 4 7 My 
+: 4343 4 7 lear
+: 4348 2 7 ning 
+: 4352 1 7 dis
+: 4356 1 7 a
+: 4361 3 9 bi
+: 4365 2 10 li
+: 4372 8 11 ty 
+- 4390
+: 4398 2 7 ’Cause 
+: 4402 1 9 the 
+* 4408 4 11 cen
+* 4415 3 4 ter 
+* 4423 3 11 of 
+* 4430 2 4 the 
+: 4439 4 11 tri
+: 4444 5 4 an
+: 4451 3 4 gle 
+- 4460
+: 4462 1 4 Is 
+: 4468 6 14 lil’ 
+: 4485 6 14 old 
+: 4501 2 14 se
+: 4506 2 14 xy 
+: 4509 2 14 lit
+: 4512 3 14 tle 
+: 4517 6 15 ba
+: 4525 4 14 by 
+: 4540 88 19 me! 
+E

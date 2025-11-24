@@ -1,0 +1,328 @@
+#ARTIST:Cashell
+#TITLE:Un-gravitify
+#MP3:Cashell - Un-gravitify.mp3
+#CREATOR:omega-xis
+#YEAR:2011
+#LANGUAGE:English
+#BPM:360
+#GAP:20750
+#VIDEO:a=YsiR-j38HaU,co=https://static.wikia.nocookie.net/sonic/images/7/71/Sonic_Riders_Shooting_Star_Story_Original_Soundtrack.png
+: 0 7 24 In 
+: 8 13 22 no 
+: 22 12 19 way 
+: 36 9 11 any 
+: 46 16 13 other 
+: 72 9 5 way 
+: 82 7 5 will 
+: 90 22 5 do 
+- 114
+: 172 10 22 Fly, 
+: 184 7 22 ride, 
+: 192 11 19 any 
+: 204 6 12 wea
+: 212 12 12 ther, 
+: 236 5 5 no
+: 242 9 5 thing 
+: 252 22 22 new, 
+: 284 5 5 in 
+: 290 18 5 blue 
+- 310
+: 336 9 3 Spee
+: 346 5 3 ding 
+: 352 1 8 in 
+: 354 3 5 a 
+: 358 7 5 stream 
+: 366 5 5 with 
+: 372 3 5 a 
+: 376 7 20 sense 
+: 384 6 22 that 
+: 392 3 21 no 
+: 396 3 14 on 
+: 400 5 5 else 
+: 406 4 5 can 
+: 412 5 5 de
+: 418 13 5 fi
+: 432 8 5 ne 
+- 442
+: 502 7 2 Floa
+: 510 5 2 ting 
+: 516 3 20 as 
+: 520 3 5 a 
+: 524 7 5 cream, 
+: 532 3 5 in 
+: 536 3 5 a 
+: 540 8 22 bliss 
+: 550 3 21 that 
+: 554 5 5 you 
+: 560 5 5 no 
+: 566 9 5 longer 
+: 576 7 5 feel 
+: 584 26 5 time 
+- 612
+: 668 9 2 Right 
+: 678 9 2 through 
+: 688 9 4 gra
+: 698 22 4 vity 
+- 722
+: 738 11 4 Just 
+: 750 9 5 right 
+: 760 11 5 through 
+: 772 5 5 what 
+: 778 20 17 earth 
+: 800 22 13 planned 
+- 824
+: 832 9 2 Right 
+: 842 7 2 through 
+: 850 10 4 gra
+: 862 16 4 vity 
+- 880
+: 900 13 10 Right 
+: 914 8 16 through, 
+: 924 11 11 now, 
+: 936 7 10 let 
+: 944 9 25 them 
+: 954 30 7 loose 
+- 986
+: 998 11 8 Ride 
+: 1010 9 10 through 
+: 1020 5 28 gra
+: 1026 26 25 vity 
+- 1054
+: 1068 11 4 For 
+: 1080 7 5 all 
+: 1088 11 5 that’s 
+: 1100 7 4 not, 
+: 1108 17 12 falls 
+: 1126 28 6 down 
+- 1156
+: 1160 9 2 Right 
+: 1170 9 29 through 
+: 1180 5 25 ano
+: 1186 3 25 ma
+: 1190 32 22 lies 
+- 1224
+: 1228 15 26 With 
+: 1244 8 21 one 
+: 1254 5 21 worth 
+: 1260 5 16 be
+: 1266 5 16 lie
+: 1272 3 15 ving 
+: 1276 36 17 in 
+- 1314
+: 1492 5 9 All 
+: 1498 8 9 within 
+: 1508 3 9 the 
+: 1512 7 9 speed 
+: 1520 3 9 of 
+: 1524 3 9 a 
+: 1528 9 9 light 
+: 1538 5 10 that 
+: 1544 5 9 one 
+: 1550 5 8 will 
+: 1556 5 18 fight 
+: 1562 3 18 to 
+: 1566 20 18 command 
+- 1588
+: 1646 11 21 Just 
+: 1658 7 21 may
+: 1666 9 15 be 
+: 1676 9 7 ready 
+: 1686 12 5 never, 
+: 1716 12 16 still 
+: 1730 1 12 we 
+: 1732 24 12 do 
+- 1758
+: 1810 9 5 For 
+: 1820 11 22 none 
+: 1832 7 21 is 
+: 1840 11 5 ever 
+: 1852 16 5 better, 
+: 1884 5 7 win 
+: 1890 5 5 or 
+: 1896 27 4 lo
+: 1924 3 5 se 
+: 1928 11 3 it 
+: 1940 32 3 all 
+- 1974
+: 1982 6 3 Bea
+: 1990 5 3 ming 
+: 1996 7 4 just 
+: 2004 3 5 to 
+: 2008 5 5 be 
+: 2014 5 5 on 
+: 2020 3 5 a 
+: 2024 9 4 path 
+: 2034 3 7 that’s 
+: 2038 3 5 set 
+: 2042 3 5 to 
+: 2046 7 5 sha
+: 2054 5 5 tter 
+: 2060 3 5 the 
+: 2064 40 5 grounds 
+- 2106
+: 2146 3 2 Al
+: 2150 5 2 though 
+: 2156 5 2 it’s 
+: 2162 4 3 but 
+: 2168 3 5 a 
+: 2172 7 5 dream, 
+: 2180 5 5 but 
+: 2186 1 6 in 
+: 2188 7 5 dreams 
+: 2196 5 5 are 
+: 2202 7 6 where 
+: 2210 4 5 the 
+: 2216 5 7 nevers 
+: 2222 3 10 are 
+: 2226 38 24 found 
+- 2266
+: 2310 14 13 Rise 
+: 2326 5 13 and 
+: 2332 7 13 let 
+: 2340 40 14 go 
+- 2382
+: 2394 3 5 Up
+: 2398 9 5 rise 
+: 2408 17 5 until 
+: 2426 21 17 un
+: 2448 17 17 bound 
+- 2466
+: 2466 11 10 Keep 
+: 2478 11 9 ri
+: 2490 8 9 sing, 
+: 2500 3 4 e
+: 2504 7 4 ver
+: 2512 26 4 more 
+- 2540
+: 2548 11 4 Let 
+: 2560 11 22 all 
+: 2572 9 20 go, 
+: 2582 7 22 let 
+: 2590 7 7 them 
+: 2598 38 7 loose 
+- 2638
+: 2642 13 2 Ride 
+: 2656 9 2 and 
+: 2666 10 4 let 
+: 2678 31 4 go 
+- 2710
+: 2710 9 5 In 
+: 2720 9 5 light 
+: 2730 7 5 in 
+: 2738 12 5 which 
+: 2752 15 10 sun 
+: 2768 30 6 drowns 
+- 2800
+: 2808 9 2 Break 
+: 2818 5 2 and 
+: 2824 8 2 make 
+: 2834 5 9 it 
+: 2840 24 4 all 
+- 2866
+: 2874 15 21 Don’t 
+: 2890 9 21 stand 
+: 2900 7 21 down, 
+: 2908 3 21 a
+: 2912 5 21 gainst 
+: 2918 7 22 the 
+: 2926 48 19 rules 
+- 2976
+: 3086 9 2 Don’t 
+: 3096 11 2 stand 
+: 3108 9 2 down, 
+: 3118 7 2 break 
+: 3126 14 2 through 
+- 3142
+: 3164 15 2 Through 
+: 3180 9 2 light 
+: 3190 7 2 in 
+: 3198 11 2 which 
+: 3210 13 21 sun 
+: 3224 16 9 drowns 
+- 3242
+: 3252 9 2 Don’t 
+: 3262 9 2 stand 
+: 3272 7 2 down, 
+: 3280 9 2 break 
+: 3290 30 2 through 
+- 3322
+: 3324 16 4 Let 
+: 3342 11 4 all 
+: 3354 7 3 go, 
+: 3362 9 3 break 
+: 3372 9 3 them 
+: 3382 36 4 loose 
+- 3420
+: 3628 11 2 Right 
+: 3640 9 8 through 
+: 3650 9 7 gra
+: 3660 28 4 vity 
+- 3690
+: 3702 9 5 Just 
+: 3712 11 5 right 
+: 3724 9 5 through 
+: 3734 8 3 what 
+: 3744 17 17 earth 
+: 3762 20 10 planned 
+- 3784
+: 3792 11 5 Right 
+: 3804 13 5 through 
+: 3818 7 6 gra
+: 3826 22 4 vity 
+- 3850
+: 3862 15 7 Right 
+: 3878 9 8 through, 
+: 3888 5 7 now, 
+: 3894 9 7 let 
+: 3904 7 7 them 
+: 3912 36 7 loose 
+- 3950
+: 3958 11 5 Ride 
+: 3970 7 6 through 
+: 3978 6 7 gra
+: 3986 30 4 vity 
+- 4018
+: 4028 11 5 For 
+: 4040 11 5 all 
+: 4052 9 5 that’s 
+: 4062 5 5 not, 
+: 4068 19 10 falls 
+: 4088 24 7 down 
+- 4114
+: 4122 12 2 Right 
+: 4136 3 4 through 
+: 4140 6 6 ano
+: 4148 5 8 ma
+: 4154 28 4 lies 
+- 4184
+: 4190 14 4 With 
+: 4206 5 5 one 
+: 4212 9 7 worth 
+: 4222 5 6 be
+: 4228 5 9 lie
+: 4234 7 6 ving 
+: 4242 34 9 in 
+- 4278
+: 4400 7 5 With 
+: 4408 10 8 one 
+: 4420 7 8 worth 
+: 4428 3 9 be
+: 4432 5 5 lie
+: 4438 5 8 ving 
+: 4444 24 4 in 
+- 4470
+: 4560 9 6 With 
+: 4570 9 9 one 
+: 4580 9 9 worth 
+: 4590 1 10 be
+: 4592 6 6 lie
+: 4600 3 9 ving 
+: 4604 24 5 in 
+- 4630
+: 4726 13 5 Just 
+: 4740 9 11 ride 
+: 4750 9 8 on 
+: 4760 11 2 until 
+: 4772 9 2 it’s 
+: 4782 36 7 through 
+E

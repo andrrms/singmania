@@ -1,0 +1,319 @@
+#ARTIST:Depeche Mode
+#TITLE:Broken (Live Studio Session)
+#MP3:Depeche Mode - Broken (Live Studio Session).mp3
+#CREATOR:Dragon33
+#COVER:Depeche Mode - Broken (Live Studio Session) [CO].jpg
+#BACKGROUND:Depeche Mode - Broken (Live Studio Session) [BG].jpg
+#GENRE:New Wave
+#YEAR:2013
+#LANGUAGE:English
+#BPM:218.89
+#GAP:31800
+#VIDEO:v=urbmwI8APdo,co=delta-machine-5f1e127451d7f.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 2 -2 If 
+: 4 2 1 you 
+: 8 2 1 want 
+: 12 2 1 con
+: 16 13 1 trol 
+- 31
+: 63 2 -2 With
+: 67 3 1 out 
+: 72 3 1 a
+: 76 2 3 ny 
+: 80 3 1 pain
+: 84 9 0 ~ 
+- 95
+: 128 2 -4 Hm 
+: 131 3 -4 how 
+: 135 3 -4 long 
+: 139 1 -4 will 
+: 141 2 -4 you 
+: 146 2 -4 suf
+* 149 9 -2 fer? 
+- 160
+: 195 3 -2 How 
+: 199 3 -2 long 
+: 203 1 -2 will 
+: 205 2 -2 you 
+: 209 2 -2 reign?
+: 212 12 0 ~ 
+- 226
+: 247 2 -4 You 
+: 251 2 0 see 
+: 255 2 0 the 
+: 258 3 0 friend 
+: 263 2 0 that 
+: 267 3 1 I 
+: 272 7 -2 knew? 
+- 281
+: 320 1 -2 He 
+: 323 3 5 can
+: 327 2 5 not 
+: 331 2 5 be 
+: 336 2 3 found
+: 339 9 1 ~ 
+- 350
+: 382 2 -2 Re
+: 386 4 -2 placed 
+: 392 4 -2 by 
+: 399 2 -2 a
+: 403 3 -2 no
+: 407 7 0 ther 
+- 416
+* 450 3 -4 Wea
+* 454 6 -4 ring 
+: 463 5 -4 his 
+: 471 9 -2 crown 
+- 482
+: 634 2 0 There’s 
+: 638 2 0 a 
+: 642 2 0 place 
+: 646 2 0 where 
+: 650 2 0 I 
+: 654 9 1 go 
+- 665
+: 702 2 -2 With
+: 705 3 1 out 
+: 710 3 1 a
+: 714 2 3 ny 
+: 719 3 1 sound
+: 723 8 0 ~ 
+- 733
+: 767 3 -4 Mh 
+: 771 2 -4 on
+: 774 2 -4 ly 
+: 777 3 -4 you 
+: 782 1 -4 can 
+: 784 5 -4 reach 
+: 791 7 -2 me 
+- 800
+: 834 2 -2 On
+: 837 2 -2 ly 
+: 841 2 -2 you’re 
+: 844 1 -2 a
+* 846 22 0 llowed 
+- 870
+: 890 2 0 Then 
+: 893 2 0 you’re 
+: 897 2 0 so 
+: 901 2 0 far 
+: 905 2 1 a
+: 910 9 -2 way 
+- 921
+: 957 1 5 You’re 
+: 959 6 5 so 
+: 967 2 5 far
+: 970 6 6 ~ 
+: 978 3 5 from 
+: 983 4 3 here
+: 988 9 1 ~ 
+- 999
+: 1026 2 3 Do 
+: 1029 3 3 you 
+: 1034 1 1 re
+: 1036 7 3 mem
+: 1044 8 5 ber 
+- 1054
+: 1084 2 0 A 
+* 1088 5 5 time 
+: 1095 4 5 with
+: 1102 4 3 out 
+: 1110 16 6 tears? 
+- 1128
+: 1158 2 5 When 
+: 1161 2 5 you’re 
+: 1165 7 9 fa
+: 1173 11 10 lling 
+- 1186
+: 1190 2 10 I 
+: 1193 2 10 will 
+: 1197 6 14 catch 
+: 1205 15 12 you 
+- 1222
+: 1226 1 5 You 
+: 1228 2 5 don’t 
+: 1232 2 9 have 
+: 1237 5 10 to 
+: 1246 7 10 fall 
+: 1257 1 5 that 
+: 1261 9 3 far 
+- 1272
+: 1286 1 10 You 
+: 1289 1 10 can 
+: 1292 7 10 make 
+: 1301 9 9 it 
+- 1312
+: 1318 2 12 I 
+: 1321 2 12 will 
+: 1324 7 9 be 
+: 1332 12 10 there 
+- 1346
+: 1353 2 5 You 
+: 1356 2 5 were 
+: 1360 4 9 bro
+: 1365 5 10 ken 
+* 1373 7 10 from 
+: 1384 1 5 the 
+: 1388 12 3 start 
+- 1402
+: 1532 2 -4 When 
+: 1535 3 0 you 
+: 1540 2 0 were 
+: 1544 2 0 a 
+: 1548 14 1 child 
+- 1564
+: 1596 2 -4 You’d 
+: 1599 5 1 dream 
+: 1605 4 1 all 
+: 1611 6 3 day 
+: 1619 3 1 long
+: 1623 9 0 ~ 
+- 1634
+: 1660 2 -4 You’d 
+: 1663 3 -4 dream 
+: 1668 2 -4 of 
+: 1671 2 -4 the 
+: 1675 5 -4 fu
+: 1681 9 -2 ture 
+- 1692
+: 1717 6 -2 Mh 
+: 1724 2 -2 get 
+: 1727 4 -2 lost 
+: 1733 5 -2 in 
+: 1740 5 -2 your 
+* 1748 16 0 songs 
+- 1766
+: 1788 2 0 Now 
+: 1792 2 0 that 
+: 1796 3 0 time 
+: 1801 2 1 is 
+: 1804 12 -2 gone 
+- 1818
+: 1852 2 5 It’s 
+: 1856 4 5 lost 
+: 1862 2 5 for
+: 1865 4 6 ~ 
+: 1870 5 5 you 
+: 1878 2 3 now
+: 1881 11 1 ~ 
+- 1894
+: 1920 3 3 Words 
+: 1925 5 3 long 
+: 1932 2 1 for
+: 1935 4 3 got
+: 1941 7 5 ten 
+- 1950
+: 1979 3 5 For
+: 1983 4 5 got
+: 1989 3 5 ten 
+: 1995 7 3 some
+: 2004 16 6 how 
+- 2022
+: 2053 2 5 When 
+: 2056 2 5 you’re 
+* 2060 7 9 fa
+* 2068 12 10 lling 
+- 2082
+: 2085 2 10 I 
+: 2088 2 10 will 
+: 2092 5 14 catch 
+: 2100 16 12 you 
+- 2118
+: 2121 1 5 You 
+: 2123 2 5 don’t 
+: 2127 2 9 have 
+: 2132 5 10 to 
+: 2140 9 10 fall 
+: 2153 1 5 that 
+: 2156 9 3 far 
+- 2167
+: 2181 1 10 You 
+: 2184 1 10 can 
+: 2187 8 10 make 
+: 2197 11 9 it 
+- 2210
+: 2213 2 12 I 
+: 2216 2 12 will 
+: 2220 8 9 be 
+: 2229 13 10 there 
+- 2244
+: 2249 2 5 You 
+: 2252 2 5 were 
+: 2256 3 9 bro
+: 2260 5 10 ken 
+: 2269 8 10 from 
+: 2281 1 5 the 
+: 2284 12 3 start 
+- 2298
+: 2310 1 5 When 
+: 2312 2 5 you’re 
+: 2316 7 9 fa
+: 2324 12 10 lling 
+- 2338
+: 2341 2 10 I 
+: 2344 2 10 will 
+* 2348 5 14 catch 
+: 2356 16 12 you 
+- 2374
+: 2377 2 5 You 
+: 2380 2 5 don’t 
+: 2384 2 9 have 
+: 2388 5 10 to 
+: 2396 10 10 fall 
+: 2410 1 5 that 
+: 2413 11 3 far 
+- 2426
+: 2438 1 10 You 
+: 2441 1 10 can 
+: 2444 7 10 make 
+: 2453 11 9 it 
+- 2466
+: 2469 2 12 I 
+: 2472 2 12 will 
+: 2476 7 9 be 
+: 2484 16 10 there 
+- 2502
+: 2505 2 5 You 
+: 2508 2 5 were 
+: 2512 4 9 bro
+: 2517 5 10 ken 
+: 2525 8 10 from 
+: 2537 1 5 the 
+: 2541 11 3 start 
+- 2554
+: 2693 2 5 When 
+: 2696 2 5 you’re 
+: 2700 8 9 fa
+: 2709 11 10 lling 
+- 2722
+: 2726 2 10 I 
+: 2729 2 10 will 
+: 2733 4 10 catch 
+* 2740 8 12 you 
+- 2750
+: 2761 2 5 You 
+: 2764 2 5 don’t 
+: 2769 2 9 have 
+: 2773 5 10 to 
+: 2781 10 10 fall 
+: 2794 2 5 that 
+: 2798 11 3 far 
+- 2811
+: 2822 1 10 You 
+: 2825 1 10 can 
+: 2828 9 10 make 
+: 2839 6 9 it 
+- 2847
+: 2854 2 12 I 
+: 2857 2 12 will 
+: 2861 8 9 be 
+: 2870 11 10 there 
+- 2883
+: 2890 2 5 You 
+: 2893 3 5 were 
+* 2899 6 9 bro
+* 2906 7 10 ken 
+: 2916 9 10 from 
+: 2929 2 5 the 
+: 2934 22 3 start 
+E

@@ -1,0 +1,73 @@
+#ARTIST:Trolls (Anna Kendrick)
+#TITLE:The Sound Of Silence
+#MP3:Trolls (Anna Kendrick) - The Sound Of Silence.mp3
+#CREATOR:Leroidukitch
+#YEAR:2016
+#LANGUAGE:English
+#BPM:244
+#GAP:5370
+#VIDEO:a=ZBkp49vluoU,co=https://headlineplanet.com/home/wp-content/uploads/2016/11/Trolls-Soundtrack-Cover.jpg,bg=trolls-5c8a1cb93802b.jpg
+: 0 2 5 Hel
+: 3 5 5 lo 
+: 10 4 8 dark
+: 15 4 8 ness, 
+: 21 3 12 my 
+: 25 3 12 old 
+: 30 18 10 friend. 
+- 50
+: 68 3 3 I’ve 
+: 73 3 3 come 
+: 78 2 3 to 
+: 81 4 7 talk 
+: 87 3 7 with 
+: 91 4 10 you 
+: 96 3 10 a
+: 100 17 8 gain. 
+- 119
+: 147 3 8 Be
+: 151 4 8 cause 
+: 156 2 8 a 
+: 160 3 12 vi
+: 164 3 12 sion 
+: 169 4 15 soft
+: 175 2 15 ly
+* 178 8 17 ~ 
+: 187 4 17 cree
+: 193 16 15 ping. 
+- 211
+: 225 4 8 Left 
+: 230 2 8 it’s 
+: 234 4 12 seeds 
+: 240 4 12 while 
+: 245 3 15 I 
+: 249 3 15 wa
+: 253 5 17 ~s 
+: 261 4 17 slee
+: 267 13 15 ping 
+- 282
+: 300 3 8 And 
+: 304 3 8 the 
+: 309 3 17 vi
+: 314 9 17 sion 
+- 325
+: 336 4 17 That 
+: 341 3 19 was 
+: 346 3 20 plan
+* 351 12 20 ted 
+: 364 3 19 in 
+: 368 7 17 my 
+: 377 9 15 brain 
+- 388
+: 408 5 17 Still 
+: 414 3 15 re
+: 419 12 12 mains 
+- 433
+: 461 2 8 With
+: 464 3 8 in 
+: 468 2 8 the 
+: 473 20 15 sound 
+- 495
+: 546 2 7 Of 
+: 550 4 8 si
+: 556 22 5 lence. 
+E

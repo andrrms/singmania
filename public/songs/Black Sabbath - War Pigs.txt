@@ -1,0 +1,264 @@
+#ARTIST:Black Sabbath
+#TITLE:War Pigs
+#MP3:Black Sabbath - War Pigs.mp3
+#CREATOR:Superpanda
+#EDITION:Rock Band Store 2007
+#GENRE:Heavy Metal
+#YEAR:1970
+#LANGUAGE:English
+#BPM:400
+#GAP:63960
+#VIDEO:a=f-e8-DUqt0I,co=https://i.discogs.com/QskBEouJgLMPkGRrT5yPr01GQWaqwVDCX26SUY0n2vo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzY1/NDctMTQyMDE4MTc3/NC0xNTU5LmpwZWc.jpeg,bg=black-sabbath-4e031e8e1fe0f.jpg,medley=291-1142
+: 0 4 -8 Ge
+: 7 2 -8 ne
+: 10 2 -8 rals 
+: 18 7 -4 ga
+: 27 7 -4 thered 
+: 36 4 -3 in 
+: 45 4 -3 their 
+: 54 7 -1 mas
+: 64 59 4 ses 
+- 125
+: 144 5 4 Just 
+: 155 5 2 like 
+: 164 5 4 wit
+: 172 7 2 ches 
+: 182 5 -1 at 
+: 192 5 -3 black 
+: 200 4 -3 mas
+: 210 5 -5 se
+: 216 53 -8 ~s 
+- 271
+: 291 7 -8 E
+: 301 5 -8 vil 
+: 309 7 -4 minds 
+: 319 5 -4 that 
+: 327 7 -3 plot 
+: 338 2 -3 de
+: 345 5 -1 struc
+: 357 59 4 tion 
+- 418
+: 438 5 4 Sor
+: 447 6 2 ce
+: 454 9 4 rer 
+: 465 5 2 of 
+: 474 5 -1 deaths 
+: 484 2 -3 con
+: 494 4 -3 struc
+: 504 5 -5 tio
+: 510 49 -8 ~n 
+- 561
+: 584 2 -8 In 
+: 593 2 -8 the 
+: 602 9 -4 fields 
+: 612 2 -4 the 
+: 616 11 -3 bo
+: 629 4 -3 dies 
+: 638 9 -1 bur
+: 649 59 4 ning 
+- 710
+: 728 5 4 As 
+: 738 2 2 the 
+: 743 9 4 war 
+: 756 2 2 ma
+: 763 7 -1 chine 
+: 775 2 -3 keeps 
+: 785 9 -3 tur
+: 795 4 -5 ni
+: 800 48 -8 ~ng 
+- 850
+: 873 4 -8 Death 
+: 883 4 -8 and 
+: 892 4 -4 ha
+: 900 4 -4 tred 
+: 910 7 -3 to 
+: 918 4 -3 man
+: 927 8 -1 ki
+: 936 46 4 ~nd 
+- 984
+: 1012 7 4 Poi
+: 1022 2 2 so
+: 1027 7 4 ning 
+: 1039 7 2 their 
+: 1048 7 -1 brain
+: 1057 4 -3 washed 
+: 1068 8 -3 mi
+: 1077 4 -5 ~
+: 1082 14 -8 ~nds 
+- 1098
+: 1109 11 9 Oh 
+: 1123 7 8 Lord, 
+: 1133 9 4 yeah 
+- 1144
+: 1981 15 2 Po
+: 1999 9 2 li
+: 2013 4 2 ti
+: 2022 6 2 cians 
+: 2034 6 4 hide 
+: 2043 4 9 them
+: 2051 11 8 selves 
+: 2065 6 4 a
+: 2075 5 4 way
+: 2081 6 2 ~ 
+- 2089
+: 2120 16 2 They 
+: 2137 8 2 on
+: 2146 2 2 ly 
+: 2152 8 2 star
+: 2161 6 2 ted 
+: 2171 5 4 the
+: 2177 5 9 ~ 
+: 2185 6 8 wa
+: 2192 1 6 ~
+: 2194 5 8 ~r 
+- 2201
+: 2258 15 2 Why 
+: 2276 9 2 should 
+: 2290 9 2 they 
+: 2302 9 2 go 
+: 2312 7 4 ou
+: 2320 4 9 ~t 
+: 2329 12 8 to
+: 2342 6 4 ~ 
+: 2353 4 4 fi
+: 2358 8 2 ~ght? 
+- 2368
+: 2396 15 2 They 
+: 2414 11 2 leave 
+: 2427 9 2 that 
+: 2437 9 2 role 
+: 2449 6 4 to 
+: 2457 2 9 the 
+: 2462 6 8 poo
+: 2469 1 6 ~
+: 2471 5 8 ~r 
+- 2478
+F 2515 20 8 Yeah 
+- 2537
+: 2812 15 2 Time 
+: 2830 9 2 will 
+: 2843 9 2 tell 
+: 2853 7 2 on 
+: 2864 8 4 thei
+: 2873 7 9 ~r 
+: 2882 11 8 pow
+: 2896 7 4 er 
+: 2907 4 4 mi
+: 2912 11 2 ~nds 
+- 2925
+: 2952 13 2 Ma
+: 2969 9 2 king 
+: 2982 7 2 wa
+: 2990 1 1 ~
+: 2992 7 2 ~r 
+: 3004 4 4 just 
+: 3012 4 9 for 
+: 3021 6 8 fu
+: 3028 1 6 ~
+: 3030 4 8 ~n 
+- 3036
+: 3091 13 2 Trea
+: 3109 9 2 ting 
+: 3122 4 2 peo
+: 3131 11 2 ple 
+: 3144 4 4 just 
+: 3151 4 9 like 
+: 3161 9 8 pawns 
+: 3174 6 4 in 
+: 3186 6 4 che
+: 3193 6 2 ~ss 
+- 3201
+: 3230 13 2 Wait 
+: 3248 6 2 ’til 
+: 3256 4 2 their 
+: 3265 4 2 judge
+: 3274 4 2 ment 
+: 3283 3 4 day
+: 3287 6 9 ~ 
+: 3298 5 8 co
+: 3304 1 6 ~
+: 3306 5 8 ~mes 
+- 3313
+: 3350 5 2 Yeah
+: 3356 9 4 ~ 
+- 3367
+: 5791 8 -8 Now 
+: 5800 4 -8 in 
+: 5810 7 -4 dark
+: 5820 4 -4 ness 
+: 5829 7 -3 world 
+: 5838 4 -3 stops 
+: 5847 7 -1 tur
+: 5857 59 4 ning 
+- 5918
+: 5934 7 4 A
+: 5945 4 2 shes 
+: 5950 11 4 where 
+: 5964 2 2 the 
+: 5971 9 -1 bo
+: 5982 4 -3 dies 
+: 5991 9 -3 bur
+: 6001 4 -5 ni
+: 6006 47 -8 ~ng 
+- 6055
+: 6080 7 -8 No 
+: 6089 7 -8 more 
+: 6098 7 -4 war 
+: 6109 4 -4 pigs 
+: 6118 7 -3 of 
+: 6127 2 -3 the 
+* 6132 11 -1 pow
+* 6145 56 4 er 
+- 6203
+: 6224 4 4 Hand 
+: 6233 4 2 of 
+: 6242 9 4 God 
+: 6252 4 2 has 
+: 6261 4 -1 struck 
+: 6271 3 -3 the 
+: 6275 13 -3 hou
+: 6289 4 -5 ~
+: 6294 45 -8 ~r 
+- 6341
+: 6370 7 -8 Day 
+: 6378 4 -8 of 
+: 6388 4 -4 judge
+: 6397 4 -4 ment 
+: 6405 8 -3 God 
+: 6414 2 -3 is 
+: 6420 11 -1 cal
+: 6434 55 4 ling 
+- 6491
+: 6511 7 4 On 
+: 6521 2 2 their 
+: 6526 9 4 knees 
+: 6540 3 2 the 
+: 6545 9 -1 war 
+: 6558 4 -3 pigs 
+: 6567 9 -3 craw
+: 6577 4 -5 li
+: 6582 49 -8 ~ng 
+- 6633
+: 6656 7 -8 Beg
+: 6665 4 -8 ging 
+: 6674 7 -4 mer
+: 6683 4 -4 cy 
+: 6693 7 -3 for 
+: 6701 2 -3 their 
+* 6707 9 -1 si
+* 6717 48 4 ~ns 
+- 6767
+: 6794 7 4 Sa
+: 6803 7 2 tan 
+: 6811 7 4 lau
+: 6820 4 2 ghing 
+: 6831 4 -1 spreads 
+: 6840 4 -3 his 
+* 6849 7 -3 wi
+* 6857 5 -5 ~
+* 6863 20 -8 ~ngs 
+- 6885
+: 6889 11 9 Oh 
+: 6903 7 8 Lord, 
+: 6911 7 4 yeah 
+E

@@ -1,0 +1,294 @@
+#ARTIST:The Beach Boys
+#TITLE:Little Deuce Coupe
+#MP3:The Beach Boys - Little Deuce Coupe.mp3
+#CREATOR:MasterChristian
+#YEAR:1963
+#LANGUAGE:English
+#BPM:268.1
+#GAP:1080
+#VIDEO:v=7nDR-2m3RjI,co=little-deuce-coupe-550b0322bfa44.jpg,bg=beach-boys-the-53eb6d0f2422c.jpg
+: 0 4 11 Litt
+: 5 3 14 le 
+: 9 7 14 deuce 
+: 17 4 14 coupe 
+- 23
+: 24 4 17 You 
+: 29 3 17 don’t 
+: 33 3 16 know 
+: 37 3 12 what 
+: 41 3 12 I 
+: 45 3 12 got 
+- 50
+: 61 7 11 Litt
+: 69 4 14 le 
+: 74 5 14 deuce 
+: 80 6 14 coupe 
+- 87
+: 87 4 17 You 
+: 92 3 17 don’t 
+: 96 4 16 know 
+: 101 2 12 what 
+: 104 4 12 I 
+: 109 3 12 got 
+- 114
+: 125 2 7 Well, 
+: 128 7 7 I’m 
+: 136 7 7 not 
+: 144 4 7 brag
+: 149 2 7 ging 
+: 152 4 7 babe 
+: 157 2 5 so 
+: 160 3 4 don’t 
+: 164 2 0 put 
+: 167 4 0 me 
+: 172 8 0 down 
+- 182
+: 188 3 4 But 
+: 192 6 4 I’ve 
+: 199 4 7 got 
+: 204 2 7 the 
+: 207 4 7 fas
+: 212 2 7 test 
+: 215 4 7 set 
+: 220 2 5 of 
+: 223 4 4 wheels 
+: 228 6 0 in 
+: 235 8 0 town 
+- 245
+: 252 2 7 When 
+: 255 4 7 some
+: 260 2 9 thing 
+: 263 7 7 comes 
+: 271 4 5 up 
+: 276 2 5 to 
+: 279 4 5 me, 
+: 284 2 5 he 
+: 287 3 7 don’t 
+: 291 2 9 e
+: 294 4 7 ven 
+: 299 6 5 try 
+- 306
+: 307 3 0 ’Cause 
+: 311 4 2 if 
+: 316 2 0 I 
+: 319 3 4 had 
+: 323 2 7 a 
+: 326 5 7 set 
+: 332 2 4 of 
+: 335 7 7 wings, 
+: 343 4 7 man 
+: 348 2 5 I 
+: 351 3 4 know 
+: 355 3 0 she 
+: 359 3 0 could 
+: 363 7 0 fly 
+- 371
+: 371 7 7 She’s 
+: 379 2 7 my 
+: 382 4 11 litt
+: 387 2 14 le 
+: 390 7 14 deuce 
+: 398 6 14 coupe 
+- 406
+: 419 3 17 You 
+: 423 3 17 don’t 
+: 427 7 16 know 
+: 435 3 12 what 
+: 439 4 12 I 
+* 444 52 12 got 
+- 498
+: 503 4 7 Just 
+: 508 3 7 a 
+: 512 3 7 litt
+: 516 3 7 le 
+: 520 6 7 deuce 
+: 527 7 7 coupe 
+: 535 4 5 with 
+: 540 2 4 a 
+: 543 4 0 flat
+: 548 7 0 head 
+: 556 4 0 mill 
+- 562
+: 567 4 4 But 
+: 572 2 4 she’ll 
+: 575 4 7 walk 
+: 580 2 7 a 
+: 583 4 7 Thun
+: 588 2 7 der
+: 591 7 7 bird 
+: 599 4 7 like 
+: 604 3 5 she’s 
+: 608 3 4 stan
+: 612 6 0 ding 
+: 619 5 0 still 
+- 626
+: 635 3 7 She’s 
+: 639 4 7 por
+* 644 3 9 ted 
+: 648 4 7 and 
+: 653 2 5 re
+: 656 6 5 lieved 
+: 663 4 5 and 
+: 668 2 7 she’s 
+* 671 4 9 stroked 
+: 676 7 7 and 
+: 684 6 5 bored 
+- 691
+: 691 4 0 She’ll 
+: 696 3 2 do 
+: 700 2 0 a 
+: 703 4 4 hund
+: 708 3 7 red 
+: 712 3 7 and 
+: 716 7 4 for
+: 724 3 7 ty 
+: 728 3 7 in 
+: 732 2 5 the 
+: 735 4 4 top 
+: 740 7 0 end 
+: 748 6 0 floored 
+- 755
+: 755 7 7 She’s 
+: 763 2 7 my 
+: 766 4 11 litt
+: 771 2 14 le 
+: 774 7 14 deuce 
+: 782 6 14 coupe 
+- 790
+: 803 3 17 You 
+: 807 3 17 don’t 
+: 811 7 16 know 
+: 819 3 12 what 
+: 823 4 12 I 
+: 828 52 12 got 
+- 882
+: 883 2 0 She’s 
+: 886 5 2 got 
+: 892 2 4 a 
+: 895 4 5 com
+: 900 2 5 pe
+: 903 4 5 ti
+: 908 2 5 tion 
+: 911 7 0 clutch 
+: 919 4 2 with 
+: 924 3 3 the 
+: 928 4 3 four 
+: 933 2 3 on 
+: 936 3 2 the 
+: 940 5 0 floor 
+- 947
+: 948 7 0 And 
+: 956 3 3 she 
+: 960 7 0 purrs 
+: 968 4 3 like 
+: 973 2 3 a 
+: 976 4 2 kit
+: 981 2 3 ten 
+: 984 4 2 till 
+: 989 2 -3 the 
+: 992 4 0 lake 
+: 997 7 0 pipes 
+: 1005 5 0 roar 
+- 1012
+: 1022 2 5 And 
+: 1025 3 5 if 
+: 1029 3 5 that 
+: 1033 4 5 ain’t 
+: 1038 2 0 e
+: 1041 3 0 nough 
+: 1045 3 3 to 
+: 1049 3 0 make 
+: 1053 3 3 you 
+: 1057 4 2 flip 
+: 1062 6 0 your 
+: 1069 5 0 lid 
+- 1076
+: 1086 2 2 There’s 
+: 1089 7 2 on 
+: 1097 7 2 more 
+: 1105 5 2 thing, 
+: 1111 2 2 I 
+: 1114 4 2 got 
+: 1119 2 1 the 
+* 1122 7 7 pink 
+* 1130 7 7 slip, 
+* 1138 4 7 dad
+* 1143 3 7 dy 
+- 1148
+: 1151 3 7 And 
+: 1155 5 7 com
+: 1161 3 7 ing 
+: 1165 4 7 off 
+: 1170 2 7 the 
+: 1173 7 7 line 
+: 1181 4 5 when 
+: 1186 2 4 the 
+: 1189 4 0 light 
+: 1194 7 0 turns 
+: 1202 7 0 green 
+- 1211
+: 1213 3 4 Well, 
+: 1217 3 4 she 
+: 1221 4 7 blows 
+: 1226 2 7 them 
+: 1229 4 7 out 
+: 1234 1 7 of 
+: 1236 1 7 the 
+: 1238 4 7 wa
+: 1243 2 7 ter 
+: 1246 4 7 like 
+: 1251 1 5 you 
+: 1253 4 4 ne
+: 1258 6 0 ver 
+: 1265 5 0 seen 
+- 1272
+: 1274 2 7 I 
+: 1277 7 7 get 
+: 1285 5 7 pushed 
+: 1291 3 7 out 
+: 1295 3 7 of 
+: 1299 5 5 shape 
+: 1310 3 3 and 
+: 1314 3 0 it’s 
+: 1318 4 7 hard 
+: 1323 6 7 to 
+: 1330 5 5 steer 
+- 1337
+: 1346 2 4 When 
+: 1349 7 7 I 
+: 1357 8 7 get 
+: 1366 4 7 rub
+: 1371 2 7 ber 
+: 1374 7 4 in 
+: 1382 4 5 all 
+: 1387 6 0 four 
+: 1394 7 0 gears 
+- 1402
+: 1402 7 7 She’s 
+: 1410 2 7 my 
+: 1413 4 11 litt
+: 1418 3 14 le 
+: 1422 7 14 deuce 
+: 1430 6 14 coupe 
+- 1438
+: 1450 3 17 You 
+: 1454 4 17 don’t 
+: 1459 7 16 know 
+: 1467 2 12 what 
+: 1470 4 12 I 
+* 1475 52 12 got 
+- 1529
+: 1531 8 7 She’s 
+: 1540 3 7 my 
+: 1544 3 11 litt
+: 1548 3 14 le 
+: 1552 7 14 deuce 
+: 1560 6 14 coupe 
+- 1568
+: 1580 3 17 You 
+: 1584 4 17 don’t 
+: 1589 7 16 know 
+: 1597 2 12 what 
+: 1600 4 12 I 
+: 1605 52 12 got 
+E

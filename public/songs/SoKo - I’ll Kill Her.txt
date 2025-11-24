@@ -1,0 +1,570 @@
+#ARTIST:SoKo
+#TITLE:I’ll Kill Her
+#MP3:SoKo - I’ll Kill Her.mp3
+#CREATOR:lava
+#YEAR:2007
+#LANGUAGE:English
+#BPM:329
+#GAP:12870
+#VIDEO:v=uGRlKEmVkdY,co=https://media.hitparade.ch/cover/800/soko-ill_kill_her_s.jpg,bg=soko-59f39c6797ed0.jpg
+F 0 5 0 So 
+F 6 4 3 of 
+F 11 8 3 course 
+- 25
+F 27 1 3 You 
+F 29 2 3 were 
+F 32 3 3 sup
+F 36 7 3 posed 
+F 44 1 3 to 
+F 46 3 3 call 
+F 50 1 3 me 
+F 52 2 3 to
+F 55 8 3 night 
+- 84
+F 150 2 7 You 
+F 153 2 7 were 
+F 156 3 7 sup
+F 160 5 7 posed 
+F 166 2 7 to 
+F 169 2 7 call 
+F 172 2 7 me 
+F 175 2 7 to
+F 178 6 7 night 
+- 190
+F 192 1 7 We 
+F 194 3 7 would 
+F 198 2 7 have 
+F 201 4 7 gone 
+F 206 2 7 to 
+F 209 2 7 the 
+F 212 1 7 ci
+F 214 2 7 ne
+F 217 5 7 ma 
+- 231
+F 235 2 7 And 
+F 238 3 7 af
+F 242 4 7 ter 
+F 247 1 7 to 
+F 249 3 7 the 
+F 253 4 7 res
+F 258 1 7 tau
+F 260 8 7 rant 
+- 274
+F 277 1 0 The 
+F 279 2 2 one 
+F 282 2 3 you 
+F 285 4 3 like 
+F 290 2 2 in 
+F 293 2 0 your 
+F 296 6 0 street 
+- 314
+F 318 1 7 We 
+F 320 1 7 would 
+F 322 2 7 have 
+F 325 4 7 slept 
+F 330 3 7 to
+F 334 2 7 ge
+F 337 6 7 ther 
+- 343
+F 345 4 7 Have 
+F 350 1 7 a 
+F 352 6 7 nice 
+F 359 4 7 break
+F 364 4 7 fast 
+F 369 1 7 to
+F 371 3 7 ge
+F 375 5 7 ther 
+- 380
+F 381 1 7 And 
+F 383 2 7 then 
+F 386 1 7 a 
+F 388 7 7 walk 
+F 396 1 7 in 
+F 398 1 7 a 
+F 400 9 7 park 
+F 413 2 7 to
+F 416 2 7 ge
+F 419 6 7 ther 
+- 435
+: 445 3 3 How 
+: 449 2 2 beau
+: 452 1 3 ti
+: 454 3 5 ful 
+: 458 4 3 and 
+: 463 8 2 then 
+- 483
+: 487 1 7 You 
+: 489 2 7 would 
+: 492 2 7 have 
+: 495 4 7 said 
+: 500 3 7 “i 
+: 504 6 12 love 
+: 511 8 12 you” 
+- 527
+: 530 1 7 In 
+: 532 2 7 the 
+: 535 2 7 cu
+: 538 3 8 test 
+: 542 7 10 place 
+: 550 3 8 on 
+: 554 7 8 earth 
+- 561
+: 562 8 7 Where 
+: 571 6 7 some 
+: 578 1 7 but
+: 580 1 7 ter
+: 582 10 7 flies 
+: 593 4 5 are 
+: 598 5 7 dan
+: 604 12 5 cing 
+- 616
+: 618 5 5 With 
+: 624 3 7 the 
+: 628 3 8 fai
+: 632 11 8 ries 
+- 652
+: 656 1 7 I 
+: 658 2 7 would 
+: 661 5 7 have 
+: 667 4 7 wai
+: 672 8 7 ted 
+: 696 5 7 like 
+: 702 1 8 a 
+: 704 5 12 week 
+: 710 2 8 or 
+: 713 10 8 two 
+- 724
+: 726 4 8 But 
+: 731 3 5 you 
+: 735 2 7 ne
+: 738 3 7 ver 
+: 742 3 7 tried 
+: 746 2 7 to 
+: 749 5 7 reach 
+: 755 9 7 me 
+- 764
+: 765 7 7 No 
+: 780 1 3 you 
+: 782 1 5 ne
+: 784 2 5 ver 
+: 787 2 5 called 
+: 790 3 3 me 
+: 794 13 2 back 
+- 807
+: 808 4 7 You 
+: 813 4 7 were 
+: 818 5 7 da
+: 824 12 3 ting 
+- 842
+: 845 4 0 That 
+: 850 5 7 bleach 
+: 856 5 7 blonde 
+: 862 10 3 girl 
+- 882
+: 894 4 3 If 
+: 899 3 3 i 
+: 903 7 3 find 
+: 911 7 3 her 
+: 919 7 3 i 
+: 927 5 7 swear 
+: 933 10 5 ~ 
+: 951 7 5 i 
+: 959 13 5 swear... 
+- 975
+: 977 9 7 I’ll 
+: 987 6 3 kill 
+: 994 11 0 her 
+- 1015
+: 1023 5 0 I’ll 
+: 1029 9 7 kill 
+: 1039 12 3 her 
+- 1062
+: 1066 3 3 She 
+: 1070 9 3 stole 
+: 1080 5 5 my 
+: 1086 8 7 fu
+: 1095 8 3 ture 
+- 1106
+: 1108 6 3 She 
+: 1118 9 5 broke 
+: 1128 6 3 my 
+: 1135 10 2 dream 
+- 1146
+: 1148 7 3 I’ll 
+: 1156 7 2 kill 
+: 1164 8 0 her 
+- 1182
+: 1193 7 0 I’ll 
+: 1201 6 7 kill 
+: 1208 11 3 her 
+- 1231
+: 1235 3 -2 She 
+: 1239 8 7 stole 
+: 1248 7 7 my 
+: 1256 6 7 fu
+: 1263 6 3 ture 
+- 1269
+: 1270 5 3 When 
+: 1276 4 3 she 
+: 1281 6 5 took 
+: 1288 4 5 you 
+: 1293 2 3 a
+* 1296 5 6 way 
+* 1302 6 5 ~ 
+- 1318
+F 1329 1 7 I 
+F 1331 1 7 would 
+F 1333 3 7 have 
+F 1337 4 7 met 
+F 1342 4 7 your 
+F 1347 7 7 friends 
+- 1354
+F 1355 1 7 We 
+F 1357 3 7 would 
+F 1361 2 7 have 
+F 1364 5 7 had 
+F 1370 1 7 a 
+F 1372 4 7 drink 
+F 1377 4 7 or 
+F 1382 6 7 two 
+- 1391
+F 1393 2 3 They 
+F 1396 2 3 would 
+F 1399 4 3 have 
+: 1404 9 7 liked 
+: 1414 7 7 me 
+: 1422 6 7 ’cause 
+: 1429 10 5 ~ 
+- 1446
+F 1449 5 7 Some
+F 1455 8 7 times 
+F 1464 3 7 I’m 
+F 1468 3 7 fun
+F 1472 10 7 ny 
+- 1492
+F 1496 1 7 I 
+F 1498 1 7 would 
+F 1500 3 7 have 
+F 1504 3 7 met 
+F 1508 4 7 your 
+F 1513 6 7 dad 
+- 1519
+F 1520 1 0 I 
+F 1522 3 2 would 
+F 1526 5 0 have 
+F 1532 6 5 met 
+F 1539 8 5 your 
+F 1548 8 2 mum 
+- 1559
+F 1561 2 7 She 
+F 1564 1 7 would 
+F 1566 4 7 have 
+F 1571 5 7 said 
+: 1577 14 7 “please 
+- 1591
+: 1593 8 7 Can 
+: 1602 5 7 you 
+: 1608 4 7 make 
+: 1613 4 7 some 
+: 1618 3 7 beau
+: 1622 2 7 ti
+: 1625 4 7 ful 
+: 1630 4 7 ba
+: 1635 5 7 bies?” 
+: 1641 6 5 ~ 
+- 1657
+F 1666 2 7 So 
+F 1669 2 7 we 
+F 1672 3 7 would 
+F 1676 2 7 have 
+F 1679 7 7 had 
+F 1687 3 7 a 
+F 1691 8 7 boy 
+F 1700 7 7 called 
+F 1708 11 7 tom 
+- 1725
+: 1728 3 3 And 
+: 1732 1 3 a 
+: 1734 5 3 girl 
+: 1740 3 5 called 
+: 1744 7 7 su
+: 1752 7 3 san 
+- 1769
+: 1788 4 5 Born 
+: 1793 4 5 in 
+: 1798 5 3 ja
+: 1804 3 6 pan 
+: 1808 5 5 ~ 
+- 1823
+: 1838 1 7 I 
+: 1840 2 7 thought 
+: 1843 2 7 it 
+: 1846 2 7 was 
+: 1849 1 7 a 
+: 1851 4 7 love 
+: 1856 6 12 sto
+: 1863 9 12 ry 
+- 1874
+: 1876 2 8 But 
+: 1879 1 8 you 
+: 1881 2 8 don’t 
+: 1884 2 8 want 
+: 1887 1 8 to 
+: 1889 4 8 get 
+: 1894 3 8 in
+: 1898 12 10 volved 
+- 1913
+: 1915 1 7 I 
+: 1917 3 7 thought 
+: 1921 1 7 it 
+: 1923 2 7 was 
+: 1926 1 7 a 
+: 1928 3 7 love 
+: 1932 5 7 sto
+: 1938 5 7 ry 
+- 1943
+: 1944 11 7 But 
+F 1966 3 7 you’re 
+F 1970 3 7 not 
+F 1974 1 7 rea
+F 1976 3 7 dy 
+F 1980 2 7 for 
+F 1983 5 7 that? 
+- 1998
+* 2029 7 3 Me 
+* 2037 7 2 nei
+* 2045 6 0 ther. 
+- 2061
+: 2075 6 0 I’ll 
+: 2082 7 7 kill 
+: 2090 8 3 her 
+- 2108
+: 2118 2 -2 She 
+: 2121 9 7 stole 
+: 2131 8 7 my 
+: 2140 5 7 fu
+: 2146 10 3 ture 
+- 2165
+: 2168 5 3 She 
+: 2174 5 5 broke 
+: 2180 5 3 my 
+: 2186 8 5 dream 
+- 2197
+: 2199 7 3 I’ll 
+: 2207 8 2 kill 
+: 2216 9 0 her 
+- 2235
+: 2245 8 0 I’ll 
+: 2254 8 7 kill 
+: 2263 10 3 her 
+- 2283
+: 2287 2 -2 She 
+: 2290 8 7 stole 
+: 2299 7 7 my 
+: 2307 8 7 fu
+: 2316 8 3 ture 
+- 2324
+: 2325 4 3 When 
+: 2330 4 3 she 
+: 2335 6 5 took 
+: 2342 13 5 you 
+: 2358 5 5 a
+: 2364 13 6 way 
+- 2420
+: 2693 9 3 She’s 
+: 2703 7 5 a 
+: 2714 5 7 bitch 
+: 2720 2 3 you 
+: 2723 8 3 know 
+- 2737
+: 2739 2 3 All 
+: 2742 3 3 she’s 
+: 2746 4 3 got 
+: 2751 3 5 is 
+: 2755 6 7 blonde
+: 2762 8 3 ness 
+- 2779
+: 2783 5 3 Not 
+: 2789 3 3 e
+: 2793 3 5 ven 
+: 2797 4 7 ten
+: 2802 2 3 der
+: 2805 6 3 ness 
+- 2811
+: 2812 8 3 Yeah 
+F 2831 5 3 she’s 
+F 2837 3 5 cle
+F 2841 11 3 ver
+F 2856 12 5 less 
+- 2875
+F 2878 4 7 She’ll 
+F 2883 4 7 dump 
+F 2888 5 7 your 
+F 2894 5 7 arse 
+- 2901
+F 2903 2 7 For 
+F 2906 2 7 a 
+F 2909 1 7 mo
+F 2911 5 7 del 
+F 2917 5 7 called 
+F 2923 5 7 bren
+F 2929 9 7 dan 
+- 2945
+F 2948 3 7 He 
+F 2952 7 7 will 
+F 2960 7 7 pay 
+F 2968 4 7 for 
+F 2973 5 7 beau
+F 2979 1 7 ti
+F 2981 3 7 ful 
+F 2985 6 7 sur
+F 2992 1 7 ge
+F 2994 8 7 ry 
+- 3005
+F 3007 5 7 ’Cause 
+F 3013 2 7 he’s 
+F 3016 5 7 full 
+F 3022 3 7 of 
+F 3026 3 7 mo
+F 3030 7 7 ney 
+- 3047
+: 3057 1 7 I 
+: 3059 3 7 would 
+: 3063 3 7 have 
+: 3067 3 7 wai
+: 3071 9 7 ted 
+- 3090
+: 3097 2 7 Like 
+: 3100 1 8 a 
+: 3102 5 12 week 
+: 3108 4 8 or 
+: 3113 9 8 two 
+- 3125
+: 3127 2 8 But 
+: 3130 3 5 you 
+: 3134 3 7 ne
+: 3138 3 7 ver 
+: 3142 4 7 tried 
+: 3147 1 5 to 
+: 3149 7 7 reach 
+: 3157 6 7 me 
+- 3163
+: 3164 2 7 No 
+: 3167 4 5 ~ 
+: 3172 4 3 you 
+: 3177 2 5 ne
+: 3180 2 5 ver 
+: 3183 3 5 called 
+: 3187 4 3 me 
+: 3192 2 6 back 
+: 3195 7 5 ~ 
+- 3206
+: 3208 4 7 You 
+: 3213 5 7 were 
+: 3219 4 7 da
+: 3224 8 4 ting 
+: 3246 4 0 that 
+: 3251 5 7 bleach 
+: 3257 5 5 blonde 
+: 3263 9 3 girl 
+- 3282
+: 3292 2 3 If 
+: 3295 3 3 i 
+: 3299 4 3 find 
+: 3304 7 3 her 
+F 3312 3 3 i 
+F 3316 9 7 swear 
+- 3325
+F 3326 1 7 You 
+F 3328 2 7 know 
+F 3331 3 7 i 
+F 3335 9 7 swear 
+F 3352 10 7 i 
+F 3363 11 7 swear 
+- 3378
+: 3380 5 3 I’ll 
+: 3386 9 2 kill 
+: 3396 9 0 her 
+- 3415
+: 3424 5 0 I’ll 
+: 3430 9 7 kill 
+: 3440 9 3 her 
+- 3459
+: 3468 2 -2 She 
+: 3471 7 7 stole 
+: 3479 7 7 my 
+: 3487 6 7 fu
+: 3494 10 3 ture 
+- 3507
+: 3509 8 3 She 
+: 3518 9 5 broke 
+: 3528 6 3 my 
+: 3535 9 2 dream 
+- 3544
+: 3546 8 3 I’ll 
+: 3555 7 2 kill 
+: 3563 7 0 her 
+- 3580
+: 3596 5 0 I’ll 
+: 3602 7 7 kill 
+: 3610 7 3 her 
+- 3628
+: 3632 3 -2 She 
+: 3636 9 7 stole 
+: 3646 7 7 my 
+: 3654 6 7 fu
+: 3661 9 3 ture 
+- 3670
+: 3672 4 3 When 
+: 3677 4 3 she 
+: 3682 5 5 took 
+: 3688 3 5 you 
+: 3692 4 7 a
+: 3697 10 8 way 
+- 3716
+* 3719 7 7 I’ll 
+* 3727 5 8 kill 
+* 3733 7 7 her 
+- 3750
+: 3761 6 0 I’ll 
+: 3770 5 7 kill 
+: 3776 8 3 her 
+- 3794
+: 3802 2 -2 She 
+: 3805 10 7 stole 
+: 3816 7 7 my 
+: 3824 7 8 fu
+: 3832 10 3 ture 
+- 3843
+: 3845 8 3 She 
+: 3854 8 5 broke 
+: 3863 5 3 my 
+: 3869 12 5 dream 
+- 3881
+: 3882 9 7 I’ll 
+: 3892 7 3 kill 
+: 3900 9 0 her 
+- 3919
+: 3930 7 0 I’ll 
+: 3938 7 7 kill 
+: 3946 10 3 her 
+- 3968
+: 3972 2 0 She 
+: 3975 7 7 stole 
+: 3983 8 7 my 
+: 3992 7 7 fu
+: 4000 5 3 ture 
+- 4005
+: 4007 4 3 When 
+: 4012 5 3 she 
+: 4018 8 5 took 
+: 4028 9 5 you 
+* 4044 3 7 a
+* 4048 4 8 way 
+* 4053 6 7 ~ 
+- 4102
+: 4386 7 0 Man 
+: 4394 5 0 i 
+: 4400 6 2 told 
+F 4407 8 0 you 
+E

@@ -1,0 +1,230 @@
+#ARTIST:Disney’s Beauty and the Beast (Susan Egan)
+#TITLE:A Change In Me
+#MP3:Disney’s Beauty and the Beast (Susan Egan) - A Change In Me.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Soundtrack
+#YEAR:1991
+#LANGUAGE:English
+#BPM:263.66
+#GAP:21080
+#VIDEO:a=OmIaAW_DOTQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/fc/d0/7bfcd0f7-1a25-18d0-a76e-60bb879b3079/605288135927.png/5000x5000bb.jpg,bg=https://dgpuo8cwvztoe.cloudfront.net/uploads/Musician-Portraits/Guest-Artists/_h_lg/Susan-Egan_preferred_credit-Michael-Hull.jpg
+: 0 5 -4 There’s 
+: 10 4 -2 been 
+: 16 7 0 a 
+: 32 10 1 change 
+: 48 3 3 in 
+: 54 4 -2 me 
+- 60
+: 89 2 -4 A 
+: 93 7 -2 kind 
+: 102 6 0 of 
+: 115 6 1 mov
+: 131 3 1 ing 
+: 136 10 3 on 
+- 148
+: 173 3 3 Though 
+: 179 4 8 what 
+: 185 6 7 I 
+: 195 11 8 used 
+: 216 2 0 to 
+: 220 10 3 be 
+- 232
+: 259 3 -2 I 
+: 267 8 0 still 
+: 282 2 1 de
+: 286 15 0 pend 
+: 306 4 -2 up
+: 312 5 -2 on 
+- 319
+: 345 2 -4 For 
+: 349 3 -2 now 
+: 355 6 0 I 
+: 368 11 1 re
+: 382 4 3 a
+: 389 14 -2 lize 
+- 405
+: 426 3 0 That 
+: 432 5 1 good 
+- 439
+: 447 3 3 Can 
+: 454 7 7 come 
+- 463
+: 471 3 17 From 
+: 477 17 20 bad 
+- 496
+: 509 5 20 That 
+: 519 5 19 may 
+: 528 7 17 not 
+: 540 10 17 make 
+: 556 3 15 me 
+: 561 17 15 wise 
+- 580
+: 592 6 15 But 
+: 604 4 13 oh 
+- 610
+: 619 3 12 It 
+: 626 7 12 makes 
+: 640 3 10 me 
+: 647 7 15 glad 
+- 656
+: 665 3 3 And 
+* 672 79 8 I 
+- 753
+: 760 6 8 I 
+: 771 3 7 ne
+: 776 6 5 ver 
+: 790 7 3 thought 
+: 799 7 5 I’d 
+- 808
+: 822 4 -4 Leave 
+: 828 3 -2 be
+: 834 64 0 hind 
+- 900
+: 928 4 -2 My 
+: 937 9 0 child
+: 951 3 1 hood 
+: 957 8 5 dreams 
+- 967
+: 976 2 15 But 
+: 980 3 20 I 
+: 986 8 19 don’t 
+* 1002 69 20 mind 
+- 1073
+: 1091 5 20 For 
+: 1100 5 19 now 
+: 1109 5 17 I 
+: 1120 6 15 love 
+: 1129 5 17 the 
+: 1139 12 8 world 
+: 1156 4 10 I 
+: 1165 50 12 see 
+- 1217
+: 1252 4 10 No 
+: 1262 11 12 change 
+: 1277 3 13 of 
+: 1284 6 10 heart 
+- 1292
+: 1304 3 10 A 
+: 1311 10 10 change 
+: 1329 2 8 in 
+: 1333 28 8 me 
+- 1363
+: 1519 3 8 For 
+: 1525 3 10 in 
+: 1530 8 12 my 
+: 1544 10 13 dark 
+: 1560 3 15 de
+: 1567 5 10 spair 
+- 1574
+: 1599 3 8 I 
+: 1607 5 10 slow
+: 1615 5 12 ly 
+: 1626 9 13 un
+: 1642 3 15 der
+: 1651 12 15 stood 
+- 1665
+: 1684 3 15 My 
+: 1690 5 20 per
+* 1698 6 19 fect 
+: 1711 11 20 world 
+- 1724
+: 1725 4 12 Out 
+: 1731 10 15 there 
+- 1743
+: 1768 2 10 Had 
+: 1772 3 12 dis
+: 1778 5 13 ap
+: 1789 13 12 peared 
+: 1807 3 13 for 
+: 1813 13 10 good 
+- 1828
+: 1851 4 11 But 
+: 1857 4 13 in 
+: 1863 7 15 it’s 
+: 1880 6 16 place 
+- 1888
+: 1890 4 18 I 
+: 1901 15 13 feel 
+- 1918
+: 1932 3 15 A 
+: 1938 6 17 tru
+: 1946 8 19 er 
+: 1959 13 22 life 
+: 1975 3 20 be
+* 1981 26 23 gin 
+- 2009
+: 2015 8 23 And 
+: 2027 4 22 it’s 
+: 2036 5 20 so 
+: 2046 11 20 good 
+: 2061 4 18 and 
+: 2068 14 18 real 
+- 2084
+: 2097 3 18 It 
+: 2102 4 16 must 
+: 2112 5 15 come 
+: 2122 9 15 from 
+: 2138 4 13 with
+: 2144 8 18 in 
+- 2154
+: 2161 3 18 And 
+* 2168 76 23 I 
+- 2246
+: 2254 5 23 I 
+: 2264 4 22 ne
+: 2270 7 20 ver 
+: 2283 7 18 thought 
+: 2292 8 20 I’d 
+- 2302
+: 2314 4 11 Leave 
+: 2320 3 13 be
+: 2326 69 15 hind 
+- 2397
+: 2410 4 13 My 
+: 2420 11 15 child
+: 2435 3 16 hood 
+: 2443 5 20 dreams 
+- 2450
+: 2458 2 18 But 
+: 2462 4 23 I 
+: 2469 7 22 don’t 
+* 2483 70 23 mind 
+- 2555
+: 2566 6 23 I’m 
+: 2577 6 22 where 
+: 2586 6 20 and 
+: 2596 6 18 who 
+: 2606 6 20 I 
+: 2616 12 11 wa
+: 2632 3 13 nna 
+: 2637 59 15 be 
+- 2698
+: 2724 4 13 No 
+: 2734 11 15 change 
+: 2750 2 16 of 
+: 2756 4 20 heart 
+- 2762
+: 2774 3 18 A 
+: 2780 5 23 cha
+: 2787 8 22 ~nge 
+: 2800 3 22 in 
+* 2806 93 23 me 
+- 2901
+: 2996 6 23 No 
+: 3008 8 22 change 
+: 3022 3 20 of 
+: 3030 9 18 heart 
+- 3041
+: 3059 3 11 A 
+: 3067 13 13 cha
+: 3082 3 15 ~
+: 3086 9 10 ~nge 
+: 3111 21 10 in 
+- 3134
+: 3158 4 13 Me
+: 3164 146 11 ~ 
+- 3312
+: 3417 9 -1 Hmm 
+* 3435 74 11 Hmm 
+E

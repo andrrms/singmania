@@ -1,0 +1,360 @@
+#ARTIST:Lorea Ferris Dandoy
+#TITLE:Thrilling! Is This Love? [DUET]
+#MP3:Lorea Ferris Dandoy - Thrilling! Is This Love? [DUET].mp3
+#CREATOR:GaryCXJk
+#EDITION:[DUET]-Songs
+#COVER:Lorea Ferris Dandoy - Thrilling! Is This Love? [DUET] [CO].jpg
+#BACKGROUND:Lorea Ferris Dandoy - Thrilling! Is This Love? [DUET] [BG].jpg
+#YEAR:2009
+#LANGUAGE:English
+#BPM:284
+#GAP:3730
+#VIDEO:v=I7Joj4FmyiA,co=https://vignette3.wikia.nocookie.net/rhythmheaven/images/5/5b/Rhythm_heaven_box_art.jpg,co-crop=256-80-1278-1278,p1=Lorea,p2=Cheers
+P1
+R 0 5 13 Yeah! 
+R 8 5 3 Yeah! 
+R 16 8 13 Yeah! 
+- 42
+: 72 6 10 Hey 
+: 80 8 5 now, 
+: 96 3 5 here 
+: 100 2 3 is 
+: 104 2 0 my 
+: 108 8 3 song 
+- 126
+: 136 2 10 For
+: 139 3 12 ~ 
+: 144 7 8 you, 
+: 160 3 7 yeah,
+: 164 3 8 ~ 
+: 168 2 7 that’s 
+: 172 8 5 right 
+- 190
+: 200 7 5 I 
+: 208 3 5 wish 
+: 216 3 3 that
+: 220 2 5 ~ 
+: 224 3 7 I
+: 228 3 8 ~ 
+: 232 4 10 was 
+: 240 4 3 yours 
+- 246
+: 248 3 2 But 
+: 252 2 2 I’m 
+: 256 4 0 too 
+: 264 3 7 shy
+: 268 3 5 ~ 
+: 272 2 3 I 
+: 276 3 2 sup
+: 280 8 3 pose 
+- 298
+: 320 2 0 If 
+: 328 3 0 on
+: 332 2 2 ly 
+: 336 2 3 I 
+: 340 2 0 could 
+: 344 2 0 just 
+: 352 6 -2 con
+: 360 3 5 jure 
+: 364 1 3 a 
+: 368 5 3 spell 
+- 378
+R 380 2 3 Ka
+R 384 6 10 pow! 
+: 392 3 3 Ho
+: 396 2 0 cus, 
+: 400 3 2 ho
+: 404 2 3 cus, 
+: 408 3 5 ho
+: 412 8 7 cus! 
+- 430
+: 448 6 0 Then 
+: 456 3 0 you 
+: 460 3 2 and 
+: 464 3 3 I 
+: 468 2 0 would 
+: 472 4 0 be 
+: 480 5 -2 to
+: 488 6 5 get
+: 496 4 4 her 
+- 502
+: 504 3 5 For 
+: 508 2 7 all 
+: 512 7 8 time,
+: 520 6 3 ~ 
+: 528 2 3 I 
+: 532 2 0 sup
+: 536 7 5 pose 
+- 561
+: 584 2 7 Is 
+: 588 2 8 it 
+: 592 4 10 love 
+: 600 2 2 that 
+: 604 4 3 makes 
+: 616 6 3 my 
+: 624 4 7 heart 
+: 632 3 2 go 
+- 638
+: 640 6 0 Boom, 
+: 648 6 0 boom, 
+R 656 15 9 boom? 
+- 689
+: 716 2 7 Yeah, 
+: 720 3 10 I 
+: 724 2 2 sup
+: 728 7 3 pose 
+- 745
+: 768 3 0 Love 
+: 772 3 0 you, 
+: 776 3 7 love 
+: 780 2 7 you, 
+: 784 3 5 love 
+: 788 3 3 you!
+: 792 3 2 ~
+* 796 19 3 ~
+* 816 9 4 ~ 
+- 830
+: 832 5 0 More 
+: 840 6 7 than 
+: 848 3 5 yes
+: 852 2 3 ~
+: 856 3 2 ter
+: 860 10 3 day... 
+- 877
+F 880 1 8 I 
+F 883 2 3 sup
+F 886 6 8 pose! 
+- 929
+R 992 5 13 Yeah! 
+R 1000 5 3 Yeah! 
+R 1008 8 13 Yeah! 
+- 1053
+R 1120 5 13 Yeah! 
+R 1128 5 3 Yeah! 
+R 1136 8 13 Yeah! 
+- 1181
+R 1264 2 10 I 
+R 1268 3 2 sup
+R 1272 7 10 pose 
+- 1316
+R 1376 5 13 Yeah! 
+R 1384 5 3 Yeah! 
+R 1392 8 13 Yeah! 
+- 1418
+: 1448 6 10 Hey 
+: 1456 7 5 now, 
+: 1472 3 5 sing 
+: 1476 2 3 it 
+: 1480 2 0 to 
+: 1484 7 3 me! 
+- 1501
+: 1512 1 10 That’s
+: 1514 3 12 ~ 
+: 1520 6 8 right, 
+R 1532 2 0 I’m 
+: 1536 3 7 tal
+: 1540 2 8 king 
+: 1544 2 7 to 
+: 1548 7 5 you! 
+- 1565
+: 1576 6 5 I 
+: 1584 3 5 hope 
+: 1592 2 3 that 
+: 1596 1 5 this 
+: 1600 2 7 mes
+: 1604 2 8 sage 
+: 1608 5 10 finds 
+: 1616 3 3 you 
+- 1622
+: 1624 3 3 Fee
+: 1628 3 2 ling 
+: 1632 3 0 e
+: 1636 1 0 ver 
+: 1640 3 7 so
+: 1644 3 5 ~ 
+: 1648 2 3 won
+: 1652 2 2 der
+: 1656 9 3 ful 
+- 1675
+: 1696 6 0 I 
+: 1704 1 0 just 
+: 1708 2 2 can’t 
+: 1712 2 3 hold 
+: 1716 2 0 it 
+: 1720 3 0 back 
+: 1728 7 -2 a
+: 1736 2 5 ~
+: 1740 3 3 ny
+: 1744 7 3 more! 
+- 1757
+R 1760 6 8 Yeah! 
+: 1768 2 3 Love 
+: 1772 3 0 you, 
+: 1776 2 2 love 
+: 1780 3 3 you, 
+: 1784 2 5 love 
+: 1788 16 7 you! 
+- 1814
+: 1824 3 0 If 
+: 1832 2 0 on
+: 1836 2 2 ly 
+: 1840 2 3 we 
+: 1844 1 0 could 
+: 1848 6 0 stay 
+: 1856 3 -2 just 
+: 1864 5 5 like 
+: 1872 4 4 this 
+- 1878
+: 1880 2 5 You 
+: 1884 2 7 are 
+: 1888 7 8 so
+: 1896 7 3 ~ 
+: 1904 3 3 won
+: 1908 2 0 der
+: 1912 8 5 ful! 
+- 1930
+: 1956 3 7 I 
+: 1960 3 7 ne
+: 1964 2 8 ver 
+: 1968 4 10 felt 
+: 1976 3 2 like 
+: 1980 4 3 this, 
+: 1992 6 3 my 
+: 2000 4 7 heart 
+: 2008 3 2 go
+: 2012 2 0 ing 
+- 2014
+: 2016 7 0 Boom, 
+: 2024 7 0 boom, 
+R 2032 12 10 boom! 
+- 2062
+: 2088 4 8 It’s 
+: 2096 3 10 won
+: 2100 2 2 der
+: 2104 8 3 ful! 
+- 2122
+: 2144 2 0 Love 
+: 2148 2 0 you, 
+: 2152 2 7 love 
+: 2156 2 7 you, 
+: 2160 2 5 love 
+: 2164 3 3 you!
+: 2168 3 2 ~
+* 2172 19 3 ~
+* 2192 9 4 ~ 
+- 2206
+: 2208 7 0 E
+: 2216 7 7 ven 
+: 2224 3 5 more 
+: 2228 3 3 than 
+: 2232 2 2 be
+: 2236 10 3 fore! 
+- 2253
+F 2256 2 11 Won
+F 2259 2 8 der
+F 2262 5 3 ful! 
+- 2277
+R 2304 5 13 Yeah! 
+R 2312 5 3 Yeah! 
+R 2320 8 13 Yeah! 
+P2
+R 32 4 13 Yeah! 
+R 40 4 13 Yeah! 
+R 48 4 13 Yeah! 
+R 57 4 13 Yeah! 
+- 98
+R 288 11 8 I 
+R 300 3 5 sup
+R 304 3 8 pose! 
+R 312 4 11 Yeah! 
+- 353
+R 416 4 13 Yeah! 
+R 424 4 13 Yeah! 
+R 432 4 13 Yeah! 
+R 441 4 13 Yeah! 
+- 482
+R 544 11 8 I 
+R 556 3 5 sup
+R 560 3 8 pose! 
+R 568 4 11 Yeah! 
+- 609
+R 672 4 13 Yeah! 
+R 680 4 13 Yeah! 
+R 688 4 13 Yeah! 
+R 697 4 13 Yeah! 
+- 711
+R 736 11 8 I 
+R 748 3 5 sup
+R 752 3 8 pose! 
+R 760 4 11 Yeah! 
+- 774
+R 800 4 13 Yeah! 
+R 808 4 13 Yeah! 
+R 816 4 13 Yeah! 
+R 825 4 13 Yeah! 
+- 847
+R 896 11 8 I 
+R 908 3 5 sup
+R 912 3 8 pose! 
+R 920 4 11 Yeah! 
+- 961
+R 1024 4 13 Yeah! 
+R 1032 4 13 Yeah! 
+R 1040 4 13 Yeah! 
+R 1049 4 13 Yeah! 
+- 1090
+R 1152 4 13 Yeah! 
+R 1160 4 13 Yeah! 
+R 1168 4 13 Yeah! 
+R 1177 4 13 Yeah! 
+- 1218
+R 1280 11 8 I 
+R 1292 3 5 sup
+R 1296 3 8 pose! 
+R 1304 4 11 Yeah! 
+- 1345
+R 1408 4 13 Yeah! 
+R 1416 4 13 Yeah! 
+R 1424 4 13 Yeah! 
+R 1433 4 13 Yeah! 
+- 1474
+R 1664 11 8 Won
+R 1676 3 5 der
+R 1680 3 8 ful! 
+R 1688 4 11 Yeah! 
+- 1729
+R 1792 4 13 Yeah! 
+R 1800 4 13 Yeah! 
+R 1808 4 13 Yeah! 
+R 1817 4 13 Yeah! 
+- 1858
+R 1920 11 8 Won
+R 1932 3 5 der
+R 1936 3 8 ful! 
+R 1944 4 11 Yeah! 
+- 1985
+R 2048 4 13 Yeah! 
+R 2056 4 13 Yeah! 
+R 2064 4 13 Yeah! 
+R 2073 4 13 Yeah! 
+- 2087
+R 2112 11 8 Won
+R 2124 3 5 der
+R 2128 3 8 ful! 
+R 2136 4 11 Yeah! 
+- 2150
+R 2176 4 13 Yeah! 
+R 2184 4 13 Yeah! 
+R 2192 4 13 Yeah! 
+R 2201 4 13 Yeah! 
+- 2223
+R 2272 11 8 Won
+R 2284 3 5 der
+R 2288 3 8 ful! 
+R 2296 4 11 Yeah! 
+- 2310
+R 2336 4 13 Yeah! 
+R 2344 4 13 Yeah! 
+R 2352 4 13 Yeah! 
+R 2361 4 13 Yeah! 
+E

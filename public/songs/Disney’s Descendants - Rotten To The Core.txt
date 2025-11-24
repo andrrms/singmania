@@ -1,0 +1,362 @@
+#ARTIST:Disney’s Descendants
+#TITLE:Rotten To The Core
+#MP3:Disney’s Descendants - Rotten To The Core.mp3
+#CREATOR:amro98
+#GENRE:Soundtrack
+#YEAR:2015
+#LANGUAGE:English
+#BPM:256.12
+#GAP:7740
+#VIDEO:v=zGlLe1w3DJM,co=descendants-original-tv-movie-soundtrack-686bc41c9a3bd.jpg
+F 0 2 2 They 
+F 6 2 2 say 
+F 10 2 2 I’m 
+F 16 4 2 trou
+F 22 2 2 ble 
+- 26
+F 32 2 2 They 
+F 36 4 2 say 
+F 42 4 2 I’m 
+F 48 8 2 bad 
+- 58
+F 64 2 2 They 
+F 70 1 2 say 
+F 72 4 2 I’m 
+F 78 2 2 e
+F 82 4 2 vil 
+- 88
+F 94 1 2 And 
+F 96 2 2 that 
+F 100 2 2 makes 
+F 104 2 2 me 
+F 108 6 2 glad 
+- 116
+F 128 2 2 A 
+F 134 2 2 di
+F 138 2 2 rty 
+F 142 4 2 no-
+F 150 6 2 good 
+- 158
+F 164 4 2 Down 
+F 170 1 2 to 
+F 172 1 2 the 
+F 174 8 2 bone 
+- 184
+F 192 4 2 Your 
+F 198 4 2 worst 
+F 204 6 2 night
+F 212 6 2 mare 
+- 220
+F 226 2 2 Can’t 
+F 230 4 2 take 
+F 236 4 2 me 
+F 242 6 2 home 
+- 250
+F 256 1 2 So 
+F 258 1 2 I’ve 
+F 260 2 2 got 
+F 264 4 2 some 
+F 270 4 2 mis
+F 276 6 2 chief 
+- 284
+F 292 4 2 In 
+F 298 2 2 my 
+F 302 10 2 blood 
+- 314
+F 328 1 2 Can 
+F 330 2 2 you 
+F 334 4 2 blame 
+F 340 6 2 me? 
+- 348
+F 350 1 2 I 
+F 352 1 2 ne
+F 354 2 2 ver 
+F 358 1 2 got 
+F 360 4 2 no 
+F 366 6 2 love 
+- 374
+F 386 2 2 They 
+F 390 2 2 think 
+F 394 2 2 I’m 
+F 400 3 2 cal
+F 404 6 2 lous 
+- 412
+F 418 1 2 A 
+F 420 3 2 low-
+F 424 4 2 life 
+F 432 6 2 hood 
+- 440
+F 448 2 2 I 
+F 452 4 2 feel 
+F 458 2 2 so 
+F 462 4 2 use
+F 468 4 2 less 
+- 474
+F 482 2 2 Mis
+F 486 1 2 un
+F 488 4 2 der
+F 494 8 2 stood! 
+- 504
+: 526 2 -3 Mi
+: 530 2 -1 ~
+: 534 2 -1 rror 
+: 538 6 -1 mi
+: 546 8 -1 rror 
+: 558 2 0 on
+: 562 1 2 ~ 
+: 564 4 2 the 
+: 570 8 2 wall
+: 580 2 -1 ~ 
+- 584
+: 590 4 -3 Who’s 
+: 598 1 -3 the 
+: 602 6 -3 bad
+: 610 6 -3 dest 
+: 622 2 2 of 
+: 626 4 4 them 
+: 634 8 4 all
+: 644 2 2 ~? 
+- 648
+: 654 3 -3 Wel
+: 658 2 -1 ~
+: 662 4 -1 come 
+: 670 4 -1 to 
+: 678 2 -1 my 
+: 686 2 2 wic
+: 690 4 2 ked 
+: 698 28 2 world 
+- 728
+: 734 1 2 Wic
+: 738 4 4 ked 
+: 746 16 4 world 
+- 763
+* 764 1 4 I’m 
+* 766 2 4 rot
+* 770 2 4 ten 
+* 774 1 4 to 
+* 776 4 4 the 
+* 782 5 11 core 
+F 788 9 2 core 
+- 798
+: 798 2 9 Rot
+: 801 2 9 ten 
+: 806 2 9 to 
+: 810 2 9 the 
+: 814 8 4 core 
+- 823
+: 824 3 4 I’m 
+: 828 4 4 rot
+: 834 2 4 ten 
+: 838 2 4 to 
+: 842 2 4 the 
+: 846 4 11 core 
+F 852 6 2 core 
+- 859
+: 860 2 9 Who 
+: 864 2 9 could 
+: 868 2 9 ask 
+: 874 2 9 for 
+: 878 8 4 more? 
+- 888
+: 890 2 4 I’m 
+: 894 2 4 no
+: 898 2 4 thing 
+: 902 2 4 like 
+: 906 2 4 the 
+: 910 6 11 kid 
+: 918 4 11 next 
+- 924
+: 926 2 9 Like 
+: 930 2 9 the 
+: 934 2 9 kid 
+: 938 2 12 next 
+: 942 8 11 door 
+- 952
+: 954 2 4 I’m 
+: 958 2 4 rot
+: 962 2 4 ten 
+: 966 2 4 to 
+: 970 2 4 the 
+: 974 6 11 core 
+- 982
+: 986 2 9 I’m 
+: 990 2 9 rot
+: 994 2 9 ten 
+: 998 2 9 to 
+: 1002 30 9 the
+: 1034 2 11 ~ 
+- 1038
+F 1154 4 2 Call 
+F 1160 1 2 me 
+F 1162 2 2 a 
+F 1170 4 2 schem
+F 1176 6 2 er 
+- 1184
+F 1188 2 2 Call 
+F 1192 1 2 me 
+F 1194 2 2 a 
+F 1198 6 2 freak 
+- 1206
+F 1218 2 2 How 
+F 1222 2 2 can 
+F 1226 2 2 you 
+F 1232 4 2 say 
+F 1238 8 2 that? 
+- 1248
+F 1250 2 2 I’m 
+F 1254 6 2 just... 
+F 1266 2 2 un
+F 1270 8 2 ique! 
+- 1279
+F 1280 4 2 What, 
+F 1286 1 2 me? 
+F 1288 2 2 A 
+F 1292 5 2 trai
+F 1298 6 2 tor? 
+- 1306
+F 1314 2 2 Ain’t 
+F 1318 2 2 got 
+F 1322 4 2 your 
+F 1328 8 2 back? 
+- 1338
+F 1346 2 2 Are 
+F 1350 2 2 we 
+F 1354 2 2 not 
+F 1358 8 2 friends? 
+- 1368
+F 1376 4 2 What’s 
+F 1382 2 2 up 
+F 1386 2 2 with 
+F 1390 6 2 that? 
+- 1398
+F 1410 2 2 So 
+F 1414 2 2 I’m 
+F 1418 2 2 a 
+F 1422 6 2 mis
+F 1430 6 2 fit 
+- 1438
+F 1442 2 2 So 
+F 1446 1 2 I’m 
+F 1448 2 2 a 
+F 1454 10 2 flirt 
+- 1466
+F 1474 2 2 I 
+F 1478 2 2 broke 
+F 1482 4 2 your 
+F 1490 8 2 heart? 
+- 1500
+F 1506 2 2 I 
+F 1510 2 2 made 
+F 1514 4 2 you 
+F 1522 8 2 hurt? 
+- 1532
+F 1538 2 2 The 
+F 1544 2 2 past 
+F 1550 2 2 is 
+F 1554 10 2 past 
+- 1566
+F 1570 2 2 For
+F 1574 2 2 give, 
+F 1578 2 2 for
+F 1582 6 2 get 
+- 1590
+F 1602 2 2 The 
+F 1608 4 2 truth 
+F 1614 6 2 is... 
+- 1622
+F 1626 2 2 You 
+F 1630 2 2 ain’t 
+F 1634 2 2 seen 
+F 1638 3 2 no
+F 1642 2 2 thing 
+F 1646 8 2 yet! 
+- 1656
+: 1678 2 -3 Mi
+: 1682 2 -1 ~
+: 1686 2 -1 rror 
+: 1690 6 -1 mi
+: 1698 8 -1 rror 
+: 1710 2 0 on
+: 1714 1 2 ~ 
+: 1716 4 2 the 
+: 1722 8 2 wall
+: 1732 2 -1 ~ 
+- 1736
+: 1742 4 -3 Who’s 
+: 1750 1 -3 the 
+: 1754 6 -3 bad
+: 1762 6 -3 dest 
+: 1774 2 2 of 
+: 1778 4 4 them 
+: 1786 8 4 all
+: 1796 2 2 ~? 
+- 1800
+: 1806 3 -3 Wel
+: 1810 2 -1 ~
+: 1814 4 -1 come 
+: 1822 4 -1 to 
+: 1830 2 -1 my 
+: 1838 2 2 wick
+: 1842 4 2 ed 
+: 1850 28 2 world 
+- 1880
+: 1886 1 2 Wick
+: 1890 4 4 ed 
+* 1898 30 4 world 
+- 1930
+: 2332 1 4 I’m 
+: 2334 2 4 rot
+: 2338 2 4 ten 
+: 2342 1 4 to 
+: 2344 4 4 the 
+: 2350 5 11 core 
+F 2356 9 2 core 
+- 2366
+: 2366 2 9 Rot
+: 2369 2 9 ten 
+: 2374 2 9 to 
+: 2378 2 9 the 
+: 2382 8 4 core 
+- 2391
+: 2392 3 4 I’m 
+: 2396 4 4 rot
+: 2402 2 4 ten 
+: 2406 2 4 to 
+: 2410 2 4 the 
+: 2414 4 11 core 
+F 2420 6 2 core 
+- 2427
+: 2428 2 9 Who 
+: 2432 2 9 could 
+: 2436 2 9 ask 
+: 2442 2 9 for 
+: 2446 8 4 more? 
+- 2456
+: 2458 2 4 I’m 
+: 2462 2 4 no
+: 2466 2 4 thing 
+: 2470 2 4 like 
+: 2474 2 4 the 
+: 2478 6 11 kid 
+: 2486 4 11 next 
+- 2492
+: 2494 2 9 Like 
+: 2498 2 9 the 
+: 2502 2 9 kid 
+: 2506 2 12 next 
+: 2510 8 11 door 
+- 2520
+: 2522 2 4 I’m 
+: 2526 2 4 rot
+: 2530 2 4 ten 
+: 2534 2 4 to 
+: 2538 2 4 the 
+: 2542 6 11 core 
+- 2550
+: 2554 2 9 I’m 
+: 2558 2 9 rot
+: 2562 2 9 ten 
+: 2566 2 9 to 
+: 2570 30 9 the
+: 2602 2 11 ~ 
+E

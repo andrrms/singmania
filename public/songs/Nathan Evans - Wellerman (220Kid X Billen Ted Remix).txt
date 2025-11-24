@@ -1,0 +1,348 @@
+#ARTIST:Nathan Evans
+#TITLE:Wellerman (220Kid X Billen Ted Remix)
+#MP3:Nathan Evans - Wellerman (220Kid X Billen Ted Remix).mp3
+#CREATOR:Mamba99, Tracks
+#YEAR:2021
+#LANGUAGE:English
+#BPM:240
+#GAP:1860
+#VIDEO:v=M26V1IWAP-E,co=wellerman-sea-shanty--220-kid-x-billen-ted-remix-676928bfbed1b.jpg,bg=evans-nathan-6877de99a8be3.jpg
+#END:117000
+: 0 3 10 There 
+: 4 2 12 once 
+: 8 1 12 was 
+: 10 1 12 a 
+: 12 2 12 ship 
+: 16 2 15 that 
+: 20 2 19 put 
+: 24 2 19 to 
+: 28 2 19 sea 
+- 31
+: 32 3 19 The 
+: 36 2 20 name 
+: 40 1 17 of 
+: 42 1 17 the 
+: 44 1 17 ship 
+: 48 1 19 was 
+: 50 1 20 the 
+: 52 1 22 Bil
+: 54 1 24 ly 
+: 56 2 19 Of 
+: 60 2 19 Tea 
+- 64
+: 66 1 19 The 
+: 68 2 12 winds 
+: 72 3 12 blew 
+: 76 2 12 up, 
+: 80 2 15 her 
+: 84 3 19 bow 
+: 88 2 19 dipped 
+: 92 2 19 down 
+- 95
+: 96 2 7 O, 
+: 98 2 7 blo
+: 100 4 5 ~w, 
+: 104 2 17 my 
+: 108 1 15 bul
+: 110 1 15 ly 
+: 112 3 14 boys, 
+: 116 7 12 blow 
+- 125
+: 131 1 12 She 
+: 133 1 12 had 
+: 135 1 12 not 
+* 139 2 12 been 
+* 143 2 15 two 
+: 147 2 19 weeks 
+: 151 2 19 from 
+: 155 3 19 shore 
+- 159
+: 160 3 19 When 
+: 164 3 20 down 
+: 168 2 17 on 
+: 172 4 17 her, 
+: 178 1 19 a 
+: 180 2 20 right 
+: 184 2 19 whale 
+: 188 3 19 bore 
+- 192
+: 193 1 19 The 
+: 195 2 12 Cap
+: 199 2 12 tain 
+: 203 3 12 called 
+: 207 3 15 all 
+: 211 3 19 hands 
+: 215 3 19 and 
+: 219 3 19 swore 
+- 223
+: 224 2 19 He’d 
+: 228 2 19 take 
+: 232 2 17 that 
+: 236 2 15 whale 
+: 240 2 14 in 
+: 244 5 12 tow 
+- 251
+: 260 6 12 Soon 
+: 267 5 12 may 
+: 273 1 8 the 
+: 275 1 10 Wel
+: 277 1 7 ler
+: 279 3 7 man 
+* 284 3 7 come 
+- 288
+: 289 1 7 To 
+: 291 3 8 bring 
+: 295 2 5 us 
+: 299 1 5 su
+: 301 1 5 gar 
+: 303 3 8 and 
+: 307 3 12 tea 
+: 311 3 7 and 
+: 315 3 7 rum 
+- 320
+: 324 6 12 One 
+: 331 3 12 day, 
+: 335 1 8 when 
+: 337 1 8 the 
+: 339 1 10 tong
+: 341 1 7 uin’ 
+: 343 2 7 is 
+: 347 3 7 done 
+- 351
+: 351 2 7 We’ll 
+* 355 2 7 take 
+* 359 2 5 our 
+: 363 2 3 leave 
+: 367 2 2 and 
+: 371 5 0 go 
+- 378
+: 483 2 7 Take 
+: 487 2 5 our 
+: 491 2 3 leave 
+: 495 2 2 and 
+: 499 5 0 go 
+- 506
+: 517 6 12 Soon 
+: 524 5 12 may 
+: 530 1 8 the 
+: 532 1 10 Wel
+: 534 1 7 ler
+: 536 2 7 man 
+: 540 3 7 come 
+- 544
+: 546 1 7 To 
+: 548 3 8 bring 
+: 552 2 5 us 
+: 556 1 5 su
+: 558 1 5 gar 
+: 560 3 8 and 
+: 564 3 12 tea 
+: 568 3 7 and 
+: 572 4 7 rum 
+- 578
+: 581 6 12 One 
+: 588 3 12 day, 
+: 592 1 8 when 
+: 594 1 8 the 
+: 596 1 10 tong
+: 598 1 7 uin’ 
+: 600 2 7 is 
+: 604 3 7 done 
+- 608
+: 608 2 7 We’ll 
+: 612 2 7 take 
+: 616 2 5 our 
+: 620 2 3 leave 
+: 624 2 2 and 
+: 628 5 0 go 
+- 635
+: 767 3 10 Be
+: 771 2 12 fore 
+: 775 1 12 the 
+: 777 3 12 boat 
+: 783 3 15 had 
+: 787 2 19 hit 
+: 791 1 19 the 
+: 793 5 19 wa
+: 799 1 19 ter 
+- 801
+: 801 2 7 The 
+: 804 3 8 wha
+: 808 2 5 ~le’s 
+: 812 2 5 tail 
+* 816 2 7 came 
+* 820 2 12 up 
+: 824 2 7 and 
+: 828 3 7 caught 
+: 832 1 7 her 
+- 834
+: 834 1 19 All 
+: 836 2 12 hands 
+: 840 1 12 to 
+: 842 1 12 the 
+: 844 3 12 side, 
+: 848 3 15 har
+: 852 3 19 pooned 
+: 856 3 19 and 
+: 860 3 19 fought 
+: 864 1 19 her 
+- 866
+: 868 2 19 When 
+: 872 2 17 she 
+: 876 2 15 dived 
+: 880 2 14 be
+: 884 6 12 low 
+- 892
+: 899 2 12 She’d 
+: 903 2 12 not 
+: 907 2 12 been 
+: 911 2 15 two 
+: 915 2 19 weeks 
+: 919 2 19 from 
+: 923 3 19 shore 
+- 927
+: 927 3 19 When 
+: 931 3 20 down 
+: 935 2 17 on 
+: 939 4 17 her, 
+: 945 1 19 a 
+: 947 2 20 right 
+: 951 2 19 whale 
+: 955 3 19 bore 
+- 960
+: 962 1 19 The 
+: 964 2 12 Cap
+: 968 2 12 tain 
+: 972 2 12 called 
+: 976 2 15 all 
+: 980 2 19 hands 
+: 984 2 19 and 
+: 988 3 19 swore 
+- 992
+: 992 2 19 He’d 
+: 996 2 19 take 
+: 1000 2 17 that 
+: 1004 2 15 whale 
+: 1008 2 14 in 
+: 1012 6 12 tow 
+- 1020
+* 1028 6 12 Soon 
+* 1035 5 12 may 
+: 1041 1 8 the 
+: 1043 1 10 Wel
+: 1045 1 7 ler
+: 1047 3 7 man 
+: 1052 3 7 come 
+- 1056
+: 1057 1 7 To 
+: 1059 3 8 bring 
+: 1063 2 5 us 
+: 1067 1 5 su
+: 1069 1 5 gar 
+: 1071 3 8 and 
+: 1075 3 12 tea 
+: 1079 3 7 and 
+: 1083 3 7 rum 
+- 1088
+: 1092 6 12 One 
+: 1099 3 12 day, 
+: 1103 1 8 when 
+: 1105 1 8 the 
+: 1107 1 10 tong
+: 1109 1 7 uin’ 
+: 1111 2 7 is 
+: 1115 3 7 done 
+- 1119
+: 1120 2 7 We’ll 
+: 1124 2 7 take 
+: 1128 2 5 our 
+: 1132 2 3 leave 
+: 1136 2 2 and 
+: 1140 5 0 go 
+- 1147
+: 1252 2 7 Take 
+: 1256 2 5 our 
+: 1260 2 3 leave 
+: 1264 2 2 and 
+: 1268 5 0 go 
+- 1275
+: 1284 6 12 Soon 
+: 1291 5 12 may 
+: 1297 1 8 the 
+* 1299 1 10 Wel
+* 1301 1 7 ler
+* 1303 3 7 man 
+: 1308 3 7 come 
+- 1312
+: 1314 1 7 To 
+: 1316 3 8 bring 
+: 1320 2 5 us 
+: 1324 1 5 su
+: 1326 1 5 gar 
+: 1328 3 8 and 
+: 1332 3 12 tea 
+: 1336 3 7 and 
+: 1340 3 7 rum 
+- 1345
+: 1349 6 12 One 
+: 1356 3 12 day, 
+: 1360 1 8 when 
+: 1362 1 8 the 
+: 1364 1 10 tong
+: 1366 1 7 uin’ 
+: 1368 2 7 is 
+: 1372 3 7 done 
+- 1376
+: 1376 2 7 We’ll 
+: 1380 2 7 take 
+: 1384 2 5 our 
+: 1388 2 3 leave 
+: 1392 2 2 and 
+: 1396 5 0 go 
+- 1403
+: 1412 6 12 Soon 
+: 1419 5 12 may 
+: 1425 1 8 the 
+: 1427 1 10 Wel
+: 1429 1 7 ler
+: 1431 3 7 man 
+: 1436 3 7 come 
+- 1440
+: 1442 1 7 To 
+: 1444 3 8 bring 
+: 1448 2 5 us 
+* 1452 1 5 su
+* 1454 1 5 gar 
+* 1456 3 8 and 
+* 1460 3 12 tea 
+: 1464 3 7 and 
+: 1468 3 7 rum 
+- 1473
+: 1477 6 12 One 
+: 1484 3 12 day, 
+: 1488 1 8 when 
+: 1490 1 8 the 
+: 1492 1 10 tong
+: 1494 1 7 uin’ 
+: 1496 2 7 is 
+: 1500 3 7 done 
+- 1504
+: 1504 2 7 We’ll 
+: 1508 2 7 take 
+: 1512 2 5 our 
+: 1516 2 3 leave 
+: 1520 2 2 and 
+: 1524 5 0 go 
+- 1531
+: 1636 2 7 Take 
+: 1640 2 5 our 
+: 1644 2 3 leave 
+: 1648 2 2 and 
+: 1652 5 0 go 
+- 1659
+* 1764 2 7 Take 
+* 1768 2 5 our 
+* 1772 2 3 leave 
+* 1776 2 2 and 
+* 1780 5 0 go 
+E

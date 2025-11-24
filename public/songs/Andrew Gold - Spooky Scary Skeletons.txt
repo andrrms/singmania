@@ -1,0 +1,226 @@
+#ARTIST:Andrew Gold
+#TITLE:Spooky Scary Skeletons
+#MP3:Andrew Gold - Spooky Scary Skeletons.mp3
+#COVER:Andrew Gold - Spooky Scary Skeletons [CO].jpg
+#BACKGROUND:Andrew Gold - Spooky Scary Skeletons [BG].jpg
+#GENRE:Halloween
+#YEAR:1996
+#LANGUAGE:English
+#BPM:400
+#GAP:18680
+#VIDEO:v=sVjk5nrb_lI,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/5000x5000bb.jpg
+#START:6.2
+#END:132100
+: 0 5 -5 Spoo
+: 10 7 -5 ky, 
+: 20 6 -6 sca
+: 31 8 -6 ry 
+: 42 6 -13 skel
+: 51 3 -10 e
+: 57 9 -13 tons 
+- 69
+: 72 5 -1 Send 
+: 83 3 7 shi
+: 89 11 7 vers 
+: 104 5 6 down 
+: 114 5 6 your 
+: 124 8 -1 spine 
+- 148
+: 165 4 -5 Shrie
+: 175 5 -5 king 
+: 186 6 -6 skulls 
+: 196 5 -6 will 
+: 207 5 -13 shock 
+: 217 5 -10 your 
+: 226 10 -13 soul 
+- 242
+: 248 6 2 Seal 
+: 259 6 4 your 
+: 270 6 1 doom 
+: 280 5 6 to
+: 290 9 -1 night 
+- 315
+: 331 5 7 Spoo
+: 341 6 7 ky, 
+: 351 5 6 sca
+: 363 5 6 ry 
+: 372 7 -1 skel
+: 383 3 2 e
+: 389 11 -1 tons 
+- 406
+: 413 5 7 Speak 
+: 424 4 7 with 
+: 435 5 6 such 
+: 445 4 6 a 
+: 455 13 -1 screech 
+- 477
+: 486 4 -1 You’ll 
+: 496 5 7 shake 
+: 507 5 7 and 
+: 517 3 6 shu
+: 523 12 6 dder 
+: 539 5 -1 in 
+: 549 3 2 sur
+: 555 10 -1 prise 
+- 567
+: 570 2 -1 When 
+: 575 2 -1 you 
+: 581 4 2 hear 
+: 591 4 4 these 
+: 602 5 1 zom
+: 612 5 2 bies 
+: 622 7 -1 shriek 
+- 646
+: 664 4 5 We’re 
+: 673 5 7 so 
+: 684 7 5 so
+: 694 5 7 rry, 
+: 705 7 9 ske
+: 715 3 11 le
+: 721 10 9 tons, 
+: 737 5 7 you’re 
+: 747 5 5 so 
+: 757 7 7 mis
+: 769 6 5 un
+: 779 3 4 der
+: 785 23 2 stood 
+- 817
+: 826 2 2 You 
+: 831 6 4 on
+: 840 9 5 ly 
+: 851 5 4 want 
+: 861 6 5 to 
+: 871 7 7 so
+: 881 2 9 cial
+: 887 15 7 ize 
+- 905
+: 908 2 2 But 
+: 913 5 4 I 
+: 923 6 5 don’t 
+: 933 6 7 think 
+: 943 4 11 we 
+: 953 10 10 should 
+- 973
+: 983 5 -6 ’Cause 
+: 994 5 -5 Spoo
+: 1004 7 -5 ky, 
+: 1014 6 -6 sca
+: 1025 8 -6 ry 
+: 1036 6 -13 skel
+: 1045 3 -10 e
+: 1051 9 -13 tons 
+- 1065
+: 1068 5 -1 Shout 
+: 1079 5 7 start
+: 1087 9 7 ling, 
+: 1100 7 6 shri
+: 1110 5 6 lly 
+: 1120 8 -1 screams 
+- 1140
+: 1150 5 -6 They’ll 
+: 1161 5 -5 sneak 
+: 1171 7 -5 from 
+: 1181 6 -6 their 
+: 1192 8 -6 sar
+: 1203 6 -13 coph
+: 1212 3 -10 a
+: 1218 9 -13 gus 
+- 1231
+: 1234 4 -1 And 
+: 1244 5 2 just 
+: 1255 6 4 won’t 
+: 1265 5 1 leave 
+: 1275 5 2 you 
+: 1285 8 -1 be 
+- 1300
+: 1659 6 5 Spi
+: 1669 6 7 rits 
+: 1680 7 5 su
+: 1691 7 7 per
+: 1701 6 9 na
+: 1711 3 11 tur
+: 1718 9 9 al 
+: 1731 5 7 are 
+: 1741 7 5 shy, 
+: 1752 6 7 what’s 
+: 1764 7 5 all 
+: 1775 3 4 the 
+: 1781 17 2 fuss? 
+- 1810
+: 1822 3 2 But 
+: 1827 5 4 bags 
+: 1836 5 5 of 
+: 1846 6 4 bones 
+: 1856 5 5 seem 
+: 1866 6 7 so 
+: 1876 3 9 un
+: 1882 11 7 safe 
+- 1895
+: 1897 4 2 It’s 
+: 1908 2 4 se
+: 1914 11 5 mi-
+: 1929 6 7 ser
+: 1939 3 11 i
+: 1945 16 10 ous 
+- 1975
+: 1990 6 -5 Spoo
+: 2001 5 -5 ky, 
+: 2011 6 -6 sca
+: 2022 5 -6 ry 
+: 2032 7 -13 skel
+: 2043 3 -10 e
+: 2049 10 -13 tons 
+- 2061
+: 2063 4 -1 Are 
+: 2074 3 7 sil
+: 2081 9 7 ly 
+: 2094 5 6 all 
+: 2103 5 6 the 
+: 2115 12 -1 same 
+- 2136
+: 2146 4 -6 They’ll 
+: 2156 6 -5 smile 
+: 2166 5 -5 and 
+: 2177 6 -6 scra
+: 2188 6 -6 bble 
+: 2198 7 -13 slow
+: 2209 3 -10 ly 
+: 2215 13 -13 by 
+- 2229
+: 2231 3 -1 And 
+: 2239 5 2 drive 
+: 2250 5 5 you 
+: 2260 5 10 so 
+: 2270 5 12 in
+: 2280 8 12 sane 
+- 2305
+: 2323 4 -5 Sticks 
+: 2334 5 -5 and 
+: 2344 4 -6 stones 
+: 2355 5 -6 will 
+: 2365 5 -13 break 
+: 2374 3 -10 your 
+: 2382 10 -13 bones 
+- 2394
+: 2396 4 -1 They 
+: 2406 5 7 sel
+: 2417 5 7 dom 
+: 2427 4 6 let 
+: 2436 4 6 you 
+: 2446 11 -1 snooze 
+- 2473
+: 2489 5 -5 Spoo
+: 2499 5 -5 ky, 
+: 2509 5 -6 sca
+: 2519 5 -6 ry 
+: 2529 7 -13 skel
+: 2541 2 -10 e
+: 2547 10 -13 tons 
+- 2563
+: 2565 3 -1 Will 
+: 2572 10 2 wake 
+: 2593 10 4 you 
+: 2613 11 1 with 
+: 2634 11 2 a 
+: 2654 16 -1 boo!
+E

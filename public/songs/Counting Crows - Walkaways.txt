@@ -1,0 +1,84 @@
+#ARTIST:Counting Crows
+#TITLE:Walkaways
+#MP3:Counting Crows - Walkaways.mp3
+#CREATOR:mancer
+#COVER:Counting Crows - Walkaways [CO].jpg
+#BACKGROUND:Counting Crows - Walkaways [BG].jpg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:392
+#GAP:15500
+#VIDEO:a=oedzYv-jybk,co=recovering-the-satellites-4dcfda1792ec0.jpg,bg=counting-crows-510e5d324af95.jpg,medley=0-1305
+: 0 3 2 “Got
+: 4 3 4 ta 
+: 10 8 6 rush 
+: 20 3 9 a
+: 24 14 7 way”
+: 39 13 11 ~ 
+: 89 11 11 she 
+: 109 13 9 said
+: 123 24 7 ~ 
+- 157
+: 175 18 9 Been 
+: 194 2 2 to 
+: 198 15 11 Bos
+: 217 14 7 ton 
+: 241 13 9 be 
+: 262 14 4 fore
+: 277 19 2 ~ 
+- 322
+: 359 6 11 A
+: 366 2 2 ny
+: 369 11 9 way
+: 381 10 9 ~ 
+: 422 4 7 this 
+: 437 7 9 change
+: 445 7 9 ~ 
+: 456 2 7 I’ve 
+: 459 14 9 been 
+: 479 16 11 fee
+: 499 18 7 ling 
+- 521
+: 523 3 2 Doe
+: 527 6 11 sn’t 
+: 537 12 7 make 
+: 562 4 7 the 
+: 569 11 9 rain
+: 581 20 7 ~ 
+: 612 12 4 fall 
+: 625 16 2 ~ 
+- 667
+: 699 20 2 No 
+* 723 14 4 big
+* 739 33 2 ~ 
+: 779 4 2 dif
+: 784 4 9 fe
+: 789 16 7 ren
+: 811 14 7 ces 
+: 829 8 9 the
+: 838 3 9 se 
+: 844 21 4 days 
+- 867
+: 869 11 9 Just 
+: 881 2 2 the 
+: 885 12 7 same 
+: 899 14 7 old 
+: 915 10 7 walk
+: 926 3 9 a
+: 933 9 4 ways 
+: 943 22 2 ~ 
+- 1017
+: 1073 18 7 Some 
+: 1093 16 6 day, 
+: 1147 4 9 I’m 
+: 1153 3 7 gon
+: 1157 2 7 na 
+: 1165 11 9 stay 
+: 1177 8 4 ~ 
+- 1211
+: 1249 5 2 But 
+: 1255 10 7 not 
+: 1267 4 7 today 
+: 1273 11 4 ~ 
+: 1285 20 2 ~ 
+E

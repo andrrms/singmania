@@ -1,0 +1,196 @@
+#ARTIST:Hällas
+#TITLE:Star Rider
+#MP3:Hällas - Star Rider.mp3
+#CREATOR:Ich,werdennsonst?
+#GENRE:Classic Rock
+#YEAR:2017
+#LANGUAGE:English
+#BPM:240.08
+#GAP:32200
+#VIDEO:v=jbfsALc7pPc,co=https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/f2/08/39/f2083981-d588-239d-e779-9959840dca17/cover.jpg/5000x5000bb.jpg,bg=hllas-67d99dd4c77e6.jpg
+: 0 13 -3 Clo
+: 14 10 0 ser, 
+: 25 4 7 we’re 
+: 31 3 4 get
+: 35 4 2 ting 
+: 42 8 0 clo
+: 51 4 -1 ser 
+: 57 4 0 my 
+: 62 4 0 friend, 
+- 68
+: 91 4 -3 You 
+: 96 4 4 guide 
+: 103 4 2 me 
+: 110 4 0 on 
+: 118 4 -1 my 
+: 126 5 0 way
+: 132 3 -3 ~ 
+- 137
+: 143 3 -3 The 
+: 147 4 -3 road 
+: 152 3 -1 is 
+: 156 6 0 tric
+: 163 3 -3 ky 
+: 171 3 -1 and 
+: 175 10 2 wolves 
+: 187 3 7 a
+: 191 4 2 mongst 
+: 196 4 0 us 
+- 202
+: 220 2 -3 The 
+: 223 4 -3 light 
+: 231 4 -1 will 
+: 238 4 0 lead 
+: 246 4 2 us 
+: 253 8 0 to 
+: 264 3 0 the 
+: 268 13 0 end 
+- 283
+: 346 3 -3 Will 
+: 350 6 0 lead 
+: 358 4 2 us 
+: 366 6 4 to 
+: 373 4 5 the 
+: 382 15 4 Star 
+: 398 5 4 Ri
+: 404 7 7 der 
+- 413
+: 513 11 4 Star 
+: 526 4 4 Ri
+: 531 5 7 der 
+- 538
+: 571 3 0 You 
+: 575 4 0 can’t 
+: 586 3 2 es
+: 590 6 4 cape 
+: 600 4 5 your 
+: 606 15 4 fa
+: 621 16 2 ~
+: 637 11 0 te 
+- 639
+: 1151 8 -3 See
+: 1159 3 -1 ~
+: 1162 10 0 king, 
+: 1177 5 7 we 
+: 1183 4 4 have 
+: 1188 4 2 been 
+: 1194 7 0 sear
+: 1202 6 -1 ching 
+: 1209 4 0 for 
+: 1214 7 0 him 
+- 1223
+: 1243 3 -3 The 
+: 1247 6 4 path 
+: 1254 5 2 has 
+: 1261 7 0 lead 
+: 1269 5 -1 us 
+: 1277 7 0 here 
+- 1286
+: 1294 3 -3 The 
+: 1298 4 -3 light’s 
+: 1303 5 -1 been 
+: 1309 5 0 swal
+: 1315 10 -3 lowed 
+: 1329 6 0 by 
+: 1336 5 7 the 
+: 1342 5 4 sha
+: 1348 2 2 ~
+: 1350 6 0 dows 
+- 1356
+: 1370 5 -3 No 
+: 1376 5 -3 fur
+: 1382 6 -1 ther 
+: 1390 6 0 can 
+: 1398 5 2 we 
+: 1406 9 0 go 
+- 1417
+: 1454 3 -3 But 
+: 1458 1 4 our 
+: 1460 2 1 quest 
+: 1463 4 -1 stands 
+: 1468 2 1 a
+: 1471 9 0 bove 
+- 1482
+: 1500 3 4 We 
+: 1504 4 2 have 
+: 1511 6 2 to 
+: 1518 6 4 find 
+: 1525 6 5 the 
+: 1536 13 4 Star 
+: 1550 4 4 Ri
+: 1555 9 7 der 
+- 1566
+: 1663 13 4 Star 
+: 1677 5 4 Ri
+: 1683 10 7 der 
+- 1695
+: 1723 3 0 You 
+: 1727 4 0 can’t 
+: 1739 3 2 es
+: 1743 7 4 cape 
+: 1751 6 5 your 
+: 1758 17 4 fa
+: 1775 15 2 ~
+: 1790 14 0 te 
+- 1799
+: 2747 18 4 Star 
+: 2766 5 4 Ri
+: 2772 9 7 der 
+- 2783
+: 2814 11 4 Raised 
+: 2826 3 4 in 
+: 2830 4 4 sha
+: 2835 9 0 dows 
+- 2846
+: 2871 4 -3 He 
+: 2876 3 -1 be
+: 2880 9 0 trayed 
+: 2890 3 0 his 
+: 2894 4 0 mas
+: 2899 8 4 ters 
+- 2909
+: 2939 4 0 You 
+: 2944 9 0 can’t 
+: 2954 4 2 es
+: 2959 7 4 cape 
+: 2967 7 5 your 
+: 2975 16 4 fa
+: 2991 11 2 te
+- 3002
+: 3005 14 4 Star 
+: 3020 5 4 Ri
+: 3026 9 7 der 
+- 3037
+: 3069 15 4 Star 
+: 3085 5 4 Ri
+: 3091 9 7 der 
+- 3102
+: 3133 16 4 Star 
+: 3150 4 4 Ri
+: 3155 9 7 der 
+- 3166
+: 3195 3 0 You 
+: 3199 10 0 can’t 
+: 3210 4 2 es
+: 3215 4 4 cape 
+: 3222 7 5 your 
+: 3230 17 4 fa
+: 3247 31 7 ~
+: 3278 62 9 te 
+- 3271
+: 3406 15 4 Star 
+: 3422 4 4 Ri
+: 3427 7 7 der 
+- 3436
+: 3534 14 4 Star 
+: 3549 5 4 Ri
+: 3555 11 7 der 
+- 3568
+: 3660 16 4 Star 
+: 3677 5 4 Ri
+: 3683 13 7 der 
+- 3698
+: 3725 18 4 Space 
+: 3744 3 4 Mas
+: 3748 12 9 ter 
+E

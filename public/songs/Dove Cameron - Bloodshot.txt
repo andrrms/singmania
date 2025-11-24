@@ -1,0 +1,272 @@
+#ARTIST:Dove Cameron
+#TITLE:Bloodshot
+#MP3:Dove Cameron - Bloodshot.mp3
+#CREATOR:princetongirl98
+#GENRE:Pop
+#YEAR:2019
+#LANGUAGE:English
+#BPM:232.83
+#GAP:8790
+#VIDEO:a=JDyU7IBTfgg,co=https://static.wikia.nocookie.net/thedovecameron/images/d/db/BloodshotWaste.png
+: 0 1 10 I 
+: 2 1 2 haven’t 
+: 5 6 2 been 
+: 12 5 2 sleep
+: 18 4 10 in’ 
+- 24
+: 31 1 2 Just 
+: 34 2 2 stare 
+: 38 1 10 at 
+: 40 3 2 the 
+: 44 4 2 fan 
+: 49 4 10 all 
+: 55 7 9 night, 
+: 88 3 7 yeah 
+- 93
+: 129 1 9 Got 
+: 132 1 2 tired 
+: 134 4 2 of 
+: 140 3 2 dream
+: 145 5 10 in’ 
+- 152
+: 160 1 5 Run
+: 163 2 2 nin’ 
+: 166 1 5 in
+: 169 1 5 to 
+: 172 4 2 you 
+: 178 2 10 all 
+: 182 1 10 the 
+: 184 7 9 time 
+- 193
+: 239 4 5 Even 
+: 245 4 7 the 
+: 252 4 7 good 
+: 257 7 2 ones 
+- 266
+: 275 1 10 May 
+: 277 1 0 be 
+: 280 7 3 messed 
+: 289 6 2 up 
+- 297
+: 307 2 10 May 
+: 311 1 5 be 
+: 314 15 2 achin’ 
+- 331
+: 339 3 5 Wanna 
+: 344 6 2 wake 
+: 352 5 2 up 
+: 369 3 10 so 
+- 374
+: 384 2 10 I 
+: 387 5 2 haven’t 
+: 394 3 2 been 
+: 398 6 2 sleep
+: 405 4 10 in’ 
+- 411
+: 416 1 10 Just 
+: 419 3 2 stare 
+: 423 1 0 at 
+: 426 2 10 the 
+: 429 4 2 fan 
+: 435 5 10 all 
+: 441 6 9 night 
+- 449
+: 466 1 5 And 
+: 476 9 9 wait 
+: 487 8 10 it 
+: 497 13 10 out 
+- 512
+: 535 1 10 And 
+: 537 2 7 my 
+: 540 5 7 friends 
+: 547 5 9 say 
+: 553 2 9 I’m 
+: 557 5 3 los
+: 563 4 3 in’ 
+: 569 2 3 my 
+: 573 7 2 mind 
+- 582
+: 600 1 7 And 
+: 603 2 10 my 
+: 606 4 5 par
+: 611 4 5 ents 
+: 617 2 5 check 
+: 621 4 2 in 
+: 626 5 9 all 
+: 633 2 2 the 
+: 637 6 7 time 
+- 645
+: 664 1 10 But 
+: 667 1 5 it’s 
+: 670 10 9 harder 
+: 681 2 9 to 
+: 685 6 3 see 
+: 692 3 3 you’re 
+: 697 3 3 not 
+: 701 6 2 mine 
+- 709
+: 713 2 2 With 
+: 717 8 2 my 
+: 733 10 9 blood
+: 745 12 5 shot 
+: 758 6 10 eyes 
+- 766
+: 863 4 0 Blood
+: 874 9 2 shot 
+: 886 7 10 eyes 
+- 895
+: 1029 1 2 The 
+: 1031 1 2 col
+: 1033 1 2 ours 
+: 1036 3 2 are 
+: 1040 4 2 dif
+: 1046 1 10 fer
+: 1048 5 10 ent 
+- 1055
+: 1060 1 2 For
+: 1062 4 0 eign 
+: 1068 3 2 and 
+: 1073 4 2 beau
+: 1079 3 10 ti
+: 1083 6 9 ful, 
+: 1116 2 7 yeah 
+- 1120
+: 1142 3 10 Got 
+: 1148 1 9 this 
+: 1151 4 0 white 
+: 1157 5 2 noise 
+: 1163 3 0 and 
+: 1168 4 2 mu
+: 1173 5 10 sic 
+- 1180
+: 1190 1 10 Fil
+: 1193 3 0 lin’ 
+: 1197 3 2 my 
+: 1201 4 2 head 
+- 1206
+: 1207 3 10 Like 
+: 1212 2 10 the 
+: 1216 7 9 sig
+: 1232 7 5 nal’s 
+: 1248 20 9 broken 
+- 1270
+: 1274 1 7 Los
+: 1276 1 7 ing 
+: 1279 4 7 fo
+: 1285 6 2 cus 
+- 1293
+: 1305 1 10 Los
+: 1307 1 2 ing 
+: 1310 5 5 mo
+: 1317 9 2 ments 
+- 1328
+: 1337 1 5 Hav
+: 1339 1 7 ing 
+: 1342 5 7 con
+: 1349 5 2 ver
+: 1356 6 3 sa
+: 1363 5 2 tions 
+- 1370
+: 1373 12 2 Hours 
+: 1387 11 3 wastin’ 
+: 1400 7 0 away 
+- 1409
+: 1414 1 9 The 
+: 1416 3 2 col
+: 1421 1 2 ours 
+: 1423 2 9 are 
+: 1426 4 2 dif
+: 1432 1 10 fer
+: 1434 6 10 ent 
+- 1442
+: 1446 1 3 For
+: 1449 1 2 eign 
+: 1452 3 2 and 
+: 1457 4 2 beau
+: 1462 4 10 ti
+: 1468 5 9 ful, 
+: 1502 3 10 yeah, 
+: 1517 4 10 yeah 
+- 1523
+: 1564 1 7 And 
+: 1566 1 7 my 
+: 1569 4 7 friends 
+: 1574 4 9 say 
+: 1580 3 9 I’m 
+: 1584 4 5 los
+: 1589 4 3 in’ 
+: 1595 3 3 my 
+: 1600 5 2 mind 
+- 1607
+: 1628 1 10 And 
+: 1630 2 10 my 
+: 1634 3 3 par
+: 1638 4 5 ents 
+: 1644 2 10 check 
+: 1649 3 2 in 
+: 1654 5 9 all 
+: 1660 3 10 the 
+: 1664 6 7 time 
+- 1672
+: 1691 1 10 But 
+: 1694 1 7 it’s 
+: 1696 11 9 harder 
+: 1708 2 9 to 
+: 1712 4 3 see 
+: 1718 4 3 you’re 
+: 1724 2 3 not 
+: 1728 6 2 mine 
+- 1736
+: 1740 2 7 With 
+: 1744 6 2 my 
+: 1761 10 2 blood
+: 1773 11 5 shot 
+: 1785 12 5 eyes 
+- 1799
+: 1820 2 10 And 
+: 1824 1 7 I 
+: 1826 3 7 know 
+: 1831 4 9 that 
+: 1837 3 9 they’re 
+: 1841 4 3 all 
+: 1847 2 3 prob
+: 1851 5 3 ably 
+: 1857 6 2 right 
+- 1865
+: 1885 1 2 And 
+: 1888 1 10 I 
+: 1891 4 5 know 
+: 1896 2 5 I 
+: 1901 2 10 should 
+: 1906 4 2 just 
+: 1911 4 2 say 
+: 1917 3 10 good
+: 1921 6 7 night 
+- 1929
+: 1949 1 3 But 
+: 1952 1 7 it’s 
+: 1954 11 9 harder 
+: 1966 3 0 to 
+: 1970 6 3 see 
+: 1977 3 3 you’re 
+: 1982 3 3 not 
+: 1986 5 2 mine 
+- 1993
+: 1998 1 7 With 
+: 2001 6 2 my 
+: 2018 9 9 blood
+: 2030 10 5 shot 
+: 2041 8 5 eyes 
+- 2051
+: 2150 5 5 Blood
+: 2157 11 5 shot 
+: 2170 7 2 eyes 
+- 2179
+: 2408 5 2 Blood
+: 2414 11 2 shot 
+: 2427 7 10 eyes 
+- 2436
+: 2532 9 0 Blood
+: 2543 12 2 shot 
+: 2556 8 10 eyes 
+E

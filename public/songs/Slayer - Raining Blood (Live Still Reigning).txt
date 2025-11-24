@@ -1,0 +1,148 @@
+#ARTIST:Slayer
+#TITLE:Raining Blood (Live Still Reigning)
+#MP3:Slayer - Raining Blood (Live Still Reigning).mp3
+#CREATOR:znxineohp
+#YEAR:1986
+#LANGUAGE:English
+#BPM:356
+#GAP:148490
+#VIDEO:v=t2htZJDY4_c,co=https://lastfm.freetls.fastly.net/i/u/300x300/b3d88a5ec6f04bbd95856010580907ca.jpg,bg=slayer-5698f50ee9900.jpeg
+#START:101.0
+: 0 7 -9 Trapped 
+: 8 5 -9 in 
+: 14 3 -6 pur
+: 18 3 -6 ga
+: 22 3 -4 to
+: 26 8 -6 ry 
+- 36
+: 50 3 -6 A 
+: 54 1 -6 life
+: 56 6 -9 less 
+: 64 3 -9 ob
+: 68 3 -9 ject 
+: 72 3 -9 a
+: 76 14 -9 live 
+- 92
+: 100 3 -9 A
+: 104 3 -9 wai
+: 108 1 -9 ting 
+: 110 5 -9 re
+: 116 3 -9 pri
+: 120 8 -9 sal 
+- 130
+: 152 5 -6 Death 
+: 158 1 -9 will 
+: 160 1 -9 be 
+: 162 5 -9 their 
+: 168 3 -9 ac
+: 172 3 -6 quit
+: 176 12 -9 tance 
+- 190
+: 202 9 -9 Sky 
+: 212 5 -9 is 
+: 218 3 -6 tur
+: 222 1 -6 ning 
+: 224 16 -4 red 
+- 242
+: 250 5 -7 Re
+: 256 3 -7 turn 
+: 260 5 -7 to 
+: 266 5 -6 pow
+: 272 3 -9 er 
+: 276 6 -9 draws 
+: 284 10 -7 near 
+- 296
+: 306 5 -7 Fall 
+: 312 1 -7 in
+: 314 1 -7 to 
+: 316 4 -7 me, 
+: 322 5 -9 the 
+: 328 7 -9 sky’s 
+: 336 1 -7 crim
+: 338 3 -7 son 
+: 342 8 -7 tears 
+- 352
+: 354 3 -7 A
+: 358 5 -6 bo
+: 364 1 -9 lish 
+: 366 1 -6 the 
+: 368 5 -7 rules 
+: 374 3 -9 made 
+: 378 4 -9 of 
+: 384 16 -6 stone 
+- 402
+: 654 5 -6 Pierced 
+: 660 3 -9 from 
+: 664 3 -8 be
+: 668 10 -9 low 
+- 680
+: 682 9 -9 Souls 
+: 692 1 -9 of 
+: 694 3 -9 my 
+: 698 3 -9 treache
+: 702 5 -9 rous 
+: 708 12 -9 past 
+- 722
+: 774 3 -6 Be
+: 778 1 -9 trayed
+: 780 1 -9 by 
+: 782 5 -8 ma 
+: 788 6 -9 ny 
+- 796
+: 800 3 -9 Now 
+: 804 3 -6 or
+: 808 3 -8 na
+: 812 4 -9 ments 
+: 820 7 -4 drip
+: 828 3 -6 ping 
+* 832 3 -6 a
+* 836 20 -4 bove 
+- 858
+: 1042 3 -9 A
+: 1046 3 -6 wai
+: 1050 7 -9 ting 
+: 1058 3 -9 the 
+: 1062 7 -9 hour 
+: 1070 3 -9 of 
+: 1074 3 -9 re
+: 1078 7 -7 pri
+: 1086 8 -10 sal 
+- 1096
+: 1100 8 -9 Your 
+: 1110 13 -6 time 
+: 1124 12 -7 slips 
+: 1142 15 -10 a
+: 1158 14 -9 way 
+- 1174
+* 1804 7 -2 Rai
+* 1812 3 -3 ning 
+* 1816 40 -2 blood 
+- 1858
+: 1868 3 -6 From 
+: 1872 3 -6 a 
+: 1876 3 -6 la
+: 1880 3 -7 ce
+: 1884 1 -7 ra
+: 1886 3 -9 ted 
+: 1890 18 -7 sky 
+- 1910
+: 1920 5 -7 Blee
+: 1926 3 -7 ding 
+: 1930 7 -7 its 
+: 1938 5 -7 hor
+: 1944 14 -9 ror 
+- 1960
+: 1978 5 -6 Crea
+: 1984 5 -7 ting 
+: 1990 6 -7 my 
+: 1998 7 -7 struc
+: 2006 4 -7 ture 
+- 2012
+: 2014 9 -9 Now 
+: 2024 5 -7 I 
+: 2030 5 -7 shall 
+: 2036 5 -9 reign 
+: 2042 6 -5 in 
+* 2052 3 -5 bloo
+* 2056 80 -4 ~d! 
+E

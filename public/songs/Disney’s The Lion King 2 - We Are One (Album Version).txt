@@ -1,0 +1,238 @@
+#ARTIST:Disney’s The Lion King 2
+#TITLE:We Are One (Album Version)
+#MP3:Disney’s The Lion King 2 - We Are One (Album Version).mp3
+#CREATOR:Rudie
+#GENRE:Soundtrack
+#YEAR:1998
+#LANGUAGE:English
+#BPM:328
+#GAP:13000
+#VIDEO:a=6oUoN34Wskg,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/4a/b8/484ab88d-ff92-1804-b601-b07a477d5478/06PNDIM00515.rgb.jpg/5000x5000bb.jpg
+: 0 7 7 As 
+: 8 3 9 you 
+: 12 7 11 go 
+: 20 7 9 through 
+: 28 7 7 life 
+: 36 7 6 you’ll 
+: 44 12 7 see, 
+- 58
+: 64 7 7 There 
+: 72 7 9 is 
+: 80 11 7 so 
+: 92 7 6 much 
+: 100 7 2 that 
+: 108 20 6 we 
+- 130
+: 156 7 2 Don’t 
+: 164 7 4 un
+: 172 3 2 der
+: 176 20 2 stand. 
+- 198
+: 260 7 7 And 
+: 268 7 9 the 
+: 276 7 11 on
+: 284 7 9 ly 
+: 292 7 7 thing 
+: 300 7 6 we 
+: 308 12 7 know 
+- 322
+: 328 7 7 Is 
+: 336 7 9 things 
+: 344 11 7 don’t 
+: 356 7 6 al
+: 364 7 2 ways 
+: 372 20 4 go 
+- 394
+: 416 3 2 The 
+: 420 7 4 way 
+: 428 7 2 we 
+: 436 20 2 planned. 
+- 458
+: 492 7 7 But 
+: 500 7 9 you 
+: 508 15 11 see 
+: 524 3 12 ev
+: 528 11 14 ery 
+: 540 15 12 day 
+- 556
+: 556 7 11 That 
+: 564 7 7 we’ll 
+: 572 7 9 ne
+: 580 3 11 ver 
+: 584 7 9 turn 
+: 592 7 7 a
+: 600 16 4 way 
+- 618
+: 624 7 4 When 
+: 632 3 6 it 
+: 636 15 7 seems 
+: 652 7 7 all 
+: 660 7 7 your 
+: 668 19 7 dreams 
+: 688 3 9 come 
+: 692 11 11 un
+: 704 24 9 done. 
+- 730
+: 752 7 7 We 
+: 760 3 9 will 
+: 764 19 11 stand 
+: 784 7 12 by 
+: 792 7 14 your 
+: 800 15 12 side 
+- 816
+: 816 11 11 Filled 
+: 828 7 7 with 
+: 836 7 9 hope 
+: 844 3 11 and 
+: 848 7 9 filled 
+: 856 7 7 with
+: 864 28 4 pride. 
+- 894
+: 916 7 4 We 
+: 924 7 6 are 
+: 932 19 7 more 
+: 952 3 7 than 
+: 956 11 11 we 
+: 968 15 9 are, 
+- 984
+: 984 3 7 We 
+: 988 11 6 are 
+: 1000 44 7 ONE. 
+- 1046
+: 1344 7 7 If 
+: 1352 3 9 there’s 
+: 1356 7 11 so 
+: 1364 7 9 much 
+: 1372 7 7 I 
+: 1380 7 6 must 
+: 1388 12 7 be 
+- 1402
+: 1408 7 7 Can 
+: 1416 3 9 I 
+: 1420 15 7 still 
+: 1436 11 6 just 
+: 1448 7 2 be 
+: 1456 32 4 me, 
+- 1490
+: 1500 3 2 The 
+: 1504 7 2 way 
+: 1512 7 2 I 
+: 1520 36 2 am? 
+- 1558
+: 1604 7 7 Can 
+: 1612 7 9 I 
+: 1620 7 11 trust 
+: 1628 7 9 in 
+: 1636 7 7 my 
+: 1644 7 6 own 
+: 1652 16 7 heart 
+- 1670
+: 1672 7 7 Or 
+: 1680 7 9 am 
+: 1688 11 7 I 
+: 1700 7 6 just 
+: 1708 7 2 one 
+: 1716 32 4 part 
+- 1750
+: 1764 3 2 Of 
+: 1768 7 2 some 
+: 1776 7 2 big 
+: 1784 40 2 plan? 
+- 1826
+: 1836 7 7 Ev
+: 1844 7 9 en 
+: 1852 19 11 those 
+: 1872 3 12 who 
+: 1876 11 14 are 
+: 1888 15 12 gone 
+- 1904
+: 1904 7 11 Are 
+: 1912 7 7 with 
+: 1920 7 9 us 
+: 1928 3 11 as 
+: 1932 7 9 we 
+: 1940 7 7 go 
+: 1948 24 4 on, 
+- 1974
+: 1976 7 6 Your 
+: 1984 11 7 jour
+: 1996 11 7 ney 
+: 2008 11 7 has 
+: 2020 7 7 on
+: 2028 11 9 ly 
+: 2040 11 11 be
+: 2052 16 9 gun. 
+- 2070
+: 2100 7 7 Tears 
+: 2108 7 9 of 
+: 2116 15 11 pain, 
+: 2132 7 12 tears 
+: 2140 7 14 of 
+: 2148 16 12 joy, 
+- 2166
+: 2168 3 11 One 
+: 2172 7 7 thing 
+: 2180 7 9 no
+: 2188 7 11 thing 
+: 2196 7 9 can 
+: 2204 7 7 de
+: 2212 24 4 stroy, 
+- 2238
+: 2264 3 4 Is 
+: 2268 7 6 our 
+: 2276 19 7 pride, 
+: 2296 3 7 deep 
+: 2300 11 11 in
+: 2312 15 9 side, 
+- 2328
+: 2328 7 7 We 
+: 2336 7 6 are 
+: 2344 48 7 ONE 
+- 2394
+: 2656 11 7 We 
+: 2668 7 9 are 
+: 2676 15 11 one, 
+: 2692 3 12 you 
+: 2696 11 14 and 
+: 2708 15 12 I, 
+- 2724
+: 2724 7 11 We 
+: 2732 7 7 are 
+: 2740 7 9 like 
+: 2748 3 11 the 
+: 2752 7 9 earth 
+: 2760 7 7 and
+: 2768 16 4 sky, 
+- 2786
+: 2796 7 6 One 
+: 2804 35 7 family 
+: 2840 7 7 un
+: 2848 11 9 der 
+: 2860 7 11 the 
+: 2868 28 9 sun. 
+- 2898
+: 2920 7 7 All 
+: 2928 7 9 the 
+: 2936 11 11 wis
+: 2948 7 12 dom 
+: 2956 11 14 to 
+: 2968 19 12 lead, 
+- 2988
+: 2988 7 11 All 
+: 2996 3 7 the
+: 3000 7 9 cou
+: 3008 7 11 rage 
+: 3016 7 9 that 
+: 3024 7 7 you 
+: 3032 24 4 need, 
+- 3058
+: 3080 7 4 You 
+: 3088 11 6 will 
+: 3100 15 7 find 
+: 3116 7 7 when 
+: 3124 7 11 you 
+: 3132 31 9 see 
+: 3164 19 7 we 
+: 3184 11 6 are 
+: 3196 52 7 ONE 
+E

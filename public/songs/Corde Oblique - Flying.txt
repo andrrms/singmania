@@ -1,0 +1,225 @@
+#ARTIST:Corde Oblique
+#TITLE:Flying
+#MP3:Corde Oblique - Flying.mp3
+#CREATOR:Shui
+#YEAR:2009
+#LANGUAGE:English
+#BPM:236.49
+#GAP:21070
+#VIDEO:a=UiuHHQPErjY,co=https://www.progarchives.com/progressive_rock_discography_covers/7004/cover_512542122018_r.jpg
+F 0 2 21 Started 
+F 5 1 21 a 
+F 12 1 21 search 
+F 19 1 21 to 
+F 24 1 21 no 
+F 32 1 21 avail 
+- 35
+F 44 1 21 A 
+F 50 1 21 light 
+F 53 1 21 that 
+F 60 1 21 shines 
+F 65 1 21 behind 
+F 69 1 21 the 
+F 73 1 21 veil 
+- 76
+F 89 1 21 Trying 
+F 92 1 21 to 
+F 98 1 21 find 
+F 102 2 21 it 
+- 106
+F 154 1 21 And 
+F 159 1 21 all 
+F 165 1 21 around 
+F 172 1 21 us 
+F 181 1 21 everywhere 
+- 184
+F 195 1 21 Is 
+F 198 1 21 all 
+F 202 1 21 that 
+F 208 1 21 we 
+F 212 1 21 could 
+F 215 1 21 ever 
+- 218
+F 220 1 21 Share 
+F 238 1 21 if 
+F 243 1 21 only 
+F 246 1 21 we 
+F 250 1 21 could 
+F 253 1 21 see 
+F 256 1 21 it 
+- 259
+* 296 15 24 Feel 
+* 316 13 27 there’s 
+* 335 14 29 truth 
+* 353 9 28 that’s 
+* 370 11 26 beyond 
+* 390 13 26 me 
+- 405
+* 447 11 23 Life 
+* 467 10 23 ever 
+- 479
+* 485 13 22 Changing 
+* 506 10 23 weaving 
+* 520 18 22 destiny 
+- 540
+: 573 3 21 And 
+: 577 3 27 it 
+: 581 5 31 feels 
+: 588 5 30 like 
+: 594 5 30 I’m 
+: 600 28 30 fly
+: 633 13 29 ing 
+: 671 5 28 a
+: 677 28 29 bove 
+: 708 15 28 you 
+- 725
+* 730 1 31 Dream 
+- 733
+: 737 5 31 That 
+: 743 5 30 I’m 
+: 750 33 31 dy
+: 784 24 29 ing 
+: 817 9 29 to 
+: 832 10 28 fi
+: 843 20 28 nd 
+: 864 4 27 the 
+: 869 6 28 truth 
+- 877
+: 882 5 21 Seems 
+: 888 6 27 like 
+: 895 5 31 your 
+: 902 35 30 try
+: 939 12 29 ing 
+: 971 4 28 to 
+: 976 19 28 bring 
+: 1006 4 27 me 
+: 1011 18 27 down 
+- 1031
+: 1034 4 28 Back 
+: 1039 16 27 down 
+: 1069 3 25 to 
+: 1073 19 25 earth 
+: 1109 6 28 back 
+: 1116 16 27 down 
+: 1145 5 25 to 
+: 1151 16 25 earth 
+- 1169
+F 1515 1 21 Layers 
+F 1519 1 21 of 
+F 1526 1 21 dust 
+F 1531 1 21 and 
+F 1538 1 21 yesterdays 
+- 1541
+F 1563 1 21 Shadows 
+F 1572 1 21 fading 
+F 1582 1 21 in 
+F 1585 1 21 the 
+F 1590 1 21 haze 
+F 1601 1 21 of 
+F 1605 1 21 what 
+F 1609 1 21 i 
+F 1613 1 21 couldn’t 
+F 1623 1 21 say 
+- 1626
+F 1667 1 21 And 
+F 1671 1 21 though 
+F 1677 1 21 i 
+F 1681 1 21 said 
+F 1687 1 21 my 
+- 1690
+F 1692 1 21 Hands 
+F 1696 1 21 were 
+F 1699 1 21 tied 
+- 1702
+F 1709 1 21 Times 
+F 1713 1 21 have 
+F 1720 1 21 changed 
+F 1724 1 21 and 
+F 1728 1 21 now 
+F 1734 1 21 i 
+F 1739 1 21 find 
+F 1748 1 21 I’m 
+F 1754 1 21 free 
+F 1758 1 21 for 
+F 1763 1 21 the 
+F 1771 1 21 first 
+- 1774
+F 1782 1 21 Time 
+- 1785
+* 1808 12 28 Feel 
+* 1827 13 29 so 
+* 1846 12 30 close 
+* 1865 9 29 to 
+* 1885 11 28 eve
+* 1903 12 28 ry
+* 1922 12 26 thing 
+* 1942 7 26 now 
+- 1951
+* 1960 12 26 Strange 
+* 1980 13 25 how 
+* 1999 12 23 life 
+* 2018 12 23 makes 
+* 2036 15 24 sense 
+* 2055 8 26 in 
+* 2073 11 26 time 
+- 2086
+: 2092 5 25 Feels 
+: 2099 5 27 like 
+: 2105 5 31 I’m 
+: 2112 38 30 fly
+: 2151 21 30 ing 
+: 2183 4 29 abo
+: 2188 32 28 ve 
+: 2224 9 28 you 
+- 2235
+: 2243 4 31 Dream 
+: 2250 3 31 that 
+: 2256 5 30 I’m 
+: 2263 36 31 dy
+: 2300 19 30 ing 
+: 2335 3 28 to 
+: 2339 25 28 find 
+- 2366
+: 2370 4 27 The 
+: 2376 11 27 truth 
+- 2389
+: 2396 4 30 Seems 
+: 2402 3 30 like 
+: 2407 4 30 your 
+* 2413 9 30 try
+* 2424 6 28 ing 
+* 2431 9 30 try
+* 2442 7 28 ing 
+* 2450 10 30 try
+* 2461 7 28 ing 
+* 2469 10 30 try
+* 2480 5 28 ing 
+: 2486 3 28 to 
+: 2490 18 28 br
+: 2509 12 27 ing 
+: 2522 5 26 me 
+: 2528 10 26 down 
+- 2540
+: 2546 4 28 Back 
+: 2552 24 27 down 
+: 2583 3 25 to 
+: 2587 21 25 earth 
+: 2621 8 28 back 
+- 2630
+: 2630 22 27 Down 
+: 2657 3 25 to 
+: 2661 19 25 earth 
+- 2682
+: 2697 5 28 Back 
+: 2703 23 27 down 
+: 2732 4 28 to 
+* 2737 4 32 ea
+* 2742 15 33 rth 
+: 2773 5 28 back 
+: 2779 17 27 down 
+: 2809 3 25 to 
+: 2813 17 25 earth 
+- 2832
+* 2849 4 28 Back 
+* 2856 5 27 down 
+E

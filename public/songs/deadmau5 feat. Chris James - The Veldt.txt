@@ -1,0 +1,242 @@
+#ARTIST:deadmau5 feat. Chris James
+#TITLE:The Veldt
+#MP3:deadmau5 feat. Chris James - The Veldt.mp3
+#CREATOR:GaryCXJk
+#COVER:deadmau5 feat. Chris James - The Veldt [CO].jpg
+#BACKGROUND:deadmau5 feat. Chris James - The Veldt [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:384
+#GAP:16700
+#VIDEO:v=_esYONwdKuw,co=the-veldt-5ce43681ad87d.jpg,bg=deadmau5-501ce7ee191d2.jpg
+: 0 3 8 Hap
+: 6 4 8 py 
+: 12 7 9 life 
+: 36 3 9 with 
+: 42 3 11 the 
+: 48 2 9 ma
+: 54 11 11 chines 
+- 67
+: 83 6 14 Scat
+: 90 5 14 tered 
+: 96 5 14 a
+: 102 10 13 round 
+: 113 5 9 the 
+: 120 6 11 room 
+- 128
+: 186 3 8 Look 
+: 192 3 8 what 
+: 198 3 8 they 
+: 204 13 9 made, 
+: 222 3 8 they 
+: 228 5 9 made 
+: 234 3 11 it 
+: 240 2 9 for 
+: 246 6 8 me 
+- 254
+: 276 3 14 Hap
+: 282 3 14 py 
+: 288 2 14 tech
+: 294 3 11 no
+: 298 7 13 ~
+: 306 3 9 lo
+: 312 7 11 gy 
+- 321
+: 384 6 11 Out
+: 396 9 11 side
+: 406 3 9 ~ 
+: 414 3 9 the 
+: 420 5 11 li
+: 426 7 11 ons 
+: 438 11 11 roam 
+- 451
+: 468 5 14 Fee
+: 474 6 14 ding 
+: 486 3 11 on
+: 490 7 13 ~ 
+* 498 3 9 re
+* 504 5 11 mains
+* 510 9 13 ~ 
+- 521
+: 570 4 8 We’ll 
+: 576 5 8 ne
+: 582 5 8 ver 
+: 588 11 9 leave, 
+: 612 4 9 look 
+: 618 4 11 at 
+: 623 2 9 us, 
+: 630 6 8 now 
+- 638
+: 648 5 9 So 
+: 654 5 9 in 
+: 660 3 13 love 
+: 666 4 14 with 
+: 672 4 14 the 
+: 678 4 11 way
+: 683 5 13 ~ 
+: 690 4 9 we 
+: 696 12 6 are 
+- 710
+* 750 11 11 Here
+* 762 16 13 ~ 
+- 780
+: 870 3 8 The 
+: 876 9 9 world 
+: 888 3 9 that 
+: 894 2 6 the 
+: 900 4 9 child
+: 907 6 11 ren 
+: 918 14 13 made 
+- 934
+: 1062 3 6 The 
+: 1068 9 9 world 
+: 1080 3 9 that 
+: 1086 2 6 the 
+: 1092 4 9 child
+: 1099 7 11 ren 
+: 1110 10 9 made 
+- 1122
+: 1152 5 8 Eve
+: 1158 4 8 ry 
+: 1164 7 9 night, 
+: 1182 3 9 they 
+: 1188 3 9 rock 
+: 1194 2 11 us 
+: 1200 2 9 to 
+: 1206 6 11 sleep 
+- 1214
+: 1236 5 14 Di
+: 1242 5 14 gi
+: 1248 3 14 tal 
+* 1254 10 13 fa
+* 1265 5 9 mi
+* 1272 3 11 ly
+* 1276 9 13 ~ 
+- 1287
+: 1344 5 8 Is 
+: 1351 2 8 it 
+: 1356 12 9 real 
+: 1374 3 8 or 
+: 1380 5 9 is 
+: 1387 4 11 it 
+: 1392 2 9 a 
+: 1398 8 8 dream? 
+- 1408
+: 1428 5 14 Can 
+: 1434 5 14 you 
+: 1440 5 14 be
+: 1446 3 11 lieve
+: 1450 7 13 ~ 
+: 1458 3 11 in 
+: 1464 2 9 ma
+: 1470 6 6 chines? 
+- 1478
+: 1536 6 11 Out
+: 1548 9 11 side
+: 1558 3 9 ~ 
+F 1566 3 9 the 
+: 1572 5 11 bea
+: 1578 7 11 ting 
+: 1590 7 11 sun 
+- 1599
+: 1620 5 14 Can 
+: 1626 6 14 you 
+: 1638 3 11 hear
+: 1642 6 13 ~ 
+: 1650 1 9 the 
+: 1656 4 11 screams?
+: 1661 10 13 ~ 
+- 1673
+: 1722 4 8 We’ll 
+: 1728 5 8 ne
+: 1734 5 8 ver 
+: 1740 11 9 leave, 
+: 1764 4 9 look 
+: 1770 4 11 at 
+: 1775 2 9 us, 
+: 1782 6 8 now 
+- 1790
+: 1800 5 9 So 
+: 1806 5 9 in 
+: 1812 3 13 love 
+: 1818 4 14 with 
+: 1824 4 14 the 
+: 1830 4 11 way
+: 1835 5 13 ~ 
+: 1842 4 9 we 
+: 1848 12 6 are 
+- 1862
+* 1902 11 11 Here
+* 1914 16 13 ~ 
+- 1932
+: 2022 3 8 The 
+: 2028 9 9 world 
+: 2040 3 9 that 
+: 2046 2 6 the 
+: 2052 4 9 child
+: 2059 6 11 ren 
+: 2070 14 13 made 
+- 2086
+: 2214 3 6 The 
+: 2220 9 9 world 
+: 2232 3 9 that 
+: 2238 2 6 the 
+: 2244 4 9 child
+: 2251 7 11 ren 
+: 2262 10 9 made 
+- 2274
+: 2286 11 11 Here
+: 2298 16 13 ~ 
+- 2316
+: 2406 3 8 The 
+: 2412 9 9 world 
+: 2424 3 9 that 
+: 2430 2 6 the 
+: 2436 4 9 child
+: 2443 6 11 ren 
+: 2454 14 13 made 
+- 2470
+: 2478 11 11 Here
+: 2490 16 13 ~ 
+- 2508
+: 2598 3 6 The 
+: 2604 9 9 world 
+: 2616 3 9 that 
+: 2622 2 6 the 
+: 2628 4 9 child
+: 2635 7 11 ren 
+: 2646 10 9 made 
+- 2658
+* 3054 11 11 Here
+* 3066 16 13 ~ 
+- 3084
+: 3174 3 8 The 
+: 3180 9 9 world 
+: 3192 3 9 that 
+: 3198 2 6 the 
+: 3204 4 9 child
+: 3211 6 11 ren 
+: 3222 14 13 made 
+- 3238
+: 3438 11 11 Here
+: 3450 16 13 ~ 
+- 3468
+: 3558 3 8 The 
+: 3564 9 9 world 
+: 3576 3 9 that 
+: 3582 2 6 the 
+: 3588 4 9 child
+: 3595 6 11 ren 
+: 3606 14 13 made 
+- 3622
+: 3630 11 11 Here
+: 3642 16 13 ~ 
+- 3660
+: 3750 3 6 The 
+: 3756 9 9 world 
+: 3768 3 9 that 
+: 3774 2 6 the 
+: 3780 4 9 child
+: 3787 7 11 ren 
+: 3798 10 9 made 
+E

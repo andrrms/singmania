@@ -1,0 +1,126 @@
+#ARTIST:Blind Guardian
+#TITLE:Black Chamber
+#MP3:Blind Guardian - Black Chamber.mp3
+#CREATOR:Canni
+#GENRE:Rock
+#YEAR:1992
+#LANGUAGE:English
+#BPM:240
+#GAP:1000
+#VIDEO:a=ovDKK4LfRHk,co=somewhere-far-beyond-54e366aca7e7b.jpg,bg=blind-guardian-4ff4e8368a21d.jpg
+: 0 3 3 I 
+: 4 3 3 am 
+: 8 9 3 lost 
+: 18 3 6 in 
+: 22 5 6 the 
+: 28 9 6 black 
+: 38 3 5 cham
+: 42 9 5 ber. 
+- 53
+: 58 3 -2 There’s 
+: 62 3 -2 no 
+: 68 9 3 way 
+: 78 9 5 to 
+: 88 9 6 turn 
+: 98 3 5 i
+: 102 3 3 ~t 
+: 106 23 2 black. 
+- 131
+: 148 29 3 There’s 
+: 178 9 3 still 
+: 188 17 1 light! 
+- 207
+: 220 3 3 In 
+: 224 3 1 a 
+: 228 19 3 diffe
+: 248 15 -2 re
+: 264 3 0 ~nt 
+: 268 27 1 world. 
+- 297
+: 302 5 1 It 
+: 308 9 -1 takes 
+: 318 9 -1 me 
+: 328 15 -1 down 
+: 344 3 3 for
+: 348 5 3 e
+: 354 3 1 ver
+: 358 17 1 more, 
+- 377
+: 382 5 -2 And 
+: 388 9 -1 death 
+: 398 9 -1 could 
+: 408 13 -1 be 
+: 422 5 1 so 
+: 428 25 -2 sweet. 
+- 455
+: 464 3 -4 A 
+: 468 9 -1 dan
+: 478 9 -1 cing 
+: 488 9 -1 gnome 
+: 498 3 1 in 
+: 502 5 -1 an 
+: 508 3 -2 emp
+: 512 5 3 ty 
+: 518 17 3 room. 
+- 537
+: 542 3 -2 A 
+: 546 11 -1 cruel 
+: 558 9 -1 and 
+: 568 9 -1 pain
+: 578 9 1 ful 
+: 588 19 -2 game. 
+- 609
+: 630 9 4 I’m 
+: 640 9 4 po
+: 650 9 4 sessed 
+: 660 9 4 by 
+: 670 9 4 the 
+: 680 9 4 old 
+: 690 9 4 crea
+: 700 9 4 ture. 
+- 710
+: 710 7 -4 Who 
+: 718 9 -2 had 
+: 728 9 -1 planned 
+: 738 9 3 to 
+: 748 9 -1 take 
+: 758 7 -2 my 
+: 766 11 -4 sou
+: 778 31 -5 ~l. 
+- 811
+: 822 5 -1 Too 
+: 828 3 -1 late 
+: 832 5 -4 for 
+: 838 17 -4 me! 
+- 857
+: 864 3 -1 In 
+: 868 5 -1 my 
+: 874 3 -4 hands 
+: 878 3 -9 it 
+: 882 9 -6 lies 
+: 892 5 -4 I 
+: 898 19 -6 thought. 
+- 919
+: 924 5 -4 But 
+: 930 7 -1 I 
+: 938 9 -4 failed 
+: 948 9 -4 now 
+: 958 9 -1 he’s 
+: 968 9 -2 in 
+: 978 15 -6 me. 
+- 995
+: 1002 3 -2 My 
+: 1006 5 1 soul 
+: 1012 5 2 is 
+: 1018 7 4 lost 
+: 1026 9 4 in 
+: 1036 9 4 his 
+: 1046 9 4 black 
+: 1056 5 2 cha
+: 1062 5 1 ~m
+: 1068 11 -1 ber. 
+- 1081
+: 1088 5 -11 I
+: 1094 5 -9 ~’m 
+: 1100 39 -6 gone 
+E

@@ -1,0 +1,132 @@
+#ARTIST:Pixies
+#TITLE:There Goes My Gun
+#MP3:Pixies - There Goes My Gun.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2008 Vol. 2
+#GENRE:Alternative Rock
+#YEAR:1989
+#LANGUAGE:English
+#BPM:399
+#GAP:17440
+#VIDEO:a=uKBJQ7gPM8k,co=doolittle-5fc02a64dc7f9.jpg,bg=pixies-4e3a8a6c4bcc2.jpg
+F 0 11 12 Yoo 
+F 13 26 12 hoo 
+- 41
+F 153 12 12 Yoo 
+F 168 20 12 hoo 
+- 190
+F 228 11 12 Yoo 
+F 241 22 12 hoo 
+- 265
+: 292 6 16 There 
+: 300 7 12 goes 
+: 314 3 12 my
+: 318 4 13 ~ 
+: 326 5 13 gun
+: 332 11 11 ~ 
+- 345
+: 393 6 16 There 
+: 401 7 12 goes 
+: 413 2 12 my
+: 416 5 13 ~ 
+: 425 21 13 gun
+: 447 8 11 ~ 
+- 457
+* 470 6 16 There 
+: 478 7 11 goes 
+: 491 4 11 my
+: 496 6 13 ~ 
+: 504 7 13 gun
+: 512 13 11 ~ 
+- 527
+: 571 6 16 There 
+: 580 7 11 goes 
+* 592 2 11 my
+: 595 5 13 ~ 
+: 604 5 13 gun
+: 610 10 11 ~ 
+- 622
+F 658 5 12 Look 
+F 666 3 12 at 
+F 671 26 12 me 
+- 699
+F 811 4 12 Look 
+F 818 3 12 at 
+F 823 21 12 me 
+- 846
+F 886 4 12 Look 
+F 894 3 12 at 
+F 899 21 12 me 
+- 922
+: 950 6 16 There 
+: 958 7 11 goes 
+: 971 3 11 my
+: 975 5 13 ~ 
+: 984 6 13 gun
+: 991 13 11 ~ 
+- 1006
+: 1051 6 16 There 
+: 1060 6 11 goes 
+: 1071 3 11 my
+: 1075 6 13 ~ 
+: 1084 17 13 gun
+: 1102 14 11 ~ 
+- 1118
+: 1127 6 16 There 
+: 1135 7 12 goes 
+* 1148 3 12 my
+* 1152 5 13 ~ 
+: 1160 6 13 gun
+: 1167 12 11 ~ 
+- 1181
+: 1228 6 16 There 
+* 1237 8 12 goes 
+: 1250 3 12 my
+* 1254 5 13 ~ 
+: 1262 6 13 gun
+* 1269 11 11 ~ 
+- 1282
+F 1315 5 12 Friend 
+F 1323 2 12 or 
+F 1331 23 12 foe 
+- 1356
+F 1392 6 12 Friend 
+F 1400 3 12 or 
+F 1406 20 12 foe 
+- 1428
+F 1467 4 12 Friend 
+F 1474 2 12 or 
+F 1480 16 12 foe 
+- 1498
+F 1545 4 12 Friend 
+F 1552 3 12 or 
+F 1558 15 12 foe 
+- 1575
+: 1910 6 16 There 
+: 1918 7 11 goes 
+: 1931 1 11 my
+: 1933 5 13 ~ 
+: 1941 7 13 gun
+: 1949 17 11 ~ 
+- 1968
+: 2012 6 16 There 
+: 2020 7 11 goes 
+: 2032 2 11 my
+: 2035 5 13 ~ 
+: 2043 18 13 gun
+: 2062 12 11 ~ 
+- 2076
+: 2088 6 16 There 
+: 2096 7 11 goes 
+: 2109 3 11 my
+: 2113 5 13 ~ 
+: 2121 8 13 gun
+: 2130 11 11 ~ 
+- 2143
+: 2188 6 16 There 
+: 2197 7 11 goes 
+: 2210 3 11 my
+: 2214 5 13 ~ 
+: 2222 6 13 gun
+: 2229 11 11 ~ 
+E

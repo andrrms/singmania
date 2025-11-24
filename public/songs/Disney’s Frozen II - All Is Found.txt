@@ -1,0 +1,166 @@
+#ARTIST:Disney’s Frozen II
+#TITLE:All Is Found
+#MP3:Disney’s Frozen II - All Is Found.mp3
+#CREATOR:nymanjens
+#GENRE:Soundtrack
+#YEAR:2019
+#LANGUAGE:English
+#BPM:398.67
+#GAP:25600
+#VIDEO:v=dpza2z4jmDk,co=https://m.media-amazon.com/images/I/71JTMU6synL.jpg,bg=https://4kwallpapers.com/images/wallpapers/frozen-2-anna-elsa-enchanted-forest-5k-8k-3840x2160-566.jpg
+: 0 9 0 Where 
+: 16 4 2 the 
+: 23 4 4 north 
+: 34 19 -3 wind 
+- 55
+: 79 12 0 Meets 
+: 94 13 -3 the 
+: 116 34 2 sea 
+- 152
+: 168 11 2 There’s 
+: 183 2 7 a 
+: 187 9 9 ri
+: 198 36 0 ver 
+- 236
+: 253 9 7 Full 
+: 266 3 5 of 
+: 274 5 4 me
+: 282 3 2 mo
+: 288 32 4 ry 
+- 322
+: 337 11 5 Sleep, 
+: 354 2 4 my 
+: 360 9 2 dar
+: 371 5 -3 ling, 
+: 381 7 -3 safe 
+: 394 5 -1 and 
+: 404 34 0 sound 
+- 440
+: 465 3 0 For 
+: 470 9 0 in 
+: 481 6 0 this 
+: 491 5 -1 ri
+: 498 5 -5 ver 
+: 512 8 -5 all 
+: 527 13 -3 is 
+* 541 66 -3 found 
+- 609
+: 671 12 0 In 
+: 687 3 2 her 
+: 692 9 4 wa
+: 703 41 -3 ters, 
+- 746
+: 751 6 0 Deep 
+: 762 11 -3 and 
+: 778 39 2 true 
+- 819
+: 830 14 2 Lay 
+: 847 2 7 the 
+: 854 12 9 an
+: 869 27 0 swers 
+- 898
+: 913 9 7 And 
+: 923 3 5 a 
+: 933 7 4 path 
+: 943 3 2 for 
+: 950 32 4 you 
+- 984
+: 989 8 5 Dive 
+: 1000 6 4 down 
+: 1010 7 2 deep 
+: 1021 5 -3 in
+: 1030 6 -3 to 
+: 1041 5 -1 her 
+* 1050 48 0 sound 
+- 1100
+: 1107 4 0 But 
+: 1112 6 0 not 
+: 1121 4 0 too 
+: 1130 15 -1 far 
+: 1151 3 -5 or 
+: 1160 11 -5 you’ll 
+: 1173 10 -3 be 
+* 1188 60 -3 drowned 
+- 1250
+: 1306 17 7 Yes, 
+: 1328 29 9 she 
+: 1360 4 11 will 
+: 1369 14 12 sing 
+: 1385 2 11 to 
+: 1389 7 9 those 
+: 1401 20 7 who’ll 
+: 1422 12 7 hea
+: 1438 3 5 ~
+: 1442 15 4 r 
+- 1459
+: 1465 5 5 And 
+: 1471 3 5 in 
+: 1479 5 4 her 
+: 1489 38 2 song, 
+- 1529
+: 1540 8 -3 All 
+: 1550 5 -3 ma
+: 1560 3 0 gic 
+: 1571 22 2 flo
+: 1595 3 0 ~
+: 1600 2 2 ~
+: 1605 2 4 ~
+: 1610 15 5 ws 
+- 1627
+: 1640 3 7 But 
+: 1651 22 9 can 
+: 1675 7 11 you 
+: 1687 14 12 brave 
+: 1704 2 11 what 
+: 1712 7 9 you 
+: 1723 15 7 most 
+: 1742 6 4 fea
+: 1750 2 2 ~
+: 1753 11 4 r? 
+- 1766
+: 1790 7 5 Can 
+: 1800 5 4 you 
+: 1810 29 2 face 
+: 1859 3 -3 what 
+: 1865 2 -3 the 
+: 1871 2 -3 ri
+: 1882 14 -1 ver 
+: 1901 110 0 knows? 
+- 2013
+* 2034 9 1 Where 
+* 2046 3 3 the 
+* 2051 10 5 north 
+* 2069 36 -2 wind 
+- 2107
+* 2110 10 1 Meets 
+* 2124 6 -2 the 
+* 2145 43 3 sea 
+- 2190
+: 2197 13 3 There’s 
+: 2212 3 8 a 
+: 2217 9 10 mo
+: 2230 51 1 ther
+: 2283 10 8 full 
+: 2295 13 6 of 
+: 2313 5 5 me
+: 2320 3 3 mo
+: 2326 32 5 ry 
+- 2360
+: 2370 9 6 Come, 
+: 2381 4 5 my 
+: 2389 8 3 dar
+: 2399 7 -2 ling, 
+: 2410 9 -2 home
+: 2423 12 0 ward 
+: 2443 42 1 bound 
+- 2487
+: 2495 4 1 When 
+: 2502 5 1 all 
+: 2513 2 1 is 
+: 2521 14 0 lost, 
+- 2537
+: 2585 8 -4 Then 
+* 2594 14 -4 all 
+* 2610 19 -2 is 
+* 2641 68 -2 found 
+E

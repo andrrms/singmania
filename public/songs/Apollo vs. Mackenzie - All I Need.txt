@@ -1,0 +1,232 @@
+#ARTIST:Apollo vs. Mackenzie
+#TITLE:All I Need
+#MP3:Apollo vs. Mackenzie - All I Need.mp3
+#CREATOR:taite83
+#GENRE:Electronic
+#YEAR:2006
+#LANGUAGE:English
+#BPM:284
+#GAP:3750
+#VIDEO:v=fwxegVWPlFY,co=https://media.hitparade.ch/cover/800/apollo_vs_mackenzie-all_i_need_s.jpg
+F 0 2 0 Come 
+F 3 1 0 in
+F 5 2 0 to 
+F 8 2 0 my 
+F 11 5 0 life 
+- 18
+F 95 4 -1 You 
+F 111 4 -1 are 
+F 128 3 -1 all 
+F 133 3 -1 I 
+F 139 7 -1 need 
+- 148
+: 200 3 -2 You’re 
+: 204 3 3 all 
+: 212 4 2 I 
+: 220 7 3 need 
+- 229
+: 264 3 -2 The 
+: 268 4 3 air 
+: 276 4 2 I 
+: 284 7 3 breathe 
+- 293
+: 328 3 -2 You’re 
+: 332 3 3 all 
+: 340 4 2 I 
+: 348 7 3 need 
+- 357
+: 391 3 -2 The 
+: 395 4 3 air 
+: 403 4 2 I 
+: 411 7 3 breathe 
+- 420
+: 456 3 -2 You’re 
+: 460 3 3 all 
+: 468 4 2 I 
+: 476 7 3 need 
+- 485
+: 519 3 -2 The 
+: 523 4 3 air 
+: 531 4 2 I 
+: 539 7 3 breathe 
+- 548
+: 584 3 -2 You’re 
+: 588 4 3 all 
+: 596 4 2 I 
+: 604 7 3 need 
+- 613
+: 648 3 -2 The 
+: 652 4 3 air 
+: 660 4 2 I 
+: 668 7 3 breathe 
+- 677
+: 680 9 7 All 
+: 692 4 8 I 
+: 699 7 7 need 
+- 708
+: 711 2 5 I 
+: 715 2 3 can 
+: 719 5 5 feel 
+: 727 5 7 your 
+: 735 6 3 love 
+- 743
+: 783 5 5 Feel 
+: 791 5 7 your 
+: 799 6 3 love 
+- 807
+: 847 5 5 Feel 
+: 855 5 7 your 
+: 863 6 3 love 
+- 871
+: 911 5 5 Feel 
+: 919 5 7 your 
+: 927 6 3 love 
+- 935
+: 967 2 5 I 
+: 971 2 3 can 
+: 975 5 5 feel 
+: 983 5 7 your 
+: 991 6 3 love 
+- 999
+F 1275 3 0 You’re 
+F 1279 3 0 all 
+F 1283 3 0 I 
+F 1288 9 0 need 
+- 1299
+F 1339 3 0 The 
+F 1343 3 0 air 
+F 1347 3 0 I 
+F 1352 9 0 breathe 
+- 1363
+F 1407 2 0 Come 
+F 1410 2 0 in
+F 1413 2 0 to 
+F 1416 3 0 my 
+F 1420 9 0 life 
+- 1431
+F 1463 3 0 ’Cause 
+F 1467 3 0 you’re 
+F 1471 3 0 all 
+F 1475 3 0 I 
+F 1480 9 0 need 
+- 1491
+F 1788 3 1 You’re 
+F 1792 3 1 all 
+F 1796 3 1 I 
+F 1800 9 1 need 
+- 1811
+F 1851 3 1 The 
+F 1855 3 1 air 
+F 1859 3 1 I 
+F 1864 9 1 breathe 
+- 1875
+F 1919 2 1 Come 
+F 1922 2 1 in
+F 1925 2 1 to 
+F 1928 3 1 my 
+F 1932 9 1 life 
+- 1943
+F 1976 3 1 ’Cause 
+F 1980 3 1 you’re 
+F 1984 3 1 all 
+F 1988 3 1 I 
+F 1992 9 1 need 
+- 2003
+* 2824 2 7 I 
+* 2828 6 15 feel 
+* 2836 5 15 your 
+* 2843 7 15 love 
+- 2852
+: 2959 6 15 Feel 
+: 2967 6 15 your 
+: 2975 7 14 love 
+- 2984
+: 3079 2 7 I 
+: 3083 6 15 feel 
+: 3091 6 15 your 
+: 3099 7 15 love 
+- 3108
+: 3143 2 7 I 
+: 3147 6 15 feel 
+: 3155 6 15 your 
+: 3163 7 15 love 
+- 3172
+: 3211 6 15 Feel 
+: 3219 6 15 your 
+: 3227 7 14 love 
+- 3236
+: 3275 6 15 Feel 
+: 3283 6 15 your 
+: 3291 7 14 love 
+- 3300
+: 3331 2 15 I 
+: 3334 2 15 can 
+: 3339 6 15 feel 
+: 3347 6 17 your 
+: 3355 7 15 love 
+- 3364
+: 3395 2 15 I 
+: 3398 2 15 can 
+: 3403 6 15 feel 
+: 3411 6 17 your 
+: 3419 7 15 love 
+- 3428
+: 3459 2 19 I 
+: 3462 2 19 can 
+: 3467 6 17 feel 
+: 3475 6 15 your 
+: 3483 7 14 love 
+- 3492
+: 3531 6 15 Feel 
+: 3538 6 15 your 
+: 3547 7 14 love 
+- 3556
+: 3595 6 7 All 
+: 3603 6 7 I 
+: 3611 6 15 need
+: 3618 4 15 ~ 
+- 3624
+: 3651 3 7 Is 
+: 3655 3 7 the 
+: 3659 6 7 air 
+: 3668 4 7 I 
+: 3675 6 15 breathe
+: 3682 4 15 ~ 
+- 3688
+: 3719 3 15 You’re 
+: 3723 6 14 all 
+: 3731 6 15 I 
+: 3739 6 14 need 
+- 3747
+: 3783 3 15 The 
+: 3787 6 15 air 
+: 3795 6 15 I 
+: 3803 6 14 breathe 
+- 3811
+: 3847 3 7 Ooh 
+: 3851 6 15 up 
+: 3859 6 15 bop 
+: 3867 6 15 bop 
+- 3875
+: 3907 3 15 I 
+: 3911 3 15 can 
+: 3915 6 15 feel 
+: 3923 5 17 your 
+: 3931 7 15 love 
+- 3940
+: 3971 3 19 I 
+: 3975 3 19 can 
+: 3979 6 17 feel 
+: 3987 5 15 your 
+: 3995 7 14 love 
+- 4004
+: 4043 6 15 Feel 
+: 4051 5 15 your 
+: 4059 7 14 love 
+- 4068
+: 4103 6 15 Feel
+: 4110 6 14 ~ 
+: 4119 6 7 your 
+* 4127 6 8 love
+* 4134 4 7 ~ 
+E

@@ -1,0 +1,572 @@
+#ARTIST:The Simpsons
+#TITLE:Steamed Hams
+#MP3:The Simpsons - Steamed Hams.mp3
+#CREATOR:lily
+#COVER:The Simpsons - Steamed Hams [CO].jpg
+#BACKGROUND:The Simpsons - Steamed Hams [BG].jpg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:400
+#GAP:3790
+#VIDEO:v=4jXEuIHY9ic,co=https://i.ebayimg.com/images/g/vncAAOSwdv5lecLy/s-l1200.jpg
+R 0 6 -10 Well,
+R 9 3 -8  Sey
+R 13 4 -6 mour,
+R 19 4 -10  I
+R 25 3 -8  made
+R 29 5 -6  it,
+R 43 2 -15  de
+R 49 4 -7 spite
+R 57 2 -17  your
+R 61 2 -21  di
+R 64 3 -24 rec
+R 70 6 -18 tions.
+- 79
+R 81 11 -8 Ah,
+R 95 2 -13  Su
+R 98 1 -12 per
+R 100 2 -14 in
+R 102 2 -10 ten
+R 105 2 -10 dent
+R 109 3 -5  Chal
+R 113 3 -15 mers,
+R 119 3 -7  wel
+R 123 2 -11 come!
+- 134
+R 138 2 -27 I
+R 141 2 -23  hope
+R 146 2 -20  you're
+R 151 2 -19  pre
+R 154 5 -16 pared
+R 162 2 -16  for
+R 164 2 -16  an
+R 167 3 -15  un
+R 173 2 -14 for
+R 176 2 -12 get
+R 178 2 -11 ta
+R 180 2 -8 ble
+R 183 3 -5  lun
+R 188 3 -10 cheon!
+- 199
+R 202 11 -7 Eh...
+- 239
+R 294 13 5 (gasp)
+- 317
+R 340 3 -1 Oh,
+R 345 3 -3  ye
+R 352 9 1  gods!
+- 372
+R 376 3 -7 My
+R 381 2 -10  roast
+R 387 2 -3  is
+R 394 4 2  ru
+R 400 4 -5 ined!
+- 430
+R 460 3 -27 But
+R 471 3 -10  what
+R 475 4 -18  if...
+R 508 2 -19  I
+R 512 2 -20  were
+R 515 2 -22  to
+R 521 4 -15  pur
+R 527 3 -20 chase
+R 537 6 -12  fast
+R 547 4 -25  food
+- 553
+R 555 2 -21 and
+R 559 3 -22  dis
+R 566 4 -16 guise
+R 571 2 -18  it
+R 574 2 -19  as
+R 579 2 -20  my
+R 582 5 -16  own
+R 591 4 -9  cook
+R 596 4 -19 ing?
+- 610
+R 623 3 -11 Ho
+R 630 3 -12 -ho
+R 637 3 -14 -ho
+R 644 3 -13 -ho
+R 650 3 -15 -ho!
+- 662
+R 666 3 -21 De
+R 673 3 -20 light
+R 681 2 -21 ful
+R 684 2 -21 ly
+R 692 2 -16  de
+R 695 3 -15 vil
+R 699 3 -19 ish,
+R 708 3 -19  Sey
+R 713 6 -17 mour.
+- 745
+R 779 4 -3 Uh--
+- 809
+* 863 6 2 Skin
+* 871 6 5 ~
+* 880 10 7 ner,
+: 893 3 5  with
+: 898 2 2  his
+: 902 6 3  cra
+: 910 2 2 zy
+: 913 3 3  ex
+: 919 2 2 pla
+: 922 5 3 na
+: 928 4 5 tions
+- 937
+: 939 2 1 The
+: 942 4 2  su
+: 948 2 5 per
+: 952 3 7 in
+: 958 7 10 ten
+: 967 3 7 dent's
+: 973 4 5  gon
+: 979 2 2 na
+: 983 4 1  need
+: 989 2 -2  his
+: 993 4 0  me
+: 999 2 -2 di
+: 1003 4 2 ca
+: 1009 5 5 tion
+- 1018
+: 1020 2 1 When
+: 1024 7 2  he
+: 1033 5 5  hears
+: 1043 5 7  Skin
+: 1050 5 10 ner's
+: 1059 7 13  lame
+: 1068 2 10  ex
+: 1072 5 12 ag
+: 1079 2 10 ger
+: 1082 4 13 a
+: 1088 1 10 tions
+- 1090
+: 1092 4 9 There'll
+: 1098 2 7  be
+: 1103 4 5  trou
+: 1109 2 2 ble
+: 1113 3 3  in
+: 1119 9 5  town
+: 1133 3 7  to
+: 1139 6 10 night!
+- 1155
+G 1162 16 5 SEEEEEY
+G 1180 31 4 MOOUUURRR!!!
+- 1217
+R 1219 3 -1 Su
+R 1223 2 -2 per
+R 1225 1 -3 in
+R 1227 3 0 ten
+R 1231 4 -2 dent!
+R 1236 3 -9  I
+R 1240 2 -9  was
+R 1245 4 -8  just...
+R 1260 5 -15  uh...
+- 1271
+R 1274 2 -7 just
+R 1277 3 -15  stretch
+R 1281 2 -13 ing
+R 1284 3 -10  my
+R 1289 6 -7  calves
+R 1298 2 -15  on
+R 1300 2 -14  the
+R 1303 2 -9  win
+R 1306 2 -12 dow
+R 1310 3 -17 sill.
+- 1319
+R 1321 3 -15 I
+R 1327 2 -15 so
+R 1330 2 -12 me
+R 1334 2 -15 tric
+R 1337 2 -11  ex
+R 1341 2 -15 er
+R 1344 5 -19 cise.
+R 1357 2 -21  Care
+R 1360 2 -24  to
+R 1363 3 -19  join
+R 1368 2 -11  me?
+- 1379
+R 1383 4 -8 Why
+R 1388 2 -14  is
+R 1393 3 -18  there
+R 1400 4 -16  smoke
+R 1407 2 -15  co
+R 1410 2 -18 ming
+R 1413 2 -19  out
+R 1415 2 -20  of
+R 1418 3 -21  your
+R 1422 2 -21  o
+R 1425 2 -22 ven,
+R 1431 2 -22  Sey
+R 1435 5 -19 mour?
+- 1448
+R 1451 8 -22 Uh...
+R 1470 8 -9  ooh!
+R 1482 2 -10  That
+R 1485 2 -15  is
+R 1488 2 -18 n't
+R 1493 3 -7  smoke,
+R 1504 3 -17  it's
+G 1514 8 -9  steam!
+- 1528
+R 1531 6 -10 Steam
+R 1541 2 -13  from
+R 1544 2 -11  the
+G 1551 7 -9  steamed
+G 1563 9 -7  clams
+R 1576 2 -15  we're
+R 1580 2 -15  ha
+R 1584 4 -24 ving.
+- 1592
+R 1594 20 -2 Mmmm,
+R 1620 4 -16  steamed
+R 1627 7 -4  clams!
+- 1660
+R 1689 10 1 Phew!
+- 1725
+R 1802 2 -14 Su
+R 1806 2 -16 per
+R 1808 1 -17 in
+R 1811 2 -11 ten
+R 1813 3 -8 dent,
+R 1817 2 -16  I
+R 1820 2 -16  hope
+R 1823 2 -18  you're
+R 1827 2 -12  rea
+R 1830 2 -13 dy
+R 1834 3 -18  for
+- 1839
+R 1841 4 -8 mouth
+R 1849 2 -9 wa
+R 1852 2 -9 ter
+R 1855 2 -8 ing
+R 1859 5 -6  ham
+R 1865 3 -12 bur
+R 1870 3 -11 gers!
+- 1882
+R 1886 7 -15 I
+R 1896 2 -14  thought
+R 1899 2 -15  we
+R 1902 2 -17  were
+R 1906 2 -14  ha
+R 1910 3 -16 ving
+R 1920 8 -13  steamed
+R 1934 10 -12  clams.
+- 1952
+R 1955 8 2 Oh
+R 1967 9 -4  no,
+R 1979 4 -12  I
+R 1986 3 -19  said
+G 1995 5 -15  'steamed
+G 2005 11 -4  hams'!
+- 2024
+R 2027 3 -7 That's
+R 2033 2 -15  what
+R 2037 3 -11  I
+R 2042 4 -15  call
+R 2048 3 -10  ham
+R 2053 2 -13 bur
+R 2057 3 -21 gers.
+- 2069
+R 2072 4 -12 You
+R 2078 4 -12  call
+R 2086 4 -9  ham
+R 2092 3 -9 bur
+R 2097 4 -10 gers
+R 2106 7 -11  'steamed
+R 2117 6 -13  hams'?
+- 2133
+R 2137 8 5 Yes!
+R 2157 2 -15  It's
+R 2161 4 -2  a
+R 2167 2 0  re
+R 2171 2 -10 gion
+R 2174 2 -15 al
+R 2177 2 -15  di
+R 2181 2 -21 a
+R 2184 4 -25 lect.
+- 2196
+R 2199 3 -20 Uh
+R 2204 5 -19 -huh.
+R 2219 4 -15  Eh,
+R 2225 3 -13  what
+R 2231 4 -14  re
+R 2237 4 -24 gion?
+- 2247
+R 2250 4 -19 U
+R 2255 8 -22 u...
+R 2265 2 -21 up
+R 2270 3 -19 state
+R 2275 2 -17  New
+R 2279 5 -10  York?
+- 2294
+R 2298 4 -12 Real
+R 2304 5 -19 ly?
+R 2328 2 -11  Well,
+R 2331 4 -8  I'm
+R 2337 3 -11  from
+R 2342 3 -5  U
+R 2346 2 -11 ti
+R 2350 1 -13 ca
+- 2351
+R 2353 2 -11 and
+R 2357 2 -9  I've
+R 2361 2 -10  ne
+R 2364 2 -15 ver
+R 2367 2 -14  heard
+R 2370 2 -16  a
+R 2373 2 -17 ny
+R 2376 2 -18 one
+R 2380 3 -22  use
+R 2384 2 -23  the
+R 2389 7 -16  phrase
+R 2401 6 -17  'steamed
+R 2410 7 -19  hams'.
+- 2426
+R 2430 5 -5 Oh,
+R 2437 2 -14  not
+R 2441 2 -19  in
+R 2445 2 -7  U
+R 2448 2 -15 ti
+R 2452 2 -22 ca,
+R 2456 3 -12  no.
+- 2461
+R 2463 2 -22 It's
+R 2466 2 -19  an
+R 2469 3 -7  Al
+R 2474 2 -19 ba
+R 2476 2 -24 ny
+R 2479 2 -24  ex
+R 2484 2 -24 pres
+R 2488 3 -24 sion.
+- 2497
+R 2500 7 -19 I
+R 2509 3 -24  see.
+- 2538
+R 2580 1 -7 You
+R 2582 2 -4  know,
+R 2585 2 -5  these
+R 2590 2 -3  ham
+R 2595 2 -5 bur
+R 2598 2 -9 gers
+R 2601 2 -10  are
+R 2606 3 -7  quite
+- 2612
+R 2614 2 -15 si
+R 2617 2 -17 mi
+R 2620 1 -16 lar
+R 2623 2 -14  to
+R 2626 2 -14  the
+R 2629 4 -13  ones
+R 2636 2 -13  they
+R 2639 3 -14  have
+R 2643 2 -16  at
+R 2649 3 -10  Krus
+R 2656 2 -19 ty
+R 2660 3 -23  Bur
+R 2664 1 -24 ger.
+- 2667
+R 2669 3 -1 Oh
+R 2675 2 -4 -ho
+R 2681 2 -6 -ho
+R 2687 4 -9 -ho,
+R 2697 10 -10  no!
+R 2719 3 -19  Pa
+R 2724 2 -18 ten
+R 2728 2 -15 ted
+R 2735 2 -8  Skin
+R 2738 2 -7 ner
+R 2742 2 -9  Bur
+R 2745 4 -11 gers!
+- 2756
+R 2759 13 -6 Old
+R 2778 2 -9  fa
+R 2781 2 -8 mi
+R 2784 2 -7 ly
+R 2787 2 -8  re
+R 2791 2 -11 ci
+R 2794 3 -17 pe.
+- 2807
+R 2822 11 -12 For
+R 2836 5 -13  steamed
+R 2847 6 -17  hams?
+- 2863
+R 2880 7 -1 Yes.
+- 2893
+R 2895 5 -25 Yes,
+R 2904 2 -17  and
+R 2907 2 -17  you
+R 2911 3 -2  call
+R 2916 2 -7  them
+R 2922 4 -12  steamed
+R 2929 5 -19  hams,
+- 2937
+R 2939 2 -19 de
+R 2944 2 -11 spite
+R 2949 2 -15  the
+R 2953 4 -19  fact
+F 2961 2 -22  that
+R 2963 2 -19  they
+R 2966 2 -22  are
+R 2969 3 -10  ob
+R 2975 2 -19 vi
+R 2978 2 -16 ous
+R 2983 2 -15 ly
+R 2987 6 -18  grilled.
+- 3003
+R 3040 2 -15 Y-
+R 3044 3 -15  Uh...
+R 3070 2 -15  you
+R 3072 4 -8  know,
+R 3078 2 -12  the...
+- 3090
+R 3132 5 -5 One
+R 3141 2 -10  thing
+R 3145 2 -13  I
+F 3150 3 -16  sh...
+- 3163
+F 3191 2 -15 Ex
+R 3194 3 -13 cuse
+R 3199 1 -22  me
+R 3202 1 -23  for
+R 3205 2 -23  one
+R 3210 2 -23  se
+R 3213 2 -25 cond.
+- 3220
+R 3222 3 -22 Of
+R 3228 7 -25  course.
+- 3245
+R 3283 26 2 (yawn)
+R 3312 3 -2  Well
+R 3316 2 -4 ~,
+R 3319 2 -1  that
+R 3323 2 -7  was
+R 3327 2 -6  won
+R 3330 2 -9 der
+R 3334 3 -12 ful.
+- 3347
+R 3351 2 -15 Good
+R 3355 4 -11  time
+R 3360 2 -13  was
+R 3363 3 -10  had
+R 3368 3 -10  by
+R 3372 4 -8  all.
+R 3379 4 -6  I'm
+R 3385 4 -7  pooped.
+- 3399
+R 3414 7 -5 Yes,
+R 3426 8 -10  I
+R 3438 2 -13  should
+R 3442 1 -10  be-
+- 3445
+G 3447 5 7 GOOD
+G 3458 7 5  LORD,
+R 3469 2 -7  WHAT
+R 3472 2 -10  IS
+R 3478 3 1  HAP
+R 3483 2 1 PEN
+R 3485 2 1 ING
+R 3489 2 1  IN
+R 3493 6 -5  THERE?!
+- 3508
+R 3511 2 -13 Au
+R 3514 3 -11 ro
+R 3518 2 -12 ra
+R 3522 2 -14  Bo
+R 3525 2 -15 re
+R 3528 2 -15 al
+R 3531 2 -9 is?
+- 3545
+R 3549 3 -3 Au-
+G 3571 5 -3  AU
+G 3578 2 3 RO
+G 3582 2 5 RA
+G 3588 3 4  BO
+G 3593 3 4 RE
+G 3597 3 0 AL
+G 3602 3 -7 IS?
+- 3615
+R 3624 2 -3 AT
+R 3630 4 4  THIS
+R 3638 4 0  TIME
+R 3644 2 1  OF
+R 3648 5 -2  YEAR,
+R 3657 2 -7  AT
+R 3662 3 2  THIS
+R 3668 3 0  TIME
+R 3673 2 -2  OF
+R 3680 2 -3  DAY
+R 3683 6 -6 ~,
+- 3693
+R 3695 2 -9 IN
+R 3699 2 1  THIS
+R 3706 3 -4  PART
+R 3710 2 -3  OF
+R 3713 2 -2  THE
+R 3718 2 -5  COUN
+R 3725 3 -8 TRY,
+- 3734
+R 3736 3 5 LO
+R 3743 2 -7 CAL
+R 3746 6 -9 IZED
+R 3757 2 -9  EN
+R 3765 3 5 TI
+R 3770 2 -11 RE
+R 3774 3 -10 LY
+R 3779 2 -9  WI
+R 3782 2 -9 THIN
+R 3786 4 -11  YOUR
+R 3797 2 -15  KIT
+R 3802 3 -19 CHEN?!
+- 3814
+R 3817 6 4 Yes!
+- 3833
+R 3862 2 -19 ...May
+R 3865 3 -19  I
+R 3871 2 -16  see
+R 3874 4 4  it?
+- 3888
+R 3924 4 -12 ...No.
+- 3938
+R 3955 4 11 SEY
+R 3961 6 8 MOUR!
+R 3978 2 9  THE
+R 3982 4 12  HOUSE
+R 3989 2 11  IS
+R 3994 3 10  ON
+R 4002 5 10  FI
+R 4010 7 10 RE!
+- 4026
+R 4029 7 -4 No,
+R 4039 2 -8  mo
+R 4043 4 -8 ther,
+R 4048 2 -9  it's
+R 4053 3 -11  just
+R 4058 2 -12  the
+R 4061 3 -14  Nor
+R 4065 3 -13 thern
+R 4071 4 -17  Lights.
+- 4085
+R 4089 5 -4 Well,
+R 4098 3 -7  Sey
+R 4103 4 -4 mour,
+R 4110 2 -9  you
+R 4113 2 -10  are
+R 4117 3 -11  an
+R 4123 4 -3  odd
+R 4132 2 -10  fel
+R 4136 3 -6 low,
+- 4144
+R 4146 2 -15 but
+R 4149 2 -15  I
+R 4153 4 -12  must
+R 4160 8 -4  say...
+R 4182 3 -19  you
+R 4189 2 -15  steam
+R 4192 2 -14  a
+R 4196 2 -11  good
+R 4201 7 -22  ham.
+- 4234
+R 4306 26 10 HELP!!!
+- 4341
+R 4344 32 16 HEEEELP!!!
+E

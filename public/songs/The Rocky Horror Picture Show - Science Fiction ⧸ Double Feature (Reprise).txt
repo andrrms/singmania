@@ -1,0 +1,99 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Science Fiction ⧸ Double Feature (Reprise)
+#MP3:The Rocky Horror Picture Show - Science Fiction ⧸ Double Feature (Reprise).mp3
+#CREATOR:DoubleDee
+#COVER:The Rocky Horror Picture Show - Science Fiction ⧸ Double Feature (Reprise) [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - Science Fiction ⧸ Double Feature (Reprise) [BG].jpg
+#GENRE:Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:347
+#GAP:8120
+#VIDEO:a=IjdhjX6lgbY,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=the-rocky-horror-picture-show-54414d5bd38e9.jpg,tags=Musical
+: 0 16 3 Sci
+: 17 11 5 ence 
+: 35 3 2 Fic
+: 44 40 0 tion 
+- 107
+: 137 8 2 Dou
+: 146 14 2 ble 
+: 163 14 0 Fea
+: 181 8 0 ture
+: 190 37 2 ~ 
+- 237
+: 273 16 3 Frank 
+: 290 5 3 ha
+: 296 5 5 ~s 
+: 308 3 2 buil
+: 312 4 0 ~t 
+: 318 46 0 and 
+- 374
+: 408 5 2 Los
+: 414 5 -2 ~t 
+: 426 3 -2 his 
+: 435 13 0 crea
+: 451 4 0 ture
+: 456 38 2 ~ 
+- 504
+: 526 12 3 Dark
+: 544 15 3 ness 
+: 561 3 3 ha
+: 565 6 5 ~s 
+: 577 3 2 con
+: 581 4 0 ~
+: 588 35 0 quered 
+- 646
+: 676 8 2 Bra
+: 685 8 -2 ~d 
+: 694 6 -2 and 
+: 702 16 0 Ja
+: 720 43 2 net 
+- 773
+: 792 8 3 The 
+: 804 21 3 ser
+: 826 12 5 vants 
+: 844 7 2 gone
+: 852 17 0 ~ 
+: 870 28 0 to 
+- 908
+: 934 5 2 A 
+: 942 4 2 dis
+: 952 16 -2 tant 
+: 975 10 0 pla
+: 986 15 2 net 
+- 1006
+: 1008 9 -2 Oh
+: 1019 9 0 ~ 
+: 1032 7 2 oh 
+: 1041 22 0 oh
+: 1064 3 2 ~
+: 1068 3 0 ~
+: 1072 63 -2 ~, 
+- 1145
+: 1159 3 -2 At 
+: 1166 3 -2 the 
+: 1170 8 -2 late 
+: 1182 21 -2 night 
+- 1213
+: 1223 4 -2 Dou
+: 1229 3 -2 ble 
+: 1236 3 -2 fea
+: 1240 5 0 ~
+: 1248 18 0 ture 
+: 1289 5 2 pic
+: 1297 5 2 ture 
+: 1306 26 -2 show. 
+- 1343
+: 1347 4 0 I 
+: 1352 11 -2 want 
+: 1364 6 -3 to 
+: 1371 2 -2 go
+: 1374 1 -3 ~
+: 1376 31 -5 ~, 
+- 1416
+: 1420 5 2 Oh 
+: 1437 22 0 oh 
+* 1461 2 2 oh
+* 1464 3 0 ~
+* 1468 68 -2 ~ 
+E

@@ -1,0 +1,86 @@
+#ARTIST:American Dad
+#TITLE:Theme
+#MP3:American Dad - Theme.mp3
+#CREATOR:DS
+#GENRE:TV
+#YEAR:2005
+#LANGUAGE:English
+#BPM:297.16
+#GAP:83750
+#VIDEO:v=wO9JLcQvGj0,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/9c/c1/d99cc1fa-7100-39a1-419d-ecd02dd76d77/20UMGIM19737.rgb.jpg/5000x5000bb.jpg,bg=american-dad-50a7a9e41e247.jpg
+#START:81.0
+#END:110500
+: 0 3 5 Good 
+: 4 7 2 mor
+: 12 4 5 ning 
+* 20 3 7 U
+* 24 6 9 S
+* 32 21 10 A, 
+- 53
+: 54 3 5 I’ve 
+: 58 3 10 got 
+: 62 3 12 a 
+: 66 3 14 feel
+: 70 3 12 ing 
+: 74 3 10 that 
+- 77
+: 78 2 9 It’s 
+: 82 3 12 gon
+: 86 3 10 na 
+: 90 3 9 be 
+: 94 3 7 a 
+: 98 5 10 won
+: 104 1 9 der
+: 106 3 7 ful 
+: 110 8 5 day. 
+- 124
+: 126 2 5 The 
+: 130 3 3 sun 
+: 134 3 5 in 
+: 138 2 7 the 
+: 142 7 9 sky 
+- 149
+: 150 6 9 Has 
+: 158 3 5 a 
+: 162 3 2 smile 
+: 166 3 5 on 
+: 170 3 9 his 
+: 174 4 10 face 
+- 182
+: 184 3 10 And 
+: 188 3 9 he’s 
+: 192 3 7 shin
+: 196 3 6 ing 
+: 200 3 7 a 
+: 204 3 9 sa
+: 208 3 10 lute 
+- 211
+* 212 3 14 To 
+: 216 3 12 the 
+: 220 3 10 a
+: 224 3 9 me
+: 228 3 10 ri
+: 232 3 11 can 
+* 236 16 12 race. 
+- 271
+: 312 7 5 Oh 
+: 320 7 14 boy, 
+: 328 6 14 it’s 
+: 336 7 13 swell 
+: 344 6 14 to 
+* 352 20 15 say: 
+- 374
+: 376 7 7 “Good 
+: 384 7 12 mor
+: 392 5 12 ning 
+: 398 3 14 U
+: 402 11 14 S
+* 414 20 10 A” 
+- 453
+: 474 3 7 Good 
+: 478 7 12 mor
+: 486 7 12 ning 
+* 494 3 14 U
+* 498 10 14 S
+* 510 8 17 A! 
+E

@@ -1,0 +1,261 @@
+#ARTIST:Ignite
+#TITLE:A Place Called Home
+#MP3:Ignite - A Place Called Home.mp3
+#CREATOR:rootsrocker
+#YEAR:2000
+#LANGUAGE:English
+#BPM:270.92
+#GAP:28250
+#VIDEO:a=qL-tZs3Op1k,co=a-place-called-home-5e846eaae2bfb.jpg,bg=ignite-615f38bdb533e.jpg
+: 0 14 10 Standin’ 
+: 16 14 14 outside 
+- 31
+: 32 10 17 Lookin’ 
+: 44 14 12 over 
+- 59
+* 60 2 10 A 
+* 64 9 9 PLACE 
+* 75 2 20 CALLED 
+* 79 5 13 HOME 
+- 85
+: 86 4 12 I 
+: 93 12 11 couldn’t 
+: 107 10 19 stay 
+- 119
+: 126 4 10 Leaves 
+: 132 5 13 have 
+: 140 15 13 fallen 
+- 157
+: 158 3 17 Wind 
+: 163 5 14 keeps 
+: 171 15 13 blowin’ 
+- 188
+: 189 14 9 Colder 
+: 205 14 9 winter’s 
+: 222 3 17 on 
+: 226 5 10 it’s 
+: 234 7 20 way 
+- 243
+: 250 2 20 MY 
+: 255 3 10 BAGS 
+: 260 6 17 ARE 
+: 269 4 17 PACKED 
+- 274
+: 275 6 17 THE 
+: 286 7 15 CAR 
+: 298 2 15 IS 
+: 303 10 12 WAITIN’ 
+- 314
+: 315 2 15 MY 
+: 319 10 18 GREATEST 
+: 331 5 16 FEAR 
+- 338
+: 339 6 16 YOU 
+: 347 5 20 LEFT 
+: 355 19 11 ALONE 
+- 376
+* 384 5 20 ONCE 
+* 392 14 20 AGAIN 
+* 408 6 14 MY 
+* 416 3 17 LIFE 
+* 422 5 16 SWEET 
+* 430 13 12 DARLING 
+- 444
+: 445 2 11 I’VE 
+: 449 7 20 MADE 
+: 461 2 16 MY 
+: 466 3 13 BED 
+- 470
+: 470 4 12 IT’S 
+: 479 3 17 TIME 
+: 484 3 10 TO 
+: 492 9 16 ROAM 
+- 503
+* 513 8 17 LONG 
+* 525 2 17 LIVE 
+* 530 13 11 FREEDOM 
+- 544
+: 545 10 12 WHERE 
+: 557 2 16 I 
+: 562 4 12 COME 
+: 568 5 14 FROM 
+- 575
+* 577 10 17 PLACE 
+* 590 3 17 THAT 
+* 595 2 18 I 
+* 599 9 11 CALL 
+* 610 13 11 HOME 
+- 625
+: 641 14 16 STANDIN’ 
+: 657 13 17 OUTSIDE 
+- 671
+: 672 13 12 SAYIN’ 
+: 688 13 16 GOODBYE 
+- 703
+: 704 1 16 IT 
+: 707 7 17 TEARS 
+: 717 3 17 ME 
+: 722 3 17 UP 
+: 727 7 12 TO 
+: 737 12 11 GO 
+- 751
+: 771 13 11 Thousand 
+: 786 8 15 miles 
+: 796 12 17 oceans 
+: 810 11 9 between 
+: 823 5 11 us 
+- 829
+* 830 3 11 I 
+* 836 10 9 THINK 
+* 848 5 20 ABOUT 
+* 855 9 10 HER 
+* 867 20 20 EVERYDAY 
+- 889
+: 895 2 13 This 
+: 900 4 16 plane 
+: 905 4 20 rides 
+: 911 5 14 long 
+- 918
+: 919 8 17 These 
+: 930 3 15 wheels 
+: 936 4 14 keep 
+: 942 13 20 rollin’ 
+- 956
+: 957 3 11 I 
+: 962 8 10 call 
+: 972 3 10 to 
+: 978 3 13 see 
+: 983 7 11 if 
+: 992 4 11 she’s 
+: 999 15 20 OK 
+- 1016
+: 1022 1 20 It’s 
+: 1026 3 15 dark 
+: 1031 6 17 and 
+: 1040 15 16 lonely 
+: 1057 8 11 all 
+: 1068 3 11 by 
+: 1074 11 12 herself 
+- 1086
+: 1087 2 16 It 
+: 1091 3 19 tears 
+: 1096 4 18 me 
+: 1103 4 17 up 
+: 1109 5 14 to 
+: 1117 6 13 walk 
+: 1126 17 11 away 
+- 1145
+* 1153 6 20 THIS 
+* 1162 5 14 TIME 
+* 1170 5 14 MY 
+* 1177 5 16 SWEET 
+* 1185 11 14 NAGYI 
+* 1199 14 12 DARLING 
+- 1214
+: 1215 2 9 I 
+: 1219 6 9 PRAY 
+: 1229 3 11 I’LL 
+: 1234 3 13 SEE 
+: 1239 6 9 YOU 
+: 1249 5 11 ONCE 
+: 1256 14 20 AGAIN 
+- 1272
+* 1283 9 17 LONG 
+* 1295 2 18 LIVE 
+* 1299 13 11 FREEDOM 
+- 1313
+: 1314 9 12 WHERE 
+: 1326 3 12 I 
+: 1331 5 14 COME 
+: 1339 5 16 FROM 
+- 1345
+* 1346 10 17 PLACE 
+* 1359 3 18 THAT 
+* 1364 2 17 I 
+* 1368 8 11 CALL 
+* 1379 11 11 HOME 
+- 1392
+: 1409 14 17 STANDIN’ 
+: 1426 14 12 OUTSIDE 
+- 1441
+: 1442 13 11 SAYIN’ 
+: 1457 13 16 GOODBYE 
+- 1471
+: 1472 1 16 IT 
+: 1476 8 17 TEARS 
+: 1486 3 17 ME 
+: 1491 2 16 UP 
+: 1495 7 11 TO 
+: 1505 14 11 GO 
+- 1521
+* 2313 9 17 LONG 
+* 2324 2 19 LIVE 
+* 2329 12 11 FREEDOM 
+- 2342
+: 2343 10 11 WHERE 
+: 2355 3 13 I 
+: 2360 4 14 COME 
+: 2368 6 16 FROM 
+- 2375
+* 2376 9 17 PLACE 
+* 2388 3 18 THAT 
+* 2393 2 17 I 
+* 2397 10 11 CALL 
+* 2409 9 11 HOME 
+- 2420
+: 2439 14 17 STANDIN’ 
+: 2455 14 11 OUTSIDE 
+- 2471
+: 2472 13 11 SAYIN’ 
+: 2487 12 16 GOODBYE 
+- 2500
+: 2501 2 17 IT 
+: 2505 7 17 TEARS 
+: 2515 3 18 ME 
+: 2520 3 16 UP 
+: 2525 7 11 TO 
+: 2535 12 11 GO 
+- 2549
+: 2557 5 16 BECAUSE 
+: 2565 2 19 I 
+: 2569 5 19 FEEL 
+: 2576 5 18 SO 
+: 2584 5 16 SCARED 
+- 2590
+: 2591 3 14 WHEN 
+: 2596 2 9 YOU’RE 
+: 2601 3 14 ALL 
+: 2605 10 11 ALONE 
+- 2617
+: 2628 1 17 THIS 
+: 2632 5 17 PLANE 
+: 2640 5 17 RIDES 
+: 2648 5 16 LONG 
+- 2655
+: 2656 2 14 AND 
+: 2660 2 12 I 
+: 2664 2 15 MISS 
+: 2669 2 11 MY 
+: 2673 7 12 HOME 
+- 2682
+: 2693 1 20 I 
+: 2697 5 18 FEEL 
+: 2705 5 18 SO 
+: 2712 6 14 SCARED 
+- 2719
+: 2720 2 14 WHEN 
+: 2725 2 12 YOU’RE 
+: 2729 3 15 ALL 
+: 2734 9 11 ALONE 
+- 2745
+: 2758 2 20 THESE 
+: 2763 5 18 WHEELS 
+: 2770 5 17 KEEP 
+: 2777 14 15 ROLLIN’ 
+: 2793 2 16 ON 
+: 2798 1 13 AND 
+: 2801 5 12 ON 
+: 2809 5 19 OH! 
+: 2817 5 18 OH! 
+: 2826 51 18 OH! 
+E

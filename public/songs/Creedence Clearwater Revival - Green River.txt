@@ -1,0 +1,227 @@
+#ARTIST:Creedence Clearwater Revival
+#TITLE:Green River
+#MP3:Creedence Clearwater Revival - Green River.mp3
+#CREATOR:mustangfred
+#EDITION:Rock Band Store 2010 Vol. 3
+#GENRE:Southern Rock
+#YEAR:1969
+#LANGUAGE:English
+#BPM:391.1
+#GAP:12460
+#VIDEO:v=L5V9nK7-OkM,co=green-river-5d3fb85badcec.jpg,bg=creedence-clearwater-revival-6416bef9ab71a.jpg
+: 0 6 2 We
+: 7 30 4 ~ll 
+- 39
+: 45 3 2 Take 
+: 50 4 4 me 
+: 56 5 4 back 
+: 67 11 4 down 
+: 79 3 2 where 
+- 84
+* 86 3 7 Coo
+* 90 5 2 ~l 
+: 96 4 4 wa
+: 101 2 4 ter 
+: 107 2 2 flo
+: 110 5 4 ~ws 
+: 117 6 4 y’a
+: 124 3 -3 ~ll 
+- 129
+: 218 3 -1 Le
+: 222 4 2 ~t 
+: 228 4 4 me 
+: 233 4 2 re
+: 239 9 4 mem
+: 251 5 4 ber 
+* 261 3 2 thi
+* 265 5 4 ~ngs 
+: 273 4 2 I
+: 278 3 4 ~ 
+: 284 9 2 love 
+: 294 8 -5 Lord 
+- 304
+: 399 5 2 Stop
+: 405 5 4 pin’ 
+: 411 4 4 at 
+: 417 3 2 the 
+: 421 11 4 log 
+: 434 3 2 where 
+* 440 4 8 ca
+* 445 2 4 ~t
+: 451 5 4 fish 
+: 461 2 2 bi
+: 464 4 4 ~te 
+- 470
+: 489 5 2 Wal
+: 496 4 4 kin’ 
+: 501 3 2 a
+: 505 11 4 long 
+: 518 2 2 the 
+: 522 4 7 ri
+: 527 5 4 ver 
+: 533 10 4 road 
+: 545 3 4 at 
+: 550 6 -1 night 
+- 558
+: 578 5 2 Bare
+: 585 6 4 foot 
+: 596 9 4 girls 
+- 607
+: 619 5 7 Da
+: 625 2 2 ~n
+: 629 3 2 cin’ 
+: 634 4 2 in 
+: 640 3 2 the 
+: 644 10 2 moon
+: 656 6 2 li
+: 663 6 4 ~ght 
+- 671
+: 755 6 2 I 
+: 763 3 4 can 
+: 767 5 4 hear 
+: 774 3 2 the 
+: 778 8 4 bull
+: 789 9 4 frog 
+* 801 5 7 cal
+* 807 7 4 lin’ 
+: 817 4 2 me
+: 822 5 4 ~ 
+: 829 6 4 ho
+: 836 2 -1 ~me 
+- 840
+: 934 5 2 Won
+: 940 4 4 der 
+: 945 4 4 if 
+: 951 3 2 my 
+: 955 6 4 rope’s 
+- 963
+: 968 3 2 Sti
+: 972 5 4 ~ll 
+: 979 3 2 ha
+: 983 2 4 ~n
+* 986 3 4 gin’ 
+: 991 4 4 to 
+: 996 2 4 the 
+: 1001 6 1 tree 
+F 1012 5 1 ho 
+- 1019
+: 1111 5 2 Love 
+: 1117 2 4 to 
+: 1123 3 4 kick 
+: 1129 2 2 my 
+: 1134 7 4 feet 
+- 1143
+: 1145 2 2 Way 
+* 1151 5 8 do
+* 1157 4 4 ~wn 
+: 1162 2 4 the 
+: 1167 5 4 shal
+: 1173 3 4 low 
+: 1178 6 2 wa
+: 1185 3 4 ter 
+- 1190
+: 1200 3 2 Shoo
+: 1207 5 4 fly 
+: 1218 9 4 dra
+: 1229 2 2 gon
+: 1234 5 4 fly 
+: 1241 2 7 ge
+: 1244 2 2 ~t 
+: 1252 5 2 back 
+: 1263 2 2 you 
+: 1267 5 2 mo
+: 1273 5 4 ther 
+- 1280
+: 1289 3 2 Pick 
+: 1295 4 4 up 
+: 1301 2 2 a 
+* 1307 6 4 flat 
+: 1318 6 4 rock 
+- 1326
+* 1333 3 7 Ski
+: 1337 2 2 ~p 
+: 1340 5 2 it 
+: 1346 2 2 a
+: 1351 5 2 cross 
+: 1362 11 2 Gree
+: 1374 2 -1 ~n 
+: 1379 4 2 Ri
+: 1385 5 -1 ver 
+- 1392
+: 1468 5 2 We
+: 1474 34 4 ~ll 
+- 1510
+: 2084 3 -1 U
+: 2088 3 2 ~p 
+: 2093 2 4 at 
+: 2098 4 4 Co
+: 2104 2 2 dy’s 
+: 2109 9 4 camp 
+: 2120 2 2 I 
+- 2124
+: 2128 3 7 Spe
+: 2132 3 4 ~nt 
+: 2137 7 4 my 
+: 2148 4 2 day
+: 2153 14 4 ~s 
+F 2170 5 -3 Lord 
+- 2177
+: 2259 2 -1 With 
+: 2264 4 2 flat
+: 2271 9 4 car 
+: 2282 10 4 ri
+: 2293 3 4 ders 
+: 2298 3 2 and 
+: 2304 4 4 cross-
+* 2315 8 4 tie 
+: 2325 5 2 wa
+: 2331 3 -1 ~l
+: 2337 5 -4 kers 
+- 2344
+: 2436 6 2 Old 
+: 2447 10 4 Co
+: 2458 2 2 dy 
+: 2463 9 4 Jun
+: 2473 2 1 ior 
+- 2477
+* 2480 3 8 Too
+* 2484 2 4 ~k 
+: 2491 10 4 me 
+: 2502 10 2 o
+: 2513 4 4 ver 
+- 2519
+: 2530 4 2 Said 
+: 2536 4 4 you 
+: 2541 5 4 gon
+: 2547 2 2 na 
+: 2552 9 4 find 
+: 2563 3 2 the 
+* 2569 6 7 wo
+: 2576 3 2 ~rld 
+: 2581 3 2 be 
+: 2591 9 2 smol
+: 2601 4 4 derin’ 
+- 2607
+: 2614 3 -3 And 
+: 2619 4 2 if 
+: 2624 4 4 you 
+: 2630 3 4 get 
+: 2635 4 2 lo
+: 2640 6 4 ~
+: 2647 2 -1 ~st 
+- 2651
+* 2662 4 7 Come 
+: 2668 9 2 on 
+: 2680 8 2 home 
+: 2690 3 2 to 
+: 2695 9 2 Green 
+: 2705 6 2 Ri
+: 2712 4 -1 ver 
+- 2718
+: 2794 6 2 We
+: 2801 29 4 ~ll 
+- 2832
+F 3109 3 2 Come 
+F 3113 6 2 on 
+F 3120 7 2 home 
+E

@@ -1,0 +1,468 @@
+#ARTIST:From Fall To Spring
+#TITLE:Take The Pain Away
+#MP3:From Fall To Spring - Take The Pain Away.mp3
+#CREATOR:Alpha0ne
+#COVER:From Fall To Spring - Take The Pain Away [CO].jpg
+#BACKGROUND:From Fall To Spring - Take The Pain Away [BG].jpg
+#YEAR:2025
+#LANGUAGE:English
+#BPM:217.1
+#GAP:5390
+#VIDEO:v=KZQcD8ZDySE,co=take-the-pain-away-68f88c144e6eb.jpg
+: 0 3 2 Still 
+: 4 4 2 lost 
+: 9 2 4 in 
+: 11 2 4 the 
+: 15 4 2 cha
+: 19 4 2 os 
+- 31
+: 34 1 4 I'm 
+: 36 5 2 caught 
+: 43 1 2 up 
+: 46 1 2 in 
+: 48 2 2 my 
+: 51 4 3 nev
+: 55 5 3 er
+: 60 3 3 end
+: 63 3 2 ing 
+- 72
+: 74 3 2 Mind 
+: 77 4 2 games 
+: 83 1 2 turn
+: 84 2 2 in' 
+: 87 3 4 fa
+: 90 8 2 tal 
+- 104
+: 107 1 4 I 
+: 109 2 2 sound 
+: 112 2 2 in
+: 114 4 2 sane, 
+: 119 1 2 but 
+: 121 1 2 I'm 
+: 123 3 4 still 
+: 128 4 4 de
+: 132 4 4 fend
+: 136 7 7 ing 
+- 149
+: 151 4 4 What 
+: 156 2 4 is 
+: 160 4 4 left 
+: 165 3 2 of 
+: 169 5 2 my
+: 174 9 2 self 
+- 185
+: 187 4 4 Let 
+: 192 4 4 me 
+: 197 4 4 out 
+: 202 3 2 of 
+: 206 4 7 this 
+: 211 2 7 hell 
+- 214
+: 216 3 4 Lost 
+: 220 1 2 in 
+: 222 1 2 my 
+: 224 4 2 head, 
+: 233 3 2 thoughts 
+: 238 1 2 I 
+: 240 1 2 re
+: 241 6 2 gret 
+- 249
+: 251 2 4 Sick 
+: 253 1 2 of 
+: 256 1 2 be
+: 257 1 2 ing 
+: 259 1 3 a
+: 260 5 3 lone 
+: 266 1 2 and 
+: 268 1 2 de
+: 269 3 2 tach
+: 272 5 2 ed 
+- 278
+: 280 2 2 Won't 
+: 283 3 4 you 
+: 287 6 9 save 
+: 295 6 2 me? 
+- 303
+: 305 5 9 Face 
+: 311 6 2 down 
+: 318 1 4 on 
+: 320 1 7 the 
+: 324 5 9 pave
+: 329 11 2 ment 
+- 341
+: 343 4 9 Take 
+: 348 1 9 the 
+: 352 4 9 pain 
+: 357 3 2 a
+: 360 10 7 way 
+- 371
+: 373 2 2 and 
+: 378 6 2 Turn 
+: 385 3 2 it 
+: 389 2 2 in
+: 391 3 4 to 
+: 395 7 4 some
+* 402 7 7 thing 
+* 412 19 7 else 
+- 432
+: 434 8 2 Break 
+: 443 7 2 me 
+: 452 5 9 Go 
+: 457 3 4 a
+: 460 4 7 head, 
+: 465 5 4 un
+: 470 7 9 chain 
+: 479 5 2 me 
+- 485
+: 487 5 9 Take 
+: 493 2 9 the 
+: 496 7 9 pain 
+: 504 2 9 a
+: 506 7 9 way 
+: 514 4 2 Caught 
+: 518 3 2 in 
+: 522 4 4 a 
+: 526 3 4 ti
+: 529 6 4 dal
+: 535 9 4 wave 
+- 545
+: 547 3 4 Hold 
+: 550 2 2 your 
+: 552 4 4 breath 
+: 556 3 4 'til 
+: 559 2 4 the 
+: 561 3 5 world 
+: 564 6 5 stops 
+: 570 5 2 shak
+: 575 6 2 ing 
+- 595
+: 621 3 4 Hold 
+: 624 2 2 your 
+: 626 4 4 breath 
+: 630 2 4 'til 
+: 632 2 4 the 
+: 634 5 5 world 
+: 639 4 5 stops 
+: 643 6 2 shak
+: 649 5 2 ing 
+- 682
+: 729 2 5 I 
+: 731 2 7 al
+: 733 2 7 most 
+: 735 2 7 feel 
+: 737 2 7 like 
+: 739 1 7 I
+: 740 2 7 ´m 
+: 742 2 7 locked 
+: 744 2 7 ins
+: 746 1 8 ide 
+- 747
+: 749 2 7 of 
+: 751 2 7 my 
+: 754 3 6 head 
+: 758 2 5 I 
+: 760 3 7 don't 
+: 763 2 6 un
+: 765 1 6 der
+: 766 3 6 stand 
+- 770
+: 772 2 7 why 
+: 775 2 7 I'm 
+: 777 2 6 al
+: 779 2 9 ways 
+: 781 2 8 stuck 
+: 784 2 7 in 
+: 786 2 6 the 
+: 788 9 6 past 
+- 799
+: 801 2 7 The 
+: 803 3 7 more 
+: 806 2 6 I 
+: 808 5 9 push, 
+: 813 1 7 the 
+: 814 4 7 more 
+: 818 2 6 it's 
+: 820 3 9 pull
+: 823 1 6 ing 
+: 824 3 6 me 
+: 827 1 9 back 
+- 829
+: 831 2 6 The 
+: 833 4 6 mem
+: 837 1 6 o
+: 838 3 6 ries 
+: 841 4 9 last, 
+: 845 2 6 no 
+: 847 3 6 mat
+: 850 2 9 ter 
+: 852 2 4 how 
+: 854 1 6 deep 
+- 855
+: 856 2 6 they're 
+: 858 3 6 sup 
+: 861 12 6 pressed 
+- 881
+: 884 3 4 What 
+: 888 2 4 is 
+: 891 4 7 left 
+: 896 4 7 of 
+: 901 3 7 my
+: 904 10 7 self 
+- 916
+: 918 4 4 Let 
+: 922 6 4 me 
+: 928 4 6 out 
+: 933 4 6 of 
+: 937 4 9 this 
+: 941 3 9 hell 
+- 945
+: 947 3 2 Lost 
+: 950 2 2 in 
+: 952 2 2 my 
+: 954 5 2 head, 
+: 962 6 2 thoughts 
+: 969 2 2 I 
+: 971 2 2 re
+: 973 4 2 gret 
+- 979
+: 981 3 4 Sick 
+: 984 1 6 of 
+: 986 2 2 be 
+: 988 3 1 ing 
+: 992 1 2 a
+: 993 3 2 lone 
+: 996 2 1 and 
+: 998 2 2 de
+: 1000 4 2 tach
+: 1004 3 2 ed 
+- 1008
+: 1010 4 2 Won't 
+: 1014 2 4 you 
+: 1017 7 9 save 
+: 1024 9 2 me? 
+- 1034
+: 1036 5 9 Face 
+: 1041 6 4 down 
+: 1048 3 4 on 
+: 1051 1 7 the 
+: 1054 5 9 pa
+: 1059 4 9 ve
+: 1063 5 2 ment 
+- 1069
+: 1071 7 9 Take 
+: 1079 3 9 the 
+: 1083 5 7 pain 
+: 1089 3 4 a
+: 1092 6 9 way 
+: 1101 6 2 and 
+- 1108
+: 1110 5 2 Turn 
+: 1116 4 2 it 
+: 1121 3 2 in
+: 1124 3 4 to 
+: 1128 7 7 some
+: 1135 7 7 thing 
+: 1144 17 7 else 
+- 1162
+: 1164 9 9 Break 
+: 1175 7 2 me 
+: 1183 4 9 Go 
+: 1187 2 9 a
+: 1189 6 7 head, 
+: 1196 4 4 un
+: 1200 8 9 chain 
+: 1209 4 2 me 
+- 1214
+: 1216 6 9 Take 
+: 1224 2 9 the 
+: 1230 3 9 pain 
+: 1236 1 9 a
+: 1237 4 9 way 
+- 1242
+: 1244 3 2 Caught 
+: 1248 2 2 in 
+: 1252 3 4 a 
+: 1257 3 4 ti
+: 1260 5 4 dal
+: 1265 11 4 wave 
+- 1277
+: 1279 3 4 Hold 
+: 1282 2 2 your 
+: 1284 3 4 breath 
+: 1288 3 4 'til 
+: 1291 1 2 the 
+: 1293 4 4 world 
+: 1297 4 4 stops 
+: 1301 3 4 shak
+: 1304 8 2 ing 
+- 1340
+: 1384 5 4 Lost 
+: 1389 2 6 in 
+: 1391 2 4 my 
+: 1393 4 6 head, 
+: 1397 5 4 thoughts 
+: 1403 2 6 I 
+: 1405 2 4 re
+: 1407 2 6 gret 
+- 1410
+: 1412 2 6 Sick 
+: 1414 2 4 of 
+: 1416 3 6 be 
+: 1419 1 4 in' 
+: 1422 4 6 un
+: 1426 2 4 der 
+: 1429 3 6 at
+: 1432 4 4 tack 
+- 1442
+F 1445 4 0 I'm 
+F 1449 3 0 un
+F 1452 3 0 der 
+F 1456 2 0 at
+F 1458 34 0 tack 
+F 1522 10 0 Ah 
+F 1592 3 0 (I'm 
+F 1595 2 0 un 
+F 1597 3 0 der 
+F 1600 3 0 at 
+F 1603 1 0 tack) 
+- 1605
+R 1607 1 0 I 
+R 1608 2 0 al
+R 1610 3 0 most 
+R 1613 2 0 feel 
+R 1615 1 0 like 
+- 1616
+R 1617 2 0 I'm 
+R 1619 3 0 locked 
+R 1622 1 0 in
+R 1623 4 0 side 
+R 1628 1 0 of 
+R 1629 2 0 my 
+R 1631 2 0 head 
+- 1634
+R 1636 2 0 I 
+R 1638 2 0 don't 
+R 1640 2 0 un
+R 1642 2 0 der
+R 1644 5 0 stand 
+R 1649 3 0 why 
+R 1652 2 0 it's 
+R 1654 2 0 al
+R 1656 1 0 ways 
+- 1657
+R 1658 4 0 push
+R 1662 3 0 ing 
+R 1665 2 0 me 
+R 1667 9 0 back 
+- 1677
+R 1679 2 0 The 
+R 1681 3 0 more 
+R 1684 1 0 I 
+R 1685 3 0 want 
+R 1688 2 0 it, 
+R 1690 1 0 the 
+R 1691 4 0 more 
+R 1695 2 0 I'm 
+R 1697 2 0 get
+R 1699 3 0 ting 
+R 1702 3 0 off
+R 1705 2 0 track 
+- 1707
+R 1709 2 0 The 
+R 1711 2 0 mem
+R 1713 2 0 o
+R 1715 3 0 ries 
+R 1718 5 0 last, 
+R 1723 2 0 I 
+R 1725 2 0 am 
+R 1727 2 0 al
+R 1729 3 0 ways 
+R 1732 3 0 un
+R 1735 3 0 der 
+R 1738 3 0 at
+R 1741 6 0 tack 
+- 1748
+: 1750 6 9 Save 
+: 1757 9 2 me 
+: 1767 6 9 Face
+: 1773 5 2 down 
+: 1778 4 2 on 
+: 1782 2 7 the 
+: 1784 9 9 pave
+: 1793 5 2 ment 
+- 1799
+* 1801 7 9 Take 
+* 1809 2 9 the 
+* 1812 8 9 pain 
+* 1820 1 4 a
+* 1821 9 9 way 
+: 1831 7 2 and 
+: 1839 7 2 Turn 
+: 1847 3 2 it 
+: 1851 4 2 in
+: 1855 4 2 to 
+: 1860 5 4 some
+: 1865 8 7 thing 
+: 1873 20 7 else 
+- 1894
+* 1896 7 9 Break 
+* 1904 7 2 me 
+: 1914 4 9 Go 
+: 1918 1 9 a
+: 1919 7 9 head, 
+: 1927 4 4 un
+: 1931 9 9 chain 
+: 1941 6 2 me 
+: 1949 6 9 Take 
+: 1956 4 9 the 
+: 1961 5 9 pain 
+: 1967 1 9 a
+: 1968 6 9 way 
+: 1974 5 4 Caught 
+: 1979 3 4 in 
+: 1982 2 7 a 
+: 1987 5 9 ti
+: 1992 5 11 dal
+: 1997 10 7 wave 
+- 2008
+: 2010 3 4 Hold 
+: 2013 2 2 your 
+: 2015 4 5 breath 
+: 2019 3 4 'til 
+: 2022 2 2 the 
+: 2024 4 4 world 
+: 2028 4 6 stops 
+: 2032 5 7 shak
+: 2037 4 7 ing 
+- 2042
+F 2044 44 0 (Oh) 
+- 2093
+* 2095 6 9 Take 
+* 2101 4 9 the 
+* 2105 7 9 pain 
+* 2112 3 9 a
+* 2115 6 9 way 
+- 2122
+F 2124 29 0 (Oh) 
+- 2154
+: 2156 4 4 Hold 
+: 2160 1 3 your 
+: 2161 3 4 breath 
+: 2165 3 4 'til 
+: 2168 2 2 the 
+: 2170 4 4 world 
+: 2174 5 7 stops 
+: 2179 5 7 shak
+: 2184 5 2 ing 
+- 2190
+F 2192 36 0 (Oh) 
+- 2237
+: 2241 6 9 Take 
+: 2247 4 9 the 
+: 2251 6 9 pain 
+: 2257 3 9 a
+: 2260 8 9 way 
+- 2269
+F 2271 41 0 (Oh) 
+F 2312 32 0 (Take the pain away) 
+E

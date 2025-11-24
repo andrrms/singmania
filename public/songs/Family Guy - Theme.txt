@@ -1,0 +1,92 @@
+#ARTIST:Family Guy
+#TITLE:Theme
+#MP3:Family Guy - Theme.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1999
+#LANGUAGE:English
+#BPM:292.9
+#GAP:650
+#VIDEO:v=kvTJyMmadmA,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0e/39/52/0e395216-8861-2647-edf0-37c1b77a1765/20UMGIM17927.rgb.jpg/5000x5000bb.jpg,bg=https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700271600.jpg
+: 0 5 7 It 
+: 6 6 12 seems 
+: 13 3 11 to
+: 17 9 12 day, 
+: 34 3 5 that 
+: 38 4 11 all 
+: 43 3 10 you 
+: 49 9 11 see 
+- 60
+: 66 3 5 Is 
+: 70 3 10 vi
+: 74 2 9 o
+: 77 5 10 lence 
+: 83 2 9 in 
+: 86 4 10 mo
+: 91 5 12 vies 
+: 98 2 7 and 
+: 102 5 9 sex 
+: 108 5 9 on 
+: 114 3 9 T
+: 118 6 9 V 
+- 126
+: 132 2 5 But 
+: 135 3 7 where 
+: 139 3 7 are 
+: 143 5 5 those 
+- 149
+: 150 7 8 Good 
+: 158 6 5 ol’ 
+: 166 5 9 fa
+: 172 6 9 shion 
+: 179 7 10 val
+: 187 8 9 ues? 
+- 197
+: 204 2 7 On 
+: 207 4 9 which 
+: 212 2 14 we 
+: 215 3 9 used 
+: 219 2 5 to 
+: 222 3 2 re
+* 228 20 12 ly? 
+- 250
+: 264 3 14 Lu
+: 268 2 13 cky 
+: 271 4 14 there’s 
+: 276 2 16 a 
+: 279 4 17 fa
+: 284 3 16 mi
+: 288 3 14 ly 
+* 292 16 12 guy 
+- 310
+: 330 3 10 Lu
+: 334 2 9 cky 
+: 337 4 10 there’s 
+: 342 2 9 a 
+: 345 4 10 man 
+: 350 8 12 who’ll 
+- 359
+: 360 5 9 Po
+: 366 3 8 si
+: 370 3 9 tive
+: 374 2 8 ly 
+: 377 4 9 tell 
+: 382 8 10 you 
+- 392
+: 394 3 7 All 
+: 398 2 6 the 
+: 401 4 7 things 
+: 406 3 6 that 
+: 410 3 7 make 
+: 414 7 9 us 
+- 423
+: 425 5 5 Laugh 
+: 432 4 9 and 
+* 438 10 14 cry 
+- 450
+: 458 7 12 He’s 
+: 474 7 13 a 
+: 490 7 14 fam
+: 506 7 16 ily 
+* 522 34 17 guy 
+E

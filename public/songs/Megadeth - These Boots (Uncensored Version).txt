@@ -1,0 +1,282 @@
+#ARTIST:Megadeth
+#TITLE:These Boots (Uncensored Version)
+#MP3:Megadeth - These Boots (Uncensored Version).mp3
+#CREATOR:znxineohp
+#GENRE:Thrash Metal
+#YEAR:1985
+#LANGUAGE:English
+#BPM:324.94
+#GAP:66850
+#VIDEO:a=H_txsikcZGI,co=killing-is-my-business-and-business-is-good-53351aba26586.jpg,bg=megadeth-6409b6b9e5344.jpg
+: 0 6 16 You 
+: 7 4 16 keep 
+: 12 4 15 say
+: 17 2 16 ing 
+: 20 1 16 you 
+: 22 4 16 got 
+: 27 4 16 some
+: 32 4 16 thing 
+: 37 4 11 for 
+: 42 11 16 me 
+- 55
+: 67 4 16 Some
+: 72 3 16 thing 
+: 76 1 16 you 
+: 78 5 16 call 
+: 84 4 16 love, 
+: 89 1 16 but 
+: 91 2 16 I 
+: 94 8 11 call 
+: 103 10 16 sex 
+- 115
+: 131 4 13 You’ve 
+: 136 4 13 been 
+: 141 1 12 kiss
+: 143 4 9 ing 
+: 148 4 13 when 
+: 153 1 12 you 
+: 155 4 13 ought 
+: 160 1 12 to 
+: 162 1 13 be 
+: 164 1 11 a 
+: 166 5 13 screw
+: 172 13 16 ing 
+- 187
+: 193 2 11 And 
+: 196 6 13 now 
+: 203 3 16 some
+: 207 3 16 one 
+: 211 6 15 else 
+: 218 3 16 can 
+: 222 2 16 kiss 
+: 225 3 15 your 
+: 229 5 13 as
+: 235 10 11 s 
+- 247
+: 256 5 11 These 
+: 262 4 14 boots 
+: 267 2 14 are 
+: 270 3 14 made 
+: 274 2 14 for 
+: 277 2 16 walk
+: 280 8 11 ing 
+- 290
+: 293 2 11 And 
+: 296 3 14 that’s 
+: 300 3 14 just 
+: 304 2 14 what 
+: 307 1 14 they’ll 
+: 309 10 16 do 
+- 321
+: 323 3 14 One 
+: 327 1 14 of 
+: 329 4 14 these 
+: 334 3 14 days 
+: 338 2 14 these 
+: 341 3 16 boots 
+- 345
+: 345 5 10 Are 
+: 351 2 10 gon
+: 354 6 10 na 
+: 361 2 11 walk 
+: 364 8 9 all 
+: 373 2 7 ov
+: 376 4 6 er 
+: 381 8 4 you 
+- 391
+: 832 2 16 You 
+: 835 6 16 been 
+: 842 2 16 ly
+: 845 4 16 ing 
+: 850 2 16 and 
+: 853 2 15 there 
+: 856 3 16 ain’t 
+: 860 1 15 no 
+: 862 2 16 be
+: 865 4 11 lie
+: 870 16 16 ving 
+- 888
+: 895 2 16 And 
+: 898 2 16 you 
+: 901 5 16 keep 
+: 907 3 17 say
+: 911 2 10 in, 
+: 914 4 16 what 
+: 919 2 15 you 
+: 922 3 16 on 
+: 926 2 16 a
+: 929 2 15 bout 
+: 932 2 16 bit
+: 935 8 11 ch 
+- 945
+: 962 4 13 You 
+: 967 3 13 been 
+: 971 4 12 stay
+: 976 3 13 ing 
+: 980 3 13 when 
+: 984 1 12 you 
+: 986 3 13 ought 
+: 990 1 12 to 
+: 992 1 13 be 
+: 994 1 12 a 
+: 996 3 13 lea
+: 1000 17 16 ving 
+- 1019
+: 1020 2 11 Now 
+: 1023 5 14 what’s 
+: 1029 3 16 right 
+: 1033 2 16 is 
+: 1036 5 16 right 
+: 1042 2 11 but 
+: 1045 1 16 you 
+: 1047 5 16 ain’t 
+: 1053 3 16 been 
+: 1057 6 16 right 
+: 1064 3 14 ye
+: 1068 13 11 t 
+- 1083
+: 1087 4 11 These 
+: 1092 5 14 boots 
+: 1098 2 14 are 
+: 1101 4 14 made 
+: 1106 1 14 for 
+: 1108 3 16 walk
+: 1112 9 12 ing 
+- 1123
+: 1125 1 11 And 
+: 1127 2 14 that’s 
+: 1130 3 14 just 
+: 1134 1 14 what 
+: 1136 4 14 they’ll 
+: 1141 11 16 do 
+- 1154
+: 1157 2 14 One 
+: 1160 1 14 of 
+: 1162 1 14 these 
+: 1164 4 14 days 
+: 1169 4 14 these 
+: 1174 2 16 boots 
+- 1177
+: 1177 3 10 Are 
+: 1181 3 10 gon
+: 1185 5 10 na 
+: 1191 4 11 walk 
+: 1196 3 9 all 
+: 1200 2 7 ov
+: 1203 4 6 er 
+: 1208 8 4 you 
+- 1218
+: 1540 5 16 You’ve 
+: 1546 3 16 keep 
+: 1550 1 15 dress
+: 1552 5 16 ing 
+: 1558 4 16 ways 
+: 1563 2 15 you 
+: 1566 2 16 should
+: 1569 1 15 n’t 
+: 1571 3 16 be 
+: 1575 4 16 dress
+: 1580 17 16 ing 
+- 1599
+: 1605 2 11 And 
+: 1608 3 16 you 
+: 1612 3 16 keep 
+: 1616 2 16 think
+: 1619 5 15 ing 
+: 1625 2 16 that 
+: 1628 2 15 you’ll 
+: 1631 2 16 nev
+: 1634 1 11 er 
+: 1636 2 11 get 
+: 1639 12 11 burned, 
+: 1653 7 16 ha! 
+- 1662
+: 1670 5 11 I 
+: 1676 3 13 just 
+: 1680 4 13 found 
+: 1685 2 13 me 
+: 1688 1 12 a 
+: 1690 2 13 brand 
+: 1693 2 12 new 
+: 1696 4 13 box 
+: 1701 5 12 spring 
+: 1708 7 13 mat
+: 1716 12 16 ress 
+- 1730
+: 1734 4 16 What 
+: 1739 1 16 you 
+: 1741 4 16 know, 
+: 1746 6 16 bitch, 
+: 1753 1 16 you 
+: 1755 3 16 got 
+: 1759 1 16 a 
+: 1761 5 16 lot 
+: 1767 2 14 to 
+: 1770 2 16 lea
+: 1773 14 11 rn 
+- 1789
+: 1798 5 11 These 
+: 1804 3 14 boots 
+: 1808 3 14 are 
+: 1812 2 14 made 
+: 1815 2 14 for 
+: 1818 3 16 walk
+: 1822 11 16 ing 
+- 1834
+: 1834 4 11 That’s 
+: 1839 3 14 just 
+: 1843 1 14 what 
+: 1845 3 14 they’ll 
+: 1849 9 16 do 
+- 1860
+: 1864 1 11 And 
+: 1866 2 14 one 
+: 1869 1 14 of 
+: 1871 3 14 these 
+: 1875 3 14 days 
+: 1879 3 14 these 
+: 1883 5 16 boots 
+- 1889
+: 1890 2 10 Are 
+: 1893 1 10 gon
+: 1895 4 10 na 
+: 1900 5 11 stomp 
+: 1906 2 9 all 
+: 1909 2 7 ov
+: 1912 4 6 er 
+: 1917 8 4 you 
+- 1927
+: 1992 8 14 Ye
+: 2001 55 16 ah 
+- 2058
+: 2183 1 7 Are 
+: 2185 1 6 you 
+: 2187 2 7 read
+: 2190 3 7 y 
+: 2194 8 11 boots? 
+- 2204
+: 2248 2 13 Are 
+: 2251 2 12 you 
+: 2254 1 13 read
+: 2256 3 13 y 
+: 2260 9 17 boots? 
+- 2271
+: 2313 3 17 Are 
+: 2317 2 16 you 
+: 2320 3 17 read
+: 2324 3 17 y 
+: 2328 13 19 boots? 
+- 2343
+: 2357 9 14 Start 
+: 2367 6 16 walk
+: 2374 23 18 ing 
+- 2399
+: 3164 3 14 And 
+: 3168 7 14 you 
+: 3176 5 14 think 
+: 3182 4 14 I’m 
+: 3187 5 14 kidd
+: 3193 6 13 ing, 
+: 3200 6 14 don’t 
+: 3207 6 11 ya?! 
+E

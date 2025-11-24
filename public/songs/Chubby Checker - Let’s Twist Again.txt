@@ -1,0 +1,332 @@
+#ARTIST:Chubby Checker
+#TITLE:Let’s Twist Again
+#MP3:Chubby Checker - Let’s Twist Again.mp3
+#CREATOR:IC
+#EDITION:SingStar Après-Ski Party 2
+#GENRE:Rock & Roll
+#YEAR:1961
+#LANGUAGE:English
+#BPM:335.7
+#GAP:2580
+#VIDEO:v=KxQZQ86jJHg,co=lets-twist-again-5d1943d683c68.jpg,bg=checker-chubby-5413ebc0de2f6.jpg,preview=14.55,medley=268-1262
+F 0 2 5 Come 
+F 4 2 5 on 
+F 8 3 5 eve
+F 12 3 5 ry
+F 16 4 5 bo
+F 21 2 5 dy 
+- 25
+F 38 2 5 Clap 
+F 44 2 5 your 
+F 48 8 5 hands 
+- 58
+F 68 12 5 Ah 
+F 84 2 5 you’re 
+F 88 4 5 loo
+F 93 4 5 kin’ 
+F 100 6 5 good 
+- 108
+F 124 2 5 I’m 
+F 128 3 5 gon
+F 132 2 5 na 
+F 136 2 5 sing 
+F 140 6 5 my 
+F 148 6 5 song 
+- 156
+F 164 2 5 It 
+F 168 2 5 won’t 
+F 174 4 5 take 
+F 182 6 5 long 
+- 190
+F 196 2 5 We’re 
+F 200 3 5 gon
+F 204 1 5 na 
+F 206 2 5 do 
+F 210 2 5 the 
+F 214 6 5 twist 
+- 221
+F 222 2 5 And 
+F 226 2 5 it 
+F 230 4 5 goes 
+F 238 4 5 like 
+F 246 4 5 this 
+- 252
+: 268 2 7 Come 
+: 274 3 6 o
+: 278 4 7 ~n 
+: 286 4 7 let’s 
+* 294 4 7 twist 
+: 302 2 7 a
+: 306 6 7 gain 
+- 314
+: 328 4 7 Like 
+: 336 2 7 we 
+: 340 2 7 did 
+: 344 3 7 la
+: 348 6 5 ~st 
+: 356 2 3 sum
+: 360 4 0 mer 
+- 366
+: 386 24 7 Yeah 
+: 412 4 7 let’s 
+: 422 4 5 twist 
+: 430 2 3 a
+: 434 6 5 gain 
+- 442
+: 458 4 7 Like 
+: 466 2 5 we 
+: 470 3 7 di
+: 474 2 5 ~d 
+: 478 4 7 last 
+: 486 3 7 yea
+: 490 24 5 ~r 
+- 516
+: 526 6 7 Do 
+: 534 6 7 you 
+: 542 6 7 re
+: 550 4 7 mem
+: 558 4 7 ber 
+: 566 4 7 when 
+- 572
+: 586 4 7 Things 
+: 594 2 5 were 
+: 598 2 7 real
+: 602 3 7 ly
+: 606 4 5 ~ 
+: 614 2 3 hum
+: 618 4 0 min’? 
+- 624
+: 644 3 6 Yeah
+* 648 18 7 ~ 
+: 670 4 7 let’s 
+: 678 4 5 twist 
+: 686 2 3 a
+: 690 4 5 gain 
+- 696
+: 714 4 7 Twis
+: 722 2 6 tin’ 
+: 726 4 7 time 
+: 734 4 7 is 
+: 742 10 3 here 
+- 754
+: 782 12 10 Ee 
+: 798 4 3 ah 
+: 806 4 8 round 
+: 814 4 8 and 
+* 822 4 8 round 
+- 828
+: 830 3 8 A
+: 834 2 7 ~nd 
+: 838 4 8 up 
+: 846 4 8 and 
+: 854 4 8 down 
+- 860
+: 862 2 8 We 
+: 866 3 6 go
+: 870 22 7 ~ 
+: 894 2 5 a
+: 898 4 3 gain 
+- 904
+: 926 6 8 Oh 
+: 934 4 8 ba
+: 942 4 8 by 
+: 950 4 8 make 
+: 958 4 8 me 
+: 966 4 8 know 
+- 972
+: 978 2 5 You 
+: 982 4 8 love 
+: 990 4 8 me 
+: 998 18 10 so 
+: 1020 2 5 and 
+: 1026 3 5 the
+* 1030 26 7 ~n 
+- 1058
+: 1062 4 7 Twist 
+: 1070 2 7 a
+: 1074 8 7 gain 
+- 1084
+: 1098 4 7 Like 
+: 1106 2 5 we 
+: 1110 2 7 did 
+: 1114 3 7 la
+: 1118 4 5 ~st 
+: 1126 2 3 sum
+: 1130 4 0 mer 
+- 1136
+: 1166 2 7 Come 
+: 1170 16 7 on 
+: 1190 4 5 twist 
+: 1198 2 3 a
+: 1202 6 5 gain 
+- 1210
+: 1228 4 7 Like 
+: 1236 2 5 we 
+: 1240 2 7 did 
+: 1244 1 6 la
+: 1246 6 7 ~st 
+: 1256 6 3 year 
+- 1264
+* 1286 4 10 Twist 
+- 1292
+F 1300 4 19 Yo 
+- 1306
+F 1558 4 7 Who’s 
+F 1566 4 7 that 
+F 1572 2 7 fly
+F 1575 2 7 in’ 
+F 1578 2 7 up 
+F 1584 6 7 there? 
+- 1592
+F 1618 1 5 Is 
+F 1620 1 5 it 
+F 1622 2 5 a 
+F 1626 10 5 bird? 
+- 1638
+F 1644 30 7 No! 
+- 1676
+F 1680 1 5 Is 
+F 1682 1 5 it 
+F 1684 2 5 a 
+F 1692 14 5 plane? 
+- 1707
+F 1708 32 7 No! 
+- 1742
+F 1746 2 5 Is 
+F 1750 2 5 it 
+F 1754 2 5 the 
+F 1760 7 5 twis
+F 1768 6 5 ter? 
+- 1776
+F 1780 16 7 Yeah! 
+- 1798
+* 1800 28 10 Yeah 
+: 1836 4 7 twist 
+: 1844 2 7 a
+: 1848 8 7 gain 
+- 1858
+: 1872 4 7 Like 
+: 1880 2 5 we 
+: 1884 2 7 did 
+: 1888 1 7 la
+: 1890 6 5 ~st 
+: 1900 2 3 sum
+: 1904 2 0 mer 
+- 1908
+: 1940 2 8 Come 
+: 1944 10 7 on 
+: 1956 4 7 let’s 
+: 1964 4 5 twist 
+: 1972 2 3 a
+: 1976 6 5 gain 
+- 1984
+: 2000 4 7 Like 
+: 2008 2 5 we 
+: 2012 2 7 did 
+: 2016 4 7 last 
+: 2026 5 7 yea
+: 2032 18 5 ~r 
+- 2052
+: 2068 6 7 Do 
+: 2076 6 7 you 
+: 2084 6 7 re
+: 2092 4 7 mem
+: 2100 4 7 ber 
+: 2108 4 7 when 
+- 2114
+: 2128 4 7 Things 
+: 2136 2 5 were 
+: 2140 2 7 real
+: 2144 3 6 ly
+: 2148 6 5 ~ 
+: 2156 2 3 hum
+: 2160 4 0 min’? 
+- 2166
+: 2196 2 7 Come 
+: 2200 8 7 on 
+: 2212 4 7 let’s 
+: 2220 4 5 twist 
+: 2228 2 3 a
+: 2232 6 5 gain 
+- 2240
+: 2256 4 8 Twis
+: 2264 2 6 tin’ 
+: 2268 4 7 time 
+: 2276 4 7 is 
+* 2284 16 3 here 
+- 2302
+: 2314 20 10 Ee 
+: 2340 4 3 ah 
+: 2348 4 8 round 
+: 2356 3 8 a
+: 2360 2 7 ~nd 
+: 2364 6 8 round 
+- 2371
+: 2372 2 8 And 
+: 2376 3 7 u
+: 2380 4 8 ~p 
+: 2388 6 8 and 
+: 2396 4 8 down 
+- 2402
+: 2404 2 8 We 
+* 2408 26 7 go 
+: 2436 2 5 a
+: 2440 8 3 gain 
+- 2450
+: 2468 4 8 Oh 
+: 2476 4 8 ba
+: 2484 4 8 by 
+: 2492 4 8 make 
+: 2500 4 8 me 
+: 2508 4 8 know 
+- 2514
+: 2520 2 8 You 
+: 2524 4 8 love 
+: 2532 4 8 me 
+* 2540 20 10 so 
+: 2564 2 5 and 
+: 2568 4 7 then 
+- 2574
+: 2580 2 7 Come 
+: 2584 16 7 on 
+: 2604 4 7 twist 
+: 2612 2 7 a
+: 2616 6 7 gain 
+- 2624
+: 2640 4 7 Like 
+: 2648 2 6 we 
+: 2652 2 7 did 
+: 2656 3 7 la
+: 2660 4 5 ~st 
+: 2668 2 3 sum
+: 2672 4 0 mer 
+- 2678
+: 2696 3 6 Gi
+: 2700 20 7 ~rl 
+: 2724 4 7 let’s 
+: 2732 4 5 twist 
+: 2740 2 3 a
+: 2744 8 5 gain 
+- 2754
+: 2770 4 8 Like 
+: 2778 2 5 we 
+: 2782 1 7 di
+: 2784 1 5 ~d 
+: 2786 6 7 last 
+: 2798 10 3 year 
+- 2810
+: 2830 2 7 Come 
+: 2834 22 7 on 
+: 2862 4 5 twist 
+: 2870 2 3 a
+: 2874 4 5 gain 
+- 2880
+: 2898 2 8 Twis
+: 2904 2 5 tin’ 
+: 2908 6 7 time 
+: 2916 6 7 is 
+: 2926 26 3 here 
+- 2954
+: 2958 4 10 Bop 
+* 2970 4 10 bop 
+E

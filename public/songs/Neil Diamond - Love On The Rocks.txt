@@ -1,0 +1,195 @@
+#ARTIST:Neil Diamond
+#TITLE:Love On The Rocks
+#MP3:Neil Diamond - Love On The Rocks.mp3
+#CREATOR:znxineohp
+#YEAR:1980
+#LANGUAGE:English
+#BPM:400
+#GAP:15110
+#VIDEO:a=iWFXdx06h3A,co=https://4.bp.blogspot.com/-eBmkOhBUrXc/Vyt8SnyzfjI/AAAAAAAAbzM/NLGL3kSK2uIlU-d9GxfphdTCsJoTS01jwCLcB/s1600/ndiamond-love.jpg,bg=diamond-neil-53221e68d8444.jpg
+: 0 6 12 Love 
+: 7 6 12 on 
+: 14 3 9 the 
+: 18 13 12 rocks, 
+- 33
+: 93 8 5 Ain’t 
+: 102 3 5 no 
+* 106 6 5 sur
+* 113 14 5 prise 
+- 129
+: 204 5 11 Just 
+: 210 6 11 pour 
+: 217 2 11 me 
+: 220 3 7 a 
+* 224 34 11 drink 
+- 260
+: 263 2 11 And 
+: 266 5 11 I’ll 
+: 272 5 4 tell 
+: 278 4 4 you 
+: 283 5 4 some 
+: 289 14 4 lies 
+- 305
+: 392 5 0 Got 
+: 398 4 9 no
+: 403 6 9 thing 
+: 410 4 9 to 
+* 415 36 9 lose 
+- 453
+: 456 8 9 So 
+: 465 4 9 you 
+: 471 8 9 just 
+: 480 6 9 sing 
+: 487 4 9 the 
+: 492 14 9 blues 
+- 508
+* 552 11 9 All 
+* 564 5 6 the 
+* 571 20 8 time 
+- 593
+: 775 9 12 Gave 
+: 785 6 12 me 
+: 793 7 9 your 
+* 802 22 12 heart 
+- 826
+: 849 3 5 And 
+: 853 4 5 you 
+: 858 4 5 gave 
+: 863 3 5 me 
+: 867 6 5 your 
+: 875 12 5 soul 
+- 889
+: 971 5 -1 Then 
+: 977 5 11 you 
+: 983 4 11 left 
+: 988 4 11 me 
+: 993 4 11 a
+: 998 9 11 lone 
+* 1008 27 11 here 
+: 1039 9 11 with 
+: 1050 7 9 no
+: 1058 6 7 thing 
+: 1065 6 4 to 
+* 1072 23 7 hold 
+- 1097
+* 1178 7 9 Yes
+* 1186 2 9 ter
+* 1189 10 9 day’s 
+* 1200 15 9 gone 
+- 1217
+: 1281 3 3 And 
+: 1285 4 3 now 
+: 1290 4 3 all 
+: 1295 7 3 I 
+: 1303 45 3 want 
+: 1351 5 3 is 
+: 1357 6 3 a 
+* 1365 55 4 smile 
+- 1422
+: 1589 11 16 First, 
+: 1601 6 9 they 
+: 1608 10 11 say 
+: 1620 4 9 they 
+: 1625 8 11 want 
+* 1635 10 13 you 
+- 1647
+* 1667 32 16 And 
+: 1701 6 16 how 
+: 1708 4 13 they 
+: 1713 5 14 real
+: 1719 10 16 ly 
+: 1730 5 14 nee
+: 1736 9 14 ~d 
+* 1746 12 13 you 
+- 1760
+: 1776 7 16 Sud
+: 1784 4 14 den
+: 1789 10 13 ly 
+: 1800 7 11 you 
+: 1808 16 16 find 
+: 1825 4 14 you’re 
+: 1831 9 13 out 
+: 1842 12 11 there 
+- 1856
+: 1874 8 14 Wal
+: 1883 6 13 king 
+: 1890 3 11 in 
+: 1894 8 9 the 
+* 1903 28 14 storm 
+- 1933
+: 1984 5 16 And 
+: 1990 6 16 when 
+: 1997 8 16 they 
+: 2006 11 14 know 
+: 2018 6 13 they 
+: 2025 8 14 have 
+* 2034 21 16 you 
+- 2057
+: 2074 9 16 Then 
+: 2085 11 18 they 
+: 2098 7 16 real
+: 2106 7 13 ly 
+: 2115 9 14 have 
+* 2125 30 16 you 
+- 2157
+: 2162 10 16 No
+: 2173 10 14 thing 
+: 2184 10 13 you 
+: 2195 11 11 can 
+: 2208 6 16 do 
+: 2216 7 14 or 
+* 2226 17 13 say 
+- 2245
+: 2254 8 11 You’ve 
+: 2264 9 14 got 
+: 2275 5 13 to 
+* 2282 17 11 leave, 
+: 2303 10 14 just 
+: 2314 4 14 get 
+* 2319 6 13 a
+* 2326 23 11 way 
+- 2351
+* 2389 8 11 We 
+* 2398 24 11 all 
+* 2426 20 13 know 
+* 2449 8 11 the 
+* 2459 30 4 song 
+- 2491
+: 2586 8 12 Love 
+: 2595 4 12 on 
+: 2600 4 9 the 
+* 2605 16 12 rocks, 
+- 2623
+: 2688 7 5 Ain’t 
+: 2696 4 5 no 
+: 2701 5 5 big 
+: 2707 6 5 sur
+: 2714 13 5 prise 
+- 2729
+: 2802 5 11 Just 
+: 2808 7 11 pour 
+: 2816 3 11 me 
+: 2820 3 7 a 
+* 2825 34 11 drink 
+- 2861
+: 2865 4 11 And 
+: 2870 5 11 I’ll 
+: 2876 5 4 tell 
+: 2882 5 4 you 
+: 2888 6 4 my 
+* 2895 20 4 lies 
+- 2917
+: 3014 6 9 Yes
+: 3021 3 9 ter
+: 3025 10 9 day’s 
+: 3037 15 9 gone 
+- 3054
+: 3129 2 -1 And 
+: 3132 5 3 now 
+: 3138 7 3 all 
+: 3146 8 3 I 
+* 3155 38 3 want 
+: 3194 2 3 is 
+: 3197 5 3 a 
+* 3206 50 4 smile 
+E

@@ -1,0 +1,340 @@
+#ARTIST:Fancy
+#TITLE:Angel Eyes
+#MP3:Fancy - Angel Eyes.mp3
+#CREATOR:Unknown
+#COVER:Fancy - Angel Eyes [CO].jpg
+#BACKGROUND:Fancy - Angel Eyes [BG].jpg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:245.6
+#GAP:18800
+#VIDEO:v=kPsfaonEP7c,co=https://media.hitparade.ch/cover/800/fancy-angel_eyes_s.jpg,bg=fancy-58aed60625a09.jpg
+: 0 4 11 Warm 
+: 5 3 11 like 
+: 9 2 14 a 
+: 14 3 10 de
+: 19 5 9 sert 
+: 28 5 9 sun 
+- 35
+: 64 4 10 Blue 
+: 69 3 11 like 
+: 73 3 12 an 
+: 78 2 10 o
+: 82 6 8 cean 
+- 90
+: 128 4 12 Deep 
+: 133 3 11 in 
+: 137 3 11 your 
+: 141 6 10 eyes 
+: 148 2 8 I 
+: 156 8 9 run 
+- 166
+: 192 3 9 Feel 
+: 196 2 8 my 
+: 200 3 9 de
+: 205 4 6 vo
+: 211 5 7 tion 
+- 218
+: 256 4 13 High 
+: 261 3 13 like 
+: 265 2 13 a 
+: 270 4 12 bird 
+: 277 5 12 you 
+: 284 8 15 fly 
+- 294
+: 302 3 11 But 
+: 306 4 9 leave 
+: 312 3 8 my 
+: 316 6 9 heart 
+: 326 3 8 be
+: 332 8 10 hind 
+- 342
+: 384 3 8 Why 
+: 388 4 9 fall 
+: 393 3 10 your 
+: 397 7 8 tears 
+: 406 2 7 a
+: 412 5 8 way 
+- 419
+: 448 4 8 Tell 
+: 453 3 8 me 
+: 457 3 8 you 
+: 461 5 6 need 
+: 468 4 7 me 
+- 474
+: 511 3 8 We 
+: 515 3 9 can 
+: 520 3 9 see 
+: 524 5 7 bet
+: 532 4 7 ter 
+: 540 9 8 days 
+- 551
+: 578 3 7 Reach 
+: 582 3 7 out 
+: 586 3 7 and 
+: 590 6 6 touch 
+: 598 3 7 me 
+- 603
+: 640 3 13 May
+: 645 3 13 be 
+: 649 3 12 it’s 
+: 653 4 13 hard 
+: 661 3 11 to 
+: 668 6 13 try 
+- 676
+: 685 3 11 But 
+: 689 5 10 don’t 
+: 696 3 9 you 
+: 700 6 9 say 
+: 710 5 8 good
+: 717 7 9 bye 
+- 726
+: 736 6 10 An
+: 744 4 9 gel 
+: 749 11 10 eyes 
+: 765 3 12 I 
+: 770 4 15 hear 
+: 777 3 13 you 
+: 782 6 9 cry
+: 789 5 9 ing 
+- 796
+: 798 3 13 Your 
+: 802 6 15 heart 
+: 810 2 13 is 
+: 814 3 10 sigh
+: 819 4 9 ing 
+- 825
+: 830 3 11 Are 
+: 834 3 10 you 
+: 838 2 8 gon
+: 841 2 7 na 
+: 844 4 10 stay 
+- 850
+: 866 6 10 An
+: 873 4 9 gel 
+: 878 8 11 eyes 
+: 894 3 14 you 
+: 898 7 15 must 
+: 906 3 12 be 
+: 910 4 10 ly
+: 918 5 10 ing 
+- 924
+F 926 4 6 Your 
+F 931 3 6 love 
+F 935 3 6 can 
+F 942 6 6 wait 
+F 950 3 6 for 
+F 954 4 6 me 
+F 959 3 6 a
+F 963 3 6 no
+F 971 3 6 ther 
+F 976 4 6 day 
+- 982
+: 992 6 10 An
+: 999 5 8 gel 
+: 1005 13 7 eyes, 
+: 1026 8 12 I 
+: 1036 8 12 pray 
+- 1046
+: 1059 4 12 An
+: 1064 4 12 gel 
+: 1070 7 10 eyes 
+: 1078 3 9 you 
+: 1082 3 9 mean 
+: 1086 3 9 the 
+: 1090 4 8 world 
+: 1098 2 8 to 
+: 1102 4 9 me 
+- 1108
+: 1411 3 10 How 
+: 1415 3 11 could 
+: 1419 2 11 it 
+: 1423 5 8 end 
+: 1430 4 7 this 
+: 1438 4 8 way 
+- 1444
+: 1474 3 8 Can 
+: 1478 3 8 you 
+: 1482 3 9 for
+: 1486 4 7 give 
+: 1493 2 7 me? 
+- 1497
+: 1538 4 9 How 
+: 1543 3 9 could 
+: 1547 3 10 an 
+: 1551 4 7 an
+: 1557 5 7 gel 
+: 1565 5 8 say 
+- 1572
+: 1602 4 7 Love 
+: 1607 3 7 has 
+: 1611 2 9 an 
+: 1614 4 7 en
+: 1622 4 7 ding 
+- 1628
+: 1666 3 14 May
+: 1670 3 12 be 
+: 1674 3 12 it’s 
+: 1678 6 11 hard 
+: 1686 3 11 to 
+: 1693 6 11 try 
+- 1701
+: 1710 3 10 But 
+: 1715 4 8 don’t 
+: 1720 3 8 you 
+: 1725 3 9 say 
+: 1734 4 8 good
+: 1742 4 10 bye 
+- 1748
+: 1762 5 10 An
+: 1768 4 9 gel 
+: 1774 12 11 eyes 
+: 1790 3 13 I 
+: 1795 5 15 hear 
+: 1801 4 13 you 
+: 1806 4 11 cry
+: 1813 4 9 ing 
+- 1819
+: 1822 3 13 Your 
+: 1826 4 15 heart 
+: 1835 3 8 is 
+: 1839 4 11 sigh
+: 1846 3 10 ing 
+- 1851
+: 1854 3 10 Are 
+: 1858 3 10 you 
+: 1862 3 7 gon
+: 1866 2 7 na 
+: 1869 6 11 stay 
+- 1877
+: 1890 6 11 An
+: 1897 4 10 gel 
+: 1903 8 11 eyes 
+: 1916 5 13 you’re 
+: 1922 8 15 must 
+: 1931 3 13 be 
+: 1935 3 11 ly
+: 1942 5 10 ing 
+- 1948
+F 1950 3 6 Your 
+F 1955 4 6 love 
+F 1962 3 6 can 
+F 1968 4 6 wait 
+F 1973 3 6 for 
+F 1977 3 6 me 
+F 1982 3 6 a
+F 1988 3 6 no
+F 1993 4 6 ther 
+F 1999 3 6 day 
+- 2004
+: 2018 6 10 An
+: 2025 4 10 gel 
+: 2030 12 8 eyes, 
+: 2050 8 12 I 
+: 2062 8 12 pray 
+- 2072
+: 2082 6 11 An
+: 2089 4 12 gel 
+: 2094 7 10 eyes 
+: 2103 3 10 you 
+: 2107 3 10 mean 
+: 2111 3 9 the 
+: 2115 5 8 world 
+: 2121 3 9 to 
+: 2126 5 10 me 
+- 2133
+F 2190 4 6 Warm 
+F 2202 4 6 like 
+F 2207 2 6 the 
+F 2210 2 6 de
+F 2213 2 6 sert 
+F 2216 2 6 sun 
+- 2220
+F 2240 3 6 Blue 
+F 2246 4 6 like 
+F 2251 2 6 an 
+F 2254 2 6 o
+F 2257 3 6 cean 
+- 2262
+F 2310 6 6 Deep 
+F 2317 2 6 in 
+F 2320 2 6 your 
+F 2323 6 6 eyes 
+F 2332 2 6 a
+F 2335 5 6 round 
+- 2342
+F 2366 4 6 Feel 
+F 2371 2 6 my 
+F 2375 2 6 de
+F 2378 2 6 vo
+F 2381 3 6 tion 
+- 2386
+: 2434 5 10 May
+: 2440 2 9 be 
+: 2443 3 10 it’s 
+: 2447 4 10 hard 
+: 2455 6 10 to 
+: 2462 5 10 try 
+- 2469
+: 2479 3 12 But 
+: 2483 5 13 don’t 
+: 2489 3 13 you 
+: 2493 8 14 say 
+: 2502 4 16 good
+: 2510 4 14 bye 
+- 2516
+: 2530 5 12 An
+: 2536 4 10 gel 
+: 2541 13 11 eyes 
+: 2558 3 13 I 
+: 2563 5 16 hear 
+: 2570 3 14 you 
+: 2575 5 10 cry
+: 2582 6 10 ing 
+- 2590
+: 2592 3 15 Your 
+: 2596 3 15 heart 
+: 2603 3 13 is 
+: 2607 5 11 sigh
+: 2614 4 10 ing 
+- 2620
+: 2622 3 10 Are 
+: 2626 3 11 you 
+: 2630 3 8 gon
+: 2634 3 7 na 
+: 2638 6 10 stay 
+- 2646
+: 2658 7 10 An
+: 2666 3 8 gel 
+: 2670 9 9 eyes 
+: 2685 4 14 you’re 
+: 2691 7 15 must 
+: 2699 3 13 be 
+: 2704 4 11 ly
+: 2710 5 10 ing 
+- 2716
+F 2718 4 6 Your 
+F 2724 4 6 love 
+F 2729 3 6 can 
+F 2733 5 6 wait 
+F 2739 3 6 for 
+F 2747 3 6 me 
+F 2752 2 6 a
+F 2757 3 6 no
+F 2762 3 6 ther 
+F 2767 3 6 day 
+- 2772
+: 2786 5 12 An
+: 2792 5 8 gel 
+: 2800 12 6 eyes, 
+: 2818 10 12 please 
+: 2829 6 12 stay 
+- 2837
+: 2850 6 11 An
+: 2857 4 11 gel 
+: 2862 11 10 eyes 
+- 2875
+F 2881 8 6 An
+F 2890 4 6 gel 
+F 2895 14 6 eyes 
+E

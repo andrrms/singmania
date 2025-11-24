@@ -1,0 +1,194 @@
+#ARTIST:Roger Hodgson
+#TITLE:Lovers In The Wind
+#MP3:Roger Hodgson - Lovers In The Wind.mp3
+#CREATOR:frippio
+#GENRE:Pop
+#YEAR:1984
+#LANGUAGE:English
+#BPM:259.46
+#GAP:83070
+#VIDEO:v=wVM6ew26NfY,co=in-the-eye-of-the-storm-52ae6e3cdb374.jpg,bg=hodgson-roger-648f15cef0f02.jpg
+: 0 22 0 Time 
+: 24 7 5 is 
+: 33 11 3 al
+: 45 3 5 ways 
+: 50 4 3 on 
+: 57 3 1 the 
+: 62 10 0 run 
+- 74
+: 90 5 1 We’ve 
+: 97 11 0 on
+: 110 3 1 ly 
+: 114 5 0 just 
+: 121 6 -2 be
+: 129 10 -4 gun 
+- 141
+* 162 2 -4 Lo
+* 166 6 -4 vers 
+* 174 6 -4 in 
+* 182 2 -2 the 
+* 186 10 -4 wind 
+- 198
+: 261 17 0 Life 
+: 285 5 5 is 
+: 292 9 3 all 
+: 304 3 5 we 
+: 308 5 3 have 
+: 316 3 1 to 
+: 320 12 0 share 
+- 334
+: 348 6 1 You 
+: 356 10 0 know 
+: 368 3 1 we 
+: 372 6 0 must 
+: 380 5 -2 take 
+: 387 15 -4 care 
+- 404
+* 420 2 -4 Lo
+* 424 7 -4 vers 
+* 432 5 -4 in 
+* 439 3 -2 the 
+* 443 11 -4 wind 
+- 456
+: 502 4 -7 There 
+: 508 3 -5 was 
+: 513 3 -4 a 
+: 517 21 -2 time 
+: 568 3 -2 when 
+: 573 3 0 it 
+: 578 3 1 was 
+: 583 17 3 hard 
+: 606 6 5 to 
+: 614 11 -4 know 
+- 627
+: 647 6 1 Rea
+: 655 3 0 ching 
+: 659 14 -2 out, 
+: 676 8 1 rea
+: 686 3 0 ching 
+: 691 8 -2 out 
+: 703 3 -4 for 
+: 707 21 6 some
+: 730 3 8 where 
+: 735 3 6 to 
+: 739 11 5 go 
+- 752
+: 791 4 -7 There 
+: 796 4 -5 was 
+: 802 3 -4 a 
+: 806 32 -2 light 
+: 855 4 -2 born 
+: 861 4 0 on 
+: 866 3 1 the 
+: 871 21 3 dark
+: 894 6 5 est 
+: 902 12 -4 day 
+- 916
+: 931 3 -5 But 
+: 936 3 -5 no 
+: 940 4 -5 one 
+: 946 6 -5 wants 
+: 954 2 -7 to 
+: 958 17 -5 know 
+- 977
+: 996 3 7 And 
+: 1001 3 7 no 
+: 1005 6 7 one 
+: 1013 5 7 wants 
+: 1020 2 5 to 
+: 1024 27 7 try
+: 1052 16 8 ~
+: 1069 13 5 ~ 
+- 1084
+: 1137 21 0 Love 
+: 1163 6 5 is 
+: 1171 11 3 all 
+: 1183 2 5 I 
+: 1187 6 3 have 
+: 1195 2 1 to 
+: 1200 9 0 give 
+- 1211
+: 1228 5 1 It’s 
+: 1235 11 0 all 
+: 1249 2 1 I 
+: 1253 5 0 need 
+: 1261 6 -2 to 
+: 1269 10 -4 live 
+- 1281
+* 1300 3 -4 Lo
+* 1305 6 -4 vers 
+* 1312 5 -4 in 
+* 1320 2 -2 the 
+* 1324 10 -4 wind 
+- 1336
+: 1640 3 -7 There 
+: 1645 5 -5 was 
+: 1652 3 -4 a 
+: 1656 24 -2 time 
+: 1703 5 -2 when 
+: 1709 4 0 it 
+: 1715 3 1 was 
+: 1719 19 3 hard 
+: 1742 6 5 to 
+: 1750 12 -4 know 
+- 1764
+: 1782 6 1 Rea
+: 1790 3 0 ching 
+: 1795 10 -2 out, 
+: 1811 9 1 rea
+: 1822 3 0 ching 
+: 1826 9 -2 out 
+: 1837 4 -4 for 
+: 1843 17 6 some
+: 1865 4 8 where 
+: 1870 2 6 to 
+: 1874 11 5 go 
+- 1887
+: 1927 4 -7 There 
+: 1933 3 -5 was 
+: 1938 3 -4 a 
+: 1943 30 -2 light 
+: 1990 4 -2 born 
+: 1996 3 0 on 
+: 2001 3 1 the 
+: 2005 21 3 dark
+: 2028 6 5 est 
+: 2036 11 -4 day 
+- 2049
+: 2065 3 -5 But 
+: 2070 3 -5 no 
+: 2074 4 -5 one 
+: 2080 6 -5 wants 
+: 2088 2 -7 to 
+: 2092 17 -5 know 
+- 2111
+: 2130 3 7 And 
+: 2135 3 7 no 
+: 2139 6 7 one 
+: 2147 5 7 wants 
+: 2154 2 5 to 
+: 2158 27 7 cry
+: 2186 16 8 ~
+: 2203 13 5 ~ 
+- 2218
+: 2269 22 0 Time 
+: 2294 6 5 is 
+: 2302 10 3 al
+: 2315 3 5 ways 
+: 2319 4 3 on 
+: 2327 3 1 the 
+: 2332 10 0 run 
+- 2344
+: 2360 5 1 We’ve 
+: 2367 11 0 on
+: 2380 2 1 ly 
+: 2384 5 0 just 
+: 2391 6 -2 be
+: 2399 10 -4 gun 
+- 2411
+: 2432 2 -4 Lo
+: 2436 6 -4 vers 
+: 2444 6 -4 in 
+: 2453 2 -2 the 
+: 2457 12 -4 wind 
+E

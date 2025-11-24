@@ -1,0 +1,348 @@
+#ARTIST:James Cottriall
+#TITLE:Unbreakable
+#MP3:James Cottriall - Unbreakable.mp3
+#CREATOR:masterxy
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:211.65
+#GAP:8410
+#VIDEO:v=g27MQhru484,co=https://i.ibb.co/pdNWkSx/jcu.jpg
+: 0 2 0 Well 
+: 4 5 6 I’m 
+: 11 1 8 fed 
+: 13 1 8 up 
+: 14 1 8 of 
+: 16 1 8 you 
+: 18 1 8 ly
+: 20 1 8 ing 
+: 22 1 4 be
+: 24 3 7 hind 
+: 30 2 8 my 
+: 34 1 8 back 
+- 36
+: 36 1 9 And 
+: 38 2 6 I’m 
+: 43 1 8 fed 
+: 45 1 9 up 
+: 47 1 9 of 
+: 49 1 9 the 
+: 51 1 7 se
+: 53 1 9 crets 
+- 55
+: 55 2 5 I 
+: 59 2 10 can’t 
+: 62 3 10 keep 
+* 67 2 7 track 
+- 70
+: 70 2 7 Oh 
+: 74 4 9 ba
+: 79 5 9 by 
+- 86
+: 89 3 9 I’m 
+: 94 2 9 just 
+: 98 1 7 fed 
+: 100 1 3 up 
+: 102 1 2 of 
+: 104 5 5 you 
+- 111
+: 136 1 0 You 
+: 138 1 9 used 
+: 140 1 9 to 
+: 142 1 9 be 
+: 144 1 9 my 
+: 146 1 9 ev
+: 148 1 7 ery
+: 150 1 5 thing 
+- 152
+: 152 1 5 My 
+: 154 1 8 ev
+: 156 1 9 ery 
+: 158 1 9 thought 
+: 160 1 9 and 
+: 162 3 9 word 
+- 166
+: 166 1 6 But 
+: 168 3 8 then 
+: 172 1 9 there 
+: 174 1 9 were 
+: 176 1 9 the 
+: 178 1 8 se
+: 180 1 0 crets 
+- 182
+: 182 2 5 That 
+: 185 1 9 ev
+: 187 1 11 ery
+: 189 1 9 bo
+: 191 1 9 dy 
+: 193 3 7 heard 
+- 197
+: 197 2 7 And 
+* 201 5 8 la
+* 207 4 9 dy 
+- 213
+: 216 3 8 I 
+: 222 2 9 don’t 
+: 225 1 7 know 
+: 227 1 4 what 
+: 229 1 3 to 
+: 231 5 6 do 
+- 238
+: 277 2 1 I 
+: 280 3 2 thought 
+: 284 2 2 we 
+: 288 2 4 were 
+: 292 2 5 un
+: 296 3 5 break
+: 301 1 0 a
+: 303 4 0 ble 
+- 309
+: 340 2 0 I 
+: 343 2 4 thought 
+: 347 2 5 that 
+: 351 2 5 we 
+: 355 1 4 were 
+: 357 8 2 more 
+- 367
+: 403 2 0 I 
+: 407 2 2 thought 
+: 410 2 2 we 
+: 414 2 4 were 
+: 418 3 5 un
+: 422 2 5 break
+: 427 1 0 a
+: 429 4 0 ble 
+- 435
+: 467 1 0 And 
+: 470 6 5 worth 
+: 477 2 5 figh
+: 481 3 4 ting 
+: 486 10 2 for 
+- 498
+: 637 5 8 I’m 
+: 644 1 9 fed 
+: 646 1 8 up 
+: 648 1 8 of 
+: 650 1 9 you 
+: 652 1 9 moa
+: 654 2 0 ning 
+- 657
+: 657 4 6 About 
+: 662 1 8 the 
+: 664 1 8 things 
+: 666 1 9 I 
+: 668 3 9 lack 
+- 672
+: 672 1 9 I’m 
+: 674 1 9 fed 
+: 676 1 9 up 
+: 678 1 9 of 
+: 680 2 8 your 
+: 683 1 7 bit
+: 685 1 5 ching 
+: 687 3 5 baby 
+- 691
+: 692 1 8 Just 
+: 694 1 9 get 
+: 696 1 10 off 
+: 698 1 9 my 
+: 700 2 6 back 
+: 704 2 6 and 
+: 707 5 8 la
+: 713 3 8 dy 
+- 718
+: 723 2 8 I’m 
+: 727 2 8 just 
+: 731 1 7 fed 
+: 733 1 4 up 
+: 735 1 3 of 
+: 737 4 5 you 
+- 743
+: 769 1 4 So 
+: 771 1 4 what 
+: 773 1 8 are 
+: 774 1 9 we 
+: 776 1 9 gon
+: 778 1 9 na 
+: 780 1 9 do 
+- 782
+: 782 1 4 About 
+: 784 1 3 the 
+: 786 1 8 pro
+: 788 1 8 blems 
+: 790 1 9 that 
+: 792 1 9 we 
+: 794 3 9 have? 
+- 798
+: 798 1 8 I 
+: 800 1 9 sup
+: 802 1 9 pose 
+: 804 1 8 that 
+: 806 1 8 we 
+: 808 1 8 should 
+: 810 1 7 sep
+: 812 1 6 ar
+: 814 1 5 ate 
+- 816
+: 816 1 5 ’Cause 
+: 818 1 8 then 
+: 820 1 9 we’d 
+: 822 1 9 have 
+: 824 1 9 a 
+: 826 2 6 chance 
+- 830
+: 832 1 8 And 
+: 834 4 8 la
+: 839 5 8 dy 
+: 849 3 8 I 
+: 853 3 8 don’t 
+: 857 1 6 know 
+: 859 1 5 what 
+: 861 1 4 to 
+: 863 5 5 do 
+- 870
+: 910 1 0 I 
+: 912 2 2 thought 
+: 916 2 2 we 
+: 920 2 4 were 
+* 924 3 5 un
+* 928 3 5 break
+* 933 1 0 a
+* 935 3 0 ble 
+- 940
+: 971 2 0 I 
+: 975 4 4 thought 
+: 980 2 5 that 
+: 984 2 5 we 
+: 987 1 4 were 
+: 989 9 2 more 
+- 1000
+: 1036 2 0 I 
+: 1039 3 2 thought 
+: 1043 2 2 we 
+: 1047 3 4 were 
+: 1051 3 5 un
+: 1055 3 5 break
+: 1060 1 0 a
+: 1062 5 0 ble 
+- 1069
+: 1099 2 0 And 
+: 1103 6 5 worth 
+: 1111 2 5 figh
+: 1114 2 4 ting 
+: 1118 11 2 for
+: 1131 7 1 ~ 
+- 1140
+: 1230 2 2 I’m 
+: 1234 2 2 get
+: 1237 2 2 ting 
+* 1241 5 4 you 
+: 1261 2 4 out 
+: 1265 3 4 of 
+: 1270 2 4 my 
+* 1273 11 5 life 
+: 1288 11 4 to
+: 1301 13 2 night 
+- 1316
+: 1353 3 0 I’m 
+: 1357 2 2 tel
+: 1360 3 2 ling 
+: 1365 5 2 you, 
+: 1372 2 4 get
+: 1375 3 4 ting 
+: 1380 5 4 you 
+: 1387 10 5 go 
+: 1399 1 0 to
+: 1402 5 -5 night 
+- 1409
+: 1669 2 0 I 
+: 1672 3 2 thought 
+: 1677 2 2 we 
+: 1680 3 4 were 
+: 1685 3 5 un
+: 1689 4 5 break
+: 1695 1 0 a
+: 1697 4 0 ble 
+- 1703
+: 1732 2 0 I 
+: 1736 3 4 thought 
+: 1740 3 5 that 
+: 1744 2 5 we 
+: 1748 1 4 were 
+* 1750 13 2 more 
+- 1765
+: 1796 2 0 I 
+: 1799 3 2 thought 
+: 1803 2 2 we 
+: 1807 3 4 were 
+: 1811 2 5 un
+: 1814 2 5 break
+: 1818 1 0 a
+: 1820 6 0 ble 
+- 1828
+: 1859 2 0 And 
+: 1863 6 5 worth 
+: 1871 2 5 figh
+: 1874 3 4 ting 
+: 1879 10 2 for 
+- 1891
+: 1922 2 1 I 
+: 1925 3 3 thought 
+: 1930 2 3 we 
+: 1933 3 5 were 
+: 1937 2 6 un
+: 1941 3 6 break
+: 1946 1 1 a
+: 1948 5 1 ble 
+- 1955
+: 1986 1 1 I 
+: 1989 2 5 thought 
+: 1993 2 6 that 
+: 1997 3 6 we 
+: 2001 1 5 were 
+: 2003 8 3 more 
+- 2013
+: 2049 1 1 I 
+: 2052 2 3 thought 
+: 2056 1 3 we 
+: 2060 2 5 were 
+: 2064 3 6 un
+: 2068 3 6 break
+: 2073 1 1 a
+: 2075 4 1 ble 
+- 2081
+: 2112 2 2 And 
+: 2116 6 6 worth 
+: 2124 2 6 figh
+: 2127 3 5 ting 
+: 2131 9 3 for 
+- 2142
+: 2147 6 6 Worth 
+: 2155 2 8 figh
+: 2159 2 6 ting 
+* 2162 18 3 for
+* 2183 10 1 ~
+* 2195 7 -2 ~ 
+- 2204
+: 2238 3 1 And 
+: 2243 5 6 worth 
+: 2250 3 6 figh
+: 2255 3 5 ting 
+: 2259 11 3 for 
+- 2272
+: 2302 3 1 I 
+: 2306 3 3 thought 
+: 2310 2 3 we 
+: 2314 3 5 were 
+: 2318 2 6 un
+: 2322 3 6 break
+: 2327 1 1 a
+: 2329 6 1 ble 
+- 2337
+: 2366 2 1 And 
+: 2370 7 6 worth 
+: 2379 4 6 figh
+: 2384 5 5 ting 
+: 2393 18 3 for
+: 2415 22 2 ~ 
+E

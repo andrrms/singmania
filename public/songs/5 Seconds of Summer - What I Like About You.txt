@@ -1,0 +1,243 @@
+#ARTIST:5 Seconds of Summer
+#TITLE:What I Like About You
+#MP3:5 Seconds of Summer - What I Like About You.mp3
+#CREATOR:Leroidukitch
+#YEAR:2014
+#LANGUAGE:English
+#BPM:312
+#GAP:79520
+#VIDEO:v=7zzJw_UP8yc,co=https://static.wikia.nocookie.net/myat40/images/7/7c/5_Seconds_Of_Summer_What_I_Like_About_You_cover.jpg,bg=5-seconds-of-summer-63db788d6db8f.jpg
+: 0 14 21 Hey! 
+- 16
+: 126 10 20 Hey! 
+- 138
+: 236 3 16 What 
+: 240 3 16 I 
+: 244 3 16 like 
+: 248 3 16 a
+: 252 7 16 bout 
+: 260 9 20 you: 
+: 304 3 16 you 
+: 308 3 17 hold 
+: 312 7 16 me 
+: 320 9 14 tight 
+- 331
+: 386 3 19 Tell 
+: 390 3 19 me 
+: 394 3 16 I’m 
+: 398 3 14 the 
+: 402 3 19 on
+: 406 3 19 ly 
+: 410 7 16 one 
+- 418
+: 418 3 19 Wan
+: 422 3 19 na 
+: 426 7 19 come 
+: 434 3 19 o
+: 438 3 16 ver 
+: 442 3 14 to
+: 446 7 16 night, 
+: 478 11 16 yeah 
+- 491
+: 520 7 16 Go 
+: 528 3 16 whis
+: 532 3 16 per
+: 536 7 16 ing 
+: 544 7 14 in 
+: 552 7 14 my 
+: 560 7 16 ear, 
+: 574 3 14 tell 
+: 578 3 16 me 
+: 582 3 16 all 
+: 586 3 16 the 
+: 590 7 16 things 
+: 598 3 16 that 
+: 602 7 14 I 
+: 610 3 14 want 
+: 614 3 14 to 
+: 618 7 16 hear 
+- 626
+: 626 3 14 ’Cause 
+: 630 3 16 that’s 
+: 634 5 16 true, 
+: 674 3 16 that’s 
+: 678 3 16 what 
+: 682 3 16 I 
+: 686 3 18 like 
+: 690 3 16 a
+: 694 3 16 bout 
+: 702 7 16 you 
+- 711
+: 736 3 16 What 
+: 740 3 16 I 
+: 744 3 16 like 
+: 748 3 13 a
+: 752 7 16 bout 
+: 760 5 19 you: 
+: 796 3 19 you 
+: 800 3 19 real
+: 804 3 19 ly 
+: 808 3 19 know 
+: 812 3 16 how 
+: 816 3 13 to 
+: 822 7 16 dance 
+- 831
+: 872 3 13 When 
+: 876 3 16 you 
+: 880 7 16 go 
+: 888 7 18 up, 
+: 896 7 16 down, 
+: 904 3 19 jump 
+: 908 3 19 a
+: 912 7 16 round, 
+: 920 3 19 think 
+: 924 3 19 a
+: 928 7 19 bout 
+: 936 3 19 true 
+: 940 7 16 ro
+: 948 9 16 mance, 
+: 980 7 16 yeah 
+- 989
+: 1018 7 16 Go 
+: 1026 3 16 whis
+: 1030 3 16 per
+: 1034 7 16 ing 
+: 1042 7 14 in 
+: 1050 7 14 my 
+: 1058 7 16 ear, 
+: 1074 3 13 tell 
+: 1078 3 16 me 
+: 1082 3 16 all 
+: 1086 3 16 the 
+: 1090 7 16 things 
+: 1098 3 16 that 
+: 1102 7 14 I 
+: 1110 3 14 want 
+: 1114 3 14 to 
+: 1118 7 16 hear 
+- 1126
+: 1126 3 14 ’Cause 
+: 1130 3 16 that’s 
+: 1134 7 16 true, 
+: 1174 3 14 that’s 
+: 1178 3 16 what 
+: 1182 3 16 I 
+: 1186 3 19 like 
+: 1190 3 16 a
+: 1194 7 16 bout 
+: 1202 5 16 you, 
+- 1209
+: 1238 3 14 That’s 
+: 1242 3 16 what 
+: 1246 3 16 I 
+: 1250 3 16 like 
+: 1254 3 14 a
+: 1258 7 16 bout 
+: 1266 5 19 you, 
+: 1302 3 16 that’s 
+: 1306 3 14 what 
+: 1310 3 16 I 
+: 1314 3 18 like 
+: 1318 3 16 a
+: 1322 7 16 bout 
+: 1330 7 16 you, 
+- 1339
+: 1924 3 16 What 
+: 1928 3 16 I 
+: 1932 3 16 like 
+: 1936 3 13 a
+: 1940 7 16 bout 
+: 1948 9 20 you: 
+: 1984 3 19 you 
+: 1988 3 19 keep 
+: 1992 3 19 me 
+: 1996 3 19 warm 
+: 2000 7 16 at 
+: 2008 9 16 night 
+- 2019
+: 2072 3 19 Nev
+: 2076 3 19 er 
+: 2080 3 16 want 
+: 2084 3 13 to 
+: 2088 3 19 let 
+: 2092 3 19 you 
+: 2096 7 16 go, 
+: 2104 3 19 know 
+: 2108 3 19 you 
+: 2112 3 19 make 
+: 2116 3 16 me 
+: 2120 3 19 feel 
+: 2124 7 16 all 
+: 2132 7 14 right, 
+: 2164 9 16 yeah 
+- 2175
+: 2226 7 16 Go 
+: 2234 3 16 whis
+: 2238 3 16 per
+: 2242 7 16 ing 
+: 2250 7 14 in 
+: 2258 7 14 my 
+: 2266 5 16 ear, 
+: 2288 3 16 a-
+: 2292 3 19 tell 
+: 2296 3 19 me 
+: 2300 3 19 all 
+: 2304 3 16 the 
+: 2308 7 19 things 
+: 2316 3 16 that 
+: 2320 7 19 I 
+: 2328 3 19 want 
+: 2332 3 16 to 
+: 2336 5 19 hear 
+- 2342
+: 2342 3 16 ’Cause 
+: 2346 7 16 that’s 
+: 2354 7 16 true, 
+: 2390 3 16 that’s 
+: 2394 3 16 what 
+: 2398 3 16 I 
+: 2402 3 18 like 
+: 2406 3 16 a
+: 2410 7 16 bout 
+: 2418 5 16 you, 
+- 2425
+: 2450 3 16 That’s 
+: 2454 3 16 what 
+: 2458 3 16 I 
+: 2462 3 16 like 
+: 2466 3 13 a
+: 2470 7 16 bout 
+: 2478 11 19 you, 
+- 2491
+: 2514 3 16 That’s 
+: 2518 3 16 what 
+: 2522 3 16 I 
+: 2526 3 18 like 
+: 2530 3 16 a
+: 2534 7 16 bout 
+: 2542 9 16 you, 
+- 2553
+: 2574 3 16 That’s 
+: 2578 3 16 what 
+: 2582 3 16 I 
+: 2586 3 16 like 
+: 2590 3 16 a
+: 2594 7 16 bout 
+: 2602 7 16 you, 
+- 2611
+: 2640 3 16 That’s 
+: 2644 3 16 what 
+: 2648 3 16 I 
+: 2652 3 16 like 
+: 2656 3 16 a
+: 2660 7 16 bout 
+: 2668 9 16 you, 
+- 2679
+: 2704 3 16 That’s 
+: 2708 3 16 what 
+: 2712 3 16 I 
+: 2716 3 16 like 
+: 2720 3 16 a
+: 2724 7 16 bout 
+: 2732 7 16 you, 
+E

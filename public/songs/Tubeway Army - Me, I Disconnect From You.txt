@@ -1,0 +1,143 @@
+#ARTIST:Tubeway Army
+#TITLE:Me, I Disconnect From You
+#MP3:Tubeway Army - Me, I Disconnect From You.mp3
+#CREATOR:Fepo
+#GENRE:Pop
+#YEAR:1979
+#LANGUAGE:English
+#BPM:264.36
+#GAP:51560
+#VIDEO:a=IxF6aFrCw7w,co=replicas-5855a01d0deb5.jpg
+: 0 2 -1 The 
+: 4 2 -1 a
+: 8 3 2 la
+: 12 2 0 ~rm 
+: 16 4 0 rang 
+: 24 8 0 for 
+: 36 5 -5 days 
+- 43
+: 56 2 -3 You 
+: 60 2 0 could 
+: 64 2 0 tell 
+: 68 2 0 from 
+: 72 2 0 con
+: 76 2 0 ver
+: 80 2 2 sa
+: 83 2 -1 ~
+: 88 4 -1 tions 
+- 94
+: 126 3 -1 I 
+: 131 2 -1 was 
+: 135 2 2 wai
+: 139 2 -1 ting 
+: 143 5 0 by 
+: 151 5 -1 the 
+: 162 6 -5 screen 
+- 170
+: 178 2 -5 I 
+: 182 2 -1 coul
+: 185 2 0 dn’t 
+: 189 2 0 re
+: 193 2 0 cog
+: 197 2 0 nize 
+: 201 2 -1 my 
+: 205 5 0 pho
+: 212 4 -1 to
+: 220 6 -5 graph 
+- 228
+: 252 2 -1 Me, 
+: 256 2 -1 I 
+: 260 2 -1 dis
+: 264 2 -1 con
+: 268 4 -1 nect 
+* 276 7 -3 from 
+* 288 11 -7 you 
+- 301
+: 412 2 -1 I 
+: 416 2 -1 was 
+: 420 2 2 wal
+: 424 2 -1 king 
+: 428 4 0 up 
+: 436 6 -1 the 
+: 448 6 -5 stairs 
+- 456
+: 466 2 -1 Some
+: 469 3 0 thing 
+: 474 5 0 moved 
+: 482 4 0 in 
+* 488 4 2 si
+: 494 2 0 ~
+: 498 5 -1 lence 
+- 505
+: 538 2 -1 I 
+: 542 2 -1 could 
+: 545 3 2 feel 
+: 550 2 -1 his 
+: 554 4 0 mind 
+: 560 10 0 de
+: 572 10 -5 cay
+: 585 5 -10 ing 
+- 592
+: 593 2 -1 On
+: 597 2 0 ly 
+: 601 2 0 in
+: 605 2 -1 ches 
+: 609 4 -1 a
+: 616 6 0 way 
+: 624 3 -1 fro
+: 628 2 -5 ~m 
+: 632 5 -5 me 
+- 639
+: 662 2 -5 And 
+: 665 6 -1 I 
+: 673 2 -1 dis
+: 676 2 -1 con
+: 680 6 0 nect 
+* 688 7 -3 from 
+: 700 12 -7 you 
+- 714
+: 1209 5 0 Please 
+: 1217 3 2 do
+: 1221 3 0 ~n’t 
+: 1226 6 0 turn 
+: 1234 8 -1 me 
+: 1247 5 -5 off 
+- 1254
+: 1263 2 -5 I 
+: 1266 2 -1 don’t 
+: 1270 2 0 know 
+: 1274 2 0 what 
+: 1278 2 0 I’m 
+: 1282 3 0 do
+: 1287 2 0 ing 
+: 1291 5 2 out
+: 1298 6 -1 side 
+- 1306
+: 1326 2 -1 Me 
+: 1330 2 -1 and 
+: 1334 2 -1 the 
+: 1338 2 -1 te
+: 1342 2 -1 le
+: 1346 2 2 phone 
+: 1350 2 -1 that 
+: 1354 6 0 ne
+: 1362 8 -1 ver 
+: 1374 7 -5 rings 
+- 1383
+: 1391 2 -5 If 
+: 1395 2 0 you 
+: 1399 2 0 were 
+: 1403 5 0 me, 
+: 1410 4 0 what 
+: 1417 4 0 would 
+: 1425 4 -1 you 
+: 1434 7 -5 do? 
+- 1443
+: 1466 2 -1 Me, 
+: 1470 2 -1 I 
+: 1474 2 -1 dis
+: 1478 2 -1 con
+: 1482 4 -1 nect 
+* 1490 7 -3 from 
+* 1502 11 -7 you 
+E

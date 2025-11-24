@@ -1,0 +1,106 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Rachel Bloom
+#TITLE:I’m Just A Girl In Love (Season 2 Theme)
+#MP3:Crazy Ex-Girlfriend feat. Rachel Bloom - I’m Just A Girl In Love (Season 2 Theme).mp3
+#CREATOR:Relisch
+#COVER:Crazy Ex-Girlfriend feat. Rachel Bloom - I’m Just A Girl In Love (Season 2 Theme) [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Rachel Bloom - I’m Just A Girl In Love (Season 2 Theme) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:300
+#GAP:1550
+#VIDEO:v=UMHz6FiRzS8,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/e8/60/45e86038-0b28-8f57-8de4-04559f60767d/794043191060.jpg/5000x5000bb.jpg
+: 0 3 10 I’m 
+: 5 3 9 just 
+: 11 3 5 a 
+: 17 11 7 girl 
+: 33 3 2 in 
+: 39 19 5 love 
+- 60
+: 61 3 7 Lov
+: 65 3 7 ey 
+* 70 6 9 dove! 
+- 78
+: 80 1 5 I 
+: 83 4 10 can’t 
+: 89 3 10 be 
+: 94 4 9 held 
+: 99 2 9 re
+: 103 4 7 spon
+: 108 1 7 si
+: 111 2 7 ble 
+: 116 3 7 for 
+: 121 4 2 my 
+: 128 4 7 act
+: 137 5 5 ions 
+- 144
+: 145 2 10 She’s 
+: 148 2 10 an 
+: 151 3 9 in
+: 156 2 10 gén
+: 159 4 9 ue! 
+- 165
+: 167 2 0 I 
+: 170 2 2 have 
+: 174 4 3 no 
+: 179 2 3 un
+: 182 2 3 der
+: 185 3 3 ly
+: 189 3 3 ing 
+: 193 3 3 is
+: 198 1 2 sues 
+: 201 2 0 to 
+: 204 1 2 ad
+: 207 1 3 dress 
+- 209
+: 210 1 0 I’m 
+: 212 2 0 cer
+: 215 1 2 ti
+: 218 1 3 fi
+: 220 2 3 ab
+: 223 2 3 ly 
+: 227 3 3 cute 
+F 232 1 0 and 
+F 234 2 0 a
+F 238 3 -3 dor
+F 242 2 -3 ab
+F 245 1 7 ly 
+F 247 2 7 ob
+F 251 4 7 sessed 
+- 257
+: 259 2 5 They 
+: 263 3 10 say 
+: 267 3 10 love 
+: 273 3 7 makes 
+: 279 2 7 you 
+* 285 7 10 cra
+* 293 3 12 zy 
+- 298
+: 299 4 9 There
+: 304 2 9 fore 
+: 307 3 10 you 
+: 313 2 10 can’t 
+: 318 4 7 call 
+: 323 3 7 her 
+: 329 7 10 cra
+: 338 4 12 zy 
+- 344
+: 348 1 5 ’Cause 
+: 351 4 10 when 
+: 357 3 10 you 
+: 362 5 9 call 
+: 368 4 8 her 
+: 374 4 7 cra
+: 379 2 6 ~
+: 383 3 7 zy 
+- 388
+: 389 1 7 You’re 
+: 391 2 9 just 
+: 396 3 10 cal
+: 400 4 7 ling 
+: 406 5 2 her 
+: 412 4 5 in 
+* 418 5 10 love 
+- 425
+F 429 10 14 Blam! 
+E

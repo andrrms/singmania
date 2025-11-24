@@ -1,0 +1,137 @@
+#ARTIST:Moulin Rouge (Nicole Kidman)
+#TITLE:One Day I’ll Fly Away
+#MP3:Moulin Rouge (Nicole Kidman) - One Day I’ll Fly Away.mp3
+#CREATOR:SuperSimo
+#GENRE:Soundtrack
+#YEAR:2001
+#LANGUAGE:English
+#BPM:281.46
+#GAP:17000
+#VIDEO:a=2ysb97nbnrs,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/7c/e1/587ce150-44d9-e1fa-966c-18b72cd666ac/00602547876706.rgb.jpg/5000x5000bb.jpg,bg=moulin-rouge-5e93417c7f19c.jpg
+: 0 17 27 I 
+: 55 3 28 fol
+: 61 8 23 low 
+- 71
+: 105 2 25 The 
+: 113 17 27 night 
+- 132
+: 225 5 25 Can’t 
+: 247 12 23 stand 
+: 287 3 25 the 
+: 293 15 23 light 
+- 310
+: 381 8 27 When 
+: 398 4 28 will 
+: 408 10 23 I 
+- 420
+: 434 2 25 Be
+: 442 11 27 gin 
+- 455
+: 524 4 25 To 
+: 530 11 23 live 
+: 565 7 25 a
+: 579 7 23 gain 
+- 588
+: 645 4 18 One 
+: 653 6 23 day 
+: 665 6 27 I’ll 
+* 673 16 28 fly 
+: 698 3 27 a
+: 702 9 27 way 
+- 713
+: 795 5 25 Leave 
+: 802 7 23 all 
+: 811 3 25 this 
+: 822 13 27 to 
+F 846 1 26 yes
+F 850 3 24 ter
+F 856 5 22 day 
+- 863
+: 908 3 20 What 
+F 914 5 23 more 
+: 923 5 26 could 
+: 929 7 30 your 
+: 941 8 30 love 
+- 951
+: 957 13 30 Do 
+: 980 3 28 for 
+: 988 5 28 me 
+- 995
+: 1030 5 26 When 
+: 1040 6 25 will 
+* 1053 9 24 love 
+: 1070 3 25 be 
+- 1075
+: 1101 8 31 Through 
+: 1125 3 30 with 
+: 1131 4 30 me 
+- 1137
+: 1190 3 23 Why 
+: 1197 3 26 live 
+: 1204 7 30 life 
+- 1213
+: 1236 5 35 From 
+: 1243 10 35 dream 
+: 1266 5 33 to 
+: 1273 5 33 dream 
+- 1280
+: 1313 2 28 And 
+: 1316 7 31 dread 
+: 1338 7 30 the 
+: 1349 6 26 day 
+- 1357
+: 1380 2 23 When 
+* 1384 46 26 drea
+: 1433 10 25 ming 
+- 1445
+: 1496 13 23 Ends 
+- 1511
+: 2053 7 9 One 
+: 2068 6 26 day 
+: 2076 5 30 I’ll 
+* 2085 15 31 fly 
+: 2108 4 30 a
+: 2113 11 30 way 
+- 2126
+: 2182 5 28 Leave 
+: 2191 4 26 all 
+: 2199 5 28 this 
+: 2210 10 30 to 
+: 2228 2 22 yes
+: 2234 3 9 ter
+: 2239 5 9 day 
+- 2246
+: 2303 3 14 Why 
+: 2310 1 26 li
+: 2312 4 28 ~ve 
+: 2322 7 33 life 
+: 2339 2 38 from 
+* 2350 12 38 dream 
+: 2373 3 36 to 
+: 2379 9 36 dream 
+- 2390
+: 2505 3 31 And 
+* 2510 16 34 dread 
+: 2539 3 33 the 
+: 2547 9 29 day 
+- 2558
+: 2600 2 26 When 
+: 2608 41 29 drea
+: 2650 13 28 ming 
+- 2665
+: 2717 14 26 Ends 
+- 2733
+: 2799 5 18 One 
+: 2806 7 22 day 
+: 2822 8 27 I’ll 
+* 2834 24 28 fly 
+- 2860
+: 2879 2 27 A
+: 2882 13 27 way 
+- 2897
+: 2969 8 25 Fly 
+: 3033 8 23 fly 
+- 3043
+: 3130 2 25 A
+: 3134 14 23 way 
+E

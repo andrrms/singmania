@@ -1,0 +1,373 @@
+#ARTIST:The Chordettes
+#TITLE:Mr. Sandman
+#MP3:The Chordettes - Mr. Sandman.mp3
+#CREATOR:RetroGirl
+#GENRE:Oldies
+#YEAR:1954
+#LANGUAGE:English
+#BPM:217.68
+#GAP:2600
+#VIDEO:a=PKnPrbPK5vA,v=VNUgsbKisp8,co=https://lastfm.freetls.fastly.net/i/u/ar0/7cc87a60585e6f831f50b16776b21a7e.jpg
+#VIDEOGAP:-1.0
+: 0 2 -3 Bung 
+: 4 2 1 bung 
+: 8 2 4 bung 
+: 12 2 8 bung 
+: 16 2 6 bung 
+: 20 2 4 bung 
+: 24 2 1 bung 
+: 28 2 -3 bung 
+: 32 2 -1 bung 
+: 36 2 2 bung 
+: 40 2 6 bung 
+: 44 2 9 bung 
+: 48 4 8 bung 
+: 56 2 -8 bung 
+- 60
+: 64 3 -3 Bung 
+: 68 2 1 bung 
+: 72 2 4 bung 
+: 76 2 8 bung 
+: 80 2 6 bung 
+: 84 2 4 bung 
+: 88 2 1 bung 
+: 92 2 -3 bung 
+: 96 2 -1 bung 
+: 100 2 2 bung 
+: 104 2 6 bung 
+: 109 2 9 bung 
+: 113 3 8 bung 
+- 118
+: 121 2 4 Mis
+: 125 1 6 ter 
+: 129 3 8 Sand
+: 134 4 6 man 
+- 140
+: 162 2 8 Bring 
+: 165 2 8 me 
+: 169 2 6 a 
+: 174 7 8 dream 
+- 183
+: 197 3 9 Make 
+: 201 3 9 him 
+: 206 1 8 the 
+: 209 3 9 cut
+: 213 2 9 est 
+: 221 3 8 that 
+: 225 4 2 I’ve 
+: 230 2 2 ev
+: 233 3 1 er 
+: 237 6 2 seen 
+- 245
+: 262 3 11 Give 
+: 266 3 11 him 
+: 270 3 9 two 
+: 274 2 11 lips 
+: 286 2 6 like 
+: 290 3 1 ro
+: 294 2 1 ses 
+* 297 2 -1 and 
+* 302 6 1 clo
+* 309 5 4 vers 
+- 316
+: 326 2 11 And 
+: 330 3 11 tell 
+: 334 2 9 him 
+: 338 3 11 that 
+: 342 2 9 his 
+: 346 3 11 lone
+: 350 2 9 some 
+: 354 6 12 nights 
+: 362 7 12 are 
+: 370 4 13 o
+: 375 5 11 ver 
+- 382
+: 386 3 8 Sand
+: 391 4 6 man 
+- 397
+: 418 3 8 I’m 
+: 422 4 8 so 
+: 427 2 6 a
+: 430 8 8 lone 
+- 440
+: 454 3 9 Don’t 
+: 458 3 9 have 
+: 462 2 8 no
+: 466 3 9 bo
+: 470 7 9 dy 
+: 478 3 8 to 
+* 482 7 2 call 
+* 490 3 1 my 
+* 494 7 2 own 
+- 503
+: 515 5 -1 Please 
+: 522 3 2 turn 
+: 526 7 6 on 
+: 534 3 9 your 
+: 538 3 9 mag
+: 542 2 9 ic 
+: 546 15 11 beam 
+- 563
+: 570 2 9 Mis
+: 574 2 11 ter 
+: 578 7 13 Sand
+: 586 6 13 man 
+: 594 3 13 bring 
+: 598 3 9 me 
+: 602 3 13 a 
+: 606 10 9 dream 
+- 618
+: 630 2 -4 Bung 
+: 634 2 -2 bung 
+: 638 2 0 bung 
+: 642 1 1 bung 
+- 645
+: 646 2 5 Bung 
+: 650 2 8 bung 
+: 654 2 12 bung 
+: 658 2 10 bung 
+: 662 2 8 bung 
+: 666 2 5 bung 
+: 670 2 1 bung 
+: 674 2 3 bung 
+: 678 2 6 bung 
+: 682 2 10 bung 
+: 686 2 13 bung 
+: 690 1 12 bung 
+- 693
+: 694 2 -4 Bung 
+: 698 2 -2 bung 
+: 702 2 0 bung 
+: 706 2 1 bung 
+- 710
+: 711 2 5 Bung 
+: 714 2 8 bung 
+: 718 2 12 bung 
+: 722 2 10 bung 
+: 726 2 8 bung 
+: 730 3 5 bung 
+: 735 2 1 bung 
+: 738 2 3 bung 
+: 743 2 6 bung 
+: 746 2 10 bung 
+: 750 2 13 bung 
+: 754 2 12 bung 
+- 758
+: 763 2 -3 Mis
+: 767 1 -1 ter 
+: 770 4 1 Sand
+: 775 23 -1 man 
+- 800
+: 801 3 1 Bring 
+: 805 2 1 me 
+: 808 3 -1 a 
+: 813 13 1 dream 
+- 828
+: 835 2 2 Make 
+: 839 2 2 him 
+: 842 2 1 the 
+: 846 1 1 cut
+: 848 1 2 ~
+: 850 4 2 est 
+: 858 2 1 that 
+: 861 4 -5 I’ve 
+: 866 2 -5 ev
+: 869 2 -6 er 
+: 873 6 -5 seen 
+- 881
+: 895 3 1 Give 
+: 899 2 1 him 
+: 903 2 -1 the 
+: 906 1 -1 word
+: 908 9 1 ~ 
+: 918 2 -1 that 
+: 921 3 -6 I’m 
+: 925 3 -6 not 
+: 929 2 -8 a 
+: 933 6 -6 rov
+: 940 4 -3 er 
+- 946
+: 955 2 4 Then 
+: 959 3 4 tell 
+: 963 2 2 him 
+: 966 3 4 that 
+: 970 2 2 his 
+: 974 3 4 lone
+: 978 2 2 some 
+* 982 2 4 nights
+* 985 2 5 ~ 
+* 990 5 5 are 
+* 996 4 6 o
+* 1001 8 4 ver 
+- 1011
+: 1012 4 1 Sand
+: 1017 10 -1 man 
+- 1029
+: 1043 3 1 I’m 
+: 1048 2 1 so 
+: 1051 2 -1 a
+: 1054 10 1 lone 
+- 1066
+: 1077 2 2 Don’t 
+: 1080 3 2 have 
+: 1085 1 1 no
+: 1088 4 2 bo
+: 1093 5 2 dy 
+: 1099 3 1 to 
+: 1104 6 -5 call 
+: 1111 3 -6 my 
+: 1115 7 -5 own 
+- 1124
+: 1134 5 -8 Please 
+: 1142 2 -5 turn 
+: 1145 7 -1 on 
+: 1153 2 2 your 
+: 1156 3 2 mag
+: 1160 3 2 ic 
+: 1164 13 4 beam 
+- 1179
+: 1187 2 2 Mis
+: 1190 2 4 ter 
+: 1194 6 6 Sand
+: 1201 6 6 man 
+* 1209 3 6 bring 
+* 1213 2 2 me 
+* 1216 1 2 a
+* 1218 5 6 ~ 
+* 1225 13 2 dream 
+- 1240
+: 1243 2 -4 Bung 
+: 1247 2 -2 bung 
+: 1251 2 0 bung 
+: 1254 2 1 bung 
+- 1258
+: 1259 2 5 Bung 
+: 1262 2 8 bung 
+: 1266 2 12 bung 
+: 1270 2 10 bung 
+: 1274 2 8 bung 
+: 1278 2 5 bung 
+: 1282 2 1 bung 
+: 1286 2 -2 bung 
+: 1290 2 1 bung 
+: 1294 2 5 bung 
+: 1298 2 8 bung 
+: 1302 4 7 bung 
+: 1310 2 -9 bung 
+- 1314
+: 1317 3 -2 Bung 
+: 1322 2 1 bung 
+: 1326 3 5 bung 
+: 1330 3 9 bung 
+: 1334 2 7 bung 
+: 1337 2 5 bung 
+: 1341 3 1 bung 
+: 1345 2 -2 bung 
+: 1349 2 -4 bung 
+: 1353 2 -2 bung 
+: 1356 2 1 bung 
+: 1361 2 5 bung 
+: 1365 2 3 bung 
+- 1369
+: 1373 2 3 Mis
+: 1377 2 5 ter 
+: 1381 3 7 Sand
+: 1386 6 5 man 
+- 1394
+F 1398 10 3 Yes? 
+- 1410
+: 1414 4 8 Bring 
+: 1419 1 8 us 
+: 1422 2 6 a 
+: 1425 10 8 dream 
+- 1437
+: 1438 2 5 Give 
+: 1441 1 6 him 
+: 1443 2 7 a 
+: 1446 7 8 pair 
+: 1454 2 7 of 
+: 1458 6 8 eyes 
+: 1466 7 8 with 
+: 1474 1 6 a 
+: 1478 2 0 come-
+: 1481 3 1 hith
+: 1485 2 0 er 
+: 1490 3 1 gleam
+: 1494 1 0 ~ 
+- 1497
+: 1502 1 0 Give 
+: 1504 1 1 him 
+: 1506 2 3 a 
+: 1509 7 7 lone
+: 1518 3 5 ly 
+: 1522 14 7 heart 
+: 1538 2 5 like 
+: 1542 2 0 Pa
+: 1545 3 1 ~
+: 1549 3 -1 gli
+: 1553 5 1 ac
+: 1561 5 4 ci 
+- 1568
+: 1578 2 10 And 
+: 1582 3 10 lots 
+: 1586 2 8 of 
+: 1590 3 10 wav
+: 1594 2 8 y 
+: 1598 3 10 hair 
+: 1602 3 8 like 
+: 1606 7 11 Lib
+: 1614 7 11 er
+: 1622 3 12 a
+: 1626 5 10 ce 
+- 1633
+: 1647 2 3 Mis
+: 1651 1 5 ter 
+: 1654 3 7 Sand
+: 1659 8 5 man 
+- 1669
+: 1670 4 7 Some
+: 1675 2 7 one 
+* 1678 3 5 to 
+* 1682 9 7 hold 
+- 1693
+: 1706 3 9 Would 
+: 1710 3 9 be 
+: 1714 2 8 so 
+: 1718 2 9 peach
+: 1722 7 9 y 
+: 1730 2 8 be
+: 1734 3 2 fore 
+: 1738 2 2 we’re 
+: 1741 4 1 too 
+: 1746 6 2 old 
+- 1754
+: 1758 6 1 So 
+: 1766 6 -1 please 
+: 1773 4 2 turn 
+: 1778 7 6 on 
+: 1786 2 9 your 
+: 1790 3 9 mag
+: 1794 2 9 ic 
+: 1797 17 11 beam 
+- 1816
+: 1822 3 9 Mis
+: 1826 2 11 ter 
+: 1830 7 13 Sand
+: 1838 6 13 man 
+: 1847 3 13 bring 
+: 1851 3 9 us 
+- 1856
+: 1862 6 13 Please, 
+: 1871 5 13 please, 
+: 1878 6 13 please 
+- 1886
+: 1887 2 9 Mis
+: 1891 1 11 ter 
+: 1895 6 13 Sand
+* 1903 15 13 man 
+- 1920
+: 1927 7 13 Bring 
+: 1935 5 9 us 
+: 1942 15 13 a 
+: 1958 55 9 dream 
+E

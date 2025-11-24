@@ -1,0 +1,336 @@
+#ARTIST:Frank Popp Ensemble
+#TITLE:Hip Teens Don’t Wear Blue Jeans
+#MP3:Frank Popp Ensemble - Hip Teens Don’t Wear Blue Jeans.mp3
+#CREATOR:Basti
+#YEAR:2001
+#LANGUAGE:English
+#BPM:280.2
+#GAP:17380
+#VIDEO:a=jI6PBpBbQ2M,co=https://i.ytimg.com/vi/jI6PBpBbQ2M/maxresdefault.jpg,co-crop=280-0-720-720,bg=https://www1.wdr.de/fernsehen/rockpalast/bands/frank-popp-ensemble--xmas-special-nulldrei--backstage-102~_v-gseagaleriexl.jpg
+: 0 3 2 Eve
+: 4 3 -2 ry
+: 8 3 0 bo
+: 12 3 -2 dy 
+: 16 7 0 knows 
+: 24 3 -2 us 
+- 29
+: 60 3 -7 We’re 
+: 64 3 -5 al
+: 68 3 -5 ways 
+* 80 3 -2 where 
+: 84 3 -5 it’s 
+: 92 3 -5 at 
+- 97
+: 128 3 2 Eve
+: 132 3 -2 ry
+: 136 5 0 one 
+: 144 7 0 meets 
+: 152 5 -2 us 
+- 159
+: 188 3 -7 And 
+: 192 5 -5 wants 
+: 204 3 -5 to 
+: 208 3 -2 join 
+* 212 3 0 our 
+: 220 9 -5 gang 
+- 231
+: 256 3 2 We 
+: 260 3 0 know 
+* 268 9 0 how 
+: 284 3 -7 to 
+: 288 3 -5 swing 
+: 292 3 -5 our 
+* 300 7 -2 thing 
+- 309
+: 320 3 2 We 
+: 324 3 0 know 
+: 332 7 0 where 
+: 348 3 -7 the 
+: 352 3 -5 in-
+: 356 5 -5 crowd 
+: 364 7 -5 is 
+- 373
+: 384 7 2 We’re 
+: 392 3 0 the 
+* 396 15 0 guys 
+: 412 3 -7 to 
+: 416 3 -5 see 
+: 420 7 -5 you 
+: 428 3 -2 right 
+- 433
+: 440 3 -7 If 
+: 444 3 -7 you 
+: 448 3 -5 wan
+: 452 3 -5 na 
+: 460 3 -2 set 
+: 468 3 0 the 
+: 476 3 2 night 
+: 484 3 -5 a
+: 492 5 -5 live 
+- 499
+F 512 4 -5 Hey! 
+F 528 1 -5 Eve
+F 530 3 -5 ry
+F 534 3 -5 bo
+F 538 2 -5 dy! 
+- 542
+F 544 4 -5 One, 
+F 560 4 -5 Two! 
+F 576 4 -5 One, 
+F 584 4 -5 Two, 
+F 592 4 -5 Three, 
+F 600 4 -5 Four! 
+- 606
+F 608 24 -5 Aaaah 
+- 634
+* 640 3 6 Hip 
+* 648 9 6 teens 
+- 659
+: 688 3 9 Don’t 
+: 692 5 6 wear 
+* 704 7 4 blue 
+* 712 9 2 jeans 
+- 723
+: 756 3 -1 ’Cause 
+: 760 3 2 we’re 
+* 768 7 6 cool 
+* 776 9 6 cats 
+- 787
+: 816 3 9 We 
+: 820 3 6 got 
+* 828 9 4 sou
+* 838 13 2 ~
+* 852 1 -1 ~
+* 854 1 -3 ~
+* 856 1 -1 ~
+* 858 9 2 ~
+* 868 3 -1 ~l 
+- 873
+* 896 3 6 Hip 
+* 904 9 6 teens 
+- 915
+: 944 3 9 Don’t 
+: 948 5 6 wear 
+* 960 7 4 blue 
+* 968 9 2 jeans 
+- 979
+: 1012 3 -1 ’Cause 
+: 1016 1 2 we’re 
+: 1018 2 2 the 
+* 1024 7 6 in-
+* 1032 9 6 crowd 
+- 1043
+: 1072 7 2 On 
+: 1080 2 -1 the 
+: 1084 3 -1 sce
+: 1088 17 2 ~ne 
+- 1107
+: 1280 3 2 Eve
+: 1284 3 -2 ry
+: 1288 3 0 o
+: 1292 3 -5 ~ne 
+: 1296 7 0 join 
+: 1304 5 -2 us 
+- 1311
+: 1344 3 -5 There’s 
+: 1348 2 -5 a 
+: 1352 7 -5 few 
+* 1360 2 7 sim
+: 1364 3 -5 ple 
+: 1372 11 -5 rules 
+- 1385
+: 1404 3 -5 You 
+: 1408 3 2 need 
+: 1412 3 -2 the 
+: 1416 3 0 right 
+: 1424 3 0 look 
+: 1432 13 -5 babe 
+- 1447
+: 1460 11 -7 ’Cause 
+: 1472 3 -5 we 
+: 1476 5 -5 don’t 
+: 1488 2 -2 suf
+: 1492 3 -5 fer 
+: 1496 2 -5 the 
+: 1500 11 -5 fools 
+- 1513
+: 1532 3 -5 E
+: 1536 3 2 ter
+: 1540 3 0 nal 
+: 1548 5 0 yak, 
+: 1564 3 2 that 
+: 1568 3 -2 real
+: 1572 5 -5 ly 
+: 1580 9 -5 goes 
+- 1591
+: 1600 3 2 High 
+: 1604 5 5 heel 
+: 1612 5 0 snea
+: 1620 7 -2 kers 
+: 1628 3 -5 with 
+: 1632 3 -2 poin
+: 1636 5 -5 ted 
+: 1644 9 -5 toes 
+- 1655
+: 1664 3 2 Mi
+: 1668 3 2 ni 
+: 1676 5 0 skirts 
+: 1692 3 -5 and 
+: 1696 3 2 Chel
+: 1700 3 -2 sea 
+: 1708 5 0 boots 
+- 1715
+: 1724 3 2 The 
+: 1728 3 5 smar
+: 1732 3 2 test 
+: 1740 3 0 boys 
+: 1748 3 2 in 
+: 1756 7 -2 vel
+: 1764 3 -5 vet 
+: 1772 7 -5 suits 
+- 1781
+F 1792 4 -5 Hey! 
+F 1808 1 -5 Eve
+F 1810 3 -5 ry
+F 1814 3 -5 bo
+F 1818 2 -5 dy! 
+- 1822
+F 1824 4 -5 One, 
+F 1840 4 -5 Two! 
+F 1856 4 -5 One, 
+F 1864 4 -5 Two, 
+F 1872 4 -5 Three, 
+F 1880 4 -5 Four! 
+- 1886
+F 1888 24 -5 Aaaah 
+- 1914
+* 1920 3 6 Hip 
+* 1928 9 6 teens 
+- 1939
+: 1968 3 9 Don’t 
+: 1972 5 6 wear 
+* 1984 7 4 blue 
+* 1992 9 2 jeans 
+- 2003
+: 2036 3 -1 ’Cause 
+: 2040 3 2 we’re 
+* 2048 7 6 cool 
+* 2056 9 6 cats 
+- 2067
+: 2096 3 9 We 
+: 2100 3 6 got 
+* 2108 9 4 sou
+* 2118 17 2 ~l 
+- 2137
+* 2176 3 6 Hip 
+* 2184 9 6 teens 
+- 2195
+: 2224 3 11 Don’t 
+: 2228 5 6 wear 
+* 2240 7 4 blue 
+* 2248 9 2 jeans 
+- 2259
+: 2292 3 -1 ’Cause 
+: 2296 3 2 we’re 
+: 2300 3 -1 the 
+* 2304 7 6 in-
+* 2312 9 6 crowd 
+- 2323
+: 2352 7 11 On 
+: 2360 3 6 the 
+* 2364 7 11 sce
+* 2372 3 4 ~
+* 2376 11 2 ~ne 
+- 2389
+F 2688 4 -5 Hey! 
+F 2704 1 -5 Eve
+F 2706 3 -5 ry
+F 2710 3 -5 bo
+F 2714 2 -5 dy! 
+- 2718
+F 2720 4 -5 One, 
+F 2736 4 -5 Two! 
+F 2752 4 -5 One, 
+F 2760 4 -5 Two, 
+F 2768 4 -5 Three, 
+F 2776 4 -5 Four! 
+- 2782
+F 2784 24 -5 Aaaah 
+- 2810
+* 2816 3 6 Hip 
+* 2824 9 6 teens 
+- 2835
+: 2864 3 9 Don’t 
+: 2868 5 6 wear 
+* 2880 7 4 blue 
+* 2888 9 2 jeans 
+- 2899
+: 2932 3 -1 ’Cause 
+: 2936 3 2 we’re 
+* 2944 7 6 cool 
+* 2952 9 6 cats 
+- 2963
+: 2992 3 11 We 
+: 2996 3 11 got 
+* 3004 15 11 soul, 
+: 3020 3 6 we 
+: 3028 3 2 got 
+* 3036 9 4 sou
+* 3046 13 2 ~
+* 3060 3 -1 ~l 
+- 3065
+* 3072 3 6 Hip 
+* 3080 9 6 teens 
+- 3091
+: 3120 3 -1 Don’t 
+: 3124 9 6 wear 
+* 3136 7 4 blue 
+* 3144 9 2 jeans 
+- 3155
+: 3188 3 -1 ’Cause 
+: 3192 3 2 we’re 
+: 3196 3 -1 the 
+* 3200 5 6 in-
+* 3208 7 6 crowd 
+- 3217
+: 3248 7 4 On 
+: 3256 3 -1 the 
+* 3260 3 6 sce
+* 3264 3 4 ~
+* 3268 13 2 ~ne 
+- 3283
+: 3300 3 11 Oh
+: 3304 3 6 ~ 
+* 3308 3 9 no
+* 3312 3 4 ~
+* 3316 3 6 ~ 
+- 3321
+* 3328 3 6 Hip 
+* 3336 9 6 teens 
+- 3347
+: 3376 3 9 Don’t 
+: 3380 7 9 wear 
+* 3392 7 4 blue 
+* 3400 9 2 jeans 
+- 3411
+: 3444 3 -1 ’Cause 
+: 3448 3 2 we’re 
+* 3456 7 6 cool 
+* 3464 9 6 cats 
+- 3475
+: 3504 3 11 We 
+: 3508 3 14 got 
+* 3516 15 11 sou
+* 3532 1 6 ~
+* 3534 1 4 ~
+* 3536 9 2 ~l 
+- 3547
+* 3584 3 11 Hip 
+* 3592 9 11 teens 
+- 3603
+* 3648 7 13 Blue 
+* 3656 9 11 jeans 
+- 3667
+* 3712 7 11 In-
+* 3720 9 11 crowd 
+E

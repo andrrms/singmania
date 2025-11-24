@@ -1,0 +1,405 @@
+#ARTIST:Santiano feat. Nathan Evans
+#TITLE:Santiano
+#MP3:Santiano feat. Nathan Evans - Santiano.mp3
+#CREATOR:Fepo
+#COVER:Santiano feat. Nathan Evans - Santiano [CO].jpg
+#BACKGROUND:Santiano feat. Nathan Evans - Santiano [BG].jpg
+#YEAR:2021
+#LANGUAGE:English
+#BPM:229.97
+#GAP:10680
+#VIDEO:v=WDk8Ylvv7LI,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/88/bb/12/88bb12ae-ecbf-ddf6-6eb6-afa0583c78d7/22UMGIM86184.rgb.jpg/5000x5000bb.jpg
+: 0 4 11 Fare
+: 8 3 4 well 
+: 15 3 4 now, 
+: 20 2 6 my 
+: 24 4 7 love, 
+: 32 2 7 send 
+: 36 2 9 me 
+: 40 6 11 off 
+: 48 2 11 with 
+: 52 2 11 a 
+: 56 4 9 kiss 
+- 62
+: 64 2 14 Heave 
+: 68 2 14 a
+: 72 5 11 way 
+- 78
+: 80 2 4 Straight 
+: 84 2 4 a
+: 88 6 4 head 
+: 96 2 4 San
+: 100 2 6 ti
+: 104 2 4 a
+: 108 2 2 ~
+: 112 6 2 no 
+- 128
+: 132 2 2 The 
+: 136 6 12 tears 
+: 144 2 12 are 
+: 148 2 12 as 
+: 152 5 12 sal
+: 160 2 6 ty 
+: 164 2 7 and 
+: 168 6 9 deep 
+: 176 2 9 as 
+: 180 2 9 the 
+: 184 5 6 sea 
+- 190
+: 192 2 4 But 
+: 196 2 6 my 
+: 200 9 7 sai
+: 212 2 11 lor’s 
+: 216 4 9 heart 
+: 224 4 6 as 
+: 232 4 4 keen 
+: 240 4 4 to 
+: 247 5 4 go 
+- 254
+: 256 4 11 As 
+: 264 8 4 far 
+: 276 2 6 the 
+: 280 4 7 wind 
+: 288 2 7 in 
+: 292 2 9 our 
+: 296 4 11 sails 
+: 304 4 11 may 
+: 312 4 9 blow 
+- 318
+: 320 2 14 Heave 
+: 324 2 14 a
+: 328 4 11 way 
+- 334
+: 336 2 4 Straight 
+: 340 2 4 a
+: 344 6 4 head 
+: 352 2 4 San
+: 356 2 6 ti
+: 360 2 4 a
+: 364 2 2 ~
+: 368 6 2 no 
+- 384
+: 392 5 12 Bright 
+* 400 4 12 the 
+* 408 4 12 day 
+* 416 2 6 and 
+* 420 2 9 the 
+* 424 4 9 hea
+: 432 4 9 vens 
+: 440 5 6 know 
+- 446
+: 448 2 4 We’ll 
+: 452 2 6 be 
+: 456 6 7 kings 
+: 468 2 11 wher
+: 472 5 9 e
+: 480 4 6 ver 
+: 488 6 4 we 
+: 496 5 4 may 
+: 504 4 4 go 
+- 511
+: 513 4 11 Hoist 
+: 519 3 4 e
+: 524 2 4 ve
+: 528 2 4 ry 
+: 532 2 4 bit 
+: 535 4 7 of 
+: 544 2 7 sail, 
+: 548 2 9 bring 
+: 552 5 11 us 
+: 560 2 11 to 
+: 564 2 9 full 
+: 568 3 9 speed 
+- 574
+: 576 2 14 Heave 
+* 580 2 14 a
+* 584 5 11 way 
+- 590
+: 592 2 4 Straight 
+: 596 2 4 a
+: 600 6 4 head 
+: 608 2 4 San
+: 612 2 6 ti
+: 616 2 4 a
+: 620 2 2 ~
+: 624 6 2 no 
+- 640
+: 648 3 12 Who 
+: 652 5 12 knows 
+: 660 3 12 what 
+: 664 2 6 ou
+: 670 2 7 r 
+: 678 3 9 fate 
+: 682 3 9 may 
+: 686 3 6 be? 
+- 700
+: 704 2 4 But 
+: 708 2 6 the 
+: 712 6 7 whole 
+: 724 2 11 wide 
+: 728 5 9 world 
+: 736 5 6 is 
+: 744 6 4 ours 
+: 752 6 4 to 
+: 760 3 4 sea 
+- 766
+: 768 4 11 As 
+: 776 8 4 far 
+: 788 2 6 the 
+: 792 4 7 wind 
+: 800 2 7 in 
+: 804 2 9 our 
+: 808 4 11 sails 
+: 816 4 11 may 
+: 824 4 9 blow 
+- 830
+: 832 2 14 Heave 
+: 836 2 14 a
+: 840 4 11 way 
+- 846
+: 848 2 4 Straight 
+: 852 2 4 a
+: 856 6 4 head 
+: 864 2 4 San
+: 868 2 6 ti
+: 872 2 4 a
+: 876 2 2 ~
+: 880 6 2 no 
+- 896
+: 904 5 12 Bright 
+: 912 4 12 the 
+: 920 4 12 day 
+: 928 2 6 and 
+: 932 2 9 the 
+: 936 4 9 hea
+: 944 4 9 vens 
+: 952 5 6 know 
+- 958
+: 960 2 4 We’ll 
+: 964 2 6 be 
+: 968 6 7 kings 
+: 980 2 11 wher
+: 984 5 9 e
+: 992 4 6 ver 
+: 1000 6 4 we 
+: 1008 5 4 may 
+: 1016 4 4 go 
+- 1022
+: 1024 6 11 I’m 
+: 1032 2 4 fine 
+: 1036 2 4 with
+: 1040 2 4 out 
+: 1044 2 6 a 
+: 1048 5 7 roof 
+- 1054
+: 1056 2 7 And 
+: 1060 2 9 a 
+: 1064 5 11 house 
+: 1072 5 11 of 
+: 1080 5 9 stone 
+- 1086
+: 1088 2 14 Heave 
+: 1092 2 14 a
+: 1096 5 11 way 
+- 1102
+: 1104 2 4 Straight 
+: 1108 2 4 a
+: 1112 6 4 head 
+: 1120 2 4 San
+: 1124 2 6 ti
+: 1128 2 4 a
+: 1132 2 2 ~
+: 1136 6 2 no 
+- 1152
+: 1160 5 12 Home 
+: 1168 4 12 for 
+: 1175 4 12 me 
+: 1184 2 6 is 
+: 1188 2 7 the 
+: 1192 6 9 sea 
+: 1200 5 9 we 
+: 1208 3 6 roam 
+- 1214
+: 1216 2 4 And 
+: 1220 2 6 the 
+: 1224 9 7 roof 
+: 1236 2 11 of 
+: 1240 4 9 stars 
+: 1248 3 6 is 
+: 1256 5 4 mine 
+: 1264 4 4 a
+: 1271 4 4 lone 
+- 1305
+: 1536 4 11 As 
+: 1544 8 4 far 
+: 1556 2 6 the 
+: 1560 4 7 wind 
+: 1568 2 7 in 
+: 1572 2 9 our 
+: 1576 4 11 sails 
+: 1584 4 11 may 
+: 1592 4 9 blow 
+- 1598
+: 1600 2 14 Heave 
+* 1604 2 14 a
+* 1608 4 11 way 
+- 1614
+: 1616 2 4 Straight 
+: 1620 2 4 a
+: 1624 6 4 head 
+: 1632 2 4 San
+: 1636 2 6 ti
+: 1640 2 4 a
+: 1644 2 2 ~
+: 1648 6 2 no 
+- 1664
+: 1672 5 12 Bright 
+: 1680 4 12 the 
+: 1688 4 12 day 
+: 1696 2 6 and 
+: 1700 2 9 the 
+: 1704 4 9 hea
+: 1712 4 9 vens 
+: 1720 5 6 know 
+- 1726
+: 1728 2 4 We’ll 
+: 1732 2 6 be 
+: 1736 6 7 kings 
+: 1748 2 11 wher
+: 1752 5 9 e
+: 1760 4 6 ver 
+: 1768 6 4 we 
+: 1776 5 4 may 
+: 1784 4 4 go 
+- 1790
+: 1792 4 11 Fare
+: 1800 3 4 well 
+: 1807 3 4 now, 
+: 1812 2 6 my 
+: 1816 4 7 love, 
+: 1824 2 7 send 
+: 1828 2 9 me 
+: 1832 6 11 off 
+: 1840 2 11 with 
+: 1844 2 11 a 
+: 1848 4 9 kiss 
+- 1854
+: 1856 2 14 Heave 
+: 1860 2 14 a
+: 1864 5 11 way 
+- 1870
+: 1872 2 4 Straight 
+: 1876 2 4 a
+: 1880 6 4 head 
+: 1888 2 4 San
+: 1892 2 6 ti
+: 1896 2 4 a
+: 1900 2 2 ~
+: 1904 6 2 no 
+- 1920
+: 1924 2 6 The 
+: 1928 6 12 tears 
+: 1936 2 12 are 
+: 1940 2 12 as 
+: 1944 5 12 sal
+: 1952 2 6 ty 
+: 1956 2 7 and 
+: 1960 6 9 deep 
+: 1968 2 9 as 
+: 1972 2 9 the 
+: 1976 5 6 sea 
+- 1982
+: 1984 2 4 But 
+: 1988 2 6 my 
+: 1992 9 7 sai
+: 2004 2 11 lor’s 
+: 2008 4 9 heart 
+: 2016 4 6 as 
+: 2024 4 4 keen 
+: 2032 4 4 to 
+: 2040 4 4 go 
+- 2046
+: 2048 4 11 As 
+: 2056 8 4 far 
+: 2068 2 6 the 
+: 2072 4 7 wind 
+: 2080 2 7 in 
+: 2084 2 9 our 
+: 2088 4 11 sails 
+: 2096 4 11 may 
+: 2104 4 9 blow 
+- 2110
+: 2112 2 14 Heave 
+: 2116 2 14 a
+: 2120 4 11 way 
+- 2126
+: 2128 2 4 Straight 
+: 2132 2 4 a
+: 2136 6 4 head 
+: 2144 2 4 San
+: 2148 2 6 ti
+: 2152 2 4 a
+: 2156 2 2 ~
+: 2160 6 2 no 
+- 2176
+: 2184 5 12 Bright 
+: 2192 4 12 the 
+: 2200 4 12 day 
+: 2208 2 6 and 
+: 2212 2 9 the 
+: 2216 4 9 hea
+: 2224 4 9 vens 
+: 2232 5 6 know 
+- 2238
+: 2240 2 4 We’ll 
+: 2244 2 6 be 
+: 2248 6 7 kings 
+: 2260 2 11 wher
+: 2264 5 9 e
+: 2272 4 6 ver 
+: 2280 6 4 we 
+: 2288 5 4 may 
+: 2296 4 4 go 
+- 2302
+: 2304 4 11 As 
+: 2312 8 4 far 
+: 2324 2 6 the 
+: 2328 4 7 wind 
+: 2336 2 7 in 
+: 2340 2 9 our 
+: 2344 4 11 sails 
+: 2352 4 11 may 
+: 2360 4 9 blow 
+- 2366
+: 2368 2 14 Heave 
+: 2372 2 14 a
+: 2376 4 11 way 
+- 2382
+: 2384 2 4 Straight 
+: 2388 2 4 a
+: 2392 6 4 head 
+: 2400 2 4 San
+: 2404 2 6 ti
+: 2408 2 4 a
+: 2412 2 2 ~
+: 2416 6 2 no 
+- 2432
+: 2440 5 12 Bright 
+: 2448 4 12 the 
+: 2456 4 12 day 
+: 2464 2 6 and 
+: 2468 2 9 the 
+: 2472 4 9 hea
+: 2480 4 9 vens 
+: 2488 5 6 know 
+- 2494
+: 2496 2 4 We’ll 
+: 2500 2 6 be 
+: 2504 6 7 kings 
+: 2516 2 11 wher
+: 2520 5 9 e
+: 2528 4 6 ver 
+: 2536 6 4 we 
+: 2544 5 4 may 
+: 2552 4 4 go 
+E

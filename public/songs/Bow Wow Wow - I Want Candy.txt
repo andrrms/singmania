@@ -1,0 +1,182 @@
+#ARTIST:Bow Wow Wow
+#TITLE:I Want Candy
+#MP3:Bow Wow Wow - I Want Candy.mp3
+#CREATOR:znxineohp
+#YEAR:1982
+#LANGUAGE:English
+#BPM:220.12
+#GAP:33960
+#VIDEO:v=JoXVYSV4Xcs,co=i-want-candy-5e978bd5bbb0b.jpg,bg=bow-wow-wow-51b958f74d924.jpg
+: 0 4 6 I 
+: 5 1 6 know 
+: 7 1 6 a 
+: 9 3 9 guy 
+: 13 3 6 who’s 
+: 17 3 4 tough 
+: 21 3 2 but 
+: 25 5 6 sweet 
+- 32
+: 64 3 6 He’s 
+: 68 2 6 so 
+: 71 4 4 fine, 
+: 76 2 4 he 
+: 79 5 2 can’t 
+: 85 2 2 be 
+: 88 3 0 be
+: 92 4 2 at 
+- 98
+: 127 2 6 He’s 
+: 130 3 6 got 
+: 134 1 6 eve
+: 136 1 9 ry
+: 138 2 6 thing 
+: 141 1 4 that 
+: 143 5 2 I 
+: 149 2 4 de
+: 152 3 6 si
+: 156 7 6 re 
+- 165
+: 192 5 6 Sets 
+: 198 2 6 the 
+: 201 1 4 sum
+: 203 3 4 mer 
+: 207 5 2 sun 
+: 213 2 2 on 
+: 216 3 4 fi
+: 220 7 2 re 
+- 229
+: 256 11 6 I 
+: 268 3 6 want 
+: 272 7 4 can
+: 280 8 6 dy 
+- 290
+: 320 11 6 I 
+: 332 3 6 want 
+: 336 4 4 ca
+: 341 2 2 n
+: 344 6 2 dy 
+- 352
+: 511 3 6 Go 
+: 515 2 6 to 
+: 518 2 9 see 
+: 521 1 6 him 
+: 523 1 6 when 
+: 525 1 4 the 
+: 527 2 2 sun 
+: 530 4 4 goes 
+: 535 7 6 down 
+- 544
+: 575 4 6 Ain’t 
+: 580 2 6 no 
+: 583 3 4 fi
+: 587 2 4 ner 
+: 590 5 2 boy 
+: 596 2 2 in 
+: 599 3 0 to
+: 603 6 2 wn 
+- 611
+: 639 3 6 You’re 
+: 643 2 6 my 
+: 646 2 6 guy, 
+: 649 1 9 just 
+: 651 1 9 what 
+: 653 1 6 the 
+: 655 2 4 doc
+: 658 3 2 tor 
+: 662 4 4 or
+: 667 9 6 dered 
+- 678
+: 706 4 6 So 
+: 711 3 14 sweet, 
+: 715 1 2 you 
+: 717 3 2 make 
+: 721 1 2 my 
+: 723 3 2 mouth 
+: 727 3 4 wa
+: 731 6 2 ter 
+- 739
+: 766 10 6 I 
+: 778 4 6 want 
+: 783 6 4 can
+: 790 7 6 dy 
+- 799
+: 830 11 6 I 
+: 842 3 6 want 
+: 846 3 4 ca
+: 850 3 2 n
+: 854 7 2 dy 
+- 863
+: 889 9 9 Yeah 
+- 900
+: 1207 1 6 Can
+: 1209 1 6 dy 
+: 1211 2 6 on 
+: 1214 1 9 the 
+: 1216 2 9 beach, 
+: 1219 3 6 there’s 
+: 1223 2 4 no
+: 1226 3 2 thing 
+: 1230 4 4 bet
+: 1235 7 6 ter 
+- 1244
+: 1268 1 6 But 
+: 1270 3 6 I 
+: 1274 3 6 like 
+: 1278 1 9 can
+: 1280 2 9 dy 
+: 1283 1 6 when 
+: 1285 1 4 it’s 
+: 1287 2 2 wrapped 
+: 1290 1 2 in 
+: 1292 2 4 a 
+: 1295 3 4 swea
+: 1299 6 2 ter 
+- 1307
+: 1333 3 6 Some 
+: 1337 4 6 day 
+: 1342 3 9 soon 
+: 1346 3 6 I’ll 
+: 1350 3 6 make 
+: 1354 3 4 you 
+: 1358 13 6 mine, 
+- 1373
+: 1396 1 6 Then 
+: 1398 3 9 I’ll 
+: 1402 3 6 have 
+: 1406 3 6 can
+: 1410 2 4 dy 
+: 1413 6 9 all 
+: 1420 2 6 the 
+: 1423 8 6 time 
+- 1433
+: 1461 11 6 I 
+: 1473 3 6 want 
+: 1478 6 4 can
+: 1485 6 6 dy 
+- 1493
+: 1526 10 6 I 
+: 1537 3 6 want 
+: 1541 7 4 can
+: 1549 7 6 dy 
+- 1558
+: 1589 11 6 I 
+: 1601 3 6 want 
+: 1605 7 4 can
+: 1613 6 6 dy 
+- 1621
+: 1654 10 6 I 
+: 1665 3 6 want 
+: 1669 3 4 ca
+: 1673 3 2 ~n
+: 1677 6 2 dy 
+- 1685
+: 1711 6 9 Hey 
+- 1719
+: 1743 7 9 Hey 
+- 1752
+: 1775 7 9 Hey 
+- 1784
+: 1806 5 9 Hey 
+- 1813
+: 1841 9 9 Hey 
+E

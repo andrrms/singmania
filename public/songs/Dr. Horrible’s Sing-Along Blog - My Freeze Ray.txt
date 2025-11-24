@@ -1,0 +1,268 @@
+#ARTIST:Dr. Horrible’s Sing-Along Blog
+#TITLE:My Freeze Ray
+#MP3:Dr. Horrible’s Sing-Along Blog - My Freeze Ray.mp3
+#CREATOR:SKillMaster
+#GENRE:Musical
+#YEAR:2008
+#LANGUAGE:English
+#BPM:288
+#GAP:160
+#VIDEO:v=ggce0ACCSJw,co=https://cdn-images.dzcdn.net/images/cover/e75fd5f47ac9dc52a6ef2de62ce6bab2/1900x1900-000000-80-0-0.jpg
+F 0 1 0 “You 
+F 2 2 0 al
+F 5 3 0 ways 
+F 9 2 0 say 
+F 12 1 0 on 
+F 14 2 0 your 
+F 17 4 0 blog 
+- 21
+F 22 1 0 That 
+F 24 2 0 you 
+F 27 4 0 will 
+F 32 4 0 show 
+F 37 2 0 her 
+F 40 2 0 the 
+F 43 5 0 way 
+- 48
+F 49 5 0 Show 
+F 55 3 0 her 
+F 59 3 0 you 
+F 63 1 0 are 
+F 65 2 0 a 
+F 68 5 0 true 
+F 74 2 0 vil
+F 77 4 0 lain 
+- 89
+F 92 2 0 Who 
+F 95 6 0 is 
+F 105 9 0 ’her’ 
+- 123
+F 126 9 0 And 
+- 145
+F 162 3 0 Does 
+F 166 2 0 she 
+F 169 2 0 e
+F 172 2 0 ven 
+F 175 5 0 know 
+F 181 6 0 that 
+F 193 10 0 you’re...” 
+- 241
+: 396 5 7 Laun
+: 402 2 9 dry 
+: 406 5 7 day 
+- 421
+: 429 4 7 See 
+: 434 3 9 you 
+: 438 5 7 there 
+- 453
+: 461 3 7 Un
+: 465 2 9 der 
+: 469 7 7 things 
+- 486
+: 494 3 3 Tum
+: 498 2 2 b~
+: 501 2 0 li
+: 504 4 2 ~ng 
+- 518
+: 525 3 7 Wan
+: 529 2 9 na 
+: 534 6 7 say 
+- 552
+: 556 4 7 Love 
+: 561 2 9 your 
+: 565 6 7 hair 
+- 581
+: 589 3 7 Here 
+: 593 3 9 I 
+: 598 7 7 go 
+- 617
+: 621 3 3 Mum
+: 626 2 2 b~
+: 629 3 0 li
+: 633 2 2 ~ng 
+- 645
+: 653 2 0 With 
+: 658 4 2 my 
+: 665 9 4 freeze 
+: 677 6 0 ray 
+: 685 5 2 I 
+: 693 4 0 will 
+* 701 4 7 stop 
+- 715
+: 725 3 9 The 
+: 730 2 2 wo
+: 733 6 4 ~rld 
+- 758
+: 781 3 0 With 
+: 786 4 2 my 
+: 794 8 4 freeze 
+: 805 7 0 ray 
+- 814
+: 816 3 2 I 
+: 821 4 0 will 
+: 829 7 7 find 
+: 837 3 5 the 
+: 842 7 5 time 
+- 852
+: 854 3 0 To 
+* 861 7 7 find 
+: 869 3 6 the 
+: 873 9 6 words 
+: 885 4 0 to 
+- 899
+: 909 4 7 Tell 
+: 914 2 9 you 
+: 918 5 7 how 
+- 933
+: 942 3 7 How 
+: 946 2 9 you 
+: 950 4 7 make 
+- 964
+: 973 3 7 Make 
+: 978 2 9 me 
+: 982 7 7 feel 
+- 1001
+: 1005 2 3 What’s 
+: 1010 2 2 the 
+: 1014 3 0 phra
+: 1018 3 2 ~se? 
+- 1033
+: 1037 3 7 Like 
+: 1041 2 9 a 
+: 1047 7 7 fool 
+- 1065
+: 1069 3 7 Kin
+: 1073 2 9 da 
+: 1078 3 7 sick 
+- 1091
+: 1101 3 7 Spe
+: 1106 3 9 cial 
+: 1110 6 7 needs 
+- 1126
+: 1134 2 3 A
+: 1137 3 2 ny
+: 1141 3 0 wa
+: 1145 4 2 ~ys 
+- 1159
+: 1166 2 0 With 
+: 1170 4 2 my 
+: 1178 9 4 freeze 
+: 1190 7 0 ray 
+: 1198 5 0 I 
+: 1206 3 -5 will 
+* 1214 4 7 stop 
+- 1228
+: 1237 3 9 The 
+: 1242 3 2 pai
+: 1246 5 4 ~n 
+- 1261
+: 1289 2 0 It’s 
+: 1294 5 0 not 
+: 1300 3 2 a 
+: 1306 4 4 death 
+: 1317 7 0 ray 
+- 1326
+: 1328 4 2 Or 
+: 1334 5 0 an 
+: 1342 4 7 ice 
+: 1350 5 5 beam 
+- 1356
+: 1358 4 5 That’s 
+: 1366 3 0 all 
+* 1373 5 7 John
+: 1379 3 6 ny 
+: 1386 3 5 Sno
+: 1390 3 6 ~w 
+- 1399
+: 1401 2 0 I 
+: 1406 2 7 just 
+: 1414 4 5 think 
+: 1422 4 3 you 
+: 1430 4 0 need 
+: 1437 8 7 time 
+: 1449 2 6 to 
+: 1453 3 6 kno
+: 1457 2 2 ~w 
+- 1459
+: 1460 2 -3 That 
+* 1466 9 11 I’m 
+: 1477 3 9 the 
+: 1482 8 7 guy 
+: 1493 3 4 to 
+: 1498 5 2 make 
+: 1506 3 4 it 
+: 1514 5 7 real 
+- 1526
+: 1529 2 2 The 
+: 1534 6 9 fee
+: 1541 6 11 lings 
+: 1549 3 9 you 
+: 1554 5 11 don’t 
+: 1562 5 9 dare 
+: 1569 2 7 to 
+: 1574 6 4 feel 
+- 1589
+: 1593 2 0 I’ll 
+: 1597 6 9 bend 
+: 1605 3 11 the 
+: 1610 11 9 wo
+: 1622 5 11 ~rld 
+: 1630 3 9 to 
+: 1634 4 11 our 
+* 1643 6 12 will 
+- 1655
+: 1658 3 9 And 
+: 1663 6 7 we’ll 
+: 1671 9 7 make 
+: 1685 11 4 time 
+: 1701 9 2 stand 
+- 1722
+: 1726 30 14 Sti
+* 1757 28 15 ~ll 
+- 1823
+: 1934 2 7 That’s 
+: 1938 2 9 the 
+: 1942 6 7 plan 
+- 1958
+: 1966 2 7 Rule 
+: 1970 2 9 the 
+: 1974 7 7 world 
+- 1991
+: 1998 3 7 You 
+: 2002 2 9 and 
+: 2006 6 7 me 
+- 2022
+: 2029 3 3 A
+: 2033 2 2 ny 
+: 2037 3 0 da
+: 2041 3 2 ~y 
+- 2054
+: 2061 3 7 Love 
+: 2065 3 9 your 
+: 2070 6 7 hair 
+- 2085
+F 2088 5 0 What? 
+- 2095
+F 2097 1 0 “No, 
+F 2099 4 0 I 
+F 2104 3 0 ju 
+F 2108 4 0 oh, 
+F 2113 5 0 I 
+F 2119 4 0 love 
+F 2124 3 0 the... 
+- 2129
+F 2131 8 0 ...Air” 
+- 2149
+: 2158 2 3 A
+: 2161 3 2 ny
+: 2166 3 0 wa
+: 2170 3 2 ~y 
+- 2185
+: 2189 3 0 With 
+: 2194 4 2 my 
+: 2202 8 4 freeze 
+: 2214 6 0 ray 
+: 2222 5 0 I 
+: 2229 3 -5 will 
+* 2238 4 7 stop 
+E

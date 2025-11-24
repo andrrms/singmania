@@ -1,0 +1,227 @@
+#ARTIST:Crowded House
+#TITLE:Better Be Home Soon
+#MP3:Crowded House - Better Be Home Soon.mp3
+#CREATOR:Fiete
+#YEAR:1988
+#LANGUAGE:English
+#BPM:381.48
+#GAP:4920
+#VIDEO:v=AQOlwMKpmvQ,co=https://i.discogs.com/WJ_M5dbNmKz3DMayiKb_J5bzu2fxdLH3W801KxLRNUI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAz/MzctMTU4MDIxMTE4/Ni0xNTU0LmpwZWc.jpeg,bg=crowded-house-4e7ec6f737cc3.jpg
+: 0 12 7 Some
+: 13 24 7 where 
+: 40 7 4 deep 
+: 48 12 7 in
+: 64 26 9 side 
+- 92
+: 97 8 4 Some
+: 107 7 12 thing’s 
+: 115 7 11 got 
+: 123 6 9 a 
+: 131 15 9 hold 
+: 148 13 7 on 
+: 163 25 4 you 
+- 190
+: 263 3 4 And 
+: 267 4 4 it’s 
+: 272 5 7 pu
+: 278 22 7 shing 
+: 304 7 7 me 
+: 312 12 7 a
+: 329 25 9 side, 
+- 356
+: 361 3 4 See 
+: 365 4 4 it 
+: 370 8 12 stretch 
+: 380 7 11 on 
+: 389 6 9 for
+: 396 11 9 e
+: 408 24 7 ver 
+- 434
+: 492 1 7 And 
+: 494 7 7 I 
+: 503 7 9 know 
+: 511 15 12 I’m 
+* 528 49 16 right
+* 578 15 16 ~
+* 594 4 16 ~
+* 599 3 14 ~
+* 603 16 12 ~ 
+- 621
+: 628 3 7 For 
+: 632 3 7 the 
+: 636 12 16 first 
+: 649 10 14 time 
+: 660 7 12 in 
+: 668 10 14 my 
+: 679 29 12 life 
+- 710
+: 767 7 9 That’s 
+: 775 9 9 why 
+: 785 5 7 I 
+: 792 10 16 tell 
+: 804 39 14 you, 
+- 845
+: 892 7 7 You’d 
+: 900 3 16 bet
+: 904 4 14 ter 
+: 909 6 12 be 
+* 917 22 14 home 
+: 943 40 12 soon 
+- 985
+: 1079 10 7 Strip
+: 1091 6 7 ping 
+: 1099 8 4 back 
+: 1108 11 7 the 
+: 1122 26 9 coats 
+- 1150
+: 1157 6 4 Of 
+: 1164 8 12 lies 
+: 1173 8 11 and 
+: 1182 4 9 de
+: 1189 10 9 ceip
+: 1201 29 7 tion 
+- 1232
+: 1329 6 7 Back 
+: 1336 23 7 to 
+: 1362 7 7 no
+: 1370 15 7 thing
+: 1388 28 9 ness, 
+- 1418
+: 1420 3 4 Like 
+: 1424 3 4 a 
+: 1428 8 12 week 
+: 1437 6 11 in 
+: 1444 6 9 the 
+: 1452 10 9 de
+: 1464 29 7 sert 
+- 1495
+: 1547 2 7 Then 
+: 1550 7 7 I 
+: 1559 7 9 know 
+: 1567 14 12 I’m 
+: 1583 48 16 right
+: 1632 14 16 ~
+: 1647 5 16 ~
+: 1653 3 14 ~
+: 1657 15 12 ~ 
+- 1674
+: 1681 3 7 For 
+: 1685 3 7 the 
+* 1689 10 16 first 
+* 1701 12 14 time 
+: 1714 6 12 in 
+: 1721 9 14 my 
+: 1731 36 12 life 
+- 1769
+: 1819 6 9 That’s 
+: 1826 5 9 why 
+: 1832 9 7 I 
+: 1843 11 16 tell 
+: 1856 32 14 you 
+- 1890
+: 1941 6 7 You’d 
+: 1948 4 16 bet
+: 1953 3 14 ter 
+: 1957 7 12 be 
+: 1965 21 14 home 
+: 1991 37 12 soon 
+- 2030
+: 2143 6 14 Don’t 
+: 2153 12 14 say 
+: 2167 17 14 no, 
+: 2192 6 14 don’t 
+: 2200 6 11 say 
+: 2208 7 14 no
+: 2216 17 16 thing’s 
+: 2235 22 11 wrong 
+- 2259
+: 2316 5 7 Cos 
+: 2322 7 14 when 
+: 2330 7 12 you 
+: 2338 6 14 get 
+: 2346 15 14 back 
+: 2363 21 16 home 
+- 2386
+: 2387 6 16 May
+: 2394 7 14 be 
+: 2402 8 16 I’ll 
+: 2411 11 18 be 
+* 2424 40 18 gone 
+- 2466
+: 3220 7 7 It 
+: 3228 7 7 would 
+: 3236 10 4 cause 
+: 3248 8 7 me 
+: 3257 24 9 pain 
+- 3283
+: 3290 8 4 If 
+: 3299 8 12 we 
+: 3308 6 11 were 
+: 3315 7 9 to 
+: 3323 15 9 end 
+: 3339 34 7 it 
+- 3375
+: 3453 2 4 But 
+: 3456 7 7 I 
+: 3465 30 7 could 
+- 3497
+* 3501 7 4 Start 
+: 3509 4 7 a
+: 3514 30 9 gain 
+- 3546
+: 3553 6 12 You 
+: 3560 8 11 can 
+: 3570 6 9 de
+: 3578 15 9 pend 
+: 3595 11 7 on 
+: 3607 45 4 it 
+- 3654
+: 3670 2 7 Then 
+: 3673 5 7 I 
+: 3679 8 9 know 
+: 3689 13 12 I’m 
+: 3704 46 16 right
+: 3751 14 16 ~
+: 3766 5 16 ~
+: 3772 2 14 ~
+: 3775 8 12 ~ 
+- 3785
+: 3799 2 7 For 
+: 3802 4 7 the 
+: 3807 11 16 first 
+: 3819 11 14 time 
+: 3831 6 12 in 
+: 3838 9 14 my 
+: 3849 28 12 life 
+- 3879
+: 3933 7 9 That’s 
+: 3941 8 9 why 
+: 3950 5 7 I 
+: 3957 12 16 tell 
+* 3970 32 14 you
+* 4003 6 16 ~ 
+- 4011
+: 4052 6 7 You’d 
+: 4059 3 16 bet
+: 4063 4 14 ter 
+: 4068 6 12 be 
+: 4075 19 14 home 
+: 4100 2 12 soon
+: 4103 2 18 ~
+: 4106 32 16 ~ 
+- 4140
+: 4185 7 12 That’s 
+: 4193 7 12 why 
+: 4201 7 9 I 
+: 4209 11 16 tell 
+: 4221 16 14 you
+: 4238 14 12 ~ 
+- 4254
+: 4307 7 7 You’d 
+: 4315 4 16 bet
+: 4320 5 14 ter 
+: 4326 6 12 be 
+* 4334 38 14 home 
+- 4374
+: 4424 76 12 Soon 
+E

@@ -1,0 +1,104 @@
+#ARTIST:Fleetwood Mac
+#TITLE:Never Going Back Again
+#MP3:Fleetwood Mac - Never Going Back Again.mp3
+#CREATOR:znxineohp
+#YEAR:1976
+#LANGUAGE:English
+#BPM:351.2
+#GAP:11060
+#VIDEO:a=0i3ZfrVY9iU,co=dont-stop-6025d40955ae8.jpg,bg=fleetwood-mac-4e7ec8bebeba1.jpg
+: 0 7 1 She 
+: 8 7 1 broke 
+: 16 15 1 down 
+: 32 3 1 and 
+: 36 7 6 let 
+: 48 7 6 me 
+: 56 11 10 in 
+- 69
+: 256 11 1 Made 
+: 268 7 1 me 
+: 276 11 1 see 
+: 288 11 6 where 
+: 304 7 6 I’ve 
+: 312 7 10 bee
+: 320 7 8 ~n 
+- 329
+: 552 7 18 Been 
+: 560 11 18 down 
+: 572 11 20 one 
+: 584 7 22 ti
+: 592 7 20 ~me 
+- 601
+: 616 7 18 Been 
+: 624 11 18 down 
+: 636 7 20 two 
+: 644 7 22 ti
+: 652 11 20 ~mes 
+- 665
+: 732 3 10 I’m 
+: 736 3 13 ne
+: 740 3 10 ver 
+: 744 3 8 go
+: 748 3 10 ing 
+: 752 11 8 back 
+: 764 3 6 a
+: 768 15 8 gain 
+- 785
+* 832 63 10 Hm
+* 896 39 8 ~ 
+- 937
+: 1724 27 10 Hm
+: 1752 3 8 ~
+: 1756 7 10 ~
+: 1764 7 8 ~
+: 1772 7 5 ~
+: 1780 7 1 ~ 
+- 1788
+: 1788 7 1 You 
+: 1796 3 1 don’t 
+: 1800 7 1 know 
+: 1808 3 1 what 
+: 1812 3 1 it 
+: 1820 11 6 means 
+: 1832 11 6 to 
+: 1844 7 10 wi
+: 1852 11 8 ~n 
+- 1865
+: 2044 11 1 Come 
+: 2056 11 1 down 
+: 2068 7 1 and 
+: 2076 7 6 see 
+: 2088 7 13 me 
+* 2096 3 13 a
+* 2100 3 10 gai
+* 2104 3 8 ~
+* 2108 11 6 ~n 
+- 2121
+: 2340 7 18 Been 
+: 2348 11 18 down 
+: 2360 11 20 one 
+: 2372 7 22 ti
+: 2380 7 20 ~me 
+- 2389
+: 2404 7 18 Been 
+: 2412 11 18 down 
+: 2424 7 20 two 
+: 2432 7 22 ti
+: 2440 11 20 ~mes 
+- 2453
+: 2492 11 13 Hm
+: 2504 3 11 ~
+: 2508 11 10 ~, 
+: 2520 3 10 I’m 
+: 2524 3 13 ne
+: 2528 3 10 ver 
+: 2532 3 8 go
+: 2536 3 10 ing 
+: 2540 11 8 back 
+: 2552 3 6 a
+: 2556 15 8 gain 
+- 2573
+* 2620 7 8 Hm
+* 2628 55 10 ~
+* 2684 31 8 ~ 
+E

@@ -1,0 +1,331 @@
+#ARTIST:Paul McCartney
+#TITLE:Young Boy
+#MP3:Paul McCartney - Young Boy.mp3
+#CREATOR:rote_rose
+#COVER:Paul McCartney - Young Boy [CO].jpg
+#BACKGROUND:Paul McCartney - Young Boy [BG].jpg
+#GENRE:Rock
+#YEAR:1997
+#LANGUAGE:English
+#BPM:239.54
+#GAP:8500
+#VIDEO:v=Jydi_-jWAEc,co=young-boy-5f92a425ce476.jpg,bg=mccartney-paul-53b8c9b0bb1f8.jpg
+: 0 3 0 He’s 
+: 4 3 0 just 
+: 8 3 0 a 
+: 12 7 0 young 
+: 20 7 0 boy 
+- 27
+: 28 3 0 Loo
+: 32 3 0 king 
+: 36 3 0 for 
+: 40 3 0 a 
+: 44 6 0 way 
+: 52 3 -8 to 
+: 56 6 -3 find 
+: 63 12 -5 love 
+- 90
+: 128 3 0 It 
+: 132 3 0 i
+: 136 3 0 sn’t 
+: 140 6 0 ea
+: 147 4 0 sy, 
+: 152 6 0 no
+: 159 3 0 thing 
+: 163 3 0 you 
+: 167 3 0 can 
+: 171 6 0 say 
+- 178
+: 180 4 -8 Will 
+: 185 6 -3 help 
+: 192 10 -5 him 
+* 219 12 -3 find 
+* 232 12 -5 love 
+- 253
+: 256 3 -3 He’s 
+: 260 3 -3 got 
+: 264 3 -3 to 
+: 268 3 -3 do 
+: 272 3 -3 it 
+: 284 4 -1 for 
+: 289 6 -1 him
+: 296 12 -1 self 
+- 317
+: 320 3 0 And 
+: 324 3 0 it 
+: 328 3 0 can 
+: 332 3 0 take 
+: 336 6 0 so 
+: 343 39 2 long 
+- 382
+* 383 3 0 He’s 
+* 387 3 0 just 
+* 391 3 0 a 
+* 395 8 0 young 
+* 404 7 0 boy 
+- 411
+: 412 3 0 Loo
+: 416 3 0 king 
+: 420 3 0 for 
+: 424 3 0 a 
+: 428 6 0 way 
+: 436 3 -8 to 
+: 440 6 -3 find 
+: 447 12 -5 love 
+- 474
+: 511 3 0 He 
+: 515 3 0 doesn’t
+: 519 3 0 ~ 
+: 523 6 0 need 
+: 531 4 0 a
+: 536 6 0 no
+: 543 3 0 ther 
+- 546
+: 547 3 0 Hel
+: 551 3 0 ping 
+: 555 6 0 hand 
+: 563 4 -8 from 
+: 568 6 -3 some
+: 575 12 -5 one 
+- 602
+: 639 3 0 But 
+: 643 3 0 don’t 
+: 647 3 0 you 
+: 651 8 0 think 
+: 660 3 0 he 
+: 664 6 0 doesn’t
+: 671 3 0 ~ 
+: 675 3 0 un
+: 679 3 0 der
+: 683 8 0 stand 
+- 691
+: 692 4 -8 What 
+: 697 6 -3 he 
+: 704 10 -5 wants, 
+: 731 12 -3 some
+: 744 14 -5 one 
+- 765
+: 768 3 -3 Though 
+: 772 3 -3 in
+: 776 3 -3 de
+: 780 6 -3 pen
+: 787 6 -3 dence 
+: 795 8 -1 means 
+: 804 3 -1 a 
+: 808 8 -1 lot 
+- 828
+: 832 3 0 He’s 
+: 836 3 0 got
+: 840 3 0 ta 
+: 844 3 0 still 
+: 848 6 0 be 
+: 855 39 2 strong 
+- 894
+: 895 3 0 He’s 
+: 899 3 0 just 
+: 903 3 0 a 
+: 907 8 0 young 
+: 916 7 0 boy 
+- 923
+: 924 3 0 Loo
+: 928 3 0 king 
+: 932 3 0 for 
+: 936 3 0 a 
+: 940 6 0 way 
+: 948 3 -8 to 
+: 952 6 -3 find 
+: 959 12 -5 love 
+- 986
+* 1018 12 7 Find 
+* 1031 12 0 love, 
+* 1047 3 -3 a 
+* 1051 3 0 per
+* 1055 3 -3 fect 
+* 1059 3 0 com
+* 1063 3 -3 bi
+* 1067 6 0 na
+* 1074 6 2 tion 
+- 1081
+: 1083 12 7 Find 
+: 1096 12 0 love, 
+: 1112 3 -3 what
+: 1116 3 0 e
+: 1120 3 2 ver 
+: 1124 3 4 you 
+: 1128 12 2 do 
+- 1145
+: 1147 12 7 Find 
+: 1160 12 0 love, 
+: 1176 3 -3 a 
+: 1180 3 0 cause 
+: 1184 3 -3 for 
+: 1188 3 0 ce
+: 1192 3 -3 le
+: 1196 6 0 bra
+: 1203 6 2 tion 
+- 1217
+* 1220 3 0 And 
+* 1224 3 -3 it 
+* 1228 7 0 might 
+* 1236 7 0 come 
+* 1244 3 2 loo
+* 1248 6 -3 king 
+F 1259 3 0 (loo
+F 1263 3 0 king) 
+- 1276
+: 1284 8 2 Come 
+: 1293 3 0 loo
+: 1297 3 2 king 
+: 1301 3 4 for 
+: 1305 32 2 you, 
+F 1360 8 0 yeah 
+- 1399
+: 1787 12 7 Find 
+: 1800 12 0 love, 
+: 1816 3 -3 in 
+: 1820 3 0 a
+: 1824 3 -3 ny 
+: 1828 3 0 sit
+: 1832 3 -3 u
+: 1836 6 0 a
+: 1843 6 2 tion 
+- 1849
+: 1851 12 7 Find 
+: 1864 12 0 love, 
+* 1880 3 -3 what
+* 1884 3 0 e
+* 1888 3 2 ver 
+* 1892 3 4 you 
+* 1896 12 2 do 
+- 1913
+: 1915 12 7 Find 
+: 1928 12 0 love, 
+: 1944 3 -3 a 
+: 1948 3 0 cause 
+: 1952 3 -3 for 
+: 1956 3 0 ce
+: 1960 3 -3 le
+: 1964 6 0 bra
+: 1971 6 2 tion 
+- 1985
+: 1988 3 0 Then 
+: 1992 3 -3 it 
+: 1996 7 0 might 
+: 2004 7 0 come 
+: 2012 3 2 loo
+: 2016 6 -3 king 
+F 2028 3 0 (loo
+F 2032 3 0 king) 
+- 2047
+* 2051 8 2 Come 
+* 2060 3 0 loo
+* 2064 3 2 king 
+* 2068 3 4 for 
+* 2072 32 2 you 
+- 2119
+: 2142 3 0 He’s 
+: 2146 3 0 just 
+: 2150 3 0 a 
+: 2154 8 0 young 
+: 2163 8 0 boy 
+- 2171
+: 2172 3 0 Loo
+: 2176 3 0 king 
+: 2180 3 0 for 
+: 2184 3 0 a 
+: 2188 6 0 way 
+: 2196 3 -8 to 
+: 2200 6 -3 find 
+: 2207 12 -5 love 
+- 2234
+: 2272 3 0 It 
+: 2276 3 0 i
+: 2280 3 0 sn’t 
+: 2284 6 0 ea
+: 2291 8 0 sy, 
+: 2300 3 0 no
+: 2304 3 0 thing 
+: 2308 3 0 you 
+: 2312 3 0 can 
+: 2316 6 0 say 
+- 2322
+: 2323 4 -8 Will 
+: 2328 6 -3 help 
+: 2335 10 -5 him 
+: 2362 12 -3 find 
+: 2375 12 -5 love 
+- 2396
+: 2399 3 -3 He’s 
+: 2403 3 -3 got 
+: 2407 3 -3 to 
+: 2411 3 -3 do 
+: 2415 3 -3 it 
+: 2428 4 -1 for 
+: 2433 6 -1 him
+: 2440 12 -1 self 
+- 2461
+: 2464 3 0 And 
+: 2468 3 0 it 
+: 2472 3 0 can 
+: 2476 3 0 take 
+: 2480 6 0 so 
+: 2487 40 2 long 
+- 2527
+: 2528 3 0 He’s 
+: 2532 3 0 just 
+: 2536 3 0 a 
+: 2540 6 0 young 
+: 2547 6 0 boy 
+- 2553
+: 2555 3 0 Loo
+: 2559 3 0 king 
+: 2563 3 0 for 
+: 2567 3 0 a 
+: 2571 6 0 way 
+: 2579 3 -8 to 
+: 2583 8 -3 find 
+: 2592 8 -5 love 
+F 2601 12 0 (yeah) 
+- 2644
+: 3017 16 7 Find 
+: 3034 12 0 love, 
+: 3057 4 7 the 
+: 3062 4 7 time 
+: 3067 4 7 for 
+: 3072 6 7 me
+: 3079 4 7 di
+: 3084 4 7 ta
+: 3089 10 9 tion 
+- 3104
+: 3106 16 7 Find 
+: 3123 12 0 love, 
+: 3147 3 7 a 
+: 3151 6 7 source 
+: 3158 4 7 of 
+: 3163 4 7 ins
+: 3168 4 7 pi
+: 3173 6 9 ra
+: 3180 10 7 tion 
+- 3193
+: 3195 16 7 Find 
+: 3212 12 0 love, 
+: 3235 4 7 in
+: 3240 6 7 stead 
+: 3247 4 7 of 
+: 3252 4 7 con
+: 3257 4 4 fron
+: 3262 6 7 ta
+: 3269 10 9 tion 
+- 3283
+* 3285 16 7 Find 
+* 3302 14 0 love, 
+* 3326 4 0 and 
+* 3331 4 5 love 
+* 3336 4 5 will 
+* 3341 10 4 come 
+* 3352 5 2 loo
+* 3358 5 0 king 
+* 3364 5 -1 for 
+* 3370 20 0 you
+* 3391 26 12 ~ 
+E

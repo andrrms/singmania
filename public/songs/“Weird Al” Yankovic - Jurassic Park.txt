@@ -1,0 +1,320 @@
+#ARTIST:“Weird Al” Yankovic
+#TITLE:Jurassic Park
+#MP3:“Weird Al” Yankovic - Jurassic Park.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1993
+#LANGUAGE:English
+#BPM:340
+#GAP:4480
+#VIDEO:v=emI-vezrEgA,co=https://static1.srcdn.com/wordpress/wp-content/uploads/2022/11/Split-image-of-Weird-Al-Yankovic-and-his-Jurassic-Park-single.jpg,co-crop=1050-14-1020-1020,bg=yankovic-weird-al-4ff2dad4c8284.jpg
+: 0 4 9 I 
+: 8 2 9 re
+: 12 4 9 call 
+: 20 2 9 the 
+: 25 6 10 time 
+: 34 4 9 they 
+: 42 5 7 found 
+- 48
+: 50 4 5 Those 
+: 58 5 9 fos
+: 65 3 9 si
+: 70 7 9 lized 
+: 81 3 9 mos
+: 87 4 10 qui
+: 94 4 9 toes 
+- 105
+: 108 2 7 And 
+: 112 2 5 be
+: 117 4 7 fore 
+: 126 6 7 long, 
+- 136
+: 138 3 7 They 
+: 143 3 7 were 
+: 150 4 7 clo
+: 158 3 7 ning 
+: 166 8 5 D
+* 179 5 3 N
+: 187 9 2 A. 
+- 241
+: 370 5 9 Now 
+: 378 4 9 I’m 
+: 386 3 9 be
+: 391 3 9 ing 
+: 398 6 10 chased 
+- 405
+: 407 4 9 By 
+: 414 3 7 some 
+: 420 3 5 i
+: 427 7 9 rate 
+: 439 4 9 ve
+: 445 4 9 lo
+: 453 2 9 ci
+: 457 4 10 rap
+: 465 5 9 tors. 
+- 477
+: 480 3 7 Well, 
+: 485 2 5 be
+: 489 7 7 lieve 
+: 499 6 7 me 
+- 511
+: 513 2 7 This 
+: 517 2 7 has 
+: 522 4 7 been 
+: 530 4 7 one 
+: 538 8 5 lou
+* 551 4 3 sy 
+: 559 12 2 day. 
+- 616
+: 725 3 2 Ju
+: 730 4 4 ras
+: 737 4 4 sic 
+: 744 5 4 Park 
+: 751 4 4 is 
+: 759 5 5 fright
+: 767 5 4 ening 
+: 775 3 2 in 
+: 782 3 0 the 
+: 787 8 4 dark, 
+- 806
+: 810 3 4 All 
+: 815 3 4 the 
+: 820 3 5 di
+: 827 2 4 no
+: 831 6 2 saurs 
+: 841 3 0 are 
+* 849 7 7 run
+: 860 6 9 ning 
+: 872 12 10 wild. 
+- 894
+: 907 5 9 Some
+: 915 4 9 one 
+: 922 4 9 shut 
+: 929 3 9 the 
+: 934 5 10 fence 
+: 943 7 9 off 
+: 955 3 7 in 
+: 960 3 5 the 
+: 965 9 9 rain. 
+- 984
+: 997 10 9 I 
+: 1011 8 11 ad
+: 1025 4 12 mit 
+: 1033 3 12 its 
+: 1040 5 12 kin
+: 1047 3 11 da 
+: 1052 6 14 ee
+: 1062 5 12 rie 
+- 1073
+: 1076 2 9 But 
+: 1080 2 11 this 
+: 1085 4 12 proves 
+: 1092 4 12 my 
+: 1099 4 12 cha
+: 1104 4 11 os 
+: 1112 7 14 the
+: 1121 5 12 ory 
+- 1132
+: 1135 3 9 And 
+: 1140 3 11 I 
+: 1144 4 12 don’t 
+: 1151 4 12 think 
+: 1159 4 12 I’ll 
+: 1166 4 12 be 
+: 1173 3 14 co
+: 1178 4 12 ming 
+: 1185 8 12 back 
+: 1200 3 14 a
+: 1205 20 16 gain. 
+- 1235
+: 1249 7 17 Oh 
+* 1261 103 19 no! 
+- 1386
+: 1429 5 9 I 
+: 1438 3 9 can
+: 1442 3 9 not 
+: 1447 3 9 ap
+: 1452 9 10 prove 
+: 1464 4 9 of 
+: 1471 3 7 this 
+: 1476 3 5 at
+: 1483 5 9 trac
+: 1493 6 9 tion, 
+- 1508
+: 1512 4 9 ’Cause 
+: 1519 3 10 get
+: 1524 3 9 ting 
+: 1532 3 7 dis
+: 1538 3 5 em
+: 1545 11 7 boweled 
+- 1565
+: 1568 3 7 Al
+: 1573 3 7 ways 
+: 1578 5 7 makes 
+: 1586 4 7 me 
+: 1594 12 5 kin
+* 1611 4 3 da 
+: 1619 16 2 mad. 
+- 1680
+: 1792 3 2 A 
+: 1798 7 9 huge 
+: 1809 4 9 ty
+: 1815 3 9 ran
+: 1821 2 9 no
+: 1827 4 10 sau
+: 1834 4 9 rus 
+: 1848 4 7 ate 
+: 1853 3 5 our 
+: 1860 5 9 law
+: 1867 4 9 yer. 
+- 1880
+: 1883 3 9 Well, 
+: 1888 4 10 I 
+: 1896 4 9 sup
+: 1902 5 7 pose 
+: 1910 5 5 that 
+: 1919 9 7 proves 
+- 1938
+: 1945 3 7 They’re 
+: 1951 4 7 real
+: 1957 5 7 ly 
+: 1966 4 5 not 
+* 1972 3 3 a
+: 1976 4 2 ~ll 
+: 1988 13 2 bad. 
+- 2046
+: 2155 3 2 Jur
+: 2160 3 4 ras
+: 2167 3 4 sic 
+: 2173 5 4 Park 
+: 2181 4 4 is 
+: 2189 5 5 fright
+: 2196 4 4 ening 
+: 2204 5 2 in 
+: 2212 3 0 the 
+: 2217 7 4 dark, 
+- 2234
+: 2238 3 4 All 
+: 2243 3 4 the 
+: 2248 4 5 di
+: 2255 3 4 no
+: 2260 6 2 saurs 
+: 2270 3 0 are 
+* 2278 8 7 run
+: 2290 6 9 ning 
+: 2302 13 10 wild. 
+- 2325
+: 2336 4 9 Some
+: 2343 4 9 one 
+: 2350 5 9 let 
+: 2358 4 9 T. 
+: 2365 4 10 Rex 
+: 2373 4 9 out 
+: 2380 4 7 of 
+: 2386 3 5 his 
+: 2393 9 9 pen. 
+- 2412
+: 2426 10 9 I’m 
+: 2440 7 11 a
+: 2453 6 12 fraid 
+: 2461 5 12 those 
+: 2469 5 12 things 
+: 2476 3 11 will 
+: 2481 7 14 harm 
+: 2491 6 12 me, 
+- 2503
+: 2506 2 9 ’Cause 
+: 2510 2 11 they 
+: 2514 4 12 sure 
+: 2522 4 12 don’t 
+: 2529 4 12 act 
+: 2537 3 11 like 
+: 2543 5 14 Bar
+: 2551 5 12 ney 
+- 2563
+: 2566 2 9 And 
+: 2570 2 11 they 
+: 2574 4 12 think 
+: 2581 3 12 that 
+: 2586 5 12 I’m 
+- 2592
+: 2594 4 12 Their 
+: 2602 4 14 din
+: 2608 3 12 ner, 
+: 2619 3 12 not 
+: 2625 3 14 their 
+: 2632 16 16 friend. 
+- 2658
+: 2679 5 17 Oh 
+* 2690 95 19 no. 
+- 2830
+: 4031 3 7 Ju
+: 4035 4 9 ras
+: 4043 4 9 sic 
+: 4050 5 9 Park 
+: 4059 4 9 is 
+: 4067 5 10 fright
+: 4076 6 9 ening 
+: 4088 3 7 in 
+: 4092 3 5 the 
+: 4097 7 9 dark, 
+- 4114
+: 4121 3 9 All 
+: 4126 3 9 the 
+: 4131 5 10 di
+: 4138 3 9 no
+: 4144 6 7 saurs 
+: 4155 4 5 are 
+* 4166 5 12 run
+: 4174 4 14 ning 
+: 4182 18 15 wild. 
+- 4210
+: 4231 6 14 What 
+: 4239 3 14 a 
+: 4245 4 14 crum
+: 4251 3 14 my 
+: 4258 5 15 week
+: 4266 7 14 end 
+: 4282 3 12 this 
+: 4286 3 10 has 
+: 4292 9 14 been. 
+- 4311
+: 4328 8 14 Well, 
+: 4342 7 16 this 
+: 4358 5 17 sure 
+: 4366 6 17 ain’t 
+: 4374 5 17 no 
+: 4382 3 16 E-
+: 4387 6 19 Ti
+: 4397 6 17 cket, 
+- 4411
+: 4414 3 14 Think 
+: 4418 2 16 I’ll 
+: 4422 5 17 tell 
+: 4430 4 17 them 
+: 4438 4 17 where 
+: 4445 3 16 to 
+: 4450 6 19 stick 
+: 4460 7 17 it, 
+- 4474
+: 4477 3 14 ’Cause 
+: 4481 3 16 I’m 
+: 4486 4 17 ne
+: 4491 4 17 ver 
+: 4501 4 17 co
+: 4507 6 17 ming 
+: 4516 5 19 back 
+- 4524
+: 4526 4 17 This 
+: 4534 5 17 way 
+: 4546 3 19 a
+* 4550 21 21 gain. 
+- 4581
+: 4599 6 22 Oh 
+: 4615 82 24 no! 
+- 4707
+: 4727 5 26 Oh
+: 4734 4 21 ~ 
+: 4741 5 26 no
+* 4749 91 24 ~. 
+E

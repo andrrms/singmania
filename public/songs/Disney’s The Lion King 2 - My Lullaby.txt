@@ -1,0 +1,415 @@
+#ARTIST:Disney’s The Lion King 2
+#TITLE:My Lullaby
+#MP3:Disney’s The Lion King 2 - My Lullaby.mp3
+#CREATOR:Angeloffate
+#GENRE:Soundtrack
+#YEAR:1998
+#LANGUAGE:English
+#BPM:208
+#GAP:10
+#VIDEO:a=HKFG1FPAzvI,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/4a/b8/484ab88d-ff92-1804-b601-b07a477d5478/06PNDIM00515.rgb.jpg/5000x5000bb.jpg
+F 0 6 0 Hush 
+F 8 2 0 my 
+F 12 6 0 little 
+F 20 2 0 one 
+- 24
+F 40 4 0 You 
+F 48 8 0 must 
+F 58 4 0 be 
+F 64 4 0 ex
+F 70 6 0 haus
+F 78 4 0 ted 
+- 84
+: 105 8 -2 Sleep 
+: 115 4 3 my 
+: 121 2 1 lit
+: 124 2 -2 tle 
+: 128 4 -4 Ko
+: 134 6 -2 vu 
+- 142
+: 154 2 -2 Let 
+: 158 2 3 your 
+: 162 7 1 dreams 
+: 173 2 -2 take 
+: 177 6 -4 wing 
+- 185
+: 200 4 -2 One 
+: 206 4 3 day 
+: 213 4 3 when 
+: 219 2 -2 you’re 
+: 224 4 3 big 
+: 230 2 5 and 
+: 234 2 6 stro
+: 237 2 3 ~
+: 240 2 1 ~
+: 243 2 -2 ng 
+- 247
+: 256 6 6 You 
+: 265 4 5 will 
+: 272 2 3 be 
+: 276 6 2 a 
+: 286 6 3 king
+: 294 2 -2 ~ 
+- 298
+F 314 2 0 Good 
+F 317 6 0 night 
+- 325
+F 328 1 0 Good 
+F 331 5 0 night 
+F 337 1 0 my 
+F 339 2 0 little 
+F 343 7 0 prince 
+- 352
+F 357 2 0 To
+F 360 2 0 mor
+F 363 2 0 row 
+F 367 2 0 your 
+F 371 4 0 trai
+F 377 2 0 ning 
+F 381 2 0 in
+F 385 2 0 ten
+F 389 2 0 si
+F 393 11 0 fies 
+- 406
+: 416 2 3 I’ve 
+: 420 2 5 been 
+: 424 2 6 e
+: 428 3 10 xi
+: 432 3 9 ~led, 
+: 437 2 3 per
+: 440 2 5 se
+: 443 2 6 cu
+: 446 2 10 ted 
+- 450
+: 455 2 3 Left 
+: 458 1 5 a
+: 460 3 6 lone 
+: 464 2 10 with 
+: 467 3 8 no 
+: 471 2 6 de
+: 474 4 10 fense 
+- 480
+F 487 1 -3 When 
+F 489 2 -2 I 
+F 492 2 0 think 
+F 495 2 -2 of 
+F 498 2 2 what 
+F 501 2 -1 that 
+F 507 4 0 brute 
+F 513 3 -3 did 
+- 518
+F 522 2 -2 I 
+F 525 2 0 get 
+F 528 2 -2 a 
+F 531 1 0 lit
+F 533 5 1 tle 
+F 542 6 1 tensed 
+- 550
+: 554 2 -4 But 
+: 557 1 -2 I 
+: 560 4 -1 dream 
+: 565 1 3 a 
+: 567 3 -4 dream 
+: 572 2 -2 so 
+: 576 2 -1 pret
+: 580 4 3 ty 
+- 586
+: 590 1 -4 That 
+: 592 1 -2 I 
+: 594 2 -1 don’t 
+: 597 3 3 feel 
+: 602 2 1 so 
+: 605 2 -1 de
+: 608 4 1 pressed 
+- 614
+: 621 1 1 ’Cause 
+: 623 1 1 it 
+: 625 4 1 soo
+: 630 1 -1 thes 
+: 633 4 -2 my 
+: 639 1 -2 in
+: 641 1 -4 ner 
+: 644 2 -2 kit
+: 648 4 -9 ty 
+- 654
+F 657 1 -2 And 
+F 659 1 0 it 
+F 662 2 5 helps 
+F 665 2 -1 me 
+F 668 2 1 get 
+F 671 4 2 some 
+F 676 4 0 rest 
+- 682
+: 690 2 -2 The 
+: 694 2 -1 sound 
+: 698 2 3 of 
+: 702 2 1 Sim
+: 706 2 -2 ba’s 
+: 710 2 -4 dy
+: 714 2 -4 ing 
+: 718 6 -2 gasp 
+- 725
+F 726 6 5 Uuuaaahhh 
+- 734
+F 738 3 6 His 
+F 743 4 7 daugh
+F 748 2 2 ter 
+F 752 4 7 sque
+F 758 2 2 ling 
+F 761 2 4 in 
+F 765 2 0 my 
+F 769 6 -2 grasp 
+- 777
+: 790 2 1 His 
+: 794 4 -2 li
+: 799 2 3 o
+: 802 2 3 nes
+: 806 2 -2 ses’ 
+: 810 2 3 mourn
+: 816 2 5 ful 
+: 820 5 6 cry
+: 826 4 -2 ~ 
+- 832
+: 843 6 6 That’s 
+: 851 4 5 my 
+: 857 2 3 lul
+: 861 2 2 la
+: 865 10 3 by 
+- 877
+F 891 1 -4 Now 
+F 893 1 4 the 
+F 896 4 3 past 
+F 902 2 -2 I’ve 
+F 906 2 0 tried 
+F 909 1 0 for
+F 911 2 -4 get
+F 914 2 3 tin’ 
+- 918
+F 923 2 -1 And 
+F 926 2 -1 my 
+F 930 4 -2 foes 
+F 936 1 2 I 
+F 938 3 0 could 
+F 942 1 0 for
+F 944 1 0 give 
+- 947
+F 958 2 0 Trou
+F 961 2 0 ble 
+F 964 2 0 is 
+F 967 2 0 I 
+F 971 2 0 know 
+F 975 2 0 it’s 
+F 978 2 0 pet
+F 981 2 0 ty 
+- 985
+F 992 2 0 But 
+F 995 1 0 I 
+F 997 3 0 hate 
+F 1001 2 0 to 
+F 1004 2 0 let 
+F 1007 3 0 them 
+F 1012 4 0 live 
+- 1018
+: 1025 1 -4 So 
+: 1027 1 -1 you 
+: 1030 4 0 found 
+: 1035 2 4 your
+: 1038 3 -3 self 
+: 1043 2 -1 some
+: 1047 2 0 bo
+: 1051 3 4 dy 
+- 1055
+: 1055 2 -3 Who’d 
+: 1059 2 -1 chase 
+: 1063 3 0 Sim
+: 1068 2 4 ba 
+: 1071 2 2 up 
+: 1074 1 0 a 
+: 1076 4 2 tree 
+- 1082
+: 1091 2 2 Oh, 
+: 1094 1 2 the 
+: 1097 2 2 bat
+: 1101 2 0 tle 
+: 1105 1 -1 may 
+: 1108 2 -3 be 
+: 1112 3 -1 bloo
+: 1117 6 -8 dy, 
+- 1125
+F 1126 2 0 But 
+F 1129 2 0 that 
+F 1132 2 0 kind 
+F 1136 2 0 of 
+F 1140 3 0 works 
+F 1144 2 0 for 
+F 1147 2 0 me 
+- 1150
+F 1151 8 8 Hiaaaaa 
+- 1160
+: 1160 2 -1 The 
+: 1164 2 0 me
+: 1167 2 4 lo
+: 1171 4 2 dy 
+: 1177 2 -1 of 
+: 1181 4 -1 an
+: 1186 2 -3 gry 
+: 1190 4 -1 growls
+: 1196 2 -8 ~ 
+- 1200
+: 1211 2 -1 A 
+: 1215 2 0 coun
+: 1219 2 4 ter
+: 1223 2 2 point 
+: 1227 2 -1 of 
+: 1231 3 -3 pain
+: 1236 4 -3 ful 
+: 1242 6 -1 howls 
+- 1250
+F 1251 7 8 Iaaaaaa 
+- 1260
+: 1263 2 -1 A 
+: 1267 2 -1 sym
+: 1270 1 4 pho
+: 1272 3 4 ny 
+: 1278 2 -1 of 
+: 1282 3 4 death, 
+: 1289 2 6 oh 
+: 1293 10 7 my 
+- 1305
+: 1312 4 6 That’s 
+: 1318 4 5 my 
+: 1324 2 3 lul
+: 1328 4 2 la
+: 1334 14 3 by 
+- 1350
+: 1365 6 4 Scar 
+: 1374 2 4 is 
+: 1378 6 4 gone 
+- 1386
+F 1390 3 3 But 
+F 1395 2 6 Zi
+F 1398 2 4 ra’s 
+F 1401 3 -1 still 
+F 1405 1 -1 a
+F 1407 3 -2 round 
+- 1412
+: 1423 2 4 To 
+: 1427 4 4 love 
+: 1433 4 -1 this 
+: 1439 4 -1 lit
+: 1445 2 -2 tle 
+: 1449 8 -1 lad 
+- 1459
+F 1472 2 4 Till 
+F 1475 2 4 he 
+F 1479 5 4 learns 
+F 1486 2 11 to 
+F 1489 2 8 be 
+F 1492 2 1 a 
+F 1497 2 11 kil
+F 1500 2 4 ler 
+- 1504
+: 1519 2 4 With 
+: 1523 2 4 a 
+: 1527 4 4 lust 
+: 1533 3 -1 for 
+: 1538 5 -1 be
+: 1545 4 4 ing 
+: 1553 14 6 bad 
+- 1569
+F 1618 6 0 Sleep, 
+F 1625 2 0 ya 
+F 1628 1 0 lit
+F 1630 1 0 tle 
+F 1634 2 0 ter
+F 1638 4 0 mite 
+- 1644
+: 1649 3 -1 I 
+: 1654 2 -1 mean 
+: 1658 2 -1 pre
+: 1662 2 4 cious 
+: 1666 1 2 lit
+: 1668 1 -1 tle 
+: 1671 8 -3 thing 
+- 1681
+: 1686 2 -1 One 
+: 1690 2 4 day 
+: 1694 2 4 when 
+: 1698 2 -1 you’re 
+: 1702 2 4 big 
+: 1706 2 6 and 
+: 1712 8 7 strong 
+- 1722
+: 1726 6 7 You 
+: 1734 4 6 will 
+: 1740 2 4 be 
+: 1744 4 3 a 
+: 1750 10 4 king 
+- 1762
+F 1798 2 0 The 
+F 1802 4 0 poun
+F 1807 2 0 ding 
+F 1810 2 0 of 
+F 1813 1 0 the 
+F 1816 4 0 drums 
+F 1822 1 0 of 
+F 1825 6 0 war 
+- 1833
+F 1839 2 0 The 
+F 1843 4 0 thrill 
+F 1848 2 0 of 
+F 1851 2 0 Ko
+F 1855 4 0 vu’s 
+F 1861 5 0 mighty 
+F 1868 4 0 roar 
+- 1874
+F 1877 1 -1 The 
+F 1879 3 -5 joy 
+F 1883 1 -3 of 
+F 1886 2 -1 ven
+F 1890 4 -8 geance 
+- 1895
+F 1896 2 3 Tes
+F 1899 2 3 ti
+F 1903 6 3 fy! 
+- 1911
+: 1920 2 8 I 
+: 1924 1 7 can 
+: 1927 2 5 hear 
+: 1930 2 3 the 
+: 1933 2 5 chee
+: 1936 4 0 ring 
+- 1942
+F 1945 2 0 Ko
+F 1949 2 0 vu! 
+F 1952 1 0 What 
+F 1954 1 0 a 
+F 1957 6 0 guy! 
+- 1965
+: 1969 2 8 Pay
+: 1973 2 7 back 
+: 1977 2 5 time 
+: 1981 1 3 is 
+: 1984 2 5 nea
+: 1988 2 0 ring 
+- 1992
+F 1994 2 0 And 
+F 1998 2 7 then 
+F 2002 2 6 our 
+F 2008 6 6 flag 
+F 2016 2 1 will 
+F 2022 6 1 fly 
+- 2030
+F 2040 2 0 A
+F 2044 4 0 gainst 
+F 2050 2 0 a 
+F 2056 4 0 blood-
+F 2062 2 0 red 
+F 2066 10 0 sky 
+- 2078
+: 2092 8 8 That’s 
+: 2102 10 7 my 
+: 2114 6 5 lul
+: 2122 10 3 la
+: 2146 30 5 by! 
+E

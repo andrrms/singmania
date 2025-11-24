@@ -1,0 +1,436 @@
+#ARTIST:Alex Da Kid
+#TITLE:American Funeral
+#MP3:Alex Da Kid - American Funeral.mp3
+#CREATOR:Fepo
+#COVER:Alex Da Kid - American Funeral [CO].jpg
+#BACKGROUND:Alex Da Kid - American Funeral [BG].jpg
+#GENRE:Pop
+#YEAR:2024
+#LANGUAGE:English
+#BPM:299.7
+#GAP:96510
+#VIDEO:v=7UyUBdBf9fg,co=https://iscale.iheart.com/v3/surl/aHR0cDovL2ltYWdlLmloZWFydC5jb20vYmVsbC1pbmdlc3Rpb24tcGlwZWxpbmUtcHJvZHVjdGlvbi11bWcvZnVsbC8wMDYwMjU1NzQ5ODk4MV8yMDIwMDkwOTE0MDgyNTgxNi8xN1VNR0lNNzkzNjJfVDFfY3ZyYXJ0LmpwZw==?sn=eGtleWJhc2UyMDIxMTExMDpEGps-4Y73lSUNKOHjCLzq9girjinZAMM4-3xmoO2zDw%3D%3D&surrogate=1cOXl179JY-syhxYSCX6Q1a_Mcu6UO8d-F4oJzpZf1hcUbJr4aImxdIOEUXqzgxapa2t2uF3VrCcj8ohObVyHw5JmVmFden8iTCgeXmqnIeIw8PfQvCA1pfSCJdagN-oeS4On__SGvh-PiynF_B1drKeH__aIUyOaiaM5ff3TQOPAtcHWxNL13OPMEAFrW6v9-ZKnfkKZm30c6eGSZGYrDFTxtwwhYxUEu30XS3gy7X0pxMapJHhAFobwsXs_PFvyHWiEscTbSxzhLWi5_vrzksVBsch1qWvlbqm06nzaobG-D8HTDacHFXHSYBlZB5agNfTnBcov9N1EcQZ5us%3D
+: 0 6 5 Give 
+: 9 4 3 me 
+: 16 4 1 my 
+: 25 8 3 free
+: 35 18 -2 dom 
+- 72
+: 96 6 5 Run 
+: 104 8 3 from 
+: 114 4 1 these 
+: 121 6 3 de
+: 129 18 -2 mons 
+- 157
+: 176 6 -2 Please 
+: 184 5 -2 don’t 
+: 192 6 5 give 
+: 201 4 3 ’em 
+: 208 7 1 no 
+: 217 6 3 rea
+: 225 23 -2 son 
+- 258
+: 273 6 -2 To 
+: 281 4 -2 spill 
+: 287 7 5 blood 
+: 296 7 3 on 
+: 305 5 1 my 
+: 312 6 3 snea
+: 320 18 -2 kers 
+- 348
+: 371 6 -2 So 
+: 379 3 -2 I 
+: 386 5 3 just 
+: 393 5 8 put 
+: 400 6 8 my 
+* 408 16 10 hands 
+: 433 8 13 up 
+- 451
+: 466 5 5 Then 
+: 473 6 5 they 
+: 481 4 8 put 
+: 490 4 10 me 
+: 498 6 8 in 
+: 507 10 10 hand
+: 530 8 13 cuffs 
+- 548
+: 561 4 17 They 
+: 569 4 15 just 
+: 577 3 16 scared 
+: 582 2 14 ’cause 
+: 586 3 16 they 
+: 591 3 14 don’t 
+: 596 2 16 un
+: 599 2 14 der
+: 603 4 16 sta
+: 609 5 10 ~nd 
+: 616 8 10 us 
+- 634
+: 660 2 4 Try 
+: 663 2 3 to 
+: 667 2 4 beat 
+: 671 2 3 us 
+: 674 7 4 down 
+: 683 3 4 when 
+: 688 2 2 we 
+: 692 2 3 try 
+: 696 2 3 to 
+: 700 4 3 sta
+: 706 17 -2 ~nd 
+: 725 10 -2 up 
+- 738
+: 740 5 -2 I 
+: 747 3 -4 did
+: 752 3 -4 n’t 
+: 757 6 -2 do 
+: 765 6 -2 no 
+- 781
+: 793 2 9 A
+: 796 2 10 me
+: 799 2 9 ri
+: 803 10 10 ca, 
+: 838 2 9 the 
+: 842 3 10 beau
+: 847 2 9 ti
+: 851 12 10 ful 
+- 873
+: 887 2 9 A
+: 890 2 10 me
+: 893 2 9 ri
+: 897 9 10 ca, 
+: 936 2 3 the 
+: 940 2 3 mur
+: 944 2 3 de
+: 948 8 3 re
+: 958 5 8 ~r 
+- 973
+: 984 2 9 A
+: 987 2 10 me
+: 990 2 9 ri
+: 994 10 10 ca, 
+: 1029 2 9 the 
+: 1033 3 10 beau
+: 1038 2 9 ti
+: 1042 12 10 ful 
+- 1064
+: 1081 2 9 A
+: 1084 2 10 me
+: 1087 2 9 ri
+: 1091 9 10 ca, 
+: 1129 2 3 the 
+: 1133 2 3 mur
+: 1137 2 3 de
+: 1141 8 3 re
+: 1151 5 8 ~r 
+- 1166
+: 1177 2 9 A
+: 1180 2 10 me
+: 1183 2 9 ri
+: 1187 10 10 ca, 
+: 1222 2 9 the 
+: 1226 3 10 beau
+: 1231 2 9 ti
+: 1235 12 10 ful 
+- 1256
+: 1259 8 12 Oh 
+- 1271
+: 1273 2 9 A
+: 1276 2 10 me
+: 1279 2 9 ri
+: 1283 11 10 ca, 
+: 1300 4 3 God 
+: 1306 9 3 bless 
+: 1319 2 -2 A
+: 1323 3 -2 me
+: 1328 3 -4 ri
+: 1332 12 -2 ca 
+- 1346
+: 1348 7 5 Say 
+: 1357 5 3 they 
+: 1364 7 1 want 
+: 1373 7 3 free
+: 1382 10 -2 dom 
+- 1411
+: 1435 4 -2 But 
+: 1442 7 5 I 
+: 1451 5 3 don’t 
+: 1458 7 1 be
+: 1467 7 3 lieve 
+: 1476 20 -2 ’em 
+- 1506
+: 1523 7 -2 ’Cause 
+: 1532 5 -2 they’ll 
+: 1539 7 4 find 
+: 1548 6 4 a
+: 1556 7 1 ny 
+: 1565 6 3 rea
+* 1573 22 -2 son 
+- 1605
+: 1620 5 -2 To 
+: 1627 6 -2 kill 
+: 1635 6 5 off 
+: 1643 7 3 they 
+: 1652 7 1 own 
+: 1661 7 3 peo
+: 1670 17 -2 ple 
+- 1697
+: 1716 5 3 If 
+: 1723 7 3 they’d 
+: 1732 7 8 just 
+: 1741 5 10 put 
+: 1748 8 8 they 
+* 1758 18 10 hands 
+* 1781 11 13 up 
+- 1802
+: 1812 7 5 Would
+: 1821 7 5 n’t 
+: 1830 6 8 reach 
+: 1838 6 10 for 
+: 1846 6 8 my 
+: 1854 19 10 hand
+: 1878 12 13 gun 
+- 1900
+: 1910 5 17 They 
+: 1917 5 15 just 
+: 1925 3 15 scared 
+: 1930 3 13 ’cause 
+: 1935 2 15 they 
+: 1939 2 13 don’t 
+: 1943 2 15 un
+: 1947 2 13 der
+: 1951 4 15 sta
+* 1957 15 10 ~nd 
+: 1975 8 10 us 
+- 1993
+: 2007 3 5 May
+: 2012 2 3 be 
+: 2016 2 3 if 
+: 2020 2 1 they 
+: 2023 6 3 tried 
+: 2032 2 5 pul
+: 2036 2 3 lin’ 
+: 2040 3 5 they 
+: 2046 6 5 pa
+: 2054 18 -2 ~nts 
+: 2074 3 -2 u
+: 2079 7 -7 ~p 
+- 2093
+: 2096 17 22 Oh 
+- 2123
+: 2141 2 9 A
+: 2144 2 10 me
+: 2147 2 9 ri
+: 2151 10 10 ca, 
+: 2186 2 9 the 
+: 2190 3 10 beau
+: 2195 2 9 ti
+: 2199 12 10 ful 
+- 2221
+: 2237 2 9 A
+: 2240 2 10 me
+: 2243 2 9 ri
+: 2247 9 10 ca, 
+: 2285 2 3 the 
+: 2289 2 3 mur
+: 2293 2 3 de
+: 2297 8 3 re
+: 2307 5 8 ~r 
+- 2322
+: 2332 2 9 A
+: 2335 2 10 me
+: 2338 2 9 ri
+: 2342 10 10 ca, 
+: 2377 2 9 the 
+: 2381 3 10 beau
+: 2386 2 9 ti
+: 2390 12 10 ful 
+- 2412
+: 2429 2 9 A
+: 2432 2 10 me
+: 2435 2 9 ri
+: 2439 9 10 ca, 
+: 2477 2 3 the 
+: 2481 2 3 mur
+: 2485 2 3 de
+: 2489 8 3 re
+: 2499 5 8 ~r 
+- 2514
+: 2525 2 9 A
+: 2528 2 10 me
+: 2531 2 9 ri
+: 2535 10 10 ca, 
+: 2571 2 9 the 
+: 2575 3 10 beau
+: 2580 2 9 ti
+: 2584 12 10 ful 
+- 2605
+: 2609 7 14 Oh 
+- 2620
+: 2622 2 9 A
+: 2625 2 10 me
+: 2628 2 9 ri
+: 2632 11 10 ca, 
+: 2649 4 3 God 
+: 2655 9 3 bless 
+: 2668 2 -2 A
+: 2672 3 -2 me
+: 2677 3 -4 ri
+: 2681 12 -2 ca 
+- 2694
+: 2696 6 5 Give 
+: 2705 6 3 me 
+: 2713 4 1 my 
+: 2720 8 3 free
+: 2730 15 -2 dom, 
+- 2755
+: 2762 4 -2 Yeah 
+- 2776
+: 2798 19 17 O
+: 2819 2 13 ~
+: 2822 3 10 ~h, 
+: 2827 10 10 ba
+: 2839 4 14 by 
+- 2852
+: 2856 5 10 Yeah 
+- 2871
+: 2889 7 10 Give 
+: 2898 4 10 me 
+: 2905 5 10 my 
+: 2914 9 10 free
+: 2925 9 10 do
+: 2936 11 13 ~m 
+- 2954
+: 2957 8 10 Oh, 
+- 2972
+: 2975 10 10 O
+: 2987 3 5 ~
+: 2992 2 9 ~
+: 2995 4 10 ~
+: 3000 3 9 ~
+: 3004 18 10 ~hu 
+- 3031
+: 3034 9 10 Uh 
+- 3062
+: 3102 3 9 A
+: 3106 2 10 me
+: 3109 2 9 ri
+: 3113 10 10 ca, 
+: 3149 2 9 the 
+: 3153 3 10 beau
+: 3158 2 9 ti
+: 3162 12 10 ful 
+- 3184
+: 3198 2 9 A
+: 3201 2 10 me
+: 3204 2 9 ri
+: 3208 9 10 ca, 
+: 3246 2 3 the 
+: 3250 2 3 mur
+: 3254 2 3 de
+: 3258 8 3 re
+: 3268 5 8 ~r 
+- 3283
+: 3297 2 9 A
+: 3300 2 10 me
+: 3303 2 9 ri
+: 3306 10 10 ca, 
+: 3342 2 9 the 
+: 3346 3 10 beau
+: 3351 2 9 ti
+: 3355 12 10 ful 
+- 3377
+: 3392 2 9 A
+: 3395 2 10 me
+: 3398 2 9 ri
+: 3402 9 10 ca, 
+: 3440 2 3 the 
+: 3444 2 3 mur
+: 3448 2 3 de
+: 3452 8 3 re
+: 3462 5 8 ~r 
+- 3477
+: 3488 2 9 A
+: 3491 2 10 me
+: 3494 2 9 ri
+: 3497 10 10 ca, 
+: 3533 2 9 the 
+: 3537 3 10 beau
+: 3542 2 9 ti
+: 3546 12 10 ful 
+- 3568
+: 3576 6 0 Oh 
+- 3584
+: 3586 2 9 A
+: 3589 2 10 me
+: 3592 2 9 ri
+: 3596 11 10 ca, 
+: 3613 4 3 God 
+: 3619 9 3 bless 
+: 3632 2 -2 A
+: 3636 3 -2 me
+: 3641 3 -4 ri
+: 3645 12 -2 ca 
+- 3667
+: 3682 2 9 A
+: 3685 2 10 me
+: 3688 2 9 ri
+: 3691 10 10 ca, 
+: 3728 2 9 the 
+: 3732 3 10 beau
+: 3737 2 9 ti
+: 3741 12 10 ful 
+- 3763
+: 3778 2 9 A
+: 3781 2 10 me
+: 3784 2 9 ri
+: 3788 9 10 ca, 
+: 3826 2 3 the 
+: 3830 2 3 mur
+: 3834 2 3 de
+: 3838 8 3 re
+: 3848 4 8 ~r 
+- 3862
+: 3874 2 9 A
+: 3877 2 10 me
+: 3880 2 9 ri
+: 3883 10 10 ca, 
+: 3920 2 9 the 
+: 3924 3 10 beau
+: 3929 2 9 ti
+: 3933 12 10 ful 
+- 3954
+: 3957 9 13 Oh 
+- 3969
+: 3971 2 9 A
+: 3974 2 10 me
+: 3977 2 9 ri
+: 3981 11 10 ca, 
+: 3998 4 3 God 
+: 4004 9 3 bless 
+: 4017 2 -2 A
+: 4021 3 -2 me
+: 4026 3 -4 ri
+: 4030 12 -2 ca 
+- 4081
+: 4223 2 9 A
+: 4226 2 10 me
+: 4229 2 9 ri
+: 4232 10 10 ca, 
+: 4269 2 9 the 
+: 4273 3 10 beau
+: 4278 2 9 ti
+: 4282 12 10 ful 
+- 4303
+: 4306 9 13 Oh 
+- 4317
+: 4319 2 9 A
+: 4322 2 10 me
+: 4325 2 9 ri
+: 4329 11 10 ca, 
+: 4346 4 3 God 
+: 4352 9 3 bless 
+: 4365 2 -2 A
+: 4369 3 -2 me
+: 4374 3 -4 ri
+: 4378 12 -2 ca 
+E

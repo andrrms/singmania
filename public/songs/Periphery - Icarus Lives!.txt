@@ -1,0 +1,223 @@
+#ARTIST:Periphery
+#TITLE:Icarus Lives!
+#MP3:Periphery - Icarus Lives!.mp3
+#CREATOR:haistshomie666
+#YEAR:2010
+#LANGUAGE:English
+#BPM:293.34
+#GAP:42840
+#VIDEO:v=MfOnq-zXXBw,co=periphery-530ec87434760.jpg,bg=periphery-52fcff8c5ea61.jpg
+: 0 10 11 Be
+: 11 9 10 lieve 
+: 21 21 6 in 
+: 53 10 5 me
+: 64 6 7 mo
+: 71 11 8 ries 
+: 90 5 16 to 
+: 96 9 15 re
+: 106 5 17 sur
+: 112 9 16 rect 
+: 122 29 10 me 
+- 153
+: 171 10 11 Be
+: 182 10 10 sieged 
+: 193 20 6 my 
+: 224 9 5 fal
+: 234 6 7 ling 
+: 241 14 8 dreams 
+- 257
+: 267 10 14 Hold 
+: 278 5 15 them 
+: 284 7 15 tight
+: 292 34 10 ly 
+- 328
+: 341 10 6 A
+: 352 10 6 dorn 
+: 363 21 5 my 
+: 394 9 3 wings 
+: 404 6 2 to 
+: 411 15 3 thee 
+F 431 4 0 and 
+F 438 6 0 use 
+F 448 3 0 them 
+F 454 6 0 night
+F 464 26 0 ly 
+- 492
+: 506 5 11 I’m 
+: 512 4 11 nei
+: 517 5 11 ther 
+: 523 4 11 an
+: 528 4 11 gel 
+: 533 4 4 nor 
+: 538 5 4 a 
+: 544 4 4 de
+: 549 4 6 mon 
+: 554 10 6 spawn 
+- 566
+F 568 4 0 Though 
+F 575 3 0 some 
+F 581 3 0 will 
+F 586 3 0 call 
+F 591 3 0 me 
+F 597 13 0 god 
+- 612
+F 618 3 0 Gra
+F 624 3 0 vi
+F 629 3 0 ty 
+F 634 3 0 is 
+F 639 3 0 just 
+F 645 3 0 a 
+F 651 8 0 law 
+F 662 6 0 I’ve 
+F 672 8 0 wrought 
+- 682
+* 865 8 4 Hear 
+* 874 10 9 temp
+* 885 20 11 ta
+* 906 30 6 tion, 
+: 949 9 1 take 
+: 960 4 -8 the 
+: 965 9 -6 sky 
+: 980 6 1 for 
+: 987 13 2 all 
+: 1001 6 1 to 
+: 1008 14 -4 see 
+- 1024
+* 1035 8 5 Sheer 
+* 1045 5 9 e
+* 1052 3 9 la
+* 1056 14 11 ~
+* 1099 21 9 tion 
+* 1136 6 9 to 
+* 1143 7 9 write 
+* 1152 6 16 in 
+* 1162 6 13 his
+* 1173 2 11 to
+* 1178 4 11 rie
+* 1184 18 12 ~
+* 1216 6 11 ~ 
+- 1224
+: 1359 5 11 I’m 
+: 1365 5 11 nei
+: 1371 5 11 ther 
+: 1377 4 11 an
+: 1382 4 11 gel 
+: 1387 4 4 nor 
+: 1392 4 4 a 
+: 1397 5 4 de
+: 1403 4 6 mon 
+: 1408 10 6 spawn 
+- 1420
+F 1423 3 0 Though 
+F 1430 3 0 some 
+F 1435 3 0 will 
+F 1440 3 0 call 
+F 1446 3 0 me 
+F 1451 11 0 god 
+- 1464
+F 1471 3 0 Gra
+F 1477 3 0 vi
+F 1483 3 0 ty 
+F 1489 2 0 is 
+F 1493 3 0 just 
+F 1499 3 0 a 
+F 1505 6 0 fee
+F 1514 7 0 ble 
+F 1525 45 0 plot 
+- 1572
+F 1707 3 0 When 
+F 1713 2 0 I 
+F 1718 2 0 said 
+F 1723 3 0 I’d 
+F 1728 3 0 ne
+F 1734 3 0 ver 
+F 1739 3 0 kneel 
+F 1744 3 0 a
+F 1749 9 0 gain 
+- 1760
+F 1770 3 0 What 
+F 1776 3 0 I 
+F 1782 3 0 real
+F 1787 3 0 ly 
+F 1792 8 0 meant 
+- 1802
+F 1807 3 0 Was 
+F 1813 3 0 fuck
+F 1819 3 0 ing 
+F 1824 3 0 pull 
+F 1829 3 0 the 
+F 1835 3 0 pin 
+F 1840 3 0 cuz’ 
+F 1846 6 0 time 
+F 1855 3 0 is 
+F 1861 33 0 spent 
+- 1896
+: 2320 5 11 I’m 
+: 2326 4 11 nei
+: 2331 5 11 ther 
+: 2337 4 11 an
+: 2342 4 11 gel 
+: 2347 4 4 nor 
+: 2352 4 4 a 
+: 2357 5 4 de
+: 2363 4 6 mon 
+: 2368 11 6 spawn 
+- 2381
+F 2383 3 0 Though 
+F 2389 3 0 some 
+F 2395 2 0 will 
+F 2400 3 0 call 
+F 2410 3 0 me 
+F 2416 14 0 god 
+- 2432
+F 2440 11 0 Fuck 
+F 2463 19 0 that 
+- 2484
+F 2490 4 0 U
+F 2496 3 0 nite 
+F 2502 2 0 with 
+F 2506 3 0 ra
+F 2512 2 0 vens 
+F 2517 3 0 on 
+F 2523 2 0 their 
+F 2528 3 0 sha
+F 2534 3 0 dow 
+F 2539 8 0 flights 
+- 2549
+F 2554 3 0 As 
+F 2560 3 0 my 
+F 2565 3 0 noc
+F 2570 4 0 tur
+F 2575 5 0 nal 
+F 2581 8 0 right 
+- 2591
+F 2601 3 0 Gra
+F 2608 3 0 vi
+F 2613 3 0 ty 
+F 2618 3 0 is 
+F 2623 3 0 just 
+F 2629 3 0 a 
+F 2635 3 0 mor
+F 2641 1 0 tal’s 
+F 2646 2 0 vice 
+- 2650
+F 3005 1 0 When 
+F 3011 2 0 I 
+F 3016 3 0 said 
+F 3022 4 0 I’d 
+F 3028 3 0 ne
+F 3034 3 0 ver 
+F 3039 4 0 feel 
+F 3044 3 0 or 
+F 3049 13 0 see 
+- 3064
+F 3074 4 0 Love 
+F 3079 3 0 and 
+F 3084 4 0 sight 
+F 3090 17 0 are 
+F 3112 3 0 last 
+F 3118 3 0 re
+F 3124 6 0 sorts 
+F 3134 2 0 for 
+F 3139 52 0 me 
+E

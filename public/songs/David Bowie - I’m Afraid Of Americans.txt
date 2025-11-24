@@ -1,0 +1,349 @@
+#ARTIST:David Bowie
+#TITLE:I’m Afraid Of Americans
+#MP3:David Bowie - I’m Afraid Of Americans.mp3
+#CREATOR:peter.lustig
+#COVER:David Bowie - I’m Afraid Of Americans [CO].jpg
+#BACKGROUND:David Bowie - I’m Afraid Of Americans [BG].jpg
+#YEAR:1997
+#LANGUAGE:English
+#BPM:325.27
+#GAP:15030
+#VIDEO:v=LT3cERVRoQo,co=im-afraid-of-americans-62750d6450da0.jpg,bg=bowie-david-51214e77ef5fb.jpg
+: 0 9 3 Johnny’s 
+: 10 3 2 in 
+: 14 14 3 America, 
+- 30
+: 32 4 10 No 
+: 37 9 3 tax 
+: 47 4 3 at 
+: 52 4 3 the 
+: 57 10 3 wheel 
+- 88
+F 137 17 0 Ah-ah-ah, 
+F 155 5 0 ah-ah, 
+- 162
+F 164 12 0 Ah-ah, 
+F 177 19 0 ah-ah-ah 
+- 217
+: 259 9 0 No-one 
+: 270 8 2 needs 
+: 279 8 3 anyone, 
+- 289
+: 291 2 10 They 
+: 294 9 3 don’t 
+: 304 5 3 even 
+: 310 6 3 just 
+: 317 23 7 pretend 
+- 361
+F 399 14 0 Ah-ah-ah, 
+F 414 12 0 ah-ah, 
+F 427 8 0 ah-ah 
+- 437
+: 439 9 7 Johnny’s 
+: 449 4 7 in 
+: 454 15 10 America 
+- 479
+: 496 4 7 I’m 
+: 501 8 10 afraid 
+: 511 3 10 of 
+: 515 28 0 Americans 
+- 553
+: 565 3 10 I’m 
+: 569 5 10 afraid 
+: 575 1 10 of 
+: 577 4 10 the 
+: 582 16 5 world 
+- 608
+: 627 5 8 I’m 
+: 633 6 10 afraid 
+: 640 2 7 I 
+: 643 7 10 can’t 
+: 651 7 0 help 
+: 659 2 0 it 
+- 671
+: 694 3 7 I’m 
+: 698 5 0 afraid 
+: 704 3 0 I 
+: 708 7 10 can’t 
+- 736
+: 759 3 3 I’m 
+: 763 5 3 afraid 
+: 769 5 3 of 
+: 775 25 5 Americans 
+- 810
+: 823 5 3 I’m 
+: 829 6 3 afraid 
+: 836 2 3 of 
+: 839 1 3 the 
+: 841 15 5 world 
+- 866
+: 888 4 10 I’m 
+: 893 6 3 afraid 
+: 900 2 10 I 
+: 903 6 3 can’t 
+: 910 10 3 help 
+: 921 5 5 it 
+- 936
+: 952 4 3 I’m 
+: 957 7 3 afraid 
+: 965 2 10 I 
+: 968 9 3 can’t 
+- 987
+: 1018 5 3 I’m 
+: 1024 4 3 afraid 
+: 1029 4 3 of 
+: 1034 33 5 Americans 
+- 1110
+: 1283 11 7 Johnny’s 
+: 1295 3 3 in 
+: 1299 16 3 America 
+- 1317
+F 1319 16 0 Ah-ah-ah, 
+F 1339 8 0 ah-ah, 
+F 1351 12 0 ah-ah-ah 
+- 1384
+: 1432 6 3 Johnny 
+: 1439 6 3 wants 
+: 1446 1 10 a 
+: 1448 10 3 brain, 
+- 1462
+: 1464 7 3 Johnny 
+: 1472 4 0 wants 
+: 1477 1 7 to 
+: 1479 6 8 suck 
+: 1486 2 3 on 
+: 1489 2 7 a 
+: 1492 8 3 coke 
+- 1521
+: 1560 8 3 Johnny 
+: 1569 4 3 wants 
+: 1574 2 7 a 
+: 1577 9 0 woman, 
+- 1591
+: 1593 8 3 Johnny 
+: 1602 3 2 wants 
+: 1606 2 7 to 
+: 1609 5 3 think 
+: 1615 3 7 of 
+: 1619 1 2 a 
+: 1621 10 5 joke 
+- 1652
+F 1700 16 0 Ah-ah-ah, 
+F 1717 11 0 ah-ah, 
+F 1729 9 0 ah-ah, 
+F 1740 15 0 ah-ah-ah 
+- 1776
+: 1803 11 7 Johnny’s 
+: 1815 3 7 in 
+: 1819 14 7 America 
+- 1835
+F 1837 10 0 Ah-ah-ah, 
+F 1848 5 0 ah-ah, 
+F 1854 4 0 ah-ah, 
+F 1859 11 0 ah-ah-ah 
+- 1891
+: 1929 3 3 I’m 
+: 1933 6 3 afraid 
+: 1940 4 3 of 
+: 1945 28 5 Americans 
+- 1984
+: 1988 7 8 I’m 
+: 1996 9 3 afraid 
+: 2006 2 3 of 
+: 2009 3 3 the 
+: 2013 14 5 world 
+- 2037
+: 2058 5 3 I’m 
+: 2064 6 3 afraid 
+: 2071 2 3 I 
+: 2074 6 10 can’t 
+: 2081 9 5 help 
+: 2091 5 7 it 
+- 2106
+: 2124 3 10 I’m 
+: 2128 6 3 afraid 
+: 2135 2 3 I 
+: 2138 11 3 can’t 
+- 2159
+: 2189 4 10 I’m 
+: 2194 5 3 afraid 
+: 2200 3 10 of 
+: 2204 29 5 Americans 
+- 2243
+: 2254 4 5 I’m 
+: 2259 6 3 afraid 
+: 2266 1 3 of 
+: 2268 1 10 the 
+: 2270 10 3 world 
+- 2290
+: 2318 5 3 I’m 
+: 2324 6 3 afraid 
+: 2331 2 10 I 
+: 2334 7 3 can’t 
+: 2342 8 5 help 
+: 2351 7 5 it 
+- 2368
+: 2384 4 3 I’m 
+: 2389 5 3 afraid 
+: 2395 2 10 I 
+: 2398 10 3 can’t 
+- 2418
+: 2449 4 3 I’m 
+: 2454 6 3 afraid 
+: 2461 3 3 of 
+: 2465 29 5 Americans 
+- 2537
+: 2730 10 3 Johnny’s 
+: 2741 3 3 in 
+: 2745 15 2 America, 
+- 2762
+: 2764 7 2 Johnny 
+: 2772 11 0 looks 
+: 2784 4 2 up 
+: 2789 2 10 at 
+: 2792 3 7 the 
+: 2796 12 10 stars 
+- 2829
+: 2861 7 3 Johnny 
+: 2869 6 3 combs 
+: 2876 3 10 his 
+: 2880 2 3 hair 
+- 2883
+: 2885 9 0 And 
+: 2895 7 2 Johnny 
+: 2903 8 3 wants 
+: 2912 6 3 pussy 
+: 2919 3 3 in 
+: 2923 15 7 cars 
+- 2948
+: 2975 8 3 Johnny’s 
+: 2984 3 3 in 
+: 2988 18 3 America 
+- 3010
+F 3012 12 0 Ah-ah-ah, 
+F 3026 6 0 ah-ah, 
+F 3034 13 0 ah-ah, 
+F 3048 6 0 ah-ah-ah 
+- 3075
+: 3104 11 10 Johnny’s 
+: 3116 4 10 in 
+: 3121 13 10 America 
+- 3136
+F 3138 18 0 Ah-ah-ah, 
+F 3159 9 0 ah-ah, 
+F 3171 15 0 ah-ah 
+- 3196
+: 3226 5 3 I’m 
+: 3232 7 3 afraid 
+: 3240 3 3 of 
+: 3244 30 5 Americans 
+- 3284
+: 3294 4 3 I’m 
+: 3299 6 3 afraid 
+: 3306 1 3 of 
+: 3308 2 3 the 
+: 3311 18 5 world 
+- 3339
+: 3357 4 8 I’m 
+: 3362 8 3 afraid 
+: 3371 1 3 I 
+: 3373 5 10 can’t 
+: 3379 11 5 help 
+: 3391 10 5 it 
+- 3411
+: 3424 3 10 I’m 
+: 3428 6 3 afraid 
+: 3435 2 3 I 
+: 3438 10 3 can’t 
+- 3458
+: 3487 4 0 I’m 
+: 3492 9 3 afraid 
+: 3502 3 3 of 
+: 3506 25 5 Americans 
+- 3541
+: 3553 3 10 I’m 
+: 3557 8 3 afraid 
+: 3566 2 3 of 
+: 3569 2 3 the 
+: 3572 17 5 world 
+- 3599
+: 3615 6 5 I’m 
+: 3622 8 3 afraid 
+: 3631 2 3 I 
+: 3634 7 10 can’t 
+: 3642 9 5 help 
+: 3652 8 5 it 
+- 3670
+: 3685 3 10 I’m 
+: 3689 5 3 afraid 
+: 3695 1 3 I 
+: 3697 13 3 can’t 
+- 3720
+: 3749 4 3 I’m 
+: 3754 6 3 afraid 
+: 3761 3 3 of 
+: 3765 30 5 Americans 
+- 3805
+: 3812 5 5 I’m 
+: 3818 7 3 afraid 
+: 3826 2 5 of 
+: 3829 2 5 the 
+: 3832 17 5 world 
+- 3859
+: 3876 6 5 I’m 
+: 3883 8 3 afraid 
+: 3892 2 0 I 
+: 3895 7 10 can’t 
+: 3903 7 5 help 
+: 3911 10 5 it 
+- 3931
+: 3942 5 10 I’m 
+: 3948 6 3 afraid 
+: 3955 1 3 I 
+: 3957 12 5 can’t 
+- 3979
+: 4008 5 3 I’m 
+: 4014 6 10 afraid 
+: 4021 3 3 of 
+: 4025 33 0 Americans 
+- 4101
+: 4146 5 3 God 
+: 4152 2 3 is 
+: 4155 3 7 an 
+: 4159 21 5 American 
+- 4223
+: 4275 6 3 God 
+: 4282 3 7 is 
+: 4286 3 7 an 
+: 4290 26 5 American 
+- 4359
+: 4406 4 3 God 
+: 4411 4 3 is 
+: 4416 3 5 an 
+: 4420 18 5 American 
+- 4481
+: 4536 5 3 God 
+: 4542 3 7 is 
+: 4546 3 7 an 
+: 4550 22 5 American 
+- 4615
+: 4665 5 3 God 
+: 4671 4 7 is 
+: 4676 4 3 an 
+: 4681 22 5 American 
+- 4746
+: 4796 4 5 God 
+: 4801 4 7 is 
+: 4806 4 7 an 
+: 4811 22 10 American 
+- 4876
+: 4927 4 3 God 
+: 4932 3 7 is 
+: 4936 3 7 an 
+: 4940 22 5 American 
+- 5005
+: 5056 4 3 God 
+: 5061 3 7 is 
+: 5065 3 7 an 
+: 5069 22 5 American 
+E

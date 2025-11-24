@@ -1,0 +1,648 @@
+#ARTIST:Bars And Melody
+#TITLE:Hopeful
+#MP3:Bars And Melody - Hopeful.mp3
+#CREATOR:aac
+#GENRE:Pop
+#YEAR:2015
+#LANGUAGE:English
+#BPM:210
+#GAP:11000
+#VIDEO:v=wT3RhIJZu4k,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/28/d7/d028d793-e0e8-e6c1-a726-c76c2af30c90/dj.qxodydkl.jpg/5000x5000bb.jpg
+* 0 2 3 Oh
+* 4 2 2 ~
+* 8 1 2 ~
+* 10 1 3 ~
+* 12 2 2 ~
+* 16 10 0 ~ 
+- 28
+F 41 5 3 Yeah 
+- 48
+F 104 2 3 Please 
+F 108 2 3 help 
+F 112 1 3 me 
+F 114 4 3 God, 
+F 122 1 3 I 
+F 124 2 3 feel 
+F 128 1 3 so 
+F 130 1 3 a
+F 132 4 3 lone 
+- 137
+F 138 1 3 I’m 
+F 140 2 3 just 
+F 144 1 3 a 
+F 146 2 3 kid, 
+F 150 1 3 how 
+F 152 1 3 can 
+F 154 1 3 I 
+F 156 1 3 take 
+F 158 1 3 it 
+F 160 1 3 on 
+F 162 1 3 my 
+F 164 3 3 own 
+- 169
+F 170 1 3 I’ve 
+F 172 1 3 cried 
+F 174 1 3 too 
+F 176 1 3 ma
+F 178 1 3 ny 
+F 180 2 3 tears, 
+F 184 2 3 yeah, 
+F 188 1 3 wri
+F 190 1 3 ting 
+F 192 2 3 this 
+F 196 4 3 song 
+- 202
+F 204 1 3 Trying 
+F 206 1 3 to 
+F 208 1 3 fit 
+F 211 1 3 in, 
+F 214 1 3 where 
+F 216 2 3 do 
+F 220 1 3 I 
+F 222 2 3 be 
+F 226 4 3 born? 
+- 232
+F 234 1 3 I 
+F 236 1 3 wake 
+F 238 1 3 up 
+F 240 1 3 eve
+F 242 1 3 ry 
+F 244 2 3 day, 
+F 248 1 3 don’t 
+F 250 1 3 wan
+F 252 1 3 na 
+F 254 1 3 leave 
+F 256 1 3 my 
+F 258 2 3 home 
+- 261
+F 262 1 3 My 
+F 264 1 3 mom
+F 266 1 3 ma’s 
+F 268 2 3 as
+F 272 1 3 kin’ 
+F 274 2 3 me 
+F 280 1 3 why 
+F 282 1 3 I’m 
+F 284 1 3 al
+F 286 1 3 ways 
+F 288 1 3 a
+F 290 3 3 lone 
+- 295
+F 298 1 3 Too 
+F 300 2 3 scared 
+F 303 2 3 to 
+F 307 3 3 say, 
+F 314 1 3 too 
+F 316 2 3 scared 
+F 319 2 3 to 
+F 322 2 3 hol
+F 325 2 3 ler 
+- 329
+F 330 1 3 I’m 
+F 332 1 3 wal
+F 334 1 3 king 
+F 336 1 3 to 
+F 338 1 3 school 
+F 340 2 3 with 
+F 344 1 3 sweat 
+F 346 1 3 a
+F 348 2 3 round 
+F 352 1 3 my 
+F 354 2 3 col
+F 358 2 3 lar 
+- 361
+F 362 1 3 I’m 
+F 364 2 3 just 
+F 368 1 3 a 
+F 370 2 3 kid, 
+F 374 1 3 I 
+F 376 2 3 don’t 
+F 380 2 3 want 
+F 384 2 3 no 
+F 388 2 3 stress 
+- 392
+F 394 1 3 My 
+F 396 2 3 nerves 
+F 399 1 3 are 
+F 402 2 3 bad, 
+F 409 1 3 my 
+F 411 2 3 life’s 
+F 415 1 3 a 
+F 418 2 3 mess 
+- 422
+F 426 1 3 The 
+F 428 2 3 names 
+F 432 1 3 you 
+F 434 2 3 call 
+F 438 1 3 me, 
+F 440 2 3 they 
+F 443 2 3 hurt 
+F 446 2 3 real 
+F 450 3 3 bad 
+- 455
+F 458 1 3 I 
+F 460 1 3 want 
+F 462 1 3 to 
+F 464 1 3 tell 
+F 466 1 3 my 
+F 468 2 3 Mom 
+- 471
+F 472 1 3 But 
+F 474 1 3 she’s 
+F 476 1 3 ha
+F 478 1 3 vin’ 
+F 480 1 3 troub
+F 482 1 3 le 
+F 484 1 3 with 
+F 486 1 3 my 
+F 488 2 3 Dad 
+- 492
+F 494 1 3 I 
+F 496 2 3 feel 
+F 499 2 3 so 
+F 503 2 3 trapped, 
+F 506 1 3 there’s 
+F 508 1 3 no
+F 510 1 3 where 
+F 512 1 3 to 
+F 514 3 3 turn 
+- 519
+F 524 2 3 Come 
+F 528 1 3 to 
+F 530 2 3 school 
+- 533
+F 534 1 3 Don’t 
+F 536 1 3 wan
+F 538 1 3 na 
+F 540 1 3 fight 
+F 542 1 3 I 
+F 544 1 3 wan
+F 546 1 3 na 
+F 548 2 3 learn 
+- 552
+F 554 1 3 So 
+F 556 2 3 please 
+F 560 1 3 mis
+F 562 1 3 ter 
+F 564 1 3 Bul
+F 566 2 3 ly 
+- 570
+F 572 1 3 Tell 
+F 574 1 3 me 
+F 576 1 3 what 
+F 578 1 3 I’ve 
+F 580 3 3 done 
+- 585
+F 586 1 3 You 
+F 588 1 3 know 
+F 590 1 3 I 
+F 592 1 3 have 
+F 594 1 3 no 
+F 596 2 3 Dad... 
+- 600
+: 608 2 -2 Cause 
+: 612 2 0 I’m 
+: 616 4 3 hope
+: 624 4 0 ful, 
+: 632 2 3 yes 
+: 636 2 0 I 
+: 640 2 0 am 
+- 644
+: 648 2 3 Hope
+: 652 2 0 ful 
+: 656 2 -2 for 
+: 660 2 3 to
+: 664 4 3 day 
+- 670
+: 672 2 -2 Take 
+: 676 2 0 this 
+* 680 4 3 mu
+: 688 2 0 sic 
+: 692 2 -2 and 
+: 696 2 3 use 
+: 700 4 0 it 
+- 706
+: 708 2 -2 Let 
+: 712 2 0 it 
+: 716 2 3 take 
+: 720 1 0 you
+: 722 1 -2 ~ 
+: 724 2 -2 a
+: 728 4 3 way 
+- 734
+: 736 2 -2 And 
+: 740 2 0 be 
+: 744 4 3 hope
+: 752 4 3 ful, 
+: 760 4 5 hope
+: 768 4 5 ful 
+- 774
+: 776 2 3 And 
+: 780 2 3 he’ll 
+: 784 2 5 make 
+: 788 2 7 a 
+* 792 4 5 way 
+- 798
+: 800 2 7 I
+: 804 2 5 ~ 
+: 808 1 5 know
+: 810 1 3 ~
+: 812 2 0 ~ 
+: 816 2 0 it 
+: 820 2 3 ain’t 
+: 824 2 5 ea
+: 828 2 5 sy
+: 832 2 3 ~ 
+: 836 4 3 but 
+- 842
+: 848 2 0 That’s 
+: 852 2 3 o
+: 856 2 3 kay
+: 860 2 5 ~ 
+- 863
+: 864 2 7 Just 
+: 868 2 5 be 
+: 872 1 3 hope
+: 874 4 5 ~
+* 880 20 3 ful 
+- 902
+F 904 1 3 Or 
+F 906 1 3 whe
+F 908 1 3 ther 
+F 910 2 3 I’m 
+F 914 2 3 fat 
+F 922 1 3 or 
+F 924 1 3 whe
+F 926 1 3 ther 
+F 928 2 3 I’m 
+F 932 3 3 thin? 
+- 937
+F 938 1 3 You 
+F 940 1 3 call 
+F 942 1 3 me 
+F 944 1 3 a 
+F 946 2 3 lo
+F 950 1 3 ser, 
+F 952 2 3 you 
+F 956 1 3 call 
+F 958 1 3 me 
+F 960 1 3 a 
+F 962 3 3 fool 
+- 967
+F 970 1 3 I 
+F 972 1 3 ain’t 
+F 974 1 3 got 
+F 976 1 3 a 
+F 978 2 3 choice, 
+F 982 1 3 I 
+F 984 1 3 got
+F 986 1 3 ta 
+F 988 2 3 go 
+F 992 2 3 to 
+F 995 4 3 school 
+- 1001
+F 1002 1 3 I 
+F 1004 1 3 wish 
+F 1006 1 3 I 
+F 1008 1 3 had 
+F 1010 1 3 an 
+F 1012 2 3 an
+F 1015 1 3 gel 
+F 1018 1 3 to 
+F 1020 2 3 stand 
+F 1024 1 3 by 
+F 1026 1 3 my 
+F 1028 4 3 side 
+- 1033
+F 1034 1 3 I’m 
+F 1036 1 3 sha
+F 1038 1 3 king 
+F 1040 1 3 my 
+F 1042 2 3 fear, 
+F 1046 1 3 I’m 
+F 1048 2 3 so 
+F 1052 2 3 scared 
+F 1055 3 3 in
+F 1060 3 3 side 
+- 1065
+F 1068 1 3 Does 
+F 1070 1 3 it 
+F 1072 1 3 real
+F 1074 1 3 ly 
+F 1076 1 3 mat
+F 1078 1 3 ter 
+F 1080 1 3 if 
+F 1082 1 3 I 
+F 1084 1 3 ain’t 
+F 1086 1 3 got 
+F 1088 1 3 the 
+F 1090 2 3 looks? 
+- 1093
+F 1094 1 3 Why 
+F 1096 1 3 do 
+F 1098 1 3 you 
+F 1100 1 3 al
+F 1102 2 3 ways 
+F 1106 2 3 hurt 
+F 1109 1 3 me 
+F 1111 1 3 and 
+F 1113 2 3 des
+F 1116 2 3 troy 
+- 1119
+: 1120 2 -2 Cause 
+: 1124 2 0 I’m 
+: 1128 4 3 hope
+: 1136 4 0 ful, 
+: 1144 2 3 yes 
+: 1148 2 0 I 
+: 1152 2 0 am 
+- 1156
+: 1160 2 3 Hope
+: 1164 2 0 ful 
+: 1168 2 -2 for 
+: 1172 2 3 to
+: 1176 4 3 day 
+- 1182
+: 1184 2 -2 Take 
+: 1188 2 0 this 
+* 1192 4 3 mu
+: 1200 2 0 sic 
+: 1204 2 -2 and 
+: 1208 2 3 use 
+: 1212 4 0 it 
+- 1218
+: 1220 2 -2 Let 
+: 1224 2 0 it 
+: 1228 2 3 take 
+: 1232 1 0 you
+: 1234 1 -2 ~ 
+: 1236 2 -2 a
+: 1240 4 3 way 
+- 1246
+: 1248 2 -2 And 
+: 1252 2 0 be 
+: 1256 4 3 hope
+: 1264 4 3 ful, 
+: 1272 4 5 hope
+: 1280 4 5 ful 
+- 1286
+: 1288 2 3 And 
+: 1292 2 3 he’ll 
+: 1296 2 5 make 
+: 1300 2 7 a 
+: 1304 4 5 way 
+- 1310
+: 1312 2 7 I
+: 1316 2 5 ~ 
+* 1320 1 5 know
+* 1322 1 3 ~
+* 1324 2 0 ~ 
+: 1328 2 0 it 
+: 1332 2 3 ain’t 
+: 1336 2 5 ea
+: 1340 2 5 sy
+: 1344 2 3 ~ 
+: 1348 4 3 but 
+- 1354
+: 1360 2 0 That’s 
+: 1364 2 3 o
+: 1368 2 3 kay
+: 1372 2 5 ~ 
+- 1375
+: 1376 2 7 Just 
+: 1380 2 5 be 
+: 1384 1 3 hope
+: 1386 4 5 ~
+: 1392 20 3 ful 
+- 1413
+F 1414 1 3 I 
+F 1416 1 3 did
+F 1418 1 3 n’t 
+F 1420 1 3 ask 
+F 1422 1 3 to 
+F 1424 1 3 be 
+F 1426 2 3 born 
+F 1430 1 3 but 
+F 1432 1 3 now 
+F 1434 1 3 I 
+F 1436 2 3 have 
+F 1440 1 3 to 
+F 1442 3 3 pay 
+- 1447
+F 1450 1 3 I 
+F 1452 2 3 ain’t 
+F 1456 1 3 got 
+F 1458 1 3 no 
+F 1460 2 3 food, 
+F 1464 1 3 you 
+F 1466 2 3 take 
+F 1469 2 3 all 
+F 1473 2 3 I 
+F 1476 4 3 have 
+- 1482
+F 1484 1 3 When 
+F 1486 1 3 I 
+F 1488 1 3 give 
+F 1490 1 3 it 
+F 1492 1 3 to 
+F 1494 1 3 you, 
+F 1496 1 3 you 
+F 1498 2 3 sear
+F 1502 2 3 chin’ 
+F 1506 1 3 my 
+F 1508 4 3 bags 
+- 1513
+F 1514 1 3 I 
+F 1516 2 3 wrote 
+F 1520 2 3 this 
+F 1524 4 3 song 
+F 1530 1 3 for 
+F 1532 2 3 you 
+F 1536 2 3 to 
+F 1539 3 3 see 
+- 1544
+F 1546 1 3 We 
+F 1548 1 3 could
+F 1550 1 3 ’ve 
+F 1552 2 3 been 
+F 1556 2 3 friends, 
+F 1560 3 3 yeah, 
+F 1565 2 3 you 
+F 1568 1 3 and 
+F 1570 3 3 me 
+- 1575
+F 1580 2 3 Mis
+F 1584 1 3 ter 
+F 1586 1 3 Bul
+F 1588 2 3 ly 
+F 1592 1 3 take 
+F 1594 1 3 a 
+F 1596 1 3 mo
+F 1598 2 3 ment 
+F 1603 3 3 please 
+- 1607
+F 1607 1 3 Eve
+F 1609 2 3 ry 
+F 1612 2 3 sing
+F 1616 1 3 le 
+F 1618 4 3 day... 
+- 1624
+: 1632 2 -1 Cause 
+: 1636 2 1 I’m 
+: 1640 4 4 hope
+: 1648 4 1 ful, 
+: 1656 2 4 yes 
+: 1660 2 1 I 
+: 1664 2 1 am 
+- 1668
+: 1672 2 4 Hope
+: 1676 2 1 ful 
+: 1680 2 -1 for 
+: 1684 2 4 to
+: 1688 4 4 day 
+- 1694
+: 1696 2 -1 Take 
+: 1700 2 1 this 
+: 1704 4 4 mu
+: 1712 2 1 sic 
+* 1716 2 -1 and 
+: 1720 2 4 use 
+: 1724 4 1 it 
+- 1730
+: 1732 2 -1 Let 
+: 1736 2 1 it 
+: 1740 2 4 take 
+: 1744 1 1 you
+: 1746 1 -1 ~ 
+: 1748 2 -1 a
+: 1752 4 4 way 
+- 1758
+: 1760 2 -1 And 
+: 1764 2 1 be 
+: 1768 4 4 hope
+: 1776 4 4 ful, 
+: 1784 4 6 hope
+: 1792 4 6 ful 
+- 1798
+: 1800 2 4 And 
+: 1804 2 4 he’ll 
+: 1808 2 6 make 
+: 1812 2 8 a 
+: 1816 4 6 way 
+- 1822
+: 1824 2 8 I
+: 1828 2 6 ~ 
+: 1832 1 6 know
+: 1834 1 4 ~
+* 1836 2 1 ~ 
+* 1840 2 1 it 
+: 1844 2 4 ain’t 
+: 1848 2 6 ea
+: 1852 2 6 sy
+: 1856 2 4 ~ 
+: 1860 4 4 but 
+- 1866
+: 1872 2 1 That’s 
+: 1876 2 4 o
+: 1880 2 4 kay
+: 1884 2 6 ~ 
+- 1887
+: 1888 2 -1 Cause 
+: 1892 2 1 I’m 
+: 1896 4 4 hope
+: 1904 4 1 ful, 
+: 1912 2 4 yes 
+: 1916 2 1 I 
+: 1920 2 1 am 
+- 1924
+: 1928 2 4 Hope
+: 1932 2 1 ful 
+: 1936 2 -1 for 
+* 1940 2 4 to
+: 1944 4 4 day 
+- 1950
+: 1952 2 -1 Take 
+: 1956 2 1 this 
+: 1960 4 4 mu
+: 1968 2 1 sic 
+: 1972 2 -1 and 
+: 1976 2 4 use 
+: 1980 4 1 it 
+- 1986
+: 1988 2 -1 Let 
+: 1992 2 1 it 
+: 1996 2 4 take 
+: 2000 1 1 you
+: 2002 1 -1 ~ 
+: 2004 2 -1 a
+: 2008 4 4 way 
+- 2014
+: 2016 2 -1 And 
+: 2020 2 1 be 
+: 2024 4 4 hope
+* 2032 4 4 ful, 
+: 2040 4 6 hope
+: 2048 4 6 ful 
+- 2054
+: 2056 2 4 And 
+: 2060 2 4 he’ll 
+: 2064 2 6 make 
+: 2068 2 8 a 
+: 2072 4 6 way 
+- 2078
+: 2080 2 8 I
+: 2084 2 6 ~ 
+: 2088 1 6 know
+: 2090 1 4 ~
+: 2092 2 1 ~ 
+: 2096 2 1 it 
+: 2100 2 4 ain’t 
+: 2104 2 6 ea
+: 2108 2 6 sy
+: 2112 2 4 ~ 
+: 2116 4 4 but 
+- 2122
+: 2128 2 1 That’s 
+: 2132 2 4 o
+: 2136 2 4 kay
+* 2140 2 6 ~ 
+- 2143
+: 2144 2 8 Just 
+: 2148 2 6 be 
+: 2152 1 4 hope
+: 2154 4 6 ~
+: 2160 5 4 ful
+: 2166 3 -1 ~
+: 2170 1 1 ~
+: 2172 7 -1 ~
+: 2180 4 -4 ~ 
+- 2185
+F 2185 2 3 We 
+F 2188 2 3 lost 
+F 2192 2 3 our 
+F 2195 2 3 home, 
+F 2198 2 3 I’m 
+F 2201 1 3 li
+F 2203 2 3 vin’ 
+F 2206 1 3 from 
+F 2208 2 3 a 
+F 2211 4 3 bag 
+- 2217
+F 2219 2 3 Yo 
+F 2223 1 3 mis
+F 2225 2 3 ter 
+F 2228 1 3 Bul
+F 2230 2 3 ly, 
+F 2236 2 3 help 
+F 2239 2 3 me 
+F 2243 3 3 please 
+- 2248
+F 2250 2 3 I’m 
+F 2253 2 3 flesh 
+F 2256 2 3 and 
+F 2260 2 3 blood, 
+F 2266 2 3 ac
+F 2271 2 3 cept 
+F 2275 2 3 me 
+F 2280 7 3 please 
+E

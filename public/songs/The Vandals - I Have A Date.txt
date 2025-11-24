@@ -1,0 +1,355 @@
+#ARTIST:The Vandals
+#TITLE:I Have A Date
+#MP3:The Vandals - I Have A Date.mp3
+#CREATOR:Hoanzl
+#COVER:The Vandals - I Have A Date [CO].jpg
+#BACKGROUND:The Vandals - I Have A Date [BG].jpg
+#GENRE:Pop Punk
+#YEAR:1995
+#LANGUAGE:English
+#BPM:212
+#GAP:10120
+#VIDEO:v=qNS-mbJoqmE,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0a/06/1e/0a061e4d-cb01-d175-7254-e89f06506d98/00888072354685.rgb.jpg/5000x5000bb.jpg,bg=https://upload.wikimedia.org/wikipedia/commons/5/59/The_Vandals_2011-12-18_02.JPG,preview=38.21,medley=72-606,tags=lovesong%2Ccute%2CSimpletones%2CCover
+#START:8.0
+F 0 1 7 Al
+F 2 4 9 right! 
+- 34
+: 72 1 0 I 
+: 74 1 0 saw 
+: 76 1 0 this 
+: 78 3 0 girl 
+: 83 1 -1 and 
+: 85 1 -1 she 
+: 87 3 -3 drove 
+: 91 1 -1 me 
+: 93 3 -3 wild 
+- 102
+: 105 1 0 She 
+: 107 1 0 looked 
+: 109 1 0 at 
+: 111 3 0 me 
+: 115 1 0 and 
+: 117 1 0 I 
+: 119 1 -1 looked 
+: 121 2 0 and 
+: 125 4 -1 smiled 
+- 135
+: 137 1 0 The 
+: 139 1 0 cu
+: 141 1 0 test 
+: 143 3 0 girl 
+: 147 1 -1 you 
+: 149 1 -1 could 
+: 151 2 -3 e
+: 154 1 -1 ver 
+: 157 3 -3 see 
+- 166
+: 168 1 0 I 
+: 170 1 0 ne
+: 172 1 0 ver 
+: 174 1 0 dreamed 
+: 176 1 0 that 
+: 178 1 0 she’d 
+: 180 1 0 go 
+: 182 1 -1 out 
+: 184 2 0 with 
+: 188 2 -1 me 
+- 197
+: 200 1 0 We 
+: 202 1 0 met 
+: 204 1 0 at 
+: 206 3 0 school 
+: 210 1 -1 so 
+: 212 1 -1 I 
+: 214 3 -3 asked 
+: 218 1 -1 her 
+: 220 3 -3 out 
+- 229
+: 232 1 0 The 
+: 234 1 0 on
+: 236 1 0 ly 
+: 238 1 0 girl 
+: 240 1 0 I 
+: 242 1 0 e
+: 244 1 0 ver 
+: 246 2 2 thought 
+: 249 1 4 a
+: 251 2 2 bout 
+- 262
+: 265 1 0 She’s 
+: 268 1 0 six
+: 270 3 0 teen 
+: 274 1 -1 and 
+: 276 1 -1 she’s 
+: 278 3 -3 so 
+: 282 1 -1 di
+: 284 4 -3 vine 
+- 294
+: 296 1 0 I 
+: 298 1 0 ne
+: 300 1 0 ver 
+: 302 1 0 thought 
+: 304 1 0 that 
+: 306 1 0 I 
+: 308 1 0 could 
+: 310 1 2 make 
+: 313 2 4 her 
+: 317 3 2 mine 
+- 325
+: 327 1 5 I’m 
+: 329 2 5 in 
+: 333 4 2 love, 
+: 341 1 4 I 
+: 343 1 5 just 
+: 345 2 5 can’t 
+: 349 3 2 wait 
+: 358 1 4 to
+: 360 17 2 night 
+- 378
+: 380 3 2 I 
+: 384 3 0 have 
+: 388 1 -1 a 
+: 390 4 0 date 
+- 395
+: 397 3 0 I 
+: 401 3 4 have 
+: 405 1 7 a 
+* 407 17 7 da
+: 425 9 4 ~te 
+- 436
+: 438 1 4 With 
+: 440 1 5 the 
+: 442 3 5 cu
+: 446 2 4 test 
+: 450 3 2 girl 
+: 454 1 0 in 
+: 456 4 0 town 
+- 460
+: 462 2 0 I 
+: 466 3 4 have 
+: 470 1 7 a 
+: 472 17 7 da
+* 490 8 4 ~te 
+- 499
+: 501 1 4 And 
+: 503 1 4 I’m 
+: 505 1 5 the 
+: 507 1 5 hap
+: 509 1 4 pi
+: 511 2 4 est 
+: 515 3 2 boy 
+: 519 1 0 a
+: 521 5 0 round 
+- 535
+: 539 1 5 I’m 
+: 541 1 5 in 
+: 545 4 2 love 
+- 550
+: 552 1 4 I 
+: 554 1 5 just 
+: 556 2 5 can’t 
+: 560 3 2 wait 
+- 565
+: 567 1 2 Cause 
+: 569 1 4 to
+: 571 17 2 night 
+- 589
+: 591 3 2 I 
+: 596 3 0 have 
+: 600 1 -1 a 
+: 602 4 0 date 
+- 616
+F 620 8 12 Yeah 
+- 656
+: 765 1 0 Went 
+: 767 1 0 to 
+: 769 1 0 the 
+: 771 1 0 mo
+: 773 1 0 vies 
+: 775 1 -1 in 
+: 777 1 -1 my 
+: 779 3 -3 pa
+: 783 1 -1 rents 
+: 786 3 -3 car 
+- 795
+: 797 1 0 I 
+: 799 1 0 ne
+: 801 1 0 ver 
+: 803 1 0 dreamed 
+: 805 1 0 that 
+: 807 1 0 I 
+: 809 1 0 would 
+: 811 2 -1 get 
+: 814 2 0 that 
+: 817 4 -1 far 
+- 827
+: 830 1 0 I 
+: 832 1 0 picked 
+: 834 1 0 her 
+: 836 2 0 up 
+: 840 1 -1 at 
+: 842 1 -1 a 
+: 844 1 -3 quar
+: 846 1 -3 ter 
+: 848 1 -1 to 
+: 850 3 -3 eight 
+- 859
+: 861 1 0 I 
+: 863 1 0 got 
+: 865 1 0 there 
+: 867 1 0 ear
+: 869 1 0 ly, 
+: 872 1 0 did
+: 874 1 0 n’t 
+: 876 1 -1 want 
+: 878 1 -1 to 
+: 880 1 0 be 
+: 882 3 -1 late 
+- 891
+: 894 1 0 I 
+: 896 1 0 ne
+: 898 1 0 ver 
+: 900 3 0 dreamed 
+: 904 1 -1 it 
+: 906 1 -1 would 
+: 909 3 -3 come 
+: 913 1 -1 to 
+: 915 3 -3 this 
+- 924
+R 926 2 -5 I 
+R 929 1 -3 drove 
+R 931 1 -4 her 
+R 933 3 -5 home 
+R 937 1 -5 and 
+R 939 1 -5 she 
+R 941 1 -4 gave 
+R 944 1 -5 me 
+R 946 1 -5 a 
+R 948 4 -5 kiss 
+- 958
+: 960 1 2 I’m 
+: 962 1 2 in 
+: 964 3 0 love 
+: 969 1 -1 and 
+: 971 1 -1 it’s 
+: 973 3 -3 here 
+: 977 1 -1 to 
+: 979 4 -3 stay 
+- 988
+: 990 1 0 She 
+: 992 1 0 said 
+: 994 1 0 she 
+: 996 1 0 real
+: 998 1 0 ly 
+: 1000 1 0 wants 
+: 1002 1 0 to 
+: 1004 2 2 see 
+: 1007 1 4 me 
+: 1009 1 4 a
+: 1011 3 2 gain 
+- 1019
+: 1021 1 5 I’m 
+: 1023 2 5 in 
+: 1026 4 2 love, 
+: 1034 1 4 I 
+: 1036 1 5 just 
+: 1038 2 5 can’t 
+: 1042 3 2 wait 
+: 1051 1 4 to
+: 1053 17 2 night 
+- 1071
+: 1073 3 2 I 
+: 1077 3 0 have 
+: 1081 1 -1 a 
+: 1083 4 0 date 
+- 1087
+: 1089 3 0 I 
+: 1093 3 4 have 
+: 1097 1 7 a 
+* 1099 16 7 da
+: 1116 9 4 ~te 
+- 1126
+: 1128 1 4 With 
+: 1130 1 5 the 
+: 1132 3 5 cu
+: 1136 2 4 test 
+: 1140 3 2 girl 
+: 1144 1 0 in 
+: 1146 4 0 town 
+- 1150
+: 1152 2 0 I 
+: 1156 3 4 have 
+: 1160 1 7 a 
+: 1162 17 7 da
+* 1180 7 4 ~te 
+- 1188
+: 1190 1 4 And 
+: 1192 1 4 I’m 
+: 1194 1 5 the 
+: 1196 1 5 hap
+: 1198 1 4 pi
+: 1200 2 4 est 
+: 1204 3 2 boy 
+: 1208 1 0 a
+: 1210 6 0 round 
+- 1224
+: 1227 1 5 I’m 
+: 1229 1 5 in 
+: 1233 4 2 love 
+- 1239
+: 1241 1 4 I 
+: 1243 1 5 just 
+: 1245 2 5 can’t 
+: 1249 3 2 wait 
+- 1253
+: 1255 1 2 Cause 
+: 1257 1 4 to
+: 1259 17 2 night 
+- 1277
+: 1279 3 2 I 
+: 1284 3 0 have 
+: 1288 1 -1 a 
+: 1290 4 0 date 
+- 1308
+: 1342 3 2 I 
+: 1347 3 0 have 
+: 1351 1 -1 a 
+: 1353 4 0 date 
+- 1371
+: 1405 3 2 I 
+: 1410 3 0 have 
+: 1414 1 -1 a 
+: 1416 4 12 date 
+- 1434
+: 1470 3 2 I 
+: 1475 3 0 have 
+: 1479 1 -1 a 
+F 1481 2 4 da
+F 1484 4 7 ~te 
+- 1516
+: 1546 1 5 I’m 
+: 1548 1 5 in 
+: 1552 4 2 love 
+- 1558
+: 1560 1 4 I 
+: 1562 1 5 just 
+: 1565 2 5 can’t 
+: 1569 3 2 wait 
+- 1572
+: 1573 1 4 Be 
+: 1575 1 2 cause 
+: 1577 1 4 to
+: 1579 31 2 ni
+* 1611 2 9 ~
+* 1614 13 7 ~ght 
+- 1628
+: 1630 3 2 I 
+: 1635 3 0 have 
+: 1640 1 -1 a 
+: 1644 4 12 date 
+- 1676
+: 1713 9 2 I 
+: 1724 7 0 have 
+* 1733 7 -1 a 
+: 1751 54 0 date 
+E

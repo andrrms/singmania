@@ -1,0 +1,576 @@
+#ARTIST:Ke$ha
+#TITLE:Grow A Pear
+#MP3:Ke$ha - Grow A Pear.mp3
+#CREATOR:klops_007
+#YEAR:2010
+#LANGUAGE:English
+#BPM:240.02
+#GAP:8000
+#VIDEO:a=JV_X4AdRBwU,co=cannibal-50ec6d71257fb.jpg,bg=kesha-4f898325be875.jpg
+F 0 2 9 Last 
+F 4 2 9 night 
+F 8 2 9 I 
+F 12 2 9 had 
+F 16 2 9 e
+F 20 2 9 nough 
+F 24 2 9 of 
+F 28 2 9 you 
+- 30
+F 32 2 9 I 
+F 36 2 9 put 
+F 40 2 9 on 
+F 44 2 9 the 
+F 48 4 9 brakes 
+- 54
+F 56 2 9 And 
+F 60 2 9 I 
+F 64 2 9 could 
+F 68 2 9 tell 
+F 72 2 9 you 
+F 76 2 9 took 
+F 80 2 9 it 
+F 84 2 9 hard 
+- 86
+F 88 2 9 It 
+F 92 2 9 was 
+F 96 2 9 all 
+F 100 2 9 o
+F 104 2 9 ver 
+F 108 2 9 your 
+F 112 4 9 face 
+- 118
+F 120 2 9 That 
+F 124 2 9 you 
+F 128 2 9 were 
+F 132 4 9 slip
+F 138 4 9 ping 
+- 142
+F 144 2 9 And 
+F 148 4 9 flip
+F 154 4 9 ping 
+- 158
+F 160 2 9 But 
+F 164 2 9 here 
+F 168 2 9 is 
+F 172 2 9 the 
+F 176 4 9 sitch 
+- 189
+F 192 2 9 I 
+F 196 2 9 signed 
+F 200 2 9 up 
+F 204 2 9 for 
+F 208 2 9 a 
+F 212 2 9 man 
+- 214
+F 216 2 9 But 
+F 220 2 9 you 
+F 224 2 9 are 
+F 228 4 9 just 
+F 236 4 9 a 
+F 244 3 9 bitch 
+- 247
+: 248 2 9 You 
+: 252 2 10 should 
+: 256 2 10 know
+: 260 26 12 ~ 
+: 288 2 12 oh 
+: 292 2 12 oh 
+: 296 2 12 oh 
+: 300 2 12 oh 
+: 304 2 12 oh 
+- 310
+: 312 2 9 That 
+: 316 2 10 I 
+: 320 2 10 love
+: 324 26 12 ~ 
+: 352 2 12 ah 
+: 356 2 12 ah 
+: 360 2 12 ah 
+: 364 2 12 ah 
+: 368 2 12 ah 
+- 374
+: 376 2 9 You 
+: 380 2 10 a 
+: 384 30 12 lo 
+: 416 2 12 ah 
+: 420 2 12 ah 
+: 424 2 12 ah 
+: 428 2 12 ah 
+: 432 2 12 ah 
+- 441
+F 444 2 9 But 
+F 448 2 9 I 
+F 452 4 9 just 
+F 460 4 9 can’t 
+F 468 4 9 date 
+F 476 2 9 a 
+F 480 4 9 dude 
+F 488 2 9 with 
+F 492 4 9 a 
+F 500 4 9 vag 
+- 506
+: 508 2 9 When 
+: 512 2 7 we 
+: 516 4 5 fell 
+: 524 4 5 in 
+: 532 4 5 love 
+: 540 2 5 you 
+: 544 4 5 made 
+: 552 2 5 my 
+: 556 4 5 heart 
+: 564 4 5 drop 
+: 572 2 5 Then 
+: 576 2 5 you 
+: 580 4 5 had 
+: 588 4 5 me 
+: 596 4 5 think
+: 604 2 5 ing 
+: 608 4 5 ’bout 
+: 616 2 5 you 
+: 620 4 5 non
+: 628 2 5 stop 
+: 636 2 9 But 
+: 640 2 7 you 
+: 644 4 5 cry 
+: 652 4 5 ’bout 
+: 660 4 5 this 
+: 668 2 5 and 
+: 672 4 5 whine 
+: 680 2 5 a
+: 684 4 5 bout 
+: 692 2 5 that 
+: 700 2 5 When 
+: 704 2 4 you 
+: 708 4 2 grow 
+: 716 2 9 a 
+: 720 4 7 pear 
+: 732 2 5 you 
+: 736 2 2 can 
+: 740 4 0 call 
+: 748 2 7 me 
+: 752 4 5 back 
+: 764 2 9 Yeah 
+: 768 2 7 I 
+: 772 4 5 think 
+: 780 4 5 you’re 
+: 788 4 5 hot 
+: 796 2 5 I 
+: 800 4 5 think 
+: 808 2 5 you’re 
+: 812 4 5 al
+: 820 4 5 right 
+: 828 2 5 But 
+: 832 2 5 you’re 
+: 836 4 5 act
+: 844 4 5 ing 
+: 852 4 5 like 
+: 860 2 5 a 
+: 864 4 5 chick 
+: 872 2 5 all 
+: 876 4 5 the 
+: 884 4 5 time 
+: 892 2 9 You 
+: 896 2 7 were 
+: 900 4 5 cool 
+: 908 4 5 and 
+: 916 4 5 now 
+: 924 2 5 you’re 
+: 928 4 5 not 
+: 936 2 5 just 
+: 940 4 5 like 
+: 948 4 5 that 
+: 956 2 5 When 
+: 960 2 4 you 
+: 964 4 2 grow 
+: 972 2 9 a 
+: 976 6 7 pear 
+: 988 2 5 you 
+: 992 2 2 can 
+: 996 4 0 call 
+: 1004 2 7 me 
+: 1008 4 5 back 
+- 1024
+F 1028 1 9 When 
+F 1030 1 9 I 
+F 1032 2 9 first 
+F 1036 2 9 met 
+F 1040 2 9 you 
+- 1042
+F 1044 2 9 Pan
+F 1048 2 9 ties 
+F 1052 2 9 dropp
+F 1056 2 9 ing! 
+- 1058
+F 1060 1 9 E
+F 1062 1 9 very
+F 1064 1 9 time 
+F 1066 1 9 I 
+F 1068 2 9 saw 
+F 1072 2 9 you 
+- 1074
+F 1076 2 9 It 
+F 1080 2 9 was 
+F 1084 2 9 on 
+F 1088 2 9 and! 
+- 1090
+F 1092 2 9 One 
+F 1096 1 9 day 
+F 1098 1 9 you 
+F 1100 2 9 asked 
+F 1104 2 9 if 
+F 1108 1 9 we 
+F 1110 1 9 could 
+F 1112 2 9 just 
+F 1116 2 9 talk 
+- 1118
+F 1120 2 9 And 
+F 1124 2 9 that’s 
+F 1128 2 9 the 
+F 1132 2 9 rea
+F 1136 2 9 son 
+F 1140 2 9 why 
+F 1144 2 9 I’m 
+F 1148 2 9 walk
+F 1152 2 9 ing 
+- 1154
+F 1156 2 9 If 
+F 1160 2 9 I 
+F 1164 2 9 am 
+F 1168 2 9 ho
+F 1172 2 9 nest 
+- 1174
+F 1176 2 9 I’m 
+F 1180 2 9 just 
+F 1184 2 9 not 
+F 1188 2 9 hooked 
+F 1192 2 9 on 
+F 1196 2 9 your 
+F 1200 2 9 pho
+F 1204 2 9 nics 
+- 1206
+F 1208 2 9 I’m 
+F 1212 2 9 not 
+F 1216 1 9 try
+F 1218 1 9 ing 
+F 1220 2 9 be 
+F 1224 2 9 rude 
+F 1228 2 9 or 
+F 1232 2 9 crude 
+- 1234
+F 1236 2 9 I 
+F 1240 2 9 just 
+F 1244 1 9 wan
+F 1246 1 9 ted 
+F 1248 2 9 one 
+F 1252 2 9 thing 
+F 1256 2 9 from 
+F 1260 2 9 you 
+- 1269
+: 1272 2 9 You 
+: 1276 2 10 should 
+: 1280 2 10 know
+: 1284 26 12 ~ 
+: 1312 2 12 oh 
+: 1316 2 12 oh 
+: 1320 2 12 oh 
+: 1324 2 12 oh 
+: 1328 2 12 oh 
+- 1334
+: 1336 2 9 That 
+: 1340 2 10 I 
+: 1344 2 10 love
+: 1348 26 12 ~ 
+: 1376 2 12 ah 
+: 1380 2 12 ah 
+: 1384 2 12 ah 
+: 1388 2 12 ah 
+: 1392 2 12 ah 
+: 1396 2 12 ah 
+- 1398
+: 1400 2 9 You 
+: 1404 2 10 a 
+: 1408 30 12 lo 
+: 1440 2 12 ah 
+: 1444 2 12 ah 
+: 1448 2 12 ah 
+: 1452 2 12 ah 
+: 1456 2 12 ah 
+- 1465
+F 1468 2 9 But 
+F 1472 2 9 I 
+F 1476 4 9 just 
+F 1484 4 9 can’t 
+F 1492 4 9 date 
+F 1500 2 9 a 
+F 1504 4 9 dude 
+F 1512 2 9 with 
+F 1516 4 9 a 
+F 1524 4 9 vag 
+- 1530
+: 1532 2 9 When 
+: 1536 2 7 we 
+: 1540 4 5 fell 
+: 1548 4 5 in 
+: 1556 4 5 love 
+- 1562
+: 1564 2 5 You 
+: 1568 4 5 made 
+: 1576 2 5 my 
+: 1580 4 5 heart 
+: 1588 4 5 drop 
+- 1594
+: 1596 2 5 Then 
+: 1600 2 5 you 
+: 1604 4 5 had 
+: 1612 4 5 me 
+: 1620 4 5 think
+: 1628 2 5 ing 
+- 1630
+: 1632 4 5 ’Bout 
+: 1640 2 5 you 
+: 1644 4 5 non
+: 1652 2 5 stop 
+- 1658
+: 1660 2 9 But 
+: 1664 2 7 you 
+: 1668 4 5 cry 
+: 1676 4 5 ’bout 
+: 1684 4 5 this 
+- 1690
+: 1692 2 5 And 
+: 1696 4 5 whine 
+: 1704 2 5 a
+: 1708 4 5 bout 
+: 1716 2 5 that 
+- 1722
+: 1724 2 5 When 
+: 1728 2 4 you 
+: 1732 4 2 grow 
+: 1740 2 9 a 
+: 1744 4 7 pear 
+- 1754
+: 1756 2 4 You 
+: 1760 2 2 can 
+: 1764 6 0 call 
+: 1772 2 7 me 
+: 1776 6 5 back 
+- 1786
+: 1788 2 9 Yeah 
+: 1792 2 7 I 
+: 1796 4 5 think 
+: 1804 4 5 you’re 
+: 1812 4 5 hot 
+- 1818
+: 1820 2 5 I 
+: 1824 4 5 think 
+: 1832 2 5 you’re 
+: 1836 4 5 al
+: 1844 4 5 right 
+- 1850
+: 1852 2 5 But 
+: 1856 2 5 you’re 
+: 1860 4 5 act
+: 1868 4 5 ing 
+: 1876 4 5 like 
+: 1884 2 5 a 
+: 1888 4 5 chick 
+: 1896 2 5 all 
+: 1900 4 5 the 
+: 1908 4 5 time 
+- 1914
+: 1916 2 9 You 
+: 1920 2 7 were 
+: 1924 4 5 cool 
+: 1932 4 5 and 
+: 1940 4 5 now 
+- 1946
+: 1948 2 5 You’re 
+: 1952 4 5 not 
+: 1960 2 5 just 
+: 1964 4 5 like 
+: 1972 4 5 that 
+- 1978
+: 1980 2 5 When 
+: 1984 2 4 you 
+: 1988 4 2 grow 
+: 1996 2 9 a 
+: 2000 6 7 pear 
+- 2010
+: 2012 2 4 You 
+: 2016 2 2 can 
+: 2020 6 0 call 
+: 2028 2 7 me 
+: 2032 6 5 back 
+- 2042
+: 2044 2 5 When 
+: 2048 2 4 you 
+: 2052 4 2 grow 
+: 2060 2 9 a 
+: 2064 6 7 pear 
+- 2074
+: 2076 2 4 You 
+: 2080 2 2 can 
+: 2084 6 0 call 
+: 2092 2 7 me 
+: 2096 6 5 back 
+- 2106
+: 2108 2 5 When 
+: 2112 2 4 you 
+: 2116 4 2 grow 
+: 2124 2 9 a 
+: 2128 6 7 pear 
+- 2138
+: 2140 2 4 You 
+: 2144 2 2 can 
+: 2148 6 0 call 
+: 2156 2 7 me 
+: 2160 6 5 back 
+- 2176
+: 2180 4 2 Grow 
+: 2188 2 9 a 
+: 2192 8 7 pear 
+- 2202
+: 2204 2 4 You 
+: 2208 2 2 can 
+: 2212 6 0 call 
+: 2220 2 7 me 
+: 2224 6 5 back 
+- 2234
+: 2236 2 5 When 
+: 2240 2 4 you 
+: 2244 4 2 grow 
+: 2252 2 9 a 
+: 2256 6 7 pear 
+- 2266
+: 2268 2 4 You 
+: 2272 2 2 can 
+: 2276 6 0 call 
+: 2284 2 7 me 
+: 2288 6 5 back 
+- 2304
+F 2322 8 9 Oh 
+- 2346
+: 2372 4 5 Grow 
+: 2380 2 5 a 
+: 2384 4 5 pear 
+- 2394
+: 2396 2 2 You 
+: 2400 2 2 can 
+: 2404 4 2 call 
+: 2412 2 2 me 
+: 2416 8 5 back 
+- 2434
+F 2444 4 9 And 
+F 2452 5 9 no 
+- 2458
+F 2460 1 9 I 
+F 2462 1 9 don’t 
+F 2464 2 9 want 
+F 2468 1 9 to 
+F 2470 2 9 see 
+F 2474 2 9 your 
+F 2477 2 9 man
+F 2481 2 9 gi
+F 2485 6 9 na 
+- 2491
+: 2492 2 5 When 
+: 2496 2 4 you 
+: 2500 4 2 grow 
+: 2508 2 9 a 
+: 2512 6 7 pear 
+- 2522
+: 2524 2 4 You 
+: 2528 2 2 can 
+: 2532 6 0 call 
+: 2540 2 7 me 
+: 2544 6 5 back 
+- 2554
+: 2556 2 9 When 
+: 2560 2 7 we 
+: 2564 4 5 fell 
+: 2572 4 5 in 
+: 2580 4 5 love 
+- 2586
+: 2588 2 5 You 
+: 2592 4 5 made 
+: 2600 2 5 my 
+: 2604 4 5 heart 
+: 2612 4 5 drop 
+- 2618
+: 2620 2 5 Then 
+: 2624 2 5 you 
+: 2628 4 5 had 
+: 2636 4 5 me 
+: 2644 4 5 think
+: 2652 2 5 ing 
+- 2654
+: 2656 4 5 ’Bout 
+: 2664 2 5 you 
+: 2668 4 5 non
+: 2676 2 5 stop 
+- 2682
+: 2684 2 9 But 
+: 2688 2 7 you 
+: 2692 4 5 cry 
+: 2700 4 5 ’bout 
+: 2708 4 5 this 
+- 2714
+: 2716 2 5 And 
+: 2720 4 5 whine 
+: 2728 2 5 a
+: 2732 4 5 bout 
+: 2740 2 5 that 
+- 2746
+: 2748 2 5 When 
+: 2752 2 4 you 
+: 2756 4 2 grow 
+: 2764 2 9 a 
+: 2768 4 7 pear 
+- 2778
+: 2780 2 5 You 
+: 2784 2 2 can 
+: 2788 4 0 call 
+: 2796 2 7 me 
+: 2800 4 5 back 
+- 2810
+: 2812 2 9 Yeah 
+: 2816 2 7 I 
+: 2820 4 5 think 
+: 2828 4 5 you’re 
+: 2836 4 5 hot 
+: 2844 2 5 I 
+: 2848 4 5 think 
+: 2856 2 5 you’re 
+: 2860 4 5 al
+: 2868 4 5 right 
+: 2876 2 5 But 
+: 2880 2 5 you’re 
+: 2884 4 5 act
+: 2892 4 5 ing 
+: 2900 4 5 like 
+: 2908 2 5 a 
+: 2912 4 5 chick 
+: 2920 2 5 all 
+: 2924 4 5 the 
+: 2932 4 5 time 
+: 2940 2 9 You 
+: 2944 2 7 were 
+: 2948 4 5 cool 
+: 2956 4 5 and 
+: 2964 4 5 now 
+: 2972 2 5 you’re 
+: 2976 4 5 not 
+: 2984 2 5 just 
+: 2988 4 5 like 
+: 2996 4 5 that 
+: 3004 2 5 When 
+: 3008 2 4 you 
+: 3012 4 2 grow 
+: 3020 2 9 a 
+: 3024 6 7 pear 
+: 3036 2 5 you 
+: 3040 2 2 can 
+: 3044 4 0 call 
+: 3052 2 7 me 
+: 3056 4 5 back 
+E

@@ -1,0 +1,265 @@
+#ARTIST:Billy Cobb
+#TITLE:Pacific Sunset
+#MP3:Billy Cobb - Pacific Sunset.mp3
+#CREATOR:Viktor1234678, Hoanzl, krasserdude
+#YEAR:2020
+#LANGUAGE:English
+#BPM:381.47
+#GAP:17500
+#VIDEO:a=Fm3XcjxfZZo,co=https://i.ytimg.com/vi/IemmwbMN_Dk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGsgayhrMA8=&rs=AOn4CLBaR0TTPUSHoUnwgtyBE5dW4ZZvrQ,co-crop=280-0-720-720
+: 0 9 1 I 
+: 13 7 1 was 
+: 24 7 1 drag
+: 33 5 1 ging 
+: 42 5 3 my 
+: 49 17 0 feet 
+- 68
+: 86 3 -2 I 
+: 92 3 -4 got 
+: 98 7 0 home 
+: 110 6 0 and 
+: 122 8 0 fell 
+: 135 4 0 right 
+: 141 3 1 a
+: 148 12 -2 sleep 
+- 162
+: 184 6 -2 And 
+: 191 4 0 my 
+: 197 9 1 girl, 
+: 209 8 1 she 
+: 221 7 1 gave 
+: 233 4 1 me 
+: 239 4 3 a 
+: 246 12 0 kiss 
+- 260
+: 275 4 0 And 
+: 282 3 -2 I 
+: 288 4 -4 was 
+: 295 8 0 just 
+: 308 7 0 too 
+: 319 8 0 tired 
+: 330 5 0 to 
+: 337 4 1 re
+: 344 11 -2 sist 
+- 357
+: 369 4 1 Ri
+: 375 4 -2 ding 
+: 381 4 5 my 
+: 388 13 5 bike 
+: 417 4 1 o
+: 423 4 -2 ver 
+: 429 4 5 the 
+: 436 11 3 path 
+- 449
+: 467 4 1 Hard
+: 473 4 -2 ly 
+: 479 4 3 a 
+: 486 10 3 soul, 
+: 510 4 0 Pa
+: 517 3 0 ci
+: 523 3 -2 fic 
+: 529 7 3 sun
+: 542 8 1 set 
+- 552
+: 566 3 0 Beau
+: 572 3 3 ti
+: 579 3 6 ful 
+: 585 11 5 lights 
+: 614 4 1 shine 
+: 621 3 -2 in 
+: 627 3 5 the 
+: 633 11 3 west 
+- 646
+: 663 4 0 Chill 
+: 670 4 -2 in 
+: 676 4 3 the 
+: 683 11 3 air, 
+: 707 4 0 Pa
+: 713 4 0 ci
+: 719 4 -2 fic 
+: 726 8 3 sun
+: 739 9 1 set 
+- 750
+: 768 4 -2 They 
+: 775 4 -2 left 
+: 781 3 0 the 
+: 787 7 1 bo
+: 799 8 1 dies 
+: 812 5 1 un
+: 821 4 1 der 
+: 829 4 3 the 
+: 837 11 0 pier 
+- 850
+: 867 5 0 And 
+: 874 4 -2 made 
+: 881 3 -4 their 
+: 887 7 0 trou
+: 899 7 0 bles 
+: 910 7 0 all 
+: 919 5 0 dis
+: 928 4 1 ap
+: 935 11 -2 pear 
+- 948
+: 971 5 -2 So 
+: 979 3 0 I 
+: 985 8 1 know 
+: 997 7 1 that 
+: 1010 5 1 this 
+: 1019 4 1 is 
+: 1027 3 3 my 
+: 1034 15 3 place 
+- 1051
+: 1064 3 0 If 
+: 1070 4 0 I 
+: 1076 4 0 can 
+: 1083 7 10 on
+: 1095 7 5 ly 
+: 1108 7 3 make 
+: 1119 4 1 an 
+: 1125 4 0 es
+: 1132 9 1 cape 
+- 1143
+: 1156 4 1 Ri
+: 1162 4 -2 ding 
+: 1168 4 5 my 
+: 1175 13 5 bike 
+: 1204 4 1 o
+: 1210 4 -2 ver 
+: 1216 4 5 the 
+: 1223 11 3 path 
+- 1236
+: 1253 4 1 Hard
+: 1259 4 -2 ly 
+: 1265 4 3 a 
+: 1272 10 3 soul, 
+: 1296 4 0 Pa
+: 1303 3 0 ci
+: 1309 3 -2 fic 
+: 1315 7 3 sun
+: 1328 8 1 set 
+- 1338
+: 1353 3 0 Beau
+: 1359 3 3 ti
+: 1366 3 6 ful 
+: 1372 11 5 lights 
+: 1401 4 1 shine 
+: 1408 3 -2 in 
+: 1414 3 5 the 
+: 1420 11 3 west 
+- 1433
+: 1449 4 0 Chill 
+: 1456 4 -2 in 
+: 1462 4 3 the 
+: 1469 11 3 air, 
+: 1493 4 0 Pa
+: 1499 4 0 ci
+: 1505 4 -2 fic 
+: 1512 8 3 sun
+: 1525 9 1 set 
+- 1536
+: 1542 4 0 Pa
+: 1549 4 0 ci
+: 1555 4 -2 fic 
+: 1562 7 3 sun
+: 1574 8 1 set, 
+: 1593 4 0 Pa
+: 1599 3 0 ci
+: 1604 4 -2 fic 
+: 1611 7 3 sun
+: 1623 8 0 set 
+- 1633
+: 1642 4 0 Pa
+: 1648 4 0 ci
+: 1654 4 -2 fic 
+: 1661 7 3 sun
+: 1673 9 0 set, 
+: 1691 4 0 Pa
+: 1697 4 0 ci
+: 1703 4 -2 fic 
+: 1710 8 3 sun
+: 1722 9 1 set 
+- 1733
+: 1751 7 5 Tea
+: 1760 6 3 ring 
+: 1770 3 1 me 
+: 1775 3 3 a
+: 1779 19 5 part 
+- 1800
+: 1856 5 5 Leave 
+: 1864 4 3 me 
+: 1872 2 1 in 
+: 1876 2 3 a 
+: 1881 17 5 daze 
+- 1900
+: 1956 5 5 But 
+: 1964 4 5 I’d 
+: 1972 4 5 do 
+: 1980 3 6 a
+: 1984 3 3 ny
+: 1989 12 1 thing 
+- 2003
+: 2056 5 -2 To 
+: 2064 5 1 taste 
+: 2072 4 3 the 
+: 2080 4 5 love 
+: 2085 3 3 you 
+: 2090 14 1 bring 
+- 2106
+: 2145 6 3 There’s 
+: 2154 4 5 o
+: 2162 4 3 n
+: 2170 5 1 ly 
+: 2179 10 1 you, 
+: 2204 13 10 you, 
+: 2228 12 8 you 
+- 2242
+: 2254 5 5 O
+: 2262 5 3 n
+: 2270 5 1 ly 
+: 2278 10 1 you, 
+: 2305 10 10 you, 
+: 2328 10 8 you 
+- 2340
+: 2353 6 5 O
+: 2361 5 3 n
+: 2370 5 1 ly 
+: 2380 7 1 you 
+- 2389
+: 4625 3 1 Ri
+: 4630 4 -2 ding 
+: 4636 3 5 my 
+: 4643 13 5 bike 
+: 4672 4 1 o
+: 4679 3 -2 ver 
+: 4685 4 5 the 
+: 4692 12 3 path 
+- 4706
+: 4721 5 1 Hard
+: 4728 3 -2 ly 
+: 4734 3 3 a 
+: 4740 12 3 soul, 
+: 4765 3 0 Pa
+: 4771 3 0 ci
+: 4777 4 -2 fic 
+: 4784 7 3 sun
+: 4796 7 1 set 
+- 4805
+: 4821 3 0 Beau
+: 4826 4 3 ti
+: 4833 4 6 ful 
+: 4839 11 5 lights 
+: 4868 4 1 out 
+: 4875 4 -2 in 
+: 4882 4 5 the 
+: 4888 12 3 west 
+- 4902
+: 4919 4 0 Chill 
+: 4925 4 -2 in 
+: 4931 5 3 the 
+: 4938 9 3 air, 
+: 4961 3 0 Pa
+: 4967 4 0 ci
+: 4973 4 -2 fic 
+: 4980 7 3 sun
+: 4993 8 1 set 
+E

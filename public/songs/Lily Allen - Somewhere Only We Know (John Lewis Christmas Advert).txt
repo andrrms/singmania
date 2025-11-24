@@ -1,0 +1,195 @@
+#ARTIST:Lily Allen
+#TITLE:Somewhere Only We Know (John Lewis Christmas Advert)
+#MP3:Lily Allen - Somewhere Only We Know (John Lewis Christmas Advert).mp3
+#CREATOR:ricky_ricardo
+#GENRE:Pop
+#YEAR:2013
+#LANGUAGE:English
+#BPM:344
+#GAP:17910
+#VIDEO:v=bGF2O9Mz4yg,co=somewhere-only-we-know-65f472e58ae6d.jpg,bg=https://i.ytimg.com/vi/mer6X7nOY_o/maxresdefault.jpg,tags=Christmas
+: 0 6 2 I 
+: 8 12 9 walked 
+: 22 1 9 a
+: 24 32 6 cross 
+: 62 6 6 an 
+: 70 11 6 emp
+: 82 1 4 ty 
+: 84 30 6 land 
+- 116
+: 128 6 7 I 
+: 136 6 7 knew 
+: 144 1 7 the 
+: 146 13 7 path
+: 160 6 7 way 
+: 168 8 7 like 
+: 178 6 7 the 
+: 186 6 7 back 
+: 194 6 6 of 
+: 202 4 4 my 
+: 208 27 7 ha
+: 236 10 6 ~nd 
+- 248
+: 256 6 2 I 
+: 264 10 9 felt 
+: 276 1 9 the 
+: 278 36 6 earth 
+* 316 5 4 be
+* 322 14 6 neath 
+* 338 5 4 my
+* 344 10 6 ~ 
+* 356 22 6 feet 
+- 380
+: 382 10 7 Sat 
+: 394 6 7 by 
+: 402 1 7 the 
+: 404 9 7 ri
+: 414 10 7 ver 
+: 426 6 7 and 
+: 434 6 7 it 
+: 442 6 7 made 
+: 450 6 6 me 
+: 458 7 4 com
+: 466 23 7 ple
+: 490 10 6 ~te 
+- 502
+: 512 6 6 Oh 
+: 520 7 14 sim
+: 528 4 14 ple 
+: 534 38 11 thing 
+: 574 10 6 where 
+: 586 6 9 have 
+: 594 1 9 you 
+: 596 13 6 go
+: 610 20 5 ~ne 
+- 632
+: 638 10 7 I’m 
+: 650 7 7 get
+: 658 6 7 ting 
+: 666 6 7 tired 
+: 674 6 7 and 
+: 682 4 7 I 
+: 688 6 7 need 
+: 696 7 7 some
+: 704 10 6 one 
+: 716 6 4 to 
+: 724 9 6 re
+: 734 34 7 ly 
+: 770 28 6 on 
+- 800
+: 848 8 2 I 
+: 858 6 9 came 
+: 866 3 9 a
+: 870 36 6 cross 
+* 908 6 6 a 
+* 916 7 6 fal
+* 924 9 4 le
+* 934 14 6 ~n 
+* 950 14 6 tree 
+- 966
+: 972 8 7 I 
+: 982 8 7 felt 
+: 992 1 7 the 
+: 994 9 7 bran
+: 1004 8 7 ches 
+: 1014 8 7 of 
+: 1024 6 7 it 
+: 1032 5 7 loo
+: 1038 8 6 king 
+: 1048 4 4 at 
+: 1054 25 7 me
+: 1080 12 6 ~ 
+- 1094
+: 1102 8 2 Is 
+: 1112 8 9 this 
+: 1122 1 9 the 
+: 1124 36 6 place 
+: 1164 8 4 we 
+: 1174 10 6 used 
+: 1186 1 9 to 
+: 1188 24 6 love 
+- 1214
+: 1228 10 7 Is 
+: 1240 6 7 this 
+: 1248 1 7 the 
+: 1250 12 7 place 
+: 1264 1 7 that 
+: 1266 12 7 I’ve 
+: 1280 6 7 been 
+: 1288 7 1 drea
+: 1296 14 2 ming 
+: 1312 23 7 o
+: 1336 18 6 ~f 
+- 1356
+: 1358 8 6 Oh 
+: 1368 7 14 sim
+: 1376 6 14 ple 
+: 1384 40 11 thing 
+: 1426 8 6 where 
+: 1436 6 9 have 
+: 1444 1 9 you 
+: 1446 38 6 gone 
+- 1486
+: 1492 6 7 I’m 
+: 1500 9 7 get
+: 1510 8 7 ting 
+: 1520 10 7 tired 
+: 1532 1 7 and 
+: 1534 8 7 I 
+: 1544 4 7 need 
+: 1550 13 7 some
+: 1564 6 6 one 
+: 1572 6 4 to 
+: 1580 11 6 re
+: 1592 34 7 ly 
+: 1628 24 6 on 
+- 1654
+: 1690 8 2 And 
+: 1700 16 14 if 
+: 1718 6 13 you 
+: 1726 8 13 have 
+: 1736 4 11 a 
+: 1742 7 6 mi
+: 1750 8 4 nute 
+: 1760 1 6 why 
+: 1762 12 9 don’t 
+: 1776 14 6 we 
+: 1792 20 4 go 
+- 1814
+: 1822 19 14 Tal
+: 1842 12 13 king 
+: 1856 3 13 a
+: 1860 1 13 bout 
+: 1862 2 11 it 
+: 1866 9 6 some
+: 1876 10 4 where 
+: 1888 5 6 on
+: 1894 8 9 ly 
+: 1904 12 6 we 
+: 1918 20 4 know 
+- 1940
+: 1952 4 15 Is 
+: 1958 16 14 this 
+: 1976 6 13 could 
+: 1984 8 12 be 
+: 1994 4 11 the 
+: 2000 8 6 end 
+: 2010 6 4 of 
+: 2018 5 6 eve
+: 2024 7 9 ry
+: 2032 19 6 thi
+: 2052 10 4 ~ng 
+- 2064
+: 2070 14 6 So 
+: 2086 6 4 why 
+: 2094 8 9 don’t 
+: 2104 14 6 we 
+: 2120 20 4 go 
+: 2142 11 6 some
+: 2154 8 4 where 
+: 2164 7 6 on
+: 2172 8 9 ly 
+: 2182 46 2 we 
+: 2230 31 1 kno
+: 2262 30 0 ~w 
+E

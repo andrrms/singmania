@@ -1,0 +1,129 @@
+#ARTIST:Marusha
+#TITLE:Over The Rainbow
+#MP3:Marusha - Over The Rainbow.mp3
+#CREATOR:karmidi
+#YEAR:1994
+#LANGUAGE:English
+#BPM:326
+#GAP:44460
+#VIDEO:v=9HmFg0WYx34,co=https://m.media-amazon.com/images/I/61mWjeHVdpL.jpg,bg=marusha-4fdc49251ca3e.jpg
+: 0 28 -2 Some
+* 32 28 10 where 
+: 64 12 9 o
+: 80 4 5 ver 
+: 88 4 7 the 
+: 96 12 9 rain
+: 112 6 10 bow 
+- 120
+: 128 28 -2 Way 
+* 160 28 7 up 
+: 192 28 5 high 
+- 222
+: 256 24 -2 There’s 
+: 288 28 3 a 
+: 320 12 2 land 
+: 336 4 -2 and 
+: 344 4 0 I 
+: 352 12 2 heard 
+: 368 6 3 of 
+- 376
+: 384 12 0 Once 
+: 400 4 -3 in 
+: 408 4 -2 a 
+: 416 12 0 lul
+: 432 12 2 la
+* 448 24 -2 by 
+- 474
+: 512 28 -2 Some
+* 544 28 10 where 
+: 576 12 9 o
+: 592 4 5 ver 
+: 600 4 7 the 
+: 608 12 9 rain
+: 624 6 10 bow 
+- 632
+: 640 28 -2 Way 
+* 672 28 7 up 
+: 704 28 5 high 
+- 734
+: 768 24 -2 There’s 
+: 800 28 3 a 
+: 832 12 2 land 
+: 848 4 -2 and 
+: 856 4 0 I 
+: 864 12 2 heard 
+: 880 6 3 of 
+- 888
+: 896 12 0 Once 
+: 912 4 -3 in 
+: 920 4 -2 a 
+: 928 12 0 lul
+: 944 12 2 la
+* 960 24 -2 by 
+- 986
+: 2048 28 -2 Some
+* 2080 28 10 where 
+: 2112 12 9 o
+: 2128 4 5 ver 
+: 2136 4 7 the 
+: 2144 12 9 rain
+: 2160 7 10 bow 
+- 2169
+: 2176 28 -2 Way 
+* 2208 28 7 up 
+: 2240 28 5 high 
+- 2270
+: 2304 24 -2 There’s 
+: 2336 28 3 a 
+: 2368 12 2 land 
+: 2384 4 -2 and 
+: 2392 4 0 I 
+: 2400 12 2 heard 
+: 2416 6 3 of 
+- 2424
+: 2432 12 0 Once 
+: 2448 4 -3 in 
+: 2456 4 -2 a 
+: 2464 12 0 lul
+: 2480 12 2 la
+* 2496 24 -2 by 
+- 2522
+: 2560 28 -2 Some
+* 2592 28 10 where 
+: 2624 12 9 o
+: 2640 4 5 ver 
+: 2648 4 7 the 
+: 2656 12 9 rain
+: 2672 6 10 bow 
+- 2680
+: 2688 28 -2 Way 
+* 2720 28 7 up 
+: 2752 28 5 high 
+- 2782
+: 3072 28 -2 Some
+* 3104 28 10 where 
+: 3136 12 9 o
+: 3152 4 5 ver 
+: 3160 4 7 the 
+: 3168 12 9 rain
+: 3184 6 10 bow 
+- 3192
+: 3200 28 -2 Way 
+* 3232 28 7 up 
+: 3264 24 5 high 
+- 3290
+: 3328 24 -2 There’s 
+: 3360 28 3 a 
+: 3392 12 2 land 
+: 3408 4 -2 and 
+: 3416 4 0 I 
+: 3424 12 2 heard 
+: 3440 6 3 of 
+- 3448
+: 3456 12 0 Once 
+: 3472 4 -3 in 
+: 3480 4 -2 a 
+: 3488 12 0 lul
+: 3504 12 2 la
+* 3520 24 -2 by 
+E

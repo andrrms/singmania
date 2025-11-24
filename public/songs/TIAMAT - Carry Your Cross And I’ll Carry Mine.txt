@@ -1,0 +1,255 @@
+#ARTIST:TIAMAT
+#TITLE:Carry Your Cross And I’ll Carry Mine
+#MP3:TIAMAT - Carry Your Cross And I’ll Carry Mine.mp3
+#CREATOR:Trivium182
+#GENRE:Death, Doom, Gothic, Psychedelic
+#YEAR:2003
+#LANGUAGE:English
+#BPM:328
+#GAP:47460
+#VIDEO:a=BjJVHdp9grs,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/b7/36/1cb7369b-4d36-6780-a52e-621cf3823b29/886443600751.jpg/5000x5000bb.jpg
+: 0 7 3 Blame 
+: 8 7 5 my 
+: 16 7 7 clo
+: 24 7 10 ven 
+: 32 15 5 hooves 
+- 48
+: 48 7 5 If 
+: 56 7 2 I 
+: 64 7 6 sink 
+: 72 7 7 what 
+: 80 7 6 does 
+: 88 7 2 it 
+: 96 16 4 prove 
+- 114
+: 120 7 4 I’ll 
+: 128 7 4 al
+: 136 3 6 ways 
+: 140 7 7 be 
+: 148 7 10 your 
+: 156 24 6 prey 
+- 182
+: 252 7 4 Blame 
+: 260 7 6 my 
+: 268 7 6 croo
+: 276 7 10 ked 
+: 284 20 6 cross 
+- 306
+: 308 7 2 Say 
+: 316 7 6 I’m 
+: 324 7 7 your 
+: 332 7 6 bit
+: 340 7 2 ter 
+: 348 16 4 loss 
+- 366
+: 372 3 4 The 
+: 376 7 4 winds 
+: 384 7 6 of 
+: 392 7 7 hell 
+: 400 7 4 are 
+: 408 15 6 blo
+: 424 15 7 wing 
+: 440 19 9 your 
+: 460 20 11 way 
+- 482
+: 504 11 4 Ca
+: 516 7 4 rry 
+: 524 3 4 your 
+: 528 28 6 cross 
+: 560 7 4 and 
+: 568 7 5 I’ll 
+: 576 7 6 ca
+: 584 7 7 rry 
+: 592 32 4 mine 
+- 626
+: 632 7 4 Dig 
+: 640 7 4 your 
+: 648 7 4 own 
+: 656 15 6 hole 
+: 672 11 4 and 
+: 684 15 6 you’ll 
+: 700 15 7 be 
+* 716 32 11 fine 
+- 750
+: 756 11 11 Build 
+: 768 7 11 your 
+: 776 7 11 own 
+: 784 11 11 tow
+: 796 15 9 er 
+: 812 11 5 ’til 
+: 824 7 7 hea
+: 832 7 7 vens 
+: 840 3 6 de
+: 844 15 7 vo
+: 860 15 4 ur 
+- 876
+: 876 7 4 Your 
+: 884 7 4 ve
+: 892 7 4 ry 
+: 900 7 4 last 
+: 908 12 6 hour 
+- 922
+: 1516 7 4 Blame 
+: 1524 7 5 it 
+: 1532 7 7 on 
+: 1540 7 11 hell’s 
+: 1548 31 6 fire 
+- 1580
+: 1580 7 5 And 
+: 1588 7 7 on 
+: 1596 7 5 my 
+: 1604 7 2 de
+: 1612 20 4 sires 
+- 1634
+: 1636 3 4 The 
+: 1640 11 4 skies 
+: 1652 3 6 are 
+: 1656 11 7 cry
+: 1668 7 9 ing 
+* 1676 28 6 blood 
+- 1706
+: 1772 7 4 Give 
+: 1780 7 6 me 
+: 1788 7 7 all 
+: 1796 3 11 your 
+: 1800 20 6 lies 
+- 1822
+: 1828 7 2 And 
+: 1836 7 5 blame 
+: 1844 3 7 the 
+: 1848 11 6 lord 
+: 1860 3 3 of 
+: 1864 20 4 flies 
+- 1886
+: 1888 7 4 The 
+: 1896 7 4 face 
+: 1904 7 5 of 
+: 1912 7 7 e
+: 1920 7 4 vil 
+: 1928 15 6 is 
+: 1944 11 7 the 
+: 1956 19 9 face 
+: 1976 7 11 of 
+* 1984 36 11 God 
+- 2022
+: 2024 7 4 Ca
+: 2032 7 4 rry 
+: 2040 7 4 your 
+: 2048 24 6 cross 
+: 2080 7 4 and 
+: 2088 7 5 I’ll 
+: 2096 3 6 ca
+: 2100 7 7 rry 
+: 2108 28 4 mine 
+- 2138
+: 2148 7 4 Dig 
+: 2156 7 4 your 
+: 2164 7 4 own 
+: 2172 19 6 hole 
+: 2192 11 4 and 
+: 2204 15 6 you’ll 
+: 2220 15 7 be 
+* 2236 36 11 fine 
+- 2274
+: 2276 7 11 Build 
+: 2284 7 11 your 
+: 2292 7 11 own 
+: 2300 15 11 tow
+: 2316 15 9 er 
+: 2332 7 5 ’til 
+: 2340 7 7 hea
+: 2348 7 7 vens 
+: 2356 7 6 de
+: 2364 15 7 vo
+: 2380 8 4 ur 
+- 2390
+: 2396 7 4 Your 
+: 2404 7 4 ve
+: 2412 7 4 ry 
+: 2420 7 4 last 
+: 2428 12 6 hour 
+- 2442
+: 3036 3 6 Ca
+: 3040 11 6 rry 
+: 3052 7 6 your 
+: 3060 24 8 cross 
+: 3092 7 6 and 
+: 3100 7 7 I’ll 
+: 3108 3 8 ca
+: 3112 7 9 rry 
+: 3120 28 6 mine 
+- 3150
+: 3164 3 6 Dig 
+: 3168 7 6 your 
+: 3176 7 6 own 
+: 3184 19 8 hole 
+: 3204 11 6 and 
+: 3216 15 8 you’ll 
+: 3232 15 9 be 
+* 3248 32 13 fine 
+- 3282
+: 3288 7 13 Build 
+: 3296 7 13 your 
+: 3304 7 13 own 
+: 3312 15 13 tow
+: 3328 15 12 er 
+: 3344 7 7 ’til 
+: 3352 7 9 hea
+: 3360 7 9 vens 
+: 3368 7 8 de
+: 3376 15 9 vo
+: 3392 15 6 ur 
+- 3408
+: 3408 7 6 Your 
+: 3416 3 6 ve
+: 3420 7 6 ry
+: 3428 11 6 last 
+: 3440 12 8 hour 
+- 3454
+: 3540 7 6 Ca
+: 3548 7 6 rry 
+: 3556 7 6 your 
+: 3564 28 8 cross 
+: 3596 7 6 and 
+: 3604 7 7 I’ll 
+: 3612 7 8 ca
+: 3620 7 9 rry 
+: 3628 32 6 mine 
+- 3662
+: 3668 7 6 Dig 
+: 3676 7 6 your 
+: 3684 7 6 own 
+: 3692 15 8 hole 
+: 3708 11 6 and 
+: 3720 19 8 you’ll 
+: 3740 11 9 be 
+* 3752 36 13 fine 
+- 3790
+: 3792 7 13 Build 
+: 3800 11 13 your 
+: 3812 7 13 own 
+: 3820 11 13 tow
+: 3832 15 12 er 
+: 3848 7 7 ’til 
+: 3856 7 9 hea
+: 3864 7 9 vens 
+: 3872 7 8 de
+: 3880 11 9 vo
+: 3892 16 6 ur 
+- 3910
+: 3912 7 6 Your 
+: 3920 7 6 ve
+: 3928 7 6 ry 
+: 3936 7 6 last 
+: 3944 8 8 hour 
+- 3954
+: 4556 3 6 Ca
+: 4560 7 6 rry 
+: 4568 7 6 your 
+: 4576 28 8 cross 
+: 4608 7 6 and 
+: 4616 7 7 I’ll 
+: 4624 7 8 ca
+: 4632 7 9 rry 
+: 4640 28 6 mine 
+E

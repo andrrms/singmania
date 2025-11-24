@@ -1,0 +1,317 @@
+#ARTIST:Doro
+#TITLE:Raise Your Fist In The Air
+#MP3:Doro - Raise Your Fist In The Air.mp3
+#CREATOR:Fepo
+#COVER:Doro - Raise Your Fist In The Air [CO].jpg
+#BACKGROUND:Doro - Raise Your Fist In The Air [BG].jpg
+#GENRE:Rock
+#YEAR:2012
+#LANGUAGE:English
+#BPM:234.57
+#GAP:9620
+#VIDEO:v=XGFa_xddMJQ,co=raise-your-fist-in-the-air-5095ddaa4eae2.jpg
+: 0 5 8 I 
+: 8 2 8 feel 
+: 12 2 8 it 
+: 16 2 8 in 
+: 20 2 8 the 
+: 24 3 7 air 
+- 30
+: 32 2 8 Feel 
+: 36 2 8 this 
+: 40 2 8 life 
+: 44 2 8 it’s 
+: 48 2 10 so 
+: 52 2 8 un
+: 56 5 8 fair 
+- 62
+: 64 2 8 Where 
+: 69 2 8 you’re 
+: 73 2 8 born 
+: 77 2 5 in
+: 81 2 5 to 
+: 85 2 5 is 
+: 89 2 10 hit 
+: 93 2 10 or 
+: 97 7 11 miss 
+- 114
+: 129 5 10 No 
+: 137 3 10 more 
+: 142 2 8 with 
+: 146 2 8 li
+: 150 2 8 ving 
+: 154 6 8 safe 
+- 160
+: 162 2 8 When 
+: 166 2 5 this 
+: 170 3 8 world 
+: 175 2 8 be
+: 178 2 8 gin 
+: 182 2 8 to 
+: 186 4 5 shake 
+- 194
+: 196 2 8 Kill 
+: 199 2 8 them 
+: 203 2 7 all 
+: 207 2 5 and 
+: 211 2 5 got
+: 214 2 5 ta 
+: 218 2 9 kill 
+: 222 2 11 the 
+: 225 11 11 beast 
+- 246
+: 250 21 1 Fight 
+- 281
+: 300 2 5 While 
+: 304 2 4 you’re 
+* 308 6 1 a
+* 316 31 5 live 
+- 357
+: 372 2 10 Raise 
+: 376 2 8 your 
+: 380 5 10 fist 
+: 388 2 13 in 
+: 392 2 8 the 
+: 396 6 10 air 
+- 417
+: 435 2 10 Raise 
+: 439 2 8 your 
+: 443 6 10 hands 
+: 451 5 8 up 
+: 459 6 10 hi
+: 467 7 8 gher 
+- 484
+: 499 2 10 Raise 
+: 503 2 8 your 
+* 507 5 10 fist 
+: 515 2 13 in 
+: 519 2 10 the 
+: 523 5 13 ai
+: 529 5 13 ~r 
+- 544
+: 563 2 10 We 
+: 566 3 8 are 
+: 571 3 10 hou
+: 576 10 8 ~nds, 
+: 590 3 5 hounds 
+: 595 2 3 of 
+: 599 7 5 fi
+: 608 4 5 re 
+- 622
+: 626 2 10 Raise 
+: 630 2 8 your 
+: 634 5 10 fist 
+: 642 2 13 to 
+: 646 2 8 the 
+: 650 6 10 air 
+- 671
+: 689 2 10 Raise 
+: 693 2 8 your 
+: 697 6 10 hands 
+: 705 5 8 up 
+: 713 6 10 hi
+: 721 7 8 gher 
+- 738
+: 753 2 10 Raise 
+: 757 2 8 your 
+* 761 5 10 fist 
+: 769 2 13 in 
+: 773 2 10 the 
+: 777 5 13 ai
+: 783 5 13 ~r 
+- 798
+: 817 2 0 We 
+: 821 2 0 are 
+: 825 4 10 hou
+: 831 7 8 ~nds 
+: 845 2 5 or 
+: 849 3 3 hell
+: 854 6 5 fi
+: 862 16 5 re 
+- 880
+F 882 7 0 Yeah 
+- 920
+: 1157 2 8 I’ll 
+: 1160 2 8 was 
+: 1164 3 8 fight 
+: 1169 3 8 un
+: 1173 2 8 til 
+: 1177 2 8 I 
+: 1181 4 8 die 
+- 1187
+: 1189 3 8 Fight 
+: 1193 2 5 this 
+: 1197 2 8 fight 
+: 1201 2 8 to 
+: 1205 2 8 stay 
+: 1209 2 8 a
+: 1213 5 8 live 
+- 1220
+: 1222 2 8 In 
+: 1226 2 8 my 
+: 1230 2 8 heart 
+: 1234 2 5 I 
+: 1238 2 6 know 
+: 1242 2 5 I’ll 
+: 1246 2 8 be 
+: 1250 2 10 al
+: 1254 5 10 right 
+- 1269
+: 1286 6 8 I 
+: 1294 3 8 know 
+: 1299 2 8 it’s 
+: 1303 2 8 up 
+: 1307 2 8 to 
+: 1311 4 5 me 
+- 1316
+: 1318 2 8 Change 
+: 1322 2 6 this 
+: 1326 3 8 world 
+: 1331 2 8 or 
+: 1335 2 8 let 
+: 1339 2 8 it 
+: 1343 3 8 be 
+- 1349
+: 1351 2 -4 Take 
+: 1355 2 -4 a 
+: 1359 3 -4 stand 
+: 1364 2 -7 and 
+: 1368 2 -7 lend 
+: 1372 2 -7 a 
+: 1376 2 -4 hel
+: 1380 2 -2 ping 
+: 1384 6 -2 hand 
+- 1400
+: 1408 24 1 Fight 
+- 1442
+: 1456 3 6 Fight 
+: 1461 2 5 till 
+: 1465 2 1 we 
+* 1473 15 5 die 
+- 1503
+: 1529 2 -2 Raise 
+: 1533 2 -4 your 
+: 1538 4 -2 fist 
+: 1547 2 1 in 
+: 1551 2 -4 the 
+: 1555 7 -2 air 
+- 1572
+: 1593 2 10 Raise 
+: 1597 2 8 your 
+: 1601 6 10 hands 
+: 1609 5 8 up 
+: 1617 6 10 hi
+: 1625 7 8 gher 
+- 1642
+: 1655 2 10 Raise 
+: 1659 2 8 your 
+* 1663 5 10 fist 
+: 1671 2 13 in 
+: 1675 2 10 the 
+: 1679 4 13 ai
+: 1685 5 13 ~r 
+- 1700
+: 1720 2 10 We 
+: 1723 3 8 are 
+: 1728 3 10 hou
+* 1733 10 8 ~nds, 
+: 1747 3 5 hounds 
+: 1752 2 3 of 
+: 1756 7 5 fi
+: 1765 14 5 re 
+- 1781
+: 1783 2 -2 Raise 
+: 1787 2 -4 your 
+: 1792 4 -2 fist 
+: 1801 2 1 in 
+: 1805 2 -4 the 
+: 1809 7 -2 air 
+- 1826
+: 1847 2 10 Raise 
+: 1851 2 8 your 
+: 1855 6 10 hands 
+: 1863 5 8 up 
+: 1871 6 10 hi
+: 1879 7 8 gher 
+- 1896
+: 1910 2 10 Raise 
+: 1914 2 8 your 
+* 1918 5 10 fist 
+: 1926 2 13 in 
+: 1930 2 10 the 
+: 1934 4 13 ai
+: 1940 5 13 ~r 
+- 1955
+: 1975 2 10 We 
+: 1978 3 8 are 
+: 1983 3 10 hou
+: 1988 10 8 ~nds, 
+: 2002 3 5 hounds 
+: 2007 2 3 of 
+: 2011 7 5 fi
+: 2020 14 5 re 
+- 2036
+F 2038 6 5 Yeah 
+- 2075
+: 2546 2 -2 Raise 
+: 2550 2 -4 your 
+: 2555 4 -2 fist 
+: 2564 2 1 in 
+: 2568 2 -4 the 
+: 2572 7 -2 air 
+- 2589
+: 2609 2 10 Raise 
+: 2613 2 8 your 
+: 2617 6 10 hands 
+: 2625 5 8 up 
+: 2633 6 10 hi
+: 2641 7 8 gher 
+- 2658
+: 2674 2 10 Raise 
+: 2678 2 8 your 
+* 2682 5 10 fist 
+: 2690 2 13 in 
+: 2694 2 10 the 
+: 2698 4 13 ai
+: 2704 5 13 ~r 
+- 2719
+: 2738 2 10 We 
+: 2741 3 8 are 
+: 2746 3 10 hou
+: 2751 10 8 ~nds, 
+: 2765 3 5 hounds 
+: 2770 2 3 of 
+: 2774 7 5 fi
+: 2783 13 5 re 
+- 2799
+: 2801 2 -2 Raise 
+: 2805 2 -4 your 
+: 2810 4 -2 fist 
+: 2819 2 1 in 
+: 2823 2 -4 the 
+: 2827 7 -2 air 
+- 2844
+: 2864 2 10 Raise 
+: 2868 2 8 your 
+: 2872 6 10 hands 
+: 2880 5 8 up 
+: 2888 6 10 hi
+: 2896 7 8 gher 
+- 2913
+: 2928 2 10 Raise 
+: 2932 2 8 your 
+* 2936 5 10 fist 
+: 2944 2 13 in 
+: 2948 2 10 the 
+: 2952 4 13 ai
+: 2958 5 13 ~r 
+- 2973
+: 2992 2 10 We 
+: 2995 3 8 are 
+: 3000 3 10 hou
+: 3005 10 8 ~nds, 
+: 3019 3 5 hounds 
+: 3024 2 3 of 
+: 3028 7 5 fi
+: 3037 12 5 re 
+E

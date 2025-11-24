@@ -1,0 +1,316 @@
+#ARTIST:The Dead South
+#TITLE:In Hell I’ll Be In Good Company
+#MP3:The Dead South - In Hell I’ll Be In Good Company.mp3
+#CREATOR:schlackmeister
+#GENRE:Country
+#YEAR:2017
+#LANGUAGE:English
+#BPM:320.78
+#GAP:46800
+#VIDEO:v=B9FzVhw8_bY,co=good-company-5676cf56a0a6c.jpg,bg=dead-south-627d81a5981a4.jpg
+: 0 4 2 Dead 
+: 8 5 2 love 
+: 16 3 2 coul
+: 21 2 2 dn’t 
+: 24 3 5 go 
+: 30 5 2 no 
+: 38 8 0 fur
+: 47 10 2 ther 
+- 59
+: 67 5 2 Proud 
+: 75 5 2 of 
+: 83 3 2 and 
+: 88 2 2 dis
+: 92 3 5 gus
+: 97 3 2 ted 
+: 104 5 0 by 
+: 112 10 2 her 
+- 124
+: 133 3 2 Push, 
+: 141 3 2 shove 
+: 146 2 2 a 
+: 149 3 2 lit
+: 154 2 2 tle 
+: 157 3 5 bruised 
+: 163 3 2 and 
+: 171 7 0 bat
+: 180 11 2 tered 
+- 193
+* 199 5 0 Oh 
+* 207 3 0 Lord 
+* 213 2 0 I 
+* 216 4 0 ain’t 
+* 224 3 2 co
+* 229 5 2 ming 
+* 237 2 1 ho
+* 240 7 0 ~me 
+* 249 2 -2 with 
+* 254 10 -5 you 
+- 266
+: 331 5 2 My 
+: 339 5 2 life’s 
+: 347 5 2 a 
+: 356 3 5 bit 
+: 361 4 2 more 
+: 369 6 0 col
+: 377 7 2 der 
+- 386
+: 398 4 2 Dead 
+: 406 4 2 wife 
+: 414 4 2 is 
+: 423 3 5 what 
+: 428 3 2 I 
+: 436 5 0 told 
+: 443 5 2 her 
+- 450
+* 464 4 2 Brass 
+* 472 4 2 knife 
+* 480 4 2 sinks 
+: 486 1 2 in
+* 488 3 5 to 
+* 493 4 2 my 
+* 501 7 0 shoul
+* 510 8 2 der 
+- 520
+: 530 5 0 Oh 
+: 538 4 0 babe 
+: 545 2 0 don’t 
+: 549 2 0 know 
+: 554 3 2 what 
+: 559 3 2 I’m 
+: 568 1 2 gon
+: 570 6 0 na 
+: 579 2 -2 do
+: 584 8 -5 ~ 
+- 594
+: 841 2 -2 I 
+: 844 2 -2 see 
+: 849 2 0 my 
+: 853 5 2 red 
+: 861 5 2 head, 
+: 869 6 2 messed 
+: 877 6 2 bed, 
+- 884
+: 886 6 2 Tear 
+: 894 6 2 shed, 
+: 902 2 2 queen 
+: 907 2 0 bee 
+: 910 2 -2 my 
+: 916 1 -2 squee
+: 918 12 -5 ~ze 
+- 932
+: 973 2 -2 The 
+: 976 2 -2 stage 
+: 981 2 0 it 
+: 985 7 2 smells, 
+: 994 6 2 tells, 
+: 1002 6 2 hell’s 
+: 1010 6 2 bells, 
+: 1018 6 2 mis-
+: 1026 6 2 spells, 
+- 1033
+: 1034 4 2 Knocks 
+: 1040 2 0 me 
+: 1043 3 -2 on 
+: 1048 3 2 my 
+* 1052 13 0 knees 
+- 1067
+: 1106 2 -2 It 
+: 1109 2 -2 di
+: 1114 2 0 dn’t 
+: 1118 3 2 hurt, 
+: 1126 3 2 flirt, 
+: 1134 6 2 blood 
+: 1142 3 2 squirt, 
+- 1147
+: 1151 4 2 Stuffed 
+: 1159 3 2 shirt, 
+: 1164 2 2 hang 
+: 1167 4 2 me 
+: 1172 2 0 on 
+: 1175 2 -2 a 
+* 1180 12 5 tree 
+- 1194
+: 1237 2 -2 Af
+: 1240 2 -2 ter 
+: 1245 2 0 I 
+: 1248 4 2 count 
+: 1257 4 2 down, 
+: 1266 4 2 three 
+: 1271 4 2 rounds, 
+- 1277
+: 1279 2 2 In 
+: 1282 4 2 hell 
+: 1288 2 2 I’ll 
+: 1291 4 2 be 
+: 1296 2 2 in 
+: 1299 2 2 good 
+: 1305 2 0 com
+: 1308 2 -2 pa
+: 1313 2 -2 ny
+* 1316 15 -5 ~ 
+- 1333
+: 1655 4 2 Dead 
+: 1663 5 2 love 
+: 1671 3 2 coul
+: 1676 2 2 dn’t 
+: 1679 3 5 go 
+: 1685 5 2 no 
+: 1693 8 0 fur
+: 1702 10 2 ther 
+- 1714
+: 1722 5 2 Proud 
+: 1730 5 2 of 
+: 1738 3 2 and 
+: 1743 2 2 dis
+: 1747 3 5 gus
+: 1752 3 2 ted 
+: 1759 5 0 by 
+: 1767 10 2 her 
+- 1779
+: 1788 3 2 Push, 
+: 1796 3 2 shove 
+: 1801 2 2 a 
+: 1804 3 2 lit
+: 1809 2 2 tle 
+: 1812 3 5 bruised 
+: 1818 3 2 and 
+: 1826 7 0 bat
+: 1835 11 2 tered 
+- 1848
+* 1854 5 0 Oh 
+* 1862 3 0 Lord 
+* 1868 2 0 I 
+* 1871 4 0 ain’t 
+* 1879 3 2 co
+* 1884 5 2 ming 
+* 1892 2 1 ho
+* 1895 7 0 ~me 
+* 1904 2 -2 with 
+* 1909 10 -5 you 
+- 1921
+: 1986 5 2 My 
+: 1994 5 2 life’s 
+: 2002 5 2 a 
+: 2011 3 5 bit 
+: 2016 4 2 more 
+: 2024 6 0 col
+: 2032 7 2 der 
+- 2041
+: 2053 4 2 Dead 
+: 2061 4 2 wife 
+: 2069 4 2 is 
+: 2078 3 5 what 
+: 2083 3 2 I 
+: 2091 5 0 told 
+: 2098 5 2 her 
+- 2105
+* 2119 4 2 Brass 
+* 2127 4 2 knife 
+* 2135 4 2 sinks 
+* 2141 1 2 in
+* 2143 3 5 to 
+* 2148 4 2 my 
+* 2156 7 0 shoul
+* 2165 8 2 der 
+- 2175
+: 2185 5 0 Oh 
+: 2193 4 0 babe, 
+: 2201 2 0 don’t 
+: 2205 2 0 know 
+: 2209 3 2 what 
+: 2214 3 2 I’m 
+: 2223 1 2 go
+: 2225 6 0 ~n
+: 2234 2 -2 na 
+: 2239 8 -5 do 
+- 2249
+: 2497 2 -2 I 
+: 2500 2 -2 see 
+: 2505 2 0 my 
+: 2509 5 2 red 
+: 2517 5 2 head, 
+: 2525 6 2 messed 
+: 2533 6 2 bed, 
+- 2540
+: 2542 6 2 Tear 
+: 2550 6 2 shed, 
+: 2558 2 2 queen 
+: 2563 2 0 bee 
+: 2566 2 -2 my 
+: 2572 1 -2 squee
+: 2574 12 -5 ~ze 
+- 2588
+: 2629 2 -2 The 
+: 2632 2 -2 stage 
+: 2637 2 0 it 
+: 2641 7 2 smells, 
+: 2650 6 2 tells, 
+: 2658 6 2 hell’s 
+: 2666 6 2 bells, 
+: 2674 6 2 mis-
+: 2682 6 2 spells, 
+- 2689
+: 2690 4 2 Knocks 
+: 2696 2 0 me 
+: 2699 3 -2 on 
+: 2704 3 2 my 
+* 2708 13 0 knees 
+- 2723
+: 2762 2 -2 It 
+: 2765 2 -2 di
+: 2770 2 0 dn’t 
+: 2774 3 2 hurt, 
+: 2782 3 2 flirt, 
+: 2790 6 2 blood 
+: 2798 3 2 squirt, 
+- 2803
+: 2807 4 2 Stuffed 
+: 2815 3 2 shirt, 
+: 2820 2 2 hang 
+: 2823 4 2 me 
+: 2828 2 0 on 
+: 2831 2 -2 a 
+* 2836 12 5 tree 
+- 2850
+: 2893 2 -2 Af
+: 2896 2 -2 ter 
+: 2901 2 0 I 
+: 2904 4 2 count 
+: 2913 4 2 down, 
+: 2922 4 2 three 
+: 2927 4 2 rounds, 
+- 2933
+: 2935 2 2 In 
+: 2938 4 2 hell 
+: 2944 2 2 I’ll 
+: 2947 4 2 be 
+: 2952 2 2 in 
+: 2955 2 2 good 
+: 2961 2 0 com
+: 2964 2 -2 pa
+: 2969 2 -2 ny
+: 2972 15 -5 ~ 
+- 2989
+: 3178 6 0 In 
+: 3186 4 0 hell 
+: 3191 2 0 I’ll 
+: 3194 7 0 be 
+: 3202 4 2 in 
+: 3208 3 2 good 
+: 3215 3 2 co
+: 3219 6 0 ~m
+: 3228 2 -2 pa
+: 3233 8 -5 ny 
+- 3243
+* 3377 6 0 In 
+* 3385 4 0 hell 
+* 3390 2 0 I’ll 
+* 3393 7 0 be 
+* 3401 4 2 in 
+* 3407 3 2 good 
+* 3414 3 2 co
+* 3418 6 0 ~m
+* 3427 2 -2 pa
+* 3432 8 -5 ny 
+E

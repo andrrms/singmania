@@ -1,0 +1,224 @@
+#ARTIST:The Tamperer feat. Maya
+#TITLE:Feel It
+#MP3:The Tamperer feat. Maya - Feel It.mp3
+#CREATOR:znxineohp
+#YEAR:1998
+#LANGUAGE:English
+#BPM:249.65
+#GAP:31600
+#VIDEO:v=OWqHpR9yYuc,co=feel-it-66b207ce18e72.jpg,bg=https://i.ytimg.com/vi/-eeMiZlvR7I/maxresdefault.jpg
+: 0 3 1 You 
+: 4 3 1 got 
+: 8 3 2 it 
+: 12 3 1 on 
+: 16 2 2 the 
+: 20 10 1 side 
+- 30
+: 32 3 2 A 
+: 36 3 1 lit
+: 40 3 2 tle 
+: 44 3 1 one 
+: 48 2 2 night 
+: 52 10 1 thing 
+- 62
+: 64 3 2 I’ve 
+: 68 3 1 thought 
+: 72 3 2 it 
+: 76 3 1 ov
+: 80 3 2 er 
+: 84 3 1 and 
+: 88 3 2 this 
+: 92 2 1 time 
+- 94
+: 96 3 2 I 
+: 100 3 1 will 
+: 104 3 2 for
+: 108 6 6 give 
+: 116 6 1 you 
+- 126
+: 128 3 2 Well 
+: 132 3 1 I’m 
+: 136 3 2 not 
+: 140 3 1 let
+: 144 3 2 ting 
+: 148 10 1 go 
+- 158
+: 160 3 2 But 
+: 164 3 1 don’t 
+: 168 3 2 for
+: 172 3 1 get 
+: 176 3 2 I 
+: 180 10 1 know 
+- 190
+: 192 3 2 You 
+: 196 3 1 made 
+: 200 3 2 your 
+: 204 3 1 bed 
+: 208 3 2 and 
+: 212 3 1 she 
+: 216 3 2 was 
+: 220 7 6 in 
+: 228 7 2 it 
+: 236 3 4 no 
+: 240 3 4 no 
+: 244 4 2 no 
+- 248
+: 250 5 13 What’s 
+: 256 3 1 she 
+: 260 3 1 gon
+: 264 3 -1 na 
+: 268 3 1 look 
+: 272 4 -1 like 
+- 276
+: 278 3 1 With 
+: 282 3 -1 a 
+* 286 5 1 chim
+* 292 8 1 ney 
+* 302 7 1 on 
+* 310 4 4 her 
+- 314
+* 316 5 13 What’s 
+* 322 3 1 she 
+* 326 3 1 gon
+* 330 3 -1 na 
+* 334 3 1 look 
+* 338 3 -1 like 
+- 341
+* 342 3 1 With 
+* 346 3 -1 a 
+* 350 7 1 chim
+* 358 7 1 ney 
+* 366 7 1 on 
+* 374 4 -6 her 
+- 378
+: 380 5 13 What’s 
+: 386 3 1 she 
+: 390 3 1 gon
+: 394 3 -1 na 
+: 398 3 1 look 
+: 402 3 -1 like 
+- 405
+: 406 3 1 With 
+: 410 3 -1 a 
+* 414 7 1 chim
+* 422 7 1 ney 
+* 430 7 1 on 
+* 438 4 4 her 
+- 442
+: 444 5 13 What’s 
+: 450 3 1 she 
+: 454 3 1 gon
+: 458 3 -1 na 
+: 462 3 1 look 
+: 466 3 -1 like 
+- 469
+: 470 3 1 With 
+: 474 3 -1 a 
+* 478 7 1 chim
+* 486 7 1 ney 
+* 494 7 1 on 
+* 502 6 -6 her 
+- 541
+: 772 3 1 Well 
+: 776 3 1 I’m 
+: 780 3 2 not 
+: 784 3 1 blam
+: 788 3 2 ing 
+: 792 10 1 you 
+- 802
+: 804 3 2 But 
+: 808 3 1 she’s 
+: 812 3 2 still 
+: 816 5 1 hang
+: 822 3 2 ing 
+: 826 8 1 round 
+- 834
+: 836 3 2 And 
+: 840 3 1 she’s 
+: 844 3 2 so 
+: 849 2 1 cra
+: 852 2 2 zy 
+: 856 4 1 tell 
+: 861 3 2 you 
+: 865 2 1 now 
+- 867
+: 868 3 2 I 
+: 872 3 1 just 
+: 876 3 2 don’t 
+: 880 6 6 trust 
+: 888 6 2 her 
+- 898
+: 900 3 2 She 
+: 904 3 1 thinks 
+: 908 3 2 she’s 
+: 912 3 1 right 
+: 916 3 2 on 
+: 920 8 1 time 
+- 929
+: 931 1 -3 But 
+: 933 3 2 I 
+: 937 3 1 think 
+: 941 3 2 she 
+: 945 3 1 crossed 
+: 949 3 2 the 
+: 953 10 1 line 
+- 963
+: 965 1 2 And 
+: 967 1 2 I’m 
+: 969 3 1 rea
+: 973 3 2 dy 
+: 977 3 1 for 
+: 981 3 2 the 
+: 985 3 1 light 
+- 988
+: 989 3 2 I’m 
+: 993 3 6 rea
+: 997 3 6 dy 
+: 1001 3 2 if 
+: 1005 3 2 it’s 
+: 1009 3 4 fight
+: 1013 3 4 ing 
+: 1017 4 2 time 
+- 1021
+* 1023 5 13 What’s 
+* 1029 3 1 she 
+* 1033 3 1 gon
+* 1037 3 -1 na 
+* 1041 3 1 look 
+* 1045 3 -1 like 
+- 1048
+* 1049 3 1 With 
+* 1053 3 -1 a 
+* 1057 7 1 chim
+* 1065 7 1 ney 
+* 1073 6 1 on 
+* 1081 6 4 her 
+- 1087
+: 1089 3 13 What’s 
+: 1093 3 1 she 
+: 1097 3 1 gon
+: 1101 3 -1 na 
+: 1105 3 1 look 
+: 1109 3 -1 like 
+- 1112
+: 1113 3 1 With 
+: 1117 3 -1 a 
+: 1121 7 1 chim
+: 1129 7 1 ney 
+: 1137 7 1 on 
+: 1145 6 -6 her 
+- 1153
+* 1155 11 1 What’s 
+* 1167 7 -1 she 
+* 1175 7 1 gon
+* 1183 7 -1 na 
+* 1191 5 1 look 
+* 1197 7 -1 like 
+- 1204
+* 1205 7 1 With 
+* 1213 7 -1 a 
+* 1221 15 1 chim
+* 1237 12 1 ney 
+* 1251 18 1 on 
+* 1271 10 -6 her 
+E

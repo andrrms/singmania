@@ -1,0 +1,291 @@
+#ARTIST:Ph.D
+#TITLE:I Won’t Let You Down
+#MP3:Ph.D - I Won’t Let You Down.mp3
+#CREATOR:Fepo
+#COVER:Ph.D - I Won’t Let You Down [CO].jpg
+#BACKGROUND:Ph.D - I Won’t Let You Down [BG].jpg
+#GENRE:Pop
+#YEAR:1981
+#LANGUAGE:English
+#BPM:214.18
+#GAP:9620
+#VIDEO:v=LwA-4dvaobs,co=https://m.media-amazon.com/images/I/711lgi6MCDL.jpg,co-crop=4-10-1000-1000,co-contrast=1.4
+: 0 2 8 You 
+: 3 2 8 ask 
+: 9 2 8 me 
+: 12 2 8 if 
+: 16 3 6 I’m 
+: 21 3 4 hap
+: 26 3 6 py 
+: 31 7 4 here 
+- 40
+: 46 2 1 No 
+: 50 2 1 doubt 
+: 54 2 1 a
+: 58 4 -1 bout 
+: 64 3 4 it 
+- 69
+: 126 2 8 You 
+: 130 3 8 ask 
+: 135 2 8 me 
+: 139 2 8 if 
+: 143 3 6 my 
+: 148 3 4 love 
+: 153 2 6 is 
+: 158 8 4 clear 
+- 168
+: 172 3 2 Want 
+: 177 2 2 me 
+: 181 2 1 to 
+: 185 4 -1 shout 
+: 191 3 4 it 
+- 196
+: 253 2 8 Gave 
+: 257 2 8 you 
+: 261 2 8 the 
+: 265 3 8 best 
+: 271 4 6 years 
+: 277 2 4 of 
+: 281 2 6 my 
+: 285 8 4 life 
+- 295
+: 311 4 -1 Wo
+: 317 8 4 man 
+- 327
+: 381 2 8 I 
+: 385 2 8 know 
+: 388 3 8 I 
+: 393 4 8 failed 
+: 400 2 6 to 
+: 404 4 4 treat 
+: 410 3 6 you 
+: 415 9 4 right 
+- 426
+: 438 5 -1 Wo
+: 445 8 4 man 
+- 455
+: 524 2 8 Don’t 
+: 528 2 8 let 
+: 532 2 6 me 
+: 536 5 6 out 
+: 544 2 4 of 
+: 548 9 4 here 
+- 559
+: 588 2 8 Don’t 
+: 592 2 8 let 
+: 596 2 6 me 
+: 600 5 6 out 
+: 608 2 4 of 
+: 612 9 4 here 
+- 623
+: 665 18 1 I 
+: 687 3 4 won’t 
+* 694 8 9 let 
+: 704 3 9 you 
+: 709 14 8 down 
+- 724
+: 724 2 4 Won’t 
+: 728 6 8 let 
+: 736 2 8 you 
+* 740 10 6 down 
+: 752 3 4 a
+: 757 22 1 gain 
+- 781
+: 797 17 1 I 
+: 816 3 4 won’t 
+* 824 6 9 let 
+: 832 3 9 you 
+: 837 14 8 down 
+- 852
+: 852 2 4 Won’t 
+: 856 6 8 let 
+: 864 2 8 you 
+* 868 10 6 down 
+: 880 3 4 a
+: 885 22 1 gain 
+- 909
+: 923 19 1 I 
+: 944 5 4 won’t 
+: 952 6 9 let 
+: 960 3 9 you 
+: 965 12 8 down 
+- 979
+: 980 2 4 Won’t 
+: 984 6 8 let 
+: 992 2 8 you 
+* 996 10 6 down 
+: 1008 3 4 a
+: 1013 22 1 gain 
+- 1037
+: 1151 2 8 You 
+: 1154 2 8 say 
+: 1157 2 8 our 
+: 1161 4 8 love 
+: 1168 3 6 run
+: 1173 3 4 ning 
+: 1178 3 6 one 
+: 1183 6 4 way 
+- 1191
+: 1197 2 2 Co
+: 1201 2 2 ming 
+: 1205 3 -1 from 
+: 1211 6 -1 your 
+: 1219 9 4 side 
+- 1230
+: 1276 2 8 No 
+: 1280 3 8 help 
+: 1285 2 8 from 
+: 1289 4 8 me 
+: 1296 2 6 to 
+: 1300 2 4 see 
+: 1304 2 6 it 
+: 1308 7 4 through 
+- 1317
+: 1324 2 2 To 
+: 1327 2 2 beat 
+: 1331 3 -1 the 
+: 1336 6 -1 high 
+: 1345 11 4 tide 
+- 1358
+: 1404 3 8 Take 
+: 1409 2 8 me 
+: 1413 2 8 and 
+: 1418 5 8 chain 
+: 1425 2 6 me 
+: 1428 2 4 if 
+: 1432 4 6 you 
+: 1438 9 4 please 
+- 1449
+: 1460 7 -1 Wo
+: 1469 11 4 man 
+- 1482
+: 1533 2 8 Don’t 
+: 1537 2 8 help 
+: 1541 2 8 me 
+: 1546 3 8 dig 
+: 1552 3 6 dee
+: 1557 3 4 per 
+: 1563 4 6 my 
+: 1569 11 4 grave 
+- 1582
+: 1591 5 -1 Wo
+: 1598 11 4 man 
+- 1611
+: 1676 2 8 Don’t 
+: 1680 2 8 let 
+: 1684 2 6 me 
+: 1688 5 6 out 
+: 1695 2 4 of 
+: 1700 8 4 here 
+- 1710
+: 1740 2 8 Don’t 
+: 1744 2 8 let 
+: 1748 2 6 me 
+: 1752 5 6 out 
+: 1759 2 4 of 
+: 1764 8 4 here 
+- 1774
+: 1818 19 1 I 
+: 1839 5 4 won’t 
+: 1847 6 9 let 
+: 1855 3 9 you 
+: 1860 12 8 down 
+- 1874
+: 1880 2 8 Won’t 
+: 1884 5 8 let 
+: 1891 3 8 you 
+: 1895 10 8 down 
+: 1907 2 8 a
+: 1911 18 8 gain 
+- 1931
+: 1946 19 1 I 
+: 1967 5 4 won’t 
+: 1975 6 9 let 
+: 1983 3 9 you 
+: 1988 12 8 down 
+- 2002
+: 2005 2 4 Won’t 
+: 2009 6 8 let 
+: 2017 2 8 you 
+* 2021 10 6 down 
+: 2033 3 4 a
+: 2038 22 1 gain 
+- 2062
+: 2074 19 1 I 
+: 2095 5 4 won’t 
+: 2103 6 9 let 
+: 2111 3 9 you 
+: 2116 12 8 down 
+- 2130
+: 2133 2 4 Won’t 
+: 2137 6 8 let 
+: 2145 2 8 you 
+* 2149 10 6 down 
+: 2161 3 4 a
+: 2166 22 1 gain 
+- 2190
+: 2456 20 1 I 
+: 2478 5 4 won’t 
+: 2487 6 9 let 
+: 2495 3 9 you 
+: 2500 12 8 down 
+- 2514
+: 2515 2 4 Won’t 
+: 2519 6 8 let 
+: 2527 2 8 you 
+* 2531 10 6 down 
+: 2543 3 4 a
+: 2548 22 1 gain 
+- 2572
+: 2588 17 1 I 
+: 2607 5 4 won’t 
+: 2615 6 9 let 
+: 2623 3 9 you 
+: 2628 12 8 down 
+- 2642
+: 2643 2 4 Won’t 
+: 2647 6 8 let 
+: 2655 2 8 you 
+* 2659 10 6 down 
+: 2671 3 4 a
+: 2676 22 1 gain 
+- 2700
+: 2714 19 1 I 
+: 2735 5 4 won’t 
+: 2743 6 9 let 
+: 2751 3 9 you 
+: 2756 12 8 down 
+- 2770
+: 2773 2 4 Won’t 
+: 2777 6 8 let 
+: 2785 2 8 you 
+* 2789 10 6 down 
+: 2801 3 4 a
+: 2806 22 1 gain 
+- 2830
+: 2842 19 1 I 
+: 2863 5 4 won’t 
+: 2871 6 9 let 
+: 2879 3 9 you 
+: 2884 12 8 down 
+- 2898
+: 2900 2 4 Won’t 
+: 2904 6 8 let 
+: 2912 2 8 you 
+* 2916 10 6 down 
+: 2928 3 4 a
+: 2933 22 1 gain 
+- 2957
+: 2970 19 1 I 
+: 2991 5 4 won’t 
+: 2999 6 9 let 
+: 3007 3 9 you 
+: 3012 12 8 down 
+- 3026
+: 3029 2 4 Won’t 
+: 3033 6 8 let 
+: 3041 2 8 you 
+* 3045 10 6 down 
+: 3057 3 4 a
+: 3062 20 1 gain 
+E

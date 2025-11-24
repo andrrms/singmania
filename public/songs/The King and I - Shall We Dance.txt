@@ -1,0 +1,298 @@
+#ARTIST:The King and I
+#TITLE:Shall We Dance?
+#MP3:The King and I - Shall We Dance?.mp3
+#CREATOR:Relisch
+#COVER:The King and I - Shall We Dance? [CO].jpg
+#BACKGROUND:The King and I - Shall We Dance? [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1956
+#LANGUAGE:English
+#BPM:300
+#GAP:1050
+#VIDEO:v=QgVPnWmUqd4,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/01/af/d701af6c-15df-ac49-805c-60392fe5a583/05099923463158.rgb.jpg/5000x5000bb.jpg
+: 0 5 3 We’ve
+: 6 5 2  just
+: 13 7 5  been
+: 22 4 3  introduced
+: 28 4 0 ~
+: 34 13 3 ~,
+- 53
+: 55 2 2 I
+: 58 5 2  do
+: 64 5 5  not
+: 72 5 3  know
+: 78 3 2  you
+: 82 13 3  well;
+- 104
+: 107 1 3 But
+: 110 5 2  when
+: 117 4 5  the
+: 124 5 3  music
+: 130 4 0 ~
+: 136 5 2  started
+: 143 5 5 ~,
+- 149
+: 151 3 3 Something
+: 156 4 0 ~
+: 162 6 2  drew
+: 169 5 5  me
+: 175 5 3  to
+: 183 4 2  your
+: 188 13 3  side.
+- 207
+: 210 6 3 So
+: 217 4 2  many
+: 222 4 5 ~
+: 228 5 4  men
+: 235 4 0  and
+: 241 15 3  girls
+- 260
+: 262 5 2 Are
+: 270 4 2  in
+: 276 3 5  each
+: 281 4 3  other’s
+: 287 5 2 ~
+: 294 18 3  arms—
+- 317
+: 319 2 3 It
+: 324 8 5  made
+: 335 5 5  me
+: 342 7 5  think
+: 368 8 5  we
+: 378 10 5  might
+: 390 16 5  be
+- 416
+: 420 6 9 Similarly
+: 428 6 9 ~
+: 436 6 7 ~
+: 445 5 7 ~
+: 452 9 5  occupied
+: 463 17 3 ~
+: 482 35 2 ~.
+- 527
+* 537 37 7 Shall
+: 575 34 6  we
+: 612 14 7  dance?
+- 636
+: 647 7 7 On
+: 655 5 6  a
+: 661 11 7  bright
+: 675 5 7  cloud
+: 681 7 6  of
+: 689 5 7  music
+: 695 3 2 ~
+- 699
+: 701 6 5 Shall
+: 708 3 3  we
+: 713 18 10  fly?
+- 741
+: 751 8 5 Shall
+: 760 3 4  we
+: 764 18 5  dance?
+- 792
+: 803 7 5 Shall
+: 811 4 4  we
+: 817 10 5  then
+: 829 9 5  say
+: 840 2 4  good
+: 844 4 5  night
+- 849
+: 851 3 0 And
+: 856 6 3  mean
+: 865 2 2  goodbye
+: 868 24 7 ~?
+- 902
+: 906 8 10 Or
+: 916 3 9  perchance
+: 920 27 10 ~
+- 955
+: 958 6 3 When
+: 965 4 5  the
+: 971 10 7  last
+: 984 4 7  little
+: 990 5 6 ~
+: 996 5 7  star
+- 1002
+: 1004 4 5 Has
+* 1010 5 3  left
+* 1017 2 2  the
+* 1021 23 5  sky,
+- 1055
+: 1059 8 5 Shall
+: 1068 5 4  we
+: 1074 12 5  still
+: 1088 8 5  be
+: 1097 2 4  together
+: 1101 4 5 ~
+: 1107 4 8 ~
+- 1112
+: 1114 4 7 With
+: 1120 4 5  our
+: 1126 8 3  arms
+: 1135 2 2  around
+: 1139 4 3 ~
+: 1144 5 2  each
+: 1150 4 3  other
+: 1156 5 7 ~
+- 1163
+: 1165 4 5 And
+: 1170 5 3  shall
+: 1176 4 2  you
+: 1183 11 3  be
+: 1196 4 5  my
+: 1202 8 0  new
+: 1215 12 2  romance
+: 1228 27 7 ~?
+- 1263
+: 1266 5 8 On
+: 1272 4 7  the
+: 1278 10 5  clear
+: 1290 7 5  understanding
+: 1298 5 3 ~
+: 1305 5 5 ~
+: 1311 4 8 ~
+- 1316
+: 1318 4 7 That
+: 1323 5 5  this
+: 1330 5 7  kind
+: 1337 3 6  of
+: 1342 5 7  thing
+: 1349 4 6  can
+: 1354 5 7  happen
+: 1360 5 10 ~,
+- 1369
+: 1371 3 8 Shall
+: 1376 4 7  we
+: 1381 11 10  dance?
+- 1396
+: 1398 3 0 Shall
+: 1402 3 2  we
+: 1407 8 10  dance?
+- 1417
+: 1419 5 0 Shall
+: 1426 4 2  we
+: 1431 14 3  dance?
+- 1485
+: 2262 7 7 Shall
+: 2270 3 6  we
+: 2274 8 7  dance?
+- 2283
+* 2285 4 6 One,
+* 2291 4 6  two,
+* 2297 4 6  three,
+* 2303 5 6  and—
+- 2310
+: 2312 3 7 On
+: 2316 4 6  a
+: 2322 8 7  bright
+: 2334 4 7  cloud
+: 2339 5 6  of
+: 2345 5 7  music
+: 2352 2 2 ~
+- 2355
+: 2357 4 5 Shall
+: 2363 4 3  we
+: 2369 9 10  fly?
+- 2379
+F 2381 3 6 One,
+F 2385 4 6  two,
+F 2391 3 6  three,
+F 2397 4 6  and—
+- 2402
+: 2404 5 5 Shall
+: 2411 3 4  we
+: 2416 9 5  dance?
+- 2426
+F 2428 3 6 One,
+F 2432 4 6  two,
+F 2438 3 6  three,
+F 2443 4 6  and—
+- 2448
+: 2450 5 5 Shall
+: 2457 4 4  we
+: 2463 8 5  then
+: 2474 8 5  say
+: 2485 1 4  good
+: 2488 3 5  night
+- 2492
+: 2494 3 0 And
+: 2499 6 3  mean
+: 2507 2 2  goodbye
+: 2511 8 7 ~?
+- 2520
+F 2522 3 6 One,
+F 2527 3 6  two,
+F 2532 3 6  three,
+F 2538 3 6  and—
+- 2542
+: 2544 6 10 Or
+: 2552 4 9  perchance
+: 2558 8 10 ~,
+- 2576
+: 2593 6 3 When
+: 2601 3 5  the
+: 2606 8 7  last
+: 2618 4 7  little
+: 2623 5 6 ~
+: 2630 2 7  star
+- 2633
+: 2635 5 5 Has
+: 2642 5 3  left
+: 2648 4 2  the
+: 2653 11 5  sky—
+- 2674
+: 2687 6 5 Shall
+: 2694 4 4  we
+: 2701 9 5  still
+: 2712 8 5  be
+: 2722 2 4  together
+: 2725 3 5 ~
+: 2730 3 8 ~
+- 2734
+: 2736 4 7 With
+: 2741 4 5  our
+: 2747 7 3  arms
+* 2756 2 2  around
+* 2759 5 3 ~
+* 2765 4 2  each
+* 2770 4 3  other
+* 2776 4 7 ~,
+- 2782
+: 2784 3 5 And
+: 2789 5 3  shall
+: 2795 4 2  you
+: 2808 3 3  be
+: 2813 3 5  my
+: 2818 9 0  new
+: 2828 9 2  romance
+: 2840 23 7 ~?
+- 2872
+: 2876 5 8 On
+: 2882 4 7  the
+: 2888 9 5  clear
+: 2899 4 5  understanding
+: 2905 4 3 ~
+: 2910 6 5 ~
+: 2918 4 8 ~
+- 2923
+: 2925 2 7 That
+: 2929 3 5  this
+: 2934 6 7  kind
+: 2942 2 6  of
+: 2945 5 7  thing
+: 2952 4 6  can
+: 2957 5 7  happen
+: 2964 3 10 ~,
+- 2968
+* 2970 3 8 Shall
+* 2974 4 7  we
+* 2980 9 10  dance?
+- 2990
+: 2992 5 0 Shall
+: 2999 3 2  we
+: 3003 8 10  dance?
+- 3013
+: 3015 5 0 Shall
+: 3022 3 2  we
+: 3027 9 3  dance?
+E

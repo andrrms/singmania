@@ -1,0 +1,299 @@
+#ARTIST:Kylie Minogue
+#TITLE:It’s The Most Wonderful Time Of The Year
+#MP3:Kylie Minogue - It’s The Most Wonderful Time Of The Year.mp3
+#CREATOR:claudio bertozzi
+#YEAR:2015
+#LANGUAGE:English
+#BPM:219.62
+#GAP:20780
+#VIDEO:v=4pPpxsbqxR8,co=kylie-christmas-574752d739632.jpg,bg=minogue-kylie-53f77638ee892.jpg
+: 0 2 6 It’s 
+: 4 2 7 the 
+: 9 4 9 most 
+: 21 2 9 won
+: 26 2 14 der
+: 30 2 11 ful 
+: 35 9 9 time 
+- 46
+: 51 2 7 Of 
+: 55 2 4 the 
+: 60 12 2 year 
+- 74
+: 103 2 4 With 
+: 107 2 6 the 
+* 111 2 7 kids 
+* 115 2 4 jin
+* 119 2 4 gle 
+* 124 2 4 bel
+: 128 3 6 ling 
+- 132
+: 132 2 7 And 
+: 136 2 9 ev
+: 140 2 6 ery
+: 144 2 6 one 
+: 149 2 6 tel
+: 153 2 7 ling 
+- 156
+* 157 2 9 You 
+* 161 2 11 be 
+* 165 2 7 a 
+* 169 2 11 good 
+* 174 16 14 cheer 
+- 192
+: 205 2 13 It’s 
+: 209 2 11 the 
+: 213 4 9 most 
+: 227 2 9 won
+: 232 2 14 der
+: 236 2 11 ful 
+: 240 10 9 time 
+- 252
+: 254 3 7 Of 
+: 262 2 4 the 
+: 266 20 9 year 
+- 288
+: 310 2 6 It’s 
+: 315 2 7 the 
+: 319 6 9 hap- 
+: 331 2 9 hap
+: 335 2 14 pi
+: 339 2 11 est 
+: 345 7 9 seas
+: 357 4 7 on 
+: 364 2 4 of 
+: 369 16 2 all 
+- 387
+: 413 2 4 With 
+: 417 2 6 those 
+* 421 2 7 hol
+* 426 2 4 i
+* 430 2 4 day 
+* 435 2 4 greet
+: 439 2 6 ings 
+- 442
+: 443 2 7 And 
+: 447 2 9 gay 
+: 451 2 6 hap
+: 456 2 6 py 
+: 460 2 6 meet
+: 465 2 7 ings 
+- 468
+: 469 2 9 When 
+: 473 3 11 friends 
+: 479 1 7 come 
+: 482 2 11 to 
+: 486 20 14 call 
+- 508
+: 517 2 13 It’s 
+: 521 2 11 the 
+: 526 6 9 hap- 
+: 539 2 9 hap
+: 543 2 14 pi
+: 547 2 11 est 
+: 552 6 9 seas
+: 565 4 7 on 
+: 574 2 4 of 
+* 578 28 12 all 
+- 608
+: 622 2 12 There’ll 
+: 626 2 12 be 
+: 630 2 11 part
+: 635 2 11 ies 
+: 639 2 11 for 
+: 643 2 11 host
+: 648 2 13 ing 
+- 651
+: 652 2 11 Marsh
+: 657 2 9 mall
+: 661 2 9 ows 
+: 665 2 9 for 
+: 669 2 9 toast
+: 674 2 14 ing 
+- 677
+: 678 2 11 And 
+: 682 2 9 car
+: 687 2 9 ol
+: 691 1 9 ing 
+: 694 2 9 out 
+: 699 2 11 in 
+: 703 2 9 the 
+: 707 4 7 snow 
+- 713
+: 725 2 4 There’ll 
+: 729 2 4 be 
+: 733 2 11 scar
+: 737 2 11 y 
+: 741 2 11 ghost 
+: 747 2 11 stor
+: 751 2 13 ies 
+- 754
+: 755 2 11 And 
+: 759 2 9 tales 
+: 764 1 9 of 
+: 767 1 9 the 
+: 770 2 9 glor
+: 776 3 11 ies 
+- 780
+: 780 2 11 Of 
+: 784 2 9 christ
+: 789 1 9 mas
+: 792 2 9 es 
+: 796 3 9 long, 
+: 803 1 7 long 
+: 806 1 9 a
+* 809 22 11 go 
+- 833
+: 853 2 6 It’s 
+: 857 2 7 the 
+: 862 4 9 most 
+* 875 2 9 won
+* 880 2 14 der
+* 884 2 11 ful 
+* 888 9 9 time 
+- 899
+: 906 2 7 Of 
+: 910 2 4 the 
+: 915 18 2 year 
+- 935
+: 958 2 4 There’ll 
+: 963 2 6 be 
+: 967 2 7 much 
+: 972 2 4 mist
+: 976 2 4 l
+: 980 2 4 toe
+: 985 2 6 ing 
+- 988
+: 989 2 7 And 
+: 993 2 9 hearts 
+: 999 2 6 will 
+: 1003 2 6 be 
+: 1007 2 6 glow
+: 1012 2 7 ing 
+- 1015
+* 1016 2 9 When 
+* 1021 2 11 love 
+* 1025 2 7 ones 
+* 1029 2 11 are 
+* 1034 16 14 near 
+- 1052
+: 1064 2 13 It’s 
+: 1069 2 11 the 
+: 1073 4 9 most 
+: 1086 2 9 won
+: 1091 2 14 der
+: 1095 2 11 ful 
+: 1099 10 9 time 
+- 1111
+: 1112 3 13 Of 
+: 1121 2 16 the 
+* 1126 35 14 year 
+- 1163
+: 1274 2 12 There’ll 
+: 1278 2 12 be 
+: 1282 2 11 part
+: 1287 2 11 ies 
+: 1291 2 11 for 
+: 1296 2 11 host
+: 1300 2 13 ing 
+- 1303
+: 1304 2 11 Marsh
+: 1309 2 9 mall
+: 1313 2 9 ows 
+: 1317 2 9 for 
+: 1321 2 9 toast
+: 1326 2 14 ing 
+- 1329
+: 1330 2 11 And 
+: 1334 2 9 car
+: 1339 2 9 ol
+: 1343 2 9 ing 
+: 1347 2 9 out 
+: 1352 2 11 in 
+: 1356 2 9 the 
+: 1360 4 7 snow 
+- 1366
+: 1378 2 4 There’ll 
+: 1382 2 4 be 
+: 1387 2 11 scar
+: 1391 2 11 y 
+: 1395 2 11 ghost 
+: 1400 2 11 stor
+: 1404 2 13 ies 
+- 1407
+: 1408 2 11 And 
+: 1412 2 9 tales 
+: 1417 1 9 of 
+: 1420 2 9 the 
+: 1424 2 9 glor
+: 1430 3 11 ies 
+- 1434
+: 1434 2 11 Of 
+: 1439 2 9 christ
+: 1444 1 9 mas
+: 1446 2 9 es 
+: 1450 3 9 long, 
+: 1456 2 7 long 
+: 1460 1 9 a
+* 1463 34 11 go 
+- 1499
+: 1559 2 8 It’s 
+: 1563 2 9 the 
+: 1568 4 11 most 
+* 1582 2 11 won
+* 1586 2 16 der
+* 1590 2 13 ful 
+* 1594 10 11 time 
+- 1606
+: 1613 2 7 Of 
+: 1617 2 4 the 
+: 1622 18 2 year 
+- 1642
+: 1664 2 5 There’ll 
+: 1669 2 7 be 
+: 1673 2 8 much 
+: 1678 2 5 mist
+: 1682 2 5 l
+: 1686 2 5 toe
+: 1691 2 7 ing 
+- 1694
+: 1695 2 7 And 
+: 1699 2 9 hearts 
+: 1704 2 6 will 
+: 1708 2 6 be 
+: 1712 2 6 glow
+: 1717 2 7 ing 
+- 1720
+* 1721 2 9 When 
+* 1725 2 11 love 
+* 1730 2 7 ones 
+* 1734 2 11 are 
+* 1739 16 14 near 
+- 1757
+: 1767 2 14 It’s 
+: 1771 2 12 the 
+: 1776 4 10 most 
+* 1789 2 10 won
+* 1793 2 15 der
+* 1797 2 12 ful 
+* 1801 10 10 time 
+- 1813
+: 1819 2 7 Yes 
+: 1823 2 8 the 
+: 1828 4 10 most 
+: 1841 2 10 won
+: 1846 2 17 der
+: 1850 2 12 ful 
+: 1854 9 10 time 
+- 1865
+: 1872 2 7 For 
+: 1876 2 8 the 
+: 1880 4 10 most 
+: 1894 2 10 won
+: 1898 2 15 der
+: 1902 2 12 ful 
+: 1906 26 10 time 
+- 1934
+: 1946 3 13 Of 
+: 1955 2 16 the 
+* 1960 76 14 year 
+E

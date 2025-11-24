@@ -1,0 +1,379 @@
+#ARTIST:Disney’s The Jungle Book
+#TITLE:Bare Necessities
+#MP3:Disney’s The Jungle Book - Bare Necessities.mp3
+#CREATOR:Kimbo
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1967
+#LANGUAGE:English
+#BPM:336
+#GAP:3540
+#VIDEO:v=08NlhjpVFsU,co=https://m.media-amazon.com/images/I/817kJvYO-oL.jpg
+: 0 2 7 Look 
+: 8 4 9 for 
+: 14 4 12 the 
+: 27 12 16 bare 
+: 41 4 14 ne
+: 47 3 16 ces
+: 53 2 14 si
+: 57 7 12 ties 
+- 65
+: 66 3 12 The 
+: 72 3 14 sim
+: 78 4 12 ple 
+* 85 4 14 bare 
+: 92 4 12 ne
+: 98 4 14 ces
+: 104 3 12 si
+: 108 8 9 ties 
+- 118
+: 122 3 7 For
+: 126 3 12 get 
+: 130 4 7 a
+: 135 5 12 bout 
+: 143 3 16 your 
+: 150 4 21 wor
+: 156 4 19 ries 
+: 163 4 17 and 
+: 169 5 16 your 
+: 176 6 14 strife 
+- 184
+: 208 4 19 I 
+: 215 4 21 mean 
+: 221 5 19 the 
+: 235 10 21 bare 
+: 249 4 19 ne
+: 254 3 21 ces
+: 260 2 19 si
+: 264 8 16 ties 
+- 273
+: 274 4 12 Are 
+: 281 3 14 Mo
+: 287 4 12 ther 
+: 293 3 14 Na
+: 300 3 12 ture’s 
+: 306 5 19 re
+: 313 3 12 ci
+: 317 8 12 pes 
+- 326
+: 326 4 14 That 
+: 333 3 16 bring 
+: 339 4 19 the 
+: 346 4 16 bare 
+: 352 3 19 ne
+: 359 1 16 ces
+: 366 3 12 si
+: 370 7 9 ties 
+: 378 5 7 of 
+: 385 3 12 life 
+- 390
+: 418 3 12 Wher
+: 422 4 11 e
+: 428 3 11 ver 
+: 432 6 9 I 
+: 439 9 7 wan
+* 449 9 14 der 
+- 460
+F 471 11 12 Wherever 
+F 483 10 12 I 
+F 494 7 12 roam 
+- 503
+F 521 5 7 I 
+F 527 5 7 couldn’t 
+F 533 7 7 be 
+F 549 14 7 fonder 
+- 565
+: 574 6 14 Of 
+: 581 6 12 my 
+: 588 6 14 big 
+: 595 9 16 home 
+- 606
+: 627 4 16 The 
+: 634 2 17 bees 
+: 640 5 19 are 
+: 647 4 21 buzz
+: 653 4 21 in’ 
+: 660 4 21 in 
+: 666 5 17 the 
+: 672 7 16 tree 
+- 681
+: 683 2 14 To 
+: 686 4 16 make 
+: 691 4 17 some 
+: 698 5 19 ho
+: 705 4 19 ney 
+: 710 5 19 just 
+: 717 6 16 for 
+: 725 8 14 me 
+- 735
+: 743 4 12 When 
+* 750 3 16 you 
+: 757 4 9 look 
+: 763 2 9 un
+: 768 1 9 der 
+: 770 5 9 the 
+: 777 4 16 rocks 
+: 783 5 9 and 
+: 791 4 9 plants 
+- 796
+: 798 5 9 And 
+: 805 3 17 take 
+: 809 2 17 a 
+: 812 6 17 glance 
+: 824 2 16 at 
+: 829 1 16 the 
+: 831 4 14 fan
+: 838 3 12 cy 
+: 842 6 11 ants 
+- 850
+F 852 4 7 Then 
+F 859 9 7 maybe 
+F 875 2 7 try 
+F 879 3 7 a 
+F 885 6 7 few 
+- 893
+: 940 4 16 The 
+: 948 4 17 bare 
+: 955 4 19 ne
+: 961 4 21 ces
+: 966 2 21 si
+* 969 9 21 ties 
+: 981 5 17 of 
+: 987 4 16 life 
+- 993
+: 997 3 14 Will 
+: 1001 5 12 come 
+: 1007 3 11 to 
+: 1011 7 12 you 
+- 1020
+: 1045 4 12 They’ll 
+: 1052 5 9 come 
+: 1059 3 11 to 
+: 1063 7 12 you 
+- 1072
+: 1098 4 7 Look 
+: 1105 4 9 for 
+: 1111 4 12 the 
+: 1124 8 16 bare 
+: 1137 4 14 ne
+: 1144 4 16 ces
+: 1150 3 14 si
+: 1154 9 12 ties 
+- 1164
+: 1164 4 12 The 
+: 1171 4 14 sim
+: 1177 4 12 ple 
+: 1183 4 14 bare 
+: 1190 4 12 ne
+: 1196 4 14 ces
+: 1202 3 12 si
+: 1206 7 9 ties 
+- 1215
+: 1219 3 7 For
+: 1223 3 12 get 
+: 1227 3 7 a
+: 1232 8 12 bout 
+: 1242 5 16 your 
+* 1248 5 21 wor
+: 1254 5 19 ries 
+: 1261 5 17 and 
+: 1267 6 16 your 
+: 1274 7 14 strife 
+- 1283
+: 1305 5 19 I 
+: 1312 5 21 mean 
+: 1320 5 19 the 
+: 1338 7 21 bare 
+: 1346 4 19 ne
+: 1352 5 21 ces
+: 1358 3 19 si
+: 1362 9 16 ties 
+- 1372
+: 1372 5 12 That’s 
+: 1379 5 14 why 
+: 1385 6 12 a 
+: 1392 5 14 bear 
+: 1398 6 12 can 
+: 1405 5 19 rest 
+: 1411 3 12 at 
+: 1416 9 12 ease 
+- 1426
+: 1426 6 14 With 
+: 1433 5 16 just 
+: 1439 4 19 the 
+: 1445 5 16 bare 
+: 1454 3 19 ne
+: 1458 4 16 ces
+: 1464 3 12 si
+: 1468 8 9 ties 
+: 1477 5 7 of 
+* 1483 4 12 life 
+- 1489
+F 1515 3 7 Now 
+F 1521 1 7 when 
+F 1523 5 7 you 
+F 1530 2 7 pick 
+F 1534 1 7 a 
+F 1536 8 7 paw 
+F 1545 6 7 paw 
+- 1553
+F 1568 2 11 Or 
+F 1572 2 11 a 
+F 1576 12 11 prickly 
+F 1589 5 11 pear 
+- 1596
+F 1622 4 7 And 
+F 1627 4 7 you 
+F 1634 2 7 prick 
+F 1638 3 7 a 
+F 1642 8 7 raw 
+F 1651 7 7 paw 
+- 1660
+F 1669 2 12 Well 
+F 1673 4 12 next 
+F 1679 7 12 time 
+F 1691 14 12 beware 
+- 1707
+F 1726 5 21 Don’t 
+F 1732 5 21 pick 
+F 1738 4 21 the 
+F 1745 8 21 prickly 
+F 1758 4 21 pear 
+F 1764 2 21 with 
+F 1767 2 21 the 
+F 1770 4 21 paw 
+- 1775
+F 1777 4 12 When 
+F 1783 5 12 you 
+F 1789 1 12 pick 
+F 1791 2 12 a 
+F 1796 4 12 pear 
+F 1801 2 12 try 
+F 1804 2 12 to 
+F 1807 5 12 use 
+F 1813 4 12 the 
+F 1819 5 12 claw 
+- 1826
+F 1840 4 12 But 
+F 1846 4 12 you 
+F 1852 3 12 don’t 
+F 1858 7 12 need 
+F 1870 2 9 to 
+F 1873 5 9 use 
+F 1880 1 9 the 
+F 1884 7 9 claw 
+- 1892
+F 1894 4 17 When 
+F 1901 3 17 you 
+F 1907 2 17 pick 
+F 1911 2 17 a 
+F 1914 4 17 pear 
+F 1920 2 17 of 
+F 1924 2 17 the 
+F 1927 4 17 big 
+F 1934 4 17 paw 
+F 1941 5 17 paw 
+- 1948
+F 1959 2 12 Have 
+F 1963 3 12 I 
+F 1969 5 12 given 
+F 1977 2 12 you 
+F 1980 2 12 a 
+F 1984 5 12 clue? 
+- 1991
+: 2039 4 16 The 
+: 2045 5 17 bare 
+: 2053 4 19 ne
+: 2060 2 21 ces
+: 2064 2 21 si
+: 2067 10 21 ties 
+: 2080 5 17 of 
+: 2086 4 16 life 
+- 2091
+: 2092 5 14 Will 
+* 2099 6 12 come 
+: 2106 3 11 to 
+: 2110 9 12 you 
+- 2121
+: 2142 4 12 They’ll 
+: 2149 4 9 come 
+: 2156 3 11 to 
+: 2160 7 12 you 
+- 2169
+: 2325 4 7 Look 
+: 2332 6 9 for 
+: 2339 4 12 the 
+: 2351 9 16 bare 
+: 2365 3 14 ne
+* 2372 3 16 ces
+: 2378 2 14 si
+: 2382 7 12 ties 
+- 2390
+: 2391 4 12 The 
+: 2398 3 14 sim
+: 2403 5 12 ple 
+: 2409 5 14 bare 
+: 2416 4 12 ne
+: 2422 3 14 ces
+: 2428 2 12 si
+: 2432 7 9 ties 
+- 2441
+: 2444 2 7 For
+: 2447 5 12 get 
+: 2454 2 7 a
+: 2457 9 12 bout 
+: 2467 6 16 your 
+: 2474 6 21 wor
+: 2481 5 19 ries 
+: 2487 6 17 and 
+: 2494 6 16 your 
+: 2501 5 14 strife 
+- 2508
+F 2513 7 7 Yeah 
+F 2525 5 7 man 
+- 2531
+: 2533 3 19 I 
+: 2540 4 21 mean 
+: 2547 4 19 the 
+: 2559 12 21 bare 
+: 2573 3 19 ne
+: 2579 3 21 ces
+: 2585 2 19 si
+: 2589 7 16 ties 
+- 2597
+: 2598 4 12 That’s 
+: 2604 4 14 why 
+: 2611 5 12 a 
+: 2618 6 14 bear 
+: 2625 5 12 can 
+* 2631 5 19 rest 
+: 2638 3 12 at 
+: 2642 9 12 ease 
+- 2652
+: 2652 5 14 With 
+: 2658 5 16 just 
+: 2665 4 19 the 
+: 2670 6 16 bare 
+: 2677 5 19 ne
+: 2684 3 16 ces
+: 2690 2 12 si
+: 2694 8 9 ties 
+: 2703 5 7 of 
+: 2709 6 12 life 
+- 2717
+F 2736 4 7 Yeah 
+- 2742
+: 2755 3 16 With 
+* 2761 4 16 just 
+: 2771 1 19 the 
+: 2773 9 16 bare 
+: 2785 2 19 ne
+: 2790 5 16 ces
+: 2796 4 12 si
+: 2801 5 9 ties 
+: 2808 6 7 of 
+: 2815 12 12 life 
+- 2828
+F 2829 9 7 Yeah 
+F 2839 10 7 man 
+E

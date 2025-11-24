@@ -1,0 +1,286 @@
+#ARTIST:Derek And The Dominos
+#TITLE:Layla
+#MP3:Derek And The Dominos - Layla.mp3
+#CREATOR:DoubleDee
+#COVER:Derek And The Dominos - Layla [CO].jpg
+#BACKGROUND:Derek And The Dominos - Layla [BG].jpg
+#YEAR:1970
+#LANGUAGE:English
+#BPM:231.3
+#GAP:25560
+#VIDEO:a=TngViNw2pOo,co=https://media.hitparade.ch/cover/big/derek_the_dominos-layla_s.jpg,bg=derek-and-the-dominos-4e906a4cea21b.jpg,preview=40.0,medley=0-461
+#END:191800
+: 0 1 8 What 
+: 2 1 8 will 
+: 4 1 8 you 
+: 6 4 8 do 
+: 12 2 8 when 
+: 16 3 6 you 
+: 20 3 4 get 
+: 24 4 6 lone
+: 30 4 8 ly 
+- 44
+* 64 1 8 No
+: 66 1 8 bo
+: 68 3 8 dy’s 
+: 72 3 6 wai
+: 76 2 4 ting 
+: 80 3 4 by 
+: 84 6 6 your 
+: 92 12 4 side? 
+- 114
+: 128 1 4 You’ve 
+: 130 2 4 been 
+: 136 3 6 run
+: 140 5 8 ning 
+- 152
+: 155 2 7 Hi
+: 158 1 8 ding 
+: 160 2 7 much 
+: 164 3 6 too 
+: 168 3 6 long
+: 172 3 1 ~ 
+- 185
+: 192 1 4 You 
+: 194 1 4 know 
+: 196 2 4 it’s 
+: 200 3 6 just 
+: 204 3 8 your 
+: 208 5 6 foo
+: 214 4 4 lish 
+: 222 7 4 pride 
+- 233
+: 235 15 9 Lay
+: 252 3 5 la
+: 256 12 2 ~, 
+- 277
+: 281 1 7 You 
+: 283 2 7 got 
+: 288 1 7 me 
+: 290 2 7 on 
+: 293 3 7 my 
+: 298 7 9 knees 
+- 306
+: 308 6 9 Lay
+: 316 3 5 la
+: 320 4 2 ~, 
+- 334
+: 345 1 7 I’m 
+: 347 1 7 beg
+: 349 3 7 ging, 
+: 353 3 7 dar
+: 357 3 7 ling, 
+: 361 3 5 please
+: 365 4 2 ~ 
+- 370
+: 372 7 9 Lay
+: 380 3 5 la
+: 384 5 2 ~, 
+- 399
+: 412 3 7 Dar
+: 416 3 5 ling 
+: 420 3 7 won’t 
+: 424 2 5 you 
+* 428 3 9 ease 
+: 432 2 7 my 
+: 436 3 5 wor
+: 440 3 7 ried 
+: 444 7 5 mind, 
+: 452 3 4 oh
+: 456 5 2 ~ 
+- 476
+: 500 3 8 Tried 
+: 504 1 6 to 
+: 506 2 7 give 
+: 510 3 7 you 
+: 514 3 7 con
+: 518 1 6 ~
+: 520 3 4 so
+: 524 5 6 la
+* 530 5 8 tion 
+- 545
+: 564 1 8 When 
+: 566 1 8 your 
+: 568 2 8 old 
+: 572 4 7 man 
+: 577 2 4 had 
+: 580 3 4 let 
+: 584 4 6 you 
+: 590 4 4 down
+: 595 2 2 ~ 
+- 612
+: 629 1 8 Like 
+: 631 2 6 a 
+: 635 5 6 fool, 
+- 648
+: 651 1 2 I 
+: 653 1 7 fell 
+: 655 3 7 in 
+: 659 1 8 love
+: 661 3 6 ~ 
+: 665 1 4 with 
+: 667 4 6 you
+: 672 2 4 ~ 
+- 684
+: 691 1 4 You 
+: 693 3 4 turned 
+: 697 1 4 my 
+: 699 5 6 whole 
+: 705 3 7 world 
+: 709 1 6 up
+: 711 5 6 side 
+: 718 2 4 down
+: 721 3 6 ~ 
+- 733
+: 737 11 9 Lay
+: 749 3 5 la
+: 753 3 2 ~, 
+- 766
+: 781 3 7 Got 
+: 785 1 5 me 
+: 787 3 7 on 
+: 791 3 5 my 
+: 795 6 9 knees 
+- 803
+* 805 7 9 Lay
+* 813 3 7 la
+* 817 8 5 ~, 
+- 835
+: 843 1 5 I’m 
+: 845 2 7 beg
+: 848 2 5 ging, 
+: 851 3 7 dar
+: 855 2 7 ling 
+: 859 3 5 please
+: 863 3 2 ~ 
+- 868
+: 870 6 9 Lay
+: 878 3 5 la
+: 882 8 2 ~, 
+- 900
+: 910 3 7 Dar
+: 914 2 5 ling 
+: 918 3 7 won’t 
+: 922 2 5 you 
+: 926 3 9 ease 
+: 930 3 7 my 
+: 934 3 5 wor
+: 938 3 7 ried 
+: 942 7 5 mind
+: 950 3 0 ~
+* 954 5 2 ~ 
+- 974
+: 998 3 8 Make 
+: 1002 1 8 the 
+: 1004 2 8 best 
+: 1008 2 8 of 
+: 1012 1 8 this 
+* 1014 3 6 si
+: 1018 2 4 tu
+: 1022 5 6 a
+: 1028 4 8 tion 
+- 1042
+: 1062 1 6 Be
+: 1064 1 7 fore 
+: 1066 3 7 I 
+: 1070 1 7 fi
+: 1072 3 6 ~
+: 1076 1 4 nally 
+: 1078 3 4 go 
+: 1082 7 6 in
+: 1090 5 4 sane 
+- 1110
+: 1128 3 7 Please 
+: 1132 3 6 don’t 
+: 1138 6 6 say 
+- 1145
+: 1147 3 4 We’ll 
+: 1151 1 7 ne
+: 1153 3 8 ver 
+: 1157 2 6 find
+: 1160 2 7 ~ 
+: 1163 3 4 a 
+: 1167 3 6 way
+: 1171 3 1 ~ 
+- 1184
+: 1192 3 4 Tell 
+: 1196 1 4 me 
+: 1198 3 6 all 
+: 1202 3 6 my 
+: 1206 1 7 love’s
+: 1208 3 6 ~ 
+: 1212 2 4 in 
+: 1218 9 4 vain 
+- 1232
+: 1234 10 9 Lay
+: 1247 3 5 la
+: 1251 6 2 ~, 
+- 1267
+: 1279 1 7 You 
+: 1281 3 7 got 
+: 1285 1 5 me 
+: 1287 2 7 on 
+: 1291 2 7 my 
+: 1294 8 9 knees 
+- 1303
+: 1305 7 9 Lay
+: 1313 3 5 la
+: 1317 6 2 ~, 
+- 1333
+* 1344 1 8 Beg
+* 1346 3 9 ging, 
+: 1350 3 9 dar
+: 1354 3 9 ling 
+: 1358 3 7 please
+: 1362 3 5 ~ 
+- 1366
+: 1368 7 9 Lay
+: 1376 3 5 la
+: 1380 5 2 ~, 
+- 1395
+: 1409 3 7 Dar
+: 1413 3 5 ling 
+: 1417 3 7 won’t 
+: 1421 3 5 you 
+: 1425 3 9 ease 
+: 1429 3 7 my 
+: 1433 3 5 wor
+: 1437 3 7 ried 
+: 1441 10 5 mind 
+- 1466
+* 1497 7 9 Lay
+: 1505 3 5 la
+: 1509 4 2 ~, 
+- 1523
+: 1537 3 7 Got 
+: 1541 1 5 me 
+: 1543 3 7 on 
+: 1547 3 7 my 
+: 1551 6 9 knees 
+- 1559
+: 1561 7 9 Lay
+: 1569 3 5 la
+: 1573 8 2 ~, 
+- 1593
+: 1597 3 2 I’m 
+: 1601 1 7 beg
+: 1603 3 7 ging 
+: 1607 3 7 dar
+: 1611 2 7 ling 
+* 1615 3 5 please
+* 1619 2 2 ~ 
+- 1623
+: 1625 7 9 Lay
+: 1633 3 5 la
+: 1637 8 2 ~, 
+- 1655
+: 1664 3 7 Dar
+: 1668 2 5 ling 
+: 1672 3 7 won’t 
+: 1676 2 5 you 
+: 1680 3 9 ease 
+: 1684 3 7 my 
+: 1688 3 5 wor
+: 1692 2 7 ried 
+* 1700 6 7 mind 
+E

@@ -1,0 +1,174 @@
+#ARTIST:Disney’s Sleeping Beauty
+#TITLE:Once Upon A Dream
+#MP3:Disney’s Sleeping Beauty - Once Upon A Dream.mp3
+#CREATOR:heathriel
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1959
+#LANGUAGE:English
+#BPM:340
+#GAP:90
+#VIDEO:v=TXbHShUnwxY,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/90/a4/3c/90a43c35-8840-8620-97cc-9e92d518bb8b/00094636893556.jpg/5000x5000bb.jpg
+: 0 7 2 I 
+: 9 6 4 walked 
+: 17 7 5 with 
+: 25 6 2 you 
+- 32
+: 32 11 4 Once 
+: 48 6 7 u
+* 55 13 9 pon 
+: 69 6 6 a 
+: 76 19 7 dream 
+- 97
+: 123 21 12 I 
+: 146 19 11 know 
+: 168 14 10 you 
+- 183
+: 184 7 7 The 
+: 192 6 10 gleam 
+: 200 6 9 in 
+: 209 4 7 your 
+: 216 12 14 eyes 
+- 230
+: 231 4 12 Is 
+: 239 11 10 so 
+: 253 7 9 fa
+: 261 7 9 mi
+: 269 8 7 liar 
+: 278 6 6 a 
+: 285 12 7 gleam 
+- 299
+: 307 5 4 Yet 
+: 313 6 4 I 
+* 322 21 5 know 
+: 345 19 4 it’s 
+: 368 11 5 true 
+- 381
+: 384 8 2 That 
+: 393 6 4 vi
+: 400 6 5 sions 
+: 407 6 6 are 
+- 414
+: 414 13 7 Sel
+: 428 8 2 dom 
+: 437 13 9 all 
+: 451 7 2 they 
+: 459 15 10 seem 
+- 476
+: 492 5 11 But 
+: 499 6 14 if 
+: 507 13 12 I 
+: 522 8 5 know 
+: 531 14 14 you 
+- 546
+: 547 7 12 I 
+: 555 9 14 know 
+: 565 7 10 what 
+: 573 6 7 you’ll 
+* 580 12 16 do 
+- 594
+: 606 6 14 You’ll 
+: 615 9 17 love 
+: 627 10 16 me 
+: 639 8 14 at 
+: 649 18 12 once 
+- 669
+: 676 12 12 The 
+: 689 10 15 way 
+: 701 10 14 you 
+: 713 11 12 did 
+: 727 16 10 once 
+- 744
+: 745 5 14 U
+: 751 24 5 pon 
+: 776 24 4 a 
+: 801 21 5 dream 
+- 824
+: 858 6 12 La
+: 865 13 9 ~ 
+- 880
+* 881 6 12 La
+: 888 13 9 ~ 
+- 902
+: 903 6 12 La
+: 910 6 9 ~ 
+- 918
+: 919 6 4 Ah
+: 926 11 5 ~ 
+: 938 3 6 ah
+: 942 11 7 ~ 
+: 957 8 2 ah
+: 966 13 9 ~ 
+: 980 8 2 ah
+* 989 17 10 ~ 
+- 1008
+: 1022 7 11 But 
+: 1031 7 14 if 
+: 1039 14 12 I 
+: 1055 8 5 know 
+: 1064 13 14 you 
+- 1079
+: 1081 8 12 I 
+: 1091 9 14 know 
+: 1103 7 10 what 
+: 1112 8 7 you’ll 
+: 1121 17 16 do 
+- 1140
+: 1148 10 14 You’ll 
+: 1159 6 17 love 
+: 1167 9 16 me 
+: 1178 10 14 at 
+* 1191 19 12 once 
+- 1212
+: 1219 8 12 The 
+: 1228 7 15 way 
+: 1236 7 14 you 
+: 1244 8 12 did 
+: 1253 13 10 once 
+- 1268
+* 1833 27 12 And 
+: 1861 34 4 I 
+: 1897 25 5 know 
+: 1925 22 4 it’s 
+: 1954 15 5 true 
+- 1971
+: 1973 7 2 That 
+: 1981 6 4 vi
+: 1988 7 5 sions 
+: 1996 8 6 are 
+- 2005
+: 2005 15 7 Sel
+: 2021 9 2 dom 
+* 2031 16 9 all 
+: 2048 9 2 they 
+: 2058 27 10 seem 
+- 2087
+: 2100 7 12 But 
+: 2108 9 14 if 
+: 2118 20 12 I 
+: 2139 12 5 know 
+: 2152 18 14 you 
+- 2172
+: 2176 7 12 I 
+: 2184 8 14 know 
+: 2193 9 10 what 
+: 2205 10 7 you’ll 
+: 2217 21 16 do 
+- 2240
+: 2244 10 14 You’ll 
+* 2255 9 17 love 
+: 2265 9 16 me 
+: 2275 10 14 at 
+: 2286 16 12 once 
+- 2304
+: 2311 10 12 The 
+: 2322 11 15 way 
+: 2334 10 14 you 
+: 2345 13 12 did 
+: 2359 19 10 once 
+- 2380
+: 2393 13 14 U
+: 2409 48 5 pon 
+* 2458 57 4 a 
+: 2516 58 5 dream 
+E

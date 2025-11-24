@@ -1,0 +1,86 @@
+#ARTIST:Pink Floyd
+#TITLE:Another Brick In The Wall (Part I)
+#MP3:Pink Floyd - Another Brick In The Wall (Part I).mp3
+#CREATOR:Leroidukitch
+#YEAR:1979
+#LANGUAGE:English
+#BPM:398
+#GAP:17000
+#VIDEO:a=Te60_BiZlk0,co=another-brick-in-the-wall-part-2-5c6f12582b6c9.jpg,bg=pink-floyd-4dea85237bfef.jpg
+: 0 10 2 Dad
+: 12 8 2 dy’s 
+: 24 28 4 flown 
+: 56 2 5 a
+: 60 12 4 cross 
+: 76 4 2 the 
+: 84 10 4 o
+: 96 16 5 cean 
+- 114
+: 264 10 4 Lea
+: 276 4 2 ving 
+: 284 16 4 just 
+: 302 20 5 a 
+: 328 10 4 me
+: 340 10 2 mo
+: 352 16 4 ry 
+- 370
+: 512 4 5 A 
+: 520 10 4 snap
+: 532 16 2 shot 
+: 552 4 4 in 
+: 560 20 5 the 
+: 584 10 4 fami
+: 596 8 2 ly 
+* 608 14 4 al
+* 624 16 5 bum 
+- 642
+: 776 2 4 Dad
+: 780 12 2 dy 
+: 808 2 4 what 
+: 812 12 5 else 
+: 840 12 4 did 
+: 856 4 2 you 
+: 864 12 4 leave 
+: 888 4 5 for 
+: 896 12 2 me? 
+- 910
+* 1096 2 7 Dad
+* 1100 8 19 dy, 
+: 1112 4 -5 what 
+: 1120 4 -5 d’ya 
+: 1128 4 -7 leave 
+: 1136 2 21 be
+: 1140 8 -5 hind 
+: 1152 4 17 for 
+: 1160 16 -5 me? 
+- 1178
+: 1304 4 17 All 
+: 1312 2 5 in 
+: 1316 4 5 all 
+: 1324 4 5 it 
+: 1332 16 5 was 
+: 1368 4 5 just 
+: 1376 4 4 a 
+: 1384 12 4 brick 
+: 1400 4 4 in 
+: 1408 4 2 the 
+: 1416 16 0 wall 
+- 1434
+: 1560 4 2 All 
+: 1568 2 5 in 
+: 1572 8 5 all 
+: 1584 4 5 it 
+: 1592 12 5 was 
+: 1608 8 5 all 
+: 1620 12 4 just 
+: 1636 12 4 bricks 
+: 1652 8 4 in 
+: 1664 4 2 the 
+: 1672 16 0 wall 
+- 1690
+F 2628 12 2 One, 
+F 2644 12 2 two, 
+F 2660 16 2 three 
+- 2678
+F 2748 8 2 Hey 
+E

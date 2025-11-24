@@ -1,0 +1,686 @@
+#ARTIST:Tone Lōc
+#TITLE:Funky Cold Medina
+#MP3:Tone Lōc - Funky Cold Medina.mp3
+#CREATOR:DoubleDee
+#COVER:Tone Lōc - Funky Cold Medina [CO].jpg
+#BACKGROUND:Tone Lōc - Funky Cold Medina [BG].jpg
+#GENRE:Hip-Hop
+#YEAR:1989
+#LANGUAGE:English
+#BPM:235
+#GAP:23610
+#VIDEO:v=63ZIf2H9S0E,co=https://m.media-amazon.com/images/I/517HHBYdkeL.jpg,bg=tone-lc-511b9b033cd0a.jpg,preview=52.33,medley=0-506
+R 0 2 6 Cold 
+R 4 2 6 coo
+R 8 2 6 lin’ 
+R 12 1 6 at 
+R 14 2 6 a 
+R 18 4 6 bar, 
+- 29
+R 32 1 6 And 
+R 34 1 6 I’m 
+R 36 2 6 loo
+R 40 2 6 kin’ 
+R 44 2 6 for 
+R 50 1 6 some 
+R 52 2 6 ac
+R 57 2 6 tion 
+- 64
+R 66 1 6 Feel 
+R 68 2 6 like 
+R 72 2 6 Mike 
+R 76 2 6 Jag
+R 80 2 6 ger 
+R 84 2 6 said, 
+R 88 2 6 I 
+R 92 2 6 can’t 
+R 96 2 6 get 
+R 104 1 6 no 
+R 108 3 6 sa
+R 112 3 6 tis
+R 116 3 6 fac
+R 120 4 6 tion 
+- 128
+R 130 1 6 The 
+R 132 3 6 girls 
+R 136 2 6 are 
+R 140 2 6 all 
+R 144 2 6 a
+R 148 2 6 round, 
+- 157
+R 160 2 6 But 
+R 164 1 6 none 
+R 166 1 6 of 
+R 168 2 6 them 
+R 172 1 6 wan
+R 174 1 6 na 
+R 176 2 6 get 
+R 180 2 6 with 
+R 184 2 6 me 
+- 190
+R 192 2 6 My 
+R 196 2 6 threads 
+R 200 2 6 are 
+R 204 2 6 fresh 
+R 208 1 6 and 
+R 210 1 6 I’m 
+R 212 1 6 look
+R 214 2 6 in’ 
+R 218 2 6 def’, 
+R 222 1 6 yo, 
+R 224 3 6 what’s 
+R 228 2 6 up 
+R 232 2 6 with 
+R 236 1 6 L-
+R 238 2 6 O-
+R 244 3 6 C? 
+- 255
+R 258 1 6 The 
+R 260 2 6 girls 
+R 264 2 6 is 
+R 268 2 6 all 
+R 274 2 6 joc
+R 280 2 6 kin’ 
+- 286
+R 288 1 6 At 
+R 290 1 6 the 
+R 292 2 6 o
+R 296 2 6 ther 
+R 300 1 6 end 
+R 302 1 6 of 
+R 304 1 6 the 
+R 306 4 6 bar 
+- 317
+R 320 1 6 Ha
+R 322 1 6 vin’ 
+R 324 2 6 drinks 
+R 328 2 6 with 
+R 332 2 6 some 
+R 336 2 6 no 
+R 340 2 6 name 
+R 346 3 6 chump 
+- 350
+R 352 1 6 When 
+R 354 1 6 they 
+R 356 2 6 know 
+R 362 1 6 that 
+R 364 2 6 I’m 
+R 368 2 6 the 
+R 372 2 6 star 
+- 381
+R 384 1 6 So 
+R 386 1 6 I 
+R 388 1 6 got 
+R 390 1 6 up 
+R 392 2 6 and 
+R 396 2 6 strolled 
+R 402 1 6 o
+R 406 2 6 ver 
+- 414
+R 416 1 6 To 
+R 418 1 6 the 
+R 420 1 6 o
+R 422 1 6 ther 
+R 426 1 6 side 
+R 428 1 6 of 
+R 430 1 6 the 
+R 432 2 6 can
+R 436 2 6 ti
+R 440 3 6 na 
+- 448
+R 450 1 6 I 
+R 452 3 6 asked 
+R 456 2 6 the 
+R 460 2 6 guy, 
+R 464 1 6 “Why 
+R 466 1 6 you 
+R 468 2 6 so 
+R 472 2 6 fly?” 
+R 478 1 6 he 
+R 480 2 6 said, 
+- 482
+G 484 2 6 “Fun
+G 488 2 6 ky 
+G 492 2 6 Cold 
+G 496 2 6 Me
+G 500 2 6 di
+G 504 2 6 na” 
+- 537
+R 628 3 6 Fun
+R 632 3 6 ky 
+R 636 3 6 Cold 
+R 640 3 6 Me
+R 644 3 6 di
+R 648 3 6 na 
+- 682
+R 768 2 6 This 
+R 772 2 6 bro
+R 776 2 6 ther 
+R 780 2 6 told 
+R 784 1 6 me 
+R 786 1 6 a 
+R 788 2 6 se
+R 792 3 6 cret 
+- 798
+R 800 2 6 On 
+R 804 1 6 how 
+R 806 1 6 to 
+R 810 2 6 get 
+R 814 2 6 more 
+R 820 3 6 chicks 
+- 829
+R 832 1 6 Put 
+R 834 1 6 a 
+R 836 1 6 lit
+R 838 1 6 tle 
+R 842 1 6 Me
+R 844 2 6 di
+R 847 2 6 na 
+R 850 1 6 in 
+R 852 2 6 your 
+R 856 4 6 glass, 
+- 862
+R 864 1 6 And 
+R 866 1 6 the 
+R 868 2 6 girls 
+R 872 2 6 will 
+R 876 2 6 come 
+R 880 2 6 real 
+R 884 3 6 quick 
+- 893
+R 896 2 6 It’s 
+R 900 1 6 bet
+R 902 1 6 ter 
+R 904 2 6 than 
+R 908 2 6 a
+R 912 1 6 ny 
+R 914 2 6 al
+R 918 1 6 co
+R 920 2 6 hol 
+- 926
+R 928 2 6 Or 
+R 936 1 6 a
+R 938 1 6 phro
+R 940 2 6 di
+R 944 1 6 si
+R 946 2 6 ac 
+- 957
+R 960 2 6 A 
+R 964 1 6 cou
+R 966 1 6 ple 
+R 968 1 6 of 
+R 972 2 6 sips 
+R 976 1 6 of 
+R 978 1 6 this 
+R 980 2 6 love 
+R 986 2 6 po
+R 990 1 6 tion, 
+R 992 3 6 and 
+- 995
+R 996 2 6 She’ll 
+R 1000 2 6 be 
+R 1004 2 6 on 
+R 1008 2 6 your 
+R 1012 2 6 lap 
+- 1020
+R 1022 1 6 So 
+R 1024 3 6 I 
+R 1028 2 6 gave 
+R 1032 2 6 some 
+R 1036 1 6 to 
+R 1038 2 6 my 
+R 1042 3 6 dog 
+- 1053
+R 1056 2 6 When 
+R 1060 2 6 he 
+R 1066 1 6 be
+R 1068 1 6 gan 
+R 1072 2 6 to 
+R 1076 2 6 beg 
+- 1084
+R 1086 1 6 And 
+R 1088 1 6 then 
+R 1090 1 6 he 
+R 1092 2 6 licked 
+R 1095 2 6 his 
+R 1098 3 6 bowl 
+- 1101
+R 1103 1 6 And 
+R 1105 1 6 he 
+R 1107 2 6 looked 
+R 1110 2 6 at 
+R 1115 2 6 me 
+- 1117
+R 1118 1 6 And 
+R 1120 1 6 did 
+R 1122 1 6 the 
+R 1125 2 6 wild 
+R 1130 1 6 thing 
+R 1132 2 6 on 
+R 1136 2 6 my 
+R 1140 3 6 leg 
+- 1152
+R 1156 1 6 He 
+R 1158 1 6 used 
+R 1160 2 6 to 
+R 1164 3 6 scratch 
+R 1168 1 6 and 
+R 1170 2 6 bite 
+R 1174 2 6 me, 
+- 1182
+R 1184 1 6 Be
+R 1186 1 6 fore 
+R 1190 2 6 he 
+R 1193 2 6 was 
+R 1196 2 6 much, 
+R 1200 2 6 much 
+R 1204 2 6 mea
+R 1208 2 6 ner 
+- 1216
+R 1218 1 6 But 
+R 1220 2 6 now 
+R 1224 1 6 all 
+R 1226 1 6 the 
+R 1228 2 6 poo
+R 1232 1 6 dles 
+R 1234 2 6 run 
+R 1238 1 6 to 
+R 1240 2 6 my 
+R 1244 3 6 house 
+R 1248 1 6 for 
+R 1250 1 6 the 
+- 1251
+G 1252 2 6 Fun
+G 1256 2 6 ky 
+G 1260 2 6 Cold 
+G 1264 2 6 Me
+G 1268 2 6 di
+G 1272 2 6 na 
+- 1284
+R 1294 1 0 You 
+F 1297 1 0 know 
+F 1299 1 0 what 
+F 1302 1 0 I’m 
+F 1305 1 0 say
+F 1307 2 0 ing? 
+- 1316
+F 1319 1 0 I 
+F 1321 2 0 got 
+F 1325 2 0 every 
+F 1329 2 0 dog 
+F 1333 1 0 in 
+F 1336 2 0 my 
+F 1340 2 0 neigh
+F 1344 1 0 bor
+F 1346 2 0 hood 
+F 1350 2 0 brea
+F 1354 1 0 king 
+F 1357 2 0 down 
+F 1360 1 0 my 
+F 1364 2 0 door 
+- 1378
+F 1382 1 0 I 
+F 1385 2 0 got 
+F 1390 2 0 Spuds 
+F 1396 2 0 Mc
+F 1400 2 0 Ken
+F 1404 2 0 zie, 
+F 1417 2 0 A
+F 1420 2 0 lice 
+F 1424 2 0 from 
+F 1430 6 0 Stroughs 
+- 1446
+F 1455 1 0 They 
+F 1457 2 0 won’t 
+F 1460 2 0 leave 
+F 1463 2 0 my 
+F 1467 2 0 dog 
+F 1471 1 0 a
+F 1473 2 0 lone 
+F 1476 1 0 with 
+F 1478 2 0 that 
+F 1483 1 0 me
+F 1485 1 0 di
+F 1487 1 0 na, 
+F 1490 1 0 pal 
+- 1506
+R 1538 1 6 I 
+R 1540 1 6 went 
+R 1542 2 6 up 
+R 1548 1 6 to 
+R 1550 2 6 this 
+R 1554 4 6 girl, 
+- 1564
+R 1566 1 6 She 
+R 1568 1 6 said, 
+R 1572 2 6 “Hi, 
+R 1578 1 6 my 
+R 1580 2 6 name 
+R 1584 2 6 is 
+R 1588 3 6 Shee
+R 1592 2 6 na” 
+- 1600
+R 1602 1 6 I 
+R 1604 2 6 thought 
+R 1608 1 6 she’d 
+R 1610 1 6 be 
+R 1612 2 6 good 
+R 1616 2 6 to 
+R 1620 2 6 go 
+R 1624 1 6 with 
+R 1626 1 6 a 
+R 1628 1 6 lit
+R 1630 1 6 tle 
+- 1634
+: 1636 2 6 Fun
+: 1640 2 6 ky 
+: 1644 2 6 Cold 
+: 1650 1 6 Me
+: 1652 2 6 di
+: 1656 2 6 na 
+- 1664
+R 1666 1 6 She 
+R 1668 2 6 said, 
+R 1672 2 6 “I’d 
+R 1676 2 6 like 
+R 1680 2 6 a 
+R 1684 2 6 drink”, 
+R 1688 2 6 I 
+R 1692 2 6 said, 
+R 1696 4 6 “Hmm, 
+R 1704 4 6 I’ll 
+R 1712 2 6 go 
+R 1716 1 6 get 
+R 1718 2 6 it” 
+- 1724
+R 1726 1 6 And 
+R 1728 1 6 then 
+R 1730 1 6 a 
+R 1732 1 6 cou
+R 1734 1 6 ple 
+R 1736 1 6 of 
+R 1738 1 6 sips 
+- 1740
+R 1742 1 6 She 
+R 1744 2 6 cold 
+R 1748 2 6 licked 
+R 1752 1 6 her 
+R 1754 1 6 lips 
+- 1756
+R 1758 1 6 And 
+R 1760 2 6 I 
+R 1764 2 6 knew 
+R 1768 2 6 that 
+R 1772 2 6 she 
+R 1776 2 6 was 
+R 1780 1 6 with 
+R 1782 2 6 it 
+- 1790
+R 1792 1 6 So 
+R 1794 1 6 I 
+R 1796 1 6 took 
+R 1798 2 6 her 
+R 1804 1 6 to 
+R 1806 1 6 my 
+R 1810 3 6 crib, 
+- 1819
+R 1822 1 6 And 
+R 1824 1 6 eve
+R 1826 1 6 ry
+R 1828 2 6 thing 
+R 1832 2 6 went 
+R 1836 1 6 well 
+R 1838 1 6 as 
+R 1842 4 6 planned 
+- 1852
+R 1854 1 6 But 
+R 1856 1 6 when 
+R 1858 1 6 she 
+R 1860 1 6 got 
+R 1862 1 6 un
+R 1866 2 6 dressed, 
+- 1868
+R 1870 1 6 It 
+R 1872 1 6 was 
+R 1874 1 6 a 
+R 1876 1 6 big 
+R 1878 2 6 old 
+R 1882 3 6 mess, 
+- 1890
+R 1892 2 6 Shee
+R 1896 2 6 na 
+R 1900 2 6 was 
+R 1904 2 6 a 
+R 1908 3 6 man 
+- 1916
+R 1918 1 6 So 
+R 1920 2 6 I 
+R 1924 1 6 threw 
+R 1926 2 6 him 
+R 1930 1 6 out, 
+- 1932
+R 1934 1 6 I 
+R 1936 2 6 don’t 
+R 1940 2 6 fool 
+R 1944 1 6 a
+R 1946 3 6 round 
+R 1950 1 6 with 
+R 1952 1 6 no 
+- 1954
+R 1956 2 6 Os
+R 1960 2 6 car 
+R 1964 2 6 May
+R 1968 2 6 er 
+R 1972 2 6 wie
+R 1976 2 6 ner 
+- 1984
+R 1986 1 6 You 
+R 1988 1 6 must 
+R 1990 2 6 be 
+R 1994 2 6 sure 
+R 1998 1 6 that 
+R 2000 2 6 your 
+R 2004 1 6 girl 
+R 2006 1 6 is 
+R 2010 2 6 pure 
+- 2014
+R 2016 1 6 For 
+R 2018 1 6 the 
+G 2020 2 6 Fun
+G 2024 2 6 ky 
+G 2028 2 6 cold 
+G 2034 1 6 Me
+G 2036 3 6 di
+G 2040 4 6 na 
+- 2054
+F 2064 1 6 You 
+F 2066 1 6 know 
+F 2068 1 6 what 
+F 2070 1 6 I’m 
+F 2073 2 6 say
+F 2076 2 6 ing? 
+- 2088
+: 2096 2 6 Ain’t 
+: 2100 2 6 no 
+: 2104 2 6 plans 
+: 2112 1 6 with 
+: 2114 1 6 a 
+: 2116 3 6 man 
+- 2130
+F 2134 1 6 This 
+F 2136 1 6 is 
+F 2139 2 6 the 
+F 2142 2 6 eigh
+F 2146 2 6 ties 
+F 2149 2 6 and 
+F 2153 3 6 LOC 
+F 2157 2 6 is 
+F 2161 3 6 down 
+F 2167 2 6 with 
+F 2171 2 6 the 
+F 2174 3 6 la
+F 2178 3 6 dies 
+- 2212
+R 2296 1 6 Break 
+R 2298 1 6 it 
+R 2300 2 6 down 
+- 2333
+R 2819 2 6 Black 
+R 2828 1 6 in 
+R 2830 1 6 the 
+R 2834 2 6 sad
+R 2839 2 6 dle, 
+- 2846
+R 2848 1 6 Loo
+R 2850 1 6 kin’ 
+R 2852 2 6 for 
+R 2858 1 6 a 
+R 2860 1 6 lit
+R 2862 1 6 tle 
+R 2864 1 6 af
+R 2867 2 6 fec
+R 2872 3 6 tion 
+- 2880
+R 2882 1 6 I 
+R 2884 1 6 took 
+R 2886 1 6 a 
+R 2890 3 6 shot 
+R 2894 1 6 as 
+R 2896 1 6 a 
+R 2898 1 6 con
+R 2900 2 6 tes
+R 2904 2 6 tant 
+R 2908 2 6 on, 
+- 2910
+R 2912 2 6 The 
+R 2916 3 6 Love 
+R 2930 1 6 Con
+R 2932 2 6 nec
+R 2936 2 6 tion 
+- 2944
+R 2946 1 6 The 
+R 2948 2 6 au
+R 2952 2 6 di
+R 2956 2 6 ence 
+R 2963 2 6 vo
+R 2966 2 6 ted, 
+- 2972
+R 2974 1 6 And 
+R 2976 2 6 you 
+R 2980 2 6 know 
+R 2984 2 6 they 
+R 2988 2 6 picked 
+R 2992 2 6 a 
+R 2996 1 6 win
+R 2998 2 6 ner 
+- 3006
+R 3008 2 6 I 
+R 3012 2 6 took 
+R 3016 2 6 my 
+R 3020 2 6 date 
+R 3024 1 6 to 
+R 3026 1 6 the 
+R 3028 2 6 Hil
+R 3031 2 6 ton 
+R 3034 3 6 for 
+- 3038
+R 3040 2 6 Me
+R 3043 3 6 di
+R 3048 2 6 na 
+R 3052 2 6 and 
+R 3056 2 6 some 
+R 3060 1 6 din
+R 3062 1 6 ner 
+- 3071
+R 3074 1 6 We 
+R 3076 2 6 had 
+R 3080 1 6 a 
+R 3084 2 6 few 
+R 3090 2 6 drinks, 
+- 3092
+R 3094 2 6 I’m 
+R 3100 1 6 think
+R 3102 1 6 in’ 
+R 3106 2 6 soon 
+R 3114 1 6 what 
+R 3116 3 6 I’ll 
+R 3120 2 6 be 
+R 3124 2 6 get
+R 3128 2 6 tin’ 
+- 3134
+R 3136 1 6 In
+R 3140 2 6 stead 
+R 3144 2 6 she 
+R 3148 2 6 star
+R 3152 2 6 ted 
+R 3156 2 6 tal
+R 3160 2 6 kin’ 
+R 3164 2 6 ’bout 
+R 3168 3 6 plans 
+- 3177
+R 3180 2 6 For 
+R 3184 2 6 our 
+R 3188 2 6 wed
+R 3193 2 6 din’ 
+- 3198
+R 3200 1 6 So 
+R 3202 1 6 I 
+R 3204 2 6 grabbed 
+R 3208 2 6 my 
+R 3212 2 6 coat 
+R 3216 2 6 and 
+R 3220 2 6 hit 
+R 3224 1 6 the 
+R 3226 1 6 door, 
+- 3228
+R 3230 1 6 I 
+R 3232 2 6 said 
+R 3236 2 6 “Ba
+R 3240 2 6 by, 
+R 3244 2 6 I’ll 
+R 3248 2 6 be 
+R 3252 1 6 see
+R 3254 1 6 in’ 
+R 3256 2 6 ya” 
+- 3262
+R 3264 2 6 That’s 
+R 3268 1 6 why 
+R 3270 1 6 I 
+R 3274 2 6 found 
+R 3278 1 6 you 
+R 3280 2 6 don’t 
+R 3284 2 6 fool 
+R 3288 1 6 a
+R 3290 1 6 round 
+- 3292
+R 3294 1 6 With 
+R 3296 2 6 the 
+G 3300 2 6 Fun
+G 3304 2 6 ky 
+G 3308 3 6 Cold 
+G 3314 1 6 Me
+G 3316 2 6 di
+G 3320 2 6 na 
+- 3332
+F 3342 1 6 You 
+F 3344 1 6 know 
+F 3346 1 6 what 
+F 3348 1 6 I’m 
+F 3351 2 6 say
+F 3354 2 6 in’? 
+- 3366
+F 3374 1 6 That 
+F 3376 2 6 Me
+F 3379 2 6 di
+F 3382 2 6 na’s 
+F 3385 2 6 a 
+F 3388 2 6 mon
+F 3392 2 6 ster 
+- 3409
+G 3444 2 6 Fun
+G 3448 2 6 ky 
+G 3452 2 6 Cold 
+G 3456 2 6 Me
+G 3460 2 6 di
+G 3464 2 6 na 
+E

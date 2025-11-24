@@ -1,0 +1,192 @@
+#ARTIST:Leonard Cohen
+#TITLE:Who By Fire
+#MP3:Leonard Cohen - Who By Fire.mp3
+#CREATOR:Jesposo
+#GENRE:Folk
+#YEAR:1974
+#LANGUAGE:English
+#BPM:302.16
+#GAP:13980
+#VIDEO:a=ilGahIwQEQ0,co=new-skin-for-the-old-ceremony-5d86d5f1c6514.jpg,bg=leonard-cohen-4e43eceb2e569.jpg,preview=13.92,medley=771-1409
+: 0 7 -8 And 
+: 11 8 -3 who 
+: 29 8 -1 by 
+: 41 4 0 fi
+: 48 3 -3 re 
+- 53
+: 79 7 -3 Who 
+: 95 7 -1 by 
+: 107 4 0 wa
+: 114 3 -3 ter 
+- 119
+: 144 10 0 Who 
+: 160 6 2 in 
+: 168 2 2 the 
+* 172 4 4 sun
+* 180 9 4 shine 
+- 191
+: 208 8 0 Who 
+: 223 5 2 in 
+: 231 2 2 the 
+: 235 5 4 night 
+: 242 10 4 time 
+- 254
+: 270 9 0 Who 
+: 294 3 -1 by 
+: 298 3 0 high 
+: 302 3 -1 or
+: 306 7 0 deal 
+- 315
+: 333 9 0 Who 
+: 357 3 -1 by 
+: 361 3 0 com
+: 365 2 -1 mon 
+: 369 7 0 trial 
+- 378
+: 396 3 0 Who 
+: 400 2 0 in 
+: 403 6 0 your 
+: 412 3 2 mer
+: 416 2 2 ry 
+: 420 2 2 mer
+: 423 3 2 ry 
+: 428 3 4 month 
+: 432 2 2 of 
+: 436 8 4 May 
+- 446
+: 459 3 0 Who 
+: 463 9 0 by 
+: 475 4 2 ve
+: 480 4 2 ry 
+: 489 3 4 slow 
+: 494 2 2 de
+: 498 10 4 cay 
+- 510
+: 512 3 0 And 
+: 517 11 0 who 
+: 568 3 0 shall 
+: 572 3 0 I 
+* 578 11 0 say 
+: 637 2 -3 is 
+: 642 4 -1 call
+: 647 5 -1 ing? 
+- 654
+: 771 5 -8 And 
+: 780 9 -3 who 
+: 797 3 -1 in 
+: 802 5 0 her 
+: 809 4 0 lone
+: 815 2 -1 ly 
+: 822 6 0 slip 
+- 830
+: 845 10 -3 Who 
+: 861 3 -1 by 
+: 867 6 -1 bar
+: 875 2 0 bi
+: 879 3 -1 tu
+: 884 5 0 rate 
+- 891
+: 907 11 0 Who 
+: 921 5 2 in 
+: 929 4 2 these 
+: 936 5 4 realms 
+: 946 2 2 of 
+: 951 8 4 love 
+- 961
+: 970 11 0 Who 
+: 984 9 2 by 
+: 999 4 4 some
+: 1004 3 2 thing 
+: 1011 9 4 blunt 
+- 1022
+: 1028 1 0 And 
+* 1031 15 0 who 
+: 1053 3 -1 by 
+: 1057 2 0 av
+: 1060 2 -1 al
+: 1063 11 0 anche 
+- 1076
+: 1093 15 0 Who 
+: 1116 3 -1 by 
+: 1121 5 0 pow
+: 1129 6 0 der 
+- 1137
+: 1155 12 0 Who 
+: 1170 3 2 for 
+: 1175 5 2 his 
+* 1184 9 4 greed 
+- 1195
+: 1216 11 0 Who 
+: 1231 3 2 for 
+: 1235 4 2 his 
+: 1244 4 4 hun
+: 1250 7 4 ger 
+- 1259
+: 1267 4 0 And 
+: 1275 12 0 who 
+: 1324 4 0 shall 
+: 1329 3 0 I 
+: 1336 12 0 say 
+: 1391 3 -3 is 
+* 1397 4 -1 call
+* 1403 6 -1 ing? 
+- 1411
+: 1520 6 -8 And 
+: 1530 10 -3 who 
+: 1546 7 -1 by 
+: 1560 4 0 brave 
+: 1566 2 -1 as
+: 1570 7 0 cent 
+- 1579
+: 1593 9 -3 Who 
+: 1609 7 -1 by 
+: 1620 3 0 ac
+: 1626 3 -1 ci
+: 1630 7 0 dent 
+- 1639
+: 1655 10 0 Who 
+: 1671 8 2 in 
+: 1685 3 4 so
+: 1690 2 2 li
+: 1695 10 4 tude 
+- 1707
+: 1718 10 0 Who 
+: 1733 4 2 in 
+: 1739 5 2 this 
+* 1749 2 4 mir
+* 1753 9 4 ror 
+- 1764
+: 1780 5 0 Who 
+: 1788 4 0 by 
+: 1795 3 -1 his 
+: 1801 3 -1 la
+: 1806 3 -1 dy’s 
+: 1813 3 0 com
+: 1817 8 0 mand 
+- 1827
+: 1842 3 0 Who 
+: 1846 8 0 by 
+: 1857 3 -1 his 
+: 1862 5 -1 own 
+: 1872 13 0 hand 
+- 1887
+: 1903 11 0 Who 
+: 1918 8 2 in 
+: 1932 2 4 mor
+: 1935 2 2 tal 
+: 1941 10 4 chains 
+- 1953
+: 1965 12 0 Who 
+: 1981 9 2 in 
+: 1995 5 4 po
+: 2002 7 4 wer 
+- 2011
+: 2019 3 0 And 
+* 2024 18 0 who 
+: 2075 3 0 shall 
+: 2080 4 0 I 
+: 2089 18 0 say 
+: 2143 3 -3 is 
+: 2150 3 -1 call
+: 2155 6 -1 ing? 
+E

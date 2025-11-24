@@ -1,0 +1,282 @@
+#ARTIST:The Specials A.K.A. feat. Rico
+#TITLE:Too Much Too Young (Live)
+#MP3:The Specials A.K.A. feat. Rico - Too Much Too Young (Live).mp3
+#CREATOR:daggeg
+#YEAR:1979
+#LANGUAGE:English
+#BPM:312.47
+#GAP:680
+#VIDEO:v=bwkPePoS23E,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/ab/51/ccab5124-3f8d-600e-c460-8145b8ec3038/5060516099283.png/5000x5000bb.jpg,bg=the-specials-4ddbcb76b3fa4.jpg
+F 0 1 0 Too 
+F 3 1 0 much 
+F 9 1 0 too 
+F 13 7 0 young 
+- 22
+: 59 2 2 You’ve 
+: 63 3 2 done 
+: 69 4 2 too 
+: 76 6 -5 much 
+- 84
+: 93 4 0 Much 
+: 100 2 0 too 
+: 105 6 2 young 
+- 113
+: 122 3 2 You’re 
+: 127 2 2 marr
+: 130 2 2 ied 
+: 134 2 2 with 
+: 138 2 2 a 
+: 142 4 -5 kid 
+- 148
+: 151 2 -5 When 
+: 154 2 -5 you 
+: 158 2 0 could 
+: 162 2 0 be 
+: 166 3 0 hav
+: 170 2 0 ing 
+: 174 3 0 fun 
+: 182 4 0 with 
+: 189 5 2 me 
+- 196
+: 315 2 2 You’ve 
+* 318 5 2 done 
+* 326 4 2 too 
+* 334 5 -5 much 
+- 341
+: 349 4 0 Much 
+: 358 2 0 too 
+: 363 6 2 young 
+- 371
+: 372 2 2 And 
+: 375 2 2 now 
+: 379 2 2 you’re 
+: 383 2 2 marr
+: 387 2 2 ied 
+: 391 2 2 with 
+: 395 2 2 a 
+: 399 3 -5 son 
+- 404
+: 407 2 -5 When 
+: 411 2 -5 you 
+: 415 2 0 should 
+: 419 2 0 be 
+: 423 2 0 hav
+: 427 2 0 ing 
+: 431 4 0 fun 
+: 439 4 0 with 
+: 446 7 2 me 
+- 455
+: 575 4 3 Ain’t 
+: 583 4 2 he 
+* 591 6 0 cute
+* 599 4 2 ~? 
+- 605
+: 607 5 3 No 
+: 614 4 2 he 
+: 623 7 0 ain’t 
+- 632
+* 636 2 2 He’s 
+* 639 2 2 just 
+: 643 2 2 a
+: 647 2 1 no
+: 651 2 1 ther 
+: 655 2 0 burd
+: 659 2 0 en 
+: 662 2 1 on 
+: 666 2 1 the 
+: 670 4 2 wel
+: 678 4 1 fare 
+: 685 4 0 state 
+- 691
+: 698 2 2 You’ve 
+: 701 4 2 done 
+: 710 4 2 too 
+: 717 6 -5 much 
+- 725
+: 734 4 0 Much 
+: 742 2 0 too 
+: 747 5 2 young 
+- 754
+: 762 3 2 You’re 
+* 767 2 2 marr
+* 770 2 2 ied 
+: 775 2 2 with 
+: 779 2 2 a 
+: 783 4 -5 kid 
+- 789
+: 791 2 -5 When 
+: 795 2 -5 you 
+: 799 2 0 could 
+: 803 2 0 be 
+: 807 3 0 hav
+: 811 2 0 ing 
+: 815 3 0 fun 
+: 823 3 0 with 
+: 831 5 2 me 
+- 838
+: 961 2 3 Call 
+: 965 2 3 me 
+: 969 2 2 im
+: 973 2 2 ma
+: 977 6 0 ture
+: 985 3 2 ~ 
+- 990
+: 994 4 3 Call 
+: 1001 2 2 me 
+: 1005 2 2 a 
+: 1009 5 0 po
+: 1016 2 2 ser 
+- 1020
+: 1025 4 3 I’d 
+: 1033 2 2 spread 
+: 1036 2 2 ma
+: 1040 5 0 nure 
+: 1049 2 2 in 
+: 1053 2 2 your 
+* 1057 4 3 bed 
+* 1064 3 2 of 
+* 1072 6 0 ro
+* 1080 3 2 ses 
+- 1085
+: 1088 3 3 Don’t 
+: 1096 3 2 want 
+: 1101 1 2 to 
+: 1104 4 0 be 
+: 1112 3 2 rich 
+- 1117
+: 1120 3 3 Don’t 
+: 1127 2 2 want 
+: 1131 2 2 to 
+: 1135 4 0 be 
+: 1144 2 2 fa
+: 1147 3 2 mous 
+- 1151
+: 1152 2 3 But 
+: 1156 2 3 I’d 
+: 1159 3 2 real
+: 1163 2 2 ly 
+: 1167 3 0 hate 
+: 1171 2 0 to 
+: 1175 2 2 have 
+: 1179 2 2 the 
+: 1182 5 3 same 
+: 1197 4 10 name 
+: 1205 4 10 as
+: 1214 4 10 you 
+- 1220
+* 1466 2 2 You’ve 
+* 1469 4 2 done 
+: 1477 4 2 too 
+: 1484 6 -5 much 
+- 1492
+: 1501 4 0 Much 
+: 1509 2 0 too 
+: 1514 7 2 young 
+- 1523
+: 1530 3 2 You’re 
+: 1535 2 2 mar
+: 1538 2 2 ried 
+: 1542 2 2 with 
+: 1546 2 2 a 
+: 1550 4 -5 kid 
+- 1556
+: 1558 2 -5 When 
+: 1562 2 -5 you 
+: 1566 2 0 could 
+: 1570 2 0 be 
+: 1574 3 0 hav
+: 1578 2 0 ing 
+: 1582 3 0 fun 
+: 1590 3 0 with 
+: 1598 5 2 me 
+- 1605
+: 1725 2 2 You’ve 
+: 1728 4 2 done 
+: 1737 4 2 too 
+: 1745 5 -5 much 
+- 1752
+* 1761 4 0 Much 
+* 1769 2 0 too 
+* 1773 6 2 young 
+- 1781
+: 1782 2 2 And 
+: 1785 2 2 now 
+: 1789 2 2 you’re 
+: 1793 4 2 chained 
+: 1801 2 2 to 
+: 1805 2 2 the 
+: 1811 2 -5 cook
+: 1814 2 -5 er 
+- 1817
+: 1817 2 -5 Mak
+: 1820 2 -5 ing 
+: 1826 5 0 curr
+: 1833 4 0 ant 
+: 1841 5 0 buns 
+: 1849 4 0 for 
+: 1858 7 2 tea 
+- 1867
+: 1986 4 3 Ain’t 
+: 1993 4 2 you 
+: 2001 5 0 heard 
+: 2009 2 2 of 
+: 2013 2 2 the 
+: 2017 5 3 starv
+: 2025 3 2 ing 
+: 2033 6 0 mill
+: 2041 3 2 ions 
+- 2046
+* 2049 4 3 Ain’t 
+* 2057 3 2 you 
+* 2065 5 0 heard 
+: 2073 2 2 of 
+: 2081 5 3 cont
+: 2089 3 2 ra
+: 2097 4 0 cep
+: 2104 4 2 tion 
+- 2110
+: 2114 2 3 Real
+: 2117 2 3 ly 
+: 2121 2 2 want 
+: 2124 2 2 a 
+: 2129 5 0 pro
+: 2136 3 0 gram 
+: 2141 2 2 of 
+: 2145 2 3 ste
+: 2148 2 3 ri
+: 2152 5 2 li
+: 2160 5 0 za
+: 2167 4 2 tion 
+- 2173
+: 2176 4 3 Take 
+: 2185 4 2 con
+: 2191 4 0 trol 
+: 2200 2 2 of 
+: 2204 2 3 the 
+: 2208 5 6 po
+: 2215 5 6 pu
+: 2223 5 6 la
+: 2231 5 6 tion 
+: 2238 7 6 boom 
+- 2247
+: 2276 2 6 It’s 
+: 2280 2 6 in 
+: 2284 2 6 your 
+: 2288 2 6 liv
+: 2291 6 6 ing 
+: 2305 7 6 room 
+- 2314
+: 2344 2 6 Keep 
+: 2347 2 6 a 
+: 2351 2 6 ge
+: 2354 1 6 ne
+: 2356 1 6 ra
+: 2358 3 6 tion 
+* 2375 3 6 gap 
+- 2380
+: 2408 4 6 Try 
+: 2415 3 6 wear
+: 2419 2 6 ing 
+: 2423 4 6 a 
+* 2431 3 6 cap 
+E

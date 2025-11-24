@@ -1,0 +1,82 @@
+#ARTIST:Billy Vera
+#TITLE:Baby All My Life
+#MP3:Billy Vera - Baby All My Life.mp3
+#CREATOR:jackroke
+#GENRE:Themes
+#YEAR:1998
+#LANGUAGE:English
+#BPM:356.74
+#GAP:560
+#VIDEO:v=QVwr8lrQ2ww,co=https://i.ibb.co/dGQjrv8/koq.jpg
+: 0 2 17 My 
+: 4 5 19 eyes 
+: 12 3 22 are 
+: 16 3 22 get
+: 22 2 19 tin’ 
+* 28 10 24 wea
+: 42 3 27 ry 
+- 47
+: 72 2 19 My 
+: 76 3 19 back 
+: 80 2 19 is 
+: 84 3 19 get
+: 88 3 19 tin’ 
+* 95 7 16 tight 
+- 104
+: 136 2 23 I’m 
+: 140 3 23 sit
+: 144 2 23 tin’ 
+: 148 4 23 here 
+* 155 2 20 in 
+: 160 4 25 traf
+: 168 4 23 fic 
+- 174
+: 184 2 25 On 
+: 188 2 23 the 
+: 192 7 25 Queens
+: 204 6 25 borough 
+: 212 3 25 bridge 
+* 220 2 16 to
+* 224 8 18 night 
+- 234
+: 254 2 18 But 
+: 258 4 20 I 
+: 264 4 23 don’t 
+: 272 8 25 care 
+: 283 3 23 cause 
+: 288 4 28 all 
+: 297 7 25 I 
+: 308 5 25 wan
+: 315 3 23 na 
+: 320 5 18 do
+: 328 10 16 ~ 
+- 340
+: 380 2 16 Is 
+* 386 5 28 cash 
+: 396 4 25 my 
+: 404 4 23 check 
+: 412 2 16 and 
+: 416 4 18 drive 
+- 422
+: 428 4 13 Right 
+: 438 4 18 home 
+: 444 2 16 to 
+* 448 8 16 you 
+- 458
+: 512 2 13 Cause 
+: 516 4 20 ba
+: 522 3 23 by 
+* 528 8 25 all 
+: 540 4 28 my 
+: 548 4 25 life 
+- 554
+: 556 4 23 I 
+: 564 4 20 will 
+: 572 4 20 be 
+: 580 4 20 driv
+: 588 2 20 ing 
+: 594 8 20 home 
+: 604 4 20 to 
+* 612 6 16 you
+* 620 5 16 ~ 
+E

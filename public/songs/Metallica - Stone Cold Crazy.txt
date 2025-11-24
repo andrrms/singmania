@@ -1,0 +1,262 @@
+#ARTIST:Metallica
+#TITLE:Stone Cold Crazy
+#MP3:Metallica - Stone Cold Crazy.mp3
+#CREATOR:Lorc
+#GENRE:Hard Rock
+#YEAR:1990
+#LANGUAGE:English
+#BPM:504
+#GAP:21700
+#VIDEO:a=IzmlLRuf47g,v=BJZuG7nv4zs,co=https://i.discogs.com/2GtHOjQtYHHy1M1kR9ADjh-cXndrS4ZTc1q7lJcg8tk/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODgz/OTEtMTM0ODE1OTc4/Mi00NjUxLmpwZWc.jpeg,bg=metallica-4fd83b33d1ddd.jpg
+#VIDEOGAP:70.6
+: 0 7 5 Sleep
+: 8 3 5 ing 
+: 12 5 5 very 
+: 18 3 5 sound
+: 22 3 5 ly 
+: 26 3 5 on 
+: 30 3 5 a 
+: 34 3 4 Sa
+: 38 3 5 tur
+: 42 3 5 day 
+: 46 3 5 mor
+: 50 6 5 ning 
+- 58
+: 60 1 5 I 
+: 62 3 5 was 
+: 66 3 5 drea
+: 71 2 6 ming 
+: 74 1 6 I 
+: 78 3 4 was 
+: 82 3 4 Al 
+: 86 3 4 Ca
+: 90 3 2 po
+: 94 5 2 ne
+: 101 8 0 ~ 
+- 111
+: 130 2 1 Ru
+: 134 3 2 mors 
+: 138 4 2 going 
+: 143 6 2 round, 
+: 152 5 2 gotta 
+: 158 8 2 clear 
+: 170 3 2 out 
+: 174 3 2 of 
+: 178 8 2 town 
+- 188
+: 200 3 2 Smellin’ 
+: 204 5 2 like 
+: 210 3 2 a 
+: 214 3 2 dry 
+: 219 2 0 fish
+: 222 3 2 bone
+: 226 5 0 ~
+: 232 10 -1 ~ 
+- 244
+* 262 5 2 Here 
+* 268 3 2 come 
+* 272 3 2 the 
+* 276 5 2 law 
+- 283
+: 285 2 1 Gon
+: 289 3 2 na 
+: 293 7 2 break 
+: 301 3 2 down 
+: 305 3 2 the 
+: 309 8 2 door 
+- 319
+: 329 3 2 Carry 
+: 333 3 2 me 
+: 337 2 2 a
+: 340 2 2 way 
+: 343 5 2 once 
+: 349 7 2 more
+: 357 16 1 ~ 
+- 375
+: 389 3 5 Ne
+: 394 3 4 ver, 
+: 405 3 5 ne
+: 410 3 4 ver, 
+: 421 3 5 ne
+: 425 3 5 ver 
+: 429 3 5 want 
+: 433 3 5 it 
+: 437 3 5 a
+: 441 3 5 ny
+: 445 6 5 more 
+- 453
+: 454 2 7 Got
+: 457 3 7 ta 
+: 461 3 4 get 
+: 465 3 3 a
+: 469 3 2 way 
+: 473 3 1 from 
+: 478 2 0 this 
+: 481 7 1 stone 
+: 489 7 1 cold 
+: 497 11 1 floor
+: 509 7 2 ~ 
+- 518
+: 538 14 3 Cra
+: 553 5 1 zy
+: 560 9 0 ~, 
+* 587 11 5 stone 
+* 600 8 2 cold 
+* 611 9 5 cra
+* 621 6 5 zy, 
+: 628 4 5 you 
+: 633 9 4 know 
+- 644
+: 1435 2 5 Rai
+: 1439 3 5 ny 
+: 1443 3 5 af
+: 1447 3 5 ter
+: 1451 7 5 noon, 
+: 1459 3 5 ought 
+: 1463 3 5 to 
+: 1467 3 5 kill 
+: 1471 3 5 a 
+: 1475 3 5 ty
+: 1479 8 5 phoon 
+- 1489
+: 1495 3 5 And 
+: 1499 3 6 she’s 
+: 1503 3 5 playing 
+: 1508 2 6 on 
+: 1511 1 5 the 
+: 1515 3 4 slide 
+: 1519 2 4 trom
+: 1523 2 2 bone
+: 1527 3 2 ~
+: 1532 2 1 ~ 
+- 1536
+: 1563 3 2 A
+: 1567 3 2 ny
+: 1571 7 2 more, 
+: 1579 3 0 a
+: 1583 3 2 ny
+: 1587 7 2 more, 
+* 1595 3 2 can
+* 1599 3 2 not 
+* 1603 3 2 take 
+* 1607 3 2 it 
+* 1611 3 2 a
+* 1615 3 2 ny
+* 1619 4 2 more 
+- 1625
+: 1626 2 7 Got
+: 1629 3 7 ta 
+: 1633 3 5 get 
+: 1637 3 5 a
+: 1641 3 2 way 
+: 1645 3 2 from 
+: 1649 3 2 this 
+: 1653 7 4 stone 
+: 1661 6 4 cold 
+: 1669 16 5 floor 
+- 1687
+: 1709 12 3 Cra
+: 1725 16 7 zy, 
+: 1755 9 5 stone 
+: 1768 7 2 cold 
+: 1777 9 5 cra
+: 1787 7 5 zy, 
+: 1795 5 5 you 
+: 1801 9 4 know 
+- 1812
+* 2878 3 5 Walk
+* 2882 3 5 ing 
+* 2886 3 5 down 
+: 2890 3 5 the 
+: 2894 5 5 street 
+- 2901
+: 2902 3 5 Shoot
+: 2906 3 4 ing 
+: 2910 3 5 peo
+: 2914 3 5 ple 
+: 2918 3 5 that 
+: 2922 3 5 I 
+: 2926 8 5 meet 
+- 2936
+: 2942 7 7 Ful
+: 2950 3 5 ly 
+: 2954 3 5 load
+: 2959 2 4 ed 
+: 2962 4 4 Tommy 
+: 2968 5 2 gun
+: 2974 3 1 ~
+: 2978 7 0 ~
+: 2987 9 -1 ~ 
+- 2998
+: 3009 6 1 Here 
+: 3016 3 2 co
+: 3020 3 2 me 
+: 3024 3 2 the 
+: 3028 2 2 de
+: 3031 2 2 pu
+: 3034 3 2 ty 
+- 3039
+: 3042 5 1 Tryin’ 
+: 3048 3 2 fuck
+: 3052 3 2 ing 
+: 3056 3 1 get
+: 3060 3 2 ting 
+: 3064 6 2 me 
+- 3072
+* 3073 2 6 Got
+* 3077 2 7 ta 
+* 3080 3 5 fuck
+* 3084 3 5 ing 
+: 3088 3 2 get 
+: 3092 5 2 up 
+: 3098 3 2 and 
+: 3102 5 0 run 
+- 3109
+: 3112 3 -3 They 
+: 3119 5 1 got 
+: 3127 6 -3 the 
+: 3135 7 1 si
+: 3143 7 2 ~
+: 3154 4 -1 rens 
+: 3162 8 -4 loose 
+- 3172
+: 3178 2 -4 I 
+: 3183 7 -2 run 
+: 3192 3 -2 right 
+: 3199 13 -1 out 
+: 3215 7 0 of 
+: 3224 6 0 juice
+: 3231 8 2 ~ 
+- 3241
+: 3251 2 6 They’re 
+: 3255 1 4 gon
+: 3258 1 5 na 
+: 3262 3 5 put 
+: 3266 3 5 me 
+: 3270 3 5 in 
+: 3274 3 5 a 
+: 3278 6 5 cell 
+- 3286
+: 3287 1 5 If 
+: 3289 2 4 I 
+: 3293 7 5 can’t 
+: 3301 3 5 go 
+: 3305 3 5 to 
+: 3309 3 5 hea
+: 3313 4 4 ven, 
+: 3326 7 7 let 
+: 3334 6 5 me 
+: 3341 4 2 go 
+: 3346 7 1 to 
+: 3354 32 1 hell 
+- 3388
+: 3404 18 3 Cra
+: 3423 6 3 zy
+: 3432 21 0 ~, 
+: 3462 11 5 stone 
+: 3476 8 3 cold 
+: 3486 9 5 cra
+: 3496 7 5 zy, 
+: 3504 5 5 you 
+: 3510 16 4 know 
+E

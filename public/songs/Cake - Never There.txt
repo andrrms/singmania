@@ -1,0 +1,320 @@
+#ARTIST:Cake
+#TITLE:Never There
+#MP3:Cake - Never There.mp3
+#CREATOR:choosie
+#YEAR:1998
+#LANGUAGE:English
+#BPM:251.1
+#GAP:3840
+#VIDEO:a=VhGp8Id0HRU,co=https://i.discogs.com/xoIq_J-VoeBP_4xEb0bmoBOsSiLLWqHJhZCEA_PjikI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAx/OC0xMzkxMDQwMzc1/LTgzNTIuanBlZw.jpeg,preview=30.0
+F 0 2 17 I 
+F 4 2 17 need 
+F 8 2 17 your 
+F 12 2 17 arms 
+F 16 2 17 a
+F 20 2 17 round 
+F 24 2 17 me 
+- 27
+F 28 2 17 I 
+F 32 2 17 need 
+F 36 2 17 to 
+F 40 2 17 feel 
+F 44 2 17 your 
+F 48 4 17 touch 
+- 54
+F 192 2 17 I 
+F 196 2 17 need 
+F 200 2 17 your 
+F 204 2 17 un
+F 208 2 17 der
+F 212 2 17 stand
+F 216 2 17 ing 
+- 219
+F 220 2 17 I 
+F 224 2 17 need 
+F 228 2 17 your 
+F 232 4 17 love 
+F 252 4 17 so 
+F 260 2 17 much 
+- 264
+F 320 2 17 You 
+F 324 1 17 teel 
+F 326 2 17 me 
+F 330 1 17 that 
+F 332 2 17 you 
+F 336 2 17 love 
+F 340 2 17 me 
+F 344 2 17 so 
+- 348
+F 352 2 17 You 
+F 356 1 17 teel 
+F 358 2 17 me 
+F 362 1 17 that 
+F 364 2 17 you 
+F 368 2 17 care 
+- 372
+F 376 2 17 But 
+F 380 2 17 when 
+F 384 2 17 I 
+F 392 2 17 need 
+F 396 2 17 you, 
+F 404 2 17 ba
+F 408 2 17 by 
+- 412
+F 416 2 17 Ba
+F 420 2 17 by, 
+F 428 2 17 you’re 
+F 436 2 17 ne
+F 440 2 17 ver 
+F 444 2 17 there 
+- 448
+: 452 3 16 On
+: 456 6 18 ~ 
+: 464 3 16 the 
+: 468 6 19 phone 
+: 480 6 21 long, 
+: 488 6 21 long 
+: 496 3 21 di
+: 500 6 24 ~
+: 508 4 23 stance 
+- 514
+: 516 3 23 Al
+: 520 2 21 ~
+: 524 6 21 ways 
+: 532 3 21 through 
+: 536 4 19 such 
+: 544 6 19 strong 
+: 552 6 18 re
+: 560 6 18 si
+: 568 4 16 stance 
+- 574
+: 576 4 11 And 
+* 584 4 18 first 
+: 592 3 16 you 
+: 596 4 19 said 
+: 608 4 21 you’re 
+: 616 4 21 too 
+: 624 3 21 bu
+: 628 4 24 ~
+: 634 2 23 sy 
+- 638
+: 640 6 23 I 
+: 648 3 23 won
+: 652 3 21 der 
+: 656 4 21 if 
+: 664 4 19 you 
+* 672 6 19 e
+* 680 4 18 ven 
+: 688 10 18 miss 
+: 700 4 16 me 
+- 706
+: 708 18 18 Ne
+: 728 6 16 ver 
+: 736 6 19 there
+: 744 4 18 ~ 
+- 750
+: 764 6 16 You’re 
+* 772 18 18 ne
+* 792 6 16 ver 
+: 800 6 24 there
+: 808 8 23 ~ 
+- 818
+: 828 6 24 You’re 
+: 836 3 24 ne
+: 840 6 23 ~
+: 848 2 23 ver 
+: 852 6 23 e
+: 860 2 21 ver, 
+: 864 6 21 e
+: 872 4 19 ver, 
+: 880 3 21 e
+: 884 2 19 ver 
+* 888 8 16 there 
+- 898
+F 924 4 17 Hey! 
+- 930
+F 1214 2 17 A 
+F 1218 2 17 gol
+F 1222 2 17 den 
+F 1226 2 17 bird 
+F 1230 2 17 that 
+F 1234 2 17 flies 
+F 1238 1 17 a
+F 1240 2 17 way 
+- 1244
+F 1246 2 17 A 
+F 1250 2 17 can
+F 1254 2 17 dle 
+F 1258 1 17 sti
+F 1260 2 17 ckled 
+F 1266 2 17 flame, 
+F 1274 2 17 hey 
+- 1278
+F 1280 2 17 To 
+F 1284 1 17 think 
+F 1286 2 17 I 
+F 1290 2 17 held 
+F 1294 2 17 you 
+F 1298 2 17 yes
+F 1302 1 17 ter
+F 1304 2 17 day 
+- 1308
+F 1310 2 17 Your 
+F 1314 2 17 love 
+F 1318 2 17 was 
+F 1322 2 17 just 
+F 1326 2 17 a 
+F 1330 2 17 game 
+- 1334
+F 1342 2 17 A 
+F 1346 2 17 gol
+F 1350 2 17 den 
+F 1354 2 17 bird 
+F 1358 2 17 that 
+F 1362 2 17 flies 
+F 1366 1 17 a
+F 1368 2 17 way 
+- 1372
+F 1374 2 17 A 
+F 1378 2 17 can
+F 1382 2 17 dle 
+F 1386 1 17 sti
+F 1388 2 17 ckled 
+F 1394 2 17 flame, 
+F 1402 2 17 hey 
+- 1406
+F 1408 2 17 To 
+F 1412 1 17 think 
+F 1414 2 17 I 
+F 1418 2 17 held 
+F 1422 2 17 you 
+F 1426 2 17 yes
+F 1430 1 17 ter
+F 1432 2 17 day 
+- 1436
+F 1438 2 17 Your 
+F 1442 2 17 love 
+F 1446 2 17 was 
+F 1450 2 17 just 
+F 1454 2 17 a 
+F 1458 2 17 game, 
+F 1466 2 17 hey 
+- 1469
+F 1470 2 17 You 
+F 1474 1 17 teel 
+F 1476 2 17 me 
+F 1480 1 17 that 
+F 1482 2 17 you 
+F 1486 2 17 love 
+F 1490 2 17 me 
+F 1494 2 17 so 
+- 1498
+F 1502 2 17 You 
+F 1506 1 17 teel 
+F 1508 2 17 me 
+F 1512 1 17 that 
+F 1514 2 17 you 
+F 1518 2 17 care 
+- 1522
+F 1526 2 17 But 
+F 1532 1 17 when 
+F 1534 2 17 I 
+F 1542 2 17 need 
+F 1546 2 17 you, 
+F 1554 2 17 ba
+F 1558 2 17 by, 
+F 1568 2 17 ba
+F 1572 2 17 by 
+- 1576
+* 1602 6 18 Take 
+: 1614 2 16 the 
+: 1618 6 19 time 
+: 1626 2 19 to 
+: 1630 6 21 get 
+: 1638 6 21 to 
+: 1646 3 21 know
+: 1650 10 24 ~ 
+: 1662 4 23 me 
+- 1668
+: 1670 3 23 If 
+: 1674 2 21 you 
+: 1678 2 21 want 
+: 1682 2 19 me 
+* 1686 6 19 why 
+* 1694 6 19 can’t 
+* 1702 2 18 you 
+: 1706 4 18 just 
+: 1714 6 18 show 
+: 1722 2 16 me 
+- 1725
+: 1726 4 11 We’re 
+: 1734 3 18 al
+: 1738 3 16 ~
+: 1742 4 16 ways 
+: 1750 4 19 on 
+: 1758 4 19 this 
+* 1766 4 21 rol
+* 1774 4 21 ler 
+: 1782 3 23 coas
+: 1786 3 24 ~
+: 1790 4 23 ter 
+- 1796
+: 1798 3 23 If 
+: 1802 2 21 you 
+: 1806 2 21 want 
+: 1810 2 19 me 
+: 1814 6 19 why 
+: 1822 6 19 can’t 
+: 1830 2 18 you 
+: 1834 4 18 get 
+: 1842 6 18 clo
+: 1850 4 16 ser 
+- 1856
+: 1858 18 18 Ne
+: 1878 6 16 ver 
+* 1886 6 19 there
+* 1894 4 18 ~ 
+- 1900
+: 1914 6 16 You’re 
+: 1922 16 18 ne
+: 1942 6 16 ver 
+: 1950 6 24 there
+: 1958 8 23 ~ 
+- 1968
+: 1978 6 24 You’re 
+: 1986 3 24 ne
+: 1990 6 23 ~
+: 1998 2 23 ver 
+* 2002 6 23 e
+* 2010 2 21 ver, 
+: 2014 6 21 e
+: 2022 4 19 ver, 
+* 2030 3 21 e
+* 2034 2 19 ver 
+: 2038 8 16 there 
+- 2048
+: 2050 16 18 Ne
+: 2070 6 16 ver 
+: 2078 6 19 there
+: 2086 4 18 ~ 
+- 2092
+* 2106 6 16 You’re 
+* 2114 18 18 ne
+* 2134 6 16 ver 
+* 2142 10 24 there
+* 2154 4 23 ~ 
+- 2160
+: 2170 6 24 You’re 
+: 2178 3 24 ne
+: 2182 6 23 ~
+: 2190 2 23 ver 
+: 2194 6 23 e
+: 2202 2 21 ver, 
+: 2206 6 21 e
+: 2214 4 19 ver, 
+: 2222 3 21 e
+: 2226 2 19 ver 
+* 2230 12 16 there 
+- 2244
+F 2264 4 17 Hey! 
+E

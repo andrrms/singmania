@@ -1,0 +1,319 @@
+#ARTIST:Bear McCreary feat. Rufus Wainwright
+#TITLE:Old Tom Bombadil
+#MP3:Bear McCreary feat. Rufus Wainwright - Old Tom Bombadil.mp3
+#CREATOR:lava
+#COVER:Bear McCreary feat. Rufus Wainwright - Old Tom Bombadil [CO].jpg
+#BACKGROUND:Bear McCreary feat. Rufus Wainwright - Old Tom Bombadil [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2024
+#LANGUAGE:English
+#BPM:387.6
+#GAP:15240
+#VIDEO:a=L7oaZxdAMzI,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/7c/d2/b47cd298-fb10-fc18-9195-afe9048a12f5/8116.jpg/5000x5000bb.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/7c/d2/b47cd298-fb10-fc18-9195-afe9048a12f5/8116.jpg/5000x5000bb.jpg,bg-crop=0-370-1920-1080,preview=74.24,medley=1122-2255
+: 0 18 11 Now 
+: 23 12 14 let 
+: 39 5 11 this 
+: 46 15 9 song 
+: 64 8 7 be
+: 74 12 7 gin 
+- 88
+: 97 7 4 Let 
+: 106 4 7 us 
+: 112 18 7 sing 
+: 136 6 4 to
+: 144 5 9 geth
+: 151 16 7 er 
+- 169
+: 184 4 9 Of 
+: 191 17 11 sun, 
+* 213 23 14 stars, 
+: 238 16 9 moon 
+: 256 4 7 and 
+: 263 9 7 mist 
+- 274
+: 286 15 4 Rain 
+: 303 14 7 and 
+: 320 7 7 clou
+: 329 5 4 dy 
+: 336 6 9 weath
+: 344 18 7 er 
+- 364
+: 382 5 9 Light
+: 389 15 11 ~ 
+: 407 14 14 on 
+: 422 3 11 the 
+: 430 11 9 bud
+: 444 8 7 ding 
+: 454 10 7 leaf 
+- 466
+: 476 22 4 Dew 
+: 502 11 7 on 
+: 516 3 4 the 
+: 523 8 9 feath
+: 533 20 7 er 
+- 555
+: 571 23 9 Wind 
+: 597 12 14 on 
+: 612 6 12 the 
+* 621 14 11 o
+* 636 7 12 pen 
+* 645 12 12 hill 
+- 659
+: 667 23 4 Bells 
+: 693 12 7 on 
+: 707 5 4 the 
+: 715 4 9 hea
+: 721 7 7 ther 
+- 730
+: 740 17 14 Oh 
+* 761 18 16 slen
+* 780 15 16 der 
+: 797 5 16 as 
+: 804 3 14 a 
+* 810 5 16 wil
+* 816 6 14 low 
+* 824 16 11 wand 
+- 842
+: 850 6 9 Oh 
+: 858 10 9 clear
+: 870 9 11 er 
+: 881 10 14 than 
+: 896 7 11 clear 
+: 906 7 11 wa
+: 915 8 9 ter 
+- 925
+: 930 22 14 Oh 
+* 956 18 16 reed 
+: 976 16 16 by 
+: 993 5 14 the 
+: 1000 5 16 liv
+: 1006 6 14 ing 
+: 1014 18 11 pool 
+- 1034
+: 1048 21 9 Fair 
+: 1073 6 11 ri
+: 1081 11 9 ver 
+: 1098 7 7 daugh
+: 1107 9 4 ter 
+- 1118
+: 1122 22 14 Oh 
+* 1147 13 16 spring
+* 1162 22 16 time 
+: 1187 3 14 and 
+: 1194 6 16 sum
+: 1202 5 14 mer
+: 1209 16 11 time 
+- 1227
+: 1232 4 9 And 
+: 1240 16 9 spring 
+: 1260 3 11 a
+: 1265 11 14 gai
+: 1278 9 11 ~n 
+: 1290 7 11 af
+: 1299 6 9 ter 
+- 1307
+: 1317 19 14 Oh 
+: 1339 16 16 wind 
+: 1359 16 16 on 
+: 1377 4 14 the 
+* 1383 8 16 wa
+* 1392 6 14 ter
+* 1400 19 11 fall 
+- 1421
+: 1432 14 9 And 
+: 1448 5 11 the 
+: 1455 7 11 lea
+: 1463 10 9 ves’ 
+: 1479 10 7 laugh
+: 1492 16 4 ter 
+- 1510
+: 1526 20 11 Oh 
+* 1550 22 14 Tom 
+: 1574 16 9 Bom
+: 1592 5 7 ba
+: 1598 12 7 dil 
+: 1624 14 4 is 
+: 1642 8 7 a 
+: 1654 5 7 mer
+: 1660 4 4 ry 
+: 1670 4 9 fel
+: 1675 11 7 low 
+- 1688
+: 1716 19 11 Bright 
+* 1739 15 14 blue 
+: 1756 6 11 his 
+: 1766 11 9 jack
+: 1780 8 7 et 
+: 1790 14 7 is 
+- 1806
+: 1814 12 4 And 
+: 1827 9 7 his 
+: 1838 13 7 boots 
+: 1856 4 4 are 
+* 1862 6 9 yel
+* 1870 24 7 low 
+- 1896
+: 1908 20 11 Reeds 
+: 1932 15 14 by 
+: 1949 5 11 the 
+: 1957 14 9 sha
+: 1972 8 7 dy 
+: 1982 12 7 pool 
+- 1996
+: 2009 5 4 Li
+: 2016 7 7 lies 
+: 2025 15 7 on 
+: 2043 4 4 the 
+: 2051 6 9 wa
+: 2059 23 7 ter 
+- 2084
+: 2100 18 9 Oh 
+: 2121 22 14 Tom 
+: 2146 14 11 Bom
+: 2162 6 12 ba
+: 2170 13 12 dil 
+* 2197 10 4 and 
+* 2209 8 7 the 
+* 2220 6 7 ri
+* 2227 11 4 ver 
+* 2241 6 9 daugh
+* 2248 7 7 ter 
+- 2257
+: 2268 14 14 Oh 
+* 2287 13 16 slen
+* 2303 23 16 der 
+: 2328 4 16 as 
+: 2335 2 14 a 
+: 2339 6 16 wil
+: 2346 7 14 low 
+: 2354 17 11 wand 
+- 2373
+: 2379 7 9 Oh 
+: 2388 11 9 clear
+: 2402 5 11 er 
+: 2409 11 14 than 
+: 2426 9 11 clear 
+: 2437 6 11 wa
+: 2445 5 9 ter 
+- 2452
+: 2467 12 14 Oh 
+: 2482 19 16 reed 
+: 2504 15 16 by 
+: 2522 4 14 the 
+* 2528 5 16 liv
+* 2534 6 14 ing 
+* 2544 23 11 pool 
+- 2569
+: 2577 19 9 Fair 
+: 2600 6 11 ri
+: 2607 14 9 ver 
+: 2625 7 7 daugh
+: 2633 8 4 ter 
+- 2643
+: 2648 16 14 Oh 
+: 2669 13 16 spring
+: 2684 22 16 time 
+: 2710 4 14 and 
+* 2720 5 16 sum
+* 2727 5 14 mer
+* 2734 16 11 time 
+- 2752
+: 2758 6 9 And 
+: 2768 14 9 spring 
+* 2785 5 11 a
+* 2791 14 14 gai
+* 2807 8 11 ~n 
+: 2818 8 11 af
+: 2828 5 9 ter 
+- 2835
+: 2839 21 14 Oh 
+* 2863 18 16 wind 
+: 2884 14 16 on 
+: 2900 3 14 the 
+: 2906 7 16 wa
+: 2915 4 14 ter
+: 2922 19 11 fall 
+- 2943
+: 2955 13 9 And 
+: 2972 6 11 the 
+: 2981 8 11 lea
+: 2992 9 9 ves’ 
+* 3005 11 7 laugh
+* 3018 10 4 ter 
+- 3030
+: 3033 14 14 Oh 
+: 3051 11 16 slen
+: 3064 19 16 der 
+* 3086 7 16 as 
+: 3095 4 14 a 
+: 3101 5 16 wil
+: 3107 6 14 low 
+: 3115 17 11 wand 
+- 3134
+: 3139 8 9 Oh 
+: 3149 10 9 clear
+: 3161 9 11 er 
+: 3172 10 14 than 
+: 3187 7 11 clear 
+: 3197 7 11 wa
+: 3206 8 9 ter 
+- 3216
+: 3223 19 14 Oh 
+: 3245 20 16 reed 
+: 3267 16 16 by 
+: 3286 4 14 the 
+: 3292 6 16 liv
+: 3299 6 14 ing 
+: 3307 24 11 pool 
+- 3333
+: 3339 22 9 Fair 
+: 3363 6 11 ri
+: 3371 11 9 ver 
+: 3386 7 7 daugh
+: 3395 7 4 ter 
+- 3404
+: 3411 16 14 Oh 
+: 3431 13 16 spring
+: 3447 23 16 time 
+: 3472 4 14 and 
+* 3481 5 16 sum
+* 3488 5 14 mer
+* 3495 16 11 time 
+- 3513
+: 3519 6 9 And 
+: 3528 15 9 spring 
+: 3548 3 11 a
+: 3552 15 14 gai
+: 3569 7 11 ~n 
+: 3579 8 11 af
+: 3589 6 9 ter 
+- 3597
+: 3603 19 14 Oh 
+: 3625 19 16 wind 
+: 3648 15 16 on 
+: 3665 4 14 the 
+* 3672 7 16 wa
+* 3680 3 14 ter
+* 3685 20 11 fall 
+- 3707
+: 3720 12 9 And 
+: 3736 7 11 the 
+: 3746 8 11 lea
+: 3756 8 9 ves’ 
+: 3768 11 7 laugh
+: 3782 16 4 ter 
+- 3800
+: 3912 17 11 Oh 
+* 3933 18 14 Tom
+* 3953 9 16 ~ 
+: 3965 17 9 Bom
+: 3985 6 7 ba
+: 3992 24 7 dil 
+- 4018
+: 4114 20 4 Is 
+: 4137 8 7 a 
+* 4148 32 12 mer
+* 4182 10 11 ry 
+: 4198 8 9 fel
+: 4208 48 7 low 
+E

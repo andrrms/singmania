@@ -1,0 +1,221 @@
+#ARTIST:Feder feat. Lyse
+#TITLE:Goodbye
+#MP3:Feder feat. Lyse - Goodbye.mp3
+#CREATOR:choosie
+#YEAR:2014
+#LANGUAGE:English
+#BPM:240
+#GAP:550
+#VIDEO:v=Mptdcx36qZU,co=goodbye-555ccd68b7930.jpg,bg=https://i.ytimg.com/vi/qGCQlCAl6KI/maxresdefault.jpg
+F 0 2 0 Is 
+F 4 2 0 some
+F 8 2 0 one 
+F 12 1 0 li
+F 14 1 0 ste
+F 16 4 0 ning 
+- 22
+F 42 2 0 O
+F 46 4 0 K 
+- 52
+F 141 2 0 Let 
+F 145 2 0 me 
+F 149 1 0 tell 
+F 151 1 0 you 
+F 153 2 0 the 
+F 157 2 0 sto
+F 160 3 0 ry 
+- 165
+F 196 2 0 Of 
+F 200 2 0 that 
+F 204 4 0 guy 
+- 210
+F 221 4 0 First 
+F 226 2 0 you 
+F 229 4 0 loved 
+- 235
+F 284 4 0 Then 
+- 290
+F 312 2 0 You 
+F 315 2 0 pro
+F 318 4 0 mised 
+- 324
+F 381 3 0 Was 
+F 386 2 0 lo
+F 389 2 0 sing 
+F 393 2 0 con
+F 396 3 0 trol 
+- 401
+F 432 1 0 Cra
+F 434 2 0 zy 
+F 437 3 0 night 
+- 442
+F 465 3 0 In
+F 470 4 0 tense 
+- 476
+: 508 3 8 Now 
+: 532 2 11 li
+: 536 3 11 ving 
+- 541
+: 560 2 8 My 
+: 564 4 11 own 
+: 572 3 11 life 
+- 577
+* 612 2 8 Got 
+* 616 2 7 you 
+* 620 2 8 out 
+: 624 2 8 of 
+: 628 3 8 my 
+- 633
+: 636 5 8 Have 
+: 656 2 8 been 
+: 660 3 11 was
+: 666 3 11 ting 
+- 671
+: 688 2 8 Too 
+: 692 3 11 much 
+: 698 4 11 time 
+- 704
+: 740 2 8 Gon
+: 744 2 7 na 
+: 748 2 10 leave 
+: 752 2 10 you 
+: 756 2 8 far 
+* 760 2 8 be
+* 764 5 3 hind 
+- 771
+F 1084 4 0 Then 
+- 1090
+F 1111 1 0 You 
+F 1113 2 0 ran 
+F 1116 2 0 a
+F 1119 3 0 way 
+- 1124
+F 1145 2 0 Are 
+F 1148 2 0 you 
+F 1151 2 0 thin
+F 1154 2 0 king 
+F 1157 2 0 of 
+F 1160 3 0 me 
+- 1165
+F 1174 2 0 When 
+F 1177 4 0 you 
+F 1185 2 0 f*ck 
+F 1188 3 0 her 
+- 1193
+F 1223 2 0 Does 
+F 1227 2 0 she 
+F 1230 2 0 know 
+F 1233 1 0 you 
+F 1235 2 0 were 
+F 1238 2 0 sup
+F 1241 2 0 posed 
+F 1244 2 0 to 
+F 1247 2 0 love 
+F 1251 4 0 me 
+- 1257
+F 1271 2 0 Till 
+F 1274 2 0 you 
+F 1277 4 0 die 
+- 1283
+F 1308 3 0 Al
+F 1312 4 0 most 
+- 1318
+F 1340 3 0 Killed 
+F 1344 4 0 me 
+- 1350
+: 1468 4 8 Now 
+: 1492 2 11 li
+: 1496 3 11 ving 
+- 1501
+* 1520 2 8 My 
+* 1524 4 11 own 
+* 1532 3 11 life 
+- 1537
+: 1572 2 8 Got 
+: 1576 2 7 you 
+: 1580 2 8 out 
+: 1584 2 8 of 
+: 1588 3 8 my 
+- 1593
+: 1596 5 8 Have 
+: 1616 2 8 been 
+: 1620 3 11 was
+: 1626 3 11 ting 
+- 1631
+: 1648 2 8 Too 
+: 1652 3 11 much 
+: 1658 4 11 time 
+- 1664
+: 1700 2 8 Gon
+: 1704 2 7 na 
+: 1708 2 10 leave 
+: 1712 2 10 you 
+: 1716 2 8 far 
+: 1720 2 8 be
+: 1724 5 3 hind 
+- 1731
+* 2044 4 8 Now 
+- 2050
+: 2068 2 11 Li
+: 2072 3 11 ving 
+- 2077
+: 2096 2 8 My 
+: 2100 4 11 own 
+: 2108 3 11 life 
+- 2113
+: 2148 2 8 Got 
+: 2152 2 7 you 
+: 2156 2 8 out 
+: 2160 2 8 of 
+: 2164 3 8 my 
+- 2169
+: 2172 5 8 Have 
+: 2192 2 8 been 
+: 2196 4 11 was
+: 2203 3 11 ting 
+- 2208
+: 2224 2 8 Too 
+: 2228 3 11 much 
+: 2234 4 11 time 
+- 2240
+: 2276 2 8 Gon
+: 2280 2 7 na 
+: 2284 2 10 leave 
+: 2288 2 10 you 
+: 2292 2 8 far 
+: 2296 2 8 be
+: 2300 5 3 hind 
+- 2307
+* 2324 2 11 Li
+* 2328 3 11 ving 
+- 2333
+: 2352 2 8 My 
+: 2356 4 11 own 
+: 2364 3 11 life 
+- 2369
+: 2404 2 8 Got 
+: 2408 2 7 you 
+: 2412 2 8 out 
+: 2416 2 8 of 
+: 2420 3 8 my 
+- 2425
+: 2428 3 8 Have 
+- 2433
+: 2448 2 8 Been 
+: 2452 3 11 was
+: 2458 3 11 ting 
+- 2463
+: 2480 2 8 Too 
+: 2484 3 11 much 
+: 2490 4 11 time 
+- 2496
+* 2532 2 8 Gon
+* 2536 2 7 na 
+* 2540 2 10 leave 
+* 2544 2 10 you 
+: 2548 2 8 far 
+: 2552 2 8 be
+: 2556 5 3 hind 
+- 2563
+* 2812 5 8 Have. 
+E

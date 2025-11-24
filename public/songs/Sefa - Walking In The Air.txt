@@ -1,0 +1,68 @@
+#ARTIST:Sefa
+#TITLE:Walking In The Air
+#MP3:Sefa - Walking In The Air.mp3
+#CREATOR:barbeque
+#GENRE:Frenchcore
+#YEAR:2019
+#LANGUAGE:English
+#BPM:399.58
+#GAP:12820
+#VIDEO:v=DmD5lTRYNQ4,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e1/45/b6/e145b61e-8c4d-bced-356b-23ed7e02fda0/859733508747_cover.jpg/5000x5000bb.jpg
+: 0 6 -3 We’re 
+: 9 5 2 wal
+: 18 5 2 king 
+: 25 5 0 in 
+: 33 4 0 the 
+: 40 71 -3 air 
+- 113
+: 130 3 -3 We’re 
+: 138 4 2 floa
+: 146 5 2 ting 
+: 154 5 0 in 
+: 161 4 0 a 
+: 170 18 -3 moon
+: 191 6 -7 lit 
+: 201 98 -5 sky 
+- 301
+: 323 2 -5 The 
+: 329 5 -2 peo
+: 336 3 -2 ple 
+: 345 6 -3 far 
+: 353 3 -3 be
+: 359 16 -5 low 
+: 384 2 -10 are 
+: 390 7 -7 slee
+: 400 4 -7 ping 
+: 409 4 -8 as 
+: 416 2 -8 we 
+: 423 70 -10 fly 
+- 495
+: 587 4 2 On 
+: 594 5 2 a
+: 601 5 0 cross 
+: 610 3 0 the 
+: 616 79 -3 world 
+- 697
+: 708 2 -3 The 
+: 712 7 2 vil
+: 721 5 2 la
+: 729 5 0 ges 
+: 737 6 0 go 
+: 745 19 -3 by 
+: 767 7 -7 like 
+: 776 77 -5 dreams 
+- 855
+: 896 4 -5 The 
+: 904 8 -2 riv
+: 913 4 -2 ers 
+: 921 6 -3 and 
+: 929 3 -3 the 
+: 935 17 -5 hills 
+- 954
+: 961 3 -10 The 
+: 967 9 -7 for
+: 977 4 -7 ests 
+: 984 7 -8 and 
+: 994 2 -8 the 
+: 998 86 -10 streams 
+E

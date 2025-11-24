@@ -1,0 +1,214 @@
+#ARTIST:David Guetta feat. Skylar Grey
+#TITLE:Shot Me Down
+#MP3:David Guetta feat. Skylar Grey - Shot Me Down.mp3
+#CREATOR:Fepo
+#GENRE:House
+#YEAR:2014
+#LANGUAGE:English
+#BPM:255.96
+#GAP:13200
+#VIDEO:v=3x2ABSAMVno,co=shot-me-down-57ee1e5292c33.jpg,bg=david-guetta-4ddeb9652c069.jpg
+: 0 2 12 I 
+: 4 3 12 was 
+* 12 7 12 five 
+: 24 2 12 and 
+: 28 2 13 he 
+: 32 2 12 was 
+: 36 8 12 six 
+- 46
+: 64 2 12 We 
+: 68 4 12 rode 
+: 76 4 12 on 
+: 84 2 12 hor
+: 88 2 12 ses 
+* 95 6 13 made 
+: 104 3 12 of 
+: 112 7 12 sticks 
+- 121
+: 148 2 10 He 
+: 152 4 10 wore 
+: 160 10 10 black 
+: 173 3 10 and 
+: 178 4 12 I 
+: 186 4 10 wore 
+: 192 5 10 white 
+- 199
+: 216 2 10 He 
+: 220 2 10 would 
+: 224 2 10 al
+: 228 4 10 ways 
+: 236 2 12 win 
+: 240 2 10 the 
+: 244 3 10 fight 
+- 249
+: 252 4 13 Bang 
+* 260 10 12 bang, 
+: 280 2 12 he 
+: 284 6 13 shot 
+: 292 2 12 me 
+: 296 5 12 down 
+- 303
+: 306 5 12 Bang 
+: 314 12 12 bang, 
+: 338 4 12 I 
+: 345 3 13 hit 
+: 350 3 12 the 
+: 355 6 12 ground 
+- 363
+: 369 5 12 Bang 
+: 379 10 10 bang, 
+: 398 3 10 that 
+: 404 5 12 aw
+: 412 2 10 ful 
+: 416 5 10 sound 
+- 423
+: 430 6 10 Bang 
+: 439 8 10 bang, 
+: 464 4 10 my 
+: 471 8 12 ba
+: 481 3 10 by 
+: 487 5 8 shot 
+: 495 6 7 me 
+: 504 9 5 down 
+- 515
+: 520 6 5 Down 
+: 536 6 5 down 
+* 552 6 5 down 
+* 568 6 5 down 
+: 584 6 5 down 
+: 600 6 5 down 
+- 608
+: 616 6 5 Down 
+: 632 6 5 down 
+: 648 6 5 down 
+: 664 6 5 down 
+: 680 6 5 down 
+: 696 6 5 down 
+- 704
+: 984 4 12 Bang 
+: 992 4 24 me 
+: 1000 4 19 Bang 
+: 1008 4 26 her 
+- 1014
+: 1240 4 12 Bang 
+: 1248 4 24 me 
+: 1256 4 19 Bang 
+: 1264 4 26 her 
+- 1270
+: 1344 2 12 I 
+: 1348 3 12 was 
+: 1356 7 12 five 
+: 1368 2 12 and 
+: 1372 2 13 he 
+: 1376 2 12 was 
+: 1380 8 12 six 
+- 1390
+: 1408 2 12 We 
+: 1412 4 12 rode 
+: 1420 4 12 on 
+: 1428 2 12 hor
+: 1432 2 12 ses 
+: 1439 6 13 made 
+: 1448 3 12 of 
+: 1456 7 12 sticks 
+- 1465
+: 1492 2 10 He 
+: 1496 4 10 wore 
+: 1504 10 10 black 
+: 1517 3 10 and 
+: 1522 4 12 I 
+: 1530 4 10 wore 
+: 1536 5 10 white 
+- 1543
+: 1558 2 10 He 
+: 1562 2 10 would 
+: 1566 2 10 al
+: 1570 4 10 ways 
+: 1578 2 12 win 
+: 1582 2 10 the 
+: 1586 3 10 fight 
+- 1591
+: 1596 4 13 Bang 
+: 1604 10 12 bang, 
+: 1624 2 12 he 
+: 1628 6 13 shot 
+: 1636 2 12 me 
+: 1640 5 12 down 
+- 1647
+: 1650 5 12 Bang 
+: 1658 12 12 bang, 
+: 1682 4 12 I 
+: 1689 3 13 hit 
+: 1694 3 12 the 
+: 1699 6 12 ground 
+- 1707
+: 1712 5 12 Bang 
+: 1722 10 10 bang, 
+: 1741 3 10 that 
+: 1747 5 12 aw
+: 1755 2 10 ful 
+: 1759 5 10 sound 
+- 1766
+: 1772 6 10 Bang 
+: 1781 8 10 bang, 
+: 1806 4 10 my 
+: 1813 8 12 ba
+: 1823 3 10 by 
+: 1829 5 8 shot 
+: 1837 6 7 me 
+: 1846 9 5 down 
+- 1857
+: 1864 6 5 Down 
+: 1880 6 5 down 
+: 1896 6 5 down 
+: 1912 6 5 down 
+: 1928 6 5 down 
+: 1944 6 5 down 
+- 1952
+: 1960 6 5 Down 
+: 1976 6 5 down 
+: 1992 6 5 down 
+: 2008 6 5 down 
+: 2024 6 5 down 
+: 2040 6 5 down 
+- 2048
+: 2328 4 12 Bang 
+: 2336 4 24 me 
+: 2344 4 19 Bang 
+: 2352 4 26 her 
+- 2358
+: 2584 4 12 Bang 
+: 2592 4 24 me 
+: 2600 4 19 Bang 
+: 2608 4 26 her 
+- 2614
+: 2646 4 13 Bang 
+: 2654 10 12 bang, 
+: 2674 2 12 he 
+: 2678 6 13 shot 
+: 2686 2 12 me 
+: 2690 5 12 down 
+- 2697
+: 2700 5 12 Bang 
+: 2708 12 12 bang, 
+: 2732 4 12 I 
+: 2739 3 13 hit 
+: 2744 3 12 the 
+: 2749 6 12 ground 
+- 2757
+: 2763 5 12 Bang 
+: 2773 10 10 bang, 
+: 2792 3 10 that 
+: 2798 5 12 aw
+: 2806 2 10 ful 
+: 2810 5 10 sound 
+- 2817
+: 2821 6 10 Bang 
+: 2830 8 10 bang, 
+: 2855 4 10 my 
+: 2862 8 12 ba
+: 2872 3 10 by 
+: 2878 5 8 shot 
+: 2886 6 7 me 
+: 2895 9 5 down 
+E

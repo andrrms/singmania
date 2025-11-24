@@ -1,0 +1,300 @@
+#ARTIST:Django Django
+#TITLE:Default
+#MP3:Django Django - Default.mp3
+#CREATOR:daggeg
+#YEAR:2011
+#LANGUAGE:English
+#BPM:232.17
+#GAP:43180
+#VIDEO:v=DDjpOrlfh0Y,co=https://i1.sndcdn.com/artworks-000015135427-lrgkxk-original.jpg,bg=django-django-5196147aab9be.jpg
+: 0 2 5 You 
+: 4 2 3 thought 
+: 8 2 3 you’d 
+: 12 2 5 set 
+: 16 1 3 the 
+: 18 2 0 bar 
+- 22
+: 24 2 5 I’d 
+: 28 3 5 ne
+: 32 2 5 ver 
+: 36 2 3 tried 
+: 40 2 3 to 
+: 44 2 5 work 
+: 48 1 3 it 
+: 50 2 3 out 
+- 54
+: 57 5 5 We 
+: 65 2 3 just 
+: 68 2 3 lit 
+: 72 1 3 the 
+* 74 4 5 fire
+* 79 2 3 ~ 
+- 83
+: 85 2 3 And 
+: 89 4 5 now 
+: 95 2 3 you 
+: 100 2 0 want 
+: 104 2 3 to 
+: 108 2 5 put 
+: 112 1 3 it 
+: 114 2 3 out 
+- 118
+: 128 2 5 You 
+: 132 2 3 gave 
+: 136 2 3 it 
+: 140 2 5 all 
+: 144 1 3 you 
+: 146 2 0 got 
+- 150
+: 152 2 5 And 
+: 156 2 5 what 
+: 160 2 5 you 
+: 164 2 3 got 
+: 168 2 3 is 
+: 173 2 5 not 
+: 177 1 3 a 
+: 179 2 0 lot 
+- 183
+: 185 2 3 Why 
+: 189 2 5 don’t 
+: 193 2 3 you 
+: 197 2 3 hand 
+: 201 1 3 it 
+* 203 4 5 o
+* 208 2 3 ver? 
+- 212
+: 216 4 5 Time 
+: 223 2 3 is 
+: 228 2 0 up, 
+: 232 2 3 you’ve 
+: 236 2 5 had 
+: 240 1 3 your 
+: 242 2 5 shot 
+- 246
+: 249 6 3 Ga
+: 256 1 3 ther 
+: 258 4 3 once 
+: 265 1 0 a
+: 267 2 3 gain 
+- 271
+* 277 1 0 Di
+* 279 5 3 sa
+* 286 2 3 sters 
+* 292 2 3 in 
+* 296 1 0 the 
+* 298 2 3 end 
+- 302
+: 304 1 3 It’s 
+: 306 1 3 like 
+: 308 1 3 a 
+: 310 1 3 de
+: 312 2 0 fault 
+- 316
+: 385 2 5 You 
+: 388 2 3 thought 
+: 392 2 3 you’d 
+: 396 2 5 make 
+: 400 1 3 the 
+: 402 2 0 grade 
+- 406
+: 409 4 5 All 
+: 417 2 3 you 
+: 420 2 3 made 
+: 425 2 3 will 
+: 429 2 5 start 
+: 433 1 0 to 
+: 435 2 3 fade 
+- 439
+: 442 2 3 We 
+: 445 2 5 threw 
+: 450 1 3 it 
+: 452 2 3 in 
+: 456 1 3 the 
+: 459 4 5 fire
+: 464 2 3 ~ 
+- 468
+: 470 1 3 It’s 
+: 473 5 5 bet
+: 480 2 3 ter 
+: 484 2 3 that 
+: 488 2 0 it 
+: 492 2 0 not 
+: 496 1 0 be 
+: 498 2 3 made 
+- 502
+: 510 2 5 You 
+: 513 2 3 just 
+: 517 2 3 brought 
+: 521 1 3 to
+: 523 4 5 ge
+: 528 2 3 ther 
+- 532
+: 537 6 5 Did
+: 545 2 3 n’t 
+: 549 2 3 seem 
+: 553 2 0 to 
+: 557 2 0 have 
+: 560 1 0 the 
+: 562 2 3 heart 
+- 566
+: 572 3 5 Wheels, 
+: 577 2 3 they’re 
+: 581 3 3 co
+: 585 1 3 ming 
+: 587 2 5 off 
+: 592 2 3 now 
+- 596
+: 601 5 3 Knew 
+: 608 2 3 that 
+: 612 2 3 it 
+: 617 2 0 would 
+: 620 2 0 fall 
+: 624 1 0 a
+: 626 2 3 part 
+- 630
+* 632 4 3 Take 
+* 640 2 3 one 
+: 644 2 3 for 
+: 649 1 0 the 
+: 651 2 3 team 
+- 655
+: 662 2 3 You’re 
+: 666 1 0 a 
+: 668 4 3 cog 
+: 673 2 3 in 
+: 677 1 3 the 
+: 680 1 0 ma
+: 682 3 3 chine 
+- 687
+: 689 1 3 It’s 
+: 691 1 3 like 
+: 693 1 3 a 
+* 695 1 3 de
+* 697 2 0 fault 
+- 701
+: 1019 4 3 Take 
+: 1025 2 3 one 
+: 1029 2 3 for 
+: 1034 1 0 the 
+: 1036 2 3 team 
+- 1040
+: 1046 2 3 You’re 
+: 1050 1 0 a 
+: 1052 4 3 cog 
+: 1059 2 3 in 
+: 1063 1 3 the 
+: 1066 1 0 ma
+: 1068 3 3 chine 
+- 1073
+: 1074 1 3 It’s 
+: 1076 1 3 like 
+: 1078 1 3 a 
+: 1080 1 3 de
+: 1082 3 0 fault 
+- 1087
+: 1154 2 5 You’ve 
+: 1158 2 3 missed 
+: 1162 2 3 the 
+: 1166 3 5 start
+: 1170 1 3 ing 
+: 1172 2 0 gun 
+- 1176
+: 1178 2 5 For 
+: 1181 3 5 e
+: 1185 3 3 very
+: 1189 2 3 thing 
+: 1193 2 3 you’ve 
+: 1197 2 5 e
+: 1201 1 3 ver 
+: 1203 2 5 done 
+- 1207
+: 1210 2 5 You 
+: 1214 2 5 took 
+: 1218 2 3 part 
+: 1222 2 3 in 
+: 1226 1 3 the 
+: 1228 2 5 race 
+- 1232
+: 1237 3 3 But 
+: 1242 5 5 di
+: 1249 2 3 sa
+: 1253 2 0 ppeared 
+: 1257 2 3 with
+: 1261 2 5 out 
+: 1265 1 3 a 
+: 1268 3 3 trace 
+- 1273
+* 1282 2 5 You 
+* 1286 2 3 thought 
+: 1290 2 3 you’d 
+: 1294 2 5 set 
+: 1298 1 3 the 
+: 1300 2 0 bar 
+- 1304
+: 1305 2 5 I 
+: 1309 3 5 ne
+: 1313 2 5 ver 
+: 1317 2 3 tried 
+: 1321 2 3 to 
+: 1325 2 5 work 
+: 1329 1 3 it 
+: 1331 2 0 out 
+- 1335
+: 1338 4 5 We 
+: 1345 2 3 just 
+: 1349 2 3 lit 
+: 1354 1 3 the 
+: 1356 4 5 fire
+: 1361 2 3 ~ 
+- 1365
+: 1366 2 0 And 
+: 1370 4 5 now 
+: 1377 2 3 you 
+: 1381 2 0 want 
+: 1385 2 3 to 
+: 1389 2 5 put 
+: 1393 1 3 it 
+: 1396 2 3 out 
+- 1400
+: 1402 2 0 For
+: 1405 3 3 get 
+: 1410 1 3 a
+: 1412 3 3 bout 
+: 1418 1 0 the 
+: 1420 3 3 cause 
+- 1425
+* 1429 2 3 Press 
+* 1433 1 0 re
+* 1435 3 3 wind 
+: 1441 2 3 then 
+: 1445 2 3 stop 
+: 1449 1 0 and 
+: 1451 2 3 pause 
+- 1455
+: 1457 1 3 It’s 
+: 1459 1 3 like 
+: 1461 1 3 a 
+: 1463 1 3 de
+: 1465 2 0 fault 
+- 1469
+: 2043 2 0 For
+: 2046 3 3 get 
+: 2051 1 3 a
+: 2053 3 3 bout 
+: 2058 1 0 the 
+: 2060 3 3 cause 
+- 2065
+: 2071 2 3 Press 
+: 2075 1 0 re
+: 2077 3 3 wind 
+: 2083 2 3 then 
+: 2087 2 3 stop 
+: 2090 1 0 and 
+: 2092 2 3 pause 
+- 2096
+* 2098 1 3 It’s 
+* 2100 1 3 like 
+* 2102 1 3 a 
+* 2104 1 3 de
+* 2106 2 0 fault 
+E

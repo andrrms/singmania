@@ -1,0 +1,319 @@
+#ARTIST:Dave Dee, Dozy, Beaky, Mick & Tich
+#TITLE:The Legend Of Xanadu
+#MP3:Dave Dee, Dozy, Beaky, Mick & Tich - The Legend Of Xanadu.mp3
+#CREATOR:Fepo
+#COVER:Dave Dee, Dozy, Beaky, Mick & Tich - The Legend Of Xanadu [CO].jpg
+#BACKGROUND:Dave Dee, Dozy, Beaky, Mick & Tich - The Legend Of Xanadu [BG].jpg
+#YEAR:1968
+#LANGUAGE:English
+#BPM:303.05
+#GAP:10660
+#VIDEO:v=rsExj_0IHEs,co=https://m.media-amazon.com/images/I/51VItLZCMgL.jpg
+F 0 4 -3 Es
+F 6 5 -3 ta 
+F 13 6 -3 es 
+- 30
+F 34 2 -3 La 
+F 37 4 -3 ley
+F 42 3 -3 en
+F 46 4 -3 da 
+- 59
+F 62 4 -3 De 
+F 68 4 -3 Xa
+F 73 2 -3 na
+F 76 8 -3 du 
+- 124
+: 224 40 -3 You’ll 
+: 268 5 1 hear 
+: 276 5 -3 my 
+: 285 30 -4 voice, 
+- 327
+: 331 7 2 On 
+: 340 3 -1 the 
+: 346 37 -3 wind, 
+- 391
+: 394 6 1 Cross 
+: 403 5 4 the 
+* 411 49 4 sand 
+- 469
+: 473 37 2 If 
+: 513 6 2 you 
+: 521 5 6 should 
+: 528 6 2 re
+* 536 43 1 turn 
+- 586
+: 589 2 -3 To 
+: 593 4 -1 that 
+: 599 5 1 black 
+: 607 3 1 bar
+: 611 3 1 ren 
+: 615 3 1 land 
+: 620 2 -3 that 
+: 623 3 -3 bears 
+: 628 2 -3 the 
+: 632 8 -1 name 
+: 643 2 -4 of 
+: 647 6 -4 Xa
+: 655 5 -1 na
+: 662 14 -3 du 
+- 716
+: 788 44 -3 Cursed 
+: 835 4 1 with
+: 841 6 -3 out 
+: 850 34 -4 hope, 
+- 893
+: 897 5 2 Was 
+: 905 5 -1 the 
+* 912 41 -3 love 
+- 958
+: 960 5 1 That 
+: 967 7 4 I 
+: 976 56 4 sought 
+- 1037
+: 1039 46 2 Lost 
+: 1087 6 6 from 
+: 1095 5 2 the 
+* 1103 44 1 start 
+- 1154
+: 1157 3 -3 Was 
+: 1161 3 -3 the 
+: 1165 6 1 duel 
+: 1173 3 1 that 
+: 1178 2 1 s’p
+: 1181 3 -1 posed 
+: 1186 2 1 to 
+: 1189 3 -3 win 
+: 1193 3 -3 her 
+: 1198 4 -1 heart 
+: 1209 3 -1 in 
+: 1213 8 -4 Xa
+: 1223 4 -1 na
+: 1229 8 -3 du 
+- 1277
+: 1348 2 4 And 
+: 1352 2 4 the 
+: 1356 2 4 foot 
+: 1360 2 4 prints 
+: 1364 2 4 leave 
+: 1368 2 4 no 
+: 1372 2 4 tra
+: 1376 2 4 ces 
+- 1378
+: 1380 2 6 On
+: 1384 2 4 ly 
+: 1388 2 2 sha
+: 1392 2 2 dows 
+: 1396 2 2 move 
+: 1400 2 2 in 
+: 1404 2 2 pla
+: 1408 2 2 ces 
+: 1412 2 4 where 
+: 1416 2 2 we 
+: 1420 4 1 used 
+: 1427 2 -1 to 
+: 1431 15 1 go
+: 1447 3 -1 ~
+: 1451 14 -3 ~ 
+- 1473
+: 1476 2 4 And 
+: 1480 2 4 the 
+: 1484 2 4 buil
+: 1488 2 4 dings 
+: 1492 2 4 o
+: 1496 2 4 pen 
+: 1500 2 4 to 
+: 1503 2 4 the 
+: 1507 2 6 sky 
+- 1510
+: 1512 2 4 All 
+: 1516 2 2 e
+: 1520 2 6 cho 
+: 1524 2 6 when 
+: 1528 2 6 the 
+: 1532 2 6 vul
+: 1536 2 6 tures 
+: 1540 2 4 cry 
+: 1544 2 2 as 
+: 1548 4 4 if 
+: 1554 2 2 to 
+: 1558 38 1 show 
+- 1601
+: 1603 4 -3 Our 
+: 1609 5 -3 love 
+: 1616 6 -3 was 
+: 1632 3 -3 for 
+: 1637 3 -3 a 
+: 1642 8 -1 day 
+- 1661
+: 1665 6 -1 Then 
+: 1673 7 1 doomed 
+: 1682 7 1 to 
+: 1694 5 1 pass 
+: 1701 3 1 a
+: 1706 12 2 way 
+- 1723
+: 1725 2 4 In 
+: 1729 3 4 Xa
+: 1734 3 4 na
+: 1738 29 4 du
+: 1769 13 2 ~ 
+- 1787
+: 1789 2 4 In 
+: 1793 3 4 Xa
+: 1798 3 4 na
+: 1802 29 4 du
+: 1833 13 2 ~ 
+- 1850
+: 1852 2 4 In 
+: 1856 2 4 Xa
+: 1860 2 4 na
+: 1864 7 4 du 
+- 1911
+: 2358 2 4 In 
+: 2362 3 4 Xa
+: 2367 2 4 na
+: 2371 29 4 du
+: 2402 13 2 ~ 
+- 2421
+: 2423 2 4 In 
+: 2427 3 4 Xa
+: 2432 3 4 na
+: 2436 29 4 du
+: 2467 13 2 ~ 
+- 2483
+: 2485 2 4 In 
+: 2489 2 4 Xa
+: 2493 2 4 na
+: 2497 7 4 du 
+- 2544
+F 2649 2 -3 What 
+F 2653 2 -3 was 
+F 2657 2 -3 to 
+F 2661 2 -3 you 
+F 2665 2 -3 that 
+F 2669 2 -3 a 
+F 2672 6 -3 man 
+F 2680 3 -3 laid 
+F 2685 4 -3 down 
+F 2691 3 -3 his 
+F 2696 3 -3 life 
+F 2701 2 -3 for 
+F 2705 3 -3 your 
+F 2710 7 -3 love 
+- 2727
+F 2751 2 -3 Were 
+F 2755 3 -3 those 
+F 2761 5 -3 clear 
+F 2768 4 -3 eyes 
+F 2774 2 -3 of 
+F 2777 5 -3 yours 
+F 2785 3 -3 e
+F 2790 2 -3 ver 
+- 2792
+F 2793 2 -3 Filled 
+F 2797 2 -3 with 
+F 2801 3 -3 the 
+F 2806 5 -3 pain 
+F 2815 3 -3 and 
+F 2820 3 -3 the 
+F 2830 6 -3 tears 
+F 2838 3 -3 and 
+F 2843 3 -3 the 
+F 2848 6 -3 grief 
+- 2866
+F 2870 2 -3 Did 
+F 2873 2 -3 you 
+F 2876 2 -3 e
+F 2879 2 -3 ver 
+F 2883 2 -3 give 
+F 2887 2 -3 your 
+F 2891 2 -3 self 
+F 2895 3 -3 to 
+F 2900 2 -3 a
+F 2903 2 -3 ny 
+F 2906 3 -3 one 
+F 2911 6 -3 man 
+- 2918
+F 2920 2 -3 In 
+F 2923 2 -3 this 
+F 2926 8 -3 whole 
+F 2936 6 -3 wide 
+F 2944 6 -3 world 
+- 2960
+F 2978 2 -3 Or 
+F 2982 2 -3 did 
+F 2986 2 -3 you 
+F 2989 3 -3 love 
+F 2994 4 -3 me 
+- 3007
+F 3010 2 -3 And 
+F 3014 2 -3 will 
+F 3018 2 -3 you 
+F 3022 3 -3 find 
+F 3027 2 -3 your 
+F 3031 3 -3 way 
+F 3036 3 -3 back 
+F 3041 2 -3 one 
+F 3045 2 -3 day 
+F 3057 2 -3 to 
+F 3061 2 -3 Xa
+F 3065 2 -3 na
+F 3069 5 -3 du 
+- 3114
+: 3195 40 -3 You’ll 
+: 3239 5 1 hear 
+: 3249 5 -3 my 
+: 3258 30 -4 voice, 
+- 3298
+: 3306 7 2 On 
+: 3315 3 -1 the 
+: 3321 37 -3 wind, 
+- 3366
+: 3369 6 1 Cross 
+: 3378 5 4 the 
+* 3386 49 4 sand 
+- 3447
+: 3451 35 2 If 
+: 3490 6 2 you 
+: 3498 5 6 should 
+: 3505 6 2 re
+* 3513 43 1 turn 
+- 3562
+: 3564 2 -3 To 
+: 3568 4 -1 that 
+: 3574 5 1 black 
+: 3582 3 1 bar
+: 3586 3 1 ren 
+: 3590 3 1 land 
+: 3595 2 -3 that 
+: 3598 3 -3 bears 
+: 3603 2 -3 the 
+: 3607 8 -1 name 
+: 3618 2 -4 of 
+: 3622 6 -4 Xa
+: 3630 5 -1 na
+: 3637 14 -3 du 
+- 3691
+: 3753 2 4 In 
+: 3757 3 4 Xa
+: 3762 2 4 na
+: 3766 29 4 du
+: 3797 13 2 ~ 
+- 3815
+: 3817 2 4 In 
+: 3821 3 4 Xa
+: 3826 2 4 na
+: 3830 29 4 du
+: 3861 13 2 ~ 
+- 3877
+: 3879 2 4 In 
+: 3883 3 4 Xa
+: 3888 2 4 na
+: 3892 29 4 du
+: 3923 13 2 ~ 
+- 3941
+: 3943 2 2 In 
+: 3947 2 4 Xa
+: 3951 2 4 na
+: 3955 7 4 du 
+E

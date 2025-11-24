@@ -1,0 +1,180 @@
+#ARTIST:Kraftwerk
+#TITLE:Computer Love
+#MP3:Kraftwerk - Computer Love.mp3
+#CREATOR:Gollum
+#GENRE:Techno
+#YEAR:1981
+#LANGUAGE:English
+#BPM:256
+#GAP:71240
+#VIDEO:a=MCa0nW9LT7I,co=https://i.pinimg.com/originals/2d/d3/2a/2dd32ae37ee99cdeb77f9f54da4060fb.jpg,bg=kraftwerk-4f1c4e32e1311.jpg
+: 0 2 -2 A
+: 4 3 0 no
+: 9 2 -2 ther 
+: 13 5 0 lone
+: 20 3 0 ly 
+: 25 3 0 night 
+- 30
+: 44 6 0 Lone
+: 52 3 0 ly 
+: 57 3 0 night 
+- 62
+: 128 3 -2 Stare 
+: 132 2 0 at 
+: 136 2 -2 the 
+: 140 7 0 T.
+: 148 2 0 V. 
+: 153 4 0 screen 
+- 159
+: 172 6 0 T.
+: 179 2 0 V. 
+: 185 3 0 screen 
+- 190
+: 256 3 0 I 
+: 260 3 0 don’t 
+: 264 3 -2 know 
+: 268 3 0 what 
+: 276 2 0 to 
+: 281 2 0 do 
+- 285
+: 299 4 0 What 
+: 307 3 0 to 
+: 312 3 0 do 
+- 317
+: 384 3 0 I 
+: 388 3 0 need 
+: 392 3 -2 a 
+: 396 7 0 ren
+: 404 3 0 dez
+: 409 2 0 vous 
+- 413
+: 428 7 0 Ren
+: 436 3 0 dez
+: 441 2 0 vous 
+- 445
+: 454 3 5 Com
+: 460 6 7 pu
+: 468 3 10 ter 
+: 472 7 10 love 
+- 481
+: 582 3 5 Com
+: 588 5 7 pu
+: 596 3 10 ter 
+: 600 7 10 love 
+- 609
+: 776 2 -2 I 
+: 779 7 0 call 
+: 787 4 0 this 
+: 793 4 0 num
+: 799 4 0 ber 
+- 805
+: 811 8 0 Call 
+: 820 3 0 this 
+: 824 5 0 num
+: 831 4 0 ber 
+- 837
+: 900 2 0 For 
+: 904 2 -2 a 
+: 907 6 0 da
+: 915 3 0 ta 
+: 920 4 0 date 
+- 926
+: 940 5 0 Da
+: 947 3 0 ta 
+: 952 4 0 date 
+- 958
+: 1024 2 0 I 
+: 1028 3 0 don’t 
+: 1032 3 -2 know 
+: 1036 3 0 what 
+: 1043 3 0 to 
+: 1048 3 0 do 
+- 1053
+: 1067 4 0 What 
+: 1075 3 0 to 
+: 1080 3 0 do 
+- 1085
+: 1152 3 0 I 
+: 1156 3 0 need 
+: 1161 2 -2 a 
+: 1164 7 0 ren
+: 1172 3 0 dez
+: 1177 2 0 vous 
+- 1181
+: 1196 7 0 Ren
+: 1204 3 0 dez
+: 1209 2 0 vous 
+- 1213
+: 1223 2 5 Com
+: 1227 6 7 pu
+: 1235 3 10 ter 
+: 1239 8 10 love 
+- 1249
+: 1350 3 5 Com
+: 1355 6 7 pu
+* 1363 4 10 ter 
+* 1368 7 10 love 
+- 1377
+: 1800 2 -2 I 
+: 1803 7 0 call 
+: 1811 4 0 this 
+: 1817 4 0 num
+: 1823 4 0 ber 
+- 1829
+: 1835 8 0 Call 
+: 1844 3 0 this 
+: 1848 5 0 num
+: 1855 4 0 ber 
+- 1861
+: 1923 2 0 For 
+: 1927 2 -2 a 
+: 1931 6 0 da
+: 1939 3 0 ta 
+: 1944 4 0 date 
+- 1950
+: 1964 5 0 Da
+: 1971 3 0 ta 
+: 1976 4 0 date 
+- 1982
+: 2048 2 0 I 
+: 2051 3 0 don’t 
+: 2056 3 -2 know 
+: 2060 3 0 what 
+: 2067 3 0 to 
+: 2072 3 0 do 
+- 2077
+: 2091 4 0 What 
+: 2099 3 0 to 
+: 2103 3 0 do 
+- 2108
+* 2176 2 0 I 
+* 2179 4 0 need 
+* 2184 2 -2 a 
+* 2188 7 0 ren
+* 2196 3 0 dez
+* 2201 2 0 vous 
+- 2205
+: 2220 7 0 Ren
+: 2228 3 0 dez
+: 2233 2 0 vous 
+- 2237
+: 2246 3 5 Com
+: 2251 6 7 pu
+: 2259 3 10 ter 
+: 2263 8 10 love 
+- 2273
+: 2374 3 5 Com
+: 2379 6 7 pu
+: 2387 3 10 ter 
+: 2391 8 10 love 
+- 2401
+: 3142 3 5 Com
+: 3147 6 7 pu
+: 3155 3 10 ter 
+: 3160 8 10 love 
+- 3170
+: 3398 3 5 Com
+* 3403 6 7 pu
+* 3411 3 10 ter 
+* 3415 8 10 love 
+E

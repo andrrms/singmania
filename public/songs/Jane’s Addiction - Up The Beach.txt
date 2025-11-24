@@ -1,0 +1,65 @@
+#ARTIST:Jane’s Addiction
+#TITLE:Up The Beach
+#MP3:Jane’s Addiction - Up The Beach.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2009 Vol. 2
+#GENRE:Alternative Rock
+#YEAR:1988
+#LANGUAGE:English
+#BPM:384.34
+#GAP:23340
+#VIDEO:a=eEORxpfQMTA,co=nothings-shocking-60006e0f20c63.jpg,bg=janes-addiction-4f299be8690c9.jpg
+: 0 110 24 Oh 
+- 112
+F 431 101 24 Oh 
+- 534
+: 851 7 26 Ah
+: 859 117 24 ~
+: 977 4 19 ~ 
+- 983
+: 1381 5 16 Here
+: 1387 74 18 ~ 
+: 1465 27 16 we 
+: 1499 44 19 go
+: 1544 22 18 ~ 
+- 1568
+: 1594 14 14 Now
+: 1609 13 12 ~
+: 1623 62 14 ~
+: 1686 18 12 ~ 
+- 1706
+: 2085 8 9 Home
+: 2094 4 8 ~ 
+- 2100
+: 2325 7 18 Oh
+: 2333 71 21 ~
+: 2405 3 23 ~
+: 2409 11 21 ~
+: 2421 68 18 ~ 
+- 2491
+: 2520 5 18 Oh
+: 2526 85 21 ~
+: 2612 81 24 ~
+: 2694 5 21 ~ 
+- 2701
+: 2788 6 23 Oh
+: 2795 106 24 ~
+: 2902 79 25 ~ 
+- 2983
+: 3133 8 11 Home
+: 3142 6 9 ~ 
+- 3150
+: 3280 92 26 Ah
+: 3373 73 21 ~ 
+- 3448
+* 3467 9 18 Oh
+: 3477 87 21 ~
+* 3565 81 24 ~
+* 3647 4 29 ~ 
+- 3653
+: 3890 11 11 Home
+: 3902 7 9 ~ 
+- 3911
+: 3990 17 11 Home
+: 4008 8 9 ~ 
+E

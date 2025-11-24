@@ -1,0 +1,364 @@
+#ARTIST:DJ BoBo & Irene Cara
+#TITLE:What A Feeling
+#MP3:DJ BoBo & Irene Cara - What A Feeling.mp3
+#CREATOR:Diddlmaus30mg
+#YEAR:2000
+#LANGUAGE:English
+#BPM:260
+#GAP:240
+#VIDEO:a=WegH_xS76tI,co=https://m.media-amazon.com/images/I/91VwWE6vsVL.jpg,bg=https://i.ytimg.com/vi/eu3FFH5BYaQ/maxresdefault.jpg
+F 0 3 5 What 
+F 4 3 9 a 
+F 8 11 10 fee
+F 20 8 10 ling 
+- 38
+: 60 7 5 Bein’s 
+: 68 3 9 be
+: 72 11 12 lie
+: 84 8 10 vin’ 
+- 102
+: 124 3 5 I 
+: 128 7 9 can 
+: 136 7 10 have 
+: 144 7 10 it 
+: 152 7 12 all, 
+: 160 3 10 now 
+: 164 3 9 I’m 
+: 168 7 10 dan
+: 176 7 10 cing 
+: 184 11 12 for 
+: 196 3 5 my 
+: 200 8 5 life 
+- 225
+: 276 3 2 All 
+: 280 3 0 a
+: 284 15 2 lone 
+: 300 3 0 I 
+: 304 7 -2 have 
+: 312 8 0 cried 
+- 330
+: 340 3 3 Si
+: 344 3 2 lent 
+: 348 15 3 tears 
+: 364 3 2 full 
+: 368 7 0 of 
+: 376 8 2 pride 
+- 394
+: 404 3 3 In 
+: 408 3 2 a 
+: 412 15 3 world 
+: 428 3 2 made 
+: 432 7 0 of 
+: 440 8 2 steel 
+- 457
+: 460 15 3 Made 
+: 476 11 2 of 
+: 488 8 0 stone 
+- 506
+: 526 21 2 First 
+: 548 3 0 when 
+: 552 3 -2 there’s 
+: 556 8 0 nothing 
+- 576
+: 580 3 0 But 
+: 584 3 2 a 
+: 588 23 3 slow 
+: 612 3 2 glow
+: 616 3 0 ing 
+: 620 8 2 dream 
+- 638
+: 646 3 0 That 
+: 650 3 -2 you 
+: 654 21 7 fear 
+: 676 3 5 seems 
+: 680 3 3 to 
+: 684 8 5 hide 
+- 704
+: 708 3 3 Deep 
+: 712 3 5 in
+: 716 1 3 si
+: 718 25 2 ~de 
+: 744 5 -2 your 
+: 750 8 0 mind 
+- 765
+: 768 3 5 What 
+: 772 3 9 a 
+: 776 11 10 fee
+: 788 8 10 ling 
+- 806
+: 828 7 5 Bein’s 
+: 836 3 9 be
+: 840 11 10 lie
+: 852 8 10 vin’ 
+- 870
+: 892 7 5 I 
+: 900 3 9 can 
+: 904 7 10 ha
+: 912 3 10 ~ve 
+: 916 3 10 it 
+: 920 7 12 all, 
+: 928 3 10 now 
+: 932 3 9 I’m 
+: 936 7 10 dan
+: 944 7 10 cing 
+: 952 11 12 for 
+: 964 3 5 my 
+: 968 8 5 life 
+- 993
+: 1020 7 5 Take 
+: 1028 3 9 your 
+: 1032 11 10 pas
+: 1044 8 10 sion 
+- 1062
+: 1084 7 5 And 
+: 1092 3 9 make it 
+: 1096 11 10 hap
+: 1108 8 10 pen 
+- 1126
+: 1148 7 5 Pic
+: 1156 3 9 tures 
+: 1160 7 10 come 
+: 1168 3 10 a
+: 1172 3 10 li
+: 1176 7 12 ~ve, 
+: 1184 3 10 you 
+: 1188 3 9 can 
+: 1192 7 10 da
+: 1200 3 10 ~nce 
+: 1204 3 10 right 
+: 1208 11 12 through 
+: 1220 3 5 your 
+: 1224 8 5 life 
+- 1249
+: 1300 3 2 Now 
+: 1304 3 0 I 
+: 1308 15 2 know 
+: 1324 3 0 I 
+: 1328 7 -2 got the 
+: 1336 8 0 chance 
+- 1354
+: 1364 3 3 To 
+: 1368 3 2 reach the 
+: 1372 15 3 top, 
+: 1388 1 2 is 
+: 1390 1 2 so 
+: 1392 7 0 in
+: 1400 8 2 tense 
+- 1418
+: 1428 3 3 In 
+: 1432 3 2 a 
+: 1436 15 3 world 
+: 1452 3 2 made 
+: 1456 7 0 of 
+: 1464 8 2 steel 
+- 1481
+: 1484 15 3 Made 
+: 1500 11 2 of 
+: 1512 8 0 stone 
+- 1530
+: 1548 21 2 Now 
+: 1570 5 0 I hear 
+: 1576 3 -2 the 
+: 1580 8 0 music 
+- 1600
+: 1604 3 0 Close 
+: 1608 3 2 my 
+: 1612 23 3 eyes, 
+: 1636 3 2 I 
+: 1640 3 0 am 
+: 1644 8 2 rhythm 
+- 1664
+: 1668 3 0 In 
+: 1672 3 -2 a 
+: 1676 23 7 flash 
+: 1700 3 5 it 
+: 1704 3 3 takes 
+: 1708 8 5 hold 
+- 1728
+: 1732 3 3 Of 
+: 1736 3 5 my 
+: 1740 32 3 heart 
+- 1782
+: 1792 3 5 What 
+: 1796 3 9 a 
+: 1800 11 10 fee
+: 1812 8 10 ling 
+- 1830
+: 1852 7 5 Bein’s 
+: 1860 3 9 be
+: 1864 11 10 lie
+: 1876 8 10 vin’ 
+- 1894
+: 1916 7 5 I 
+: 1924 3 9 can 
+: 1928 7 10 ha
+: 1936 3 10 ~ve 
+: 1940 1 10 it 
+: 1942 9 12 all, 
+: 1952 3 10 now 
+: 1956 3 9 I’m 
+: 1960 5 10 dan
+: 1966 9 10 cing 
+: 1976 11 12 for 
+: 1988 3 5 my 
+: 1992 8 5 life 
+- 2017
+: 2044 7 5 Take 
+: 2052 3 9 your 
+: 2056 11 10 pas
+: 2068 8 10 sion 
+- 2086
+: 2108 7 5 And 
+: 2116 3 9 make it 
+: 2120 11 10 hap
+: 2132 8 10 pen 
+- 2150
+: 2172 7 5 Pic
+: 2180 3 9 tures 
+: 2184 7 10 come 
+: 2192 3 10 a
+: 2196 1 10 li
+: 2198 9 12 ~ve, 
+: 2208 3 10 you 
+: 2212 3 9 can 
+: 2216 5 10 da
+: 2222 3 10 ~nce 
+: 2226 5 10 right 
+: 2232 11 12 through 
+: 2244 3 5 your 
+: 2248 8 5 life 
+- 2273
+: 2324 1 2 I 
+: 2326 3 0 feel the 
+: 2330 17 2 passion 
+: 2348 3 0 deep 
+: 2352 5 -2 in
+: 2358 8 0 side 
+- 2376
+: 2388 3 3 I 
+: 2392 3 2 got 
+: 2396 13 3 strength, 
+: 2410 1 2 I 
+: 2412 3 2 got 
+: 2416 7 0 pri
+: 2424 8 2 ~de 
+- 2442
+: 2452 1 3 In 
+: 2454 3 2 a 
+: 2458 17 3 world 
+: 2476 3 2 made 
+: 2480 5 0 of 
+: 2486 8 2 steel 
+- 2503
+: 2506 17 3 Made 
+: 2524 9 2 of 
+: 2534 8 0 stone 
+- 2552
+: 2572 5 -10 Dancing 
+: 2578 3 -10 till 
+: 2582 3 -10 the end 
+: 2586 3 -10 of 
+: 2590 5 -10 this 
+: 2596 5 -10 night 
+- 2601
+: 2602 5 -12 Like 
+: 2608 5 -12 now or 
+: 2614 3 -12 never, 
+: 2618 5 -12 get 
+: 2624 3 -12 strength and 
+: 2628 5 -12 pride 
+- 2633
+: 2634 5 -9 When, I 
+: 2640 7 -9 feel 
+: 2648 3 -9 the 
+: 2652 3 -9 music, I’m 
+: 2656 1 -9 losing 
+: 2658 7 -9 control 
+- 2665
+: 2666 7 -10 Of 
+: 2674 5 -10 my 
+: 2680 3 -10 mind, my 
+: 2684 1 -10 body, my 
+: 2686 3 -10 heart and 
+: 2690 8 -10 my soul 
+- 2698
+: 2700 5 -5 Let’s 
+: 2706 3 -5 go and 
+: 2710 3 -5 make 
+: 2714 3 -5 this 
+: 2718 3 -5 dream 
+: 2722 7 -5 come true 
+- 2729
+: 2730 5 -7 For 
+: 2736 5 -7 me and 
+: 2742 3 -7 for you, 
+: 2746 5 -7 we can 
+: 2752 3 -7 dance 
+: 2756 5 -7 right through 
+- 2761
+: 2762 5 -9 You 
+: 2768 5 -9 can 
+: 2774 5 -9 have it all, 
+: 2780 3 -9 there’s no 
+: 2784 1 -9 price 
+: 2786 7 -9 to pay 
+- 2793
+: 2794 5 -12 Your 
+: 2800 7 -12 feelings will 
+: 2808 3 -12 show you 
+: 2812 1 -12 the way 
+- 2813
+: 2814 3 5 What 
+: 2818 3 9 a 
+: 2822 13 10 fee
+: 2836 8 10 ling 
+- 2854
+: 2874 9 5 Bein’s 
+: 2884 3 9 be
+: 2888 9 10 lie
+: 2898 8 10 vin’ 
+- 2916
+: 2940 5 5 I 
+: 2946 3 9 can 
+: 2950 9 10 ha
+: 2960 3 10 ~ve 
+: 2964 1 10 it 
+: 2966 7 12 all, 
+: 2974 3 10 now 
+: 2978 3 9 I’m 
+: 2982 9 10 dan
+: 2992 5 10 cing 
+: 2998 13 12 for 
+: 3012 3 5 my 
+: 3016 8 5 life 
+- 3041
+: 3068 5 5 Take 
+: 3074 3 9 your 
+: 3078 13 10 pas
+: 3092 8 10 sion 
+- 3110
+: 3130 7 5 And 
+: 3138 5 9 make it 
+: 3144 9 10 hap
+: 3154 8 10 pen 
+- 3172
+: 3196 5 5 Pic
+: 3202 3 9 tures 
+: 3206 7 10 come 
+: 3214 5 10 a
+: 3220 1 10 li
+: 3222 7 12 ~ve, 
+: 3230 3 10 you 
+: 3234 3 9 can 
+: 3238 9 10 da
+: 3248 1 10 ~nce 
+: 3250 3 10 right 
+: 3254 11 12 through 
+: 3266 5 5 your 
+: 3272 8 5 life 
+- 3297
+: 3326 3 5 What 
+: 3330 3 9 a 
+: 3334 11 10 fee
+: 3346 8 10 ling! 
+E

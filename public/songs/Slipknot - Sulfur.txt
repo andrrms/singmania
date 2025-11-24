@@ -1,0 +1,471 @@
+#ARTIST:Slipknot
+#TITLE:Sulfur
+#MP3:Slipknot - Sulfur.mp3
+#CREATOR:haistshomie666
+#YEAR:2008
+#LANGUAGE:English
+#BPM:208.09
+#GAP:50090
+#VIDEO:v=PAAvNmoqDq0,co=sulfur-5a1f215387234.jpg,bg=slipknot-50646ed821d20.jpg
+F 0 2 0 My 
+F 4 1 0 guilt 
+F 14 1 0 and 
+F 16 1 0 my 
+F 20 4 0 shame 
+- 26
+F 31 1 0 Al
+F 33 1 0 ways 
+F 35 1 0 sell 
+F 37 2 0 me 
+F 41 4 0 short, 
+F 47 1 0 al
+F 49 1 0 ways 
+F 51 1 0 feel 
+F 53 1 0 the 
+F 57 4 0 same 
+- 62
+F 62 1 0 And 
+F 64 1 0 my 
+F 67 6 0 face 
+F 77 1 0 and 
+F 79 2 0 my 
+F 83 4 0 soul 
+- 89
+F 95 1 0 Al
+F 97 1 0 ways 
+F 99 1 0 wear 
+F 101 1 0 me 
+F 105 3 0 thin, 
+F 111 1 0 al
+F 113 1 0 ways 
+F 115 1 0 un
+F 117 1 0 der 
+F 119 1 0 con
+F 121 2 0 trol 
+- 124
+F 125 3 0 But 
+F 129 1 0 the 
+F 131 1 0 lon
+F 133 1 0 gest 
+F 136 1 0 hours
+F 140 1 0 ~ 
+F 144 1 0 you’ll 
+F 146 1 0 have 
+F 148 1 0 in 
+F 150 1 0 your 
+F 152 4 0 life 
+- 157
+F 158 1 0 Are 
+F 160 1 0 the 
+F 162 2 0 ones 
+F 166 1 0 you 
+F 168 2 0 sit 
+F 172 2 0 through 
+F 176 1 0 to 
+F 178 1 0 know 
+F 180 1 0 if 
+F 182 1 0 you’re 
+F 184 3 0 right 
+- 188
+F 188 1 0 So 
+F 190 1 0 I’ll 
+F 194 6 0 wait, 
+F 204 1 0 but 
+F 206 2 0 I’ll 
+F 210 1 0 pray 
+F 212 1 0 that 
+F 214 2 0 I’m 
+F 218 4 0 wrong 
+- 224
+F 228 1 0 Be
+F 230 1 0 cause 
+F 232 1 0 I 
+F 234 1 0 think 
+F 236 2 0 I 
+F 239 2 0 know 
+F 243 2 0 what’s 
+F 247 2 0 go
+F 251 1 0 ing 
+F 253 4 0 on 
+- 259
+F 377 1 0 So 
+F 379 1 0 let 
+F 381 1 0 me 
+F 383 1 0 get 
+F 385 4 0 this 
+F 391 5 0 straight: 
+F 401 1 0 The 
+F 403 1 0 on
+F 405 1 0 ly 
+F 407 1 0 will 
+F 409 1 0 is 
+F 411 2 0 my 
+F 415 3 0 own 
+- 420
+F 424 1 0 I 
+F 426 1 0 do 
+F 428 1 0 what
+F 430 1 0 e
+F 432 1 0 ver 
+F 434 1 0 I 
+F 436 2 0 want 
+F 440 2 0 and 
+F 444 2 0 stay 
+F 448 1 0 a
+F 450 4 0 lone? 
+- 456
+F 458 1 0 All 
+F 462 1 0 my 
+F 466 1 0 de
+F 468 3 0 ci
+F 472 3 0 sions 
+F 476 2 0 make 
+F 480 1 0 it 
+- 483
+F 490 3 0 Un
+F 494 2 0 touch
+F 498 1 0 a
+F 500 2 0 ble 
+F 504 3 0 and 
+F 508 2 0 tain
+F 512 4 0 ted 
+- 518
+F 520 1 0 I’m 
+F 522 1 0 gon
+F 524 1 0 na 
+F 526 1 0 suf
+F 528 1 0 fer 
+F 530 1 0 for 
+F 532 1 0 the 
+F 534 1 0 rest 
+F 536 1 0 of 
+F 538 3 0 my 
+F 542 3 0 life 
+- 547
+F 552 1 0 But 
+F 554 1 0 I 
+F 556 1 0 will 
+F 558 1 0 al
+F 560 1 0 ways 
+F 562 1 0 find 
+F 564 1 0 a 
+F 566 1 0 way 
+F 568 1 0 to 
+F 570 2 0 sur
+F 574 5 0 vive 
+- 581
+F 583 1 0 I’m 
+F 585 1 0 not 
+F 587 1 0 a 
+F 590 1 0 fail
+F 592 1 0 ure, 
+F 594 1 0 but 
+F 596 1 0 I 
+F 598 1 0 know 
+F 600 1 0 what 
+F 602 2 0 it’s 
+F 606 2 0 like 
+- 609
+F 609 1 0 I 
+F 611 1 0 can 
+F 613 1 0 take 
+F 615 1 0 it 
+F 619 1 0 or 
+F 621 1 0 leave 
+F 624 5 0 it, 
+F 633 2 0 or 
+F 637 5 0 die 
+- 644
+: 646 26 6 Stay, 
+: 673 3 -1 you 
+: 677 5 6 don’t 
+: 683 5 4 al
+: 689 3 2 ways 
+: 693 5 6 know 
+: 699 5 2 where 
+: 705 3 2 you 
+: 709 2 2 stand
+: 712 5 -1 ~ 
+- 719
+: 732 4 4 Till 
+: 737 3 4 you 
+: 741 5 4 know 
+: 747 5 4 that 
+: 753 3 4 you 
+: 757 5 7 won’t 
+: 763 4 6 run 
+: 768 2 4 a
+: 771 1 6 way
+: 773 1 5 ~
+: 775 9 6 ~ 
+- 786
+: 800 3 -1 There’s 
+: 804 5 6 some
+: 810 5 4 thing 
+: 816 3 2 in
+: 820 5 6 side 
+: 826 4 2 me 
+: 831 3 2 that 
+: 835 3 2 feels
+: 839 5 -1 ~ 
+- 846
+: 863 2 4 Like 
+: 867 5 4 brea
+: 873 4 4 thing 
+: 879 3 4 in 
+: 883 3 7 sul
+: 887 4 6 ~
+: 893 38 6 fur 
+- 933
+F 1096 1 0 My 
+F 1100 4 0 life 
+F 1111 1 0 is 
+F 1113 2 0 un
+F 1117 4 0 done 
+- 1123
+F 1128 1 0 I’m 
+F 1130 1 0 a 
+F 1132 1 0 sin
+F 1134 1 0 ner 
+F 1136 1 0 to 
+F 1138 2 0 most 
+F 1142 1 0 but 
+F 1146 1 0 a 
+F 1148 2 0 sage 
+F 1152 1 0 to 
+F 1154 2 0 some 
+- 1157
+F 1158 1 0 And 
+F 1160 1 0 my 
+F 1164 6 0 gods 
+F 1174 1 0 are 
+F 1176 1 0 un
+F 1180 4 0 true 
+- 1186
+F 1194 1 0 I’m 
+F 1196 1 0 pro
+F 1198 1 0 ba
+F 1200 1 0 bly 
+F 1202 2 0 wrong, 
+F 1205 2 0 but 
+F 1209 1 0 I’m 
+F 1211 1 0 bet
+F 1213 1 0 ter 
+F 1215 1 0 than 
+F 1217 2 0 you 
+- 1220
+F 1221 3 0 And 
+F 1226 1 0 the 
+F 1228 1 0 lon
+F 1230 1 0 gest 
+F 1233 3 0 hou
+F 1237 1 0 rs 
+F 1241 1 0 I’ve 
+F 1243 1 0 had 
+F 1245 1 0 in 
+F 1247 1 0 my 
+F 1249 3 0 life 
+- 1254
+F 1255 1 0 Were 
+F 1257 1 0 the 
+F 1259 1 0 ones 
+F 1263 1 0 I 
+F 1265 1 0 went 
+F 1269 2 0 through 
+F 1273 1 0 to 
+F 1275 1 0 know 
+F 1277 1 0 I 
+F 1279 1 0 was 
+F 1281 3 0 right 
+- 1285
+F 1285 1 0 So 
+F 1287 1 0 I’m 
+F 1291 5 0 safe, 
+F 1301 1 0 but 
+F 1303 1 0 I’m 
+F 1305 1 0 a 
+F 1307 1 0 lit
+F 1309 1 0 tle 
+F 1311 1 0 out
+F 1315 3 0 side 
+- 1320
+: 1324 1 0 I’m 
+: 1326 1 0 gon
+: 1328 1 0 na 
+: 1330 1 0 laugh 
+: 1334 1 0 when 
+: 1336 1 0 I’m 
+: 1338 1 0 bu
+: 1340 1 0 ried 
+: 1342 1 0 a
+: 1344 2 0 live 
+- 1348
+: 1353 26 6 Stay, 
+: 1381 3 -1 you 
+: 1385 5 6 don’t 
+: 1391 5 4 al
+: 1397 2 2 ways 
+: 1401 5 6 know 
+: 1407 5 2 where 
+: 1413 3 2 you 
+: 1417 3 2 stand
+: 1421 5 -1 ~ 
+- 1428
+: 1440 4 4 Till 
+: 1445 3 4 you 
+: 1449 5 4 know 
+: 1455 5 4 that 
+: 1461 3 4 you 
+: 1465 5 7 won’t 
+: 1471 4 6 run 
+: 1476 1 4 a
+: 1478 1 6 way
+: 1480 1 5 ~
+: 1482 20 6 ~ 
+- 1504
+: 1508 3 -1 There’s 
+: 1512 5 6 some
+: 1518 4 4 thing 
+: 1523 3 2 in
+: 1527 5 6 side 
+: 1533 5 2 me 
+: 1539 3 2 that 
+: 1543 3 2 feels
+: 1547 4 -1 ~ 
+- 1553
+: 1571 3 4 Like 
+: 1575 5 4 brea
+: 1581 4 4 thing 
+: 1586 3 4 in 
+: 1590 3 7 sul
+: 1594 6 6 ~
+: 1601 26 6 fur 
+- 1629
+F 1804 1 0 Like 
+F 1808 4 0 brea
+F 1813 3 0 thing 
+F 1818 1 0 in 
+F 1822 4 0 sul
+F 1828 7 0 fur 
+- 1837
+F 2031 1 0 Like 
+F 2036 1 0 brea
+F 2041 2 0 thing 
+F 2046 1 0 in 
+F 2050 3 0 sul
+F 2055 3 0 fur 
+- 2060
+: 2064 25 6 Stay, 
+: 2091 3 -1 you 
+: 2095 5 6 don’t 
+: 2101 5 4 al
+: 2107 3 2 ways 
+: 2111 4 6 know 
+: 2116 4 2 where 
+: 2121 3 2 you 
+: 2125 3 2 stand
+: 2129 2 -1 ~ 
+- 2133
+: 2148 3 4 Till 
+: 2152 3 4 you 
+: 2156 5 4 know 
+: 2162 4 4 that 
+: 2167 4 4 you 
+: 2172 4 7 won’t 
+: 2177 4 6 run 
+: 2182 2 4 a
+: 2185 1 6 way
+: 2187 1 5 ~
+: 2189 14 6 ~ 
+- 2205
+: 2213 3 -1 There’s 
+: 2217 5 6 some
+: 2223 5 4 thing 
+: 2229 3 2 in
+: 2233 4 6 side 
+: 2238 5 2 me 
+: 2244 3 2 that 
+: 2248 3 2 feels
+: 2252 4 -1 ~ 
+- 2258
+: 2274 2 -1 Like 
+: 2278 4 0 brea
+: 2284 3 0 thing 
+: 2290 2 0 in 
+: 2294 5 -1 sul
+: 2301 5 -1 fur 
+- 2307
+: 2308 27 6 Stay, 
+: 2336 3 -1 you 
+: 2340 4 6 don’t 
+: 2345 5 4 al
+: 2351 3 2 ways 
+: 2355 4 6 know 
+: 2360 5 2 where 
+: 2366 3 2 you 
+: 2370 3 2 stand
+: 2374 4 -1 ~ 
+- 2380
+: 2393 3 4 Till 
+: 2397 3 4 you 
+: 2401 5 4 know 
+: 2407 4 4 that 
+: 2412 3 4 you 
+: 2416 4 7 won’t 
+: 2421 4 6 run 
+: 2426 3 4 a
+: 2431 17 6 way 
+- 2450
+: 2457 3 -1 There’s 
+: 2461 5 6 some
+: 2467 5 4 thing 
+: 2473 3 2 in
+: 2477 4 6 side 
+: 2482 5 2 me 
+: 2488 3 2 that 
+: 2492 3 2 feels
+: 2496 4 -1 ~ 
+- 2502
+: 2519 3 4 Like 
+: 2523 4 4 brea
+: 2528 5 4 thing 
+: 2534 3 4 in 
+: 2538 3 7 sul
+: 2542 4 6 ~
+: 2547 29 6 fur 
+- 2578
+: 2636 3 -1 Like 
+: 2640 4 0 brea
+: 2646 4 0 thing 
+: 2651 3 0 in 
+: 2655 5 -1 sul
+: 2661 6 -1 fur 
+- 2669
+F 2750 1 0 Like 
+F 2754 3 0 brea
+F 2759 4 0 thing 
+F 2765 2 0 in 
+F 2769 3 0 sul
+F 2774 5 0 fur 
+- 2781
+F 2869 2 0 Like 
+F 2873 2 0 brea
+F 2878 2 0 thing 
+F 2883 2 0 in 
+F 2888 3 0 sul
+F 2893 4 0 fur 
+- 2899
+F 2988 2 0 Like 
+F 2992 3 0 brea
+F 2997 3 0 thing 
+F 3002 2 0 in 
+F 3006 2 0 sul
+F 3011 7 0 fur 
+- 3020
+F 3219 1 0 Like 
+F 3223 3 0 brea
+F 3229 3 0 thing 
+F 3234 1 0 in 
+F 3238 1 0 sul
+F 3243 6 0 fur 
+E

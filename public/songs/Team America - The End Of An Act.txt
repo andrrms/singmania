@@ -1,0 +1,182 @@
+#ARTIST:Team America
+#TITLE:The End Of An Act
+#MP3:Team America - The End Of An Act.mp3
+#CREATOR:JR
+#YEAR:2004
+#LANGUAGE:English
+#BPM:297.5
+#GAP:19950
+#VIDEO:a=uaQCMg-QGNU,co=https://is1-ssl.mzstatic.com/image/thumb/Music/85/b9/79/mzi.tpjsfyue.jpg/5000x5000bb.jpg
+: 0 2 13 I 
+: 3 5 13 miss 
+: 11 3 13 you 
+: 15 4 13 more 
+: 20 7 16 than 
+: 30 5 11 Mi
+: 36 6 11 chael 
+: 45 7 11 Bay 
+: 53 11 11 missed 
+: 65 3 16 the 
+: 69 19 9 mark 
+- 97
+: 100 4 9 When 
+: 105 3 11 he 
+: 109 13 13 made 
+: 123 10 11 Pearl 
+: 134 9 9 Har
+: 144 12 11 bor. 
+- 160
+: 162 2 13 I 
+: 165 6 13 miss 
+: 172 3 13 you 
+: 176 6 13 more 
+: 183 6 16 than 
+: 190 5 16 that 
+: 196 8 11 mo
+: 205 5 11 vie 
+: 211 9 11 missed 
+: 221 10 16 the 
+: 232 26 9 point 
+- 261
+: 263 3 9 And 
+: 267 6 9 that’s 
+: 274 5 11 an 
+: 280 6 13 aw
+: 287 5 13 ful 
+: 293 9 11 lot 
+: 303 11 9 girl. 
+- 314
+: 315 3 21 And 
+: 319 24 30 now, 
+: 344 10 32 now 
+: 355 4 33 you’ve 
+: 360 11 32 gone 
+: 372 6 30 a
+: 379 16 28 way 
+- 405
+: 418 5 14 And 
+: 424 4 14 all 
+: 429 6 13 I’m 
+: 436 7 13 try
+: 444 7 14 ing 
+: 452 3 9 to 
+: 456 16 9 say 
+- 474
+: 476 6 9 Is 
+: 483 5 14 Pearl 
+: 489 3 13 Har
+: 493 2 11 bor 
+: 496 17 9 sucked 
+: 532 7 9 and 
+: 540 12 13 I 
+: 553 10 11 miss 
+: 564 5 11 you
+* 570 26 9 ~ 
+- 635
+: 732 5 13 I 
+: 738 4 13 need 
+: 743 3 13 you 
+: 747 6 13 like 
+: 754 8 16 Ben 
+: 763 9 11 Aff
+: 773 8 11 leck 
+: 782 11 11 needs 
+: 794 3 11 ac
+: 798 2 16 ting 
+: 801 30 9 school 
+- 831
+: 832 5 9 He 
+: 838 4 11 was 
+: 843 8 13 ter
+: 852 5 13 ri
+: 858 7 11 ble 
+: 866 3 9 in 
+: 870 6 9 that 
+: 877 14 11 film. 
+- 891
+: 892 4 13 I 
+: 897 5 13 need 
+: 903 5 13 you 
+: 909 6 13 like 
+: 916 7 16 Cu
+: 924 4 16 ba 
+: 929 7 11 Goo
+: 937 2 11 ding 
+: 940 2 11 nee
+: 943 2 11 ded 
+: 946 5 11 a 
+: 952 5 11 big
+: 958 6 16 ger 
+: 965 29 9 part 
+- 994
+: 995 5 9 He’s 
+: 1001 5 11 way 
+: 1007 7 13 bet
+: 1015 5 13 ter 
+: 1021 6 11 than 
+: 1028 4 9 Ben 
+: 1033 9 9 Aff
+: 1043 3 11 leck, 
+: 1047 5 8 and 
+: 1053 22 9 now 
+- 1075
+: 1077 4 9 All 
+: 1082 4 9 I 
+: 1087 4 9 can 
+: 1092 11 8 think 
+: 1104 3 9 a
+: 1108 10 4 bout 
+: 1119 4 4 is 
+: 1124 3 13 your 
+* 1128 18 18 smile 
+- 1147
+: 1149 5 14 And 
+: 1155 3 14 that 
+: 1159 4 14 shit
+: 1164 4 14 ty 
+: 1169 8 13 mo
+: 1178 4 14 vie, 
+* 1183 17 9 too 
+- 1209
+: 1213 6 14 Pearl 
+: 1220 3 13 Har
+: 1224 2 11 bor 
+: 1227 29 9 sucked 
+: 1265 5 9 and 
+: 1271 14 13 I 
+: 1286 9 11 miss 
+: 1296 5 11 you
+* 1302 42 9 ~ 
+- 1383
+: 1640 11 14 Why 
+: 1652 5 14 does 
+: 1658 9 13 Mi
+: 1668 9 11 chael 
+: 1678 10 9 Bay 
+: 1689 3 9 get 
+: 1693 3 11 to 
+: 1697 11 14 keep 
+: 1709 9 13 on 
+: 1719 9 13 ma
+: 1729 10 11 king 
+: 1740 6 11 mo
+: 1747 17 9 vies. 
+- 1769
+: 1771 3 9 I 
+: 1775 8 11 guess 
+: 1784 9 14 Pearl 
+: 1794 7 13 Har
+: 1802 5 11 bor 
+* 1808 24 9 sucked 
+- 1851
+: 1880 3 9 Just 
+: 1884 3 9 a 
+: 1888 3 13 lit
+: 1892 3 13 tle 
+: 1896 3 13 bit 
+: 1900 11 13 more 
+: 1912 5 13 than 
+: 1918 9 13 I 
+: 1928 17 8 miss 
+* 1946 30 9 you. 
+E

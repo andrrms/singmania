@@ -1,0 +1,267 @@
+#ARTIST:Creedence Clearwater Revival
+#TITLE:Up Around The Bend
+#MP3:Creedence Clearwater Revival - Up Around The Bend.mp3
+#CREATOR:mustangfred
+#EDITION:Guitar Hero World Tour
+#GENRE:Rock
+#YEAR:1970
+#LANGUAGE:English
+#BPM:389.19
+#GAP:15340
+#VIDEO:a=DX3o1O8ZsTw,co=run-through-the-jungle--up-around-the-bend-5efa0d63d498d.jpg,bg=creedence-clearwater-revival-6416bef9ab71a.jpg
+: 0 5 4 There’s 
+: 6 2 6 a 
+* 12 11 9 place 
+: 24 4 4 up 
+: 30 3 6 a
+: 36 11 9 head 
+: 48 4 4 and 
+: 53 4 6 I’m 
+: 61 10 9 go
+: 72 6 6 in’ 
+- 80
+: 97 4 4 Just 
+: 103 2 6 as 
+* 108 9 9 fast 
+: 120 3 4 as 
+: 124 5 6 my 
+* 133 5 9 feet 
+: 144 6 6 can 
+: 156 8 2 fly 
+- 166
+: 193 4 4 Come 
+: 198 5 6 a
+: 204 9 9 way, 
+: 217 5 4 come 
+: 223 3 6 a
+: 228 12 9 way 
+: 241 4 4 if 
+: 246 2 6 you’re 
+: 253 11 9 go
+: 265 5 6 in’ 
+- 272
+: 289 4 4 Leave 
+* 295 2 6 the 
+* 300 5 9 sin
+* 313 5 9 king 
+: 323 6 9 ship 
+: 336 7 6 be
+: 347 9 2 hind 
+- 358
+: 377 5 7 Come 
+: 384 9 7 on 
+: 396 3 7 the 
+: 401 10 6 ri
+: 413 3 6 sin’ 
+: 420 16 4 wind 
+- 438
+: 467 3 6 We’re 
+: 473 4 7 go
+: 478 2 7 in’ 
+: 481 6 7 up 
+: 492 3 7 a
+* 497 10 6 round 
+: 509 3 6 the 
+: 516 32 4 bend 
+- 550
+: 564 24 9 Ooh! 
+- 590
+: 623 4 4 Bring 
+: 628 2 6 a 
+: 633 12 9 song 
+: 646 5 4 and 
+: 652 1 6 a 
+* 656 10 9 smile 
+: 670 3 9 for 
+: 675 2 9 the 
+* 682 8 9 ban
+: 692 8 6 jo 
+- 702
+: 717 5 4 Bet
+: 723 3 6 ter 
+: 730 4 9 get 
+* 741 11 9 while 
+: 753 2 9 the 
+: 759 4 9 get
+: 766 8 6 tin’s 
+: 778 7 2 good 
+- 787
+: 813 5 4 Hitch 
+: 819 3 6 a 
+: 825 8 9 ride 
+: 837 4 4 to 
+* 842 6 6 the 
+: 849 9 9 end 
+: 861 5 9 of 
+: 868 2 9 the 
+: 873 9 9 high
+: 885 8 6 way 
+- 895
+: 909 5 4 Where 
+: 915 3 6 the 
+: 921 10 9 ne
+* 932 15 9 ons 
+: 950 9 9 turn 
+: 961 4 6 to 
+: 969 11 2 wood 
+- 982
+: 997 5 7 Come 
+: 1003 11 7 on 
+: 1016 3 7 the 
+: 1020 12 6 ri
+: 1033 5 6 sin’ 
+: 1040 16 4 wind 
+- 1058
+: 1087 3 6 We’re 
+: 1093 4 7 go
+* 1098 2 7 in’ 
+: 1101 7 7 up 
+: 1112 4 7 a
+: 1117 11 6 round 
+: 1130 3 6 the 
+: 1136 36 4 bend 
+- 1174
+: 1184 27 9 Ooh! 
+- 1213
+: 1243 3 4 You 
+: 1247 4 6 can 
+: 1254 10 9 pon
+: 1266 2 9 der 
+: 1272 2 6 per
+* 1279 3 9 pe
+: 1290 5 9 tu
+: 1296 3 9 al 
+: 1302 7 9 mo
+: 1312 8 6 tion 
+- 1322
+: 1338 4 4 Fix 
+: 1344 3 6 your 
+: 1350 9 9 mind 
+: 1361 6 9 on 
+: 1369 1 9 a 
+* 1374 5 9 crys
+: 1386 6 6 tal 
+: 1397 9 2 day 
+- 1408
+: 1434 5 4 Al
+: 1440 3 6 ways 
+: 1445 12 9 time 
+: 1463 4 6 for 
+* 1470 5 9 good 
+: 1482 5 9 con
+: 1488 2 9 ver
+: 1493 7 9 sa
+: 1503 9 6 tion 
+- 1514
+: 1529 6 4 There’s 
+: 1536 4 6 an 
+: 1541 8 9 ear 
+: 1552 10 9 for 
+: 1571 3 9 what 
+: 1577 6 6 you 
+: 1588 10 2 say 
+- 1600
+: 1619 5 7 Come 
+: 1625 10 7 on 
+: 1637 3 7 the 
+: 1642 12 6 ri
+: 1655 4 6 sin’ 
+: 1662 14 4 wind 
+- 1678
+: 1709 3 6 We’re 
+: 1714 4 7 go
+: 1719 2 7 in’ 
+: 1722 7 7 up 
+: 1733 5 7 a
+: 1739 8 6 round 
+: 1751 3 6 the 
+: 1758 29 4 bend 
+- 1789
+: 1810 27 9 Yeah! 
+- 1839
+: 2427 25 9 Ooh! 
+- 2454
+: 2486 5 4 Catch 
+: 2492 4 6 a 
+: 2497 12 9 ride 
+: 2510 4 4 to 
+: 2516 4 6 the 
+: 2521 6 9 end 
+* 2533 4 9 of 
+: 2539 2 9 the 
+: 2544 9 9 high
+: 2556 6 6 way 
+- 2564
+: 2581 4 4 And 
+: 2586 5 6 we’ll 
+: 2593 6 9 meet 
+: 2604 11 9 by 
+: 2617 2 9 the 
+: 2623 3 9 big 
+: 2629 6 6 red 
+: 2640 9 2 tree 
+- 2651
+: 2676 5 4 There’s 
+: 2682 2 6 a 
+: 2688 10 9 place 
+: 2701 4 4 up 
+: 2706 3 6 a
+* 2712 11 9 head 
+: 2724 4 4 and 
+: 2729 3 6 I’m 
+: 2737 9 9 go
+: 2747 7 6 in’ 
+- 2756
+: 2772 4 4 Come 
+: 2777 3 6 a
+: 2783 9 9 long, 
+* 2796 4 4 come 
+: 2802 2 6 a
+: 2808 8 9 long 
+: 2820 6 6 with 
+: 2831 9 2 me 
+- 2842
+: 2861 5 7 Come 
+: 2867 11 7 on 
+: 2880 3 7 the 
+: 2884 11 6 ri
+: 2897 4 6 sin’ 
+: 2904 16 4 wind 
+- 2922
+: 2951 3 6 We’re 
+: 2956 4 7 go
+: 2961 2 7 in’ 
+: 2964 7 7 up 
+: 2975 4 7 a
+: 2980 11 6 round 
+: 2993 2 6 the 
+: 3000 33 4 bend 
+- 3035
+: 3053 26 9 Yeah! 
+- 3081
+: 3142 3 9 Doo, 
+: 3153 5 9 Doo, 
+: 3165 11 9 doo, 
+: 3177 6 6 doo 
+- 3185
+: 3237 5 9 Doo, 
+: 3248 5 9 Doo, 
+: 3260 12 9 doo, 
+: 3273 5 6 doo, 
+: 3284 3 2 doo 
+- 3289
+: 3345 4 9 Doo, 
+: 3357 11 9 doo, 
+: 3369 4 6 doo 
+- 3375
+: 3429 4 9 Doo, 
+: 3441 3 9 Doo, 
+: 3452 11 9 doo, 
+: 3464 3 11 doo, 
+: 3475 11 6 yeah 
+- 3488
+F 3524 3 9 Doo, 
+F 3537 4 9 Doo, 
+F 3549 10 9 doo, 
+F 3560 4 6 doo 
+E

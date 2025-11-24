@@ -1,0 +1,126 @@
+#ARTIST:Louis Armstrong
+#TITLE:La vie en rose
+#MP3:Louis Armstrong - La vie en rose.mp3
+#CREATOR:Loewy159
+#COVER:Louis Armstrong - La vie en rose [CO].jpg
+#BACKGROUND:Louis Armstrong - La vie en rose [BG].jpg
+#GENRE:Jazz
+#YEAR:1950
+#LANGUAGE:English
+#BPM:317
+#GAP:94970
+#VIDEO:v=9n-hyA2-FDg,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/17/32/f6173272-70ac-09db-c500-9bb0f35310e5/mzi.vrdjmjsg.jpg/5000x5000bb.jpg,preview=94.97,medley=0-552
+#START:67
+: 0 23 24 Hold
+: 27 4 23  me
+: 32 14 21  close
+: 49 3 19  and
+: 53 10 16  hold
+: 64 5 24  me
+: 72 12 23  fast
+- 94
+: 101 3 21 The
+: 108 4 19  ma
+: 113 2 16 gic
+: 119 13 12  spell
+* 137 4 23  you
+: 144 15 21  cast
+- 169
+: 176 4 19 This
+: 181 9 16  is
+: 194 8 11  La
+: 203 4 12  vie
+: 211 9 23  en
+: 221 19 21  ro
+: 241 17 19 se
+- 268
+: 285 23 26 When
+: 318 4 24  you
+: 324 4 23  kiss
+: 331 12 21  me,
+* 347 4 17  hea
+* 354 4 24 ven
+: 361 19 23  sighs
+- 388
+: 391 6 21 And
+: 398 11 19  though
+: 410 7 17  I
+: 419 5 14  close
+: 426 7 23  my
+: 435 18 21  eyes
+- 462
+: 465 5 19 I
+: 472 11 17  see
+* 486 6 13  La
+* 494 4 14  vie
+: 504 5 23  en
+: 511 18 21  ro
+: 534 18 19 se
+- 562
+: 578 22 24 When
+* 608 6 23  you
+* 616 3 21  press
+* 622 9 19  me
+: 635 7 16  to
+: 644 7 24  your
+: 652 16 23  heart
+- 678
+: 682 4 21 I’m
+: 690 3 19  in
+: 694 3 16  a
+: 698 10 12  world
+: 719 3 23  a
+: 724 11 21 part
+- 745
+: 754 5 19 A
+: 760 12 16  world
+: 773 5 11  where
+: 779 5 12  ro
+: 786 7 24 ses
+: 795 47 24  bloom
+- 852
+: 865 3 26 And
+: 870 8 26  when
+: 879 7 24  you
+: 888 14 26  speak,
+: 909 5 26  an
+: 915 14 26 gels
+: 941 11 26  sing
+: 956 3 26  from
+: 960 3 24  a
+: 964 17 19 bove
+- 991
+: 1013 4 26 E
+: 1018 6 26 very
+: 1026 5 26  day
+: 1033 11 26  words
+: 1049 12 26  seem
+: 1088 3 24  to
+: 1093 5 28  turn
+: 1099 6 28  in
+: 1107 2 28  to
+: 1110 6 28  love
+: 1118 14 28  so
+: 1133 21 23 ~ngs
+- 1156
+: 1158 9 24 Give
+: 1184 9 23  your
+: 1194 5 21  heart
+: 1201 2 19  and
+: 1206 16 16  soul
+* 1225 5 24  to
+* 1232 9 23  me
+- 1253
+: 1257 7 21 And
+: 1265 10 19  life
+: 1280 3 16  will
+: 1285 8 23  al
+: 1294 9 19 ways
+* 1305 4 23  be
+* 1310 8 21 ~
+- 1328
+: 1344 15 24 La
+: 1364 6 23  vie
+: 1374 5 24  en
+: 1381 23 24  rose
+E

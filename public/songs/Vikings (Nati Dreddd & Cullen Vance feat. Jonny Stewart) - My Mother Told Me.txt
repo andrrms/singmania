@@ -1,0 +1,277 @@
+#ARTIST:Vikings (Nati Dreddd & Cullen Vance feat. Jonny Stewart)
+#TITLE:My Mother Told Me
+#MP3:Vikings (Nati Dreddd & Cullen Vance feat. Jonny Stewart) - My Mother Told Me.mp3
+#CREATOR:Fepo
+#COVER:Vikings (Nati Dreddd & Cullen Vance feat. Jonny Stewart) - My Mother Told Me [CO].jpg
+#BACKGROUND:Vikings (Nati Dreddd & Cullen Vance feat. Jonny Stewart) - My Mother Told Me [BG].jpg
+#GENRE:Folk
+#YEAR:2021
+#LANGUAGE:English
+#BPM:378.76
+#GAP:6300
+#VIDEO:v=rjvnq8FU1w8,co=my-mother-told-me-691b569235500.jpg,medley=0-1492
+: 0 14 8 My 
+: 18 3 6 mo
+* 22 3 4 ~
+* 28 4 3 ther 
+* 37 11 4 to
+: 50 4 1 ~ld 
+: 56 10 1 me 
+- 68
+: 77 8 6 Some
+: 87 4 6 day 
+: 97 6 6 I 
+: 105 8 9 would 
+: 116 20 8 buy 
+- 138
+: 154 4 8 Gal
+: 160 9 8 leys 
+: 174 3 6 wi
+: 178 3 4 ~th 
+: 184 7 3 good 
+: 194 15 4 oars 
+: 213 7 1 and 
+- 222
+: 232 5 1 Sails 
+: 241 5 1 to 
+: 250 5 -1 dis
+: 260 6 -1 tant 
+: 270 18 1 shores 
+- 290
+: 310 7 8 Stand 
+: 320 5 8 up 
+: 330 3 6 hi
+: 334 3 4 ~gh 
+: 339 2 3 in 
+: 342 2 3 the 
+* 347 16 4 prow 
+- 365
+: 387 2 4 No
+: 391 2 6 ~
+: 396 6 6 ble 
+: 406 6 6 barque 
+: 415 6 9 I 
+: 426 12 8 stee
+: 440 4 6 ~r 
+- 446
+: 465 3 6 Stea
+: 470 11 8 dy 
+: 484 6 4 course 
+: 493 3 3 for 
+: 498 3 3 the 
+: 505 10 4 ha
+: 517 3 1 ~
+: 522 10 1 vens 
+- 534
+: 544 9 1 He
+: 555 3 -1 ~w 
+: 560 10 -1 ma
+: 572 5 -1 ny 
+: 581 9 1 fo-
+: 592 9 1 men 
+- 603
+: 622 9 1 He
+: 633 3 -1 ~w 
+: 638 10 -1 ma
+: 650 5 -1 ny 
+: 659 9 1 fo-
+: 670 9 1 men 
+- 681
+: 819 9 8 My 
+: 833 3 6 mo
+* 837 3 4 ~
+* 843 4 3 ther 
+* 852 13 4 to
+: 867 3 1 ~ld 
+: 873 10 1 me 
+- 885
+: 892 8 6 Some
+: 902 4 6 day 
+: 912 6 6 I 
+: 920 8 9 would 
+: 931 20 8 buy 
+- 953
+: 970 4 8 Gal
+: 976 9 8 leys 
+: 990 3 6 wi
+: 994 3 4 ~th 
+: 1000 7 3 good 
+: 1010 15 4 oars 
+: 1029 7 1 and 
+- 1038
+: 1048 5 1 Sails 
+: 1057 5 1 to 
+: 1066 5 -1 dis
+: 1076 6 -1 tant 
+: 1086 18 1 shores 
+- 1106
+: 1125 7 8 Stand 
+: 1135 5 8 up 
+: 1145 3 6 hi
+: 1149 3 4 ~gh 
+: 1154 2 3 in 
+: 1157 2 3 the 
+* 1162 16 4 prow 
+- 1180
+: 1202 6 6 No
+: 1211 6 6 ble 
+: 1221 6 6 barque 
+: 1230 6 9 I 
+: 1241 12 8 stee
+: 1255 4 6 ~r 
+- 1261
+: 1282 3 6 Stea
+: 1287 11 8 dy 
+: 1301 6 4 course 
+: 1310 3 3 for 
+: 1315 3 3 the 
+: 1322 10 4 ha
+: 1334 3 1 ~
+: 1339 10 1 vens 
+- 1351
+: 1358 14 1 Hew 
+: 1377 5 -1 ma
+: 1384 4 -1 ny 
+: 1397 7 1 fo-
+: 1406 6 1 men 
+- 1414
+: 1440 9 1 He
+: 1451 3 -1 ~w 
+: 1456 6 -1 ma
+: 1464 5 -1 ny 
+: 1474 9 1 fo-
+: 1485 7 1 men 
+- 1494
+: 2213 16 8 My 
+: 2232 3 6 mo
+* 2236 3 4 ~
+* 2242 4 3 ther 
+* 2251 13 4 to
+: 2266 3 1 ~ld 
+: 2272 10 1 me 
+- 2284
+: 2293 6 6 Some
+: 2301 4 6 day 
+: 2311 6 6 I 
+: 2319 8 9 would 
+: 2330 20 8 buy 
+- 2352
+: 2368 4 8 Gal
+: 2374 9 8 leys 
+: 2388 3 6 wi
+: 2392 3 4 ~th 
+: 2398 7 3 good 
+: 2408 15 4 oars 
+: 2427 7 1 and 
+- 2436
+: 2446 5 1 Sails 
+: 2455 5 1 to 
+: 2464 5 -1 dis
+: 2474 6 -1 tant 
+: 2484 18 1 shores 
+- 2504
+: 2525 7 8 Stand 
+: 2535 5 8 up 
+: 2545 3 6 hi
+: 2549 3 4 ~gh 
+: 2554 2 3 in 
+: 2557 2 3 the 
+* 2562 16 4 prow 
+- 2580
+: 2601 6 6 No
+: 2610 6 6 ble 
+: 2620 6 6 barque 
+: 2629 6 9 I 
+: 2640 12 8 stee
+: 2654 4 6 ~r 
+- 2660
+: 2681 3 6 Stea
+: 2686 11 8 dy 
+: 2700 6 4 course 
+: 2709 3 3 for 
+: 2714 3 3 the 
+: 2721 10 4 ha
+: 2733 3 1 ~
+: 2738 10 1 vens 
+- 2750
+: 2756 14 1 Hew 
+: 2775 8 -1 ma
+: 2785 4 -1 ny 
+: 2794 9 1 fo-
+: 2805 8 1 men 
+- 2815
+: 2839 10 8 My 
+: 2853 3 6 mo
+* 2858 3 4 ~
+* 2864 4 3 ther 
+* 2872 13 4 to
+: 2887 3 1 ~ld 
+: 2893 10 1 me 
+- 2905
+: 2912 8 6 Some
+: 2922 4 6 day 
+: 2932 6 6 I 
+: 2940 8 9 would 
+: 2951 20 8 buy 
+- 2973
+: 2991 4 8 Gal
+: 2997 9 8 leys 
+: 3011 3 6 wi
+: 3015 3 4 ~th 
+: 3021 7 3 good 
+: 3031 15 4 oars 
+: 3050 7 1 and 
+- 3059
+: 3070 5 1 Sails 
+: 3079 5 1 to 
+: 3088 5 -1 dis
+: 3098 6 -1 tant 
+: 3108 18 1 shores 
+- 3128
+: 3146 7 8 Stand 
+: 3156 5 8 up 
+: 3166 3 6 hi
+: 3170 3 4 ~gh 
+: 3175 2 3 in 
+: 3178 2 3 the 
+* 3183 16 4 prow 
+- 3201
+: 3225 6 6 No
+: 3234 6 6 ble 
+: 3244 6 6 barque 
+: 3253 6 9 I 
+: 3264 12 8 stee
+: 3278 4 6 ~r 
+- 3284
+: 3301 3 6 Stea
+: 3306 11 8 dy 
+: 3320 6 4 course 
+: 3329 3 3 for 
+: 3334 3 3 the 
+: 3341 10 4 ha
+: 3353 3 1 ~
+: 3358 10 1 vens 
+- 3370
+: 3384 9 1 He
+: 3395 3 -1 ~w 
+: 3400 6 -1 ma
+: 3408 7 -1 ny 
+: 3420 5 1 fo-
+: 3427 8 1 men 
+- 3437
+: 3459 9 1 He
+: 3470 3 -1 ~w 
+: 3475 8 -1 ma
+: 3485 7 -1 ny 
+: 3497 5 1 fo-
+: 3504 8 1 men 
+- 3514
+: 3540 20 1 He
+: 3562 3 1 ~
+: 3567 6 -1 ~w 
+: 3576 13 -1 ma
+: 3591 10 -1 ny 
+: 3610 3 -1 fo
+: 3615 8 1 ~-
+: 3625 25 1 men 
+E

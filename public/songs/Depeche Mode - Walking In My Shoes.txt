@@ -1,0 +1,418 @@
+#ARTIST:Depeche Mode
+#TITLE:Walking In My Shoes
+#MP3:Depeche Mode - Walking In My Shoes.mp3
+#CREATOR:evil2k17, Klafhor
+#YEAR:1993
+#LANGUAGE:English
+#BPM:239.85
+#GAP:25840
+#VIDEO:v=y7NKruyaIEs,co=https://www.depechemode.de/wp-content/uploads/2011/06/depeche-mode-walking-in-my-shoes.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 2 7 I 
+: 3 1 5 would 
+: 5 1 7 tell 
+: 7 2 7 you 
+: 10 1 7 a
+: 12 2 5 bout 
+* 15 1 7 the 
+* 17 1 7 things 
+- 19
+: 21 2 5 They 
+: 24 2 7 put 
+: 28 2 5 me 
+: 33 6 9 through 
+- 41
+: 44 1 2 The 
+: 46 5 9 pain 
+: 52 2 7 I’ve 
+: 56 4 5 been 
+: 62 1 2 sub
+: 64 3 5 jec
+: 70 2 2 ted 
+* 75 9 2 to 
+- 86
+: 92 2 7 But 
+: 96 1 7 the 
+: 98 2 7 Lord 
+: 102 2 5 him
+* 108 5 7 self 
+: 114 3 5 wou
+: 118 2 2 ~ld 
+: 124 12 2 blush 
+- 138
+: 166 2 5 The 
+: 170 2 7 count
+: 174 2 5 less 
+: 180 2 7 feasts 
+: 185 3 5 laid 
+: 190 1 7 at 
+: 194 2 5 my 
+: 199 4 9 feet 
+- 205
+* 208 2 9 For
+: 211 2 9 bid
+: 214 3 7 den 
+: 220 3 5 fruits 
+: 225 3 2 for 
+: 229 4 5 me 
+: 234 4 2 to 
+: 239 7 2 eat 
+- 248
+: 256 1 7 But 
+: 258 2 7 I 
+: 262 2 7 think 
+* 267 3 5 your 
+: 272 3 7 pulse 
+: 276 2 5 would 
+: 282 2 7 start 
+: 286 2 9 to 
+* 290 8 5 rush 
+- 300
+: 339 4 7 Now 
+: 344 3 7 I’m 
+: 348 4 5 not 
+: 354 3 7 loo
+: 359 3 5 kin’ 
+: 364 4 7 for 
+- 370
+: 374 8 9 Ab
+: 384 4 7 so
+: 390 8 7 lu
+: 400 10 5 tion 
+- 412
+: 430 4 7 For
+: 436 4 7 give
+: 441 4 5 ness 
+: 446 5 7 for 
+: 452 3 5 the 
+: 457 6 9 things 
+: 465 4 2 I 
+: 473 9 2 do 
+- 484
+: 508 4 7 But 
+: 514 3 5 be
+: 518 4 7 fore 
+: 524 3 5 you 
+: 528 4 7 come 
+: 534 3 5 to 
+: 538 2 9 a
+: 544 4 9 ny 
+: 550 2 7 con
+: 554 8 7 clu
+* 564 10 5 sions 
+- 576
+: 595 3 8 Try 
+: 600 4 8 wal
+: 606 3 7 king 
+* 610 2 5 in 
+: 616 8 7 my 
+: 626 12 2 shoes 
+- 640
+: 677 3 9 Try 
+: 682 4 9 wal
+: 688 3 7 king 
+: 692 2 5 in 
+: 698 9 7 my 
+: 708 6 2 shoes 
+- 715
+: 717 4 9 You’ll 
+: 723 3 9 stum
+: 727 2 7 ble 
+: 733 3 5 in 
+: 738 3 7 my 
+: 743 9 7 foot
+: 753 12 2 steps 
+- 767
+: 794 3 9 Keep 
+: 798 2 9 the 
+* 802 6 9 same 
+: 810 3 7 ap
+: 815 3 5 point
+: 820 3 7 ments 
+: 826 6 7 I 
+: 836 12 2 kept 
+- 850
+: 871 4 9 If 
+: 877 4 9 you 
+: 882 4 9 try 
+: 887 4 9 wal
+* 893 3 7 king 
+: 897 4 5 in 
+* 903 13 7 my 
+: 917 15 2 shoes 
+- 934
+: 953 3 9 If 
+: 958 3 9 you 
+: 963 4 9 try 
+: 969 4 9 wal
+: 975 3 7 king 
+: 979 2 5 in 
+: 985 13 7 my 
+: 999 21 2 shoes 
+- 1022
+* 1233 2 2 Mo
+: 1237 1 7 ra
+: 1239 2 5 li
+* 1245 4 7 ty 
+: 1251 2 5 would 
+: 1257 3 7 frown 
+: 1261 2 5 u
+: 1265 4 9 pon 
+- 1271
+: 1277 5 9 De
+: 1283 2 7 cen
+: 1287 4 5 cy 
+: 1293 3 2 looked 
+: 1297 4 5 down 
+: 1303 2 2 u
+: 1306 6 2 pon 
+- 1314
+: 1323 2 7 The 
+: 1327 4 7 scape
+: 1333 4 7 goat 
+: 1339 3 7 fate’s 
+: 1343 4 5 made 
+* 1349 2 2 of 
+: 1353 12 2 me 
+- 1367
+: 1395 1 7 But 
+* 1397 1 5 I 
+: 1399 3 7 pro
+: 1403 4 5 mise 
+: 1409 3 7 now 
+- 1414
+: 1417 2 5 My 
+: 1421 2 7 judge 
+: 1424 1 5 and 
+* 1427 3 9 ju
+: 1431 2 9 rors, 
+: 1435 2 9 my 
+: 1439 1 9 in
+: 1441 4 9 ten
+: 1446 3 7 tions 
+- 1450
+: 1452 2 5 Coul
+: 1455 2 2 dn’t 
+* 1459 3 5 have 
+: 1466 5 2 been 
+: 1472 4 0 pu
+: 1477 5 2 rer 
+- 1484
+: 1487 2 7 My 
+: 1491 4 7 case 
+: 1498 2 5 is 
+: 1502 4 7 ea
+: 1507 4 7 sy 
+* 1513 3 9 to 
+: 1517 7 5 see 
+- 1526
+: 1573 4 7 I’m 
+: 1579 3 5 not 
+: 1583 4 7 loo
+: 1589 3 5 king 
+: 1593 4 7 for 
+: 1599 4 5 a 
+: 1605 9 9 clea
+: 1615 2 7 rer 
+: 1620 9 7 con
+: 1631 12 5 science 
+- 1645
+: 1656 4 7 Peace 
+: 1662 3 5 of 
+: 1666 4 7 mind 
+: 1672 3 5 af
+: 1676 4 7 ter 
+: 1682 3 5 what 
+: 1686 9 9 I’ve 
+: 1696 4 2 been 
+: 1702 12 2 through 
+- 1716
+: 1738 3 7 And 
+: 1742 4 5 be
+: 1748 4 7 fore 
+: 1754 3 5 we 
+: 1758 4 7 talk 
+: 1764 3 5 of 
+: 1768 4 9 a
+: 1774 3 9 ny 
+* 1778 4 7 re
+: 1784 8 7 pen
+: 1794 12 5 tance 
+- 1808
+: 1824 4 8 Try 
+: 1830 4 8 wal
+: 1836 4 7 king 
+: 1841 3 5 in 
+: 1846 9 7 my 
+: 1856 12 2 shoes 
+- 1870
+: 1906 4 9 Try 
+: 1912 4 9 wal
+: 1917 4 7 king 
+* 1922 3 5 in 
+: 1927 8 7 my 
+: 1936 8 2 shoes 
+- 1946
+: 1949 3 9 You’ll 
+: 1953 5 9 stum
+: 1959 3 7 ble 
+: 1963 4 5 in 
+: 1969 3 7 my 
+: 1974 8 7 foot
+: 1984 12 2 steps 
+- 1998
+: 2025 3 9 Keep 
+: 2029 2 9 the 
+: 2033 7 9 same 
+: 2041 3 7 ap
+: 2045 4 5 point
+: 2051 4 7 ments 
+: 2057 7 7 I 
+: 2065 12 2 kept 
+- 2079
+: 2101 4 9 If 
+: 2107 3 9 you 
+: 2111 4 9 try 
+: 2117 4 9 wal
+* 2122 4 7 king 
+: 2127 4 5 in 
+: 2133 13 7 my 
+: 2147 12 2 shoes 
+- 2161
+* 2183 4 9 If 
+: 2189 3 9 you 
+: 2193 4 9 try 
+: 2199 4 9 wal
+* 2204 4 7 king 
+: 2209 3 5 in 
+: 2215 12 7 my 
+: 2229 12 2 shoes 
+- 2243
+: 2276 3 9 Try 
+: 2281 5 9 wal
+: 2287 3 7 king 
+: 2291 3 5 in 
+: 2296 13 7 my 
+: 2310 12 2 shoes 
+- 2324
+: 2636 3 5 Now 
+: 2640 4 7 I’m 
+: 2645 4 5 not 
+: 2650 4 7 loo
+: 2655 4 5 king 
+: 2661 5 7 for 
+- 2668
+: 2671 9 9 Ab
+: 2681 4 7 so
+: 2686 8 7 lu
+: 2695 12 5 tion 
+- 2709
+: 2727 2 5 For
+: 2731 4 7 give
+: 2736 4 5 ness 
+* 2741 5 7 for 
+: 2747 3 5 the 
+: 2752 9 9 things 
+: 2763 3 2 I 
+: 2768 10 2 do 
+- 2780
+: 2803 4 7 But 
+: 2809 3 5 be
+* 2814 4 7 fore 
+: 2819 3 5 you 
+: 2824 4 7 come 
+: 2830 3 5 to 
+: 2834 2 9 a
+: 2840 3 9 ny 
+: 2845 3 7 con
+: 2850 8 7 clu
+* 2860 12 5 sions 
+- 2874
+: 2889 4 8 Try 
+: 2895 4 8 wal
+: 2900 4 7 king 
+: 2905 4 5 in 
+: 2911 8 7 my 
+: 2921 12 2 shoes 
+- 2935
+* 2972 3 9 Try 
+* 2977 5 9 wal
+: 2983 4 7 king 
+: 2988 2 5 in 
+: 2993 8 7 my 
+* 3003 6 2 shoes 
+- 3011
+: 3013 3 9 You’ll 
+: 3018 4 9 stum
+: 3024 3 7 ble 
+: 3028 4 5 in 
+: 3034 2 7 my 
+: 3039 8 7 foot
+: 3050 10 2 steps 
+- 3062
+: 3090 4 9 Keep 
+* 3095 2 9 the 
+: 3098 7 9 same 
+: 3107 2 7 ap
+: 3111 4 5 point
+* 3117 4 7 ments 
+: 3122 6 7 I 
+: 3130 12 2 kept 
+- 3144
+: 3166 4 9 If 
+: 3172 3 9 you 
+: 3177 3 9 try 
+: 3182 4 9 wal
+: 3187 4 7 king 
+* 3192 4 5 in 
+: 3199 12 7 my 
+: 3212 12 2 shoes 
+- 3226
+: 3260 3 9 You’ll 
+: 3265 4 9 stum
+: 3270 3 7 ble 
+: 3275 3 5 in 
+: 3280 3 7 my 
+: 3285 9 7 foot
+: 3295 12 2 steps 
+- 3309
+: 3337 3 9 Keep 
+: 3341 2 9 the 
+: 3344 6 9 same 
+: 3351 4 7 ap
+: 3357 4 5 point
+: 3362 4 7 ments 
+: 3367 8 7 I 
+: 3377 12 2 kept 
+- 3391
+: 3413 4 9 If 
+: 3418 3 9 you 
+: 3423 5 9 try 
+: 3429 5 9 wal
+: 3435 3 7 king 
+: 3439 3 5 in 
+: 3445 12 7 my 
+: 3459 12 2 shoes 
+- 3473
+: 3505 3 9 Try 
+: 3510 5 9 wal
+: 3516 3 7 king 
+: 3520 4 5 in 
+: 3527 12 7 my 
+: 3541 12 2 shoes 
+- 3555
+: 3578 3 9 If 
+: 3582 3 9 you 
+: 3587 4 9 try 
+: 3592 4 9 wal
+: 3598 3 7 king 
+: 3602 3 5 in 
+: 3608 12 7 my 
+: 3622 12 2 shoes 
+- 3636
+: 3669 4 9 Try 
+: 3674 6 9 wal
+: 3681 4 7 king 
+: 3686 3 5 in 
+: 3691 15 7 my 
+: 3709 12 2 shoes 
+E

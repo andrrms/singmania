@@ -1,0 +1,229 @@
+#ARTIST:Sixpence None The Richer
+#TITLE:My Dear Machine
+#MP3:Sixpence None The Richer - My Dear Machine.mp3
+#CREATOR:lava
+#YEAR:2008
+#LANGUAGE:English
+#BPM:300
+#GAP:16350
+#VIDEO:v=uTA_6rOmmHQ,co=https://i.discogs.com/8nK4-hIPrwUWfyCBIkX98rqFIhG9aaOsiP4VOJ8-RZ4/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQx/OTgtMTIyOTQ3NDI5/My5qcGVn.jpeg,bg=sixpence-none-the-richer-516a1db446f6a.jpg
+: 0 3 9 I 
+: 4 5 12 broke 
+: 10 3 9 the 
+: 15 13 14 trust 
+- 29
+: 30 3 9 And 
+: 34 5 12 let 
+: 40 3 14 you 
+: 45 18 9 rust 
+- 65
+: 69 5 16 So 
+: 75 5 16 sor
+: 81 9 9 ry 
+: 91 4 9 my 
+: 96 7 12 dear 
+: 106 3 14 ma
+: 110 21 16 chine 
+- 133
+: 167 4 12 Bro
+: 172 5 9 ken 
+: 178 9 14 down 
+: 188 3 9 to 
+: 197 5 12 mud
+: 203 5 14 dy 
+: 209 12 9 brown 
+- 223
+: 230 3 16 What 
+: 234 3 16 a 
+: 238 8 16 dis
+: 247 6 9 mal 
+: 254 9 12 back
+: 264 8 14 yard 
+: 273 19 16 scene 
+- 294
+* 324 4 9 My 
+* 329 4 9 dear 
+* 334 4 9 ma
+* 339 11 9 chine’s 
+* 351 8 -3 been 
+: 360 4 -3 id
+: 365 4 -3 le 
+: 370 4 -1 so 
+: 375 9 1 long 
+- 386
+: 387 4 -1 Now 
+: 392 3 -3 it’s 
+: 396 3 6 time 
+: 400 9 7 ~ 
+: 410 5 6 for 
+: 416 4 4 a
+: 421 4 2 no
+: 426 4 4 ther 
+: 431 22 4 drive 
+- 455
+: 477 4 6 Please 
+: 482 9 7 ~ 
+: 493 4 6 can 
+: 498 4 4 you 
+: 503 4 2 take 
+: 508 4 4 me 
+: 513 9 6 where 
+: 523 4 -3 I 
+: 528 3 -3 wan
+: 532 5 -1 na 
+: 538 6 1 go 
+- 546
+: 549 4 1 Though 
+: 554 3 1 I 
+: 558 5 -1 let 
+: 564 5 -3 you 
+: 570 28 -1 rust 
+- 600
+: 615 9 9 My 
+: 625 7 14 dear 
+: 633 3 9 ma
+* 637 32 13 chine 
+- 671
+: 815 3 9 And 
+: 819 4 12 if 
+: 824 4 9 I 
+: 829 12 14 must 
+- 842
+: 843 4 9 I 
+: 848 5 12 will 
+: 854 3 14 ad
+: 858 20 9 just 
+- 880
+: 884 4 16 My 
+: 889 5 16 me
+: 895 9 9 thods 
+: 905 4 9 my 
+: 910 8 12 dear 
+: 919 5 14 ma
+: 925 20 16 chine 
+- 947
+: 975 4 9 No 
+: 980 5 12 more 
+: 986 4 9 neg
+: 991 12 14 lect 
+- 1005
+: 1006 4 9 Deami
+: 1011 4 12 ly 
+: 1016 4 14 res
+: 1021 12 9 pect 
+- 1035
+: 1042 4 16 And 
+: 1047 3 16 the 
+: 1051 7 16 road 
+: 1059 7 9 that 
+: 1067 4 9 will 
+: 1072 9 12 ne
+: 1082 6 14 ver 
+: 1089 18 16 end 
+- 1109
+: 1137 6 9 My 
+: 1144 4 9 dear 
+: 1149 3 9 ma
+: 1153 10 9 chine’s 
+: 1164 8 -3 been 
+: 1173 5 -3 id
+: 1179 3 -3 le 
+: 1183 5 -1 so 
+: 1189 8 1 long 
+- 1199
+: 1200 5 -1 Now 
+: 1206 3 -3 it’s 
+: 1210 3 6 time 
+: 1214 9 7 ~ 
+: 1224 5 6 for 
+: 1230 4 4 a
+: 1235 4 2 no
+: 1240 4 4 ther 
+: 1245 17 4 drive 
+- 1264
+: 1290 4 6 Please 
+: 1295 10 7 ~ 
+: 1306 4 6 can 
+: 1311 4 4 you 
+: 1316 3 2 take 
+: 1320 4 4 me 
+* 1325 10 6 where 
+* 1336 4 -3 I 
+* 1341 5 -3 wan
+* 1347 4 -1 na 
+* 1352 6 1 go 
+- 1360
+: 1363 4 1 Though 
+: 1368 3 1 I 
+: 1372 5 -1 let 
+: 1378 5 -3 you 
+: 1384 36 -1 rust 
+- 1422
+: 1428 9 9 My 
+: 1438 8 14 dear 
+: 1447 5 9 ma
+: 1453 10 13 chine 
+- 1465
+: 1514 5 9 My 
+: 1520 8 14 dear 
+: 1529 3 16 ma
+: 1533 33 13 chine 
+- 1568
+: 1952 4 9 My 
+: 1957 4 9 dear 
+: 1962 2 9 ma
+: 1965 12 9 chine’s 
+: 1978 8 -3 been 
+: 1987 4 -3 id
+: 1992 4 -3 le 
+: 1997 4 -1 so 
+: 2002 11 1 long 
+- 2014
+: 2014 4 -1 Now 
+: 2019 4 -3 it’s 
+: 2024 3 6 time 
+: 2028 10 7 ~ 
+: 2039 4 6 for 
+: 2044 3 4 a
+: 2048 4 2 no
+: 2053 4 4 ther 
+: 2058 26 4 drive 
+- 2086
+: 2105 3 6 Please 
+: 2109 9 7 ~ 
+: 2119 5 6 can 
+: 2125 3 4 you 
+: 2129 5 2 take 
+: 2135 3 4 me 
+: 2139 10 6 where 
+: 2150 6 -3 I 
+: 2157 3 -3 wan
+: 2161 4 -1 na 
+: 2166 8 1 go 
+- 2175
+: 2176 4 1 Though 
+: 2181 3 1 I 
+: 2185 6 -1 let 
+: 2192 5 -3 you 
+: 2198 27 -1 rust 
+- 2227
+: 2241 10 9 My 
+: 2252 8 14 dear 
+: 2261 4 9 ma
+: 2266 31 13 chine 
+- 2299
+: 2328 4 9 My 
+: 2333 9 14 dear 
+: 2343 4 16 ma
+: 2348 28 13 chine 
+- 2378
+: 2404 9 9 My 
+: 2414 9 14 dear 
+: 2424 4 9 ma
+: 2429 27 13 chine 
+- 2458
+* 2490 5 9 My 
+* 2496 8 14 dear 
+* 2505 4 16 ma
+* 2510 28 13 chine 
+E

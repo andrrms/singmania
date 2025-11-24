@@ -1,0 +1,216 @@
+#ARTIST:Scooter
+#TITLE:Friends Turbo
+#MP3:Scooter - Friends Turbo.mp3
+#CREATOR:Leroidukitch
+#YEAR:2011
+#LANGUAGE:English
+#BPM:351.7
+#GAP:6260
+#VIDEO:v=hRqAOyXL15Q,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/1f/b3/771fb36d-e102-b977-0de9-b9d555c8545a/23UMGIM17866.rgb.jpg/5000x5000bb.jpg
+F 0 8 0 Hi 
+F 16 8 0 Scooter 
+- 26
+: 201 5 3 Skip 
+: 208 4 3 the 
+: 213 4 3 in
+: 221 5 3 tro! 
+- 228
+: 386 3 4 We 
+: 390 4 4 got 
+: 395 3 4 the 
+: 399 3 4 tur
+: 403 4 4 bo 
+- 409
+: 424 4 4 One, 
+: 439 4 4 two, 
+: 456 4 4 one 
+: 464 4 4 two 
+: 471 4 4 three 
+* 479 5 4 four! 
+- 486
+: 710 3 3 We 
+: 714 6 3 gon
+: 721 4 3 na 
+: 728 2 3 hit 
+: 731 3 3 you 
+: 735 3 3 har
+: 739 5 3 der! 
+- 746
+: 874 6 3 Come 
+: 881 4 3 on, 
+: 888 4 3 come 
+: 893 3 3 on! 
+- 898
+: 972 14 3 Yeah! 
+- 988
+: 1002 5 3 Chicks 
+: 1009 4 3 in 
+: 1014 3 3 mo
+: 1018 5 3 tion 
+- 1025
+: 1062 5 3 A
+: 1068 6 3 cross 
+: 1079 3 3 the 
+: 1083 5 3 ocean 
+- 1090
+: 1126 4 3 We 
+: 1131 3 3 start 
+: 1135 5 3 the 
+: 1141 3 3 par
+: 1145 6 3 ty 
+- 1153
+: 1191 4 3 So 
+: 1196 3 3 come 
+: 1200 4 3 on 
+: 1205 3 3 eve
+: 1209 4 3 ry
+: 1214 3 3 bo
+: 1219 4 3 dy, 
+: 1229 14 3 yeahhhh! 
+- 1245
+: 1629 13 0 Friends, 
+: 1674 7 0 we’ll 
+: 1684 5 -5 be 
+: 1692 7 -3 friends 
+- 1701
+: 1736 6 5 We’ll 
+: 1745 6 1 be 
+* 1755 6 4 friends 
+- 1763
+: 1803 6 3 We’ll 
+: 1812 6 0 be 
+: 1820 6 0 friends 
+- 1828
+: 1882 11 0 Friends, 
+: 1928 10 0 we’ll 
+: 1939 7 -5 be 
+: 1947 11 -3 friends 
+- 1960
+: 1992 8 4 We’ll 
+: 2001 8 1 be 
+: 2010 8 5 friends 
+- 2020
+: 2056 8 2 We’ll 
+: 2066 8 0 be 
+: 2076 8 0 friends 
+- 2086
+: 2122 12 7 BASS! 
+- 2136
+: 2149 9 0 Friends, 
+: 2185 7 -2 we’ll 
+: 2193 8 -4 be 
+: 2202 9 7 friends 
+- 2213
+: 2247 8 6 We’ll 
+: 2256 8 1 be 
+: 2265 8 2 friends 
+- 2275
+: 2311 8 2 We’ll 
+: 2321 8 0 be 
+* 2331 8 0 friends 
+- 2341
+F 2366 6 0 Woah! 
+F 2389 3 0 Huh 
+F 2393 5 0 oh! 
+- 2400
+* 2491 10 4 Tur
+* 2506 5 4 bo! 
+- 2513
+: 2879 4 4 Come 
+: 2884 3 4 on, 
+: 2891 4 4 come 
+: 2896 4 4 on! 
+- 2902
+: 2959 3 4 Give 
+: 2963 3 4 it 
+: 2967 3 4 up 
+: 2972 7 4 now 
+- 2981
+: 3026 4 7 Speed 
+: 3031 2 7 it 
+: 3034 3 7 up 
+: 3038 6 7 now 
+- 3046
+: 3088 3 2 Give 
+: 3092 3 2 it 
+: 3096 2 2 up 
+: 3099 6 2 now, 
+- 3107
+: 3134 8 4 Yes! 
+- 3144
+: 3165 3 2 No 
+: 3170 4 2 more 
+: 3176 6 2 cof
+: 3184 8 3 fee, 
+: 3221 7 2 just 
+: 3230 2 2 have 
+: 3234 3 2 a 
+: 3239 8 3 beer 
+- 3249
+: 3292 4 3 You 
+: 3297 2 3 like 
+: 3300 3 3 to 
+: 3304 4 4 par
+: 3309 7 4 ty? 
+- 3318
+: 3355 4 4 That’s 
+: 3360 4 4 why 
+: 3365 4 4 I’m 
+: 3370 7 4 here! 
+- 3379
+: 3413 8 4 Yeah! 
+- 3423
+: 3432 9 0 Friends, 
+: 3468 7 7 we’ll 
+: 3476 8 -3 be 
+: 3485 9 -2 friends 
+- 3496
+: 3530 8 5 We’ll 
+: 3539 8 1 be 
+* 3548 8 5 friends 
+- 3558
+: 3594 8 2 We’ll 
+: 3604 8 0 be 
+: 3614 8 0 friends 
+- 3624
+F 3664 15 0 Yes! 
+- 3680
+: 3680 9 0 Friends, 
+: 3716 7 0 we’ll 
+: 3724 8 -4 be 
+: 3733 9 7 friends 
+- 3744
+: 3778 8 4 We’ll 
+: 3787 8 2 be 
+: 3796 8 2 friends 
+- 3806
+: 3842 8 2 We’ll 
+: 3852 8 0 be 
+: 3862 8 0 friends 
+- 3872
+: 3933 10 0 Friends... 
+- 3945
+: 4241 4 3 Can 
+: 4246 3 3 you 
+: 4252 4 3 tell 
+: 4257 4 4 me 
+- 4263
+: 4279 17 4 How 
+: 4300 6 4 do 
+: 4310 3 4 I 
+: 4315 4 4 get 
+: 4321 6 4 off 
+: 4333 3 4 the 
+: 4338 6 4 bus, 
+: 4365 6 4 right? 
+- 4373
+F 4596 3 0 To 
+F 4600 4 0 the 
+F 4605 6 4 beat 
+F 4616 6 4 now, 
+- 4624
+: 4668 6 2 One 
+: 4680 4 2 two 
+: 4685 4 2 three 
+: 4690 7 4 four! 
+E

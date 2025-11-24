@@ -1,0 +1,325 @@
+#ARTIST:Electric Light Orchestra
+#TITLE:Ticket To The Moon
+#MP3:Electric Light Orchestra - Ticket To The Moon.mp3
+#CREATOR:Strummer
+#COVER:Electric Light Orchestra - Ticket To The Moon [CO].jpg
+#BACKGROUND:Electric Light Orchestra - Ticket To The Moon [BG].jpg
+#GENRE:Rock
+#YEAR:1981
+#LANGUAGE:English
+#BPM:344
+#GAP:3780
+#VIDEO:v=ztbSfTI3z1Y,co=time-60672b54b4d86.JPG,bg=electric-light-orchestra-6565a0a98f58d.jpg
+: 0 1 -5 Re
+: 4 3 -5 mem
+: 10 1 -5 ber 
+: 13 2 -3 the 
+: 18 3 -3 good 
+: 22 4 -3 old 
+: 31 4 -3 nine
+: 39 4 -3 teen 
+: 47 7 -2 eight
+: 55 8 -3 ies? 
+- 85
+: 129 3 -2 The 
+: 139 7 -3 things 
+: 150 3 -3 were 
+: 159 8 -3 so 
+: 170 2 -3 un
+: 176 5 -3 com
+: 184 2 -3 pli
+: 189 6 -2 cat
+: 197 7 -3 ed? 
+- 214
+: 247 4 -3 I 
+: 255 2 -3 wish 
+: 259 2 -5 I 
+: 266 3 -5 could 
+: 272 4 -5 go 
+: 280 2 -7 back 
+: 288 9 -7 there 
+: 299 3 -8 a
+: 305 7 -7 gain 
+- 334
+: 373 2 -5 And 
+: 377 4 -3 ev
+: 382 2 -5 ery
+: 388 6 -5 thing 
+: 398 2 -7 could 
+: 403 1 -5 be 
+: 405 2 -7 the 
+: 411 6 -5 same
+: 418 9 -3 ~ 
+- 437
+: 455 4 -3 I’ve 
+: 463 4 -3 got 
+: 470 3 0 a 
+: 478 4 2 ti
+: 485 4 2 cket 
+: 496 5 5 to 
+: 503 3 5 the 
+: 508 15 2 moon 
+- 533
+: 564 4 2 I’ll 
+: 569 7 4 be 
+: 577 7 5 leav
+: 585 13 4 ing 
+: 606 4 2 he
+: 612 4 0 re 
+: 623 2 2 a
+: 627 3 2 ny 
+: 634 5 5 day 
+: 645 19 2 soon 
+- 674
+: 696 18 2 Yeah, 
+- 724
+: 728 4 0 I’ve 
+: 737 3 2 got 
+: 741 2 0 a 
+: 746 4 2 ti
+: 753 3 2 cket 
+: 764 7 5 to 
+: 772 2 5 the 
+: 777 20 2 moon 
+- 807
+: 835 3 2 But 
+: 840 4 2 I’d 
+: 849 6 0 ra
+: 858 3 -5 ther 
+: 866 5 -3 see 
+: 876 2 -2 the 
+: 883 5 -2 sun
+: 891 15 -3 rise 
+- 916
+: 942 3 -2 In 
+: 950 7 -2 your 
+: 958 13 -3 eyes. 
+- 981
+* 1009 3 -3 Got 
+* 1013 2 -3 a 
+* 1019 3 2 ti
+* 1025 4 2 cket 
+* 1036 5 5 to 
+* 1042 3 5 the 
+* 1049 17 2 moon 
+- 1076
+: 1109 3 2 I’ll 
+: 1114 4 4 be 
+: 1121 7 5 ris
+: 1130 12 4 ing 
+: 1148 4 2 high 
+: 1153 2 0 a
+: 1157 6 2 bove 
+: 1167 3 2 the 
+: 1171 5 5 earth 
+: 1181 7 5 so 
+: 1194 17 2 soon 
+- 1221
+: 1239 3 2 And 
+: 1244 2 4 the 
+: 1249 9 5 tears 
+: 1260 6 4 I 
+: 1273 8 2 cry 
+: 1284 2 2 might
+: 1287 2 0 ~ 
+: 1293 4 2 turn 
+: 1300 3 2 in
+: 1308 4 5 to 
+: 1314 4 5 the 
+: 1321 14 2 rain
+: 1337 14 0 ~ 
+- 1361
+: 1369 1 0 That 
+: 1374 4 2 gen
+: 1381 2 2 tly 
+: 1386 9 0 falls 
+: 1403 2 -5 u
+: 1409 4 -3 pon 
+: 1417 7 -2 your 
+: 1428 4 -2 win
+: 1436 11 -3 dow 
+- 1457
+: 1483 3 -2 You 
+: 1490 4 -2 nev
+: 1497 2 -3 er 
+: 1503 15 -3 know. 
+- 1528
+: 1557 14 2 Ti
+: 1573 4 4 cket 
+: 1581 16 5 to 
+: 1599 5 7 the 
+: 1608 75 9 moon 
+- 1690
+* 1693 13 2 Ti
+* 1709 4 4 cket 
+* 1717 15 5 to 
+* 1735 5 7 the 
+* 1744 3 9 moon
+* 1748 3 10 ~
+* 1752 68 9 ~ 
+- 1826
+: 1828 4 2 Ti
+: 1837 4 4 cket 
+: 1846 5 5 to 
+: 1854 4 7 the 
+: 1862 82 9 moon 
+- 1989
+F 2504 5 5 Fly, 
+F 2520 4 5 fly 
+F 2530 4 5 through 
+F 2535 2 5 a 
+F 2538 4 5 trou
+F 2543 4 5 bled 
+F 2550 5 5 sky 
+- 2561
+F 2563 2 -2 Up 
+F 2571 4 7 to 
+F 2578 3 7 a 
+F 2586 4 7 new 
+F 2592 4 7 world 
+F 2605 4 7 shi
+F 2614 3 7 ning 
+F 2622 4 7 bright, 
+F 2631 4 7 oh, 
+F 2636 4 10 oh
+F 2641 16 9 ~ 
+- 2702
+: 2775 4 2 Fly
+: 2781 5 2 ing 
+: 2792 7 5 high 
+: 2801 1 5 a
+: 2805 11 2 bove 
+- 2826
+: 2858 5 2 Soar
+: 2866 4 4 ing 
+: 2875 4 5 mad
+: 2884 3 4 ly 
+: 2893 3 2 through 
+: 2901 3 0 the 
+: 2910 2 2 mys
+: 2918 3 2 te
+: 2925 4 5 ries 
+: 2934 2 5 that 
+: 2940 11 2 come 
+- 2961
+: 2994 2 2 Won
+: 3002 3 4 dering 
+: 3010 3 5 sad
+: 3019 5 4 ly 
+: 3026 3 2 if 
+: 3040 1 0 the 
+: 3044 1 2 ways
+: 3046 1 0 ~
+: 3048 6 2 ~ 
+: 3058 2 2 that 
+: 3063 4 5 led 
+: 3072 3 5 me 
+: 3079 9 2 here 
+- 3098
+: 3123 2 -5 Could 
+: 3129 6 2 turn 
+: 3136 2 2 a
+: 3140 9 0 round 
+: 3156 2 -5 and 
+: 3162 5 -3 I 
+: 3171 3 -2 will 
+: 3180 5 -2 see 
+: 3186 3 -3 you 
+: 3191 12 -3 there 
+- 3213
+: 3247 4 -2 Stan
+: 3255 4 -3 ding 
+: 3264 10 -3 there 
+- 3284
+* 3314 4 9 Ti
+* 3320 13 9 cket 
+* 3338 2 7 to 
+* 3341 2 5 the 
+* 3347 16 9 moon 
+- 3373
+: 3399 4 2 Flight 
+: 3407 4 4 leaves 
+: 3415 4 5 here 
+: 3424 2 4 to
+: 3428 8 2 day 
+: 3446 4 2 from 
+: 3460 7 9 Sa
+: 3468 2 7 te
+: 3472 3 5 llite 
+: 3480 11 9 Two 
+- 3501
+: 3536 6 2 As 
+: 3545 3 4 the 
+: 3549 4 5 mi
+: 3554 3 4 nutes 
+: 3565 4 2 go 
+: 3573 6 5 by
+: 3580 3 2 ~ 
+: 3587 2 2 what 
+: 3595 3 2 should 
+: 3601 4 5 I 
+: 3608 19 2 do? 
+- 3637
+: 3661 4 5 I 
+: 3669 4 5 paid 
+: 3677 2 5 the 
+: 3682 8 7 fare, 
+: 3703 3 7 what 
+: 3710 4 7 more 
+: 3719 4 7 can 
+: 3724 3 9 I 
+: 3732 16 9 say 
+- 3758
+: 3779 2 7 It’s 
+: 3787 4 9 just 
+: 3796 4 9 one 
+: 3805 29 9 way 
+- 3844
+: 3855 12 2 Ti
+: 3871 4 4 cket 
+: 3879 14 5 to 
+: 3897 5 7 the 
+: 3906 73 9 moon 
+- 3988
+* 3991 13 2 Ti
+* 4007 4 4 cket 
+* 4015 13 5 to 
+* 4033 4 7 the 
+* 4042 3 9 moon
+* 4046 3 10 ~
+* 4050 67 9 ~ 
+- 4123
+: 4126 4 2 Ti
+: 4134 4 4 cket 
+: 4143 5 5 to 
+: 4151 4 7 the 
+: 4160 84 9 moon 
+- 4289
+: 4802 12 2 Ti
+: 4818 4 4 cket 
+: 4826 14 5 to 
+: 4844 5 7 the 
+: 4853 73 9 moon 
+- 4933
+* 4936 12 2 Ti
+* 4952 4 4 cket 
+* 4960 14 5 to 
+* 4978 5 7 the 
+* 4987 3 9 moon
+* 4991 3 10 ~
+* 4995 66 9 ~ 
+- 5070
+: 5073 27 4 Ti
+: 5105 16 2 cket 
+- 5143
+* 5207 12 2 Ti
+* 5223 4 4 cket 
+* 5231 14 5 to 
+* 5249 5 7 the 
+* 5258 3 9 moon
+* 5262 3 10 ~
+* 5266 68 9 ~ 
+- 5341
+: 5344 28 4 Ti
+: 5376 15 2 cket 
+E

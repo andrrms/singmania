@@ -1,0 +1,293 @@
+#ARTIST:Tom Petty and the Heartbreakers
+#TITLE:Into The Great Wide Open (Album Version)
+#MP3:Tom Petty and the Heartbreakers - Into The Great Wide Open (Album Version).mp3
+#CREATOR:Peschi
+#GENRE:Rock
+#YEAR:1991
+#LANGUAGE:English
+#BPM:328
+#GAP:12740
+#VIDEO:a=tOQ-h-2pDDU,co=https://i.discogs.com/a0BEX8gvMoYA59fCV3A-tUDjcWswGY-sxrI1cSq4byA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk3/OTQtMTQ1MzgyNjY1/My02MzM3LmpwZWc.jpeg,bg=tom-petty-and-the-heartbreakers-4f01730e61375.jpg,preview=67.435,medley=2098-3762
+: 0 7 11 Ed
+: 8 5 11 die 
+: 14 7 9 wai
+: 22 6 7 ted 
+: 30 7 4 till 
+: 38 7 2 he 
+: 46 7 4 fi
+: 54 7 7 nished 
+: 62 7 4 high 
+: 70 16 9 school 
+- 88
+: 118 5 11 He 
+: 124 9 11 went 
+: 134 4 11 to 
+: 140 9 9 Hol
+: 150 5 7 ly
+: 156 11 4 wood 
+- 168
+: 168 5 2 And 
+: 174 9 4 got 
+: 184 4 7 a 
+* 190 7 9 tat
+* 198 16 4 too 
+- 216
+: 248 5 9 He 
+: 254 7 9 met 
+: 262 4 11 a 
+: 270 8 9 girl 
+- 279
+: 280 7 7 Out 
+: 288 5 4 there 
+: 294 7 2 with 
+: 302 8 9 a 
+: 312 5 9 tat
+: 318 7 7 too 
+* 326 18 11 too 
+- 346
+: 360 5 7 The 
+: 366 5 11 fu
+: 372 14 9 ture 
+: 388 8 7 was 
+: 398 28 9 wide 
+: 430 7 9 o
+: 438 16 7 pen 
+- 456
+: 566 7 11 They 
+: 574 7 11 moved 
+: 582 5 11 in
+: 588 9 9 to 
+: 598 4 7 a 
+: 604 9 4 place 
+- 614
+: 614 7 2 They 
+: 622 7 4 both 
+: 630 7 7 could 
+: 638 7 4 af
+: 646 18 9 ford 
+- 666
+: 694 4 11 He 
+: 700 8 11 found 
+: 710 4 11 a 
+: 716 7 9 night 
+: 724 8 7 club 
+- 733
+: 734 4 4 He 
+: 740 7 2 could 
+: 748 7 4 work 
+: 756 4 7 at 
+: 764 8 9 the 
+* 774 18 4 door 
+- 794
+: 818 8 9 She 
+: 828 8 9 had 
+: 838 4 11 a 
+: 844 7 9 gui
+: 852 8 7 tar 
+- 861
+: 862 5 4 And 
+: 868 7 4 she 
+: 876 7 9 taught 
+: 884 4 9 him 
+: 890 8 7 some 
+: 900 24 11 chords 
+- 926
+: 932 8 7 The 
+: 942 20 11 sky 
+: 974 25 9 was 
+: 1000 3 9 the 
+: 1004 5 9 lim
+: 1010 8 7 it 
+- 1020
+: 1196 5 11 In
+: 1202 8 12 to 
+: 1212 7 14 the 
+* 1220 20 14 great 
+* 1242 17 14 wide 
+* 1260 7 14 o
+* 1268 12 9 pen 
+- 1282
+: 1324 7 11 Un
+: 1332 7 12 der 
+: 1340 5 14 the 
+: 1346 25 14 skies 
+: 1372 12 14 of 
+: 1386 16 9 blue 
+- 1404
+: 1452 7 11 Out 
+: 1460 7 12 in 
+: 1468 7 14 the 
+: 1476 20 14 great 
+: 1498 15 14 wide 
+: 1514 7 14 o
+: 1522 14 9 pen 
+- 1538
+: 1572 5 7 A 
+: 1578 9 11 re
+: 1588 7 12 bel 
+* 1596 9 11 with
+* 1606 20 9 out 
+: 1628 3 11 a 
+: 1632 4 9 clue
+: 1638 3 7 ~
+: 1642 14 4 ~
+- 1658
+: 2098 7 11 The 
+: 2106 7 11 pa
+: 2114 7 11 pers 
+: 2122 7 9 said 
+: 2130 5 7 Ed 
+- 2136
+: 2136 7 4 Al
+: 2144 7 2 ways 
+: 2152 7 4 played 
+: 2160 7 7 from 
+: 2168 7 4 the 
+* 2176 20 9 heart 
+- 2198
+: 2224 7 11 He 
+: 2232 7 11 got 
+: 2240 8 11 an 
+: 2250 5 9 a
+: 2256 9 7 gent 
+- 2266
+: 2266 7 4 And 
+: 2274 7 2 a 
+: 2282 7 4 road
+: 2290 4 7 ie 
+: 2296 9 9 named 
+* 2306 20 4 Bart 
+- 2328
+: 2352 7 9 They 
+: 2360 7 9 made 
+: 2368 5 11 a 
+: 2374 7 9 rec
+: 2382 9 7 ord 
+- 2392
+: 2392 7 4 And 
+: 2400 7 2 it 
+: 2408 9 9 went 
+: 2418 5 9 in 
+: 2424 5 7 the 
+* 2430 24 11 charts 
+- 2456
+: 2464 3 7 The 
+* 2468 26 11 sky 
+: 2502 31 9 was 
+: 2534 3 9 the 
+: 2538 3 9 lim
+: 2542 8 7 it 
+- 2552
+: 2672 5 11 His 
+: 2678 9 11 leath
+: 2688 5 11 er 
+: 2694 7 9 jack
+: 2702 10 7 et 
+- 2714
+: 2720 4 2 Had 
+: 2727 9 4 chains 
+: 2738 3 7 that 
+: 2743 6 4 would 
+: 2750 7 7 jin
+: 2759 11 4 gle 
+- 2772
+: 2800 7 11 They 
+: 2808 7 11 both 
+: 2816 5 11 met 
+: 2822 9 9 mov
+: 2832 5 7 ie 
+: 2838 17 4 stars 
+* 2856 7 2 par
+* 2864 7 4 tied 
+* 2872 7 2 and 
+* 2880 7 9 min
+* 2888 16 4 gled 
+- 2906
+: 2926 9 9 Their 
+: 2936 7 9 A 
+: 2944 7 11 and 
+: 2952 7 9 R 
+: 2960 5 7 man 
+: 2966 7 4 said 
+- 2974
+: 2974 7 4 “I 
+: 2982 9 9 don’t 
+: 2992 7 9 hear 
+: 3000 2 7 a 
+* 3004 9 11 sin
+* 3014 14 11 gle” 
+- 3030
+: 3040 7 7 The 
+: 3048 7 11 fu
+: 3056 12 9 ture 
+: 3070 7 7 was 
+: 3078 32 9 wide 
+: 3112 5 9 o
+: 3118 12 7 pen 
+- 3132
+: 3302 7 11 In
+: 3310 7 12 to 
+: 3318 7 14 the 
+: 3326 20 14 great 
+: 3348 16 14 wide 
+* 3366 7 14 o
+* 3374 14 9 pen 
+- 3390
+: 3430 5 11 Un
+: 3436 9 12 der 
+: 3446 5 14 the 
+: 3452 25 14 skies 
+: 3478 13 14 of 
+: 3492 20 9 blue 
+- 3514
+: 3558 7 11 Out 
+: 3566 8 12 in 
+: 3576 5 14 the 
+: 3582 20 14 great 
+: 3604 16 14 wide 
+: 3622 7 14 o
+: 3630 14 9 pen 
+- 3646
+: 3680 3 7 A 
+: 3684 7 11 re
+: 3692 7 12 bel 
+: 3701 6 11 with
+: 3708 22 9 out 
+* 3732 3 11 a 
+* 3737 4 9 clue
+* 3743 3 7 ~
+* 3747 15 4 ~
+- 3764
+: 3812 7 11 In
+: 3820 7 12 to 
+: 3828 7 14 the 
+: 3836 20 14 great 
+: 3860 16 14 wide 
+: 3878 7 14 o
+: 3886 18 9 pen 
+- 3906
+: 3942 7 11 Un
+: 3950 7 12 der 
+* 3958 3 14 the 
+* 3962 27 14 skies 
+: 3990 11 14 of 
+: 4002 20 9 blue 
+- 4024
+: 4068 7 11 In
+: 4076 7 12 to 
+: 4084 7 14 the 
+: 4092 20 14 great 
+: 4114 16 14 wide 
+: 4132 5 14 o
+: 4138 16 9 pen 
+- 4156
+: 4188 7 7 A 
+: 4196 7 11 re
+: 4204 8 12 bel 
+: 4214 7 11 with
+: 4222 23 9 out 
+: 4246 3 11 a 
+* 4251 6 9 clue
+* 4258 2 7 ~
+* 4261 19 4 ~
+E

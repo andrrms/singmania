@@ -1,0 +1,156 @@
+#ARTIST:Megadeth
+#TITLE:Hangar 18
+#MP3:Megadeth - Hangar 18.mp3
+#CREATOR:znxineohp
+#YEAR:1990
+#LANGUAGE:English
+#BPM:318.9
+#GAP:131190
+#VIDEO:v=rUGIocJK9Tc,co=https://images.genius.com/7faac89cd9b71ef686125a16eb01132f.1000x1000x1.jpg,bg=megadeth-6409b6b9e5344.jpg
+: 0 3 17 Wel
+: 4 7 16 come 
+: 12 7 16 to 
+: 20 7 9 our 
+: 28 7 17 for
+: 36 7 16 tress 
+: 44 10 16 tall 
+- 55
+: 56 7 9 I’ll 
+: 64 7 17 take 
+: 72 3 16 some 
+: 76 7 14 time 
+: 84 7 9 to 
+: 92 7 17 show 
+: 100 7 16 you 
+: 108 3 16 a
+: 112 6 16 round 
+- 119
+: 120 7 11 Im
+: 128 3 17 pos
+: 132 7 16 si
+: 140 11 16 ble 
+: 152 5 9 to 
+: 158 5 17 break 
+: 164 7 16 these 
+: 172 10 17 walls 
+- 183
+: 184 3 11 For 
+: 188 3 9 you 
+: 192 7 17 see 
+: 200 3 14 the 
+: 204 7 14 steel 
+: 212 7 7 is 
+: 220 7 17 much 
+: 228 7 17 too 
+: 236 10 16 strong 
+- 247
+: 248 7 9 Com
+: 256 3 17 pu
+: 260 7 16 ter 
+: 268 11 14 banks 
+: 280 3 10 to 
+: 284 11 17 rule 
+: 296 3 16 the 
+: 300 14 16 world 
+- 316
+: 320 1 14 In
+: 322 3 17 stru
+: 326 7 16 men
+: 334 5 14 ts 
+: 340 7 9 to 
+: 348 9 17 sight 
+: 358 5 17 the 
+: 364 10 16 stars 
+- 375
+: 376 3 9 Pos
+: 380 3 9 si
+: 384 11 14 bly 
+: 396 9 9 I’ve 
+: 406 9 9 seen 
+: 416 11 14 too 
+: 428 10 10 much 
+- 439
+* 440 3 9 Han
+* 444 3 9 gar 
+* 448 11 14 Eigh
+* 460 11 11 teen 
+: 472 7 9 I 
+: 480 3 14 know 
+: 484 7 12 too 
+: 492 18 12 much 
+- 512
+: 1280 3 17 For
+: 1284 7 16 eign 
+: 1292 7 16 life 
+: 1300 7 9 forms 
+: 1308 7 17 in
+: 1316 7 16 ven
+: 1324 7 16 tor
+: 1332 3 14 y 
+- 1336
+: 1336 5 9 Sus
+: 1342 5 17 pen
+: 1348 5 16 ded 
+: 1354 9 14 state 
+: 1364 7 9 of 
+: 1372 7 17 cry
+: 1380 7 16 o
+: 1388 5 16 gen
+: 1394 6 16 ics 
+- 1401
+: 1402 5 11 Se
+: 1408 3 17 lec
+: 1412 7 16 tive 
+: 1420 5 16 am
+: 1426 9 9 nes
+: 1436 9 17 ia’s 
+: 1446 3 16 the 
+: 1450 9 17 stor
+: 1460 3 17 y 
+- 1464
+: 1464 3 11 Be
+: 1468 3 9 lie
+: 1472 7 17 ved 
+: 1480 3 14 fore
+: 1484 9 14 told 
+: 1494 5 7 but 
+: 1500 9 17 who’d 
+: 1510 5 17 sus
+: 1516 10 16 pect 
+- 1528
+: 1530 5 9 The 
+: 1536 3 17 Mil
+: 1540 5 16 i
+: 1546 5 14 ta
+: 1552 5 14 ry 
+: 1558 5 10 In
+: 1564 7 17 tell
+: 1572 5 16 i
+: 1578 10 16 gence 
+- 1589
+: 1590 5 14 Two 
+: 1596 11 17 words 
+: 1608 3 16 com
+: 1612 7 14 bined 
+: 1620 7 9 that 
+: 1628 7 17 can’t 
+: 1636 5 17 make 
+: 1642 10 16 sense 
+- 1653
+: 1654 3 9 Pos
+: 1658 3 9 si
+: 1662 13 14 bly 
+: 1676 9 9 I’ve 
+: 1686 7 9 seen 
+: 1694 11 14 too 
+: 1706 10 10 much 
+- 1717
+* 1718 5 9 Han
+* 1724 3 9 gar 
+* 1728 11 14 Eigh
+* 1740 11 11 teen 
+: 1752 5 9 I 
+: 1758 5 14 know 
+: 1764 7 12 too 
+: 1772 16 12 much 
+E

@@ -1,0 +1,44 @@
+#ARTIST:blink-182
+#TITLE:Built This Pool
+#MP3:blink-182 - Built This Pool.mp3
+#CREATOR:Hoanzl
+#COVER:blink-182 - Built This Pool [CO].jpg
+#BACKGROUND:blink-182 - Built This Pool [BG].jpg
+#GENRE:Pop-Punk
+#YEAR:2016
+#LANGUAGE:English
+#BPM:320
+#GAP:2290
+#VIDEO:a=Yc0kKdJ3SJI,co=california-5728de26c873f.jpg,bg=blink-182-53695e74b8520.jpg,preview=5.1,medley=0-247,tags=pool%2Cnaked dudes%2Cnaked%2Cmatt skiba
+: 0 3 8 Whoo 
+: 4 3 6 ooh, 
+: 16 3 8 whoo 
+: 20 8 6 ooh! 
+- 38
+: 60 2 -1 I 
+: 64 2 -1 wan
+: 68 2 -1 na 
+: 72 2 -1 see 
+: 76 2 -1 some 
+: 80 2 1 na
+: 84 2 -1 ked 
+: 89 6 8 du
+: 96 20 6 ~des 
+- 122
+: 124 2 6 That’s 
+: 128 3 8 why 
+: 132 2 6 I 
+: 136 5 8 built 
+: 144 4 6 this 
+: 152 15 3 poo
+* 168 3 1 ~
+* 172 3 3 ~
+* 176 3 1 ~
+: 180 29 -1 ~l 
+- 219
+R 234 2 -2 Is 
+R 237 2 0 that 
+R 240 1 0 real
+R 242 1 -2 ly 
+R 244 3 2 it? 
+E

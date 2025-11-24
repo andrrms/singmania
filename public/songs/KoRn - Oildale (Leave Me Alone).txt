@@ -1,0 +1,288 @@
+#ARTIST:KoRn
+#TITLE:Oildale (Leave Me Alone)
+#MP3:KoRn - Oildale (Leave Me Alone).mp3
+#CREATOR:mardzillo
+#GENRE:Metal
+#YEAR:2010
+#LANGUAGE:English
+#BPM:279.13
+#GAP:16800
+#VIDEO:v=y2O0dfFPIhM,co=oildale-leave-me-alone-59dd10e2af5fa.jpg,bg=korn-4e61106413576.jpg
+: 0 3 7 Look 
+: 5 4 5 at 
+: 13 19 7 you, 
+: 48 2 7 fee
+: 52 8 7 ling 
+: 61 4 7 a
+: 66 28 10 ~ll 
+: 96 20 5 good 
+- 118
+: 126 2 7 You 
+: 129 6 7 can’t 
+: 137 3 5 re
+: 142 12 7 sist, 
+: 179 4 7 have 
+: 184 8 7 to 
+: 195 30 10 be 
+: 229 27 5 all 
+- 258
+: 263 3 7 Up 
+: 269 5 5 In 
+: 275 17 7 it, 
+: 311 6 7 don’t 
+: 318 5 7 it 
+: 326 34 10 feel 
+: 364 24 5 great 
+- 390
+: 396 4 7 Tal
+: 401 5 5 kin 
+: 410 19 7 shit 
+- 431
+: 440 3 7 I 
+: 446 4 7 LET 
+: 451 6 7 IT 
+* 459 54 10 GO
+* 514 87 12 ~ 
+- 603
+: 651 7 7 Why 
+: 659 7 7 don’t 
+: 667 7 7 you 
+: 675 7 7 just 
+: 683 9 5 leave 
+: 699 8 5 me 
+: 708 3 7 a
+: 713 23 4 lone? 
+- 738
+: 781 5 7 My 
+: 789 6 7 hearts 
+: 797 4 7 gon
+: 802 6 7 na 
+: 810 12 5 break 
+: 830 7 5 from 
+: 838 3 7 the 
+: 842 32 4 fall! 
+- 876
+: 912 6 7 Hol
+: 919 3 7 ding 
+: 923 11 7 on 
+: 935 3 7 to 
+: 939 11 5 pet
+: 951 2 4 ty 
+: 955 12 0 things! 
+- 969
+: 975 6 7 Fee
+: 982 4 7 ling 
+: 987 9 7 all 
+: 997 3 7 the 
+: 1002 9 5 hate 
+: 1012 4 4 it 
+: 1019 7 0 brings! 
+- 1028
+: 1037 6 7 Why 
+: 1045 7 7 don’t 
+: 1053 6 7 you 
+: 1061 4 7 just 
+: 1069 11 5 leave 
+: 1085 6 5 me 
+: 1093 4 7 a
+* 1098 63 4 lone! 
+- 1163
+: 1168 3 7 What 
+: 1172 5 5 a 
+: 1179 14 7 Puss, 
+: 1215 4 7 think 
+: 1220 4 7 you’re 
+: 1228 3 7 soo
+: 1232 26 10 ~ 
+: 1262 20 5 tough. 
+- 1284
+: 1292 4 5 I 
+: 1297 6 7 take 
+: 1305 3 5 this 
+: 1314 13 7 shit 
+- 1329
+: 1348 2 7 All 
+: 1352 6 7 i 
+: 1360 32 10 had 
+: 1396 22 5 was, 
+: 1430 4 7 lo
+: 1436 5 5 vin’ 
+: 1443 19 7 me... 
+- 1464
+: 1481 3 7 It 
+: 1485 7 7 was 
+: 1494 30 10 soo 
+: 1528 21 5 good, 
+: 1553 2 5 but 
+: 1557 4 5 that 
+: 1563 4 7 wasn’t 
+: 1574 4 5 e
+: 1579 15 7 nough 
+- 1596
+: 1608 3 5 YOU 
+: 1612 4 7 RIPPED 
+: 1617 5 7 THAT 
+: 1623 3 7 A
+: 1627 7 7 WA
+* 1635 49 10 ~
+* 1685 71 12 ~Y!! 
+- 1758
+: 1820 6 7 Why 
+: 1827 6 7 don’t 
+: 1835 7 7 you 
+: 1843 5 7 just 
+: 1851 10 5 leave 
+: 1867 7 5 me 
+: 1875 4 7 a
+: 1880 29 4 lone? 
+- 1911
+: 1949 5 7 My 
+: 1956 7 7 hearts 
+: 1965 3 7 gon
+: 1969 5 7 na 
+: 1977 10 5 break 
+: 1996 7 5 from 
+: 2004 3 7 the 
+: 2009 32 4 fall! 
+- 2043
+: 2076 6 7 Hol
+: 2083 3 7 ding 
+: 2087 10 7 on 
+: 2100 3 7 to 
+: 2104 9 5 pet
+: 2114 3 4 ty 
+: 2120 9 0 things! 
+- 2131
+: 2139 6 7 Fee
+: 2146 4 7 ling 
+: 2151 9 7 all 
+: 2162 3 7 the 
+: 2166 11 5 hate 
+: 2178 3 4 it 
+: 2183 12 0 brings! 
+- 2197
+: 2203 7 7 Why 
+: 2211 7 7 don’t 
+: 2219 6 7 you 
+: 2226 6 7 just 
+: 2235 12 5 leave 
+: 2250 6 5 me 
+: 2258 3 7 a
+: 2265 67 4 lone! 
+- 2334
+F 2532 5 0 OH 
+F 2538 4 0 THIS 
+F 2543 3 0 IS 
+F 2547 7 0 IT! 
+- 2555
+F 2555 6 0 OH 
+F 2562 7 0 FUCK! 
+F 2570 3 0 HY
+F 2574 4 0 PO
+F 2579 3 0 CRITE 
+- 2584
+F 2588 5 0 ALL 
+F 2594 4 0 THE 
+F 2599 5 0 BULL
+F 2606 4 0 SHIT... 
+- 2612
+F 2614 4 0 YOU 
+F 2619 4 0 TOOK 
+F 2624 5 0 FROM 
+F 2631 14 0 ME!!?? 
+- 2647
+F 2683 4 0 YOUR 
+F 2688 4 0 SUCH 
+F 2693 2 0 A 
+F 2696 4 0 PIECE 
+F 2701 2 0 OF 
+F 2704 5 0 SHIT 
+- 2711
+F 2712 3 0 NO
+F 2716 4 0 THIN’ 
+F 2721 5 0 BUT 
+F 2727 3 0 HE
+F 2731 3 0 RE
+F 2735 6 0 TIC 
+- 2742
+F 2743 3 0 SU
+F 2747 2 0 CKIN’ 
+F 2750 2 0 THE 
+F 2754 4 0 LIFE 
+F 2762 3 0 OUT 
+F 2769 5 0 OF 
+F 2778 21 0 ME!! 
+- 2801
+F 2820 4 0 ...FU
+F 2825 3 0 CKER 
+F 2829 3 0 YOUR 
+F 2833 6 0 GONE 
+F 2841 5 0 WITH
+F 2847 9 0 OUT 
+F 2857 13 0 ME!! 
+- 2872
+: 3023 7 7 Why 
+: 3032 6 7 don’t 
+: 3039 6 7 you 
+: 3048 6 7 just 
+: 3056 10 5 leave 
+: 3072 6 5 me 
+: 3079 4 7 a
+: 3084 22 4 lone? 
+- 3108
+: 3152 5 7 My 
+: 3159 5 7 hearts 
+: 3166 3 7 gon
+: 3170 8 7 na 
+: 3179 12 5 break 
+: 3199 6 5 from 
+: 3206 3 7 the 
+: 3211 29 4 fall! 
+- 3242
+: 3277 5 7 Hol
+: 3283 4 7 ding 
+: 3288 10 7 on 
+: 3299 2 7 to 
+: 3303 9 5 pet
+: 3314 3 4 ty 
+: 3320 9 0 things! 
+- 3331
+: 3339 5 7 Fee
+: 3346 2 7 ling 
+: 3351 10 7 all 
+: 3362 2 7 the 
+: 3367 9 5 hate 
+: 3378 2 4 it 
+: 3383 11 0 brings! 
+- 3396
+: 3400 5 7 Why 
+: 3408 7 7 don’t 
+: 3417 6 7 you 
+: 3425 4 7 just 
+: 3433 9 5 live 
+: 3448 6 5 me 
+: 3456 3 7 a
+* 3460 124 4 lone! 
+- 3586
+F 3673 5 0 LEAVE 
+F 3679 3 0 ME 
+F 3683 2 0 A
+F 3687 20 0 LONE 
+- 3709
+F 3749 5 0 LEAVE 
+F 3756 4 0 ME 
+F 3761 2 0 A
+F 3764 18 0 LONE 
+- 3784
+F 3812 2 0 LEAVE 
+F 3817 3 0 ME 
+F 3822 2 0 A
+F 3827 16 0 LONE 
+- 3845
+F 3873 2 0 LEAVE 
+F 3877 2 0 ME 
+F 3881 2 0 THE 
+F 3886 2 0 FUCK 
+F 3892 5 0 A
+F 3900 37 0 LONE 
+E

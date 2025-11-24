@@ -1,0 +1,148 @@
+#ARTIST:The Troggs
+#TITLE:Wild Thing
+#MP3:The Troggs - Wild Thing.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2021
+#GENRE:Garage Rock
+#YEAR:1966
+#LANGUAGE:English
+#BPM:392.61
+#GAP:7900
+#VIDEO:v=gSWInYFVksg,co=wild-thing-560f37288fe6a.jpg,bg=troggs-the-51937543473f3.jpg
+: 0 12 9 Wild 
+: 15 15 9 thing 
+- 32
+: 100 6 14 You 
+: 108 4 14 make 
+: 116 6 13 my 
+: 124 8 11 heart 
+: 140 13 9 sing 
+- 155
+: 224 6 14 You 
+: 232 4 14 make 
+: 239 9 16 eve
+: 255 5 9 ry
+: 263 10 9 thi
+: 274 8 6 ~ng 
+F 286 14 21 groo
+F 301 12 21 vy 
+- 315
+: 372 11 9 Wild 
+: 388 13 9 thing 
+- 403
+F 526 8 21 Wild 
+F 539 7 21 thing, 
+F 548 9 21 I 
+F 567 6 21 think 
+F 574 8 21 I 
+F 583 4 21 love 
+F 591 5 21 you 
+- 598
+: 641 2 4 But 
+: 645 8 16 I 
+: 655 6 16 wan
+: 662 7 15 na 
+: 670 6 16 kno
+: 677 8 14 ~w 
+* 687 6 12 for 
+* 697 8 9 su
+* 706 6 7 ~re 
+- 714
+F 758 2 21 So 
+F 767 4 21 come 
+F 772 7 21 on 
+F 780 11 21 and 
+F 797 6 21 hold 
+F 804 3 21 me 
+F 813 11 21 tight 
+- 826
+: 913 4 7 I 
+: 921 6 12 love 
+: 936 8 7 you 
+- 946
+: 1231 12 9 Wild 
+: 1247 15 9 thing 
+- 1264
+: 1332 6 14 You 
+: 1340 4 14 make 
+: 1347 6 13 my 
+: 1357 8 11 heart 
+: 1372 14 9 sing 
+- 1388
+: 1458 6 14 You 
+: 1466 4 14 make 
+: 1473 10 16 eve
+: 1488 5 9 ry
+: 1496 10 9 thi
+: 1507 9 6 ~ng 
+F 1520 11 21 groo
+F 1533 10 21 vy 
+- 1545
+: 1607 10 9 Wild 
+: 1622 13 9 thing 
+- 1637
+F 2257 8 21 Wild 
+F 2270 7 21 thing 
+F 2278 9 21 I 
+F 2294 4 21 think 
+F 2304 8 21 you 
+F 2313 6 21 move 
+F 2324 5 21 me 
+- 2331
+: 2372 1 4 But 
+: 2375 7 16 I 
+: 2383 6 16 wan
+: 2391 5 15 na 
+: 2398 7 16 kno
+: 2406 5 14 ~w 
+: 2414 5 12 for 
+: 2424 7 9 su
+: 2432 7 7 ~re 
+- 2441
+F 2484 1 21 So 
+F 2492 1 21 come 
+F 2495 5 21 on 
+F 2501 12 21 and 
+F 2519 6 21 hold 
+F 2527 3 21 me 
+F 2535 11 21 tight 
+- 2548
+: 2634 5 7 You 
+: 2642 6 11 move 
+: 2657 7 7 me 
+- 2666
+: 3127 12 9 Wild 
+: 3142 15 9 thing 
+- 3159
+: 3226 6 14 You 
+: 3233 5 14 make 
+* 3242 5 13 my 
+* 3250 8 11 heart 
+* 3265 15 9 sing 
+- 3282
+: 3350 6 14 You 
+: 3357 5 14 make 
+: 3365 10 16 eve
+: 3380 5 9 ry
+: 3388 12 9 thi
+: 3401 6 6 ~ng 
+F 3412 12 21 groo
+F 3425 12 21 vy 
+- 3439
+: 3498 12 9 Wild 
+: 3513 16 9 thing 
+- 3531
+F 3596 1 9 Come 
+F 3599 8 9 on, 
+F 3609 1 9 come 
+F 3611 9 9 on, 
+: 3622 12 9 wild 
+: 3637 16 9 thing 
+- 3655
+F 3722 4 9 Shake 
+F 3727 2 9 it, 
+F 3735 5 9 shake 
+F 3741 2 9 it, 
+: 3745 12 9 wild 
+: 3760 11 9 thing 
+E

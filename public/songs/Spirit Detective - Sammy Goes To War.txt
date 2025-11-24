@@ -1,0 +1,225 @@
+#ARTIST:Spirit Detective
+#TITLE:Sammy Goes To War
+#MP3:Spirit Detective - Sammy Goes To War.mp3
+#CREATOR:fkxnn
+#COVER:Spirit Detective - Sammy Goes To War [CO].jpg
+#BACKGROUND:Spirit Detective - Sammy Goes To War [BG].jpg
+#YEAR:2019
+#LANGUAGE:English
+#BPM:300
+#GAP:77600
+#VIDEO:v=_mW0d0BAZdc,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/bc/af/a8bcaf6a-820d-ed1f-655e-9a71b9105358/cover_4050215608849.jpg/5000x5000bb.jpg
+: 0 8 15 Hey 
+: 9 6 15 Sam
+: 16 4 10 ~ 
+- 22
+: 37 10 13 Where 
+: 48 12 11 have 
+: 61 6 10 you 
+: 68 4 10 bee
+: 73 6 8 ~n 
+- 81
+: 111 5 15 Were 
+: 117 4 15 you 
+: 122 8 15 forc
+: 131 4 10 in 
+: 136 12 10 the 
+: 149 9 13 drea
+: 159 12 11 ~m? 
+- 173
+: 223 3 15 Where 
+: 227 5 15 you 
+: 233 4 15 buzz 
+: 238 13 10 around 
+: 260 4 13 the 
+: 265 4 13 land 
+: 270 9 11 past 
+: 280 5 10 in
+: 286 9 8 ~ 
+- 297
+: 330 3 10 And 
+: 334 9 15 you 
+: 344 12 15 hide 
+: 357 12 10 your 
+: 370 9 13 ugly 
+: 380 6 11 face
+: 387 7 8 ~ 
+- 396
+: 442 4 15 There’s 
+: 447 2 15 a 
+: 450 9 15 place 
+: 462 5 10 and 
+: 468 9 10 that’s
+: 480 7 13 filled 
+: 488 14 11 with 
+: 505 3 10 your 
+: 509 3 10 lies
+: 513 4 8 ~ 
+- 519
+: 558 8 15 And 
+: 567 5 15 there’s 
+: 573 3 10 one 
+: 577 4 10 big 
+: 582 8 10 disgu
+: 591 7 13 is
+: 599 9 11 e 
+- 610
+: 666 3 15 In 
+: 670 3 15 the 
+: 674 8 15 name 
+: 684 4 10 of 
+: 689 8 10 your 
+: 698 9 13 good 
+: 708 6 11 you 
+: 715 12 10 decide
+: 728 8 8 ~ 
+- 738
+: 764 5 15 But 
+: 770 9 15 those 
+: 780 7 15 ver
+: 788 7 10 dics 
+: 796 8 10 ain’t 
+: 805 10 13 right
+: 816 10 11 ~ 
+- 828
+* 932 7 10 Sammy 
+* 940 4 10 goes 
+: 945 1 10 to 
+: 947 7 9 war 
+* 955 9 8 again
+: 965 7 3 ~ 
+- 974
+: 1070 7 8 Sammy 
+: 1078 4 8 goes 
+: 1083 1 8 to 
+: 1085 7 6 war 
+: 1093 6 6 again
+: 1100 18 3 ~ 
+- 1120
+: 1710 10 15 Hey 
+: 1721 6 15 Sam
+: 1728 6 10 ~ 
+- 1735
+: 1735 8 10 I 
+: 1744 10 13 read 
+: 1755 5 11 the 
+: 1761 12 11 news 
+: 1774 8 10 today
+: 1783 7 8 ~ 
+- 1792
+: 1824 3 15 Are 
+: 1828 3 15 they 
+: 1832 7 15 left 
+: 1840 5 10 in 
+: 1846 6 10 de
+: 1853 6 13 cay
+: 1860 13 11 ~ 
+- 1875
+: 1929 6 15 Be
+: 1936 11 15 shrew 
+* 1948 19 10 thee! 
+: 1968 10 13 Thou 
+: 1979 6 11 shalt 
+: 1986 6 10 not 
+: 1993 15 8 last 
+- 2010
+: 2037 5 15 Such 
+: 2043 4 15 an 
+: 2048 4 15 il
+* 2055 19 10 luminated, 
+: 2075 5 13 wic
+: 2081 10 11 ked 
+* 2092 17 8 past 
+- 2111
+: 2197 7 10 Sammy 
+: 2205 4 10 goes 
+: 2210 1 10 to 
+: 2212 7 9 war 
+: 2220 9 8 again
+: 2230 7 3 ~ 
+- 2239
+: 2335 7 8 Sammy 
+: 2343 4 8 goes 
+: 2348 1 8 to 
+: 2350 7 6 war 
+: 2358 6 6 again
+: 2365 18 3 ~ 
+- 2385
+: 2475 7 10 Sammy 
+: 2483 4 10 goes 
+: 2488 1 10 to 
+: 2490 7 9 war 
+* 2498 9 8 again
+: 2508 7 3 ~ 
+- 2517
+: 2613 7 8 Sammy 
+: 2621 4 8 goes 
+: 2626 1 8 to 
+: 2628 7 6 war 
+: 2636 6 6 again
+: 2643 18 3 ~ 
+- 2663
+: 3242 6 15 In 
+: 3249 6 15 the 
+: 3256 6 15 bril
+: 3263 12 10 liant 
+: 3276 10 13 deceit 
+: 3287 5 11 you 
+: 3293 12 11 laid 
+: 3306 8 10 bare
+: 3315 7 8 ~ 
+- 3324
+: 3339 11 15 That 
+: 3351 12 15 they 
+: 3364 7 15 all 
+: 3372 5 10 should 
+: 3378 6 10 be
+: 3385 6 13 ware
+: 3392 13 11 ~ 
+- 3407
+: 3450 10 15 You’
+: 3461 10 15 ve 
+: 3472 4 15 con
+: 3479 6 10 sumed 
+: 3486 11 10 way 
+: 3498 10 13 more 
+: 3509 6 11 then 
+: 3516 5 10 the 
+: 3522 15 8 mind 
+- 3539
+: 3567 5 15 And 
+: 3573 6 15 there’s 
+: 3580 4 15 more 
+: 3587 9 10 that 
+: 3597 6 10 you’ll 
+: 3604 8 13 find
+: 3613 13 11 ~ 
+- 3628
+: 3721 7 10 Sammy 
+: 3729 4 10 goes 
+: 3734 1 10 to 
+: 3736 7 9 war 
+: 3744 9 8 again
+: 3754 7 3 ~ 
+- 3763
+: 3859 7 8 Sammy 
+: 3867 4 8 goes 
+: 3872 1 8 to 
+: 3874 7 6 war 
+: 3882 6 6 again
+: 3889 18 3 ~ 
+- 3909
+: 3999 7 10 Sammy 
+: 4007 4 10 goes 
+: 4012 1 10 to 
+: 4014 7 9 war 
+: 4022 9 8 again
+: 4032 7 3 ~ 
+- 4041
+: 4137 7 8 Sammy 
+: 4145 4 8 goes 
+: 4150 1 8 to 
+: 4152 7 6 war 
+: 4160 6 6 again
+: 4167 18 3 ~ 
+E

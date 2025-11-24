@@ -1,0 +1,228 @@
+#ARTIST:Metallica
+#TITLE:Hit The Lights
+#MP3:Metallica - Hit The Lights.mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero Metallica
+#GENRE:Thrash Metal
+#YEAR:1983
+#LANGUAGE:English
+#BPM:391.82
+#GAP:51490
+#VIDEO:a=1bW2DMOeDEM,co=kill-em-all-600650a462b90.jpg,bg=metallica-4fd83b33d1ddd.jpg
+F 0 11 0 Wow! 
+- 13
+: 176 3 30 No 
+: 180 3 31 life 
+: 185 4 30 till 
+: 190 2 31 lea
+: 193 9 26 ther 
+- 204
+: 213 1 33 We’re 
+: 215 2 33 gon
+: 218 1 33 na 
+: 220 3 33 kick 
+: 224 2 33 some 
+: 227 4 33 ass 
+: 235 4 33 to
+: 240 12 33 night
+: 253 1 28 ~ 
+- 256
+: 409 1 30 We 
+: 411 1 30 got 
+: 413 2 30 the 
+: 416 4 31 me
+: 421 1 30 tal 
+: 423 5 31 mad
+: 431 5 26 ness 
+- 438
+: 447 2 33 When 
+: 450 2 33 our 
+: 455 3 33 fans 
+F 460 3 24 start 
+F 465 2 24 scream
+F 468 1 24 ing 
+F 470 2 24 it’s 
+F 475 6 24 right 
+- 483
+: 506 3 31 Well 
+: 510 3 31 al
+: 514 4 31 right
+: 519 4 30 ~
+: 524 7 33 ~, 
+: 534 8 28 yeah
+: 543 4 33 ~
+: 548 1 28 ~ 
+- 551
+: 566 1 28 When 
+: 568 2 28 we 
+: 573 3 28 start 
+: 578 1 28 to 
+: 580 4 28 rock 
+: 587 4 28 we 
+: 593 5 31 ne
+: 601 4 28 ver
+: 606 3 26 ~ 
+- 611
+: 617 2 31 Wan
+: 620 1 31 na 
+: 622 3 35 stop 
+: 628 2 31 a
+: 631 1 31 gain
+: 633 8 33 ~
+: 642 1 28 ~ 
+- 645
+F 693 3 0 Hit 
+F 700 4 0 the 
+F 707 4 0 lights 
+- 713
+: 767 4 31 Hit 
+: 774 4 31 the 
+F 781 20 24 lights 
+- 803
+F 840 3 0 Hit 
+F 847 3 0 the 
+F 854 4 0 lights 
+- 860
+F 923 2 0 Uh 
+- 927
+: 1099 2 30 You 
+: 1102 1 30 know 
+: 1104 1 30 our 
+: 1106 2 31 fans 
+: 1109 1 31 are 
+: 1111 2 31 in
+: 1116 9 30 sane
+: 1126 4 26 ~ 
+- 1132
+F 1141 1 0 Gon
+F 1143 2 0 na 
+F 1146 2 0 blow 
+F 1151 2 0 this 
+F 1155 2 0 place 
+F 1160 2 0 a
+F 1165 14 0 way 
+- 1181
+: 1335 2 30 With 
+: 1340 4 31 vo
+: 1345 1 30 lume 
+: 1347 6 31 high
+: 1356 5 26 er 
+- 1363
+F 1376 2 0 Than 
+F 1381 2 0 a
+F 1385 2 0 ny
+F 1390 3 0 thing 
+F 1395 3 0 to
+F 1400 10 0 day 
+- 1412
+: 1427 2 31 The 
+: 1430 3 31 on
+: 1434 3 31 ly 
+: 1439 3 31 way
+: 1443 5 30 ~
+: 1449 7 33 ~, 
+: 1459 2 28 yeah
+: 1462 3 26 ~
+: 1466 7 33 ~ 
+- 1475
+: 1492 1 28 When 
+: 1494 2 28 we 
+: 1497 4 28 start 
+: 1502 1 28 to 
+: 1504 5 28 rock 
+: 1512 4 28 we 
+: 1518 4 31 ne
+: 1524 6 28 ver
+: 1531 3 26 ~ 
+- 1536
+: 1541 2 31 Wan
+: 1544 1 31 na 
+: 1546 3 35 stop 
+: 1552 2 31 a
+: 1556 1 31 gain
+: 1558 8 33 ~
+: 1567 1 28 ~ 
+- 1570
+F 1618 3 0 Hit 
+F 1625 3 0 the 
+F 1632 4 0 lights 
+- 1638
+: 1692 4 31 Hit 
+: 1699 4 31 the 
+F 1706 17 24 lights 
+- 1725
+F 1765 3 0 Hit 
+F 1772 3 0 the 
+F 1779 4 0 lights 
+- 1785
+F 2024 2 0 With 
+F 2029 2 0 all 
+F 2033 2 0 our 
+F 2037 2 0 scream
+F 2042 7 0 ing 
+- 2051
+F 2063 2 0 You’ll 
+F 2068 2 0 rip 
+F 2073 2 0 right 
+F 2077 2 0 through 
+F 2080 2 0 your 
+F 2084 10 0 brain 
+- 2096
+: 2255 2 31 We 
+: 2258 1 31 got 
+: 2260 2 31 the 
+: 2263 3 31 le
+: 2267 2 30 thal 
+: 2270 5 31 po
+: 2277 5 26 wer 
+- 2284
+F 2297 1 0 It 
+F 2299 2 0 is 
+F 2302 2 0 caus
+F 2306 2 0 ing 
+F 2311 2 0 you 
+F 2316 2 0 sweet 
+F 2321 12 0 pain 
+- 2335
+: 2350 2 31 Oh, 
+: 2355 2 31 sweet 
+: 2359 3 31 pain
+: 2363 5 29 ~
+* 2369 7 33 ~, 
+: 2379 6 28 yeah
+: 2386 6 33 ~
+: 2393 1 28 ~ 
+- 2396
+: 2412 2 28 When 
+: 2416 1 28 we 
+: 2418 4 28 start 
+: 2423 1 28 to 
+: 2425 5 28 rock, 
+* 2432 3 28 we 
+* 2438 4 31 ne
+* 2444 6 28 ver
+* 2451 3 26 ~ 
+- 2456
+: 2461 2 31 Wan
+: 2464 1 31 na 
+: 2466 4 35 stop 
+* 2472 2 31 a
+* 2476 9 33 gain
+* 2486 1 28 ~ 
+- 2489
+F 2538 3 0 Hit 
+F 2545 3 0 the 
+F 2552 4 0 lights 
+- 2558
+: 2611 3 31 Hit 
+: 2618 3 31 the 
+F 2625 17 24 lights 
+- 2644
+F 2685 3 0 Hit 
+F 2691 3 0 the 
+F 2698 4 0 lights 
+- 2704
+F 2757 3 0 Hit 
+F 2764 3 0 them 
+F 2770 19 0 lights 
+E

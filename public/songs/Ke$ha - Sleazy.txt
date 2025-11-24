@@ -1,0 +1,715 @@
+#ARTIST:Ke$ha
+#TITLE:Sleazy
+#MP3:Ke$ha - Sleazy.mp3
+#CREATOR:klops_007
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:340
+#GAP:230
+#VIDEO:a=n2kdCJRAiNk,co=sleazy-5727c2a052b27.jpg,bg=kesha-4f898325be875.jpg,tags=explicit
+: 0 2 0 I 
+: 4 2 2 don’t 
+: 8 4 2 need 
+: 16 4 2 you 
+- 22
+: 24 2 2 Or 
+: 28 2 2 your 
+: 32 4 0 brand 
+: 40 4 3 new 
+: 48 12 2 Benz. 
+- 62
+: 72 2 2 Or 
+: 76 2 2 your 
+: 80 4 0 bou
+: 88 4 3 gie 
+: 96 12 2 friends. 
+- 110
+: 128 2 2 I 
+: 132 2 2 don’t 
+: 136 4 2 need 
+: 144 4 2 love 
+- 150
+: 152 2 2 Look
+: 156 2 2 ing 
+: 160 4 0 like 
+: 168 4 -2 dia
+: 176 12 -2 monds. 
+- 190
+: 200 2 2 Look
+: 204 2 2 ing 
+: 208 4 0 like 
+: 216 4 -2 dia
+: 224 12 -2 monds. 
+- 238
+F 248 4 2 Get 
+F 256 4 2 Slea
+F 264 8 2 zy 
+- 274
+F 280 4 2 Get 
+F 288 4 2 Slea
+F 296 8 2 zy 
+- 306
+F 312 4 2 Get 
+F 320 4 2 Slea
+F 328 8 2 zy 
+- 338
+F 344 4 2 Get 
+F 352 4 2 Slea
+F 360 8 2 zy 
+- 370
+F 376 4 2 Get 
+F 384 4 2 Slea
+F 392 8 2 zy 
+- 402
+F 408 4 2 Get 
+F 416 4 2 Slea
+F 424 8 2 zy 
+- 434
+F 440 4 2 Get 
+F 448 4 2 Slea
+F 456 4 2 zy 
+- 462
+F 472 4 2 Get 
+F 480 4 2 Slea
+F 488 4 2 zy. 
+- 494
+F 504 4 2 Get 
+F 512 4 2 Slea
+F 520 8 2 zy 
+- 530
+F 536 4 2 Get 
+F 544 4 2 Slea
+F 552 4 2 zy 
+- 558
+F 568 4 2 Get 
+F 576 4 2 Slea
+F 584 4 2 zy 
+- 590
+F 600 4 2 Get 
+F 608 4 2 Slea
+F 616 4 2 zy 
+- 622
+F 632 4 2 Get 
+F 640 4 2 Slea
+F 648 4 2 zy 
+- 654
+F 664 4 2 Get 
+F 672 4 2 Slea
+F 680 4 2 zy 
+- 686
+F 696 4 2 Get 
+F 704 4 2 Slea
+F 712 8 2 zy 
+- 722
+F 728 4 2 Get 
+F 736 4 2 Slea
+F 744 4 2 zy 
+- 750
+F 752 8 2 Oh! 
+- 762
+F 768 2 2 I 
+F 772 2 11 don’t 
+F 776 4 2 need 
+F 784 4 2 you 
+- 790
+F 792 2 -1 Or 
+F 796 2 -1 your 
+F 800 4 -1 brand 
+F 808 4 -1 new 
+F 816 12 -1 Benz. 
+- 830
+F 840 2 2 Or 
+F 844 2 2 your 
+F 848 4 2 bou
+F 856 4 2 gie 
+F 864 8 2 friends. 
+- 874
+F 892 2 2 And 
+F 896 2 2 I 
+F 900 2 2 don’t 
+F 904 4 2 need 
+F 912 4 2 love 
+F 920 2 2 look
+F 924 2 2 ing 
+F 928 4 2 like 
+F 936 4 2 dia
+F 944 8 2 monds. 
+- 954
+F 968 2 2 Look
+F 972 2 2 ing 
+F 976 4 2 like 
+F 984 4 2 dia
+F 992 8 2 monds. 
+- 1002
+F 1024 2 2 I 
+F 1028 2 2 don’t 
+F 1032 4 2 need 
+F 1040 4 2 you 
+- 1046
+F 1048 2 2 Or 
+F 1052 2 2 your 
+F 1056 4 2 brand 
+F 1064 4 2 new 
+F 1072 8 2 Benz. 
+- 1082
+F 1096 2 2 Or 
+F 1100 2 2 your 
+F 1104 4 2 bou
+F 1112 4 2 gie 
+F 1120 8 2 friends. 
+- 1130
+F 1148 2 2 And 
+F 1152 2 2 I 
+F 1156 2 2 don’t 
+F 1160 4 2 need 
+F 1168 4 2 love 
+- 1174
+F 1176 2 2 Look
+F 1180 2 2 ing 
+F 1184 4 2 like 
+F 1192 4 2 dia
+F 1200 8 2 monds. 
+- 1210
+F 1224 2 2 Look
+F 1228 2 2 ing 
+F 1232 4 2 like 
+F 1240 4 2 dia
+F 1248 12 2 monds. 
+- 1262
+F 1264 2 2 You 
+F 1268 2 2 can’t 
+F 1272 2 2 i
+F 1276 2 2 ma
+F 1280 2 2 gine 
+- 1283
+F 1284 2 2 The 
+F 1288 2 2 e
+F 1292 2 2 men
+F 1296 2 2 si
+F 1300 2 2 ty 
+F 1304 2 2 of 
+F 1308 2 2 the 
+F 1312 2 2 fuck 
+- 1315
+F 1316 2 2 I’m 
+F 1320 2 2 not 
+F 1324 2 2 gi
+F 1328 2 2 ving 
+F 1332 2 2 a
+F 1336 2 2 bout 
+F 1340 2 2 your 
+F 1344 2 2 mo
+F 1348 2 2 ney 
+- 1351
+F 1352 2 2 And 
+F 1356 2 2 man 
+F 1360 2 2 ser
+F 1364 2 2 vant 
+F 1368 2 2 at 
+F 1372 2 2 the 
+F 1376 2 2 man
+F 1380 2 2 sion 
+F 1384 2 2 you 
+F 1388 2 2 live 
+F 1392 2 2 in. 
+- 1395
+F 1396 2 2 And 
+F 1400 2 2 I 
+F 1404 2 2 don’t 
+F 1408 2 2 wan
+F 1412 2 2 na 
+F 1416 2 2 go 
+F 1420 2 2 pla
+F 1424 2 2 ces 
+- 1427
+F 1428 2 2 Where 
+F 1432 2 2 all 
+F 1436 2 2 my 
+F 1440 2 2 lad
+F 1444 2 2 ies 
+F 1448 2 2 can’t 
+F 1452 2 2 get 
+F 1456 2 2 in. 
+- 1459
+F 1460 2 2 Just 
+F 1464 2 2 grab 
+F 1468 2 2 a 
+F 1472 2 2 bot
+F 1476 2 2 tle 
+- 1479
+F 1480 2 2 Some 
+F 1484 2 2 boys 
+F 1488 2 2 and 
+F 1492 2 2 let’s 
+F 1496 2 2 take 
+F 1500 2 2 it 
+F 1504 2 2 back 
+- 1507
+F 1508 2 2 To 
+F 1512 2 2 my 
+F 1516 2 2 bas
+F 1520 2 2 ement. 
+- 1523
+F 1524 2 2 And 
+F 1528 4 2 get 
+F 1536 4 2 Sle
+F 1544 4 2 azy. 
+- 1550
+F 1552 2 2 Sick 
+F 1556 2 2 of 
+F 1560 2 2 all 
+F 1564 2 2 your 
+F 1568 4 2 lines 
+F 1576 4 2 So 
+F 1584 4 2 Che
+F 1592 4 2 esy! 
+- 1598
+F 1600 2 2 Sor
+F 1604 2 2 ry 
+F 1608 2 2 dad
+F 1612 2 2 dy 
+F 1616 4 2 but 
+F 1624 4 2 I’m 
+F 1632 4 2 not 
+F 1640 4 2 that 
+F 1648 4 2 ea
+F 1656 4 2 sy! 
+- 1662
+F 1664 2 2 I’m 
+F 1668 2 2 not 
+F 1672 2 2 gon
+F 1676 2 2 na 
+F 1680 2 2 sit 
+F 1684 2 2 here 
+- 1687
+F 1688 2 2 While 
+F 1692 2 2 you 
+F 1696 2 2 cir
+F 1700 2 2 cle 
+F 1704 2 2 jerk 
+F 1708 2 2 it 
+F 1712 2 2 and 
+F 1716 2 2 work 
+F 1720 4 2 it. 
+- 1726
+F 1728 2 2 Im
+F 1732 2 2 ma 
+F 1736 2 2 take 
+F 1740 2 2 it 
+F 1744 2 2 back 
+F 1748 2 2 to 
+F 1752 2 2 where 
+F 1756 2 2 my 
+F 1760 4 2 man 
+- 1766
+F 1768 2 2 And 
+F 1772 2 2 my 
+F 1776 4 2 girls 
+F 1784 4 2 is. 
+- 1790
+F 1792 4 2 Slea
+F 1800 4 2 zy 
+- 1806
+F 1816 4 2 Get 
+F 1824 4 2 Slea
+F 1832 8 2 zy 
+- 1842
+F 1848 4 2 Get 
+F 1856 4 2 Slea
+F 1864 8 2 zy 
+- 1874
+F 1880 4 2 Get 
+F 1888 4 2 Slea
+F 1896 8 2 zy 
+- 1906
+F 1920 4 2 Slea
+F 1928 4 2 zy 
+- 1934
+F 1944 4 2 Get 
+F 1952 4 2 Slea
+F 1960 4 2 zy 
+- 1966
+F 1976 4 2 Get 
+F 1984 4 2 Slea
+F 1992 4 2 zy 
+- 1998
+F 2008 4 2 Get 
+F 2016 4 2 Slea
+F 2024 4 2 zy 
+- 2030
+: 2048 2 0 I 
+: 2052 2 2 don’t 
+: 2056 4 2 need 
+: 2064 4 2 you 
+- 2070
+: 2072 2 2 Or 
+: 2076 2 2 your 
+: 2080 4 0 brand 
+: 2088 4 3 new 
+: 2096 12 2 Benz. 
+- 2110
+: 2120 2 2 Or 
+: 2124 2 2 your 
+: 2128 4 0 bou
+: 2136 4 3 gie 
+: 2144 12 2 friends. 
+- 2158
+: 2176 2 2 I 
+: 2180 2 2 don’t 
+: 2184 4 2 need 
+: 2192 4 2 love 
+- 2198
+: 2200 2 2 Look
+: 2204 2 2 ing 
+: 2208 4 0 like 
+: 2216 4 -2 dia
+: 2224 12 -2 monds. 
+- 2238
+: 2248 2 2 Look
+: 2252 2 2 ing 
+: 2256 4 0 like 
+: 2264 4 -2 dia
+: 2272 12 -2 monds. 
+- 2286
+: 2304 2 0 I 
+: 2308 2 2 don’t 
+: 2312 4 2 need 
+: 2320 4 2 you 
+- 2326
+: 2328 2 2 Or 
+: 2332 2 2 your 
+: 2336 4 0 brand 
+: 2344 4 3 new 
+: 2352 12 2 Benz. 
+- 2366
+: 2376 2 2 Or 
+: 2380 2 2 your 
+: 2384 4 0 bou
+: 2392 4 3 gie 
+: 2400 12 2 friends. 
+- 2414
+: 2432 2 2 I 
+: 2436 2 2 don’t 
+: 2440 4 2 need 
+: 2448 4 2 love 
+- 2454
+: 2456 2 2 Look
+: 2460 2 2 ing 
+: 2464 4 0 like 
+: 2472 4 -2 dia
+: 2480 12 -2 monds. 
+- 2494
+: 2504 2 2 Look
+: 2508 2 2 ing 
+: 2512 4 0 like 
+: 2520 4 -2 dia
+: 2528 12 -2 monds. 
+- 2542
+F 2560 2 2 Rat 
+F 2564 2 2 tat 
+F 2568 4 2 tat 
+F 2576 4 2 tat 
+F 2584 2 2 on 
+F 2588 2 2 your 
+F 2592 4 2 dum 
+F 2600 4 2 dum 
+F 2608 8 2 drum. 
+- 2618
+F 2620 2 2 The 
+F 2624 4 2 beat 
+F 2632 4 2 so 
+F 2640 4 2 phat 
+- 2646
+F 2648 2 2 Gon
+F 2652 2 2 na 
+F 2656 4 2 make 
+F 2664 4 2 me 
+F 2672 4 2 cum. 
+F 2688 4 2 um 
+F 2704 4 2 um 
+F 2720 4 2 um 
+F 2736 4 2 um. 
+- 2742
+F 2816 2 2 Rat 
+F 2820 2 2 tat 
+F 2824 4 2 tat 
+F 2832 4 2 tat 
+F 2840 2 2 on 
+F 2844 2 2 your 
+F 2848 4 2 dum 
+F 2856 4 2 dum 
+F 2864 8 2 drum. 
+- 2874
+F 2876 2 2 The 
+F 2880 4 2 beat 
+F 2888 4 2 so 
+F 2896 4 2 phat 
+- 2902
+F 2904 2 2 Gon
+F 2908 2 2 na 
+F 2912 4 2 make 
+F 2920 4 2 me 
+F 2928 4 2 cum. 
+F 2944 4 2 um 
+F 2960 4 2 um 
+F 2976 4 2 um 
+F 2992 4 2 um. 
+- 2998
+F 3056 2 2 I 
+F 3060 2 2 I 
+F 3064 2 2 I 
+F 3068 2 2 I 
+F 3072 2 2 don’t 
+F 3076 2 2 mean 
+F 3080 2 2 to 
+F 3084 2 2 cri
+F 3088 2 2 tique 
+- 3091
+F 3092 2 2 On 
+F 3096 2 2 your 
+F 3100 2 2 se
+F 3104 2 2 duc
+F 3108 2 2 tion 
+F 3112 2 2 tech
+F 3116 2 2 nique. 
+- 3119
+F 3120 2 2 But 
+F 3124 2 2 But 
+F 3128 2 2 But 
+F 3132 2 2 your 
+F 3136 2 2 mon
+F 3140 2 2 ey’s 
+F 3144 2 2 not 
+F 3148 2 2 im
+F 3152 2 2 pres
+F 3156 2 2 sing 
+- 3159
+F 3160 2 2 Me 
+F 3164 2 2 it’s 
+F 3168 2 2 kin
+F 3172 2 2 da 
+F 3176 2 2 weak. 
+- 3180
+F 3184 2 2 That 
+F 3188 2 2 that 
+F 3192 2 2 that 
+F 3196 2 2 you 
+F 3200 2 2 real
+F 3204 2 2 ly 
+F 3208 2 2 think 
+- 3211
+F 3212 2 2 You’re 
+F 3216 2 2 gon
+F 3220 2 2 na 
+F 3224 2 2 get 
+F 3228 2 2 my 
+F 3232 4 2 rocks 
+F 3240 4 2 off! 
+- 3246
+F 3248 2 2 Get 
+F 3252 2 2 my 
+F 3256 2 2 top 
+F 3260 2 2 and 
+F 3264 4 2 socks 
+F 3272 3 2 off! 
+- 3276
+F 3276 2 2 By 
+F 3280 2 2 show
+F 3284 2 2 ing 
+F 3288 2 2 me 
+F 3292 2 2 the 
+F 3296 2 2 dol
+F 3300 2 2 las 
+- 3303
+F 3304 2 2 In 
+F 3308 2 2 your 
+F 3312 4 2 drop 
+F 3320 4 2 box. 
+- 3326
+F 3328 2 2 Me 
+F 3332 2 2 and 
+F 3336 2 2 all 
+F 3340 2 2 my 
+F 3344 2 2 friends 
+- 3347
+F 3348 2 2 We 
+F 3352 2 2 don’t 
+F 3356 2 2 buy 
+F 3360 2 2 bot
+F 3364 2 2 tles 
+F 3368 2 2 we 
+F 3372 2 2 bring 
+F 3376 2 2 em. 
+- 3379
+F 3380 2 2 We 
+F 3384 2 2 take 
+F 3388 2 2 the 
+F 3392 4 2 drinks 
+F 3400 2 2 from 
+F 3404 2 2 the 
+F 3408 2 2 ta
+F 3412 2 2 bles 
+- 3415
+F 3416 2 2 When 
+F 3420 2 2 you 
+F 3424 2 2 get 
+F 3428 2 2 up 
+F 3432 2 2 and 
+F 3436 2 2 leave 
+F 3440 2 2 em. 
+- 3443
+F 3444 2 2 And 
+F 3448 2 2 I 
+F 3452 2 2 don’t 
+F 3456 4 2 care 
+F 3464 2 2 if 
+F 3468 2 2 you 
+F 3472 4 2 stare 
+- 3478
+F 3480 2 2 And 
+F 3484 2 2 you 
+F 3488 2 2 call 
+F 3492 2 2 us 
+F 3496 2 2 scum
+F 3500 2 2 my 
+- 3503
+F 3504 2 2 ’Cause 
+F 3508 2 2 we 
+F 3512 2 2 ain’t 
+F 3516 2 2 af
+F 3520 2 2 ter 
+F 3524 2 2 your 
+F 3528 2 2 af
+F 3532 2 2 fec
+F 3536 2 2 tion. 
+- 3539
+F 3540 2 2 And 
+F 3544 2 2 sure 
+F 3548 2 2 as 
+F 3552 2 2 hell 
+F 3556 2 2 not 
+F 3560 2 2 your 
+F 3564 2 2 mo
+F 3568 2 2 ney 
+F 3572 2 2 ho
+F 3576 6 2 ney. 
+- 3583
+: 3584 2 0 I 
+: 3588 2 2 don’t 
+: 3592 4 2 need 
+: 3600 4 2 you 
+- 3606
+: 3608 2 2 Or 
+: 3612 2 2 your 
+: 3616 4 0 brand 
+: 3624 4 3 new 
+: 3632 12 2 Benz. 
+- 3646
+: 3656 2 2 Or 
+: 3660 2 2 your 
+: 3664 4 0 bou
+: 3672 4 3 gie 
+: 3680 12 2 friends. 
+- 3694
+: 3712 2 2 I 
+: 3716 2 2 don’t 
+: 3720 4 2 need 
+: 3728 4 2 love 
+- 3734
+: 3736 2 2 Look
+: 3740 2 2 ing 
+: 3744 4 0 like 
+: 3752 4 -2 dia
+: 3760 12 -2 monds. 
+- 3774
+: 3784 2 2 Look
+: 3788 2 2 ing 
+: 3792 4 0 like 
+: 3800 4 -2 dia
+: 3808 12 -2 monds. 
+- 3822
+: 3840 2 0 I 
+: 3844 2 2 don’t 
+: 3848 4 2 need 
+: 3856 4 2 you 
+- 3862
+: 3864 2 2 Or 
+: 3868 2 2 your 
+: 3872 4 0 brand 
+: 3880 4 3 new 
+: 3888 12 2 Benz. 
+- 3902
+: 3912 2 2 Or 
+: 3916 2 2 your 
+: 3920 4 0 bou
+: 3928 4 3 gie 
+: 3936 12 2 friends. 
+- 3950
+: 3968 2 2 I 
+: 3972 2 2 don’t 
+: 3976 4 2 need 
+: 3984 4 2 love 
+- 3990
+: 3992 2 2 Look
+: 3996 2 2 ing 
+: 4000 4 0 like 
+: 4008 4 -2 dia
+: 4016 12 -2 monds. 
+- 4030
+: 4040 2 2 Look
+: 4044 2 2 ing 
+: 4048 4 0 like 
+: 4056 4 -2 dia
+: 4064 12 -2 monds. 
+- 4078
+F 4096 2 2 Rat 
+F 4100 2 2 tat 
+F 4104 4 2 tat 
+F 4112 4 2 tat 
+F 4120 2 2 on 
+F 4124 2 2 your 
+F 4128 4 2 dum 
+F 4136 4 2 dum 
+F 4144 8 2 drum. 
+- 4154
+F 4156 2 2 The 
+F 4160 4 2 beat 
+F 4168 4 2 so 
+F 4176 4 2 phat 
+- 4182
+F 4184 2 2 Gon
+F 4188 2 2 na 
+F 4192 4 2 make 
+F 4200 4 2 me 
+F 4208 4 2 cum. 
+F 4224 4 2 um 
+F 4240 4 2 um 
+F 4256 4 2 um 
+F 4272 4 2 um. 
+- 4278
+F 4352 2 2 Rat 
+F 4356 2 2 tat 
+F 4360 4 2 tat 
+F 4368 4 2 tat 
+F 4376 2 2 on 
+F 4380 2 2 your 
+F 4384 4 2 dum 
+F 4392 4 2 dum 
+F 4400 8 2 drum. 
+- 4410
+F 4412 2 2 The 
+F 4416 4 2 beat 
+F 4424 4 2 so 
+F 4432 4 2 phat 
+- 4438
+F 4440 2 2 Gon
+F 4444 2 2 na 
+F 4448 4 2 make 
+F 4456 4 2 me 
+F 4464 4 2 cum. 
+F 4480 4 2 um 
+F 4496 4 2 um 
+F 4512 4 2 um 
+F 4528 4 2 um. 
+E

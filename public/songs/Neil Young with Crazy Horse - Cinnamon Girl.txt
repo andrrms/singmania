@@ -1,0 +1,164 @@
+#ARTIST:Neil Young with Crazy Horse
+#TITLE:Cinnamon Girl
+#MP3:Neil Young with Crazy Horse - Cinnamon Girl.mp3
+#CREATOR:uweotto
+#YEAR:1969
+#LANGUAGE:English
+#BPM:208
+#GAP:19400
+#VIDEO:a=jREf47BPe5w,co=everybody-knows-this-is-nowhere-5201cc4090b0a.jpg,bg=young-neil-6572a4c39742d.jpg
+: 0 2 18 I 
+: 4 2 18 want 
+: 8 2 18 to 
+: 12 6 18 live 
+: 20 2 18 with 
+: 24 2 18 a 
+: 28 3 16 cin
+: 32 2 14 na
+: 36 3 16 mon 
+: 40 10 12 girl 
+- 52
+: 60 3 16 I 
+: 64 2 16 can 
+: 68 2 16 be 
+: 72 6 16 hap
+: 80 6 16 py 
+: 88 2 16 the 
+: 92 2 14 rest 
+: 96 2 14 of 
+: 100 2 14 my 
+: 104 8 14 life 
+: 116 3 12 with 
+- 120
+: 120 3 11 A 
+: 124 3 12 cin
+: 128 2 9 na
+: 132 2 9 mon 
+: 136 12 9 girl. 
+- 150
+: 184 3 16 A 
+: 188 2 18 drea
+: 192 2 18 mer 
+: 196 2 18 of 
+: 200 6 18 pic
+: 208 6 18 tures 
+: 216 3 18 i 
+: 220 3 16 run 
+: 224 3 14 in 
+: 228 3 16 the 
+: 232 10 12 night 
+- 244
+: 248 3 14 You 
+: 252 3 16 see 
+: 256 2 16 us 
+: 260 2 16 to
+: 264 6 16 ge
+: 272 6 16 ther 
+: 284 2 14 cha
+: 288 2 14 sing 
+: 292 2 14 the 
+: 296 6 14 moon
+: 304 6 12 light 
+- 311
+: 312 2 11 My 
+: 316 2 12 cin
+: 320 2 9 na
+: 324 2 9 mon 
+: 328 12 9 girl. 
+- 342
+: 634 2 18 10 
+: 638 2 18 sil
+: 642 2 18 ver 
+: 646 6 18 sa
+: 654 6 18 xes, 
+: 662 3 18 a 
+: 666 3 16 bass 
+: 670 3 14 with 
+: 674 3 16 a 
+: 678 8 12 bow 
+- 688
+: 694 3 14 The 
+: 698 2 16 drum
+: 702 2 16 mer 
+: 706 2 16 re
+: 710 6 16 la
+: 718 6 16 xes, 
+- 725
+: 726 1 16 And 
+: 728 4 14 waits 
+: 734 2 14 be
+: 738 1 14 tween 
+: 740 6 14 shows 
+: 748 6 12 for 
+- 756
+: 758 3 11 His 
+: 762 2 12 cin
+: 766 2 9 na
+: 770 1 9 mon 
+: 772 12 9 girl. 
+- 786
+: 820 3 16 A 
+: 824 2 18 drea
+: 828 2 18 mer 
+: 832 2 18 of 
+: 836 6 18 pic
+: 844 6 18 tures 
+: 852 3 18 i 
+: 856 3 16 run 
+: 860 3 14 in 
+: 864 3 16 the 
+: 868 12 12 night 
+- 882
+: 884 3 14 You 
+: 888 2 16 see 
+: 892 2 16 us 
+: 896 2 16 to
+: 900 6 16 ge
+: 908 6 16 ther 
+: 920 2 14 cha
+: 924 2 14 sing 
+: 928 2 14 the 
+: 932 6 14 moon
+: 940 5 12 light 
+- 946
+: 946 2 11 My 
+: 950 4 12 cin
+: 956 2 9 na
+: 960 1 9 mon 
+: 962 12 9 girl. 
+- 976
+: 1270 5 16 Pa 
+: 1276 2 16 send 
+: 1280 2 15 me 
+: 1284 7 16 mo
+: 1292 2 15 ney 
+: 1296 6 16 now 
+- 1303
+: 1304 3 15 I’m 
+: 1308 3 16 gon
+: 1312 2 15 na 
+: 1316 3 16 make 
+: 1320 3 14 it 
+: 1324 2 12 some
+: 1328 6 16 how 
+- 1335
+: 1336 3 15 I 
+: 1340 3 16 need 
+: 1344 3 15 a
+: 1348 7 16 no
+: 1356 3 19 ther 
+: 1360 24 21 chance, 
+- 1386
+: 1390 3 20 You 
+: 1394 3 21 see 
+: 1398 3 20 your 
+: 1402 3 21 ba
+: 1406 3 20 by 
+: 1410 6 21 loves 
+: 1418 4 21 to 
+: 1424 14 23 dance 
+- 1439
+: 1440 12 16 Yeah 
+: 1456 10 16 yeah 
+: 1472 10 16 yeah. 
+E

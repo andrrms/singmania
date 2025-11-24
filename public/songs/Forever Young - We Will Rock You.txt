@@ -1,0 +1,244 @@
+#ARTIST:Forever Young
+#TITLE:We Will Rock You
+#MP3:Forever Young - We Will Rock You.mp3
+#CREATOR:BadNewsBarett
+#YEAR:2003
+#LANGUAGE:English
+#BPM:325.6
+#GAP:20130
+#VIDEO:v=T1u5VRsQ4fY,co=https://i.discogs.com/NbNhWVXhq65aLM560I7YK6g23cZkPpJNwgFLCkEE9ic/rs:fit/g:sm/q:90/h:474/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQx/NzktMTIzOTM5NDYx/OS5qcGVn.jpeg
+: 0 2 14 Bud
+: 4 2 16 dy 
+: 8 2 16 you’re 
+: 12 2 14 a 
+: 16 6 16 boy 
+- 23
+: 24 2 16 Make 
+: 28 2 14 a 
+: 32 4 16 big 
+: 40 4 16 noise 
+- 46
+: 48 2 14 Play
+: 52 2 16 in’ 
+: 56 2 16 in 
+: 60 2 14 the 
+: 64 6 16 street 
+- 71
+: 72 2 16 Gon
+: 76 2 14 na 
+: 80 2 16 be 
+: 84 2 14 a 
+: 88 4 16 big 
+- 94
+: 96 4 21 Man 
+* 104 4 19 some 
+: 112 2 19 day 
+- 115
+: 116 2 14 You 
+: 120 4 16 got 
+: 128 2 16 mud 
+: 132 6 16 on 
+: 140 2 14 your 
+: 144 4 16 face 
+- 150
+: 156 2 9 You 
+: 160 4 16 big 
+: 168 4 16 dis
+: 176 4 16 grace 
+- 182
+: 192 2 14 Kick
+: 196 2 14 in’ 
+: 200 6 14 your 
+* 208 6 14 can 
+- 215
+: 216 2 9 All
+: 220 2 11 ~
+: 224 2 9 o
+: 228 2 7 ver 
+: 232 2 4 the 
+: 236 6 4 place 
+- 244
+: 248 2 11 Sing
+: 252 2 14 in’ 
+- 255
+: 256 12 19 We 
+: 272 12 18 will, 
+: 288 14 16 we 
+: 304 12 14 will 
+- 318
+: 320 6 16 Rock 
+: 328 8 16 you 
+- 338
+: 388 12 19 We 
+: 404 12 18 will, 
+: 420 12 16 we 
+: 436 10 14 will 
+- 448
+: 452 6 16 Rock 
+: 460 6 16 you 
+- 468
+: 518 2 14 Bud
+: 522 2 16 dy 
+: 526 2 16 you’re 
+: 530 2 14 a 
+- 533
+: 534 4 16 Young 
+: 542 4 16 man 
+: 550 4 16 hard 
+: 558 6 16 man 
+- 565
+: 566 2 14 Shout
+: 570 2 16 ing 
+: 574 2 16 in 
+: 578 2 14 the 
+: 582 6 16 street 
+- 589
+: 590 2 16 Gon
+: 594 2 14 na 
+: 598 2 16 take 
+: 602 6 16 on 
+: 610 2 16 the 
+- 613
+* 614 6 21 World 
+: 622 6 19 some 
+: 630 2 19 day 
+- 633
+: 634 2 11 You 
+: 638 4 14 got 
+: 646 2 16 blood 
+: 650 4 16 on 
+: 658 2 14 your 
+: 662 4 16 face 
+- 668
+: 672 2 9 You 
+: 676 4 16 big 
+: 684 4 16 dis
+: 692 4 16 grace 
+- 698
+: 708 2 14 Wa
+: 712 2 14 vin’ 
+: 716 4 14 your 
+: 724 2 14 ban
+: 728 2 14 ner 
+- 731
+: 732 2 9 All
+: 736 2 11 ~
+: 740 2 9 o
+: 744 2 7 ver 
+: 748 4 4 the 
+* 756 6 4 place 
+- 764
+: 774 12 19 We 
+* 790 12 18 will, 
+: 806 12 16 we 
+: 822 14 14 will 
+- 837
+: 838 6 16 Rock 
+: 846 8 16 you 
+- 856
+F 880 2 31 Sing 
+F 884 4 31 it 
+F 890 8 31 ah 
+- 900
+: 902 14 19 We 
+: 918 12 18 will, 
+: 934 14 16 we 
+: 950 14 14 will 
+- 965
+: 966 4 16 Rock 
+: 974 8 16 you 
+- 984
+: 1094 3 14 Bud
+: 1098 2 16 dy 
+: 1102 2 16 you’re 
+: 1106 2 14 an 
+- 1109
+: 1110 4 16 Old 
+: 1118 6 16 man 
+* 1126 4 16 poor 
+: 1134 6 16 man 
+- 1141
+: 1142 2 14 Plead
+: 1146 2 16 in’ 
+: 1150 2 16 with 
+: 1154 2 14 your 
+: 1158 4 16 eyes 
+- 1164
+: 1166 2 16 Gon
+: 1170 2 14 na 
+: 1174 2 16 make 
+: 1178 2 14 you 
+: 1182 4 16 some 
+- 1188
+: 1190 6 21 Peace 
+: 1198 6 19 some 
+: 1206 2 19 day 
+- 1209
+: 1210 2 11 You 
+: 1214 4 14 got 
+: 1222 2 16 mud 
+: 1226 6 16 on 
+: 1234 2 16 your 
+: 1238 4 16 face 
+- 1244
+: 1254 4 16 Big 
+: 1262 4 16 dis
+: 1270 4 16 grace 
+- 1276
+: 1278 6 14 Some
+: 1286 2 14 bo
+: 1290 2 14 dy 
+: 1294 2 14 bet
+: 1298 2 14 ter 
+: 1302 2 14 put 
+: 1306 2 14 you 
+- 1309
+: 1310 2 9 Back
+* 1314 2 11 ~
+: 1318 2 9 in
+: 1322 2 7 to 
+: 1326 4 4 your 
+: 1338 4 16 place 
+- 1344
+: 1352 12 19 We 
+: 1368 12 18 will, 
+* 1384 14 16 we 
+: 1400 14 14 will 
+- 1415
+: 1416 6 16 Rock 
+: 1424 3 16 you
+: 1428 2 14 ~
+: 1432 4 10 ~ 
+- 1438
+F 1464 4 31 Sing 
+F 1470 4 31 it 
+- 1476
+: 1480 12 19 We 
+: 1496 12 18 will, 
+: 1512 12 16 we 
+: 1528 12 14 will 
+- 1542
+: 1544 4 16 Rock 
+* 1552 6 16 you 
+- 1560
+: 1592 2 9 E
+: 1596 2 11 very
+: 1600 2 14 bo
+: 1604 2 16 dy 
+- 1607
+: 1608 12 19 We 
+: 1624 14 18 will, 
+: 1640 12 16 we 
+: 1656 12 14 will 
+- 1670
+: 1672 6 16 Rock 
+: 1680 8 16 you 
+- 1690
+: 1734 14 19 We 
+: 1750 12 18 will, 
+: 1766 12 16 we 
+: 1782 12 14 will 
+- 1796
+* 1798 4 16 Rock 
+: 1806 10 16 you 
+E

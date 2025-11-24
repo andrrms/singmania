@@ -1,0 +1,198 @@
+#ARTIST:The Prodigy
+#TITLE:Firestarter
+#MP3:The Prodigy - Firestarter.mp3
+#CREATOR:haistshomie666
+#GENRE:Hardcore
+#YEAR:1996
+#LANGUAGE:English
+#BPM:244
+#GAP:34400
+#VIDEO:v=wmin5WkOuPw,co=firestarter-5c9b12d27985f.jpg,bg=the-prodigy-4f62819629d7b.jpg
+: 0 2 2 I’m 
+: 3 2 2 the 
+: 6 2 0 trou
+* 10 2 -1 ble 
+: 13 3 0 star
+: 17 4 0 ter 
+- 23
+: 28 2 2 Pun
+: 32 2 2 king 
+* 36 1 2 in
+: 38 1 2 sti
+: 40 3 2 ga
+: 45 3 1 tor 
+- 50
+: 110 2 4 I’m 
+: 113 1 3 the 
+: 116 2 2 fear 
+: 120 2 0 ad
+: 124 2 0 dic
+: 127 3 0 ted 
+- 132
+: 138 2 2 Dan
+: 142 1 1 ger 
+: 145 1 0 il
+: 147 2 0 lus
+: 151 3 0 tra
+: 155 3 -1 ted 
+- 160
+: 220 3 4 I’m 
+: 224 1 2 a 
+* 226 4 0 fire
+* 231 5 -1 star
+: 237 4 -1 ter 
+- 242
+: 244 6 2 Twis
+: 251 2 0 ted 
+: 255 4 0 fire
+: 261 3 -1 star
+: 265 3 -1 ter 
+- 270
+: 331 2 4 You’re 
+: 334 2 2 the 
+: 337 4 0 fire
+: 343 5 -1 star
+: 349 4 -2 ter 
+- 355
+: 358 3 2 Twis
+* 362 1 0 ted 
+: 365 3 0 fire
+: 370 4 -1 star
+: 376 3 -2 ter 
+- 381
+: 440 2 4 I’m 
+: 444 1 2 a 
+: 447 4 0 fire
+* 453 3 -1 star
+: 458 3 -2 ter 
+- 463
+: 468 3 2 Twis
+: 473 1 0 ted 
+: 476 4 0 fire
+: 482 3 -1 star
+: 487 3 -1 ter 
+- 492
+: 608 1 2 I’m 
+: 610 2 0 the 
+: 613 2 0 bitch 
+: 616 2 2 you 
+: 619 2 2 ha
+: 623 4 1 ted 
+- 629
+: 634 2 2 Filth 
+: 638 2 2 in 
+: 642 2 1 fa
+: 646 1 2 tu
+* 648 2 0 a
+: 652 4 0 ted 
+- 658
+: 680 3 5 Yeah
+: 684 7 6 ~ 
+- 693
+: 717 2 2 I’m 
+: 721 1 0 the 
+: 724 2 2 pain 
+: 728 1 1 you 
+: 731 3 -1 tas
+: 736 4 0 ted 
+- 742
+: 745 2 4 Fell 
+: 749 1 3 in
+: 752 1 2 to
+: 755 1 -1 xi
+* 758 2 1 ca
+: 762 7 0 ted 
+- 771
+: 828 1 4 I’m 
+: 831 1 2 a 
+: 834 3 0 fire
+: 839 3 -1 star
+: 844 3 0 ter 
+- 849
+: 855 2 2 Twis
+: 859 1 0 ted 
+: 862 4 0 fire
+: 868 3 -1 star
+: 873 3 -1 ter 
+- 878
+: 938 2 3 You’re 
+: 942 1 2 the 
+: 944 4 0 fire
+* 950 4 -1 star
+: 956 2 -1 ter 
+- 960
+: 966 2 2 Twis
+: 970 1 0 ted 
+: 973 3 0 fire
+: 978 4 -1 star
+: 984 4 -2 ter 
+- 990
+: 1488 2 3 I’m 
+: 1492 2 5 the 
+: 1496 2 5 self-
+: 1499 2 5 in
+: 1503 2 4 flic
+: 1506 4 4 ted 
+- 1512
+: 1521 3 2 Punk 
+: 1525 2 2 de
+: 1528 1 1 to
+: 1530 1 -1 na
+: 1532 1 2 ~
+: 1534 1 2 to
+: 1536 2 -1 ~r 
+- 1540
+: 1562 2 14 Yeah
+: 1565 4 13 ~ 
+- 1571
+: 1600 2 0 I’m 
+: 1604 1 2 the 
+* 1606 2 5 one 
+: 1609 2 5 in
+: 1613 2 3 ven
+: 1616 1 2 te
+: 1618 2 0 ~d 
+- 1622
+: 1628 2 4 Twis
+: 1632 1 3 ted 
+: 1635 2 0 a
+: 1638 1 -1 ni
+: 1640 2 0 ma
+: 1644 3 1 tor 
+- 1649
+: 1711 1 4 I’m 
+: 1713 2 2 a 
+: 1717 4 0 fire
+: 1723 2 -1 star
+: 1727 3 0 ter 
+- 1732
+: 1738 2 4 Twis
+* 1742 2 1 ted 
+: 1745 4 0 fire
+: 1751 2 -1 star
+: 1755 3 -1 ter 
+- 1760
+: 1820 2 3 You’re 
+: 1824 2 2 the 
+: 1828 3 0 fire
+: 1833 4 -1 star
+: 1838 3 -1 ter 
+- 1843
+: 1848 2 3 Twis
+: 1852 2 2 ted 
+: 1856 4 0 fire
+: 1862 2 0 star
+: 1866 3 0 ter 
+- 1871
+: 1931 1 2 I’m 
+: 1933 2 2 a 
+: 1937 4 0 fire
+: 1943 2 -1 star
+: 1947 3 -1 ter 
+- 1952
+: 1958 2 3 Twis
+: 1962 2 0 ted 
+* 1966 3 0 fire
+: 1971 3 0 star
+: 1976 3 -1 ter 
+E

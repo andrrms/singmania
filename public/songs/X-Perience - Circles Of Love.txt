@@ -1,0 +1,322 @@
+#ARTIST:X-Perience
+#TITLE:Circles Of Love
+#MP3:X-Perience - Circles Of Love.mp3
+#CREATOR:Unknown
+#COVER:X-Perience - Circles Of Love [CO].jpg
+#BACKGROUND:X-Perience - Circles Of Love [BG].jpg
+#YEAR:1995
+#LANGUAGE:English
+#BPM:257.58
+#GAP:31960
+#VIDEO:a=W7Mji9lkSb8,co=https://media.hitparade.ch/cover/800/x-perience-circles_of_love_s.jpg
+: 0 8 3 We 
+: 10 12 3 dance 
+: 23 2 7 in 
+: 26 3 7 the 
+: 30 8 8 de
+: 42 5 2 sert 
+- 48
+: 50 2 5 I 
+: 53 4 7 feel 
+: 58 2 9 a 
+: 62 11 10 glance 
+: 74 4 10 of 
+: 83 6 6 your 
+: 93 15 4 eye 
+- 110
+: 120 3 6 The 
+: 124 3 5 sun 
+: 130 5 5 is 
+: 136 4 0 bur
+: 148 8 4 ning 
+: 157 4 6 on 
+: 162 3 7 the 
+: 167 9 2 sand 
+- 178
+: 186 5 8 Year
+: 192 6 8 ning 
+: 202 7 7 bo
+: 213 6 10 dies 
+: 220 4 11 hand 
+: 225 3 12 in 
+: 232 8 11 hand 
+- 242
+: 476 3 8 Cir
+: 480 3 9 cles 
+: 485 2 10 of 
+: 488 4 8 love 
+: 495 4 10 turn 
+: 500 2 11 my 
+: 504 5 12 head 
+- 510
+: 512 3 7 I 
+: 516 3 7 de
+: 520 6 10 serve 
+: 528 3 6 and 
+: 532 3 8 I’ll 
+: 536 4 10 get 
+- 542
+: 544 3 8 All 
+: 548 4 11 your 
+: 553 6 12 lo
+: 561 3 13 vin’ 
+: 565 2 13 to
+: 568 8 12 night 
+- 577
+: 578 3 11 And 
+: 582 3 10 my 
+: 586 8 10 fire 
+: 596 3 12 will 
+: 600 4 10 burn 
+- 606
+: 610 6 9 Inno
+: 617 7 10 cence 
+: 625 4 9 won’t 
+: 630 2 8 re
+: 633 7 7 turn 
+- 642
+: 672 8 7 Inno
+: 681 7 11 cence 
+: 689 4 10 won’t 
+: 694 3 10 re
+: 698 10 8 turn 
+- 710
+: 736 8 6 Your 
+: 745 6 5 face 
+: 752 3 6 a
+: 756 3 8 cross 
+: 760 3 7 the 
+: 764 10 8 far 
+: 775 4 7 sky 
+- 781
+: 784 2 5 I 
+: 789 3 8 loose 
+: 793 3 9 my
+: 797 7 10 self 
+: 808 11 11 in 
+: 820 8 7 your 
+: 829 11 4 eyes 
+- 842
+: 862 3 5 I 
+: 866 3 5 am 
+: 872 6 0 coun
+: 884 8 4 ting 
+: 893 4 6 nights 
+: 898 3 7 and 
+: 904 8 2 days 
+- 914
+: 924 5 7 Wai
+: 930 5 8 ting 
+: 937 3 7 for 
+: 948 4 9 the 
+: 955 4 10 next 
+: 960 4 11 em
+: 968 10 11 brace 
+- 980
+: 1212 3 9 Cir
+: 1216 4 10 cles 
+: 1221 3 9 of 
+: 1225 7 8 love 
+: 1233 3 12 turn 
+: 1237 2 11 my 
+: 1240 7 12 head 
+- 1248
+: 1250 2 6 I 
+: 1253 2 6 de
+: 1257 6 9 serve 
+: 1265 3 6 and 
+: 1269 3 8 I’ll 
+: 1273 5 10 get 
+- 1280
+: 1282 3 10 All 
+: 1286 3 11 your 
+: 1290 5 12 lo
+: 1296 4 12 vin’ 
+: 1301 2 13 to
+: 1304 6 11 night 
+- 1312
+: 1314 3 10 And 
+: 1318 2 10 my 
+: 1321 9 10 fire 
+: 1332 3 12 will 
+: 1337 5 10 burn 
+- 1343
+: 1344 4 9 Inno
+: 1352 8 10 cence 
+: 1361 4 9 won’t 
+: 1366 2 7 re
+: 1370 6 6 turn 
+- 1378
+: 1410 6 11 Inno
+: 1417 7 11 cence 
+: 1425 4 9 won’t 
+: 1430 2 8 re
+: 1434 6 7 turn 
+- 1442
+: 1468 3 7 Cir
+: 1472 4 8 cles 
+: 1477 3 9 of 
+: 1482 6 8 love 
+: 1489 3 11 turn 
+: 1493 3 10 my 
+: 1498 5 12 head 
+- 1504
+: 1506 2 6 I 
+: 1509 2 6 de
+: 1512 5 9 serve 
+: 1519 4 6 and 
+: 1524 4 7 I’ll 
+: 1529 4 9 get 
+- 1534
+: 1536 3 9 All 
+: 1540 3 10 your 
+: 1545 5 12 lo
+: 1553 3 12 vin’ 
+: 1557 3 13 to
+: 1562 4 11 night 
+- 1567
+: 1569 3 9 And 
+: 1573 3 9 my 
+: 1577 10 10 fire 
+: 1588 3 11 will 
+: 1592 6 10 burn 
+- 1600
+: 1602 4 9 Inno
+: 1607 8 9 cence 
+: 1616 3 9 won’t 
+: 1620 2 8 re
+: 1624 5 5 turn 
+- 1631
+: 1724 3 9 I 
+: 1728 3 9 re
+: 1732 3 11 a
+: 1736 11 12 lize 
+: 1748 3 13 you 
+: 1752 12 11 drive 
+- 1766
+: 1784 3 4 Me 
+: 1788 3 5 cra
+: 1792 2 7 zy 
+: 1795 3 7 my 
+: 1799 7 7 mind 
+- 1808
+: 1812 5 5 Love 
+: 1819 4 4 came 
+: 1824 4 4 face 
+: 1829 2 5 to 
+: 1833 5 6 face 
+: 1844 4 6 with 
+: 1852 6 7 life 
+- 1859
+: 1861 3 9 All 
+: 1865 2 9 e
+: 1868 3 9 mo
+: 1876 7 7 tions 
+: 1884 3 8 in 
+: 1888 3 5 my 
+: 1894 12 6 mind 
+- 1908
+: 1916 7 11 Try 
+: 1924 3 10 to 
+: 1929 4 8 co
+: 1936 8 7 ver 
+: 1948 4 11 try 
+: 1956 3 9 to 
+: 1960 8 5 hide 
+- 1970
+: 1976 3 9 I 
+: 1980 4 11 try 
+: 1988 3 11 to 
+: 1992 4 9 co
+: 2000 5 6 ver 
+: 2012 4 11 try 
+: 2020 3 9 to 
+: 2025 9 5 hide 
+- 2036
+: 2076 4 11 Cir
+: 2081 3 10 cles 
+: 2086 2 9 of 
+: 2090 5 8 love 
+: 2096 4 11 turn 
+: 2101 3 10 my 
+: 2105 4 12 head 
+- 2110
+: 2112 3 5 I 
+: 2117 2 6 de
+: 2120 7 9 serve 
+: 2128 3 6 and 
+: 2132 3 8 I’ll 
+: 2136 3 9 get 
+- 2141
+: 2144 3 10 All 
+: 2148 4 11 your 
+: 2153 4 12 lo
+: 2161 3 13 vin’ 
+: 2165 3 12 to
+: 2169 4 11 night 
+- 2175
+: 2177 3 10 And 
+: 2181 2 9 my 
+: 2184 4 11 fire
+: 2189 5 10 ~ 
+: 2196 4 11 will 
+: 2201 4 10 burn 
+- 2206
+: 2208 4 10 Inno
+: 2215 7 10 cence 
+: 2224 4 9 won’t 
+: 2229 2 8 re
+: 2234 6 7 turn 
+- 2242
+: 2274 6 11 Inno
+: 2281 7 11 cence 
+: 2289 3 10 won’t 
+: 2293 2 10 re
+: 2296 6 7 turn 
+- 2304
+: 2332 4 8 Cir
+: 2337 3 9 cles 
+: 2341 2 10 of 
+: 2345 5 8 love 
+: 2351 4 12 turn 
+: 2356 3 10 my 
+: 2360 5 12 head 
+- 2366
+: 2368 3 5 I 
+: 2372 2 6 de
+: 2376 6 10 serve 
+: 2383 3 8 and 
+: 2388 3 8 I’ll 
+: 2392 4 10 get 
+- 2398
+: 2400 3 10 All 
+: 2404 3 11 your 
+: 2409 3 12 lo
+: 2416 4 12 vin’ 
+: 2421 2 12 to
+: 2424 7 11 night 
+- 2432
+: 2433 3 10 And 
+: 2437 2 9 my 
+: 2440 8 10 fire 
+: 2451 5 11 will 
+: 2457 6 9 burn 
+- 2464
+: 2466 5 8 Inno
+: 2472 8 9 cence 
+: 2481 3 8 won’t 
+: 2485 2 8 re
+: 2488 6 6 turn 
+- 2496
+: 2528 4 11 Inno
+: 2536 8 11 cence 
+: 2545 3 9 won’t 
+: 2549 2 9 re
+: 2552 8 7 turn 
+- 2562
+: 2722 5 10 Inno
+: 2728 8 11 cence 
+: 2737 3 9 won’t 
+: 2741 2 8 re
+: 2744 6 6 turn 
+E

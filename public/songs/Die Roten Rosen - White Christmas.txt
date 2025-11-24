@@ -1,0 +1,263 @@
+#ARTIST:Die Roten Rosen
+#TITLE:White Christmas
+#MP3:Die Roten Rosen - White Christmas.mp3
+#CREATOR:Tom
+#GENRE:Christmas
+#YEAR:1998
+#LANGUAGE:English
+#BPM:208.4
+#GAP:12530
+#VIDEO:a=HNmTeroFxaU,co=wir-warten-aufs-christkind-50050cc748721.jpg,bg=toten-hosen-die-524da5ae4d978.jpg,tags=Christmas
+: 0 22 23 I’m 
+: 28 8 24 drea
+: 37 9 23 ming 
+: 47 8 22 of 
+: 56 8 23 a 
+: 65 16 24 white 
+: 96 9 25 Christ
+: 106 11 26 mas 
+- 119
+: 138 7 28 Just 
+: 146 8 30 like 
+: 155 4 31 the 
+: 160 11 33 ones 
+: 172 7 31 I 
+: 180 7 30 used 
+: 188 4 28 to 
+: 193 15 26 know 
+- 210
+: 248 6 19 Where 
+: 255 6 21 the 
+: 262 13 23 tree 
+: 280 10 23 tops 
+: 296 3 23 gli
+: 300 8 28 sten 
+- 310
+: 324 7 26 And 
+: 332 16 19 child
+: 349 9 19 ren 
+: 365 4 19 lis
+: 370 8 26 ten 
+- 380
+: 392 8 24 To 
+: 401 11 23 hear 
+: 433 9 24 sleigh 
+: 443 8 23 bells 
+: 452 8 21 in 
+: 461 4 19 the 
+* 468 20 21 snow 
+: 493 10 23 (Uho
+: 504 9 21 -Ho) 
+- 515
+: 536 22 23 I’m 
+: 568 8 24 drea
+: 577 8 23 ming 
+: 586 7 22 of 
+: 594 9 23 a 
+: 604 12 24 white 
+: 639 9 25 Christ
+: 649 11 26 mas 
+- 662
+: 680 8 28 With 
+: 689 7 30 ev
+: 697 7 31 ery 
+* 705 9 33 Christ
+: 715 7 31 mas 
+: 723 8 30 card 
+: 732 7 28 I 
+: 740 12 26 write 
+- 754
+: 789 8 19 May 
+: 798 7 21 your 
+: 807 15 23 days, 
+: 824 15 23 be 
+: 841 8 23 mer
+: 850 11 28 ry 
+: 868 8 26 and 
+* 877 27 31 bright 
+- 906
+: 922 11 19 And 
+: 934 7 21 may 
+: 942 12 23 all 
+: 958 12 23 your 
+: 981 7 28 Christ
+: 989 10 26 mas
+: 1000 11 18 es 
+: 1012 11 18 be 
+* 1024 44 19 white. 
+- 1070
+: 1303 14 11 I’m 
+: 1322 5 12 drea
+: 1328 4 11 ming 
+: 1333 3 10 of 
+: 1337 4 11 a 
+: 1342 7 12 white 
+: 1361 4 13 Christ
+: 1366 8 14 mas 
+- 1376
+: 1385 4 28 Just 
+: 1390 4 30 like 
+: 1395 2 31 the 
+* 1398 6 33 ones 
+: 1405 4 31 I 
+: 1410 3 30 used 
+: 1414 2 28 to 
+: 1417 8 26 know 
+- 1427
+: 1449 4 19 Where 
+: 1454 3 21 the 
+: 1458 8 23 tree 
+: 1467 7 23 tops 
+: 1476 5 23 glist
+: 1482 6 28 en 
+- 1490
+: 1492 3 26 And 
+: 1496 9 19 child
+: 1506 7 19 ren 
+: 1515 4 19 lis
+: 1520 6 26 ten 
+- 1528
+: 1529 5 24 To 
+: 1535 7 23 hear 
+: 1553 5 24 sleigh 
+: 1559 4 23 bells 
+: 1564 3 21 in 
+: 1568 4 19 the 
+: 1573 11 21 snow. 
+- 1586
+: 1611 19 23 I’m 
+: 1632 4 24 drea
+: 1637 4 23 ming 
+: 1642 3 22 of 
+: 1646 4 23 a 
+: 1651 9 24 white 
+: 1669 5 25 Christ
+: 1675 8 26 mas 
+- 1685
+: 1693 5 28 With 
+: 1699 3 30 ev
+: 1703 4 31 ery 
+* 1708 4 33 Christ
+: 1713 4 31 mas 
+: 1718 4 30 card 
+: 1723 4 28 I 
+: 1728 7 26 write 
+- 1737
+: 1756 4 19 May 
+: 1761 4 21 your 
+: 1766 9 23 days, 
+: 1776 8 23 be 
+: 1785 4 23 mer
+: 1790 8 28 ry 
+: 1800 4 26 and 
+* 1805 10 31 bright 
+- 1817
+: 1834 4 19 And 
+: 1839 4 21 may 
+: 1844 8 23 all 
+: 1853 7 23 your 
+: 1862 4 28 Christ
+: 1867 4 26 mas
+: 1872 4 18 es 
+: 1877 4 18 be 
+: 1882 9 19 white 
+- 1893
+F 1895 5 20 All 
+F 1901 10 20 right! 
+- 1913
+: 2227 16 25 I’m 
+: 2245 4 26 drea
+: 2250 4 25 ming 
+: 2255 3 24 of 
+: 2259 3 25 a 
+: 2263 6 26 white 
+: 2279 4 27 Christ
+: 2284 5 28 mas 
+- 2291
+: 2299 4 30 Just 
+: 2304 3 32 like 
+: 2308 1 33 the 
+* 2310 5 35 ones 
+: 2316 3 33 I 
+: 2320 3 32 used 
+: 2324 3 30 to 
+: 2328 6 28 know 
+- 2336
+: 2350 3 21 Where 
+: 2354 3 23 the 
+: 2358 6 25 tree 
+: 2365 7 25 tops 
+: 2373 3 25 glis
+: 2377 6 30 ten 
+- 2384
+: 2384 4 28 And 
+: 2389 7 21 child
+: 2397 6 21 ren 
+: 2404 3 21 lis
+: 2408 6 28 ten 
+- 2415
+: 2416 3 26 To 
+: 2420 7 25 hear 
+: 2435 3 26 sleigh 
+: 2439 4 25 bells 
+: 2444 3 23 in 
+: 2448 3 21 the 
+: 2452 7 23 snow 
+- 2461
+: 2483 13 25 I’m 
+: 2497 3 26 drea
+: 2501 3 25 ming 
+: 2505 3 24 of 
+: 2509 4 25 a 
+: 2514 6 26 white 
+: 2528 4 27 Christ
+: 2533 7 28 mas 
+- 2542
+: 2548 3 30 With 
+: 2552 3 32 ev
+: 2556 3 33 ery 
+* 2560 3 35 Christ
+: 2564 3 33 mas 
+: 2568 3 32 card 
+: 2572 3 30 I 
+: 2576 5 28 write 
+- 2583
+: 2599 2 21 May 
+: 2602 2 23 your 
+: 2605 7 25 days, 
+: 2613 6 25 be 
+: 2620 3 25 mer
+: 2624 7 30 ry 
+: 2632 3 28 and 
+* 2636 11 33 bright 
+- 2649
+: 2658 3 21 And 
+: 2662 4 23 may 
+: 2667 6 25 all 
+: 2674 7 25 your 
+: 2682 3 30 Christ
+: 2686 3 28 mas
+: 2690 2 20 es 
+: 2693 3 20 be 
+: 2697 6 21 white. 
+- 2705
+: 2714 3 21 I 
+: 2718 3 21 said 
+: 2722 3 23 your 
+: 2726 7 25 days 
+: 2734 6 25 be 
+: 2741 3 25 mer
+: 2745 6 30 ry 
+: 2752 4 28 and 
+* 2757 13 33 bright 
+- 2772
+: 2779 3 21 And 
+: 2784 3 23 may 
+: 2788 7 25 all 
+: 2797 7 25 your 
+: 2807 6 30 Christ
+: 2814 5 28 ma
+: 2820 4 20 ses 
+: 2826 5 20 be 
+* 2832 44 21 white 
+E

@@ -1,0 +1,157 @@
+#ARTIST:Klanglos
+#TITLE:Deeper Truth
+#MP3:Klanglos - Deeper Truth.mp3
+#CREATOR:Daniel
+#COVER:Klanglos - Deeper Truth [CO].jpg
+#BACKGROUND:Klanglos - Deeper Truth [BG].jpg
+#GENRE:Pop
+#YEAR:2016
+#LANGUAGE:English
+#BPM:260.2
+#GAP:74100
+#VIDEO:v=ZOGwBJQ2vAI,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/78/33/6778338c-941f-8efc-38ea-f1676a665de8/cover_10197764.jpg/5000x5000bb.jpg
+#START:11.0
+: 0 7 9 This 
+: 9 6 9 is 
+: 17 5 7 part 
+: 33 5 4 of 
+: 46 5 2 being 
+- 85
+: 129 6 8 Hence 
+: 137 6 9 don’t 
+: 145 6 7 hold 
+: 161 6 5 it 
+: 169 10 5 down 
+- 213
+: 257 8 9 Dee
+: 267 4 9 per 
+: 275 7 7 Truth, 
+: 289 3 4 do
+: 294 3 5 ubt 
+: 299 2 1 of 
+: 303 10 2 being 
+- 347
+: 384 5 7 Furt
+: 391 5 9 her 
+: 402 6 7 on 
+: 416 2 4 the 
+: 425 6 5 gr
+: 433 6 4 o
+: 442 7 4 und 
+- 466
+: 503 3 9 Can 
+: 508 3 9 you 
+: 513 6 12 trust 
+: 521 6 12 my 
+: 529 6 11 light 
+: 537 6 11 to 
+: 545 6 11 lead 
+: 553 3 9 the 
+: 558 16 9 way 
+: 577 12 11 back 
+: 592 12 12 home 
+- 638
+* 764 6 8 Whis
+* 772 6 9 pered 
+* 781 8 7 words 
+* 797 6 2 of 
+* 806 9 2 shame 
+- 849
+: 897 8 4 But 
+: 907 6 7 I’ll 
+* 915 4 7 keep 
+* 921 4 7 it 
+: 927 4 11 to 
+: 935 12 7 my
+: 949 13 9 self 
+- 996
+: 1144 3 5 Can 
+: 1149 3 5 you 
+: 1154 6 12 trust 
+: 1162 6 12 my 
+: 1170 6 12 light 
+: 1178 6 11 to 
+: 1186 6 11 lead 
+: 1194 3 9 the 
+: 1199 16 9 way 
+: 1217 12 11 back 
+: 1232 12 12 home 
+- 1278
+: 1408 5 7 Furt
+: 1415 5 9 her 
+: 1426 6 7 on 
+: 1440 2 4 the 
+: 1449 6 5 gr
+: 1457 6 4 o
+: 1466 7 2 und 
+- 1507
+: 2050 7 8 This 
+: 2059 6 9 is 
+: 2067 5 7 part 
+: 2083 5 4 of 
+: 2096 5 2 being 
+- 2135
+: 2178 6 8 Hence 
+: 2186 6 9 don’t 
+: 2194 6 7 hold 
+: 2210 6 5 it 
+: 2218 10 5 down 
+- 2262
+: 2307 8 7 Dee
+: 2317 4 9 per 
+* 2325 7 7 truth, 
+: 2339 3 4 do
+: 2344 3 5 ubt 
+: 2349 2 3 of 
+: 2353 10 2 being 
+- 2397
+: 2433 5 7 Furt
+: 2440 5 9 her 
+: 2451 6 7 on 
+: 2465 2 4 the 
+: 2474 6 5 gr
+: 2482 6 4 o
+: 2491 7 2 und 
+- 2532
+: 2949 5 7 Furt
+: 2956 5 9 her 
+: 2967 6 7 on 
+* 2981 2 4 the 
+: 2990 6 5 gr
+: 2998 6 4 o
+: 3007 7 3 und 
+- 3048
+: 3588 7 9 This 
+: 3597 6 9 is 
+: 3605 5 7 part 
+: 3621 5 4 of 
+: 3634 5 2 being 
+- 3673
+: 3717 6 8 Hence 
+: 3725 6 9 don’t 
+: 3733 6 7 hold 
+: 3749 6 5 it 
+: 3757 10 5 down 
+- 3801
+: 3842 8 7 Dee
+: 3852 4 8 per 
+: 3860 7 7 truth, 
+* 3874 3 4 do
+* 3879 3 1 ubt 
+: 3884 2 2 of 
+: 3888 10 2 being 
+- 3932
+: 3972 5 7 Furt
+: 3979 5 9 her 
+: 3990 6 7 on 
+: 4004 2 4 the 
+: 4013 6 5 gr
+: 4021 6 4 o
+: 4030 7 2 und 
+- 4071
+: 4479 6 8 Whis
+: 4487 6 9 pered 
+: 4496 8 7 words 
+: 4512 6 3 of 
+: 4521 9 2 shame 
+E

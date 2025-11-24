@@ -1,0 +1,55 @@
+#ARTIST:The Hitmen
+#TITLE:Like I Love You
+#MP3:The Hitmen - Like I Love You.mp3
+#CREATOR:Andre1411
+#YEAR:2007
+#LANGUAGE:English
+#BPM:280
+#GAP:13910
+#VIDEO:a=hDguWO5U0-E,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ab/01/af/ab01afa1-af20-8358-90ec-86463c51f345/cover.jpg/5000x5000bb.jpg,bg=hitmen-the-50e0ec5e97f95.jpg
+* 0 31 7 Like 
+: 32 23 2 I 
+: 56 7 -3 love 
+: 64 5 -3 you
+: 70 26 -1 ? 
+- 98
+: 120 3 4 You 
+: 124 3 2 can 
+: 128 3 2 hu
+* 132 19 4 rt 
+: 152 7 2 ~ 
+: 160 16 2 me 
+: 184 3 -3 with 
+: 188 3 -3 your 
+: 192 3 -3 smi
+: 196 12 -1 le 
+- 210
+* 256 31 7 Like 
+: 288 23 2 I 
+: 312 7 -3 love 
+: 320 5 -3 you
+: 326 26 -1 ? 
+- 354
+: 376 3 -3 With 
+: 380 3 -3 your 
+: 384 3 -3 smi
+: 388 12 -1 le 
+: 440 3 4 you 
+: 444 3 2 can 
+: 448 3 2 hu
+* 452 19 4 rt 
+: 472 7 2 ~ 
+: 480 16 2 me 
+- 498
+: 616 3 11 Set 
+: 620 3 9 me 
+: 624 3 9 fre
+* 628 12 11 e 
+- 642
+: 760 3 4 You 
+: 764 3 2 can 
+: 768 3 2 hu
+* 772 19 4 rt 
+: 792 7 2 ~ 
+: 800 16 2 me 
+E

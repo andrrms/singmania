@@ -1,0 +1,111 @@
+#ARTIST:The Last Unicorn OST
+#TITLE:Now That I’m A Woman
+#MP3:The Last Unicorn OST - Now That I’m A Woman.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Soundtrack
+#YEAR:1982
+#LANGUAGE:English
+#BPM:301.8
+#GAP:22750
+#VIDEO:a=Q7a-v7SwYWA,v=DnGKp2IYE6Y,co=https://i.scdn.co/image/ab67706c0000bebb2ea9536809277587976afadb,preview=49.589,medley=1197-2282
+#VIDEOGAP:8.0
+: 0 30 0 Once 
+- 32
+: 42 5 7 I 
+: 51 4 7 can’t 
+: 57 3 9 re
+: 62 4 9 mem
+: 69 26 7 ber 
+- 97
+: 110 6 9 I 
+: 118 4 11 was, 
+: 126 20 12 long 
+: 152 3 5 a
+: 158 23 4 go 
+- 183
+: 206 5 9 Some
+: 214 7 4 one 
+: 228 29 2 strange 
+- 259
+: 342 3 4 I 
+: 347 3 4 was 
+: 352 2 3 in
+: 355 2 5 no
+: 360 12 7 cent 
+: 375 4 3 and 
+: 382 39 0 wise 
+- 423
+: 425 7 0 And 
+: 437 2 2 full 
+: 441 2 4 of 
+: 447 38 4 pain 
+- 487
+: 540 10 4 Now 
+: 554 3 5 that 
+: 559 6 5 I’m 
+: 568 4 7 a 
+: 574 4 7 wo
+: 580 76 9 man 
+- 658
+: 670 8 7 Eve
+: 684 3 5 ry
+: 691 6 5 thing 
+: 701 2 4 is 
+: 709 51 4 strange 
+- 762
+: 1197 35 0 Once 
+- 1234
+: 1243 3 7 When 
+: 1248 4 7 I 
+: 1255 3 9 was 
+: 1262 7 9 sear
+: 1271 28 7 ching 
+- 1301
+: 1308 5 9 Some
+: 1316 6 11 where 
+: 1326 18 12 out 
+: 1349 3 5 of 
+: 1356 24 4 reach 
+- 1382
+: 1403 16 9 Far 
+: 1422 5 4 a
+: 1430 30 2 way 
+- 1462
+: 1539 2 4 In 
+: 1542 2 4 a 
+: 1547 6 3 place 
+: 1555 4 5 I 
+: 1562 7 7 could 
+: 1572 5 3 not 
+: 1582 35 0 find 
+- 1619
+: 1623 8 0 Or 
+: 1634 5 2 heart 
+: 1642 3 4 o
+: 1648 52 4 bey 
+- 1702
+: 1739 8 4 Now 
+: 1752 5 5 that 
+: 1759 5 5 I’m 
+: 1767 3 7 a 
+: 1773 3 7 wo
+* 1779 74 9 man 
+- 1855
+: 1866 12 7 Eve
+: 1881 3 5 ry
+: 1889 5 5 thing 
+: 1897 2 4 is 
+: 1905 54 4 changed 
+- 1961
+: 1994 4 2 Eve
+: 2001 3 4 ry
+: 2007 7 5 thing 
+: 2016 3 4 is 
+: 2025 40 7 changed 
+- 2067
+: 2090 26 2 Eve
+: 2119 26 4 ry
+: 2152 16 5 thing 
+: 2185 26 11 has 
+: 2217 65 12 changed 
+E

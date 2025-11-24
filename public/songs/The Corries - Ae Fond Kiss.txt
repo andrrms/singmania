@@ -1,0 +1,153 @@
+#ARTIST:The Corries
+#TITLE:Ae Fond Kiss
+#MP3:The Corries - Ae Fond Kiss.mp3
+#CREATOR:dirtydirtyboy
+#GENRE:Folk
+#YEAR:1970
+#LANGUAGE:English
+#BPM:315.78
+#GAP:5680
+#VIDEO:v=rQEHuQZB7wY,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3a/e6/d1/3ae6d1af-a440-71da-62aa-646031ed3b06/00602557357936.rgb.jpg/5000x5000bb.jpg
+: 0 14 6 Ae 
+: 16 5 6 fond 
+: 24 11 9 kiss 
+: 42 6 11 and 
+: 51 15 2 then 
+: 71 4 -3 we 
+: 79 5 -1 se
+: 87 46 2 ver 
+- 135
+: 142 5 11 Ae 
+: 151 6 11 fare
+: 160 17 14 weel 
+: 180 5 11 and 
+: 189 8 9 then 
+: 210 3 4 for
+: 215 3 6 ev
+: 221 40 9 er 
+- 263
+: 268 16 7 Deep 
+: 286 3 11 in 
+: 294 15 14 heart 
+: 312 6 2 wrung 
+: 321 15 2 tears 
+: 339 5 -3 I’ll 
+: 348 7 -1 pledge 
+: 358 32 2 thee 
+- 392
+: 403 14 6 War
+: 420 4 4 ring 
+: 428 11 4 cries 
+: 446 5 11 and 
+: 456 12 9 groans 
+: 473 5 6 I’ll 
+: 482 24 4 wage 
+* 510 52 6 thee 
+- 564
+: 619 11 6 I’ll 
+: 634 6 6 ne’er 
+: 642 11 9 blame 
+: 657 6 11 my 
+: 668 16 2 par
+: 687 4 -3 tial 
+: 694 8 -1 fan
+: 705 47 2 cy 
+- 754
+: 758 3 11 No
+: 763 11 11 thing 
+: 777 20 14 could 
+: 799 4 11 re
+: 805 10 9 sist 
+: 819 5 4 my 
+: 828 6 6 Nan
+: 837 47 9 cy 
+- 886
+: 890 6 7 Just 
+: 899 4 11 to 
+: 906 19 14 see 
+: 927 4 2 her 
+: 934 15 2 is 
+: 952 5 -3 to 
+: 960 5 -1 love 
+: 969 30 2 her 
+- 1001
+: 1014 14 6 Love 
+: 1032 4 4 but 
+: 1041 10 6 her 
+: 1057 5 11 and 
+: 1067 16 9 love 
+: 1085 4 6 for 
+: 1092 28 4 e
+* 1123 76 4 ver 
+- 1201
+: 1237 6 6 Fare 
+: 1244 4 6 thee 
+: 1251 15 9 weel 
+: 1270 5 11 thou 
+: 1279 11 2 first 
+: 1297 4 -3 thou 
+: 1305 6 0 fair
+: 1312 39 2 est 
+- 1353
+: 1366 6 11 Fare 
+: 1376 4 11 thee 
+: 1384 16 14 weel 
+: 1403 4 11 thou 
+: 1412 12 9 best 
+: 1429 6 4 thou 
+: 1439 7 6 dear
+: 1448 42 9 est 
+- 1492
+: 1500 7 7 Thine 
+: 1509 5 11 be 
+: 1518 16 14 il
+: 1536 4 2 ka 
+: 1544 16 2 joy 
+: 1564 5 -3 and 
+: 1572 4 -1 trea
+: 1578 43 2 sure 
+- 1623
+: 1625 9 6 Peace 
+: 1642 5 4 con
+: 1651 16 6 tentment 
+: 1677 16 11 love 
+: 1696 7 6 and 
+: 1705 26 4 plea
+: 1735 76 6 sure 
+- 1813
+: 2445 12 6 Ae 
+: 2460 5 6 fond 
+: 2468 10 9 kiss 
+: 2487 5 11 and 
+: 2496 15 2 then 
+: 2514 5 -3 we 
+: 2522 5 -1 se
+: 2530 46 2 ver 
+- 2578
+: 2582 8 11 Ae 
+: 2593 6 11 fare
+: 2603 19 14 well 
+: 2623 6 11 and 
+: 2631 13 9 then 
+: 2652 5 4 for
+: 2658 3 6 ev
+: 2664 40 9 er 
+- 2706
+* 2711 20 7 Deep 
+: 2733 4 11 in 
+: 2739 15 14 heart 
+: 2758 6 2 wrung 
+: 2766 19 2 tears 
+: 2786 7 -3 I’ll 
+: 2794 7 -1 pledge 
+: 2803 36 2 thee 
+- 2841
+: 2847 16 6 War
+: 2866 5 4 ring 
+: 2875 14 6 cries 
+: 2892 5 11 and 
+: 2899 21 9 groans 
+: 2921 5 6 I’ll 
+: 2929 23 4 wage 
+* 2956 94 6 thee 
+E

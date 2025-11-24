@@ -1,0 +1,582 @@
+#ARTIST:Five
+#TITLE:When The Lights Go Out
+#MP3:Five - When The Lights Go Out.mp3
+#CREATOR:Paolo Magnifico
+#COVER:Five - When The Lights Go Out [CO].jpg
+#BACKGROUND:Five - When The Lights Go Out [BG].jpg
+#GENRE:Pop
+#YEAR:1998
+#LANGUAGE:English
+#BPM:207.8
+#GAP:17460
+#VIDEO:v=ZHWCb4VzLAE,co=https://steveyb.co.uk/wp-content/gallery/five/Five-Sing02WhenTheLightsGoOut.jpg,bg=five-53543091547a8.jpg
+: 0 3 9 Ba
+: 4 2 12 by 
+: 8 2 14 when 
+: 12 2 17 the 
+: 16 2 14 lights 
+: 28 2 14 go 
+: 32 2 13 out 
+- 36
+: 122 2 9 I’ll 
+: 126 2 9 show 
+: 130 2 12 you 
+: 134 2 14 what 
+: 138 2 17 it’s 
+: 142 2 14 all 
+: 154 2 14 a
+: 158 2 13 bout 
+- 162
+F 178 1 0 Co
+F 180 1 0 ming 
+F 182 1 0 at 
+F 184 1 0 you 
+F 186 2 0 girl 
+- 190
+F 200 1 0 You 
+F 202 1 0 know 
+F 204 1 0 I 
+F 206 1 0 like 
+F 208 2 0 this 
+F 212 2 0 girl 
+- 216
+F 248 1 0 Here 
+F 250 1 0 we 
+F 252 2 0 go! 
+- 256
+: 336 1 5 I 
+: 338 2 7 ain’t 
+: 342 1 7 sor
+: 344 1 5 ry 
+: 346 1 7 for 
+: 348 1 5 the 
+: 350 2 7 way 
+: 354 2 5 I 
+: 358 2 9 feel 
+- 362
+: 368 1 5 I 
+: 370 1 7 know 
+: 372 1 5 you 
+: 374 1 7 think 
+: 376 1 5 I’m 
+: 378 1 7 be
+: 380 1 9 ing 
+: 382 3 7 in
+: 386 3 5 sin
+: 390 2 2 cere 
+- 394
+: 418 2 2 From 
+: 422 2 5 the 
+: 426 6 4 way 
+: 436 1 5 I’m 
+: 438 5 4 trea
+: 444 1 5 ting 
+: 446 2 4 you 
+- 450
+: 464 1 5 I 
+: 466 1 7 ne
+: 468 1 5 ver 
+: 470 1 7 wan
+: 472 1 5 ted 
+: 474 1 7 to 
+: 476 1 5 be 
+: 478 2 7 so 
+: 482 3 5 un
+: 486 2 9 kind 
+- 490
+: 496 1 5 The 
+: 498 1 7 on
+: 500 1 5 ly 
+: 502 2 7 one 
+: 506 2 5 thing 
+: 510 2 12 on 
+: 516 4 9 my 
+: 522 10 9 mind 
+- 534
+: 546 2 2 Is 
+: 550 2 5 just 
+: 554 7 9 kic
+: 562 1 11 king 
+: 564 2 9 it 
+: 570 1 11 with 
+: 572 2 9 you 
+: 576 4 7 girl! 
+- 582
+: 606 3 9 Ba
+: 610 2 11 by 
+: 614 2 12 it’s 
+: 618 6 11 not 
+: 630 2 9 the 
+: 634 6 7 way 
+: 646 2 5 I 
+: 650 14 9 feel 
+- 666
+: 688 1 5 You 
+: 690 1 7 know 
+: 692 1 5 you 
+: 694 2 7 must 
+: 700 1 5 be
+: 702 2 7 lieve 
+: 706 4 9 me 
+- 712
+: 734 3 2 Ba
+: 738 2 4 by 
+: 742 2 5 it’s 
+: 746 8 4 not 
+: 758 2 0 part 
+: 762 4 -3 of 
+: 774 2 0 the 
+: 778 8 2 deal 
+- 788
+: 802 2 7 Oh, 
+: 810 2 6 no, 
+: 818 2 5 no! 
+- 822
+* 832 1 -3 Ba
+* 834 2 0 by 
+* 838 2 2 when 
+* 842 2 6 the 
+* 846 2 2 lights 
+* 858 2 2 go 
+* 862 2 1 out 
+- 866
+: 874 7 4 Eve
+: 882 2 5 ry 
+: 886 3 2 sin
+: 890 2 4 gle 
+: 894 2 5 word 
+: 898 2 4 can
+: 902 2 2 not 
+: 906 3 0 ex
+: 910 2 -1 press 
+- 914
+: 922 2 -1 The 
+: 926 2 5 love 
+: 930 2 4 and 
+: 934 3 2 ten
+: 938 3 0 der
+: 942 2 -3 ness 
+- 946
+: 954 2 -3 I’ll 
+: 958 2 -3 show 
+: 962 2 0 you 
+: 966 2 2 what 
+: 970 2 5 it’s 
+: 974 2 2 all 
+: 986 3 2 a
+: 990 2 1 bout 
+- 994
+: 1002 4 4 Babe 
+: 1010 2 5 I 
+: 1014 2 2 swear 
+: 1018 2 4 you 
+: 1022 2 5 will 
+: 1026 3 4 suc
+: 1030 2 2 cumb 
+: 1034 2 0 to 
+: 1038 2 -1 me 
+- 1042
+: 1050 2 -1 So 
+: 1054 3 4 ba
+: 1058 2 5 by 
+: 1062 2 2 come 
+: 1066 2 0 to 
+: 1070 2 -3 me 
+- 1074
+: 1082 1 2 When 
+: 1084 2 4 the 
+* 1090 6 5 lights 
+* 1104 2 2 go 
+* 1110 2 2 out! 
+- 1114
+: 1168 1 5 I 
+: 1170 1 7 know 
+: 1172 1 5 you 
+: 1174 1 7 think 
+: 1176 1 5 it 
+: 1178 1 7 may 
+: 1180 1 5 be 
+: 1182 2 7 just 
+: 1186 2 5 a 
+: 1190 2 9 lie 
+- 1194
+: 1202 1 7 Ain’t 
+: 1204 1 5 no 
+: 1206 1 7 use 
+: 1208 1 5 in 
+: 1210 1 7 put
+: 1212 1 9 ting 
+: 1214 2 7 up 
+: 1218 2 5 a 
+: 1222 2 2 fight 
+- 1226
+: 1250 2 2 ’Cause 
+: 1254 2 5 my 
+: 1258 6 4 heart 
+: 1268 1 5 is 
+: 1270 2 4 set 
+: 1276 2 5 on 
+: 1282 2 4 you 
+- 1286
+: 1296 1 5 I 
+: 1298 1 7 see 
+: 1300 1 5 the 
+: 1302 2 7 truth, 
+: 1308 1 5 it’s 
+: 1310 2 7 in 
+: 1314 2 5 your 
+: 1318 2 9 eyes 
+- 1322
+: 1328 1 5 I 
+: 1330 2 7 ain’t 
+: 1334 2 5 fooled 
+: 1338 1 7 by 
+: 1340 2 5 your 
+: 1346 2 12 thin 
+: 1350 3 9 dis
+: 1354 10 9 guise 
+- 1366
+: 1378 2 2 I 
+: 1382 2 5 can 
+: 1386 6 9 see 
+: 1396 1 11 I’m 
+: 1398 3 9 get
+: 1402 2 11 ting 
+: 1406 2 9 through 
+: 1410 6 7 babe! 
+- 1418
+: 1438 2 -3 Girl 
+: 1442 2 -1 don’t 
+: 1446 3 0 de
+: 1450 8 -1 ny 
+: 1462 2 -3 the 
+: 1466 6 -5 way 
+: 1478 2 -7 you 
+: 1482 12 -3 feel 
+- 1496
+: 1520 1 -7 You 
+: 1522 1 -5 know 
+: 1524 1 -7 you’ve 
+: 1526 5 -5 got
+: 1532 1 -7 ta 
+: 1534 2 -5 trust 
+: 1538 4 -3 me 
+- 1544
+: 1566 2 2 Give 
+: 1570 2 4 me 
+: 1574 2 5 a 
+: 1578 8 4 chance 
+: 1590 2 0 to 
+: 1594 4 -3 prove 
+: 1602 6 0 I’m 
+: 1610 10 2 real 
+- 1622
+: 1634 4 7 Oh, 
+: 1642 4 6 yeah, 
+: 1650 4 5 yeah! 
+- 1656
+* 1662 2 -3 Ba
+* 1666 2 0 by 
+* 1670 2 2 when 
+* 1674 2 6 the 
+* 1678 2 2 lights 
+* 1690 2 2 go 
+* 1694 2 1 out 
+- 1698
+: 1706 7 4 Eve
+: 1714 2 5 ry 
+: 1718 3 2 sin
+: 1722 2 4 gle 
+: 1726 2 5 word 
+: 1730 2 4 can
+: 1734 2 2 not 
+: 1738 3 0 ex
+: 1742 2 -1 press 
+- 1746
+: 1754 2 -1 The 
+: 1758 2 5 love 
+: 1762 2 4 and 
+: 1766 3 2 ten
+: 1770 3 0 der
+: 1774 2 -3 ness 
+- 1778
+: 1786 2 -3 I’ll 
+: 1790 2 -3 show 
+: 1794 2 0 you 
+: 1798 2 2 what 
+: 1802 2 5 it’s 
+: 1806 2 2 all 
+: 1818 3 2 a
+: 1822 2 1 bout 
+- 1826
+: 1834 4 4 Babe 
+: 1842 2 5 I 
+: 1846 2 2 swear 
+: 1850 2 4 you 
+: 1854 2 5 will 
+: 1858 3 4 suc
+: 1862 2 2 cumb 
+: 1866 2 0 to 
+: 1870 2 -1 me 
+- 1874
+: 1882 2 -1 So 
+: 1886 3 4 ba
+: 1890 2 5 by 
+: 1894 2 2 come 
+: 1898 2 0 to 
+: 1902 2 -3 me 
+- 1906
+* 1926 2 2 When 
+* 1930 2 5 the 
+* 1934 2 2 lights 
+* 1946 2 2 go 
+* 1950 2 1 out! 
+- 1954
+: 1962 7 4 Eve
+: 1970 2 5 ry 
+: 1974 3 2 sin
+: 1978 2 4 gle 
+: 1982 2 5 word 
+: 1986 2 4 can
+: 1990 2 2 not 
+: 1994 3 0 ex
+: 1998 2 -1 press 
+- 2002
+: 2010 2 -1 The 
+: 2014 2 5 love 
+: 2018 2 4 and 
+: 2022 3 2 ten
+: 2026 3 0 der
+: 2030 2 -3 ness 
+- 2034
+: 2042 2 -3 I’ll 
+: 2046 2 -3 show 
+: 2050 2 0 you 
+: 2054 2 2 what 
+: 2058 2 5 it’s 
+: 2062 2 2 all 
+: 2074 3 2 a
+: 2078 2 1 bout 
+- 2082
+: 2090 4 4 Babe 
+: 2098 2 5 I 
+: 2102 2 2 swear 
+: 2106 2 4 you 
+: 2110 2 5 will 
+: 2114 3 4 suc
+: 2118 2 2 cumb 
+: 2122 2 0 to 
+: 2126 2 -1 me 
+- 2130
+: 2138 2 -1 So 
+: 2142 3 4 ba
+: 2146 2 5 by 
+: 2150 2 2 come 
+: 2154 2 0 to 
+: 2158 2 -3 me 
+- 2162
+F 2164 1 2 When 
+F 2166 2 4 the 
+F 2170 6 5 lights 
+F 2186 2 2 go 
+F 2190 1 2 out! 
+- 2192
+R 2192 1 0 When 
+R 2194 1 0 I 
+R 2196 1 0 flick 
+R 2198 1 0 da 
+R 2200 1 0 switch 
+- 2202
+R 2202 1 0 Make 
+R 2204 1 0 ya 
+R 2206 2 0 hips 
+R 2210 2 0 wanna 
+R 2214 2 0 dip 
+R 2218 2 0 now 
+- 2221
+R 2222 1 0 I 
+R 2224 1 0 can 
+R 2226 1 0 get 
+R 2228 1 0 you 
+R 2230 2 0 off 
+- 2233
+R 2235 1 0 ’Cause 
+R 2237 1 0 I’m 
+R 2239 1 0 rea
+R 2241 1 0 dy 
+R 2243 1 0 and 
+R 2245 1 0 e
+R 2247 3 0 quipped 
+R 2251 2 0 now 
+- 2254
+R 2254 2 0 Swing 
+R 2258 1 0 for 
+R 2260 1 0 me 
+R 2262 2 0 ba
+R 2265 1 0 by 
+- 2266
+R 2266 1 0 Give 
+R 2268 1 0 me 
+R 2270 1 0 all 
+R 2272 1 0 that 
+R 2274 2 0 you 
+R 2278 2 0 got 
+- 2282
+R 2286 1 0 Ne
+R 2288 1 0 ver 
+R 2290 1 0 wan
+R 2292 1 0 na 
+R 2294 2 0 stop 
+- 2297
+R 2298 1 0 ’Cause 
+R 2300 1 0 ya 
+R 2302 1 0 make 
+R 2304 1 0 me 
+R 2306 2 0 feel 
+R 2310 2 0 hot 
+- 2314
+R 2318 2 0 I 
+R 2322 2 0 know 
+R 2326 2 0 what 
+R 2330 2 0 you 
+R 2334 4 0 wan
+R 2339 2 0 na 
+R 2342 2 0 do 
+- 2345
+R 2346 2 0 And 
+R 2350 2 0 that 
+R 2354 2 0 I 
+R 2358 2 0 feel 
+R 2362 2 0 the 
+R 2366 2 0 same 
+R 2370 2 0 way, 
+R 2374 2 0 too 
+- 2378
+R 2382 1 0 Give 
+R 2384 1 0 me 
+R 2386 1 0 what 
+R 2388 1 0 ya 
+R 2390 1 0 want 
+R 2392 2 0 through 
+- 2395
+R 2396 1 0 The 
+R 2398 1 0 days 
+R 2400 1 0 and 
+R 2402 1 0 the 
+R 2404 2 0 nights 
+- 2408
+G 2412 1 0 Yeah, 
+G 2414 1 0 it’s 
+G 2417 1 0 a
+G 2419 2 0 bout 
+G 2422 3 0 time 
+- 2424
+G 2424 2 0 That 
+G 2428 1 0 we 
+G 2430 1 0 turned 
+G 2432 1 0 out 
+G 2434 2 0 the 
+G 2438 2 0 lights! 
+- 2442
+* 2558 2 -3 Ba
+* 2562 2 0 by 
+* 2566 2 2 when 
+* 2570 2 6 the 
+* 2574 2 2 lights 
+* 2586 2 2 go 
+* 2590 2 1 out 
+- 2594
+: 2602 7 4 Eve
+: 2610 2 5 ry 
+: 2614 3 2 sin
+: 2618 2 4 gle 
+: 2622 2 5 word 
+: 2626 2 4 can
+: 2630 2 2 not 
+: 2634 3 0 ex
+: 2638 2 -1 press 
+- 2642
+: 2650 2 -1 The 
+: 2654 2 5 love 
+: 2658 2 4 and 
+: 2662 3 2 ten
+: 2666 3 0 der
+: 2670 2 -3 ness 
+- 2674
+: 2682 2 -3 I’ll 
+: 2686 2 -3 show 
+: 2690 2 0 you 
+: 2694 2 2 what 
+: 2698 2 5 it’s 
+: 2702 2 2 all 
+: 2714 3 2 a
+: 2718 2 1 bout 
+- 2722
+: 2730 4 4 Babe 
+: 2738 2 5 I 
+: 2742 2 2 swear 
+: 2746 2 4 you 
+: 2750 2 5 will 
+: 2754 3 4 suc
+: 2758 2 2 cumb 
+: 2762 2 0 to 
+: 2766 2 -1 me 
+- 2770
+: 2778 2 -1 So 
+: 2782 3 4 ba
+: 2786 2 5 by 
+: 2790 2 2 come 
+: 2794 2 0 to 
+: 2798 2 -3 me 
+- 2802
+* 2812 2 -3 Ba
+* 2816 2 0 by 
+* 2820 2 2 when 
+* 2824 2 6 the 
+* 2828 2 2 lights 
+* 2840 2 2 go 
+* 2844 2 1 out! 
+- 2848
+: 2856 7 4 Eve
+: 2864 2 5 ry 
+: 2868 3 2 sin
+: 2872 2 4 gle 
+: 2876 2 5 word 
+: 2880 2 4 can
+: 2884 2 2 not 
+: 2888 3 0 ex
+: 2892 2 -1 press 
+- 2896
+: 2904 2 -1 The 
+: 2908 2 5 love 
+: 2912 2 4 and 
+: 2916 3 2 ten
+: 2920 3 0 der
+: 2924 2 -3 ness 
+- 2928
+: 2936 2 -3 I’ll 
+: 2940 2 -3 show 
+: 2944 2 0 you 
+: 2948 2 2 what 
+: 2952 2 5 it’s 
+: 2956 2 2 all 
+: 2968 3 2 a
+: 2972 2 1 bout 
+- 2976
+: 2984 4 4 Babe 
+: 2992 2 5 I 
+: 2996 2 2 swear 
+: 3000 2 4 you 
+: 3004 2 5 will 
+: 3008 3 4 suc
+: 3012 2 2 cumb 
+: 3016 2 0 to 
+: 3020 2 -1 me 
+- 3024
+: 3032 2 -1 So 
+: 3036 3 4 ba
+: 3040 2 5 by 
+: 3044 2 2 come 
+: 3048 2 0 to 
+: 3052 2 -3 me … 
+E

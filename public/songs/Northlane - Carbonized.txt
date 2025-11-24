@@ -1,0 +1,400 @@
+#ARTIST:Northlane
+#TITLE:Carbonized
+#MP3:Northlane - Carbonized.mp3
+#CREATOR:Hecate
+#COVER:Northlane - Carbonized [CO].jpg
+#BACKGROUND:Northlane - Carbonized [BG].jpg
+#GENRE:Alternative Metal
+#YEAR:2022
+#LANGUAGE:English
+#BPM:327.08
+#GAP:11650
+#VIDEO:v=-s4TiCT7nWI,co=carbonized-62606a3bd15fd.jpg,bg=northlane-5d068c8d5472b.jpg
+F 0 4 0 Mir
+F 5 3 0 rors 
+F 10 4 0 and 
+F 16 6 0 smoke, 
+F 25 3 0 hit 
+F 29 2 0 it 
+F 32 4 0 with 
+F 38 2 0 a 
+F 42 6 0 fresh 
+F 50 8 0 coat 
+- 79
+F 127 4 0 Mi
+F 132 3 0 rrors 
+F 136 5 0 and 
+F 142 8 0 smoke, 
+F 151 4 0 hit 
+F 156 4 0 it 
+F 161 2 0 with 
+F 164 4 0 a 
+F 169 8 0 fresh 
+F 178 7 0 coat 
+- 206
+R 255 2 0 Mi
+R 258 4 0 rrors 
+R 263 5 0 and 
+R 269 7 0 smoke, 
+R 277 4 0 hit 
+R 282 3 0 it 
+R 286 4 0 with 
+R 291 3 0 a 
+R 295 7 0 fresh 
+R 303 5 0 coat 
+- 308
+R 310 4 0 If 
+R 315 2 0 the 
+R 318 7 0 shit 
+R 326 6 0 floats 
+R 333 4 0 run 
+R 338 2 0 it 
+R 341 5 0 through 
+R 347 3 0 the 
+R 351 7 0 main 
+R 359 14 0 line 
+- 379
+R 381 3 0 Su
+R 385 3 0 gar 
+R 389 7 0 sweet 
+R 397 3 0 with 
+R 401 4 0 a 
+R 406 4 0 bi
+R 411 3 0 tter 
+R 415 4 0 beat, 
+R 420 5 0 strip 
+R 426 2 0 the 
+R 429 7 0 paint 
+- 436
+R 437 4 0 You’re 
+R 442 2 0 just 
+R 445 5 0 pray
+R 451 3 0 ing 
+R 455 3 0 your 
+R 459 6 0 prey 
+R 467 3 0 re
+R 471 5 0 main 
+R 477 7 0 snow
+R 485 22 0 blind 
+- 515
+R 518 2 0 Con
+R 521 7 0 spire 
+R 529 2 0 to 
+R 532 2 0 keep 
+R 535 3 0 them 
+R 539 15 0 quiet 
+- 559
+R 561 2 0 You 
+R 564 2 0 run 
+R 567 4 0 for 
+R 572 4 0 co
+R 577 3 0 ver 
+R 581 4 0 but 
+R 586 6 0 you 
+R 593 6 0 lit 
+R 600 2 0 the 
+R 603 32 0 fire 
+- 641
+R 643 3 0 Now 
+R 647 3 0 your 
+R 651 3 0 te
+R 655 3 0 rror’s 
+R 659 3 0 at 
+R 663 3 0 an 
+R 667 5 0 end 
+- 673
+R 675 3 0 Dis
+R 679 2 0 a
+R 682 5 0 ppear 
+R 688 2 0 in
+R 691 4 0 to 
+R 696 4 0 the 
+R 701 4 0 wind 
+- 706
+R 708 2 0 Ne
+R 711 3 0 ver 
+R 715 4 0 to 
+R 720 3 0 be 
+R 724 3 0 seen 
+R 728 3 0 a
+R 732 9 0 gain 
+- 748
+R 751 2 0 We’re 
+R 754 3 0 wea
+R 758 4 0 ring 
+R 763 11 0 idol 
+G 775 22 0 eyes 
+- 807
+R 814 2 0 Pre
+R 817 4 0 ten
+R 822 3 0 ding 
+R 826 4 0 we’re 
+R 831 7 0 on
+G 839 16 0 side 
+- 865
+R 893 3 0 It’s 
+R 897 7 0 not 
+R 905 6 0 a 
+R 912 4 0 re
+R 917 6 0 fle
+R 924 3 0 ction 
+R 928 3 0 I 
+R 932 7 0 want 
+R 940 3 0 to 
+R 944 5 0 glo
+R 950 4 0 ri
+G 955 20 0 fy 
+- 985
+: 1016 10 9 Hide 
+: 1027 11 5 for 
+: 1039 11 4 now
+: 1051 8 2 ~ 
+- 1061
+: 1063 7 2 Once 
+: 1071 7 2 the 
+: 1079 11 9 sun 
+: 1091 12 5 comes 
+: 1104 10 4 out 
+- 1119
+: 1121 7 4 You’ll 
+: 1129 5 2 be 
+: 1135 8 4 car
+: 1144 6 5 bo
+: 1151 33 7 ni
+: 1185 18 5 zed 
+- 1213
+: 1246 6 2 You’re 
+: 1253 6 2 ma
+: 1260 7 2 king 
+: 1268 11 9 sha
+: 1280 10 5 dows 
+: 1291 15 4 shift 
+- 1315
+: 1319 5 2 Like 
+: 1325 6 2 an 
+: 1332 10 9 in
+: 1343 11 5 cu
+: 1355 10 4 bus 
+- 1371
+: 1373 5 4 You’ll 
+: 1379 7 2 be 
+: 1387 8 4 ca
+: 1396 6 5 rbo
+: 1403 33 7 nized 
+- 1442
+: 1444 6 7 It 
+: 1451 8 9 serves 
+: 1460 5 10 you 
+G 1466 27 10 right 
+- 1503
+R 1531 3 0 I’ve 
+R 1535 3 0 been 
+R 1539 4 0 tal
+R 1544 3 0 king 
+R 1548 3 0 to 
+R 1552 4 0 my 
+R 1557 7 0 con
+R 1565 7 0 science 
+- 1582
+R 1594 3 0 It’s 
+R 1598 3 0 soft-spo
+R 1602 8 0 ken 
+R 1611 2 0 and 
+R 1614 5 0 self-con
+R 1620 15 0 scious 
+- 1646
+R 1650 3 0 Trai
+R 1654 4 0 ning 
+R 1659 7 0 my 
+R 1667 3 0 in
+R 1671 2 0 stincts 
+R 1674 4 0 to 
+R 1679 4 0 be 
+R 1684 6 0 cau
+R 1691 8 0 tious 
+- 1701
+R 1703 2 0 To 
+R 1706 2 0 re
+R 1709 2 0 mem
+R 1712 2 0 ber 
+R 1715 3 0 that 
+R 1719 7 0 you’re 
+R 1727 5 0 to
+R 1733 10 0 xic 
+- 1753
+R 1766 2 0 We’re 
+R 1769 3 0 wea
+R 1773 4 0 ring 
+R 1778 11 0 idol 
+G 1790 21 0 eyes 
+- 1821
+R 1829 3 0 Pre
+R 1833 3 0 ten
+R 1837 4 0 ding 
+R 1842 3 0 we’re 
+R 1846 6 0 on
+G 1853 22 0 side 
+- 1885
+R 1909 3 0 It’s 
+R 1913 5 0 not 
+R 1919 7 0 a 
+R 1927 3 0 re
+R 1931 6 0 fle
+R 1938 5 0 ction 
+R 1944 2 0 I 
+R 1947 7 0 want 
+R 1955 4 0 to 
+R 1960 5 0 glo
+R 1966 6 0 ri
+G 1973 22 0 fy 
+- 2005
+R 2016 3 0 Car
+R 2020 10 0 bo
+G 2031 40 0 nize 
+- 2114
+R 2317 2 0 I 
+R 2320 6 0 looked 
+R 2327 6 0 up 
+R 2334 7 0 to 
+R 2342 15 0 you 
+- 2367
+R 2375 3 0 But 
+R 2379 3 0 you 
+R 2383 6 0 looked 
+R 2390 6 0 down 
+R 2397 5 0 on 
+R 2403 20 0 them 
+- 2432
+R 2435 2 0 Pre
+R 2438 4 0 da
+R 2443 5 0 to
+R 2449 5 0 ry 
+R 2455 5 0 through 
+R 2461 5 0 and 
+R 2467 20 0 through 
+- 2496
+R 2500 2 0 And 
+R 2503 3 0 you 
+R 2507 5 0 call 
+R 2513 5 0 your
+R 2519 5 0 self 
+R 2525 4 0 a 
+G 2530 37 0 man 
+- 2610
+R 2690 3 0 And 
+R 2694 2 0 you 
+R 2697 6 0 call 
+R 2704 5 0 your
+R 2710 5 0 self 
+R 2716 2 0 a 
+R 2719 28 0 man 
+- 2768
+: 2793 7 9 Hide 
+: 2801 12 5 for 
+: 2814 11 4 now
+: 2826 8 2 ~ 
+- 2838
+: 2840 5 2 Once 
+: 2846 7 2 the 
+: 2854 10 9 sun 
+: 2865 13 5 comes 
+: 2879 11 4 out 
+- 2894
+: 2896 5 4 You’ll 
+: 2902 7 2 be 
+: 2910 7 4 car
+: 2918 8 5 bo
+: 2927 31 7 ni
+: 2959 22 5 zed 
+- 2991
+: 3022 6 2 You’re 
+: 3029 6 2 ma
+: 3036 8 2 king 
+: 3045 11 9 sha
+: 3057 9 5 dows 
+: 3067 20 4 shift 
+- 3091
+: 3093 5 2 Like 
+: 3099 8 2 an 
+: 3108 9 9 in
+: 3118 12 5 cu
+: 3131 14 4 bus 
+- 3147
+: 3149 5 4 You’ll 
+: 3155 8 2 be 
+: 3164 6 4 car
+: 3171 8 5 bo
+: 3180 35 7 nized 
+- 3217
+: 3219 6 7 It 
+: 3226 7 9 serves 
+: 3234 6 10 you 
+G 3241 38 10 right 
+- 3289
+: 3299 10 9 Hide 
+: 3310 11 5 for 
+: 3322 10 4 now
+: 3333 11 2 ~ 
+- 3345
+: 3347 6 2 Once 
+: 3354 7 2 the 
+: 3362 11 9 sun 
+: 3374 10 5 comes 
+: 3385 14 4 out 
+- 3401
+: 3403 6 4 You’ll 
+: 3410 6 2 be 
+: 3417 7 4 car
+: 3425 8 5 bo
+: 3434 31 7 ni
+: 3466 25 5 zed 
+- 3501
+: 3530 6 2 You’re 
+: 3537 6 2 ma
+: 3544 7 2 king 
+: 3552 11 9 sha
+: 3564 10 5 dows 
+: 3575 20 4 shift 
+- 3600
+: 3602 4 2 Like 
+: 3607 7 2 an 
+: 3615 10 9 in
+: 3626 11 5 cu
+: 3638 13 4 bus 
+- 3655
+: 3657 5 4 You’ll 
+: 3663 7 2 be 
+: 3671 7 4 car
+: 3679 7 5 bo
+: 3687 54 7 nized 
+- 3750
+R 3753 8 0 I’ve 
+R 3762 4 0 got 
+R 3767 7 0 no 
+R 3775 3 0 he
+R 3779 7 0 roes 
+R 3787 5 0 any
+R 3793 5 0 ~
+R 3799 12 0 more 
+- 3854
+: 3912 12 9 Hide 
+: 3925 6 5 for 
+: 3932 11 4 now
+: 3944 11 2 ~ 
+- 3998
+R 4060 5 0 Mi
+R 4066 4 0 rrors 
+R 4071 5 0 and 
+R 4077 7 0 smoke, 
+R 4085 3 0 hit 
+R 4089 3 0 it 
+R 4093 3 0 with 
+R 4097 4 0 a 
+R 4102 7 0 fresh 
+R 4110 9 0 coat 
+- 4140
+: 4165 10 9 Hide 
+: 4176 9 5 for 
+: 4186 9 4 now
+: 4196 11 2 ~ 
+E

@@ -1,0 +1,219 @@
+#ARTIST:Shed Seven
+#TITLE:Going For Gold
+#MP3:Shed Seven - Going For Gold.mp3
+#CREATOR:daggeg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:390.89
+#GAP:9570
+#VIDEO:v=IzkPadoNnzU,co=https://i.discogs.com/t4iu4L5FtGYiZMYw6FhjKssGVST9aRucf1OE96Yq4us/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU1/NzE0LTE1MzU4OTM2/MjItMjM1NC5qcGVn.jpeg
+: 0 9 4 I 
+: 15 6 2 ne
+: 24 4 1 ver 
+: 32 4 -1 said 
+: 41 12 1 ne
+: 55 11 -3 ver 
+: 73 13 -6 e
+: 88 40 -3 ver 
+- 130
+: 185 4 -5 You 
+: 194 6 -3 took 
+: 203 3 -5 the 
+: 208 6 -3 words 
+: 219 2 -5 right 
+: 223 6 -3 out 
+: 232 2 -5 of 
+: 235 15 -3 my 
+: 260 39 1 mouth 
+- 301
+: 391 4 4 Is 
+: 398 5 4 the 
+: 406 5 2 sea 
+: 414 9 1 your 
+: 429 10 1 sun
+: 445 23 -3 shine 
+- 470
+: 474 4 -3 Have 
+: 482 4 -3 we 
+: 490 4 -3 been 
+: 503 12 -3 told 
+- 517
+: 526 3 4 The 
+: 534 4 2 sea 
+: 542 4 1 is 
+: 550 9 -1 you 
+: 566 9 1 life
+: 581 9 -3 line 
+- 592
+: 596 3 -3 You’re 
+* 603 5 -6 go
+* 610 3 -3 ing 
+* 618 8 -3 for 
+* 631 37 -3 gold 
+- 670
+: 705 3 -5 You 
+: 711 6 -3 took 
+: 721 2 -5 the 
+: 725 6 -3 words 
+: 737 4 -5 right 
+: 742 6 -3 out 
+: 752 3 -5 of 
+: 756 18 -3 my 
+: 779 40 1 mouth 
+- 821
+: 973 5 1 Time 
+: 982 4 -1 and 
+: 990 5 1 time 
+: 998 4 -1 and 
+: 1006 5 1 time 
+: 1015 3 4 a
+: 1020 27 1 gain 
+- 1049
+: 1095 4 1 I 
+: 1103 5 1 look 
+: 1111 2 -1 to 
+: 1116 7 1 me 
+: 1126 5 -1 my 
+: 1134 7 1 on
+: 1143 22 4 ly 
+: 1168 36 1 friend 
+- 1206
+: 1231 5 -3 Time 
+: 1239 4 -3 and 
+: 1247 5 -3 time 
+: 1255 4 -3 and 
+: 1263 5 -3 time 
+: 1273 3 -3 a
+: 1278 9 -3 gain
+: 1289 43 -1 ~ 
+- 1334
+* 1361 5 -3 Are 
+* 1369 5 -6 you 
+* 1377 5 -3 here 
+: 1384 5 -6 for 
+: 1393 5 -3 my 
+: 1401 13 1 plea
+: 1417 29 -3 sure 
+- 1448
+: 1483 5 -6 Or 
+: 1491 5 -3 are 
+: 1499 4 -6 you 
+: 1507 6 -3 go
+: 1515 5 -6 ing 
+: 1523 11 -3 for 
+: 1539 9 -3 gold
+: 1550 51 -1 ~ 
+- 1603
+: 1622 5 -3 Are 
+: 1629 5 -3 you 
+: 1637 6 -3 go
+: 1645 5 -3 ing 
+: 1653 9 -3 for 
+: 1668 6 -3 gold
+: 1677 123 -1 ~
+: 1802 32 -3 ~ 
+- 1836
+: 2077 9 4 I 
+: 2093 6 2 ne
+: 2101 4 1 ver 
+: 2109 5 -1 said 
+: 2121 11 1 ne
+: 2134 11 -3 ver 
+: 2149 13 -6 e
+: 2164 69 -3 ver 
+- 2235
+: 2263 4 -5 You 
+: 2271 6 -3 took 
+: 2280 3 -5 the 
+: 2285 8 -3 shine 
+: 2295 3 -5 right 
+: 2300 7 -3 out 
+: 2309 3 -5 of 
+: 2314 13 -3 my 
+: 2334 7 -1 smile
+: 2344 44 1 ~ 
+- 2390
+: 2467 6 4 Is 
+: 2475 6 4 the 
+: 2484 6 2 moon 
+* 2492 13 1 your 
+* 2508 11 1 night
+* 2523 15 -3 time 
+- 2540
+: 2548 4 -3 Have 
+: 2556 4 -3 you 
+: 2564 11 -3 been 
+: 2579 23 -3 sold 
+- 2604
+: 2605 5 4 The 
+: 2612 5 2 moon 
+: 2620 5 1 is 
+: 2628 14 -1 your 
+: 2646 11 1 life
+: 2662 11 -3 line 
+- 2675
+: 2676 3 -3 You’re 
+: 2682 5 -6 go
+: 2690 3 -3 ing 
+: 2697 8 -3 for 
+: 2710 49 -3 gold 
+- 2761
+: 2785 4 -5 You 
+: 2793 6 -3 took 
+: 2801 2 -5 the 
+: 2805 9 -3 shine 
+: 2817 3 -5 right 
+: 2822 6 -3 out 
+: 2831 3 -5 of 
+: 2835 19 -3 my 
+: 2856 7 -1 smile
+: 2867 124 1 ~ 
+- 2993
+: 3054 5 1 While 
+: 3062 5 -1 my 
+: 3071 5 1 mind 
+: 3079 5 -1 is 
+: 3087 5 1 blind 
+: 3098 3 4 a
+: 3102 30 1 gain 
+- 3134
+: 3176 5 1 I 
+: 3184 5 1 look 
+: 3192 3 -1 to 
+* 3197 9 1 me 
+* 3208 5 -1 my 
+* 3217 6 1 on
+* 3225 20 4 ly 
+: 3248 30 1 friend 
+- 3280
+: 3311 5 -3 Time 
+: 3320 5 -3 and 
+: 3328 5 -3 time 
+: 3336 5 -3 and 
+: 3344 5 -3 time 
+: 3353 3 6 a
+: 3358 63 6 gain 
+- 3423
+: 3441 5 4 Are 
+: 3449 4 4 you 
+: 3457 6 4 go
+: 3464 4 4 ing 
+: 3472 10 4 for 
+: 3487 58 4 gold 
+- 3547
+: 3568 5 4 Are 
+: 3576 4 4 you 
+: 3584 6 4 go
+: 3591 4 4 ing 
+: 3599 10 4 for 
+: 3616 63 4 gold 
+- 3681
+: 3698 5 4 Are 
+: 3706 4 4 you 
+: 3714 6 6 go
+: 3722 4 4 ing 
+: 3729 10 4 for 
+* 3744 63 4 gold
+* 3809 61 -1 ~
+* 3872 51 -3 ~ 
+E

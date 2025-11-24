@@ -1,0 +1,239 @@
+#ARTIST:SLANDER feat. Dylan Matthew
+#TITLE:Love is Gone
+#MP3:SLANDER feat. Dylan Matthew - Love is Gone.mp3
+#CREATOR:lilsilly61
+#COVER:SLANDER feat. Dylan Matthew - Love is Gone [CO].jpg
+#BACKGROUND:SLANDER feat. Dylan Matthew - Love is Gone [BG].jpg
+#GENRE:Dance
+#YEAR:2019
+#LANGUAGE:English
+#BPM:280
+#GAP:14320
+#VIDEO:v=mv23MnaNvGM,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/82/2d/ec/822dec3c-1b6f-1752-f4f6-d0db0659ac28/cover.jpg/5000x5000bb.jpg
+: 0 16 7 Don’t 
+* 18 22 14 go 
+: 52 2 11 to
+: 56 22 11 night 
+- 87
+: 90 4 14 Stay 
+: 96 6 12 here 
+: 106 6 11 one 
+: 114 6 9 more 
+: 122 22 11 time 
+- 150
+: 152 2 7 Re
+: 156 4 14 mind 
+: 162 4 12 me 
+: 168 8 11 what 
+: 178 4 9 it’s 
+: 184 24 11 like 
+- 218
+: 242 2 9 And 
+: 248 4 7 let’s 
+: 254 10 7 fall 
+: 266 10 14 in 
+: 278 1 12 love
+: 280 22 11 ~ 
+- 312
+: 320 6 14 One 
+: 330 6 12 more 
+: 338 26 11 time 
+- 373
+: 376 8 7 I 
+: 386 4 14 need 
+: 392 8 12 you 
+: 402 1 12 now
+: 404 24 11 ~ 
+: 442 10 9 by 
+: 456 8 11 my 
+: 466 24 9 side 
+- 499
+: 502 4 7 It 
+* 508 10 14 tears 
+: 520 8 12 me 
+: 532 20 11 up 
+- 558
+: 560 4 7 When 
+: 566 4 7 you 
+: 572 12 14 turn 
+: 586 8 12 me 
+: 598 26 11 down 
+- 633
+: 636 2 7 I’m 
+: 640 8 14 beg
+: 650 8 12 ging 
+: 660 28 11 please, 
+- 694
+: 696 2 7 Just 
+: 700 12 9 stick 
+* 714 10 11 a
+: 726 40 9 round 
+- 770
+* 772 4 2 I’m 
+: 780 6 6 sor
+: 788 16 7 ry, 
+- 804
+: 806 4 2 Don’t 
+: 812 6 6 leave 
+: 820 14 7 me, 
+- 834
+: 836 6 2 I 
+: 844 6 6 want 
+: 852 8 7 you 
+: 862 4 9 here 
+: 868 6 11 with 
+: 876 1 6 me
+: 878 18 7 ~ 
+- 898
+: 900 4 2 I 
+: 908 6 6 know 
+: 916 14 7 that 
+- 932
+: 934 8 2 Your 
+: 946 5 4 love 
+: 952 2 2 is 
+: 958 30 2 gone 
+- 1006
+: 1030 4 2 I 
+: 1036 4 6 can’t 
+: 1044 12 7 breathe, 
+- 1060
+: 1062 6 2 I’m 
+: 1070 4 6 so 
+: 1076 12 7 weak, 
+- 1092
+: 1094 4 2 I 
+: 1100 6 6 know 
+: 1108 6 7 this 
+: 1118 5 9 is
+: 1124 4 11 n’t 
+* 1132 6 14 eas
+: 1140 14 11 y 
+- 1156
+: 1158 6 11 Don’t 
+: 1166 7 14 tell 
+: 1174 6 11 me 
+: 1182 4 14 that 
+- 1188
+: 1190 4 11 Your 
+: 1196 6 9 love 
+: 1206 3 7 is 
+: 1210 24 9 gone 
+- 1246
+: 1250 2 11 That 
+: 1254 4 9 your 
+: 1260 6 6 love 
+: 1268 4 6 is 
+: 1276 26 7 gone 
+- 1339
+: 1418 2 14 Don’t 
+: 1422 4 11 tell 
+: 1428 6 14 me 
+: 1436 6 11 that 
+- 1442
+: 1444 6 11 Your 
+: 1452 6 9 love 
+: 1462 2 7 is 
+: 1466 26 9 gone 
+- 1499
+: 1502 4 11 That 
+: 1508 6 9 your 
+: 1516 6 6 love 
+: 1524 4 6 is 
+: 1530 40 7 gone 
+- 1607
+: 1798 4 2 I’m 
+: 1804 4 6 sor
+: 1812 12 7 ry, 
+- 1828
+: 1830 4 2 Don’t 
+: 1836 6 6 leave 
+: 1844 12 7 me, 
+- 1860
+: 1862 4 2 I 
+: 1868 4 6 want 
+: 1876 6 7 you 
+: 1884 6 9 here 
+: 1894 4 11 with 
+: 1900 1 6 me
+: 1902 16 7 ~ 
+- 1922
+: 1924 6 2 I 
+: 1932 6 6 know 
+: 1940 14 7 that 
+- 1956
+: 1958 6 2 Your 
+: 1966 6 4 love 
+: 1974 2 2 is 
+* 1978 46 2 gone 
+- 2034
+: 2050 6 2 I 
+: 2060 6 6 can’t 
+: 2068 14 7 breathe, 
+- 2084
+: 2086 4 2 I’m 
+: 2094 4 6 so 
+: 2100 12 7 weak, 
+- 2116
+: 2118 4 2 I 
+: 2126 4 6 know 
+: 2132 6 7 this 
+: 2140 6 9 is
+: 2150 4 11 n’t 
+: 2156 6 14 eas
+* 2166 68 11 y 
+- 2244
+: 2248 2 11 Don’t 
+: 2254 5 14 tell 
+: 2260 6 11 me 
+: 2268 6 14 that 
+: 2276 6 11 your 
+- 2282
+: 2284 6 9 Love 
+: 2294 4 7 is 
+: 2300 24 9 gone 
+- 2333
+: 2336 4 11 That 
+: 2342 4 9 your 
+: 2350 6 6 love 
+: 2358 4 6 is 
+* 2364 64 7 gone 
+- 2438
+: 2464 2 11 That 
+: 2470 4 9 your 
+: 2476 6 6 love 
+: 2484 4 6 is 
+* 2490 38 7 gone 
+- 2565
+: 2636 2 2 I 
+: 2640 2 6 can’t 
+: 2644 14 7 breathe, 
+- 2660
+: 2662 6 2 I’m 
+* 2670 6 6 so 
+: 2678 14 7 weak, 
+- 2694
+: 2696 6 2 I 
+: 2704 6 6 know 
+: 2714 6 7 this 
+* 2724 6 9 is
+* 2732 6 11 n’t 
+: 2740 8 14 eas
+: 2750 14 11 y 
+- 2768
+: 2770 6 11 Don’t 
+: 2780 9 14 tell 
+: 2790 8 11 me 
+: 2802 6 14 that 
+* 2810 6 11 your 
+- 2816
+* 2818 10 9 Love 
+* 2830 4 7 is 
+* 2838 22 9 gone 
+- 2870
+: 2886 2 11 That 
+: 2890 6 9 your 
+: 2898 8 6 love 
+: 2910 7 6 is 
+* 2918 44 7 gone 
+E

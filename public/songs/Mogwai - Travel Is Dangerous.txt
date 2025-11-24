@@ -1,0 +1,140 @@
+#ARTIST:Mogwai
+#TITLE:Travel Is Dangerous
+#MP3:Mogwai - Travel Is Dangerous.mp3
+#CREATOR:Madlock
+#YEAR:2006
+#LANGUAGE:English
+#BPM:200
+#GAP:39030
+#VIDEO:v=FLTxA-1JI3M,co=https://www.vicioussloth.com.au/cdn/shop/products/20220514_161747_1200x1200.jpg,bg=mogwai-636c8e32703b7.jpg
+: 0 5 1 Who 
+: 6 4 -1 might 
+: 12 3 -1 know 
+: 16 7 1 of 
+: 24 30 -3 this 
+- 56
+: 68 3 -3 The 
+: 72 8 -1 notes 
+: 82 2 -1 we 
+: 86 22 -1 left 
+- 110
+: 114 3 -3 Our 
+: 118 2 -1 fi
+: 122 2 -1 ~
+: 126 2 -1 nal 
+: 130 22 -1 thoughts 
+- 154
+: 172 2 1 And 
+: 176 6 1 we 
+: 184 5 1 knew 
+: 190 6 -1 they’d 
+: 198 3 -1 get 
+: 202 7 1 ours 
+: 210 26 -3 out 
+- 238
+: 244 45 1 Sink, 
+: 290 42 -3 sink 
+- 334
+: 336 20 -3 Drowned 
+: 358 11 -1 by 
+: 370 10 1 our 
+: 382 3 1 coun
+: 386 28 -3 try 
+- 416
+: 428 45 1 Old 
+: 474 40 -3 machine 
+- 516
+: 518 2 -3 Is 
+: 522 20 -3 crushed 
+: 544 11 -1 and 
+: 556 8 1 for
+: 566 4 1 got
+: 572 22 -3 ten 
+- 596
+: 626 2 1 Ne
+: 630 6 1 ver 
+: 638 4 1 sur
+: 646 9 1 face 
+: 656 3 2 a
+: 660 26 1 gain 
+- 688
+: 738 1 -3 The 
+: 740 6 -3 air 
+: 748 4 -1 runs 
+: 754 20 -1 out 
+- 776
+: 784 1 -3 The 
+: 786 2 -1 cap
+: 790 2 -1 tain
+: 794 2 -1 ’s 
+: 798 16 -1 first 
+- 816
+: 840 2 1 So 
+: 844 6 1 we 
+: 852 11 1 take 
+: 864 2 -1 to 
+: 868 3 -1 me
+: 872 7 1 mo
+: 880 24 -3 ries 
+- 906
+: 910 3 -6 And 
+: 914 6 -3 la
+: 922 5 -3 yers 
+: 928 7 -1 of 
+: 936 18 -3 clothes 
+- 956
+: 1004 4 1 Up 
+: 1012 11 1 there 
+: 1024 2 -1 the 
+: 1028 3 -1 fa
+: 1032 5 1 mily 
+: 1038 22 -3 weeps 
+- 1062
+: 1072 4 -3 Out 
+: 1080 6 -3 si
+: 1088 3 -3 ~
+: 1092 2 -1 ~de 
+: 1096 2 -1 ham
+: 1100 6 -3 mers 
+- 1108
+: 1110 2 -6 Noi
+: 1114 3 -6 ses 
+: 1118 4 -1 sound 
+: 1126 7 -1 like 
+: 1134 7 1 the 
+: 1142 16 -1 end 
+- 1160
+: 1176 8 1 And 
+: 1186 8 1 we 
+: 1198 8 1 will 
+: 1210 3 1 ne
+: 1214 5 -3 ver 
+: 1220 3 1 see 
+: 1224 20 -3 them 
+- 1246
+: 1254 45 1 Sink, 
+: 1300 38 -3 sink 
+- 1340
+: 1348 18 -3 Drowned 
+: 1370 11 -1 by 
+: 1382 8 1 our 
+: 1392 3 1 coun
+: 1396 24 -3 try 
+- 1422
+: 1440 44 1 Great 
+: 1486 32 -3 machine 
+- 1520
+: 1530 2 -3 Is 
+: 1534 14 -3 crushed, 
+: 1556 11 -1 old 
+: 1568 8 1 and 
+: 1578 3 1 rot
+: 1582 22 -3 ten 
+- 1606
+: 1636 2 1 Ne
+: 1640 6 1 ver 
+: 1648 4 1 sur
+: 1656 6 1 face 
+: 1666 3 2 a
+: 1670 24 1 gain 
+E

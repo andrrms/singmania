@@ -1,0 +1,307 @@
+#ARTIST:Les Misérables
+#TITLE:Do You Hear The People Sing
+#MP3:Les Misérables - Do You Hear The People Sing.mp3
+#CREATOR:azerty12342000
+#GENRE:Musical
+#LANGUAGE:English
+#BPM:240
+#GAP:5380
+#VIDEO:a=FI85bIis2cY,co=https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1275/1275471_so.jpg
+: 0 7 9 Do 
+: 8 3 7 you 
+: 12 7 5 hear 
+: 20 3 7 the 
+: 24 7 9 peo
+: 32 3 10 ple 
+: 36 11 12 sing? 
+- 48
+: 48 3 9 Sing
+: 52 3 7 ing 
+: 56 2 5 a 
+: 60 5 4 song 
+: 66 3 2 of 
+: 70 7 4 ang
+: 78 3 5 ry 
+: 82 8 0 men? 
+- 92
+: 96 2 2 It 
+: 100 1 0 is 
+: 102 3 -2 the 
+: 106 5 -3 mu
+: 112 5 0 sic 
+: 118 7 5 of 
+: 126 3 9 a 
+: 130 5 7 peo
+: 136 4 6 ple 
+- 141
+: 142 5 7 Who 
+: 148 3 2 will 
+: 152 5 5 not 
+: 158 3 4 be 
+: 162 9 4 slaves 
+: 172 1 5 a
+: 174 8 7 gain! 
+- 184
+: 186 7 9 When 
+: 194 3 7 the 
+: 198 7 5 bea
+: 206 3 7 ting 
+: 210 5 9 of 
+: 216 3 10 your 
+: 220 12 12 heart 
+- 233
+: 234 3 9 Ech
+: 238 3 7 oes 
+: 242 3 5 the 
+: 246 7 4 beat
+: 254 3 2 ing 
+: 258 3 4 of 
+: 262 3 5 the 
+: 266 12 0 drums 
+- 279
+: 280 4 2 There 
+: 286 1 0 is 
+: 288 1 -2 a 
+: 290 8 -3 life 
+: 300 1 0 a
+: 302 7 5 bout 
+: 310 1 9 to 
+: 312 6 7 start 
+- 319
+: 320 3 6 When 
+: 324 1 7 to
+: 326 5 10 mor
+: 332 5 4 row 
+: 338 34 5 comes! 
+- 373
+: 374 3 4 Will 
+: 378 3 4 you 
+: 382 7 9 join 
+: 390 3 8 in 
+: 394 6 9 our 
+: 402 3 11 cru
+: 406 7 12 sade? 
+- 414
+: 414 1 11 Who 
+: 416 5 9 will 
+: 422 3 12 be 
+: 426 7 11 strong 
+: 434 3 9 and 
+: 438 7 7 stand 
+: 446 1 9 with 
+: 448 16 11 me? 
+- 465
+: 466 3 12 Be
+: 470 7 14 yond 
+: 478 3 12 the 
+: 482 5 11 bar
+: 488 3 12 ric
+: 492 8 14 ade 
+- 501
+: 502 1 12 Is 
+: 504 7 11 there 
+: 512 1 14 a 
+: 514 7 12 world 
+: 522 3 11 you 
+: 526 5 9 long 
+: 532 3 11 to 
+: 536 17 12 see? 
+- 554
+: 554 3 9 Then 
+: 558 3 12 join 
+: 562 1 11 in 
+: 564 3 9 the 
+: 568 3 12 fight 
+- 572
+: 572 3 11 That 
+: 576 3 9 will 
+: 580 3 12 give 
+: 584 1 11 you 
+: 586 1 9 the 
+: 588 7 12 right 
+: 596 1 11 to 
+: 598 1 12 be 
+: 600 32 14 free! 
+- 633
+: 634 5 16 Do 
+: 640 3 14 you 
+: 644 7 12 hear 
+: 652 1 14 the 
+: 654 7 16 peo
+: 662 3 17 ple 
+: 666 9 19 sing? 
+- 676
+: 676 3 16 Sing
+: 680 3 14 ing 
+: 684 3 12 a 
+: 688 7 11 song 
+: 696 3 9 of 
+: 700 5 11 ang
+: 706 3 12 ry 
+: 710 11 7 men? 
+- 722
+: 722 3 9 It 
+: 726 1 7 is 
+: 728 3 5 the 
+: 732 7 4 mu
+: 740 3 7 sic 
+: 744 5 12 of 
+: 750 3 16 a 
+: 754 7 14 peo
+: 762 3 13 ple 
+- 766
+: 766 5 14 Who 
+: 772 3 9 will 
+: 776 6 12 not 
+: 784 3 11 be 
+: 788 5 11 slaves 
+: 794 3 12 a
+: 798 10 14 gain! 
+- 809
+: 810 5 16 When 
+: 816 3 14 the 
+: 820 7 12 bea
+: 828 3 14 ting 
+: 832 5 16 of 
+: 838 3 17 your 
+: 842 11 19 heart 
+- 854
+: 854 3 16 Ech
+: 858 3 14 oes 
+: 862 3 12 the 
+: 866 5 11 beat
+: 872 3 9 ing 
+: 876 5 11 of 
+: 882 3 12 the 
+: 886 10 7 drums 
+- 897
+: 898 3 9 There 
+: 902 3 7 is 
+: 906 1 5 a 
+: 908 7 4 life 
+: 916 1 7 a
+: 918 7 12 bout 
+: 926 3 16 to 
+: 930 3 14 start 
+- 934
+: 934 3 13 When 
+: 938 1 14 to
+: 940 7 17 mo
+: 948 3 14 rrow 
+: 952 26 12 comes! 
+- 980
+: 986 5 4 Will 
+: 992 3 4 you 
+: 996 7 9 give 
+: 1004 1 8 all 
+: 1006 5 9 you 
+: 1012 3 11 can 
+: 1016 7 12 give 
+- 1024
+: 1024 3 11 So 
+: 1028 5 9 that 
+: 1034 3 12 our 
+: 1038 5 11 ban
+: 1044 3 9 ner 
+: 1048 5 7 may 
+: 1054 3 9 ad
+: 1058 10 11 vance 
+- 1070
+: 1072 5 12 Some will 
+: 1078 7 14 fall 
+: 1086 3 12 and 
+: 1090 3 11 some 
+: 1094 3 12 will 
+: 1098 8 14 live 
+- 1107
+: 1108 1 12 Will 
+: 1110 3 11 you 
+: 1114 5 14 stand 
+: 1120 4 12 up 
+: 1126 3 11 and 
+: 1130 5 9 take 
+: 1136 3 11 your 
+: 1140 10 12 chance? 
+- 1152
+: 1158 1 9 The 
+: 1160 5 12 blood 
+: 1166 1 11 of 
+: 1168 1 9 the 
+: 1170 5 12 mar
+: 1176 1 11 tyrs 
+- 1178
+: 1178 3 9 Will 
+: 1182 3 12 wa
+: 1186 3 11 ter 
+: 1190 1 9 the 
+: 1192 3 12 mead
+: 1196 3 11 ows 
+: 1200 1 12 of 
+: 1202 28 14 France! 
+- 1232
+: 1236 5 16 Do 
+: 1242 3 14 you 
+: 1246 7 12 hear 
+: 1254 3 14 the 
+: 1258 5 16 peo
+: 1264 3 17 ple 
+: 1268 11 19 sing? 
+- 1280
+: 1280 3 16 Sing
+: 1284 3 14 ing 
+: 1288 1 12 a 
+: 1290 7 11 song 
+: 1298 3 9 of 
+: 1302 7 11 ang
+: 1310 3 12 ry 
+: 1314 6 7 men? 
+- 1322
+: 1324 3 9 It 
+: 1328 3 7 is 
+: 1332 1 5 the 
+: 1334 7 4 mu
+: 1342 3 7 sic 
+: 1346 7 12 of 
+: 1354 1 16 a 
+: 1356 7 14 peo
+: 1364 3 13 ple 
+- 1368
+: 1368 7 14 Who 
+: 1376 1 9 will 
+: 1378 7 12 not 
+: 1386 3 11 be 
+: 1390 7 11 slaves 
+: 1398 1 12 a
+: 1400 10 14 gain! 
+- 1412
+: 1414 3 16 When 
+: 1418 5 14 the 
+: 1424 5 12 bea
+: 1430 3 14 ting 
+: 1434 5 16 of 
+: 1440 5 17 your 
+: 1446 11 19 heart 
+- 1458
+: 1458 1 16 Ech
+: 1460 3 14 oes 
+: 1464 3 12 the 
+: 1468 5 11 bea
+: 1474 3 9 ting 
+: 1478 7 11 of 
+: 1486 3 12 the 
+: 1490 9 7 drums 
+- 1500
+: 1500 5 9 There 
+: 1506 1 7 is 
+: 1508 1 5 a 
+: 1510 7 4 life 
+: 1518 3 7 a
+: 1522 7 12 bout 
+: 1530 1 16 to 
+: 1532 5 14 start 
+- 1538
+: 1538 3 13 When 
+: 1542 1 14 to
+: 1544 13 17 morrow 
+: 1558 42 13 comes! 
+E

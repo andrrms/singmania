@@ -1,0 +1,107 @@
+#ARTIST:Weezer
+#TITLE:Burndt Jamb
+#MP3:Weezer - Burndt Jamb.mp3
+#CREATOR:Viktor1234678, krasserdude
+#GENRE:Rock
+#YEAR:2002
+#LANGUAGE:English
+#BPM:240
+#GAP:14220
+#VIDEO:a=g8HxirtezmI,co=maladroit-4dda87b0d1c60.jpg,bg=weezer-62fa43a5372a4.jpg
+: 0 4 -3 Go
+: 6 6 1 thic 
+* 15 5 8 fla
+* 22 8 6 vor 
+- 32
+: 41 4 1 How 
+: 46 6 2 I 
+: 53 6 1 miss 
+: 60 12 -1 you 
+- 74
+: 79 5 -3 If 
+: 86 6 1 I 
+: 94 5 8 on
+: 101 8 6 ly 
+- 111
+: 119 5 1 Once 
+: 126 6 2 could 
+: 133 7 1 kiss 
+: 141 11 -1 you 
+- 154
+: 159 4 1 I’d 
+: 165 5 2 be 
+: 172 7 1 ha
+: 180 7 -1 ppy 
+- 189
+: 197 5 1 For 
+: 205 5 2 one 
+: 212 6 1 mo
+: 219 8 -1 ment 
+- 229
+: 237 5 1 Of 
+: 244 6 2 my 
+: 252 5 1 life
+: 259 9 -1 time 
+- 270
+: 276 5 -1 I’d 
+: 283 7 -3 be 
+: 291 10 -4 there 
+- 303
+: 393 6 -3 And 
+: 401 5 1 the 
+* 408 5 8 wa
+* 415 9 6 ter 
+- 426
+: 434 5 1 Ru
+: 441 6 2 nning 
+: 449 5 1 o
+: 455 7 -1 ver 
+- 464
+: 473 5 -3 Me 
+: 480 5 1 is 
+: 487 6 8 gro
+: 495 9 6 wing 
+- 506
+: 512 5 1 E
+: 519 5 2 ver 
+: 526 5 1 col
+: 533 8 -1 der 
+- 543
+: 552 4 1 Make 
+: 558 5 2 me 
+: 565 5 1 ha
+: 572 10 -1 ppy 
+- 584
+: 590 4 1 For 
+: 597 5 2 one 
+: 605 5 1 mo
+: 612 8 -1 ment 
+- 622
+: 629 6 1 Of 
+: 636 7 2 my 
+: 644 6 1 life
+: 651 8 -1 time 
+- 661
+: 668 5 -1 I’d 
+: 675 5 -3 be 
+: 683 11 -4 there 
+- 696
+: 1180 4 -2 Make 
+: 1187 5 -1 me 
+: 1194 6 -2 ha
+: 1202 8 -4 ppy 
+- 1212
+: 1220 4 1 For 
+: 1227 5 2 one 
+: 1235 5 1 mo
+: 1242 7 -1 ment 
+- 1251
+: 1258 5 1 Of 
+: 1266 5 2 my 
+: 1273 5 1 life
+: 1280 9 -1 time 
+- 1291
+: 1299 4 -1 I’d 
+: 1305 7 -3 be 
+: 1313 12 -4 there 
+E

@@ -1,0 +1,295 @@
+#ARTIST:Steven Universe feat. Tom Scharpling
+#TITLE:Comet
+#MP3:Steven Universe feat. Tom Scharpling - Comet.mp3
+#CREATOR:GaryCXJk
+#COVER:Steven Universe feat. Tom Scharpling - Comet [CO].jpg
+#BACKGROUND:Steven Universe feat. Tom Scharpling - Comet [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2015
+#LANGUAGE:English
+#BPM:280
+#GAP:7980
+#VIDEO:v=t3M47LlGAWU,co=https://static.wikia.nocookie.net/steven-universe/images/b/b6/Soundtrack_Volume_1.jpg
+: 0 3 5 Some
+: 4 7 7 ~ 
+: 31 4 7 say 
+: 36 3 7 I 
+: 40 4 7 have 
+: 46 4 5 no 
+: 51 3 4 di
+: 55 4 4 rec
+: 62 8 5 tion 
+- 80
+: 90 3 -5 That 
+: 94 3 7 I’m 
+: 98 3 7 a 
+: 102 4 7 light
+: 110 3 5 speed 
+: 114 2 4 dis
+: 119 4 4 trac
+: 126 8 2 tion 
+- 144
+: 155 1 -5 But 
+: 158 3 6 that’s 
+: 163 3 7 a 
+: 167 4 7 knee
+: 172 4 5 jerk 
+: 178 3 4 re
+: 182 4 5 ac
+: 190 8 0 tion 
+- 216
+: 255 3 11 Still
+: 259 7 12 ~ 
+: 287 2 7 this 
+: 292 2 7 is 
+: 296 2 7 the 
+: 301 4 5 fi
+: 306 2 4 nal 
+: 311 5 4 fron
+: 318 10 5 tier 
+- 338
+: 351 3 7 E
+: 355 4 7 ve
+: 360 4 7 ry
+: 366 4 5 thing 
+: 371 2 4 is 
+: 376 4 5 so 
+: 383 9 2 clear 
+- 402
+: 415 2 5 To 
+: 418 4 7 my 
+: 424 4 7 des
+: 431 3 5 ti
+: 435 4 4 ny 
+: 440 5 5 I 
+: 450 11 0 steer 
+- 479
+: 513 2 0 This 
+: 519 4 12 life 
+: 526 3 12 in 
+: 530 2 12 the 
+: 536 5 11 stars 
+: 543 2 11 is 
+: 547 5 12 all 
+: 553 4 11 I’ve 
+: 559 3 8 e
+: 563 3 6 ver 
+: 567 21 9 known 
+- 598
+: 620 5 9 Stars 
+: 626 3 11 and 
+: 632 4 12 star
+: 637 4 9 dust 
+: 644 3 7 and 
+: 648 4 9 in
+: 654 3 9 fi
+: 658 2 9 nite 
+: 665 3 9 space
+: 669 5 11 ~ 
+: 677 2 12 is 
+: 681 6 11 my 
+: 688 3 9 on
+: 692 2 7 ly
+: 695 2 5 ~ 
+: 698 17 5 home 
+- 725
+* 751 2 12 But 
+* 755 2 12 the 
+* 759 5 16 mo
+* 766 3 16 ment 
+* 772 3 16 that 
+* 776 4 16 I 
+* 782 3 14 hit 
+* 787 1 12 the 
+* 792 4 14 stage
+* 797 3 13 ~
+* 801 2 12 ~ 
+- 805
+: 807 5 12 Thou
+: 814 3 12 sands 
+: 819 3 12 of 
+: 824 4 12 voi
+: 831 3 9 ces 
+: 835 4 7 are 
+: 841 5 9 cal
+: 847 3 9 ling 
+: 852 4 7 my 
+: 857 12 7 name 
+- 873
+: 875 5 9 And 
+: 881 4 11 I 
+: 887 4 12 know 
+: 894 3 8 in 
+: 898 4 7 my 
+: 904 5 9 heart 
+- 909
+: 910 2 9 It’s 
+: 916 4 9 been 
+: 921 2 9 worth
+: 924 5 11 ~ 
+: 932 3 12 it 
+: 936 5 10 all 
+: 942 3 8 of 
+: 947 3 5 the 
+: 952 20 5 while 
+- 982
+: 1003 3 7 And 
+: 1007 3 12 as 
+: 1012 2 12 my 
+: 1015 2 14 al
+: 1018 2 16 ~
+: 1021 4 16 bums 
+: 1028 5 16 fly 
+: 1034 3 16 off 
+: 1039 3 14 of 
+: 1044 2 12 the 
+: 1049 4 14 shelves
+: 1054 3 13 ~ 
+- 1061
+: 1063 4 12 Han
+: 1069 3 12 ding 
+: 1074 5 12 out 
+: 1080 4 12 au
+: 1085 3 9 to
+: 1090 3 7 graphed 
+: 1096 3 9 pics 
+: 1101 3 9 of 
+: 1106 3 6 my
+: 1112 7 6 self 
+- 1125
+: 1128 3 8 This 
+: 1133 3 9 life 
+: 1139 3 11 I 
+: 1144 2 12 chose
+: 1147 2 10 ~ 
+: 1151 3 9 is
+: 1156 3 7 n’t 
+: 1160 4 9 ea
+: 1165 3 9 sy 
+- 1168
+: 1169 2 9 But 
+: 1175 2 9 sure
+: 1178 3 11 ~ 
+: 1182 2 11 is 
+: 1186 3 12 one 
+: 1192 3 11 heck 
+: 1197 4 9 of 
+: 1202 4 5 a 
+: 1207 16 5 ride 
+- 1241
+: 1262 2 14 At 
+: 1266 2 14 the 
+: 1270 2 16 mo
+: 1273 2 18 ~
+: 1276 4 18 ment 
+: 1282 4 18 that 
+: 1287 5 18 I 
+: 1293 3 16 hit 
+: 1299 1 14 the 
+: 1304 5 16 stage
+: 1310 5 13 ~ 
+- 1318
+: 1320 4 14 I 
+: 1326 4 14 hear 
+: 1331 3 14 the 
+: 1335 5 14 u
+: 1341 3 11 ni
+: 1345 3 9 verse 
+: 1352 5 11 cal
+: 1358 3 11 ling 
+: 1363 4 9 my 
+: 1369 13 9 name 
+- 1386
+: 1388 4 11 And 
+: 1394 4 13 I 
+: 1399 4 14 know 
+: 1405 4 10 deep 
+: 1411 5 11 down 
+: 1417 3 11 in 
+: 1421 4 11 my 
+: 1427 4 11 heart 
+- 1431
+: 1432 4 11 I
+: 1437 6 13 ~ 
+: 1444 3 14 have 
+: 1449 3 13 no
+: 1455 3 11 thing 
+: 1460 2 9 to 
+: 1465 18 7 fear 
+- 1493
+* 1515 3 14 And 
+* 1519 3 14 as 
+* 1523 2 16 the 
+* 1528 2 16 so
+* 1531 2 18 ~
+* 1534 3 18 lar 
+* 1538 4 18 wind 
+* 1544 5 18 blows 
+* 1551 4 16 through 
+* 1556 4 14 my 
+* 1561 5 16 hair
+* 1567 3 14 ~ 
+- 1572
+: 1574 5 14 Kno
+: 1580 3 14 wing 
+: 1585 4 14 I 
+: 1591 4 14 have 
+: 1598 3 11 so 
+: 1602 2 9 much 
+: 1607 5 11 more 
+: 1613 4 11 left 
+: 1620 2 9 to 
+: 1625 9 9 share 
+- 1634
+: 1636 2 6 A 
+: 1640 5 10 wan
+: 1646 3 11 de
+: 1650 3 13 ring 
+: 1657 4 14 spi
+: 1662 3 11 rit 
+: 1667 2 11 who’s 
+: 1673 4 11 tea
+: 1678 3 11 ring 
+: 1682 2 11 its 
+: 1688 2 11 way
+: 1691 1 13 ~ 
+- 1692
+: 1694 3 13 Through 
+: 1699 2 14 the 
+: 1704 4 13 cold 
+: 1710 3 9 at
+: 1715 3 7 mo
+: 1722 13 7 sphere 
+- 1741
+: 1743 2 -1 I 
+: 1748 3 9 fly
+: 1752 4 11 ~
+: 1757 12 9 ~ 
+: 1770 6 9 like 
+: 1779 1 -3 a 
+: 1783 3 4 co
+: 1787 2 6 ~
+: 1790 4 9 met 
+- 1804
+: 1826 3 9 Soar
+: 1830 4 11 ~ 
+: 1836 6 9 like 
+: 1844 2 9 a 
+: 1847 2 2 co
+: 1850 3 6 ~
+: 1854 4 9 met 
+- 1868
+: 1891 3 9 Crash
+: 1895 2 11 ~ 
+: 1900 5 9 like 
+: 1906 2 9 a 
+: 1911 3 2 co
+: 1915 2 6 ~
+: 1919 4 9 met 
+- 1933
+* 1957 6 7 I’m 
+* 1965 4 7 just 
+* 1971 2 6 a 
+* 1976 5 6 co
+* 1982 11 2 met 
+E

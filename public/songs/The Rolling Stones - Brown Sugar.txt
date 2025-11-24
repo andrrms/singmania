@@ -1,0 +1,339 @@
+#ARTIST:The Rolling Stones
+#TITLE:Brown Sugar
+#MP3:The Rolling Stones - Brown Sugar.mp3
+#CREATOR:DoubleDee
+#COVER:The Rolling Stones - Brown Sugar [CO].jpg
+#BACKGROUND:The Rolling Stones - Brown Sugar [BG].jpg
+#GENRE:Blues Rock
+#YEAR:1971
+#LANGUAGE:English
+#BPM:257
+#GAP:30340
+#VIDEO:a=Bar7SzNLnY0,v=hxXV2UftL7Q,co=brown-sugar--bitch-54b4d893e3480.jpg,preview=47.9,medley=0-504
+#VIDEOGAP:8.5
+* 0 5 4 Gold 
+* 8 4 4 coast 
+: 16 5 4 slave 
+: 24 3 0 ship 
+: 28 2 0 bound 
+: 32 2 -2 for 
+: 36 3 0 cot
+: 40 5 0 ton 
+: 47 7 4 field
+: 56 3 -3 ~s 
+- 63
+: 65 4 3 Sol
+: 71 3 0 ~d 
+: 76 2 0 in 
+: 80 2 -2 the 
+: 84 3 0 mar
+: 88 2 -2 ket 
+: 92 3 0 down 
+: 96 2 -2 in 
+: 100 3 0 New 
+: 104 5 0 Or
+: 112 7 3 lean
+: 120 2 -3 ~s 
+- 127
+: 129 6 7 Scarred 
+: 137 6 3 old 
+: 145 6 3 sla
+: 153 2 -2 ver 
+: 157 3 0 knows 
+: 161 2 -2 he’s 
+: 165 1 0 do
+: 167 1 0 ing 
+: 169 6 0 al
+: 177 5 3 right 
+- 190
+: 193 5 2 Hear 
+: 201 3 0 him 
+: 205 3 2 whip 
+: 209 2 0 the 
+: 213 6 2 wo
+: 221 3 0 men 
+: 225 5 3 just 
+: 233 2 -2 a
+: 237 5 0 round 
+: 245 5 0 mid
+: 253 2 -3 nigh
+: 256 3 -5 ~t 
+- 276
+* 301 6 5 Brown 
+: 310 2 5 su
+: 314 2 5 gar
+: 317 3 7 ~, 
+- 326
+: 329 2 5 How 
+: 333 3 5 come 
+: 338 3 3 you 
+: 342 5 5 taste 
+: 349 3 7 so 
+: 354 2 3 goo
+: 358 3 0 ~d? 
+: 363 1 0 Uh
+: 365 2 3 ~ 
+: 370 2 -3 huh 
+- 389
+: 429 5 5 Brown 
+: 437 3 5 su
+: 442 1 4 gar
+: 444 4 7 ~, 
+- 454
+: 457 2 5 Just 
+: 461 2 5 like 
+: 465 2 3 a 
+: 469 3 5 young 
+: 473 2 5 gir
+: 476 3 7 ~l 
+: 481 3 3 shoul
+: 485 4 0 ~d, 
+: 490 2 0 uh 
+: 493 3 3 huh, 
+: 497 7 0 oh 
+- 538
+: 644 7 3 Drums 
+: 654 4 3 bea
+: 659 2 0 ting, 
+: 663 6 3 cold 
+: 671 3 3 Eng
+: 675 3 0 lish 
+: 679 3 3 blood 
+: 684 5 3 runs 
+: 692 6 3 hot 
+- 704
+: 707 6 3 La
+: 715 2 3 dy 
+: 719 2 3 of 
+: 723 2 0 the 
+: 727 6 3 house 
+: 735 3 2 won
+: 740 2 0 derin’ 
+: 743 3 3 when 
+: 748 2 3 it’s 
+: 751 3 2 gon
+: 755 2 0 na 
+: 759 5 3 stop 
+- 769
+: 771 5 7 House 
+: 779 5 3 boy 
+* 787 4 6 know
+* 792 4 -2 ~s 
+: 799 3 0 that 
+: 803 3 -2 he’s 
+: 807 1 0 do
+: 809 1 0 ing 
+: 811 6 0 al
+: 819 8 3 right 
+- 833
+: 836 5 3 You 
+: 844 2 0 shoul
+: 847 2 2 ~
+: 850 3 0 da 
+: 854 4 2 heard 
+: 862 3 0 ’em 
+: 867 4 4 just 
+: 874 3 -2 a
+: 878 5 0 round 
+: 887 4 0 mid
+: 894 3 -3 nigh
+: 898 3 -5 ~t 
+- 918
+: 944 4 5 Brown 
+: 952 2 5 su
+: 956 2 5 gar
+: 959 3 7 ~, 
+- 968
+* 971 2 7 How 
+* 975 2 5 come 
+: 979 2 3 you 
+: 983 5 5 taste 
+: 991 2 7 so 
+: 995 3 3 goo
+: 999 2 0 ~d 
+: 1002 5 0 now? 
+- 1024
+: 1071 5 5 Brown 
+: 1079 3 3 su
+: 1084 5 3 gar, 
+- 1096
+: 1099 2 7 Just 
+: 1103 2 5 like 
+: 1107 2 3 a 
+: 1111 3 5 young 
+: 1115 2 5 gir
+: 1118 3 7 ~l 
+: 1123 2 4 should
+: 1126 3 0 ~ 
+: 1130 2 0 now
+: 1133 4 3 ~ 
+- 1171
+: 1665 18 7 Ah
+: 1684 11 5 ~, 
+: 1697 3 5 get 
+: 1701 6 5 on, 
+: 1709 7 5 brown 
+: 1720 3 5 su
+: 1725 3 5 gar, 
+- 1730
+: 1732 3 7 How
+: 1736 3 5 ~ 
+: 1741 4 5 come 
+: 1747 3 3 you 
+: 1752 6 5 taste 
+: 1760 3 7 so 
+: 1765 2 3 goo
+: 1769 3 0 ~d? 
+- 1784
+: 1788 15 7 Ah
+: 1804 2 5 ~, 
+: 1807 2 5 got 
+: 1811 2 5 me 
+: 1815 2 5 cra
+: 1818 2 4 ving 
+: 1821 3 5 the, 
+- 1832
+: 1835 3 4 The 
+: 1840 7 5 brown 
+: 1848 3 5 su
+: 1852 5 4 gar 
+- 1864
+: 1867 2 5 Just 
+: 1871 2 5 like 
+: 1875 2 3 a 
+: 1879 3 5 black 
+: 1884 5 5 girl 
+: 1891 2 3 shoul
+: 1894 3 0 ~d, 
+: 1898 2 0 yeah
+: 1901 3 3 ~ 
+- 1912
+: 1915 11 3 Ah, 
+: 1928 2 3 and 
+: 1931 3 3 I 
+: 1935 3 3 bet 
+: 1939 3 4 your 
+: 1943 3 3 ma
+: 1947 2 0 ma 
+: 1951 2 0 was 
+: 1955 2 -2 a 
+: 1959 2 0 tent 
+: 1963 4 0 show 
+: 1971 9 3 queen 
+- 1985
+: 1987 6 3 And 
+: 1995 7 3 all 
+: 2003 3 3 her 
+: 2007 3 3 boy
+: 2011 7 0 friends 
+: 2019 3 -2 were 
+: 2023 3 3 sweet 
+: 2028 3 3 six
+: 2034 8 3 teen 
+- 2048
+* 2051 7 7 I’m 
+: 2059 5 3 no 
+: 2067 6 3 school
+: 2075 2 -2 boy, 
+: 2079 2 0 but 
+: 2083 2 -2 I 
+: 2087 1 0 know 
+: 2089 1 0 what 
+: 2091 6 0 I 
+: 2099 5 3 like 
+- 2112
+: 2115 6 2 You 
+: 2123 5 2 shoul
+: 2129 3 0 da 
+: 2133 6 2 heard 
+: 2141 3 0 me 
+: 2146 3 3 just 
+: 2153 2 -2 a
+: 2157 6 0 round 
+: 2165 6 0 mid
+: 2173 3 -3 nigh
+: 2177 2 -5 ~t 
+- 2196
+* 2222 5 5 Brown 
+: 2230 3 5 su
+: 2234 4 3 gar, 
+- 2240
+: 2242 3 6 How
+: 2246 3 5 ~ 
+: 2251 5 5 come 
+: 2258 3 3 you 
+: 2262 6 5 taste 
+: 2270 3 6 so 
+: 2274 3 3 goo
+: 2278 2 0 ~d, 
+: 2282 2 0 ba
+: 2285 2 3 ~
+: 2289 2 3 by? 
+- 2301
+: 2305 8 7 Ah
+: 2314 5 6 ~
+: 2321 6 5 ~, 
+: 2329 6 5 come 
+: 2337 2 5 down, 
+: 2350 5 5 brown 
+: 2358 4 6 su
+: 2363 2 5 gar 
+- 2374
+: 2378 2 5 Just 
+: 2382 2 5 like 
+: 2386 2 3 a 
+: 2390 2 5 young 
+: 2394 5 5 girl 
+: 2402 2 3 shoul
+: 2405 2 0 ~d, 
+: 2410 3 3 yeah
+: 2414 3 0 ~ 
+- 2451
+: 2555 2 3 I 
+: 2559 2 3 said, 
+: 2563 2 5 yeah
+: 2566 7 6 ~, 
+: 2578 2 5 yeah
+: 2581 8 6 ~, 
+: 2595 2 5 yeah
+: 2598 7 6 ~, 
+F 2610 8 10 woo 
+- 2630
+: 2634 2 6 How 
+: 2638 2 6 come 
+: 2642 2 3 you, 
+: 2650 3 6 how 
+: 2654 3 5 come 
+: 2658 2 3 you 
+: 2662 3 6 taste 
+: 2667 2 6 so
+: 2670 2 5 ~ 
+: 2674 7 6 good? 
+- 2687
+* 2690 2 6 Yeah
+* 2694 4 7 ~, 
+* 2706 2 6 yeah
+* 2710 4 7 ~, 
+* 2722 2 6 yeah
+* 2726 4 7 ~, 
+F 2737 9 17 woo 
+- 2757
+: 2761 2 6 Just 
+: 2765 2 5 like 
+: 2769 2 3 a, 
+: 2777 2 6 just 
+: 2781 3 5 like 
+: 2785 2 3 a 
+: 2789 3 6 black 
+: 2793 3 5 gir
+: 2797 2 5 ~l 
+: 2801 5 5 should 
+- 2813
+* 2816 2 6 Yeah
+* 2820 4 7 ~, 
+* 2832 2 6 yeah
+* 2836 4 7 ~, 
+* 2848 2 6 yeah
+* 2852 4 7 ~, 
+F 2863 9 17 woo 
+E

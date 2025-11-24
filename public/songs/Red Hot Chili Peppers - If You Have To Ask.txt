@@ -1,0 +1,429 @@
+#ARTIST:Red Hot Chili Peppers
+#TITLE:If You Have To Ask
+#MP3:Red Hot Chili Peppers - If You Have To Ask.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2008 Vol. 3
+#GENRE:Alternative Rock
+#YEAR:1991
+#LANGUAGE:English
+#BPM:399.35
+#GAP:9820
+#VIDEO:v=FlWyTSRnsQc,co=https://m.media-amazon.com/images/I/41D-Xm7RAPL.jpg,bg=red-hot-chili-peppers-54572982c5713.jpg
+F 0 2 17 A 
+F 3 4 17 wan
+F 8 2 17 na
+F 12 4 17 be 
+F 19 5 17 gangs
+F 29 4 17 ter 
+F 37 2 17 think
+F 41 1 17 in’ 
+F 43 2 17 he’s 
+F 47 2 17 a 
+F 52 6 17 wise 
+F 61 3 17 guy 
+- 66
+F 68 4 17 Rob 
+F 74 1 17 a
+F 77 3 17 no
+F 82 1 17 ther 
+F 85 5 17 bank 
+- 92
+F 94 2 17 He’s 
+F 98 1 17 a 
+F 101 3 17 sock 
+F 107 1 17 ’em 
+F 110 2 17 in 
+F 114 2 17 the 
+F 117 7 17 eye 
+F 126 6 17 guy 
+- 139
+F 142 5 17 Tank 
+F 151 6 17 head 
+F 159 2 17 Mis
+F 164 1 17 ter 
+F 168 3 17 Bon
+F 172 4 17 nie 
+F 177 3 17 and 
+F 184 5 17 Clyde 
+F 192 4 17 guy 
+- 198
+F 200 2 17 Look 
+F 205 1 17 him 
+F 208 2 17 in 
+F 213 2 17 the 
+F 216 6 17 eye 
+F 224 6 17 he’s 
+F 233 5 17 not 
+F 241 4 17 my 
+F 249 4 17 kind
+F 255 1 17 a 
+F 257 3 17 guy 
+- 265
+F 267 3 17 Ne
+F 271 2 17 ver 
+F 274 3 17 wan
+F 278 2 17 na 
+F 283 3 17 be 
+F 292 4 17 con
+F 300 4 17 fu
+F 307 5 17 sion 
+F 316 3 17 proof 
+F 324 5 17 of 
+- 331
+F 333 3 17 Pud
+F 337 5 17 ding’s 
+F 348 3 17 sweet 
+F 358 3 17 but 
+F 366 2 17 too 
+F 370 5 17 a
+F 379 3 17 loof 
+F 387 3 17 a 
+- 397
+F 400 3 17 O
+F 404 2 17 range 
+F 408 4 17 eyed 
+F 416 6 17 girl 
+F 423 2 17 with 
+F 427 1 17 a 
+F 431 3 17 back
+F 439 4 17 slide 
+F 447 3 17 ’do 
+F 456 5 17 said 
+- 469
+F 472 5 17 Yo 
+F 481 5 17 ho
+F 489 3 17 mey 
+F 497 7 17 who 
+F 506 4 17 you 
+F 513 3 17 talk
+F 519 1 17 in’ 
+F 522 3 17 to? 
+- 528
+F 530 4 17 Backed 
+F 538 4 17 up 
+F 546 4 17 pad
+F 551 2 17 dy
+F 555 4 17 wa
+F 560 1 17 gon 
+- 562
+F 564 3 17 Mack
+F 569 1 17 in’ 
+F 571 3 17 on 
+F 576 1 17 a 
+F 580 4 17 cat’s 
+F 588 5 17 ass 
+- 595
+F 597 5 17 One 
+F 605 2 17 up
+F 609 1 17 per
+F 614 4 17 cut 
+F 622 2 17 to 
+F 626 1 17 the 
+F 630 5 17 cold 
+F 637 3 17 up
+F 642 2 17 per 
+F 645 3 17 mid
+F 649 1 17 dle 
+F 654 6 17 class 
+- 668
+F 671 3 17 Born 
+F 676 2 17 to 
+F 680 6 17 storm 
+F 688 5 17 on 
+F 697 4 17 bore
+F 702 4 17 dom’s 
+F 711 6 17 face 
+- 726
+F 729 4 17 Add 
+F 735 2 17 a 
+F 738 2 17 lit
+F 742 4 17 tle 
+F 747 3 17 lust 
+F 755 2 17 to 
+F 759 1 17 the 
+F 763 3 17 funk
+F 767 2 17 y 
+F 771 4 17 ass 
+F 779 5 17 Flea 
+F 788 4 17 bass 
+- 795
+F 797 4 17 Most 
+F 805 2 17 in 
+F 810 2 17 the 
+F 814 4 17 race 
+F 822 3 17 just 
+F 830 5 17 lose 
+F 838 4 17 their 
+F 847 4 17 grace 
+- 861
+F 868 1 17 The 
+F 871 4 17 black
+F 877 1 17 est 
+F 881 7 17 hole 
+F 889 4 17 in 
+F 897 4 17 all 
+F 903 2 17 of 
+F 912 5 17 space 
+- 926
+F 929 2 17 Crook
+F 934 2 17 ed 
+F 937 3 17 as 
+F 942 2 17 a 
+F 946 3 17 hook
+F 951 1 17 er 
+F 954 4 17 now 
+F 963 2 17 suck 
+F 971 3 17 my 
+F 979 7 17 thumb 
+- 996
+F 1005 3 17 A
+F 1009 2 17 ny
+F 1012 4 17 bo
+F 1017 2 17 dy 
+F 1021 2 17 wan
+F 1024 2 17 na 
+F 1029 5 17 come 
+F 1037 3 17 get 
+F 1045 6 17 some 
+- 1058
+: 1061 5 27 If 
+: 1070 6 26 you 
+: 1079 5 24 have 
+: 1086 4 21 to 
+: 1091 2 24 ask
+: 1094 4 26 ~
+: 1099 19 24 ~ 
+- 1128
+: 1136 4 0 You’ll 
+: 1144 3 0 ne
+: 1149 4 0 ver 
+: 1158 28 3 know 
+- 1192
+: 1194 4 15 Fun
+: 1203 5 15 ky 
+: 1212 5 15 mo
+: 1220 3 12 ther 
+- 1233
+: 1244 4 12 Will 
+: 1253 4 15 not 
+- 1266
+: 1270 3 12 Be 
+: 1278 4 17 told 
+: 1286 4 12 to 
+: 1294 24 12 go 
+- 1324
+: 1326 6 28 If 
+: 1335 6 26 you 
+: 1343 6 24 have 
+: 1352 3 21 to 
+: 1356 1 24 ask
+: 1358 5 26 ~
+: 1364 18 24 ~ 
+- 1392
+: 1401 4 2 You’ll 
+: 1409 3 0 ne
+: 1414 4 0 ver 
+: 1423 27 3 know 
+- 1457
+: 1460 5 15 Fun
+: 1468 5 15 ky 
+: 1477 6 15 mo
+: 1484 4 12 ther 
+- 1498
+: 1510 4 12 Will 
+* 1519 3 15 not 
+- 1531
+: 1535 4 15 Be 
+: 1543 5 15 told 
+: 1552 3 15 to 
+: 1560 6 15 go-
+: 1568 6 15 oh-
+: 1576 5 15 oh-
+: 1584 7 15 wow 
+- 1644
+F 1856 4 17 Don’t 
+F 1861 4 17 ask 
+F 1869 3 17 me 
+F 1874 5 17 why 
+F 1880 5 17 I’m 
+F 1890 2 17 fly
+F 1893 4 17 in’ 
+F 1899 6 17 so 
+F 1906 4 17 high 
+- 1912
+F 1914 3 17 Mis
+F 1919 2 17 ter 
+F 1923 2 17 Bub
+F 1926 3 17 ble 
+F 1931 3 17 meets 
+F 1939 2 17 Su
+F 1942 2 17 per
+F 1947 6 17 fly 
+F 1955 5 17 in 
+F 1963 4 17 my 
+F 1972 6 17 third 
+F 1980 5 17 eye 
+- 1987
+F 1989 2 17 Search
+F 1993 2 17 in’ 
+F 1997 2 17 for 
+F 2000 2 17 a 
+F 2005 5 17 soul 
+F 2013 5 17 bride 
+F 2023 3 17 she’s 
+F 2030 3 17 my 
+F 2039 4 17 freak
+F 2046 5 17 ette 
+- 2053
+F 2055 3 17 Soak 
+F 2060 2 17 it 
+F 2063 3 17 up 
+F 2071 5 17 in
+F 2080 5 17 side 
+F 2088 3 17 deep
+F 2093 2 17 er 
+F 2096 3 17 than 
+F 2100 1 17 a 
+F 2105 3 17 se
+F 2112 5 17 cret 
+- 2126
+F 2129 3 17 Much 
+F 2137 6 17 more 
+F 2146 4 17 than 
+F 2154 3 17 meets 
+F 2162 1 17 the 
+F 2166 9 17 eye 
+- 2177
+F 2179 2 17 To 
+F 2183 1 17 the 
+F 2187 5 17 funk 
+F 2196 4 17 I 
+F 2204 7 17 fall 
+F 2212 5 17 in
+F 2221 6 17 to 
+F 2228 4 17 my 
+F 2236 6 17 new 
+F 2244 8 17 ride 
+- 2259
+F 2262 4 17 My 
+F 2269 13 17 hand 
+- 2291
+F 2295 6 17 My 
+F 2303 11 17 hand 
+- 2318
+F 2320 3 17 Ma
+F 2325 1 17 gic 
+F 2328 3 17 on 
+F 2333 1 17 the 
+F 2336 7 17 one 
+F 2345 2 17 is 
+F 2349 1 17 a 
+F 2353 3 17 me
+F 2357 2 17 di
+F 2362 3 17 cine 
+F 2369 6 17 man 
+- 2383
+F 2386 3 17 Think
+F 2391 2 17 in’ 
+F 2394 4 17 of 
+F 2399 1 17 a 
+F 2403 5 17 few 
+F 2412 5 17 ta
+F 2419 6 17 boos 
+F 2428 2 17 that 
+F 2432 1 17 I 
+F 2435 4 17 ought 
+F 2440 1 17 to 
+F 2444 4 17 kill 
+- 2450
+F 2452 3 17 Danc
+F 2458 1 17 in’ 
+F 2460 3 17 on 
+F 2465 1 17 their 
+F 2469 4 17 face 
+- 2475
+F 2477 3 17 Like 
+F 2482 1 17 a 
+F 2486 5 17 stage 
+F 2493 5 17 in 
+F 2503 3 17 Vau
+F 2507 1 17 de
+F 2510 4 17 ville 
+- 2518
+F 2520 4 17 I 
+F 2528 4 17 feel 
+F 2536 4 17 so 
+F 2543 5 17 good 
+F 2552 4 17 can’t 
+F 2561 4 17 be 
+F 2568 3 17 un
+F 2572 2 17 der
+F 2578 3 17 stood 
+- 2583
+F 2585 3 17 Boo
+F 2589 2 17 ty 
+F 2593 3 17 of 
+F 2597 3 17 a 
+F 2602 5 17 hood
+F 2609 3 17 lum 
+F 2617 4 17 rock
+F 2622 1 17 in’ 
+F 2627 5 17 my 
+F 2634 5 17 red 
+F 2640 5 17 hood 
+- 2648
+* 2650 6 27 If 
+* 2659 6 26 you 
+* 2667 7 24 have 
+* 2676 3 21 to 
+* 2680 1 24 ask
+* 2682 5 26 ~
+* 2688 21 24 ~ 
+- 2721
+: 2725 4 0 You’ll 
+: 2733 3 0 ne
+: 2737 3 0 ver 
+: 2746 31 3 know 
+- 2780
+: 2782 5 15 Fun
+: 2791 5 15 ky 
+: 2800 6 15 mo
+: 2808 4 12 ther 
+- 2822
+: 2833 5 12 Will 
+: 2842 5 15 not 
+- 2855
+: 2858 4 12 Be 
+: 2867 4 17 told 
+: 2875 4 12 to 
+: 2883 24 12 go 
+- 2913
+: 2916 7 28 If 
+: 2925 6 26 you 
+: 2932 6 24 have 
+: 2942 3 21 to 
+: 2946 1 24 ask
+: 2948 4 26 ~
+: 2953 21 24 ~ 
+- 2984
+: 2992 4 0 You’ll 
+: 3000 3 0 ne
+: 3004 3 0 ver 
+: 3012 32 3 know 
+- 3048
+: 3050 4 15 Fun
+: 3058 5 15 ky 
+: 3067 5 15 mo
+: 3074 4 12 ther 
+- 3088
+: 3099 5 12 Will 
+: 3108 4 15 not 
+- 3121
+: 3124 4 15 Be 
+: 3132 4 15 told 
+: 3140 4 15 to 
+: 3148 6 15 go-
+: 3156 7 15 oh-
+: 3165 6 15 oh-
+: 3172 6 15 oh 
+E

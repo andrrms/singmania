@@ -1,0 +1,489 @@
+#ARTIST:Disney’s StarStruck (Sterling Knight & Brandon Michael Smith)
+#TITLE:Shades
+#MP3:Disney’s StarStruck (Sterling Knight & Brandon Michael Smith) - Shades.mp3
+#CREATOR:DoubleDee commissioned by UrGamingTechie
+#COVER:Disney’s StarStruck (Sterling Knight & Brandon Michael Smith) - Shades [CO].jpg
+#BACKGROUND:Disney’s StarStruck (Sterling Knight & Brandon Michael Smith) - Shades [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2010
+#LANGUAGE:English
+#BPM:230
+#GAP:18610
+#VIDEO:v=MWVzA4GIUMU,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/32/19/15/3219152c-241e-4a76-0e27-c3f6419ac0be/05099962743952.jpg/5000x5000bb.jpg
+#START:3.5
+#END:141200
+: 0 2 5 No 
+: 4 1 7 you 
+: 6 2 7 can’t 
+: 10 2 7 see
+: 13 2 9 ~ 
+: 16 5 5 me 
+- 29
+: 32 3 5 No 
+: 36 1 7 you 
+: 38 2 7 can’t 
+* 42 2 7 beat
+* 45 2 9 ~ 
+* 48 5 5 me 
+- 61
+: 64 1 5 You 
+: 66 1 5 know 
+: 68 1 5 I’m 
+: 70 1 5 on 
+: 72 2 5 my 
+: 76 4 7 game 
+- 86
+: 88 3 7 That’s 
+: 92 3 7 when 
+: 96 2 2 I’m 
+: 100 3 7 in 
+: 106 4 7 my 
+: 112 5 7 shades 
+- 125
+: 128 1 5 See 
+: 130 1 5 the 
+: 132 2 5 came
+: 136 2 5 ras 
+: 139 3 7 fla
+: 144 3 2 shing 
+- 150
+: 152 1 5 In 
+: 154 1 5 the 
+: 156 1 5 par
+: 158 1 5 ty 
+: 160 1 5 and 
+: 162 1 5 it’s 
+: 164 2 5 time 
+: 168 2 5 for 
+: 172 2 7 ac
+: 176 2 2 tion 
+- 188
+: 192 1 5 You’re 
+: 194 1 5 the 
+: 196 2 5 main 
+: 200 1 5 at
+: 202 2 7 tra
+: 205 2 2 ~c
+: 208 5 2 tion 
+- 214
+: 216 4 7 Hey, 
+: 228 2 7 in 
+: 234 4 7 my 
+: 240 5 7 shades 
+- 256
+: 260 1 5 Put 
+: 262 1 5 up 
+: 264 1 5 on 
+: 266 1 5 the 
+: 268 3 5 spot 
+: 272 1 5 loo
+: 274 1 5 king 
+: 276 3 5 hot 
+: 280 1 5 ev
+: 282 1 5 ery
+: 284 2 5 bo
+: 288 2 5 dy 
+: 291 5 7 knows 
+- 302
+: 304 2 5 Don’t 
+: 308 3 5 got 
+: 312 2 5 no 
+: 316 3 5 stress 
+: 320 1 5 and 
+: 322 1 5 my 
+: 324 2 5 hair
+: 328 2 5 cut’s 
+: 332 1 5 fresh 
+- 334
+: 336 2 5 So 
+: 340 3 5 fly 
+: 344 1 5 in 
+: 346 1 5 my 
+: 348 3 5 fan
+: 352 2 5 cy 
+: 355 5 7 clothes 
+- 366
+: 368 3 7 Yeah, 
+: 383 1 5 they 
+: 385 1 5 want 
+: 387 1 5 to 
+: 389 3 5 take 
+: 393 1 5 my 
+: 395 4 7 pic
+: 400 4 2 ture 
+- 406
+: 408 3 5 Watch 
+: 412 3 5 out, 
+: 416 3 5 those 
+: 420 3 5 lights 
+: 424 1 5 will 
+: 426 3 7 get 
+: 431 5 2 ya 
+- 445
+: 448 1 5 And 
+: 450 1 5 they’re 
+: 452 1 5 cal
+: 454 1 5 ling 
+* 456 1 0 your 
+* 458 1 0 name
+* 460 6 2 ~ 
+- 470
+: 472 2 2 That’s 
+: 476 1 2 when 
+: 478 1 2 I 
+: 480 1 2 put 
+: 482 1 2 it 
+: 484 3 5 on 
+: 490 4 7 my 
+: 496 5 7 frames 
+- 509
+: 512 1 5 I 
+: 514 1 5 tell 
+: 516 1 5 them 
+: 518 2 7 watch 
+: 521 2 2 me 
+* 524 2 0 now
+* 527 4 2 ~ 
+- 534
+: 536 1 2 Lit
+: 538 1 2 tle 
+: 540 1 2 ma
+: 542 1 2 ma, 
+: 544 1 2 how 
+: 546 1 2 you 
+: 548 2 5 like 
+: 552 1 2 me 
+: 554 2 0 now
+: 557 3 2 ~? 
+- 562
+: 564 1 -2 On 
+: 566 1 -2 the 
+: 568 3 0 dance 
+: 573 2 2 floor 
+: 576 1 0 we 
+: 578 1 -2 can 
+: 580 3 2 work 
+: 584 1 5 it 
+* 586 8 5 out 
+- 598
+: 600 2 2 And 
+: 604 3 5 bring 
+: 608 2 2 this 
+: 612 4 7 whole 
+: 618 4 7 place 
+: 624 4 7 down
+: 629 4 2 ~ 
+- 638
+: 640 3 5 Now 
+: 644 3 5 stand 
+: 648 3 5 up 
+: 652 3 7 hand
+: 656 1 2 ~s 
+: 658 3 2 up 
+- 662
+: 664 3 5 B–
+: 668 3 5 boy 
+: 672 1 5 in 
+: 674 1 5 my 
+: 676 3 5 stance 
+: 680 3 5 like 
+: 684 3 5 yeah, 
+: 688 3 7 what? 
+- 701
+: 708 1 5 So 
+: 710 1 5 get 
+: 712 1 5 on 
+: 714 1 5 the 
+: 716 3 7 floor
+: 720 3 2 ~ 
+- 730
+: 733 1 5 Show 
+: 735 1 5 them 
+: 737 1 5 what 
+: 739 1 5 you 
+: 741 3 5 came 
+: 745 2 7 here 
+: 749 4 7 for 
+- 765
+: 769 2 5 No 
+: 773 1 7 you 
+: 775 2 7 can’t 
+* 779 2 7 see
+* 782 2 9 ~ 
+* 785 5 5 me 
+- 798
+: 801 3 5 No 
+: 805 1 7 you 
+: 807 2 7 can’t 
+: 811 2 7 beat
+: 814 2 9 ~ 
+: 817 5 5 me 
+- 830
+: 833 1 5 You 
+: 835 1 5 know 
+: 837 1 5 I’m 
+: 839 1 5 on 
+: 841 2 5 my 
+: 845 4 7 game 
+- 855
+: 857 3 7 That’s 
+: 861 3 7 when 
+: 865 2 2 I’m 
+: 869 3 7 in 
+: 875 4 7 my 
+: 881 5 7 shades 
+- 894
+: 897 1 5 See 
+: 899 1 5 the 
+: 901 2 5 came
+: 905 2 5 ras 
+: 908 3 7 fla
+: 913 3 2 shing 
+- 919
+: 921 1 5 In 
+: 923 1 5 the 
+: 925 1 5 par
+: 927 1 5 ty 
+: 929 1 5 and 
+: 931 1 5 it’s 
+: 933 2 5 time 
+: 937 2 5 for 
+: 941 2 7 ac
+: 945 2 2 tion 
+- 957
+: 961 1 5 You’re 
+: 963 1 5 the 
+: 965 2 5 main 
+: 969 1 5 at
+: 971 2 7 tra
+: 974 2 2 ~c
+: 977 5 2 tion 
+- 983
+: 985 4 7 Hey, 
+: 997 2 7 in 
+: 1003 4 7 my 
+: 1009 5 7 shades 
+- 1020
+R 1022 2 14 You 
+R 1025 1 13 wan
+R 1027 1 11 na 
+R 1029 2 12 watch 
+R 1033 2 11 me, 
+R 1037 3 11 watch 
+R 1042 3 11 this 
+- 1050
+R 1052 1 14 And 
+R 1054 1 13 when 
+R 1056 1 13 you 
+R 1058 2 13 watch 
+R 1062 2 13 T
+R 1065 2 13 V, 
+R 1069 2 13 watch 
+R 1074 3 12 Chris 
+- 1081
+R 1083 1 17 A
+R 1085 1 17 bout 
+R 1087 1 12 to 
+R 1089 1 11 have 
+R 1091 1 12 the 
+R 1093 2 11 whole 
+R 1097 2 12 place 
+R 1101 2 12 jum
+R 1105 2 12 ping 
+- 1108
+R 1110 2 12 Came
+R 1113 2 12 ras 
+R 1117 2 11 fla
+R 1122 1 11 shing 
+R 1124 1 12 you 
+R 1126 1 11 know 
+R 1128 1 11 the 
+R 1130 2 11 bass 
+R 1134 3 13 bum
+R 1138 2 6 ping 
+- 1149
+R 1153 4 13 Shades 
+R 1158 2 11 on 
+R 1161 1 11 like 
+R 1163 1 7 a 
+R 1165 3 11 rock 
+R 1170 3 11 star 
+- 1175
+R 1177 1 18 And 
+R 1179 1 13 I’m 
+R 1181 1 13 bus
+R 1183 1 13 tin’ 
+R 1185 1 12 out 
+R 1187 1 12 the 
+R 1189 2 11 best 
+R 1193 2 12 moves 
+R 1197 2 10 so 
+R 1201 3 12 far 
+- 1213
+R 1217 1 14 Feel 
+R 1219 1 13 the 
+R 1221 2 11 air 
+R 1225 1 12 from 
+R 1227 1 11 the 
+R 1229 3 12 spea
+R 1233 1 9 kers 
+- 1235
+R 1237 3 11 So, 
+R 1241 2 11 so 
+R 1245 2 13 fresh 
+R 1249 1 12 from 
+R 1251 1 11 my 
+R 1253 2 13 head 
+R 1257 1 11 to 
+R 1259 1 11 my 
+R 1262 3 15 snea
+R 1266 3 15 kers 
+- 1278
+: 1282 1 15 Turn 
+: 1284 1 15 the 
+: 1286 1 13 beat 
+: 1288 1 13 up 
+R 1290 1 11 on 
+R 1292 1 11 the 
+R 1294 1 11 ra
+R 1296 1 8 di
+R 1298 2 8 o 
+- 1303
+R 1305 1 12 I’
+R 1307 1 12 ma 
+R 1309 1 12 keep 
+R 1311 1 11 my 
+R 1313 3 12 frames 
+R 1317 2 10 on 
+R 1321 1 11 till 
+R 1323 2 10 I’m 
+R 1326 1 10 rea
+R 1328 1 10 dy 
+R 1330 2 10 go, 
+R 1338 3 14 go 
+- 1343
+R 1345 1 13 Come 
+R 1347 1 10 and 
+R 1349 3 11 gone 
+R 1353 3 11 like 
+R 1358 3 12 this 
+- 1363
+R 1365 1 13 You 
+R 1367 1 13 ain’t 
+R 1369 1 12 ne
+R 1371 1 12 ver 
+R 1373 1 12 ev
+R 1375 1 12 er 
+R 1377 1 12 heard 
+R 1379 1 12 a 
+R 1381 3 11 song 
+R 1385 2 11 like 
+R 1389 2 11 this 
+- 1395
+R 1397 1 12 If 
+R 1399 1 12 you 
+R 1401 2 12 ain’t 
+R 1405 3 12 know, 
+R 1409 1 12 bet
+R 1411 1 12 ter 
+R 1413 1 11 get 
+R 1415 1 11 some 
+R 1417 2 11 i
+R 1421 3 11 deas 
+- 1427
+R 1429 1 11 May
+R 1431 1 11 be 
+R 1433 1 14 you 
+R 1435 1 13 should 
+R 1437 1 11 hol
+R 1439 1 11 ler 
+R 1441 1 11 at 
+R 1443 1 12 your 
+R 1445 2 10 boy 
+R 1449 3 12 right 
+R 1453 4 13 here 
+- 1466
+R 1470 2 14 And 
+R 1473 1 14 if 
+R 1475 1 14 the 
+R 1477 3 12 girl 
+R 1482 1 12 wan
+R 1484 1 12 na 
+R 1486 2 12 get 
+R 1490 3 12 crazed
+R 1494 1 10 ~ 
+- 1496
+R 1498 1 12 You 
+R 1500 1 12 can 
+R 1502 1 12 find 
+R 1504 1 9 me 
+R 1506 1 9 in 
+R 1508 1 10 the 
+R 1510 3 12 shades 
+- 1523
+: 1536 2 5 No 
+: 1540 1 7 you 
+: 1542 2 7 can’t 
+: 1546 2 7 see
+: 1549 2 9 ~ 
+: 1552 5 5 me 
+- 1565
+: 1568 3 5 No 
+: 1572 1 7 you 
+: 1574 2 7 can’t 
+: 1578 2 7 beat
+: 1581 2 9 ~ 
+: 1584 5 5 me 
+- 1597
+: 1600 1 5 You 
+: 1602 1 5 know 
+: 1604 1 5 I’m 
+: 1606 1 5 on 
+: 1608 2 5 my 
+: 1612 4 7 game 
+- 1622
+: 1624 3 7 That’s 
+: 1628 3 7 when 
+: 1632 2 2 I’m 
+: 1636 3 7 in 
+: 1642 4 7 my 
+: 1648 5 7 shades 
+- 1661
+: 1664 1 5 See 
+: 1666 1 5 the 
+: 1668 2 5 came
+: 1672 2 5 ras 
+: 1675 3 7 fla
+: 1680 3 2 shing 
+- 1686
+: 1688 1 5 In 
+: 1690 1 5 the 
+: 1692 1 5 par
+: 1694 1 5 ty 
+: 1696 1 5 and 
+: 1698 1 5 it’s 
+: 1700 2 5 time 
+: 1704 2 5 for 
+: 1708 2 7 ac
+: 1712 2 2 tion 
+- 1724
+: 1728 1 5 You’re 
+: 1730 1 5 the 
+: 1732 2 5 main 
+: 1736 1 5 at
+: 1738 2 7 tra
+: 1741 2 2 ~c
+: 1744 5 2 tion 
+- 1750
+: 1752 4 7 Hey, 
+: 1764 2 7 in 
+: 1770 4 7 my 
+: 1776 5 7 shades 
+- 1791
+* 1805 5 14 Yeah
+* 1811 2 12 ~
+* 1814 3 10 ~
+* 1819 4 12 ~
+* 1824 5 10 ~ 
+* 1832 4 7 yeah 
+E

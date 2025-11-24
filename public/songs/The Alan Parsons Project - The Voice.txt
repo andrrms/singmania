@@ -1,0 +1,217 @@
+#ARTIST:The Alan Parsons Project
+#TITLE:The Voice
+#MP3:The Alan Parsons Project - The Voice.mp3
+#CREATOR:Fepo
+#COVER:The Alan Parsons Project - The Voice [CO].jpg
+#BACKGROUND:The Alan Parsons Project - The Voice [BG].jpg
+#GENRE:Pop
+#YEAR:1978
+#LANGUAGE:English
+#BPM:342
+#GAP:50450
+#VIDEO:v=c5KAKo9tN5M,co=i-robot-616f561bb6359.jpg,bg=parsons-alan-project-the-50fb9f5a87408.jpg
+: 0 2 0 It’s 
+: 3 3 5 al
+: 7 4 3 most 
+: 13 3 7 a 
+: 18 12 5 fee
+: 32 4 3 ling 
+: 38 3 0 you 
+: 43 3 -2 can 
+: 48 5 0 touch 
+: 55 5 -2 in 
+: 62 3 3 the 
+: 67 9 0 air 
+- 87
+: 91 3 -7 You 
+: 96 5 0 look 
+: 103 4 2 all 
+: 110 3 2 a
+: 115 11 0 round 
+: 128 5 -2 you, 
+- 138
+: 140 4 -7 But 
+: 147 4 -5 no
+: 153 4 -5 bo
+: 159 3 -2 dy’s 
+: 164 9 -5 there 
+- 185
+: 189 2 0 It’s 
+: 192 2 3 been 
+: 196 2 2 a 
+: 199 8 7 long 
+: 209 10 5 time 
+: 222 12 3 now 
+: 235 4 -5 since 
+: 241 4 0 you’ve 
+: 247 4 0 been 
+: 253 3 3 a
+: 258 12 0 ware 
+- 278
+: 281 5 -5 That 
+: 288 5 0 some
+: 295 4 2 one 
+: 301 3 2 is 
+: 306 9 0 wat
+: 317 4 -2 ching 
+: 323 14 -5 you 
+- 342
+: 344 4 -5 He’s 
+: 350 4 -2 gon
+: 356 4 -5 na 
+: 362 9 0 get 
+* 374 42 0 you 
+- 461
+: 576 5 5 Soo
+: 583 3 3 ner 
+: 588 5 7 or 
+: 595 10 5 la
+: 607 3 3 ter, 
+: 612 4 0 when 
+: 618 4 -2 your 
+: 624 4 2 big 
+: 630 7 -2 chance 
+: 639 5 3 is 
+: 646 12 0 come 
+- 664
+: 667 3 -5 You’ll 
+: 672 5 2 look 
+: 679 2 2 for 
+: 682 3 0 the 
+: 687 7 2 cat
+: 696 8 -2 ches, 
+: 714 3 -5 but 
+: 719 9 -5 there’ll 
+: 731 4 -2 be 
+: 737 10 -5 none 
+- 758
+: 762 4 -5 Re
+: 768 5 5 mem
+: 775 4 3 ber 
+: 781 4 7 be
+: 787 9 5 fore 
+: 798 4 3 you 
+: 804 4 0 grab 
+: 810 3 -2 the 
+: 815 6 0 mo
+: 823 4 -2 ney 
+: 829 4 3 and 
+: 835 16 0 run 
+- 856
+: 858 3 -5 That 
+: 863 5 2 some
+: 870 4 2 one 
+: 876 4 2 is 
+: 882 10 0 wat
+: 894 4 -2 ching 
+: 900 11 -5 you 
+- 917
+: 920 4 -5 He’s 
+: 926 4 -2 gon
+: 932 4 -5 na 
+: 938 9 -2 get 
+* 950 42 0 you 
+- 1014
+: 1038 3 -2 Be
+: 1043 5 0 fore 
+: 1050 3 3 you 
+: 1055 12 5 run 
+: 1069 3 3 and 
+: 1074 11 5 hi
+: 1086 9 7 ~de 
+- 1106
+: 1110 4 -5 He’s 
+: 1116 4 0 gon
+: 1122 4 -5 na 
+: 1128 9 3 get 
+* 1140 7 0 you 
+- 1157
+: 1184 2 0 You 
+: 1187 3 0 got 
+: 1192 4 0 no 
+* 1198 18 0 choice 
+- 1226
+: 1235 5 0 ’Cause 
+: 1242 3 3 you 
+: 1247 11 5 can’t 
+: 1260 4 3 es
+: 1266 9 5 cape 
+: 1277 3 3 the 
+* 1282 30 7 voice 
+- 1357
+: 4460 4 3 Jum
+: 4466 5 3 ping 
+: 4473 4 7 at 
+: 4479 9 5 sha
+: 4490 5 3 dows 
+: 4497 4 0 that 
+: 4503 3 -2 come 
+: 4508 3 0 up 
+: 4514 4 -2 from 
+: 4520 5 3 be
+: 4527 17 0 hind 
+- 4548
+: 4550 13 2 Scared 
+: 4568 4 0 the 
+: 4574 10 -2 dar
+: 4586 4 -5 kness 
+: 4597 4 -5 that’s 
+: 4603 6 -5 there 
+: 4611 4 -5 in 
+: 4617 3 -5 your 
+: 4623 11 -5 mind 
+- 4642
+: 4645 4 -5 You’re 
+: 4651 5 5 frigh
+: 4658 4 3 tened 
+: 4664 3 5 to 
+: 4669 10 5 move 
+: 4681 4 3 be
+: 4687 4 0 cause 
+: 4693 3 -2 of 
+: 4698 4 0 what 
+: 4704 4 -2 you 
+: 4710 8 3 might 
+: 4722 12 0 find 
+- 4740
+: 4743 3 -5 That 
+: 4748 5 2 some
+: 4755 4 2 one 
+: 4761 4 2 is 
+: 4767 10 0 wat
+: 4779 4 -2 ching 
+: 4785 14 -5 you 
+- 4803
+: 4805 3 -5 He’s 
+: 4810 4 -2 gon
+: 4816 4 -5 na 
+: 4822 9 -2 get 
+* 4834 42 0 you 
+- 4886
+: 4921 3 -2 Be
+: 4926 5 0 fore 
+: 4933 3 3 you 
+: 4938 10 5 run 
+: 4950 3 3 and 
+: 4955 13 5 hi
+: 4969 9 7 ~de 
+- 4990
+: 4994 4 -5 He’s 
+: 5000 4 -2 gon
+: 5006 4 -5 na 
+: 5012 9 3 get 
+* 5024 7 0 you 
+- 5041
+: 5068 2 0 You 
+: 5071 3 0 got 
+: 5076 4 0 no 
+* 5082 14 0 choice 
+- 5106
+: 5119 5 0 ’Cause 
+: 5126 3 3 you 
+: 5131 11 5 can’t 
+: 5144 4 3 es
+: 5150 9 5 cape 
+: 5161 3 3 the 
+* 5166 30 7 voice 
+E

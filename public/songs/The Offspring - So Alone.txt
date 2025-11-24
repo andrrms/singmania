@@ -1,0 +1,150 @@
+#ARTIST:The Offspring
+#TITLE:So Alone
+#MP3:The Offspring - So Alone.mp3
+#CREATOR:FaKK
+#GENRE:Punk Rock
+#YEAR:1994
+#LANGUAGE:English
+#BPM:360
+#GAP:2120
+#VIDEO:a=GEBi6tAG8vY,co=smash-506c63fcc0c42.jpg,bg=offspring-the-53659346927ca.jpg
+: 0 4 -1 Look 
+: 5 6 -1 at 
+: 13 3 -1 the 
+: 17 7 2 crowd 
+- 26
+: 28 3 2 And 
+: 32 3 4 tell 
+: 36 10 4 me 
+: 47 7 7 whe
+: 55 5 6 ther 
+- 61
+: 61 2 -1 All 
+: 64 8 -1 are 
+: 74 3 -1 sur
+: 78 5 2 roun
+: 84 6 2 ded 
+- 91
+: 92 3 2 But 
+: 96 4 4 none 
+: 101 6 4 are 
+: 108 2 4 to
+: 111 7 7 ge
+: 119 4 6 ther 
+- 125
+: 126 3 -1 If 
+: 130 4 -1 you’
+: 135 4 -1 re 
+: 140 1 -1 a
+: 142 8 2 wake, 
+- 152
+: 160 3 4 Look 
+: 164 7 4 all 
+: 172 2 4 a
+: 175 7 7 round 
+: 183 5 6 at 
+- 190
+: 192 3 -1 All 
+: 196 7 -1 of 
+: 204 1 -1 the 
+: 206 3 2 peo
+: 210 6 2 ple 
+- 218
+: 222 3 4 Still 
+: 226 2 4 you’
+: 229 6 4 re 
+* 238 6 7 so 
+* 245 7 6 a
+* 253 11 4 lone 
+- 266
+: 301 8 7 So 
+: 310 6 1 a
+* 317 15 2 lone 
+- 334
+: 365 8 7 So 
+: 374 5 6 a
+: 380 17 4 lone 
+- 399
+: 430 6 4 So 
+: 437 7 4 a
+* 445 59 6 lone 
+- 506
+F 564 12 11 [Scream] 
+- 578
+F 628 12 11 [Scream] 
+- 642
+F 692 12 11 [Scream] 
+- 706
+: 892 4 -1 If 
+: 897 10 -1 I 
+: 908 12 2 could, 
+- 922
+: 924 1 2 I’d 
+: 926 4 4 make 
+: 931 7 4 a 
+: 939 2 4 sug
+: 942 7 7 ges
+: 950 5 6 tion 
+- 956
+: 956 1 -1 With
+: 958 4 -1 out 
+: 963 5 -1 soun
+: 969 4 2 ding 
+: 974 4 2 prea
+: 979 7 2 chy 
+- 987
+: 988 2 4 Or 
+: 991 3 4 beg
+: 995 6 4 ging 
+: 1002 3 4 the 
+: 1006 6 7 ques
+: 1013 7 6 tion 
+- 1022
+: 1026 5 -1 Melt 
+: 1032 2 -1 with 
+: 1035 2 -1 your 
+* 1038 10 2 minds 
+- 1050
+: 1056 3 4 Melt 
+: 1060 7 4 with 
+: 1068 3 4 each 
+* 1072 7 7 o
+: 1080 6 6 ther 
+- 1087
+: 1088 3 -1 Don’t 
+: 1092 5 -1 be 
+: 1098 5 -1 sur
+: 1104 3 2 roun
+: 1108 4 2 ded, 
+- 1114
+: 1120 4 4 Don’t 
+: 1126 9 4 be 
+: 1136 7 7 so 
+: 1144 1 6 a
+: 1146 5 4 ~
+: 1152 8 4 lone 
+- 1162
+: 1200 8 7 So 
+: 1210 4 1 a
+: 1215 9 2 lone 
+- 1226
+: 1264 8 7 So 
+: 1275 5 6 a
+: 1281 15 4 lone 
+- 1298
+: 1332 7 4 So 
+: 1340 7 4 a
+* 1348 64 6 lone 
+- 1414
+F 1472 6 11 (KILL) 
+- 1480
+F 1532 10 11 (FUCK OFF) 
+- 1544
+F 1596 8 11 (HATE) 
+- 1606
+F 1654 6 11 (DIE
+F 1670 5 -6 ~
+F 1676 8 -10 ~
+F 1692 7 7 ~
+F 1700 15 11 ~) 
+E

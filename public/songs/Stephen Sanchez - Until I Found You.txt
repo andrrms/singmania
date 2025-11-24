@@ -1,0 +1,244 @@
+#ARTIST:Stephen Sanchez
+#TITLE:Until I Found You
+#MP3:Stephen Sanchez - Until I Found You.mp3
+#CREATOR:schere-r-ki
+#COVER:Stephen Sanchez - Until I Found You [CO].jpg
+#BACKGROUND:Stephen Sanchez - Until I Found You [BG].jpg
+#YEAR:2021
+#LANGUAGE:English
+#BPM:202.1
+#GAP:10630
+#VIDEO:v=GxldQ9eX2wo,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b4/1a/06/b41a0606-87ba-1b74-5c57-dee5f2a751a2/22UMGIM72565.rgb.jpg/5000x5000bb.jpg,bg=sanchez-stephen-6338cd7da2790.jpg
+: 0 7 2 Geor
+: 8 20 -7 gia 
+- 30
+: 40 7 0 Wrap 
+: 48 3 2 me 
+: 52 7 0 up 
+: 60 3 -2 in 
+: 64 7 -2 all 
+: 72 8 -7 your- 
+: 84 7 -7 I 
+: 92 7 2 want 
+: 100 12 -7 you 
+- 114
+: 136 7 0 In 
+: 144 3 2 my 
+: 148 7 0 arms 
+: 156 3 -2 Oh 
+: 160 7 -2 let 
+: 168 8 -7 me 
+: 184 7 2 hold 
+: 192 8 5 you 
+- 202
+: 228 3 -7 I’ll 
+: 232 7 7 ne
+: 240 3 5 ver 
+: 244 7 2 let 
+: 252 3 5 you 
+: 256 7 2 go 
+: 264 3 0 a
+: 268 8 2 gain 
+- 278
+: 284 3 2 Like 
+: 288 3 0 I 
+: 292 12 -2 did 
+: 308 7 -2 Oh I 
+: 316 11 3 used 
+: 328 11 2 to 
+: 340 12 0 say 
+- 354
+: 356 3 -7 I 
+: 360 3 -7 would 
+: 364 7 -5 ne
+: 372 3 -5 ver 
+: 376 7 3 fall 
+: 384 3 2 in 
+: 388 7 -3 love 
+: 396 3 -3 a
+: 400 3 -3 gain 
+: 404 3 -2 un
+: 408 3 0 til 
+: 412 8 2 I 
+: 424 11 5 found 
+: 436 12 2 her 
+- 450
+: 452 3 -7 I 
+: 456 3 -7 said 
+: 460 7 -5 I 
+: 468 3 -5 would 
+: 472 7 3 ne
+: 480 3 2 ver 
+: 484 7 -3 fall 
+: 492 3 -3 un
+: 496 7 -2 less 
+: 504 3 0 it’s 
+: 508 4 2 you 
+: 516 3 5 I 
+: 520 7 5 fall 
+: 528 3 2 in
+: 532 3 2 to 
+: 536 8 0 ~o 
+- 546
+: 548 3 -7 I 
+: 552 3 -7 was 
+: 556 8 -5 lost with
+: 568 7 3 in 
+: 576 3 2 the 
+: 580 7 -3 dark
+: 588 3 -3 ness 
+: 592 7 -2 but 
+: 600 3 0 then 
+: 604 8 2 I 
+: 616 11 5 found 
+: 628 8 2 her 
+- 638
+: 640 7 7 I 
+: 648 3 5 fo
+: 652 7 2 und 
+: 660 35 3 you 
+: 696 3 2 ~u 
+: 700 24 0 ~u 
+- 726
+: 768 7 2 Geor
+: 776 20 -7 gia 
+- 798
+: 808 7 0 Pulled 
+: 816 3 2 me 
+: 820 7 0 in 
+: 828 3 -2 I 
+: 832 7 -2 asked 
+: 840 8 -7 to 
+: 856 7 2 love 
+: 864 12 -7 her 
+- 878
+: 904 7 0 Once 
+: 912 3 2 a
+: 916 7 0 gain 
+: 924 3 -2 you 
+: 928 7 -2 fell 
+: 936 8 -7 I 
+: 952 7 2 caught 
+: 960 8 5 you 
+- 970
+: 996 3 -7 I’ll 
+: 1000 7 7 ne
+: 1008 3 5 ver 
+: 1012 7 2 let 
+: 1020 3 5 you 
+: 1024 7 2 go 
+: 1032 3 0 a
+: 1036 8 2 gain 
+: 1052 3 2 like 
+: 1056 3 0 I 
+: 1060 12 -2 did 
+- 1074
+: 1076 7 -2 Oh I 
+: 1084 11 3 used 
+: 1096 11 2 to 
+: 1108 12 0 say 
+- 1122
+: 1124 3 -7 I 
+: 1128 3 -7 would 
+: 1132 7 -5 ne
+: 1140 3 -5 ver 
+: 1144 7 3 fall 
+: 1152 3 2 in 
+: 1156 7 -3 love 
+: 1164 3 -3 a
+: 1168 3 -3 gain 
+: 1172 3 -2 un
+: 1176 3 0 til 
+: 1180 8 2 I 
+: 1192 11 5 found 
+: 1204 12 2 her 
+- 1218
+: 1220 3 -7 I 
+: 1224 3 -7 said 
+: 1228 7 -5 I 
+: 1236 3 -5 would 
+: 1240 7 3 ne
+: 1248 3 2 ver 
+: 1252 7 -3 fall 
+: 1260 3 -3 un
+: 1264 7 -2 less 
+: 1272 3 0 it’s 
+: 1276 4 2 you 
+: 1284 3 5 I 
+: 1288 7 5 fall 
+: 1296 3 2 in
+: 1300 3 2 to 
+: 1304 8 0 ~o 
+- 1314
+: 1316 3 -7 I 
+: 1320 3 -7 was 
+: 1324 8 -5 lost with
+: 1336 7 3 in 
+: 1344 3 2 the 
+: 1348 7 -3 dark
+: 1356 3 -3 ness 
+: 1360 7 -2 but 
+: 1368 3 0 then 
+: 1372 8 2 I 
+: 1384 11 5 found 
+: 1396 8 2 her 
+- 1406
+: 1408 7 7 I 
+: 1416 3 5 fo
+: 1420 7 2 und 
+: 1428 35 3 you 
+: 1464 3 2 ~u 
+: 1468 24 0 ~u 
+- 1494
+: 1700 3 -7 I 
+: 1704 3 -7 would 
+: 1708 7 -5 ne
+: 1716 3 -5 ver 
+: 1720 7 3 fall 
+: 1728 3 2 in 
+: 1732 7 -3 love 
+: 1740 3 -3 a
+: 1744 3 -3 gain 
+: 1748 3 -2 un
+: 1752 3 0 til 
+: 1756 8 2 I 
+: 1768 11 5 found 
+: 1780 12 2 her 
+- 1794
+: 1796 3 -7 I 
+: 1800 3 -7 said 
+: 1804 7 -5 I 
+: 1812 3 -5 would 
+: 1816 7 3 ne
+: 1824 3 2 ver 
+: 1828 7 -3 fall 
+: 1836 3 -3 un
+: 1840 7 -2 less 
+: 1848 3 0 it’s 
+: 1852 4 2 you 
+: 1860 3 5 I 
+: 1864 7 5 fall 
+: 1872 3 2 in
+: 1876 3 2 to 
+: 1880 8 0 ~o 
+- 1890
+: 1892 3 -7 I 
+: 1896 3 -7 was 
+: 1900 8 -5 lost with
+: 1912 7 3 in 
+: 1920 3 2 the 
+: 1924 7 -3 dark
+: 1932 3 -3 ness 
+: 1936 7 -2 but 
+: 1944 3 0 then 
+: 1948 8 2 I 
+: 1960 11 5 found 
+: 1972 8 2 her 
+- 1982
+: 1984 7 7 I 
+: 1992 3 5 fo
+: 1996 7 2 und 
+: 2004 35 3 you 
+: 2040 3 2 ~u 
+: 2044 36 0 ~u 
+E

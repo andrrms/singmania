@@ -1,0 +1,74 @@
+#ARTIST:My Little Pony
+#TITLE:Evil Enchantress
+#MP3:My Little Pony - Evil Enchantress.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2010
+#LANGUAGE:English
+#BPM:360
+#GAP:7000
+#VIDEO:v=fxwmfIr8gso,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 2 7 She’s 
+: 4 2 7 an 
+: 8 2 7 e
+: 12 2 7 vil 
+: 16 2 18 en
+: 20 5 18 chan
+: 26 4 18 tress 
+- 32
+: 36 2 7 She 
+: 40 2 7 does 
+: 44 2 7 e
+: 48 2 7 vil 
+: 52 6 18 dan
+: 60 4 18 ces 
+- 66
+: 70 1 7 And 
+: 72 2 7 if 
+: 76 1 7 you 
+: 78 1 7 look 
+: 80 2 7 deep 
+: 84 1 7 in 
+: 86 2 7 her 
+: 92 2 18 eyes 
+- 96
+: 104 2 7 She’ll 
+: 108 2 7 put 
+: 112 2 7 you 
+: 116 2 7 in 
+: 120 6 18 tran
+: 128 2 18 ces 
+- 132
+: 138 1 9 Then 
+: 140 4 9 what 
+: 146 3 9 will 
+: 150 3 9 she 
+: 154 4 12 do? 
+- 160
+: 164 2 7 She’ll 
+: 168 2 7 mix 
+: 172 2 7 up 
+: 176 2 7 an 
+: 180 2 7 e
+: 186 1 7 vil 
+: 188 4 16 brew 
+- 194
+: 200 1 0 Then 
+: 202 2 12 she’ll 
+: 208 1 12 gob
+: 210 2 12 ble 
+: 214 2 12 you 
+: 218 2 20 up 
+- 222
+: 228 2 16 In 
+: 232 2 16 a 
+: 236 2 16 big 
+: 240 2 16 tas
+: 244 2 16 ty 
+: 248 4 16 stew 
+- 254
+: 260 12 16 So... 
+: 276 3 24 Watch 
+: 280 2 24 out! 
+E

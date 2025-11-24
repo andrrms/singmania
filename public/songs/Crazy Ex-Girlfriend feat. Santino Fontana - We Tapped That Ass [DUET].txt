@@ -1,0 +1,579 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Santino Fontana
+#TITLE:We Tapped That Ass [DUET]
+#MP3:Crazy Ex-Girlfriend feat. Santino Fontana - We Tapped That Ass [DUET].mp3
+#CREATOR:Relisch
+#EDITION:[DUET]-Songs
+#COVER:Crazy Ex-Girlfriend feat. Santino Fontana - We Tapped That Ass [DUET] [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Santino Fontana - We Tapped That Ass [DUET] [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:300
+#GAP:2850
+#VIDEO:v=ZBz8wobOaoc,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/e8/60/45e86038-0b28-8f57-8de4-04559f60767d/794043191060.jpg/5000x5000bb.jpg,p1=Josh,p2=Greg
+P1
+: 0 3 1 I 
+: 4 5 -3 banged 
+: 10 3 0 you 
+: 14 8 5 here 
+- 32
+: 53 2 0 And 
+: 57 4 -3 on 
+: 62 3 0 this 
+: 67 8 9 couch 
+- 85
+: 104 2 9 In 
+: 107 1 10 the 
+: 109 4 12 door
+: 114 4 9 way 
+- 129
+: 133 2 9 On 
+: 136 3 14 eve
+: 141 3 9 ry 
+: 146 8 5 stair 
+- 155
+: 157 2 9 We 
+: 161 5 12 tapped 
+: 167 5 12 that 
+: 174 5 12 ass 
+: 181 6 10 all 
+: 188 3 9 ov
+: 192 2 5 er 
+: 195 3 7 this 
+: 199 7 5 house 
+- 246
+: 316 6 0 Though 
+: 323 3 5 nev
+: 327 2 7 er 
+: 331 5 9 si
+: 337 7 5 mul
+: 346 2 2 tan
+: 350 1 5 e
+: 352 3 5 ous
+: 356 8 10 ly 
+- 384
+: 422 2 9 We 
+: 425 5 12 tapped 
+: 431 5 12 that 
+: 437 6 12 ass 
+: 444 6 10 all 
+: 452 2 9 ov
+: 455 2 5 er 
+: 458 3 7 this 
+: 462 7 5 house 
+- 489
+: 537 4 9 You’ll 
+: 542 5 9 nev
+: 548 2 8 er 
+: 551 4 9 es
+: 557 8 10 cape 
+: 566 9 9 us 
+- 584
+: 588 2 6 ’Cause 
+: 591 2 6 we 
+: 594 6 6 live 
+: 601 1 7 in 
+: 603 4 8 your 
+: 609 7 9 head 
+- 625
+: 629 5 2 Just 
+: 635 5 9 two 
+: 642 5 2 swell 
+: 649 5 5 dudes 
+: 662 5 9 that 
+: 668 3 2 you 
+: 673 9 9 screwed 
+- 694
+* 698 2 6 And 
+* 701 7 6 here 
+- 718
+* 725 1 6 And 
+* 728 5 6 here 
+- 737
+: 739 2 7 And 
+: 742 2 7 ev
+: 745 6 7 en 
+: 753 2 7 oc
+: 756 1 7 ca
+: 758 1 7 sion
+: 760 1 6 al
+: 762 4 7 ly 
+: 768 3 7 in 
+: 772 5 12 your 
+: 778 7 15 bed 
+- 791
+F 793 2 6 That 
+F 796 2 6 bed 
+F 799 2 6 is 
+F 802 2 6 re
+F 806 3 6 ally 
+F 811 2 6 un
+F 815 3 6 com
+F 819 1 6 fort
+F 821 2 6 a
+F 824 3 6 ble 
+- 847
+: 871 2 -3 On 
+: 874 3 -2 the 
+: 878 8 5 stove 
+- 896
+: 920 2 2 And 
+F 923 2 6 sort 
+F 926 3 6 of 
+F 930 1 6 in 
+F 933 1 6 the 
+F 935 3 6 fridge 
+- 939
+F 941 4 6 One 
+F 947 3 6 time 
+F 952 3 6 I 
+F 957 6 6 think 
+- 983
+: 1015 2 9 That’s 
+: 1018 3 9 where 
+: 1022 2 8 we 
+: 1025 3 9 hit 
+: 1029 1 8 your 
+: 1031 5 9 back 
+: 1037 4 9 pat
+: 1042 1 2 i... 
+- 1043
+* 1044 26 6 Oh! 
+- 1073
+: 1075 3 9 We 
+: 1079 5 12 tapped 
+: 1085 4 12 that 
+: 1091 5 12 ass 
+: 1098 5 10 all 
+: 1104 3 9 ov
+: 1109 1 5 er 
+: 1112 2 7 this 
+: 1115 7 5 house 
+- 1142
+: 1191 2 9 How 
+: 1194 1 9 ma
+: 1196 1 8 ny 
+: 1198 4 9 times 
+: 1204 2 -3 did 
+: 1207 3 -3 we 
+: 1211 2 9 tap 
+: 1214 3 10 that 
+: 1218 4 8 be
+: 1223 6 9 hind? 
+- 1249
+: 1283 2 0 On 
+: 1287 1 0 an 
+: 1290 3 9 av
+: 1294 2 7 er
+: 1297 2 9 age 
+: 1301 5 7 day, 
+: 1309 3 2 I 
+: 1313 2 2 would 
+: 1320 3 9 have 
+: 1325 2 9 to 
+: 1328 7 7 say 
+- 1338
+F 1340 27 6 Mmm... 
+: 1368 1 6 a 
+: 1370 5 6 5, 
+: 1376 5 6 6, 
+: 1382 3 6 7
+: 1386 1 6 ~, 
+: 1388 4 6 8! 
+- 1432
+F 1557 4 6 Hey 
+F 1567 2 6 does 
+F 1570 3 6 this 
+F 1575 2 6 ring 
+F 1578 1 6 a 
+F 1580 4 6 bell? 
+- 1594
+F 1604 2 6 “A 
+F 1607 2 6 lit
+F 1610 2 6 tle 
+F 1613 3 6 to 
+F 1617 2 6 the 
+F 1620 6 6 left...” 
+- 1646
+F 1684 2 6 “Oh, 
+F 1687 3 6 oh, 
+F 1693 4 6 wait, 
+F 1703 4 6 wait, 
+F 1714 2 6 back 
+F 1718 2 6 to 
+F 1721 2 6 the 
+F 1724 6 6 left...” 
+- 1750
+F 1787 4 6 “Wait, 
+F 1793 6 6 no, 
+F 1800 1 6 you’re 
+F 1802 1 6 do
+F 1804 1 6 ing 
+F 1806 2 6 it 
+F 1809 8 6 wrong! 
+F 1826 2 6 I’ll 
+F 1829 1 6 do 
+F 1831 1 6 it 
+F 1833 1 6 myself
+F 1835 3 6 !” 
+- 1878
+F 1955 2 6 It’s 
+F 1959 5 6 me. 
+F 1974 3 6 And 
+F 1978 3 6 my 
+F 1982 7 6 ass. 
+- 2029
+: 2106 5 11 On 
+: 2112 4 12 the 
+: 2118 4 11 ta
+: 2124 2 -1 ble 
+: 2127 3 -1 you 
+: 2131 5 -1 were 
+: 2137 2 11 wil
+: 2140 3 11 ling 
+: 2144 2 12 and 
+: 2147 2 11 ab
+: 2150 6 -1 le 
+- 2176
+: 2219 1 4 And 
+: 2221 1 6 on 
+: 2223 1 7 the 
+: 2226 4 9 safe 
+: 2232 3 9 in 
+: 2236 2 11 the 
+: 2239 3 9 clo
+: 2243 4 -3 set 
+: 2250 3 -3 I 
+: 2256 2 9 made 
+: 2259 2 9 a 
+: 2263 1 11 de
+: 2265 3 9 pos
+: 2269 4 -3 it 
+- 2313
+F 2374 3 6 Let’s 
+F 2378 2 6 wrap 
+F 2381 2 6 this 
+F 2384 3 6 up 
+F 2388 2 6 with 
+F 2391 2 6 a 
+F 2394 8 6 big 
+F 2404 12 6 finish! 
+- 2436
+F 2492 3 6 Please 
+F 2496 2 6 not 
+F 2499 2 6 on 
+F 2502 2 6 my 
+F 2505 7 6 chest... 
+F 2567 5 6 no, 
+F 2573 2 6 you’ll 
+F 2576 5 6 scratch 
+F 2582 7 6 it! 
+- 2609
+: 2640 3 6 On 
+: 2644 2 1 the 
+: 2647 4 2 bath
+: 2652 4 4 room 
+: 2657 8 11 floor 
+- 2675
+: 2693 1 14 You 
+: 2695 4 13 just 
+: 2700 3 6 want
+: 2705 3 11 ed 
+: 2710 7 14 more 
+- 2720
+: 2722 2 13 How 
+: 2726 5 16 much 
+: 2733 5 16 more 
+: 2740 2 17 tap
+: 2744 2 13 pin’ 
+: 2747 5 17 could 
+: 2753 2 13 one 
+: 2757 4 18 ass 
+: 2763 2 13 endure
+: 2766 8 9 ? 
+- 2775
+: 2777 2 13 We 
+: 2780 4 16 tapped 
+: 2786 4 16 that 
+: 2791 9 16 ass 
+: 2804 5 4 (tapped 
+* 2811 5 4 that 
+* 2818 7 4 ass) 
+- 2827
+: 2829 2 16 We 
+: 2833 4 16 tapped 
+* 2839 4 16 that 
+* 2845 7 16 ass 
+: 2857 5 4 (tapped 
+: 2864 4 4 that 
+: 2871 7 4 ass) 
+- 2879
+: 2881 2 13 We 
+: 2884 5 16 tapped 
+: 2891 4 16 that 
+: 2897 15 16 ass 
+: 2916 6 16 all 
+: 2924 3 18 ov
+: 2928 2 16 er 
+: 2931 5 18 this 
+* 2938 31 21 house! 
+P2
+: 24 3 0 I 
+: 28 5 -2 nailed 
+: 34 3 0 you 
+: 38 8 7 there 
+- 56
+: 77 1 5 And 
+: 80 3 2 on 
+: 84 5 5 this 
+: 90 8 11 chair 
+- 108
+: 116 2 9 The 
+: 119 4 13 hall
+: 124 5 9 way 
+- 139
+: 157 2 9 We 
+: 161 5 12 tapped 
+: 167 5 12 that 
+: 174 5 12 ass 
+: 181 6 10 all 
+: 188 3 9 ov
+: 192 2 5 er 
+: 195 3 7 this 
+: 199 7 5 house 
+- 226
+: 263 4 -3 Some
+: 268 5 0 times 
+: 275 7 5 him, 
+: 290 3 -2 some
+: 294 5 0 times 
+: 301 7 7 me 
+- 328
+: 367 2 9 But 
+: 370 3 12 one 
+: 374 2 9 of 
+: 377 3 12 us 
+: 382 1 9 was 
+: 384 3 13 hit
+: 388 2 9 tin’ 
+: 391 3 13 it, 
+: 397 2 14 us
+: 401 1 7 u
+: 403 2 9 al
+: 407 8 5 ly 
+- 420
+: 422 2 9 We 
+: 425 5 12 tapped 
+: 431 5 12 that 
+: 437 6 12 ass 
+: 444 6 10 all 
+: 452 2 9 ov
+: 455 2 5 er 
+: 458 3 7 this 
+: 462 7 5 house 
+- 489
+: 537 4 9 You’ll 
+: 542 5 9 nev
+: 548 2 8 er 
+: 551 4 9 es
+: 557 8 10 cape 
+: 566 9 9 us 
+- 584
+: 587 3 6 ’Cause 
+: 591 2 6 we 
+: 594 6 6 live 
+: 601 1 7 in 
+: 603 4 8 your 
+: 609 7 9 head 
+- 625
+: 629 5 2 Just 
+: 635 5 9 two 
+: 642 5 2 swell 
+: 649 5 5 dudes 
+: 662 5 9 that 
+: 668 3 2 you 
+: 673 9 9 screwed 
+- 684
+* 686 5 6 Here 
+- 701
+* 709 2 6 And 
+* 713 6 6 there 
+- 729
+: 739 2 7 And 
+: 742 2 7 ev
+: 745 6 7 en 
+: 753 2 7 oc
+: 756 1 7 cas
+: 758 1 7 sion
+: 760 1 6 al
+: 762 4 7 ly 
+: 768 3 7 in 
+: 772 5 12 your 
+: 778 7 15 bed 
+- 805
+F 825 4 6 Right? 
+F 832 3 6 It’s 
+F 836 2 6 like 
+F 839 2 6 a 
+F 842 5 6 prison 
+F 849 8 6 cot. 
+- 867
+: 889 4 -2 Ov
+: 894 2 -2 er 
+: 898 2 0 the 
+: 902 5 7 sink 
+- 927
+: 961 1 9 And 
+: 963 3 9 then 
+: 967 2 8 we 
+: 970 2 9 hit 
+: 974 1 8 the 
+: 976 4 9 back 
+: 982 4 9 pat
+: 987 3 2 i
+: 991 5 2 o 
+- 1016
+* 1044 26 14 Oh! 
+- 1072
+: 1074 4 9 We 
+: 1079 5 12 tapped 
+: 1085 4 12 that 
+: 1091 5 12 ass 
+: 1098 5 10 all 
+: 1104 3 9 ov
+: 1109 1 5 er 
+: 1112 2 7 this 
+: 1115 7 5 house 
+- 1142
+: 1191 2 9 How 
+: 1194 1 9 ma
+: 1196 1 8 ny 
+: 1198 4 9 times 
+: 1204 2 -3 did 
+: 1207 3 -3 we 
+: 1211 2 9 tap 
+: 1214 3 10 that 
+: 1218 4 8 be
+: 1223 3 9 hind? 
+- 1227
+: 1229 5 14 Well, 
+: 1239 6 18 let’s 
+: 1247 5 7 es
+: 1253 3 8 ti
+: 1257 8 9 mate 
+- 1305
+F 1495 5 6 What? 
+F 1509 14 6 Too 
+* 1525 3 6 cheek
+F 1529 5 6 y? 
+- 1574
+F 1633 3 6 “Oh, 
+F 1637 3 6 oh, 
+F 1641 2 6 ok
+F 1645 2 6 ay 
+F 1648 3 6 now, 
+F 1654 2 6 a 
+F 1657 2 6 lit
+F 1661 1 6 tle 
+F 1664 1 6 to 
+F 1667 1 6 the 
+F 1670 5 6 right...” 
+- 1695
+F 1737 1 6 “Right 
+F 1739 5 6 there! 
+F 1754 2 6 Right 
+F 1757 7 6 there! 
+- 1804
+F 1896 3 6 Bar
+F 1900 6 6 keep, 
+F 1913 4 6 what’s 
+F 1919 6 6 on 
+F 1936 8 6 tap? 
+- 1964
+F 1995 16 6 Ooh, 
+F 2013 6 6 sounds 
+F 2020 2 6 re
+F 2023 3 6 fresh
+F 2027 5 6 ing! 
+- 2072
+: 2155 6 8 On 
+: 2162 6 9 the 
+: 2170 2 4 ot
+: 2173 2 4 to
+: 2176 1 4 man 
+- 2178
+: 2180 2 4 You 
+: 2183 5 7 took 
+: 2190 5 9 a 
+: 2197 1 11 lot
+: 2200 1 4 ta 
+: 2202 5 4 man 
+- 2247
+: 2294 1 11 I 
+: 2296 2 12 al
+: 2299 2 12 so 
+: 2302 5 13 tapped 
+: 2308 5 14 that 
+: 2314 5 14 ass 
+: 2321 5 12 all 
+: 2328 3 11 ov
+: 2332 1 7 er 
+: 2334 3 9 this 
+: 2339 9 7 house! 
+- 2388
+F 2454 2 6 But 
+F 2457 4 6 where 
+F 2463 2 6 should 
+F 2466 2 6 we 
+F 2470 1 6 fin
+F 2472 5 6 ish? 
+- 2517
+: 2611 3 4 On 
+: 2615 2 2 the 
+: 2618 3 1 ac
+: 2623 3 4 cent 
+: 2628 7 9 wall 
+- 2645
+: 2668 2 6 You 
+: 2671 2 6 did
+: 2674 3 6 n’t 
+: 2678 2 9 care 
+: 2682 7 13 where 
+- 2699
+: 2722 2 13 How 
+: 2726 5 16 much 
+: 2733 5 16 more 
+: 2740 2 17 tap
+: 2744 2 13 pin’ 
+: 2747 5 17 could 
+: 2753 2 13 one 
+: 2757 4 18 ass 
+: 2763 2 13 en
+: 2766 8 9 dure? 
+- 2775
+* 2777 2 13 We 
+* 2780 4 16 tapped 
+: 2786 4 16 that 
+: 2791 9 16 ass 
+: 2804 5 4 (tapped 
+: 2811 5 4 that 
+: 2818 7 4 ass) 
+- 2827
+: 2829 2 16 We 
+: 2833 4 16 tapped 
+: 2839 4 16 that 
+: 2845 7 16 ass 
+* 2857 5 4 (tapped 
+: 2864 4 4 that 
+: 2871 7 4 ass) 
+- 2879
+: 2881 2 13 We 
+: 2884 5 16 tapped 
+: 2891 4 16 that 
+: 2897 15 16 ass 
+: 2916 6 16 all 
+: 2924 3 14 ov
+: 2928 2 13 er 
+: 2931 5 14 this 
+* 2938 31 13 house! 
+E

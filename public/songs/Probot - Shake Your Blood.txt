@@ -1,0 +1,299 @@
+#ARTIST:Probot
+#TITLE:Shake Your Blood
+#MP3:Probot - Shake Your Blood.mp3
+#CREATOR:Fepo
+#GENRE:Heavy Metal
+#YEAR:2011
+#LANGUAGE:English
+#BPM:251,59
+#GAP:29810
+#VIDEO:v=T09hBGGpSjk,co=probot-53fd1d7c76064.jpg,bg=-4f82dfa233b64.jpg
+: 0 2 7 Loo
+: 4 2 7 king 
+: 8 2 7 for 
+: 12 2 7 re
+: 16 5 7 lief 
+- 22
+: 24 2 7 In 
+: 28 2 7 your 
+: 32 2 7 mi
+: 36 2 6 se
+: 40 2 7 ra
+: 43 2 6 ble 
+: 47 4 7 life 
+- 53
+: 63 2 5 You 
+: 66 2 7 need 
+: 69 2 7 some 
+: 73 3 7 rock 
+: 77 1 7 and 
+: 79 6 7 roll 
+- 87
+: 92 2 5 And 
+: 95 2 7 you 
+: 98 2 7 bet
+: 101 2 5 ter 
+: 106 2 3 get 
+: 109 2 0 it 
+: 112 2 0 ri
+: 115 2 5 ~ght 
+- 119
+: 130 2 7 Got 
+: 133 2 7 to 
+: 136 2 7 roll 
+: 140 3 6 them 
+: 145 2 6 bo
+: 149 2 7 ~nes 
+- 153
+: 157 3 7 Do 
+: 162 2 7 eve
+: 166 2 4 ry
+: 169 2 7 thing 
+: 172 2 7 they 
+: 176 4 7 say 
+- 182
+: 194 2 7 If 
+: 198 2 7 you’re 
+: 202 3 7 cool, 
+: 207 3 5 and 
+: 211 2 7 you’re 
+: 214 2 7 the 
+: 217 3 7 foo
+: 221 3 5 ~l 
+- 225
+: 227 2 7 Make 
+: 231 2 7 it 
+: 235 4 7 work 
+: 243 2 8 eve
+: 247 2 7 ry
+: 251 4 7 day. 
+- 256
+: 258 4 7 Rock 
+: 264 4 7 out, 
+: 282 2 7 do 
+: 285 2 5 it 
+: 289 4 5 quick 
+- 295
+: 322 4 7 My, 
+: 328 4 5 my, 
+: 334 2 3 my
+: 338 2 0 ~ 
+: 345 2 0 let 
+: 349 2 0 it 
+: 353 4 3 rip 
+- 359
+: 386 4 7 Rock 
+: 393 4 7 out, 
+: 410 2 7 fee
+: 414 2 3 ling 
+: 419 5 5 good. 
+- 426
+: 449 4 7 Break 
+: 455 3 5 your 
+: 460 3 3 hea
+: 464 3 0 ~rt 
+- 469
+: 481 4 7 Shake 
+: 487 3 5 your 
+: 492 3 3 bloo
+: 496 3 0 ~d 
+- 501
+: 580 2 7 Out 
+: 584 2 7 u
+: 587 2 5 pon 
+: 590 2 5 the 
+: 593 5 7 stage, 
+- 600
+: 610 2 7 Crowd 
+: 614 2 7 is 
+: 618 2 7 going
+: 621 1 5 ~ 
+: 624 7 7 wild, 
+- 633
+: 642 2 7 Love 
+: 646 2 7 to 
+: 650 2 7 see 
+: 654 2 5 them 
+: 658 2 7 wo
+: 661 2 5 men, 
+: 666 8 7 babe 
+- 675
+: 676 2 7 I 
+: 680 2 5 ain’t 
+: 684 3 3 in 
+: 688 2 1 de
+: 691 6 3 nial. 
+- 699
+: 708 3 7 Make 
+: 713 2 7 you 
+: 716 2 7 crazy
+: 719 1 5 ~ 
+: 721 4 7 too. 
+- 727
+: 738 3 7 Make 
+: 743 2 5 you 
+: 747 2 7 show 
+: 751 2 7 it 
+: 755 6 7 out. 
+- 763
+: 772 2 7 Li
+: 776 2 5 ving 
+: 780 4 7 good, 
+: 789 2 5 get 
+: 792 2 7 some 
+: 796 6 7 wood 
+- 804
+: 807 2 7 You 
+: 811 4 7 should, 
+: 817 2 5 You 
+: 821 2 7 knew 
+: 824 2 7 you 
+: 828 5 7 could 
+- 834
+: 835 4 7 Rock 
+: 841 4 7 out, 
+: 859 2 5 do 
+: 862 2 5 it 
+: 866 2 5 no
+: 869 2 0 ~w 
+- 873
+: 899 3 7 My, 
+: 905 4 5 my, 
+: 911 2 3 my,
+: 915 2 0 ~ 
+: 923 3 0 show 
+: 928 2 0 me 
+: 932 4 3 now 
+- 938
+: 963 4 7 Rock 
+: 969 5 7 out, 
+: 987 3 7 make 
+: 992 2 7 it 
+: 996 5 5 good. 
+- 1003
+: 1026 4 0 Break 
+: 1032 3 0 your 
+: 1038 6 3 heart 
+- 1046
+: 1059 4 5 Shake 
+: 1065 4 3 your 
+: 1071 4 0 blood 
+- 1077
+: 1703 2 7 Want 
+: 1706 2 7 to 
+: 1709 3 7 be 
+: 1713 2 5 a 
+: 1716 2 7 win
+: 1719 2 5 ner, 
+- 1723
+: 1733 2 7 Want 
+: 1736 2 7 to 
+: 1740 2 7 be 
+: 1744 2 5 the 
+: 1747 5 7 man. 
+- 1754
+: 1765 2 7 Want 
+: 1769 2 5 to 
+: 1773 2 7 make 
+: 1777 2 5 your
+: 1782 3 7 self 
+: 1787 2 5 in
+: 1791 3 7 sane, 
+- 1796
+: 1798 2 7 Join 
+: 1801 2 5 up 
+: 1805 2 4 with 
+: 1809 2 2 the 
+: 1813 4 4 band 
+- 1819
+: 1829 3 7 Want 
+: 1833 2 5 to 
+: 1837 2 7 fall 
+: 1841 2 5 in 
+: 1845 5 7 love, 
+- 1852
+: 1860 2 7 Want 
+: 1864 2 5 to 
+: 1868 2 7 make 
+: 1871 2 5 your 
+: 1875 5 7 mark 
+- 1882
+: 1892 2 7 Want 
+: 1896 2 7 to 
+: 1900 2 7 get 
+: 1903 3 5 out 
+: 1908 2 7 in 
+: 1911 2 5 the 
+: 1916 5 7 storm, 
+- 1923
+: 1925 2 7 Want 
+: 1928 2 5 to 
+: 1932 2 7 break 
+: 1936 2 5 a 
+: 1939 2 7 thou
+: 1942 2 5 sand 
+: 1946 6 7 hearts 
+- 1953
+: 1955 7 7 Rock 
+: 1963 2 7 out, 
+: 1980 2 7 strike 
+: 1983 2 5 it 
+: 1987 4 5 rich 
+- 1993
+* 2019 4 7 My, 
+* 2025 4 5 my, 
+* 2032 5 0 my, 
+: 2045 2 0 it’s 
+: 2049 2 0 a 
+: 2053 4 3 bitch 
+- 2059
+: 2083 3 7 Rock 
+: 2088 4 7 out, 
+: 2104 3 7 I 
+: 2109 2 4 knew 
+: 2113 2 0 you 
+: 2116 6 5 good 
+- 2124
+: 2146 4 0 Break 
+: 2152 3 0 your 
+: 2158 4 3 heart. 
+- 2164
+: 2178 3 5 Shake 
+: 2185 3 0 your 
+: 2190 5 0 blood 
+- 2197
+: 2210 3 7 Rock 
+: 2216 3 7 out, 
+: 2235 2 7 go 
+: 2238 2 5 to 
+: 2242 4 5 stop 
+- 2248
+: 2274 3 7 My, 
+: 2280 3 5 my, 
+: 2285 5 3 my, 
+: 2296 3 0 like 
+: 2301 2 0 a 
+: 2305 4 3 rock 
+- 2311
+: 2338 4 7 Rock 
+: 2344 4 7 out, 
+: 2362 2 7 it’s 
+: 2366 2 3 so 
+: 2370 7 5 good. 
+- 2379
+: 2400 3 0 Break 
+: 2406 3 0 your 
+: 2412 4 3 heart. 
+- 2418
+: 2432 4 5 Shake 
+: 2438 3 0 your 
+: 2443 4 0 blood. 
+- 2449
+: 2501 3 5 Shake 
+: 2507 3 0 your 
+: 2512 5 1 blood 
+- 2519
+: 2532 5 0 Shake 
+: 2539 2 0 your 
+: 2543 5 -5 blood 
+E

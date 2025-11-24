@@ -1,0 +1,319 @@
+#ARTIST:Michael W. Smith
+#TITLE:I Will Be Here For You
+#MP3:Michael W. Smith - I Will Be Here For You.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Michael W. Smith - I Will Be Here For You [CO].jpg
+#BACKGROUND:Michael W. Smith - I Will Be Here For You [BG].jpg
+#YEAR:1992
+#LANGUAGE:English
+#BPM:396.63
+#GAP:10475
+#VIDEO:v=JN-vgjs__gk,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/cb/d9/ddcbd96f-53dd-f350-7fdd-76d7db8a812b/012414920225.jpg/5000x5000bb.jpg,bg=https://www.ccmmagazine.com/wp-content/uploads/2018/12/Michael-W-Smith-2018.jpg
+: 0 10 9 When 
+: 12 4 11 you 
+: 17 16 9 feel 
+: 34 3 9 the 
+: 39 19 9 sun
+: 58 19 7 light 
+- 86
+: 90 11 7 Fade 
+: 103 8 7 in
+: 111 8 7 to 
+: 123 3 0 the 
+: 128 24 7 cold 
+: 157 14 5 night 
+- 177
+: 179 4 2 Don’t 
+: 186 6 2 know 
+: 196 9 2 where 
+: 209 3 2 to 
+: 214 23 0 turn 
+- 247
+: 267 3 2 Don’t 
+: 271 12 2 know 
+: 283 14 2 where 
+: 297 2 2 to 
+: 302 25 2 turn 
+- 337
+: 349 3 7 And 
+: 355 8 9 all 
+: 366 3 9 the 
+: 372 8 9 dreams 
+: 383 10 9 you’re 
+: 398 18 9 drea
+: 419 17 7 ming 
+- 440
+: 442 5 7 Seem 
+: 452 3 7 to 
+: 459 6 7 lose 
+: 470 8 11 their 
+: 485 20 9 mea
+: 508 20 7 ning 
+- 529
+: 531 3 2 Let 
+: 538 4 2 me 
+: 548 5 2 in 
+: 558 3 0 your 
+: 564 16 0 world
+: 580 12 2 ~ 
+- 603
+: 607 6 9 Ba
+: 613 5 0 by 
+: 619 5 2 let 
+: 625 12 2 me 
+: 639 4 2 in 
+: 647 11 4 your 
+: 659 30 0 world 
+- 699
+: 707 30 9 All 
+: 741 4 9 you 
+: 748 28 9 need 
+- 785
+: 789 4 11 Is 
+: 794 7 0 some
+: 801 7 2 one 
+: 811 9 2 you 
+: 821 5 4 can 
+: 829 13 4 hold
+: 843 4 9 ~
+: 849 14 9 ~ 
+- 873
+: 882 26 9 Don’t 
+: 911 6 0 be 
+: 920 16 9 sad 
+- 945
+: 948 8 9 You’re 
+: 958 8 0 not 
+: 967 16 0 a
+: 985 55 0 lone
+: 1040 20 9 ~ 
+- 1072
+: 1076 3 9 I 
+: 1080 11 0 will 
+: 1092 9 0 be 
+: 1103 20 4 here 
+: 1124 12 2 for 
+: 1137 72 9 you 
+- 1219
+: 1237 3 7 Some
+: 1243 13 7 where 
+: 1257 7 0 in 
+: 1268 3 9 the 
+: 1274 35 0 night 
+- 1318
+: 1322 12 4 Some
+: 1334 11 5 where 
+: 1348 7 11 in 
+: 1357 3 9 the 
+: 1362 35 9 night 
+- 1407
+: 1425 6 9 I’ll 
+: 1433 12 0 shine 
+: 1445 9 2 a 
+: 1457 18 5 light 
+: 1478 7 2 for 
+: 1489 57 9 you 
+- 1556
+: 1586 4 7 Some
+: 1594 14 7 where 
+: 1612 6 0 in 
+: 1622 3 9 the 
+: 1628 28 0 night 
+- 1666
+: 1678 4 4 I’ll 
+: 1682 4 5 be 
+: 1694 9 5 stan
+: 1703 9 2 ding 
+: 1715 42 9 by 
+- 1767
+: 1779 5 7 I 
+: 1786 11 9 will 
+: 1798 8 9 be 
+: 1808 8 0 here
+: 1816 10 0 ~ 
+: 1829 11 11 for 
+: 1842 52 9 you 
+- 1946
+: 2027 4 7 In 
+: 2034 5 9 this 
+: 2044 9 9 world 
+: 2058 7 9 of 
+: 2071 19 9 stran
+: 2093 11 7 gers 
+- 2110
+: 2112 2 2 Of 
+: 2117 7 7 cold 
+: 2128 3 7 and 
+: 2134 9 7 friend
+: 2146 8 9 ly 
+: 2160 15 7 fa
+: 2179 10 4 ces 
+- 2199
+: 2203 3 4 There’s 
+: 2209 4 2 some
+: 2215 6 2 one 
+: 2225 5 0 you 
+: 2234 3 2 can 
+: 2240 23 4 trust 
+- 2275
+: 2279 7 4 Oh 
+: 2289 5 4 there’s 
+: 2295 7 2 some
+: 2302 7 2 one 
+: 2311 6 7 you 
+: 2319 5 9 can 
+: 2325 17 0 trust 
+- 2352
+: 2388 3 9 I 
+: 2391 6 9 will 
+: 2399 6 9 be 
+: 2408 15 9 your 
+: 2425 18 9 shel
+: 2443 17 7 ter 
+- 2469
+: 2473 5 7 I’ll 
+: 2481 4 7 give 
+: 2488 4 7 you 
+: 2497 13 0 my 
+: 2514 19 9 shoul
+: 2535 16 9 der 
+- 2551
+: 2552 3 4 Just 
+: 2556 5 5 reach 
+: 2563 6 2 out 
+: 2572 10 2 for 
+: 2584 3 0 my 
+: 2589 26 4 love 
+- 2625
+: 2646 8 2 Reach 
+: 2655 6 4 out 
+: 2662 10 2 for 
+: 2672 15 4 my 
+: 2690 20 0 love 
+- 2720
+: 2733 31 9 Call 
+: 2766 5 2 my 
+: 2773 36 9 name 
+- 2819
+: 2826 5 0 And 
+: 2833 5 2 my 
+: 2839 11 2 heart 
+: 2851 5 2 will 
+: 2857 12 4 hear
+: 2871 4 4 ~
+: 2877 15 7 ~ 
+- 2902
+: 2921 8 2 I 
+: 2933 9 2 will 
+: 2945 3 11 be 
+: 2950 13 9 there 
+- 2968
+: 2970 5 4 There’s 
+: 2977 7 2 no
+: 2984 7 0 thing 
+: 2993 13 0 to 
+: 3008 64 0 fear
+: 3072 12 9 ~ 
+- 3094
+: 3102 3 9 I 
+: 3107 11 0 will 
+: 3120 7 0 be 
+: 3130 17 4 here 
+: 3152 11 2 for 
+: 3165 95 9 you 
+- 3260
+: 3262 5 7 Some
+: 3269 12 7 where 
+: 3285 7 11 in 
+: 3296 3 9 the 
+: 3302 30 0 night 
+- 3342
+: 3350 3 4 Some
+: 3356 15 4 where 
+: 3375 6 0 in 
+: 3385 3 9 the 
+: 3391 39 9 night 
+- 3440
+: 3452 6 9 I’ll 
+: 3460 13 0 shine 
+: 3477 4 2 a 
+: 3483 19 5 light 
+: 3505 6 2 for 
+: 3515 52 9 you 
+- 3577
+: 3616 4 7 Some
+: 3622 12 7 where 
+: 3638 7 0 in 
+: 3648 3 9 the 
+: 3654 29 0 night 
+- 3703
+: 3705 4 4 I’ll 
+: 3710 8 5 be 
+: 3722 9 2 stan
+: 3731 8 2 ding 
+: 3741 43 9 by 
+- 3794
+: 3802 7 7 I 
+: 3812 7 9 will 
+: 3824 6 9 be 
+: 3835 15 0 here 
+: 3853 9 5 for 
+: 3867 88 7 you
+: 3958 4 7 ~
+: 3965 27 7 ~ 
+- 3925
+: 4601 4 11 I 
+: 4606 10 0 will 
+: 4617 11 11 be 
+: 4629 20 7 here 
+: 4650 10 9 for 
+: 4662 76 11 you 
+- 4748
+: 4759 12 7 Some
+: 4771 11 7 where 
+: 4789 5 0 in 
+: 4794 4 11 the 
+: 4800 47 2 night 
+- 4847
+: 4847 12 7 Some
+: 4859 11 7 where 
+: 4871 12 2 in 
+: 4885 2 9 the 
+: 4888 37 11 night 
+- 4935
+: 4952 5 11 I’ll 
+: 4958 12 2 shine 
+: 4970 6 4 a 
+: 4980 17 7 light 
+: 5002 10 7 for 
+: 5014 69 11 you 
+- 5093
+: 5111 12 7 Some
+: 5123 12 7 where 
+: 5139 7 2 in 
+: 5147 3 2 the 
+: 5152 46 2 night 
+- 5198
+: 5203 4 7 I’ll 
+: 5210 12 7 be 
+: 5225 7 4 stan
+: 5236 4 2 ding 
+: 5242 46 11 by 
+- 5308
+: 5311 4 7 I 
+: 5317 11 11 will 
+: 5328 7 11 be 
+: 5339 9 2 here
+: 5348 9 2 ~ 
+: 5360 12 11 for 
+: 5374 55 11 you 
+- 5455
+: 5493 3 7 I 
+: 5499 12 11 will 
+: 5514 8 11 be 
+: 5527 11 4 here
+: 5538 11 2 ~ 
+: 5552 5 11 for 
+- 5583
+: 5608 121 11 You 
+E

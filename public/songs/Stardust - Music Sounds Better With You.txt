@@ -1,0 +1,264 @@
+#ARTIST:Stardust
+#TITLE:Music Sounds Better With You
+#MP3:Stardust - Music Sounds Better With You.mp3
+#CREATOR:Leroidukitch
+#YEAR:1998
+#LANGUAGE:English
+#BPM:252
+#GAP:46570
+#VIDEO:v=FQlAEiCb8m0,co=music-sounds-better-with-you-5d7eafd61ed11.jpg
+: 0 10 5 Ooh 
+: 12 6 1 ba
+: 20 8 3 by, 
+- 30
+: 68 2 3 I 
+: 72 6 3 feel 
+: 80 10 3 like 
+: 92 2 3 the 
+: 96 2 5 mu
+: 100 2 6 sic 
+: 104 6 5 sounds 
+: 112 2 3 bet
+: 116 2 1 ter 
+: 120 2 3 with 
+: 124 10 5 you 
+- 136
+: 200 6 3 Love 
+: 208 6 3 might 
+: 224 2 5 bring 
+: 228 2 6 us 
+: 232 2 5 back 
+: 236 3 3 to
+: 240 3 3 ge
+: 244 2 1 ther, 
+- 248
+: 250 2 -2 I 
+: 254 2 1 feel 
+: 258 2 3 so 
+: 262 6 5 good 
+- 270
+: 328 2 3 I 
+: 332 6 3 feel 
+: 340 10 3 like 
+: 352 2 3 the 
+: 356 2 5 mu
+: 360 2 6 sic 
+: 364 6 5 sounds 
+: 372 2 3 bet
+: 376 2 1 ter 
+: 382 2 3 with 
+: 386 14 5 you, 
+- 402
+: 464 6 3 Love 
+: 472 6 3 might 
+: 488 1 5 bring 
+: 490 2 6 us 
+: 494 2 5 back 
+: 498 2 3 to
+: 502 4 3 ge
+: 508 10 1 ther,  
+- 520
+: 522 10 5 Ooh 
+: 534 6 1 ba
+: 542 8 3 by, 
+- 552
+: 590 2 3 I 
+* 594 6 3 feel 
+* 602 10 3 like 
+* 614 2 3 the 
+* 618 2 5 mu
+: 622 2 6 sic 
+: 626 6 5 sounds 
+: 634 2 3 bet
+: 638 2 1 ter 
+: 644 4 3 with 
+: 650 20 5 you 
+- 672
+: 722 6 3 Love 
+: 730 14 3 might 
+: 746 1 5 bring 
+: 748 2 6 us 
+: 752 2 5 back 
+: 756 2 3 to
+: 760 2 3 ge
+: 764 2 1 ther, 
+- 768
+: 770 2 -2 I 
+: 774 2 1 feel 
+: 778 2 3 so 
+: 782 12 5 good 
+- 796
+: 848 2 3 I 
+: 852 6 3 feel 
+: 860 10 3 like 
+: 872 2 3 the 
+: 876 2 5 mu
+: 880 2 6 sic 
+: 884 6 5 sounds 
+: 892 2 3 bet
+: 896 2 1 ter 
+: 902 4 3 with 
+: 908 14 5 you, 
+- 924
+: 980 6 3 Love 
+: 988 14 3 might 
+: 1008 1 5 bring 
+: 1010 2 6 us 
+: 1014 2 5 back 
+: 1018 2 3 to
+: 1022 4 3 ge
+: 1028 6 1 ther, 
+- 1036
+: 1626 10 5 Ooh 
+: 1638 6 1 ba
+* 1646 8 3 by, 
+- 1656
+: 1694 2 3 I 
+: 1698 6 3 feel 
+: 1706 10 3 like 
+: 1718 2 3 the 
+: 1722 2 5 mu
+: 1726 2 6 sic 
+: 1730 6 5 sounds 
+: 1738 2 3 bet
+: 1742 2 1 ter 
+: 1748 2 3 with 
+: 1754 16 5 you 
+- 1772
+: 1826 6 3 Love 
+: 1834 14 3 might 
+: 1856 1 5 bring 
+: 1858 2 6 us 
+: 1862 2 5 back 
+: 1866 2 3 to
+: 1870 1 3 ge
+: 1872 2 1 ther, 
+- 1875
+: 1876 2 -2 I 
+: 1880 2 1 feel 
+: 1884 2 3 so 
+: 1888 8 5 good 
+- 1898
+: 1954 2 3 I 
+: 1958 6 3 feel 
+: 1966 10 3 like 
+: 1978 2 3 the 
+: 1982 2 5 mu
+: 1986 2 6 sic 
+: 1990 6 5 sounds 
+: 1998 2 3 bet
+: 2002 2 1 ter 
+: 2008 4 3 with 
+: 2014 14 5 you, 
+- 2030
+: 2086 6 3 Love 
+: 2094 14 3 might 
+: 2114 1 5 bring 
+: 2116 2 6 us 
+: 2120 2 5 back 
+: 2124 2 3 to
+: 2128 4 3 ge
+: 2134 6 1 ther, 
+- 2176
+: 2246 10 5 Ooh 
+: 2258 6 1 ba
+: 2266 8 3 by, 
+- 2276
+: 2314 2 3 I 
+: 2318 6 3 feel 
+* 2326 10 3 like 
+* 2338 2 3 the 
+* 2342 2 5 mu
+: 2346 2 6 sic 
+: 2350 6 5 sounds 
+: 2358 2 3 bet
+: 2362 2 1 ter 
+: 2368 2 3 with 
+: 2374 16 5 you 
+- 2392
+: 2446 6 3 Love 
+: 2454 14 3 might 
+: 2476 1 5 bring 
+: 2478 2 6 us 
+: 2482 2 5 back 
+: 2486 2 3 to
+: 2490 1 3 ge
+: 2492 2 1 ther, 
+- 2495
+: 2496 2 -2 I 
+: 2500 2 1 feel 
+: 2504 2 3 so 
+: 2508 8 5 good 
+- 2518
+: 2574 2 3 I 
+: 2578 6 3 feel 
+: 2586 10 3 like 
+: 2598 2 3 the 
+: 2602 2 5 mu
+: 2606 2 6 sic 
+: 2610 6 5 sounds 
+: 2618 2 3 bet
+: 2622 2 1 ter 
+: 2628 4 3 with 
+: 2634 14 5 you, 
+- 2650
+: 2706 6 3 Love 
+: 2714 14 3 might 
+: 2734 1 5 bring 
+: 2736 2 6 us 
+: 2740 2 5 back 
+: 2744 2 3 to
+: 2748 4 3 ge
+: 2754 6 1 ther, 
+- 2762
+: 2768 10 5 Ooh 
+: 2780 6 1 ba
+: 2788 8 3 by, 
+- 2798
+: 2836 2 3 I 
+: 2840 6 3 feel 
+: 2848 10 3 like 
+: 2860 2 3 the 
+: 2864 2 5 mu
+: 2868 2 6 sic 
+: 2872 6 5 sounds 
+* 2880 2 3 bet
+* 2884 2 1 ter 
+: 2890 2 3 with 
+: 2896 16 5 you 
+- 2914
+: 2968 6 3 Love 
+: 2976 14 3 might 
+: 2998 1 5 bring 
+: 3000 2 6 us 
+: 3004 2 5 back 
+: 3008 2 3 to
+: 3012 1 3 ge
+: 3014 2 1 ther, 
+- 3017
+: 3018 2 -2 I 
+: 3022 2 1 feel 
+: 3026 2 3 so 
+: 3030 8 5 good 
+- 3040
+: 3096 2 3 I 
+: 3100 6 3 feel 
+: 3108 10 3 like 
+: 3120 2 3 the 
+: 3124 2 5 mu
+: 3128 2 6 sic 
+: 3132 6 5 sounds 
+: 3140 2 3 bet
+: 3144 2 1 ter 
+: 3150 4 3 with 
+: 3156 14 5 you, 
+- 3172
+: 3228 6 3 Love 
+: 3236 14 3 might 
+: 3256 1 5 bring 
+: 3258 2 6 us 
+: 3262 2 5 back 
+: 3266 2 3 to
+* 3270 4 3 ge
+* 3276 6 1 ther 
+E

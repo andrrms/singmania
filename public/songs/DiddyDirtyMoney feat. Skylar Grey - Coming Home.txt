@@ -1,0 +1,824 @@
+#ARTIST:DiddyDirtyMoney feat. Skylar Grey
+#TITLE:Coming Home
+#MP3:DiddyDirtyMoney feat. Skylar Grey - Coming Home.mp3
+#CREATOR:DS
+#YEAR:2010
+#LANGUAGE:English
+#BPM:252.09
+#GAP:1280
+#VIDEO:v=MfKLTAW9qYE,co=https://i.pinimg.com/originals/92/42/66/924266e1edd5731ee45b2456d692a938.jpg,bg=p-diddy-5400cf0162544.jpg
+: 0 3 -3 I’m 
+: 8 3 2 co
+: 13 3 1 ming 
+: 20 5 -1 home 
+- 31
+: 34 2 -3 I’m 
+: 38 3 2 co
+: 43 3 1 ming 
+: 50 4 -3 home 
+- 64
+: 71 5 2 Tell 
+: 78 2 1 the 
+: 82 5 -1 world 
+: 91 5 -1 I’m 
+: 102 3 2 co
+: 107 4 1 ming 
+: 114 3 -3 home 
+- 129
+: 133 5 2 Let 
+: 141 2 1 the 
+: 145 6 -1 rain 
+- 160
+: 164 5 2 Wash 
+: 173 2 1 a
+: 177 7 -3 way 
+- 193
+: 196 4 2 All 
+: 202 2 1 the 
+: 206 5 -1 pain 
+: 215 5 -1 of 
+: 225 4 2 yes
+: 232 2 1 ter
+: 236 4 -3 day 
+- 249
+: 252 2 -3 I 
+: 256 2 2 know 
+: 260 6 4 my 
+* 271 11 6 king
+: 287 4 2 dom 
+: 294 2 4 a
+: 298 5 -3 waits 
+- 309
+: 312 2 -3 And 
+: 316 4 2 they’ve 
+: 324 2 4 for
+: 328 6 6 gi
+: 336 4 4 ven 
+: 346 5 2 my 
+: 354 1 4 mis
+: 358 5 1 takes 
+- 368
+: 370 3 -3 I’m 
+: 378 3 2 co
+: 383 4 1 ming 
+: 390 4 -1 home 
+- 403
+: 406 2 -1 I’m 
+: 410 3 2 co
+: 414 4 1 ming 
+: 422 3 -3 home 
+- 436
+: 440 5 2 Tell 
+: 448 2 1 the 
+: 452 5 -1 world 
+: 460 4 -1 I’m 
+: 470 3 2 co
+: 475 5 1 ming 
+- 496
+: 537 2 -1 I’m 
+: 540 3 2 back 
+: 544 1 1 where 
+: 546 2 2 I 
+: 550 1 1 be
+: 552 6 2 long, 
+- 567
+: 570 4 -1 Yeah, 
+: 579 2 -1 I 
+: 582 2 -1 ne
+: 585 1 -3 ver 
+: 588 2 2 felt 
+: 593 3 1 so 
+: 600 4 1 strong 
+- 614
+: 621 1 -1 I’m 
+: 624 2 2 feel
+: 628 1 2 in’ 
+: 630 2 2 like 
+: 633 1 2 there’s 
+: 636 2 2 no
+: 639 1 2 thing 
+: 642 2 2 that 
+: 645 2 2 I 
+: 648 3 -1 can’t 
+* 654 5 4 try
+: 660 5 2 ~ 
+- 672
+: 675 2 -1 And 
+: 678 2 2 if 
+: 681 2 2 you 
+: 684 2 2 with 
+: 687 1 2 me 
+: 690 2 2 put 
+: 693 2 2 your 
+: 696 4 -3 hands 
+: 702 5 4 high
+: 708 10 2 ~ 
+- 722
+F 724 1 -2 If 
+F 726 1 -2 you 
+F 728 1 -2 e
+F 730 1 -2 ver 
+F 733 2 -2 lost 
+F 737 1 -2 a 
+F 740 2 -2 light 
+F 744 2 -2 be
+F 748 3 -2 fore 
+- 761
+F 768 2 -2 This 
+F 772 3 -2 ones 
+F 777 1 -2 for 
+F 780 3 -2 you 
+- 793
+F 808 2 -2 The 
+F 811 3 -2 dreams 
+F 816 1 -2 are 
+F 819 2 -2 for 
+F 822 3 -2 you 
+- 841
+F 880 1 -2 I 
+F 882 3 -2 hear 
+F 886 1 -2 “The 
+F 888 4 -2 Tears 
+F 894 1 -2 of 
+F 897 1 -2 a 
+F 900 6 -2 Clown” 
+- 916
+F 926 1 -2 I 
+F 929 2 -2 hate 
+F 932 2 -2 that 
+F 937 3 -2 song 
+- 941
+F 943 1 -2 I 
+F 945 2 -2 al
+F 948 2 -2 ways 
+F 951 2 -2 feel 
+F 954 2 -2 like 
+F 957 2 -2 they 
+F 960 2 -2 tal
+F 963 2 -2 kin’ 
+F 966 2 -2 to 
+F 969 3 -2 me 
+- 973
+F 975 2 -2 When 
+F 978 2 -2 it 
+F 981 2 -2 comes 
+F 984 3 -2 on 
+- 996
+F 999 2 -2 A
+F 1002 2 -2 no
+F 1005 2 -2 ther 
+F 1008 2 -2 day 
+F 1011 2 -2 a
+F 1014 2 -2 no
+F 1017 2 -2 ther 
+F 1020 4 -2 dawn 
+- 1032
+F 1035 2 -2 A
+F 1038 2 -2 no
+F 1041 2 -2 ther 
+F 1044 2 -2 Kei
+F 1047 2 -2 sha, 
+F 1050 2 -2 nice 
+F 1053 2 -2 to 
+F 1056 2 -2 meet 
+F 1059 2 -2 ya, 
+- 1061
+F 1062 2 -2 Get 
+F 1065 2 -2 the 
+F 1068 3 -2 math, 
+F 1073 4 -2 I’m 
+F 1080 6 -2 gone 
+- 1087
+F 1089 2 -2 What 
+F 1092 1 -2 am 
+F 1094 2 -2 I 
+F 1097 2 -2 ’posed 
+F 1100 2 -2 to 
+F 1103 2 -2 do 
+F 1107 2 -2 when 
+F 1110 2 -2 the 
+F 1113 4 -2 club 
+F 1119 3 -2 lights 
+F 1125 2 -2 come 
+F 1128 4 -2 on 
+- 1132
+F 1133 2 -2 It’s 
+F 1137 2 -2 ea
+F 1140 2 -2 sy 
+F 1143 2 -2 to 
+F 1146 2 -2 be 
+F 1151 3 -2 Puff 
+- 1154
+F 1156 1 -2 But 
+F 1158 2 -2 it’s 
+F 1161 2 -2 har
+F 1164 2 -2 der 
+F 1167 1 -2 to 
+F 1170 3 -2 be 
+F 1176 5 -2 Sean 
+- 1183
+F 1185 2 -2 What 
+F 1188 2 -2 if 
+F 1191 2 -2 my 
+F 1194 4 -2 twins 
+F 1200 2 -2 ask 
+F 1204 1 -2 me 
+- 1205
+F 1206 2 -2 Why 
+F 1209 2 -2 I 
+F 1212 2 -2 ain’t 
+F 1215 2 -2 mar
+F 1218 1 -2 ry 
+F 1220 2 -2 their 
+F 1224 4 -2 mom 
+- 1238
+F 1257 3 -2 How 
+F 1261 1 -2 do 
+F 1264 2 -2 I 
+F 1268 1 -2 re
+F 1272 5 -2 spond? 
+- 1279
+F 1281 1 -2 What 
+F 1283 2 -2 if 
+F 1286 2 -2 my 
+F 1290 3 -2 son 
+F 1296 2 -2 stares 
+F 1300 1 -2 with 
+F 1302 1 -2 a 
+F 1305 3 -2 face 
+F 1312 3 -2 like 
+F 1317 2 -2 my 
+F 1320 5 -2 own 
+- 1325
+F 1326 2 -2 And 
+F 1329 4 -2 says 
+F 1335 2 -2 he 
+F 1338 2 -2 wants 
+F 1341 2 -2 to 
+F 1344 2 -2 be 
+F 1347 3 -2 like 
+F 1353 3 -2 me 
+- 1357
+F 1359 2 -2 When 
+F 1362 3 -2 he’s 
+F 1368 4 -2 grown 
+- 1382
+F 1386 5 -2 Damn! 
+F 1401 2 -2 But 
+F 1404 2 -2 I 
+F 1407 2 -2 ain’t 
+F 1410 2 -2 fi
+F 1413 2 -2 nished 
+F 1417 5 -2 growin’ 
+- 1429
+F 1432 1 -2 A
+F 1434 2 -2 no
+F 1437 1 -2 ther 
+F 1440 3 -2 night 
+F 1444 2 -2 the 
+F 1447 1 -2 i
+F 1449 1 -2 ne
+F 1451 1 -2 vi
+F 1453 1 -2 ti
+F 1455 1 -2 ble 
+F 1458 3 -2 pro
+F 1464 4 -2 longs 
+- 1476
+F 1479 2 -2 A
+F 1482 2 -2 no
+F 1485 2 -2 ther 
+F 1488 2 -2 day 
+F 1491 1 -2 a
+F 1494 2 -2 no
+F 1497 1 -2 ther 
+F 1500 4 -2 dawn 
+- 1512
+F 1515 2 -2 Just 
+F 1518 2 -2 tell 
+F 1524 2 -2 Kei
+F 1527 2 -2 sha 
+F 1530 2 -2 and 
+F 1533 2 -2 Te
+F 1536 2 -2 re
+F 1539 2 -2 sa 
+- 1541
+F 1542 2 -2 I’ll 
+F 1545 2 -2 be 
+F 1548 2 -2 bet
+F 1551 1 -2 ter 
+F 1554 1 -2 in 
+F 1556 2 -2 the 
+F 1560 4 -2 morn’ 
+- 1572
+F 1575 2 -2 A
+F 1578 2 -2 no
+F 1581 2 -2 ther 
+F 1584 3 -2 lie 
+F 1590 2 -2 that 
+F 1593 3 -2 I 
+F 1602 2 -2 car
+F 1605 2 -2 ry 
+F 1608 4 -2 on 
+- 1612
+F 1613 2 -2 I 
+F 1616 4 -2 need 
+F 1623 2 -2 to 
+F 1626 2 -2 get 
+F 1631 2 -2 back 
+F 1635 1 -2 to 
+F 1637 2 -2 the 
+F 1640 3 -2 place... 
+- 1646
+: 1648 3 -3 I’m 
+* 1655 3 2 co
+: 1660 3 1 ming 
+: 1665 8 -1 home 
+- 1675
+: 1677 1 -1 I’m 
+: 1680 3 2 co
+: 1685 3 1 ming 
+: 1690 5 -3 home 
+- 1701
+: 1704 5 2 Tell 
+: 1710 2 1 the 
+: 1714 4 -1 world 
+: 1720 2 -1 that 
+: 1723 3 -1 I’m 
+: 1728 3 2 co
+: 1733 3 1 ming 
+: 1738 5 -3 home 
+- 1749
+: 1752 4 2 Let 
+: 1758 2 1 the 
+: 1762 6 -1 rain 
+- 1774
+: 1776 4 2 Wash 
+: 1782 2 1 a
+: 1786 7 -3 way 
+- 1798
+: 1800 4 2 All 
+: 1806 2 1 the 
+: 1810 4 -1 pain 
+: 1816 4 -1 of 
+: 1824 3 2 yes
+: 1830 2 1 ter
+: 1834 4 -3 day 
+- 1842
+: 1844 2 -3 I 
+: 1848 2 2 know 
+: 1852 5 4 my 
+: 1860 10 6 king
+: 1872 4 2 dom 
+: 1878 2 4 a
+: 1882 5 -3 waits 
+- 1890
+: 1892 2 -3 And 
+: 1896 3 2 they’ve 
+: 1902 2 4 for
+* 1906 5 6 gi
+: 1912 4 4 ven 
+: 1920 4 2 my 
+: 1926 2 4 mis
+: 1930 5 1 takes 
+- 1938
+: 1940 2 -3 I’m 
+: 1944 3 2 co
+: 1949 3 1 ming 
+: 1954 6 -1 home 
+- 1962
+: 1964 2 -1 I’m 
+: 1968 3 2 co
+: 1973 3 1 ming 
+: 1978 6 -3 home 
+- 1990
+: 1992 4 2 Tell 
+: 1998 2 1 the 
+: 2002 4 -1 world 
+: 2008 2 -1 that 
+: 2011 3 -1 I’m 
+: 2016 3 2 co
+: 2021 9 1 ming 
+* 2042 6 -3 home 
+- 2054
+F 2057 2 -2 “A 
+F 2061 2 -2 House 
+F 2064 2 -2 is 
+F 2067 2 -2 not 
+F 2070 2 -2 a 
+F 2073 3 -2 Home”, 
+F 2078 2 -2 I 
+F 2082 2 -2 hate 
+F 2086 2 -2 this 
+F 2090 4 -2 song 
+- 2094
+F 2096 1 -2 Is 
+F 2098 1 -2 a 
+F 2100 3 -2 house 
+F 2105 2 -2 real
+F 2108 1 -2 ly 
+F 2110 2 -2 a 
+F 2113 2 -2 home 
+- 2115
+F 2117 1 -2 When 
+F 2119 2 -2 your 
+F 2123 3 -2 loved 
+F 2128 3 -2 ones 
+F 2133 2 -2 is 
+F 2137 4 -2 gone? 
+- 2151
+F 2155 2 -2 And 
+F 2158 2 -2 peo
+F 2161 2 -2 ple 
+F 2164 2 -2 got 
+F 2167 2 -2 the 
+F 2170 4 -2 nerve 
+F 2175 2 -2 to 
+F 2179 3 -2 blame 
+F 2185 3 -2 you 
+F 2190 3 -2 for 
+F 2194 2 -2 it 
+- 2198
+F 2200 2 -2 And 
+F 2203 2 -2 you 
+F 2206 2 -2 know 
+F 2209 2 -2 you 
+F 2212 1 -2 woul
+F 2214 2 -2 da 
+F 2218 2 -2 took 
+F 2221 2 -2 the 
+F 2224 2 -2 bul
+F 2227 1 -2 let 
+- 2228
+F 2229 2 -2 If 
+F 2233 2 -2 you 
+F 2238 3 -2 saw 
+F 2242 2 -2 it 
+- 2251
+F 2254 2 -2 But 
+F 2257 2 -2 you 
+F 2263 3 -2 felt 
+F 2269 2 -2 it 
+F 2276 2 -2 and 
+F 2280 4 -2 still 
+F 2286 4 -2 feel 
+F 2292 2 -2 it 
+- 2296
+F 2298 2 -2 And 
+F 2301 2 -2 mo
+F 2304 2 -2 ney 
+F 2307 2 -2 can’t 
+F 2310 3 -2 make 
+F 2315 2 -2 up 
+F 2319 3 -2 for 
+F 2323 2 -2 it 
+- 2326
+F 2328 3 -2 Or 
+F 2332 2 -2 con
+F 2337 2 -2 ceal 
+F 2341 2 -2 it 
+- 2345
+F 2347 2 -2 But 
+F 2350 2 -2 you 
+F 2353 3 -2 deal 
+F 2358 1 -2 with 
+F 2360 3 -2 ’em 
+- 2368
+: 2370 2 -1 And 
+: 2373 2 -3 you 
+: 2376 3 1 keep 
+: 2382 4 -1 bal
+: 2387 2 -1 lin’ 
+- 2390
+: 2392 2 -1 Swal
+: 2395 2 -1 low 
+: 2398 2 -1 some 
+: 2401 2 -1 li
+: 2404 1 -3 quor, 
+- 2405
+: 2407 4 1 Play 
+: 2413 4 -1 boy 
+: 2418 2 -1 you 
+: 2421 2 -3 can 
+: 2424 4 1 keep 
+: 2430 5 -1 bal
+: 2436 4 -1 lin’ 
+- 2448
+F 2451 2 -2 Ba
+F 2454 2 -2 by 
+F 2457 2 -2 we’ve 
+F 2460 2 -2 been 
+F 2463 2 -2 li
+F 2466 2 -2 vin’ 
+F 2469 2 -2 in 
+F 2472 4 -2 sin 
+- 2476
+F 2478 2 -2 ’Cause 
+F 2481 2 -2 we’ve 
+F 2484 2 -2 been 
+F 2487 2 -2 real
+F 2490 2 -2 ly 
+F 2493 2 -2 in 
+F 2496 4 -2 love 
+- 2500
+F 2502 2 -2 But 
+F 2505 2 -2 we’ve 
+F 2508 2 -2 been 
+F 2511 2 -2 li
+F 2514 2 -2 ving 
+F 2517 2 -2 as 
+F 2520 7 -2 friends 
+- 2537
+F 2541 2 -2 So 
+F 2544 2 -2 you’ve 
+F 2547 2 -2 been 
+F 2550 2 -2 a 
+F 2553 2 -2 guest 
+F 2556 2 -2 in 
+F 2559 2 -2 your 
+F 2562 4 -2 own 
+F 2568 4 -2 home 
+- 2572
+F 2573 2 -2 It’s 
+F 2577 4 -2 time 
+F 2583 2 -2 to 
+F 2586 2 -2 make 
+F 2589 2 -2 your 
+F 2592 3 -2 house 
+F 2597 2 -2 your 
+F 2600 3 -2 own 
+- 2607
+: 2609 3 -3 I’m 
+: 2616 3 2 co
+: 2621 3 1 ming 
+: 2626 8 -1 home 
+- 2635
+: 2637 1 -1 I’m 
+: 2640 3 2 co
+: 2645 3 1 ming 
+: 2650 5 -3 home 
+- 2661
+: 2664 5 2 Tell 
+: 2670 2 1 the 
+: 2674 4 -1 world 
+: 2680 2 -1 that 
+: 2683 3 -1 I’m 
+* 2688 3 2 co
+: 2693 3 1 ming 
+: 2698 5 -3 home 
+- 2709
+: 2712 4 2 Let 
+: 2718 2 1 the 
+: 2722 6 -1 rain 
+- 2734
+: 2736 4 2 Wash 
+: 2742 2 1 a
+: 2746 7 -3 way 
+- 2758
+: 2760 4 2 All 
+: 2766 2 1 the 
+: 2770 4 -1 pain 
+: 2776 4 -1 of 
+: 2784 3 2 yes
+: 2790 2 1 ter
+: 2794 4 -3 day 
+- 2802
+: 2804 2 -3 I 
+: 2808 2 2 know 
+: 2812 5 4 my 
+: 2820 10 6 king
+: 2832 4 2 dom 
+: 2838 2 4 a
+: 2842 5 -3 waits 
+- 2850
+: 2852 2 -3 And 
+: 2856 3 2 they’ve 
+: 2862 2 4 for
+: 2866 5 6 gi
+: 2872 4 4 ven 
+: 2880 4 2 my 
+: 2886 2 4 mis
+* 2890 5 1 takes 
+- 2898
+: 2900 2 -3 I’m 
+: 2904 3 2 co
+: 2909 3 1 ming 
+: 2914 6 -1 home 
+- 2922
+: 2924 2 -1 I’m 
+: 2928 3 2 co
+: 2933 3 1 ming 
+: 2938 6 -3 home 
+- 2950
+: 2952 4 2 Tell 
+: 2958 2 1 the 
+: 2962 4 -1 world 
+: 2968 2 -1 that 
+: 2971 3 -1 I’m 
+: 2976 3 2 co
+* 2981 9 1 ming 
+: 3000 8 -3 home 
+- 3011
+F 3013 3 -2 “Ain’t 
+F 3019 3 -2 No 
+F 3024 3 -2 Stop
+F 3028 1 -2 ping 
+F 3030 2 -2 Us 
+F 3035 3 -2 Now”, 
+F 3039 2 -2 I 
+F 3042 2 -2 love 
+F 3046 2 -2 that 
+F 3052 5 -2 song 
+- 3057
+F 3058 1 -2 When
+F 3060 1 -2 e
+F 3062 1 -2 ver 
+F 3064 2 -2 it 
+F 3067 3 -2 comes 
+F 3073 3 -2 on 
+F 3078 2 -2 it 
+F 3082 3 -2 makes 
+F 3087 2 -2 me 
+F 3090 3 -2 feel 
+F 3096 7 -2 strong 
+- 3109
+F 3111 2 -2 I 
+F 3114 2 -2 thought 
+F 3117 2 -2 I 
+F 3120 3 -2 told 
+F 3124 2 -2 y’all 
+F 3127 2 -2 that 
+F 3132 2 -2 we 
+F 3135 2 -2 won’t 
+F 3141 3 -2 stop 
+- 3148
+F 3150 3 -2 We 
+F 3154 3 -2 back 
+F 3160 2 -2 crui
+F 3163 2 -2 sin’ 
+F 3166 2 -2 through 
+F 3170 3 -2 Har
+F 3175 3 -2 lem, 
+F 3181 2 -2 these 
+F 3185 3 -2 old 
+F 3190 4 -2 blocks 
+- 3194
+F 3195 2 -2 It’s 
+F 3199 3 -2 what 
+F 3204 4 -2 made 
+F 3210 3 -2 me, 
+F 3217 5 -2 saved 
+F 3224 3 -2 me, 
+F 3230 4 -2 drove 
+F 3236 3 -2 me 
+F 3242 4 -2 cra
+F 3248 3 -2 zy 
+- 3252
+F 3254 3 -2 Drove 
+F 3258 2 -2 me 
+F 3261 2 -2 a
+F 3265 3 -2 way 
+F 3270 2 -2 then 
+F 3273 2 -2 em
+F 3277 3 -2 braced 
+F 3282 2 -2 me 
+- 3284
+F 3285 2 -2 For
+F 3288 4 -2 gave 
+F 3294 2 -2 me 
+F 3298 2 -2 for 
+F 3301 2 -2 all 
+F 3304 2 -2 of 
+F 3307 3 -2 my 
+F 3313 4 -2 short
+F 3319 2 -2 co
+F 3322 1 -2 mings 
+- 3323
+F 3324 2 -2 Wel
+F 3327 2 -2 come 
+F 3330 2 -2 to 
+F 3333 2 -2 my 
+F 3336 4 -2 home
+F 3342 2 -2 co
+F 3345 2 -2 ming 
+- 3352
+F 3354 5 -2 Yeah 
+F 3364 2 -2 it’s 
+F 3367 2 -2 been 
+F 3370 1 -2 a 
+F 3373 3 -2 long 
+F 3379 3 -2 time 
+F 3385 2 -2 co
+F 3388 3 -2 ming 
+- 3395
+F 3397 2 -2 Lot 
+F 3400 2 -2 of 
+F 3403 3 -2 fights, 
+F 3408 2 -2 lot 
+F 3411 2 -2 of 
+F 3414 4 -2 scars, 
+F 3420 2 -2 lot 
+F 3423 2 -2 of 
+F 3426 2 -2 bott
+F 3429 2 -2 les 
+- 3431
+F 3432 2 -2 Lot 
+F 3435 2 -2 of 
+F 3438 3 -2 cars, 
+F 3444 2 -2 lot 
+F 3447 2 -2 of 
+F 3450 3 -2 ups, 
+F 3456 2 -2 lot 
+F 3459 2 -2 of 
+F 3462 4 -2 downs 
+- 3466
+F 3468 2 -2 Made 
+F 3471 2 -2 it 
+F 3474 3 -2 back, 
+F 3480 3 -2 lost 
+F 3486 2 -2 my 
+F 3490 3 -2 dog 
+- 3499
+F 3501 2 -2 And 
+F 3504 2 -2 here 
+F 3507 2 -2 I 
+F 3511 5 -2 stand, 
+F 3525 2 -2 a 
+F 3528 2 -2 bet
+F 3531 2 -2 ter 
+F 3534 5 -2 man! 
+- 3548
+F 3552 2 -2 Thank 
+F 3555 2 -2 you 
+F 3558 6 -2 Lord 
+- 3568
+: 3570 3 -3 I’m 
+: 3576 3 2 co
+: 3581 3 1 ming 
+: 3586 8 -1 home 
+- 3595
+: 3597 1 -1 I’m 
+: 3600 3 2 co
+: 3605 3 1 ming 
+: 3610 5 -3 home 
+- 3621
+: 3624 5 2 Tell 
+: 3630 2 1 the 
+: 3634 4 -1 world 
+: 3640 2 -1 that 
+: 3643 3 -1 I’m 
+: 3648 3 2 co
+: 3653 3 1 ming 
+: 3658 5 -3 home 
+- 3669
+: 3672 4 2 Let 
+: 3678 2 1 the 
+: 3682 6 -1 rain 
+- 3694
+: 3696 4 2 Wash 
+: 3702 2 1 a
+: 3706 7 -3 way 
+- 3718
+: 3720 4 2 All 
+: 3726 2 1 the 
+: 3730 4 -1 pain 
+: 3736 4 -1 of 
+: 3744 3 2 yes
+: 3750 2 1 ter
+: 3754 4 -3 day 
+- 3762
+: 3764 2 -3 I 
+: 3768 2 2 know 
+: 3772 5 4 my 
+* 3780 10 6 king
+: 3792 4 2 dom 
+: 3798 2 4 a
+: 3802 5 -3 waits 
+- 3810
+: 3812 2 -3 And 
+: 3816 3 2 they’ve 
+: 3822 2 4 for
+: 3826 5 6 gi
+: 3832 4 4 ven 
+: 3840 4 2 my 
+: 3846 2 4 mis
+: 3850 5 1 takes 
+- 3858
+: 3860 2 -3 I’m 
+: 3864 3 2 co
+: 3869 3 1 ming 
+: 3874 6 -1 home 
+- 3882
+: 3884 2 -1 I’m 
+: 3888 3 2 co
+: 3893 3 1 ming 
+* 3898 6 -3 home 
+- 3910
+: 3912 4 2 Tell 
+: 3918 2 1 the 
+: 3922 4 -1 world 
+: 3928 2 -1 that 
+: 3931 3 -1 I’m 
+: 3936 3 2 co
+: 3941 9 1 ming 
+: 3962 6 -3 home 
+E

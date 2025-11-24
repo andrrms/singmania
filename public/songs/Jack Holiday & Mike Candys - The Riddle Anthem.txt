@@ -1,0 +1,202 @@
+#ARTIST:Jack Holiday & Mike Candys
+#TITLE:The Riddle Anthem
+#MP3:Jack Holiday & Mike Candys - The Riddle Anthem.mp3
+#CREATOR:aac
+#GENRE:Dance & Electronic
+#YEAR:2012
+#LANGUAGE:English
+#BPM:254.25
+#GAP:71980
+#VIDEO:v=kaF4cFzdvQY,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/43/2f/d7/432fd7b6-eddf-d3ac-2459-f7b13cbbbe36/cover.jpg/5000x5000bb.jpg,bg=holiday-jack-54c6d3c90d689.jpg
+#START:10.0
+: 0 2 6 Near 
+: 4 2 8 a 
+: 8 6 9 tree 
+: 16 2 9 by 
+: 20 2 11 a 
+: 24 2 9 ri
+: 28 2 8 ver 
+- 31
+: 32 2 6 There’s 
+: 36 2 4 a 
+: 40 6 4 hole 
+: 48 2 6 in 
+: 52 2 8 the 
+: 56 6 8 ground 
+- 63
+: 64 3 6 Where 
+: 68 2 8 an 
+* 72 6 9 old 
+: 80 3 9 man 
+: 84 2 11 of 
+: 88 3 9 A
+: 92 2 8 ran 
+- 95
+: 96 3 6 Goes 
+: 100 2 4 a
+: 104 6 6 round 
+: 112 3 6 and 
+: 116 2 4 a
+: 120 6 4 round 
+- 127
+: 128 3 6 And 
+: 132 3 8 his 
+: 136 6 9 mind 
+: 144 3 9 is 
+: 148 2 11 a 
+: 152 3 9 bea
+: 156 3 8 con 
+- 160
+: 161 2 6 In 
+: 164 2 4 the 
+* 168 7 4 veil 
+: 176 3 6 of 
+: 180 2 8 the 
+: 184 6 8 night 
+- 191
+: 192 2 6 For 
+: 196 2 8 a 
+: 200 5 9 strange 
+: 208 3 9 kind 
+: 212 3 11 of 
+: 216 2 9 fa
+: 220 3 8 shion 
+- 224
+: 224 3 6 There’s 
+: 228 2 4 a 
+: 232 6 6 wrong 
+: 240 3 6 and 
+: 244 2 4 a 
+* 248 6 4 right 
+- 256
+: 257 2 6 Near 
+: 261 2 8 a 
+: 265 6 9 tree 
+: 273 2 9 by 
+: 277 2 11 a 
+: 281 2 9 ri
+: 285 2 8 ver 
+- 288
+: 289 2 6 There’s 
+: 293 2 4 a 
+: 297 6 4 hole 
+: 305 2 6 in 
+: 309 2 8 the 
+: 313 6 8 ground 
+- 320
+: 321 3 6 Where 
+: 325 2 8 an 
+* 329 6 9 old 
+: 337 3 9 man 
+: 341 2 11 of 
+: 345 3 9 A
+: 349 2 8 ran 
+- 352
+: 353 3 6 Goes 
+: 357 2 4 a
+* 361 6 6 round 
+: 369 3 6 and 
+: 373 2 4 a
+: 377 6 4 round 
+- 384
+: 385 3 6 And 
+: 389 3 8 his 
+: 393 6 9 mind 
+: 401 3 9 is 
+: 405 2 11 a 
+: 409 3 9 bea
+: 413 3 8 con 
+- 417
+: 418 2 6 In 
+: 421 2 4 the 
+* 425 7 4 veil 
+: 433 3 6 of 
+: 437 2 8 the 
+: 441 6 8 night 
+- 448
+: 449 2 6 For 
+: 453 2 8 a 
+: 457 5 9 strange 
+: 465 3 9 kind 
+: 469 3 11 of 
+: 473 2 9 fa
+: 477 3 8 shion 
+- 481
+: 481 3 6 There’s 
+: 485 2 4 a 
+: 489 6 6 wrong 
+: 497 3 6 and 
+: 501 2 4 a 
+* 505 6 4 right 
+- 513
+: 1088 2 6 Near 
+: 1092 2 8 a 
+: 1096 6 9 tree 
+: 1104 2 9 by 
+: 1108 2 11 a 
+: 1112 2 9 ri
+: 1116 2 8 ver 
+- 1119
+: 1120 2 6 There’s 
+: 1124 2 4 a 
+: 1128 6 4 hole 
+: 1136 2 6 in 
+: 1140 2 8 the 
+* 1144 6 8 ground 
+- 1151
+: 1152 3 6 Where 
+: 1156 2 8 an 
+: 1160 6 9 old 
+: 1168 3 9 man 
+: 1172 2 11 of 
+: 1176 3 9 A
+: 1180 2 8 ran 
+- 1183
+: 1184 3 6 Goes 
+: 1188 2 4 a
+* 1192 6 6 round 
+: 1200 3 6 and 
+: 1204 2 4 a
+: 1208 6 4 round 
+- 1215
+: 1216 3 6 And 
+: 1220 3 8 his 
+: 1224 6 9 mind 
+: 1232 3 9 is 
+: 1236 2 11 a 
+: 1240 3 9 bea
+: 1244 3 8 con 
+- 1248
+: 1249 2 6 In 
+: 1252 2 4 the 
+: 1256 7 4 veil 
+: 1264 3 6 of 
+* 1268 2 8 the 
+* 1272 6 8 night 
+- 1279
+: 1280 2 6 For 
+: 1284 2 8 a 
+: 1288 5 9 strange 
+: 1296 3 9 kind 
+: 1300 3 11 of 
+: 1304 2 9 fa
+: 1308 3 8 shion 
+- 1312
+: 1312 3 6 There’s 
+: 1316 2 4 a 
+: 1320 6 6 wrong 
+: 1328 3 6 and 
+: 1332 2 4 a 
+: 1336 6 4 right 
+- 1343
+: 1344 3 4 But 
+* 1348 3 16 he’ll 
+* 1352 4 14 ne
+* 1357 2 13 ver, 
+* 1360 3 11 ne
+* 1364 3 9 ver 
+* 1368 5 6 fight 
+: 1377 2 4 o
+: 1380 4 6 ver 
+: 1385 19 6 you 
+E

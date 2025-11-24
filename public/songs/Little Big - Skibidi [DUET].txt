@@ -1,0 +1,410 @@
+#ARTIST:Little Big
+#TITLE:Skibidi [DUET]
+#MP3:Little Big - Skibidi [DUET].mp3
+#CREATOR:GaryCXJk
+#EDITION:[DUET]-Songs
+#COVER:Little Big - Skibidi [DUET] [CO].jpg
+#BACKGROUND:Little Big - Skibidi [DUET] [BG].jpg
+#GENRE:Dance
+#YEAR:2018
+#LANGUAGE:English
+#BPM:528
+#GAP:19650
+#VIDEO:v=mDFBTdToRmw,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4b/c2/eb4bc227-6d23-6022-493b-47224ec01b61/190295595470.jpg/5000x5000bb.jpg,p1=P1,p2=P2
+P1
+: 0 6 9 I’m 
+: 8 10 9 cal
+: 20 6 4 ling, 
+: 32 6 9 I’m 
+: 40 10 9 cal
+: 52 6 4 ling 
+- 68
+: 80 6 9 Cal
+: 88 6 8 ling 
+: 96 6 9 on 
+: 104 6 8 you 
+: 112 4 9 to 
+: 120 5 9 say 
+- 126
+: 128 6 9 I 
+: 136 10 9 want 
+: 152 5 4 you, 
+: 160 6 9 I 
+: 168 10 9 want 
+: 184 5 4 you 
+- 199
+: 208 6 9 May
+: 216 6 8 be 
+: 224 7 9 all 
+: 232 7 8 night 
+: 240 6 9 till 
+: 248 7 8 day 
+- 255
+: 256 6 9 I 
+: 264 10 9 want 
+: 280 5 4 you, 
+: 288 6 9 I 
+: 296 10 9 want 
+: 312 5 4 you 
+- 327
+: 336 2 9 Dif
+: 340 2 9 ferent 
+: 344 5 9 towns 
+: 352 6 9 to 
+: 360 9 9 run 
+: 374 4 4 to 
+- 388
+: 392 4 9 Ba
+: 397 4 9 by 
+: 406 5 9 come 
+: 414 1 8 to 
+: 416 6 9 me, 
+* 432 4 9 ha-
+* 440 4 9 ha-
+* 448 4 9 ha 
+- 454
+: 456 4 9 Give 
+: 461 3 9 it 
+: 469 5 9 all 
+: 477 2 9 to 
+: 480 5 9 me 
+- 555
+: 1536 6 9 I’m 
+: 1544 10 9 fal
+: 1556 6 4 ling, 
+: 1568 6 9 I’m 
+: 1576 10 9 fal
+: 1588 6 4 ling 
+- 1604
+: 1616 6 9 Wai
+: 1624 6 8 ting 
+: 1632 6 9 for 
+: 1640 6 8 you 
+: 1648 4 9 to 
+: 1656 5 9 say 
+- 1662
+: 1664 6 9 I 
+: 1672 10 9 want 
+: 1688 5 4 you, 
+: 1696 6 9 I 
+: 1704 10 9 want 
+: 1720 5 4 you 
+- 1735
+: 1744 6 9 May
+: 1752 7 9 be 
+: 1760 4 9 like 
+: 1768 4 8 horse 
+: 1776 3 9 loves 
+: 1784 5 9 hay 
+- 1790
+: 1792 6 9 I 
+: 1800 10 9 want 
+: 1816 5 4 you, 
+: 1824 6 9 I 
+: 1832 10 9 want 
+: 1848 5 4 you 
+- 1863
+: 1872 5 8 To
+: 1880 3 9 get
+: 1884 3 9 her 
+: 1888 6 9 like 
+: 1896 9 9 one 
+: 1910 4 4 two 
+- 1924
+: 1928 4 9 Ba
+: 1933 4 9 by 
+: 1942 5 9 come 
+: 1950 1 8 to 
+: 1952 6 9 me, 
+: 1968 4 9 right 
+: 1976 4 9 now, 
+: 1984 4 9 now 
+- 1990
+* 1992 4 9 Give 
+* 1997 3 9 it 
+* 2005 5 9 all 
+* 2013 2 9 to 
+* 2016 5 9 me 
+P2
+R 505 3 10 Ski
+R 509 3 10 bi
+R 513 6 9 di 
+R 520 4 9 wap-
+R 528 4 9 pa-
+R 536 8 9 pa 
+- 554
+R 569 3 9 Ski
+R 573 3 9 bi
+R 577 6 9 di 
+R 584 4 9 wap-
+R 592 4 9 pa-
+R 600 4 9 pa-
+R 608 4 9 pa-
+R 616 8 9 pa 
+- 630
+R 633 3 9 Ski
+R 637 3 9 bi
+R 641 6 9 di 
+R 648 4 9 wap-
+R 656 4 8 pa-
+R 664 4 9 pa-
+R 672 4 9 pa-
+R 680 4 9 pa-
+R 688 4 9 pa-
+R 696 4 9 pa-
+R 704 4 9 pa-
+R 712 4 9 pa 
+- 719
+R 721 3 9 Ski
+R 725 3 9 bi
+R 729 6 9 di 
+R 736 4 9 pa-
+R 744 9 9 pa 
+- 759
+R 761 3 10 Ski
+R 765 3 10 bi
+R 769 6 9 di 
+R 777 11 3 boom-
+R 792 11 3 boom, 
+R 809 8 11 ay 
+- 823
+R 825 3 4 Ski
+R 829 3 4 bi
+R 833 6 4 di 
+R 840 7 8 boom-
+R 848 7 7 boom-
+R 856 7 6 boom-
+R 864 7 4 boom, 
+R 872 10 11 ay 
+- 887
+R 889 3 4 Ski
+R 893 3 4 bi
+R 897 6 4 di 
+R 904 7 4 boom-
+R 912 7 4 boom-
+R 920 7 4 boom-
+R 928 7 4 boom-
+R 936 7 4 boom-
+R 944 4 4 pa-
+R 952 4 4 pa-
+R 960 7 4 boom-
+R 968 5 4 boom 
+- 975
+G 977 3 4 Ski
+G 981 3 4 bi
+G 985 6 4 di 
+G 992 4 9 pa-
+G 1000 7 9 pa 
+- 1042
+R 1145 8 11 Ay! 
+- 1223
+R 1400 9 11 Ay! 
+- 1479
+R 2041 3 10 Ski
+R 2045 3 10 bi
+R 2049 6 9 di 
+R 2056 4 9 wap-
+R 2064 4 9 pa-
+R 2072 8 9 pa 
+- 2090
+R 2105 3 9 Ski
+R 2109 3 9 bi
+R 2113 6 9 di 
+R 2120 4 9 wap-
+R 2128 4 9 pa-
+R 2136 4 9 pa-
+R 2144 4 9 pa-
+R 2152 8 9 pa 
+- 2166
+R 2169 3 9 Ski
+R 2173 3 9 bi
+R 2177 6 9 di 
+R 2184 4 9 wap-
+R 2192 4 8 pa-
+R 2200 4 9 pa-
+R 2208 4 9 pa-
+R 2216 4 9 pa-
+R 2224 4 9 pa-
+R 2232 4 9 pa-
+R 2240 4 9 pa-
+R 2248 4 9 pa 
+- 2255
+R 2257 3 9 Ski
+R 2261 3 9 bi
+R 2265 6 9 di 
+R 2272 4 9 pa-
+R 2280 9 9 pa 
+- 2295
+R 2297 3 10 Ski
+R 2301 3 10 bi
+R 2305 6 9 di 
+R 2313 11 3 boom-
+R 2328 11 3 boom, 
+R 2345 8 11 ay 
+- 2359
+R 2361 3 4 Ski
+R 2365 3 4 bi
+R 2369 6 4 di 
+R 2376 7 8 boom-
+R 2384 7 7 boom-
+R 2392 7 6 boom-
+R 2400 7 4 boom, 
+R 2408 10 11 ay 
+- 2423
+R 2425 3 4 Ski
+R 2429 3 4 bi
+R 2433 6 4 di 
+R 2440 7 4 boom-
+R 2448 7 4 boom-
+R 2456 7 4 boom-
+R 2464 7 4 boom-
+R 2472 7 4 boom-
+R 2480 4 4 pa-
+R 2488 4 4 pa-
+R 2496 7 4 boom-
+R 2504 5 4 boom 
+- 2511
+R 2513 3 4 Ski
+R 2517 3 4 bi
+R 2521 6 4 di 
+R 2528 4 9 pa-
+R 2536 7 9 pa 
+- 2613
+R 4897 3 10 Ski
+R 4901 3 10 bi
+R 4905 6 9 di 
+R 4912 4 9 wap-
+R 4920 4 9 pa-
+R 4928 8 9 pa 
+- 4946
+R 4961 3 9 Ski
+R 4965 3 9 bi
+R 4969 6 9 di 
+R 4976 4 9 wap-
+R 4984 4 9 pa-
+R 4992 4 9 pa-
+R 5000 4 9 pa-
+R 5008 8 9 pa 
+- 5022
+R 5025 3 9 Ski
+R 5029 3 9 bi
+R 5033 6 9 di 
+R 5040 4 9 wap-
+R 5048 4 8 pa-
+R 5056 4 9 pa-
+R 5064 4 9 pa-
+R 5072 4 9 pa-
+R 5080 4 9 pa-
+R 5088 4 9 pa-
+R 5096 4 9 pa-
+R 5104 4 9 pa 
+- 5111
+R 5113 3 9 Ski
+R 5117 3 9 bi
+R 5121 6 9 di 
+R 5128 4 9 pa-
+R 5136 9 9 pa 
+- 5151
+R 5153 3 10 Ski
+R 5157 3 10 bi
+R 5161 6 9 di 
+R 5169 11 3 boom-
+R 5184 11 3 boom, 
+R 5201 8 11 ay 
+- 5215
+R 5217 3 4 Ski
+R 5221 3 4 bi
+R 5225 6 4 di 
+R 5232 7 8 boom-
+R 5240 7 7 boom-
+R 5248 7 6 boom-
+R 5256 7 4 boom, 
+R 5264 10 11 ay 
+- 5279
+R 5281 3 4 Ski
+R 5285 3 4 bi
+R 5289 6 4 di 
+R 5296 7 4 boom-
+R 5304 7 4 boom-
+R 5312 7 4 boom-
+R 5320 7 4 boom-
+R 5328 7 4 boom-
+R 5336 4 4 pa-
+R 5344 4 4 pa-
+R 5352 7 4 boom-
+R 5360 5 4 boom 
+- 5367
+R 5369 3 4 Ski
+R 5373 3 4 bi
+R 5377 6 4 di 
+R 5384 4 9 pa-
+R 5392 7 9 pa 
+- 5406
+R 5409 3 10 Ski
+R 5413 3 10 bi
+R 5417 6 9 di 
+R 5424 4 9 wap-
+R 5432 4 9 pa-
+R 5440 8 9 pa 
+- 5458
+R 5473 3 9 Ski
+R 5477 3 9 bi
+R 5481 6 9 di 
+R 5488 4 9 wap-
+R 5496 4 9 pa-
+R 5504 4 9 pa-
+R 5512 4 9 pa-
+R 5520 8 9 pa 
+- 5534
+R 5537 3 9 Ski
+R 5541 3 9 bi
+R 5545 6 9 di 
+R 5552 4 9 wap-
+R 5560 4 8 pa-
+R 5568 4 9 pa-
+R 5576 4 9 pa-
+R 5584 4 9 pa-
+R 5592 4 9 pa-
+R 5600 4 9 pa-
+R 5608 4 9 pa-
+R 5616 4 9 pa 
+- 5623
+R 5625 3 9 Ski
+R 5629 3 9 bi
+R 5633 6 9 di 
+R 5640 4 9 pa-
+R 5648 9 9 pa 
+- 5663
+R 5665 3 10 Ski
+R 5669 3 10 bi
+R 5673 6 9 di 
+R 5681 11 3 boom-
+R 5696 11 3 boom, 
+R 5713 8 11 ay 
+- 5727
+R 5729 3 4 Ski
+R 5733 3 4 bi
+R 5737 6 4 di 
+R 5744 7 8 boom-
+R 5752 7 7 boom-
+R 5760 7 6 boom-
+R 5768 7 4 boom, 
+R 5776 10 11 ay 
+- 5791
+R 5793 3 4 Ski
+R 5797 3 4 bi
+R 5801 6 4 di 
+R 5808 7 4 boom-
+R 5816 7 4 boom-
+R 5824 7 4 boom-
+R 5832 7 4 boom-
+R 5840 7 4 boom-
+R 5848 4 4 pa-
+R 5856 4 4 pa-
+R 5864 7 4 boom-
+R 5872 5 4 boom 
+- 5879
+G 5881 3 4 Ski
+G 5885 3 4 bi
+G 5889 6 4 di 
+E

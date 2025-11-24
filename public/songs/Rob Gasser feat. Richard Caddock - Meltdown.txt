@@ -1,0 +1,493 @@
+#ARTIST:Rob Gasser feat. Richard Caddock
+#TITLE:Meltdown
+#MP3:Rob Gasser feat. Richard Caddock - Meltdown.mp3
+#CREATOR:Goldstorm
+#COVER:Rob Gasser feat. Richard Caddock - Meltdown [CO].jpg
+#BACKGROUND:Rob Gasser feat. Richard Caddock - Meltdown [BG].jpg
+#GENRE:DNB
+#YEAR:2014
+#LANGUAGE:English
+#BPM:348
+#GAP:22980
+#VIDEO:v=JVL7NsS9-ZQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/1d/d9/f5/1dd9f590-a5ea-ef86-52f9-be7fa6ea27a1/CH004.jpg/5000x5000bb.jpg
+: 0 7 -7 Each 
+: 8 6 -4 step 
+: 16 5 -7 that 
+: 22 7 0 I 
+: 30 8 -3 take 
+- 40
+: 72 5 5 You 
+: 78 5 4 fi
+: 84 7 2 re 
+: 92 3 0 aw
+: 96 9 -3 ay
+: 106 14 -5 ~ 
+- 122
+: 124 3 -7 The 
+: 128 7 -7 glass 
+: 136 5 -5 un
+: 142 3 -7 der 
+: 146 7 -7 my 
+: 154 7 0 feet 
+: 162 14 -3 breaks 
+- 178
+: 192 7 -10 And 
+: 200 7 2 I 
+: 208 13 0 start 
+: 222 15 -3 fal
+: 238 10 -5 ling 
+- 250
+: 254 7 -7 We’ve 
+: 262 7 -5 stood 
+: 270 7 -7 face 
+: 278 7 0 to 
+: 286 12 -3 face 
+- 300
+: 318 7 -10 You’re 
+: 326 9 5 try 
+: 336 1 4 na 
+: 338 11 2 make 
+: 350 3 0 me 
+: 354 18 -5 stay 
+- 374
+: 384 7 -5 The 
+: 392 5 -3 ash 
+: 398 7 0 from 
+: 406 9 -3 your 
+: 416 9 0 burn
+: 426 9 2 ing 
+: 436 8 2 stare 
+- 446
+: 448 7 4 Is 
+: 456 7 5 keep
+: 464 1 4 ing 
+: 466 7 5 me 
+: 474 7 0 from 
+* 482 15 5 stal
+* 498 18 7 ling 
+- 518
+: 526 8 -10 Picked 
+: 536 4 -5 up 
+: 542 4 -3 the 
+: 548 9 -3 pace 
+: 558 7 -10 no 
+: 566 7 -5 where 
+: 574 3 -3 to 
+: 578 6 -3 go 
+- 586
+: 590 6 -10 Make 
+: 598 6 -5 my 
+: 606 5 -3 heart 
+: 612 7 -3 race 
+: 620 4 0 my 
+* 626 3 2 re
+* 630 6 2 act
+* 638 3 -7 ions 
+* 642 6 -7 slow 
+- 650
+: 654 9 -10 Cre
+: 664 5 -5 a
+: 670 3 -3 ting 
+: 674 9 -3 space 
+: 684 3 -10 you’re 
+: 688 3 -10 pul
+: 692 3 -5 ling 
+: 696 3 0 me 
+: 700 3 0 back 
+: 704 3 -3 into
+: 708 9 -5 ~ 
+: 718 3 -3 the 
+: 722 6 -3 fight 
+- 729
+: 730 2 5 I 
+: 734 5 5 try 
+: 740 1 7 to 
+: 742 3 12 an
+: 746 3 9 chor 
+: 750 5 7 so 
+: 756 5 5 we 
+* 762 9 17 don’t 
+* 772 8 14 drown 
+- 782
+: 784 4 -10 You 
+: 790 9 -5 drew 
+: 800 3 -3 the 
+: 804 6 -3 line 
+: 812 3 -10 that 
+: 816 3 -10 cros
+: 820 3 -10 ses 
+: 824 7 -5 over
+: 832 1 -3 ~ 
+: 834 8 -3 mine 
+- 844
+: 846 1 0 And 
+: 848 3 -10 I 
+: 852 3 -7 can 
+: 856 7 -5 feel 
+: 864 3 -3 the 
+: 868 6 -3 fric
+: 876 3 -3 tion 
+: 880 3 0 bol
+: 884 3 0 ting 
+: 888 3 2 through 
+* 892 5 5 our 
+* 898 14 7 minds 
+- 913
+: 914 1 2 You 
+: 916 3 2 can’t 
+: 920 5 7 stop 
+: 926 5 9 me 
+: 932 3 9 from 
+: 936 7 9 ru
+: 944 11 7 nning 
+- 956
+: 956 1 2 I 
+: 958 5 2 need 
+: 964 3 2 to 
+: 968 4 7 stop 
+: 976 4 7 stop 
+: 984 4 7 stop 
+- 990
+: 992 4 7 Stop 
+: 1000 4 7 stop 
+: 1006 6 9 this 
+* 1014 9 7 melt-
+* 1024 3 5 down
+* 1028 6 2 ~ 
+- 1036
+: 1244 1 2 I 
+: 1246 4 2 need 
+: 1252 3 2 to 
+: 1256 4 7 stop 
+: 1264 5 9 this 
+: 1270 9 7 melt-
+: 1280 3 5 down
+: 1284 6 2 ~ 
+- 1292
+* 1542 2 12 We 
+* 1546 7 9 are, 
+* 1554 2 12 we 
+* 1558 9 9 are 
+- 1568
+: 1568 3 7 The 
+: 1572 7 7 Sparks 
+: 1580 7 5 that 
+: 1588 9 7 fill 
+: 1598 3 5 the 
+: 1602 9 7 sky 
+: 1612 5 9 with 
+: 1618 6 7 fire 
+- 1626
+: 1630 3 7 And 
+: 1634 3 5 you’re 
+: 1638 3 7 ready
+: 1642 6 9 ~ 
+: 1650 7 7 to 
+: 1658 5 5 re-
+: 1664 4 2 load 
+- 1670
+: 1672 7 12 We 
+: 1680 7 9 cause 
+: 1688 5 7 a 
+: 1694 5 5 re
+: 1700 7 7 act
+: 1708 3 9 ion 
+: 1712 7 9 that’s 
+: 1720 7 7 gonna 
+: 1728 5 2 ex
+: 1734 12 2 plode 
+- 1748
+: 1762 3 2 And 
+: 1766 4 7 I’m 
+: 1772 3 7 cal
+: 1776 3 9 ling 
+: 1780 7 5 melt
+: 1788 6 2 down- 
+- 1796
+* 1800 3 12 I’ve 
+* 1804 7 9 been, 
+* 1812 3 12 I’ve 
+* 1816 7 9 been 
+- 1824
+: 1824 3 2 Kee
+: 1828 7 2 ping 
+: 1836 5 5 my 
+: 1842 13 7 hands 
+: 1856 1 5 a
+: 1858 9 7 way 
+: 1868 3 5 from 
+: 1872 3 9 the 
+: 1876 11 7 edge 
+- 1888
+: 1888 3 7 I 
+: 1892 5 7 can’t 
+: 1898 5 7 keep 
+: 1904 5 9 my 
+: 1910 9 10 head 
+: 1920 12 5 clear 
+- 1934
+: 1936 7 0 You 
+: 1944 7 7 tear 
+: 1952 15 7 away 
+: 1968 11 5 from 
+: 1980 5 0 this 
+: 1986 7 12 at
+: 1994 6 9 mos-
+: 2004 12 7 phere 
+- 2017
+: 2018 3 5 And 
+: 2022 4 7 I’m 
+: 2028 3 7 cal
+: 2032 3 7 ling 
+: 2036 5 5 melt-
+: 2042 12 2 down 
+- 2056
+: 2300 3 2 Get
+: 2304 7 2 ting 
+: 2312 7 9 lost 
+: 2320 7 7 in 
+: 2328 5 12 the 
+: 2334 10 9 dark 
+- 2346
+: 2376 5 17 You 
+: 2382 3 16 be
+: 2386 11 14 come 
+: 2398 1 12 the 
+: 2400 11 9 sha-
+: 2412 12 7 dow 
+- 2426
+: 2432 3 5 And 
+: 2436 1 7 the 
+: 2438 7 9 si
+: 2446 7 9 lence 
+: 2454 9 9 gives 
+: 2464 1 5 the 
+: 2466 9 7 col
+: 2476 5 9 dest 
+: 2482 7 9 feeling
+: 2490 5 5 ~ 
+- 2496
+: 2496 3 5 When 
+: 2500 1 5 there’s 
+: 2502 9 14 some
+: 2512 3 12 thing 
+: 2516 5 12 I 
+: 2522 9 9 don’t 
+: 2532 12 7 know 
+- 2546
+: 2564 1 2 I’d 
+: 2566 3 7 ra
+: 2570 5 9 ther 
+: 2576 12 9 save 
+: 2592 3 2 my 
+: 2596 1 2 own 
+: 2598 5 7 skin 
+: 2604 7 9 and 
+: 2612 8 9 leave 
+- 2622
+: 2626 5 2 And 
+: 2632 7 17 keep 
+: 2640 5 14 the 
+: 2646 5 12 da
+: 2652 7 9 mage 
+* 2660 7 9 low
+* 2668 19 7 ~ 
+- 2688
+: 2688 1 0 As 
+: 2690 3 0 your 
+: 2694 7 0 cat
+: 2702 9 0 ching 
+: 2712 3 2 up 
+: 2716 7 2 on 
+: 2724 8 2 me 
+- 2734
+: 2742 9 4 All 
+: 2752 3 4 the 
+: 2756 11 5 Sparks 
+: 2768 3 4 be
+: 2772 11 5 gin 
+: 2784 1 4 to 
+* 2786 23 7 glow
+* 2810 12 5 ~ 
+- 2824
+: 2832 6 2 Picked 
+: 2840 6 7 up 
+: 2848 3 9 the 
+: 2852 6 9 pace 
+: 2862 1 2 with 
+: 2864 5 2 no 
+: 2870 9 7 where 
+: 2880 3 9 to 
+: 2884 6 9 go 
+- 2892
+: 2896 7 2 Make 
+: 2904 7 7 my 
+: 2912 3 9 heart 
+: 2916 7 9 race 
+: 2924 3 9 but 
+: 2928 3 12 my 
+: 2932 3 14 re
+: 2936 3 14 ac
+: 2940 6 7 tions 
+: 2948 6 5 slow 
+- 2956
+: 2964 3 2 Cre
+: 2968 9 7 ating 
+: 2978 7 9 space 
+: 2986 5 5 you’re 
+: 2992 3 2 pul
+: 2996 3 2 ling 
+: 3000 3 12 me 
+: 3004 3 10 back 
+: 3008 3 7 in 
+: 3012 11 7 to 
+: 3024 3 9 the 
+: 3028 6 9 fight 
+- 3035
+: 3036 1 5 I 
+: 3038 5 5 try 
+: 3044 3 7 to 
+: 3048 3 12 an
+: 3052 1 9 chor 
+: 3054 5 5 so 
+: 3060 7 2 we 
+: 3068 7 17 don’t 
+: 3076 8 14 drown 
+- 3086
+: 3092 1 2 You 
+: 3094 9 2 drew 
+: 3104 3 7 the 
+: 3108 9 9 line 
+: 3118 1 2 that 
+: 3120 3 2 cros
+: 3124 3 2 ses 
+: 3128 7 7 o
+: 3136 3 9 ver
+: 3140 8 9 mine 
+- 3150
+: 3152 1 2 And 
+: 3154 1 2 I 
+: 3156 1 2 can 
+: 3158 9 7 feel 
+: 3168 3 9 the 
+: 3172 3 9 fri
+: 3176 7 9 ction 
+: 3184 3 12 bol
+: 3188 3 14 ting 
+: 3192 3 14 through 
+* 3196 7 17 our 
+* 3204 12 19 minds 
+- 3217
+: 3218 1 14 You 
+: 3220 3 14 can’t 
+: 3224 3 19 stop 
+: 3228 7 19 me 
+: 3236 3 21 from 
+: 3240 7 21 ru-
+: 3248 8 19 nning 
+- 3258
+: 3260 1 14 I 
+: 3262 5 14 need 
+: 3268 2 14 to 
+: 3272 4 19 stop 
+: 3280 4 19 Stop 
+- 3286
+: 3288 4 19 Stop 
+: 3296 4 19 Stop 
+: 3304 4 19 stop 
+- 3309
+: 3310 6 21 This 
+: 3318 7 19 melt-
+: 3326 3 17 down
+: 3330 4 14 ~ 
+- 3336
+: 3546 3 2 I 
+: 3550 4 2 need 
+: 3556 3 2 to 
+: 3560 4 7 stop 
+: 3568 4 7 this 
+* 3574 9 7 melt-
+* 3584 3 5 down
+* 3588 6 2 ~ 
+- 3596
+* 3846 2 12 We 
+* 3850 7 9 are, 
+* 3858 2 12 we 
+* 3862 9 9 are 
+- 3872
+: 3872 3 7 The 
+: 3876 7 7 Sparks 
+: 3884 4 5 that 
+: 3890 13 7 fill 
+: 3904 3 5 the 
+: 3908 7 7 sky 
+: 3916 7 9 with 
+: 3924 8 7 fire 
+- 3933
+: 3934 1 7 And 
+: 3936 1 5 you’re 
+: 3938 3 7 re
+: 3942 9 9 ady 
+: 3952 11 7 to 
+: 3964 3 5 re-
+: 3968 4 2 load 
+- 3974
+: 3976 7 12 We 
+: 3984 7 9 cause 
+: 3992 7 7 a 
+: 4000 3 5 re
+: 4004 5 7 ac
+: 4010 8 9 tion 
+: 4020 3 9 that’s 
+: 4024 3 9 gonna
+: 4028 3 7 ~ 
+: 4032 5 2 ex-
+: 4038 6 2 plode 
+- 4046
+: 4064 3 2 And 
+: 4068 7 7 I’m 
+: 4076 3 7 cal
+: 4080 3 9 ling 
+* 4084 7 7 melt-
+* 4092 3 5 down
+* 4096 6 2 ~ 
+- 4103
+* 4104 3 12 I’ve 
+* 4108 7 9 been, 
+* 4116 3 12 I’ve 
+* 4120 7 9 been 
+- 4128
+: 4128 3 2 Kee
+: 4132 7 2 ping 
+: 4140 5 5 my 
+: 4146 13 7 hands 
+: 4160 3 5 away
+: 4164 7 7 ~ 
+: 4172 3 5 from 
+: 4176 3 9 the 
+: 4180 8 7 edge 
+- 4190
+: 4192 3 7 I 
+: 4196 3 7 can’t 
+: 4200 7 7 keep 
+: 4208 7 9 my 
+: 4216 7 10 head 
+: 4224 10 5 clear 
+- 4236
+: 4240 7 0 You 
+: 4248 7 7 tear 
+: 4256 3 9 away
+: 4260 11 7 ~ 
+: 4272 11 5 from 
+: 4284 7 0 this 
+: 4292 6 12 at
+: 4300 6 9 mos-
+: 4308 12 7 phere 
+- 4322
+: 4324 3 7 And 
+: 4328 3 7 I’m 
+: 4332 7 9 calling 
+: 4340 5 7 melt 
+: 4346 3 5 do
+: 4350 8 2 ~wn 
+E

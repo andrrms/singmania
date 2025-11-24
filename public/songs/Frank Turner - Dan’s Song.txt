@@ -1,0 +1,351 @@
+#ARTIST:Frank Turner
+#TITLE:Dan’s Song
+#MP3:Frank Turner - Dan’s Song.mp3
+#CREATOR:Kintaro84
+#YEAR:2009
+#LANGUAGE:English
+#BPM:233.03
+#GAP:2430
+#VIDEO:a=MtRBsMqt1N8,co=last-minutes-and-lost-evenings-55be8ce3efb2d.jpg,bg=turner-frank-61576f6082896.jpg
+: 0 2 16 Me 
+: 4 1 16 and 
+: 6 3 16 my 
+: 11 3 11 friend 
+: 16 2 11 Dan 
+: 20 1 9 are 
+: 23 1 8 going 
+: 25 2 8 to 
+: 29 2 15 get 
+: 34 3 15 some 
+: 39 3 15 beers 
+- 42
+: 44 1 11 And 
+: 47 2 11 then 
+: 51 2 9 we’re 
+: 55 1 8 going 
+: 57 1 8 to 
+: 60 4 13 go 
+: 66 4 13 down 
+: 72 1 11 to 
+: 74 1 11 the 
+: 76 4 11 park 
+- 80
+: 82 1 9 And 
+: 85 3 8 drink 
+: 90 1 9 them 
+: 93 3 11 there. 
+- 106
+: 121 2 8 We’ll 
+: 125 3 16 bask 
+: 130 1 16 out 
+: 133 1 16 in 
+: 137 1 11 the 
+: 140 3 11 sun, 
+- 145
+: 147 1 9 Bring 
+: 149 1 8 a 
+: 151 1 8 gui
+: 154 4 15 tar 
+: 160 2 15 and 
+: 164 2 15 play 
+: 168 2 11 some 
+: 171 6 11 songs, 
+- 177
+: 179 1 9 Call 
+: 181 1 8 up 
+: 183 1 8 our 
+: 187 6 13 friends 
+: 198 1 13 and 
+: 200 1 13 in
+: 203 3 11 vite 
+: 208 1 11 them 
+: 210 3 8 out 
+: 215 1 8 to 
+: 218 6 11 share. 
+- 225
+: 227 2 20 What 
+: 231 2 20 might 
+: 235 3 18 be
+: 239 2 15 ~ 
+: 243 1 15 the 
+: 245 4 15 last 
+: 251 2 16 wee
+: 255 2 16 kend 
+: 259 2 16 of 
+: 263 1 13 the 
+: 266 2 11 sum
+: 269 2 16 mer, 
+- 273
+: 275 2 8 ’Cause 
+: 279 1 8 Sep
+: 282 3 9 tem
+: 287 2 9 ber’s 
+: 291 1 9 get
+: 293 1 9 ting 
+: 296 4 11 col
+: 302 2 11 der 
+: 307 1 8 as 
+: 309 1 9 it 
+: 312 7 11 goes. 
+- 329
+: 338 1 8 And 
+: 341 2 8 we 
+: 345 3 9 ha
+: 350 1 9 ven’t 
+: 353 1 9 done 
+: 356 2 9 e
+: 360 5 11 nough 
+- 367
+: 369 1 8 Of 
+: 373 2 8 this 
+: 377 2 9 sim
+: 381 2 9 ple 
+: 385 2 13 kind 
+: 389 1 15 of 
+: 393 3 16 stuff. 
+- 396
+: 398 2 8 This 
+: 402 2 8 year 
+: 406 1 9 it’s 
+: 409 2 9 clear, 
+: 413 2 9 we’re 
+: 418 1 9 get
+: 420 1 9 ting 
+: 423 4 11 ol
+: 429 2 9 der 
+: 433 1 8 and 
+: 435 1 6 it 
+: 440 7 4 shows. 
+- 462
+: 500 3 16 Well 
+: 504 3 16 work 
+: 509 2 16 weeks 
+: 513 2 16 make 
+: 517 1 11 us 
+: 521 1 11 wea
+: 525 1 9 ry 
+: 527 4 8 now 
+- 531
+: 533 1 8 And 
+: 537 5 15 school’s 
+: 544 1 15 a 
+: 546 1 15 dis
+: 549 2 11 tant 
+: 553 2 11 me
+: 556 2 9 mo
+: 559 3 8 ry 
+- 562
+: 563 1 8 And 
+: 565 1 8 it’s 
+: 569 1 13 ea
+: 573 2 13 sy 
+: 577 1 13 to 
+: 580 4 13 ask 
+: 585 2 11 ques
+: 589 2 11 tions 
+: 593 1 11 of 
+: 595 1 8 ou
+: 597 1 9 r
+: 600 9 11 selves. 
+- 619
+: 629 2 8 Like, 
+: 633 2 16 where 
+: 637 1 16 it 
+: 639 3 16 is 
+: 645 2 11 we’re 
+: 649 2 11 go
+: 652 1 9 ing 
+: 655 4 8 now 
+- 661
+: 663 1 8 And 
+: 665 2 15 what 
+: 669 2 15 we 
+: 674 2 15 have 
+: 678 1 11 to 
+: 681 7 11 show 
+- 688
+: 689 1 9 For 
+: 691 2 8 all 
+: 694 1 4 the 
+: 698 2 13 sun
+: 701 1 13 ny 
+: 704 5 13 days 
+: 714 2 11 shut 
+: 718 1 11 up 
+: 721 1 8 in 
+: 724 2 9 the 
+: 728 5 11 shells. 
+- 735
+: 737 1 11 Of 
+: 739 1 20 ex
+: 742 2 20 pec
+: 746 1 18 ta
+: 750 4 15 tions 
+: 755 1 15 of 
+: 757 3 15 our 
+: 762 2 16 ul
+: 766 1 16 ti
+: 769 1 16 mate 
+: 772 2 13 di
+: 776 2 11 rec
+: 779 5 16 tions 
+- 787
+: 789 1 8 And 
+: 791 1 9 the 
+: 793 3 11 sta
+: 797 3 11 tions 
+: 801 2 8 that 
+: 806 1 9 we 
+: 809 3 11 should 
+: 813 1 11 have 
+: 816 3 8 reached 
+: 822 2 9 by 
+: 826 5 11 now. 
+- 841
+: 850 2 8 When 
+: 854 3 8 we 
+: 859 2 9 ha
+: 863 2 9 ven’t 
+: 867 2 9 read 
+: 871 1 9 the 
+: 875 4 11 script 
+- 881
+: 883 1 8 And 
+: 885 2 9 our 
+: 890 3 11 ten
+: 895 2 11 der 
+: 899 3 13 wings 
+: 904 2 15 are 
+: 907 3 16 clip 
+- 910
+: 912 1 8 And 
+: 915 1 8 yeah 
+: 918 2 8 we’re 
+: 922 5 9 scared 
+- 927
+: 929 1 9 We 
+: 931 2 9 might 
+: 936 1 9 be 
+: 940 1 11 let
+: 943 1 9 ting 
+: 948 1 8 some
+: 951 4 6 one 
+: 956 6 4 down. 
+- 993
+: 1219 2 16 Lis
+: 1223 2 16 ten 
+: 1228 1 16 to 
+: 1230 2 11 these 
+: 1235 4 11 heart
+: 1240 2 9 break 
+: 1244 7 8 songs 
+- 1251
+: 1252 1 4 When 
+: 1256 1 15 no
+: 1259 3 15 thing’s 
+: 1265 2 15 real
+: 1268 1 11 ly 
+: 1271 5 11 wrong 
+- 1279
+: 1281 1 8 And 
+: 1283 1 8 than 
+: 1285 1 8 we 
+: 1287 6 13 smile 
+: 1294 2 13 when 
+: 1298 1 13 we’re 
+: 1300 3 11 asked 
+- 1304
+: 1306 1 11 And 
+: 1308 1 11 we 
+: 1310 1 8 say 
+: 1313 1 9 that 
+: 1315 1 8 we
+: 1317 1 9 ~’re 
+: 1319 5 11 fine. 
+- 1334
+: 1345 1 4 But 
+: 1347 2 4 we’re 
+: 1351 3 16 drif
+: 1356 2 16 ting 
+: 1360 3 16 through 
+: 1364 1 11 our 
+: 1369 1 11 mid
+: 1371 2 9 dle 
+: 1375 4 8 days 
+- 1379
+: 1381 1 8 And 
+: 1383 4 15 cree
+: 1388 2 15 ping 
+: 1392 2 15 in
+: 1396 1 11 to 
+: 1401 1 11 mid
+: 1403 2 9 dle 
+: 1407 4 8 age 
+- 1411
+: 1413 1 9 And 
+: 1417 3 13 set
+: 1421 2 13 ting 
+: 1425 1 13 in 
+: 1428 1 13 our 
+: 1432 5 11 wayings. 
+- 1437
+: 1439 1 8 But 
+: 1442 3 8 now 
+: 1447 2 9 it’s 
+: 1451 6 11 time 
+: 1459 1 20 to 
+: 1461 1 20 de
+: 1464 4 18 ci
+: 1469 2 15 de. 
+- 1473
+: 1475 1 15 Now 
+: 1478 2 15 it’s 
+: 1481 4 16 time 
+: 1487 1 16 and 
+: 1490 3 16 draw 
+: 1496 1 13 a 
+: 1498 4 11 line 
+: 1508 1 8 in 
+: 1511 1 8 the 
+: 1513 7 9 sand 
+- 1521
+: 1523 1 9 And 
+: 1525 2 9 ask 
+: 1529 2 9 what’s 
+: 1533 2 11 more 
+: 1537 2 11 im
+: 1541 2 8 por
+: 1545 2 9 tant 
+: 1549 6 11 than 
+- 1555
+: 1557 7 20 Days 
+: 1566 6 18 like 
+: 1574 5 15 to
+: 1581 3 16 day? 
+- 1588
+: 1590 1 16 So 
+: 1592 1 20 grab 
+: 1596 3 16 some 
+: 1600 4 18 beers, 
+- 1606
+: 1608 3 16 Call 
+: 1612 3 18 your 
+: 1617 3 20 friends 
+: 1622 2 20 and 
+: 1626 2 18 meet 
+: 1630 3 20 us 
+: 1635 5 16 here. 
+- 1644
+: 1646 1 15 In 
+: 1648 1 15 the 
+: 1651 2 16 sum
+: 1655 2 16 mer 
+: 1659 5 16 park 
+- 1664
+: 1666 3 16 With 
+: 1671 1 18 me 
+: 1675 1 18 and 
+: 1677 3 16 my 
+: 1682 5 15 friend 
+* 1689 9 16 Dan. 
+E

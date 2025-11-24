@@ -1,0 +1,221 @@
+#ARTIST:Jim Croce
+#TITLE:I’ll Have To Say I Love You In A Song
+#MP3:Jim Croce - I’ll Have To Say I Love You In A Song.mp3
+#CREATOR:diver66
+#YEAR:1971
+#LANGUAGE:English
+#BPM:269.5
+#GAP:8260
+#VIDEO:v=ZJtzmj2QQac,co=https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2012/1/11/f/0/e/pdf_f0e67fb0-1e90-012f-b153-0050569439b1.jpg,bg=croce-jim-5f073099d2a9d.jpg
+F 0 5 -1 Well, 
+: 6 2 -1 I 
+: 9 9 1 know 
+: 19 6 4 it’s 
+: 26 7 4 kin
+: 34 3 6 da 
+: 39 9 4 late, 
+- 50
+: 80 3 -8 I 
+: 84 3 2 hope 
+: 88 3 1 I 
+: 92 4 -1 did
+: 97 4 1 n’t 
+: 102 8 1 wake 
+: 111 5 -1 you 
+- 118
+: 126 3 -8 But 
+: 130 5 -3 what 
+: 136 3 -1 I’ve 
+: 140 6 1 got
+: 147 2 4 ta 
+: 150 9 4 say 
+: 160 8 6 can’t 
+: 169 7 4 wait, 
+- 178
+: 208 3 -8 I 
+: 212 4 2 know 
+: 217 5 1 you’d 
+: 223 3 -1 un
+: 227 3 1 der
+: 231 11 1 stand
+: 243 7 -1 ~ 
+- 252
+: 280 3 6 Eve
+: 284 2 6 ry 
+: 287 8 6 time 
+: 296 7 6 I 
+: 304 8 6 try 
+: 313 2 6 to 
+: 316 8 8 tell 
+: 325 4 6 you, 
+- 330
+: 330 5 3 The 
+: 336 6 5 words 
+: 343 7 5 just 
+: 351 6 1 came 
+: 358 6 -1 out 
+: 365 7 -3 wrong 
+- 374
+* 392 5 -3 So 
+* 398 3 -1 I’ll 
+* 402 7 1 have 
+* 410 1 1 to 
+* 412 16 2 say 
+* 429 1 1 I 
+* 431 6 1 love 
+* 438 6 -1 you 
+* 456 3 1 in 
+* 460 1 -1 a 
+* 462 10 -3 song 
+- 474
+: 524 3 4 Yeah, 
+: 528 2 4 I 
+: 531 11 4 know 
+: 543 4 4 it’s 
+: 548 7 6 kin
+: 556 2 4 da 
+: 560 12 4 strange, 
+- 574
+: 604 4 2 Eve
+: 609 2 1 ry 
+: 612 5 -1 time 
+: 618 6 1 I’m 
+: 625 7 1 near 
+: 633 6 -1 you 
+- 641
+: 652 5 -3 I 
+: 658 3 -1 just 
+: 662 4 1 run 
+: 667 3 4 out 
+: 671 3 1 of 
+: 675 9 4 things 
+: 685 3 6 to 
+: 689 7 4 say, 
+- 698
+: 730 3 -8 I 
+: 734 3 2 know 
+: 738 3 1 you’d 
+: 742 3 -1 un
+: 746 6 1 der
+: 754 8 1 stand
+: 763 8 -1 ~ 
+- 773
+: 798 3 6 Eve
+: 802 2 6 ry 
+: 806 6 6 time 
+: 814 6 6 I 
+: 822 6 6 try 
+: 829 2 6 to 
+: 833 8 8 tell 
+: 842 6 6 you, 
+- 849
+: 850 3 3 The 
+: 854 8 5 words 
+: 863 6 5 just 
+: 870 4 1 came 
+: 875 6 -1 out 
+: 882 10 -3 wrong 
+- 894
+* 910 5 -3 So 
+* 916 2 -1 I’ll 
+* 919 6 1 have 
+* 926 3 1 to 
+* 930 12 2 say 
+* 943 3 1 I 
+* 947 7 1 love 
+* 955 10 -1 you, 
+* 970 4 1 in 
+* 975 1 -1 a 
+* 977 15 -3 song 
+- 994
+: 1310 3 6 Eve
+: 1314 2 6 ry 
+: 1318 6 6 time 
+: 1326 3 6 the 
+: 1330 10 6 time 
+: 1341 5 6 was 
+: 1347 7 8 right 
+- 1355
+: 1356 4 6 All 
+: 1361 4 3 the 
+: 1366 6 5 words 
+: 1374 6 5 just 
+: 1381 4 1 came 
+: 1386 6 -1 out 
+: 1393 11 -3 wrong 
+- 1406
+* 1422 3 -3 So 
+* 1426 3 -1 I’ll 
+* 1430 6 1 have 
+* 1437 2 1 to 
+* 1440 13 2 say 
+* 1454 2 1 I 
+* 1457 7 1 love 
+* 1465 6 -1 you, 
+* 1481 3 1 in 
+* 1485 1 -1 a 
+* 1487 11 -3 song 
+- 1500
+: 1550 2 4 Yeah, 
+: 1553 2 4 I 
+: 1556 8 4 know 
+: 1566 6 4 it’s 
+: 1574 7 6 kin
+: 1582 2 4 da 
+: 1586 8 4 late, 
+- 1596
+: 1626 2 -8 I 
+: 1629 3 2 hope 
+: 1633 2 1 I 
+: 1636 4 -1 did
+: 1641 5 1 n’t 
+: 1647 9 1 wake 
+: 1657 7 -1 you 
+- 1666
+: 1676 3 4 But 
+: 1680 4 1 there’s 
+: 1685 2 4 some
+: 1688 4 1 thing 
+: 1693 3 4 that 
+: 1697 2 1 I 
+: 1700 4 6 just 
+: 1705 2 6 got
+: 1708 2 4 ta 
+: 1712 8 4 say, 
+- 1722
+: 1755 2 -8 I 
+: 1758 2 2 know 
+: 1761 3 1 you’d 
+: 1765 2 -1 un
+: 1768 4 1 der
+: 1773 10 1 stand
+: 1784 8 -1 ~ 
+- 1794
+: 1820 4 6 Eve
+: 1825 2 6 ry 
+: 1828 8 6 time 
+: 1837 6 6 I 
+: 1844 8 6 try 
+: 1853 3 6 to 
+: 1857 7 8 tell 
+: 1865 6 6 you, 
+- 1872
+: 1873 2 3 The 
+: 1876 9 5 words 
+: 1886 7 5 just 
+: 1894 3 1 came 
+: 1898 7 -1 out 
+: 1906 10 -3 wrong 
+- 1918
+* 1934 3 -3 So 
+* 1938 3 -1 I’ll 
+* 1942 7 1 have 
+* 1950 2 1 to 
+* 1953 12 2 say 
+* 1966 2 1 I 
+* 1969 7 1 love 
+* 1978 6 -1 you, 
+* 1994 3 1 in 
+* 1998 1 -1 a 
+* 2000 12 -3 song 
+E

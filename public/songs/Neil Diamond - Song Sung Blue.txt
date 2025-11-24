@@ -1,0 +1,223 @@
+#ARTIST:Neil Diamond
+#TITLE:Song Sung Blue
+#MP3:Neil Diamond - Song Sung Blue.mp3
+#CREATOR:ultrastarsongs
+#YEAR:1972
+#LANGUAGE:English
+#BPM:212
+#GAP:18590
+#VIDEO:a=1cqy4bmYOBI,co=https://m.media-amazon.com/images/I/51nmXdDMiHL.jpg,bg=diamond-neil-53221e68d8444.jpg
+: 0 11 4 Song 
+: 16 11 0 sung 
+: 31 8 7 blue 
+- 41
+: 48 2 5 Eve
+: 51 2 4 ry
+: 54 2 2 bo
+: 57 2 0 dy 
+: 62 4 2 knows 
+* 69 7 7 one 
+- 78
+: 127 11 2 Song 
+: 143 11 -5 sung 
+: 158 8 7 blue 
+- 168
+: 175 2 5 Eve
+: 178 2 4 ry 
+: 182 2 2 gar
+: 185 3 4 den 
+* 190 5 0 grows 
+: 198 9 7 one 
+- 209
+: 270 4 10 Me 
+: 276 3 4 and 
+: 280 6 12 you 
+: 294 2 4 are 
+: 299 3 10 sub
+: 303 5 4 ject 
+: 311 5 12 to 
+- 318
+: 326 1 0 The 
+: 328 4 9 blues 
+: 334 3 9 now 
+: 338 2 9 and 
+: 341 6 9 then 
+- 349
+: 388 3 -5 But 
+: 392 1 -5 when 
+: 394 1 -5 you 
+: 396 2 -5 take 
+: 399 2 -1 the 
+: 402 8 2 blues 
+: 412 1 2 and 
+: 414 1 5 make 
+: 416 1 5 a 
+: 420 6 7 song 
+- 428
+: 442 2 -5 You 
+: 447 3 5 sing 
+: 451 2 5 them 
+: 455 6 5 out 
+: 462 2 4 a
+: 465 5 4 gain 
+- 472
+: 509 1 4 Sing 
+: 511 1 4 them 
+: 513 6 4 out 
+: 520 1 2 a
+: 522 7 2 gain 
+- 531
+: 579 11 4 Song 
+: 594 9 0 sung 
+: 608 8 7 blue 
+- 618
+: 624 3 5 Wee
+: 628 3 4 pin’ 
+: 632 3 2 like 
+: 636 1 0 a 
+: 639 4 2 wil
+: 644 7 7 low 
+- 653
+: 703 11 2 Song 
+: 719 12 -5 sung 
+: 733 10 0 blue 
+- 745
+: 750 1 5 Slee
+: 752 3 4 pin 
+: 756 3 2 on 
+: 760 6 4 my 
+: 770 3 0 pil
+: 774 10 7 low 
+- 786
+* 842 3 10 Fun
+* 846 4 4 ny 
+* 855 9 12 thing, 
+: 868 3 4 but 
+: 872 4 10 you 
+: 877 5 4 can 
+: 887 5 12 sing 
+: 893 2 10 it, 
+- 896
+: 896 2 9 With 
+: 899 1 11 a 
+: 903 4 9 cry 
+: 908 2 9 in 
+: 912 3 9 your 
+: 916 8 9 voice 
+- 926
+: 970 1 -5 And 
+: 972 1 -5 be
+: 974 1 -1 fore 
+: 976 1 2 you 
+: 978 2 2 know 
+: 981 1 2 it 
+: 984 1 5 get 
+: 986 1 5 to 
+: 990 1 5 fee
+: 992 2 5 lin’
+: 996 7 7 good 
+- 1005
+: 1015 2 -5 You 
+: 1020 2 2 simp
+: 1023 2 2 ly 
+: 1026 3 2 got 
+: 1030 6 0 no 
+: 1039 7 0 choice 
+- 1048
+: 1349 7 10 Me 
+: 1358 3 4 and 
+: 1362 8 12 you 
+: 1376 2 4 are 
+: 1381 2 10 sub
+: 1384 6 4 ject 
+: 1392 6 12 to 
+- 1400
+: 1408 2 0 The 
+: 1411 3 9 blues 
+: 1416 3 9 now 
+: 1420 3 9 and 
+: 1424 6 9 then 
+- 1432
+: 1470 1 -5 But 
+: 1472 2 -5 when 
+: 1475 2 -5 you 
+: 1478 1 -5 take 
+: 1480 1 -1 the 
+: 1482 8 2 blues 
+: 1493 1 2 and 
+: 1495 1 5 make 
+: 1497 1 5 a 
+: 1501 7 7 song 
+- 1510
+: 1522 2 -5 You 
+: 1527 2 7 sing 
+: 1530 3 5 them 
+: 1534 7 5 out 
+: 1542 2 4 a
+: 1545 7 4 gain 
+- 1554
+: 1595 10 4 Song 
+: 1611 9 0 sung 
+: 1624 7 7 blue 
+- 1633
+: 1640 4 5 Wee
+: 1645 2 4 pin’ 
+: 1648 4 2 like 
+: 1653 1 0 a 
+: 1656 4 2 wil
+: 1661 8 7 low 
+- 1671
+: 1718 11 2 Song 
+* 1734 10 -5 sung 
+* 1749 6 7 blue 
+- 1757
+: 1766 1 5 Slee
+: 1768 4 4 pin’ 
+: 1773 2 2 on 
+: 1776 2 4 my 
+: 1779 5 0 pil
+: 1786 7 7 low 
+- 1795
+: 1857 5 10 Fun
+: 1863 5 4 ny 
+: 1871 7 12 thing 
+: 1886 2 4 but 
+: 1889 3 10 you 
+: 1894 3 4 can 
+: 1902 5 12 sing 
+: 1909 2 11 it 
+- 1912
+: 1912 2 9 With 
+: 1915 2 11 a 
+: 1920 3 9 cry 
+: 1924 2 9 in 
+: 1927 3 9 your 
+: 1932 7 9 voice 
+- 1941
+: 1984 1 -5 And 
+: 1986 2 -5 be
+: 1989 2 -1 fore 
+: 1992 1 2 you 
+: 1995 1 2 know 
+: 1997 1 2 it, 
+: 2001 1 5 start 
+: 2003 1 5 to 
+: 2005 3 5 fee
+: 2009 2 5 lin’ 
+: 2012 6 7 good 
+- 2020
+: 2031 2 -5 You 
+: 2036 2 7 simp
+: 2039 3 5 ly 
+: 2043 3 5 got 
+: 2047 4 4 no 
+: 2056 7 4 choice 
+- 2065
+: 2106 10 4 Song 
+: 2121 11 0 sung 
+: 2134 11 7 blue 
+- 2147
+: 2230 11 2 Song 
+: 2246 11 -5 sung 
+: 2259 10 7 blue 
+E

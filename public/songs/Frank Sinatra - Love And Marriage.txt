@@ -1,0 +1,245 @@
+#ARTIST:Frank Sinatra
+#TITLE:Love And Marriage
+#MP3:Frank Sinatra - Love And Marriage.mp3
+#CREATOR:Canni
+#EDITION:[SC]-Songs
+#GENRE:Show Tune, Pop, Jazz
+#YEAR:1955
+#LANGUAGE:English
+#BPM:221.3
+#GAP:13240
+#VIDEO:a=IpefFGOnSzg,co=https://m.media-amazon.com/images/I/7122HCZeBYL.jpg,bg=frank-sinatra-4de018d4c92ad.jpg,preview=13.32,medley=0-508
+: 0 6 -2 Love 
+: 8 6 5 and 
+: 16 7 6 mar
+: 24 5 7 riage, 
+- 31
+: 32 6 -3 Love 
+: 40 6 5 and 
+: 48 7 6 mar
+: 56 6 7 riage 
+- 64
+: 72 5 -2 Go 
+: 78 1 -3 to
+: 80 4 -2 ge
+: 85 2 0 ther 
+: 88 4 2 like 
+: 93 2 5 a 
+: 96 6 3 horse 
+: 104 6 10 and 
+: 112 7 11 car
+: 120 6 12 riage 
+- 127
+: 128 4 14 This 
+: 142 1 12 I 
+: 144 6 10 tell 
+: 152 7 5 you 
+: 160 15 6 bro
+: 176 8 7 ther 
+- 186
+: 190 1 9 You 
+: 192 6 10 can’t 
+: 200 6 7 have 
+: 208 5 5 one 
+: 214 1 7 with
+: 216 4 9 out 
+: 222 4 10 the 
+: 230 10 12 o
+: 241 13 5 ther 
+- 256
+: 258 6 -2 Love 
+: 266 6 5 and 
+: 274 7 6 mar
+: 282 6 7 riage, 
+- 289
+: 290 6 -3 Love 
+: 298 6 5 and 
+: 306 7 6 mar
+: 314 6 7 riage 
+- 322
+: 330 4 -2 It’s 
+: 336 1 -3 an 
+: 338 4 -2 ins
+: 344 1 0 ti
+: 346 4 2 tute 
+: 352 1 5 you 
+: 354 6 3 can’t 
+: 362 4 10 dis
+: 370 7 11 pa
+: 378 8 12 rage 
+- 388
+: 392 6 14 Ask 
+: 400 1 12 the 
+: 402 5 10 lo
+: 410 6 5 cal 
+: 418 15 6 gen
+: 434 10 7 try 
+- 446
+: 448 1 9 And 
+: 450 6 10 they 
+: 458 6 7 will 
+: 466 4 5 say 
+: 472 1 7 it’s 
+: 474 5 9 e
+: 480 4 10 le
+: 490 7 12 men
+: 498 10 10 tary 
+- 510
+: 514 14 10 Try, 
+: 530 14 10 try, 
+: 546 5 10 try 
+: 552 1 8 to 
+: 554 4 6 se
+: 560 1 5 pa
+: 562 7 3 rate 
+: 570 8 1 them 
+- 580
+: 586 13 3 It’s 
+: 600 4 1 an 
+: 605 4 -1 il
+: 610 7 -2 lu
+: 618 8 1 sion 
+- 628
+: 642 14 10 Try, 
+: 658 14 10 try, 
+: 674 5 10 try 
+: 680 1 8 and 
+: 682 4 6 you 
+: 687 2 5 will 
+: 690 7 3 on
+: 698 6 1 ly 
+: 706 6 5 come 
+- 714
+: 741 2 5 To 
+: 744 4 3 this 
+: 749 2 2 con
+: 752 6 0 clu
+: 760 6 5 sion 
+- 767
+: 767 6 -2 Love 
+: 775 6 5 and 
+: 783 7 6 mar
+: 791 6 7 riage, 
+- 798
+: 799 6 -3 Love 
+: 807 6 5 and 
+: 815 7 6 mar
+: 823 6 7 riage 
+- 831
+: 839 5 -2 Go 
+: 845 1 -3 to
+: 847 5 -2 ge
+: 853 1 0 ther 
+: 855 5 2 like 
+: 861 1 5 a 
+: 863 7 3 horse 
+: 871 7 10 and 
+: 879 7 11 car
+: 887 7 12 riage 
+- 895
+: 895 13 14 Dad 
+: 909 1 12 was 
+: 911 7 10 told 
+: 920 6 5 by 
+: 935 7 6 mo
+: 943 10 7 ther 
+- 955
+: 957 1 9 You 
+: 959 6 10 can’t 
+: 967 6 7 have 
+: 975 7 5 one, 
+- 984
+: 989 1 9 You 
+: 991 6 10 can’t 
+: 999 6 7 have 
+: 1007 10 5 none, 
+- 1019
+: 1021 1 9 You 
+: 1023 6 10 can’t 
+: 1031 6 7 have 
+: 1039 5 5 one 
+: 1045 1 7 with
+: 1047 5 9 out 
+: 1053 4 10 the 
+: 1062 24 12 o
+: 1087 9 10 ther! 
+- 1098
+: 1468 14 10 Try, 
+: 1484 14 10 try, 
+: 1500 5 10 try 
+: 1506 1 8 to 
+: 1508 4 6 se
+: 1514 1 5 pa
+: 1516 6 3 rate 
+: 1524 6 1 them 
+- 1532
+: 1542 13 3 It’s 
+: 1556 4 1 an 
+: 1562 1 -1 il
+: 1564 7 -2 lu
+: 1572 8 1 sion 
+- 1582
+: 1594 14 10 Try, 
+: 1610 14 10 try, 
+: 1626 4 10 try 
+: 1632 1 8 and 
+: 1634 4 6 you 
+: 1640 1 5 will 
+: 1642 7 3 on
+: 1650 7 1 ly 
+: 1658 8 5 come 
+- 1668
+: 1694 1 5 To 
+: 1696 4 3 this 
+: 1702 1 2 con
+: 1704 6 0 clu
+: 1712 4 5 sion 
+- 1718
+: 1720 6 -2 Love 
+: 1728 6 5 and 
+: 1736 7 6 mar
+: 1744 6 7 riage, 
+- 1751
+: 1752 6 -3 Love 
+: 1760 6 5 and 
+: 1768 7 6 mar
+: 1776 6 7 riage 
+- 1784
+: 1792 2 -2 Go 
+: 1796 2 -3 to
+: 1799 3 -2 ge
+: 1803 2 0 ther 
+: 1806 4 2 like 
+: 1811 2 5 a 
+: 1814 7 3 horse 
+: 1822 6 10 and 
+: 1830 7 11 car
+: 1838 6 12 riage 
+- 1845
+: 1846 12 14 Dad 
+: 1859 3 12 was 
+: 1863 7 10 told 
+: 1882 6 5 by 
+: 1889 4 6 mo
+: 1894 8 7 ther 
+- 1904
+: 1906 2 9 You 
+: 1909 6 10 can’t 
+: 1916 6 7 have 
+: 1925 6 5 one, 
+- 1933
+: 1939 1 9 You 
+: 1941 6 10 can’t 
+: 1949 6 7 have 
+: 1957 8 5 none, 
+- 1967
+: 1969 2 9 You 
+: 1972 7 10 can’t 
+: 1980 6 7 have 
+: 1988 5 5 one 
+: 1994 1 7 with
+: 1996 4 9 out 
+: 2001 2 10 the 
+: 2004 31 12 o
+: 2036 6 10 ther! 
+E

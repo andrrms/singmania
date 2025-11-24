@@ -1,0 +1,721 @@
+#ARTIST:Five
+#TITLE:Everybody Get Up
+#MP3:Five - Everybody Get Up.mp3
+#CREATOR:Ultrastar-Songs
+#EDITION:SingStar Boy Bands vs Girl Bands
+#GENRE:Pop
+#YEAR:1998
+#LANGUAGE:English
+#BPM:384.08
+#GAP:53060
+#VIDEO:v=qZUn-KtTNmA,co=everybody-get-up-65c9c447cc8ba.jpg,bg=five-53542a2254a07.jpg
+#START:50.5
+F 0 2 -5 Ha 
+F 4 18 -5 ha 
+- 24
+F 88 10 -10 Wow 
+- 100
+: 264 4 5 Eve
+: 272 3 5 ry
+: 276 6 2 bo
+: 284 2 0 dy 
+: 288 6 2 get 
+: 296 8 5 up 
+: 312 3 0 sing
+: 316 8 2 in’ 
+- 326
+F 328 8 2 One 
+F 344 6 2 two 
+F 360 6 2 three 
+F 376 8 2 four 
+- 386
+: 392 4 5 Five 
+: 400 3 5 will 
+: 404 4 2 make 
+: 412 2 0 you 
+: 416 6 2 get 
+* 424 10 5 down 
+: 440 8 2 now 
+- 450
+F 456 3 7 Ba
+F 460 2 7 by 
+F 464 2 7 bring 
+F 468 2 7 it 
+F 472 4 7 on, 
+F 480 2 7 bring 
+F 484 2 7 it 
+F 488 6 7 on 
+F 496 6 7 now 
+- 504
+: 520 4 5 Eve
+: 528 3 5 ry
+: 532 6 2 bo
+: 540 2 0 dy 
+: 544 6 2 get 
+: 552 8 5 up 
+: 568 3 0 sing
+: 572 10 2 in’ 
+- 583
+F 584 8 5 One 
+F 600 6 5 two 
+F 616 6 5 three 
+F 632 6 5 four 
+- 640
+: 648 4 5 Five 
+: 656 2 5 will 
+: 660 4 2 make 
+: 668 2 0 you 
+: 672 6 2 get 
+: 680 8 5 down 
+: 696 10 2 now 
+- 708
+: 712 3 0 Get 
+: 716 6 2 on 
+: 724 6 5 up 
+- 732
+F 752 2 5 You 
+F 758 4 5 gots 
+F 764 2 5 to 
+F 768 2 5 keep 
+F 772 2 5 it 
+F 776 16 5 real 
+- 794
+F 800 2 5 You 
+F 804 4 5 gots 
+F 812 2 5 to 
+F 816 2 5 keep 
+F 820 2 5 it 
+F 824 8 5 raw 
+- 834
+F 836 2 5 I’m 
+F 840 2 5 ly
+F 844 1 5 ri
+F 846 1 5 cal
+F 848 2 5 ly 
+F 852 8 5 blessed 
+- 862
+F 864 2 5 So 
+F 868 2 5 don’t 
+F 872 4 5 try 
+F 880 2 5 to 
+F 884 2 5 ig
+F 888 6 5 nore 
+- 896
+F 904 6 5 Time 
+F 912 2 5 for 
+F 916 2 5 some 
+F 920 4 5 ac
+F 928 4 5 tion 
+- 934
+F 936 2 5 Cree
+F 940 2 5 pin’ 
+F 944 2 5 up 
+F 948 2 5 your 
+F 952 4 5 back 
+F 960 4 5 and 
+- 966
+F 968 2 5 Keep 
+F 972 2 5 the 
+F 976 6 5 beat 
+F 984 6 5 nas
+F 992 2 5 ty 
+- 995
+F 996 2 5 Like 
+F 1000 2 5 Ja
+F 1004 2 5 net 
+F 1008 2 5 my 
+F 1012 2 5 re
+F 1016 4 5 ac
+F 1024 4 5 tion 
+- 1030
+F 1032 6 6 Hard 
+F 1040 2 6 I’m 
+F 1044 2 6 ad
+F 1048 4 6 dic
+F 1056 4 6 ted 
+- 1062
+F 1064 2 6 Bet
+F 1068 2 6 ter 
+F 1072 2 6 lock 
+F 1076 2 6 your 
+F 1080 4 6 kids 
+F 1088 4 6 in 
+- 1094
+F 1096 2 6 Co
+F 1100 2 6 min’ 
+F 1104 2 6 to 
+F 1108 2 6 ya 
+F 1112 2 6 a
+F 1116 2 6 re
+F 1120 2 6 a 
+- 1123
+F 1124 2 6 Ya 
+F 1128 2 6 don’t 
+F 1132 2 6 know 
+F 1136 2 6 what 
+F 1140 2 6 you’re 
+F 1144 4 6 mis
+F 1152 6 6 sin’ 
+- 1160
+F 1164 2 6 Go 
+F 1168 2 6 tell 
+F 1172 2 6 your 
+F 1176 2 6 fa
+F 1180 2 6 mi
+F 1184 4 6 ly 
+- 1190
+F 1192 4 6 Here 
+F 1200 2 6 comes 
+F 1204 2 6 the 
+F 1208 2 6 e
+F 1212 2 6 ne
+F 1216 2 6 my 
+- 1220
+F 1224 2 6 Blow
+F 1228 2 6 in’ 
+F 1232 2 6 up 
+F 1236 2 6 the 
+F 1240 4 6 spot 
+F 1248 4 6 tech 
+F 1256 2 6 re
+F 1260 2 6 me
+F 1264 12 6 dy 
+- 1278
+: 1288 4 5 Eve
+: 1296 3 5 ry
+: 1300 6 2 bo
+: 1308 2 0 dy 
+: 1312 6 2 get 
+: 1320 8 5 up 
+: 1336 3 0 sing
+: 1340 8 2 in’ 
+- 1350
+F 1352 8 2 One 
+F 1368 6 2 two 
+F 1384 6 2 three 
+F 1400 8 2 four 
+- 1410
+: 1416 4 5 Five 
+: 1424 3 5 will 
+: 1428 4 2 make 
+: 1436 2 0 you 
+: 1440 6 2 get 
+: 1448 10 5 down 
+: 1464 8 2 now 
+- 1474
+F 1480 3 7 Ba
+F 1484 2 7 by 
+F 1488 2 7 bring 
+F 1492 2 7 it 
+F 1496 4 7 on, 
+F 1504 2 7 bring 
+F 1508 2 7 it 
+F 1512 6 7 on 
+F 1520 6 7 now 
+- 1528
+: 1544 4 5 Eve
+: 1552 3 5 ry
+: 1556 6 2 bo
+: 1564 2 0 dy 
+: 1568 6 2 get 
+: 1576 8 5 up 
+: 1592 3 0 sing
+: 1596 10 2 in’ 
+- 1607
+F 1608 8 5 One 
+F 1624 6 5 two 
+F 1640 6 5 three 
+F 1656 6 5 four 
+- 1664
+: 1672 4 5 Five 
+: 1680 2 5 will 
+: 1684 4 2 make 
+: 1692 2 0 you 
+: 1696 6 2 get 
+: 1704 8 5 down 
+: 1720 10 2 now 
+- 1732
+: 1736 4 5 Five 
+: 1744 2 4 will 
+: 1748 6 2 make 
+: 1756 2 0 you 
+: 1760 6 2 get 
+: 1768 16 0 down 
+- 1786
+: 1792 2 2 Keep 
+: 1796 2 0 it 
+: 1800 4 2 mo
+: 1808 4 2 vin’ 
+- 1814
+: 1824 3 2 Keep 
+: 1828 2 0 on 
+: 1832 4 2 mo
+: 1840 3 2 vin’ 
+: 1844 4 0 up 
+- 1850
+: 1856 3 2 Keep 
+: 1860 2 0 it 
+: 1864 6 2 mo
+: 1872 4 2 vin’ 
+- 1878
+: 1888 3 2 Keep 
+: 1892 2 0 on 
+: 1896 4 2 mo
+: 1904 3 2 vin’ 
+: 1908 4 0 up 
+- 1914
+: 1920 3 2 Keep 
+: 1924 2 0 it 
+: 1928 4 2 mo
+: 1936 4 2 vin’ 
+- 1942
+: 1952 3 2 Keep 
+: 1956 2 0 on 
+: 1960 4 2 mo
+: 1968 3 2 vin’ 
+: 1972 4 0 up 
+- 1978
+* 1984 3 2 Keep 
+: 1988 2 0 it 
+: 1992 4 2 mo
+: 2000 4 2 vin’ 
+- 2006
+: 2016 3 2 Keep 
+: 2020 2 0 on 
+: 2024 4 2 mo
+: 2032 3 2 vin’ 
+: 2036 4 0 up 
+- 2042
+F 2044 2 5 I’ll 
+F 2048 2 5 be 
+F 2052 2 5 the 
+F 2056 2 5 re
+F 2060 2 5 si
+F 2064 4 5 dent 
+F 2072 2 5 pre
+F 2076 2 5 si
+F 2080 2 5 dent 
+- 2083
+F 2084 6 5 I’m 
+F 2092 2 5 the 
+F 2096 4 5 fifth 
+F 2104 2 5 e
+F 2108 2 5 le
+F 2112 2 5 ment 
+- 2116
+F 2120 2 5 Jim
+F 2124 2 5 my 
+F 2128 4 5 fly 
+F 2136 2 5 snoo
+F 2140 2 5 ka 
+F 2144 4 5 stone 
+- 2150
+F 2152 6 5 Cold’s 
+F 2160 3 5 how 
+F 2164 2 5 I’m 
+F 2168 2 5 hit
+F 2172 2 5 tin’ 
+F 2176 2 5 ’em 
+- 2180
+F 2184 2 5 Bet
+F 2188 2 5 ter 
+F 2192 2 5 get 
+F 2196 2 5 to
+F 2200 2 5 ge
+F 2204 2 5 ther 
+- 2207
+F 2208 2 5 Put 
+F 2212 2 5 your 
+F 2216 4 5 hands 
+F 2224 2 5 in 
+F 2228 2 5 the 
+F 2232 8 5 sky 
+- 2242
+F 2248 2 5 Stick 
+F 2252 2 5 ’em 
+F 2256 2 5 up 
+F 2264 4 5 punk 
+- 2270
+F 2272 2 5 Hit 
+F 2276 2 5 them 
+F 2280 4 5 low, 
+F 2288 2 5 hit 
+F 2292 2 5 them 
+F 2296 8 5 high 
+- 2306
+F 2308 2 6 Now 
+F 2312 2 6 I’m 
+F 2316 2 6 the 
+F 2320 4 6 bad 
+F 2328 4 6 boy 
+- 2334
+F 2336 2 6 That 
+F 2340 2 6 you 
+F 2344 3 6 in
+F 2348 4 6 vite 
+F 2356 2 6 for 
+F 2360 2 6 din
+F 2364 2 6 ners 
+- 2368
+F 2376 2 6 Ain’t 
+F 2380 6 6 got 
+F 2388 2 6 no 
+F 2392 2 6 man
+F 2396 2 6 ners 
+- 2399
+F 2400 2 6 ’Cause 
+F 2404 2 6 I 
+F 2408 4 6 eat 
+F 2414 2 6 with 
+F 2418 4 6 my 
+F 2424 4 6 fin
+F 2432 4 6 gers 
+- 2438
+F 2448 6 6 Lost 
+F 2456 4 6 boys 
+- 2462
+F 2464 2 6 Ter
+F 2468 2 6 ro
+F 2472 2 6 rize 
+F 2476 2 6 the 
+F 2480 2 6 neigh
+F 2484 2 6 bor
+F 2488 4 6 hood 
+- 2494
+F 2500 2 6 And 
+F 2504 4 6 hounds 
+F 2512 2 6 of 
+F 2516 2 6 the 
+F 2520 3 6 Bas
+F 2524 1 6 ker
+F 2526 2 6 ville 
+- 2529
+F 2530 1 6 Will 
+F 2532 2 6 be 
+F 2536 2 6 up 
+F 2540 2 6 to 
+F 2544 4 6 no 
+F 2552 4 6 good 
+- 2558
+F 2564 2 7 So 
+F 2568 2 7 come 
+F 2572 4 7 on, 
+F 2580 2 7 come 
+F 2584 4 7 on 
+- 2590
+F 2592 2 7 Eve
+F 2596 2 7 ry
+F 2600 2 7 bo
+F 2604 2 7 dy 
+F 2608 2 7 keep 
+F 2616 2 7 chec
+F 2620 2 7 kin’ 
+F 2624 4 7 us 
+- 2630
+F 2632 2 7 Co
+F 2636 2 7 min’ 
+F 2640 2 7 with 
+F 2644 2 7 the 
+F 2648 4 7 funk 
+- 2654
+F 2656 2 7 Bring 
+F 2660 2 7 it 
+F 2664 4 7 on 
+F 2672 2 7 wic
+F 2676 2 7 ked
+F 2680 14 7 ness 
+- 2695
+: 2696 4 5 Eve
+: 2704 3 5 ry
+: 2708 6 2 bo
+: 2716 2 0 dy 
+: 2720 6 2 get 
+: 2728 8 5 up 
+: 2744 3 0 sing
+: 2748 8 2 in’ 
+- 2758
+F 2760 8 2 One 
+F 2776 6 2 two 
+F 2792 6 2 three 
+F 2808 8 2 four 
+- 2818
+: 2824 4 5 Five 
+: 2832 3 5 will 
+: 2836 4 2 make 
+: 2844 2 0 you 
+: 2848 6 2 get 
+: 2856 10 5 down 
+: 2872 8 2 now 
+- 2882
+F 2888 3 7 Ba
+F 2892 2 7 by 
+F 2896 2 7 bring 
+F 2900 2 7 it 
+F 2904 4 7 on, 
+F 2912 2 7 bring 
+F 2916 2 7 it 
+F 2920 6 7 on 
+F 2928 6 7 now 
+- 2936
+: 2952 4 5 Eve
+: 2960 3 5 ry
+: 2964 6 2 bo
+: 2972 2 0 dy 
+: 2976 6 2 get 
+: 2984 8 5 up 
+: 3000 3 0 sing
+: 3004 10 2 in’ 
+- 3015
+F 3016 8 5 One 
+F 3032 6 5 two 
+F 3048 6 5 three 
+F 3064 6 5 four 
+- 3072
+: 3080 4 5 Five 
+: 3088 2 5 will 
+: 3092 4 2 make 
+: 3100 2 0 you 
+: 3104 6 2 get 
+: 3112 8 5 down 
+: 3128 10 2 now 
+- 3140
+: 3144 3 0 Get 
+: 3148 6 2 on 
+: 3156 6 5 up 
+- 3164
+F 3196 4 5 Eve
+F 3204 2 5 ry
+F 3208 2 5 bo
+F 3212 2 5 dy 
+F 3216 2 5 bet
+F 3220 2 5 ter 
+F 3224 2 5 re
+F 3228 2 5 cog
+F 3232 4 5 nize 
+- 3238
+F 3244 2 5 We 
+F 3248 2 5 got 
+F 3252 2 5 the 
+F 3256 2 5 fun
+F 3260 2 5 ky 
+F 3264 6 5 rhymes 
+- 3271
+F 3272 2 5 Keep 
+F 3276 2 5 it 
+F 3280 2 5 to
+F 3284 2 5 ge
+F 3288 2 5 ther 
+F 3292 2 5 ba
+F 3296 2 5 by 
+- 3299
+F 3300 2 5 Don’t 
+F 3304 2 5 e
+F 3308 2 5 ven 
+F 3312 2 5 try 
+F 3316 2 5 to 
+F 3320 2 5 or
+F 3324 2 5 ga
+F 3328 8 5 nize 
+- 3338
+F 3340 2 5 We 
+F 3344 2 5 be 
+F 3348 2 5 the 
+F 3352 4 5 rough
+F 3358 4 5 necks 
+- 3363
+F 3364 2 5 No 
+F 3368 4 5 con
+F 3374 4 5 cept, 
+F 3380 2 5 no 
+F 3384 4 5 busi
+F 3392 2 5 ness 
+- 3395
+F 3396 2 5 We 
+F 3400 2 5 here 
+F 3404 2 5 to 
+F 3408 2 5 get 
+F 3412 4 5 down 
+- 3418
+F 3420 2 5 And 
+F 3424 2 5 make 
+F 3428 2 5 them 
+F 3432 2 5 grab 
+F 3436 2 5 you 
+- 3439
+F 3440 2 5 By 
+F 3444 2 5 your 
+F 3448 4 5 bis
+F 3456 4 5 cuits 
+- 3462
+F 3468 2 6 So 
+F 3472 2 6 eve
+F 3476 2 6 ry
+F 3480 2 6 bo
+F 3484 2 6 dy 
+F 3488 2 6 a
+F 3492 2 6 ny
+F 3496 2 6 bo
+F 3500 2 6 dy 
+- 3503
+F 3504 6 6 Some
+F 3512 2 6 bo
+F 3516 4 6 dy 
+- 3522
+F 3528 2 6 Put 
+F 3532 2 6 your 
+F 3536 2 6 hands 
+F 3540 2 6 to
+F 3544 2 6 ge
+F 3548 2 6 ther 
+- 3551
+F 3552 2 6 Re
+F 3556 2 6 pre
+F 3560 2 6 sent 
+F 3564 2 6 like 
+F 3568 4 6 John 
+F 3576 2 6 Got
+F 3580 4 6 ti 
+- 3586
+F 3592 2 6 Pa
+F 3596 2 6 ra
+F 3600 4 6 graph 
+- 3606
+F 3608 4 6 Af
+F 3616 2 6 ter 
+F 3620 2 6 gram
+F 3624 2 6 mar 
+F 3628 2 6 for 
+F 3632 6 6 gas 
+- 3640
+F 3644 2 6 The 
+F 3648 2 6 par
+F 3652 2 6 ty’s 
+F 3656 2 6 ar
+F 3660 2 6 mag
+F 3664 2 6 ged
+F 3668 2 6 don 
+- 3671
+F 3672 2 6 Hit 
+F 3676 2 6 ’em 
+F 3680 2 6 with 
+F 3684 2 6 the 
+F 3688 2 6 hea
+F 3692 2 6 vy 
+F 3696 8 6 class 
+- 3706
+F 3716 2 7 I’m 
+F 3720 2 7 bug
+F 3724 2 7 gin’ 
+- 3728
+F 3736 2 7 Hit
+F 3740 2 7 tin’ 
+F 3744 2 7 with 
+F 3748 2 7 the 
+F 3752 2 7 hoo
+F 3756 2 7 li
+F 3760 4 7 gan 
+F 3768 4 7 funk 
+- 3774
+F 3780 2 7 I 
+F 3784 2 7 know 
+F 3788 2 7 you 
+F 3792 2 7 wan
+F 3796 2 7 na 
+F 3800 2 7 stand 
+F 3804 2 7 up 
+- 3808
+F 3812 2 7 So 
+F 3816 2 7 ba
+F 3820 2 7 by 
+F 3824 2 7 jump 
+- 3828
+: 3848 4 5 Eve
+: 3856 3 5 ry
+: 3860 6 2 bo
+: 3868 2 0 dy 
+: 3872 6 2 get 
+: 3880 8 5 up 
+: 3896 3 0 sing
+: 3900 8 2 in’ 
+- 3910
+: 3916 3 11 Co
+: 3920 3 6 ~me 
+: 3924 8 9 on 
+: 3936 4 9 yeah 
+- 3942
+: 3952 4 9 Ha 
+- 3958
+: 3976 4 5 Five 
+: 3984 3 5 will 
+: 3988 4 2 make 
+: 3996 2 0 you 
+: 4000 6 2 get 
+: 4008 10 5 down 
+: 4024 8 2 now 
+- 4034
+: 4036 2 -3 Ah 
+: 4040 2 0 get 
+: 4044 4 2 on 
+: 4052 8 2 down 
+- 4062
+: 4104 4 5 Eve
+: 4112 3 5 ry
+: 4116 6 2 bo
+: 4124 2 0 dy 
+: 4128 6 2 get 
+: 4136 8 5 up 
+: 4152 3 0 sing
+: 4156 10 2 in’ 
+- 4167
+F 4168 8 5 One 
+F 4184 6 5 two 
+F 4200 6 5 three 
+F 4216 6 5 four 
+- 4224
+: 4232 4 5 Five 
+: 4240 2 5 will 
+: 4244 4 2 make 
+: 4252 2 0 you 
+: 4256 6 2 get 
+: 4264 8 5 down 
+: 4280 10 2 now 
+- 4292
+F 4296 3 7 Ba
+F 4300 2 7 by 
+F 4304 2 7 bring 
+F 4308 2 7 it 
+F 4312 4 7 on, 
+F 4320 2 8 bring 
+F 4324 2 8 it 
+F 4328 4 8 on 
+F 4336 6 8 now 
+- 4344
+: 4360 4 5 Eve
+: 4368 3 5 ry
+: 4372 4 2 bo
+: 4380 2 0 dy 
+: 4384 4 2 get 
+: 4392 6 5 up 
+: 4408 3 0 sing
+: 4412 8 2 in’ 
+- 4422
+F 4424 6 5 One 
+F 4440 8 5 two 
+F 4456 6 5 three 
+F 4472 6 5 four 
+- 4480
+: 4488 6 5 Five 
+: 4496 3 5 will 
+: 4500 4 2 make 
+: 4508 2 0 you 
+: 4512 6 2 get 
+: 4520 10 5 down 
+* 4536 12 2 now 
+- 4550
+: 4552 4 5 Five 
+: 4560 2 4 will 
+: 4564 4 2 make 
+: 4572 2 0 you 
+: 4576 6 2 get 
+: 4584 14 0 down 
+E

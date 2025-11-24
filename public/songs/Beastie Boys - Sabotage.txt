@@ -1,0 +1,311 @@
+#ARTIST:Beastie Boys
+#TITLE:Sabotage
+#MP3:Beastie Boys - Sabotage.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band
+#GENRE:Hip-Hop
+#YEAR:1994
+#LANGUAGE:English
+#BPM:396.45
+#GAP:17000
+#VIDEO:v=z5rRZdiu1UE,co=https://3inch.es/records/beastie-boys-sabotage/cover.jpeg,co-rotate=0.5,co-crop=20-20-1900-1900,bg=beastie-boys-4ddbae15831a2.jpg,medley=3417-4041,tags=explicit
+R 0 30 0 I 
+R 33 13 0 can’t 
+R 50 12 0 stand 
+R 63 6 0 it 
+- 71
+R 78 4 0 I 
+R 83 4 0 know 
+R 88 3 0 you 
+R 92 8 0 planned 
+R 102 4 0 it 
+- 108
+R 111 4 0 I’m 
+R 116 4 0 gonna 
+R 121 3 0 set 
+R 125 6 0 it 
+R 132 5 0 straight 
+R 140 5 0 this 
+R 146 6 0 Wa
+R 153 3 0 ter
+R 158 5 0 gate 
+- 165
+R 171 12 0 I 
+R 187 6 0 can’t 
+R 196 7 0 stand 
+R 205 4 0 roc
+R 210 4 0 kin’ 
+R 215 3 0 when 
+R 220 4 0 I’m 
+R 225 4 0 in 
+R 233 7 0 here 
+- 242
+R 247 6 0 ’Cause 
+R 257 3 0 your 
+R 262 4 0 crys
+R 270 4 0 tal 
+R 276 7 0 ball 
+R 284 6 0 ain’t 
+R 293 4 0 so 
+R 299 6 0 crys
+R 307 4 0 tal 
+R 314 8 0 clear 
+R 325 4 0 so 
+- 331
+R 342 7 0 While 
+R 351 3 0 you 
+R 356 4 0 sit 
+R 364 5 0 back 
+R 371 5 0 and 
+R 378 5 0 won
+R 387 6 0 der 
+R 394 10 0 why 
+- 406
+R 416 3 0 I 
+R 421 3 0 got 
+R 426 4 0 this 
+- 432
+R 446 7 0 Thorn 
+R 454 3 0 in 
+R 459 5 0 my 
+R 469 9 0 side 
+- 480
+R 490 8 0 Oh 
+R 500 3 0 my 
+R 506 13 0 God 
+R 520 4 0 it’s 
+R 530 5 0 a 
+R 538 5 0 mi
+R 544 11 0 rage 
+- 557
+R 566 4 0 I’m 
+R 572 4 0 tel
+R 577 2 0 lin’ 
+R 581 9 0 y’all 
+R 591 2 0 it’s 
+R 598 7 0 sa
+R 606 3 0 bo
+R 612 20 0 tage 
+- 634
+R 913 4 0 So 
+R 922 5 0 so 
+R 930 5 0 so 
+- 937
+R 952 4 0 So 
+R 957 4 0 lis
+R 962 3 0 ten 
+R 967 4 0 up 
+R 975 3 0 ’cause 
+R 981 3 0 you 
+R 985 6 0 can’t 
+R 995 6 0 say 
+G 1004 4 0 no
+G 1010 5 0 thin’ 
+- 1017
+R 1028 4 0 You’ll 
+R 1033 4 0 shut 
+R 1038 3 0 me 
+R 1043 7 0 down 
+R 1052 3 0 with 
+R 1056 3 0 a 
+R 1061 5 0 push 
+- 1068
+R 1070 3 0 Of 
+R 1075 3 0 your 
+R 1081 2 0 but
+R 1084 4 0 ton 
+R 1089 2 0 but 
+R 1094 4 0 yo 
+- 1100
+R 1104 10 0 I’m 
+R 1117 7 0 out 
+R 1131 7 0 and 
+R 1140 13 0 I’m 
+R 1155 15 0 gone 
+- 1172
+R 1179 3 0 I’ll 
+R 1184 3 0 tell 
+R 1189 3 0 you 
+R 1194 8 0 now 
+R 1203 4 0 I 
+R 1210 5 0 keep 
+R 1218 8 0 it 
+R 1227 8 0 on 
+R 1236 3 0 and 
+R 1240 12 0 on 
+- 1254
+R 1518 31 0 ’Cause 
+R 1551 9 0 what 
+R 1561 4 0 you 
+R 1567 8 0 see 
+G 1577 6 0 you 
+G 1586 5 0 might 
+G 1594 6 0 not 
+G 1606 6 0 get 
+- 1614
+R 1621 5 0 And 
+R 1627 5 0 we 
+R 1635 6 0 can 
+R 1644 7 0 bet 
+R 1656 7 0 so 
+R 1666 3 0 don’t 
+R 1671 3 0 you 
+R 1675 4 0 get 
+R 1683 5 0 souped 
+R 1692 4 0 yet 
+- 1698
+R 1702 4 0 Sche
+R 1708 2 0 ming 
+R 1711 4 0 on 
+R 1716 2 0 a 
+R 1722 7 0 thing 
+R 1731 6 0 that’s 
+R 1740 4 0 a 
+R 1745 7 0 mi
+R 1753 14 0 rage 
+- 1769
+R 1772 3 0 I’m 
+R 1777 4 0 try’n 
+R 1782 3 0 to 
+R 1787 3 0 tell 
+R 1791 3 0 you 
+R 1796 8 0 now 
+R 1806 3 0 it’s 
+R 1812 7 0 sa
+R 1820 3 0 bo
+R 1825 18 0 tage 
+- 1845
+R 2533 247 0 Why? 
+- 2782
+R 3141 6 0 Lis
+R 3148 3 0 ten 
+R 3152 5 0 all 
+R 3158 2 0 of 
+R 3161 9 0 y’all 
+R 3171 4 0 it’s 
+R 3176 4 0 a 
+R 3181 8 0 sa
+R 3191 3 0 bo
+R 3195 15 0 tage 
+- 3212
+R 3219 5 0 Lis
+R 3225 2 0 ten 
+R 3228 4 0 all 
+R 3233 4 0 of 
+R 3239 8 0 y’all 
+R 3248 3 0 it’s 
+R 3252 4 0 a 
+R 3259 7 0 sa
+R 3267 3 0 bo
+R 3271 15 0 tage 
+- 3288
+R 3295 4 0 Lis
+R 3300 4 0 ten 
+R 3305 3 0 all 
+R 3309 3 0 of 
+R 3314 10 0 y’all 
+R 3325 2 0 it’s 
+R 3328 3 0 a 
+G 3334 8 0 sa
+G 3343 2 0 bo
+G 3349 14 0 tage 
+- 3365
+R 3371 6 0 Lis
+R 3378 2 0 ten 
+R 3381 4 0 all 
+R 3386 1 0 of 
+R 3388 11 0 y’all 
+R 3400 3 0 it’s 
+R 3405 2 0 a 
+- 3409
+R 3417 26 0 I 
+R 3447 10 0 can’t 
+R 3462 12 0 stand 
+R 3475 6 0 it, 
+R 3488 3 0 I 
+R 3492 5 0 know 
+R 3498 3 0 you 
+R 3504 7 0 planned 
+R 3512 3 0 it 
+- 3517
+R 3522 4 0 I’m 
+R 3527 3 0 gonna 
+R 3532 3 0 set 
+R 3536 3 0 it 
+R 3542 5 0 straight 
+R 3551 5 0 this 
+G 3557 7 0 Wa
+G 3565 3 0 ter
+G 3570 4 0 gate 
+- 3576
+R 3583 7 0 But 
+R 3591 4 0 I 
+R 3598 5 0 can’t 
+R 3607 8 0 stand 
+R 3616 3 0 roc
+R 3622 3 0 kin’ 
+R 3626 3 0 when 
+R 3631 3 0 I’m 
+R 3635 3 0 in 
+R 3641 7 0 this 
+R 3650 6 0 place 
+- 3658
+R 3660 3 0 Be
+R 3664 3 0 cause 
+R 3669 3 0 I 
+R 3675 6 0 feel 
+G 3683 4 0 dis
+G 3689 7 0 grace 
+R 3697 3 0 be
+R 3701 1 0 cause 
+- 3704
+R 3706 4 0 You’re 
+R 3711 4 0 all 
+R 3716 3 0 in 
+R 3720 3 0 my 
+R 3727 7 0 face 
+- 3736
+R 3743 5 0 But 
+R 3749 5 0 make 
+R 3758 3 0 no 
+G 3762 5 0 mis
+G 3768 4 0 takes 
+R 3776 3 0 and 
+R 3782 5 0 switch 
+R 3791 6 0 up 
+R 3799 3 0 my 
+R 3805 8 0 chan
+R 3814 4 0 nel 
+- 3820
+R 3827 4 0 I’m 
+R 3834 3 0 Bud
+R 3838 4 0 dy 
+R 3843 4 0 Rich 
+R 3852 3 0 when 
+R 3856 3 0 I 
+R 3861 4 0 fly 
+R 3866 5 0 off 
+R 3874 5 0 the 
+R 3880 6 0 han
+R 3888 6 0 dle 
+- 3896
+R 3902 3 0 What 
+R 3907 3 0 could 
+R 3911 3 0 it 
+R 3917 8 0 be 
+R 3929 6 0 it’s 
+R 3936 4 0 a 
+R 3942 6 0 mi
+R 3949 12 0 rage 
+- 3963
+R 3967 6 0 You’re 
+R 3974 4 0 sche
+R 3979 3 0 ming 
+R 3983 4 0 on 
+R 3988 2 0 a 
+R 3993 6 0 thing 
+R 4001 5 0 that’s 
+G 4007 7 0 sa
+G 4015 3 0 bo
+G 4020 21 0 tage 
+E

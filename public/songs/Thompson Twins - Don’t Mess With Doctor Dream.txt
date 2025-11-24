@@ -1,0 +1,486 @@
+#ARTIST:Thompson Twins
+#TITLE:Don’t Mess With Doctor Dream
+#MP3:Thompson Twins - Don’t Mess With Doctor Dream.mp3
+#CREATOR:Kitteh
+#COVER:Thompson Twins - Don’t Mess With Doctor Dream [CO].jpg
+#BACKGROUND:Thompson Twins - Don’t Mess With Doctor Dream [BG].jpg
+#YEAR:1985
+#LANGUAGE:English
+#BPM:393.75
+#GAP:4420
+#VIDEO:v=B9gdaY2GT3A,co=https://m.media-amazon.com/images/M/MV5BYjgzZGNiYjEtNjRiYi00ZjlkLTkzYzgtZjU4OTcwMzIzOTEwXkEyXkFqcGc@.jpg
+R 0 3 8 Ooh 
+R 4 3 8 Ooh 
+R 13 8 8 Oww 
+R 26 3 8 Ooh 
+R 32 3 8 Ooh 
+R 38 3 8 Ooh 
+R 43 8 8 Oww 
+- 54
+R 56 3 8 Ooh 
+R 60 3 8 Ooh 
+R 69 8 8 Oww 
+R 82 3 8 Ooh 
+R 88 3 8 Ooh 
+R 94 3 8 Ooh 
+R 99 8 8 Oww 
+- 111
+R 113 3 8 Ooh 
+R 117 3 8 Ooh 
+R 126 8 8 Oww 
+R 139 3 8 Ooh 
+R 145 3 8 Ooh 
+R 151 3 8 Ooh 
+R 156 8 8 Oww 
+- 169
+G 171 3 8 Ooh 
+G 175 3 8 Ooh 
+G 184 8 8 Oww 
+G 222 3 8 Ooh 
+G 226 3 8 Ooh 
+G 235 8 8 Oww 
+- 248
+R 250 3 8 Ooh 
+R 254 3 8 Ooh 
+R 262 3 8 Ooh 
+R 266 8 8 Oww 
+- 276
+R 278 8 8 Oww 
+R 291 8 8 Oww 
+R 305 8 8 Oww 
+R 318 8 8 Oww 
+- 378
+: 564 10 8 Don’t 
+: 576 6 19 mess 
+: 583 6 8 with 
+: 590 4 -3 Doc
+: 595 4 -3 tor 
+: 600 11 8 Dream! 
+- 637
+: 676 12 17 Don’t 
+: 689 6 6 mess 
+: 696 6 -3 with 
+: 703 4 -3 Doc
+: 708 4 -3 tor 
+: 713 11 9 Dream! 
+- 750
+: 778 8 12 Come 
+: 787 4 12 lay 
+: 792 5 13 your 
+: 798 4 12 head 
+: 803 8 12 down 
+: 814 3 10 on 
+: 818 3 10 the 
+: 822 14 12 stone 
+- 862
+: 889 6 11 So 
+: 896 9 10 cool 
+: 907 4 8 and 
+: 912 11 10 white 
+: 925 4 9 and 
+: 932 13 12 wel
+: 946 7 12 come 
+: 957 14 12 home 
+- 981
+: 1003 4 5 Or 
+: 1008 12 12 lose 
+: 1021 3 17 your 
+: 1025 4 17 trou
+: 1030 5 17 bles 
+: 1037 7 16 ease 
+: 1045 5 19 your 
+: 1051 19 13 pain 
+- 1080
+: 1118 2 11 And 
+: 1121 9 7 soothe 
+: 1131 3 4 your 
+: 1135 9 7 soul 
+: 1146 3 5 in 
+: 1151 18 8 gol
+: 1170 11 8 den 
+: 1183 15 8 rain 
+- 1208
+* 1239 27 14 Blue 
+* 1267 12 7 mar
+* 1280 9 7 ble 
+* 1291 13 7 seas 
+- 1308
+: 1310 3 7 I 
+: 1314 5 16 will 
+: 1321 6 16 make 
+: 1328 4 16 you 
+: 1333 10 17 feel 
+: 1344 6 16 so... 
+- 1355
+: 1357 16 12 Roll 
+: 1378 7 14 o
+: 1386 15 14 ver 
+: 1406 15 16 me 
+- 1421
+: 1423 9 17 Woah
+: 1433 12 16 ho
+: 1446 13 15 oh 
+- 1466
+: 1469 22 14 Blue 
+: 1496 14 12 mar
+: 1511 12 12 ble 
+: 1525 10 7 dreams 
+- 1537
+: 1539 5 7 Like 
+: 1546 5 16 you 
+: 1553 5 17 al
+: 1559 6 16 ways 
+: 1566 10 16 knew 
+: 1577 5 16 you... 
+- 1592
+* 1602 13 12 Roll 
+* 1619 16 14 over 
+* 1637 10 14 me 
+- 1657
+: 1692 8 15 Don’t 
+: 1705 7 6 mess 
+: 1713 4 9 with 
+: 1720 6 12 Doc
+: 1727 3 12 tor 
+: 1731 10 9 Dream 
+- 1743
+R 1745 3 8 Ooh 
+R 1749 3 8 Ooh 
+R 1758 8 8 Oww 
+R 1771 3 8 Ooh 
+R 1777 3 8 Ooh 
+R 1783 3 8 Ooh 
+R 1788 8 8 Oww 
+- 1798
+: 1800 12 8 Don’t 
+: 1816 7 4 mess 
+: 1824 3 9 with 
+: 1830 6 10 Doc
+: 1837 3 10 tor 
+: 1841 9 9 Dream 
+- 1856
+: 1858 7 20 He’s 
+: 1866 5 18 not 
+: 1872 7 19 one 
+: 1880 3 18 for 
+: 1884 8 20 sym
+: 1893 4 18 pa
+: 1898 10 16 thy 
+- 1915
+: 1918 8 22 Don’t 
+: 1930 9 8 mess 
+: 1941 4 9 with 
+: 1947 6 12 Doc
+: 1954 3 12 tor 
+: 1958 9 9 Dream 
+- 1971
+R 1973 3 8 Ooh 
+R 1977 3 8 Ooh 
+R 1986 8 8 Oww 
+R 1999 3 8 Ooh 
+R 2005 3 8 Ooh 
+R 2011 3 8 Ooh 
+R 2016 8 8 Oww 
+- 2026
+: 2028 14 6 Don’t 
+: 2044 7 9 mess 
+: 2052 4 9 with 
+: 2059 6 11 Doc
+: 2066 3 11 tor 
+: 2070 9 9 Dream 
+- 2085
+: 2088 7 19 He 
+: 2096 5 17 will 
+: 2102 7 19 bring 
+: 2110 3 21 you 
+: 2114 3 21 to 
+: 2119 6 17 your 
+: 2127 9 14 knees 
+- 2139
+: 2141 4 11 In 
+: 2146 3 12 the 
+: 2151 7 12 hours 
+: 2161 5 12 be
+: 2167 6 10 fore 
+: 2175 2 15 the 
+: 2178 13 12 dawn 
+- 2217
+: 2248 8 10 You 
+: 2258 10 10 curse 
+: 2270 3 7 the 
+: 2274 7 10 day 
+: 2282 5 8 that 
+: 2288 17 12 you 
+: 2308 5 12 were 
+: 2314 12 12 born 
+- 2336
+: 2354 10 16 Those 
+* 2366 3 14 de
+* 2370 8 14 mons 
+* 2379 6 15 scream 
+: 2386 3 17 in 
+: 2390 4 14 ex
+: 2395 4 14 ta
+: 2400 10 14 sy 
+- 2413
+: 2415 2 8 And 
+: 2419 5 8 you 
+: 2427 7 7 crawl 
+: 2435 8 7 ’round 
+: 2444 2 5 in 
+: 2447 3 6 a
+: 2451 8 6 go
+: 2460 8 6 ny 
+- 2474
+: 2477 4 5 Doc
+: 2482 3 5 tor 
+: 2486 11 16 jeers 
+: 2498 4 14 and 
+: 2505 7 13 fades 
+: 2514 6 17 away 
+- 2522
+: 2524 5 14 Now 
+: 2530 6 14 this 
+: 2537 5 17 is 
+: 2544 2 19 the 
+: 2547 9 19 price 
+: 2557 2 19 that 
+* 2560 6 20 you 
+* 2567 11 19 must 
+* 2579 9 14 pay 
+- 2594
+: 2597 22 14 Blue 
+: 2621 12 14 mar
+: 2634 12 14 ble 
+: 2648 12 12 seas 
+- 2665
+: 2667 1 16 I 
+: 2669 2 16 will 
+: 2673 2 16 make 
+: 2676 6 16 you 
+: 2687 5 15 feel 
+: 2699 6 17 so... 
+- 2709
+: 2711 26 14 Roll 
+: 2739 12 12 o
+: 2752 8 12 ver 
+: 2764 13 14 me 
+- 2778
+: 2780 9 17 Woah
+: 2790 12 16 ho
+: 2803 13 15 oh 
+- 2818
+: 2820 23 16 Blue 
+: 2845 11 14 mar
+: 2857 11 14 ble 
+: 2871 9 12 dreams 
+- 2882
+: 2884 6 7 Like 
+: 2892 6 7 you 
+: 2900 5 16 al
+: 2906 7 16 ways 
+: 2914 5 16 knew 
+: 2920 8 16 you... 
+- 2930
+: 2932 20 14 Roll 
+: 2958 16 14 o
+: 2975 6 14 ver 
+: 2987 5 17 me 
+- 2993
+: 2995 4 12 Don’t 
+: 3000 6 12 take 
+: 3008 3 15 that 
+: 3014 4 14 take 
+: 3022 12 18 this! 
+- 3060
+: 3096 4 14 Take 
+: 3104 12 18 this! 
+- 3142
+: 3213 6 20 He’s 
+: 3220 4 18 not 
+: 3225 5 19 one 
+: 3232 4 19 for 
+: 3238 9 17 sym
+: 3248 7 15 pa
+: 3256 11 13 thy 
+- 3293
+: 3328 4 12 He 
+: 3333 7 17 will 
+: 3341 6 19 bring 
+: 3348 5 19 you 
+: 3355 5 21 to 
+: 3361 6 17 your 
+: 3368 11 14 knees 
+- 3431
+: 3484 9 17 Oh 
+: 3494 6 17 lose 
+: 3501 6 19 your 
+: 3508 5 13 trou
+: 3514 6 13 bles 
+- 3520
+: 3521 11 16 Ease 
+: 3533 5 14 your 
+: 3540 8 14 pain
+: 3552 8 14 pain
+: 3564 8 14 pain 
+- 3574
+: 3576 8 14 Pain
+: 3588 8 14 pain
+: 3600 8 14 pain 
+- 3610
+: 3612 8 14 Pain
+: 3624 8 14 pain
+: 3636 8 14 pain 
+- 3654
+: 3663 3 19 This 
+: 3669 4 19 is 
+: 3674 3 18 the 
+: 3678 10 19 price 
+: 3689 7 21 you 
+: 3697 6 17 must 
+: 3704 12 14 pay 
+- 3720
+: 3722 5 21 You 
+: 3729 5 21 must 
+: 3737 5 21 you 
+: 3744 5 20 must 
+: 3752 5 20 you 
+: 3760 5 20 must 
+: 3768 5 20 you 
+- 3776
+R 3778 3 8 Ooh 
+R 3782 3 8 Ooh 
+R 3791 8 8 Oww 
+R 3804 3 8 Ooh 
+R 3810 3 8 Ooh 
+R 3816 3 8 Ooh 
+R 3821 8 8 Oww 
+- 3855
+R 3893 3 8 Ooh 
+R 3897 3 8 Ooh 
+R 3906 8 8 Oww 
+R 3919 3 8 Ooh 
+R 3925 3 8 Ooh 
+R 3931 3 8 Ooh 
+R 3936 8 8 Oww 
+- 3970
+: 4006 8 4 Don’t 
+: 4015 8 10 mess 
+: 4024 6 10 with 
+: 4031 5 11 Doc
+: 4037 4 11 tor 
+: 4042 10 9 Dream 
+- 4056
+R 4058 3 8 Ooh 
+R 4062 3 8 Ooh 
+R 4071 8 8 Oww 
+R 4084 3 8 Ooh 
+R 4090 3 8 Ooh 
+R 4096 3 8 Ooh 
+R 4101 8 8 Oww 
+- 4112
+: 4114 8 8 Don’t 
+: 4128 7 5 mess 
+: 4137 5 9 with 
+: 4143 6 8 Doc
+: 4150 4 12 tor 
+: 4155 10 9 Dream 
+- 4169
+: 4171 5 19 He’s 
+: 4177 5 17 not 
+: 4184 7 19 one 
+: 4192 3 19 for 
+* 4196 10 20 sym
+* 4207 11 15 pathy 
+- 4224
+: 4227 8 14 Don’t 
+: 4241 7 8 mess 
+: 4249 5 10 with 
+: 4256 6 7 Doc
+: 4263 4 12 tor 
+: 4268 10 9 Dream 
+- 4288
+: 4323 6 15 No
+: 4331 6 15 no
+: 4339 10 15 please
+: 4351 6 16 don’t 
+: 4358 5 15 mess 
+: 4364 5 9 with 
+: 4370 6 16 Doc
+: 4377 4 16 tor 
+: 4382 10 8 Dream 
+- 4394
+: 4396 7 19 He 
+: 4404 5 17 will 
+: 4410 7 19 bring 
+: 4418 4 17 you 
+: 4423 3 21 to 
+: 4428 7 17 your 
+: 4436 11 14 knees 
+- 4451
+: 4453 10 15 Don’t 
+: 4465 7 4 mess 
+: 4473 4 10 with 
+: 4480 6 10 Doc
+: 4487 4 11 tor 
+: 4492 11 9 Dream 
+- 4509
+R 4511 3 8 Ooh 
+R 4515 3 8 Ooh 
+R 4524 8 8 Oww 
+R 4537 3 8 Ooh 
+R 4543 3 8 Ooh 
+R 4549 3 8 Ooh 
+R 4554 8 8 Oww 
+- 4565
+: 4567 10 6 Don’t 
+: 4579 7 9 mess 
+: 4587 4 9 with 
+: 4594 6 9 Doc
+: 4601 4 13 tor 
+: 4606 11 9 Dream 
+- 4619
+: 4621 7 20 He’s 
+: 4629 5 18 not 
+: 4636 6 19 one 
+: 4643 4 18 for 
+: 4648 6 20 sym
+: 4655 4 19 pa
+: 4660 6 17 thy 
+- 4674
+: 4677 9 17 Don’t 
+: 4692 7 8 mess 
+: 4700 4 10 with 
+: 4706 6 8 Doc
+: 4713 4 8 tor 
+: 4718 8 9 Dream 
+- 4728
+: 4730 15 14 Please 
+: 4746 6 17 Don’t 
+: 4753 5 8 mess 
+: 4759 3 10 with 
+: 4768 6 8 Doc
+: 4775 4 8 tor 
+: 4780 8 9 Dream 
+- 4790
+: 4792 8 14 Don’t 
+: 4805 7 10 mess 
+: 4813 4 10 with 
+: 4819 6 13 Doc
+: 4826 4 12 tor 
+: 4831 11 9 Dream 
+- 4848
+: 4851 3 19 He 
+: 4856 5 17 will 
+: 4862 7 19 bring 
+: 4870 3 17 you 
+: 4874 4 21 to 
+: 4880 7 17 your 
+: 4888 11 14 knees 
+- 4901
+: 4903 7 24 Don’t 
+: 4912 5 18 take 
+: 4919 5 21 that 
+: 4926 4 19 take 
+: 4946 10 21 this! 
+E

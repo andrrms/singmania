@@ -1,0 +1,300 @@
+#ARTIST:Jonti Picking
+#TITLE:Narwhals Song
+#MP3:Jonti Picking - Narwhals Song.mp3
+#CREATOR:Volodia
+#COVER:Jonti Picking - Narwhals Song [CO].jpg
+#BACKGROUND:Jonti Picking - Narwhals Song [BG].jpg
+#YEAR:2009
+#LANGUAGE:English
+#BPM:302.23
+#GAP:180
+#VIDEO:v=ykwqXuMPsoc,co=https://lh6.googleusercontent.com/proxy/CF7u3c8fbXUSUJR14CQBWZq-jJpauuzgXFRetwS0azPQJ2j-g0VVgd2gt1PZBrGoAktIb5hqNataMOJIBCiEfUPPRt9XJ_i9fhcj6hrtaMZl7QB1FYSskXJ-Uek,co-crop=30-0-477-477
+: 0 6 32 Nar
+: 8 4 32 whals, 
+: 16 4 29 nar
+: 21 1 27 ~
+: 23 5 27 whals 
+- 29
+: 31 3 27 Swim
+: 36 2 27 ming 
+: 39 2 27 in 
+: 43 1 29 the
+: 46 1 23 ~ 
+: 48 3 24 o
+: 52 2 20 ~
+: 57 2 20 cean 
+- 60
+: 62 5 20 Caus
+: 68 1 20 ing 
+: 71 2 20 a 
+: 76 1 20 com
+: 79 1 20 mo
+: 81 2 22 ~
+: 84 1 20 ~
+: 88 4 20 tion 
+- 93
+: 95 2 20 ’Coz 
+: 99 4 20 they 
+: 104 2 20 are 
+: 108 2 20 so 
+* 111 3 17 awe
+* 115 2 15 ~
+* 120 4 15 some 
+- 125
+: 127 7 32 Nar
+: 136 4 32 whals, 
+: 144 4 29 nar
+: 149 1 27 ~
+: 152 4 27 whals 
+- 157
+: 159 3 27 Swim
+: 164 2 27 ming 
+: 168 1 27 in 
+: 171 1 29 the
+: 174 1 23 ~ 
+: 176 3 24 o
+* 180 2 20 ~
+* 185 3 20 cean 
+- 191
+: 193 3 27 Pret
+: 197 1 27 ty 
+: 200 3 27 big 
+: 204 1 29 and 
+: 209 2 23 pret
+: 212 3 22 ty 
+: 216 1 20 white 
+- 218
+: 220 1 18 They 
+: 224 2 20 beat 
+: 228 2 20 a 
+: 232 2 20 po
+: 235 1 20 lar 
+: 237 2 20 bear 
+: 240 3 22 in 
+: 244 2 20 a 
+: 248 5 20 fight! 
+- 254
+: 256 2 20 Like 
+: 260 2 20 an 
+: 263 3 20 un
+: 268 2 20 der
+: 272 2 20 wa
+: 275 1 20 ter 
+: 277 2 20 u
+: 280 2 22 ~
+: 283 2 20 ni
+: 287 2 24 corn 
+- 290
+: 292 2 24 They’ve 
+: 296 3 24 got 
+: 300 1 24 a 
+: 303 2 24 kick-
+: 308 1 24 ass 
+: 312 2 25 fa
+: 317 1 24 cial 
+: 319 6 27 horn 
+- 326
+: 328 3 27 They’re 
+: 332 1 27 the 
+: 336 3 27 Je
+: 340 4 27 di 
+: 345 2 29 of 
+: 348 2 27 the 
+* 353 5 27 sea 
+- 359
+F 361 1 24 They stop 
+F 364 1 24 Cthu
+F 367 4 24 lu 
+F 376 2 24 eat
+F 380 2 24 ing, 
+F 384 5 24 ye! 
+- 399
+: 423 3 23 Nar
+: 427 3 24 ~
+: 432 13 20 whals 
+- 446
+: 448 3 18 They 
+: 452 5 20 are 
+* 459 4 23 nar
+* 464 2 24 ~
+* 468 12 20 whals 
+- 486
+: 488 3 23 Nar
+: 492 2 24 ~
+: 496 13 20 whals 
+- 510
+: 512 1 8 Just 
+: 516 2 8 don’t 
+: 520 3 11 let 
+: 524 2 11 ’em 
+: 528 2 13 touch 
+: 533 1 13 your 
+: 536 8 15 balls! 
+- 550
+: 552 2 23 Nar
+: 555 3 24 ~
+: 559 14 20 whals 
+- 574
+: 576 4 18 They 
+: 581 4 20 are 
+: 588 4 23 nar
+: 593 1 24 ~
+: 596 13 20 whals 
+- 614
+: 616 3 23 Nar
+: 620 2 24 ~
+: 624 9 20 whals 
+- 634
+: 636 3 27 In
+: 640 2 25 vent
+: 643 2 27 ors 
+: 648 1 25 of 
+: 651 4 27 the 
+: 656 2 25 shish 
+: 660 1 20 ke
+: 664 5 20 bab! 
+- 670
+: 672 6 32 Nar
+: 680 5 32 whals, 
+: 688 5 29 nar
+: 694 1 27 ~
+: 696 4 27 whals 
+- 702
+: 704 3 27 Swim
+: 708 2 27 ming 
+: 712 2 27 in 
+: 716 1 29 the
+: 719 1 23 ~ 
+: 721 2 24 o
+: 724 3 20 ~
+: 729 4 20 cean 
+- 734
+: 736 3 20 Caus
+: 741 1 20 ing 
+: 744 1 20 a 
+: 748 1 20 com
+: 751 1 20 mo
+: 753 2 22 ~
+: 756 2 20 ~
+: 760 3 20 tion 
+- 766
+: 768 1 20 ’Coz 
+: 772 3 20 they 
+: 776 2 20 are 
+: 781 2 20 so 
+: 784 3 17 awe
+: 788 2 15 ~
+: 793 2 15 some 
+- 798
+: 800 6 32 Nar
+: 808 4 32 whals, 
+* 817 4 29 nar
+* 822 1 27 ~
+* 824 5 27 whals 
+- 830
+: 832 3 27 Swim
+: 836 2 27 ming 
+: 840 2 27 in 
+: 844 1 29 the
+: 847 1 23 ~ 
+: 849 2 24 o
+: 852 3 20 ~
+: 858 4 20 cean 
+- 863
+: 865 3 27 Pret
+: 869 2 27 ty 
+: 872 3 27 big 
+: 876 2 29 and 
+: 881 3 23 pret
+: 885 2 22 ty 
+: 889 1 20 white 
+- 891
+: 893 1 18 They 
+: 896 3 20 beat 
+: 900 2 20 a 
+: 905 2 20 po
+: 908 1 20 lar 
+: 910 2 20 bear 
+: 913 3 22 in 
+: 917 1 20 a 
+: 921 5 20 fight! 
+- 927
+: 929 2 20 Like 
+: 933 1 20 an 
+: 936 2 20 un
+: 940 2 20 der
+: 944 3 20 wa
+: 948 2 20 ter 
+: 951 3 22 u
+: 955 2 20 ni
+: 960 2 24 corn 
+- 963
+: 965 1 24 They’ve 
+: 968 3 24 got 
+: 972 2 24 a 
+: 976 2 24 kick-
+: 980 2 24 ass 
+: 985 2 25 fa
+: 989 2 24 cial 
+: 992 5 27 horn 
+- 998
+: 1000 3 27 They’re 
+: 1005 1 27 the 
+: 1009 3 27 Je
+: 1013 3 27 di 
+: 1017 2 29 of 
+: 1021 2 27 the 
+: 1025 4 27 sea 
+- 1030
+F 1032 2 24 They stop 
+F 1036 2 24 Cthu
+F 1039 5 24 lu 
+F 1048 3 24 eat
+F 1053 2 24 ing, 
+F 1056 5 24 ye! 
+- 1071
+: 1096 3 23 Nar
+: 1100 2 24 ~
+: 1104 13 20 whals 
+- 1118
+: 1120 4 18 They 
+: 1125 4 20 are 
+: 1132 3 23 nar
+: 1137 2 24 ~
+: 1141 12 20 whals 
+- 1158
+: 1160 3 23 Nar
+: 1164 3 24 ~
+: 1169 12 20 whals 
+- 1182
+: 1184 2 8 Just 
+: 1188 2 8 don’t 
+: 1193 3 11 let 
+: 1197 1 11 ’em 
+: 1200 2 13 touch 
+: 1205 1 13 your 
+: 1208 9 15 balls! 
+- 1222
+: 1224 3 23 Nar
+: 1228 2 24 ~
+: 1232 13 20 whals 
+- 1246
+: 1248 4 18 They 
+: 1253 4 20 are 
+* 1260 3 23 nar
+* 1265 1 24 ~
+* 1269 12 20 whals 
+- 1286
+: 1288 3 23 Nar
+: 1292 3 24 ~
+: 1297 8 20 whals 
+- 1306
+: 1308 3 27 In
+: 1312 3 25 vent
+: 1316 2 27 ors 
+: 1320 2 25 of 
+: 1324 3 27 the 
+: 1329 2 25 shish 
+: 1333 1 20 ke
+: 1336 5 20 bab! 
+E

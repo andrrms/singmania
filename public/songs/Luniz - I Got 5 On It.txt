@@ -1,0 +1,978 @@
+#ARTIST:Luniz
+#TITLE:I Got 5 On It
+#MP3:Luniz - I Got 5 On It.mp3
+#CREATOR:Fepo
+#GENRE:West Coast
+#YEAR:1995
+#LANGUAGE:English
+#BPM:260.97
+#GAP:4780
+#VIDEO:v=me3CPl_i4C4,co=i-got-5-on-it-68f90aa54682a.jpg,bg=https://i.ytimg.com/vi/me3CPl_i4C4/maxresdefault.jpg
+: 0 3 1 Creep 
+: 5 2 3 on 
+: 9 4 1 it, 
+: 16 2 3 on 
+: 20 3 1 it, 
+- 25
+: 92 5 -4 Woo, 
+: 110 3 -4 see 
+: 115 3 -4 I’m 
+: 120 3 -4 ri
+: 125 2 -4 din’ 
+: 130 2 -2 high
+: 133 2 -2 er 
+: 137 2 -4 and 
+: 141 2 -2 high
+: 144 2 -2 er, 
+: 155 4 3 woo 
+: 162 3 3 ooh 
+- 167
+: 210 2 -2 Kin
+: 213 2 0 da 
+: 216 4 1 broke 
+: 221 2 1 to 
+: 224 5 1 see 
+: 233 5 -2 ya 
+: 242 2 -2 so 
+: 246 2 0 know 
+: 249 2 0 all 
+: 253 2 1 I 
+: 256 4 -2 got 
+: 264 8 3 five, 
+- 274
+: 280 2 1 I 
+: 283 2 3 got 
+: 288 8 3 5 
+- 298
+F 307 2 1 Pla
+F 311 2 1 yer, 
+F 316 2 1 give 
+F 319 2 1 me 
+F 322 2 1 some 
+F 326 4 1 brew 
+F 332 2 1 an 
+F 335 2 1 I 
+F 338 2 1 might 
+F 342 3 1 just 
+F 347 3 1 chill, 
+- 351
+F 352 2 1 But 
+F 355 2 1 I’m 
+F 358 2 1 the 
+F 361 2 1 type 
+F 364 2 1 that 
+F 367 2 1 likes 
+F 370 2 1 to 
+F 373 2 1 light 
+F 376 1 1 a
+F 378 2 1 no
+F 381 2 1 ther 
+F 385 3 1 joint 
+F 390 3 1 like 
+F 395 2 1 Cy
+F 399 2 1 press 
+F 403 3 1 Hill 
+- 408
+F 412 2 1 I 
+F 416 2 1 steal 
+F 420 2 1 doo
+F 424 2 1 bies 
+F 428 2 1 spit 
+F 432 2 1 loo
+F 436 2 1 gies 
+F 439 2 1 when 
+F 442 2 1 I 
+F 446 3 1 puff 
+F 451 2 1 on 
+F 454 2 1 it, 
+- 458
+F 460 2 1 I 
+F 463 2 1 got 
+F 466 2 1 some 
+F 470 2 1 bucks 
+F 474 2 1 on 
+F 478 2 1 it, 
+F 481 2 1 but 
+F 484 2 1 it 
+F 487 2 1 ain’t 
+F 490 1 1 e
+F 492 3 1 nuff 
+F 498 2 1 on 
+F 501 2 1 it 
+- 505
+F 507 2 1 Go 
+F 510 2 1 get 
+F 513 2 1 the 
+F 517 2 1 S 
+F 521 1 1 the 
+F 523 2 1 T-
+F 526 2 1 I-
+F 530 2 1 D-
+F 534 2 1 E-
+F 538 3 1 S 
+- 543
+F 546 2 1 Ne
+F 549 1 1 ver 
+F 551 1 1 the 
+F 553 2 1 less, 
+- 557
+F 560 1 1 I’m 
+F 562 1 1 hel
+F 564 1 1 la 
+F 566 3 1 fresh, 
+- 571
+F 572 1 1 Rol
+F 575 1 1 lin’ 
+F 578 2 1 joints 
+F 582 2 1 like 
+F 586 1 1 a 
+F 589 2 1 ci
+F 593 2 1 ga
+F 597 2 1 rette 
+- 601
+F 610 2 1 So 
+F 613 2 1 pass 
+F 616 2 1 it 
+F 619 2 1 cross 
+F 622 2 1 the 
+F 625 2 1 ta
+F 628 2 1 ble 
+F 631 2 1 like 
+F 636 3 1 ping 
+F 641 1 1 pong, 
+- 643
+F 643 2 1 I’m 
+F 646 2 1 gone, 
+- 650
+F 660 2 1 Bea
+F 664 2 1 tin’ 
+F 668 2 1 my 
+F 671 2 1 chest 
+F 675 2 1 like 
+F 679 3 1 King 
+F 684 3 1 Kong, 
+- 689
+F 695 2 1 It’s 
+F 699 2 1 on, 
+- 702
+F 702 2 1 Wrap 
+F 705 2 1 my 
+F 708 2 1 lips 
+F 711 2 1 a
+F 714 3 1 round 
+F 718 1 1 a 
+F 720 4 1 4
+F 725 2 1 0, 
+- 729
+F 731 1 1 And 
+F 733 1 1 when 
+F 736 2 1 it 
+F 739 2 1 comes 
+F 742 1 1 to 
+F 744 3 1 get 
+F 748 1 1 a
+F 750 1 1 no
+F 753 2 1 ther 
+F 756 4 1 sto
+F 763 2 1 gie, 
+- 767
+F 770 2 1 Fools 
+F 774 2 1 all 
+F 778 2 1 kick 
+F 782 2 1 in 
+F 786 2 1 like 
+F 790 2 1 Shi
+F 793 3 1 no
+F 798 2 1 bi 
+- 802
+F 803 2 1 Know 
+F 807 2 1 Me 
+F 811 2 1 ain’t 
+F 814 2 1 my 
+F 817 2 1 ho
+F 820 2 1 mie 
+F 823 2 1 to 
+F 826 2 1 be
+F 829 2 1 gin 
+F 833 2 1 with, 
+- 837
+F 838 2 1 It’s 
+F 841 2 1 too 
+F 844 2 1 ma
+F 847 3 1 ny 
+F 851 3 1 heads 
+F 856 2 1 to 
+F 859 3 1 be 
+F 864 2 1 pop
+F 867 2 1 pin’ 
+F 870 1 1 that 
+F 872 1 1 let 
+F 875 2 1 my 
+F 879 2 1 friend 
+F 883 2 1 hit 
+F 887 3 1 bit 
+- 892
+F 898 2 1 Un
+F 901 2 1 less 
+F 904 2 1 you 
+F 907 3 1 pull 
+F 912 2 1 out 
+F 915 2 1 the 
+F 918 4 1 fat, 
+F 924 3 1 cris
+F 929 2 1 py 
+- 933
+F 937 3 1 Five 
+F 942 2 1 dol
+F 946 2 1 lar 
+F 950 2 1 bill 
+F 954 2 1 on 
+F 958 2 1 the 
+F 961 2 1 real 
+F 964 2 1 be
+F 967 2 1 fore 
+F 970 2 1 it’s 
+F 973 4 1 his
+F 979 2 1 to
+F 982 2 1 ry 
+- 986
+F 992 2 1 Causs 
+F 996 2 1 fools 
+F 1000 2 1 be 
+F 1003 1 1 ha
+F 1005 1 1 vin’ 
+F 1007 1 1 them 
+F 1009 4 1 vac
+F 1015 2 1 cum 
+F 1019 2 1 lungs, 
+- 1023
+F 1025 2 1 And 
+F 1028 1 1 if 
+F 1030 1 1 you 
+F 1032 2 1 let 
+F 1035 2 1 ’em 
+F 1038 1 1 hit 
+F 1040 1 1 it 
+F 1042 1 1 for 
+F 1044 2 1 free, 
+- 1047
+F 1048 2 1 You 
+F 1051 2 1 hel
+F 1054 2 1 la 
+F 1057 5 1 “dum 
+F 1064 3 1 da 
+F 1069 3 1 dum” 
+- 1074
+F 1084 2 1 I 
+F 1087 2 1 come 
+F 1090 2 1 to 
+F 1093 5 1 school 
+F 1100 1 1 with 
+F 1102 1 1 a 
+F 1104 2 1 tay
+F 1108 2 1 lor 
+F 1111 2 1 on 
+F 1114 2 1 my 
+F 1117 5 1 ear
+F 1123 2 1 lobe 
+- 1126
+F 1127 2 1 A
+F 1130 1 1 voi
+F 1132 1 1 din’ 
+F 1135 2 1 all 
+F 1138 2 1 the 
+F 1142 2 1 thick 
+F 1146 3 1 tea
+F 1151 2 1 sers, 
+F 1155 2 1 skee
+F 1159 2 1 zers, 
+F 1162 2 1 and 
+F 1165 4 1 weir
+F 1171 3 1 dos 
+- 1176
+F 1182 2 1 That 
+F 1186 2 1 be 
+F 1189 2 1 blo
+F 1192 1 1 win’ 
+F 1194 2 1 off 
+F 1197 2 1 the 
+F 1200 2 1 land 
+F 1204 2 1 like 
+F 1207 2 1 “Where 
+F 1210 2 1 tha 
+F 1213 5 1 bomb 
+F 1220 2 1 at?” 
+- 1224
+F 1228 2 1 Give 
+F 1231 2 1 me 
+F 1234 2 1 two 
+F 1237 2 1 bucks, 
+F 1240 2 1 you 
+F 1243 2 1 take 
+F 1246 2 1 a 
+F 1249 2 1 puff, 
+F 1252 2 1 and 
+F 1255 2 1 pass 
+F 1258 2 1 my 
+F 1262 3 1 bomb 
+F 1267 3 1 back 
+- 1272
+F 1276 2 1 Suck 
+F 1280 2 1 up 
+F 1283 2 1 the 
+F 1286 3 1 dank 
+F 1290 2 1 like 
+F 1294 1 1 a 
+F 1296 4 1 slur
+F 1302 2 1 py 
+- 1305
+F 1306 2 1 The 
+F 1309 2 1 se
+F 1312 2 1 ri
+F 1315 2 1 ous 
+F 1320 2 1 bomb 
+F 1324 2 1 will 
+F 1327 2 1 make 
+F 1330 2 1 a 
+F 1333 2 1 nig
+F 1336 2 1 gie 
+F 1339 2 1 go 
+F 1342 2 1 de
+F 1345 2 1 li
+F 1348 2 1 ri
+F 1351 2 1 ous 
+F 1354 2 1 like 
+F 1357 2 1 Ed
+F 1360 2 1 die 
+F 1363 2 1 Mur
+F 1367 2 1 phy 
+- 1371
+F 1372 2 1 I 
+F 1375 2 1 got 
+F 1378 2 1 more 
+F 1381 2 1 gro
+F 1384 2 1 win’ 
+F 1387 2 1 pains 
+F 1391 2 1 than 
+F 1395 5 1 Mag
+F 1402 2 1 gie 
+- 1406
+F 1408 2 1 ’Cause 
+F 1411 2 1 ho
+F 1415 2 1 mies 
+F 1419 4 1 nag 
+F 1425 2 1 me, 
+- 1429
+F 1434 1 1 Take 
+F 1437 2 1 the 
+F 1440 2 1 dank 
+F 1444 2 1 out 
+F 1447 1 1 of 
+F 1449 2 1 the 
+- 1452
+: 1452 2 5 I 
+: 1456 3 3 got 
+* 1464 7 3 5 
+: 1476 5 1 on 
+: 1484 3 3 it, 
+- 1489
+: 1500 2 1 Grab 
+: 1504 2 3 your 
+: 1508 7 5 4
+: 1517 2 1 0 
+- 1520
+: 1521 3 1 Let’s 
+: 1527 3 5 get 
+: 1534 4 5 key
+: 1540 2 3 ~ed 
+- 1544
+: 1548 2 1 I 
+: 1552 2 3 got 
+: 1557 10 3 5 
+: 1572 5 1 on 
+: 1579 4 3 it, 
+- 1585
+: 1596 2 1 Mes
+: 1600 2 5 sin’ 
+: 1604 4 5 wit 
+: 1611 4 3 that 
+: 1618 3 1 In
+: 1624 3 5 do 
+: 1630 4 5 wee
+: 1636 4 3 ~d 
+- 1642
+: 1644 2 5 I 
+: 1648 2 3 got 
+: 1653 11 3 5 
+: 1668 5 1 on 
+: 1675 3 3 it, 
+- 1680
+: 1688 2 -2 It’s 
+: 1692 2 1 got 
+: 1696 2 3 me 
+: 1700 4 5 stuck 
+: 1708 4 3 and 
+: 1715 2 1 I’m 
+: 1720 4 3 tow 
+: 1727 4 5 ba
+: 1732 2 3 ~ck 
+- 1736
+: 1740 2 1 I 
+: 1744 2 3 got 
+: 1749 10 3 5 
+: 1764 5 1 on 
+: 1771 4 3 it, 
+- 1777
+: 1788 2 5 Part
+: 1792 2 5 na, 
+: 1796 5 5 let’s 
+: 1804 3 5 go 
+: 1810 4 5 half 
+: 1816 2 5 on 
+: 1819 2 5 a 
+: 1822 2 5 sa
+: 1825 3 6 ~
+: 1829 3 5 ~c 
+- 1834
+F 1836 2 1 Sacks 
+F 1842 1 1 to 
+F 1845 1 1 the 
+F 1849 4 1 face, 
+F 1856 2 1 when
+F 1860 2 1 e
+F 1863 2 1 ver 
+F 1866 2 1 I 
+F 1869 4 1 can, 
+- 1874
+F 1875 2 1 Don’t 
+F 1878 2 1 need 
+F 1882 2 1 no 
+F 1886 2 1 crutch 
+F 1893 2 1 I’m 
+F 1897 2 1 so 
+F 1901 2 1 keyed 
+F 1906 2 1 up, 
+- 1910
+F 1913 2 1 Till 
+F 1917 2 1 the 
+F 1921 2 1 joint 
+F 1925 2 1 be 
+F 1929 2 1 bur
+F 1933 2 1 nin’ 
+F 1936 2 1 my 
+F 1939 3 1 hand 
+- 1944
+F 1946 2 1 Next 
+F 1950 2 1 time 
+F 1953 2 1 I 
+F 1956 2 1 roll 
+F 1959 2 1 it 
+F 1962 2 1 in 
+F 1965 2 1 a 
+F 1969 4 1 ham
+F 1976 3 1 pa 
+- 1981
+F 1983 2 1 To 
+F 1987 2 1 burn 
+F 1991 4 1 slo, 
+F 1997 2 1 so 
+F 2001 2 1 the 
+F 2004 2 1 a
+F 2007 2 1 shes 
+F 2010 2 1 won’t 
+F 2013 2 1 be 
+F 2016 2 1 bur
+F 2019 2 1 nin’ 
+F 2022 2 1 in 
+F 2025 2 1 my 
+F 2028 3 1 hand, 
+F 2034 3 1 bruh 
+- 2039
+F 2042 2 1 Hoo
+F 2046 2 1 chies 
+F 2049 2 1 can 
+F 2052 2 1 hit, 
+F 2055 2 1 but 
+F 2058 2 1 they 
+F 2061 3 1 know 
+F 2066 2 1 they 
+F 2070 2 1 got 
+F 2073 2 1 to 
+F 2076 3 1 pitch 
+F 2081 2 1 in, 
+- 2085
+F 2086 3 1 Then 
+F 2091 2 1 I 
+F 2094 2 1 roll 
+F 2097 2 1 a 
+F 2101 2 1 joint 
+F 2105 2 1 that’s 
+F 2109 2 1 lon
+F 2112 2 1 ger 
+F 2115 2 1 than 
+F 2118 2 1 your 
+F 2122 2 1 ex
+F 2126 4 1 ten
+F 2132 2 1 sion 
+- 2136
+F 2139 2 1 ’Cause 
+F 2142 2 1 I’ll 
+F 2145 2 1 be 
+F 2149 2 1 damned 
+F 2152 2 1 if 
+F 2155 2 1 you 
+F 2158 1 1 get 
+F 2160 2 1 high 
+F 2164 2 1 off 
+F 2169 2 1 me 
+F 2174 2 1 for 
+F 2179 3 1 free 
+- 2184
+F 2188 4 1 Hell 
+F 2194 3 1 naw, 
+F 2199 2 1 you 
+F 2202 2 1 bet
+F 2205 2 1 ta 
+F 2208 2 1 bring 
+F 2211 2 1 your 
+F 2214 2 1 own 
+F 2219 5 1 spliff, 
+F 2226 4 1 cheif 
+- 2232
+F 2234 2 1 Was
+F 2237 2 1 sup, 
+F 2240 2 1 don’t 
+F 2244 2 1 ba
+F 2247 2 1 by
+F 2250 2 1 sit 
+F 2254 2 1 that 
+- 2258
+F 2262 2 1 Bet
+F 2265 2 1 ter 
+F 2268 3 1 pass 
+F 2274 2 1 the 
+F 2278 5 1 joint! 
+- 2285
+F 2289 2 1 Stop 
+F 2292 2 1 hit
+F 2295 2 1 tin’ 
+F 2298 2 1 cause 
+F 2301 2 1 you 
+F 2304 2 1 know 
+F 2307 2 1 ya 
+F 2311 2 1 got 
+F 2317 3 1 Asth
+F 2323 3 1 ma 
+- 2328
+F 2331 5 1 Crack 
+F 2337 2 1 a 
+F 2340 2 1 4
+F 2343 2 1 0 
+F 2346 2 1 o
+F 2349 2 1 pen, 
+F 2352 2 1 ho
+F 2355 2 1 mie, 
+F 2360 2 1 and 
+F 2363 2 1 guz
+F 2367 2 1 zle 
+F 2370 2 1 it, 
+- 2373
+F 2373 2 1 ’Cause 
+F 2376 2 1 I 
+F 2380 2 1 know 
+F 2384 2 1 the 
+F 2388 2 1 weed 
+F 2391 2 1 in 
+F 2394 2 1 my 
+F 2397 3 1 sys
+F 2401 1 1 tem 
+F 2403 2 1 is 
+F 2406 2 1 get
+F 2410 2 1 tin’ 
+F 2414 3 1 lone
+F 2419 3 1 ly 
+- 2424
+F 2427 2 1 I 
+F 2430 2 1 got
+F 2433 2 1 ta 
+F 2436 2 1 take 
+F 2439 2 1 a 
+F 2443 3 1 whiz 
+F 2448 3 1 test 
+F 2453 2 1 to 
+F 2457 2 1 my 
+F 2461 3 1 P.
+F 2466 2 1 O. 
+- 2470
+F 2473 2 1 I 
+F 2476 2 1 know 
+F 2479 2 1 I 
+F 2482 3 1 failed 
+F 2487 2 1 ’cause 
+F 2490 2 1 I 
+F 2493 2 1 done 
+F 2496 4 1 smoked 
+F 2502 2 1 ma
+F 2505 2 1 jor 
+F 2509 2 1 weed 
+F 2515 3 1 bro, 
+- 2520
+F 2523 2 1 An 
+F 2526 2 1 eve
+F 2529 2 1 ry
+F 2532 2 1 time 
+F 2535 2 1 we 
+F 2538 2 1 with 
+F 2542 3 1 Chris 
+F 2547 2 1 that 
+F 2551 2 1 fool 
+F 2555 2 1 rol
+F 2559 2 1 lin’ 
+F 2562 2 1 up 
+F 2565 2 1 a 
+F 2569 3 1 fat
+F 2574 2 1 tie, 
+- 2578
+F 2580 2 1 But 
+F 2583 2 1 the 
+F 2587 2 1 Tan
+F 2590 2 1 que
+F 2593 2 1 ray 
+F 2597 4 1 straight 
+- 2603
+: 2604 2 5 I 
+: 2608 3 3 got 
+: 2616 7 3 5 
+: 2628 5 1 on 
+: 2636 3 3 it, 
+- 2641
+: 2652 2 1 Grab 
+: 2656 2 3 your 
+: 2660 7 5 4
+: 2669 2 1 0 
+- 2672
+: 2673 3 1 Let’s 
+: 2679 3 5 get 
+: 2686 4 5 key
+: 2692 2 3 ~ed 
+- 2696
+: 2700 2 1 I 
+: 2704 3 3 got 
+: 2712 7 3 5 
+: 2724 5 1 on 
+: 2732 3 3 it, 
+- 2737
+: 2748 2 1 Mes
+: 2752 2 5 sin’ 
+: 2756 4 5 wit 
+: 2763 4 3 that 
+: 2770 3 1 In
+: 2776 3 5 do 
+: 2782 4 5 wee
+: 2788 4 3 ~d 
+- 2794
+: 2796 2 3 I 
+: 2800 3 3 got 
+: 2808 7 3 5 
+: 2820 5 1 on 
+: 2828 3 3 it, 
+- 2833
+: 2840 2 -2 It’s 
+: 2844 2 1 got 
+: 2848 2 3 me 
+: 2852 4 5 stuck 
+: 2860 4 3 and 
+: 2867 2 1 I’m 
+: 2872 4 3 tow 
+: 2879 4 5 ba
+: 2884 2 3 ~ck 
+- 2888
+: 2892 2 1 I 
+: 2896 3 3 got 
+: 2904 7 3 5 
+: 2916 5 1 on 
+: 2924 3 3 it, 
+- 2929
+: 2940 2 5 Part
+: 2944 2 5 na, 
+: 2948 5 5 let’s 
+: 2956 3 5 go 
+: 2962 4 5 half 
+: 2968 2 5 on 
+: 2971 2 5 a 
+: 2974 2 5 sa
+: 2977 3 6 ~
+: 2981 3 5 ~c 
+- 2986
+F 2997 3 1 Hey, 
+F 3004 4 1 make 
+F 3009 2 1 this 
+F 3013 3 1 right 
+F 3018 4 1 mate 
+- 3024
+F 3026 3 1 Stop 
+F 3031 2 1 at 
+F 3034 2 1 the 
+F 3037 3 1 light 
+F 3041 2 1 mate, 
+- 3044
+F 3045 2 1 My 
+F 3048 2 1 yes
+F 3052 2 1 ter 
+F 3055 2 1 night 
+F 3059 4 1 thang 
+F 3065 2 1 got 
+F 3069 2 1 me 
+F 3073 2 1 hung 
+F 3077 2 1 off 
+F 3081 2 1 the 
+F 3085 2 1 night 
+F 3089 5 1 train 
+- 3096
+F 3099 2 1 You 
+F 3103 2 1 fade, 
+F 3106 2 1 I 
+F 3109 3 1 fade 
+- 3114
+F 3115 2 1 So 
+F 3119 2 1 let’s 
+F 3123 2 1 head 
+F 3127 2 1 to 
+F 3130 2 1 da 
+F 3134 2 1 east 
+- 3137
+F 3137 2 1 Hit 
+F 3140 2 1 the 
+F 3143 3 1 stroll 
+F 3148 2 1 to 
+F 3151 2 1 9
+F 3154 2 1 0 
+F 3159 2 1 so 
+F 3162 2 1 we 
+F 3165 2 1 can 
+F 3169 3 1 roll 
+F 3174 2 1 big 
+F 3178 3 1 ha
+F 3182 4 1 shies 
+- 3188
+F 3201 2 1 I 
+F 3204 2 1 wish 
+F 3208 2 1 I 
+F 3211 2 1 could 
+F 3214 2 1 fade 
+F 3218 2 1 the 
+F 3222 5 1 eighth, 
+F 3230 2 1 but 
+F 3234 2 1 I’m 
+F 3237 4 1 low 
+F 3242 2 1 bud
+F 3245 3 1 get 
+- 3250
+F 3252 2 1 Still 
+F 3255 2 1 rol
+F 3258 2 1 lin’ 
+F 3261 2 1 a 
+F 3264 2 1 two 
+F 3267 2 1 door 
+F 3270 2 1 Cut
+F 3273 2 1 lass 
+F 3276 3 1 same 
+F 3280 3 1 ole’ 
+F 3284 2 1 buc
+F 3288 3 1 ket 
+- 3293
+F 3295 2 1 Fog
+F 3298 2 1 gy 
+F 3302 2 1 win
+F 3306 2 1 dows, 
+- 3310
+F 3312 2 1 Sog
+F 3316 2 1 gy 
+F 3320 2 1 In
+F 3324 2 1 do, 
+- 3327
+F 3328 2 1 I’m 
+F 3331 2 1 in 
+F 3334 2 1 tha 
+F 3338 2 1 land 
+F 3342 2 1 get
+F 3345 2 1 tin’ 
+F 3349 3 1 smoked 
+F 3354 2 1 wit 
+F 3357 3 1 my 
+F 3362 2 1 kin
+F 3367 3 1 folk 
+- 3371
+F 3372 3 1 Been 
+F 3378 5 1 smoked, 
+- 3385
+F 3387 5 1 Yuk’ll 
+F 3395 3 1 spray 
+F 3399 2 1 ya, 
+F 3402 2 1 lay 
+F 3405 3 1 ya 
+F 3410 3 1 down 
+- 3415
+F 3417 2 1 Up 
+F 3420 2 1 in 
+F 3423 2 1 the 
+F 3426 2 1 O-
+F 3429 2 1 A-
+F 3432 2 1 K 
+F 3435 2 1 the 
+F 3438 4 1 Town 
+- 3443
+F 3443 2 1 Ho
+F 3446 2 1 mies 
+F 3449 2 1 don’t 
+F 3452 2 1 play 
+F 3455 1 1 a
+F 3457 2 1 round, 
+F 3460 2 1 we 
+F 3463 2 1 down 
+F 3466 2 1 to 
+F 3469 2 1 blaze 
+F 3472 2 1 a 
+F 3475 4 1 pound 
+- 3481
+F 3484 3 1 Then 
+F 3489 3 1 ease 
+F 3497 3 1 up, 
+- 3502
+F 3503 2 1 Speed 
+F 3506 2 1 up 
+F 3509 2 1 through 
+F 3513 2 1 the 
+F 3517 2 1 E-
+F 3520 2 1 S-
+F 3523 2 1 O, 
+- 3526
+F 3527 2 1 Drink 
+F 3531 2 1 the 
+F 3534 2 1 V-
+F 3538 2 1 S-
+F 3542 2 1 O-
+F 3546 4 1 P 
+F 3552 2 1 up 
+F 3557 3 1 with 
+F 3561 2 1 a 
+F 3564 2 1 le
+F 3567 3 1 mon 
+F 3572 4 1 squee
+F 3578 3 1 za 
+- 3583
+F 3586 2 1 And 
+F 3589 2 1 eve
+F 3592 2 1 ry
+F 3595 2 1 bo
+F 3598 2 1 dy’s 
+F 3601 2 1 blowed 
+F 3605 2 1 ahh, 
+F 3608 2 1 I’m 
+F 3611 2 1 da 
+F 3614 2 1 rol
+F 3617 2 1 ler 
+- 3620
+F 3621 2 1 That’s 
+F 3624 2 1 quick 
+F 3627 2 1 to 
+F 3630 2 1 fold 
+F 3633 2 1 a 
+F 3636 2 1 blunt 
+F 3639 2 1 out 
+F 3642 2 1 of 
+F 3645 2 1 a 
+F 3648 2 1 bun
+F 3651 2 1 cha 
+F 3654 2 1 stic
+F 3657 2 1 ky 
+F 3661 3 1 do
+F 3666 2 1 sia 
+- 3670
+F 3675 2 1 Hold 
+F 3679 2 1 up, 
+F 3686 2 1 suck 
+F 3690 2 1 up 
+F 3694 2 1 my 
+F 3697 2 1 weed 
+F 3700 2 1 is 
+F 3703 2 1 all 
+F 3706 2 1 you 
+F 3709 2 1 do 
+- 3712
+F 3712 2 1 Kick 
+F 3715 2 1 in 
+F 3719 2 1 fee, 
+F 3723 2 1 ’cause 
+F 3726 2 1 where 
+F 3730 2 1 I 
+F 3733 3 1 be’s 
+F 3738 2 1 we 
+F 3742 2 1 need 
+F 3746 2 1 half 
+F 3750 2 1 like 
+- 3754
+: 3756 2 5 I 
+: 3760 3 3 got 
+: 3768 7 3 5 
+: 3780 5 1 on 
+: 3787 3 3 it, 
+- 3792
+: 3804 2 1 Grab 
+: 3808 2 3 your 
+: 3812 7 5 4
+: 3821 2 1 0 
+- 3825
+: 3826 3 1 Let’s 
+: 3832 3 5 get 
+: 3839 4 5 key
+: 3845 2 3 ~ed 
+- 3849
+: 3853 2 1 I 
+: 3857 3 3 got 
+: 3864 7 3 5 
+: 3875 5 1 on 
+: 3883 3 3 it, 
+- 3888
+: 3899 2 1 Mes
+: 3903 2 5 sin’ 
+: 3907 4 5 wit 
+: 3914 4 3 that 
+: 3921 3 1 In
+: 3927 3 5 do 
+: 3933 4 5 wee
+: 3939 4 3 ~d 
+- 3945
+: 3948 2 3 I 
+: 3952 3 3 got 
+: 3960 7 3 5 
+: 3972 5 1 on 
+: 3979 3 3 it, 
+- 3984
+: 3992 2 -2 It’s 
+: 3996 2 1 got 
+: 4000 2 3 me 
+: 4004 4 5 stuck 
+: 4012 4 3 and 
+: 4019 2 1 im 
+: 4024 4 3 tow 
+: 4031 4 5 ba
+: 4036 2 3 ~ck 
+- 4040
+: 4044 2 1 I 
+: 4048 3 3 got 
+: 4056 7 3 5 
+: 4068 5 1 on 
+: 4075 3 3 it, 
+- 4080
+: 4091 2 5 Part
+: 4095 2 5 na, 
+: 4099 5 5 let’s 
+: 4107 3 5 go 
+: 4113 4 5 half 
+: 4119 2 5 on 
+: 4122 2 5 a 
+: 4125 2 5 sa
+: 4128 3 6 ~
+: 4132 3 5 ~c 
+E

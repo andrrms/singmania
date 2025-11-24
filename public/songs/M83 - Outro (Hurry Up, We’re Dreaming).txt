@@ -1,0 +1,58 @@
+#ARTIST:M83
+#TITLE:Outro (Hurry Up, We’re Dreaming)
+#MP3:M83 - Outro (Hurry Up, We’re Dreaming).mp3
+#CREATOR:Wannseesprinter
+#GENRE:Electronic
+#YEAR:2011
+#LANGUAGE:English
+#BPM:218
+#GAP:101340
+#VIDEO:v=Eyjj8BgsBGU,co=hurry-up-were-dreaming-4ecd0ed2b295a.jpg,bg=m83-4f556eb066b97.jpg
+: 0 8 6 I’m 
+: 10 2 6 the 
+: 14 12 6 king 
+: 28 4 4 of 
+: 34 8 4 my 
+: 44 4 2 own 
+: 50 16 -3 land 
+- 68
+: 144 4 6 Fa
+: 152 3 4 cing
+* 156 2 2 ~ 
+: 160 3 6 tem
+: 164 4 4 pest 
+: 170 4 2 of 
+: 176 12 6 dust 
+- 190
+: 192 8 6 I’ll 
+: 206 12 6 fight 
+: 220 4 4 un
+: 226 8 4 til 
+: 236 4 2 the 
+* 242 16 -3 end 
+- 260
+: 320 3 6 Crea
+: 324 4 4 tures 
+: 330 2 2 of 
+: 334 4 6 my 
+: 342 6 4 dreams 
+- 349
+: 350 4 6 Raise 
+: 356 5 4 up 
+: 362 2 2 and 
+: 366 10 6 dance 
+: 378 4 4 with 
+* 384 14 4 me 
+- 400
+: 526 7 6 Now 
+: 534 2 4 and 
+: 540 2 2 for
+* 544 4 6 e
+: 550 14 4 ver 
+- 566
+: 578 4 6 I’m 
+: 584 6 6 your 
+- 592
+: 594 64 7 King
+* 660 106 9 ~ 
+E

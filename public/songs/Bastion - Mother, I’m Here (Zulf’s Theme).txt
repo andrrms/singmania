@@ -1,0 +1,128 @@
+#ARTIST:Bastion
+#TITLE:Mother, I’m Here (Zulf’s Theme)
+#MP3:Bastion - Mother, I’m Here (Zulf’s Theme).mp3
+#CREATOR:REL
+#GENRE:Game
+#YEAR:2011
+#LANGUAGE:English
+#BPM:300
+#GAP:20900
+#VIDEO:v=U8M5IeaAkmQ,co=https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.1000x1000x1.png
+: 0 22 15 I 
+: 25 7 15 set 
+: 36 6 14 my 
+: 48 19 12 sail 
+- 69
+: 95 16 8 Fly 
+: 115 4 7 the 
+: 123 4 8 wind, 
+: 131 2 10 it 
+: 136 6 8 will 
+: 147 6 8 take 
+: 158 16 7 me 
+- 176
+: 194 14 7 Back 
+: 215 8 5 to 
+: 228 9 7 my 
+: 248 22 6 home, 
+: 288 15 2 sweet 
+: 311 22 0 home 
+- 335
+: 386 21 15 Lie 
+: 409 7 15 on 
+: 421 6 14 my 
+: 433 22 12 back 
+- 457
+: 481 16 8 Clouds 
+: 500 4 7 are 
+: 508 3 8 making
+: 514 2 10 ~ 
+: 519 8 8 way 
+: 530 8 8 for 
+: 542 14 7 me 
+- 558
+: 578 17 7 I’m 
+: 601 8 5 coming
+: 613 10 7 ~ 
+: 629 29 6 home, 
+: 672 19 7 sweet 
+: 697 31 9 home 
+- 730
+: 769 7 10 I 
+: 781 13 9 see 
+: 815 8 9 your 
+: 829 10 6 star 
+- 841
+: 853 6 6 You 
+: 863 6 4 left 
+: 874 7 2 it 
+: 888 7 6 burning
+: 901 6 7 ~ 
+: 912 9 9 for 
+: 925 12 6 me 
+- 939
+: 960 9 11 Mother
+: 974 12 9 ~, 
+: 1006 10 9 I’m 
+: 1020 77 6 here 
+- 1099
+: 1160 15 15 Eyes 
+: 1179 9 15 open
+: 1192 7 14 ~ 
+: 1203 19 12 wide 
+- 1224
+: 1248 17 8 Feel 
+: 1269 4 7 your 
+: 1277 4 8 heart 
+: 1283 3 10 and 
+: 1289 8 8 it’s 
+: 1300 9 8 glowing
+: 1313 16 7 ~ 
+- 1331
+: 1346 17 7 I’m 
+: 1369 7 5 welcome
+: 1380 9 7 ~ 
+: 1400 22 6 home, 
+: 1438 15 2 sweet 
+: 1461 24 0 home 
+- 1487
+: 1536 18 15 I 
+: 1560 8 15 take 
+: 1573 6 14 your 
+: 1585 18 12 hand 
+- 1605
+: 1631 16 8 Now 
+: 1651 5 7 you’ll 
+: 1659 4 8 never
+: 1666 3 10 ~ 
+: 1673 6 8 be 
+: 1683 7 8 lonely
+: 1694 12 7 ~ 
+- 1708
+: 1730 9 7 Not 
+: 1743 17 5 when 
+: 1764 9 7 I’m 
+: 1782 25 6 home, 
+: 1822 20 7 sweet 
+: 1849 24 9 home 
+- 1875
+: 1922 6 10 I 
+: 1934 13 9 see 
+: 1966 9 9 your 
+: 1981 13 6 star 
+- 1996
+: 2003 7 6 You 
+: 2016 6 4 left 
+: 2028 6 2 it 
+: 2040 9 6 burning
+: 2052 7 7 ~ 
+: 2064 8 9 for 
+: 2077 11 6 me 
+- 2090
+: 2111 9 11 Mother
+: 2125 11 9 ~, 
+: 2160 8 9 I’m 
+: 2173 20 6 here
+: 2204 20 7 ~
+: 2229 35 9 ~ 
+E

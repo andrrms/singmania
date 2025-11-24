@@ -1,0 +1,710 @@
+#ARTIST:Iggy Azalea feat. MØ
+#TITLE:Beg For It
+#MP3:Iggy Azalea feat. MØ - Beg For It.mp3
+#CREATOR:amro98
+#GENRE:Electropop
+#YEAR:2014
+#LANGUAGE:English
+#BPM:372
+#GAP:2210
+#VIDEO:v=9j5vmAH9VeE,co=beg-for-it-554a5fd1e2eb1.jpg,bg=azalea-iggy-53652c25ca18c.jpg
+: 0 2 6 I’m
+: 3 2 3 ma 
+: 8 1 6 make 
+: 12 1 3 you 
+: 15 5 6 beg 
+- 22
+: 24 2 6 I’m
+: 27 2 3 ma 
+: 32 1 6 make 
+: 36 1 3 you 
+: 40 5 6 beg 
+: 48 3 3 for 
+: 52 3 3 it 
+- 57
+: 127 2 6 I’m
+: 130 2 3 ma 
+: 135 1 6 make 
+: 139 1 3 you 
+: 142 5 6 beg 
+- 149
+: 151 2 6 I’m
+: 154 2 3 ma 
+: 159 1 6 make 
+: 163 1 3 you 
+: 167 5 6 beg 
+- 174
+F 184 3 3 Pulled 
+F 192 3 1 up 
+F 200 1 -1 loo
+F 204 2 1 king 
+F 208 1 1 pic
+F 212 1 1 ture 
+F 217 4 -1 per
+F 224 1 -1 fect 
+F 228 4 -1 ba
+F 235 5 1 by 
+- 242
+F 248 6 2 High 
+F 256 4 2 price 
+F 272 1 2 but 
+F 274 2 2 I’m 
+F 280 4 2 worth 
+F 286 2 2 it 
+F 292 4 2 ba
+F 300 1 2 by 
+- 303
+F 304 3 2 Can’t 
+F 312 4 2 play 
+F 318 4 2 with 
+F 324 2 2 ya 
+- 327
+F 327 1 2 I’ve 
+F 330 2 2 been 
+F 335 1 2 bu
+F 337 3 2 sy 
+F 342 4 2 wor
+F 351 2 2 kin’ 
+F 355 4 2 ba
+F 364 2 2 by 
+- 367
+F 368 1 2 Get
+F 370 4 2 tin’ 
+F 376 1 2 fa
+F 378 4 2 ded 
+F 383 2 2 in 
+F 388 1 2 the 
+F 392 1 2 Eur
+F 394 2 2 o
+F 399 1 2 pe
+F 401 3 2 an 
+- 405
+F 405 9 2 Swer
+F 416 1 2 vin’ 
+F 419 5 2 name 
+- 426
+F 432 8 2 Look 
+F 444 1 2 des
+F 448 5 2 cribe 
+F 457 1 2 Ig
+F 459 2 2 gy 
+F 463 5 2 ground 
+F 471 3 2 brea
+F 476 1 2 king 
+- 479
+F 480 1 2 What 
+F 482 2 2 the 
+F 488 4 2 word 
+F 495 5 2 is 
+- 502
+F 512 1 2 Hit 
+F 514 2 2 the 
+F 519 5 2 stage 
+F 527 3 2 yeah 
+- 532
+F 534 4 2 Shake 
+F 539 1 2 it 
+F 543 3 2 like 
+F 548 1 2 I’m 
+F 551 5 2 ner
+F 558 6 2 vous 
+- 566
+F 576 2 2 When 
+F 579 1 2 in 
+F 583 3 2 New 
+F 587 3 2 York 
+F 591 1 2 got 
+F 594 4 2 me 
+- 599
+F 599 3 2 Par
+F 603 3 2 king 
+F 607 3 2 right 
+F 612 1 2 on 
+F 614 4 2 Ma
+F 619 1 2 di
+F 621 14 2 son 
+- 636
+F 636 2 2 This 
+F 640 2 2 ain’t 
+F 643 3 2 no 
+F 648 2 2 ac
+F 651 3 2 ci
+F 655 3 2 dent 
+- 659
+F 659 2 2 I’m 
+F 664 3 2 ki
+F 668 2 2 lling 
+F 671 2 2 them 
+F 674 3 2 on 
+F 680 3 2 pur
+F 688 6 2 pose 
+- 695
+F 696 3 2 I-
+F 704 1 2 G-
+F 708 1 2 G-
+F 716 4 2 Y 
+F 723 1 2 think 
+F 728 1 2 she 
+F 731 2 2 just 
+F 735 3 2 had 
+F 739 1 2 to 
+F 741 5 2 do 
+F 747 1 2 it 
+F 749 4 2 bet
+F 754 3 2 ter 
+- 758
+F 758 8 2 Ride 
+F 767 2 2 with 
+F 770 4 2 me 
+- 776
+F 780 6 2 Fly 
+F 788 2 2 li
+F 792 2 2 vin’ 
+F 795 2 2 there 
+F 798 2 2 ain’t 
+F 801 1 2 no
+F 803 3 2 thin’ 
+F 807 2 2 to 
+F 811 2 2 it 
+- 814
+F 814 4 2 Am 
+F 819 3 2 I 
+F 823 5 2 waist 
+F 830 6 2 slim 
+- 838
+F 843 4 2 Ass 
+F 852 4 2 fat 
+F 860 2 2 you 
+F 864 2 2 got
+F 868 2 2 ta 
+F 872 2 2 have 
+F 876 2 2 it 
+- 879
+F 880 2 2 Get 
+F 883 1 2 my 
+F 887 3 2 bake 
+F 895 4 2 on 
+F 909 3 2 cake 
+F 915 5 2 long 
+- 922
+F 924 1 2 That’s 
+F 927 1 2 au
+F 929 3 2 to
+F 934 5 2 ma
+F 940 3 2 tic 
+- 944
+: 944 4 6 I 
+* 953 3 13 know
+* 957 2 10 ~ 
+: 964 3 10 you
+: 969 3 8 ~ 
+: 977 16 8 like 
+- 995
+: 1008 4 6 The 
+: 1017 9 8 way 
+: 1030 4 10 I 
+: 1040 12 11 turn 
+: 1053 2 10 it 
+: 1057 6 6 on 
+- 1065
+: 1072 2 6 I’m 
+: 1080 3 13 out
+: 1084 2 10 ~ 
+: 1092 3 10 here
+: 1096 4 8 ~ 
+: 1105 8 8 with 
+: 1120 2 3 my 
+: 1128 16 6 friends 
+- 1146
+: 1152 2 6 I’m
+: 1155 2 3 ma 
+: 1160 1 6 make 
+: 1164 1 3 you 
+: 1167 5 6 beg 
+- 1174
+* 1184 2 6 If 
+* 1192 4 6 you 
+* 1200 2 6 don’t 
+: 1209 2 13 do
+: 1212 4 10 ~ 
+: 1220 4 10 this
+: 1225 2 8 ~ 
+: 1232 14 8 right 
+- 1248
+: 1264 4 6 You’re 
+: 1272 10 8 going
+: 1284 4 10 ~ 
+* 1296 10 11 home 
+: 1308 2 10 a
+: 1312 6 6 lone 
+- 1320
+: 1328 2 6 I 
+: 1336 2 13 guess
+: 1340 2 10 ~ 
+: 1347 3 10 you’ll
+: 1352 2 8 ~ 
+: 1360 9 8 have 
+: 1376 2 3 to 
+: 1384 14 6 beg 
+- 1400
+: 1408 2 6 I’m
+: 1411 2 3 ma 
+: 1416 1 6 make 
+: 1420 1 3 you 
+: 1423 5 6 beg 
+- 1430
+: 1432 2 6 I’m
+: 1435 2 3 ma 
+: 1440 1 6 make 
+: 1444 1 3 you 
+: 1448 5 6 beg 
+: 1456 3 3 for 
+: 1460 3 3 it 
+- 1465
+F 1479 1 2 Pus
+F 1483 2 2 ~
+F 1488 1 2 ~
+F 1490 2 2 sy 
+F 1496 2 2 po
+F 1500 3 2 wer 
+F 1504 2 2 pay 
+F 1507 2 2 me 
+F 1511 4 2 by 
+F 1516 2 2 the 
+F 1519 7 2 hour 
+- 1528
+F 1536 1 2 I 
+F 1539 1 2 need 
+F 1541 5 2 me 
+F 1547 1 2 a 
+F 1550 6 2 Brave
+F 1558 6 2 heart 
+- 1566
+F 1568 2 2 Can’t 
+F 1571 2 2 deal 
+F 1574 2 2 with 
+F 1577 2 2 a 
+F 1584 4 2 co
+F 1589 5 2 ward 
+- 1596
+F 1598 4 2 I 
+F 1603 3 2 tell 
+F 1607 3 2 him 
+F 1611 2 2 if 
+F 1616 1 2 he 
+F 1618 2 2 ain’t 
+F 1621 5 2 ba
+F 1627 4 2 llin’ 
+- 1632
+F 1632 2 2 He 
+F 1636 1 2 should 
+F 1638 3 2 hit 
+F 1642 2 2 the 
+F 1646 6 2 sho
+F 1653 5 2 wers 
+- 1660
+F 1664 1 2 If 
+F 1668 1 2 I 
+F 1670 5 2 peek 
+F 1677 1 2 and 
+F 1680 1 2 you 
+F 1684 2 2 lu
+F 1688 2 2 cky 
+F 1691 4 2 ba
+F 1696 2 2 by 
+- 1699
+F 1699 2 2 There’s 
+F 1704 2 2 mo
+F 1707 2 2 ney 
+F 1710 7 2 hours 
+- 1719
+F 1729 2 2 All 
+F 1735 2 2 ye
+F 1738 2 2 llow 
+F 1742 9 2 gold 
+F 1752 3 2 on 
+F 1756 2 2 me 
+- 1760
+F 1761 1 2 Like 
+F 1763 3 2 I’m 
+F 1769 1 2 Tri
+F 1771 1 2 ni
+F 1773 9 2 dad 
+F 1784 6 2 James 
+- 1792
+F 1793 1 2 Sit
+F 1795 3 2 tin’ 
+F 1799 6 2 drop 
+F 1806 4 2 top 
+- 1812
+F 1816 1 2 Won
+F 1818 3 2 der 
+F 1822 4 2 where 
+F 1827 2 2 the 
+F 1830 3 2 sai
+F 1834 5 2 lor’s 
+F 1840 8 2 at 
+- 1850
+F 1852 1 2 I 
+F 1855 3 2 know 
+F 1859 3 2 my 
+F 1863 5 2 old 
+F 1869 7 2 thang 
+- 1878
+F 1881 1 2 Wan
+F 1883 1 2 na 
+F 1888 2 2 bring 
+F 1891 2 2 the 
+F 1894 4 2 fee
+F 1899 3 2 ling 
+F 1904 3 2 back 
+- 1909
+F 1912 1 2 But 
+F 1914 3 2 I 
+F 1918 3 2 got 
+F 1924 1 2 a 
+F 1928 2 2 new 
+F 1934 6 2 thang 
+- 1942
+F 1944 1 2 Ba
+F 1948 1 2 by 
+F 1952 1 2 I 
+F 1956 1 2 ain’t 
+F 1960 2 2 fee
+F 1963 4 2 ling 
+F 1968 1 2 that 
+F 1970 3 2 now 
+- 1975
+F 1976 3 2 Ig
+F 1980 3 2 gy 
+F 1984 3 2 Ig
+F 1988 3 2 gy 
+F 1996 4 2 Ig
+F 2001 3 2 gy 
+F 2009 2 2 can’t 
+F 2016 3 2 you 
+F 2028 6 2 see? 
+- 2035
+F 2035 3 2 That 
+F 2040 3 2 eve
+F 2044 2 2 ry
+F 2047 3 2 bo
+F 2051 3 2 dy 
+F 2055 2 2 wan
+F 2058 2 2 na 
+F 2063 2 2 put 
+F 2066 3 2 their 
+- 2070
+F 2070 8 2 Hands 
+F 2079 5 2 on 
+F 2086 5 2 me 
+- 2093
+F 2101 1 2 See 
+F 2105 1 2 I 
+F 2108 2 2 be 
+F 2112 2 2 on 
+F 2115 3 2 this 
+F 2119 3 2 mo
+F 2123 2 2 ney 
+F 2128 2 2 why 
+F 2131 2 2 your 
+- 2134
+F 2134 6 2 Man 
+F 2144 3 2 on 
+F 2150 6 2 me 
+- 2158
+F 2160 1 2 And 
+F 2163 2 2 I 
+F 2166 3 2 need 
+F 2171 2 2 a
+F 2175 1 2 no
+F 2178 2 2 ther 
+F 2182 4 2 hand 
+F 2187 3 2 with 
+F 2191 3 2 all 
+F 2195 3 2 these 
+- 2199
+F 2199 5 2 Bandz 
+F 2209 4 2 on 
+F 2215 5 2 me 
+- 2222
+: 2224 4 6 I 
+: 2233 3 13 know
+: 2237 2 10 ~ 
+: 2244 3 10 you
+: 2249 3 8 ~ 
+: 2257 16 8 like 
+- 2275
+: 2288 4 6 The 
+: 2297 9 8 way 
+: 2310 4 10 I 
+: 2320 12 11 turn 
+: 2333 2 10 it 
+: 2337 6 6 on 
+- 2345
+: 2352 2 6 I’m 
+: 2360 3 13 out
+: 2364 2 10 ~ 
+: 2372 3 10 here
+: 2376 4 8 ~ 
+: 2385 8 8 with 
+* 2400 2 3 my 
+: 2408 16 6 friends 
+- 2426
+: 2432 2 6 I’m
+: 2435 2 3 ma 
+: 2440 1 6 make 
+: 2444 1 3 you 
+: 2447 5 6 beg 
+- 2454
+: 2464 2 6 If 
+: 2472 4 6 you 
+: 2480 2 6 don’t 
+: 2489 2 13 do
+: 2492 4 10 ~ 
+: 2500 4 10 this
+: 2505 2 8 ~ 
+: 2512 14 8 right 
+- 2528
+: 2544 4 6 You’re 
+: 2552 10 8 going
+: 2564 4 10 ~ 
+: 2576 10 11 home 
+: 2588 2 10 a
+: 2592 6 6 lone 
+- 2600
+: 2608 2 6 I 
+: 2616 2 13 guess
+: 2620 2 10 ~ 
+: 2627 3 10 you’ll
+: 2632 2 8 ~ 
+: 2640 9 8 have 
+: 2656 2 3 to 
+* 2664 14 6 beg 
+- 2680
+: 2688 2 6 I’m
+: 2691 2 3 ma 
+: 2696 1 6 make 
+: 2700 1 3 you 
+: 2703 5 6 beg 
+- 2710
+: 2712 2 6 I’m
+: 2715 2 3 ma 
+: 2720 1 6 make 
+: 2724 1 3 you 
+* 2728 5 6 beg 
+: 2736 3 3 for 
+: 2740 3 3 it 
+- 2745
+F 2760 1 2 Get 
+F 2762 3 2 up 
+F 2767 2 2 out 
+F 2770 3 2 my 
+F 2774 6 2 face 
+F 2783 3 2 like 
+F 2791 1 2 who 
+F 2794 1 2 you 
+F 2799 2 2 think 
+F 2803 1 2 you 
+F 2806 10 2 are 
+- 2818
+F 2823 2 2 Tal
+F 2826 2 2 king 
+F 2830 2 2 all 
+F 2834 2 2 this 
+F 2838 7 2 trash 
+F 2847 3 2 like 
+F 2856 1 2 blah-
+F 2860 1 2 di-
+F 2865 1 2 blah-
+F 2869 1 2 di-
+F 2872 6 2 blah 
+- 2880
+: 2888 6 1 Oe
+: 2896 3 6 ~ 
+: 2901 7 3 oh 
+- 2910
+F 2911 5 2 Na 
+F 2920 4 2 uh 
+- 2926
+: 2952 6 1 Oe
+: 2960 3 6 ~ 
+: 2965 7 3 oh 
+- 2974
+F 2975 5 1 Na 
+F 2983 5 2 uh 
+- 2990
+F 3016 1 2 Get 
+F 3018 3 2 up 
+F 3023 2 2 out 
+F 3026 3 2 my 
+F 3030 6 2 face 
+F 3039 3 2 like 
+F 3047 1 2 who 
+F 3050 1 2 you 
+F 3055 2 2 think 
+F 3059 1 2 you 
+F 3062 10 2 are 
+- 3074
+F 3079 2 2 Make 
+F 3082 2 2 me 
+F 3086 2 2 wan
+F 3090 2 2 na 
+F 3094 7 2 laugh 
+F 3103 3 2 like 
+F 3112 1 2 ha-
+F 3116 1 2 di-
+F 3121 1 2 ha-
+F 3125 1 2 di-
+F 3128 6 2 har 
+- 3136
+: 3144 6 1 Oe
+: 3152 3 6 ~ 
+: 3157 7 3 oh 
+- 3166
+F 3167 5 2 Na 
+F 3176 4 2 uh 
+- 3182
+* 3208 6 1 Oe
+* 3216 3 6 ~ 
+* 3221 7 3 oh 
+- 3230
+F 3231 5 1 Na 
+F 3239 5 2 uh 
+- 3246
+: 3248 4 6 I 
+: 3256 4 13 know
+: 3261 2 10 ~ 
+: 3268 2 10 you
+: 3272 4 8 ~ 
+: 3278 20 8 like 
+- 3300
+: 3310 4 6 The 
+: 3318 12 8 way 
+: 3332 6 10 I 
+: 3344 10 11 turn 
+: 3356 2 10 it 
+: 3360 6 6 on 
+- 3368
+: 3376 2 6 I’m 
+: 3382 4 13 out
+: 3388 2 10 ~ 
+* 3394 4 10 here
+* 3400 2 8 ~ 
+: 3406 12 8 with 
+: 3424 2 3 my 
+: 3430 16 6 friends 
+- 3448
+: 3456 2 6 I’m
+: 3459 2 3 ma 
+: 3464 1 6 make 
+: 3468 1 3 you 
+: 3471 5 6 beg 
+- 3478
+: 3488 2 6 If 
+: 3494 6 6 you 
+: 3502 4 6 don’t 
+: 3510 4 13 do
+: 3516 2 10 ~ 
+: 3524 4 10 this
+: 3529 2 8 ~ 
+: 3534 16 8 right 
+- 3552
+: 3568 4 6 You’re 
+: 3574 10 8 going
+: 3586 6 10 ~ 
+: 3598 12 11 home 
+* 3612 2 10 a
+: 3616 6 6 lone 
+- 3624
+: 3632 2 6 I 
+: 3640 2 13 guess
+: 3644 2 10 ~ 
+: 3650 4 10 you’ll
+: 3656 2 8 ~ 
+: 3662 10 8 have 
+: 3680 2 3 to 
+: 3686 16 6 beg 
+- 3704
+: 3712 2 6 I’m
+: 3715 2 3 ma 
+: 3720 1 6 make 
+: 3724 1 3 you 
+: 3727 5 6 beg 
+- 3734
+F 3736 2 6 I’m
+F 3739 2 3 ma 
+F 3743 2 6 make 
+F 3747 2 3 you.... 
+- 3751
+: 3760 3 3 Get 
+: 3764 3 3 your 
+: 3770 9 6 hook 
+: 3784 7 5 boy 
+: 3792 3 3 I’m 
+- 3797
+: 3800 14 6 Like 
+* 3817 3 5 a 
+: 3824 10 3 drug 
+- 3836
+: 3848 4 3 If 
+* 3855 6 3 you 
+: 3865 11 6 want 
+: 3880 6 8 my 
+: 3888 6 8 love
+: 3896 4 10 ~ 
+- 3902
+: 3912 4 3 Bet
+: 3918 4 3 ter 
+: 3928 14 10 smoke 
+: 3945 3 8 it 
+: 3953 4 3 up 
+- 3959
+: 3968 1 6 Make 
+: 3972 1 3 you 
+: 3976 5 6 beg 
+: 3984 3 3 for 
+: 3988 3 3 it 
+- 3992
+F 3992 2 2 I’m
+F 3995 2 2 ma 
+F 4000 2 2 make 
+F 4004 2 2 you... 
+- 4008
+: 4016 2 3 You 
+: 4020 2 3 can 
+: 4026 9 6 look 
+: 4040 6 5 boy 
+: 4048 2 3 but 
+- 4052
+: 4056 14 6 Don’t 
+: 4073 4 5 you 
+: 4080 8 3 touch 
+- 4090
+: 4104 4 3 If 
+: 4110 6 3 you 
+: 4120 12 6 want 
+: 4136 6 8 my 
+: 4144 6 8 love
+: 4152 4 10 ~ 
+- 4158
+* 4170 2 3 Make 
+* 4176 2 3 me 
+: 4185 13 10 give 
+: 4200 2 8 a 
+: 4206 6 3 fuck 
+- 4214
+: 4224 1 6 Make 
+: 4228 1 3 you 
+: 4232 5 6 beg 
+: 4240 3 3 for 
+: 4244 3 3 it 
+- 4248
+: 4248 2 6 I’m
+: 4251 2 3 ma 
+: 4256 1 6 make 
+: 4260 1 3 you 
+: 4264 5 6 beg 
+: 4272 3 3 for 
+: 4276 3 3 it 
+E

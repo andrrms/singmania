@@ -1,0 +1,103 @@
+#ARTIST:The Simpsons
+#TITLE:We Do (The Stonecutters Song)
+#MP3:The Simpsons - We Do (The Stonecutters Song).mp3
+#CREATOR:leaby
+#LANGUAGE:English
+#BPM:228.55
+#GAP:4340
+#VIDEO:v=dSpOjj4YD8c,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/be/42/a0be4278-073f-6414-ff00-4d499914b4cb/21UM1IM46989.rgb.jpg/5000x5000bb.jpg
+#END:47000
+: 0 3 17 Who 
+: 4 3 12 con
+: 8 3 17 trols 
+: 12 2 19 the 
+: 16 3 21 Bri
+: 20 3 19 tish 
+* 24 6 17 crown? 
+- 31
+: 32 3 22 Who 
+: 36 1 17 keeps 
+: 38 1 17 the 
+: 40 3 22 me
+: 44 2 24 tric 
+: 47 4 26 sys
+: 52 3 24 tem 
+: 56 6 22 down? 
+- 63
+: 64 7 24 We 
+: 72 17 19 do 
+- 91
+: 97 6 17 We 
+: 104 19 12 do 
+- 125
+: 129 3 17 Who 
+: 133 1 12 keeps 
+: 135 1 12 At
+: 137 3 17 lan
+: 141 3 19 tis 
+: 145 3 21 off 
+: 149 2 19 the 
+: 152 5 17 maps? 
+- 159
+: 161 2 22 Who 
+: 164 1 17 keeps 
+: 166 2 17 the 
+: 169 2 22 Mar
+: 172 3 24 tians 
+: 176 3 26 un
+: 180 2 24 der 
+: 184 8 22 wraps? 
+- 193
+: 193 7 24 We 
+: 201 13 17 do 
+- 216
+: 217 7 24 We 
+* 225 23 17 do 
+- 250
+: 257 7 19 Who 
+: 265 6 19 holds 
+: 273 5 21 back 
+: 281 3 21 the 
+: 285 3 21 e
+: 289 7 24 lec
+: 297 7 24 tric 
+: 305 10 25 car? 
+- 317
+: 321 4 19 Who 
+: 326 4 19 makes 
+: 331 5 19 Steve 
+: 337 3 25 Gu
+: 341 3 24 ten
+: 345 7 24 berg 
+- 354
+: 361 6 26 A 
+: 368 11 28 star? 
+- 381
+: 385 8 26 We 
+: 394 17 17 do 
+- 413
+: 418 8 24 We 
+: 427 17 19 do 
+- 446
+* 450 3 17 Who 
+: 454 3 12 robs 
+: 458 3 17 cave 
+: 462 3 19 fish 
+: 466 3 21 of 
+: 470 3 19 their 
+: 474 6 17 sight? 
+- 481
+: 482 3 22 Who 
+: 486 4 17 rigs 
+: 491 2 22 e
+: 494 3 24 very 
+: 499 3 26 Os
+: 503 2 24 car 
+: 506 6 22 night? 
+- 513
+: 514 16 24 We 
+: 531 20 17 do 
+- 553
+: 563 15 24 We 
+: 579 39 29 do 
+E

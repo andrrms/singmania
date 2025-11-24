@@ -1,0 +1,162 @@
+#ARTIST:Guillemots
+#TITLE:Little Bear
+#MP3:Guillemots - Little Bear.mp3
+#CREATOR:Madlock
+#YEAR:2006
+#LANGUAGE:English
+#BPM:200
+#GAP:97300
+#VIDEO:a=Ii7rIUvh-0o,co=through-the-windowpane-4ea143c126a15.jpg,bg=guillemots-518c1f0d858c0.JPG
+: 0 3 13 Lit
+: 4 8 11 tle 
+: 16 16 8 bear 
+- 34
+: 106 1 13 Lit
+: 108 5 11 tle 
+: 114 11 8 bear 
+: 126 3 9 you
+: 130 18 8 ~’re 
+- 150
+: 224 1 1 Get
+: 226 2 1 ting 
+: 230 7 8 out 
+: 238 1 6 of 
+: 240 12 6 hand 
+- 254
+: 314 1 1 Get
+: 316 1 1 ting 
+: 318 5 8 out 
+: 324 3 4 of 
+: 328 10 4 hand 
+- 340
+: 342 3 1 I 
+: 346 8 4 think 
+: 356 3 1 I’m 
+: 360 1 1 going 
+: 362 2 1 to 
+: 366 21 8 lose 
+: 388 3 4 you
+: 392 1 1 ~ 
+: 394 14 -1 now 
+- 410
+: 490 5 13 Oh lit
+: 496 8 11 tle 
+: 506 24 8 bear 
+- 532
+: 572 1 11 Lit
+: 574 7 11 tle 
+: 582 11 16 bear 
+: 594 1 16 you 
+: 596 5 13 know 
+: 602 12 11 me 
+- 616
+: 662 1 8 Too 
+: 664 7 9 well 
+: 672 1 8 a
+: 674 1 6 ny
+: 676 12 4 way 
+- 690
+: 736 1 8 Too 
+: 738 5 9 well 
+: 744 1 8 eve
+: 746 3 6 ry 
+: 750 4 4 day 
+: 756 12 4 I’m 
+: 770 8 8 go
+: 780 1 -1 ing 
+: 782 30 1 home 
+- 814
+: 888 7 -1 I’m 
+: 896 1 4 go
+: 898 10 4 ing 
+: 918 1 6 be
+: 920 21 8 neath 
+* 942 1 6 the 
+* 944 5 6 sta
+* 950 1 8 ~
+* 952 1 6 ~
+* 954 18 4 ~rs 
+- 974
+: 998 1 3 I’m 
+: 1000 1 4 going 
+: 1002 15 6 un
+: 1018 1 6 der 
+: 1020 3 8 the 
+* 1024 5 9 so
+: 1030 5 8 ~il 
+: 1036 1 6 a
+: 1038 16 4 gain 
+- 1056
+: 1072 1 4 And 
+: 1074 3 4 I 
+: 1078 16 11 won’t 
+: 1096 1 9 be 
+: 1098 11 8 back 
+- 1110
+: 1110 1 4 In 
+: 1112 2 4 a 
+: 1116 9 11 long 
+: 1126 7 9 time 
+: 1134 5 8 so 
+: 1140 5 6 get 
+: 1146 22 4 out 
+- 1170
+: 1190 1 4 Get 
+: 1192 5 6 out 
+: 1198 3 6 of 
+: 1202 6 6 this 
+: 1210 9 4 old 
+: 1220 18 -1 house 
+- 1240
+: 1264 1 4 Be
+: 1266 4 6 fore 
+: 1272 9 6 I 
+: 1282 7 6 burn 
+: 1290 4 4 it 
+: 1296 12 1 down 
+- 1310
+: 1342 1 4 I 
+: 1344 1 6 woul
+: 1346 1 6 dn’t 
+: 1348 19 6 want 
+: 1368 3 4 to 
+: 1372 9 8 cause 
+: 1382 3 7 you
+: 1386 10 6 ~ 
+: 1402 3 6 a
+: 1406 3 4 ny
+: 1410 48 11 thing 
+- 1460
+* 1462 1 16 That 
+* 1464 16 16 might 
+* 1482 5 16 break 
+* 1488 7 16 your 
+* 1496 3 16 lo
+* 1500 5 15 vely 
+* 1506 11 13 face 
+: 1518 18 11 off 
+- 1538
+: 1542 1 8 In 
+: 1544 2 8 a 
+: 1548 11 11 thou
+: 1560 11 9 sand 
+: 1572 3 8 shat
+: 1576 3 6 tered 
+: 1580 9 9 chi
+: 1590 3 8 na 
+: 1594 5 4 pie
+: 1600 12 4 ces 
+- 1614
+: 1696 5 1 In 
+: 1702 5 1 this 
+: 1708 3 4 brac
+: 1712 1 6 ken 
+: 1714 24 8 world 
+- 1740
+: 1746 1 8 Of 
+: 1748 13 9 bro
+: 1762 3 8 ken 
+: 1766 3 6 pie
+: 1770 3 4 ~
+: 1774 22 4 ~ces 
+E

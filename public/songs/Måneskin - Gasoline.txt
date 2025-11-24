@@ -1,0 +1,448 @@
+#ARTIST:Måneskin
+#TITLE:Gasoline
+#MP3:Måneskin - Gasoline.mp3
+#CREATOR:Schninsche,lily
+#COVER:Måneskin - Gasoline [CO].jpg
+#BACKGROUND:Måneskin - Gasoline [BG].jpg
+#GENRE:Rock
+#YEAR:2023
+#LANGUAGE:English
+#BPM:256
+#GAP:9890
+#VIDEO:v=aqqQRuO_UK0,co=https://i1.sndcdn.com/artworks-q8DAJVFPMmGcKDLt-dIncAA-t1080x1080.jpg,preview=9.83,medley=636-1348
+: 0 2 -2 You’re 
+: 4 4 3 no
+: 12 6 0 thing 
+: 20 6 0 but 
+: 28 4 3 ga
+: 36 2 3 so
+: 40 14 2 line 
+- 64
+: 68 2 3 Star
+: 72 2 3 ting 
+: 76 2 0 fi
+: 80 2 0 res 
+: 84 5 0 since 
+: 92 4 3 sev
+: 98 4 3 en
+: 105 12 2 teen 
+- 128
+: 132 2 3 Sil
+: 136 2 3 ver 
+: 140 6 0 spoon 
+: 148 6 0 and 
+: 156 4 3 dad
+: 162 1 3 dy’s
+: 164 2 5 ~ 
+: 169 3 2 jeans 
+- 174
+: 176 2 0 You 
+: 180 5 -2 go, 
+: 188 6 0 “Four, 
+: 196 6 0 three, 
+: 204 6 0 two, 
+: 212 4 0 one” 
+- 218
+: 220 2 0 Count 
+: 223 2 -2 it, 
+: 228 2 0 count 
+: 231 2 -2 it 
+: 236 7 0 down
+R 244 8 -2 ~ 
+- 258
+: 260 6 3 Mis
+: 268 6 0 ter 
+: 276 2 0 in 
+: 280 2 0 a 
+: 284 4 3 sto
+: 290 4 3 len 
+: 297 12 2 dress 
+- 317
+R 320 2 -2 You’re 
+: 324 6 3 so 
+: 332 6 0 dark 
+: 340 2 0 but 
+: 344 2 0 you 
+: 349 4 3 paint 
+: 355 2 3 it 
+: 361 14 2 red 
+- 384
+: 388 2 3 Soa
+: 392 2 3 king 
+: 396 6 0 wet 
+: 404 2 0 in 
+: 408 2 0 your 
+: 412 5 3 gol
+: 419 3 5 den 
+: 424 4 2 bed 
+- 430
+: 432 2 0 You 
+: 436 5 -2 go, 
+: 444 6 0 “Four, 
+: 452 6 0 three, 
+: 460 6 0 two, 
+: 468 4 0 one” 
+- 474
+: 476 2 0 Count 
+: 479 2 -2 it, 
+: 484 2 0 count 
+: 487 2 -2 it 
+: 492 7 0 down
+R 500 8 -2 ~ 
+- 542
+: 636 2 7 How 
+: 640 2 7 are 
+: 644 2 5 you 
+: 648 2 7 slee
+: 652 2 7 ping 
+: 656 2 5 at 
+: 660 4 7 night? 
+- 666
+: 668 2 7 How 
+: 672 2 7 do 
+: 676 2 5 you 
+: 680 2 7 close 
+: 684 2 7 both 
+: 688 2 5 your 
+: 692 4 7 eyes 
+- 698
+: 700 2 5 Li
+: 704 2 5 ving 
+: 708 2 3 with 
+: 712 2 5 all 
+: 716 2 5 of 
+: 720 2 3 those 
+: 724 6 5 lives 
+: 732 4 5 on 
+: 740 2 0 your 
+: 744 2 5 hands
+: 748 8 0 ~? 
+- 762
+: 764 2 7 Stan
+: 768 2 7 ding 
+: 772 2 5 a
+: 776 2 7 lone 
+: 780 2 7 on 
+: 784 2 5 that 
+: 788 4 7 hill 
+- 794
+: 796 2 7 U
+: 800 2 7 sing 
+: 804 2 5 your 
+: 808 6 7 fuel 
+: 816 2 5 to 
+: 820 4 7 kill 
+- 826
+: 828 2 5 We 
+: 832 2 5 won’t 
+: 836 2 3 take 
+: 840 2 5 it 
+: 844 2 5 stan
+: 848 2 3 ding 
+: 852 4 5 still 
+- 858
+: 860 2 5 Watch
+: 864 2 0 ~ 
+: 868 2 0 us 
+: 872 2 5 dance
+: 876 10 0 ~ 
+- 890
+: 892 2 7 How 
+: 896 2 7 are 
+: 900 2 5 you 
+: 904 2 7 slee
+: 908 2 7 ping 
+: 912 2 5 at 
+: 916 4 7 night? 
+- 922
+: 924 2 7 How 
+: 928 2 7 do 
+: 932 2 5 you 
+: 936 2 7 close 
+: 940 2 7 both 
+: 944 2 5 your 
+: 948 4 7 eyes 
+- 954
+: 956 2 5 Li
+: 960 2 5 ving 
+: 964 2 3 with 
+: 968 2 5 all 
+: 972 2 5 of 
+: 976 2 3 those 
+: 980 6 5 lives 
+: 988 4 5 on 
+: 996 2 0 your 
+: 1000 4 5 hands
+: 1006 8 0 ~? 
+- 1018
+: 1020 2 7 Stan
+: 1024 2 7 ding 
+: 1028 2 5 a
+: 1032 2 7 lone 
+: 1036 2 7 on 
+: 1040 2 5 that 
+: 1044 4 7 hill 
+- 1050
+: 1052 2 7 U
+: 1056 2 7 sing 
+: 1060 2 5 your 
+: 1064 6 7 fuel 
+: 1072 2 5 to 
+: 1076 4 7 kill 
+- 1082
+: 1084 2 5 We 
+: 1088 2 5 won’t 
+: 1092 2 3 take 
+: 1096 2 5 it 
+: 1100 2 5 stan
+: 1104 2 3 ding 
+: 1108 4 5 still 
+- 1114
+: 1116 2 5 Watch
+: 1120 2 0 ~ 
+: 1124 2 0 us 
+: 1128 2 5 dance
+: 1132 10 0 ~ 
+- 1152
+: 1164 2 0 We’re 
+: 1168 2 2 gon
+: 1172 6 3 na 
+: 1180 6 8 dance 
+: 1188 6 7 on 
+: 1196 6 3 ga
+: 1204 2 3 so
+: 1208 12 2 line 
+- 1254
+: 1292 2 0 We’re 
+: 1296 2 2 gon
+: 1300 6 3 na 
+: 1308 6 8 dance 
+: 1316 6 7 on 
+: 1324 6 3 ga
+: 1332 2 3 so
+: 1336 12 2 line 
+- 1382
+: 1420 2 0 We’re 
+: 1424 2 2 gon
+: 1428 6 3 na 
+: 1436 6 8 dance 
+: 1444 6 7 on 
+: 1452 6 3 ga
+: 1460 2 3 so
+: 1464 4 2 line 
+- 1470
+: 1472 2 -2 Your 
+: 1476 6 3 e
+: 1484 6 0 go 
+: 1492 6 0 is 
+: 1500 6 3 dan
+: 1508 4 3 ge
+: 1514 14 2 rous 
+- 1534
+: 1536 2 0 Your 
+: 1540 6 3 own 
+: 1548 6 0 blood 
+: 1556 6 0 is 
+: 1564 4 3 lo
+: 1571 4 3 sing 
+: 1578 14 2 trust 
+- 1598
+: 1600 2 0 With 
+: 1604 6 3 neigh
+: 1612 6 0 bours 
+: 1620 6 0 left 
+: 1628 4 3 in 
+: 1634 5 5 the 
+: 1641 4 2 dust 
+- 1646
+: 1648 2 0 We 
+: 1652 5 -2 go, 
+: 1660 6 0 “Four, 
+: 1668 6 0 three, 
+: 1676 6 0 two, 
+: 1684 4 0 one” 
+- 1690
+: 1692 2 0 Count 
+: 1695 2 -2 it, 
+: 1700 2 0 count 
+: 1704 2 -2 it 
+: 1708 7 0 down
+R 1716 9 -2 ~ 
+- 1730
+: 1732 6 3 Sit
+: 1740 6 0 ting 
+: 1748 2 0 on 
+: 1752 2 0 a 
+: 1756 4 3 sto
+: 1762 4 3 len 
+: 1769 14 2 throne 
+- 1792
+: 1796 2 2 Pla
+: 1800 2 3 ying 
+: 1805 5 0 God 
+: 1812 2 0 with 
+: 1816 2 0 a 
+: 1820 4 3 heart 
+: 1826 4 3 of 
+: 1833 16 2 stone 
+- 1854
+: 1856 2 0 The 
+: 1860 6 3 whole 
+: 1868 6 0 world 
+: 1876 6 0 is 
+: 1884 2 3 wai
+: 1888 2 3 ting 
+: 1892 2 5 for 
+: 1896 6 2 you 
+: 1904 2 0 to 
+: 1908 4 -2 go 
+- 1914
+: 1916 5 0 Down, 
+: 1924 5 0 down, 
+: 1932 5 0 down, 
+: 1940 5 0 down 
+- 1955
+: 1964 7 0 Down
+R 1972 8 -2 ~ 
+- 2014
+: 2108 2 7 How 
+: 2112 2 7 are 
+: 2116 2 5 you 
+: 2120 2 7 slee
+: 2124 2 7 ping 
+: 2128 2 5 at 
+: 2132 4 7 night? 
+- 2138
+: 2140 2 7 How 
+: 2144 2 7 do 
+: 2148 2 5 you 
+: 2152 2 7 close 
+: 2156 2 7 both 
+: 2160 2 5 your 
+: 2164 4 7 eyes 
+- 2170
+: 2172 2 5 Li
+: 2176 2 5 ving 
+: 2180 2 3 with 
+: 2184 2 5 all 
+: 2188 2 5 of 
+: 2192 2 3 those 
+: 2196 6 5 lives 
+: 2204 4 5 on 
+: 2212 2 0 your 
+: 2216 2 5 hands
+: 2220 8 0 ~? 
+- 2234
+: 2236 2 7 Stan
+: 2240 2 7 ding 
+: 2244 2 5 a
+: 2248 2 7 lone 
+: 2252 2 7 on 
+: 2256 2 5 that 
+: 2260 4 7 hill 
+- 2266
+: 2268 2 7 U
+: 2272 2 7 sing 
+: 2276 2 5 your 
+: 2280 6 7 fuel 
+: 2288 2 5 to 
+: 2292 4 7 kill 
+- 2298
+: 2300 2 5 We 
+: 2304 2 5 won’t 
+: 2308 2 3 take 
+: 2312 2 5 it 
+: 2316 2 5 stan
+: 2320 2 3 ding 
+: 2324 4 5 still 
+- 2330
+: 2332 2 5 Watch
+: 2336 2 0 ~ 
+: 2340 2 0 us 
+: 2344 2 5 dance
+: 2348 10 0 ~ 
+- 2362
+: 2364 2 7 How 
+: 2368 2 7 are 
+: 2372 2 5 you 
+: 2376 2 7 slee
+: 2380 2 7 ping 
+: 2384 2 5 at 
+: 2388 4 7 night? 
+- 2394
+: 2396 2 7 How 
+: 2400 2 7 do 
+: 2404 2 5 you 
+: 2408 2 7 close 
+: 2412 2 7 both 
+: 2416 2 5 your 
+: 2420 4 7 eyes 
+- 2426
+: 2428 2 5 Li
+: 2432 2 5 ving 
+: 2436 2 3 with 
+: 2440 2 5 all 
+: 2444 2 5 of 
+: 2448 2 3 those 
+: 2452 6 5 lives 
+: 2460 4 5 on 
+: 2468 2 0 your 
+: 2472 4 5 hands
+: 2478 8 0 ~? 
+- 2490
+: 2492 2 7 Stan
+: 2496 2 7 ding 
+: 2500 2 5 a
+: 2504 2 7 lone 
+: 2508 2 7 on 
+: 2512 2 5 that 
+: 2516 4 7 hill 
+- 2522
+: 2524 2 7 U
+: 2528 2 7 sing 
+: 2532 2 5 your 
+: 2536 6 7 fuel 
+: 2544 2 5 to 
+: 2548 4 7 kill 
+- 2554
+: 2556 2 5 We 
+: 2560 2 5 won’t 
+: 2564 2 3 take 
+: 2568 2 5 it 
+: 2572 2 5 stan
+: 2576 2 3 ding 
+: 2580 4 5 still 
+- 2586
+: 2588 2 5 Watch
+: 2592 2 0 ~ 
+: 2596 2 0 us 
+: 2600 2 5 dance
+: 2604 10 0 ~ 
+- 2624
+: 2636 2 0 We’re 
+: 2640 2 2 gon
+: 2644 6 3 na 
+: 2652 6 8 dance 
+: 2660 6 7 on 
+: 2668 6 3 ga
+: 2676 2 3 so
+: 2680 12 2 line 
+- 2726
+: 2764 2 0 We’re 
+: 2768 2 2 gon
+: 2772 6 3 na 
+: 2780 6 8 dance 
+: 2788 6 7 on 
+: 2796 6 3 ga
+: 2804 2 3 so
+: 2808 12 2 line 
+- 2854
+: 2892 2 0 We’re 
+: 2896 2 2 gon
+: 2900 6 3 na 
+: 2908 6 8 dance 
+: 2916 6 7 on 
+: 2924 6 3 ga
+: 2932 2 3 so
+: 2936 12 2 line 
+E

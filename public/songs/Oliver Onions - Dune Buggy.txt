@@ -1,0 +1,375 @@
+#ARTIST:Oliver Onions
+#TITLE:Dune Buggy
+#MP3:Oliver Onions - Dune Buggy.mp3
+#CREATOR:welde1981
+#YEAR:1974
+#LANGUAGE:English
+#BPM:350.35
+#GAP:12240
+#VIDEO:v=JvqW9AmMfxw,co=https://i.discogs.com/bUzlhvPVEkYURlvvb93J3x_mhIA_VLSuUuEOqZ4_iCY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODkz/ODAtMTUyOTgzODcz/OS0xODMwLmpwZWc.jpeg
+: 0 3 8 Come 
+: 4 3 8 with 
+: 8 7 8 me 
+: 16 3 6 for 
+: 20 7 6 fun 
+: 28 3 4 in 
+: 32 4 4 my 
+: 40 7 3 bug
+: 48 4 6 gy 
+- 54
+: 128 3 6 Come 
+: 132 3 6 a
+: 136 7 6 long 
+: 144 3 4 let’s 
+: 148 7 4 go 
+: 156 3 3 for 
+: 160 4 3 the 
+: 168 7 1 hell 
+: 176 3 3 of 
+: 180 4 -1 it 
+- 186
+: 256 3 8 See 
+: 260 3 8 the 
+: 264 7 8 fa
+: 272 3 6 ces 
+: 276 7 6 round 
+: 284 3 4 they’re 
+: 288 4 4 all 
+: 296 7 3 loo
+: 304 4 6 king 
+- 310
+: 384 3 6 Won
+: 388 3 6 der 
+: 392 7 6 if 
+: 400 3 4 they’d 
+: 404 4 4 like 
+: 412 3 3 to 
+: 416 4 3 come 
+: 424 4 1 for 
+: 432 3 3 a 
+: 436 8 2 ride 
+- 446
+: 480 4 -1 I’ll 
+: 488 4 4 bet 
+: 496 4 -1 you 
+: 504 15 4 a
+: 520 7 1 ny
+: 528 8 -3 thing 
+- 538
+: 568 7 -3 Now 
+: 576 7 1 she’s 
+: 584 4 4 with 
+: 592 15 7 me, 
+: 608 4 4 there’ll 
+: 616 7 7 be 
+: 624 4 4 no 
+: 632 7 8 trou
+: 640 8 8 ble 
+- 650
+: 696 7 4 Trou
+: 704 7 1 bles 
+: 712 7 -1 a
+: 720 16 1 round 
+- 738
+: 744 7 1 Bet 
+: 752 4 3 you’ll 
+: 760 7 4 ne
+: 768 3 3 ver 
+: 772 7 1 e
+: 780 3 3 ver 
+: 784 3 4 get 
+: 788 3 3 a
+: 792 4 1 way 
+- 798
+: 824 3 4 Ne
+: 828 4 3 ver 
+: 836 7 1 e
+: 844 3 3 ver 
+: 848 3 4 get 
+: 852 3 3 a
+: 856 4 1 way 
+- 862
+: 880 4 1 Dune 
+: 888 7 -1 bug
+: 896 4 4 gy 
+- 902
+: 960 3 8 See 
+: 964 3 8 the 
+: 968 7 8 world 
+: 976 3 6 spin 
+: 980 7 6 round 
+: 988 3 4 in 
+: 992 4 4 dune 
+: 1000 7 3 bug
+: 1008 4 6 gy 
+- 1014
+: 1088 3 6 String 
+: 1092 3 6 a
+: 1096 7 6 long 
+: 1104 3 4 let’s 
+: 1108 7 4 scram 
+: 1116 3 3 far 
+: 1120 4 3 out 
+: 1128 7 1 of 
+: 1136 3 3 the 
+: 1140 4 -1 ground 
+- 1146
+: 1216 3 8 Ne
+: 1220 3 8 ver 
+: 1224 7 8 felt 
+: 1232 3 6 so 
+: 1236 7 6 good 
+: 1244 3 4 she’s 
+: 1248 4 4 a 
+: 1256 7 3 beau
+: 1264 4 6 ty 
+- 1270
+: 1340 3 6 Bet 
+: 1344 3 6 she 
+: 1348 7 6 is 
+: 1356 3 4 a 
+: 1360 4 4 sight 
+: 1368 3 3 for 
+: 1372 4 3 your 
+: 1380 4 1 poor 
+: 1388 3 3 old 
+: 1392 8 4 eyes 
+- 1402
+: 1436 4 -1 I’ll 
+: 1444 4 4 bet 
+: 1452 4 -1 you 
+: 1460 15 4 a
+: 1476 7 1 ny
+: 1484 16 -3 thing 
+- 1502
+: 1524 7 -3 Boys 
+: 1532 7 1 on 
+: 1540 4 4 their 
+: 1548 15 7 bikes 
+: 1564 4 4 will 
+: 1572 7 7 have 
+: 1580 4 4 some 
+: 1588 7 8 trou
+: 1596 8 8 ble 
+- 1606
+: 1652 7 4 Fol
+: 1660 7 1 low
+: 1668 7 -1 ing 
+: 1676 16 1 us 
+- 1694
+: 1700 7 1 Bet 
+: 1708 4 3 they 
+: 1716 7 4 ne
+: 1724 3 3 ver 
+: 1728 7 1 e
+: 1736 3 3 ver 
+: 1740 3 4 catch 
+: 1744 3 3 us 
+: 1748 4 1 up 
+- 1754
+: 1780 3 4 Ne
+: 1784 4 3 ver 
+: 1792 7 1 e
+: 1800 3 3 ver 
+: 1804 3 4 catch 
+: 1808 3 3 us 
+: 1812 4 1 up 
+: 1836 4 1 dune 
+: 1844 7 -1 bug
+: 1852 4 4 gy 
+- 1858
+: 1912 3 9 I 
+: 1916 3 9 feel 
+: 1920 7 9 like 
+: 1928 3 7 a 
+: 1932 7 7 king 
+: 1940 3 5 in 
+: 1944 4 5 my 
+: 1952 7 4 bug
+: 1960 4 7 gy 
+- 1966
+: 2040 3 7 Just 
+: 2044 3 7 the 
+: 2048 7 7 crown 
+: 2056 3 5 is 
+: 2060 7 5 mis
+: 2068 3 4 sing 
+: 2072 4 4 but 
+: 2080 7 2 that’s 
+: 2088 3 4 al
+: 2092 4 0 right 
+- 2098
+: 2168 3 9 Come 
+: 2172 3 9 on 
+: 2176 7 9 peo
+: 2184 3 7 ple 
+: 2188 7 7 come 
+: 2196 3 5 in 
+: 2200 4 5 my 
+: 2208 7 4 bug
+: 2216 4 7 gy 
+- 2222
+: 2296 3 7 Come 
+: 2300 3 7 and 
+: 2304 7 7 feel 
+: 2312 3 5 the 
+: 2316 4 5 power 
+: 2324 3 4 of 
+: 2328 4 4 a 
+: 2336 7 2 star
+: 2344 3 4 ry 
+: 2348 4 5 night 
+- 2354
+: 2392 4 0 I’ll 
+: 2400 4 5 bet 
+: 2408 4 0 you 
+: 2416 15 5 a
+: 2432 7 2 ny
+: 2440 16 -2 thing 
+- 2458
+: 2480 7 -2 Now 
+: 2488 7 2 she’s 
+: 2496 4 5 with 
+: 2504 15 8 me 
+: 2520 4 5 there’ll 
+: 2528 7 8 be 
+: 2536 4 5 no 
+: 2544 7 9 trou
+: 2552 8 9 ble 
+- 2562
+: 2580 7 5 Trou
+: 2588 7 2 bles 
+: 2596 7 0 a
+: 2604 16 2 round 
+- 2622
+: 2628 7 2 Bet 
+: 2636 4 4 you’ll 
+: 2644 7 5 ne
+: 2652 3 4 ver 
+: 2656 7 2 e
+: 2664 3 4 ver 
+: 2668 3 5 get 
+: 2672 3 4 a
+: 2676 4 2 way 
+- 2682
+: 2708 3 5 Ne
+: 2712 4 4 ver 
+: 2720 7 2 e
+: 2728 3 4 ver 
+: 2732 3 5 get 
+: 2736 3 4 a
+: 2740 4 2 way 
+: 2764 4 2 dune 
+: 2772 7 0 bug
+: 2780 4 5 gy 
+- 2786
+: 2844 3 9 I 
+: 2848 3 9 feel 
+: 2852 7 9 like 
+: 2860 3 7 a 
+: 2864 4 7 king, 
+: 2876 3 9 I 
+: 2880 3 9 feel 
+: 2884 7 9 like 
+: 2892 3 7 a 
+: 2896 7 7 king 
+: 2904 3 5 in 
+: 2908 4 5 my 
+: 2916 7 4 bug
+: 2924 4 7 gy 
+- 2930
+: 3004 3 7 Just 
+: 3008 3 7 the 
+: 3012 7 7 crown 
+: 3020 3 5 is 
+: 3024 7 5 mis
+: 3032 3 4 sing 
+: 3036 4 4 but 
+: 3044 7 2 that’s 
+: 3052 3 4 al
+: 3056 4 0 right 
+- 3062
+: 3132 3 9 Come 
+: 3136 3 9 on 
+: 3140 7 9 peo
+: 3148 3 7 ple 
+: 3152 7 7 come 
+: 3160 3 5 in 
+: 3164 4 5 my 
+: 3172 7 4 bug
+: 3180 4 7 gy 
+- 3186
+: 3260 3 7 Come 
+: 3264 4 7 and 
+: 3272 3 7 feel 
+: 3276 3 5 the 
+: 3280 7 5 power 
+: 3288 3 4 of 
+: 3292 4 4 a 
+: 3300 7 2 star
+: 3308 3 4 ry 
+: 3312 4 0 night 
+- 3318
+: 3388 3 9 I 
+: 3392 3 9 feel 
+: 3396 7 9 like 
+: 3404 3 7 a 
+: 3408 7 7 king 
+: 3416 3 5 in 
+: 3420 4 5 my 
+: 3428 7 4 bug
+: 3436 4 7 gy 
+- 3442
+: 3516 3 7 Just 
+: 3520 3 7 the 
+: 3524 7 7 crown 
+: 3532 3 5 is 
+: 3536 7 5 mis
+: 3544 3 4 sing 
+: 3548 4 4 but 
+: 3556 7 2 that’s 
+: 3564 3 4 al
+: 3568 4 0 right 
+- 3574
+: 3644 3 9 Come 
+: 3648 3 9 on 
+: 3652 7 9 peo
+: 3660 3 7 ple 
+: 3664 7 7 come 
+: 3672 3 5 in 
+: 3676 4 5 my 
+: 3684 7 4 bug
+: 3692 4 7 gy 
+- 3698
+: 3772 3 7 Come 
+: 3776 3 7 and 
+: 3780 7 7 feel 
+: 3788 3 5 the 
+: 3792 7 5 power 
+: 3800 3 4 of 
+: 3804 4 4 a 
+: 3812 7 2 star
+: 3820 3 4 ry 
+: 3824 4 0 night 
+- 3830
+: 3900 3 9 I 
+: 3904 3 9 feel 
+: 3908 7 9 like 
+: 3916 3 7 a 
+: 3920 7 7 king 
+: 3928 3 5 in 
+: 3932 4 5 my 
+: 3940 7 4 bug
+: 3948 4 7 gy 
+- 3954
+: 4028 3 7 Just 
+: 4032 3 7 the 
+: 4036 7 7 crown 
+: 4044 3 5 is 
+: 4048 4 5 mis
+: 4056 3 4 sing 
+: 4060 4 4 but 
+: 4068 7 2 that’s 
+: 4076 3 4 al
+: 4080 12 5 right 
+E

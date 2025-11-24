@@ -1,0 +1,300 @@
+#ARTIST:Madonna
+#TITLE:What It Feels Like For A Girl
+#MP3:Madonna - What It Feels Like For A Girl.mp3
+#CREATOR:Coppolatte
+#GENRE:Pop
+#YEAR:2000
+#LANGUAGE:English
+#BPM:210.1
+#GAP:2360
+#VIDEO:v=qYwgG2oyUbA,co=what-it-feels-like-for-a-girl-60e2fb22dd949.jpg,bg=madonna-53f8c98a67472.jpg
+F 0 3 0 Girls 
+F 4 1 0 can 
+F 6 3 0 wear 
+F 10 5 0 jeans 
+- 25
+F 34 1 0 And 
+F 36 3 0 cut 
+F 40 1 0 their 
+F 42 3 0 hair 
+F 46 3 0 short 
+- 55
+F 58 3 0 Wear 
+F 62 5 0 shirts 
+F 68 1 0 and 
+F 70 3 0 boots 
+- 83
+F 96 1 0 ’Cause 
+F 98 1 0 it’s 
+F 100 1 0 o
+F 102 3 0 kay 
+F 106 1 0 to 
+F 108 1 0 be a 
+F 110 3 0 boy 
+- 123
+F 140 1 0 But 
+F 142 1 0 for 
+F 144 1 0 a 
+F 146 3 0 boy 
+F 150 1 0 to 
+F 152 1 0 look 
+F 154 1 0 like 
+F 156 1 0 a 
+F 158 3 0 girl 
+F 162 1 0 is 
+F 164 1 0 de
+F 166 3 0 gra
+F 170 3 0 ding 
+- 183
+F 199 1 0 ’Cause 
+F 201 3 0 you 
+F 205 3 0 think 
+F 209 1 0 that 
+F 211 1 0 be
+F 213 1 0 ing 
+F 215 1 0 a 
+F 217 3 0 girl 
+F 221 1 0 is 
+F 223 1 0 de
+F 225 1 0 gra
+F 227 1 0 ding 
+- 238
+F 256 1 0 But 
+F 258 3 0 se
+F 262 1 0 cret
+F 264 5 0 ly 
+- 279
+F 288 1 0 You’d 
+F 290 1 0 love 
+F 292 1 0 to 
+F 294 1 0 know 
+F 296 1 0 what 
+F 298 1 0 it’s 
+F 300 3 0 like 
+- 309
+F 312 1 0 Woul
+F 314 1 0 dn’t 
+F 316 3 0 you? 
+- 329
+F 346 1 0 What 
+F 348 1 0 it 
+F 350 5 0 feels 
+F 356 3 0 like 
+F 360 1 0 for 
+F 362 1 0 a 
+F 364 3 0 girl 
+- 395
+: 576 1 5 Fo
+: 578 3 3 ~r 
+: 582 2 3 a 
+: 586 47 7 gi
+: 634 19 3 ~rl 
+- 663
+: 671 5 3 In 
+: 677 5 3 this 
+: 683 47 7 wo
+: 731 19 3 ~rld 
+- 760
+: 770 1 5 Fo
+: 772 3 3 ~r 
+: 776 2 3 a 
+: 780 47 7 gi
+: 828 19 3 ~rl 
+- 857
+: 865 5 3 In 
+: 871 5 3 this 
+: 877 47 7 wo
+: 925 19 3 ~rld 
+- 954
+: 965 1 5 Fo
+: 967 3 3 ~r 
+: 971 2 3 a 
+: 975 47 7 gi
+: 1023 19 3 ~rl 
+- 1052
+: 1060 5 3 In 
+: 1066 5 3 this 
+: 1072 47 7 wo
+: 1120 19 3 ~rld 
+- 1149
+: 1161 1 5 Fo
+: 1163 3 3 ~r 
+: 1167 2 3 a 
+: 1171 47 7 gi
+: 1219 19 3 ~rl 
+- 1248
+: 1256 5 3 In 
+: 1262 5 3 this 
+: 1268 47 7 wo
+: 1316 19 3 ~rld 
+- 1363
+: 1940 5 0 Do 
+: 1946 2 3 you 
+: 1949 11 3 know 
+- 1962
+: 1964 1 7 Wha
+: 1966 3 10 ~t 
+: 1970 2 7 it 
+: 1973 4 8 feels 
+: 1979 4 7 like 
+: 1988 1 7 fo
+: 1990 3 3 ~r 
+: 1994 2 3 a 
+: 1997 15 3 girl? 
+- 2022
+: 2038 5 0 Do 
+: 2044 2 3 you 
+: 2047 11 3 know 
+- 2060
+: 2062 1 7 Wha
+: 2064 3 10 ~t 
+: 2068 2 7 it 
+: 2071 4 8 feels 
+: 2077 4 7 like 
+: 2086 1 7 i
+: 2088 3 3 ~n 
+: 2092 2 3 this 
+: 2095 11 3 world 
+- 2109
+: 2111 1 -2 Fo
+: 2113 2 0 ~r 
+: 2116 2 3 a 
+: 2119 11 3 girl? 
+- 2133
+: 2135 5 0 Do 
+: 2141 2 3 you 
+: 2144 11 3 know 
+- 2157
+: 2159 1 7 Wha
+: 2161 3 10 ~t 
+: 2165 2 7 it 
+: 2168 4 8 feels 
+: 2174 4 7 like 
+: 2183 1 7 fo
+: 2185 3 3 ~r 
+: 2189 2 3 a 
+: 2192 15 3 girl? 
+- 2217
+: 2233 5 0 Do 
+: 2239 2 3 you 
+: 2242 11 3 know 
+- 2255
+: 2257 1 7 Wha
+: 2259 3 10 ~t 
+: 2263 2 7 it 
+: 2266 4 8 feels 
+: 2272 4 7 like 
+: 2281 1 7 i
+: 2283 3 3 ~n 
+: 2287 2 3 this 
+: 2290 11 3 world 
+- 2315
+: 2330 1 5 Fo
+: 2332 3 3 ~r 
+: 2336 2 3 a 
+: 2340 47 7 gi
+: 2388 19 3 ~rl 
+- 2417
+: 2425 5 3 In 
+: 2431 5 3 this 
+: 2437 47 7 wo
+: 2485 19 3 ~rld 
+- 2518
+F 2534 3 0 Girls 
+F 2538 1 0 can 
+F 2540 3 0 wear 
+F 2544 5 0 jeans 
+- 2559
+F 2568 1 0 And 
+F 2570 3 0 cut 
+F 2574 1 0 their 
+F 2576 3 0 hair 
+F 2580 3 0 short 
+- 2589
+F 2592 3 0 Wear 
+F 2596 5 0 shirts 
+F 2602 1 0 and 
+F 2604 3 0 boots 
+- 2617
+F 2630 1 0 ’Cause 
+F 2632 1 0 it’s 
+F 2634 1 0 o
+F 2636 3 0 kay 
+F 2640 1 0 to 
+F 2642 1 0 be a 
+F 2644 3 0 boy 
+- 2657
+F 2674 1 0 But 
+F 2676 1 0 for 
+F 2678 1 0 a 
+F 2680 3 0 boy 
+F 2684 1 0 to 
+F 2686 1 0 look 
+F 2688 1 0 like 
+F 2690 1 0 a 
+F 2692 3 0 girl 
+F 2696 1 0 is 
+F 2698 1 0 de
+F 2700 3 0 gra
+F 2704 3 0 ding 
+- 2717
+F 2733 1 0 ’Cause 
+F 2735 3 0 you 
+F 2739 3 0 think 
+F 2743 1 0 that 
+F 2745 1 0 be
+F 2747 1 0 ing 
+F 2749 1 0 a 
+F 2751 3 0 girl 
+F 2755 1 0 is 
+F 2757 1 0 de
+F 2759 1 0 gra
+F 2761 1 0 ding 
+- 2772
+F 2790 1 0 But 
+F 2792 3 0 se
+F 2796 1 0 cret
+F 2798 5 0 ly 
+- 2813
+F 2822 1 0 You’d 
+F 2824 1 0 love 
+F 2826 1 0 to 
+F 2828 1 0 know 
+F 2830 1 0 what 
+F 2832 1 0 it’s 
+F 2834 3 0 like 
+- 2843
+F 2846 1 0 Woul
+F 2848 1 0 dn’t 
+F 2850 3 0 you? 
+- 2863
+F 2880 1 0 What 
+F 2882 1 0 it 
+F 2884 5 0 feels 
+F 2890 3 0 like 
+F 2894 1 0 for 
+F 2896 1 0 a 
+F 2898 3 0 girl 
+- 2929
+: 3110 1 5 Fo
+: 3112 3 3 ~r 
+: 3116 2 3 a 
+: 3120 47 7 gi
+: 3168 19 3 ~rl 
+- 3197
+: 3205 5 3 In 
+: 3211 5 3 this 
+: 3217 47 7 wo
+: 3265 19 3 ~rld 
+- 3294
+: 3304 1 5 Fo
+: 3306 3 3 ~r 
+: 3310 2 3 a 
+: 3314 47 7 gi
+: 3362 19 3 ~rl 
+- 3391
+: 3399 5 3 In 
+: 3405 5 3 this 
+: 3411 47 7 wo
+: 3459 19 3 ~rld. 
+E

@@ -1,0 +1,304 @@
+#ARTIST:Kermit the Frog
+#TITLE:Rainbow Connection
+#MP3:Kermit the Frog - Rainbow Connection.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Kermit the Frog - Rainbow Connection [CO].jpg
+#BACKGROUND:Kermit the Frog - Rainbow Connection [BG].jpg
+#YEAR:1979
+#LANGUAGE:English
+#BPM:380.86
+#GAP:17182
+#VIDEO:v=WS3Lkc6Gzlk,co=https://upload.wikimedia.org/wikipedia/en/5/59/Rainbow_Connection.jpg,bg=the-muppet-movie-56b1cfa7076df.jpg
+: 0 10 1 Why 
+: 16 6 6 are 
+: 32 6 9 there 
+: 40 5 9 so 
+: 46 4 1 ma
+: 50 4 1 ny 
+: 76 21 1 songs 
+: 100 2 6 a
+: 104 6 9 bout 
+: 114 11 11 rain
+: 125 10 11 bows
+- 145
+: 152 2 1 And 
+: 156 8 1 what’s 
+: 169 6 4 on 
+: 179 8 8 the 
+: 192 28 9 o
+: 223 6 4 ther 
+: 233 28 6 side? 
+- 286
+: 315 12 8 Rain
+: 327 11 4 bows 
+: 350 4 9 are 
+: 355 9 11 vis
+: 364 9 1 ions 
+: 389 4 6 but 
+: 399 9 4 on
+: 408 9 4 ly 
+: 429 4 8 il
+: 436 4 9 lu
+: 443 8 11 sions 
+- 462
+: 470 3 8 And 
+: 475 11 1 rain
+: 486 11 4 bows 
+: 500 11 6 have 
+: 513 4 8 no
+: 520 14 9 thing 
+: 538 11 4 to 
+: 553 19 6 hide 
+- 597
+: 633 11 6 So 
+: 646 11 1 we’ve 
+: 659 9 6 been 
+: 672 9 1 told 
+: 686 8 6 and 
+: 700 8 1 some 
+: 712 8 6 choose 
+: 724 8 1 to 
+: 736 9 6 be
+: 750 3 1 lieve 
+: 757 12 6 it 
+- 774
+: 798 3 8 I 
+: 803 11 8 know 
+: 816 8 9 they’re 
+: 826 15 11 wrong 
+: 845 11 8 wait 
+: 863 4 9 and 
+: 869 14 8 see 
+- 908
+: 950 13 2 Some
+: 963 12 6 day 
+: 976 10 9 we’ll 
+: 988 14 8 find 
+: 1008 3 6 it 
+- 1021
+: 1025 5 6 The 
+: 1032 12 4 rain
+: 1044 11 8 bow 
+: 1057 12 11 con
+: 1069 11 8 nec
+: 1080 11 9 tion 
+- 1101
+: 1105 5 1 The 
+: 1111 10 2 lo
+: 1121 9 6 vers 
+: 1142 5 9 the 
+: 1148 10 1 drea
+: 1158 9 1 mers 
+: 1177 8 11 and 
+: 1188 11 9 me 
+- 1245
+: 1349 6 1 Who 
+: 1357 8 4 said 
+: 1383 2 9 that 
+: 1388 2 1 eve
+: 1394 2 1 ry 
+: 1398 10 1 wish 
+- 1418
+: 1422 6 8 Would 
+: 1429 6 2 be 
+: 1438 11 4 heard 
+: 1456 4 9 and 
+: 1468 6 6 an
+: 1474 6 11 swered 
+- 1490
+: 1501 3 2 When 
+: 1507 9 9 wished 
+: 1520 7 6 on 
+: 1532 5 8 the 
+: 1543 27 9 mor
+: 1574 8 4 ning 
+: 1585 31 6 star? 
+- 1629
+: 1665 9 1 Some
+: 1674 7 2 bo
+: 1681 7 9 dy 
+: 1705 7 11 thought 
+: 1713 2 1 of 
+: 1715 7 1 that 
+- 1732
+: 1742 3 1 And 
+: 1746 10 9 some
+: 1756 9 4 one 
+: 1769 8 9 be
+: 1777 7 9 lieved 
+: 1788 2 4 it. 
+- 1800
+: 1808 13 4 And 
+: 1825 8 1 look 
+: 1837 13 4 what 
+: 1856 5 1 it’s 
+: 1863 14 9 done 
+: 1889 10 11 so 
+: 1902 13 6 far. 
+- 1940
+: 1981 8 6 What’s 
+: 1996 12 1 so 
+: 2015 10 1 a
+: 2025 10 1 ma
+: 2035 10 6 zing 
+: 2049 9 1 that 
+: 2061 10 6 keeps 
+: 2079 4 1 us 
+: 2088 12 6 star
+: 2100 12 1 ga
+: 2112 12 6 zing 
+- 2134
+: 2138 3 6 And 
+: 2143 7 8 what 
+: 2154 10 8 do 
+: 2167 9 8 we 
+: 2180 8 11 think 
+: 2194 5 8 we 
+: 2201 8 4 might 
+: 2213 9 8 see? 
+- 2247
+: 2299 13 9 Some
+: 2312 12 6 day 
+: 2326 9 9 we’ll 
+: 2338 12 8 find 
+: 2354 2 6 it
+- 2366
+: 2374 4 6 The 
+: 2380 11 4 rain
+: 2391 11 8 bow 
+: 2406 12 11 con
+: 2418 10 9 nec
+: 2428 10 9 tion
+- 2450
+: 2454 4 6 The 
+: 2459 6 2 lo
+: 2465 6 6 vers 
+: 2492 5 9 the 
+: 2498 9 1 drea
+: 2507 9 1 mers 
+: 2529 6 11 and 
+: 2538 29 9 me 
+- 2577
+: 2582 20 11 All 
+: 2605 3 11 of 
+: 2610 6 11 us 
+: 2619 20 1 un
+: 2642 4 11 der 
+: 2649 9 9 its 
+: 2661 17 4 spell 
+- 2682
+: 2685 13 4 We 
+: 2699 18 6 know 
+: 2720 7 9 that 
+: 2731 4 9 it’s 
+: 2737 14 4 pro
+: 2751 12 6 ba
+: 2763 12 9 bly 
+: 2778 42 11 ma
+: 2820 41 1 gic 
+- 2871
+: 2900 9 2 Have 
+: 2910 10 6 you 
+: 2924 9 11 been 
+: 2934 11 1 half 
+: 2947 6 2 a
+: 2953 5 2 sleep 
+- 2970
+: 2974 4 4 And 
+: 2979 10 4 have 
+: 2991 9 6 you 
+: 3003 10 9 heard 
+: 3015 9 11 voi
+: 3024 8 1 ces 
+- 3042
+: 3062 6 2 I’ve 
+: 3069 11 6 heard 
+: 3082 8 9 them 
+: 3095 11 9 cal
+: 3106 10 9 ling 
+: 3121 12 6 my 
+: 3134 19 6 name 
+- 3178
+: 3215 5 9 Is 
+: 3223 11 6 this 
+: 3248 4 9 the 
+: 3255 4 11 sweet 
+: 3262 17 2 sound
+- 3275
+: 3290 4 9 That 
+: 3296 8 9 calls 
+: 3308 5 6 the 
+: 3317 10 9 young 
+: 3331 6 9 sail
+: 3339 18 1 ors? 
+- 3360
+: 3368 5 2 The 
+: 3374 11 4 voice 
+: 3387 10 6 might 
+: 3400 10 9 be 
+: 3418 4 9 one 
+: 3430 5 9 and 
+: 3439 9 6 the 
+: 3451 18 6 same 
+- 3494
+: 3539 5 6 I’ve 
+: 3547 14 2 heard 
+: 3564 3 6 it 
+: 3571 11 2 too 
+: 3585 11 6 ma
+: 3596 11 2 ny 
+: 3610 12 6 times 
+: 3624 8 2 to 
+: 3639 5 6 ig
+: 3649 6 2 nore 
+: 3657 13 6 it 
+- 3676
+: 3684 4 2 It’s 
+: 3689 14 9 some
+: 3703 13 9 thing 
+: 3723 7 9 that 
+: 3735 5 1 I’m 
+: 3741 9 9 sup
+: 3750 9 9 posed 
+: 3763 3 9 to 
+: 3766 8 9 be 
+- 3799
+: 3847 13 4 Some
+: 3860 13 6 day 
+: 3874 10 9 we’ll 
+: 3888 15 9 find 
+: 3905 2 9 it
+- 3917
+: 3924 4 6 The 
+: 3930 12 6 rain
+: 3942 12 9 bow 
+: 3956 12 1 con
+: 3968 10 1 nec
+: 3978 10 11 tion
+- 3998
+: 4005 3 2 The 
+: 4010 10 4 lo
+: 4020 10 6 vers 
+: 4043 4 9 the 
+: 4048 9 4 drea
+: 4057 9 4 mers 
+: 4076 8 1 and 
+: 4088 13 9 me 
+- 4101
+: 4127 20 1 La
+: 4151 2 9  da
+: 4154 10 1  da
+: 4166 22 2  de
+: 4190 3 1  da
+: 4195 11 9  da
+: 4208 20 9  doo
+- 4231
+: 4233 8 6 La
+: 4247 20 6  da
+: 4273 2 9  da
+: 4277 7 9  da
+: 4289 10 6  da
+: 4303 10 9  de
+: 4319 13 4  da
+: 4347 139 2  do
+E

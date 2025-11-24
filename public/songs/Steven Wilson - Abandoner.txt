@@ -1,0 +1,84 @@
+#ARTIST:Steven Wilson
+#TITLE:Abandoner
+#MP3:Steven Wilson - Abandoner.mp3
+#CREATOR:Quetzaldo
+#GENRE:Progressive Rock
+#YEAR:2008
+#LANGUAGE:English
+#BPM:308.29
+#GAP:15440
+#VIDEO:v=-MUESxmNTsk,co=insurgentes-52e423bfa5917.jpg,bg=wilson-steven-54f52c124fbec.jpg
+: 0 5 -2 The 
+: 8 4 -2 o
+: 13 4 -2 ther 
+: 20 9 -3 half 
+: 32 3 -2 is 
+: 38 6 -3 some
+: 45 12 1 where 
+: 60 22 -4 else. 
+- 84
+: 166 2 -3 A 
+: 169 6 -3 play 
+: 179 4 -4 in 
+: 188 12 -5 the 
+* 206 28 -4 dark, 
+- 236
+: 290 15 -4 Whines 
+: 310 17 -8 like 
+: 332 34 -6 dogs. 
+- 368
+: 520 4 -2 I 
+: 527 4 -2 am 
+: 534 9 -3 res
+: 544 7 -3 tless, 
+: 553 7 -2 I 
+* 562 9 1 am 
+: 578 27 -3 lost. 
+- 607
+: 676 12 -4 Time 
+: 694 10 -4 free
+: 705 18 -5 zes 
+: 732 30 -4 all. 
+: 810 14 -4 Flaw
+: 830 14 -1 less 
+* 850 22 0 eyes.
+* 873 2 -1 ~
+* 876 28 -2 ~ 
+- 906
+: 1538 3 -3 Your 
+: 1542 6 -3 rope 
+: 1550 3 -2 you 
+: 1554 8 -4 used 
+: 1567 3 -2 to 
+: 1571 6 -2 tie 
+: 1584 9 2 your
+: 1596 31 -3 self, 
+- 1629
+: 1705 12 -3 Dreams 
+: 1720 6 -4 in
+: 1730 18 -5 to 
+: 1754 40 -4 planes, 
+: 1832 10 -4 scat
+: 1844 6 -4 ter 
+: 1854 12 -7 re
+: 1868 40 -6 mains. 
+- 1910
+: 2048 3 -3 I 
+: 2053 3 -3 reach 
+: 2060 3 -2 for 
+: 2065 7 -2 you, 
+: 2078 4 -3 de
+: 2083 5 -2 nied 
+: 2097 8 1 your 
+: 2111 22 -3 touch. 
+- 2135
+: 2212 10 -4 Snow 
+: 2225 10 -4 starts 
+: 2237 14 -5 to 
+* 2258 32 -4 blind, 
+: 2346 10 -5 I 
+: 2360 20 -4 con
+: 2382 10 -3 fide.
+: 2393 2 -2 ~
+: 2396 42 -3 ~ 
+E

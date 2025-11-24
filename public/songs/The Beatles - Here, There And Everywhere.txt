@@ -1,0 +1,257 @@
+#ARTIST:The Beatles
+#TITLE:Here, There And Everywhere
+#MP3:The Beatles - Here, There And Everywhere.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:327
+#GAP:1030
+#VIDEO:v=FusIKjztap8,co=https://i.discogs.com/JElGO92piyjxWAo2kjwUnFexla6LFg5GniMqUrcXejU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODA2LTE1NjMxMjM0/NzctMjc4My5qcGVn.jpeg,bg=beatles-the-64296efa76270.jpg
+: 0 4 2 To 
+: 8 4 7 lead 
+: 14 4 11 a 
+: 22 4 14 bet
+: 28 4 14 ter 
+: 34 16 14 life 
+- 52
+: 76 4 5 I 
+: 84 4 10 need 
+: 92 6 14 my 
+: 102 4 17 love 
+: 110 2 15 to 
+: 114 6 14 be 
+: 124 4 12 here
+: 130 20 14 ~ 
+- 152
+* 198 32 7 Here 
+- 232
+: 262 6 11 Mak
+: 270 4 14 ing 
+: 278 6 21 each 
+: 286 12 19 day 
+: 302 4 12 of 
+: 310 4 16 the 
+: 318 28 14 year 
+- 348
+: 390 6 11 Chang
+: 398 4 12 ing 
+: 406 4 14 my 
+: 414 10 16 life 
+- 426
+: 430 4 7 With 
+: 438 4 9 a 
+* 446 12 11 wave 
+: 462 4 11 of 
+: 470 4 11 her 
+: 478 20 11 hand 
+- 500
+: 518 6 11 No
+: 526 6 12 bo
+: 534 4 11 dy 
+: 542 12 11 can 
+- 556
+: 564 6 9 De
+: 572 12 7 ny 
+: 588 4 9 that 
+: 596 4 11 there’s 
+: 604 12 18 some
+: 620 12 16 thing 
+: 636 24 9 there 
+- 662
+: 708 32 7 There 
+- 742
+* 770 6 11 Run
+* 778 4 14 ning 
+: 786 4 21 my 
+: 794 12 19 hands 
+: 810 4 12 through 
+: 818 4 16 her 
+: 826 28 14 hair 
+- 856
+: 896 4 11 Both 
+: 904 4 12 of 
+: 912 4 14 us 
+: 920 12 16 think
+: 934 4 7 ing 
+- 940
+: 942 4 9 How 
+* 950 12 11 good 
+: 966 4 11 it 
+: 974 4 11 can 
+: 982 2 9 be
+: 986 20 11 ~ 
+- 1008
+: 1022 6 11 Some
+: 1030 4 12 one 
+: 1038 4 11 is 
+: 1046 2 9 speak
+: 1050 2 11 ~
+: 1054 12 11 ing 
+- 1068
+: 1076 4 9 But 
+: 1084 4 7 she 
+: 1092 6 9 does
+: 1100 4 11 n’t 
+: 1108 12 18 know 
+: 1124 10 16 he’s 
+: 1138 24 9 there 
+- 1164
+: 1188 4 9 I 
+: 1194 4 10 want 
+: 1202 4 12 her 
+* 1210 6 14 ev
+* 1218 4 17 ’ry
+* 1224 18 14 where 
+- 1244
+: 1258 2 12 And 
+: 1262 6 10 if 
+: 1274 6 12 she’s 
+: 1282 2 14 be
+: 1286 10 15 side 
+: 1298 2 12 me 
+- 1302
+: 1304 4 9 I 
+: 1312 4 9 know 
+: 1320 4 10 I 
+: 1328 4 12 need 
+: 1336 6 14 ne
+: 1344 4 10 ver 
+: 1352 16 7 care 
+- 1370
+: 1398 4 12 But 
+: 1406 2 14 to 
+* 1410 8 15 love 
+* 1422 4 12 her 
+- 1428
+: 1430 4 9 Is 
+: 1438 2 9 to 
+: 1442 6 10 meet 
+: 1452 6 12 her 
+: 1462 8 14 ev
+: 1474 8 11 ’ry
+: 1486 16 7 where 
+- 1504
+: 1524 6 11 Know
+: 1532 4 14 ing 
+: 1540 4 21 that 
+: 1548 10 19 love 
+: 1564 4 12 is 
+: 1572 4 16 to 
+: 1580 28 14 share 
+- 1610
+: 1650 4 11 Each 
+: 1658 4 12 one 
+: 1666 6 14 be
+: 1674 14 16 liev
+: 1690 4 7 ing 
+- 1696
+: 1698 4 9 That 
+: 1706 10 11 love 
+: 1720 4 11 ne
+: 1728 4 11 ver 
+* 1736 2 9 dies
+* 1740 16 11 ~ 
+- 1758
+: 1776 6 11 Watch
+: 1784 4 12 ing 
+: 1792 4 11 her 
+: 1800 2 9 eyes
+: 1804 16 11 ~ 
+- 1822
+: 1832 4 9 And 
+: 1840 6 7 hop
+: 1848 4 9 ing 
+: 1856 4 11 I’m 
+* 1864 12 18 al
+* 1880 12 16 ways 
+: 1896 24 9 there 
+- 1922
+: 1944 4 9 I 
+: 1950 4 10 want 
+: 1958 4 12 her 
+: 1966 6 14 ev
+: 1974 4 17 ’ry
+: 1980 18 14 where 
+- 2000
+: 2014 2 12 And 
+: 2018 8 10 if 
+: 2030 4 12 she’s 
+* 2038 2 14 be
+* 2042 10 15 side 
+: 2054 2 12 me 
+- 2058
+: 2060 4 9 I 
+: 2068 4 9 know 
+: 2076 4 10 I 
+: 2084 4 12 need 
+: 2092 6 14 ne
+: 2100 4 10 ver 
+: 2108 16 7 care 
+- 2126
+: 2156 4 12 But 
+: 2164 2 14 to 
+: 2168 8 15 love 
+: 2178 4 12 her 
+- 2184
+: 2188 4 9 Is 
+: 2196 2 9 to 
+: 2200 4 10 meet 
+: 2208 6 12 her 
+: 2218 8 14 ev
+: 2230 8 11 ’ry
+: 2242 20 7 where 
+- 2264
+: 2282 6 11 Know
+: 2290 4 14 ing 
+: 2298 4 21 that 
+: 2306 10 19 love 
+: 2322 4 12 is 
+: 2330 4 16 to 
+* 2338 28 14 share 
+- 2368
+: 2410 4 11 Each 
+: 2418 4 12 one 
+: 2426 6 14 be
+: 2434 14 16 liev
+: 2450 4 7 ing 
+- 2456
+: 2458 4 9 That 
+: 2466 10 11 love 
+: 2480 6 11 ne
+: 2488 4 11 ver 
+: 2496 2 9 dies
+: 2500 16 11 ~ 
+- 2518
+* 2536 6 11 Watch
+* 2544 4 12 ing 
+: 2552 4 11 her 
+: 2560 2 9 eyes
+: 2564 16 11 ~ 
+- 2582
+: 2592 4 9 And 
+: 2600 6 7 hop
+: 2608 4 9 ing 
+: 2616 4 11 I’m 
+: 2624 12 18 al
+: 2640 12 16 ways 
+: 2656 24 9 there 
+- 2682
+: 2702 4 2 And 
+: 2710 4 7 will 
+: 2718 4 7 be 
+: 2726 28 7 there 
+- 2756
+: 2782 4 11 And 
+: 2790 12 14 ev
+: 2806 2 11 ’ry
+: 2810 4 9 ~
+: 2816 14 7 where 
+- 2832
+: 2854 28 7 Here, 
+* 2886 12 7 there 
+- 2900
+: 2910 4 11 And 
+: 2918 12 14 ev
+: 2934 6 18 ’ry
+: 2944 40 19 where. 
+E

@@ -1,0 +1,186 @@
+#ARTIST:The Divine Comedy
+#TITLE:Snowball In Negative
+#MP3:The Divine Comedy - Snowball In Negative.mp3
+#CREATOR:Ythir
+#GENRE:Rock
+#YEAR:2006
+#LANGUAGE:English
+#BPM:388
+#GAP:26630
+#VIDEO:a=Qd3R9Qhpa_4,co=victory-for-the-comic-muse-535ad37b9f04f.jpg,bg=divine-comedy-the-5230ff9e24c3f.jpg
+* 0 12 5 Smo
+: 16 12 9 king 
+: 32 8 5 my 
+* 48 8 7 six 
+: 64 8 5 hun
+: 80 8 4 dredth 
+* 96 12 5 last 
+: 112 12 9 ci
+: 128 8 5 ga
+* 144 16 7 rette 
+- 162
+* 192 8 5 Out 
+: 208 8 9 of 
+: 224 8 5 the 
+* 240 16 7 stu
+: 260 7 5 di
+: 268 12 4 o 
+* 288 8 4 sky
+* 304 32 5 light 
+- 338
+* 384 8 5 Wat
+: 400 8 9 ching 
+: 416 12 5 the 
+* 432 12 7 ash 
+: 448 8 5 as 
+: 464 8 4 it 
+* 480 12 5 rolls 
+: 496 12 9 down 
+: 512 8 5 the 
+* 528 32 7 roof 
+- 562
+* 576 12 5 Lea
+: 592 12 9 ving 
+: 608 8 5 a 
+* 624 12 7 tra
+: 640 16 5 il 
+: 664 4 4 of 
+* 672 12 4 gray
+* 688 48 5 white 
+- 738
+: 916 8 5 All 
+: 932 8 8 through 
+: 948 8 5 its 
+: 964 8 7 short 
+: 976 16 5 life 
+: 1000 4 4 it 
+: 1008 12 5 gives 
+: 1024 8 8 of 
+: 1040 8 5 it
+* 1056 32 7 self 
+- 1090
+* 1104 8 5 Gi
+: 1120 12 8 ving 
+: 1136 8 5 and 
+* 1152 8 7 gi
+: 1164 16 5 ving 
+: 1188 4 4 and 
+* 1196 19 4 slo
+* 1216 15 2 wly 
+* 1232 15 4 di
+* 1248 15 7 mi
+* 1264 15 4 ni
+: 1280 8 5 shing 
+- 1290
+: 1296 8 5 Un
+: 1312 12 8 til 
+: 1328 8 5 there 
+: 1344 4 7 is
+: 1352 16 5 n’t 
+: 1384 7 3 a 
+* 1392 12 7 crumb 
+* 1408 12 10 of 
+* 1424 12 7 it 
+* 1440 28 5 left 
+- 1470
+: 1484 7 7 It 
+* 1492 12 8 no 
+: 1508 11 7 lon
+: 1520 8 5 ger 
+* 1532 16 7 is, 
+: 1556 12 5 it’s 
+: 1576 4 3 a 
+* 1584 12 5 snow
+: 1600 12 3 ball 
+: 1624 7 2 in 
+: 1632 7 3 ne
+: 1640 7 2 ga
+* 1648 48 0 tive 
+- 1698
+: 2520 8 5 Wan
+: 2536 8 9 de
+: 2548 12 5 ring 
+* 2564 12 7 home 
+: 2584 8 5 a
+: 2600 12 4 long 
+: 2616 12 5 Marl
+: 2632 12 9 bo
+: 2648 8 5 rough 
+* 2660 28 7 Road 
+- 2690
+: 2712 12 5 I 
+: 2728 12 9 re
+: 2744 12 5 a
+: 2760 12 7 lize 
+: 2776 12 5 in 
+: 2800 4 4 a
+* 2808 12 4 maze
+: 2824 28 5 ment 
+- 2854
+: 2904 12 5 That 
+: 2920 12 9 I 
+: 2936 8 5 have 
+: 2948 12 7 been 
+: 2968 12 5 for 
+: 2984 12 4 how 
+: 3000 12 5 long 
+: 3016 12 9 I 
+* 3032 23 10 don’t 
+: 3056 20 7 know 
+- 3078
+: 3088 4 5 A
+* 3096 12 5 voi
+: 3112 12 9 ding 
+: 3136 7 5 the 
+* 3144 15 7 cracks 
+: 3160 16 5 in 
+: 3180 4 4 the 
+* 3188 12 4 pave
+* 3208 40 5 ment 
+- 3250
+: 3432 8 5 All 
+: 3448 12 8 through 
+: 3464 12 5 this 
+: 3480 8 7 short 
+: 3492 16 5 life 
+: 3520 7 4 we 
+: 3528 12 5 give 
+: 3544 12 8 of 
+: 3560 12 5 our
+* 3576 32 7 selves 
+- 3610
+: 3624 8 5 Gi
+: 3636 12 8 ving 
+: 3652 8 5 and 
+: 3668 8 7 gi
+: 3680 16 5 ving 
+: 3708 4 4 and 
+* 3716 12 4 slo
+* 3736 15 2 wly 
+* 3752 15 4 di
+* 3768 15 7 mi
+: 3784 15 4 ni
+: 3800 8 5 shing 
+- 3810
+: 3816 12 5 Lea
+: 3832 12 8 ving 
+: 3848 7 5 a 
+* 3856 16 7 mark 
+: 3888 15 5 that 
+: 3904 7 3 will 
+* 3912 15 7 gra
+* 3928 15 10 dual
+* 3944 20 12 ly 
+* 3968 28 8 fade 
+- 3998
+* 4012 11 8 Ash 
+: 4024 19 7 in 
+: 4044 7 5 the 
+* 4052 28 7 breeze, 
+* 4104 11 5 snow
+* 4116 20 3 balls 
+: 4144 7 2 in 
+: 4152 7 3 ne
+: 4160 7 2 ga
+* 4168 48 0 tive 
+E

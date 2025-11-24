@@ -1,0 +1,380 @@
+#ARTIST:The Airborne Toxic Event
+#TITLE:Sometime Around Midnight
+#MP3:The Airborne Toxic Event - Sometime Around Midnight.mp3
+#CREATOR:teefit
+#YEAR:2009
+#LANGUAGE:English
+#BPM:256
+#GAP:38660
+#VIDEO:v=UYPoMjR6-Ao,co=https://images.universal-music.de/img/assets/214/214158/195/the-airborne-toxic-event-single-cover-2009.jpg,bg=the-airborne-toxic-event-4ef243166cde0.jpg
+: 0 3 -2 And 
+: 4 3 -2 it 
+* 8 16 7 starts 
+- 26
+: 56 3 3 Some 
+: 60 3 5 time 
+: 64 3 5 a
+: 68 7 5 round 
+: 76 3 5 mid
+: 80 12 3 night 
+- 94
+: 130 1 3 Or 
+: 132 1 3 at 
+: 134 3 3 least 
+: 138 7 3 that’s 
+: 146 5 0 when 
+: 152 3 0 you 
+: 156 7 -2 lose 
+- 164
+: 164 3 -4 Your
+: 168 14 3 self 
+: 188 3 -4 for a 
+: 192 3 0 minute 
+: 196 5 0 or 
+: 202 12 -2 two 
+- 216
+: 262 1 -2 As 
+: 264 3 -2 you 
+* 268 22 7 stand 
+- 292
+: 322 5 5 Under 
+: 328 3 5 the 
+: 332 7 5 bar 
+: 340 12 3 light 
+- 354
+: 392 1 3 And 
+: 394 3 3 the 
+: 398 7 3 band 
+: 406 7 0 plays 
+: 414 5 0 some 
+: 420 5 -2 song 
+: 426 1 -4 a
+: 428 3 -4 bout 
+- 432
+: 432 3 -2 For
+: 436 1 3 get
+: 438 3 0 ting 
+: 442 3 0 your
+: 446 9 -2 self 
+: 456 3 -4 for 
+: 460 3 -4 a 
+: 464 8 -5 while 
+- 474
+: 520 3 3 And 
+: 524 3 3 the 
+: 528 3 3 pi
+: 532 3 3 a
+: 536 3 0 no 
+: 540 3 0 is 
+: 544 3 0 this 
+- 548
+: 548 3 -2 Me
+: 552 3 -4 lan
+: 556 1 -4 co
+: 558 3 -4 ly 
+: 562 7 3 sound
+: 570 6 0 track 
+- 578
+: 580 5 -4 To 
+: 586 4 -4 her 
+: 592 5 -4 smi
+: 598 6 -5 ~le 
+- 606
+: 650 3 3 And 
+: 654 3 3 that 
+: 658 6 3 white 
+: 666 5 0 dress 
+: 672 5 0 she’s 
+: 678 3 -2 wea
+: 682 3 -4 ring 
+- 686
+: 686 1 -4 You 
+: 688 1 -4 ha
+: 690 3 -4 ven’t 
+: 694 7 3 seen 
+: 702 4 0 her 
+: 710 9 -4 for 
+: 720 3 -4 a 
+: 724 10 -5 while 
+- 736
+: 846 3 -2 But 
+: 850 1 -2 you 
+* 852 24 7 know 
+- 878
+: 910 3 5 That 
+: 914 5 5 she’s 
+: 920 5 5 wat
+: 926 14 3 ching 
+- 942
+: 982 3 3 She’s 
+: 986 5 3 lau
+: 992 5 0 ghing, 
+: 998 5 0 she’s 
+: 1004 3 -2 tur
+: 1008 3 -4 ning 
+- 1012
+: 1012 5 -4 She’s 
+: 1018 5 3 hol
+: 1024 3 0 ding 
+: 1028 3 0 her 
+: 1032 3 -2 to
+: 1036 3 -4 nic 
+: 1040 3 -4 like 
+: 1044 3 -4 a 
+: 1048 18 -5 cross 
+- 1068
+: 1104 3 3 The 
+: 1108 6 3 room 
+: 1116 5 3 sud
+: 1122 3 0 den
+: 1126 3 0 ly 
+: 1130 7 -2 spin
+: 1138 3 -4 ning 
+- 1142
+: 1142 3 -4 She 
+: 1146 5 3 walks 
+: 1152 5 0 up 
+: 1158 3 0 and 
+: 1162 7 -2 asks 
+: 1170 3 -4 how 
+: 1174 3 -4 you 
+: 1178 4 -5 are 
+- 1184
+: 1234 3 3 So 
+: 1238 3 3 you 
+: 1242 3 3 can 
+: 1246 5 3 smell 
+: 1252 5 0 her 
+: 1258 5 0 per
+: 1264 3 -2 fume 
+: 1268 3 -4 you 
+: 1272 2 -4 can 
+- 1275
+: 1276 5 3 See 
+: 1282 3 0 her 
+: 1286 3 0 ly
+: 1290 3 0 ing 
+: 1294 3 -2 na
+: 1298 3 -4 ked 
+: 1302 3 -4 in 
+: 1306 3 -4 your 
+: 1310 14 -5 arms 
+- 1326
+: 1422 3 -2 And 
+: 1426 3 -2 so 
+: 1430 5 -2 there’s 
+: 1436 2 -2 a 
+* 1440 34 7 change 
+- 1476
+: 1490 3 5 In 
+: 1494 4 5 your 
+: 1500 3 5 e
+: 1504 7 5 mo
+: 1512 20 3 tions 
+- 1534
+: 1558 1 3 And 
+: 1560 3 3 all 
+: 1564 3 3 these 
+: 1568 5 3 me
+: 1574 1 0 mo
+: 1576 7 0 ries 
+: 1584 3 0 come 
+: 1588 3 -2 ru
+: 1592 3 -4 shing 
+- 1596
+: 1596 3 -4 Like 
+: 1600 9 3 fe
+: 1610 5 0 ral 
+: 1616 7 -2 waves 
+: 1624 3 -4 to 
+: 1628 3 -4 your 
+: 1632 3 -4 mi
+: 1636 10 -5 ~nd 
+- 1648
+: 1690 3 3 Of 
+: 1694 1 3 the 
+: 1696 9 3 curl 
+: 1706 5 0 of 
+: 1712 5 0 your 
+: 1718 1 -2 bo
+: 1720 5 -2 dies 
+: 1726 5 -2 like 
+- 1732
+: 1732 5 3 Two 
+: 1738 3 0 per
+: 1742 5 0 fect 
+: 1748 5 -2 cir
+: 1754 5 -4 cles 
+: 1760 3 -4 en
+: 1764 20 -5 twined 
+- 1786
+: 1820 3 3 And you 
+: 1824 1 3 fell 
+: 1826 7 3 hope
+: 1834 9 0 less 
+: 1844 3 0 and 
+: 1848 3 -2 home
+: 1852 3 -4 less 
+: 1856 3 -4 and 
+- 1860
+: 1860 7 3 Lost 
+: 1868 3 0 in 
+: 1872 3 0 the 
+: 1876 7 -2 haze 
+: 1884 3 -4 of 
+: 1888 3 -4 the 
+: 1892 3 -4 wi
+: 1896 12 -5 ~ne 
+- 1910
+: 2014 5 -2 Then 
+: 2020 3 -2 she 
+* 2024 32 7 leaves 
+- 2058
+: 2072 3 3 With 
+: 2076 3 5 some
+: 2080 3 5 one 
+: 2084 3 5 you 
+: 2088 7 5 don’t 
+: 2096 12 3 know 
+- 2110
+: 2144 3 3 But 
+: 2148 3 3 she 
+: 2152 7 3 makes 
+: 2160 7 0 sure 
+: 2168 3 0 you 
+: 2172 5 -2 saw 
+: 2178 7 -4 her 
+- 2186
+: 2186 3 -4 She 
+: 2190 5 3 looks 
+: 2196 5 0 right 
+: 2202 5 -2 at 
+: 2208 7 -4 you 
+: 2216 1 -4 and 
+: 2218 14 -5 bolts 
+- 2234
+: 2276 3 3 As 
+: 2280 3 3 she 
+: 2284 5 3 walks 
+: 2290 7 0 out the 
+: 2298 7 -2 door 
+- 2306
+: 2306 5 -4 Your 
+: 2312 5 -4 blood 
+: 2318 5 3 boi
+: 2324 5 0 ling, 
+: 2330 5 0 your 
+: 2336 1 -2 sto
+: 2338 3 -2 mach 
+: 2342 5 -4 in 
+* 2348 20 -5 ropes 
+- 2370
+: 2404 1 15 Oh 
+: 2406 1 15 when 
+: 2408 5 15 your 
+: 2414 5 15 friends 
+: 2420 9 12 say 
+: 2430 3 12 what 
+: 2434 3 10 is 
+: 2438 3 8 it 
+- 2442
+: 2442 3 8 You 
+: 2446 7 15 look 
+: 2454 7 12 like 
+: 2462 5 10 you’ve 
+: 2468 5 8 seen 
+: 2474 3 8 a 
+: 2478 3 8 gho
+: 2482 16 7 ~st 
+- 2500
+: 2926 3 10 Then 
+: 2930 3 10 you 
+* 2934 24 19 walk 
+- 2960
+: 2986 3 17 Un
+: 2990 3 17 der 
+: 2994 1 17 the 
+: 2996 9 17 street
+* 3006 20 15 lights 
+- 3028
+: 3056 3 15 And 
+: 3060 3 15 you’re 
+: 3064 7 15 too 
+: 3072 5 12 drunk 
+: 3078 3 12 to 
+: 3082 5 10 no
+: 3088 3 8 tice 
+: 3092 4 8 that 
+- 3098
+: 3102 1 15 Eve
+: 3104 2 12 ry
+: 3107 2 12 one 
+: 3110 3 12 is 
+: 3114 5 10 sta
+: 3120 3 8 ring 
+: 3124 3 8 at 
+: 3128 20 7 you 
+- 3150
+: 3184 3 15 You 
+: 3188 3 15 so 
+: 3192 7 15 care 
+: 3200 7 12 what 
+: 3208 3 12 you 
+: 3212 5 10 look 
+: 3218 7 8 like 
+- 3226
+: 3226 1 15 The 
+: 3228 1 15 wo
+: 3230 3 12 ~rld 
+: 3234 7 12 is 
+: 3242 3 10 fal
+: 3246 5 8 ling 
+: 3252 1 8 a
+: 3254 3 8 round 
+: 3258 3 8 you
+: 3262 10 7 ~ 
+- 3274
+: 3322 3 15 You 
+: 3326 5 15 just 
+: 3332 5 12 have 
+: 3338 3 12 to 
+: 3342 5 10 see 
+: 3348 7 8 her 
+- 3356
+: 3356 3 8 You 
+: 3360 3 15 just 
+: 3364 5 12 have 
+: 3370 3 12 to 
+: 3374 5 10 see 
+: 3380 7 8 her 
+- 3388
+: 3388 3 8 You 
+: 3392 5 15 just 
+: 3398 5 10 have 
+: 3404 3 10 to 
+: 3408 5 8 see 
+: 3414 7 7 her 
+- 3422
+: 3422 2 10 You 
+: 3426 3 15 just 
+: 3430 5 10 have 
+: 3436 3 7 to 
+: 3440 5 8 see 
+: 3446 6 7 her 
+- 3453
+: 3454 1 3 You 
+: 3456 5 5 just 
+: 3462 5 8 have 
+: 3468 3 8 to 
+: 3472 5 8 see 
+: 3478 8 7 her 
+- 3487
+: 3488 1 3 You 
+: 3490 3 8 know 
+: 3494 5 8 that 
+: 3500 5 8 she’ll 
+: 3506 5 8 break 
+: 3512 5 7 you 
+: 3518 3 5 in 
+: 3522 14 3 two 
+E

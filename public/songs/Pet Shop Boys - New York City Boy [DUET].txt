@@ -1,0 +1,379 @@
+#ARTIST:Pet Shop Boys
+#TITLE:New York City Boy [DUET]
+#MP3:Pet Shop Boys - New York City Boy [DUET].mp3
+#CREATOR:diver66
+#EDITION:[DUET]-Songs
+#YEAR:1999
+#LANGUAGE:English
+#BPM:261.8
+#GAP:22220
+#VIDEO:v=cpk8ym8iqWU,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/28/0f/07/280f07d1-0801-d54c-aa74-1b493d4a762b/5099969882456_1500x1500_300dpi.jpg/5000x5000bb.jpg,bg=pet-shop-boys-523915f7ce29a.jpg,preview=56.6,p1=Backing (Billy Cliff%2C John James%2C Keith Fluitt & Steve Abrams),p2=Neil Tennant
+P1
+: 0 8 2 New 
+: 9 5 2 York 
+: 16 4 2 Ci
+: 22 4 4 ty 
+: 31 11 0 boy 
+- 44
+: 61 3 -3 You’ll 
+: 65 3 0 ne
+: 69 4 0 ver 
+: 77 6 0 have 
+: 85 4 2 a 
+: 93 8 5 bored 
+: 102 9 2 day 
+- 113
+: 117 3 0 ’Cause 
+: 121 4 2 you’re 
+: 126 2 0 a 
+: 129 6 2 New 
+: 137 6 2 York 
+: 145 4 2 Ci
+: 150 6 4 ty 
+: 158 13 0 boy 
+- 173
+: 181 3 -3 Where 
+: 185 4 0 Se
+: 190 2 -3 venth 
+: 194 3 0 A
+: 198 5 0 ve
+: 204 6 0 nue 
+: 214 6 2 meets 
+: 222 6 5 Broad
+: 230 10 2 way 
+- 242
+: 769 6 2 New 
+: 776 7 2 York 
+: 784 5 2 Ci
+: 791 6 4 ty 
+: 799 14 0 boy 
+- 815
+: 829 5 -3 You’ll 
+: 835 2 0 ne
+: 839 4 0 ver 
+: 847 4 0 have 
+: 855 4 2 a 
+: 861 8 5 bored 
+: 871 10 2 day 
+- 883
+: 887 2 0 ’Cause 
+: 890 3 2 you’re 
+: 894 2 0 a 
+: 897 7 2 New 
+: 905 5 2 York 
+: 912 3 2 Ci
+: 918 6 4 ty 
+: 925 14 0 boy 
+- 941
+: 948 3 -3 Where 
+: 952 3 0 Se
+: 956 4 -3 venth 
+: 961 4 0 A
+: 966 4 0 ve
+: 972 5 0 nue 
+: 980 7 2 meets 
+: 989 6 5 Broad
+: 996 10 2 way 
+- 1008
+: 1409 6 2 New 
+: 1417 6 2 York 
+: 1425 3 2 Ci
+: 1429 6 4 ty 
+: 1437 14 0 boy 
+- 1453
+: 1472 6 -3 This 
+: 1479 4 0 is 
+: 1486 6 0 your 
+: 1494 7 2 re
+: 1502 8 5 ward 
+: 1512 5 2 day 
+- 1519
+: 1526 3 0 ’Cause 
+: 1530 4 2 you’re 
+: 1535 2 0 a 
+: 1538 6 2 New 
+: 1546 5 2 York 
+: 1553 5 2 Ci
+: 1559 6 4 ty 
+: 1566 11 0 boy 
+- 1579
+: 1588 3 -3 Where 
+: 1592 4 0 Se
+: 1597 3 -3 venth 
+: 1601 2 0 A
+: 1606 4 0 ve
+: 1613 5 0 nue 
+: 1622 6 2 meets 
+: 1630 6 5 Broad
+: 1639 10 2 way 
+- 1651
+: 2689 7 2 New 
+: 2697 5 2 York 
+: 2703 5 2 Ci
+: 2710 5 4 ty 
+: 2718 14 0 boy 
+- 2734
+: 2749 4 -3 You’ll 
+: 2754 2 0 ne
+: 2758 4 0 ver 
+: 2766 4 0 have 
+: 2774 4 2 a 
+: 2782 8 5 bored 
+: 2791 10 2 day 
+- 2803
+: 2804 4 0 ’Cause 
+: 2809 5 2 you’re 
+: 2815 1 0 a 
+: 2817 6 2 New 
+: 2825 5 2 York 
+: 2831 6 2 Ci
+: 2838 6 4 ty 
+: 2845 14 0 boy 
+- 2861
+: 2868 2 -3 Where 
+: 2871 4 0 Se
+: 2876 3 -3 venth 
+: 2880 4 0 A
+: 2885 5 0 ve
+: 2891 6 0 nue 
+: 2899 8 2 meets 
+: 2909 6 5 Broad
+: 2917 10 2 way 
+- 2929
+: 3457 7 2 New 
+: 3465 6 2 York 
+: 3473 4 2 Ci
+: 3478 6 4 ty 
+: 3485 14 0 boy 
+- 3501
+: 3516 4 -3 You’ll 
+: 3522 2 0 ne
+: 3526 4 0 ver 
+: 3534 4 0 have 
+: 3542 4 2 a 
+: 3550 8 5 bored 
+: 3559 9 2 day 
+- 3570
+: 3571 5 0 ’Cause 
+: 3577 3 2 you’re 
+: 3581 1 0 a 
+: 3584 7 2 New 
+: 3592 6 2 York 
+: 3600 4 2 Ci
+: 3606 6 4 ty 
+: 3614 14 0 boy 
+- 3630
+: 3637 3 -3 Where 
+: 3641 3 0 Se
+: 3645 3 -3 venth 
+: 3649 3 0 A
+: 3654 4 0 ve
+: 3662 5 0 nue 
+: 3671 6 2 meets 
+: 3678 6 5 Broad
+: 3685 12 2 way 
+- 3699
+: 3713 6 2 New 
+: 3721 5 2 York 
+: 3728 4 2 Ci
+: 3733 6 4 ty 
+: 3741 16 0 boy 
+- 3759
+: 3775 6 -3 This 
+: 3782 4 0 is 
+: 3789 6 0 your 
+: 3797 7 2 re
+: 3805 8 5 ward 
+: 3815 5 2 day 
+- 3822
+: 3829 3 0 ’Cause 
+: 3833 4 2 you’re 
+: 3838 1 0 a 
+: 3840 7 2 New 
+: 3849 6 2 York 
+: 3856 4 2 Ci
+: 3861 6 4 ty 
+: 3868 14 0 boy 
+- 3884
+: 3891 3 -3 Where 
+: 3895 4 0 Se
+: 3900 3 -3 venth 
+: 3904 3 0 A
+: 3908 4 0 ve
+: 3915 7 0 nue 
+: 3924 7 2 meets 
+: 3933 6 5 Broad
+: 3941 12 2 way 
+- 3955
+: 3969 6 2 New 
+: 3977 5 2 York 
+: 3984 4 2 Ci
+: 3989 6 4 ty 
+: 3996 12 0 Boy 
+- 4010
+: 4019 3 -3 Where 
+: 4023 4 0 Se
+: 4028 3 -3 venth 
+: 4032 3 0 A
+: 4036 4 0 ve
+: 4043 7 0 nue 
+: 4052 7 2 meets 
+: 4061 6 5 Broad
+: 4069 12 2 way 
+P2
+: 257 3 2 When 
+: 261 5 2 you’re 
+: 267 2 0 a 
+: 270 11 2 boy, 
+: 289 3 0 some 
+: 293 5 0 days 
+: 298 1 2 are 
+: 302 11 0 tough 
+- 315
+: 320 4 0 Ly
+: 326 2 0 ing 
+: 330 3 0 on 
+: 334 4 -3 your 
+: 339 6 0 bed 
+: 347 2 0 play
+: 349 3 2 ing 
+: 353 4 -3 punk 
+: 358 4 -3 rock 
+: 363 2 -5 and 
+: 367 6 -3 stuff 
+- 375
+: 387 2 2 Home 
+: 390 3 2 is 
+: 394 2 0 a 
+: 397 6 2 boot 
+: 404 6 2 camp, 
+: 413 3 2 you 
+: 419 2 0 got
+: 422 3 0 ta 
+: 426 3 -2 es
+: 430 9 0 cape 
+- 441
+: 451 3 0 Wan
+: 455 2 0 na 
+: 458 4 0 go 
+: 463 2 -3 and 
+: 466 3 0 wan
+: 470 3 0 der 
+: 474 3 0 in 
+: 478 3 2 the 
+: 482 2 -3 ti
+: 485 3 -3 ~c
+: 489 3 -5 ker 
+: 494 7 -3 tape 
+- 503
+: 504 4 0 You 
+: 511 21 2 feel, 
+: 534 6 2 the 
+: 541 19 4 deal, 
+: 567 5 4 is 
+: 576 20 4 real 
+- 598
+: 601 4 4 You’re 
+: 606 2 4 a 
+: 609 9 5 New 
+: 619 4 5 York 
+: 625 5 5 Ci
+: 631 5 4 ty 
+: 638 18 2 boy 
+- 658
+: 662 6 2 So 
+: 670 18 4 young, 
+: 694 6 4 so 
+: 702 20 4 run 
+- 724
+: 730 3 4 In
+: 734 3 4 to 
+: 738 6 5 New 
+: 745 6 5 York 
+: 752 6 4 Ci
+: 759 7 2 ty 
+- 768
+: 1025 5 2 Street 
+: 1031 2 2 is 
+: 1034 2 0 a
+: 1037 5 2 ma
+: 1043 8 2 zing 
+- 1052
+: 1052 3 -10 The 
+: 1056 4 0 hoo
+: 1061 5 0 chies 
+: 1067 2 -2 un
+: 1070 8 0 real 
+- 1080
+: 1090 2 0 Check 
+: 1093 3 0 out 
+: 1097 4 0 all 
+: 1102 2 -3 the 
+: 1105 3 0 hard
+: 1110 4 0 ware 
+: 1115 2 0 at 
+: 1118 2 2 the 
+: 1121 2 -3 la
+: 1125 3 -3 ~
+: 1129 3 -5 test 
+: 1134 8 -3 deal 
+- 1144
+: 1155 6 2 Hear 
+: 1162 3 0 a 
+: 1166 12 2 song, 
+: 1190 4 0 that’s 
+: 1195 2 -2 the 
+: 1198 12 0 bomb 
+- 1212
+: 1214 5 0 You 
+: 1221 4 0 don’t 
+: 1226 3 0 get 
+: 1229 3 -3 that 
+: 1233 6 0 mix, 
+: 1242 3 0 it’s 
+: 1246 4 2 gone 
+: 1251 3 -3 eigh
+: 1255 6 -2 ty-
+: 1263 8 -3 six 
+- 1272
+: 1272 5 0 You 
+: 1279 20 2 feel, 
+: 1305 4 2 the 
+: 1311 18 4 deal, 
+: 1335 5 4 is 
+: 1343 20 4 real 
+- 1365
+: 1369 4 4 You’re 
+: 1374 1 4 a 
+: 1376 7 5 New 
+: 1384 5 5 York 
+: 1392 4 4 Ci
+: 1397 8 2 ty 
+- 1407
+: 2425 5 0 You 
+: 2432 24 2 feel, 
+: 2457 4 2 the 
+: 2462 18 4 deal, 
+: 2490 3 4 is 
+: 2496 20 4 real 
+- 2518
+: 2521 5 4 You’re 
+: 2527 1 4 a 
+: 2529 8 5 New 
+: 2538 5 5 York 
+: 2545 4 5 Ci
+: 2550 5 4 ty 
+: 2557 18 2 boy 
+- 2577
+: 2581 6 2 So 
+: 2589 18 4 young, 
+: 2613 6 4 so 
+: 2621 20 4 run 
+- 2643
+: 2649 3 4 In
+: 2653 3 4 to 
+: 2657 6 5 New 
+: 2665 6 5 York 
+: 2672 5 4 Ci
+: 2678 8 2 ty 
+E

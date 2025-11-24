@@ -1,0 +1,300 @@
+#ARTIST:Roger Miller
+#TITLE:Dang Me
+#MP3:Roger Miller - Dang Me.mp3
+#CREATOR:Relisch
+#COVER:Roger Miller - Dang Me [CO].jpg
+#BACKGROUND:Roger Miller - Dang Me [BG].jpg
+#GENRE:Country
+#YEAR:1964
+#LANGUAGE:English
+#BPM:300
+#GAP:14600
+#VIDEO:a=Lg7DcCI39GY,co=https://i.ytimg.com/vi/7ehl3e7iTDA/maxresdefault.jpg,co-crop=280-0-720-720
+F 0 3 6 Well, 
+F 4 3 6 here 
+F 8 3 6 I 
+F 12 4 6 sat 
+F 17 7 6 high, 
+F 29 2 6 getting
+F 32 1 6 ~ 
+F 35 4 6 ideas
+F 41 8 6 ~ 
+- 50
+F 52 1 6 I 
+F 54 1 6 ain’t 
+F 56 2 6 nothing
+F 59 2 6 ~ 
+F 62 2 6 but 
+F 65 2 6 a 
+F 68 5 6 fool 
+F 74 2 6 to 
+F 77 4 6 live 
+F 83 5 6 like 
+F 89 7 6 this 
+- 102
+F 104 3 6 Out 
+F 108 4 6 all 
+F 113 8 6 night, 
+F 124 2 6 and 
+F 127 2 6 running
+F 130 2 6 ~ 
+F 134 10 6 wild 
+- 148
+: 150 2 2 My 
+: 153 2 0 woman
+: 156 2 0 ~ 
+: 159 1 0 sitting
+: 161 3 0 ~ 
+: 165 4 4 home 
+: 170 3 4 with 
+: 174 2 5 a 
+: 177 3 7 month 
+: 181 4 5 old 
+: 188 3 5 child
+: 192 4 5 ~ 
+- 197
+: 199 5 6 Dang 
+: 205 4 9 me, 
+: 223 5 10 Dang 
+: 229 3 10 me 
+- 243
+: 247 2 2 They 
+: 250 2 0 ought 
+: 253 1 7 to 
+: 255 3 7 take 
+: 259 2 4 a 
+: 262 4 5 rope 
+: 267 3 7 and 
+: 271 5 9 hang 
+: 277 4 9 me 
+- 293
+: 297 7 5 High, 
+: 305 2 5 from 
+: 308 2 5 the 
+: 311 3 9 highest
+: 315 5 12 ~ 
+: 321 21 17 tree 
+- 344
+: 346 2 17 Woman
+: 349 2 14 ~ 
+: 352 2 12 would 
+: 355 2 9 you 
+: 358 3 17 weep 
+: 364 3 8 for 
+: 368 3 5 me 
+- 372
+* 374 1 6 Beup 
+* 376 4 6 Beup 
+* 382 3 6 Beup 
+* 387 3 6 Beup 
+* 391 2 6 Beup
+* 394 3 6 ~ 
+* 398 4 6 Beup
+* 403 5 6 ~ 
+* 410 10 6 Buem 
+- 429
+F 433 3 6 One 
+F 438 4 6 more 
+F 443 8 6 time 
+- 457
+F 459 2 6 Beup
+F 462 4 6 ~ 
+F 468 3 6 Beup 
+F 473 3 6 Beup 
+F 478 4 6 Beup 
+F 483 2 6 Beup
+F 486 4 6 ~ 
+F 491 3 6 Beup
+F 496 5 6 ~ 
+F 502 11 6 Buem 
+- 523
+F 544 4 6 Just 
+F 549 2 6 sitting
+F 552 3 6 ~ 
+F 556 5 6 round 
+F 562 3 6 drinking
+F 566 3 6 ~ 
+F 570 2 6 with 
+F 573 2 6 the 
+F 576 2 6 rest 
+F 579 3 6 of 
+F 584 1 6 the 
+F 586 8 6 guys 
+- 595
+F 597 3 6 Six 
+F 602 5 6 rounds 
+F 609 6 6 bought, 
+F 617 3 6 and 
+F 623 3 6 I 
+F 627 4 6 bought 
+F 633 6 6 five 
+- 640
+F 642 4 6 I 
+F 648 5 6 spent 
+F 654 2 6 the 
+F 657 4 6 groceries
+F 662 1 6 ~
+F 664 4 6 ~ 
+F 669 1 6 and 
+F 671 4 6 half 
+F 676 1 6 the 
+F 678 5 6 rent 
+- 686
+: 688 2 2 I 
+: 691 3 0 lack 
+: 696 4 0 14
+: 701 5 0 ~ 
+: 708 3 0 dollars
+: 712 1 4 ~ 
+: 714 4 4 and 
+* 720 3 5 27
+* 724 1 7 ~
+* 726 2 5 ~
+* 729 2 5 ~ 
+* 732 6 5 cents 
+- 739
+: 741 6 6 Dang 
+: 748 3 9 me, 
+: 765 5 10 Hang 
+: 771 4 10 me 
+- 786
+: 790 1 2 They 
+: 792 3 0 ought 
+: 796 1 7 to 
+: 798 3 7 take 
+: 802 2 4 a 
+: 805 2 5 rope 
+: 808 4 7 and 
+: 814 4 9 hang 
+: 819 4 9 me 
+- 833
+: 837 9 5 High, 
+: 847 2 5 from 
+: 850 2 5 the 
+: 853 4 9 highest
+: 858 5 12 ~ 
+: 864 20 17 tree 
+- 886
+: 888 2 17 Woman
+: 891 2 14 ~ 
+: 894 2 12 would 
+: 897 1 9 you 
+: 899 5 17 weep 
+: 905 4 8 for 
+: 910 3 5 me 
+- 914
+F 916 2 6 Beup 
+F 919 3 6 Beup 
+F 923 4 6 Beup 
+F 928 4 6 Beup 
+F 933 2 6 Beup
+F 936 3 6 ~ 
+F 940 4 6 Beup
+F 946 5 6 ~ 
+F 953 8 6 Buem 
+- 971
+F 975 4 6 One 
+F 981 4 6 more 
+F 986 10 6 time 
+- 999
+: 1001 2 6 Beup
+: 1004 4 6 ~ 
+: 1010 3 6 Beup 
+: 1015 4 6 Beup 
+: 1020 3 6 Beup 
+: 1025 2 6 Beup
+: 1028 3 6 ~ 
+: 1032 5 6 Beup
+: 1038 6 6 ~ 
+: 1046 7 6 Buem 
+- 1063
+F 1088 1 6 They 
+F 1090 1 6 say 
+F 1092 4 6 roses
+F 1097 2 6 ~ 
+F 1100 3 6 are 
+F 1104 8 6 red, 
+F 1113 2 6 and 
+F 1117 4 6 violets
+F 1122 2 6 ~ 
+F 1125 3 6 are 
+F 1129 3 6 purple
+F 1133 4 6 ~ 
+- 1141
+F 1143 2 6 Sugars
+F 1146 5 6 ~ 
+F 1152 5 6 sweet 
+F 1160 1 6 and 
+F 1162 2 6 so 
+* 1165 2 6 is 
+* 1168 3 6 maple
+* 1172 4 6 ~ 
+* 1177 4 6 surple
+* 1182 4 6 ~ 
+- 1187
+F 1189 1 6 But 
+F 1191 5 6 I’m 
+F 1197 2 6 the 
+F 1200 4 6 seventh
+F 1205 2 6 ~ 
+F 1208 2 6 out 
+F 1211 2 6 of 
+F 1214 1 6 the 
+F 1216 3 6 seven
+F 1220 4 6 ~ 
+F 1225 8 6 sons 
+- 1236
+: 1238 2 2 My 
+: 1241 3 0 pappy
+: 1245 1 0 ~ 
+: 1247 2 0 was 
+: 1250 1 0 a 
+: 1252 2 4 pistol
+: 1255 2 4 ~, 
+: 1258 2 4 I’m 
+: 1261 2 5 a 
+: 1264 3 7 son 
+: 1268 2 7 of 
+: 1271 1 5 a 
+: 1273 7 5 gun 
+- 1281
+: 1283 5 6 Dang 
+: 1289 4 9 me, 
+: 1308 5 10 Dang 
+: 1314 4 10 me 
+- 1329
+: 1333 1 2 They 
+: 1335 2 0 ought 
+: 1338 2 7 to 
+: 1341 3 7 take 
+: 1345 2 4 a 
+: 1348 2 5 rope 
+: 1351 4 7 and 
+: 1356 5 9 hang 
+: 1362 4 9 me 
+- 1376
+: 1380 8 5 High, 
+: 1389 3 5 from 
+: 1393 1 5 the 
+: 1395 5 9 highest
+: 1401 4 12 ~ 
+* 1407 20 17 tree 
+- 1428
+: 1430 3 17 Woman
+: 1434 2 14 ~ 
+: 1437 2 12 would 
+: 1440 2 9 you 
+: 1443 4 17 weep 
+: 1449 3 8 for 
+: 1453 3 5 me 
+- 1457
+F 1459 2 6 Beup 
+F 1462 3 6 Beup 
+F 1466 4 6 Beup 
+F 1471 3 6 Beup 
+F 1476 1 6 Beup
+F 1478 4 6 ~ 
+F 1483 4 6 Beup
+F 1489 3 6 ~ 
+F 1495 11 6 Buem 
+E

@@ -1,0 +1,152 @@
+#ARTIST:Lady Gaga
+#TITLE:Little Monsters
+#MP3:Lady Gaga - Little Monsters.mp3
+#CREATOR:LittleK.
+#LANGUAGE:English
+#BPM:250.07
+#GAP:8380
+#VIDEO:v=n6uaEL94Ia8,co=https://i1.sndcdn.com/artworks-000083002555-toeoeo-t500x500.jpg,bg=lady-gaga-4ddec6482ae79.jpg
+* 0 5 9 When 
+: 6 4 9 they’re 
+: 11 7 9 young 
+: 20 5 9 all 
+: 26 2 9 lit
+: 29 2 9 tle 
+: 32 5 11 mon
+: 38 5 11 sters 
+- 44
+: 44 6 11 Learn 
+: 51 3 11 that 
+: 55 5 11 they’re 
+: 61 9 11 sca
+: 72 3 17 ~
+* 76 32 17 ry 
+- 110
+: 124 4 9 Ug
+: 130 4 9 ly 
+- 136
+: 137 7 9 Stu
+: 147 5 9 pid 
+- 153
+: 154 8 10 Shunned 
+: 164 6 10 by 
+: 172 6 10 cu
+: 180 5 10 pid 
+- 187
+: 189 5 -1 O
+: 196 4 5 ver
+: 202 8 5 weight 
+: 212 5 6 and 
+: 219 7 6 hai
+: 228 2 9 ~
+: 232 23 9 ry 
+- 257
+: 267 3 0 But 
+: 271 3 0 eve
+: 275 2 0 ry 
+: 278 2 0 mon
+: 281 4 0 ster 
+: 286 6 0 needs 
+: 294 2 5 to 
+: 297 14 5 find 
+- 313
+: 314 3 5 That 
+: 318 8 5 sec
+: 328 3 5 ret 
+: 332 7 7 deep 
+: 340 5 9 in
+: 346 8 9 side
+: 355 2 7 ~
+: 358 12 5 ~ 
+- 372
+: 375 2 5 That 
+* 378 8 10 trans
+: 388 6 9 forms 
+: 396 6 7 doc
+: 404 5 5 tor 
+: 411 6 10 Je
+: 419 6 9 ckyll 
+: 427 6 7 in
+: 435 6 5 to 
+- 443
+: 446 5 0 Se
+: 453 5 0 xy 
+: 460 6 0 Mr.
+* 468 2 -2 ~ 
+: 472 2 0 Hy
+* 476 2 -5 ~
+: 480 13 -3 de 
+- 495
+: 595 6 -3 All 
+: 603 3 -3 my 
+: 608 4 -3 mon
+: 614 4 -5 sters 
+: 620 2 -5 are 
+: 624 2 -5 beau
+: 628 2 -7 ~
+: 632 2 -7 ti
+: 636 9 -7 ful 
+- 647
+F 660 1 5 Di
+F 666 1 0 sco 
+F 673 1 0 Stud
+F 676 1 0 i
+F 679 1 0 ful 
+- 682
+F 692 1 5 Square 
+F 700 1 0 Root
+F 704 1 0 i
+F 707 1 0 ful 
+- 710
+F 723 1 5 Old 
+F 731 1 0 Coot
+F 735 1 0 i
+F 739 1 0 ful 
+- 742
+: 784 2 2 Mon
+: 787 2 1 sters 
+: 791 2 2 don’t 
+: 795 2 1 need 
+: 799 3 2 im
+: 803 3 1 plants 
+: 807 2 -1 or 
+: 811 3 -4 a 
+: 816 3 5 bit
+: 820 2 3 chin’ 
+: 824 3 5 Mon
+: 828 2 3 ster 
+: 832 8 5 car 
+- 842
+: 848 3 7 Mon
+: 852 2 6 sters 
+: 856 3 7 on
+: 860 2 6 ly 
+: 864 2 7 need 
+: 868 2 6 to 
+: 872 2 7 love 
+: 876 2 6 the 
+: 880 3 7 mon
+: 884 2 6 ster’s 
+: 888 2 7 that 
+: 892 2 6 they 
+: 896 6 9 are
+: 904 2 7 ~
+: 908 13 5 ~ 
+- 923
+: 955 3 0 Oh 
+: 959 3 0 yeah 
+: 963 3 -3 ~
+: 967 3 -4 ~
+: 971 3 -3 ~ 
+- 975
+: 975 4 0 Ga
+: 980 4 -5 ga 
+- 986
+: 991 3 -1 Da
+: 995 3 -5 da 
+- 1000
+: 1007 4 -1 Ja
+: 1012 4 -5 wa 
+- 1018
+F 1024 1 0 Peace! 
+E

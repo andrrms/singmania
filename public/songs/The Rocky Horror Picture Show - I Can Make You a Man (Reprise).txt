@@ -1,0 +1,149 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:I Can Make You a Man (Reprise)
+#MP3:The Rocky Horror Picture Show - I Can Make You a Man (Reprise).mp3
+#CREATOR:DoubleDee
+#COVER:The Rocky Horror Picture Show - I Can Make You a Man (Reprise) [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - I Can Make You a Man (Reprise) [BG].jpg
+#GENRE:Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:348
+#GAP:2580
+#VIDEO:a=EOWzEaztObc,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=the-rocky-horror-picture-show-54414d5bd38e9.jpg,tags=Musical
+R 0 3 4 But 
+R 6 4 -1 a 
+R 28 3 1 del
+R 36 4 -3 toid 
+R 68 3 0 and 
+R 73 3 -3 a 
+R 96 5 -1 bi
+R 120 4 -6 cep, 
+- 134
+R 144 6 0 a 
+R 168 7 4 hot 
+* 180 6 0 groin 
+: 204 3 -5 and 
+: 208 7 -7 a 
+R 229 5 2 tri
+R 248 3 -1 cep 
+- 261
+R 268 3 5 Makes 
+R 275 4 0 me, 
+: 299 4 8 ooh
+: 304 3 2 ~
+: 308 3 -3 ~
+: 312 2 -1 ~
+: 316 2 2 ~, 
+* 350 10 3 shake, 
+- 370
+: 379 7 -2 makes 
+: 390 7 -2 me 
+: 399 5 -2 wan
+: 405 3 -5 na 
+: 414 4 2 take 
+: 430 11 2 Charles 
+: 447 3 2 At
+: 453 5 -2 las 
+- 467
+: 470 4 2 by 
+: 475 6 -7 the...
+: 503 4 0 han
+: 510 7 -2 ~
+: 519 4 -5 ~
+: 525 4 -7 ~d. 
+- 532
+: 534 3 -7 In 
+: 541 4 0 just 
+: 557 5 0 se
+: 565 4 -2 ven 
+: 575 6 0 day
+: 582 2 -5 ~
+: 585 2 -7 ~s, 
+F 588 3 1 oh 
+F 592 3 -1 ~
+F 604 3 -1 ba
+F 608 3 -6 by 
+- 620
+: 623 3 -7 I 
+: 629 7 -7 can 
+: 638 5 2 make 
+: 648 5 -2 you 
+: 663 5 -2 a 
+: 670 22 3 man
+: 703 9 3 ~
+: 714 6 2 ~
+: 729 4 0 ~
+: 739 8 -2 ~
+: 748 3 -5 ~
+: 752 4 -7 ~. 
+- 779
+R 808 3 4 I 
+R 812 6 1 don't 
+R 826 5 4 want 
+R 853 3 2 no 
+R 861 4 -3 dis
+R 875 3 2 sen
+R 882 3 -6 sion, 
+- 908
+R 938 3 6 Just 
+R 970 3 1 dy
+R 983 4 -1 na
+R 989 4 -8 mic 
+R 1016 3 -2 ten
+R 1023 3 -8 sion. 
+- 1049
+: 1079 9 5 I'm 
+: 1089 3 5 a 
+: 1096 4 5 mus
+: 1105 11 6 cle 
+: 1125 7 7 fan
+: 1138 36 2 ~. 
+- 1181
+: 1184 4 -5 In 
+: 1192 4 0 just 
+: 1208 6 0 se
+: 1216 3 -2 ven 
+: 1224 3 0 day
+: 1228 4 -2 ~
+: 1233 6 -5 ~s, 
+- 1249
+: 1271 3 -7 I 
+: 1279 6 -7 can 
+: 1287 3 1 make 
+: 1296 6 -2 you 
+: 1309 7 -2 a 
+: 1317 29 3 man
+: 1352 7 3 ~
+: 1364 7 2 ~
+: 1376 5 0 ~
+: 1386 8 -2 ~ 
+- 1401
+R 1404 3 6 Dig 
+R 1408 3 3 it 
+: 1431 3 5 if 
+: 1439 4 5 you
+: 1444 2 2 ~
+: 1447 3 -2 ~ 
+: 1457 3 6 can
+: 1463 3 6 ~
+: 1473 3 2 ~
+: 1483 4 0 ~
+: 1488 3 -5 ~
+: 1493 5 -7 ~: 
+- 1506
+: 1509 3 -5 In 
+: 1516 3 0 just 
+: 1532 3 0 se
+: 1540 3 -2 ven 
+: 1548 7 0 day
+: 1556 7 -5 ~s, 
+- 1573
+: 1596 3 -7 I 
+: 1604 3 -7 can 
+: 1612 3 1 make 
+: 1620 3 0 you
+: 1624 3 -2 ~ 
+: 1636 8 -2 a 
+* 1646 25 -2 man
+* 1672 7 -5 ~. 
+E

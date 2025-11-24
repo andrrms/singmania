@@ -1,0 +1,477 @@
+#ARTIST:Sabaton
+#TITLE:Night Witches
+#MP3:Sabaton - Night Witches.mp3
+#CREATOR:Shifty
+#GENRE:Power Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:384.21
+#GAP:300
+#VIDEO:v=jcemHIqmkYI,co=https://static.wikia.nocookie.net/sabaton/images/1/1d/Night-witches.jpg,bg=sabaton-613c710edd8fc.jpg
+F 0 2 0 From 
+F 11 3 0 the 
+F 21 3 0 depths 
+F 28 3 0 of 
+F 37 2 0 Hell 
+F 45 3 0 in 
+F 53 3 0 si
+F 61 2 0 lence 
+- 65
+F 68 2 0 Cast 
+F 77 2 0 their 
+F 85 2 0 spells, 
+F 93 3 0 ex
+F 101 2 0 plo
+F 110 3 0 sive 
+F 118 2 0 vio
+F 126 3 0 lence 
+- 131
+F 134 3 0 Rus
+F 142 3 0 sian 
+F 150 3 0 night 
+F 158 3 0 time 
+F 165 3 0 flight 
+F 173 2 0 per
+F 181 2 0 fec
+F 189 2 0 ted 
+- 193
+F 197 1 0 Flaw
+F 205 2 0 less 
+F 213 2 0 vi
+F 221 2 0 sion, 
+F 230 1 0 un
+F 238 2 0 de
+F 245 2 0 tec
+F 254 2 0 ted 
+- 258
+: 259 10 7 From 
+: 270 5 7 the 
+: 276 9 8 depths 
+: 286 7 5 of 
+: 294 7 7 Hell 
+: 302 5 10 in 
+: 309 6 8 si
+: 316 8 5 lence 
+- 325
+: 325 8 7 Cast 
+: 335 5 7 their 
+: 341 8 8 spells, 
+: 350 6 5 ex
+: 357 6 5 plo
+: 364 7 5 sive 
+: 373 7 3 vio
+: 381 7 2 lence 
+- 389
+: 390 7 7 Rus
+: 398 7 7 sian 
+: 406 7 8 night 
+: 414 7 5 time 
+: 422 7 7 flight 
+: 430 6 10 per
+: 437 6 8 fec
+: 444 7 5 ted 
+- 453
+: 454 6 7 Flaw
+: 461 7 7 less 
+: 470 6 8 vi
+: 477 8 5 sion, 
+: 486 7 5 un
+: 494 6 5 de
+: 501 6 3 tec
+: 508 8 2 ted 
+- 518
+: 532 5 0 Push
+: 538 3 0 ing 
+: 542 3 0 on 
+: 546 3 0 and 
+: 550 7 0 on, 
+: 558 4 0 their 
+: 563 6 3 planes 
+: 570 3 2 are 
+: 574 3 0 going
+: 578 1 -2 ~ 
+: 580 14 0 strong 
+- 596
+F 619 1 0 Air 
+F 623 2 0 force’s 
+F 627 1 0 num
+F 634 3 0 ber 
+F 647 1 0 one 
+- 650
+: 657 8 0 Some
+: 666 2 0 where 
+: 669 4 0 down 
+: 674 9 0 below 
+: 684 5 0 they’re 
+: 690 3 -2 loo
+: 694 4 -5 king 
+: 699 5 -5 for 
+: 705 3 -7 the 
+: 709 8 -5 foe 
+- 718
+F 719 1 0 Bom
+F 726 1 0 ber’s 
+F 734 1 0 on 
+F 742 1 0 a 
+F 750 2 0 run 
+- 754
+: 775 6 0 You 
+: 782 3 0 can’t 
+: 786 5 3 hide, 
+: 792 4 0 you 
+: 797 3 0 can’t 
+: 801 9 3 move, 
+: 811 3 0 just 
+: 815 2 0 a
+: 818 7 3 bide 
+- 826
+: 826 4 0 Their 
+: 831 2 0 a
+: 834 8 7 ttack’s 
+: 843 6 7 been 
+: 850 6 7 proved
+: 857 15 5 ~ 
+- 874
+F 875 2 0 Rai
+F 880 1 0 ders 
+F 883 2 0 in 
+F 887 1 0 the 
+F 891 1 0 dark 
+- 894
+: 912 14 0 Silent 
+: 927 4 0 through 
+: 932 2 0 the 
+: 935 5 0 night 
+: 941 5 0 the 
+: 947 3 3 wit
+: 951 6 2 ches 
+: 958 4 0 join 
+: 963 2 -2 the 
+: 966 15 0 fight 
+- 983
+F 998 1 0 Never 
+F 1007 1 0 miss 
+F 1011 1 0 their 
+F 1016 16 0 mark 
+- 1034
+: 1045 15 7 Can
+: 1061 15 2 vas 
+: 1077 8 3 wings 
+: 1086 3 2 of 
+: 1090 10 0 death 
+- 1102
+: 1104 6 0 Pre
+: 1111 5 0 pare 
+: 1118 4 0 to 
+: 1123 6 0 meet 
+: 1130 7 3 your 
+: 1138 7 3 fate
+: 1146 11 2 ~ 
+- 1159
+: 1174 14 7 Night 
+: 1190 7 2 bom
+: 1198 7 2 ber 
+: 1206 7 3 re
+: 1214 3 2 gi
+: 1218 11 0 ment 
+- 1230
+: 1231 20 0 Fivehundred
+: 1252 6 0 eighty
+: 1259 6 0 ~
+: 1266 28 2 eight 
+- 1296
+: 1307 6 7 Un
+: 1314 3 7 de
+: 1318 4 8 tec
+: 1323 10 5 ted, 
+: 1339 5 7 un
+: 1345 4 10 ex
+: 1350 6 8 pec
+: 1357 12 5 ted 
+- 1370
+: 1371 7 7 Wings 
+: 1379 3 7 of 
+: 1383 5 8 glo
+: 1389 8 5 ry 
+- 1399
+: 1401 7 5 Tell 
+: 1409 5 5 their 
+: 1415 4 3 sto
+: 1420 9 2 ry 
+- 1431
+: 1435 7 7 Avi
+: 1443 9 8 ation
+: 1453 8 5 ~, 
+: 1465 7 7 de
+: 1473 4 10 via
+: 1478 5 8 ~
+: 1484 9 5 tion 
+- 1495
+: 1496 9 7 Un
+: 1506 4 7 de
+: 1511 5 8 tec
+: 1517 6 5 ted 
+- 1525
+: 1526 8 5 Stealth 
+: 1535 7 5 per
+: 1543 7 3 fec
+: 1551 7 2 ted 
+- 1559
+: 1559 5 0 Foes 
+: 1565 2 0 are 
+: 1568 3 0 losing 
+: 1572 9 0 ground, 
+: 1582 4 0 re
+: 1587 6 3 trea
+: 1594 2 2 ting 
+: 1597 3 0 to 
+: 1601 3 -2 the 
+: 1605 16 0 sound 
+- 1622
+F 1623 6 0 Death 
+F 1632 2 0 is 
+F 1640 5 0 in 
+F 1649 1 0 the 
+F 1656 17 0 air 
+- 1675
+: 1681 8 12 Sud
+: 1690 8 12 denly 
+: 1699 2 12 a
+: 1702 3 12 ppears, 
+: 1706 6 12 con
+: 1713 3 10 firming
+: 1717 5 7 ~ 
+: 1723 3 7 all 
+: 1727 3 5 your 
+: 1731 14 7 fears 
+- 1746
+F 1746 1 0 Strike 
+F 1748 14 0 from 
+F 1766 1 0 wit
+F 1773 1 0 ches 
+F 1779 1 0 lair 
+- 1782
+: 1802 3 0 Tar
+: 1806 5 0 get 
+: 1812 7 2 found, 
+: 1820 4 0 come 
+: 1825 3 0 a
+: 1829 2 2 round, 
+: 1832 4 0 bar
+: 1837 5 0 rels 
+: 1843 7 2 sound 
+- 1851
+: 1851 4 0 From 
+: 1856 3 0 the 
+: 1860 4 7 bat
+: 1865 16 7 tlegrou 
+: 1882 13 5 nd 
+- 1897
+F 1898 2 0 A
+F 1901 2 0 xis 
+F 1904 3 0 aiming 
+F 1908 10 0 high 
+- 1920
+: 1937 4 0 Ro
+: 1942 12 0 dina 
+: 1955 2 0 a
+: 1958 7 0 waits, 
+: 1966 2 0 defeat
+: 1969 8 3 ~ 
+: 1978 4 2 them 
+: 1983 3 0 at 
+: 1987 3 -2 the 
+: 1991 14 0 gates 
+- 2006
+: 2007 7 2 Live 
+: 2015 4 2 to 
+: 2021 5 2 fight 
+: 2029 4 2 and 
+: 2034 7 2 fly~
+: 2042 11 0 ~ 
+- 2055
+: 2069 14 7 Can
+: 2084 15 2 vas 
+: 2103 4 3 wings 
+: 2109 4 2 of 
+: 2114 10 0 death 
+- 2126
+: 2129 5 0 Pre
+: 2135 7 0 pare 
+: 2143 4 0 to 
+: 2148 6 0 meet 
+: 2155 6 3 your 
+: 2162 7 3 fate
+: 2170 14 2 ~ 
+- 2186
+: 2198 17 7 Night 
+: 2216 4 2 bom
+: 2221 4 2 ber 
+: 2226 8 3 re
+: 2235 5 2 gi
+: 2241 12 0 ment 
+- 2255
+: 2256 20 0 Fivehundred
+: 2277 14 0 eighty
+: 2292 25 2 eight 
+- 2319
+: 2331 6 7 Un
+: 2338 5 7 de
+: 2344 6 8 tec
+: 2351 8 5 ted, 
+: 2364 5 7 un
+: 2370 3 10 ex
+: 2374 6 8 pec
+: 2381 12 5 ted 
+- 2394
+: 2395 7 7 Wings 
+: 2403 3 7 of 
+: 2407 6 8 glo
+: 2414 5 5 ry 
+- 2421
+: 2429 5 5 Tell 
+: 2435 4 5 their 
+: 2440 7 3 sto
+: 2448 5 2 ry 
+- 2455
+: 2460 9 7 Avi
+: 2470 9 8 ation
+: 2480 4 5 ~, 
+: 2490 6 7 de
+: 2497 5 10 via
+: 2503 8 8 ~
+: 2512 6 5 tion 
+- 2520
+: 2522 5 7 Un
+: 2528 4 7 de
+: 2533 7 8 tec
+: 2541 7 5 ted 
+- 2549
+: 2550 7 5 Stealth 
+: 2558 8 5 per
+: 2567 7 3 fec
+: 2575 8 2 ted 
+- 2585
+: 3102 5 0 Be
+: 3108 10 7 neath 
+: 3119 3 7 the 
+: 3123 7 5 star
+: 3131 8 5 light 
+: 3141 6 3 of 
+: 3148 8 2 the 
+: 3157 5 3 heavens
+: 3163 9 2 ~
+: 3173 16 0 ~ 
+- 3191
+: 3230 5 0 Un
+: 3236 8 7 like
+: 3245 4 7 ly 
+: 3251 10 5 he
+: 3262 6 5 roes 
+: 3269 6 3 in 
+: 3276 3 5 the 
+: 3280 35 7 skies 
+- 3317
+F 3332 5 0 Witches 
+F 3339 1 0 to 
+F 3341 1 0 attack, 
+F 3343 3 0 witches 
+F 3347 1 0 coming 
+F 3351 2 0 back 
+- 3355
+: 3358 6 0 As 
+: 3365 10 7 they 
+: 3376 2 7 a
+: 3379 10 5 ppear 
+: 3390 4 5 on 
+: 3397 7 3 the 
+: 3406 6 2 ho
+: 3413 7 3 ri
+: 3421 3 2 ~
+: 3425 23 0 zon 
+- 3450
+: 3486 5 0 The 
+: 3492 7 7 wind 
+: 3500 5 7 will 
+: 3507 8 5 whis
+: 3516 6 5 per 
+: 3525 8 3 when 
+: 3534 5 2 the 
+: 3542 11 3 Night 
+: 3555 8 3 Wit
+: 3564 8 5 ches 
+: 3573 13 7 come 
+- 3588
+: 3612 4 7 Un
+: 3617 7 7 de
+: 3625 6 8 tec
+: 3632 7 5 ted, 
+: 3644 5 7 un
+: 3650 5 10 ex
+: 3656 6 8 pec
+: 3663 9 5 ted 
+- 3674
+: 3675 7 7 Wings 
+: 3683 4 7 of 
+: 3688 5 8 glo
+: 3694 8 5 ry 
+- 3704
+: 3707 6 5 Tell 
+: 3714 5 5 their 
+: 3720 6 3 sto
+: 3727 6 2 ry 
+- 3735
+: 3740 10 7 Avi
+: 3751 4 8 ation
+: 3756 11 5 ~, 
+: 3772 6 7 de
+: 3779 5 10 via
+: 3785 4 8 ~
+: 3790 8 5 tion 
+- 3800
+: 3804 7 7 Un
+: 3812 3 7 de
+: 3816 7 8 tec
+: 3824 4 5 ted 
+- 3829
+: 3829 9 5 Stealth 
+: 3839 6 5 per
+: 3846 6 3 fec
+: 3853 7 2 ted 
+- 3861
+: 3861 7 7 From 
+: 3869 6 7 the 
+: 3877 10 8 depths 
+: 3888 5 5 of 
+: 3894 6 7 Hell 
+: 3902 5 10 in 
+: 3910 7 8 si
+: 3918 7 5 lence 
+- 3926
+: 3926 7 7 Cast 
+: 3934 7 7 their 
+: 3942 7 8 spells, 
+: 3950 7 5 ex
+: 3958 7 5 plo
+: 3966 7 5 sive 
+: 3974 8 3 vio
+: 3983 5 2 lence 
+- 3989
+: 3989 8 7 Rus
+: 3998 7 7 sian 
+: 4006 7 8 night 
+: 4014 6 5 time 
+: 4021 7 7 flight 
+: 4029 7 10 per
+: 4037 8 8 fec
+: 4046 6 7 ted 
+- 4053
+: 4053 8 7 Flaw
+: 4062 7 7 less 
+: 4070 6 8 vi
+: 4077 8 5 sion, 
+: 4086 8 5 un
+: 4095 7 5 de
+: 4103 5 3 tec
+: 4109 10 2 ted 
+E

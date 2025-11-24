@@ -1,0 +1,237 @@
+#ARTIST:Cauet
+#TITLE:Coming Home
+#MP3:Cauet - Coming Home.mp3
+#CREATOR:Leroidukitch
+#YEAR:2019
+#LANGUAGE:English
+#BPM:255.84
+#GAP:30
+#VIDEO:a=jaAw7OkgfoQ,co=https://i.discogs.com/hju4KaaniNPN9JvmCmACGoflOFArpjaMC9M1H5AVe_4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMw/MzEwLTE1NTk5MjI3/MTctMzU4NC5qcGVn.jpeg
+: 0 7 2 Oh 
+: 8 5 4 oh 
+: 15 5 6 oh 
+* 22 5 8 oh 
+* 32 5 2 oh 
+: 39 5 4 oh 
+: 46 5 5 oh 
+: 54 5 7 oh, 
+: 64 5 11 oh 
+- 71
+: 129 8 2 Oh 
+: 138 5 4 oh 
+: 145 5 6 oh 
+: 152 5 8 oh 
+: 162 5 2 oh 
+: 169 5 4 oh 
+: 176 5 6 oh 
+: 184 5 8 oh, 
+: 194 5 11 oh 
+- 201
+: 262 2 2 Where 
+: 265 3 2 as 
+: 269 2 5 I’m 
+: 272 2 6 thin
+: 275 5 5 king 
+: 281 5 5 babe 
+- 288
+: 292 4 5 All 
+: 297 2 4 the 
+: 300 2 5 mis
+: 303 3 7 takes 
+: 307 4 6 I 
+: 312 5 5 made 
+- 319
+: 327 7 8 I 
+: 335 4 8 should’ve 
+: 340 2 8 never
+: 343 3 6 ~ 
+: 347 2 5 met 
+: 350 4 3 your 
+: 355 5 1 side
+: 361 7 -1 ~
+: 369 5 -2 ~ 
+- 376
+: 390 3 2 When 
+: 394 1 4 you 
+: 396 3 5 were 
+: 400 2 5 there 
+: 403 2 5 for 
+: 406 5 5 me 
+- 413
+: 419 2 4 You 
+: 422 3 3 said: 
+: 426 3 4 no 
+: 430 2 5 wo
+: 433 2 6 rries 
+: 436 5 5 free 
+- 443
+: 451 5 8 Now 
+: 459 1 8 I 
+: 461 4 8 get 
+: 466 3 8 to 
+: 470 4 8 change 
+: 475 3 5 my 
+: 479 5 4 mind
+: 485 4 3 ~
+: 490 6 1 ~ 
+- 498
+: 512 8 2 Oh 
+: 521 5 4 oh 
+: 528 5 6 oh 
+: 535 5 8 oh 
+: 545 5 2 oh 
+: 552 5 4 oh 
+: 559 5 6 oh 
+: 567 5 8 oh, 
+: 577 5 11 oh 
+- 584
+: 594 3 0 I’m 
+: 598 2 0 co
+: 601 3 4 ming 
+: 605 5 4 home 
+- 612
+: 639 8 2 Oh 
+: 648 5 4 oh 
+: 655 5 6 oh 
+: 662 5 8 oh 
+: 672 5 2 oh 
+* 679 5 4 oh 
+* 686 5 6 oh 
+* 694 5 8 oh, 
+: 704 5 11 oh 
+- 711
+: 721 3 0 I’m 
+: 725 2 0 co
+: 728 3 4 ming 
+: 732 5 4 home 
+- 739
+: 1136 3 0 I’m 
+: 1140 2 0 co
+: 1143 3 4 ming 
+: 1147 5 4 home, 
+- 1154
+: 1155 3 0 I’m 
+: 1159 2 1 co
+* 1162 3 4 ming 
+: 1166 5 4 home 
+- 1172
+: 1172 3 0 I’m 
+: 1176 2 1 co
+: 1179 3 4 ming 
+: 1183 5 4 home, 
+- 1189
+: 1189 3 0 I’m 
+: 1193 2 1 co
+: 1196 3 4 ming 
+: 1200 5 4 home 
+- 1207
+F 1250 3 8 Don’t 
+F 1254 2 8 open 
+F 1257 2 8 the 
+F 1260 4 8 damn 
+F 1269 4 8 song 
+- 1275
+: 1921 2 2 Where 
+: 1924 3 2 as 
+: 1928 2 5 I’m 
+: 1931 2 6 thin
+: 1934 5 5 king 
+: 1940 5 5 babe 
+- 1947
+: 1951 4 5 All 
+: 1956 2 4 the 
+: 1959 2 5 mis
+: 1962 3 7 takes 
+: 1966 4 6 I 
+: 1971 5 5 made 
+- 1978
+: 1986 7 8 I 
+: 1994 4 8 should’ve 
+: 1999 2 8 never
+: 2002 3 6 ~ 
+: 2006 2 5 met 
+: 2009 4 3 your 
+: 2014 5 1 side
+: 2020 7 -1 ~
+: 2028 5 -2 ~ 
+- 2035
+: 2052 3 2 When 
+: 2056 1 4 you 
+: 2058 3 5 were 
+: 2062 2 5 there 
+: 2065 2 5 for 
+: 2068 5 5 me 
+- 2075
+: 2081 2 4 You 
+: 2084 3 3 said: 
+: 2088 3 4 no 
+: 2092 2 5 wo
+: 2095 2 6 rries-free
+: 2098 5 5 ~ 
+- 2105
+: 2113 5 8 Now 
+: 2121 1 8 I 
+* 2123 4 8 get 
+* 2128 3 8 to 
+* 2132 4 8 change 
+: 2137 3 5 my 
+: 2141 5 4 mind
+: 2147 4 3 ~
+: 2152 6 1 ~ 
+- 2160
+: 2174 8 2 Oh 
+: 2183 5 4 oh 
+: 2190 5 6 oh 
+: 2197 5 8 oh 
+: 2207 5 2 oh 
+: 2214 5 4 oh 
+: 2221 5 6 oh 
+: 2229 5 8 oh, 
+: 2239 5 11 oh 
+- 2246
+: 2256 3 0 I’m 
+: 2260 2 0 co
+: 2263 3 4 ming 
+: 2267 5 4 home 
+- 2274
+: 2301 8 2 Oh 
+: 2310 5 4 oh 
+: 2317 5 6 oh 
+: 2324 5 8 oh 
+: 2334 5 2 oh 
+: 2341 5 4 oh 
+: 2348 5 6 oh 
+: 2356 5 8 oh, 
+: 2366 5 11 oh 
+- 2373
+: 2383 3 0 I’m 
+: 2387 2 0 co
+: 2390 3 4 ming 
+: 2394 5 4 home 
+- 2401
+: 2545 3 0 I’m 
+* 2549 2 1 co
+* 2552 3 4 ming 
+: 2556 5 4 home, 
+- 2563
+: 2564 3 0 I’m 
+: 2568 2 1 co
+: 2571 3 4 ming 
+: 2575 5 4 home 
+- 2581
+: 2581 3 0 I’m 
+: 2585 2 1 co
+: 2588 3 4 ming 
+: 2592 5 4 home, 
+- 2598
+: 2598 3 0 I’m 
+: 2602 2 1 co
+: 2605 3 4 ming 
+* 2609 5 4 home 
+- 2616
+F 2657 3 8 Don’t 
+F 2661 2 8 open 
+F 2664 2 8 this 
+F 2667 4 8 damn 
+F 2676 4 8 song 
+E

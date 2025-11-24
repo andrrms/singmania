@@ -1,0 +1,758 @@
+#ARTIST:Scooter
+#TITLE:Jumping All Over The World
+#MP3:Scooter - Jumping All Over The World.mp3
+#CREATOR:karmidi
+#YEAR:2007
+#LANGUAGE:English
+#BPM:299.75
+#GAP:1490
+#VIDEO:v=ooEIaXoYEPU,co=jumping-all-over-the-world-54bda680c7f4a.jpg,bg=scooter-4edd246c78b72.jpg
+F 0 2 14 We 
+F 4 2 14 are 
+F 8 2 14 pa
+F 12 4 14 ging 
+F 20 4 14 Mr. 
+F 26 4 14 Baxx
+F 32 2 14 ter 
+- 36
+F 38 4 14 Mr. 
+F 44 2 14 Jor
+F 48 4 14 dan 
+F 56 2 14 and 
+F 60 4 14 Mr. 
+F 66 2 14 Si
+F 70 3 14 mon 
+- 75
+F 76 1 14 To 
+F 78 2 14 pro
+F 82 2 14 ceed 
+F 86 2 14 to 
+F 90 2 14 boar
+F 94 2 14 ding 
+F 98 4 14 gate 
+F 104 2 14 3
+F 108 3 14 8 
+- 113
+F 114 2 14 Im
+F 118 2 14 mi
+F 122 1 14 dia
+F 124 1 14 te
+F 126 3 14 ly! 
+- 131
+R 134 3 2 Un
+R 142 3 2 core, 
+R 150 3 2 hard
+R 158 3 2 core, 
+- 163
+R 166 2 2 Rock 
+R 170 2 2 you 
+R 174 3 2 down 
+R 182 2 2 to 
+R 186 2 2 the 
+R 190 3 2 floor. 
+- 195
+R 198 2 2 Pos
+R 202 2 2 se 
+R 206 2 2 saw 
+R 210 2 2 ya 
+R 214 2 2 on 
+R 218 2 2 the 
+R 222 2 2 bor
+R 226 2 2 der, 
+- 229
+R 230 2 2 Jun
+R 234 2 2 gle 
+R 238 2 2 jum
+R 242 2 2 per 
+R 246 2 2 un
+R 250 2 2 der 
+R 254 2 2 or
+R 258 2 2 der. 
+- 261
+R 262 3 2 Un
+R 270 3 2 core, 
+R 278 3 2 hard
+R 286 3 2 core, 
+- 291
+R 294 2 2 Rock 
+R 298 2 2 you 
+R 302 3 2 down 
+R 310 2 2 to 
+R 314 2 2 the 
+R 318 3 2 floor. 
+- 323
+R 326 2 2 Pos
+R 330 2 2 se 
+R 334 2 2 saw 
+R 338 2 2 ya 
+R 342 2 2 on 
+R 346 2 2 the 
+R 350 2 2 bor
+R 354 2 2 der, 
+- 357
+R 358 2 2 Jun
+R 362 2 2 gle 
+R 366 2 2 jum
+R 370 2 2 per 
+R 374 2 2 un
+R 378 2 2 der 
+R 382 2 2 or
+R 386 2 2 der. 
+- 389
+R 390 2 2 E
+R 394 2 2 very 
+R 398 2 2 mi
+R 402 2 2 nute 
+R 406 2 2 e
+R 410 2 2 very 
+R 414 2 2 hou
+R 418 2 2 ~r, 
+- 421
+R 422 2 2 Get 
+R 426 2 2 the 
+R 430 2 2 po
+R 434 2 2 wer 
+R 438 3 2 take 
+R 442 2 2 a 
+R 446 2 2 sho
+R 450 2 2 wer. 
+- 453
+R 454 4 2 Brand 
+R 462 4 2 stuff, 
+R 470 2 2 screa
+R 474 2 2 ming 
+R 478 3 2 Lord, 
+- 483
+R 486 1 2 Wic
+R 488 1 2 ked 
+R 490 2 2 and 
+R 494 2 2 tough. 
+- 498
+R 518 3 2 Un
+R 526 3 2 core, 
+R 534 3 2 hard
+R 542 3 2 core, 
+- 547
+R 550 2 2 Rock 
+R 554 2 2 you 
+R 558 3 2 down 
+R 566 2 2 to 
+R 570 2 2 the 
+R 574 3 2 floor. 
+- 579
+R 582 2 2 Pos
+R 586 2 2 se 
+R 590 2 2 saw 
+R 594 2 2 ya 
+R 598 2 2 on 
+R 602 2 2 the 
+R 606 2 2 bor
+R 610 2 2 der, 
+- 613
+R 614 2 2 Jun
+R 618 2 2 gle 
+R 622 2 2 jum
+R 626 2 2 per 
+R 630 2 2 un
+R 634 2 2 der 
+R 638 2 2 or
+R 642 2 2 der. 
+- 645
+R 646 2 2 E
+R 650 2 2 very 
+R 654 2 2 mi
+R 658 2 2 nute 
+R 662 2 2 e
+R 666 2 2 very 
+R 670 2 2 hou
+R 674 2 2 ~r, 
+- 677
+R 678 2 2 Get 
+R 682 2 2 the 
+R 686 2 2 po
+R 690 2 2 wer 
+R 694 2 2 take 
+R 698 2 2 a 
+R 702 2 2 sho
+R 706 2 2 wer. 
+- 709
+R 710 4 2 Brand 
+R 718 4 2 stuff, 
+R 726 2 2 screa
+R 730 2 2 ming 
+R 734 3 2 Lord, 
+- 739
+R 742 1 2 Wic
+R 744 1 2 ked 
+R 746 2 2 and 
+R 750 2 2 tough. 
+- 754
+R 803 4 2 Right 
+R 809 5 2 now, 
+- 816
+R 834 5 2 Say 
+R 842 7 2 Lord 
+R 852 6 2 have 
+R 862 6 2 mer
+R 870 6 2 cy! 
+- 878
+: 914 2 9 I’ve 
+: 918 2 9 got 
+: 922 2 9 the 
+* 926 2 9 mo
+* 930 3 9 ney, 
+- 935
+: 942 2 9 I’ve 
+: 946 2 7 got 
+: 950 2 6 the 
+: 954 5 9 place. 
+- 961
+: 978 2 9 You’ve 
+: 982 2 9 got 
+: 986 2 9 the 
+: 990 2 11 fi
+: 994 3 9 gure, 
+- 999
+: 1006 2 9 You’ve 
+: 1010 2 6 got 
+: 1014 2 2 the 
+* 1018 2 6 fa
+* 1022 4 4 ~ce. 
+- 1028
+: 1042 2 4 Let’s 
+: 1046 2 4 get 
+: 1050 2 6 to
+: 1054 2 7 ge
+: 1058 3 9 ther, 
+- 1063
+: 1068 1 9 We’re 
+: 1070 2 9 jum
+: 1074 2 6 ping 
+: 1078 2 2 all 
+: 1082 6 7 o
+: 1090 2 2 ver, 
+- 1093
+: 1094 2 -1 All 
+: 1098 6 6 o
+: 1106 2 2 ver 
+: 1110 2 -3 the 
+: 1114 2 6 wo
+: 1118 3 4 ~rld. 
+- 1123
+R 1134 2 2 Sing 
+R 1138 3 2 it! 
+- 1143
+: 1150 2 6 (Jum
+: 1154 2 6 ping 
+: 1158 4 6 all 
+: 1164 6 6 o
+: 1172 2 6 ver 
+: 1176 2 4 the 
+: 1180 3 2 world!) 
+- 1185
+* 1186 2 9 I’ve 
+: 1190 2 9 got 
+: 1194 2 9 the 
+: 1198 2 9 mu
+: 1202 3 9 sic, 
+- 1207
+: 1214 2 9 I’ve 
+: 1218 2 7 got 
+: 1222 2 6 the 
+: 1226 5 9 lights. 
+- 1233
+: 1250 2 9 You’ve 
+: 1254 2 9 got 
+: 1258 2 9 the 
+* 1262 2 11 fi
+* 1266 3 9 gure, 
+- 1271
+: 1278 2 9 Full 
+: 1282 2 6 of 
+: 1286 2 2 de
+: 1290 2 6 li
+: 1294 5 4 ~ghts. 
+- 1301
+: 1314 2 4 Let’s 
+: 1318 2 4 get 
+: 1322 2 6 to
+* 1326 2 7 ge
+: 1330 3 9 ther, 
+- 1335
+: 1340 1 9 We’re 
+: 1342 2 9 jum
+: 1346 2 6 ping 
+: 1350 2 2 all 
+* 1354 6 7 o
+* 1362 2 2 ver, 
+- 1365
+: 1366 2 -1 All 
+: 1370 6 6 o
+: 1378 2 2 ver 
+: 1382 2 -3 the 
+: 1386 2 6 wo
+: 1390 3 4 ~rld. 
+- 1395
+R 1398 4 2 Let 
+R 1404 2 2 me 
+R 1408 4 2 hear 
+R 1414 3 2 ya! 
+- 1419
+: 1422 2 6 (Jum
+: 1426 2 6 ping 
+* 1430 4 6 all 
+* 1436 6 6 o
+* 1444 2 6 ver 
+: 1448 2 4 the 
+: 1452 3 2 world!) 
+- 1457
+: 1458 2 9 I’ve 
+: 1462 2 9 got 
+: 1466 2 9 po
+: 1470 4 9 si
+: 1476 2 9 tion, 
+- 1480
+: 1486 2 9 I’ve 
+* 1490 2 7 got 
+: 1494 2 6 the 
+: 1498 4 9 name. 
+- 1504
+: 1522 2 9 You’ve 
+: 1526 2 9 got 
+: 1530 2 9 the 
+: 1534 2 11 po
+: 1538 2 9 wer 
+- 1542
+: 1546 2 9 To 
+: 1550 2 9 drive 
+: 1554 2 6 me 
+* 1558 2 2 in
+* 1562 2 6 sa
+* 1566 3 4 ~ne. 
+- 1571
+: 1586 2 4 Let’s 
+: 1590 2 4 get 
+: 1594 2 6 to
+: 1598 2 7 ge
+: 1602 3 9 ther, 
+- 1607
+: 1612 1 9 We’re 
+: 1614 2 9 jum
+: 1618 2 6 ping 
+: 1622 2 2 all 
+: 1626 6 7 o
+: 1634 2 2 ver, 
+- 1637
+: 1638 2 -1 All 
+: 1642 6 6 o
+: 1650 2 2 ver 
+: 1654 2 -3 the 
+: 1658 2 6 wo
+: 1662 3 4 ~rld. 
+- 1667
+R 1670 2 2 E
+R 1674 2 2 very
+R 1678 2 2 bo
+R 1682 4 2 dy! 
+- 1688
+: 1692 2 6 (Jum
+: 1696 2 6 ping 
+: 1700 4 6 all 
+: 1706 6 6 o
+: 1714 2 6 ver 
+: 1718 2 4 the 
+: 1722 3 2 world!) 
+- 1727
+: 1730 2 9 I’ve 
+: 1734 2 9 got 
+: 1738 2 9 the 
+: 1742 2 9 mo
+: 1746 3 9 ney, 
+- 1751
+: 1758 2 9 I’ve 
+: 1762 2 7 got 
+: 1766 2 6 the 
+* 1770 5 9 place. 
+- 1777
+: 1794 2 9 You’ve 
+: 1798 2 9 got 
+: 1802 2 9 the 
+: 1806 2 11 fi
+: 1810 3 9 gure, 
+- 1815
+: 1822 2 9 You’ve 
+: 1826 2 6 got 
+: 1830 2 2 the 
+: 1834 2 6 fa
+: 1838 4 4 ~ce. 
+- 1844
+: 1858 2 4 Let’s 
+: 1862 2 4 get 
+: 1866 2 6 to
+: 1870 2 7 ge
+: 1874 3 9 ther, 
+- 1879
+: 1884 1 9 We’re 
+: 1886 2 9 jum
+: 1890 2 6 ping 
+: 1894 2 2 all 
+: 1898 6 7 o
+: 1906 2 2 ver, 
+- 1909
+: 1910 2 -1 All 
+: 1914 6 6 o
+: 1922 2 2 ver 
+: 1926 2 -3 the 
+* 1930 2 6 wo
+* 1934 3 4 ~rld. 
+- 1939
+R 1974 2 2 All 
+R 1978 2 2 to
+R 1982 2 2 ge
+R 1986 2 2 ther 
+R 1990 4 2 now! 
+- 1996
+R 2246 3 2 Un
+R 2254 3 2 core, 
+R 2262 3 2 hard
+R 2270 3 2 core, 
+- 2275
+R 2278 2 2 Rock 
+R 2282 2 2 you 
+R 2286 3 2 down 
+R 2294 2 2 to 
+R 2298 2 2 the 
+R 2302 3 2 floor. 
+- 2307
+R 2310 2 2 Like 
+R 2314 2 2 a 
+R 2318 2 2 train 
+R 2322 2 2 on 
+R 2326 2 2 twis
+R 2330 2 2 ted 
+R 2334 3 2 track, 
+- 2339
+R 2342 2 2 See 
+R 2346 2 2 you 
+R 2350 2 2 down 
+R 2354 2 2 on 
+R 2358 2 2 one 
+R 2362 2 2 night 
+R 2366 3 2 dance. 
+- 2371
+R 2374 2 2 Jun
+R 2378 2 2 gle 
+R 2382 2 2 jum
+R 2386 2 2 per 
+R 2390 2 2 un
+R 2394 2 2 der 
+R 2398 2 2 or
+R 2402 2 2 der, 
+- 2405
+R 2406 2 2 Cham
+R 2410 2 2 pagne 
+R 2414 2 2 up 
+R 2418 2 2 right 
+R 2422 2 2 in 
+R 2426 2 2 the 
+R 2430 2 2 cor
+R 2434 2 2 ner. 
+- 2437
+R 2438 2 2 Co
+R 2442 2 2 ming 
+R 2446 3 2 rough 
+R 2454 4 2 Horse
+R 2462 3 2 man, 
+- 2467
+R 2470 1 2 Wic
+R 2472 1 2 ked 
+R 2474 2 2 and 
+R 2478 2 2 tough. 
+- 2482
+R 2502 3 2 Un
+R 2510 3 2 core, 
+R 2518 3 2 hard
+R 2526 3 2 core, 
+- 2531
+R 2534 2 2 Rock 
+R 2538 2 2 you 
+R 2542 3 2 down 
+R 2550 2 2 to 
+R 2554 2 2 the 
+R 2558 3 2 floor. 
+- 2563
+R 2566 2 2 Like 
+R 2570 2 2 a 
+R 2574 2 2 train 
+R 2578 2 2 on 
+R 2582 2 2 twis
+R 2586 2 2 ted 
+R 2590 3 2 track, 
+- 2595
+R 2598 2 2 See 
+R 2602 2 2 you 
+R 2606 2 2 down 
+R 2610 2 2 on 
+R 2614 2 2 one 
+R 2618 2 2 night 
+R 2622 3 2 dance. 
+- 2627
+R 2630 2 2 Jun
+R 2634 2 2 gle 
+R 2638 2 2 jum
+R 2642 2 2 per 
+R 2646 2 2 un
+R 2650 2 2 der 
+R 2654 2 2 or
+R 2658 2 2 der, 
+- 2661
+R 2662 2 2 Cham
+R 2666 2 2 pagne 
+R 2670 2 2 up 
+R 2674 2 2 right 
+R 2678 2 2 in 
+R 2682 2 2 the 
+R 2686 2 2 cor
+R 2690 2 2 ner. 
+- 2693
+R 2694 2 2 Co
+R 2698 2 2 ming 
+R 2702 3 2 rough 
+R 2710 4 2 Horse
+R 2718 3 2 man, 
+- 2723
+R 2726 1 2 Wic
+R 2728 1 2 ked 
+R 2730 2 2 and 
+R 2734 2 2 tough. 
+- 2738
+R 2762 2 2 From 
+R 2766 3 2 Eng
+R 2771 6 2 land 
+R 2796 2 2 and 
+R 2800 1 2 I
+R 2802 2 2 ~re
+R 2806 6 2 land 
+R 2826 2 2 to 
+R 2830 4 2 Scot
+R 2836 6 2 land. 
+- 2844
+: 2862 2 6 (Jum
+: 2866 2 6 ping 
+: 2870 4 6 all 
+: 2876 6 6 o
+: 2884 2 6 ver 
+: 2888 2 4 the 
+* 2892 3 2 world!) 
+- 2896
+R 2896 2 2 In
+R 2900 2 2 di
+R 2904 4 2 a, 
+- 2910
+R 2926 5 2 Rus
+R 2934 5 2 sia, 
+- 2941
+R 2954 2 2 Au
+R 2958 4 2 stra
+R 2964 2 2 li
+R 2968 4 2 a! 
+- 2974
+R 3014 2 2 From 
+R 3018 2 2 the 
+R 3022 4 2 U
+R 3028 4 2 S
+R 3034 8 2 A 
+R 3050 2 2 to 
+R 3054 2 2 A
+R 3058 2 2 fri
+R 3062 8 2 ca 
+R 3082 2 2 and 
+R 3086 6 2 Ice
+R 3094 8 2 land. 
+- 3104
+* 3118 2 6 (Jum
+* 3122 2 6 ping 
+: 3126 4 6 all 
+: 3132 6 6 o
+: 3140 2 6 ver 
+: 3144 2 4 the 
+: 3148 1 2 world!) 
+- 3150
+R 3150 6 2 All 
+R 3158 4 2 o
+R 3164 1 2 ver 
+R 3166 4 2 Eu
+R 3172 6 2 rope 
+- 3180
+R 3210 2 2 And 
+R 3214 4 2 back 
+R 3220 1 2 to 
+R 3222 4 2 Ger
+R 3228 1 2 ma
+R 3230 6 2 ny, 
+- 3238
+R 3250 6 2 Once 
+R 3260 1 2 a
+R 3262 6 2 gain. 
+- 3270
+: 3282 2 9 I’ve 
+: 3286 2 9 got 
+: 3290 2 9 the 
+: 3294 2 9 mo
+: 3298 3 9 ney, 
+- 3303
+* 3310 2 9 I’ve 
+* 3314 2 7 got 
+* 3318 2 6 the 
+* 3322 5 9 place. 
+- 3329
+: 3346 2 9 You’ve 
+: 3350 2 9 got 
+: 3354 2 9 the 
+: 3358 2 11 fi
+: 3362 3 9 gure, 
+- 3367
+* 3374 2 9 You’ve 
+* 3378 2 6 got 
+* 3382 2 2 the 
+* 3386 2 6 fa
+* 3390 4 4 ~ce. 
+- 3396
+: 3410 2 4 Let’s 
+: 3414 2 4 get 
+: 3418 2 6 to
+: 3422 2 7 ge
+: 3426 3 9 ther, 
+- 3431
+: 3436 1 9 We’re 
+: 3438 2 9 jum
+: 3442 2 6 ping 
+: 3446 2 2 all 
+* 3450 6 7 o
+: 3458 2 2 ver, 
+- 3461
+* 3462 2 -1 All 
+* 3466 6 6 o
+* 3474 2 2 ver 
+* 3478 2 -3 the 
+* 3482 2 6 wo
+* 3486 3 4 ~rld. 
+- 3491
+R 3498 2 2 To
+R 3502 4 2 ge
+R 3508 3 2 ther! 
+- 3513
+: 3518 2 6 (Jum
+: 3522 2 6 ping 
+: 3526 4 6 all 
+: 3532 6 6 o
+: 3540 2 6 ver 
+: 3544 2 4 the 
+: 3548 3 2 world!) 
+- 3553
+: 3554 2 9 I’ve 
+: 3558 2 9 got 
+: 3562 2 9 po
+* 3566 4 9 si
+: 3572 2 9 tion, 
+- 3576
+: 3582 2 9 I’ve 
+: 3586 2 7 got 
+: 3590 2 6 the 
+: 3594 4 9 name. 
+- 3600
+: 3618 2 9 You’ve 
+: 3622 2 9 got 
+: 3626 2 9 the 
+* 3630 2 11 po
+* 3634 2 9 wer 
+- 3638
+: 3642 2 9 To 
+: 3646 2 9 drive 
+: 3650 2 6 me 
+: 3654 2 2 in
+: 3658 2 6 sa
+: 3662 3 4 ~ne. 
+- 3667
+: 3682 2 4 Let’s 
+: 3686 2 4 get 
+* 3690 2 6 to
+* 3694 2 7 ge
+* 3698 3 9 ther, 
+- 3703
+: 3708 1 9 We’re 
+: 3710 2 9 jum
+: 3714 2 6 ping 
+: 3718 2 2 all 
+* 3722 6 7 o
+: 3730 2 2 ver, 
+- 3733
+: 3734 2 -1 All 
+* 3738 6 6 o
+: 3746 2 2 ver 
+: 3750 2 -3 the 
+: 3754 2 6 wo
+: 3758 3 4 ~rld. 
+- 3763
+R 3768 2 2 E
+R 3772 1 2 very
+R 3774 2 2 bo
+R 3778 2 2 dy 
+R 3782 5 2 now! 
+- 3789
+R 3798 2 2 Here 
+R 3802 2 2 we 
+R 3806 4 2 come! 
+- 3812
+R 4070 3 2 Un
+R 4078 3 2 core, 
+R 4086 3 2 hard
+R 4094 3 2 core, 
+- 4099
+R 4102 2 2 Rock 
+R 4106 2 2 you 
+R 4110 3 2 down 
+R 4118 2 2 to 
+R 4122 2 2 the 
+R 4126 3 2 floor. 
+- 4131
+: 4142 2 6 (Jum
+: 4146 2 6 ping 
+: 4150 4 6 all 
+* 4156 6 6 o
+* 4164 2 6 ver 
+: 4168 2 4 the 
+: 4172 3 2 world!) 
+- 4177
+R 4198 3 2 Un
+R 4206 3 2 core, 
+R 4214 3 2 hard
+R 4222 3 2 core, 
+- 4227
+R 4230 2 2 Rock 
+R 4234 2 2 you 
+R 4238 3 2 down 
+R 4246 2 2 to 
+R 4250 2 2 the 
+R 4254 3 2 floor. 
+- 4259
+: 4270 2 6 (Jum
+: 4274 2 6 ping 
+: 4278 4 6 all 
+: 4284 6 6 o
+: 4292 2 6 ver 
+* 4296 2 4 the 
+* 4300 3 2 world!) 
+- 4305
+F 4346 2 2 And 
+F 4350 4 2 now 
+F 4356 2 2 all 
+F 4360 2 2 the 
+F 4364 2 2 la
+F 4368 4 2 dies 
+F 4374 2 2 to 
+F 4378 2 2 the 
+F 4382 2 2 V
+F 4386 4 2 I
+F 4392 4 2 P! 
+E

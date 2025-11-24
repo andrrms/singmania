@@ -1,0 +1,430 @@
+#ARTIST:Memphis May Fire
+#TITLE:The Sinner
+#MP3:Memphis May Fire - The Sinner.mp3
+#CREATOR:Swanton
+#YEAR:2011
+#LANGUAGE:English
+#BPM:345.55
+#GAP:14210
+#VIDEO:v=rPLLXQDNoFI,co=the-sinner-537dbdd2d615d.jpg,bg=memphis-may-fire-53ca6c1b9428f.jpg
+F 0 6 0 Dig
+F 8 7 0 ging 
+F 16 4 0 a 
+F 22 14 0 hole 
+F 38 4 0 that 
+F 43 6 0 I 
+F 51 6 0 can’t 
+F 58 4 0 get 
+F 64 6 0 out 
+F 72 9 0 of 
+- 83
+F 86 4 0 Dee
+F 91 3 0 per 
+F 96 4 0 and 
+F 102 4 0 dee
+F 107 4 0 per 
+- 112
+F 112 4 0 Be
+F 118 4 0 low 
+F 124 4 0 the 
+F 129 4 0 sur
+F 135 4 0 face 
+- 140
+F 141 4 0 To 
+F 146 4 0 find 
+F 151 4 0 that 
+F 157 4 0 there’s 
+F 162 3 0 no
+F 167 4 0 thing 
+F 172 14 0 there 
+- 188
+F 199 4 0 Where 
+F 205 3 0 do 
+F 210 4 0 I 
+F 216 7 0 go 
+F 225 10 0 from 
+F 236 15 0 here? 
+- 253
+F 263 8 0 Give 
+F 274 4 0 me 
+F 280 6 0 some
+F 288 6 0 thing 
+F 296 4 0 that 
+F 302 6 0 I 
+F 311 9 0 can 
+F 322 18 0 feel! 
+- 342
+F 354 6 0 Back 
+F 361 4 0 and 
+F 367 28 0 forth 
+F 396 6 0 here 
+F 404 5 0 we 
+F 410 6 0 go 
+F 418 6 0 a
+F 425 8 0 gain 
+- 435
+F 437 4 0 What 
+F 443 4 0 will 
+F 449 3 0 it 
+F 454 14 0 take 
+F 470 4 0 to 
+F 476 6 0 keep 
+F 483 4 0 it 
+F 490 4 0 to
+F 495 6 0 get
+F 503 26 0 her? 
+- 531
+F 562 6 0 What 
+F 570 5 0 will 
+F 578 4 0 it 
+F 583 13 0 take 
+F 598 4 0 to 
+F 604 6 0 keep 
+F 612 6 0 it 
+F 620 4 0 to
+F 626 6 0 get
+F 634 9 0 her? 
+- 645
+F 647 6 0 What 
+F 656 4 0 will 
+F 663 4 0 it 
+F 669 13 0 take? 
+- 684
+F 695 5 0 What 
+F 701 4 0 will 
+F 707 4 0 it 
+F 713 15 0 take? 
+- 730
+F 732 7 0 What 
+F 741 5 0 will 
+F 748 3 0 it 
+F 754 14 0 take 
+F 771 4 0 to 
+F 777 6 0 keep 
+F 785 6 0 it 
+F 793 3 0 to
+F 798 6 0 get
+F 806 11 0 her? 
+- 819
+F 825 4 0 I’ve 
+F 832 4 0 ne
+F 837 4 0 ver 
+F 842 7 0 felt 
+F 851 10 0 so 
+F 863 15 0 emp
+F 879 17 0 ty 
+- 898
+: 908 5 5 Keep 
+: 915 5 7 me 
+: 922 8 9 close 
+- 931
+: 932 5 4 Keep 
+: 940 5 7 me 
+* 949 23 12 close 
+- 974
+: 993 5 5 Keep 
+: 1000 6 8 my 
+: 1008 9 7 head 
+: 1019 4 9 a
+: 1025 7 8 bove 
+* 1035 20 9 Wa
+: 1056 17 8 ter 
+- 1075
+: 1078 7 8 I 
+: 1087 7 8 need 
+: 1096 4 8 to 
+: 1102 8 8 hear 
+: 1112 9 6 your 
+* 1123 18 0 Voi
+: 1143 17 4 ce 
+- 1162
+: 1164 15 8 Can’t 
+: 1184 18 8 do 
+* 1207 6 12 this 
+: 1216 6 8 on 
+: 1224 7 8 my 
+: 1233 18 8 own 
+- 1253
+F 1296 6 0 Be
+F 1304 6 0 neath 
+F 1311 4 0 the 
+F 1317 21 0 Sun 
+F 1343 7 0 I 
+F 1353 5 0 am 
+F 1360 9 0 rot
+F 1372 7 0 ting 
+- 1381
+F 1383 6 0 Just 
+F 1390 5 0 like 
+F 1397 5 0 the 
+F 1404 14 0 ones 
+F 1420 4 0 that 
+F 1426 6 0 came 
+F 1434 11 0 be
+F 1446 9 0 fore 
+F 1457 9 0 me 
+- 1467
+F 1468 18 0 I 
+F 1495 4 0 can
+F 1501 4 0 not 
+F 1507 5 0 de
+F 1513 6 0 ny 
+F 1521 4 0 my 
+F 1527 4 0 own 
+F 1533 6 0 walk 
+F 1541 5 0 has 
+F 1548 3 0 be
+F 1554 6 0 come 
+F 1562 9 0 a 
+F 1574 14 0 crawl 
+- 1590
+F 1602 4 0 I’ve 
+F 1609 4 0 ne
+F 1615 4 0 ver 
+F 1621 6 0 felt 
+F 1629 10 0 so 
+- 1641
+F 1646 5 0 I’ve 
+F 1652 4 0 ne
+F 1658 4 0 ver 
+F 1663 7 0 felt 
+F 1672 9 0 so 
+F 1683 39 0 Lost 
+- 1724
+* 2051 17 9 I 
+* 2072 27 0 know 
+- 2100
+: 2101 5 9 I 
+: 2108 6 9 could 
+: 2116 6 9 ne
+: 2124 15 8 ver 
+: 2143 8 6 run 
+: 2153 13 6 far 
+* 2168 6 4 e
+: 2176 20 8 nough 
+- 2198
+: 2207 9 9 To 
+: 2218 4 9 es
+: 2224 7 9 cape 
+: 2234 9 8 your 
+* 2245 21 8 Love 
+- 2268
+: 2292 5 9 So 
+: 2299 5 9 why 
+: 2306 5 9 do 
+: 2313 6 9 i 
+: 2321 7 8 keep 
+* 2331 18 8 run
+* 2351 18 12 ning? 
+- 2371
+F 2375 7 0 Now 
+F 2385 9 0 the 
+F 2396 6 0 Cha
+F 2404 5 0 os 
+F 2412 4 0 is 
+F 2418 9 0 all 
+F 2429 4 0 a
+F 2435 7 0 round 
+F 2444 10 0 me 
+- 2456
+F 2461 6 0 Show 
+F 2469 6 0 me 
+F 2477 3 0 the 
+F 2482 7 0 Light 
+F 2493 4 0 at 
+F 2499 4 0 the 
+F 2505 6 0 end 
+F 2513 6 0 of 
+F 2521 4 0 the 
+F 2526 6 0 Tun
+F 2535 5 0 nel 
+- 2542
+F 2551 8 0 I 
+F 2561 4 0 need 
+F 2568 7 0 you 
+F 2578 3 0 to 
+F 2582 3 0 save 
+F 2586 4 0 me 
+F 2592 6 0 from 
+F 2600 9 0 My
+F 2611 14 0 self 
+- 2627
+F 2635 6 0 Give 
+F 2642 6 0 me 
+F 2649 7 0 some
+F 2658 6 0 thing 
+F 2666 6 0 I 
+F 2674 6 0 can 
+F 2681 31 0 feel! 
+- 2714
+: 2720 5 5 Keep 
+: 2728 5 7 me 
+: 2735 9 9 close 
+- 2746
+: 2747 5 4 Keep 
+: 2755 4 7 me 
+* 2763 25 12 close 
+- 2790
+: 2807 6 5 Keep 
+: 2815 6 8 my 
+: 2823 8 7 head 
+: 2833 5 9 a
+: 2840 9 8 bove 
+* 2851 20 9 Wa
+: 2873 17 8 ter 
+- 2892
+: 2893 6 8 I 
+: 2902 5 8 need 
+: 2909 4 8 to 
+: 2915 7 8 hear 
+: 2924 9 6 your 
+* 2936 18 0 Voi
+: 2956 16 4 ce 
+- 2974
+* 2978 7 12 Can’t 
+* 2987 5 12 do 
+* 2994 5 12 this 
+* 3001 6 12 on 
+* 3009 9 9 my 
+* 3020 20 8 own 
+- 3042
+: 3066 6 12 Keep 
+: 3074 5 8 me 
+: 3081 8 7 close 
+- 3091
+: 3092 6 12 Keep 
+: 3100 6 8 me 
+: 3108 5 7 close 
+* 3115 19 4 ~ 
+* 3136 7 6 ~ 
+* 3145 6 6 ~ 
+* 3153 37 8 ~ 
+- 3192
+: 3240 6 12 Can’t 
+: 3248 6 9 do 
+: 3256 4 8 this 
+: 3262 7 7 on 
+: 3271 9 3 my 
+* 3282 23 6 own 
+* 3308 7 4 ~ 
+* 3317 6 3 ~ 
+* 3325 23 0 ~ 
+- 3350
+: 3353 7 8 No 
+: 3362 5 7 ~ 
+: 3369 23 6 ~ 
+- 3394
+: 3432 18 0 Take 
+: 3454 16 5 all 
+: 3474 17 8 my 
+* 3494 41 8 Guilt 
+- 3537
+: 3554 6 0 Take 
+: 3562 6 3 all 
+: 3571 9 8 my 
+* 3583 26 6 Pride 
+- 3611
+: 3637 6 0 I 
+: 3645 7 3 want 
+: 3654 3 5 to 
+: 3659 5 8 know 
+: 3665 5 8 you 
+: 3672 2 8 Sin
+: 3678 4 9 cere
+: 3685 30 8 ly 
+- 3717
+: 3760 17 12 I’m 
+: 3780 18 8 on 
+: 3801 19 6 my 
+* 3823 40 8 Knees 
+- 3865
+: 3883 6 0 Take 
+: 3891 5 4 all 
+: 3899 21 8 of 
+: 3923 24 6 Me 
+- 3949
+: 3965 7 0 I 
+: 3974 6 3 want 
+: 3981 3 5 to 
+: 3986 6 8 feel 
+: 3993 5 8 you 
+: 4000 3 8 here 
+: 4007 4 9 with 
+* 4014 47 8 Me 
+- 4063
+F 4231 6 0 Take 
+F 4239 5 0 all 
+F 4245 5 0 my 
+F 4251 17 0 Guilt 
+- 4270
+F 4271 6 0 Take 
+F 4279 4 0 all 
+F 4286 4 0 my 
+F 4292 18 0 Pride 
+- 4312
+F 4318 4 0 I 
+F 4324 3 0 want 
+F 4329 3 0 to 
+F 4334 5 0 feel 
+F 4340 5 0 you 
+F 4348 4 0 here 
+F 4353 19 0 with 
+F 4374 15 0 Me 
+- 4391
+: 4394 6 5 Keep 
+: 4402 6 7 me 
+: 4410 7 9 close 
+- 4419
+: 4422 5 4 Keep 
+: 4430 5 7 me 
+* 4439 21 12 close 
+- 4462
+: 4482 6 5 Keep 
+: 4489 5 8 my 
+: 4496 8 7 head 
+: 4506 5 9 a
+: 4513 8 8 bove 
+* 4523 18 9 wa
+: 4544 20 8 ter 
+- 4566
+: 4567 7 8 I 
+: 4576 6 8 need 
+: 4584 5 8 to 
+: 4591 7 8 hear 
+: 4600 9 6 your 
+* 4611 19 0 Voi
+: 4632 14 4 ce 
+- 4648
+* 4651 7 12 Can’t 
+* 4661 5 12 do 
+* 4669 5 12 this 
+* 4676 8 12 on 
+* 4686 8 9 my 
+* 4696 18 8 own 
+- 4716
+: 4740 6 12 Keep 
+: 4748 6 8 me 
+: 4755 8 7 close 
+- 4764
+: 4765 6 12 Keep 
+: 4773 6 8 me 
+: 4781 6 7 close 
+* 4790 18 4 ~ 
+* 4810 6 6 ~ 
+* 4818 6 6 ~ 
+* 4826 32 8 ~ 
+- 4860
+: 4914 5 12 Can’t 
+: 4921 6 9 do 
+: 4929 4 8 this 
+: 4935 6 7 on 
+: 4943 10 3 my 
+* 4955 26 6 own 
+* 4983 6 4 ~ 
+* 4991 6 3 ~ 
+* 4999 26 0 ~ 
+- 5026
+* 5027 7 8 No 
+* 5036 9 7 ~ 
+* 5047 22 6 ~ 
+E

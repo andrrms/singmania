@@ -1,0 +1,288 @@
+#ARTIST:Collie Buddz
+#TITLE:Mr. Wicked
+#MP3:Collie Buddz - Mr. Wicked.mp3
+#CREATOR:Juli
+#COVER:Collie Buddz - Mr. Wicked [CO].jpg
+#BACKGROUND:Collie Buddz - Mr. Wicked [BG].jpg
+#GENRE:Reggae
+#YEAR:2023
+#LANGUAGE:English
+#BPM:302.9
+#GAP:17250
+#VIDEO:v=Jt_K7kCb1Z8,co=https://www.caribbeannationalweekly.com/wp-content/uploads/2023/10/Take-It-Easy-Album-Final-1200x1200-1.jpg
+: 0 4 4 Lo
+: 5 3 4 ok 
+: 10 5 0 at 
+: 16 3 2 this 
+: 20 7 2 world 
+: 28 3 2 when 
+: 32 2 2 you 
+: 36 2 2 do 
+: 40 5 4 right 
+- 46
+: 48 3 4 Dem 
+: 53 3 4 tell 
+: 63 9 0 ya 
+: 73 7 0 say 
+: 81 3 0 you 
+: 85 5 0 wrong 
+- 110
+: 139 5 4 It’s 
+: 145 5 5 like 
+: 152 4 4 most 
+: 159 6 2 peo
+: 166 4 2 ple 
+: 172 4 2 for
+: 177 6 2 get 
+: 184 5 2 where 
+: 190 5 0 we 
+: 196 9 0 really 
+: 207 8 0 com
+: 217 9 2 ing 
+: 229 8 4 from 
+- 247
+: 257 5 0 An 
+: 263 5 1 you 
+: 269 10 4 can’t 
+: 280 3 5 go 
+: 284 9 4 back 
+: 294 4 4 in
+: 299 2 2 na 
+: 302 1 2 di 
+: 305 8 2 past 
+- 317
+: 319 3 2 Yeah 
+: 323 2 2 there’s 
+: 326 15 2 only 
+: 348 5 2 the 
+: 357 6 2 fu
+: 367 15 0 ture 
+- 391
+: 395 1 12 And 
+: 400 5 0 so 
+: 406 8 0 time 
+: 415 3 0 is 
+: 420 4 4 gon
+: 425 4 4 na 
+: 431 6 4 turn 
+: 439 4 2 on 
+: 445 6 1 you, 
+: 461 5 4 turn 
+: 468 6 4 on 
+: 476 9 0 you 
+- 485
+: 487 7 0 Gon
+: 495 5 0 na 
+: 501 6 0 turn 
+: 508 4 0 on 
+: 513 7 0 you, 
+: 522 3 -5 Mr. 
+: 527 3 -5 Wick
+: 534 5 0 ed 
+- 543
+: 545 8 0 Time 
+: 554 3 0 is 
+: 558 4 4 gon
+: 563 2 4 na 
+: 567 4 9 turn 
+: 572 5 4 on 
+: 582 4 2 you 
+: 601 4 4 turn 
+: 606 4 3 on 
+: 613 6 2 you 
+- 624
+: 626 4 0 Gon
+: 633 3 2 na 
+: 637 4 0 turn 
+: 643 3 0 on 
+: 647 11 0 you 
+- 678
+: 711 2 4 Look 
+: 714 1 0 at 
+: 718 1 4 this 
+: 726 4 2 world 
+: 731 4 2 where 
+: 737 2 2 we 
+: 742 2 2 inna 
+: 748 3 2 to
+: 752 4 4 day 
+- 756
+: 758 3 4 We 
+: 763 7 0 all 
+: 773 5 0 just 
+: 780 7 0 play 
+: 790 9 0 along 
+- 819
+: 853 5 4 Real 
+: 859 4 5 ly 
+: 864 4 4 won
+: 869 5 2 der 
+: 876 3 2 if 
+: 880 6 2 one 
+: 887 7 2 time 
+: 895 6 2 we 
+: 902 4 4 was 
+: 908 5 0 all 
+- 913
+: 915 5 0 Sing
+: 921 3 1 ing 
+: 925 4 4 the 
+: 931 4 0 same 
+: 936 6 -5 song 
+- 952
+: 962 3 -5 Yeah 
+: 966 2 -3 but 
+: 971 1 0 you 
+: 977 7 4 can’t 
+: 987 4 4 go 
+: 993 4 4 back 
+: 999 1 4 in
+: 1001 5 4 na 
+: 1008 2 4 di 
+: 1014 10 2 past 
+- 1033
+: 1037 2 7 Yeah 
+: 1040 5 2 there’s 
+: 1049 11 2 only 
+: 1063 5 2 the 
+: 1069 4 2 fu
+: 1076 8 0 ture 
+- 1094
+: 1108 5 0 And 
+: 1115 2 0 so 
+: 1120 5 4 time 
+: 1126 4 4 is 
+: 1131 6 4 gon
+: 1138 3 4 na 
+: 1142 5 4 turn 
+: 1148 3 4 on 
+: 1152 3 2 you 
+: 1173 1 3 turn 
+: 1177 2 4 on 
+: 1182 7 4 you 
+- 1196
+: 1199 3 0 Gon
+: 1204 4 0 na 
+: 1209 7 0 turn 
+: 1218 3 0 on 
+: 1223 4 0 you 
+: 1232 2 -5 Mr. 
+: 1238 4 -5 Wick
+: 1243 2 -1 e 
+: 1246 4 0 d 
+- 1252
+: 1254 10 0 Time 
+: 1268 2 4 is 
+: 1271 3 4 gon
+: 1275 3 4 na 
+: 1281 4 4 turn 
+: 1288 5 4 on 
+: 1295 6 2 you 
+: 1313 3 1 turn 
+: 1319 6 4 on 
+: 1326 5 0 you 
+- 1338
+: 1341 4 0 Gon
+: 1346 2 0 na 
+: 1349 4 0 turn 
+: 1356 5 0 on 
+: 1363 6 0 you 
+- 1379
+: 1408 5 0 And 
+: 1414 3 0 if 
+: 1418 4 0 you 
+: 1423 3 0 feel 
+: 1427 5 0 like 
+: 1436 5 -3 no
+: 1442 4 2 thing’s 
+: 1447 5 4 wrong 
+: 1455 5 2 in 
+: 1462 1 0 this 
+: 1465 8 0 world 
+- 1473
+: 1475 5 2 Well 
+: 1481 5 2 sumn’ 
+: 1488 5 4 must 
+: 1494 3 2 be 
+: 1498 4 0 wrong 
+: 1503 3 0 with 
+: 1507 4 0 you 
+- 1531
+: 1558 3 0 And 
+: 1562 3 0 if 
+: 1566 2 0 you 
+: 1569 4 0 feel 
+: 1574 1 -2 like 
+: 1577 1 -2 some
+: 1579 5 -3 thing 
+: 1585 4 2 wrong 
+: 1591 4 4 in 
+: 1596 4 2 the 
+: 1604 5 0 world 
+- 1610
+: 1612 2 0 Well 
+: 1615 4 0 what 
+: 1620 1 4 the 
+: 1625 3 4 hell 
+: 1631 3 2 you 
+: 1637 4 2 sup
+: 1642 5 0 posed 
+: 1648 1 0 to 
+: 1651 4 0 do? 
+- 1656
+F 1658 5 0 Yeah 
+: 1680 3 -3 but 
+: 1684 4 0 you 
+: 1691 8 4 can’t 
+: 1702 5 4 go 
+: 1708 6 4 back 
+: 1715 4 5 in
+: 1720 1 4 na 
+: 1722 2 4 di 
+: 1727 8 2 past 
+- 1745
+: 1753 4 2 There’s 
+: 1761 5 2 only 
+: 1775 3 2 the 
+: 1779 9 2 fu
+: 1791 5 0 ture 
+- 1806
+: 1818 6 4 And 
+: 1828 1 0 so 
+: 1830 4 0 time 
+: 1835 2 -1 is 
+: 1846 4 3 gon
+: 1851 6 4 na 
+: 1859 3 4 turn 
+: 1863 4 4 on 
+: 1868 6 2 you 
+: 1886 5 3 turn 
+: 1892 6 4 on 
+: 1899 5 0 you 
+- 1913
+: 1916 3 0 Gon
+: 1921 2 0 na 
+: 1925 5 0 turn 
+: 1932 3 0 on 
+: 1936 4 0 you 
+: 1946 2 -5 Mr. 
+: 1952 6 -5 Wick
+: 1959 4 0 ed 
+- 1969
+: 1971 8 0 Time 
+: 1981 1 0 is 
+: 1985 5 4 gon
+: 1991 5 4 na 
+: 1997 6 4 turn 
+: 2004 5 4 on 
+: 2010 4 2 you 
+: 2029 4 4 turn 
+: 2034 4 3 on 
+: 2042 5 2 you 
+- 2052
+: 2054 3 0 Gon
+: 2058 4 0 na 
+: 2064 6 0 turn 
+: 2071 2 0 on 
+: 2074 8 0 you 
+E

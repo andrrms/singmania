@@ -1,0 +1,263 @@
+#ARTIST:Warren Zevon
+#TITLE:Werewolves Of London
+#MP3:Warren Zevon - Werewolves Of London.mp3
+#CREATOR:muzzakusdb
+#YEAR:1977
+#LANGUAGE:English
+#BPM:205.8
+#GAP:20190
+#VIDEO:v=qae25976UgA,co=https://i.discogs.com/mhEW9JLpY4P9HMq8M2BmvMz5hLyO8ljVr2BPnSGdEgI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDg4/MjctMTM1NjkwMTU1/NC0xMDYyLmpwZWc.jpeg,bg=zevon-warren-515745b42bd73.jpg
+: 0 1 9 I 
+: 2 3 9 saw 
+: 6 1 9 a 
+: 8 5 7 werewolf 
+- 14
+: 14 3 7 With 
+: 18 1 4 a 
+: 20 7 7 Chinese 
+: 28 3 7 menu 
+: 32 1 7 in 
+: 34 1 4 his 
+: 36 4 2 hand 
+- 42
+: 68 3 9 Walking 
+: 72 1 9 through 
+: 74 1 9 the 
+: 76 5 9 streets 
+- 82
+: 82 3 9 Of 
+: 86 5 7 Soho 
+: 92 1 7 in 
+: 94 1 7 the 
+: 96 8 7 rain 
+- 106
+: 136 1 9 He 
+: 138 1 9 was 
+: 140 3 9 looking 
+: 144 1 9 for 
+: 146 1 9 the 
+: 148 3 7 place 
+- 152
+: 152 3 7 Called 
+: 156 3 7 Lee 
+: 160 7 7 Ho 
+: 168 6 2 Fook’s 
+- 176
+: 198 3 9 Gonna 
+: 202 1 9 get 
+: 204 1 9 a 
+: 206 3 9 big 
+: 210 3 9 dish 
+- 214
+: 214 2 7 Of 
+: 220 2 4 beef 
+: 224 5 7 chow 
+: 230 4 7 mein 
+- 236
+: 264 3 7 Ar 
+* 268 14 19 Oooooh 
+: 284 11 7 Werewolves 
+: 296 1 4 of 
+: 298 3 7 Lon 
+: 302 4 4 don 
+- 308
+: 328 3 7 Ar 
+* 332 42 19 Oooooh 
+- 376
+: 392 3 7 Ar 
+* 396 14 19 Oooooh 
+: 412 11 7 Werewolves 
+: 424 1 4 of 
+: 426 3 7 Lon 
+: 430 4 4 don 
+- 436
+: 456 3 7 Ar 
+* 460 36 19 Oooooh 
+- 498
+: 516 3 9 You 
+: 520 1 9 hear 
+: 522 1 7 him 
+: 524 5 7 howling 
+- 530
+: 530 5 4 Around 
+: 536 1 7 your 
+: 538 5 7 kitchen 
+: 544 6 4 door 
+- 552
+: 586 1 9 You 
+: 588 3 9 better 
+: 592 3 7 not 
+: 596 1 7 let 
+: 598 1 4 him 
+: 600 4 7 in 
+- 606
+: 644 3 9 Little 
+: 648 3 9 old 
+: 652 3 9 lady 
+: 656 1 9 got 
+: 658 9 7 mutilated 
+: 668 3 4 late 
+: 672 5 7 last 
+: 678 6 4 night 
+- 686
+: 704 9 9 Werewolves 
+: 714 1 9 of 
+: 716 5 7 Lon 
+: 722 5 2 don 
+: 728 8 7 again 
+- 738
+: 776 3 7 Ar 
+* 780 14 19 Oooooh 
+: 796 11 7 Werewolves 
+: 808 1 4 of 
+: 810 3 7 Lon 
+: 814 4 4 don 
+- 820
+: 842 3 7 Ar 
+* 846 36 19 Oooooh 
+- 884
+: 908 3 7 Ar 
+* 912 14 19 Oooooh 
+: 928 11 7 Werewolves 
+: 940 1 4 of 
+: 942 3 7 Lon 
+: 946 4 4 don 
+- 952
+: 972 3 7 Ar 
+* 976 36 19 Oooooh 
+- 1014
+: 1274 3 9 He’s 
+: 1278 1 9 the 
+: 1280 5 9 hairy 
+: 1286 3 9 handed 
+: 1290 6 9 gent 
+- 1298
+: 1306 3 7 Who 
+: 1310 3 7 ran 
+: 1314 5 4 amuck 
+: 1320 1 7 in 
+: 1322 6 7 Kent 
+- 1330
+: 1342 7 4 Lately 
+: 1350 3 11 he’s 
+: 1354 1 9 been 
+: 1356 11 9 overheard 
+: 1368 1 7 in 
+: 1370 8 9 Mayfair 
+- 1380
+: 1406 3 7 You 
+: 1410 3 7 better 
+: 1414 1 7 stay 
+: 1416 3 4 away 
+: 1420 3 9 from 
+: 1424 4 9 him 
+- 1430
+: 1438 1 7 He’ll 
+: 1440 3 9 rip 
+: 1444 1 7 your 
+: 1446 5 9 lungs 
+: 1452 4 7 out, 
+: 1458 4 9 Jim 
+- 1464
+: 1480 3 7 I’d 
+: 1484 3 7 like 
+: 1488 1 2 to 
+: 1490 3 7 meet 
+: 1494 1 9 his 
+: 1496 3 9 tai
+: 1500 4 7 lor 
+- 1506
+: 1544 3 7 Ar 
+* 1548 14 19 Oooooh 
+: 1564 11 7 Werewolves 
+: 1576 1 4 of 
+: 1578 3 7 Lon
+: 1582 4 4 don 
+- 1588
+: 1608 3 7 Ar 
+* 1612 50 19 Oooooh 
+- 1664
+: 1672 3 7 Ar 
+* 1676 14 19 Oooooh 
+: 1692 11 7 Werewolves 
+: 1704 1 4 of 
+: 1706 3 7 Lon
+: 1710 4 4 don 
+- 1716
+: 1738 3 7 Ar 
+* 1742 38 19 Oooooh 
+- 1782
+: 1800 1 7 Well 
+: 1802 1 4 I 
+: 1804 3 7 saw 
+: 1808 3 9 Lon 
+: 1812 5 9 Chaney 
+- 1818
+: 1818 5 9 Walking 
+: 1824 1 9 with 
+: 1826 1 7 the 
+: 1828 4 7 Queen 
+- 1834
+: 1860 3 7 Doing 
+: 1864 3 7 the 
+: 1868 9 4 Werewolves 
+: 1878 1 4 of 
+: 1880 3 7 Lon
+: 1884 4 4 don 
+- 1890
+: 1928 1 4 I 
+: 1930 3 7 saw 
+: 1934 3 4 Lon 
+: 1938 5 9 Chaney, 
+: 1944 5 9 Junior 
+- 1950
+: 1950 5 9 Walking 
+: 1956 1 9 with 
+: 1958 1 7 the 
+: 1960 6 7 Queen 
+- 1968
+: 1988 3 7 Doing 
+: 1992 3 7 the 
+: 1996 9 4 Werewolves 
+: 2006 1 4 of 
+: 2008 3 7 Lon
+: 2012 4 4 don 
+- 2018
+: 2052 1 7 I 
+: 2054 3 4 saw 
+: 2058 1 7 a 
+: 2060 7 4 werewolf 
+- 2068
+: 2068 3 9 Drinking 
+: 2072 1 9 a 
+: 2074 3 7 pina 
+: 2078 5 7 colada 
+: 2084 1 7 at 
+: 2086 5 7 Trader 
+: 2092 6 7 Vic’s 
+- 2100
+: 2122 1 7 And 
+: 2124 1 7 his 
+: 2126 5 7 hair 
+: 2132 3 7 was 
+: 2136 8 4 perfect 
+- 2146
+: 2184 3 7 Ar 
+* 2188 52 19 Oooooh 
+- 2242
+: 2250 11 7 Werewolves 
+: 2262 1 4 of 
+: 2264 3 7 Lon
+: 2268 4 4 don 
+- 2274
+: 2286 5 9 Draw 
+: 2292 6 7 blood 
+- 2300
+: 2308 3 7 Ar 
+: 2312 52 19 Oooooh ~ 
+- 2366
+: 2380 9 4 Werewolves 
+: 2390 1 4 of 
+: 2392 3 7 Lon
+: 2396 4 4 don 
+E

@@ -1,0 +1,293 @@
+#ARTIST:The Presidents of the United States of America
+#TITLE:Lump
+#MP3:The Presidents of the United States of America - Lump.mp3
+#CREATOR:livewireau
+#YEAR:1995
+#LANGUAGE:English
+#BPM:389
+#GAP:600
+#VIDEO:v=xjwkXYB4nHs,co=lump-51e173cb1339d.jpg,co-crop=16-9-968-968,bg=presidents-of-the-united-states-of-america-the-5018dd6eadcdd.jpg
+: 0 6 5 Lump 
+: 11 11 5 sat 
+: 23 4 3 a
+: 28 15 5 lone 
+: 44 4 5 in 
+: 49 2 3 a 
+: 54 5 5 bog
+: 61 8 5 gy 
+: 72 10 6 marsh 
+- 84
+* 99 4 6 To
+* 104 4 6 tal
+* 109 7 6 ly 
+* 120 3 6 mo
+* 126 2 6 tion
+* 131 2 6 less 
+* 136 1 4 ex
+* 142 3 8 ce
+* 146 4 6 ~pt 
+* 154 3 5 for 
+* 158 4 6 her 
+* 164 8 5 heart 
+- 174
+: 186 6 5 Mud 
+: 197 2 5 flo
+: 201 5 3 ~wed 
+: 207 9 5 up 
+: 219 4 5 in
+: 224 4 3 to 
+: 230 6 5 lump’s 
+: 242 2 5 pa
+: 246 5 8 ja
+: 253 9 6 mas 
+- 264
+: 268 2 1 She 
+: 273 4 6 to
+: 279 5 6 tal
+: 285 4 6 ly 
+: 290 3 4 con
+: 296 8 6 fused 
+- 305
+: 306 5 6 All 
+: 312 1 4 the 
+: 318 3 8 pas
+: 323 7 6 sing 
+: 335 3 3 pi
+: 339 5 5 ran
+: 345 3 1 has 
+- 350
+* 357 3 3 She’s 
+* 362 6 5 lump, 
+* 379 3 3 she’s 
+* 384 6 5 lump, 
+* 400 3 3 she’s 
+* 405 3 5 in 
+* 412 7 8 my 
+* 423 7 -2 head 
+- 432
+: 509 4 3 She’s 
+: 515 6 5 lump, 
+: 531 4 3 she’s 
+: 537 6 5 lump, 
+: 553 4 3 she’s 
+: 559 6 5 lump 
+- 567
+: 575 2 -4 She 
+: 580 3 5 might 
+: 587 6 8 be 
+: 597 7 -2 dead 
+- 606
+: 700 7 4 Lump 
+: 712 7 5 lin
+: 722 7 5 gered 
+: 733 7 5 last 
+: 744 8 5 in 
+: 756 8 5 line 
+: 767 2 5 for 
+: 773 14 6 brains 
+- 788
+* 789 4 6 And 
+* 796 3 4 the 
+* 800 7 6 one 
+* 812 2 5 she 
+* 817 7 6 got 
+* 828 2 4 was 
+- 832
+* 834 4 6 Sor
+* 839 3 4 ta 
+* 844 5 7 rot
+* 850 4 6 ten 
+* 856 4 5 and 
+* 861 3 6 in
+* 867 2 4 sa
+* 870 6 5 ~ne 
+- 878
+: 889 5 5 Small 
+: 897 5 5 things 
+: 904 4 5 so 
+: 911 6 5 sad 
+: 920 5 5 that 
+: 928 6 5 birds 
+: 939 6 5 could 
+: 950 12 6 land 
+- 964
+: 971 4 3 Is 
+: 977 6 6 lump 
+: 988 4 6 fast 
+: 993 2 4 a
+: 999 3 6 sleep 
+: 1004 4 4 or 
+- 1009
+: 1009 3 6 Roc
+: 1015 4 4 kin’ 
+: 1021 5 8 ou
+: 1027 4 6 ~t 
+: 1032 2 4 with 
+: 1038 2 6 the 
+: 1043 8 5 band? 
+- 1053
+* 1060 3 3 She’s 
+* 1066 5 5 lump, 
+* 1082 4 3 she’s 
+* 1088 5 5 lump, 
+* 1104 3 -4 she’s 
+* 1109 3 5 in 
+* 1116 7 8 my 
+* 1126 7 -2 head 
+- 1135
+: 1214 4 3 She’s 
+: 1220 6 5 lump, 
+: 1237 4 3 she’s 
+: 1242 5 5 lump, 
+: 1260 3 3 she’s 
+: 1264 6 5 lump 
+- 1272
+: 1281 4 -2 She 
+: 1287 4 5 might 
+: 1294 5 8 be 
+: 1304 6 -2 dead 
+- 1312
+: 1358 29 9 Lao! 
+- 1389
+* 1396 79 5 Baaa 
+* 1477 27 6 bow 
+* 1520 6 6 ba 
+* 1530 7 6 ba 
+* 1540 6 6 ba 
+* 1547 12 6 dow 
+- 1561
+* 1567 78 8 Baaa 
+* 1647 24 10 bow 
+* 1691 6 11 ba 
+* 1701 6 11 ba 
+* 1711 4 11 ba 
+* 1716 4 10 da 
+* 1722 5 11 da 
+* 1728 6 10 da 
+- 1736
+: 1739 79 8 Baaa 
+: 1819 21 10 bow 
+- 1842
+: 1861 7 11 Ba 
+: 1871 7 11 ba 
+: 1882 5 11 ba 
+: 1888 5 13 da 
+: 1894 4 11 da 
+: 1900 5 13 na 
+- 1907
+: 1909 78 13 Naaa 
+: 1991 13 10 bow 
+- 2006
+: 2092 4 5 Lump 
+: 2097 2 3 was 
+: 2103 9 5 limp 
+: 2114 2 3 and 
+: 2121 7 5 lone
+: 2131 9 5 ly 
+: 2141 2 3 and 
+: 2147 6 5 nee
+: 2154 4 5 ded 
+: 2159 2 5 a 
+: 2165 13 6 shove 
+- 2180
+: 2182 5 6 Lump 
+: 2192 6 6 slipped 
+: 2203 4 6 on 
+: 2208 2 4 a 
+: 2213 6 6 kiss 
+: 2224 7 6 and 
+: 2234 5 8 tum
+: 2241 4 6 bled 
+: 2246 4 4 in
+: 2251 4 6 to 
+: 2257 15 5 love 
+- 2273
+: 2275 4 1 She 
+: 2281 9 5 spent 
+: 2291 2 3 her 
+: 2297 10 5 twen
+: 2308 8 5 ties 
+: 2318 2 3 be
+: 2323 10 5 tween 
+: 2335 1 3 the 
+: 2340 9 6 sheets 
+- 2350
+* 2352 3 1 And 
+* 2357 6 6 life 
+* 2368 7 6 limped 
+* 2378 1 3 a
+* 2384 9 6 long 
+* 2394 2 3 at 
+* 2400 5 6 sub
+* 2411 5 8 so
+* 2417 7 6 nic 
+: 2433 8 -5 speeds 
+- 2443
+* 2449 4 3 She’s 
+* 2455 7 5 lump, 
+* 2472 3 3 she’s 
+* 2477 6 5 lump, 
+* 2493 3 -2 she’s 
+* 2499 3 5 in 
+* 2506 7 8 my 
+* 2516 6 -2 head 
+- 2524
+* 2604 5 3 She’s 
+* 2610 6 5 lump, 
+* 2627 4 3 she’s 
+* 2632 6 5 lump, 
+* 2650 3 3 she’s 
+* 2655 6 5 lump 
+- 2663
+* 2672 1 -2 She 
+* 2677 4 5 might 
+* 2684 6 8 be 
+* 2693 7 -2 dead 
+- 2702
+: 2759 10 -5 Woo! 
+- 2771
+* 2797 4 5 Is 
+* 2803 2 3 this 
+* 2809 17 5 lump 
+* 2830 6 5 out
+* 2837 3 5 ta 
+* 2841 4 3 my 
+* 2848 6 5 head? 
+* 2857 3 5 I 
+* 2863 3 8 think 
+* 2869 7 -2 so 
+- 2878
+: 2969 4 5 Is 
+: 2976 2 3 this 
+: 2981 16 5 lump 
+: 3002 5 5 out
+: 3008 3 5 ta 
+: 3013 4 3 my 
+: 3018 6 5 head? 
+: 3029 3 8 I 
+: 3034 3 8 think 
+: 3040 5 8 so
+: 3046 4 6 ~ 
+- 3052
+: 3092 9 -5 Yeah! 
+F 3120 7 -5 Woo! 
+- 3129
+: 3141 4 5 Is 
+: 3147 3 3 this 
+: 3152 16 5 lump 
+: 3173 5 5 out
+: 3180 3 5 ta 
+: 3185 4 3 my 
+: 3190 6 5 head? 
+: 3200 3 5 I 
+: 3206 3 8 think 
+: 3211 7 -2 so 
+- 3220
+: 3312 4 5 Is 
+: 3318 3 3 this 
+: 3323 18 5 lump 
+: 3344 6 5 out
+: 3351 3 5 ta 
+: 3355 4 3 my 
+: 3361 5 5 head? 
+E

@@ -1,0 +1,92 @@
+#ARTIST:Cecilia Krull
+#TITLE:My Life Is Going On (La Casa De Papel Opening)
+#MP3:Cecilia Krull - My Life Is Going On (La Casa De Papel Opening).mp3
+#CREATOR:Gollum
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:246
+#GAP:9650
+#VIDEO:v=Zx37mfDRpyk,co=my-life-is-going-on-msica-original-de-la-serie-de-tv-la-casa-689ce1fed8e88.jpg
+: 0 2 2 If 
+: 5 2 4 I 
+: 10 4 4 stay
+: 16 2 6 ~ 
+: 20 7 6 with 
+: 30 4 6 you
+: 36 1 4 ~ 
+- 39
+: 41 2 2 If 
+: 45 2 4 I’m 
+: 50 3 4 choos
+: 55 2 6 ~
+: 60 6 6 ing 
+: 70 3 6 wrong
+: 75 1 4 ~ 
+- 78
+: 80 2 4 I 
+: 83 2 2 don’t 
+* 88 1 2 care
+* 90 3 4 ~ 
+* 95 1 4 at
+* 97 1 2 ~ 
+* 99 18 -1 all 
+- 119
+: 158 2 2 If 
+: 162 2 4 I’m 
+: 167 3 4 loos
+: 172 2 6 ~
+: 177 7 6 ing 
+: 187 4 6 now
+: 193 1 4 ~ 
+- 196
+: 198 2 2 But 
+: 202 2 4 I’m 
+: 207 3 4 win
+: 212 3 6 ~
+: 217 4 6 ning 
+: 226 5 6 late
+: 233 1 4 ~ 
+- 236
+: 237 5 2 That’s 
+: 247 1 2 all
+: 249 2 4 ~ 
+: 253 2 4 I
+: 256 2 6 ~ 
+: 262 21 -1 want 
+- 285
+: 305 3 2 I 
+: 310 2 4 don’t 
+: 315 4 2 care 
+: 320 3 1 at 
+: 325 8 1 all
+: 335 43 -1 ~ 
+- 380
+: 394 3 -3 I 
+: 399 1 1 am
+: 401 1 -1 ~ 
+: 410 18 -1 lost 
+- 430
+: 462 3 2 I 
+: 467 2 4 don’t 
+: 472 4 2 care 
+: 477 4 1 at 
+: 482 6 1 all
+: 490 49 -1 ~ 
+- 541
+: 640 2 -3 Lost
+: 643 6 -1 ~ 
+: 654 2 1 my 
+: 660 7 2 time, 
+* 670 1 2 my
+* 672 3 4 ~ 
+* 679 5 1 life 
+- 686
+: 695 2 -3 Is 
+: 700 1 -1 go
+: 702 2 1 ~
+: 707 4 -1 ing
+: 713 3 -3 ~
+: 717 7 -1 ~ 
+: 728 28 -1 on 
+E

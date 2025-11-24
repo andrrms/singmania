@@ -1,0 +1,713 @@
+#ARTIST:Wiz Khalifa feat. 2 Chainz (Fast & Furious 6)
+#TITLE:We Own It
+#MP3:Wiz Khalifa feat. 2 Chainz (Fast & Furious 6) - We Own It.mp3
+#CREATOR:prgoenner
+#GENRE:Soundtrack
+#YEAR:2013
+#LANGUAGE:English
+#BPM:346.64
+#GAP:11740
+#VIDEO:v=9UALs9xEC_M,co=fast--furious-6-689a35d793c7e.jpg,bg=wiz-khalifa-4ed54226bb98a.jpg
+F 0 2 -1 Mon
+F 3 5 -1 ey’s 
+F 9 2 -1 the 
+F 12 3 -1 mo
+F 16 2 -1 to
+F 21 4 -1 va
+F 26 5 -1 tion 
+- 33
+F 34 3 -1 Mon
+F 38 2 -1 ey’s 
+F 42 2 -1 the 
+F 45 4 -1 con
+F 50 2 -1 ver
+F 53 5 -1 sa
+F 59 5 -1 tion 
+- 66
+F 67 4 -1 You 
+F 72 3 -1 on 
+F 76 5 -1 va
+F 82 5 -1 ca
+F 90 5 -1 tion 
+- 96
+F 96 4 -1 We 
+F 101 3 -1 get
+F 105 3 -1 tin’ 
+F 110 5 -1 paid 
+F 116 9 -1 so 
+- 127
+F 132 3 -1 We 
+F 136 3 -1 don’t 
+F 140 5 -1 pla
+F 146 7 -1 cate 
+F 154 6 -1 ’em 
+- 161
+F 161 3 -1 I 
+F 165 3 -1 did 
+F 169 2 -1 it 
+F 172 4 -1 for 
+F 177 2 -1 the 
+F 180 6 -1 fam’ 
+- 188
+F 196 4 -1 It’s 
+F 201 2 -1 what
+F 204 1 -1 e
+F 206 3 -1 ver 
+F 210 2 -1 we 
+F 213 3 -1 had 
+F 217 2 -1 to 
+F 220 7 -1 do 
+- 228
+F 229 2 -1 It’s 
+F 232 5 -1 just 
+F 238 3 -1 who 
+F 242 3 -1 I 
+F 246 7 -1 am 
+- 254
+F 255 18 -1 Yeah 
+- 275
+F 276 4 -1 It’s 
+F 281 2 -1 the 
+F 285 5 -1 life 
+F 292 4 -1 I 
+F 297 14 -1 chose 
+- 313
+F 318 5 -1 Gun
+F 324 9 -1 shots 
+F 334 3 -1 in 
+F 338 2 -1 the 
+F 341 6 -1 dark 
+- 348
+F 348 5 -1 One 
+F 354 5 -1 eye 
+F 361 15 -1 closed 
+- 378
+F 382 3 -1 And 
+F 386 2 -1 we 
+F 389 5 -1 got 
+F 395 2 -1 it 
+F 398 6 -1 cookin’ 
+- 405
+F 405 5 -1 Like 
+F 411 2 -1 a 
+F 414 4 -1 one-
+F 419 5 -1 eyed 
+F 426 11 -1 stove 
+- 438
+F 438 4 -1 You 
+F 443 3 -1 can 
+F 447 3 -1 catch 
+F 451 2 -1 me 
+F 454 7 -1 kissin’ 
+F 462 4 -1 my 
+F 467 6 -1 girl 
+- 474
+F 474 3 -1 With 
+F 478 6 -1 both 
+F 485 5 -1 eyes 
+F 492 11 -1 closed 
+- 505
+F 514 3 -1 Per
+F 518 4 -1 fe
+F 523 3 -1 tin’ 
+F 527 3 -1 my 
+F 531 4 -1 pas
+F 536 5 -1 sion 
+- 543
+F 544 5 -1 Thanks 
+F 550 3 -1 for 
+F 555 5 -1 as
+F 561 5 -1 kin’ 
+- 568
+F 574 7 -1 Couldn’t 
+F 582 7 -1 slow 
+F 592 7 -1 down 
+F 600 2 -1 so 
+- 603
+F 603 4 -1 We 
+F 609 7 -1 had 
+F 617 2 -1 to 
+F 621 10 -1 crash 
+F 633 4 -1 it 
+- 639
+F 650 4 -1 You 
+F 655 4 -1 use 
+F 662 4 -1 pla
+F 667 4 -1 stic 
+- 672
+F 672 5 -1 We 
+F 678 6 -1 ’bout 
+F 685 11 -1 cash 
+- 698
+F 700 3 -1 I 
+F 705 2 -1 see 
+F 708 3 -1 some 
+F 712 4 -1 peo
+F 717 3 -1 ple 
+F 721 10 -1 ahead 
+- 732
+F 732 3 -1 That 
+F 736 5 -1 we 
+F 742 6 -1 gon’ 
+F 749 10 -1 pass 
+F 761 9 -1 yeah 
+- 772
+: 780 4 -1 I 
+: 785 4 3 ne
+: 790 3 3 ver 
+: 794 4 3 fear 
+: 801 6 3 death 
+* 809 3 1 or 
+* 814 7 4 dy
+* 823 6 3 ing 
+- 831
+: 846 3 -1 I 
+: 850 3 3 on
+: 854 3 3 ly 
+: 858 7 3 fear 
+: 866 4 3 ne
+: 873 4 1 ver 
+: 879 7 4 try
+: 889 6 3 ing 
+- 897
+: 914 4 3 I 
+: 919 5 6 am 
+: 927 3 3 what
+: 931 4 3 e
+: 937 5 3 ver 
+: 944 5 4 I 
+: 951 7 3 am 
+- 960
+: 963 4 1 On
+: 970 5 1 ly 
+* 978 8 -1 God 
+* 987 3 -2 can 
+* 991 9 1 judge 
+: 1003 6 1 me 
+: 1011 6 -1 now 
+- 1019
+* 1026 12 -1 One 
+* 1042 8 -1 shot 
+- 1052
+: 1058 4 -1 E
+: 1063 3 -1 very
+: 1067 7 -1 thing 
+: 1075 7 -2 rides 
+: 1084 6 -4 on 
+: 1091 8 -1 to
+: 1107 8 -1 night 
+- 1117
+: 1123 4 -1 E
+: 1128 3 -1 ven 
+: 1132 5 -1 if 
+: 1139 7 -2 I 
+: 1148 5 -4 got 
+: 1155 12 -1 three 
+: 1171 8 -1 strikes 
+- 1181
+: 1187 4 1 I’m
+: 1192 3 1 ma 
+: 1197 4 1 go 
+: 1203 8 -2 for 
+: 1213 6 -2 it 
+- 1221
+* 1228 5 1 This 
+* 1236 7 3 mo
+* 1245 7 4 ment 
+* 1260 4 3 we 
+* 1268 7 1 own 
+* 1277 7 -1 it 
+- 1285
+: 1285 9 -1 And 
+: 1300 8 -1 I’m 
+: 1316 4 -1 not 
+: 1321 3 -1 to 
+: 1325 4 -1 be 
+: 1332 7 -2 played 
+: 1341 8 -4 with 
+- 1351
+: 1358 6 -1 Be
+: 1365 8 -1 cause 
+: 1381 4 -1 it 
+: 1386 3 -1 could 
+: 1390 4 -1 get 
+: 1397 8 -2 dan
+: 1407 4 -4 gerous 
+- 1412
+: 1413 8 -1 See 
+: 1429 8 -1 these 
+: 1445 4 1 peo
+: 1450 3 1 ple 
+: 1454 7 1 are 
+: 1462 4 -1 ride 
+: 1469 8 -4 with 
+- 1479
+* 1486 5 1 This 
+* 1494 7 3 mo
+* 1503 8 4 ment 
+* 1518 4 3 we 
+* 1526 5 1 own 
+* 1534 8 -1 it 
+- 1544
+F 1553 2 -1 And 
+F 1556 2 -1 the 
+F 1559 4 -1 same 
+F 1564 4 -1 ones 
+F 1569 2 -1 and 
+F 1572 2 -1 I 
+F 1576 5 -1 ride 
+F 1582 2 -1 with 
+- 1585
+F 1585 2 -1 Be 
+F 1588 2 -1 the 
+F 1591 5 -1 same 
+F 1597 5 -1 ones 
+F 1603 1 -1 that 
+F 1605 1 -1 I 
+F 1607 5 -1 die 
+F 1613 5 -1 with 
+- 1619
+F 1619 2 -1 Put 
+F 1622 1 -1 it 
+F 1624 5 -1 all 
+F 1630 3 -1 out 
+F 1634 2 -1 on 
+F 1637 2 -1 the 
+F 1640 5 -1 line 
+F 1646 4 -1 with 
+- 1651
+F 1651 3 -1 If 
+F 1655 1 -1 you 
+F 1657 3 -1 lookin’ 
+F 1661 2 -1 for 
+F 1664 2 -1 me 
+F 1667 1 -1 you 
+F 1669 2 -1 can 
+F 1672 5 -1 find 
+F 1678 3 -1 Wiz 
+- 1682
+F 1682 3 -1 In 
+F 1686 2 -1 the 
+F 1689 2 -1 new 
+F 1692 5 -1 car 
+F 1698 2 -1 or 
+F 1701 2 -1 the 
+F 1704 5 -1 crown 
+F 1710 5 -1 with 
+F 1716 3 -1 my 
+F 1720 4 -1 new 
+F 1725 4 -1 broad 
+- 1730
+F 1730 3 -1 That’s 
+F 1734 1 -1 a 
+F 1736 5 -1 fine 
+F 1742 5 -1 chick 
+F 1748 1 -1 and 
+F 1750 2 -1 the 
+F 1753 4 -1 Weather 
+F 1758 4 -1 Squad 
+- 1763
+F 1763 4 -1 I’m 
+F 1768 5 -1 down 
+F 1774 5 -1 with 
+F 1780 4 -1 ain’t 
+F 1785 5 -1 no 
+F 1791 5 -1 way 
+F 1797 9 -1 around 
+F 1807 5 -1 it 
+- 1814
+F 1815 5 -1 What 
+F 1821 2 -1 you 
+F 1824 7 -1 say 
+F 1832 4 -1 tell 
+F 1837 3 -1 me 
+F 1841 3 -1 what 
+F 1845 2 -1 you 
+F 1848 6 -1 say 
+- 1855
+F 1856 7 -1 Workin’ 
+F 1864 6 -1 hard 
+F 1872 6 -1 reppin 
+F 1879 5 -1 for 
+F 1885 3 -1 my 
+F 1889 7 -1 dogs 
+F 1897 4 -1 do 
+F 1902 4 -1 this 
+F 1907 5 -1 every 
+F 1913 6 -1 day 
+- 1920
+F 1920 7 -1 Takin’ 
+F 1928 8 -1 off 
+F 1937 6 -1 lookin’ 
+F 1944 5 -1 out 
+F 1950 3 -1 for 
+F 1954 6 -1 all 
+- 1961
+F 1961 6 -1 Makin’
+F 1968 5 -1 sure 
+F 1974 3 -1 we 
+F 1978 7 -1 ball 
+F 1986 3 -1 like 
+F 1990 3 -1 the 
+F 1995 5 -1 mob 
+- 2001
+F 2001 3 -1 All 
+F 2005 3 -1 you 
+F 2009 4 -1 do 
+F 2014 3 -1 is 
+F 2018 6 -1 call 
+- 2025
+F 2026 5 -1 Catch 
+F 2032 2 -1 you 
+F 2035 3 -1 if 
+F 2039 2 -1 you 
+F 2042 7 -1 fall 
+F 2050 4 -1 Young 
+F 2055 9 -1 Khalifa 
+- 2066
+: 2071 4 -1 I 
+: 2076 3 3 ne
+: 2080 3 3 ver 
+: 2085 5 3 fear 
+: 2093 6 3 death 
+: 2100 2 1 or 
+: 2106 7 4 dy
+: 2115 6 3 ing 
+- 2123
+: 2134 4 -1 I 
+: 2139 3 3 on
+: 2143 3 3 ly 
+: 2148 7 3 fear 
+: 2157 4 3 ne
+: 2164 4 1 ver 
+: 2170 7 4 try
+: 2179 6 3 ing 
+- 2187
+: 2203 5 3 I 
+: 2210 5 6 am 
+: 2217 3 3 what 
+: 2222 3 3 e
+: 2227 4 3 ver 
+: 2235 5 4 I 
+: 2244 6 3 am 
+- 2252
+: 2253 6 1 On
+: 2260 5 1 ly 
+* 2267 8 -1 God 
+* 2277 3 -2 can 
+* 2281 10 1 judge 
+: 2293 5 1 me 
+: 2299 8 -1 now 
+- 2309
+* 2316 10 -1 One 
+* 2330 10 -1 shot 
+- 2342
+: 2348 3 -1 E
+: 2352 3 -1 very
+: 2356 7 -1 thing 
+: 2365 7 -2 rides 
+: 2374 5 -4 on 
+: 2381 8 -1 to
+: 2396 9 -1 night 
+- 2407
+: 2412 4 -1 E
+: 2417 3 -1 ven 
+: 2421 5 -1 if 
+: 2428 7 -2 I 
+: 2437 5 -4 got 
+: 2444 12 -1 three 
+: 2460 9 -1 strikes 
+- 2471
+* 2477 3 1 I’m
+* 2481 3 1 ma 
+* 2486 4 1 go 
+* 2493 7 -1 for 
+* 2502 6 -2 it 
+- 2510
+* 2517 6 1 This 
+* 2525 7 3 mo
+* 2534 8 4 ment 
+* 2549 4 3 we 
+* 2557 7 1 own 
+* 2566 7 -1 it 
+- 2574
+: 2574 9 -1 And 
+: 2589 8 -1 I’m 
+: 2605 4 -1 not 
+: 2610 3 -1 to 
+: 2617 4 -1 be 
+: 2623 7 -2 played 
+: 2631 8 -4 with 
+- 2640
+: 2641 9 -1 Be
+: 2655 8 -1 cause 
+: 2671 4 -1 it 
+: 2676 3 -1 could 
+: 2681 4 -1 get 
+: 2687 8 -2 dan
+: 2697 4 -4 gerous 
+- 2702
+: 2703 8 -1 See 
+: 2719 8 -1 these 
+: 2735 4 1 peo
+: 2740 3 1 ple 
+: 2746 5 1 are 
+: 2752 4 -1 ride 
+: 2759 8 -4 with 
+- 2769
+* 2776 5 1 This 
+* 2784 7 3 mo
+* 2793 8 4 ment 
+* 2808 4 3 we 
+* 2816 5 1 own 
+* 2824 8 -1 it 
+- 2834
+F 2849 3 -1 This 
+F 2853 2 -1 the 
+F 2856 7 -1 biggest 
+F 2864 4 -1 day 
+F 2869 2 -1 of 
+F 2872 3 -1 my 
+F 2876 7 -1 life 
+- 2884
+F 2884 3 -1 We 
+F 2888 5 -1 got 
+F 2894 4 -1 big 
+F 2899 9 -1 guns 
+F 2913 4 -1 been 
+F 2918 16 -1 graduated 
+F 2936 5 -1 from 
+F 2942 9 -1 knives 
+- 2953
+F 2964 6 -1 Day 
+F 2971 2 -1 in 
+F 2974 1 -1 a 
+F 2976 9 -1 life 
+F 2986 3 -1 and 
+F 2990 3 -1 I’m 
+F 2994 7 -1 ready 
+F 3002 4 -1 to 
+F 3007 8 -1 ride 
+- 3016
+F 3017 5 -1 Got 
+F 3023 4 -1 the 
+F 3030 6 -1 spirit 
+F 3038 4 -1 I’m 
+F 3043 4 -1 feelin’ 
+F 3048 5 -1 like 
+F 3054 2 -1 a 
+F 3058 7 -1 killer 
+F 3066 3 -1 in
+F 3070 8 -1 side 
+- 3080
+F 3084 5 -1 Or 
+F 3093 12 -1 financial 
+F 3108 5 -1 out
+F 3114 5 -1 break 
+F 3120 3 -1 I’m 
+F 3124 5 -1 free 
+F 3131 2 -1 but 
+F 3134 3 -1 I 
+F 3138 3 -1 ain’t 
+F 3142 5 -1 out 
+F 3149 5 -1 yet 
+- 3156
+F 3157 6 -1 Ridin’ 
+F 3164 5 -1 with 
+F 3170 2 -1 the 
+F 3173 7 -1 plug 
+F 3181 3 -1 so 
+F 3185 3 -1 I’m 
+F 3189 6 -1 close 
+F 3196 3 -1 to 
+F 3200 2 -1 the 
+F 3204 5 -1 out
+F 3211 8 -1 let 
+- 3221
+F 3227 4 -1 At 
+F 3232 3 -1 the 
+F 3236 5 -1 red 
+F 3242 8 -1 light 
+F 3251 7 -1 rims 
+F 3259 7 -1 sittin’ 
+F 3267 4 -1 on 
+F 3273 2 -1 the 
+F 3276 8 -1 set 
+- 3286
+F 3290 4 -1 I 
+F 3295 4 -1 look 
+F 3300 5 -1 better 
+F 3306 3 -1 on 
+F 3310 5 -1 your 
+F 3316 7 -1 girl 
+F 3326 3 -1 her 
+F 3331 5 -1 out
+F 3337 8 -1 fit 
+- 3347
+F 3354 8 -1 Stuck 
+F 3363 4 -1 to 
+F 3368 4 -1 the 
+F 3373 8 -1 plan 
+- 3383
+F 3389 8 -1 Always 
+F 3398 4 -1 said 
+F 3403 2 -1 that 
+F 3406 2 -1 we 
+F 3409 2 -1 was 
+F 3412 8 -1 stand 
+F 3422 6 -1 up 
+- 3429
+F 3430 7 -1 Never 
+F 3439 6 -1 ran 
+F 3454 3 -1 we 
+F 3458 2 -1 the 
+F 3461 3 -1 fam’ 
+- 3465
+F 3465 3 -1 And 
+F 3471 11 -1 loyalty 
+F 3484 7 -1 never 
+F 3493 10 -1 change 
+F 3506 5 -1 up 
+- 3513
+F 3514 4 -1 Been 
+F 3520 3 -1 down 
+F 3525 4 -1 since 
+F 3530 4 -1 day 
+F 3535 5 -1 one 
+- 3541
+F 3541 6 -1 Look 
+F 3548 2 -1 at 
+F 3551 5 -1 where 
+F 3557 3 -1 we 
+F 3561 5 -1 came 
+F 3567 6 -1 from 
+- 3575
+F 3578 9 -1 Jumpin’ 
+F 3588 3 -1 out 
+F 3592 3 -1 on 
+F 3596 5 -1 any
+F 3602 7 -1 body 
+F 3611 3 -1 who 
+F 3615 3 -1 try 
+F 3619 2 -1 to 
+F 3622 6 -1 say 
+F 3629 6 -1 somethin’ 
+- 3637
+F 3640 3 -1 One 
+F 3644 3 -1 thing 
+F 3648 5 -1 about 
+F 3654 3 -1 it 
+F 3659 4 -1 got 
+F 3664 2 -1 a 
+F 3667 3 -1 prob
+F 3671 4 -1 lem 
+- 3676
+F 3676 3 -1 I’ve 
+F 3680 3 -1 got 
+F 3684 2 -1 the 
+F 3687 7 -1 same 
+F 3696 5 -1 one 
+- 3703
+F 3709 6 -1 Money 
+F 3716 7 -1 rolls 
+F 3724 3 -1 we 
+F 3728 8 -1 fold 
+F 3739 8 -1 plenty 
+F 3748 7 -1 clubs 
+F 3756 3 -1 we 
+F 3760 9 -1 close 
+- 3771
+F 3773 5 -1 Follow 
+F 3779 3 -1 the 
+F 3783 7 -1 same 
+F 3791 9 -1 code 
+- 3802
+F 3807 7 -1 Never 
+F 3815 5 -1 turn 
+F 3821 2 -1 our 
+F 3824 5 -1 backs 
+F 3830 3 -1 our 
+F 3834 3 -1 cars 
+- 3838
+F 3838 3 -1 Don’t 
+F 3842 3 -1 even 
+F 3847 5 -1 lose 
+F 3853 8 -1 control 
+- 3863
+* 3864 10 -1 One 
+* 3878 10 -1 shot 
+- 3890
+: 3896 3 -1 E
+: 3900 3 -1 very
+: 3904 7 -1 ting 
+: 3913 7 -2 rides 
+: 3922 5 -4 on 
+: 3929 8 -1 to
+: 3944 9 -1 night 
+- 3955
+: 3960 4 -1 E
+: 3965 3 -1 ven 
+: 3969 5 -1 if 
+: 3976 7 -2 I 
+: 3986 6 -4 got 
+* 3994 8 -1 three 
+* 4008 11 -1 strikes 
+- 4021
+: 4024 4 1 I’m
+: 4029 3 1 ma 
+: 4033 6 1 go 
+: 4043 7 -1 for 
+: 4052 6 -2 it 
+- 4060
+: 4066 6 1 This 
+: 4074 7 3 mo
+: 4083 7 4 ment 
+* 4099 4 3 we 
+* 4107 6 1 own 
+* 4115 6 -1 it 
+- 4123
+: 4125 9 -1 And 
+: 4140 8 -1 I’m 
+: 4154 4 -1 not 
+: 4159 3 -1 to 
+: 4163 4 -1 be 
+: 4170 8 -2 played 
+: 4180 7 -4 with 
+- 4189
+: 4191 9 -1 Be
+: 4205 8 -1 cause 
+: 4218 4 -1 it 
+: 4223 4 -1 could 
+: 4228 5 -1 get 
+: 4235 8 -2 dan
+: 4245 3 -4 gerous 
+- 4249
+: 4249 10 -1 See 
+: 4269 8 -1 these 
+* 4283 4 1 peo
+* 4288 3 1 ple 
+* 4292 5 1 are 
+* 4299 7 1 ride 
+* 4309 8 -4 with 
+- 4319
+* 4323 7 1 This 
+* 4332 7 3 mo
+* 4341 6 4 ment 
+: 4357 5 3 we 
+: 4366 5 1 own 
+: 4374 6 -1 it 
+- 4382
+* 4580 7 1 This 
+* 4589 7 3 mo
+* 4598 6 4 ment 
+* 4614 5 3 we 
+* 4623 5 1 own 
+* 4631 6 -1 it 
+- 4639
+* 4838 7 1 This 
+* 4847 7 3 mo
+* 4856 6 4 ment 
+* 4872 5 3 we 
+* 4881 5 1 own 
+* 4889 6 -1 it 
+E

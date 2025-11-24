@@ -1,0 +1,622 @@
+#ARTIST:Linkin Park
+#TITLE:A Place For My Head
+#MP3:Linkin Park - A Place For My Head.mp3
+#CREATOR:SweetStar,Loewy159
+#GENRE:New Metal
+#YEAR:2000
+#LANGUAGE:English
+#BPM:399
+#GAP:29390
+#VIDEO:v=8L52g0Nrjco,co=hybrid-theory-5f399e7d01485.jpg,bg=linkin-park-4de523586c57e.jpg
+R 0 2 -7 I 
+R 4 3 -7 watch 
+R 9 1 -7 how 
+R 12 1 -7 the 
+R 15 7 -7 moon 
+R 27 3 -7 sits 
+R 32 1 -7 in 
+R 35 1 -7 the 
+R 39 4 -7 sky 
+R 45 1 -7 in 
+R 48 1 -6 the 
+R 51 4 -6 dark 
+R 58 4 -5 night 
+- 68
+R 70 4 -4 Shi
+R 76 3 -6 ning 
+R 82 1 -5 with 
+R 85 1 -5 the 
+R 88 3 -5 light 
+R 93 1 -5 from 
+R 96 1 -5 the 
+R 99 4 -4 sun 
+- 105
+R 107 2 -3 The 
+R 111 4 -3 sun 
+R 117 1 -5 does
+R 120 1 -5 ~n’t 
+R 123 4 -4 give 
+R 132 4 -5 light 
+R 138 1 -4 to 
+R 141 1 -4 the 
+R 144 4 -4 moon 
+R 150 2 -3 as
+R 154 3 -3 su
+R 159 5 -5 ming 
+- 166
+R 168 2 -4 The 
+R 172 3 -4 moon’s 
+R 177 1 -5 gon
+R 180 1 -5 na 
+R 184 3 -4 owe 
+R 189 2 -4 it 
+R 193 7 -4 one 
+- 203
+R 205 1 -5 It 
+R 208 4 -5 makes 
+R 214 2 -5 me 
+R 219 2 -5 think 
+R 223 1 -6 of 
+R 226 1 -5 how 
+R 229 2 -5 you 
+R 233 3 -4 act 
+R 238 1 -4 to 
+R 241 4 -4 me, 
+R 247 1 -4 you 
+R 250 3 -4 do 
+- 259
+R 261 4 -2 Fa
+R 267 5 -3 vors 
+R 274 2 -4 then 
+R 278 3 -3 ra
+R 283 2 -4 pid
+R 287 2 -4 ly 
+- 291
+R 293 2 -3 You 
+R 297 3 -3 just 
+R 303 3 -2 turn 
+R 308 1 -3 a
+R 311 4 -3 round 
+R 317 1 -3 and 
+R 320 4 -3 start 
+R 327 3 -2 as
+R 333 2 -3 kin’ 
+R 337 3 -3 me 
+R 342 2 -3 a
+R 346 5 -3 bout 
+- 356
+R 358 3 -2 Things 
+R 363 1 -3 that 
+R 366 2 -4 you 
+R 370 4 -4 want 
+R 376 3 -3 back 
+R 381 2 -2 from 
+R 385 5 -4 me 
+- 392
+R 394 2 -4 I’m 
+R 398 4 -4 sick 
+R 404 1 -4 of 
+R 407 1 -4 the 
+R 410 4 -4 ten
+R 417 4 -3 sion, 
+R 423 4 -3 sick 
+R 429 1 -4 of 
+R 432 1 -4 the 
+R 435 4 -3 hun
+R 441 3 -4 ger, 
+R 446 2 -4 sick 
+R 450 1 -2 of 
+R 453 2 -2 you 
+R 458 1 -3 ac
+R 461 2 -2 tin’ 
+R 466 1 -2 like 
+R 469 1 -2 I 
+R 473 2 -2 owe 
+R 477 1 -3 you 
+R 480 5 -3 this 
+- 492
+R 495 1 -1 Find 
+R 498 1 -3 a
+R 501 1 -3 no
+R 504 2 -5 ther 
+R 508 4 -5 place 
+R 516 1 -5 to 
+R 519 4 -2 feed 
+R 525 2 -2 your 
+R 529 6 -2 greed 
+- 538
+R 540 2 -2 While 
+R 544 1 -3 I 
+R 547 4 -3 find 
+R 553 1 0 a 
+R 556 4 0 place 
+R 562 1 0 to 
+R 565 6 0 rest 
+- 581
+: 597 5 3 I 
+: 604 2 3 wan
+: 608 6 3 na 
+: 616 4 1 be 
+: 622 3 1 in 
+: 627 3 3 a
+: 633 10 1 no
+: 645 4 3 ther 
+: 652 2 -2 place 
+- 656
+: 658 3 -2 I 
+: 663 4 3 hate 
+: 669 4 3 when 
+: 675 3 3 you 
+: 680 12 1 say 
+: 694 3 3 you 
+: 699 9 -2 don’t 
+: 712 5 3 un
+: 720 5 3 der
+: 729 49 1 stand 
+- 786
+: 789 3 1 I 
+: 795 3 3 wan
+: 800 5 3 na 
+: 807 5 1 be 
+: 814 3 1 in 
+: 819 5 3 the 
+: 826 10 1 e
+: 838 3 3 ner
+: 844 7 -2 gy, 
+: 856 3 3 not 
+: 862 3 3 with 
+: 867 5 3 the 
+* 874 3 6 e
+* 880 3 3 ~
+* 885 4 3 ne
+* 891 3 3 my 
+- 896
+: 898 3 3 A 
+: 903 3 1 place 
+: 908 5 1 for 
+: 915 5 1 my 
+: 922 7 1 hea
+: 931 3 -1 ~
+: 936 30 -2 ~d 
+- 971
+R 973 2 -2 May
+R 977 2 -2 be 
+R 981 3 -3 some
+R 987 2 -3 day 
+R 991 1 -3 I’ll 
+R 994 2 -3 be 
+R 999 4 -3 just 
+R 1005 4 -3 like 
+R 1011 3 -2 you 
+R 1017 4 -4 and 
+- 1026
+R 1028 5 -3 Step 
+R 1035 4 -3 on 
+R 1041 1 -3 peo
+R 1044 1 -3 ple 
+R 1047 3 -3 like 
+R 1052 3 -3 you 
+R 1058 3 -1 do 
+R 1063 1 -4 and 
+- 1065
+R 1067 4 -4 Run 
+R 1073 2 -6 a
+R 1077 2 -3 way 
+R 1082 1 -5 all 
+R 1085 2 -6 the 
+R 1089 2 -6 peo
+R 1093 1 -6 ple 
+R 1096 1 -2 I 
+R 1099 4 -2 thought 
+R 1105 1 -5 I 
+R 1108 4 -5 knew 
+- 1121
+R 1124 1 -5 I 
+R 1127 1 -5 re
+R 1130 1 -4 mem
+R 1133 2 -3 ber 
+R 1137 3 -3 back 
+R 1142 3 -2 then 
+R 1148 2 -4 who 
+R 1152 2 -4 you 
+R 1156 3 -4 were 
+- 1161
+R 1163 1 0 You 
+R 1166 1 0 used 
+R 1169 1 -3 to 
+R 1172 3 -4 be 
+R 1177 4 -3 calm, 
+R 1185 1 -3 used 
+R 1188 1 -2 to 
+R 1191 3 -2 be 
+R 1196 4 -2 strong, 
+R 1202 1 -2 used 
+R 1205 1 -2 to 
+R 1208 3 -1 be 
+R 1214 2 -1 ge
+R 1218 1 -3 ne
+R 1221 2 -4 rous 
+R 1225 1 -2 but 
+R 1228 2 -2 you 
+R 1232 1 -5 shoul
+R 1235 2 -5 da 
+R 1239 5 -1 known 
+- 1250
+R 1252 2 -3 That 
+R 1256 3 -3 you’d 
+R 1262 2 0 wear 
+R 1266 2 -1 out 
+R 1270 2 0 your 
+R 1274 3 -2 wel
+R 1280 2 -3 come 
+R 1284 1 -3 and 
+R 1287 2 -2 now 
+R 1291 1 0 you 
+R 1294 5 0 see 
+- 1303
+R 1305 3 -4 How 
+R 1311 3 -3 quiet 
+R 1316 2 -5 it 
+R 1320 2 -4 is 
+R 1325 2 -3 all 
+R 1330 1 -3 a
+R 1333 5 -3 lone 
+- 1344
+R 1346 2 -4 I’m 
+R 1350 4 -3 so 
+R 1357 4 -4 sick 
+R 1363 1 -4 of 
+R 1366 1 -4 the 
+R 1369 4 -4 ten
+R 1376 4 -3 sion, 
+R 1382 4 -3 sick 
+R 1388 1 -4 of 
+R 1391 1 -4 the 
+R 1394 4 -3 hun
+R 1400 3 -4 ger, 
+R 1405 2 -4 sick 
+R 1409 1 -2 of 
+R 1412 2 -2 you 
+R 1417 1 -3 ac
+R 1420 2 -2 tin’ 
+R 1425 1 -2 like 
+R 1428 1 -2 I 
+R 1432 2 -2 owe 
+R 1436 1 -3 you 
+R 1439 5 -3 this 
+- 1450
+R 1453 1 -1 Find 
+R 1456 1 -3 a
+R 1459 1 -3 no
+R 1462 2 -5 ther 
+R 1466 4 -5 place 
+R 1474 1 -5 to 
+R 1477 4 -2 feed 
+R 1483 2 -2 your 
+R 1487 6 -2 greed 
+- 1497
+R 1499 2 -2 While 
+R 1503 1 -3 I 
+R 1506 4 -3 find 
+R 1512 1 0 a 
+R 1515 4 0 place 
+R 1521 1 0 to 
+R 1524 6 0 rest 
+- 1536
+R 1539 2 -3 I’m 
+R 1543 4 -3 so 
+R 1550 4 -4 sick 
+R 1556 1 -4 of 
+R 1559 1 -4 the 
+R 1562 4 -4 ten
+R 1569 4 -3 sion, 
+R 1575 4 -3 sick 
+R 1581 1 -4 of 
+R 1584 1 -4 the 
+R 1587 4 -3 hun
+R 1593 3 -4 ger, 
+R 1598 2 -4 sick 
+R 1602 1 -2 of 
+R 1605 2 -2 you 
+R 1609 1 -3 ac
+R 1612 2 -2 tin’ 
+R 1616 1 -2 like 
+R 1619 1 -2 I 
+R 1623 2 -2 owe 
+R 1627 1 -3 you 
+R 1630 5 -3 this 
+- 1642
+R 1645 1 -1 Find 
+R 1648 1 -3 a
+R 1651 1 -3 no
+R 1654 2 -5 ther 
+R 1658 4 -5 place 
+R 1666 1 -5 to 
+R 1669 4 -2 feed 
+R 1675 2 -2 your 
+R 1679 6 -2 greed 
+- 1688
+R 1690 2 -2 While 
+R 1694 1 -3 I 
+R 1697 4 -3 find 
+R 1703 1 0 a 
+R 1706 4 0 place 
+R 1712 1 0 to 
+R 1715 6 0 rest 
+- 1731
+: 1747 5 3 I 
+: 1754 2 3 wan
+: 1758 6 3 na 
+: 1766 4 1 be 
+: 1772 3 1 in 
+: 1777 3 3 a
+: 1783 10 1 no
+: 1795 4 3 ther 
+: 1802 2 -2 place 
+- 1807
+: 1809 3 -2 I 
+: 1814 4 3 hate 
+: 1820 4 3 when 
+: 1826 3 3 you 
+: 1831 12 1 say 
+: 1845 3 3 you 
+: 1850 9 -2 don’t 
+: 1863 5 3 un
+: 1871 5 3 der
+: 1880 49 1 stand 
+- 1936
+: 1939 3 1 I 
+: 1945 3 3 wan
+: 1951 5 3 na 
+: 1958 4 1 be 
+: 1965 3 1 in 
+: 1970 5 3 the 
+: 1977 10 1 e
+: 1989 3 3 ner
+: 1995 7 -2 gy, 
+: 2007 3 3 not 
+: 2013 3 3 with 
+: 2018 5 3 the 
+: 2025 3 6 e
+: 2031 3 3 ~
+: 2036 4 3 ne
+: 2042 3 3 my 
+- 2047
+: 2049 3 3 A 
+: 2054 3 1 place 
+: 2059 5 1 for 
+: 2066 5 1 my 
+: 2073 7 1 hea
+: 2082 3 -1 ~
+* 2087 30 -2 ~d 
+- 2125
+: 2128 14 1 You 
+: 2149 2 -1 try 
+: 2153 5 -1 to 
+: 2160 5 0 take 
+: 2167 2 0 the 
+: 2171 5 0 best 
+: 2178 2 0 of 
+: 2182 7 0 me, 
+: 2197 4 1 go 
+: 2203 3 0 a
+: 2208 9 1 way 
+- 2221
+: 2223 14 1 You 
+: 2248 2 -1 try 
+: 2252 5 -1 to 
+: 2259 5 0 take 
+: 2266 2 0 the 
+: 2270 5 0 best 
+: 2277 2 0 of 
+: 2281 7 0 me, 
+: 2293 4 1 go 
+: 2299 3 0 a
+: 2304 9 1 way 
+- 2317
+: 2319 14 1 You 
+: 2344 2 -1 try 
+: 2348 5 -1 to 
+: 2355 5 0 take 
+: 2362 2 0 the 
+: 2366 5 0 best 
+: 2373 2 0 of 
+: 2377 7 0 me, 
+: 2389 4 1 go 
+: 2395 3 0 a
+: 2400 9 1 way 
+- 2412
+: 2414 14 1 You 
+: 2439 2 -1 try 
+: 2443 5 -1 to 
+: 2450 5 0 take 
+: 2457 2 0 the 
+: 2461 5 0 best 
+: 2468 2 0 of 
+: 2472 7 0 me, 
+: 2485 4 1 go 
+: 2491 3 0 a
+: 2496 9 1 way 
+- 2508
+: 2510 13 1 You 
+: 2534 2 -1 try 
+: 2538 5 -1 to 
+: 2545 5 0 take 
+: 2552 2 0 the 
+: 2556 5 0 best 
+: 2563 2 0 of 
+: 2567 7 0 me, 
+: 2581 4 1 go 
+: 2587 3 0 a
+: 2592 9 1 way 
+- 2604
+: 2606 13 1 You 
+: 2629 3 -1 try 
+: 2634 2 -1 to 
+: 2640 5 0 take 
+: 2647 2 0 the 
+: 2652 6 0 best 
+: 2660 2 0 of 
+: 2665 7 0 me, 
+: 2677 4 1 go 
+: 2683 3 0 a
+: 2688 9 1 way 
+- 2700
+: 2702 13 1 You 
+: 2725 3 -1 try 
+: 2730 2 -1 to 
+: 2736 5 0 take 
+: 2743 2 0 the 
+: 2748 6 0 best 
+: 2756 2 0 of 
+: 2761 7 0 me, 
+: 2773 4 1 go 
+: 2779 3 0 a
+: 2784 9 1 way 
+- 2796
+: 2798 13 1 You 
+: 2821 3 -1 try 
+: 2826 2 -1 to 
+: 2832 5 0 take 
+: 2839 2 0 the 
+: 2844 6 0 best 
+: 2852 2 0 of 
+: 2857 7 0 me, 
+* 2868 5 1 go 
+* 2875 2 0 a
+* 2879 15 1 way 
+- 2896
+: 2898 5 3 I 
+: 2905 2 3 wan
+: 2909 6 3 na 
+: 2917 4 1 be 
+: 2923 3 1 in 
+: 2928 3 3 a
+: 2934 10 1 no
+: 2946 4 3 ther 
+: 2953 3 -2 place 
+- 2958
+: 2960 3 -2 I 
+: 2965 4 3 hate 
+: 2971 4 3 when 
+: 2977 3 3 you 
+: 2982 12 1 say 
+: 2996 3 3 you 
+: 3001 9 -2 don’t 
+* 3014 5 3 un
+* 3022 5 3 der
+* 3031 49 1 stand 
+- 3087
+: 3090 3 1 I 
+: 3096 3 3 wan
+: 3102 5 3 na 
+: 3109 4 1 be 
+: 3116 3 1 in 
+: 3121 5 3 the 
+: 3128 10 1 e
+: 3140 3 3 ner
+: 3146 7 -2 gy, 
+: 3158 3 3 not 
+: 3164 3 3 with 
+: 3169 5 3 the 
+: 3176 3 6 e
+: 3182 3 3 ~
+: 3187 4 3 ne
+: 3193 3 3 my 
+- 3198
+: 3200 3 3 A 
+: 3205 3 1 place 
+: 3210 5 1 for 
+: 3217 5 1 my 
+* 3224 7 1 hea
+* 3233 3 -1 ~
+* 3238 32 -2 ~d 
+- 3296
+: 3371 26 1 SHUT 
+: 3465 28 1 UP! 
+- 3519
+: 3560 81 1 WHY? 
+- 3644
+R 3646 2 -3 I 
+R 3650 2 -3 am 
+R 3655 4 -3 so 
+R 3661 4 -4 sick 
+R 3667 1 -4 of 
+R 3670 1 -4 the 
+R 3673 4 -4 ten
+R 3679 4 -3 sion, 
+R 3685 4 -3 sick 
+R 3691 1 -4 of 
+R 3694 1 -4 the 
+R 3697 3 -3 hun
+R 3702 3 -4 ger, 
+R 3707 2 -4 sick 
+R 3711 1 -2 of 
+R 3714 2 -2 you 
+R 3719 1 -3 ac
+R 3722 2 -2 tin’ 
+R 3726 1 -2 like 
+R 3729 1 -2 I 
+R 3733 2 -2 owe 
+R 3737 1 -3 you 
+R 3740 5 -3 this 
+- 3752
+R 3755 1 -1 Find 
+R 3758 1 -3 a
+R 3761 1 -3 no
+R 3764 2 -5 ther 
+R 3768 4 -5 place 
+R 3776 1 -5 to 
+R 3779 4 -2 feed 
+R 3785 2 -2 your 
+R 3789 6 -2 greed 
+- 3798
+R 3800 2 -2 While 
+R 3804 1 -3 I 
+R 3807 4 -3 find 
+R 3813 1 0 a 
+R 3816 4 0 place 
+R 3822 1 0 to 
+R 3825 6 0 rest 
+- 3836
+R 3838 4 -3 I’m 
+R 3845 4 -3 so 
+R 3851 4 -4 sick 
+R 3857 1 -4 of 
+R 3860 1 -4 the 
+R 3863 4 -4 ten
+R 3869 4 -3 sion, 
+R 3876 4 -3 sick 
+R 3882 1 -3 of 
+R 3885 1 -3 the 
+R 3888 3 -3 hun
+R 3893 3 -4 ger, 
+R 3898 2 -4 sick 
+R 3902 1 -2 of 
+R 3905 2 -2 you 
+R 3911 1 -3 ac
+R 3914 2 -2 tin’ 
+R 3918 1 -2 like 
+R 3921 1 -2 I 
+R 3925 2 -2 owe 
+R 3929 1 -3 you 
+R 3932 5 -3 this 
+- 3944
+R 3947 1 -1 Find 
+R 3950 1 -3 a
+R 3953 1 -3 no
+R 3956 2 -5 ther 
+R 3960 4 -5 place 
+R 3968 1 -5 to 
+R 3971 4 -2 feed 
+R 3977 2 -2 your 
+R 3981 6 -2 greed 
+- 3991
+R 3993 3 -2 While 
+R 3998 2 -3 I 
+R 4002 7 -3 find 
+R 4013 2 0 a 
+R 4018 7 0 place 
+G 4031 6 0 to 
+G 4044 8 0 rest 
+E

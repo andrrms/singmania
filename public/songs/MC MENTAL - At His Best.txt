@@ -1,0 +1,701 @@
+#ARTIST:MC MENTAL
+#TITLE:At His Best
+#MP3:MC MENTAL - At His Best.mp3
+#CREATOR:Hoanzl, Viktor1234678
+#COVER:MC MENTAL - At His Best [CO].jpg
+#BACKGROUND:MC MENTAL - At His Best [BG].jpg
+#GENRE:Hip-Hop
+#YEAR:2009
+#LANGUAGE:English
+#BPM:352
+#GAP:1530
+#VIDEO:v=uD3BuJk0lOQ,co=https://images.genius.com/07a6fb935f58144a2364984fab447586.400x400x1.jpg,bg=https://i.ibb.co/GdmYWMJ/MC-MENTAL-Background.jpg,preview=15.54,medley=0-697
+R 0 1 0 Bi
+R 2 1 0 di 
+R 4 1 0 bi
+R 6 1 0 di 
+R 8 3 0 bah 
+- 11
+R 12 1 0 Bi
+R 14 1 0 di 
+R 16 1 0 brin
+R 18 1 0 gin 
+R 20 2 0 that 
+R 24 2 0 pres
+R 28 2 0 sure 
+- 30
+R 32 3 0 Ra 
+R 36 1 0 bi
+R 38 1 0 di 
+R 40 3 0 ba 
+- 43
+R 44 3 0 Keep 
+R 48 1 0 cum 
+R 50 1 0 a 
+R 52 1 0 lit
+R 54 1 0 le 
+R 56 1 0 at 
+R 59 3 0 ya 
+- 62
+R 64 3 0 Poh 
+R 68 3 0 poh 
+R 72 3 0 poh 
+R 76 3 0 poh 
+- 79
+R 80 1 0 Brin
+R 82 1 0 gin’ 
+R 84 2 0 it 
+R 88 6 0 down 
+- 94
+R 96 1 0 Wi
+R 98 1 0 di 
+R 100 1 0 bi
+R 102 1 0 di 
+R 104 1 0 bi 
+R 109 1 0 bi
+R 111 1 0 di 
+R 113 2 0 bah 
+- 115
+R 116 3 0 World
+R 120 3 0 star 
+R 124 3 0 now 
+- 127
+R 128 1 0 Wi
+R 130 1 0 di 
+R 132 1 0 bi
+R 134 1 0 di 
+R 136 1 0 bi 
+R 140 1 0 wi
+R 142 1 0 di 
+R 144 1 0 bi
+R 146 1 0 di 
+R 148 1 0 bi 
+- 150
+R 152 1 0 Wi
+R 154 1 0 di 
+R 156 1 0 bi
+R 158 1 0 di 
+R 160 3 0 bi 
+R 164 3 0 bi 
+R 168 3 0 bi 
+R 172 3 0 bi 
+R 176 8 0 bass 
+- 190
+R 192 3 0 Wah 
+R 196 1 0 mi
+R 198 1 0 ni
+R 200 3 0 bah 
+- 203
+R 204 1 0 Yi
+R 206 1 0 di 
+R 208 4 0 bay 
+R 213 2 0 du 
+R 216 3 0 bi 
+- 219
+R 220 3 0 We’re 
+R 224 3 0 a
+R 228 3 0 fin 
+R 232 3 0 a
+R 236 3 0 fin 
+R 240 6 0 bass 
+R 248 10 0 now 
+- 281
+R 305 5 0 Rap 
+R 313 3 0 par
+R 317 3 0 ty 
+R 321 3 0 pus
+R 325 3 0 sy 
+- 328
+R 329 4 0 M
+R 334 4 0 c 
+R 339 3 0 men
+R 343 3 0 tal 
+R 349 3 0 ta
+R 354 3 0 kin’ 
+R 358 3 0 this 
+R 362 4 0 one 
+R 367 2 0 a
+R 370 7 0 way 
+- 400
+R 460 4 0 Wi
+R 467 5 0 cked 
+- 482
+R 511 1 0 Bi
+R 513 1 0 di 
+R 515 1 0 bi
+R 517 1 0 di 
+R 519 1 0 bi
+R 521 1 0 di 
+R 523 1 0 bi
+R 525 1 0 di 
+R 527 1 0 bi
+R 529 1 0 di 
+R 531 1 0 bi
+R 533 1 0 di 
+R 535 1 0 bi
+R 537 1 0 di 
+R 539 1 0 bi
+R 541 1 0 di 
+R 543 1 0 bi
+R 545 1 0 di 
+R 547 1 0 bi
+R 549 1 0 di 
+R 551 1 0 bi
+R 553 1 0 di 
+R 555 1 0 bi
+R 557 1 0 di 
+- 559
+R 561 3 0 Move 
+R 565 3 0 it 
+R 569 3 0 all 
+R 573 3 0 ah 
+- 576
+R 577 1 0 Wi
+R 579 1 0 di 
+R 581 1 0 bi
+R 583 1 0 di 
+R 585 1 0 bi
+R 587 1 0 di 
+R 589 1 0 bi
+R 591 1 0 di 
+R 593 1 0 bi
+R 595 1 0 di 
+R 597 1 0 bi
+R 599 1 0 di 
+R 601 3 0 beat 
+- 604
+R 605 1 0 Wi
+R 607 1 0 di 
+R 609 1 0 bi
+R 611 1 0 di 
+R 613 1 0 bi
+R 615 1 0 di 
+R 617 1 0 bi
+R 619 1 0 di 
+R 621 1 0 bi
+R 623 1 0 di 
+R 625 1 0 bi
+R 627 1 0 di 
+R 629 3 0 day
+R 633 6 0 shawn 
+- 639
+R 641 1 0 Bi
+R 643 1 0 di 
+R 645 1 0 bi
+R 647 1 0 di 
+R 649 1 0 bi
+R 651 1 0 di 
+R 653 1 0 bi
+R 655 1 0 di 
+R 657 1 0 bi
+R 659 1 0 di 
+R 661 1 0 bi
+R 663 1 0 di 
+R 665 1 0 bi
+R 667 1 0 di 
+R 669 1 0 bi
+R 671 1 0 di 
+R 673 1 0 bi
+R 675 1 0 di 
+R 677 1 0 bi
+R 679 1 0 di 
+R 681 1 0 bi
+R 683 1 0 di 
+R 685 3 0 the 
+R 689 8 0 bass 
+- 702
+R 704 4 0 Wah 
+R 709 1 0 bu 
+R 711 1 0 duh 
+R 713 2 0 wah 
+- 715
+R 717 1 0 Gi
+R 719 1 0 di 
+R 721 3 0 bay 
+R 725 3 0 di 
+R 729 3 0 bi 
+- 732
+R 733 3 0 We’re 
+R 737 3 0 a
+R 741 3 0 fin 
+R 745 3 0 a
+R 749 3 0 fin 
+R 753 3 0 a
+R 757 3 0 fin 
+R 761 3 0 bass 
+R 765 3 0 now 
+- 768
+R 769 1 0 Get 
+R 771 1 0 u
+R 773 1 0 pon 
+R 775 1 0 the, 
+R 777 1 0 look 
+R 779 1 0 u
+R 781 1 0 pon 
+R 783 1 0 the, 
+R 785 1 0 get 
+R 787 1 0 u
+R 789 1 0 pon 
+R 791 1 0 the, 
+R 793 1 0 look 
+R 795 1 0 u
+R 797 1 0 pon 
+R 799 1 0 the 
+- 800
+R 801 1 0 Get 
+R 803 1 0 u
+R 805 1 0 pon 
+R 807 1 0 the, 
+R 809 1 0 look 
+R 811 1 0 u
+R 813 1 0 pon 
+R 815 1 0 the, 
+R 817 1 0 get 
+R 819 1 0 u
+R 821 1 0 pon 
+R 823 1 0 the, 
+R 825 1 0 look 
+R 827 1 0 u
+R 829 1 0 pon 
+R 831 1 0 the 
+- 832
+R 833 1 0 Get 
+R 835 1 0 u
+R 837 1 0 pon 
+R 839 1 0 the, 
+R 841 1 0 look 
+R 843 1 0 u
+R 845 1 0 pon 
+R 847 1 0 the, 
+R 849 1 0 get 
+R 851 1 0 u
+R 853 1 0 pon 
+R 855 1 0 the, 
+R 857 1 0 look 
+R 859 1 0 u
+R 861 1 0 pon 
+R 863 1 0 the 
+- 864
+R 865 1 0 Get 
+R 867 1 0 u
+R 869 1 0 pon 
+R 871 1 0 the, 
+R 873 1 0 look 
+R 875 1 0 u
+R 877 1 0 pon 
+R 879 1 0 the 
+- 880
+R 881 1 0 Bring 
+R 883 1 0 it 
+R 885 3 0 all 
+R 889 6 0 down 
+- 895
+R 897 3 0 Give 
+R 901 3 0 give 
+R 905 3 0 give 
+R 909 3 0 give 
+R 913 3 0 give 
+R 917 3 0 give 
+R 921 3 0 give 
+R 925 3 0 give 
+- 928
+R 929 1 0 Gim
+R 931 1 0 me 
+R 933 3 0 that 
+R 937 3 0 fu
+R 941 3 0 cking 
+R 945 3 0 back 
+- 957
+R 961 1 0 Co
+R 963 1 0 min’ 
+R 965 3 0 at 
+R 969 3 0 you 
+- 972
+R 973 1 0 Wi
+R 975 1 0 di 
+R 977 1 0 bi
+R 979 1 0 di 
+R 981 1 0 bi
+R 983 1 0 di 
+R 985 3 0 big 
+- 991
+R 993 6 0 Big 
+R 1001 6 0 big 
+R 1009 3 0 bass 
+R 1013 3 0 it’s 
+R 1017 3 0 that! 
+R 1021 3 0 suck 
+R 1025 6 0 it! 
+- 1054
+R 1081 3 0 Re
+R 1086 3 0 cord 
+- 1135
+R 1201 3 0 Su
+R 1205 3 0 ~re 
+R 1209 3 0 su
+R 1213 3 0 ~re 
+- 1226
+R 1250 3 0 Whop
+R 1254 3 0 per 
+R 1258 3 0 whop
+R 1262 3 0 per 
+R 1266 3 0 win
+R 1270 3 0 dows 
+R 1274 6 0 sign 
+- 1280
+R 1281 3 0 Whop
+R 1285 3 0 per 
+- 1288
+R 1289 3 0 Wings 
+R 1293 3 0 are 
+R 1297 3 0 pop
+R 1301 3 0 pin’ 
+- 1304
+R 1305 3 0 Drop 
+R 1309 3 0 it 
+- 1312
+R 1313 3 0 Kick 
+R 1317 3 0 it 
+R 1321 3 0 up 
+R 1325 3 0 and 
+R 1329 6 0 down 
+- 1342
+R 1345 3 0 Rap
+R 1349 3 0 per 
+R 1353 3 0 m
+R 1357 3 0 c 
+R 1361 3 0 men
+R 1365 3 0 tal 
+R 1369 3 0 with 
+R 1373 3 0 the 
+- 1376
+R 1377 3 0 Wi
+R 1381 3 0 ki
+R 1385 3 0 ki
+R 1389 3 0 kid 
+- 1392
+R 1394 1 0 Bring
+R 1396 1 0 in’ 
+R 1398 3 0 this 
+R 1402 3 0 show 
+- 1405
+R 1406 1 0 And 
+R 1408 1 0 I’m 
+R 1410 1 0 bring
+R 1412 1 0 in’ 
+R 1414 3 0 the 
+R 1418 3 0 saw 
+- 1421
+R 1422 1 0 And 
+R 1424 1 0 I’m 
+R 1426 1 0 bring
+R 1428 1 0 in’ 
+R 1430 3 0 the 
+R 1434 3 0 pres
+R 1438 3 0 sure 
+- 1441
+R 1442 1 0 Bi
+R 1444 1 0 gi
+R 1446 1 0 bi
+R 1448 1 0 duh 
+R 1450 1 0 barn 
+- 1452
+R 1454 3 0 Me 
+R 1458 3 0 war
+R 1462 3 0 nin’ 
+R 1466 3 0 bi
+R 1470 3 0 ches 
+- 1473
+R 1474 1 0 Bi
+R 1476 1 0 gi
+R 1478 1 0 bi
+R 1480 1 0 duh 
+R 1482 3 0 bam 
+- 1485
+R 1486 1 0 Bi
+R 1488 1 0 gi 
+R 1490 3 0 big 
+R 1494 3 0 T 
+R 1498 3 0 let
+R 1502 3 0 ter 
+- 1505
+R 1506 3 0 Kick 
+R 1510 1 0 to 
+R 1512 1 0 the 
+R 1514 3 0 beat 
+- 1517
+R 1518 3 0 Now 
+R 1522 1 0 co
+R 1524 1 0 min’ 
+R 1526 1 0 in 
+R 1528 1 0 and 
+R 1530 3 0 at 
+R 1534 3 0 you 
+- 1547
+R 1562 8 0 Whooooo 
+- 1580
+R 1594 3 0 Uh 
+R 1598 5 0 huh 
+- 1613
+R 1625 4 0 Wi
+R 1630 4 0 cked 
+- 1644
+R 1654 2 0 De
+R 1657 5 0 vine 
+- 1671
+R 1674 4 0 Whooooo 
+- 1687
+R 1690 3 0 Uh 
+R 1694 3 0 huh 
+- 1703
+R 1706 3 0 Whoo
+R 1710 3 0 hoo 
+- 1719
+R 1722 3 0 Yeah 
+R 1726 3 0 yeah 
+- 1735
+R 1738 6 0 Whooooo 
+- 1751
+R 1754 3 0 Uh 
+R 1758 4 0 huh 
+- 1767
+R 1769 4 0 Whoo
+R 1774 3 0 hoo 
+- 1783
+R 1786 3 0 Yeah 
+R 1790 3 0 yeah 
+- 1796
+R 1798 4 0 Whooooo 
+- 1804
+R 1806 4 0 Uh 
+- 1812
+R 1814 4 0 Woo 
+- 1820
+R 1822 4 0 Yeah 
+- 1828
+R 1830 4 0 Whooooo 
+- 1836
+R 1838 4 0 Uh 
+- 1842
+R 1843 4 0 Give 
+R 1850 4 0 shake 
+R 1855 4 0 yeah 
+- 1860
+R 1862 4 0 Whooooo 
+R 1870 4 0 uh 
+R 1878 4 0 woo 
+R 1886 4 0 yeah 
+- 1892
+R 1894 4 0 Whooooo 
+- 1921
+R 1952 1 0 Bring 
+R 1954 1 0 uh 
+R 1956 3 0 woo
+R 1961 3 0 gin’ 
+R 1966 3 0 it 
+R 1971 3 0 fu
+R 1976 3 0 cking 
+R 1982 8 0 down 
+- 2000
+R 2019 5 0 Whooooo 
+- 2025
+R 2027 5 0 Whooooo 
+- 2032
+R 2033 1 0 Whooooo 
+R 2035 1 0 whooooo 
+- 2036
+R 2038 3 0 Whooooo 
+R 2042 4 0 whooooo 
+- 2069
+R 2106 3 0 Rap 
+R 2110 3 0 ma
+R 2114 6 0 chine 
+- 2130
+R 2146 3 0 Ro
+R 2150 3 0 cking 
+R 2154 3 0 in 
+R 2158 4 0 the 
+R 2163 3 0 place 
+R 2167 3 0 with 
+R 2171 2 0 you 
+R 2174 1 0 ki
+R 2176 1 0 ni
+R 2178 6 0 mine 
+- 2194
+R 2227 4 0 One 
+R 2235 6 0 time 
+- 2251
+R 2274 4 0 Ro
+R 2279 3 0 cking 
+R 2283 3 0 with 
+R 2287 3 0 that 
+R 2291 1 0 wi
+R 2293 1 0 di
+R 2295 3 0 bar
+R 2299 3 0 mine 
+- 2302
+R 2303 3 0 Now 
+- 2306
+R 2307 1 0 Look 
+R 2309 1 0 u
+R 2311 1 0 pon 
+R 2313 1 0 the, 
+R 2315 1 0 get 
+R 2317 1 0 u
+R 2319 1 0 pon 
+R 2321 1 0 the, 
+R 2323 1 0 look 
+R 2325 1 0 u
+R 2327 1 0 pon 
+R 2329 1 0 the 
+- 2330
+R 2331 1 0 Get 
+R 2333 1 0 u
+R 2335 1 0 pon 
+R 2337 1 0 the, 
+R 2339 1 0 look 
+R 2341 1 0 u
+R 2343 1 0 pon 
+R 2345 1 0 the, 
+R 2347 1 0 get 
+R 2349 1 0 u
+R 2351 1 0 pon 
+R 2353 1 0 the 
+- 2354
+R 2355 4 0 Kick 
+- 2368
+R 2371 3 0 Raw 
+R 2375 1 0 mi
+R 2377 1 0 di
+R 2379 3 0 bah 
+R 2383 1 0 bi
+R 2385 1 0 di
+R 2387 3 0 bi 
+R 2391 3 0 di 
+R 2395 3 0 beat 
+R 2399 3 0 now 
+- 2402
+R 2403 3 0 Drop 
+R 2407 1 0 to 
+R 2409 1 0 the 
+R 2411 3 0 beat 
+- 2414
+R 2415 3 0 Kick 
+R 2419 3 0 kick 
+R 2423 3 0 now 
+R 2427 3 0 beat 
+- 2430
+R 2431 3 0 Now 
+R 2435 3 0 kick 
+R 2439 3 0 now 
+R 2443 3 0 beat 
+- 2446
+R 2447 1 0 To 
+R 2449 1 0 the 
+R 2451 3 0 beat 
+R 2455 3 0 to 
+R 2459 3 0 top 
+- 2462
+R 2463 3 0 Now 
+R 2467 3 0 ro
+R 2471 3 0 cking 
+R 2475 3 0 what 
+R 2479 3 0 i 
+R 2483 5 0 want 
+- 2496
+R 2499 3 0 I 
+R 2503 3 0 turn 
+R 2507 3 0 up 
+R 2511 3 0 to 
+R 2515 3 0 kick 
+R 2519 3 0 the 
+R 2523 3 0 emp
+R 2527 3 0 ty 
+- 2530
+R 2531 3 0 Kick 
+R 2535 1 0 to 
+R 2537 1 0 the 
+R 2539 3 0 beat 
+R 2543 1 0 to 
+R 2545 1 0 the 
+R 2547 3 0 max 
+- 2550
+R 2551 3 0 Di
+R 2555 5 0 vine 
+- 2583
+R 2619 4 0 Right 
+R 2625 3 0 I 
+R 2630 3 0 emp
+R 2634 3 0 ty 
+R 2639 3 0 fu
+R 2644 3 0 cking 
+R 2651 7 0 place 
+- 2668
+R 2682 4 0 Wi
+R 2688 4 0 cked 
+- 2702
+R 2723 3 0 Back 
+R 2727 3 0 to 
+R 2731 3 0 back 
+R 2737 1 0 with 
+R 2739 1 0 the 
+R 2741 3 0 m
+R 2745 3 0 c 
+R 2753 4 0 cro
+R 2758 3 0 nic 
+- 2784
+R 2851 5 0 Watch 
+R 2858 3 0 you 
+R 2862 3 0 lit
+R 2866 3 0 tle 
+R 2870 3 0 fu
+R 2875 4 0 cking 
+R 2880 3 0 dai
+R 2884 1 0 sy 
+- 2885
+R 2886 2 0 Yer 
+R 2889 1 0 lit
+R 2891 1 0 tle 
+R 2895 3 0 pus
+R 2899 3 0 sy 
+- 2912
+R 2921 3 0 Ha
+R 2925 3 0 ha
+R 2930 3 0 ha
+R 2934 3 0 ha 
+- 2947
+R 2979 3 0 One 
+R 2986 3 0 fu
+R 2991 3 0 cking 
+R 2998 5 0 time 
+- 3013
+R 3023 4 0 Right 
+R 3029 1 0 this 
+R 3031 2 0 is 
+R 3034 1 0 the 
+R 3036 3 0 m
+R 3040 3 0 c 
+R 3046 3 0 men
+R 3050 3 0 tal 
+R 3054 3 0 fu
+R 3058 3 0 cking 
+R 3065 3 0 ses
+R 3072 3 0 sion 
+- 3098
+R 3127 4 0 Di
+R 3132 4 0 vine 
+- 3159
+R 3222 3 0 I 
+R 3226 3 0 tell 
+R 3230 2 0 yer 
+R 3233 1 0 lit
+R 3235 1 0 tle 
+R 3237 2 0 fu
+R 3240 3 0 cking 
+R 3244 3 0 kee
+R 3248 3 0 gan 
+- 3251
+R 3252 1 0 And 
+R 3254 3 0 his 
+R 3259 6 0 clan 
+E

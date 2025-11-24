@@ -1,0 +1,161 @@
+#ARTIST:Dr. Horrible’s Sing-Along Blog
+#TITLE:Bad Horse Chorus
+#MP3:Dr. Horrible’s Sing-Along Blog - Bad Horse Chorus.mp3
+#CREATOR:SKillMaster
+#GENRE:Musical
+#YEAR:2008
+#LANGUAGE:English
+#BPM:350
+#GAP:70
+#VIDEO:v=VNhhz1yYk2U,co=https://cdn-images.dzcdn.net/images/cover/e75fd5f47ac9dc52a6ef2de62ce6bab2/1900x1900-000000-80-0-0.jpg
+: 0 3 -3 Bad 
+: 5 11 2 Horse 
+- 16
+: 17 3 9 Bad 
+: 22 9 7 Horse 
+- 32
+: 34 3 -3 Bad 
+: 39 11 2 Horse 
+- 50
+: 52 3 9 Bad 
+: 58 5 11 Horse 
+- 69
+: 71 2 2 He 
+: 74 5 6 rides 
+: 81 2 6 a
+: 84 3 6 cross 
+: 89 2 4 the 
+: 92 3 2 na
+: 98 4 -3 tion 
+- 103
+: 105 2 -3 The 
+: 109 4 -1 tho
+: 114 3 2 rough
+: 118 3 2 bred 
+: 122 2 -1 of 
+: 127 7 -3 sin 
+- 138
+: 140 3 -3 He 
+: 144 3 2 got 
+: 150 2 2 the 
+: 153 4 2 ap
+: 158 3 4 pli
+: 162 3 6 ca
+: 167 2 4 tion 
+- 169
+: 170 3 2 That 
+: 175 3 4 you 
+: 180 3 6 just 
+: 188 5 8 sent 
+* 197 7 9 in 
+- 207
+: 209 3 9 It 
+* 214 6 14 needs 
+: 221 1 14 e
+: 223 4 14 va
+: 228 3 11 lu
+: 232 3 9 a
+: 237 4 6 tion 
+- 243
+: 245 3 6 So 
+: 249 4 9 let 
+: 254 3 11 the 
+: 258 3 9 games 
+: 263 3 6 be
+: 268 7 4 gin 
+- 280
+: 282 2 2 A 
+: 285 4 4 hei
+: 290 2 4 nous 
+: 294 4 4 crime 
+- 298
+: 299 2 4 A 
+: 303 3 4 show 
+: 307 2 4 of 
+: 311 4 4 force 
+- 315
+: 317 2 -3 A 
+* 320 3 -3 mur
+: 324 3 -3 der 
+: 329 3 -3 would 
+: 333 2 -3 be 
+: 336 3 -1 nice 
+: 341 3 -3 of 
+: 345 3 -3 course 
+- 348
+: 350 3 -3 Bad 
+: 355 7 2 Horse 
+- 365
+: 367 4 9 Bad 
+: 373 6 7 Horse 
+- 383
+: 385 3 -3 Bad 
+: 390 7 2 Horse 
+- 400
+: 402 3 9 He’s 
+* 407 7 11 bad 
+- 419
+: 421 2 2 The 
+: 425 4 6 e
+: 430 2 6 vil 
+: 433 4 6 league 
+: 438 3 4 of 
+: 442 4 2 e
+: 448 3 -3 vil 
+- 453
+: 455 2 -3 Is 
+: 459 4 -1 wat
+: 464 2 2 ching 
+: 468 3 2 so 
+: 473 3 -1 be
+: 477 6 -3 ware 
+- 488
+: 490 2 -3 The 
+: 494 5 2 grade 
+: 500 2 2 that 
+: 503 4 2 you 
+: 508 2 4 re
+: 512 3 6 ceive 
+- 515
+: 516 3 4 Will 
+: 520 4 2 be 
+: 525 3 4 your 
+: 529 4 6 last, 
+: 538 4 8 we 
+* 547 6 9 swear 
+- 559
+: 561 2 9 So 
+* 565 3 14 make 
+: 570 2 14 the 
+: 573 4 14 Bad 
+: 578 2 11 Horse 
+: 582 4 9 glee
+: 587 5 6 ful 
+- 593
+: 595 3 6 Or 
+: 599 4 9 he’ll 
+: 604 3 11 make 
+: 608 3 9 you 
+: 613 2 6 his 
+: 618 9 4 mare 
+- 637
+: 648 3 2 You’re 
+: 652 4 4 sad
+: 657 3 4 dled 
+: 661 3 4 up 
+- 664
+: 666 3 4 There’s 
+: 670 3 4 no 
+: 674 3 4 re
+: 678 4 4 course 
+- 682
+F 683 3 -3 It’s 
+F 687 2 -3 “Hi-
+F 690 4 -3 yo, 
+F 695 4 -3 sil
+F 700 3 -3 ver!” 
+- 703
+: 704 3 -3 Signed: 
+: 708 4 -3 Bad 
+* 714 4 2 Horse 
+E

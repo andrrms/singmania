@@ -1,0 +1,392 @@
+#ARTIST:Dr. Peacock & D-Frek
+#TITLE:Drink
+#MP3:Dr. Peacock & D-Frek - Drink.mp3
+#CREATOR:barbeque
+#GENRE:Frenchcore
+#YEAR:2022
+#LANGUAGE:English
+#BPM:390
+#GAP:80
+#VIDEO:v=QZhSFzs24Jo,co=drink-687e14f18c146.jpg
+: 0 6 3 We 
+: 8 6 5 are 
+: 16 5 2 here 
+: 23 4 -2 to 
+: 30 6 2 drink 
+: 39 5 -2 your 
+: 47 8 0 beer 
+- 57
+F 454 10 0 Drink! 
+F 472 9 0 Drink! 
+F 487 9 0 Drink! 
+F 503 11 0 Drink! 
+- 516
+F 518 11 0 Drink! 
+F 535 11 0 Drink! 
+F 551 11 0 Drink! 
+- 564
+F 639 6 7 We 
+F 648 6 5 are 
+F 656 8 7 here 
+F 666 3 5 to 
+F 671 7 7 drink 
+F 679 7 8 your 
+F 687 8 7 beer 
+- 697
+F 700 4 5 ’Cause 
+F 706 5 7 we 
+F 714 4 5 are 
+F 720 8 7 here 
+F 731 3 5 to 
+F 736 6 7 drink 
+F 744 6 8 your 
+F 751 9 7 beer 
+- 761
+F 762 5 5 ’Cause 
+F 768 7 7 we 
+F 777 6 5 are 
+F 785 7 7 here 
+F 795 3 5 to 
+F 799 7 7 drink 
+F 807 7 9 your 
+F 816 6 7 bee
+F 824 5 7 ~r 
+- 831
+F 1158 11 0 Drink! 
+F 1174 11 0 Drink! 
+F 1191 11 0 Drink! 
+- 1204
+: 1470 3 0 Pi
+: 1474 2 0 ra
+: 1478 3 0 cy’s 
+: 1483 2 0 a 
+: 1489 9 0 crime 
+: 1499 3 2 and 
+: 1503 5 3 crime 
+: 1511 2 0 does
+: 1514 3 0 n’t 
+: 1520 5 0 pay 
+- 1526
+: 1527 3 0 And 
+: 1532 2 0 we 
+: 1536 5 -2 go 
+: 1543 6 -2 home 
+: 1551 7 -2 poor 
+: 1560 3 -2 at 
+: 1564 2 -2 the 
+: 1567 7 -2 end 
+: 1575 2 -5 of 
+: 1578 3 -5 the 
+: 1583 8 -5 day 
+- 1593
+: 1595 3 -5 But 
+: 1600 6 0 I’d 
+: 1608 2 0 ra
+: 1611 2 0 ther 
+: 1615 4 0 live 
+: 1623 5 2 my 
+: 1631 5 3 life 
+: 1639 4 3 in 
+: 1647 6 3 rags 
+- 1654
+* 1654 4 1 Than 
+* 1659 2 0 be 
+* 1663 7 3 taped 
+* 1671 3 3 to 
+* 1676 2 3 a 
+* 1680 4 3 desk 
+* 1686 4 2 with 
+* 1692 2 0 a 
+* 1696 4 2 wife 
+* 1703 4 -2 as 
+* 1708 2 -2 a 
+* 1713 6 -2 hag 
+- 1721
+: 1723 3 -2 We 
+: 1728 6 0 live 
+: 1736 4 0 each 
+: 1743 6 0 day 
+: 1751 3 0 like 
+: 1755 3 2 there’s 
+: 1759 3 0 no
+: 1763 5 0 thing 
+: 1770 3 0 to 
+: 1775 5 0 lose 
+- 1782
+: 1783 3 0 But 
+: 1787 3 0 a 
+: 1791 6 -2 man 
+: 1800 4 -2 has 
+: 1806 8 -2 needs 
+: 1816 3 -2 and 
+: 1820 3 -2 that 
+: 1824 7 -2 need 
+: 1833 3 -5 is 
+: 1840 7 -5 booze 
+- 1848
+: 1849 3 -5 They 
+: 1854 7 0 say 
+: 1863 3 0 all 
+: 1867 3 0 the 
+: 1871 4 0 best 
+: 1877 5 0 things 
+: 1884 2 2 in 
+: 1887 7 3 life 
+: 1895 5 3 are 
+: 1903 4 3 free 
+- 1909
+: 1910 4 5 So 
+: 1918 8 7 give 
+: 1928 2 5 all 
+: 1931 3 3 your 
+: 1936 6 5 beer 
+: 1943 2 3 and 
+: 1946 3 2 your 
+: 1951 6 3 rum 
+: 1959 6 2 to 
+: 1967 8 0 me! 
+- 1977
+: 1984 6 7 We 
+: 1992 6 5 are 
+: 2000 6 7 here 
+: 2010 4 5 to 
+: 2015 7 7 drink 
+: 2024 5 8 your 
+: 2031 8 7 beer 
+- 2041
+: 2042 3 5 And 
+: 2047 6 3 steal 
+: 2055 6 5 your 
+: 2063 7 7 rum 
+: 2072 2 5 at 
+: 2075 2 3 a 
+: 2079 7 5 point 
+: 2088 3 2 of 
+: 2092 2 2 a 
+: 2096 7 2 gun 
+- 2105
+: 2107 3 5 Your 
+: 2113 4 7 al
+: 2119 5 5 co
+: 2127 8 7 hol 
+: 2138 4 5 to 
+: 2144 4 7 us 
+: 2152 4 8 will 
+: 2158 8 7 fall 
+- 2168
+: 2171 3 5 ’Cause 
+: 2177 4 3 we 
+: 2184 6 5 are 
+: 2192 5 2 here 
+: 2199 5 -2 to 
+: 2207 6 2 drink 
+: 2216 5 -2 your 
+: 2223 9 0 beer 
+- 2234
+: 2239 7 7 We 
+: 2248 7 5 are 
+: 2256 7 7 here 
+: 2266 4 5 to 
+: 2271 6 7 drink 
+: 2279 6 8 your 
+: 2287 7 7 beer 
+- 2296
+: 2297 3 5 And 
+: 2302 7 3 steal 
+: 2310 7 5 your 
+: 2319 7 7 rum 
+: 2327 3 5 at 
+: 2331 2 3 a 
+: 2334 8 5 point 
+: 2344 3 2 of 
+: 2348 2 2 a 
+: 2351 7 2 gun 
+- 2360
+: 2364 3 5 Your 
+: 2369 5 7 al
+: 2376 5 5 co
+: 2383 8 7 hol 
+: 2394 4 5 to 
+: 2400 4 7 us 
+: 2408 4 8 will 
+: 2415 8 7 fall 
+- 2425
+: 2426 4 5 ’Cause 
+: 2432 6 3 we 
+: 2440 5 5 are 
+: 2448 6 2 here 
+: 2456 4 -2 to 
+: 2464 6 2 drink 
+: 2472 4 -2 your 
+: 2478 11 0 beer 
+- 2491
+F 2662 10 0 Drink! 
+F 2693 10 0 Drink! 
+F 2709 11 0 Drink! 
+F 2726 11 0 Drink! 
+- 2739
+F 2758 11 0 Drink! 
+F 2775 9 0 Drink! 
+F 2790 10 0 Drink! 
+- 2802
+F 2806 10 0 Drink! 
+F 2822 10 0 Drink! 
+F 2839 10 0 Drink! 
+F 2855 10 0 Drink! 
+- 2867
+F 2870 10 0 Drink! 
+F 2885 10 0 Drink! 
+F 2903 10 0 Drink! 
+- 2915
+* 3008 6 8 We 
+: 3016 6 5 are 
+: 3024 9 7 here 
+: 3035 2 5 to 
+: 3039 7 7 drink 
+: 3048 5 8 your 
+: 3055 9 7 beer 
+- 3065
+: 3066 3 5 And 
+: 3071 6 3 steal 
+: 3079 7 5 your 
+: 3087 8 7 rum 
+: 3096 3 5 at 
+: 3100 2 3 a 
+: 3104 7 5 point 
+: 3112 3 2 of 
+: 3116 2 2 a 
+: 3120 7 2 gun 
+- 3129
+: 3132 2 5 Your 
+: 3136 5 7 al
+: 3143 5 5 co
+: 3150 12 7 hol 
+: 3164 2 5 to 
+: 3168 4 7 us 
+: 3175 5 8 will 
+: 3183 9 7 fall 
+- 3194
+* 3195 3 3 ’Cause 
+: 3200 6 3 we 
+: 3208 5 5 are 
+: 3215 6 2 here 
+: 3223 6 -2 to 
+: 3230 7 2 drink 
+: 3239 6 -2 your 
+: 3247 9 0 beer 
+- 3258
+: 3264 6 7 We 
+: 3272 6 5 are 
+: 3280 7 7 here 
+: 3290 3 5 to 
+: 3295 7 7 drink 
+: 3304 5 8 your 
+: 3311 7 7 beer 
+- 3320
+: 3321 3 5 And 
+: 3326 7 3 steal 
+: 3335 6 5 your 
+: 3343 6 7 rum 
+: 3351 3 5 at 
+: 3355 2 3 a 
+: 3359 6 5 point 
+: 3367 3 2 of 
+: 3372 2 2 a 
+: 3376 7 2 gun 
+- 3385
+: 3387 3 5 Your 
+: 3392 5 7 al
+: 3399 5 5 co
+: 3406 8 7 hol 
+: 3418 4 5 to 
+: 3424 4 7 us 
+: 3431 4 8 will 
+: 3438 8 7 fall 
+- 3448
+: 3450 3 5 ’Cause 
+: 3455 6 3 we 
+: 3463 6 5 are 
+: 3471 6 2 here 
+: 3480 3 -2 to 
+: 3486 7 2 drink 
+: 3495 6 -2 your 
+: 3503 8 0 beer 
+- 3513
+: 3518 7 7 We 
+: 3527 6 5 are 
+: 3535 7 7 here 
+: 3547 3 5 to 
+: 3552 5 7 drink 
+: 3559 6 8 your 
+: 3567 6 7 beer 
+- 3575
+: 3578 3 5 And 
+: 3583 5 3 steal 
+: 3591 6 5 your 
+: 3599 7 7 rum 
+: 3608 2 5 at 
+: 3611 2 3 a 
+: 3615 7 5 point 
+: 3624 3 2 of 
+: 3628 2 2 a 
+: 3631 8 2 gun 
+- 3641
+: 3643 3 5 Your 
+: 3648 5 7 al
+: 3655 5 5 co
+: 3662 8 7 hol 
+: 3675 3 5 to 
+: 3681 3 7 us 
+: 3688 4 8 will 
+: 3695 8 7 fall 
+- 3705
+* 3708 3 3 ’Cause 
+: 3713 5 3 we 
+: 3720 7 5 are 
+: 3729 5 2 here 
+: 3736 5 -2 to 
+: 3743 7 2 drink 
+: 3752 5 -2 your 
+: 3760 9 0 beer 
+- 3771
+F 3782 10 0 Drink! 
+F 3798 10 0 Drink! 
+F 3815 10 0 Drink! 
+F 3830 10 0 Drink! 
+- 3842
+F 3846 10 0 Drink! 
+F 3863 10 0 Drink! 
+F 3879 10 0 Drink! 
+F 3894 10 0 Drink! 
+- 3906
+F 3911 10 0 Drink! 
+F 3926 10 0 Drink! 
+F 3942 10 0 Drink! 
+F 3958 10 0 Drink! 
+- 3970
+F 3973 10 0 Drink! 
+F 3990 10 0 Drink! 
+F 4006 10 0 Drink! 
+- 4018
+F 4359 9 0 Drink! 
+F 4375 9 0 Drink! 
+F 4391 9 0 Drink! 
+F 4406 8 0 Drink! 
+- 4415
+F 4415 7 3 We 
+F 4424 6 5 are, 
+F 4432 6 3 we 
+F 4440 6 5 are, 
+F 4448 7 3 we 
+F 4456 6 5 are, 
+F 4463 6 3 we 
+F 4471 6 5 are 
+- 4479
+: 4480 6 3 We 
+: 4488 5 5 are 
+: 4495 6 2 here 
+: 4503 5 -2 to 
+: 4510 6 2 drink 
+: 4519 6 -2 your 
+: 4527 10 0 beer 
+E

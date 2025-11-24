@@ -1,0 +1,315 @@
+#ARTIST:Disney’s Toy Story 4 (Randy Newman)
+#TITLE:I Can’t Let You Throw Yourself Away
+#MP3:Disney’s Toy Story 4 (Randy Newman) - I Can’t Let You Throw Yourself Away.mp3
+#CREATOR:MasterChristian
+#COVER:Disney’s Toy Story 4 (Randy Newman) - I Can’t Let You Throw Yourself Away [CO].jpg
+#BACKGROUND:Disney’s Toy Story 4 (Randy Newman) - I Can’t Let You Throw Yourself Away [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2019
+#LANGUAGE:English
+#BPM:213.54
+#GAP:6370
+#VIDEO:a=RQsV0HgCsYE,v=fgKpDyM_1y0,co=toy-story-4-original-motion-picture-soundtrack-60954b626d648.jpg
+: 0 2 5 I 
+: 3 4 5 can’t 
+: 8 2 5 let 
+: 11 1 5 you 
+- 22
+: 32 1 5 I 
+: 34 4 5 can’t 
+: 39 3 5 let 
+: 43 1 5 you 
+- 54
+: 64 1 5 I 
+: 66 5 5 can’t 
+: 72 2 5 let 
+: 75 1 5 you 
+: 79 3 8 throw 
+: 83 4 7 your
+: 88 3 7 self 
+: 92 1 5 a
+: 94 3 5 way 
+- 111
+: 128 2 5 I 
+: 131 4 5 can’t 
+: 136 2 5 let 
+: 139 1 5 you 
+- 142
+: 144 2 5 I 
+: 147 4 5 can’t 
+: 152 2 5 let 
+: 155 1 5 you 
+- 159
+: 161 1 5 I 
+: 163 4 5 can’t 
+: 168 3 5 let 
+: 172 2 5 you 
+- 174
+: 176 2 5 I 
+: 179 4 5 can’t 
+: 184 2 5 let 
+: 187 2 5 you 
+- 190
+: 192 2 5 I 
+: 195 4 5 can’t 
+: 200 2 5 let 
+: 203 1 5 you 
+: 208 2 8 throw 
+: 211 5 7 your
+: 217 3 7 self 
+: 221 1 5 a
+: 223 3 5 way 
+- 240
+: 256 2 9 Don’t 
+: 259 2 12 you 
+: 262 3 9 wan’ 
+: 266 2 12 see 
+: 269 3 9 the 
+: 273 4 12 sun 
+: 278 1 12 come 
+: 280 2 12 up 
+: 283 3 12 each 
+: 287 5 12 mor
+: 293 2 12 ning 
+- 305
+: 323 2 9 Don’t 
+: 326 1 12 you 
+: 328 3 12 wan’ 
+: 332 2 14 see 
+: 335 2 12 the 
+: 338 4 12 sun 
+: 343 2 9 go 
+: 346 6 9 down 
+: 353 2 9 each 
+: 356 6 9 day? 
+- 376
+: 393 2 7 Don’t 
+: 396 1 7 you 
+: 398 3 7 wan’ 
+: 402 1 7 see 
+: 404 2 7 that 
+: 407 1 7 lit
+: 409 1 7 tle 
+: 411 4 7 girl 
+: 416 4 9 who 
+: 421 5 7 loves 
+: 427 2 5 you 
+: 430 3 2 so? 
+- 443
+: 450 2 9 Her 
+: 453 5 9 heart 
+: 459 3 7 would 
+: 463 4 7 break 
+: 486 1 14 if 
+: 488 3 14 you 
+: 492 3 12 should 
+: 496 5 12 go 
+- 511
+: 520 2 5 I 
+: 523 4 5 can’t 
+: 528 2 5 let 
+: 531 1 5 you 
+- 542
+: 552 2 5 I 
+: 555 4 5 can’t 
+: 560 3 5 let 
+: 564 1 5 you 
+- 575
+: 584 2 5 I 
+: 587 4 5 can’t 
+: 592 3 5 let 
+: 596 1 5 you 
+: 600 3 8 throw 
+: 604 4 7 your
+: 609 3 7 self 
+: 613 1 5 a
+: 615 3 5 way 
+- 632
+: 649 1 5 I 
+: 651 5 5 can’t 
+: 657 2 5 let 
+: 660 1 5 you 
+- 663
+: 665 2 5 I 
+: 668 4 5 can’t 
+: 673 2 5 let 
+: 676 1 5 you 
+- 678
+: 680 2 5 I 
+: 683 5 5 can’t 
+: 689 3 5 let 
+: 693 1 5 you 
+- 694
+: 696 2 5 I 
+: 699 4 5 can’t 
+: 704 2 5 let 
+: 707 1 5 you 
+- 710
+: 712 2 5 I 
+: 715 4 5 can’t 
+: 720 2 5 let 
+: 723 2 5 you 
+* 729 1 8 throw 
+: 731 4 7 your
+* 736 4 7 self 
+: 741 1 5 a
+* 743 3 5 way 
+- 756
+: 771 2 9 Son, 
+: 774 2 12 it 
+: 777 4 12 seems 
+: 782 1 9 to 
+: 784 2 12 me 
+: 787 3 9 like 
+: 791 1 12 you’re 
+: 793 2 12 ne
+: 796 1 12 ver 
+: 798 3 12 gon’ 
+: 802 2 12 be
+: 805 2 12 have 
+: 808 3 12 your
+: 812 4 12 self 
+- 826
+: 838 4 9 Since 
+: 843 2 12 I’m 
+: 846 3 12 not 
+: 850 5 14 gon’ 
+: 856 2 12 do 
+: 859 5 12 this 
+: 865 3 9 ev
+: 869 2 9 ’ry 
+: 872 3 9 day 
+- 889
+: 914 3 7 Come 
+: 918 1 7 to
+: 920 3 7 mor
+: 924 1 7 row, 
+: 930 2 7 gon’ 
+: 933 2 7 have 
+: 936 2 9 to 
+: 939 4 7 save 
+: 944 3 5 your
+: 948 3 2 self 
+- 961
+: 969 3 9 Got 
+: 973 1 9 no
+: 975 2 7 thing 
+: 978 2 7 more 
+: 981 2 7 to 
+: 984 3 7 say, 
+* 1000 1 14 you’re 
+* 1002 3 14 not 
+* 1006 2 14 lis
+* 1009 1 14 ten
+* 1011 3 12 ning 
+* 1015 1 12 a
+* 1017 1 12 ny
+* 1019 3 12 way 
+- 1032
+: 1039 2 5 I 
+: 1042 4 5 can’t 
+: 1047 2 5 let 
+: 1050 1 5 you 
+- 1053
+: 1055 2 5 I 
+: 1058 4 5 can’t 
+: 1063 2 5 let 
+: 1066 1 5 you 
+- 1069
+: 1071 1 5 I 
+: 1073 5 5 can’t 
+: 1079 3 5 let 
+: 1083 1 5 you 
+- 1085
+: 1087 2 5 I 
+: 1090 4 5 can’t 
+: 1095 2 5 let 
+: 1098 1 5 you 
+- 1101
+: 1103 2 5 I 
+: 1106 4 5 can’t 
+: 1111 2 5 let 
+: 1114 1 5 you 
+: 1119 2 8 throw 
+: 1122 4 7 your
+: 1127 3 7 self 
+: 1131 1 5 a
+: 1133 2 5 way 
+- 1149
+* 1166 2 5 I 
+* 1169 8 5 can’t 
+* 1178 3 5 let’ 
+- 1181
+: 1182 3 5 I 
+: 1186 4 5 can’t 
+: 1191 2 5 let 
+: 1194 1 5 you 
+- 1196
+: 1198 2 5 I 
+: 1201 5 5 can’t 
+: 1207 2 5 let 
+: 1210 2 5 you 
+- 1212
+: 1214 2 5 I 
+: 1217 4 5 can’t 
+: 1222 2 5 let 
+: 1225 2 5 you 
+- 1228
+: 1230 2 5 I 
+: 1233 4 5 can’t 
+: 1238 2 5 let 
+: 1241 2 5 you 
+: 1246 2 8 throw 
+: 1249 4 7 your
+: 1254 3 7 self 
+: 1258 1 5 a
+: 1260 3 5 way 
+- 1277
+: 1293 2 5 I 
+: 1296 5 5 can’t 
+: 1302 3 5 let’ 
+- 1315
+: 1324 2 5 I 
+: 1327 4 5 can’t 
+: 1332 3 5 let 
+: 1336 2 5 you 
+- 1348
+: 1356 1 5 I 
+: 1358 5 5 can’t 
+: 1364 3 5 let 
+: 1368 2 5 you 
+: 1372 2 8 throw 
+: 1375 4 7 your
+: 1380 4 7 self 
+: 1385 1 5 a
+: 1387 2 5 way 
+- 1403
+: 1420 2 5 I 
+: 1423 6 5 can’t 
+: 1430 3 5 let’ 
+- 1434
+: 1436 3 5 I 
+: 1440 3 5 can’t 
+: 1444 2 5 let 
+: 1447 1 5 you 
+- 1450
+: 1452 1 5 I 
+: 1454 5 5 can’t 
+: 1460 3 5 let 
+: 1464 2 5 you 
+- 1466
+: 1468 2 5 I 
+: 1471 4 5 can’t 
+: 1476 2 5 let 
+: 1479 2 5 you 
+- 1482
+: 1484 2 5 I 
+: 1487 5 5 can’t 
+: 1493 2 5 let 
+: 1496 1 5 you 
+: 1503 2 8 throw 
+: 1506 6 7 your
+: 1513 5 7 self 
+: 1519 1 5 a
+: 1521 3 5 way 
+E

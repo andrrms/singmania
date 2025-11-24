@@ -1,0 +1,412 @@
+#ARTIST:Royalston feat. Victoria
+#TITLE:Black Cloud
+#MP3:Royalston feat. Victoria - Black Cloud.mp3
+#CREATOR:flavioriedmueller
+#YEAR:2014
+#LANGUAGE:English
+#BPM:254.53
+#GAP:45140
+#VIDEO:a=YvXtvxsQpTI,co=ocd-54f59aa1c087e.jpg,bg=royalston-54f59e66162ea.jpg
+: 0 4 10 Black 
+: 5 3 10 cloud
+: 9 1 9 y
+: 11 4 10 hangs 
+: 16 5 10 ov
+: 22 3 5 er 
+: 26 8 5 me- 
+- 36
+: 47 4 5 Black 
+: 52 4 5 cloud 
+: 57 2 4 you’re 
+: 60 3 5 no 
+: 64 5 5 friend 
+: 70 3 1 of 
+: 74 4 1 me- 
+- 80
+: 94 5 5 Black 
+: 100 5 5 cloud 
+: 106 4 3 you’re 
+: 111 4 5 in 
+: 116 4 3 my 
+: 121 5 5 dreams- 
+- 128
+: 141 6 5 Black 
+: 148 3 5 cloud 
+: 152 2 3 you’re 
+: 155 3 5 no 
+: 159 5 1 friend 
+: 166 3 -2 of 
+: 170 7 -2 me- 
+- 179
+: 187 6 10 Black 
+: 194 5 10 cloud 
+: 200 6 10 hangs 
+: 207 3 10 ov
+: 211 5 5 er 
+: 217 3 5 me- 
+- 222
+: 236 5 5 Black 
+: 242 3 5 cloud 
+: 246 2 3 you’re 
+: 249 4 5 no 
+: 254 6 5 friend 
+: 261 2 1 of 
+: 264 6 -2 me- 
+- 272
+: 285 4 5 Black 
+: 290 5 5 cloud 
+: 296 2 3 you’re 
+: 300 3 5 in 
+: 305 3 3 my 
+: 309 7 5 dreams- 
+- 318
+: 330 6 5 Black 
+: 337 3 5 cloud 
+: 341 2 4 you’re 
+: 344 5 5 no 
+: 350 5 5 friend 
+: 356 2 1 of 
+: 360 6 -2 me- 
+- 368
+: 377 6 5 Black 
+: 384 3 5 cloud 
+: 388 5 5 hangs 
+: 396 4 5 ov
+: 401 4 1 er 
+: 407 3 1 me- 
+- 412
+: 424 6 1 Black 
+: 431 3 1 cloud 
+: 435 2 -1 you’re 
+: 438 4 1 no 
+: 443 6 1 friend 
+: 450 2 -2 of 
+: 453 6 -2 me- 
+- 461
+: 473 5 1 Black 
+: 479 3 1 cloud 
+: 484 3 0 you’re 
+: 488 3 1 in 
+: 494 4 5 my 
+: 499 5 1 dreams- 
+- 506
+: 519 6 1 Black 
+: 526 4 1 cloud 
+: 531 2 0 you’re 
+: 534 1 1 no 
+: 536 7 1 friend 
+: 544 2 -2 of 
+: 547 6 -2 me- 
+- 555
+: 568 6 5 Black 
+: 575 3 5 cloud 
+: 579 5 5 hangs 
+: 587 3 5 ov
+: 591 4 1 er 
+: 596 6 1 me- 
+- 604
+: 615 6 1 Black 
+: 622 4 1 cloud 
+: 627 1 0 you’re 
+: 629 2 1 no 
+: 632 7 1 friend 
+: 640 2 -2 of 
+: 643 6 -2 me- 
+- 651
+: 664 5 1 Black 
+: 670 3 1 cloud 
+: 675 3 0 you’re 
+: 679 3 1 in 
+: 685 4 5 my 
+: 690 5 1 dreams- 
+- 697
+: 709 6 1 Black 
+: 716 4 1 cloud 
+: 721 1 0 you’re 
+: 723 2 1 no 
+: 726 7 1 friend 
+: 734 2 -2 of 
+: 737 6 -2 me- 
+- 745
+: 763 4 -2 I’m 
+: 768 5 1 not 
+: 775 7 5 go
+: 783 5 -2 ing 
+: 790 17 1 to 
+: 815 5 -2 turn 
+: 821 3 1 off 
+: 827 4 3 the 
+: 833 14 3 light- 
+- 849
+: 852 6 -2 It’s 
+: 860 5 1 the 
+: 868 9 5 same 
+: 879 5 -2 dream 
+: 888 16 1 now 
+: 905 10 -2 almost 
+: 916 4 1 ev
+: 921 3 3 ery 
+: 925 10 3 night- 
+- 937
+: 954 5 -2 Blue 
+: 960 7 1 sky 
+: 968 4 3 turn 
+: 973 13 3 black- 
+- 988
+: 1000 8 -2 Stretched 
+: 1009 4 1 out 
+: 1014 4 3 like 
+: 1020 3 1 a 
+: 1025 14 5 cat- 
+- 1041
+: 1053 3 3 Don’t 
+: 1057 3 4 you 
+: 1061 4 3 know 
+: 1076 3 3 no
+: 1080 4 2 thing 
+: 1085 10 3 good- 
+- 1097
+: 1102 4 3 Could 
+: 1107 2 4 ev
+: 1110 3 3 er 
+: 1116 5 6 come 
+: 1122 5 3 from 
+: 1129 8 -2 that- 
+- 1139
+: 1513 6 5 Black 
+: 1520 3 5 cloud 
+: 1524 2 4 you 
+: 1527 5 5 hang 
+: 1533 2 5 ov
+: 1536 4 1 er 
+: 1541 8 1 me- 
+- 1551
+: 1562 6 1 Black 
+: 1569 4 1 cloud 
+: 1574 1 0 you’re 
+: 1576 2 1 no 
+: 1579 7 1 friend 
+: 1587 2 -2 of 
+: 1590 6 -2 me- 
+- 1598
+: 1610 5 1 Black 
+: 1616 3 1 cloud 
+: 1621 3 0 you’re 
+: 1625 3 1 in 
+: 1631 4 5 my 
+: 1636 5 1 dreams- 
+- 1643
+: 1657 6 1 Black 
+: 1664 4 1 cloud 
+: 1669 1 0 you’re 
+: 1671 2 1 no 
+: 1674 7 1 friend 
+: 1682 2 -2 of 
+: 1685 6 -2 me- 
+- 1693
+: 1704 6 5 Black 
+: 1711 3 5 cloud 
+: 1715 7 5 hangs 
+: 1723 3 5 ov
+: 1727 4 1 er 
+: 1732 10 1 me- 
+- 1744
+: 1752 6 1 Black 
+: 1759 4 1 cloud 
+: 1764 1 0 you’re 
+: 1766 2 1 no 
+: 1769 7 1 friend 
+: 1777 2 -2 of 
+: 1780 6 -2 me- 
+- 1788
+: 1800 4 1 Black 
+: 1805 4 1 cloud 
+: 1811 3 0 you’re 
+: 1815 4 1 in 
+: 1821 4 5 my 
+: 1826 5 1 dreams- 
+- 1833
+: 1847 6 1 Black 
+: 1854 4 1 cloud 
+: 1859 1 0 you’re 
+: 1861 2 1 no 
+: 1864 7 1 friend 
+: 1872 2 -2 of 
+: 1875 6 -2 me- 
+- 1883
+: 1895 9 -2 The 
+: 1905 6 1 col
+: 1912 6 5 lec
+: 1919 10 -2 tive 
+: 1931 12 1 me, 
+: 1952 4 -2 col
+: 1957 5 1 lec
+: 1963 4 3 tive 
+: 1968 14 3 you- 
+- 1984
+: 1991 12 1 Some 
+: 2005 7 5 thing 
+: 2016 5 -2 we 
+: 2024 7 1 did
+: 2032 12 -2 ~- 
+- 2046
+: 2048 4 -2 All 
+: 2054 3 1 wrong 
+: 2059 3 3 with 
+: 2063 4 3 us 
+: 2071 16 3 too- 
+- 2089
+: 2093 4 3 Tur
+: 2098 3 1 ning 
+: 2103 7 3 black, 
+: 2114 3 1 no 
+: 2118 2 3 tur
+: 2121 4 1 ning 
+: 2126 10 3 back- 
+- 2138
+: 2139 3 1 The 
+: 2143 4 3 world’s 
+: 2148 6 3 really 
+: 2157 5 3 going 
+: 2164 5 3 off 
+: 2170 7 3 track- 
+- 2179
+: 2186 1 1 I 
+: 2188 3 3 read
+: 2192 1 1 the
+: 2194 10 4 signs
+: 2205 2 3 they’re
+: 2208 3 3 hard
+: 2212 3 4 to
+: 2216 4 4 miss
+: 2221 3 3 ~- 
+- 2226
+: 2233 4 1 What 
+: 2238 6 0 could 
+: 2245 5 1 bring 
+: 2251 1 -1 a 
+: 2253 6 5 storm 
+: 2260 4 1 like 
+: 2265 10 -2 this- 
+- 2277
+: 2278 5 10 Black 
+: 2284 4 10 cloud 
+: 2289 4 10 hangs 
+: 2294 2 10 ov
+: 2297 3 5 er 
+: 2301 7 5 me- 
+- 2310
+: 2320 4 5 Black 
+: 2325 3 5 cloud 
+: 2329 2 4 you’re 
+: 2332 4 5 no 
+: 2337 6 5 friend 
+: 2345 3 1 of 
+: 2349 5 1 me- 
+- 2356
+: 2367 5 5 Black 
+: 2373 5 5 cloud 
+: 2379 4 3 you’re 
+: 2384 4 5 in 
+: 2389 4 3 my 
+: 2394 5 5 dreams- 
+- 2401
+: 2414 4 5 Black 
+: 2419 3 5 cloud 
+: 2423 2 4 you’re 
+: 2426 4 5 no 
+: 2431 6 5 friend 
+: 2438 4 1 of 
+: 2443 5 1 me- 
+- 2450
+: 2463 5 10 Black 
+: 2469 4 10 cloud 
+: 2474 6 10 hangs 
+: 2481 4 10 ov
+: 2486 2 5 er 
+: 2489 7 5 me- 
+- 2498
+: 2510 4 5 Black 
+: 2515 3 5 cloud 
+: 2519 2 4 you’re 
+: 2522 4 5 no 
+: 2527 6 5 friend 
+: 2535 3 1 of 
+: 2539 5 1 me- 
+- 2546
+: 2557 5 5 Black 
+: 2563 5 5 cloud 
+: 2569 3 3 you’re 
+: 2573 4 5 in 
+: 2578 4 3 my 
+: 2583 7 5 dreams- 
+- 2592
+: 2604 4 5 Black 
+: 2609 3 5 cloud 
+: 2613 2 4 you’re 
+: 2616 4 5 no 
+: 2621 6 5 friend 
+: 2628 4 -2 of 
+: 2633 5 -2 me- 
+- 2640
+: 3409 6 5 Black 
+: 3416 1 5 cloud 
+: 3418 1 4 y 
+: 3420 3 5 hangs 
+: 3426 4 5 ov
+: 3431 3 1 er 
+: 3435 7 1 me-- 
+- 3444
+: 3455 6 1 Black 
+: 3462 4 1 cloud 
+: 3467 1 0 you’re 
+: 3469 2 1 no 
+: 3472 7 1 friend 
+: 3480 2 -2 of 
+: 3483 6 -2 me-- 
+- 3491
+: 3505 4 1 Black 
+: 3510 3 1 cloud 
+: 3516 3 0 you’re 
+: 3520 3 1 in 
+: 3526 4 5 my 
+: 3531 5 1 dreams-- 
+- 3538
+: 3551 5 1 Black 
+: 3557 4 1 cloud 
+: 3562 1 0 you’re 
+: 3564 2 1 no 
+: 3567 7 1 friend 
+: 3576 2 -2 of 
+: 3579 6 -2 me-- 
+- 3587
+: 3599 6 5 Black 
+: 3606 3 5 cloud 
+: 3610 6 5 hangs 
+: 3617 3 5 ov
+: 3621 4 1 er 
+: 3626 10 1 me-- 
+- 3638
+: 3645 6 1 Black 
+: 3652 4 1 cloud 
+: 3657 1 0 you’re 
+: 3659 2 1 no 
+: 3662 7 1 friend 
+: 3670 2 -2 of 
+: 3673 6 -2 me-- 
+- 3681
+: 3694 4 1 Black 
+: 3699 3 1 cloud 
+: 3705 3 0 you’re 
+: 3709 3 1 in 
+: 3715 4 5 my 
+: 3720 5 1 dreams-- 
+- 3727
+: 3739 6 1 Black 
+: 3746 4 1 cloud 
+: 3751 1 0 you’re 
+: 3753 1 1 no 
+: 3755 7 1 friend 
+: 3763 3 -2 of 
+: 3767 6 -2 me ~ 
+E

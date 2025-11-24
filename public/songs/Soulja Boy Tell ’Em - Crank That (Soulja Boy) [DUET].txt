@@ -1,0 +1,1083 @@
+#ARTIST:Soulja Boy Tell ’Em
+#TITLE:Crank That (Soulja Boy) [DUET]
+#MP3:Soulja Boy Tell ’Em - Crank That (Soulja Boy) [DUET].mp3
+#CREATOR:bohning
+#EDITION:SingStar Dance, [DUET]-Songs
+#COVER:Soulja Boy Tell ’Em - Crank That (Soulja Boy) [DUET] [CO].jpg
+#BACKGROUND:Soulja Boy Tell ’Em - Crank That (Soulja Boy) [DUET] [BG].jpg
+#YEAR:2007
+#LANGUAGE:English
+#BPM:280
+#GAP:15860
+#VIDEO:v=8UFIYGkROII,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/ae/60/16ae6051-4d30-a8a4-f7d0-fa5a95396965/07UMGIM16180.rgb.jpg/5000x5000bb.jpg,p1=Lead,p2=Backing
+P1
+R 48 2 9 Soul
+R 52 2 9 ja 
+R 56 2 9 Boy 
+R 60 2 9 I 
+R 64 2 9 tell 
+R 68 2 9 ’em 
+- 72
+R 84 1 9 Hey 
+R 86 1 9 I 
+R 88 1 9 got 
+R 90 2 9 a 
+R 93 2 9 new 
+R 96 4 9 dance 
+R 103 1 9 for 
+R 105 3 9 y’all 
+- 109
+R 110 2 9 Called 
+R 114 2 9 the 
+R 118 2 9 Soul
+R 121 2 9 ja 
+R 125 3 9 Boy 
+- 130
+R 150 1 9 You 
+R 152 2 9 got
+R 155 2 9 ta 
+R 159 3 9 punch 
+R 165 2 9 then 
+R 169 3 9 crank 
+R 174 3 9 back 
+- 178
+R 179 3 9 Three 
+R 184 4 9 times 
+R 190 3 9 from 
+R 194 2 9 left 
+R 197 2 9 to 
+R 200 2 9 right 
+- 204
+R 272 2 9 Soul
+R 276 2 9 ja 
+R 280 2 9 Boy 
+R 284 2 9 off 
+R 288 2 9 in 
+R 292 2 9 this 
+- 296
+R 304 2 9 Watch 
+R 308 2 9 me 
+R 312 2 9 crank 
+R 316 2 9 it 
+R 320 2 9 watch 
+R 324 2 9 me 
+- 328
+R 336 2 9 Watch 
+R 340 2 9 me 
+R 344 2 9 crank 
+R 348 2 9 dat 
+R 352 2 9 Soul
+R 356 2 9 ja 
+R 360 2 9 Boy 
+- 363
+R 364 2 9 Then 
+R 368 2 9 Su
+R 372 1 9 per
+G 374 3 9 man 
+R 380 2 9 dat 
+- 384
+R 388 2 9 Now 
+R 392 2 9 watch 
+R 396 2 9 me 
+- 400
+R 408 2 9 Crank 
+R 412 2 9 dat 
+R 416 2 9 Soul
+R 420 2 9 ja 
+R 424 3 9 Boy 
+- 429
+R 440 2 9 Crank 
+R 444 2 9 dat 
+R 448 2 9 Soul
+R 452 2 9 ja 
+R 456 3 9 Boy 
+- 461
+R 472 2 9 Crank 
+R 476 2 9 dat 
+R 480 2 9 Soul
+R 484 2 9 ja 
+R 488 3 9 Boy 
+- 493
+R 504 2 9 Crank 
+R 508 2 9 dat 
+R 512 2 9 Soul
+R 516 2 9 ja 
+R 520 3 9 Boy 
+- 525
+R 528 2 9 Soul
+R 532 2 9 ja 
+R 536 2 9 Boy 
+R 540 2 9 off 
+R 544 2 9 in 
+R 548 2 9 this 
+- 552
+R 560 2 9 Watch 
+R 564 2 9 me 
+R 568 2 9 crank 
+R 572 2 9 it 
+R 576 2 9 watch 
+R 580 2 9 me 
+- 584
+R 592 2 9 Watch 
+R 596 2 9 me 
+R 600 2 9 crank 
+R 604 2 9 dat 
+R 608 2 9 Soul
+R 612 2 9 ja 
+R 616 2 9 Boy 
+- 619
+R 620 2 9 Then 
+R 624 2 9 Su
+R 628 1 9 per
+R 630 3 9 man 
+R 636 2 9 dat 
+- 640
+R 664 2 9 Crank 
+R 668 2 9 dat 
+R 672 2 9 Soul
+R 676 2 9 ja 
+R 680 3 9 Boy 
+- 685
+R 696 2 9 Crank 
+R 700 2 9 dat 
+R 704 2 9 Soul
+R 708 2 9 ja 
+R 712 3 9 Boy 
+- 717
+R 728 2 9 Crank 
+R 732 2 9 dat 
+R 736 2 9 Soul
+R 740 2 9 ja 
+R 744 3 9 Boy 
+- 749
+R 760 2 9 Crank 
+R 764 2 9 dat 
+R 768 2 9 Soul
+R 772 2 9 ja 
+G 776 3 9 Boy 
+- 781
+R 784 2 9 Soul
+R 788 2 9 ja 
+R 792 2 9 Boy 
+R 796 2 9 off 
+R 800 2 9 in 
+R 804 2 9 this 
+- 808
+R 816 2 9 Watch 
+R 820 2 9 me 
+R 824 2 9 lean 
+R 828 2 9 and 
+R 832 2 9 watch 
+R 836 2 9 me 
+R 840 2 9 rock 
+- 844
+R 848 2 9 Su
+R 852 1 9 per
+R 854 3 9 man 
+R 860 2 9 dat 
+- 864
+R 872 5 9 Then 
+R 880 2 9 watch 
+R 884 2 9 me 
+R 888 2 9 crank 
+R 892 2 9 dat 
+R 896 2 9 Ro
+R 900 2 9 bo
+R 904 2 9 cop 
+- 908
+R 912 2 9 Su
+R 916 1 9 per 
+R 918 3 9 fresh 
+R 924 2 9 now 
+R 928 2 9 watch 
+R 932 2 9 me 
+R 936 2 9 jock 
+- 940
+R 944 2 9 Joc
+R 948 2 9 kin’ 
+R 952 2 9 on 
+R 956 2 9 them 
+R 960 2 9 Ha
+R 964 2 9 terz 
+R 968 2 9 Man 
+- 972
+R 976 2 9 When 
+R 980 2 9 I 
+R 984 2 9 do 
+R 988 2 9 dat 
+R 992 2 9 Soul
+R 996 2 9 ja 
+R 1000 2 9 Boy 
+- 1003
+R 1004 2 9 I 
+R 1008 2 9 lean 
+R 1012 1 9 to 
+R 1014 1 9 the 
+R 1016 2 9 left 
+- 1019
+R 1020 2 9 And 
+R 1024 2 9 crank 
+R 1028 2 9 dat 
+R 1032 2 9 dance 
+R 1036 2 9 now 
+- 1040
+R 1068 2 9 I’m 
+G 1072 3 9 joc
+R 1078 1 9 kin’ 
+R 1080 2 9 on 
+R 1084 3 9 yo 
+- 1089
+R 1100 2 9 And 
+R 1104 2 9 if 
+R 1108 2 9 we 
+R 1112 2 9 get 
+R 1116 2 9 the 
+R 1120 2 9 figh
+R 1124 2 9 tin’ 
+- 1127
+R 1128 2 9 Then 
+R 1132 2 9 I’m 
+R 1136 5 9 c****** 
+R 1144 2 9 on 
+R 1148 2 9 your 
+R 1152 2 9 b**** 
+R 1156 2 9 a** 
+- 1160
+R 1164 2 9 You 
+R 1168 2 9 catch 
+R 1172 2 9 me 
+R 1176 2 9 at 
+R 1180 2 9 yo 
+R 1184 2 9 lo
+R 1188 2 9 cal 
+R 1192 2 9 par
+R 1196 2 9 ty 
+- 1199
+R 1200 2 9 Yes 
+R 1204 2 9 I 
+R 1208 2 9 crank 
+R 1212 2 9 it 
+R 1216 2 9 eve
+R 1220 2 9 ry
+R 1224 2 9 day 
+- 1228
+R 1232 2 9 Ha
+R 1236 2 9 terz 
+R 1240 3 9 get 
+G 1248 3 9 mad 
+R 1256 3 9 ’cause 
+- 1261
+R 1264 2 9 I 
+R 1268 2 9 got 
+R 1272 2 9 me 
+R 1276 2 9 some 
+R 1280 2 9 Ba
+R 1284 2 9 thin’ 
+R 1288 2 9 Apes 
+- 1292
+R 1296 2 9 Soul
+R 1300 2 9 ja 
+R 1304 2 9 Boy 
+R 1308 2 9 off 
+R 1312 2 9 in 
+R 1316 2 9 this 
+- 1320
+R 1328 2 9 Watch 
+R 1332 2 9 me 
+R 1336 2 9 crank 
+R 1340 2 9 it 
+R 1344 2 9 watch 
+R 1348 2 9 me 
+- 1352
+R 1360 2 9 Watch 
+R 1364 2 9 me 
+R 1368 2 9 crank 
+R 1372 2 9 dat 
+R 1376 2 9 Soul
+R 1380 2 9 ja 
+R 1384 2 9 Boy 
+- 1387
+R 1388 2 9 Then 
+R 1392 2 9 Su
+R 1396 1 9 per
+R 1398 3 9 man 
+R 1404 2 9 dat 
+- 1408
+R 1432 2 9 Crank 
+R 1436 2 9 dat 
+R 1440 2 9 Soul
+R 1444 2 9 ja 
+R 1448 3 9 Boy 
+- 1453
+R 1464 2 9 Crank 
+R 1468 2 9 dat 
+R 1472 2 9 Soul
+R 1476 2 9 ja 
+R 1480 3 9 Boy 
+- 1485
+R 1496 2 9 Crank 
+R 1500 2 9 dat 
+R 1504 2 9 Soul
+R 1508 2 9 ja 
+R 1512 3 9 Boy 
+- 1517
+R 1528 2 9 Crank 
+R 1532 2 9 dat 
+R 1536 2 9 Soul
+R 1540 2 9 ja 
+R 1544 3 9 Boy 
+- 1549
+R 1552 2 9 Soul
+R 1556 2 9 ja 
+R 1560 2 9 Boy 
+R 1564 2 9 off 
+R 1568 2 9 in 
+R 1572 2 9 this 
+- 1576
+R 1584 2 9 Watch 
+R 1588 2 9 me 
+R 1592 2 9 crank 
+R 1596 2 9 it 
+R 1600 2 9 watch 
+R 1604 2 9 me 
+- 1608
+R 1616 2 9 Watch 
+R 1620 2 9 me 
+R 1624 2 9 crank 
+R 1628 2 9 dat 
+G 1632 2 9 Soul
+R 1636 2 9 ja 
+R 1640 2 9 Boy 
+- 1643
+R 1644 2 9 Then 
+R 1648 2 9 Su
+R 1652 1 9 per
+R 1654 3 9 man 
+R 1660 2 9 dat 
+- 1664
+R 1688 2 9 Crank 
+R 1692 2 9 dat 
+R 1696 2 9 Soul
+R 1700 2 9 ja 
+R 1704 3 9 Boy 
+- 1709
+R 1720 2 9 Crank 
+R 1724 2 9 dat 
+R 1728 2 9 Soul
+R 1732 2 9 ja 
+R 1736 3 9 Boy 
+- 1741
+R 1752 2 9 Crank 
+R 1756 2 9 dat 
+R 1760 2 9 Soul
+R 1764 2 9 ja 
+R 1768 3 9 Boy 
+- 1773
+R 1784 2 9 Crank 
+R 1788 2 9 dat 
+R 1792 2 9 Soul
+R 1796 2 9 ja 
+R 1800 3 9 Boy 
+- 1804
+R 1804 2 9 I’m 
+R 1808 2 9 boun
+R 1812 1 9 cin’ 
+R 1814 3 9 on 
+- 1819
+R 1832 2 9 Watch 
+R 1836 2 9 me 
+R 1840 2 9 su
+R 1844 1 9 per 
+R 1846 3 9 soak 
+- 1851
+R 1864 2 9 I’
+R 1868 2 9 ma 
+R 1872 2 9 pass 
+R 1876 1 9 it 
+R 1878 4 9 to 
+R 1884 2 9 A
+G 1888 2 9 rab 
+- 1891
+R 1892 2 9 And 
+R 1896 2 9 he’s 
+R 1900 2 9 gon’ 
+R 1904 2 9 crank 
+R 1908 1 9 it 
+R 1910 3 9 up 
+- 1915
+R 1936 2 9 Ha
+R 1940 2 9 terz 
+R 1944 2 9 wan
+R 1948 2 9 na 
+R 1952 2 9 be 
+R 1956 2 9 me 
+- 1959
+R 1960 2 9 Soul
+R 1964 2 9 ja 
+R 1968 3 9 Boy 
+R 1976 2 9 I’m 
+R 1980 2 9 the 
+R 1984 4 9 man 
+- 1990
+R 1992 2 9 They 
+R 1996 2 9 be 
+R 2000 2 9 loo
+R 2004 2 9 kin’ 
+R 2008 2 9 at 
+R 2012 2 9 my 
+R 2016 2 9 neck 
+- 2020
+R 2024 2 9 Say
+R 2028 2 9 in’ 
+R 2032 2 9 it’s 
+R 2036 2 9 the 
+R 2040 2 9 Rub
+R 2044 2 9 ber
+R 2048 13 9 band 
+R 2064 12 9 Man 
+- 2078
+R 2088 2 9 Watch 
+R 2092 2 9 me 
+R 2096 10 9 do 
+R 2108 2 9 it 
+- 2112
+G 2128 12 9 Dance 
+- 2142
+R 2152 2 9 Let 
+R 2156 2 9 get 
+R 2160 10 9 to 
+R 2172 2 9 it 
+- 2176
+R 2192 3 9 Nope 
+R 2200 2 9 you 
+R 2204 2 9 can’t 
+R 2208 1 9 do 
+R 2210 1 9 it 
+R 2212 2 9 like 
+R 2216 3 9 me 
+- 2221
+R 2224 3 9 Doe 
+R 2232 2 9 so 
+R 2236 2 9 don’t 
+R 2240 1 9 do 
+R 2242 1 9 it 
+R 2244 2 9 like 
+R 2248 3 9 me 
+- 2253
+R 2256 2 9 Folk 
+R 2262 1 9 I 
+R 2264 1 9 see 
+R 2266 1 9 you 
+R 2268 1 9 try
+R 2270 1 9 na 
+R 2272 1 9 do 
+R 2274 1 9 it 
+R 2276 2 9 like 
+R 2280 2 9 me 
+- 2284
+R 2288 2 9 Man 
+R 2292 2 9 that 
+R 2296 2 9 damn 
+R 2300 2 9 was 
+G 2304 5 9 ug
+R 2312 2 9 ly 
+- 2316
+R 2320 2 9 Soul
+R 2324 2 9 ja 
+R 2328 2 9 Boy 
+R 2332 2 9 off 
+R 2336 2 9 in 
+R 2340 2 9 this 
+- 2344
+R 2352 2 9 Watch 
+R 2356 2 9 me 
+R 2360 2 9 crank 
+R 2364 2 9 it 
+R 2368 2 9 watch 
+R 2372 2 9 me 
+- 2376
+R 2384 2 9 Watch 
+R 2388 2 9 me 
+R 2392 2 9 crank 
+R 2396 2 9 dat 
+R 2400 2 9 Soul
+R 2404 2 9 ja 
+R 2408 2 9 Boy 
+- 2411
+R 2412 2 9 Then 
+R 2416 2 9 Su
+R 2420 1 9 per
+R 2422 3 9 man 
+R 2428 2 9 dat 
+- 2432
+R 2456 2 9 Crank 
+R 2460 2 9 dat 
+R 2464 2 9 Soul
+R 2468 2 9 ja 
+R 2472 3 9 Boy 
+- 2477
+R 2488 2 9 Crank 
+R 2492 2 9 dat 
+R 2496 2 9 Soul
+R 2500 2 9 ja 
+R 2504 3 9 Boy 
+- 2509
+R 2520 2 9 Crank 
+R 2524 2 9 dat 
+R 2528 2 9 Soul
+R 2532 2 9 ja 
+R 2536 3 9 Boy 
+- 2541
+R 2552 2 9 Crank 
+R 2556 2 9 dat 
+R 2560 2 9 Soul
+R 2564 2 9 ja 
+R 2568 3 9 Boy 
+- 2573
+R 2576 2 9 Soul
+R 2580 2 9 ja 
+R 2584 2 9 Boy 
+R 2588 2 9 off 
+R 2592 2 9 in 
+R 2596 2 9 this 
+- 2600
+R 2608 2 9 Watch 
+R 2612 2 9 me 
+R 2616 2 9 crank 
+R 2620 2 9 it 
+R 2624 2 9 watch 
+R 2628 2 9 me 
+- 2632
+R 2640 2 9 Watch 
+R 2644 2 9 me 
+R 2648 2 9 crank 
+R 2652 2 9 dat 
+R 2656 2 9 Soul
+R 2660 2 9 ja 
+R 2664 2 9 Boy 
+- 2667
+R 2668 2 9 Then 
+R 2672 2 9 Su
+R 2676 1 9 per
+R 2678 3 9 man 
+R 2684 2 9 dat 
+- 2688
+R 2712 2 9 Crank 
+R 2716 2 9 dat 
+R 2720 2 9 Soul
+R 2724 2 9 ja 
+R 2728 3 9 Boy 
+- 2733
+R 2744 2 9 Crank 
+R 2748 2 9 dat 
+R 2752 2 9 Soul
+R 2756 2 9 ja 
+R 2760 3 9 Boy 
+- 2765
+R 2776 2 9 Crank 
+R 2780 2 9 dat 
+R 2784 2 9 Soul
+R 2788 2 9 ja 
+R 2792 3 9 Boy 
+- 2797
+R 2808 2 9 Crank 
+R 2812 2 9 dat 
+R 2816 2 9 Soul
+R 2820 2 9 ja 
+R 2824 3 9 Boy 
+- 2829
+R 2832 2 9 I’m 
+R 2836 2 9 too 
+R 2840 2 9 fresh 
+R 2844 2 9 off 
+R 2848 2 9 in 
+R 2852 2 9 this 
+- 2856
+R 2864 2 9 Watch 
+R 2868 2 9 me 
+R 2872 2 9 crank 
+R 2876 2 9 it 
+R 2880 2 9 watch 
+R 2884 2 9 me 
+- 2888
+R 2896 2 9 Watch 
+R 2900 2 9 me 
+R 2904 2 9 crank 
+R 2908 2 9 dat 
+R 2912 2 9 Roo
+R 2916 2 9 se
+R 2920 2 9 velt 
+- 2923
+R 2924 2 9 Then 
+R 2928 2 9 su
+R 2932 1 9 per 
+R 2934 3 9 soak 
+R 2940 2 9 that 
+- 2944
+R 2960 2 9 Su
+R 2964 1 9 per 
+R 2966 3 9 soak 
+R 2972 2 9 that 
+- 2976
+R 2992 2 9 Su
+R 2996 1 9 per 
+R 2998 3 9 soak 
+R 3004 2 9 that 
+- 3008
+G 3024 2 9 Su
+R 3028 1 9 per 
+R 3030 3 9 soak 
+R 3036 2 9 that 
+- 3040
+R 3056 2 9 Su
+R 3060 1 9 per 
+R 3062 3 9 soak 
+R 3068 2 9 that 
+- 3072
+R 3088 2 9 I’m 
+R 3092 2 9 too 
+R 3096 2 9 fresh 
+R 3100 2 9 now 
+R 3104 2 9 watch 
+R 3108 2 9 me 
+- 3112
+R 3120 2 9 Watch 
+R 3124 2 9 me 
+R 3128 2 9 shuf
+R 3132 2 9 fle 
+R 3136 2 9 watch 
+R 3140 2 9 me 
+- 3144
+R 3152 2 9 Watch 
+R 3156 2 9 me 
+R 3160 2 9 crank 
+R 3164 2 9 that 
+R 3168 2 9 Soul
+R 3172 2 9 ja 
+R 3176 2 9 Boy 
+- 3179
+R 3180 2 9 Now 
+R 3184 2 9 Su
+R 3188 1 9 per
+R 3190 4 9 man 
+- 3196
+R 3216 2 9 Su
+R 3220 1 9 per
+R 3222 4 9 man 
+- 3228
+R 3248 2 9 Su
+R 3252 1 9 per
+R 3254 4 9 man 
+- 3260
+R 3344 2 9 Soul
+R 3348 2 9 ja 
+R 3352 2 9 Boy 
+R 3356 2 9 off 
+R 3360 2 9 in 
+R 3364 2 9 this 
+- 3368
+R 3376 2 9 Watch 
+R 3380 2 9 me 
+R 3384 2 9 crank 
+R 3388 2 9 it 
+R 3392 2 9 watch 
+R 3396 2 9 me 
+- 3400
+R 3408 2 9 Watch 
+R 3412 2 9 me 
+R 3416 2 9 crank 
+R 3420 2 9 dat 
+R 3424 2 9 Soul
+R 3428 2 9 ja 
+R 3432 2 9 Boy 
+- 3435
+R 3436 2 9 Then 
+R 3440 2 9 Su
+R 3444 1 9 per
+R 3446 3 9 man 
+R 3452 2 9 dat 
+- 3456
+R 3480 2 9 Crank 
+R 3484 2 9 dat 
+R 3488 2 9 Soul
+R 3492 2 9 ja 
+R 3496 3 9 Boy 
+- 3501
+R 3512 2 9 Crank 
+R 3516 2 9 dat 
+R 3520 2 9 Soul
+R 3524 2 9 ja 
+R 3528 3 9 Boy 
+- 3533
+R 3544 2 9 Crank 
+R 3548 2 9 dat 
+R 3552 2 9 Soul
+R 3556 2 9 ja 
+R 3560 3 9 Boy 
+- 3565
+R 3576 2 9 Crank 
+R 3580 2 9 dat 
+R 3584 2 9 Soul
+R 3588 2 9 ja 
+R 3592 3 9 Boy 
+- 3597
+R 3600 2 9 Soul
+R 3604 2 9 ja 
+R 3608 2 9 Boy 
+R 3612 2 9 off 
+R 3616 2 9 in 
+R 3620 2 9 this 
+- 3624
+R 3632 2 9 Watch 
+R 3636 2 9 me 
+R 3640 2 9 crank 
+R 3644 2 9 it 
+R 3648 2 9 watch 
+R 3652 2 9 me 
+- 3656
+R 3664 2 9 Watch 
+R 3668 2 9 me 
+R 3672 2 9 crank 
+R 3676 2 9 dat 
+R 3680 2 9 Soul
+R 3684 2 9 ja 
+R 3688 2 9 Boy 
+- 3691
+R 3692 2 9 Then 
+R 3696 2 9 Su
+R 3700 1 9 per
+R 3702 3 9 man 
+R 3708 2 9 dat 
+- 3712
+R 3736 2 9 Crank 
+R 3740 2 9 dat 
+R 3744 2 9 Soul
+R 3748 2 9 ja 
+R 3752 3 9 Boy 
+- 3757
+G 3768 2 9 Crank 
+R 3772 2 9 dat 
+R 3776 2 9 Soul
+R 3780 2 9 ja 
+R 3784 3 9 Boy 
+- 3789
+R 3800 2 9 Crank 
+R 3804 2 9 dat 
+R 3808 2 9 Soul
+R 3812 2 9 ja 
+R 3816 3 9 Boy 
+- 3821
+R 3832 2 9 Crank 
+R 3836 2 9 dat 
+R 3840 2 9 Soul
+R 3844 2 9 ja 
+R 3848 3 9 Boy 
+P2
+R 0 17 9 You 
+- 19
+R 144 17 9 You 
+- 163
+R 210 55 9 Ah 
+- 267
+R 272 20 9 You 
+- 294
+G 296 26 9 Oh 
+- 324
+R 328 30 9 Roll 
+- 360
+R 384 2 9 Oh 
+R 388 2 9 now 
+R 392 2 9 watch 
+R 396 2 9 me 
+R 400 17 9 you 
+- 418
+R 420 2 9 Now 
+R 424 2 9 watch 
+R 428 2 9 me 
+R 432 17 9 you 
+- 450
+R 452 2 9 Now 
+R 456 2 9 watch 
+R 460 2 9 me 
+R 464 17 9 you 
+- 482
+R 484 2 9 Now 
+R 488 2 9 watch 
+R 492 2 9 me 
+R 496 17 9 you 
+- 514
+R 516 2 9 Now 
+R 520 2 9 watch 
+- 524
+R 552 26 9 Oh 
+- 580
+R 584 30 9 Roll 
+- 616
+R 640 2 9 Oh 
+R 644 2 9 now 
+R 648 2 9 watch 
+R 652 2 9 me 
+R 656 17 9 you 
+- 674
+R 676 2 9 Now 
+R 680 2 9 watch 
+R 684 2 9 me 
+R 688 17 9 you 
+- 706
+R 708 2 9 Now 
+R 712 2 9 watch 
+R 716 2 9 me 
+R 720 17 9 you 
+- 738
+R 740 2 9 Now 
+R 744 2 9 watch 
+R 748 2 9 me 
+R 752 17 9 you 
+- 770
+R 772 2 9 Now 
+G 776 2 9 watch 
+- 780
+R 808 27 9 Oh 
+- 837
+R 864 27 9 Oh 
+- 893
+R 1040 23 9 You 
+- 1065
+R 1084 2 9 I’m 
+G 1088 3 9 joc
+R 1094 1 9 kin’ 
+R 1096 2 9 on 
+R 1100 3 9 yo 
+- 1105
+R 1296 15 9 You 
+- 1313
+R 1320 26 9 Oh 
+- 1348
+G 1352 30 9 Roll 
+- 1384
+R 1408 2 9 Oh 
+R 1412 2 9 now 
+R 1416 2 9 watch 
+R 1420 2 9 me 
+R 1424 16 9 you 
+- 1442
+R 1444 2 9 Now 
+R 1448 2 9 watch 
+R 1452 2 9 me 
+R 1456 17 9 you 
+- 1474
+R 1476 2 9 Now 
+R 1480 2 9 watch 
+R 1484 2 9 me 
+R 1488 17 9 you 
+- 1506
+R 1508 2 9 Now 
+R 1512 2 9 watch 
+R 1516 2 9 me 
+R 1520 17 9 you 
+- 1538
+R 1540 2 9 Now 
+R 1544 2 9 watch 
+- 1548
+R 1576 26 9 Oh 
+- 1604
+R 1608 30 9 Roll 
+- 1640
+R 1664 2 9 Oh 
+R 1668 2 9 now 
+R 1672 2 9 watch 
+R 1676 2 9 me 
+R 1680 17 9 you 
+- 1698
+R 1700 2 9 Now 
+R 1704 2 9 watch 
+R 1708 2 9 me 
+R 1712 17 9 you 
+- 1730
+R 1732 2 9 Now 
+R 1736 2 9 watch 
+R 1740 2 9 me 
+R 1744 17 9 you 
+- 1762
+R 1764 2 9 Now 
+R 1768 2 9 watch 
+R 1772 2 9 me 
+R 1776 17 9 you 
+- 1794
+G 1796 2 9 Now 
+R 1800 2 9 watch 
+- 1804
+R 1820 2 9 My 
+R 1824 18 9 toe 
+- 1844
+R 1852 2 9 Dat 
+R 1856 25 9 oh 
+- 1883
+R 1916 2 9 Fo’ 
+G 1920 16 9 sho’ 
+- 1938
+R 2080 14 9 Man 
+- 2096
+R 2104 2 9 Watch 
+R 2108 2 9 me 
+R 2112 10 9 do 
+R 2124 2 9 it 
+- 2128
+G 2144 12 9 Dance 
+- 2158
+R 2168 2 9 Let 
+R 2172 2 9 get 
+R 2176 10 9 to 
+R 2188 2 9 it 
+- 2192
+R 2320 14 9 You 
+- 2336
+R 2344 26 9 Oh 
+- 2372
+R 2376 30 9 Roll 
+- 2408
+R 2432 2 9 Oh 
+R 2436 2 9 now 
+R 2440 2 9 watch 
+R 2444 2 9 me 
+R 2448 15 9 you 
+- 2465
+R 2468 2 9 Now 
+R 2472 2 9 watch 
+R 2476 2 9 me 
+G 2480 15 9 you 
+- 2497
+R 2500 2 9 Now 
+R 2504 2 9 watch 
+R 2508 2 9 me 
+R 2512 16 9 you 
+- 2530
+R 2532 2 9 Now 
+R 2536 2 9 watch 
+R 2540 2 9 me 
+R 2544 17 9 you 
+- 2562
+R 2564 2 9 Now 
+R 2568 2 9 watch 
+- 2572
+R 2600 26 9 Oh 
+- 2628
+R 2632 30 9 Roll 
+- 2664
+R 2688 2 9 Oh 
+R 2692 2 9 now 
+R 2696 2 9 watch 
+R 2700 2 9 me 
+R 2704 17 9 you 
+- 2722
+R 2724 2 9 Now 
+R 2728 2 9 watch 
+R 2732 2 9 me 
+R 2736 18 9 you 
+- 2755
+R 2756 2 9 Now 
+R 2760 2 9 watch 
+R 2764 2 9 me 
+R 2768 17 9 you 
+- 2786
+R 2788 2 9 Now 
+R 2792 2 9 watch 
+R 2796 2 9 me 
+R 2800 17 9 you 
+- 2818
+R 2820 2 9 Now 
+R 2824 2 9 watch 
+- 2828
+R 2856 27 9 Oh 
+- 2885
+R 2888 42 9 Roll 
+- 2932
+R 2944 20 9 Oh 
+- 2966
+R 2976 12 9 Oh 
+- 2990
+R 3008 12 9 Oh 
+- 3022
+R 3040 12 9 Oh 
+- 3054
+R 3072 12 9 Oh 
+- 3086
+R 3112 14 9 Do 
+R 3128 2 9 it 
+- 3132
+R 3144 17 9 You 
+- 3163
+R 3200 17 9 You 
+- 3219
+G 3232 10 9 Do 
+R 3244 2 9 it 
+- 3248
+R 3264 10 9 Do 
+R 3276 2 9 it 
+- 3279
+R 3280 57 9 Ah 
+- 3339
+R 3344 20 9 You 
+- 3366
+R 3368 26 9 Oh 
+- 3396
+R 3400 30 9 Roll 
+- 3432
+R 3456 2 9 Oh 
+R 3460 2 9 now 
+R 3464 2 9 watch 
+R 3468 2 9 me 
+R 3472 16 9 you 
+- 3490
+R 3492 2 9 Now 
+R 3496 2 9 watch 
+R 3500 2 9 me 
+R 3504 17 9 you 
+- 3522
+R 3524 2 9 Now 
+R 3528 2 9 watch 
+R 3532 2 9 me 
+R 3536 17 9 you 
+- 3554
+R 3556 2 9 Now 
+R 3560 2 9 watch 
+R 3564 2 9 me 
+R 3568 17 9 you 
+- 3586
+R 3588 2 9 Now 
+R 3592 2 9 watch 
+- 3596
+R 3624 26 9 Oh 
+- 3652
+R 3656 30 9 Roll 
+- 3688
+R 3712 2 9 Oh 
+R 3716 2 9 now 
+R 3720 2 9 watch 
+R 3724 2 9 me 
+R 3728 17 9 you 
+- 3746
+R 3748 2 9 Now 
+R 3752 2 9 watch 
+R 3756 2 9 me 
+R 3760 17 9 you 
+- 3778
+R 3780 2 9 Now 
+R 3784 2 9 watch 
+G 3788 2 9 me 
+R 3792 17 9 you 
+- 3810
+R 3812 2 9 Now 
+R 3816 2 9 watch 
+R 3820 2 9 me 
+R 3824 17 9 you 
+- 3842
+R 3844 2 9 Now 
+R 3848 2 9 watch 
+- 3852
+R 3968 17 9 You 
+- 3987
+R 4048 59 9 Ah 
+- 4109
+R 4112 19 9 You 
+E

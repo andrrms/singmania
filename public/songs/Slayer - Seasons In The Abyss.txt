@@ -1,0 +1,314 @@
+#ARTIST:Slayer
+#TITLE:Seasons In The Abyss
+#MP3:Slayer - Seasons In The Abyss.mp3
+#CREATOR:znxineohp
+#YEAR:1990
+#LANGUAGE:English
+#BPM:304
+#GAP:142270
+#VIDEO:v=DECp8LKurKs,co=seasons-in-the-abyss-5fa25b00efd18.jpg,bg=slayer-5698f50ee9900.jpeg
+: 0 7 3 Ra
+: 8 3 3 zors 
+: 12 7 6 edge 
+: 20 7 6 out
+: 28 11 6 lines 
+: 40 3 6 the 
+: 44 12 3 dead 
+- 58
+: 62 3 1 In
+: 66 3 3 cis
+: 70 7 3 ions 
+: 78 7 3 in 
+: 86 7 3 my 
+: 94 12 3 head 
+- 108
+: 126 3 3 An
+: 130 7 3 tic
+: 138 3 3 i
+: 142 7 6 pat
+: 150 4 6 ion 
+- 156
+: 158 3 3 The 
+: 162 7 6 stim
+: 170 3 6 u
+: 174 7 3 la
+: 182 4 3 tion 
+- 188
+: 190 3 1 To 
+: 194 7 3 kill 
+: 202 3 3 the 
+: 206 3 1 ex
+: 210 7 3 hil
+: 218 3 1 ar
+: 222 7 3 at
+: 230 6 3 ion 
+- 238
+: 258 7 3 Close 
+: 266 3 3 your 
+: 270 7 3 eyes 
+: 278 7 3 look 
+: 286 7 6 deep 
+: 294 3 6 in 
+: 298 3 6 your 
+: 302 6 6 soul 
+- 309
+* 310 3 6 Step 
+* 314 7 6 out
+* 322 7 5 side 
+* 330 3 5 your
+* 334 7 5 self 
+* 342 7 5 and 
+* 350 7 6 let 
+* 358 3 6 your 
+* 362 7 6 mind 
+* 370 8 6 go 
+- 380
+: 386 7 3 Fro
+: 394 3 3 zen 
+: 398 7 3 eyes 
+: 406 7 3 stare 
+: 414 7 4 deep 
+: 422 3 4 in 
+: 426 3 4 your 
+: 430 6 4 mind 
+- 437
+: 438 3 4 As 
+: 442 3 4 you 
+* 446 44 7 die 
+- 492
+* 514 7 3 Close 
+* 522 3 3 your 
+* 526 7 3 eyes 
+* 534 3 3 and 
+* 538 3 3 for
+* 542 7 6 get 
+* 550 7 6 your 
+* 558 4 6 name 
+- 564
+: 566 3 6 Step 
+: 570 7 6 out
+: 578 7 5 side 
+: 586 3 5 your
+: 590 4 5 self 
+- 596
+: 598 7 5 And 
+: 606 5 6 let 
+: 612 3 6 your 
+: 616 7 6 thoughts 
+: 624 10 6 drain 
+- 636
+: 650 3 3 As 
+: 654 3 3 you 
+: 658 7 3 go 
+: 666 3 3 in
+: 670 14 4 sane, 
+: 686 7 4 go 
+* 694 7 4 in
+* 702 68 7 sane 
+- 772
+: 1026 5 3 In
+: 1032 5 3 nate 
+: 1038 8 6 seed 
+: 1052 5 6 to 
+: 1058 9 6 watch 
+: 1068 3 6 you 
+: 1072 6 3 bleed 
+- 1080
+: 1082 3 1 A 
+: 1086 3 3 de
+: 1090 3 3 man
+: 1094 7 3 ding 
+: 1102 9 3 phys
+: 1112 3 3 i
+: 1116 3 1 cal 
+: 1120 10 3 need 
+- 1132
+: 1156 7 3 Des
+: 1164 3 3 e
+: 1168 7 6 cra
+: 1176 6 6 ted 
+- 1183
+: 1184 3 3 E
+: 1188 7 6 vis
+: 1196 3 6 cer
+: 1200 7 3 a
+: 1208 8 3 ted 
+- 1218
+: 1220 7 3 Times 
+: 1228 3 1 per
+: 1232 7 3 pet
+: 1240 7 1 u
+: 1248 7 3 a
+: 1256 10 3 ted 
+- 1268
+* 1286 7 3 Close 
+* 1294 3 3 your 
+* 1298 7 3 eyes 
+* 1306 7 3 look 
+* 1314 7 6 deep 
+* 1322 3 6 in 
+* 1326 3 6 your 
+* 1330 4 6 soul 
+- 1335
+: 1336 3 6 Step 
+: 1340 7 6 out
+: 1348 7 5 side 
+: 1356 3 5 your
+: 1360 6 5 self 
+- 1367
+: 1368 7 5 And 
+: 1376 7 6 let 
+: 1384 3 6 your 
+: 1388 7 6 mind 
+: 1396 8 6 go 
+- 1406
+: 1412 7 3 Fro
+: 1420 3 3 zen 
+: 1424 7 3 eyes 
+: 1432 7 3 stare 
+: 1440 7 4 deep 
+: 1448 3 4 in 
+: 1452 3 4 your 
+- 1456
+: 1456 7 4 Mind 
+: 1464 3 4 as 
+: 1468 3 4 you 
+* 1472 44 7 die 
+- 1518
+: 1540 7 3 Close 
+: 1548 3 3 your 
+: 1552 7 3 eyes 
+: 1560 3 3 and 
+: 1564 3 3 for
+: 1568 5 6 get 
+: 1574 7 6 your 
+: 1582 6 6 name 
+- 1589
+* 1590 3 6 Step 
+* 1594 7 6 out
+* 1602 7 5 side 
+* 1610 3 5 your
+* 1614 6 5 self 
+- 1621
+* 1622 7 5 And 
+* 1630 7 6 let 
+* 1638 3 6 your 
+* 1642 7 6 thoughts 
+* 1650 8 6 drain 
+- 1660
+: 1674 3 3 As 
+: 1678 3 3 you 
+: 1682 7 3 go 
+: 1690 3 3 in
+: 1694 14 4 sane, 
+: 1710 7 4 go 
+* 1718 7 4 in
+* 1726 68 7 sane 
+- 1796
+: 3118 5 3 In
+: 3124 5 3 nert 
+: 3130 10 6 flesh 
+: 3146 3 6 a 
+: 3150 5 6 blood
+: 3156 5 6 y 
+: 3162 6 3 tomb 
+- 3169
+: 3170 3 1 A 
+: 3174 5 3 dec
+: 3180 3 1 o
+: 3184 3 3 rat
+: 3188 3 3 ed 
+: 3192 3 3 splat
+: 3196 3 1 ter 
+: 3200 3 3 bright
+: 3204 3 1 ens 
+: 3208 3 1 the 
+: 3212 8 3 room 
+- 3222
+: 3242 3 3 An 
+: 3246 7 3 ex
+: 3254 3 3 e
+: 3258 7 6 cu
+: 3266 3 6 tion 
+- 3270
+: 3270 3 3 A 
+: 3274 7 6 sad
+: 3282 4 6 ist 
+: 3288 7 3 rit
+: 3296 6 3 ual 
+- 3303
+: 3304 5 1 Mad 
+: 3310 3 3 in
+: 3314 3 1 ter
+: 3318 3 3 vals 
+: 3322 3 1 of 
+: 3326 5 3 mind 
+: 3332 5 1 res
+: 3338 5 3 id
+: 3344 8 3 uals 
+- 3354
+: 3374 7 3 Close 
+: 3382 3 3 your 
+: 3386 7 3 eyes 
+: 3394 7 3 look 
+: 3402 7 6 deep 
+: 3410 3 6 in 
+: 3414 3 6 your 
+: 3418 7 6 soul 
+- 3426
+* 3426 3 6 Step 
+* 3430 7 6 out
+* 3438 7 5 side 
+* 3446 3 5 your
+* 3450 7 5 self 
+- 3458
+* 3458 7 5 And 
+* 3466 5 6 let 
+* 3472 3 6 your 
+* 3476 7 6 mind 
+* 3484 8 6 go 
+- 3494
+: 3500 7 3 Fro
+: 3508 3 3 zen 
+: 3512 7 3 eyes 
+: 3520 7 3 stare 
+: 3528 7 4 deep 
+: 3536 3 4 in 
+: 3540 3 4 your 
+: 3544 7 4 mind 
+- 3552
+: 3552 3 4 As 
+: 3556 3 4 you 
+* 3560 44 7 die 
+- 3606
+* 3626 7 3 Close 
+* 3634 3 3 your 
+* 3638 7 3 eyes 
+* 3646 3 3 and 
+* 3650 3 3 for
+* 3654 7 6 get 
+* 3662 7 6 your 
+* 3670 7 6 name 
+- 3678
+: 3678 3 6 Step 
+: 3682 7 6 out
+: 3690 7 5 side 
+: 3698 3 5 your
+: 3702 7 5 self 
+- 3710
+: 3710 7 5 And 
+: 3718 7 6 let 
+: 3726 3 6 your 
+: 3730 7 6 thoughts 
+: 3738 8 6 drain 
+- 3748
+* 3760 3 3 As 
+* 3764 3 3 you 
+* 3768 7 3 go 
+* 3776 3 3 in
+* 3780 15 4 sane, 
+* 3796 7 5 go 
+* 3804 7 5 in
+* 3812 67 9 sane
+* 3880 32 9 ~ 
+E

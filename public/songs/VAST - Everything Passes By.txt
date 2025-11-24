@@ -1,0 +1,197 @@
+#ARTIST:VAST
+#TITLE:Everything Passes By
+#MP3:VAST - Everything Passes By.mp3
+#CREATOR:lava
+#COVER:VAST - Everything Passes By [CO].jpg
+#BACKGROUND:VAST - Everything Passes By [BG].jpg
+#GENRE:Rock
+#YEAR:2007
+#LANGUAGE:English
+#BPM:299.5
+#GAP:24600
+#VIDEO:v=b9ZXkWiF0zU,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/63/2b/6d632b56-09f8-8720-849c-aab7d77d9a43/mzi.ureqdytj.jpg/5000x5000bb.jpg
+: 0 6 9 Wan
+: 9 3 9 na 
+: 16 4 9 stay 
+: 22 4 7 here 
+: 28 4 5 for
+: 35 7 7 ev
+: 46 15 5 er 
+- 80
+: 112 2 7 Feel
+: 115 4 7 ing 
+: 122 3 7 the 
+: 127 7 7 warmth 
+: 139 3 5 from 
+: 145 3 5 your 
+: 152 12 5 skin 
+- 183
+: 230 7 12 How 
+: 239 4 12 was 
+: 245 3 12 I 
+: 251 3 10 to 
+: 257 6 9 know 
+: 266 3 7 li
+: 271 5 9 fe 
+: 278 5 7 wo
+: 285 8 5 uld 
+- 303
+: 315 5 7 Make 
+: 321 4 5 a 
+: 328 5 10 joke 
+: 335 5 9 out 
+: 343 4 7 of 
+: 351 8 5 all 
+: 364 2 5 o
+: 368 10 7 ur 
+: 382 17 5 love 
+- 438
+: 536 5 5 Eve
+: 542 4 7 ry
+: 548 12 9 thing 
+: 562 7 10 pass
+: 571 5 9 ing 
+: 578 4 7 b
+: 584 5 2 y 
+: 593 6 2 is 
+: 606 19 5 not 
+: 651 4 5 com
+: 657 3 7 ing 
+: 666 11 5 back 
+- 716
+: 914 3 9 How 
+: 920 2 9 could 
+: 924 8 9 I 
+: 934 4 7 be 
+: 941 3 5 so 
+: 946 8 7 ca
+: 956 5 5 re
+: 963 10 5 less 
+- 992
+: 1023 1 7 It’s 
+: 1026 4 7 not 
+: 1032 7 7 like 
+: 1041 5 7 we’d 
+: 1048 4 5 live 
+: 1054 5 7 for
+: 1061 13 7 ev
+: 1076 3 7 e
+: 1081 7 9 r 
+- 1107
+: 1137 7 12 How 
+: 1146 4 12 was 
+: 1153 4 12 I 
+: 1160 2 10 to 
+: 1166 6 9 know 
+: 1175 3 7 li
+: 1180 5 9 fe 
+: 1187 5 7 wo
+: 1194 8 5 uld 
+- 1212
+: 1224 5 7 Make 
+: 1230 4 5 a 
+: 1237 5 10 joke 
+: 1244 5 9 out 
+: 1252 4 7 of 
+: 1260 8 5 all 
+: 1273 2 5 o
+: 1277 8 7 ur 
+: 1289 19 5 love 
+- 1347
+: 1445 5 5 Eve
+: 1452 4 7 ry
+: 1459 10 9 thing 
+: 1472 5 10 pass
+: 1479 6 9 ing 
+: 1487 5 7 b
+: 1494 5 2 y 
+: 1503 8 2 is 
+: 1514 16 5 not 
+- 1540
+: 1561 3 10 Com
+: 1566 6 9 ing 
+: 1574 13 0 back 
+- 1626
+* 1674 5 5 Eve
+* 1680 3 7 ry
+* 1686 13 9 thing 
+* 1701 5 10 pass
+* 1708 5 9 ing 
+* 1716 5 7 b
+* 1723 5 2 y 
+* 1731 7 2 is 
+* 1745 16 5 not 
+- 1771
+* 1787 5 5 Com
+* 1794 4 7 ing 
+* 1801 30 5 back 
+- 1870
+: 2277 4 9 Let 
+: 2283 3 9 me 
+: 2290 3 9 sta
+: 2294 1 7 y 
+: 2297 4 7 here 
+: 2303 6 5 for
+: 2311 11 7 e
+: 2324 3 9 ~
+: 2329 2 7 ~
+: 2334 38 5 ver 
+- 2381
+: 2384 3 7 Feel
+: 2389 5 7 ing 
+: 2397 3 7 the 
+: 2401 6 7 love 
+: 2411 5 5 from 
+: 2418 4 5 your 
+: 2426 23 5 soul 
+- 2468
+: 2504 5 12 I’d 
+: 2512 4 12 give 
+: 2518 4 12 up 
+: 2524 4 10 on 
+: 2530 7 9 my 
+: 2540 7 9 d
+: 2548 4 7 a
+: 2553 20 5 ys 
+- 2584
+: 2588 4 7 To 
+: 2594 5 5 have 
+: 2602 3 10 just 
+: 2609 6 9 one 
+: 2617 6 7 more 
+: 2627 8 5 day 
+: 2639 6 7 wi
+: 2647 4 5 th 
+: 2653 21 5 you 
+- 2713
+: 2809 5 5 Eve
+: 2816 5 7 ry
+: 2823 10 9 thing 
+: 2837 6 10 pass
+: 2845 4 9 ing 
+: 2852 9 7 b
+: 2862 6 2 y 
+: 2870 7 2 is 
+: 2880 17 5 not 
+- 2907
+: 2923 6 10 Com
+: 2932 4 9 ing 
+: 2939 23 0 back 
+- 2981
+* 3041 2 5 Eve
+* 3045 6 5 ry
+* 3053 11 5 thing 
+* 3066 6 5 pass
+* 3074 3 2 ing 
+* 3083 11 5 by 
+* 3096 3 5 i
+* 3100 3 2 s 
+* 3112 16 5 not 
+- 3138
+* 3152 5 5 Com
+* 3159 4 7 ing 
+* 3168 21 5 back 
+- 3228
+: 3290 40 7 Yeah 
+: 3336 43 5 yeah 
+E

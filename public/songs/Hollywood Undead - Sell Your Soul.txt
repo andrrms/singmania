@@ -1,0 +1,549 @@
+#ARTIST:Hollywood Undead
+#TITLE:Sell Your Soul
+#MP3:Hollywood Undead - Sell Your Soul.mp3
+#CREATOR:reck0ning
+#GENRE:Alternative
+#YEAR:2009
+#LANGUAGE:English
+#BPM:280.06
+#GAP:42120
+#VIDEO:v=jBnRLciQEAk,co=desperate-measures-54b2d071e5d0f.jpg,bg=hollywood-undead-613c749da67b9.jpg
+: 0 2 6 I’m 
+: 4 6 18 hol
+: 12 6 13 ding 
+: 20 5 14 on 
+: 28 5 11 so 
+: 36 6 13 tight
+: 44 5 9 ly 
+: 52 8 11 now 
+- 72
+: 76 6 6 My 
+: 84 6 8 in
+: 92 5 9 side 
+: 100 5 11 scream 
+: 108 6 9 so 
+: 116 8 8 loud 
+- 130
+: 132 6 18 They 
+: 140 4 13 keep 
+: 148 6 14 wat
+: 156 4 11 ching, 
+: 164 6 13 wat
+: 172 2 9 ching 
+: 176 2 9 me 
+: 180 6 11 drow
+: 188 4 8 n 
+- 201
+: 204 6 6 How 
+: 212 6 8 did 
+: 220 4 9 it 
+: 228 4 9 come 
+: 236 6 11 to 
+: 244 4 8 this? 
+- 260
+: 264 2 6 How 
+: 268 2 6 did 
+: 272 2 6 it 
+: 276 4 6 come 
+: 284 2 6 to 
+: 288 4 6 this? 
+- 294
+: 296 2 6 How 
+: 300 2 6 did 
+: 304 2 6 I 
+: 308 2 6 know 
+: 312 2 6 it 
+: 316 2 6 was 
+: 320 3 6 you? 
+- 326
+: 328 2 6 It 
+: 332 2 6 was 
+: 336 2 6 a 
+: 340 5 6 bad 
+: 348 2 6 dream 
+: 352 2 6 as
+: 356 2 6 phy
+: 360 2 6 xi
+: 364 2 6 a
+: 368 2 6 ted, 
+: 372 2 6 watch 
+: 376 2 6 me 
+: 380 4 6 bleed 
+- 390
+: 392 2 6 The 
+: 396 2 6 life 
+: 400 2 6 sup
+: 404 5 6 port 
+: 412 2 6 was 
+: 416 3 6 cut, 
+- 422
+: 424 2 6 The 
+: 428 2 6 knot 
+: 432 2 6 was 
+: 436 6 6 too 
+: 444 4 6 tight 
+- 454
+: 456 2 6 They 
+: 460 2 6 push 
+: 464 2 6 and 
+: 468 2 6 pull 
+: 472 2 6 me 
+- 474
+: 476 2 6 But 
+: 480 2 6 they 
+: 484 2 9 know 
+: 488 2 6 they’ll 
+: 492 2 6 ne
+: 496 2 4 ver 
+: 500 3 6 win 
+- 506
+F 508 2 7 Throw 
+F 512 2 7 it 
+F 516 4 7 all 
+F 524 1 7 a
+F 528 6 7 way! 
+- 538
+F 540 1 7 Throw 
+F 544 1 7 it 
+F 548 5 7 all 
+F 556 1 7 a
+F 560 6 7 way! 
+- 576
+* 584 2 6 I 
+* 588 2 6 keep 
+* 592 2 6 on 
+* 596 2 9 screa
+* 600 2 6 ming 
+- 602
+: 604 2 6 But 
+: 608 2 6 there’s 
+: 612 2 9 real
+: 616 2 9 ly 
+: 620 2 9 no
+: 624 2 9 thing 
+: 628 2 9 left 
+: 632 2 6 to 
+: 636 2 6 say 
+- 638
+F 640 1 7 So 
+F 644 1 7 get 
+F 648 4 7 a
+F 656 3 7 way! 
+- 668
+F 672 1 7 Just 
+F 676 1 7 get 
+F 680 4 7 a
+F 688 5 7 way! 
+- 703
+: 712 2 6 I 
+: 716 2 6 keep 
+: 720 2 6 on 
+: 724 2 9 figh
+: 728 2 6 ting 
+: 732 2 6 but 
+: 736 2 6 I 
+: 740 2 8 can’t 
+: 744 2 9 keep 
+: 748 2 9 go
+: 752 2 9 ing 
+: 756 2 9 on 
+: 760 2 6 this 
+: 764 2 6 way 
+- 766
+: 768 2 6 I 
+: 772 6 18 can’t 
+: 780 4 13 keep 
+: 788 6 14 go
+: 796 4 11 ing, 
+: 804 6 18 can’t 
+: 812 4 13 keep 
+: 820 6 14 go
+: 828 4 11 ing 
+: 836 4 13 on 
+: 844 4 9 like 
+: 852 3 11 this 
+- 858
+: 860 4 8 They 
+: 868 4 9 make 
+: 876 4 6 me 
+: 884 4 8 sick 
+: 904 2 6 and 
+: 908 4 6 I 
+: 916 4 8 get 
+: 924 4 9 so 
+: 932 4 11 sick 
+: 940 4 9 of 
+: 948 4 8 it 
+- 958
+: 960 2 6 ’Cause 
+* 964 6 18 they 
+: 972 5 13 won’t 
+: 980 4 14 let 
+: 988 2 11 me, 
+: 992 2 11 they 
+: 996 6 13 won’t 
+: 1004 2 9 let 
+: 1008 2 9 me 
+: 1012 8 11 breathe 
+- 1032
+: 1036 6 6 Why 
+: 1044 4 8 can’t 
+: 1052 6 9 they 
+: 1060 4 9 let 
+: 1068 6 11 me 
+: 1076 4 8 be? 
+- 1092
+: 1096 2 6 Why 
+: 1100 2 6 can’t 
+: 1104 2 6 they 
+: 1108 3 6 let 
+: 1116 2 6 me 
+: 1120 3 6 be? 
+- 1126
+: 1128 2 6 Why 
+: 1132 2 6 don’t 
+: 1136 2 6 I 
+: 1140 2 6 know 
+: 1144 2 6 what 
+: 1148 2 6 I 
+: 1152 4 6 am? 
+- 1158
+: 1160 2 4 I 
+: 1164 2 6 force 
+: 1168 2 6 this 
+: 1172 2 6 hate 
+: 1176 2 6 in
+: 1180 2 6 to 
+: 1184 2 6 my 
+: 1188 2 6 heart 
+- 1190
+: 1192 2 6 ’Cause 
+: 1196 2 6 it’s 
+: 1200 2 6 my 
+: 1204 2 6 on
+: 1208 2 6 ly 
+: 1212 4 6 friend 
+- 1222
+: 1224 2 7 My 
+: 1228 2 7 lips 
+: 1232 2 7 are 
+: 1236 5 7 sewn 
+: 1244 4 7 shut, 
+- 1254
+: 1256 2 7 I 
+: 1260 2 7 watch 
+: 1264 2 7 my
+: 1268 5 7 self 
+: 1276 4 7 bleed 
+- 1286
+: 1288 2 7 They 
+: 1292 2 7 push 
+: 1296 2 7 and 
+: 1300 2 7 pull 
+: 1304 2 7 me 
+- 1306
+: 1308 2 6 And 
+: 1312 2 6 it’s 
+: 1316 2 9 ki
+: 1320 2 6 lling 
+: 1324 2 6 me 
+: 1328 2 4 with
+: 1332 2 6 in 
+- 1338
+F 1340 1 7 Throw 
+F 1344 1 7 it 
+F 1348 2 7 all 
+F 1356 3 7 a
+F 1360 4 7 way! 
+- 1370
+F 1372 1 7 Throw 
+F 1376 1 7 it 
+F 1380 4 7 all 
+F 1388 3 7 a
+F 1392 4 7 way! 
+- 1406
+: 1416 2 6 I 
+: 1420 2 6 keep 
+: 1424 2 6 on 
+: 1428 2 9 screa
+: 1432 2 6 ming 
+- 1434
+: 1436 2 6 But 
+: 1440 2 6 there’s 
+: 1444 2 9 real
+: 1448 2 9 ly 
+: 1452 2 9 no
+: 1456 2 9 thing 
+: 1460 2 9 left 
+: 1464 2 6 to 
+: 1468 3 6 say 
+- 1471
+F 1472 1 7 So 
+F 1476 1 7 get 
+F 1480 6 7 a
+F 1488 4 7 way! 
+- 1501
+F 1504 1 7 Just 
+F 1508 1 7 get 
+F 1512 4 7 a
+F 1520 8 7 way! 
+- 1540
+: 1544 2 6 I 
+: 1548 2 6 keep 
+: 1552 2 6 on 
+: 1556 2 9 figh
+: 1560 2 6 ting 
+: 1564 2 6 but 
+: 1568 2 6 I 
+: 1572 2 8 can’t 
+: 1576 2 9 keep 
+: 1580 2 9 go
+: 1584 2 9 ing 
+: 1588 2 9 on 
+: 1592 2 6 this 
+: 1596 3 6 way 
+- 1599
+: 1600 2 6 I 
+* 1604 6 18 can’t 
+: 1612 4 13 keep 
+: 1620 6 14 go
+: 1628 4 11 ing, 
+* 1636 6 18 can’t 
+: 1644 4 13 keep 
+: 1652 6 14 go
+: 1660 4 11 ing 
+: 1668 5 13 on 
+: 1676 4 14 this 
+* 1684 10 13 way
+* 1696 2 11 ~
+* 1700 12 9 ~ 
+- 1724
+: 1728 2 6 I 
+: 1732 6 18 can’t 
+: 1740 4 13 keep 
+: 1748 6 14 go
+: 1756 4 11 ing, 
+* 1764 4 18 can’t 
+* 1772 5 20 keep 
+* 1780 6 21 go
+* 1788 4 20 ing 
+* 1796 8 21 on 
+* 1812 8 20 this 
+* 1828 20 18 way 
+- 1854
+F 1856 2 7 My 
+F 1860 4 7 heart 
+F 1868 4 7 beat 
+F 1876 2 7 stum
+F 1880 2 7 bles 
+F 1884 2 7 and 
+F 1888 2 7 my 
+F 1892 4 7 back 
+F 1900 3 7 bone 
+F 1908 2 7 crum
+F 1912 4 7 bles 
+- 1918
+F 1920 1 7 I 
+F 1924 1 7 feel, 
+F 1932 1 7 is 
+F 1936 1 7 it 
+F 1940 4 7 real 
+F 1948 1 7 as 
+F 1952 1 7 the 
+F 1956 3 7 lynch 
+F 1964 2 7 mob 
+F 1972 1 7 do
+F 1976 3 7 ubles? 
+- 1979
+F 1980 1 7 They 
+F 1984 1 7 want 
+F 1988 1 7 blood 
+F 1996 1 7 and 
+F 2000 1 7 they’ll 
+F 2004 1 7 kill 
+F 2012 1 7 for 
+F 2016 3 7 it 
+- 2019
+F 2020 1 7 Drain 
+F 2024 1 7 me 
+F 2028 1 7 and 
+F 2032 1 7 they’ll 
+F 2036 1 7 kneel 
+F 2044 1 7 for 
+F 2048 2 7 it 
+- 2050
+F 2052 1 7 Burn 
+F 2056 1 7 me 
+F 2060 1 7 at 
+F 2064 1 7 the 
+F 2068 2 7 stake, 
+F 2076 1 7 met 
+F 2080 1 7 the 
+F 2084 1 7 de
+F 2088 2 7 vil, 
+F 2092 1 7 made 
+F 2096 1 7 the 
+F 2100 2 7 deal 
+F 2108 1 7 for 
+F 2112 3 7 it 
+- 2115
+F 2116 2 7 Gui
+F 2120 1 7 llo
+F 2124 1 7 tine 
+F 2132 2 7 dreams, 
+F 2140 1 7 yeah 
+F 2144 1 7 their 
+F 2148 1 7 gui
+F 2152 1 7 llo
+F 2156 2 7 tine 
+F 2164 4 7 gleams 
+- 2174
+F 2176 1 7 The 
+F 2180 4 7 blood 
+F 2188 1 7 of 
+F 2192 1 7 their 
+F 2196 3 7 e
+F 2200 1 7 ne
+F 2204 1 7 mies 
+F 2212 1 7 wat
+F 2216 1 7 ching 
+F 2220 1 7 while 
+F 2224 1 7 they 
+F 2228 1 7 sen
+F 2232 1 7 tence 
+F 2240 3 7 me 
+- 2243
+F 2244 1 7 Sen
+F 2248 1 7 ten
+F 2252 1 7 cing 
+F 2256 4 7 ceased, 
+F 2276 1 7 sen
+F 2280 1 7 tence 
+F 2284 2 7 de
+F 2288 4 7 ceased 
+- 2294
+F 2296 1 7 And 
+F 2300 1 7 watch 
+F 2304 1 7 them 
+F 2308 4 7 bask 
+F 2316 1 7 in 
+F 2324 1 7 the 
+F 2328 1 7 glo
+F 2332 1 7 ry 
+F 2336 1 7 of 
+F 2339 1 7 their 
+F 2344 1 7 ho
+F 2348 1 7 ly 
+F 2352 1 7 di
+F 2356 4 7 sease 
+- 2362
+F 2364 1 7 Throw 
+F 2368 1 7 it 
+F 2372 4 7 all 
+F 2380 3 7 a
+F 2384 5 7 way! 
+- 2394
+F 2396 1 7 Throw 
+F 2400 1 7 it 
+F 2404 1 7 all 
+F 2408 4 7 a
+F 2416 4 7 way! 
+- 2430
+: 2440 2 6 I 
+: 2444 2 6 keep 
+: 2448 2 6 on 
+: 2452 2 9 screa
+: 2456 2 6 ming 
+- 2458
+: 2460 2 6 But 
+: 2464 2 6 there’s 
+: 2468 2 9 real
+: 2472 2 9 ly 
+: 2476 2 9 no
+: 2480 2 9 thing 
+: 2484 2 9 left 
+: 2488 2 6 to 
+: 2492 3 6 say 
+- 2495
+F 2496 1 7 So 
+F 2500 1 7 get 
+F 2504 5 7 a
+F 2512 7 7 way! 
+- 2525
+F 2528 2 7 Just 
+F 2532 1 7 get 
+F 2536 4 7 a
+F 2544 7 7 way! 
+- 2561
+: 2568 2 6 I 
+: 2572 2 6 keep 
+: 2576 2 6 on 
+: 2580 2 9 figh
+: 2584 2 6 ting 
+: 2588 2 6 but 
+: 2592 2 6 I 
+: 2596 2 9 can’t 
+: 2600 2 9 keep 
+: 2604 2 9 go
+: 2608 2 9 ing 
+: 2612 2 9 on 
+: 2616 2 6 this 
+: 2620 4 6 way 
+- 2630
+: 2632 2 6 I 
+: 2636 2 6 keep 
+: 2640 2 6 on 
+: 2644 2 9 run
+: 2648 4 6 ning 
+- 2661
+: 2664 2 6 I 
+: 2668 2 6 keep 
+: 2672 2 6 on 
+: 2676 2 9 run
+: 2680 4 6 ning 
+- 2693
+: 2696 2 6 I 
+: 2700 2 6 keep 
+: 2704 2 6 on 
+: 2708 2 9 run
+: 2712 2 6 ning 
+: 2716 2 6 but 
+: 2720 2 6 I 
+: 2724 2 9 can’t 
+: 2728 2 9 keep 
+: 2732 2 9 go
+: 2736 2 9 ing 
+: 2740 2 9 on 
+: 2744 2 6 this 
+: 2748 2 6 way 
+- 2757
+: 2760 2 6 I 
+: 2764 2 6 keep 
+: 2768 2 6 on 
+: 2772 2 9 run
+: 2776 4 6 ning 
+- 2789
+: 2792 2 6 I 
+: 2796 2 6 keep 
+: 2800 2 6 on 
+: 2804 3 9 run
+: 2808 4 6 ning 
+- 2821
+: 2824 2 6 I 
+: 2828 2 6 keep 
+: 2832 2 6 on 
+: 2836 2 9 run
+: 2840 2 6 ning 
+- 2842
+: 2844 2 6 But 
+: 2848 2 6 I 
+: 2852 2 9 can’t 
+: 2856 2 9 keep 
+: 2860 2 9 go
+: 2864 2 9 ing 
+: 2868 6 9 on 
+: 2876 4 6 this 
+* 2884 30 6 way
+* 2916 30 7 ~
+* 2948 32 6 -! 
+E

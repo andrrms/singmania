@@ -1,0 +1,250 @@
+#ARTIST:The Wiggles
+#TITLE:Play Your Guitar With Murray
+#MP3:The Wiggles - Play Your Guitar With Murray.mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#LANGUAGE:English
+#BPM:320
+#GAP:2480
+#VIDEO:a=OcoH4Nh6WmM,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 7 25 Play 
+: 8 3 23 your 
+: 12 3 21 gui
+: 16 5 21 tar 
+: 22 3 18 with 
+: 26 8 21 Mur
+: 35 1 18 ray
+: 37 3 16 ~ 
+- 42
+: 62 7 25 Play 
+: 70 3 23 your 
+: 74 3 21 gui
+: 78 7 21 tar 
+: 86 3 21 with 
+: 90 6 20 him 
+- 98
+: 124 7 25 Play 
+: 132 3 23 your 
+: 136 3 21 gui
+: 140 7 21 tar 
+: 148 3 18 with 
+: 152 7 21 Mur
+: 160 5 18 ray 
+- 167
+: 186 3 16 Let’s 
+: 190 8 16 all 
+: 199 8 14 play 
+: 208 7 11 and 
+: 216 10 9 sing 
+- 228
+: 244 3 16 He 
+: 248 3 18 loves 
+: 252 7 18 to 
+* 260 6 18 sing 
+- 267
+: 267 3 18 While 
+: 271 4 16 he 
+: 276 7 18 strums 
+: 284 7 20 a 
+: 292 12 21 chord 
+- 306
+: 310 7 21 Nya 
+: 318 7 18 nya 
+: 326 7 16 nya 
+- 334
+: 334 3 18 Nya 
+: 338 3 16 nya 
+* 342 3 21 nya 
+: 346 6 18 nya 
+: 354 12 16 nya 
+- 367
+: 368 3 16 He 
+: 372 5 18 loves 
+: 378 5 18 to 
+: 384 7 18 play 
+- 392
+: 392 6 18 For 
+: 400 5 18 Cap
+: 406 3 18 tain 
+: 410 3 20 Fea
+: 414 5 20 ther
+: 420 11 21 sword 
+- 433
+: 490 5 23 Now 
+: 496 7 25 play 
+: 504 3 23 your 
+: 508 3 21 gui
+: 512 5 21 tar 
+: 518 3 18 with 
+: 522 8 21 Mur
+: 531 1 18 ray
+: 533 3 16 ~ 
+- 538
+: 558 7 25 Play 
+: 566 3 23 your 
+: 570 3 21 gui
+: 574 7 21 tar 
+: 582 3 21 with 
+: 586 6 20 him 
+- 594
+: 620 7 25 Play 
+: 628 3 23 your 
+: 632 3 21 gui
+: 636 7 21 tar 
+: 644 3 18 with 
+: 648 7 21 Mur
+: 656 5 18 ray 
+- 663
+: 682 3 16 Let’s 
+: 686 8 16 all 
+: 695 8 14 play 
+: 704 7 11 and 
+: 712 10 9 sing 
+- 724
+: 740 3 16 He 
+: 744 3 18 loves 
+: 748 7 18 to 
+: 756 6 18 sing 
+- 763
+: 763 4 18 While 
+: 768 3 16 he 
+: 772 7 18 strums 
+: 780 7 20 a 
+: 788 12 21 chord 
+- 802
+: 806 7 21 Nya 
+: 814 7 18 nya 
+: 822 7 16 nya 
+- 830
+* 830 3 18 Nya 
+: 834 3 16 nya 
+: 838 3 21 nya 
+: 842 6 18 nya 
+: 850 12 16 nya 
+- 863
+: 864 3 16 He 
+: 868 5 18 loves 
+: 874 5 18 to 
+: 880 7 18 play 
+- 888
+: 888 6 18 For 
+: 896 5 18 Cap
+: 902 3 18 tain 
+* 906 3 20 Fea
+: 910 5 20 ther
+: 916 11 21 sword 
+- 929
+: 992 7 25 Play 
+: 1000 3 23 your 
+: 1004 3 21 gui
+: 1008 7 21 tar 
+: 1016 3 18 with 
+: 1020 7 21 Mur
+: 1028 5 16 ray 
+- 1035
+: 1056 6 25 Play 
+: 1063 3 23 your 
+* 1067 2 21 gui
+: 1071 6 21 tar 
+: 1078 4 21 with 
+: 1083 7 20 him 
+- 1092
+: 1118 6 25 Play 
+: 1125 2 23 your 
+: 1128 2 21 gui
+: 1132 6 21 tar 
+: 1140 3 18 with 
+: 1144 7 21 Mur
+: 1152 7 18 ray 
+- 1161
+: 1180 3 16 Let’s 
+: 1184 7 16 all 
+: 1192 6 14 play 
+: 1200 7 11 and 
+: 1208 8 9 sing 
+- 1218
+: 1488 7 25 Play 
+: 1496 3 23 your 
+: 1500 3 21 gui
+: 1504 8 21 tar 
+: 1513 3 18 with 
+: 1517 6 21 Mur
+: 1525 5 16 ray 
+- 1532
+* 1552 6 25 Play 
+: 1559 3 23 your 
+: 1563 2 21 gui
+: 1567 7 21 tar 
+: 1575 4 21 with 
+: 1580 6 20 him 
+- 1588
+: 1614 6 25 Play 
+: 1621 2 23 your 
+: 1624 4 21 gui
+: 1629 8 21 tar 
+: 1638 3 18 with 
+: 1642 7 21 Mur
+: 1650 7 18 ray 
+- 1659
+: 1676 2 16 Let’s 
+: 1680 7 16 all 
+: 1688 6 14 play 
+* 1696 7 11 and 
+: 1704 9 9 sing 
+- 1715
+* 1718 3 25 Come 
+: 1722 7 25 on 
+: 1730 7 25 and 
+- 1738
+: 1738 7 25 Play 
+: 1746 2 23 your 
+: 1749 3 21 gui
+: 1753 7 21 tar 
+: 1761 3 18 with 
+: 1765 6 21 Mur
+: 1772 6 18 ray 
+- 1780
+: 1800 7 25 Play 
+: 1808 2 23 your 
+: 1811 4 21 gui
+: 1816 6 21 tar 
+: 1823 4 21 with 
+: 1828 9 20 him 
+- 1839
+: 1862 7 25 Play 
+: 1870 3 23 your 
+: 1874 3 21 gui
+: 1878 7 21 tar 
+* 1886 3 18 with 
+: 1890 7 21 Mur
+: 1898 5 18 ray 
+- 1905
+: 1924 3 16 Let’s 
+: 1928 7 16 all 
+: 1936 7 16 play 
+: 1944 2 18 and
+: 1947 4 20 ~ 
+: 1952 10 21 sing 
+- 1964
+: 1986 3 28 Let’s 
+: 1990 7 28 all 
+: 1998 8 28 play 
+: 2007 7 25 and 
+: 2015 12 21 sing 
+- 2029
+: 2048 3 16 Let’s 
+: 2052 7 16 all 
+: 2060 10 16 play 
+- 2072
+: 2080 3 28 Let’s 
+: 2084 7 28 all 
+: 2092 10 28 play 
+- 2104
+: 2110 3 28 Let’s 
+: 2114 7 28 all 
+: 2122 7 28 play 
+: 2130 2 30 and
+: 2133 4 32 ~ 
+* 2138 70 33 sing 
+E

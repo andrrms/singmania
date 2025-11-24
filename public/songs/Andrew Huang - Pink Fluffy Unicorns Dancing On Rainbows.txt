@@ -1,0 +1,190 @@
+#ARTIST:Andrew Huang
+#TITLE:Pink Fluffy Unicorns Dancing On Rainbows
+#MP3:Andrew Huang - Pink Fluffy Unicorns Dancing On Rainbows.mp3
+#CREATOR:Bluescreen
+#GENRE:Comedy
+#YEAR:2011
+#LANGUAGE:English
+#BPM:235.74
+#GAP:17600
+#VIDEO:v=qRC4Vk6kisY,co=https://i.ytimg.com/vi/qRC4Vk6kisY/maxresdefault.jpg,co-crop=280-0-720-720,bg=https://i.ytimg.com/vi/qRC4Vk6kisY/maxresdefault.jpg
+: 0 7 12 Pink 
+: 9 2 9 fluff
+: 13 2 12 y 
+: 16 4 9 u
+: 21 3 7 ni
+: 25 6 5 corns 
+- 32
+: 33 3 2 Dan
+: 37 2 5 cing 
+: 41 3 7 on 
+: 45 6 12 rain
+: 54 6 0 bows 
+- 62
+: 65 5 12 Pink 
+: 72 3 9 fluff
+: 76 3 12 y 
+: 80 4 9 u
+: 85 3 7 ni
+: 89 6 5 corns 
+- 96
+: 97 2 2 Dan
+: 100 2 5 cing 
+: 104 2 7 on 
+: 109 6 12 rain
+: 116 8 0 bows 
+- 126
+: 129 5 12 Pink 
+: 136 3 9 fluff
+: 140 3 12 y 
+: 144 4 9 u
+: 149 3 7 ni
+: 153 6 5 corns 
+- 160
+: 160 3 2 Dan
+: 164 2 5 cing 
+: 169 2 7 on 
+: 172 6 12 rain
+: 180 7 0 bows 
+- 189
+: 193 5 12 Pink 
+: 200 3 9 fluff
+: 204 3 12 y 
+* 208 3 9 u
+* 212 3 7 ni
+* 216 6 5 corns 
+- 223
+: 224 3 2 Dan
+: 228 2 5 cing 
+: 233 2 7 on 
+: 236 6 12 rain
+: 244 7 0 bows 
+- 253
+F 262 17 10 Let’s test your knowledge 
+- 280
+F 280 19 10 And see what you’ve learned so far 
+- 301
+F 309 32 10 What colour are the unicorns? 
+- 342
+F 342 10 10 Pink 
+- 354
+F 368 27 10 Where are they dancing? 
+- 397
+F 400 47 10 Rainbows 
+- 449
+F 459 20 10 Please use one word 
+- 480
+F 480 20 10 To describe the texture 
+- 501
+F 501 26 10 Of their magical fur 
+- 529
+F 569 21 10 Smiles 
+- 591
+F 592 42 10 Yeah 
+- 636
+: 640 7 12 Pink 
+: 649 2 9 fluff
+: 653 2 12 y 
+: 656 4 9 u
+: 661 3 7 ni
+: 665 6 5 corns 
+- 672
+: 673 3 2 Dan
+: 677 2 5 cing 
+: 681 3 7 on 
+: 685 6 12 rain
+: 694 6 0 bows 
+- 702
+: 705 5 12 Pink 
+: 712 3 9 fluff
+: 716 3 12 y 
+: 720 4 9 u
+: 725 3 7 ni
+: 729 6 5 corns 
+- 736
+: 737 2 2 Dan
+: 740 2 5 cing 
+: 744 2 7 on 
+: 749 6 12 rain
+: 756 8 0 bows 
+- 766
+: 769 5 12 Pink 
+: 776 3 9 fluff
+: 780 3 12 y 
+: 784 4 9 u
+: 789 3 7 ni
+: 793 6 5 corns 
+- 800
+: 800 3 2 Dan
+: 804 2 5 cing 
+: 809 2 7 on 
+: 812 6 12 rain
+: 820 7 0 bows 
+- 829
+: 833 5 12 Pink 
+: 840 3 9 fluff
+: 844 3 12 y 
+: 848 3 9 u
+: 852 3 7 ni
+: 856 6 5 corns 
+- 863
+: 864 3 2 Dan
+: 868 2 5 cing 
+: 873 2 7 on 
+: 876 6 12 rain
+: 884 7 0 bows 
+- 893
+: 896 7 12 Pink 
+: 905 2 9 fluff
+: 909 2 12 y 
+: 912 4 9 u
+: 917 3 7 ni
+: 921 6 5 corns 
+- 928
+: 929 3 2 Dan
+: 933 2 5 cing 
+: 937 3 7 on 
+: 941 6 12 rain
+: 950 6 0 bows 
+- 958
+: 961 5 12 Pink 
+: 968 3 9 fluff
+: 972 3 12 y 
+: 976 4 9 u
+: 981 3 7 ni
+: 985 6 5 corns 
+- 992
+: 993 2 2 Dan
+: 996 2 5 cing 
+: 1000 2 7 on 
+: 1005 6 12 rain
+: 1012 8 0 bows 
+- 1022
+: 1025 5 12 Pink 
+: 1032 3 9 fluff
+: 1036 3 12 y 
+: 1040 4 9 u
+: 1045 3 7 ni
+: 1049 6 5 corns 
+- 1056
+: 1056 3 2 Dan
+: 1060 2 5 cing 
+: 1065 2 7 on 
+: 1068 6 12 rain
+: 1076 7 0 bows 
+- 1085
+: 1089 5 12 Pink 
+: 1096 3 9 fluff
+: 1100 3 12 y 
+* 1104 3 9 u
+* 1108 3 7 ni
+* 1112 6 5 corns 
+- 1119
+: 1120 3 2 Dan
+: 1124 2 5 cing 
+: 1129 2 7 on 
+: 1132 3 2 dan
+: 1136 2 5 cing 
+: 1141 2 7 on 
+* 1144 3 12 rain 
+E

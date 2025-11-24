@@ -1,0 +1,248 @@
+#ARTIST:Little Eva
+#TITLE:The Loco-Motion
+#MP3:Little Eva - The Loco-Motion.mp3
+#CREATOR:bohning
+#COVER:Little Eva - The Loco-Motion [CO].jpg
+#BACKGROUND:Little Eva - The Loco-Motion [BG].jpg
+#GENRE:Pop
+#YEAR:1962
+#LANGUAGE:English
+#BPM:259.6
+#GAP:8500
+#VIDEO:v=eKpVQm41f8Y,co=https://f4.bcbits.com/img/a0751280027_10.jpg,bg=little-eva-52078693160d5.jpg
+: 0 5 5 Eve
+: 6 1 7 ry
+: 8 3 5 bo
+: 12 5 7 dy’s 
+: 18 7 9 do
+: 26 3 5 in’ 
+: 30 3 0 a 
+: 34 5 2 brand 
+: 40 5 2 new 
+: 46 5 2 dance 
+: 52 16 5 now 
+- 70
+: 126 3 5 I 
+: 130 7 7 know 
+: 138 7 7 to 
+: 146 5 9 like 
+: 152 3 7 it 
+: 156 3 5 if 
+: 160 3 0 you 
+: 164 3 2 give 
+: 168 3 2 it 
+: 172 1 0 a 
+: 174 9 2 chance 
+: 184 12 5 now 
+- 198
+: 256 3 10 My 
+: 260 3 12 lit
+: 264 3 10 tle 
+: 268 5 12 ba
+: 274 3 14 by 
+: 278 7 12 sis
+: 286 3 10 ter 
+- 290
+: 290 3 5 Can 
+: 294 3 7 do 
+: 298 3 7 it 
+: 302 3 5 with 
+: 306 8 7 ease 
+- 316
+: 322 3 5 It’s 
+: 326 5 10 ea
+: 332 5 10 sier 
+: 338 3 12 than 
+: 342 7 14 lear
+: 350 5 10 nin’ 
+: 356 3 5 your 
+: 360 3 7 A
+: 364 7 7 B
+: 372 8 7 C’s 
+- 382
+: 386 9 14 So c’
+: 396 7 12 mon, 
+: 404 3 9 c’
+: 408 7 7 mon, 
+- 416
+: 416 11 9 Do 
+: 428 3 7 the 
+: 432 3 9 lo
+: 436 3 7 co
+: 440 3 9 mo
+: 444 3 12 tion 
+: 448 3 9 with 
+: 452 12 5 me 
+- 466
+: 478 3 5 You 
+: 482 3 9 got
+: 486 1 12 ta 
+: 488 9 14 swing 
+: 498 7 12 your 
+: 506 7 9 hips 
+: 514 8 7 now 
+- 524
+: 542 3 7 C’
+: 546 5 2 mon 
+: 552 5 5 ba
+: 558 6 7 by, 
+: 576 5 14 jump 
+: 582 8 12 back, 
+: 608 5 14 jump 
+: 614 12 12 back 
+- 628
+: 638 3 5 Oh 
+: 642 3 9 well, 
+: 646 3 12 I 
+: 650 7 14 think 
+: 658 7 12 you’ve 
+: 666 7 12 got 
+: 674 1 9 the 
+: 676 7 12 kna
+: 684 8 14 ~ck 
+- 694
+: 712 5 5 Now 
+: 718 3 7 that 
+: 722 3 9 you 
+: 726 3 7 can 
+: 730 7 5 do 
+: 738 6 0 it 
+: 746 5 2 let’s 
+: 752 3 2 make 
+: 756 1 0 a 
+: 758 9 2 chain, 
+: 768 16 5 now 
+- 786
+: 840 7 5 I Chug-
+: 848 3 7 a-
+: 852 5 5 chug-
+: 858 1 7 a-
+: 860 3 9 mo
+: 864 3 7 tion 
+- 868
+: 868 5 5 Like 
+: 874 1 0 a 
+: 876 7 2 rail
+: 884 5 2 way 
+: 890 7 2 train 
+: 898 12 5 now 
+- 912
+: 972 5 10 Do 
+: 978 3 12 it 
+: 982 3 10 nice 
+: 986 3 12 and 
+: 990 3 13 ea
+: 994 3 12 sy 
+: 998 7 10 now 
+- 1006
+: 1006 5 7 Don’t 
+: 1012 1 7 lose 
+: 1014 3 5 con
+: 1018 10 7 trol 
+- 1030
+: 1034 3 5 A 
+: 1038 3 10 lit
+: 1042 3 12 tle 
+: 1046 3 10 bit 
+: 1050 3 12 of 
+: 1054 3 13 rhy
+: 1058 5 12 thm 
+: 1064 3 10 and 
+: 1068 3 5 a 
+: 1072 3 7 lot
+: 1076 5 7 ta 
+: 1082 10 7 soul 
+- 1094
+: 1102 5 14 C’
+: 1108 7 12 mon, 
+: 1116 3 9 c’
+: 1120 8 7 mon, 
+: 1132 9 7 do 
+: 1142 3 7 the 
+: 1146 3 9 lo
+: 1150 3 7 co
+: 1154 3 9 mo
+: 1158 3 12 tion 
+: 1162 3 9 with 
+: 1166 12 5 me 
+- 1180
+: 1426 3 7 Move 
+: 1430 3 5 a
+: 1434 3 7 round 
+: 1438 3 9 the 
+: 1442 7 7 floor 
+: 1450 3 5 in 
+: 1454 3 0 a 
+: 1458 7 2 lo
+: 1466 3 2 co
+: 1470 5 2 mo
+: 1476 16 5 tion 
+- 1494
+: 1554 5 5 Do 
+: 1560 3 7 it 
+: 1564 3 5 hol
+: 1568 3 7 din’ 
+: 1572 8 9 hands 
+- 1582
+: 1586 3 5 If 
+: 1590 3 0 you 
+: 1594 3 2 get 
+: 1598 1 0 the 
+: 1600 5 2 no
+: 1606 16 5 tion 
+- 1624
+: 1682 3 10 There’s 
+: 1686 3 12 ne
+: 1690 3 10 ver 
+: 1694 3 12 been 
+: 1698 3 14 a 
+: 1702 7 12 dance 
+- 1710
+: 1710 5 10 That’s 
+: 1716 3 5 so 
+: 1720 3 7 ea
+: 1724 3 7 sy 
+: 1728 1 5 to 
+: 1730 8 7 do 
+- 1740
+: 1746 3 5 It 
+: 1750 5 10 e
+: 1756 3 12 ven 
+: 1760 3 10 makes 
+: 1764 1 12 you 
+: 1766 5 14 hap
+: 1772 1 12 py 
+- 1774
+: 1774 5 10 When 
+: 1780 3 5 you’re 
+: 1784 5 7 fee
+: 1790 5 7 lin’ 
+: 1796 10 7 blue 
+- 1808
+: 1810 9 14 So c’ 
+: 1820 7 12 mon, 
+: 1828 3 9 c’
+: 1832 7 5 mon, 
+: 1840 11 7 do 
+: 1852 3 7 the 
+: 1856 5 9 lo
+: 1862 3 7 co
+: 1866 3 9 mo
+: 1870 3 12 tion 
+: 1874 3 9 with 
+: 1878 8 5 me 
+- 1888
+: 1900 5 5 You 
+: 1906 3 9 got
+: 1910 1 12 ta 
+: 1912 9 14 swing 
+: 1922 7 12 your 
+: 1930 7 9 hips 
+: 1938 8 7 now 
+- 1948
+: 1970 5 5 That’s 
+: 1976 6 7 right 
+: 1998 3 7 you 
+: 2002 7 5 jump’n 
+: 2010 12 7 back 
+E

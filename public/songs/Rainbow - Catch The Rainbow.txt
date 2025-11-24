@@ -1,0 +1,200 @@
+#ARTIST:Rainbow
+#TITLE:Catch The Rainbow
+#MP3:Rainbow - Catch The Rainbow.mp3
+#CREATOR:Pandorasings
+#YEAR:1975
+#LANGUAGE:English
+#BPM:255.2
+#GAP:30500
+#VIDEO:a=V5QukAC-jqE,co=https://i.discogs.com/guIkOANYS5Y37MJ1OMrzIaewlED69UbZ52NYKrP5TPo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTM5/NDItMTYxOTExNzEx/MS0zMjY1LmpwZWc.jpeg,co-crop=22-22-552-552,bg=rainbow-51b22d4b75e1c.jpg
+: 0 4 -1 When 
+: 8 4 2 eve
+: 16 4 7 ning 
+* 24 28 4 falls 
+- 54
+: 60 4 2 She’ll 
+: 68 3 -1 ru
+: 72 3 -3 ~n 
+: 76 4 -5 to 
+: 84 24 -1 me 
+- 110
+: 128 4 -1 Like 
+: 136 4 -3 whis
+: 144 4 -5 pered 
+* 152 24 -3 dreams 
+- 178
+: 192 4 -1 Your 
+: 200 8 -3 eyes 
+: 212 8 -5 can’t 
+: 224 3 -10 see
+: 228 12 -8 ~ 
+- 242
+: 328 4 2 Soft 
+: 336 4 7 and 
+* 344 24 4 warm 
+- 370
+: 384 3 2 She’
+: 388 3 -1 ~ll 
+: 392 4 -2 touch 
+: 400 4 -4 my 
+: 408 3 0 fa
+: 412 3 -2 ~
+: 416 3 2 ~
+: 420 8 0 ~ce 
+- 430
+: 452 3 0 A 
+: 456 4 0 bed 
+: 464 4 -5 of 
+: 472 20 -3 straw 
+- 494
+: 516 3 -3 A
+: 520 3 1 gai
+: 524 4 -5 ~nst 
+: 532 4 -10 the 
+: 540 24 -8 lace 
+- 566
+: 648 4 -7 We 
+: 656 4 1 be
+: 664 32 -2 lieved 
+- 698
+: 708 4 0 We’ll 
+: 716 3 -2 catch 
+: 720 4 -3 the 
+: 728 4 -8 rain
+: 736 20 -7 bow 
+- 758
+: 776 4 -7 Ride 
+: 784 4 -3 the 
+* 792 32 -2 wind 
+- 826
+: 840 3 -3 To
+: 844 4 -5 ~ 
+: 852 4 -7 the 
+: 860 12 -7 sun 
+- 874
+* 904 4 -7 Sail 
+* 912 4 -3 a
+* 920 24 -2 way 
+- 946
+: 960 4 0 On 
+: 968 4 -2 ships 
+: 976 4 -3 of 
+: 984 4 -8 won
+: 992 24 -7 der 
+- 1018
+: 1044 4 0 But 
+* 1052 12 2 life’s 
+: 1068 3 4 not 
+: 1072 4 3 a 
+* 1084 12 4 wheel 
+- 1098
+: 1104 4 4 With 
+* 1112 16 5 chains 
+: 1132 3 9 made 
+: 1136 4 10 of 
+* 1144 16 7 steel 
+- 1162
+: 1168 4 5 So 
+: 1176 4 7 bless 
+: 1184 4 5 me
+* 1192 20 5 ~ 
+- 1214
+: 1224 3 7 Co
+: 1228 8 6 ~me 
+: 1240 4 5 the 
+: 1248 24 4 dawn 
+- 1274
+: 1288 3 7 Co
+: 1292 8 6 ~me 
+: 1308 4 4 the 
+: 1316 20 4 dawn 
+- 1338
+: 1352 3 7 Co
+: 1356 11 6 ~
+: 1368 8 5 ~me 
+: 1384 4 4 the 
+: 1392 12 4 dawn 
+- 1406
+: 1416 3 7 Co
+: 1420 8 6 ~me 
+: 1440 4 4 the 
+: 1448 32 4 dawn 
+- 1482
+: 2368 4 -7 We 
+: 2380 3 -3 be
+: 2384 20 -2 lieved 
+- 2406
+: 2424 4 0 We’d 
+: 2432 3 -2 catch 
+: 2436 4 -3 the 
+: 2448 3 -8 rain
+: 2452 24 -7 bow 
+- 2478
+: 2496 4 -7 Ride 
+: 2504 4 -3 a
+* 2512 28 -2 way 
+- 2542
+: 2560 3 -3 To
+: 2564 8 -5 ~ 
+: 2580 4 -7 the 
+: 2588 20 -7 sun 
+- 2610
+: 2624 3 -7 Sail 
+: 2628 4 -3 a
+* 2636 24 -2 way 
+- 2662
+: 2676 4 0 On 
+: 2684 4 -2 ships 
+: 2692 4 -3 of 
+: 2700 3 -8 won
+: 2704 24 -7 der 
+- 2730
+: 2756 4 0 But 
+* 2764 16 2 life’s 
+- 2782
+: 2784 3 5 Not 
+: 2788 4 2 a 
+* 2796 12 4 wheel 
+- 2810
+: 2820 4 4 With 
+* 2828 16 5 chains 
+: 2848 3 9 made 
+: 2852 4 5 of 
+* 2860 16 7 steel 
+- 2878
+: 2880 4 5 So 
+* 2888 4 9 bless 
+: 2904 3 7 m
+: 2908 16 5 e~ 
+- 2926
+: 2944 4 7 Oh 
+: 2952 4 5 bless 
+* 2964 4 9 m
+: 2972 4 7 e
+: 2980 20 5 ~ 
+- 3002
+: 3016 4 9 Bless 
+: 3024 4 7 m
+: 3032 16 5 e 
+- 3050
+: 3064 3 7 Co
+: 3068 8 6 me 
+: 3084 4 4 the 
+: 3092 16 4 dawn 
+- 3110
+: 3128 3 7 Co
+: 3132 8 6 ~me 
+: 3144 4 4 the 
+: 3152 16 4 dawn 
+- 3170
+: 3192 3 7 Co
+: 3196 8 6 ~
+: 3208 4 4 ~me 
+: 3220 4 4 the 
+: 3228 8 4 dawn 
+- 3238
+: 3256 3 7 Co
+: 3260 3 6 ~me 
+: 3264 4 4 the 
+: 3272 36 4 dawn. 
+E

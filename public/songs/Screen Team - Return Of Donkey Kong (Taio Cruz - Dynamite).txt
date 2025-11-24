@@ -1,0 +1,335 @@
+#ARTIST:Screen Team
+#TITLE:Return Of Donkey Kong (Taio Cruz - Dynamite)
+#MP3:Screen Team - Return Of Donkey Kong (Taio Cruz - Dynamite).mp3
+#CREATOR:jackroke
+#GENRE:R&B
+#YEAR:2010
+#LANGUAGE:English
+#BPM:240
+#GAP:7590
+#VIDEO:v=C6BMmJVzQIU,co=https://is1-ssl.mzstatic.com/image/thumb/Music/62/e8/de/mzi.phvfdshu.jpg/5000x5000bb.jpg
+#END:123000
+: 0 2 4 My 
+: 4 2 4 favo
+: 8 2 4 rite 
+: 12 4 4 game, 
+: 20 4 4 game, 
+: 28 4 4 game, 
+: 36 4 4 game 
+- 42
+: 48 2 4 Was 
+: 52 2 4 one 
+: 56 1 4 I 
+: 58 4 4 played 
+- 63
+: 64 2 4 In 
+: 68 2 4 the 
+: 72 2 4 ar
+: 76 4 4 cade, 
+: 84 4 4 cade, 
+: 92 4 4 cade, 
+: 100 4 4 cade 
+- 106
+: 112 2 4 Those 
+: 116 2 4 fla
+: 120 1 4 ming 
+: 122 4 6 barr
+: 128 2 4 ells 
+: 132 2 4 were 
+: 136 2 11 a 
+- 139
+: 140 4 8 Pain, 
+: 148 4 8 pain, 
+* 156 4 6 pain, 
+: 164 4 4 pain 
+- 170
+: 176 2 4 The 
+: 180 3 4 first 
+: 184 1 4 is 
+: 187 2 4 still 
+: 192 2 4 my 
+: 196 2 4 favo
+: 200 2 4 rite 
+- 203
+: 204 4 4 Stage, 
+: 212 4 4 stage, 
+* 220 4 4 stage, 
+: 228 4 4 stage 
+- 234
+: 240 4 4 D
+: 248 4 4 K 
+- 254
+: 256 2 4 And 
+: 260 2 4 he 
+: 264 2 4 lived 
+: 268 6 4 on 
+: 276 2 4 and 
+: 280 6 6 on 
+: 288 2 6 and 
+: 292 22 11 on 
+- 316
+: 320 2 11 It’s 
+: 324 2 11 the 
+: 328 2 11 re
+: 332 6 13 turn 
+: 340 2 13 of 
+: 344 6 15 Don
+: 352 2 11 key 
+: 356 30 16 Kong, 
+: 388 2 15 yeah
+: 392 4 13 ~ 
+- 398
+: 400 2 8 I 
+: 404 2 8 clap 
+: 408 2 8 my 
+: 412 2 8 hands 
+: 416 2 6 up 
+: 420 2 4 in 
+: 424 2 6 the 
+: 428 4 8 air 
+: 434 4 -1 some
+: 440 4 1 times 
+- 446
+: 452 2 4 Thank 
+: 456 2 6 you 
+: 460 10 4 Re
+: 472 4 1 tro 
+- 478
+: 484 2 4 And 
+: 488 2 6 Nin
+* 492 10 4 ten
+: 504 4 1 do 
+- 510
+: 528 2 8 Hun
+: 532 2 8 dred 
+: 536 2 8 ba
+: 540 2 8 na
+: 544 2 6 nas 
+: 548 2 4 for 
+: 552 2 6 an 
+: 556 3 8 ex
+: 562 4 -1 tra 
+: 568 4 1 life 
+- 574
+: 576 2 4 Get 
+: 579 2 6 on 
+: 584 2 6 the 
+: 588 10 4 Rhi
+: 600 4 1 no 
+- 606
+: 612 2 4 Did
+: 616 2 6 dy, 
+: 620 10 4 let’s 
+: 632 4 1 go 
+- 638
+: 640 2 4 ’Cause 
+: 644 2 4 we 
+: 648 2 4 gon’ 
+: 652 2 4 slap 
+* 658 2 4 the 
+: 664 4 4 ground 
+- 670
+: 676 2 4 We 
+: 680 2 4 gon’ 
+: 684 2 4 throw 
+: 690 4 4 head 
+: 696 4 4 butts 
+- 702
+: 708 2 4 We 
+: 712 2 4 gon’ 
+* 716 2 4 roll 
+: 722 2 4 a
+: 728 4 3 long 
+- 734
+: 740 2 4 Like 
+: 744 2 6 it’s 
+: 748 4 8 Don
+: 754 4 -1 key 
+: 760 4 1 Kong 
+- 766
+: 772 2 4 If 
+: 776 2 4 you 
+: 780 4 4 played 
+: 786 4 4 it 
+: 792 4 4 once 
+- 798
+: 804 2 4 Then 
+: 808 2 4 you’ll 
+: 812 4 4 play 
+: 818 2 4 it 
+: 824 4 4 twice 
+- 830
+: 836 2 4 We 
+: 840 2 4 gon’ 
+: 844 2 4 roll 
+: 850 2 4 a
+: 856 4 3 long 
+- 862
+: 868 2 4 Like 
+: 872 2 6 it’s 
+: 876 4 8 Don
+: 882 4 -1 key 
+: 888 4 1 Kong 
+- 894
+: 896 2 4 Swing 
+: 900 2 4 on 
+: 904 2 4 this 
+: 908 4 4 vine, 
+: 916 4 4 vine, 
+: 924 4 4 vine, 
+: 932 4 4 vine 
+- 938
+: 944 2 4 I 
+: 948 2 4 ride 
+* 952 1 4 a 
+: 954 4 4 cart 
+- 959
+: 960 2 4 Right 
+: 964 2 4 through 
+: 968 2 4 the 
+: 972 4 4 mine, 
+: 980 4 4 mine, 
+: 988 4 4 mine, 
+: 996 4 4 mine 
+- 1002
+: 1008 2 4 O
+: 1012 2 4 ver 
+: 1016 1 4 the 
+: 1018 2 6 trees 
+: 1024 2 4 I’m 
+: 1028 2 4 gon
+: 1032 2 11 na 
+- 1035
+: 1036 4 8 Climb, 
+: 1044 4 8 climb, 
+* 1052 4 6 climb, 
+: 1060 4 4 climb 
+- 1066
+: 1072 2 4 Call 
+: 1076 2 4 Can
+: 1080 1 4 dy 
+: 1082 4 4 Kong 
+- 1087
+: 1088 2 4 For 
+: 1092 2 4 a 
+: 1096 2 4 good 
+: 1100 4 4 time, 
+: 1108 4 4 time, 
+: 1116 4 4 time, 
+: 1124 4 4 time 
+- 1130
+: 1136 4 4 D
+: 1144 4 4 K 
+- 1150
+: 1152 2 4 And 
+: 1156 2 4 we’ll 
+: 1160 2 4 play 
+: 1164 6 4 on 
+: 1172 2 4 and 
+: 1176 6 6 on 
+: 1184 2 6 and 
+: 1188 22 11 on 
+- 1212
+: 1216 2 11 It’s 
+: 1220 2 11 the 
+: 1224 2 11 re
+: 1228 6 13 turn 
+: 1236 2 13 of 
+: 1240 6 15 Don
+: 1248 2 11 key 
+* 1252 30 16 Kong, 
+: 1284 2 15 yeah
+: 1288 4 13 ~ 
+- 1294
+: 1296 2 8 I 
+: 1300 2 8 throw 
+: 1304 2 8 a 
+: 1308 2 8 bar
+: 1312 2 6 rel 
+: 1316 2 4 through 
+: 1320 2 6 the 
+: 1324 4 8 air 
+: 1330 4 -1 some
+: 1336 4 1 times 
+- 1342
+: 1344 2 4 I 
+: 1347 2 4 love 
+: 1351 3 6 Shi
+* 1356 10 4 gu
+: 1368 4 1 ru 
+- 1374
+: 1380 2 4 Mi
+: 1384 2 6 ya
+: 1388 10 4 mo
+: 1400 4 1 to 
+- 1406
+: 1424 2 8 Find 
+: 1428 2 8 gol
+: 1432 2 8 den 
+: 1436 2 8 let
+: 1440 2 6 ters 
+: 1444 2 4 for 
+: 1448 2 6 an 
+: 1452 3 8 ex
+: 1458 4 -1 tra 
+: 1464 4 1 life 
+- 1470
+: 1476 2 4 Swim 
+: 1480 2 6 with 
+: 1484 10 4 Or
+: 1496 4 1 co 
+- 1502
+: 1508 2 4 Did
+: 1512 2 6 dy, 
+: 1516 10 4 let’s 
+: 1528 4 1 go 
+- 1534
+: 1536 2 4 ’Cause 
+: 1540 2 4 we 
+: 1544 2 4 gon’ 
+: 1548 2 4 cart
+: 1554 2 4 wheel 
+: 1560 4 4 oh 
+- 1566
+: 1572 2 4 Hum 
+: 1576 2 4 the 
+* 1580 2 4 games 
+: 1586 4 4 theme 
+: 1592 4 4 song 
+- 1598
+: 1604 2 4 We 
+: 1608 2 4 gon’ 
+: 1612 2 4 roll 
+: 1618 2 4 a
+: 1624 4 3 long 
+- 1630
+: 1636 2 4 Like 
+: 1640 2 6 it’s 
+: 1644 4 8 Don
+: 1650 4 -1 key 
+: 1656 4 1 Kong 
+- 1662
+: 1668 2 4 If 
+: 1672 2 4 you 
+: 1676 4 4 played 
+: 1682 4 4 it 
+: 1688 4 4 once 
+- 1694
+: 1700 2 4 Then 
+: 1704 2 4 you’ll 
+: 1708 4 4 play 
+* 1714 2 4 it 
+: 1720 4 4 twice 
+- 1726
+: 1732 2 4 We 
+: 1736 2 4 gon’ 
+: 1740 2 4 roll 
+: 1746 2 4 a
+: 1752 4 3 long 
+- 1758
+: 1764 2 4 Like 
+: 1768 2 6 it’s 
+: 1772 4 8 Don
+: 1778 4 -1 key 
+: 1784 4 1 Kong 
+E

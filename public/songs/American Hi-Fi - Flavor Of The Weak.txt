@@ -1,0 +1,312 @@
+#ARTIST:American Hi-Fi
+#TITLE:Flavor Of The Weak
+#MP3:American Hi-Fi - Flavor Of The Weak.mp3
+#CREATOR:jdogk
+#GENRE:Rock
+#YEAR:2001
+#LANGUAGE:English
+#BPM:304
+#GAP:50800
+#VIDEO:v=uAmINmjpQxw,co=https://i.discogs.com/Ox-AZxZc0IXRXbRU6Cn45fj4Cktn7ACPA6WCEdwgpe8/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzgx/NjgtMTQ5NDI3Nzgw/Ny04MTQ4LmpwZWc.jpeg,bg=american-hi-fi-4f2362eca7355.jpg
+#START:45.0
+: 0 2 -2 She 
+: 4 6 -3 paints 
+: 13 5 -2 her 
+: 20 8 -7 nails 
+: 33 2 -4 and 
+: 37 6 -3 she 
+: 45 6 -2 don’t 
+: 53 2 -7 kno
+: 57 4 -5 ~w 
+- 73
+: 77 2 -7 He’s 
+: 81 2 -7 got 
+: 85 2 -7 her 
+: 89 4 3 best 
+: 95 4 2 friend 
+: 102 6 -2 on 
+: 110 6 -5 the 
+: 118 7 -7 phone 
+- 127
+: 129 2 -2 She’ll 
+: 133 6 -3 wash 
+: 141 6 -2 her 
+: 149 8 -7 hair, 
+: 162 2 -2 his 
+: 167 6 -3 dir
+: 175 5 -2 ty 
+: 182 2 -7 clo
+: 186 5 -5 ~thes 
+- 201
+: 214 2 0 Are 
+: 218 4 3 all 
+: 224 5 2 he 
+: 231 6 -2 gives 
+: 239 6 0 to 
+: 247 2 0 he
+: 251 4 2 ~r 
+- 260
+: 262 3 3 And 
+: 267 2 2 he’s 
+: 272 5 2 got 
+: 280 6 3 pos
+: 288 6 3 ters 
+: 296 6 2 on 
+: 304 6 -2 the 
+: 312 2 -2 wa
+: 316 8 0 ~ll 
+- 334
+: 344 2 -5 Of 
+: 348 2 -2 a
+: 352 2 -5 ~ll 
+: 356 2 -5 the 
+: 360 2 -2 gi
+: 364 5 -5 ~rls 
+: 372 3 -5 he 
+: 377 6 -2 wished 
+: 386 4 -5 she 
+: 392 3 -2 wa
+: 397 9 0 ~s 
+- 416
+: 425 2 -2 And 
+: 429 4 0 he 
+: 435 5 0 means 
+* 446 3 3 e
+* 451 5 2 vry
+* 459 9 -2 thing 
+: 470 2 -5 to 
+: 475 7 -2 her 
+- 484
+: 486 3 2 Her 
+: 492 5 0 boy
+: 500 11 -2 friend, 
+: 519 3 2 he 
+: 524 5 0 don’t 
+: 531 11 -2 know 
+- 548
+: 551 3 3 A
+: 556 5 2 ny
+: 563 12 -2 thing 
+: 584 2 2 a
+: 588 5 3 bout 
+: 596 2 0 he
+: 599 1 2 ~r 
+- 602
+: 604 10 -2 He’s 
+: 620 6 3 too 
+: 628 11 2 stoned, 
+: 647 4 -2 Nin
+: 653 5 3 ten
+: 660 10 2 do 
+- 676
+: 679 4 0 I 
+: 685 4 0 wish 
+: 691 8 -2 that 
+: 703 4 3 I 
+: 710 5 2 could 
+: 717 5 -2 make 
+: 724 6 -5 her 
+: 732 19 -2 see 
+- 771
+: 807 3 0 She’s 
+: 812 5 0 just 
+: 820 5 -2 the 
+: 828 7 3 fla
+: 837 6 2 vor 
+: 845 6 -2 of 
+: 854 4 -5 the 
+: 861 18 -2 weak 
+- 919
+: 1000 2 -2 It’s 
+: 1004 6 -3 fri
+: 1012 6 -2 day 
+: 1020 6 -7 night, 
+: 1029 2 -2 and 
+: 1033 2 -2 she’s 
+: 1037 6 -3 all 
+: 1045 6 -2 a
+: 1053 2 -7 lo
+: 1057 4 -5 ~ne 
+- 1071
+: 1080 2 -7 He’s 
+: 1084 2 -7 a 
+: 1088 2 3 mil
+: 1092 7 2 lion 
+: 1101 6 -2 miles 
+: 1109 6 -5 a
+: 1117 8 -7 way 
+- 1127
+: 1129 2 -2 She’s 
+: 1134 5 -3 dressed 
+: 1141 6 -2 to 
+: 1149 8 -7 kill, 
+: 1161 2 -2 the 
+: 1165 6 -3 T
+: 1173 7 -2 V’s 
+: 1182 2 -7 o
+: 1186 4 -5 ~n 
+- 1200
+: 1209 2 0 He’s 
+: 1213 2 2 con
+: 1217 4 3 nec
+: 1223 5 2 ted 
+: 1230 6 -2 to 
+: 1238 6 0 the 
+: 1246 2 0 sou
+: 1250 6 2 ~nd 
+- 1260
+: 1262 3 3 And 
+: 1267 2 2 he’s 
+: 1272 5 2 got 
+: 1280 6 3 pic
+: 1288 6 3 tures 
+: 1296 6 2 on 
+: 1304 6 -2 the 
+: 1312 2 -2 wa
+: 1316 8 0 ll 
+- 1334
+: 1344 2 -5 Of 
+: 1348 2 -2 a
+: 1352 2 -5 ~ll 
+: 1356 2 -5 the 
+: 1360 2 -2 gi
+: 1364 5 -5 ~rls 
+: 1372 3 -5 he’s 
+: 1377 6 -2 loved 
+: 1386 4 -5 be
+: 1392 3 -2 fo
+: 1397 9 0 ~re 
+- 1416
+: 1425 2 -2 And 
+: 1429 4 0 she 
+: 1435 5 0 knows 
+: 1447 2 3 all 
+: 1451 6 2 his 
+: 1459 7 -2 favo
+: 1468 5 -5 rite 
+: 1475 7 -2 songs 
+- 1484
+: 1486 3 2 Her 
+: 1492 5 0 boy
+: 1500 11 -2 friend, 
+: 1519 3 2 he 
+: 1524 5 0 don’t 
+: 1531 11 -2 know 
+- 1548
+: 1550 3 3 A
+: 1555 5 2 ny
+: 1562 12 -2 thing 
+: 1583 2 2 a
+: 1587 5 3 bout 
+: 1595 2 0 he
+: 1598 1 2 ~r 
+- 1601
+: 1603 10 -2 He’s 
+* 1619 6 3 too 
+* 1627 11 2 stoned, 
+* 1646 4 -2 Nin
+* 1652 5 3 ten
+* 1659 10 2 do 
+- 1676
+: 1679 4 0 I 
+: 1685 4 0 wish 
+: 1691 8 -2 that 
+: 1703 4 3 I 
+: 1710 5 2 could 
+: 1717 5 -2 make 
+: 1724 6 -5 her 
+: 1732 19 -2 see 
+- 1771
+: 1807 3 0 She’s 
+: 1812 5 0 just 
+: 1820 5 -2 the 
+: 1828 7 3 fla
+: 1837 6 2 vor 
+: 1845 6 -2 of 
+: 1854 4 -5 the 
+: 1861 18 -2 weak 
+- 1919
+: 2477 3 2 Her 
+: 2483 5 0 boy
+: 2491 11 -2 friend 
+: 2510 3 2 he 
+: 2515 5 0 don’t 
+: 2522 11 -2 know 
+- 2539
+: 2541 3 3 A
+: 2546 5 2 ny
+: 2553 12 -2 thing 
+: 2574 2 2 a
+: 2578 5 3 bout 
+: 2586 2 0 he
+: 2589 2 2 ~r 
+- 2593
+: 2595 10 -2 He’s 
+: 2611 6 3 too 
+: 2619 11 2 stoned, 
+: 2638 3 -2 he’s 
+: 2643 6 3 too 
+: 2651 11 2 stoned, 
+- 2668
+: 2670 3 -2 He’s 
+: 2675 6 3 too 
+: 2683 11 2 stoned, 
+: 2701 3 -2 he’s 
+: 2706 6 3 too 
+: 2714 11 2 stoned 
+- 2730
+: 2732 3 2 Her 
+: 2738 5 0 boy
+: 2746 11 -2 friend, 
+: 2765 3 2 he 
+: 2770 5 0 don’t 
+: 2777 11 -2 know 
+- 2795
+: 2798 3 3 A
+: 2803 5 2 ny
+: 2810 12 -2 thing 
+: 2831 2 2 a
+: 2835 5 3 bout 
+: 2843 2 0 he
+: 2846 2 2 ~r 
+- 2850
+: 2852 8 -2 He’s 
+: 2868 6 3 too 
+: 2876 8 2 stoned, 
+: 2892 2 -2 Nin
+: 2896 6 3 ten
+: 2904 8 2 do 
+- 2921
+: 2925 4 0 I 
+: 2931 4 0 wish 
+: 2937 8 -2 that 
+: 2949 4 3 I 
+: 2956 5 2 could 
+: 2963 5 -2 make 
+: 2970 6 -5 her 
+: 2978 19 -2 see 
+- 3017
+: 3053 3 0 She’s 
+: 3058 5 0 just 
+: 3066 5 -2 the 
+* 3074 7 3 fla
+* 3083 6 2 vor 
+: 3091 6 -2 of 
+: 3100 4 -5 the 
+* 3107 18 -2 weak 
+- 3145
+: 3181 3 0 Yeah 
+: 3186 6 0 she’s 
+: 3194 5 -2 the 
+: 3202 7 3 fla
+: 3211 6 2 vor 
+: 3219 6 -2 of 
+: 3228 4 -5 the 
+: 3235 18 -2 weak 
+- 3273
+: 3309 3 -2 She 
+: 3314 5 -2 makes 
+: 3322 3 -2 me
+: 3327 4 0 ~ 
+* 3333 55 -2 weak 
+E

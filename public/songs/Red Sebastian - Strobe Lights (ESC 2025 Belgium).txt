@@ -1,0 +1,292 @@
+#ARTIST:Red Sebastian
+#TITLE:Strobe Lights (ESC 2025 Belgium)
+#MP3:Red Sebastian - Strobe Lights (ESC 2025 Belgium).mp3
+#CREATOR:Mircosoft93
+#EDITION:Eurovision Song Contest 2025
+#COVER:Red Sebastian - Strobe Lights (ESC 2025 Belgium) [CO].jpg
+#BACKGROUND:Red Sebastian - Strobe Lights (ESC 2025 Belgium) [BG].jpg
+#GENRE:Electronic
+#YEAR:2025
+#LANGUAGE:English
+#BPM:290.2
+#GAP:7140
+#VIDEO:v=ScupiVTosHU,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/7f/ec/f77fec07-9de7-4a11-734c-b403ee48b420/5411530835645.png/5000x5000bb.jpg,bg=https://pix.eurovisionworld.com/pix/belgium-2025-red-sebastian-2.jpg,preview=59.0,medley=1122-1629
+* 0 14 2 Strobe 
+* 18 20 -5 lights, 
+: 50 3 3 get
+: 54 2 2 ting 
+: 59 3 1 lost 
+: 64 3 -2 in 
+: 70 5 0 you
+: 77 3 2 ~
+: 81 1 0 r 
+: 84 19 0 eyes 
+- 112
+: 115 2 3 Cot
+: 119 2 2 ton 
+: 124 5 0 can
+: 131 2 -2 dy 
+: 136 17 -5 haze, 
+: 176 3 3 floa
+: 180 3 2 ting 
+: 186 2 0 up 
+: 190 4 -2 in 
+: 198 15 0 spa
+: 216 6 2 ce 
+- 260
+: 369 6 -2 Fa
+: 376 3 -3 lling 
+: 401 7 -2 where 
+: 410 2 -3 up 
+: 414 2 -5 is 
+: 420 29 -5 down
+: 452 4 -3 ~ 
+- 475
+: 497 6 -2 Screa
+: 505 6 -3 ming 
+: 524 2 -5 but 
+* 529 4 -2 won’t 
+* 536 4 -4 make 
+: 541 2 -5 a 
+: 548 30 -5 sound 
+- 597
+: 625 11 -2 A
+: 638 2 -3 lice, 
+: 657 4 -2 show 
+: 664 5 -3 me 
+: 670 3 -5 your 
+: 675 56 -3 hand 
+- 741
+: 754 5 -2 Take 
+: 762 2 -3 it 
+: 785 4 -2 to 
+: 792 4 -3 won
+: 798 2 -7 der
+: 806 22 -5 la
+: 829 2 -7 ~
+: 832 2 -10 ~
+: 835 17 -12 nd 
+- 858
+: 861 3 -5 Step 
+: 866 2 -5 in
+: 872 3 -5 to 
+: 878 2 -5 the 
+* 883 2 -3 mi
+* 888 2 -3 rror 
+: 892 2 -3 to 
+: 898 4 -3 bright 
+: 904 3 -2 new 
+: 909 2 -2 di
+: 915 2 0 men
+: 919 4 0 sions 
+- 923
+: 925 3 0 Where 
+: 930 3 -5 no 
+: 936 4 -5 words 
+: 942 2 -5 are 
+: 946 5 -3 nee
+: 952 3 -3 ded 
+: 958 2 -3 to 
+: 962 4 -3 feel 
+: 969 2 -2 the 
+: 974 2 -2 con
+: 978 2 0 nec
+: 983 4 0 tion 
+- 988
+: 990 3 0 Where 
+: 994 4 -5 clocks 
+: 1001 3 -5 ne
+: 1005 2 -5 ver 
+: 1010 3 -3 tick 
+: 1016 3 -3 and 
+: 1021 4 -3 where 
+: 1026 4 -3 love 
+: 1032 2 -2 is 
+: 1037 4 -2 the 
+: 1044 3 0 en
+: 1049 3 0 ding 
+- 1052
+: 1054 3 0 Come 
+: 1058 4 2 down 
+: 1065 3 2 through 
+: 1070 2 2 the 
+* 1073 8 2 loo
+* 1082 3 0 ~
+* 1086 2 -2 king 
+: 1090 13 -3 glass 
+- 1113
+: 1122 14 2 Strobe 
+: 1140 20 -5 lights, 
+: 1171 3 3 get
+: 1175 2 2 ting 
+: 1179 3 0 lost 
+: 1184 3 -2 in 
+: 1189 10 2 you
+: 1200 1 0 r 
+: 1203 19 0 eyes 
+- 1231
+: 1234 2 3 Cot
+: 1238 2 2 ton 
+: 1243 4 0 can
+: 1248 2 -2 dy 
+: 1254 21 -5 haze, 
+: 1294 3 -2 we’ll 
+: 1298 3 3 float 
+: 1303 2 2 a
+: 1306 4 0 round 
+: 1311 3 -2 in 
+: 1315 19 2 spa
+: 1335 16 7 ~
+: 1352 12 10 ~
+: 1365 9 14 ce 
+- 1376
+: 1378 11 14 Skin
+: 1390 1 7 ~
+: 1395 22 7 tight, 
+: 1426 4 15 ne
+: 1432 2 14 ver 
+: 1435 3 12 felt 
+: 1441 5 10 so 
+* 1448 6 14 a
+* 1456 26 12 live 
+- 1488
+: 1490 7 3 Caught 
+: 1499 4 2 up 
+: 1504 4 0 in 
+: 1510 3 -2 this 
+: 1516 27 -5 maze 
+- 1548
+: 1550 2 -1 It’s 
+: 1555 5 3 where 
+: 1562 2 2 I 
+: 1565 2 0 wan
+: 1568 2 -2 na 
+: 1576 28 2 stay
+: 1606 23 7 ~ 
+- 1667
+* 1778 6 -2 Fly
+* 1786 4 -3 ing 
+: 1810 5 -2 deep 
+: 1816 3 -3 un
+: 1822 3 -5 der
+: 1829 45 -3 ground 
+- 1884
+: 1906 6 -2 Si
+: 1914 4 -3 lence 
+: 1935 2 -5 ne
+: 1938 4 -2 ver 
+: 1946 3 -3 felt 
+: 1951 3 -5 so 
+: 1957 43 -5 loud 
+- 2011
+: 2015 3 -5 Step 
+: 2020 2 -5 in
+: 2026 3 -5 to 
+: 2032 2 -5 the 
+: 2037 2 -3 mi
+: 2042 2 -3 rror 
+: 2046 2 -3 to 
+: 2052 4 -3 bright 
+: 2058 3 -2 new 
+: 2063 2 -2 di
+: 2069 2 0 men
+: 2073 4 0 sions 
+- 2077
+* 2078 3 0 Where 
+* 2083 3 -5 no 
+* 2089 4 -5 words 
+: 2095 2 -5 are 
+: 2099 5 -3 nee
+: 2105 3 -3 ded 
+: 2111 2 -3 to 
+: 2115 4 -3 feel 
+: 2122 2 -2 the 
+: 2127 2 -2 con
+: 2131 2 0 nec
+: 2136 4 0 tion 
+- 2141
+: 2143 3 0 Where 
+: 2147 4 -5 clocks 
+: 2154 3 -5 ne
+: 2158 2 -5 ver 
+: 2163 3 -3 tick 
+: 2169 3 -3 and 
+: 2174 4 -3 where 
+: 2179 4 -3 love 
+: 2185 2 -2 is 
+: 2190 4 -2 the 
+: 2197 3 0 en
+: 2202 3 0 ding 
+- 2205
+: 2207 3 0 Come 
+: 2211 4 2 down 
+: 2218 3 2 through 
+: 2223 2 2 the 
+: 2226 8 2 loo
+: 2235 3 0 ~
+: 2239 2 -2 king 
+: 2243 13 -3 glass 
+- 2266
+: 2273 14 2 Strobe 
+: 2291 20 -5 lights, 
+: 2322 3 3 get
+: 2326 2 2 ting 
+: 2330 3 0 lost 
+: 2335 3 -2 in 
+* 2340 10 2 you
+* 2351 1 0 r 
+* 2354 19 0 eyes 
+- 2382
+: 2386 2 3 Cot
+: 2390 2 2 ton 
+: 2395 4 0 can
+: 2400 2 -2 dy 
+: 2406 21 -5 haze, 
+: 2446 3 -2 we’ll 
+: 2450 3 3 float 
+: 2455 2 2 a
+: 2458 4 0 round 
+: 2463 3 -2 in 
+: 2467 19 2 spa
+: 2487 16 7 ~
+: 2504 12 10 ~
+: 2517 9 14 ce 
+- 2529
+: 2531 11 14 Skin
+: 2543 1 7 ~
+: 2548 22 7 tight, 
+: 2579 4 15 I
+: 2585 2 14 ~ 
+: 2588 3 12 feel 
+: 2594 5 10 so 
+: 2601 6 14 a
+: 2609 26 12 live 
+- 2641
+: 2644 7 3 Caught 
+: 2653 4 2 up 
+: 2658 4 0 in 
+: 2664 3 -2 this 
+* 2670 27 -5 maze 
+- 2703
+: 2705 2 -2 It’s 
+: 2710 5 3 where 
+: 2717 2 2 I 
+: 2720 2 0 wan
+: 2723 2 -2 na 
+: 2731 53 2 stay 
+- 2822
+: 2958 3 -6 That’s 
+: 2966 5 3 where 
+: 2975 2 1 I 
+: 2979 2 -1 wan
+: 2982 2 -2 na 
+: 2990 22 2 stay
+: 3015 38 7 ~ 
+- 3091
+: 3267 3 2 That’s 
+: 3274 3 2 where 
+: 3280 3 0 I 
+: 3286 2 -2 wan
+: 3289 2 -3 na 
+* 3304 12 -5 stay 
+E

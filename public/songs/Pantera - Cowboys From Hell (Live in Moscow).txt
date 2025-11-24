@@ -1,0 +1,352 @@
+#ARTIST:Pantera
+#TITLE:Cowboys From Hell (Live in Moscow)
+#MP3:Pantera - Cowboys From Hell (Live in Moscow).mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero Greatest Hits
+#GENRE:Thrash Metal
+#YEAR:1991
+#LANGUAGE:English
+#BPM:392.1
+#GAP:62900
+#VIDEO:v=QxoAosf-c8g,co=official-live-101-proof-53a205fc469fd.jpg,bg=pantera-54a5515f7144c.jpg
+F 0 15 0 Whoa! 
+F 19 4 0 C’
+F 24 12 0 mon 
+- 88
+: 253 2 16 Un
+: 256 3 16 der 
+: 260 3 16 the 
+F 264 7 12 lights 
+: 274 3 16 where 
+: 278 3 16 we 
+: 284 4 16 stand 
+: 292 5 16 tall
+: 298 1 13 ~ 
+- 309
+: 318 3 16 No
+: 323 3 16 bo
+: 327 2 16 dy 
+: 330 3 16 touch
+: 335 2 14 es 
+: 338 3 16 us 
+: 343 4 16 at 
+: 349 6 18 all
+: 356 1 19 ~ 
+- 369
+F 373 5 0 Show
+F 382 9 0 down 
+- 400
+* 403 4 16 Shoot
+: 410 5 16 out 
+- 427
+: 431 4 16 Spread 
+: 439 3 16 fear 
+: 448 3 14 with
+: 452 3 15 in 
+: 459 3 15 with
+: 463 3 16 out 
+- 474
+F 477 2 0 We’re 
+F 480 3 0 gon
+F 484 3 0 na 
+F 490 4 0 take 
+- 500
+: 502 3 16 What’s 
+: 509 3 16 ours 
+: 516 2 16 to 
+: 519 3 16 have
+: 523 1 14 ~ 
+- 534
+: 543 3 16 Spread 
+: 548 3 14 the 
+: 552 1 15 word
+: 554 1 16 ~ 
+: 558 3 14 through
+F 562 3 12 out 
+- 567
+: 569 3 16 The 
+: 576 2 18 land
+: 579 1 19 ~ 
+: 583 3 16 they 
+F 587 3 12 say 
+- 599
+: 602 4 19 Bad 
+: 609 3 18 guys
+* 613 1 19 ~ 
+- 626
+: 630 3 16 Wear 
+* 637 3 16 black 
+- 650
+: 659 3 16 We’re 
+: 665 3 16 tagged 
+: 671 3 16 and 
+: 675 2 18 can’t
+: 678 1 19 ~ 
+: 682 3 16 turn 
+F 688 4 12 back 
+- 702
+: 714 3 19 You 
+: 721 3 19 see 
+: 725 3 19 us 
+F 733 3 12 com
+F 738 3 12 in’ 
+- 751
+F 758 3 12 You 
+: 763 3 19 all 
+: 769 3 19 to
+: 775 4 19 ge
+: 783 3 19 ther 
+: 790 3 17 run 
+: 797 4 17 for 
+: 804 4 18 co
+: 812 4 18 ver
+: 817 1 19 ~ 
+- 828
+F 840 3 0 We’re 
+F 846 4 0 tak
+F 851 3 0 in’ 
+F 855 2 0 o
+F 858 3 0 ver 
+F 862 1 0 the 
+F 864 3 0 en
+F 868 5 0 tire 
+F 879 3 0 coun
+F 885 4 0 try 
+- 899
+F 936 4 0 Here 
+F 942 3 0 we 
+F 947 6 0 come 
+: 958 4 16 reach 
+: 965 3 16 for 
+: 971 3 16 your 
+F 977 3 0 gun 
+- 986
+F 989 3 0 You 
+: 994 2 16 bet
+: 997 3 16 ter 
+: 1005 4 16 lis
+: 1012 4 16 ten 
+: 1019 2 18 well
+: 1022 1 19 ~ 
+: 1025 3 16 my 
+F 1033 4 0 friend 
+- 1047
+F 1054 3 0 It’s 
+F 1058 3 0 been 
+F 1065 5 0 slow 
+- 1076
+: 1079 4 16 Down 
+: 1086 2 16 be
+: 1089 3 16 low
+: 1093 1 14 ~ 
+- 1103
+: 1107 4 16 Aimed 
+* 1114 3 16 at 
+* 1118 2 18 you
+: 1121 1 19 ~ 
+- 1132
+F 1136 2 0 Cow
+F 1139 2 0 boys 
+F 1143 2 0 from 
+F 1148 3 0 hell 
+- 1160
+: 1164 3 16 Deed 
+: 1168 3 16 is 
+F 1174 7 0 done 
+F 1183 3 0 a
+: 1188 3 16 gain 
+: 1195 3 16 we 
+: 1202 3 16 won 
+- 1214
+F 1218 4 0 Talk
+F 1224 3 0 ing 
+F 1231 3 0 no 
+F 1237 4 0 tall 
+F 1244 5 0 tale 
+- 1259
+: 1282 2 18 I
+: 1285 1 19 ~ 
+: 1290 6 19 know 
+- 1307
+: 1311 3 16 Your 
+F 1318 3 0 doom 
+- 1329
+: 1332 2 16 Com
+: 1335 3 16 in’ 
+* 1339 2 16 for 
+F 1342 8 0 you 
+- 1357
+F 1360 2 0 Cow
+F 1363 3 0 boys 
+F 1367 3 0 from 
+F 1371 11 0 hell 
+- 1434
+F 1489 3 0 Swing 
+F 1495 4 0 it 
+- 1551
+: 1724 2 16 Pil
+: 1727 3 16 lage 
+: 1731 2 16 the 
+: 1734 3 16 vil
+F 1738 3 0 lage 
+- 1747
+F 1750 5 0 Trash 
+: 1759 3 16 the 
+: 1763 3 16 scene 
+: 1771 3 16 but
+: 1775 1 14 ~ 
+- 1785
+: 1788 3 16 Bet
+: 1792 2 14 ter 
+: 1795 3 16 not 
+: 1801 3 16 take 
+: 1805 2 16 it 
+: 1808 3 16 out 
+: 1812 4 16 on 
+: 1819 3 18 me
+: 1823 1 19 ~ 
+- 1834
+F 1843 5 0 Ghost 
+F 1852 7 0 town 
+- 1868
+F 1872 4 0 Is 
+F 1879 4 0 found 
+- 1891
+: 1894 3 16 Where 
+: 1901 3 16 your 
+F 1906 3 0 ci
+F 1910 3 0 ty 
+- 1919
+* 1922 1 18 Used
+: 1924 1 19 ~ 
+: 1928 3 16 to 
+: 1932 2 16 be 
+- 1946
+F 1950 4 0 Out 
+F 1956 3 0 the 
+F 1960 4 0 dark
+: 1968 3 16 ness 
+: 1974 3 16 and 
+: 1978 2 16 in
+: 1981 3 16 to 
+: 1985 3 16 the 
+: 1989 3 16 light 
+- 2002
+F 2013 3 0 Sparks 
+: 2021 4 16 fly 
+: 2027 3 16 e
+: 2031 2 16 very
+: 2034 3 16 where 
+: 2038 3 16 in 
+F 2044 4 0 sight 
+- 2058
+F 2070 3 0 Dou
+F 2074 3 0 ble 
+F 2078 3 0 bar
+F 2083 4 0 rel 
+- 2096
+F 2099 4 0 Twelve 
+F 2106 4 0 gauge 
+- 2120
+: 2127 4 16 Can’t 
+: 2134 4 16 lock 
+: 2141 3 17 me 
+: 2146 3 18 in 
+: 2152 2 17 your
+: 2155 1 18 ~ 
+- 2166
+F 2184 3 0 You 
+F 2190 3 0 see 
+F 2194 3 0 us 
+F 2199 3 0 com
+F 2203 6 0 in’ 
+- 2219
+F 2228 3 12 You 
+: 2233 3 19 all 
+: 2239 3 19 to
+: 2246 4 19 ge
+: 2253 3 19 ther 
+: 2261 3 17 run 
+: 2268 4 17 for 
+: 2274 4 17 co
+: 2282 9 17 ver 
+- 2301
+F 2310 4 0 We’re 
+F 2315 3 0 tak
+F 2320 3 0 in’ 
+F 2324 3 0 o
+F 2328 2 0 ver 
+F 2331 3 0 this 
+- 2344
+F 2348 5 0 Town 
+- 2379
+F 2408 4 0 Here 
+F 2413 3 0 we 
+F 2418 6 0 come 
+: 2429 3 16 reach 
+: 2435 3 16 for 
+: 2441 3 16 your 
+F 2447 3 0 gun 
+- 2456
+F 2458 3 12 You 
+: 2464 2 16 bet
+: 2467 3 16 ter 
+: 2475 4 16 lis
+: 2482 4 16 ten 
+: 2490 1 18 well
+: 2492 1 19 ~ 
+: 2497 3 16 my 
+F 2504 3 12 friend 
+- 2517
+F 2525 2 0 It’s 
+F 2528 3 0 been 
+F 2535 5 0 slow 
+- 2546
+: 2549 4 16 Down 
+: 2555 3 16 be
+: 2559 3 16 low
+: 2563 1 14 ~ 
+- 2573
+: 2577 4 16 Aimed 
+: 2584 3 16 at 
+: 2588 2 18 you
+: 2591 1 19 ~ 
+- 2602
+F 2606 2 0 Cow
+F 2610 2 0 boys 
+F 2613 2 0 from 
+F 2616 5 0 hell 
+- 2630
+: 2634 3 16 Deed 
+: 2638 3 16 is 
+F 2644 7 0 done 
+F 2654 2 0 a
+: 2657 3 16 gain 
+: 2664 3 16 we’ve 
+F 2671 4 0 won 
+- 2685
+F 2689 3 0 Talk
+F 2693 3 0 ing 
+F 2699 4 0 no 
+F 2706 4 0 tall 
+F 2713 4 0 tale 
+- 2727
+: 2752 3 18 I
+: 2756 1 19 ~ 
+: 2760 5 19 know 
+- 2776
+: 2780 3 16 Your 
+F 2787 4 0 doom 
+- 2798
+: 2801 3 16 Com
+: 2805 2 16 in’ 
+: 2808 3 16 for 
+F 2812 7 0 you 
+- 2828
+: 2832 4 18 Cow
+: 2837 1 19 ~
+: 2842 5 18 boys 
+: 2851 5 18 from 
+: 2861 15 17 hell
+: 2877 1 19 ~ 
+E

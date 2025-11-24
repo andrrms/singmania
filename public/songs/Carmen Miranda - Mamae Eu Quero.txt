@@ -1,0 +1,102 @@
+#ARTIST:Carmen Miranda
+#TITLE:Mamae Eu Quero
+#MP3:Carmen Miranda - Mamae Eu Quero.mp3
+#CREATOR:Fmoc
+#EDITION:Eis am Stiel 4
+#LANGUAGE:Portuguese (Brazil)
+#BPM:306.95
+#GAP:14460
+#VIDEO:v=mVMqgUEqIcc,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1f/72/a3/1f72a3d1-6cc9-774c-8c6b-3c4cf81b5be0/cover.jpg/5000x5000bb.jpg
+: 0 2 7 Ma 
+: 4 1 7 ma 
+: 6 2 7 ma 
+: 10 2 7 ma 
+: 14 2 7 ma 
+: 18 2 7 ma 
+: 22 3 7 mae 
+- 26
+: 26 3 4 Eu 
+: 30 4 0 Quero 
+- 36
+: 46 2 7 Ma 
+: 50 2 7 ma 
+: 54 4 7 eu 
+: 60 3 4 Que
+: 64 2 0 ro 
+- 68
+: 84 6 7 Ma 
+: 92 5 12 Ma 
+: 98 4 11 eu 
+: 104 7 9 quero 
+- 112
+: 112 3 7 Ma
+: 116 3 5 ma
+: 120 3 4 a
+: 124 8 2 aaa 
+- 134
+: 144 6 7 Dá 
+: 152 2 7 a 
+: 156 2 5 chu
+: 160 2 2 peta 
+- 164
+: 176 6 7 Dá 
+: 184 2 7 a 
+: 188 2 5 chu
+: 192 2 2 peta 
+- 196
+: 208 7 7 Dá 
+: 216 2 7 a 
+: 220 2 11 chu
+: 224 2 9 peta 
+: 228 2 7 pro 
+: 232 2 5 be
+: 236 2 7 ne 
+: 240 2 5 não 
+: 244 3 2 cho
+: 248 4 0 rar 
+- 254
+: 256 2 7 Ma 
+: 260 1 7 ma 
+: 262 2 7 ma 
+: 266 2 7 ma 
+: 270 2 7 ma 
+: 274 2 7 ma 
+: 278 3 7 mae 
+- 282
+: 282 3 4 Eu 
+: 286 4 0 quero 
+- 292
+: 302 2 7 Ma 
+: 306 2 7 mae 
+: 310 4 7 eu 
+: 316 3 4 Quer
+: 320 2 0 o 
+- 324
+: 340 6 7 Ma 
+: 348 5 12 Ma 
+: 354 4 11 eu 
+: 360 7 9 quero 
+- 368
+: 368 3 7 Ma 
+: 372 3 5 ma
+: 376 3 4 a
+: 380 4 2 a 
+- 386
+: 408 2 7 Dá 
+: 412 2 5 chu
+: 416 6 2 peta 
+- 424
+: 440 2 7 Dá 
+: 444 2 5 chu
+: 448 6 2 peta 
+- 456
+: 472 2 7 Dá 
+: 476 2 11 chu
+: 480 2 9 peta 
+: 484 2 7 pro 
+: 488 2 5 be
+: 492 2 7 ne 
+: 496 2 5 não 
+: 500 3 2 cho
+: 504 4 0 rar 
+E

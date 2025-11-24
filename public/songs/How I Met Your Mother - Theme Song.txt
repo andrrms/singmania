@@ -1,0 +1,32 @@
+#ARTIST:How I Met Your Mother
+#TITLE:Theme Song
+#MP3:How I Met Your Mother - Theme Song.mp3
+#CREATOR:DoubleDee
+#COVER:How I Met Your Mother - Theme Song [CO].jpg
+#BACKGROUND:How I Met Your Mother - Theme Song [BG].jpg
+#YEAR:2005
+#LANGUAGE:English
+#BPM:275
+#GAP:4350
+#VIDEO:v=-DUV2oAL11A,co=https://de.web.img3.acsta.net/pictures/18/01/19/01/04/5560874.jpg
+: 0 2 2 Pa 
+: 4 2 5 pa 
+* 8 6 12 pa 
+: 16 12 10 pa, 
+: 32 2 5 pa 
+: 36 6 7 pa 
+: 44 6 5 pa 
+: 52 6 -2 pa 
+- 62
+: 64 2 0 Pa 
+: 68 8 2 pa, 
+: 80 2 3 da 
+: 84 2 2 da 
+: 88 2 0 da 
+: 92 2 -2 da, 
+: 96 2 0 da 
+: 100 2 2 da 
+: 104 2 0 da 
+: 108 2 -2 da 
+: 112 12 -2 da 
+E

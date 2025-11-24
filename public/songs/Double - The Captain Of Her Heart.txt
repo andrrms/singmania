@@ -1,0 +1,206 @@
+#ARTIST:Double
+#TITLE:The Captain Of Her Heart
+#MP3:Double - The Captain Of Her Heart.mp3
+#CREATOR:Fepo
+#GENRE:General Pop Vocal
+#YEAR:1985
+#LANGUAGE:English
+#BPM:290.79
+#GAP:21900
+#VIDEO:v=YX-Ru1XkNZc,co=https://undiaundisco.files.wordpress.com/2015/04/double-the-captain-of-her-heart.jpg,co-crop=0-3-794-794,bg=https://upload.wikimedia.org/wikipedia/commons/0/00/San_remo86.JPG
+: 0 4 5 It 
+: 7 3 5 was 
+: 12 6 5 way 
+: 24 4 1 past 
+: 32 4 3 mid
+: 40 8 5 night 
+- 50
+: 68 2 1 And 
+: 72 3 3 she 
+: 78 7 5 still 
+: 95 6 3 coul
+: 103 4 1 dn’t 
+: 112 5 3 fall 
+: 121 2 1 a
+: 126 5 -2 sleep 
+- 133
+: 192 5 10 This 
+: 204 7 10 night 
+: 216 3 5 the 
+: 221 11 8 dream 
+: 240 3 5 was 
+: 246 9 3 lea
+: 257 11 1 vin’ 
+- 270
+: 308 2 -2 She 
+: 312 4 1 tried 
+: 319 2 -2 so 
+: 324 4 1 hard 
+: 330 2 -2 to 
+: 334 5 -2 keep 
+- 341
+: 378 3 8 And 
+: 384 3 10 with 
+: 390 3 10 the 
+: 396 8 10 new 
+: 408 8 12 day’s 
+: 420 15 8 daw
+: 438 10 5 ning 
+- 450
+: 474 3 -2 She 
+: 479 5 -2 felt 
+: 487 4 -2 it 
+: 493 5 1 drif
+: 500 3 3 tin 
+: 505 3 3 a
+: 510 7 3 way 
+- 519
+: 570 5 5 Not 
+: 577 3 3 on
+: 583 3 1 ly 
+: 589 7 3 for 
+: 601 3 1 a 
+: 607 17 3 cruise 
+- 626
+: 630 4 0 Not 
+: 637 3 3 on
+: 642 3 1 ly 
+: 648 4 -2 for 
+: 654 2 -4 a 
+: 658 16 -2 day 
+- 676
+: 953 5 4 Too 
+: 960 5 7 long 
+: 967 2 4 a
+: 970 6 7 go 
+- 978
+: 979 3 4 Too 
+: 985 3 7 long 
+: 990 2 4 a
+: 994 7 9 part 
+- 1003
+: 1018 2 4 She 
+: 1021 2 4 coul
+: 1024 2 4 dn’t 
+: 1027 2 4 wait 
+: 1030 2 4 a
+: 1033 2 5 no
+: 1037 2 7 ther 
+: 1041 5 3 day 
+: 1049 11 0 for 
+- 1062
+: 1110 3 -2 The 
+: 1115 6 2 cap
+: 1123 2 3 tain 
+: 1127 2 2 of 
+: 1131 4 -2 her 
+: 1138 7 0 heart 
+- 1147
+: 1336 2 4 As 
+: 1340 2 4 the 
+: 1344 5 7 day 
+: 1351 3 4 came 
+: 1357 3 7 up 
+: 1362 2 4 she 
+: 1367 4 7 made 
+: 1374 2 4 a 
+: 1378 10 9 start 
+- 1390
+: 1395 2 4 She 
+: 1398 4 4 stopped 
+: 1404 2 4 wai
+: 1408 2 4 ting 
+: 1411 2 4 a
+: 1414 2 5 no
+: 1418 5 7 ther 
+: 1425 5 4 day 
+: 1433 5 0 for 
+- 1440
+: 1495 3 -2 The 
+: 1500 6 2 cap
+: 1508 2 3 tain 
+: 1512 2 2 of 
+: 1516 4 -2 her 
+: 1524 17 5 heart 
+- 1543
+: 2874 5 4 Too 
+: 2881 4 7 long 
+: 2887 2 4 a
+: 2890 6 7 go 
+- 2897
+: 2897 3 4 Too 
+: 2903 3 7 long 
+: 2908 2 4 a
+: 2912 7 9 part 
+- 2921
+: 2937 2 4 She 
+: 2940 2 4 coul
+: 2943 2 4 dn’t 
+: 2946 2 4 wait 
+: 2949 2 4 a
+: 2952 2 5 no
+: 2956 2 7 ther 
+: 2960 5 3 day 
+: 2968 11 0 for 
+- 2981
+: 3029 3 -2 The 
+: 3034 6 2 cap
+: 3042 2 3 tain 
+: 3046 2 2 of 
+: 3050 4 -2 her 
+: 3057 7 0 heart 
+- 3066
+: 3256 2 4 As 
+: 3260 2 4 the 
+: 3264 5 7 day 
+: 3271 3 4 came 
+: 3277 3 7 up 
+: 3282 2 4 she 
+: 3287 4 7 made 
+: 3294 2 4 a 
+: 3298 10 9 start 
+- 3310
+: 3315 2 4 She 
+: 3318 4 4 stopped 
+: 3324 2 4 wai
+: 3328 2 4 ting 
+: 3331 2 4 a
+: 3334 2 5 no
+: 3338 5 7 ther 
+: 3345 5 4 day 
+: 3353 5 0 for 
+- 3360
+: 3413 3 -2 The 
+: 3418 6 2 cap
+: 3426 2 3 tain 
+: 3430 2 2 of 
+: 3434 4 -2 her 
+: 3442 17 0 heart 
+- 3461
+: 3640 5 4 Too 
+: 3647 4 7 long 
+: 3653 2 4 a
+: 3656 6 7 go 
+- 3663
+: 3664 3 4 Too 
+: 3670 3 7 long 
+: 3675 2 4 a
+: 3679 7 9 part 
+- 3688
+: 3704 2 4 She 
+: 3707 2 4 coul
+: 3710 2 4 dn’t 
+: 3713 2 4 wait 
+: 3716 2 4 a
+: 3719 2 5 no
+: 3723 2 7 ther 
+: 3727 5 3 day 
+: 3735 11 0 for 
+- 3748
+: 3798 3 -2 The 
+* 3803 6 2 cap
+* 3811 2 3 tain 
+* 3815 2 2 of 
+* 3819 4 -2 her 
+* 3826 7 0 heart 
+E

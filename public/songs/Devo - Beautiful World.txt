@@ -1,0 +1,279 @@
+#ARTIST:Devo
+#TITLE:Beautiful World
+#MP3:Devo - Beautiful World.mp3
+#CREATOR:dgmo5046
+#YEAR:1981
+#LANGUAGE:English
+#BPM:300
+#GAP:31700
+#VIDEO:v=56u6g0POvo0,co=https://progrography.com/wp-content/uploads/2006/06/beautifulworld.jpg,bg=devo-6426abea33f9f.jpg
+: 0 3 11 It’s 
+: 4 3 11 a 
+: 8 15 11 beautiful 
+: 24 7 11 world 
+: 32 7 11 we 
+: 40 3 11 live 
+: 44 8 11 in 
+- 54
+: 68 3 11 A 
+: 72 7 4 sweet 
+: 80 23 4 romantic 
+: 104 8 4 place 
+- 114
+: 136 15 11 Beautiful 
+: 152 15 11 people 
+: 168 8 11 everywhere 
+- 178
+: 208 7 11 The 
+: 216 7 11 way 
+: 224 7 11 they 
+: 232 7 11 show 
+: 240 7 11 they 
+: 248 8 11 care 
+- 258
+: 260 3 11 It 
+: 264 7 11 makes 
+: 272 7 11 me 
+: 280 7 11 want 
+: 288 7 11 to 
+: 296 8 11 say 
+- 306
+: 320 3 11 It’s 
+: 324 3 11 a 
+: 328 15 4 beautiful 
+: 344 8 4 world 
+- 354
+: 384 3 4 It’s 
+: 388 3 4 a 
+: 392 15 11 beautiful 
+: 408 8 11 world 
+- 418
+: 448 3 11 It’s 
+: 452 3 11 a 
+: 456 15 11 beautiful 
+: 472 8 11 world 
+- 482
+: 512 7 11 For 
+: 520 8 9 you 
+- 530
+: 576 7 9 For 
+: 584 8 8 you 
+- 594
+: 640 7 8 For 
+: 648 8 4 you 
+- 658
+: 768 3 4 It’s 
+: 772 3 4 a 
+: 776 15 11 wonderful 
+: 792 7 11 time 
+: 800 7 11 to 
+: 808 3 11 be 
+: 812 8 11 here 
+- 822
+: 836 3 11 It’s 
+: 840 7 4 nice 
+: 848 7 4 to 
+: 856 7 4 be 
+: 864 8 4 alive 
+- 874
+: 904 15 11 Wonderful 
+: 920 15 11 people 
+: 936 8 11 everywhere 
+- 946
+: 976 7 11 The 
+: 984 7 11 way 
+: 992 7 11 they 
+: 1000 7 11 comb 
+: 1008 7 11 their 
+: 1016 8 11 hair 
+- 1026
+: 1028 3 11 It 
+: 1032 7 11 makes 
+: 1040 7 11 me 
+: 1048 7 11 want 
+: 1056 7 11 to 
+: 1064 8 11 say 
+- 1074
+: 1088 3 11 It’s 
+: 1092 3 11 a 
+: 1096 15 4 wonderful 
+: 1112 8 4 place 
+- 1122
+: 1152 3 4 It’s 
+: 1156 3 4 a 
+: 1160 15 11 wonderful 
+: 1176 8 11 place 
+- 1186
+: 1216 3 11 It’s 
+: 1220 3 11 a 
+: 1224 15 11 wonderful 
+: 1240 8 11 place 
+- 1250
+: 1280 7 11 For 
+: 1288 8 9 you 
+- 1298
+: 1344 7 9 For 
+: 1352 8 8 you 
+- 1362
+: 1408 7 8 For 
+: 1416 8 4 you 
+- 1426
+: 1480 8 4 Hey 
+- 1490
+: 1520 3 4 Tell 
+: 1524 3 4 me 
+: 1528 7 4 what 
+: 1536 7 4 I 
+: 1544 8 7 see 
+- 1554
+: 1680 3 7 Boy 
+: 1684 7 7 and 
+: 1692 7 7 girl 
+: 1700 3 7 with 
+: 1704 7 7 new 
+: 1712 7 7 clothes 
+: 1720 8 7 on 
+- 1730
+: 1744 3 9 You 
+: 1748 3 9 can 
+: 1752 3 9 shake 
+: 1756 3 9 it 
+: 1760 3 9 to 
+: 1764 3 9 me 
+: 1768 7 9 all 
+: 1776 7 9 night 
+: 1784 7 9 long 
+: 1792 7 9 hey 
+: 1800 8 5 hey 
+- 1810
+: 2048 3 16 It’s 
+: 2052 3 16 a 
+: 2056 15 16 beautiful 
+: 2072 7 11 world 
+: 2080 7 11 we 
+: 2088 3 11 live 
+: 2092 8 11 in 
+- 2102
+: 2114 5 8 A 
+: 2120 5 8 sweet 
+: 2126 25 16 romantic 
+: 2152 8 16 place 
+- 2162
+: 2184 15 13 Beautiful 
+: 2200 15 11 people 
+: 2216 8 11 everywhere 
+- 2226
+: 2254 9 11 The 
+: 2264 7 11 way 
+: 2272 7 11 they 
+: 2280 7 11 show 
+: 2288 5 11 they 
+: 2294 8 11 care 
+- 2304
+: 2306 5 8 It 
+: 2312 5 8 makes 
+: 2318 9 11 me 
+: 2328 7 11 want 
+: 2336 7 11 to 
+: 2344 8 11 say 
+- 2354
+: 2368 1 8 It’s 
+: 2370 5 8 a 
+: 2376 15 8 beautiful 
+: 2392 8 16 world 
+- 2402
+: 2432 1 13 It’s 
+: 2434 5 13 a 
+: 2440 15 13 beautiful 
+: 2456 8 11 world 
+- 2466
+: 2496 1 8 It’s 
+: 2498 5 8 a 
+: 2504 15 8 beautiful 
+: 2520 8 11 world 
+- 2530
+: 2560 7 8 For 
+: 2568 8 9 you 
+- 2578
+: 2624 5 9 For 
+: 2630 8 8 you 
+- 2640
+: 2688 5 8 For 
+: 2694 8 4 you 
+- 2704
+: 2758 39 4 It’s 
+: 2798 17 4 not 
+: 2816 5 4 for 
+: 2822 8 11 me 
+- 2832
+: 2846 5 11 (It’s 
+: 2852 3 11 a 
+: 2856 11 11 beautiful 
+: 2868 8 11 world) 
+- 2878
+: 2880 5 11 For 
+: 2886 8 11 you 
+- 2896
+: 2910 3 11 (It’s 
+: 2914 5 11 a 
+: 2920 11 11 beautiful 
+: 2932 8 11 world) 
+- 2942
+: 2944 5 11 For 
+: 2950 8 11 you 
+- 2960
+: 2974 3 11 (It’s 
+: 2978 5 11 a 
+: 2984 11 11 beautiful 
+: 2996 8 11 world) 
+- 3006
+: 3008 5 11 For 
+: 3014 8 11 you 
+- 3024
+: 3038 3 11 (It’s 
+: 3042 5 11 a 
+: 3048 11 11 beautiful 
+: 3060 8 11 world) 
+- 3070
+: 3072 5 11 Not 
+: 3078 8 11 me 
+- 3088
+: 3102 3 11 (It’s 
+: 3106 5 11 a 
+: 3112 11 11 beautiful 
+: 3124 8 11 world) 
+- 3134
+: 3166 3 11 (It’s 
+: 3170 5 11 a 
+: 3176 11 11 beautiful 
+: 3188 8 11 world) 
+- 3198
+: 3230 3 11 (It’s 
+: 3234 5 11 a 
+: 3240 11 11 beautiful 
+: 3252 8 11 world) 
+- 3262
+: 3280 1 11 (It’s 
+: 3282 3 11 a 
+: 3286 17 11 beautiful 
+: 3304 9 11 beautiful 
+: 3314 8 11 world) 
+- 3324
+: 3344 1 11 (It’s 
+: 3346 3 11 a 
+: 3350 17 11 beautiful 
+: 3368 9 11 beautiful 
+: 3378 8 11 world) 
+- 3388
+: 3408 1 11 (It’s 
+: 3410 3 11 a 
+: 3414 15 11 beautiful 
+: 3430 11 11 beautiful 
+: 3442 8 11 world) 
+- 3452
+: 3472 1 11 (It’s 
+: 3474 3 11 a 
+: 3478 15 11 beautiful 
+: 3494 11 11 beautiful 
+: 3506 4 11 world) 
+E

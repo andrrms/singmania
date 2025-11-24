@@ -1,0 +1,441 @@
+#ARTIST:Ashton, Gardner & Dyke
+#TITLE:Resurrection Shuffle
+#MP3:Ashton, Gardner & Dyke - Resurrection Shuffle.mp3
+#CREATOR:Unknown, Fepo
+#COVER:Ashton, Gardner & Dyke - Resurrection Shuffle [CO].jpg
+#BACKGROUND:Ashton, Gardner & Dyke - Resurrection Shuffle [BG].jpg
+#GENRE:Jazz-Rock
+#YEAR:1969
+#LANGUAGE:English
+#BPM:400.2
+#GAP:21190
+#VIDEO:a=s51Fy8YBVLo,co=https://m.media-amazon.com/images/I/612C1Ewi7RL.jpg
+F 0 16 7 Wuh 
+F 18 6 7 Uh 
+F 26 8 7 Whu
+- 36
+: 171 3 7 Twis
+: 176 2 7 ted 
+: 180 4 7 self 
+: 188 5 7 fur
+: 194 2 6 ther 
+- 197
+: 198 2 7 From 
+: 202 2 5 the 
+: 205 2 7 mid
+: 209 2 5 dle 
+: 213 2 7 of 
+: 217 2 5 the 
+: 221 7 10 floor 
+- 230
+: 302 3 7 Throw 
+: 308 2 10 a 
+: 312 2 10 lit
+: 315 2 10 tle 
+: 319 4 7 kiss 
+: 326 4 7 to 
+: 332 2 5 the 
+: 335 2 7 wo
+: 339 2 7 man 
+: 343 4 7 next 
+: 351 2 4 doo
+: 354 2 -2 ~r 
+- 358
+: 430 4 5 Step 
+: 437 5 7 on 
+: 444 2 5 the 
+: 448 4 7 gas 
+- 453
+: 455 3 7 Put 
+: 460 2 5 your 
+: 464 3 7 hand 
+: 469 2 7 in 
+: 473 2 5 the 
+: 477 8 10 air 
+- 487
+: 561 4 7 Make 
+: 567 2 5 a 
+: 571 3 7 V 
+: 578 7 7 sign 
+: 587 2 7 and 
+: 591 2 5 you 
+: 595 3 7 throw 
+: 600 3 7 back 
+: 606 3 5 your 
+: 611 7 7 hair 
+- 620
+: 691 4 7 Think 
+: 697 2 7 a
+: 701 4 7 bout 
+: 708 3 7 no
+: 712 3 5 thing 
+- 716
+: 716 3 7 Now 
+: 721 2 5 you’re 
+: 725 5 7 nice 
+: 732 3 5 and 
+: 737 13 10 high 
+- 752
+: 818 2 5 You’re 
+: 821 2 7 ad
+: 825 2 5 vo
+: 829 2 7 ca
+: 834 2 5 ting 
+: 837 5 7 love 
+- 843
+: 845 3 7 But 
+: 850 2 7 you 
+: 853 6 7 don’t 
+: 861 6 7 know 
+: 869 12 -2 why 
+- 883
+: 942 2 6 Now 
+: 946 2 7 you’re 
+: 951 2 7 get
+: 955 2 6 ting 
+: 959 3 7 vi
+: 964 3 6 bra
+: 969 2 7 tions 
+: 975 4 7 all 
+: 981 4 7 down 
+: 987 2 6 to 
+: 990 4 7 your 
+: 996 8 10 feet 
+- 1006
+: 1070 2 7 That’s 
+: 1074 2 7 the 
+: 1078 4 7 brow 
+: 1085 3 7 bea
+: 1089 2 7 ting 
+: 1094 2 7 hea
+: 1098 2 5 vy 
+: 1102 2 7 lea
+: 1106 2 5 ther 
+- 1109
+: 1110 2 7 Re
+: 1114 2 5 sur
+: 1118 2 7 rec
+: 1122 2 5 tion 
+: 1126 2 7 beat 
+- 1130
+: 1231 2 2 Put 
+: 1236 2 2 your 
+: 1240 3 7 hand 
+: 1244 2 7 on 
+: 1247 3 7 your 
+: 1252 5 11 hips 
+- 1259
+: 1288 3 6 Now 
+: 1293 2 6 you 
+: 1297 3 7 let 
+: 1302 2 6 your 
+: 1306 4 11 back
+: 1314 6 7 bone 
+: 1324 5 7 slip 
+- 1331
+: 1341 3 7 Put 
+: 1347 3 7 out 
+: 1352 3 5 your 
+: 1357 5 7 tongue 
+- 1364
+: 1366 2 7 Put 
+: 1370 2 5 your 
+: 1374 3 7 hand 
+: 1379 2 7 in 
+: 1383 2 5 the 
+: 1387 8 11 air 
+- 1397
+: 1407 2 9 Make 
+: 1411 2 9 a 
+: 1415 4 10 V 
+: 1423 11 10 sign 
+- 1435
+: 1437 2 5 You 
+: 1441 2 10 just 
+: 1446 3 7 don’t 
+: 1454 6 7 care 
+- 1462
+: 1472 3 7 Now 
+: 1477 3 7 you 
+: 1482 4 7 feel 
+: 1489 3 7 free 
+- 1493
+: 1493 2 7 You 
+: 1497 2 7 got
+: 1501 2 6 ta 
+: 1505 6 7 lose 
+: 1513 2 7 con
+: 1517 9 10 trol 
+- 1528
+: 1538 4 9 All 
+: 1544 5 10 god’s 
+: 1553 7 10 child 
+: 1563 2 7 got 
+: 1566 2 7 a 
+: 1569 2 8 lit
+: 1573 2 7 tle 
+: 1577 2 8 bit 
+: 1580 2 8 of 
+: 1584 6 7 soul 
+- 1592
+: 1598 2 5 You 
+: 1601 3 7 don’t 
+: 1606 3 7 have 
+: 1611 3 7 to 
+: 1617 4 7 think 
+- 1622
+: 1622 2 7 You 
+: 1626 5 7 don’t 
+: 1633 3 7 have 
+: 1639 2 6 to 
+: 1643 3 7 move 
+: 1648 2 6 a 
+: 1651 3 7 mus
+: 1655 2 4 cle 
+- 1659
+: 1670 3 7 Do 
+: 1676 2 5 the 
+: 1680 6 7 brow 
+: 1689 3 7 bea
+: 1695 3 5 ting 
+- 1699
+: 1701 2 7 Hea
+: 1705 2 7 vy 
+: 1709 3 7 lea
+: 1714 2 5 ther 
+: 1718 3 7 re
+: 1724 3 4 sur
+: 1729 3 4 rec
+: 1735 3 3 tion 
+: 1744 5 5 shuf
+: 1751 5 0 fle 
+- 1758
+: 1862 6 5 All 
+: 1870 10 7 right 
+- 1882
+: 2003 15 -3 Oh, 
+: 2020 3 0 here 
+: 2025 3 4 we 
+: 2030 3 3 go 
+: 2035 2 3 a
+: 2038 11 -3 gain 
+- 2051
+: 2106 18 7 Oh, 
+- 2126
+: 2155 5 14 You’re 
+: 2162 2 7 do
+: 2165 2 7 ing 
+: 2168 2 7 it, 
+: 2172 3 12 all 
+: 2177 4 7 right 
+- 2183
+: 2261 2 7 You 
+: 2264 2 7 think 
+: 2267 2 7 a
+: 2271 5 7 bout 
+: 2278 2 7 no
+: 2282 3 7 thing 
+- 2286
+: 2287 3 7 Now 
+: 2292 2 7 you’re 
+: 2297 4 7 nice 
+: 2303 3 7 and 
+: 2309 12 11 high 
+- 2323
+: 2387 2 5 You’re 
+: 2393 2 7 ad
+: 2397 2 7 vo
+: 2401 3 7 ca
+: 2406 2 5 ting 
+: 2410 5 7 love 
+- 2416
+: 2416 2 7 But 
+: 2420 2 7 you 
+: 2424 6 7 don’t 
+: 2432 6 7 know 
+: 2441 3 7 why
+: 2446 3 0 ~
+- 2451
+: 2517 2 5 You’re 
+: 2521 2 7 get
+: 2525 2 5 tin’ 
+: 2529 5 7 vi
+: 2536 6 7 bra
+: 2543 4 7 tions 
+- 2548
+: 2550 2 7 All 
+: 2554 3 7 down 
+: 2559 2 5 to 
+: 2563 4 7 your 
+: 2569 6 10 feet 
+- 2577
+: 2643 2 7 That’s 
+: 2647 2 5 the 
+: 2651 4 7 brow 
+: 2657 2 7 bea
+: 2661 3 7 ting 
+: 2666 2 7 hea
+: 2670 2 5 vy 
+: 2674 2 7 lea
+: 2678 2 5 ther 
+: 2682 2 7 re
+: 2686 2 7 sur
+: 2690 2 7 rec
+: 2694 2 5 tion 
+: 2698 4 7 beat 
+- 2704
+: 2749 2 5 Here 
+: 2753 2 7 we 
+: 2757 3 7 go
+: 2762 8 2 ~
+- 2772
+: 2803 2 7 Put 
+: 2807 2 5 your 
+: 2811 2 7 hand 
+: 2815 2 7 on 
+: 2819 2 7 your 
+: 2823 5 10 hip 
+- 2830
+: 2858 2 5 You 
+: 2862 2 7 got
+: 2866 2 5 ta 
+: 2870 2 7 let 
+: 2874 2 5 your 
+* 2878 5 10  Back
+* 2885 7 7 bone 
+: 2895 5 7 slip 
+- 2902
+: 2912 2 7 Put 
+: 2916 6 7 out 
+: 2924 2 5 your 
+: 2928 6 7 tongue
+- 2935
+: 2937 2 7 Put 
+: 2941 2 5 your 
+: 2945 2 7 hand 
+: 2949 2 7 in 
+: 2953 2 5 the 
+: 2957 11 10 air 
+- 2970
+: 2977 2 10 Make 
+: 2981 2 9 a 
+: 2985 7 10 V 
+: 2996 4 10 sign 
+: 3003 6 9 like 
+: 3012 2 7 you 
+: 3015 2 7 just 
+: 3018 5 7 don’t 
+: 3025 7 2 care 
+- 3034
+: 3047 2 7 Now 
+: 3051 2 7 you 
+: 3055 3 7 feel 
+: 3061 7 7 free 
+- 3068
+: 3068 2 7 You 
+: 3072 2 7 got
+: 3076 2 5 ta 
+: 3080 4 7 lose 
+: 3086 2 7 con
+* 3090 9 10 trol 
+- 3101
+: 3111 4 10 All 
+: 3117 6 10 god’s 
+: 3130 3 9 chil
+: 3135 2 5 dren 
+: 3139 5 7 got 
+: 3147 4 5 some 
+: 3155 6 7 soul 
+- 3163
+: 3172 2 5 You 
+: 3176 6 7 don’t 
+: 3184 2 7 have 
+: 3188 2 5 to 
+: 3191 3 7 think 
+- 3195
+: 3196 2 7 You 
+: 3200 5 7 don’t 
+: 3207 2 7 have 
+: 3211 2 7 to 
+: 3215 2 7 move 
+: 3219 2 7 a 
+: 3223 4 7 mus
+: 3229 3 7 cle 
+- 3234
+: 3238 2 5 To 
+: 3242 2 7 do 
+: 3246 2 5 the 
+: 3250 8 7 brow 
+: 3260 2 7 bea
+: 3264 2 5 ting 
+: 3268 4 7 hea
+: 3274 4 5 vy 
+: 3280 3 7 lea
+: 3285 3 5 ther 
+: 3290 4 7 re
+: 3296 3 4 sur
+: 3301 7 5 rec
+: 3311 9 2 tion 
+: 3323 7 5 shuf
+: 3331 20 2 fle 
+- 3353
+: 3419 4 7 You’re 
+: 3425 2 7 do
+: 3428 2 7 ing 
+: 3433 5 7 all 
+: 3440 4 2 right 
+- 3446
+: 3577 2 5 This 
+: 3581 2 4 is 
+: 3585 2 4 gon
+: 3589 3 3 na 
+: 3594 6 3 last 
+: 3603 4 2 you 
+: 3609 2 0 for 
+: 3613 10 3 years 
+: 3625 4 0 and 
+: 3631 10 2 years 
+- 3643
+: 3645 4 -3 And 
+: 3651 5 -3 it’s 
+: 3658 29 2 all 
+: 3689 8 -2 right 
+- 3699
+: 3865 2 5 You’re 
+: 3868 3 7 do
+: 3873 2 7 ing 
+: 3877 5 7 all 
+: 3884 3 5 right 
+- 3889
+: 3933 2 2 Don’t 
+: 3937 3 2 get 
+: 3942 5 2 up
+: 3949 7 -2 tight 
+- 3958
+: 3990 4 9 Uh 
+: 3996 8 5 huh, 
+: 4007 13 7 yeah 
+- 4022
+: 4053 2 7 That 
+: 4057 2 7 sounds 
+: 4061 6 7 all 
+: 4069 7 5 right, 
+- 4078
+: 4113 8 5 Mm 
+: 4123 8 2 hm
+- 4133
+: 4187 2 2 Do 
+: 4190 5 2 do 
+: 4197 6 5 do 
+: 4205 3 2 do 
+- 4210
+: 4253 4 2 Do 
+: 4259 5 5 do 
+: 4267 4 5 do 
+: 4274 6 7 do 
+- 4282
+: 4315 4 -1 Do 
+: 4322 5 5 do 
+: 4330 6 -2 do 
+: 4338 3 -5 do 
+E

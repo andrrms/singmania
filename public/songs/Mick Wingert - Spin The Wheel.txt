@@ -1,0 +1,206 @@
+#ARTIST:Mick Wingert
+#TITLE:Spin The Wheel
+#MP3:Mick Wingert - Spin The Wheel.mp3
+#CREATOR:Raygin
+#EDITION:from Arcane Season 2
+#COVER:Mick Wingert - Spin The Wheel [CO].jpg
+#BACKGROUND:Mick Wingert - Spin The Wheel [BG].jpg
+#GENRE:Country
+#YEAR:2024
+#LANGUAGE:English
+#BPM:336
+#GAP:13020
+#VIDEO:a=Ns0N8bcB95I,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/5000x5000bb.jpg,bg=arcane-6231d71da0e7f.jpg,preview=12.96,medley=840-2256
+: 0 4 0 Go 
+: 8 4 3 spin 
+: 16 2 3 the 
+: 20 10 3 wheel
+: 32 4 -2 ~ 
+: 40 4 -2 and 
+: 48 4 -2 see 
+: 56 10 -2 where 
+: 68 2 -4 it 
+: 72 36 0 lands 
+- 118
+: 144 4 0 Join 
+: 152 4 3 in 
+: 160 2 3 the 
+: 164 10 5 cir
+: 176 4 -2 cus, 
+: 192 6 -4 stay 
+: 200 6 -2 for 
+: 208 2 -2 a 
+: 212 32 -2 dance, 
+: 248 2 -4 and 
+- 260
+: 264 4 0 Right 
+: 272 4 3 when 
+: 280 2 0 the 
+: 284 12 3 war 
+: 300 4 3 qui
+: 306 2 0 ets 
+: 312 6 4 down
+: 320 10 0 ~, 
+: 336 6 5 strike 
+: 344 10 5 up 
+: 356 2 -4 the 
+: 360 36 0 band 
+- 405
+: 408 4 -2 Keep 
+: 416 4 0 mar
+: 424 2 -4 ching 
+* 428 18 -4 on
+* 448 14 -2 ~
+* 464 12 0 ~, 
+: 488 6 -7 my 
+: 496 24 -4 friends 
+- 530
+: 548 3 -7 And 
+: 553 3 -4 do 
+: 560 2 -4 what 
+: 568 2 -4 you 
+: 572 16 -4 can 
+- 632
+: 840 6 3 Wait 
+: 848 6 3 ’til 
+: 856 6 3 your 
+: 864 2 3 bro
+: 868 6 3 thers 
+: 876 2 3 and 
+: 880 4 0 your 
+: 888 6 5 sis
+: 896 12 -2 ters, 
+: 912 4 -2 see 
+: 920 8 -2 where 
+: 932 2 -4 you 
+: 936 40 0 been 
+- 986
+: 996 2 0 And 
+: 1000 2 3 if 
+: 1004 10 3 you 
+: 1016 6 3 loved 
+: 1024 2 0 the 
+: 1028 6 3 jour
+: 1036 4 -2 ney 
+: 1056 6 -4 more 
+: 1064 6 -2 than 
+: 1072 2 -2 the 
+: 1076 36 -2 end, 
+: 1116 2 -2 go 
+: 1120 2 -2 a
+: 1124 10 -4 head 
+- 1134
+: 1136 2 0 Just 
+: 1142 4 0 turn 
+: 1148 2 3 that 
+: 1152 10 3 hour
+: 1164 6 3 glass 
+: 1172 2 0 a
+: 1176 16 4 round 
+: 1196 2 4 and 
+: 1200 16 5 count 
+: 1220 2 -4 to 
+: 1224 40 0 ten 
+- 1270
+: 1272 4 -2 This 
+: 1280 4 0 ain’t 
+: 1288 2 -4 good
+* 1292 18 -4 bye
+* 1312 14 -2 ~
+* 1328 10 0 ~ 
+: 1352 4 -7 no 
+: 1360 16 -4 more 
+- 1386
+F 1400 4 -4 Nah, 
+: 1416 3 -4 it 
+: 1423 2 -4 just 
+: 1431 2 -4 be
+: 1435 29 -4 gan 
+- 1486
+: 1548 6 3 March 
+: 1556 4 3 on, 
+: 1568 6 -4 my 
+: 1576 32 0 friends 
+- 1652
+: 1704 2 -4 Woah
+: 1708 6 0 -oh
+: 1716 10 3 -oh, 
+: 1728 18 5 oh
+: 1748 2 3 -o
+: 1752 72 5 -oh 
+- 1834
+: 1848 12 3 Woah
+: 1864 64 0 -oh 
+- 1950
+: 1992 2 -4 Woah
+: 1996 6 0 -oh
+: 2004 10 3 -oh, 
+: 2016 18 5 oh
+: 2036 2 3 -o
+* 2040 62 5 -oh 
+F 2104 8 8 uh 
+- 2122
+: 2136 14 3 Oh
+: 2152 62 0 -ooh
+: 2216 40 -2 -ooh 
+- 2266
+: 2288 4 3 Go 
+: 2294 6 3 and 
+: 2302 10 3 make 
+: 2316 4 3 some 
+: 2322 4 0 mis
+: 2328 6 3 takes
+: 2336 4 0 ~, 
+: 2350 2 -4 you 
+: 2354 4 -2 live 
+: 2360 8 -2 and 
+: 2372 2 -4 you 
+: 2376 48 0 learn 
+- 2434
+: 2444 2 -4 And 
+: 2448 6 0 where 
+: 2456 2 3 the 
+: 2460 4 3 chips 
+: 2470 10 3 fall, 
+: 2492 2 -4 it’s 
+: 2496 4 -4 not 
+: 2504 6 -2 your 
+: 2512 6 -2 con
+: 2520 32 -2 cern, 
+F 2558 4 -4 nah 
+- 2572
+: 2576 4 -4 Like 
+: 2584 2 -4 the 
+: 2588 18 0 wind 
+: 2608 2 3 gon
+: 2612 2 0 na 
+: 2616 2 3 bree
+: 2620 2 0 ~
+: 2624 12 -2 ze, 
+: 2640 18 -2 fires 
+: 2660 2 -4 will 
+: 2664 40 0 burn 
+- 2710
+: 2712 4 -2 Just 
+: 2720 4 0 let 
+: 2728 2 -4 the 
+: 2732 18 -4 gears
+: 2752 14 -2 ~
+: 2768 12 0 ~, 
+: 2792 6 -2 my 
+: 2800 16 -4 friend 
+- 2826
+: 2840 4 -4 Oh, 
+: 2856 4 0 just 
+: 2864 4 3 let 
+: 2872 2 0 the 
+: 2876 27 3 gears
+: 2905 22 4 ~
+: 2929 11 5 ~, 
+: 2944 6 0 my 
+: 2952 2 -2 friend
+: 2956 20 -4 ~ 
+- 2998
+: 3052 4 -4 Let’em 
+: 3060 28 -4 turn 
+E

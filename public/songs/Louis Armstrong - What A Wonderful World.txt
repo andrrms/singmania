@@ -1,0 +1,191 @@
+#ARTIST:Louis Armstrong
+#TITLE:What A Wonderful World
+#MP3:Louis Armstrong - What A Wonderful World.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1967
+#LANGUAGE:English
+#BPM:289.6
+#GAP:6380
+#VIDEO:v=rBrd_3VMC3c,co=what-a-wonderful-world-52c9d9ea1173d.jpg,bg=louis-armstrong-4de62132e3fde.jpg
+: 0 6 0 I 
+: 10 6 4 see 
+: 20 8 5 trees 
+: 34 4 5 of 
+* 42 8 12 green, 
+- 52
+: 90 8 14 Red 
+: 102 6 14 ro
+: 112 4 14 ses 
+: 120 6 12 too, 
+- 128
+: 152 6 10 I 
+: 162 2 10 see 
+: 166 4 10 them 
+: 174 10 9 bloom 
+- 186
+: 220 4 7 For 
+: 228 2 7 me 
+: 232 2 7 and 
+: 238 8 5 you 
+- 248
+: 262 4 5 And 
+: 268 4 5 I 
+: 276 4 5 think 
+: 282 2 5 to 
+: 286 4 5 my
+: 294 10 5 self: 
+- 306
+: 364 2 5 “What 
+: 368 2 5 a 
+: 372 4 4 won
+: 380 4 5 der
+: 388 4 7 ful 
+: 396 14 9 world.” 
+- 412
+: 516 6 0 I 
+: 526 4 4 see 
+: 532 12 5 skies 
+: 550 4 5 of 
+* 558 8 12 blue 
+- 568
+: 602 4 14 And 
+: 608 14 14 clouds 
+: 628 4 14 of 
+: 634 6 12 white. 
+- 642
+: 668 4 10 The 
+: 678 6 10 bright 
+: 688 4 10 bles
+: 694 2 10 sed 
+: 700 6 9 day, 
+- 708
+: 728 4 7 The 
+: 734 6 7 dark 
+: 744 2 7 sa
+: 748 2 7 cred 
+: 754 8 5 night 
+- 764
+: 788 2 5 And 
+: 792 4 5 I 
+: 798 4 5 think 
+: 804 2 5 to 
+: 808 4 5 my
+: 816 10 5 self: 
+- 828
+: 884 2 5 “What 
+: 888 2 5 a 
+: 892 2 4 won
+: 896 4 5 der
+: 904 4 7 ful 
+: 912 2 7 wo
+: 916 12 5 ~rld.” 
+- 930
+: 1042 4 5 The 
+: 1048 2 7 co
+: 1052 2 7 lors 
+: 1058 2 7 of 
+: 1062 4 7 the 
+: 1068 4 7 rain
+: 1076 8 0 bow, 
+- 1086
+: 1108 2 0 So 
+: 1114 2 10 pret
+: 1118 6 9 ty 
+: 1128 2 9 in 
+: 1132 2 7 the 
+: 1138 8 9 sky, 
+- 1148
+: 1172 4 5 Are 
+: 1178 4 7 al
+: 1186 2 7 so 
+: 1190 2 7 on 
+: 1194 2 7 the 
+: 1198 4 7 fa
+: 1204 6 0 ces 
+- 1212
+: 1234 4 7 Of 
+: 1242 2 10 peo
+: 1246 2 9 ple 
+: 1252 2 9 go
+: 1256 2 7 ing 
+: 1262 8 9 by. 
+- 1272
+: 1290 4 9 I 
+: 1300 4 12 see 
+: 1308 10 14 friends 
+: 1324 6 14 sha
+: 1332 2 14 kin’ 
+: 1338 10 12 hands 
+- 1350
+: 1366 4 9 Say
+: 1372 2 12 in’: 
+* 1378 8 14 “How 
+: 1390 2 14 do 
+: 1394 4 14 you 
+: 1400 10 12 do?” 
+- 1412
+: 1446 8 14 They’re 
+: 1458 4 14 real
+: 1464 4 14 ly 
+: 1472 4 12 say
+: 1478 10 12 ing: 
+- 1490
+* 1500 12 10 “I 
+: 1516 2 9 lo
+: 1520 4 7 ~ve 
+: 1528 12 7 you.” 
+- 1542
+: 1554 4 0 I 
+: 1562 4 4 hear 
+: 1570 4 5 ba
+: 1578 4 5 bies 
+: 1586 12 12 cry. 
+- 1600
+: 1634 6 14 I 
+: 1644 6 14 watch 
+: 1654 4 14 them 
+: 1662 10 12 grow. 
+- 1674
+: 1706 6 10 They’ll 
+: 1714 4 10 learn 
+: 1722 4 10 much 
+: 1730 14 9 more, 
+- 1746
+: 1766 2 9 Than 
+: 1770 8 7 I’ll 
+: 1782 2 7 e
+: 1786 4 7 ver 
+: 1792 14 5 know 
+- 1808
+: 1820 4 5 And 
+: 1826 4 5 I 
+: 1834 4 5 think 
+: 1840 4 5 to 
+: 1846 4 5 my
+: 1852 6 5 self: 
+- 1860
+: 1918 2 5 “What 
+: 1922 4 5 a 
+: 1928 4 4 won
+: 1934 4 5 der
+: 1940 6 7 ful 
+* 1948 22 9 world.” 
+- 1972
+: 2042 26 9 Yes, 
+: 2080 4 9 I 
+: 2088 6 9 think 
+: 2098 4 5 to 
+: 2106 6 7 my
+: 2116 20 5 self: 
+- 2138
+: 2188 2 5 “What 
+: 2192 4 5 a 
+: 2198 4 4 won
+: 2204 4 5 der
+: 2212 14 7 ful 
+: 2234 50 5 world.” 
+- 2286
+: 2382 22 5 Oh, 
+* 2410 26 9 yeah! 
+E

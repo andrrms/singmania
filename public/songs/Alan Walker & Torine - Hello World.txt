@@ -1,0 +1,295 @@
+#ARTIST:Alan Walker & Torine
+#TITLE:Hello World
+#MP3:Alan Walker & Torine - Hello World.mp3
+#CREATOR:Daniel
+#GENRE:Pop
+#YEAR:2022
+#LANGUAGE:English
+#BPM:208.8
+#GAP:9270
+#VIDEO:v=u7JMhVI7taQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/a3/2b/b9a32b92-d7f8-cba0-7db2-6ad3c9179e40/886449834914.jpg/5000x5000bb.jpg,bg=walker-alan-5783516c6265a.jpg,preview=64.96,medley=776-1661
+: 0 2 5 All 
+: 4 2 5 my 
+: 8 7 3 life, 
+: 24 2 1 I’ve 
+: 28 2 1 been 
+: 32 2 6 wal
+: 36 2 6 king 
+: 40 2 8 on 
+: 44 2 10 my 
+: 48 5 5 own 
+- 55
+: 63 1 5 Al
+: 65 2 6 ong 
+: 69 1 6 the 
+: 72 2 8 lone
+: 76 2 10 ly 
+: 80 4 5 road 
+: 89 3 1 of 
+: 93 1 1 the 
+: 96 6 3 heart 
+- 104
+: 129 2 -2 On 
+: 133 2 5 my 
+: 137 4 5 si
+: 143 3 3 de, 
+: 153 2 1 I 
+: 156 2 1 got 
+: 159 3 6 sym
+: 163 3 6 pho
+: 167 1 8 n
+: 169 1 10 ies 
+: 173 1 5 and 
+: 175 6 5 songs 
+- 183
+: 190 2 5 To 
+: 193 2 6 help 
+: 196 2 6 me 
+: 199 3 8 find 
+: 203 3 10 my 
+: 208 7 5 way 
+: 217 3 1 through 
+: 221 1 1 the 
+: 223 6 3 dark 
+- 231
+F 248 1 -2 ,
+: 250 1 10 O
+: 252 2 12 h, 
+: 256 7 13 six 
+: 265 3 10 in 
+: 270 2 13 the 
+: 274 5 12 mor
+: 281 4 10 ning 
+: 287 2 12 with 
+: 291 4 10 now
+: 297 4 8 here 
+: 303 2 6 to 
+: 307 5 5 go 
+- 314
+: 320 7 6 Sing 
+: 329 2 5 hel
+: 333 2 6 lo 
+: 337 4 5 world, 
+: 342 1 1 it 
+: 345 3 1 feels 
+: 349 3 1 so 
+: 354 5 3 good 
+: 361 2 1 to 
+: 365 2 0 be 
+: 369 6 -2 home 
+- 377
+F 383 1 -2 ,
+: 385 6 13 Lost 
+: 394 2 10 in 
+: 398 2 13 the 
+: 402 6 12 dark, 
+: 410 2 10 but 
+: 414 2 12 I’ll 
+: 418 3 10 ne
+: 422 2 12 ver 
+: 426 3 8 be 
+: 431 2 6 a
+: 435 5 5 lone 
+- 442
+: 449 7 6 Sing 
+: 458 2 5 hel
+: 462 2 6 lo 
+: 466 4 5 world, 
+: 471 1 1 it 
+: 474 3 1 feels 
+: 478 3 1 so 
+: 483 5 3 good 
+: 490 2 1 to 
+: 494 2 0 be 
+: 498 6 -2 home 
+- 506
+F 705 6 6 (Sing 
+F 714 5 6 hello 
+F 721 4 5 world, 
+F 727 2 1 it 
+F 731 2 1 feels 
+F 735 2 1 so 
+F 739 4 3 good 
+F 745 2 1 to 
+F 749 2 0 be 
+F 753 8 -2 home) 
+- 763
+: 776 2 -2 Hel
+: 780 4 -2 lo, 
+: 792 2 0 hel
+: 796 4 0 lo, 
+: 808 2 1 hel
+: 812 4 1 lo 
+* 819 8 5 world 
+- 829
+: 832 3 6 I 
+: 837 4 6 o
+: 843 3 5 pen 
+: 848 3 6 my 
+: 852 3 5 eyes 
+: 856 1 1 and 
+: 859 3 1 said 
+: 864 2 1 hel
+: 868 4 3 lo 
+: 876 2 1 to 
+: 880 2 0 the 
+: 884 8 -2 world 
+- 894
+: 904 2 -2 Hel
+: 908 4 -2 lo, 
+: 920 2 0 hel
+: 924 4 0 lo, 
+: 936 2 1 hel
+: 940 4 1 lo 
+* 947 8 5 world 
+- 957
+: 961 3 6 I 
+: 966 4 6 o
+: 972 3 5 pen 
+: 977 3 6 my 
+: 981 3 5 eyes 
+: 985 1 1 and 
+: 988 3 1 said 
+: 993 2 1 hel
+: 997 4 3 lo 
+: 1005 2 1 to 
+: 1009 2 0 the 
+: 1013 8 -2 world 
+- 1023
+: 1028 3 -2 All 
+: 1033 3 5 night 
+: 1038 4 5 lo
+: 1044 3 3 ng, 
+: 1052 2 1 I’ve 
+: 1055 2 1 been 
+: 1059 2 6 tal
+: 1063 2 6 king 
+* 1067 2 8 to 
+* 1071 2 10 my
+: 1075 9 5 self 
+- 1086
+: 1090 2 5 The 
+: 1093 2 6 voi
+: 1096 2 6 ces 
+: 1100 2 8 in 
+: 1103 2 10 my 
+: 1107 7 5 head 
+: 1116 4 1 don’t 
+: 1122 8 3 cry 
+- 1132
+: 1157 2 -2 On 
+: 1161 2 5 my 
+: 1165 3 5 mi
+: 1170 3 3 nd, 
+: 1181 2 1 I 
+: 1184 2 1 be
+: 1188 2 6 come 
+: 1191 3 6 some
+: 1195 3 8 bo
+: 1199 2 10 dy 
+: 1203 8 5 else 
+- 1213
+: 1218 2 5 So 
+: 1221 2 6 this 
+: 1224 2 6 is 
+: 1228 3 8 how 
+: 1232 1 10 it 
+: 1235 6 5 feels 
+: 1243 1 1 to 
+: 1245 3 1 say 
+: 1250 2 1 good
+: 1254 6 3 bye 
+- 1262
+F 1404 1 -2 ,
+: 1406 1 10 O
+: 1408 2 12 h, 
+* 1412 7 13 six 
+* 1421 3 10 in 
+* 1426 2 13 the 
+* 1430 5 12 mor
+* 1437 4 10 ning 
+* 1443 2 13 with 
+* 1447 4 10 now
+* 1453 4 8 here 
+* 1459 2 6 to 
+* 1463 5 5 go 
+- 1470
+: 1477 7 6 Sing 
+: 1486 2 5 hel
+: 1490 2 6 lo 
+: 1494 4 5 world, 
+: 1499 1 1 it 
+: 1502 3 1 feels 
+: 1506 3 1 so 
+: 1511 5 3 good 
+: 1518 2 1 to 
+: 1522 2 0 be 
+: 1526 6 -2 home 
+- 1534
+F 1540 1 -2 ,
+: 1542 6 13 Lost 
+: 1551 2 10 in 
+: 1555 2 13 the 
+: 1559 6 12 dark, 
+: 1567 2 10 but 
+: 1571 2 12 I’ll 
+: 1575 3 10 ne
+: 1579 2 12 ver 
+: 1583 3 8 be 
+: 1588 2 6 a
+: 1592 5 5 lone 
+- 1599
+: 1606 7 6 Sing 
+: 1615 2 5 hel
+: 1619 2 6 lo 
+: 1623 4 5 world, 
+: 1628 1 1 it 
+: 1631 3 1 feels 
+: 1635 3 1 so 
+: 1640 5 3 good 
+: 1647 2 1 to 
+: 1651 2 0 be 
+: 1655 6 -2 home 
+- 1663
+: 1932 2 -2 Hel
+: 1936 4 -2 lo, 
+: 1948 2 0 hel
+: 1952 4 0 lo, 
+: 1964 2 1 hel
+: 1968 4 1 lo 
+: 1975 8 5 world 
+- 1985
+: 1988 3 6 I 
+: 1993 4 6 o
+: 1999 3 5 pen 
+: 2004 3 6 my 
+: 2008 3 5 eyes 
+: 2012 1 1 and 
+: 2015 3 1 said 
+: 2020 2 1 hel
+: 2024 4 3 lo 
+: 2032 2 1 to 
+: 2036 2 0 the 
+: 2040 8 -2 world 
+- 2050
+: 2060 2 -2 Hel
+: 2064 4 -2 lo, 
+: 2076 2 0 hel
+: 2080 4 0 lo, 
+: 2092 2 1 hel
+: 2096 4 1 lo 
+: 2103 8 5 world 
+- 2113
+F 2116 3 6 (I 
+F 2121 4 6 o
+F 2127 3 5 pen 
+F 2132 3 6 my 
+F 2136 3 5 eyes 
+F 2140 1 1 and 
+F 2143 3 1 said 
+F 2148 2 1 hel
+F 2152 4 3 lo 
+F 2160 2 1 to 
+F 2164 2 0 the 
+F 2168 8 -2 world) 
+E

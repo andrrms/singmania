@@ -1,0 +1,260 @@
+#ARTIST:Tegan and Sara
+#TITLE:Call It Off
+#MP3:Tegan and Sara - Call It Off.mp3
+#CREATOR:hurzharz
+#YEAR:2007
+#LANGUAGE:English
+#BPM:276.46
+#GAP:8870
+#VIDEO:v=BTMt8sjbFtU,co=the-con-506a1b7d6a4b2.jpg,bg=tegan-and-sara-51a6502d9984f.jpg
+: 0 4 7 I 
+: 8 2 4 won’t 
+: 16 4 6 re
+: 24 4 3 gret 
+: 32 4 5 saying 
+: 38 5 4 this 
+- 44
+: 44 4 6 This 
+: 52 15 8 thing 
+- 68
+: 68 4 4 That 
+: 74 4 8 I’m 
+: 80 3 7 say
+: 84 18 6 ing 
+- 104
+: 120 1 7 Is 
+: 122 2 8 it 
+: 126 4 5 better 
+: 132 7 3 than 
+- 140
+: 140 3 8 Keep
+: 144 2 4 ing 
+: 148 4 7 my 
+: 154 6 6 mouth 
+: 164 8 3 shut 
+- 174
+: 176 4 3 That 
+: 182 4 5 goes 
+: 192 2 6 with
+: 196 2 4 out 
+: 202 4 7 say
+: 210 8 6 ing 
+- 220
+: 228 18 7 Call 
+: 254 18 5 break 
+: 284 20 8 it 
+: 316 24 9 off 
+- 342
+: 348 14 8 Call 
+: 376 18 5 break 
+: 404 18 8 my 
+: 426 6 4 own 
+: 434 22 9 heart 
+- 458
+: 472 6 6 Maybe 
+: 480 4 8 I 
+: 486 2 6 would 
+: 490 2 5 have 
+: 494 4 4 been 
+- 499
+: 500 7 5 Something 
+: 508 2 7 you’d 
+: 516 2 8 be 
+: 520 2 7 good 
+: 524 14 5 at 
+- 540
+: 588 6 4 Maybe 
+: 596 6 7 you 
+: 604 2 5 would 
+: 608 2 3 have 
+: 612 3 4 been 
+- 616
+: 616 6 6 Something 
+: 624 6 8 I’d 
+: 632 3 7 be 
+: 636 4 6 good 
+: 642 24 7 at 
+- 668
+: 694 2 3 But 
+: 698 6 6 now 
+: 718 4 6 we’ll 
+: 724 4 3 never 
+: 730 10 8 know 
+- 742
+: 754 2 8 I 
+: 758 4 4 won’t 
+: 766 2 7 be 
+: 772 6 3 sad 
+- 779
+: 780 2 6 But 
+: 784 2 7 in 
+: 788 6 5 case 
+- 795
+: 796 4 6 I’ll 
+: 802 2 2 go 
+: 808 8 5 there 
+- 818
+: 820 15 6 Ev
+: 836 4 8 ry
+: 844 14 7 day 
+- 860
+: 870 4 7 To 
+: 876 4 4 make 
+: 884 4 6 myself 
+: 898 4 8 feel 
+: 904 6 2 bad 
+- 911
+: 912 3 7 There’s 
+: 916 2 3 a 
+: 920 7 5 chance 
+- 928
+: 928 5 7 I’ll 
+: 934 12 4 start 
+: 954 2 6 to 
+: 960 2 3 won
+: 966 5 2 der 
+- 972
+: 972 2 7 If 
+: 978 2 6 this 
+: 982 2 3 was 
+: 986 2 4 the 
+: 990 1 7 thing 
+: 992 2 5 to 
+: 996 12 4 do 
+- 1010
+: 1118 5 8 I 
+: 1124 4 4 won’t 
+: 1132 2 3 be 
+: 1138 2 6 out 
+: 1146 8 4 long 
+- 1155
+: 1156 1 5 But 
+: 1158 3 8 I 
+: 1162 2 6 still 
+: 1170 2 7 think 
+: 1190 2 6 it 
+: 1196 1 4 bet
+: 1198 4 3 ter 
+: 1204 16 7 if 
+- 1222
+: 1236 4 8 You 
+: 1242 4 3 take 
+: 1248 4 7 your 
+: 1256 7 6 time 
+- 1264
+: 1264 3 7 Com
+: 1268 2 4 ing 
+: 1274 1 6 o
+: 1276 2 3 ver 
+: 1282 10 8 here 
+- 1293
+: 1294 4 7 I 
+: 1300 2 5 think 
+: 1308 2 4 that’s 
+: 1312 2 3 for 
+: 1316 2 2 the 
+: 1320 20 3 best 
+- 1342
+: 1344 20 5 Call 
+: 1374 16 4 break 
+: 1404 14 6 it 
+: 1432 26 8 off 
+- 1460
+: 1462 16 6 Call 
+: 1492 16 5 break 
+: 1520 16 6 my 
+: 1542 4 4 own 
+: 1552 28 7 heart 
+- 1582
+: 1590 1 5 May
+: 1592 2 7 be 
+: 1596 2 8 I 
+: 1602 3 6 would 
+: 1606 2 3 have 
+: 1610 5 7 been 
+- 1616
+: 1616 3 5 Some
+: 1620 2 6 thing 
+: 1626 4 7 you’d 
+: 1632 2 6 be 
+: 1636 5 7 good 
+: 1642 18 6 at 
+- 1662
+: 1708 1 6 May
+: 1710 3 5 be 
+: 1714 2 7 you 
+: 1720 2 6 would 
+: 1724 4 4 have 
+: 1730 3 5 been 
+- 1734
+: 1734 1 4 Some
+: 1736 2 6 thing 
+: 1740 4 7 I’d 
+: 1748 2 4 be 
+: 1754 2 6 good 
+: 1758 26 6 at 
+- 1786
+: 1812 3 5 But 
+: 1816 13 9 now 
+- 1830
+: 1830 6 6 We’ll 
+: 1838 3 7 ne
+: 1842 2 5 ver 
+: 1852 12 8 know 
+- 1866
+: 1872 1 8 I 
+: 1874 5 5 won’t 
+: 1880 2 7 be 
+: 1886 10 3 sad 
+- 1897
+: 1898 2 8 But 
+: 1902 2 7 in 
+: 1906 6 5 case 
+- 1913
+: 1914 3 7 I’ll 
+: 1918 4 4 go 
+: 1924 5 3 there 
+- 1930
+: 1930 21 6 Ev
+: 1952 2 8 ery
+: 1962 18 7 day 
+- 1982
+: 1988 4 5 To 
+: 1994 4 3 make 
+: 2000 5 6 my
+: 2006 6 4 self 
+: 2014 6 7 feel 
+: 2022 5 4 bad 
+- 2028
+: 2028 3 6 There’s 
+: 2032 2 4 a 
+: 2036 8 6 chance 
+- 2045
+: 2046 5 7 I’ll 
+: 2052 8 4 start 
+: 2072 2 6 to 
+: 2078 2 5 won
+: 2084 7 4 der 
+- 2092
+: 2092 1 7 If 
+: 2094 2 4 this 
+: 2098 2 3 was 
+: 2102 2 2 the 
+: 2106 1 5 thing 
+: 2108 2 7 to 
+: 2114 18 6 do 
+- 2134
+: 2164 3 8 I’ll 
+: 2168 21 6 start 
+: 2190 4 7 to 
+: 2196 5 5 won
+: 2202 5 4 der 
+- 2208
+: 2208 3 7 If 
+: 2212 3 6 this 
+: 2216 3 4 was 
+: 2220 3 5 the 
+: 2224 3 5 thing 
+: 2228 3 6 to 
+: 2232 22 7 do 
+E

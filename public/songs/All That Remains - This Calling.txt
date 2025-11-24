@@ -1,0 +1,330 @@
+#ARTIST:All That Remains
+#TITLE:This Calling
+#MP3:All That Remains - This Calling.mp3
+#CREATOR:matteymaz, slayerkitaro
+#GENRE:Metalcore
+#YEAR:2006
+#LANGUAGE:English
+#BPM:389
+#GAP:4140
+#VIDEO:v=raRHUG0PkQU,co=the-fall-of-ideals-5706f5e54b3ce.jpg,bg=all-that-remains-629c82ff80635.jpg
+F 0 186 0 Yow! 
+- 188
+F 235 5 0 I 
+F 242 4 0 se
+F 248 6 0 cret
+F 256 5 0 ly 
+F 264 12 0 crave 
+- 278
+F 297 5 0 Crave 
+F 304 3 0 that 
+F 311 4 0 scent 
+F 318 4 0 a
+F 326 10 0 gain 
+- 338
+F 350 4 0 Still 
+F 358 5 0 feel 
+F 365 3 0 it 
+F 372 5 0 press
+F 379 5 0 ing 
+F 387 5 0 on 
+F 394 5 0 me 
+F 401 23 0 now 
+- 426
+F 466 5 0 Now 
+F 473 4 0 with 
+F 479 3 0 the 
+F 484 4 0 on
+F 493 5 0 set 
+- 500
+F 523 4 0 My 
+F 530 2 0 flesh 
+F 534 4 0 is 
+F 541 5 0 weak
+F 548 4 0 en
+F 556 9 0 ing 
+- 567
+F 579 5 0 I 
+F 588 5 0 steel 
+F 595 5 0 my 
+F 602 6 0 nerves 
+- 610
+F 617 4 0 For 
+F 624 4 0 temp
+F 631 5 0 ta
+F 638 5 0 tions 
+F 646 5 0 at 
+F 652 5 0 hand 
+F 666 7 0 a
+F 683 54 0 gain 
+- 739
+: 755 10 5 And 
+: 770 9 4 I 
+: 784 15 5 hear 
+: 814 5 5 this 
+: 826 12 4 call
+: 842 13 5 ing 
+- 857
+: 870 11 5 Still 
+: 883 6 4 you
+: 891 7 0 ~ 
+: 901 5 0 don’t 
+: 913 9 9 seem 
+: 928 8 7 so 
+: 943 10 5 far 
+: 956 6 4 at
+: 964 6 2 ~ 
+: 971 7 2 all 
+- 980
+: 985 11 5 And 
+: 1000 5 4 I
+: 1007 6 0 ~ 
+: 1014 14 0 hear 
+- 1030
+* 1043 5 0 This 
+* 1057 12 4 call
+* 1070 11 5 ing 
+F 1091 189 5 out 
+- 1282
+F 1330 5 0 No 
+F 1337 4 0 se
+F 1344 5 0 cret 
+F 1360 4 0 de
+F 1366 3 0 cep
+F 1373 5 0 tion 
+- 1380
+F 1388 3 0 For 
+F 1395 3 0 these 
+F 1402 4 0 would 
+F 1408 6 0 tear 
+F 1416 4 0 this 
+F 1424 9 0 down 
+- 1435
+F 1444 2 0 You 
+F 1447 3 0 will 
+F 1452 4 0 note 
+F 1459 2 0 the 
+F 1463 4 0 past 
+- 1469
+F 1481 5 0 Spare 
+F 1488 2 0 the 
+F 1492 10 0 pain 
+F 1510 6 0 spare 
+F 1518 4 0 the 
+F 1525 20 0 pain 
+- 1547
+F 1561 5 0 Words 
+F 1568 4 0 match 
+F 1575 4 0 my 
+F 1583 3 0 deeds 
+F 1590 3 0 with 
+F 1598 3 0 bru
+F 1604 5 0 tal 
+F 1611 6 0 hon
+F 1618 3 0 es
+F 1626 29 0 ty 
+- 1657
+F 1676 4 0 Nev
+F 1682 4 0 er 
+F 1690 3 0 for
+F 1698 4 0 get 
+F 1719 3 0 these 
+F 1726 2 0 choic
+F 1734 3 0 es 
+F 1740 3 0 were 
+F 1747 5 0 made 
+F 1761 5 0 by 
+F 1777 9 0 me 
+- 1788
+: 1792 7 5 And 
+: 1807 10 4 I 
+: 1822 13 5 hear 
+: 1851 4 5 this 
+: 1864 13 4 call
+: 1879 12 5 ing 
+- 1893
+: 1908 11 5 Still 
+: 1921 6 4 you
+: 1928 4 0 ~ 
+: 1936 5 0 don’t 
+: 1950 9 9 seem 
+: 1966 7 7 so 
+: 1980 11 5 far 
+: 1994 7 4 at
+: 2002 6 2 ~ 
+: 2009 6 2 all 
+- 2017
+* 2023 9 5 And 
+* 2037 11 4 I 
+* 2052 13 5 hear 
+* 2081 4 5 this 
+* 2095 11 4 call
+* 2109 13 5 ing 
+- 2124
+: 2139 9 5 Still 
+: 2152 6 4 you
+: 2159 4 0 ~ 
+: 2167 3 0 don’t 
+: 2181 9 9 seem 
+: 2196 7 7 so 
+: 2211 11 5 far 
+: 2225 3 4 at
+: 2231 7 2 ~ 
+: 2239 6 2 all 
+- 2247
+: 2253 9 5 And 
+: 2268 4 4 I
+: 2274 7 0 ~ 
+: 2283 12 0 hear 
+- 2297
+* 2310 4 0 This 
+* 2325 9 4 call
+* 2340 10 5 ing 
+F 2357 130 0 out 
+- 2489
+F 3290 4 0 Not 
+F 3297 6 0 fall
+F 3304 4 0 ing 
+F 3311 4 0 vic
+F 3319 4 0 tim 
+F 3326 6 0 to 
+F 3333 4 0 the 
+F 3342 4 0 fire 
+- 3347
+F 3348 4 0 That 
+F 3355 4 0 burns 
+F 3362 3 0 in
+F 3369 4 0 side 
+F 3376 3 0 of 
+F 3384 8 0 me 
+- 3394
+F 3405 4 0 Though 
+F 3414 5 0 I 
+F 3420 3 0 am 
+F 3427 4 0 fear
+F 3434 4 0 ful 
+- 3440
+F 3441 2 0 I 
+F 3447 5 0 will 
+F 3456 4 0 not 
+F 3463 4 0 pre
+F 3470 4 0 vent 
+F 3477 3 0 this 
+F 3484 4 0 trag
+F 3491 3 0 e
+F 3499 8 0 dy 
+- 3509
+F 3520 3 0 My 
+F 3528 3 0 strength’s 
+F 3535 3 0 been 
+F 3542 3 0 test
+F 3549 4 0 ed 
+- 3555
+F 3578 4 0 I 
+F 3585 2 0 wear 
+F 3592 2 0 the 
+F 3598 4 0 scars 
+F 3606 4 0 that 
+F 3614 8 0 prove 
+- 3624
+F 3635 5 0 Still 
+F 3643 3 0 I 
+F 3650 3 0 be
+F 3656 5 0 lieve 
+- 3663
+F 3671 3 0 That 
+F 3678 2 0 this 
+F 3686 4 0 call
+F 3693 4 0 ing 
+F 3700 3 0 will 
+F 3708 4 0 see 
+F 3721 5 0 me 
+F 3737 108 0 through 
+- 3847
+* 4213 7 5 And 
+* 4228 10 4 I 
+* 4242 14 5 hear 
+* 4271 5 5 this 
+* 4284 11 4 call
+* 4299 14 5 ing 
+- 4315
+: 4328 12 5 Still 
+: 4342 7 4 you
+: 4350 5 0 ~ 
+: 4358 5 0 don’t 
+: 4372 7 9 seem 
+: 4386 6 7 so 
+: 4399 11 5 far 
+: 4415 5 4 at
+: 4421 6 2 ~ 
+: 4429 7 2 all 
+- 4438
+: 4444 6 5 And 
+: 4458 10 4 I 
+: 4473 15 5 hear 
+: 4501 6 5 this 
+: 4515 11 4 call
+: 4530 12 5 ing 
+- 4544
+* 4559 10 5 Still 
+* 4572 6 4 you
+* 4579 4 0 ~ 
+* 4588 5 0 don’t 
+* 4602 9 9 seem 
+* 4616 9 7 so 
+* 4631 10 5 far 
+* 4645 4 4 at
+* 4652 5 2 ~ 
+* 4659 7 2 all 
+- 4668
+: 4675 7 9 And 
+: 4688 6 7 I
+: 4696 6 5 ~ 
+: 4703 15 5 hear 
+- 4720
+: 4731 9 9 This 
+: 4745 10 7 call
+: 4758 11 5 ing 
+F 4777 126 0 out 
+- 4905
+: 5018 4 9 My 
+: 5026 3 9 strength’s 
+: 5033 2 9 been 
+: 5039 4 9 test
+: 5047 8 9 ed 
+- 5057
+: 5075 5 9 I 
+: 5083 5 9 wear 
+: 5091 5 9 the 
+: 5098 3 9 scars 
+: 5105 3 9 that 
+: 5113 8 9 prove 
+- 5123
+: 5134 4 9 Still 
+: 5141 5 9 I 
+: 5148 4 9 be
+: 5155 4 9 lieve 
+- 5161
+: 5169 4 9 That 
+: 5177 3 9 this 
+: 5184 5 9 call
+: 5192 4 9 ing 
+: 5197 4 9 will 
+: 5206 4 9 see 
+: 5221 4 9 me 
+: 5235 70 9 through 
+- 5307
+F 5364 5 0 Still 
+F 5371 5 0 I 
+F 5379 5 0 be
+F 5385 10 0 lieve 
+- 5397
+F 5407 3 0 This 
+F 5413 6 0 call
+F 5421 5 0 ing 
+F 5427 4 0 will 
+F 5435 6 0 see 
+F 5449 6 0 me 
+F 5464 51 0 through 
+F 5524 9 0 oh! 
+E

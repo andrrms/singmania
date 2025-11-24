@@ -1,0 +1,325 @@
+#ARTIST:Real Life
+#TITLE:Catch Me I’m Falling
+#MP3:Real Life - Catch Me I’m Falling.mp3
+#CREATOR:livewireau
+#YEAR:1983
+#LANGUAGE:English
+#BPM:340
+#GAP:1860
+#VIDEO:v=OeysVlyC_us,co=https://i.discogs.com/bgWZ8FNZMdsLBN1OOvThbgOJoae52u7E3TZeMqB3840/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk0/NjUtMTQ1MTMyMjI4/MS02MDE1LmpwZWc.jpeg
+: 0 6 7 I 
+: 8 2 9 lay 
+: 12 6 9 down 
+: 24 2 9 to 
+: 28 4 9 rest 
+: 38 6 9 my 
+: 48 4 9 head 
+- 54
+: 56 4 9 My 
+: 64 4 7 soul 
+: 72 2 9 to 
+: 76 6 9 keep 
+: 88 4 9 the 
+: 96 4 9 night 
+: 104 4 9 I 
+: 112 4 9 dread 
+- 118
+: 120 4 9 It’s 
+: 128 6 4 no 
+: 140 18 2 dream 
+- 160
+: 224 6 7 Slum
+: 232 2 9 ber 
+: 236 6 9 comes 
+: 248 2 9 as 
+: 252 6 9 dark
+: 262 4 9 ness 
+: 272 4 9 falls 
+- 278
+: 280 4 9 And 
+: 288 2 7 shad
+: 292 6 9 ows 
+: 302 6 9 dance 
+: 312 2 9 a
+: 316 6 9 cross 
+: 328 4 9 my 
+: 336 4 9 walls 
+- 342
+: 344 4 9 It’s 
+* 352 6 4 no 
+* 364 14 2 dream 
+- 380
+: 416 10 -7 Wake 
+: 430 10 -5 up 
+: 448 4 -7 don’t 
+: 456 8 -5 sleep 
+- 466
+: 480 4 5 Dreams 
+: 488 2 5 be
+: 494 6 7 come 
+: 504 4 7 so 
+: 512 6 7 real 
+: 520 2 7 to 
+: 524 4 0 me 
+: 534 6 4 I 
+- 542
+: 544 10 5 Wake 
+: 558 8 7 up 
+: 576 4 5 don’t 
+: 584 8 7 sleep 
+- 594
+: 608 4 5 While 
+: 616 4 5 the 
+: 624 4 7 night 
+: 630 4 7 is 
+: 640 10 0 young 
+- 652
+: 1184 6 5 I 
+: 1192 2 5 lay 
+: 1196 6 4 down 
+: 1208 2 4 to 
+: 1212 4 2 rest 
+: 1222 6 4 my 
+: 1232 4 0 head 
+- 1238
+: 1240 4 0 My 
+: 1248 4 5 soul 
+: 1256 2 5 to 
+: 1260 6 4 keep 
+: 1272 4 4 the 
+: 1280 4 2 night 
+: 1288 4 4 I 
+: 1296 4 0 dread 
+- 1302
+: 1304 4 0 It’s 
+: 1312 6 2 no 
+: 1324 18 -3 dream 
+- 1344
+: 1440 6 5 Slum
+: 1448 2 5 ber 
+: 1452 6 4 comes 
+: 1464 2 4 as 
+: 1468 6 2 dark
+: 1476 6 4 ness 
+: 1488 4 0 falls 
+- 1494
+: 1496 4 0 And 
+: 1504 2 5 shad
+: 1508 6 5 ows 
+: 1518 6 4 dance 
+: 1528 2 4 a
+: 1532 6 2 cross 
+: 1544 4 4 my 
+: 1552 4 0 walls 
+- 1558
+: 1560 4 0 It’s 
+* 1568 6 2 no 
+* 1580 14 -3 dream 
+- 1596
+: 1684 2 -7 But 
+: 1688 4 -5 I 
+: 1696 4 -7 ne
+: 1702 4 -7 ver 
+: 1710 6 -5 sleep 
+: 1720 4 -5 a
+: 1728 6 -7 lone 
+- 1736
+: 1752 4 5 My 
+: 1760 4 7 dreams 
+: 1768 2 9 be
+: 1774 6 10 come 
+: 1784 4 9 so 
+: 1792 4 7 real 
+: 1800 2 0 to 
+: 1804 4 0 me 
+- 1810
+: 1816 4 5 I 
+: 1832 4 5 un
+: 1840 6 7 plug 
+: 1848 2 7 the 
+: 1856 6 5 phone 
+- 1864
+: 1880 2 5 While 
+: 1884 2 5 the 
+: 1888 12 7 night 
+: 1912 4 14 is 
+: 1920 6 12 young 
+- 1928
+: 1936 4 17 Catch 
+: 1944 2 16 me 
+: 1948 2 14 I’m 
+: 1952 22 12 fal
+: 1984 8 5 ling 
+- 1994
+: 2016 18 10 Down 
+: 2040 2 9 a
+: 2044 8 7 gain 
+- 2054
+: 2060 2 17 I 
+: 2064 4 17 know 
+: 2070 2 16 it’s 
+: 2076 2 14 a 
+: 2080 24 12 dream 
+: 2112 8 5 but 
+- 2122
+: 2144 18 10 Just 
+: 2168 4 9 the 
+: 2176 10 7 same 
+- 2188
+: 2464 4 5 There’s 
+: 2472 2 5 a 
+: 2478 6 4 face 
+: 2488 2 4 be
+: 2494 4 2 fore 
+: 2504 4 4 my 
+: 2512 4 0 eyes 
+- 2518
+: 2520 4 0 They’re 
+: 2528 6 5 closed 
+: 2536 2 5 but 
+: 2540 6 4 I 
+: 2552 4 4 can 
+: 2560 4 2 re
+: 2568 4 4 cog
+: 2576 6 0 nise 
+- 2583
+: 2584 4 0 The 
+: 2592 8 2 dan
+: 2604 4 -3 ger 
+: 2614 8 -3 there 
+- 2624
+: 2720 4 5 Slum
+: 2728 2 5 ber 
+* 2732 6 4 comes 
+: 2744 2 4 as 
+: 2748 4 2 dark
+: 2758 4 4 ness 
+: 2768 6 0 falls 
+- 2776
+: 2778 2 0 And 
+: 2786 2 5 sha
+: 2790 4 5 dows 
+: 2798 6 4 dance 
+: 2808 2 4 a
+: 2812 6 2 cross 
+: 2824 4 4 my 
+: 2832 6 0 walls 
+- 2839
+: 2840 4 0 It’s 
+: 2848 6 2 no 
+: 2860 12 -3 dream 
+- 2874
+: 2964 2 2 But 
+: 2968 4 5 I 
+: 2976 4 5 ne
+: 2982 4 5 ver 
+: 2988 6 7 sleep 
+: 3000 2 7 a
+: 3004 6 5 lone 
+- 3012
+: 3032 4 5 My 
+: 3040 4 7 dreams 
+: 3048 2 9 be
+: 3054 4 10 come 
+: 3064 4 9 so 
+: 3072 4 7 real 
+: 3080 2 0 to 
+: 3084 4 0 me 
+- 3090
+: 3096 6 2 I 
+: 3112 4 5 un
+: 3120 4 7 plug 
+: 3128 4 7 the 
+: 3136 8 5 phone 
+- 3146
+: 3160 2 5 While 
+: 3164 2 5 the 
+: 3168 12 7 night 
+: 3192 4 14 is 
+: 3200 6 12 young 
+- 3208
+: 3216 6 17 Catch 
+: 3224 2 16 me 
+: 3228 2 14 I’m 
+: 3232 22 12 fal
+: 3264 10 5 ling 
+- 3276
+: 3296 16 10 Down 
+: 3320 4 9 a
+: 3328 6 7 gain 
+- 3336
+: 3340 2 17 I 
+: 3344 4 17 know 
+: 3350 2 16 it’s 
+: 3356 2 14 a 
+* 3360 26 12 dream 
+: 3392 10 5 but 
+- 3404
+: 3424 18 10 Just 
+: 3448 2 9 the 
+: 3456 8 7 same 
+- 3466
+: 3472 4 17 Catch 
+: 3480 2 16 me 
+: 3484 2 14 I’m 
+: 3488 26 12 fal
+: 3520 8 5 ling 
+- 3530
+: 3552 26 12 Fal
+: 3584 14 5 ling 
+- 3600
+: 4240 4 17 Catch 
+: 4248 2 16 me 
+: 4252 2 14 I’m 
+: 4256 20 12 fal
+: 4288 8 5 ling 
+- 4298
+: 4320 16 10 Down 
+: 4344 2 9 a
+: 4348 6 7 gain 
+- 4356
+: 4364 2 17 I 
+: 4368 4 17 know 
+: 4374 2 16 it’s 
+: 4380 2 14 a 
+: 4384 20 12 dream 
+: 4416 6 5 but 
+- 4424
+* 4448 18 10 Just 
+: 4472 2 9 the 
+: 4480 6 7 same 
+- 4488
+: 4496 4 17 Catch 
+: 4504 2 16 me 
+: 4508 2 14 I’m 
+: 4512 24 12 fal
+: 4544 8 5 ling 
+- 4554
+: 4560 4 17 Catch 
+: 4568 2 16 me 
+: 4572 2 14 I’m 
+: 4576 24 12 fal
+: 4608 8 5 ling 
+- 4618
+: 4624 4 17 Catch 
+: 4632 2 16 me 
+: 4636 2 14 I’m 
+: 4640 24 12 fal
+* 4672 14 5 ling 
+- 4688
+: 4760 4 5 I’m 
+: 4768 10 4 fa
+: 4780 8 5 ~l
+: 4792 28 5 ling 
+- 4822
+: 4864 6 17 Catch 
+: 4876 6 16 me 
+: 4888 4 14 I’m 
+: 4896 26 12 fal
+: 4928 14 5 ling 
+- 4944
+: 5016 4 5 I’m 
+: 5024 10 4 fa
+: 5036 8 5 ~l
+: 5048 28 5 ling 
+E

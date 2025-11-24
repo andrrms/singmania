@@ -1,0 +1,172 @@
+#ARTIST:Génériques
+#TITLE:Happy Days
+#MP3:Génériques - Happy Days.mp3
+#CREATOR:Leroidukitch
+#LANGUAGE:English
+#BPM:266
+#GAP:1370
+#VIDEO:v=XWBgO-94ltY,co=https://cdnmetv.metv.com/1cXG7-1465926557-embed-Happy%20Days-1.jpg
+* 0 4 -6 Sun
+* 6 4 -5 day 
+* 12 4 -3 Mon
+: 18 4 -1 day, 
+: 24 2 2 Hap
+: 28 2 4 py 
+: 32 8 3 days 
+- 42
+: 46 4 -1 Tues
+: 52 4 -12 day 
+: 58 4 0 Wednes
+: 64 3 2 day, 
+: 70 2 4 Hap
+: 74 2 4 py 
+: 78 6 5 days 
+- 86
+: 88 4 1 Thurs
+: 94 4 -11 day 
+* 100 4 1 Fri
+* 106 4 3 day, 
+* 112 2 4 Hap
+: 116 2 4 py 
+: 120 6 5 days 
+- 127
+: 128 2 6 The 
+: 132 6 2 weekend 
+: 140 8 3 comes, 
+- 149
+: 150 2 4 The 
+: 154 6 2 cycle 
+: 162 8 3 hums, 
+- 172
+: 174 2 4 Rea
+: 178 2 4 dy 
+: 182 2 4 to 
+: 186 4 5 race 
+: 192 4 6 with 
+: 198 12 7 you 
+- 212
+: 218 6 7 These 
+: 226 6 5 days 
+: 234 4 7 are 
+: 240 8 7 all, 
+- 250
+: 264 6 4 Hap
+: 272 6 2 py 
+: 280 2 2 and 
+: 284 8 2 Free 
+- 294
+: 308 6 6 These 
+: 316 6 6 days 
+: 324 2 6 are 
+: 328 8 7 all, 
+- 338
+: 346 6 3 Share 
+: 354 6 2 in 
+: 362 2 2 the 
+: 366 8 2 dream 
+- 376
+: 384 4 4 Good
+: 390 4 -6 bye 
+: 396 4 -6 grey 
+: 402 6 -6 skies 
+- 409
+: 410 2 -4 Hel
+: 414 2 -4 lo 
+: 417 5 -2 blue 
+- 423
+: 424 2 -5 There’s 
+: 428 2 -4 no
+: 432 2 -2 thing 
+: 436 2 -2 can 
+: 440 2 -2 hold 
+: 444 4 -2 me 
+- 449
+: 450 1 -2 When 
+: 452 1 2 I 
+: 454 3 2 hold 
+: 458 6 0 you 
+- 466
+F 467 5 -2 Feels 
+: 475 2 -5 so 
+: 478 8 -5 right, 
+- 487
+: 488 3 -4 It 
+: 492 2 -2 can’t 
+: 495 3 -1 be 
+: 499 8 -3 wrong 
+- 509
+: 515 4 0 Rockin’ 
+: 520 11 0 and rollin’ 
+: 533 3 3 all 
+: 537 4 5 week 
+: 543 6 1 long 
+- 551
+: 725 4 -6 Sun
+: 731 4 -5 day 
+: 737 4 -3 Mon
+: 743 4 -1 day, 
+: 749 2 2 Hap
+: 753 2 4 py 
+: 757 8 3 days 
+- 767
+: 771 4 -1 Tues
+: 777 4 -12 day 
+: 783 4 0 Wednes
+: 789 3 2 day, 
+* 795 2 4 Hap
+* 799 2 4 py 
+* 803 6 5 days 
+- 811
+: 813 4 1 Thurs
+: 819 4 -11 day 
+: 825 4 1 Fri
+: 831 4 3 day, 
+: 837 2 4 Hap
+: 841 2 4 py 
+: 845 6 5 days 
+- 852
+: 853 2 6 Sat
+: 857 6 2 ur
+: 865 8 2 day, 
+- 874
+: 875 2 4 What 
+: 879 6 2 a 
+: 887 8 2 day, 
+- 897
+: 899 2 4 Groov
+: 903 2 4 in 
+: 907 2 4 all 
+: 911 4 4 week 
+: 917 4 5 with 
+: 923 12 6 you 
+- 937
+: 943 6 6 These 
+: 951 6 6 days 
+: 959 2 6 are 
+: 963 8 7 all, 
+- 973
+: 981 6 3 Share 
+: 989 6 2 in 
+: 997 2 2 the 
+: 1001 8 2 dream 
+- 1011
+: 1030 6 6 These 
+: 1038 6 6 days 
+: 1046 2 6 are 
+: 1050 8 7 all, 
+- 1060
+: 1068 6 3 Share 
+: 1076 6 2 in 
+: 1084 2 2 the 
+: 1088 8 2 dream 
+- 1098
+: 1114 6 7 These 
+: 1122 5 6 hap
+: 1128 2 6 py 
+: 1131 6 8 days 
+: 1138 3 8 are 
+: 1142 3 7 your’
+: 1146 2 6 s 
+: 1149 3 6 and 
+: 1153 9 -6 mine 
+E

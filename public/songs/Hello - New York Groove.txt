@@ -1,0 +1,285 @@
+#ARTIST:Hello
+#TITLE:New York Groove
+#MP3:Hello - New York Groove.mp3
+#CREATOR:Fepo
+#GENRE:Glam
+#YEAR:1975
+#LANGUAGE:English
+#BPM:286.3
+#GAP:16000
+#VIDEO:a=2rIgJ3vOPcg,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/69/07/ad690741-f0f4-aeac-5c83-586567f4f6cd/5013929052802.jpg/5000x5000bb.jpg,bg=https://i.pinimg.com/originals/c2/11/f1/c211f108b0c3b50842fa91b417bfdbfe.jpg
+: 0 2 -1 Been 
+: 4 2 -1 a 
+: 8 4 -1 year 
+- 14
+: 18 4 -1 Since 
+: 25 3 1 I 
+: 31 3 -1 was 
+: 37 8 -1 here 
+- 47
+: 98 3 -1 On 
+: 104 2 -1 the 
+: 108 8 -1 street 
+- 118
+: 122 5 1 I’m 
+: 129 2 -1 just 
+: 133 2 -1 pas
+: 137 2 -4 sing 
+: 141 3 -4 my 
+: 146 4 -4 time 
+: 152 2 -6 a
+: 156 3 -6 way 
+- 161
+: 196 3 13 To 
+: 201 3 13 the 
+: 207 4 13 left 
+: 213 2 13 and 
+: 218 3 14 to 
+: 223 2 13 the 
+: 227 4 13 right 
+- 233
+: 241 2 13 A 
+: 245 3 13 town 
+: 250 3 13 of 
+: 256 5 13 stone 
+: 263 4 13 grows 
+: 270 3 14 to 
+: 276 2 13 the 
+: 280 5 13 sky 
+- 286
+: 286 2 11 And 
+: 290 2 9 it’s 
+: 294 2 8 out 
+: 298 2 8 of 
+* 303 7 8 sight 
+- 312
+: 334 2 6 In 
+: 337 2 4 a 
+: 342 5 4 fa
+: 349 2 3 ding 
+: 353 7 3 light 
+- 362
+F 406 2 11 Here 
+F 410 2 13 I 
+F 415 4 8 am 
+F 422 2 4 a
+F 426 2 4 gain 
+F 430 2 9 in 
+F 434 2 11 the 
+F 438 2 8 ci
+F 441 2 4 ty 
+- 445
+F 493 2 4 With 
+F 496 2 6 a 
+F 500 4 5 fist 
+F 506 2 7 full 
+F 509 2 4 of 
+F 513 3 2 dol
+F 518 3 2 lars 
+- 523
+F 531 2 4 And 
+F 535 3 6 ba
+F 540 2 5 by 
+- 544
+F 560 2 5 You 
+F 563 2 7 bet
+F 566 2 7 ter 
+F 569 2 5 be
+F 572 3 4 lieve 
+- 577
+: 580 4 3 I’m 
+: 587 5 4 back 
+- 594
+: 611 2 4 Back 
+: 614 2 4 in 
+: 617 2 4 the 
+* 621 2 3 New 
+* 625 5 3 York 
+* 633 6 1 groove 
+- 641
+: 676 4 3 I’m 
+: 684 4 4 back 
+- 690
+: 706 2 4 Back 
+: 709 2 4 in 
+: 712 2 4 the 
+* 716 2 3 New 
+* 720 5 3 York 
+* 728 8 1 groove 
+- 738
+: 772 4 3 I’m 
+: 779 5 4 back 
+- 786
+: 803 2 4 Back 
+: 806 2 4 in 
+: 809 2 4 the 
+* 813 2 3 New 
+* 817 5 3 York 
+* 824 8 1 groove 
+- 834
+: 868 5 3 I’m 
+: 876 6 4 back 
+- 884
+F 894 2 4 In 
+F 897 2 4 the 
+F 900 4 8 New 
+F 906 5 8 York 
+F 913 6 4 groove 
+- 921
+F 942 2 6 In 
+F 945 2 4 the 
+F 948 3 2 New 
+F 953 5 5 York 
+F 960 6 0 groove 
+- 968
+: 1070 2 0 In 
+: 1074 2 0 the 
+: 1078 3 0 back 
+: 1084 3 0 of 
+: 1089 2 0 a 
+: 1093 4 2 Ca
+: 1099 2 0 dil
+: 1103 9 0 lac 
+- 1114
+: 1166 2 0 With 
+: 1170 2 0 a 
+: 1174 6 0 la
+: 1183 3 0 dy 
+: 1188 3 2 by 
+: 1194 3 0 my 
+: 1200 5 0 side 
+- 1206
+: 1206 2 -3 Tell 
+: 1210 2 -3 you 
+: 1214 3 -3 where 
+: 1220 3 -5 I’ll 
+: 1225 2 -5 be 
+- 1229
+: 1263 4 14 Stop 
+: 1269 2 14 at 
+: 1273 7 14 third 
+: 1283 3 14 and 
+: 1288 5 15 for
+: 1295 2 14 ty
+: 1299 7 14 three 
+- 1308
+: 1312 4 14 Dance 
+: 1318 2 14 in
+: 1322 2 14 to 
+: 1326 2 14 the 
+: 1330 6 17 night 
+- 1338
+: 1343 3 17 It’s 
+: 1349 2 15 gon
+: 1353 2 14 na 
+: 1357 2 10 be 
+: 1361 2 9 ec
+: 1365 2 9 sta
+: 1369 8 9 sy 
+- 1379
+: 1391 3 7 This 
+: 1397 4 7 day 
+: 1404 3 5 was 
+: 1409 3 5 made 
+: 1415 2 4 for 
+: 1419 8 4 me 
+- 1429
+F 1476 2 -3 I 
+F 1480 3 2 feel 
+F 1485 3 0 so 
+F 1490 3 2 good 
+F 1496 2 -3 to
+F 1500 6 -3 night 
+- 1508
+F 1566 3 8 Who 
+F 1571 5 8 cares 
+F 1578 3 6 a
+F 1582 4 5 bout 
+F 1588 2 4 to
+F 1591 2 3 mor
+F 1595 3 2 row 
+- 1600
+: 1645 4 4 I’m 
+: 1652 4 5 back 
+- 1658
+: 1675 2 5 Back 
+: 1678 2 5 in 
+: 1681 2 5 the 
+* 1684 3 4 New 
+* 1689 5 4 York 
+* 1698 6 2 groove 
+- 1706
+: 1742 4 4 I’m 
+: 1749 5 5 back 
+- 1756
+: 1772 2 5 Back 
+: 1775 2 5 in 
+: 1778 2 5 the 
+* 1781 3 4 New 
+* 1786 5 4 York 
+* 1795 6 2 groove 
+- 1803
+: 1838 4 4 I’m 
+: 1845 5 5 back 
+- 1852
+: 1867 2 5 Back 
+: 1870 2 5 in 
+: 1873 2 5 the 
+* 1876 3 4 New 
+* 1881 5 4 York 
+* 1890 6 2 groove 
+- 1898
+: 1933 4 4 I’m 
+: 1941 5 5 back 
+- 1948
+F 1961 2 2 In 
+F 1964 2 2 the 
+F 1967 2 6 New 
+F 1971 4 4 York 
+F 1977 6 0 groove 
+- 1985
+F 2007 3 7 In 
+F 2012 2 5 the 
+F 2016 3 7 New 
+F 2021 3 2 York 
+F 2026 2 -1 groove 
+- 2029
+: 2030 4 4 I’m 
+: 2037 4 5 back 
+- 2043
+: 2060 2 5 Back 
+: 2063 2 5 in 
+: 2066 2 5 the 
+* 2069 3 4 New 
+* 2074 5 4 York 
+* 2083 6 2 groove 
+- 2091
+: 2126 4 4 I’m 
+: 2133 5 5 back 
+- 2140
+: 2157 2 5 Back 
+: 2160 2 5 in 
+: 2163 2 5 the 
+* 2166 3 4 New 
+* 2171 5 4 York 
+* 2180 6 2 groove 
+- 2188
+: 2223 4 4 I’m 
+: 2230 4 5 back 
+- 2236
+: 2252 2 5 Back 
+: 2255 2 5 in 
+: 2258 2 5 the 
+* 2261 3 4 New 
+* 2266 5 4 York 
+* 2275 6 2 groove 
+- 2283
+: 2317 4 4 I’m 
+* 2324 5 5 back 
+- 2331
+F 2389 2 5 In 
+F 2392 2 5 the 
+F 2396 3 5 New 
+F 2401 4 2 York 
+F 2407 4 -1 groove 
+E

@@ -1,0 +1,340 @@
+#ARTIST:Kids Music
+#TITLE:Jingle Bells
+#MP3:Kids Music - Jingle Bells.mp3
+#CREATOR:moonbreaker
+#GENRE:Christmas
+#LANGUAGE:English
+#BPM:212.82
+#GAP:10060
+#VIDEO:v=3PgNPc-iFW8,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/ea/be/62eabe00-e7f5-1f58-6a68-2484379c7630/12DMGIM03480.rgb.jpg/5000x5000bb.jpg
+: 0 2 -8 Da
+: 4 2 1 shing 
+: 8 2 -1 through 
+: 12 2 -3 the 
+: 17 4 -8 snow 
+- 23
+: 29 3 -8 In a 
+: 33 2 -8 one 
+: 38 2 1 horse 
+: 42 2 -1 op
+: 45 2 -3 en 
+: 49 8 -6 sleigh 
+- 59
+: 66 2 -6 O’er 
+: 70 3 2 the 
+: 75 2 1 fields 
+: 79 2 -1 we 
+: 83 5 -4 go, 
+- 90
+: 99 2 4 Lau
+: 103 2 4 ghing 
+: 108 2 2 all 
+: 112 2 -1 the 
+: 116 4 1 way 
+- 122
+: 129 2 -8 The 
+: 132 2 -8 Bells 
+: 137 2 1 on 
+: 141 2 -1 bob 
+: 145 2 -3 tail 
+: 149 6 -8 ring, 
+- 157
+: 161 2 -8 They 
+: 164 2 -8 Ma
+: 170 2 1 king 
+: 174 2 -1 spi
+: 178 2 -3 rits 
+: 182 4 -6 bright 
+- 188
+: 193 2 -6 What 
+: 198 2 2 fun 
+: 202 2 1 it 
+: 206 2 -1 is 
+: 211 2 4 to 
+: 215 2 4 laugh 
+: 219 2 4 and 
+: 223 2 4 sing 
+: 227 2 5 A 
+: 231 1 4 slei
+: 233 2 3 ghing 
+: 239 2 2 song 
+: 243 2 1 to
+: 247 4 -1 night 
+- 253
+: 265 2 1 Jin
+: 269 2 1 gle 
+: 274 4 1 bells, 
+: 282 2 1 jin
+: 286 2 1 gle 
+: 290 4 1 bells 
+: 298 2 1 Jin
+: 301 2 4 gle 
+: 306 2 -3 all 
+: 310 2 -1 the 
+: 314 4 1 way 
+- 320
+: 331 2 2 Oh, 
+: 335 2 2 what 
+: 339 2 2 fun 
+: 344 2 2 it 
+: 347 2 2 is 
+: 351 2 1 to 
+: 355 2 1 ride 
+: 360 1 1 in 
+: 362 1 1 a 
+: 365 2 1 one 
+: 368 2 -1 horse 
+: 371 2 -1 o
+: 375 2 1 pen 
+: 379 4 -1 sleigh 
+: 384 5 4 hey 
+- 391
+: 396 2 1 Jin
+: 400 2 1 gle 
+: 404 4 1 bells, 
+: 412 2 1 jin
+: 416 2 1 gle 
+: 420 3 1 bells 
+: 428 2 1 Jin
+: 431 2 4 gle 
+: 435 2 -3 all 
+: 439 2 -1 the 
+: 443 6 1 way 
+- 451
+: 460 2 2 Oh, 
+: 464 2 2 what 
+: 468 2 2 fun 
+: 472 2 2 it 
+: 476 2 2 is 
+: 480 2 1 to 
+: 484 2 1 ride 
+: 489 1 1 In 
+: 491 1 1 a 
+: 493 2 4 one 
+: 497 2 4 horse 
+: 501 2 2 o
+: 504 2 -1 pen 
+: 509 10 -3 sleigh 
+- 521
+: 647 2 -8 A 
+: 651 2 -8 day 
+: 654 2 1 or 
+: 658 2 -1 two 
+: 663 2 -3 a
+: 667 4 -8 go, 
+- 673
+: 678 2 -8 I 
+: 682 2 -8 thought 
+: 686 2 -8 I’d 
+: 690 2 1 take 
+: 694 2 -1 a 
+: 698 6 -6 ride, 
+- 706
+: 711 2 -6 And 
+: 715 2 -6 soon 
+: 719 2 2 Miss 
+: 723 2 0 Fan
+: 727 2 -1 ny 
+: 731 8 -4 Bright 
+: 743 2 4 was 
+: 747 2 4 sea
+: 751 2 4 ted 
+: 755 2 3 by 
+: 759 2 -1 my 
+: 763 9 1 side; 
+- 774
+: 775 2 -8 The 
+: 779 2 -8 horse 
+: 783 2 1 was 
+: 787 2 -1 lean 
+: 791 2 -3 and 
+: 795 6 -8 lank 
+- 803
+: 806 2 -8 Mis
+: 810 2 -8 for
+: 814 2 1 tune 
+: 818 2 -1 seemed 
+: 822 2 -3 his 
+: 826 6 -6 lot 
+- 834
+: 839 2 -6 We 
+: 843 2 3 got 
+: 847 2 1 into 
+: 851 2 -1 a 
+: 856 2 4 drif
+: 860 2 4 ted 
+: 864 2 4 bank, 
+: 871 2 4 and 
+: 875 2 6 then 
+: 879 2 4 we 
+: 883 2 2 got 
+: 887 2 -1 up
+: 891 4 -3 sot. 
+- 897
+: 904 2 1 Jin
+: 908 2 1 gle 
+: 912 4 1 bells, 
+: 922 2 1 jin
+: 926 2 1 gle 
+: 930 4 1 bells 
+: 938 2 1 Jin
+: 942 2 3 gle 
+: 946 2 -3 all 
+: 950 2 -1 the 
+: 954 6 1 way 
+- 962
+: 969 2 2 Oh, 
+: 973 2 2 what 
+: 977 2 2 fun 
+: 981 2 2 it 
+: 985 2 2 is 
+: 989 2 1 to 
+: 993 2 1 ride
+: 997 1 1 in 
+: 999 2 1 a 
+: 1002 2 1 one 
+: 1005 2 -1 horse 
+: 1008 2 -1 o
+: 1012 2 1 pen 
+: 1016 7 -1 sleigh 
+: 1024 3 2 hey 
+- 1029
+: 1033 2 1 Jin
+: 1037 2 1 gle 
+: 1041 4 1 bells, 
+: 1048 2 1 jin
+: 1052 2 1 gle 
+: 1056 4 1 bells 
+: 1064 2 1 Jin
+: 1068 2 4 gle 
+: 1072 2 -3 all 
+: 1076 2 -1 the 
+: 1080 4 1 way 
+- 1086
+: 1095 2 2 Oh, 
+: 1099 2 2 what 
+: 1103 2 2 fun 
+: 1108 2 2 it 
+: 1111 2 2 is 
+: 1115 2 1 to 
+: 1119 2 1 ride 
+: 1124 1 1 in 
+: 1126 2 1 a 
+: 1130 1 4 one 
+: 1132 2 4 horse 
+: 1136 2 2 o
+: 1139 2 1 pen 
+: 1143 8 -3 sleigh 
+- 1153
+: 1283 2 -8 Now 
+: 1287 2 1 the 
+: 1291 2 -1 ground 
+: 1295 2 -3 is 
+: 1299 6 -8 white 
+- 1307
+: 1311 1 -8 To 
+: 1313 2 -8 go 
+: 1317 2 -8 it 
+: 1320 2 1 while 
+: 1324 1 -1 you
+: 1326 2 -3 ’re 
+: 1329 7 -6 young 
+- 1338
+: 1344 2 -6 Take 
+: 1348 2 2 the 
+: 1352 2 1 girls 
+: 1356 2 -1 to
+: 1360 6 -4 night 
+- 1368
+: 1372 2 4 And 
+: 1376 2 4 sing 
+: 1380 2 4 this 
+: 1384 2 1 slei
+: 1387 2 -1 ghing 
+: 1391 6 1 song 
+- 1399
+: 1403 2 -8 Just 
+: 1407 2 -8 get 
+: 1411 2 1 a 
+: 1415 2 -1 bob 
+: 1419 2 -3 tailed 
+: 1423 6 -8 bay 
+- 1431
+: 1434 2 -8 Two
+: 1438 2 -8 -for
+: 1442 2 1 ty 
+: 1446 2 -1 as 
+: 1450 2 -3 his 
+: 1454 6 -6 speed 
+- 1462
+: 1467 2 -6 Then 
+: 1470 2 4 hitch 
+: 1474 2 4 him 
+: 1478 2 1 to 
+: 1482 2 -1 an 
+: 1485 2 4 o
+: 1489 2 4 pen 
+: 1492 2 4 sleigh 
+: 1495 2 4 and 
+: 1499 2 4 crack! 
+: 1504 2 3 you’ll 
+: 1508 2 1 take 
+: 1512 2 -1 the 
+: 1517 5 -3 lead 
+- 1524
+: 1527 4 4 Oh! 
+: 1533 2 1 Jin
+: 1537 2 1 gle 
+: 1541 4 1 Bells, 
+: 1548 2 1 Jin
+: 1552 2 1 gle 
+: 1556 4 1 Bells, 
+: 1563 2 1 Jin
+: 1567 2 4 gle 
+: 1571 2 -3 all 
+: 1575 2 -1 the 
+: 1579 6 1 way! 
+- 1587
+: 1594 2 2 Oh, 
+: 1598 2 2 What 
+: 1602 2 2 fun 
+: 1606 2 2 it 
+: 1610 2 2 is 
+: 1614 2 1 to 
+: 1618 2 1 ride 
+: 1622 1 1 in 
+: 1624 1 1 a 
+: 1627 2 1 one 
+: 1630 2 -1 horse 
+: 1634 1 -1 o
+: 1636 2 1 pen 
+: 1640 6 -1 sleigh.
+: 1647 4 4 ~ 
+- 1653
+: 1657 2 1 Jin
+: 1661 2 1 gle 
+: 1665 4 1 Bells, 
+: 1672 2 1 Jin
+: 1675 2 1 gle 
+: 1679 4 1 Bells, 
+: 1687 2 1 Jin
+: 1691 2 4 gle 
+: 1695 2 -3 all 
+: 1699 2 -1 the 
+: 1703 6 1 way! 
+- 1711
+: 1718 2 2 Oh, 
+: 1722 2 2 What 
+: 1726 2 2 fun 
+: 1730 2 2 it 
+: 1734 2 2 is 
+: 1738 2 1 to 
+: 1742 2 1 ride 
+: 1746 1 1 in 
+: 1748 1 1 a 
+: 1750 4 4 one 
+: 1755 7 4 horse 
+: 1763 5 6 o
+: 1769 6 8 pen 
+: 1777 20 9 sleigh. 
+E

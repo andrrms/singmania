@@ -1,0 +1,315 @@
+#ARTIST:Dover
+#TITLE:King George
+#MP3:Dover - King George.mp3
+#CREATOR:Hanso
+#YEAR:2001
+#LANGUAGE:English
+#BPM:209.98
+#GAP:4500
+#VIDEO:v=wbM9RtOGdKE,co=https://i.discogs.com/7uiQw0_qekBvr0T7WcFQB0FGnOrgy5fqLlIFzbnpj8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQz/MjYzLTE1MjMzMTI1/MzMtNjkwMC5qcGVn.jpeg,bg=dover-52cecf3b8b3b2.jpg
+: 0 4 6 Get 
+: 6 8 5 down 
+- 16
+: 20 3 5 I’ll s
+: 24 2 6 leep 
+: 28 2 3 it 
+: 32 10 2 off 
+- 44
+: 56 1 3 You 
+: 58 4 4 don’t 
+: 64 4 9 have 
+: 70 8 8 to 
+- 80
+: 82 2 4 Be
+: 86 4 8 lieve 
+: 92 2 9 no 
+* 96 16 7 more 
+- 114
+: 118 2 5 On
+: 122 4 7 ly 
+: 128 6 12 got 
+: 136 4 12 four 
+: 142 4 11 ho
+: 148 6 10 urs 
+- 156
+: 164 1 7 To 
+: 166 2 8 learn 
+: 170 2 9 your 
+: 174 3 9 ma
+: 178 4 6 nners 
+- 183
+: 184 1 3 Ne
+: 186 4 2 ver 
+: 192 6 2 felt 
+: 200 4 9 so 
+: 206 4 8 close 
+: 212 1 9 to 
+: 214 3 5 you 
+: 218 3 3 be
+: 222 10 2 fore
+: 234 16 0 ~ 
+- 252
+: 272 6 6 Don’t 
+: 280 6 5 you 
+- 288
+: 292 1 5 Don’t 
+: 294 2 6 get 
+: 298 4 3 it 
+: 304 8 2 wrong 
+- 314
+: 328 1 3 I’ll 
+: 330 4 4 have 
+: 336 4 8 some
+: 342 6 8 one 
+- 350
+: 354 2 4 To 
+: 358 4 8 get 
+: 364 2 9 it 
+: 368 14 7 done 
+- 384
+: 390 2 5 On
+: 394 4 7 ly 
+: 400 6 12 got 
+: 408 4 12 four 
+: 414 4 11 ho
+: 420 6 10 urs 
+- 428
+: 436 1 7 To 
+: 438 2 8 learn 
+: 442 2 9 your 
+: 446 3 9 ma
+: 450 4 8 nners 
+- 455
+: 456 1 3 Ne
+: 458 4 2 ver 
+: 464 6 2 felt 
+: 472 4 9 so 
+: 478 4 8 close 
+: 484 1 9 to 
+: 486 3 5 you 
+: 490 3 3 be
+: 494 12 2 fore
+: 508 12 0 ~ 
+- 522
+* 528 14 2 Long 
+* 544 6 1 shot 
+- 551
+: 552 1 1 In 
+: 554 4 2 the 
+: 560 8 5 name 
+: 570 1 6 of 
+: 572 2 4 the 
+: 576 6 3 God 
+- 584
+: 592 8 3 Need 
+: 602 2 4 a 
+: 606 4 5 Mc
+: 612 3 3 Cart
+: 616 6 2 ney 
+* 624 20 9 song 
+- 646
+: 648 1 10 All 
+: 650 4 10 I 
+: 656 5 8 want 
+: 662 3 6 you 
+: 666 2 5 to 
+: 670 6 4 know 
+- 677
+: 678 1 3 Is 
+: 680 1 3 that 
+: 682 2 3 I 
+: 686 3 4 won’t 
+: 690 4 4 be 
+: 696 2 5 here 
+: 700 2 5 for 
+: 704 4 4 long 
+- 710
+: 712 1 0 And 
+: 714 2 -1 my 
+: 718 6 2 heart 
+- 725
+: 726 1 4 Oh! 
+: 728 4 6 My 
+: 734 4 5 heart 
+: 740 3 4 is 
+: 744 1 3 get
+: 746 2 2 ting 
+: 750 16 1 sore 
+- 768
+: 784 4 6 Get 
+: 790 8 5 down 
+- 800
+: 802 3 5 I’ll s
+: 806 2 6 leep 
+: 810 2 3 it 
+: 814 10 2 off 
+- 826
+: 838 2 3 You 
+: 842 4 4 don’t 
+: 848 4 9 have 
+: 854 8 8 to 
+- 863
+: 864 2 4 Be
+: 868 4 8 lieve 
+: 874 4 9 no 
+: 880 16 7 more 
+- 898
+: 902 1 5 On
+: 904 4 7 ly 
+: 910 6 12 got 
+: 918 4 12 four 
+: 924 4 11 ho
+: 930 6 10 urs 
+- 938
+: 946 1 7 To 
+: 948 2 8 learn 
+: 952 2 9 your 
+: 956 5 9 ma
+: 962 4 6 nners 
+- 967
+: 968 1 3 Ne
+: 970 4 2 ver 
+: 976 4 2 felt 
+: 982 4 9 so 
+: 988 4 8 close 
+: 994 3 9 to 
+: 998 3 5 you 
+: 1002 1 3 be
+: 1004 12 2 fore
+: 1018 16 0 ~ 
+- 1036
+: 1158 2 5 On
+: 1162 4 7 ly 
+: 1168 6 12 got 
+* 1176 4 12 four 
+* 1182 4 11 ho
+* 1188 6 10 urs 
+- 1196
+: 1204 1 7 To 
+: 1206 2 8 learn 
+: 1210 2 9 your 
+: 1214 3 9 ma
+: 1218 4 8 nners 
+- 1223
+: 1224 1 3 Ne
+: 1226 4 2 ver 
+: 1232 6 2 felt 
+: 1240 4 9 so 
+: 1246 4 8 close 
+: 1252 1 9 to 
+: 1254 3 5 you 
+: 1258 3 3 be
+: 1262 12 2 fore
+: 1276 12 0 ~ 
+- 1290
+: 1296 12 2 Long 
+: 1310 8 1 shot 
+- 1319
+: 1320 1 1 In 
+: 1322 4 2 the 
+: 1328 8 5 name 
+: 1338 1 6 of 
+: 1340 2 4 the 
+: 1344 6 3 God 
+- 1352
+: 1360 8 3 Need 
+: 1370 2 4 a 
+: 1374 4 5 Mc
+: 1380 3 3 Cart
+: 1384 6 2 ney 
+: 1392 20 9 song 
+- 1414
+: 1416 1 10 All 
+: 1418 4 10 I 
+: 1424 5 8 want 
+: 1430 3 6 you 
+: 1434 2 5 to 
+: 1438 5 4 know 
+- 1444
+: 1444 1 3 Is 
+: 1446 1 3 that 
+: 1448 2 3 I 
+: 1454 3 4 won’t 
+: 1458 3 4 be 
+: 1462 2 5 here 
+: 1466 2 5 for 
+: 1470 4 4 long 
+- 1476
+: 1478 1 0 And 
+: 1480 2 -1 my 
+: 1484 6 2 heart 
+- 1492
+: 1494 1 4 Oh! 
+: 1496 4 6 My 
+: 1502 4 5 heart 
+: 1508 1 4 is 
+: 1510 1 3 get
+: 1512 2 2 ting 
+: 1516 16 1 sore 
+- 1534
+: 1836 2 6 My 
+: 1840 5 4 heart 
+- 1846
+: 1846 1 5 Oh! 
+: 1848 4 6 My 
+: 1854 4 5 heart 
+: 1860 3 4 is 
+: 1864 1 3 get
+: 1866 2 2 ting 
+: 1870 12 9 sore 
+- 1884
+: 1900 2 6 My 
+: 1904 5 4 heart 
+- 1910
+: 1910 1 5 Oh! 
+: 1912 4 6 My 
+: 1918 4 5 heart 
+: 1924 3 4 is 
+: 1928 1 3 get
+: 1930 2 2 ting 
+: 1934 12 9 sore 
+- 1948
+: 1964 2 6 My 
+: 1968 5 4 heart 
+- 1974
+: 1974 1 5 Oh! 
+: 1976 4 6 My 
+: 1982 4 5 heart 
+: 1988 3 4 is 
+: 1992 1 3 get
+: 1994 2 2 ting 
+: 1998 12 9 sore 
+- 2012
+: 2028 2 6 My 
+: 2032 5 4 heart 
+- 2038
+: 2038 1 5 Oh! 
+: 2040 4 6 My 
+: 2046 4 5 heart 
+: 2052 3 4 is 
+: 2056 1 3 get
+: 2058 2 2 ting 
+: 2062 16 9 sore 
+- 2080
+: 2092 2 6 My 
+: 2096 5 4 heart 
+- 2102
+: 2102 1 5 Oh! 
+: 2104 4 6 My 
+: 2110 4 5 heart 
+: 2116 3 4 is 
+: 2120 1 3 get
+: 2122 2 2 ting 
+: 2126 20 9 sore 
+- 2148
+: 2156 2 6 My 
+: 2160 5 4 heart 
+- 2166
+: 2166 1 5 Oh! 
+: 2168 4 6 My 
+: 2174 4 5 heart 
+: 2180 3 4 is 
+* 2184 1 3 get
+* 2186 2 2 ting 
+* 2190 16 1 sore 
+E

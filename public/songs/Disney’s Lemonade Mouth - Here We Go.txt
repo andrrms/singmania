@@ -1,0 +1,354 @@
+#ARTIST:Disney’s Lemonade Mouth
+#TITLE:Here We Go
+#MP3:Disney’s Lemonade Mouth - Here We Go.mp3
+#CREATOR:vicktoben
+#GENRE:Soundtrack
+#YEAR:2011
+#LANGUAGE:English
+#BPM:300
+#GAP:3900
+#VIDEO:v=A5FENoKAgjw,co=lemonade-mouth-54b3a5a8b945d.jpg
+F 0 2 21 Be 
+F 4 4 21 heard, 
+- 10
+F 12 2 21 Be 
+F 16 4 21 strong, 
+- 22
+F 24 2 21 Be 
+F 28 4 21 proud 
+- 34
+: 36 2 21 I 
+: 40 2 21 wan
+* 44 2 18 na 
+* 48 2 21 make 
+: 52 2 23 some 
+: 56 4 21 noise 
+- 62
+F 64 2 21 Stand 
+F 68 4 21 up, 
+- 74
+F 76 2 21 Come 
+F 80 4 21 on, 
+- 86
+F 88 2 21 Be 
+F 92 4 21 loud 
+- 98
+: 100 2 21 We’re 
+: 104 2 21 gon
+: 108 2 18 na 
+: 112 2 21 raise 
+: 116 2 23 our 
+: 120 4 21 voice 
+- 126
+F 128 2 21 Come 
+F 132 4 21 on, 
+- 138
+F 140 2 21 Come 
+F 144 4 21 on, 
+- 150
+F 152 2 21 Come 
+F 156 4 21 on 
+- 162
+: 164 2 21 You 
+: 168 2 21 got
+: 172 2 18 ta 
+: 176 2 21 hear 
+: 180 2 23 me 
+: 184 6 21 now 
+- 192
+: 196 2 21 You 
+: 200 2 21 got
+: 204 2 18 ta 
+: 208 2 21 hear 
+: 212 2 23 me 
+: 216 6 21 now 
+- 224
+: 228 2 24 You 
+: 232 2 24 got
+: 236 2 24 ta 
+: 240 2 24 hear 
+: 244 2 24 me 
+: 248 4 24 now 
+- 254
+F 256 6 21 Hey 
+F 264 4 21 now 
+- 270
+F 272 2 21 We 
+F 276 1 21 no 
+F 278 2 21 lon
+F 282 1 21 ger 
+F 284 2 21 wait 
+F 288 6 21 a
+F 296 4 21 round 
+- 302
+F 304 1 21 My 
+F 306 2 21 team 
+F 310 2 21 strong 
+F 314 4 21 than 
+F 320 6 21 weights 
+F 328 4 21 now 
+- 334
+F 336 2 20 Keeps 
+F 340 2 20 on 
+F 344 2 20 gro
+F 348 4 20 wing 
+- 354
+F 356 2 21 Our 
+F 360 2 21 mus
+F 364 2 21 cles 
+F 368 2 21 keep 
+F 372 2 21 on 
+F 376 2 21 sho
+F 380 1 21 wing 
+- 383
+F 384 2 21 We 
+F 388 2 21 came 
+F 392 2 21 here 
+F 396 1 21 to 
+F 398 2 21 make 
+F 402 1 21 a 
+F 404 6 21 change 
+- 412
+F 416 2 21 We 
+F 420 2 21 came 
+F 424 2 21 here 
+F 428 1 21 to 
+F 430 2 21 rea
+F 434 1 21 ~
+F 436 6 21 rrange 
+- 444
+F 448 2 21 We 
+F 452 2 21 came 
+F 456 2 21 here 
+F 460 1 21 ’cause 
+F 462 2 21 we 
+F 466 1 21 be
+F 468 6 21 lieve 
+- 476
+F 480 2 21 We 
+F 484 2 21 came 
+F 488 2 21 here 
+F 492 1 21 ’cause 
+F 494 2 21 we 
+F 498 1 21 a
+F 500 6 21 chieve, 
+F 508 1 21 yeah 
+- 511
+F 512 2 21 While 
+F 516 2 21 I’ve 
+F 520 2 21 got 
+F 524 1 21 the 
+F 526 2 21 mi
+F 530 1 21 cro
+F 532 6 21 phone 
+- 540
+F 544 2 21 Make 
+F 548 2 21 sure 
+F 552 2 21 how 
+F 556 1 21 i 
+F 558 2 21 feel 
+F 562 1 21 is 
+F 564 6 21 known 
+- 572
+F 576 2 21 All 
+F 580 2 21 for 
+F 584 2 21 one 
+F 588 1 21 we 
+F 590 2 21 rock 
+F 594 1 21 the 
+F 596 6 21 zone 
+- 604
+F 608 2 21 How 
+F 612 2 21 I 
+F 616 2 21 feel 
+F 620 1 21 to 
+F 622 2 21 each 
+F 626 1 21 his 
+F 628 6 21 own 
+- 636
+F 640 2 21 All 
+F 644 2 21 my 
+F 648 2 21 peo
+F 652 1 21 ple 
+F 654 2 21 treat 
+F 658 1 21 ’em 
+F 660 6 21 right 
+- 668
+F 672 2 21 We 
+F 676 3 21 re
+F 680 2 21 serve 
+F 684 1 21 the 
+F 686 2 21 right 
+F 690 1 21 to 
+F 692 6 21 fight 
+- 700
+F 704 2 21 For 
+F 708 2 21 what 
+F 712 2 21 we 
+F 716 1 21 want, 
+- 719
+F 720 2 21 For 
+F 724 2 21 what 
+F 728 2 21 we 
+F 732 1 21 need 
+- 735
+F 736 2 21 To 
+F 740 2 21 the 
+F 744 2 21 front 
+F 748 2 21 we 
+F 752 2 21 shall 
+F 756 2 21 pro
+F 760 4 21 ceed 
+- 766
+: 768 8 24 Here 
+: 780 8 24 we 
+* 792 10 24 come 
+: 804 4 24 and 
+- 810
+: 812 2 21 We’re 
+: 816 2 24 rea
+: 820 2 24 dy 
+* 824 4 24 to 
+: 832 8 21 go, 
+: 844 8 21 go, 
+: 856 16 21 go 
+- 874
+: 896 8 24 Bet
+: 908 8 24 ter 
+: 920 8 24 run 
+: 932 4 24 cause 
+- 938
+: 940 2 21 We 
+: 944 6 24 don’t 
+: 952 4 24 take 
+: 960 8 21 no, 
+: 972 8 21 no, 
+: 984 8 21 no 
+- 994
+: 1000 2 26 Come 
+: 1004 10 24 on 
+- 1016
+F 1024 2 21 Be 
+F 1028 4 21 heard, 
+- 1034
+F 1036 2 21 Be 
+F 1040 4 21 strong, 
+- 1046
+F 1048 2 21 Be 
+F 1052 4 21 proud 
+- 1058
+: 1060 2 21 I 
+* 1064 2 21 wan
+: 1068 2 18 na 
+: 1072 2 21 make 
+: 1076 2 23 some 
+: 1080 4 21 noise 
+- 1086
+F 1088 2 21 Stand 
+F 1092 4 21 up, 
+- 1098
+F 1100 2 21 Come 
+F 1104 4 21 on, 
+- 1110
+F 1112 2 21 Be 
+F 1116 4 21 loud 
+- 1122
+: 1124 2 21 We’re 
+: 1128 2 21 gon
+: 1132 2 18 na 
+* 1136 2 21 raise 
+: 1140 2 23 our 
+: 1144 4 21 voice 
+- 1150
+F 1152 2 21 Come 
+F 1156 4 21 on, 
+- 1162
+F 1164 2 21 Come 
+F 1168 4 21 on, 
+- 1174
+F 1176 2 21 Come 
+F 1180 4 21 on 
+- 1186
+: 1188 2 21 You 
+: 1192 2 21 got
+: 1196 2 18 ta 
+: 1200 2 21 hear 
+: 1204 2 23 me 
+: 1208 6 21 now 
+- 1216
+: 1220 2 21 You 
+: 1224 2 21 got
+: 1228 2 18 ta 
+: 1232 2 21 hear 
+: 1236 2 23 me 
+: 1240 6 21 now 
+- 1248
+: 1252 2 24 You 
+: 1256 2 24 got
+: 1260 2 24 ta 
+: 1264 2 24 hear 
+: 1268 2 24 me 
+: 1272 6 24 now 
+- 1280
+F 1536 2 21 Be 
+F 1540 4 21 heard, 
+- 1546
+F 1548 2 21 Be 
+F 1552 4 21 strong, 
+- 1558
+F 1560 2 21 Be 
+F 1564 4 21 proud 
+- 1570
+: 1572 2 21 I 
+: 1576 2 21 wan
+: 1580 2 18 na 
+: 1584 2 21 make 
+: 1588 2 23 some 
+: 1592 4 21 noise 
+- 1598
+F 1600 2 21 Stand 
+F 1604 4 21 up, 
+- 1610
+F 1612 2 21 Come 
+F 1616 4 21 on, 
+- 1622
+F 1624 2 21 Be 
+F 1628 4 21 loud 
+- 1634
+: 1636 2 21 We’re 
+: 1640 2 21 gon
+: 1644 2 18 na 
+: 1648 2 21 raise 
+: 1652 2 23 our 
+: 1656 4 21 voice 
+- 1662
+F 1664 2 21 Come 
+F 1668 4 21 on, 
+- 1674
+F 1676 2 21 Come 
+F 1680 4 21 on, 
+- 1686
+F 1688 2 21 Come 
+F 1692 4 21 on 
+- 1698
+: 1700 2 21 You 
+: 1704 2 21 got
+: 1708 2 18 ta 
+* 1712 2 21 hear 
+: 1716 2 23 me 
+: 1720 6 21 now 
+- 1728
+: 1732 2 21 You 
+: 1736 2 21 got
+: 1740 2 18 ta 
+: 1744 2 21 hear 
+: 1748 2 23 me 
+: 1752 6 21 now 
+- 1760
+* 1764 2 24 You 
+: 1768 2 24 got
+: 1772 2 24 ta 
+: 1776 2 24 hear 
+: 1780 2 24 me 
+: 1784 8 24 now 
+E

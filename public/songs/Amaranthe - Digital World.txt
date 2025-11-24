@@ -1,0 +1,465 @@
+#ARTIST:Amaranthe
+#TITLE:Digital World
+#MP3:Amaranthe - Digital World.mp3
+#CREATOR:Phoenix69
+#GENRE:Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:300.28
+#GAP:39080
+#VIDEO:v=z6PYAkXO-bU,co=digital-world-5cf91c96a738c.jpg,bg=amaranthe-526a505dd180b.jpg
+#START:19.5
+F 0 1 0 We 
+F 4 1 0 spin 
+F 7 1 0 the 
+F 11 4 0 world 
+F 16 2 0 like 
+F 20 4 0 a 
+F 25 6 0 pin
+F 32 3 0 ball 
+F 36 1 0 ma
+F 38 17 0 chine 
+- 57
+F 66 1 0 We 
+F 70 1 0 have 
+F 73 1 0 thoughts 
+F 77 7 0 of 
+F 85 2 0 a 
+F 89 7 0 life 
+F 98 2 0 in 
+F 103 2 0 a
+F 106 5 0 bun
+F 113 8 0 dance 
+- 123
+F 128 2 0 Day 
+F 132 2 0 and 
+F 137 6 0 night 
+F 146 2 0 we 
+F 150 2 0 wish 
+F 153 6 0 mo
+F 162 2 0 vies 
+F 165 2 0 were 
+F 170 1 0 real 
+- 173
+F 174 20 0 And 
+F 196 1 0 what’s 
+F 199 8 0 be
+F 209 1 0 hind 
+F 213 3 0 the 
+F 217 6 0 screen 
+F 225 6 0 is 
+F 234 2 0 our 
+F 238 6 0 en
+F 246 6 0 trance 
+- 254
+: 256 2 0 I’m 
+: 260 3 0 like 
+: 264 3 0 a 
+: 268 2 0 sa
+: 271 4 5 te
+: 276 8 5 llite 
+- 286
+: 288 3 0 Trans
+: 292 3 0 mit
+: 296 4 0 ting 
+: 301 2 0 dif
+: 304 1 -5 fe
+: 306 2 -3 rent 
+: 309 2 0 e
+: 312 7 5 ras 
+- 321
+: 323 3 3 I 
+: 327 2 3 am 
+: 330 2 3 the 
+: 333 4 3 voice 
+: 338 3 2 of 
+: 342 3 1 the 
+: 347 6 3 next 
+: 355 4 3 ge
+: 360 3 3 ne
+: 364 5 0 ra
+: 370 10 0 tion 
+- 382
+* 384 3 0 Com
+* 388 3 0 plete
+* 392 1 0 ly 
+: 395 4 0 di
+: 400 1 5 gi
+: 402 11 5 tal 
+- 415
+: 417 6 0 Create 
+: 425 3 0 syn
+: 429 3 0 the
+: 433 4 6 tic 
+: 438 2 6 au
+: 441 7 5 ras 
+- 450
+: 452 1 3 Start 
+: 456 3 3 a 
+: 461 2 3 re
+: 464 3 0 vo
+: 468 3 3 lu
+: 472 3 2 tion 
+: 476 6 5 now 
+- 484
+: 486 2 -3 You 
+: 489 1 0 will 
+: 493 3 0 ne
+: 497 3 -2 ver 
+: 501 3 0 have 
+: 505 3 -2 to 
+: 509 6 0 cry 
+- 517
+: 519 2 -3 Cause 
+: 523 2 0 the 
+: 526 2 0 fu
+: 529 2 0 ture 
+: 533 7 0 is 
+: 541 10 0 sold 
+- 553
+: 556 1 -3 You 
+: 560 1 0 can 
+: 564 3 0 ne
+: 568 3 -3 ver 
+: 572 7 -3 die 
+- 581
+: 583 2 -3 And 
+: 586 2 0 you’ll 
+: 589 3 0 ne
+: 593 4 0 ver 
+: 598 5 0 grow 
+: 604 7 0 old 
+- 613
+F 620 2 0 Oh, 
+F 628 16 0 oh-oh 
+- 646
+: 651 2 0 But 
+: 656 2 0 eve
+: 659 2 0 ry
+: 662 1 0 thing 
+: 665 3 0 su
+: 669 6 3 rroun
+: 676 2 0 ding 
+: 679 7 0 you 
+: 691 1 0 is 
+: 697 11 0 di
+: 709 3 0 gi
+: 713 21 0 tal 
+- 736
+: 747 3 0 Ne
+: 751 2 0 ver 
+: 756 2 0 break 
+: 760 1 0 the 
+: 763 5 0 mold 
+- 770
+: 772 3 0 You 
+: 776 4 0 do 
+: 781 3 0 as 
+: 786 2 0 you’re 
+: 789 12 0 told 
+- 803
+: 812 2 0 Free
+: 817 2 0 dom 
+: 821 2 -1 is 
+: 825 3 -2 for 
+: 829 6 -3 sale 
+- 837
+: 839 1 -2 If 
+: 842 2 0 you 
+: 845 4 0 give 
+: 850 3 0 them 
+: 854 7 0 con
+: 862 9 0 trol 
+- 873
+F 875 7 0 Oh, 
+F 884 17 0 oh-oh 
+- 903
+: 906 2 0 E
+: 909 5 0 rase 
+: 918 6 0 re
+: 925 5 0 turn 
+- 932
+* 934 1 -3 In 
+* 937 1 -3 the 
+* 942 1 0 di
+* 944 4 0 gi
+* 949 8 0 tal 
+* 958 8 0 world 
+- 968
+F 1217 2 0 I 
+F 1221 3 0 know 
+F 1226 2 0 it 
+F 1229 2 0 feels 
+F 1234 1 0 like 
+F 1238 3 0 you’re 
+F 1242 8 0 part 
+F 1252 2 0 of 
+F 1256 2 0 a 
+F 1260 9 0 dream 
+- 1271
+F 1282 3 0 You 
+F 1286 1 0 can 
+F 1288 2 0 fly 
+F 1295 3 0 and 
+F 1300 2 0 fight 
+F 1305 7 0 wars 
+F 1315 2 0 with
+F 1319 1 0 out 
+F 1323 2 0 jud
+F 1328 13 0 gement 
+- 1343
+F 1345 3 0 You 
+F 1349 1 0 res
+F 1352 6 0 pawn 
+F 1362 3 0 and 
+F 1366 2 0 mis
+F 1369 4 0 takes 
+F 1377 3 0 will 
+F 1381 8 0 repeal 
+- 1391
+F 1409 2 0 But 
+F 1412 2 0 you 
+F 1418 4 0 will 
+F 1424 2 0 al
+F 1428 2 0 ways 
+F 1431 2 0 be 
+F 1434 4 0 sear
+F 1442 2 0 ching 
+F 1446 5 0 for 
+F 1452 2 0 an 
+F 1455 5 0 ans
+F 1461 8 0 wer 
+- 1471
+: 1473 1 0 I’m 
+: 1477 3 0 like 
+: 1481 1 0 a 
+: 1485 3 0 sa
+: 1489 3 -5 te
+: 1493 8 5 llite 
+- 1503
+: 1505 2 0 Trans
+: 1508 3 -3 mit
+: 1512 1 0 ting 
+: 1518 1 0 dif
+: 1521 5 -3 ferent 
+: 1527 2 -3 e
+: 1530 7 5 ras 
+- 1539
+: 1541 1 3 I 
+: 1543 2 3 am 
+: 1546 1 3 the 
+: 1548 4 3 voice 
+: 1556 4 3 of 
+: 1561 2 3 the 
+: 1565 3 3 next 
+: 1572 3 3 ge
+: 1576 2 3 ne
+: 1579 8 0 ra
+: 1588 11 0 tion 
+- 1601
+: 1603 2 0 Com
+: 1606 3 0 plete
+: 1610 3 0 ly 
+: 1614 2 1 di
+: 1617 4 -3 gi
+: 1622 8 5 tal 
+- 1632
+: 1634 5 0 Create 
+: 1642 2 0 syn
+: 1646 3 0 the
+: 1650 1 -3 tic 
+: 1652 3 -3 au
+: 1656 3 -3 ras 
+- 1661
+: 1667 2 0 Start 
+: 1672 3 3 a 
+: 1676 4 3 re
+: 1681 3 3 vo
+: 1685 2 3 lu
+: 1688 2 3 tion 
+: 1693 5 -3 now 
+- 1700
+: 1702 4 -3 You 
+: 1707 2 0 will 
+: 1711 2 0 ne
+: 1714 1 0 ver 
+: 1717 1 0 have 
+: 1721 1 0 to 
+: 1725 4 0 cry 
+- 1731
+: 1733 3 -3 Cause 
+: 1738 1 -3 the 
+: 1742 3 -2 fu
+: 1746 1 -2 ture 
+: 1750 5 0 is 
+: 1757 10 0 sold 
+- 1769
+: 1774 1 0 You 
+: 1778 1 0 can 
+: 1782 3 0 ne
+: 1786 2 -3 ver 
+: 1789 4 -3 die 
+- 1795
+: 1797 4 -3 And 
+: 1802 3 -3 you’ll 
+: 1806 2 0 ne
+: 1809 2 0 ver 
+: 1812 5 0 grow 
+: 1820 9 0 old 
+- 1831
+F 1837 5 0 Oh, 
+F 1845 13 0 oh-oh 
+- 1860
+: 1867 2 0 But 
+: 1872 1 0 eve
+: 1875 1 0 ry
+: 1878 1 0 thing 
+: 1882 3 0 su
+: 1886 7 3 rroun
+: 1894 3 0 ding 
+: 1898 8 0 you 
+: 1909 5 0 is 
+: 1915 7 0 di
+: 1924 4 0 gi
+: 1929 17 0 tal 
+- 1948
+: 1964 3 0 Ne
+: 1968 2 0 ver 
+: 1971 4 0 break 
+: 1978 1 -3 the 
+: 1982 4 0 mold 
+- 1988
+: 1990 2 0 You 
+: 1995 2 0 do 
+: 1999 2 0 as 
+: 2003 2 0 you’re 
+: 2007 11 0 told 
+- 2020
+: 2030 4 0 Free
+: 2035 1 0 dom 
+: 2038 1 -2 is 
+: 2043 2 -2 for 
+: 2047 3 -3 sale 
+- 2052
+: 2054 2 -3 If 
+: 2057 3 -3 you 
+: 2061 4 0 give 
+: 2066 3 0 them 
+: 2070 6 0 con
+: 2077 10 0 trol 
+- 2089
+F 2093 4 0 Oh, 
+F 2100 15 0 oh-oh 
+- 2117
+: 2119 5 0 E
+: 2125 4 0 rase 
+: 2132 5 0 re
+: 2139 7 0 turn 
+- 2148
+* 2150 3 -3 In 
+* 2154 2 -3 the 
+* 2158 3 0 di
+* 2162 4 0 gi
+* 2167 4 0 tal 
+* 2173 11 0 world 
+- 2186
+F 2473 2 0 Start 
+F 2477 1 0 a 
+F 2481 1 0 re
+F 2484 1 0 vo
+F 2486 1 0 lu
+F 2488 5 0 tion 
+F 2494 21 0 now 
+- 2517
+F 2595 6 0 Start 
+F 2602 2 0 a 
+F 2605 2 0 re
+F 2609 2 0 vo
+F 2614 2 0 lu
+F 2618 1 0 tion 
+F 2622 19 0 now 
+- 2643
+: 2982 2 -3 You 
+: 2986 1 -3 will 
+: 2990 4 0 ne
+: 2995 4 0 ver 
+: 3000 1 0 have 
+: 3004 1 0 to 
+: 3007 4 0 cry 
+- 3013
+: 3015 1 0 Cause 
+: 3019 1 0 the 
+: 3022 3 0 fu
+: 3026 1 0 ture 
+: 3030 6 0 is 
+: 3038 10 0 sold 
+- 3050
+: 3055 1 -3 You 
+: 3059 1 0 can 
+: 3063 2 -2 ne
+: 3066 4 -3 ver 
+: 3071 4 -3 die 
+- 3077
+: 3079 2 -3 And 
+: 3082 3 0 you’ll 
+: 3086 3 0 ne
+: 3090 3 0 ver 
+: 3095 7 0 grow 
+: 3103 11 0 old 
+- 3116
+F 3118 6 0 Oh, 
+F 3126 10 0 oh-oh 
+- 3138
+: 3149 1 0 But 
+: 3152 3 0 eve
+: 3156 2 0 ry
+: 3159 2 0 thing 
+: 3164 1 0 su
+: 3167 7 3 rroun
+: 3175 3 0 ding 
+: 3179 8 0 you 
+: 3189 2 0 is 
+: 3195 11 0 di
+: 3207 4 0 gi
+: 3212 20 0 tal 
+- 3234
+: 3246 3 0 Ne
+: 3250 3 0 ver 
+: 3254 2 0 break 
+: 3259 1 -2 the 
+: 3262 4 0 mold 
+- 3268
+: 3270 4 0 You 
+: 3275 3 0 do 
+: 3279 2 0 as 
+: 3283 2 -3 you’re 
+: 3287 12 0 told 
+- 3301
+: 3310 4 0 Free
+: 3315 2 0 dom 
+: 3320 1 0 is 
+: 3324 1 -3 for 
+: 3327 5 -3 sale 
+- 3334
+: 3336 2 0 If 
+: 3340 1 -3 you 
+: 3344 1 0 give 
+: 3347 1 0 them 
+: 3351 6 0 con
+: 3360 10 0 trol 
+- 3372
+F 3374 6 0 Oh, 
+F 3382 13 0 oh-oh 
+- 3397
+: 3402 5 0 E
+: 3408 3 0 rase 
+: 3414 6 0 re
+: 3421 8 0 turn 
+- 3431
+* 3433 2 -3 In 
+* 3436 1 -3 the 
+* 3440 3 0 di
+* 3444 3 0 gi
+* 3448 4 0 tal 
+* 3454 16 0 world 
+E

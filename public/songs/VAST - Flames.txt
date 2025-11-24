@@ -1,0 +1,125 @@
+#ARTIST:VAST
+#TITLE:Flames
+#MP3:VAST - Flames.mp3
+#CREATOR:lava
+#YEAR:1998
+#LANGUAGE:English
+#BPM:299.95
+#GAP:40200
+#VIDEO:a=LZIamJ5dods,co=visual-audio-sensory-theater-56e627e4355be.jpg
+: 0 11 6 Close 
+: 12 6 7 your 
+: 19 22 6 eyes 
+- 43
+: 75 10 6 Let 
+: 86 6 2 me 
+: 93 19 4 touch 
+: 113 6 2 you 
+: 120 15 1 now 
+- 137
+: 201 10 6 Let 
+: 212 9 6 me 
+: 222 14 9 give 
+: 237 6 9 you 
+: 244 17 11 some
+: 262 8 9 thing 
+: 271 17 6 that 
+: 289 6 2 is 
+: 296 15 4 real 
+- 313
+: 401 9 6 Close 
+: 411 7 7 the 
+: 419 18 6 door 
+- 439
+: 476 10 6 Leave 
+: 487 6 2 your 
+: 494 16 4 fears 
+: 511 7 2 be
+: 519 19 1 hind 
+- 540
+: 600 10 6 Let 
+: 611 8 6 me 
+: 620 14 9 give 
+: 635 8 9 you 
+: 644 14 11 what 
+: 659 10 9 you’re 
+: 670 15 6 gi
+: 686 7 2 ving 
+: 694 26 4 me 
+- 722
+* 1205 69 14 You 
+: 1275 11 14 are 
+: 1287 6 13 the 
+: 1294 14 16 on
+: 1309 8 14 ly 
+: 1318 34 13 thing 
+- 1354
+: 1393 4 13 That 
+: 1398 13 14 makes 
+: 1412 7 13 me 
+: 1420 16 14 want 
+: 1437 6 13 to 
+* 1444 41 14 live 
+: 1486 6 13 at 
+* 1493 54 16 all 
+- 1549
+: 1585 12 4 That 
+: 1598 8 4 when 
+: 1607 11 2 i 
+: 1619 15 4 am 
+: 1635 7 6 with 
+: 1643 27 7 you 
+- 1672
+: 1674 12 7 There’s 
+: 1687 10 6 no 
+: 1698 6 6 rea
+: 1705 16 6 son 
+: 1722 7 6 to
+: 1730 6 2 ~ 
+: 1737 6 2 pre
+: 1744 17 1 tend 
+- 1763
+: 1788 9 4 That 
+: 1798 7 4 when 
+: 1806 10 2 i 
+: 1817 17 4 am 
+: 1835 11 6 with 
+: 1847 25 7 you 
+: 1873 12 7 i 
+: 1886 12 6 feel 
+: 1899 35 6 flames 
+: 1935 7 2 a
+: 1943 18 4 gain 
+- 1963
+: 1985 12 4 Just 
+: 1998 7 4 put 
+: 2006 11 2 me 
+: 2018 15 4 in
+: 2034 15 2 side 
+: 2050 14 2 you 
+- 2066
+: 2073 10 2 I 
+: 2084 13 4 would 
+: 2098 5 4 ne
+: 2104 13 6 ver 
+: 2118 15 6 e
+: 2134 8 2 ver 
+: 2143 20 1 leave 
+- 2165
+: 2186 11 4 Just 
+: 2198 7 4 put 
+: 2206 12 2 me 
+: 2219 15 4 in
+: 2235 11 2 side 
+: 2247 12 2 you 
+- 2261
+: 2274 11 2 I 
+: 2286 11 4 would 
+: 2298 6 4 ne
+: 2305 14 6 ver 
+: 2320 14 6 e
+: 2335 6 2 ver 
+: 2342 22 4 leave 
+- 2366
+* 2398 150 16 You 
+E

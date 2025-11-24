@@ -1,0 +1,360 @@
+#ARTIST:Michael Bradley
+#TITLE:Look Up! The Sky Is Falling
+#MP3:Michael Bradley - Look Up! The Sky Is Falling.mp3
+#CREATOR:frippio
+#GENRE:New Wave
+#YEAR:1985
+#LANGUAGE:English
+#BPM:265.23
+#GAP:16840
+#VIDEO:v=YvXTC7LeIMI,co=https://i.discogs.com/mvWoWNHmlmsGwA_-DuCiE1jnOOh-f4O2qzFV0hNVrI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDIy/Ni0xMTgxNDI2NzYz/LmpwZWc.jpeg
+: 0 2 -8 A
+: 3 5 -3 no
+: 9 5 -1 ther 
+: 15 4 0 win
+: 20 6 2 ter 
+: 27 9 4 day 
+- 38
+: 61 3 -8 A
+: 65 5 -3 no
+: 71 5 -1 ther 
+: 77 6 0 grey 
+: 84 5 2 re
+: 90 11 4 min
+: 102 8 2 der 
+: 111 6 0 that 
+: 119 7 -1 what 
+: 127 8 -1 used 
+: 136 4 0 to 
+: 141 12 -3 be 
+- 155
+: 170 4 -3 Has 
+: 175 8 -1 gone 
+: 184 5 -5 a
+: 190 20 -8 way. 
+- 212
+: 252 2 -8 It’s 
+: 255 7 -3 real
+: 263 4 -1 ly 
+: 268 7 0 hard 
+: 276 6 2 to 
+: 283 12 4 say 
+- 297
+: 315 5 -8 How 
+: 321 7 -3 long 
+: 329 3 -1 we 
+: 333 6 0 have 
+: 340 7 2 to 
+: 348 9 4 live 
+: 359 6 2 with 
+: 367 9 0 our 
+: 377 6 -1 in
+: 384 7 -1 sa
+: 392 4 0 ni
+: 397 10 -3 ty 
+- 409
+: 424 5 -3 We 
+: 432 5 -3 have 
+: 439 6 0 to 
+: 447 16 2 pay 
+: 464 13 5 for 
+: 479 14 4 all 
+: 495 14 2 we 
+: 511 17 -3 use. 
+- 530
+: 552 6 -3 We 
+: 560 6 -2 ne
+: 568 5 0 ver 
+: 575 15 2 think 
+: 592 13 5 be
+: 606 15 4 fore 
+: 623 14 0 we 
+: 639 14 4 light 
+: 655 14 7 the 
+: 671 26 5 fuse. 
+- 699
+* 705 3 5 Look 
+* 709 5 5 up 
+* 715 3 4 look 
+* 719 7 2 up 
+* 727 4 9 look 
+* 732 8 9 up 
+- 742
+* 743 4 2 The 
+* 748 10 4 sky 
+* 759 8 5 is 
+* 768 12 4 fal
+* 781 18 2 ling! 
+- 801
+: 834 3 5 Look 
+: 838 4 5 up 
+: 843 3 4 there’s 
+: 847 7 2 some
+: 855 4 9 thing 
+- 860
+: 860 10 9 That 
+: 872 4 2 you 
+: 877 9 4 have 
+: 887 6 5 to 
+: 895 14 -2 do. 
+- 911
+: 957 3 2 Be
+: 961 7 9 fore 
+: 969 3 9 you 
+: 973 9 7 try 
+: 984 3 5 to 
+: 988 8 4 go 
+: 997 5 5 out
+: 1003 11 0 side 
+- 1016
+: 1020 3 0 To 
+: 1024 8 9 take 
+: 1033 10 7 in 
+: 1044 9 5 the 
+: 1054 9 4 view 
+- 1065
+: 1088 3 5 Look 
+: 1092 5 5 up 
+: 1100 3 4 be
+: 1104 6 2 cause 
+: 1112 3 9 the 
+: 1116 12 9 sky 
+: 1129 3 2 could 
+: 1133 7 4 fall 
+: 1141 9 5 on 
+: 1151 12 2 you! 
+- 1165
+: 1339 4 -8 A
+: 1344 6 -3 no
+: 1351 2 -1 ther 
+: 1356 6 0 res
+: 1363 6 2 tless 
+: 1371 11 4 night 
+- 1384
+: 1405 2 -8 The 
+: 1408 6 -3 wind 
+: 1416 2 -1 is 
+: 1420 6 0 ho
+: 1427 7 2 wling 
+: 1436 10 4 through 
+- 1447
+: 1447 6 2 The 
+: 1455 6 0 emp
+: 1463 7 -1 ty 
+: 1472 8 -1 streets 
+: 1482 3 0 out
+: 1486 10 -3 side 
+- 1498
+F 1515 4 0 We 
+F 1520 4 0 have 
+F 1525 3 0 to 
+F 1529 5 0 hide 
+- 1536
+: 1595 4 -8 We 
+: 1600 6 -3 dare 
+: 1607 4 -1 not 
+: 1612 6 0 go 
+: 1619 5 2 out
+: 1625 8 7 si
+: 1634 10 4 de~ 
+- 1646
+: 1660 3 -8 We 
+: 1664 6 -3 must 
+: 1671 3 -1 not 
+: 1676 6 0 walk 
+: 1683 5 2 in
+: 1690 11 4 to 
+: 1703 7 2 the 
+: 1711 7 0 dark
+: 1719 6 -1 ness 
+- 1726
+: 1726 10 -1 Of 
+: 1737 3 0 the 
+: 1741 9 -3 night 
+- 1752
+: 1767 7 -3 We 
+: 1775 7 -2 have 
+: 1783 7 0 to 
+: 1791 15 2 pay 
+: 1807 14 5 for 
+: 1822 15 4 all 
+: 1838 15 2 we 
+: 1854 14 -3 use 
+- 1870
+: 1896 7 -3 We 
+: 1904 5 -2 ne
+: 1910 5 0 ver 
+: 1918 15 2 think 
+: 1935 15 5 be
+: 1951 13 4 fore 
+: 1966 15 0 we 
+: 1982 15 4 light 
+: 1999 14 7 the 
+: 2015 29 5 fuse 
+- 2046
+* 2048 3 5 Look 
+* 2052 5 5 up 
+* 2058 3 4 look 
+* 2062 8 2 up 
+* 2071 3 9 look 
+* 2075 8 9 up 
+- 2085
+* 2088 2 2 The 
+* 2091 10 4 sky 
+* 2102 7 5 is 
+* 2110 14 4 fal
+* 2125 14 2 ling! 
+- 2141
+: 2176 3 5 Look 
+: 2180 5 5 up 
+: 2186 4 4 there’s 
+: 2191 8 2 some
+: 2200 3 9 thing 
+- 2204
+: 2204 11 9 That 
+: 2216 3 2 you 
+: 2220 11 4 have 
+: 2232 5 5 to 
+: 2238 15 -2 do 
+- 2255
+: 2301 2 2 Be
+: 2304 8 9 fore 
+: 2313 3 9 you 
+: 2317 10 7 try 
+: 2328 4 5 to 
+: 2333 6 4 go 
+: 2340 5 5 out
+: 2346 12 2 side 
+- 2360
+: 2362 4 2 To 
+: 2368 12 9 take 
+: 2382 8 7 in 
+: 2392 3 5 the 
+: 2396 14 4 view 
+- 2412
+: 2432 3 5 Look 
+: 2436 5 5 up 
+: 2443 3 4 be
+: 2447 8 2 cause 
+: 2456 3 9 the 
+: 2460 10 9 sky 
+: 2473 3 2 could 
+: 2477 7 4 fall 
+: 2485 7 5 on 
+: 2494 13 2 you! 
+- 2509
+: 3111 8 -3 We 
+: 3120 8 -2 have 
+: 3129 8 0 to 
+: 3138 13 2 pay 
+: 3152 14 5 for 
+: 3167 15 4 all 
+: 3183 14 2 we 
+: 3198 11 -3 use 
+- 3211
+: 3238 6 -3 We 
+: 3246 7 -2 ne
+: 3254 7 0 ver 
+: 3263 14 2 think 
+: 3279 14 5 be
+: 3294 15 4 fore 
+: 3312 12 0 we 
+: 3325 15 4 light 
+: 3342 16 7 the 
+: 3359 20 5 fuse 
+- 3381
+: 3391 3 5 Look 
+: 3395 6 5 up 
+: 3403 3 4 look 
+: 3407 7 2 up 
+: 3415 3 9 look 
+: 3419 9 9 up 
+- 3429
+: 3430 4 2 The 
+: 3435 11 4 sky 
+: 3447 8 5 is 
+: 3456 13 4 fal
+: 3470 17 2 ling! 
+- 3489
+: 3520 3 5 Look 
+: 3524 5 5 up 
+: 3531 3 4 there’s 
+: 3535 7 2 some
+: 3543 4 9 thing 
+- 3548
+: 3548 8 9 That 
+: 3558 4 2 you 
+: 3563 10 4 have 
+: 3574 8 5 to 
+: 3583 10 2 do 
+- 3595
+: 3644 3 2 Be
+: 3648 5 9 fore 
+: 3655 3 9 you 
+: 3659 10 7 try 
+: 3670 4 5 to 
+: 3675 8 4 go 
+: 3684 5 5 out
+: 3690 11 0 side 
+- 3703
+: 3707 4 2 To 
+: 3712 7 9 take 
+: 3720 15 7 in 
+: 3736 3 5 the 
+: 3740 15 4 view 
+- 3757
+: 3775 3 5 Look 
+: 3779 5 5 up 
+: 3786 3 4 be
+: 3790 7 2 cause 
+: 3798 4 9 the 
+: 3803 10 9 sky 
+: 3815 3 2 could 
+: 3819 8 4 fall 
+: 3828 8 5 on 
+: 3837 19 2 you! 
+- 3858
+: 3878 4 2 The 
+: 3883 11 4 sky 
+: 3895 8 5 is 
+: 3904 13 4 fal
+: 3918 17 2 ling! 
+- 3937
+: 3968 3 5 Look 
+: 3972 5 5 up 
+: 3979 3 4 there’s 
+: 3983 7 2 some
+: 3991 4 9 thing 
+- 3996
+: 3996 8 9 That 
+: 4006 4 2 you 
+: 4011 10 4 have 
+: 4022 8 5 to 
+: 4031 10 2 do 
+- 4043
+: 4092 3 2 Be
+: 4096 5 9 fore 
+: 4103 3 9 you 
+: 4107 10 7 try 
+: 4118 4 5 to 
+: 4123 8 4 go 
+: 4132 5 5 out
+: 4138 11 0 side 
+- 4151
+: 4155 4 2 To 
+: 4160 7 9 take 
+: 4168 15 7 in 
+: 4184 3 5 the 
+: 4188 9 4 view 
+- 4199
+: 4223 3 5 Look 
+: 4227 5 5 up 
+: 4234 3 4 be
+: 4238 7 2 cause 
+: 4246 4 9 the 
+: 4251 10 9 sky 
+: 4263 3 2 could 
+: 4267 8 4 fall 
+: 4276 8 5 on 
+: 4285 19 2 you! 
+E

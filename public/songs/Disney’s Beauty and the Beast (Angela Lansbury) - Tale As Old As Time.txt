@@ -1,0 +1,178 @@
+#ARTIST:Disney’s Beauty and the Beast (Angela Lansbury)
+#TITLE:Tale As Old As Time
+#MP3:Disney’s Beauty and the Beast (Angela Lansbury) - Tale As Old As Time.mp3
+#CREATOR:milliwuff
+#GENRE:Soundtrack
+#YEAR:1991
+#LANGUAGE:English
+#BPM:240
+#GAP:24310
+#VIDEO:v=sniX7lOcfZk,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/40/2b/a7402bee-d99a-e30a-0901-e8f3978cde69/14ULAIM03426.rgb.jpg/5000x5000bb.jpg,bg=beauty-and-the-beast-5ae29e8ca9007.jpg
+: 0 4 5 Tale 
+: 5 4 8 as 
+: 10 4 12 old 
+: 15 4 13 as 
+: 20 14 6 time 
+- 36
+: 79 6 5 True 
+: 86 4 8 as 
+: 91 2 12 it 
+: 95 3 13 can 
+* 100 8 15 be 
+- 110
+: 157 6 13 Bare
+: 164 4 15 ly 
+: 171 3 17 e
+: 175 2 18 ven 
+: 179 12 20 friends 
+- 193
+: 199 5 20 Then 
+* 206 6 18 some
+: 213 2 17 bo
+: 216 2 15 dy 
+: 220 13 13 bends 
+- 235
+: 240 3 18 Un
+: 245 4 17 ex
+: 251 2 15 pec
+: 254 3 13 ted
+: 259 11 8 ly 
+- 272
+: 320 4 5 Just 
+: 325 2 8 a 
+: 328 2 12 lit
+: 331 2 13 tle 
+: 336 12 6 change 
+- 350
+* 397 7 5 Small 
+: 406 3 8 to 
+: 410 3 12 say 
+: 414 2 13 the 
+: 418 7 15 least 
+- 427
+: 437 3 17 Both 
+: 445 3 15 a 
+: 449 1 17 lit
+: 451 2 20 tle 
+: 456 11 13 scared 
+- 469
+: 479 5 13 Nei
+: 485 2 12 ther 
+: 488 4 13 one 
+: 495 2 17 pre
+: 498 10 6 pared 
+- 510
+: 518 5 17 Beau
+* 524 5 18 ty 
+: 531 7 15 and 
+: 540 2 17 the 
+: 543 9 13 Beast 
+- 554
+: 606 4 13 E
+: 611 4 15 ver 
+: 616 2 17 just 
+: 620 2 18 the 
+: 624 31 20 same 
+- 657
+: 683 4 10 E
+: 688 5 12 ver 
+: 697 2 13 a 
+: 700 2 22 sur
+* 705 33 20 prise 
+- 740
+: 760 4 13 E
+: 765 4 15 ver 
+: 771 3 17 as 
+: 775 3 18 be
+: 780 11 20 fore 
+- 793
+: 800 4 20 E
+: 805 3 18 ver 
+: 809 3 17 just 
+: 813 3 15 as 
+: 817 15 13 sure 
+- 834
+: 836 3 13 As 
+: 842 2 15 the 
+: 846 7 17 sun 
+: 854 6 13 will 
+* 861 26 15 rise 
+- 889
+: 915 4 7 Tale 
+: 920 4 10 as 
+: 925 3 14 old 
+: 929 6 15 as 
+: 938 13 8 time 
+- 953
+* 993 4 7 Tune 
+: 998 4 10 as 
+: 1003 3 14 old 
+: 1007 4 15 as 
+: 1013 12 17 song 
+- 1027
+: 1068 3 15 Bit
+: 1072 3 17 ter
+: 1078 2 19 sweet 
+: 1082 3 20 and 
+: 1087 14 22 strange 
+- 1103
+: 1108 4 22 Find
+: 1114 4 20 ing 
+: 1119 2 19 you 
+: 1122 2 17 can 
+: 1126 13 15 change 
+- 1141
+* 1146 4 20 Learn
+: 1152 4 19 ing 
+: 1157 2 17 you 
+: 1160 4 15 were 
+: 1165 17 10 wrong 
+- 1184
+: 1224 5 7 Cer
+: 1230 7 10 tain 
+: 1238 4 14 as 
+: 1243 4 15 the 
+: 1248 18 8 sun 
+- 1268
+: 1302 4 7 Ris
+: 1307 5 10 ing 
+: 1314 3 14 in 
+: 1318 3 15 the 
+: 1322 10 17 East 
+- 1334
+: 1340 4 19 Tale 
+: 1345 5 17 as 
+: 1351 3 19 old 
+: 1355 4 22 as 
+: 1361 11 15 time 
+- 1374
+: 1381 5 15 Song 
+: 1387 3 14 as 
+: 1393 3 15 old 
+: 1397 4 19 as 
+* 1403 11 8 rhyme 
+- 1416
+: 1425 5 19 Beau
+: 1431 6 20 ty 
+: 1438 8 17 and 
+: 1447 2 19 the 
+: 1450 11 15 Beast 
+- 1463
+: 1517 9 19 Tale 
+: 1528 5 17 as 
+: 1534 4 19 old 
+: 1539 4 22 as 
+: 1545 10 15 time 
+- 1557
+: 1566 8 15 Song 
+: 1579 3 14 as 
+: 1583 6 15 old 
+: 1590 7 19 as 
+: 1598 18 8 rhyme 
+- 1618
+: 1633 7 19 Beau
+: 1641 7 20 ty 
+: 1655 10 17 and 
+: 1683 6 19 the 
+* 1690 34 15 Beast 
+E

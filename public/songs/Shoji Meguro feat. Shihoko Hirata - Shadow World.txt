@@ -1,0 +1,209 @@
+#ARTIST:Shoji Meguro feat. Shihoko Hirata
+#TITLE:Shadow World
+#MP3:Shoji Meguro feat. Shihoko Hirata - Shadow World.mp3
+#CREATOR:wolf359
+#COVER:Shoji Meguro feat. Shihoko Hirata - Shadow World [CO].jpg
+#BACKGROUND:Shoji Meguro feat. Shihoko Hirata - Shadow World [BG].jpg
+#GENRE:Pop
+#YEAR:2012
+#LANGUAGE:English
+#BPM:232
+#GAP:10790
+#VIDEO:v=t2ZEj8JK2tY,co=https://styles.redditmedia.com/t5_2rg0t/styles/image_widget_ausqm3zo7g591.png
+: 0 2 6 Truth
+: 3 7 8 ~ 
+: 19 3 8 is 
+: 24 3 9 e
+: 28 2 2 lu
+: 31 2 4 ~
+: 36 3 2 sive, 
+: 40 1 1 it’s 
+: 44 2 -1 no
+: 47 3 -3 where 
+: 52 3 -1 to 
+: 56 1 4 be 
+: 59 7 1 found 
+- 68
+: 84 3 -3 Yeah, 
+: 88 1 -1 the 
+: 92 1 -1 truth
+: 94 2 1 ~ 
+: 100 2 2 can 
+: 104 2 1 ne
+: 107 2 -1 ver 
+: 112 3 -3 be 
+: 116 2 -1 writ
+: 120 2 4 ten 
+: 128 3 1 down 
+: 132 3 4 it’s 
+: 140 1 4 not
+: 142 4 6 ~ 
+: 147 4 9 in 
+- 153
+: 156 1 9 An
+: 158 4 13 ~
+: 163 4 9 y 
+: 168 3 11 mag
+: 172 2 6 a
+: 176 2 8 zine, 
+: 179 3 9 you 
+: 183 1 8 can’t 
+: 188 11 4 see 
+: 200 3 4 it 
+: 204 2 4 on
+: 207 3 6 ~ 
+- 212
+: 220 3 4 Your 
+: 228 2 2 T
+: 231 3 4 ~
+: 235 1 4 V 
+: 240 1 4 screen
+: 242 4 6 ~ 
+- 248
+: 255 2 6 Truth
+: 258 6 8 ~ 
+: 276 2 8 is 
+: 280 3 9 e
+: 284 2 2 va
+: 287 2 4 ~
+: 292 2 2 sive, 
+: 296 3 1 though 
+: 300 2 -1 you 
+: 303 2 -3 might 
+: 308 2 -1 have 
+: 312 1 4 the 
+: 316 7 1 facts 
+- 325
+: 340 3 -3 Got 
+: 344 1 -1 it 
+: 348 2 -1 straight
+: 351 2 1 ~, 
+: 356 1 2 you 
+: 360 1 1 think 
+: 363 3 -1 but 
+: 368 3 -3 then 
+: 372 3 -1 it 
+: 376 2 4 all 
+- 380
+: 384 1 4 Cracks 
+: 388 5 4 wide
+: 394 1 8 ~ 
+: 396 2 4 o
+: 399 3 6 ~
+: 404 4 9 pen, 
+: 412 1 11 you
+: 414 3 13 ~ 
+: 420 1 9 can 
+: 424 1 11 search 
+: 427 4 6 the 
+: 432 1 8 world 
+: 435 4 9 far 
+: 440 2 8 and 
+: 444 9 4 wide 
+- 455
+: 456 5 4 The 
+: 463 1 4 on
+: 465 2 6 ~
+: 468 3 6 ly 
+: 476 2 4 truth 
+: 483 2 4 that 
+: 488 2 4 you 
+: 491 2 4 can 
+: 495 3 6 e
+: 499 1 9 ver 
+: 504 2 9 find
+: 507 2 6 ~ 
+: 512 1 4 is
+: 514 3 6 ~ 
+- 519
+: 531 2 6 In 
+: 535 2 8 a
+* 539 11 9 no
+: 552 1 4 ther
+: 554 4 6 ~ 
+- 560
+: 572 1 4 A 
+: 576 1 4 soul
+: 578 3 6 ~ 
+: 588 1 4 that’s 
+: 592 2 6 got 
+: 595 2 -1 the 
+: 600 2 -1 same 
+: 604 7 -3 bur
+: 612 1 -1 ning 
+: 616 1 -1 need
+: 618 4 1 ~ 
+- 624
+: 631 1 4 To 
+: 636 9 6 find 
+: 647 3 4 out 
+: 652 2 6 what’s 
+: 659 3 6 ’neath 
+: 663 1 8 the 
+: 667 7 9 co
+: 675 3 9 ver
+: 679 1 9 up
+: 681 3 6 ~ 
+- 686
+R 702 1 0 The 
+R 704 2 0 one 
+R 709 1 0 can’t 
+R 712 2 0 be 
+R 715 1 0 with
+R 718 2 0 out 
+R 721 1 0 the 
+R 725 2 0 true 
+R 728 2 0 o
+R 731 1 0 ther 
+- 733
+R 734 1 0 So 
+R 736 1 0 let’s 
+R 739 2 0 get 
+R 742 1 0 to
+R 744 1 0 ge
+R 746 1 0 ther, 
+R 748 1 0 see 
+R 750 1 0 what 
+R 752 1 0 we 
+R 754 1 0 can 
+R 756 2 0 un
+R 759 2 0 co
+R 762 3 0 ver 
+- 767
+* 768 9 13 One 
+: 787 1 4 that 
+: 791 1 13 de
+: 795 1 13 fines
+: 797 5 11 ~ 
+: 808 3 13 your 
+: 812 4 11 world, 
+: 820 2 4 gives 
+: 824 1 11 you 
+: 828 9 9 truth 
+: 840 2 8 and 
+* 843 10 9 life 
+- 855
+: 895 1 11 One
+: 897 7 13 ~ 
+: 915 2 4 that 
+* 919 2 13 ex
+* 924 7 11 cels 
+- 933
+: 960 1 8 Spe
+: 962 5 9 ~
+: 971 6 9 cial 
+: 980 2 8 e
+: 983 3 9 nough 
+: 987 1 6 to 
+: 991 3 13 guide 
+: 996 2 11 your
+: 999 4 9 ~ 
+: 1004 5 9 way 
+: 1012 3 9 through
+: 1016 7 11 ~ 
+- 1025
+: 1035 2 11 This 
+: 1040 3 9 shad
+: 1044 6 8 ow 
+: 1051 11 9 world 
+E

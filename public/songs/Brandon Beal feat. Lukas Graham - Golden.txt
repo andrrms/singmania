@@ -1,0 +1,564 @@
+#ARTIST:Brandon Beal feat. Lukas Graham
+#TITLE:Golden
+#MP3:Brandon Beal feat. Lukas Graham - Golden.mp3
+#CREATOR:kevin26mg
+#GENRE:Pop
+#YEAR:2016
+#LANGUAGE:English
+#BPM:388
+#GAP:620
+#VIDEO:a=-vbgl5I0rP8,v=CAq69lIx8YQ,co=https://images.universal-music.de/img/assets/397/397532/195/brandon-beal-golden-feat-lukas-graham-cover.jpg,bg=brandon-beal-5a4b8e54b2758.jpg
+#VIDEOGAP:31.7
+: 0 4 16 We 
+: 8 4 29 can 
+: 15 5 27 be 
+: 25 15 31 gol
+: 46 9 29 den 
+- 57
+: 64 4 27 Why 
+: 73 3 29 don’t 
+: 80 4 27 we 
+: 90 19 31 show 
+: 114 5 29 them 
+- 121
+: 127 5 27 All 
+: 136 5 29 of 
+: 145 4 27 the 
+: 153 10 34 life 
+: 168 11 29 there’s 
+: 184 10 29 meant 
+: 200 5 27 to 
+: 208 10 29 be 
+- 220
+: 257 4 27 We 
+: 264 4 29 can 
+: 272 5 27 be 
+: 281 15 31 gol
+: 306 6 29 den 
+- 314
+: 320 5 28 Look 
+: 329 4 29 what 
+: 336 5 27 we 
+: 345 15 31 hol
+: 369 8 29 din’ 
+- 379
+: 385 4 27 Bet
+: 392 4 29 ter 
+: 400 5 27 than 
+: 408 11 34 an
+: 425 11 29 gels 
+: 443 4 29 if 
+: 450 4 29 you 
+: 457 4 27 be
+: 465 9 31 lieve 
+- 476
+F 519 4 0 Yeah, 
+F 533 9 0 hah 
+- 544
+F 565 3 0 Grew
+F 570 3 0 ing 
+F 574 5 0 up 
+F 583 3 0 kin
+F 587 2 0 da 
+F 590 5 0 tough 
+F 598 6 0 like 
+- 606
+F 629 5 0 No 
+F 638 5 0 wheels 
+F 646 2 0 on 
+F 649 3 0 my 
+F 653 5 0 first 
+F 662 7 0 bike 
+- 671
+F 693 3 0 Se
+F 697 3 0 cond 
+F 701 6 0 hand 
+F 710 3 0 was 
+F 714 2 0 a 
+F 717 3 0 kin
+F 722 3 0 da 
+F 726 13 0 new 
+F 743 10 0 yeah 
+- 755
+F 768 4 0 Now 
+F 776 2 0 nig
+F 779 2 0 ga 
+F 783 2 0 live 
+F 787 2 0 a 
+F 792 7 0 life 
+- 801
+F 820 3 0 You 
+F 824 3 0 can 
+F 828 3 0 be 
+F 832 3 0 a
+F 836 3 0 ny
+F 840 3 0 thing 
+F 844 3 0 you 
+F 848 2 0 wan
+F 851 3 0 na 
+F 856 16 0 be 
+- 874
+F 893 3 0 But 
+F 897 2 0 no
+F 900 2 0 thing 
+F 904 6 0 comes 
+F 913 2 0 ea
+F 916 3 0 si
+F 921 12 0 ly 
+- 935
+F 948 3 0 You 
+F 953 2 0 got
+F 956 3 0 ta 
+F 960 6 0 do 
+F 968 3 0 what 
+F 972 3 0 you 
+F 976 3 0 got
+F 980 3 0 ta 
+F 984 10 0 do 
+F 999 15 0 yeah 
+- 1016
+: 1042 3 14 And 
+: 1047 5 23 I’ve 
+: 1055 8 19 been 
+: 1067 5 14 broke 
+- 1073
+: 1074 3 15 I’ve 
+: 1079 5 22 been 
+: 1087 5 19 win
+: 1096 3 17 dow 
+: 1101 5 15 shop
+: 1108 2 15 pin’ 
+- 1111
+: 1112 5 23 My 
+: 1120 5 18 high 
+: 1128 3 17 was 
+: 1132 5 14 al
+: 1140 3 14 ways 
+: 1144 6 17 my 
+: 1153 8 17 low 
+- 1163
+: 1167 2 9 Nig
+: 1172 2 9 ga 
+: 1176 5 21 I’ve 
+: 1184 5 19 been 
+: 1191 2 17 a
+: 1195 5 15 round 
+- 1202
+: 1204 3 14 But 
+: 1208 4 22 I’m 
+: 1215 5 19 co
+: 1223 3 17 ming 
+: 1227 8 17 up 
+: 1239 6 15 you 
+: 1248 13 17 know 
+- 1263
+: 1279 4 14 We 
+: 1287 4 17 can 
+: 1295 5 15 be 
+: 1303 14 18 gol
+: 1327 11 16 den 
+- 1340
+: 1343 3 15 Why 
+: 1350 5 17 don’t 
+: 1358 7 14 we 
+: 1368 13 19 show 
+: 1391 7 17 them 
+- 1400
+: 1406 6 14 All 
+: 1414 5 17 of 
+: 1422 6 14 the 
+: 1432 9 22 life 
+: 1447 11 17 there’s 
+: 1463 10 17 meant 
+: 1478 5 15 to 
+: 1487 9 17 be 
+- 1498
+: 1535 4 14 We 
+: 1543 4 17 can 
+: 1550 5 14 be 
+: 1559 16 19 gol
+: 1582 11 17 den 
+- 1595
+: 1599 5 15 Look 
+: 1607 4 17 what 
+: 1615 5 15 we 
+: 1624 14 20 hol
+: 1646 8 17 din’ 
+- 1656
+: 1662 5 13 Bet
+: 1670 5 17 ter 
+: 1678 6 13 than 
+: 1687 11 22 an
+: 1703 13 17 gels 
+: 1720 5 17 if 
+: 1728 4 17 you 
+: 1736 4 15 be
+: 1744 10 17 lieve 
+- 1756
+F 1816 8 0 Look, 
+- 1826
+F 1849 3 0 I’m 
+F 1853 2 0 fi
+F 1857 2 0 nal
+F 1861 2 0 ly 
+F 1865 2 0 in 
+F 1869 4 0 first 
+F 1876 8 0 place 
+- 1886
+F 1909 3 0 Should 
+F 1913 3 0 have 
+F 1917 4 0 been 
+F 1923 3 0 there 
+F 1927 3 0 in 
+F 1931 3 0 the 
+F 1935 5 0 first 
+F 1943 9 0 place 
+- 1954
+F 1974 3 0 Run
+F 1979 2 0 ner 
+F 1982 5 0 up 
+F 1991 3 0 is 
+F 1995 3 0 the 
+F 1999 3 0 first 
+F 2003 3 0 to 
+F 2007 12 0 lose 
+F 2023 14 0 yes 
+- 2038
+F 2039 5 0 So 
+F 2046 1 0 I’m 
+F 2048 3 0 now 
+F 2055 2 0 at 
+F 2058 2 0 a 
+F 2062 6 0 new 
+F 2070 7 0 phase 
+- 2079
+F 2098 3 0 You 
+F 2103 2 0 can 
+F 2106 3 0 be 
+F 2110 3 0 a
+F 2114 3 0 ny
+F 2119 2 0 thing 
+F 2122 3 0 you 
+F 2126 3 0 wan
+F 2130 3 0 na 
+F 2135 12 0 be 
+- 2149
+F 2171 2 0 But 
+F 2175 2 0 no
+F 2178 2 0 thing 
+F 2182 6 0 comes 
+F 2191 2 0 ea
+F 2195 2 0 si
+F 2199 9 0 ly 
+- 2210
+F 2226 3 0 You 
+F 2231 3 0 got
+F 2235 3 0 ta 
+F 2239 6 0 do 
+F 2247 3 0 what 
+F 2251 2 0 you 
+F 2254 3 0 got
+F 2259 2 0 ta 
+F 2262 11 0 do 
+- 2275
+F 2278 11 0 Yeah 
+F 2295 14 0 yeah 
+- 2311
+: 2322 2 15 ’Cause 
+: 2326 6 22 I 
+: 2334 5 18 stay 
+: 2345 5 14 wor
+: 2354 2 14 king 
+- 2357
+: 2358 5 21 I 
+: 2366 8 18 stay 
+: 2378 6 14 hus
+: 2387 3 14 tlin’ 
+: 2391 5 22 and 
+: 2398 4 19 all 
+: 2405 4 17 the 
+: 2410 5 17 way 
+: 2418 3 14 to 
+: 2422 5 16 the 
+: 2430 7 15 top 
+- 2439
+: 2443 2 8 And 
+: 2447 2 8 nig
+: 2451 2 8 ga 
+: 2456 4 22 I’ve 
+: 2462 5 19 been 
+: 2470 2 16 a
+: 2474 6 16 round 
+- 2481
+: 2483 3 7 But 
+: 2487 5 14 I’m 
+: 2495 5 13 co
+: 2503 3 11 ming 
+: 2507 8 11 back 
+: 2518 30 12 yeah 
+- 2550
+: 2558 6 14 We 
+: 2567 4 17 can 
+: 2575 5 14 be 
+: 2583 15 19 gol
+: 2605 9 17 den 
+- 2616
+: 2622 4 14 Why 
+: 2631 4 16 don’t 
+: 2639 4 14 we 
+: 2647 18 18 show 
+: 2673 7 16 them 
+- 2682
+: 2686 6 14 All 
+: 2695 6 17 of 
+: 2704 6 14 the 
+: 2712 10 21 life 
+: 2728 10 16 there’s 
+: 2744 9 17 meant 
+: 2759 4 14 to 
+: 2767 11 16 be 
+- 2780
+: 2816 4 13 We 
+: 2824 4 16 can 
+: 2832 5 14 be 
+: 2840 16 18 gol
+: 2862 10 17 den 
+- 2874
+: 2879 3 14 Look 
+: 2887 4 16 what 
+: 2896 5 14 we 
+: 2905 19 18 hol
+: 2928 8 16 din’ 
+- 2938
+: 2943 5 14 Bet
+: 2951 5 17 ter 
+: 2959 6 15 than 
+: 2968 11 21 an
+: 2985 11 16 gels 
+: 3001 6 17 if 
+: 3009 6 17 you 
+: 3016 6 14 be
+: 3025 11 17 lieve 
+- 3038
+: 3074 3 22 I 
+: 3080 4 22 don’t 
+: 3088 4 19 be
+: 3096 13 22 lieve 
+- 3111
+: 3128 4 20 That 
+: 3135 4 24 you 
+: 3143 6 21 ne
+: 3151 5 19 ver 
+: 3159 8 17 cared 
+- 3169
+: 3202 5 23 You 
+: 3208 5 21 use 
+: 3215 6 19 to 
+: 3224 11 16 say 
+: 3241 5 14 we 
+: 3249 6 14 can 
+: 3256 6 11 go 
+: 3263 6 15 a
+: 3271 5 17 ny
+: 3280 17 19 where 
+- 3299
+: 3327 4 21 Back 
+: 3334 4 21 on 
+: 3342 4 18 our 
+: 3350 6 21 feet 
+- 3358
+: 3387 4 20 Where 
+: 3394 5 21 we 
+: 3402 5 19 be
+: 3410 14 19 long
+: 3425 13 16 ~ 
+- 3440
+: 3456 6 22 We 
+: 3464 6 22 can 
+: 3471 6 19 be 
+: 3479 12 16 a
+: 3495 7 14 ny
+: 3505 10 14 thing 
+: 3521 6 14 that 
+: 3529 5 18 we 
+: 3537 31 19 want 
+- 3570
+: 3588 3 14 We 
+: 3595 4 17 can 
+: 3602 5 14 be 
+: 3611 14 19 gol
+: 3633 9 16 den 
+- 3644
+: 3648 5 15 Why 
+: 3658 4 18 don’t 
+: 3666 5 18 we 
+: 3674 15 19 show 
+: 3697 11 15 them 
+- 3710
+: 3715 5 14 All 
+: 3722 5 17 of 
+: 3730 5 14 the 
+: 3738 8 21 life 
+: 3754 10 16 there’s 
+: 3771 9 16 meant 
+: 3786 5 14 to 
+: 3795 16 16 be 
+- 3813
+: 3841 4 13 We 
+: 3849 4 17 can 
+: 3857 5 14 be 
+: 3867 13 18 gol
+: 3888 9 16 den 
+- 3899
+: 3905 4 14 Look 
+: 3913 4 16 what 
+: 3921 4 13 we 
+: 3930 14 18 hol
+: 3951 10 16 din’ 
+- 3963
+: 3968 5 14 Bet
+: 3975 6 17 ter 
+: 3984 5 14 than 
+: 3994 10 22 an
+: 4009 11 17 gels 
+: 4023 4 16 if 
+: 4031 5 17 you 
+: 4039 7 19 be
+: 4049 7 18 lieve
+: 4057 7 16 ~ 
+- 4066
+: 4160 4 15 We 
+: 4167 4 17 can 
+: 4174 6 14 be 
+: 4183 16 19 gol
+: 4204 11 16 den 
+- 4217
+: 4224 4 16 Why 
+: 4232 4 17 don’t 
+: 4240 6 15 we 
+: 4249 19 19 show 
+: 4272 10 16 them 
+- 4284
+: 4288 5 14 All 
+: 4296 5 17 of 
+: 4304 6 14 the 
+: 4312 9 22 life 
+: 4326 11 16 there’s 
+: 4342 11 16 meant 
+: 4358 5 15 to 
+: 4366 11 17 be 
+- 4379
+: 4416 3 14 We 
+: 4424 4 18 can 
+: 4432 5 14 be 
+: 4440 18 19 gol
+: 4464 10 16 den 
+- 4476
+: 4480 4 15 Look 
+: 4488 5 17 what 
+: 4496 6 14 we 
+: 4505 19 19 hol
+: 4529 8 17 din’ 
+- 4539
+: 4544 6 14 Bet
+: 4552 5 17 ter 
+: 4560 5 15 than 
+: 4568 12 22 an
+: 4584 11 17 gels 
+: 4600 4 16 if 
+: 4608 4 17 you 
+: 4616 5 15 be
+: 4624 12 16 lieve 
+- 4638
+F 4684 3 0 ’Cause 
+F 4688 3 0 I 
+F 4693 2 0 will 
+F 4696 3 0 ne
+F 4700 2 0 ver 
+F 4703 3 0 see 
+F 4709 3 0 my
+F 4714 5 0 self 
+- 4721
+F 4728 3 0 Get
+F 4732 4 0 tin’ 
+F 4738 5 0 off 
+F 4744 4 0 the 
+F 4749 5 0 block 
+- 4755
+F 4756 3 0 And 
+F 4761 3 0 get
+F 4765 3 0 tin’ 
+F 4771 3 0 all 
+F 4775 2 0 the 
+F 4779 7 0 shots 
+F 4788 3 0 that 
+F 4792 3 0 I 
+F 4797 10 0 got 
+- 4809
+F 4815 3 0 I 
+F 4820 2 0 will 
+F 4823 2 0 ne
+F 4826 2 0 ver 
+F 4830 5 0 see 
+F 4837 3 0 my
+F 4842 6 0 self 
+F 4855 4 0 get
+F 4860 4 0 tin’ 
+F 4865 6 0 off 
+F 4873 3 0 the 
+F 4878 6 0 block 
+- 4885
+F 4885 2 0 And 
+F 4888 4 0 look 
+F 4896 5 0 now 
+F 4902 3 0 we 
+F 4906 6 0 stan
+F 4913 4 0 din’ 
+F 4919 8 0 on 
+F 4928 7 0 top 
+- 4937
+F 4944 2 0 I 
+F 4949 1 0 will 
+F 4952 1 0 ne
+F 4956 1 0 ver 
+F 4960 5 0 see 
+F 4969 1 0 my
+F 4974 4 0 self 
+F 4983 3 0 get
+F 4989 1 0 tin’ 
+F 4993 4 0 off 
+F 5001 2 0 the 
+F 5006 5 0 block 
+- 5012
+F 5012 3 0 And 
+F 5017 3 0 get
+F 5021 3 0 tin’ 
+F 5026 4 0 all 
+F 5031 1 0 the 
+F 5035 8 0 shots 
+F 5045 2 0 that 
+F 5049 5 0 I 
+F 5056 8 0 got 
+- 5066
+F 5073 2 0 Ba
+F 5078 1 0 by 
+F 5081 2 0 there’s 
+F 5087 1 0 a 
+F 5091 3 0 rea
+F 5098 1 0 son 
+F 5102 5 0 why 
+F 5110 1 0 we 
+F 5114 3 0 got 
+F 5123 2 0 off 
+F 5129 2 0 the 
+F 5134 5 0 block 
+- 5141
+F 5146 2 0 ’Cause 
+F 5152 2 0 now 
+F 5158 2 0 we 
+F 5163 1 0 stan
+F 5170 2 0 ding 
+F 5176 1 0 on 
+F 5182 9 0 top, 
+F 5201 11 0 yeah 
+E

@@ -1,0 +1,530 @@
+#ARTIST:Ylvis
+#TITLE:Someone Like Me
+#MP3:Ylvis - Someone Like Me.mp3
+#CREATOR:Hoanzl
+#COVER:Ylvis - Someone Like Me [CO].jpg
+#BACKGROUND:Ylvis - Someone Like Me [BG].jpg
+#GENRE:Dubstep-Musical
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:22480
+#VIDEO:v=PaEnaoydUUo,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a4/50/b0/a450b04b-528a-d44d-32bf-3f887787ccbb/cover.jpg/5000x5000bb.jpg,bg=https://i.ibb.co/B2kzC46/Someone-Like-Me-Bg.png,preview=140.77,medley=0-1352
+: 0 17 -1 Peo
+: 21 19 2 ple 
+: 50 5 9 hug 
+: 72 4 7 and 
+: 79 3 9 give 
+: 84 4 7 each 
+: 92 3 9 o
+: 97 3 11 ther 
+: 107 7 7 kis
+: 116 27 2 ses 
+- 153
+: 160 6 -1 Hol
+: 169 4 2 ding 
+: 180 4 7 ha
+* 185 16 9 ~nds 
+: 206 3 7 and 
+: 212 3 9 wal
+: 219 3 7 king 
+: 227 4 9 side 
+: 234 4 11 by 
+: 245 4 12 si
+: 250 31 14 ~de 
+- 285
+: 287 11 2 But 
+: 306 6 12 eve
+: 316 2 10 ry 
+: 322 4 12 time 
+: 328 2 10 I 
+: 333 2 12 try 
+: 338 2 10 to 
+: 344 10 12 charm 
+: 357 2 14 a 
+: 361 3 10 la
+: 368 15 7 dy 
+- 392
+: 396 5 7 She 
+: 405 7 2 runs 
+: 416 8 7 a
+: 429 5 13 wa
+: 435 83 14 ~y 
+- 528
+: 542 4 -1 What 
+: 551 7 -1 am 
+: 561 3 0 I 
+: 567 5 -1 do
+: 573 3 -5 ing 
+: 581 6 -3 wrong? 
+- 592
+: 594 2 0 Is 
+: 598 2 4 it 
+: 602 2 9 the 
+: 608 4 9 dub
+: 617 3 10 step 
+: 623 2 9 in 
+: 630 3 5 my 
+: 639 6 7 song, 
+: 648 3 0 when 
+: 655 8 4 I 
+: 665 6 7 go... 
+- 673
+R 675 7 8 Boom 
+R 683 2 4 wa
+R 686 2 4 ka
+R 689 2 4 da 
+R 692 5 8 boo 
+- 698
+R 700 2 8 Wal
+R 703 1 8 la 
+R 706 1 8 bam 
+R 709 6 10 boom 
+- 716
+R 718 1 10 Wa
+R 721 1 10 ba
+R 723 1 10 ba 
+R 726 6 10 boom 
+- 733
+R 735 1 11 Wa
+R 738 1 11 ge
+R 741 1 11 ta 
+: 744 2 10 Wooo
+: 747 7 11 ~
+: 755 3 8 ~w! 
+- 758
+R 760 5 -4 Boom 
+R 767 1 4 get
+R 769 2 5 ou
+R 773 1 0 ta 
+- 776
+: 778 1 1 Woo 
+: 780 1 -2 woo 
+: 783 1 -2 woo 
+: 786 1 -1 woo 
+: 789 1 0 woo 
+: 792 1 1 woo 
+: 795 1 2 woo 
+: 798 1 3 wa 
+: 801 1 4 wa 
+: 804 1 5 wa 
+: 807 1 5 wa 
+: 810 1 6 way 
+- 819
+: 822 5 0 Ex
+: 834 21 2 cuse 
+: 857 3 0 me, 
+: 863 8 0 miss 
+- 881
+: 888 3 0 But 
+: 902 5 2 do 
+: 909 3 0 you 
+: 915 2 -2 like 
+: 921 2 -3 the 
+: 929 9 -5 dub
+: 946 3 0 step? 
+- 959
+R 971 4 8 Boo 
+R 976 1 8 chi
+R 978 1 6 ka 
+R 980 4 8 bow 
+- 987
+R 989 4 4 Boo 
+R 998 5 9 wow 
+- 1004
+R 1006 5 4 Ooh 
+R 1015 3 17 with
+R 1019 3 14 a 
+- 1023
+R 1025 7 8 Burrrr 
+R 1033 2 5 hua 
+R 1040 16 -4 booom 
+: 1058 7 14 wew 
+- 1066
+R 1068 4 8 Oh 
+R 1075 2 8 wa
+R 1078 1 8 ba
+R 1080 1 8 da 
+R 1083 1 9 we
+R 1086 1 9 ge
+R 1088 1 8 ta
+R 1090 1 9 la 
+R 1092 3 8 boof 
+R 1100 10 9 yeah 
+- 1122
+: 1126 6 9 Oh, 
+: 1134 3 10 will 
+: 1140 4 9 I 
+: 1146 3 5 e
+: 1151 3 2 ver 
+: 1159 14 5 find 
+: 1184 4 9 some
+: 1193 4 10 one 
+- 1207
+: 1216 5 9 Or 
+: 1225 4 5 will 
+: 1232 5 2 I 
+* 1240 14 3 die 
+* 1260 13 6 a
+: 1278 4 11 lo
+: 1283 69 13 ~ne? 
+- 1362
+: 1369 15 -2 End
+: 1389 9 1 less 
+* 1406 24 8 streams 
+: 1432 2 6 of 
+: 1440 3 8 love 
+: 1447 3 6 let
+: 1454 3 8 ters 
+: 1461 4 10 and 
+: 1470 4 6 ro
+: 1479 14 1 ses 
+- 1503
+: 1514 8 -2 Se
+: 1525 6 1 re
+: 1534 17 8 nades 
+: 1555 3 6 from 
+: 1562 3 8 men 
+: 1568 3 6 with 
+: 1574 3 8 big 
+: 1578 3 10 gui
+: 1585 3 10 ta
+* 1589 20 13 ~rs 
+- 1619
+: 1629 5 1 Fa
+: 1638 4 4 mous 
+: 1650 16 11 men 
+: 1669 4 9 are 
+: 1676 4 11 as
+: 1684 4 9 king 
+: 1690 3 11 me 
+: 1697 3 13 for 
+* 1704 4 9 din
+* 1710 9 6 ner 
+- 1729
+: 1744 5 6 I 
+: 1756 5 1 think 
+: 1766 11 6 I’ll 
+: 1787 65 13 pass 
+- 1872
+: 1894 5 10 Oh, 
+: 1902 4 10 where 
+: 1908 3 11 is 
+: 1915 4 10 my 
+: 1922 5 6 Prince 
+: 1931 5 8 Char
+: 1938 6 1 ming 
+- 1948
+: 1950 2 8 Who 
+: 1953 2 8 will 
+: 1958 6 8 cud
+: 1965 3 9 dle 
+: 1972 4 8 with 
+: 1979 5 4 my 
+: 1987 5 6 hair 
+: 1994 6 -1 and 
+: 2002 5 3 whis
+: 2011 4 6 per...? 
+- 2016
+R 2018 5 8 Boo 
+R 2025 1 7 ca
+R 2027 1 8 chi
+R 2029 1 7 ka 
+R 2031 1 8 chi
+R 2033 1 7 ka 
+R 2035 7 8 bow 
+R 2044 6 8 wow 
+- 2051
+: 2053 4 8 Boo
+: 2058 1 3 yah 
+: 2061 1 8 di
+: 2063 1 3 dl 
+: 2066 2 -1 na
+: 2070 3 -3 noh 
+: 2075 2 3 um
+: 2079 6 9 bah 
+- 2093
+: 2096 5 10 Will 
+: 2103 5 11 I 
+: 2110 4 10 meet 
+: 2116 3 6 a 
+: 2122 11 8 man 
+* 2143 6 10 who 
+: 2150 5 10 al
+: 2158 3 11 so 
+: 2164 8 10 likes 
+: 2174 5 6 to...? 
+- 2180
+R 2182 3 -1 Boom 
+R 2187 1 6 ge 
+R 2190 2 4 choo 
+R 2196 1 6 ge 
+R 2199 2 4 choo 
+R 2204 1 6 ge 
+R 2207 2 4 choo 
+R 2213 6 6 bah! 
+- 2224
+: 2226 4 11 I 
+: 2234 6 10 guess 
+: 2244 5 11 I’ll 
+: 2252 3 10 ne
+: 2256 5 6 ver 
+: 2264 78 13 know 
+- 2352
+: 2366 8 -2 Will 
+: 2384 9 1 I 
+: 2400 7 8 find 
+- 2408
+: 2410 4 1 Oh, 
+: 2416 2 1 will 
+: 2419 4 -1 I 
+: 2425 2 -1 e
+: 2429 2 -2 ver 
+: 2435 5 -2 find 
+: 2442 2 -4 that 
+: 2448 3 -2 some
+: 2453 3 -6 one 
+: 2460 10 -9 who 
+- 2471
+: 2473 6 6 Can 
+: 2485 9 10 sing 
+: 2500 3 8 wuu? 
+- 2504
+: 2506 3 1 Can 
+: 2512 3 1 sing 
+: 2518 2 -1 the 
+: 2522 2 -2 wup 
+: 2526 1 -1 di
+: 2529 2 -2 dap 
+: 2533 2 -2 wu 
+: 2537 2 -4 wu 
+: 2541 2 -6 wu 
+: 2547 3 -1 wu
+* 2551 18 1 ~? 
+- 2570
+: 2572 9 5 Do 
+: 2583 9 6 the 
+: 2596 4 13 ring 
+- 2601
+: 2603 4 4 I’ll 
+: 2609 4 4 do 
+: 2615 2 2 the 
+: 2622 1 1 ri
+: 2625 1 2 -ri
+: 2627 1 1 -ri
+: 2631 1 1 -ri
+: 2633 1 2 -ri
+: 2636 1 1 -ri
+: 2640 4 1 -ring 
+: 2647 4 -3 for 
+: 2654 3 -6 you 
+- 2658
+: 2660 8 11 Oh, 
+: 2672 9 6 my 
+: 2685 5 13 God 
+- 2691
+: 2693 4 1 Who 
+: 2698 2 1 is 
+: 2703 2 -1 that 
+: 2709 5 -2 sing
+: 2717 9 -6 ing? 
+- 2730
+: 2732 3 -6 Some
+: 2738 2 -7 one 
+: 2743 3 -6 who 
+: 2748 3 -4 al
+: 2753 3 -4 so 
+: 2759 4 -6 likes 
+: 2765 3 -4 the 
+: 2771 4 -3 dub 
+: 2778 3 -4 (The 
+: 2783 2 -3 dub) 
+- 2786
+: 2788 2 4 The 
+: 2794 4 6 step 
+: 2799 2 -4 (The 
+: 2804 3 -3 step) 
+- 2808
+: 2810 3 -4 We 
+: 2816 8 -3 both 
+: 2828 9 -4 like 
+* 2841 8 -3 dub
+* 2855 12 -1 step 
+- 2877
+F 2906 5 -1 “Please” 
+F 2912 3 8 >Oh!< 
+- 2919
+F 2921 3 -4 “You..” 
+F 2926 1 10 >Yes?< 
+F 2928 1 -3 “You 
+F 2930 1 -4 want 
+F 2933 2 -7 the..” 
+- 2938
+F 2940 2 8 >Sor
+F 2943 1 6 ry< 
+- 2945
+F 2947 1 8 “I 
+F 2950 2 8 bought 
+F 2956 2 7 flow
+F 2959 3 4 ers 
+F 2965 1 9 for 
+F 2967 1 4 you” 
+- 2968
+F 2970 1 3 >Should 
+F 2972 1 4 I 
+F 2975 2 3 just...?< 
+- 2985
+F 2988 5 10 “Please” 
+- 2998
+F 3000 1 2 “Uh 
+F 3004 1 1 *clears throat*” 
+- 3005
+F 3006 1 3 >So
+F 3010 1 1 -sor
+F 3012 1 0 ry 
+F 3014 1 -1 a
+F 3016 1 -1 bout 
+F 3018 1 -2 that< 
+- 3029
+R 3051 5 10 Please 
+R 3060 4 10 just 
+R 3067 4 10 take 
+R 3075 3 10 these 
+R 3083 3 10 fu
+R 3089 4 10 cking 
+R 3098 5 10 flow
+R 3104 44 10 e
+R 3149 5 8 ~rs! 
+- 3164
+R 3187 5 3 Let’s 
+R 3197 5 2 move 
+R 3206 3 3 in 
+R 3212 2 2 to
+R 3217 4 3 ge
+R 3223 7 2 ther! 
+- 3236
+R 3239 2 11 We’
+R 3242 2 8 ~ll 
+R 3246 3 10 have 
+R 3254 4 11 chil
+R 3261 3 10 dren! 
+- 3265
+R 3267 6 4 I’ll 
+R 3277 4 3 make 
+F 3283 2 -1 you 
+R 3290 5 7 cup
+R 3299 7 -1 cakes! 
+- 3312
+R 3314 3 11 I 
+R 3319 3 10 will 
+R 3325 3 9 mas
+R 3331 7 10 sage 
+R 3341 3 9 your 
+R 3348 4 10 shoul
+R 3354 3 9 ders 
+R 3362 5 11 dai
+R 3369 5 10 ly! 
+- 3377
+R 3379 6 1 I’ll 
+R 3387 3 0 make 
+R 3392 2 0 you 
+R 3398 4 3 din
+R 3403 3 -1 ner 
+R 3407 1 0 when 
+R 3409 2 -1 you 
+R 3414 2 1 come 
+R 3417 6 0 home 
+R 3427 4 0 from 
+R 3434 12 3 work! 
+- 3451
+R 3453 3 9 I’ll 
+R 3460 3 10 play 
+R 3464 2 9 you 
+R 3470 3 10 James 
+R 3478 3 10 Blunt 
+R 3486 4 9 songs 
+R 3496 2 9 from 
+R 3499 2 9 a 
+R 3504 2 10 C
+R 3507 2 9 ~
+R 3511 2 9 D
+R 3514 3 10 ~! 
+- 3525
+R 3528 6 1 Let’s 
+R 3538 3 -1 buy 
+R 3543 2 -2 a 
+R 3549 4 -1 ca
+F 3554 3 -2 ~
+F 3558 2 -2 ~
+F 3561 3 -4 ~r! 
+- 3570
+R 3573 4 11 I’ll 
+R 3579 4 11 make 
+R 3585 3 10 you 
+R 3589 2 11 an 
+R 3593 3 11 ome
+R 3600 3 10 lette 
+R 3605 2 11 for 
+R 3610 3 11 break
+R 3617 10 10 fast! 
+- 3628
+R 3630 7 4 I’ll 
+R 3641 5 4 do 
+R 3651 5 5 di
+R 3658 4 4 shes 
+R 3666 5 4 for 
+R 3675 9 4 you! 
+- 3691
+R 3694 3 11 Let’s 
+R 3701 3 10 watch 
+R 3708 2 10 the 
+R 3712 4 10 last 
+R 3720 3 11 sea
+R 3727 2 10 son 
+R 3730 2 11 of 
+R 3738 6 11 Mad 
+R 3748 4 8 Men 
+R 3755 2 6 to
+R 3762 2 5 ge
+R 3768 5 10 ther! 
+- 3783
+R 3809 8 11 I 
+R 3822 5 10 fu
+R 3831 5 10 cking 
+R 3840 5 11 love 
+R 3849 24 10 you! 
+- 3883
+F 3896 36 8 Ooooohhh 
+- 3933
+R 3935 5 1 I 
+R 3946 2 3 fu
+R 3951 3 2 cking 
+R 3959 4 2 love 
+R 3965 2 1 you, 
+R 3969 3 1 you 
+R 3977 3 2 cock
+R 3984 2 1 -su
+R 3988 2 1 cking 
+R 3995 2 2 son 
+R 3998 1 1 of 
+R 4001 1 0 a 
+R 4006 10 1 bitch! 
+- 4056
+: 4216 3 -5 I’
+* 4220 11 -3 ~ll 
+: 4235 3 -2 get 
+: 4242 5 -3 down 
+: 4250 4 -7 on 
+: 4258 5 -10 my 
+: 4268 23 -7 knees 
+- 4301
+: 4312 6 -3 And 
+: 4321 8 -2 ask 
+: 4334 10 -3 you 
+- 4350
+: 4352 4 -7 “Will 
+: 4358 4 -10 you 
+* 4368 17 -10 mar
+* 4388 19 -8 ry 
+: 4433 180 0 me?” 
+E

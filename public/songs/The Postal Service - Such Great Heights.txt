@@ -1,0 +1,354 @@
+#ARTIST:The Postal Service
+#TITLE:Such Great Heights
+#MP3:The Postal Service - Such Great Heights.mp3
+#CREATOR:Palladian, daggeg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:350
+#GAP:42200
+#VIDEO:v=0wrsZog8qXg,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/cd/67/a2cd6754-2acf-8045-6a90-803107af2f3e/s05.zwohcfmq.jpg/5000x5000bb.jpg,co-crop=0-9-919-919,bg=the-postal-service-4f0b23ed9b844.jpg
+: 0 15 5 I 
+: 27 3 0 am 
+: 31 5 5 thin
+: 39 5 5 king 
+: 47 3 5 it’s 
+: 52 3 7 a 
+: 60 14 4 sign 
+- 76
+: 87 3 0 That 
+: 91 3 0 the 
+: 95 3 4 frec
+: 100 6 4 kles 
+: 108 6 4 in 
+: 116 6 5 our 
+: 124 8 2 eyes 
+- 134
+: 136 6 0 Are 
+: 144 7 -2 mir
+: 152 7 -2 ror 
+: 160 3 -2 i
+: 164 6 -2 ma
+: 171 5 -2 ges 
+: 179 7 -2 and 
+: 190 4 -2 when 
+- 195
+: 196 5 -2 We 
+: 204 5 -2 kiss 
+: 212 7 -2 they’re 
+: 224 3 -2 per
+: 229 6 -3 fect
+: 237 5 -5 ly 
+: 245 6 -7 a
+: 253 2 -7 ligned 
+- 256
+: 256 15 5 I 
+: 287 5 5 have 
+: 295 5 5 to 
+: 303 5 5 spe
+: 312 3 7 cu
+: 316 6 4 late 
+- 324
+: 344 4 0 That 
+: 351 6 4 God 
+: 359 5 4 him
+: 367 6 4 self 
+: 375 3 5 did 
+: 379 7 2 make 
+: 391 5 0 us 
+: 399 5 -2 in
+: 407 5 -2 to 
+- 414
+: 416 3 -2 Cor
+: 420 2 -2 res
+: 428 6 -2 pon
+: 436 6 -2 ding 
+: 444 6 -2 shapes 
+- 451
+: 453 5 -2 Like 
+: 462 4 -2 puz
+: 467 5 -2 zle 
+: 479 4 -2 pie
+: 484 4 -3 ces 
+: 493 4 -7 from 
+: 501 4 -7 the 
+: 508 3 -7 clay 
+- 512
+: 512 17 5 True 
+: 539 3 0 it 
+: 543 6 5 may 
+: 551 6 5 seem 
+: 559 3 5 like 
+: 564 3 7 a 
+: 573 7 4 stretch 
+- 582
+: 593 3 0 But 
+: 597 3 0 it’s 
+: 607 5 4 thoughts 
+: 615 5 4 like 
+: 623 3 4 this 
+: 628 4 5 that 
+: 636 5 2 catch 
+- 643
+: 647 4 0 My 
+: 655 3 -2 trou
+: 660 6 -2 bled 
+: 671 5 -2 head 
+: 679 5 -2 when 
+: 687 4 -2 you’re 
+: 692 5 -2 a
+: 700 7 -2 way 
+- 708
+: 710 3 -2 When 
+: 714 6 -2 I 
+: 722 5 -2 am 
+: 735 4 -2 mis
+: 743 4 -3 sing 
+: 751 3 -5 you 
+: 756 4 -7 to 
+: 764 4 -7 death 
+- 769
+: 771 13 5 You 
+: 795 3 0 are 
+: 799 6 5 out 
+: 807 6 5 there 
+: 815 6 5 on 
+: 824 3 7 the 
+: 828 10 4 road 
+- 840
+: 856 3 0 For 
+: 863 3 4 se
+: 867 3 4 ve
+: 871 4 4 ral 
+: 876 4 4 weeks 
+: 884 3 5 of 
+: 892 7 2 shows 
+- 901
+: 905 5 0 And 
+: 912 6 -2 when 
+: 919 6 -2 you 
+: 927 6 -2 scan 
+: 935 3 -2 the 
+: 940 7 -2 ra
+: 949 5 -2 di
+: 956 5 -2 o 
+- 963
+: 967 6 -2 I 
+: 975 4 -2 hope 
+: 980 6 -2 this 
+: 991 4 -2 song 
+: 999 4 -3 will 
+: 1004 6 -5 guide 
+: 1013 5 -7 you 
+- 1020
+: 1023 7 0 They 
+: 1031 7 0 won’t 
+: 1039 7 0 see 
+: 1047 6 0 us 
+: 1055 7 0 wa
+: 1063 5 -3 ving 
+: 1071 6 0 from 
+: 1080 6 2 such 
+: 1095 8 0 great 
+: 1111 8 0 heights 
+- 1121
+: 1128 8 2 “Come 
+: 1144 8 5 down 
+: 1160 12 -2 now” 
+- 1174
+: 1199 7 -2 They’ll 
+: 1214 23 -3 say 
+- 1239
+: 1271 5 -7 But 
+: 1279 7 0 eve
+: 1287 7 0 ry
+: 1295 7 0 thing 
+: 1303 6 0 looks 
+: 1311 7 0 per
+: 1319 5 -3 fect 
+: 1327 6 0 from 
+: 1335 11 2 far 
+: 1351 14 0 a
+: 1367 8 0 way 
+- 1377
+: 1384 8 2 “Come 
+: 1400 8 5 down 
+: 1416 12 -2 now” 
+- 1430
+: 1447 6 -2 But 
+: 1463 7 2 we’ll 
+: 1479 22 -3 stay
+: 1503 22 -7 ~ 
+- 1527
+: 1537 15 5 I 
+: 1567 6 5 tried 
+: 1575 6 5 my 
+: 1583 6 5 best 
+: 1591 3 7 to 
+: 1596 10 4 leave 
+- 1608
+: 1623 4 0 This 
+: 1631 6 4 all 
+: 1639 6 4 on 
+: 1647 3 4 your 
+: 1652 3 5 ma
+: 1660 7 2 chine 
+- 1669
+: 1673 5 0 But 
+: 1680 6 -2 the 
+: 1687 6 -2 per
+: 1695 4 -2 sis
+: 1701 4 -2 tent 
+: 1709 6 -2 beat 
+: 1717 4 -2 it 
+: 1727 5 -2 soun
+: 1734 5 -2 ded 
+: 1741 6 -2 thin 
+- 1748
+: 1750 3 -2 Up
+: 1755 5 -2 on 
+: 1765 6 -3 lis
+: 1773 6 -7 te
+: 1781 4 -7 ning 
+- 1786
+: 1787 4 0 And 
+: 1793 7 5 that 
+: 1823 7 5 frank
+: 1831 6 5 ly 
+: 1839 4 5 will 
+: 1844 3 7 not 
+: 1854 10 4 fly 
+- 1866
+: 1878 3 0 You 
+: 1882 3 0 will 
+: 1888 6 4 hear 
+: 1896 3 4 the 
+: 1903 3 4 shril
+: 1907 4 5 lest 
+: 1917 7 2 highs 
+- 1925
+: 1926 6 0 And 
+: 1934 3 -2 low
+: 1938 4 -2 est 
+: 1947 7 -2 lows 
+: 1958 3 -2 with 
+: 1962 3 -2 the 
+: 1966 4 -2 win
+: 1971 5 -2 dows 
+: 1980 5 -2 down 
+- 1987
+: 1994 3 -2 When 
+: 1998 5 -2 this 
+: 2006 3 -2 is 
+: 2014 6 -2 gui
+: 2022 5 -3 ding 
+: 2029 6 -5 you 
+: 2038 6 -7 home 
+- 2045
+: 2047 7 0 They 
+: 2055 7 0 won’t 
+: 2063 7 0 see 
+: 2071 6 0 us 
+: 2079 7 0 wa
+: 2087 5 -3 ving 
+: 2095 6 0 from 
+: 2104 6 2 such 
+: 2119 8 0 great 
+: 2135 8 0 heights 
+- 2145
+: 2152 8 2 “Come 
+: 2168 8 5 down 
+: 2184 12 -2 now” 
+- 2198
+: 2223 7 -2 They’ll 
+: 2237 20 -3 say 
+- 2259
+: 2295 5 -7 But 
+: 2303 7 0 eve
+: 2311 7 0 ry
+: 2319 7 0 thing 
+: 2327 6 0 looks 
+: 2335 7 0 per
+: 2343 5 -3 fect 
+: 2351 6 0 from 
+: 2360 11 2 far 
+: 2375 14 0 a
+: 2391 8 0 way 
+- 2401
+: 2408 8 2 “Come 
+: 2424 8 5 down 
+: 2440 12 -2 now” 
+- 2454
+: 2470 7 -2 But 
+: 2486 8 2 we’ll 
+: 2503 23 -3 stay
+: 2528 16 -7 ~ 
+- 2546
+: 3359 7 0 They 
+: 3367 7 0 won’t 
+: 3375 7 0 see 
+: 3383 6 0 us 
+: 3391 7 0 wa
+: 3399 5 -3 ving 
+: 3407 6 0 from 
+: 3416 6 2 such 
+: 3431 8 0 great 
+: 3447 8 0 heights 
+- 3457
+: 3464 8 2 “Come 
+: 3480 8 5 down 
+: 3496 12 -2 now” 
+- 3510
+: 3535 7 -2 They’ll 
+: 3549 21 -3 say 
+- 3572
+: 3607 5 -7 But 
+: 3615 7 0 eve
+: 3623 7 0 ry
+: 3631 7 0 thing 
+: 3639 6 0 looks 
+: 3647 7 0 per
+: 3655 5 -3 fect 
+: 3663 5 0 from 
+: 3672 11 2 far 
+: 3687 14 0 a
+: 3703 8 0 way 
+- 3713
+: 3720 8 2 “Come 
+: 3736 8 5 down 
+: 3752 12 -2 now” 
+- 3766
+: 3784 5 -2 But 
+: 3799 8 2 we’ll 
+: 3815 23 -3 stay
+: 3840 20 -7 ~ 
+- 3862
+: 3871 7 0 They 
+: 3879 7 0 won’t 
+: 3887 7 0 see 
+: 3895 5 0 us 
+: 3903 7 0 wa
+: 3911 5 -3 ving 
+: 3919 6 0 from 
+: 3928 6 2 such 
+: 3943 8 0 great 
+: 3959 7 0 heights 
+- 3968
+: 3976 8 2 “Come 
+: 3991 8 5 down 
+: 4008 12 -2 now” 
+- 4022
+: 4063 7 0 They 
+: 4071 7 0 won’t 
+: 4079 7 0 see 
+: 4087 6 0 us 
+: 4095 7 0 wa
+: 4103 5 -3 ving 
+: 4111 6 0 from 
+: 4121 6 2 such 
+: 4135 8 0 great 
+: 4151 7 0 heights 
+- 4160
+: 4168 8 7 “Come 
+: 4184 8 9 down 
+* 4200 12 5 now” 
+E

@@ -1,0 +1,304 @@
+#ARTIST:Elvis Presley
+#TITLE:Snowbird
+#MP3:Elvis Presley - Snowbird.mp3
+#CREATOR:loch dezz
+#YEAR:1971
+#LANGUAGE:English
+#BPM:360
+#GAP:10520
+#VIDEO:a=wvS4NBkk7w8,co=https://i.discogs.com/YywzOhLE_XMeoGHEd3aD4zg_V-tVa5Mj65ap2DgpiUM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgw/MTcxLTE1OTA1OTQ5/NTYtNDI1Ni5qcGVn.jpeg,bg=presley-elvis-50ce4b08ca5b3.jpg
+: 0 1 7 Be
+: 2 7 4 neath 
+: 10 7 8 this 
+: 18 5 4 snow
+: 24 3 -5 y 
+: 28 5 4 man
+: 34 7 -8 tle 
+: 42 9 -8 cold 
+: 52 7 7 and 
+: 60 40 7 clean 
+- 102
+: 108 1 2 The 
+: 110 7 2 un
+: 118 7 -5 born 
+: 126 7 7 grass 
+: 134 7 -5 lies 
+: 142 7 7 wait
+: 150 6 -5 ing 
+- 157
+: 158 3 7 For 
+: 162 5 5 its 
+: 168 7 -5 coat 
+: 176 3 -5 to 
+: 180 7 -5 turn 
+: 188 3 -5 to 
+: 192 8 5 green 
+- 202
+: 242 1 0 The 
+: 244 7 4 snow
+: 252 7 0 bird 
+: 260 9 7 sings 
+: 270 5 -5 the 
+: 276 7 4 song 
+: 284 3 -8 he 
+: 288 7 7 al
+: 296 7 -8 ways 
+: 304 40 7 sings 
+- 346
+: 348 7 2 And 
+: 356 7 5 speaks 
+: 364 5 -5 to 
+: 370 5 7 me 
+: 376 7 -5 of 
+: 384 5 7 flow
+: 390 4 11 ers 
+- 395
+: 396 7 7 That 
+: 404 5 -5 will 
+: 410 7 7 bloom 
+: 418 3 -5 a
+: 422 7 7 gain 
+: 430 7 -5 in 
+: 438 8 7 spring 
+- 448
+: 484 5 0 When 
+: 490 7 4 I 
+: 498 5 0 was 
+: 504 9 7 young, 
+: 514 1 -5 my 
+: 516 11 4 heart 
+- 528
+: 528 3 -8 Was 
+: 532 9 -8 young 
+: 542 7 10 then, 
+: 550 8 7 too 
+- 560
+: 586 3 2 And 
+: 590 3 5 a
+: 594 5 13 ny
+: 600 7 14 thing 
+: 608 3 -5 that 
+: 612 5 7 it 
+: 618 7 -5 would 
+: 626 10 7 tell 
+- 637
+: 638 3 5 Me 
+: 642 7 -5 that’s 
+: 650 3 7 the 
+: 654 7 5 thing 
+: 662 5 -5 that 
+: 668 7 5 I 
+: 676 7 -5 would 
+: 684 8 5 do 
+- 694
+: 732 1 0 But 
+: 734 7 4 now 
+: 742 5 0 I 
+: 748 7 4 feel 
+: 756 5 -5 such 
+: 762 9 4 emp
+: 772 3 -8 ti
+: 776 9 7 ness 
+: 786 7 -8 with
+: 794 8 7 in 
+- 804
+: 832 5 2 For 
+: 838 5 2 the 
+: 844 7 5 thing 
+: 852 5 5 that 
+: 858 5 -5 I 
+: 864 7 7 want 
+: 872 9 5 most 
+: 882 3 -5 in 
+: 886 5 5 life’s 
+- 892
+: 892 3 -5 The 
+: 896 11 5 thing 
+: 908 1 5 that 
+: 910 7 -5 I 
+: 918 13 -5 can’t 
+: 932 8 7 win 
+- 942
+: 980 9 0 Spread 
+: 990 3 16 your 
+: 994 5 7 ti
+: 1000 5 -5 ny 
+: 1006 7 4 wings 
+: 1014 5 -8 and 
+: 1020 9 7 fly 
+: 1030 7 7 a
+: 1038 8 7 way 
+- 1048
+: 1078 7 2 And 
+: 1086 11 9 take 
+: 1098 1 -5 the 
+: 1100 7 -5 snow 
+: 1108 7 5 back 
+: 1116 7 7 with 
+: 1124 6 -5 you 
+- 1131
+: 1132 5 7 Where 
+: 1138 3 -5 it 
+: 1142 7 7 came 
+: 1150 5 11 from 
+: 1156 5 7 on 
+: 1162 7 -5 that 
+: 1170 16 11 day 
+- 1188
+: 1222 3 7 The 
+: 1226 3 4 one 
+: 1230 5 0 I 
+: 1236 11 0 love 
+: 1248 3 4 for
+: 1252 5 4 ev
+: 1258 5 0 er 
+: 1264 7 0 is
+: 1272 7 7 n’t 
+: 1280 8 4 true 
+- 1290
+: 1330 5 2 And 
+: 1336 3 9 if 
+: 1340 5 5 I 
+: 1346 9 5 could 
+: 1356 1 7 you 
+: 1358 9 -5 know 
+: 1368 3 -5 that 
+- 1372
+: 1372 5 5 I 
+: 1378 9 -5 would 
+: 1388 7 11 fly 
+: 1396 3 -5 a
+: 1400 7 7 way 
+: 1408 5 -5 with 
+: 1414 8 7 you 
+- 1424
+: 1466 1 -5 The 
+: 1468 13 7 breeze 
+: 1482 1 0 a
+: 1484 7 7 long 
+: 1492 1 -5 the 
+: 1494 5 4 riv
+: 1500 5 -8 er 
+: 1506 7 -8 seems 
+: 1514 7 -8 to 
+: 1522 16 7 say 
+- 1540
+: 1562 5 7 That 
+: 1568 3 2 she
+: 1572 1 9 ’ll 
+: 1574 7 9 on
+: 1582 5 -5 ly 
+: 1588 5 7 break 
+: 1594 7 5 my 
+: 1602 8 11 heart 
+- 1611
+: 1612 1 11 A
+: 1614 9 7 gain 
+: 1624 3 -5 should 
+: 1628 7 5 I 
+: 1636 3 -5 de
+: 1640 9 5 cide 
+: 1650 7 -5 to 
+: 1658 16 5 stay 
+- 1676
+: 1690 7 0 So 
+: 1698 3 4 lit
+: 1702 3 -5 tle 
+: 1706 9 12 snow
+: 1716 7 4 bird 
+- 1724
+: 1724 9 7 Take 
+: 1734 1 -5 me 
+: 1736 5 4 with 
+: 1742 5 0 you 
+: 1748 7 0 when 
+: 1756 5 2 you 
+: 1762 16 7 go 
+- 1780
+: 1806 3 12 To 
+: 1810 5 2 that 
+: 1816 7 13 land 
+: 1824 7 -5 of 
+: 1832 5 7 gen
+: 1838 5 -5 tle 
+: 1844 9 14 breez
+: 1854 6 11 es 
+- 1861
+: 1862 3 7 Where 
+: 1866 5 -5 the 
+: 1872 7 11 peace
+: 1880 5 -5 ful 
+: 1886 5 7 wa
+: 1892 9 -5 ters 
+: 1902 24 14 flow 
+- 1928
+: 1948 13 0 Spread 
+: 1962 1 0 your 
+: 1964 9 7 tin
+: 1974 3 -5 y 
+: 1978 9 4 wings 
+: 1988 3 -8 and 
+: 1992 9 7 fly 
+: 2002 3 11 a
+: 2006 8 7 way 
+- 2016
+: 2052 7 2 And 
+: 2060 7 9 take 
+: 2068 1 -5 the 
+: 2070 7 -5 snow 
+: 2078 7 -5 back 
+: 2086 7 7 with 
+: 2094 7 -5 you 
+- 2102
+: 2102 7 7 Where 
+: 2110 5 -5 it 
+: 2116 5 14 came 
+: 2122 7 -5 from 
+: 2130 5 7 on 
+: 2136 7 5 that 
+: 2144 8 11 day 
+- 2154
+: 2192 3 7 The 
+: 2196 5 4 one 
+: 2202 5 0 I 
+: 2208 9 0 love 
+: 2218 3 7 for
+: 2222 5 4 ev
+: 2228 5 0 er 
+: 2234 5 4 is
+: 2240 7 0 un 
+: 2248 24 7 true 
+- 2274
+: 2294 7 5 And 
+: 2302 3 5 if 
+: 2306 7 5 I 
+: 2314 9 5 could 
+: 2324 1 7 you 
+: 2326 7 -5 know 
+: 2334 7 -5 that 
+- 2342
+: 2342 3 5 I 
+: 2346 9 -5 would 
+: 2356 7 11 fly 
+: 2364 3 -5 a
+: 2368 7 7 way 
+: 2376 5 -5 with 
+: 2382 16 7 you 
+- 2400
+: 2418 19 7 Yeah, 
+: 2438 1 -5 and 
+: 2440 1 4 if 
+: 2442 7 -5 I 
+: 2450 7 -5 could 
+: 2458 3 11 you 
+: 2462 9 7 know 
+: 2472 5 -5 that 
+- 2478
+: 2478 3 7 I 
+: 2482 7 -5 would 
+: 2490 48 7 fly 
+: 2554 1 -7 a
+: 2556 7 2 way 
+: 2564 7 5 with 
+: 2572 60 9 you 
+E

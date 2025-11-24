@@ -1,0 +1,275 @@
+#ARTIST:Supertramp
+#TITLE:The Logical Song (Outliers Remix)
+#MP3:Supertramp - The Logical Song (Outliers Remix).mp3
+#CREATOR:Fepo
+#COVER:Supertramp - The Logical Song (Outliers Remix) [CO].jpg
+#BACKGROUND:Supertramp - The Logical Song (Outliers Remix) [BG].jpg
+#GENRE:Pop
+#YEAR:2025
+#LANGUAGE:English
+#BPM:390
+#GAP:3780
+#VIDEO:v=lt36UFInYKI,co=https://i1.sndcdn.com/artworks-OmMYSCEVkxub5OEi-kE7REQ-t1080x1080.png
+: 0 5 5 When 
+: 7 3 7 I 
+: 12 4 7 was 
+: 20 9 7 young, 
+- 30
+: 32 2 7 It 
+: 36 4 3 seemed 
+: 42 4 5 that 
+: 48 3 5 life 
+: 53 5 5 was 
+: 60 5 7 so
+: 66 3 5 ~ 
+: 72 4 5 won
+: 78 4 5 der
+: 84 7 2 ful 
+- 101
+: 116 2 5 A 
+: 120 5 5 mi
+: 127 3 3 ra
+: 132 7 2 cle, 
+- 148
+: 152 3 5 Oh, 
+: 157 2 5 it 
+: 161 4 5 was 
+: 167 5 3 beau
+: 174 3 2 ti
+: 179 6 0 ful, 
+- 190
+: 192 3 3 Ma
+: 197 4 3 gi
+: 203 7 0 cal 
+- 220
+: 224 3 3 And 
+: 229 4 3 all 
+: 235 2 5 the 
+: 239 5 5 birds 
+: 246 3 7 in 
+: 251 3 7 the 
+: 256 12 7 trees, 
+- 270
+: 272 2 2 They 
+: 276 4 3 may
+: 282 3 5 be 
+: 287 5 5 sing
+: 294 4 7 ing 
+: 300 5 7 so
+: 306 3 5 ~ 
+: 311 4 5 hap
+: 317 4 3 pi
+: 323 9 2 ly 
+- 342
+: 352 6 5 Oh, 
+: 360 6 5 joy
+: 368 6 3 ful
+: 376 6 2 ly, 
+- 388
+: 391 14 5 Oh, 
+: 407 5 3 play
+: 414 4 2 ful
+: 420 6 0 ly 
+- 430
+: 432 6 3 Wat
+: 440 3 2 ching 
+: 445 5 0 me 
+- 476
+: 510 3 0 But 
+: 515 3 3 then 
+: 520 5 5 they 
+: 527 4 5 sent 
+: 533 5 7 me 
+: 540 3 7 a
+: 545 8 7 way 
+- 561
+: 564 3 3 Teach 
+: 569 4 7 me 
+: 576 4 5 how 
+: 582 3 7 to 
+: 587 5 7 be
+: 593 5 5 ~ 
+: 600 5 5 sen
+: 607 4 3 si
+: 613 7 2 ble 
+- 630
+: 644 8 5 Lo
+* 654 3 3 gi
+: 659 7 2 cal, 
+- 674
+: 677 11 5 Oh, 
+: 690 4 5 re
+: 697 3 3 spon
+: 702 4 3 si
+: 708 8 0 ble, 
+- 717
+: 719 4 0 Prac
+: 726 3 3 ti
+: 732 6 0 cal 
+- 748
+: 752 2 0 And 
+: 756 3 3 then 
+: 762 4 3 they 
+: 768 4 5 showed 
+: 774 4 7 me 
+: 780 3 7 a 
+: 785 9 7 world 
+- 797
+: 799 3 0 Where 
+: 805 3 3 I 
+: 810 3 5 could 
+: 815 3 5 be 
+: 820 5 7 so 
+: 827 4 7 de
+: 832 3 5 ~
+: 838 6 5 pen
+: 846 4 3 da
+: 852 20 2 ble 
+- 878
+: 881 5 7 Oh, 
+: 888 4 5 cli
+: 894 4 3 ni
+: 900 11 2 cal, 
+- 916
+: 918 5 5 Oh, 
+: 925 2 5 in
+: 929 4 5 tel
+: 935 4 3 lec
+: 941 5 3 tu
+: 948 8 0 al, 
+- 958
+: 960 5 3 Cy
+: 967 3 3 ni
+: 972 16 0 cal 
+- 998
+: 1038 4 3 There 
+: 1045 3 5 are 
+: 1050 40 7 times 
+: 1092 4 8 when 
+: 1098 15 7 all 
+: 1116 4 5 the 
+: 1122 16 3 world’s 
+: 1141 4 5 as
+: 1147 13 7 leep 
+- 1170
+: 1188 5 3 The 
+: 1196 14 7 ques
+: 1212 4 5 tions 
+: 1220 13 3 run 
+: 1235 5 5 too 
+: 1242 11 7 deep 
+- 1263
+: 1284 6 8 For 
+: 1292 14 7 such 
+: 1308 4 5 a 
+: 1315 14 3 simple
+: 1331 5 5 ~ 
+: 1338 78 5 man 
+- 1419
+: 1421 5 5 I 
+: 1428 8 7 said, 
+* 1439 5 7 watch 
+: 1446 3 7 what 
+: 1451 3 7 you 
+: 1458 10 7 say, 
+- 1474
+: 1476 5 5 They’ll 
+: 1483 3 5 be 
+: 1488 5 5 cal
+: 1495 4 7 ling 
+: 1502 4 7 you 
+: 1508 2 5 a 
+: 1512 5 5 ra
+: 1519 2 3 di
+: 1523 12 2 cal 
+- 1545
+: 1554 4 5 A 
+: 1560 4 5 li
+: 1566 4 4 be
+: 1572 16 2 ral, 
+- 1588
+: 1589 10 5 Oh, 
+: 1601 5 5 fa
+: 1608 3 3 na
+: 1613 5 3 ti
+: 1620 7 0 cal, 
+- 1630
+: 1632 4 3 Cri
+: 1638 5 3 mi
+: 1645 8 0 nal 
+- 1659
+: 1661 7 3 Oh, 
+: 1670 2 3 won’t 
+: 1674 4 7 you 
+: 1680 5 5 sign 
+: 1687 3 7 up 
+: 1692 3 7 your 
+: 1697 8 7 name? 
+- 1708
+: 1710 4 7 We’d 
+: 1716 5 5 like 
+: 1723 3 7 to 
+: 1728 4 7 feel 
+: 1734 4 7 you’re 
+: 1740 10 7 ac
+: 1752 5 5 cep
+: 1759 3 3 ta
+: 1764 13 2 ble 
+- 1788
+: 1792 6 5 Re
+: 1800 5 5 spec
+: 1807 3 3 ta
+: 1813 6 2 ble, 
+- 1828
+: 1832 7 5 Oh, 
+: 1841 6 5 pre
+: 1849 4 3 sen
+: 1855 3 2 ta
+: 1860 5 0 ble, 
+- 1866
+: 1868 2 0 A 
+: 1872 6 3 vege
+: 1880 3 2 ta
+: 1885 11 0 ble 
+- 1906
+: 1921 8 0 Oh, 
+: 1932 11 7 take, 
+: 1945 10 7 take, 
+: 1957 3 7 take 
+: 1962 3 7 it, 
+- 1965
+: 1967 34 7 Please 
+: 2003 8 8 please 
+: 2014 11 7 tell 
+: 2027 4 5 me 
+: 2033 16 3 what 
+: 2051 4 5 we’ve 
+: 2057 11 7 learned? 
+- 2078
+: 2099 5 7 I 
+: 2106 16 7 know 
+: 2124 4 5 it 
+: 2130 16 3 sounds 
+: 2148 6 7 ab
+: 2156 9 7 su
+: 2166 7 5 ~rd 
+- 2183
+: 2195 8 8 Please 
+: 2206 12 7 tell 
+: 2220 6 5 me 
+: 2228 13 3 who 
+: 2244 5 5 I 
+* 2251 80 5 am 
+- 2331
+: 2332 7 7 Who 
+: 2341 3 8 I 
+: 2347 75 8 am 
+- 2425
+: 2427 5 10 Who 
+: 2435 5 12 I 
+: 2443 74 12 am 
+- 2522
+: 2524 8 15 Who 
+: 2534 3 13 I 
+: 2540 82 15 am 
+E

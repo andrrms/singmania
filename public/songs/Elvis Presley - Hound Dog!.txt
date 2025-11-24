@@ -1,0 +1,298 @@
+#ARTIST:Elvis Presley
+#TITLE:Hound Dog!
+#MP3:Elvis Presley - Hound Dog!.mp3
+#CREATOR:Pandorasings
+#GENRE:Rock
+#YEAR:1956
+#LANGUAGE:English
+#BPM:271.6
+#GAP:1260
+#VIDEO:v=lzQ8GDBA8Is,co=dont-be-cruel--hound-dog-5f6da0d39414d.jpg,bg=elvis-presley-4ddf94a925d93.jpg
+: 0 1 2 You 
+: 2 4 3 ain’t 
+: 8 4 3 no
+: 13 1 3 thin’ 
+: 15 4 3 but 
+: 20 1 3 a 
+: 23 6 0 hound 
+: 33 6 0 dog 
+- 41
+: 59 4 4 Cry 
+: 65 1 -5 in’ 
+: 67 3 -3 all 
+: 71 1 -2 the 
+: 73 6 0 time 
+- 81
+: 102 2 3 You 
+: 105 3 2 ain’t 
+: 111 2 2 no
+: 115 1 3 thin’ 
+: 117 3 2 but 
+: 121 1 3 a 
+: 124 6 0 hound 
+: 134 4 0 dog 
+- 140
+: 159 4 4 Cry
+: 165 1 -5 in’ 
+: 167 3 -3 all 
+: 171 1 -2 the 
+: 174 6 0 time 
+- 182
+: 206 9 3 Well, 
+: 216 1 3 you 
+: 219 3 3 ain’t 
+: 224 3 2 ne
+: 228 1 2 ver 
+: 230 4 2 caught 
+: 235 1 2 a 
+: 237 2 2 rab
+: 240 1 2 bit 
+- 242
+: 243 1 2 And 
+: 246 2 2 you 
+: 250 3 3 ain’t 
+: 255 4 2 no 
+: 262 4 2 friend 
+: 268 1 0 of 
+: 271 13 0 mine 
+- 286
+: 300 1 2 When 
+: 302 1 3 they 
+: 306 2 3 said 
+: 312 2 2 you 
+: 315 1 3 was 
+: 319 5 2 high 
+: 327 4 3 classed 
+- 333
+: 350 4 3 Well, 
+: 356 3 3 that 
+: 362 1 0 was 
+: 365 1 0 just 
+: 368 1 0 a 
+: 371 3 0 lie 
+- 376
+: 398 2 2 Yeah, 
+: 401 1 3 they 
+: 405 2 3 said 
+: 410 2 3 you 
+: 413 1 3 was 
+: 416 5 2 high 
+: 424 8 3 classed 
+- 434
+: 448 3 3 Well, 
+: 453 2 3 that 
+: 459 2 0 was 
+: 462 1 0 just 
+: 465 1 0 a 
+: 468 5 0 lie 
+- 475
+: 498 9 3 Well, 
+: 508 1 3 you 
+: 511 3 3 ain’t 
+: 516 2 2 ne
+: 519 1 2 ver 
+: 522 3 2 caught 
+: 526 1 2 a 
+: 529 2 2 rab
+: 533 1 0 bit 
+- 535
+: 536 1 2 And 
+: 538 2 2 you 
+: 541 4 3 ain’t 
+: 547 4 2 no 
+: 554 4 2 friend 
+: 560 1 0 of 
+: 563 13 0 mine 
+- 578
+: 591 1 2 You 
+: 593 5 3 ain’t 
+: 600 2 3 no
+: 604 1 3 thin’ 
+: 606 3 3 but 
+: 610 1 3 a 
+: 613 6 0 hound 
+* 623 5 0 dog 
+- 630
+* 647 5 4 Cry
+: 654 1 -5 in’ 
+* 656 3 -3 all 
+: 660 1 -3 the 
+: 662 6 0 time 
+- 670
+: 690 2 3 You 
+: 693 3 2 ain’t 
+: 699 1 2 no
+: 702 1 3 thin’ 
+: 704 3 2 but 
+: 708 1 3 a 
+: 711 7 0 hound 
+: 720 4 0 dog 
+- 726
+: 744 4 4 Cry
+: 751 1 -5 in’ 
+: 753 3 -3 all 
+: 757 1 -3 the 
+: 759 6 0 time 
+- 767
+: 790 7 3 Well, 
+: 799 1 3 you 
+: 802 3 3 ain’t 
+: 808 2 2 ne
+: 811 1 2 ver 
+: 814 2 2 caught 
+: 817 1 2 a 
+: 819 2 2 rab
+: 823 1 0 bit 
+- 826
+* 827 1 2 And 
+* 829 2 0 you 
+: 832 4 3 ain’t 
+: 838 3 2 no 
+* 844 5 2 friend 
+: 851 1 0 of 
+: 854 15 0 mine 
+- 871
+: 1171 2 3 When 
+: 1174 1 3 they 
+: 1178 2 3 said 
+: 1184 2 3 you 
+: 1187 1 3 was 
+* 1190 6 2 high 
+: 1202 5 3 classed 
+- 1209
+: 1221 4 3 Well, 
+: 1227 3 3 that 
+: 1233 1 0 was 
+: 1236 1 0 just 
+: 1239 1 0 a 
+* 1242 3 0 lie 
+- 1247
+: 1269 2 2 When 
+: 1272 1 3 they 
+: 1275 2 3 said 
+: 1281 2 3 you 
+: 1284 1 3 was 
+: 1287 4 2 high 
+: 1294 4 3 classed 
+- 1300
+: 1317 4 3 Well, 
+: 1323 3 3 that 
+: 1329 1 0 was 
+: 1332 1 0 just 
+: 1335 1 0 a 
+: 1338 5 0 lie 
+- 1345
+: 1368 8 3 Well, 
+: 1377 1 3 you 
+: 1380 3 3 ain’t 
+: 1386 2 2 ne
+: 1389 1 2 ver 
+: 1392 2 2 caught 
+: 1396 1 2 a 
+: 1398 2 2 rab
+: 1402 1 2 bit 
+- 1404
+: 1405 1 2 And 
+: 1407 2 2 you 
+: 1410 4 3 ain’t 
+: 1416 4 2 no 
+: 1422 5 2 friend 
+: 1429 1 0 of 
+* 1432 13 0 mine 
+- 1447
+: 1749 2 3 When 
+: 1752 1 3 they 
+: 1756 2 3 said 
+: 1761 2 3 you 
+: 1764 1 3 was 
+: 1767 7 2 high 
+: 1780 4 3 classed 
+- 1786
+: 1798 4 3 Well, 
+: 1804 2 3 that 
+: 1810 1 0 was 
+: 1813 1 0 just 
+: 1816 1 0 a 
+: 1818 2 0 lie 
+- 1822
+: 1845 1 3 You 
+: 1848 2 3 know 
+: 1851 2 3 they 
+: 1854 1 3 said 
+: 1857 2 3 you 
+: 1860 1 3 was 
+: 1863 4 2 high 
+: 1870 4 3 classed 
+- 1876
+: 1893 4 3 Well, 
+: 1899 3 3 that 
+: 1906 1 0 was 
+: 1908 1 0 just 
+: 1912 1 0 a 
+: 1915 3 0 lie 
+- 1920
+: 1944 7 3 Well, 
+: 1954 1 3 you 
+: 1957 3 3 ain’t 
+: 1962 2 2 ne
+: 1965 1 2 ver 
+: 1968 2 2 caught 
+: 1971 1 2 a 
+: 1974 2 2 rab
+* 1978 1 -5 bit 
+- 1980
+* 1981 1 -3 And 
+* 1983 1 0 you 
+* 1985 3 3 ain’t 
+: 1991 3 2 no 
+: 2001 4 2 friend 
+: 2007 1 0 of 
+: 2009 13 0 mine 
+- 2024
+: 2034 2 2 You 
+: 2037 4 3 ain’t 
+: 2043 3 3 no
+: 2047 1 3 thin’ 
+: 2049 3 3 but 
+: 2053 1 3 a 
+: 2055 8 0 hound 
+: 2066 6 0 dog 
+- 2074
+: 2089 5 4 Cry
+: 2096 1 -5 in’ 
+: 2098 3 -3 all 
+: 2102 1 -2 the 
+: 2104 6 0 time 
+- 2112
+: 2132 2 3 You 
+: 2135 3 2 ain’t 
+: 2140 2 2 no
+: 2144 1 3 thin’ 
+: 2147 3 3 but 
+: 2151 1 3 a 
+: 2153 6 0 hound 
+: 2162 5 0 dog 
+- 2169
+: 2186 4 4 Cry
+: 2193 1 -5 in’ 
+: 2195 3 -3 all 
+: 2199 1 -2 the 
+: 2201 5 0 time 
+- 2208
+: 2231 7 3 Well, 
+: 2240 1 3 you 
+: 2243 3 3 ain’t 
+: 2249 2 2 ne
+: 2252 1 2 ver 
+: 2254 3 2 caught 
+: 2258 1 2 a 
+: 2261 2 2 rab
+: 2264 1 0 bit 
+- 2267
+: 2270 2 2 You 
+: 2273 4 3 ain’t 
+: 2279 4 2 no 
+: 2285 4 2 friend 
+: 2292 1 0 of 
+: 2295 13 0 mine 
+E

@@ -1,0 +1,238 @@
+#ARTIST:Joy Division
+#TITLE:Love Will Tear Us Apart
+#MP3:Joy Division - Love Will Tear Us Apart.mp3
+#CREATOR:IC
+#EDITION:SingStar Legends [US]
+#GENRE:New Wave
+#YEAR:1980
+#LANGUAGE:English
+#BPM:290
+#GAP:26320
+#VIDEO:v=qSgRqXeWiyA,co=love-will-tear-us-apart-52eab5eec98fa.jpg,bg=joy-division-4f31267297a0d.jpg
+: 0 3 2 When 
+: 5 4 4 rou
+: 11 4 4 tine 
+: 17 4 4 bites 
+: 26 12 4 hard 
+- 40
+: 60 2 2 And 
+: 64 3 2 am
+: 69 2 6 bi
+: 74 3 2 tions 
+: 82 3 -1 are 
+: 90 7 -3 low 
+- 99
+: 123 3 2 And 
+: 128 2 2 re
+: 132 4 4 sent
+: 139 4 4 ment 
+: 145 8 4 rides 
+* 158 11 4 high 
+- 171
+: 187 4 2 But 
+: 192 2 2 e
+: 196 5 6 mo
+: 203 8 2 tions 
+: 218 5 -1 won’t 
+: 226 11 -3 grow 
+- 239
+: 256 5 2 We’re 
+: 264 4 4 chang
+: 270 3 4 ing 
+: 275 5 4 our 
+: 284 11 4 ways 
+- 297
+: 314 4 4 Tak
+: 320 4 2 ing 
+* 327 3 6 dif
+: 332 3 2 fe
+: 336 4 -1 rent 
+: 350 10 -3 roads 
+- 362
+: 381 4 2 Then 
+: 387 29 4 love 
+- 417
+: 417 8 6 Love 
+: 427 2 7 will 
+: 431 7 6 tear 
+: 440 3 4 us 
+: 444 3 2 a
+: 448 24 -1 part 
+- 474
+: 479 2 2 A
+: 483 12 -3 gain 
+- 497
+* 514 29 4 Love 
+- 544
+: 546 7 6 Love 
+: 554 3 7 will 
+: 558 7 6 tear 
+: 566 3 4 us 
+: 570 3 2 a
+: 577 20 -1 part 
+- 599
+: 606 2 2 A
+: 610 12 -3 gain 
+- 624
+: 760 2 4 Why 
+: 764 3 4 is 
+: 768 3 2 the 
+: 772 4 4 bed
+: 778 4 4 room 
+: 785 6 4 so 
+* 794 12 4 cold? 
+- 808
+: 829 3 4 Turned 
+: 833 3 2 a
+: 838 4 6 way 
+: 844 2 -1 on 
+: 847 7 -1 your 
+: 864 16 -3 side 
+- 882
+: 895 3 4 Is 
+: 900 3 2 my 
+: 904 4 4 tim
+: 910 5 4 ing 
+: 917 3 4 that 
+: 925 11 4 flawed? 
+- 938
+: 958 3 2 Our 
+: 962 3 2 res
+: 967 3 6 pect 
+: 974 4 -1 runs 
+: 980 6 -1 so 
+: 998 10 -3 dry 
+- 1010
+: 1022 3 4 Yet 
+: 1027 4 2 there’s 
+: 1033 4 4 still 
+: 1041 4 4 this 
+: 1047 4 4 ap
+: 1052 11 4 peal 
+- 1065
+: 1086 3 2 That 
+: 1090 4 2 we’ve 
+: 1096 5 6 kept 
+* 1103 3 -1 through 
+: 1109 3 -1 our
+: 1113 3 -3 ~ 
+: 1123 9 -3 lives 
+- 1134
+: 1156 1 4 Butt
+: 1158 26 4 love 
+- 1186
+: 1188 7 6 Love 
+: 1196 3 7 will 
+: 1201 7 6 tear 
+: 1209 3 4 us 
+: 1213 5 2 a
+: 1221 19 -1 part 
+- 1242
+: 1249 2 2 A
+: 1253 12 -3 gain 
+- 1267
+: 1283 29 4 Love 
+- 1314
+: 1316 6 6 Love 
+: 1323 3 7 will 
+: 1327 8 6 tear 
+: 1336 3 4 us 
+: 1340 3 2 a
+: 1347 17 -1 part 
+- 1366
+: 1374 2 2 A
+: 1378 12 -3 gain 
+- 1392
+: 1912 3 2 Do 
+: 1916 2 4 you 
+: 1920 4 2 cry 
+: 1925 3 4 out 
+: 1930 3 4 in 
+: 1935 3 4 your 
+: 1943 12 4 sleep? 
+- 1957
+: 1977 4 2 All 
+: 1983 4 2 my 
+* 1990 6 6 fail
+: 1997 3 -1 ings 
+: 2004 4 -1 ex
+: 2013 10 -3 posed 
+- 2025
+: 2042 3 4 There’s 
+: 2046 2 2 a 
+: 2050 6 4 taste 
+: 2058 3 2 in 
+: 2063 6 2 my 
+: 2073 10 4 mouth 
+- 2085
+: 2102 2 -1 As 
+: 2106 3 2 des
+: 2111 4 -1 pe
+: 2117 3 6 ra
+: 2122 3 -1 tion 
+: 2137 6 -1 takes 
+: 2145 10 -3 hold 
+- 2157
+: 2169 3 4 There’s 
+: 2173 4 2 that 
+: 2180 5 4 some
+: 2186 5 4 thing 
+: 2195 6 4 so 
+: 2206 8 4 good 
+- 2216
+: 2234 3 2 Just 
+: 2239 3 2 can’t 
+: 2246 4 6 func
+: 2254 4 -1 tion 
+: 2260 5 -1 no 
+* 2269 9 -3 more 
+- 2280
+: 2299 4 2 But 
+: 2305 25 4 love 
+- 2332
+: 2335 7 6 Love 
+: 2343 3 7 will 
+: 2349 5 6 tear 
+: 2355 3 4 us 
+: 2359 3 2 a
+: 2366 20 -1 part 
+- 2388
+: 2395 2 2 A
+* 2399 12 -3 gain 
+- 2413
+: 2430 29 4 Love 
+- 2460
+: 2462 7 6 Love 
+: 2470 2 7 will 
+* 2474 7 6 tear 
+: 2482 3 4 us 
+: 2486 3 2 a
+: 2493 14 -1 part 
+- 2509
+: 2523 3 2 A
+: 2527 12 -3 gain 
+- 2541
+: 2557 27 4 Love 
+- 2586
+: 2590 7 6 Love 
+: 2598 3 7 will 
+: 2603 7 6 tear 
+: 2611 3 4 us 
+: 2615 3 2 a
+: 2623 16 -1 part 
+- 2641
+: 2650 3 2 A
+: 2655 9 -3 gain 
+- 2666
+: 2687 29 4 Love 
+- 2717
+: 2719 7 6 Love 
+: 2727 3 7 will 
+: 2731 7 6 tear 
+: 2739 3 4 us 
+: 2743 3 2 a
+* 2750 16 -1 part 
+- 2768
+: 2779 2 2 A
+: 2783 12 -3 gain 
+E

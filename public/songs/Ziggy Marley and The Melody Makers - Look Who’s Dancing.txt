@@ -1,0 +1,355 @@
+#ARTIST:Ziggy Marley and The Melody Makers
+#TITLE:Look Who’s Dancing
+#MP3:Ziggy Marley and The Melody Makers - Look Who’s Dancing.mp3
+#CREATOR:asb
+#GENRE:Reggae
+#YEAR:1989
+#LANGUAGE:English
+#BPM:261.44
+#GAP:20660
+#VIDEO:v=bOlfjkI8XfM,co=https://i.discogs.com/fY2wLJFZEw5ihnzA3JtdVmlOa8XljkZ3E51YfSDlA8w/rs:fit/g:sm/q:90/h:428/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU1/NDMtMTIyNTI4Mjkx/Ny5qcGVn.jpeg
+: 0 2 0 Look 
+: 5 4 2 who’s 
+: 12 5 3 danc
+: 21 1 0 ing
+: 23 5 2 ~ 
+- 30
+: 40 2 0 Look 
+: 45 4 2 who’s 
+: 52 5 3 danc
+: 61 6 2 ing 
+- 69
+: 80 2 0 Look 
+: 85 3 2 who’s 
+: 91 7 3 danc
+* 103 2 2 ing
+* 107 1 -2 ~ 
+: 111 8 -2 now 
+- 121
+: 133 3 2 Watch 
+* 140 1 -2 my
+: 145 6 0 self 
+- 153
+: 161 2 0 Look 
+: 166 3 2 who’s 
+: 172 5 3 danc
+: 181 7 2 ing 
+- 190
+* 199 3 0 Oh 
+: 204 2 0 look 
+* 210 2 -5 who’s 
+: 215 4 -2 danc
+: 223 5 0 ing 
+- 230
+: 242 2 0 Look 
+: 247 3 2 who’s 
+: 253 7 3 danc
+: 264 1 2 ing
+: 267 1 -2 ~ 
+: 272 8 -2 now 
+- 282
+F 297 3 2 Well
+F 302 3 -2 ~ 
+- 307
+: 322 3 -2 First 
+: 330 1 -2 the 
+: 333 5 -2 dance 
+: 342 3 -2 floor 
+* 347 1 -7 was 
+: 351 2 -5 like 
+: 356 1 -2 a 
+: 359 3 0 for
+: 365 2 0 bid
+* 368 1 2 den 
+* 372 3 0 land
+* 377 1 -5 ~ 
+- 380
+F 387 4 -2 Where
+F 392 3 -5 ~ 
+- 397
+: 406 2 2 Peo
+: 411 1 -2 ple 
+: 414 2 2 would 
+: 418 2 2 nev
+: 422 2 -2 er 
+: 427 2 2 dare 
+: 432 1 -2 to 
+: 435 5 0 go 
+- 442
+: 491 2 2 But 
+: 495 5 2 now 
+: 503 2 2 eve
+: 507 2 0 ry
+: 511 1 -2 one’s 
+: 518 2 0 do
+: 522 2 2 ing 
+* 526 2 3 it 
+- 530
+: 540 1 1 I 
+: 546 1 0 said 
+: 550 1 -2 it’s 
+: 555 1 0 a 
+* 573 1 0 dance
+* 575 4 2 ~ 
+: 584 4 2 ga
+* 591 2 2 lore
+* 595 5 0 ~ 
+- 602
+: 643 2 0 Look 
+: 648 4 2 who’s 
+: 655 5 3 danc
+* 664 1 0 ing
+* 666 5 2 ~ 
+- 673
+: 684 2 0 Look 
+: 689 3 2 who’s 
+: 695 5 3 danc
+: 704 6 2 ing 
+- 712
+: 723 2 0 Look 
+: 729 2 2 who’s 
+: 735 6 3 danc
+: 746 2 2 ing
+: 750 1 -2 ~ 
+: 754 8 -2 now 
+- 764
+: 775 2 2 Watch 
+: 782 1 -2 my
+: 787 3 0 self 
+- 792
+: 804 2 0 Look 
+: 809 3 2 who’s 
+: 815 5 3 danc
+: 824 7 2 ing 
+- 833
+: 847 2 0 Look 
+: 853 2 -5 who’s 
+: 857 4 -2 danc
+: 865 5 0 ing 
+- 872
+: 885 2 0 Look 
+: 890 3 2 who’s 
+: 896 7 3 danc
+: 907 1 2 ing
+: 910 1 -2 ~ 
+: 915 8 -2 now 
+- 925
+: 933 1 -2 Get 
+: 937 2 2 on 
+: 942 1 -2 the 
+: 947 7 0 floor 
+- 956
+F 970 5 7 Ska! 
+- 977
+F 1004 2 5 Rhythm
+F 1007 2 7 ~ 
+F 1010 3 7 and 
+F 1015 5 10 Blues! 
+- 1022
+F 1043 1 2 And 
+F 1045 1 5 if 
+F 1048 1 7 you 
+F 1050 2 7 catch 
+F 1055 6 7 them 
+- 1063
+F 1080 1 2 Then 
+F 1083 1 2 you 
+F 1086 1 5 do 
+F 1088 1 7 the 
+F 1090 1 7 del
+F 1093 1 7 la 
+F 1095 2 7 move 
+- 1099
+F 1131 5 7 Ska! 
+F 1165 2 5 Rhythm
+F 1168 2 7 ~ 
+F 1171 3 7 and 
+F 1176 5 10 Blues! 
+- 1183
+F 1204 1 2 And 
+F 1206 1 5 if 
+F 1209 1 7 you 
+F 1211 2 7 catch 
+F 1216 6 7 them 
+- 1224
+F 1241 1 2 Then 
+F 1244 1 2 you 
+F 1247 1 5 do 
+F 1249 1 7 the 
+F 1251 1 7 del
+F 1254 1 7 la 
+F 1256 2 7 move 
+- 1260
+: 1287 2 0 Look 
+: 1292 4 2 who’s 
+: 1299 5 3 danc
+: 1308 7 2 ing 
+- 1317
+: 1327 2 0 Look 
+: 1332 4 2 who’s 
+: 1339 5 3 danc
+: 1348 6 2 ing 
+- 1356
+: 1367 2 0 Look 
+: 1372 3 2 who’s 
+: 1378 7 3 danc
+: 1390 2 2 ing
+: 1394 1 -2 ~ 
+: 1398 8 -2 now 
+- 1408
+: 1415 1 -2 A
+: 1419 3 2 round 
+: 1425 1 -2 the 
+: 1428 5 0 world 
+- 1435
+: 1447 2 0 Look 
+: 1452 3 2 who’s 
+: 1459 5 3 danc
+: 1468 7 2 ing 
+- 1477
+: 1486 3 0 Oh 
+: 1491 2 0 look 
+: 1496 2 -5 who’s 
+: 1501 5 -2 danc
+: 1511 5 0 ing 
+- 1518
+: 1528 2 0 Look 
+: 1533 3 2 who’s 
+: 1539 7 3 danc
+: 1550 1 2 ing
+: 1553 1 -2 ~ 
+: 1558 8 -2 now 
+- 1568
+: 1607 2 -2 And 
+: 1612 3 -2 some 
+: 1618 2 -2 are 
+: 1622 3 -2 danc
+: 1630 2 -2 ing 
+: 1640 3 0 on 
+: 1646 4 2 their 
+: 1654 1 0 feet
+: 1656 4 2 ~ 
+- 1662
+: 1670 2 -2 Some 
+: 1676 2 0 are 
+: 1682 3 2 jump
+: 1690 3 2 ing 
+: 1700 4 2 off 
+: 1707 3 2 the 
+* 1715 1 0 floor
+* 1717 2 2 ~
+* 1720 5 0 ~ 
+- 1727
+F 1747 1 0 Mm
+F 1749 4 2 ~ 
+- 1755
+: 1778 2 2 And 
+: 1782 2 2 look 
+: 1787 2 0 at 
+: 1792 3 -2 old 
+: 1800 3 0 Taut
+: 1806 3 2 er 
+: 1812 1 2 him
+: 1814 6 3 ~ 
+- 1822
+: 1830 2 2 She 
+: 1834 1 0 got 
+: 1837 1 -2 the, 
+: 1842 1 2 she 
+: 1845 2 0 caught 
+: 1849 1 -2 the, 
+: 1852 2 2 she 
+: 1856 2 0 knows 
+: 1860 1 -2 the 
+: 1863 4 2 groove 
+* 1870 1 0 for
+* 1872 2 2 ~ 
+: 1878 1 0 sure
+: 1880 1 2 ~
+: 1882 4 0 ~ 
+- 1888
+: 1930 2 0 Look 
+: 1935 4 2 who’s 
+: 1942 5 3 danc
+: 1952 6 2 ing 
+- 1960
+: 1970 2 0 Look 
+: 1975 4 2 who’s 
+: 1982 5 3 danc
+: 1991 6 2 ing 
+- 1999
+: 2010 3 0 Look 
+: 2016 2 2 who’s 
+: 2022 7 3 danc
+: 2033 2 2 ing
+: 2037 1 -2 ~ 
+: 2041 8 -2 now 
+- 2051
+: 2058 3 2 Right 
+: 2064 1 -2 a
+: 2066 5 0 long 
+- 2073
+: 2091 2 0 Look 
+: 2096 3 2 who’s 
+: 2103 5 3 danc
+: 2113 6 2 ing 
+- 2121
+: 2134 2 0 Check 
+: 2139 1 -5 the 
+: 2142 5 -2 danc
+: 2152 4 0 ing 
+- 2158
+: 2171 2 0 Look 
+: 2176 3 2 who’s 
+: 2182 7 3 danc
+: 2194 2 2 ing
+: 2198 1 -2 ~ 
+: 2202 8 -2 now 
+- 2212
+: 2220 1 -2 Get 
+: 2224 2 2 on 
+: 2229 1 -2 the 
+: 2234 6 0 floor 
+- 2242
+F 2257 5 7 Ska! 
+- 2264
+F 2291 2 5 Rhythm
+F 2294 2 7 ~ 
+F 2297 3 7 and 
+F 2302 5 10 Blues! 
+- 2309
+F 2330 1 2 And 
+F 2332 1 5 if 
+F 2335 1 7 you 
+F 2337 2 7 catch 
+F 2342 6 7 them 
+- 2350
+F 2367 1 2 Then 
+F 2370 1 2 you 
+F 2373 1 5 do 
+F 2375 1 7 the 
+F 2377 1 7 del
+F 2380 1 7 la 
+F 2382 2 7 move 
+- 2386
+F 2418 5 7 Ska! 
+- 2425
+F 2452 2 5 Rhythm
+F 2455 2 7 ~ 
+F 2458 3 7 and 
+F 2463 5 10 Blues! 
+- 2470
+F 2491 1 2 And 
+F 2493 1 5 if 
+F 2496 1 7 you 
+F 2498 2 7 catch 
+F 2503 6 7 them 
+- 2511
+F 2528 1 2 Then 
+F 2531 1 2 you 
+F 2534 1 5 do 
+F 2536 1 7 the 
+F 2538 1 7 del
+F 2541 1 7 la 
+F 2543 2 7 move 
+E

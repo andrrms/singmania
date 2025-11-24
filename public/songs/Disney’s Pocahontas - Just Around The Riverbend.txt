@@ -1,0 +1,321 @@
+#ARTIST:Disney’s Pocahontas
+#TITLE:Just Around The Riverbend
+#MP3:Disney’s Pocahontas - Just Around The Riverbend.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:1995
+#LANGUAGE:English
+#BPM:348.52
+#GAP:2970
+#VIDEO:v=Do5TwE_jYnE,co=pocahontas-686d1a7329359.jpg
+#END:136000
+: 0 5 4 What 
+: 6 2 7 I 
+: 10 3 4 love 
+: 15 3 2 most 
+: 19 2 2 a
+: 22 3 0 bout 
+: 27 2 -5 riv
+: 31 2 0 ers 
+: 35 6 2 is 
+- 43
+: 44 2 4 You 
+: 47 4 7 can’t 
+: 52 4 4 step 
+: 57 2 2 in 
+: 60 2 2 the 
+: 64 5 0 same 
+: 70 2 -5 riv
+: 73 3 0 er 
+: 78 13 2 twice 
+- 93
+: 104 6 4 The 
+: 111 3 7 wat
+: 115 4 4 er’s 
+: 120 3 2 al
+: 125 3 0 ways 
+: 130 6 -5 chan
+: 138 5 0 ging, 
+: 146 4 2 al
+: 152 7 0 ways 
+: 162 6 2 flow
+: 170 12 4 ing 
+- 184
+: 194 2 0 But 
+: 198 3 9 peo
+: 202 2 9 ple, 
+: 205 3 4 I 
+: 210 4 2 guess, 
+: 215 4 0 can’t 
+: 220 3 -5 live 
+: 225 2 0 like 
+: 229 5 2 that 
+- 236
+: 240 2 4 We 
+: 243 4 7 all 
+: 249 5 4 must 
+: 255 3 2 pay 
+: 260 3 0 a 
+: 265 10 2 price 
+- 277
+: 281 2 4 To 
+: 284 3 5 be 
+: 288 4 7 safe, 
+- 294
+: 295 2 7 We 
+: 298 4 7 lose 
+: 303 3 7 our 
+: 309 7 7 chance 
+: 318 3 0 of 
+: 323 2 0 e
+: 326 3 2 ver 
+: 330 4 2 know
+: 336 22 7 ing 
+- 360
+: 367 9 7 What’s 
+: 378 3 4 a
+: 382 8 7 round 
+: 391 2 4 the 
+: 394 2 7 ri
+: 397 3 9 ver 
+: 401 32 9 bend 
+- 435
+: 447 3 4 Wai
+: 451 4 5 ting 
+: 457 9 7 just 
+: 468 2 4 a
+: 471 11 7 round 
+: 484 3 4 the 
+: 488 2 7 ri
+: 491 4 9 ver 
+: 497 26 9 bend 
+- 525
+: 534 10 12 I 
+: 546 6 11 look 
+: 555 9 12 once 
+: 568 19 9 more 
+: 591 5 7 just 
+: 598 2 4 a
+: 601 6 4 round 
+: 608 3 2 the 
+: 612 2 4 ri
+: 616 2 7 ver 
+: 619 9 7 bend 
+- 630
+: 631 3 9 Be
+: 635 7 11 yond 
+: 644 3 12 the 
+: 650 18 9 shore 
+: 675 4 7 where 
+: 680 2 4 the 
+: 683 7 4 gulls 
+: 692 4 2 fly 
+: 699 12 4 free 
+- 713
+: 715 6 12 Don’t 
+: 723 6 11 know 
+: 730 6 12 what 
+: 738 19 9 for 
+- 759
+: 762 5 4 What 
+: 768 3 0 I 
+: 773 7 0 dream 
+: 781 3 -1 the 
+: 785 4 0 day 
+: 791 5 2 might 
+: 799 7 4 send 
+- 808
+: 811 5 5 Just 
+: 817 3 4 a
+: 821 7 5 round 
+: 829 3 4 the 
+: 833 3 5 ri
+: 837 3 7 ver 
+: 841 35 7 bend 
+: 890 10 2 for 
+: 901 44 4 me, 
+- 947
+* 960 9 9 Co
+* 971 13 8 ming 
+: 987 10 1 for 
+: 998 41 4 me 
+- 1041
+: 1068 5 4 I 
+: 1074 3 7 feel 
+: 1078 3 5 it 
+: 1083 5 4 there 
+: 1090 2 0 be
+: 1093 4 -1 yond 
+: 1099 5 0 those 
+: 1106 5 2 trees 
+- 1112
+: 1112 3 4 Or 
+: 1116 4 7 right 
+: 1122 2 4 be
+: 1125 5 2 hind 
+: 1132 4 0 these 
+: 1138 3 -5 wa
+: 1143 2 0 ter
+: 1147 15 2 falls 
+- 1164
+: 1179 4 4 Can 
+: 1184 3 7 I 
+: 1189 3 4 ig
+: 1194 5 2 nore 
+: 1200 4 0 that 
+: 1206 5 -5 sound 
+: 1212 5 0 of 
+: 1218 4 2 dis
+: 1224 5 0 tant 
+: 1232 5 2 drum
+: 1239 14 4 ming? 
+- 1255
+: 1262 2 0 For 
+: 1265 3 0 a 
+: 1269 4 9 hand
+: 1275 4 4 some 
+* 1281 3 2 stur
+* 1286 4 0 dy 
+: 1292 4 -5 hus
+: 1298 5 0 band 
+- 1304
+: 1305 3 2 Who 
+: 1310 3 4 builds 
+: 1315 4 7 hand
+: 1321 4 4 some 
+* 1329 3 2 stur
+* 1334 3 0 dy 
+: 1338 12 4 walls 
+- 1352
+: 1355 3 5 And 
+: 1359 2 7 never
+: 1362 2 7 ~ 
+: 1366 9 7 dreams 
+: 1376 3 7 that 
+: 1380 5 6 some
+: 1386 6 0 thing 
+- 1393
+: 1393 5 0 Might 
+: 1399 3 2 be 
+: 1403 7 2 co
+: 1411 30 7 ming? 
+- 1443
+: 1450 4 7 Just 
+: 1456 3 4 a
+: 1460 6 7 round 
+: 1467 3 4 the 
+: 1471 1 7 ri
+: 1473 4 9 ver 
+: 1478 35 9 bend 
+- 1515
+: 1534 7 7 Just 
+: 1542 4 4 a
+: 1547 10 7 round 
+: 1559 5 4 the 
+: 1565 3 7 ri
+: 1569 5 9 ver 
+: 1575 26 9 bend 
+- 1603
+: 1612 10 12 I 
+: 1623 8 11 look 
+: 1634 9 12 once 
+: 1646 18 9 more 
+: 1668 6 7 just 
+: 1676 2 4 a
+: 1679 6 4 round 
+: 1687 2 2 the 
+: 1691 2 4 ri
+: 1694 3 7 ver 
+: 1698 9 7 bend 
+- 1709
+* 1710 3 12 Be
+* 1714 5 11 yond 
+* 1721 3 12 the 
+* 1726 19 9 shore 
+: 1752 5 7 some
+: 1758 5 4 where 
+: 1765 6 4 past 
+: 1772 4 2 the 
+: 1778 12 4 sea 
+- 1792
+: 1795 6 12 Don’t 
+: 1802 5 11 know 
+: 1809 6 12 what 
+: 1817 20 9 for 
+- 1839
+: 1841 8 4 Why 
+: 1852 2 0 do 
+: 1855 4 0 all 
+: 1861 3 -1 my 
+: 1866 4 0 dreams 
+: 1872 4 2 ex
+: 1878 8 4 tend 
+- 1888
+: 1890 6 4 Just 
+: 1898 4 2 a
+: 1903 6 4 round 
+: 1910 3 2 the 
+: 1914 2 5 ri
+: 1917 2 7 ver 
+: 1921 45 7 bend, 
+- 1968
+: 1976 9 5 Just 
+: 1987 2 4 a
+: 1990 12 5 round 
+: 2003 5 4 the 
+: 2009 2 5 ri
+: 2012 6 7 ver 
+* 2019 18 9 bend 
+- 2039
+: 2116 6 -5 Should 
+: 2123 4 0 I 
+: 2130 7 0 choose 
+: 2140 4 -5 the 
+: 2147 6 0 smoo
+: 2154 4 -5 thest 
+: 2160 14 2 course 
+- 2176
+: 2200 4 4 Stea
+: 2205 5 2 dy 
+: 2211 8 0 as 
+: 2221 7 -5 the 
+: 2230 5 0 bea
+: 2236 6 -5 ting 
+: 2245 17 -3 drum? 
+- 2264
+: 2301 5 -5 Should 
+: 2307 6 0 I 
+: 2314 6 0 mar
+: 2322 8 -5 ry 
+: 2334 6 0 Ko
+: 2342 4 2 co
+: 2348 15 2 um? 
+- 2365
+: 2391 7 -5 Is 
+: 2399 13 4 all 
+: 2414 8 2 my 
+: 2424 7 0 drea
+: 2433 7 -5 ming 
+: 2447 17 0 at 
+: 2466 6 -5 an 
+: 2474 18 -3 end? 
+- 2494
+* 2543 22 12 Or 
+: 2567 10 11 do 
+: 2580 10 12 you 
+: 2596 29 9 still 
+: 2631 10 7 wait 
+: 2645 8 4 for 
+: 2657 23 4 me, 
+: 2682 12 2 dream 
+: 2696 8 4 gi
+: 2706 38 7 ver 
+- 2746
+: 2761 18 7 Just 
+: 2780 13 4 a
+: 2794 21 12 round 
+* 2816 20 16 the 
+* 2837 7 14 ri
+: 2845 57 12 ver 
+: 2921 166 12 bend? 
+E

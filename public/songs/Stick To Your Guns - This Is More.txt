@@ -1,0 +1,239 @@
+#ARTIST:Stick To Your Guns
+#TITLE:This Is More
+#MP3:Stick To Your Guns - This Is More.mp3
+#CREATOR:stani180
+#GENRE:Hardcore
+#YEAR:2008
+#LANGUAGE:English
+#BPM:360.15
+#GAP:8570
+#VIDEO:v=vLtqTb53ZEY,co=for-what-its-worth-5b098a84f0954.jpg,bg=stick-to-your-guns-55d7bb1b20442.jpg
+R 0 4 0 This 
+R 5 3 0 is 
+R 9 6 0 more 
+R 16 5 0 than 
+R 22 2 0 a 
+R 25 7 0 pulse 
+R 33 3 0 be
+R 37 5 0 neath 
+R 45 5 0 my 
+R 53 18 0 wrist 
+- 73
+R 83 3 0 Or 
+R 87 2 0 a 
+R 90 5 0 beat 
+R 98 2 0 be
+R 101 8 0 neath 
+R 112 3 0 my 
+R 119 21 0 ribs 
+- 142
+R 172 6 0 This 
+R 179 5 0 is 
+R 185 3 0 so
+R 189 7 0 me
+R 197 13 0 thing 
+R 213 5 0 THAT 
+R 219 6 0 CAN’T 
+R 226 6 0 BE 
+R 235 4 0 GI
+R 240 4 0 VEN 
+R 245 2 0 A
+R 248 20 0 WAY. 
+- 270
+R 271 3 0 Be
+R 275 3 0 cause 
+R 279 3 0 what’s 
+R 283 5 0 life 
+R 289 3 0 for 
+R 293 8 0 some 
+R 302 3 0 is 
+R 306 5 0 not 
+R 312 9 0 right 
+R 322 2 0 for 
+R 325 8 0 some 
+- 334
+R 335 2 0 But 
+R 338 2 0 ei
+R 341 2 0 ther 
+R 344 8 0 way 
+R 359 7 0 we 
+R 367 7 0 can 
+R 378 2 0 o
+R 381 6 0 ver
+R 388 18 0 come 
+- 408
+R 423 9 0 And 
+R 437 9 0 not 
+R 452 9 0 be 
+R 470 1 0 ki
+R 472 3 0 lled 
+R 476 3 0 by 
+R 480 5 0 our 
+R 486 7 0 own 
+R 494 4 0 mis
+R 499 38 0 takes 
+- 539
+R 646 11 0 We 
+R 658 14 0 can’t 
+R 673 15 0 let 
+R 693 25 0 this 
+R 719 17 0 be 
+R 755 11 0 our 
+R 767 18 0 death 
+- 787
+R 801 5 0 Be
+R 807 7 0 cause 
+R 815 4 0 our 
+R 820 3 0 dif
+R 824 3 0 fe
+R 828 17 0 rences 
+R 848 6 0 will 
+R 855 10 0 be 
+R 866 8 0 our 
+R 875 2 0 ex
+R 878 13 0 penses 
+R 892 4 0 too 
+R 897 3 0 re
+R 901 6 0 lieve 
+R 908 5 0 us 
+- 915
+R 916 3 0 And 
+R 920 1 0 a
+R 922 8 0 chieve 
+R 940 1 0 so
+R 942 2 0 me
+R 945 2 0 thing 
+R 948 6 0 for 
+R 955 6 0 us 
+R 962 2 0 to 
+R 965 4 0 be
+R 970 16 0 lieve 
+- 988
+R 992 5 0 We 
+R 998 4 0 have 
+R 1003 6 0 been 
+R 1010 4 0 put 
+R 1015 5 0 up 
+R 1021 4 0 on 
+R 1026 4 0 the 
+R 1031 14 0 shelf 
+- 1047
+R 1074 4 0 It 
+R 1079 4 0 is 
+R 1084 5 0 such 
+R 1090 2 0 a 
+R 1093 7 0 sad 
+R 1101 8 0 day 
+R 1110 5 0 when 
+R 1116 2 0 we 
+R 1119 5 0 need 
+R 1125 6 0 to 
+R 1132 5 0 save 
+R 1138 4 0 each 
+R 1143 3 0 o
+R 1147 6 0 ther 
+- 1155
+R 1156 3 0 From 
+R 1160 4 0 our
+R 1165 20 0 selves 
+- 1187
+R 1204 7 0 Rest 
+R 1212 4 0 as
+R 1217 4 0 su
+R 1222 10 0 red 
+R 1263 7 0 that 
+R 1271 5 0 with 
+R 1277 4 0 a 
+R 1282 7 0 heart 
+R 1290 10 0 that’s 
+R 1301 10 0 pure 
+- 1313
+R 1333 6 0 Well 
+R 1340 6 0 be 
+R 1347 7 0 vic
+R 1355 6 0 to
+R 1362 10 0 rio
+R 1373 7 0 us 
+R 1381 4 0 and 
+R 1386 4 0 not 
+- 1391
+R 1391 6 0 Let 
+R 1398 6 0 our 
+R 1405 8 0 hate 
+R 1414 5 0 get 
+R 1422 5 0 the 
+R 1430 4 0 best 
+R 1436 4 0 of 
+R 1443 11 0 us 
+- 1456
+R 1479 7 0 Rest 
+R 1487 4 0 as
+R 1492 4 0 su
+R 1497 10 0 red 
+R 1540 4 0 that 
+R 1545 5 0 with 
+R 1551 5 0 a 
+R 1557 8 0 heart 
+R 1566 8 0 that’s 
+R 1575 15 0 pure 
+- 1592
+R 1606 6 0 Well 
+R 1613 6 0 be 
+R 1620 7 0 vic
+R 1628 6 0 to
+R 1635 10 0 rio
+R 1646 6 0 us 
+R 1653 2 0 and 
+R 1656 8 0 not 
+- 1665
+R 1666 4 0 Let 
+R 1671 4 0 our 
+R 1676 9 0 hate 
+R 1686 6 0 get 
+R 1693 4 0 the 
+R 1698 7 0 best 
+R 1706 4 0 of 
+R 1711 13 0 us 
+- 1726
+R 1747 23 0 MOOOOVE! 
+- 1772
+R 1788 9 0 Rest 
+R 1798 7 0 as
+R 1806 31 0 su
+R 1838 7 0 red 
+R 1857 10 0 that 
+R 1868 7 0 with 
+R 1876 7 0 a 
+R 1884 9 0 heart 
+R 1894 9 0 that’s 
+R 1904 30 0 pure 
+- 1936
+R 1939 6 0 Well 
+R 1946 9 0 be 
+R 1956 7 0 vic
+R 1964 6 0 to
+R 1971 13 0 rio
+R 1985 5 0 us 
+R 1991 5 0 and 
+R 1997 7 0 not 
+- 2005
+R 2006 6 0 Let 
+R 2013 8 0 our 
+R 2022 7 0 hate 
+R 2031 7 0 get 
+R 2039 7 0 the 
+R 2047 6 0 best 
+R 2054 4 0 of 
+R 2059 13 0 us 
+- 2074
+R 2099 12 0 REST 
+R 2112 7 0 AS
+R 2120 44 0 SU
+R 2165 11 0 RED 
+- 2178
+R 2201 5 0 GET 
+R 2207 3 0 THE 
+R 2211 7 0 BEST 
+R 2219 4 0 OR 
+R 2224 12 0 US 
+E

@@ -1,0 +1,167 @@
+#ARTIST:Eagles
+#TITLE:Pretty Maids All In A Row
+#MP3:Eagles - Pretty Maids All In A Row.mp3
+#CREATOR:juliana
+#YEAR:1976
+#LANGUAGE:English
+#BPM:391.4
+#GAP:44760
+#VIDEO:a=2DNVT_epln0,co=https://i.discogs.com/UTC_JmMvuOrl_LymsZhhB5VVQpC3OFgtUDTR-MGWIo0/rs:fit/g:sm/q:90/h:528/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTIx/MTItMTM4MDM5NzY3/My01Mjk4LmpwZWc.jpeg,bg=eagles-4ddf6f74a6289.jpg
+#START:30.0
+: 0 14 3 Hi 
+: 16 30 3 there, 
+: 48 6 19 how 
+: 56 6 19 are 
+: 64 30 19 ya? 
+- 94
+: 96 6 19 It’s 
+: 104 6 19 been 
+: 112 6 19 a 
+: 120 38 22 long 
+: 160 30 22 time 
+- 190
+: 192 14 22 Seems 
+: 208 30 20 like 
+: 240 6 19 we’ve 
+: 248 22 19 come 
+: 272 6 19 a 
+: 280 6 19 long 
+: 288 32 19 way 
+- 346
+: 384 14 19 My, 
+: 400 14 22 but 
+: 416 14 19 we 
+: 432 14 19 learn 
+: 448 14 19 so 
+: 464 32 19 slow 
+- 522
+: 576 6 19 And 
+: 584 6 19 her
+: 592 14 20 oes 
+: 608 14 19 they 
+: 624 14 19 come 
+: 640 6 19 and 
+: 648 6 19 they 
+: 656 14 19 g
+: 672 32 19 o 
+- 730
+: 768 6 19 And 
+: 776 6 19 leave 
+: 784 6 20 us 
+: 792 22 19 be
+: 816 6 19 hind 
+- 822
+: 824 38 19 As 
+: 864 6 19 if 
+: 872 6 19 we’re 
+: 880 14 19 sup
+: 896 14 20 posed 
+: 912 6 20 to 
+: 920 32 20 know 
+- 958
+: 960 32 20 Why? 
+- 1044
+: 1296 14 20 Why 
+: 1312 14 19 do 
+: 1328 14 22 we 
+: 1344 14 22 give 
+: 1360 14 22 up 
+- 1374
+: 1376 14 19 Our 
+: 1392 14 19 hearts 
+: 1408 14 19 to 
+: 1424 14 19 the 
+: 1440 32 19 past? 
+- 1498
+: 1536 6 19 And 
+: 1544 6 19 why 
+: 1552 14 19 must 
+: 1568 14 19 we 
+: 1584 14 19 grow 
+: 1600 6 19 up 
+: 1608 22 19 so 
+: 1632 32 19 fast? 
+- 1716
+: 2160 14 19 And 
+: 2176 14 19 all 
+: 2192 14 22 you 
+: 2208 14 22 wish
+: 2224 14 22 ing 
+: 2240 14 19 well 
+: 2256 30 19 fools 
+- 2286
+: 2288 6 19 With 
+: 2296 6 19 your 
+: 2304 14 19 for
+: 2320 32 19 tunes, 
+- 2362
+: 2400 6 20 Some
+: 2408 6 20 one 
+: 2416 14 19 should 
+: 2432 22 19 send 
+: 2456 22 19 you 
+: 2480 14 19 a 
+: 2496 32 19 rose 
+- 2554
+: 2592 14 19 With 
+: 2608 6 19 love 
+: 2616 22 19 from 
+: 2640 6 19 a 
+: 2648 32 19 friend, 
+- 2686
+: 2688 6 19 It’s 
+: 2696 6 19 nice 
+: 2704 6 19 to 
+: 2712 6 20 hear 
+: 2720 6 20 from 
+: 2728 6 20 you 
+: 2736 6 20 a
+: 2744 6 20 gain 
+- 2750
+: 2752 14 20 And 
+: 2768 14 20 the 
+: 2784 14 20 sto
+: 2800 14 20 ry
+: 2816 14 19 book 
+: 2832 14 19 comes 
+: 2848 14 19 to 
+: 2864 14 19 a 
+: 2880 32 19 close 
+- 2938
+: 2976 14 19 Gone 
+: 2992 30 19 are 
+: 3024 6 19 the 
+: 3032 6 19 rib
+: 3040 14 19 bons 
+: 3056 14 19 and 
+: 3072 32 19 bows 
+- 3130
+: 3168 14 19 Things 
+: 3184 30 22 to 
+: 3216 6 19 re
+: 3224 6 19 mem
+: 3232 30 19 ber, 
+: 3264 6 19 pla
+: 3272 38 19 ces 
+: 3312 6 19 to 
+: 3320 32 19 go, 
+- 3358
+: 3360 14 19 Pret
+: 3376 14 19 ty 
+: 3392 14 19 maids 
+: 3408 14 19 all 
+: 3424 14 19 in 
+: 3440 14 19 a 
+: 3456 32 19 row 
+- 3514
+: 3552 30 19 Ooh 
+: 3584 14 19 ooh 
+: 3600 30 19 ooh 
+: 3632 32 19 ooh 
+- 3716
+: 3936 30 19 Ooh 
+: 3968 14 19 ooh 
+: 3984 30 19 ooh 
+: 4016 14 19 ooh
+: 4032 16 19 ~ 
+E

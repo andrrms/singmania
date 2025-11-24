@@ -1,0 +1,363 @@
+#ARTIST:My Little Pony
+#TITLE:My Little Pony Theme (Full)
+#MP3:My Little Pony - My Little Pony Theme (Full).mp3
+#CREATOR:Applejack
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2012
+#LANGUAGE:English
+#BPM:230
+#GAP:210
+#VIDEO:v=ZcBNxuKZyN4,co=https://i.scdn.co/image/ab67616d0000b2734c5dae56898ceea1c28aaeb6,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 3 6 My 
+: 4 2 9 Lit
+: 7 3 6 tle 
+: 12 5 4 Po
+: 18 7 9 ny, 
+: 30 2 2 My 
+: 33 2 4 Lit
+: 36 3 2 tle 
+: 40 5 1 Po
+: 46 7 -3 ny 
+- 55
+: 57 6 -1 What 
+: 64 2 2 is 
+: 68 8 1 friend
+: 77 8 4 ship 
+: 86 4 -3 all 
+: 92 3 -1 a
+: 97 10 -3 bout 
+- 109
+: 113 3 6 My 
+: 118 2 9 Lit
+: 121 4 6 tle 
+: 126 4 4 Po
+: 131 8 9 ny, 
+: 142 3 2 My 
+: 146 2 4 Lit
+: 149 3 2 tle 
+: 154 5 1 Po
+: 160 5 -3 ny 
+- 167
+: 170 5 -1 Friend
+: 176 6 1 ship 
+: 185 6 2 is 
+: 192 8 4 ma
+* 202 20 2 gic 
+- 224
+: 236 1 6 I 
+: 238 1 6 used 
+: 240 1 6 to 
+: 242 3 6 won
+: 246 1 2 der 
+: 248 3 4 what 
+: 252 3 2 friend
+: 256 5 6 ship 
+: 262 3 4 could 
+: 267 8 2 be 
+- 277
+: 296 1 2 Un
+: 298 2 4 til 
+: 301 1 6 you 
+: 303 2 9 all 
+: 306 4 9 shared 
+: 311 4 6 its 
+: 316 2 4 ma
+: 319 3 2 gic 
+: 323 3 6 with 
+: 327 6 4 me 
+- 335
+: 340 2 2 When 
+: 343 2 2 I 
+: 346 3 4 was 
+: 350 3 6 young 
+: 354 3 6 I 
+: 358 4 6 was 
+: 363 4 2 too 
+: 368 1 6 bu
+: 370 3 6 sy 
+: 374 4 6 to 
+: 380 2 9 make 
+: 383 2 9 a
+: 386 3 6 ny 
+: 390 4 4 frie
+: 395 7 2 nds 
+- 404
+: 405 3 2 Such 
+: 409 1 2 sil
+: 411 4 4 li
+: 416 4 6 ness 
+: 421 2 6 did 
+: 424 4 6 not 
+: 429 4 2 seem 
+: 434 4 4 worth 
+: 439 2 2 the 
+: 442 3 4 ef
+: 446 3 2 fort 
+: 450 3 4 it 
+: 454 4 6 ex
+: 459 7 2 pends 
+- 468
+: 472 1 2 But 
+: 474 1 2 my 
+: 476 3 4 Lit
+: 480 3 6 tle 
+: 484 3 4 Po
+: 488 7 2 nies, 
+: 498 2 2 you 
+: 501 2 6 o
+: 504 4 9 pened 
+: 509 3 9 up 
+: 513 3 6 my 
+: 517 14 9 eyes 
+- 533
+: 539 3 2 And 
+: 543 3 4 now 
+: 547 3 6 the 
+: 551 3 4 truth 
+: 555 2 2 is 
+: 558 3 6 cry
+: 562 2 2 stal 
+: 565 5 2 clear, 
+- 571
+: 571 2 9 As 
+: 574 4 9 splen
+: 579 3 6 did 
+: 583 3 11 sum
+: 587 2 9 mer 
+: 591 4 4 ski
+: 596 6 2 es 
+- 603
+: 604 1 4 And 
+: 606 2 4 it’s 
+: 609 4 4 such 
+: 614 3 4 a 
+: 618 2 4 won
+: 621 1 4 der
+: 623 4 6 ful 
+: 628 3 2 sur
+: 632 13 2 prise 
+- 647
+: 671 1 6 I 
+: 673 1 6 used 
+: 675 1 6 to 
+: 677 3 6 won
+: 681 1 2 der 
+: 683 3 4 what 
+: 687 3 2 friend
+: 691 4 6 ship 
+: 696 4 4 could 
+: 701 8 2 be 
+- 711
+: 731 1 2 Un
+: 733 1 4 til 
+: 735 2 6 you 
+: 738 1 9 all 
+: 740 5 9 shared 
+: 746 4 6 its 
+: 751 2 4 ma
+: 754 2 2 gic 
+: 757 3 6 with 
+: 762 6 4 me 
+- 770
+: 773 3 2 When 
+: 777 3 2 dan
+: 781 3 -1 ger 
+: 785 3 2 makes 
+: 789 2 6 me 
+: 793 2 9 wan
+: 796 3 7 na 
+: 800 5 6 hide 
+- 806
+: 806 3 6 You’ll 
+: 810 3 6 Rain
+: 814 3 6 bow 
+: 819 5 4 Dash 
+: 825 3 6 to 
+: 829 2 2 my 
+: 833 6 2 side 
+- 840
+: 841 2 2 Kind
+: 844 3 2 ness 
+: 848 3 -1 is 
+: 852 1 2 nev
+: 854 1 2 er 
+: 856 2 -1 in 
+: 859 2 2 short 
+: 862 3 4 sup
+: 866 6 6 ply, 
+- 873
+: 873 3 6 Once 
+: 877 1 6 smit
+: 879 3 6 ten 
+: 885 6 4 twice 
+: 892 1 6 Flu
+: 894 2 2 tter
+: 897 6 2 shy 
+- 905
+: 907 3 6 For 
+: 911 3 7 ho
+: 915 3 9 nes
+: 919 5 9 ty 
+: 926 4 6 no
+: 931 6 9 po
+: 938 3 6 ny 
+: 942 5 4 can 
+: 948 4 6 de
+: 953 10 2 ny 
+- 965
+: 974 3 7 You 
+: 978 3 7 are 
+: 983 2 7 the 
+: 986 5 6 Ap
+: 992 5 7 ple
+: 998 8 9 jack 
+: 1007 5 2 of 
+: 1014 5 6 my 
+: 1020 8 2 eyes 
+- 1030
+: 1035 1 2 A 
+: 1037 2 7 heart 
+: 1040 3 7 that 
+: 1044 4 7 shines 
+: 1049 4 7 so 
+: 1054 2 6 beaut
+: 1057 3 6 i
+: 1061 4 2 ful 
+- 1067
+: 1069 1 -1 A 
+: 1071 3 2 Ra
+: 1075 1 -1 ri
+: 1077 2 2 ty 
+: 1080 1 -1 to 
+: 1082 3 6 come 
+: 1086 8 4 by 
+- 1096
+: 1099 1 4 And 
+: 1101 1 6 you 
+: 1103 3 7 all 
+: 1107 3 7 make 
+: 1111 4 11 fun 
+: 1116 3 9 and 
+: 1120 4 9 laugh
+: 1125 5 6 ter 
+- 1132
+: 1135 1 6 As 
+: 1137 1 7 ea
+: 1139 1 7 sy 
+: 1141 2 7 as 
+: 1144 2 7 Pin
+: 1147 3 6 kie 
+* 1151 14 4 Pie 
+- 1167
+: 1206 1 6 I 
+: 1208 1 6 used 
+: 1210 1 6 to 
+: 1212 3 6 won
+: 1216 1 2 der 
+: 1218 3 4 what 
+: 1222 2 2 friend
+: 1225 5 6 ship 
+: 1231 4 4 could 
+: 1236 10 2 be 
+- 1248
+: 1266 1 2 Un
+: 1268 1 4 til 
+: 1270 2 6 you 
+: 1273 2 9 all 
+: 1276 4 9 shared 
+: 1281 3 6 its 
+: 1285 3 4 ma
+: 1289 2 2 gic 
+: 1292 4 6 with 
+: 1297 8 4 me 
+- 1307
+: 1311 2 6 Our 
+: 1314 3 6 friend
+: 1318 5 6 ship’s 
+: 1324 3 4 ma
+: 1328 7 2 gic 
+: 1338 1 2 and 
+: 1340 2 4 it’s 
+: 1343 2 6 grow
+: 1346 3 9 ing 
+: 1350 3 9 all 
+: 1354 3 6 the 
+: 1358 17 9 time 
+- 1377
+: 1383 3 6 A 
+: 1387 6 6 new 
+: 1394 3 6 ad
+: 1398 3 4 ven
+: 1402 2 4 ture 
+: 1405 5 6 waits 
+: 1411 4 2 for 
+: 1417 2 11 us 
+: 1420 3 9 each 
+: 1424 5 9 day 
+: 1430 2 6 is 
+: 1433 5 11 yours 
+: 1439 2 9 and 
+: 1443 8 9 mine 
+- 1453
+: 1458 2 7 We’ll 
+: 1461 2 7 make 
+: 1464 3 7 it 
+: 1468 3 7 spe
+: 1472 4 7 cial 
+: 1477 2 7 e
+: 1480 3 6 very 
+: 1484 5 4 time 
+- 1490
+: 1490 3 9 We’ll 
+: 1494 3 7 make 
+: 1498 2 6 it 
+: 1501 3 11 spe
+: 1505 3 9 cial 
+: 1509 2 9 e
+: 1512 2 6 very 
+: 1517 12 9 time 
+- 1531
+: 1557 1 6 What 
+: 1559 1 6 a 
+: 1561 1 6 won
+: 1563 1 2 der
+: 1565 1 2 ful 
+: 1567 3 4 won
+: 1571 3 2 der 
+: 1575 4 6 friend
+: 1580 5 4 ship 
+: 1586 12 2 brings 
+- 1600
+: 1615 1 2 Do 
+: 1617 1 4 you 
+: 1619 3 6 know 
+: 1623 3 2 you’re 
+: 1627 3 7 all 
+: 1631 2 6 my 
+: 1634 3 4 ve
+: 1638 3 2 ry 
+: 1642 7 6 best 
+: 1652 9 2 friends 
+- 1662
+: 1662 1 2 You’re 
+: 1664 3 6 my 
+: 1668 3 4 ve
+: 1672 3 2 ry 
+: 1676 7 6 best 
+: 1685 8 2 friends 
+- 1694
+: 1694 2 2 You’re 
+: 1697 3 6 my 
+: 1701 3 4 ve
+: 1705 3 2 ry 
+: 1709 7 1 best 
+: 1719 7 2 friends 
+- 1727
+: 1727 2 2 You’re 
+: 1730 3 6 my 
+: 1735 2 4 ve
+: 1738 4 2 ry 
+: 1743 6 6 best 
+* 1753 68 2 friends 
+E

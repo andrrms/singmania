@@ -1,0 +1,460 @@
+#ARTIST:Goombay Dance Band
+#TITLE:Sun Of Jamaica
+#MP3:Goombay Dance Band - Sun Of Jamaica.mp3
+#CREATOR:Fepo
+#COVER:Goombay Dance Band - Sun Of Jamaica [CO].jpg
+#BACKGROUND:Goombay Dance Band - Sun Of Jamaica [BG].jpg
+#GENRE:Pop
+#YEAR:1979
+#LANGUAGE:English
+#BPM:388
+#GAP:22220
+#VIDEO:v=P5OrPKTFBIY,co=sun-of-jamaica-571f2dd6a9d5c.jpg
+F 0 6 0 Long 
+F 8 5 0 time 
+F 16 2 0 a
+F 20 8 0 go, 
+F 32 2 0 when 
+F 36 2 0 I 
+F 40 2 0 was 
+F 44 2 0 a 
+F 48 4 0 young 
+F 54 5 0 boy 
+- 69
+F 88 4 0 I 
+F 94 3 0 saw 
+F 99 3 0 that 
+F 104 6 0 mo
+F 112 3 0 vie 
+F 118 4 0 “Mu
+F 124 2 0 ti
+F 128 3 0 ny 
+F 133 2 0 on 
+F 136 2 0 the 
+F 140 6 0 Boun
+F 148 5 0 ty” 
+- 164
+F 168 2 0 Star
+F 172 3 0 ring 
+F 177 5 0 my 
+F 184 3 0 i
+F 189 3 0 dol, 
+F 197 6 0 Mar
+F 205 3 0 lon 
+F 210 4 0 Bran
+F 216 4 0 do 
+- 230
+F 264 3 0 And 
+F 269 3 0 I 
+F 274 5 0 felt 
+F 281 2 0 a 
+F 285 4 0 year
+F 291 5 0 ning 
+F 300 3 0 for 
+F 304 3 0 that 
+F 312 5 0 great 
+F 323 4 0 ad
+F 329 6 0 ven
+F 337 7 0 ture 
+- 369
+F 399 3 0 So 
+F 404 2 0 ma
+F 407 2 0 ny 
+F 410 8 0 nights 
+F 420 2 0 I 
+F 424 3 0 woke 
+F 429 4 0 up 
+- 443
+F 459 2 0 Out 
+F 463 2 0 of 
+F 467 2 0 a 
+F 471 8 0 dream 
+- 489
+F 500 2 0 A 
+F 504 6 0 dream 
+F 512 2 0 of 
+F 516 8 0 blue 
+F 526 10 0 seas, 
+- 546
+F 560 7 0 White 
+F 569 9 0 sands 
+- 589
+F 593 2 0 Pa
+F 596 3 0 ra
+F 601 6 0 dise 
+F 610 11 0 birds, 
+F 631 3 0 but
+F 635 3 0 ter
+F 640 11 0 flies 
+- 661
+F 665 5 0 And 
+F 672 4 0 beau
+F 678 3 0 ti
+F 683 3 0 ful 
+F 690 10 0 warm 
+F 704 7 0 hear
+F 713 3 0 ted 
+F 718 11 0 girls 
+- 739
+: 747 14 -5 Sun 
+: 764 14 -5 of 
+* 782 9 -6 Ja
+* 795 15 -5 mai
+* 813 7 -5 ca, 
+: 831 9 -3 the 
+: 843 16 -1 dreams 
+: 862 11 -1 of 
+: 879 9 -3 Ma
+: 891 16 -1 lai
+: 910 7 -1 ka 
+- 925
+: 928 6 2 Our 
+: 937 14 4 love 
+: 957 10 4 is 
+: 973 7 2 my 
+: 985 13 -1 sweet 
+: 1005 13 -3 me
+: 1021 5 -5 mo
+: 1027 4 -3 ~
+: 1033 77 -3 ry 
+- 1120
+: 1128 17 -5 Sun 
+: 1149 12 -5 of 
+* 1165 8 -6 Ja
+* 1177 15 -5 mai
+* 1195 7 -5 ca, 
+: 1213 9 -3 Blue 
+: 1225 12 -1 La
+: 1240 12 -1 dy 
+: 1261 10 -3 Ma
+: 1273 16 -1 lai
+: 1291 11 -1 ka 
+- 1307
+: 1309 9 2 Some 
+: 1321 18 4 day 
+: 1342 11 4 I’ll 
+: 1356 10 2 re
+: 1369 15 -1 turn, 
+* 1389 15 -3 wait 
+: 1406 4 -3 a
+: 1411 4 -5 ~nd 
+: 1417 77 -3 see 
+- 1504
+: 1513 15 -6 Walk 
+: 1531 14 -6 in 
+: 1548 9 -5 the 
+* 1560 14 -3 sand 
+: 1581 11 -5 and 
+: 1597 9 -6 I’m 
+: 1609 14 -5 hap
+: 1626 13 -5 py 
+: 1642 10 -8 with 
+: 1655 39 -10 you 
+- 1701
+: 1704 14 -6 We 
+: 1721 13 -6 shall 
+: 1741 9 -5 be 
+* 1753 16 -3 lo
+: 1772 14 -1 ving 
+: 1789 8 0 and 
+: 1800 50 -1 true 
+- 1860
+: 1873 9 -1 Oh, 
+: 1885 8 2 I 
+: 1896 13 4 sure 
+: 1913 12 4 love 
+: 1932 9 2 Ma
+: 1944 14 -1 lai
+: 1961 9 -1 ka 
+: 1980 9 2 with 
+: 1993 16 4 all 
+: 2012 11 4 of 
+: 2028 8 2 my 
+: 2040 14 -1 heart 
+- 2064
+: 2068 6 -1 I 
+: 2077 8 2 will 
+: 2089 16 4 al
+: 2108 11 4 ways 
+: 2124 7 2 be 
+: 2134 14 -1 faith
+: 2152 15 -3 ful 
+: 2170 4 -5 a
+: 2175 3 -3 ~nd 
+: 2181 52 -3 true, 
+- 2243
+: 2257 9 0 Yea
+: 2268 6 -1 ~h, 
+: 2277 60 -3 true 
+- 2362
+F 2395 3 0 But 
+F 2401 6 0 now 
+F 2409 2 0 as 
+F 2412 2 0 I 
+F 2415 5 0 grew 
+F 2422 5 0 ol
+F 2429 5 0 der 
+- 2445
+F 2449 3 0 This 
+F 2454 5 0 bur
+F 2461 4 0 ning 
+F 2467 3 0 de
+F 2471 2 0 si
+F 2474 3 0 re 
+F 2479 2 0 be
+F 2483 7 0 came 
+F 2496 8 0 so 
+F 2508 8 0 strong 
+- 2527
+F 2531 3 0 That 
+F 2535 3 0 I 
+F 2539 6 0 bought 
+F 2547 7 0 me 
+F 2556 2 0 a 
+F 2560 2 0 ti
+F 2563 2 0 cket 
+F 2567 2 0 to 
+F 2570 4 0 fly 
+F 2577 3 0 o
+F 2581 3 0 ver 
+F 2585 6 0 there 
+- 2601
+F 2628 2 0 And 
+F 2632 4 0 then 
+F 2638 2 0 I 
+F 2642 2 0 found 
+F 2646 3 0 you 
+- 2659
+F 2684 2 0 I 
+F 2687 2 0 was 
+F 2692 2 0 found 
+F 2696 2 0 an 
+F 2700 2 0 e
+F 2704 2 0 ter
+F 2708 6 0 nal 
+F 2716 7 0 love 
+F 2729 5 0 right 
+F 2738 5 0 from 
+F 2745 3 0 be
+F 2750 2 0 gin
+F 2754 6 0 ning 
+- 2770
+F 2796 9 0 Stars 
+F 2809 3 0 fal
+F 2814 3 0 ling 
+F 2820 10 0 down 
+F 2832 3 0 from 
+F 2837 2 0 the 
+F 2841 4 0 slee
+F 2847 2 0 py 
+F 2851 2 0 la
+F 2855 7 0 goon 
+- 2872
+F 2891 6 0 Palms 
+F 2900 5 0 sway
+F 2907 3 0 ing 
+F 2912 2 0 un
+F 2916 2 0 der 
+F 2920 2 0 the 
+F 2924 6 0 moon 
+- 2940
+F 2953 3 0 And 
+F 2958 5 0 we 
+F 2965 2 0 swim
+F 2969 2 0 ming 
+F 2973 4 0 out 
+F 2980 3 0 in
+F 2985 2 0 to 
+F 2989 2 0 the 
+F 2995 10 0 calm, 
+F 3008 6 0 crys
+F 3017 6 0 tal 
+F 3025 5 0 sea 
+- 3040
+F 3060 2 0 In 
+F 3064 5 0 that 
+F 3071 5 0 fate
+F 3078 4 0 ful 
+F 3084 9 0 night, 
+- 3105
+F 3109 3 0 I 
+F 3114 4 0 thought 
+F 3120 2 0 to 
+F 3124 4 0 my
+F 3130 8 0 self 
+- 3148
+F 3162 3 0 I’ll 
+F 3167 3 0 do 
+F 3172 6 0 eve
+F 3180 3 0 ry
+F 3185 2 0 thing 
+F 3189 2 0 I 
+F 3194 8 0 can, 
+- 3212
+F 3227 3 0 Save 
+F 3232 3 0 all 
+F 3237 6 0 eve
+F 3245 3 0 ry 
+F 3250 6 0 dime 
+- 3266
+F 3280 3 0 And 
+F 3285 6 0 one 
+F 3293 6 0 day 
+- 3309
+F 3316 7 0 I’ll 
+F 3325 3 0 re
+F 3330 11 0 turn, 
+- 3351
+F 3359 4 0 Come 
+F 3365 5 0 back 
+F 3372 7 0 home 
+F 3381 3 0 to 
+F 3386 7 0 you 
+- 3404
+F 3408 2 0 And 
+F 3412 2 0 then 
+F 3416 6 0 I’ll 
+F 3427 9 0 stay 
+F 3442 6 0 for
+F 3450 3 0 e
+F 3455 5 0 ver 
+- 3470
+F 3487 3 0 For
+F 3492 3 0 e
+F 3497 6 0 ver 
+- 3513
+: 3526 14 -3 Sun 
+: 3543 14 -3 of 
+* 3561 9 -4 Ja
+* 3574 15 -3 mai
+* 3592 7 -3 ca, 
+: 3610 9 -1 the 
+: 3622 16 1 dreams 
+: 3641 11 1 of 
+: 3658 9 -1 Ma
+: 3670 16 1 lai
+: 3689 7 1 ka 
+- 3705
+: 3709 6 4 Our 
+: 3718 14 6 love 
+: 3738 10 6 is 
+: 3754 7 4 my 
+: 3766 13 1 sweet 
+: 3786 13 -1 me
+: 3802 5 -3 mo
+: 3808 4 -1 ~
+: 3814 77 -1 ry 
+- 3901
+: 3910 17 -3 Sun 
+: 3931 12 -3 of 
+* 3947 8 -4 Ja
+* 3959 15 -3 mai
+* 3977 7 -3 ca, 
+: 3995 9 -1 Blue 
+: 4007 12 1 La
+: 4022 12 1 dy 
+: 4043 10 -1 Ma
+: 4055 16 1 lai
+: 4073 11 1 ka 
+- 4088
+: 4090 9 4 Some 
+: 4102 18 6 day 
+: 4123 11 6 I’ll 
+: 4137 10 4 re
+: 4150 15 1 turn, 
+* 4170 15 -1 wait 
+: 4187 4 -1 a
+: 4192 4 -3 ~nd 
+: 4198 77 -1 see 
+- 4285
+: 4294 15 -4 Walk 
+: 4312 14 -4 in 
+: 4329 9 -3 the 
+* 4341 14 -1 sand 
+: 4362 11 -3 and 
+: 4378 9 -4 I’m 
+: 4390 14 -3 hap
+: 4407 13 -3 py 
+: 4423 10 -6 with 
+: 4436 39 -8 you 
+- 4484
+: 4487 14 -4 We 
+: 4504 13 -4 shall 
+: 4522 11 -3 be 
+* 4536 16 -1 lo
+: 4555 14 1 ving 
+: 4572 8 2 and 
+: 4583 50 1 true 
+- 4643
+: 4655 9 1 Oh, 
+: 4667 8 4 I 
+: 4678 13 6 sure 
+: 4695 12 6 love 
+: 4714 9 4 Ma
+: 4726 14 1 lai
+: 4743 9 1 ka 
+: 4762 9 4 with 
+: 4775 16 6 all 
+: 4794 11 6 of 
+: 4810 8 4 my 
+: 4822 14 1 heart 
+- 4846
+: 4850 6 1 I 
+: 4859 8 4 will 
+: 4871 16 6 al
+: 4890 11 6 ways 
+: 4906 7 4 be 
+: 4918 14 1 faith
+: 4938 15 -1 ful 
+: 4956 4 -3 a
+: 4961 3 -1 ~nd 
+: 4967 57 -1 true, 
+- 5034
+: 5038 8 2 Yea
+: 5049 11 1 ~h, 
+: 5063 60 -1 true 
+- 5133
+: 5159 14 -1 Sun 
+: 5176 14 -1 of 
+* 5194 9 -2 Ja
+* 5207 15 -1 mai
+* 5225 7 -1 ca, 
+: 5243 9 1 the 
+: 5255 16 3 dreams 
+: 5274 11 3 of 
+: 5291 9 1 Ma
+: 5303 16 3 lai
+: 5322 7 3 ka 
+- 5337
+: 5340 6 6 Our 
+: 5349 14 8 love 
+: 5369 10 8 is 
+: 5386 6 6 my 
+: 5397 13 3 sweet 
+: 5417 13 1 me
+: 5433 5 -1 mo
+: 5439 4 1 ~
+: 5445 77 1 ry 
+- 5532
+: 5539 17 -1 Sun 
+: 5560 12 -1 of 
+* 5576 8 -2 Ja
+* 5588 15 -1 mai
+* 5606 7 -1 ca, 
+: 5624 9 1 Blue 
+: 5636 12 3 La
+: 5651 12 3 dy 
+: 5672 10 1 Ma
+: 5684 16 3 lai
+: 5702 11 3 ka 
+- 5714
+: 5716 9 6 Some 
+: 5728 18 8 day 
+: 5749 11 8 I’ll 
+: 5763 10 6 re
+: 5776 15 3 turn, 
+* 5796 15 1 wait 
+: 5813 4 1 a
+: 5818 4 -1 ~nd 
+: 5824 77 1 see 
+E

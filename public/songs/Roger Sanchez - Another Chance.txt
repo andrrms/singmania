@@ -1,0 +1,190 @@
+#ARTIST:Roger Sanchez
+#TITLE:Another Chance
+#MP3:Roger Sanchez - Another Chance.mp3
+#CREATOR:taite83
+#GENRE:House
+#YEAR:2001
+#LANGUAGE:English
+#BPM:264
+#GAP:15080
+#VIDEO:v=6JwSUDY0IK8,co=another-chance-621986df4eb1e.jpg,bg=https://djmag.com/sites/default/files/article/image/Roger%20Sanchez2_0.jpg
+: 0 6 -1 If 
+: 7 5 -1 I 
+: 13 7 -1 had 
+: 24 4 -1 a
+: 29 10 -1 no
+: 40 3 -1 ther 
+: 44 11 1 chance 
+: 57 3 3 to
+: 61 20 -1 night 
+- 83
+: 139 4 -1 I’d 
+: 144 8 -1 try 
+: 156 3 -1 to 
+: 160 8 -1 tell 
+: 169 6 -1 you 
+- 176
+: 176 9 1 That 
+: 187 4 3 the 
+: 192 12 3 things 
+: 205 4 4 we 
+: 210 10 3 had 
+: 222 3 1 were 
+: 226 12 -1 right 
+- 240
+: 264 6 -1 If 
+: 271 5 -1 I 
+: 277 7 -1 had 
+: 288 4 -1 a
+: 293 10 -1 no
+: 304 3 -1 ther 
+: 308 11 1 chance 
+: 321 3 3 to
+: 325 20 -1 night 
+- 347
+: 403 4 -1 I’d 
+: 408 8 -1 try 
+: 420 3 -1 to 
+: 424 7 -1 tell 
+: 432 7 -1 you 
+- 441
+* 442 9 1 That 
+* 453 3 3 the 
+* 457 12 3 things 
+* 470 3 4 we 
+* 474 10 3 had 
+* 486 3 1 were 
+* 490 12 -1 right 
+- 504
+: 1056 6 -1 If 
+: 1063 5 -1 I 
+: 1069 7 -1 had 
+: 1080 4 -1 a
+: 1085 10 -1 no
+: 1096 3 -1 ther 
+: 1100 11 1 chance 
+: 1113 3 3 to
+: 1117 11 -1 night 
+- 1130
+: 1195 4 -1 I’d 
+: 1200 8 -1 try 
+: 1212 3 -1 to 
+: 1216 7 -1 tell 
+: 1224 7 -1 you 
+- 1233
+: 1235 9 1 That 
+: 1245 3 3 the 
+: 1249 11 3 things 
+: 1261 3 4 we 
+: 1265 10 3 had 
+: 1277 3 1 were 
+: 1281 11 -1 right 
+- 1294
+: 1320 6 -1 If 
+: 1327 5 -1 I 
+: 1333 7 -1 had 
+: 1344 4 -1 a
+: 1349 10 -1 no
+: 1360 3 -1 ther 
+: 1364 11 1 chance 
+: 1377 3 3 to
+: 1381 11 -1 night 
+- 1394
+: 1458 5 -1 I’d 
+: 1464 8 -1 try 
+: 1476 3 -1 to 
+: 1480 7 -1 tell 
+: 1488 7 -1 you 
+- 1497
+: 1498 9 1 That 
+: 1508 3 3 the 
+: 1512 13 3 things 
+: 1526 3 4 we 
+: 1530 10 3 had 
+: 1542 3 1 were 
+: 1546 11 -1 right 
+- 1559
+: 2376 6 -1 If 
+: 2383 3 -1 I 
+: 2387 7 -1 had 
+: 2398 4 -1 a
+: 2403 10 -1 no
+: 2414 3 -1 ther 
+: 2418 11 1 chance 
+: 2431 3 3 to
+: 2435 11 -1 night 
+- 2448
+: 2513 5 -1 I’d 
+: 2519 8 -1 try 
+: 2531 3 -1 to 
+: 2535 7 -1 tell 
+: 2543 7 -1 you 
+- 2551
+* 2551 10 1 That 
+* 2562 4 3 the 
+* 2567 12 3 things 
+* 2580 3 4 we 
+* 2584 10 3 had 
+* 2596 3 1 were 
+* 2600 11 -1 right 
+- 2613
+: 3034 6 -1 If 
+: 3041 5 -1 I 
+: 3047 7 -1 had 
+: 3058 4 -1 a
+: 3063 10 -1 no
+: 3074 3 -1 ther 
+: 3078 11 1 chance 
+: 3090 3 3 to
+: 3094 9 -1 night 
+- 3105
+: 3165 7 -1 If 
+: 3173 4 -1 I 
+: 3178 7 -1 had 
+: 3189 4 -1 a
+: 3194 10 -1 no
+: 3205 4 -1 ther 
+: 3210 11 1 chance 
+: 3222 3 3 to
+: 3226 10 -1 night 
+- 3238
+: 3297 7 -1 If 
+: 3305 4 -1 I 
+: 3310 7 -1 had 
+: 3321 4 -1 a
+: 3326 10 -1 no
+: 3337 3 -1 ther 
+: 3341 11 1 chance 
+: 3354 3 3 to
+: 3358 10 -1 night 
+- 3370
+: 3429 7 -1 If 
+: 3437 5 -1 I 
+: 3443 7 -1 had 
+: 3454 4 -1 a
+: 3459 10 -1 no
+: 3470 3 -1 ther 
+: 3474 11 1 chance 
+: 3486 3 3 to
+: 3490 10 -1 night 
+- 3502
+: 3562 7 -1 If 
+: 3570 4 -1 I 
+: 3575 7 -1 had 
+: 3586 4 -1 a
+: 3591 10 -1 no
+: 3602 3 -1 ther 
+: 3606 11 1 chance 
+: 3618 3 3 to
+: 3622 10 -1 night 
+- 3634
+: 3695 5 -1 If 
+: 3701 4 -1 I 
+: 3706 7 -1 had 
+: 3717 4 -1 a
+: 3722 10 -1 no
+: 3733 3 -1 ther 
+: 3737 11 1 chance 
+: 3750 3 3 to
+* 3754 16 -1 night 
+E

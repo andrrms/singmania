@@ -1,0 +1,286 @@
+#ARTIST:Beastie Boys
+#TITLE:Girls
+#MP3:Beastie Boys - Girls.mp3
+#CREATOR:hamadad
+#GENRE:Rock-Pop
+#YEAR:1986
+#LANGUAGE:English
+#BPM:282
+#GAP:8260
+#VIDEO:a=4gRZrMcOKIc,co=https://m.media-amazon.com/images/I/61gtWwL4WAL.jpg,co-crop=5-5-492-492,bg=beastie-boys-505ae6d9d0823.jpg
+: 0 8 5 Girls 
+- 10
+: 40 3 5 All 
+: 44 3 7 I 
+: 48 3 9 real
+: 52 3 7 ly 
+: 56 3 5 want 
+: 60 3 4 is 
+: 64 8 5 girls 
+- 74
+: 100 3 5 And 
+: 104 3 5 in 
+: 108 3 7 the 
+: 112 3 9 mor
+: 116 3 7 ning 
+: 120 7 5 it’s 
+: 128 8 5 girls 
+- 138
+: 164 3 5 ’Cause 
+: 168 3 5 in 
+: 172 3 7 the 
+: 176 3 9 eve
+: 180 3 7 ning 
+: 184 7 5 it’s 
+: 192 11 5 girls 
+- 205
+: 230 3 0 I 
+: 234 3 2 like 
+: 238 3 0 the 
+: 242 3 2 way 
+: 246 3 0 that 
+: 250 7 2 they 
+: 258 10 5 walk 
+- 270
+: 298 3 5 And 
+: 302 3 7 it’s 
+: 306 3 9 chill 
+: 310 3 7 to 
+: 314 3 5 hear 
+: 318 3 4 them 
+: 322 10 5 talk 
+- 334
+: 359 3 5 And 
+: 363 3 5 I 
+: 367 3 7 can 
+: 371 3 9 al
+: 375 3 7 ways 
+: 379 3 5 make 
+: 383 3 4 them 
+: 387 8 5 smile 
+- 397
+: 428 3 5 From 
+: 432 3 7 White 
+: 436 3 9 Cas
+: 440 3 7 tle 
+: 444 3 5 to 
+: 448 3 4 the 
+: 452 8 5 Nile 
+- 462
+: 499 3 0 Back 
+: 503 7 2 in 
+: 511 7 0 the 
+: 519 8 5 day 
+- 529
+: 555 3 5 There 
+: 559 3 5 was 
+: 563 3 7 this 
+: 567 3 9 girl 
+: 571 3 7 a
+: 575 3 5 round 
+: 579 3 4 the 
+: 583 8 5 way 
+- 593
+: 619 3 5 She 
+: 623 3 5 liked 
+: 627 3 7 my 
+: 631 3 9 home
+: 635 3 7 piece 
+: 639 3 5 M.
+: 643 3 4 C.
+: 647 8 5 A. 
+- 657
+: 684 3 5 He 
+: 688 3 5 said 
+: 692 3 7 he 
+: 696 3 9 would 
+: 700 3 7 not 
+: 704 3 5 give 
+: 708 3 4 her 
+: 712 8 5 play 
+- 722
+: 750 3 5 I 
+: 754 3 5 asked 
+: 758 3 7 him, 
+: 762 3 9 “Please?” 
+: 766 3 7 He 
+: 770 3 5 said, 
+: 774 3 4 “You 
+: 778 8 5 may.” 
+- 788
+: 814 3 5 Her 
+: 818 3 5 pants 
+: 822 3 7 were 
+: 826 3 9 tight 
+: 830 3 7 and 
+: 834 3 5 that’s 
+: 838 3 4 o
+: 842 8 5 kay 
+- 852
+: 878 3 5 If 
+: 882 3 5 she 
+: 886 3 7 would 
+: 890 3 9 dance 
+: 894 3 7 I 
+: 898 3 5 would 
+: 902 3 4 D
+: 906 8 5 J 
+- 916
+: 942 3 5 We 
+: 946 3 5 took 
+: 950 3 7 a 
+: 954 3 9 walk 
+: 958 3 7 down 
+: 962 3 5 to 
+: 966 3 4 the 
+: 970 8 5 bay 
+- 980
+: 1020 3 0 I 
+: 1024 5 2 hope 
+: 1030 7 0 she’ll 
+: 1038 10 5 say 
+- 1050
+: 1076 3 5 “Hey 
+: 1080 3 5 me 
+: 1084 3 7 and 
+: 1088 3 9 you 
+: 1092 3 7 should 
+: 1096 3 5 hit 
+: 1100 3 4 the 
+: 1104 8 5 hay!” 
+- 1114
+: 1141 3 5 I 
+: 1145 3 5 asked 
+: 1149 3 7 her 
+: 1153 3 9 out 
+: 1157 3 7 she 
+: 1161 3 5 said, 
+: 1165 3 4 “No 
+: 1169 8 5 way!” 
+- 1179
+: 1205 3 5 I 
+: 1209 3 5 should 
+: 1213 3 7 have 
+: 1217 3 9 proba
+: 1221 3 7 bly 
+: 1225 3 5 guessed 
+: 1229 3 4 her 
+: 1233 8 5 gay 
+- 1243
+: 1270 3 5 So 
+: 1274 3 5 I 
+: 1278 3 7 broke 
+: 1282 3 9 North 
+: 1286 3 7 with 
+: 1290 3 5 no 
+: 1294 3 4 de
+: 1298 8 5 lay 
+- 1308
+: 1334 3 5 I 
+: 1338 3 5 heard 
+: 1342 3 7 she 
+: 1346 3 9 moved 
+: 1350 3 7 real 
+: 1354 3 5 far 
+: 1358 3 4 a
+: 1362 8 5 way 
+- 1372
+: 1399 3 5 That 
+: 1403 3 5 was 
+: 1407 3 7 two 
+: 1411 3 9 years 
+: 1415 3 7 a
+: 1419 3 5 go 
+: 1423 3 4 this 
+: 1427 8 5 May 
+- 1437
+: 1464 3 5 I 
+: 1468 3 5 seen 
+: 1472 3 7 her 
+: 1476 3 9 just 
+: 1480 3 7 the 
+: 1484 3 5 o
+: 1488 3 4 ther 
+: 1492 8 5 day 
+- 1502
+F 1520 3 5 Joc
+F 1524 3 5 kin’ 
+F 1528 7 3 Mike 
+F 1536 7 1 D. 
+F 1544 7 -2 to 
+F 1552 7 -3 my 
+F 1560 7 -1 dis
+F 1568 8 1 may 
+- 1578
+: 1736 3 9 To 
+: 1740 3 7 do 
+: 1744 3 5 the 
+: 1748 7 5 di
+: 1756 8 7 shes 
+- 1766
+: 1769 3 9 To 
+: 1773 3 7 clean 
+: 1777 3 5 up 
+: 1781 7 5 my 
+: 1789 8 7 room 
+- 1799
+: 1801 3 9 To 
+: 1805 3 7 do 
+: 1809 3 5 the 
+: 1813 7 5 laun
+: 1821 8 7 dry 
+- 1831
+: 1833 3 9 And 
+: 1837 3 7 in 
+: 1841 3 5 the 
+: 1845 7 5 bath
+: 1853 7 7 room 
+- 1861
+: 1861 8 5 Girls 
+- 1871
+: 1897 3 5 That’s 
+: 1901 3 5 all 
+: 1905 3 7 I 
+: 1909 3 9 real
+: 1913 3 7 ly 
+: 1917 3 5 want 
+: 1921 3 4 is 
+: 1925 8 5 girls 
+- 1935
+: 1962 3 5 Two 
+: 1966 3 5 at 
+: 1970 3 7 a 
+: 1974 3 9 time 
+: 1978 3 7 I 
+: 1982 7 5 want 
+: 1990 8 5 girls 
+- 2000
+: 2027 3 5 With 
+: 2031 3 5 new 
+: 2035 3 7 wave 
+: 2039 3 9 hair
+: 2043 3 7 dos 
+: 2047 3 5 I 
+: 2051 3 4 want 
+: 2055 8 5 girls 
+- 2065
+: 2092 3 5 I 
+: 2096 3 5 ought 
+: 2100 3 7 to 
+: 2104 3 9 whip 
+: 2108 3 7 out 
+: 2112 7 5 my 
+- 2120
+: 2120 8 5 Girls, 
+: 2136 8 5 girls, 
+: 2152 8 5 girls, 
+: 2168 8 5 girls, 
+: 2184 8 5 girls 
+- 2194
+: 2200 8 5 Girls, 
+: 2224 8 5 girls, 
+: 2240 7 5 girls, 
+: 2248 56 5 girls 
+- 2306
+: 2313 11 5 Girls! 
+E

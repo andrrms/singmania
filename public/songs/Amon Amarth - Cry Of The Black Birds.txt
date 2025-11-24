@@ -1,0 +1,269 @@
+#ARTIST:Amon Amarth
+#TITLE:Cry Of The Black Birds
+#MP3:Amon Amarth - Cry Of The Black Birds.mp3
+#CREATOR:megaclite
+#YEAR:2006
+#LANGUAGE:English
+#BPM:200
+#GAP:36200
+#VIDEO:v=DrzzbVd-lTA,co=with-oden-on-our-side-51cac5769973c.jpg,bg=amon-amarth-539554655ad0d.jpg,preview=69.34,medley=442-1026
+: 0 5 7 Raise
+: 6 4 6  your
+: 12 5 4  swords
+: 18 5 4  up
+: 24 9 16  high.
+- 34
+: 36 5 7 See
+: 42 5 6  the
+: 48 7 7  black
+: 56 7 7  birds
+: 64 5 16  fly.
+- 70
+: 72 7 14 Let
+: 80 5 14  them
+: 86 5 14  hear
+: 92 5 12  your
+: 98 9 14  rage.
+- 108
+: 110 7 14 Show
+: 118 5 14  no
+: 124 7 14  fear.
+- 132
+: 134 7 11 At
+: 142 32 16 tack!
+- 200
+: 442 5 7 Charge
+: 448 5 6  your
+: 454 5 4  hor
+: 461 5 4 ses
+: 468 3 7  a
+: 472 5 7 cross
+: 478 2 6  the
+: 481 12 2  fields.
+- 504
+: 508 1 6 To
+: 510 1 7 get
+: 512 1 7 her
+: 514 2 7  we
+: 517 11 7  ride
+: 536 3 7  in
+: 541 4 7 to
+: 547 3 7  des
+: 551 2 6 ti
+: 554 14 4 ny
+- 578
+: 588 5 7 Have
+: 595 4 6  no
+: 602 2 4  fear
+: 605 3 4  of
+: 609 6 4  death
+- 617
+: 619 2 7 When
+: 622 1 7  it’s
+: 624 3 6  your
+: 628 12 9  time.
+- 652
+: 656 3 9 O
+: 660 1 9 din
+: 662 1 9  will
+: 664 5 9  bring
+: 670 3 7  us
+: 674 12 4  home
+- 690
+: 692 5 4 When
+: 698 3 4  we
+: 702 12 9  die.
+- 724
+: 728 3 4 The
+: 732 5 9  ground
+: 738 3 9  trem
+: 742 4 7 bles
+: 750 1 9  un
+: 752 3 9 der
+: 756 5 9  us
+- 762
+: 764 1 7 As
+: 766 1 6  we
+: 768 3 7  make
+: 772 3 7  our
+: 776 1 7  thun
+: 778 5 6 der
+: 784 14 9  charge.
+- 801
+: 803 1 6 The
+: 805 2 7  poun
+: 808 2 6 ding
+: 812 4 9  hooves
+- 816
+: 818 3 6 Strikes
+: 822 2 7  blin
+: 825 3 6 ding
+: 830 4 9  fear
+- 840
+: 842 1 12 In
+: 844 1 12 to
+: 846 1 11  their
+: 848 14 12  hearts.
+- 872
+: 876 1 2 Our
+: 878 1 4  hel
+: 880 3 4 mets
+: 884 6 4  shine
+- 894
+: 896 1 4 In
+: 898 4 4  the
+: 904 4 4  sun
+- 908
+: 910 1 7 As
+: 912 1 7  we
+: 914 3 7  near
+: 918 3 7  their
+: 922 5 7  wall
+: 928 1 6  of
+: 930 12 9  shields.
+- 949
+: 952 2 12 Some
+: 955 3 12  of
+: 959 4 12  them
+- 968
+: 970 2 12 Turn
+: 973 3 12  and
+: 977 4 12  run
+- 982
+: 984 2 12 When
+: 987 1 12  they
+: 989 3 12  hear
+: 994 3 12  our
+: 998 2 12  frenz
+: 1001 3 11 ied
+: 1006 11 14  screa
+: 1018 8 11 ~ms.
+- 1052
+: 1214 5 7 Draw
+: 1220 5 6  your
+: 1226 7 4  swords
+: 1234 5 4  to
+: 1240 7 16  strike.
+- 1248
+: 1250 5 7 Hear
+: 1256 5 6  the
+: 1262 7 4  black
+: 1270 5 4  birds
+: 1276 6 16  cry.
+- 1284
+: 1286 6 14 Let
+: 1294 4 14  them
+: 1300 6 14  feel
+: 1308 5 12  your
+: 1314 5 14  hate.
+- 1320
+: 1322 7 12 Show
+: 1330 5 12  no
+: 1336 10 12  fear.
+- 1372
+: 1950 5 7 Charge
+: 1956 5 6  your
+: 1962 5 4  hor
+: 1969 5 4 ses
+: 1976 3 7  a
+: 1980 5 7 cross
+: 1986 2 6  the
+: 1989 12 2  fields.
+- 2012
+: 2016 1 6 To
+: 2018 1 7 get
+: 2020 1 7 her
+: 2022 2 7  we
+: 2025 11 7  ride
+: 2044 3 7  in
+: 2049 4 7 to
+: 2055 3 7  des
+: 2059 2 6 ti
+: 2062 14 4 ny
+- 2086
+: 2096 5 7 Have
+: 2103 4 6  no
+: 2110 2 4  fear
+: 2113 3 4  of
+: 2117 6 4  death
+- 2125
+: 2127 2 7 When
+: 2130 1 7  it’s
+: 2132 3 6  your
+: 2136 12 9  time.
+- 2160
+: 2164 3 9 O
+: 2168 1 9 din
+: 2170 1 9  will
+: 2172 5 9  bring
+: 2178 3 7  us
+: 2182 12 4  home
+- 2198
+: 2200 5 4 When
+: 2206 3 4  we
+: 2210 12 9  die.
+- 2232
+: 2236 3 2 The
+: 2240 1 4  e
+: 2242 1 4 ne
+: 2244 1 4 my
+: 2246 4 4  are
+: 2252 3 2  in
+: 2256 3 4  dis
+: 2260 3 4 ar
+: 2264 5 4 ray
+- 2269
+: 2270 3 6 Ride
+: 2274 1 7  them
+: 2276 6 7  down
+: 2284 3 7  as
+: 2288 3 6  they
+: 2292 4 9  run.
+- 2306
+: 2310 3 9 Send
+: 2314 5 9  them
+: 2320 4 9  to
+: 2326 3 9  their
+: 2330 3 9  vio
+: 2334 3 9 lent
+: 2338 6 9  graves,
+- 2348
+: 2350 3 9 Don’t
+: 2354 3 9  spare
+: 2358 2 9  a
+: 2361 4 7 ny
+: 2366 8 9 one.
+- 2383
+: 2386 3 4 Dead
+: 2390 3 4  and
+: 2394 3 4  woun
+: 2398 3 4 ded
+: 2402 2 2  lie
+: 2405 2 4  all
+: 2408 3 2  a
+: 2412 3 4 round
+- 2416
+: 2418 3 7 See
+: 2422 1 7  the
+: 2424 5 7  pain
+: 2430 3 7  in
+: 2434 3 6  their
+: 2438 11 9  eyes.
+- 2457
+: 2460 1 7 O
+: 2462 1 7 ver
+: 2464 2 6  the
+: 2467 4 9  field
+: 2474 3 9  an
+: 2478 2 9  ee
+: 2481 2 9 rie
+: 2485 4 9  sound,
+- 2490
+: 2492 1 12 As
+: 2494 1 12  we
+: 2496 3 12  hear
+: 2500 3 12  the
+: 2504 2 12  ra
+: 2507 3 11 vens
+: 2514 10 12  cry.
+E

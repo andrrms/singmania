@@ -1,0 +1,167 @@
+#ARTIST:Pinball
+#TITLE:I Try (Rocketeer vs. Lagoon Edit)
+#MP3:Pinball - I Try (Rocketeer vs. Lagoon Edit).mp3
+#CREATOR:taite83
+#GENRE:Electronic
+#LANGUAGE:English
+#BPM:280
+#GAP:5660
+#VIDEO:v=Rl4ewiDJhuM,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d8/62/2e/d8622e0d-8710-fa7a-a710-e31e9e593549/cover.jpg/5000x5000bb.jpg
+: 0 5 3 Here 
+: 6 5 3 I 
+: 12 8 3 am 
+: 23 3 1 so 
+: 27 11 1 lost 
+: 39 3 -1 in 
+: 43 10 -1 time 
+- 55
+: 64 6 3 Like 
+: 71 2 3 a 
+: 75 7 3 flo
+: 83 6 1 ver 
+: 91 3 1 to 
+: 95 6 3 be 
+: 103 3 4 in
+: 107 6 6 vol
+: 114 6 -1 ved 
+- 122
+: 124 3 -1 I 
+: 128 7 3 re
+: 136 3 3 a
+: 140 9 3 lise 
+: 150 4 1 what’s 
+: 155 10 1 left 
+: 167 4 -1 be
+: 172 10 -1 hind 
+- 184
+: 192 6 4 Like 
+: 199 3 4 a 
+: 203 7 4 sto
+: 211 6 3 ry 
+: 219 7 3 ’bout 
+: 227 6 1 I’m 
+: 235 8 1 told
+: 244 4 3 ing 
+- 250
+: 251 3 3 E
+: 255 7 3 le
+: 263 3 3 ven 
+: 268 10 3 days 
+: 279 4 1 that 
+: 284 7 1 I 
+: 292 6 -1 have 
+: 299 7 -1 count
+: 307 4 -4 ed 
+- 313
+: 319 6 4 Who
+: 326 4 4 ~ 
+: 331 11 4 knows 
+: 343 4 3 how 
+: 348 10 3 much 
+: 359 3 1 to 
+: 363 7 1 count
+: 371 5 3 ~ 
+- 378
+: 380 2 -4 I 
+: 383 7 3 thought 
+: 391 4 3 that 
+: 396 10 3 you 
+: 407 4 1 and 
+: 412 8 1 I 
+: 422 5 -1 were 
+: 428 7 -1 bound
+: 436 5 -4 ed 
+- 443
+: 447 7 -4 Like 
+: 455 4 -1 the 
+: 460 9 3 earth 
+: 470 3 1 the 
+: 474 8 1 moon 
+: 483 5 -1 and 
+: 491 12 -1 sun 
+- 505
+: 1577 5 -6 I 
+: 1583 32 6 try 
+- 1617
+: 1632 6 3 E
+: 1639 4 4 ven 
+: 1644 9 6 though 
+: 1655 6 4 that 
+: 1663 7 4 we’re 
+: 1671 3 3 a
+: 1675 8 -1 part
+: 1684 8 1 ~ 
+- 1694
+: 1705 5 -6 I 
+: 1711 7 6 cry
+: 1719 18 4 ~ 
+- 1739
+: 1744 10 6 My 
+: 1755 8 4 heart 
+: 1764 6 3 is 
+: 1772 6 -1 ta
+: 1779 12 1 ken 
+- 1793
+: 1833 5 -1 I 
+: 1839 32 11 try 
+- 1873
+: 1889 6 8 E
+: 1896 4 10 ven 
+: 1901 9 11 though 
+: 1912 7 10 that 
+: 1921 7 8 we’re 
+: 1929 3 6 a
+: 1933 10 3 part 
+- 1945
+: 1961 6 -1 I 
+: 1968 7 11 cry
+: 1976 18 10 ~ 
+- 1996
+: 2001 10 11 My 
+: 2012 8 10 heart 
+: 2021 6 8 is 
+: 2029 5 6 ta
+: 2035 12 8 ken 
+- 2049
+: 2089 5 -1 I 
+: 2095 32 11 try 
+- 2129
+: 2145 5 8 E
+: 2151 4 10 ven 
+: 2156 10 11 though 
+: 2167 7 10 that 
+: 2176 7 8 we’re 
+: 2184 3 6 a
+: 2188 10 1 part 
+- 2200
+: 2217 6 -1 I 
+: 2224 7 11 cry
+: 2232 18 10 ~ 
+- 2252
+: 2256 9 11 My 
+: 2267 8 10 heart 
+: 2276 7 8 is 
+: 2284 6 6 ta
+: 2291 10 8 ken 
+- 2303
+: 2344 6 -1 I 
+: 2351 32 11 try 
+- 2385
+: 2399 6 8 To 
+: 2407 4 10 move 
+: 2412 10 11 on 
+: 2423 7 10 all
+: 2431 7 8 though 
+: 2439 4 6 it’s 
+: 2444 10 1 hard 
+- 2456
+: 2472 6 -1 I 
+: 2479 7 11 cry
+: 2487 18 10 ~ 
+- 2507
+: 2512 10 11 My 
+: 2524 8 10 love 
+: 2533 7 8 is 
+: 2541 6 6 ta
+: 2548 10 8 ken 
+E

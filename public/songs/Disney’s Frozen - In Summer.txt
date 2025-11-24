@@ -1,0 +1,297 @@
+#ARTIST:Disney’s Frozen
+#TITLE:In Summer
+#MP3:Disney’s Frozen - In Summer.mp3
+#CREATOR:Rumpelrumpel
+#GENRE:Soundtrack
+#YEAR:2013
+#LANGUAGE:English
+#BPM:322.95
+#GAP:5110
+#VIDEO:v=rnEB2F_v_cE,co=frozen-677ade05749ed.jpg,bg=frozen-55cb7d70d9a6e.jpg
+#END:125000
+F 0 7 7 Ohh 
+F 9 4 4 I 
+F 14 4 5 don’t 
+F 19 4 6 know 
+F 24 5 4 why 
+F 30 2 3 but 
+F 33 3 6 I 
+F 37 12 4 always 
+F 55 10 7 love 
+- 67
+F 69 3 6 The 
+F 74 10 6 idea 
+F 88 4 6 of 
+F 96 16 6 summer 
+F 115 8 7 and 
+F 125 24 8 sun, 
+F 150 4 6 and 
+F 157 3 8 all 
+F 161 5 8 things 
+F 168 14 8 hot 
+- 184
+F 186 19 13 Really? 
+- 207
+F 209 4 13 I’m 
+F 214 3 13 guessing 
+F 218 2 13 you 
+F 221 2 13 don’t 
+F 224 2 13 have 
+F 227 2 13 much 
+F 230 9 13 experience 
+F 241 4 13 with 
+F 246 6 13 heat 
+- 254
+: 266 12 0 Nope! 
+: 296 5 -7 But 
+: 302 10 -1 sometimes 
+: 314 4 0 I 
+: 319 4 -5 like 
+: 324 5 -6 to 
+: 331 5 -4 close 
+: 338 3 -2 my 
+: 342 11 -7 eyes 
+- 355
+: 357 5 -8 And 
+: 364 7 -6 imagine 
+: 373 4 -2 what 
+: 378 3 -7 it’d 
+: 382 3 -6 be 
+: 386 5 -3 like 
+: 392 3 3 when 
+: 396 8 -3 summer 
+: 406 5 -4 does 
+: 415 17 -4 come 
+- 434
+* 510 9 3 Bees 
+: 521 6 -1 a 
+: 529 8 -4 buzz, 
+- 539
+: 546 4 -7 Kids’ll 
+: 552 4 1 blow 
+: 560 7 0 dandalon
+: 568 3 -2 ~
+: 572 4 0 ~ 
+: 580 6 4 fuzz 
+- 588
+: 590 4 5 And 
+: 596 4 5 I’ll 
+: 603 5 4 be 
+: 609 6 -4 doing 
+: 617 4 -7 whatever 
+- 623
+: 627 5 -6 Snow 
+: 634 5 -6 does 
+: 641 8 0 in 
+: 651 44 2 summer 
+- 697
+: 735 3 1 A 
+: 742 7 -5 drink,
+: 755 5 0 in 
+: 761 5 -5 my 
+: 767 8 -6 hand, 
+- 777
+: 781 4 -5 My 
+: 786 7 -6 snow 
+: 794 4 -5 up 
+: 802 5 -2 against 
+: 808 3 -1 the 
+: 812 8 -4 burning 
+: 823 7 1 sand 
+- 832
+: 834 11 -6 Prob’ly 
+: 849 9 -3 getting 
+: 860 6 -1 gorgeously 
+- 868
+: 871 8 -6 Tanned 
+: 882 4 -6 in 
+: 889 18 -7 summer 
+- 909
+: 927 6 -4 I’ll 
+: 935 9 -3 finally 
+: 948 5 -6 see 
+: 954 2 -2 a 
+* 958 6 -3 summer 
+* 966 7 2 breeze, 
+- 975
+: 977 5 1 Blow 
+: 983 7 0 away 
+: 992 2 1 a 
+: 995 6 2 winter 
+: 1002 10 3 storm 
+- 1014
+: 1025 4 4 And 
+: 1031 7 1 findout 
+: 1040 5 0 what 
+: 1046 7 -2 happens 
+: 1054 3 -1 to 
+: 1058 8 -5 solid 
+: 1067 4 -1 water 
+- 1073
+: 1076 4 -1 When 
+: 1083 4 1 it 
+: 1088 5 3 gets 
+: 1103 13 -1 warm 
+- 1118
+: 1164 6 -4 And 
+: 1171 3 -2 I 
+: 1175 7 -4 can’t 
+: 1189 5 -2 wait 
+: 1195 3 -2 to 
+: 1199 13 -3 see, 
+- 1214
+: 1216 4 -2 What 
+: 1221 4 -3 my 
+: 1226 4 -1 buddies 
+: 1231 4 0 all 
+: 1236 4 -4 think 
+: 1241 4 -5 of 
+: 1247 6 -4 me 
+- 1255
+: 1265 5 1 Just 
+: 1272 10 -4 imagine 
+: 1285 4 -5 how 
+: 1290 4 -4 much 
+: 1296 3 -4 cooler 
+- 1301
+: 1305 4 0 I’ll 
+: 1310 4 -1 be 
+: 1318 8 -4 in 
+: 1332 18 5 summer 
+- 1352
+: 1367 4 7 Dah 
+: 1372 5 8 dah, 
+: 1387 4 11 da 
+: 1392 4 8 doo, 
+- 1398
+: 1411 5 10 Uh 
+: 1417 3 11 bah 
+: 1421 3 12 bah 
+: 1425 3 11 bah 
+: 1429 3 6 bah 
+: 1433 3 2 bah 
+: 1437 4 1 boo 
+- 1443
+: 1459 4 2 The 
+: 1464 4 5 hot 
+: 1469 3 2 and 
+: 1473 4 2 the 
+: 1478 4 -1 cold 
+: 1483 4 1 are 
+: 1488 4 3 both 
+: 1493 3 3 so 
+: 1497 7 5 intense 
+- 1506
+: 1508 3 1 Put 
+: 1512 4 -1 ’em 
+: 1523 5 3 together 
+: 1533 3 1 it 
+: 1537 5 -1 just 
+: 1543 6 2 makes 
+: 1552 7 0 sense! 
+- 1561
+: 1570 4 5 Rrr 
+: 1575 4 1 raht 
+: 1582 4 6 da
+: 1587 4 4 daht 
+: 1593 4 -2 dah 
+: 1598 3 -3 dah 
+- 1603
+: 1607 2 2 Dah 
+: 1610 3 -2 dah 
+: 1614 3 -5 dah 
+: 1618 3 -6 dah 
+: 1623 6 -3 dah 
+: 1631 4 -2 dah 
+: 1637 4 -7 doo 
+- 1643
+: 1658 5 -6 Winter’s 
+: 1664 3 -2 a 
+: 1668 4 -3 good 
+: 1673 3 -3 time 
+: 1678 3 -4 to 
+: 1682 3 -3 stay 
+: 1686 2 0 in 
+: 1689 2 -3 and 
+: 1692 6 1 cuddle 
+- 1700
+: 1702 5 8 But 
+: 1708 4 5 put 
+: 1713 2 11 me 
+: 1716 2 12 in 
+: 1719 6 11 summer 
+: 1726 3 9 and 
+: 1730 3 11 I’ll 
+: 1735 3 9 be 
+: 1739 3 8 a 
+F 1745 5 8 ... 
+- 1752
+* 1771 8 6 Happy 
+* 1783 13 2 snowman! 
+- 1798
+: 1813 7 1 When 
+: 1821 3 2 life 
+: 1826 4 4 gets 
+: 1832 5 3 rough, 
+- 1839
+: 1841 2 4 I 
+: 1845 3 2 like 
+: 1850 2 0 to 
+: 1855 4 1 hold 
+: 1862 5 5 on 
+: 1869 3 1 to 
+: 1874 2 0 my 
+: 1879 10 -2 dream 
+- 1891
+: 1893 5 -1 Of 
+: 1899 12 -5 relaxing 
+: 1913 6 -4 in 
+: 1922 3 -2 the 
+: 1927 8 -2 summer 
+: 1936 5 -1 sun, 
+- 1943
+: 1945 4 1 Just 
+: 1950 4 0 lettin’ 
+: 1956 7 -4 off 
+: 1968 16 -5 steam 
+- 1986
+: 2033 6 -4 Oh 
+: 2040 4 -5 the 
+: 2045 12 0 sky 
+: 2071 5 -1 will 
+: 2077 4 -4 be 
+: 2083 12 -5 blue, 
+- 2097
+: 2112 5 -1 And 
+: 2119 5 1 you 
+: 2125 6 3 guys 
+: 2133 3 -2 will 
+: 2138 3 0 be 
+: 2143 7 -2 there 
+: 2153 9 -1 too 
+- 2164
+: 2189 6 0 When 
+: 2196 3 -2 I 
+: 2201 7 3 finally 
+: 2211 4 2 do 
+- 2217
+: 2221 4 6 What 
+: 2226 9 8 frozen 
+: 2236 5 7 things 
+: 2243 4 6 do 
+: 2249 5 9 in 
+: 2257 12 10 summer! 
+- 2271
+F 2312 4 8 I’m 
+F 2317 3 9 gonna 
+F 2321 3 10 tell 
+F 2325 3 9 him 
+- 2330
+F 2333 3 10 Don’t 
+F 2338 4 10 you 
+F 2344 4 10 dare! 
+- 2350
+: 2379 16 9 In 
+* 2402 14 10 sum
+* 2418 21 13 mer! 
+E

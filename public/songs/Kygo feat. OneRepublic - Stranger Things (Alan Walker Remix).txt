@@ -1,0 +1,402 @@
+#ARTIST:Kygo feat. OneRepublic
+#TITLE:Stranger Things (Alan Walker Remix)
+#MP3:Kygo feat. OneRepublic - Stranger Things (Alan Walker Remix).mp3
+#CREATOR:barbeque
+#COVER:Kygo feat. OneRepublic - Stranger Things (Alan Walker Remix) [CO].jpg
+#BACKGROUND:Kygo feat. OneRepublic - Stranger Things (Alan Walker Remix) [BG].jpg
+#YEAR:2018
+#LANGUAGE:English
+#BPM:321
+#GAP:105
+#VIDEO:a=2v0Yzh125Uo,v=-35jibKqbEo,co=https://alanwalker.com/wp-content/uploads/2021/01/StrangerThings_Artwork_-1200x1200-1.jpg
+: 0 11 12 Cas
+: 13 11 12 tles
+: 26 4 12  glit
+: 32 4 11 ter
+: 39 3 9  un
+: 43 3 7 der
+: 49 5 9  Spa
+: 56 4 4 -a
+: 62 5 4 nish
+: 73 16 4  skies
+- 89
+F 91 3 4 But
+: 96 11 7  I'm
+: 110 6 7  just
+: 121 5 7  loo
+: 128 4 5 king
+: 134 4 4  out
+: 140 3 2  for
+: 145 5 4  you
+: 152 4 -3 ~
+: 158 9 -3  to
+: 169 20 -3 night
+- 196
+* 199 3 0 We
+: 204 3 0  used
+: 211 4 0  to
+: 217 5 0  run
+: 224 2 -1  a
+: 228 6 -1 round
+* 236 2 -3  this
+: 241 10 -3  ghost
+R 254 5 -8  town
+- 264
+: 266 3 -8 Al
+: 271 3 -5 ways
+: 277 4 -5  thin
+: 283 3 -8 king
+: 289 9 -5  out
+R 301 7 -12  loud
+- 312
+R 314 3 -8 Are
+: 320 3 -3  we
+: 326 5 -3  gon
+: 332 2 -5 na
+: 337 11 -3  get
+R 350 5 -8  out?
+- 358
+: 360 5 -3 I
+: 368 2 -5  re
+: 373 4 -5 mem
+: 379 2 -5 be
+: 383 3 -3 -er
+- 388
+* 390 3 -1 We
+: 397 5 0  dream
+: 404 3 0  of
+: 410 3 0  pla
+: 416 3 -1 ces
+: 422 3 -1  that
+: 428 2 -3  we
+: 433 11 -3  could
+R 447 2 -8  go
+- 455
+: 457 3 -8 Cas
+: 463 5 -5 tles
+: 470 3 -5  with
+: 475 2 -8  the
+: 481 11 -5  strange
+R 495 3 -12  glow
+- 503
+* 505 4 -8 Peo
+* 511 4 -3 ple
+* 518 4 -3  that
+: 524 2 -5  we
+: 529 10 -3  don't
+R 542 4 -7  know
+- 551
+: 553 5 -3 I
+: 560 3 -5  re
+: 565 4 -5 mem
+: 571 2 -5 be
+: 575 3 -3 -er
+- 581
+: 583 3 0 We
+: 589 3 0  left
+: 596 3 2  a
+: 601 4 2  life
+: 607 3 0  that's
+: 614 4 0  or
+: 620 2 2 di
+: 625 4 2 na
+: 631 2 4 ry
+: 637 4 0  from
+: 643 2 -1  the
+: 651 12 0  start
+- 673
+: 680 3 0 We
+: 685 4 0  looked
+: 691 2 2  for
+: 697 5 2  stran
+: 703 2 0 ger
+: 710 4 0  things
+: 716 4 2  'cause
+: 722 5 2  that's
+: 729 2 4  just
+: 735 4 0  who
+: 741 3 -1  we
+: 747 3 0  a
+: 752 4 -1 -a
+: 758 4 -3 -are
+- 771
+: 775 5 0 Found
+: 782 5 0  me
+: 789 3 2  the
+: 795 4 2  edge
+: 801 2 0  of
+: 805 4 0  some
+: 811 4 2 thing
+: 818 4 2  beau
+: 824 2 4 ti
+: 829 4 0 ful
+: 836 2 -1  and
+: 841 18 0  loud
+- 869
+: 878 5 0 Like
+: 885 3 0  I'm
+: 890 2 0  pic
+: 895 3 -1 tu
+: 900 4 -3 ring
+: 907 13 -3  now
+- 930
+: 961 10 12 Cas
+: 973 10 12 tles
+: 985 6 12  glit
+: 992 4 11 ter
+: 998 4 9  un
+: 1004 2 7 der
+: 1010 5 9  Spa
+: 1017 2 4 -a
+: 1021 6 4 nish
+: 1034 15 4  skies
+- 1049
+F 1051 3 4 But
+: 1058 9 7  I'm
+: 1070 6 7  just
+: 1082 4 7  loo
+: 1088 4 5 king
+: 1095 3 4  out
+: 1100 2 2  for
+: 1105 6 4  you
+: 1113 2 -3 ~
+: 1118 8 -3  to
+: 1129 17 -3 night
+- 1151
+: 1153 10 12 Snow
+: 1165 10 12  white
+: 1178 5 12  moun
+: 1185 3 11 tains
+: 1191 3 9  in
+: 1196 3 7  a
+* 1201 9 9  fo
+: 1214 6 4 reign
+: 1226 15 4  state
+- 1247
+: 1249 10 7 Tell
+: 1261 9 7  me
+: 1273 5 7  some
+: 1280 3 5 day
+: 1285 5 4  we'll
+: 1292 5 2  ge
+: 1299 4 4 -et
+: 1305 14 0  there
+- 1325
+: 1327 2 2 Some
+: 1330 2 4 ~
+: 1333 2 2 day
+: 1336 2 4 ~
+: 1339 6 2 ~
+- 1387
+: 1519 2 2 Some
+: 1522 2 4 ~
+: 1526 2 2 day
+: 1529 2 4 ~
+: 1532 11 2 ~
+- 1585
+: 1782 3 0 I
+: 1789 5 0  see
+: 1797 2 0  a
+: 1801 4 0  Tech
+: 1807 3 -1 ni
+: 1813 3 -1 co
+: 1818 2 -3 lor
+: 1825 11 -3  sha
+R 1838 3 -8 dow
+- 1846
+: 1848 6 -8 Un
+: 1856 2 -5 der
+: 1861 4 -5 neath
+: 1868 3 -8  your
+: 1874 8 -5  win
+R 1886 3 -12 dow
+- 1895
+R 1897 4 -8 Just
+* 1905 3 -3  in
+* 1910 4 -3  case
+: 1917 3 -5  you
+: 1922 9 -3  don't
+R 1934 4 -7  know
+- 1943
+: 1945 4 -3 I
+: 1951 3 -5  can
+: 1957 5 -5  see
+: 1964 5 -3  it
+- 1973
+: 1975 4 0 You
+: 1981 5 0  cast
+: 1989 3 0  an
+: 1994 3 0  un
+* 1999 3 -1 fa
+: 2005 3 -1 mil
+: 2010 3 -3 iar
+: 2017 10 -3  day
+R 2030 5 -8  glow
+- 2039
+R 2041 3 -8 Diff'
+: 2048 4 -5 rent
+: 2054 4 -5  than
+: 2060 4 -7  what
+: 2066 8 -5  I
+R 2078 5 -12  know
+- 2087
+: 2089 4 -5 Shi
+: 2095 3 -3 ning
+: 2101 6 -3  like
+: 2109 3 -5  a
+: 2114 10 -3  ha
+G 2126 5 -7 lo
+- 2135
+: 2137 4 -3 I
+: 2144 3 -5  can
+: 2149 6 -5  feel
+: 2157 3 -3  it
+- 2165
+: 2167 3 0 We
+: 2173 5 0  turned
+: 2181 3 2  our
+: 2186 4 2  back
+: 2192 5 0  on
+: 2199 3 0  or
+: 2204 2 2 di
+: 2209 5 2 na
+: 2216 2 4 ry
+: 2221 5 0  from
+: 2228 2 -1  the
+: 2234 11 0  sta
+* 2247 2 -3 -art
+- 2259
+: 2263 3 0 We
+: 2269 4 0  looked
+: 2275 2 2  for
+: 2282 5 2  stran
+: 2288 2 0 ger
+: 2294 5 0  things
+: 2301 4 2  'cause
+: 2306 4 2  that's
+: 2312 3 4  just
+: 2319 4 0  who
+: 2325 4 -1  we
+: 2331 4 0  a
+: 2337 3 -1 -a
+: 2342 4 -3 -are
+- 2355
+: 2359 5 0 Found
+: 2366 5 0  me
+: 2373 3 2  the
+: 2378 4 2  edge
+: 2385 2 0  of
+: 2389 4 0  some
+: 2396 2 2 thing
+: 2402 4 2  beau
+: 2408 2 4 ti
+: 2413 4 0 ful
+: 2420 2 -1  and
+: 2425 18 0  loud
+- 2452
+: 2455 4 0 Show
+: 2462 5 0  me
+: 2469 2 0  the
+: 2474 3 0  sky
+: 2480 4 -1  fal
+: 2486 2 -3 ling
+: 2491 18 -3  down
+- 2519
+: 2545 10 12 Cas
+: 2557 11 12 tles
+: 2571 4 12  glit
+: 2577 3 11 ter
+: 2583 3 9  un
+: 2587 2 7 der
+: 2593 6 9  Spa
+: 2601 3 4 -a
+: 2606 6 4 nish
+: 2618 16 4  skies
+- 2634
+F 2635 3 4 But
+: 2641 10 7  I'm
+: 2655 6 7  just
+: 2665 5 7  loo
+: 2672 5 5 king
+: 2679 3 4  out
+: 2684 2 2  for
+: 2690 5 4  you
+: 2697 3 -3 ~
+: 2703 9 -3  to
+: 2714 17 -3 night
+- 2735
+: 2737 10 12 Snow
+: 2749 10 12  white
+: 2761 5 12  moun
+: 2768 5 11 tains
+: 2775 5 9  in
+: 2782 3 7  an
+: 2787 3 9  a
+: 2792 3 4 -an
+: 2798 9 4 cient
+: 2811 14 4  place
+- 2831
+: 2833 11 7 Tell
+: 2846 10 7  me
+: 2858 4 7  some
+: 2864 4 5 day
+: 2870 4 4  we'll
+: 2877 4 2  ge
+: 2883 4 4 -et
+: 2889 16 0  there
+- 2909
+: 2911 2 2 Some
+: 2914 2 4 ~
+: 2917 2 2 day
+: 2920 2 4 ~
+: 2923 6 2 ~
+- 2971
+: 3104 2 2 Some
+: 3107 2 4 ~
+: 3110 2 2 day
+: 3113 2 4 ~
+: 3116 11 2 ~
+- 3169
+: 3313 10 12 Cas
+: 3325 10 12 tles
+: 3338 5 12  glit
+: 3345 3 11 ter
+: 3350 4 9  un
+: 3355 2 7 der
+: 3361 7 9  Spa
+: 3370 2 4 -a
+: 3374 7 4 nish
+: 3386 16 4  skies
+- 3402
+F 3403 3 4 But
+: 3409 12 7  I'm
+: 3423 6 7  just
+: 3433 4 7  loo
+: 3440 5 5 king
+: 3447 3 4  out
+: 3452 2 2  for
+: 3457 7 4  you
+: 3466 3 -3 ~
+: 3471 7 -3  to
+: 3481 12 -3 night
+- 3502
+: 3505 10 12 Snow
+: 3517 11 12  white
+: 3530 5 12  moun
+: 3537 5 11 tains
+: 3544 3 9  in
+: 3549 3 7  an
+: 3555 4 9  a
+: 3561 2 4 -an
+: 3566 10 4 cient
+: 3579 15 4  place
+- 3599
+: 3601 10 7 Tell
+: 3613 10 7  me
+: 3625 6 7  some
+: 3632 3 5 day
+: 3637 5 4  we'll
+: 3644 4 2  ge
+: 3650 4 4 -et
+: 3656 17 0  there
+E

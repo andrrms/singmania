@@ -1,0 +1,126 @@
+#ARTIST:NOFX
+#TITLE:Murder The Government
+#MP3:NOFX - Murder The Government.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2002
+#LANGUAGE:English
+#BPM:260
+#GAP:800
+#VIDEO:a=lkmjybNA6Jk,co=so-long-and-thanks-for-all-the-shoes-57c2e8b558e28.jpg,bg=nofx-4f82e56d6d883.jpg
+: 0 3 11 I 
+: 4 3 11 wan
+: 8 2 11 na 
+: 12 6 11 see 
+: 26 3 11 the 
+: 30 6 11 con
+: 37 4 11 sti
+: 42 5 11 tu
+: 49 9 10 tion 
+: 61 9 11 burn 
+- 72
+: 76 4 11 Wan
+: 81 2 11 na 
+: 85 8 11 watch 
+: 94 2 11 the 
+: 97 7 11 white 
+: 105 10 11 house 
+: 118 3 11 o
+: 122 3 8 ver
+: 128 13 8 turn 
+- 143
+: 144 4 11 Wan
+: 149 2 11 na 
+: 153 6 11 wit
+: 161 7 11 ness 
+: 169 7 11 some 
+: 178 7 11 blue 
+: 187 6 11 blood 
+: 195 6 11 bleed 
+: 205 13 10 red 
+- 220
+: 255 1 15 Wan
+: 257 1 15 na 
+: 259 3 15 tar 
+: 263 2 15 and 
+: 266 4 16 lynch 
+: 271 1 15 the 
+: 273 4 13 K
+: 278 3 11 K
+: 282 2 11 K 
+- 285
+: 285 1 15 Wan
+: 287 1 15 na 
+: 289 3 15 pull 
+: 293 2 15 and 
+: 296 4 16 shoot 
+: 301 2 15 the 
+: 304 1 13 N
+: 306 5 11 R
+: 312 8 11 A 
+- 322
+: 326 5 16 Yeah 
+: 333 5 15 yeah 
+: 340 14 13 yeah... 
+- 356
+: 374 3 15 Mur
+: 378 4 15 der 
+: 383 2 13 the 
+: 386 1 15 gov
+: 388 2 18 ern
+: 391 8 15 ment, 
+- 401
+: 404 3 15 Mur
+: 408 4 15 der 
+: 413 2 13 the 
+: 416 1 15 gov
+: 418 2 13 ern
+: 421 8 11 ment 
+- 431
+: 435 3 16 Mur
+: 439 4 16 der 
+: 444 1 16 the 
+: 446 1 16 gov
+: 448 2 16 ern
+: 451 8 16 ment, 
+- 460
+: 461 10 13 Then 
+: 478 1 18 do 
+: 480 1 18 it 
+: 482 1 18 a
+: 484 2 18 gain 
+: 488 4 15 yeah 
+- 494
+: 495 3 15 Mur
+: 499 4 15 der 
+: 504 2 13 the 
+: 507 1 15 gov
+: 509 2 18 ern
+: 513 8 15 ment, 
+- 523
+: 527 3 15 Mur
+: 531 4 15 der 
+: 536 1 13 the 
+: 538 1 15 gov
+: 540 2 13 ern
+: 543 8 11 ment 
+- 553
+: 556 3 15 Mur
+: 560 4 15 der 
+: 565 2 15 the 
+: 568 1 15 gov
+: 570 2 15 ern
+: 573 5 15 ment, 
+: 579 2 15 and 
+: 582 12 13 then 
+- 596
+: 605 3 15 Mur
+: 609 3 15 der 
+: 613 2 15 the 
+: 617 4 13 go
+: 624 8 15 vern
+: 640 8 15 me
+: 650 5 13 ~
+: 656 1 13 ~
+* 658 14 11 ~nt 
+E

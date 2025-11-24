@@ -1,0 +1,587 @@
+#ARTIST:Red Hot Chili Peppers
+#TITLE:Mellowship Slinky In B Major
+#MP3:Red Hot Chili Peppers - Mellowship Slinky In B Major.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2008 Vol. 3
+#GENRE:Alternative Rock
+#YEAR:1991
+#LANGUAGE:English
+#BPM:399.59
+#GAP:35050
+#VIDEO:a=RRQwn8rmZfo,co=blood-sugar-sex-magik-540dda11a6d0e.jpg,bg=red-hot-chili-peppers-54572982c5713.jpg
+F 0 2 24 I’ve 
+F 3 4 24 got 
+F 8 2 24 a 
+F 13 3 24 mel
+F 18 3 24 low
+F 27 4 24 ship, 
+F 35 1 24 I’ve 
+F 38 4 24 got 
+F 43 2 24 a 
+F 47 4 24 fel
+F 53 4 24 low
+F 62 4 24 ship 
+- 68
+F 70 2 24 I’ve 
+F 73 4 24 got 
+F 78 1 24 a 
+F 82 4 24 non
+F 91 4 24 stop 
+F 99 5 24 Yo 
+F 108 6 24 Swan 
+F 116 5 24 hel
+F 122 6 24 lo 
+F 132 4 24 chip 
+- 138
+F 151 5 24 Born 
+F 159 4 24 to 
+F 164 1 24 a
+F 168 7 24 dore 
+F 177 2 24 the 
+F 182 3 24 big 
+F 190 6 24 bad 
+F 202 5 24 bi
+F 212 5 24 son 
+- 219
+F 225 1 24 A 
+F 228 4 24 thun
+F 233 2 24 der
+F 237 6 24 storms 
+F 246 3 24 and 
+F 250 1 24 a 
+F 254 5 24 man 
+F 263 4 24 like 
+F 272 4 24 Ty
+F 281 4 24 son 
+- 287
+F 289 3 24 Pop
+F 298 4 24 corn 
+F 306 7 24 pea
+F 315 2 24 nuts 
+F 325 2 24 look
+F 330 1 24 in’ 
+F 333 4 24 at 
+F 341 3 24 big 
+F 349 5 24 butts 
+- 356
+F 364 1 24 Ah 
+F 367 3 24 no 
+F 371 3 24 I 
+F 376 5 24 can
+F 384 3 24 not 
+F 394 3 24 keep 
+F 402 3 24 my 
+F 410 4 24 mouth 
+F 420 3 24 shut 
+- 425
+F 428 3 24 Rock
+F 434 2 24 in’ 
+F 437 4 24 to 
+F 443 1 24 the 
+F 446 3 24 beat 
+F 454 3 24 of 
+F 459 1 24 the 
+F 463 4 24 Fa
+F 468 2 24 bu
+F 471 3 24 lous 
+F 480 8 24 Fo
+F 489 4 24 rum 
+- 495
+F 505 3 24 My 
+F 514 2 24 Lak
+F 522 4 24 ers 
+F 531 4 24 I 
+F 540 2 24 a
+F 549 6 24 dore 
+F 557 2 24 ’em 
+F 565 2 24 blush 
+- 569
+F 575 6 24 My 
+F 584 6 24 la
+F 593 6 24 dy 
+F 601 3 24 when 
+F 611 3 24 I 
+F 619 6 24 tell 
+F 627 6 24 her 
+- 635
+F 641 1 24 Ah, 
+F 644 3 24 that 
+F 650 1 24 I 
+F 654 3 24 do 
+F 658 2 24 in
+F 663 4 24 deed 
+F 671 3 24 love 
+F 680 3 24 to 
+F 689 4 24 smell 
+F 697 3 24 her 
+- 702
+F 706 3 24 Sop
+F 715 5 24 ping 
+F 723 2 24 wet 
+F 731 5 24 your 
+F 740 6 24 pink 
+F 749 4 24 um
+F 757 4 24 brel
+F 766 6 24 la 
+- 774
+F 779 1 24 Ah, 
+F 783 5 24 do 
+F 789 1 24 the 
+F 792 7 24 dog 
+F 801 5 24 with 
+F 810 3 24 I
+F 816 5 24 sa
+F 825 9 24 bel
+F 835 52 24 la 
+- 889
+: 911 5 23 I’m 
+: 920 5 23 so 
+: 926 2 23 in 
+: 929 4 23 love 
+: 937 3 23 yes 
+: 946 2 26 with 
+: 952 5 26 an 
+: 959 4 26 ar
+: 969 3 23 tist 
+- 974
+: 978 1 21 I
+: 980 4 23 ma
+: 987 4 23 gi
+: 994 4 23 na
+: 1003 3 23 tion 
+- 1008
+: 1016 4 26 He’s 
+: 1021 3 26 the 
+: 1030 4 26 smart
+: 1038 3 23 est 
+- 1043
+: 1047 2 20 Ah, 
+: 1050 4 21 Rob
+: 1056 3 21 ert 
+: 1063 5 21 Wil
+: 1071 5 21 liams 
+: 1083 3 21 stroke 
+: 1091 3 21 and 
+: 1100 4 21 splat
+: 1109 2 21 ter 
+- 1113
+: 1119 4 26 I 
+: 1124 3 23 at
+: 1133 3 23 test 
+: 1142 6 21 to 
+: 1149 5 26 your 
+: 1157 5 26 gray 
+: 1166 4 26 mat
+: 1174 3 23 ter 
+- 1179
+: 1187 3 26 Liv
+: 1191 5 26 ing 
+: 1202 7 26 kings 
+: 1212 5 26 how 
+: 1222 4 26 true 
+: 1227 7 26 it 
+: 1235 1 26 rings
+: 1237 10 23 ~ 
+- 1249
+: 1256 4 21 These 
+: 1261 1 21 are 
+: 1266 3 21 just 
+: 1271 1 21 a 
+: 1274 4 21 few 
+: 1279 1 21 of 
+: 1283 5 21 my 
+: 1292 4 21 fa
+: 1297 2 21 vo
+: 1300 2 21 rite 
+: 1306 3 21 things
+: 1310 22 23 ~ 
+- 1334
+F 1472 4 24 Good 
+F 1479 11 24 God, 
+F 1493 1 24 ah, 
+F 1496 3 24 where’s 
+F 1503 2 24 my 
+F 1510 7 24 sleigh 
+F 1521 12 24 now 
+- 1535
+F 1537 1 24 Ah, 
+F 1540 5 24 good 
+F 1549 12 24 God 
+F 1563 6 24 play
+F 1570 3 24 ing 
+F 1576 2 24 for 
+F 1581 7 24 days 
+F 1592 13 24 now 
+- 1607
+F 1611 3 24 Good 
+F 1619 11 24 God 
+: 1633 2 28 well 
+: 1637 4 28 a
+: 1642 4 28 ny 
+* 1651 7 31 day 
+* 1660 4 28 now
+* 1665 7 26 ~ 
+- 1674
+F 1676 1 24 Ah, 
+F 1679 5 24 good 
+F 1689 12 24 God, 
+F 1703 1 24 ah, 
+F 1706 3 24 take 
+F 1713 1 24 me 
+F 1715 4 24 a
+F 1720 6 24 way 
+F 1730 10 24 now 
+- 1742
+F 1750 3 24 Good 
+F 1758 12 24 God 
+F 1773 1 24 the 
+F 1777 5 24 pur
+F 1785 4 24 ple 
+F 1792 7 24 haze 
+F 1801 12 24 now 
+- 1815
+F 1817 1 24 Ah, 
+F 1820 3 24 good 
+F 1829 11 24 God 
+F 1842 2 24 the 
+F 1846 4 24 bad
+F 1851 2 24 dest 
+F 1855 2 24 of 
+F 1860 7 24 brains 
+F 1871 11 24 now 
+- 1884
+: 1886 1 23 Ah, 
+: 1889 4 28 good 
+: 1898 9 28 God 
+: 1911 2 28 well 
+: 1915 4 28 a
+: 1921 4 28 ny 
+: 1930 7 31 day 
+: 1940 4 28 now
+: 1945 7 26 ~ 
+- 1954
+F 1956 1 24 Ah, 
+F 1959 4 24 good 
+F 1968 11 24 God, 
+F 1982 2 24 ah, 
+F 1986 4 24 rid
+F 1991 1 24 in’ 
+F 1995 2 24 my 
+F 2001 6 24 sleigh 
+F 2011 25 24 now 
+- 2038
+F 2094 4 24 Be
+F 2099 1 24 ing 
+F 2101 1 24 that 
+F 2103 3 24 I’m 
+F 2109 1 24 the 
+F 2112 4 24 duke 
+F 2120 4 24 of 
+F 2129 4 24 my 
+F 2134 5 24 do
+F 2143 8 24 main 
+- 2153
+F 2155 4 24 My 
+F 2163 4 24 hat 
+F 2172 5 24 goes 
+F 2181 4 24 off 
+F 2189 8 24 to 
+F 2205 4 24 Mark 
+F 2215 8 24 Twain 
+- 2225
+F 2232 2 24 Sing
+F 2235 1 24 ing 
+F 2237 1 24 a 
+F 2241 4 24 song 
+F 2246 1 24 a
+F 2249 5 24 bout 
+F 2257 2 24 what 
+F 2262 3 24 true 
+F 2267 3 24 men 
+F 2274 5 24 don’t 
+F 2283 8 24 do 
+- 2293
+F 2302 1 24 Kil
+F 2304 1 24 ling 
+F 2306 2 24 a
+F 2309 4 24 no
+F 2314 1 24 ther 
+F 2318 3 24 crea
+F 2323 1 24 ture 
+F 2326 4 24 that’s 
+F 2335 4 24 Kind 
+F 2341 5 24 of 
+F 2350 10 24 Blue 
+- 2362
+F 2369 2 24 Writ
+F 2372 2 24 ing 
+F 2375 1 24 a
+F 2378 3 24 bout 
+F 2384 1 24 the 
+F 2386 8 24 world 
+F 2395 3 24 of 
+F 2400 3 24 the 
+F 2404 5 24 wild 
+F 2414 3 24 co
+F 2422 4 24 yo
+F 2430 8 24 te 
+- 2440
+F 2445 1 24 Ah, 
+F 2448 3 24 good 
+F 2456 5 24 man 
+F 2464 5 24 Tru
+F 2473 4 24 man 
+F 2482 3 24 Ca
+F 2491 4 24 po
+F 2499 3 24 te 
+- 2504
+F 2507 2 24 Talk
+F 2511 1 24 ing 
+F 2513 1 24 a
+F 2516 2 24 bout 
+F 2521 1 24 my 
+F 2525 4 24 thoughts 
+F 2534 5 24 ’cause 
+F 2543 5 24 they 
+F 2549 2 24 must 
+- 2553
+F 2559 9 24 Grow 
+- 2570
+F 2577 4 24 Cock 
+F 2585 3 24 my 
+F 2592 7 24 brain 
+F 2602 3 24 to 
+F 2612 3 24 shoot 
+F 2619 5 24 my 
+F 2628 13 24 load 
+- 2643
+F 2650 1 24 I’m 
+F 2653 4 24 on 
+F 2659 1 24 the 
+F 2663 4 24 porch 
+F 2670 4 24 ’cause 
+F 2676 2 24 I 
+F 2679 2 24 lost 
+F 2688 4 24 my 
+F 2697 4 24 house 
+F 2706 4 24 key 
+- 2712
+F 2714 2 24 Pick 
+F 2719 3 24 up 
+F 2727 2 24 my 
+F 2731 2 24 book 
+F 2740 3 24 I 
+F 2749 4 24 read 
+F 2757 4 24 Bu
+F 2766 5 24 kows
+F 2775 7 24 ki 
+- 2784
+F 2792 4 24 Can 
+F 2797 1 24 I 
+F 2800 3 24 get 
+F 2804 1 24 a
+F 2808 3 24 no
+F 2812 2 24 ther 
+F 2817 3 24 kiss 
+F 2826 4 24 from 
+F 2835 9 24 you 
+- 2846
+F 2851 4 24 Kiss 
+F 2857 1 24 me 
+F 2859 5 24 right 
+F 2869 3 24 here 
+F 2873 8 24 on 
+F 2885 3 24 my 
+F 2893 3 24 tat
+F 2902 21 24 too 
+- 2925
+F 2929 4 24 Good 
+F 2938 11 24 God, 
+F 2952 2 24 ah, 
+F 2955 4 24 where’s 
+F 2963 3 24 my 
+F 2970 8 24 sleigh 
+F 2980 10 24 now 
+- 2992
+F 2996 1 24 Ah, 
+F 2999 4 24 good 
+F 3008 12 24 God 
+F 3022 6 24 play
+F 3030 2 24 ing 
+F 3036 2 24 for 
+F 3041 7 24 days 
+F 3051 11 24 now 
+- 3064
+: 3070 4 28 Good 
+: 3079 9 28 God 
+: 3093 2 28 well 
+: 3096 4 28 a
+: 3102 3 28 ny 
+* 3110 7 31 day 
+* 3120 4 28 now
+* 3125 7 26 ~ 
+- 3134
+F 3137 1 24 Ah, 
+F 3140 4 24 good 
+F 3149 12 24 God, 
+F 3162 1 24 ah, 
+F 3166 4 24 take 
+F 3173 2 24 me 
+F 3176 3 24 a
+F 3181 6 24 way 
+F 3191 9 24 now 
+- 3202
+F 3210 4 24 Good 
+F 3219 11 24 God 
+F 3233 2 24 De 
+F 3237 4 24 Ni
+F 3242 2 24 ro’s 
+F 3246 2 24 in
+F 3251 5 24 sane 
+F 3260 11 24 now 
+- 3273
+F 3277 1 24 Ah, 
+F 3280 4 24 good 
+F 3290 12 24 God, 
+F 3303 2 24 ah, 
+F 3307 3 24 rack
+F 3312 1 24 in’ 
+F 3316 3 24 my 
+F 3322 6 24 brain 
+F 3332 10 24 now 
+- 3344
+: 3347 1 23 Ah, 
+: 3350 5 28 good 
+: 3359 8 28 God 
+: 3374 2 28 well 
+: 3377 5 28 a
+: 3383 4 28 ny 
+: 3391 7 31 day 
+: 3402 3 28 now
+: 3406 8 26 ~ 
+- 3416
+F 3418 1 24 Ah, 
+F 3421 4 24 good 
+F 3430 11 24 God, 
+F 3444 1 24 ah, 
+F 3448 4 24 take 
+F 3454 2 24 me 
+F 3457 3 24 a
+F 3462 6 24 way 
+F 3471 41 24 now 
+- 3514
+F 3538 4 24 Take 
+F 3544 1 24 me 
+F 3546 4 24 a
+F 3553 18 24 way 
+- 3573
+F 3803 7 24 Aw, 
+F 3811 23 24 yeah 
+- 3836
+F 4110 5 24 Me 
+F 4118 5 24 my 
+F 4128 4 24 friends 
+F 4137 3 24 and 
+F 4142 1 24 the 
+F 4146 2 24 sex 
+F 4155 4 24 ma
+F 4163 9 24 chine 
+- 4174
+F 4176 1 24 Ah, 
+F 4180 3 24 do 
+F 4185 5 24 un
+F 4194 2 24 to 
+F 4197 4 24 o
+F 4202 2 24 thers 
+F 4205 4 24 like 
+F 4211 1 24 my 
+F 4215 5 24 bro
+F 4221 4 24 ther 
+F 4229 10 24 Bean 
+- 4241
+F 4247 1 24 I 
+F 4250 3 24 know 
+F 4254 3 24 you’ve 
+F 4259 3 24 got 
+F 4263 1 24 a 
+F 4268 4 24 mo
+F 4274 4 24 ther 
+F 4281 1 24 so 
+F 4284 4 24 give 
+F 4290 2 24 her 
+F 4293 2 24 a 
+F 4298 9 24 hug 
+- 4309
+F 4314 2 24 I 
+F 4318 3 24 know 
+F 4322 3 24 you’ve 
+F 4326 4 24 got 
+F 4331 1 24 a 
+F 4335 2 24 mo
+F 4338 2 24 ther 
+F 4343 3 24 with 
+F 4347 1 24 a 
+- 4350
+F 4352 4 24 Whole 
+F 4357 3 24 lot 
+F 4361 2 24 of 
+F 4366 8 24 love 
+- 4376
+F 4387 6 24 Bil
+F 4395 4 24 lie 
+F 4404 5 24 sings 
+F 4412 5 24 and 
+F 4421 4 24 Ba
+F 4430 3 24 sie 
+F 4438 11 24 swings 
+- 4451
+: 4455 4 17 These 
+: 4460 1 13 are 
+: 4464 4 13 just 
+: 4470 1 13 a 
+: 4474 3 11 few 
+: 4478 2 11 of 
+: 4482 5 13 my 
+: 4491 4 16 fa
+: 4496 2 13 vo
+: 4499 2 13 rite 
+: 4505 4 11 things
+: 4510 11 13 ~ 
+- 4523
+: 4592 4 27 These 
+: 4598 1 26 are 
+: 4601 5 26 just 
+: 4608 1 26 a 
+: 4610 4 26 few 
+: 4615 2 26 of 
+: 4619 6 26 my 
+: 4627 4 26 fa
+: 4633 2 27 vo
+: 4636 2 28 rite 
+: 4641 4 25 things
+: 4646 43 23 ~ 
+- 4691
+: 4728 1 11 Ah, 
+: 4731 4 9 these 
+: 4736 1 9 are 
+: 4739 5 11 just 
+: 4745 1 11 a 
+: 4748 5 11 few 
+: 4754 2 11 of 
+: 4758 4 11 my 
+- 4764
+* 4766 4 14 Fa
+* 4771 2 11 vo
+* 4774 2 11 rite 
+* 4780 5 9 things
+: 4786 31 11 ~ 
+- 4819
+F 4864 1 24 Ah, 
+F 4867 3 24 these 
+F 4871 1 24 are 
+F 4874 3 24 just 
+F 4880 1 24 a 
+F 4886 22 24 few 
+- 4910
+F 4919 25 24 Ho! 
+E

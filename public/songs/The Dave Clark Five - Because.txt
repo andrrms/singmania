@@ -1,0 +1,172 @@
+#ARTIST:The Dave Clark Five
+#TITLE:Because
+#MP3:The Dave Clark Five - Because.mp3
+#CREATOR:rote_rose
+#COVER:The Dave Clark Five - Because [CO].jpg
+#BACKGROUND:The Dave Clark Five - Because [BG].jpg
+#GENRE:Ballad
+#YEAR:1964
+#LANGUAGE:English
+#BPM:246.7
+#GAP:7620
+#VIDEO:a=nuKdJmOZLN4,co=https://i0.wp.com/ontherecords.net/wp-content/uploads/2017/09/IMG_0141.jpg
+: 0 6 2 It’s 
+: 8 22 11 right 
+: 32 5 2 that 
+: 39 5 3 I 
+: 46 6 11 should 
+: 54 10 9 care 
+: 66 3 7 a
+: 71 5 11 bout 
+: 78 28 4 you 
+- 116
+: 130 3 7 And 
+: 134 12 12 try 
+: 147 3 12 to 
+: 151 7 14 make 
+: 159 7 12 you 
+* 167 3 11 ha
+* 171 11 7 ppy 
+- 186
+: 188 4 9 When 
+: 193 5 11 you’re 
+: 199 31 9 blue
+: 231 17 10 ~ 
+- 253
+: 255 7 11 It’s 
+* 263 18 14 right, 
+: 288 7 14 it’s 
+: 296 19 15 right 
+- 317
+: 319 7 11 To 
+: 327 13 9 feel 
+: 341 3 7 the 
+: 345 6 9 way 
+: 352 8 11 I 
+: 361 15 9 do 
+- 382
+: 385 6 9 Be
+: 392 20 11 cause, 
+: 417 7 11 be
+: 425 11 9 cause 
+: 440 5 11 I
+: 446 5 11 ~ 
+: 452 4 11 love 
+: 457 39 7 you 
+- 512
+: 529 7 9 It’s 
+: 537 7 9 wrong 
+: 545 7 9 to 
+: 553 7 9 say 
+- 564
+: 566 3 9 I 
+: 570 5 16 don’t 
+: 576 5 14 think 
+: 582 3 16 of 
+* 586 24 14 you 
+- 626
+: 657 7 9 ’Cause 
+: 665 7 9 when 
+: 673 7 9 you 
+: 681 6 11 say 
+: 688 6 11 these 
+: 695 10 9 things 
+- 708
+: 710 3 9 You 
+: 714 7 9 know 
+: 722 6 9 it 
+: 729 6 16 makes 
+: 736 6 16 me 
+* 743 20 14 blue
+* 764 10 10 ~ 
+- 775
+: 777 16 11 Give 
+: 794 7 2 me 
+: 802 7 2 one 
+: 810 7 3 kiss 
+: 818 7 11 and 
+: 826 7 9 I’ll 
+: 834 7 7 be 
+: 842 4 11 ha
+: 847 25 4 ppy 
+- 888
+: 905 32 12 Just, 
+: 944 5 11 just 
+: 950 5 7 to 
+: 956 5 7 be
+: 962 4 9 ~ 
+: 967 4 11 with 
+: 972 29 9 you
+: 1002 22 10 ~ 
+- 1024
+: 1026 7 11 Give 
+: 1034 20 14 me, 
+* 1060 7 14 give 
+* 1068 17 15 me, 
+: 1092 7 11 a 
+: 1100 4 9 chance
+: 1105 10 7 ~ 
+: 1116 7 9 to 
+: 1124 7 11 be 
+: 1132 4 9 near 
+: 1137 11 7 you 
+- 1153
+: 1155 7 9 Be
+: 1163 20 11 cause, 
+: 1188 7 11 be
+: 1196 14 9 cause 
+: 1211 5 11 I
+: 1217 5 11 ~ 
+: 1223 4 11 love 
+: 1228 33 7 you 
+- 1293
+: 1547 16 11 Give 
+: 1564 7 2 me 
+: 1572 7 2 one 
+: 1580 7 3 kiss 
+: 1588 7 11 and 
+: 1596 7 9 I’ll 
+: 1604 7 7 be 
+: 1612 4 11 ha
+: 1617 25 4 ppy 
+- 1658
+* 1675 33 12 Just, 
+: 1713 5 11 just 
+: 1719 5 7 to 
+: 1725 5 7 be
+: 1731 4 9 ~ 
+: 1736 4 11 with 
+: 1741 31 9 you
+: 1773 21 10 ~ 
+- 1794
+: 1796 7 11 Give 
+: 1804 19 14 me, 
+: 1828 7 14 give 
+: 1836 19 15 me, 
+: 1860 7 11 a 
+: 1868 5 9 chance
+: 1874 10 7 ~ 
+: 1885 7 9 to 
+: 1893 7 11 be 
+: 1901 4 9 near 
+: 1906 12 7 you 
+- 1922
+: 1924 7 9 Be
+: 1932 20 11 cause, 
+: 1957 7 11 be
+: 1965 12 9 cause 
+: 1981 5 11 I
+: 1987 5 11 ~ 
+: 1993 4 11 love 
+: 1998 29 7 you
+: 2028 23 8 ~ 
+- 2051
+: 2053 7 11 Be
+: 2061 18 9 cause, 
+: 2085 7 9 be
+: 2093 12 11 cause 
+: 2108 5 11 I
+: 2114 5 11 ~ 
+: 2120 4 11 love 
+* 2125 40 7 you 
+E

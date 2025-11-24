@@ -1,0 +1,755 @@
+#ARTIST:Red Hot Chili Peppers
+#TITLE:The Power Of Equality
+#MP3:Red Hot Chili Peppers - The Power Of Equality.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2008 Vol. 3
+#GENRE:Alternative Rock
+#YEAR:1991
+#LANGUAGE:English
+#BPM:396.76
+#GAP:6890
+#VIDEO:a=H3tdhMazGC8,co=blood-sugar-sex-magik-540dda11a6d0e.jpg,bg=red-hot-chili-peppers-54572982c5713.jpg
+F 0 5 23 Hey 
+F 7 2 23 bat
+F 10 2 23 ter 
+F 14 3 23 bat
+F 18 3 23 ter 
+F 23 4 23 hey 
+F 29 3 23 bat
+F 34 2 23 ter 
+F 37 5 23 hey 
+F 45 2 23 bat
+F 48 2 23 ter 
+F 52 3 23 bat
+F 56 1 23 ter 
+- 59
+F 60 6 23 Hey 
+F 67 3 23 bat
+F 71 2 23 ter 
+F 75 3 23 bat
+F 79 2 23 ter 
+F 82 4 23 hey 
+F 90 3 23 bat
+F 94 3 23 ter 
+F 98 4 23 hey 
+F 105 2 23 bat
+F 108 2 23 ter 
+F 112 3 23 bat
+F 116 1 23 ter 
+- 119
+F 120 4 23 Hey 
+F 127 3 23 bat
+F 131 2 23 ter 
+F 134 3 23 bat
+F 138 2 23 ter 
+F 142 4 23 hey 
+F 149 3 23 bat
+F 153 1 23 ter 
+- 156
+F 158 4 23 Hey 
+F 165 3 23 bat
+F 169 2 23 ter 
+F 173 2 23 bat
+F 176 2 23 ter 
+F 181 4 23 hey 
+F 188 2 23 bat
+F 191 2 23 ter 
+F 195 2 23 bat
+F 198 2 23 ter 
+- 202
+F 226 6 23 Swing 
+- 234
+F 241 5 23 I’ve 
+F 248 1 23 got 
+F 250 2 23 a 
+F 255 5 23 soul 
+F 263 3 23 that 
+F 271 2 23 can
+F 274 3 23 not 
+F 286 4 23 sleep 
+F 293 3 23 at 
+F 301 3 23 night 
+- 306
+F 309 3 23 When 
+F 317 3 23 some
+F 324 3 23 thin’ 
+F 332 2 23 just 
+F 336 4 23 ain’t 
+F 347 3 23 right, 
+F 356 2 23 uh 
+- 360
+F 371 3 23 Blood 
+F 378 3 23 red 
+F 386 3 23 but 
+F 393 2 23 with
+F 397 4 23 out 
+F 407 3 23 sight 
+- 412
+F 416 2 23 Ex
+F 424 5 23 plod
+F 432 4 23 ing 
+F 439 6 23 e
+F 447 6 23 gos 
+F 455 3 23 in 
+F 462 2 23 the 
+F 467 5 23 night 
+- 474
+F 485 2 23 Mix 
+F 492 3 23 like 
+F 501 3 23 sticks 
+F 509 3 23 of 
+F 516 3 23 dy
+F 520 3 23 na
+F 529 3 23 mite 
+- 534
+F 540 2 23 Red 
+F 548 3 23 black 
+F 555 4 23 or 
+F 563 3 23 white 
+F 570 3 23 this 
+F 578 3 23 is 
+F 585 2 23 my 
+F 593 3 23 fight 
+- 598
+F 604 1 23 Ah, 
+F 609 2 23 come 
+F 612 4 23 on 
+F 622 3 23 cour
+F 627 2 23 age 
+F 638 2 23 let’s 
+F 647 3 23 be 
+F 654 11 23 heard 
+- 667
+F 677 3 23 Turn 
+F 685 7 23 feel
+F 693 4 23 ings 
+F 701 3 23 in
+F 708 2 23 to 
+F 712 7 23 words 
+- 721
+F 726 1 23 A
+F 730 2 23 me
+F 733 2 23 ri
+F 738 2 23 can 
+F 741 1 23 e
+F 746 3 23 qua
+F 750 1 23 li
+F 755 2 23 ty 
+F 758 2 23 has 
+F 762 3 23 al
+F 766 2 23 ways 
+F 770 3 23 been 
+F 778 4 23 so
+F 783 6 23 ur 
+- 791
+F 799 1 23 An 
+F 802 2 23 at
+F 806 1 23 ti
+F 810 3 23 tude 
+F 818 2 23 I 
+F 821 1 23 would 
+F 825 1 23 like 
+F 829 1 23 to 
+F 833 3 23 de
+F 840 2 23 vo
+F 843 1 23 ur 
+- 846
+F 848 3 23 My 
+F 856 5 23 name 
+F 863 3 23 is 
+F 870 4 23 Peace 
+F 879 3 23 this 
+F 887 3 23 is 
+F 894 3 23 my 
+F 902 3 23 ho
+F 906 7 23 ur 
+- 915
+F 926 2 23 Can 
+F 929 2 23 I 
+F 934 3 23 get 
+F 942 1 23 just 
+F 945 1 23 a 
+F 949 2 23 lit
+F 952 3 23 tle 
+F 957 2 23 bit 
+F 960 2 23 of 
+F 966 6 23 po
+F 974 3 23 wer? 
+- 979
+: 982 6 14 Po
+: 989 7 13 ~
+: 997 6 13 wer
+: 1004 7 11 ~ 
+: 1013 5 11 of
+: 1019 5 10 ~ 
+: 1028 7 10 e
+: 1036 3 8 ~
+: 1044 6 6 qua
+: 1051 4 1 ~
+: 1058 3 1 li
+: 1066 24 1 ty 
+- 1092
+: 1113 3 12 Is 
+: 1120 4 13 not 
+: 1128 4 13 yet 
+: 1136 4 13 what 
+: 1151 4 13 it 
+: 1166 5 13 ought 
+: 1181 3 16 to 
+: 1190 6 13 be
+: 1197 27 11 ~
+: 1225 2 13 ~ 
+- 1229
+: 1236 4 13 It 
+: 1244 6 13 fills 
+: 1252 7 12 me 
+: 1261 5 12 up
+: 1267 6 11 ~ 
+: 1276 5 9 like 
+: 1284 5 8 a 
+: 1290 6 6 hol
+: 1297 5 1 ~
+: 1306 4 1 low 
+: 1315 31 1 tree 
+- 1348
+: 1360 3 13 The 
+: 1368 6 13 po
+: 1376 6 13 wer 
+: 1383 4 13 of 
+: 1397 4 13 e
+: 1413 14 13 qua
+: 1429 3 16 li
+: 1445 17 12 ty
+: 1463 23 13 ~ 
+- 1488
+F 1722 3 23 Right 
+F 1727 3 23 or 
+F 1735 7 23 wrong 
+F 1745 2 23 my 
+F 1753 5 23 song 
+F 1760 3 23 is 
+F 1769 10 23 strong 
+- 1781
+F 1789 1 23 You 
+F 1791 5 23 don’t 
+F 1799 4 23 like 
+F 1806 3 23 it 
+F 1814 3 23 get 
+F 1818 3 23 a
+F 1824 6 23 long 
+- 1832
+F 1837 5 23 Say 
+F 1846 3 23 what 
+F 1850 5 23 I 
+F 1859 3 23 want 
+F 1869 5 23 do 
+F 1877 3 23 what 
+F 1881 5 23 I 
+F 1890 8 23 can 
+- 1900
+F 1908 2 23 Death 
+F 1915 2 23 to 
+F 1919 1 23 the 
+F 1923 2 23 mes
+F 1927 1 23 sage 
+F 1930 2 23 of 
+F 1934 1 23 the 
+F 1938 3 23 Ku 
+F 1946 3 23 Klux 
+F 1954 5 23 Klan 
+- 1961
+F 1968 4 23 I 
+F 1976 4 23 don’t 
+F 1985 5 23 buy 
+F 1993 3 23 su
+F 2000 3 23 pre
+F 2004 3 23 ma
+F 2013 7 23 cy 
+- 2022
+F 2027 1 23 Ah, 
+F 2030 3 23 me
+F 2034 3 23 di
+F 2038 2 23 a 
+F 2046 4 23 chief 
+F 2053 3 23 you 
+F 2061 3 23 men
+F 2065 3 23 ace 
+F 2073 7 23 me 
+- 2082
+F 2088 1 23 The 
+F 2092 3 23 peo
+F 2096 2 23 ple 
+F 2099 4 23 you 
+F 2107 5 23 say 
+F 2115 6 23 cause 
+F 2123 6 23 all 
+F 2130 1 23 the 
+F 2135 4 23 crime 
+- 2141
+F 2145 2 23 Wake 
+F 2149 3 23 up 
+F 2161 2 23 mo
+F 2164 1 23 ther 
+F 2175 3 23 and 
+F 2185 4 23 smell 
+F 2192 1 23 the 
+F 2198 10 23 slime 
+- 2210
+F 2216 3 23 Black
+F 2221 2 23 est 
+F 2230 3 23 an
+F 2236 8 23 ger 
+F 2247 3 23 whit
+F 2251 3 23 est 
+F 2263 10 23 fear 
+- 2275
+F 2285 2 23 Can 
+F 2288 1 23 you 
+F 2293 5 23 hear 
+F 2300 3 23 me? 
+F 2307 3 23 Am 
+F 2311 5 23 I 
+F 2322 4 23 clear? 
+- 2328
+F 2332 3 23 My 
+F 2340 5 23 name 
+F 2347 4 23 is 
+F 2355 5 23 Peace 
+F 2362 3 23 this 
+F 2370 3 23 is 
+F 2378 3 23 my 
+F 2385 6 23 ho
+F 2394 5 23 ur 
+- 2401
+F 2410 3 23 Can 
+F 2414 2 23 I 
+F 2419 3 23 get 
+F 2426 2 23 just 
+F 2430 3 23 a 
+F 2434 3 23 lit
+F 2438 2 23 tle 
+F 2443 1 23 bit 
+F 2445 1 23 of 
+F 2451 6 23 po
+F 2459 4 23 wer? 
+- 2465
+: 2467 6 14 Po
+: 2474 7 13 ~
+: 2482 6 13 wer
+: 2489 7 11 ~ 
+: 2498 6 11 of
+: 2505 5 10 ~ 
+* 2514 5 10 e
+* 2520 3 8 ~
+* 2529 6 6 qua
+* 2536 7 1 ~
+* 2545 3 1 li
+* 2553 25 1 ty 
+- 2580
+: 2599 4 13 Is 
+: 2607 4 13 not 
+: 2615 4 12 yet 
+: 2623 3 13 what 
+: 2638 4 13 it 
+: 2654 5 13 ought 
+: 2669 3 16 to 
+: 2678 34 12 be 
+- 2714
+: 2724 3 13 It 
+: 2732 5 13 fills 
+: 2740 7 12 me 
+: 2748 6 12 up
+: 2755 5 10 ~ 
+: 2764 5 9 like 
+: 2771 6 7 a 
+: 2779 6 6 hol
+: 2786 6 1 ~
+: 2794 5 1 low 
+: 2802 32 1 tree 
+- 2836
+: 2849 4 13 The 
+: 2856 7 13 po
+: 2865 7 13 wer 
+: 2873 4 13 of 
+: 2887 5 13 e
+: 2902 15 13 qua
+: 2918 4 16 li
+: 2934 3 13 ty
+: 2938 28 12 ~
+: 2967 10 14 ~ 
+- 2979
+F 3457 1 23 Well 
+F 3461 2 23 I’ve 
+F 3466 3 23 got 
+F 3474 4 23 tapes 
+F 3484 3 23 I’ve 
+F 3491 3 23 got 
+F 3499 3 23 C
+F 3507 4 23 Ds 
+- 3513
+F 3515 2 23 I’ve 
+F 3523 4 23 got 
+F 3531 3 23 my 
+F 3538 3 23 Pu
+F 3545 3 23 blic 
+F 3553 3 23 E
+F 3557 5 23 ne
+F 3565 7 23 my 
+- 3574
+F 3582 2 23 My 
+F 3585 2 23 li
+F 3588 2 23 ly 
+F 3592 3 23 white 
+F 3600 4 23 ass 
+F 3608 3 23 is 
+F 3615 2 23 tick
+F 3620 3 23 led 
+F 3628 2 23 pink 
+- 3632
+F 3636 3 23 When 
+F 3644 2 23 I 
+F 3648 2 23 lis
+F 3651 1 23 ten 
+F 3655 2 23 to 
+F 3658 2 23 the 
+F 3663 2 23 mu
+F 3666 2 23 sic 
+F 3670 3 23 that 
+- 3675
+F 3677 2 23 Makes 
+F 3685 2 23 me 
+F 3693 3 23 think 
+- 3698
+F 3709 2 23 Not 
+F 3712 2 23 a
+F 3716 2 23 no
+F 3720 1 23 ther 
+F 3724 2 23 mo
+F 3727 1 23 ther 
+F 3739 6 23 po
+F 3747 2 23 li
+F 3755 1 23 ti
+F 3758 1 23 cian 
+- 3761
+F 3763 1 23 Do
+F 3765 1 23 in’ 
+F 3770 2 23 no
+F 3774 1 23 thin’ 
+F 3778 2 23 but 
+- 3782
+F 3786 2 23 Some
+F 3790 1 23 thing 
+F 3794 2 23 for 
+F 3797 2 23 his 
+F 3802 5 23 own 
+F 3809 4 23 am
+F 3818 1 23 bi
+F 3822 5 23 tion 
+- 3829
+F 3838 1 23 Ah, 
+F 3841 2 23 ne
+F 3844 1 23 ver 
+F 3849 3 23 touch 
+F 3857 3 23 the 
+F 3864 5 23 sound 
+F 3872 2 23 we 
+F 3877 2 23 make 
+- 3881
+F 3888 5 23 Soul 
+F 3896 3 23 sa
+F 3903 2 23 cred 
+F 3909 7 23 love 
+F 3919 5 23 vows 
+F 3927 3 23 that 
+F 3934 2 23 we 
+F 3938 4 23 take 
+- 3944
+F 3956 2 23 To 
+F 3961 4 23 cre
+F 3970 2 23 ate 
+F 3980 2 23 straight 
+F 3989 2 23 what 
+F 3992 4 23 is 
+F 4001 4 23 true 
+- 4007
+F 4012 3 23 Yo 
+F 4019 4 23 he’s 
+F 4026 2 23 with 
+F 4032 3 23 me 
+F 4043 4 23 and 
+F 4051 2 23 what 
+F 4054 4 23 I 
+F 4064 3 23 do 
+- 4069
+F 4074 3 23 My 
+F 4081 5 23 name 
+F 4088 3 23 is 
+F 4097 3 23 Peace 
+F 4104 2 23 this 
+F 4112 3 23 is 
+F 4120 3 23 my 
+F 4126 6 23 ho
+F 4135 5 23 ur 
+- 4142
+F 4150 2 23 Can 
+F 4154 2 23 I 
+F 4159 3 23 get 
+F 4167 2 23 just 
+F 4171 1 23 a 
+F 4175 2 23 lit
+F 4178 2 23 tle 
+F 4183 1 23 bit 
+F 4185 2 23 of 
+F 4191 7 23 po
+F 4200 4 23 wer? 
+- 4206
+: 4208 5 14 Po
+: 4214 7 13 ~
+: 4224 5 13 wer
+: 4230 8 12 ~ 
+: 4239 6 12 of
+: 4246 6 11 ~ 
+: 4255 7 10 e
+: 4263 3 8 ~
+: 4270 6 6 qua
+: 4277 5 1 ~
+: 4285 4 1 li
+: 4294 31 1 ty 
+- 4327
+: 4340 2 13 Is 
+: 4348 4 13 not 
+: 4356 4 12 yet 
+: 4364 4 13 what 
+: 4378 4 13 it 
+: 4394 6 13 ought 
+* 4409 3 16 to 
+* 4418 6 13 be
+* 4425 24 11 ~ 
+- 4451
+: 4464 3 13 It 
+: 4472 6 13 fills 
+: 4480 7 12 me 
+: 4488 6 12 up
+: 4495 7 11 ~ 
+: 4504 4 9 like 
+: 4511 4 8 a 
+: 4518 6 6 hol
+: 4525 8 1 ~
+: 4534 4 1 low 
+: 4543 34 1 tree 
+- 4579
+: 4589 4 13 The 
+: 4597 6 13 po
+: 4605 5 13 wer 
+: 4613 5 13 of 
+: 4627 6 13 e
+: 4642 15 13 qua
+: 4658 3 16 li
+: 4675 3 13 ty
+: 4679 24 11 ~
+: 4704 3 13 ~ 
+- 4709
+F 4953 3 23 Mad
+F 4957 2 23 der 
+F 4961 2 23 than 
+F 4964 2 23 a 
+F 4969 2 23 mo
+F 4972 1 23 ther 
+- 4975
+F 4985 2 23 Lick 
+F 4993 3 23 my 
+F 5001 3 23 fin
+F 5009 5 23 ger 
+- 5016
+F 5022 3 23 Can’t 
+F 5028 2 23 for
+F 5032 3 23 get 
+F 5039 2 23 ’cause 
+F 5043 1 23 the 
+F 5047 2 23 me
+F 5051 2 23 mo
+F 5055 4 23 ry 
+F 5063 3 23 lin
+F 5070 2 23 gers 
+- 5074
+F 5078 2 23 Count 
+F 5082 1 23 ’em 
+F 5085 2 23 off 
+F 5093 2 23 quick 
+F 5101 2 23 lit
+F 5104 2 23 tle 
+F 5109 1 23 Pic
+F 5113 1 23 ca
+F 5116 2 23 dil
+F 5120 2 23 ly 
+F 5125 2 23 sick
+F 5132 2 23 ness 
+- 5136
+F 5140 2 23 Take 
+F 5144 1 23 me 
+F 5148 2 23 to 
+F 5151 2 23 the 
+F 5156 2 23 hick, 
+F 5163 3 23 oh, 
+F 5171 3 23 eat 
+F 5178 2 23 my 
+F 5186 2 23 thick
+F 5193 2 23 ness 
+- 5197
+F 5201 5 23 I’ve 
+F 5209 2 23 got 
+F 5212 2 23 a 
+F 5217 3 23 welt 
+F 5225 2 23 from 
+F 5229 1 23 the 
+F 5233 5 23 Bi
+F 5241 3 23 ble 
+F 5249 4 23 Belt 
+- 5255
+F 5260 1 23 Ah, 
+F 5264 2 23 deal
+F 5268 2 23 in’ 
+F 5271 2 23 with 
+F 5275 1 23 the 
+F 5280 4 23 hand 
+F 5287 3 23 that 
+F 5295 3 23 I’ve 
+F 5300 5 23 been 
+F 5309 5 23 dealt 
+- 5316
+F 5326 2 23 Sit
+F 5329 2 23 tin’ 
+F 5333 2 23 in 
+F 5336 1 23 the 
+F 5341 3 23 grip 
+F 5349 2 23 of 
+F 5352 1 23 a 
+F 5357 3 23 kil
+F 5361 3 23 lin’ 
+F 5370 3 23 fist 
+- 5375
+F 5383 1 23 Ah, 
+F 5386 2 23 giv
+F 5391 1 23 in’ 
+F 5394 3 23 up 
+F 5403 4 23 blood 
+F 5411 3 23 just 
+F 5419 2 23 to 
+F 5422 3 23 e
+F 5430 4 23 xist 
+- 5436
+F 5450 3 23 Rub 
+F 5457 5 23 me 
+F 5465 6 23 wrong 
+F 5473 3 23 and 
+F 5480 3 23 I 
+F 5485 3 23 get 
+F 5495 5 23 pissed 
+- 5502
+F 5508 1 23 I 
+F 5511 3 23 no 
+F 5515 4 23 I 
+F 5522 1 23 I 
+F 5527 2 23 can
+F 5530 4 23 not, 
+F 5538 1 23 ah, 
+F 5542 3 23 get 
+F 5549 2 23 to 
+F 5554 4 23 this 
+- 5560
+F 5572 3 23 Peo
+F 5577 2 23 ple 
+F 5580 3 23 in 
+F 5588 6 23 pain 
+F 5596 3 23 I 
+F 5604 4 23 do 
+F 5611 4 23 not 
+F 5620 2 23 dig 
+F 5624 5 23 it 
+- 5631
+F 5638 1 23 Ah, 
+F 5641 2 23 change 
+F 5645 1 23 of 
+F 5650 4 23 brain 
+F 5658 3 23 for 
+F 5665 4 23 Mis
+F 5673 2 23 ter 
+F 5682 2 23 Bi
+F 5685 5 23 got 
+- 5692
+F 5824 2 23 Lit
+F 5827 2 23 tle 
+F 5831 4 23 bro
+F 5838 5 23 ther 
+F 5847 6 23 do 
+F 5855 4 23 you 
+F 5862 5 23 hear 
+F 5870 7 23 me? 
+- 5879
+F 5884 2 23 Have 
+F 5888 1 23 a 
+F 5892 4 23 heart, 
+F 5899 4 23 oh, 
+F 5907 4 23 come 
+F 5915 3 23 get 
+F 5923 5 23 near 
+F 5930 4 23 me 
+- 5936
+F 5939 3 23 Mi
+F 5943 8 23 se
+F 5952 5 23 ry 
+F 5960 3 23 is 
+F 5969 3 23 not 
+F 5977 3 23 my 
+F 5984 5 23 friend 
+- 5991
+F 5999 3 23 But 
+F 6003 5 23 I’ll 
+F 6014 3 23 break 
+F 6022 3 23 be
+F 6029 3 23 fore 
+F 6033 5 23 I 
+F 6043 9 23 bend 
+- 6054
+F 6067 1 23 What 
+F 6069 2 23 I 
+F 6075 5 23 see 
+F 6081 3 23 is 
+F 6085 2 23 in
+F 6091 4 23 sa
+F 6096 3 23 ni
+F 6104 8 23 ty 
+- 6114
+F 6125 2 23 What 
+F 6128 2 23 e
+F 6131 2 23 ver 
+F 6135 2 23 hap
+F 6139 1 23 pened 
+F 6143 2 23 to 
+F 6147 2 23 hu
+F 6151 3 23 ma
+F 6156 4 23 ni
+F 6163 14 23 ty? 
+- 6179
+F 6186 2 23 What 
+F 6189 2 23 e
+F 6193 1 23 ver 
+F 6196 2 23 hap
+F 6200 1 23 pened 
+F 6204 1 23 to 
+F 6206 3 23 hu
+F 6212 3 23 ma
+F 6216 3 23 ni
+F 6223 12 23 ty? 
+- 6237
+F 6246 3 23 What 
+F 6250 2 23 e
+F 6253 1 23 ver 
+F 6257 2 23 hap
+F 6261 1 23 pened 
+F 6265 2 23 to 
+F 6268 2 23 hu
+F 6272 3 23 ma
+F 6276 3 23 ni
+F 6283 22 23 ty? 
+E

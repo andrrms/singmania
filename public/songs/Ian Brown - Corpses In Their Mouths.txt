@@ -1,0 +1,282 @@
+#ARTIST:Ian Brown
+#TITLE:Corpses In Their Mouths
+#MP3:Ian Brown - Corpses In Their Mouths.mp3
+#CREATOR:daggeg
+#YEAR:1997
+#LANGUAGE:English
+#BPM:286.42
+#GAP:21510
+#VIDEO:v=u1H2GYCyUrk,co=https://images.genius.com/6bd21acb6c1c5bc2ae5eb6c0d6d13bfc.600x611x1.jpg,bg=brown-ian-4fc0c527b7ae7.jpg
+: 0 3 0 You 
+: 5 4 0 tell 
+: 16 12 3 lies 
+- 30
+: 73 3 0 When 
+: 78 2 0 the 
+: 84 3 3 truth 
+: 89 3 0 will 
+: 99 4 0 do
+: 104 4 -1 ~ 
+- 110
+: 179 3 3 You’re 
+: 184 2 0 the 
+: 189 4 3 soc
+: 194 2 3 ial 
+: 200 4 0 cha
+: 205 9 3 me
+: 215 2 0 leon 
+- 219
+: 221 3 3 What 
+: 226 2 0 on 
+* 231 3 3 earth 
+* 236 3 0 we 
+: 242 4 3 gon
+: 247 2 0 na 
+: 252 3 3 do 
+: 257 4 0 with 
+: 268 4 0 you?
+: 273 3 -1 ~ 
+- 278
+: 347 3 3 Slip 
+: 352 3 0 your 
+: 357 3 3 neck 
+: 362 3 3 in
+: 367 3 3 to 
+: 372 2 0 a 
+: 375 5 3 rope 
+- 382
+: 421 3 0 Show 
+: 425 3 0 me 
+: 431 2 0 a 
+: 436 10 3 smile, 
+- 448
+: 468 3 0 You’d 
+: 473 2 0 run 
+: 476 2 0 a 
+: 479 10 3 mile 
+- 491
+: 515 3 3 Then 
+: 520 1 0 you’re 
+: 524 4 3 free, 
+- 530
+: 531 3 3 So 
+: 536 3 3 where’s 
+: 541 1 0 the 
+* 544 11 3 goal? 
+- 556
+: 557 3 3 Where’s 
+: 562 1 0 the 
+: 565 5 3 style? 
+- 572
+: 574 3 3 You 
+: 579 3 3 want 
+: 584 1 0 the 
+: 587 7 3 dough
+: 595 6 0 ~ 
+- 603
+: 621 4 3 Got 
+: 631 3 3 dead 
+: 636 3 3 sea 
+* 645 7 3 scrolls
+* 653 6 0 ~ 
+: 663 3 0 for 
+: 668 8 0 you 
+- 678
+: 706 3 3 And 
+: 711 3 0 your 
+: 716 4 3 wo
+: 721 4 0 man 
+: 731 20 0 too 
+- 753
+: 831 3 7 She’s 
+: 836 3 7 got 
+: 841 5 8 corp
+: 847 2 7 ses 
+: 850 3 5 in 
+: 856 6 3 her 
+: 867 24 -2 mouths 
+- 893
+: 915 3 7 Still 
+: 920 3 7 she’s 
+: 926 4 8 hol
+: 931 2 7 ding 
+: 934 4 5 hands 
+: 941 6 3 with 
+: 952 24 5 you 
+- 978
+: 994 3 7 It’s 
+* 999 3 7 cut 
+* 1004 3 7 like 
+: 1010 4 8 crys
+: 1015 2 7 tal 
+: 1021 4 5 chan
+: 1026 2 3 de
+: 1029 24 -2 liers 
+- 1055
+: 1078 3 7 I’ll 
+: 1084 3 7 shine 
+: 1089 3 7 like 
+: 1094 4 8 dia
+: 1099 3 7 monds 
+: 1103 3 5 in 
+: 1109 5 3 her 
+: 1117 24 5 ears 
+- 1143
+: 1346 3 0 She 
+: 1352 4 0 smokes 
+: 1362 6 3 crack 
+- 1370
+: 1416 3 0 It’s 
+: 1421 3 3 off 
+: 1426 2 0 the 
+: 1431 4 3 bea
+: 1436 4 0 ten 
+: 1447 8 -1 track 
+- 1457
+: 1527 3 3 You’re 
+: 1532 2 0 the 
+: 1537 4 3 soc
+: 1542 2 3 ial 
+* 1547 5 0 cha
+* 1553 9 3 me
+: 1563 2 0 leon 
+- 1567
+: 1568 3 3 Yes, 
+: 1574 3 0 you 
+: 1579 3 3 change 
+: 1584 3 0 to 
+: 1589 3 3 suit 
+: 1594 2 0 the 
+: 1600 4 3 peo
+: 1605 2 0 ple 
+: 1610 4 -2 a
+: 1615 8 0 round 
+: 1626 6 -1 you 
+- 1634
+: 1689 3 0 It’s 
+: 1694 3 3 like 
+: 1699 2 0 the 
+: 1702 5 3 waves 
+: 1711 3 3 that 
+: 1715 2 3 hit 
+: 1719 2 0 the 
+: 1722 4 3 shore 
+- 1728
+: 1732 2 0 You 
+: 1736 2 3 can
+: 1740 2 0 not 
+: 1746 3 3 stand 
+: 1752 1 0 the 
+: 1755 2 3 force 
+: 1760 2 0 of 
+: 1764 3 3 law 
+- 1769
+: 1773 2 3 Look 
+: 1778 2 3 man, 
+: 1783 2 0 I 
+: 1788 2 3 know 
+: 1793 2 0 it 
+: 1796 2 3 from 
+: 1800 2 0 your 
+: 1804 3 3 na
+: 1808 2 0 ture 
+- 1812
+: 1822 2 3 Hit 
+: 1825 2 0 the 
+: 1828 3 3 deck, 
+: 1835 2 3 as 
+: 1840 2 3 the 
+: 1844 3 0 cre
+: 1848 4 3 a
+: 1853 2 0 tor 
+- 1857
+: 1970 4 3 Got 
+* 1979 3 3 dead 
+* 1984 3 3 sea 
+* 1994 7 3 scrolls
+* 2002 6 0 ~ 
+: 2011 3 0 for 
+: 2016 8 0 you 
+- 2026
+: 2053 3 3 And 
+: 2058 3 0 your 
+: 2063 4 3 wo
+: 2068 4 0 man 
+: 2078 20 0 too 
+- 2100
+: 2179 3 7 She’s 
+: 2184 3 7 got 
+: 2189 5 8 corp
+: 2195 2 7 ses 
+: 2198 2 5 in 
+: 2204 6 3 her 
+: 2214 24 -2 mouths 
+- 2240
+: 2263 3 7 Still 
+: 2268 3 7 she’s 
+: 2274 4 8 hol
+: 2279 2 7 ding 
+: 2282 4 5 hands 
+: 2289 6 3 with 
+: 2299 24 5 you 
+- 2325
+: 2343 3 7 It’s 
+: 2348 3 7 cut 
+: 2353 3 7 like 
+* 2358 4 8 crys
+* 2363 2 7 tal 
+* 2368 4 5 chan
+: 2373 2 3 de
+: 2376 25 -2 liers 
+- 2403
+: 2427 3 7 I’ll 
+: 2433 3 7 shine 
+: 2438 3 7 like 
+: 2443 4 8 dia
+: 2448 3 7 monds 
+: 2452 3 5 in 
+: 2458 5 3 her 
+: 2466 24 5 ears 
+- 2492
+: 3442 3 7 She’s 
+: 3447 3 7 got 
+: 3453 4 8 corp
+: 3458 2 7 ses 
+: 3461 2 5 in 
+: 3467 6 3 her 
+: 3477 24 -2 mouths 
+- 3503
+: 3527 3 7 Still 
+: 3532 3 7 she’s 
+: 3537 4 8 hol
+: 3542 2 7 ding 
+: 3545 4 5 hands 
+: 3552 6 3 with 
+: 3562 24 5 you 
+- 3588
+: 3606 3 7 It’s 
+: 3611 3 7 cut 
+: 3616 3 7 like 
+: 3622 4 8 crys
+: 3627 2 7 tal 
+: 3632 4 5 chan
+: 3637 2 3 de
+: 3640 24 -2 liers 
+- 3666
+: 3691 3 7 I’ll 
+: 3697 3 7 shine 
+: 3702 3 7 like 
+: 3707 4 8 dia
+: 3712 3 7 monds 
+: 3716 3 5 in 
+: 3721 4 3 her 
+: 3727 24 5 ears 
+- 3753
+* 3949 3 7 She’s 
+* 3954 3 7 got 
+* 3959 4 8 corp
+* 3964 2 7 ses 
+* 3967 2 5 in 
+* 3973 6 3 her 
+* 3982 24 -2 mouth 
+E

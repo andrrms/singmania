@@ -1,0 +1,698 @@
+#ARTIST:Ciara
+#TITLE:Like A Boy (Skyrock Version)
+#MP3:Ciara - Like A Boy (Skyrock Version).mp3
+#CREATOR:TicaTica
+#YEAR:2006
+#LANGUAGE:English
+#BPM:270.2
+#GAP:13580
+#VIDEO:a=zhBo8wRqXA8,co=like-a-boy-622e4973d1a17.jpg,bg=ciara-50c1789db59af.jpg
+F 0 12 7 C
+F 32 14 7 I
+F 64 14 7 A
+F 89 7 7 R
+F 97 7 7 A 
+F 105 1 7 come 
+F 107 1 1 on 
+- 109
+: 109 1 3 Pull 
+: 111 1 4 up 
+: 113 1 3 your 
+: 115 10 7 pants 
+: 126 3 3 just 
+: 130 3 4 like 
+: 134 3 3 him 
+- 138
+: 138 2 3 Take 
+: 141 2 3 out 
+: 144 1 3 the 
+: 146 11 7 trash 
+: 158 3 3 just 
+: 162 3 3 like 
+: 166 3 3 him 
+- 170
+: 170 2 3 Get
+: 173 1 3 ting 
+: 175 2 3 your 
+: 178 7 4 cash 
+: 186 3 2 like 
+: 190 3 3 him 
+: 194 7 2 fast 
+: 202 3 3 like 
+: 206 2 7 him 
+- 209
+: 209 3 2 Girl 
+: 213 1 1 you 
+: 215 1 2 wan
+: 217 1 3 na 
+: 219 1 3 act 
+: 221 1 3 like 
+: 223 1 3 he 
+: 225 5 3 did 
+- 231
+: 231 1 2 I’m 
+: 233 2 3 tal
+: 236 1 4 king 
+: 238 8 12 ’bout 
+: 248 1 11 se
+: 250 3 12 cu
+: 254 1 12 ri
+: 256 1 7 ty 
+: 258 4 3 codes 
+: 263 2 3 on 
+: 266 1 3 ev
+: 268 2 3 ery
+: 271 3 7 thing 
+- 275
+: 275 2 4 On 
+: 278 3 7 vi
+: 282 2 7 brate 
+: 285 1 7 so 
+: 287 2 7 your 
+: 290 3 7 phone 
+: 294 3 7 don’t 
+: 298 1 7 e
+: 300 1 7 ver 
+: 302 8 7 ring
+: 311 7 2 ~ 
+- 319
+: 319 3 7 A 
+: 323 1 7 fo
+: 325 1 7 reign 
+: 327 1 7 ac
+: 329 4 7 count 
+- 334
+: 334 1 7 And 
+: 336 1 7 a
+: 338 1 3 no
+: 340 1 4 ther 
+: 342 2 7 one 
+: 345 4 7 he 
+: 350 3 7 don’t 
+: 354 2 3 know 
+: 357 1 7 a
+: 359 10 7 bout 
+- 371
+: 374 3 11 Wish 
+: 378 3 7 we 
+: 382 1 7 could 
+: 384 5 7 switch 
+: 390 3 7 up 
+: 394 3 7 the 
+: 398 8 4 roles 
+: 407 2 8 and 
+: 410 3 12 I 
+: 414 2 7 could 
+: 417 7 8 be 
+: 425 11 7 that 
+- 437
+: 437 3 7 Tell 
+: 441 3 7 you 
+: 445 3 7 I 
+: 449 4 7 love 
+: 454 3 7 you 
+: 458 3 7 but 
+: 462 1 4 when 
+: 464 1 3 you 
+: 466 7 7 call 
+: 474 2 7 I 
+: 477 2 7 ne
+: 480 1 7 ver 
+: 482 6 7 get 
+: 489 8 7 back 
+- 499
+: 502 1 7 Would 
+: 504 1 5 you 
+: 506 3 7 ask 
+: 510 2 7 them 
+: 513 4 7 ques
+: 518 3 7 tions 
+: 522 3 7 like 
+: 526 6 3 me 
+: 533 3 3 like 
+: 537 3 12 ’Where 
+: 541 4 12 you 
+: 546 7 7 be 
+: 554 4 7 at?’ 
+- 559
+: 559 1 7 ’Cuz 
+: 561 1 7 I’m 
+: 563 4 6 out 
+: 569 3 7 four 
+: 573 2 4 in 
+: 576 2 7 the 
+: 579 2 7 mor
+: 582 3 7 ning 
+- 586
+: 586 1 7 On 
+: 588 1 7 the 
+: 590 1 7 cor
+: 592 1 7 ner 
+: 594 2 7 rol
+: 597 4 7 ling 
+: 602 1 7 do
+: 604 3 7 ing 
+: 608 3 7 my 
+: 612 4 7 own 
+: 617 4 7 thing 
+- 622
+: 622 1 11 What 
+: 624 2 7 if 
+: 627 16 8 I 
+: 644 2 7 had 
+: 647 1 7 a 
+: 649 4 7 thing 
+: 654 1 7 on 
+: 656 1 7 the 
+: 658 21 8 side 
+: 680 4 11 made 
+: 685 3 7 you 
+: 689 22 8 cry 
+- 713
+: 716 2 4 Would 
+: 719 1 4 the 
+: 721 4 4 rules 
+: 726 3 4 change 
+: 730 2 6 up 
+: 733 2 7 or 
+: 736 3 7 would 
+: 740 3 7 they 
+: 744 6 5 still 
+: 751 1 7 ap
+: 753 19 7 ply 
+- 774
+: 780 4 7 If 
+: 785 12 8 I 
+: 799 6 7 played 
+: 806 2 7 you 
+: 809 4 7 like 
+: 814 2 7 a 
+: 817 21 8 toy? 
+- 840
+: 844 4 7 Some
+: 849 5 4 times 
+: 855 2 3 I 
+: 858 3 7 wish 
+: 862 2 7 I 
+: 865 3 7 could 
+: 869 4 6 act 
+: 874 3 3 like 
+: 878 2 7 a 
+: 881 9 7 boy 
+- 891
+F 891 1 7 Can’t 
+F 893 1 7 be 
+F 895 1 7 get
+F 897 1 7 ting 
+F 899 6 7 mad 
+F 906 3 7 but 
+F 910 3 7 you 
+F 914 7 7 mad 
+F 922 4 7 can’t 
+F 927 5 7 han
+F 933 4 7 dle 
+F 938 6 7 that? 
+- 945
+F 945 5 7 Can’t 
+F 951 2 7 be 
+F 954 2 7 get
+F 957 2 7 ting 
+F 960 8 7 mad 
+F 969 3 7 but 
+F 973 3 7 you 
+F 977 7 7 mad 
+F 985 4 7 can’t 
+F 990 5 7 han
+F 996 1 7 dle 
+F 998 1 7 that? 
+- 1000
+: 1000 1 11 Girl 
+: 1002 1 11 go 
+: 1004 1 7 a
+: 1006 1 12 head 
+: 1008 1 12 and 
+: 1010 10 2 be 
+: 1021 4 7 just 
+: 1026 2 7 like 
+: 1029 1 7 him 
+- 1031
+: 1031 1 12 Go 
+: 1033 3 12 run 
+: 1037 3 1 the 
+: 1041 12 7 streets 
+: 1054 3 7 just 
+: 1058 2 10 like 
+: 1061 1 2 him 
+- 1063
+: 1063 1 4 Go 
+: 1065 2 12 home 
+: 1068 2 3 mis
+: 1071 1 3 sin’ 
+: 1073 8 2 sleep 
+: 1082 2 2 like 
+: 1085 3 3 ’em 
+: 1089 7 2 creep 
+: 1097 3 2 like 
+: 1101 3 3 ’em 
+- 1105
+: 1105 3 2 Front 
+: 1109 1 2 wit’ 
+: 1111 1 1 yo’ 
+: 1113 5 2 friends 
+: 1119 3 2 act 
+: 1123 2 3 hard 
+: 1126 1 2 when 
+: 1128 1 2 you 
+: 1130 1 2 with 
+: 1132 1 3 them 
+: 1134 1 2 like 
+: 1136 4 2 him 
+- 1142
+: 1145 1 12 Keep 
+: 1147 1 4 a 
+: 1149 3 4 straight 
+: 1153 4 2 face 
+: 1158 1 2 when 
+: 1160 1 2 you 
+: 1162 2 2 tell 
+: 1165 1 3 a 
+: 1167 6 3 lie 
+- 1174
+: 1174 2 12 Al
+: 1177 4 11 ways 
+: 1182 1 7 keep 
+: 1184 1 7 an 
+: 1186 3 7 air 
+: 1190 3 7 tight 
+: 1194 1 7 a
+: 1196 1 7 li
+: 1198 4 7 bi
+: 1203 3 7 ~ 
+- 1208
+: 1214 1 7 Keep 
+: 1216 1 4 it 
+: 1218 2 7 hid 
+: 1221 1 7 in 
+: 1223 1 7 the 
+: 1225 7 7 dark 
+- 1233
+: 1233 2 7 What 
+: 1236 1 7 he 
+: 1238 1 7 don’t 
+: 1240 5 4 know 
+: 1246 2 7 won’t 
+: 1249 4 4 break 
+: 1254 1 3 his 
+: 1256 11 7 heart 
+- 1268
+: 1270 3 11 Wish 
+: 1274 3 7 we 
+: 1278 1 7 could 
+: 1280 5 7 switch 
+: 1286 3 7 up 
+: 1290 3 7 the 
+: 1294 8 4 roles 
+: 1303 2 8 and 
+: 1306 3 12 I 
+: 1310 2 7 could 
+: 1313 7 8 be 
+: 1321 11 7 that 
+- 1333
+: 1333 3 7 Tell 
+: 1337 3 11 you 
+: 1341 2 11 I 
+: 1344 5 11 love 
+: 1350 3 11 you 
+: 1354 2 7 but 
+: 1357 1 7 when 
+: 1359 1 7 you 
+: 1361 8 6 call 
+: 1370 2 7 I 
+: 1373 1 11 ne
+: 1375 2 11 ver 
+: 1378 6 11 get 
+: 1386 6 11 back 
+- 1394
+: 1397 2 11 Would 
+: 1400 2 9 you 
+: 1403 3 7 ask 
+: 1407 2 7 them 
+: 1410 3 7 ques
+: 1414 2 7 tions 
+: 1417 4 7 like 
+: 1422 7 4 me 
+: 1430 2 12 like 
+: 1433 3 12 ’Where 
+: 1437 3 7 you 
+: 1441 8 12 be 
+: 1450 2 7 at?’ 
+- 1453
+: 1455 1 7 ’Cuz 
+: 1457 1 7 I’m 
+: 1459 4 6 out 
+: 1465 3 7 four 
+: 1469 2 4 in 
+: 1472 2 7 the 
+: 1475 2 7 mor
+: 1478 3 7 ning 
+- 1482
+: 1482 1 7 On 
+: 1484 1 7 the 
+: 1486 1 7 cor
+: 1488 1 10 ner 
+: 1490 2 10 rol
+: 1493 4 7 ling 
+: 1498 1 7 do
+: 1500 3 7 ing 
+: 1504 3 7 my 
+: 1508 4 10 own 
+: 1513 4 10 thing 
+- 1518
+: 1518 1 11 What 
+: 1520 2 7 if 
+: 1523 16 8 I 
+: 1540 2 7 had 
+: 1543 1 7 a 
+: 1545 4 7 thing 
+: 1550 1 7 on 
+: 1552 1 7 the 
+: 1554 21 8 side 
+: 1576 4 11 made 
+: 1581 3 7 you 
+: 1585 22 8 cry 
+- 1609
+: 1612 2 6 Would 
+: 1615 1 4 the 
+: 1617 4 3 rules 
+: 1622 3 3 change 
+: 1626 2 7 up 
+: 1629 2 7 or 
+: 1632 3 7 would 
+: 1636 3 3 they 
+: 1640 6 3 still 
+: 1647 1 7 ap
+: 1649 19 7 ply 
+- 1670
+: 1676 4 3 If 
+: 1681 12 7 I 
+: 1695 6 7 played 
+: 1702 2 11 you 
+: 1705 4 7 like 
+: 1710 2 7 a 
+: 1713 21 7 toy? 
+- 1736
+: 1740 4 7 Some
+: 1745 5 4 times 
+: 1751 2 3 I 
+: 1754 3 7 wish 
+: 1758 2 7 I 
+: 1761 3 7 could 
+: 1765 4 6 act 
+: 1770 3 3 like 
+: 1774 2 7 a 
+: 1777 9 7 boy 
+- 1787
+F 1787 1 7 Can’t 
+F 1789 1 7 be 
+F 1791 1 7 get
+F 1793 1 7 ting 
+F 1795 6 7 mad 
+F 1802 3 7 but 
+F 1806 3 7 you 
+F 1810 7 7 mad 
+F 1818 4 7 can’t 
+F 1823 5 7 han
+F 1829 4 7 dle 
+F 1834 4 7 that? 
+- 1839
+F 1841 5 7 Can’t 
+F 1847 2 7 be 
+F 1850 2 7 get
+F 1853 2 7 ting 
+F 1856 8 7 mad 
+F 1865 3 7 but 
+F 1869 3 7 you 
+F 1873 7 7 mad 
+F 1881 4 7 can’t 
+F 1886 5 7 han
+F 1892 4 7 dle 
+F 1897 8 7 that? 
+- 1906
+F 1906 5 7 Can’t 
+F 1912 2 7 be 
+F 1915 2 7 get
+F 1918 2 7 ting 
+F 1921 8 7 mad 
+F 1930 3 7 but 
+F 1934 3 7 you 
+F 1938 7 7 mad 
+F 1946 4 7 can’t 
+F 1951 5 7 han
+F 1957 4 7 dle 
+F 1962 7 7 that? 
+- 1970
+F 1970 5 7 Can’t 
+F 1976 2 7 be 
+F 1979 2 7 get
+F 1982 2 7 ting 
+F 1985 8 7 mad 
+F 1994 3 7 but 
+F 1998 3 7 you 
+F 2002 7 7 mad 
+F 2010 4 7 can’t 
+F 2015 5 7 han
+F 2021 4 7 dle 
+F 2026 6 7 that? 
+- 2033
+: 2034 3 8 If 
+: 2038 1 7 I 
+: 2040 1 1 was 
+: 2042 3 7 al
+: 2046 2 7 ways 
+: 2049 9 10 gone 
+: 2059 1 7 hit 
+: 2061 1 7 the 
+: 2063 9 10 sun 
+: 2073 3 7 get
+: 2077 2 7 ting 
+: 2080 12 10 home 
+- 2094
+: 2106 3 7 Told 
+: 2110 3 4 you 
+: 2114 3 4 I 
+: 2118 3 5 was 
+: 2122 3 7 with 
+: 2126 2 4 my 
+: 2129 9 6 crew 
+: 2139 3 7 when 
+: 2143 1 7 I 
+: 2145 4 7 knew 
+: 2150 1 7 it 
+: 2152 4 7 was
+: 2157 3 7 n’t 
+: 2161 4 7 true 
+- 2166
+: 2166 1 7 If 
+: 2168 1 7 I 
+: 2170 2 7 act 
+: 2173 4 12 like 
+: 2178 9 12 you 
+: 2189 1 7 walk 
+: 2191 1 7 a 
+: 2193 6 12 mile 
+: 2200 2 7 off 
+: 2203 2 7 in 
+: 2206 1 7 your 
+: 2208 14 12 shoes 
+- 2224
+: 2226 3 9 Mes
+: 2230 3 9 sing 
+: 2234 2 9 with 
+: 2237 3 9 your 
+: 2241 5 7 head 
+: 2247 2 7 a
+: 2250 7 4 gain 
+: 2258 4 9 dose 
+: 2263 1 7 of 
+: 2265 4 7 your 
+: 2270 2 7 own 
+: 2273 3 6 me
+: 2277 1 6 di
+: 2279 7 4 cine 
+- 2287
+: 2287 1 7 What 
+: 2289 2 7 if 
+: 2292 16 7 I 
+: 2309 2 7 had 
+: 2312 1 7 a 
+: 2314 4 7 thing 
+: 2319 1 7 on 
+: 2321 1 7 the 
+: 2323 21 7 side 
+: 2345 4 7 made 
+: 2350 3 7 you 
+: 2354 22 7 cry 
+- 2378
+: 2381 2 5 Would 
+: 2384 1 3 the 
+: 2386 4 3 rules 
+: 2391 3 5 change 
+: 2395 2 7 up 
+: 2398 2 7 or 
+: 2401 3 7 would 
+: 2405 3 3 they 
+: 2409 6 3 still 
+: 2416 1 7 ap
+: 2418 19 7 ply 
+- 2439
+: 2445 4 10 If 
+: 2450 12 12 I 
+: 2464 6 7 played 
+: 2471 2 7 you 
+: 2474 4 7 like 
+: 2479 2 7 a 
+: 2482 21 7 toy? 
+- 2505
+: 2509 4 4 Some
+: 2514 5 3 times 
+: 2520 2 7 I 
+: 2523 3 7 wish 
+: 2527 2 7 I 
+: 2530 3 7 could 
+: 2534 4 7 act 
+: 2539 3 7 like 
+: 2543 2 7 a 
+: 2546 9 7 boy 
+- 2556
+F 2556 1 7 Can’t 
+F 2558 1 7 be 
+F 2560 1 7 get
+F 2562 1 7 ting 
+F 2564 6 7 mad 
+F 2571 3 7 but 
+F 2575 3 7 you 
+F 2579 7 7 mad 
+F 2587 4 7 can’t 
+F 2592 5 7 han
+F 2598 4 7 dle 
+F 2603 4 7 that? 
+- 2608
+F 2609 5 7 Can’t 
+F 2615 2 7 be 
+F 2618 2 7 get
+F 2621 2 7 ting 
+F 2624 8 7 mad 
+F 2633 3 7 but 
+F 2637 3 7 you 
+F 2641 7 7 mad 
+F 2649 4 7 can’t 
+F 2654 5 7 han
+F 2660 4 7 dle 
+F 2665 8 7 that? 
+- 2674
+F 2674 5 7 Can’t 
+F 2680 2 7 be 
+F 2683 2 7 get
+F 2686 2 7 ting 
+F 2689 8 7 mad 
+F 2698 3 7 but 
+F 2702 3 7 you 
+F 2706 7 7 mad 
+F 2714 4 7 can’t 
+F 2719 5 7 han
+F 2725 4 7 dle 
+F 2730 7 7 that? 
+- 2738
+F 2738 5 7 Can’t 
+F 2744 2 7 be 
+F 2747 2 7 get
+F 2750 2 7 ting 
+F 2753 8 7 mad 
+F 2762 3 7 but 
+F 2766 3 7 you 
+F 2770 7 7 mad 
+F 2778 4 7 can’t 
+F 2783 5 7 han
+F 2789 4 7 dle 
+F 2794 5 7 that? 
+- 2800
+F 2800 1 7 C
+F 2802 1 7 I
+F 2804 7 7 A
+F 2812 4 7 R
+F 2817 8 7 A 
+F 2826 12 7 go 
+- 2840
+F 2892 2 7 Here’s 
+F 2895 3 7 the 
+F 2899 12 7 clutch 
+- 2913
+F 2920 2 7 If 
+F 2923 1 7 I 
+F 2925 4 7 paged 
+F 2930 6 7 you 
+F 2941 1 7 would 
+F 2943 1 7 you 
+F 2945 2 7 like 
+F 2948 7 7 that? 
+- 2956
+F 2956 5 7 Had 
+F 2962 9 7 friends 
+F 2973 1 7 would 
+F 2975 1 7 you 
+F 2977 2 7 like 
+F 2980 8 7 that? 
+- 2989
+F 2990 1 7 With 
+F 2992 1 7 a 
+F 2994 7 7 car 
+F 3004 2 7 would 
+F 3007 1 7 you 
+F 3009 3 7 like 
+F 3013 7 7 that? 
+- 3021
+F 3021 4 7 Hell 
+F 3026 6 7 nah 
+F 3035 2 7 you 
+F 3038 1 7 would
+F 3040 1 7 n’t 
+F 3042 3 7 like 
+F 3046 1 7 that 
+F 3048 10 7 no 
+- 3060
+: 3096 5 6 What 
+: 3102 3 2 if 
+: 3106 6 3 I
+: 3113 3 7 ~
+: 3117 11 7 ~ 
+: 3129 4 7 made 
+: 3134 4 7 you 
+: 3139 21 7 cry 
+: 3169 4 7 would 
+: 3174 2 7 they 
+: 3177 5 7 still 
+: 3183 1 11 ap
+: 3185 6 20 ply? 
+- 3192
+: 3192 3 9 What 
+: 3196 1 7 if 
+: 3198 5 9 I 
+: 3214 3 7 if 
+: 3218 12 9 I 
+: 3233 4 7 played 
+: 3238 2 10 you 
+: 3241 3 7 like 
+: 3245 1 7 a 
+: 3247 20 9 toy? 
+- 3269
+: 3275 4 7 Some
+: 3280 5 7 times 
+: 3286 2 7 I 
+: 3289 3 7 wish 
+: 3293 2 7 I 
+: 3296 3 7 could 
+: 3300 4 7 act 
+: 3305 3 7 like 
+: 3309 2 7 a 
+: 3312 10 7 boy 
+E

@@ -1,0 +1,180 @@
+#ARTIST:Tito & Tarantula
+#TITLE:After Dark
+#MP3:Tito & Tarantula - After Dark.mp3
+#CREATOR:Gurkenwasser
+#COVER:Tito & Tarantula - After Dark [CO].jpg
+#BACKGROUND:Tito & Tarantula - After Dark [BG].jpg
+#GENRE:Blues
+#YEAR:1996
+#LANGUAGE:English
+#BPM:403.22
+#GAP:21160
+#VIDEO:v=jWaQQl4himI,co=https://i.discogs.com/goI4fNZU6QQYw9fncEAD17BhxU-O73fyFD5uMgeMonk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzEy/NDYtMTQyMzQ3NTM0/OC0zODY5LmpwZWc.jpeg,co-crop=3-0-597-597,bg=tito--tarantula-4e9ae9c21f21f.jpg
+: 0 31 6 Wat
+: 32 22 11 ching 
+* 56 26 14 her 
+- 84
+: 94 13 13 Strol
+: 108 12 11 ling 
+: 122 8 9 in 
+: 132 4 9 the 
+: 138 20 6 night 
+: 176 6 11 so 
+: 184 20 14 white 
+- 206
+: 222 11 -1 Won
+: 234 3 -1 de
+: 238 18 -1 ring 
+* 272 7 2 why
+* 280 7 1 ~
+* 288 20 -1 ~ 
+- 310
+: 314 14 -1 It’s 
+* 330 7 6 on
+* 338 18 4 ly 
+: 358 11 2 af
+: 370 14 1 ter 
+: 386 7 1 da
+: 394 28 -1 ~rk 
+- 424
+: 638 34 6 In 
+: 686 8 11 her 
+: 696 24 14 eyes 
+- 722
+: 728 4 11 A 
+: 736 7 13 dis
+: 744 12 11 tant 
+: 758 9 9 fi
+: 768 8 9 re 
+: 778 28 6 light 
+* 816 14 11 burns 
+* 832 20 14 bright 
+- 854
+: 862 9 -1 Won
+: 872 3 -1 de
+: 876 12 -1 ring 
+* 910 7 2 why
+* 918 7 1 ~
+* 926 20 -1 ~ 
+- 948
+: 952 12 -1 It’s 
+: 968 9 6 on
+: 978 18 4 ly 
+: 998 9 2 af
+: 1008 7 1 te
+: 1016 8 -1 ~r 
+: 1026 7 1 da
+: 1034 26 -1 ~rk 
+- 1062
+* 1290 12 4 Find 
+* 1303 10 4 my
+* 1314 24 2 self 
+* 1347 9 4 in 
+* 1357 7 -1 her 
+* 1365 17 2 room 
+- 1384
+: 1421 7 4 Feel 
+: 1429 6 -1 the 
+: 1436 8 2 fe
+* 1445 20 6 ver 
+: 1479 12 4 of 
+: 1492 8 -1 my
+: 1501 6 2 ~ 
+: 1509 27 2 doom 
+- 1538
+: 1547 10 6 Fal
+: 1558 13 6 ling, 
+: 1573 12 4 fal
+: 1586 16 1 ling 
+: 1604 7 6 through 
+: 1612 5 6 the 
+: 1619 13 4 floo
+: 1633 11 1 ~r 
+- 1646
+: 1670 6 6 I’m 
+: 1677 6 6 knoc
+: 1684 8 6 king 
+: 1694 9 6 on 
+: 1704 15 6 the 
+: 1726 8 6 de
+: 1735 12 6 vil’s 
+: 1748 14 6 door 
+* 1763 16 6 yeah
+* 1780 3 4 ~
+* 1784 3 2 ~
+* 1788 12 -1 ~ 
+- 1802
+: 3720 9 4 Bur
+: 3730 13 4 ning, 
+: 3744 12 2 bur
+: 3757 16 -1 ning 
+: 3777 7 4 in 
+: 3786 5 4 the 
+: 3793 10 2 fla
+: 3804 15 -1 ~me 
+- 3821
+: 3848 9 4 Now 
+: 3858 10 4 I 
+: 3869 16 2 know 
+: 3888 16 -1 her 
+: 3911 11 4 se
+: 3923 10 4 cret 
+: 3934 24 2 name 
+- 3960
+: 3975 8 5 You 
+: 3984 8 7 can 
+: 3993 15 7 tear 
+: 4009 12 7 her 
+: 4024 15 7 tem
+: 4040 8 7 ple 
+: 4049 26 7 down 
+- 4077
+: 4096 6 7 But 
+: 4103 9 7 she’ll 
+: 4113 7 7 be 
+: 4121 17 7 back 
+: 4143 15 7 and 
+: 4159 10 7 rule 
+: 4170 3 7 a
+: 4174 16 7 gain 
+: 4191 16 7 yeah
+: 4208 4 5 ~
+: 4213 5 3 ~ 
+- 4220
+: 4345 43 6 In 
+: 4389 11 11 my 
+: 4401 23 14 heart 
+- 4426
+: 4429 7 11 A 
+: 4437 10 13 deep 
+: 4448 12 11 and 
+: 4461 9 9 dark 
+: 4471 8 9 and 
+: 4480 32 6 lone
+: 4513 10 11 ly 
+: 4524 30 14 part 
+- 4556
+: 4574 18 -1 Wants 
+: 4593 22 -1 her 
+: 4652 18 -1 and 
+: 4671 15 6 waits 
+: 4687 12 4 for 
+: 4701 9 2 af
+: 4711 11 1 ter 
+: 4725 7 1 da
+: 4733 22 -1 ~rk 
+- 4757
+: 4765 13 -3 Af
+: 4779 14 -1 ter 
+: 4795 20 -1 dark 
+- 4817
+: 4829 14 -3 Af
+: 4844 15 -1 ter 
+: 4860 8 2 da
+: 4869 7 1 ~
+: 4877 13 -1 ~rk 
+- 4892
+* 4900 9 -3 Af
+* 4910 17 -1 ter 
+* 4941 298 6 dark … 
+E

@@ -1,0 +1,213 @@
+#ARTIST:Hooverphonic
+#TITLE:Vinegar & Salt (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - Vinegar & Salt (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - Vinegar & Salt (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - Vinegar & Salt (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300.15
+#GAP:40870
+#VIDEO:v=V6HaijesNEE,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 4 -1 I
+: 6 6 1 ~ 
+- 32
+: 84 6 -1 Like 
+: 93 2 -3 the 
+: 97 8 -1 things 
+: 108 6 -3 that 
+: 119 4 -1 you
+: 124 3 1 ~ 
+: 130 2 -1 hate
+: 133 10 1 ~ 
+- 183
+: 247 8 -6 And 
+: 259 1 -1 you
+: 261 14 1 ~ 
+- 295
+: 342 3 -1 Hate 
+: 346 4 -3 the 
+: 353 7 -1 things 
+: 363 8 -3 that 
+: 374 5 -1 I
+: 381 3 -3 ~ 
+: 385 3 -1 like
+: 389 57 1 ~
+: 447 6 3 ~
+: 454 10 5 ~ 
+- 474
+: 491 6 1 But 
+: 502 4 5 it 
+: 512 12 6 hurts 
+- 564
+: 609 4 8 Ho
+: 614 4 8 nes
+: 619 7 5 ty’s 
+: 629 7 5 your 
+: 640 2 5 church
+* 644 61 6 ~
+* 706 3 6 ~
+* 710 8 8 ~ 
+- 758
+: 821 7 3 But 
+: 833 3 5 some
+: 838 4 6 ~
+: 845 11 6 times 
+- 896
+: 938 2 6 It’s 
+: 941 2 8 bet
+: 944 5 9 ~
+: 951 3 9 ter
+: 955 3 6 ~ 
+: 961 6 6 to 
+* 970 6 6 lie
+* 978 58 9 ~
+* 1037 6 6 ~
+* 1044 11 8 ~ 
+- 1065
+: 1080 7 3 But 
+: 1092 3 5 some
+: 1097 4 6 ~
+: 1104 11 6 times 
+- 1135
+: 1193 2 6 It’s 
+: 1197 3 8 bet
+: 1201 4 9 ~
+: 1206 3 9 ter
+: 1210 3 6 ~ 
+: 1216 7 6 to 
+: 1225 5 6 lie
+: 1232 58 9 ~
+: 1291 6 6 ~
+: 1298 11 8 ~ 
+- 1329
+: 1356 5 -1 I
+: 1364 11 1 ~ 
+- 1395
+: 1445 3 -1 Am 
+: 1451 2 -3 the 
+: 1455 2 -1 vi
+: 1458 2 -3 ne
+: 1461 2 -1 gar 
+: 1473 3 -1 and
+: 1477 4 1 ~ 
+: 1485 11 1 salt 
+- 1536
+: 1605 6 -6 And 
+: 1616 21 1 you 
+- 1657
+: 1699 3 -1 Are 
+: 1704 2 -3 the 
+: 1709 2 -1 oil
+: 1712 5 -3 ~ 
+: 1719 7 -3 that 
+: 1730 3 -1 dis
+: 1734 2 -3 ~
+: 1740 2 -1 solves
+: 1743 62 1 ~
+: 1806 4 4 ~
+: 1812 14 5 ~ 
+- 1836
+: 1848 9 1 My 
+: 1859 4 5 frus
+: 1869 6 6 tra
+: 1880 13 6 tion 
+- 1913
+: 1959 3 8 Ho
+: 1963 3 8 nes
+: 1967 4 5 ty 
+: 1973 3 5 has 
+* 1979 2 5 li
+* 1982 2 5 mi
+* 1985 3 5 ta
+* 1989 4 6 ~
+* 1997 73 6 tions
+* 2071 8 7 ~
+* 2081 137 8 ~ 
+- 2238
+: 2287 8 3 But 
+: 2300 3 5 some
+: 2305 4 6 ~
+: 2312 11 6 times 
+- 2343
+: 2403 2 9 It’s 
+: 2408 8 9 bet
+: 2417 9 9 ter 
+: 2427 8 6 to 
+: 2436 9 6 lie
+: 2448 53 9 ~
+: 2503 6 6 ~
+: 2510 11 8 ~ 
+- 2531
+: 2544 7 3 But 
+: 2556 3 5 some
+: 2561 3 6 ~
+: 2567 12 6 times 
+- 2599
+: 2654 2 6 It’s 
+: 2658 3 8 bet
+: 2662 4 9 ~
+: 2668 3 9 ter
+: 2672 3 8 ~ 
+: 2676 8 6 to 
+: 2687 7 6 lie
+: 2697 48 9 ~
+: 2748 3 6 ~
+: 2753 28 8 ~
+: 2782 5 6 ~ 
+- 2799
+* 2803 9 1 I 
+: 2815 5 -1 am 
+: 2823 6 -3 the 
+* 2832 4 1 vi
+* 2837 5 1 ne
+: 2843 6 -1 gar 
+: 2851 7 -3 and 
+* 2861 9 1 salt 
+: 2871 7 -1 and 
+: 2881 7 -3 you 
+* 2890 8 1 are
+: 2899 8 -1 ~ 
+: 2909 4 -3 the 
+- 2917
+* 2919 9 1 Oil 
+: 2929 6 -1 that 
+: 2938 5 -3 dis
+* 2948 7 1 solves 
+: 2957 8 -1 my 
+: 2968 6 -3 frus
+* 2977 7 1 tra
+: 2986 7 -1 tions, 
+: 2996 4 -3 li
+: 3001 4 -3 mi
+* 3008 4 1 ta
+: 3014 9 -1 tions 
+- 3032
+* 3035 9 1 I 
+: 3047 5 -1 am 
+: 3055 6 -3 the 
+* 3064 4 1 vi
+* 3069 5 1 ne
+: 3075 6 -1 gar 
+: 3083 7 -3 and 
+* 3093 9 1 salt 
+: 3103 7 -1 and 
+: 3113 7 -3 you 
+* 3122 8 1 are
+: 3131 8 -1 ~ 
+: 3143 1 -3 the 
+- 3150
+* 3152 9 1 Oil 
+: 3162 6 -1 that 
+: 3171 5 -3 dis
+* 3181 7 1 solves 
+: 3190 8 -1 my 
+: 3201 6 -3 frus
+* 3210 7 0 tra
+: 3219 6 -1 tions, 
+: 3229 5 -3 li
+: 3235 4 -3 mi
+* 3241 4 1 ta
+: 3246 3 -1 ~
+: 3251 21 -1 tions 
+E

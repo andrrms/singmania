@@ -1,0 +1,142 @@
+#ARTIST:Yu Gi Oh 5d’s
+#TITLE:Hyperdrive (TV)
+#MP3:Yu Gi Oh 5d’s - Hyperdrive (TV).mp3
+#CREATOR:omega-xis
+#GENRE:Anime
+#YEAR:2008
+#LANGUAGE:English
+#BPM:359.6
+#GAP:6400
+#VIDEO:v=JIEAujHy_g0,co=https://i1.sndcdn.com/artworks-000159539876-vbd9d5-t500x500.jpg
+: 0 5 24 Go
+: 6 5 24 ing 
+: 12 16 1 fast 
+: 30 6 1 makes 
+: 38 6 1 me 
+: 46 7 1 feel 
+: 54 8 1 a
+: 64 7 1 li
+: 72 3 1 ve 
+- 75
+: 76 3 1 My 
+: 80 8 1 heart 
+: 90 19 1 beats 
+: 110 12 1 in 
+: 124 5 1 Hy
+: 130 3 1 per
+: 134 12 1 Drive 
+- 146
+: 148 3 1 Do 
+: 152 3 1 you 
+: 156 8 1 think 
+: 166 3 1 you 
+: 170 3 1 can 
+: 174 7 1 win 
+: 182 15 1 only 
+: 198 7 1 if 
+: 206 7 1 I 
+: 214 15 1 lose 
+- 229
+: 230 9 1 Just 
+: 240 11 19 let 
+: 252 4 1 des
+: 258 3 1 ti
+: 262 6 1 ny 
+: 270 12 1 choose 
+- 288
+: 290 19 3 I 
+: 310 12 4 can 
+: 324 5 12 hear 
+: 330 11 29 you 
+: 342 7 25 brea
+: 350 3 25 thin’ 
+- 353
+: 354 17 6 I 
+: 372 9 5 can 
+: 382 14 46 see 
+: 398 7 4 you 
+: 406 7 4 co
+: 414 4 4 min’ 
+- 418
+: 420 15 5 I 
+: 436 12 5 can 
+: 452 7 11 feel 
+: 460 5 9 the 
+: 466 11 9 wind 
+- 477
+: 478 3 9 It’s 
+: 482 9 24 blow
+: 492 10 24 ing 
+: 516 7 10 me 
+: 524 22 24 round 
+- 498
+: 558 4 24 Take 
+: 564 3 1 a 
+: 568 11 1 shot 
+: 580 3 1 of 
+: 584 9 1 me 
+: 594 3 1 run
+: 598 3 1 nin’ 
+: 602 11 1 side 
+: 614 7 1 by 
+: 622 10 1 side 
+- 636
+: 638 1 1 It’s 
+: 640 2 1 a 
+: 644 16 1 blur 
+: 670 6 1 as 
+: 678 7 1 I 
+: 686 7 1 go 
+: 694 4 1 by 
+- 698
+: 700 16 1 I 
+: 718 10 16 can 
+: 736 9 1 hear 
+: 746 5 1 you 
+: 752 7 1 brea
+: 760 5 1 thin’ 
+- 765
+: 766 16 1 I 
+: 786 6 28 can 
+: 796 9 5 see 
+: 806 8 5 you 
+: 816 9 5 co
+: 826 4 5 min’ 
+- 830
+: 832 13 11 I 
+: 846 10 5 can 
+: 862 7 5 feel 
+: 870 4 11 the 
+: 876 11 9 wind 
+- 887
+: 888 4 6 It’s 
+: 894 7 6 blow
+: 902 10 6 in’ 
+: 926 9 9 me 
+: 936 3 9 a
+: 940 14 9 round 
+- 954
+: 956 17 24 See 
+: 974 13 24 the 
+: 988 9 24 sun 
+: 998 7 24 a
+: 1006 7 24 ri
+: 1014 6 24 sing 
+- 1020
+: 1022 15 29 Fi
+: 1038 8 29 re 
+: 1052 9 29 in 
+: 1062 4 5 the 
+: 1068 10 5 sky 
+- 1082
+: 1084 19 4 Great
+: 1104 8 4 ness 
+: 1116 9 4 thrusts 
+: 1126 6 4 it
+: 1134 8 4 self 
+: 1144 5 4 in
+: 1150 12 4 to 
+: 1166 14 1 our 
+: 1182 7 8 li
+: 1190 10 8 ~ves 
+E

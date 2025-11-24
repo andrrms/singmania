@@ -1,0 +1,198 @@
+#ARTIST:Mazzy Star
+#TITLE:Flowers In December
+#MP3:Mazzy Star - Flowers In December.mp3
+#CREATOR:mus31
+#COVER:Mazzy Star - Flowers In December [CO].jpg
+#BACKGROUND:Mazzy Star - Flowers In December [BG].jpg
+#GENRE:Folk-Rock
+#YEAR:1996
+#LANGUAGE:English
+#BPM:370.05
+#GAP:33530
+#VIDEO:v=MKpvHi46hFI,co=https://images.genius.com/2078d900b73b0ecf2b791e100f334904.596x600x1.jpg,bg=mazzy-star-50c10fbda896c.jpg
+: 0 5 2 Be
+: 7 10 2 fore 
+: 23 6 -1 I 
+: 46 6 2 let 
+: 55 6 2 you 
+: 69 8 2 down 
+: 91 7 -1 a
+: 99 8 2 ga
+: 108 8 4 in 
+- 165
+: 245 6 2 I 
+: 256 8 2 just 
+: 270 10 -1 want 
+: 286 4 -1 to 
+: 294 15 2 see 
+: 317 13 2 you 
+: 349 7 2 in 
+: 361 10 -3 your 
+: 378 12 -3 eyes 
+- 439
+: 500 4 -1 I 
+: 506 6 -1 would 
+: 517 7 -1 have 
+: 537 8 2 ta
+: 546 12 2 ken 
+: 567 9 2 e
+: 577 21 4 very
+: 600 16 4 thi
+: 618 20 2 ng 
+: 642 11 -1 out 
+: 659 9 0 on 
+: 672 12 -3 you 
+- 708
+: 770 4 -5 I 
+: 776 4 -5 on
+: 781 5 -5 ly 
+: 788 15 -1 thought 
+: 812 8 -1 you 
+: 826 20 2 could 
+: 887 6 -5 un
+: 895 7 -5 der
+: 904 15 -3 stand 
+- 968
+: 1057 8 2 They 
+: 1068 10 -1 say 
+: 1096 15 2 every
+: 1112 15 2 man 
+* 1136 6 2 go
+* 1143 6 4 es 
+* 1157 6 4 bli
+* 1164 6 2 nd 
+* 1198 6 0 in 
+* 1207 6 -1 his 
+* 1214 10 0 hea
+* 1226 7 2 rt 
+- 1257
+: 1298 5 2 And 
+: 1305 8 2 they 
+: 1319 8 -1 say 
+: 1339 9 2 e
+: 1349 10 2 very
+: 1363 9 2 bo
+: 1373 10 2 dy 
+: 1404 11 2 ste
+: 1417 16 0 als 
+: 1445 10 -5 some
+: 1456 5 -5 bo
+: 1462 10 -5 dy’s 
+: 1474 8 -3 heart 
+: 1484 6 -5 a
+: 1491 9 -3 way 
+- 1510
+: 1547 5 -1 And 
+: 1554 6 -1 I 
+: 1569 7 -1 got 
+: 1591 6 2 no
+: 1598 7 2 thing 
+: 1612 9 2 more 
+* 1628 7 2 t
+* 1637 8 4 o 
+* 1654 6 4 sa
+* 1662 6 2 y 
+* 1702 6 -1 a
+* 1709 7 0 bout 
+* 1725 6 -3 it 
+- 1755
+: 1816 5 -5 No
+: 1822 5 -5 thing 
+: 1830 8 -1 more 
+: 1857 8 -1 than 
+: 1871 5 -1 you 
+: 1879 14 2 would 
+: 1921 12 -5 me 
+- 1982
+: 2096 6 4 Send 
+: 2105 10 4 me 
+: 2135 10 4 your 
+: 2151 11 4 flo
+: 2164 20 2 wers, 
+: 2219 8 -3 of 
+: 2229 8 -3 your 
+: 2256 9 -1 de
+: 2269 10 -1 cem
+: 2281 8 -1 ber 
+- 2313
+: 2341 8 4 Send 
+: 2354 7 4 me 
+: 2382 10 4 your 
+: 2396 24 2 dreams, 
+: 2458 4 -3 of 
+: 2465 8 -3 your 
+: 2487 10 -3 can
+: 2499 11 -1 dy 
+: 2518 13 -1 wine 
+- 2555
+: 2597 4 -5 I 
+: 2608 8 -5 got 
+: 2630 8 -1 just 
+: 2643 6 -1 one 
+: 2653 10 -1 thing 
+: 2671 16 2 I 
+: 2730 10 2 can’t 
+: 2747 12 2 give 
+: 2764 10 -1 you 
+- 2798
+: 2862 10 -5 Just 
+: 2877 6 -1 one 
+: 2885 8 -1 more 
+: 2898 12 -1 thing 
+: 2915 6 2 of 
+: 2945 20 2 mine 
+- 3014
+: 4117 8 2 They 
+: 4131 8 -1 say 
+: 4158 14 2 every
+: 4173 13 2 man 
+* 4195 6 2 go
+* 4203 6 4 es 
+* 4216 9 4 bli
+* 4227 10 2 nd 
+* 4255 5 0 in 
+* 4263 7 -1 his 
+* 4272 10 0 hea
+* 4283 10 2 rt 
+- 4317
+: 4361 8 2 They 
+: 4374 8 -1 say 
+: 4403 5 2 e
+: 4411 12 2 very
+: 4424 20 2 body 
+: 4461 10 2 stea
+: 4472 17 0 ls 
+: 4498 10 -5 some
+: 4509 6 -5 bo
+: 4517 6 -5 dy’s 
+: 4530 7 -3 heart 
+: 4541 9 -5 a
+: 4551 4 -3 way 
+- 4565
+: 4599 6 -1 And 
+: 4609 8 -1 I’ve 
+: 4623 8 -1 been 
+: 4642 9 2 won
+: 4652 10 2 dering 
+* 4669 8 2 why 
+* 4687 5 2 yo
+* 4694 7 4 u 
+* 4706 8 4 le
+* 4716 6 2 t 
+* 4748 4 0 m
+* 4753 4 -1 e 
+* 4761 6 0 do
+* 4768 5 -3 wn 
+- 4797
+: 4865 6 -5 And 
+: 4873 4 -5 I 
+: 4880 6 -5 been 
+: 4889 5 -1 ta
+: 4895 6 -1 king 
+: 4904 5 -1 it 
+: 4911 13 -1 all 
+: 4943 7 -1 fo
+: 4951 11 2 r 
+: 4973 11 2 gran
+: 4987 7 -5 ted 
+E

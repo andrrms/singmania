@@ -1,0 +1,178 @@
+#ARTIST:My Bloody Valentine
+#TITLE:When You Sleep
+#MP3:My Bloody Valentine - When You Sleep.mp3
+#CREATOR:Gollum
+#GENRE:Shoegazing
+#YEAR:1991
+#LANGUAGE:English
+#BPM:258
+#GAP:31780
+#VIDEO:a=hcOhXThqh_0,co=loveless-500c244e3ccd8.jpg,bg=my-bloody-valentine-51aa94fbd68f4.jpg
+: 0 3 6 When 
+: 4 3 8 I 
+: 8 3 6 look 
+: 12 6 4 at 
+: 20 11 3 you 
+- 33
+: 55 10 6 Oh, 
+: 72 3 6 I 
+: 76 6 4 don’t 
+: 84 6 3 know 
+: 92 5 1 what’s 
+: 99 3 1 true
+: 103 15 -1 ~ 
+- 120
+: 135 7 3 Once 
+: 144 5 3 in 
+: 150 4 1 a 
+: 156 23 3 while 
+: 184 6 1 and 
+: 192 3 -1 you 
+: 196 6 1 make 
+: 204 13 3 me 
+: 219 10 -1 laugh 
+- 231
+: 247 4 6 And 
+: 252 5 8 you’ll 
+: 260 5 6 see 
+: 268 6 4 to
+: 276 6 3 mor
+: 284 10 4 row 
+- 296
+: 305 10 10 And 
+: 316 14 6 it 
+: 332 6 6 won’t 
+: 340 6 3 be 
+: 348 10 3 long
+: 359 12 3 ~ 
+- 373
+: 392 6 3 Once 
+: 400 4 3 in 
+: 405 5 1 a 
+: 412 14 3 while 
+- 428
+: 440 6 3 Then 
+: 448 2 1 you 
+: 452 5 3 take 
+: 460 21 -4 me 
+: 484 12 3 down 
+- 498
+: 520 4 3 Then 
+: 525 5 1 you 
+: 531 5 -1 walk 
+: 540 6 1 a
+: 548 14 -1 way 
+- 564
+: 832 4 6 When 
+: 837 2 8 you 
+: 840 6 6 say 
+: 847 4 4 ’I 
+: 855 12 3 do’ 
+- 869
+: 888 11 6 Oh, 
+: 900 3 -1 but 
+: 905 4 6 I 
+: 910 5 4 don’t 
+: 917 7 3 be
+: 925 6 1 lieve 
+: 932 11 1 you
+: 944 20 -1 ~, 
+: 968 6 -1 I 
+: 976 3 -1 can’t 
+: 980 6 -4 for
+: 987 4 -1 get 
+: 992 18 1 it 
+- 1012
+: 1036 16 3 You
+: 1053 11 -1 ~ 
+- 1066
+: 1080 4 6 When 
+: 1085 5 8 you 
+: 1092 6 6 sleep 
+: 1101 5 4 to
+: 1107 8 3 mor
+: 1116 10 4 row 
+- 1128
+: 1137 11 10 And 
+: 1149 12 6 it 
+: 1165 7 6 won’t 
+: 1174 5 3 be 
+: 1181 10 3 long
+: 1192 14 3 ~ 
+- 1208
+: 1224 6 3 Once 
+: 1232 4 3 in 
+: 1237 5 1 a 
+: 1244 14 3 while 
+- 1260
+: 1272 7 3 When 
+: 1280 3 1 you 
+: 1284 7 3 make 
+: 1293 19 -4 me 
+: 1317 14 3 smile 
+- 1333
+: 1345 2 3 When 
+: 1348 3 1 you 
+: 1353 3 3 turn 
+: 1357 6 1 your 
+: 1365 5 -1 long 
+: 1373 6 1 blonde 
+: 1382 14 -1 hair 
+- 1398
+: 1919 4 6 When 
+: 1925 3 8 I 
+: 1929 3 6 look 
+: 1933 6 4 at 
+: 1941 20 3 you 
+- 1963
+: 1977 10 6 Oh, 
+: 1989 3 -1 but 
+: 1993 4 6 I 
+: 1998 6 4 don’t 
+: 2006 6 3 know 
+: 2014 6 1 what’s 
+* 2022 5 1 real
+* 2028 14 -1 ~ 
+- 2044
+: 2058 6 3 Once 
+: 2066 2 3 in 
+: 2069 7 1 a 
+: 2078 12 3 while 
+- 2092
+: 2106 6 1 And 
+: 2114 3 -1 you 
+: 2118 6 1 make 
+: 2126 14 3 me 
+: 2142 9 -1 laugh 
+- 2153
+: 2169 4 6 And 
+* 2174 5 8 I’ll 
+* 2181 6 6 sleep 
+: 2189 8 4 to
+: 2199 6 3 mor
+: 2206 8 4 row 
+- 2216
+: 2226 14 10 And 
+: 2242 8 6 it 
+: 2254 7 6 won’t 
+: 2264 6 3 be 
+: 2271 11 3 long
+: 2283 12 3 ~ 
+- 2297
+: 2314 7 3 Once 
+: 2322 3 3 in 
+: 2326 5 1 a 
+* 2334 12 3 while 
+- 2348
+: 2361 7 3 Then 
+: 2370 3 1 you 
+: 2374 6 3 take 
+: 2382 21 -4 me 
+: 2406 11 3 down 
+- 2419
+* 2441 4 3 When 
+* 2446 6 1 you 
+* 2454 6 -1 walk 
+* 2462 6 1 a
+* 2469 9 -1 way 
+E

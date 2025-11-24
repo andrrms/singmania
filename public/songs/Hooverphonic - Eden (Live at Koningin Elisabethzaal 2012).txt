@@ -1,0 +1,145 @@
+#ARTIST:Hooverphonic
+#TITLE:Eden (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - Eden (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - Eden (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - Eden (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:49450
+#VIDEO:v=nW7xp1U9xUM,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 1 -1 Did 
+: 4 1 -1 you 
+: 6 2 -1 ev
+: 9 6 -1 er 
+: 19 6 -1 think 
+: 27 5 -5 of 
+: 33 10 -3 me 
+- 63
+: 83 2 -6 As 
+: 89 7 -5 your 
+: 98 6 -3 best 
+: 112 11 -5 friend 
+- 163
+: 238 3 -1 Did 
+: 242 3 -1 I 
+: 246 2 -1 ev
+: 249 6 -1 er 
+: 258 6 -1 think 
+: 267 2 -5 of 
+: 272 7 -3 you 
+- 289
+: 315 5 -3 I’m 
+: 321 6 -3 not 
+: 330 3 -3 com
+: 337 1 -3 pla
+: 339 4 -1 i
+: 344 5 0 ~
+: 350 11 -1 ning 
+- 401
+: 483 2 -5 I 
+: 487 3 2 nev
+: 492 3 2 er 
+: 499 4 0 tried 
+: 504 6 0 to 
+: 514 14 -1 feel 
+- 538
+: 542 2 2 I 
+: 545 2 2 nev
+: 548 7 2 er 
+: 558 5 0 tried 
+: 564 6 0 to 
+: 572 10 -1 feel 
+- 602
+: 623 6 -5 This 
+: 631 4 -3 vi
+: 637 4 -1 bra
+: 643 6 -1 ~
+: 652 14 -1 tion 
+- 686
+: 725 4 2 Nev
+: 730 5 2 er 
+: 739 6 0 tried 
+: 748 5 0 to 
+: 756 9 -1 reach 
+- 775
+: 783 2 -5 I 
+: 786 4 2 ne
+: 791 3 2 ver 
+: 797 9 -1 tried 
+: 810 8 4 to
+: 819 6 -1 ~ 
+: 826 7 -1 reach 
+- 843
+: 869 8 -5 Your 
+: 878 2 -3 e
+* 881 24 -1 ~
+* 907 21 -1 den 
+- 968
+: 1440 1 -1 Did 
+: 1443 2 -1 I 
+: 1446 3 -1 ev
+: 1450 4 -1 er 
+: 1459 5 -1 think 
+: 1466 4 -5 of 
+: 1473 11 -3 you 
+- 1494
+: 1522 3 -6 As 
+: 1528 6 -5 my 
+: 1537 9 -3 ene
+: 1547 15 -5 my 
+- 1602
+: 1680 1 -1 Did 
+: 1683 2 -1 you 
+: 1686 1 -1 ev
+: 1688 7 -1 er 
+: 1699 5 -1 think 
+: 1706 4 -5 of 
+: 1712 13 -3 me 
+- 1735
+: 1754 9 -3 I’m 
+: 1765 8 -3 com
+: 1777 16 -1 plain
+: 1794 17 -1 ing 
+- 1851
+: 1922 3 -5 I 
+: 1927 2 2 nev
+: 1930 6 2 er 
+: 1939 4 0 tried 
+: 1944 5 0 to 
+: 1953 10 -1 feel 
+- 1973
+: 1983 2 -3 I 
+: 1987 1 2 nev
+: 1989 4 2 er 
+: 1998 5 0 tried 
+: 2004 6 0 to 
+: 2013 12 -1 feel 
+- 2035
+: 2061 6 -5 This 
+: 2069 4 -3 vi
+: 2075 4 -1 bra
+: 2081 6 -1 ~
+: 2090 14 -1 tion 
+- 2124
+: 2161 2 2 I 
+: 2164 2 2 nev
+: 2167 6 2 er 
+: 2175 6 0 tried 
+: 2184 7 0 to 
+: 2192 9 -1 reach 
+- 2211
+: 2223 2 -1 I 
+: 2226 4 2 ne
+: 2231 3 2 ver 
+: 2237 9 -1 tried 
+: 2250 8 4 to
+: 2259 6 -1 ~ 
+: 2266 7 -1 reach 
+- 2283
+: 2307 8 -5 Your 
+: 2316 2 -3 e
+* 2319 24 -1 ~
+* 2345 21 -1 den 
+E

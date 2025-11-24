@@ -1,0 +1,174 @@
+#ARTIST:Disney’s Toy Story
+#TITLE:You Got A Friend In Me
+#MP3:Disney’s Toy Story - You Got A Friend In Me.mp3
+#CREATOR:Kimbo
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1995
+#LANGUAGE:English
+#BPM:230
+#GAP:2900
+#VIDEO:v=ZjbSKknc2rc,co=https://m.media-amazon.com/images/I/71iqVxn+G5L.jpg,bg=toy-story-5d1f601a3f9e6.jpg
+: 0 2 7 You’ve 
+: 5 7 10 got 
+: 13 1 7 a 
+* 16 6 12 friend 
+: 23 3 10 in 
+: 28 3 3 me 
+- 33
+: 67 2 12 You’ve 
+: 71 2 15 got 
+: 74 1 12 a 
+: 77 7 15 friend 
+: 85 4 12 in 
+: 91 2 10 me 
+- 95
+: 130 2 12 When 
+: 133 2 8 the 
+: 137 7 10 road 
+: 145 2 3 looks 
+: 162 1 14 rough 
+: 164 4 14 a
+* 170 6 15 head 
+- 177
+: 177 2 12 And 
+: 180 4 10 you’re 
+: 185 9 15 miles 
+: 196 2 10 and 
+: 201 5 12 miles 
+- 207
+: 208 2 7 From 
+: 211 2 3 your 
+* 215 2 5 nice 
+: 223 6 7 warm 
+: 231 3 7 bed 
+- 236
+: 255 2 12 You 
+: 258 3 14 just 
+: 262 2 17 re
+: 265 3 15 me
+: 269 2 10 mber 
+- 272
+: 272 3 7 What 
+: 277 1 3 your 
+: 280 3 6 old 
+: 285 6 7 pal 
+: 292 3 3 said 
+- 297
+: 302 3 7 Boy 
+* 308 9 15 you’ve 
+: 319 4 12 got 
+: 324 1 10 a 
+: 326 3 5 friend 
+: 331 5 3 in 
+: 338 1 5 me
+: 340 2 7 ~ 
+- 344
+: 364 3 15 Yeah 
+: 369 9 15 you’ve 
+: 380 4 12 got 
+: 385 1 10 a 
+: 387 7 15 friend 
+: 395 3 12 in 
+: 400 2 7 me 
+- 404
+: 439 3 12 Well 
+: 443 1 12 some 
+: 445 1 12 o
+: 447 1 12 ther 
+: 450 4 12 folks 
+- 455
+: 456 4 12 Might 
+: 461 1 12 be 
+: 464 2 12 a 
+- 468
+: 469 1 14 Lit
+: 471 1 14 tle 
+: 473 1 14 bit 
+* 478 3 14 smart
+: 482 1 14 er 
+: 484 1 14 than 
+: 486 2 14 I 
+: 489 2 14 am 
+- 493
+: 504 1 12 Big
+: 506 1 12 ger 
+: 508 1 12 and 
+: 511 7 12 strong
+: 520 1 12 er 
+: 525 1 12 too 
+- 528
+: 548 4 12 May
+: 553 1 12 be 
+- 556
+: 564 1 14 But 
+: 566 3 14 none 
+: 571 1 14 of 
+: 573 6 14 them 
+- 581
+: 585 1 14 Will 
+* 588 6 14 e
+: 596 3 14 ver 
+: 600 7 14 love 
+: 609 2 14 you 
+- 612
+: 613 2 14 The 
+: 617 1 12 way
+: 619 4 10 ~
+: 625 6 10 I 
+: 632 3 10 do 
+- 637
+: 648 1 7 It’s 
+: 650 4 8 me 
+: 656 4 7 and 
+: 663 4 5 you 
+* 669 4 7 boy 
+- 675
+: 686 1 7 And 
+: 688 2 10 as 
+: 691 2 7 the 
+: 694 8 12 years 
+: 704 4 10 go 
+: 709 3 3 by 
+- 714
+: 740 1 3 Our 
+: 742 4 12 friend
+* 748 3 15 ship 
+: 754 1 12 will 
+: 757 7 15 ne
+: 765 4 12 ver 
+: 770 3 10 die 
+- 775
+: 809 1 15 You’re 
+: 811 2 15 gon
+: 814 1 12 na 
+: 817 5 15 see 
+- 823
+: 824 3 15 It’s 
+: 828 3 12 our 
+* 835 5 15 des
+: 844 5 14 ti
+: 850 6 12 ny 
+- 858
+: 881 2 15 You’ve 
+: 884 3 12 got 
+: 888 2 10 a 
+: 891 4 5 friend 
+: 897 4 7 in 
+* 903 3 7 me 
+- 908
+: 944 2 15 You’ve 
+: 947 3 12 got 
+: 951 2 10 a 
+: 954 4 5 friend 
+: 959 3 7 in 
+: 964 3 7 me 
+- 969
+: 1006 2 15 You 
+: 1009 5 12 got 
+: 1015 1 10 a 
+: 1017 7 15 friend 
+: 1025 4 12 in 
+: 1030 1 10 me
+: 1032 1 12 ~ 
+E

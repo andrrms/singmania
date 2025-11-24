@@ -1,0 +1,272 @@
+#ARTIST:Elvis Presley
+#TITLE:(Marie’s The Name) His Latest Flame
+#MP3:Elvis Presley - (Marie’s The Name) His Latest Flame.mp3
+#CREATOR:Canni
+#GENRE:Rock & Roll
+#YEAR:1961
+#LANGUAGE:English
+#BPM:210
+#GAP:6700
+#VIDEO:a=59pOE3OmUi8,co=his-latest-flame--little-sister-607c13c29e6fc.jpg,bg=elvis-presley-4ddf94a925d93.jpg
+: 0 1 4 A 
+: 2 2 4 ve
+: 5 1 7 ry 
+: 7 2 7 old 
+: 10 9 7 friend, 
+- 25
+: 28 5 4 Came 
+: 34 4 7 by 
+: 39 1 9 to
+: 41 9 11 day. 
+- 58
+: 61 4 7 ’Cause 
+: 66 3 11 he 
+: 70 3 12 was 
+: 74 5 14 tel
+: 80 2 16 lin’ 
+: 83 2 14 eve
+: 86 2 11 ry 
+: 89 3 9 one 
+: 93 1 7 in 
+: 95 10 7 town 
+- 105
+: 106 5 14 ’Bout 
+: 112 1 16 the 
+: 114 3 14 love 
+: 118 3 11 that 
+: 122 2 9 he 
+: 125 3 7 just 
+: 129 10 7 found. 
+- 139
+: 140 3 7 And 
+: 144 1 9 Ma
+: 146 4 7 rie’s 
+: 151 1 4 the 
+: 153 9 7 name 
+- 171
+: 174 2 2 Of 
+: 177 1 2 his 
+: 179 2 6 la
+: 182 3 9 test 
+: 186 14 7 flame. 
+- 214
+: 236 4 4 He 
+: 241 5 4 talked 
+: 247 2 7 and 
+: 250 8 7 talked, 
+- 266
+: 269 2 4 And 
+: 272 1 4 I 
+: 274 3 7 heard 
+: 278 2 9 him 
+: 281 9 11 say. 
+- 301
+: 305 3 11 That 
+: 309 3 12 she 
+: 313 6 14 had 
+: 320 1 16 the 
+: 322 3 14 lon
+: 326 3 11 gest 
+: 330 2 9 blac
+: 333 2 7 kest 
+: 336 7 7 hair, 
+- 343
+: 344 1 14 The 
+: 346 1 14 pret
+: 348 1 14 ti
+: 350 2 16 est 
+: 353 4 14 green 
+: 358 4 11 eyes 
+: 363 1 9 a
+: 365 2 7 ny 
+: 368 10 7 where. 
+- 379
+: 381 2 7 And 
+: 384 1 9 Ma
+: 386 3 7 rie’s 
+: 390 1 4 the 
+: 392 9 7 name 
+- 410
+: 414 1 2 Of 
+: 416 1 2 his 
+: 418 3 6 la
+: 422 3 9 test 
+: 426 13 7 flame. 
+- 453
+: 488 4 6 Though 
+: 493 1 7 I 
+: 495 5 9 smiled, 
+: 501 2 11 the 
+: 504 5 12 tears 
+: 510 1 11 in
+: 512 3 9 side 
+- 515
+: 516 2 11 Were 
+: 519 1 9 a 
+: 521 2 12 bur
+: 524 8 9 nin’. 
+- 544
+: 548 3 7 I 
+: 552 3 6 wished 
+: 556 3 7 him 
+: 560 3 9 luck 
+: 564 3 11 and 
+: 568 2 12 then 
+: 571 1 11 he 
+: 573 6 9 said 
+: 580 2 11 good
+: 583 13 9 bye. 
+- 606
+: 616 3 6 He 
+: 620 2 7 was 
+: 623 4 9 gone 
+: 628 1 11 but 
+: 630 4 12 still 
+: 635 1 11 his 
+: 637 4 9 words 
+: 642 3 11 kept 
+: 646 2 9 re
+: 649 3 12 tur
+: 653 8 9 nin’. 
+- 669
+: 672 3 7 What 
+: 676 4 6 else 
+: 681 4 7 was 
+: 686 2 9 there 
+: 689 3 11 for 
+: 693 2 12 me 
+: 696 1 11 to 
+: 698 6 9 do 
+: 705 2 7 but 
+: 708 16 7 cry. 
+- 738
+: 760 4 4 Would 
+: 765 4 4 you 
+: 770 2 7 be
+: 773 11 7 lieve, 
+: 792 3 4 that 
+: 796 4 7 yes
+: 801 2 9 ter
+: 804 9 11 day. 
+- 822
+: 825 3 7 This 
+: 829 3 11 girl 
+: 833 4 12 was 
+: 838 4 14 in 
+: 843 1 16 my 
+: 845 4 14 arms 
+- 849
+: 850 1 11 And 
+: 852 4 9 swore 
+: 857 1 7 to 
+: 859 9 7 me. 
+- 868
+: 869 5 14 She’d 
+: 875 1 16 be 
+: 877 5 14 mine 
+: 883 1 11 e
+: 885 3 9 ter
+: 889 2 7 nal
+: 892 8 7 ly. 
+- 903
+: 905 2 7 And 
+: 908 1 9 Ma
+: 910 3 7 rie’s 
+: 914 1 4 the 
+: 916 9 7 name, 
+- 934
+: 938 1 2 Of 
+: 940 1 2 his 
+: 942 3 6 la
+: 946 2 9 test 
+: 949 11 7 flame. 
+- 974
+: 1011 5 6 Though 
+: 1017 1 7 I 
+: 1019 5 9 smiled, 
+: 1025 2 11 the 
+: 1028 5 12 tears 
+: 1034 1 11 in
+: 1036 4 9 side 
+- 1040
+: 1041 2 11 Were 
+: 1044 1 9 a 
+: 1046 2 12 bur
+: 1049 8 9 nin’. 
+- 1068
+: 1072 3 7 I 
+: 1076 5 6 wished 
+: 1082 1 7 him 
+: 1084 4 9 luck 
+: 1089 3 11 and 
+: 1093 2 12 then 
+: 1096 1 11 he 
+: 1098 6 9 said 
+: 1105 2 11 good
+: 1108 9 9 bye. 
+- 1127
+: 1140 4 6 He 
+: 1145 1 7 was 
+: 1147 4 9 gone 
+: 1152 1 11 but 
+: 1154 4 12 still 
+: 1159 2 11 his 
+: 1162 5 9 words 
+: 1168 1 11 kept 
+: 1170 2 9 re
+: 1173 4 12 tur
+: 1178 12 9 nin’. 
+- 1196
+: 1198 3 7 What 
+: 1202 3 6 else 
+: 1206 4 7 was 
+: 1211 4 9 there 
+: 1216 2 11 for 
+: 1219 2 12 me 
+: 1222 1 11 to 
+: 1224 6 9 do 
+: 1231 2 7 but 
+: 1234 14 7 cry. 
+- 1262
+: 1285 3 4 Would 
+: 1289 5 4 you 
+: 1295 2 7 be
+: 1298 10 7 lieve, 
+- 1314
+: 1317 3 4 That 
+: 1321 4 7 yes
+: 1326 2 9 ter
+: 1329 9 11 day. 
+- 1347
+: 1350 3 7 This 
+: 1354 4 11 girl 
+: 1359 4 12 was 
+: 1364 3 14 in 
+: 1368 1 16 my 
+: 1370 3 14 arms 
+- 1373
+: 1374 2 11 And 
+: 1377 4 9 swore 
+: 1382 1 7 to 
+: 1384 9 7 me. 
+- 1393
+: 1394 5 14 She’d 
+: 1400 2 16 be 
+: 1403 4 14 mine 
+: 1408 2 11 e
+: 1411 3 9 ter
+: 1415 2 7 nal
+: 1418 10 7 ly. 
+- 1428
+: 1430 2 7 And 
+: 1433 1 9 Ma
+: 1435 3 7 rie’s 
+: 1439 1 4 the 
+: 1441 9 7 name, 
+- 1459
+: 1462 2 2 Of 
+: 1465 1 2 his 
+: 1467 3 6 la
+: 1471 2 9 test 
+: 1474 12 7 flame. 
+E

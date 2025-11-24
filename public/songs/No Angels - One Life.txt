@@ -1,0 +1,360 @@
+#ARTIST:No Angels
+#TITLE:One Life
+#MP3:No Angels - One Life.mp3
+#CREATOR:B'Fan
+#GENRE:Dance
+#YEAR:2009
+#LANGUAGE:English
+#BPM:250.62
+#GAP:16020
+#VIDEO:v=vbP_tL-9PNc,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7c/d3/5b/7cd35b85-3dcb-0548-ec9b-0c45ef444708/00602527157887.rgb.jpg/5000x5000bb.jpg,bg=no-angels-5a20e0fd50e83.jpg
+: 0 1 0 I 
+: 5 2 1 don’t 
+* 8 5 3 wanna 
+: 14 5 3 hear 
+: 21 7 2 another 
+: 30 11 3 voice 
+- 43
+: 47 6 2 Sayin 
+* 56 4 5 there’s 
+: 62 8 2 nothing 
+: 71 11 0 more 
+- 84
+: 127 3 -1 I 
+: 131 3 1 should 
+* 135 3 3 be 
+: 139 3 2 the 
+: 143 3 2 one 
+: 148 3 2 to 
+: 152 2 3 make 
+: 155 3 0 the 
+* 159 9 2 choice 
+- 170
+: 172 2 -1 To 
+: 175 5 1 open 
+: 182 14 3 another 
+* 198 14 2 door 
+- 214
+: 258 3 -1 But 
+: 263 3 1 I 
+: 267 3 -1 was 
+* 271 10 2 moving 
+: 283 2 -1 in 
+: 286 4 1 the 
+: 291 3 3 right 
+: 295 21 0 direction 
+- 318
+: 329 4 -1 I 
+: 334 4 1 thought 
+: 339 2 3 I 
+: 342 3 3 had 
+: 347 2 3 it 
+* 351 7 1 all, 
+: 360 10 3 figured 
+* 372 9 5 out, 
+- 383
+* 387 2 -1 But 
+: 391 2 3 now 
+: 394 2 0 I’m 
+: 398 7 2 feeling 
+: 407 3 4 like 
+: 411 4 1 there’s 
+: 417 9 -1 something 
+: 427 19 -3 missing, 
+- 448
+: 454 2 -1 I 
+* 458 6 1 just 
+: 465 18 4 realised 
+- 485
+: 490 3 4 I 
+* 494 6 1 only 
+: 502 6 3 got 
+: 510 6 7 one 
+: 518 9 9 life, 
+: 529 7 4 one 
+* 538 10 7 life! 
+- 550
+: 554 6 2 Tonight 
+* 563 2 3 I’m 
+: 566 16 0 gonna 
+: 583 2 1 live 
+: 586 6 4 mine, 
+* 594 5 2 live 
+: 601 10 5 mine, 
+- 613
+* 618 2 -1 I’m 
+: 622 6 1 gonna 
+: 630 4 3 have 
+: 635 2 -1 a 
+* 638 6 2 good 
+: 645 7 4 time, 
+* 658 2 -1 good 
+: 662 18 2 time, 
+- 681
+: 682 2 2 I 
+: 686 7 0 wanna 
+: 694 2 1 be 
+* 697 26 6 free. 
+- 725
+: 747 2 1 I 
+* 750 7 3 only 
+: 758 5 0 got 
+: 765 6 2 one 
+* 773 7 4 life, 
+* 785 6 2 one 
+: 793 7 4 life! 
+- 802
+: 810 7 -1 Tonight 
+: 818 2 1 I’m 
+: 822 6 3 gonna 
+: 829 6 6 live 
+: 837 6 5 mine, 
+: 849 6 7 live 
+: 856 13 4 mine, 
+- 871
+: 873 3 3 I’m 
+: 877 6 1 gonna 
+: 885 4 5 have 
+: 890 4 2 a 
+: 896 4 -1 good 
+: 901 8 2 time, 
+: 913 8 -2 good 
+: 922 12 3 time, 
+- 936
+: 938 2 1 I 
+: 941 6 -1 wanna 
+: 949 2 1 be 
+* 952 54 8 free. 
+- 1008
+: 1022 2 -1 Why 
+: 1025 3 0 was 
+: 1029 4 3 I 
+: 1035 5 0 afraid 
+: 1042 2 -2 to 
+: 1045 3 1 take 
+: 1049 2 -1 a 
+: 1053 11 2 chance, 
+: 1069 8 3 knowing 
+: 1078 3 1 that 
+: 1082 7 4 I 
+: 1090 2 2 am 
+* 1093 23 -1 strong? 
+- 1118
+F 1149 3 8 Take 
+F 1154 1 2 me 
+F 1156 3 4 to 
+F 1161 3 -1 the 
+F 1165 3 3 floor 
+F 1170 2 1 and 
+F 1173 3 4 I 
+F 1177 3 1 will 
+F 1181 12 3 dance 
+- 1195
+* 1197 4 1 Watch 
+: 1202 2 3 me 
+: 1205 3 -1 go 
+: 1209 6 0 on 
+: 1216 2 1 and 
+: 1219 32 3 on 
+- 1253
+: 1282 2 -1 Yes 
+: 1285 3 2 now 
+: 1290 3 4 I’m 
+: 1294 10 2 heading 
+: 1305 1 -1 in 
+: 1307 4 1 the 
+: 1312 4 -1 right 
+: 1317 24 4 direction 
+- 1343
+: 1353 2 -1 Don’t 
+: 1357 2 1 need 
+: 1360 3 -1 to 
+: 1365 3 2 have 
+: 1369 2 -1 it 
+: 1372 9 2 all 
+: 1384 8 0 figured 
+: 1394 11 -2 out 
+- 1407
+: 1409 3 -1 And 
+: 1413 3 1 when 
+: 1417 3 2 I’m 
+* 1421 7 3 feeling 
+: 1430 3 1 like 
+: 1434 3 3 there’s 
+: 1438 11 0 something 
+: 1451 18 -2 missing 
+- 1471
+: 1481 2 0 I’m 
+: 1484 7 2 gonna 
+* 1493 19 4 remember 
+- 1513
+F 1513 2 3 I 
+: 1517 7 0 only 
+: 1525 5 1 got 
+: 1533 6 3 one 
+: 1540 8 5 life, 
+: 1552 6 3 one 
+: 1560 10 5 life! 
+- 1572
+: 1577 6 1 Tonight 
+: 1585 2 3 I’m 
+: 1588 7 0 gonna 
+: 1596 6 3 live 
+: 1604 7 5 mine, 
+: 1616 6 3 live 
+: 1623 9 5 mine, 
+- 1634
+: 1640 2 3 I’m 
+: 1644 5 -1 gonna 
+: 1651 4 1 have 
+: 1657 2 3 a 
+: 1660 6 6 good 
+: 1668 7 7 time, 
+: 1680 6 6 good 
+: 1688 10 8 time, 
+- 1700
+: 1704 2 -1 I 
+: 1708 7 1 wanna 
+: 1716 2 3 be 
+: 1720 28 5 free. 
+- 1750
+* 1768 3 2 I 
+: 1772 7 -2 only 
+* 1780 5 2 got 
+* 1788 6 5 one 
+: 1796 7 7 life, 
+: 1808 6 5 one 
+: 1816 9 8 life! 
+- 1827
+: 1832 7 -1 Tonight 
+: 1841 3 1 I’m 
+: 1845 5 3 gonna 
+: 1852 7 6 live 
+: 1860 6 8 mine, 
+: 1872 5 4 live 
+: 1879 11 6 mine, 
+- 1892
+: 1896 2 1 I’m 
+: 1899 6 3 gonna 
+* 1908 3 5 have 
+: 1912 3 1 a 
+: 1916 6 3 good 
+* 1924 7 5 time, 
+: 1936 7 3 good 
+: 1944 13 2 time, 
+- 1959
+: 1960 2 1 I 
+: 1964 6 3 wanna 
+: 1972 2 1 be 
+: 1975 49 5 free. 
+- 2026
+* 2044 4 -1 I’m 
+: 2049 2 2 feeling 
+* 2052 4 0 it 
+: 2057 2 2 with 
+: 2061 11 3 confidence 
+- 2074
+: 2075 2 3 I 
+: 2079 2 1 don’t 
+* 2083 4 -1 care 
+: 2088 2 1 about 
+: 2092 14 2 consequence 
+- 2107
+: 2107 4 -1 I’m 
+: 2113 1 1 gonna 
+* 2116 2 2 do 
+: 2120 3 -1 what’s 
+: 2124 2 1 best 
+: 2128 2 0 for 
+* 2131 4 2 me 
+- 2137
+: 2140 5 2 Reaching 
+: 2147 3 -1 for 
+* 2152 2 1 my 
+: 2155 9 4 destiny 
+- 2166
+: 2171 5 2 Hold 
+: 2177 4 -1 on 
+F 2185 2 0 ~ 
+: 2188 3 1 I’m 
+: 2192 1 2 in 
+* 2194 5 4 it 
+- 2200
+: 2200 2 0 I’m 
+: 2204 6 3 pushing 
+: 2212 2 2 to 
+: 2215 4 -1 the 
+* 2221 5 1 limit 
+- 2228
+: 2232 2 -1 I’m 
+: 2235 7 1 working 
+: 2243 3 0 my 
+* 2247 7 3 ass 
+* 2255 5 0 off 
+F 2263 1 0 ~ 
+: 2265 7 2 forever 
+: 2275 3 -1 I 
+: 2279 2 1 will 
+: 2283 5 2 bring 
+: 2289 3 3 it 
+- 2294
+: 2331 2 1 I 
+: 2335 4 -1 only 
+: 2340 4 1 got 
+: 2347 5 4 one 
+: 2354 8 6 life, 
+: 2367 7 4 one 
+: 2375 8 6 life! 
+- 2385
+: 2392 7 3 Tonight 
+: 2400 2 1 I’m 
+: 2403 6 2 gonna 
+: 2411 6 5 live 
+: 2419 7 3 mine, 
+: 2432 6 3 live 
+: 2439 12 0 mine, 
+- 2453
+: 2456 2 5 I’m 
+: 2459 5 2 gonna 
+: 2467 3 -1 have 
+: 2472 2 1 a 
+: 2475 6 4 good 
+: 2484 7 6 time, 
+: 2495 6 4 good 
+: 2503 13 2 time, 
+- 2518
+: 2519 2 5 I 
+: 2523 7 3 wanna 
+: 2531 2 2 be 
+* 2534 25 10 free. 
+- 2561
+: 2584 2 4 I 
+: 2587 6 -1 only 
+: 2595 6 2 got 
+: 2603 4 5 one 
+: 2610 10 7 life, 
+: 2623 6 5 one 
+: 2630 10 7 life! 
+- 2642
+: 2646 6 2 Tonight 
+: 2654 3 3 I’m 
+: 2659 6 5 gonna 
+* 2666 7 2 live 
+* 2675 3 4 mine, 
+* 2687 4 2 live 
+* 2693 9 4 mine, 
+- 2704
+: 2710 3 2 I’m 
+: 2715 6 4 gonna 
+: 2723 3 2 have 
+: 2728 2 2 a 
+: 2731 6 7 good 
+: 2739 8 9 time, 
+: 2750 4 4 good 
+* 2758 13 3 time, 
+- 2773
+: 2775 2 4 I 
+: 2778 7 2 wanna 
+: 2786 2 1 be 
+* 2790 51 8 free. 
+E

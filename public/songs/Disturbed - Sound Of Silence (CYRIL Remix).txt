@@ -1,0 +1,406 @@
+#ARTIST:Disturbed
+#TITLE:Sound Of Silence (CYRIL Remix)
+#MP3:Disturbed - Sound Of Silence (CYRIL Remix).mp3
+#CREATOR:Fepo
+#COVER:Disturbed - Sound Of Silence (CYRIL Remix) [CO].jpg
+#BACKGROUND:Disturbed - Sound Of Silence (CYRIL Remix) [BG].jpg
+#GENRE:Pop
+#YEAR:2024
+#LANGUAGE:English
+#BPM:252.05
+#GAP:6270
+#VIDEO:v=7kPYLQnxAiU,co=the-sound-of-silence-cyril-remix-66deb3bd69149.jpg,bg=disturbed-4ddfc6ab0a985.jpg
+: 0 2 -6 Hel
+: 3 2 -6 lo 
+: 8 2 -3 dark
+: 12 2 -3 ness, 
+: 16 2 1 my 
+: 20 4 1 old 
+: 28 15 -1 friend 
+- 53
+: 60 2 -1 I’ve 
+: 64 2 -4 come 
+: 68 2 -1 to 
+: 72 2 -4 talk 
+: 76 2 -1 with 
+* 80 10 -1 you 
+: 92 3 -3 a
+: 97 14 -3 gain 
+- 120
+: 124 2 -3 Be
+: 128 2 -3 cause 
+: 132 2 -3 a 
+: 136 2 -1 vi
+: 140 3 1 sion 
+: 145 2 4 soft
+: 149 2 4 ly
+: 153 5 6 ~ 
+: 160 3 6 cree
+: 165 5 4 ping 
+- 180
+: 192 2 -3 Left 
+: 196 2 -3 its 
+: 200 2 -3 seeds 
+: 204 2 1 while 
+: 208 2 4 I 
+: 212 5 4 wa
+: 219 3 6 ~s 
+: 224 2 6 slee
+: 228 16 4 ping 
+- 253
+: 256 2 -3 And 
+: 260 3 -3 the 
+: 265 2 6 vi
+: 269 13 6 sion 
+- 286
+: 288 3 6 That 
+: 293 3 8 was 
+: 298 3 9 plan
+: 303 3 9 ted 
+: 308 3 9 in, 
+- 315
+: 317 3 8 In 
+: 322 4 6 my 
+: 328 19 4 brain 
+- 351
+: 353 7 6 Still 
+: 363 3 4 re
+: 368 18 1 mains 
+- 393
+: 396 3 -3 With
+: 401 2 -3 in 
+: 405 2 -3 the 
+: 409 15 4 sound 
+- 433
+: 437 2 -4 Of 
+: 441 2 -3 si
+* 445 14 -6 lence 
+- 469
+: 477 2 -6 In 
+: 481 2 -6 rest
+: 485 2 -6 less 
+: 489 2 -3 dreams, 
+: 493 2 -3 I 
+: 497 3 -1 walked 
+: 502 5 -3 a
+: 509 20 -1 lone 
+- 541
+: 545 2 -4 Nar
+: 549 2 -4 row 
+: 553 2 -4 streets 
+: 557 2 -4 of 
+: 561 2 -1 cob
+: 565 4 -1 b
+: 571 3 -3 ~le 
+: 577 17 -3 stone 
+- 604
+: 608 2 -3 ’Neath 
+: 612 2 -3 the 
+: 616 2 -3 ha
+: 620 2 1 lo 
+: 624 2 4 of 
+: 628 3 4 a
+: 633 5 6 ~ 
+: 640 2 6 street 
+: 644 10 4 lamp 
+- 664
+: 668 2 4 I 
+: 672 2 4 turned 
+: 676 2 2 my 
+: 680 2 1 col
+: 684 2 -1 lar 
+: 688 2 -3 to 
+: 692 2 -6 the 
+: 696 5 6 cold 
+: 704 2 2 and 
+: 708 9 4 damp 
+- 727
+: 736 2 -3 When 
+: 740 2 -3 my 
+: 744 6 6 eyes 
+: 752 2 6 were 
+: 756 10 6 stabbed 
+: 769 2 6 by 
+: 773 2 6 the 
+: 777 5 9 flash 
+: 785 2 9 of 
+: 789 2 9 a 
+: 793 3 8 ne
+: 798 6 6 on 
+: 806 11 4 light 
+- 826
+: 830 2 -3 That 
+: 834 11 6 split 
+: 847 2 4 the 
+: 851 21 1 night 
+- 874
+: 876 2 -3 And 
+: 880 2 -3 touched 
+: 884 2 -3 the 
+: 888 22 4 sound 
+- 914
+: 916 2 -6 Of 
+: 920 2 -3 si
+: 924 14 -6 lence 
+- 948
+: 956 2 -6 And 
+: 960 2 -6 in 
+: 964 2 -6 the 
+: 968 2 -3 na
+: 972 2 -3 ked 
+: 976 4 -1 light, 
+: 982 3 -3 I 
+: 989 15 -1 saw 
+- 1014
+: 1021 2 -4 Ten 
+: 1025 2 -4 thou
+: 1029 2 -4 sand 
+: 1033 2 -4 peo
+: 1037 2 -4 ple, 
+: 1041 2 -1 may
+: 1045 5 -4 be 
+: 1053 15 -3 more 
+- 1078
+: 1090 2 -3 Peo
+: 1094 2 -3 ple 
+: 1098 2 1 tal
+: 1102 2 1 king 
+: 1106 2 4 with
+: 1110 3 4 ou
+: 1115 3 6 ~t 
+: 1120 3 4 spea
+: 1125 13 4 king 
+- 1149
+: 1153 2 -3 Peo
+: 1157 2 -3 ple 
+: 1161 2 1 hea
+: 1165 2 1 ring 
+: 1169 2 4 with
+: 1173 3 4 ou
+: 1178 5 6 ~t 
+: 1185 2 6 liste
+: 1189 10 4 ning 
+- 1199
+: 1200 2 -3 Peo
+: 1204 2 -3 ple 
+: 1208 3 1 wri
+: 1213 9 4 ting 
+: 1225 11 6 songs 
+- 1245
+: 1248 6 8 That 
+* 1256 2 9 voi
+* 1260 8 9 ces 
+: 1272 2 8 ne
+: 1276 5 6 ver 
+: 1284 14 4 shared 
+- 1306
+: 1309 2 1 And 
+: 1313 2 6 no 
+: 1317 5 4 one 
+: 1324 14 1 dared 
+- 1348
+: 1356 2 -3 Dis
+: 1360 3 -3 turb 
+: 1365 3 -3 the 
+: 1370 18 4 sound 
+- 1394
+: 1396 2 -4 Of 
+: 1400 2 -3 si
+: 1404 20 -6 lence 
+- 1436
+: 1440 3 -6 “Fools” 
+: 1445 2 -6 said 
+: 1449 2 -3 I, 
+: 1453 2 -3 “You 
+: 1457 2 -1 do 
+: 1461 2 -3 not 
+: 1468 24 -1 know 
+- 1501
+: 1505 2 -4 Si
+: 1509 2 -4 lence 
+: 1513 2 -4 like 
+: 1517 2 -4 a 
+: 1521 2 -1 can
+: 1525 4 -4 cer 
+: 1532 23 -3 grows 
+- 1565
+: 1569 2 -3 Hear 
+: 1573 2 -3 my 
+: 1577 2 1 words 
+: 1581 2 1 that 
+: 1585 2 4 I 
+: 1589 4 4 mi
+: 1595 3 6 ~ght 
+: 1600 3 4 teach 
+: 1605 20 4 you 
+- 1631
+: 1633 2 9 Take 
+: 1637 2 8 my 
+: 1641 2 6 arms 
+: 1645 2 4 that 
+: 1649 2 1 I 
+: 1653 3 -3 mi
+: 1658 4 6 ~ght 
+: 1664 3 6 reach 
+: 1669 11 4 you 
+- 1692
+: 1696 3 -3 But 
+: 1701 5 -3 my 
+: 1708 14 6 words, 
+- 1726
+: 1728 7 8 Like 
+: 1737 2 9 si
+: 1741 7 9 lent 
+: 1750 4 8 rain
+: 1756 6 6 drops 
+: 1764 19 4 fell 
+- 1793
+: 1812 2 -6 And 
+: 1816 2 -3 e
+: 1820 5 -3 choed 
+: 1828 1 -3 in 
+: 1830 1 -3 the 
+: 1832 17 4 wells 
+- 1857
+: 1860 2 -6 Of 
+: 1864 2 -3 si
+: 1868 17 -6 lence 
+- 1895
+: 1905 2 6 And 
+: 1909 2 4 the 
+: 1913 2 -1 peo
+: 1917 2 -3 ple 
+: 1921 2 -1 bowed 
+: 1925 4 -3 and 
+: 1932 24 -1 prayed 
+- 1965
+: 1968 2 4 To 
+: 1972 2 4 the 
+: 1976 2 4 ne
+: 1980 2 4 on 
+: 1984 6 4 god 
+: 1995 6 6 they 
+* 2003 25 6 made 
+- 2030
+: 2032 2 -3 And 
+: 2036 2 -3 the 
+: 2039 3 1 sign 
+: 2044 4 1 flashed 
+: 2050 2 4 out 
+: 2054 2 4 it 
+: 2058 4 6 is 
+: 2065 2 4 war
+: 2069 23 4 ning 
+- 2096
+: 2098 2 9 In 
+: 2101 2 8 the 
+: 2104 2 6 words 
+: 2108 3 4 that 
+: 2113 2 1 it 
+: 2117 3 -3 wa
+: 2122 4 6 ~s 
+: 2128 2 6 for
+: 2132 20 4 ming 
+- 2158
+: 2160 2 -3 Then 
+: 2164 2 -3 the 
+: 2168 6 1 sign 
+: 2176 2 4 said, 
+: 2180 2 4 ”The 
+: 2184 6 6 words 
+: 2192 2 6 on 
+: 2196 2 6 the 
+: 2200 2 6 pro
+: 2204 2 6 phets 
+- 2207
+: 2209 3 8 Are 
+: 2215 2 9 writ
+: 2218 2 9 ten 
+: 2222 4 9 on 
+: 2228 2 9 the 
+: 2232 2 8 sub
+: 2236 5 6 way 
+: 2244 11 4 walls 
+- 2264
+: 2268 2 1 In 
+: 2272 2 6 ten
+: 2275 1 6 e
+: 2277 6 4 ment 
+: 2285 13 1 halls“ 
+- 2305
+: 2308 2 -3 And 
+: 2312 2 -3 whis
+: 2316 21 -3 pered 
+: 2339 2 -3 in 
+: 2342 2 -3 the 
+: 2345 45 4 sound 
+- 2401
+: 2405 2 -6 Of 
+: 2409 2 -3 si
+: 2413 26 -6 lence 
+- 2443
+: 2445 2 -6 And 
+: 2449 2 -6 in 
+: 2453 2 -6 the 
+: 2457 2 -3 na
+: 2461 2 -3 ked 
+: 2465 2 -1 light, 
+: 2469 5 -3 I 
+: 2476 17 -1 saw 
+- 2505
+: 2509 2 -4 Ten 
+: 2513 2 -4 thou
+: 2517 2 -4 sand 
+: 2521 2 -4 peo
+: 2525 2 -4 ple, 
+: 2529 2 -1 may
+: 2533 5 -4 be 
+: 2540 12 -3 more 
+- 2562
+: 2577 2 -3 Peo
+: 2581 2 -3 ple 
+: 2585 2 1 tal
+: 2589 2 1 king 
+: 2593 2 4 with
+: 2597 4 4 ou
+: 2603 3 6 ~t 
+: 2608 2 6 spea
+: 2612 16 4 king 
+- 2637
+: 2641 2 -3 Peo
+: 2645 2 -3 ple 
+: 2649 2 1 hea
+: 2653 2 1 ring 
+: 2657 2 4 with
+: 2661 4 4 ou
+: 2667 3 6 ~t 
+: 2672 2 6 liste
+: 2676 12 4 ning 
+- 2688
+: 2689 2 -3 Peo
+: 2693 2 -3 ple 
+: 2697 2 1 wri
+: 2701 9 4 ting 
+: 2713 17 6 songs 
+- 2735
+: 2737 6 8 That 
+: 2745 2 9 voi
+: 2749 8 9 ces 
+: 2760 3 8 ne
+: 2765 5 6 ver 
+: 2772 17 4 shared 
+- 2795
+: 2797 2 1 And 
+: 2801 2 6 no 
+: 2805 5 4 one 
+: 2813 12 1 dared 
+- 2835
+: 2844 3 -3 Dis
+: 2849 2 -3 turb 
+: 2853 2 -3 the 
+: 2857 19 4 sound 
+- 2882
+: 2885 2 -4 Of 
+: 2889 2 -3 si
+: 2893 33 -6 lence 
+E

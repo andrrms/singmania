@@ -1,0 +1,212 @@
+#ARTIST:Wicked (Musical)
+#TITLE:I’m Not That Girl
+#MP3:Wicked (Musical) - I’m Not That Girl.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Musical
+#YEAR:2003
+#LANGUAGE:English
+#BPM:219.9
+#GAP:22570
+#VIDEO:a=KvoEqPHsDIw,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/15/f6/4d/15f64dc7-6ee9-a29a-4846-c22488cca889/06UMGIM10671.rgb.jpg/5000x5000bb.jpg,bg=https://www.ndr.de/nachrichten/hamburg/wicked106_v-fullhd.jpg
+: 0 4 16 Hands 
+: 8 4 16 touch, 
+- 14
+: 34 6 16 Eyes 
+: 45 4 16 meet 
+- 51
+: 78 2 21 Sud
+: 81 2 20 den 
+: 86 4 18 si
+: 93 7 16 lence, 
+- 102
+: 118 2 11 Sud
+: 121 5 16 den 
+: 132 11 13 heat 
+- 145
+: 161 4 14 Hearts 
+: 170 5 13 leap 
+: 182 1 11 in 
+: 184 2 9 a 
+: 187 5 11 gid
+: 193 6 16 dy 
+: 205 7 6 whirl 
+- 214
+: 235 4 21 He 
+: 241 4 20 could 
+: 247 4 18 be 
+* 253 5 23 that 
+: 261 17 16 boy 
+- 280
+: 310 4 14 But 
+: 315 3 14 I’m 
+: 322 3 13 not 
+* 328 4 21 that 
+: 337 27 11 girl 
+- 366
+: 387 6 16 Don’t 
+: 397 17 16 dream 
+: 426 4 16 too
+: 431 3 18 ~ 
+: 437 9 16 far 
+- 448
+: 466 5 21 Don’t 
+: 473 4 20 lose 
+: 480 4 18 sight 
+: 487 4 16 of 
+- 493
+: 505 2 11 Who 
+: 509 5 16 you 
+: 519 8 13 are 
+- 529
+: 550 3 14 Don’t 
+: 554 2 14 re
+: 558 2 13 mem
+: 562 2 11 be
+: 565 3 9 ~r 
+- 569
+: 569 4 9 That 
+: 577 3 11 rush 
+: 585 7 16 of 
+: 596 8 6 joy 
+- 606
+: 628 2 21 He 
+: 632 3 20 could 
+: 637 3 18 be 
+* 644 13 23 that 
+: 660 18 16 boy 
+- 680
+: 703 7 14 I’m 
+: 716 5 13 not 
+: 725 3 21 that 
+* 731 34 21 girl 
+- 767
+: 772 3 21 E’
+: 777 3 19 vry 
+: 783 2 21 so 
+: 787 3 17 of
+: 792 2 10 ten 
+- 796
+: 799 4 21 We
+: 804 1 22 ~
+: 806 1 21 ~ 
+: 809 4 19 long 
+: 816 2 17 to 
+: 819 4 19 steal 
+- 825
+: 832 1 19 To 
+: 834 1 19 a 
+: 836 3 19 land 
+: 840 2 17 of 
+: 844 2 19 what 
+: 850 3 15 might 
+: 855 2 8 have 
+: 859 17 17 been 
+- 878
+: 885 2 18 But 
+: 889 3 19 that 
+: 893 2 18 doe
+: 896 2 19 sn’t 
+: 902 4 16 soft
+: 908 2 9 en 
+: 912 4 16 the 
+: 919 5 16 ache 
+: 929 4 18 we 
+: 935 4 14 feel 
+- 941
+: 946 2 13 When 
+: 949 2 14 re
+: 952 4 16 al
+: 958 2 16 i
+: 961 2 16 ty 
+- 965
+: 967 3 16 Sets 
+: 973 8 16 back 
+: 984 23 16 in 
+- 1009
+: 1031 5 16 Blithe 
+: 1041 6 16 smile, 
+- 1049
+: 1069 5 16 Lithe 
+: 1078 5 16 limb 
+- 1085
+: 1109 3 21 She, 
+: 1115 2 20 who’s 
+: 1120 3 18 win 
+: 1127 4 16 some, 
+- 1133
+: 1148 3 11 She 
+: 1153 3 16 wi
+: 1157 3 13 ~ns 
+: 1164 3 13 him 
+- 1169
+: 1187 6 14 Gold 
+: 1197 8 13 hair 
+: 1214 1 11 with 
+: 1216 2 9 a 
+: 1222 3 11 gen
+: 1228 5 16 tle 
+: 1237 7 6 curl 
+- 1246
+: 1267 3 21 That’s 
+: 1272 3 20 the 
+: 1278 3 18 girl 
+: 1285 12 23 he 
+: 1302 13 16 chose 
+- 1317
+: 1343 7 14 And 
+: 1355 4 13 hea
+* 1362 13 21 ven 
+: 1381 18 11 knows 
+- 1401
+: 1422 3 25 I’m 
+: 1427 5 23 not 
+: 1436 6 21 that 
+: 1446 2 23 girl
+: 1449 58 21 ~ 
+- 1509
+: 1616 3 16 Don’t 
+: 1622 3 16 wish, 
+- 1627
+: 1651 4 16 Don’t 
+: 1659 4 16 start 
+- 1665
+: 1695 2 21 Wish
+: 1699 2 20 ing 
+: 1703 3 18 on
+: 1709 5 16 ly 
+: 1721 8 11 wounds 
+: 1735 3 16 the 
+: 1742 12 13 heart 
+- 1756
+: 1773 2 14 I 
+: 1777 2 14 was
+: 1780 2 14 n’t 
+: 1784 7 13 born 
+- 1793
+: 1799 2 13 For 
+: 1802 2 9 the 
+: 1807 7 11 rose 
+: 1818 9 16 and
+: 1829 3 18 ~ 
+: 1834 2 13 the 
+: 1840 7 6 pearl 
+- 1849
+: 1873 9 21 There’s 
+: 1886 3 20 a 
+: 1893 3 18 girl 
+: 1898 8 23 I
+: 1909 2 25 ~ 
+: 1915 22 16 know 
+- 1939
+: 1961 3 14 He 
+: 1968 4 13 loves 
+* 1976 9 21 her 
+: 1996 3 11 so 
+- 2001
+: 2055 5 13 I’m 
+: 2065 11 11 not 
+- 2078
+: 2109 6 9 That 
+: 2120 71 4 girl. 
+E

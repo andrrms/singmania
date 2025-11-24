@@ -1,0 +1,200 @@
+#ARTIST:Roar
+#TITLE:I Can’t Handle Change
+#MP3:Roar - I Can’t Handle Change.mp3
+#CREATOR:krasserdude
+#COVER:Roar - I Can’t Handle Change [CO].jpg
+#BACKGROUND:Roar - I Can’t Handle Change [BG].jpg
+#GENRE:Indie Rock
+#YEAR:2010
+#LANGUAGE:English
+#BPM:372
+#GAP:31100
+#VIDEO:a=f1V0cQFyC7E,co=i-cant-handle-change-688f71308ff6d.jpeg
+: 0 9 0 Hang
+: 11 5 9 in’ 
+: 17 11 9 out 
+: 36 3 0 where 
+: 41 3 0 I 
+: 47 9 4 don’t 
+: 59 4 4 be
+: 65 10 4 long 
+- 81
+: 84 9 4 Is 
+: 96 3 2 no
+: 101 12 4 thing 
+: 120 10 2 new 
+: 132 3 4 to 
+: 138 11 2 me 
+- 159
+: 192 9 0 I 
+: 203 4 9 get 
+: 215 15 9 tired 
+: 234 2 0 and 
+: 239 5 4 I 
+: 246 8 4 get 
+: 258 9 4 sick 
+- 269
+: 271 4 4 And 
+: 276 4 4 then 
+: 281 4 4 I 
+: 287 14 2 lose 
+: 305 4 4 the 
+: 311 11 2 strength 
+: 323 4 4 to 
+: 329 16 2 leave 
+- 355
+: 383 2 2 I 
+: 389 13 2 can’t 
+: 407 10 2 han
+: 419 4 1 dle 
+: 427 32 0 change 
+- 469
+: 479 2 2 I 
+: 484 7 2 can’t 
+: 503 11 2 han
+: 517 2 1 dle 
+: 522 38 0 change 
+- 571
+: 575 3 5 No
+: 580 4 5 thing 
+: 586 8 5 I 
+: 598 9 9 do 
+: 610 9 5 is 
+: 624 9 16 e
+: 635 3 14 ver 
+: 641 21 16 good 
+- 669
+: 672 3 5 No
+: 677 3 5 thing 
+: 683 8 5 I 
+: 695 9 9 do 
+: 707 8 5 is 
+: 720 8 14 e
+: 731 3 9 ver 
+: 737 8 7 good 
+: 749 3 9 e
+: 754 8 7 nough 
+- 767
+: 769 2 5 No
+: 774 3 5 thing 
+: 779 6 5 I 
+: 790 8 9 do 
+: 803 7 5 is 
+: 815 7 16 e
+: 827 2 14 ver 
+: 832 65 16 good 
+- 921
+: 959 4 5 No
+: 965 4 5 thing 
+: 971 8 5 I 
+: 983 9 9 do 
+: 995 9 5 is 
+: 1007 10 16 e
+: 1018 3 14 ver 
+: 1025 20 16 good 
+- 1052
+: 1055 3 5 No
+: 1060 3 5 thing 
+: 1067 8 5 I 
+: 1078 9 9 do 
+: 1091 8 5 is 
+: 1104 7 16 e
+: 1114 4 9 ver 
+: 1121 9 7 good 
+: 1133 4 9 e
+: 1139 7 7 nough 
+- 1149
+: 1151 3 5 No
+: 1157 3 5 thing 
+: 1163 6 5 I 
+: 1175 7 9 do 
+: 1187 7 5 is 
+: 1199 7 16 e
+: 1210 3 14 ver 
+: 1216 75 16 good 
+- 1315
+: 1343 9 9 Leave 
+: 1358 19 12 me 
+: 1382 4 9 a
+: 1390 23 12 lone 
+- 1423
+: 1442 9 9 Leave 
+: 1456 16 12 me 
+: 1480 4 9 a
+: 1487 25 7 lone 
+- 1561
+: 1680 9 9 Leave 
+: 1695 18 12 me 
+: 1719 3 9 a
+: 1727 22 12 lone 
+- 1759
+: 1775 9 9 Leave 
+: 1791 18 12 me 
+: 1816 4 9 a
+: 1823 35 7 lone 
+- 1907
+: 2102 5 9 I 
+: 2110 12 7 can’t 
+: 2126 6 9 help 
+: 2134 12 11 but 
+: 2150 6 12 re
+: 2159 13 14 peat 
+: 2176 4 16 my
+: 2183 11 17 self 
+- 2198
+: 2200 5 19 “I 
+: 2208 12 21 know 
+: 2222 6 22 it’s 
+: 2231 13 21 not 
+: 2247 5 22 your 
+: 2255 23 21 fault” 
+- 2288
+: 2295 6 9 Still 
+: 2303 14 7 late
+: 2319 5 9 ly 
+: 2327 13 11 I 
+: 2344 5 12 be
+: 2351 13 14 gin 
+: 2367 4 16 to 
+: 2375 11 17 shake 
+- 2390
+: 2392 6 19 For 
+: 2400 9 21 no 
+: 2411 9 22 rea
+: 2423 10 21 son 
+: 2435 3 21 at
+: 2439 5 22 ~ 
+: 2446 117 16 all 
+- 2574
+: 2578 8 4 For 
+: 2591 9 4 no 
+: 2603 9 5 rea
+: 2615 10 7 son 
+: 2627 3 9 at
+: 2632 4 10 ~ 
+: 2639 117 4 all 
+- 2766
+: 2770 8 4 For 
+: 2783 8 4 no 
+: 2794 8 5 rea
+: 2806 8 7 son 
+: 2818 3 9 at
+: 2823 4 10 ~ 
+: 2830 118 4 all 
+- 2958
+: 2962 10 4 For 
+: 2974 9 4 no 
+: 2985 10 5 rea
+: 2998 9 7 son 
+: 3009 4 9 at
+: 3014 4 10 ~ 
+: 3021 114 4 all 
+- 3145
+: 3154 8 4 For 
+: 3165 8 4 no 
+: 3176 8 5 rea
+: 3188 8 7 son 
+: 3200 3 9 at
+: 3205 5 10 ~ 
+: 3214 188 4 all 
+E

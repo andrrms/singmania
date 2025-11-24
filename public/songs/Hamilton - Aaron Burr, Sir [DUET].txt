@@ -1,0 +1,641 @@
+#ARTIST:Hamilton
+#TITLE:Aaron Burr, Sir [DUET]
+#MP3:Hamilton - Aaron Burr, Sir [DUET].mp3
+#CREATOR:Danmcfoo
+#EDITION:[DUET]-Songs
+#GENRE:Musical
+#YEAR:2015
+#LANGUAGE:English
+#BPM:240
+#GAP:6240
+#VIDEO:a=C6GFb7FIB0Y,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/a0/07/38a007fe-dc73-56af-082c-5668aab3e466/075679909183.jpg/5000x5000bb.jpg,bg=hamilton-5f126d92aaa76.jpg,p1=Alexander Hamilton,p2=Aaron Burr
+P1
+F 0 1 28 Se
+F 2 2 28 ven
+F 5 4 28 teen 
+F 10 3 28 se
+F 14 2 28 ven
+F 17 2 28 ty 
+F 20 8 28 six 
+- 30
+F 96 5 28 New 
+F 102 4 28 York 
+F 107 3 28 Ci
+F 111 6 28 ty 
+- 119
+F 121 2 28 Par
+F 124 2 28 don 
+F 127 4 28 me, 
+F 132 3 28 are 
+F 136 2 28 you 
+F 139 2 28 Aa
+F 142 2 28 ron 
+F 145 4 28 Burr, 
+F 153 4 28 sir? 
+- 159
+F 188 2 28 Oh, 
+F 191 8 28 sure, 
+F 201 4 28 sir 
+- 206
+F 208 2 28 I’m 
+F 211 1 28 A
+F 213 2 28 lex
+F 216 2 28 an
+F 219 2 28 der 
+F 222 2 28 Ham
+F 225 2 28 il
+F 228 2 28 ton, 
+F 231 2 28 I’m 
+F 234 3 28 at 
+F 238 1 28 your 
+F 240 4 28 ser
+F 245 2 28 vice, 
+F 248 4 28 sir 
+- 253
+F 254 3 28 I 
+F 258 2 28 have 
+F 261 4 28 been 
+F 268 1 28 loo
+F 270 3 28 king 
+F 274 1 28 for 
+F 276 3 28 you 
+- 281
+F 298 4 28 Sir, 
+F 305 1 28 I 
+F 307 2 28 heard 
+F 310 2 28 your 
+F 313 3 28 name 
+F 317 1 28 at 
+F 319 2 28 Prince
+F 322 2 28 ton 
+- 325
+F 326 1 28 I 
+F 328 2 28 was 
+F 331 2 28 see
+F 334 3 28 king 
+F 338 1 28 an 
+F 340 2 28 ac
+F 343 2 28 ce
+F 346 1 28 le
+F 348 2 28 ra
+F 351 2 28 ted 
+F 354 3 28 course 
+F 358 1 28 of 
+F 360 2 28 stu
+F 363 4 28 dy 
+- 368
+F 370 1 28 When 
+F 372 1 28 I 
+F 374 1 28 got 
+F 376 2 28 sort 
+F 379 1 28 of 
+F 381 2 28 out 
+F 384 2 28 of 
+F 387 6 28 sorts 
+F 394 1 28 with 
+F 396 1 28 a 
+F 398 1 28 bud
+F 400 1 28 dy 
+F 402 3 28 of 
+F 407 5 28 yours 
+- 413
+F 413 1 28 I 
+F 415 1 28 may 
+F 417 2 28 have 
+F 420 3 28 punched 
+F 424 4 28 him 
+F 429 1 28 it’s 
+F 431 1 28 a 
+F 433 2 28 blur, 
+F 440 4 28 sir 
+- 446
+F 448 1 28 He 
+F 450 2 28 hand
+F 453 3 28 les 
+F 457 2 28 the 
+F 460 2 28 fi
+F 463 3 28 nan
+F 467 8 28 cials? 
+- 477
+F 496 4 28 Yes, 
+F 502 2 28 I 
+F 505 1 28 wan
+F 507 2 28 ted 
+F 510 1 28 to 
+F 512 1 28 do 
+F 514 1 28 what 
+F 516 3 28 you 
+F 520 2 28 did 
+- 523
+F 523 3 28 Grad
+F 527 1 28 u
+F 529 2 28 ate 
+F 532 2 28 in 
+F 535 2 28 two, 
+F 538 2 28 then 
+F 541 3 28 join 
+F 545 1 28 the 
+F 547 2 28 rev
+F 550 2 28 o
+F 553 2 28 lu
+F 556 2 28 tion 
+- 559
+F 561 1 28 He 
+F 563 2 28 looked 
+F 566 2 28 at 
+F 569 2 28 me 
+F 572 3 28 like 
+F 576 1 28 I 
+F 578 1 28 was 
+F 580 3 28 stu
+F 584 2 28 pid 
+- 587
+F 587 3 28 I’m 
+F 591 3 28 not 
+F 595 2 28 stu
+F 598 4 28 pid 
+- 603
+F 605 1 28 So 
+F 607 2 28 how’d 
+F 610 2 28 you 
+F 613 1 28 do 
+F 615 4 28 it, 
+- 620
+F 622 1 28 How’d 
+F 624 1 28 you 
+F 626 1 28 grad
+F 628 1 28 u
+F 630 3 28 ate 
+F 634 2 28 so 
+F 637 6 28 fast? 
+- 645
+F 696 1 28 You’re 
+F 698 1 28 an 
+F 700 1 28 or
+F 702 2 28 phan, 
+F 706 1 28 of 
+F 708 8 28 course 
+F 718 1 28 I’m 
+F 720 1 28 an 
+F 722 1 28 or
+F 724 2 28 phan 
+- 727
+F 727 2 28 God, 
+F 730 2 28 I 
+F 733 3 28 wish 
+F 737 1 28 there 
+F 739 3 28 was 
+F 743 1 28 a 
+F 745 4 28 war 
+- 750
+F 750 1 28 Then 
+F 752 2 28 we 
+F 755 2 28 could 
+F 758 3 28 prove 
+- 762
+F 762 1 28 That 
+F 764 1 28 we’re 
+F 766 2 28 worth 
+F 769 4 28 more 
+F 774 1 28 than 
+F 776 1 28 a
+F 778 1 28 ny
+F 780 1 28 one 
+F 782 2 28 bar
+F 785 3 28 gained 
+F 789 7 28 for 
+- 798
+F 827 2 28 That 
+F 830 2 28 would 
+F 833 2 28 be 
+F 836 5 28 nice 
+- 843
+F 931 5 28 What? 
+- 938
+F 980 5 19 Ha 
+- 987
+F 1096 2 16 You 
+F 1099 3 16 can’t 
+F 1103 1 16 be 
+F 1105 1 16 ser
+F 1107 2 14 i
+F 1110 7 16 ous 
+- 1119
+F 1161 4 14 Yes 
+- 1167
+F 1244 2 12 Yo 
+F 1247 4 11 yo 
+F 1252 1 16 yo 
+F 1254 4 16 yo 
+F 1261 6 16 yo 
+- 1268
+F 1268 4 16 What 
+F 1273 6 16 time 
+F 1280 3 16 is 
+F 1284 5 16 it? 
+- 1290
+F 1290 6 16 Show 
+F 1297 9 16 time 
+- 1308
+F 1338 6 14 Show 
+F 1345 5 12 time, 
+F 1351 5 11 show 
+F 1357 5 16 time 
+- 1363
+F 1363 5 16 Yo, 
+F 1369 5 16 I’m 
+F 1375 4 16 John 
+F 1381 3 16 Lau
+F 1385 2 16 ren’s 
+F 1388 1 16 in 
+F 1390 2 16 the 
+F 1393 5 16 place 
+F 1399 3 16 to 
+F 1403 5 16 be 
+- 1409
+F 1411 5 16 Two 
+F 1417 3 16 pints 
+F 1421 2 16 o’ 
+F 1424 4 16 Sam 
+F 1429 3 16 A
+F 1433 3 16 dams, 
+F 1437 2 16 but 
+F 1440 2 16 I’m 
+F 1443 1 16 wor
+F 1445 2 16 kin’ 
+F 1448 4 16 on 
+F 1453 4 16 three, 
+F 1458 6 16 hah 
+- 1466
+F 1469 3 16 Those 
+F 1473 3 16 red
+F 1477 4 16 coats 
+F 1484 4 16 don’t 
+F 1490 2 16 want 
+F 1493 3 16 it 
+F 1497 2 16 with 
+F 1500 3 16 me 
+- 1504
+F 1505 2 16 ’Cause 
+F 1508 2 16 I 
+F 1511 1 16 will 
+F 1513 3 16 pop 
+F 1517 3 16 chick
+F 1521 1 16 a 
+F 1525 5 16 pop 
+F 1531 2 16 these 
+F 1534 4 16 cops 
+F 1539 3 16 till 
+F 1543 4 16 I’m 
+F 1548 4 16 free 
+- 1554
+F 1753 4 16 Brrrah, 
+F 1760 8 16 brraaah 
+F 1771 2 16 I 
+F 1774 2 16 am 
+F 1777 2 16 Her
+F 1780 3 16 cu
+F 1784 4 16 les 
+F 1789 2 16 Mull
+F 1792 2 16 i
+F 1795 3 16 gan 
+- 1799
+F 1799 1 16 Up 
+F 1801 2 16 in 
+F 1804 2 16 it, 
+F 1807 2 16 lo
+F 1810 2 16 vin’ 
+F 1813 2 16 it, 
+F 1816 2 16 yes 
+F 1819 2 16 I 
+F 1822 2 16 heard 
+F 1825 2 16 ya 
+F 1828 2 16 mo
+F 1831 2 16 ther 
+F 1834 3 16 said 
+F 1838 2 16 come 
+F 1841 2 16 a
+F 1844 6 16 gain 
+- 1852
+F 1854 2 16 Lock 
+F 1857 1 16 up 
+F 1859 2 16 ya 
+F 1862 3 16 daugh
+F 1866 2 16 ters 
+F 1869 2 28 and 
+F 1872 3 16 hor
+F 1876 4 16 ses, 
+F 1883 2 16 of 
+F 1886 4 16 course 
+- 1891
+F 1891 3 16 It’s 
+F 1895 2 16 hard 
+F 1898 2 16 to 
+F 1901 3 16 have 
+F 1905 1 16 in
+F 1907 1 16 ter
+F 1909 6 16 course 
+F 1916 1 16 o
+F 1918 2 16 ver 
+F 1921 4 16 four 
+F 1926 3 16 sets 
+F 1930 2 16 of 
+F 1933 4 16 cor
+F 1938 11 16 sets 
+- 1951
+F 2045 2 16 Well, 
+F 2049 1 16 if 
+F 2051 1 16 it 
+F 2053 2 16 ain’t 
+F 2056 2 16 the 
+F 2059 3 16 pro
+F 2063 1 16 di
+F 2065 2 16 gy 
+F 2068 2 16 of 
+F 2071 2 16 Prince
+F 2074 2 16 ton 
+F 2077 3 16 col
+F 2081 4 16 lege 
+- 2087
+F 2090 2 16 Aa
+F 2093 5 16 ron 
+F 2099 3 16 Burr 
+- 2103
+F 2103 1 16 Give 
+F 2105 1 16 us 
+F 2107 3 16 a 
+F 2111 5 16 verse, 
+F 2117 3 16 drop 
+F 2121 4 16 some 
+F 2126 3 16 know
+F 2130 7 16 ledge 
+- 2139
+F 2228 3 16 Burr, 
+F 2232 1 16 the 
+F 2234 2 16 re
+F 2237 1 16 vo
+F 2239 2 28 lu
+F 2242 3 16 tion’s 
+F 2246 2 16 im
+F 2249 1 16 mi
+F 2251 6 16 nent, 
+F 2258 2 16 what 
+F 2261 1 16 do 
+F 2263 3 16 you 
+F 2267 5 16 stall 
+F 2274 3 16 for? 
+- 2278
+F 2278 1 16 If 
+F 2280 1 16 you 
+F 2282 7 16 stand 
+F 2290 2 16 for 
+F 2293 2 16 no
+F 2296 2 16 thing 
+F 2299 4 16 Burr, 
+F 2305 1 16 what
+F 2307 2 16 ’ll 
+F 2311 3 16 you 
+F 2315 3 16 fall 
+F 2319 6 16 for? 
+- 2327
+F 2346 3 16 Who 
+F 2350 1 16 are 
+F 2352 3 15 you? 
+- 2357
+F 2372 3 15 Ooh, 
+F 2378 1 15 who 
+F 2380 2 15 is 
+F 2383 4 15 this 
+F 2388 4 15 kid, 
+F 2393 2 15 what’s 
+F 2396 2 15 he 
+F 2399 1 15 gon
+F 2401 2 15 na 
+F 2404 3 15 do? 
+P2
+F 0 3 28 Se
+F 3 3 28 ven
+F 6 4 28 teen 
+F 11 4 28 se
+F 15 3 28 ven
+F 18 3 28 ty 
+F 21 8 28 six 
+- 31
+F 96 5 28 New 
+F 102 4 28 York 
+F 107 4 28 Ci
+F 111 6 28 ty 
+- 119
+F 163 3 28 That 
+F 167 2 28 de
+F 169 6 28 pends, 
+F 176 3 28 who’s 
+F 179 4 28 as
+F 183 3 28 king? 
+- 188
+F 279 3 28 I’m 
+F 283 2 28 get
+F 285 3 28 ting 
+F 289 3 28 ner
+F 292 5 28 vous 
+- 299
+F 473 2 28 You 
+F 476 3 28 punched 
+F 480 2 28 the 
+F 483 2 28 bur
+F 485 5 28 sar? 
+- 492
+F 653 2 28 It 
+F 656 2 28 was 
+F 659 2 28 my 
+F 662 3 28 pa
+F 665 3 28 rent’s 
+F 668 4 28 dy
+F 672 1 28 ing 
+F 674 3 28 wish 
+F 678 2 28 be
+F 680 2 28 fore 
+F 683 3 28 they 
+F 686 6 28 passed 
+- 694
+F 802 1 28 Can 
+F 804 1 28 I 
+F 806 3 28 buy 
+F 809 2 28 you 
+F 811 2 28 a 
+F 814 6 28 drink? 
+- 822
+F 847 3 28 While 
+F 851 2 28 we’re 
+F 854 3 28 tal
+F 857 2 28 king, 
+F 860 2 28 let 
+F 863 2 28 me 
+F 866 3 28 of
+F 869 3 28 fer 
+F 872 2 28 you 
+F 874 3 28 some 
+F 877 4 28 free 
+F 882 3 28 ad
+F 885 6 28 vice 
+- 893
+F 902 6 31 Talk 
+F 914 13 28 less 
+- 929
+: 948 13 31 Smile 
+: 961 7 31 mo
+: 968 6 28 ~re 
+- 976
+: 993 3 31 Don’t 
+: 997 4 31 let 
+: 1001 5 31 them 
+: 1006 9 31 know 
+: 1016 4 28 what 
+: 1021 4 31 you’re 
+: 1025 5 33 a
+: 1030 8 28 gainst 
+: 1039 4 26 or 
+: 1045 4 24 what 
+: 1049 15 28 you’re 
+: 1064 10 28 for 
+- 1076
+: 1126 3 19 You 
+: 1130 7 28 wan
+: 1137 4 26 na 
+: 1142 2 24 get 
+: 1144 2 26 a
+: 1146 7 28 head? 
+- 1155
+: 1177 9 28 Fools 
+: 1187 2 26 who 
+: 1190 2 24 run 
+: 1192 3 26 their 
+: 1195 13 28 mouths 
+: 1208 5 24 off 
+: 1215 9 26 wind 
+: 1225 7 24 up 
+: 1234 9 23 dead 
+- 1245
+: 1309 6 26 Like 
+: 1316 8 24 I 
+: 1326 25 23 said 
+- 1353
+F 1556 4 16 Oui 
+F 1561 4 16 oui, 
+F 1567 3 16 mon 
+F 1570 3 16 a
+F 1573 5 16 mi, 
+F 1579 3 16 je 
+F 1582 3 16 m’a
+F 1585 4 16 ppelle 
+F 1590 3 16 La
+F 1594 3 16 fa
+F 1597 6 16 yette 
+- 1604
+F 1606 3 16 The 
+F 1609 4 16 Lan
+F 1613 2 16 ce
+F 1615 6 16 lot 
+F 1622 2 16 of 
+F 1624 3 16 the 
+F 1628 2 16 rev
+F 1630 3 16 o
+F 1633 3 16 lu
+F 1636 2 16 tion
+F 1638 3 16 ar
+F 1641 2 16 y 
+F 1645 5 16 set 
+- 1652
+F 1655 2 16 I 
+F 1657 5 16 came 
+F 1662 4 16 from 
+F 1666 2 16 a
+F 1668 5 16 far 
+F 1675 3 16 just 
+F 1679 1 16 to 
+F 1681 5 16 say 
+F 1686 4 16 bon
+F 1691 7 16 soir 
+- 1699
+F 1699 2 16 Tell 
+F 1701 3 16 the 
+F 1704 6 16 king 
+F 1711 2 16 cas
+F 1713 2 16 se-
+F 1715 4 16 toi 
+- 1720
+F 1721 2 16 Who 
+F 1723 2 16 is 
+F 1726 2 16 the 
+F 1729 5 16 best, 
+F 1738 2 16 c’est 
+F 1740 11 16 moi 
+- 1753
+F 1851 15 16 Ayy 
+- 1868
+F 1951 3 16 No 
+F 1955 3 16 more 
+F 1960 6 16 sex, 
+F 1967 2 16 pour 
+F 1970 2 16 me 
+F 1973 2 16 a
+F 1975 3 16 no
+F 1978 2 16 ther 
+F 1982 4 16 brew, 
+F 1988 6 16 son 
+- 1995
+F 1996 2 16 Let’s 
+F 1999 2 16 raise 
+F 2002 1 16 a 
+F 2004 3 16 cou
+F 2007 3 16 ple 
+F 2011 4 16 more 
+F 2016 3 16 to 
+F 2020 3 16 the 
+F 2024 2 16 re
+F 2026 3 16 vo
+F 2029 7 16 lu
+F 2036 7 16 tion 
+- 2045
+F 2147 2 16 Good 
+F 2149 3 16 luck 
+F 2153 2 16 with 
+F 2155 3 16 that, 
+F 2158 2 16 you’re 
+F 2161 3 16 ta
+F 2164 3 16 kin’ 
+F 2168 2 16 a 
+F 2171 8 16 stand 
+- 2180
+F 2180 2 16 You 
+F 2184 5 16 spit, 
+F 2190 4 16 I’m 
+F 2195 2 16 ’a 
+F 2198 4 16 sit 
+- 2203
+F 2204 2 16 We’ll 
+F 2207 4 16 see 
+F 2212 4 16 where 
+F 2217 3 16 we 
+F 2221 10 16 land 
+- 2233
+F 2330 5 16 Oh, 
+F 2336 3 16 who 
+F 2339 2 16 are 
+F 2341 4 16 you? 
+- 2347
+F 2356 3 15 Who 
+F 2360 3 15 are 
+F 2364 6 15 you? 
+- 2371
+F 2372 3 15 Ooh, 
+F 2378 2 15 who 
+F 2380 2 15 is 
+F 2383 4 15 this 
+F 2388 4 15 kid, 
+F 2393 3 15 what’s 
+F 2396 2 15 he 
+F 2399 2 15 gon
+F 2401 2 15 na 
+F 2404 3 15 do? 
+E

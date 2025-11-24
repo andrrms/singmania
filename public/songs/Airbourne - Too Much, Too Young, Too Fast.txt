@@ -1,0 +1,305 @@
+#ARTIST:Airbourne
+#TITLE:Too Much, Too Young, Too Fast
+#MP3:Airbourne - Too Much, Too Young, Too Fast.mp3
+#CREATOR:Shifty
+#GENRE:Hard Rock
+#YEAR:2007
+#LANGUAGE:English
+#BPM:227.83
+#GAP:17660
+#VIDEO:v=AkMZ6fV3T_0,co=too-much-too-young-too-fast-52657e8904405.jpg,bg=airbourne-54bb9ae6c9d69.jpg
+: 0 2 12 Some 
+: 4 2 12 peo
+: 7 4 9 ple 
+: 12 11 12 like 
+: 24 2 7 to 
+: 28 5 7 make 
+: 34 3 9 all 
+: 38 2 7 the 
+: 41 6 12 rules 
+- 48
+: 49 2 7 And 
+: 52 4 9 tell 
+: 57 6 12 o
+: 64 3 11 thers 
+: 68 3 9 what 
+: 72 3 7 to 
+: 76 7 9 do 
+- 85
+: 129 2 12 They 
+: 132 2 12 make 
+: 136 3 9 it 
+: 140 3 12 their 
+: 144 6 12 way 
+: 152 3 9 so 
+: 156 3 12 they 
+: 160 3 12 al
+: 164 3 9 ways 
+: 168 6 12 win 
+- 175
+: 176 2 7 And 
+: 180 3 9 the 
+: 184 6 12 o
+: 191 5 11 thers 
+: 197 3 9 a
+: 201 2 7 lways 
+: 204 12 9 lose 
+- 218
+: 260 6 12 Street 
+: 268 7 12 gangs 
+: 276 3 9 and 
+: 281 6 12 mad
+: 288 12 12 men 
+- 302
+: 304 3 7 How 
+: 308 3 9 they 
+: 312 7 12 wage 
+: 320 3 11 their 
+: 324 3 9 pri
+: 328 3 7 vate 
+: 332 4 9 wa
+: 337 9 12 rs 
+- 348
+: 385 3 12 In 
+: 389 2 12 ban
+: 392 3 9 kers 
+: 396 6 12 clothes 
+: 403 3 9 their 
+: 408 6 12 hearts 
+: 415 7 12 are 
+: 423 7 12 froze 
+: 432 3 7 and 
+- 436
+: 436 3 9 Their 
+: 440 6 12 wives 
+: 447 4 11 hold 
+: 452 3 9 hands 
+: 456 3 7 with 
+: 460 8 9 whores 
+- 470
+: 511 3 12 I’ll 
+: 515 3 12 sit 
+: 520 3 9 and 
+: 524 7 12 spin 
+: 532 3 12 for 
+: 536 3 9 a 
+: 540 9 12 little 
+: 551 7 14 while 
+- 559
+: 560 3 11 If 
+: 564 3 11 it’s 
+: 568 3 9 the 
+: 572 3 11 end 
+: 577 2 11 of 
+: 582 9 11 days 
+- 592
+: 592 3 11 I’m 
+: 596 5 11 goin 
+: 603 4 16 out 
+: 608 6 16 in 
+: 616 9 16 style 
+- 626
+: 627 7 9 Too 
+: 635 7 12 much, 
+: 644 7 9 too 
+: 652 7 12 young, 
+: 661 6 9 too 
+: 668 9 12 fa
+: 680 8 9 ~st 
+- 689
+: 689 2 9 I’m 
+: 692 8 9 gonna 
+: 708 3 12 drink 
+: 712 3 9 it 
+: 716 6 12 up 
+: 731 3 12 while 
+: 736 4 9 it 
+: 742 7 9 lasts 
+- 751
+: 755 5 9 Too 
+: 763 6 12 much, 
+: 771 6 9 too 
+: 780 6 12 young, 
+: 788 6 9 too 
+: 796 11 12 fa
+: 808 6 9 ~st 
+- 815
+: 816 4 9 I’m 
+: 821 7 9 gonna 
+: 835 3 12 tear 
+: 840 3 9 it 
+: 844 6 12 up 
+: 856 2 9 so 
+: 859 3 12 fill 
+: 863 5 9 my 
+: 870 7 9 glass 
+- 879
+: 896 2 12 Thieves 
+: 900 3 12 in 
+: 904 3 9 the 
+: 908 6 12 night 
+: 919 5 7 rob 
+: 926 6 9 you 
+: 934 8 9 blind 
+- 944
+: 947 3 9 With 
+: 952 5 12 sur
+: 959 3 11 gi
+: 963 3 9 cal 
+: 968 3 7 pre
+: 972 3 9 ci
+: 976 4 12 sion 
+- 982
+: 1024 2 12 You 
+: 1028 2 12 can’t 
+: 1032 2 9 e
+: 1035 8 12 vade 
+: 1044 2 9 the 
+: 1048 6 12 eye 
+: 1055 3 12 in 
+: 1059 2 9 the 
+: 1063 6 12 sky 
+- 1070
+: 1071 3 7 He 
+: 1076 3 9 got 
+: 1080 6 12 fa
+: 1087 2 11 cial 
+: 1091 3 9 re
+: 1095 3 7 cog
+: 1099 11 9 nition 
+- 1112
+: 1157 12 12 Paranoia 
+: 1171 3 9 on 
+: 1176 12 12 every 
+: 1190 8 12 street 
+- 1200
+: 1204 2 9 It’s 
+: 1207 6 12 hard 
+: 1216 2 11 to 
+: 1219 3 9 stay 
+: 1224 3 7 a
+: 1228 2 9 li
+: 1231 5 12 ~ve 
+- 1238
+: 1282 7 12 Never 
+: 1291 7 12 know 
+: 1300 3 12 when 
+: 1304 2 9 you’ll 
+: 1307 4 12 feel 
+: 1313 4 12 the 
+: 1318 6 12 heat 
+- 1326
+: 1331 3 9 Be
+: 1335 6 12 fore 
+: 1343 2 11 it 
+: 1347 3 9 takes 
+: 1352 3 7 your 
+: 1356 13 9 life 
+- 1371
+: 1406 3 12 I’ll 
+: 1410 3 12 sit 
+: 1415 3 9 and 
+: 1419 6 12 spin 
+: 1427 3 12 for 
+: 1431 2 9 a 
+: 1435 8 12 little 
+: 1445 8 14 while 
+- 1454
+: 1455 3 12 If 
+: 1459 3 12 it’s 
+: 1463 3 9 the 
+: 1467 4 12 end 
+: 1472 3 12 of 
+: 1479 6 12 days 
+- 1486
+: 1487 2 11 I’m 
+: 1491 5 11 goin 
+: 1498 3 16 out 
+: 1504 5 16 in 
+: 1510 10 16 style 
+- 1522
+: 1523 6 9 Too 
+: 1531 6 12 much, 
+: 1540 6 9 too 
+: 1547 6 12 young, 
+: 1555 7 9 too 
+: 1563 11 12 fa
+: 1576 6 9 ~st 
+- 1583
+: 1584 2 9 I’m 
+: 1588 9 9 gonna 
+: 1600 6 12 drink 
+: 1607 2 9 it 
+: 1611 10 12 up 
+: 1627 3 12 while 
+: 1631 5 9 it 
+: 1638 10 9 lasts 
+- 1650
+: 1651 6 9 Too 
+: 1659 6 12 much, 
+: 1667 7 9 too 
+: 1675 6 12 young, 
+: 1683 5 9 too 
+: 1691 11 12 fa
+: 1703 7 9 ~st 
+- 1711
+: 1712 4 9 I’m 
+: 1717 10 9 gonna 
+: 1731 3 12 tear 
+: 1736 2 9 it 
+: 1739 7 12 up 
+: 1751 2 9 so 
+: 1755 2 12 fill 
+: 1759 6 9 my 
+: 1766 8 9 glass 
+- 1776
+: 2163 6 9 Too 
+: 2171 6 12 much, 
+: 2179 6 9 too 
+: 2187 6 12 young, 
+: 2194 6 9 too 
+: 2202 10 12 fa
+: 2215 6 9 ~st 
+- 2222
+: 2223 3 9 I’m 
+: 2228 7 9 gonna 
+: 2243 3 12 drink 
+: 2247 2 9 it 
+: 2251 6 12 up 
+: 2266 4 12 while 
+: 2271 5 9 it 
+: 2277 8 9 lasts 
+- 2287
+: 2289 8 9 Too 
+: 2299 6 12 much, 
+: 2307 6 9 too 
+: 2315 6 12 young, 
+: 2323 6 9 too 
+: 2330 12 12 fa
+: 2344 6 9 ~st 
+- 2351
+: 2351 3 9 I’m 
+: 2356 7 9 gonna 
+: 2371 3 12 tear 
+: 2376 2 9 it 
+: 2379 9 12 up 
+: 2390 2 9 so 
+: 2394 2 12 fill 
+: 2398 6 9 my 
+: 2405 8 9 glass 
+- 2415
+: 2418 6 9 Too 
+: 2426 13 12 much 
+: 2446 3 12 I’m 
+: 2451 5 12 gonna 
+: 2457 4 12 drink 
+: 2463 4 12 it 
+: 2469 7 12 up 
+- 2477
+: 2478 6 12 Too 
+: 2486 12 14 fast 
+: 2511 7 14 yeah 
+: 2520 6 16 while 
+: 2528 4 16 it 
+* 2534 77 16 last 
+E

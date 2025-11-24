@@ -1,0 +1,182 @@
+#ARTIST:Badly Drawn Boy
+#TITLE:A Minor Incident
+#MP3:Badly Drawn Boy - A Minor Incident.mp3
+#CREATOR:uweotto, Fepo
+#YEAR:2002
+#LANGUAGE:English
+#BPM:334.98
+#GAP:25680
+#VIDEO:v=SUpZdLwjteY,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d3/03/30/d30330e0-c8e2-6224-9d90-8cf41f67e2a2/634904015282.png/5000x5000bb.jpg
+: 0 6 2 There’s 
+: 8 3 2 no
+: 12 6 2 thing 
+: 20 4 2 I 
+: 28 4 2 could 
+: 36 4 2 say 
+: 48 3 -1 to 
+: 52 4 -1 make 
+: 60 4 -1 you 
+: 71 5 -1 try 
+: 79 3 -3 to 
+: 84 4 -5 feel 
+: 91 5 -3 o
+: 98 9 -1 kay, 
+- 109
+: 128 4 2 And 
+: 133 3 2 no
+: 138 6 2 thing 
+: 147 5 2 you 
+: 154 4 2 could 
+: 160 4 2 do 
+: 172 3 0 to 
+: 177 5 2 stop 
+: 184 3 2 me 
+: 191 6 2 fee
+: 199 3 2 ling 
+: 204 2 2 the 
+: 208 6 2 way 
+: 216 3 2 I 
+: 223 5 2 do. 
+- 230
+: 249 3 6 And 
+: 255 4 7 if 
+: 264 3 7 the 
+: 269 6 7 chance 
+: 279 5 7 should 
+: 287 4 7 hap
+: 294 3 4 pen 
+: 304 3 4 that 
+: 310 3 4 I 
+: 320 3 2 ne
+: 324 3 0 ver 
+: 331 4 -1 see 
+: 338 3 -3 you 
+: 344 2 -3 a
+: 348 4 -1 gain, 
+- 354
+: 366 5 -1 Just 
+: 374 3 0 re
+: 379 8 2 mem
+: 389 3 2 ber 
+: 394 3 2 that 
+: 403 4 0 I’ll 
+: 411 4 -1 al
+: 417 3 -3 ways 
+: 422 5 -5 love 
+: 429 5 -5 you. 
+- 436
+: 871 5 2 I’d 
+: 881 5 2 be 
+: 889 3 2 a 
+: 895 5 2 bet
+: 903 3 2 ter 
+: 909 5 2 per
+: 918 5 0 son 
+: 926 3 0 on 
+: 934 4 -1 the 
+: 943 3 -1 ot
+: 947 3 -3 her 
+: 953 5 -5 side 
+: 963 4 -3 I’m 
+: 970 6 -1 sure. 
+- 978
+: 997 4 2 You’d 
+: 1005 6 2 find 
+: 1015 2 2 a 
+: 1019 4 2 way 
+: 1028 4 2 to 
+: 1034 5 2 help 
+: 1044 3 0 your
+: 1050 5 2 self, 
+- 1057
+: 1064 2 0 And 
+: 1068 9 2 find 
+: 1080 2 2 an
+: 1084 2 2 o
+: 1088 4 2 ther 
+: 1094 6 2 door. 
+- 1102
+: 1122 3 6 To 
+: 1128 4 7 shrug 
+: 1136 4 7 off 
+: 1144 6 7 min
+: 1152 3 7 or 
+: 1159 5 7 in
+: 1166 5 4 ci
+: 1173 5 4 dents, 
+- 1180
+: 1184 3 0 And 
+: 1191 5 2 make 
+: 1199 3 0 us 
+: 1205 3 -1 both 
+: 1212 4 -3 feel 
+: 1219 6 -1 proud. 
+- 1227
+: 1238 3 -1 I’d 
+: 1244 3 0 just 
+: 1251 4 2 wish 
+: 1260 3 2 I 
+: 1266 4 2 could 
+: 1275 3 0 be 
+: 1281 4 -1 there 
+: 1288 2 -3 to 
+: 1292 2 -5 see 
+: 1296 2 -3 you 
+: 1300 5 -5 through. 
+- 1307
+: 2363 5 2 You 
+: 2371 6 2 al
+: 2380 4 2 ways 
+: 2388 4 2 were 
+: 2396 2 2 the 
+: 2401 5 2 one 
+: 2412 3 0 to 
+: 2417 6 0 make 
+: 2426 3 -1 us 
+: 2433 7 -1 stand 
+: 2444 4 -3 out 
+: 2451 2 -5 in 
+: 2455 2 -3 a 
+: 2459 9 -1 crowd, 
+- 2470
+: 2490 6 2 Though 
+: 2498 4 2 eve
+: 2505 4 2 ry 
+: 2512 7 2 once 
+: 2523 4 2 up
+: 2529 5 2 on 
+: 2538 2 2 a 
+: 2542 6 2 while 
+: 2556 3 0 your 
+: 2561 5 2 head 
+: 2569 3 2 was 
+: 2576 4 2 in 
+: 2584 2 0 a 
+: 2588 9 2 cloud. 
+- 2599
+: 2613 4 6 There’s 
+: 2620 4 7 no
+: 2627 5 7 thing 
+: 2636 3 7 you 
+: 2641 7 7 could 
+: 2652 3 7 ne
+: 2657 3 4 ver 
+: 2664 4 4 do 
+: 2674 4 4 to 
+: 2683 3 2 e
+: 2688 4 0 ver 
+: 2695 4 0 let 
+: 2703 4 -3 me 
+: 2709 7 -1 down, 
+- 2718
+: 2731 4 -1 And 
+* 2738 3 0 re
+* 2743 6 2 mem
+* 2752 3 2 ber 
+* 2757 4 2 that 
+: 2766 3 0 I’ll 
+: 2776 3 -1 al
+: 2781 2 -3 ways 
+: 2786 4 -5 love 
+: 2793 6 -5 you. 
+E

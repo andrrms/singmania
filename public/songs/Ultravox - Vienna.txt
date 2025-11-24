@@ -1,0 +1,205 @@
+#ARTIST:Ultravox
+#TITLE:Vienna
+#MP3:Ultravox - Vienna.mp3
+#CREATOR:znxineohp
+#GENRE:New Wave
+#YEAR:1980
+#LANGUAGE:English
+#BPM:318.5
+#GAP:31770
+#VIDEO:v=xJeWySiuq1I,co=vienna-5330b785ecd6a.jpg,bg=ultravox-55510bee3e8cb.jpg
+: 0 2 0 We 
+: 3 4 4 walked 
+: 10 2 4 in 
+: 14 2 4 the 
+: 18 7 5 cold 
+: 28 12 4 air 
+- 42
+: 192 7 5 Free
+: 201 6 5 zing 
+: 209 3 5 breath 
+: 216 3 5 on 
+: 221 2 5 a 
+: 225 6 7 win
+: 233 3 5 dow 
+: 241 6 5 pane 
+- 249
+: 257 5 4 Ly
+: 263 3 4 ing 
+: 268 3 0 and 
+: 273 3 5 wai
+: 281 6 4 ting 
+- 289
+: 442 2 5 A 
+: 446 6 5 man 
+: 454 2 5 in 
+: 458 2 5 the 
+: 462 3 5 dark 
+: 470 2 5 in 
+: 474 2 5 a 
+: 478 3 7 pic
+: 486 3 5 ture 
+: 494 5 5 frame 
+- 501
+: 506 3 7 So 
+: 510 4 7 mys
+: 518 2 7 tic 
+: 521 3 4 and 
+: 526 3 7 sou
+: 530 3 9 ~l
+: 536 29 7 ful 
+- 567
+: 697 2 0 A 
+: 701 5 5 voice 
+: 708 2 5 rea
+: 712 3 5 ching 
+: 717 5 5 out 
+: 724 2 5 in 
+: 727 2 5 a 
+: 732 5 7 pier
+: 740 4 5 cing 
+: 748 3 5 cry 
+- 753
+: 755 4 7 It 
+: 763 7 7 stays 
+: 772 2 7 with 
+: 775 3 4 you 
+: 780 6 9 un
+: 788 27 7 til 
+- 817
+: 949 2 10 The 
+: 954 5 10 fee
+: 960 3 9 ling 
+: 965 3 9 has 
+: 971 4 9 gone 
+: 977 3 7 on
+: 982 3 7 ly 
+: 987 6 7 you 
+: 996 5 5 and 
+: 1003 3 5 I 
+- 1007
+: 1008 2 7 It 
+: 1012 4 7 means 
+: 1019 3 7 no
+: 1024 3 5 thing 
+: 1030 3 4 to 
+: 1036 40 5 me 
+- 1078
+: 1129 4 7 This 
+: 1137 4 7 means 
+: 1145 3 7 no
+: 1149 4 5 thing 
+: 1155 3 4 to 
+: 1160 79 5 me, 
+: 1240 28 7 oh, 
+: 1269 3 9 Vi
+: 1273 4 7 en
+: 1278 68 5 na 
+- 1348
+: 1712 2 0 The 
+: 1715 5 4 mu
+: 1722 3 4 sic 
+: 1727 3 4 is 
+: 1731 5 5 wea
+: 1739 7 4 ving 
+- 1748
+: 1907 6 5 Haun
+: 1914 6 5 ting 
+: 1921 3 5 notes, 
+: 1929 2 5 piz
+: 1932 2 5 zi
+: 1936 4 7 ca
+: 1945 5 5 to 
+: 1953 6 5 stri
+: 1960 4 4 ~ngs 
+- 1966
+: 1967 3 4 The 
+: 1971 4 4 rhy
+: 1976 3 4 thm 
+: 1982 3 0 is 
+: 1987 5 5 cal
+: 1994 6 4 ling 
+- 2002
+: 2155 3 0 A
+: 2159 7 5 lone 
+: 2167 3 5 in 
+: 2171 3 5 the 
+: 2175 3 5 night 
+: 2183 2 5 as 
+: 2187 2 5 the 
+: 2191 5 7 day
+: 2199 6 5 light 
+: 2206 7 5 brings 
+- 2215
+: 2219 2 7 A 
+: 2223 6 7 cool 
+: 2231 2 7 emp
+: 2235 2 5 ty 
+: 2239 7 9 si
+: 2249 23 7 lence 
+- 2274
+: 2409 3 9 The 
+: 2413 5 9 warmth 
+: 2421 3 9 of 
+: 2425 3 9 your 
+: 2429 4 7 hand 
+: 2437 2 7 and 
+: 2441 2 7 a 
+: 2445 5 7 cold 
+: 2453 3 5 grey 
+: 2460 7 5 sky 
+- 2469
+: 2472 2 7 It 
+: 2476 5 7 fades 
+: 2484 3 7 to 
+: 2489 2 5 the 
+* 2492 4 9 dis
+: 2500 24 7 tance 
+- 2526
+: 2662 4 10 The 
+: 2667 4 10 i
+: 2672 3 9 mage 
+: 2677 3 9 has 
+: 2682 3 9 gone 
+: 2688 3 7 on
+: 2693 4 7 ly 
+: 2698 6 7 you 
+: 2707 4 5 and 
+: 2713 3 5 I 
+- 2718
+: 2719 2 7 It 
+: 2723 4 7 means 
+: 2730 3 7 no
+: 2735 3 5 thing 
+: 2741 3 4 to 
+: 2746 44 5 me 
+- 2792
+: 2840 5 7 This 
+: 2848 5 7 means 
+: 2856 3 7 no
+: 2860 4 5 thing 
+: 2867 3 4 to 
+: 2871 79 5 me, 
+: 2951 28 7 oh, 
+: 2980 3 9 Vi
+: 2984 4 7 en
+: 2989 88 5 na 
+- 3079
+: 4786 5 7 This 
+: 4795 5 7 means 
+* 4805 4 7 no
+* 4810 4 5 thing 
+* 4818 2 4 to 
+: 4822 26 5 me 
+- 4850
+: 4907 13 7 This 
+: 4923 6 9 means 
+: 4932 3 7 no
+: 4937 4 5 thing 
+: 4943 3 4 to 
+: 4948 78 5 me, 
+: 5027 26 7 oh, 
+: 5054 4 9 Vi
+: 5059 4 7 en
+* 5064 110 5 na 
+E

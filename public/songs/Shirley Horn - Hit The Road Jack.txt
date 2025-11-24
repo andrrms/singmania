@@ -1,0 +1,322 @@
+#ARTIST:Shirley Horn
+#TITLE:Hit The Road Jack
+#MP3:Shirley Horn - Hit The Road Jack.mp3
+#CREATOR:Samson08
+#YEAR:1993
+#LANGUAGE:English
+#BPM:290
+#GAP:16000
+#VIDEO:a=XCzO7R1vFNg,co=https://i.discogs.com/iDM_sucQT9hSj_LTWDhO6IVrDAQnHfzT9RzwuMjInQo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMy/MzAtMTQzMzY3NzYw/OC05NjQwLmpwZWc.jpeg,bg=shirley-horn-4f21dad11d8dc.jpg
+: 0 7 6 Hit 
+: 8 3 6 the 
+: 12 3 6 roa
+: 16 3 2 ~d 
+: 20 12 0 Jack 
+- 34
+: 42 3 9 Don’t 
+: 46 3 6 you 
+: 50 3 5 co
+: 54 1 6 ~me 
+: 56 6 6 back 
+- 63
+: 64 9 4 No 
+* 74 5 7 more 
+* 80 7 8 no 
+: 88 7 4 more 
+: 96 5 4 no 
+: 102 9 4 more 
+: 112 3 6 no 
+: 116 6 6 more 
+- 124
+: 128 5 6 Hit 
+: 134 3 6 the 
+: 138 1 6 roa
+: 140 3 4 ~
+: 144 1 2 ~
+: 146 3 0 ~d 
+: 150 6 0 Jack 
+- 158
+: 164 1 2 And 
+: 166 5 4 don’t 
+: 172 3 4 you 
+: 176 3 6 co
+: 180 3 4 ~me 
+: 184 7 4 back 
+: 192 7 4 no 
+* 200 26 3 more 
+- 228
+: 256 5 6 Hit 
+: 262 3 6 the 
+: 266 7 6 roa
+: 274 3 0 ~d 
+: 278 14 0 Jack 
+- 293
+: 294 3 4 And 
+: 298 7 6 don’t 
+: 306 1 4 you 
+: 308 3 6 come 
+* 312 6 9 back 
+- 320
+: 322 3 4 No
+* 326 3 7 ~ 
+* 330 7 7 more, 
+: 338 5 9 no 
+: 344 7 13 more, 
+: 352 5 13 no 
+: 358 7 15 more, 
+: 366 5 15 no 
+: 372 4 15 more 
+- 378
+: 386 3 4 Hit 
+: 390 1 6 the 
+* 392 3 5 roa
+* 396 1 3 ~
+* 398 5 6 ~d 
+* 404 8 3 Jack 
+- 414
+: 420 3 2 And 
+: 424 3 4 don’t 
+: 428 3 9 you 
+: 432 7 6 come 
+: 440 7 6 back 
+: 448 5 4 no 
+* 454 12 1 more 
+- 468
+: 512 5 13 Oh 
+: 518 3 13 ea
+: 522 3 7 ser, 
+: 526 3 5 oh
+: 530 3 3 ~ 
+* 534 3 5 ea
+: 538 3 6 ser, 
+: 542 5 6 don’t 
+: 548 5 9 treat 
+: 554 3 9 me 
+* 558 3 5 so 
+: 562 8 7 mean 
+- 572
+: 576 5 6 You’re 
+: 582 3 5 the 
+: 586 3 6 mea
+: 590 3 5 nest 
+: 594 7 4 man 
+: 602 3 4 that 
+: 606 6 4 I’ve 
+: 614 5 4 e
+* 620 3 8 ver 
+: 624 8 11 seen 
+- 634
+: 638 7 2 I 
+: 646 5 2 guess 
+: 652 4 6 if 
+: 662 7 6 you 
+: 670 7 4 say 
+: 678 3 7 so
+: 682 2 5 ~ 
+- 686
+: 708 1 9 I’ll 
+* 710 3 2 have 
+: 714 4 6 to 
+: 720 3 4 pack 
+: 724 3 6 my 
+: 728 3 2 ba
+* 732 3 6 ~gs 
+: 736 1 6 and 
+: 738 6 9 go 
+- 746
+: 766 5 6 Hit 
+: 772 1 6 the 
+: 774 3 6 roa
+* 778 1 2 ~
+: 780 5 4 ~d 
+: 786 12 4 Jack 
+- 800
+: 806 3 0 Don’t 
+: 810 3 4 you 
+: 814 5 6 come 
+: 820 6 9 back 
+- 828
+: 832 3 4 No 
+: 836 7 9 more, 
+: 844 7 9 no 
+: 852 7 13 more, 
+: 860 7 13 no 
+: 868 7 15 more, 
+: 876 3 15 no 
+: 880 6 15 more 
+- 888
+: 894 3 4 Hit 
+: 898 3 6 the 
+: 902 1 6 roa
+* 904 3 2 ~
+: 908 5 4 ~d 
+: 914 6 4 Jack 
+- 922
+: 934 1 2 And 
+: 936 3 4 don’t 
+: 940 1 6 you 
+: 942 7 6 come 
+* 950 7 2 ba
+: 958 3 6 ~ck 
+: 962 5 4 no 
+: 968 12 5 more 
+- 982
+: 2020 5 0 Well 
+: 2026 5 0 ba
+: 2032 3 0 by, 
+* 2036 3 6 lis
+: 2040 1 6 ten 
+: 2042 5 6 ba
+: 2048 2 4 by 
+- 2052
+: 2054 1 6 Do
+* 2056 1 2 ~n’t 
+: 2058 3 0 you 
+: 2062 3 2 treat 
+: 2066 3 6 me 
+: 2070 3 6 this 
+: 2074 8 6 way 
+- 2084
+: 2094 3 6 I’ll 
+: 2098 3 6 be 
+: 2102 5 6 back 
+: 2108 3 6 on 
+: 2112 3 6 my 
+* 2116 7 4 feet 
+: 2124 5 6 some
+: 2130 4 6 day 
+- 2136
+: 2152 3 0 Don’t 
+: 2156 7 0 care 
+: 2164 3 2 if 
+: 2168 3 7 you 
+: 2172 6 7 do 
+- 2180
+: 2182 3 4 ’Cause 
+* 2186 3 7 it’s 
+* 2190 5 9 un
+: 2196 3 7 der
+: 2200 8 9 stood 
+- 2210
+: 2212 3 6 You 
+: 2216 5 6 ain’t 
+: 2222 5 6 got 
+: 2228 5 4 no 
+: 2234 3 4 mo
+: 2238 4 2 ney 
+- 2244
+: 2246 5 9 You 
+: 2252 3 9 just 
+* 2256 3 6 ain’t 
+: 2260 1 8 no
+: 2262 1 6 ~ 
+: 2264 6 4 good 
+- 2272
+: 2276 7 6 Hit 
+: 2284 1 8 the 
+: 2286 5 4 roa
+: 2292 1 2 ~
+: 2294 3 8 ~d 
+: 2298 8 6 Jack 
+- 2308
+: 2314 1 9 And 
+* 2316 3 4 don’t 
+: 2320 1 8 you 
+: 2322 7 6 come 
+: 2330 8 9 back 
+- 2340
+: 2346 1 6 No
+: 2348 3 4 ~ 
+: 2352 9 9 more, 
+: 2362 5 13 no 
+: 2368 5 13 more, 
+: 2374 5 13 no 
+: 2380 9 15 more, 
+* 2390 1 17 no 
+: 2392 6 15 more 
+- 2400
+: 2406 5 6 Hit 
+: 2412 3 9 the 
+: 2416 4 6 roa
+* 2424 4 2 ~
+: 2428 8 6 ~d 
+: 2446 6 6 Jack 
+- 2452
+: 2452 6 6 Don’t 
+: 2458 1 6 you 
+: 2460 3 6 come 
+* 2464 7 2 back 
+* 2472 5 2 no 
+: 2478 14 6 more 
+- 2494
+: 2528 5 6 Hit 
+: 2534 5 6 the 
+* 2540 3 8 roa
+: 2544 3 4 ~d 
+: 2548 12 6 Jack 
+- 2562
+: 2568 1 9 And 
+: 2570 1 4 don’t 
+: 2572 3 0 you 
+: 2576 5 4 come 
+: 2582 6 6 back 
+- 2590
+: 2594 7 4 No 
+: 2602 5 9 more, 
+: 2608 7 9 no 
+: 2616 9 13 more, 
+: 2626 5 13 no 
+: 2632 7 15 more, 
+: 2640 3 15 no 
+: 2644 6 15 more 
+- 2652
+: 2656 5 6 Hit 
+: 2662 3 6 the 
+: 2666 3 6 roa
+: 2670 1 4 ~
+: 2672 1 2 ~
+: 2674 3 4 ~d 
+: 2678 8 4 Jack 
+- 2688
+: 2698 3 4 And 
+: 2702 3 6 don’t 
+: 2706 3 6 you 
+: 2710 5 6 come 
+: 2716 5 8 ba
+: 2722 3 4 ~ck 
+: 2726 3 2 no
+* 2730 3 4 ~ 
+* 2734 12 4 more 
+- 2748
+: 2766 3 8 And 
+: 2770 3 6 don’t 
+: 2774 1 0 you 
+: 2776 7 4 come 
+: 2784 7 2 back 
+: 2792 3 4 no 
+: 2796 6 4 more 
+- 2804
+: 2828 5 4 And 
+* 2834 3 2 don’t 
+: 2838 5 2 you 
+: 2844 7 2 come 
+: 2852 7 2 back 
+* 2860 5 8 no 
+* 2866 8 8 more 
+- 2876
+: 2892 1 6 And 
+* 2894 3 9 don’t 
+: 2898 3 6 you 
+: 2902 5 2 come 
+: 2908 7 2 back 
+* 2916 3 8 no 
+* 2920 8 8 more 
+- 2930
+: 2954 3 0 Don’t 
+: 2958 5 0 you 
+: 2964 9 6 come 
+* 2974 5 2 back 
+: 2980 5 2 no
+* 2986 5 -2 ~ 
+: 2992 20 6 more 
+E

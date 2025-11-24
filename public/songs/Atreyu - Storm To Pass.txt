@@ -1,0 +1,323 @@
+#ARTIST:Atreyu
+#TITLE:Storm To Pass
+#MP3:Atreyu - Storm To Pass.mp3
+#CREATOR:synonomy
+#YEAR:2009
+#LANGUAGE:English
+#BPM:298.64
+#GAP:33150
+#VIDEO:v=Dq6zRL8EXkY,co=https://i.discogs.com/_yNp4epxhp1g7v4rTfsbB6zxxw1HuI-zOZTJD1vBx8w/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU5/NTYtMTM0NTUzMzI1/Ny0xODcyLmpwZWc.jpeg,bg=atreyu-63a295f49fe3e.jpg
+: 0 2 2 Ra
+: 5 3 7 zor 
+: 12 18 9 wire 
+- 32
+: 40 3 2 Gift
+: 48 3 5 -wrap 
+: 56 2 3 the 
+: 60 3 2 things 
+: 68 3 3 we’ve 
+: 76 13 2 do
+: 91 13 0 ~ne 
+- 106
+* 127 2 2 Af
+* 133 3 7 ter 
+* 140 12 9 thoughts 
+- 154
+: 164 2 7 A
+: 168 2 7 bout 
+* 175 4 9 storms 
+: 184 2 7 wea
+: 188 3 9 thered 
+* 195 3 10 be
+: 203 14 9 fore
+: 219 13 7 ~ 
+- 234
+F 252 7 0 Oh 
+F 263 10 0 no, 
+F 283 6 0 oh 
+F 295 2 0 no! 
+- 298
+: 299 2 7 I 
+: 303 3 10 watch 
+: 311 2 9 the 
+: 316 3 7 clouds 
+: 323 3 9 roll 
+: 331 14 7 in
+* 347 21 5 ~ 
+- 370
+F 379 7 0 Oh 
+F 390 10 0 no, 
+F 410 6 0 oh 
+F 422 2 0 no! 
+- 425
+: 426 2 7 It’s 
+: 430 5 10 hap
+: 438 2 10 pen
+: 443 3 10 ing 
+: 450 3 9 a
+: 458 16 9 gain 
+- 476
+* 478 4 7 I’ll 
+* 486 8 9 be 
+- 496
+: 506 7 10 Watch
+: 517 9 7 ing, 
+: 537 8 9 wait
+: 549 10 5 ing 
+- 561
+: 570 8 10 Dread
+: 581 10 7 ful 
+* 601 8 9 sha
+* 613 9 10 king 
+- 624
+* 629 2 10 Will 
+* 633 2 10 the 
+* 637 3 10 storm 
+: 645 3 10 pass 
+: 653 2 10 o
+: 657 3 9 ver 
+: 664 4 7 us 
+: 673 5 5 to
+: 681 7 7 day? 
+- 690
+: 692 3 3 Will 
+: 700 3 3 light
+: 708 3 3 ning 
+: 716 3 3 strike 
+: 724 3 3 our 
+: 732 3 3 sins 
+: 740 2 5 a
+: 744 10 3 way? 
+- 756
+* 761 7 10 Watch
+: 772 9 7 ing, 
+: 792 8 9 wait
+: 804 10 5 ing 
+- 816
+: 824 8 10 Fall
+: 835 10 7 ing, 
+: 855 8 9 sha
+: 867 9 10 king 
+- 878
+: 883 2 10 Will 
+: 887 2 10 the 
+: 891 3 10 storm 
+: 899 3 10 pass 
+: 908 2 10 o
+: 912 3 9 ver 
+: 919 4 7 us 
+: 928 5 5 to
+* 936 6 7 da
+: 944 8 5 ~y 
+- 954
+* 959 2 5 Or 
+: 963 2 7 is 
+: 967 2 9 the 
+: 972 4 10 fu
+: 979 4 9 ture 
+: 987 2 7 look
+: 991 3 5 ing 
+* 999 27 7 grey? 
+- 1028
+: 1083 5 2 Af
+: 1091 2 7 ter 
+: 1095 15 9 math; 
+- 1112
+: 1122 3 2 Much 
+: 1130 3 5 worse 
+: 1138 2 3 than 
+: 1142 2 3 it 
+: 1146 3 2 was 
+* 1154 2 3 be
+* 1159 13 2 fore
+* 1174 12 0 ~ 
+- 1188
+: 1210 2 2 Batt
+: 1215 3 7 le 
+: 1222 16 9 scars; 
+- 1240
+* 1249 2 7 Some 
+* 1253 2 7 are 
+* 1258 4 9 seen 
+* 1266 2 7 and 
+* 1270 3 9 some 
+* 1277 3 10 are 
+* 1285 14 9 no
+* 1301 13 7 ~t 
+- 1316
+F 1334 7 0 Oh 
+F 1345 10 0 no, 
+F 1365 6 0 oh 
+F 1377 2 0 no! 
+- 1380
+: 1381 2 7 I 
+: 1385 3 10 watch 
+: 1393 2 9 the 
+: 1398 3 7 clouds 
+: 1405 3 9 roll 
+: 1413 14 7 in
+: 1429 21 5 ~ 
+- 1452
+F 1461 7 0 Oh 
+F 1472 10 0 no, 
+F 1492 6 0 oh 
+F 1504 2 0 no! 
+- 1507
+* 1508 2 7 It’s 
+: 1512 5 10 hap
+: 1520 2 10 pen
+: 1525 3 10 ing 
+: 1532 3 9 a
+: 1540 16 9 gain 
+- 1558
+: 1560 4 7 I’ll 
+: 1568 8 9 be 
+- 1578
+: 1589 7 10 Watch
+: 1600 9 7 ing, 
+: 1620 8 9 wait
+: 1632 10 5 ing 
+- 1644
+: 1652 8 10 Dread
+: 1663 10 7 ful 
+: 1683 8 9 sha
+: 1695 9 10 king 
+- 1706
+: 1712 2 10 Will 
+: 1716 2 10 the 
+: 1720 3 10 storm 
+: 1728 3 10 pass 
+: 1736 2 10 o
+: 1740 3 9 ver 
+: 1747 4 7 us 
+: 1756 5 5 to
+: 1764 7 7 day? 
+- 1773
+* 1775 3 3 Will 
+* 1783 3 3 light
+* 1791 3 3 ning 
+* 1799 3 3 strike 
+* 1807 3 3 our 
+* 1815 3 3 sins 
+* 1823 2 5 a
+* 1827 10 3 way? 
+- 1839
+: 1844 7 10 Watch
+: 1855 9 7 ing, 
+: 1875 8 9 wait
+: 1887 10 5 ing 
+- 1899
+: 1907 8 10 Fall
+: 1918 10 7 ing, 
+: 1938 8 9 sha
+: 1950 9 10 king 
+- 1961
+: 1965 2 10 Will 
+: 1969 2 10 the 
+: 1973 3 10 storm 
+: 1981 3 10 pass 
+: 1990 2 10 o
+: 1994 3 9 ver 
+: 2001 4 7 us 
+: 2010 5 5 to
+: 2018 6 7 da
+: 2026 8 5 ~y 
+- 2036
+* 2042 2 5 Or 
+* 2046 2 7 is 
+* 2050 2 9 the 
+* 2055 4 10 fu
+* 2062 4 9 ture 
+* 2070 2 7 look
+* 2074 4 5 ing-- 
+- 2080
+F 2086 6 0 You 
+F 2098 6 0 can’t 
+F 2110 6 0 hide 
+F 2122 6 0 from 
+F 2134 8 0 thun
+F 2146 18 0 der! 
+- 2166
+F 2172 2 0 Well 
+F 2176 2 0 I 
+F 2180 2 0 ne
+F 2184 2 0 ver 
+F 2188 2 0 thought 
+F 2192 2 0 we’d 
+F 2196 2 0 turn 
+F 2200 2 0 out 
+F 2204 2 0 this 
+F 2208 16 0 way! 
+- 2226
+F 2238 16 0 Yeah! 
+- 2256
+F 2277 6 0 You 
+F 2289 6 0 can’t 
+F 2301 6 0 hide 
+F 2313 6 0 from 
+F 2325 8 0 thun
+F 2337 19 0 der! 
+- 2358
+* 3181 7 10 Watch
+* 3192 9 7 ing, 
+* 3212 8 9 wait
+* 3224 10 5 ing 
+- 3236
+: 3244 8 10 Dread
+: 3255 10 7 ful 
+: 3275 8 9 sha
+: 3287 9 10 king 
+- 3298
+: 3304 2 10 Will 
+: 3308 2 10 the 
+: 3312 3 10 storm 
+: 3320 3 10 pass 
+: 3328 2 10 o
+: 3332 3 9 ver 
+: 3339 4 7 us 
+: 3348 5 5 to
+: 3356 7 7 day? 
+- 3365
+: 3367 3 3 Will 
+: 3375 3 3 light
+: 3383 3 3 ning 
+: 3391 3 3 strike 
+: 3399 3 3 our 
+: 3407 3 3 sins 
+* 3415 2 5 a
+: 3419 10 3 way? 
+- 3431
+: 3436 7 10 Watch
+: 3447 9 7 ing, 
+: 3467 8 9 wait
+: 3479 10 5 ing 
+- 3491
+: 3499 8 10 Fall
+: 3510 10 7 ing, 
+: 3530 8 9 sha
+* 3542 9 10 king 
+- 3553
+: 3558 2 10 Will 
+: 3562 2 10 the 
+: 3566 3 10 storm 
+: 3574 3 10 pass 
+: 3583 2 10 o
+: 3587 3 9 ver 
+: 3594 4 7 us 
+* 3603 5 5 to
+* 3611 6 7 da
+* 3619 8 5 ~y 
+- 3629
+* 3634 2 5 Or 
+* 3638 2 7 is 
+* 3642 2 9 the 
+* 3647 4 10 fu
+* 3654 4 9 ture 
+* 3662 2 7 look
+* 3666 3 5 ing 
+* 3674 25 7 grey? 
+- 3700
+F 3701 7 0 Hey! 
+- 3710
+F 3765 7 0 Hey! 
+E

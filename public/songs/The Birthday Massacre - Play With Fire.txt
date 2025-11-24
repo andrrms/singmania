@@ -1,0 +1,130 @@
+#ARTIST:The Birthday Massacre
+#TITLE:Play With Fire
+#MP3:The Birthday Massacre - Play With Fire.mp3
+#CREATOR:KhaosKind
+#GENRE:Synth-Rock
+#YEAR:2012
+#LANGUAGE:English
+#BPM:213.26
+#GAP:51290
+#VIDEO:v=TEQjVQbnvI4,co=hide-and-seek-5075c194e6daf.jpg,bg=birthday-massacre-the-6298694834d96.jpg
+: 0 5 12 Her 
+: 7 6 14 house 
+: 15 5 15 of 
+: 22 18 19 red 
+: 43 10 17 light 
+- 55
+: 69 12 17 Burns 
+: 86 7 15 like 
+: 109 3 12 your 
+: 116 9 17 wan
+: 128 8 19 ting 
+: 142 9 15 eyes 
+- 153
+: 169 4 17 The 
+: 176 4 17 way 
+: 184 3 17 is 
+: 191 7 19 our 
+: 202 8 15 way 
+- 212
+: 229 4 15 What 
+: 235 7 17 we 
+: 245 7 15 say 
+- 254
+: 276 4 10 When 
+: 283 13 17 we 
+: 298 11 15 say 
+- 311
+: 346 7 15 We 
+: 357 10 14 will 
+- 369
+: 388 7 15 Play 
+: 400 8 14 with 
+: 411 12 10 fi
+: 425 3 8 re 
+- 430
+: 518 8 15 We 
+: 529 16 14 will 
+- 547
+: 559 9 15 Play 
+: 571 8 14 with 
+: 582 12 10 fi
+: 597 2 8 re 
+- 601
+: 681 5 19 And 
+: 689 6 19 ev
+: 697 6 15 ’ry 
+: 705 11 17 night 
+- 718
+: 740 6 17 The 
+: 748 7 17 red 
+: 758 9 15 light 
+- 769
+: 789 4 10 Will 
+: 796 11 17 burn 
+: 810 9 19 like 
+: 825 5 15 your 
+: 832 11 17 eyes 
+- 845
+: 852 4 17 Our 
+: 859 6 17 time 
+: 868 5 17 is 
+: 875 8 19 ne
+: 885 10 15 ver 
+- 897
+: 911 4 15 Cause 
+: 917 7 17 we’ll 
+: 927 18 15 live 
+- 947
+: 959 4 10 For
+: 966 14 17 e
+: 981 13 15 ver 
+- 996
+: 1029 8 15 We 
+: 1040 20 14 will 
+- 1062
+: 1072 7 15 Play 
+: 1083 7 14 with 
+: 1093 12 10 fi
+: 1108 3 8 re 
+- 1113
+: 1200 8 15 We 
+: 1211 19 14 will 
+- 1232
+: 1241 10 15 Play 
+: 1254 8 14 with 
+: 1264 12 10 fi
+: 1279 2 8 re 
+- 1283
+: 1712 7 15 We 
+: 1722 11 14 will 
+- 1735
+: 1754 7 15 Play 
+: 1764 8 14 with 
+: 1775 5 10 fi
+: 1781 3 10 re 
+- 1786
+: 1882 7 15 We 
+: 1892 9 14 will 
+- 1903
+: 1924 6 15 Play 
+: 1933 9 14 with 
+: 1946 13 10 fi
+: 1961 3 8 re 
+- 1966
+: 2053 8 15 We 
+: 2064 17 14 will 
+- 2083
+: 2095 9 15 Play 
+: 2106 8 14 with 
+: 2117 12 10 fi
+: 2132 3 8 re 
+- 2137
+: 2223 8 15 We 
+: 2234 11 14 will 
+- 2247
+: 2265 9 15 Play 
+: 2276 9 14 with 
+: 2288 12 10 fi
+: 2302 2 8 re 
+E

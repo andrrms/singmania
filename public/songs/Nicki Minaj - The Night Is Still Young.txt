@@ -1,0 +1,634 @@
+#ARTIST:Nicki Minaj
+#TITLE:The Night Is Still Young
+#MP3:Nicki Minaj - The Night Is Still Young.mp3
+#CREATOR:amro98
+#YEAR:2014
+#LANGUAGE:English
+#BPM:256.04
+#GAP:13670
+#VIDEO:v=IvN5h9BE444,co=https://static.wikia.nocookie.net/nickiminaj/images/e/e1/TNISY_cover.jpg,bg=nicki-minaj-4ee7e89c028f9.jpg
+F 0 6 4 Yo 
+- 8
+F 20 1 4 A
+F 22 1 4 yo 
+F 24 1 4 to
+F 26 2 4 night 
+F 29 1 4 is 
+F 31 2 4 the 
+F 34 2 4 night 
+F 37 2 4 that 
+F 40 2 4 I’m
+F 43 2 4 a 
+F 46 2 4 get 
+F 50 2 4 twis
+F 53 2 4 ted 
+- 57
+F 58 2 4 Myx 
+F 61 2 4 Mos
+F 64 1 4 ca
+F 66 2 4 to 
+F 70 1 4 and 
+F 72 2 4 vod
+F 76 1 4 ka 
+F 78 2 4 I’ma 
+F 81 3 4 mix 
+F 86 1 4 it 
+- 89
+F 90 3 4 Roll 
+F 94 2 4 that 
+F 97 1 4 spa
+F 99 1 4 ce
+F 101 3 4 ship 
+F 105 1 4 we 
+F 107 1 4 a
+F 109 1 4 bout 
+F 111 1 4 to 
+F 113 1 4 get 
+F 115 1 4 lif
+F 117 2 4 ted 
+- 120
+F 121 3 4 Lift 
+F 125 1 4 and 
+F 127 1 4 the 
+F 129 1 4 Pre
+F 131 1 4 si
+F 133 2 4 dent 
+F 136 2 4 gift 
+F 139 2 4 is 
+F 142 1 4 for 
+F 144 1 4 the 
+F 146 3 4 gif
+F 150 2 4 ted 
+- 153
+F 153 3 4 This 
+F 157 2 4 what 
+F 160 1 4 you 
+F 162 4 4 came 
+F 167 1 4 this 
+F 169 1 4 what 
+F 171 1 4 you 
+F 173 4 4 came 
+F 178 4 4 for 
+- 183
+F 184 1 4 You 
+F 187 1 4 get 
+F 189 1 4 what 
+F 191 2 4 you 
+F 194 2 4 buy 
+F 197 2 4 this 
+F 201 1 4 what 
+F 203 1 4 you 
+F 205 4 4 paid 
+F 210 4 4 for 
+- 215
+F 215 2 4 So 
+F 218 2 4 make 
+F 222 1 4 sure 
+F 224 1 4 the 
+F 226 3 4 stars 
+F 230 2 4 is 
+F 233 1 4 what 
+F 237 1 4 you 
+F 239 2 4 aim 
+F 242 4 4 for 
+- 247
+F 248 2 4 Make 
+F 252 2 4 mis
+F 255 2 4 takes 
+F 258 4 4 though 
+- 264
+* 266 2 -1 I 
+: 270 3 -3 ne
+: 275 2 -4 ver 
+: 279 6 -8 wo
+: 287 1 -8 rry
+: 289 1 -6 ~ 
+- 292
+: 298 2 -1 Life 
+: 303 2 -3 is 
+: 307 1 -4 a 
+: 311 6 -8 jour
+: 319 1 -8 ney
+: 321 1 -6 ~ 
+- 324
+: 329 2 -4 I 
+: 335 3 -1 just 
+: 342 4 -1 wan
+: 347 2 -1 na 
+: 351 1 -4 en
+: 356 4 -1 joy 
+: 363 3 -1 the 
+: 371 6 -8 ride 
+- 379
+: 396 2 -1 What 
+: 399 1 -3 is 
+: 403 2 -4 the 
+: 408 6 -8 hu
+* 415 1 -8 rry
+: 417 1 -6 ~ 
+- 420
+: 426 2 -1 It’s 
+: 430 3 -3 pret
+: 435 2 -4 ty 
+: 439 7 -8 ear
+: 447 1 -8 ly
+: 449 1 -6 ~ 
+- 452
+* 459 1 -4 It’s 
+: 463 4 -1 o
+: 471 3 -1 k 
+- 476
+: 479 1 -4 We’ll 
+: 483 4 -1 take 
+: 491 4 -1 our 
+* 498 6 -8 time 
+- 506
+: 530 3 4 The 
+: 537 2 8 night
+: 540 5 11 ~ 
+: 546 2 8 is 
+* 554 6 11 still 
+: 562 5 8 young 
+- 569
+: 594 3 4 The 
+: 601 2 8 night
+* 604 5 11 ~ 
+: 610 2 8 is 
+: 618 6 11 still 
+: 626 5 8 young 
+- 633
+: 658 3 4 The 
+: 665 2 8 night
+: 668 5 11 ~ 
+: 674 2 8 is 
+: 682 6 11 still 
+: 690 5 8 young 
+- 697
+* 706 5 6 And 
+: 730 8 9 so 
+: 746 8 8 are 
+: 762 8 4 we 
+- 772
+: 786 3 4 The 
+: 793 2 8 night
+: 796 5 11 ~ 
+: 802 2 8 is 
+: 810 6 11 still 
+: 818 5 8 young 
+- 825
+: 850 3 4 The 
+: 857 2 8 night
+: 860 5 11 ~ 
+: 866 2 8 is 
+: 874 3 13 still
+: 878 2 8 ~ 
+: 882 5 8 young 
+- 889
+: 914 3 4 The 
+: 921 2 8 night
+: 924 5 11 ~ 
+* 930 2 8 is 
+: 938 6 11 still 
+: 946 5 8 young 
+- 953
+: 986 8 9 So 
+: 1002 8 8 are 
+: 1018 8 4 we 
+- 1028
+F 1044 2 4 A
+F 1047 2 4 yo 
+- 1050
+F 1050 3 4 Drinks 
+F 1055 2 4 on 
+F 1058 1 4 you 
+F 1060 1 4 or 
+F 1062 1 4 the 
+F 1064 2 4 drinks 
+F 1067 2 4 is 
+F 1070 3 4 on 
+F 1074 3 4 me 
+- 1079
+F 1081 1 4 We 
+F 1083 1 4 ain’t 
+F 1085 2 4 go
+F 1088 1 4 ing 
+F 1090 1 4 no
+F 1092 1 4 where 
+F 1094 1 4 like 
+F 1096 2 4 tanks 
+F 1099 1 4 is 
+F 1102 1 4 on 
+F 1105 4 4 E 
+- 1111
+F 1112 1 4 We 
+F 1114 2 4 still 
+F 1118 1 4 get
+F 1120 1 4 ting 
+F 1122 1 4 mo
+F 1124 1 4 ney 
+F 1126 1 4 which 
+F 1128 3 4 bank 
+F 1132 1 4 is 
+F 1134 3 4 gon’ 
+F 1138 3 4 be? 
+- 1143
+F 1144 2 4 If 
+F 1147 2 4 he 
+F 1150 2 4 se
+F 1154 2 4 xy 
+F 1157 2 4 he 
+F 1161 1 4 plan
+F 1164 1 4 king 
+F 1166 3 4 on 
+F 1170 4 4 me 
+- 1175
+F 1176 1 4 So 
+F 1178 1 4 when 
+F 1180 1 4 them 
+F 1182 2 4 big 
+F 1186 3 4 boys 
+F 1190 2 4 want 
+F 1193 2 4 all 
+F 1196 1 4 of 
+F 1198 3 4 that 
+- 1203
+F 1206 2 4 Tell 
+F 1209 1 4 the 
+F 1211 1 4 bar
+F 1213 1 4 ten
+F 1215 1 4 der 
+F 1218 3 4 say 
+F 1222 2 4 my 
+F 1225 1 4 or
+F 1227 2 4 der 
+F 1230 4 4 back 
+- 1236
+F 1238 2 4 It’s 
+F 1242 1 4 bot
+F 1244 1 4 tle 
+F 1246 3 4 ser
+F 1250 2 4 vice 
+F 1254 2 4 he 
+F 1257 1 4 or
+F 1259 2 4 dered 
+F 1262 4 4 that 
+- 1268
+F 1270 2 4 Might 
+F 1274 1 4 let 
+F 1276 1 4 him 
+F 1278 1 4 take 
+F 1280 1 4 it 
+F 1282 3 4 home 
+F 1286 1 4 and 
+F 1288 2 4 slaugh
+F 1291 2 4 ter 
+F 1294 4 4 that 
+- 1299
+F 1300 2 4 He 
+F 1303 1 4 got 
+F 1305 4 4 friends 
+F 1310 2 4 for 
+F 1313 2 4 all 
+F 1316 1 4 of 
+F 1318 2 4 my 
+F 1322 6 4 friends 
+- 1330
+F 1333 1 4 They 
+F 1335 2 4 ain’t 
+F 1338 2 4 lea
+F 1341 2 4 ving 
+F 1344 2 4 till 
+F 1347 1 4 we 
+F 1350 4 4 say 
+F 1355 4 4 when 
+- 1361
+F 1364 1 4 And 
+F 1366 1 4 we 
+F 1368 1 4 gon’ 
+F 1370 2 4 han
+F 1373 2 4 go
+F 1376 2 4 ver 
+F 1379 2 4 the 
+F 1382 3 4 next 
+F 1386 6 4 day 
+- 1394
+F 1396 2 4 But 
+F 1399 2 4 we 
+F 1402 2 4 will 
+F 1405 2 4 re
+F 1408 2 4 mem
+F 1412 1 4 ber 
+F 1415 1 4 this 
+F 1418 5 4 day 
+- 1425
+F 1430 2 4 So 
+F 1434 2 4 drop 
+F 1437 1 4 the 
+F 1440 2 4 pop 
+F 1444 2 4 and 
+F 1447 2 4 get 
+F 1450 4 4 low 
+- 1456
+F 1461 1 4 Or 
+F 1463 1 4 we 
+F 1465 1 4 can 
+F 1467 1 4 drop 
+F 1470 1 4 the 
+F 1472 2 4 top 
+F 1475 1 4 and 
+F 1477 4 4 just 
+F 1482 6 4 cruise 
+- 1490
+F 1494 2 4 We 
+F 1498 2 4 fresh 
+F 1502 1 4 to 
+F 1504 2 4 death 
+F 1507 2 4 down 
+F 1510 1 4 to 
+F 1512 1 4 the 
+F 1514 5 4 shoes 
+- 1521
+F 1524 1 4 My 
+F 1526 1 4 on
+F 1528 2 4 ly 
+F 1531 1 4 mot
+F 1533 1 4 to 
+F 1535 1 4 in 
+F 1537 3 4 life... 
+- 1542
+: 1546 2 -1 I 
+: 1550 3 -3 ne
+: 1555 2 -4 ver 
+: 1559 6 -8 wo
+: 1567 1 -8 rry
+: 1569 1 -6 ~ 
+- 1572
+: 1578 2 -1 Life 
+: 1583 2 -3 is 
+* 1587 1 -4 a 
+: 1591 6 -8 jour
+: 1599 1 -8 ney
+: 1601 1 -6 ~ 
+- 1604
+: 1609 2 -4 I 
+: 1615 3 -1 just 
+: 1622 4 -1 wan
+: 1627 2 -1 na 
+: 1631 1 -4 en
+: 1636 4 -1 joy 
+: 1643 3 -1 the 
+: 1651 6 -8 ride 
+- 1659
+: 1676 2 -1 What 
+: 1679 1 -3 is 
+: 1683 2 -4 the 
+: 1688 6 -8 hu
+: 1695 1 -8 rry
+: 1697 1 -6 ~ 
+- 1700
+: 1706 2 -1 It’s 
+* 1710 3 -3 pret
+: 1715 2 -4 ty 
+: 1719 7 -8 ear
+: 1727 1 -8 ly
+* 1729 1 -6 ~ 
+- 1732
+: 1739 1 -4 It’s 
+: 1743 4 -1 o
+: 1751 3 -1 k 
+- 1756
+: 1759 1 -4 We’ll 
+: 1763 4 -1 take 
+: 1771 4 -1 our 
+: 1778 6 -8 time 
+- 1786
+: 1811 3 4 The 
+* 1818 2 8 night
+: 1821 5 11 ~ 
+: 1827 2 8 is 
+: 1835 6 11 still 
+: 1843 5 8 young 
+- 1850
+: 1875 3 4 The 
+: 1882 2 8 night
+: 1885 5 11 ~ 
+: 1891 2 8 is 
+: 1899 6 11 still 
+: 1907 5 8 young 
+- 1914
+: 1939 3 4 The 
+: 1946 2 8 night
+: 1949 5 11 ~ 
+: 1955 2 8 is 
+: 1963 6 11 still 
+: 1971 5 8 young 
+- 1978
+: 1987 5 6 And 
+: 2011 8 9 so 
+: 2027 8 8 are 
+: 2043 8 4 we 
+- 2053
+* 2067 3 4 The 
+: 2074 2 8 night
+: 2077 5 11 ~ 
+* 2083 2 8 is 
+: 2091 6 11 still 
+: 2099 5 8 young 
+- 2106
+: 2131 3 4 The 
+: 2138 2 8 night
+: 2141 5 11 ~ 
+: 2147 2 8 is 
+: 2155 3 13 still
+: 2159 2 8 ~ 
+: 2163 5 8 young 
+- 2170
+: 2195 3 4 The 
+: 2202 2 8 night
+: 2205 5 11 ~ 
+: 2211 2 8 is 
+: 2219 6 11 still 
+: 2227 5 8 young 
+- 2234
+: 2267 8 9 So 
+* 2283 8 8 are 
+: 2299 8 4 we 
+- 2309
+: 2346 2 -1 We’re 
+: 2350 2 1 just 
+: 2355 2 1 get
+: 2358 1 1 ting 
+: 2364 2 1 star
+: 2367 2 -1 ~
+: 2370 4 -1 ted 
+: 2375 3 -1 yeah
+: 2379 3 1 ~ 
+: 2383 8 -4 yeah 
+- 2393
+: 2410 2 -6 We’re
+: 2413 1 -4 ~ 
+: 2415 1 -4 just 
+: 2419 2 -4 get
+: 2422 2 -4 ting 
+: 2427 2 -4 star
+: 2430 2 -6 ~
+: 2433 3 -6 ted 
+: 2438 3 -6 yeah
+: 2442 3 -4 ~ 
+: 2447 8 -11 yeah 
+- 2457
+: 2474 2 -2 Can’t 
+: 2478 1 1 you 
+: 2483 3 1 see 
+: 2487 1 1 the 
+: 2490 4 1 night’s 
+: 2497 4 -1 still 
+* 2503 3 -1 ear
+* 2507 2 1 ~
+: 2511 8 -4 ly 
+- 2521
+: 2534 3 -4 And 
+: 2538 3 -4 we 
+: 2543 2 -8 gon’ 
+: 2547 4 -8 get 
+: 2554 6 -3 wild 
+: 2561 2 -4 and 
+: 2567 6 -8 cra
+: 2575 8 -8 zy 
+- 2585
+: 2602 2 -1 We’re 
+: 2606 1 1 just 
+: 2611 2 1 get
+: 2614 1 1 ting 
+: 2620 2 1 star
+: 2623 2 -1 ~
+: 2626 4 -1 ted 
+: 2631 3 -1 yeah
+: 2635 3 1 ~ 
+: 2639 8 -4 yeah 
+- 2649
+: 2666 2 -6 We’re
+* 2669 1 -4 ~ 
+: 2671 1 -4 just 
+: 2675 2 -4 get
+: 2678 2 -4 ting 
+: 2683 2 -4 star
+* 2686 2 -6 ~
+: 2689 3 -6 ted 
+: 2694 3 -6 yeah
+: 2698 3 -4 ~ 
+: 2703 8 -11 yeah 
+- 2713
+: 2730 2 -2 Can’t 
+: 2734 1 1 you 
+: 2739 3 1 see 
+: 2743 1 1 the 
+: 2746 4 1 night’s 
+: 2753 4 -1 still 
+: 2759 3 -1 ear
+: 2763 2 1 ~
+: 2767 8 -4 ly 
+- 2777
+: 2790 3 11 And 
+: 2794 3 11 we 
+: 2799 2 8 gon’ 
+: 2803 4 8 get 
+: 2810 6 13 wild 
+: 2817 2 11 and 
+: 2823 6 8 cra
+: 2831 1 8 zy 
+- 2834
+: 2835 3 4 The 
+: 2842 2 8 night
+: 2845 5 11 ~ 
+* 2851 2 8 is 
+: 2859 6 11 still 
+* 2867 5 8 young 
+- 2874
+: 2899 3 4 The 
+: 2906 2 8 night
+: 2909 5 11 ~ 
+: 2915 2 8 is 
+: 2923 6 11 still 
+: 2931 5 8 young 
+- 2938
+: 2963 3 4 The 
+: 2970 2 8 night
+: 2973 5 11 ~ 
+: 2979 2 8 is 
+: 2987 6 11 still 
+: 2995 5 8 young 
+- 3002
+* 3011 5 6 And 
+: 3035 8 9 so 
+: 3051 8 8 are 
+: 3067 8 4 we 
+- 3077
+: 3091 3 4 The 
+: 3098 2 8 night
+: 3101 5 11 ~ 
+: 3107 2 8 is 
+: 3115 6 11 still 
+: 3123 5 8 young 
+- 3130
+: 3155 3 4 The 
+* 3162 2 8 night
+: 3165 5 11 ~ 
+: 3171 2 8 is 
+: 3179 3 13 still
+: 3183 2 8 ~ 
+: 3187 5 8 young 
+- 3194
+: 3219 3 4 The 
+: 3226 2 8 night
+: 3229 5 11 ~ 
+: 3235 2 8 is 
+: 3243 6 11 still 
+: 3251 5 8 young 
+- 3258
+: 3291 8 9 So 
+: 3307 8 8 are 
+: 3323 8 4 we 
+- 3333
+: 3347 3 8 How 
+: 3351 3 8 dare
+: 3355 3 6 ~ 
+: 3359 1 6 we 
+: 3364 2 6 sit 
+: 3372 5 6 qu
+: 3378 4 6 iet
+* 3384 2 4 ly
+: 3387 6 6 ~ 
+- 3395
+: 3410 2 6 And
+: 3413 2 8 ~ 
+: 3416 3 8 watch 
+: 3422 2 6 the 
+: 3426 6 6 world 
+: 3435 3 6 pass 
+: 3443 3 8 us 
+: 3451 1 6 by
+: 3455 1 4 ~
+: 3459 6 1 ~ 
+- 3467
+: 3475 3 8 How 
+: 3479 3 8 dare
+: 3483 3 6 ~ 
+: 3487 1 6 we 
+: 3492 2 6 sit 
+: 3500 5 6 qu
+: 3506 4 6 iet
+: 3512 2 4 ly
+: 3515 6 6 ~ 
+- 3523
+: 3538 2 6 And
+: 3541 2 8 ~ 
+: 3544 3 8 watch 
+: 3550 2 6 the 
+: 3554 6 6 world 
+: 3563 3 6 pass 
+: 3571 3 8 us 
+* 3579 1 6 by
+* 3583 1 4 ~
+* 3587 6 1 ~ 
+E

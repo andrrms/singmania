@@ -1,0 +1,351 @@
+#ARTIST:Lindsey Stirling
+#TITLE:Warmer In The Winter
+#MP3:Lindsey Stirling - Warmer In The Winter.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Lindsey Stirling - Warmer In The Winter [CO].jpg
+#BACKGROUND:Lindsey Stirling - Warmer In The Winter [BG].jpg
+#GENRE:Classical, Pop, Christmas
+#YEAR:2017
+#LANGUAGE:English
+#BPM:377.29
+#GAP:10170
+#VIDEO:v=_TFwieKKEpk,co=warmer-in-the-winter-5dce35fdbffd4.jpg,bg=stirling-lindsey-52a52b38b5d97.jpg
+: 0 11 5 P
+: 11 10 0 Js 
+: 23 4 9 with 
+: 33 7 4 fuzz
+: 40 7 4 y 
+: 52 3 4 socks 
+: 57 13 2 ~
+- 80
+: 92 4 4 Ug
+: 96 4 9 ly 
+: 101 5 0 sweat
+: 106 5 7 ers 
+: 112 5 9 with 
+: 122 7 4 pol
+: 129 7 4 ka 
+: 139 17 2 dots 
+- 166
+: 174 11 4 Warm 
+: 189 9 0 cook
+: 198 9 9 ies 
+: 212 6 4 had 
+: 219 4 4 my 
+: 230 9 2 fill 
+- 249
+: 253 2 5 I 
+: 256 6 7 might 
+: 264 1 7 have 
+: 267 6 9 gained 
+: 276 1 5 a 
+: 278 6 4 pound 
+: 286 1 7 or 
+: 290 6 9 two 
+: 297 4 2 to 
+: 301 4 4 help 
+: 308 2 0 with 
+: 313 1 9 the 
+: 319 10 2 chill 
+- 339
+: 352 8 4 Hot 
+: 367 7 0 co
+: 375 7 9 coa 
+: 389 8 9 pip
+: 397 8 4 ing 
+: 408 11 2 hot 
+- 429
+: 441 3 2 Snug
+: 450 3 7 gled 
+: 455 7 0 up 
+: 467 2 9 in 
+: 472 3 9 our 
+: 478 4 4 fa
+: 482 4 4 vor
+: 486 4 4 ite 
+: 497 10 2 spot 
+- 517
+: 533 7 4 Whis
+: 540 7 0 per 
+: 552 9 0 things 
+: 562 1 0 we 
+: 567 6 4 should
+: 573 6 0 n’t 
+: 583 13 2 say 
+- 604
+: 607 3 4 And 
+: 614 2 7 I 
+: 616 4 7 don’t 
+: 622 6 9 plan 
+: 630 3 5 on 
+: 634 2 4 leav
+: 636 2 4 ing 
+: 644 4 9 here 
+: 650 2 7 till 
+: 655 6 4 Christ
+: 662 6 4 mas 
+: 673 13 2 day
+- 687
+: 689 4 0 Win
+: 693 4 2 dows 
+: 704 10 4 fros
+: 714 10 0 ted 
+- 734
+: 741 4 0 Sum
+: 745 4 4 mer’s 
+: 753 8 11 sleep
+: 761 25 9 ing 
+- 796
+: 800 5 7 But 
+: 812 3 4 I 
+: 818 20 0 don’t 
+: 841 4 0 re
+: 845 4 9 al
+: 849 4 9 ly 
+: 856 44 2 mind 
+- 906
+: 908 4 0 I 
+: 913 9 2 know 
+: 926 10 4 that 
+: 935 10 7 it’s 
+: 948 4 9 cold 
+: 954 10 11 out
+: 965 16 9 side 
+- 989
+: 992 11 0 World 
+: 1008 3 2 is 
+: 1015 11 4 bun
+: 1026 10 7 dled 
+: 1040 3 4 up 
+: 1048 4 4 in 
+: 1055 10 2 white 
+- 1075
+: 1086 3 0 I 
+: 1093 6 2 just 
+: 1103 8 4 need 
+: 1114 7 7 you 
+: 1124 7 11 by 
+: 1133 6 11 my 
+: 1144 9 9 side
+- 1158
+* 1160 5 2 Cause 
+* 1168 2 4 I’m 
+* 1173 2 7 warm
+* 1175 1 4 er 
+* 1183 3 9 in 
+* 1188 4 4 the 
+* 1193 2 4 win
+* 1195 2 7 ter 
+* 1204 3 9 with 
+* 1212 5 0 you 
+- 1267
+: 1513 8 2 Cause 
+: 1521 2 4 I’m 
+: 1524 4 7 warm
+: 1528 3 7 er 
+: 1537 4 9 in 
+: 1542 5 5 the 
+: 1547 2 4 win
+: 1549 1 4 ter 
+: 1557 3 9 with 
+: 1565 5 0 you 
+- 1595
+: 1621 10 4 Last 
+: 1635 8 0 year 
+: 1647 4 9 I 
+: 1653 3 7 was 
+: 1658 6 4 on 
+: 1665 8 0 my 
+: 1674 16 2 own
+- 1700
+: 1710 5 2 Hi
+: 1715 5 4 bern
+: 1720 5 7 at
+: 1725 5 0 ing 
+: 1737 3 9 in 
+: 1741 5 7 my 
+: 1749 6 4 emp
+: 1755 6 0 ty 
+: 1764 14 2 home 
+- 1788
+: 1801 11 4 San
+: 1812 10 0 ta 
+: 1824 6 9 did
+: 1830 5 9 n’t 
+: 1839 5 0 e
+: 1844 5 0 ven 
+: 1852 13 2 help 
+- 1873
+* 1876 2 4 I 
+* 1879 4 7 left 
+* 1888 1 9 a 
+* 1890 8 9 plate 
+* 1899 1 9 of 
+* 1901 4 5 cook
+* 1906 4 7 ies 
+* 1913 4 9 but 
+* 1919 3 7 I 
+* 1924 4 4 ate 
+* 1930 3 0 them 
+* 1935 3 4 my
+* 1941 3 2 self
+* 1946 15 2 ~
+- 1972
+: 1976 9 4 This 
+: 1990 9 0 year 
+: 2001 6 9 feels 
+: 2012 7 4 so 
+: 2021 9 5 brand 
+: 2030 23 2 new
+- 2062
+: 2066 5 2 Tie 
+: 2074 3 7 a 
+: 2079 4 0 rib
+: 2086 2 7 bon 
+: 2090 6 9 round 
+: 2100 5 4 me 
+: 2108 5 0 and 
+: 2117 15 2 you 
+- 2142
+: 2156 8 4 San
+: 2164 7 0 ta 
+: 2179 7 9 is 
+: 2189 7 4 check
+: 2196 7 0 ing 
+: 2208 13 2 twice 
+- 2227
+: 2230 2 4 He’s 
+: 2234 3 7 try
+: 2237 3 7 ing 
+: 2241 1 9 to 
+: 2245 6 9 fig
+: 2251 6 7 ure 
+: 2261 3 5 out 
+: 2265 2 7 if 
+: 2269 5 9 we 
+: 2276 3 7 are 
+* 2280 5 4 naugh
+* 2285 4 0 ty 
+* 2291 5 4 or 
+* 2298 3 5 nice
+* 2302 12 2 ~
+- 2314
+: 2315 6 2 Roads 
+: 2323 1 2 are 
+: 2331 12 4 closed 
+- 2353
+: 2362 6 0 Snow 
+: 2372 4 4 is 
+: 2379 4 9 fall
+: 2385 21 9 ing
+- 2418
+: 2422 4 7 But 
+: 2428 6 2 I 
+: 2438 14 0 don’t 
+: 2466 3 0 re
+: 2470 3 9 al
+: 2474 4 9 ly 
+: 2479 51 2 mind
+- 2531
+: 2529 7 0 I 
+: 2537 9 2 know 
+: 2549 4 4 that 
+: 2555 12 7 it’s 
+: 2571 4 9 cold 
+: 2578 6 11 out
+: 2587 18 9 side
+- 2617
+: 2621 3 7 The 
+: 2624 3 7 world
+: 2629 3 0 ~ 
+: 2636 7 9 is 
+: 2644 6 0 bun
+: 2655 2 9 dled 
+: 2659 6 0 up 
+: 2667 7 0 in 
+: 2677 20 7 white 
+- 2707
+: 2714 2 0 I 
+: 2720 4 0 just 
+: 2728 7 4 need 
+: 2739 6 7 you 
+: 2748 6 11 by 
+: 2755 7 11 my 
+: 2765 3 9 side
+: 2770 2 9 ~
+: 2774 6 7 ~
+- 2781
+: 2783 8 2 Cause 
+: 2795 4 4 I’m 
+: 2801 2 0 warm
+: 2803 2 0 er 
+: 2808 2 0 in 
+: 2812 3 2 the 
+: 2816 5 4 win
+: 2821 5 0 ter 
+: 2827 3 2 with 
+: 2833 13 0 you 
+- 2851
+: 2853 16 2 Whew! 
+- 2919
+: 3597 4 0 I 
+: 3604 8 2 know 
+: 3615 10 4 that 
+: 3629 3 7 it’s 
+: 3637 8 11 cold 
+: 3649 8 9 out
+: 3657 8 9 side
+- 3666
+: 3668 1 9 The 
+: 3681 10 0 world 
+: 3695 2 2 is 
+: 3704 9 4 bun
+: 3713 8 5 dled 
+: 3728 1 4 up 
+: 3736 4 4 in 
+: 3742 11 2 white
+- 3765
+: 3769 8 9 I 
+: 3779 8 2 just 
+: 3791 9 4 need 
+: 3803 7 7 you 
+: 3814 7 11 by 
+: 3821 6 11 my 
+: 3832 10 0 side
+- 3845
+: 3847 5 2 Cause 
+: 3855 2 4 I’m 
+: 3858 5 7 warm
+: 3863 4 7 er 
+: 3872 3 9 in 
+: 3876 4 4 the 
+: 3881 5 4 win
+: 3886 5 7 ter 
+: 3892 3 9 with 
+: 3901 7 0 you 
+- 3917
+: 3920 21 4 Yeah 
+: 3945 3 7 the 
+: 3949 3 7 tem
+: 3954 1 7 per
+: 3956 2 9 at
+: 3959 4 9 ure 
+: 3966 2 4 is 
+: 3971 3 4 toas
+: 3977 2 7 ty 
+: 3982 2 9 for 
+: 3987 11 0 two 
+- 3998
+: 3999 6 4 Oh 
+: 4007 11 4 Oh
+- 4024
+* 4026 4 4 I’m 
+* 4032 5 7 warm
+* 4037 5 7 er 
+* 4049 4 9 in 
+* 4054 3 4 the 
+* 4059 5 4 win
+* 4064 5 7 ter 
+* 4070 2 9 with 
+* 4075 14 0 you 
+E

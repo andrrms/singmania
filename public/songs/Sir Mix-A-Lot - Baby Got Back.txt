@@ -1,0 +1,959 @@
+#ARTIST:Sir Mix-A-Lot
+#TITLE:Baby Got Back
+#MP3:Sir Mix-A-Lot - Baby Got Back.mp3
+#CREATOR:dan878
+#EDITION:SingStar ’90s [UK|US]
+#GENRE:Rap
+#YEAR:1991
+#LANGUAGE:English
+#BPM:256.84
+#GAP:270
+#VIDEO:v=X53ZSxkQ3Ho,co=https://m.media-amazon.com/images/I/51u+187qewL.jpg
+F 0 5 0 Oh 
+F 12 5 0 my 
+F 24 7 0 god, 
+F 34 6 0 Becky 
+- 42
+F 43 2 0 Look 
+F 49 2 0 at 
+F 52 4 0 her 
+F 58 4 0 butt 
+- 64
+F 68 2 0 It 
+F 72 2 0 is 
+F 77 4 0 so 
+F 84 4 0 big 
+- 90
+F 106 1 0 She 
+F 108 2 0 looks 
+F 111 2 0 like 
+F 118 1 0 one 
+F 120 1 0 of 
+- 122
+F 122 3 0 Those 
+F 132 2 0 rap 
+F 138 4 0 guy’s 
+F 146 10 0 girlfriends 
+- 158
+F 167 2 0 Who 
+F 171 8 0 understands 
+F 182 2 0 those 
+F 186 2 0 rap 
+F 190 3 0 guys? 
+- 195
+F 214 2 0 They 
+F 218 3 0 only 
+F 222 3 0 talk 
+F 227 2 0 to 
+F 230 2 0 her 
+- 234
+F 236 5 0 Because 
+F 246 2 0 she 
+F 249 2 0 looks 
+F 252 2 0 like 
+F 255 3 0 a 
+F 259 5 0 total 
+F 267 9 0 prostitute 
+- 278
+F 280 5 0 Okay, 
+F 292 2 0 I 
+F 295 2 0 mean 
+F 303 3 0 her 
+F 308 3 0 butt 
+- 313
+F 320 1 0 It’s 
+F 323 2 0 just 
+F 327 3 0 so 
+F 337 4 0 big 
+- 343
+F 363 1 0 I 
+F 365 4 0 can’t 
+F 370 4 0 believe 
+F 375 1 0 it’s 
+F 377 3 0 just 
+F 381 2 0 so 
+F 387 5 0 round 
+- 393
+F 394 1 0 It’s 
+F 396 3 0 like 
+F 401 3 0 out 
+F 405 2 0 there 
+- 408
+F 409 1 0 I 
+F 411 3 0 mean, 
+F 430 2 0 it’s 
+F 434 5 0 gross 
+- 441
+F 448 4 0 Look, 
+F 475 2 0 she’s 
+F 478 2 0 just 
+F 481 2 0 so 
+F 503 4 0 black 
+- 508
+R 509 2 1 I 
+R 513 3 1 like 
+R 521 3 1 big 
+R 529 2 1 butts 
+- 532
+R 533 1 1 And 
+R 535 1 1 I 
+R 537 1 1 can
+R 541 1 1 not 
+R 545 3 1 lie 
+- 550
+R 557 1 1 You 
+R 561 1 1 o
+R 563 1 1 ther 
+R 565 1 1 bro
+R 567 1 1 thers 
+R 569 1 1 can’t 
+R 573 1 1 de
+R 577 4 1 ny 
+- 583
+R 587 1 1 That 
+R 589 1 1 when 
+R 591 1 1 a 
+R 593 1 1 girl 
+R 597 1 1 walks 
+R 601 2 1 in 
+- 604
+R 605 1 1 With 
+R 607 1 1 an 
+R 609 1 1 it
+R 611 1 1 ty 
+R 613 1 1 bit
+R 615 1 1 ty 
+R 617 1 1 waist 
+- 620
+G 621 1 1 And 
+R 623 1 1 a
+R 625 1 1 round 
+R 629 1 1 thing 
+R 633 1 1 in 
+R 637 1 1 your 
+R 641 2 1 face 
+- 644
+R 645 1 1 You 
+R 649 2 1 get 
+R 657 4 1 sprung 
+- 663
+R 669 1 1 Wan
+R 671 1 1 na 
+R 673 1 1 pull 
+R 675 2 1 up 
+R 681 2 1 tough 
+- 684
+R 685 1 1 ’Cause 
+R 687 1 1 you 
+R 689 1 1 no
+R 691 1 1 tice 
+- 693
+R 693 1 1 That 
+R 697 2 1 butt 
+R 701 2 1 was 
+R 705 2 1 stuffed 
+- 709
+R 721 2 1 Deep 
+R 725 1 1 in 
+R 727 1 1 the 
+R 729 1 1 jeans 
+R 733 2 1 she’s 
+R 737 2 1 wear
+R 741 2 1 ing 
+- 745
+R 749 2 1 I’m 
+R 753 2 1 hooked 
+R 757 1 1 and 
+R 759 1 1 I 
+R 761 1 1 can’t 
+R 765 2 1 stop 
+R 769 2 1 star
+R 773 2 1 ing 
+- 776
+R 777 5 1 Oh, 
+R 785 5 1 ba
+R 793 3 1 by 
+- 798
+R 799 1 1 I 
+R 801 1 1 wan
+R 803 1 1 na 
+R 805 1 1 get 
+R 809 2 1 wit’ 
+R 813 2 1 ya 
+- 817
+R 821 2 1 And 
+R 825 2 1 take 
+R 829 1 1 your 
+R 833 2 1 pic
+R 837 2 1 ture 
+- 841
+R 845 2 1 My 
+R 849 2 1 home
+R 853 2 1 boys 
+R 857 2 1 tried 
+R 861 2 1 to 
+R 865 4 1 warn 
+R 871 2 1 me 
+- 874
+G 875 1 1 But 
+R 877 2 1 that 
+R 881 2 1 butt 
+R 885 2 1 you 
+R 889 2 1 got 
+R 893 2 1 makes 
+- 896
+R 897 2 1 Me 
+R 901 2 1 so 
+R 905 2 1 hor
+R 909 2 1 ny 
+- 912
+G 913 5 2 Ooh, 
+R 921 2 2 rum
+R 925 2 2 ple 
+R 929 5 2 smooth 
+R 935 5 2 skin 
+- 942
+R 943 1 2 You 
+R 945 1 2 say 
+R 947 1 2 you 
+R 949 1 2 wan
+R 951 1 2 na 
+R 953 1 2 get 
+R 955 1 2 in 
+R 957 1 2 my 
+R 961 4 2 Benz 
+- 967
+R 973 2 2 Well 
+R 977 4 2 use 
+R 985 3 2 me, 
+R 993 4 2 use 
+R 1001 2 2 me 
+- 1004
+R 1005 1 2 ’Cause 
+R 1007 1 2 you 
+R 1009 2 2 ain’t 
+- 1012
+R 1013 1 2 That 
+R 1015 2 2 a
+R 1019 1 2 ve
+R 1021 1 2 rage 
+R 1025 5 2 grou
+R 1033 3 2 pie 
+- 1038
+R 1045 2 2 I’ve 
+R 1049 2 2 seen 
+R 1053 2 2 them 
+R 1057 4 2 dan
+R 1063 4 2 cin’ 
+- 1069
+R 1075 1 2 To 
+R 1077 2 2 hell 
+R 1081 2 2 with 
+R 1085 2 2 ro
+R 1089 3 2 man
+R 1095 2 2 cin’ 
+- 1099
+R 1100 3 2 She’s 
+R 1105 3 2 sweat, 
+R 1121 3 2 wet 
+- 1126
+R 1133 1 2 Got 
+R 1135 1 2 it 
+R 1137 1 2 go
+R 1139 1 2 in’ 
+R 1141 1 2 like 
+R 1143 1 2 a 
+R 1145 1 2 tur
+R 1149 1 2 bo 
+R 1153 3 2 Vette 
+- 1158
+R 1165 2 2 I’m 
+R 1169 2 2 tired 
+R 1173 2 2 of 
+R 1177 2 2 ma
+R 1181 2 2 ga
+R 1185 6 2 zines 
+- 1193
+R 1197 1 2 Say
+R 1199 1 2 ing 
+R 1201 1 2 flat 
+R 1205 2 2 butts 
+R 1209 2 2 are 
+R 1213 2 2 the 
+R 1217 6 2 thing 
+- 1225
+R 1229 1 2 Take 
+R 1231 1 2 the 
+R 1233 1 2 a
+R 1235 1 2 ve
+R 1237 2 2 rage 
+R 1241 2 2 black 
+R 1245 1 2 man 
+- 1247
+R 1247 1 2 And 
+R 1249 1 2 ask 
+R 1253 2 2 him 
+R 1257 2 2 that 
+- 1261
+R 1267 1 2 She 
+R 1269 1 2 got
+R 1271 1 2 ta 
+R 1273 2 2 pack 
+R 1277 2 2 much 
+R 1281 2 2 back 
+- 1285
+R 1289 4 3 So 
+R 1297 1 3 fel
+R 1299 3 3 las 
+- 1304
+R 1313 1 3 Fel
+R 1315 4 3 las 
+- 1321
+R 1325 1 3 Has 
+R 1327 1 3 your 
+R 1329 1 3 girl 
+R 1333 1 3 friend 
+R 1337 2 3 got 
+R 1340 1 3 the 
+R 1343 2 3 butt 
+- 1347
+R 1353 1 3 Tell 
+R 1355 1 3 ’em 
+R 1357 2 3 to 
+R 1361 2 3 shake 
+R 1365 2 3 it 
+- 1369
+R 1377 2 3 Shake 
+R 1381 2 3 it 
+- 1385
+G 1393 1 3 Shake 
+R 1397 2 3 that 
+R 1401 2 3 heal
+R 1405 1 3 thy 
+R 1407 3 3 butt 
+- 1412
+R 1417 1 3 Ba
+R 1419 1 3 by 
+R 1421 2 3 got 
+R 1425 4 3 back 
+- 1431
+R 1537 2 3 Ba
+R 1541 2 3 by 
+R 1545 4 3 got 
+R 1553 4 3 back 
+- 1559
+R 1685 2 0 I 
+R 1689 2 0 like 
+R 1693 2 0 ’em 
+R 1697 6 0 round 
+R 1707 3 0 and 
+R 1713 4 0 big 
+- 1719
+R 1723 1 0 And 
+R 1725 1 0 when 
+R 1727 1 0 I’m 
+R 1729 1 0 throw
+R 1731 1 0 in’ 
+R 1733 1 0 a 
+R 1737 2 0 gig 
+- 1740
+R 1741 2 0 I 
+R 1745 2 0 just 
+R 1749 2 0 can’t 
+R 1753 2 0 help 
+R 1757 2 0 my
+R 1761 3 0 self 
+- 1765
+G 1765 1 0 I’m 
+R 1767 3 0 act
+R 1771 1 0 in’ 
+R 1773 1 0 like 
+R 1775 1 0 an 
+R 1777 1 0 a
+R 1779 1 0 ni
+R 1781 1 0 mal 
+- 1784
+R 1788 2 0 Now 
+R 1792 2 0 here’s 
+R 1796 2 0 my 
+R 1800 2 0 scan
+R 1804 2 0 dal 
+- 1808
+R 1811 1 0 I 
+R 1813 1 0 wan
+R 1815 1 0 na 
+R 1817 2 0 get 
+R 1821 2 0 you 
+R 1825 4 0 home 
+- 1831
+R 1837 3 0 And 
+R 1841 3 0 uh, 
+R 1849 1 0 dou
+R 1851 1 0 ble 
+R 1853 2 0 up 
+- 1856
+R 1857 2 0 Uh 
+R 1865 3 0 uh 
+- 1870
+R 1875 1 0 I 
+R 1877 2 0 ain’t 
+R 1881 1 0 talk
+R 1883 1 0 in’ 
+R 1885 2 0 ’bout 
+R 1889 3 0 play
+R 1893 2 0 boy 
+- 1897
+R 1901 2 0 ’Cause 
+R 1905 1 0 si
+R 1907 1 0 li
+R 1909 1 0 cone 
+R 1913 2 0 parts 
+- 1916
+R 1917 1 0 Are 
+R 1919 2 0 made 
+R 1923 1 0 for 
+R 1925 5 0 toys 
+- 1932
+R 1941 2 1 I 
+R 1945 2 1 want 
+R 1949 2 1 ’em 
+R 1953 5 1 real 
+R 1961 2 1 thick 
+R 1964 2 1 and 
+R 1969 4 1 jui
+R 1975 3 1 cy 
+- 1980
+R 1981 2 1 So 
+R 1985 2 1 find 
+R 1989 2 1 that 
+R 1993 2 1 jui
+R 1997 2 1 cy 
+R 2001 1 1 dou
+R 2003 3 1 ble 
+- 2008
+R 2013 1 1 Mix
+R 2015 1 1 -a
+R 2017 2 1 -lot’s 
+R 2021 2 1 in 
+R 2025 1 1 trou
+R 2027 2 1 ble 
+- 2031
+R 2033 1 1 Beg
+R 2035 1 1 gin’ 
+R 2037 1 1 for 
+R 2039 1 1 a 
+R 2041 1 1 piece 
+R 2043 1 1 of 
+R 2045 2 1 that 
+R 2049 1 1 bub
+R 2051 3 1 ble 
+- 2056
+R 2061 1 1 So 
+R 2063 1 1 I’m 
+R 2065 1 1 look
+R 2067 1 1 in’ 
+R 2069 1 1 at 
+R 2073 2 1 rock 
+R 2077 1 1 vi
+R 2079 1 1 de
+R 2081 4 1 os 
+- 2087
+R 2097 2 1 Knock 
+R 2101 2 1 kneed 
+R 2105 2 1 bim
+R 2109 2 1 bos 
+- 2112
+R 2113 1 1 Walk
+R 2115 1 1 in’ 
+R 2117 2 1 like 
+R 2121 7 1 hoes 
+- 2130
+R 2133 1 1 You 
+R 2135 1 1 can 
+R 2137 2 1 have 
+R 2141 2 1 them 
+R 2145 2 1 bim
+R 2149 3 1 bos 
+- 2154
+R 2157 2 1 I’ll 
+R 2161 2 1 keep 
+R 2165 2 1 my 
+R 2168 1 1 wo
+R 2170 1 1 men 
+R 2172 2 1 like 
+R 2176 3 1 Flo 
+R 2181 2 1 Jo 
+- 2185
+R 2191 1 2 A 
+R 2193 2 2 word 
+R 2197 1 2 to 
+R 2199 1 2 the 
+R 2201 2 2 thick 
+R 2205 2 2 soul 
+R 2209 2 2 sis
+R 2213 1 2 tas 
+- 2215
+R 2215 1 2 I 
+R 2217 1 2 wan
+R 2219 1 2 na 
+R 2221 2 2 get 
+R 2225 2 2 wit’ 
+R 2229 2 2 ya 
+- 2233
+R 2235 1 2 I 
+R 2237 1 2 won’t 
+R 2241 2 2 cus 
+R 2245 2 2 or 
+R 2249 2 2 hit 
+R 2253 2 2 ya 
+- 2257
+R 2260 1 2 But 
+R 2262 1 2 I 
+R 2264 1 2 got
+R 2266 1 2 ta 
+R 2268 2 2 be 
+R 2272 2 2 straight 
+- 2275
+R 2276 1 2 When 
+R 2278 1 2 I 
+R 2280 1 2 say 
+R 2282 1 2 I 
+R 2284 1 2 wan
+R 2286 1 2 na 
+- 2289
+R 2297 2 2 Til 
+R 2301 2 2 the 
+R 2305 2 2 break 
+R 2313 3 2 of 
+R 2321 3 2 dawn 
+- 2326
+R 2329 1 3 Ba
+R 2331 1 3 by 
+R 2333 1 3 got 
+R 2335 1 3 it 
+R 2337 1 3 go
+R 2339 1 3 in’ 
+R 2341 2 3 on 
+- 2345
+R 2347 1 3 A 
+R 2349 1 3 lot 
+R 2351 1 3 of 
+R 2353 1 3 simps 
+R 2357 1 3 won’t 
+R 2361 2 3 like 
+R 2365 2 3 this 
+R 2369 3 3 song 
+- 2374
+R 2379 1 3 ’Cause 
+R 2381 2 3 them 
+R 2385 2 3 punks 
+R 2389 1 3 like 
+- 2391
+R 2391 1 3 To 
+R 2393 1 3 hit 
+R 2395 1 3 it 
+R 2397 1 3 and 
+R 2399 1 3 quit 
+R 2401 1 3 it 
+- 2404
+R 2411 1 3 But 
+R 2413 2 3 I’d 
+R 2417 2 3 ra
+R 2420 2 3 ther 
+R 2424 2 3 stay 
+R 2427 2 3 and 
+R 2430 3 3 play 
+- 2435
+G 2443 1 3 ’Cause 
+R 2445 2 3 I’m 
+R 2449 6 3 long 
+R 2459 1 3 and 
+R 2461 2 3 I’m 
+R 2465 6 3 strong 
+- 2473
+R 2475 1 3 And 
+R 2477 2 3 I’m 
+R 2481 1 3 down 
+R 2483 1 3 to 
+R 2485 1 3 get 
+R 2487 1 3 the 
+R 2489 2 3 fric
+R 2493 1 3 tion 
+R 2495 4 3 on 
+- 2501
+R 2505 3 3 So 
+R 2513 2 3 la
+R 2516 3 3 dies 
+- 2521
+R 2529 2 3 La
+R 2532 2 3 dies 
+- 2536
+R 2541 1 3 If 
+R 2543 1 3 you 
+R 2545 1 3 wan
+R 2547 1 3 na 
+R 2549 1 3 role 
+R 2551 1 3 in 
+R 2553 2 3 my 
+R 2557 2 3 Mer
+R 2561 2 3 ce
+R 2564 3 3 des 
+- 2569
+R 2572 2 3 Then 
+R 2576 1 3 turn 
+R 2578 1 3 a
+R 2580 4 3 round 
+- 2586
+R 2592 1 3 Stick 
+R 2594 1 3 it 
+R 2596 3 3 out 
+- 2601
+R 2604 1 3 E
+R 2606 1 3 ven 
+R 2608 2 3 white 
+R 2612 2 3 boys 
+R 2616 2 3 got 
+R 2620 1 3 to 
+R 2622 2 3 shout 
+- 2626
+G 2632 1 3 Ba
+R 2634 1 3 by 
+R 2636 2 3 got 
+R 2640 2 3 back 
+- 2644
+R 2753 2 3 Ba
+R 2757 2 3 by 
+R 2761 3 3 got 
+R 2769 4 3 back 
+- 2775
+R 2783 3 0 Yeah 
+R 2788 2 0 ba
+R 2792 3 0 by 
+- 2797
+R 2813 2 0 When 
+R 2816 2 0 it 
+R 2819 2 0 comes 
+R 2822 2 0 to 
+R 2826 2 0 fe
+R 2830 6 0 males 
+- 2838
+R 2855 2 0 Cos
+R 2859 2 0 mo 
+R 2863 2 0 ain’t 
+R 2867 2 0 got 
+R 2872 2 0 no
+R 2875 2 0 thin’ 
+- 2879
+R 2880 1 0 To 
+R 2882 1 0 do 
+R 2884 1 0 with 
+R 2886 1 0 my 
+R 2889 2 0 se
+R 2893 2 0 lec
+R 2896 2 0 tion 
+- 2900
+R 2919 2 0 Thir
+R 2922 2 0 ty
+R 2925 2 0 six, 
+R 2930 2 0 twen
+R 2933 2 0 ty
+R 2936 3 0 four, 
+R 2941 2 0 thir
+R 2944 2 0 ty
+R 2948 2 0 six 
+- 2952
+R 2960 1 0 Ha 
+R 2962 3 0 ha 
+- 2967
+R 2978 2 0 On
+R 2982 1 0 ly 
+R 2984 2 0 if 
+R 2987 2 0 she’s 
+R 2991 3 0 five 
+R 2997 5 0 three 
+- 3004
+R 3021 1 2 So 
+R 3023 1 2 your 
+R 3025 2 2 girl 
+R 3029 2 2 friend 
+R 3033 2 2 throws 
+R 3037 2 2 a 
+R 3041 3 2 Hon
+R 3047 3 2 da 
+- 3052
+R 3053 1 2 Play
+R 3055 1 2 in’ 
+R 3057 1 2 work
+R 3061 2 2 out 
+R 3065 2 2 tapes 
+R 3069 2 2 by 
+R 3073 4 2 Fon
+R 3079 2 2 da 
+- 3083
+R 3085 2 2 But 
+R 3089 2 2 Fon
+R 3093 1 2 da 
+R 3095 2 2 ain’t 
+R 3099 1 2 got 
+R 3101 1 2 a 
+R 3104 1 2 mo
+R 3106 1 2 tor 
+- 3108
+R 3108 1 2 In 
+R 3110 1 2 the 
+R 3112 1 2 back 
+R 3114 1 2 of 
+R 3116 3 2 her 
+R 3120 4 2 Hon
+R 3126 2 2 da 
+- 3130
+G 3132 2 2 My 
+R 3136 2 2 a
+R 3140 2 2 na
+R 3144 2 2 con
+R 3148 2 2 da 
+R 3152 2 2 don’t 
+R 3160 2 2 want 
+R 3168 2 2 none 
+- 3171
+R 3172 2 2 Un
+R 3176 2 2 less 
+R 3180 2 2 you’ve 
+R 3184 2 2 got 
+R 3192 3 2 buns 
+R 3200 4 2 hon 
+- 3206
+R 3212 1 2 You 
+R 3214 1 2 can 
+R 3216 1 2 do 
+R 3220 2 2 side 
+R 3224 2 2 bends 
+R 3228 2 2 or 
+R 3232 1 2 sit 
+R 3234 2 2 ups 
+- 3238
+R 3244 2 2 But 
+R 3248 2 2 please 
+R 3252 2 2 don’t 
+R 3256 2 2 lose 
+R 3260 2 2 that 
+R 3264 2 2 butt 
+- 3268
+R 3276 2 2 Some 
+R 3280 1 2 bro
+R 3282 1 2 thers 
+- 3284
+R 3284 1 2 Wan
+R 3286 1 2 na 
+R 3288 1 2 play 
+R 3292 2 2 that 
+R 3296 2 2 hard 
+R 3302 3 2 role 
+- 3307
+R 3308 2 2 And 
+R 3312 1 2 tell 
+R 3314 1 2 you 
+R 3316 1 2 that 
+R 3318 1 2 the 
+R 3320 2 2 butt 
+R 3324 2 2 ain’t 
+R 3328 5 2 gold 
+- 3335
+R 3338 1 3 So 
+R 3340 2 3 they 
+R 3344 2 3 toss 
+R 3348 2 3 it 
+R 3356 2 3 and 
+R 3360 2 3 leave 
+R 3364 2 3 it 
+- 3368
+R 3370 1 3 And 
+R 3372 2 3 I 
+R 3376 1 3 pull 
+R 3378 2 3 up 
+R 3382 2 3 quick 
+R 3386 1 3 to 
+R 3388 2 3 re
+R 3392 2 3 trieve 
+R 3396 2 3 it 
+- 3400
+R 3404 2 3 So 
+R 3408 2 3 Cos
+R 3412 2 3 mo 
+R 3416 2 3 says 
+R 3420 2 3 you’re 
+R 3424 2 3 fat 
+- 3428
+R 3438 1 3 Well 
+R 3440 1 3 I 
+R 3442 2 3 ain’t 
+R 3446 2 3 down 
+R 3450 1 3 with 
+R 3452 2 3 that 
+- 3456
+R 3468 1 3 ’Cause 
+R 3470 1 3 your 
+R 3472 1 3 waist 
+R 3476 1 3 is 
+R 3480 2 3 small 
+- 3483
+R 3484 1 3 And 
+R 3486 1 3 your 
+R 3488 2 3 curves 
+R 3492 2 3 are 
+R 3496 1 3 kick
+R 3498 2 3 in’ 
+- 3502
+G 3506 1 3 And 
+R 3508 2 3 I’m 
+R 3512 1 3 think
+R 3514 1 3 in’ 
+R 3516 2 3 ’bout 
+R 3520 1 3 stick
+R 3522 2 3 in’ 
+- 3526
+R 3532 1 3 To 
+R 3534 1 3 the 
+R 3536 2 3 bean
+R 3540 2 3 pole 
+R 3544 2 3 dames 
+- 3547
+R 3548 1 3 In 
+R 3550 1 3 the 
+R 3552 1 3 ma
+R 3554 1 3 ga
+R 3556 4 3 zines 
+- 3562
+R 3568 1 3 You 
+R 3570 2 3 ain’t 
+R 3574 2 3 it 
+R 3577 2 3 miss 
+R 3581 4 3 thing 
+- 3587
+R 3594 1 3 Give 
+R 3596 1 3 me 
+R 3598 1 3 a 
+R 3600 2 3 sis
+R 3604 1 3 ta 
+R 3606 1 3 I 
+R 3608 2 3 can’t 
+R 3612 2 3 re
+R 3616 2 3 sist 
+R 3620 3 3 her 
+- 3625
+R 3628 1 3 Red 
+R 3632 2 3 beans 
+R 3636 2 3 and 
+R 3640 2 3 rice 
+R 3644 1 3 did
+R 3646 1 3 n’t 
+R 3648 1 3 miss 
+R 3652 4 3 her 
+- 3658
+R 3660 2 0 Some 
+R 3664 1 0 knu
+R 3666 1 0 ckle
+R 3668 2 0 head 
+R 3672 2 0 tried 
+R 3676 2 0 to 
+R 3680 2 0 diss 
+- 3684
+R 3691 1 0 ’Cause 
+R 3693 1 0 his 
+R 3696 2 0 girls 
+R 3700 1 0 were 
+R 3702 2 0 on 
+R 3706 2 0 my 
+R 3710 3 0 list 
+- 3715
+R 3722 1 0 He 
+R 3724 2 0 had 
+R 3728 2 0 game 
+R 3732 1 0 but 
+R 3734 1 0 he 
+R 3736 2 0 chose 
+R 3740 2 0 to 
+R 3744 1 0 hit 
+R 3746 2 0 ’em 
+- 3750
+R 3755 1 0 And 
+R 3757 2 0 I 
+R 3760 1 0 pulled 
+R 3762 2 0 up 
+R 3766 2 0 quick 
+R 3770 1 0 to 
+R 3772 2 0 get 
+R 3776 1 0 wit’ 
+R 3778 4 0 ’em 
+- 3784
+R 3788 2 0 So 
+R 3792 1 0 la
+R 3794 1 0 dies 
+R 3796 1 0 if 
+R 3798 1 0 the 
+R 3800 2 0 butt 
+R 3804 2 0 is 
+R 3808 5 0 round 
+- 3815
+R 3820 1 0 And 
+R 3822 1 0 you 
+R 3824 1 0 wan
+R 3826 1 0 na 
+R 3828 1 0 tri
+R 3830 1 0 ple 
+R 3832 1 0 X 
+R 3836 2 0 throw 
+R 3840 6 0 down 
+- 3848
+G 3852 2 0 Dial 
+R 3856 2 0 one 
+R 3860 2 0 - nine
+R 3864 2 0 hun
+R 3868 2 0 dred 
+R 3872 2 0 - mix
+R 3876 1 0 -a
+R 3878 2 0 -lot 
+- 3882
+R 3884 2 0 And 
+R 3888 2 0 kick 
+R 3892 2 0 them 
+R 3896 2 0 nas
+R 3900 1 0 ty 
+R 3902 2 0 thoughts 
+- 3906
+R 3912 1 0 Ba
+R 3914 1 0 by 
+R 3916 1 0 got 
+R 3920 4 0 back 
+- 3926
+R 4032 2 0 Ba
+R 4036 2 0 by 
+R 4040 3 0 got 
+R 4048 4 0 back 
+- 4054
+R 4176 1 1 Lit
+R 4178 1 1 tle 
+R 4180 1 1 in 
+R 4182 1 1 the 
+R 4184 1 1 mid
+R 4186 1 1 dle 
+- 4188
+R 4188 1 1 But 
+R 4190 1 1 you 
+R 4192 1 1 got 
+R 4196 1 1 much 
+R 4200 3 1 back 
+- 4205
+R 4240 1 1 Lit
+R 4242 1 1 tle 
+R 4244 1 1 in 
+R 4246 1 1 the 
+R 4248 1 1 mid
+R 4250 1 1 dle 
+- 4252
+R 4252 1 1 But 
+R 4254 1 1 you 
+R 4256 2 1 got 
+R 4260 2 1 much 
+R 4264 2 1 back 
+E

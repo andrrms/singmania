@@ -1,0 +1,296 @@
+#ARTIST:Jon and Vangelis
+#TITLE:I’ll Find My Way Home
+#MP3:Jon and Vangelis - I’ll Find My Way Home.mp3
+#CREATOR:daggeg
+#YEAR:1981
+#LANGUAGE:English
+#BPM:345.7
+#GAP:8200
+#VIDEO:v=rKqLAVyRaXw,co=https://media.hitparade.ch/cover/800/jon_and_vangelis-ill_find_my_way_home_s.jpg
+: 0 4 7 You 
+: 8 4 7 ask 
+: 16 5 7 me 
+* 24 4 12 where 
+: 32 5 12 to 
+: 40 5 14 be
+: 48 15 7 gin 
+- 65
+: 128 5 2 Am 
+: 136 4 4 I 
+: 144 5 5 so 
+: 152 5 4 lost 
+: 160 5 0 in 
+: 168 5 -3 my 
+: 176 13 2 sin 
+- 191
+: 256 4 7 You 
+: 264 4 7 ask 
+: 272 5 7 me 
+: 280 5 12 where 
+: 288 4 12 did 
+: 296 5 14 I 
+: 304 12 7 fall 
+- 318
+: 384 4 2 I’ll 
+: 392 4 4 say 
+: 400 4 5 I 
+: 408 4 4 can’t 
+: 416 5 0 tell 
+: 424 5 -3 you 
+: 432 14 2 when 
+- 448
+: 513 5 2 But 
+: 521 4 4 if 
+: 529 4 5 my 
+: 537 7 7 spi
+: 545 5 7 rit 
+: 553 4 7 is 
+: 561 8 0 lost 
+- 571
+: 640 4 2 How 
+: 648 6 4 will 
+: 656 4 5 I 
+: 664 5 4 find 
+: 672 5 0 what 
+: 680 4 -3 is 
+: 688 22 2 near 
+- 712
+: 768 4 2 Don’t 
+: 776 5 4 ques
+: 784 4 5 tion 
+: 792 5 7 I’m 
+* 800 5 7 not 
+* 808 5 7 a
+* 816 14 0 lone 
+- 832
+: 897 4 2 Some
+: 905 5 4 how 
+: 913 4 5 I’ll 
+: 921 5 4 find 
+: 929 5 0 my 
+: 937 5 -3 way 
+: 944 25 2 home 
+- 971
+: 1026 3 7 My 
+: 1034 4 7 sun 
+: 1042 4 7 shall 
+: 1050 5 12 rise 
+: 1058 5 12 in 
+: 1066 4 14 the 
+: 1073 8 7 east 
+- 1083
+: 1152 4 2 So 
+: 1160 5 4 shall 
+: 1168 4 5 my 
+: 1177 4 4 heart 
+: 1185 5 0 be 
+: 1193 5 -3 at 
+: 1201 15 2 peace 
+- 1218
+: 1281 4 7 And 
+: 1289 4 7 if 
+* 1297 4 7 you’re 
+* 1305 5 12 ask
+* 1313 5 12 ing 
+: 1321 5 14 me 
+: 1329 10 7 when 
+- 1341
+: 1409 5 2 I’ll 
+: 1417 5 4 say 
+: 1425 3 5 it 
+: 1433 5 4 starts 
+: 1441 4 0 at 
+: 1449 4 -3 the 
+: 1457 22 2 end 
+- 1481
+: 1537 5 2 You 
+: 1545 5 4 know 
+: 1553 5 5 your 
+: 1561 5 7 will 
+: 1569 5 7 to 
+: 1577 5 7 be 
+: 1585 16 0 free 
+- 1603
+: 1667 4 2 Is 
+: 1675 4 4 matched 
+: 1682 4 5 with 
+: 1690 4 4 love 
+: 1698 5 0 sec
+: 1706 5 -3 ret
+: 1714 22 2 ly 
+- 1738
+: 1795 4 2 And 
+: 1802 4 4 talk 
+: 1810 4 5 will 
+: 1818 5 7 al
+: 1825 4 7 ter 
+: 1833 4 7 your 
+: 1841 3 0 pray
+: 1845 5 0 er 
+- 1852
+: 1921 4 2 Some
+: 1929 4 4 how 
+: 1937 4 5 you’ll 
+: 1945 5 4 find 
+: 1953 4 0 you 
+: 1961 5 -3 are 
+: 1969 26 2 there. 
+- 1997
+: 2052 4 7 Your 
+: 2059 4 7 friend 
+: 2066 4 7 is 
+: 2074 5 12 close 
+: 2082 5 12 by 
+: 2090 5 14 your 
+* 2098 13 7 side 
+- 2113
+: 2179 4 2 And 
+: 2186 4 4 speaks 
+: 2194 4 5 in 
+: 2202 5 4 far 
+: 2210 5 0 an
+: 2218 4 -3 cient 
+: 2225 19 2 tongue 
+- 2246
+: 2307 3 7 A 
+: 2314 7 7 sea
+: 2322 4 7 sons 
+: 2330 5 12 wish 
+: 2338 5 12 will 
+: 2346 4 14 come 
+: 2354 18 7 true 
+- 2374
+: 2434 5 2 All 
+: 2442 7 4 sea
+: 2450 4 5 sons 
+: 2458 6 4 be
+: 2466 5 0 gin 
+: 2474 5 -3 with 
+: 2482 18 2 you 
+- 2502
+: 2562 4 2 One 
+: 2570 5 4 world 
+: 2579 4 5 we 
+: 2587 7 4 all 
+: 2603 4 2 come 
+: 2611 10 0 from 
+- 2623
+: 2690 4 2 One 
+: 2698 5 4 world 
+: 2707 4 5 we 
+: 2715 5 4 melt 
+: 2723 3 4 in
+: 2731 5 11 to 
+: 2738 7 12 one 
+- 2747
+: 2819 4 0 Just 
+* 2827 5 0 hold 
+* 2835 5 0 my 
+* 2843 5 0 hand 
+: 2851 5 -1 and 
+: 2859 5 -3 we’re 
+: 2867 7 -5 there 
+- 2876
+: 2947 5 5 Some
+: 2955 5 5 how 
+: 2963 4 5 we’re 
+: 2971 7 5 go
+: 2979 4 4 ing 
+: 2987 4 2 some
+: 2995 7 0 where 
+- 3004
+: 3076 5 5 Some
+: 3083 5 5 how 
+: 3091 5 5 we’re 
+: 3099 7 5 go
+: 3107 4 4 ing 
+: 3115 4 2 some
+: 3123 7 0 where 
+- 3132
+: 4229 4 0 You 
+: 4237 4 0 ask 
+: 4245 4 0 me 
+: 4253 5 0 where 
+: 4261 5 0 to 
+: 4269 5 0 be
+: 4277 7 -5 gin 
+- 4286
+: 4357 4 0 Am 
+: 4365 4 0 I 
+: 4373 4 0 so 
+* 4381 4 0 lost 
+: 4389 5 0 in 
+: 4397 5 0 my 
+* 4405 10 -5 sin 
+- 4417
+: 4485 4 0 You 
+: 4493 4 0 ask 
+: 4501 4 0 me 
+: 4509 5 0 where 
+: 4517 5 0 did 
+: 4525 5 0 I 
+: 4533 10 -5 fall 
+- 4545
+: 4613 4 0 I’ll 
+: 4621 4 0 say 
+: 4629 4 0 I 
+: 4637 4 0 can’t 
+: 4645 4 0 tell 
+: 4653 5 0 you 
+: 4661 7 -5 when 
+- 4670
+: 4741 4 2 But 
+: 4749 4 4 if 
+: 4757 4 5 my 
+: 4765 7 4 spi
+: 4773 4 4 rit 
+: 4781 4 2 is 
+: 4789 9 0 strong 
+- 4800
+: 4871 5 2 I 
+: 4879 5 4 know 
+: 4887 4 5 it 
+: 4895 5 4 can’t 
+: 4909 5 11 be 
+: 4918 10 12 long 
+- 4930
+: 4998 5 0 No 
+: 5006 5 0 ques
+: 5014 4 0 tions 
+: 5022 4 0 I’m 
+: 5030 5 -1 not 
+: 5038 5 -3 a
+: 5046 9 -5 lone 
+- 5057
+* 5126 5 5 Some
+* 5134 5 5 how 
+: 5142 5 5 I’ll 
+: 5150 5 5 find 
+: 5158 5 4 my 
+: 5166 5 2 way 
+: 5174 7 0 home 
+- 5183
+: 5254 5 5 Some
+: 5262 5 5 how 
+: 5270 5 5 I’ll 
+: 5278 5 5 find 
+: 5286 5 4 my 
+: 5294 5 2 way 
+: 5302 7 0 home 
+- 5311
+: 5382 5 5 Some
+: 5390 5 5 how 
+: 5398 5 5 I’ll 
+: 5406 5 5 find 
+: 5414 5 4 my 
+: 5422 5 2 way 
+: 5430 7 0 home 
+- 5439
+: 5510 5 5 Some
+: 5518 5 5 how 
+* 5526 5 5 I’ll 
+* 5534 5 5 find 
+* 5542 5 4 my 
+* 5550 5 2 way 
+* 5558 7 0 home 
+E

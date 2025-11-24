@@ -1,0 +1,575 @@
+#ARTIST:Chaos Chaos feat. Justin Roiland
+#TITLE:Terryfold [DUET]
+#MP3:Chaos Chaos feat. Justin Roiland - Terryfold [DUET].mp3
+#CREATOR:GaryCXJk
+#EDITION:[DUET]-Songs
+#YEAR:2017
+#LANGUAGE:English
+#BPM:360
+#GAP:7880
+#VIDEO:v=-E1Q_ENSxhc,co=https://i1.sndcdn.com/artworks-000240235189-qatjzn-t1080x1080.jpg,p1=Justin Roiland,p2=Asy & Chloe
+P1
+R 0 19 0 Yeah 
+- 29
+R 64 5 0 Grab 
+R 70 4 0 my 
+R 78 6 0 ter
+R 85 2 0 ry
+R 89 7 0 fold 
+R 99 9 0 flaps 
+- 118
+R 126 5 0 Grab 
+R 133 5 0 my 
+R 140 6 0 flap
+R 148 3 0 py 
+R 153 12 0 folds 
+- 175
+R 188 5 0 Grab 
+R 195 5 0 my 
+R 203 7 0 ter
+R 211 2 0 ry
+R 215 11 0 folds 
+- 236
+R 250 5 0 Grab 
+R 258 3 0 my 
+R 266 6 0 fol
+R 274 2 0 dy 
+R 278 12 0 flaps 
+- 300
+R 321 5 0 Hey 
+R 328 5 0 touch 
+R 337 5 0 my 
+R 344 7 0 fol
+R 352 3 0 dy 
+R 356 7 0 flaps 
+- 373
+R 391 6 0 Grab 
+R 399 6 0 my 
+R 407 7 0 ter
+R 415 3 0 ry
+R 420 9 0 folds 
+- 439
+R 455 5 0 Grab 
+R 463 5 0 my 
+R 471 6 0 fol
+R 478 2 0 dy 
+R 483 9 0 holds 
+- 502
+R 516 6 0 Grab 
+R 524 6 0 my 
+R 532 7 0 ter
+R 540 3 0 ry 
+R 544 9 0 flaps 
+- 563
+R 579 7 0 In 
+R 587 5 0 my 
+R 595 6 0 ter
+R 602 2 0 ry
+R 607 9 0 folds 
+- 626
+R 641 6 0 Grab 
+R 648 6 0 my 
+R 656 7 0 ter
+R 664 2 0 ry 
+R 668 7 0 flaps 
+- 685
+R 717 1 0 You 
+R 719 7 0 got
+R 727 2 0 ta 
+R 730 5 0 touch 
+R 738 3 0 ’em 
+- 751
+R 774 4 0 My 
+R 781 6 0 ter
+R 789 3 0 ry
+R 794 9 0 folds 
+- 813
+R 821 5 0 Grab 
+R 829 5 0 my 
+R 844 7 0 ter
+R 852 2 0 ry
+R 856 7 0 folds 
+- 873
+R 882 6 0 Touch 
+R 892 6 0 my 
+R 907 4 0 hol
+R 914 2 0 dy 
+R 919 7 0 flaps 
+- 936
+R 955 5 0 Take 
+R 967 2 0 a 
+R 970 8 0 big 
+R 985 8 0 flap 
+- 1003
+R 1017 4 0 Take 
+R 1024 5 0 my 
+R 1033 6 0 fol
+R 1040 2 0 dy 
+R 1044 7 0 flaps 
+- 1061
+R 1087 5 0 My 
+R 1094 6 0 ter
+R 1102 2 0 ry
+R 1106 10 0 folds 
+- 1126
+R 1149 5 0 My 
+R 1157 7 0 fol
+R 1165 2 0 dy 
+R 1169 9 0 holds 
+- 1188
+R 1204 6 0 And 
+R 1212 5 0 my 
+R 1220 6 0 ter
+R 1227 3 0 ry 
+R 1231 8 0 flaps 
+- 1249
+R 1263 2 0 Got
+R 1266 1 0 ta 
+R 1268 5 0 grab 
+R 1275 4 0 my 
+R 1282 7 0 ter
+R 1290 2 0 ry 
+R 1294 7 0 flaps 
+- 1311
+R 1315 6 0 Grab 
+R 1324 3 0 my 
+R 1331 5 0 ter
+R 1337 2 0 ry 
+R 1341 9 0 flaps 
+- 1360
+R 1375 8 0 Squeeze 
+R 1385 4 0 my 
+R 1393 6 0 hol
+R 1400 3 0 dy 
+R 1404 9 0 folds 
+- 1423
+R 1439 5 0 Hold 
+R 1447 5 0 my 
+R 1455 5 0 gol
+R 1462 3 0 dy 
+R 1467 8 0 folds 
+- 1485
+R 1501 6 0 Grab 
+R 1510 4 0 my 
+R 1518 6 0 fol
+R 1525 3 0 dy 
+R 1530 9 0 tolds 
+- 1549
+R 1565 5 0 Grab 
+R 1572 5 0 my 
+R 1581 5 0 ter
+R 1587 3 0 ry 
+R 1592 7 0 flap 
+R 1600 9 0 holds 
+- 1619
+R 1628 5 0 Grab 
+R 1636 4 0 my 
+R 1643 6 0 ter
+R 1650 3 0 ry
+R 1654 11 0 folds 
+- 1675
+R 1690 7 0 Hold 
+R 1699 4 0 my 
+R 1706 6 0 fol
+R 1713 3 0 dy 
+R 1718 10 0 folds 
+- 1738
+R 1752 6 0 Hold 
+R 1760 5 0 my 
+R 1769 6 0 ter
+R 1776 3 0 ry
+R 1781 10 0 folds 
+- 1801
+R 1823 7 0 Hey, 
+R 1839 2 0 did 
+R 1842 2 0 you 
+R 1846 3 0 e
+R 1850 2 0 ver 
+R 1854 2 0 wan
+R 1857 3 0 na 
+R 1862 3 0 hold 
+R 1866 2 0 a 
+R 1870 3 0 ter
+R 1874 2 0 ry
+R 1878 9 0 fold? 
+- 1897
+R 1906 2 0 I 
+R 1909 3 0 got 
+R 1913 3 0 one 
+R 1917 5 0 right 
+R 1925 12 0 here 
+- 1946
+R 1949 3 0 Grab 
+R 1953 2 0 my 
+R 1956 5 0 ter
+R 1962 2 0 ry 
+R 1968 6 0 flap 
+- 1983
+R 1986 5 0 Squeeze 
+R 1992 3 0 it, 
+R 2012 4 0 grab 
+R 2017 3 0 it, 
+R 2024 5 0 squeeze 
+R 2030 3 0 and 
+R 2034 4 0 tug 
+R 2039 4 0 on 
+R 2044 2 0 my 
+R 2047 4 0 ter
+R 2052 2 0 ry 
+R 2055 4 0 flap 
+- 2070
+R 2074 7 0 Hey, 
+R 2093 2 0 I 
+R 2096 2 0 wan
+R 2099 2 0 na 
+R 2103 3 0 take 
+R 2107 3 0 you 
+R 2112 6 0 to 
+R 2124 2 0 the 
+R 2128 3 0 ter
+R 2132 3 0 ry
+R 2136 5 0 fold 
+R 2144 7 0 dance 
+- 2161
+R 2168 1 0 Wan
+R 2170 1 0 na 
+R 2172 3 0 come 
+R 2176 2 0 with 
+R 2180 4 0 me? 
+- 2189
+R 2191 3 0 You 
+R 2195 2 0 can 
+R 2198 3 0 grab 
+R 2202 3 0 my 
+R 2206 5 0 hol
+R 2212 2 0 dy 
+R 2216 8 0 folds 
+- 2234
+R 2248 7 0 Squeeze 
+R 2257 4 0 ’em 
+R 2265 6 0 tight, 
+R 2289 2 0 you 
+R 2292 2 0 son 
+R 2295 1 0 of 
+R 2297 3 0 a 
+R 2301 3 0 bitch 
+- 2313
+R 2316 3 0 Suck 
+R 2325 5 0 my 
+R 2332 5 0 hol
+R 2338 3 0 dy 
+R 2343 5 0 flap
+R 2349 2 0 py 
+R 2353 9 0 folds 
+- 2374
+R 2378 5 0 Lick 
+R 2386 5 0 my 
+R 2393 6 0 flap
+R 2400 3 0 py 
+R 2406 6 0 fol
+R 2413 3 0 dy 
+R 2418 8 0 holds 
+- 2435
+R 2438 2 0 My 
+R 2442 4 0 ter
+R 2447 2 0 ry 
+R 2450 5 0 flaps 
+R 2472 5 0 in 
+R 2478 4 0 your 
+R 2483 7 0 mouth 
+- 2500
+R 2504 5 0 Suck 
+R 2512 5 0 my 
+R 2520 6 0 flaps 
+R 2529 3 0 you 
+R 2535 6 0 piece 
+R 2542 3 0 of 
+R 2548 5 0 shit 
+- 2563
+R 2567 3 0 Fuck 
+R 2576 5 0 you 
+- 2591
+R 2603 3 0 You 
+R 2607 2 0 stu
+R 2610 2 0 pid 
+R 2613 4 0 dumb 
+R 2618 2 0 mot
+R 2621 2 0 her
+R 2630 6 0 fuc
+R 2637 3 0 king 
+R 2644 6 0 bitch 
+- 2660
+R 2676 4 0 Hey 
+- 2688
+R 2691 5 0 Grab 
+R 2699 5 0 my 
+R 2706 6 0 ter
+R 2713 3 0 ry 
+R 2718 8 0 flaps 
+- 2736
+R 2746 2 0 Gon
+R 2749 2 0 na 
+R 2755 5 0 eat 
+R 2761 5 0 those 
+R 2770 5 0 tol
+R 2777 3 0 dy 
+R 2781 8 0 folds 
+- 2799
+R 2817 5 0 I 
+R 2824 3 0 got 
+R 2828 3 0 a 
+R 2832 4 0 coup
+R 2837 2 0 le 
+R 2840 2 0 of 
+R 2843 7 0 ter
+R 2851 3 0 ry
+R 2855 6 0 fold 
+R 2863 7 0 flaps 
+- 2880
+R 2884 2 0 I’ve 
+R 2887 3 0 got 
+R 2891 2 0 a 
+R 2895 4 0 flap
+R 2903 2 0 py 
+R 2907 7 0 fol
+R 2916 4 0 dy 
+R 2926 4 0 flap 
+- 2942
+R 2946 2 0 I’m 
+R 2949 3 0 gon
+R 2953 3 0 na 
+R 2958 6 0 go 
+R 2974 3 0 take 
+R 2978 2 0 you 
+R 2981 2 0 to 
+R 2984 2 0 the 
+R 2988 6 0 food 
+- 3002
+R 3005 2 0 Gon
+R 3008 2 0 na 
+R 3012 6 0 eat, 
+R 3027 2 0 then 
+R 3030 3 0 we’re 
+R 3035 3 0 go
+R 3039 3 0 ing 
+R 3043 2 0 to 
+R 3046 3 0 the 
+R 3050 3 0 ter
+R 3054 3 0 ry
+R 3058 7 0 fold 
+R 3067 11 0 dance 
+- 3088
+R 3098 3 0 You 
+R 3102 3 0 and 
+R 3107 9 0 me 
+- 3125
+R 3129 2 0 We’re 
+R 3132 2 0 gon
+R 3135 2 0 na 
+R 3138 5 0 go 
+R 3146 5 0 to 
+R 3154 2 0 the 
+R 3157 6 0 ter
+R 3164 3 0 ry
+R 3169 6 0 fold 
+R 3177 5 0 place 
+- 3192
+R 3201 4 0 It’s 
+R 3207 3 0 gon
+R 3211 2 0 na 
+R 3215 3 0 be 
+R 3219 2 0 a 
+R 3223 9 0 night 
+R 3234 4 0 out 
+- 3248
+R 3263 3 0 Gon
+R 3267 2 0 na 
+R 3270 3 0 have 
+R 3274 2 0 a 
+R 3277 5 0 real 
+R 3286 5 0 fan
+R 3294 3 0 cy 
+R 3299 7 0 time 
+P2
+: 322 5 15 Hey 
+: 328 5 17 touch 
+: 337 5 15 my 
+: 345 5 17 fol
+: 352 4 15 dy 
+: 358 5 17 flaps 
+- 373
+: 392 6 17 Grab 
+: 400 6 15 my 
+: 408 6 17 ter
+: 415 3 15 ry
+: 421 10 12 folds 
+- 441
+: 455 6 12 Grab 
+: 463 5 10 my 
+: 471 5 12 fol
+: 478 3 10 dy 
+: 482 10 12 holds 
+- 502
+: 517 6 12 Grab 
+: 524 6 10 my 
+: 532 7 12 ter
+: 540 3 10 ry 
+: 544 9 8 flaps 
+- 563
+: 580 6 17 In 
+: 587 6 15 my 
+: 596 6 17 ter
+: 603 3 15 ry
+: 608 11 17 folds 
+- 629
+: 642 6 17 Grab 
+: 649 5 17 my 
+: 657 5 20 ter
+: 664 3 22 ry 
+: 668 19 17 flaps
+: 688 11 15 ~ 
+- 747
+: 823 5 17 Grab 
+: 830 6 17 my 
+: 845 5 17 ter
+: 852 3 15 ry
+: 857 8 17 folds 
+- 875
+: 884 5 17 Touch 
+: 892 7 17 my 
+: 907 4 20 hol
+: 914 3 22 dy 
+: 919 11 17 flaps 
+- 940
+: 955 6 20 Take 
+: 967 3 17 a 
+: 972 10 20 big 
+: 986 5 17 flap
+: 992 10 15 ~ 
+- 1013
+: 1017 5 20 Take 
+: 1025 5 17 my 
+: 1033 5 20 fol
+: 1040 3 22 dy 
+: 1045 7 17 flaps 
+- 1056
+: 1058 5 36 Aaah
+: 1064 6 34 ~
+: 1071 7 32 ~
+: 1079 7 29 ~ 
+- 1086
+: 1088 4 17 My 
+: 1095 6 20 ter
+: 1102 3 20 ry
+: 1108 9 17 folds 
+- 1118
+: 1120 7 24 Aaah
+: 1128 6 22 ~
+: 1135 7 24 ~
+: 1143 7 20 ~ 
+- 1150
+: 1152 4 17 My 
+: 1158 6 15 fol
+: 1165 3 15 dy 
+: 1169 6 17 holds 
+- 1181
+: 1183 6 20 Oooh
+: 1190 7 22 ~
+: 1198 17 20 ~ 
+- 1263
+: 1315 6 15 Grab 
+: 1323 5 17 my 
+: 1331 5 17 ter
+: 1337 3 15 ry 
+: 1342 9 17 flaps 
+- 1361
+: 1377 6 20 Squeeze 
+: 1385 5 17 my 
+: 1393 6 20 hol
+: 1400 3 22 dy 
+: 1405 10 17 folds 
+- 1425
+: 1440 6 24 Hold 
+: 1448 4 22 my 
+: 1455 7 20 gol
+: 1463 3 22 dy 
+: 1467 10 20 folds 
+- 1487
+: 1502 6 24 Grab 
+: 1510 4 22 my 
+: 1518 6 20 fol
+: 1525 3 22 dy 
+: 1529 11 20 tolds 
+- 1550
+: 1566 5 15 Grab 
+: 1573 5 17 my 
+: 1581 5 17 ter
+: 1587 3 15 ry 
+: 1592 6 17 flap 
+: 1600 14 17 holds 
+- 1624
+: 1628 7 20 Grab 
+: 1636 5 17 my 
+: 1643 5 20 ter
+: 1649 3 22 ry
+: 1655 12 17 folds 
+- 1677
+: 1690 6 24 Hold 
+: 1698 5 22 my 
+: 1706 6 20 fol
+: 1713 3 22 dy 
+: 1719 13 20 folds 
+- 1742
+: 1754 6 24 Hold 
+: 1761 5 22 my 
+: 1769 5 20 ter
+: 1775 3 22 ry
+: 1781 12 20 folds 
+- 1841
+: 1926 7 24 Here
+: 1934 21 20 ~ 
+- 2003
+: 2076 8 20 Hey, 
+: 2094 2 12 I 
+: 2097 3 15 wan
+: 2101 2 12 na 
+: 2104 3 15 take 
+: 2108 3 12 you 
+: 2113 3 15 to
+: 2117 10 12 ~ 
+- 2175
+: 2317 5 24 Suck 
+: 2324 6 22 my 
+: 2332 6 20 hol
+: 2339 4 19 dy 
+: 2344 4 17 flap
+: 2350 3 15 py 
+: 2356 7 13 folds 
+- 2375
+: 2379 5 24 Lick 
+: 2386 6 22 my 
+: 2394 5 20 flap
+: 2401 3 19 py 
+: 2407 5 20 fol
+: 2414 4 19 dy 
+: 2419 6 17 holds
+: 2426 14 15 ~ 
+- 2488
+: 2583 5 24 Fuck 
+: 2591 11 20 you 
+- 2612
+: 2622 7 20 Aaah
+: 2630 7 22 ~
+: 2638 5 24 ~
+: 2645 11 20 ~ 
+- 2665
+: 2669 3 15 Oooh
+: 2673 9 17 ~
+: 2683 6 20 ~
+: 2692 6 22 ~
+: 2700 11 20 ~ 
+- 2759
+: 3068 8 22 Dance
+: 3077 4 24 ~
+: 3082 15 20 ~ 
+E

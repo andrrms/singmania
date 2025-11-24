@@ -1,0 +1,120 @@
+#ARTIST:Mad Caddies
+#TITLE:Goleta
+#MP3:Mad Caddies - Goleta.mp3
+#CREATOR:Schluckschuppen
+#GENRE:Ska
+#YEAR:1997
+#LANGUAGE:English
+#BPM:200.4
+#GAP:20750
+#VIDEO:a=vdwEGAXf_0s,co=quality-soft-core-52b5951770ce5.jpg,bg=mad-caddies-4ea07bec54e9c.jpg
+* 0 1 0 Go
+* 2 1 0 le
+* 4 2 0 ta 
+* 8 1 0 Go
+* 10 1 0 le
+* 12 1 0 ta 
+: 14 1 0 not 
+: 16 1 0 the 
+: 18 1 -2 place 
+: 20 1 -2 I 
+: 22 1 -2 wan
+: 24 1 -2 na 
+: 26 4 -6 be 
+- 31
+* 32 1 0 Go
+* 34 1 0 le
+* 36 2 0 ta 
+* 40 1 0 Go
+* 42 1 0 le
+* 44 1 0 ta 
+: 46 1 0 split 
+: 48 1 0 twins 
+: 50 1 2 both 
+: 52 1 2 have 
+: 54 1 2 H
+: 56 1 2 I
+: 58 4 2 V 
+- 64
+* 65 1 2 Go
+* 67 1 2 le
+* 69 2 2 ta 
+* 73 1 2 Go
+* 75 1 2 le
+* 77 1 2 ta 
+: 79 1 2 not 
+: 81 1 2 the 
+: 83 1 0 place 
+: 85 1 0 I 
+: 87 1 0 wan
+: 89 1 0 na 
+: 91 4 0 be 
+- 97
+: 99 1 4 Eve
+: 101 1 4 ry
+: 103 1 4 bo
+: 105 1 4 dy’s 
+: 107 1 2 got
+: 109 1 2 ta 
+: 111 3 2 come 
+: 115 4 6 see 
+- 121
+: 386 1 2 Pick 
+: 388 1 2 it 
+: 390 2 4 up! 
+- 394
+: 450 1 2 Put 
+: 452 1 2 it 
+: 454 2 0 down! 
+- 458
+* 582 1 0 Go
+* 584 1 0 le
+* 586 2 0 ta 
+* 590 1 0 Go
+* 592 1 0 le
+* 594 1 0 ta 
+: 596 1 0 not 
+: 598 1 0 the 
+: 600 1 -2 place 
+: 602 1 -2 I 
+: 604 1 -2 wan
+: 606 1 -2 na 
+: 608 4 -6 be 
+- 613
+* 614 1 0 Go
+* 616 1 0 le
+* 618 2 0 ta 
+* 622 1 0 Go
+* 624 1 0 le
+* 626 1 0 ta 
+: 628 1 0 this 
+: 630 1 0 is 
+: 632 1 2 oh 
+: 634 1 2 so 
+: 636 1 2 stick
+: 638 1 2 y 
+: 640 4 2 whip 
+- 645
+* 646 1 2 Go
+* 648 1 2 le
+* 650 2 2 ta 
+* 654 1 2 Go
+* 656 1 2 le
+* 658 1 2 ta 
+: 660 1 2 not 
+: 662 1 2 the 
+: 664 1 0 place 
+: 666 1 0 I 
+: 668 1 0 wan
+: 670 1 0 na 
+: 672 4 0 be 
+- 678
+: 680 1 4 Eve
+: 682 1 4 ry
+: 684 1 4 bo
+: 686 1 4 dy’s 
+: 688 1 2 got
+: 690 1 2 ta 
+: 692 3 2 come 
+: 696 4 6 see 
+E

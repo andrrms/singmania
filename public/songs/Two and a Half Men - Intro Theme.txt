@@ -1,0 +1,64 @@
+#ARTIST:Two and a Half Men
+#TITLE:Intro Theme
+#MP3:Two and a Half Men - Intro Theme.mp3
+#CREATOR:LilPeep1337
+#COVER:Two and a Half Men - Intro Theme [CO].jpg
+#BACKGROUND:Two and a Half Men - Intro Theme [BG].jpg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:336.4
+#GAP:340
+#VIDEO:v=ObEc39sdrtA,co=https://i.scdn.co/image/ab67616d0000b2737ba39885615bedf8eada9360
+: 0 6 0 Men, 
+: 9 7 -3 men, 
+: 19 6 -5 men, 
+: 28 3 -3 men 
+- 32
+: 34 7 0 Man
+: 43 2 0 ly 
+: 47 6 -3 men, 
+: 56 8 -5 men, 
+: 66 6 -3 men 
+- 73
+: 75 6 0 Men, 
+: 84 7 -3 men, 
+: 94 6 -5 men, 
+: 103 3 -3 men 
+- 107
+: 109 7 0 Man
+: 118 2 0 ly 
+: 122 6 -3 men, 
+: 131 8 -5 men, 
+: 141 6 -3 men 
+- 148
+* 150 7 0 Men, 
+* 159 8 4 men, 
+* 169 8 7 men, 
+* 179 2 9 men
+* 182 4 10 ~, 
+: 188 4 9 man
+: 194 2 7 ly, 
+: 197 13 5 men 
+- 214
+: 216 2 9 Ooh 
+: 220 2 12 ooh 
+: 224 5 7 ooh
+: 231 6 4 ~ 
+- 238
+: 240 2 4 Ooh
+: 244 4 5 ~
+: 251 8 2 ~
+: 261 37 0 ~ 
+- 309
+: 313 2 4 Ooh
+: 316 11 7 ~
+: 329 2 4 ~
+: 333 1 2 ~
+: 336 46 4 ~ 
+- 394
+: 398 12 7 Ah, 
+: 411 2 7 ah
+: 415 3 9 ~
+: 420 3 7 ~
+: 425 33 9 ~ 
+E

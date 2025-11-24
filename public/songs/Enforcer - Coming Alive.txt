@@ -1,0 +1,242 @@
+#ARTIST:Enforcer
+#TITLE:Coming Alive
+#MP3:Enforcer - Coming Alive.mp3
+#CREATOR:Ich,werdennsonst?
+#COVER:Enforcer - Coming Alive [CO].jpg
+#BACKGROUND:Enforcer - Coming Alive [BG].jpg
+#GENRE:Heavy Metal
+#YEAR:2023
+#LANGUAGE:English
+#BPM:351.69
+#GAP:3180
+#VIDEO:v=Kjm4OyFrGY0,co=nostalgia-63e686470fcc6.jpg,bg=enforcer-54f2eb482b8cc.jpg
+: 0 115 6 Yeaaaaaah! 
+: 118 19 6 Yeah! 
+: 141 19 6 Yeah! 
+: 168 22 6 Yeah! 
+: 194 20 6 Yeah! 
+: 217 141 6 Yeaaaaaah! 
+- 381
+: 446 3 4 I’m 
+: 450 4 8 whir
+: 455 2 8 ling 
+: 458 3 8 wind, 
+: 462 3 4 I’m 
+: 466 8 8 fire 
+- 474
+: 475 3 8 No
+: 479 3 8 thing 
+: 483 5 8 can 
+: 489 6 9 hold 
+: 496 3 9 me 
+: 500 5 8 to 
+: 506 5 6 the 
+: 512 58 9 ground. 
+- 577
+: 580 3 8 Me
+: 584 3 8 tal 
+: 588 4 8 high 
+: 593 3 6 and 
+: 597 3 8 me
+: 601 4 8 tal 
+: 606 4 8 low, 
+- 612
+: 614 3 9 Blas
+: 618 2 9 ting 
+: 621 4 9 up 
+: 626 1 7 the 
+: 628 4 11 ba
+: 633 7 11 rrier 
+: 641 8 9 of 
+: 650 28 7 sound 
+- 688
+: 713 4 9 When 
+: 718 3 9 in 
+: 722 3 6 the 
+: 726 5 9 heat 
+: 732 6 9 of 
+: 739 3 6 the 
+: 743 7 9 night
+: 751 2 8 ~ 
+- 753
+: 754 3 6 I’m 
+: 758 6 9 co
+: 765 6 6 ming 
+: 772 3 4 a
+: 776 24 6 live 
+- 803
+F 805 4 0 Co
+F 810 3 0 ming 
+F 814 3 0 a
+F 818 17 0 live 
+- 835
+: 836 28 9 Oooh! 
+- 874
+: 881 2 6 I’m 
+: 884 7 9 co
+: 892 20 6 ming 
+- 922
+F 936 1 9 Co
+F 938 3 6 ming 
+F 942 1 4 a
+F 944 20 6 live 
+- 966
+: 968 28 9 Whooah! 
+- 1005
+: 1008 3 9 In 
+: 1012 5 6 the 
+: 1018 5 9 heat 
+: 1024 5 9 of 
+: 1030 3 6 the 
+: 1034 17 9 night
+: 1052 16 6 ~ 
+- 1075
+: 1078 1 6 I’m 
+: 1080 5 9 co
+: 1086 6 6 ming 
+: 1093 3 4 a
+: 1097 21 6 live 
+- 1141
+: 1194 4 4 Blood 
+: 1199 3 8 and 
+: 1203 2 8 i
+: 1206 3 8 ron, 
+: 1210 3 8 steel 
+: 1214 2 4 on 
+: 1217 7 8 steel 
+- 1224
+: 1225 3 8 The 
+: 1229 4 8 blas
+: 1234 2 0 ting 
+: 1237 4 9 sound 
+: 1242 1 9 of 
+: 1244 3 9 hea
+: 1248 3 9 vy 
+: 1252 2 8 me
+: 1255 2 6 tal 
+: 1258 19 9 breaks
+: 1278 26 6 ~ 
+- 1314
+: 1323 3 8 Feel 
+: 1327 2 8 the 
+: 1330 5 8 pres
+: 1336 3 6 sure, 
+: 1340 3 8 feel 
+: 1344 2 8 the 
+: 1347 5 8 heat 
+- 1352
+: 1354 6 9 Do 
+: 1361 2 9 or 
+: 1364 8 9 die, 
+: 1373 3 7 give 
+: 1377 2 7 it 
+: 1380 6 11 all 
+: 1387 5 11 that 
+: 1393 4 9 it 
+: 1400 52 7 takes 
+- 1455
+: 1457 4 9 When 
+: 1462 3 9 in 
+: 1466 3 6 the 
+: 1470 5 9 heat 
+: 1476 5 9 of 
+: 1482 1 6 the 
+: 1484 14 9 night 
+: 1499 2 6 I’m 
+: 1502 5 9 co
+: 1508 5 6 ming 
+: 1514 4 4 a
+: 1519 25 6 live 
+- 1551
+F 1554 2 0 Co
+F 1557 3 0 ming 
+F 1561 2 0 a
+F 1564 16 0 live 
+- 1580
+: 1582 30 9 Oooh! 
+- 1622
+: 1626 4 6 I’m 
+: 1631 6 9 co
+: 1638 14 6 ming 
+- 1662
+F 1680 2 9 Co
+F 1683 3 6 ming 
+F 1687 2 4 a
+F 1690 18 6 live 
+- 1710
+: 1712 34 9 Whooah! 
+- 1748
+: 1750 4 9 With 
+: 1755 3 6 the 
+: 1759 5 9 heat 
+: 1765 4 9 of 
+: 1770 2 6 the 
+: 1773 15 9 night
+: 1789 9 6 ~ 
+- 1808
+: 1822 2 6 I’m 
+: 1825 5 9 co
+: 1831 5 6 ming 
+: 1837 3 4 a
+: 1841 31 6 live 
+- 1895
+: 1950 4 6 I’m 
+: 1955 5 9 co
+: 1961 5 6 ming 
+: 1967 5 4 a
+: 1973 27 6 live
+: 2001 119 9 ~ 
+- 2166
+: 2424 36 9 Whooah! 
+- 2506
+: 3298 28 9 Whooah! 
+- 3336
+: 3350 3 9 Co
+: 3354 4 6 ming 
+: 3359 4 4 a
+: 3364 28 6 live 
+- 3402
+: 3422 1 4 A
+: 3424 32 6 live 
+- 3468
+: 3472 5 9 Co
+: 3478 5 6 ming 
+: 3484 3 4 a
+: 3488 44 6 live 
+- 3555
+: 3585 25 10 Oooh!
+: 3611 3 8 ~
+: 3615 17 6 ~ 
+- 3634
+: 3636 5 9 Co
+: 3642 5 6 ming 
+: 3648 3 4 a
+: 3652 24 6 live 
+- 3688
+: 3692 1 9 With 
+: 3694 3 6 the 
+: 3698 6 9 heat 
+: 3705 5 9 of 
+: 3711 3 6 the 
+: 3715 18 9 night
+: 3734 14 6 ~ 
+- 3755
+: 3758 4 6 We’re 
+: 3763 7 9 co
+: 3771 4 6 ming 
+: 3776 3 4 a
+: 3780 32 9 live 
+- 3823
+: 3827 8 9 Co
+: 3836 5 6 ming 
+: 3842 2 4 a
+: 3845 166 9 live
+: 4012 5 6 ~
+: 4018 13 4 ~
+: 4032 71 6 ~ 
+- 4149
+: 4392 3 9 Co
+: 4396 5 6 ming 
+: 4402 3 4 a
+: 4406 34 6 live 
+E

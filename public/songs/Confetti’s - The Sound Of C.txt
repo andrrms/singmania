@@ -1,0 +1,134 @@
+#ARTIST:Confetti’s
+#TITLE:The Sound Of C
+#MP3:Confetti’s - The Sound Of C.mp3
+#CREATOR:Cybergirl76
+#GENRE:Beat
+#YEAR:1988
+#LANGUAGE:English
+#BPM:222.55
+#GAP:340
+#VIDEO:a=s0_B0rO7jsg,co=https://i.discogs.com/v05OVOwZzkBwbj2el92xjsrexVhtzSb2ldTEZCPrNRQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDA3/OC0xNTg1NTc1ODQ5/LTE3MDIuanBlZw.jpeg
+: 0 4 1 This 
+: 5 1 -2 is 
+: 7 2 -2 the 
+: 10 2 0 sound 
+: 13 1 1 of 
+: 15 4 2 C 
+- 21
+: 161 2 6 This 
+: 165 2 -2 is 
+: 168 2 0 the 
+: 171 2 3 sound 
+: 174 1 3 of 
+: 176 4 2 C 
+- 182
+: 189 2 0 The 
+: 192 3 1 sound 
+: 196 2 0 wich 
+: 200 5 -2 creates 
+: 207 2 0 a 
+* 210 2 0 new 
+* 213 2 0 dim
+: 216 2 0 en
+: 219 5 0 sion 
+- 226
+: 237 2 0 This 
+: 240 3 1 is 
+: 244 2 -2 a 
+: 247 3 -2 new 
+: 253 3 -4 style 
+: 260 3 -4 of 
+: 264 6 -2 music 
+- 272
+: 319 2 6 This 
+: 323 2 -2 is 
+: 326 2 0 the 
+: 329 2 3 sound 
+: 332 1 3 of 
+: 334 4 2 C 
+- 340
+: 384 2 6 This 
+: 388 2 -2 is 
+: 391 2 0 the 
+: 394 2 3 sound 
+: 397 1 3 of 
+: 399 4 2 C 
+- 405
+: 448 2 6 This 
+: 452 2 -2 is 
+: 455 2 0 the 
+: 458 2 3 sound 
+: 461 1 3 of 
+: 463 4 2 C 
+- 469
+: 512 2 6 This 
+: 516 2 -2 is 
+: 519 2 0 the 
+: 522 2 3 sound 
+: 525 1 3 of 
+: 527 4 2 C 
+- 533
+: 800 2 6 This 
+: 804 2 -2 is 
+: 807 2 0 the 
+: 810 2 3 sound 
+: 813 1 3 of 
+: 815 4 2 C 
+- 821
+: 830 2 0 The 
+: 833 3 1 sound 
+: 837 2 0 wich 
+: 841 5 -2 creates 
+: 848 2 0 a 
+: 851 2 0 new 
+* 854 2 0 dim
+* 857 2 0 en
+: 860 5 0 sion 
+- 867
+: 878 2 0 This 
+: 881 3 1 is 
+: 885 2 -2 a 
+: 888 3 -2 new 
+: 894 3 -4 style 
+: 901 3 -4 of 
+: 905 6 -2 music 
+- 913
+: 925 2 6 This 
+: 929 2 -2 is 
+: 932 2 0 the 
+: 935 2 3 sound 
+: 938 1 3 of 
+: 940 4 2 C 
+- 946
+: 990 2 6 This 
+: 994 2 -2 is 
+: 997 2 0 the 
+* 1000 2 3 sound 
+: 1003 1 3 of 
+: 1005 4 2 C 
+- 1011
+: 2974 4 6 This 
+: 2980 2 -2 is 
+: 2983 2 0 the 
+: 2986 2 3 sound 
+: 2989 1 3 of 
+: 2991 4 2 C 
+- 2997
+: 3004 2 0 The 
+: 3007 3 1 sound 
+: 3011 2 0 which 
+* 3015 5 -2 creates 
+: 3022 2 0 a 
+: 3025 2 0 new 
+: 3028 2 0 dim
+: 3031 2 0 en
+: 3034 5 0 sion 
+- 3041
+: 3052 2 0 This 
+: 3055 3 1 is 
+: 3059 2 -2 a 
+: 3062 3 -2 new 
+: 3068 3 -4 style 
+: 3075 3 -4 of 
+: 3079 6 -2 music 
+E

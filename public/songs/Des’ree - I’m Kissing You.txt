@@ -1,0 +1,142 @@
+#ARTIST:Des’ree
+#TITLE:I’m Kissing You
+#MP3:Des’ree - I’m Kissing You.mp3
+#CREATOR:mewpokemon
+#YEAR:1996
+#LANGUAGE:English
+#BPM:200
+#GAP:30060
+#VIDEO:v=x55doVYxwbQ,co=https://i.discogs.com/_cLZ8wcGYHkCeGtCqWFxCa-0Q2ICrGQhqmCb_JEbN9o/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDE3/MzYtMTQzNDY0NjI0/Ny0xNTQ5LmpwZWc.jpeg,bg=desree-51af2ccd241ce.jpg
+: 0 22 5 Pride 
+: 24 4 5 can 
+: 30 18 5 stand 
+: 58 1 4 a 
+: 60 5 4 thou
+: 66 2 5 sand 
+: 70 5 5 tri
+: 76 20 4 als 
+- 98
+: 104 1 4 The 
+* 106 21 9 strong 
+: 128 5 0 will 
+: 134 2 0 ne
+: 138 3 4 ver 
+: 142 34 4 fall 
+- 178
+: 192 3 -1 But 
+: 196 19 5 watch
+: 216 3 5 ing 
+: 220 24 7 stars 
+: 248 3 4 with
+: 252 3 5 out
+: 256 3 4 ~ 
+: 260 15 4 you 
+: 276 5 2 My
+: 282 6 0 ~ 
+: 290 9 0 soul 
+* 300 68 0 cried 
+- 370
+: 390 49 5 Heav
+: 440 3 2 ing 
+: 444 20 4 heart 
+: 466 4 4 is 
+: 472 15 9 full 
+: 488 3 7 of 
+: 492 80 9 pain 
+- 574
+: 580 40 5 Oh 
+: 632 3 4 Oh
+: 636 3 2 oh
+: 640 26 4 oh 
+: 672 4 -1 The 
+: 678 1 -1 ach
+: 680 3 0 ~
+* 684 84 0 ing 
+- 770
+: 792 3 -3 ’Cause 
+: 796 47 5 I 
+: 844 3 4 I’m
+: 848 3 2 ~
+: 852 18 4 ~ 
+: 874 9 5 Kiss
+: 884 7 4 ing 
+: 892 30 4 you 
+: 924 5 5 oh 
+: 930 30 4 oh 
+- 962
+: 988 31 5 I’m
+: 1020 15 7 ~
+: 1036 1 4 ~
+: 1038 1 7 ~
+: 1040 1 9 ~
+: 1042 18 0 ~ 
+: 1068 7 -1 kiss
+: 1076 7 -1 ing 
+: 1084 5 2 you 
+* 1090 62 0 oh 
+- 1154
+: 1180 35 5 Touch 
+: 1216 3 7 me 
+: 1220 28 7 deep 
+: 1260 15 9 Pure 
+: 1276 3 11 and 
+: 1280 80 7 true 
+- 1362
+: 1372 28 5 Gift 
+* 1404 19 7 to 
+: 1424 32 0 me 
+: 1464 3 -1 For
+: 1468 3 -1 ev
+: 1472 3 0 ~
+: 1476 60 0 er 
+- 1538
+: 1560 3 0 ’Cause 
+: 1564 47 5 I’m
+: 1612 3 4 ~
+: 1616 3 2 ~
+: 1620 20 4 ~ 
+: 1644 11 5 kiss
+: 1656 3 4 ing 
+: 1660 31 4 you 
+: 1692 7 5 oh 
+: 1700 28 4 oh 
+- 1730
+: 1756 31 5 I’m
+: 1788 15 7 ~
+: 1804 3 4 ~
+: 1808 1 7 ~
+: 1810 1 9 ~
+: 1812 14 0 ~ 
+: 1836 7 -1 kiss
+: 1844 7 -1 ing 
+: 1852 7 2 you 
+* 1860 72 0 oh 
+- 1934
+: 2364 3 0 ’Cause 
+: 2368 31 5 I 
+: 2400 4 7 oh 
+: 2406 26 7 I’m 
+: 2448 9 9 kiss
+* 2458 7 11 ing 
+: 2466 78 7 you 
+- 2546
+: 2560 19 5 I’m
+: 2580 3 7 ~
+: 2584 19 9 ~
+: 2604 3 11 ~
+: 2608 3 11 ~
+: 2612 1 9 ~
+: 2614 1 7 ~
+: 2616 1 9 ~
+: 2618 1 7 ~
+: 2620 16 9 ~ 
+: 2638 11 11 kis
+: 2650 3 12 sing 
+: 2654 6 14 you 
+- 2662
+: 2664 39 12 Oh 
+* 2704 3 14 oh
+: 2708 3 9 ~
+: 2712 3 7 ~
+: 2716 56 9 ~ 
+E

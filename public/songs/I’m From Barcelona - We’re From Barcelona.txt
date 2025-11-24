@@ -1,0 +1,205 @@
+#ARTIST:I’m From Barcelona
+#TITLE:We’re From Barcelona
+#MP3:I’m From Barcelona - We’re From Barcelona.mp3
+#CREATOR:daggeg
+#YEAR:2006
+#LANGUAGE:English
+#BPM:239.8
+#GAP:48910
+#VIDEO:v=3Wi1d0FNgdQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/6a/63/c6/6a63c6e7-5667-6dec-7357-a446ee7d0e32/0094635486353_1400x1400_300dpi.jpg/5000x5000bb.jpg,bg=im-from-barcelona-5149fb5e14165.jpg
+: 0 2 5 I’m 
+: 4 3 5 gon
+: 8 2 5 na 
+: 12 3 5 sing 
+: 16 2 5 this 
+: 20 3 5 song 
+: 24 2 5 with 
+: 29 2 4 all 
+: 33 2 4 of 
+: 37 2 2 my 
+: 41 3 0 friends 
+- 46
+: 49 2 -3 And 
+: 53 2 -2 we’re 
+: 57 3 0 I’m 
+: 65 4 9 from 
+: 73 5 9 Bar
+: 80 4 5 ce
+: 88 5 7 lo
+: 96 4 5 na 
+- 102
+: 129 2 5 Love 
+: 132 2 5 is 
+: 136 2 5 a 
+: 140 3 5 feel
+: 144 2 5 ing 
+: 148 2 5 that 
+: 153 2 5 we 
+: 157 2 4 don’t 
+: 161 3 4 un
+: 165 2 2 der
+: 168 3 0 stand 
+- 173
+: 176 2 -3 But 
+: 180 2 -2 we’re 
+: 184 6 0 gon
+: 193 3 9 na 
+: 200 4 9 give 
+: 208 3 5 it 
+: 216 5 7 to 
+: 224 4 5 ya 
+- 230
+: 265 2 0 We’ll 
+: 269 2 0 aim 
+: 273 2 -3 for 
+: 277 2 -2 the 
+: 280 12 0 stars 
+- 294
+: 296 2 0 We’ll 
+: 300 2 0 aim 
+: 304 2 -3 for 
+: 308 3 -2 your 
+: 313 12 0 heart 
+: 328 4 -2 when 
+: 336 3 -3 the 
+: 344 4 -5 night 
+: 352 10 -7 comes 
+- 364
+: 392 2 0 And 
+: 396 2 0 we’ll 
+: 400 2 -3 bring 
+: 404 2 -2 you 
+: 408 12 0 love 
+- 422
+: 425 2 0 You’ll 
+: 428 2 0 be 
+: 432 2 -3 one 
+: 436 2 -2 of 
+: 440 12 0 us 
+: 456 4 -2 when 
+: 464 2 -3 the 
+: 472 4 -5 night 
+: 480 10 -7 comes 
+- 492
+: 767 2 5 I’m 
+: 771 3 5 gon
+: 775 2 5 na 
+: 779 3 5 sing 
+: 783 2 5 this 
+: 788 3 5 song 
+: 792 2 5 with 
+: 796 2 4 all 
+: 800 2 4 of 
+: 804 2 2 my 
+: 808 3 0 friends 
+- 813
+: 816 2 -3 And 
+: 820 2 -2 we’re 
+: 824 3 0 I’m 
+: 832 4 9 from 
+: 840 5 9 Bar
+: 848 4 5 ce
+: 856 5 7 lo
+: 863 4 5 na 
+- 869
+: 896 2 5 Love 
+: 900 2 5 is 
+: 904 2 5 a 
+: 908 3 5 feel
+: 912 2 5 ing 
+: 916 2 5 that 
+: 920 2 5 we 
+: 924 2 4 don’t 
+: 928 3 4 un
+: 932 3 2 der
+: 936 3 0 stand 
+- 941
+: 944 2 -3 But 
+: 948 2 -2 we’re 
+: 952 6 0 gon
+: 960 3 9 na 
+: 967 4 9 give 
+: 975 3 5 it 
+: 983 5 7 to 
+: 991 4 5 ya 
+- 997
+: 1031 2 0 We’ll 
+: 1035 2 0 aim 
+: 1039 2 -3 for 
+: 1043 2 -2 the 
+: 1048 12 0 stars 
+- 1062
+: 1063 2 0 We’ll 
+: 1067 2 0 aim 
+: 1071 2 -3 for 
+: 1075 2 -2 your 
+: 1079 12 0 heart 
+: 1096 4 -2 when 
+: 1104 3 -3 the 
+: 1111 4 -5 night 
+: 1119 10 -7 comes 
+- 1131
+: 1160 2 0 And 
+: 1164 2 0 we’ll 
+: 1167 2 -3 bring 
+: 1171 2 -2 you 
+: 1175 12 0 love 
+- 1189
+: 1192 2 0 You’ll 
+: 1196 2 0 be 
+: 1200 2 -3 one 
+: 1204 2 -2 of 
+: 1208 12 0 us 
+: 1224 4 -2 when 
+: 1231 3 -3 the 
+: 1239 4 -5 night 
+: 1247 10 -7 comes 
+- 1259
+: 1287 2 0 We’ll 
+: 1291 2 0 aim 
+: 1295 2 -3 for 
+: 1299 2 -2 the 
+: 1303 12 0 stars 
+- 1317
+: 1319 2 0 We’ll 
+: 1323 2 0 aim 
+: 1327 2 -3 for 
+: 1331 2 -2 your 
+: 1335 12 0 heart 
+: 1351 4 -2 when 
+: 1359 3 -3 the 
+: 1367 4 -5 night 
+: 1375 10 -7 comes 
+- 1387
+: 1416 2 0 And 
+: 1419 2 0 we’ll 
+: 1423 2 -3 bring 
+: 1427 2 -2 you 
+: 1431 12 0 love 
+- 1445
+: 1448 2 0 You’ll 
+: 1452 2 0 be 
+: 1456 2 -3 one 
+: 1459 2 -2 of 
+: 1464 12 0 us 
+: 1479 4 -2 when 
+: 1487 3 -3 the 
+: 1495 4 -5 night 
+: 1503 10 -7 comes 
+- 1515
+: 1632 2 12 We’re 
+: 1636 2 12 gon
+: 1639 2 12 na 
+: 1643 2 5 give 
+: 1646 2 5 it 
+: 1650 2 5 to 
+: 1654 2 5 ya 
+- 1658
+: 1760 2 12 We’re 
+: 1764 2 12 gon
+: 1767 2 12 na 
+: 1771 2 5 give 
+: 1774 2 5 it 
+: 1778 2 5 to 
+: 1782 2 5 ya 
+E

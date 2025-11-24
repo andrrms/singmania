@@ -1,0 +1,243 @@
+#ARTIST:KISS
+#TITLE:Hotter Than Hell
+#MP3:KISS - Hotter Than Hell.mp3
+#CREATOR:Bananenbenno
+#COVER:KISS - Hotter Than Hell [CO].jpg
+#BACKGROUND:KISS - Hotter Than Hell [BG].jpg
+#GENRE:Hard Rock
+#YEAR:1974
+#LANGUAGE:English
+#BPM:217.92
+#GAP:10860
+#VIDEO:a=z44xo6PLN0o,co=hotter-than-hell-608db162c3ca1.jpg,bg=kiss-50616ca39a887.jpg
+: 0 1 22 Come 
+: 2 6 23 on 
+- 10
+: 119 3 14 She 
+: 123 7 19 looked 
+: 132 3 19 good 
+- 136
+: 136 3 20 She 
+: 141 6 15 looked 
+: 149 3 13 hot
+: 153 3 13 ter 
+: 157 3 11 than 
+: 162 9 15 hell 
+- 173
+: 187 3 19 All 
+: 191 4 19 dressed 
+: 196 2 17 in 
+: 200 4 19 sa
+: 205 3 17 tins 
+: 209 2 14 and 
+: 213 3 12 la
+: 217 15 10 ~ce 
+- 234
+: 255 3 19 I 
+: 259 3 19 looked 
+: 263 2 17 at 
+: 266 4 19 her 
+: 271 3 17 and 
+: 276 2 14 it 
+: 280 2 11 was 
+: 284 4 12 just 
+: 289 4 12 too 
+: 296 17 14 clear 
+- 315
+: 323 2 19 I 
+: 326 3 19 had 
+: 330 2 18 to 
+: 333 4 19 get 
+: 339 3 17 on 
+: 343 2 14 the 
+: 347 6 13 ca
+: 354 13 11 ~se 
+- 369
+: 386 2 14 I 
+: 389 8 19 said 
+: 399 4 19 “La
+: 404 3 17 dy, 
+: 408 2 19 oh 
+: 411 4 24 la
+: 416 3 19 dy 
+: 420 3 17 can 
+: 424 3 17 I 
+: 428 4 19 take 
+: 433 2 17 you 
+: 436 12 19 home 
+- 450
+: 455 2 19 There’s 
+: 458 3 19 just 
+: 462 3 17 so 
+: 467 3 19 much 
+: 471 2 17 we 
+: 474 4 14 could 
+: 480 4 12 do
+: 485 12 10 ~ 
+- 499
+: 521 3 19 I’ll 
+: 525 3 19 take 
+: 529 3 18 you 
+: 533 4 19 all 
+: 538 2 16 a
+: 541 4 14 round 
+: 546 3 10 the 
+: 550 3 12 whole 
+: 554 8 12 wide 
+: 563 14 14 world 
+- 579
+: 587 3 19 Be
+: 591 3 19 fore 
+: 595 3 17 the 
+: 599 3 19 eve
+: 603 3 17 ning 
+: 607 4 19 is 
+: 612 3 16 throu
+: 616 17 14 ~gh” 
+- 635
+: 657 5 19 Hot 
+: 665 8 19 hot 
+: 681 4 17 hot
+: 686 2 19 ter 
+: 689 3 17 than 
+: 694 12 22 hell 
+- 708
+: 710 3 14 You 
+: 714 3 16 know 
+: 718 4 14 she’s 
+: 723 4 14 gon
+: 728 2 14 na 
+: 731 4 16 leave 
+: 736 3 14 you 
+: 740 4 19 well 
+: 745 3 16 do
+: 749 18 14 ~ne 
+- 769
+: 791 5 19 Hot 
+: 799 8 19 hot 
+: 815 4 17 hot
+: 820 2 19 ter 
+: 823 3 17 than 
+: 828 12 22 hell 
+- 842
+: 848 4 17 Burn 
+: 853 3 15 you 
+: 857 3 15 like 
+: 861 2 15 the 
+: 864 3 17 mid
+: 868 6 20 day 
+: 877 20 20 sun 
+* 898 10 27 oh! 
+- 910
+: 1085 3 19 I 
+: 1089 4 19 asked 
+: 1094 2 18 her 
+: 1097 4 19 why 
+: 1102 2 17 she 
+: 1105 5 15 could
+: 1111 3 10 n’t 
+: 1115 4 12 make 
+: 1120 2 12 up 
+: 1123 3 10 her 
+: 1127 13 15 mind 
+- 1142
+: 1152 2 20 She 
+: 1155 6 20 said 
+: 1162 3 19 “You 
+: 1166 4 20 don’t 
+: 1171 2 17 un
+: 1174 2 14 der
+: 1177 7 13 sta
+: 1185 13 11 ~nd 
+- 1200
+: 1222 2 19 I’d 
+: 1225 3 19 love 
+: 1229 3 18 to 
+: 1233 4 19 go 
+: 1238 3 17 but 
+: 1242 3 14 there’s 
+: 1246 3 11 some
+: 1250 3 12 thing 
+: 1254 2 12 you 
+: 1257 4 11 should 
+: 1263 10 14 know” 
+- 1275
+: 1287 2 20 She 
+: 1290 5 20 showed 
+: 1296 3 18 me 
+: 1300 2 20 her 
+: 1304 3 18 wed
+: 1308 3 20 ding 
+: 1312 3 17 ba
+: 1316 20 15 ~nd 
+- 1338
+: 1358 5 19 Hot 
+: 1366 8 19 hot 
+: 1382 4 17 hot
+: 1387 2 19 ter 
+: 1390 3 17 than 
+: 1395 12 22 hell 
+- 1409
+: 1412 3 14 You 
+: 1416 3 16 know 
+: 1420 4 14 she’s 
+: 1425 4 14 gon
+: 1430 2 14 na 
+: 1433 4 16 leave 
+: 1438 3 14 you 
+: 1442 4 19 well 
+: 1447 3 16 do
+: 1451 18 14 ~ne 
+- 1471
+: 1492 5 19 Hot 
+: 1500 8 19 hot 
+: 1516 4 17 hot
+: 1521 2 19 ter 
+: 1524 3 17 than 
+: 1529 12 22 hell 
+- 1543
+: 1545 4 15 She’ll 
+: 1550 4 17 burn 
+: 1555 1 15 you 
+: 1557 4 15 like 
+: 1562 3 15 the 
+: 1566 3 17 mid
+: 1570 6 20 day 
+: 1577 22 20 sun 
+* 1600 10 27 yeah! 
+- 1612
+: 1656 5 19 Hot 
+: 1664 8 19 hot 
+: 1680 4 17 hot
+: 1685 2 19 ter 
+: 1688 3 17 than 
+: 1693 12 22 hell 
+- 1707
+: 1710 3 14 You 
+: 1714 3 16 know 
+: 1718 4 14 she’s 
+: 1723 4 14 gon
+: 1728 2 14 na 
+: 1731 4 16 leave 
+: 1736 3 14 you 
+: 1740 4 19 well 
+: 1745 3 16 do
+: 1749 18 14 ~ne 
+- 1769
+: 1789 5 19 Hot 
+: 1797 8 19 hot 
+: 1813 4 17 hot
+: 1818 2 19 ter 
+: 1821 3 17 than 
+: 1826 12 22 hell 
+- 1839
+: 1841 4 15 She’ll 
+: 1846 4 17 burn 
+: 1851 1 15 you 
+: 1853 4 15 like 
+: 1858 3 15 the 
+: 1862 3 17 mid
+: 1866 6 20 day 
+: 1873 22 20 su
+* 1896 10 27 ~n 
+E

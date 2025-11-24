@@ -1,0 +1,263 @@
+#ARTIST:Johnny Cash
+#TITLE:Folsom Prison Blues (Live)
+#MP3:Johnny Cash - Folsom Prison Blues (Live).mp3
+#CREATOR:borax
+#GENRE:Country
+#YEAR:1955
+#LANGUAGE:English
+#BPM:224
+#GAP:10500
+#VIDEO:v=AeZRYhLDLeU,co=https://i.discogs.com/bbZpWaTTs3Y4A5G6T2D0eTVriJHwZNFAio4_M0MZ2Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA5/MjEtMTU0NzIwODQ1/MS0zODU2LmpwZWc.jpeg,bg=johnny-cash-4e634c6180f26.jpg
+: 0 3 20 I 
+: 4 3 20 hear 
+: 8 3 20 the 
+: 12 3 23 train 
+: 18 2 23 a 
+: 21 2 16 co
+: 24 2 16 ming 
+- 28
+: 34 2 20 It’s 
+: 37 3 20 rol
+: 41 2 20 ling 
+: 44 4 23 round 
+: 49 2 23 the 
+: 52 6 16 bend. 
+- 60
+: 67 3 20 And 
+: 71 3 20 I 
+: 75 2 20 ain’t 
+: 78 3 20 seen 
+: 82 2 20 the 
+: 85 4 23 sun
+: 90 8 16 shine 
+- 99
+: 99 3 16 Since 
+: 108 1 19 I 
+: 110 2 19 don’t 
+: 113 3 19 know 
+: 119 6 19 when. 
+- 127
+: 131 3 19 I’m 
+: 135 3 18 stuck 
+: 140 3 16 in 
+: 144 3 18 Fol
+: 148 3 16 som 
+: 152 4 18 pri
+: 157 3 16 son 
+- 162
+: 173 2 18 And 
+: 177 5 18 time 
+: 183 4 16 keeps 
+: 190 7 19 drag
+: 198 2 18 ging 
+: 201 2 16 o
+: 204 3 11 ~n. 
+- 209
+: 258 2 16 But 
+: 261 4 16 that 
+: 266 9 18 train 
+: 276 3 18 keeps 
+: 280 2 18 a-
+: 283 2 18 rol
+: 286 2 11 ling 
+- 290
+: 305 3 11 On 
+: 309 3 11 down 
+: 313 2 11 to 
+: 318 2 11 Sa
+: 321 3 9 ~n 
+: 326 3 7 An
+: 332 8 4 tone. 
+- 342
+: 361 3 20 When, 
+: 365 3 20 I 
+: 369 3 20 was 
+: 373 4 23 just 
+: 378 3 23 a 
+: 382 3 16 ba
+: 386 4 16 by 
+- 392
+: 394 3 20 My 
+: 398 3 20 ma
+: 402 2 20 ma 
+: 406 3 23 told 
+: 411 2 23 me, 
+: 415 7 16 son 
+- 424
+: 433 3 20 Al
+: 437 3 20 ways 
+: 442 2 20 be 
+: 445 1 20 a 
+: 447 3 23 good 
+: 451 8 16 boy 
+- 460
+: 461 3 16 Don’t 
+: 465 2 19 e
+: 468 3 19 ver 
+: 472 3 19 play 
+: 476 3 19 with 
+: 480 4 19 gun. 
+- 486
+: 492 1 19 But 
+: 494 2 19 I 
+: 497 3 18 shot 
+: 501 1 16 a 
+: 503 5 18 man 
+: 509 2 16 in 
+: 512 4 18 Re
+: 517 5 16 no 
+- 524
+: 535 4 19 Just 
+: 541 4 16 to 
+: 546 7 19 watch 
+: 554 8 16 him 
+: 563 10 11 die. 
+- 575
+: 620 1 18 When 
+: 622 4 18 I 
+: 627 3 18 hear 
+: 631 2 18 that 
+: 635 2 18 whis
+: 638 3 18 tle 
+: 642 3 18 blo
+: 646 4 11 wing 
+- 652
+: 664 3 11 I 
+: 668 3 11 hang 
+: 672 3 11 my 
+: 676 4 11 hea
+: 681 3 9 ~d 
+: 685 6 7 and 
+: 693 10 4 cry. 
+- 705
+: 1073 5 20 I 
+: 1079 3 20 bet 
+: 1083 3 20 there’s 
+: 1087 3 20 rich 
+: 1091 3 23 folks 
+: 1095 4 16 ea
+: 1100 2 16 ting 
+- 1103
+: 1103 2 16 From 
+: 1106 2 16 a 
+: 1110 3 20 fan
+: 1114 3 20 cy 
+: 1118 3 23 di
+: 1122 4 23 ning 
+: 1127 6 16 car. 
+- 1135
+: 1139 3 20 They’re 
+: 1143 3 20 prob’
+: 1147 3 20 ly 
+: 1151 2 20 drin
+: 1154 3 20 king 
+: 1158 4 23 cof
+: 1163 3 16 fee 
+- 1168
+: 1171 3 19 And 
+: 1175 3 19 smo
+: 1179 3 19 king 
+: 1183 3 19 big 
+: 1187 3 19 ci
+: 1191 8 19 gars. 
+- 1200
+: 1200 3 19 Well 
+: 1204 2 19 I 
+: 1207 4 18 know 
+: 1212 3 16 I 
+: 1216 2 18 had 
+: 1219 3 16 it 
+: 1223 3 18 co
+: 1227 2 16 ming 
+- 1231
+: 1245 2 19 I 
+: 1248 3 19 know 
+: 1252 3 19 I 
+: 1256 3 19 ca
+: 1260 3 18 ~n’t 
+: 1265 5 16 be 
+: 1273 6 11 free. 
+- 1281
+: 1328 3 18 But 
+: 1333 3 18 those 
+: 1338 2 18 peo
+: 1341 2 18 ple 
+: 1344 3 18 keep 
+: 1348 2 18 on 
+: 1351 3 18 mo
+: 1355 1 16 ~
+: 1357 4 11 ving 
+- 1363
+: 1373 2 11 And 
+: 1376 3 11 that’s 
+: 1381 4 11 what’s 
+: 1388 3 11 tor
+: 1392 3 9 tu
+: 1396 3 7 ~res 
+: 1402 7 4 me. 
+- 1411
+: 1772 3 23 Well 
+: 1776 2 23 if 
+: 1779 4 23 they 
+: 1784 3 23 freed 
+: 1788 3 23 me 
+: 1792 3 21 from 
+: 1796 3 19 this 
+: 1801 2 16 pri
+: 1804 3 16 son, 
+- 1808
+: 1808 2 16 If 
+: 1811 3 16 that 
+: 1816 3 23 rail
+: 1820 3 23 road 
+: 1824 3 21 train 
+: 1828 3 19 was 
+: 1832 4 16 mine, 
+- 1838
+: 1844 3 23 I’ve 
+: 1848 2 23 bet 
+: 1851 3 23 I’d 
+: 1855 4 21 move 
+: 1860 2 19 it 
+: 1863 4 16 on 
+- 1868
+: 1868 3 16 A 
+: 1872 2 16 lit
+: 1875 3 16 tle 
+: 1879 4 19 far
+: 1884 2 16 ther 
+: 1887 3 19 down 
+: 1891 2 16 the 
+: 1894 4 18 line. 
+- 1900
+: 1911 3 19 Far 
+: 1915 3 16 from 
+: 1919 4 19 Fol
+: 1924 3 16 som 
+: 1928 4 19 Pri
+: 1933 4 16 son 
+- 1939
+: 1946 4 19 That’s 
+: 1952 3 19 where 
+: 1956 3 16 I 
+: 1960 6 19 want 
+: 1968 3 18 to
+: 1972 2 16 ~ 
+: 1975 9 11 stay. 
+- 1986
+: 2031 2 18 And 
+: 2034 2 18 I’d 
+: 2037 3 18 let 
+: 2041 4 18 that 
+: 2046 4 18 lone
+: 2051 3 18 some 
+: 2055 3 18 whis
+: 2059 6 11 tle 
+- 2067
+: 2079 3 11 Blow 
+: 2083 4 11 my 
+: 2088 3 11 blue
+: 2092 4 9 ~s 
+: 2097 6 7 a
+: 2105 6 4 way. 
+E

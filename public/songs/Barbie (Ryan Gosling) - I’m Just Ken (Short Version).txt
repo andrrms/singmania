@@ -1,0 +1,182 @@
+#ARTIST:Barbie (Ryan Gosling)
+#TITLE:I’m Just Ken (Short Version)
+#MP3:Barbie (Ryan Gosling) - I’m Just Ken (Short Version).mp3
+#CREATOR:juhuu
+#COVER:Barbie (Ryan Gosling) - I’m Just Ken (Short Version) [CO].jpg
+#BACKGROUND:Barbie (Ryan Gosling) - I’m Just Ken (Short Version) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2023
+#LANGUAGE:English
+#BPM:337
+#GAP:11180
+#VIDEO:v=Y1IgAEejvqM,co=barbie-the-album-64d7f2ab7e79b.jpg
+: 0 7 -2 Doe
+: 9 3 -4 sn’t 
+: 19 6 -2 seem 
+: 29 4 -1 to 
+: 34 3 -1 ma
+: 38 10 1 ~t
+: 49 3 1 te
+: 53 2 -1 ~r 
+: 58 2 -1 what 
+: 62 2 -2 I 
+: 68 9 -4 do 
+- 87
+: 109 2 -4 I’m 
+: 115 1 -1 a
+: 117 7 1 ~l
+: 125 2 1 ways 
+: 135 3 -1 num
+: 139 2 -2 ber 
+: 144 7 -4 two 
+- 161
+: 191 8 -4 No 
+: 201 8 -6 one 
+: 211 4 -4 knows 
+: 220 5 -4 how 
+: 229 7 -4 hard 
+: 239 3 -2 I 
+: 248 9 -1 tried 
+- 266
+: 270 4 1 Oh 
+: 281 5 -2 oh, 
+: 287 6 -2 I 
+- 302
+: 306 2 -4 I
+: 309 3 -2 ~ 
+: 317 4 -4 have 
+: 326 7 -2 fee
+: 334 3 -1 lings 
+: 341 3 -1 tha
+: 345 3 1 ~t 
+: 355 2 1 I 
+: 363 3 -1 can’t 
+: 368 2 -2 ex
+: 378 6 -4 plain 
+- 394
+: 421 6 1 Driv
+: 430 4 1 i
+: 435 3 -1 ~n’ 
+: 440 4 -1 me 
+: 445 4 -2 in
+: 455 6 -4 sane 
+- 471
+: 499 6 -4 All 
+: 508 6 -6 my 
+: 518 4 -4 life 
+: 528 4 -4 been 
+: 538 4 -4 so 
+: 547 4 -2 po
+: 552 4 -2 li
+: 557 4 -1 ~te 
+- 570
+: 573 2 -4 ’Cause 
+: 578 4 1 I’m 
+: 589 3 0 just 
+* 597 4 -2 Ken 
+- 613
+: 617 3 -2 A
+: 621 3 -2 ny
+: 625 7 0 where 
+: 634 3 1 else 
+: 644 4 0 I’d 
+: 652 7 -2 be 
+: 663 2 -4 a 
+* 667 9 -4 ten 
+- 685
+: 689 4 -4 Is 
+: 694 1 -2 it 
+: 699 4 0 my 
+: 708 7 1 des
+: 719 3 0 ti
+: 724 10 -2 ny 
+- 736
+: 738 3 -4 To 
+: 744 9 -4 live 
+: 759 3 -9 and 
+: 764 10 -9 die 
+: 776 3 -2 a 
+: 781 12 -2 life 
+- 796
+: 798 3 -11 Of 
+: 806 8 -11 blonde 
+: 816 4 -12 fra
+: 822 11 -11 gil
+: 834 5 -9 i
+: 840 16 -7 ty? 
+- 866
+: 882 4 3 I’m 
+: 890 6 2 just 
+* 902 9 0 Ken 
+- 917
+: 920 3 0 Where 
+: 925 2 0 I 
+: 929 4 2 see 
+: 937 4 3 love, 
+: 950 5 2 she 
+: 958 4 0 see
+: 963 3 -2 ~s 
+: 968 2 -2 a 
+: 973 9 -2 friend 
+- 992
+: 996 4 -2 What 
+: 1002 2 0 will 
+: 1006 3 2 it 
+: 1014 6 3 take 
+: 1024 4 3 for 
+: 1030 9 0 her 
+- 1042
+: 1044 2 5 To 
+: 1049 11 5 see 
+: 1064 2 2 the 
+: 1070 13 2 man 
+: 1085 3 2 be
+: 1090 9 3 hind 
+: 1104 2 3 the 
+: 1108 12 -2 tan 
+- 1122
+: 1124 3 2 And 
+* 1132 7 3 fight 
+* 1145 9 2 for 
+* 1160 18 -2 me? 
+- 1185
+: 1188 4 3 I’m 
+: 1197 4 2 just 
+* 1207 6 0 Ken 
+: 1218 4 -2 and 
+: 1227 7 -2 I’m 
+: 1236 3 0 e
+: 1241 5 -2 nough 
+- 1256
+: 1265 4 3 And 
+: 1274 4 2 I’m 
+: 1284 4 0 grea
+: 1289 3 -2 ~t 
+: 1294 4 -2 at 
+: 1304 4 -2 do
+: 1309 4 0 ing 
+: 1319 6 -2 stuff 
+- 1335
+: 1351 2 -2 So, 
+: 1356 13 5 hey 
+: 1380 3 2 check 
+: 1389 3 2 me 
+: 1394 7 3 out 
+- 1407
+: 1409 5 2 Yeah, 
+: 1416 4 3 I’m 
+: 1425 4 2 just 
+: 1435 6 -2 Ken 
+- 1451
+: 1466 4 -2 Ba
+: 1471 2 -2 by, 
+* 1476 29 8 I
+* 1506 1 7 ~
+* 1508 2 5 ~’m 
+- 1514
+* 1516 28 6 Ju
+* 1545 11 5 ~st 
+- 1562
+* 1564 3 3 Ke
+* 1568 39 5 ~n 
+E

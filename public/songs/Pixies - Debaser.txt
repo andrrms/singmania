@@ -1,0 +1,240 @@
+#ARTIST:Pixies
+#TITLE:Debaser
+#MP3:Pixies - Debaser.mp3
+#EDITION:SingStar Guitar
+#COVER:Pixies - Debaser [CO].jpg
+#BACKGROUND:Pixies - Debaser [BG].jpg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:271
+#GAP:22120
+#VIDEO:v=PVyS9JwtFoQ,co=debaser-studio-5eee81bdc102b.jpg,bg=pixies-4e3a8a6c4bcc2.jpg
+R 0 2 9 Got 
+R 6 2 9 me 
+R 10 2 9 a 
+G 14 5 9 mo
+R 20 2 9 vie 
+- 23
+R 25 2 9 I 
+R 29 7 9 want 
+R 38 2 9 you 
+R 42 3 9 to 
+R 46 8 9 know 
+- 63
+R 66 3 9 Sli
+R 71 1 9 cin’ 
+R 73 1 9 up 
+R 78 4 9 eye
+R 85 3 9 balls 
+- 88
+R 90 2 9 I 
+R 94 4 9 want 
+R 102 2 9 you 
+R 106 2 9 to 
+R 110 9 9 know 
+- 127
+R 130 2 9 Gir
+R 134 2 9 lie 
+R 138 5 9 so 
+R 146 3 9 groo
+R 151 3 9 vy 
+- 154
+R 155 2 9 I 
+R 159 2 9 want 
+R 166 3 9 you 
+R 170 2 9 to 
+R 174 8 9 know 
+- 188
+R 190 2 9 Don’t 
+R 194 2 9 know 
+R 198 2 9 a
+R 202 2 9 bout 
+G 210 6 9 you 
+- 220
+R 222 2 9 But 
+R 226 2 9 I 
+R 230 2 9 am 
+R 235 6 9 un 
+R 250 4 9 chien 
+- 260
+R 263 2 9 An
+R 267 2 9 da
+R 270 2 9 lu
+R 276 1 9 si
+R 278 3 9 a 
+- 284
+R 286 6 9 I 
+R 294 2 9 am 
+R 299 4 9 un 
+G 314 4 9 chien 
+- 323
+R 325 3 9 An
+R 330 2 9 da
+R 334 2 9 lu
+R 338 3 9 si
+R 342 3 9 a 
+- 349
+R 351 5 9 I 
+R 358 2 9 am 
+R 362 5 9 un 
+R 378 4 9 chien 
+- 388
+R 390 2 9 An
+R 394 2 9 da
+R 398 3 9 lu
+R 403 1 9 si
+R 405 6 9 a 
+- 412
+R 414 6 9 I 
+R 421 2 9 am 
+R 427 3 9 un 
+R 443 5 9 chien 
+- 452
+R 454 2 9 An
+R 458 2 9 da
+R 462 4 9 lu
+R 468 1 9 si
+R 470 3 9 a 
+- 475
+R 477 1 9 Wan
+R 479 1 9 na 
+R 483 8 9 grow 
+- 498
+R 501 2 9 Up 
+R 506 2 9 to 
+R 510 11 9 be 
+- 527
+R 530 2 9 Be 
+R 534 2 9 a 
+R 538 2 9 de
+R 542 6 9 ba
+R 552 7 9 ser 
+- 577
+R 606 2 9 De
+G 611 5 9 ba
+R 621 6 9 ser 
+- 645
+R 669 2 9 De
+R 674 4 9 ba
+R 683 7 9 ser 
+- 708
+R 734 2 9 De
+R 739 8 9 ba
+R 751 8 9 ser 
+- 777
+R 798 2 9 De
+R 803 7 9 ba
+G 814 11 9 ser 
+- 835
+R 849 6 9 De
+R 859 9 9 ba
+R 870 16 9 ser 
+- 904
+R 943 5 9 Got 
+R 951 2 9 me 
+R 955 2 9 a 
+R 959 4 9 mo
+R 965 5 9 vie 
+- 973
+R 975 6 9 Ah 
+R 982 3 9 ha 
+R 987 3 9 ha 
+R 992 8 9 ho 
+- 1005
+R 1007 6 9 Sli
+R 1014 2 9 cin’ 
+R 1017 2 9 up 
+G 1023 5 9 eye
+R 1030 6 9 balls 
+- 1037
+R 1039 7 9 Ah 
+R 1047 2 9 ha 
+R 1051 2 9 ha 
+R 1055 10 9 ho 
+- 1071
+R 1074 3 9 Gir
+R 1079 2 9 lie 
+R 1083 7 9 so 
+R 1091 2 9 groo
+R 1095 3 9 vy 
+- 1101
+R 1103 6 9 Ah 
+R 1111 2 9 ha 
+R 1115 2 9 ha 
+G 1119 8 9 ho 
+- 1132
+R 1134 2 9 Don’t 
+R 1138 2 9 know 
+R 1142 2 9 a
+R 1146 2 9 bout 
+R 1155 3 9 you 
+- 1164
+R 1166 2 9 But 
+R 1170 2 9 I 
+R 1174 2 9 am 
+R 1178 5 9 un 
+R 1195 6 9 chien 
+- 1204
+R 1206 2 9 An
+R 1210 2 9 da
+R 1214 3 9 lu
+R 1220 1 9 si
+R 1222 5 9 a 
+- 1230
+R 1232 5 9 I 
+R 1239 2 9 am 
+R 1243 2 9 un 
+R 1259 5 9 chien 
+- 1269
+R 1271 2 9 An
+R 1275 2 9 da
+R 1279 2 9 lu
+R 1285 1 9 si
+R 1287 6 9 a 
+- 1294
+R 1296 5 9 I 
+R 1303 2 9 am 
+R 1307 5 9 un 
+R 1323 4 9 chien 
+- 1333
+R 1335 2 9 An
+R 1339 2 9 da
+R 1343 4 9 lu
+R 1349 1 9 si
+R 1351 4 9 a 
+- 1357
+R 1359 7 9 I 
+R 1367 2 9 am 
+R 1371 5 9 un 
+R 1387 6 9 chien 
+- 1397
+R 1399 3 9 An
+R 1403 2 9 da
+G 1407 4 9 lu
+R 1415 1 9 si
+R 1417 11 9 a 
+- 1464
+R 1503 2 9 De
+R 1508 4 9 ba
+G 1517 9 9 ser 
+- 1544
+R 1567 2 9 De
+R 1572 5 9 ba
+R 1582 9 9 ser 
+- 1609
+R 1631 2 9 De
+R 1636 9 9 ba
+R 1647 9 9 ser 
+- 1674
+G 1694 2 9 De
+R 1699 8 9 ba
+R 1711 8 9 ser 
+- 1737
+R 1758 2 9 De
+R 1764 7 9 ba
+R 1774 9 9 ser 
+- 1801
+R 1823 2 9 De
+R 1828 7 9 ba
+R 1839 9 9 ser 
+E

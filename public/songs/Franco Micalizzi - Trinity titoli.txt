@@ -1,0 +1,234 @@
+#ARTIST:Franco Micalizzi
+#TITLE:Trinity: titoli
+#MP3:Franco Micalizzi - Trinity: titoli.mp3
+#CREATOR:gun8
+#GENRE:OST
+#YEAR:1970
+#LANGUAGE:English
+#BPM:249
+#GAP:40640
+#VIDEO:a=w_rkuWyjmr8,co=https://m.media-amazon.com/images/I/61DfgthuImL.jpg
+: 0 7 5 He’s 
+: 8 4 7 the 
+: 14 9 9 guy 
+: 24 4 7 who’s 
+: 30 1 5 the 
+: 32 5 7 talk 
+: 38 1 9 of 
+: 40 4 7 the 
+: 46 13 4 town 
+- 61
+: 72 3 5 With 
+: 76 2 7 the 
+* 80 4 9 rest
+* 85 5 14 less 
+: 93 13 12 gun 
+- 108
+: 127 6 5 Don’t 
+: 135 4 7 shoot 
+: 142 6 9 broad 
+: 150 4 7 out 
+: 156 2 5 to 
+: 159 4 7 fool 
+: 164 2 9 him 
+: 167 3 7 a
+: 172 3 7 round
+: 178 7 2 ~ 
+- 187
+: 198 5 2 Keeps 
+: 204 2 0 the 
+: 207 4 2 var
+: 212 3 5 mints 
+: 216 2 2 on 
+: 220 2 0 the 
+: 223 11 2 run, 
+: 239 9 5 boy 
+- 250
+: 263 4 2 Keeps 
+: 268 2 0 the 
+: 272 3 2 var
+: 276 3 5 mints 
+: 280 2 2 on 
+: 284 2 0 the 
+: 287 14 2 run 
+- 303
+: 352 6 5 You 
+: 360 4 7 may 
+: 367 7 9 think 
+: 376 4 7 he’s 
+: 382 1 5 a 
+: 384 5 7 sleep
+: 390 1 9 y 
+: 392 4 7 tired 
+: 398 5 7 guy
+: 404 10 4 ~ 
+- 416
+: 424 3 5 Al
+: 428 3 7 ways 
+: 432 6 9 takes 
+* 440 4 14 his 
+: 446 4 14 time
+: 452 6 12 ~ 
+- 460
+: 480 7 5 Sure 
+: 490 3 7 I 
+: 496 7 9 know 
+: 504 4 7 you’ll 
+: 509 2 5 be 
+: 512 4 7 chan
+: 517 2 9 ging 
+: 520 4 7 your 
+: 526 7 7 mind
+: 536 7 2 ~ 
+- 545
+: 551 6 2 When 
+: 558 1 0 you’ve 
+: 560 4 2 seen 
+: 566 3 5 him 
+: 570 2 2 use 
+: 573 2 0 a 
+: 576 11 2 gun, 
+: 593 7 5 boy 
+- 602
+: 616 4 2 When 
+: 622 1 0 you’ve 
+: 624 4 2 seen 
+: 630 4 5 him 
+: 635 2 2 use 
+: 638 1 0 a 
+: 640 13 2 gun 
+- 655
+: 690 6 9 He’s 
+: 697 4 10 the 
+: 704 15 12 top 
+: 727 3 10 of 
+: 731 3 9 the 
+: 736 4 7 West 
+- 742
+: 762 1 10 Al
+: 764 4 12 ways 
+: 771 19 14 cool, 
+: 793 2 12 he’s 
+: 796 4 10 the 
+: 801 4 9 best 
+- 807
+: 820 4 12 He 
+* 826 2 14 keeps 
+* 830 4 16 a
+* 836 13 17 live 
+- 851
+: 852 6 16 With 
+: 859 4 12 his 
+: 867 16 14 Colt 
+: 888 5 12 for
+: 894 2 9 ty 
+: 899 24 7 five
+* 926 1 6 ~
+* 928 5 7 ~
+* 934 18 9 ~ 
+- 954
+: 1098 5 5 You 
+: 1104 4 7 weren’t 
+: 1111 6 9 glad 
+: 1119 4 7 at 
+: 1124 1 5 your 
+: 1126 4 7 fool 
+* 1133 2 9 him 
+: 1136 3 7 a
+: 1140 5 7 round
+: 1148 6 2 ~ 
+- 1156
+: 1168 3 2 When 
+: 1172 2 0 you’ve 
+: 1176 3 2 seen 
+: 1180 3 5 him 
+: 1185 2 2 use 
+: 1188 2 0 a 
+: 1191 12 2 gun, 
+: 1208 8 5 boy 
+- 1218
+: 1232 3 2 When 
+: 1236 2 0 you’ve 
+: 1240 3 2 seen 
+: 1244 3 5 him 
+: 1249 2 2 use 
+: 1252 2 0 a 
+: 1256 12 2 gun 
+- 1270
+: 1304 6 9 He’s 
+: 1311 4 10 the 
+: 1318 15 12 top 
+: 1340 3 10 of 
+: 1345 3 9 the 
+: 1350 4 7 West 
+- 1356
+: 1375 1 10 Al
+: 1377 4 12 ways 
+F 1384 7 14 cool
+F 1392 7 14 lah! 
+: 1405 1 14 he’s
+* 1407 2 12 ~ 
+: 1410 3 10 the 
+: 1415 4 9 best 
+- 1421
+: 1433 4 12 He 
+* 1439 2 14 keeps 
+* 1443 4 16 a
+: 1449 13 17 live 
+- 1464
+: 1465 5 16 With 
+: 1472 4 12 his 
+F 1478 6 14 Colt
+F 1485 3 14 ah 
+: 1498 6 12 for
+: 1507 2 9 ty 
+: 1512 21 7 five
+* 1537 2 6 ~
+* 1540 3 7 ~
+: 1546 18 9 ~ 
+- 1566
+: 1644 6 5 Who’s 
+: 1652 2 7 the 
+F 1656 8 9 guy 
+: 1667 4 7 who’s
+: 1672 2 5 ~ 
+: 1675 3 7 rid
+: 1679 2 9 ing 
+: 1682 4 7 to 
+: 1687 5 7 town
+: 1694 6 4 ~ 
+- 1702
+: 1714 3 5 In 
+: 1718 3 7 the 
+: 1722 4 9 prai
+* 1728 3 14 rie 
+: 1734 12 12 sun 
+- 1748
+: 1771 6 5 You 
+: 1779 3 7 weren’t 
+: 1786 6 9 glad 
+: 1794 3 7 at 
+: 1798 2 5 your 
+: 1802 3 7 fool 
+: 1806 2 9 him 
+: 1809 4 7 a
+: 1815 7 7 round
+: 1824 8 2 ~ 
+- 1834
+: 1841 4 2 When 
+: 1846 2 0 you’ve 
+: 1849 4 2 seen 
+: 1854 4 5 him 
+: 1861 2 2 use 
+: 1864 2 0 a 
+: 1867 11 2 gun, 
+: 1882 8 5 boy 
+- 1892
+: 1908 3 2 When 
+: 1912 2 0 you’ve 
+: 1915 4 2 seen 
+: 1920 4 5 him 
+: 1926 2 2 use 
+: 1929 2 0 his 
+: 1933 35 2 gun 
+E

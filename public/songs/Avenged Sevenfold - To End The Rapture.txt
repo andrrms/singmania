@@ -1,0 +1,82 @@
+#ARTIST:Avenged Sevenfold
+#TITLE:To End The Rapture
+#MP3:Avenged Sevenfold - To End The Rapture.mp3
+#CREATOR:Double D
+#COVER:Avenged Sevenfold - To End The Rapture [CO].jpg
+#BACKGROUND:Avenged Sevenfold - To End The Rapture [BG].jpg
+#GENRE:Rock
+#YEAR:2001
+#LANGUAGE:English
+#BPM:238.2
+#GAP:44560
+#VIDEO:a=xIQfK2fRNAg,co=sounding-the-seventh-trumpet-53b308d7bea26.jpg,bg=avenged-sevenfold-51544ff4401ab.jpg
+: 0 4 2 The 
+: 6 3 2 wind 
+: 11 2 4 of 
+: 15 4 4 life
+: 20 6 5 ~ 
+: 28 2 0 and 
+: 32 4 5 air 
+: 38 3 7 from 
+: 43 4 9 a
+: 48 18 7 bove 
+- 68
+: 69 5 5 Smells 
+: 76 2 4 of 
+: 80 7 4 death
+: 88 1 5 ~
+: 90 1 4 ~
+: 92 28 2 ~ 
+- 122
+: 128 7 2 An
+: 136 6 4 gels 
+: 144 15 5 sing 
+: 161 5 7 of 
+: 168 3 9 the 
+: 173 2 7 end
+: 176 4 9 ~
+: 181 1 10 ~
+: 183 2 9 ~
+: 186 52 7 ~ 
+- 240
+* 249 2 -3 There’s 
+* 253 5 2 no
+* 259 3 2 thing 
+* 264 3 4 you 
+* 269 4 4 say
+* 274 4 5 ~ 
+- 280
+* 281 2 0 And 
+* 285 5 5 no
+* 291 3 7 thing 
+* 296 3 9 you 
+: 301 5 7 try
+: 307 1 5 ~
+: 309 2 7 ~
+: 312 1 5 ~
+: 314 2 7 ~
+: 317 1 5 ~
+: 319 1 7 ~ 
+- 322
+: 323 2 5 Can 
+: 327 3 4 change 
+: 332 5 4 time
+: 338 1 5 ~
+: 340 1 4 ~
+: 342 25 2 ~ 
+- 369
+: 378 7 2 Hu
+: 386 6 4 man 
+: 394 6 5 race 
+: 402 6 5 pre
+: 410 6 7 pares 
+: 418 1 9 to 
+- 421
+: 422 2 7 Die
+: 425 4 9 ~
+: 430 1 10 ~
+: 432 1 9 ~
+: 434 22 7 ~
+: 457 33 10 ~
+: 491 68 9 ~ 
+E

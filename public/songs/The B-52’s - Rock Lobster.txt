@@ -1,0 +1,376 @@
+#ARTIST:The B-52’s
+#TITLE:Rock Lobster
+#MP3:The B-52’s - Rock Lobster.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band 3
+#GENRE:New Wave
+#YEAR:1978
+#LANGUAGE:English
+#BPM:395.46
+#GAP:4200
+#VIDEO:v=2VCCiY17hKw,co=https://i.discogs.com/-C4_JwwadgtGGQ441j1LYCs9TXxD8JHy_Wmmvgq8JMw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA4/OS0xMTYzMTAyMzU1/LmpwZWc.jpeg,bg=b-52s-the-5083ab29e2ebb.jpg
+#START:4.0
+: 0 2 19 Ski
+: 3 3 19 doo
+: 8 1 20 be
+: 10 4 19 dop 
+- 24
+: 50 14 23 Eww 
+- 66
+: 68 2 19 Ski
+: 71 4 19 doo
+: 76 2 20 be
+: 79 4 19 dop 
+- 93
+: 119 15 23 Eww 
+- 139
+R 141 3 0 We 
+R 146 3 0 were 
+R 150 2 0 at 
+R 153 2 0 a 
+R 159 4 0 par
+R 164 3 0 ty 
+- 177
+R 207 1 0 His 
+R 211 5 0 ear 
+R 218 3 0 lobe 
+R 227 3 0 fell 
+R 232 2 0 in 
+R 236 2 0 the 
+R 240 7 0 deep 
+- 257
+: 280 2 0 Some
+* 284 2 0 one 
+: 289 3 2 reached 
+: 297 6 3 in 
+: 305 2 2 and 
+R 313 3 1 grabbed 
+R 319 3 1 it 
+- 332
+R 357 2 13 Was 
+R 361 2 13 a 
+R 365 11 13 rock 
+R 383 4 13 lob
+R 396 11 13 ster 
+- 414
+: 417 35 19 Ah
+: 453 35 22 ~
+: 489 34 24 ~
+: 524 24 26 ~, 
+R 551 3 13 rock 
+R 559 3 13 lob
+R 569 10 13 ster 
+- 591
+: 595 34 22 Ah
+: 630 35 24 ~
+: 666 23 26 ~, 
+R 692 3 13 rock 
+R 702 3 13 lob
+R 711 5 13 ster 
+- 768
+: 1460 18 23 Eww 
+- 1488
+: 1528 18 23 Eww 
+- 1549
+R 1551 3 13 We 
+R 1556 2 13 were 
+R 1559 2 13 at 
+R 1564 1 13 the 
+R 1568 4 13 beach 
+- 1582
+* 1596 17 23 Eww 
+- 1617
+R 1619 2 13 E
+R 1623 2 13 very
+R 1627 3 13 bo
+R 1631 2 13 dy 
+R 1636 8 13 had 
+- 1650
+R 1653 3 13 Match
+R 1659 4 13 ing 
+R 1667 12 13 towels 
+- 1686
+R 1689 2 13 Some
+R 1693 1 13 bo
+R 1696 7 13 dy 
+R 1705 3 13 went 
+- 1718
+R 1722 2 13 Un
+R 1726 4 13 der 
+R 1731 2 13 a 
+R 1736 7 13 dock 
+- 1750
+R 1753 1 13 And 
+R 1757 7 13 there 
+R 1765 4 13 they 
+R 1774 9 13 saw 
+R 1787 2 13 a 
+R 1791 8 13 rock 
+- 1809
+R 1830 2 13 It 
+R 1834 2 13 was
+R 1838 2 13 n’t 
+R 1841 3 13 a 
+R 1848 9 13 rock 
+- 1867
+R 1902 2 13 Was 
+R 1907 2 13 a 
+R 1911 11 13 rock 
+R 1928 5 13 lob
+R 1942 17 13 ster 
+- 1961
+: 1963 33 19 Ah
+: 1997 34 22 ~
+: 2032 35 24 ~
+* 2068 22 26 ~, 
+R 2094 4 17 rock 
+R 2103 4 15 lob
+R 2113 13 13 ster 
+- 2135
+: 2139 34 22 Ah
+: 2174 35 24 ~
+: 2210 22 26 ~, 
+R 2236 4 13 rock 
+R 2244 4 13 lob
+R 2254 6 13 ster! 
+- 2312
+: 2943 5 19 Rock 
+: 2951 8 19 lob
+: 2960 25 26 ~
+* 2986 8 15 ~
+* 2999 10 14 ster, 
+: 3012 5 19 rock 
+: 3021 7 19 lob
+* 3029 25 26 ~
+: 3055 8 15 ~
+: 3069 12 14 ster 
+- 3087
+R 3089 3 1 Mo
+R 3096 1 1 tion 
+R 3098 2 1 in 
+R 3102 3 1 the 
+R 3106 2 1 o
+R 3113 2 1 cean 
+- 3125
+R 3155 2 1 His 
+R 3158 6 1 air 
+R 3166 4 1 hose 
+R 3175 6 1 broke 
+- 3191
+: 3227 3 0 Lots 
+: 3236 3 2 of 
+: 3245 3 3 trou
+: 3249 6 0 ble 
+- 3265
+: 3296 3 0 Lots 
+: 3305 3 2 of 
+: 3313 3 3 bub
+: 3317 5 0 ble 
+- 3332
+R 3370 2 1 He 
+R 3373 2 1 was 
+R 3379 2 1 in 
+R 3382 3 1 a 
+R 3391 8 1 jam 
+- 3409
+R 3440 1 1 He’s 
+R 3442 3 1 in 
+R 3446 2 1 a 
+R 3451 5 1 gi
+R 3458 3 1 ant 
+R 3467 22 1 clam! 
+- 3541
+R 3660 10 13 Rock, 
+- 3680
+R 3694 10 13 Rock, 
+- 3730
+R 3790 4 13 Rock 
+R 3799 3 13 lob
+R 3808 7 13 ster, 
+- 3825
+R 3835 16 13 Down, 
+R 3858 26 13 down 
+- 3894
+: 3908 36 26 Ah
+: 3945 34 25 ~
+: 3980 35 24 ~
+: 4016 36 23 ~
+: 4053 35 22 ~
+: 4089 35 21 ~
+: 4125 37 20 ~
+: 4163 34 19 ~
+: 4198 62 18 ~
+: 4261 2 27 ~ 
+- 4315
+R 4526 3 13 Lob
+R 4534 4 13 ster 
+- 4564
+R 4594 9 13 Rock 
+- 4629
+R 4662 3 13 Lob
+R 4671 4 13 ster 
+- 4701
+R 4731 10 13 Rock 
+- 4793
+: 5016 5 20 Let’s 
+: 5024 8 19 rock!
+: 5033 3 17 ~ 
+- 5088
+: 5307 6 7 Boys 
+: 5316 3 5 in 
+* 5320 2 7 bi
+* 5324 3 5 ki
+: 5328 6 5 nis, 
+- 5344
+* 5377 7 7 Girls 
+: 5386 2 5 and 
+: 5391 3 5 surf
+* 5400 9 5 boards 
+- 5419
+: 5447 2 5 E
+: 5452 2 5 very
+: 5456 3 5 bo
+: 5460 2 5 dy’s 
+: 5464 3 5 rock
+: 5469 6 5 in’ 
+- 5485
+: 5517 3 5 E
+: 5522 2 5 very
+: 5526 3 5 bo
+: 5530 2 5 dy’s 
+: 5535 3 5 fru
+: 5539 5 5 gin’ 
+- 5554
+R 5588 3 1 Twist
+R 5593 2 1 in’ 
+R 5597 2 1 ’round 
+R 5601 1 1 the 
+R 5606 14 1 fire 
+R 5623 3 1 hav
+R 5627 2 1 in’ 
+- 5635
+R 5638 8 1 Fun 
+- 5672
+R 5727 3 1 Bak
+R 5733 4 1 in’ 
+R 5740 1 1 po
+R 5744 4 1 ta
+R 5749 7 1 toes 
+R 5762 3 1 bak
+R 5767 3 1 in’ 
+R 5771 3 1 in 
+R 5775 1 1 the 
+R 5780 9 1 sun 
+- 5815
+R 5867 3 1 Put 
+R 5871 6 1 on 
+R 5879 3 1 your 
+R 5884 4 1 nose
+R 5893 13 1 guard, 
+- 5916
+R 5936 5 1 Put 
+R 5942 5 1 on 
+R 5950 2 1 the 
+R 5954 4 1 life
+R 5963 12 1 guard 
+- 5985
+R 6012 4 1 Pass 
+R 6020 2 1 the 
+R 6025 5 1 tan
+R 6031 4 1 ning 
+R 6040 4 1 but
+R 6045 11 1 ter 
+- 6082
+R 6149 5 1 Here 
+R 6157 2 1 comes 
+R 6161 1 1 a 
+R 6167 3 1 sting
+R 6174 8 1 ray 
+- 6192
+R 6219 6 1 There 
+R 6228 3 1 goes 
+R 6232 2 1 a 
+R 6236 4 1 man
+R 6242 2 1 ta 
+R 6245 8 1 ray 
+- 6263
+R 6289 4 1 In 
+R 6297 3 1 walked 
+R 6302 2 1 a 
+R 6307 2 1 jel
+R 6310 2 1 ly
+R 6316 6 1 fish, 
+- 6332
+R 6360 6 1 There 
+R 6369 3 1 goes 
+R 6373 2 1 a 
+R 6377 6 1 dog
+R 6387 6 1 fish 
+- 6403
+R 6431 3 1 Chased 
+R 6440 3 1 by 
+R 6444 1 1 a 
+R 6449 4 1 cat
+R 6459 6 1 fish 
+- 6475
+R 6502 4 1 In 
+R 6511 2 1 flew 
+R 6514 2 1 a 
+R 6520 7 1 sea 
+R 6528 4 1 rob
+R 6533 7 1 in 
+- 6550
+R 6577 2 1 Watch 
+R 6581 3 1 out 
+R 6585 1 1 for 
+R 6587 3 1 that 
+R 6593 3 1 pi
+R 6598 5 1 ra
+R 6604 5 1 nha, 
+- 6619
+R 6644 6 1 There 
+R 6652 3 1 goes 
+R 6657 2 1 a 
+R 6661 7 1 nar
+R 6670 12 1 whal 
+- 6692
+R 6727 3 1 Here 
+R 6732 3 1 comes 
+R 6737 1 1 a 
+R 6739 3 1 bi
+R 6746 5 1 ki
+R 6753 8 1 ni 
+R 6762 36 1 whale! 
+- 6850
+: 7063 5 5 Rock 
+- 7074
+: 7077 4 5 Lob
+: 7089 8 5 ster, 
+- 7107
+: 7133 5 5 Rock 
+- 7145
+: 7148 3 5 Lob
+: 7161 8 5 ster 
+- 7179
+: 7204 4 5 Rock 
+- 7215
+: 7218 3 5 Lob
+: 7232 8 5 ster, 
+- 7250
+: 7274 4 5 Rock 
+- 7286
+: 7289 4 5 Lob
+: 7303 6 5 ster 
+- 7335
+: 7380 8 24 Ah
+: 7389 9 22 ~
+: 7399 7 20 ~
+: 7407 8 19 ~
+: 7416 5 17 ~ 
+- 7431
+: 7451 8 24 Ah
+: 7460 8 22 ~
+: 7469 8 20 ~
+: 7478 7 19 ~
+: 7486 4 17 ~ 
+E

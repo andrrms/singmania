@@ -1,0 +1,136 @@
+#ARTIST:Dark Circle Knights
+#TITLE:The Desert
+#MP3:Dark Circle Knights - The Desert.mp3
+#CREATOR:field3
+#GENRE:Rock
+#YEAR:2011
+#LANGUAGE:English
+#BPM:400
+#GAP:9370
+#VIDEO:a=Bu6qO71zrA8,co=https://is1-ssl.mzstatic.com/image/thumb/Music/ce/1a/31/mzi.toqcurkx.jpg/5000x5000bb.jpg
+: 0 2 18 Des
+: 6 5 15 pite 
+: 19 3 20 my 
+: 25 3 23 bro
+: 31 4 21 ken 
+: 40 17 23 wings 
+- 59
+: 70 3 20 Is 
+: 78 4 21 my 
+: 91 4 23 life 
+: 101 8 24 your 
+* 117 25 19 soul 
+- 144
+: 234 4 21 I 
+: 241 6 21 think 
+: 252 3 23 a
+: 259 9 24 bout 
+: 272 18 26 my 
+: 311 3 23 blue 
+: 319 4 22 e
+: 325 5 21 yed 
+: 337 31 20 girl 
+- 370
+* 433 52 20 So 
+: 524 5 23 I 
+: 534 8 24 was 
+: 550 33 23 wrong 
+- 585
+: 622 6 25 Sin
+: 634 5 26 ging 
+: 648 3 23 a 
+* 656 26 20 song 
+- 684
+: 751 3 20 Yeah 
+: 758 5 21 I’m 
+: 767 6 24 loo
+: 794 10 21 sing 
+: 810 4 21 my 
+: 819 20 25 soul 
+: 857 11 24 once 
+: 873 3 23 a
+: 879 26 22 gain 
+- 907
+: 995 3 25 I’m 
+: 1001 3 25 far 
+: 1009 4 25 a
+: 1015 7 24 way 
+: 1025 8 24 from 
+* 1040 44 25 life 
+- 1086
+: 1103 3 23 Have 
+: 1110 3 24 a 
+* 1119 4 25 lu
+* 1129 3 22 ci
+* 1136 3 20 fer 
+: 1145 3 21 in
+: 1158 25 24 side 
+- 1185
+: 1210 3 24 I’m 
+: 1216 3 26 far 
+: 1223 3 25 a
+: 1228 4 25 way 
+* 1238 5 23 from 
+* 1247 5 29 my 
+* 1255 39 27 dreams 
+- 1295
+: 1296 4 21 In 
+: 1303 2 22 the 
+: 1311 3 22 de
+: 1318 9 24 sert 
+: 1331 2 24 I 
+: 1339 6 22 found 
+: 1350 3 21 my 
+: 1360 3 19 self 
+: 1371 31 20 crying 
+- 1404
+: 1587 56 20 So 
+: 1663 4 21 e
+: 1673 3 23 ve
+: 1683 3 21 ry
+: 1689 8 20 thing 
+: 1699 3 21 I 
+: 1711 26 23 do 
+- 1739
+: 1791 5 19 No 
+: 1799 4 20 I 
+: 1807 38 23 can’t 
+: 1850 6 20 for
+: 1861 35 25 get 
+: 1898 5 24 a
+: 1908 6 24 bout 
+: 1927 32 22 you 
+- 1961
+: 2035 2 24 I’m 
+: 2041 3 25 far 
+: 2047 3 25 a
+: 2055 5 26 way 
+: 2062 5 24 from 
+: 2076 48 26 life 
+- 2126
+: 2145 3 23 Have 
+: 2152 4 25 a 
+: 2160 3 26 lu
+: 2169 2 22 ci
+: 2175 5 22 fer 
+: 2181 3 21 in
+* 2189 25 23 side 
+- 2216
+: 2253 3 25 I’m 
+: 2257 5 26 far 
+: 2266 5 25 a
+: 2272 5 26 way 
+: 2279 8 24 from 
+: 2291 9 29 my 
+* 2302 35 25 dreams 
+- 2338
+: 2338 4 20 In 
+: 2345 7 23 the 
+: 2354 3 23 de
+: 2364 6 24 sert 
+: 2374 3 25 I 
+: 2382 7 22 found 
+: 2394 5 23 my 
+: 2402 3 24 self 
+: 2413 44 26 crying 
+E

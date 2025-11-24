@@ -1,0 +1,542 @@
+#ARTIST:Blondie
+#TITLE:Rapture
+#MP3:Blondie - Rapture.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2010 Vol. 3
+#GENRE:Rock
+#YEAR:1980
+#LANGUAGE:English
+#BPM:399.4
+#GAP:35480
+#VIDEO:v=pHCdS7O248g,co=rapture-60670889992c7.jpg,bg=blondie-4eccaa3c16033.jpg
+: 0 13 11 Toe
+: 14 8 12 ~ 
+: 28 5 11 to
+: 34 5 9 ~ 
+: 46 29 11 toe 
+- 77
+: 88 10 7 Danc
+: 103 13 9 ing 
+: 118 4 9 ve
+: 123 8 11 ~
+: 133 4 7 ry 
+- 139
+: 147 37 4 Close 
+- 186
+: 208 14 4 Bo
+: 224 7 11 dy 
+: 237 16 9 breath
+* 254 5 7 ~
+: 260 46 9 ing 
+- 308
+: 325 13 7 Al
+: 340 7 9 most 
+: 354 4 9 co
+: 359 9 11 ~
+: 370 4 16 ma
+: 379 61 4 tose 
+- 442
+: 472 14 11 Wall
+: 487 11 12 ~ 
+: 503 6 11 to
+: 510 11 9 ~ 
+: 523 29 11 wall 
+- 554
+: 562 10 7 Peo
+: 576 12 9 ple 
+: 590 3 9 hyp
+: 594 5 11 ~
+: 606 8 7 no
+: 622 5 4 tized
+: 628 21 2 ~
+: 650 20 4 ~ 
+- 672
+: 679 12 4 And 
+: 695 9 4 they’re 
+* 709 24 5 step
+: 738 12 9 ping 
+- 752
+: 770 19 7 Light
+: 798 3 11 ly
+: 802 3 12 ~
+: 806 12 11 ~ 
+- 820
+: 827 25 5 Hang 
+: 856 21 9 each 
+- 879
+: 886 22 12 Night
+: 909 2 7 ~ 
+- 913
+: 915 21 7 In
+: 937 6 4 ~ 
+: 945 15 4 rap
+: 961 8 3 ~
+: 975 61 4 ture 
+- 1038
+: 1181 13 11 Back
+: 1195 8 12 ~ 
+: 1209 6 11 to
+: 1216 8 9 ~ 
+: 1227 29 11 back 
+- 1258
+: 1270 12 7 Sa
+: 1286 13 9 cro
+: 1300 3 9 i
+: 1304 8 11 ~
+: 1314 6 7 li
+: 1322 40 4 ac 
+- 1364
+: 1388 12 4 Spine
+: 1404 8 11 less 
+- 1414
+* 1420 13 9 Move
+: 1434 5 8 ~
+: 1447 7 9 ment
+* 1455 7 11 ~
+* 1463 5 9 ~
+* 1469 7 8 ~
+: 1477 18 9 ~ 
+- 1497
+: 1508 10 7 And 
+: 1522 11 9 a 
+: 1535 13 11 wild 
+: 1552 3 16 at
+: 1559 59 4 tack 
+- 1620
+: 1655 12 11 Face
+: 1668 8 12 ~ 
+: 1683 7 11 to
+: 1691 5 9 ~ 
+: 1702 27 11 face 
+- 1731
+: 1743 10 7 Sight
+: 1758 5 9 less 
+- 1765
+: 1771 3 9 So
+: 1775 11 11 ~
+: 1788 4 7 li
+: 1798 48 4 tude 
+- 1848
+: 1859 12 4 And 
+: 1875 7 4 it’s 
+- 1884
+: 1890 26 5 Fin
+: 1919 4 5 ger
+* 1924 13 9 ~ 
+* 1948 24 7 pop
+* 1978 3 11 ping
+: 1982 3 12 ~
+* 1986 7 11 ~ 
+- 1995
+: 2010 7 5 Twen
+: 2022 5 5 ty-
+: 2030 5 5 four 
+: 2038 12 9 ho
+: 2052 9 9 ur 
+: 2067 20 12 shop
+: 2088 5 7 ~
+: 2097 11 7 ping 
+- 2110
+: 2112 13 7 In
+: 2126 6 4 ~ 
+- 2134
+: 2140 11 4 Rap
+: 2152 14 3 ~
+: 2173 52 4 ture 
+- 2227
+F 2593 5 5 Fab 
+F 2602 4 5 Five 
+F 2609 2 5 Fred
+F 2612 2 5 die 
+F 2617 3 5 told 
+F 2622 1 5 me 
+F 2624 2 5 e
+F 2628 2 5 very
+F 2632 2 5 bo
+F 2635 2 5 dy’s 
+F 2641 9 5 fly 
+- 2652
+F 2654 2 5 D
+F 2658 5 5 J 
+F 2667 3 5 spin
+F 2672 1 5 nin’ 
+F 2674 2 5 I 
+F 2680 6 5 said 
+F 2691 5 5 my 
+F 2699 10 5 my 
+- 2711
+F 2713 2 5 Flash 
+F 2718 2 5 is 
+F 2725 8 5 fast 
+- 2735
+F 2741 2 5 Flash 
+F 2746 2 5 is 
+F 2753 6 5 cool 
+- 2761
+F 2763 4 5 Fran
+F 2771 5 5 çois 
+F 2779 2 5 c’est 
+F 2783 7 5 pas 
+F 2795 3 5 Flash
+F 2802 3 5 é 
+F 2806 3 5 non 
+F 2812 5 5 du 
+- 2819
+F 2823 3 5 And 
+F 2827 2 5 you 
+F 2831 3 5 don’t 
+F 2839 7 5 stop 
+- 2848
+F 2860 4 5 Sure 
+F 2867 8 5 shot 
+- 2877
+F 2882 5 5 Go 
+F 2890 6 5 out 
+- 2898
+F 2905 6 5 To 
+F 2916 2 5 the 
+F 2920 4 5 park
+F 2926 2 5 in’ 
+F 2929 6 5 lot 
+- 2937
+F 2941 3 5 And 
+F 2945 2 5 you 
+F 2950 2 5 get 
+F 2953 5 5 in 
+F 2959 2 5 your 
+F 2963 6 5 car 
+F 2971 3 5 and 
+F 2977 5 5 drive 
+F 2985 4 5 real 
+F 2992 4 5 far 
+- 2998
+F 3000 2 5 And 
+F 3003 2 5 you 
+F 3008 3 5 drive 
+F 3013 4 5 all 
+F 3020 3 5 night 
+- 3025
+F 3027 1 5 And 
+F 3029 2 5 then 
+F 3032 2 5 you 
+F 3038 3 5 see 
+F 3042 4 5 a 
+F 3047 5 5 light 
+- 3054
+F 3057 2 5 And 
+F 3060 2 5 it 
+F 3065 4 5 comes 
+F 3072 4 5 right 
+- 3078
+F 3080 7 5 Down 
+F 3088 2 5 and 
+F 3091 2 5 it 
+F 3095 5 5 lands 
+F 3102 3 5 on 
+F 3107 2 5 the 
+F 3110 4 5 ground 
+- 3116
+F 3118 4 5 And 
+F 3125 6 5 out 
+- 3133
+F 3139 6 5 Comes 
+F 3148 3 5 a 
+F 3152 6 5 man 
+F 3162 2 5 from 
+F 3166 6 5 Mars 
+- 3174
+F 3176 3 5 And 
+F 3180 2 5 you 
+F 3185 5 5 try 
+F 3191 2 5 to 
+F 3195 8 5 run 
+F 3207 2 5 but 
+F 3210 2 5 he’s 
+F 3215 4 5 got 
+F 3220 2 5 a 
+F 3225 7 5 gun 
+- 3234
+F 3236 3 5 And 
+F 3240 2 5 he 
+F 3244 2 5 shoots 
+F 3250 2 5 you 
+F 3254 5 5 dead 
+- 3261
+F 3267 3 5 And 
+F 3271 2 5 he 
+F 3274 3 5 eats 
+F 3281 2 5 your 
+F 3284 8 5 head 
+- 3294
+F 3298 3 5 And 
+F 3302 4 5 then 
+F 3309 4 5 you’re 
+F 3315 7 5 in 
+F 3324 2 5 the 
+F 3328 8 5 man 
+F 3339 2 5 from 
+F 3343 7 5 Mars 
+- 3352
+F 3354 2 5 You 
+F 3358 2 5 go 
+F 3361 5 5 out 
+F 3368 2 5 at 
+F 3372 5 5 night 
+- 3379
+F 3391 3 5 Eat
+F 3396 4 5 in’ 
+F 3402 4 5 cars 
+- 3408
+F 3410 2 5 You 
+F 3413 2 5 eat 
+F 3420 4 5 Ca
+F 3426 2 5 dil
+F 3429 7 5 lacs 
+- 3438
+F 3450 3 5 Lin
+F 3456 2 5 colns 
+F 3462 7 5 too 
+- 3471
+F 3479 3 5 Mer
+F 3486 2 5 cu
+F 3489 9 5 ries 
+F 3500 5 5 and 
+F 3509 3 5 Su
+F 3514 3 5 ba
+F 3518 7 5 ru 
+- 3527
+F 3529 2 5 And 
+F 3532 2 5 you 
+F 3538 3 5 don’t 
+F 3545 6 5 stop 
+- 3553
+F 3560 4 5 You 
+F 3569 5 5 keep 
+- 3576
+F 3583 9 5 On 
+F 3599 3 5 eat
+F 3603 3 5 in’ 
+F 3609 11 5 cars 
+- 3622
+F 3629 6 5 Then 
+- 3637
+F 3643 5 5 When 
+F 3650 4 5 there’s 
+F 3657 3 5 no 
+F 3662 4 5 more 
+F 3668 6 5 cars 
+F 3677 1 5 you 
+F 3679 6 5 go 
+F 3687 5 5 out 
+F 3693 2 5 at 
+F 3698 6 5 night 
+- 3706
+F 3708 4 5 And 
+F 3715 2 5 eat 
+F 3719 3 5 up 
+F 3727 9 5 bars 
+F 3739 3 5 where 
+F 3743 2 5 the 
+F 3746 2 5 peo
+F 3749 5 5 ple 
+F 3756 3 5 meet 
+- 3761
+F 3773 4 5 Face 
+F 3780 2 5 to 
+F 3785 6 5 face, 
+F 3796 4 5 dance, 
+F 3805 3 5 cheek 
+F 3811 2 5 to 
+F 3816 5 5 cheek 
+- 3823
+F 3833 5 5 One 
+F 3842 2 5 to 
+F 3845 8 5 one 
+- 3855
+F 3863 4 5 Man 
+F 3870 2 5 to 
+F 3874 6 5 man 
+- 3882
+F 3884 4 5 Dance 
+F 3893 5 5 toe 
+F 3899 2 5 to 
+F 3903 9 5 toe, 
+F 3915 5 5 don’t 
+F 3923 3 5 move 
+F 3929 2 5 too 
+F 3934 6 5 slow 
+- 3942
+F 3944 3 5 ’Cause 
+F 3950 1 5 the 
+F 3952 5 5 man 
+F 3960 2 5 from 
+F 3964 7 5 Mars 
+F 3974 2 5 is 
+- 3978
+F 3982 3 5 Through 
+F 3986 2 5 with 
+F 3992 9 5 cars 
+F 4004 5 5 he’s 
+F 4011 3 5 eat
+F 4016 4 5 in’ 
+F 4022 7 5 bars 
+- 4031
+F 4033 7 5 Yeah, 
+F 4042 5 5 wall 
+F 4049 2 5 to 
+F 4052 10 5 wall 
+- 4064
+F 4070 5 5 Door 
+F 4078 2 5 to 
+F 4082 10 5 door 
+- 4094
+F 4100 5 5 Hall 
+F 4108 2 5 to 
+F 4111 4 5 hall 
+- 4117
+F 4119 2 5 He’s 
+F 4123 2 5 gon
+F 4126 2 5 na 
+F 4130 2 5 eat 
+F 4133 3 5 ’em 
+F 4140 11 5 all 
+- 4153
+F 4158 6 5 Rap
+F 4173 9 5 ture 
+F 4187 4 5 be 
+F 4195 11 5 pure 
+- 4208
+F 4217 4 5 Take 
+F 4224 2 5 a 
+F 4228 11 5 tour 
+- 4241
+F 4248 3 5 Through 
+F 4252 2 5 the 
+F 4257 6 5 sewer 
+- 4265
+F 4267 3 5 Don’t 
+F 4276 6 5 strain 
+F 4283 2 5 your 
+F 4287 10 5 brain 
+- 4299
+F 4306 6 5 Paint 
+F 4314 2 5 a 
+F 4317 13 5 train 
+- 4332
+F 4336 5 5 You’ll 
+F 4343 2 5 be 
+F 4351 3 5 sing
+F 4355 5 5 in’ 
+F 4365 4 5 in 
+F 4371 2 5 the 
+F 4375 7 5 rain 
+- 4384
+F 4386 3 5 Said 
+F 4395 3 5 don’t 
+F 4402 8 5 stop 
+- 4412
+F 4418 3 5 To 
+F 4424 3 5 punk 
+F 4432 9 5 rock 
+- 4443
+F 6364 6 5 Well 
+F 6372 5 5 now 
+F 6379 2 5 you 
+F 6385 7 5 see 
+F 6394 2 5 what 
+F 6400 1 5 you 
+F 6402 3 5 wan
+F 6407 2 5 na 
+F 6412 8 5 be 
+- 6422
+F 6424 2 5 Just 
+F 6431 5 5 have 
+F 6438 4 5 your 
+F 6446 4 5 par
+F 6452 2 5 ty 
+F 6455 7 5 on 
+F 6467 6 5 T
+F 6475 4 5 V 
+- 6481
+F 6483 2 5 ’Cause 
+F 6487 2 5 the 
+F 6490 5 5 man 
+F 6498 2 5 from 
+F 6501 8 5 Mars 
+F 6512 5 5 won’t 
+F 6521 2 5 eat 
+F 6524 3 5 up 
+F 6530 7 5 bars 
+- 6539
+F 6541 3 5 Where 
+F 6546 2 5 the 
+F 6550 3 5 T
+F 6554 2 5 V’s 
+F 6559 7 5 on 
+- 6568
+F 6576 2 5 And 
+F 6579 4 5 now 
+F 6586 3 5 he’s 
+F 6594 6 5 gone 
+F 6602 3 5 back 
+F 6608 2 5 up 
+F 6614 2 5 to 
+F 6619 4 5 space 
+- 6625
+F 6633 3 5 Where 
+F 6637 3 5 he 
+F 6641 2 5 won’t 
+F 6644 3 5 have 
+F 6648 2 5 a 
+F 6651 3 5 has
+F 6657 1 5 sle 
+F 6659 2 5 with 
+F 6663 2 5 the 
+F 6666 3 5 hu
+F 6670 3 5 man 
+- 6675
+F 6677 6 5 Race 
+- 6685
+F 6689 3 5 And 
+F 6693 2 5 you 
+F 6696 4 5 hip- 
+F 6701 5 5 hop 
+- 6708
+F 6720 2 5 And 
+F 6723 2 5 you 
+F 6727 2 5 don’t 
+F 6735 5 5 stop 
+- 6742
+F 6750 2 5 Just 
+F 6757 3 5 blast 
+F 6765 5 5 off 
+- 6772
+F 6785 3 5 Sure 
+F 6792 4 5 shot 
+- 6798
+F 6806 3 5 ’Cause 
+F 6810 2 5 the 
+F 6814 4 5 man 
+F 6821 2 5 from 
+F 6825 6 5 Mars 
+- 6833
+F 6836 4 5 Stopped 
+F 6843 4 5 eat
+F 6849 3 5 in’ 
+F 6854 11 5 cars 
+F 6868 4 5 and 
+F 6873 3 5 eat
+F 6879 4 5 in’ 
+F 6885 8 5 bars 
+- 6895
+F 6897 4 5 And 
+F 6903 7 5 now 
+F 6912 5 5 he 
+F 6919 6 5 on
+F 6926 4 5 ly 
+F 6931 2 5 eats 
+F 6940 2 5 gui
+F 6944 9 5 tars 
+F 6956 2 5 get 
+F 6959 2 5 up! 
+E

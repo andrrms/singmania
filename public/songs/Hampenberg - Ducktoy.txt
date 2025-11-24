@@ -1,0 +1,63 @@
+#ARTIST:Hampenberg
+#TITLE:Ducktoy
+#MP3:Hampenberg - Ducktoy.mp3
+#CREATOR:Lolomazz
+#YEAR:2001
+#LANGUAGE:English
+#BPM:275.85
+#GAP:23380
+#VIDEO:v=3P04EbzCKgE,co=https://m.media-amazon.com/images/I/31QF118AEJL.jpg
+: 0 7 0 Are 
+: 11 6 0 you 
+: 25 17 0 bester? 
+- 44
+: 92 12 0 Bester 
+- 106
+: 153 12 0 Bester 
+- 167
+: 219 12 0 Bester 
+- 233
+: 290 11 -4 Woo 
+- 303
+: 358 11 -4 Woo 
+- 371
+: 421 10 -4 Woo 
+- 433
+: 484 11 -4 Woo 
+- 497
+: 2134 16 0 Are 
+: 2154 6 0 you 
+: 2168 17 0 bester? 
+- 2187
+: 2207 8 -1 All 
+: 2216 6 0 on 
+: 2226 6 0 in 
+- 2234
+: 2274 5 0 All 
+: 2280 4 0 need 
+: 2285 6 0 in 
+- 2293
+: 2332 11 1 Oh 
+: 2344 5 0 yeah
+* 2350 6 -1 ~ 
+- 2358
+: 2399 6 0 I 
+: 2407 6 0 will 
+: 2415 6 0 it 
+- 2423
+: 2978 6 1 All 
+: 2985 6 0 on 
+: 2995 6 -1 in 
+- 3003
+: 3043 5 0 All 
+: 3049 4 0 need 
+: 3054 6 0 in 
+- 3062
+: 3103 9 1 Oh 
+: 3113 5 0 yeah
+: 3119 6 -1 ~ 
+- 3127
+: 3168 6 0 I 
+: 3176 6 0 will 
+* 3184 6 0 it 
+E

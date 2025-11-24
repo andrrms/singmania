@@ -1,0 +1,254 @@
+#ARTIST:Frank Sinatra
+#TITLE:Strangers In The Night
+#MP3:Frank Sinatra - Strangers In The Night.mp3
+#CREATOR:jalaat73
+#YEAR:1966
+#LANGUAGE:English
+#BPM:318
+#GAP:11240
+#VIDEO:a=BTOeRwIUnG0,co=strangers-in-the-night-51d04473adf78.jpg,bg=frank-sinatra-4de018d4c92ad.jpg
+: 0 8 5 Stran
+: 12 5 7 gers 
+: 20 2 7 in 
+: 23 2 5 the 
+: 27 23 7 night 
+- 52
+: 64 5 5 Ex
+: 72 5 7 chan
+: 80 5 9 ging 
+: 88 6 7 glan
+: 96 10 5 ces 
+- 108
+: 112 5 4 Won
+: 120 4 5 d’ring 
+* 128 4 5 in 
+: 136 2 4 the 
+* 140 20 5 night 
+- 162
+: 176 5 4 What 
+: 184 5 5 were 
+: 192 2 7 the 
+: 196 9 5 chan
+: 208 8 4 ces 
+- 218
+: 228 4 2 We’d 
+: 236 3 4 be 
+* 242 6 4 sha
+: 250 3 2 ring 
+: 255 15 4 love 
+- 272
+: 293 5 2 Be
+: 301 5 4 fore 
+: 308 3 5 the 
+* 313 13 4 night 
+: 328 7 2 was 
+* 339 53 10 through 
+- 394
+: 455 6 7 Some
+: 463 5 9 thing 
+: 471 6 9 in 
+: 479 3 7 your 
+: 484 24 9 eyes 
+- 510
+: 520 10 7 Was 
+: 534 3 9 so 
+: 539 4 10 in
+: 545 5 9 vi
+: 552 8 7 ting 
+- 562
+: 568 6 5 Some
+: 576 5 7 thing 
+: 584 3 7 in 
+: 589 5 5 your 
+: 597 24 7 smile 
+- 623
+: 628 7 5 Was 
+: 638 4 7 so 
+: 645 5 9 ex
+: 653 6 7 ci
+: 661 7 5 ting 
+- 670
+: 680 6 4 Some
+: 688 4 5 thing 
+: 695 5 5 in 
+: 703 5 4 my 
+: 712 10 5 heart 
+- 724
+: 746 5 4 Told 
+: 755 5 5 me 
+: 763 4 7 I 
+: 770 10 5 must 
+: 788 7 4 have 
+: 798 88 12 you 
+- 888
+: 907 9 12 Stran
+: 918 7 10 gers 
+: 927 2 10 in 
+: 930 1 9 the 
+: 932 14 9 night 
+- 948
+: 973 3 9 Two 
+: 979 7 10 lone
+: 988 4 12 ly 
+: 996 5 12 peo
+: 1004 3 10 ple, 
+: 1010 3 10 we 
+: 1016 4 9 were 
+- 1022
+: 1024 7 12 Stran
+: 1034 6 10 gers 
+: 1044 2 10 in 
+: 1048 2 9 the 
+: 1052 12 9 night 
+- 1066
+: 1083 4 9 Up 
+: 1091 3 10 to 
+: 1097 2 12 the 
+: 1100 5 12 mo
+: 1107 8 10 ment 
+- 1116
+: 1116 4 10 When 
+: 1122 4 9 we 
+: 1130 5 10 said 
+: 1138 5 9 our 
+: 1145 4 9 first 
+: 1153 3 7 hel
+: 1158 8 7 lo 
+- 1168
+: 1188 3 10 Lit
+* 1193 5 9 tle 
+* 1202 3 9 did 
+: 1208 2 7 we 
+: 1212 14 7 know 
+- 1228
+: 1245 5 10 Love 
+: 1252 4 9 was 
+: 1259 5 9 just 
+: 1267 2 7 a 
+: 1271 7 7 glance 
+: 1283 4 5 a
+: 1289 7 5 way 
+- 1298
+: 1301 4 5 A 
+: 1307 5 9 warm 
+: 1315 4 7 em
+: 1321 6 7 bra
+: 1329 5 5 cing 
+: 1338 9 5 dance 
+: 1350 8 4 a
+: 1360 7 2 way 
+: 1372 13 4 and 
+- 1387
+: 1391 3 5 E
+: 1397 3 7 ver 
+: 1402 6 7 since 
+: 1411 5 5 that 
+: 1418 14 7 night 
+- 1434
+: 1451 5 5 We’ve 
+: 1459 6 7 been 
+: 1469 4 9 to
+: 1475 5 7 ge
+: 1482 8 5 ther 
+- 1492
+: 1499 3 4 Lo
+: 1504 7 5 vers 
+: 1516 4 5 at 
+: 1522 6 4 first 
+: 1532 14 5 sight 
+- 1548
+: 1565 4 4 In 
+* 1572 9 5 love 
+: 1584 5 7 for
+: 1591 3 5 e
+: 1596 7 4 ver 
+- 1605
+: 1612 4 2 It 
+: 1620 5 4 turned 
+: 1628 4 4 out 
+: 1636 5 2 so 
+: 1644 12 4 right 
+- 1658
+: 1673 4 4 For 
+: 1681 10 5 stran
+: 1694 6 7 gers 
+: 1703 10 5 in 
+: 1716 3 4 the 
+* 1721 67 5 night 
+- 1790
+: 2160 7 10 Love 
+: 2169 6 9 was 
+: 2177 6 9 just 
+: 2187 2 7 a 
+: 2191 11 7 glance 
+: 2206 4 5 a
+: 2213 12 5 way 
+- 2226
+: 2226 4 5 A 
+: 2232 9 9 warm 
+: 2244 5 7 em
+: 2253 5 7 bra
+: 2262 5 5 cing 
+* 2270 13 5 dance 
+: 2288 13 4 a
+: 2304 14 2 way 
+- 2320
+: 2346 6 7 E
+: 2355 3 9 ver 
+: 2361 6 9 since 
+: 2371 4 7 that 
+: 2378 17 9 night 
+- 2397
+: 2410 4 7 We’ve 
+: 2417 4 9 been 
+: 2424 5 11 to
+: 2431 3 9 ge
+: 2436 10 7 ther 
+- 2448
+: 2455 5 14 Lo
+: 2462 4 11 vers 
+: 2470 4 9 at 
+: 2477 5 7 first 
+: 2488 13 2 sight 
+- 2503
+: 2517 4 6 In 
+: 2524 4 7 love 
+: 2532 4 9 for
+: 2538 4 6 e
+: 2544 7 4 ver 
+- 2553
+: 2563 4 4 It 
+: 2571 5 6 turned 
+: 2579 3 6 out 
+: 2585 5 4 so 
+: 2592 17 6 right 
+- 2611
+: 2624 4 6 For 
+: 2632 9 7 stran
+: 2644 7 9 gers 
+: 2653 9 7 in 
+: 2665 3 6 the 
+: 2670 58 7 night 
+- 2730
+: 2780 6 7 Do
+: 2788 3 9 be
+: 2794 3 9 do
+: 2800 4 7 be
+: 2806 18 9 do 
+- 2826
+: 2844 4 7 Do
+: 2851 4 9 do
+: 2857 4 11 do
+: 2864 7 9 de
+: 2874 7 7 da 
+- 2883
+: 2884 6 6 Da
+: 2892 4 7 da
+: 2899 4 7 da
+: 2906 4 6 da
+: 2913 5 7 da 
+: 2920 6 2 ya
+: 2929 5 2 ya
+: 2936 6 -5 ya
+: 2945 6 -5 ~ 
+E

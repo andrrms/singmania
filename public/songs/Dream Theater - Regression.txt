@@ -1,0 +1,265 @@
+#ARTIST:Dream Theater
+#TITLE:Regression
+#MP3:Dream Theater - Regression.mp3
+#CREATOR:IC
+#YEAR:1999
+#LANGUAGE:English
+#BPM:220
+#GAP:10330
+#VIDEO:a=H2UHWFU5uFY,co=metropolis-part-2-scenes-from-a-memory-58ee58e7ec382.jpg,bg=dream-theater-4fe30600d2efc.jpg
+#START:6.0
+F 0 4 0 Close
+F 5 2 0  your
+F 8 4 0  eyes
+F 13 1 0  and
+F 15 2 0  be
+F 17 2 0 gin
+F 20 1 0  to
+F 22 2 0  re
+F 24 4 0 lax.
+- 36
+F 39 1 0 Take
+F 41 1 0  a
+F 43 4 0  deep
+F 48 7 0  breath,
+- 60
+F 62 2 0 And
+F 65 1 0  let
+F 67 1 0  it
+F 69 2 0  out
+F 72 5 0  slow
+F 77 3 0 ly.
+- 89
+F 93 3 0 Con
+F 96 4 0 cen
+F 100 3 0 trate
+F 104 1 0  on
+F 106 1 0  your
+F 108 4 0  brea
+F 112 4 0 thing.
+- 126
+F 130 2 0 With
+F 133 4 0  each
+F 138 4 0  breath
+F 143 1 0  you
+F 145 2 0  be
+F 147 3 0 come
+F 151 2 0  more
+F 154 2 0  re
+F 156 8 0 laxed.
+- 174
+F 182 2 0 I
+F 184 3 0 ma
+F 187 4 0 gine
+F 192 1 0  a
+F 194 3 0  bril
+F 197 4 0 liant
+F 202 3 0  white
+F 206 3 0  light
+F 210 2 0  a
+F 212 3 0 bove
+F 216 4 0  you,
+- 224
+F 226 3 0 Fo
+F 229 2 0 cus
+F 232 2 0  in
+F 235 2 0  on
+F 238 1 0  this
+F 240 3 0  light
+F 244 1 0  as
+F 246 2 0  it
+F 249 5 0  flows
+F 255 2 0  through
+F 258 1 0  your
+F 260 3 0  bo
+F 263 5 0 dy.
+- 274
+F 276 2 0 Al
+F 278 2 0 low
+F 281 2 0  your
+F 283 4 0 self
+F 288 2 0  to
+F 291 3 0  drift
+F 295 4 0  off
+F 300 1 0  as
+F 302 1 0  you
+F 304 4 0  fall
+F 309 3 0  dee
+F 312 3 0 per
+F 316 2 0  and
+F 319 3 0  dee
+F 322 2 0 per
+- 325
+F 327 2 0 In
+F 329 1 0 to
+F 331 1 0  a
+F 332 2 0  more
+F 335 2 0  re
+F 337 5 0 laxed
+F 343 2 0  state
+F 346 1 0  of
+F 348 6 0  mind.
+- 364
+F 368 1 0 Now
+F 370 1 0  as
+F 371 1 0  I
+F 373 3 0  count
+F 377 4 0  back
+F 382 1 0  from
+F 384 3 0  ten
+F 388 2 0  to
+F 391 2 0  one,
+- 394
+F 396 1 0 You
+F 398 1 0  will
+F 400 3 0  feel
+F 404 3 0  more
+F 408 3 0  peace
+F 411 5 0 ful,
+F 418 2 0  and
+F 421 5 0  calm.
+- 436
+F 444 8 0 Ten.
+F 469 8 0  Nine.
+F 496 8 0  Eight.
+F 519 4 0  Se
+F 523 4 0 ven.
+F 545 8 0  Six.
+- 565
+F 569 1 0 You
+F 571 1 0  will
+F 572 3 0  en
+F 575 1 0 ter
+F 577 1 0  a
+F 578 5 0  safe
+F 584 6 0  place
+F 591 2 0  where
+F 594 2 0  no
+F 596 3 0 thing
+F 600 1 0  can
+F 602 3 0  harm
+F 606 4 0  you.
+- 616
+F 618 10 0 Five.
+F 644 9 0  Four.
+F 671 10 0  Three.
+F 697 8 0  Two.
+- 716
+F 720 1 0 If
+F 722 1 0  at
+F 723 1 0  a
+F 724 2 0 ny
+F 727 3 0  time
+F 731 1 0  you
+F 733 1 0  need
+F 735 1 0  to
+F 737 1 0  come
+F 739 6 0  back
+- 750
+F 752 1 0 All
+F 754 1 0  you
+F 756 1 0  need
+F 758 1 0  to
+F 759 3 0  do
+F 763 1 0  is
+F 765 2 0  o
+F 767 1 0 pen
+F 769 2 0  your
+F 772 6 0  eyes.
+- 789
+F 793 6 0 One.
+- 805
+: 808 7 6 Safe
+: 816 7 6  in
+: 824 3 6  the
+: 828 11 6  light
+: 840 7 4  that
+: 848 6 2  sur
+: 854 7 6 rounds
+: 862 10 6  me
+- 886
+: 904 5 2 Free
+: 910 11 2  of
+: 922 3 2  the
+: 926 11 2  fear
+: 938 7 4  and
+: 946 3 2  the
+* 950 16 6  pain
+- 980
+: 996 3 -3 My
+: 1000 8 6  sub
+: 1008 8 6 con
+: 1016 7 7 scious
+: 1024 8 6  mind
+- 1039
+: 1042 7 -3 Starts
+: 1050 6 6  spin
+: 1056 9 6 ning
+: 1066 5 7  through
+: 1072 10 6  time
+- 1092
+: 1096 3 -3 To
+: 1100 4 4  re
+: 1104 11 4 join
+: 1116 3 2  the
+: 1120 9 6  past
+: 1130 9 4  once
+: 1140 4 2  a
+: 1144 12 4 gain
+- 1170
+: 1196 4 9 No
+: 1200 11 9 thing
+: 1212 5 9  seems
+: 1218 12 9  real
+- 1234
+: 1236 6 2 I’m
+: 1244 8 9  star
+: 1252 9 9 ting
+: 1262 3 9  to
+* 1266 14 9  feel
+- 1290
+: 1294 7 9 Lost
+: 1302 7 7  in
+: 1310 5 7  the
+: 1316 9 7  haze
+: 1326 7 6  of
+: 1334 3 4  a
+: 1338 4 7  dre
+: 1342 14 6 am
+- 1370
+: 1388 3 -3 And
+: 1392 3 6  as
+: 1396 5 6  I
+: 1402 7 7  draw
+: 1410 12 6  near
+- 1432
+: 1436 3 -3 The
+: 1440 7 6  scene
+: 1448 4 6  be
+: 1452 9 7 comes
+: 1462 12 6  clear
+- 1478
+: 1480 5 -3 Like
+: 1486 6 6  wat
+: 1492 7 4 ching
+: 1500 9 4  my
+: 1510 6 4  life
+: 1520 9 2  on
+: 1530 3 4  a
+* 1534 14 4  screen
+- 1562
+: 1584 6 7 Hel
+: 1590 9 7 lo
+: 1600 6 7  Vic
+: 1606 12 7 to
+: 1618 4 6 ri
+: 1622 4 6 a
+- 1630
+: 1632 7 6 So
+: 1640 7 4  glad
+: 1648 3 4  to
+: 1652 5 4  see
+: 1658 10 2  you
+: 1676 7 2  my
+: 1684 20 2  friend
+E

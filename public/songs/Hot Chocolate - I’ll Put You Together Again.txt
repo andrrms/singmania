@@ -1,0 +1,241 @@
+#ARTIST:Hot Chocolate
+#TITLE:I’ll Put You Together Again
+#MP3:Hot Chocolate - I’ll Put You Together Again.mp3
+#CREATOR:Fepo
+#GENRE:Disco
+#YEAR:1978
+#LANGUAGE:English
+#BPM:206.52
+#GAP:14680
+#VIDEO:v=iudHtuWXYeM,co=https://i.discogs.com/6JZNmpK8DwHMzQ3b6FLZX_30V7xoXW_VS8J8LBausmA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDUw/NC0xMTgxOTM0MjI2/LmpwZWc.jpeg,bg=hot-chocolate-5049c67a7e5e3.jpg
+: 0 4 -5 When 
+: 8 4 -1 you 
+: 16 4 2 can’t 
+: 24 4 0 take 
+- 30
+: 40 2 -3 A
+: 43 2 -6 ny 
+: 46 6 -5 more 
+- 54
+: 94 4 -5 When 
+: 101 4 -1 you 
+: 109 4 2 feel 
+: 116 4 4 your 
+: 124 7 0 life 
+: 136 2 4 is 
+: 140 4 7 o
+: 148 5 2 ver 
+- 155
+: 187 4 4 Put 
+: 195 4 0 down 
+: 203 3 4 your 
+: 210 5 2 tab
+: 217 4 7 lets 
+- 223
+: 230 2 2 And 
+: 234 4 0 pick 
+: 242 4 2 up 
+: 249 3 0 your 
+: 256 5 -1 pen 
+- 263
+: 273 2 -5 And 
+: 277 2 -6 I’ll 
+: 281 5 -8 put 
+: 289 4 -3 you 
+* 300 2 4 to
+* 304 5 2 ge
+* 312 4 -3 ther 
+: 324 2 -1 a
+: 328 3 -5 gain. 
+- 333
+: 424 3 -5 If 
+: 431 4 -1 your 
+: 438 4 2 faith 
+: 446 5 0 wi
+: 454 3 -3 thers 
+: 466 2 -6 a
+: 470 4 -5 way 
+- 476
+: 520 2 -5 If 
+: 524 4 -1 God 
+: 532 4 2 can’t 
+: 540 4 4 bring 
+: 548 5 0 you 
+: 559 2 4 your 
+: 563 5 7 an
+: 570 10 2 swe
+: 584 5 -1 ~r 
+- 591
+: 609 4 4 Write 
+: 617 5 0 me 
+: 629 2 4 a 
+: 633 5 2 let
+: 640 4 7 ter 
+- 646
+: 653 2 0 I’ll 
+: 657 3 3 read 
+: 664 3 -1 it 
+: 671 2 -3 a
+: 674 2 -1 ~nd 
+: 679 4 -5 then 
+- 685
+: 699 2 -8 I’ll 
+: 703 5 -5 put 
+: 711 4 0 you 
+* 722 2 4 to
+* 726 5 2 ge
+* 734 4 -3 ther 
+: 746 2 -1 a
+: 750 3 -5 gain. 
+- 755
+: 943 5 11 Put 
+: 952 3 11 us 
+: 964 2 11 to
+: 968 5 11 ge
+: 976 3 11 ther 
+- 981
+: 989 2 11 To
+: 993 2 9 ge
+: 997 2 7 ~
+: 1001 4 7 ther 
+: 1010 2 9 a
+: 1014 2 7 ~
+: 1019 6 7 gain 
+- 1027
+: 1044 4 12 Put 
+: 1052 4 12 us 
+: 1064 2 12 to
+: 1068 6 14 ge
+: 1076 3 12 ther 
+: 1089 3 12 a
+: 1094 14 11 gai
+: 1111 5 9 ~
+: 1119 10 7 ~n 
+- 1131
+: 1144 4 4 When 
+: 1152 4 0 things 
+: 1160 4 4 look 
+: 1168 5 2 hope
+: 1176 5 7 less 
+- 1183
+: 1189 2 2 Just 
+: 1193 4 4 write 
+: 1201 3 -1 me 
+: 1209 5 -1 and 
+: 1218 8 -5 then 
+- 1228
+: 1240 2 -10 I’ll 
+: 1244 5 -5 put 
+: 1252 4 0 you 
+* 1264 2 4 to
+* 1268 5 2 ge
+* 1276 4 -3 ther 
+: 1289 2 -1 a
+: 1293 3 -5 gain. 
+- 1298
+: 1768 4 -5 If 
+: 1775 4 -1 there’s 
+: 1783 4 2 no 
+: 1790 7 0 light 
+- 1799
+: 1807 2 -3 A
+: 1810 2 -6 ny
+: 1813 7 -5 where 
+- 1822
+: 1861 3 -5 And 
+: 1868 4 -1 you’ve 
+: 1876 4 2 got 
+: 1884 4 4 no 
+: 1892 4 0 one 
+- 1898
+: 1904 2 4 To 
+: 1908 4 7 turn 
+: 1916 7 2 to 
+- 1925
+: 1955 4 4 I’ll 
+: 1962 5 0 lead 
+: 1975 2 4 you 
+: 1979 4 2 out 
+: 1986 5 7 of 
+: 1996 3 2 the 
+: 2001 4 3 dark
+: 2007 5 -1 ness 
+: 2016 5 -1 and 
+: 2024 4 -5 then 
+- 2030
+: 2044 2 -10 I’ll 
+: 2048 5 -5 put 
+: 2056 4 0 you 
+* 2067 2 4 to
+* 2071 5 2 ge
+* 2079 4 -3 ther 
+: 2092 2 -1 a
+: 2096 3 -5 gain. 
+- 2101
+: 2284 5 11 Put 
+: 2292 3 11 us 
+: 2304 2 11 to
+: 2308 5 11 ge
+: 2316 3 11 ther 
+- 2321
+: 2330 2 11 To
+: 2334 2 9 ge
+: 2338 2 7 ~
+: 2342 4 7 ther 
+: 2351 2 9 a
+: 2355 2 7 ~
+: 2360 6 7 gain 
+- 2368
+: 2383 4 12 Put 
+: 2391 4 12 us 
+: 2403 2 12 to
+: 2407 6 14 ge
+: 2415 3 12 ther 
+: 2428 3 12 a
+: 2433 14 11 gai
+: 2450 5 9 ~
+: 2458 10 7 ~n 
+- 2470
+: 2480 4 4 Drop 
+: 2489 4 0 me 
+: 2503 2 4 a 
+: 2506 5 2 few 
+: 2513 5 7 lines 
+- 2520
+: 2531 4 3 Tel
+: 2539 4 6 ling 
+: 2547 5 9 me 
+: 2555 7 7 when 
+- 2564
+: 2573 2 -8 And 
+: 2577 2 -5 I’ll 
+: 2581 5 -5 put 
+: 2589 4 0 you 
+* 2600 2 4 to
+* 2604 5 2 ge
+* 2612 4 -3 ther 
+: 2624 2 -1 a
+: 2628 3 -5 gain. 
+- 2633
+: 2680 6 4 When 
+: 2689 4 0 things 
+: 2698 4 4 look 
+: 2706 4 2 hope
+: 2714 4 7 less 
+- 2720
+: 2726 2 2 Just 
+: 2730 4 3 write 
+: 2738 4 0 me 
+: 2745 4 -1 my 
+: 2754 4 -5 friend 
+- 2760
+: 2772 2 -6 And 
+: 2776 2 -5 I’ll 
+: 2780 4 -5 put 
+: 2788 4 0 you 
+* 2800 2 4 to
+* 2804 5 2 ge
+* 2812 4 -3 ther 
+: 2825 2 -1 a
+: 2829 3 -5 gain. 
+E

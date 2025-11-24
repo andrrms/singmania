@@ -1,0 +1,276 @@
+#ARTIST:Reel Big Fish
+#TITLE:I Want Your Girlfriend To Be My Girlfriend Too
+#MP3:Reel Big Fish - I Want Your Girlfriend To Be My Girlfriend Too.mp3
+#CREATOR:MarcX
+#YEAR:1995
+#LANGUAGE:English
+#BPM:388
+#GAP:8420
+#VIDEO:a=RUGKUFnMtWw,co=why-do-they-rock-so-hard-4fc9490b13254.JPG,bg=reel-big-fish-6181933364c2f.jpg,tags=explicit
+F 0 7 -2 Want 
+F 8 7 -2 your 
+F 16 7 -2 girl
+F 24 8 -2 friend 
+- 34
+: 290 5 -1 There’s 
+: 296 2 -1 a 
+: 300 7 -1 lit
+: 308 6 -1 tle 
+: 315 7 -3 girl 
+: 324 6 -5 I 
+: 332 8 -5 know 
+- 342
+: 353 5 -1 You 
+: 359 6 -1 might 
+: 368 4 -1 know 
+: 373 3 -1 her 
+: 378 10 -5 too 
+- 389
+: 390 3 -6 She 
+: 395 7 -5 looks 
+: 403 6 -3 so 
+: 412 12 -1 good 
+- 426
+: 440 7 14 Wo
+: 448 5 12 oh! 
+: 456 3 -6 She 
+: 460 6 -5 looks 
+: 467 6 -3 so 
+: 476 12 -1 cute 
+- 490
+: 510 8 -2 Stan
+: 519 4 -3 ding 
+: 524 6 -2 next 
+: 532 3 -3 to 
+: 536 12 -3 you 
+- 550
+: 628 4 -3 And 
+: 633 3 -3 I 
+: 637 7 -3 don’t 
+: 646 6 -3 know 
+: 654 5 -1 what 
+: 660 3 -3 to 
+: 664 20 -3 do 
+- 686
+: 744 4 2 I 
+: 750 6 2 want 
+: 758 4 2 your 
+: 764 6 2 girl
+: 771 7 2 friend 
+: 780 3 2 to 
+: 784 6 4 be 
+: 792 6 2 my 
+- 800
+: 806 4 2 I 
+: 812 6 2 want 
+: 820 4 2 your 
+: 826 6 2 girl
+: 834 6 -5 friend 
+: 842 3 -2 to 
+: 846 6 1 be 
+: 854 6 0 my 
+- 862
+: 866 4 2 I 
+: 872 6 2 want 
+: 880 4 2 your 
+: 886 6 2 girl
+: 893 7 6 friend 
+: 902 3 -3 to 
+: 906 6 -1 be 
+: 914 6 -2 my 
+: 922 6 -2 girl
+: 929 25 -3 friend, 
+: 972 8 6 too 
+- 982
+: 1238 5 -1 She’s 
+: 1245 5 -1 so 
+: 1253 4 -1 fuc
+: 1258 5 -1 king 
+: 1265 9 -5 cute 
+- 1276
+: 1298 4 1 I 
+: 1303 4 -2 wish 
+: 1308 4 -2 that 
+: 1314 6 -2 she 
+: 1322 6 -2 was 
+: 1330 12 -3 mine 
+- 1344
+: 1367 5 3 She’s 
+: 1374 5 3 so 
+: 1382 4 3 fuc
+: 1387 5 3 king 
+: 1394 9 3 cute 
+- 1404
+: 1404 3 0 I’m 
+: 1408 2 0 gon
+: 1411 3 0 na 
+: 1416 5 9 loose 
+: 1422 6 3 my 
+: 1430 12 -3 mind, 
+: 1462 12 -6 ba
+: 1475 9 -6 by 
+- 1486
+: 1490 3 -1 I 
+: 1495 8 3 don’t 
+: 1504 6 3 know 
+: 1512 5 3 what 
+: 1518 4 3 to 
+: 1524 8 3 do 
+- 1534
+: 1554 3 -1 I 
+: 1559 8 3 don’t 
+: 1568 6 3 know 
+: 1576 4 3 what 
+: 1582 4 3 to 
+: 1587 9 3 do 
+- 1598
+: 1652 7 8 May
+: 1660 5 8 be 
+: 1667 7 8 I 
+: 1676 6 1 could 
+: 1684 7 1 kill 
+: 1693 20 6 you~
+: 1715 6 7 u~
+: 1723 18 8 u 
+- 1743
+: 1758 3 2 I 
+: 1763 5 2 want 
+: 1770 6 2 your 
+: 1778 6 2 girl
+: 1785 7 2 friend 
+: 1793 2 2 to 
+: 1796 7 4 be 
+: 1805 8 2 my 
+- 1815
+: 1820 3 2 I 
+: 1825 5 2 want 
+: 1832 6 2 your 
+: 1840 6 2 girl
+: 1848 6 -5 friend 
+: 1855 2 -2 to 
+: 1858 6 1 be 
+: 1866 8 0 my 
+- 1876
+: 1880 3 2 I 
+: 1885 5 2 want 
+: 1892 6 2 your 
+: 1900 6 2 girl
+: 1907 7 0 friend 
+: 1915 2 -3 to 
+: 1918 6 -1 be 
+: 1925 6 -2 my 
+: 1933 7 -2 girl
+: 1941 23 -3 friend, 
+: 1984 6 6 too 
+- 1992
+: 2424 26 11 I 
+: 2476 7 11 want 
+: 2485 5 10 your 
+: 2491 6 11 girl
+: 2498 20 6 friend 
+- 2520
+: 2557 3 8 To 
+: 2563 7 11 be 
+: 2580 7 11 be 
+: 2598 7 11 be 
+: 2612 7 11 be 
+: 2620 6 11 my 
+: 2628 8 11 girl
+: 2637 19 6 friend 
+- 2658
+F 2673 3 -8 Ooh 
+F 2677 4 -10 ooh 
+: 2694 8 3 She’s 
+: 2703 5 3 so 
+: 2709 7 3 cute I 
+: 2717 3 3 don’t 
+: 2721 4 3 know 
+: 2726 5 2 what 
+: 2732 3 2 to 
+: 2736 6 3 do 
+- 2744
+: 2752 6 1 May
+: 2759 3 1 be 
+: 2763 6 1 she 
+: 2770 6 -2 could 
+: 2778 6 -2 love 
+: 2785 5 -2 me 
+: 2791 7 1 too 
+- 2800
+: 2808 5 -2 I 
+: 2815 4 -2 want 
+: 2820 3 -2 your 
+: 2824 4 -2 girl
+: 2829 4 -7 friend 
+: 2834 2 -2 to 
+: 2837 3 -2 be 
+: 2841 6 -2 my 
+: 2849 4 -2 girl
+: 2854 4 -3 friend 
+- 2860
+: 2861 3 9 I 
+: 2865 5 9 want 
+: 2871 4 9 your 
+: 2876 6 9 girl
+: 2883 6 6 friend 
+- 2890
+: 2890 2 6 To 
+: 2893 4 9 be 
+: 2898 5 9 my 
+: 2905 5 9 girl
+: 2911 9 0 friend, 
+: 2921 29 -2 too
+: 2952 29 6 ~
+: 2989 15 -1 ~
+: 3008 12 7 ~
+: 3021 23 8 ~ 
+- 3046
+: 3053 4 2 I 
+: 3059 5 2 want 
+: 3065 6 2 your 
+: 3073 7 2 girl
+: 3081 6 2 friend 
+: 3088 3 2 to 
+: 3092 6 4 be 
+: 3099 9 2 my 
+- 3110
+: 3116 3 2 I 
+: 3121 5 2 want 
+: 3127 6 2 your 
+: 3135 6 2 girl
+: 3142 6 -5 friend 
+: 3149 3 -3 to 
+: 3153 5 1 be 
+: 3159 9 0 my 
+- 3170
+: 3173 3 2 I 
+: 3178 5 2 want 
+: 3184 6 2 your 
+: 3192 6 2 girl
+: 3199 6 7 friend 
+: 3206 3 -3 to 
+: 3210 5 -1 be 
+: 3217 7 -2 my 
+: 3226 7 -2 girl
+: 3234 22 -3 friend, 
+: 3276 12 2 too 
+- 3290
+: 3327 4 0 I 
+: 3333 6 -1 want 
+: 3340 4 -3 your 
+: 3345 6 -1 girl 
+: 3352 12 -5 friend 
+- 3366
+: 3390 4 0 I 
+: 3396 5 -1 want 
+: 3403 5 -3 your 
+: 3409 5 -1 girl
+: 3415 23 -5 friend 
+- 3440
+: 3449 6 4 I 
+: 3457 6 5 want 
+: 3465 11 4 your 
+- 3478
+: 3569 26 11 Girl
+: 3597 275 -5 friend 
+E

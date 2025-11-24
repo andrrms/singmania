@@ -1,0 +1,251 @@
+#ARTIST:Those Dancing Days
+#TITLE:Those Dancing Days
+#MP3:Those Dancing Days - Those Dancing Days.mp3
+#CREATOR:daggeg
+#YEAR:2007
+#LANGUAGE:English
+#BPM:303.83
+#GAP:31880
+#VIDEO:v=lXiW-Lg1wrM,co=https://m.media-amazon.com/images/I/61oPVLLyF1L.jpg
+: 0 3 0 On 
+: 4 2 2 the 
+: 7 3 0 top 
+: 13 2 2 of 
+: 17 3 0 sat
+: 21 2 2 is
+: 25 5 4 fac
+: 32 4 0 tion 
+- 38
+: 61 3 0 Yves 
+: 65 2 0 Saint 
+* 69 3 2 Laur
+* 73 5 0 ent 
+- 80
+: 88 3 2 Shades 
+: 94 4 2 in 
+: 100 2 4 the 
+: 105 6 0 dark
+: 113 3 -3 ness
+: 117 2 -5 ~ 
+- 121
+* 125 3 0 Sum
+* 129 2 0 mer 
+* 133 3 2 at
+* 138 5 0 trac
+* 145 4 2 tion 
+: 154 4 2 pound
+: 159 2 2 ing 
+: 162 2 2 in 
+: 166 3 4 my 
+: 172 2 4 vains
+: 175 4 2 ~ 
+- 181
+: 203 4 0 Time 
+: 212 4 2 does 
+: 219 2 4 not 
+: 223 4 2 ex
+: 231 3 -3 ist
+: 235 4 -5 ~ 
+- 241
+: 267 4 0 High 
+: 275 4 7 on 
+: 282 8 2 life, 
+: 296 2 0 in 
+: 300 2 2 love 
+: 304 2 0 with 
+: 308 4 -3 me 
+- 314
+: 317 3 0 Danc
+: 321 2 0 ing 
+: 324 2 0 in 
+: 329 2 2 the 
+: 333 4 4 night, 
+: 340 3 2 danc
+: 345 2 0 ing 
+: 349 4 2 through 
+: 355 2 0 the 
+: 361 3 -3 days
+: 365 3 -5 ~ 
+- 370
+: 397 5 0 High 
+: 404 4 7 on 
+: 412 9 2 life, 
+* 427 2 0 in 
+* 431 2 2 love 
+* 435 2 0 with 
+* 439 4 -3 me 
+- 445
+: 448 3 0 Danc
+: 452 2 0 ing 
+: 455 2 0 in 
+: 460 2 2 the 
+: 464 4 4 night, 
+: 471 2 2 danc
+: 475 2 0 ing 
+: 479 3 2 through 
+: 485 3 0 the 
+: 492 8 0 days 
+- 502
+: 771 3 4 Liv
+: 775 2 2 ing 
+: 779 2 0 for 
+: 783 6 2 mu
+: 791 3 0 sic, 
+: 800 2 2 liv
+: 803 1 2 ing 
+: 805 2 2 in 
+: 809 2 0 a 
+: 812 6 0 dance 
+- 820
+: 835 3 4 Mu
+: 839 2 2 sic 
+: 843 2 0 for 
+: 847 4 0 life, 
+: 856 5 2 those 
+: 863 4 -3 danc
+: 869 3 -3 ing 
+: 875 8 0 days 
+- 885
+: 898 3 4 Liv
+: 902 2 2 ing 
+: 906 2 0 for 
+: 910 6 2 mu
+: 918 3 0 sic, 
+: 927 2 2 liv
+: 930 1 2 ing 
+: 932 2 2 in 
+: 936 2 0 a 
+: 939 6 0 dance 
+- 947
+: 962 3 4 Mu
+: 966 2 2 sic 
+: 970 2 0 for 
+: 974 5 0 life, 
+: 982 5 2 those 
+: 991 4 2 danci
+: 997 3 2 ng 
+: 1003 9 0 days 
+- 1014
+* 1546 3 0 On 
+* 1550 2 2 the 
+* 1553 3 0 top 
+: 1558 2 2 of 
+: 1562 3 0 sat
+: 1566 2 2 is
+: 1570 3 4 fac
+: 1574 3 0 ~
+: 1579 4 0 tion 
+- 1585
+: 1605 2 0 Yves 
+: 1609 2 0 Saint 
+: 1613 3 2 Laur
+: 1617 4 0 ent 
+- 1623
+: 1633 3 2 Shades 
+: 1639 3 2 in 
+: 1644 2 4 the 
+: 1649 6 0 dark
+: 1657 3 -3 ness
+: 1661 2 -5 ~ 
+- 1665
+: 1669 3 0 Sum
+: 1673 2 0 mer 
+: 1677 3 2 at
+: 1681 5 0 trac
+: 1688 4 2 tion 
+: 1697 4 2 pound
+: 1702 2 2 ing 
+: 1705 2 2 in 
+: 1709 3 4 my 
+: 1715 2 4 vains
+: 1718 8 2 ~
+: 1727 4 0 ~ 
+- 1733
+: 1746 4 0 Time 
+* 1754 3 2 does 
+: 1759 4 4 not 
+* 1766 4 0 ex
+: 1774 3 -3 ist
+: 1778 3 -5 ~ 
+- 1783
+: 1810 6 0 High 
+: 1818 5 7 on 
+: 1826 8 2 life, 
+: 1840 2 0 in 
+: 1844 2 2 love 
+: 1848 2 0 with 
+: 1852 5 -3 me 
+- 1859
+: 1860 3 0 Danc
+: 1864 2 0 ing 
+: 1867 2 0 in 
+: 1872 2 2 the 
+: 1876 5 4 night, 
+: 1885 3 2 danc
+: 1889 2 0 ing 
+: 1893 3 2 through 
+: 1898 3 0 the 
+: 1905 3 -3 days
+: 1909 3 -5 ~ 
+- 1914
+: 1941 4 0 High 
+: 1947 4 7 on 
+: 1953 10 2 life, 
+: 1969 2 0 in 
+: 1973 2 2 love 
+: 1977 2 0 with 
+: 1981 5 -3 me 
+- 1988
+* 1991 3 0 Danc
+* 1995 2 0 ing 
+* 1998 2 0 in 
+* 2002 2 2 the 
+* 2006 5 4 night, 
+: 2014 3 2 danc
+: 2018 2 0 ing 
+: 2022 3 2 through 
+: 2028 3 0 the 
+: 2034 12 0 days 
+- 2048
+: 2318 3 4 Liv
+: 2322 2 2 ing 
+: 2326 2 0 for 
+: 2330 6 2 mu
+: 2338 3 0 sic, 
+: 2348 2 2 liv
+: 2351 1 2 ing 
+: 2353 2 2 in 
+: 2357 2 0 a 
+: 2360 7 0 dance 
+- 2369
+: 2382 3 4 Mu
+: 2386 2 2 sic 
+: 2390 2 0 for 
+: 2394 5 0 life, 
+: 2403 4 2 those 
+: 2411 5 -3 danc
+: 2418 3 -3 ing 
+: 2424 10 0 days 
+- 2436
+: 2449 3 4 Liv
+: 2453 2 2 ing 
+: 2457 2 0 for 
+: 2461 6 2 mu
+: 2469 3 0 sic, 
+: 2477 2 2 liv
+: 2480 1 2 ing 
+: 2482 2 2 in 
+: 2486 2 0 a 
+: 2489 2 2 dance
+: 2492 4 0 ~ 
+- 2498
+: 2512 3 4 Mu
+: 2516 2 2 sic 
+: 2520 2 0 for 
+: 2524 5 0 life, 
+: 2532 4 2 those 
+* 2540 4 2 danci
+* 2546 3 2 ng 
+* 2553 3 2 days
+* 2557 6 0 ~ 
+E

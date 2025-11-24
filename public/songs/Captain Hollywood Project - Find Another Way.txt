@@ -1,0 +1,543 @@
+#ARTIST:Captain Hollywood Project
+#TITLE:Find Another Way
+#MP3:Captain Hollywood Project - Find Another Way.mp3
+#CREATOR:Way2Evil
+#YEAR:1995
+#LANGUAGE:English
+#BPM:320
+#GAP:13710
+#VIDEO:v=2A4c-17MdAw,co=https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/ca/12/af/ca12afcf-4d19-0759-faf3-fef5c9b53dc6/4250330528392.png/5000x5000bb.jpg,bg=captain-hollywood-project-51d14ea54d5a9.jpg
+: 0 7 0 Oh 
+: 8 8 7 who
+: 17 7 12 ~o
+: 25 32 7 ~a 
+- 59
+: 76 3 7 Find 
+: 80 4 7 a
+: 85 10 7 no
+: 96 8 5 ther 
+: 105 6 4 way
+: 112 4 2 ~
+: 117 7 0 ~ 
+- 126
+: 128 7 0 Oh 
+: 136 8 7 who
+: 145 7 12 ~o
+: 153 32 7 ~a 
+- 187
+: 205 3 7 Find 
+: 209 3 7 a
+: 213 8 7 no
+: 222 4 0 ther, 
+: 228 3 7 a
+: 232 3 7 no
+: 236 4 7 ther 
+: 241 2 5 way
+: 244 6 4 ~ 
+- 252
+: 487 6 9 Find 
+: 494 3 7 a
+: 498 4 7 no
+: 503 3 4 ther 
+: 507 24 7 way 
+: 533 5 9 to 
+: 540 7 2 me 
+- 549
+: 552 6 5 Find 
+: 560 3 5 a
+: 564 4 4 no
+: 569 3 2 ther 
+: 573 7 4 way 
+: 581 6 7 and 
+: 588 7 5 make 
+: 596 7 4 me 
+: 604 8 0 free 
+- 614
+: 616 7 9 Can 
+: 624 3 7 you 
+: 628 3 7 hear 
+: 632 4 4 my 
+: 637 7 7 voice, 
+: 645 6 12 so 
+: 652 8 11 find 
+: 661 6 9 a
+: 668 7 7 no
+: 676 4 9 ther 
+: 681 6 4 way. 
+: 688 3 4 Oh 
+: 692 3 2 I 
+: 696 8 2 cried 
+: 705 3 4 to 
+: 709 11 0 you 
+- 722
+: 728 3 7 Please 
+: 732 3 7 fol
+: 736 3 7 low 
+: 740 3 0 me 
+: 744 3 7 oh 
+: 749 2 7 fol
+: 752 3 7 low 
+: 756 3 5 me
+: 760 6 4 ~ 
+- 768
+: 772 7 0 Oh 
+: 780 8 7 who
+: 789 7 12 ~o
+: 797 32 7 ~a 
+- 831
+: 848 3 7 Find 
+: 852 4 7 a
+: 857 10 7 no
+: 868 8 5 ther 
+: 877 6 4 way
+: 884 4 2 ~
+: 889 7 0 ~ 
+- 898
+: 900 7 0 Oh 
+: 908 8 7 who
+: 917 7 12 ~o
+: 925 32 7 ~a 
+- 959
+: 976 3 7 Find 
+: 980 3 7 a
+: 984 8 7 no
+: 993 4 0 ther, 
+: 999 3 7 a
+: 1003 3 7 no
+: 1007 4 7 ther 
+: 1012 2 5 way
+: 1015 6 4 ~ 
+- 1023
+: 1237 3 7 Find 
+: 1241 3 7 a
+: 1245 8 7 no
+: 1254 4 0 ther, 
+: 1260 3 7 a
+: 1264 3 7 no
+: 1268 4 7 ther 
+: 1273 2 5 way
+: 1276 6 4 ~ 
+- 1284
+: 1494 3 7 Find 
+: 1498 3 7 a
+: 1502 8 7 no
+: 1511 4 0 ther, 
+: 1517 3 7 a
+: 1521 3 7 no
+: 1525 4 7 ther 
+: 1530 2 5 way
+: 1533 6 4 ~ 
+- 1540
+F 1541 1 0 Shake 
+F 1543 2 0 it, 
+F 1546 3 0 brake 
+F 1550 3 0 it, 
+F 1554 1 0 no 
+F 1556 1 0 I 
+F 1558 3 0 can’t 
+F 1562 3 0 fake 
+F 1566 4 0 it 
+- 1571
+F 1571 1 0 To 
+F 1573 3 0 another 
+F 1577 10 0 level, 
+F 1589 3 0 can’t 
+F 1593 3 0 take 
+F 1597 4 0 it 
+- 1602
+F 1603 12 0 Pressurize 
+F 1616 1 0 and 
+F 1618 10 0 hypnotize, 
+F 1629 3 0 and 
+F 1633 3 0 in 
+F 1637 3 0 your 
+F 1641 7 0 mind, 
+F 1649 13 0 realize 
+- 1663
+F 1663 3 0 And 
+F 1667 6 0 move, 
+F 1674 6 0 move 
+F 1681 3 0 no 
+F 1685 1 0 I 
+F 1687 3 0 gotta 
+F 1691 4 0 move 
+- 1697
+F 1699 6 0 Yo, 
+F 1706 6 0 so, 
+F 1713 5 0 watch 
+F 1719 3 0 me 
+F 1723 7 0 groove, 
+F 1731 3 0 beat 
+F 1735 1 0 to 
+F 1737 1 0 the 
+F 1739 6 0 beat 
+- 1746
+F 1747 3 0 Fire 
+F 1751 3 0 and 
+F 1755 4 0 heat 
+- 1761
+F 1763 3 0 Make 
+F 1767 3 0 you 
+F 1771 3 0 jump 
+F 1775 3 0 right 
+F 1779 3 0 outta 
+F 1783 3 0 your 
+F 1787 4 0 seat 
+- 1792
+F 1792 3 0 Gotta 
+F 1796 6 0 jam 
+F 1804 6 0 jam, 
+F 1811 3 0 watch 
+F 1815 3 0 me 
+F 1819 4 0 jam 
+- 1825
+F 1832 1 0 To 
+F 1834 1 0 the 
+F 1836 3 0 beat, 
+F 1840 3 0 yo 
+F 1844 3 0 watch 
+F 1848 3 0 me 
+F 1852 5 0 slam 
+- 1859
+F 1860 7 0 Pumpin’ 
+F 1868 7 0 pumpin’ 
+F 1876 3 0 looking 
+F 1880 3 0 for 
+F 1884 7 0 something 
+- 1892
+F 1892 7 0 Always 
+F 1900 6 0 question 
+F 1907 7 0 leaving 
+F 1915 7 0 nothing 
+- 1923
+F 1923 3 0 Shake 
+F 1927 3 0 it, 
+F 1931 3 0 shake 
+F 1935 3 0 it 
+F 1939 8 0 every 
+F 1948 5 0 day 
+- 1954
+F 1954 9 0 Keeping 
+F 1964 7 0 busy 
+F 1972 3 0 day 
+F 1976 3 0 by 
+F 1980 4 0 day 
+- 1986
+F 1987 1 0 To 
+F 1989 6 0 find, 
+F 2001 2 0 to 
+F 2004 3 0 find 
+F 2008 11 0 another 
+F 2020 5 0 way 
+- 2027
+: 2035 5 9 Find 
+: 2041 3 7 a
+: 2045 4 7 no
+: 2050 3 4 ther 
+: 2054 23 7 way 
+: 2080 5 9 to 
+: 2087 7 2 me 
+- 2096
+: 2098 5 5 Find
+: 2105 3 5 an 
+: 2109 4 4 ot
+: 2114 3 2 her 
+: 2118 7 4 way 
+: 2126 6 7 and 
+: 2133 7 5 make 
+: 2141 7 4 me 
+: 2149 8 0 free 
+- 2159
+: 2161 7 9 Can 
+: 2169 3 7 you 
+: 2173 3 7 hear 
+: 2177 4 4 my 
+: 2182 7 7 voice, 
+: 2190 6 12 so 
+: 2197 8 11 find 
+: 2206 6 9 a
+: 2213 7 7 no
+: 2221 4 9 ther 
+: 2226 7 4 way 
+- 2234
+: 2235 3 4 Oh 
+: 2239 3 2 I 
+: 2243 7 2 cry 
+: 2251 3 4 to 
+: 2256 11 0 you 
+- 2269
+: 2273 3 7 Please 
+: 2277 3 7 fol
+: 2281 3 7 low 
+: 2285 3 0 me 
+: 2289 3 7 oh 
+: 2294 2 7 fol
+: 2297 3 7 low 
+: 2301 3 5 me
+: 2305 6 4 ~ 
+- 2313
+: 2317 7 0 Oh 
+: 2325 8 7 who
+: 2334 7 12 ~o
+: 2342 32 7 ~a 
+- 2376
+: 2393 3 7 Find 
+: 2397 4 7 a
+: 2402 10 7 no
+: 2413 8 5 ther 
+: 2422 6 4 way
+: 2429 4 2 ~
+: 2434 7 0 ~ 
+- 2443
+: 2445 7 0 Oh 
+: 2453 8 7 who
+: 2462 7 12 ~o
+: 2470 32 7 ~a 
+- 2504
+: 2524 3 7 Find 
+: 2528 3 7 a
+: 2532 8 7 no
+: 2541 4 0 ther, 
+: 2547 3 7 a
+: 2551 3 7 no
+: 2555 4 7 ther 
+: 2560 2 5 way
+: 2563 6 4 ~ 
+- 2571
+: 2782 3 7 Find 
+: 2786 3 7 a
+: 2790 8 7 no
+: 2799 4 0 ther, 
+: 2805 3 7 a
+: 2809 3 7 no
+: 2813 4 7 ther 
+: 2818 2 5 way
+: 2821 6 4 ~ 
+- 2829
+F 3082 7 0 Weekdays 
+F 3090 7 0 morning, 
+F 3098 7 0 always 
+F 3106 7 0 holding 
+- 3114
+F 3114 2 0 Got 
+F 3117 1 0 to 
+F 3119 3 0 be 
+F 3123 9 0 studying, 
+F 3133 5 0 I’m 
+F 3139 6 0 rolling 
+- 3146
+F 3147 6 0 Project 
+F 3154 3 0 on 
+F 3158 3 0 the 
+F 3162 8 0 dancefloor 
+- 3171
+F 3171 7 0 Working 
+F 3179 3 0 where 
+F 3183 4 0 you’re 
+F 3188 6 0 going 
+- 3196
+F 3199 3 0 But 
+F 3203 7 0 certainly 
+F 3211 3 0 no 
+F 3215 3 0 way 
+F 3219 4 0 out 
+- 3225
+F 3227 3 0 No 
+F 3231 3 0 way 
+F 3235 3 0 out, 
+F 3239 3 0 gonna 
+F 3243 3 0 make 
+F 3247 3 0 you 
+F 3251 5 0 pride 
+- 3258
+F 3263 3 0 No 
+F 3267 3 0 doubt 
+F 3271 10 0 respect, 
+F 3284 3 0 what 
+F 3288 3 0 I’m 
+F 3292 7 0 looking 
+F 3300 6 0 for 
+- 3307
+F 3307 6 0 Weekday 
+F 3314 3 0 on, 
+F 3318 3 0 now 
+F 3322 3 0 hit 
+F 3326 3 0 the 
+F 3330 8 0 door 
+- 3339
+F 3340 7 0 Faster, 
+F 3348 7 0 faster, 
+F 3356 3 0 making 
+F 3360 3 0 it 
+F 3364 8 0 faster 
+- 3373
+F 3373 3 0 Turn 
+F 3377 3 0 it 
+F 3381 4 0 loud, 
+F 3386 6 0 sweep 
+F 3393 3 0 your 
+F 3397 7 0 blaster 
+- 3405
+F 3405 3 0 Bust 
+F 3409 3 0 the 
+F 3413 7 0 sound 
+F 3424 2 0 you’ve 
+F 3427 7 0 found 
+- 3436
+F 3437 3 0 Keepin’ 
+F 3441 3 0 the 
+F 3445 7 0 thunder 
+F 3453 12 0 underground 
+- 3467
+F 3468 3 0 Keep 
+F 3472 3 0 the 
+F 3476 3 0 bass 
+F 3480 3 0 is 
+F 3484 3 0 what 
+F 3488 3 0 I 
+F 3492 4 0 say 
+- 3498
+F 3500 7 0 Keepin’ 
+F 3508 3 0 it 
+F 3512 3 0 pumpin’ 
+F 3516 3 0 day 
+F 3520 3 0 by 
+F 3524 3 0 day, 
+F 3528 3 0 to 
+F 3532 7 0 find 
+- 3541
+F 3546 3 0 To 
+F 3550 3 0 find 
+F 3554 10 0 another 
+F 3565 6 0 way 
+- 3573
+: 3580 5 9 Find 
+: 3586 3 7 a
+: 3590 4 7 no
+: 3595 3 4 ther 
+: 3599 23 7 way 
+: 3624 5 9 to 
+: 3631 7 2 me 
+- 3640
+: 3644 5 5 Find 
+: 3651 3 5 a
+: 3655 4 4 no
+: 3660 3 2 ther 
+: 3664 7 4 way 
+: 3672 6 7 and 
+: 3679 7 5 make 
+: 3687 7 4 me 
+: 3695 8 0 free 
+- 3705
+: 3707 7 9 Can 
+: 3715 3 7 you 
+: 3719 3 7 hear 
+: 3723 4 4 my 
+: 3728 7 7 voice, 
+: 3736 6 12 so 
+: 3743 8 11 find 
+: 3752 6 9 a
+: 3759 7 7 no
+: 3767 4 9 ther 
+: 3772 7 4 way. 
+- 3780
+: 3780 3 4 Oh 
+: 3784 3 2 I 
+: 3789 6 2 cried 
+: 3797 2 4 to 
+: 3800 12 0 you 
+- 3814
+: 3819 3 7 Please 
+: 3823 3 7 fol
+: 3827 3 7 low 
+: 3831 3 0 me 
+: 3835 3 7 oh 
+: 3840 2 7 fol
+: 3843 3 7 low 
+: 3847 3 5 me
+: 3851 6 4 ~ 
+- 3859
+: 3863 7 0 Oh 
+: 3871 8 7 who
+: 3880 7 12 ~o
+: 3888 32 7 ~a 
+- 3922
+: 3939 3 7 Find 
+: 3943 4 7 a
+: 3948 10 7 no
+: 3959 8 5 ther 
+: 3968 6 4 way
+: 3975 4 2 ~
+: 3980 7 0 ~ 
+- 3989
+: 3991 7 0 Oh 
+: 3999 8 7 who
+: 4008 7 12 ~o
+: 4016 32 7 ~a 
+- 4050
+: 4069 3 7 Find 
+: 4073 3 7 a
+: 4077 8 7 no
+: 4086 4 0 ther, 
+: 4092 3 7 a
+: 4096 3 7 no
+: 4100 4 7 ther 
+: 4105 2 5 way
+: 4108 6 4 ~ 
+- 4116
+* 4121 7 0 Oh 
+* 4129 8 7 who
+* 4138 7 12 ~o
+* 4146 32 7 ~a 
+- 4180
+* 4197 3 7 Find 
+* 4201 4 7 a
+* 4206 10 7 no
+* 4217 8 5 ther 
+* 4226 6 4 way
+* 4233 4 2 ~
+* 4238 7 0 ~ 
+- 4247
+: 4249 7 0 Oh 
+: 4257 8 7 who
+: 4266 7 12 ~o
+: 4274 32 7 ~a 
+- 4308
+: 4326 3 7 Find 
+: 4330 3 7 a
+: 4334 8 7 no
+: 4343 4 0 ther, 
+: 4349 3 7 a
+: 4353 3 7 no
+: 4357 4 7 ther 
+: 4362 2 5 way
+: 4365 6 4 ~ 
+- 4373
+: 4378 7 0 Oh 
+: 4386 8 7 Who
+: 4395 7 12 ~o
+: 4403 32 7 ~a 
+- 4437
+: 4454 3 7 Find 
+: 4458 4 7 a
+: 4463 10 7 no
+: 4474 8 5 ther 
+: 4483 6 4 way
+: 4490 4 2 ~
+: 4495 7 0 ~ 
+- 4504
+: 4506 7 0 Oh 
+: 4514 8 7 who
+: 4523 7 12 ~o
+: 4531 32 7 ~a 
+- 4565
+: 4585 3 7 Find 
+: 4589 3 7 a
+: 4593 8 7 no
+: 4602 4 0 ther, 
+: 4608 3 7 a
+: 4612 3 7 no
+: 4616 4 7 ther 
+: 4621 2 5 way
+: 4624 6 4 ~ 
+E

@@ -1,0 +1,175 @@
+#ARTIST:Disney’s 101 Dalmatians
+#TITLE:Cruella De Vil
+#MP3:Disney’s 101 Dalmatians - Cruella De Vil.mp3
+#CREATOR:zeromancer
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1961
+#LANGUAGE:English
+#BPM:327
+#GAP:45540
+#VIDEO:v=fXTQWVqBDWY,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6d/e5/f2/6de5f263-85fd-2a6e-59dd-405f6da503f8/00050086078370.rgb.jpg/5000x5000bb.jpg
+#START:45
+: 0 2 0 Cru
+: 5 5 0 el
+: 13 2 3 la 
+: 17 6 5 De 
+: 25 10 6 Vil 
+- 37
+: 47 3 5 Cru
+: 51 7 5 el
+: 60 2 8 la 
+: 64 5 10 De 
+* 72 9 11 Vil 
+- 83
+: 96 1 0 If 
+: 100 6 0 she 
+: 108 2 3 doe
+: 112 6 5 sn’t 
+* 120 4 6 sca
+: 125 6 5 ~re 
+: 132 5 6 you 
+- 139
+: 145 2 5 No 
+: 149 7 5 e
+: 157 2 8 vil 
+: 161 7 10 thing 
+: 169 10 11 will 
+- 181
+: 195 3 11 To 
+: 199 6 12 see 
+: 208 2 8 her 
+: 212 6 10 is 
+: 219 1 8 to 
+: 224 6 12 take 
+: 232 5 8 a 
+: 238 2 10 sud
+: 242 4 8 den 
+- 248
+F 257 11 0 Chill 
+- 270
+: 291 3 5 Cru
+* 296 7 12 el
+: 304 21 11 la 
+- 327
+: 341 2 5 Cru
+: 344 7 11 el
+: 352 13 10 la 
+- 367
+: 389 3 8 She’s 
+: 394 5 12 like 
+: 402 2 8 a 
+: 406 6 10 spi
+: 415 2 8 der 
+- 418
+: 420 3 12 Wai
+: 424 2 8 ting 
+: 429 7 10 for 
+: 439 3 8 the 
+: 451 24 12 kill 
+- 477
+: 487 2 5 Look 
+: 492 5 12 out 
+: 500 9 11 for 
+: 513 2 5 Cru
+* 518 5 11 el
+: 525 7 10 la 
+: 538 2 8 De 
+: 543 16 8 Vil 
+- 561
+: 564 4 5 At 
+: 570 6 12 first 
+: 579 3 13 you 
+: 583 5 10 think 
+- 589
+: 591 4 12 Cru
+: 596 3 8 el
+* 600 8 10 la 
+: 610 3 7 is 
+: 614 6 8 a 
+: 621 2 5 de
+: 625 11 5 vil 
+- 638
+: 662 4 5 But 
+: 667 5 12 af
+: 674 3 13 ter 
+: 679 7 10 time 
+: 690 4 12 has 
+- 695
+: 697 3 8 Worn 
+: 702 2 10 a
+: 706 8 7 way 
+: 716 2 8 the 
+: 720 6 5 shock 
+- 728
+: 760 3 8 You 
+: 766 4 10 come 
+: 773 2 10 to 
+: 778 2 10 re
+: 781 3 8 a
+: 785 9 10 lize 
+- 796
+: 808 4 8 You’ve 
+* 815 7 10 seen 
+: 823 2 10 her 
+: 827 2 10 kind 
+: 831 2 8 of 
+: 835 9 10 eyes 
+- 846
+: 863 5 11 Wat
+: 871 3 11 ching 
+: 876 6 10 you 
+: 883 2 8 from 
+- 887
+: 889 2 11 Un
+: 893 2 11 der
+* 897 6 10 neath 
+: 909 4 8 a 
+: 914 5 10 rock 
+- 921
+: 958 2 0 This 
+* 964 7 0 vam
+: 973 4 3 pi
+: 978 5 5 re 
+: 985 5 6 bat 
+- 992
+: 1010 3 6 This 
+: 1014 7 5 in
+: 1023 3 8 hu
+: 1027 5 10 man 
+: 1035 7 11 beast 
+- 1044
+: 1060 2 0 She 
+: 1065 5 0 ought 
+: 1072 2 3 to 
+: 1077 4 5 be 
+: 1084 5 6 locked 
+: 1092 4 6 up 
+- 1098
+: 1109 3 6 And 
+: 1113 8 5 ne
+: 1122 2 8 ver 
+: 1126 4 10 re
+* 1133 4 11 leased 
+- 1139
+: 1158 4 8 The 
+: 1164 5 12 world 
+: 1172 3 8 was 
+: 1177 5 10 such 
+: 1185 3 8 a 
+- 1189
+: 1190 6 12 Whole
+: 1197 4 8 some 
+: 1207 3 10 place 
+: 1211 8 8 un
+* 1221 19 12 til 
+- 1242
+: 1255 5 5 Cru
+: 1261 8 12 el
+: 1270 7 11 la, 
+: 1282 4 5 Cru
+: 1287 7 11 el
+: 1295 8 10 la 
+: 1307 2 8 De 
+: 1311 26 8 Vil 
+E

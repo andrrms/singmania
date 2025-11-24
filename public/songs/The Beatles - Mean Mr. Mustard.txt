@@ -1,0 +1,146 @@
+#ARTIST:The Beatles
+#TITLE:Mean Mr. Mustard
+#MP3:The Beatles - Mean Mr. Mustard.mp3
+#CREATOR:mustangfred
+#EDITION:The Beatles Rock Band
+#GENRE:Pop
+#YEAR:1969
+#LANGUAGE:English
+#BPM:326.02
+#GAP:1700
+#VIDEO:a=oMarHac3VpQ,co=abbey-road-608579fa55f23.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 12 13 Mean 
+: 13 3 11 Mi
+: 20 6 11 ster 
+: 28 3 8 Mu
+: 34 2 8 stard 
+* 41 7 11 sleeps 
+- 50
+: 56 5 9 In 
+: 63 1 9 the 
+: 69 8 6 park 
+- 79
+: 82 11 9 Shaves 
+: 96 6 8 in 
+: 103 3 8 the 
+: 109 10 4 dark 
+: 124 5 6 trying 
+: 130 2 6 to 
+: 136 9 9 save 
+: 151 3 8 pa
+: 158 7 4 per 
+- 167
+: 217 5 11 Sleeps 
+: 229 6 11 in 
+: 237 3 9 a 
+: 243 5 11 hole 
+: 250 5 9 in 
+: 256 4 6 the 
+: 262 6 13 road
+: 269 8 11 ~ 
+- 279
+* 321 5 14 Sa
+: 328 4 14 ving 
+: 333 3 14 up 
+: 340 2 12 to 
+: 347 5 14 buy
+: 353 3 12 ~ 
+: 360 4 9 some 
+: 367 5 16 clothes
+: 373 8 14 ~ 
+- 383
+: 425 2 11 Keeps 
+* 431 2 9 a 
+: 437 4 11 ten 
+: 443 4 9 bob 
+: 450 5 11 note 
+: 457 3 9 up 
+: 463 2 6 his 
+: 470 5 13 nose
+: 476 7 11 ~ 
+- 485
+: 515 3 13 Such 
+: 522 4 11 a 
+: 528 5 16 mean 
+: 534 6 13 old
+: 541 2 11 ~ 
+: 547 4 11 man
+: 552 3 6 ~
+: 556 4 7 ~ 
+- 562
+: 619 2 13 Such 
+: 626 4 11 a 
+: 632 4 16 mean 
+: 638 8 13 old 
+: 651 5 11 man
+: 657 3 6 ~
+: 661 3 7 ~ 
+- 666
+: 735 6 13 His 
+: 748 4 11 si
+: 755 2 11 ster 
+: 762 11 8 Pam 
+: 775 1 8 works
+: 777 5 11 ~ 
+: 787 6 9 in 
+: 794 3 9 the 
+: 800 5 6 shop 
+- 807
+: 814 10 9 She 
+: 826 4 8 ne
+: 833 3 8 ver 
+: 839 5 4 stops 
+- 846
+: 853 4 6 She’s 
+: 859 3 6 a 
+: 866 10 9 go 
+: 878 5 8 get
+* 885 11 4 ter 
+- 898
+: 943 3 11 Takes 
+: 950 5 9 him 
+: 956 4 11 out 
+: 963 5 9 to 
+: 969 3 11 look 
+: 975 3 9 at 
+: 982 3 6 the 
+: 989 1 11 Queen
+: 991 3 13 ~
+: 995 10 11 ~ 
+- 1007
+: 1046 6 14 On
+: 1053 3 14 ly 
+: 1059 4 14 place 
+: 1066 3 12 that 
+: 1071 4 14 he’s 
+: 1078 4 12 e
+: 1084 3 9 ver 
+: 1091 1 14 been
+: 1093 2 16 ~
+: 1096 15 14 ~ 
+- 1113
+: 1148 5 11 Al
+: 1155 2 9 ways 
+: 1161 5 11 shout 
+: 1167 4 9 out 
+: 1173 3 11 some
+: 1180 4 9 thing 
+: 1186 3 6 ob
+* 1193 2 11 scene
+: 1196 2 13 ~
+: 1199 9 11 ~ 
+- 1210
+: 1237 3 13 Such 
+: 1244 2 11 a 
+: 1250 5 16 dir
+: 1256 3 16 ty 
+* 1260 7 13 old 
+: 1270 4 11 man
+: 1275 6 7 ~ 
+- 1283
+: 1330 5 16 Dir
+: 1336 3 16 ty 
+* 1340 6 13 old 
+: 1348 4 11 man
+: 1353 8 7 ~ 
+E

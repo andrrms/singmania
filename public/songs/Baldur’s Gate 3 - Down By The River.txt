@@ -1,0 +1,199 @@
+#ARTIST:Baldur’s Gate 3
+#TITLE:Down By The River
+#MP3:Baldur’s Gate 3 - Down By The River.mp3
+#CREATOR:Hel
+#COVER:Baldur’s Gate 3 - Down By The River [CO].jpg
+#BACKGROUND:Baldur’s Gate 3 - Down By The River [BG].jpg
+#GENRE:Soundtrack
+#LANGUAGE:English
+#BPM:303.84
+#GAP:14890
+#VIDEO:a=zSVRtM1x9wQ,co=https://coverartarchive.org/release/a36d1409-e1ec-4e3f-8958-fee5e2986e82/36364388767-1200.jpg
+: 0 3 -5 Lace 
+: 7 3 7 your 
+: 12 6 7 heart 
+: 21 1 7 with
+: 23 3 9 ~ 
+: 35 14 5 mine 
+- 51
+: 69 4 -5 Let 
+: 78 3 7 your 
+: 84 7 7 slee
+: 92 6 9 ping 
+: 104 5 5 soul 
+: 112 5 2 take 
+: 121 9 -2 fli
+: 131 6 -3 ~ght 
+- 138
+: 139 4 -5 Take 
+: 148 3 7 me 
+: 154 5 7 through 
+: 161 2 7 th
+: 164 5 9 ~e 
+: 175 22 5 night 
+- 199
+* 207 16 12 Down 
+* 225 16 10 down 
+* 242 15 9 down 
+* 260 10 7 by 
+* 273 3 5 the 
+* 279 2 9 ri
+* 282 45 7 ver 
+- 329
+: 349 16 12 Down 
+: 367 16 10 down 
+: 384 15 9 down 
+: 403 10 7 by 
+: 416 3 5 the 
+: 421 2 9 ri
+: 424 45 7 ver 
+- 471
+: 492 3 -5 Hang
+: 501 3 7 ing 
+: 506 6 7 moon 
+: 514 1 7 in
+: 516 3 9 ~ 
+: 526 18 5 fog 
+- 546
+: 562 6 -5 Mists 
+: 569 4 7 will 
+: 575 7 7 lead 
+: 584 1 7 where
+: 586 5 9 ~ 
+: 595 8 5 you 
+: 604 5 2 be
+: 610 7 -2 lo
+: 618 8 -3 ~ng 
+- 628
+* 630 5 -5 Sweep 
+* 641 4 7 me 
+* 647 4 7 off 
+* 654 1 7 my
+* 656 8 9 ~ 
+* 666 20 5 feet 
+- 688
+: 702 16 12 Down 
+: 720 15 10 down 
+: 736 15 9 down 
+: 753 10 7 by 
+: 768 3 5 the 
+: 773 3 9 ri
+: 777 46 7 ver 
+- 825
+: 842 16 12 Down 
+: 860 15 10 down 
+: 876 15 9 down 
+: 893 10 7 by 
+: 908 3 5 the 
+* 912 3 9 ri
+* 916 2 7 ver
+* 919 50 14 ~ 
+- 971
+: 983 16 12 Down 
+: 1001 16 10 down 
+: 1018 15 9 down 
+: 1035 10 7 by 
+: 1049 3 5 the 
+: 1055 3 9 ri
+: 1059 45 7 ver 
+- 1106
+: 1108 4 2 In
+: 1114 5 7 ky 
+: 1120 6 5 em
+: 1127 16 5 bers 
+- 1145
+: 1178 7 9 Swirl 
+: 1186 4 5 and 
+: 1191 17 5 da
+: 1209 6 7 ~nce 
+- 1217
+: 1252 3 17 Just 
+: 1256 4 17 leap 
+: 1261 2 17 the 
+: 1264 4 17 flames
+: 1269 2 14 ~ 
+: 1273 3 14 to 
+: 1278 3 14 take
+: 1282 3 12 ~ 
+: 1287 2 12 a 
+: 1290 14 12 chance 
+- 1306
+: 1313 3 10 To 
+: 1318 4 12 be 
+: 1323 5 10 with 
+* 1330 13 12 me
+* 1344 16 14 ~ 
+: 1361 3 7 to
+: 1365 14 7 night 
+- 1381
+: 1389 3 14 Take 
+: 1393 10 14 my 
+: 1405 34 12 hand 
+- 1441
+: 1454 4 5 And 
+: 1459 5 17 hold 
+: 1465 3 16 it 
+* 1473 4 16 ti
+* 1478 9 17 ~
+* 1488 15 16 ~
+* 1504 11 14 ~ght 
+- 1517
+: 1534 4 14 ’Cause 
+: 1539 4 14 you 
+: 1544 2 14 and 
+: 1547 5 14 I
+: 1553 4 12 ~ 
+: 1558 2 12 are 
+: 1561 2 12 every
+: 1564 6 10 ~
+: 1571 6 10 where
+: 1578 13 9 ~ 
+- 1593
+: 1595 2 10 The 
+: 1598 6 12 night 
+: 1607 3 10 is 
+: 1613 13 12 you
+: 1627 16 14 ~ng 
+- 1644
+: 1644 7 14 We’re 
+: 1654 15 14 go
+: 1670 11 14 ing 
+- 1683
+: 1689 15 14 Down 
+: 1705 16 12 down 
+: 1722 15 14 down 
+: 1740 10 12 by 
+: 1754 3 9 the 
+: 1759 2 10 ri
+: 1762 45 7 ver 
+- 1809
+* 1829 15 12 Down 
+* 1845 16 10 down 
+* 1864 15 9 down 
+* 1881 10 7 by 
+* 1895 3 5 the
+* 1899 3 9 ri
+* 1903 2 7 ver
+* 1906 52 14 ~ 
+- 1960
+: 1969 16 12 Down 
+: 1986 16 10 down 
+: 2003 15 9 down 
+: 2020 10 7 by 
+: 2033 3 5 the 
+: 2038 3 9 ri
+: 2043 45 7 ver 
+- 2090
+: 2141 5 7 Don’t 
+: 2148 5 7 wake 
+: 2155 5 7 me 
+: 2164 9 12 up 
+- 2175
+: 2186 21 10 Just 
+: 2215 16 9 leave
+: 2232 6 7 ~ 
+: 2239 7 7 me 
+: 2248 22 5 there 
+: 2292 9 9 drea
+: 2302 45 7 ming 
+E

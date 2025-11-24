@@ -1,0 +1,347 @@
+#ARTIST:Gloria Estefan and Miami Sound Machine
+#TITLE:Anything For You
+#MP3:Gloria Estefan and Miami Sound Machine - Anything For You.mp3
+#CREATOR:sledge
+#YEAR:1987
+#LANGUAGE:English
+#BPM:287.5
+#GAP:26860
+#VIDEO:v=4uLl8aA95zA,co=anything-for-you-6387be75b60de.jpg,bg=estefan-gloria-5283d9be62bcf.jpg
+: 0 2 -1 A
+: 4 2 0 ny
+: 8 8 2 thing 
+: 24 2 4 for 
+: 28 16 2 you 
+- 46
+: 60 2 -1 Though 
+: 64 4 0 you’re 
+: 72 8 9 not 
+: 88 16 6 here 
+- 106
+: 128 4 -1 Since 
+: 136 2 0 you 
+: 140 4 2 said 
+* 148 2 4 we’re 
+: 152 24 2 through, 
+- 178
+F 189 1 2 It 
+: 192 6 12 seems 
+: 202 10 11 like 
+* 218 24 9 years. 
+- 244
+: 246 4 7 Time 
+: 252 4 9 keeps 
+: 258 6 11 drag
+: 266 3 9 ging 
+: 271 3 9 on 
+: 277 2 7 and 
+: 281 24 7 on, 
+- 307
+: 314 1 4 And 
+: 316 2 7 for
+: 321 5 11 e
+: 328 2 9 ver’s 
+: 333 2 9 been 
+: 338 2 7 and 
+: 343 20 7 gone. 
+- 365
+: 369 3 4 Still, 
+: 375 2 7 I 
+: 379 2 9 can’t 
+: 385 6 11 fig
+: 393 3 9 ure 
+: 398 3 9 what 
+: 404 4 7 went 
+: 410 5 4 wro
+: 417 32 2 ng. 
+- 451
+: 492 4 7 I’d 
+: 500 4 6 still 
+: 508 2 4 do 
+: 514 2 -1 a
+: 518 2 0 ny
+: 522 12 2 thing 
+: 538 2 4 for 
+: 542 28 2 you, 
+- 571
+: 572 2 -1 I’ll 
+: 576 4 0 play 
+* 584 12 9 your 
+: 600 24 6 game. 
+- 626
+: 636 4 2 You 
+: 642 2 -1 hurt 
+: 648 2 0 me 
+: 652 4 2 through 
+: 658 2 4 and 
+: 662 24 2 through, 
+- 688
+: 692 2 2 But 
+: 696 2 2 you 
+: 700 2 2 can 
+: 704 6 12 have 
+: 712 8 11 your 
+: 726 24 9 way. 
+- 752
+: 756 2 7 I 
+: 760 2 9 can 
+* 764 2 7 pre
+* 768 6 11 tend 
+: 776 2 9 each 
+: 780 6 9 time 
+: 788 2 7 I 
+: 792 10 7 see 
+: 804 8 9 you 
+- 814
+: 822 2 4 That 
+: 825 1 7 I 
+: 828 2 9 don’t 
+: 832 12 11 care 
+: 846 2 9 and 
+: 850 2 9 I 
+: 854 2 7 don’t 
+: 858 9 7 need 
+: 870 6 9 you. 
+- 878
+: 884 2 4 And 
+: 888 2 7 though 
+: 892 2 9 you’ll 
+: 896 6 11 ne
+: 904 2 9 ver 
+: 908 4 9 see 
+: 914 4 7 me 
+: 920 10 7 cry
+: 932 8 9 ing 
+- 942
+: 950 2 7 You 
+: 953 2 7 know, 
+: 956 2 9 in
+: 959 9 11 side 
+: 970 2 9 I 
+: 974 2 9 feel 
+: 979 4 7 like 
+: 986 8 4 dy
+: 996 32 2 ing. 
+- 1030
+: 1069 3 7 And 
+: 1074 4 6 I’d 
+: 1080 6 4 do 
+: 1088 2 -1 a
+: 1092 2 0 ny
+: 1096 12 2 thing 
+: 1112 2 4 for 
+: 1116 16 2 you, 
+- 1134
+: 1148 2 -1 In 
+: 1154 6 0 spite 
+: 1162 6 9 of 
+: 1170 2 7 it 
+: 1174 12 6 all. 
+- 1188
+: 1212 2 2 I’ve 
+: 1216 8 -1 learned 
+: 1226 4 0 so 
+: 1232 4 2 much 
+: 1238 2 4 from 
+: 1243 12 2 you; 
+- 1257
+: 1277 2 2 You 
+: 1281 5 12 made 
+: 1290 8 11 me 
+: 1302 18 9 strong 
+- 1322
+: 1328 2 4 Don’t 
+: 1332 2 7 you 
+: 1337 2 9 e
+: 1340 2 7 ver 
+* 1344 6 11 think 
+: 1352 2 9 that 
+: 1356 4 9 I 
+: 1362 4 7 don’t 
+: 1368 12 7 love 
+: 1382 8 9 you, 
+- 1392
+: 1398 2 4 That 
+: 1401 2 7 for 
+: 1404 2 9 one 
+: 1408 8 11 mi
+: 1418 2 9 nute 
+: 1422 3 9 I 
+: 1427 3 7 for
+: 1431 9 7 got 
+: 1442 8 9 you. 
+- 1452
+: 1460 2 4 But 
+: 1464 2 7 some
+: 1468 4 9 times 
+: 1476 6 11 things 
+* 1484 2 9 don’t 
+: 1488 4 9 work 
+: 1494 4 7 out 
+: 1500 20 7 right, 
+- 1522
+: 1524 2 4 And 
+: 1528 2 7 you 
+: 1532 2 9 just 
+: 1536 6 11 have 
+: 1544 2 11 to 
+* 1548 4 14 say 
+: 1556 2 11 good
+: 1560 24 9 bye. 
+- 1586
+: 1588 2 7 I 
+: 1592 2 9 hope 
+: 1596 2 7 you 
+: 1600 6 11 find 
+: 1608 2 9 some
+: 1612 2 9 one 
+: 1616 2 7 to 
+: 1620 14 7 please 
+: 1636 8 9 you, 
+- 1646
+: 1652 2 4 Some
+: 1656 2 7 one 
+: 1660 2 9 who’ll 
+: 1664 10 11 care, 
+: 1676 2 9 and 
+: 1680 2 9 ne
+: 1684 2 7 ver 
+: 1688 14 7 leave 
+: 1704 8 9 you. 
+- 1714
+: 1716 2 4 But 
+: 1720 2 7 if 
+: 1724 2 9 that 
+: 1728 4 11 some
+: 1733 5 9 one 
+: 1740 5 9 e
+: 1748 2 7 ver 
+: 1752 4 7 hurts 
+: 1758 8 9 you, 
+- 1768
+: 1780 2 4 You 
+: 1784 2 7 just 
+: 1788 2 9 might 
+: 1792 8 11 need 
+: 1802 2 9 a 
+: 1806 2 9 friend 
+: 1810 2 7 to 
+: 1814 8 4 turn 
+: 1824 32 2 to. 
+- 1858
+: 1902 2 7 And 
+: 1906 4 6 I’d 
+: 1912 4 4 do 
+: 1920 2 -1 a
+: 1924 2 0 ny
+: 1928 16 2 thing 
+: 1946 2 4 for 
+: 1950 14 2 you; 
+- 1966
+: 1982 2 -1 I’ll 
+: 1986 4 0 give 
+: 1994 8 9 you 
+: 2008 16 6 up 
+- 2026
+: 2044 2 2 If 
+: 2048 4 -1 that’s 
+: 2056 4 0 what 
+: 2062 4 2 I 
+: 2068 4 4 should 
+: 2074 18 2 do, 
+: 2108 2 2 to 
+* 2112 4 12 make 
+: 2120 10 11 you 
+: 2134 4 9 hap
+: 2140 8 7 py. 
+- 2150
+: 2164 2 7 I 
+: 2168 2 9 can 
+: 2172 2 7 pre
+: 2176 6 11 tend 
+: 2184 2 9 each 
+: 2188 6 9 time 
+: 2196 2 7 I 
+: 2200 10 7 see 
+: 2212 6 9 you 
+- 2220
+: 2228 2 4 That 
+: 2232 2 7 I 
+: 2236 2 9 don’t 
+: 2240 8 11 care 
+: 2252 2 9 and 
+: 2256 2 9 I 
+: 2260 4 7 don’t 
+: 2268 4 7 need 
+: 2276 8 9 you. 
+- 2286
+: 2292 2 4 And 
+: 2296 2 7 though 
+: 2300 2 9 in
+: 2304 4 11 side 
+: 2312 2 9 I 
+: 2316 4 9 feel 
+: 2322 4 7 like 
+: 2328 8 7 dy
+: 2340 8 9 ing, 
+- 2350
+: 2358 2 4 You 
+: 2362 2 7 know 
+: 2366 2 9 you’ll 
+: 2370 5 11 ne
+: 2378 2 11 ver 
+: 2382 4 14 see 
+: 2388 4 11 me 
+: 2394 4 9 cry
+: 2402 4 7 ing. 
+- 2408
+: 2416 2 4 Don’t 
+: 2420 2 7 you 
+: 2424 2 9 e
+: 2428 2 11 ver 
+: 2432 4 11 think 
+: 2440 2 9 that 
+: 2444 4 9 I 
+: 2450 4 7 don’t 
+: 2456 10 7 love 
+: 2468 4 9 you, 
+- 2474
+: 2484 2 4 That 
+: 2488 2 7 for 
+: 2492 3 9 one 
+: 2497 6 11 mi
+: 2505 2 9 nute 
+: 2510 2 9 I 
+: 2514 2 7 for
+: 2518 12 7 got 
+: 2532 4 9 you. 
+- 2538
+: 2548 2 4 But 
+: 2552 2 7 some
+: 2556 6 9 times 
+: 2564 6 11 things 
+: 2572 4 9 don’t 
+: 2578 2 9 work 
+: 2582 4 7 out 
+: 2588 18 7 right, 
+- 2608
+: 2612 2 4 And 
+: 2616 2 7 you 
+: 2620 2 9 just 
+: 2625 4 11 have 
+: 2632 2 11 to 
+: 2637 4 14 say 
+: 2645 2 11 go
+* 2648 3 7 od
+: 2652 16 9 bye.
+: 2670 2 7 ~
+: 2674 14 11 ~ 
+- 2690
+: 2788 2 2 Don’t 
+: 2792 2 5 wan
+: 2796 2 7 na 
+: 2800 4 9 say 
+: 2808 2 7 good
+: 2812 6 7 bye
+: 2820 16 5 ~ 
+E

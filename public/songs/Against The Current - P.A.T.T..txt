@@ -1,0 +1,370 @@
+#ARTIST:Against The Current
+#TITLE:P.A.T.T.
+#MP3:Against The Current - P.A.T.T..mp3
+#CREATOR:princetongirl98
+#GENRE:Pop
+#YEAR:2018
+#LANGUAGE:English
+#BPM:232
+#GAP:1910
+#VIDEO:a=qw5Z1bF3dfc,co=past-lives-5bcc31d4beac9.jpg,bg=against-the-current-55d8b015a9639.jpg
+: 0 2 5 If 
+: 4 2 9 love 
+: 8 2 0 is 
+: 12 10 7 blind 
+- 24
+: 28 2 9 Why 
+: 32 1 9 do 
+: 34 1 2 we 
+: 36 2 5 got 
+: 40 1 2 to 
+: 42 1 5 be 
+: 44 14 9 pretty 
+: 60 6 4 all 
+: 68 5 2 the 
+: 74 1 2 time? 
+- 76
+F 76 6 17 (Girls, 
+F 112 6 17 girls) 
+- 120
+: 140 1 9 You 
+: 142 1 0 tell 
+: 144 2 2 me 
+: 148 1 5 I 
+: 150 6 5 never 
+: 158 8 10 smile 
+- 168
+: 170 1 10 You 
+: 172 2 7 tell 
+: 176 2 10 me 
+: 180 1 0 I 
+: 182 2 2 talk 
+: 186 2 0 too 
+: 190 4 2 much 
+- 196
+: 202 1 10 It 
+: 204 2 4 feels 
+: 208 2 4 like 
+: 212 1 5 I’m 
+: 214 2 5 u
+: 218 2 5 nder 
+: 222 8 10 fire 
+- 232
+: 234 1 10 It 
+: 236 2 7 feels 
+: 240 2 0 like 
+: 244 1 0 I’m 
+: 246 2 9 not 
+: 250 8 0 enough 
+- 260
+: 266 2 10 I 
+: 270 2 9 won’t 
+: 274 2 9 let 
+: 278 2 9 you 
+: 282 2 9 bring 
+: 286 2 7 me 
+: 290 26 5 down 
+- 318
+: 330 6 7 Gotta 
+: 338 2 9 let 
+: 342 2 9 all 
+: 346 2 9 of 
+: 350 2 7 me 
+: 354 26 5 out 
+- 382
+: 394 1 5 I 
+: 396 2 9 don’t 
+: 400 2 5 need 
+: 404 1 5 to 
+: 406 2 5 look 
+: 410 2 2 so 
+: 414 2 0 per
+: 418 4 9 fect 
+- 424
+: 426 1 5 To 
+: 428 2 0 make 
+: 432 2 5 me 
+: 436 2 5 feel 
+: 440 2 0 like 
+: 444 1 0 I’m 
+: 446 2 0 worth 
+: 450 4 9 it 
+: 462 16 5 now 
+- 480
+: 508 1 10 If 
+: 510 2 0 love 
+: 514 3 9 is 
+: 518 10 9 blind 
+- 530
+: 534 1 2 Why 
+: 536 1 4 do 
+: 538 2 2 we 
+: 542 1 9 got 
+: 544 2 2 to 
+: 548 1 5 be 
+: 550 14 7 pretty 
+: 566 6 4 all 
+: 574 4 4 the 
+: 580 12 2 time? 
+- 594
+F 596 4 17 (Girls, 
+F 622 4 17 girls) 
+- 628
+: 634 1 5 If 
+: 636 1 5 love 
+: 638 2 5 is 
+: 644 10 9 blind 
+- 656
+: 660 1 9 Why 
+: 662 1 9 do 
+: 664 1 5 we 
+: 666 2 9 got 
+: 670 1 9 to 
+: 672 1 9 be 
+: 674 14 5 pretty 
+: 690 6 9 all 
+: 698 4 4 the 
+: 704 8 5 time? 
+- 713
+F 714 8 5 (Girls, 
+F 752 6 5 girls) 
+- 760
+: 778 1 10 Don’t 
+: 780 2 9 tell 
+: 784 2 2 me 
+: 788 1 5 that 
+: 790 2 5 I 
+: 794 2 5 look 
+: 798 8 10 tired 
+- 807
+: 808 2 9 I’m 
+: 812 8 10 already 
+: 822 2 0 in 
+: 826 1 0 my 
+: 828 4 2 head 
+- 834
+: 840 2 9 Don’t 
+: 844 2 9 tell 
+: 848 2 2 me 
+: 852 1 5 that 
+: 854 2 5 I 
+: 858 2 5 look 
+: 862 6 10 better 
+- 869
+: 870 2 9 With 
+: 874 1 10 my 
+: 876 2 5 hair 
+: 880 2 9 up, 
+: 884 2 7 dressed 
+: 888 2 9 up 
+: 892 1 7 and 
+: 894 8 7 make-up 
+- 903
+: 904 2 7 Don’t 
+: 910 2 9 need 
+: 914 1 9 you 
+: 916 6 9 telling 
+: 926 2 7 me 
+: 930 14 5 ho
+: 946 6 4 w 
+- 954
+: 970 1 2 I 
+: 972 2 5 could 
+: 978 2 9 look 
+: 982 10 0 beautiful 
+: 994 34 7 now 
+- 1030
+: 1034 1 0 If 
+: 1036 2 9 I 
+: 1040 2 2 live 
+: 1044 2 5 up 
+: 1048 2 0 to 
+: 1052 1 0 your 
+: 1054 1 0 stan
+: 1058 4 9 dards 
+- 1064
+: 1068 2 2 I’ll 
+: 1072 2 5 break 
+: 1076 6 0 under 
+: 1084 1 0 the 
+: 1086 8 9 pressure 
+: 1100 22 5 now 
+F 1134 6 17 (Girls) 
+- 1142
+: 1146 1 9 If 
+: 1148 2 10 love 
+: 1152 4 5 is 
+: 1158 10 9 blind 
+- 1170
+: 1172 2 9 Why 
+: 1176 1 2 do 
+: 1178 1 7 we 
+: 1180 2 9 got 
+: 1184 1 7 to 
+: 1186 1 2 be 
+: 1188 14 5 pretty 
+: 1204 6 0 all 
+: 1212 4 4 the 
+: 1220 8 2 time? 
+- 1229
+F 1230 8 0 (Girls, 
+F 1264 6 9 girls) 
+- 1272
+: 1274 1 5 If 
+: 1276 2 5 love 
+: 1280 4 5 is 
+: 1286 10 9 blind 
+- 1298
+: 1302 1 7 Why 
+: 1304 1 5 do 
+: 1306 1 2 we 
+: 1308 1 9 got 
+: 1310 1 9 to 
+: 1312 2 7 be 
+: 1316 14 7 pretty 
+: 1332 6 0 all 
+: 1340 4 4 the 
+: 1348 6 5 time? 
+- 1355
+F 1356 8 5 (Girls, 
+F 1392 8 9 girls) 
+- 1402
+: 1414 1 5 You 
+: 1416 2 0 just 
+: 1420 2 5 got 
+: 1424 1 5 to 
+: 1426 2 4 be 
+: 1430 1 2 who 
+: 1432 2 0 you 
+: 1438 6 2 are, 
+: 1446 1 2 that’s 
+: 1448 2 4 all 
+: 1452 2 5 you 
+: 1456 1 5 be 
+: 1458 2 2 can 
+- 1462
+: 1476 1 4 You 
+: 1478 2 5 just 
+: 1482 2 2 got 
+: 1486 1 5 to 
+: 1488 2 5 be 
+: 1492 2 2 who 
+: 1496 2 5 you 
+: 1500 4 5 are, 
+: 1508 1 2 that’s 
+: 1510 2 2 all 
+: 1514 2 5 you 
+: 1518 1 5 can 
+: 1520 4 5 be 
+- 1526
+: 1540 1 5 You 
+: 1542 2 5 just 
+: 1546 2 2 got 
+: 1550 1 5 to 
+: 1552 2 5 be 
+: 1556 1 2 who 
+: 1558 2 2 you 
+: 1562 6 5 are, 
+: 1572 1 9 that’s 
+: 1574 2 7 all 
+: 1578 2 7 you 
+: 1582 1 7 can 
+: 1584 8 5 be 
+- 1594
+: 1604 1 7 You 
+: 1606 2 5 just 
+: 1610 2 0 got 
+: 1614 1 5 to 
+: 1616 2 5 be 
+: 1620 1 2 who 
+: 1622 2 2 you 
+: 1626 6 5 are, 
+: 1636 1 2 that’s 
+: 1638 2 2 all 
+: 1642 1 5 you 
+: 1644 2 5 can 
+: 1648 4 5 be 
+- 1654
+: 1656 1 0 If 
+: 1658 2 5 love 
+: 1662 4 0 is 
+: 1668 8 9 blind 
+- 1678
+: 1684 1 0 Why 
+: 1686 1 0 do 
+: 1688 1 9 we 
+: 1690 2 7 got 
+: 1694 1 9 to 
+: 1696 1 9 be 
+: 1698 14 5 pretty 
+: 1714 6 9 all 
+: 1722 4 4 the 
+: 1730 8 5 time? 
+- 1739
+F 1740 8 0 (Girls, 
+F 1772 6 7 girls) 
+- 1780
+: 1784 1 5 If 
+: 1786 2 0 love 
+: 1790 4 5 is 
+: 1796 10 9 blind 
+- 1808
+: 1812 1 0 Why 
+: 1814 1 5 do 
+: 1816 1 5 we 
+: 1818 2 7 got 
+: 1822 1 9 to 
+: 1824 2 2 be 
+: 1828 13 7 pretty 
+: 1842 6 9 all 
+: 1850 4 4 the 
+: 1858 7 5 time? 
+- 1866
+F 1866 8 5 (Girls, 
+F 1900 8 5 girls) 
+- 1910
+: 1912 1 10 If 
+: 1914 2 5 love 
+: 1918 4 5 is 
+: 1924 8 9 blind 
+- 1934
+: 1940 1 2 Why 
+: 1942 1 2 do 
+: 1944 1 5 we 
+: 1946 2 5 got 
+: 1950 1 9 to 
+: 1952 1 9 be 
+: 1954 12 5 pretty 
+: 1970 6 2 all 
+: 1978 6 4 the 
+: 1986 8 2 time? 
+- 1995
+F 1996 6 5 (Girls, 
+F 2028 6 5 girls) 
+- 2036
+: 2040 1 2 If 
+: 2042 2 10 love 
+: 2046 4 5 is 
+: 2052 8 9 blind 
+- 2062
+: 2068 1 0 Why 
+: 2070 1 2 do 
+: 2072 1 2 we 
+: 2074 2 5 got 
+: 2078 1 5 to 
+: 2080 2 5 be 
+: 2084 13 7 pretty 
+: 2098 6 5 all 
+: 2106 6 4 the 
+: 2114 8 5 time? 
+- 2123
+F 2124 6 5 (Girls, 
+F 2156 6 5 girls) 
+- 2164
+: 2216 12 7 Pretty 
+: 2230 6 4 all 
+: 2238 5 4 the 
+: 2244 6 5 time 
+- 2252
+F 2254 8 17 (Girls) 
+E

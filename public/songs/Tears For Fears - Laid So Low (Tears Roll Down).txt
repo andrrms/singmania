@@ -1,0 +1,281 @@
+#ARTIST:Tears For Fears
+#TITLE:Laid So Low (Tears Roll Down)
+#MP3:Tears For Fears - Laid So Low (Tears Roll Down).mp3
+#CREATOR:sentientred
+#YEAR:1992
+#LANGUAGE:English
+#BPM:226.45
+#GAP:25540
+#VIDEO:v=WP1JT5yHllQ,co=laid-so-low-tears-roll-down-5d4b26f0d316b.jpg,bg=tears-for-fears-503034fd30b5b.jpg
+: 0 2 0 Chewed 
+: 4 2 -2 the 
+: 8 24 1 bone 
+: 36 20 0 down 
+- 58
+: 64 6 -2 Too 
+: 72 14 1 low 
+- 88
+: 136 2 -7 Got 
+: 140 6 -2 fed 
+: 148 6 -4 on 
+: 156 6 -6 tea 
+: 164 4 -7 and 
+: 172 7 -7 sym
+: 180 3 -6 pa
+: 184 20 -11 thy 
+- 206
+: 254 2 0 Blew 
+: 258 2 -2 the 
+: 262 24 1 sail 
+: 290 14 0 like 
+: 318 6 -2 the 
+: 326 12 1 wind 
+- 340
+: 390 2 -7 I 
+: 394 6 -2 wish 
+: 402 6 -4 you 
+: 410 6 -6 were 
+: 418 4 -7 my 
+: 426 4 -7 en
+: 434 3 -6 e
+: 438 26 -11 my 
+- 466
+: 508 2 -9 I 
+: 512 2 -2 was 
+: 516 7 -2 hum
+: 524 4 0 ble 
+: 532 4 0 for 
+* 540 10 1 you 
+- 552
+: 572 2 -2 What 
+: 576 2 1 a 
+: 580 6 5 fool 
+: 588 6 3 I’ve 
+: 596 6 3 been 
+* 604 2 1 to 
+* 608 6 -2 have 
+* 616 6 3 laid 
+- 624
+: 640 2 5 So 
+: 644 8 3 low 
+- 654
+: 666 2 1 For 
+: 670 2 5 so 
+: 674 16 3 long 
+* 702 3 5 so 
+* 706 42 3 low 
+- 750
+: 754 3 -2 In
+: 758 2 1 to 
+: 762 6 -2 that 
+: 770 7 1 void 
+: 778 6 -2 of 
+: 786 6 1 si
+: 794 6 3 lence 
+- 802
+: 824 4 -2 Where 
+: 830 4 1 we 
+: 836 10 5 cry 
+: 848 3 3 with
+: 852 6 1 out 
+: 860 12 -2 sound 
+- 874
+: 896 3 -2 Where 
+: 900 3 1 tears 
+: 904 6 3 roll 
+: 912 8 3 down 
+- 922
+: 924 6 -2 Where 
+* 932 14 5 tears 
+* 948 14 3 roll 
+* 964 12 1 down 
+- 978
+: 1008 2 -2 And 
+: 1012 2 1 where 
+: 1016 6 -2 your 
+: 1024 7 1 mo
+: 1032 6 -2 ther’s 
+: 1040 7 1 vio
+: 1048 6 3 lence 
+- 1056
+: 1080 5 -2 Sent 
+: 1086 4 1 your 
+: 1092 6 5 soul 
+: 1102 4 3 un
+: 1108 4 1 der
+: 1114 8 -2 ground 
+- 1124
+: 1150 2 -2 Where 
+: 1154 4 1 tears 
+: 1160 4 3 roll 
+: 1166 11 3 down 
+- 1178
+* 1178 6 -2 Where 
+: 1186 14 5 tears 
+* 1202 14 3 roll 
+* 1218 14 1 down 
+- 1234
+: 1300 2 0 Drew 
+: 1304 2 -2 the 
+: 1308 24 1 blade 
+: 1336 12 0 way 
+: 1364 6 -2 too 
+: 1372 12 1 slow 
+- 1386
+: 1436 2 -7 Was 
+: 1440 6 -2 shack
+: 1448 6 -4 led 
+: 1456 6 -6 by 
+: 1464 4 -7 your 
+: 1472 7 -7 ho
+: 1480 3 -6 nes
+: 1484 16 -11 ty 
+- 1502
+: 1554 3 0 Made 
+: 1558 3 -2 a 
+: 1562 3 0 mess 
+: 1566 12 -2 I 
+- 1580
+: 1586 2 0 Guess 
+: 1590 8 -2 I 
+- 1600
+: 1618 2 0 Should 
+: 1622 2 -2 have 
+: 1626 12 1 known 
+- 1640
+: 1688 2 -7 That 
+: 1692 6 -2 life 
+: 1700 6 -4 was 
+: 1708 6 -6 lust 
+: 1716 6 -7 and 
+: 1724 7 -7 li
+: 1732 3 -6 ber
+: 1736 22 -11 ty 
+- 1760
+: 1808 2 -9 Not 
+: 1812 2 -2 a 
+: 1816 6 -2 chance 
+* 1824 6 0 mu
+* 1832 7 0 ta
+* 1840 8 1 tion 
+- 1850
+: 1870 2 -2 Or 
+: 1874 2 1 the 
+: 1878 6 5 last 
+: 1886 3 6 temp
+: 1890 3 5 ~
+: 1894 7 3 ta
+: 1902 10 1 tion 
+- 1913
+: 1914 10 3 Laid 
+- 1926
+: 1938 2 5 So 
+: 1942 10 3 low 
+- 1954
+: 1966 2 1 For 
+: 1970 2 5 so 
+: 1974 8 3 long 
+- 1984
+: 2002 3 5 So 
+: 2006 32 3 low 
+- 2040
+: 2054 3 -2 In
+: 2058 2 1 to 
+: 2062 6 -2 that 
+: 2070 6 1 void 
+: 2078 6 -2 of 
+: 2086 7 1 si
+: 2094 6 3 lence 
+- 2102
+: 2126 2 -2 Where 
+: 2130 2 1 we 
+: 2136 10 5 cry 
+: 2148 3 3 with
+: 2152 2 1 out 
+: 2160 6 -2 sound 
+- 2168
+: 2196 3 -2 Where 
+: 2200 4 1 tears 
+: 2206 4 3 roll 
+: 2212 8 3 down 
+- 2222
+: 2224 6 -2 Where 
+: 2232 14 5 tears 
+: 2248 14 3 roll 
+: 2264 12 1 down 
+- 2278
+: 2306 2 -2 And 
+: 2310 2 1 where 
+: 2314 6 -2 your 
+: 2322 7 1 mo
+: 2330 6 -2 ther’s 
+: 2338 7 1 vio
+: 2346 4 3 lence 
+- 2352
+: 2378 4 -2 Sent 
+: 2384 4 1 your 
+: 2390 10 5 soul 
+: 2402 3 3 un
+: 2406 4 1 der
+: 2414 10 -2 ground 
+- 2426
+* 2450 3 -2 Where 
+* 2454 3 1 tears 
+* 2458 6 3 roll 
+* 2466 8 3 down 
+- 2475
+: 2476 6 -2 Where 
+: 2484 14 5 tears 
+: 2500 14 3 roll 
+: 2516 16 1 down 
+- 2534
+: 2926 3 -2 In
+: 2930 2 1 to 
+: 2934 6 -2 that 
+: 2942 6 1 void 
+: 2950 6 -2 of 
+: 2958 7 1 si
+: 2966 6 3 lence 
+- 2974
+: 2996 4 -2 Where 
+: 3002 4 1 we 
+: 3008 10 5 cry 
+: 3020 1 3 with
+: 3022 8 1 out 
+: 3032 8 -2 sound 
+- 3042
+: 3068 2 -2 Where 
+: 3072 2 1 tears 
+: 3076 6 3 roll 
+: 3084 8 3 down 
+- 3094
+: 3096 6 -2 Where 
+: 3104 14 5 tears 
+: 3120 14 3 roll 
+: 3136 12 1 down 
+- 3150
+: 3178 2 -2 And 
+: 3182 2 1 where 
+: 3186 6 -2 your 
+: 3194 7 1 mo
+: 3202 6 -2 ther’s 
+: 3210 7 1 vio
+: 3218 8 3 lence 
+- 3228
+: 3250 4 -2 Sent 
+: 3256 4 1 your 
+: 3262 10 5 soul 
+: 3274 3 6 un
+: 3278 7 8 der
+: 3286 12 5 ground 
+- 3300
+: 3322 2 -2 Where 
+: 3326 2 1 tears 
+: 3330 6 3 roll 
+: 3338 8 3 down 
+- 3347
+: 3348 6 -2 Where 
+: 3356 14 5 tears 
+: 3372 14 3 roll 
+: 3388 16 1 down 
+E

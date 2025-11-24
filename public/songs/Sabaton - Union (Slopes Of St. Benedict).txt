@@ -1,0 +1,289 @@
+#ARTIST:Sabaton
+#TITLE:Union (Slopes Of St. Benedict)
+#MP3:Sabaton - Union (Slopes Of St. Benedict).mp3
+#CREATOR:Shifty
+#GENRE:Power Metal
+#YEAR:2011
+#LANGUAGE:English
+#BPM:389.42
+#GAP:18310
+#VIDEO:v=oMb2Lwe1GEs,co=the-art-of-war-54caae7296ab7.jpg,bg=sabaton-613c710edd8fc.jpg
+F 0 2 0 Regard 
+F 4 5 0 your 
+F 11 11 0 soldiers 
+F 24 3 0 as 
+F 30 5 0 your 
+F 37 14 0 children 
+F 53 3 0 and 
+F 58 5 0 they 
+F 65 8 0 will 
+F 74 6 0 follow 
+F 83 4 0 you 
+F 90 2 0 into 
+F 93 8 0 the 
+F 103 6 0 deepest 
+F 114 12 0 battles. 
+F 131 24 0 Look 
+F 157 2 0 upon 
+F 160 4 0 them 
+F 166 11 0 as 
+F 193 3 0 your 
+F 198 2 0 own 
+F 201 6 0 beloved 
+F 209 6 0 sons 
+F 216 8 0 and 
+F 226 2 0 they 
+F 230 7 0 will 
+F 239 2 0 stand 
+F 242 10 0 by 
+F 254 10 0 you, 
+F 267 2 0 even 
+F 270 2 0 until 
+F 274 11 0 death. 
+- 287
+: 812 4 -7 As 
+: 817 3 -7 a 
+: 822 9 -5 turn 
+: 832 5 -5 of 
+: 839 4 -5 the 
+: 845 13 -5 tide 
+- 859
+: 860 3 -2 It 
+: 864 3 -2 is 
+: 868 4 -2 our 
+: 873 10 -2 turn 
+: 884 5 -2 to 
+: 891 15 -2 rise 
+- 908
+: 909 7 -5 The 
+: 918 14 -2 force 
+: 933 3 -2 of 
+: 937 3 -2 a 
+: 941 6 2 u
+: 948 9 2 nion 
+: 958 6 2 at 
+: 965 21 0 war 
+- 988
+: 1012 5 -5 March 
+: 1019 12 -5 over 
+: 1033 7 -5 moun
+: 1042 10 -5 tains 
+- 1053
+: 1053 3 -2 On 
+: 1057 3 -2 our 
+: 1061 5 -2 way 
+: 1067 6 -3 to 
+: 1074 9 -5 the 
+: 1084 15 -3 north 
+- 1100
+: 1101 3 -2 On 
+: 1106 2 -2 the 
+: 1110 11 3 road 
+: 1124 6 3 that 
+: 1131 7 5 leads 
+: 1140 7 3 us 
+: 1149 4 2 to 
+: 1155 7 2 Ro
+: 1163 17 0 me 
+- 1182
+: 1191 8 2 Our 
+: 1203 14 3 way 
+: 1226 6 5 will 
+: 1235 6 3 not 
+: 1244 5 3 be 
+: 1250 7 2 ea
+: 1258 9 0 sy 
+- 1269
+: 1285 4 -2 It 
+: 1291 6 0 will 
+: 1299 6 2 take 
+: 1308 2 2 us 
+: 1312 6 2 through 
+: 1319 10 2 hard
+: 1330 3 0 ship 
+: 1335 6 -2 and 
+: 1342 14 -5 pain 
+- 1358
+: 1394 6 -2 Hill 
+: 1403 11 -2 after 
+: 1417 18 -2 hill 
+: 1440 15 0 breaking 
+: 1458 6 0 their 
+: 1466 7 0 lines 
+: 1476 5 -2 of 
+: 1483 36 -3 defence 
+- 1521
+: 1537 20 7 Head 
+: 1561 20 5 on 
+: 1586 49 7 North 
+- 1637
+: 2016 6 0 Mile 
+: 2024 15 0 after 
+: 2042 16 0 mile 
+- 2059
+: 2060 3 -5 Our 
+: 2065 7 -2 march 
+: 2074 9 -3 car
+: 2084 4 -5 ries 
+: 2090 17 -1 on 
+- 2108
+: 2109 3 -5 No 
+: 2114 19 -2 army 
+: 2134 4 -2 may 
+: 2139 7 2 stop 
+: 2148 6 2 our 
+: 2156 5 2 ap
+: 2162 21 0 proach 
+- 2185
+: 2209 5 -5 Fight 
+: 2216 6 -5 side 
+: 2225 5 -5 by 
+: 2232 13 -5 side 
+- 2246
+: 2246 9 -2 Many 
+: 2256 7 -2 na
+: 2264 6 -3 tions 
+: 2272 6 -5 u
+: 2279 13 -2 nite 
+- 2293
+: 2294 4 -2 In 
+: 2299 3 -2 the 
+: 2303 21 3 shadow 
+: 2325 3 3 of 
+: 2330 6 5 Mon
+: 2337 6 2 te 
+: 2344 15 2 Cassi
+: 2360 13 0 no 
+- 2375
+: 2389 8 0 We 
+: 2399 17 3 fight 
+: 2421 9 5 and 
+: 2432 7 3 die 
+: 2441 6 3 to
+: 2448 8 2 ge
+: 2457 10 0 ther 
+- 2469
+: 2477 7 -2 As 
+: 2487 5 0 we 
+: 2494 7 2 head 
+: 2503 5 2 for 
+: 2510 5 2 the 
+: 2517 10 0 val
+: 2528 4 2 ley 
+: 2534 5 3 of 
+: 2541 13 2 death 
+- 2556
+: 2591 7 -2 Des
+: 2599 7 -2 ti
+: 2607 5 -2 ny 
+: 2614 16 -2 calls 
+: 2638 8 0 we’ll 
+: 2648 6 0 not 
+: 2656 6 0 su
+: 2663 8 0 rren
+: 2672 7 -2 der 
+: 2681 5 -3 or 
+: 2688 18 -3 fail 
+- 2708
+: 2770 9 5 To 
+: 2782 42 7 arms, 
+: 2829 8 5 un
+: 2838 7 3 der 
+: 2847 4 2 one 
+: 2854 7 2 ban
+: 2862 10 0 ner 
+- 2873
+: 2874 3 -2 As 
+: 2878 8 0 a 
+: 2888 5 2 unit 
+: 2896 5 2 we 
+: 2903 14 3 stand 
+: 2919 3 3 and 
+: 2924 9 3 uni
+: 2934 7 2 ted 
+: 2943 4 0 we 
+: 2950 10 0 fall 
+- 2961
+: 2962 9 5 As 
+: 2974 44 7 one, 
+: 3022 8 5 figh
+: 3031 7 3 ting 
+: 3041 12 2 toge
+: 3054 10 0 ther 
+- 3066
+: 3069 12 2 Bringing 
+: 3084 7 2 an 
+: 3094 8 3 end 
+: 3104 6 2 to 
+: 3111 5 -2 the 
+: 3118 21 -2 slaug
+: 3140 18 -3 hter 
+- 3160
+: 3164 23 -5 Winds 
+: 3189 22 -3 are 
+: 3214 21 -2 chan
+: 3237 20 -3 ging 
+- 3259
+: 3260 20 7 Head 
+: 3285 19 5 on 
+* 3309 51 7 North 
+- 3362
+: 4674 23 2 Head 
+: 4699 21 5 on 
+* 4723 36 7 North 
+- 4761
+: 4801 9 5 Head 
+: 4812 5 5 on 
+* 4820 42 7 North 
+- 4864
+: 4904 8 7 Times 
+: 4915 17 7 chan
+: 4935 23 3 ging 
+- 4960
+: 4961 21 8 Head 
+: 4986 21 5 on 
+* 5010 36 7 North 
+- 5048
+: 5189 10 5 To 
+: 5202 44 7 arms, 
+: 5250 6 5 un
+: 5258 7 3 der 
+: 5267 5 2 one 
+: 5274 5 2 ban
+: 5280 10 0 ner 
+- 5291
+: 5292 3 -2 As 
+: 5296 2 0 a 
+: 5300 8 2 unit 
+: 5310 4 2 we 
+: 5317 19 3 stand 
+: 5338 3 3 and 
+: 5342 9 3 uni
+: 5352 6 2 ted 
+: 5360 6 0 we 
+: 5368 13 0 fall 
+- 5382
+: 5383 8 5 As 
+: 5394 42 7 one, 
+: 5440 7 5 figh
+: 5450 7 3 ting 
+: 5458 11 2 toge
+: 5470 6 0 ther 
+- 5478
+: 5491 14 2 Bringing 
+: 5507 3 2 an 
+: 5513 6 3 end 
+: 5521 6 2 to 
+: 5529 5 -2 the 
+: 5536 18 -2 slaugh
+: 5557 22 -3 ter 
+- 5581
+: 5584 21 -5 Winds 
+: 5608 20 -3 are 
+: 5631 22 -2 chan
+: 5655 19 -3 ging 
+- 5676
+: 5679 21 7 Head 
+: 5703 20 5 on 
+* 5726 26 7 North 
+E

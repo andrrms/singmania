@@ -1,0 +1,374 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Touch-a, Touch-a, Touch-a, Touch Me
+#MP3:The Rocky Horror Picture Show - Touch-a, Touch-a, Touch-a, Touch Me.mp3
+#CREATOR:Fepo
+#COVER:The Rocky Horror Picture Show - Touch-a, Touch-a, Touch-a, Touch Me [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - Touch-a, Touch-a, Touch-a, Touch Me [BG].jpg
+#GENRE:Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:227.94
+#GAP:1170
+#VIDEO:a=6eD-H3a8D6E,v=JKMpRikJeLI,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=https://filmobsessive.com/wp-content/uploads/2019/10/maxresdefault-1-1.jpg,preview=54.14,medley=448-965
+: 0 2 7 I 
+: 4 2 7 was 
+: 10 2 7 fee
+: 14 2 5 ling 
+: 18 2 3 done 
+: 22 2 3 i
+: 26 16 7 ~n 
+- 52
+: 70 2 2 Could
+: 73 3 2 n’t 
+: 78 5 -2 wi
+: 84 4 2 ~n 
+- 98
+: 117 2 3 I’d 
+: 120 2 3 on
+: 123 3 5 ly 
+: 127 2 7 e
+: 131 2 7 ver 
+: 139 5 5 kissed 
+: 147 3 3 be
+: 154 7 5 fo
+: 163 4 3 ~
+: 169 17 0 ~re 
+- 197
+: 201 1 7 You 
+: 203 3 8 mean 
+: 207 2 8 she 
+- 211
+: 213 3 2 U
+: 218 2 2 hu 
+- 226
+: 228 2 5 I 
+: 232 3 5 thought 
+: 237 3 7 there’s 
+: 242 4 8 no 
+: 248 3 8 use 
+: 254 3 7 get
+: 259 8 5 ting, 
+- 277
+: 286 5 3 In
+: 293 3 5 to 
+: 300 3 7 hea
+: 305 3 7 vy 
+: 312 3 5 pet
+: 317 8 3 ting, 
+- 336
+: 340 2 7 It 
+: 343 3 7 on
+: 348 2 7 ly 
+: 352 2 7 lea
+: 356 7 11 ~ds 
+: 365 2 7 to 
+: 369 4 5 trou
+: 375 6 7 ble 
+: 384 2 7 a
+: 388 9 11 ~nd 
+- 406
+: 410 5 7 Seat 
+: 417 3 5 wet
+: 422 11 7 ting, 
+- 444
+: 448 2 7 Now 
+: 451 2 7 all 
+: 454 2 7 have 
+: 457 2 7 want 
+: 460 2 5 to 
+: 466 2 3 kno
+: 469 7 7 ~w 
+- 486
+: 498 2 5 Is 
+: 502 5 2 how 
+: 509 3 3 to 
+: 514 2 3 go
+: 517 4 5 ~
+: 522 2 3 ~
+: 526 7 2 ~ 
+- 539
+: 541 3 3 I’ve 
+: 547 3 3 tas
+: 552 2 5 ted 
+: 557 6 7 blood 
+: 565 3 7 and 
+: 570 2 5 I 
+: 574 3 3 want 
+: 579 12 5 more 
+- 591
+F 593 7 7 More 
+F 603 7 7 more 
+F 613 8 7 more 
+- 628
+: 631 3 5 I’ll 
+: 636 3 5 put 
+: 641 3 7 up 
+* 646 4 8 no 
+: 652 2 8 re
+: 656 2 7 sis
+: 662 5 5 tance, 
+- 674
+: 677 2 3 I 
+: 681 2 3 want 
+: 685 2 7 to 
+: 691 4 8 stay 
+: 697 2 8 the 
+: 701 2 5 dis
+: 707 6 3 tance, 
+- 719
+: 722 2 7 I’ve 
+: 726 2 7 got 
+: 730 2 7 an 
+: 735 3 7 itch 
+: 743 3 7 to 
+: 748 4 7 scra
+: 754 6 7 ~tch 
+- 763
+: 765 2 7 I 
+: 769 3 7 need 
+: 774 2 7 as
+: 779 2 7 si
+: 783 4 9 ~s
+: 789 10 11 tance, 
+- 803
+: 805 2 12 Tou
+: 808 2 12 cha, 
+: 811 2 12 tou
+: 814 2 12 cha, 
+: 817 2 12 tou
+: 820 2 12 cha, 
+: 824 4 12 touch 
+* 830 11 9 me, 
+- 846
+: 848 2 12 I 
+: 852 2 12 wan
+: 855 2 12 na 
+: 859 2 12 be 
+: 864 2 16 di
+: 867 2 18 ~
+: 870 2 16 ~r
+: 875 7 12 ty, 
+- 888
+: 891 2 12 Thrill 
+: 894 2 12 me, 
+: 897 2 12 chill 
+: 900 2 12 me, 
+: 903 2 12 full
+: 906 3 12 fi
+: 910 2 11 ~ll 
+: 914 6 9 me, 
+- 929
+: 932 2 12 Crea
+: 935 2 12 ture 
+: 939 3 16 o
+: 943 3 14 ~f 
+: 948 2 12 the 
+: 952 13 12 night 
+- 995
+: 1048 2 7 Then 
+: 1052 1 7 if 
+: 1054 2 7 a
+: 1057 2 7 ny
+: 1060 3 3 thing 
+: 1065 3 3 gro
+: 1070 5 7 ~ws 
+- 1085
+: 1098 4 2 While 
+: 1104 3 2 you 
+: 1109 2 3 po
+: 1113 3 5 ~
+: 1118 2 3 ~
+: 1122 8 2 ~se 
+- 1137
+: 1140 2 3 I’ll 
+: 1144 2 3 oil 
+: 1148 3 5 you 
+: 1154 2 7 up 
+: 1159 4 7 and 
+: 1165 3 5 rub 
+: 1170 3 3 you 
+: 1175 11 5 down 
+- 1186
+F 1187 8 7 Down 
+F 1198 8 7 down 
+F 1209 9 7 down 
+- 1224
+: 1227 2 5 And 
+: 1231 2 5 that’s 
+: 1235 3 8 just 
+: 1240 4 12 one 
+: 1246 4 12 small 
+: 1252 4 8 frac
+: 1258 7 5 tion, 
+- 1271
+: 1274 2 3 Of 
+: 1278 2 5 the 
+: 1283 8 8 main 
+: 1293 2 8 at
+: 1296 4 5 trac
+: 1302 8 3 tion, 
+- 1315
+: 1317 2 5 You 
+: 1321 2 7 need 
+: 1324 2 7 a 
+: 1328 2 11 friend
+: 1332 2 7 ly 
+: 1337 5 5 ha
+: 1344 6 7 ~nd 
+- 1356
+: 1358 3 11 Oh 
+: 1363 2 7 i 
+: 1367 3 7 need 
+: 1371 2 7 a 
+: 1375 4 9 ac
+: 1381 10 11 tion, 
+- 1394
+: 1396 2 12 Tou
+: 1399 2 12 cha, 
+: 1402 2 12 tou
+: 1405 2 12 cha, 
+: 1408 2 12 tou
+: 1411 2 12 cha, 
+: 1415 4 12 touch 
+* 1421 11 9 me, 
+- 1437
+: 1439 2 12 I 
+: 1443 2 12 wan
+: 1446 2 12 na 
+: 1450 2 12 be 
+: 1455 2 16 di
+: 1458 2 18 ~
+: 1461 2 16 ~r
+: 1466 7 12 ty, 
+- 1479
+: 1481 2 12 Thrill 
+: 1484 2 12 me, 
+: 1487 2 12 chill 
+: 1490 2 12 me, 
+: 1493 2 12 full
+: 1496 3 12 fi
+: 1500 2 11 ~ll 
+: 1504 6 9 me, 
+- 1519
+: 1523 2 12 Crea
+: 1526 2 12 ture 
+: 1530 3 16 o
+: 1534 3 14 ~f 
+: 1539 2 12 the 
+: 1543 13 12 night 
+- 1562
+: 1565 2 12 Tou
+: 1568 1 12 cha, 
+: 1570 2 12 tou
+: 1573 1 12 cha, 
+: 1575 2 12 tou
+: 1578 2 12 cha, 
+: 1581 4 12 touch 
+* 1588 11 9 me, 
+- 1604
+: 1606 2 9 I 
+: 1610 2 9 wan
+: 1613 2 9 na 
+: 1617 2 9 be 
+: 1623 2 12 di
+: 1626 2 9 ~r
+: 1630 6 7 ty, 
+- 1644
+: 1647 2 12 Thrill 
+: 1650 1 12 me, 
+: 1652 2 12 chill 
+: 1655 1 12 me, 
+: 1657 2 12 full
+: 1661 3 12 fill 
+: 1666 10 9 me, 
+- 1685
+: 1688 2 9 Crea
+: 1692 2 10 ture 
+: 1696 3 9 of 
+: 1701 2 9 the 
+: 1705 7 7 night 
+- 1716
+: 1718 5 12 Oh,
+: 1725 2 13 ~ 
+: 1729 2 13 tou
+: 1732 2 13 cha, 
+: 1735 2 13 tou
+: 1738 1 13 cha, 
+: 1740 2 13 tou
+: 1743 2 13 cha, 
+: 1749 5 15 TOUCH 
+: 1756 3 13 ME
+: 1760 2 17 ~
+: 1763 2 15 ~, 
+: 1767 3 13 Yeah 
+- 1771
+: 1773 2 10 I 
+: 1777 1 10 wan
+: 1779 1 13 na 
+: 1781 3 13 be 
+: 1786 4 15 dir
+: 1791 3 13 ~
+: 1796 9 13 ty, 
+- 1810
+: 1812 2 13 Thrill 
+: 1815 2 13 me, 
+: 1818 2 13 chill 
+: 1821 2 12 me, 
+: 1824 3 13 full
+: 1829 5 13 fill 
+: 1836 8 10 me, 
+- 1850
+: 1853 2 13 Cre
+: 1856 2 13 ature 
+: 1860 5 17 o
+: 1867 2 15 ~f 
+: 1871 2 13 the 
+: 1875 57 13 night, 
+- 1933
+: 1935 2 13 Crea
+: 1939 3 17 ture 
+: 1944 2 10 of 
+: 1947 2 10 the 
+: 1950 2 10 ni
+: 1954 3 13 ~ght 
+- 1967
+: 1975 2 13 Crea
+: 1979 3 8 ture 
+: 1984 3 8 of 
+: 1989 2 8 the 
+: 1993 2 13 ni
+: 1997 3 10 ~ght 
+- 2012
+: 2016 2 13 Crea
+: 2020 2 8 ture 
+: 2024 2 8 of 
+: 2027 2 8 the 
+: 2030 2 8 ni
+: 2034 3 5 ~ght 
+- 2047
+: 2058 2 13 Crea
+: 2062 3 10 ture 
+: 2066 2 10 of 
+: 2069 2 10 the 
+: 2072 2 13 ni
+: 2075 3 10 ~ght 
+- 2088
+: 2098 2 13 Crea
+: 2102 2 13 ture 
+: 2105 1 17 o
+: 2107 1 15 ~f 
+: 2109 2 13 the 
+: 2112 17 13 night 
+- 2134
+F 2136 2 13 Crea
+F 2139 3 17 ture 
+F 2144 2 10 of 
+F 2147 1 10 the 
+F 2150 8 10 night 
+- 2168
+: 2180 2 13 Crea
+: 2184 2 17 ture 
+: 2187 2 10 of 
+: 2190 2 10 the 
+: 2194 7 10 night 
+E

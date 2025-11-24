@@ -1,0 +1,138 @@
+#ARTIST:Oasis
+#TITLE:Falling Down (Eden of the East Opening Theme)
+#MP3:Oasis - Falling Down (Eden of the East Opening Theme).mp3
+#CREATOR:Currymalker
+#COVER:Oasis - Falling Down (Eden of the East Opening Theme) [CO].jpg
+#BACKGROUND:Oasis - Falling Down (Eden of the East Opening Theme) [BG].jpg
+#YEAR:2008
+#LANGUAGE:English
+#BPM:261.96
+#GAP:8260
+#VIDEO:v=4pdqeu9LW2c,co=falling-down-53cff237c8cf2.jpg,bg=oasis-4de93a35b2bf3.jpg,medley=640-973
+: 0 4 6 Dy
+: 6 3 13 ing 
+* 13 2 11 scree
+* 17 5 13 ~n 
+: 32 4 13 makes 
+: 39 4 11 no 
+: 45 10 11 sound 
+- 57
+: 64 7 11 Cal
+: 72 3 9 ling 
+: 76 9 11 out 
+: 88 3 9 to 
+: 92 11 11 all 
+: 104 3 11 that 
+: 108 3 13 I’ve 
+* 112 3 11 e
+* 116 3 9 ver 
+: 120 4 6 known 
+- 126
+: 128 4 6 Here 
+: 135 3 13 am 
+: 140 10 13 I 
+- 152
+* 160 2 11 Lo
+* 163 2 13 ~st 
+* 168 3 11 and 
+: 173 10 11 found 
+- 185
+: 192 7 11 Cal
+* 200 3 9 ling 
+: 204 9 11 out 
+: 216 3 9 to 
+: 220 21 11 a
+: 242 2 13 ~ll 
+- 246
+: 292 3 13 We 
+: 296 3 13 live 
+: 300 2 13 a 
+: 304 3 16 dy
+: 308 5 18 ing 
+: 316 3 13 drea
+: 321 30 11 ~m 
+- 353
+: 420 2 13 If 
+: 424 3 13 you 
+* 428 2 13 know 
+* 432 3 16 what 
+: 436 4 18 I 
+: 444 3 13 mea
+: 448 23 11 ~
+: 472 1 9 ~n 
+- 474
+: 476 10 11 All 
+: 488 3 11 that 
+: 492 3 13 I’ve 
+: 496 3 11 e
+: 500 2 9 ver 
+: 504 24 6 known 
+- 530
+: 532 5 13 It’s 
+: 540 10 11 all 
+: 552 3 11 that 
+: 556 3 13 I’ve 
+* 560 3 11 e
+* 564 2 9 ver 
+: 568 15 6 known 
+- 585
+: 640 4 16 Catch 
+: 648 2 13 the 
+: 652 10 16 wheel 
+: 664 2 13 that 
+: 668 8 16 breaks 
+: 680 2 13 the 
+: 684 6 16 but
+* 692 1 16 te
+* 694 2 18 ~r
+: 700 24 13 fly 
+- 726
+: 764 2 9 I 
+* 768 2 9 crie
+* 771 3 11 ~d 
+: 776 2 9 the 
+: 780 10 11 rain 
+: 792 2 9 that 
+: 796 10 11 fills 
+: 808 2 9 the 
+: 812 6 11 o
+: 820 6 11 cean 
+: 828 22 13 wide 
+- 852
+* 892 2 9 I 
+* 896 5 16 tried 
+: 904 2 13 to 
+: 908 9 16 talk 
+: 920 2 13 with 
+: 924 9 16 God 
+: 936 2 13 to 
+: 940 6 16 no 
+: 948 1 16 a
+: 950 3 18 ~
+: 956 17 13 vail 
+- 975
+: 1008 2 13 Cal
+* 1012 2 11 ling 
+* 1016 2 9 Him 
+: 1020 2 9 i
+: 1024 6 11 ~n 
+: 1032 2 9 and 
+: 1036 10 11 out 
+: 1048 2 9 of 
+: 1052 6 11 no
+: 1060 8 13 where 
+- 1070
+: 1080 3 11 Said 
+: 1084 2 9 if 
+: 1088 3 11 you 
+* 1092 3 11 wo
+* 1096 1 13 ~n’t 
+: 1100 4 11 save 
+: 1108 4 9 me 
+- 1114
+: 1116 5 16 Please 
+: 1124 5 13 don’t 
+: 1132 4 11 waste 
+: 1140 4 9 my 
+: 1148 19 6 time 
+E

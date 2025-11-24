@@ -1,0 +1,185 @@
+#ARTIST:Within Temptation
+#TITLE:Restless
+#MP3:Within Temptation - Restless.mp3
+#CREATOR:Jamin
+#YEAR:1997
+#LANGUAGE:English
+#BPM:236
+#GAP:36130
+#VIDEO:v=r6c30taEfQc,co=restless-595ac5da0ae68.jpg,bg=within-temptation-4ff5a641724c7.jpg
+: 0 11 10 She 
+: 12 9 9 em
+: 22 24 7 braced 
+: 80 11 5 With 
+: 92 6 4 a 
+: 100 20 2 smile 
+- 122
+: 142 39 8 As 
+: 182 5 7 she 
+: 188 16 5 o
+: 206 23 7 pened 
+: 230 5 4 the 
+: 236 26 2 door 
+- 264
+: 280 11 10 Cold 
+: 292 9 9 wind 
+: 302 26 7 blows 
+: 352 10 5 puts 
+: 364 9 4 a 
+: 374 22 2 chill 
+- 398
+: 416 37 8 In
+: 454 5 7 to 
+: 460 16 5 her 
+: 478 36 7 heart 
+- 516
+: 544 19 13 You 
+: 564 8 12 have 
+: 574 15 10 ta
+: 590 6 8 ken 
+: 598 3 10 a
+: 602 24 12 way 
+: 628 5 8 the 
+: 634 20 5 trust 
+- 656
+: 670 22 12 You’re 
+: 694 3 10 the 
+: 698 16 7 ghost 
+- 716
+: 718 5 6 Haun
+: 724 8 7 ting 
+: 734 20 6 through 
+: 758 5 4 her 
+: 764 18 2 heart 
+- 784
+: 800 22 12 Past 
+: 824 3 10 and 
+: 828 9 10 pre
+: 838 10 8 sence 
+: 852 7 9 are 
+: 860 18 12 one 
+: 880 3 8 in 
+: 884 6 6 her 
+: 892 12 6 head 
+- 906
+: 926 25 12 You’re 
+: 952 2 10 the 
+: 956 16 7 ghost 
+- 973
+: 974 5 7 Haun
+: 980 6 7 ting 
+: 988 25 7 through 
+: 1014 5 5 her 
+: 1020 14 2 heart 
+- 1036
+: 1600 14 13 Take 
+: 1616 13 12 my 
+: 1630 17 10 hand 
+: 1648 3 12 as 
+: 1652 8 14 I 
+: 1662 17 16 won
+: 1680 13 4 der 
+: 1694 22 2 through 
+- 1718
+: 1728 13 14 All 
+: 1742 5 14 of 
+: 1748 8 2 my 
+: 1758 14 0 Life 
+: 1776 12 4 I 
+: 1790 15 14 gave 
+* 1806 13 18 to 
+: 1820 24 14 you 
+- 1846
+: 1856 14 13 Take 
+: 1872 12 12 my 
+: 1886 16 10 hand 
+: 1904 3 12 as 
+: 1908 9 14 I 
+: 1918 17 18 won
+: 1936 13 4 der 
+: 1950 22 2 through 
+- 1974
+: 1984 14 16 All 
+: 2000 3 14 of 
+: 2004 9 12 my 
+: 2014 14 0 Life 
+: 2034 11 4 I 
+: 2046 16 12 gave 
+* 2064 13 18 to 
+: 2078 24 14 you 
+- 2104
+: 2624 21 13 You 
+: 2646 6 12 have 
+: 2654 15 10 ta
+: 2670 5 8 ken 
+: 2676 5 10 a
+: 2682 28 12 way 
+: 2712 3 8 the 
+: 2716 20 5 trust 
+- 2738
+: 2752 23 12 You’re 
+: 2776 3 10 the 
+: 2780 16 7 ghost 
+- 2797
+: 2798 5 7 Haun
+: 2804 7 7 ting 
+: 2812 26 7 through 
+: 2840 5 5 her 
+: 2846 12 2 heart 
+- 2860
+: 2880 22 12 Past 
+: 2904 3 12 and 
+: 2908 11 10 pre
+: 2920 8 8 sence 
+: 2934 7 9 are 
+: 2942 17 12 one 
+: 2960 3 8 in 
+: 2964 5 6 her 
+: 2970 14 6 head 
+- 2986
+: 3008 23 12 You’re 
+: 3032 3 10 the 
+: 3036 14 7 ghost 
+- 3052
+: 3054 5 7 Haun
+: 3060 8 7 ting 
+: 3070 25 7 through
+: 3096 5 5 her 
+: 3102 12 2 heart 
+- 3116
+: 3650 13 13 Take 
+: 3664 13 12 my 
+: 3678 18 10 hand 
+: 3698 3 14 as 
+: 3702 7 14 I 
+: 3710 17 18 won
+: 3728 13 4 der 
+: 3742 22 2 through 
+- 3766
+: 3776 13 16 All 
+: 3790 5 14 of 
+: 3796 8 12 my 
+: 3806 14 0 Life 
+: 3824 13 4 I 
+: 3838 15 12 gave 
+* 3854 13 18 to 
+: 3868 24 12 you 
+- 3894
+: 3904 15 13 Take 
+: 3920 12 12 my 
+: 3934 16 10 hand 
+: 3952 3 14 as 
+: 3956 11 14 I 
+: 3968 15 18 won
+: 3984 13 4 der 
+: 3998 22 2 through 
+- 4022
+: 4032 13 16 All 
+: 4046 3 14 of 
+: 4050 9 12 my 
+: 4060 14 0 Life 
+: 4080 11 4 I 
+: 4092 15 12 gave 
+* 4108 13 16 to 
+: 4122 24 14 you 
+E

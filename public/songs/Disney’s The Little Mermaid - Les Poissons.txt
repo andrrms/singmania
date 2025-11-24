@@ -1,0 +1,268 @@
+#ARTIST:Disney’s The Little Mermaid
+#TITLE:Les Poissons
+#MP3:Disney’s The Little Mermaid - Les Poissons.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:1989
+#LANGUAGE:English
+#BPM:357.11
+#GAP:13050
+#VIDEO:v=UoJxBEQRLd0,co=https://i.scdn.co/image/ab67616d0000b273b0aa459f66cef652440f4637
+: 0 11 -1 Les 
+: 19 14 0 pois
+: 40 7 2 sons, 
+: 49 5 -1 les 
+: 55 6 0 pois
+: 63 6 2 sons 
+- 70
+: 71 5 -1 How 
+: 78 4 0 I 
+: 85 9 2 love 
+: 97 5 -1 les 
+: 103 4 0 pois
+: 109 6 2 sons 
+- 117
+: 121 3 -1 Love 
+: 125 2 2 to 
+: 128 8 7 chop 
+: 139 5 2 and 
+: 145 4 2 to 
+: 150 11 2 serve 
+: 162 3 0 lit
+: 166 4 -1 tle 
+: 171 11 0 fish 
+- 184
+: 200 3 0 First 
+: 205 3 2 I 
+: 210 3 4 cut 
+: 214 7 0 off 
+: 223 5 2 their 
+: 230 10 4 heads 
+- 241
+: 241 3 0 Then 
+: 246 5 2 I 
+* 253 5 4 pull 
+* 259 8 0 out 
+* 269 3 2 their 
+: 275 10 4 bones 
+- 287
+: 288 2 0 Ah 
+: 292 2 4 mais 
+: 296 6 9 oui, 
+: 308 4 4 ça 
+: 313 4 4 c’est 
+: 318 5 4 tou
+: 324 8 2 jours 
+: 334 5 1 del
+: 340 13 2 ice 
+- 355
+: 368 6 -1 Les 
+: 375 4 0 pois
+: 381 5 2 sons, 
+: 387 5 -1 les 
+: 393 4 0 pois
+: 399 5 2 sons 
+- 405
+: 406 4 -1 Hee 
+: 412 5 0 hee 
+* 419 5 2 hee, 
+* 427 4 -1 haw 
+: 434 3 0 haw 
+: 440 8 2 haw 
+- 450
+: 454 3 -1 With 
+: 458 3 2 a 
+: 463 3 7 cleav
+: 467 5 7 er 
+: 473 5 7 I 
+: 481 7 7 hack 
+: 493 3 9 them 
+: 497 4 7 in 
+: 502 20 4 two 
+- 524
+: 532 3 2 I 
+: 536 3 4 pull 
+: 540 6 7 out 
+: 549 3 4 what’s 
+: 553 3 6 in
+: 558 10 7 side 
+- 569
+: 570 2 6 And 
+: 573 5 4 I 
+: 580 4 6 serve 
+: 585 6 2 it 
+: 592 4 4 up 
+: 598 10 6 fried 
+- 609
+: 610 3 4 God, 
+: 614 4 2 I 
+: 619 9 0 love 
+: 630 3 2 lit
+: 634 3 4 tle 
+: 638 3 6 fish
+: 642 5 6 es, 
+: 649 6 9 don’t 
+: 657 15 7 you? 
+- 674
+: 691 4 7 Here’s 
+: 697 4 7 some
+: 703 5 7 thing 
+: 710 3 7 for 
+: 715 5 8 temp
+: 722 5 7 ting 
+: 728 5 5 the 
+: 735 3 7 pal
+: 739 14 3 ette 
+- 755
+: 771 5 -1 Prep
+: 777 6 7 ared 
+: 784 3 7 in 
+: 788 5 7 the 
+: 794 5 8 clas
+: 800 8 7 sic 
+: 810 3 5 tech
+: 815 17 7 nique 
+- 834
+: 842 4 3 First 
+: 848 4 5 you 
+: 853 7 7 pound 
+: 862 4 2 the 
+: 867 5 2 fish 
+: 874 7 2 flat 
+: 883 3 0 with 
+: 887 4 -1 a 
+* 892 4 2 mal
+: 897 14 7 let 
+- 913
+: 918 4 2 Then 
+: 923 5 4 you 
+: 930 6 5 slash 
+: 937 5 2 off 
+: 943 5 5 their 
+: 950 5 6 skin 
+- 956
+: 957 4 2 Give 
+: 963 5 3 their 
+: 970 5 4 bel
+: 977 5 2 ly 
+: 983 5 4 a 
+: 991 9 5 slice 
+- 1002
+: 1004 6 5 Then 
+: 1011 4 5 you 
+: 1017 7 7 rub 
+: 1027 4 3 some 
+: 1033 7 5 salt 
+: 1042 7 7 in 
+- 1050
+: 1051 5 3 ’Cause 
+: 1058 5 7 it 
+: 1065 8 6 makes 
+: 1074 8 7 it 
+: 1084 13 8 taste 
+* 1101 40 9 nice 
+- 1143
+F 1172 4 0 Zut 
+F 1177 4 0 a
+F 1182 8 0 lors, 
+F 1193 3 0 I 
+F 1197 5 0 have 
+F 1205 8 0 missed 
+F 1215 15 0 one! 
+- 1232
+: 1257 5 -1 Sac
+: 1264 6 0 re 
+: 1271 8 2 bleu, 
+: 1280 3 -1 what 
+: 1285 3 0 is 
+: 1290 9 2 this? 
+- 1300
+: 1301 3 -1 How 
+: 1305 3 0 on 
+: 1310 7 2 earth 
+: 1318 2 -1 could 
+: 1321 4 0 I 
+: 1328 11 2 miss 
+- 1341
+: 1342 3 -1 Such 
+: 1347 3 2 a 
+: 1353 6 7 sweet 
+: 1362 5 2 lit
+: 1368 3 2 tle 
+: 1374 5 2 suc
+: 1381 3 0 cul
+: 1385 3 -1 ent 
+: 1392 11 0 crab 
+- 1405
+: 1417 7 0 Quel 
+: 1426 3 2 dom
+: 1431 7 4 mage, 
+: 1440 3 0 what 
+: 1445 3 2 a 
+: 1450 9 4 loss 
+- 1460
+: 1461 3 0 Here 
+: 1466 2 2 we 
+: 1470 6 4 go, 
+: 1478 2 0 in 
+: 1482 3 2 the 
+: 1488 8 4 sauce 
+- 1498
+: 1500 4 0 Now 
+: 1506 3 2 some 
+: 1511 2 9 flo
+: 1514 4 4 ur 
+: 1520 3 4 I 
+: 1525 5 4 think 
+: 1531 7 2 just 
+: 1539 3 1 a 
+: 1544 10 2 dab 
+- 1556
+: 1573 3 4 Now 
+: 1578 3 2 I 
+: 1583 4 2 stuff 
+: 1589 3 -1 you 
+: 1593 3 0 with 
+: 1598 7 2 bread 
+- 1606
+: 1607 2 -1 It 
+: 1610 2 0 won’t 
+: 1613 7 2 hurt, 
+: 1623 4 0 ’cause 
+: 1628 3 1 you’re 
+: 1633 8 2 dead 
+- 1643
+: 1644 3 -1 And 
+: 1648 5 2 you’re 
+: 1655 3 7 cer
+: 1660 4 7 tain
+: 1666 4 7 ly 
+: 1673 3 7 luck
+: 1677 7 9 y 
+: 1685 5 7 you 
+: 1691 15 4 are 
+- 1708
+: 1718 3 4 ’Cause 
+: 1722 3 6 it’s 
+: 1727 3 7 gon
+: 1732 2 4 na 
+* 1736 5 6 be 
+* 1743 6 7 hot 
+: 1751 4 4 in 
+: 1756 5 5 my 
+: 1763 4 6 big 
+: 1768 5 2 sil
+: 1775 4 4 ver 
+: 1781 6 6 pot 
+- 1788
+: 1789 4 4 Too
+: 1794 3 2 dle-
+: 1799 7 0 oo 
+: 1809 5 2 mon 
+: 1815 2 4 pois
+: 1819 5 5 son 
+- 1825
+: 1825 5 7 Au 
+: 1832 4 9 rev
+: 1838 17 7 oir! 
+E

@@ -1,0 +1,124 @@
+#ARTIST:LeAnn Rimes
+#TITLE:American National Anthem
+#MP3:LeAnn Rimes - American National Anthem.mp3
+#CREATOR:jockel1974
+#LANGUAGE:English
+#BPM:244
+#GAP:760
+#VIDEO:a=y_T3XeqoWWQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/9b/cd/af/9bcdafd8-300c-0b6f-f977-5b62857b90a4/LeAnn_Rimes_-_God_Bless_America.jpg/5000x5000bb.jpg,bg=rimes-leann-51ffe8d69b65a.jpg
+: 0 11 15 Oh 
+: 12 23 12 Say 
+: 36 11 8 can 
+: 48 7 12 you 
+: 56 15 15 se 
+: 72 20 20 e 
+- 94
+: 100 11 24 By the 
+: 112 7 22 da
+: 120 19 20 wn’s 
+: 140 11 12 ear
+: 152 3 14 ly 
+: 156 52 15 light 
+- 210
+: 212 7 15 What 
+: 220 7 15 so 
+: 228 23 24 prou
+: 252 7 22 dly 
+: 260 15 20 we 
+: 276 39 19 hailed 
+- 316
+: 316 7 17 At 
+: 324 3 19 the 
+: 328 23 20 twi
+: 352 11 20 light’s 
+: 364 11 15 last 
+: 376 7 12 glea
+: 384 24 8 ming 
+- 410
+: 416 3 15 Who
+: 420 3 12 es 
+: 424 3 8 broad 
+: 428 7 15 str
+: 436 12 20 ipes 
+- 450
+: 452 11 24 And 
+: 464 3 22 br
+: 468 7 20 ight 
+: 476 11 12 st
+: 488 31 14 ars 
+: 520 7 15 thru 
+: 528 7 15 the 
+: 536 19 15 pe
+: 556 11 24 ri
+: 568 11 22 lous 
+: 580 43 20 fight 
+- 624
+: 624 11 19 O’er 
+: 636 3 17 the 
+: 640 27 19 ram
+: 668 11 20 parts 
+: 680 11 20 we 
+: 692 31 15 wat
+: 724 7 12 ched 
+- 732
+: 732 11 8 Were 
+: 744 3 24 so 
+: 748 27 24 gal
+: 776 7 24 lant
+: 784 7 25 ly 
+: 792 15 27 strea
+: 808 32 27 ming 
+- 842
+: 856 7 25 And 
+: 864 3 24 the 
+: 868 27 22 ro
+: 896 11 24 cket’s 
+: 908 11 25 red 
+: 920 36 25 glare 
+- 958
+: 960 7 25 The 
+: 968 7 24 bombs 
+: 976 23 22 burst
+: 1000 15 20 ing 
+: 1016 7 19 in 
+: 1024 48 17 air 
+- 1074
+: 1080 11 19 Gave 
+: 1092 11 20 pr
+: 1104 15 12 oof 
+: 1120 7 14 through 
+: 1128 11 15 the 
+: 1140 39 15 night 
+- 1180
+: 1180 11 20 That 
+: 1192 3 20 our 
+: 1196 23 20 flag 
+: 1220 15 19 was 
+: 1236 11 17 still 
+: 1248 44 17 there 
+- 1294
+: 1300 11 17 Oh 
+: 1312 27 22 say 
+: 1340 7 25 do
+: 1348 3 24 es 
+: 1352 11 22 that 
+- 1364
+: 1364 23 20 Star-
+: 1388 15 20 span
+: 1404 15 19 gled 
+: 1420 23 15 ban
+: 1444 15 15 ner 
+: 1460 11 20 yet 
+: 1472 64 22 wave 
+- 1538
+: 1572 7 24 O’er 
+: 1580 3 25 the 
+: 1584 31 27 land 
+: 1616 7 20 of the 
+: 1624 68 22 free 
+- 1694
+: 1712 15 24 And the 
+: 1728 39 25 home 
+: 1768 67 22 of the 
+: 1836 68 20 brave 
+E

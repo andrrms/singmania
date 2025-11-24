@@ -1,0 +1,425 @@
+#ARTIST:The Lonely Island
+#TITLE:Threw It On The Ground
+#MP3:The Lonely Island - Threw It On The Ground.mp3
+#CREATOR:GaryCXJk
+#COVER:The Lonely Island - Threw It On The Ground [CO].jpg
+#BACKGROUND:The Lonely Island - Threw It On The Ground [BG].jpg
+#YEAR:2011
+#LANGUAGE:English
+#BPM:387
+#GAP:4600
+#VIDEO:v=gAYL5H46QnQ,co=turtleneck--chain-4ddc710c3790d.jpg,bg=lonely-island-the-54babcc9d89ab.jpg
+R 0 3 10 I 
+R 5 2 10 was 
+R 15 3 10 wal
+R 20 3 10 kin’ 
+R 26 4 10 through 
+R 33 2 10 the 
+R 40 3 10 ci
+R 44 3 10 ty 
+R 50 9 10 streets 
+- 71
+R 75 1 10 And 
+R 77 1 10 a 
+R 82 7 10 man 
+R 92 5 10 walks 
+R 101 2 10 up 
+R 108 2 10 to 
+R 111 4 10 me 
+R 117 3 10 and 
+R 124 4 10 hands 
+R 131 4 10 me 
+R 137 2 10 the 
+R 142 4 10 la
+R 147 3 10 test 
+R 154 3 10 e
+R 158 2 10 ner
+R 162 3 10 gy 
+R 169 6 10 drink 
+- 185
+R 193 5 10 “Run 
+R 204 4 10 fas
+R 213 3 10 ter, 
+R 221 4 10 jump 
+R 232 5 10 hig
+R 238 4 10 her” 
+- 251
+R 255 13 10 Man, 
+R 274 3 10 I’m 
+R 280 3 10 not 
+R 286 2 10 gon
+R 289 3 10 na 
+R 297 4 10 let 
+R 305 3 10 you 
+R 314 5 10 poi
+R 321 5 10 son 
+R 330 8 10 me 
+- 342
+R 344 3 10 I 
+R 349 5 10 threw 
+R 356 3 10 it 
+R 361 4 10 on 
+R 367 3 10 the 
+G 373 25 10 ground 
+- 408
+R 434 5 10 You 
+R 441 3 10 must 
+R 450 4 10 think 
+R 461 4 10 I’m 
+R 467 1 10 a 
+R 474 7 10 joke 
+- 491
+R 514 3 10 I 
+R 519 3 10 ain’t 
+R 526 2 10 gon
+R 529 2 10 na 
+R 535 4 10 be 
+R 544 6 10 part 
+R 555 2 10 of 
+R 561 3 10 your 
+R 569 4 10 sys
+R 580 5 10 tem 
+- 595
+R 606 30 10 Man! 
+- 647
+R 651 2 10 Put 
+R 657 3 10 that 
+R 664 4 10 gar
+R 671 3 10 bage 
+R 677 3 10 in 
+R 681 2 10 an
+R 687 3 10 ot
+R 693 3 10 her 
+R 700 5 10 man’s 
+R 712 15 10 face 
+- 737
+R 765 3 10 I 
+R 774 5 10 go 
+R 780 2 10 to 
+R 783 3 10 my 
+R 791 4 10 favo
+R 797 3 10 rite 
+R 804 4 10 hot 
+R 813 5 10 dog 
+R 824 10 10 stand 
+- 840
+R 843 1 10 And 
+R 846 2 10 the 
+R 852 4 10 dude 
+R 863 4 10 says, 
+- 872
+R 874 3 10 “You 
+R 879 5 10 come 
+R 886 4 10 here 
+R 894 2 10 all 
+R 898 2 10 the 
+R 904 11 10 time! 
+- 924
+R 927 4 10 Here’s 
+R 935 4 10 one 
+R 944 2 10 for 
+R 951 9 10 free” 
+- 966
+R 969 4 10 I 
+R 979 7 10 said, 
+R 992 11 10 “Man, 
+R 1009 4 10 what 
+R 1015 4 10 I 
+R 1022 3 10 look 
+R 1029 6 10 like? 
+- 1039
+R 1041 2 10 A 
+R 1048 6 10 cha
+R 1055 2 10 ri
+R 1058 2 10 ty 
+R 1065 6 10 case?” 
+- 1083
+R 1087 4 10 I 
+R 1095 3 10 took 
+R 1102 3 10 it 
+R 1111 3 10 and 
+R 1117 5 10 threw 
+R 1124 4 10 it 
+R 1130 5 10 on 
+R 1136 2 10 the 
+G 1142 32 10 ground 
+- 1184
+R 1204 3 10 I 
+R 1208 5 10 don’t 
+R 1217 8 10 need 
+R 1228 7 10 your 
+R 1239 10 10 hand
+R 1251 10 10 outs 
+- 1271
+R 1311 7 10 I’m 
+R 1319 2 10 an 
+R 1324 2 10 a
+R 1334 10 10 dult! 
+- 1354
+R 1381 13 10 Please! 
+- 1404
+R 1412 3 10 You 
+R 1418 7 10 can’t 
+R 1431 8 10 buy 
+R 1443 7 10 me, 
+R 1454 7 10 hot 
+R 1466 8 10 dog 
+R 1479 19 10 man 
+- 1508
+R 1526 3 10 At 
+R 1533 2 10 the 
+R 1539 5 10 far
+R 1546 2 10 mer’s 
+R 1553 4 10 mar
+R 1560 2 10 ket 
+R 1564 3 10 with 
+R 1571 2 10 my 
+R 1579 5 10 so-
+R 1589 5 10 called 
+R 1600 6 10 “girl
+R 1612 10 10 friend” 
+- 1630
+R 1633 3 10 She 
+R 1638 5 10 hands 
+R 1646 3 10 me 
+R 1652 2 10 her 
+R 1659 6 10 cell 
+R 1671 8 10 phone 
+- 1690
+R 1694 5 10 Says 
+R 1702 3 10 it’s 
+R 1712 3 10 my 
+R 1718 17 10 dad 
+- 1745
+R 1754 14 10 Man, 
+R 1772 2 10 this 
+R 1779 3 10 ain’t 
+R 1784 5 10 my 
+R 1794 14 10 dad! 
+- 1817
+R 1820 3 10 This 
+R 1828 2 10 is 
+R 1833 3 10 a 
+R 1843 8 10 cell 
+R 1856 16 10 phone 
+- 1878
+R 1880 4 10 I 
+R 1887 4 10 threw 
+R 1893 3 10 it 
+R 1897 5 10 on 
+R 1903 2 10 the 
+G 1910 41 10 ground 
+- 1961
+R 1982 5 10 What 
+R 1990 2 10 you 
+R 1996 3 10 think, 
+R 2002 4 10 I’m 
+R 2013 6 10 stu
+R 2024 8 10 pid? 
+- 2042
+R 2060 3 10 I’m 
+R 2066 5 10 not 
+R 2072 3 10 a 
+R 2079 6 10 part 
+R 2090 2 10 of 
+R 2096 3 10 your 
+R 2106 4 10 sys
+R 2117 9 10 tem 
+- 2136
+R 2168 3 10 My 
+R 2175 7 10 dad’s 
+R 2186 5 10 not 
+R 2192 2 10 a 
+R 2199 16 10 phone! 
+- 2225
+R 2241 14 10 Duh! 
+- 2265
+R 2289 6 10 Some 
+R 2299 5 10 po
+R 2307 4 10 ser 
+R 2313 4 10 hands 
+R 2320 4 10 me 
+R 2329 4 10 cake 
+R 2335 3 10 at 
+R 2339 3 10 a 
+R 2345 4 10 birth
+R 2354 5 10 day 
+R 2363 7 10 par
+R 2371 2 10 ty 
+- 2381
+R 2384 4 10 What 
+R 2390 3 10 you 
+R 2395 5 10 want 
+R 2401 4 10 me 
+R 2406 2 10 to 
+R 2411 3 10 do 
+R 2415 4 10 with 
+R 2423 6 10 this? 
+R 2437 6 10 Eat 
+R 2444 3 10 it? 
+- 2448
+R 2450 4 10 Hap
+R 2456 3 10 py 
+R 2462 4 10 birth
+R 2469 3 10 day 
+R 2475 3 10 to 
+R 2481 2 10 the 
+G 2487 40 10 ground! 
+- 2536
+R 2540 3 10 I 
+R 2546 5 10 threw 
+R 2553 3 10 the 
+R 2557 3 10 rest 
+R 2566 2 10 of 
+R 2569 2 10 the 
+R 2573 5 10 cake 
+R 2584 10 10 too 
+- 2604
+R 2614 3 10 Wel
+R 2620 3 10 come 
+R 2625 3 10 to 
+R 2629 3 10 the 
+R 2635 7 10 real 
+R 2645 6 10 world, 
+R 2654 7 10 jack
+R 2664 11 10 ass! 
+- 2677
+R 2679 9 10 So 
+R 2691 4 10 ma
+R 2697 2 10 ny 
+R 2703 6 10 things 
+R 2720 2 10 to 
+R 2726 4 10 throw 
+R 2732 3 10 on 
+R 2736 2 10 the 
+G 2742 14 10 ground 
+- 2765
+R 2768 5 10 Like 
+R 2775 6 10 this, 
+R 2791 4 10 and 
+R 2798 6 10 this, 
+R 2810 3 10 and 
+R 2817 6 10 that, 
+R 2828 3 10 and 
+R 2834 3 10 e
+R 2839 3 10 ven 
+R 2846 6 10 this 
+- 2864
+R 2868 8 10 I’m 
+R 2878 4 10 an 
+R 2885 5 10 a
+R 2897 44 10 dult! 
+- 2950
+R 2954 7 10 Two 
+R 2965 6 10 Hol
+R 2972 3 10 ly
+R 2978 5 10 wood 
+R 2991 4 10 pho
+R 2997 3 10 nies 
+R 3004 3 10 try 
+R 3011 1 10 to 
+R 3016 3 10 give 
+R 3021 2 10 me 
+R 3027 4 10 their 
+R 3032 5 10 au
+R 3038 1 10 to
+R 3044 15 10 graph 
+- 3061
+G 3063 52 10 Ground! 
+- 3116
+R 3118 3 10 No
+R 3124 4 10 bo
+R 3132 2 10 dy 
+R 3136 5 10 wants 
+R 3148 6 10 your 
+R 3158 7 10 au
+R 3166 2 10 to
+R 3171 13 10 graph! 
+- 3194
+R 3209 8 10 Pho
+R 3219 8 10 nies! 
+- 3237
+R 3254 3 10 Then 
+R 3259 3 10 the 
+R 3265 5 10 two 
+R 3278 4 10 pho
+R 3284 3 10 nies 
+R 3291 7 10 got 
+R 3304 4 10 up 
+- 3313
+R 3315 9 10 Turned 
+R 3327 3 10 out 
+R 3334 2 10 they 
+R 3339 4 10 had 
+R 3344 2 10 a 
+R 3350 8 10 ta
+R 3362 3 10 ser 
+- 3375
+R 3388 3 10 And 
+R 3392 4 10 they 
+R 3399 4 10 tased 
+R 3407 3 10 me 
+R 3411 4 10 in 
+R 3417 3 10 the 
+R 3424 5 10 butt
+R 3435 4 10 hole 
+- 3439
+R 3441 2 10 I 
+R 3448 7 10 fell 
+R 3459 2 10 to 
+R 3464 2 10 the 
+G 3470 10 10 ground, 
+R 3489 2 10 the 
+R 3495 3 10 pho
+R 3500 3 10 nies 
+R 3507 3 10 did
+R 3511 3 10 ’nt 
+R 3518 5 10 let 
+R 3524 5 10 up 
+- 3538
+R 3541 4 10 Ta
+R 3548 4 10 sin’ 
+R 3553 4 10 on 
+R 3559 2 10 my 
+R 3566 7 10 butt
+R 3578 7 10 hole 
+R 3590 5 10 o
+R 3598 5 10 ver 
+R 3610 2 10 and 
+R 3615 4 10 o
+R 3623 3 10 ver 
+- 3626
+R 3628 3 10 I 
+R 3634 2 10 was 
+R 3641 7 10 screa
+R 3649 4 10 ming 
+R 3657 2 10 and 
+R 3662 8 10 squir
+R 3671 4 10 ming 
+- 3677
+R 3679 2 10 My 
+R 3685 5 10 butt
+R 3692 3 10 hole 
+R 3698 3 10 was 
+R 3703 4 10 on 
+R 3711 6 10 fire
+R 3719 4 10 ~ 
+- 3727
+R 3729 3 10 The 
+R 3735 5 10 mo
+R 3741 3 10 ral 
+R 3746 2 10 of 
+R 3752 2 10 the 
+R 3760 6 10 sto
+R 3768 5 10 ry 
+R 3776 13 10 is 
+- 3797
+R 3800 4 10 You 
+R 3807 5 10 can’t 
+R 3817 5 10 trust 
+R 3825 2 10 the 
+R 3833 4 10 sys
+R 3842 13 10 tem 
+- 3865
+R 3901 25 10 Man! 
+E

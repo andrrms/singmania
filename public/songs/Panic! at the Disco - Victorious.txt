@@ -1,0 +1,476 @@
+#ARTIST:Panic! at the Disco
+#TITLE:Victorious
+#MP3:Panic! at the Disco - Victorious.mp3
+#CREATOR:princetongirl98
+#GENRE:Punk
+#YEAR:2015
+#LANGUAGE:English
+#BPM:220.6
+#GAP:3060
+#VIDEO:v=AUChk0lxF44,co=victorious-56196ae9846be.jpg,bg=panic-at-the-disco-4ec6860508dfe.jpg
+F 0 1 0 To
+F 2 1 0 night 
+F 4 1 0 we 
+F 7 2 0 are 
+F 11 2 0 vic
+F 15 3 0 tori
+F 23 4 0 ous 
+- 29
+F 31 2 0 Cham
+F 35 3 0 pagne 
+F 39 2 0 pou
+F 43 2 0 ring 
+F 47 6 0 over 
+F 54 3 0 us 
+- 59
+F 63 2 0 All 
+F 67 2 0 my 
+F 70 3 0 friends 
+F 75 1 0 were 
+F 79 3 0 glo
+F 84 1 0 ri
+F 87 4 0 ous 
+- 92
+F 93 1 0 To
+F 96 2 0 night 
+F 99 2 0 we 
+F 103 2 0 are 
+: 107 2 3 vic
+: 111 10 3 tori
+: 123 4 10 ous 
+- 128
+: 129 3 5 Oh 
+: 133 1 0 oh 
+: 138 6 1 oh 
+: 145 7 5 oh 
+: 154 15 10 oh 
+: 171 2 3 vic
+: 176 9 3 tori
+: 186 4 1 ous 
+- 191
+: 192 3 3 Oh 
+: 196 5 0 oh 
+: 203 6 1 oh 
+: 211 5 5 oh 
+: 217 150 10 oh 
+- 369
+: 384 5 10 Double 
+: 391 7 10 bubble 
+: 400 6 10 disco 
+: 408 6 10 queen 
+- 415
+: 416 6 8 Headed 
+: 424 2 8 to 
+: 428 2 8 the 
+: 432 3 8 guil
+: 436 2 8 lo
+: 439 4 8 tine 
+- 445
+: 448 4 6 Skin 
+: 454 1 6 as 
+: 457 2 6 cool 
+: 460 2 6 as 
+: 463 3 5 Steve 
+: 467 2 5 Mc
+: 471 4 5 Queen 
+- 477
+: 480 2 0 Let 
+: 484 2 1 me 
+: 488 2 3 be 
+: 492 3 5 your 
+: 496 2 5 kil
+: 500 2 1 ler 
+: 503 3 10 king 
+- 507
+: 508 2 10 It 
+: 512 2 10 hurts 
+: 516 2 1 un
+: 520 2 0 til 
+: 524 2 10 it 
+: 528 4 10 stops 
+- 534
+: 536 2 0 We 
+: 540 2 10 will 
+: 544 2 8 love 
+: 548 2 1 un
+: 552 2 10 til 
+: 556 3 8 it’s 
+: 560 4 8 not 
+- 566
+: 568 3 8 I’m 
+: 572 2 8 a 
+: 576 6 6 killing 
+: 584 3 6 spree 
+: 588 1 6 in 
+: 592 4 5 white 
+F 599 7 0 ahh 
+- 608
+: 609 2 3 Eyes 
+: 613 2 1 like 
+: 616 6 3 broken 
+: 624 2 5 Christ
+: 628 2 1 mas 
+: 632 2 10 lights 
+- 635
+: 636 2 5 My 
+: 640 4 10 touch 
+: 653 2 5 is 
+: 656 3 5 black 
+: 661 2 5 and 
+: 664 1 5 pois
+: 668 3 5 on
+: 672 4 10 ous 
+- 678
+: 685 2 5 And 
+: 689 2 5 no
+: 693 2 5 thing 
+: 696 2 5 like 
+: 700 2 5 my 
+: 704 4 10 punch 
+: 712 5 10 drunk 
+: 719 2 10 kiss 
+- 722
+: 723 1 10 I 
+: 725 1 0 know 
+: 728 1 1 you 
+: 730 1 1 need 
+: 733 1 10 it 
+- 735
+: 735 1 10 Do 
+: 737 1 10 you 
+: 739 1 0 feel 
+: 741 1 10 it 
+- 743
+: 743 1 1 Drink 
+: 745 1 5 the 
+: 747 1 6 wa
+: 749 1 5 ter 
+- 751
+: 751 1 10 Drink 
+: 753 1 8 the 
+: 755 8 10 wine 
+- 765
+: 782 7 10 Oh 
+: 790 1 10 we 
+: 792 2 10 got
+: 796 3 8 ta 
+: 800 6 8 turn 
+: 808 2 8 up 
+: 812 2 10 the 
+: 816 6 3 cra
+: 824 12 1 zy 
+- 838
+: 844 5 10 Li
+: 851 6 10 vin’ 
+: 858 1 10 like 
+: 860 3 10 a 
+: 865 6 8 washed 
+: 872 3 8 up 
+: 877 3 10 ce
+: 881 2 10 le
+: 885 2 3 bri
+: 889 10 1 ty 
+- 901
+: 908 7 10 Shoo
+: 916 2 10 ting 
+: 920 6 10 fire
+: 928 3 8 works 
+- 932
+: 933 3 8 Like 
+: 937 3 8 it’s 
+: 941 2 10 the 
+: 945 2 3 fourth 
+: 949 2 3 of 
+: 953 2 1 Ju
+: 957 27 3 ly 
+- 986
+: 999 1 10 Un
+: 1002 2 10 til 
+: 1006 2 10 we 
+: 1009 2 10 feel 
+: 1013 2 0 all 
+: 1017 6 10 right 
+F 1055 9 0 ahh 
+- 1065
+: 1066 1 5 Un
+: 1068 1 10 til 
+: 1070 2 10 we 
+: 1074 3 5 feel 
+: 1078 1 10 all 
+: 1081 5 10 ri
+: 1087 2 1 ~
+: 1091 10 1 ~
+: 1102 11 1 ~ght 
+F 1118 10 0 ahh 
+- 1130
+: 1154 3 10 I’m 
+: 1159 4 10 like 
+: 1165 2 10 a 
+: 1169 7 10 scarf 
+: 1178 4 10 trick 
+- 1183
+: 1183 1 10 It’s 
+: 1186 2 8 all 
+: 1189 2 8 up 
+: 1193 2 8 the 
+: 1197 7 8 sleeve 
+- 1206
+: 1214 2 8 I 
+: 1218 5 6 taste 
+: 1226 6 6 like 
+: 1233 8 5 ma
+: 1242 4 10 gic 
+- 1248
+: 1250 2 3 Waves 
+: 1254 2 1 that 
+: 1257 2 3 swal
+: 1261 3 3 low 
+: 1266 2 5 quick 
+: 1270 2 1 and 
+: 1274 2 0 deep 
+- 1278
+: 1282 2 10 Throw 
+: 1286 2 1 the 
+: 1290 4 5 bait 
+- 1296
+: 1298 2 10 Catch 
+: 1302 2 10 the 
+: 1306 3 10 shark 
+- 1311
+: 1315 1 10 Bleed 
+: 1318 2 8 the 
+: 1322 2 8 wa
+: 1326 2 8 ter 
+: 1330 5 8 red 
+- 1337
+: 1347 6 0 Fifty 
+: 1354 2 6 words 
+: 1358 3 6 for 
+: 1362 4 5 mu
+: 1368 1 8 ~
+: 1371 3 10 ~rder 
+- 1376
+: 1379 2 10 And 
+: 1383 2 1 I’m 
+: 1386 7 3 every 
+: 1395 2 3 one 
+: 1398 2 3 of 
+: 1402 2 8 them 
+- 1405
+: 1406 2 0 My 
+: 1410 4 10 touch 
+: 1423 2 5 is 
+: 1427 2 5 black 
+: 1431 2 5 and 
+: 1434 2 8 pois
+: 1438 2 3 on
+: 1442 3 5 ous 
+- 1447
+: 1455 2 5 And 
+: 1459 2 5 no
+: 1462 2 6 thing 
+: 1466 2 5 like 
+: 1471 2 5 my 
+: 1474 4 10 punch 
+: 1482 5 10 drunk 
+: 1489 1 5 kiss 
+- 1492
+: 1493 1 0 I 
+: 1495 1 0 know 
+: 1497 1 1 you 
+: 1500 1 1 need 
+: 1502 1 0 it 
+- 1504
+: 1504 1 10 Do 
+: 1506 1 10 you 
+: 1508 1 10 feel 
+: 1510 1 0 it 
+- 1512
+: 1512 1 1 Drink 
+: 1514 1 3 the 
+: 1516 1 5 wa
+: 1519 1 10 ter 
+- 1521
+: 1521 1 10 Drink 
+: 1523 1 0 the 
+: 1525 8 10 wine 
+- 1535
+: 1551 5 10 Oh 
+: 1558 2 10 we 
+: 1563 2 10 got
+: 1566 2 10 ta 
+: 1570 6 8 turn 
+: 1578 2 8 up 
+: 1582 2 10 the 
+: 1585 7 3 cra
+: 1593 10 1 zy 
+- 1605
+: 1614 5 10 Li
+: 1621 3 10 vin’ 
+: 1626 2 10 like 
+: 1630 2 10 a 
+: 1634 7 8 washed 
+: 1642 2 6 up 
+: 1646 2 1 ce
+: 1650 3 10 le
+: 1654 3 10 bri
+: 1658 14 1 ty 
+- 1674
+: 1679 6 10 Shoo
+: 1687 2 10 ting 
+: 1691 6 10 fire
+: 1698 3 8 works 
+: 1703 2 8 like 
+: 1706 2 8 it’s 
+: 1711 2 10 the 
+: 1715 2 3 fourth 
+: 1719 2 3 of 
+: 1723 2 1 Ju
+: 1726 27 3 ly 
+- 1755
+F 1795 1 0 To
+F 1797 1 0 night 
+F 1800 1 0 we 
+F 1803 2 0 are 
+F 1807 2 0 vic
+F 1811 7 0 tori
+F 1819 4 0 ous 
+- 1825
+F 1827 2 0 Cham
+F 1831 3 0 pagne 
+F 1835 2 0 pou
+F 1839 2 0 ring 
+F 1843 6 0 over 
+F 1851 4 0 us 
+- 1857
+F 1860 2 0 All 
+F 1863 2 0 my 
+F 1867 2 0 friends 
+F 1871 2 0 were 
+F 1875 3 0 glo
+F 1879 2 0 ri
+F 1883 3 0 ous 
+- 1888
+F 1889 1 0 To
+F 1891 3 0 night 
+F 1896 2 0 we 
+F 1899 2 0 are 
+F 1903 2 0 vic
+F 1907 10 0 tori
+F 1919 4 0 ous 
+- 1925
+F 1926 1 0 To
+F 1928 1 0 night 
+F 1930 1 0 we 
+F 1933 2 0 are 
+F 1936 2 0 vic
+F 1940 2 0 tori
+F 1944 2 0 ous 
+- 1948
+F 1955 2 0 Cham
+F 1960 2 0 pagne 
+F 1964 2 0 pou
+F 1968 3 0 ring 
+F 1972 6 0 over 
+F 1979 5 0 us 
+- 1986
+F 1988 2 0 All 
+F 1992 2 0 my 
+F 1995 3 0 friends 
+F 1999 2 0 were 
+F 2003 4 0 glo
+F 2009 1 0 ri
+F 2011 3 0 ous 
+- 2016
+F 2018 1 0 To
+F 2021 2 0 night 
+F 2024 2 0 we 
+F 2028 2 0 are 
+: 2031 2 3 vic
+: 2035 7 3 tori
+: 2046 5 10 ous 
+- 2053
+: 2066 5 10 Oh 
+: 2073 2 10 we 
+: 2076 1 10 got
+: 2079 2 10 ta 
+: 2083 6 8 turn 
+: 2091 2 8 up 
+: 2095 2 8 the 
+: 2099 3 3 cra
+: 2107 8 1 zy 
+- 2117
+: 2127 6 10 Li
+: 2135 3 10 vin’ 
+: 2140 2 10 like 
+: 2143 3 10 a 
+: 2147 7 8 washed 
+: 2156 2 8 up 
+: 2160 2 10 ce
+: 2164 2 5 le
+: 2168 2 6 bri
+: 2172 7 1 ty 
+- 2181
+: 2191 7 10 Shoo
+: 2199 3 10 ting 
+: 2203 6 10 fire
+: 2211 3 8 works 
+: 2216 2 0 like 
+: 2220 2 8 it’s 
+: 2224 2 10 the 
+: 2228 3 3 fourth 
+: 2232 2 3 of 
+: 2236 3 1 Ju
+: 2240 28 3 ly 
+- 2270
+: 2282 1 10 Un
+: 2285 2 10 til 
+: 2288 1 10 we 
+: 2292 2 10 feel 
+: 2296 2 0 all 
+: 2300 5 10 right 
+F 2339 8 0 ahh 
+- 2348
+: 2349 1 8 Un
+: 2351 2 10 til 
+: 2354 1 10 we 
+: 2357 3 10 feel 
+: 2361 2 3 all 
+: 2365 3 10 ri
+: 2370 1 10 ~
+: 2372 3 0 ~
+: 2377 20 1 ~ght 
+F 2403 9 0 ahh 
+- 2414
+F 2437 1 0 To
+F 2439 2 0 night 
+F 2443 1 0 we 
+F 2445 2 0 are 
+F 2449 2 0 vic
+F 2453 2 0 tori
+F 2457 6 0 ous 
+- 2465
+F 2469 2 0 Cham
+F 2473 2 0 pagne 
+F 2477 2 0 pou
+F 2481 2 0 ring 
+F 2485 5 0 over 
+F 2493 5 0 us 
+- 2499
+F 2500 1 0 All 
+F 2503 3 0 my 
+F 2508 2 0 friends 
+F 2511 2 0 were 
+F 2516 3 0 glo
+F 2521 2 0 ri
+F 2525 4 0 ous 
+F 2532 2 0 ahh 
+- 2535
+F 2536 1 0 To
+F 2538 2 0 night 
+F 2542 2 0 we 
+F 2545 2 0 are 
+F 2549 3 0 vic
+F 2554 6 0 tori
+F 2562 6 0 ous 
+E

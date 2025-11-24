@@ -1,0 +1,174 @@
+#ARTIST:Procol Harum
+#TITLE:A Rum Tale
+#MP3:Procol Harum - A Rum Tale.mp3
+#CREATOR:singingSquirrel
+#YEAR:1973
+#LANGUAGE:English
+#BPM:314
+#GAP:10740
+#VIDEO:v=kTL8ZFsfS40,co=https://i.discogs.com/0v5Dh5JpHJ9W2839m8gTPU2f-vzn0C1kkWbgtWCvR8c/rs:fit/g:sm/q:90/h:480/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjM0/MzMtMTQyODI0NDg2/NS02ODkwLmpwZWc.jpeg,bg=procol-harum-6515a3c96676b.jpg
+: 0 10 0 She’s 
+: 12 6 9 fud
+: 20 4 10 dled 
+: 26 8 12 my 
+: 36 6 14 fan
+: 44 22 7 cy 
+- 68
+: 104 10 5 She’s 
+: 116 4 5 mud
+: 122 4 7 dled 
+: 128 10 9 me 
+: 140 22 10 good 
+- 164
+: 204 8 5 I’ve 
+: 214 8 4 ta
+: 224 4 5 ken 
+: 230 4 7 to 
+: 236 8 12 drin
+: 246 18 5 king 
+- 266
+: 308 6 7 And 
+: 316 12 7 given 
+: 330 4 9 up 
+: 336 28 10 food 
+- 366
+: 390 22 14 I’m 
+: 414 10 14 buy
+: 426 6 12 ing 
+: 434 2 10 an 
+: 438 6 12 is
+: 446 16 9 land 
+- 464
+: 506 8 9 Some
+: 516 8 8 where 
+: 526 6 9 in 
+: 534 4 11 the 
+: 540 10 11 su
+: 552 4 13 ~
+: 558 4 15 ~
+: 564 14 16 n 
+- 580
+: 608 8 12 I’ll 
+: 618 8 12 hide 
+: 628 6 11 from 
+: 636 2 9 the 
+: 640 6 11 na
+: 648 12 8 tives 
+- 662
+: 710 6 8 Live 
+: 718 8 7 on
+: 728 2 9 ly 
+: 732 8 7 on 
+: 742 12 5 rum 
+- 756
+: 864 8 0 I’m 
+: 874 8 9 sel
+: 884 4 10 ling 
+: 890 8 12 my 
+: 900 6 14 mem
+: 908 22 7 oirs 
+- 932
+: 968 8 5 I’m 
+: 978 6 5 wri
+: 986 4 7 ting 
+: 992 6 9 it 
+: 1000 20 10 down 
+- 1022
+: 1072 6 5 If 
+: 1080 8 4 no 
+: 1090 4 5 one 
+: 1096 6 7 will 
+: 1104 8 12 pay 
+: 1114 14 5 me 
+- 1130
+: 1174 6 7 I’ll 
+: 1182 8 7 burn 
+: 1192 6 7 down 
+: 1200 2 9 the 
+: 1204 24 10 town 
+- 1230
+: 1260 22 14 I’ll 
+: 1284 10 14 rent 
+: 1296 6 12 out 
+: 1304 2 10 an 
+: 1308 6 12 air
+: 1316 16 9 craft 
+- 1334
+: 1378 8 9 And 
+: 1388 8 8 print 
+: 1398 6 9 on 
+: 1406 2 11 the 
+: 1410 10 11 sky
+: 1422 4 13 ~
+: 1428 6 15 ~
+: 1436 14 16 ~ 
+- 1452
+: 1482 8 12 If 
+: 1492 4 12 god 
+: 1498 8 11 likes 
+: 1508 8 12 my 
+: 1518 8 11 sto
+: 1528 10 8 ry 
+- 1540
+: 1584 8 8 Then 
+: 1594 8 7 may
+: 1604 4 9 be 
+: 1610 5 7 he’
+: 1616 4 5 ll 
+: 1622 12 5 buy 
+- 1636
+: 2606 10 0 I’m 
+: 2618 6 9 buy
+: 2626 6 10 ing 
+: 2634 6 12 a 
+: 2642 6 14 tick
+: 2650 22 7 et 
+- 2674
+: 2708 8 5 For 
+: 2718 6 5 pla
+: 2726 6 7 ces 
+: 2734 4 9 un
+: 2740 22 10 known 
+- 2764
+: 2812 8 5 It’s 
+: 2822 8 4 on
+: 2832 4 5 ly 
+: 2838 4 7 a 
+: 2844 8 12 one-
+: 2854 18 5 way 
+- 2874
+: 2916 6 7 I’m 
+: 2924 8 7 not 
+: 2934 3 7 com
+: 2938 4 9 ing 
+: 2944 26 10 home 
+- 2972
+: 3000 22 14 She’s 
+: 3024 10 14 swal
+: 3036 6 12 lowed 
+: 3044 4 10 my 
+: 3050 8 12 sec
+: 3060 16 9 rets 
+- 3078
+: 3118 8 9 And 
+: 3128 8 8 ta
+: 3138 6 9 ken 
+: 3146 6 11 my 
+: 3154 6 11 na
+: 3162 4 13 ~
+: 3168 6 15 ~
+: 3176 14 16 me 
+- 3192
+: 3220 6 12 To 
+: 3228 8 12 fol
+: 3238 6 11 low 
+: 3246 6 9 my 
+: 3254 6 11 foot 
+: 3262 18 8 steps 
+- 3282
+: 3322 6 8 And 
+: 3330 8 7 knob
+: 3340 4 9 ble 
+: 3346 6 7 me 
+: 3354 12 5 lame 
+E

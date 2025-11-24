@@ -1,0 +1,139 @@
+#ARTIST:Gene Kelly
+#TITLE:Singin’ In The Rain
+#MP3:Gene Kelly - Singin’ In The Rain.mp3
+#CREATOR:Darksite
+#YEAR:1952
+#LANGUAGE:English
+#BPM:204.85
+#GAP:20000
+#VIDEO:v=gAI6hhsDNxc,co=https://i2-prod.mirror.co.uk/incoming/article26707767.ece/ALTERNATES/s1200c/1_Gene-Kellys-famous-umbrella-scene-in-Singin-In-The-Rain.jpg,co-crop=0-0-1200-1200
+: 0 7 0 I’m 
+: 8 17 12 sing
+: 26 3 9 in’ 
+: 30 1 7 in 
+: 32 2 5 the 
+: 36 10 2 rain 
+- 48
+: 52 5 0 Just 
+: 58 13 5 sing
+: 72 3 5 in’ 
+: 76 1 7 in 
+: 78 1 9 the 
+: 80 12 12 rain. 
+- 94
+: 98 3 0 What 
+: 102 1 2 a 
+: 104 15 5 glo
+: 120 1 7 ri
+: 122 5 9 ous 
+: 128 13 12 fee
+: 142 2 9 ling 
+- 145
+: 146 3 12 I’m 
+: 150 15 12 hap
+: 166 3 9 py 
+: 170 1 7 a
+: 172 12 2 gain. 
+- 186
+: 200 5 0 I’m 
+: 206 5 12 lau
+: 212 3 9 ghin’ 
+: 216 3 7 at 
+: 220 14 2 clouds 
+- 235
+: 236 5 0 So 
+: 242 11 12 dark 
+: 254 7 9 up 
+: 262 3 7 a
+: 266 18 2 bove. 
+- 286
+: 294 5 0 The 
+: 300 7 12 sun’s 
+: 308 3 9 in 
+: 312 5 2 my 
+: 318 9 4 heart 
+- 328
+: 328 3 9 And 
+: 332 3 2 I’m 
+: 336 15 5 rea
+: 352 3 2 dy 
+: 356 3 5 for 
+: 360 15 2 love. 
+- 376
+: 376 1 0 Let 
+: 378 1 2 the 
+: 380 15 5 stor
+: 396 3 7 my 
+: 400 7 9 clouds 
+: 408 10 12 chase 
+- 420
+: 424 1 0 Eve
+: 426 3 2 ry 
+: 430 15 5 one 
+: 446 1 7 from 
+: 448 3 9 the 
+: 452 14 12 place. 
+- 468
+: 482 5 5 Come 
+: 488 5 5 on 
+: 494 1 7 with 
+: 496 1 9 the 
+: 498 14 12 rain 
+- 513
+: 514 3 9 I’ve 
+: 518 3 12 a 
+: 522 21 12 smile 
+: 544 3 9 on 
+: 548 7 7 my 
+: 556 12 2 face. 
+- 569
+: 570 5 0 I’ll 
+: 576 11 12 walk 
+: 588 7 9 down 
+: 596 1 7 the 
+: 598 17 2 lane 
+: 616 3 0 with 
+: 620 2 0 a 
+: 624 13 12 hap
+: 638 3 9 py 
+: 642 3 7 re
+: 646 17 2 frain 
+- 664
+: 664 5 0 Just 
+: 670 3 12 sing
+: 674 14 12 in’, 
+: 694 5 4 sing
+: 700 5 4 in’ 
+: 706 11 9 in 
+: 718 3 0 the 
+: 722 18 5 rain. 
+- 742
+: 778 5 5 Dan
+: 784 3 3 cin’ 
+: 788 1 1 in 
+: 790 1 1 the 
+: 792 17 3 rain 
+: 810 7 5 ya 
+: 818 11 5 ya 
+: 830 3 5 ya 
+: 834 3 2 da 
+: 838 1 5 da 
+: 840 12 2 da 
+- 854
+: 920 3 5 I’m 
+: 924 5 3 hap
+: 930 1 1 py 
+: 932 3 1 a
+: 936 14 3 gain 
+- 952
+: 1050 5 12 I’m 
+: 1056 5 9 sing
+: 1062 17 7 in’ 
+: 1080 3 7 and 
+: 1084 5 9 dan
+: 1090 3 12 cin’ 
+: 1094 9 14 in 
+: 1104 5 9 the 
+: 1110 9 9 rai
+: 1120 8 9 ~n 
+E

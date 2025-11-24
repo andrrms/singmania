@@ -1,0 +1,125 @@
+#ARTIST:Coldplay
+#TITLE:Reign Of Love
+#MP3:Coldplay - Reign Of Love.mp3
+#CREATOR:sonamor
+#COVER:Coldplay - Reign Of Love [CO].jpg
+#BACKGROUND:Coldplay - Reign Of Love [BG].jpg
+#GENRE:Alternative, Indie
+#YEAR:2008
+#LANGUAGE:English
+#BPM:244
+#GAP:5450
+#VIDEO:a=yMHkOelzu9s,co=viva-la-vida-or-death-and-all-his-friends-4dde917f0fc3f.jpg,bg=coldplay-61751b6d4a85a.jpg
+F 0 4 34 One, 
+F 8 4 34 two, 
+F 16 4 34 three 
+- 52
+: 548 11 14 Reign 
+: 560 12 16 of 
+: 576 8 18 love 
+- 594
+: 608 3 9 I 
+: 612 8 14 can’t 
+: 624 12 14 let 
+: 640 3 11 go
+: 644 12 9 ~ 
+- 666
+* 676 7 21 To 
+* 684 3 21 the 
+* 688 11 21 sea 
+: 700 3 23 I 
+: 704 7 21 of
+: 712 3 19 ~
+: 716 3 18 ~
+: 720 7 16 ~
+: 728 7 14 fer 
+: 736 3 14 this 
+: 740 15 19 hea
+: 756 15 18 vy 
+: 772 15 13 load 
+- 797
+: 806 11 18 Lo
+: 818 15 19 cust 
+: 834 3 21 wi
+: 838 26 26 nd, 
+: 870 15 26 lift 
+: 886 11 21 me 
+: 898 16 23 up 
+- 924
+: 938 7 23 I’m 
+: 946 11 23 just 
+: 958 3 21 a 
+* 962 7 21 pri
+* 970 3 18 ~
+* 974 3 16 ~
+* 978 7 14 ~
+* 986 3 9 soner 
+: 990 3 14 in 
+: 994 3 16 a 
+: 998 11 18 reign 
+: 1010 15 16 of 
+: 1026 8 14 love 
+- 1066
+: 1320 11 18 Lo
+: 1332 15 19 cust 
+: 1348 3 21 wi
+: 1352 30 26 nd, 
+: 1384 15 26 let 
+: 1400 15 25 us 
+: 1416 12 23 stop 
+- 1438
+* 1452 3 23 How 
+* 1456 7 23 I 
+* 1464 3 23 wish 
+: 1468 6 21 I’d 
+: 1476 7 21 spo
+: 1484 8 14 ken 
+: 1500 3 14 up 
+: 1504 3 14 to 
+: 1508 3 16 the 
+: 1512 13 18 reign 
+: 1526 15 16 of 
+: 1542 14 14 love 
+- 1566
+: 1578 11 14 Reign 
+: 1590 15 16 of 
+: 1606 10 18 love 
+- 1626
+: 1634 3 14 By 
+: 1638 3 14 the 
+: 1642 10 19 church 
+: 1654 3 19 we’re 
+: 1658 3 18 wai
+: 1662 10 16 tin’ 
+- 1688
+: 1706 11 14 Reign 
+: 1718 15 16 of 
+: 1734 12 18 love 
+- 1758
+: 1762 3 14 On 
+: 1766 3 14 my 
+* 1770 11 23 knees 
+: 1782 5 23 go 
+: 1788 3 21 pray
+: 1792 8 18 in’ 
+- 1816
+: 1834 11 18 How 
+: 1846 15 19 I 
+: 1862 3 21 wi
+: 1866 27 26 sh 
+: 1894 3 26 I’d 
+: 1898 17 26 spo
+: 1916 11 25 ken 
+: 1928 8 23 up 
+- 1946
+: 1968 7 23 A
+: 1976 9 25 way 
+: 1986 5 26 get 
+: 1992 3 26 car
+: 1996 16 21 ried 
+: 2020 3 14 on 
+: 2024 3 16 a 
+: 2028 11 18 reign 
+: 2040 15 16 of 
+: 2056 16 14 love 
+E

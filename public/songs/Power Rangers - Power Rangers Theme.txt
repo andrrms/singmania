@@ -1,0 +1,70 @@
+#ARTIST:Power Rangers
+#TITLE:Power Rangers Theme
+#MP3:Power Rangers - Power Rangers Theme.mp3
+#CREATOR:querschnitt
+#LANGUAGE:English
+#BPM:380
+#GAP:20290
+#VIDEO:v=nHalaFUqnTI,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7c/c1/f4/7cc1f467-6cea-d2c3-0e0f-f6dc36bd6899/857529003407.jpg/5000x5000bb.jpg
+: 0 7 16 Go 
+: 8 7 16 go 
+: 16 3 14 pow
+: 20 7 16 er 
+: 28 7 19 ran
+: 36 28 16 gers 
+- 66
+: 130 7 16 Go 
+: 138 7 16 go 
+: 146 3 14 pow
+: 150 7 16 er 
+: 158 7 19 ran
+: 166 28 16 gers 
+- 196
+: 260 7 17 Go 
+: 268 7 17 go 
+: 276 3 17 pow
+: 280 7 17 er 
+: 288 7 17 ran
+: 296 20 17 gers 
+- 317
+: 318 3 17 You 
+: 322 7 17 migh
+: 330 7 17 ty 
+: 338 7 17 mor
+: 346 7 17 phin 
+: 354 7 17 pow
+: 362 7 17 er 
+: 370 7 17 ran
+: 378 54 16 gers 
+- 434
+: 582 7 16 Go 
+: 590 7 16 go 
+: 598 3 14 pow
+: 602 7 16 er 
+: 610 7 19 ran
+: 618 28 16 gers 
+- 648
+: 712 7 16 Go 
+: 720 7 16 go 
+: 728 3 14 pow
+: 732 7 16 er 
+: 740 7 19 ran
+: 748 28 16 gers 
+- 778
+: 842 7 17 Go 
+: 850 7 17 go 
+: 858 3 17 pow
+: 862 7 17 er 
+: 870 7 17 ran
+: 878 20 17 gers 
+- 899
+: 900 3 17 You 
+: 904 7 17 migh
+: 912 7 17 ty 
+: 920 7 17 mor
+: 928 7 17 phin 
+: 936 7 17 pow
+: 944 7 17 er 
+: 952 7 17 ran
+: 960 40 16 gers 
+E

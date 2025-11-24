@@ -1,0 +1,186 @@
+#ARTIST:The Dickies
+#TITLE:Silent Night
+#MP3:The Dickies - Silent Night.mp3
+#CREATOR:znxineohp
+#YEAR:1978
+#LANGUAGE:English
+#BPM:280
+#GAP:10540
+#VIDEO:a=qLtna6pu_rw,co=https://i.discogs.com/y0eiHjV_iDSPGLysu-gNu5VjbXcTQQByNBluacLYiUQ/rs:fit/g:sm/q:90/h:449/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzI0/MzMtMTM3OTgxMzg1/Ny03ODM0LmpwZWc.jpeg
+: 0 9 -1 Si
+: 10 1 1 ~
+: 12 5 -1 lent 
+: 18 12 -4 night 
+: 44 9 -1 Ho
+: 54 1 1 ~
+: 56 5 -1 ly 
+: 62 12 -4 night 
+- 76
+: 90 9 6 All 
+: 100 5 6 is 
+: 106 14 3 calm 
+: 134 9 4 all 
+: 144 5 4 is 
+: 150 12 -1 bright 
+- 164
+: 178 9 1 Round 
+: 188 5 1 yon 
+: 194 9 4 Vi
+: 204 5 3 ~r
+: 210 8 1 gin 
+: 222 7 -1 Mo
+: 230 3 1 ther 
+: 234 3 -1 and 
+: 238 12 -4 child 
+- 252
+: 266 9 1 Ho
+: 276 5 1 ly 
+: 282 7 4 in
+: 290 7 3 fant 
+: 298 6 1 so 
+: 310 7 -1 ten
+: 318 3 1 der 
+: 322 5 -1 and 
+: 328 12 -4 mild 
+- 342
+: 348 17 6 Sleep 
+: 366 5 6 in 
+: 372 7 9 hea
+: 380 7 6 ven
+: 388 5 3 ly 
+: 394 23 4 pea
+: 418 12 8 ~ce 
+- 432
+: 436 7 4 Slee
+: 444 7 -1 ~p 
+: 452 7 -4 in 
+: 460 7 -1 hea
+: 468 7 -3 ven
+: 476 3 -6 ly 
+: 480 14 -8 peace 
+- 496
+: 530 9 -1 Si
+: 540 1 1 ~
+: 542 5 -1 lent 
+: 548 12 -4 night 
+: 576 7 -1 ho
+: 584 3 1 ~
+: 588 3 -1 ly 
+: 592 10 -4 night 
+- 604
+: 622 7 6 All 
+: 630 5 6 is 
+: 636 14 3 calm 
+: 664 9 4 all 
+: 674 5 4 is 
+: 680 14 -1 bright 
+- 696
+: 706 11 1 Round 
+: 718 5 1 yon 
+: 724 7 4 Vi
+: 732 7 3 ~r
+: 740 8 1 gin 
+: 752 7 -1 Mo
+: 760 3 1 ther 
+: 764 3 -1 and 
+: 768 14 -4 child 
+- 784
+: 796 9 1 Ho
+: 806 5 1 ly 
+: 812 7 4 in
+: 820 9 3 fant 
+: 830 8 1 so 
+: 840 7 -1 ten
+: 848 3 1 der 
+: 852 5 -1 and 
+: 858 12 -4 mild 
+- 872
+: 878 17 6 Sleep 
+: 896 5 6 in 
+: 902 7 9 hea
+: 910 7 6 ven
+: 918 5 3 ly 
+: 924 23 4 pea
+: 948 12 8 ~ce 
+- 962
+: 968 7 4 Slee
+: 976 7 -1 ~p 
+: 984 5 -4 in 
+: 990 7 -1 hea
+: 998 7 -3 ven
+: 1006 3 -6 ly 
+: 1010 14 -8 peace 
+- 1026
+: 1592 9 -1 Si
+: 1602 3 1 ~
+: 1606 3 -1 lent 
+: 1610 12 -4 night 
+: 1638 7 -1 ho
+: 1646 3 1 ~
+: 1650 3 -1 ly 
+: 1654 14 -4 night 
+- 1670
+: 1684 9 6 All 
+: 1694 5 6 is 
+: 1700 10 3 calm 
+: 1728 9 4 all 
+: 1738 5 4 is 
+: 1744 14 -1 bright 
+- 1760
+: 1770 11 1 Round 
+: 1782 5 1 yon 
+: 1788 7 4 Vi
+: 1796 7 3 ~r
+: 1804 10 1 gin 
+: 1818 3 -1 the 
+: 1822 1 -1 Mo
+: 1824 3 1 ther 
+: 1828 3 -1 and 
+: 1832 14 -4 child 
+- 1848
+: 1860 9 1 Ho
+: 1870 7 1 ly 
+: 1878 7 4 in
+: 1886 7 3 fant 
+: 1894 8 1 so 
+: 1904 9 -1 ten
+: 1914 3 1 der 
+: 1918 3 -1 and 
+: 1922 12 -4 mild 
+- 1936
+: 1944 15 6 Sleep 
+: 1960 5 6 in 
+: 1966 7 9 hea
+: 1974 7 6 ven
+: 1982 7 3 ly 
+: 1990 23 4 pea
+: 2014 14 8 ~ce 
+- 2030
+: 2034 7 4 Slee
+: 2042 7 -1 ~p 
+: 2050 5 -4 in 
+: 2056 7 -1 hea
+: 2064 7 -3 ven
+: 2072 3 -6 ly 
+: 2076 18 -8 peace 
+- 2096
+: 2116 3 -1 Si
+: 2120 3 -1 lent 
+: 2124 8 -4 night 
+- 2134
+: 2160 3 -1 Si
+: 2164 3 -1 lent 
+: 2168 8 -4 night 
+- 2178
+: 2206 3 -1 Si
+: 2210 3 -1 lent 
+: 2214 8 -4 night 
+- 2224
+: 2252 3 -1 Si
+: 2256 3 -1 lent 
+: 2260 8 -4 night 
+- 2270
+: 2296 3 -1 Si
+: 2300 3 -1 lent 
+: 2304 8 -4 night 
+E

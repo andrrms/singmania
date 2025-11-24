@@ -1,0 +1,16 @@
+#ARTIST:Napalm Death
+#TITLE:You Suffer
+#MP3:Napalm Death - You Suffer.mp3
+#CREATOR:Marko_Ramius
+#YEAR:1987
+#LANGUAGE:English
+#BPM:200
+#GAP:630
+#VIDEO:v=gBjzz9dGkEM,co=scum-58e75b3ecb679.jpg,bg=napalm-death-4fe3361f2334b.jpg
+: 0 1 7 You 
+: 2 1 6 suf
+: 4 1 6 fer! 
+- 5
+: 5 1 3 But 
+: 7 1 5 why? 
+E

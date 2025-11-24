@@ -1,0 +1,638 @@
+#ARTIST:Sparks
+#TITLE:(When I Kiss You) I Hear Charlie Parker Playing
+#MP3:Sparks - (When I Kiss You) I Hear Charlie Parker Playing.mp3
+#CREATOR:Fepo
+#GENRE:New Wave Quirk
+#YEAR:1994
+#LANGUAGE:English
+#BPM:277.34
+#GAP:14900
+#VIDEO:v=zG_AN9aXk1c,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/fa/65/77fa6537-bc70-9d35-ad15-147410426d90/4099964141092.jpg/5000x5000bb.jpg,bg=sparks-54c56bd8bdace.jpg
+F 0 1 8 Out 
+F 2 1 8 of 
+F 4 2 8 the 
+F 8 2 8 door
+F 12 2 8 way, 
+F 16 3 8 in
+F 20 1 8 to 
+F 22 1 8 the 
+F 24 2 8 mor
+F 28 2 8 ning 
+- 31
+F 32 1 8 Wish 
+F 34 1 8 I 
+F 36 2 8 was 
+F 39 1 8 a 
+F 41 1 8 bird 
+F 43 1 8 that 
+F 45 1 8 was 
+F 48 3 8 mi
+F 52 2 8 gra
+F 56 2 8 to
+F 59 2 8 ry 
+- 62
+F 62 3 8 Spo
+F 67 2 8 ken 
+F 70 3 8 half 
+F 75 2 8 in 
+F 79 3 8 jest, 
+- 84
+F 95 4 8 Catch 
+F 100 2 8 the 
+F 104 2 8 bird 
+F 108 2 8 that’s 
+F 112 2 8 in 
+F 116 2 8 my 
+F 120 3 8 nest 
+- 125
+F 128 1 8 Out 
+F 130 1 8 of 
+F 132 1 8 the 
+F 135 3 8 door
+F 140 3 8 way, 
+F 144 2 8 in
+F 147 2 8 to 
+F 150 1 8 the 
+F 152 2 8 mor
+F 156 2 8 ning 
+- 159
+F 160 1 8 All 
+F 162 1 8 of 
+F 164 2 8 them 
+F 168 1 8 seem 
+F 170 1 8 to 
+F 172 1 8 be 
+F 175 3 8 sel
+F 180 2 8 ling 
+F 184 2 8 some
+F 188 2 8 thing 
+F 191 1 8 Il
+F 193 2 8 leg
+F 196 2 8 al 
+F 200 3 8 sub
+F 204 3 8 stan
+F 208 3 8 ces 
+- 213
+F 223 5 8 Or 
+F 230 2 8 an 
+F 233 4 8 hour 
+F 239 2 8 with 
+F 243 2 8 no 
+F 247 3 8 kis
+F 251 2 8 ses 
+- 254
+F 255 2 8 Though 
+F 258 2 8 I 
+F 261 2 8 am 
+F 264 4 8 tempted, 
+F 271 2 8 they 
+F 274 2 8 are 
+F 278 2 8 pre
+F 282 2 8 empted 
+- 286
+F 287 2 8 You 
+F 290 2 8 and 
+F 293 2 8 your 
+F 296 2 8 ro
+F 299 1 8 sa
+F 301 1 8 ry 
+F 304 2 8 are 
+F 308 2 8 e
+F 311 4 8 xemp
+F 316 2 8 ted 
+- 319
+F 319 2 8 From 
+F 323 2 8 cri
+F 326 1 8 mi
+F 328 3 8 na
+F 332 2 8 li
+F 336 5 8 ty, 
+- 343
+F 351 3 8 Still 
+F 356 2 8 there 
+F 360 2 8 is 
+F 363 2 8 a 
+F 366 2 8 du
+F 369 3 8 a
+F 373 2 8 li
+F 376 3 8 ty 
+- 381
+F 384 2 8 You’ll 
+F 387 2 8 ne
+F 390 2 8 ver 
+F 393 2 8 know 
+F 396 2 8 it, 
+F 400 2 8 I’ll 
+F 403 1 8 ne
+F 405 1 8 ver 
+F 408 3 8 show 
+F 412 2 8 it 
+- 415
+F 415 2 8 On
+F 418 2 8 ly 
+F 421 1 8 I 
+F 423 3 8 hear 
+F 427 2 8 it, 
+F 431 2 8 on
+F 434 2 8 ly 
+F 437 2 8 I 
+F 440 2 8 know 
+F 443 2 8 that 
+- 447
+F 448 2 8 What’s 
+F 452 3 8 a
+F 456 2 8 pro
+F 459 2 8 pos 
+F 462 2 8 for 
+F 465 4 8 me, 
+- 471
+F 479 3 8 May 
+F 484 2 8 for 
+F 489 1 8 thee 
+F 492 1 8 be 
+F 495 3 8 blas
+F 500 2 8 phe
+F 504 2 8 my 
+- 508
+F 519 2 8 And 
+F 523 2 8 the 
+F 527 4 8 hills 
+F 534 2 8 are 
+F 538 1 8 a
+F 540 5 8 live 
+- 547
+F 577 2 8 With 
+F 581 2 8 the 
+F 586 7 8 sound 
+F 597 2 8 of 
+F 601 4 8 mu
+F 608 4 8 sic 
+- 614
+: 632 2 5 When 
+: 636 2 7 I 
+: 640 4 8 kiss 
+* 652 6 8 you, 
+: 664 2 8 when 
+: 668 2 8 I 
+* 672 4 10 kiss 
+: 684 6 10 you 
+- 692
+: 696 2 10 I 
+: 700 2 10 hear 
+* 704 4 10 Char
+* 712 4 10 lie 
+* 720 4 10 Par
+* 728 4 10 ker 
+: 736 8 10 play
+: 748 6 8 ing 
+- 756
+: 760 2 5 Will 
+: 764 2 7 I 
+: 768 4 8 miss 
+: 780 4 8 you, 
+: 792 2 8 will 
+: 796 2 8 I 
+: 800 4 7 miss 
+: 812 6 7 you 
+- 820
+: 824 2 7 When 
+: 828 2 7 the 
+: 832 4 7 play
+: 840 4 7 ing 
+: 848 4 7 ends 
+: 856 4 3 one 
+: 864 7 3 night 
+- 873
+: 887 2 5 When 
+: 891 2 7 I 
+: 895 4 8 kiss 
+: 907 6 8 you, 
+: 919 2 8 when 
+: 923 2 8 I 
+: 927 4 10 kiss 
+: 939 6 10 you 
+- 947
+: 951 2 10 I 
+: 955 2 10 hear 
+: 959 4 10 Char
+: 967 4 10 lie 
+: 975 4 10 Par
+: 983 4 10 ker 
+: 991 8 10 play
+: 1003 6 8 ing 
+- 1011
+: 1015 2 5 Will 
+: 1019 2 7 I 
+: 1023 4 8 miss 
+: 1035 4 8 you, 
+: 1047 2 8 will 
+: 1051 2 8 I 
+: 1055 4 7 miss 
+: 1067 6 7 you 
+- 1075
+: 1079 2 7 When 
+: 1083 2 7 I 
+: 1087 6 7 final
+: 1096 2 7 ly 
+: 1104 4 7 see 
+: 1112 4 3 the 
+: 1120 6 3 light 
+- 1128
+F 1280 2 8 Where 
+F 1283 1 8 are 
+F 1285 1 8 they 
+F 1288 2 8 go
+F 1291 2 8 ing, 
+F 1295 2 8 what 
+F 1298 1 8 are 
+F 1300 2 8 they 
+F 1303 2 8 do
+F 1307 2 8 ing 
+- 1311
+F 1312 1 8 Who 
+F 1314 1 8 are 
+F 1316 1 8 they 
+F 1319 3 8 cha
+F 1324 2 8 sing, 
+F 1328 1 8 who 
+F 1330 1 8 are 
+F 1332 1 8 they 
+F 1335 3 8 su
+F 1340 1 8 ing 
+- 1342
+F 1342 1 8 It 
+F 1344 2 8 all 
+F 1348 2 8 ends 
+F 1352 2 8 up 
+F 1356 2 8 O
+F 1360 2 8 K 
+- 1364
+F 1376 2 8 In 
+F 1380 2 8 this 
+F 1384 1 8 Ten
+F 1386 1 8 nes
+F 1388 2 8 see 
+F 1392 2 8 Wil
+F 1396 2 8 liams 
+F 1400 3 8 play 
+- 1405
+F 1408 1 8 What 
+F 1410 1 8 are 
+F 1412 1 8 they 
+F 1415 3 8 fa
+F 1420 2 8 cing, 
+F 1424 1 8 who 
+F 1426 1 8 are 
+F 1428 1 8 they 
+F 1431 3 8 ca
+F 1436 2 8 sing 
+- 1439
+F 1440 2 8 When 
+F 1443 1 8 you’re 
+F 1445 1 8 at
+F 1447 3 8 tacked, 
+F 1452 1 8 tell 
+F 1454 1 8 me, 
+F 1456 1 8 who 
+F 1458 1 8 are 
+F 1460 2 8 you 
+F 1464 2 8 ma
+F 1467 2 8 cing 
+- 1470
+F 1470 1 8 For 
+F 1472 2 8 me 
+F 1475 2 8 it’s 
+F 1480 2 8 all 
+F 1484 3 8 just 
+F 1488 3 8 fine, 
+- 1493
+F 1500 2 8 Cause 
+F 1503 2 8 she’s 
+F 1507 2 8 a 
+F 1511 2 8 Frank 
+F 1515 3 8 Lloyd 
+F 1520 2 8 Wright 
+F 1524 2 8 de
+F 1528 3 8 sign 
+- 1532
+F 1532 2 8 The 
+F 1536 2 8 fi
+F 1540 2 8 nest 
+F 1544 2 8 of 
+F 1548 2 8 ma
+F 1552 2 8 te
+F 1555 2 8 ri
+F 1558 2 8 al 
+- 1562
+F 1564 2 8 A 
+F 1568 2 8 lit
+F 1571 2 8 tle 
+F 1575 2 8 a
+F 1578 2 8 sym
+F 1582 2 8 me
+F 1586 2 8 tri
+F 1590 2 8 cal 
+- 1594
+F 1595 2 8 But 
+F 1599 2 8 that’s 
+F 1603 2 8 the 
+F 1607 2 8 way 
+F 1611 2 8 it 
+F 1614 3 8 goes, 
+- 1619
+F 1627 2 8 My 
+F 1631 2 8 love 
+F 1636 2 8 for 
+F 1640 2 8 her 
+F 1644 2 8 just 
+F 1648 2 8 grows 
+F 1652 2 8 and 
+F 1656 2 8 grows 
+- 1660
+F 1662 1 8 It’s 
+F 1664 1 8 big
+F 1666 1 8 ger 
+F 1668 2 8 than 
+F 1672 2 8 Fu
+F 1675 2 8 ji, 
+F 1679 1 8 big
+F 1681 1 8 ger 
+F 1683 2 8 than 
+F 1687 2 8 Fu
+F 1691 2 8 ji 
+- 1694
+F 1695 2 8 Some
+F 1699 2 8 times 
+F 1704 3 8 she’s 
+F 1709 2 8 a 
+F 1712 2 8 lit
+F 1715 2 8 tle 
+F 1719 2 8 scre
+F 1722 2 8 wy 
+- 1725
+F 1726 1 8 But 
+F 1728 2 8 all 
+F 1731 2 8 that 
+F 1735 2 8 is 
+F 1739 2 8 off
+F 1743 2 8 set 
+- 1747
+F 1756 2 8 When 
+F 1760 2 8 we 
+F 1764 2 8 dis
+F 1768 2 8 pense 
+F 1772 2 8 with 
+F 1776 2 8 e
+F 1779 2 8 ti
+F 1782 2 8 quette 
+- 1786
+F 1800 2 8 And 
+F 1804 2 8 the 
+F 1808 4 8 hills 
+F 1815 2 8 are 
+F 1818 1 8 a
+F 1820 5 8 live 
+- 1827
+F 1859 2 8 With 
+F 1863 2 8 the 
+F 1868 7 8 sound 
+F 1878 2 8 of 
+F 1882 4 8 mu
+F 1889 4 8 sic 
+- 1895
+: 1912 2 5 When 
+: 1916 2 7 I 
+: 1920 4 8 kiss 
+* 1932 6 8 you, 
+: 1944 2 8 when 
+: 1948 2 8 I 
+* 1952 4 10 kiss 
+: 1964 6 10 you 
+- 1972
+: 1976 2 10 I 
+: 1980 2 10 hear 
+: 1984 4 10 Char
+: 1992 4 10 lie 
+: 2000 4 10 Par
+: 2008 4 10 ker 
+: 2016 8 10 play
+: 2028 6 8 ing 
+- 2036
+: 2040 2 5 Will 
+: 2044 2 7 I 
+: 2048 4 8 miss 
+: 2060 4 8 you, 
+: 2072 2 8 will 
+: 2076 2 8 I 
+: 2080 4 7 miss 
+: 2092 6 7 you 
+- 2100
+: 2104 2 7 When 
+: 2108 2 7 the 
+: 2112 4 7 play
+: 2120 4 7 ing 
+: 2128 4 7 ends 
+: 2136 4 3 one 
+: 2144 7 3 night 
+- 2153
+: 2168 2 5 When 
+: 2172 2 7 I 
+: 2176 4 8 kiss 
+: 2188 6 8 you, 
+: 2200 2 8 when 
+: 2204 2 8 I 
+: 2208 4 10 kiss 
+: 2220 6 10 you 
+- 2228
+: 2232 2 10 I 
+: 2236 2 10 hear 
+: 2240 4 10 Char
+: 2248 4 10 lie 
+: 2256 4 10 Par
+: 2264 4 10 ker 
+: 2272 8 10 play
+: 2284 6 8 ing 
+- 2292
+: 2296 2 5 Will 
+: 2300 2 7 I 
+: 2304 4 8 miss 
+: 2316 4 8 you, 
+: 2328 2 8 will 
+: 2332 2 8 I 
+: 2336 4 7 miss 
+: 2348 6 7 you 
+- 2356
+: 2360 2 7 When 
+: 2364 2 7 I 
+: 2368 6 7 final
+: 2377 2 7 ly 
+: 2385 4 7 see 
+: 2393 4 3 the 
+: 2401 6 3 light 
+- 2409
+F 2560 1 8 Out 
+F 2562 1 8 of 
+F 2564 2 8 the 
+F 2568 2 8 door
+F 2572 2 8 way, 
+F 2576 1 8 in
+F 2578 1 8 to 
+F 2580 2 8 the 
+F 2583 2 8 mor
+F 2587 2 8 ning 
+- 2591
+F 2592 2 8 Wish 
+F 2595 1 8 I 
+F 2597 1 8 was 
+F 2599 1 8 a 
+F 2601 1 8 bird 
+F 2603 1 8 that 
+F 2605 1 8 was 
+F 2607 3 8 pre
+F 2612 2 8 da
+F 2616 1 8 to
+F 2619 1 8 ry 
+- 2622
+F 2624 2 8 Spo
+F 2627 2 8 ken 
+F 2631 2 8 half 
+F 2635 2 8 in 
+F 2639 2 8 jest, 
+- 2643
+F 2655 3 8 Catch 
+F 2661 3 8 the 
+F 2665 2 8 bird 
+F 2668 2 8 that’s 
+F 2672 2 8 in 
+F 2675 2 8 my 
+F 2679 2 8 nest 
+- 2683
+F 2684 2 8 There’s 
+F 2688 2 8 re
+F 2691 1 8 bel 
+F 2693 2 8 ad
+F 2696 3 8 van
+F 2700 2 8 ces, 
+F 2704 1 8 la
+F 2706 1 8 bor 
+F 2709 2 8 dis
+F 2712 3 8 putes 
+- 2717
+F 2720 1 8 Some
+F 2722 1 8 bo
+F 2724 1 8 dy’s 
+F 2727 2 8 shot 
+F 2732 2 8 and 
+F 2735 2 8 some
+F 2738 1 8 bo
+F 2740 1 8 dy’s 
+F 2742 3 8 shoots 
+- 2747
+F 2749 2 8 And 
+F 2752 2 8 hits 
+F 2756 2 8 the 
+F 2760 2 8 bulls
+F 2764 2 8 eye 
+F 2768 5 8 bam 
+- 2775
+F 2784 2 8 Cap
+F 2788 2 8 tured 
+F 2792 2 8 on 
+F 2796 2 8 a 
+F 2800 2 8 pho
+F 2804 2 8 to
+F 2807 4 8 cam 
+- 2813
+F 2824 2 8 And 
+F 2828 2 8 the 
+F 2832 4 8 hills 
+F 2839 2 8 are 
+F 2843 1 8 a
+F 2845 5 8 live 
+- 2852
+F 2885 2 8 With 
+F 2888 2 8 the 
+F 2892 7 8 sound 
+F 2903 2 8 of 
+F 2907 4 8 mu
+F 2914 4 8 sic 
+- 2920
+: 2936 2 5 When 
+: 2940 2 7 I 
+: 2944 4 8 kiss 
+: 2956 6 8 you, 
+: 2968 2 8 when 
+: 2972 2 8 I 
+: 2976 4 10 kiss 
+: 2988 6 10 you 
+- 2996
+: 3000 2 10 I 
+: 3004 2 10 hear 
+: 3008 4 10 Char
+: 3016 4 10 lie 
+: 3024 4 10 Par
+: 3032 4 10 ker 
+: 3040 8 10 play
+: 3052 6 8 ing 
+- 3060
+: 3064 2 5 Will 
+: 3068 2 7 I 
+: 3072 4 8 miss 
+: 3084 4 8 you, 
+: 3096 2 8 will 
+: 3100 2 8 I 
+: 3104 4 7 miss 
+: 3116 6 7 you 
+- 3124
+: 3128 2 7 When 
+: 3132 2 7 the 
+: 3136 4 7 play
+: 3144 4 7 ing 
+: 3152 4 7 ends 
+: 3160 4 3 one 
+: 3168 7 3 night 
+- 3177
+: 3192 2 5 When 
+: 3196 2 7 I 
+: 3200 4 8 kiss 
+: 3212 6 8 you, 
+: 3224 2 8 when 
+: 3228 2 8 I 
+: 3232 4 10 kiss 
+: 3244 6 10 you 
+- 3252
+: 3256 2 10 I 
+: 3260 2 10 hear 
+: 3264 4 10 Char
+: 3272 4 10 lie 
+: 3280 4 10 Par
+: 3288 4 10 ker 
+: 3296 8 10 play
+: 3308 6 8 ing 
+- 3316
+: 3320 2 5 Will 
+: 3324 2 7 I 
+: 3328 4 8 miss 
+: 3340 4 8 you, 
+: 3352 2 8 will 
+: 3356 2 8 I 
+: 3360 4 7 miss 
+: 3372 6 7 you 
+- 3380
+: 3384 2 7 When 
+: 3388 2 7 I 
+: 3392 6 7 final
+: 3401 2 7 ly 
+: 3409 4 7 see 
+: 3417 4 3 the 
+: 3425 6 3 light 
+- 3433
+: 3768 2 5 When 
+: 3772 2 7 I 
+: 3776 4 8 kiss 
+: 3788 6 8 you, 
+: 3800 2 8 when 
+: 3804 2 8 I 
+: 3808 4 10 kiss 
+: 3820 6 10 you 
+E

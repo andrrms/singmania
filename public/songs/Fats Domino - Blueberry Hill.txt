@@ -1,0 +1,174 @@
+#ARTIST:Fats Domino
+#TITLE:Blueberry Hill
+#MP3:Fats Domino - Blueberry Hill.mp3
+#CREATOR:Fepo
+#COVER:Fats Domino - Blueberry Hill [CO].jpg
+#BACKGROUND:Fats Domino - Blueberry Hill [BG].jpg
+#GENRE:Blues
+#YEAR:1956
+#LANGUAGE:English
+#BPM:273.6
+#GAP:10880
+#VIDEO:v=Gdoy9jkyZRk,co=https://www.bear-family.de/media/image/ef/f6/94/LPMFP58093.jpg
+: 0 6 -1 I 
+: 12 8 3 found 
+: 24 6 6 my 
+: 32 4 11 thri
+: 38 4 8 ~ll 
+- 60
+* 90 19 8 On 
+: 112 3 4 Blue
+: 117 2 -1 ber
+: 121 5 8 ry 
+: 128 6 8 Hi
+: 136 7 6 ~ll 
+- 161
+: 191 9 8 On 
+: 202 6 8 Blue
+: 210 3 6 ber
+: 215 5 3 ry 
+: 222 7 3 Hi
+: 230 7 1 ~ll 
+- 255
+: 284 9 8 When 
+: 295 10 8 I 
+: 309 5 8 found 
+: 316 8 8 you
+: 326 10 6 ~ 
+- 354
+: 381 7 -1 The 
+: 392 9 3 moon 
+: 405 6 6 stood 
+: 413 5 11 sti
+: 420 9 8 ~ll 
+- 447
+: 470 20 8 On 
+: 492 3 4 Blue
+: 497 2 -1 ber
+: 501 5 8 ry 
+: 508 6 8 Hi
+: 516 7 6 ~ll 
+- 541
+: 572 8 8 And 
+: 582 6 8 lin
+: 590 3 6 gered 
+: 595 6 3 un
+: 603 5 3 ti
+: 609 6 1 ~l 
+- 633
+: 665 11 8 My 
+: 678 5 8 dre
+: 684 3 6 ~am 
+* 689 9 3 came 
+: 700 16 -1 true 
+- 734
+: 760 10 6 The 
+: 772 8 1 wind 
+: 782 5 3 in 
+: 789 5 4 the 
+: 796 18 6 wil
+: 816 3 6 low 
+: 821 12 6 played 
+- 843
+: 854 9 6 Love’s 
+: 867 7 1 sweet 
+: 876 5 3 me
+: 883 3 4 lo
+: 888 12 6 dy 
+- 918
+: 951 9 6 But 
+: 963 8 5 all 
+: 973 5 6 of 
+: 980 7 8 those 
+: 989 10 10 vows 
+: 1008 3 10 you 
+: 1013 9 10 made 
+- 1032
+: 1048 9 10 Were 
+: 1061 6 5 ne
+: 1069 5 6 ver 
+: 1076 4 8 to 
+: 1082 9 10 be 
+- 1109
+: 1144 9 -1 Though 
+: 1156 11 3 we’re 
+: 1169 5 6 a
+: 1176 6 11 pa
+: 1183 7 8 ~rt 
+- 1208
+* 1234 19 8 You’re 
+: 1256 3 4 part 
+: 1261 3 -1 of 
+: 1266 4 8 me 
+: 1273 7 8 sti
+: 1281 6 6 ~ll 
+- 1305
+: 1336 10 8 For 
+: 1348 6 8 you 
+: 1356 4 6 were 
+: 1362 4 3 my 
+: 1369 7 3 thri
+: 1377 5 1 ~ll 
+- 1400
+: 1432 10 8 On 
+: 1444 5 8 Blue
+: 1451 3 6 ber
+: 1456 5 3 ry 
+: 1463 6 3 Hi
+: 1470 6 -1 ~ll 
+- 1494
+: 1531 9 6 The 
+: 1542 7 1 wind 
+: 1551 5 3 in 
+: 1558 5 4 the 
+: 1566 14 6 wil
+: 1582 4 6 low 
+: 1588 12 6 played 
+- 1610
+: 1626 7 6 Love’s 
+: 1635 7 1 sweet 
+: 1644 4 3 me
+: 1650 6 4 lo
+: 1658 12 6 dy 
+- 1688
+: 1719 9 6 But 
+: 1731 8 5 all 
+: 1741 5 6 of 
+: 1748 7 8 those 
+: 1757 10 10 vows 
+: 1776 3 10 you 
+: 1781 9 10 made 
+- 1800
+: 1822 6 6 But 
+: 1830 4 5 on
+: 1836 5 6 ly 
+: 1843 4 8 to 
+: 1849 9 10 be 
+- 1876
+: 1911 9 -1 Though 
+: 1923 11 3 we’re 
+: 1936 5 6 a
+: 1943 6 11 pa
+: 1950 7 8 ~rt 
+- 1975
+* 2004 19 8 You’re 
+: 2025 3 4 part 
+: 2030 2 -1 of 
+: 2034 4 8 me 
+: 2041 6 8 sti
+: 2049 6 6 ~ll 
+- 2073
+: 2106 9 8 For 
+: 2117 6 8 you 
+: 2125 4 6 were 
+: 2131 4 3 my 
+: 2137 6 3 thri
+: 2145 5 1 ~ll 
+- 2168
+: 2202 10 8 On 
+* 2214 5 8 Blue
+* 2222 3 6 ber
+* 2227 4 3 ry 
+* 2234 6 3 Hi
+: 2241 6 -1 ~ll 
+E

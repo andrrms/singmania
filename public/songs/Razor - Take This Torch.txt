@@ -1,0 +1,243 @@
+#ARTIST:Razor
+#TITLE:Take This Torch
+#MP3:Razor - Take This Torch.mp3
+#CREATOR:Ich,werdennsonst?
+#COVER:Razor - Take This Torch [CO].jpg
+#BACKGROUND:Razor - Take This Torch [BG].jpg
+#GENRE:Metal
+#YEAR:1985
+#LANGUAGE:English
+#BPM:349.46
+#GAP:43250
+#VIDEO:a=8N2f1Tzdigo,v=_zUX-WegV3c,co=executioners-song-583b2475a75a3.jpg
+#VIDEOGAP:-22.0
+#START:22.0
+: 0 3 4 Sear
+: 4 2 4 ching 
+: 7 3 4 in 
+: 11 2 4 the 
+: 14 5 7 dark
+: 20 8 4 ness, 
+: 29 3 4 sear
+: 33 4 4 ching 
+: 38 3 7 for 
+: 42 1 2 the 
+: 44 8 4 light 
+- 54
+: 62 3 4 Loo
+: 66 4 4 king 
+: 71 1 4 to 
+: 73 3 4 the 
+: 77 4 7 dark
+: 82 12 4 ness, 
+: 96 3 4 put
+: 100 2 4 ting 
+: 103 1 7 up 
+: 105 1 2 a 
+: 107 11 4 fight 
+- 120
+: 128 1 4 I
+: 130 3 4 ron 
+: 134 5 4 chains 
+: 140 1 4 sur
+: 142 5 7 round 
+: 148 8 4 you, 
+: 157 2 4 you 
+: 160 3 4 try 
+: 164 1 4 to 
+: 166 4 7 make 
+: 171 1 2 a 
+: 173 11 4 run 
+- 186
+: 190 7 4 Someone 
+: 198 3 4 near 
+: 202 3 4 has 
+: 206 5 7 found 
+: 212 8 4 you, 
+: 221 2 4 and 
+: 224 3 4 now 
+: 228 3 4 you 
+: 232 2 7 see 
+: 235 1 2 the 
+: 237 13 4 sun 
+- 252
+: 254 14 7 Bright 
+: 269 15 7 lights, 
+: 286 4 7 now 
+: 291 3 7 you 
+: 295 2 7 can 
+: 298 8 7 see 
+: 307 6 7 where 
+: 314 4 7 you 
+: 319 11 9 are 
+- 332
+: 333 11 9 Far, 
+: 348 5 9 out 
+: 354 2 9 in 
+: 357 4 9 the 
+: 362 4 11 u
+: 367 3 11 ni
+: 371 8 9 verse 
+- 380
+: 380 12 11 Now, 
+: 396 12 11 you, 
+: 412 4 11 try 
+: 417 3 11 to 
+: 421 3 11 es
+: 425 6 11 cape 
+: 432 6 11 from 
+: 439 4 11 this 
+: 444 12 13 spot 
+- 458
+: 460 12 13 Hot, 
+: 476 4 13 rea
+: 481 2 13 dy 
+: 484 3 13 or 
+: 488 7 13 not 
+- 496
+: 496 4 13 Take 
+: 501 6 13 this 
+: 508 28 16 torch 
+- 538
+: 557 8 13 Take 
+: 566 8 13 this 
+: 575 25 16 torch 
+- 602
+: 621 8 13 Take 
+: 630 5 13 this 
+: 636 32 16 torch 
+- 670
+: 688 7 13 Take 
+: 696 7 13 this 
+: 704 32 16 torch 
+- 738
+: 753 6 13 Take 
+: 760 7 13 this 
+: 768 31 16 to
+: 800 18 15 o
+: 819 19 14 o
+: 839 6 13 o
+: 846 7 12 o
+: 854 13 11 o
+: 868 34 10 orch 
+- 904
+: 1022 4 4 Feel 
+: 1027 2 4 the 
+: 1030 4 4 white 
+: 1035 4 4 hot 
+: 1040 3 4 me
+: 1044 8 4 tal, 
+: 1056 3 4 feel 
+: 1060 1 4 it 
+: 1062 2 7 burn 
+: 1065 4 2 your 
+: 1070 12 4 skin 
+- 1084
+: 1085 2 4 Ex
+: 1088 3 4 pe
+: 1092 5 4 rience 
+: 1098 1 4 the 
+: 1100 7 7 tor
+: 1108 7 4 ture, 
+: 1116 3 4 pay 
+: 1120 3 4 for 
+: 1124 5 7 all 
+: 1130 3 2 your 
+: 1134 10 4 sins 
+- 1146
+: 1151 3 4 Ta
+: 1155 2 4 ken 
+: 1158 3 4 to 
+: 1162 2 4 the 
+: 1165 5 7 stair
+: 1171 13 4 way, 
+: 1185 3 4 ta
+: 1189 3 4 ken 
+: 1193 2 7 to 
+: 1196 1 2 a 
+: 1198 14 4 cell 
+- 1214
+: 1216 3 4 Scor
+: 1220 3 4 ches 
+: 1224 2 4 all 
+: 1227 3 4 your 
+: 1231 3 7 bo
+: 1235 9 4 dy, 
+: 1245 6 4 taste 
+: 1252 1 4 the 
+: 1254 5 7 wrath 
+: 1260 1 2 of 
+: 1262 14 4 hell 
+- 1277
+: 1278 12 7 Bright 
+: 1294 13 7 lights, 
+: 1311 3 7 now 
+: 1315 2 7 you 
+: 1318 2 7 can 
+: 1321 7 7 see 
+: 1329 4 7 where 
+: 1334 6 7 you 
+: 1341 11 9 are 
+- 1354
+: 1357 11 9 Far, 
+: 1373 4 9 out 
+: 1378 2 9 in 
+: 1381 3 9 the 
+: 1385 5 11 u
+: 1391 2 11 ni
+: 1394 9 9 verse 
+- 1404
+: 1404 12 11 Now, 
+: 1420 10 11 you, 
+: 1434 5 11 try 
+: 1440 2 11 to 
+: 1443 4 11 es
+: 1448 6 11 cape 
+: 1455 4 11 from 
+: 1460 5 11 this 
+: 1466 12 13 spot 
+- 1480
+: 1482 12 13 Hot, 
+: 1498 5 13 rea
+: 1504 3 13 dy 
+: 1508 3 13 or 
+: 1512 4 13 not 
+- 1517
+: 1518 6 13 Take 
+: 1525 5 13 this 
+: 1531 29 16 torch 
+- 1562
+: 1579 7 13 Take 
+: 1587 8 13 this 
+: 1596 28 16 torch 
+- 1626
+: 1643 8 13 Take 
+: 1652 7 13 this 
+: 1660 28 16 torch 
+- 1690
+: 1708 9 13 Take 
+: 1718 6 13 this 
+: 1725 27 16 torch 
+- 1754
+: 1773 6 13 Take 
+: 1780 7 13 this 
+: 1788 30 16 to
+: 1819 20 15 o
+: 1840 27 14 o
+: 1868 19 13 o
+: 1888 15 12 o
+: 1904 11 11 o
+: 1916 24 10 orch 
+- 1942
+* 3294 24 16 Aa
+* 3319 11 15 a
+* 3331 7 14 a
+* 3339 7 13 a
+* 3347 6 12 a
+* 3354 5 11 a
+* 3360 7 10 a
+* 3368 6 9 a
+* 3375 5 8 a
+* 3381 6 7 a
+* 3388 75 6 ah! 
+E

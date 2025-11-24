@@ -1,0 +1,224 @@
+#ARTIST:Jim Croce
+#TITLE:Time In A Bottle
+#MP3:Jim Croce - Time In A Bottle.mp3
+#CREATOR:Way2Evil
+#YEAR:1971
+#LANGUAGE:English
+#BPM:264
+#GAP:11860
+#VIDEO:v=Q29sOLG8xGE,co=https://static.stereogum.com/uploads/2019/04/Jim-Croce-Time-In-A-Bottle-1556643688.jpg,bg=croce-jim-5f073099d2a9d.jpg
+: 0 2 9 If 
+: 4 14 9 I 
+: 21 2 10 could 
+: 27 5 9 save 
+* 34 10 9 time 
+* 45 2 10 in 
+* 48 2 9 a 
+* 52 2 9 bot
+* 56 16 9 tle. 
+- 74
+: 93 2 9 The 
+: 96 5 7 first 
+: 105 7 7 thing 
+: 116 3 7 that 
+: 121 6 7 I’d 
+: 128 6 9 like 
+: 136 2 10 to 
+: 139 29 9 do. 
+- 170
+: 184 3 9 Is 
+: 188 1 9 to 
+: 192 15 9 save 
+: 208 3 10 e
+: 212 2 9 very 
+: 215 8 9 day, 
+- 225
+: 231 2 10 ’Til 
+: 234 3 9 e
+: 238 7 12 ter
+: 246 3 10 ni
+: 250 7 9 ty 
+: 258 9 7 pas
+: 270 5 9 ses 
+: 277 2 10 a
+: 280 14 9 way. 
+- 296
+: 300 3 9 Just 
+: 304 2 9 to 
+: 307 8 7 spend 
+: 316 7 5 them 
+: 324 2 7 with 
+: 327 17 9 you. 
+- 346
+: 374 2 9 If 
+: 377 13 9 I 
+: 391 4 10 could 
+: 396 6 9 make 
+: 403 12 9 days 
+: 417 4 10 last 
+: 423 3 9 for
+: 427 3 9 e
+: 431 17 9 ver. 
+- 450
+: 468 3 9 If 
+: 472 6 7 words 
+: 480 6 7 could 
+: 487 5 7 make 
+: 494 4 7 wish
+: 500 8 9 es 
+: 510 6 10 come 
+: 518 24 9 true. 
+- 544
+: 561 4 9 I’d 
+: 568 14 9 save 
+: 583 3 10 e
+: 587 3 9 very 
+: 591 12 9 day 
+: 606 3 10 like 
+: 610 2 9 a 
+: 614 7 12 trea
+: 623 6 10 sure 
+: 630 3 9 and 
+: 634 14 7 then, 
+- 650
+: 657 3 10 A
+: 661 9 9 gain, 
+: 677 2 9 I 
+: 680 2 9 would 
+: 684 8 7 spend 
+: 694 5 5 them 
+: 700 3 7 with 
+: 704 22 9 you. 
+- 728
+: 748 2 9 But 
+: 751 2 4 there 
+: 754 4 6 ne
+: 759 2 9 ver 
+: 764 10 9 seems 
+: 775 3 9 to 
+: 779 3 11 be 
+: 783 2 9 e
+: 786 4 9 nough 
+: 792 6 4 time, 
+- 800
+: 802 1 2 To 
+: 804 2 6 do 
+: 807 2 9 the 
+: 811 7 9 things 
+: 822 3 9 you 
+: 827 3 11 want 
+: 831 2 9 to 
+: 835 7 9 do 
+: 843 4 4 once 
+: 850 3 2 you 
+: 855 6 -1 find 
+: 862 18 2 them. 
+- 882
+: 941 3 -3 I’ve 
+: 945 3 6 looked 
+: 950 2 9 a
+: 953 9 9 round 
+: 963 1 9 e
+: 965 7 11 nough 
+: 973 2 9 to 
+: 977 7 4 know. 
+- 986
+: 989 2 -3 That 
+: 992 3 6 you’re 
+: 996 3 9 the 
+: 1000 7 9 one 
+: 1008 6 9 I 
+: 1016 3 11 want 
+: 1020 3 9 to 
+: 1024 5 6 go 
+: 1031 7 2 through 
+: 1039 7 -1 time 
+: 1048 16 2 with. 
+- 1066
+: 1338 3 9 If 
+: 1342 14 9 I 
+: 1357 2 10 had 
+: 1361 2 9 a 
+: 1364 6 9 box 
+: 1378 3 10 just 
+: 1384 3 9 for 
+: 1389 3 9 wish
+: 1394 17 9 es. 
+- 1413
+: 1432 2 9 And 
+: 1435 15 7 dreams 
+: 1453 2 7 that 
+: 1456 2 7 had 
+: 1459 4 7 ne
+: 1464 10 9 ver 
+: 1475 6 10 come 
+: 1482 20 9 true. 
+- 1504
+: 1527 2 9 The 
+: 1532 5 9 box 
+: 1547 2 9 would 
+: 1551 2 9 be 
+: 1555 3 9 emp
+: 1559 8 9 ty, 
+- 1569
+: 1574 2 9 Ex
+: 1579 6 12 cept 
+: 1586 7 10 for 
+: 1594 3 9 the 
+: 1598 10 7 memo
+: 1609 8 9 ry, 
+: 1618 2 10 of 
+: 1621 10 9 how 
+- 1633
+: 1641 2 10 They 
+: 1645 2 9 were 
+: 1649 5 7 ans
+: 1656 7 5 wered 
+: 1665 3 7 by 
+* 1669 19 9 you. 
+- 1690
+: 1712 2 9 But 
+: 1716 2 4 there 
+: 1720 3 6 ne
+: 1724 1 9 ver 
+: 1728 10 9 seems 
+: 1740 2 9 to 
+: 1744 2 11 be 
+: 1748 2 9 e
+: 1752 2 9 nough 
+: 1756 7 4 time. 
+- 1764
+: 1765 1 2 To 
+: 1768 2 6 do 
+: 1772 2 9 the 
+: 1775 8 9 things 
+: 1788 2 9 you 
+: 1792 2 11 want 
+: 1796 2 9 to 
+: 1800 7 9 do 
+: 1808 4 4 once 
+: 1815 2 2 you 
+: 1819 8 -1 find 
+: 1828 16 2 them. 
+- 1846
+: 1905 3 -3 I’ve 
+: 1910 2 6 looked 
+: 1914 2 9 a
+: 1918 8 9 round 
+: 1927 2 9 e
+: 1930 6 11 nough 
+: 1938 2 9 to 
+: 1942 8 4 know, 
+- 1952
+: 1954 2 -3 That 
+: 1957 3 6 you’re 
+: 1962 2 9 the 
+: 1965 7 9 one 
+: 1973 6 9 I 
+: 1980 4 11 want 
+: 1986 2 9 to 
+: 1989 4 6 go 
+: 1994 6 2 through 
+: 2003 8 -1 time 
+* 2012 20 2 with. 
+E

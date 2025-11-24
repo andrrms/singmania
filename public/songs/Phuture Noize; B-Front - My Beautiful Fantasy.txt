@@ -1,0 +1,182 @@
+#ARTIST:Phuture Noize; B-Front
+#TITLE:My Beautiful Fantasy
+#MP3:Phuture Noize; B-Front - My Beautiful Fantasy.mp3
+#CREATOR:rupertbayern
+#COVER:Phuture Noize; B-Front - My Beautiful Fantasy [CO].jpg
+#BACKGROUND:Phuture Noize; B-Front - My Beautiful Fantasy [BG].jpg
+#GENRE:Hardstyle
+#YEAR:2019
+#LANGUAGE:English
+#BPM:300
+#GAP:5750
+#VIDEO:v=SGq3Ek4BcU4,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/93/3e/6a933ef2-d95d-5a78-3fed-c90afa214322/5057272326968_cover.jpg/5000x5000bb.jpg
+: 0 7 9 I’m 
+: 8 21 9 rea
+: 30 7 10 ching 
+: 38 12 9 out 
+: 64 4 9 but 
+: 70 4 9 I 
+: 78 4 10 don’t 
+: 86 4 9 get 
+: 94 3 10 an 
+: 98 9 9 an
+: 108 8 5 swer 
+- 120
+: 122 3 5 And 
+: 126 4 5 I 
+: 134 16 9 see 
+: 156 5 9 with
+: 162 22 9 out 
+: 194 6 9 you
+: 202 4 7 ~ 
+: 212 4 7 I 
+: 218 4 9 am 
+: 224 7 9 an
+: 232 4 4 ger 
+- 240
+: 242 5 9 For 
+: 248 7 9 e
+* 256 23 17 ter
+: 280 5 16 ni
+: 286 10 16 ty 
+- 306
+: 310 6 14 I 
+: 318 5 17 saw 
+: 324 7 17 the 
+: 332 5 17 wo
+: 338 10 16 rld 
+: 350 5 16 crum
+: 356 8 14 ble 
+- 371
+: 374 4 9 For 
+* 382 20 17 you 
+: 404 4 16 and 
+: 410 18 16 me 
+- 432
+: 434 6 14 My 
+: 442 5 16 beau
+: 448 9 17 ti
+: 458 5 16 ful
+: 464 8 14 ~ 
+: 474 9 17 fan
+: 484 3 14 ta-
+: 488 4 14 sy 
+- 532
+: 986 4 9 For 
+: 992 5 9 e
+: 998 18 17 ter
+: 1020 8 16 ni
+: 1030 10 16 ty 
+- 1050
+: 1054 6 14 I 
+: 1062 5 17 saw 
+: 1068 7 17 the 
+: 1076 5 17 wo
+: 1082 6 16 rld 
+: 1090 5 16 crum
+: 1096 4 14 ble 
+- 1112
+: 1116 6 9 For 
+: 1124 14 17 you 
+: 1146 6 16 and 
+: 1154 10 16 me 
+- 1173
+: 1176 4 14 My 
+: 1182 7 16 beau
+: 1190 5 17 ti
+: 1196 7 16 ful
+: 1204 6 14 ~ 
+: 1216 5 17 fan
+: 1222 5 14 ta
+: 1228 4 14 sy 
+- 1272
+: 1868 5 9 Sta
+: 1874 6 9 ring 
+: 1882 4 9 in 
+: 1888 3 10 the 
+: 1892 4 9 void 
+- 1908
+: 1912 6 5 While 
+: 1920 6 5 I 
+: 1928 9 9 know 
+: 1938 5 9 a
+: 1944 7 9 bout 
+: 1952 5 10 your 
+: 1958 7 9 an
+: 1966 14 5 swer 
+- 1984
+: 1986 4 5 My 
+: 1992 7 9 u
+: 2000 7 9 ni
+: 2008 6 9 verse 
+* 2016 5 9 de
+* 2022 18 10 stroyed, 
+: 2046 2 10 oh, 
+: 2052 16 14 break 
+: 2076 6 16 me 
+: 2084 12 13 free 
+- 2100
+: 2102 5 9 For 
+: 2108 7 9 e
+* 2116 23 17 ter
+: 2140 5 16 ni
+: 2146 8 16 ty 
+- 2166
+: 2170 4 14 I 
+: 2176 7 17 saw 
+: 2184 5 17 the 
+: 2190 9 17 wo
+: 2200 7 16 rld 
+: 2208 5 16 crum
+: 2214 8 14 ble 
+- 2229
+: 2232 4 9 For 
+: 2238 22 17 you 
+: 2262 4 16 and 
+: 2268 18 16 me 
+- 2290
+: 2292 6 14 My 
+: 2300 7 16 beau
+: 2308 5 17 ti
+: 2314 9 16 ful
+: 2324 6 14 ~ 
+: 2332 7 17 fan
+: 2340 3 14 ta
+: 2344 4 14 sy 
+- 2388
+: 2478 4 14 My 
+: 2484 7 16 beau
+: 2492 5 17 ti
+: 2498 11 16 ful
+: 2510 4 14 ~ 
+: 2516 7 17 fan
+: 2524 3 14 ta
+: 2528 8 14 sy 
+- 2576
+: 3040 2 9 For 
+: 3044 3 9 e
+: 3048 17 17 ter
+: 3066 3 16 ni
+: 3070 8 16 ty 
+: 3098 3 14 I 
+: 3102 7 17 saw 
+: 3110 4 17 the 
+: 3118 7 17 wo
+: 3126 7 16 rld 
+: 3134 7 16 crum
+: 3142 4 14 ble 
+- 3158
+: 3162 6 9 For 
+: 3170 18 17 you 
+: 3192 6 16 and 
+: 3200 16 16 me 
+- 3220
+: 3222 4 16 My 
+: 3228 7 16 beau
+: 3236 5 17 ti
+: 3242 9 16 ful
+: 3252 8 14 ~ 
+: 3262 7 17 fan
+: 3270 3 14 ta
+: 3274 18 14 sy 
+E

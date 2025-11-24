@@ -1,0 +1,364 @@
+#ARTIST:Broken Social Scene
+#TITLE:Cause = Time
+#MP3:Broken Social Scene - Cause = Time.mp3
+#CREATOR:emptybathtub
+#COVER:Broken Social Scene - Cause = Time [CO].jpg
+#BACKGROUND:Broken Social Scene - Cause = Time [BG].jpg
+#GENRE:Alternative
+#YEAR:2003
+#LANGUAGE:English
+#BPM:239.7
+#GAP:30490
+#VIDEO:a=FTGHq0lbdiM,co=you-forgot-it-in-people-56183955eb13b.jpg,tags=explicit
+: 0 2 2 You 
+: 4 4 2 come 
+: 12 8 -1 in, 
+: 26 2 2 check 
+: 30 4 2 my 
+: 38 8 -1 time 
+- 52
+: 54 2 2 You’ve 
+: 58 4 2 got 
+: 64 4 4 for
+: 70 4 2 ni
+: 78 4 -1 ca
+: 84 4 -1 tion 
+: 90 10 -1 crimes 
+- 104
+: 106 1 -1 I’ve 
+: 108 2 -1 seen 
+: 114 1 -3 your 
+: 116 8 -1 hope 
+: 126 2 -3 on 
+: 130 1 -1 te
+: 132 2 2 le
+: 136 2 -1 vi
+: 140 8 -3 sion 
+- 164
+: 210 2 2 Where 
+: 214 4 2 you’ve 
+: 220 6 -1 been, 
+: 228 4 -1 you 
+: 234 4 2 were 
+: 240 4 2 not 
+: 246 8 -1 were 
+- 260
+: 262 2 2 They’ve 
+: 266 4 2 got 
+: 272 4 4 tri
+: 278 4 2 cy
+: 284 4 -1 cles 
+: 292 5 -1 in 
+: 298 4 -1 skirts 
+- 311
+: 314 2 -1 This 
+: 318 2 -1 is 
+: 322 1 -3 a 
+: 324 8 -1 mouth 
+: 334 3 -3 that 
+: 338 3 -1 needs 
+: 342 2 2 re
+: 346 3 -1 li
+: 350 8 -3 gion 
+- 374
+: 416 1 -1 And 
+: 418 2 2 they 
+: 422 5 2 all 
+: 428 7 2 wan
+: 436 2 -1 na 
+: 440 4 2 love 
+: 446 1 -1 the 
+: 448 6 2 cau
+: 456 6 4 ~se 
+- 466
+: 468 2 -1 ’Cause 
+: 472 1 2 they 
+: 474 4 2 all 
+: 480 6 2 need 
+: 490 2 -1 to 
+: 494 1 2 be 
+: 496 2 -1 the 
+: 500 5 2 cau
+: 506 6 4 ~se 
+- 521
+: 524 1 -1 They 
+: 526 6 -1 all 
+: 534 8 -1 wan
+: 544 1 -3 na 
+: 546 2 -1 fuck 
+: 550 1 2 the 
+: 552 14 -1 cause 
+- 582
+: 622 2 -5 So 
+: 626 2 2 take 
+: 630 4 2 me 
+: 636 10 -1 down, 
+: 650 4 2 down 
+: 656 5 2 through 
+: 662 8 -1 this 
+- 676
+: 678 3 2 Kill 
+: 682 4 2 the 
+: 688 5 4 com
+: 694 6 2 mon 
+: 702 5 -1 law 
+: 708 4 -1 that 
+: 714 4 -1 missed 
+- 727
+: 730 2 -1 This 
+: 734 2 -1 is 
+: 738 1 -3 the 
+: 740 8 -1 blood 
+: 750 3 -3 I 
+: 754 4 -1 love 
+: 760 4 -3 to 
+: 768 12 -1 share 
+- 812
+: 1042 2 2 Lit
+: 1046 4 2 tle 
+: 1052 4 -1 pis
+: 1060 1 -10 tols 
+: 1062 1 -8 and 
+: 1064 2 -8 com
+: 1068 2 2 pa
+: 1072 4 2 nion 
+: 1078 6 -1 halls 
+- 1093
+: 1096 2 2 De
+: 1100 3 2 spe
+: 1104 4 4 ra
+: 1112 2 2 tion 
+: 1118 4 -1 ten
+: 1124 4 -1 ta
+: 1130 6 -1 cles 
+- 1143
+: 1146 2 -1 I’ve 
+: 1150 2 -1 been 
+: 1154 3 -3 a
+: 1158 6 -1 lone 
+: 1166 3 -3 since 
+: 1170 3 -1 eigh
+: 1174 2 2 ty–
+: 1178 8 -1 nine 
+- 1218
+: 1252 1 0 We’ve 
+: 1254 2 2 got
+: 1258 2 2 ta 
+: 1262 2 2 men
+: 1266 6 2 struate 
+: 1274 4 2 in 
+: 1280 4 2 dis
+: 1286 5 4 gui
+: 1292 3 2 i
+: 1296 4 -1 ise 
+- 1300
+: 1302 3 -1 They 
+: 1306 4 -1 know 
+: 1312 8 -1 three 
+: 1322 2 -3 com
+: 1326 3 -1 pletes 
+: 1330 2 2 the 
+: 1336 6 -1 five 
+- 1352
+: 1356 1 -1 This 
+: 1358 2 -1 is 
+: 1362 1 -3 a 
+: 1364 6 -1 church 
+: 1372 4 -1 that 
+: 1378 4 -1 should 
+: 1384 5 -3 be
+: 1390 16 -1 lieve 
+- 1422
+: 1458 1 -1 And 
+: 1460 1 2 they 
+: 1462 5 2 all 
+: 1468 9 2 wan
+: 1478 2 -1 na 
+: 1482 3 2 free 
+: 1486 1 -1 the 
+: 1488 5 2 cau
+: 1494 6 4 ~se 
+- 1506
+: 1508 1 -1 ’Cause 
+: 1510 3 2 they 
+: 1514 7 2 all 
+: 1522 7 2 need 
+: 1530 2 -1 to 
+: 1534 1 2 dream 
+: 1536 2 -1 a 
+: 1540 7 2 cau
+: 1548 4 4 ~se 
+- 1559
+: 1562 2 -1 They 
+: 1566 3 -1 all 
+: 1570 10 -1 need 
+: 1582 2 -3 to 
+: 1586 1 -1 be 
+: 1588 3 2 a 
+: 1592 12 -1 cause 
+- 1620
+: 1666 3 2 You’ve 
+: 1670 4 2 got 
+: 1676 9 -1 all
+: 1686 3 -3 ~ 
+: 1690 9 -3 and 
+: 1700 8 -5 it’s 
+- 1717
+: 1720 1 2 Pret
+: 1722 4 2 ty 
+: 1730 5 -1 goo
+: 1736 4 -3 ~d, 
+: 1742 3 -3 but 
+: 1746 12 -5 I 
+- 1767
+: 1770 7 2 Seem 
+: 1778 1 2 to 
+: 1780 8 -1 be 
+: 1792 1 -3 in 
+: 1794 3 -3 di
+: 1798 5 -5 is
+: 1804 1 -5 be
+: 1806 14 -5 lief 
+- 1852
+: 2278 1 2 You 
+: 2280 6 2 come 
+: 2288 10 -1 in, 
+: 2300 4 2 check 
+: 2306 4 2 my 
+: 2314 6 -1 time 
+- 2327
+: 2330 1 2 You’ve 
+: 2332 4 2 got 
+: 2338 5 4 for
+: 2344 4 2 ni
+: 2352 5 -1 ca
+: 2358 5 -1 tion 
+: 2364 10 -1 crimes 
+- 2378
+: 2380 2 -1 I’ve 
+: 2384 1 -1 seen 
+: 2386 2 -3 your 
+: 2390 6 -1 death 
+: 2400 2 -3 on 
+: 2404 1 -1 te
+: 2406 2 2 le
+: 2410 5 -1 vi
+: 2416 8 -3 sion 
+- 2440
+: 2482 3 -1 Cue 
+: 2486 4 2 im
+: 2492 5 2 mor
+: 2498 4 2 tal 
+: 2504 4 2 child
+: 2512 4 2 like 
+: 2518 10 4 times 
+- 2532
+: 2534 4 -1 Se
+: 2540 3 -3 pa
+: 2544 4 -1 ra
+: 2550 5 -1 tion 
+: 2556 5 -1 is 
+: 2562 4 2 di
+: 2568 3 -1 vine
+: 2572 6 -3 ~ 
+- 2584
+: 2586 4 -1 Here’s 
+: 2592 1 -3 a 
+: 2594 8 -1 strike 
+: 2604 3 -3 be
+: 2608 4 -1 neath 
+: 2614 5 -3 your 
+: 2620 16 -1 knees 
+- 2652
+: 2684 2 -1 And 
+: 2688 1 2 they 
+: 2690 4 2 all 
+: 2696 8 2 wan
+: 2706 3 -1 na 
+: 2710 2 2 love 
+: 2714 1 -1 the 
+: 2716 5 2 cau
+: 2722 6 4 ~se 
+- 2734
+: 2736 3 -1 ’Cause 
+: 2740 1 2 they 
+: 2742 5 2 all 
+: 2748 8 2 need 
+: 2758 2 -1 to 
+: 2762 1 2 be 
+: 2764 2 -1 the 
+: 2768 5 2 cau
+: 2774 4 4 ~se 
+- 2787
+: 2790 1 -1 They 
+: 2792 6 -1 all 
+: 2800 9 -1 wan
+: 2810 1 -3 na 
+: 2812 2 -1 fuck 
+: 2816 2 2 the 
+: 2820 14 -1 cause 
+- 2850
+: 2892 1 0 Take 
+: 2894 6 2 me 
+: 2902 10 -1 down, 
+: 2914 4 2 down 
+: 2922 5 2 through 
+: 2928 6 -1 this 
+- 2941
+: 2944 5 2 Kill 
+: 2950 3 2 the 
+: 2954 4 4 white 
+: 2960 4 2 with
+: 2966 3 -1 in 
+: 2970 6 -1 the 
+: 2978 6 -1 bliss 
+- 2993
+: 2996 5 -1 Here’s 
+: 3002 1 -3 a 
+: 3004 5 -1 waiting 
+: 3010 8 -3 room 
+: 3028 1 -5 that 
+: 3030 4 -1 wants 
+: 3036 2 -3 to 
+: 3042 4 -3 save 
+: 3050 4 -5 your 
+: 3056 5 -5 li
+: 3062 4 -6 ~fe 
+- 3098
+: 3698 2 2 They 
+: 3702 5 2 all 
+: 3708 8 2 wan
+: 3718 2 -1 na 
+: 3722 2 2 love 
+: 3726 2 -1 the 
+: 3730 5 2 cau
+: 3736 8 4 ~se 
+- 3776
+: 3808 5 2 They 
+: 3814 4 2 all 
+: 3822 1 2 nee
+: 3824 4 -1 ~d 
+: 3830 2 -1 to 
+: 3836 1 2 be 
+: 3838 2 -1 the 
+: 3842 7 2 cau
+: 3850 6 4 ~se 
+- 3888
+: 3924 1 2 They 
+: 3926 6 2 all 
+: 3934 3 2 wa
+: 3938 5 -1 ~n
+: 3944 2 -1 na 
+: 3948 3 2 dream 
+: 3952 2 -1 a 
+: 3956 5 2 cau
+: 3962 10 4 ~se 
+- 4004
+: 4038 3 -1 They 
+: 4042 4 -1 all 
+: 4048 9 -1 need 
+: 4058 2 -5 to 
+: 4062 4 -3 fuck 
+: 4068 1 -5 the 
+: 4070 14 -5 cause 
+E

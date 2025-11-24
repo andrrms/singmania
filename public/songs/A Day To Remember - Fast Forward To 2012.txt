@@ -1,0 +1,172 @@
+#ARTIST:A Day To Remember
+#TITLE:Fast Forward To 2012
+#MP3:A Day To Remember - Fast Forward To 2012.mp3
+#CREATOR:Kintaro84
+#YEAR:2007
+#LANGUAGE:English
+#BPM:370.65
+#GAP:540
+#VIDEO:a=pjaOaK-hask,v=N5Dg6W8HsuM,co=for-those-who-have-heart-5313f75544ca3.jpg,bg=a-day-to-remember-4f235569da7d7.jpg
+#VIDEOGAP:10.54
+: 0 2 3 We 
+: 4 5 7 wel
+: 10 4 5 come 
+: 16 6 5 you 
+: 24 6 3 to 
+: 32 1 3 the 
+: 35 4 7 se
+: 40 5 5 cond 
+: 47 10 5 chap
+: 58 2 3 ter 
+- 61
+: 61 2 3 Thanks 
+: 65 1 3 for 
+: 68 3 7 tur
+: 72 4 5 ning 
+: 78 5 5 the 
+: 85 2 5 o
+: 89 6 3 ther 
+: 97 22 7 page 
+- 121
+: 127 1 0 We 
+: 130 2 0 ack
+: 133 3 7 no
+: 137 7 5 wledge 
+: 146 6 5 you 
+: 154 6 3 as 
+: 162 2 3 the 
+: 166 6 7 on
+: 173 2 5 ly 
+: 177 7 5 rea
+: 185 3 3 son 
+- 189
+: 190 1 3 For 
+: 193 2 3 the 
+: 197 8 2 pro
+: 206 5 2 gress 
+: 213 2 2 that 
+: 217 6 5 we’ve 
+: 225 17 3 made 
+- 244
+: 246 14 -2 You’re 
+: 262 3 7 a 
+: 267 6 5 cons
+: 274 4 5 tant 
+: 280 8 7 re
+: 289 7 5 min
+: 297 13 3 der 
+- 312
+: 319 4 0 We 
+: 325 3 7 came, 
+: 330 5 5 we 
+: 337 6 5 saw, 
+: 345 6 7 we 
+: 353 8 5 con
+: 362 14 3 quered 
+- 378
+: 390 7 7 Eve
+: 398 6 7 ry
+: 405 7 2 thing 
+: 414 6 2 has 
+: 422 11 3 come 
+: 437 14 5 so 
+: 453 6 3 far 
+- 461
+: 463 5 -2 From 
+: 470 6 -2 where 
+: 478 5 3 we 
+: 485 7 5 were 
+: 494 3 3 be
+: 498 10 3 fore 
+- 510
+: 511 5 0 Well 
+: 518 3 7 keep 
+: 523 5 5 this 
+: 530 6 5 short 
+: 538 5 3 and 
+: 548 14 7 sweet 
+: 565 14 7 so 
+* 581 8 0 I’ll
+* 590 19 -2 ~ 
+- 611
+F 615 5 0 Get 
+F 622 5 0 to 
+F 629 5 0 the 
+F 636 15 0 point 
+- 653
+F 666 7 0 My 
+F 675 9 0 friends 
+F 686 8 0 come 
+F 696 8 0 first 
+F 706 4 0 that’s 
+F 712 3 0 the 
+F 717 4 0 bot
+F 722 8 0 tom 
+F 732 11 0 line 
+- 745
+F 748 7 0 My 
+F 757 9 0 friends 
+F 768 8 0 come 
+F 778 8 0 first 
+F 788 4 0 that’s 
+F 794 3 0 the 
+F 799 4 0 bot
+F 804 8 0 tom 
+F 814 11 0 line 
+- 827
+F 829 7 0 My 
+F 838 9 0 friends 
+F 849 8 0 come 
+F 859 8 0 first 
+F 869 4 0 that’s 
+F 875 3 0 the 
+F 880 4 0 bot
+F 885 8 0 tom 
+F 895 11 0 line 
+- 908
+F 910 9 0 My 
+F 921 9 0 friends 
+F 932 7 0 come 
+F 941 8 0 first 
+- 950
+F 950 5 0 That’s 
+F 957 3 0 the 
+F 962 4 0 bot
+F 967 6 0 tom 
+F 977 19 0 line 
+- 998
+F 1115 5 0 That’s 
+F 1122 3 0 the 
+F 1127 4 0 bot
+F 1132 6 0 tom 
+F 1142 6 0 line 
+- 1149
+: 1149 4 7 Here’s 
+: 1155 3 7 to 
+: 1160 3 7 the 
+: 1166 4 7 fu
+: 1171 3 7 ture, 
+: 1176 4 7 ne
+: 1181 2 7 ver 
+: 1187 4 8 get
+: 1192 5 7 ting 
+: 1202 9 8 ol
+: 1212 13 7 der 
+- 1227
+: 1238 2 7 When 
+: 1242 3 7 the 
+: 1247 4 7 ta
+: 1252 4 7 bles 
+: 1258 6 8 do 
+: 1268 10 7 turn, 
+- 1280
+F 1288 4 0 Where 
+F 1294 8 0 will 
+F 1304 5 0 you 
+F 1311 27 0 be? 
+- 1340
+F 1606 8 0 Pick 
+F 1616 8 0 up 
+F 1626 7 0 your 
+F 1635 24 0 feet. 
+E

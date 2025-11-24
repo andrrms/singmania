@@ -1,0 +1,330 @@
+#ARTIST:Edison Lighthouse
+#TITLE:Love Grows (Where My Rosemary Goes)
+#MP3:Edison Lighthouse - Love Grows (Where My Rosemary Goes).mp3
+#CREATOR:loch dezz
+#YEAR:1970
+#LANGUAGE:English
+#BPM:218
+#GAP:13720
+#VIDEO:v=TfY8hR5frEQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/22/8a/66228a8a-84ca-0c57-367b-ed8ff6f2d7d1/693532227436_Cover.jpg/5000x5000bb.jpg,bg=edison-lighthouse-5a0ee7ca2432c.jpg
+: 0 3 -3 She 
+: 4 3 -3 ain’t 
+: 8 3 -3 got 
+: 12 3 -3 no 
+: 16 3 -3 mo
+: 20 3 -3 ney 
+- 24
+: 24 3 -3 Her 
+: 28 7 -3 clothes 
+: 36 3 -3 are 
+: 40 3 -3 kin
+: 44 3 -3 da 
+: 48 3 -3 fun
+: 52 3 -3 ny 
+- 56
+: 56 3 -3 Her 
+: 60 7 6 hair 
+: 68 3 4 is 
+: 72 3 2 kin
+: 76 3 2 da 
+: 80 7 2 wild 
+: 88 3 2 and 
+: 92 8 2 free 
+- 102
+: 112 7 2 Oh, 
+: 120 7 2 but 
+: 128 11 2 Love 
+: 140 11 -3 grows 
+: 152 3 -3 where 
+: 156 3 1 my 
+: 160 3 1 Rose
+: 164 3 -6 ma
+: 168 3 -6 ry 
+: 172 8 -6 goes 
+- 182
+: 184 7 -6 And 
+: 192 3 -3 no
+: 196 3 2 bo
+: 200 3 2 dy 
+: 204 11 2 knows 
+: 216 7 2 like 
+: 224 8 2 me 
+- 234
+: 252 7 4 She 
+: 260 3 4 talks 
+: 264 3 -3 kin
+: 268 3 -3 da 
+: 272 3 -3 laz
+: 276 3 -3 y 
+- 280
+: 280 3 -3 And 
+: 284 7 -3 peo
+: 292 3 -3 ple 
+: 296 3 -3 say 
+: 300 3 -3 she’s 
+: 304 3 -3 cra
+: 308 7 -3 zy 
+- 316
+: 316 7 -3 And 
+: 324 3 4 her 
+: 328 3 2 life’s 
+: 332 3 2 a 
+: 336 7 2 mys
+: 344 3 2 te
+: 348 8 2 ry 
+- 358
+: 368 7 2 Oh, 
+: 376 7 2 but 
+: 384 11 2 Love 
+: 396 11 -3 grows 
+: 408 3 -3 where 
+: 412 3 1 my 
+: 416 3 1 Rose
+: 420 3 -6 ma
+: 424 3 -6 ry 
+: 428 8 -6 goes 
+- 438
+: 440 7 -6 And 
+: 448 3 -3 no
+: 452 3 2 bo
+: 456 3 2 dy 
+: 460 35 2 knows 
+: 496 15 1 like 
+: 512 8 4 me 
+- 522
+: 540 3 -3 There’s 
+: 544 3 -3 some
+: 548 3 2 thing 
+: 552 3 2 about 
+: 556 3 2 her 
+: 560 3 2 hand 
+: 564 3 4 hold
+: 568 3 4 ing 
+: 572 8 4 mine 
+- 582
+: 584 3 -4 It’s 
+: 588 3 -3 a 
+: 592 3 4 feel
+: 596 3 6 ing 
+: 600 3 6 that’s 
+: 604 8 6 fine 
+- 614
+: 616 3 1 And 
+: 620 3 -1 I 
+: 624 3 -1 just 
+: 628 3 4 got
+: 632 3 4 ta 
+: 636 15 4 say, 
+: 652 8 -1 hey! 
+- 662
+: 668 3 -3 She’s 
+: 672 3 -3 real
+: 676 3 2 ly 
+: 680 3 2 got 
+: 684 3 2 a 
+: 688 3 2 mag
+: 692 3 4 i
+: 696 3 4 cal 
+: 700 8 4 spell 
+- 710
+: 712 3 -4 And 
+: 716 3 -3 it’s 
+: 720 3 -3 work
+: 724 3 6 ing 
+: 728 3 6 so 
+: 732 8 6 well 
+- 742
+: 744 3 1 That 
+: 748 3 -1 I 
+: 752 3 -1 can’t 
+: 756 3 -1 get 
+: 760 3 -1 a
+: 764 8 -1 way 
+- 774
+: 796 7 -1 I’m 
+: 804 3 4 a 
+: 808 3 -3 luck
+: 812 3 -3 y 
+: 816 3 -3 fel
+: 820 3 -3 la 
+- 824
+: 824 3 -3 And 
+: 828 7 -3 I’ve 
+: 836 3 -3 just 
+: 840 3 -3 got 
+: 844 3 -3 to 
+: 848 3 -3 tell 
+: 852 3 -3 her 
+- 856
+: 856 3 -3 That 
+: 860 7 6 I 
+: 868 3 4 love 
+: 872 7 2 her 
+: 880 7 2 end
+: 888 3 2 less
+: 892 8 2 ly 
+- 902
+: 912 7 2 Be
+: 920 7 2 cause 
+: 928 11 2 Love 
+: 940 11 -3 grows 
+: 952 3 -3 where 
+: 956 3 1 my 
+: 960 3 1 Rose
+: 964 3 -6 ma
+: 968 3 -6 ry 
+: 972 8 -6 goes 
+- 982
+: 984 7 -6 And 
+: 992 3 -3 no
+: 996 3 2 bo
+: 1000 3 2 dy 
+: 1004 35 1 knows 
+: 1040 15 1 like 
+: 1056 8 4 me 
+- 1066
+: 1212 3 -3 There’s 
+: 1216 3 -3 some
+: 1220 3 2 thing 
+: 1224 3 2 about 
+: 1228 3 2 her 
+: 1232 3 2 hand 
+: 1236 3 4 hold
+: 1240 3 4 ing 
+: 1244 8 4 mine 
+- 1254
+: 1256 3 -4 It’s 
+: 1260 3 -3 a 
+: 1264 3 4 feel
+: 1268 3 6 ing 
+: 1272 3 6 that’s 
+: 1276 8 6 fine 
+- 1286
+: 1288 3 1 And 
+: 1292 3 -1 I 
+: 1296 3 -1 just 
+: 1300 3 4 got
+: 1304 3 4 ta 
+: 1308 15 4 say, 
+: 1324 8 -1 hey! 
+- 1334
+: 1340 3 -3 She’s 
+: 1344 3 -3 real
+: 1348 3 2 ly 
+: 1352 3 2 got 
+: 1356 3 2 a 
+: 1360 3 2 mag
+: 1364 3 4 i
+: 1368 3 4 cal 
+: 1372 8 4 spell 
+- 1382
+: 1384 3 -4 And 
+: 1388 3 -3 it’s 
+: 1392 3 -3 work
+: 1396 3 6 ing 
+: 1400 3 6 so 
+: 1404 8 6 well 
+- 1414
+: 1416 3 1 That 
+: 1420 3 3 I 
+: 1424 3 3 can’t 
+: 1428 3 6 get 
+: 1432 3 6 a
+: 1436 8 8 way 
+- 1446
+: 1500 7 6 I’m 
+: 1508 3 5 a 
+: 1512 3 -2 luck
+: 1516 3 -2 y 
+: 1520 3 -2 fel
+: 1524 3 -2 la 
+- 1528
+: 1528 3 -2 And 
+: 1532 7 -2 I’ve 
+: 1540 3 -2 just 
+: 1544 3 -2 got 
+: 1548 3 -2 to 
+: 1552 3 -2 tell 
+: 1556 3 -2 her 
+- 1560
+: 1560 3 -2 That 
+: 1564 7 7 I 
+: 1572 3 5 love 
+: 1576 7 3 her 
+: 1584 7 3 end
+: 1592 3 3 less
+: 1596 8 3 ly 
+- 1606
+: 1616 7 3 Be
+: 1624 7 3 cause 
+: 1632 11 3 Love 
+: 1644 11 -2 grows 
+: 1656 3 -2 where 
+: 1660 3 2 my 
+: 1664 3 2 Rose
+: 1668 3 -5 ma
+: 1672 3 -5 ry 
+: 1676 8 -5 goes 
+- 1686
+: 1688 7 -5 And 
+: 1696 3 -2 no
+: 1700 3 3 bo
+: 1704 3 3 dy 
+: 1708 35 3 knows 
+: 1744 15 2 like 
+: 1760 8 5 me 
+- 1770
+: 1888 7 -2 It 
+: 1896 7 -2 keeps 
+: 1904 3 -2 grow
+: 1908 3 -3 ing 
+: 1912 3 -3 ev
+: 1916 3 -3 ery 
+: 1920 9 -3 place 
+: 1930 5 -5 she’s 
+: 1936 8 -5 been 
+- 1946
+: 1952 3 -2 And 
+: 1956 3 3 no
+: 1960 3 3 bo
+: 1964 11 3 dy 
+: 1976 3 3 knows 
+: 1980 7 5 like 
+: 1988 8 5 me 
+- 1998
+: 2024 3 -2 If 
+: 2028 3 -2 you’ve 
+: 2032 3 -2 met 
+: 2036 7 -3 her, 
+: 2044 3 -3 you’ll 
+: 2048 3 -3 nev
+: 2052 3 -5 er 
+: 2056 3 -5 for
+: 2060 3 -5 get 
+: 2064 8 -5 her 
+- 2074
+: 2080 3 -2 And 
+: 2084 3 3 no
+: 2088 3 3 bo
+: 2092 11 3 dy 
+: 2104 3 3 knows 
+: 2108 7 5 like 
+: 2116 8 5 me 
+- 2126
+: 2152 3 -2 La 
+: 2156 7 -2 la 
+: 2164 3 -2 be
+: 2168 3 -3 lieve 
+: 2172 3 -3 it 
+: 2176 3 -3 when 
+: 2180 5 -5 you’ve 
+: 2186 1 -5 seen 
+: 2188 8 -5 it 
+- 2198
+: 2208 3 -5 No
+: 2212 3 3 bo
+: 2216 3 3 dy 
+: 2220 11 3 knows 
+: 2232 11 3 like 
+: 2244 4 5 me 
+E

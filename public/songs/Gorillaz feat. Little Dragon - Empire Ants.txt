@@ -1,0 +1,211 @@
+#ARTIST:Gorillaz feat. Little Dragon
+#TITLE:Empire Ants
+#MP3:Gorillaz feat. Little Dragon - Empire Ants.mp3
+#CREATOR:mugib
+#YEAR:2010
+#LANGUAGE:English
+#BPM:200
+#GAP:38250
+#VIDEO:v=C-yP9f0gadU,co=https://images.rapgenius.com/6609b71c1107e4610de0bc65f7dd76ae.500x500x1.jpg,bg=gorillaz-61570b8315ad6.jpg
+: 0 5 12 Oh, 
+: 6 6 12 joys 
+: 15 5 17 are 
+: 22 5 20 us, 
+: 29 5 20 the 
+: 35 6 20 sun 
+: 44 4 19 has 
+: 49 7 17 come 
+- 58
+: 60 14 17 Again 
+- 76
+: 86 5 17 To 
+: 97 11 17 hold 
+- 110
+: 118 9 17 You 
+: 133 10 20 Sailing 
+: 145 8 17 out 
+: 156 5 20 the 
+: 162 16 17 doldrums 
+: 182 4 17 of 
+: 189 5 17 the 
+- 196
+: 197 11 17 Week 
+- 210
+: 254 8 17 The 
+: 263 29 12 polyphonic 
+: 294 7 15 prayer 
+: 302 4 20 is 
+: 307 6 20 here, 
+* 317 5 17 it’s 
+- 323
+: 323 9 11 All 
+- 334
+: 349 25 17 Around 
+: 376 11 17 you 
+- 389
+: 401 4 12 It’s 
+: 406 7 12 all 
+: 416 9 17 around 
+: 427 5 20 you 
+- 434
+* 450 4 17 Out 
+: 456 8 19 here 
+- 466
+: 521 5 20 And 
+: 529 5 12 if 
+* 537 5 17 the 
+* 545 5 20 whole 
+: 553 5 15 world 
+: 561 4 17 is 
+: 568 3 17 crashing 
+- 573
+: 582 5 17 Down 
+- 589
+: 600 3 14 On 
+* 608 6 14 you 
+- 616
+: 658 3 12 Fall 
+: 663 5 17 through 
+: 672 4 20 space, 
+: 681 3 17 out 
+: 689 3 12 of 
+: 698 3 17 mind 
+- 703
+: 706 4 17 With 
+: 712 7 14 me 
+- 721
+: 770 2 17 Where 
+: 774 2 17 the 
+: 778 23 15 emptiness 
+: 802 3 17 we 
+: 807 8 20 leave 
+: 817 13 17 behind 
+- 832
+: 833 5 13 On 
+: 842 6 11 warm 
+- 850
+: 858 13 14 Air 
+* 874 24 17 rising 
+- 900
+: 914 7 12 Blows 
+: 923 5 17 all 
+: 930 4 17 the 
+: 935 6 17 shadows 
+- 943
+: 951 9 20 Far 
+: 963 13 14 away 
+- 978
+: 1031 7 19 The 
+: 1039 8 12 falling 
+: 1051 6 12 of 
+: 1060 3 17 the 
+* 1064 6 17 whole 
+: 1072 14 17 empire, 
+- 1088
+: 1091 3 12 It’s 
+: 1096 12 17 here 
+: 1116 12 14 to 
+: 1132 12 17 hold 
+: 1148 9 10 you 
+: 1164 7 12 Rolling 
+: 1174 8 12 out 
+- 1184
+: 1186 5 12 And 
+: 1192 7 12 haunted 
+: 1201 5 12 till 
+: 1209 5 17 it 
+: 1219 21 17 sinks 
+- 1242
+: 1687 14 12 Little 
+: 1703 6 12 memories, 
+- 1711
+: 1727 6 12 Marching 
+: 1735 7 12 on 
+- 1744
+: 1757 2 12 Your 
+: 1760 6 14 little 
+: 1767 8 17 feet 
+- 1777
+: 1791 3 17 Working 
+: 1795 3 12 the 
+: 1799 9 12 machine 
+- 1810
+: 1823 6 12 Will 
+: 1831 5 18 it 
+: 1837 8 12 spin 
+: 1848 3 12 Will 
+: 1852 3 19 it 
+: 1856 8 12 soar 
+- 1866
+: 1884 3 12 My 
+: 1888 6 14 little 
+: 1895 10 12 dream 
+- 1907
+: 1920 3 12 Working 
+: 1924 3 17 the 
+* 1928 9 12 machine 
+- 1939
+: 1952 18 12 Soon, 
+* 1976 4 12 like 
+: 1983 1 12 a 
+: 1985 12 15 wave 
+- 1999
+: 2013 4 19 That 
+: 2018 3 11 pass 
+: 2022 6 12 will 
+: 2029 23 12 fall 
+- 2054
+: 2083 4 12 Closing 
+: 2088 9 10 in 
+: 2104 5 12 on 
+* 2110 13 12 you 
+- 2125
+: 2144 25 12 They’re 
+- 2171
+: 2192 2 12 Going 
+- 2196
+: 2236 1 12 On 
+- 2239
+: 2460 14 12 Little 
+: 2475 15 12 memories 
+- 2492
+: 2527 3 12 Your 
+: 2531 6 14 little 
+: 2539 8 17 feet 
+- 2549
+: 2563 3 19 Working 
+: 2567 3 12 the 
+: 2571 9 12 machine 
+- 2582
+: 2596 4 12 Will 
+: 2603 2 17 it 
+: 2606 9 12 spin 
+: 2619 4 12 Will 
+: 2627 1 12 it 
+: 2629 12 12 soar 
+- 2643
+: 2656 3 19 My 
+: 2660 6 19 little 
+: 2667 9 19 dream 
+- 2678
+: 2692 3 19 Working 
+: 2696 3 17 the 
+: 2700 10 12 machine 
+- 2712
+: 2724 21 12 Soon, 
+: 2749 5 12 like 
+: 2755 1 12 a 
+: 2757 13 15 wave 
+- 2772
+: 2788 1 19 That 
+: 2790 2 19 pass 
+: 2793 7 17 will 
+: 2801 13 12 fall 
+- 2816
+: 2853 6 12 Closing 
+: 2861 12 12 in 
+* 2877 4 12 on 
+: 2885 11 12 you 
+- 2898
+* 2920 30 12 They’re 
+E

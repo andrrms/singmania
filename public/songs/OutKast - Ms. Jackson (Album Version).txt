@@ -1,0 +1,1062 @@
+#ARTIST:OutKast
+#TITLE:Ms. Jackson (Album Version)
+#MP3:OutKast - Ms. Jackson (Album Version).mp3
+#CREATOR:RetroGirl
+#GENRE:Hip-Hop
+#YEAR:2000
+#LANGUAGE:English
+#BPM:380.04
+#GAP:7600
+#VIDEO:a=CSD2J8yaMmM,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/98/e4/e698e4f6-eb56-6b4b-524c-0184146b8416/886448430513.jpg/5000x5000bb.jpg,bg=outkast-4fe258f4ccc40.jpg
+F 0 4 0 Yeah 
+F 6 2 0 this 
+F 10 1 0 one 
+F 13 3 0 right 
+F 17 3 0 here 
+F 22 4 0 goes 
+F 30 3 0 out 
+- 34
+F 36 3 0 To 
+F 40 5 0 all 
+F 46 3 0 the 
+F 50 4 0 ba
+F 55 2 0 by’s 
+F 61 3 0 ma
+F 66 4 0 mas 
+- 74
+F 76 3 0 Ma
+F 82 4 0 mas 
+- 111
+F 149 3 0 Ma
+F 154 3 0 mas 
+F 161 2 0 ma
+F 166 4 0 mas 
+- 195
+F 222 3 0 Ba
+F 227 3 0 by 
+F 232 3 0 ma
+F 237 2 0 mas 
+F 243 2 0 ma
+F 247 3 0 mas 
+- 275
+F 338 4 0 Yeah, 
+F 350 2 0 go 
+F 353 3 0 like 
+F 359 2 0 this 
+- 371
+: 406 1 -3 I’m 
+: 410 3 4 sor
+: 414 3 2 ry 
+: 418 2 2 Ms. 
+: 423 3 0 Ja
+: 427 1 2 ~ck
+: 431 6 4 son, 
+* 442 12 9 oh 
+- 457
+: 459 4 4 I 
+: 466 6 4 am 
+: 474 6 4 for 
+: 483 2 5 rea
+: 486 7 7 ~
+: 494 2 5 ~
+: 497 16 4 ~l 
+- 519
+: 521 5 -3 Ne
+: 529 4 4 ver 
+: 538 4 2 meant 
+: 546 4 4 to 
+: 554 3 2 make 
+: 562 3 4 your 
+: 567 4 2 daugh
+: 574 2 4 ter 
+: 579 6 -3 cry 
+- 586
+: 588 4 -3 I 
+: 595 4 4 a
+: 603 5 2 po
+: 611 4 4 lo
+: 618 6 2 gize 
+: 627 2 4 a 
+: 631 3 2 tril
+: 638 2 4 lion 
+: 643 6 -3 times 
+- 658
+: 662 1 -3 I’m 
+: 666 3 4 sor
+: 670 3 2 ry 
+: 674 2 0 Ms. 
+: 679 5 2 Jack
+: 687 6 4 son, 
+: 698 12 9 oh 
+- 713
+: 715 4 4 I 
+: 722 6 4 am 
+: 730 6 4 for 
+* 739 10 7 rea
+* 750 2 5 ~
+* 753 16 4 ~l 
+- 775
+: 778 4 -3 Ne
+: 786 4 4 ver 
+: 794 4 2 meant 
+: 802 4 4 to 
+: 810 3 2 make 
+: 818 3 4 your 
+: 823 4 2 daugh
+: 830 2 4 ter 
+: 835 6 -3 cry 
+- 842
+: 844 4 -3 I 
+: 851 4 4 a
+: 860 4 2 po
+: 867 4 4 lo
+: 874 6 2 gize 
+: 883 2 4 a 
+: 887 3 2 tril
+: 894 2 4 lion 
+: 899 3 -3 times 
+- 903
+F 905 1 0 A 
+F 909 3 0 ba
+F 913 3 0 by 
+F 919 4 0 dra
+F 925 2 0 ma 
+F 930 3 0 ma
+F 935 2 0 ma, 
+F 941 2 0 don’t 
+F 944 5 0 like 
+F 950 2 0 me 
+- 953
+F 955 1 0 She 
+F 957 4 0 doing 
+F 964 2 0 things 
+F 967 3 0 like 
+F 971 3 0 ha
+F 975 1 0 ving 
+F 977 1 0 her 
+F 979 3 0 boys 
+- 983
+F 985 1 0 Come 
+F 989 1 0 from 
+F 991 2 0 her 
+F 995 2 0 neigh
+F 998 1 0 bor
+F 1000 2 0 hood 
+- 1003
+F 1005 1 0 To 
+F 1007 1 0 the 
+F 1009 2 0 stu
+F 1012 3 0 dio 
+F 1016 3 0 tryin’ 
+F 1020 1 0 to 
+F 1024 3 0 fight 
+F 1029 3 0 me 
+- 1033
+F 1035 1 0 She 
+F 1037 1 0 need 
+F 1040 1 0 to 
+F 1042 2 0 get 
+F 1045 4 0 a 
+- 1050
+F 1052 2 0 Piece 
+F 1055 1 0 of 
+F 1057 1 0 the 
+F 1060 2 0 ame
+F 1063 1 0 ri
+F 1066 1 0 can 
+F 1069 3 0 pie 
+F 1073 1 0 and 
+- 1074
+F 1075 2 0 Take 
+F 1079 3 0 her 
+F 1083 4 0 bite 
+F 1088 4 0 out 
+- 1093
+F 1095 2 0 That’s 
+F 1099 3 0 my 
+F 1103 5 0 house 
+- 1112
+F 1114 2 0 I 
+F 1118 1 0 dis
+F 1122 1 0 con
+F 1124 2 0 nect 
+F 1128 1 0 the 
+F 1131 3 0 ca
+F 1136 2 0 ble 
+F 1139 1 0 and 
+F 1142 2 0 turn 
+F 1146 1 0 the 
+F 1148 3 0 lights 
+F 1155 3 0 out 
+- 1161
+F 1163 1 0 And 
+F 1165 2 0 let 
+F 1168 2 0 her 
+F 1172 1 0 know 
+F 1175 2 0 her 
+F 1179 3 0 grand
+F 1184 4 0 child 
+F 1189 3 0 is 
+F 1193 1 0 a 
+F 1195 3 0 ba
+F 1200 1 0 by 
+- 1202
+F 1204 1 0 And 
+F 1206 2 0 not 
+F 1209 1 0 a 
+F 1212 3 0 pay
+F 1218 3 0 check 
+- 1226
+F 1228 3 0 Pri
+F 1232 1 0 vate 
+F 1237 5 0 schools, 
+F 1245 2 0 day
+F 1249 4 0 care, 
+F 1256 2 0 shit 
+- 1259
+F 1261 1 0 Me
+F 1263 1 0 di
+F 1265 2 0 cal 
+F 1268 2 0 bills, 
+F 1272 2 0 I’ll 
+F 1277 3 0 pay 
+F 1281 3 0 that 
+- 1288
+F 1290 1 0 I 
+F 1293 2 0 love 
+F 1297 2 0 your 
+F 1300 3 0 mom 
+F 1304 1 0 and 
+F 1306 4 0 every
+F 1312 3 0 thing 
+- 1316
+F 1318 2 0 See 
+F 1321 5 0 I 
+F 1327 2 0 ain’t 
+F 1330 1 0 the 
+F 1332 1 0 one 
+F 1335 2 0 who 
+F 1338 4 0 laid 
+F 1343 6 0 down 
+- 1354
+F 1356 1 0 She 
+F 1359 1 0 wan
+F 1361 1 0 na 
+F 1363 2 0 rip 
+F 1367 1 0 you 
+F 1369 1 0 up 
+- 1371
+F 1373 3 0 Start 
+F 1377 1 0 a 
+F 1379 2 0 cus
+F 1383 1 0 to
+F 1385 1 0 dy 
+F 1388 3 0 war, 
+F 1392 2 0 my 
+F 1396 3 0 law
+F 1400 2 0 yer 
+F 1404 4 0 stay 
+F 1409 4 0 down 
+- 1419
+F 1421 1 0 She 
+F 1423 1 0 never 
+F 1427 2 0 got 
+F 1431 1 0 a 
+F 1433 3 0 chance 
+F 1438 1 0 to 
+F 1440 2 0 hear 
+F 1443 2 0 my 
+F 1447 2 0 side 
+F 1450 1 0 of 
+F 1452 1 0 the 
+- 1453
+F 1454 2 0 Sto
+F 1457 1 0 ry 
+F 1459 1 0 we 
+F 1461 1 0 was 
+F 1463 1 0 di
+F 1466 5 0 vi
+F 1472 1 0 ded 
+- 1478
+F 1480 2 0 She 
+F 1483 2 0 had 
+F 1488 2 0 fish 
+F 1493 2 0 fries 
+F 1496 1 0 and 
+- 1501
+F 1503 1 0 Cook
+F 1506 3 0 outs 
+F 1510 2 0 on 
+F 1513 1 0 my 
+F 1515 4 0 child’s 
+F 1521 2 0 birth
+F 1525 2 0 day 
+F 1528 2 0 I 
+F 1531 1 0 ain’t 
+F 1533 1 0 in
+F 1536 4 0 vi
+F 1541 1 0 ted 
+- 1543
+F 1545 2 0 Des
+F 1550 3 0 pite 
+F 1554 2 0 it 
+- 1560
+F 1562 1 0 I 
+F 1566 2 0 show 
+F 1569 2 0 her 
+F 1572 1 0 the 
+F 1574 2 0 ut
+F 1578 2 0 most 
+- 1581
+F 1583 1 0 Res
+F 1586 2 0 pect 
+F 1590 1 0 when 
+F 1592 2 0 I 
+F 1596 5 0 fall 
+F 1604 3 0 through 
+- 1611
+F 1613 4 0 All 
+F 1620 3 0 you 
+F 1629 3 0 do 
+F 1633 1 0 is 
+F 1635 1 0 de
+F 1638 2 0 fend 
+F 1641 3 0 that 
+F 1646 4 0 la
+F 1651 1 0 dy 
+F 1655 2 0 when 
+F 1658 1 0 I 
+F 1661 6 0 call 
+F 1668 5 0 you 
+- 1677
+F 1679 4 0 Yeah 
+- 1684
+: 1686 1 -3 I’m 
+: 1690 3 4 sor
+: 1694 3 2 ry 
+: 1698 2 0 Ms. 
+: 1703 5 2 Jack
+: 1711 6 4 son, 
+: 1722 12 9 oh 
+- 1737
+: 1739 4 4 I 
+: 1746 6 4 am 
+: 1754 6 4 for 
+: 1763 10 7 rea
+: 1774 3 5 ~
+: 1778 15 4 ~l 
+- 1799
+: 1801 5 -3 Ne
+: 1810 4 4 ver 
+: 1818 4 2 meant 
+: 1826 4 4 to 
+: 1834 3 2 make 
+: 1842 3 4 your 
+: 1847 4 2 daugh
+: 1854 2 4 ter 
+: 1859 6 -3 cry 
+- 1866
+: 1868 4 -3 I 
+: 1875 4 4 a
+: 1883 5 2 po
+: 1890 4 4 lo
+: 1898 6 2 gize 
+: 1907 2 4 a 
+: 1911 3 2 tril
+: 1918 2 4 lion 
+: 1923 6 -3 times 
+- 1938
+: 1942 1 -3 I’m 
+: 1946 3 4 sor
+: 1950 3 2 ry 
+: 1954 2 0 Ms. 
+* 1959 5 2 Jack
+* 1967 6 4 son, 
+* 1978 12 9 oh 
+- 1993
+: 1995 4 4 I 
+: 2002 3 4 am 
+: 2010 6 4 for 
+: 2019 11 7 rea
+: 2031 3 5 ~
+: 2035 12 4 ~l 
+- 2054
+: 2057 5 -3 Ne
+: 2066 4 4 ver 
+: 2074 4 2 meant 
+: 2082 4 4 to 
+: 2090 3 2 make 
+: 2098 3 4 your 
+: 2103 3 2 daugh
+: 2110 2 4 ter 
+: 2115 6 -3 cry 
+- 2122
+: 2124 4 -3 I 
+: 2131 4 4 a
+: 2139 5 2 po
+: 2147 4 4 lo
+: 2154 6 2 gize 
+: 2163 2 4 a 
+: 2167 3 2 tril
+: 2174 2 4 lion 
+: 2179 6 -3 times 
+- 2186
+: 2188 4 -5 Me 
+: 2195 4 -5 and 
+: 2203 4 -5 your 
+: 2211 3 -5 dau
+: 2215 8 -3 ~gh
+: 2224 9 -3 ter 
+- 2243
+: 2250 3 -5 Got 
+: 2254 1 -5 a 
+: 2259 2 -5 spe
+: 2263 2 -5 cial 
+: 2267 3 -5 thang 
+* 2275 3 -5 go
+* 2279 3 -3 ~
+* 2283 3 -1 in’ 
+* 2288 3 -3 o
+* 2292 5 -5 ~n 
+- 2307
+: 2316 2 -5 You 
+: 2323 6 -5 say 
+: 2331 3 -5 it’s 
+: 2338 2 -5 pu
+: 2341 3 -3 ~p
+: 2347 3 -3 py 
+: 2352 13 -3 love 
+- 2375
+: 2379 3 -5 We 
+: 2386 7 -5 say 
+: 2394 3 -5 it’s 
+: 2403 2 -5 fu
+: 2406 3 -3 ~
+: 2410 2 -1 ~ll 
+: 2416 4 -3 gro
+: 2421 7 -5 ~wn 
+- 2440
+: 2444 2 -5 Hope 
+: 2451 6 -5 that 
+: 2459 2 -5 we 
+: 2467 2 -5 fee
+: 2470 10 -3 ~l 
+: 2483 6 -3 this 
+- 2499
+: 2507 4 -5 Feel 
+: 2516 3 -7 this 
+: 2522 5 -5 way 
+* 2530 2 -7 for
+* 2535 3 -5 e
+* 2539 5 -3 ~
+* 2547 9 -5 ver 
+- 2566
+: 2570 2 -5 You 
+: 2574 2 -7 could 
+: 2578 4 -5 plan 
+: 2583 1 -7 a 
+: 2587 7 -5 pret
+: 2595 1 -7 ty 
+: 2600 2 -5 pi
+: 2603 4 -3 ~c
+: 2611 3 -5 nic 
+- 2617
+: 2619 4 -5 But 
+: 2627 2 -7 you 
+: 2634 4 -5 can’t 
+: 2642 4 -7 pre
+: 2651 3 -5 dict 
+: 2658 1 -7 the 
+: 2663 3 -5 wea
+: 2667 1 -3 ~
+: 2669 2 -5 ~
+: 2674 4 -5 the
+: 2679 3 -7 ~r 
+- 2692
+F 2704 2 0 Ten 
+F 2709 4 0 times 
+F 2716 4 0 out 
+F 2721 2 0 of 
+F 2725 7 0 nine 
+- 2735
+F 2737 2 0 Now 
+F 2741 1 0 if 
+F 2745 1 0 I’m 
+F 2748 6 0 blind 
+F 2758 7 0 fine 
+- 2767
+F 2769 1 0 The 
+F 2773 2 0 quic
+F 2777 1 0 kest 
+F 2781 2 0 muz
+F 2785 2 0 zle 
+F 2789 2 0 throw 
+F 2793 1 0 it 
+F 2795 3 0 on 
+F 2799 3 0 my 
+F 2804 2 0 mouth 
+- 2807
+F 2809 2 0 And 
+F 2812 4 0 I’ll 
+F 2817 1 0 de
+F 2821 6 0 cline 
+- 2831
+F 2833 4 0 King 
+F 2839 2 0 meets 
+F 2845 5 0 queen, 
+F 2852 2 0 then 
+F 2856 1 0 the 
+F 2860 1 0 pup
+F 2864 2 0 py 
+F 2868 2 0 love 
+F 2873 2 0 thing 
+- 2878
+F 2880 2 0 To
+F 2883 2 0 ge
+F 2888 1 0 ther 
+F 2892 4 0 dream 
+- 2897
+F 2899 3 0 ’Bout 
+F 2903 2 0 that 
+F 2909 5 0 crib 
+F 2917 1 0 with 
+F 2921 1 0 the 
+F 2924 3 0 Good
+F 2929 3 0 year 
+F 2935 6 0 swing 
+- 2947
+F 2950 2 0 On 
+F 2954 1 0 the 
+F 2957 2 0 oak 
+F 2963 3 0 tree 
+- 2968
+F 2970 1 0 I 
+F 2974 2 0 hope 
+F 2980 2 0 we 
+F 2985 5 0 feel 
+F 2991 3 0 like 
+F 2997 1 0 this 
+F 3001 1 0 for
+F 3004 2 0 e
+F 3008 4 0 ver 
+- 3015
+F 3017 1 0 For
+F 3020 3 0 e
+F 3026 3 0 ver, 
+F 3033 1 0 for
+F 3036 3 0 e
+F 3041 2 0 ver, 
+F 3044 5 0 e
+F 3050 3 0 ver, 
+F 3057 2 0 for
+F 3062 3 0 e
+F 3067 1 0 ver, 
+F 3070 3 0 e
+F 3076 2 0 ver? 
+- 3079
+F 3081 2 0 For
+F 3085 1 0 e
+F 3089 1 0 ver 
+F 3093 2 0 ne
+F 3097 1 0 ver 
+F 3101 4 0 seems 
+- 3106
+F 3108 2 0 That 
+F 3113 4 0 long, 
+F 3119 2 0 un
+F 3123 2 0 til 
+F 3127 2 0 you’re 
+F 3131 8 0 grown 
+- 3143
+F 3145 1 0 And 
+F 3148 3 0 no
+F 3152 1 0 tice 
+F 3156 1 0 that 
+F 3160 1 0 the 
+F 3162 4 0 day 
+F 3167 3 0 by 
+F 3171 3 0 day 
+F 3176 2 0 ru
+F 3180 1 0 ler 
+- 3182
+F 3184 2 0 Can’t 
+F 3188 2 0 be 
+F 3192 2 0 too 
+F 3196 6 0 wrong 
+- 3206
+F 3208 2 0 Ms. 
+F 3212 3 0 Jack
+F 3216 2 0 son, 
+F 3220 3 0 my 
+F 3224 1 0 in
+F 3229 2 0 ten
+F 3233 1 0 tions 
+- 3235
+F 3237 1 0 Were 
+F 3241 6 0 good, 
+F 3248 3 0 I 
+F 3252 3 0 wish 
+F 3256 2 0 I 
+F 3261 7 0 could 
+- 3271
+F 3273 2 0 Be
+F 3277 2 0 come 
+F 3281 2 0 a 
+F 3285 1 0 ma
+F 3288 2 0 gi
+F 3293 1 0 cian 
+- 3294
+F 3296 2 0 To 
+F 3300 2 0 a
+F 3304 1 0 bra
+F 3306 2 0 ca
+F 3310 3 0 da
+F 3314 2 0 bra 
+F 3318 2 0 all 
+F 3322 2 0 the 
+F 3325 5 0 sad
+F 3331 1 0 der 
+- 3336
+F 3338 5 0 Thoughts 
+F 3344 2 0 of 
+F 3349 5 0 me 
+- 3359
+F 3361 4 0 Thoughts 
+F 3367 1 0 of 
+F 3373 5 0 she 
+- 3383
+F 3385 2 0 Thoughts 
+F 3392 2 0 of 
+F 3396 5 0 he 
+- 3402
+F 3404 1 0 As
+F 3408 2 0 king 
+F 3412 1 0 what 
+F 3416 2 0 hap
+F 3421 1 0 pened 
+F 3424 1 0 to 
+F 3428 1 0 the 
+F 3432 2 0 fee
+F 3435 3 0 ling 
+F 3439 2 0 that 
+- 3443
+F 3445 2 0 Her 
+F 3448 2 0 and 
+F 3453 6 0 me 
+F 3465 8 0 had 
+- 3478
+F 3480 2 0 I 
+F 3484 3 0 pray 
+F 3488 2 0 so 
+F 3492 2 0 much 
+F 3496 2 0 a
+F 3500 3 0 bout 
+F 3504 2 0 it 
+F 3508 3 0 need 
+F 3512 2 0 some 
+F 3517 5 0 knee 
+F 3529 9 0 pads 
+- 3544
+F 3546 2 0 It 
+F 3549 3 0 hap
+F 3553 2 0 pened 
+F 3557 3 0 for 
+F 3561 2 0 a 
+F 3565 3 0 rea
+F 3569 2 0 son 
+F 3573 2 0 one 
+F 3577 3 0 can’t 
+F 3584 2 0 be 
+F 3594 7 0 mad 
+- 3606
+F 3608 2 0 So 
+F 3612 2 0 know 
+F 3616 2 0 this, 
+F 3621 1 0 know 
+F 3625 1 0 that 
+F 3629 2 0 eve
+F 3633 1 0 ry
+F 3637 2 0 thing 
+F 3640 1 0 is 
+F 3645 6 0 cool 
+- 3655
+F 3657 1 0 And 
+F 3661 2 0 yes 
+F 3664 2 0 I 
+F 3668 3 0 will 
+F 3673 1 0 be 
+F 3678 2 0 pre
+F 3682 1 0 sent 
+F 3685 2 0 on 
+F 3689 1 0 the 
+F 3693 2 0 first 
+F 3698 2 0 day 
+F 3702 1 0 of 
+- 3704
+F 3706 5 0 School 
+F 3712 3 0 and 
+F 3718 3 0 gra
+F 3724 1 0 du
+F 3727 3 0 a
+F 3732 1 0 tion 
+- 3733
+: 3735 1 -3 I’m 
+: 3739 3 4 sor
+: 3743 3 2 ry 
+: 3747 2 0 Ms. 
+: 3752 5 2 Jack
+: 3760 6 4 son, 
+: 3771 12 9 oh 
+- 3786
+: 3788 4 4 I 
+: 3795 6 4 am 
+: 3803 6 4 for 
+: 3811 11 7 rea
+: 3823 4 5 ~
+: 3828 14 4 ~l 
+- 3848
+: 3850 5 -3 Ne
+: 3859 4 4 ver 
+: 3867 4 2 meant 
+: 3875 4 4 to 
+: 3883 4 2 make 
+: 3890 3 4 your 
+: 3897 3 2 daugh
+: 3903 2 4 ter 
+: 3908 6 -3 cry 
+- 3915
+: 3917 4 -3 I 
+: 3924 4 4 a
+: 3932 4 2 po
+: 3939 4 4 lo
+: 3947 6 2 gize 
+: 3956 2 4 a 
+: 3960 3 2 tril
+: 3966 3 4 lion 
+: 3972 6 -3 times 
+- 3987
+: 3991 1 -3 I’m 
+: 3995 3 4 sor
+: 3999 3 2 ry 
+: 4003 2 0 Ms. 
+* 4008 5 2 Jack
+* 4016 2 4 son, 
+* 4027 12 9 oh 
+- 4042
+: 4044 3 4 I 
+: 4051 3 4 am 
+: 4058 7 4 for 
+: 4068 10 7 rea
+: 4079 4 5 ~
+: 4084 14 4 ~l 
+- 4104
+: 4106 5 -3 Ne
+: 4115 4 4 ver 
+: 4123 3 2 meant 
+: 4130 4 4 to 
+: 4139 3 2 make 
+: 4147 3 4 your 
+: 4152 4 2 daugh
+: 4159 2 4 ter 
+: 4164 6 -3 cry 
+- 4171
+: 4173 3 -3 I 
+: 4180 4 4 a
+: 4187 5 2 po
+: 4195 4 4 lo
+: 4203 6 2 gize 
+: 4212 2 4 a 
+: 4216 3 2 tril
+: 4223 2 4 lion 
+: 4228 5 -3 times 
+- 4234
+F 4236 2 0 “Look 
+F 4240 1 0 at 
+F 4242 1 0 the 
+F 4244 2 0 way 
+F 4248 2 0 he 
+F 4254 5 0 treats 
+F 4261 2 0 me!” 
+- 4265
+F 4267 2 0 Shit, 
+F 4270 2 0 look 
+F 4273 1 0 at 
+F 4275 1 0 the 
+F 4277 2 0 way 
+F 4280 2 0 you 
+F 4285 3 0 treat 
+F 4291 5 0 me 
+- 4297
+F 4299 1 0 See 
+F 4301 1 0 your 
+F 4303 2 0 lil’ 
+F 4306 3 0 nosy-
+F 4310 4 0 ass 
+F 4315 4 0 home
+F 4321 2 0 girls 
+- 4326
+F 4328 1 0 Got 
+F 4331 1 0 their 
+F 4333 3 0 ass 
+F 4337 2 0 sent 
+F 4340 1 0 up 
+F 4345 1 0 the 
+F 4348 2 0 creek 
+F 4353 2 0 G 
+- 4360
+F 4362 1 0 With
+F 4364 2 0 out 
+F 4367 1 0 a 
+F 4371 3 0 pad
+F 4375 2 0 dle, 
+F 4378 1 0 you 
+F 4381 1 0 left 
+- 4383
+F 4385 1 0 The 
+F 4388 3 0 strad
+F 4392 3 0 dle 
+F 4396 2 0 and 
+F 4399 2 0 ride 
+F 4402 1 0 this 
+F 4404 2 0 thing 
+F 4408 2 0 on 
+F 4412 4 0 out 
+- 4422
+F 4424 1 0 And 
+F 4426 1 0 then 
+F 4428 1 0 you 
+F 4430 1 0 and 
+- 4431
+F 4432 1 0 This 
+F 4434 4 0 girl 
+F 4439 1 0 ain’t 
+F 4441 4 0 spea
+F 4446 1 0 king 
+F 4448 1 0 no 
+F 4450 2 0 more 
+- 4453
+F 4455 1 0 ’Cause 
+F 4457 3 0 my 
+F 4461 3 0 dick 
+F 4465 2 0 all 
+F 4468 2 0 in 
+F 4471 3 0 her 
+F 4475 6 0 mouth 
+- 4484
+F 4486 1 0 Know 
+F 4488 1 0 what 
+F 4490 1 0 I’m 
+F 4492 1 0 tal
+F 4494 2 0 king 
+F 4497 4 0 ’bout 
+- 4507
+F 4509 2 0 Jea
+F 4512 2 0 lou
+F 4516 2 0 sy, 
+F 4519 2 0 in
+F 4523 1 0 fi
+F 4526 2 0 de
+F 4529 1 0 li
+F 4533 5 0 ty, 
+F 4541 2 0 en
+F 4545 3 0 vy 
+- 4549
+F 4551 3 0 Chea
+F 4556 5 0 ting 
+F 4562 1 0 to 
+F 4564 3 0 bea
+F 4568 6 0 ting, 
+F 4575 2 0 en
+F 4578 1 0 vy 
+- 4579
+F 4580 2 0 And 
+F 4583 2 0 to 
+F 4586 1 0 the 
+F 4589 3 0 G’s 
+F 4593 2 0 they 
+F 4596 1 0 be 
+F 4598 1 0 the 
+F 4602 4 0 same 
+F 4608 4 0 thing 
+- 4617
+F 4619 2 0 So 
+F 4622 1 0 who 
+F 4624 1 0 you 
+F 4627 3 0 pla
+F 4631 1 0 cing 
+F 4633 1 0 the 
+F 4636 4 0 blame 
+F 4641 3 0 on 
+- 4648
+F 4650 2 0 You 
+F 4654 2 0 keep 
+F 4657 2 0 on 
+F 4662 1 0 sing
+F 4664 1 0 ing 
+F 4666 1 0 the 
+F 4669 5 0 same 
+F 4676 3 0 song 
+- 4680
+F 4682 2 0 Let 
+F 4686 3 0 by
+F 4692 3 0 gones 
+F 4698 1 0 be 
+F 4700 3 0 by
+F 4705 4 0 gones 
+- 4711
+F 4713 2 0 You 
+F 4717 1 0 can 
+F 4719 1 0 go 
+F 4721 1 0 on 
+F 4723 1 0 and 
+F 4725 2 0 get 
+F 4728 2 0 the 
+F 4731 3 0 hell 
+F 4735 4 0 on 
+- 4741
+F 4743 1 0 You 
+F 4745 4 0 and 
+F 4750 3 0 your 
+F 4755 1 0 ma
+F 4757 1 0 ma 
+- 4758
+: 4759 1 -3 I’m 
+: 4763 3 4 sor
+: 4767 3 2 ry 
+: 4771 2 0 Ms. 
+: 4776 5 2 Jack
+: 4784 4 4 son, 
+: 4796 12 9 oh 
+- 4810
+: 4812 4 4 I 
+: 4819 6 4 am 
+: 4827 6 4 for 
+: 4836 11 7 rea
+: 4848 3 5 ~
+: 4852 14 4 ~l 
+- 4872
+: 4874 5 -3 Ne
+: 4883 4 4 ver 
+: 4891 4 2 meant 
+: 4899 4 4 to 
+: 4907 3 2 make 
+: 4915 3 4 your 
+: 4920 4 2 daugh
+: 4927 2 4 ter 
+: 4932 6 -3 cry 
+- 4939
+: 4941 4 -3 I 
+: 4948 4 4 a
+: 4956 5 2 po
+: 4963 4 4 lo
+: 4971 6 2 gize 
+: 4980 2 4 a 
+: 4984 3 2 tril
+: 4991 2 4 lion 
+: 4996 6 -3 times 
+- 5011
+: 5015 1 -3 I’m 
+: 5019 3 4 sor
+: 5024 2 2 ry 
+: 5027 2 0 Ms. 
+: 5032 5 2 Jack
+: 5040 3 4 son, 
+: 5051 12 9 oh 
+- 5066
+: 5068 3 4 I 
+: 5075 4 4 am 
+: 5083 6 4 for 
+: 5092 10 7 rea
+: 5103 3 5 ~
+: 5107 15 4 ~l 
+- 5128
+: 5130 5 -3 Ne
+: 5139 4 4 ver 
+: 5147 4 2 meant 
+: 5155 4 4 to 
+: 5163 3 2 make 
+: 5171 3 4 your 
+: 5176 3 2 daugh
+: 5183 2 4 ter 
+: 5188 6 -3 cry 
+- 5195
+: 5197 4 -3 I 
+: 5204 4 4 a
+: 5212 5 2 po
+: 5219 4 4 lo
+: 5227 6 2 gize 
+: 5236 2 4 a 
+: 5240 3 2 tril
+: 5247 2 4 lion 
+: 5252 5 -3 times 
+- 5267
+: 5271 1 -3 I’m 
+: 5275 3 4 sor
+: 5279 3 2 ry 
+: 5283 2 0 Ms. 
+: 5288 5 2 Jack
+: 5296 4 4 son, 
+: 5308 12 9 oh 
+- 5322
+: 5324 4 4 I 
+: 5331 6 4 am 
+: 5339 6 4 for 
+: 5348 11 7 rea
+: 5360 3 5 ~
+: 5364 14 4 ~l 
+- 5384
+: 5386 5 -3 Ne
+: 5395 4 4 ver 
+: 5403 4 2 meant 
+: 5411 4 4 to 
+: 5419 3 2 make 
+* 5427 3 4 your 
+* 5432 4 2 daugh
+* 5439 2 4 ter 
+* 5444 6 -3 cry 
+- 5451
+: 5453 4 -3 I 
+: 5460 4 4 a
+: 5468 5 2 po
+: 5475 4 4 lo
+: 5483 6 2 gize 
+: 5492 2 4 a 
+: 5496 3 2 tril
+: 5503 2 4 lion 
+: 5508 6 -3 times 
+- 5523
+: 5527 1 -3 I’m 
+: 5531 3 4 sor
+: 5536 2 2 ry 
+: 5539 2 0 Ms. 
+: 5544 5 2 Jack
+: 5552 3 4 son, 
+: 5563 12 9 oh 
+- 5578
+: 5580 3 4 I 
+: 5587 4 4 am 
+: 5595 6 4 for 
+: 5604 10 7 rea
+: 5615 3 5 ~
+: 5619 15 4 ~l 
+- 5640
+: 5642 5 -3 Ne
+: 5651 4 4 ver 
+: 5659 4 2 meant 
+: 5667 4 4 to 
+: 5675 3 2 make 
+: 5683 3 4 your 
+: 5688 3 2 daugh
+: 5695 2 4 ter 
+: 5700 6 -3 cry 
+- 5707
+: 5709 4 -3 I 
+: 5716 4 4 a
+: 5724 5 2 po
+: 5731 4 4 lo
+: 5739 6 2 gize 
+* 5748 2 4 a 
+* 5752 3 2 tril
+* 5759 2 4 lion 
+* 5764 5 -3 times 
+E

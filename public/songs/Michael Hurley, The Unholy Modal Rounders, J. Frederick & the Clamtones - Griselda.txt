@@ -1,0 +1,338 @@
+#ARTIST:Michael Hurley, The Unholy Modal Rounders, J. Frederick & the Clamtones
+#TITLE:Griselda
+#MP3:Michael Hurley, The Unholy Modal Rounders, J. Frederick & the Clamtones - Griselda.mp3
+#CREATOR:hugamuga
+#GENRE:Folk
+#YEAR:1976
+#LANGUAGE:English
+#BPM:400
+#GAP:21520
+#VIDEO:a=ExaIdWubRhc,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/a3/fd/90a3fdf9-699e-21e5-feaf-de4002667d9f/00888072090286.rgb.jpg/5000x5000bb.jpg
+: 0 4 11 Come, 
+: 7 3 11 won’t 
+: 11 3 12 you 
+: 15 7 14 walk 
+: 24 5 11 with 
+: 32 6 12 me, 
+: 40 6 14 Gri 
+: 48 7 16 sel
+: 58 4 19 da 
+- 64
+: 66 6 11 Wea
+: 74 2 11 rin’ 
+: 77 2 12 your 
+: 81 7 14 dress 
+: 90 6 11 that 
+: 98 7 9 moon 
+: 106 7 6 light 
+: 114 7 4 shines 
+: 123 5 2 through 
+- 130
+: 132 7 7 I 
+: 141 3 9 am 
+: 145 2 11 a 
+: 148 7 11 sad 
+: 157 6 7 and 
+: 166 6 12 lone
+: 173 5 14 ly 
+: 181 10 16 boy 
+- 193
+: 198 6 14 Since 
+: 205 6 11 your 
+: 213 6 9 mo
+: 220 7 7 ther 
+: 230 3 9 said 
+: 234 2 11 I 
+: 238 2 9 could
+: 241 3 7 n’t 
+: 245 7 4 see 
+: 255 4 2 you 
+- 261
+: 263 2 11 Slip
+: 266 3 11 pin’ 
+: 270 3 11 through 
+: 274 2 12 the 
+: 279 7 14 woods 
+: 287 2 12 in 
+: 290 2 11 the 
+: 294 7 12 dark 
+: 303 3 14 of 
+: 307 3 16 the 
+: 311 8 14 night 
+- 321
+: 328 3 12 Cal
+: 332 3 12 lin’ 
+: 337 2 14 to 
+: 341 2 14 the 
+: 344 6 16 moon 
+: 352 6 19 out 
+* 360 15 16 yon
+* 377 8 14 der 
+- 387
+: 393 6 16 Old 
+: 401 3 16 Lad
+: 405 2 14 y 
+: 408 7 12 Moon, 
+: 417 2 12 won’t 
+: 421 2 12 you 
+: 425 3 14 shine 
+: 429 2 12 your 
+: 433 3 11 sil 
+: 437 3 9 ver 
+: 442 3 7 light 
+- 447
+: 449 5 7 And 
+: 458 5 14 lead 
+: 466 5 19 me 
+: 474 6 14 to 
+: 482 2 11 my 
+* 486 2 7 Gri
+* 491 13 9 sel 
+* 506 6 7 da 
+- 514
+: 525 4 11 Do 
+: 532 3 11 you 
+: 536 3 12 re
+: 540 7 14 call 
+: 549 5 11 last 
+: 556 6 12 night, 
+: 565 6 14 Gri
+: 573 7 16 sel 
+: 581 4 19 da 
+- 587
+: 589 5 11 Lear
+: 595 2 11 nin’ 
+: 599 2 12 the 
+: 603 7 14 les
+: 611 6 11 sons 
+: 618 7 9 nat
+: 626 7 6 ure 
+: 634 7 6 taught 
+: 644 4 2 us 
+- 650
+: 652 4 7 Wat
+: 657 3 9 chin’ 
+: 661 2 11 the 
+: 664 7 11 fish 
+: 672 6 7 jump 
+: 681 6 12 in 
+: 688 5 14 the 
+: 696 10 16 lake 
+- 708
+: 714 6 14 It 
+: 721 6 11 was 
+: 729 6 9 love
+: 736 7 7 ly 
+: 746 3 9 ’til 
+: 750 2 11 your 
+: 754 2 9 mo
+: 757 3 7 ther 
+: 761 7 4 caught 
+: 769 4 2 us 
+- 775
+* 778 2 11 Slip
+* 781 3 11 pin’ 
+* 785 3 11 through 
+* 789 2 12 the 
+* 794 7 14 woods 
+: 802 2 12 in 
+: 805 2 11 the 
+: 809 7 12 dark 
+: 818 3 14 of 
+: 822 3 16 the 
+: 826 8 14 night 
+- 836
+: 843 3 12 Cal
+: 847 3 12 lin’ 
+: 852 2 14 to 
+: 856 2 14 the 
+: 859 6 16 moon 
+: 867 6 19 out 
+: 875 15 16 yon
+: 892 8 14 der 
+- 902
+: 908 6 16 Old 
+: 916 3 16 Lad
+: 920 2 14 y 
+: 923 7 12 Moon, 
+: 932 2 12 won’t 
+: 936 2 12 you 
+: 940 3 14 shine 
+: 944 2 12 your 
+: 948 3 11 sil 
+: 952 3 9 ver 
+: 957 3 7 light 
+- 962
+: 964 5 7 And 
+: 973 5 14 lead 
+: 981 5 19 me 
+: 989 6 14 to 
+: 997 2 11 my 
+: 1001 2 7 Gri
+: 1006 13 9 sel 
+: 1021 6 7 da 
+- 1029
+: 1551 4 11 Moon
+: 1558 3 11 flow
+: 1562 3 12 er 
+: 1566 7 14 vine 
+: 1575 5 11 u
+: 1583 6 12 pon 
+: 1591 6 14 your 
+: 1599 7 16 win
+: 1608 4 19 dow 
+- 1614
+: 1616 6 11 Gives 
+: 1624 2 11 me 
+: 1627 2 12 a 
+: 1631 7 14 foot
+: 1640 6 11 hold 
+: 1648 7 9 for 
+: 1656 7 6 my 
+: 1664 7 4 clim
+: 1673 5 2 bin’ 
+- 1680
+: 1682 6 7 I 
+: 1689 3 9 got 
+: 1693 2 11 a 
+: 1696 7 11 row
+: 1704 6 7 boat 
+: 1711 6 12 on 
+: 1718 5 14 the 
+: 1724 9 16 lake 
+- 1735
+: 1740 6 14 Moon 
+: 1749 4 11 is 
+: 1757 4 9 out 
+: 1763 5 7 and 
+: 1772 3 9 all 
+: 1776 2 11 the 
+: 1781 2 9 stars 
+: 1784 3 7 are 
+: 1788 7 4 shi
+: 1796 4 2 nin’ 
+- 1802
+: 1806 2 11 Slip
+: 1809 3 11 pin’ 
+: 1813 3 11 through 
+: 1817 2 12 the 
+: 1822 7 14 woods 
+: 1830 2 12 in 
+: 1833 2 11 the 
+: 1837 7 12 dark 
+: 1846 3 14 of 
+: 1850 3 16 the 
+: 1854 8 14 night 
+- 1864
+: 1871 3 12 Cal
+: 1875 3 12 lin’ 
+: 1880 2 14 to 
+: 1884 2 14 the 
+: 1887 6 16 moon 
+: 1895 6 19 out 
+: 1903 15 16 yon
+: 1920 8 14 der 
+- 1930
+: 1936 6 16 Old 
+: 1944 3 16 Lad
+: 1948 2 14 y 
+: 1951 7 12 Moon, 
+: 1960 2 12 won’t 
+: 1964 2 12 you 
+: 1968 3 14 shine 
+: 1972 2 12 your 
+: 1976 3 11 sil
+: 1980 3 9 ver 
+: 1985 3 7 light 
+- 1990
+: 1992 5 7 And 
+: 2001 5 14 lead 
+: 2009 5 19 me 
+: 2017 6 14 to 
+: 2025 2 11 my 
+: 2029 2 7 Gri
+: 2034 13 9 sel
+: 2049 6 7 da 
+- 2057
+: 2062 4 11 I 
+: 2069 3 11 got 
+: 2073 3 12 a 
+: 2077 7 14 jug 
+: 2086 5 11 of 
+: 2094 6 12 wine, 
+* 2102 6 14 Gri
+* 2110 7 16 sel
+* 2120 3 19 da 
+- 2125
+: 2127 4 11 Why 
+: 2132 2 11 should 
+: 2136 2 12 you 
+: 2140 7 14 waste 
+: 2148 6 11 your 
+: 2155 7 9 time 
+: 2163 5 6 in 
+: 2169 6 4 sor
+: 2176 5 2 row 
+- 2183
+: 2186 7 7 Hold 
+: 2195 3 9 out 
+: 2199 2 11 your 
+: 2202 7 11 hand 
+: 2211 6 7 and 
+: 2220 6 12 have 
+: 2227 5 14 no 
+: 2235 10 16 fear 
+- 2247
+: 2249 6 14 If 
+: 2256 6 11 we’re 
+: 2264 6 9 caught, 
+: 2271 7 7 I’ll 
+: 2281 3 9 mar
+: 2285 2 11 ry 
+: 2289 2 9 you 
+: 2292 3 7 tom
+: 2296 7 4 orr 
+: 2304 4 2 ow 
+- 2310
+: 2312 2 11 Slip
+: 2315 3 11 pin’ 
+: 2319 3 11 through 
+: 2323 2 12 the 
+: 2328 7 14 woods 
+: 2336 2 12 in 
+: 2339 2 11 the 
+: 2343 7 12 dark 
+: 2352 3 14 of 
+: 2356 3 16 the 
+: 2360 8 14 night 
+- 2370
+: 2377 3 12 Cal
+: 2381 3 12 lin’ 
+: 2386 2 14 to 
+: 2390 2 14 the 
+: 2393 6 16 moon 
+: 2401 6 19 out 
+: 2409 15 16 yon
+: 2426 8 14 der 
+- 2436
+: 2442 6 16 Old 
+: 2450 3 16 Lad
+: 2454 2 14 y 
+: 2457 7 12 Moon, 
+: 2466 2 12 won’t 
+: 2470 2 12 you 
+: 2474 3 14 shine 
+: 2478 2 12 your 
+: 2482 3 11 sil
+: 2486 3 9 ver 
+: 2491 3 7 light 
+- 2496
+: 2498 5 7 And 
+* 2507 5 14 lead 
+* 2515 5 19 me 
+* 2523 6 14 to 
+* 2531 2 11 my 
+* 2535 2 7 Gri
+* 2540 13 9 sel
+* 2555 6 7 da 
+E

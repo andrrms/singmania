@@ -1,0 +1,208 @@
+#ARTIST:Roxy Music
+#TITLE:More Than This
+#MP3:Roxy Music - More Than This.mp3
+#CREATOR:Gollum
+#GENRE:New Wave
+#YEAR:1982
+#LANGUAGE:English
+#BPM:256.4
+#GAP:14240
+#VIDEO:v=kOnde5c7OG8,co=https://static.spreeradio.de/img/6256/414886/266000/Img_1_1/800/roxy_music_more_than_this.jpg,bg=roxy-music-4e8088d7c2d76.jpg
+: 0 2 1 I 
+: 4 4 3 could 
+: 13 10 10 feel 
+: 31 5 1 at 
+: 39 3 3 the 
+: 44 10 3 time 
+- 56
+: 63 3 1 There 
+: 68 8 3 was 
+: 79 12 3 no 
+: 96 5 1 way 
+: 104 2 3 of 
+: 108 7 5 know
+: 117 4 3 in’ 
+- 123
+: 132 5 1 Fal
+: 139 6 3 len 
+: 148 6 -2 leaves 
+: 160 5 1 in 
+: 168 2 3 the 
+: 172 6 3 night 
+- 180
+: 192 2 1 Who 
+: 196 8 3 can 
+: 208 13 3 say 
+: 224 6 1 where 
+: 232 3 3 they’re 
+: 237 4 5 blow
+: 245 6 3 in’ 
+- 253
+: 264 5 1 As 
+: 272 11 10 free 
+: 288 4 1 a
+: 293 6 3 ~s 
+: 301 2 5 the 
+: 308 8 3 wind 
+- 318
+: 344 4 3 Hope
+: 352 4 1 ful
+: 360 3 3 ly 
+: 364 8 5 lear
+: 374 4 3 nin’ 
+- 380
+: 388 5 1 Why 
+: 395 2 3 the 
+: 400 12 10 sea 
+: 416 6 1 o
+: 423 3 3 ~n 
+: 429 2 5 the 
+: 437 10 3 tide 
+- 449
+: 460 2 1 Has 
+: 464 11 3 no 
+: 481 5 1 way 
+: 488 2 3 of 
+: 493 6 5 tur
+: 502 4 3 ning 
+- 508
+: 576 7 1 More 
+: 584 3 -1 than 
+: 589 9 -2 this 
+- 600
+: 632 3 -2 You 
+: 637 13 1 know 
+: 652 5 -1 there’s 
+: 660 18 -2 no
+: 679 2 -1 ~
+: 684 5 -1 thing 
+- 691
+: 704 7 1 More 
+: 712 3 -1 than 
+: 717 10 -2 this 
+- 729
+: 773 5 1 Tell 
+: 781 5 -1 me 
+: 788 7 -2 o
+: 808 2 -4 ~ne 
+: 813 4 -4 thing 
+- 819
+: 832 7 1 More 
+: 840 3 -1 than 
+: 845 9 -2 this 
+- 856
+: 894 7 1 Oh, 
+: 905 8 -1 there’s 
+: 916 19 -2 no
+: 936 2 -1 ~
+: 941 4 -1 thing 
+- 947
+: 1088 2 1 It 
+: 1093 5 3 was 
+: 1101 11 10 fun 
+: 1121 5 1 for 
+: 1127 2 3 a 
+: 1133 11 3 while 
+- 1146
+: 1152 2 1 There 
+: 1156 8 3 was 
+: 1168 11 3 no 
+: 1185 4 1 way 
+: 1192 2 3 of 
+: 1197 6 5 know
+: 1205 5 3 in’ 
+- 1212
+: 1221 5 1 Like 
+: 1228 6 3 a 
+: 1237 5 -2 dream 
+: 1249 3 1 in 
+: 1256 2 3 the 
+: 1261 7 3 night 
+- 1270
+: 1280 2 1 Who 
+: 1285 6 3 can 
+: 1296 11 3 say 
+: 1312 5 1 where 
+: 1320 2 3 we’re 
+: 1324 5 5 go
+: 1333 5 3 in’ 
+- 1340
+: 1352 4 1 No 
+* 1361 11 10 care 
+: 1376 4 1 i
+: 1381 4 3 ~n 
+: 1388 3 5 the 
+: 1397 8 3 world 
+- 1407
+: 1432 5 3 May
+: 1440 3 1 be 
+: 1444 5 3 I’m 
+: 1452 6 5 lear
+: 1460 4 3 nin’ 
+- 1466
+: 1471 7 1 Why 
+: 1480 2 3 the 
+: 1484 11 10 sea 
+: 1500 11 1 o
+: 1512 2 3 ~n 
+: 1516 3 5 the 
+: 1525 9 3 tide 
+- 1536
+: 1548 2 1 Has 
+: 1552 11 3 no 
+: 1568 5 1 way 
+* 1576 2 3 of 
+* 1580 4 5 tur
+: 1589 5 3 nin’ 
+- 1596
+: 1664 6 1 More 
+: 1672 3 -1 than 
+: 1677 10 -2 this 
+- 1689
+: 1719 3 -2 You 
+: 1724 9 1 know 
+: 1740 6 -1 there’s 
+: 1748 19 -2 no
+: 1768 2 -1 ~
+: 1773 4 -1 thing 
+- 1779
+: 1792 6 1 More 
+: 1800 3 -1 than 
+: 1805 9 -2 this 
+- 1816
+: 1860 6 1 Tell 
+: 1868 7 -1 me 
+: 1877 8 -2 o
+: 1896 2 -4 ~ne 
+: 1900 4 -4 thing 
+- 1906
+: 1920 6 1 More 
+: 1928 3 -1 than 
+: 1933 9 -2 this 
+- 1944
+: 1989 4 1 No, 
+: 1996 5 -1 there’s 
+* 2004 19 -2 no
+* 2024 2 -1 ~
+* 2028 4 -1 thing 
+- 2034
+: 2176 6 1 More 
+: 2184 3 -1 than 
+: 2188 10 -2 this 
+- 2200
+: 2256 23 1 No
+: 2280 2 -1 ~
+: 2284 5 -1 thing 
+- 2291
+* 2304 6 1 More 
+* 2312 3 -1 than 
+* 2317 9 -2 this 
+- 2328
+: 2431 7 1 More 
+: 2440 3 -1 than 
+: 2444 10 -2 this 
+- 2456
+* 2512 23 1 No
+* 2536 2 -1 ~
+* 2541 5 -1 thing 
+E

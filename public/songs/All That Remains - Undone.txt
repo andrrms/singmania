@@ -1,0 +1,235 @@
+#ARTIST:All That Remains
+#TITLE:Undone
+#MP3:All That Remains - Undone.mp3
+#CREATOR:Lorc
+#GENRE:Metal
+#YEAR:2008
+#LANGUAGE:English
+#BPM:392
+#GAP:10990
+#VIDEO:a=aw25p6uI3dE,co=overcome-5c7cc33c6a274.jpg,bg=all-that-remains-629c82ff80635.jpg
+F 0 3 19 Well 
+F 5 4 19 hot 
+F 12 71 19 damn! 
+- 85
+: 291 3 16 It’s 
+: 299 4 16 hard 
+: 307 5 16 to 
+: 315 5 16 tame 
+: 323 2 13 the 
+: 328 7 16 pas
+: 337 12 13 sion 
+- 351
+F 353 3 20 That 
+F 362 11 20 leads 
+F 380 7 20 me 
+F 392 19 20 here 
+- 413
+F 417 4 16 No 
+F 426 2 16 bet
+F 431 2 16 ter 
+F 439 6 16 choice 
+F 450 3 16 no 
+F 459 2 16 stron
+F 463 2 16 ger 
+F 471 5 16 voice 
+- 478
+F 482 3 16 I’ll 
+F 490 3 16 sac
+F 499 1 16 ri
+F 503 3 16 fice 
+F 511 3 16 the 
+F 518 15 16 fear 
+- 535
+: 547 3 16 I’ve 
+: 555 4 16 pushed 
+: 563 4 16 through 
+: 572 5 16 hes
+: 579 2 13 i
+: 583 9 18 ta
+: 595 7 13 tion 
+- 604
+F 610 3 20 I’ve 
+F 619 10 20 seen 
+F 635 7 20 through 
+F 647 13 20 doubt 
+- 662
+F 675 2 20 I’m 
+F 683 2 20 bet
+F 688 3 20 ter 
+F 695 9 20 now 
+F 707 4 20 with
+F 715 2 20 in 
+F 719 4 20 her 
+F 727 5 20 eyes 
+- 734
+F 735 2 20 Than 
+F 739 3 20 I’ll 
+F 747 2 20 e
+F 751 3 20 ver 
+F 759 3 20 be 
+F 767 5 20 with 
+- 774
+: 780 10 20 We 
+: 796 11 18 can 
+: 812 11 13 push 
+: 827 12 11 through 
+- 841
+: 851 4 20 We 
+: 859 4 18 are 
+: 867 9 15 one 
+: 882 4 16 in 
+: 890 12 18 this 
+- 904
+: 915 4 20 We 
+: 923 3 18 are 
+: 931 10 18 not 
+: 947 10 20 un
+: 962 49 20 done 
+- 1013
+: 1035 11 20 We 
+: 1051 13 18 can 
+: 1067 14 13 push 
+: 1084 12 11 through 
+- 1098
+* 1107 4 20 We 
+* 1114 4 18 are 
+: 1123 13 18 one 
+: 1138 4 20 in 
+: 1146 16 20 this 
+- 1164
+: 1171 4 20 We 
+: 1179 4 18 are 
+: 1187 11 18 not 
+: 1202 11 20 un
+: 1218 53 20 done 
+- 1273
+* 1315 4 16 I 
+* 1323 4 16 know 
+: 1331 4 16 my 
+: 1339 5 16 lim
+: 1346 2 13 i
+: 1350 8 16 ta
+: 1361 10 13 tions 
+- 1373
+F 1380 5 20 I’ve 
+F 1389 7 20 learned 
+F 1402 7 20 from 
+F 1413 16 20 life 
+- 1431
+F 1441 4 20 This 
+F 1450 5 20 great 
+F 1458 1 20 re
+F 1463 8 20 ward 
+- 1473
+F 1474 3 20 I’m 
+F 1483 2 20 hon
+F 1487 3 20 or 
+F 1495 5 20 bound 
+F 1505 3 20 not 
+F 1513 3 20 sac
+F 1522 1 20 ri
+F 1526 2 20 fice 
+F 1535 2 20 not 
+F 1543 10 20 price 
+- 1555
+: 1571 2 16 I’ve 
+: 1579 3 16 found 
+: 1587 3 16 my 
+: 1595 5 16 in
+: 1603 1 13 spi
+: 1608 2 16 ra
+: 1611 6 18 ~
+: 1619 7 13 tion 
+- 1628
+F 1635 2 20 Held 
+F 1644 10 20 in 
+F 1660 5 20 both 
+F 1671 22 20 hands 
+- 1695
+F 1700 2 20 I’m 
+F 1708 1 20 ful
+F 1712 2 20 ly 
+F 1720 7 20 whole 
+F 1731 2 20 In 
+F 1740 1 20 trust 
+F 1744 2 20 and 
+F 1751 7 20 care 
+F 1763 2 20 I’m 
+F 1771 9 20 stron
+F 1787 8 20 ger 
+- 1797
+* 1803 11 20 We 
+* 1819 12 18 can 
+* 1835 12 13 push 
+* 1851 14 11 through 
+- 1867
+: 1875 5 20 We 
+: 1883 6 18 are 
+: 1891 12 15 one 
+: 1906 4 16 in 
+: 1915 11 18 this 
+- 1928
+: 1939 5 20 We 
+: 1947 4 18 are 
+: 1955 10 18 not 
+: 1971 12 20 un
+: 1987 62 20 done 
+- 2051
+: 2059 14 20 We 
+: 2076 13 18 can 
+: 2091 13 13 push 
+: 2107 18 11 through 
+- 2127
+: 2132 6 20 We 
+: 2140 6 18 are 
+: 2148 13 18 one 
+: 2163 4 20 in 
+: 2171 14 20 this 
+- 2187
+: 2194 5 20 We 
+: 2202 4 18 are 
+: 2211 10 18 not 
+: 2226 9 20 un
+: 2242 58 20 done 
+- 2302
+: 2323 5 20 We 
+: 2331 4 18 are 
+: 2339 10 18 not 
+: 2354 9 20 un
+: 2370 60 20 done 
+- 2432
+F 4108 10 20 We 
+F 4123 9 20 can 
+F 4139 8 20 push 
+F 4155 7 20 through 
+- 4164
+: 4180 7 20 We 
+: 4189 5 18 are 
+* 4196 13 15 one 
+* 4211 5 16 in 
+* 4219 12 18 this 
+- 4233
+: 4243 6 20 We 
+: 4251 4 18 are 
+: 4260 11 18 not 
+: 4275 13 20 un
+: 4292 47 20 done 
+- 4341
+: 4363 13 20 We 
+: 4379 12 18 can 
+: 4395 13 13 push 
+: 4411 16 11 through 
+- 4429
+: 4435 5 20 We 
+: 4443 4 18 are 
+: 4451 14 18 one 
+: 4467 4 20 in 
+: 4475 13 20 this 
+- 4490
+: 4499 6 20 We 
+: 4507 5 18 are 
+: 4515 13 18 not 
+: 4531 11 20 un
+: 4546 57 20 done 
+E

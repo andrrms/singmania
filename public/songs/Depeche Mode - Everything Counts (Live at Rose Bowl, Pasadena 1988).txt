@@ -1,0 +1,359 @@
+#ARTIST:Depeche Mode
+#TITLE:Everything Counts (Live at Rose Bowl, Pasadena 1988)
+#MP3:Depeche Mode - Everything Counts (Live at Rose Bowl, Pasadena 1988).mp3
+#CREATOR:Unknown
+#COVER:Depeche Mode - Everything Counts (Live at Rose Bowl, Pasadena 1988) [CO].jpg
+#BACKGROUND:Depeche Mode - Everything Counts (Live at Rose Bowl, Pasadena 1988) [BG].jpg
+#GENRE:Pop
+#YEAR:1989
+#LANGUAGE:English
+#BPM:226
+#GAP:41820
+#VIDEO:v=CzqqVFb9p4U,co=101-5f18d356ec224.jpg,bg=depeche-mode-50480ade161d1.jpg
+#START:24
+: 0 3 7 The 
+: 4 6 9 hand
+: 11 6 9 shake 
+: 27 4 9 seals 
+: 32 2 7 the 
+: 36 6 9 con
+: 43 6 9 tract 
+- 51
+: 60 3 9 From 
+: 65 2 7 the 
+: 69 6 9 con
+: 76 6 9 tract 
+: 88 3 9 there’s 
+: 92 5 9 no 
+: 100 2 4 tur
+: 103 4 4 ning 
+: 108 5 4 back 
+- 115
+: 127 3 2 The 
+: 131 4 4 tur
+: 136 3 4 ning 
+: 140 6 4 point 
+: 153 3 4 of 
+: 157 3 4 a 
+: 161 1 4 ca
+: 163 3 4 ree
+: 167 3 2 ~
+: 171 6 2 ~r 
+- 179
+: 184 4 4 In 
+: 191 3 4 Ko
+: 195 3 4 re
+: 199 3 2 ~
+: 203 5 2 a, 
+: 211 3 4 be
+: 215 3 4 ing 
+: 219 3 4 in
+: 223 3 4 sin
+: 227 3 4 ce
+: 231 3 -3 ~
+: 235 5 -3 ~re 
+- 242
+: 287 3 2 The 
+: 291 3 4 ho
+: 295 3 4 li
+: 299 7 4 day 
+: 319 2 4 was 
+: 322 7 12 fun-
+: 330 6 9 packed 
+- 338
+: 351 3 2 The 
+: 355 6 4 con
+: 362 7 4 tract 
+: 381 5 4 still 
+: 387 6 4 in
+: 394 8 -3 tact 
+- 404
+: 415 3 14 The 
+: 419 5 16 grab
+: 425 5 16 bing 
+: 431 13 14 hands 
+: 450 4 14 grab 
+: 455 3 14 all 
+: 459 3 16 they 
+: 463 11 12 can 
+- 476
+: 485 3 16 All 
+: 490 3 16 for 
+: 494 3 17 them
+: 498 10 14 selves 
+: 515 6 14 af
+: 522 4 16 ter 
+: 527 12 12 all 
+- 540
+: 542 3 14 The 
+: 546 5 16 grab
+: 552 5 16 bing 
+: 558 12 14 hands 
+: 577 4 14 grab 
+: 582 3 14 all 
+: 586 3 16 they 
+: 590 11 12 can 
+- 603
+: 612 4 16 All 
+: 618 3 16 for 
+: 622 2 17 them
+: 625 11 14 selves 
+- 638
+: 641 8 14 Af
+: 650 3 12 ter 
+: 654 6 9 all 
+: 661 4 14 it’s 
+: 666 2 14 a 
+* 669 3 14 com
+* 673 5 9 pe
+* 679 5 9 ti
+* 686 6 9 tive 
+: 694 10 9 world 
+- 706
+: 738 2 16 Eve
+: 741 3 16 ry
+: 745 5 16 thing 
+: 752 8 14 counts 
+: 761 2 12 in 
+: 765 11 14 large 
+: 777 3 16 a
+: 781 8 12 mounts 
+- 791
+: 1052 2 7 The 
+: 1055 9 9 graph 
+: 1080 3 9 on 
+: 1084 2 7 the 
+: 1087 13 9 wall 
+- 1102
+: 1111 4 9 Tells 
+: 1116 2 7 the 
+: 1119 7 9 sto
+: 1127 5 9 ry 
+: 1142 2 9 of 
+: 1145 3 9 i
+: 1149 4 4 ~t 
+: 1155 8 4 all 
+- 1165
+: 1182 3 4 Pic
+: 1186 3 4 ture 
+: 1190 3 4 it 
+: 1195 7 4 now 
+: 1214 3 4 see 
+: 1218 7 2 just 
+: 1226 8 2 how 
+- 1236
+: 1244 2 0 The 
+: 1247 7 2 lies 
+: 1255 3 2 and 
+: 1260 2 0 de
+: 1263 3 2 ceit 
+: 1271 3 2 gained 
+: 1275 3 4 a 
+: 1279 1 -3 lit
+: 1281 2 -3 tle 
+: 1285 3 -3 more 
+: 1291 6 -3 pow
+: 1298 3 -3 er 
+- 1303
+: 1342 3 4 Con
+: 1346 2 4 fi
+: 1349 5 4 dence 
+: 1366 3 4 ta
+: 1370 3 4 ken 
+* 1374 7 9 in 
+- 1383
+: 1398 4 9 By 
+: 1404 1 9 a 
+: 1406 4 4 sun 
+: 1414 7 4 tan 
+: 1430 3 4 and 
+: 1434 2 4 a
+: 1437 2 -3 ~ 
+: 1441 10 -3 grin 
+- 1453
+: 1468 3 14 The 
+: 1472 4 16 grab
+: 1477 5 16 bing 
+: 1484 12 14 hands 
+: 1503 3 14 grab 
+: 1507 3 14 all 
+: 1511 3 16 they 
+: 1515 12 12 can 
+- 1529
+: 1535 5 16 All 
+: 1542 3 16 for 
+: 1546 3 17 them
+: 1550 10 14 selves 
+: 1567 6 14 af
+: 1574 4 16 ter 
+: 1579 10 12 all 
+- 1591
+: 1595 3 14 The 
+: 1599 5 16 grab
+: 1605 5 16 bing 
+: 1611 13 14 hands 
+: 1630 4 14 grab 
+: 1635 3 14 all 
+: 1639 3 16 they 
+: 1643 12 12 can 
+- 1657
+: 1663 5 16 All 
+: 1670 2 16 for 
+: 1673 3 17 them
+: 1677 11 14 selves 
+- 1690
+: 1695 6 14 Af
+: 1702 4 12 ter 
+: 1707 6 9 all 
+: 1714 3 14 it’s 
+: 1718 3 14 a 
+* 1722 3 14 com
+* 1726 5 9 pe
+* 1732 5 9 ti
+* 1739 6 9 tive 
+: 1747 9 9 world 
+- 1758
+: 1852 3 16 Eve
+: 1856 4 16 ry
+: 1861 5 16 thing 
+: 1868 8 14 counts 
+: 1877 2 12 in 
+: 1881 11 14 large 
+: 1893 3 16 a
+: 1897 8 12 mounts 
+- 1907
+: 1981 2 16 Eve
+: 1984 3 16 ry
+: 1988 5 16 thing 
+: 1995 8 14 counts 
+: 2004 2 12 in 
+: 2008 11 14 large 
+: 2020 3 16 a
+: 2024 8 12 mounts 
+- 2034
+: 2170 1 14 The 
+: 2172 5 16 grab
+: 2178 5 16 bing 
+: 2185 13 14 hands 
+: 2203 4 14 grab 
+: 2208 3 14 all 
+: 2212 2 16 they 
+: 2215 12 12 can 
+- 2229
+: 2236 3 16 Eve
+: 2240 3 16 ry
+: 2244 5 16 thing 
+: 2252 7 14 counts 
+: 2261 2 12 in 
+: 2264 11 14 large 
+: 2276 3 16 a
+: 2280 8 12 mounts 
+- 2290
+: 2296 3 14 The 
+: 2300 5 16 grab
+: 2306 5 16 bing 
+: 2312 12 14 hands 
+: 2331 4 14 grab 
+: 2336 3 14 all 
+: 2340 3 16 they 
+: 2344 11 12 can 
+- 2357
+: 2364 2 16 Eve
+: 2367 3 16 ry
+: 2371 5 16 thing 
+: 2379 7 14 counts 
+: 2388 2 12 in 
+: 2391 11 14 large 
+: 2403 3 16 a
+: 2407 8 12 mounts 
+- 2417
+: 2677 3 14 The 
+: 2681 5 16 grab
+: 2687 5 16 bing 
+: 2694 12 14 hands 
+: 2713 3 14 grab 
+: 2717 3 14 all 
+: 2721 3 16 they 
+: 2725 12 12 can 
+- 2739
+: 2745 3 16 Eve
+: 2749 3 16 ry
+: 2753 5 16 thing 
+: 2761 7 14 counts 
+: 2769 2 12 in 
+: 2773 11 14 large 
+: 2785 3 16 a
+: 2789 9 12 mounts 
+- 2800
+: 3061 3 14 The 
+: 3065 5 16 grab
+: 3071 4 16 bing 
+: 3076 13 14 hands 
+: 3096 4 14 grab 
+: 3101 3 14 all 
+: 3105 3 16 they 
+: 3109 12 12 can 
+- 3123
+: 3130 2 16 Eve
+: 3133 3 16 ry
+: 3137 5 16 thing 
+: 3144 8 14 counts 
+: 3155 2 12 in 
+: 3158 13 14 large 
+: 3172 3 16 a
+: 3176 8 12 mounts 
+- 3186
+: 3191 3 14 The 
+: 3195 5 16 grab
+: 3201 4 16 bing 
+: 3206 13 14 hands 
+: 3229 4 14 grab 
+: 3234 3 14 all 
+: 3238 3 16 they 
+: 3242 12 12 can 
+- 3256
+: 3263 2 16 Eve
+: 3266 3 16 ry
+: 3271 5 16 thing 
+: 3278 8 14 counts 
+: 3291 2 12 in 
+: 3294 11 14 large 
+: 3308 3 16 a
+: 3312 8 12 mounts 
+- 3322
+F 3328 3 14 The 
+F 3332 5 16 grab
+F 3338 4 16 bing 
+F 3343 13 14 hands 
+F 3363 4 14 grab 
+F 3368 3 14 all 
+F 3372 3 16 they 
+F 3376 12 12 can 
+- 3390
+F 3397 2 16 Eve
+F 3400 3 16 ry
+F 3404 5 16 thing 
+F 3411 8 14 counts 
+F 3421 2 12 in 
+F 3425 13 14 large 
+F 3439 3 16 a
+F 3443 8 12 mounts 
+- 3453
+F 3462 2 14 The 
+F 3465 5 16 grab
+F 3471 4 16 bing 
+F 3478 13 14 hands 
+F 3497 4 14 grab 
+F 3502 3 14 all 
+F 3506 3 16 they 
+F 3510 12 12 can 
+- 3524
+F 3531 2 16 Eve
+F 3534 3 16 ry
+F 3538 5 16 thing 
+F 3545 8 14 counts 
+F 3556 2 12 in 
+F 3559 11 14 large 
+F 3571 3 16 a
+F 3575 8 12 mounts 
+E

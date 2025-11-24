@@ -1,0 +1,327 @@
+#ARTIST:The Beach Boys
+#TITLE:Here Today
+#MP3:The Beach Boys - Here Today.mp3
+#CREATOR:rote_rose
+#COVER:The Beach Boys - Here Today [CO].jpg
+#BACKGROUND:The Beach Boys - Here Today [BG].jpg
+#GENRE:Rock
+#YEAR:1966
+#LANGUAGE:English
+#BPM:245.44
+#GAP:900
+#VIDEO:a=Ef9zt8aCRQo,co=pet-sounds-57711bf174e1f.jpg,bg=the-beach-boys-4def7fa432f7a.jpg
+: 0 6 6 It 
+: 8 6 11 starts 
+: 16 3 6 with 
+: 21 6 13 just 
+: 29 2 14 a 
+: 33 2 13 lit
+: 37 2 11 tle 
+: 41 6 11 glance 
+: 49 6 6 now 
+- 61
+: 64 2 4 Right 
+: 68 2 4 a
+: 72 5 9 way, 
+: 79 3 4 you’re 
+: 84 5 11 thin
+: 91 3 16 kin’ 
+: 96 2 11 ’bout 
+: 100 2 9 ro
+: 104 6 9 mance 
+: 112 9 4 now 
+- 125
+: 127 7 6 You 
+* 136 6 11 know 
+* 144 2 6 you 
+* 148 5 13 ought 
+: 155 2 14 to 
+: 159 2 13 take 
+: 163 3 11 it 
+: 168 5 11 slow
+: 175 7 6 er 
+- 188
+: 191 2 4 But 
+: 195 2 4 you 
+: 199 5 9 just 
+: 206 2 4 can’t 
+: 210 6 11 wait 
+: 218 2 16 to 
+: 222 2 11 get 
+: 226 2 9 to 
+: 230 6 9 know 
+: 238 3 4 her 
+- 241
+: 243 2 4 A 
+: 247 6 18 brand 
+: 255 6 16 new 
+: 263 6 14 love 
+: 271 2 13 af
+: 275 6 14 fair 
+: 283 2 18 is 
+: 287 2 14 such 
+: 291 2 13 a 
+: 295 2 11 beau
+: 299 2 9 ti
+: 303 2 8 ful 
+: 307 4 13 thing
+: 313 3 11 ~
+: 318 6 9 ~ 
+- 340
+: 367 2 4 But 
+: 371 3 4 if 
+: 376 6 18 you’re 
+: 384 6 16 not 
+: 392 6 14 care
+: 400 3 13 ful, 
+: 405 6 14 think 
+: 413 2 18 a
+: 417 2 14 bout 
+: 421 2 13 the 
+: 425 2 11 pain 
+: 429 2 9 it 
+: 433 3 8 can 
+: 438 4 13 bring
+: 444 3 11 ~
+: 449 5 9 ~ 
+- 460
+: 462 2 9 It 
+: 466 2 8 makes 
+: 470 2 9 you 
+* 474 2 11 feel 
+* 478 6 9 so 
+* 486 6 8 bad 
+- 493
+: 495 2 11 It 
+: 499 2 9 makes 
+: 503 2 11 your 
+: 507 2 13 heart 
+: 511 6 11 feel 
+: 519 6 9 sad 
+- 525
+: 527 2 13 It 
+: 531 2 11 makes 
+: 535 2 13 your 
+: 539 4 14 days 
+: 545 5 13 go 
+: 552 6 11 wrong 
+- 558
+: 560 2 14 It 
+: 564 2 13 makes 
+: 568 2 14 your 
+: 572 4 16 nights 
+: 578 5 14 so 
+: 585 6 13 long 
+- 591
+: 593 2 16 You’ve 
+: 597 2 16 got 
+: 601 3 16 to 
+: 606 3 18 keep 
+: 611 6 16 in 
+: 619 3 14 mind 
+* 626 3 4 love 
+* 631 3 6 is 
+* 636 20 9 here 
+- 666
+* 678 3 13 To
+* 683 6 11 day 
+: 692 2 4 and 
+: 696 2 6 it’s 
+: 700 20 9 gone 
+- 730
+: 743 3 11 To
+: 748 6 9 mor
+: 756 3 4 row 
+: 761 3 6 it’s 
+: 766 8 9 here 
+: 776 6 16 and 
+: 784 6 14 gone 
+: 792 6 13 so 
+: 800 6 14 fast
+: 808 12 11 ~ 
+- 836
+: 874 6 6 Right 
+: 882 6 11 now 
+: 890 3 6 you 
+: 895 6 13 think 
+: 903 2 14 that 
+: 907 2 13 she’s 
+* 911 2 11 per
+* 915 6 11 fec
+* 923 6 6 tion 
+- 936
+: 939 6 4 This 
+: 947 6 9 time 
+: 955 3 4 is 
+: 960 6 11 real
+: 968 2 16 ly 
+: 972 2 11 an 
+: 976 2 9 ex
+: 980 6 9 cep
+: 988 8 4 tion 
+- 1002
+: 1004 2 6 Well 
+: 1008 3 6 you 
+: 1013 6 11 know 
+: 1021 2 6 I 
+: 1025 6 13 hate 
+: 1033 2 14 to 
+: 1037 2 13 be 
+: 1041 3 11 a 
+: 1045 6 11 dow
+: 1053 6 6 ner 
+- 1064
+: 1066 2 4 But 
+: 1070 2 4 I’m 
+: 1074 2 4 the 
+: 1078 6 9 guy 
+: 1086 2 4 she 
+: 1090 6 11 left 
+: 1098 2 16 be
+: 1102 2 11 fore 
+: 1106 2 9 you 
+: 1110 6 9 found 
+: 1118 3 4 her 
+- 1121
+* 1123 2 4 Well, 
+* 1127 6 18 I’m 
+* 1135 6 16 not 
+* 1143 6 14 say
+: 1151 3 13 ing 
+: 1156 6 14 you 
+: 1164 2 18 won’t 
+: 1168 2 14 have 
+: 1172 2 13 a 
+: 1176 2 11 good 
+: 1180 2 9 love 
+: 1184 2 8 with 
+: 1188 4 13 her
+: 1194 3 11 ~
+: 1199 6 9 ~ 
+- 1221
+: 1254 2 4 But 
+: 1259 6 18 I 
+: 1267 6 16 keep 
+: 1275 6 14 on 
+: 1283 3 13 re
+: 1288 6 14 mem
+: 1296 3 18 ber
+: 1301 2 14 ing 
+: 1305 2 13 things
+: 1309 2 11 ~ 
+: 1313 2 9 like 
+: 1317 2 8 they 
+: 1321 3 13 were
+: 1326 4 11 ~
+: 1332 3 9 ~ 
+- 1343
+: 1346 2 9 She 
+: 1350 2 8 made 
+: 1354 2 9 me 
+: 1358 3 11 feel 
+: 1363 6 9 so 
+: 1371 6 8 bad 
+- 1377
+: 1379 2 11 She 
+: 1383 2 9 made 
+: 1387 2 11 my 
+: 1391 3 13 heart 
+: 1396 6 11 feel 
+: 1404 6 9 sad 
+- 1410
+: 1412 2 13 She 
+: 1416 2 11 made 
+: 1420 2 13 my 
+: 1424 4 14 days 
+: 1430 5 13 go 
+: 1437 6 11 wrong 
+- 1444
+: 1446 2 14 And 
+: 1450 2 13 made 
+* 1454 2 14 my 
+* 1458 4 16 nights 
+: 1464 5 14 so 
+: 1471 5 13 long 
+- 1476
+: 1478 2 16 You’ve 
+: 1482 2 16 got 
+: 1486 2 16 to 
+: 1490 4 18 keep 
+: 1496 5 16 in 
+: 1503 6 14 mind 
+: 1511 3 4 love 
+: 1516 3 6 is 
+: 1521 20 9 here 
+- 1551
+: 1563 3 13 To
+: 1568 6 11 day 
+: 1577 2 4 and 
+: 1581 2 6 it’s 
+: 1585 20 9 gone 
+- 1615
+: 1628 3 11 To
+: 1633 6 9 mor
+: 1641 3 4 row 
+: 1646 3 6 it’s 
+* 1651 8 9 here 
+: 1661 6 16 and 
+: 1669 6 14 gone 
+: 1677 6 13 so 
+: 1685 6 14 fast
+: 1693 20 11 ~ 
+- 1745
+: 2355 3 14 Keep 
+: 2360 5 13 in 
+: 2367 7 11 mind 
+: 2376 2 4 love 
+: 2380 2 6 is 
+: 2384 20 9 here 
+- 2414
+: 2426 3 13 To
+: 2431 6 11 day 
+: 2440 2 4 and 
+: 2444 2 6 it’s 
+: 2448 20 9 gone 
+- 2478
+: 2491 3 11 To
+: 2496 6 9 mor
+: 2504 3 4 row 
+: 2509 3 6 it’s 
+: 2514 6 9 here 
+: 2523 6 16 and 
+: 2531 6 14 gone 
+: 2539 6 13 so 
+: 2547 6 14 fast
+: 2555 15 11 ~ 
+- 2580
+: 2602 3 4 Love 
+: 2607 3 6 is 
+* 2612 20 9 here 
+- 2642
+: 2650 3 13 To
+: 2655 4 11 day 
+: 2662 2 4 and 
+: 2666 3 6 it’s 
+: 2671 20 9 gone 
+- 2701
+: 2713 3 11 To
+: 2718 6 9 mor
+: 2726 3 4 row 
+: 2731 3 6 it’s 
+: 2736 6 9 here 
+: 2746 6 16 and 
+: 2754 6 14 gone 
+: 2762 6 13 so 
+: 2770 6 14 fast
+: 2778 15 11 ~ 
+- 2803
+F 2825 3 4 Love 
+F 2830 3 6 is 
+F 2835 20 9 here 
+- 2865
+F 2874 3 13 To
+F 2879 4 11 day 
+F 2886 2 4 and 
+F 2890 3 6 it’s 
+F 2895 20 9 gone 
+E

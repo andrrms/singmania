@@ -1,0 +1,300 @@
+#ARTIST:Parry Gripp
+#TITLE:Halloween Halloween
+#MP3:Parry Gripp - Halloween Halloween.mp3
+#CREATOR:barbeque
+#COVER:Parry Gripp - Halloween Halloween [CO].jpg
+#BACKGROUND:Parry Gripp - Halloween Halloween [BG].jpg
+#YEAR:2023
+#LANGUAGE:English
+#BPM:280
+#GAP:4250
+#VIDEO:v=kUfN-m07VKw,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/67/94/3267940e-d83a-4edc-879d-a10937285021/artwork.jpg/5000x5000bb.jpg
+: 0 3 7 In 
+: 5 3 6 the 
+: 11 6 4 dead 
+: 21 3 4 of 
+: 27 3 7 the 
+: 32 6 11 night 
+: 44 3 11 where 
+: 50 3 11 the 
+: 56 8 12 zom
+: 67 6 12 bies 
+: 80 7 11 prowl, 
+- 93
+: 96 2 11 The 
+: 101 5 12 were
+: 111 7 12 wolves 
+: 123 7 11 howl 
+: 134 4 11 and 
+: 140 3 11 the 
+: 146 3 9 wit
+: 151 6 9 ches 
+: 164 11 6 scowl 
+- 187
+: 191 5 4 There 
+: 200 4 4 where 
+: 206 2 7 the 
+: 211 6 11 sun 
+: 223 3 11 dare 
+: 228 3 11 not 
+: 235 8 12 show 
+: 246 3 12 its 
+: 257 4 11 face 
+- 267
+: 269 2 11 In 
+: 273 2 11 the 
+: 280 7 12 grave
+: 289 8 12 yard 
+: 301 5 11 world 
+: 314 2 7 is 
+: 318 2 9 my 
+: 324 21 11 ha
+: 348 6 7 -a
+: 358 6 6 ppy 
+: 371 39 4 place 
+- 428
+: 482 3 7 Hal
+: 487 2 6 lo
+: 491 4 4 ween, 
+: 499 2 4 Hal
+: 503 2 7 lo
+: 507 5 11 ween, 
+: 514 2 11 it’s 
+: 518 2 14 the 
+: 523 2 16 ho
+: 527 2 16 li
+: 530 2 14 day 
+: 534 3 12 for 
+: 539 5 11 me 
+- 548
+: 550 2 11 The 
+: 555 2 16 how
+: 559 2 16 ling 
+: 563 2 14 and 
+: 567 2 12 the 
+: 571 5 11 screams 
+: 580 2 9 are 
+: 583 2 7 the 
+: 587 2 9 mu
+: 590 2 12 sic 
+: 595 2 11 of 
+: 598 2 9 my 
+: 602 6 11 dreams 
+- 608
+: 610 3 7 Hal
+: 615 2 6 lo
+: 619 4 4 ween, 
+: 627 2 4 Hal
+: 631 2 7 lo
+: 635 5 11 ween 
+: 647 2 14 is 
+: 651 2 16 where 
+: 655 2 16 I 
+: 658 3 14 want 
+: 662 3 12 to 
+: 667 4 11 be 
+- 672
+: 674 2 11 Trick 
+: 678 2 14 or 
+: 683 2 16 trea
+: 687 2 16 ting 
+: 691 2 14 on 
+: 695 2 12 the 
+: 699 2 11 night 
+: 703 2 11 called 
+: 707 2 9 Hal
+: 710 2 7 lo
+: 714 13 11 wee
+: 730 8 4 ~n 
+- 743
+R 745 8 4 Scream 
+- 759
+R 761 8 4 Scream 
+- 777
+R 780 2 4 Eve
+R 783 2 -1 ry
+R 786 2 0 bo
+R 789 2 4 dy 
+R 793 7 4 scream 
+- 804
+R 806 2 -1 A 
+R 810 3 4 night
+R 814 2 -1 mare 
+R 819 2 4 or 
+R 823 2 4 a 
+R 827 7 0 dream 
+- 837
+F 839 2 0 It’s 
+F 843 6 0 Hal
+F 851 6 0 lo
+F 859 7 0 ween 
+- 872
+R 874 6 4 Shout 
+- 887
+R 890 6 4 Shout 
+- 904
+R 907 2 4 Eve
+R 910 2 -1 ry
+R 913 2 -1 bo
+R 916 2 4 dy 
+R 922 4 4 shout 
+- 932
+R 934 2 -1 The 
+R 938 6 2 time 
+R 946 4 2 is 
+R 954 7 0 now 
+- 965
+F 967 2 0 It’s 
+F 971 6 0 Hal
+F 979 6 0 lo
+F 987 8 0 ween 
+- 1032
+* 1252 2 6 Hal
+* 1255 2 7 lo
+: 1260 4 4 ween, 
+: 1268 2 4 Hal
+* 1271 2 4 lo
+* 1275 5 4 ween, 
+: 1283 2 11 it’s 
+* 1287 2 11 the 
+* 1291 2 12 ho
+* 1295 2 12 li
+* 1299 2 12 day 
+: 1303 2 12 for 
+: 1307 6 11 me 
+- 1317
+: 1319 2 11 The 
+* 1323 2 12 how
+* 1327 2 12 ling 
+* 1331 2 12 and 
+: 1335 2 12 the 
+: 1339 5 11 screams 
+: 1348 2 11 are 
+: 1352 2 11 the 
+: 1356 2 9 mu
+: 1359 2 9 sic 
+: 1363 2 9 of 
+: 1366 2 9 my 
+: 1370 6 6 dreams 
+- 1378
+* 1380 2 6 Hal
+: 1384 2 6 lo
+: 1388 5 4 ween, 
+: 1395 2 4 Hal
+* 1399 2 4 lo
+* 1403 5 4 ween 
+: 1416 2 11 is 
+* 1419 3 12 where 
+* 1423 2 12 I 
+* 1427 3 12 want 
+: 1431 2 12 to 
+: 1435 5 11 be 
+- 1440
+: 1442 2 11 Trick 
+: 1446 2 11 or 
+* 1451 2 12 trea
+* 1455 2 12 ting 
+: 1459 2 12 on 
+: 1463 2 12 the 
+: 1467 2 11 night 
+: 1471 2 11 called 
+* 1475 3 11 Hal
+* 1479 2 7 lo
+: 1483 14 11 wee
+: 1500 6 4 ~n 
+- 1543
+F 1620 37 0 AAAAAAAHHHHHHHH! 
+- 1664
+: 1667 2 7 Hal
+: 1671 2 6 lo
+: 1675 5 4 ween, 
+: 1683 2 4 Hal
+: 1687 2 7 lo
+: 1691 5 11 ween, 
+: 1699 2 11 it’s 
+: 1703 2 14 the 
+: 1707 2 16 ho
+: 1711 2 16 li
+: 1715 2 14 day 
+: 1719 2 12 for 
+: 1723 5 11 me 
+- 1733
+: 1735 2 11 The 
+: 1739 2 16 how
+: 1743 2 16 ling 
+: 1747 2 14 and 
+: 1751 2 12 the 
+: 1755 4 11 screams 
+: 1763 2 9 are 
+: 1767 2 7 the 
+: 1771 2 9 mu
+: 1774 2 12 sic 
+: 1778 2 11 of 
+: 1781 2 9 my 
+: 1785 6 11 dreams 
+- 1794
+: 1796 2 7 Hal
+: 1799 2 6 lo
+: 1803 5 4 ween, 
+: 1811 2 4 Hal
+: 1814 2 7 lo
+: 1819 5 11 ween 
+: 1831 2 14 is 
+: 1835 2 16 where 
+: 1839 2 16 I 
+: 1843 2 14 want 
+: 1847 2 12 to 
+: 1851 5 11 be 
+- 1856
+: 1858 2 11 Trick 
+: 1862 2 14 or 
+: 1867 2 16 trea
+: 1871 2 16 ting 
+: 1875 2 14 on 
+: 1879 2 12 the 
+: 1883 2 11 night 
+: 1887 2 11 called 
+: 1891 2 9 Hal
+: 1895 2 7 lo
+: 1899 12 11 wee
+: 1914 8 4 ~n 
+- 1959
+: 2178 2 11 Trick 
+: 2182 2 14 or 
+: 2187 2 16 trea
+: 2191 2 16 ting 
+: 2195 2 14 on 
+: 2199 2 12 the 
+: 2203 2 11 night 
+: 2207 2 11 called 
+: 2211 2 9 Hal
+: 2215 2 7 lo
+: 2219 13 11 wee
+F 2234 4 4 ~n 
+- 2240
+: 2242 2 11 Trick 
+: 2246 2 14 or 
+: 2251 2 16 trea
+: 2255 2 16 ting 
+: 2259 2 14 on 
+: 2263 2 12 the 
+: 2267 2 11 night 
+: 2271 2 11 called 
+: 2275 2 9 Hal
+: 2279 2 7 lo
+: 2283 12 11 wee
+F 2298 4 4 ~n 
+- 2304
+: 2306 2 11 Trick 
+: 2310 2 14 or 
+: 2315 2 16 trea
+: 2319 2 16 ting 
+: 2323 2 14 on 
+: 2327 2 12 the 
+: 2331 2 11 night 
+: 2335 2 11 called 
+: 2339 2 9 Hal
+: 2343 2 7 lo
+: 2347 12 11 wee
+: 2364 6 4 ~n 
+E

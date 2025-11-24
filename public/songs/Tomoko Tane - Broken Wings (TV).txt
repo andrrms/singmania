@@ -1,0 +1,153 @@
+#ARTIST:Tomoko Tane
+#TITLE:Broken Wings (TV)
+#MP3:Tomoko Tane - Broken Wings (TV).mp3
+#CREATOR:reptils
+#GENRE:Anime
+#LANGUAGE:English
+#BPM:336.1
+#GAP:18800
+#VIDEO:v=DjWBjihMsas,co=https://www.jvcmusic.co.jp/img/jackets/VICL-35809.jpg
+: 0 3 -5 I 
+: 4 3 -5 know 
+: 8 8 -3 this 
+: 32 6 -5 will 
+: 40 6 -3 not 
+: 48 6 -1 re
+: 56 12 -5 main 
+- 70
+: 88 7 2 Fo
+: 96 15 2 re
+: 112 14 -3 ver 
+- 128
+: 160 7 -5 How
+: 168 7 -3 e
+: 176 7 -1 ver 
+: 184 7 0 it’s 
+: 192 16 -1 beau
+: 216 6 -3 ti
+: 224 12 -3 ful 
+- 238
+: 256 3 -5 Your 
+: 260 12 -3 eyes, 
+: 276 11 -3 hands 
+: 288 6 -3 and 
+: 296 6 -5 your 
+: 304 12 -1 warm 
+: 320 8 -5 smile 
+- 330
+: 336 7 -5 They’re 
+: 344 12 4 my 
+: 360 11 2 trea
+: 372 16 -3 sure 
+- 390
+: 416 6 -3 It’s 
+: 424 6 7 hard 
+: 432 6 6 to 
+: 440 6 2 for
+: 448 12 4 get 
+- 462
+: 514 3 -3 I 
+: 518 3 -1 wish 
+: 522 7 0 there 
+: 530 3 0 was 
+: 534 4 0 a 
+: 542 7 4 so
+: 550 9 2 lu
+: 560 8 -1 tion 
+- 570
+: 576 7 2 Don’t 
+: 584 7 4 spend 
+: 592 3 4 your 
+: 596 7 4 time 
+: 604 3 4 in 
+: 608 4 9 con
+: 616 8 6 fu
+: 628 8 2 sion 
+- 638
+: 640 7 2 I’ll 
+: 648 7 6 turn 
+: 656 7 7 back 
+: 664 7 9 now 
+: 672 11 12 and 
+: 684 7 11 spread
+: 692 52 9 ~ 
+- 746
+: 756 3 -3 My 
+: 760 7 -1 bro
+: 768 3 2 ken 
+: 772 12 4 wings 
+- 786
+: 800 7 6 Still 
+: 808 7 7 strong 
+: 816 3 6 e
+: 820 7 2 nough 
+: 828 8 -1 to 
+: 840 8 6 cross 
+: 852 3 4 the 
+: 856 7 6 o
+: 864 3 7 cean 
+: 868 12 7 with 
+- 882
+: 884 3 -3 My 
+: 888 7 -1 bro
+: 896 3 2 ken 
+: 900 16 4 wings 
+- 918
+: 928 7 7 How 
+: 936 7 9 far 
+: 944 3 6 should 
+: 948 7 2 I 
+: 956 11 9 go 
+: 968 7 9 drif
+: 976 3 7 ting 
+: 980 11 9 in 
+: 992 3 11 the 
+: 996 15 7 wind
+* 1012 1 6 ~
+* 1014 8 4 ~ 
+- 1024
+: 1074 5 -3 My 
+: 1080 7 -1 bro
+: 1088 3 2 ken 
+: 1092 16 4 wings 
+- 1110
+: 1120 7 6 Still 
+: 1128 7 7 strong 
+: 1136 3 6 e
+: 1140 7 2 nough 
+: 1148 11 -1 to 
+: 1160 8 6 cross 
+: 1172 3 4 the 
+: 1176 7 6 o
+: 1184 3 7 cean 
+: 1188 12 7 with 
+- 1202
+: 1204 3 -3 My 
+: 1208 7 -1 bro
+: 1216 3 2 ken 
+: 1220 16 4 wings 
+- 1238
+: 1248 7 7 How 
+: 1256 7 9 far 
+: 1264 3 6 should 
+: 1268 7 2 I 
+: 1276 11 9 go 
+: 1288 7 9 drif
+: 1296 3 7 ting 
+: 1300 11 9 in 
+: 1312 3 11 the 
+: 1316 15 7 wind
+: 1332 1 6 ~
+: 1334 8 4 ~ 
+- 1344
+: 1360 5 -1 A
+: 1366 6 2 cross 
+: 1376 3 4 the 
+: 1380 8 7 sky, 
+* 1392 7 6 just 
+* 1400 7 7 keep 
+* 1408 12 9 on 
+- 1422
+* 1440 65 9 Fly
+: 1506 48 4 ing 
+E

@@ -1,0 +1,368 @@
+#ARTIST:Linkin Park feat. Rakim
+#TITLE:Guilty All The Same
+#MP3:Linkin Park feat. Rakim - Guilty All The Same.mp3
+#CREATOR:prgoenner
+#GENRE:Alternative Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:200.44
+#GAP:94080
+#VIDEO:v=cEaEdLQbAFM,co=guilty-all-the-same-5363e3fc9b6ba.jpg,bg=linkin-park-4de523586c57e.jpg
+: 0 2 2 Tell 
+: 3 1 4 us 
+: 5 11 5 all 
+: 17 2 4 a
+: 20 8 2 gain 
+- 30
+: 31 2 2 What 
+: 34 2 4 you 
+: 37 5 1 think 
+: 43 3 1 we 
+: 47 4 1 should 
+: 52 8 4 be 
+- 62
+: 64 2 2 What 
+: 67 1 4 the 
+* 69 10 5 an
+: 80 4 4 swers 
+: 86 7 2 are 
+- 95
+: 96 2 2 What 
+: 99 1 4 it 
+: 101 4 5 is 
+: 106 3 5 we 
+: 110 4 7 can’t 
+: 115 8 4 see 
+- 125
+: 128 2 2 Tell 
+: 131 1 4 us 
+* 133 11 5 all 
+: 145 2 4 a
+: 148 9 2 gain 
+- 159
+: 160 2 2 How 
+: 163 1 4 to 
+: 165 4 1 do 
+: 170 5 1 what 
+: 176 2 2 you 
+: 180 8 4 say 
+- 190
+: 192 1 2 How 
+: 194 2 4 to 
+* 197 11 5 fall 
+: 209 2 4 in 
+: 212 8 2 line 
+- 222
+: 224 1 2 How 
+: 226 2 4 there’s 
+: 229 5 5 no 
+* 236 2 5 o
+* 239 4 7 ther 
+* 245 6 4 way 
+- 252
+* 253 3 4 Bu
+* 257 3 2 t 
+* 261 29 2 o
+* 292 12 4 oh 
+* 309 6 5 we 
+* 317 7 4 all 
+* 325 39 4 know 
+- 366
+* 369 3 9 You’re 
+* 373 3 9 guil
+* 377 2 9 ty 
+* 381 3 9 all 
+* 385 1 7 the 
+* 387 9 9 same 
+- 398
+: 400 3 9 Too 
+: 404 4 9 sick 
+: 409 2 7 to 
+: 413 2 7 be 
+: 417 1 5 a
+: 419 10 9 shamed 
+- 431
+: 433 3 9 You 
+: 437 3 9 want 
+: 441 1 9 to 
+: 443 3 9 point 
+: 447 3 7 your 
+: 451 4 7 fin
+: 456 3 5 ger 
+- 461
+: 464 1 9 But 
+: 466 3 9 there’s 
+: 470 2 9 no 
+: 473 4 7 one 
+: 478 2 7 else 
+: 481 2 5 to 
+: 484 7 7 blame 
+- 493
+: 496 4 9 You’re 
+: 501 3 9 guil
+: 505 3 9 ty 
+: 509 3 9 all 
+: 513 1 7 the 
+* 515 8 9 same 
+- 525
+: 528 3 9 Too 
+: 532 4 9 sick 
+: 537 2 7 to 
+: 541 3 7 be 
+: 545 1 5 a
+: 547 10 9 shamed 
+- 559
+: 561 3 9 You 
+: 565 3 9 want 
+: 569 2 9 to 
+: 572 3 9 point 
+: 576 2 7 your 
+: 579 4 7 fin
+: 584 4 5 ger 
+- 589
+: 590 1 9 But 
+: 592 5 9 there’s 
+: 598 2 9 no 
+: 601 4 9 one 
+: 606 2 9 else 
+: 609 2 9 to 
+: 612 7 9 blame 
+- 621
+* 625 3 9 You’re 
+* 629 3 9 guil
+* 633 3 9 ty 
+* 637 3 9 all 
+* 641 2 9 the 
+* 644 9 9 same 
+- 655
+: 769 2 2 Show 
+: 772 2 4 us 
+* 775 10 5 all 
+: 786 2 4 a
+: 789 7 2 gain 
+- 798
+: 801 2 2 That 
+: 804 1 4 our 
+: 806 6 1 hands 
+: 813 2 1 are 
+: 817 2 2 un
+: 821 9 4 clean 
+- 832
+: 833 2 2 That 
+: 836 2 4 we’re 
+* 839 9 5 un
+: 850 2 4 pre
+: 854 7 2 pared 
+- 863
+: 866 2 2 That 
+: 869 1 4 you 
+: 871 3 5 have 
+: 876 3 5 what 
+: 880 4 7 we 
+: 886 7 4 need 
+- 895
+: 897 3 2 Show 
+: 901 1 4 us 
+* 903 10 5 all 
+: 915 2 4 a
+: 918 7 2 gain 
+- 927
+: 930 2 2 Cause 
+: 933 1 4 we 
+: 935 4 1 can
+: 940 4 1 not 
+: 946 2 2 be 
+: 949 10 4 saved 
+- 961
+: 962 2 2 Cause 
+: 965 1 4 the 
+* 967 11 5 end 
+: 979 2 4 is 
+: 982 7 2 near 
+- 991
+: 993 2 2 Now 
+: 996 2 4 there’s 
+: 999 3 5 no 
+: 1004 3 5 o
+: 1008 4 7 ther 
+: 1014 6 4 way 
+- 1021
+* 1022 3 4 A
+* 1026 3 2 and 
+* 1030 29 2 o
+* 1062 8 4 oh, 
+* 1078 4 5 you 
+* 1085 6 4 will 
+* 1093 41 4 know 
+- 1136
+: 1138 3 9 You’re 
+: 1142 3 9 guil
+: 1146 2 9 ty 
+: 1150 3 9 all 
+: 1155 2 7 the 
+: 1158 8 9 same 
+- 1168
+: 1170 2 9 Too 
+: 1174 4 9 sick 
+: 1179 2 7 to 
+: 1182 2 7 be 
+: 1186 2 5 a
+: 1189 10 9 shamed 
+- 1201
+: 1202 3 9 You 
+: 1206 4 9 want 
+: 1211 2 9 to 
+: 1214 3 9 point 
+: 1218 2 7 your 
+: 1221 2 7 fin
+: 1224 4 5 ger 
+- 1230
+: 1234 1 9 But 
+: 1236 2 9 there’s 
+: 1239 3 9 no 
+: 1243 3 7 one 
+: 1247 3 7 else 
+: 1251 1 5 to 
+: 1253 7 7 blame 
+- 1262
+: 1266 3 9 You’re 
+: 1270 4 9 guil
+: 1275 2 9 ty 
+: 1279 3 9 all 
+: 1283 2 7 the 
+: 1286 8 9 same 
+- 1296
+: 1299 3 9 Too 
+: 1303 3 9 sick 
+: 1307 3 7 to 
+: 1311 3 7 be 
+: 1315 2 5 a
+: 1318 8 9 shamed 
+- 1328
+: 1331 3 9 You 
+: 1335 3 9 want 
+: 1339 2 9 to 
+: 1342 3 9 point 
+: 1346 3 7 your 
+: 1350 3 7 fin
+: 1354 2 5 ger 
+- 1357
+: 1358 3 9 But 
+: 1362 5 9 there’s 
+: 1368 3 9 no 
+: 1372 3 9 one 
+: 1376 2 9 else 
+: 1379 2 9 to 
+: 1382 5 9 blame 
+- 1389
+: 1394 4 9 There’s 
+: 1399 4 9 no 
+: 1404 3 9 one 
+: 1408 3 9 else 
+: 1412 1 9 to 
+: 1414 13 9 blame 
+- 1429
+: 1431 3 9 Guil
+: 1435 3 9 ty 
+: 1439 3 9 all 
+: 1443 2 9 the 
+: 1446 6 9 same 
+- 1454
+: 1495 3 9 Guil
+: 1499 3 9 ty 
+: 1503 3 9 all 
+: 1507 2 9 the 
+: 1510 7 9 same 
+- 1519
+: 1554 3 9 You’re 
+: 1559 4 9 guil
+: 1564 3 9 ty 
+: 1568 3 9 all 
+: 1572 1 9 the 
+* 1574 34 9 same 
+- 1610
+: 2581 4 9 You’re 
+: 2586 3 9 guil
+: 2590 3 9 ty 
+: 2594 3 9 all 
+: 2598 1 7 the 
+: 2600 10 9 same 
+- 2612
+: 2614 2 9 Too 
+: 2617 4 9 sick 
+: 2622 3 7 to 
+: 2627 2 7 be 
+* 2630 2 5 a
+* 2634 8 9 shamed 
+- 2644
+: 2647 3 9 You 
+: 2651 3 9 want 
+: 2655 1 9 to 
+: 2657 3 9 point 
+: 2661 2 7 your 
+: 2664 4 7 fin
+: 2669 4 5 ger 
+- 2674
+: 2675 2 9 But 
+: 2678 3 9 there’s 
+: 2682 3 9 no 
+: 2686 4 7 one 
+: 2691 2 7 else 
+: 2694 1 5 to 
+: 2697 8 7 blame 
+- 2707
+* 2710 4 9 You’re 
+* 2715 3 9 guil
+* 2719 2 9 ty 
+* 2722 3 9 all 
+* 2726 1 7 the 
+* 2728 8 9 same 
+- 2738
+: 2741 3 9 Too 
+: 2745 4 9 sick 
+: 2750 2 7 to 
+: 2754 3 7 be 
+: 2758 1 5 a
+: 2760 9 9 shamed 
+- 2771
+: 2774 4 9 You 
+: 2779 2 9 want 
+: 2782 2 9 to 
+: 2785 3 9 point 
+: 2789 2 7 your 
+: 2792 4 7 fin
+: 2797 4 5 ger 
+- 2803
+: 2805 1 9 But 
+: 2807 3 9 there’s 
+: 2811 3 9 no 
+: 2815 3 9 one 
+: 2819 3 9 else 
+: 2823 1 9 to 
+: 2825 8 9 blame 
+- 2835
+* 2838 4 9 There’s 
+* 2843 3 9 no 
+* 2847 3 9 one 
+* 2851 2 9 else 
+* 2854 2 9 to 
+* 2857 16 9 blame 
+- 2874
+: 2875 3 9 Guil
+: 2879 2 9 ty 
+: 2882 3 9 all 
+: 2886 1 7 the 
+: 2888 8 9 same 
+- 2898
+* 2938 4 9 Guil
+* 2943 3 9 ty 
+* 2947 2 9 all 
+* 2950 2 7 the 
+* 2953 9 9 same 
+- 2964
+* 3000 5 9 Gui
+* 3006 3 9 lty 
+* 3010 3 9 all 
+* 3014 1 7 the 
+* 3016 34 9 same 
+E

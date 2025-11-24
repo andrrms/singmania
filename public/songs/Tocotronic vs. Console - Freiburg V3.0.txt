@@ -1,0 +1,178 @@
+#ARTIST:Tocotronic vs. Console
+#TITLE:Freiburg V3.0
+#MP3:Tocotronic vs. Console - Freiburg V3.0.mp3
+#CREATOR:derbubu
+#GENRE:Electronic
+#YEAR:2000
+#LANGUAGE:English
+#BPM:255.91
+#GAP:34030
+#VIDEO:v=tA40w6AUY2Y,co=https://gfx2.decks.de/decks/gfx/co_raw/front/end_n/48u-fn.jpg,bg=tocotronic-507980c8bcbd8.jpg
+: 0 6 9 I 
+: 8 12 11 don’t 
+: 23 12 11 know 
+: 38 6 11 why 
+: 48 4 9 I 
+: 56 6 7 hate 
+: 65 5 9 you 
+: 73 4 7 so 
+: 80 11 7 much 
+- 93
+: 136 5 9 By
+: 144 2 11 ci
+: 148 2 11 cle 
+: 152 6 11 ri
+: 160 6 11 ders 
+: 169 5 11 in 
+: 177 11 9 this 
+: 193 17 7 town 
+- 212
+* 240 5 11 I 
+* 248 6 11 am 
+* 256 6 11 al
+* 264 5 11 one 
+* 272 5 7 now 
+* 280 6 7 and 
+* 289 6 7 I 
+* 297 6 7 know 
+* 305 8 9 it 
+- 315
+: 320 3 7 And 
+: 325 2 9 I 
+: 329 5 12 think 
+: 337 6 12 it’s 
+: 345 2 12 ev
+: 349 2 7 en 
+: 353 16 -1 cool 
+- 371
+: 376 5 9 And 
+: 384 4 7 you 
+: 392 3 9 de
+: 397 7 9 mon
+: 408 6 9 strate 
+: 417 5 7 comm
+: 424 3 9 un
+: 430 6 11 i
+: 438 16 9 ty 
+- 456
+: 512 6 9 I 
+: 520 12 11 don’t 
+: 535 13 11 know 
+: 551 7 11 why 
+: 560 6 9 I 
+: 569 5 7 hate 
+: 577 5 9 you 
+: 585 5 7 so 
+: 592 16 7 much 
+- 610
+: 640 5 9 Back
+: 648 4 11 gam
+: 654 6 11 mon 
+: 663 7 11 play
+: 673 6 11 ers 
+: 681 5 11 in 
+: 689 12 9 this 
+: 705 25 7 town 
+- 732
+* 751 6 11 I 
+* 759 5 11 am 
+* 768 5 11 al
+* 776 5 11 one 
+* 785 4 7 now 
+* 792 6 7 and 
+* 800 5 7 I 
+* 808 5 7 know 
+* 816 8 9 it 
+- 826
+: 832 3 7 And 
+: 836 2 9 I 
+: 841 6 12 think 
+: 849 5 12 it’s 
+: 857 2 12 ev
+: 861 2 7 en 
+: 867 12 11 cool 
+- 881
+: 888 5 9 And 
+: 896 6 7 you 
+: 905 2 9 de
+: 909 8 9 mon
+: 919 7 9 strate 
+: 929 6 7 comm
+: 937 2 9 un
+: 941 8 11 i
+: 951 17 9 ty 
+- 970
+: 1600 6 2 I 
+: 1608 12 4 don’t 
+: 1623 11 4 know 
+: 1636 2 4 why 
+: 1640 4 4 I 
+: 1647 6 4 hate 
+: 1655 6 4 you 
+: 1664 6 2 so 
+: 1672 13 2 much 
+- 1687
+: 1735 6 2 Dance 
+: 1744 6 4 the
+: 1752 6 4 a
+: 1760 6 4 ters 
+: 1769 5 4 in 
+: 1776 13 4 this 
+: 1792 18 2 town 
+- 1812
+: 1839 6 4 I 
+: 1848 6 4 am 
+: 1856 6 4 al
+: 1864 6 4 one 
+: 1872 6 0 now 
+: 1881 6 0 and 
+: 1888 6 -3 I 
+: 1897 6 -3 know 
+: 1904 6 -3 it 
+- 1912
+: 1919 3 -3 And 
+: 1923 2 -3 I 
+: 1927 6 0 think 
+: 1936 6 0 it’s 
+: 1944 2 0 ev
+: 1948 2 -3 en 
+: 1954 14 -1 cool 
+- 1970
+: 1976 5 9 And 
+: 1984 6 7 you 
+: 1992 2 9 de
+: 1996 8 9 mon
+: 2007 7 9 strate 
+: 2017 5 7 comm
+: 2025 2 9 un
+: 2029 7 11 i
+: 2038 12 9 ty 
+- 2052
+* 2096 6 7 I 
+* 2104 6 7 am 
+* 2112 6 7 al
+* 2120 6 7 one 
+* 2128 6 5 now 
+* 2136 6 4 and 
+* 2144 6 2 I 
+* 2153 6 2 know 
+* 2161 8 4 it 
+- 2171
+: 2175 2 4 And 
+: 2179 2 4 I 
+: 2184 5 4 think 
+: 2192 5 4 it’s 
+: 2200 2 2 ev
+: 2204 2 2 en 
+: 2210 11 2 cool 
+- 2223
+: 2230 7 0 And 
+: 2239 6 -1 you 
+: 2248 2 -3 de
+: 2252 7 -3 mon
+: 2262 6 -3 strate 
+: 2272 6 -5 comm
+: 2280 2 -3 un
+: 2284 8 -1 i
+: 2294 10 -3 ty 
+E

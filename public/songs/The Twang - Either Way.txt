@@ -1,0 +1,501 @@
+#ARTIST:The Twang
+#TITLE:Either Way
+#MP3:The Twang - Either Way.mp3
+#CREATOR:daggeg
+#YEAR:2007
+#LANGUAGE:English
+#BPM:227.37
+#GAP:26590
+#VIDEO:v=_yh_omPa4Po,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/b2/ec/5ab2ec8e-4c65-db6d-287e-177b3c58db21/194491053918.jpg/5000x5000bb.jpg,bg=the-twang-4ddaf14a393f0.jpg
+F 0 1 9 Yeah 
+F 2 1 9 I 
+F 4 3 9 feel 
+F 8 1 9 bet
+F 10 1 9 ter 
+F 12 1 9 to
+F 14 2 9 day, 
+F 26 2 9 I 
+F 29 3 9 think 
+F 33 2 9 that 
+F 36 1 9 it 
+F 38 1 9 was 
+F 40 3 11 just 
+F 44 1 11 a 
+F 46 5 11 phase, 
+- 60
+F 63 1 12 My 
+F 65 4 9 whole 
+F 70 1 12 l’ve 
+F 72 1 11 out
+F 74 3 10 look’s 
+F 79 7 9 changed 
+F 90 2 9 I’ve 
+F 93 1 9 ev
+F 95 1 9 en 
+F 97 5 9 stopped 
+F 104 3 9 fee
+F 108 2 9 lin’ 
+F 111 5 9 strange. 
+- 118
+F 120 2 11 I 
+F 123 1 9 can 
+F 125 1 12 un
+F 127 1 9 der
+F 129 4 12 stand 
+F 134 1 12 why 
+F 136 2 12 you 
+F 140 2 11 was 
+F 143 3 14 mad 
+F 147 4 11 now, 
+- 154
+F 156 2 14 Why 
+F 160 1 14 should 
+F 162 2 17 you 
+F 166 1 12 be 
+F 168 1 12 the 
+F 170 1 12 one 
+F 172 1 11 who 
+F 174 1 11 has 
+F 176 1 11 to 
+F 178 1 11 loose 
+F 181 3 9 out, 
+- 187
+F 189 2 9 Just 
+F 192 1 9 ’cause 
+F 194 2 11 I’m 
+F 201 2 9 on 
+F 205 2 9 one? 
+- 213
+F 215 1 9 I 
+F 217 1 9 said 
+F 219 1 9 “I’m 
+F 221 2 11 al
+F 224 1 9 ways 
+F 226 1 9 gon
+F 228 1 9 na 
+F 230 1 9 have 
+F 232 3 9 things 
+F 237 2 9 go
+F 240 1 8 ing 
+F 242 3 9 on!” 
+- 255
+: 273 3 14 I 
+: 277 3 14 feel 
+: 281 6 14 so 
+: 289 5 9 much 
+* 297 7 7 bet
+* 305 4 9 ter 
+: 313 7 7 to
+: 321 15 6 day 
+- 345
+: 348 5 14 Chase 
+: 357 3 9 the 
+: 361 5 14 bad 
+: 369 7 16 things 
+: 377 7 16 a
+: 385 95 14 way. 
+- 490
+F 503 1 11 I’m 
+F 505 1 11 so 
+F 507 3 12 glad 
+F 511 1 11 I 
+F 513 1 11 turned 
+F 516 1 11 the 
+F 519 4 12 cor
+F 524 1 11 ner 
+F 526 3 11 man, 
+- 531
+F 533 1 11 ’Cause 
+F 535 1 12 I 
+F 537 1 11 was 
+F 539 2 14 sick 
+F 542 1 11 of 
+F 544 3 11 feel
+F 548 2 11 in 
+F 551 6 12 rough 
+- 567
+F 575 1 14 I 
+F 577 1 14 was 
+F 579 1 12 get
+F 581 1 11 ting 
+F 584 2 14 pa
+F 587 1 12 ra
+F 589 4 11 noid 
+- 595
+F 597 1 12 A
+F 599 1 12 bout 
+F 601 1 12 the 
+F 603 2 14 sill
+F 606 2 14 i
+F 609 2 12 est 
+F 612 1 11 of 
+F 614 5 11 stuff. 
+- 629
+F 639 1 14 I 
+F 641 1 14 was 
+F 643 1 12 at 
+F 645 1 11 my 
+F 647 3 14 wit’s 
+F 652 1 11 end 
+- 653
+F 654 1 14 I 
+F 656 1 12 was 
+F 658 1 14 pul
+F 660 1 12 ling 
+F 662 1 11 my 
+F 664 1 14 hair 
+F 666 1 11 out, 
+- 667
+F 668 1 14 I’d 
+F 670 1 14 just 
+F 672 1 12 a
+F 674 1 11 bout 
+F 676 1 12 had 
+F 678 1 11 e
+F 680 5 12 nough. 
+- 695
+F 702 1 0 And 
+F 704 2 0 all 
+F 707 1 0 I 
+F 709 3 0 need
+F 713 1 0 ed 
+F 715 1 0 was 
+F 717 2 0 just 
+F 720 1 0 a 
+F 722 3 0 hug 
+F 726 1 0 and 
+F 728 1 0 that 
+F 730 2 0 lit
+F 733 1 0 tle 
+F 736 1 0 bit 
+F 738 1 0 of 
+F 742 7 0 love. 
+- 764
+: 783 3 14 I 
+: 787 3 14 feel 
+: 791 6 14 so 
+: 800 5 9 much 
+: 808 7 7 bet
+: 816 4 9 ter 
+: 824 7 7 to
+: 832 15 6 day, 
+- 853
+: 855 2 14 I 
+: 858 5 14 chase 
+: 868 3 9 the 
+: 872 5 16 bad 
+: 879 7 16 things 
+: 887 7 16 a
+: 895 48 14 way. 
+- 947
+F 949 1 0 And 
+F 951 2 0 I 
+F 954 2 0 real
+F 957 2 0 ly 
+F 961 2 0 do 
+F 964 2 0 feel 
+F 967 3 0 so 
+F 972 3 0 much 
+F 976 1 0 bet
+F 978 2 0 ter 
+- 983
+F 985 2 0 I 
+F 988 1 0 real
+F 990 2 0 ly 
+F 993 2 0 do 
+F 997 2 0 feel 
+F 1001 3 0 so 
+F 1005 3 0 much 
+F 1009 1 0 bet
+F 1011 3 0 ter. 
+- 1029
+: 1045 1 6 And 
+: 1047 2 6 I’ve 
+: 1050 1 6 got
+: 1052 1 6 ta 
+: 1054 3 6 find 
+: 1059 3 6 my 
+: 1063 3 6 phone 
+* 1067 2 6 to 
+* 1070 4 6 tell 
+* 1077 8 2 yer, 
+- 1095
+: 1114 1 6 May
+: 1116 1 6 be 
+: 1118 3 6 e
+: 1122 2 6 ven 
+: 1125 3 6 write 
+: 1129 1 6 you 
+: 1131 1 6 a 
+: 1133 3 6 love 
+: 1137 1 9 let
+: 1139 3 6 ter. 
+- 1152
+: 1170 5 6 Ah 
+: 1177 2 6 ei
+: 1180 2 2 ther
+: 1183 2 2 way 
+: 1187 1 -1 I’ve 
+: 1189 2 2 got
+: 1192 2 2 ta 
+: 1196 6 4 tell 
+: 1204 12 6 ya 
+- 1226
+: 1238 3 6 Ah 
+* 1242 1 6 ei
+* 1244 2 2 ther
+* 1247 2 2 way 
+: 1250 1 -1 I’ve 
+: 1252 3 2 got
+: 1256 2 2 ta 
+: 1259 5 4 tell 
+: 1268 9 2 ya, 
+- 1287
+: 1294 3 14 I 
+: 1298 3 14 feel 
+: 1302 6 14 so 
+: 1310 5 9 much 
+: 1318 7 7 bet
+: 1326 4 9 ter 
+: 1334 6 7 to
+: 1342 15 6 day, 
+- 1363
+: 1366 2 14 I 
+: 1370 5 14 chase 
+: 1378 3 9 the 
+: 1382 5 14 bad 
+: 1390 7 16 things 
+: 1398 7 16 a
+: 1406 90 14 way. 
+- 1511
+F 1527 1 0 And 
+F 1529 1 0 yeah 
+F 1531 1 0 I 
+F 1533 2 0 real
+F 1536 1 0 ly 
+F 1538 3 0 do 
+F 1542 2 0 feel 
+F 1545 1 0 bet
+F 1547 2 0 ter 
+F 1556 1 0 and 
+F 1558 1 0 it 
+F 1560 1 0 al
+F 1562 3 0 most 
+F 1566 3 0 don’t 
+F 1570 3 0 feel 
+F 1574 6 0 right 
+- 1586
+F 1588 1 0 So 
+F 1590 1 0 I’m 
+F 1592 1 0 gon
+F 1594 1 0 na 
+F 1596 1 0 store 
+F 1598 1 0 this 
+F 1600 2 0 thought 
+F 1604 1 0 a
+F 1606 3 0 way 
+F 1610 1 0 for 
+F 1612 1 0 a 
+F 1614 2 0 bit, 
+- 1617
+F 1619 1 0 And 
+F 1621 1 0 I’m 
+F 1623 1 0 not 
+F 1625 1 0 say
+F 1627 1 0 ing 
+F 1629 1 0 it 
+F 1631 1 0 ain’t 
+F 1633 1 0 gon
+F 1635 1 0 na 
+F 1637 1 0 be 
+F 1639 1 0 hard 
+F 1641 1 0 at 
+F 1643 3 0 times, 
+- 1650
+F 1652 1 0 ’Cause 
+F 1654 1 0 it’s 
+F 1656 1 0 al
+F 1658 2 0 ways 
+F 1661 1 0 your 
+F 1663 2 0 fa
+F 1666 1 0 vour
+F 1668 1 0 ate 
+F 1670 2 0 top 
+F 1673 3 0 you 
+F 1677 3 0 bin, 
+- 1682
+F 1684 2 0 But 
+F 1687 3 0 think 
+F 1692 1 0 man 
+F 1694 1 0 it 
+F 1696 1 0 could 
+F 1698 1 0 have 
+F 1700 3 0 been 
+F 1704 1 0 your 
+F 1707 4 0 skin. 
+- 1714
+F 1716 1 0 And 
+F 1718 1 0 I 
+F 1720 3 0 think 
+F 1724 1 0 that 
+F 1726 1 0 we 
+F 1728 1 0 might 
+F 1730 2 0 just 
+F 1733 2 0 be 
+F 1736 3 0 O
+F 1740 3 0 K, 
+- 1747
+F 1749 1 0 But 
+F 1751 2 0 what 
+F 1754 2 0 does 
+F 1757 1 0 it 
+F 1759 1 0 mat
+F 1761 1 0 ter 
+F 1766 2 0 ei
+F 1769 1 0 ther 
+F 1771 6 0 way, 
+- 1778
+F 1780 1 0 ’Cause 
+F 1782 3 0 she’s 
+F 1788 1 0 the 
+F 1790 2 0 one 
+F 1793 1 0 that’s 
+F 1795 5 0 al
+F 1801 2 0 ways 
+F 1804 3 0 there. 
+- 1809
+F 1811 2 0 Yeah 
+F 1814 3 0 she’s 
+F 1819 1 0 the 
+F 1821 2 0 one 
+F 1824 1 0 that 
+F 1826 3 0 al
+F 1830 2 0 ways 
+F 1833 5 0 cares. 
+- 1840
+F 1842 2 0 Yeah 
+F 1845 3 0 she’s 
+F 1851 1 0 the 
+F 1853 2 0 one 
+F 1856 2 0 that’s 
+F 1859 5 0 al
+F 1865 1 0 ways 
+F 1867 4 0 there. 
+- 1874
+F 1876 2 0 ’Cause 
+F 1879 4 0 your 
+F 1884 1 0 the 
+F 1886 2 0 one 
+F 1889 1 0 that 
+F 1891 4 0 al
+F 1896 1 0 ways 
+F 1898 3 0 cares. 
+- 1902
+: 1904 1 4 I 
+: 1906 4 9 love 
+: 1912 5 6 ya. 
+- 1927
+: 1939 2 6 I’ve 
+: 1943 2 6 got
+: 1946 1 6 ta 
+: 1948 3 6 find 
+: 1952 2 6 my 
+: 1955 4 6 phone 
+: 1960 2 6 to 
+: 1963 5 6 tell 
+: 1969 5 2 ’er 
+- 1984
+: 1999 5 6 Ahhh, 
+: 2007 2 6 may
+: 2010 1 6 be 
+: 2012 3 6 e
+: 2016 2 6 ven 
+: 2019 4 6 write 
+: 2024 1 6 you 
+: 2026 1 6 a 
+* 2028 2 6 love 
+* 2031 1 9 let
+* 2033 9 6 ter. 
+- 2052
+: 2062 5 6 Ahh, 
+: 2070 2 6 ei
+: 2073 2 2 ther
+: 2076 3 2 way 
+: 2081 1 -1 I’ve 
+: 2083 2 2 got
+: 2086 2 2 ta 
+: 2091 5 4 tell 
+: 2098 15 6 ya, 
+- 2123
+: 2131 2 6 Ah 
+: 2135 2 6 ei
+: 2138 1 2 ther
+: 2140 2 2 way 
+: 2144 2 -1 I’ve 
+: 2147 2 2 got
+: 2150 2 2 ta 
+: 2153 6 4 tell 
+: 2162 8 2 ya, 
+- 2180
+* 2196 2 6 Ahh 
+* 2199 1 6 ei
+* 2201 1 2 ther
+* 2203 2 2 way 
+: 2208 1 -1 I’ve 
+: 2210 2 2 got
+: 2213 2 2 ta 
+: 2216 6 4 tell 
+: 2225 8 6 ya 
+- 2243
+: 2256 3 6 Ah 
+: 2262 2 6 ei
+: 2265 1 2 ther
+: 2267 2 2 way 
+: 2271 1 -1 I’ve 
+: 2274 1 2 got
+: 2276 2 2 ta 
+: 2282 6 4 tell 
+- 2294
+: 2296 1 6 Ei
+: 2298 1 2 ther
+: 2300 3 2 way 
+: 2307 1 6 ei
+: 2309 1 2 ther
+: 2311 8 2 way 
+- 2325
+: 2327 1 6 Ei
+: 2329 1 2 ther
+: 2331 3 2 way 
+: 2339 1 6 ei
+: 2341 1 2 ther
+: 2343 8 2 way 
+- 2357
+: 2359 1 6 Ei
+: 2361 1 2 ther
+: 2363 3 2 way 
+: 2371 1 6 ei
+: 2373 1 2 ther
+: 2375 8 2 way 
+- 2388
+: 2390 1 6 Ei
+: 2392 1 2 ther
+: 2394 3 2 way 
+: 2403 6 1 ei
+: 2410 6 2 ther
+: 2417 11 2 way 
+- 2438
+: 2454 1 6 Ei
+: 2456 1 2 ther
+: 2458 3 2 way 
+: 2467 6 1 ei
+: 2474 7 2 ther
+: 2482 10 2 way 
+- 2502
+* 2514 2 6 Ah 
+* 2519 1 6 ei
+* 2521 1 2 ther
+* 2523 3 2 way 
+* 2530 3 6 ei
+* 2535 1 2 ther
+* 2537 8 2 way 
+E

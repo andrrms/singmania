@@ -1,0 +1,258 @@
+#ARTIST:The Drifters
+#TITLE:Save The Last Dance For Me
+#MP3:The Drifters - Save The Last Dance For Me.mp3
+#CREATOR:Tita
+#YEAR:1960
+#LANGUAGE:English
+#BPM:286.5
+#GAP:2880
+#VIDEO:a=BmTmF6neTTg,co=save-the-last-dance-for-me-59c0f0be97d03.jpg
+: 0 3 3 You 
+: 4 3 5 can 
+: 8 6 7 dance 
+: 32 3 7 eve
+: 36 2 7 ry 
+: 40 6 7 dance 
+- 46
+: 48 3 7 With 
+: 52 2 7 the 
+: 56 6 7 guy 
+: 64 4 7 who 
+: 70 6 7 gave 
+: 80 2 7 you 
+: 84 2 7 the 
+: 88 4 7 eye 
+- 94
+: 96 2 8 Let 
+: 100 2 7 him 
+: 104 5 7 hold 
+: 110 4 5 you 
+: 116 10 5 tight. 
+- 136
+: 154 6 5 You 
+: 162 2 7 can 
+: 168 6 8 smile 
+: 190 3 8 eve
+: 194 4 8 ry 
+: 200 6 8 smile 
+- 206
+: 208 2 8 For 
+: 212 2 8 the 
+: 216 5 8 man 
+: 222 3 8 who 
+: 226 6 8 held 
+: 236 4 8 your 
+: 244 7 8 hand 
+- 251
+: 252 3 10 ’Neath 
+: 256 3 8 the 
+: 260 7 8 pale 
+: 268 3 7 moon
+: 272 10 7 light. 
+- 292
+: 302 5 7 But 
+: 308 7 8 don’t 
+: 316 7 10 for
+: 324 7 12 get 
+: 332 3 12 who’s 
+: 336 4 12 ta
+: 342 5 12 king 
+: 348 4 14 you 
+: 354 8 15 home 
+- 362
+: 364 4 15 And 
+: 370 1 17 in 
+: 372 5 15 whose 
+: 378 4 14 arms 
+: 384 3 12 you’re 
+: 388 5 12 gon
+: 394 3 10 na 
+: 398 6 10 be. 
+- 414
+: 440 7 10 So 
+: 448 3 10 dar
+: 452 18 5 lin’ 
+: 472 6 5 save 
+: 484 3 7 the 
+: 488 7 8 last 
+: 496 11 7 dance 
+: 508 7 5 for 
+: 516 6 3 me. 
+- 541
+: 570 3 3 Oh 
+: 574 5 5 I 
+: 580 6 7 know 
+: 602 4 7 that 
+: 608 1 7 the 
+: 610 5 7 mu
+: 616 1 7 sic 
+: 618 3 7 is 
+: 622 9 7 fine 
+- 631
+: 632 5 7 Like 
+: 638 5 7 spark
+: 644 6 7 ling 
+: 652 5 7 wi
+: 658 6 7 ne 
+: 668 3 8 go 
+: 672 3 7 and 
+: 676 5 7 have 
+: 682 5 5 your 
+: 688 16 5 fun. 
+- 714
+: 732 3 5 Laugh 
+: 736 3 7 and 
+: 740 8 8 sing 
+: 760 3 8 but 
+: 764 1 8 wh
+: 766 5 8 ile 
+: 772 5 8 we’re 
+: 778 1 8 a
+: 780 6 8 part 
+- 795
+: 798 5 8 Don’t 
+: 804 5 8 give 
+: 810 2 8 your 
+: 820 11 8 heart 
+: 832 3 10 to
+: 836 2 8 ~ 
+: 840 7 8 a
+: 848 3 7 ny
+: 852 12 7 one. 
+- 876
+: 880 5 7 But 
+: 886 7 8 don’t 
+: 894 7 10 for
+: 902 5 12 get 
+: 908 5 12 who’s 
+: 914 5 12 ta
+: 920 5 12 king 
+: 926 3 14 you 
+: 930 11 15 home 
+- 941
+: 942 3 15 And 
+: 946 4 17 in 
+: 952 3 15 whose 
+: 956 4 14 arms 
+: 964 2 12 you’re 
+: 968 3 12 gon
+: 972 3 10 na 
+: 976 8 10 be. 
+- 1003
+: 1024 6 10 So 
+: 1032 3 10 dar
+: 1036 18 5 lin’ 
+: 1056 3 5 save 
+: 1060 3 7 the 
+: 1064 15 8 last 
+: 1080 7 7 dance 
+: 1088 7 5 for 
+: 1096 20 3 me. 
+- 1126
+: 1136 2 -2 Ba
+: 1140 2 -2 by 
+: 1144 2 3 don’t 
+: 1148 3 3 you 
+: 1152 3 0 know 
+: 1156 3 -2 I 
+: 1160 7 2 love 
+: 1168 3 5 you 
+: 1172 10 5 so? 
+- 1192
+: 1200 2 2 Can’t 
+: 1204 3 2 you 
+: 1208 2 5 feel 
+: 1212 3 5 it 
+: 1216 1 2 when 
+: 1218 3 2 we 
+: 1222 6 3 touch? 
+- 1238
+: 1264 2 -2 I 
+: 1268 3 -2 will 
+: 1272 2 3 ne
+: 1276 3 3 ver 
+: 1280 3 0 ne
+: 1284 2 -2 ver 
+F 1288 1 5 let 
+: 1290 2 5 you 
+: 1296 2 5 go
+: 1300 12 5 ~. 
+- 1322
+: 1332 2 10 I 
+: 1336 3 10 love 
+: 1340 3 8 you 
+: 1344 3 7 oh 
+: 1348 3 5 so 
+: 1352 6 3 much. 
+- 1377
+: 1408 3 3 You 
+: 1412 3 5 can 
+: 1416 6 7 dance 
+: 1440 2 7 go 
+: 1444 2 7 and 
+: 1448 6 7 car
+: 1456 2 7 ry 
+: 1460 10 7 on 
+- 1470
+: 1472 2 7 Till 
+: 1476 2 7 the 
+: 1480 6 7 night 
+: 1488 2 7 is 
+: 1492 8 7 gone 
+: 1504 3 8 and 
+: 1508 2 7 it’s 
+: 1512 7 7 time 
+: 1520 3 5 to 
+: 1524 12 5 go. 
+- 1546
+: 1568 3 5 If 
+: 1572 3 7 he 
+: 1576 6 8 asks 
+: 1600 2 8 if 
+: 1604 2 8 you’re 
+: 1608 6 8 all 
+: 1616 2 8 a
+: 1620 10 8 lone 
+- 1630
+: 1632 2 8 Can 
+: 1636 2 8 he 
+: 1640 6 8 take 
+: 1648 2 8 you 
+: 1652 11 8 home 
+- 1663
+: 1664 3 10 You 
+: 1668 2 8 must 
+: 1672 7 8 tell 
+: 1680 3 7 him 
+: 1684 8 7 no. 
+- 1702
+: 1712 7 7 ’Cause 
+: 1720 7 8 don’t 
+: 1728 7 10 for
+: 1736 6 12 get 
+- 1742
+: 1744 6 12 Who’s 
+: 1752 3 12 ta
+: 1756 7 12 king 
+: 1764 3 14 you 
+: 1768 6 15 home 
+- 1774
+: 1776 4 15 And 
+: 1784 3 17 in 
+: 1788 3 15 whose 
+: 1792 3 14 a
+: 1796 2 12 ~rms 
+: 1800 7 12 you’re 
+: 1808 3 10 gonna 
+: 1812 14 10 be. 
+- 1836
+: 1856 7 10 So 
+: 1864 3 10 dar
+: 1868 17 5 lin’ 
+: 1886 7 5 save 
+: 1894 3 7 the 
+: 1898 13 8 last 
+: 1912 11 7 dance 
+: 1924 7 5 for 
+: 1932 26 3 me. 
+E

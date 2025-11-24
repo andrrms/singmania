@@ -1,0 +1,540 @@
+#ARTIST:Linkin Park
+#TITLE:Wastelands
+#MP3:Linkin Park - Wastelands.mp3
+#CREATOR:JKA
+#GENRE:Alternative Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:339.77
+#GAP:23540
+#VIDEO:v=h6sFG7qOd4A,co=wastelands-56e48445dadbb.jpg,bg=linkin-park-4de523586c57e.jpg
+F 0 1 0 This 
+F 4 1 0 is 
+F 9 5 0 war 
+F 15 2 0 with 
+F 19 5 0 no 
+F 28 3 0 weap
+F 33 2 0 ons 
+- 37
+F 40 3 0 March
+F 45 1 0 in 
+F 48 1 0 with 
+F 51 5 0 no 
+F 60 2 0 step
+F 65 2 0 pin’ 
+- 69
+F 72 3 0 Mur
+F 76 1 0 der 
+F 80 1 0 with 
+F 84 4 0 no 
+F 92 3 0 kil
+F 97 5 0 lin’ 
+- 104
+F 105 2 0 Il
+F 109 1 0 lin’ 
+F 112 2 0 eve
+F 116 2 0 ry 
+F 120 1 0 di
+F 124 4 0 rec
+F 132 2 0 tion 
+F 137 3 0 first 
+- 142
+F 148 3 0 No 
+F 155 2 0 se
+F 160 2 0 quel, 
+F 164 2 0 do 
+F 168 2 0 the 
+F 171 5 0 math, 
+F 180 4 0 no 
+F 187 3 0 e
+F 193 3 0 qual 
+- 198
+F 200 6 0 John 
+F 207 3 0 with 
+F 211 7 0 no 
+F 219 3 0 Yo
+F 224 1 0 ko 
+- 227
+F 228 5 0 More 
+F 235 3 0 po
+F 239 2 0 wer, 
+F 244 3 0 less 
+F 252 3 0 peo
+F 256 2 0 ple 
+F 259 3 0 and 
+F 264 4 0 no 
+- 270
+F 273 2 0 I’m 
+F 276 5 0 not 
+F 282 1 0 a
+F 284 3 0 fraid 
+F 288 3 0 of 
+F 292 4 0 that 
+- 298
+F 301 3 0 Print 
+F 305 2 0 it 
+F 308 2 0 in 
+F 311 3 0 your 
+F 316 4 0 pa
+F 321 2 0 per
+F 324 5 0 back 
+- 331
+F 332 2 0 Eve
+F 335 2 0 ry 
+F 339 4 0 rap 
+F 345 1 0 is 
+F 348 3 0 made 
+F 352 2 0 in 
+F 356 2 0 fact 
+- 360
+F 361 2 0 To 
+F 364 3 0 act 
+F 369 1 0 as 
+F 372 3 0 a 
+F 376 2 0 de
+F 379 4 0 layed 
+F 384 2 0 at
+F 388 5 0 tack 
+- 395
+F 396 2 0 Eve
+F 399 3 0 ry 
+F 403 4 0 phrase 
+F 408 2 0 a 
+F 411 4 0 ra
+F 416 3 0 zor 
+F 420 1 0 blade 
+- 422
+F 423 1 0 That’s 
+F 428 3 0 saved 
+F 432 2 0 un
+F 436 2 0 til 
+F 439 3 0 they 
+F 444 3 0 play 
+F 448 2 0 it 
+F 451 2 0 back 
+- 455
+F 456 1 0 To 
+F 460 3 0 slay 
+F 464 2 0 and 
+F 468 3 0 leave 
+F 472 3 0 ’em 
+F 476 2 0 lay
+F 479 1 0 ing 
+- 482
+F 483 3 0 On 
+F 487 3 0 the 
+F 492 6 0 pave
+F 500 5 0 ment 
+F 508 3 0 fade 
+F 512 4 0 to 
+F 517 6 0 black 
+- 525
+: 542 3 2 In 
+: 546 3 5 the 
+* 550 7 9 waste
+: 561 6 7 lands 
+: 570 6 5 of 
+: 579 2 7 to
+: 582 11 9 day
+: 595 3 2 ~ 
+- 600
+: 606 3 2 When 
+: 610 2 5 there’s 
+: 615 11 9 no
+: 627 7 7 thing 
+: 635 6 5 left 
+: 643 3 7 to 
+: 647 10 9 lose
+: 659 3 2 ~ 
+- 664
+: 670 2 0 And 
+: 674 2 2 there’s 
+: 679 3 7 no
+: 683 5 9 ~
+: 691 6 9 thing 
+: 699 7 9 more 
+: 707 3 7 to 
+: 711 10 7 take 
+- 723
+: 734 2 4 But 
+: 738 1 5 you 
+: 742 8 9 force 
+: 754 6 9 your
+: 762 4 9 self
+: 767 1 7 ~ 
+: 770 1 7 to 
+: 776 11 7 choose 
+- 789
+: 799 1 2 In 
+: 802 2 5 the 
+: 806 7 9 waste
+: 818 5 7 lands 
+: 826 6 5 of 
+: 834 3 7 to
+: 838 9 9 day
+: 849 2 2 ~ 
+- 853
+: 863 2 2 Where 
+: 867 1 5 to
+: 871 9 9 mor
+: 882 2 9 row
+: 886 2 2 ~ 
+* 891 5 12 dis
+* 899 1 12 ap
+: 903 4 10 pears
+: 908 4 9 ~
+: 913 2 6 ~ 
+- 917
+: 927 2 0 While 
+: 930 2 2 the 
+: 934 8 9 fu
+: 945 5 9 ture 
+: 954 6 9 slips 
+: 963 2 7 a
+: 967 13 7 way 
+- 982
+: 991 2 1 And 
+: 995 2 3 your 
+: 998 9 9 hope 
+: 1011 4 9 turns 
+: 1019 5 9 in
+: 1027 2 7 to 
+: 1032 13 7 fear 
+- 1047
+: 1057 4 9 In 
+: 1062 1 9 the 
+: 1066 5 9 waste
+: 1074 5 9 lands 
+: 1082 5 9 of 
+: 1090 3 7 to
+: 1094 8 9 day
+: 1103 3 7 ~ 
+- 1108
+F 1234 5 0 Roll 
+F 1243 3 0 cred
+F 1247 1 0 its, 
+F 1251 2 0 you 
+F 1256 2 0 get 
+F 1259 2 0 it 
+F 1263 1 0 the 
+F 1269 4 0 show’s 
+F 1276 4 0 done 
+- 1282
+F 1283 2 0 They’re 
+F 1288 4 0 tal
+F 1293 1 0 king 
+F 1296 1 0 for 
+F 1300 2 0 just 
+F 1308 3 0 tal
+F 1312 1 0 king 
+- 1314
+F 1315 2 0 But 
+F 1319 4 0 mea
+F 1324 2 0 ning, 
+F 1327 3 0 they 
+F 1331 5 0 got 
+F 1339 3 0 none 
+- 1344
+F 1353 1 0 None 
+F 1355 2 0 of 
+F 1359 2 0 ’em 
+F 1364 4 0 come 
+F 1371 3 0 pro
+F 1376 1 0 per 
+- 1378
+F 1379 2 0 They 
+F 1384 2 0 talk 
+F 1389 1 0 like 
+F 1392 1 0 a 
+F 1396 2 0 shot
+F 1403 4 0 gun 
+- 1409
+F 1411 3 0 But 
+F 1415 4 0 how 
+F 1420 2 0 ma
+F 1423 2 0 ny 
+F 1427 3 0 got 
+F 1435 4 0 bred 
+F 1441 1 0 with 
+F 1443 2 0 in
+F 1448 2 0 teg
+F 1453 1 0 ri
+F 1455 2 0 ty? 
+- 1459
+F 1460 4 0 Not 
+F 1467 4 0 one, 
+F 1475 2 0 so 
+F 1480 4 0 no 
+- 1486
+F 1487 2 0 I’m 
+F 1491 3 0 not 
+F 1496 1 0 a
+F 1499 3 0 fraid 
+F 1503 1 0 to 
+F 1506 2 0 see 
+- 1510
+F 1512 2 0 These 
+F 1515 1 0 suc
+F 1519 1 0 kers 
+F 1523 3 0 hold 
+F 1527 2 0 a 
+F 1531 3 0 blade 
+F 1535 2 0 to 
+F 1539 4 0 me 
+- 1545
+F 1547 3 0 Ain’t 
+F 1551 1 0 no 
+F 1555 2 0 way 
+F 1558 1 0 to 
+F 1563 1 0 shake 
+F 1566 2 0 the 
+F 1570 1 0 ground 
+- 1573
+F 1574 3 0 I 
+F 1578 2 0 built 
+F 1582 2 0 be
+F 1586 2 0 fore 
+F 1590 1 0 you 
+F 1594 3 0 came 
+F 1599 2 0 to 
+F 1602 4 0 be 
+- 1608
+F 1610 3 0 Take 
+F 1616 1 0 it 
+F 1619 3 0 how 
+F 1623 3 0 you 
+F 1628 1 0 take 
+F 1632 1 0 it 
+- 1634
+F 1635 3 0 I’m 
+F 1640 2 0 the 
+F 1643 2 0 op
+F 1647 1 0 po
+F 1651 3 0 site 
+F 1655 1 0 of 
+F 1659 2 0 va
+F 1663 1 0 can
+F 1668 1 0 cy 
+- 1670
+F 1670 2 0 And 
+F 1674 2 0 this 
+F 1679 1 0 is 
+F 1682 3 0 not 
+F 1687 1 0 ne
+F 1690 3 0 go
+F 1695 3 0 ti
+F 1699 2 0 a
+F 1704 1 0 tion 
+- 1706
+F 1706 4 0 Y’all 
+F 1712 1 0 can 
+F 1715 3 0 hate 
+F 1721 1 0 and 
+F 1723 2 0 wait 
+F 1727 1 0 and 
+F 1732 6 0 see 
+- 1740
+: 1758 2 2 In 
+: 1761 1 5 the 
+: 1765 7 9 waste
+: 1777 5 7 lands 
+: 1785 5 5 of 
+: 1794 2 7 to
+: 1797 13 9 day
+: 1811 2 2 ~ 
+- 1815
+: 1822 2 2 When 
+: 1825 2 2 there’s 
+: 1831 10 9 no
+: 1842 6 7 thing 
+: 1850 6 5 left 
+: 1858 3 7 to 
+* 1862 11 9 lose
+* 1874 3 3 ~ 
+- 1879
+: 1885 2 1 And 
+: 1889 2 2 there’s 
+* 1895 2 7 no
+* 1898 5 9 ~
+: 1906 5 9 thing 
+: 1913 8 9 more 
+: 1922 4 7 to 
+: 1927 9 7 take 
+- 1938
+: 1950 1 2 But 
+: 1954 1 7 you 
+: 1958 7 9 force 
+: 1970 4 9 your
+: 1977 6 9 self 
+: 1986 1 7 to 
+: 1991 11 7 choose 
+- 2004
+: 2014 1 2 In 
+: 2017 2 4 the 
+: 2021 6 9 waste
+: 2033 5 7 lands 
+: 2041 5 5 of 
+: 2050 2 7 to
+: 2054 7 9 day
+: 2062 2 8 ~ 
+- 2066
+: 2078 2 2 Where 
+: 2083 1 5 to
+: 2086 10 9 mor
+: 2097 5 9 row 
+: 2106 4 12 dis
+: 2113 2 12 ap
+: 2117 3 10 pears
+: 2121 5 9 ~
+: 2128 2 6 ~ 
+- 2132
+* 2142 1 1 While 
+* 2145 1 2 the 
+: 2150 6 9 fu
+: 2161 4 9 ture 
+: 2170 5 9 slips 
+: 2179 2 7 a
+: 2182 12 7 way 
+- 2196
+: 2206 1 1 And 
+: 2210 2 3 your 
+: 2213 9 9 hope 
+: 2225 7 9 turns 
+: 2234 5 9 in
+: 2242 2 7 to 
+: 2247 13 7 fear 
+- 2262
+: 2268 2 2 And 
+: 2273 2 3 your 
+: 2277 8 9 hope 
+: 2290 4 7 turns 
+: 2298 5 5 in
+: 2306 1 7 to 
+: 2310 5 10 fear
+: 2316 4 9 ~
+: 2321 1 8 ~
+: 2323 3 2 ~ 
+- 2328
+: 2337 2 9 In 
+: 2341 2 9 the 
+: 2345 4 9 waste
+: 2353 5 9 lands 
+: 2361 4 9 of 
+: 2370 1 7 to
+: 2373 7 9 day
+: 2382 5 4 ~ 
+- 2389
+: 2844 2 0 In 
+: 2848 2 2 the 
+: 2853 3 7 waste
+: 2857 5 9 ~
+: 2865 5 7 lands 
+: 2873 5 5 of 
+: 2881 3 4 to
+: 2886 12 2 day 
+- 2900
+: 2910 1 0 When 
+: 2912 1 2 there’s 
+* 2918 2 7 no
+* 2921 6 9 ~
+* 2929 6 7 thing 
+* 2937 4 5 left 
+* 2945 3 4 to 
+* 2950 11 0 lose 
+- 2963
+: 2974 1 0 And 
+: 2976 3 1 there’s 
+: 2983 1 7 no
+: 2985 5 9 ~
+: 2993 6 7 thing 
+: 3001 6 5 more 
+: 3009 1 4 to 
+: 3013 10 2 take 
+- 3025
+: 3037 1 0 But 
+: 3041 2 2 you 
+: 3045 7 5 force 
+: 3057 4 5 your
+: 3065 5 5 self 
+: 3073 1 4 to 
+: 3078 10 0 choose 
+- 3090
+: 3102 1 2 In 
+: 3105 1 5 the 
+: 3109 8 9 waste
+: 3120 5 7 lands 
+: 3128 5 5 of 
+: 3137 3 7 to
+: 3141 8 9 day
+: 3150 1 8 ~
+: 3152 5 5 ~ 
+- 3159
+: 3166 2 2 Where 
+: 3170 2 5 to
+: 3174 9 9 mor
+: 3186 5 7 row 
+: 3193 4 5 dis
+: 3201 2 7 ap
+: 3205 11 9 pears
+: 3217 2 5 ~ 
+- 3221
+: 3230 1 0 While 
+: 3232 1 5 the 
+: 3237 8 9 fu
+: 3248 4 7 ture 
+: 3257 5 5 slips 
+: 3265 2 7 a
+: 3269 8 9 way
+: 3278 2 7 ~
+: 3281 2 2 ~ 
+- 3285
+: 3293 1 2 And 
+: 3297 3 0 your 
+: 3301 6 9 hope
+: 3308 2 8 ~ 
+: 3313 5 7 turns 
+: 3321 5 5 in
+: 3329 2 7 to 
+: 3334 8 9 fear
+: 3343 1 7 ~
+: 3345 1 5 ~ 
+- 3348
+: 3356 2 1 And 
+: 3361 1 2 your 
+: 3364 8 9 hope 
+: 3377 4 7 turns 
+: 3385 5 5 in
+: 3393 1 7 to 
+* 3398 9 9 fear
+: 3408 3 7 ~
+: 3412 3 2 ~ 
+- 3417
+: 3424 3 9 In 
+: 3429 1 9 the 
+: 3432 6 9 waste
+: 3441 3 9 lands
+: 3445 1 8 ~ 
+: 3449 4 9 of 
+: 3457 2 7 to
+: 3460 9 9 day
+: 3470 2 5 ~ 
+- 3474
+: 3552 2 9 In 
+: 3557 1 9 the 
+: 3560 4 9 waste
+: 3568 5 9 lands 
+: 3577 4 9 of 
+: 3584 2 7 to
+: 3589 7 9 day
+: 3597 2 7 ~ 
+- 3601
+: 3680 2 9 In 
+: 3684 2 9 the 
+: 3688 4 9 waste
+: 3696 5 9 lands 
+: 3704 5 9 of 
+: 3712 2 7 to
+: 3716 10 9 day
+: 3727 2 3 ~
+: 3730 2 -3 ~ 
+E

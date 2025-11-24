@@ -1,0 +1,318 @@
+#ARTIST:The Ting Tings
+#TITLE:Shut Up And Let Me Go
+#MP3:The Ting Tings - Shut Up And Let Me Go.mp3
+#CREATOR:bohning
+#EDITION:SingStar Vol. 3: Party Edition
+#COVER:The Ting Tings - Shut Up And Let Me Go [CO].jpg
+#BACKGROUND:The Ting Tings - Shut Up And Let Me Go [BG].jpg
+#YEAR:2008
+#LANGUAGE:English
+#BPM:216
+#GAP:8680
+#VIDEO:v=tolm-07if3c,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/c8/d0/6ec8d035-ac9f-2c17-0479-c3ef4b2412bd/mzi.gsgnahed.jpg/5000x5000bb.jpg
+R 0 5 4 Hey 
+- 33
+R 264 1 4 Shut 
+R 266 2 4 up 
+R 270 1 4 and 
+R 272 2 4 let 
+R 276 2 4 me 
+R 280 5 4 go 
+- 290
+R 292 2 4 This 
+R 296 3 4 hurts 
+R 300 2 4 I 
+R 304 3 4 tell 
+R 308 2 4 you 
+G 312 4 4 so 
+- 322
+R 324 1 2 For 
+R 326 1 2 the 
+R 328 2 2 last 
+R 332 3 2 time 
+R 336 3 2 you 
+R 340 2 2 will 
+R 344 2 2 kiss 
+R 348 3 2 my 
+R 352 2 2 lips 
+- 354
+R 356 3 4 Now 
+R 360 1 4 shut 
+R 362 2 4 up 
+R 366 1 4 and 
+R 368 2 4 let 
+R 372 3 4 me 
+R 376 4 4 go 
+- 386
+R 388 3 2 Your 
+R 392 3 2 jeans 
+R 396 2 2 were 
+R 400 2 2 once 
+R 404 3 2 so 
+R 408 3 2 clean 
+- 411
+R 412 2 4 I 
+R 416 2 4 bet 
+R 420 3 4 you’ve 
+R 424 3 4 changed 
+R 428 3 4 your 
+R 432 3 4 ward
+R 436 2 4 robe 
+- 438
+R 440 2 4 Since 
+R 444 3 4 we 
+G 448 2 4 met 
+- 450
+R 452 3 2 Now 
+R 456 2 2 oh 
+R 460 3 2 so 
+R 464 3 2 ea
+R 468 2 2 si
+R 472 3 2 ly 
+R 476 1 2 you’re 
+R 478 3 2 o
+R 482 1 2 ver 
+R 484 3 2 me 
+- 487
+R 488 3 4 Gone 
+R 492 3 4 is 
+R 496 2 4 love 
+R 502 1 4 it’s 
+R 504 3 4 you 
+R 508 1 4 that 
+R 510 3 4 ought 
+R 514 1 4 to 
+R 516 2 4 be 
+- 518
+R 520 3 2 Hold
+R 524 2 2 ing 
+R 528 3 2 me 
+R 532 3 2 I’m 
+R 536 2 2 not 
+R 540 1 2 con
+R 542 3 2 tain
+R 546 1 2 a
+R 548 3 2 ble 
+- 551
+R 552 2 4 This 
+R 556 3 4 time 
+R 560 2 4 love 
+R 564 3 4 is 
+R 568 2 4 not 
+R 572 1 4 sus
+G 574 3 4 tain
+R 578 1 4 a
+R 580 3 4 ble 
+- 583
+R 584 3 2 I 
+R 588 2 2 ain’t 
+R 592 3 2 freak
+R 596 2 2 ing 
+R 600 1 2 I 
+R 602 3 2 ain’t 
+R 606 3 2 fak
+R 610 1 2 ing 
+R 612 3 2 this 
+- 615
+R 616 3 4 I 
+R 620 2 4 ain’t 
+R 624 3 4 freak
+R 628 2 4 ing 
+R 632 1 4 I 
+R 634 3 4 ain’t 
+R 638 3 4 fak
+R 642 1 4 ing 
+R 644 3 4 this 
+- 647
+R 648 3 2 I 
+R 652 2 2 ain’t 
+R 656 3 2 freak
+R 660 2 2 ing 
+R 664 1 2 I 
+R 666 3 2 ain’t 
+G 670 3 2 fak
+R 674 1 2 ing 
+R 676 3 2 this 
+- 679
+R 680 1 4 Shut 
+R 682 2 4 up 
+R 686 1 4 and 
+R 688 2 4 let 
+R 692 2 4 me 
+R 696 3 4 go 
+R 704 3 4 hey 
+- 735
+R 968 1 4 Shut 
+R 970 2 4 up 
+R 974 1 4 and 
+R 976 2 4 let 
+R 980 2 4 me 
+R 984 5 4 go 
+- 994
+R 996 2 4 This 
+R 1000 3 4 hurts 
+R 1004 2 4 what 
+R 1008 3 4 I 
+R 1012 2 4 can’t 
+R 1016 4 4 show 
+- 1026
+R 1028 1 2 For 
+R 1030 1 2 the 
+R 1032 2 2 last 
+R 1036 3 2 time 
+R 1040 3 2 you 
+R 1044 2 2 have 
+R 1048 3 2 me 
+R 1052 2 2 in 
+R 1056 2 2 bits 
+- 1058
+R 1060 3 4 Now 
+R 1064 1 4 shut 
+R 1066 3 4 up 
+R 1070 1 4 and 
+G 1072 3 4 let 
+R 1076 3 4 me 
+R 1080 5 4 go 
+- 1090
+G 1092 3 2 For 
+R 1096 3 2 fear 
+R 1100 3 2 of 
+R 1104 2 2 liv
+R 1108 3 2 ing 
+R 1112 2 2 in 
+R 1116 1 2 re
+R 1118 3 2 gret 
+- 1122
+R 1124 2 4 I 
+R 1128 3 4 changed 
+R 1132 3 4 since 
+R 1136 3 4 from 
+R 1140 2 4 when 
+R 1144 2 4 we 
+R 1148 3 4 first 
+R 1152 2 4 met 
+- 1154
+R 1156 3 2 Now 
+R 1160 2 2 oh 
+R 1164 3 2 so 
+R 1168 3 2 ea
+R 1172 2 2 si
+R 1176 3 2 ly 
+R 1180 1 2 you’re 
+G 1182 3 2 o
+R 1186 1 2 ver 
+R 1188 3 2 me 
+- 1191
+R 1192 3 4 Gone 
+R 1196 3 4 is 
+R 1200 2 4 love 
+R 1204 2 4 it’s 
+R 1208 3 4 me 
+R 1212 1 4 that 
+R 1214 3 4 ought 
+R 1218 1 4 to 
+R 1220 3 4 be 
+- 1223
+R 1224 3 2 Mov
+R 1228 2 2 ing 
+R 1232 2 2 on 
+R 1236 3 2 you’re 
+R 1240 2 2 not 
+R 1243 2 2 a
+R 1246 3 2 dor
+R 1250 1 2 a
+R 1252 3 2 ble 
+- 1255
+R 1256 2 2 I 
+R 1260 2 2 want 
+R 1264 2 2 some
+R 1268 3 2 thing 
+R 1272 1 2 un
+R 1274 3 2 ig
+R 1278 3 2 nor
+R 1282 1 2 a
+R 1284 3 2 ble 
+- 1287
+R 1288 3 2 I 
+R 1292 2 2 ain’t 
+R 1296 3 2 freak
+R 1300 2 2 ing 
+R 1304 1 2 I 
+R 1306 3 2 ain’t 
+R 1310 3 2 fak
+R 1314 1 2 ing 
+R 1316 3 2 this 
+- 1319
+R 1320 3 4 I 
+R 1324 2 4 ain’t 
+R 1328 3 4 freak
+R 1332 2 4 ing 
+R 1336 1 4 I 
+R 1338 3 4 ain’t 
+R 1342 3 4 fak
+R 1346 1 4 ing 
+R 1348 3 4 this 
+- 1351
+R 1352 3 2 I 
+R 1356 2 2 ain’t 
+G 1360 3 2 freak
+R 1364 2 2 ing 
+R 1368 1 2 I 
+R 1370 3 2 ain’t 
+R 1374 3 2 fak
+R 1378 1 2 ing 
+R 1380 3 2 this 
+- 1383
+R 1384 1 4 Shut 
+R 1386 2 4 up 
+R 1390 1 4 and 
+R 1392 2 4 let 
+R 1396 2 4 me 
+R 1400 3 4 go 
+R 1408 3 4 hey 
+- 1439
+R 1544 7 4 Oh 
+- 1561
+G 1576 5 4 Love 
+- 1591
+R 1608 10 4 Hold 
+- 1628
+R 1640 4 4 This 
+- 1672
+R 1714 3 4 Hey 
+- 1745
+R 1970 4 4 Hey 
+- 2002
+R 2234 1 4 Shut 
+R 2236 2 4 up 
+R 2240 1 4 and 
+R 2242 2 4 let 
+R 2246 2 4 me 
+R 2250 5 4 go 
+- 2260
+R 2262 2 4 This 
+R 2266 3 4 hurts 
+R 2270 2 4 I 
+R 2274 3 4 told 
+R 2278 2 4 you 
+R 2282 4 4 so 
+- 2292
+R 2294 1 2 For 
+R 2296 1 2 the 
+R 2298 2 2 last 
+R 2302 3 2 time 
+R 2306 3 2 you 
+R 2310 2 2 will 
+R 2314 2 2 kiss 
+R 2318 3 2 my 
+R 2322 2 2 lips 
+- 2324
+R 2326 3 4 Now 
+R 2330 1 4 shut 
+R 2332 2 4 up 
+R 2336 1 4 and 
+R 2338 2 4 let 
+R 2342 3 4 me 
+R 2346 3 4 go 
+G 2354 3 4 hey 
+E

@@ -1,0 +1,200 @@
+#ARTIST:The King and I
+#TITLE:I Have Dreamed
+#MP3:The King and I - I Have Dreamed.mp3
+#CREATOR:Relisch
+#COVER:The King and I - I Have Dreamed [CO].jpg
+#BACKGROUND:The King and I - I Have Dreamed [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1994
+#LANGUAGE:English
+#BPM:300
+#GAP:29950
+#VIDEO:vpn=us,v=A2JKg26TalA,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/01/af/d701af6c-15df-ac49-805c-60392fe5a583/05099923463158.rgb.jpg/5000x5000bb.jpg
+: 0 15 3 I
+: 16 5 2  have
+: 23 43 3  dreamed
+- 70
+: 72 3 -2 That
+: 76 6 3  your
+: 83 23 5  arms
+: 107 23 10  are
+: 132 14 5  lovely
+: 148 40 3 ~,
+- 208
+: 236 22 3 I
+: 259 4 2  have
+: 265 38 3  dreamed
+- 308
+* 310 2 -2 What
+* 313 2 3  a
+* 316 19 5  joy
+* 337 19 10  you’ll
+: 357 66 5  be.
+- 433
+: 461 28 5 I
+: 490 5 4  have
+: 496 37 5  dreamed
+- 540
+: 543 4 0 Every
+: 548 5 5 ~
+: 555 20 7  word
+: 577 16 12  you’ll
+: 597 11 7  whisper
+: 610 45 5 ~
+- 659
+: 661 34 7 When
+: 699 10 5  you’re
+: 711 33 3  close,
+- 764
+: 788 23 5 Close
+: 813 6 3  to
+: 823 108 2  me.
+- 932
+: 934 24 7 How
+: 959 6 6  you
+: 966 20 7  look
+- 996
+: 1004 2 2 In
+: 1007 4 7  the
+: 1013 12 9  glow
+: 1027 17 14  of
+: 1046 16 9  evening
+: 1064 59 7 ~
+- 1133
+: 1141 15 7 I
+: 1157 5 6  have
+: 1164 29 7  dreamed
+- 1202
+: 1206 4 2 And
+* 1211 4 7  enjoyed
+* 1217 17 8 ~
+* 1235 5 14  the
+* 1242 75 14  view.
+- 1323
+: 1325 23 15 In
+: 1351 24 14  these
+: 1377 16 12  dreams
+: 1395 6 10  I’ve
+: 1404 8 7  loved
+: 1414 7 5  you
+: 1423 30 7  so
+- 1458
+: 1460 7 15 That
+: 1472 6 14  by
+: 1480 11 12  now
+: 1492 5 10  I
+: 1499 8 7  think
+: 1510 10 5  I
+: 1524 33 7  know
+- 1561
+: 1563 7 3 What
+: 1571 8 5  it’s
+: 1580 18 7  like
+: 1604 9 8  to
+: 1615 6 10  be
+: 1623 32 12  loved
+: 1657 27 14  by
+: 1685 73 15  you—
+- 1767
+: 1771 11 14 I
+: 1784 11 15  will
+: 1797 34 17  love
+: 1835 7 14  being
+: 1843 8 15 ~
+: 1859 23 12  loved
+: 1893 37 14  by
+: 1931 91 15  you.
+- 2062
+: 2139 2 7 Alone
+: 2150 17 7 ~
+: 2173 3 5  and
+: 2178 2 5  awake
+: 2182 9 5 ~
+- 2197
+: 2199 8 5 I’ve
+: 2209 7 5  looked
+: 2218 5 3  at
+: 2225 3 3  the
+: 2232 17 3  stars,
+- 2254
+: 2256 8 7 The
+: 2266 9 7  same
+: 2278 3 5  that
+: 2284 17 5  smiled
+: 2304 7 5  on
+: 2313 42 10  you;
+- 2356
+* 2358 3 7 And
+* 2362 11 7  time
+* 2375 3 5  and
+* 2380 4 5  again
+* 2385 14 5 ~
+- 2401
+: 2403 6 5 I’ve
+: 2412 9 5  thought
+: 2422 8 3  all
+: 2431 4 3  the
+: 2436 16 3  things
+- 2458
+: 2460 7 10 That
+: 2470 17 10  you
+: 2488 7 9  were
+: 2497 9 7  thinking
+: 2508 29 7 ~
+: 2542 100 10  too.
+- 2647
+: 2649 14 3 I
+: 2664 4 2  have
+: 2670 25 3  dreamed
+- 2701
+: 2703 4 -2 That
+: 2709 6 3  your
+: 2717 15 5  arms
+: 2734 21 10  are
+: 2756 16 5  lovely
+: 2773 47 3 ~,
+- 2826
+: 2829 17 7 I
+: 2847 7 6  have
+: 2856 24 7  dreamed
+- 2888
+: 2891 4 2 And
+: 2896 3 7  enjoyed
+: 2901 16 8 ~
+: 2918 4 14  the
+: 2924 94 14  view.
+- 3023
+: 3025 28 15 In
+: 3054 36 14  these
+: 3092 18 12  dreams
+: 3111 8 10  I’ve
+: 3121 10 7  loved
+: 3132 9 5  you
+: 3142 30 7  so
+- 3178
+: 3181 7 15 That
+: 3190 4 14  by
+: 3196 11 12  now
+: 3208 5 10  I
+: 3215 8 7  think
+: 3225 10 5  I
+: 3237 44 7  know—
+- 3282
+: 3284 6 3 What
+: 3291 7 5  it’s
+: 3300 14 7  like
+: 3325 7 8  to
+: 3333 7 10  be
+: 3342 33 12  loved
+: 3377 21 14  by
+: 3400 97 15  you—
+- 3502
+* 3504 22 14 I
+* 3527 17 15  will
+* 3546 42 17  love
+: 3590 10 14  being
+: 3600 10 14 ~
+: 3613 34 15  loved
+: 3657 35 12  by
+: 3694 155 14  you.
+E

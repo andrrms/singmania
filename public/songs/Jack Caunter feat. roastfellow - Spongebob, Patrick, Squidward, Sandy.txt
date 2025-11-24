@@ -1,0 +1,232 @@
+#ARTIST:Jack Caunter feat. roastfellow
+#TITLE:Spongebob, Patrick, Squidward, Sandy
+#MP3:Jack Caunter feat. roastfellow - Spongebob, Patrick, Squidward, Sandy.mp3
+#CREATOR:GaryCXJk
+#COVER:Jack Caunter feat. roastfellow - Spongebob, Patrick, Squidward, Sandy [CO].jpg
+#BACKGROUND:Jack Caunter feat. roastfellow - Spongebob, Patrick, Squidward, Sandy [BG].jpg
+#GENRE:Parody
+#YEAR:2021
+#LANGUAGE:English
+#BPM:298
+#GAP:15390
+#VIDEO:a=G1WSABq9g3g,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/8c/b2/828cb211-cf17-17bd-ffc9-d4f898c89213/artwork.jpg/5000x5000bb.jpg
+: 0 6 16 Sponge
+: 9 16 12 Bob,
+: 32 6 11  Pat
+: 41 11 12 rick,
+: 64 7 16  Squid
+: 72 16 12 ward,
+: 96 7 11  San
+: 104 12 12 dy
+- 120
+: 128 7 16 Lar
+: 136 18 12 ry,
+: 160 8 11  Pearl,
+: 169 12 12 ~
+* 192 3 16  Mr
+* 197 2 16 .
+* 201 12 12  Crabs
+: 216 5 7  and
+: 224 5 17  Plank
+: 232 16 16 ton
+- 249
+: 256 7 16 Ka
+: 264 15 17 ren,
+: 288 6 16  Squid
+: 296 15 17 ward,
+: 320 5 16  Ga
+: 327 12 17 ry
+: 343 5 17  and
+: 351 3 17  Mrs.
+: 359 12 16  Puff
+- 376
+: 384 5 16 Plank
+: 392 13 12 ton,
+: 415 6 11  Sponge
+: 424 13 12 Bob,
+: 448 2 16  Mr
+: 452 2 16 .
+: 456 9 12  Crabs,
+: 472 5 7  King
+: 479 4 11  Nep
+: 488 12 12 tune
+- 504
+: 512 3 16 Sponge
+: 516 3 16 Bob,
+: 520 6 16  Pat
+: 528 11 16 rick,
+: 544 3 16  Squid
+: 548 3 17 ward,
+: 552 5 16  San
+: 558 2 14 ~
+: 561 11 14 dy
+- 573
+: 576 3 14 Mr
+: 580 2 14 .
+* 584 7 14  Crabs,
+* 592 7 12 ~
+: 608 3 17  Plank
+: 612 3 17 ton,
+: 616 3 17  Ga
+: 620 3 16 ~
+: 624 8 12 ry
+- 640
+: 689 3 14 Ba
+: 693 6 14  ba
+: 701 3 14  ba
+: 705 6 14  ba
+: 713 3 14  ba
+: 717 6 16  ba
+: 725 3 12  ba
+: 729 6 12  bob
+: 737 6 12  bob
+: 745 6 12  bob
+- 752
+: 753 3 16 Ba
+: 757 6 16  ba
+: 765 3 16  ba
+: 769 6 16  ba
+: 777 3 16  ba
+: 781 6 16  ba
+: 789 3 12  ba
+: 793 6 12  bob
+: 801 6 12  bob
+: 809 6 12  bob
+- 816
+: 817 3 14 Ba
+: 821 6 14  ba
+: 829 3 14  ba
+: 833 6 14  ba
+: 841 3 16  ba
+: 845 6 16  ba
+: 853 3 12  ba
+: 857 6 12  bob
+: 865 6 12  bob
+: 873 6 12  bob
+- 888 1135
+: 1159 6 16 Sponge
+: 1168 16 12 Bob,
+: 1191 6 11  Pat
+: 1200 11 12 rick,
+: 1224 7 16  Squid
+: 1232 16 12 ward,
+: 1256 7 11  San
+: 1264 12 12 dy
+- 1280
+: 1288 7 16 Lar
+: 1296 18 12 ry,
+: 1321 8 11  Pearl,
+: 1330 12 12 ~
+* 1353 3 16  Mr
+* 1358 2 16 .
+* 1362 12 12  Crabs
+: 1378 5 7  and
+: 1386 5 17  Plank
+: 1394 16 16 ton
+- 1413
+: 1420 3 16 Sponge
+: 1424 3 16 Bob,
+: 1428 6 16  Pat
+: 1436 11 16 rick,
+: 1452 3 16  Squid
+: 1456 3 17 ward,
+: 1460 5 16  San
+: 1466 2 14 ~
+: 1469 11 14 dy
+- 1481
+* 1484 3 14 Mr
+* 1488 2 14 .
+* 1492 7 14  Crabs,
+* 1500 7 12 ~
+: 1516 3 17  Plank
+: 1520 3 17 ton,
+: 1524 3 17  Ga
+: 1528 3 16 ~
+: 1532 8 12 ry
+- 1550 2312
+: 2322 3 16 Sponge
+: 2326 3 16 Bob,
+: 2330 6 16  Pat
+: 2338 11 16 rick,
+: 2354 3 16  Squid
+: 2358 3 17 ward,
+: 2362 5 16  San
+: 2368 2 14 ~
+: 2371 11 14 dy
+- 2383
+* 2387 3 14 Mr
+* 2391 2 14 .
+* 2395 7 14  Crabs,
+* 2403 7 12 ~
+: 2420 3 17  Plank
+: 2424 3 17 ton,
+: 2428 3 17  Ga
+: 2432 3 16 ~
+: 2436 8 12 ry
+- 2450
+: 2453 3 16 Sponge
+: 2457 3 16 Bob,
+: 2461 6 16  Pat
+: 2469 11 16 rick,
+: 2485 3 16  Squid
+: 2489 3 17 ward,
+: 2493 5 16  San
+: 2499 2 14 ~
+: 2502 11 14 dy
+- 2514
+* 2518 3 14 Mr
+* 2522 2 14 .
+* 2526 7 14  Crabs,
+* 2534 7 12 ~
+: 2551 3 17  Plank
+: 2555 3 17 ton,
+: 2559 3 17  Ga
+: 2563 3 16 ~
+: 2567 8 12 ry
+- 2582
+: 2585 3 16 Sponge
+: 2589 3 16 Bob,
+: 2593 6 16  Pat
+: 2601 11 16 rick,
+: 2617 3 16  Squid
+: 2621 3 17 ward,
+: 2625 5 16  San
+: 2631 2 14 ~
+: 2634 11 14 dy
+- 2646
+* 2649 3 14 Mr
+* 2653 2 14 .
+* 2657 7 14  Crabs,
+* 2665 7 12 ~
+: 2681 3 17  Plank
+: 2685 3 17 ton,
+: 2689 3 17  Ga
+: 2693 3 16 ~
+: 2697 8 12 ry
+- 2712
+: 2715 3 16 Sponge
+: 2719 3 16 Bob,
+: 2723 6 16  Pat
+: 2731 11 16 rick,
+: 2747 3 16  Squid
+: 2751 3 17 ward,
+: 2755 5 16  San
+: 2761 2 14 ~
+: 2764 11 14 dy
+- 2776
+* 2780 3 14 Mr
+* 2784 2 14 .
+* 2790 6 14  Crabs,
+* 2797 7 12 ~
+- 2810
+* 2813 3 14 Mr
+* 2817 2 14 .
+* 2821 7 14  Crabs,
+* 2829 7 12 ~
+- 2842
+: 2845 3 17 Plank
+: 2849 3 17 ton,
+: 2853 3 17  Ga
+: 2857 3 16 ~
+: 2861 8 12 ry
+E

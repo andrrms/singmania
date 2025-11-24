@@ -1,0 +1,186 @@
+#ARTIST:The Vaccines
+#TITLE:Wreckin’ Bar (Ra Ra Ra)
+#MP3:The Vaccines - Wreckin’ Bar (Ra Ra Ra).mp3
+#CREATOR:daggeg
+#YEAR:2011
+#LANGUAGE:English
+#BPM:360
+#GAP:10650
+#VIDEO:v=0sOq6Rrre7c,co=https://www.hifinews.com/images/921vinrel.single.jpg,bg=vaccines-the-55a81dd76aeae.jpg
+: 0 2 1 Pret
+: 4 4 3 ty 
+: 14 12 3 girl, 
+: 32 3 3 wrec
+: 36 4 3 kin’ 
+: 44 14 3 bar, 
+- 60
+* 64 4 5 Ra 
+* 72 4 5 ra 
+* 80 4 7 ra 
+: 88 4 5 ra 
+: 96 2 3 yeah 
+: 100 4 3 you 
+: 110 14 3 are 
+- 126
+: 128 2 2 Grow
+: 132 2 3 in’ 
+: 140 4 3 up, 
+: 152 4 -2 I’m 
+: 160 4 3 twice 
+: 168 2 3 the 
+: 172 8 3 man, 
+- 182
+: 190 4 5 Yeah 
+: 198 4 5 yeah 
+: 206 4 7 yeah 
+: 214 4 5 yeah, 
+: 224 2 3 yeah 
+* 228 4 3 I 
+* 236 4 3 am 
+- 242
+: 252 2 2 The 
+: 256 6 3 an
+: 264 4 3 gels 
+: 272 4 3 gave 
+: 280 4 3 F 
+: 288 4 3 Scott 
+: 296 6 3 Fitz
+: 304 2 4 ge
+: 308 2 3 rald, 
+- 312
+: 316 2 4 The 
+: 320 6 -2 eve
+: 328 2 3 ning 
+: 336 4 3 news 
+: 344 3 3 and 
+: 348 3 3 the 
+: 352 6 3 mor
+: 360 4 3 ning 
+: 368 2 4 her
+: 372 4 3 ald, 
+- 378
+: 382 2 3 I 
+: 386 4 3 know 
+: 394 4 3 that 
+: 400 2 3 of
+: 404 2 -2 fer 
+: 416 3 3 ve
+: 420 4 3 ry 
+: 428 6 3 far, 
+- 436
+: 438 2 3 But 
+: 442 4 3 I 
+: 448 6 4 found 
+: 456 4 4 you 
+: 462 6 4 passed 
+: 472 4 4 out 
+: 480 4 7 by 
+: 486 4 4 the 
+: 494 10 4 drawer 
+- 506
+: 510 4 1 Where 
+: 516 6 3 you 
+: 524 10 3 been 
+: 542 4 3 you 
+: 548 4 3 can 
+: 556 14 3 say, 
+- 572
+: 574 4 5 Hey 
+: 582 4 5 hey 
+: 590 4 7 hey 
+: 598 4 5 hey 
+: 608 2 3 yeah 
+: 612 4 3 you 
+: 620 12 3 may 
+- 634
+: 638 4 3 That 
+: 644 4 3 might 
+* 652 6 3 seem 
+* 662 2 -2 a 
+* 672 4 3 bit 
+: 680 3 3 be
+: 684 10 3 low 
+- 696
+: 702 4 5 No 
+: 710 4 5 no 
+: 718 4 7 no 
+: 728 4 5 it’s 
+: 736 3 3 fun
+: 740 4 3 ny 
+: 748 12 3 though 
+- 762
+: 766 4 2 Let’s 
+: 774 4 3 go 
+: 782 6 3 home 
+: 792 4 3 I 
+: 800 4 3 think 
+: 808 4 3 we 
+: 814 6 4 ough
+: 822 4 3 ta, 
+- 828
+: 832 4 -2 I 
+: 840 4 3 know 
+: 848 4 3 you’re 
+: 856 4 3 your 
+: 864 3 3 mo
+: 868 4 3 ther’s 
+: 878 2 4 daugh
+: 882 4 3 ter, 
+- 888
+: 894 4 3 Well 
+: 904 4 3 brought 
+: 912 4 3 up 
+: 920 4 3 and 
+: 928 3 3 roy
+: 932 4 3 al 
+: 940 4 3 blue, 
+- 946
+: 948 2 3 And 
+: 952 4 3 I 
+: 960 4 4 have
+: 966 4 4 n’t 
+: 972 4 4 got 
+: 980 4 4 the 
+: 992 4 7 time 
+: 1000 4 4 for 
+: 1006 6 4 you 
+- 1014
+: 1280 6 3 Eng
+: 1288 4 3 lish 
+* 1296 4 3 boy 
+: 1304 4 3 named, 
+: 1312 6 3 pre
+: 1320 4 3 supp
+: 1326 4 4 o
+: 1332 4 3 sing, 
+- 1338
+: 1344 4 -2 Watch 
+: 1352 4 3 out, 
+: 1360 4 3 man, 
+: 1368 4 3 that 
+: 1376 4 3 door’s 
+: 1384 2 3 a
+: 1388 6 4 clo
+: 1396 4 3 sing, 
+- 1402
+: 1408 2 3 This 
+: 1412 2 3 is 
+: 1416 2 3 what 
+: 1420 2 3 you 
+: 1424 4 3 get 
+: 1430 4 3 when 
+: 1436 2 3 you 
+: 1440 2 3 turn 
+: 1446 4 3 your 
+: 1452 4 3 back, 
+- 1458
+* 1468 2 3 A 
+* 1472 6 4 clear 
+* 1480 4 4 blue 
+* 1488 4 4 sky 
+* 1496 1 4 tur
+* 1498 4 4 ning 
+* 1504 3 7 dir
+* 1508 4 7 ty 
+* 1516 12 7 black 
+E

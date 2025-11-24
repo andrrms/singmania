@@ -1,0 +1,126 @@
+#ARTIST:Pat Boone
+#TITLE:Love Letters In The Sand
+#MP3:Pat Boone - Love Letters In The Sand.mp3
+#CREATOR:T€chn0 Fr34k
+#YEAR:1957
+#LANGUAGE:English
+#BPM:358
+#GAP:9320
+#VIDEO:v=ilIPwgTH2ZI,co=https://i.discogs.com/Dues0WLaM0sk_owY-Hz-f3p0vTubSQhhXyKoNqxyZCo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODA4/NzYtMTYzMTcyNzk1/OS03NDIzLmpwZWc.jpeg,bg=boone-pat-4fc0465ada363.JPG
+: 0 18 0 On 
+: 20 6 -1 a 
+: 28 35 -2 day 
+: 64 15 3 like 
+: 80 11 7 to
+: 92 36 10 day 
+- 130
+: 148 11 11 We 
+: 160 19 12 pass 
+: 180 3 12 the 
+: 184 35 8 time 
+: 220 3 5 a
+: 224 32 0 way 
+- 258
+: 260 15 0 Writ
+: 276 11 1 ing 
+: 288 35 2 love 
+: 324 7 12 let
+: 332 28 10 ters 
+: 380 23 2 in 
+: 404 7 7 the 
+: 412 68 7 sand 
+- 482
+: 516 15 0 How 
+: 532 11 -1 you 
+: 544 39 -2 laughed 
+: 584 11 3 when 
+: 596 11 7 I 
+: 608 48 10 cried 
+- 658
+: 660 15 11 Each 
+: 676 27 12 time 
+: 704 11 12 I 
+: 716 15 8 saw 
+: 732 3 5 the 
+: 736 32 0 tide 
+- 770
+: 772 15 0 Take 
+: 788 15 1 our 
+: 804 31 2 love 
+: 836 7 12 let
+: 844 36 10 ters 
+: 896 23 0 from 
+: 920 3 2 the 
+: 924 52 3 sand 
+- 978
+: 1012 15 3 You 
+: 1028 19 5 made 
+: 1048 7 6 a 
+: 1056 48 7 vow 
+- 1106
+: 1112 8 8 That 
+: 1124 44 5 you 
+: 1176 19 8 would 
+: 1196 7 7 ev
+: 1204 28 0 er 
+: 1240 15 3 be 
+: 1256 28 7 true 
+- 1286
+: 1288 11 7 But 
+: 1300 19 8 some 
+: 1320 47 9 how 
+: 1368 15 12 that 
+: 1384 40 7 vow 
+- 1426
+: 1432 15 5 Meant 
+: 1448 11 8 no
+: 1460 28 0 thing 
+: 1496 15 7 to 
+: 1512 31 5 you 
+- 1544
+: 1544 15 0 Now 
+: 1560 19 -1 my 
+: 1580 23 -2 bro
+: 1604 23 3 ken 
+: 1628 11 7 heart 
+: 1640 44 10 aches 
+- 1686
+: 1692 19 11 With 
+: 1712 7 12 ev
+: 1720 11 12 ery 
+: 1732 31 8 wave 
+: 1764 7 5 that 
+: 1772 28 0 break 
+- 1802
+: 1808 15 0 O
+: 1824 7 1 ver 
+: 1832 35 2 love 
+: 1868 11 12 let
+: 1880 28 10 ters 
+: 1928 23 0 in 
+: 1952 7 2 the 
+: 1960 56 3 sand 
+- 2018
+: 2580 19 0 Now 
+: 2600 15 -1 my 
+: 2616 23 -2 bro
+: 2640 19 3 ken 
+: 2660 15 7 heart 
+: 2676 44 10 aches 
+- 2722
+: 2728 19 14 With 
+: 2748 7 12 ev
+: 2756 15 12 ery 
+: 2772 27 8 wave 
+: 2800 7 5 that 
+: 2808 31 0 breaks 
+- 2840
+: 2840 19 0 O
+: 2860 11 1 ver 
+: 2872 35 2 love 
+: 2908 7 12 let
+: 2916 19 10 ters 
+: 2936 31 0 in 
+: 2968 27 2 the 
+: 2996 84 3 sand 
+E

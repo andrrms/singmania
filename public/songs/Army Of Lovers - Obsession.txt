@@ -1,0 +1,533 @@
+#ARTIST:Army Of Lovers
+#TITLE:Obsession
+#MP3:Army Of Lovers - Obsession.mp3
+#CREATOR:Fepo
+#COVER:Army Of Lovers - Obsession [CO].jpg
+#BACKGROUND:Army Of Lovers - Obsession [BG].jpg
+#GENRE:Pop
+#YEAR:1991
+#LANGUAGE:English
+#BPM:306
+#GAP:8400
+#VIDEO:v=zNmO233OztQ,co=https://i.discogs.com/JaTjJgbhIAWsOrbzNA-XmOty8nX3p0dy-skugF72wKI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzE3/Mi0xNjM4MjYxNzMx/LTIyNTQuanBlZw.jpeg,co-contrast=1.3,preview=31.43,medley=572-1524
+: 0 5 3 Ob
+: 8 2 4 ses
+: 12 6 1 sion 
+- 38
+: 76 8 4 I 
+: 88 9 6 could 
+: 100 5 8 wait 
+: 107 4 8 night 
+: 113 3 6 and 
+: 119 10 8 day 
+- 134
+: 136 4 1 Sigh 
+: 142 3 4 your 
+: 147 5 8 name 
+: 154 4 9 when 
+: 161 2 8 I 
+: 165 7 4 pray 
+- 175
+: 177 4 1 In 
+: 183 8 8 my 
+: 194 4 6 heart, 
+: 200 5 6 night 
+: 207 4 3 and 
+: 213 8 6 day 
+- 228
+: 231 4 6 Till 
+: 237 3 3 you 
+: 242 4 6 come 
+: 248 9 3 my 
+: 259 6 8 way 
+- 273
+: 276 4 4 I 
+: 282 5 6 could 
+* 289 4 8 wait 
+* 295 4 8 night 
+: 301 4 6 and 
+: 307 11 8 day 
+- 322
+: 324 4 1 Be 
+: 330 3 4 the 
+: 335 4 8 sky 
+: 341 5 9 blue 
+: 348 4 8 or 
+: 354 7 4 gray 
+- 364
+: 366 3 1 In 
+: 371 9 8 my 
+: 382 5 6 heart, 
+: 389 4 6 night 
+: 395 4 3 and 
+: 401 9 6 day 
+- 416
+: 419 3 6 For 
+: 424 3 3 your 
+: 429 4 6 love 
+: 435 8 3 to 
+: 447 13 8 stay 
+- 468
+: 471 5 3 Ob
+: 479 2 4 ses
+: 483 6 1 sion 
+- 529
+: 572 10 1 You 
+: 604 5 3 got 
+: 612 3 4 that 
+: 617 5 15 ma
+: 624 8 13 gic 
+: 635 10 11 in 
+: 648 6 13 your 
+: 665 15 8 eyes 
+- 690
+: 713 4 8 Shi
+: 719 4 6 ning 
+: 725 4 11 wher
+: 731 8 8 e
+: 741 5 6 ver 
+: 748 8 4 you 
+: 760 11 1 go 
+- 781
+: 794 5 3 To 
+: 801 3 4 a 
+: 806 4 15 lo
+: 812 8 13 ver’s 
+: 826 8 11 pa
+* 836 12 13 ra
+: 852 14 8 dise 
+- 876
+: 899 5 8 Trust 
+: 906 4 6 eve
+: 912 5 11 ry 
+: 919 9 8 sign 
+: 930 5 6 when 
+: 937 8 4 I’m 
+: 947 10 6 so 
+- 967
+: 981 6 8 Close 
+: 989 5 11 to 
+: 996 3 13 where 
+: 1001 8 11 my 
+: 1011 11 8 heart 
+: 1024 15 11 be
+: 1041 17 6 longs 
+- 1068
+: 1076 5 6 Like 
+: 1083 5 8 in 
+: 1090 8 9 Hea
+: 1100 8 8 ven 
+- 1109
+: 1111 8 4 I 
+: 1123 9 6 could 
+: 1135 5 8 wait 
+: 1142 4 8 night 
+: 1148 3 6 and 
+: 1154 10 8 day 
+- 1169
+: 1171 4 1 Sigh 
+: 1177 3 4 your 
+: 1182 5 8 name 
+: 1189 4 9 when 
+: 1196 2 8 I 
+: 1200 7 4 pray 
+- 1211
+: 1213 4 1 In 
+: 1219 8 8 my 
+: 1230 4 6 heart, 
+: 1236 5 6 night 
+: 1243 4 3 and 
+: 1249 8 6 day 
+- 1264
+: 1267 4 6 Till 
+: 1273 3 3 you 
+: 1278 4 6 come 
+: 1284 9 3 my 
+: 1295 6 8 way 
+- 1309
+: 1312 4 4 I 
+: 1318 5 6 could 
+* 1325 4 8 wait 
+* 1331 4 8 night 
+: 1337 4 6 and 
+: 1343 11 8 day 
+- 1358
+: 1360 4 1 Be 
+: 1366 3 4 the 
+: 1371 5 8 sky 
+: 1378 4 9 blue 
+: 1384 3 8 or 
+: 1389 7 4 gray 
+- 1398
+: 1400 4 1 In 
+: 1406 8 8 my 
+: 1417 4 6 heart, 
+: 1423 5 6 night 
+: 1430 4 3 and 
+: 1436 8 6 day 
+- 1452
+: 1455 3 6 For 
+: 1460 3 3 your 
+: 1465 6 6 love 
+: 1473 7 3 to 
+: 1482 14 8 stay 
+- 1503
+: 1506 5 3 Ob
+: 1514 2 4 ses
+: 1518 6 1 sion 
+- 1564
+: 1608 19 1 I 
+: 1641 4 3 can’t 
+: 1648 4 4 help 
+: 1654 6 15 fal
+: 1662 7 13 ling 
+: 1672 9 11 in 
+: 1684 13 13 a 
+: 1700 11 8 trance 
+- 1721
+: 1748 4 8 Lo
+: 1754 3 6 sing 
+: 1759 5 11 my
+: 1766 10 8 self 
+: 1778 5 6 as 
+: 1785 8 4 I 
+: 1795 12 1 know 
+- 1817
+: 1831 3 3 You’re 
+: 1836 4 4 my 
+: 1842 5 15 he
+: 1849 8 13 ro 
+: 1859 10 11 in 
+: 1871 16 13 ad
+: 1889 11 8 vance 
+- 1910
+: 1936 4 8 Trust 
+: 1942 4 6 eve
+: 1948 4 11 ry 
+: 1954 10 8 sign 
+: 1966 5 6 when 
+: 1973 8 4 I’m 
+: 1983 13 6 so 
+- 2006
+: 2018 5 8 Close 
+: 2025 4 11 to 
+: 2031 4 13 where 
+: 2037 9 11 my 
+: 2048 10 8 heart 
+: 2060 15 11 be
+: 2077 13 6 longs 
+- 2100
+: 2112 5 6 Like 
+: 2119 6 8 in 
+: 2127 8 9 Hea
+: 2137 11 8 ven 
+- 2148
+: 2150 10 4 I 
+: 2162 8 6 could 
+: 2172 5 8 wait 
+: 2179 4 8 night 
+: 2185 3 6 and 
+: 2191 10 8 day 
+- 2206
+: 2208 4 1 Sigh 
+: 2214 3 4 your 
+: 2219 5 8 name 
+: 2226 4 9 when 
+: 2233 2 8 I 
+: 2237 7 4 pray 
+- 2247
+: 2249 4 1 In 
+: 2255 8 8 my 
+: 2266 4 6 heart, 
+: 2272 5 6 night 
+: 2279 4 3 and 
+: 2285 8 6 day 
+- 2301
+: 2304 4 6 Till 
+: 2310 3 3 you 
+: 2315 4 6 come 
+: 2321 9 3 my 
+: 2332 6 8 way 
+- 2345
+: 2348 4 4 I 
+: 2354 4 6 could 
+* 2360 4 8 wait 
+* 2366 4 8 night 
+: 2372 4 6 and 
+: 2378 11 8 day 
+- 2395
+: 2397 4 1 Be 
+: 2403 3 4 the 
+: 2408 4 8 sky 
+: 2414 5 9 blue 
+: 2421 4 8 or 
+: 2427 7 4 gray 
+- 2435
+: 2437 4 1 In 
+: 2443 8 8 my 
+: 2454 4 6 heart, 
+: 2460 5 6 night 
+: 2467 4 3 and 
+: 2473 8 6 day 
+- 2487
+: 2490 5 6 For 
+: 2497 3 3 your 
+: 2502 4 6 love 
+: 2508 8 3 to 
+: 2520 13 8 stay 
+- 2540
+: 2543 5 3 Ob
+: 2551 2 4 ses
+: 2555 6 1 sion 
+- 2581
+: 2637 5 3 Ob
+: 2645 2 4 ses
+: 2649 6 1 sion 
+- 2675
+: 2732 5 3 Ob
+: 2740 2 4 ses
+: 2744 1 1 sion 
+- 2745
+F 2746 2 0 There 
+F 2749 4 0 ain’t 
+F 2755 2 0 no 
+F 2759 3 0 pro
+F 2764 2 0 mi
+F 2749 3 0 ses 
+- 2752
+F 2754 3 0 Ain’t 
+F 2759 3 0 no 
+F 2764 3 0 com
+F 2768 1 0 mit
+F 2770 2 0 ments 
+- 2792
+F 2831 3 0 But 
+F 2836 3 0 how 
+F 2841 7 0 cruel 
+F 2850 3 0 can 
+F 2855 5 0 love 
+F 2862 6 0 be? 
+- 2878
+F 2888 6 0 How 
+F 2896 11 0 cruel 
+F 2910 2 0 to 
+F 2913 2 0 a 
+F 2916 4 0 bro
+F 2922 3 0 ken 
+F 2927 4 0 heart 
+F 2933 5 0 like 
+F 2940 12 0 mine? 
+- 2962
+F 2977 3 0 There 
+F 2982 2 0 ain’t 
+F 2986 2 0 no 
+F 2990 7 0 right 
+- 2999
+F 3001 2 0 There 
+F 3005 2 0 ain’t 
+F 3009 2 0 no 
+F 3013 8 0 wrong 
+- 3023
+F 3025 3 0 But 
+F 3030 4 0 as 
+F 3035 2 0 so 
+F 3038 2 0 long 
+F 3042 2 0 as 
+F 3046 5 0 hope 
+F 3053 4 0 sur
+F 3059 5 0 vives 
+- 3069
+F 3071 5 0 I’ll 
+F 3078 3 0 stay 
+F 3082 3 0 a
+F 3087 2 0 live 
+- 3089
+: 3091 8 4 I 
+: 3103 9 6 could 
+: 3115 5 8 wait 
+: 3122 4 8 night 
+: 3128 3 6 and 
+: 3134 10 8 day 
+- 3148
+: 3150 4 1 Sigh 
+: 3156 3 4 your 
+: 3161 5 8 name 
+: 3168 4 9 when 
+: 3175 2 8 I 
+: 3179 7 4 pray 
+- 3189
+: 3191 4 1 In 
+: 3197 8 8 my 
+: 3208 4 6 heart, 
+: 3214 5 6 night 
+: 3221 4 3 and 
+: 3227 8 6 day 
+- 3241
+: 3244 4 6 Till 
+: 3250 3 3 you 
+: 3255 4 6 come 
+: 3261 9 3 my 
+: 3272 6 8 way 
+- 3287
+: 3290 4 4 I 
+: 3296 5 6 could 
+* 3303 4 8 wait 
+* 3309 4 8 night 
+: 3315 4 6 and 
+: 3321 11 8 day 
+- 3336
+: 3338 4 1 Be 
+: 3344 3 4 the 
+: 3349 4 8 sky 
+: 3355 5 9 blue 
+: 3362 4 8 or 
+: 3368 7 4 gray 
+- 3377
+: 3379 4 1 In 
+: 3385 8 8 my 
+: 3396 4 6 heart, 
+: 3402 5 6 night 
+: 3409 4 3 and 
+: 3415 8 6 day 
+- 3429
+: 3432 3 6 For 
+: 3437 3 3 your 
+: 3442 4 6 love 
+: 3448 8 3 to 
+: 3460 6 8 stay 
+- 3466
+: 3468 8 4 I 
+: 3480 9 6 could 
+: 3492 5 8 wait 
+: 3499 4 8 night 
+: 3505 3 6 and 
+: 3511 10 8 day 
+- 3525
+: 3527 4 1 Sigh 
+: 3533 3 4 your 
+: 3538 5 8 name 
+: 3545 4 9 when 
+: 3552 2 8 I 
+: 3556 7 4 pray 
+- 3565
+: 3567 4 1 In 
+: 3573 8 8 my 
+: 3584 4 6 heart, 
+: 3590 5 6 night 
+: 3597 4 3 and 
+: 3603 8 6 day 
+- 3618
+: 3621 4 6 Till 
+: 3627 3 3 you 
+: 3632 4 6 come 
+: 3638 9 3 my 
+: 3649 6 8 way 
+- 3664
+: 3667 4 4 I 
+: 3673 5 6 could 
+* 3680 4 8 wait 
+* 3686 4 8 night 
+: 3692 4 6 and 
+: 3698 11 8 day 
+- 3713
+: 3715 4 1 Be 
+: 3721 3 4 the 
+: 3726 4 8 sky 
+: 3732 5 9 blue 
+: 3739 4 8 or 
+: 3745 7 4 gray 
+- 3755
+: 3757 4 1 In 
+: 3763 8 8 my 
+: 3774 4 6 heart, 
+: 3780 4 6 night 
+: 3786 4 3 and 
+: 3792 9 6 day 
+- 3808
+: 3811 3 6 For 
+: 3816 3 3 your 
+: 3821 4 6 love 
+: 3827 8 3 to 
+: 3839 4 8 stay 
+- 3843
+: 3845 8 4 I 
+: 3857 9 6 could 
+: 3869 5 8 wait 
+: 3876 4 8 night 
+: 3882 3 6 and 
+: 3888 10 8 day 
+- 3902
+: 3904 4 1 Sigh 
+: 3910 3 4 your 
+: 3915 5 8 name 
+: 3922 4 9 when 
+: 3929 2 8 I 
+: 3933 7 4 pray 
+- 3944
+: 3946 4 1 In 
+: 3952 8 8 my 
+: 3963 4 6 heart, 
+: 3969 5 6 night 
+: 3976 4 3 and 
+: 3982 8 6 day 
+- 3996
+: 3998 4 6 Till 
+: 4004 3 3 you 
+: 4009 4 6 come 
+: 4015 9 3 my 
+: 4026 6 8 way 
+- 4040
+: 4043 4 4 I 
+: 4049 5 6 could 
+* 4056 4 8 wait 
+* 4062 4 8 night 
+: 4068 4 6 and 
+: 4074 11 8 day 
+- 4091
+: 4093 4 1 Be 
+: 4099 3 4 the 
+: 4104 4 8 sky 
+: 4110 5 9 blue 
+: 4117 4 8 or 
+: 4123 7 4 gray 
+- 4132
+: 4134 4 1 In 
+: 4140 8 8 my 
+: 4151 4 6 heart, 
+: 4157 5 6 night 
+: 4164 4 3 and 
+: 4170 8 6 day 
+- 4184
+: 4186 3 6 For 
+: 4191 3 3 your 
+: 4196 4 6 love 
+: 4202 8 3 to 
+: 4214 5 8 stay 
+- 4220
+: 4222 8 4 I 
+: 4232 9 6 could 
+: 4244 5 8 wait 
+: 4251 4 8 night 
+: 4257 3 6 and 
+: 4263 10 8 day 
+- 4279
+: 4281 4 1 Sigh 
+: 4287 3 4 your 
+: 4292 5 8 name 
+: 4299 4 9 when 
+: 4306 2 8 I 
+: 4310 7 4 pray 
+- 4320
+: 4322 4 1 In 
+: 4328 8 8 my 
+: 4339 4 6 heart, 
+: 4345 5 6 night 
+: 4352 4 3 and 
+: 4358 8 6 day 
+- 4372
+: 4374 4 6 Till 
+: 4380 3 3 you 
+: 4385 4 6 come 
+: 4391 9 3 my 
+: 4402 6 8 way 
+E

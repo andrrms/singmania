@@ -1,0 +1,248 @@
+#ARTIST:Armin van Buuren feat. Susana
+#TITLE:Shivers
+#MP3:Armin van Buuren feat. Susana - Shivers.mp3
+#CREATOR:mus31
+#COVER:Armin van Buuren feat. Susana - Shivers [CO].jpg
+#BACKGROUND:Armin van Buuren feat. Susana - Shivers [BG].jpg
+#GENRE:Trance
+#YEAR:2005
+#LANGUAGE:English
+#BPM:269.7
+#GAP:780
+#VIDEO:v=8VPBcd1qSRs,co=https://m.media-amazon.com/images/I/61rmlUEwUnL.jpg
+F 0 1 0 A 
+F 2 9 0 little 
+F 12 9 0 bit 
+F 22 9 0 just 
+F 32 4 0 a 
+F 38 5 0 little 
+F 44 7 0 bit... 
+- 86
+F 129 3 0 A 
+F 133 8 0 little 
+F 142 9 0 bit 
+F 152 7 0 just 
+F 160 5 0 a 
+F 166 5 0 little 
+F 172 7 0 bit... 
+- 214
+: 262 7 3 World’s 
+: 270 5 3 on 
+: 276 7 6 turn 
+: 284 5 6 a
+: 290 12 3 round 
+- 312
+: 325 6 3 Mu
+: 332 7 3 sic 
+: 340 7 6 make 
+: 348 4 6 no 
+: 353 12 1 sound 
+- 375
+: 389 6 3 Where 
+: 396 7 3 is 
+: 404 7 8 sweet
+: 412 4 8 ness 
+: 417 11 6 found 
+- 428
+: 429 7 6 Where 
+: 437 13 5 love 
+: 452 6 6 is 
+: 460 16 6 gone 
+- 493
+: 516 6 3 Sun 
+: 524 7 3 don’t 
+: 533 6 6 come 
+: 541 3 6 a
+: 546 15 3 round 
+- 571
+: 589 6 3 Don’t 
+: 596 7 6 make 
+: 604 3 6 a 
+: 609 8 1 sound 
+- 627
+: 644 7 3 Where 
+: 652 7 3 can 
+: 660 7 8 love 
+: 668 3 8 be 
+: 673 10 6 found 
+- 683
+: 685 3 6 If 
+: 689 3 6 your 
+: 693 13 5 heart 
+: 708 7 6 won’t 
+: 716 12 6 feel 
+- 738
+: 758 10 8 Shi
+: 769 16 6 vers 
+- 802
+* 821 6 5 Up 
+* 828 7 6 and 
+* 836 7 6 down 
+* 844 3 5 my 
+* 848 14 6 spine 
+- 872
+: 885 9 8 Brea
+: 895 12 6 ker 
+- 924
+: 949 6 5 Not 
+: 956 7 6 on 
+: 964 6 6 my 
+: 971 12 6 mind 
+- 1018
+: 1250 10 10 How 
+: 1261 3 8 could 
+: 1265 3 6 it 
+: 1269 6 8 end 
+: 1276 4 6 this 
+: 1281 10 8 way? 
+- 1301
+: 1315 15 10 Don’t 
+: 1331 7 8 leave 
+: 1339 21 6 me, 
+: 1362 6 1 love 
+: 1369 12 3 me 
+- 1398
+: 1436 3 8 Just 
+: 1440 3 8 a 
+: 1444 4 8 lit
+: 1449 3 8 tle 
+: 1453 3 10 bit 
+: 1457 8 8 long
+: 1466 8 6 er 
+- 1484
+: 1506 9 10 How 
+: 1516 4 8 could 
+: 1521 3 6 it 
+: 1525 6 8 end 
+: 1532 3 6 this 
+: 1536 8 8 way? 
+- 1554
+: 1571 16 10 Don’t 
+: 1588 6 8 leave 
+: 1595 18 6 me, 
+: 1617 7 1 love 
+: 1625 10 3 me 
+- 1652
+: 1692 6 8 Just 
+: 1699 3 8 a 
+: 1703 3 8 lit
+: 1707 3 8 tle 
+: 1711 3 10 bit 
+: 1715 6 8 long
+: 1722 16 6 er 
+- 1773
+: 2052 7 3 They 
+: 2060 6 3 don’t 
+: 2067 7 6 turn 
+: 2075 3 6 to
+: 2080 12 3 night 
+- 2102
+: 2115 7 3 Morn
+: 2123 6 3 ing 
+: 2130 8 6 don’t 
+: 2139 4 6 bring 
+: 2144 8 1 light 
+- 2162
+: 2178 7 3 Where 
+: 2186 8 3 is 
+: 2195 6 8 sweet
+: 2202 5 8 ness 
+: 2208 10 6 found 
+- 2218
+: 2219 8 6 Where 
+: 2228 15 5 love 
+: 2244 6 6 is 
+: 2251 10 6 gone 
+- 2278
+: 2308 6 3 Won’t 
+: 2315 7 3 you 
+: 2323 6 6 stay 
+: 2330 4 6 to
+: 2335 12 3 night 
+- 2357
+: 2371 7 3 Let 
+: 2379 7 3 the 
+: 2387 7 6 truth 
+: 2395 3 6 shine 
+: 2399 12 1 bright 
+- 2421
+: 2435 6 3 Where 
+: 2442 9 3 can 
+: 2452 6 8 love 
+: 2459 3 8 be 
+: 2463 10 6 found 
+- 2473
+: 2474 3 6 If 
+: 2478 5 6 your 
+: 2484 13 5 heart 
+: 2498 7 6 won’t 
+: 2506 12 6 feel 
+- 2528
+* 2549 5 8 Me
+* 2555 1 8 mor
+* 2557 14 6 ies 
+- 2588
+: 2610 2 5 E
+: 2613 4 5 mo
+: 2618 8 6 tions 
+: 2627 6 6 that 
+: 2635 2 5 we 
+: 2638 10 6 share 
+- 2658
+: 2674 11 8 Tear
+: 2686 14 6 drops 
+- 2717
+: 2739 6 5 Sign
+: 2746 7 6 ing 
+: 2754 6 6 my 
+: 2761 20 6 face 
+- 2784
+: 2786 8 10 How 
+: 2795 4 8 could 
+: 2800 3 6 it 
+: 2804 6 8 end 
+: 2811 3 6 this 
+: 2815 10 8 way? 
+- 2835
+: 2850 15 10 Don’t 
+: 2866 5 8 leave 
+: 2872 14 6 me, 
+: 2896 7 1 love 
+: 2904 10 3 me 
+- 2931
+: 2971 3 8 Just 
+: 2975 3 8 a 
+: 2979 1 8 lit
+: 2981 2 8 tle 
+: 2984 2 10 bit 
+: 2987 8 8 long
+: 2996 6 6 er 
+- 3019
+: 3041 10 10 How 
+: 3052 3 8 could 
+: 3056 3 6 it 
+: 3060 7 8 end 
+: 3068 3 6 this 
+: 3072 10 8 way? 
+- 3092
+: 3107 16 10 Don’t 
+: 3124 5 8 leave 
+: 3130 12 6 me, 
+: 3154 6 1 love 
+: 3161 10 3 me 
+- 3188
+: 3226 3 8 Just 
+: 3230 3 8 a 
+: 3234 4 8 lit
+: 3239 2 8 tle 
+: 3242 2 10 bit 
+: 3245 4 8 long
+: 3250 7 6 er 
+- 3274
+* 3300 6 10 How 
+* 3307 3 8 could 
+* 3311 3 6 it 
+* 3315 6 8 end 
+* 3323 3 6 this 
+* 3327 10 8 way? 
+E

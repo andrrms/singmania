@@ -1,0 +1,196 @@
+#ARTIST:Keep Shelly in Athens
+#TITLE:You’ve Got A Kitty On A Timer
+#MP3:Keep Shelly in Athens - You’ve Got A Kitty On A Timer.mp3
+#CREATOR:Crowbardoctor
+#COVER:Keep Shelly in Athens - You’ve Got A Kitty On A Timer [CO].jpg
+#BACKGROUND:Keep Shelly in Athens - You’ve Got A Kitty On A Timer [BG].jpg
+#GENRE:Dream Pop
+#YEAR:2020
+#LANGUAGE:English
+#BPM:397.54
+#GAP:50560
+#VIDEO:a=9v2yx-9KPwE,co=youve-got-a-kitty-on-a-timer-68b9e444c22e0.jpg
+: 0 7 -3 Hide 
+: 9 4 -3 the 
+: 16 14 0 de
+: 32 23 2 bris 
+- 81
+: 129 4 0 In 
+: 135 6 2 the 
+: 145 15 0 pow
+: 161 33 -3 der 
+- 204
+: 246 7 -3 You’ve 
+: 255 9 -3 got 
+: 267 1 -3 a 
+: 272 15 0 ki
+: 288 28 2 tty 
+- 342
+: 382 4 0 On 
+: 389 5 2 a 
+: 397 16 -3 ti
+: 414 40 -3 mer 
+- 464
+: 501 5 4 You 
+: 509 6 4 can
+: 516 5 7 not 
+: 527 14 2 fool 
+: 543 30 0 me 
+- 599
+: 629 4 0 With 
+: 637 7 0 pho
+: 645 6 2 ny 
+: 653 15 -3 kind
+: 669 50 -3 ness 
+- 729
+: 754 11 4 When
+: 767 4 4 ev
+: 772 8 7 er 
+: 784 8 2 I 
+: 797 31 0 feel 
+- 854
+: 890 11 0 Grey 
+: 903 3 1 and 
+: 908 10 0 life
+: 922 32 -3 less 
+- 1007
+: 1456 6 -3 You’ll 
+: 1463 6 0 walk 
+: 1472 5 -3 on 
+: 1479 8 0 wa
+: 1488 7 -3 ter 
+: 1499 5 -3 when 
+: 1508 3 -3 I, 
+: 1516 8 -3 say 
+: 1527 6 -3 en
+: 1535 6 -3 ter
+: 1542 17 0 tain 
+: 1560 11 2 me 
+- 1580
+: 1583 4 -3 You’ll 
+: 1591 8 0 fash
+: 1600 4 -3 ion 
+: 1608 5 0 sil
+: 1615 8 -3 ver 
+: 1626 3 -5 and 
+: 1632 7 -3 gold 
+: 1646 6 -3 un
+: 1653 9 0 til 
+: 1663 3 2 you 
+: 1671 16 0 fail 
+: 1691 11 -3 me 
+- 1708
+: 1710 5 -3 You’ll 
+: 1718 10 0 fall 
+: 1729 3 -2 in 
+: 1734 6 0 love 
+: 1742 6 -3 with 
+: 1750 5 -5 a 
+: 1758 10 -3 ghost, 
+: 1774 4 -3 I 
+: 1782 7 -3 will 
+: 1790 6 -3 not 
+: 1799 12 0 hide 
+: 1814 16 2 her 
+- 1836
+: 1838 5 -3 You’ll 
+: 1846 5 0 beg 
+: 1854 4 2 me 
+: 1861 7 3 for 
+: 1869 7 2 the 
+: 1878 6 0 be
+: 1885 8 -3 lief, 
+: 1901 4 -3 that 
+: 1908 6 0 death 
+: 1917 6 2 is 
+: 1926 10 0 sa
+: 1940 20 -3 fer 
+- 1986
+: 2027 8 -3 The 
+: 2038 5 -3 end 
+: 2046 3 -3 is 
+: 2052 15 0 light
+: 2068 26 2 er 
+- 2120
+: 2161 8 0 When 
+: 2171 8 -3 you’re 
+: 2182 15 0 high
+: 2198 33 -3 er 
+- 2257
+: 2289 7 -3 Take 
+: 2298 5 -3 me 
+: 2306 15 0 home 
+: 2323 34 2 now 
+- 2367
+: 2409 6 -3 You 
+: 2417 8 0 i
+: 2426 4 2 dle 
+: 2432 18 0 spi
+: 2451 28 -3 der 
+- 2505
+: 2538 3 4 You’ve 
+: 2545 9 4 got 
+: 2555 2 6 a 
+: 2561 15 2 kit
+: 2578 35 0 ty 
+- 2639
+: 2672 7 0 On 
+: 2680 4 2 a 
+: 2686 17 0 ti
+: 2704 48 -3 mer 
+- 2762
+: 2795 11 5 You’re 
+: 2808 3 7 not 
+: 2814 16 2 wit
+: 2831 40 0 ty 
+- 2881
+: 2918 5 -3 Your 
+: 2927 8 0 fun 
+: 2938 3 2 is 
+: 2943 11 0 life
+: 2957 7 -3 less 
+- 3017
+: 3490 5 -3 You’ve 
+: 3499 8 0 got 
+: 3509 2 -3 a 
+: 3513 17 0 kit
+: 3531 21 -3 ty 
+- 3561
+: 3564 3 0 On 
+: 3570 5 2 a 
+: 3577 15 0 ti
+: 3593 18 -3 mer 
+- 3616
+: 3618 5 -3 You’ve 
+: 3627 9 0 got 
+: 3638 1 -3 a 
+: 3641 18 0 kit
+: 3660 20 -3 ty 
+- 3687
+: 3690 4 1 On 
+: 3697 5 2 a 
+: 3704 15 0 ti
+: 3720 19 -3 mer 
+- 3744
+: 3746 5 -3 You’ve 
+: 3753 8 0 got 
+: 3764 1 -3 a 
+: 3770 15 0 kit
+: 3786 21 -3 ty 
+- 3815
+: 3818 3 0 On 
+: 3824 5 2 a 
+: 3831 16 0 ti
+: 3848 19 -3 mer 
+- 3871
+: 3873 5 -4 You’ve 
+: 3881 7 0 got 
+: 3891 1 -3 a 
+: 3895 18 0 kit
+: 3914 23 -3 ty 
+- 3943
+: 3945 3 0 On 
+: 3951 3 0 a 
+: 3958 18 0 ti
+: 3977 12 -3 mer 
+E

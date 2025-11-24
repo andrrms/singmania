@@ -1,0 +1,240 @@
+#ARTIST:Neil Young
+#TITLE:Harvest Moon
+#MP3:Neil Young - Harvest Moon.mp3
+#CREATOR:Gollum
+#GENRE:Folk Rock
+#YEAR:1992
+#LANGUAGE:English
+#BPM:236
+#GAP:27650
+#VIDEO:v=n2MtEsrcTTs,co=https://i.discogs.com/emc3muimDeIB1NOxA5zwjRRmCoX7abAyvVQ8Bcaq35Q/rs:fit/g:sm/q:90/h:484/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjg2/OTQtMTQ5ODcwMjg5/Ny0yNjA4LmpwZWc.jpeg,bg=young-neil-54a5bdc2c1d58.jpg
+: 0 4 11 Come 
+: 5 2 11 a 
+: 8 4 11 lit
+: 13 2 11 tle 
+: 17 5 11 bit 
+: 25 7 14 clos
+: 34 7 16 er 
+- 43
+: 67 7 11 Hear 
+: 76 3 11 what 
+: 80 8 14 I 
+: 90 9 14 have 
+: 101 2 2 to 
+: 105 12 6 say 
+- 119
+: 266 4 11 Just 
+: 272 4 11 like 
+: 279 4 11 chil
+: 285 4 11 dren 
+: 292 5 14 sleep
+: 300 9 16 in’ 
+- 311
+: 336 2 11 We 
+: 341 2 11 could 
+: 344 7 11 dream 
+: 353 5 14 this 
+: 361 8 14 night 
+: 370 2 2 a
+: 374 12 9 way 
+- 388
+: 528 2 11 But 
+: 534 6 11 there’s 
+: 541 2 11 a 
+: 545 4 14 full 
+: 551 5 14 moon 
+: 558 11 16 ris
+: 570 5 18 in’ 
+- 577
+: 595 4 11 Let’s 
+: 600 6 11 go 
+: 608 10 14 danc
+: 621 3 16 in’ 
+: 625 10 14 in 
+: 637 2 2 the 
+: 641 22 9 light 
+- 665
+: 796 4 11 We 
+: 801 4 11 know 
+: 806 3 11 where 
+: 810 2 11 the 
+: 813 4 14 mu
+: 818 5 14 sic’s 
+: 826 11 16 play
+: 838 3 18 in’ 
+- 843
+: 863 3 11 Let’s 
+: 868 7 11 go 
+: 876 11 14 out 
+: 888 3 16 and 
+: 896 7 14 feel 
+: 905 2 2 the 
+: 909 12 9 night 
+- 923
+: 1061 2 11 Be
+: 1065 3 11 cause 
+: 1069 7 11 I’m 
+: 1081 2 11 still
+: 1084 1 14 ~ 
+: 1086 6 14 in 
+: 1094 10 16 love 
+: 1106 3 18 with 
+: 1111 10 16 you 
+- 1123
+: 1136 2 9 I 
+: 1139 4 9 want 
+: 1144 1 9 to 
+: 1147 7 18 see 
+: 1155 6 16 you 
+: 1164 7 14 dance 
+: 1173 2 13 a
+: 1177 3 14 gain
+: 1181 6 11 ~ 
+- 1189
+: 1198 2 11 Be
+: 1202 5 11 cause 
+: 1209 4 11 I’m 
+: 1217 4 14 still 
+: 1222 4 14 in 
+: 1228 6 16 love
+: 1235 2 9 ~ 
+: 1239 3 9 with 
+: 1244 4 9 you 
+- 1250
+: 1277 2 18 On
+: 1280 7 18 ~ 
+: 1288 6 16 this 
+: 1297 5 14 harv
+: 1303 5 13 est 
+: 1311 52 14 moon 
+- 1365
+: 1611 5 11 When 
+: 1618 3 11 we 
+: 1623 3 11 were 
+: 1631 7 14 stran
+: 1640 8 16 gers 
+- 1650
+: 1677 3 11 I 
+: 1682 4 11 watched 
+: 1691 6 14 you 
+: 1701 8 14 from 
+: 1710 2 2 a
+: 1715 24 6 far 
+- 1741
+: 1877 6 11 When 
+: 1887 3 11 we 
+: 1891 6 11 were 
+: 1899 8 14 lo
+: 1909 12 16 vers 
+- 1923
+: 1941 4 11 I 
+: 1946 4 11 loved 
+: 1953 11 14 you 
+: 1965 3 16 with 
+: 1969 8 14 all 
+: 1978 4 2 my 
+: 1984 26 9 heart 
+- 2012
+: 2137 3 11 But 
+: 2142 6 11 now 
+: 2151 2 11 it’s 
+: 2154 3 14 get
+: 2158 6 14 tin’ 
+: 2166 12 16 late
+: 2179 5 18 ~ 
+- 2186
+: 2204 4 11 And 
+: 2211 3 11 the 
+: 2216 11 14 moon 
+: 2228 5 16 is 
+: 2237 7 14 climb
+: 2245 3 2 in’ 
+: 2250 18 9 high 
+- 2270
+: 2396 6 11 I 
+: 2403 10 11 want 
+: 2415 2 11 to 
+: 2419 5 14 ce
+: 2425 6 14 le
+: 2433 11 16 brate
+: 2445 4 18 ~ 
+- 2451
+: 2469 3 11 See 
+: 2473 5 11 it 
+: 2482 16 14 shin
+: 2499 2 16 in’ 
+: 2502 5 14 in 
+: 2509 5 2 your 
+: 2516 48 9 eye 
+- 2566
+: 2666 2 11 Be
+: 2670 4 11 cause 
+: 2675 7 11 I’m 
+: 2686 3 14 still 
+: 2690 7 14 in 
+: 2699 9 16 love 
+: 2710 3 18 with 
+: 2715 3 16 you
+: 2719 6 16 ~ 
+- 2727
+: 2740 2 9 I 
+: 2743 4 9 want 
+: 2748 2 9 to 
+* 2751 8 18 see 
+* 2760 7 16 you 
+: 2769 7 14 dance 
+: 2777 2 13 a
+: 2781 2 14 gain
+: 2784 6 11 ~ 
+- 2792
+: 2802 3 11 Be
+: 2807 4 11 cause 
+: 2812 5 11 I’m 
+: 2822 3 14 still 
+: 2826 6 14 in 
+: 2833 8 16 love 
+: 2844 3 9 with 
+: 2848 11 9 you 
+- 2861
+: 2880 3 18 On
+: 2884 6 18 ~ 
+: 2892 6 16 this 
+: 2901 4 14 harv
+: 2906 6 13 est 
+: 2915 76 14 moon 
+- 2993
+: 3727 2 11 Be
+: 3731 4 11 cause 
+: 3736 8 11 I’m 
+: 3747 3 14 still 
+: 3751 7 14 in 
+: 3760 10 16 love 
+: 3772 3 18 with 
+: 3777 9 16 you 
+- 3788
+: 3801 2 9 I 
+: 3804 4 9 want 
+: 3809 2 9 to 
+: 3813 8 18 see 
+: 3823 5 16 you 
+: 3830 7 14 dance 
+: 3839 2 13 a
+: 3843 2 14 gain
+: 3846 5 11 ~ 
+- 3853
+: 3863 3 11 Be
+: 3868 5 11 cause 
+: 3874 5 11 I’m 
+: 3883 3 14 still 
+: 3887 6 14 in 
+* 3894 8 16 love 
+: 3906 2 9 with 
+: 3909 7 9 you 
+- 3918
+: 3941 3 18 On
+: 3945 6 18 ~ 
+: 3953 5 16 this 
+* 3961 4 14 harv
+* 3967 6 13 est 
+* 3976 77 14 moon 
+E

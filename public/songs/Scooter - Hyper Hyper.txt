@@ -1,0 +1,278 @@
+#ARTIST:Scooter
+#TITLE:Hyper Hyper
+#MP3:Scooter - Hyper Hyper.mp3
+#CREATOR:Leroidukitch
+#GENRE:Techno
+#YEAR:1994
+#LANGUAGE:English
+#BPM:321.64
+#GAP:2160
+#VIDEO:v=arLHb6JHi7Q,co=hyper-hyper-60ae6857b868b.jpg
+F 0 4 0 Is 
+F 5 9 0 everybody 
+F 15 1 0 on 
+F 17 1 0 the 
+F 19 10 0 floor? 
+- 31
+F 69 4 0 We 
+F 74 4 0 put 
+F 79 5 0 some 
+F 85 7 0 energy 
+F 93 4 0 into 
+F 98 4 0 this 
+F 103 9 0 place! 
+- 114
+F 142 4 0 I 
+F 147 6 0 want 
+F 154 4 0 to 
+F 159 3 0 ask 
+F 163 4 0 you 
+F 168 13 0 something: 
+- 183
+F 200 4 0 Are 
+F 205 3 0 you 
+F 209 2 0 ready 
+F 212 2 0 for 
+F 215 2 0 the 
+F 218 2 0 sound 
+F 221 7 0 of 
+- 229
+F 229 9 0 Scooter?! 
+- 240
+F 420 5 0 I 
+F 426 2 0 want 
+F 429 4 0 to 
+F 434 3 0 see 
+F 438 8 0 you 
+F 447 10 0 sweat! 
+- 459
+F 557 5 0 I 
+F 563 10 0 said: 
+F 579 5 0 I 
+F 585 4 0 want 
+F 590 6 0 to 
+F 597 5 0 see 
+F 603 7 0 you 
+F 611 10 0 sweat! 
+- 623
+F 668 22 0 Yeeah... 
+- 692
+: 739 12 2 Hy
+: 752 5 -3 per! 
+: 758 5 1 Hy
+: 764 7 -3 per! 
+- 773
+: 886 9 2 Hy
+: 896 5 -3 per! 
+: 902 5 1 Hy
+: 908 7 -3 per! 
+- 917
+: 1011 10 2 Hy
+: 1022 5 -3 per! 
+: 1028 5 1 Hy
+: 1034 7 -3 per! 
+- 1043
+F 1209 2 0 Excuse 
+F 1214 2 0 me! 
+F 1245 2 0 Where 
+F 1249 2 0 is 
+F 1253 2 0 the 
+F 1258 2 0 bass 
+F 1263 2 0 drum? 
+- 1267
+F 1402 5 0 We 
+F 1408 4 0 need 
+F 1413 4 0 the 
+F 1418 4 0 bass 
+F 1423 3 0 drum! 
+- 1428
+F 1550 2 0 Come 
+F 1554 2 0 on! 
+- 1558
+: 2163 12 2 Hy
+: 2176 5 -3 per! 
+: 2182 5 1 Hy
+: 2188 7 -3 per! 
+- 2197
+: 2323 13 2 Hy
+: 2337 5 -3 per! 
+: 2343 5 1 Hy
+: 2349 7 -3 per! 
+- 2358
+F 2498 2 0 It’s 
+F 2502 2 0 so 
+F 2506 2 0 beautiful 
+F 2521 1 0 to 
+F 2527 2 0 see 
+F 2533 2 0 your 
+F 2538 2 0 hands 
+F 2549 2 0 in 
+F 2553 2 0 the 
+F 2558 2 0 air! 
+- 2562
+F 2620 2 0 Put 
+F 2626 2 0 your 
+F 2631 2 0 hands 
+F 2642 2 0 in 
+F 2649 2 0 the 
+F 2654 2 0 air! 
+- 2658
+F 2738 2 0 Come 
+F 2742 2 0 on! 
+- 2746
+F 2809 2 0 This 
+F 2814 2 0 is 
+F 2819 3 0 Scooter! 
+- 2824
+F 2859 2 0 We 
+F 2864 2 0 want 
+F 2869 2 0 to 
+F 2873 2 0 sing 
+F 2878 3 0 a 
+F 2883 2 0 big 
+F 2887 2 0 shout 
+F 2893 2 0 to 
+F 2897 3 0 U.S., 
+F 2911 3 0 and 
+F 2925 2 0 to 
+F 2930 2 0 all 
+F 2935 3 0 ravers 
+F 2945 2 0 in 
+- 2949
+F 2957 2 0 The 
+F 2962 2 0 world! 
+- 2966
+F 2990 2 0 And 
+F 2996 2 0 to 
+F 3002 3 0 Westbam, 
+F 3029 2 0 Marusha, 
+F 3064 2 0 Stevie 
+F 3073 2 0 Mason, 
+F 3093 2 0 The 
+F 3098 2 0 Mystic 
+F 3103 2 0 Man, 
+F 3127 2 0 DJ 
+- 3131
+F 3138 2 0 Dick, 
+- 3142
+F 3156 2 0 Carl 
+F 3162 2 0 Cox, 
+F 3191 2 0 The 
+F 3196 2 0 Hooligan, 
+F 3226 2 0 Cosmic, 
+F 3254 2 0 Kid 
+F 3261 2 0 Paul, 
+F 3289 3 0 Dag, 
+F 3312 3 0 Mike 
+F 3319 2 0 Van 
+- 3323
+F 3326 2 0 Dyke, 
+- 3330
+F 3350 2 0 Jens 
+F 3357 2 0 Lissat, 
+F 3381 3 0 Lenny 
+F 3390 2 0 D., 
+F 3413 2 0 Sven 
+F 3418 2 0 Vath, 
+F 3444 2 0 Mark 
+F 3452 2 0 Spoon, 
+F 3478 2 0 Marco 
+- 3482
+F 3486 2 0 Zaffarano, 
+- 3490
+F 3514 2 0 Hell, 
+F 3536 2 0 Paul 
+F 3545 2 0 Elstak, 
+F 3574 2 0 Mate 
+F 3580 3 0 Galic, 
+F 3604 2 0 Roland 
+F 3613 3 0 Casper, 
+F 3638 3 0 Sylvie, 
+F 3669 1 0 Miss 
+- 3672
+F 3678 2 0 Djax, 
+- 3682
+F 3701 2 0 Jens 
+F 3709 2 0 Mahlstedt, 
+F 3732 2 0 Tanith, 
+F 3767 1 0 Laurent 
+F 3774 2 0 Garnier, 
+F 3801 1 0 Special, 
+F 3829 2 0 Pascal 
+- 3833
+F 3850 17 0 F.E.O.S., 
+- 3869
+F 3875 1 0 Gary 
+F 3883 2 0 D., 
+F 3894 2 0 Scotty, 
+F 3929 2 0 Gizmo,... 
+F 3955 2 0 and 
+F 3959 2 0 to 
+F 3964 2 0 all 
+F 3978 2 0 DJs 
+F 3985 2 0 all 
+F 3990 2 0 over 
+F 3996 3 0 the 
+- 4001
+F 4004 2 0 World! 
+- 4008
+F 5066 5 0 Keep 
+F 5072 3 0 the 
+F 5076 3 0 vibes... 
+- 5081
+: 5206 6 2 Hy
+: 5213 5 -3 per! 
+: 5219 5 1 Hy
+: 5225 7 -3 per! 
+- 5234
+: 5331 6 2 Hy
+: 5338 5 -3 per! 
+: 5344 5 1 Hy
+: 5350 7 -3 per! 
+- 5359
+: 5461 6 2 Hy
+: 5468 5 -3 per! 
+: 5474 5 1 Hy
+: 5480 7 -3 per! 
+- 5489
+F 5556 9 0 I’ll 
+F 5566 3 0 have 
+F 5570 4 0 to 
+F 5575 5 0 ask 
+F 5581 4 0 you 
+F 5586 6 0 again: 
+F 5620 6 0 do 
+F 5627 4 0 you 
+F 5632 3 0 like 
+F 5636 3 0 it 
+F 5640 6 0 hardcore? 
+- 5648
+F 5750 7 0 Do 
+F 5758 3 0 you 
+F 5762 2 0 like 
+F 5765 4 0 it 
+F 5770 6 0 hardcore? 
+- 5778
+F 5849 7 0 We 
+F 5857 3 0 need 
+F 5861 3 0 the 
+F 5865 6 0 hardcore! 
+- 5873
+F 5905 7 0 Come 
+F 5913 6 0 on! 
+F 5932 6 0 Come 
+F 5939 6 0 on! 
+F 5965 6 0 Come 
+F 5972 6 0 on! 
+- 5980
+: 6231 6 2 Hy
+* 6238 5 -3 per! 
+* 6244 5 1 Hy
+: 6250 7 -3 per! 
+- 6259
+F 6308 2 0 Sit 
+F 6313 2 0 there, 
+F 6317 2 0 be 
+F 6327 2 0 good, 
+F 6332 13 0 bye-bye! 
+E

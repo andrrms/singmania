@@ -1,0 +1,264 @@
+#ARTIST:Sandie Shaw
+#TITLE:Girl Don’t Come
+#MP3:Sandie Shaw - Girl Don’t Come.mp3
+#CREATOR:rote_rose
+#COVER:Sandie Shaw - Girl Don’t Come [CO].jpg
+#BACKGROUND:Sandie Shaw - Girl Don’t Come [BG].jpg
+#GENRE:Oldies
+#YEAR:1965
+#LANGUAGE:English
+#BPM:309.89
+#GAP:11210
+#VIDEO:a=4lQL-noM87Y,v=mp8sYIXN4K0,co=https://i.discogs.com/FQBHf-vugCWEAVzfX3jQIVwseVSbQMm1QWp6RqK9ozM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjI5/NTgtMTM2NzI4MTg1/MC0zNzIzLmpwZWc.jpeg,bg=shaw-sandie-5828fcb7a389a.jpg
+: 0 4 7 You 
+: 5 5 12 have 
+: 11 5 14 a 
+: 17 7 16 date 
+: 27 7 19 for 
+: 35 4 21 half 
+: 40 7 23 past 
+: 48 7 21 eight 
+: 56 4 16 to
+: 61 51 16 night 
+- 121
+: 124 4 7 Some 
+: 129 4 12 dis
+: 134 6 14 tant 
+: 141 10 16 bell 
+: 152 7 19 starts 
+: 160 5 21 chi
+: 166 5 23 min’ 
+: 172 7 21 nine
+: 180 36 19 ~ 
+- 220
+: 222 3 19 You 
+: 226 3 19 wan
+: 230 3 19 na 
+: 234 8 21 see 
+: 243 26 16 her 
+- 281
+* 285 2 18 You 
+* 288 3 18 wan
+* 292 3 18 na 
+* 296 7 23 see 
+* 304 10 23 her 
+- 318
+: 320 5 21 Oh 
+: 326 10 23 yeah 
+- 342
+: 345 4 21 So 
+: 350 8 23 you 
+: 359 10 24 wait 
+- 371
+: 373 4 23 You 
+: 378 4 21 wait 
+: 383 5 19 and 
+: 389 8 18 wait 
+- 404
+: 407 5 14 Girl 
+: 413 6 14 don’t 
+: 420 9 14 come
+: 430 44 16 ~ 
+- 484
+: 498 3 7 The 
+: 502 7 12 time 
+: 510 7 14 rolls 
+: 518 7 16 on 
+: 530 8 19 those 
+: 539 3 21 mi
+: 543 5 23 nutes 
+: 549 8 21 fly 
+: 558 42 16 by 
+- 610
+: 625 3 7 You 
+: 629 5 12 wan
+: 635 7 14 na 
+: 643 10 16 go 
+: 657 3 19 but 
+: 661 5 21 just 
+: 667 6 23 you 
+: 674 7 21 try 
+: 682 34 19 guy 
+- 722
+: 725 3 19 You 
+: 729 3 19 wan
+: 733 3 19 na 
+: 737 7 21 see 
+: 745 29 16 her 
+- 783
+: 787 3 18 You 
+: 791 3 18 wan
+: 795 3 18 na 
+: 799 7 23 see 
+: 807 11 23 her 
+- 821
+* 823 5 21 Oh 
+* 829 11 23 yeah 
+- 847
+: 850 4 21 So 
+: 855 8 23 you 
+: 864 10 24 wait 
+- 876
+: 878 4 23 You 
+: 883 3 21 wait 
+: 887 5 19 and 
+: 893 9 18 wait 
+- 911
+: 915 5 14 Girl 
+: 921 6 14 don’t 
+: 928 8 14 come
+: 937 40 16 ~ 
+- 987
+: 1010 4 17 You’ve 
+: 1015 4 17 been 
+: 1020 4 17 stood 
+: 1025 6 19 up 
+- 1038
+* 1041 8 19 Tears 
+* 1050 3 19 fill 
+* 1054 3 19 your 
+* 1058 9 23 eyes
+* 1068 12 19 ~ 
+- 1080
+F 1081 7 12 Oh 
+F 1089 3 12 uh 
+F 1093 4 12 oh 
+F 1098 23 12 oh 
+- 1131
+: 1135 3 17 You 
+: 1139 5 17 hurt 
+: 1145 5 17 in
+: 1151 12 19 side 
+- 1165
+: 1167 3 19 You 
+: 1171 3 19 wan
+: 1175 6 19 na 
+: 1183 11 26 die
+: 1195 9 24 ~
+: 1205 8 21 ~ 
+- 1213
+F 1214 8 12 Oh 
+F 1223 4 12 uh 
+F 1228 14 12 oh 
+- 1252
+: 1263 4 7 You 
+: 1268 5 12 have 
+: 1274 5 14 a 
+: 1280 7 16 date 
+: 1290 7 19 for 
+: 1298 4 21 half 
+: 1303 8 23 past 
+: 1312 7 21 eight 
+: 1320 4 16 to
+: 1325 45 16 night 
+- 1380
+: 1391 4 7 Some 
+: 1396 4 12 dis
+: 1401 6 14 tant 
+: 1408 10 16 bell 
+: 1420 7 19 starts 
+: 1428 5 21 chi
+: 1434 5 23 min’ 
+: 1440 7 21 nine
+: 1448 32 19 ~ 
+- 1488
+* 1491 3 19 You 
+* 1495 3 19 wan
+* 1499 3 19 na 
+* 1503 7 21 see 
+* 1511 33 16 her 
+- 1553
+: 1556 3 18 You 
+: 1560 3 18 wan
+: 1564 3 18 na 
+: 1568 7 23 see 
+: 1576 10 23 her 
+- 1590
+: 1592 5 23 Oh 
+: 1598 10 23 yeah 
+- 1614
+* 1617 4 21 So 
+* 1622 8 23 you 
+* 1631 8 24 wait 
+- 1644
+: 1646 4 23 You 
+: 1651 3 21 wait 
+: 1655 5 19 and 
+: 1661 9 18 wait 
+- 1679
+: 1682 5 14 Girl 
+: 1688 6 14 don’t 
+: 1695 8 14 come
+: 1704 40 16 ~ 
+- 1754
+: 1776 4 17 You’ve 
+: 1781 4 17 been 
+: 1786 4 17 stood 
+: 1791 5 19 up 
+- 1804
+: 1807 8 19 Tears 
+: 1816 3 19 fill 
+: 1820 3 19 your 
+: 1824 9 23 eyes
+: 1834 11 19 ~ 
+- 1845
+F 1846 7 12 Oh 
+F 1854 3 12 uh 
+F 1858 4 12 oh 
+F 1863 21 12 oh 
+- 1894
+* 1901 3 17 You 
+* 1905 4 17 hurt 
+* 1910 7 17 in
+* 1918 10 19 side 
+- 1931
+: 1933 2 19 You 
+: 1936 4 19 wan
+: 1941 6 19 na 
+: 1949 11 26 die
+: 1961 9 24 ~
+: 1971 8 21 ~ 
+- 1979
+F 1981 8 12 Oh 
+F 1990 3 12 uh 
+F 1994 4 12 oh 
+- 1999
+: 2001 3 19 You 
+: 2005 3 19 wan
+: 2009 3 19 na 
+: 2013 7 21 see 
+: 2021 27 16 her 
+- 2058
+: 2065 3 18 You 
+: 2069 3 18 wan
+: 2073 3 18 na 
+: 2078 7 23 see 
+: 2086 10 23 her 
+- 2100
+: 2102 5 23 Oh 
+: 2108 10 23 yeah 
+- 2124
+: 2127 4 21 So 
+: 2132 8 23 you 
+: 2141 8 24 wait 
+- 2153
+* 2155 4 23 You 
+* 2160 4 21 wait 
+* 2165 6 19 and 
+* 2172 8 18 wait 
+- 2188
+: 2191 5 14 Girl 
+: 2197 6 14 don’t 
+: 2204 8 14 come
+: 2213 32 16 ~ 
+- 2254
+* 2257 5 14 Girl 
+* 2263 6 14 don’t 
+* 2270 8 14 come
+* 2279 32 16 ~ 
+- 2317
+: 2320 5 14 Girl 
+: 2326 6 14 don’t 
+: 2333 9 14 come
+: 2343 65 16 ~ 
+E

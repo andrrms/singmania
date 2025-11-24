@@ -1,0 +1,152 @@
+#ARTIST:Anastasia (Liz Callaway)
+#TITLE:Once Upon A December
+#MP3:Anastasia (Liz Callaway) - Once Upon A December.mp3
+#CREATOR:ai-chan
+#YEAR:1998
+#LANGUAGE:English
+#BPM:400
+#GAP:21360
+#VIDEO:v=K1GeGG-HHZY,co=anastasia-6830ac5a54c2a.jpg,bg=anastasia-56ad1b2a4b207.jpg
+: 0 14 6 Dan
+: 23 4 7 cing 
+: 35 5 6 pairs, 
+- 42
+: 71 14 9 Pain
+: 93 4 7 ted 
+: 105 10 4 wings, 
+- 117
+: 141 13 7 Things 
+: 165 4 4 I 
+: 177 5 6 al
+: 187 3 2 most 
+: 202 4 -1 re
+: 211 24 4 mem
+: 246 18 6 ber 
+- 266
+: 282 15 6 And 
+: 305 3 7 a 
+: 316 14 6 song 
+: 351 13 6 some
+: 374 5 11 one 
+: 387 13 4 sings, 
+- 402
+: 423 10 7 Once 
+: 449 2 4 u
+: 457 14 6 pon 
+: 476 3 2 a 
+: 482 4 -1 De
+: 492 20 1 cem
+: 516 8 2 ~
+: 529 17 -1 ber 
+- 548
+: 566 16 9 Some
+: 588 4 7 one 
+: 600 9 9 holds
+: 611 4 7 ~ 
+: 622 5 7 me 
+: 635 14 7 safe 
+: 657 4 6 and 
+: 666 19 6 warm, 
+- 687
+: 704 15 7 Hor
+: 724 6 6 ses 
+: 738 6 6 prance 
+: 751 14 9 through 
+: 768 2 7 a 
+: 777 16 7 sil
+: 797 4 6 ver
+: 808 18 6 storm 
+- 828
+: 847 17 9 Fi
+: 868 6 7 gures 
+: 880 7 9 dan
+: 890 5 7 ~
+: 902 5 7 cing 
+: 913 13 7 grace
+: 939 5 6 ful
+: 949 14 6 ly 
+: 973 3 2 a
+: 983 18 1 cross 
+: 1007 9 2 my 
+: 1020 16 1 me
+: 1042 7 2 mo
+: 1056 61 6 ry 
+- 1119
+: 1922 15 10 Some
+: 1942 5 8 one 
+: 1953 15 10 holds 
+: 1975 4 8 me 
+: 1988 13 8 safe 
+: 2009 4 7 and 
+: 2020 18 7 warm, 
+- 2040
+: 2055 12 8 Hor
+: 2075 4 7 ses 
+: 2087 7 7 prance 
+: 2100 10 10 through 
+: 2112 2 8 a 
+: 2120 16 8 sil
+: 2140 4 7 ver
+: 2151 16 7 storm 
+- 2169
+: 2187 12 10 Fi
+: 2208 5 8 gures 
+: 2221 17 10 dan
+: 2242 6 8 cing 
+: 2253 15 8 grace
+: 2274 6 7 ful
+: 2285 16 7 ly 
+: 2308 4 3 a
+: 2320 12 2 cross 
+: 2341 9 3 my 
+: 2353 17 2 me
+: 2376 6 3 mo
+: 2387 53 7 ry 
+- 2442
+: 2457 22 8 Far 
+: 2481 4 9 a
+: 2487 24 8 way 
+: 2523 19 11 long 
+: 2547 3 9 ago
+: 2557 21 6 ~ 
+- 2580
+: 2592 14 9 Glow
+: 2611 6 6 ing 
+: 2623 15 8 dim 
+: 2641 6 4 as 
+: 2650 6 1 an 
+: 2659 22 6 em
+: 2688 22 8 ber 
+- 2712
+: 2726 18 8 Things 
+: 2749 6 9 my 
+: 2760 24 8 heart 
+: 2792 16 8 used 
+: 2816 5 13 to 
+: 2825 17 6 know, 
+- 2844
+: 2861 13 9 Things 
+: 2881 4 6 it 
+: 2892 14 8 yearns 
+: 2912 3 4 to 
+: 2920 3 1 re
+: 2926 28 3 mem
+: 2958 6 4 ~
+: 2967 50 8 ber 
+- 3019
+: 3055 14 9 And 
+: 3074 5 11 a 
+: 3088 21 9 song 
+: 3125 17 9 some
+: 3148 7 8 one 
+: 3164 85 13 sings, 
+- 3251
+: 3359 18 9 Once 
+: 3389 4 6 u
+: 3400 17 8 pon 
+: 3423 4 4 a 
+: 3432 6 1 De
+: 3443 43 3 cem
+: 3489 47 12 ~
+: 3544 168 13 ber 
+E

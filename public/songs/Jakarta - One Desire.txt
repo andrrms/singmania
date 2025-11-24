@@ -1,0 +1,215 @@
+#ARTIST:Jakarta
+#TITLE:One Desire
+#MP3:Jakarta - One Desire.mp3
+#CREATOR:michas17j
+#GENRE:Pop
+#YEAR:2008
+#LANGUAGE:English
+#BPM:260.08
+#GAP:480
+#VIDEO:v=M6Oq3zHqLPg,co=https://is1-ssl.mzstatic.com/image/thumb/Music/fa/69/15/mzi.mwemqsnr.jpg/5000x5000bb.jpg
+: 0 4 -1 He’s 
+: 8 4 3 still 
+* 16 4 3 a
+: 24 4 8 lone 
+* 32 2 3 in 
+: 36 2 -1 the 
+: 40 4 1 dar
+: 48 4 1 kness 
+- 54
+: 64 2 -1 And 
+: 68 2 1 the 
+: 72 8 3 ways 
+: 86 2 3 back 
+: 90 4 8 home 
+: 96 4 -1 are 
+: 104 4 1 end
+: 112 4 1 less 
+- 118
+: 120 4 -1 ’Cause 
+: 128 4 1 his 
+: 136 8 3 life 
+: 148 2 3 is 
+: 152 4 8 out 
+: 160 4 -1 of 
+: 168 4 1 fi
+: 176 4 1 re 
+- 182
+: 192 4 4 That’s 
+: 200 8 3 his 
+: 216 8 1 one 
+: 228 2 -2 de
+* 232 4 -1 si
+: 240 4 -4 re 
+- 246
+: 448 4 4 That’s 
+: 456 8 3 his 
+: 472 8 1 one 
+: 484 2 -2 de
+: 488 4 -1 si
+: 496 4 -4 re 
+- 502
+: 712 8 1 One 
+: 740 2 -2 de
+: 744 4 -1 si
+: 752 4 -4 re 
+- 758
+: 768 4 -1 He’s 
+: 776 4 3 still 
+: 784 4 3 a
+: 792 4 8 lone 
+: 800 2 3 in 
+* 804 2 -1 the 
+: 808 4 1 dar
+: 816 4 1 kness 
+- 822
+: 832 2 -1 And 
+: 836 2 1 the 
+: 840 8 3 ways 
+: 854 2 3 back 
+: 858 4 8 home 
+: 864 4 -1 are 
+: 872 4 1 end
+: 880 4 1 less 
+- 886
+: 888 4 -1 ’Cause 
+: 896 4 1 his 
+: 904 8 3 life 
+: 916 2 3 is 
+: 920 4 8 out 
+: 928 4 -1 of 
+: 936 4 1 fi
+: 944 4 1 re 
+- 950
+: 960 4 4 That’s 
+* 968 8 3 his 
+: 984 8 1 one 
+* 996 2 -2 de
+: 1000 4 -1 si
+: 1008 4 -4 re 
+- 1014
+: 1024 4 -1 Comes 
+: 1030 4 1 a 
+: 1036 4 3 fai
+* 1044 4 3 ry 
+* 1050 4 8 close 
+: 1058 2 3 to 
+: 1062 2 -1 his 
+: 1066 8 1 face 
+- 1076
+: 1078 2 -1 And 
+: 1082 4 3 gives 
+: 1088 4 3 him 
+: 1096 8 3 three 
+- 1106
+: 1112 2 8 Wish
+: 1116 2 8 es 
+: 1120 4 3 for 
+: 1126 2 -1 his 
+* 1130 4 1 help
+: 1136 4 1 less 
+: 1144 8 3 night 
+- 1153
+: 1154 2 3 Si
+: 1158 2 3 tu
+: 1162 4 3 a
+: 1168 4 3 tion 
+: 1178 4 8 gone 
+: 1186 4 -1 at 
+: 1192 4 1 least 
+: 1200 4 1 back 
+: 1208 3 3 home 
+- 1212
+: 1212 2 1 All 
+: 1216 4 4 the 
+: 1224 8 3 fai
+: 1236 4 1 ry 
+* 1242 6 1 wants 
+: 1252 4 -2 is 
+: 1260 8 -1 war 
+- 1270
+: 1736 8 1 One 
+: 1764 2 -2 de
+: 1768 4 -1 si
+: 1776 4 -4 re 
+- 1782
+: 1792 4 -1 He’s 
+: 1800 4 3 still 
+* 1808 4 3 a
+: 1816 4 8 lone 
+* 1824 2 3 in 
+: 1828 2 -1 the 
+: 1832 4 1 dar
+: 1840 4 1 kness 
+- 1846
+: 1856 2 -1 And 
+: 1860 2 1 the 
+: 1864 8 3 ways 
+: 1878 2 3 back 
+: 1882 4 8 home 
+: 1888 4 -1 are 
+: 1896 4 1 end
+: 1904 4 1 less 
+- 1910
+: 1912 4 -1 ’Cause 
+: 1920 4 1 his 
+* 1928 8 3 life 
+: 1940 2 3 is 
+: 1944 4 8 out 
+: 1952 4 -1 of 
+: 1960 4 1 fi
+: 1968 4 1 re 
+- 1974
+: 1984 4 4 That’s 
+: 1992 8 3 his 
+: 2008 8 1 one 
+: 2020 2 -2 de
+: 2024 4 -1 si
+: 2032 4 -4 re 
+- 2038
+: 2248 8 1 One 
+: 2276 2 -2 de
+* 2280 4 -1 si
+: 2288 4 -4 re 
+- 2294
+: 2496 4 4 That’s 
+: 2504 8 3 his 
+: 2520 8 1 one 
+: 2532 2 -2 de
+: 2536 4 -1 si
+: 2544 4 -4 re 
+- 2550
+: 2560 4 -1 He’s 
+: 2568 4 3 still 
+: 2576 4 3 a
+: 2584 4 8 lone 
+: 2592 2 3 in 
+: 2596 2 -1 the 
+: 2600 4 1 dar
+: 2608 4 1 kness 
+- 2614
+: 2624 2 -1 And 
+* 2628 2 1 the 
+: 2632 8 3 ways 
+: 2646 2 3 back 
+: 2650 4 8 home 
+* 2656 4 -1 are 
+: 2664 4 1 end
+: 2672 4 1 less 
+- 2678
+: 2680 4 -1 ’Cause 
+: 2688 4 1 his 
+: 2696 8 3 life 
+: 2708 2 3 is 
+: 2712 4 8 out 
+: 2720 4 -1 of 
+: 2728 4 1 fi
+: 2736 4 1 re 
+- 2742
+: 2752 4 4 That’s 
+: 2760 8 3 his 
+* 2776 8 1 one 
+: 2788 2 -2 de
+: 2792 4 -1 si
+: 2800 4 -4 re 
+E

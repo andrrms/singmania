@@ -1,0 +1,296 @@
+#ARTIST:Grave Digger
+#TITLE:Witchhunter
+#MP3:Grave Digger - Witchhunter.mp3
+#CREATOR:Bananenbenno
+#GENRE:Heavy Metal
+#YEAR:1985
+#LANGUAGE:English
+#BPM:254.22
+#GAP:7630
+#VIDEO:a=2Iz4r4YuSKI,co=witch-hunter-54ddae024544f.jpg,bg=grave-digger-53f4851d28edd.jpg
+* 0 12 16 Right! 
+- 14
+: 125 5 7 Have 
+: 131 2 7 you 
+: 134 3 7 seen 
+: 138 2 7 that 
+: 141 11 7 man 
+- 154
+: 157 6 7 Wrapped 
+: 164 2 7 up 
+: 167 1 7 all 
+: 169 2 7 in 
+: 173 7 7 black 
+- 182
+: 190 3 7 He 
+: 194 3 7 waits 
+: 198 3 7 for 
+: 202 2 7 his 
+: 205 11 7 chance 
+- 218
+: 221 6 7 Steps 
+: 228 1 7 be
+: 230 3 7 hind 
+: 234 3 7 your 
+: 238 8 7 back 
+- 248
+: 255 3 7 He’s 
+: 259 3 7 the 
+: 263 3 7 ra
+: 267 2 7 per 
+: 270 1 11 of 
+: 272 2 11 the 
+: 276 7 11 night 
+- 284
+: 285 3 10 Ne
+: 289 3 10 ver 
+: 293 2 10 seen 
+: 296 3 10 be
+: 300 4 6 fore 
+- 306
+: 318 5 7 There’s 
+: 324 3 7 no 
+: 328 2 7 war
+: 331 3 7 ning 
+: 335 1 10 when 
+: 337 2 10 he 
+: 340 6 10 comes 
+- 348
+: 349 5 10 Lock 
+: 355 3 10 your 
+: 359 2 10 bed
+: 362 3 10 room 
+: 366 11 10 door 
+- 379
+: 510 4 4 Jumped 
+: 515 2 4 the 
+: 518 3 4 gar
+: 522 2 4 den 
+: 526 9 4 wall 
+- 537
+: 541 4 4 Did 
+: 546 3 4 you 
+: 550 3 4 hear 
+: 554 2 4 him 
+: 557 8 4 howl 
+- 567
+: 572 5 4 Waits 
+: 578 2 4 out
+: 581 3 4 side 
+: 586 3 4 the 
+: 590 7 4 hall 
+- 599
+: 605 4 7 Can’t 
+: 610 3 7 you 
+: 614 2 7 see 
+: 617 2 7 him 
+: 620 12 7 frown 
+- 634
+: 636 5 7 Well, 
+: 642 3 7 this 
+: 646 3 7 guy 
+: 650 3 7 is 
+: 654 3 11 on 
+: 658 2 11 the 
+: 661 4 11 prowl 
+- 666
+: 666 3 10 For 
+: 670 2 10 e
+: 673 3 10 vil 
+: 677 3 10 and 
+: 681 3 10 for 
+: 685 7 14 lust 
+- 694
+: 700 4 7 If 
+: 705 3 7 you 
+: 709 3 7 meet 
+: 713 2 7 him, 
+: 716 3 13 pray 
+: 720 2 13 to 
+: 723 7 13 god 
+- 731
+: 732 3 10 Or 
+: 736 3 10 you 
+: 740 3 10 will 
+: 744 3 10 be 
+: 748 8 10 lost 
+- 757
+: 758 3 6 He’s 
+: 762 6 10 a 
+: 773 8 6 witch 
+: 782 4 6 hun
+: 787 6 10 ter, 
+: 798 13 6 witch 
+: 813 4 6 hun
+: 818 5 10 ter 
+- 825
+: 828 15 6 Witch 
+: 844 4 6 hun
+: 849 7 6 ter, 
+* 861 5 6 wi
+* 867 7 -1 ~tch 
+* 876 6 11 hun
+* 883 8 11 ter 
+- 893
+: 1020 3 4 Through 
+: 1024 2 4 the 
+: 1027 3 4 kit
+: 1031 3 4 chen 
+: 1035 8 7 door 
+- 1045
+: 1052 3 7 He’s 
+: 1056 3 7 just 
+: 1060 2 7 found 
+: 1063 3 7 his 
+: 1067 7 7 way 
+- 1076
+: 1082 4 7 Now 
+: 1087 2 7 the 
+: 1090 3 7 clock 
+: 1094 4 7 strikes 
+: 1100 7 7 four 
+- 1109
+: 1112 3 6 To
+: 1116 3 7 night 
+: 1120 3 4 he 
+: 1124 3 4 will 
+: 1128 8 4 stay 
+- 1138
+: 1145 5 7 Step
+: 1151 3 7 ping 
+: 1155 4 7 down 
+: 1160 2 7 your 
+: 1163 4 11 mar
+: 1168 2 11 ble 
+: 1171 4 11 hall 
+- 1176
+: 1176 3 4 He 
+: 1180 3 2 wears 
+: 1184 1 2 a 
+: 1186 2 2 shar
+: 1189 3 2 pened 
+: 1194 8 5 knife 
+- 1204
+: 1209 2 7 Well 
+: 1212 2 7 i 
+: 1215 3 7 can 
+: 1219 4 7 tell 
+: 1224 2 7 I 
+: 1227 2 13 told 
+: 1230 2 13 you 
+: 1233 4 13 so 
+- 1238
+: 1238 3 13 He 
+: 1242 5 10 wants 
+: 1248 2 10 you 
+: 1251 3 10 for 
+: 1255 3 10 his 
+: 1259 7 10 wife 
+- 1267
+: 1267 3 6 He’s 
+: 1271 6 10 a 
+: 1282 8 6 witch 
+: 1291 4 6 hun
+: 1296 6 10 ter, 
+: 1307 13 6 witch 
+: 1322 4 6 hun
+: 1327 5 10 ter 
+- 1334
+: 1338 15 6 Witch 
+: 1354 4 6 hun
+: 1359 7 6 ter, 
+* 1371 5 6 wi
+* 1377 7 -1 ~tch 
+* 1386 6 11 hun
+* 1393 10 11 t
+* 1404 32 9 ~er 
+- 1438
+: 2293 4 4 Jumped 
+: 2298 2 4 the 
+: 2301 3 4 gar
+: 2305 2 4 den 
+: 2309 9 4 wall 
+- 2320
+: 2325 5 7 Did 
+: 2331 3 7 you 
+: 2335 2 7 hear 
+: 2338 2 7 him 
+: 2341 9 7 howl 
+- 2352
+* 2357 6 16 Waits 
+* 2364 2 16 out
+* 2367 3 16 side 
+* 2371 1 16 the 
+* 2373 8 16 hall 
+- 2383
+: 2391 4 4 Can’t 
+: 2396 2 4 you 
+: 2399 2 4 see 
+: 2402 2 4 him 
+: 2405 5 9 fro
+: 2411 9 7 ~wn 
+- 2421
+: 2421 4 7 Well, 
+: 2426 3 7 this 
+: 2430 4 7 guy 
+: 2435 3 7 is 
+: 2439 3 11 on 
+: 2443 1 11 the 
+: 2445 4 11 prowl 
+- 2450
+: 2450 3 10 For 
+: 2454 2 10 e
+: 2457 3 10 vil 
+: 2461 3 10 and 
+: 2465 3 10 for 
+: 2469 8 14 lust 
+- 2479
+: 2484 4 7 If 
+: 2489 3 7 you 
+: 2493 3 7 meet 
+: 2497 2 7 him, 
+: 2500 3 13 pray 
+: 2504 2 13 to 
+: 2507 7 13 god 
+- 2516
+: 2517 4 10 Or 
+: 2522 2 10 you 
+: 2525 3 10 will 
+: 2529 2 10 be 
+: 2532 8 10 lost 
+- 2541
+: 2541 3 6 He’s 
+: 2545 6 10 a 
+: 2556 8 6 witch 
+: 2565 4 6 hun
+: 2570 6 10 ter, 
+: 2581 13 6 witch 
+: 2596 4 6 hun
+: 2601 5 10 ter 
+- 2608
+: 2613 17 6 Witch 
+: 2631 3 6 hun
+: 2635 4 6 ter, 
+: 2645 16 6 witch 
+: 2663 2 6 hun
+: 2666 10 6 ter 
+- 2678
+: 2679 14 6 Witch 
+: 2695 2 6 hun
+: 2698 7 6 ter, 
+: 2710 15 6 witch 
+: 2727 3 6 hun
+: 2731 5 6 ter 
+- 2738
+: 2743 14 6 Witch 
+: 2758 3 6 hun
+: 2762 6 6 ter, 
+: 2774 5 6 wi
+: 2780 8 -1 ~tch 
+* 2790 6 11 hun
+* 2797 87 11 ter 
+- 2886
+: 2982 30 16 Witch 
+: 3013 4 14 hun
+: 3018 35 16 ter 
+E

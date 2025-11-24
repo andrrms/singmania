@@ -1,0 +1,235 @@
+#ARTIST:Disney’s The Lion King
+#TITLE:I Just Can’t Wait To Be King
+#MP3:Disney’s The Lion King - I Just Can’t Wait To Be King.mp3
+#CREATOR:bertware
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1994
+#LANGUAGE:English
+#BPM:395.5
+#GAP:69340
+#VIDEO:v=NYSM1yw2tWQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/74/17/70741736-506d-4d62-4302-b4b0525df73b/06UMGIM20243.rgb.jpg/5000x5000bb.jpg,bg=the-lion-king-52e5f4da39d85.jpg
+#START:68
+: 0 2 1 I’m 
+: 4 2 1 gon
+* 8 4 1 na 
+: 16 4 3 be 
+: 24 4 6 a 
+: 32 6 10 migh
+: 40 4 8 ty 
+: 48 10 6 king 
+- 60
+: 64 2 1 So 
+: 68 2 3 e
+: 72 4 6 ne
+: 80 4 6 mies 
+: 88 4 8 be
+: 96 8 6 ware 
+- 106
+: 258 2 1 I’m 
+: 262 2 1 gon
+: 266 4 1 na 
+: 274 6 3 be 
+: 282 4 6 the 
+* 290 6 10 main 
+: 298 4 8 e
+: 306 4 6 vent 
+- 312
+: 320 2 1 Like 
+: 324 4 3 no 
+: 330 4 6 king 
+: 338 4 6 was 
+: 346 4 8 be
+: 354 10 6 fore 
+- 366
+: 386 2 1 I’m 
+: 390 4 3 bru
+: 396 4 6 shing 
+: 404 4 6 up 
+: 412 4 3 on 
+: 418 6 9 loo
+: 426 4 8 king 
+: 434 8 6 down 
+- 444
+: 450 2 6 I’m 
+: 454 4 10 wor
+: 460 4 6 king 
+: 468 4 6 on 
+: 476 6 6 my 
+: 484 16 6 roar 
+- 502
+: 628 2 3 Oh 
+: 632 8 6 I 
+: 644 12 9 just 
+: 660 6 8 ca
+: 668 4 6 ~n’t 
+* 676 8 13 wait 
+: 692 2 8 to 
+: 696 10 6 be 
+: 708 32 6 king 
+- 742
+: 820 2 3 No 
+: 824 2 3 one 
+: 828 2 6 say
+: 832 2 6 ing 
+: 836 10 8 “Do 
+: 848 8 6 this!” 
+- 858
+: 884 2 3 No 
+: 888 2 3 one 
+: 892 2 6 say
+: 896 2 6 ing 
+: 900 10 10 “Be 
+: 912 16 8 there!” 
+- 930
+: 948 2 3 No 
+: 952 2 3 one 
+: 956 2 6 say
+: 960 2 6 ing 
+* 964 10 10 “Stop 
+: 976 12 8 that!” 
+- 990
+: 1012 2 3 No 
+: 1016 2 3 one 
+: 1020 2 6 say
+: 1024 2 6 ing 
+: 1028 10 11 “See 
+: 1040 24 10 he
+: 1066 2 8 ~
+: 1070 10 6 ~re” 
+- 1082
+: 1092 6 3 Free 
+: 1100 4 6 to 
+: 1108 6 6 run 
+: 1116 4 3 a
+: 1124 10 6 round 
+: 1140 6 10 a
+: 1148 6 6 ~ll 
+: 1156 14 8 day 
+- 1172
+: 1220 6 9 Free 
+: 1228 6 9 to 
+: 1236 6 8 do 
+: 1244 4 6 it 
+: 1252 12 8 all 
+: 1268 6 8 my
+: 1276 6 6 ~ 
+: 1284 30 6 way 
+- 1316
+: 1540 6 3 Kings 
+: 1548 6 6 don’t 
+: 1556 4 6 need 
+: 1562 4 3 ad
+: 1568 6 6 vice 
+- 1576
+: 1580 6 6 From 
+: 1588 2 6 lit
+: 1592 4 8 tle 
+* 1600 8 10 horn
+: 1612 4 10 bills 
+: 1620 4 10 for 
+: 1626 4 8 a 
+: 1632 18 6 start 
+- 1652
+: 2038 2 3 Oh 
+: 2042 8 6 I 
+: 2054 12 9 just 
+: 2070 6 8 ca
+: 2078 4 6 ~n’t 
+: 2086 6 13 wait 
+: 2102 2 8 to 
+: 2106 6 6 be 
+: 2114 36 6 king 
+- 2152
+: 2486 2 4 Eve
+: 2490 2 4 ry
+* 2494 2 7 bo
+: 2498 2 7 dy 
+: 2502 4 9 look 
+: 2512 8 7 left 
+- 2522
+: 2550 2 4 Eve
+: 2554 2 4 ry
+: 2558 2 7 bo
+: 2562 2 7 dy 
+: 2566 6 11 look 
+: 2576 10 9 right 
+- 2588
+: 2614 2 4 Eve
+: 2618 2 4 ry
+: 2622 2 7 where 
+: 2626 2 7 you 
+: 2630 6 11 look 
+: 2642 8 9 I’m 
+- 2652
+: 2678 2 7 Stan
+: 2682 2 7 ding 
+: 2686 2 7 in 
+: 2690 2 7 the 
+* 2694 6 12 spot
+: 2704 16 11 light 
+- 2722
+: 2748 6 2 Let 
+: 2758 4 4 eve
+: 2766 2 7 ry 
+: 2770 10 7 crea
+: 2782 2 4 ture 
+- 2785
+: 2786 6 7 Go 
+: 2796 2 7 for 
+: 2800 10 11 broke 
+: 2812 6 7 and 
+* 2820 34 9 sing 
+- 2856
+: 2876 6 2 Let’s 
+: 2884 6 4 hear 
+: 2892 2 7 it 
+: 2896 10 7 in 
+: 2908 2 4 the 
+: 2912 10 7 herd 
+- 2923
+: 2924 2 7 And 
+* 2928 10 11 on 
+: 2940 6 7 the 
+: 2948 30 9 wing 
+- 2980
+: 3002 6 2 It’s 
+: 3010 6 4 gon
+: 3020 2 7 na 
+: 3024 10 7 be 
+- 3035
+: 3036 4 4 King 
+: 3044 6 7 Sim
+: 3052 4 7 ba’s 
+: 3058 8 11 fi
+: 3068 6 7 nest 
+: 3076 30 9 fling 
+- 3108
+: 3124 2 4 Oh 
+: 3128 8 7 I 
+: 3140 10 10 just 
+: 3156 12 9 can’t 
+: 3172 12 9 wait 
+: 3188 2 9 to 
+: 3192 10 7 be 
+: 3204 32 7 king 
+- 3238
+: 3252 2 4 Oh 
+: 3256 8 7 I 
+: 3268 10 10 just 
+: 3284 12 9 can’t 
+: 3300 12 9 wait 
+: 3316 2 9 to 
+: 3320 10 7 be 
+: 3332 32 7 king 
+- 3366
+: 3380 2 4 Oh 
+: 3384 8 7 I 
+: 3396 10 10 just 
+: 3412 12 9 can’t 
+* 3428 88 9 wait 
+- 3518
+: 3538 2 9 To 
+: 3542 10 7 be 
+: 3554 96 7 king 
+E

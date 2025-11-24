@@ -1,0 +1,617 @@
+#ARTIST:Rage Against The Machine
+#TITLE:Bombtrack
+#MP3:Rage Against The Machine - Bombtrack.mp3
+#CREATOR:bohning
+#COVER:Rage Against The Machine - Bombtrack [CO].jpg
+#BACKGROUND:Rage Against The Machine - Bombtrack [BG].jpg
+#GENRE:Rock
+#YEAR:1992
+#LANGUAGE:English
+#BPM:301.22
+#GAP:24800
+#VIDEO:v=MUaL1FnotRQ,co=bombtrack-520994b2ed084.jpg,bg=rage-against-the-machine-537881b93200f.jpg
+F 0 16 0 Ughh! 
+- 18
+R 96 5 0 Hey 
+R 102 3 0 yo, 
+R 106 4 0 it’s 
+R 111 4 0 just 
+R 116 1 0 a
+R 118 3 0 no
+R 122 6 0 ther 
+R 132 9 0 bomb
+R 142 10 0 track 
+- 154
+F 180 16 0 Ughh! 
+- 198
+R 348 6 0 Hey 
+R 355 2 0 yo, 
+R 358 4 0 it’s 
+R 363 4 0 just 
+R 368 1 0 a
+R 370 3 0 no
+R 374 4 0 ther 
+R 384 7 0 bomb
+R 392 12 0 track 
+- 406
+R 432 12 0 Yeah! 
+- 446
+R 492 3 0 It 
+R 496 3 0 goes 
+R 500 3 0 a-
+R 504 8 0 one, 
+R 520 6 0 two, 
+R 536 6 0 three, 
+R 544 3 0 and 
+- 548
+R 548 3 0 It’s 
+R 552 3 0 just 
+R 556 3 0 a
+R 560 3 0 no
+R 564 3 0 ther 
+R 568 7 0 bomb
+R 576 8 0 track 
+- 586
+R 588 2 0 And 
+R 591 3 0 suc
+R 595 2 0 kas 
+R 598 2 0 be 
+R 601 1 0 thin
+R 603 2 0 kin’ 
+R 606 3 0 that 
+R 610 2 0 they 
+R 613 3 0 can 
+R 620 5 0 fade 
+R 626 6 0 this 
+- 634
+R 636 3 0 But 
+R 640 3 0 I’
+R 644 2 0 ma 
+R 648 4 0 drop 
+R 653 3 0 it 
+R 657 3 0 at 
+R 661 2 0 a 
+R 664 3 0 high
+R 668 3 0 er 
+R 672 3 0 le
+R 676 4 0 vel 
+- 682
+R 684 4 0 ’Cause 
+R 689 3 0 I’m 
+R 693 2 0 in
+R 696 8 0 clined 
+R 705 2 0 to 
+R 708 7 0 stoop 
+R 716 11 0 down 
+- 728
+R 728 5 0 Hand 
+R 734 2 0 out 
+R 737 5 0 some 
+R 743 5 0 beat
+R 749 7 0 downs 
+- 758
+R 760 5 0 Cold 
+R 766 3 0 run
+R 770 3 0 na 
+R 774 7 0 train 
+R 782 4 0 on 
+R 787 5 0 punk 
+R 793 4 0 ho’s 
+R 798 2 0 that 
+- 801
+R 801 3 0 Think 
+R 805 3 0 they 
+R 809 3 0 run 
+R 813 3 0 the 
+R 817 7 0 game 
+- 826
+R 832 2 0 But 
+R 835 2 0 I 
+R 838 6 0 learned 
+R 846 2 0 to 
+R 856 5 0 burn 
+R 862 5 0 that 
+R 868 10 0 bridge 
+R 879 2 0 and 
+R 882 2 0 de
+R 885 7 0 lete 
+- 893
+R 894 8 0 Those 
+R 903 5 0 who 
+R 909 4 0 com
+R 914 5 0 pete 
+R 924 3 0 at 
+R 928 1 0 a 
+R 930 1 0 le
+R 932 2 0 vel 
+R 935 2 0 that’s 
+R 938 3 0 ob
+R 942 3 0 so
+R 946 3 0 lete 
+- 950
+R 950 2 0 In
+R 953 4 0 stead 
+R 958 2 0 I 
+R 961 4 0 warm 
+R 966 4 0 my 
+R 971 4 0 hands 
+R 976 1 0 u
+R 978 3 0 pon 
+R 982 3 0 the 
+R 986 4 0 flames 
+R 991 2 0 of 
+R 994 2 0 the 
+R 997 11 0 flag 
+- 1009
+R 1010 4 0 So 
+R 1015 2 0 re
+R 1018 6 0 call 
+R 1025 5 0 our 
+R 1031 4 0 down
+R 1036 5 0 fall 
+- 1042
+R 1042 3 0 And 
+R 1046 3 0 the 
+R 1050 3 0 busi
+R 1054 3 0 nes
+R 1058 3 0 ses 
+R 1062 3 0 that 
+R 1066 3 0 burned 
+R 1070 3 0 us 
+R 1074 9 0 all 
+- 1084
+R 1084 4 0 See 
+R 1089 6 0 through 
+R 1096 2 0 the 
+R 1099 6 0 news 
+R 1106 2 0 and 
+R 1109 3 0 the 
+R 1113 6 0 views 
+R 1120 3 0 that 
+R 1124 3 0 twist 
+R 1128 2 0 re
+R 1131 3 0 a
+R 1135 2 0 li
+R 1138 6 0 ty 
+- 1146
+R 1152 1 0 E
+R 1154 5 0 nough, 
+R 1160 3 0 I 
+R 1164 3 0 call 
+R 1168 3 0 the 
+R 1172 6 0 bluff 
+- 1180
+R 1183 3 0 For 
+R 1187 1 0 Ma
+R 1189 2 0 ni
+R 1192 3 0 fest 
+R 1196 3 0 Des
+R 1200 3 0 ti
+R 1204 4 0 ny 
+- 1210
+R 1212 3 0 Land
+R 1216 4 0 lords 
+R 1221 3 0 and 
+R 1225 2 0 po
+R 1228 3 0 wer 
+R 1232 3 0 whores 
+- 1236
+R 1236 3 0 On 
+R 1240 3 0 my 
+R 1244 3 0 peo
+R 1248 3 0 ple 
+R 1252 3 0 they 
+R 1256 6 0 took 
+R 1263 9 0 turns 
+- 1274
+R 1280 3 0 Dis
+R 1284 3 0 pute 
+R 1288 3 0 the 
+R 1292 5 0 suits 
+R 1298 2 0 I 
+R 1301 3 0 ig
+R 1305 5 0 nite 
+- 1311
+R 1312 3 0 And 
+R 1316 3 0 then 
+R 1320 3 0 watch 
+R 1324 3 0 ’em 
+R 1328 7 0 burn 
+- 1337
+R 1344 3 0 With 
+R 1348 3 0 the 
+R 1352 7 0 thoughts 
+R 1360 3 0 from 
+R 1364 3 0 a 
+R 1368 3 0 mi
+R 1372 3 0 li
+R 1376 3 0 tant 
+R 1380 11 0 mind 
+- 1393
+R 1414 4 0 Hard
+R 1420 7 0 line, 
+R 1428 5 0 hard
+R 1434 6 0 line 
+R 1441 2 0 af
+R 1444 3 0 ter 
+R 1448 7 0 hard
+R 1456 8 0 line 
+- 1466
+R 1468 3 0 Land
+R 1472 5 0 lords 
+R 1478 2 0 and 
+R 1481 3 0 po
+R 1485 2 0 wer 
+R 1488 5 0 whores 
+- 1494
+R 1494 3 0 On 
+R 1498 3 0 my 
+R 1502 2 0 peo
+R 1505 3 0 ple 
+R 1509 3 0 they 
+R 1513 6 0 took 
+R 1520 10 0 turns 
+- 1532
+R 1536 3 0 Dis
+R 1540 3 0 pute 
+R 1544 2 0 the 
+R 1547 7 0 suits 
+R 1555 2 0 I 
+R 1558 3 0 ig
+R 1562 5 0 nite 
+- 1568
+R 1568 3 0 And 
+R 1572 3 0 then 
+R 1576 4 0 watch 
+R 1581 3 0 ’em 
+R 1585 7 0 burn! 
+- 1594
+R 1598 10 0 Burn, 
+R 1610 9 0 burn, 
+R 1620 3 0 yes 
+R 1624 3 0 ya 
+R 1628 2 0 gon
+R 1631 3 0 na 
+R 1636 10 0 burn! 
+- 1648
+R 1660 10 0 Burn, 
+R 1672 9 0 burn, 
+R 1682 3 0 yes 
+R 1686 3 0 ya 
+R 1690 2 0 gon
+R 1693 3 0 na 
+R 1698 10 0 burn! 
+- 1710
+R 1724 10 0 Burn, 
+R 1736 9 0 burn, 
+R 1746 3 0 yes 
+R 1750 3 0 ya 
+R 1754 2 0 gon
+R 1757 3 0 na 
+R 1762 10 0 burn! 
+- 1774
+R 1786 10 0 Burn, 
+R 1798 9 0 burn, 
+R 1808 3 0 yes 
+R 1812 3 0 ya 
+R 1816 2 0 gon
+R 1819 3 0 na 
+R 1824 7 0 burn! 
+- 1832
+R 1832 3 0 Yes 
+R 1836 3 0 ya 
+R 1840 2 0 gon
+R 1843 3 0 na 
+R 1849 10 0 burn, 
+R 1862 9 0 burn, 
+R 1872 3 0 yes 
+R 1876 3 0 ya 
+R 1880 2 0 gon
+R 1883 3 0 na 
+R 1888 10 0 burn! 
+- 1900
+R 1912 10 0 Burn, 
+R 1924 9 0 burn, 
+R 1934 3 0 yes 
+R 1938 3 0 ya 
+R 1942 2 0 gon
+R 1945 3 0 na 
+R 1950 10 0 burn! 
+- 1962
+R 1974 10 0 Burn, 
+R 1986 9 0 burn, 
+R 1996 3 0 yes 
+R 2000 3 0 ya 
+R 2004 2 0 gon
+R 2007 3 0 na 
+R 2012 10 0 burn! 
+- 2024
+R 2038 10 0 Burn, 
+R 2050 9 0 burn, 
+R 2060 3 0 yes 
+R 2064 3 0 ya 
+R 2068 2 0 gon
+R 2071 3 0 na 
+R 2076 10 0 burn! 
+- 2087
+R 2088 2 0 It 
+R 2091 4 0 goes 
+R 2096 3 0 a-
+R 2100 7 0 one, 
+R 2114 5 0 two, 
+R 2130 4 0 three 
+- 2135
+R 2136 1 0 A
+R 2138 2 0 no
+R 2141 2 0 ther 
+R 2145 3 0 fun
+R 2149 4 0 ky 
+R 2156 1 0 ra
+R 2158 1 0 di
+R 2160 3 0 cal 
+R 2164 5 0 bomb
+R 2170 5 0 track 
+- 2176
+R 2176 5 0 Star
+R 2182 4 0 ted 
+R 2188 3 0 as 
+R 2192 1 0 a 
+R 2194 5 0 sketch 
+R 2200 2 0 in 
+R 2203 2 0 my 
+R 2206 6 0 note
+R 2214 6 0 book 
+- 2222
+R 2232 3 0 And 
+R 2236 3 0 now 
+R 2240 7 0 dope 
+R 2248 3 0 hooks 
+R 2252 3 0 make 
+R 2256 7 0 punks 
+R 2264 3 0 take 
+R 2268 1 0 a
+R 2270 2 0 no
+R 2273 3 0 ther 
+R 2277 7 0 look 
+- 2285
+R 2286 3 0 My 
+R 2290 9 0 thoughts 
+R 2300 3 0 ya 
+R 2304 7 0 hear 
+R 2312 3 0 and 
+R 2316 3 0 ya 
+R 2320 1 0 be
+R 2322 4 0 gin 
+R 2327 3 0 to 
+R 2331 6 0 fear, 
+R 2338 8 0 fear 
+- 2347
+R 2347 3 0 That 
+R 2351 3 0 ya 
+R 2355 3 0 card 
+R 2359 3 0 will 
+R 2363 3 0 get 
+R 2367 8 0 pulled 
+R 2379 4 0 if 
+R 2384 3 0 you 
+R 2388 2 0 in
+R 2391 2 0 ter
+R 2394 4 0 fe
+R 2399 3 0 ~re-
+R 2404 6 0 fere 
+- 2411
+R 2412 2 0 With 
+R 2415 3 0 the 
+R 2420 3 0 thoughts 
+R 2424 3 0 from 
+R 2428 3 0 a 
+R 2432 2 0 mi
+R 2435 2 0 li
+R 2438 5 0 tant, 
+R 2444 2 0 mi
+R 2447 2 0 li
+R 2450 4 0 tant 
+R 2455 12 0 mind 
+- 2469
+R 2488 7 0 Hard
+R 2496 8 0 line, 
+R 2506 5 0 hard
+R 2512 6 0 line 
+R 2519 2 0 af
+R 2522 3 0 ter 
+R 2526 5 0 hard
+R 2532 10 0 line 
+- 2544
+R 2546 3 0 Land
+R 2550 5 0 lords 
+R 2556 3 0 and 
+R 2560 2 0 po
+R 2563 3 0 wer 
+R 2567 4 0 whores 
+- 2572
+R 2572 3 0 On 
+R 2576 2 0 my 
+R 2579 2 0 peo
+R 2582 3 0 ple 
+R 2586 4 0 they 
+R 2591 5 0 took 
+R 2597 9 0 turns 
+- 2608
+R 2614 3 0 Dis
+R 2618 4 0 pute 
+R 2623 2 0 the 
+R 2626 5 0 suits 
+R 2632 2 0 I 
+R 2635 2 0 ig
+R 2638 4 0 nite 
+- 2644
+R 2646 3 0 And 
+R 2650 3 0 then 
+R 2654 3 0 watch 
+R 2658 3 0 ’em 
+R 2662 10 0 burn! 
+- 2673
+R 2674 10 0 Burn, 
+R 2686 9 0 burn, 
+R 2696 3 0 yes 
+R 2700 3 0 ya 
+R 2704 2 0 gon
+R 2707 3 0 na 
+R 2712 10 0 burn! 
+- 2724
+R 2736 10 0 Burn, 
+R 2748 9 0 burn, 
+R 2758 3 0 yes 
+R 2762 3 0 ya 
+R 2766 2 0 gon
+R 2769 3 0 na 
+R 2774 10 0 burn! 
+- 2786
+R 2800 10 0 Burn, 
+R 2812 9 0 burn, 
+R 2822 3 0 yes 
+R 2826 3 0 ya 
+R 2830 2 0 gon
+R 2833 3 0 na 
+R 2838 10 0 burn! 
+- 2850
+R 2862 10 0 Burn, 
+R 2874 9 0 burn, 
+R 2884 3 0 yes 
+R 2888 3 0 ya 
+R 2892 2 0 gon
+R 2895 3 0 na 
+R 2900 7 0 burn! 
+- 2908
+R 2908 3 0 Yes 
+R 2912 3 0 ya 
+R 2916 2 0 gon
+R 2919 3 0 na 
+R 2925 10 0 burn, 
+R 2938 9 0 burn, 
+R 2948 3 0 yes 
+R 2952 3 0 ya 
+R 2956 2 0 gon
+R 2959 3 0 na 
+R 2964 10 0 burn! 
+- 2976
+R 2988 10 0 Burn, 
+R 3000 9 0 burn, 
+R 3010 3 0 yes 
+R 3014 3 0 ya 
+R 3018 2 0 gon
+R 3021 3 0 na 
+R 3026 10 0 burn! 
+- 3038
+R 3050 10 0 Burn, 
+R 3062 9 0 burn, 
+R 3072 3 0 yes 
+R 3076 3 0 ya 
+R 3080 2 0 gon
+R 3083 3 0 na 
+R 3088 10 0 burn! 
+- 3100
+R 3114 10 0 Burn, 
+R 3126 9 0 burn, 
+R 3136 3 0 yes 
+R 3140 3 0 ya 
+R 3144 2 0 gon
+R 3147 3 0 na 
+R 3152 10 0 burn! 
+- 3164
+F 3268 52 0 Euurrrggghhhhh! 
+- 3322
+F 3420 12 0 Uggh! 
+- 3434
+R 3524 3 0 Hey 
+R 3528 4 0 yo, 
+R 3533 3 0 it’s 
+R 3537 5 0 just 
+R 3543 2 0 a
+R 3546 2 0 no
+R 3549 4 0 ther 
+R 3556 8 0 bomb
+R 3566 10 0 track 
+- 3578
+R 3608 8 0 Yeah! 
+- 3618
+F 3668 8 0 Uggh! 
+- 3678
+R 3762 4 0 Check 
+R 3767 3 0 it 
+R 3771 5 0 out! 
+- 3778
+R 3802 10 0 Burn, 
+R 3814 9 0 burn, 
+R 3824 3 0 yes 
+R 3828 3 0 ya 
+R 3832 2 0 gon
+R 3835 3 0 na 
+R 3840 10 0 burn! 
+- 3852
+R 3864 10 0 Burn, 
+R 3876 9 0 burn, 
+R 3886 3 0 yes 
+R 3890 3 0 ya 
+R 3894 2 0 gon
+R 3897 3 0 na 
+R 3902 7 0 burn! 
+- 3910
+R 3910 3 0 Yes 
+R 3914 3 0 ya 
+R 3918 2 0 gon
+R 3921 3 0 na 
+R 3927 10 0 burn, 
+R 3940 9 0 burn, 
+R 3950 3 0 yes 
+R 3954 3 0 ya 
+R 3958 2 0 gon
+R 3961 3 0 na 
+R 3966 10 0 burn! 
+- 3978
+R 3992 10 0 Burn, 
+R 4004 9 0 burn, 
+R 4014 3 0 yes 
+R 4018 3 0 ya 
+R 4022 2 0 gon
+R 4025 3 0 na 
+R 4030 10 0 burn! 
+- 4042
+R 4056 10 0 Burn, 
+R 4068 9 0 burn, 
+R 4078 3 0 yes 
+R 4082 3 0 ya 
+R 4086 2 0 gon
+R 4089 3 0 na 
+R 4094 10 0 burn! 
+- 4106
+R 4118 10 0 Burn, 
+R 4130 9 0 burn, 
+R 4140 3 0 yes 
+R 4144 3 0 ya 
+R 4148 2 0 gon
+R 4151 3 0 na 
+R 4156 7 0 burn! 
+- 4164
+R 4164 3 0 Yes 
+R 4168 3 0 ya 
+R 4172 2 0 gon
+R 4175 3 0 na 
+R 4181 10 0 burn, 
+R 4194 9 0 burn, 
+R 4204 3 0 yes 
+R 4208 3 0 ya 
+R 4212 2 0 gon
+R 4215 3 0 na 
+R 4220 10 0 burn! 
+- 4232
+R 4244 10 0 Burn, 
+R 4256 9 0 burn, 
+R 4266 3 0 yes 
+R 4270 3 0 ya 
+R 4274 2 0 gon
+R 4277 3 0 na 
+R 4282 10 0 burn! 
+- 4294
+R 4304 14 0 Burn! 
+E

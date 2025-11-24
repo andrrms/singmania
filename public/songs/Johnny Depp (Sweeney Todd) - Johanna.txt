@@ -1,0 +1,139 @@
+#ARTIST:Johnny Depp (Sweeney Todd)
+#TITLE:Johanna
+#MP3:Johnny Depp (Sweeney Todd) - Johanna.mp3
+#CREATOR:0acht15
+#GENRE:Soundtrack
+#YEAR:2007
+#LANGUAGE:English
+#BPM:426.6
+#GAP:8000
+#VIDEO:a=97C0583y6To,co=https://is1-ssl.mzstatic.com/image/thumb/Music/28/b8/e5/mzi.filfjgis.jpg/5000x5000bb.jpg
+: 0 10 7 I 
+: 14 54 15 feel 
+: 72 30 14 you 
+- 104
+: 112 16 7 Jo
+: 134 52 10 han
+: 190 22 12 na. 
+- 214
+: 236 4 3 I 
+: 244 50 8 feel 
+: 300 36 10 you. 
+- 338
+: 360 4 0 I 
+: 366 5 2 was 
+: 372 8 3 half
+: 382 4 0 con
+: 388 12 3 vinced 
+: 401 8 0 I’d 
+: 411 29 5 wa
+: 442 22 7 ken. 
+- 466
+: 474 4 0 Sa
+: 480 5 2 tis
+: 487 6 3 fied 
+: 495 4 0 e
+: 502 10 3 nough 
+: 514 4 0 to 
+: 522 42 6 dream 
+: 568 18 5 you 
+- 588
+: 593 5 0 Hap
+: 599 4 2 pi
+: 604 4 3 ly 
+: 610 4 0 I 
+: 616 10 3 was 
+: 628 5 0 mis
+: 635 31 10 ta
+: 668 16 12 ken 
+- 686
+: 695 5 7 Jo
+: 702 20 10 han
+: 726 60 12 na. 
+- 788
+: 798 10 7 I’ll 
+: 810 60 15 steal 
+: 874 32 14 you 
+- 908
+: 922 6 7 Jo
+: 930 52 10 han
+: 986 30 12 na 
+- 1018
+: 1028 10 3 I’ll 
+: 1042 54 8 steal 
+: 1100 34 10 you. 
+- 1136
+: 1156 5 0 Do 
+: 1163 4 2 they 
+: 1169 5 3 think 
+: 1175 4 0 that 
+: 1182 10 3 walls 
+: 1195 7 0 can 
+: 1204 32 5 hide 
+: 1238 22 7 you? 
+- 1262
+: 1264 7 0 E
+: 1274 4 2 ven 
+: 1280 6 3 now 
+: 1288 6 0 I’m 
+: 1297 6 3 at 
+: 1308 5 0 your 
+: 1316 32 6 win
+: 1350 18 5 dow... 
+- 1370
+: 1382 4 0 I 
+: 1388 5 2 am 
+: 1394 4 3 in 
+: 1399 3 0 the 
+: 1405 10 3 dark 
+: 1418 4 0 be
+: 1426 32 5 side 
+: 1462 30 7 you 
+- 1494
+: 1512 6 3 Bu
+: 1519 5 10 ried 
+: 1526 8 10 sweet
+: 1536 7 12 ly 
+: 1547 3 12 in 
+: 1552 5 10 your 
+: 1559 6 12 ye
+: 1567 8 10 llow 
+: 1578 154 12 hair! 
+- 1734
+: 1846 8 7 I 
+: 1860 50 15 feel 
+: 1914 32 14 you 
+- 1948
+: 1961 5 7 Jo
+: 1970 54 10 han
+: 2028 34 12 na! 
+- 2064
+: 2068 6 3 And 
+: 2078 48 5 one 
+: 2136 24 7 day 
+- 2162
+: 2178 6 3 I’ll 
+: 2190 50 5 steal 
+: 2246 50 7 you! 
+- 2298
+: 2318 6 0 ’Til 
+: 2326 4 3 I’m 
+: 2332 6 3 with 
+: 2340 6 0 you 
+: 2348 5 0 then 
+- 2354
+: 2354 6 12 I’m 
+: 2362 4 12 with 
+: 2368 8 10 you 
+: 2378 28 12 there... 
+- 2408
+: 2432 8 0 Sweet
+: 2442 4 3 ly 
+: 2448 6 3 bu
+: 2455 7 0 ried 
+: 2463 5 0 in 
+: 2470 6 10 your 
+: 2478 8 10 ye
+: 2488 8 8 llow 
+: 2498 164 10 hair! 
+E

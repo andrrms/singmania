@@ -1,0 +1,268 @@
+#ARTIST:Epica
+#TITLE:Feint
+#MP3:Epica - Feint.mp3
+#CREATOR:Wüstenpfeil
+#YEAR:2003
+#LANGUAGE:English
+#BPM:200.1
+#GAP:23930
+#VIDEO:v=1v9PSbz9-88,co=https://i.discogs.com/jLTmWSt_xYJcqYxPz6fZp9I_Vk-ZIhWiKE6DXEkMbUQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgz/NjctMTU0OTMwODY4/OS0yMTUwLmpwZWc.jpeg,bg=epica-4f79040c366f9.jpg
+: 0 6 2 The 
+: 8 10 11 ve
+: 20 10 9 ~
+: 32 6 7 ry 
+: 40 10 4 brigh
+: 52 10 6 te
+: 64 6 7 ~st 
+: 72 10 11 can
+: 84 10 9 dle 
+: 96 6 7 of 
+: 104 14 4 all 
+- 119
+: 120 6 9 Ha
+: 128 6 11 ~s 
+: 136 22 9 bee
+: 160 6 11 ~n 
+: 168 30 7 ex
+: 200 10 7 tin
+: 212 10 6 guished 
+- 224
+: 264 10 11 Smo
+: 276 10 11 thered 
+: 288 6 11 by 
+: 296 10 11 those 
+- 307
+: 308 10 9 Who 
+: 320 6 11 could 
+: 328 10 12 not 
+: 340 10 7 bear 
+: 352 6 9 to 
+: 360 6 9 face 
+: 376 10 9 rea
+: 388 3 11 ~
+: 392 27 9 ~
+: 420 1 7 li
+: 422 1 6 ty
+: 424 30 7 ~ 
+- 456
+: 512 3 4 Eve
+: 516 3 6 ry 
+: 520 22 7 beat 
+: 544 3 9 of 
+: 548 3 7 your 
+: 552 22 6 heart 
+: 576 3 6 tore 
+: 580 3 7 the 
+: 584 22 9 lies 
+: 608 3 12 all 
+: 612 3 11 a
+: 616 22 7 part 
+- 639
+: 640 3 7 Made 
+: 644 3 6 foun
+: 648 14 4 da
+: 664 14 16 tions 
+: 680 3 14 qui
+: 684 10 11 ver 
+- 696
+: 704 3 4 Eve
+: 708 3 6 ry 
+: 712 22 7 wave 
+: 736 3 9 in 
+: 740 3 7 the 
+: 744 22 6 lake 
+- 767
+: 768 3 6 Caused 
+: 772 3 7 the 
+: 776 14 9 porce
+: 792 10 12 lain 
+: 804 3 11 to 
+: 808 14 7 break 
+- 824
+: 832 3 7 And 
+: 836 14 6 I 
+: 852 3 7 shi
+: 856 14 4 ver 
+- 872
+: 896 6 2 The 
+: 904 10 11 left
+: 916 10 9 o
+: 928 6 7 ver 
+: 936 10 4 tal
+: 948 10 6 low 
+: 960 6 7 just 
+: 968 10 11 does
+: 980 10 9 n’t 
+: 992 4 7 con
+: 1000 6 4 tain 
+- 1008
+: 1016 6 9 All 
+: 1024 6 11 the 
+: 1032 27 9 ri
+: 1060 1 7 g
+: 1062 1 6 h
+: 1064 22 7 t 
+: 1096 14 7 an
+: 1112 14 6 swers 
+- 1128
+: 1160 10 11 Un
+: 1172 10 11 der 
+: 1184 6 11 a 
+: 1192 10 11 se
+: 1204 10 9 a 
+: 1216 6 11 of 
+: 1224 10 12 dust 
+: 1236 10 7 lies 
+: 1248 6 9 a 
+: 1256 6 9 vast 
+: 1272 6 9 wealth 
+: 1280 6 11 of 
+: 1288 22 9 wis
+: 1312 3 7 do
+: 1316 3 6 ~
+: 1320 30 7 ~m 
+- 1352
+: 1472 3 4 Eve
+: 1476 3 6 ry 
+: 1480 22 7 beat 
+: 1504 3 9 of 
+: 1508 3 7 your 
+: 1512 14 6 heart 
+: 1536 5 6 tore 
+: 1542 1 7 the 
+: 1544 14 9 lies 
+: 1560 10 12 all 
+: 1572 3 11 a
+: 1576 14 7 part 
+- 1592
+: 1600 3 7 Made 
+: 1604 3 6 foun
+: 1608 14 4 da
+: 1624 14 16 tions 
+: 1640 3 14 qui
+: 1644 10 11 ver 
+- 1656
+: 1664 3 4 Eve
+: 1668 3 6 ry 
+: 1672 22 7 wave 
+: 1696 3 9 in 
+: 1700 3 7 the 
+: 1704 22 6 lake 
+- 1727
+: 1728 3 6 Caused 
+: 1732 3 7 the 
+: 1736 14 9 porce
+: 1752 10 12 lain 
+: 1764 3 11 to 
+: 1768 14 7 break 
+- 1784
+: 1792 3 7 And 
+: 1796 7 6 I 
+: 1804 3 7 shi
+: 1808 22 4 ver 
+- 1832
+: 1984 6 -1 This 
+: 1992 10 6 black 
+: 2004 10 7 page 
+: 2016 6 -1 in 
+: 2024 6 6 his
+: 2032 3 7 to
+: 2036 10 7 ry 
+: 2048 6 7 is 
+: 2056 6 9 not 
+: 2064 3 11 colour
+: 2068 10 7 fast 
+- 2079
+: 2080 6 7 Will 
+: 2088 6 9 stain 
+: 2096 3 11 the 
+: 2100 10 7 next 
+- 2111
+: 2112 6 7 All 
+: 2120 6 7 what 
+: 2128 3 9 re
+: 2132 10 6 mains 
+: 2144 6 6 is 
+: 2152 6 6 just 
+: 2160 3 7 a 
+: 2164 10 6 feint 
+- 2175
+: 2176 6 7 Of 
+: 2184 6 6 what 
+: 2192 3 7 was 
+: 2196 10 6 meant 
+: 2208 6 4 to 
+: 2216 14 -1 be 
+- 2232
+: 2240 6 -1 This 
+: 2248 10 6 black 
+: 2260 10 7 page 
+: 2272 6 -1 in 
+: 2280 6 6 his
+: 2288 3 7 to
+: 2292 10 7 ry 
+: 2304 6 7 is 
+: 2312 6 9 not 
+: 2320 3 11 colour
+: 2324 10 7 fast 
+- 2335
+: 2336 6 7 Will 
+: 2344 6 9 stain 
+: 2352 3 11 the 
+: 2356 10 11 next 
+- 2367
+: 2368 6 11 And 
+: 2376 6 11 no
+: 2384 3 12 thing 
+: 2388 10 9 seems 
+: 2400 6 9 in 
+: 2408 6 9 life 
+- 2415
+: 2416 3 11 In 
+: 2420 10 7 dreams 
+: 2432 6 7 like 
+: 2440 6 7 what 
+: 2448 3 7 was 
+: 2452 10 6 meant 
+: 2464 6 4 to 
+: 2472 22 6 be 
+- 2495
+: 2496 3 4 Eve
+: 2500 3 6 ry 
+: 2504 22 7 beat 
+: 2528 3 9 of 
+: 2532 10 7 your 
+: 2544 14 6 heart 
+: 2560 5 6 tore 
+: 2566 1 7 the 
+: 2568 14 9 lies 
+: 2584 10 12 all 
+: 2596 3 11 a
+: 2600 14 7 part 
+- 2616
+: 2624 3 7 Made 
+: 2628 3 6 foun
+: 2632 14 4 da
+: 2648 14 16 tions 
+: 2664 3 14 qui
+: 2668 10 11 ver 
+- 2680
+: 2688 3 4 Eve
+: 2692 3 6 ry 
+: 2696 22 7 wave 
+: 2720 3 9 in 
+: 2724 3 7 the 
+: 2728 22 6 lake 
+- 2751
+: 2752 3 6 Caused 
+: 2756 3 7 the 
+: 2760 14 9 porce
+: 2776 10 12 lain 
+: 2788 3 11 to 
+: 2792 14 7 break 
+- 2808
+: 2816 3 7 And 
+: 2820 14 6 I 
+: 2836 3 7 shi
+: 2840 30 4 ver 
+E

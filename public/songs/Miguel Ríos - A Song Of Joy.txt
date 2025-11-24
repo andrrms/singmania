@@ -1,0 +1,241 @@
+#ARTIST:Miguel Ríos
+#TITLE:A Song Of Joy
+#MP3:Miguel Ríos - A Song Of Joy.mp3
+#CREATOR:Fepo
+#GENRE:Pop
+#YEAR:1970
+#LANGUAGE:English
+#BPM:205.18
+#GAP:27200
+#VIDEO:a=nn_Xb-9Z3eg,co=https://i.discogs.com/dnd2xU1H7-5HRJaYGgSEuNCVAlj-4Sm-BjIkcy7M4Cc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjAy/OC0xMjM1Mjk3Nzk3/LmpwZWc.jpeg,bg=ros-miguel-5148bbc4292fe.jpg
+: 0 12 1 Come 
+: 20 5 2 sing 
+: 29 5 4 a 
+: 39 8 4 song 
+: 50 5 2 of 
+: 59 8 1 joy 
+- 69
+: 75 3 -1 For 
+: 80 7 -3 peace 
+: 90 5 -3 shall 
+: 98 6 -1 come, 
+: 108 6 1 my 
+: 119 11 1 bro
+: 132 2 -1 ~
+: 138 9 -1 ther 
+- 149
+: 159 11 1 Sing, 
+: 176 7 2 sing 
+: 187 5 4 a 
+: 196 6 4 song 
+: 206 5 2 of 
+: 215 10 1 joy 
+- 227
+: 230 4 -1 For 
+: 236 6 -3 men 
+: 245 6 -3 shall 
+: 255 6 -1 love 
+: 265 6 1 each 
+: 274 12 -1 o
+: 288 3 -3 ~
+: 293 6 -3 ther 
+- 301
+: 312 14 -1 That 
+: 332 5 1 day 
+: 340 7 -3 will 
+: 351 4 -1 dawn 
+: 360 3 1 just 
+: 365 3 2 as 
+: 370 6 1 sure 
+- 378
+: 384 3 -3 As 
+: 389 5 -1 hearts 
+: 398 3 1 that 
+: 404 3 2 are 
+: 409 6 1 pure, 
+- 417
+: 420 3 -1 Are 
+: 427 5 -3 hearts 
+: 436 5 -1 set 
+: 445 9 -8 free. 
+- 455
+: 456 19 1 No 
+: 484 7 2 man 
+: 494 6 4 must 
+: 503 7 4 stand 
+: 513 7 2 a
+: 523 7 1 lone 
+: 533 6 -1 with 
+: 543 6 -3 out
+: 551 7 -3 stretched 
+: 561 7 -1 hand 
+: 572 5 1 be
+: 579 11 -1 fo
+: 592 3 -3 ~re 
+: 598 10 -3 him. 
+- 610
+: 620 12 -1 Reach 
+: 636 5 1 out 
+: 646 6 -3 and 
+: 656 5 -1 take 
+: 664 4 1 them 
+: 670 3 2 in 
+: 675 6 1 yours 
+- 683
+: 688 4 -3 With 
+: 694 7 -1 love 
+: 703 3 1 that 
+: 708 3 2 en
+: 713 5 2 dures 
+* 722 8 -1 for
+* 732 6 -3 e
+* 740 7 -1 ver
+: 749 7 -8 more. 
+- 758
+: 759 24 1 Then 
+: 788 7 2 sing 
+: 797 7 4 a 
+* 806 7 4 song 
+* 816 6 2 of 
+* 825 6 1 joy 
+: 834 3 -1 fo
+: 838 3 -3 ~r 
+: 843 6 -3 love 
+: 853 7 -3 and 
+: 862 6 -1 un
+: 870 7 1 der
+: 879 12 -1 sta
+: 893 4 -3 ~n
+: 899 5 -3 ding. 
+- 906
+: 1570 12 -1 Come 
+: 1589 5 0 sing 
+: 1599 5 2 a 
+: 1608 7 2 song 
+: 1618 6 0 of 
+: 1628 8 -1 joy 
+- 1638
+: 1642 3 -3 Of 
+: 1647 7 -5 free
+: 1656 6 -5 dom 
+: 1666 5 -3 tell 
+: 1675 5 -1 the 
+: 1685 12 -1 sto
+: 1699 3 -3 ~
+: 1704 9 -3 ry. 
+- 1715
+: 1724 11 -1 Sing, 
+: 1741 7 0 sing 
+: 1752 5 2 a 
+: 1761 6 2 song 
+: 1771 5 0 of 
+: 1780 10 -1 joy 
+- 1792
+: 1794 3 -3 For 
+: 1799 7 -5 man
+: 1808 6 -5 kind 
+: 1817 6 -3 in 
+: 1826 6 -1 his 
+: 1836 16 -3 glo
+: 1854 8 -5 ry. 
+- 1864
+: 1874 15 -3 One 
+: 1892 7 -1 migh
+: 1902 6 -5 ty 
+: 1911 7 -3 voice 
+: 1921 3 -1 that 
+: 1926 3 0 will 
+: 1931 9 -1 bring 
+- 1942
+: 1945 3 -5 A 
+: 1950 6 -3 sound 
+: 1959 3 -1 that 
+: 1964 3 0 will 
+: 1969 5 -1 ring 
+: 1978 7 -3 for
+: 1987 7 -5 e
+: 1996 7 -3 ver
+: 2005 6 -10 more. 
+- 2013
+: 2016 24 -1 Then 
+: 2045 7 0 sing 
+: 2054 7 2 a 
+* 2063 7 2 song 
+* 2073 6 0 of 
+* 2082 6 -1 joy 
+: 2091 3 -3 fo
+: 2095 3 -5 ~r 
+: 2100 6 -5 love 
+: 2110 7 -5 and 
+: 2119 6 -3 un
+: 2127 7 -1 der
+: 2136 12 -3 sta
+: 2150 4 -5 ~n
+: 2156 5 -5 ding. 
+- 2163
+: 2576 10 2 Come 
+: 2589 6 3 sing 
+: 2597 3 5 a 
+: 2603 5 5 song 
+: 2611 4 3 of 
+: 2617 6 2 joy 
+- 2625
+: 2628 2 0 Of 
+: 2632 3 -2 free
+: 2637 3 -2 dom 
+: 2643 4 0 tell 
+: 2650 4 2 the 
+: 2658 7 2 sto
+: 2667 2 0 ~
+: 2671 6 0 ry. 
+- 2679
+: 2684 9 2 Sing, 
+: 2698 5 3 sing 
+: 2705 3 5 a 
+: 2711 5 5 song 
+: 2718 4 3 of 
+: 2725 5 2 joy 
+- 2732
+: 2736 2 0 For 
+: 2740 3 -2 man
+: 2745 5 -2 kind 
+: 2752 3 0 in 
+: 2758 4 2 his 
+: 2765 8 0 glo
+: 2775 2 -2 ~
+: 2779 10 -2 ry. 
+- 2791
+: 2792 10 0 One 
+: 2805 4 2 migh
+: 2812 4 -2 ty 
+: 2819 4 0 voice 
+: 2825 2 2 that 
+: 2829 2 2 will 
+: 2832 5 2 bring 
+- 2839
+: 2842 2 -2 A 
+: 2845 5 0 sound 
+: 2852 2 2 that 
+: 2856 2 3 will 
+: 2859 4 2 ring 
+: 2865 5 0 for
+: 2872 5 -2 e
+: 2879 3 0 ver
+: 2885 4 -7 more. 
+- 2891
+: 2898 10 2 Then 
+: 2911 6 3 sing 
+: 2919 4 5 a 
+: 2925 5 5 song 
+: 2932 4 3 of 
+: 2938 4 2 joy 
+: 2945 2 0 fo
+: 2948 2 -2 ~r 
+: 2951 6 -2 love 
+: 2959 4 -2 and 
+: 2966 4 0 un
+: 2972 4 2 der
+: 2978 8 0 sta
+: 2988 2 -2 ~n
+: 2992 14 -2 ding. 
+E

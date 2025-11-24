@@ -1,0 +1,276 @@
+#ARTIST:Rollergirl
+#TITLE:Dear Jessie (Album Version)
+#MP3:Rollergirl - Dear Jessie (Album Version).mp3
+#CREATOR:Way2Evil
+#YEAR:1999
+#LANGUAGE:English
+#BPM:270
+#GAP:58940
+#VIDEO:a=6FDA29qTsQc,co=https://i.ibb.co/SmmnXGh/Rollergirl-Dear-Jessie.jpg,co-crop=154-0-1320-1320,bg=rollergirl-51727ab140fc0.jpg
+: 0 2 4 Run
+: 4 5 4 ning 
+- 11
+: 32 2 4 Run
+: 36 5 4 ning 
+- 43
+: 96 2 4 Run
+: 100 5 4 ning 
+: 108 3 4 throu
+: 112 2 6 ~gh 
+: 116 3 4 the 
+: 120 2 2 love 
+: 124 3 4 pa
+: 128 8 2 rade 
+- 138
+: 424 5 9 Pink 
+: 432 3 7 e
+: 436 2 6 le
+: 440 3 4 phants 
+: 444 2 2 and 
+: 448 3 4 le
+: 452 2 6 mo
+: 456 11 2 nade 
+- 469
+: 472 3 2 Dea
+: 476 2 4 ~r 
+: 480 3 4 Jes
+: 484 2 2 sie, 
+: 488 3 -1 hear 
+: 492 2 2 the 
+: 496 5 4 laugh
+: 504 3 2 ter 
+- 509
+: 512 2 4 Run
+: 516 5 4 ning 
+: 524 3 4 throu
+: 528 2 6 ~gh 
+: 532 3 4 the 
+: 536 2 2 love 
+: 540 3 4 pa
+: 544 8 2 rade 
+- 554
+: 600 3 2 Dea
+: 604 2 4 ~r 
+: 608 3 4 Jes
+: 612 2 2 sie 
+: 616 3 -1 see 
+: 620 2 2 the 
+: 624 7 4 ro
+: 632 3 2 ses 
+- 637
+: 640 2 4 Rai
+: 644 5 4 ning 
+: 652 3 4 o
+: 656 2 6 ~n 
+: 660 3 4 the 
+: 664 2 2 love 
+: 668 3 4 pa
+: 672 4 2 rade 
+- 678
+: 680 5 9 Pink 
+: 688 3 7 e
+: 692 2 6 le
+: 696 3 4 phants 
+: 700 2 2 and 
+: 704 3 4 le
+: 708 2 6 mo
+: 712 11 2 nade 
+- 725
+: 728 3 2 Dea
+: 732 2 4 ~r 
+: 736 3 4 Jes
+: 740 2 2 sie, 
+: 744 3 -1 hear 
+: 748 2 2 the 
+: 752 5 4 laugh
+: 760 3 2 ter 
+- 765
+: 768 2 4 Run
+: 772 5 4 ning 
+: 780 3 4 throu
+: 784 2 6 ~gh 
+: 788 3 4 the 
+: 792 2 2 love 
+: 796 3 4 pa
+: 800 8 2 rade 
+- 810
+: 856 3 2 Dea
+: 860 2 4 ~r 
+: 864 3 4 Jes
+: 868 2 2 sie 
+: 872 3 -1 see 
+: 876 2 2 the 
+: 880 7 4 ro
+: 888 3 2 ses 
+- 893
+: 896 2 4 Rai
+: 900 5 4 ning 
+: 908 3 4 o
+: 912 2 6 ~n 
+: 916 3 4 the 
+: 920 2 2 love 
+: 924 3 4 pa
+: 928 7 2 rade 
+- 937
+: 1408 2 4 Run
+: 1412 5 4 ning 
+: 1420 3 4 throu
+: 1424 2 6 ~gh 
+: 1428 3 4 the 
+: 1432 2 2 love 
+: 1436 3 4 pa
+: 1440 8 2 rade 
+- 1450
+: 1704 5 9 Pink 
+: 1712 3 7 e
+: 1716 2 6 le
+: 1720 3 4 phants 
+: 1724 2 2 and 
+: 1728 3 4 le
+: 1732 2 6 mo
+: 1736 11 2 nade 
+- 1749
+: 1752 3 2 Dea
+: 1756 2 4 ~r 
+: 1760 3 4 Jes
+: 1764 2 2 sie, 
+: 1768 3 -1 hear 
+: 1772 2 2 the 
+: 1776 5 4 laugh
+: 1784 3 2 ter 
+- 1789
+: 1792 2 4 Run
+: 1796 5 4 ning 
+: 1804 3 4 throu
+: 1808 2 6 ~gh 
+: 1812 3 4 the 
+: 1816 2 2 love 
+: 1820 3 4 pa
+: 1824 8 2 rade 
+- 1834
+: 1880 3 2 Dea
+: 1884 2 4 ~r 
+: 1888 3 4 Jes
+: 1892 2 2 sie 
+: 1896 3 -1 see 
+: 1900 2 2 the 
+: 1904 7 4 ro
+: 1912 3 2 ses 
+- 1917
+: 1920 2 4 Rai
+: 1924 5 4 ning 
+: 1932 3 4 o
+: 1936 2 6 ~n 
+: 1940 3 4 the 
+: 1944 2 2 love 
+: 1948 3 4 pa
+: 1952 5 2 rade 
+- 1958
+: 1960 5 9 Pink 
+: 1968 3 7 e
+: 1972 2 6 le
+: 1976 3 4 phants 
+: 1980 2 2 and 
+: 1984 3 4 le
+: 1988 2 6 mo
+: 1992 11 2 nade 
+- 2005
+: 2008 3 2 Dea
+: 2012 2 4 ~r 
+: 2016 3 4 Jes
+: 2020 2 2 sie, 
+: 2024 3 -1 hear 
+: 2028 2 2 the 
+: 2032 5 4 laugh
+: 2040 3 2 ter 
+- 2045
+: 2048 2 4 Run
+: 2052 5 4 ning 
+: 2060 3 4 throu
+: 2064 2 6 ~gh 
+: 2068 3 4 the 
+: 2072 2 2 love 
+: 2076 3 4 pa
+: 2080 8 2 rade 
+- 2090
+: 2136 3 2 Dea
+: 2140 2 4 ~r 
+: 2144 3 4 Jes
+: 2148 2 2 sie 
+: 2152 3 -1 see 
+: 2156 2 2 the 
+: 2160 7 4 ro
+: 2168 3 2 ses 
+- 2173
+: 2176 2 4 Rai
+: 2180 5 4 ning 
+: 2188 3 4 o
+: 2192 2 6 ~n 
+: 2196 3 4 the 
+: 2200 2 2 love 
+: 2204 3 4 pa
+: 2208 8 2 rade 
+- 2218
+: 2392 3 2 Dea
+: 2396 2 4 ~r 
+: 2400 3 4 Jes
+: 2404 2 2 sie 
+: 2408 3 -1 see 
+: 2412 2 2 the 
+: 2416 7 4 ro
+: 2424 3 2 ses 
+- 2429
+: 2432 2 4 Rai
+: 2436 5 4 ning 
+: 2444 3 4 o
+: 2448 2 6 ~n 
+: 2452 3 4 the 
+: 2456 2 2 love 
+: 2460 3 4 pa
+: 2464 5 2 rade 
+- 2470
+* 2472 5 9 Pink 
+* 2480 3 7 e
+* 2484 2 6 le
+* 2488 3 4 phants 
+* 2492 2 2 and 
+* 2496 3 4 le
+* 2500 2 6 mo
+* 2504 11 2 nade 
+- 2517
+* 2520 3 2 Dea
+* 2524 2 4 ~r 
+* 2528 3 4 Jes
+* 2532 2 2 sie, 
+* 2536 3 -1 hear 
+* 2540 2 2 the 
+* 2544 5 4 laugh
+* 2552 3 2 ter 
+- 2557
+* 2560 2 4 Run
+* 2564 5 4 ning 
+* 2572 3 4 throu
+* 2576 2 6 ~gh 
+* 2580 3 4 the 
+* 2584 2 2 love 
+* 2588 3 4 pa
+* 2592 3 2 rade 
+- 2597
+: 2648 3 2 Dea
+: 2652 2 4 ~r 
+: 2656 3 4 Jes
+: 2660 2 2 sie 
+: 2664 3 -1 see 
+: 2668 2 2 the 
+: 2672 7 4 ro
+: 2680 3 2 ses 
+- 2685
+: 2688 2 4 Rai
+: 2692 5 4 ning 
+: 2700 3 4 o
+: 2704 2 6 ~n 
+: 2708 3 4 the 
+: 2712 2 2 love 
+: 2716 3 4 pa
+: 2720 5 2 rade 
+E

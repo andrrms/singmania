@@ -1,0 +1,162 @@
+#ARTIST:Roxy Music
+#TITLE:Take A Chance With Me
+#MP3:Roxy Music - Take A Chance With Me.mp3
+#CREATOR:lozboorman
+#YEAR:1982
+#LANGUAGE:English
+#BPM:248.24
+#GAP:16500
+#VIDEO:a=-frMKuom3r8,co=https://i.discogs.com/lY5MSxuelvAEoDH6oxEd3ddRSshkiVNyvdq6dTMy05k/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc3/NzQtMTI3Nzk2ODg5/Mi5qcGVn.jpeg,bg=roxy-music-4e8088d7c2d76.jpg
+: 0 2 -7 As 
+: 6 2 -4 they 
+: 12 6 0 say 
+- 20
+: 32 2 3 Two 
+: 37 1 0 can 
+: 40 2 -2 ~ 
+: 48 6 -2 play 
+- 56
+: 124 2 -7 But 
+: 128 2 -4 keep 
+: 133 2 -4 that 
+: 140 6 0 song 
+- 148
+: 157 1 -4 A
+* 161 2 3 way 
+: 166 1 0 from 
+: 169 2 -2 ~ 
+: 177 6 -2 me 
+- 185
+: 257 2 5 In 
+: 261 2 3 my 
+: 265 2 5 ~ 
+: 270 6 3 time 
+- 278
+: 289 2 5 Too 
+: 293 1 0 much 
+: 296 2 -2 ~ 
+: 302 6 -2 love 
+- 310
+: 382 1 -7 Has 
+: 385 4 -4 made 
+: 393 2 -2 me 
+: 397 6 0 sad 
+- 405
+: 416 2 3 For 
+* 422 1 0 so 
+* 425 2 -2 ~ 
+: 430 6 -2 long 
+- 438
+* 513 2 5 I 
+: 519 2 3 was 
+: 526 6 2 blind 
+- 534
+: 545 2 3 Can’t 
+: 553 2 5 you 
+: 558 4 7 see 
+- 564
+: 641 2 5 Through 
+: 645 2 3 ~ 
+: 649 2 3 the 
+: 654 4 2 long 
+- 660
+: 673 1 3 Lone
+: 676 2 2 ~
+: 681 2 -2 ly 
+: 686 6 -2 night 
+- 694
+: 769 2 5 Hea
+: 774 2 3 ven 
+: 781 6 2 knows 
+- 789
+: 801 2 3 I 
+: 809 2 -2 be
+: 814 6 -2 lieve 
+- 822
+: 897 2 5 Won’t 
+: 902 2 3 you 
+* 909 6 2 take 
+- 917
+: 925 2 3 A 
+: 929 2 3 chance 
+: 937 2 3 with 
+: 942 4 3 me 
+- 948
+: 1153 2 -4 Some
+: 1158 1 -4 times 
+: 1161 2 0 ~ 
+: 1166 4 0 I 
+- 1172
+: 1185 2 5 Get 
+: 1189 2 0 so 
+: 1193 2 -2 ~ 
+: 1199 6 -2 blue 
+- 1207
+: 1281 2 -4 Peo
+: 1286 1 -4 ple 
+* 1289 2 0 ~ 
+: 1294 1 0 say 
+: 1296 2 -2 ~ 
+- 1300
+: 1309 2 5 I’m 
+: 1313 2 5 just 
+: 1318 1 0 a 
+: 1321 1 -2 ~ 
+: 1325 4 -2 fool 
+- 1331
+: 1409 2 5 All 
+: 1414 2 3 ~ 
+: 1418 2 5 the 
+: 1422 6 3 world 
+- 1430
+: 1445 2 5 E
+: 1450 1 0 ven 
+: 1453 2 -2 ~ 
+: 1457 6 -2 you 
+- 1465
+: 1533 2 -9 Should 
+: 1537 2 -4 learn 
+* 1545 2 -2 to 
+: 1550 6 0 love 
+- 1558
+: 1565 2 -4 The 
+: 1569 2 3 way 
+: 1574 1 0 I 
+: 1577 2 -2 ~ 
+: 1585 6 -2 do 
+- 1593
+* 1665 2 5 I 
+: 1671 2 3 was 
+: 1678 6 2 blind 
+- 1686
+: 1697 2 3 Can’t 
+: 1705 2 5 you 
+: 1710 4 7 see 
+- 1716
+: 1793 2 5 Through 
+: 1797 2 3 ~ 
+: 1801 2 3 the 
+: 1806 4 2 long 
+- 1812
+: 1825 1 3 Lone
+: 1828 2 2 ~
+: 1833 2 -2 ly 
+: 1838 6 -2 night 
+- 1846
+: 1921 2 5 Hea
+: 1926 2 3 ven 
+: 1933 6 2 knows 
+- 1941
+: 1953 2 3 I 
+: 1961 2 -2 be
+* 1966 6 -2 lieve 
+- 1974
+: 2049 2 5 Won’t 
+: 2054 2 3 you 
+: 2061 6 2 take 
+- 2069
+: 2077 2 3 A 
+* 2081 2 3 chance 
+: 2089 2 3 with 
+: 2094 4 3 me 
+E

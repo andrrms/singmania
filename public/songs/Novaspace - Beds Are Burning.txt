@@ -1,0 +1,357 @@
+#ARTIST:Novaspace
+#TITLE:Beds Are Burning
+#MP3:Novaspace - Beds Are Burning.mp3
+#CREATOR:FaKK
+#COVER:Novaspace - Beds Are Burning [CO].jpg
+#BACKGROUND:Novaspace - Beds Are Burning [BG].jpg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:272
+#GAP:4760
+#VIDEO:v=t7w0K5Ey6iE,co=https://i1.sndcdn.com/artworks-gztC4ivKy7cB-0-t1080x1080.jpg
+#START:4.0
+: 0 6 3 Out 
+: 8 6 3 where 
+: 16 2 3 the 
+: 20 2 5 ri
+: 24 2 5 ver 
+- 26
+: 28 10 7 Broke 
+: 52 2 3 The 
+: 56 4 1 blood
+: 64 6 3 wood 
+- 72
+: 76 4 3 And 
+: 84 4 3 the 
+: 88 4 8 de
+: 94 4 7 sert 
+: 102 4 3 oa
+: 106 8 1 k 
+- 116
+: 120 6 8 Hol
+: 128 2 7 den 
+: 132 4 8 wrecks 
+: 140 6 7 and 
+: 152 6 8 boi
+: 160 4 7 ling 
+: 164 4 8 die
+: 168 8 10 sels 
+- 178
+: 180 6 1 Steam 
+: 188 2 3 in 
+: 196 6 3 for
+: 204 4 3 ty 
+: 208 8 8 five 
+: 216 4 7 de
+: 224 4 3 gre
+: 228 8 1 es 
+- 240
+: 244 4 3 The 
+: 248 6 3 time 
+: 256 6 7 has 
+: 264 8 10 come 
+- 290
+: 308 2 3 To 
+: 312 6 3 say 
+: 320 6 7 fair’s 
+: 328 8 8 fair 
+- 354
+: 372 2 3 To 
+: 376 6 3 pay 
+: 384 4 7 the 
+: 392 8 8 rent 
+- 418
+: 436 2 3 To 
+: 440 4 7 pay 
+: 444 4 3 our 
+: 452 10 3 share 
+- 480
+: 500 2 3 The 
+: 504 6 3 time 
+: 512 6 7 has 
+* 520 8 10 come 
+- 546
+: 564 2 3 A 
+: 568 6 3 fact’s 
+: 576 2 7 a 
+: 580 8 8 fact 
+- 606
+: 624 2 3 It 
+: 628 2 3 be
+: 632 6 3 longs 
+: 640 4 7 to 
+: 648 8 8 them 
+- 672
+: 688 2 3 Let’s 
+: 696 2 5 give 
+: 700 4 5 it 
+: 708 8 5 ba
+: 716 4 3 ~
+* 720 16 0 ck 
+- 764
+: 792 2 3 How 
+: 796 2 3 can 
+: 800 2 3 we 
+: 804 6 3 dance 
+- 810
+: 812 4 3 When 
+: 820 2 3 our 
+: 824 4 3 earth 
+: 832 4 3 is 
+: 840 6 3 tur
+: 848 8 1 ning 
+- 888
+: 920 2 6 How 
+: 924 2 6 do 
+: 928 2 6 we 
+: 932 4 6 sleep 
+- 938
+: 940 4 6 While 
+: 948 2 6 our 
+: 952 6 6 beds 
+* 960 4 10 are 
+: 968 6 8 bur
+: 976 8 6 ning 
+- 1016
+: 1048 2 3 How 
+: 1052 2 3 can 
+: 1056 2 3 we 
+: 1060 6 3 dance 
+- 1066
+: 1068 4 3 When 
+: 1076 2 3 our 
+: 1080 4 3 earth 
+: 1088 4 3 is 
+: 1096 6 3 tur
+: 1104 8 1 ning 
+- 1144
+: 1176 2 6 How 
+: 1180 2 6 do 
+: 1184 2 6 we 
+: 1188 4 6 sleep 
+- 1194
+: 1196 4 6 While 
+: 1204 2 6 our 
+: 1208 6 6 beds 
+* 1216 4 10 are 
+: 1224 6 8 bur
+: 1232 8 6 ning 
+- 1270
+: 1300 2 3 The 
+: 1304 4 3 time 
+: 1312 6 3 has 
+: 1320 8 3 come 
+- 1330
+: 1332 2 3 To 
+: 1336 4 3 say 
+: 1344 4 -1 fair’s 
+: 1352 6 -1 fair 
+- 1360
+: 1364 2 3 To 
+: 1368 4 3 pay 
+: 1376 2 1 the 
+: 1380 4 1 rent 
+- 1386
+: 1388 4 1 Now 
+: 1396 2 1 To 
+: 1400 4 5 pay 
+: 1404 4 1 our 
+: 1412 8 1 share 
+- 1442
+: 1464 6 8 Four 
+: 1472 6 8 wheels 
+: 1480 6 8 scare 
+: 1488 2 6 the 
+: 1492 4 8 co
+: 1496 2 6 cka
+* 1500 12 10 to
+: 1512 2 3 os 
+- 1518
+: 1524 2 3 From 
+: 1528 6 1 Kin
+: 1536 6 3 tore 
+: 1544 4 6 Ea
+: 1548 2 3 st 
+- 1552
+: 1556 2 3 To 
+: 1560 2 1 Yuen
+: 1564 4 3 de
+: 1572 4 6 m
+: 1576 6 3 u 
+- 1584
+: 1588 4 3 The 
+: 1592 4 1 we
+: 1600 4 3 stern 
+: 1608 4 6 de
+: 1612 4 3 sert 
+: 1624 4 1 lives 
+: 1632 4 3 and 
+: 1640 8 6 breathes 
+- 1650
+: 1652 2 3 In 
+: 1656 6 1 for
+: 1664 4 3 ty 
+: 1672 6 6 five 
+: 1680 2 8 de
+* 1684 16 10 gre
+: 1700 12 3 es 
+- 1714
+: 1716 2 3 The
+: 1720 6 3 time 
+: 1728 6 7 has 
+* 1736 8 10 come 
+- 1762
+: 1780 2 3 To 
+: 1784 6 3 say 
+: 1792 6 7 fair’s 
+: 1800 8 8 fair 
+- 1826
+: 1844 2 3 To 
+: 1848 6 3 pay 
+: 1856 4 7 the 
+: 1864 8 8 rent 
+- 1890
+: 1908 2 3 To 
+: 1912 4 7 pay 
+: 1916 4 3 our 
+: 1924 10 3 share 
+- 1952
+: 1972 2 3 The 
+: 1976 6 3 time 
+: 1984 6 7 has 
+* 1992 8 10 come 
+- 2018
+: 2036 2 3 A 
+: 2040 6 3 fact’s 
+: 2048 2 7 a 
+: 2052 8 8 fact 
+- 2078
+: 2096 2 3 It 
+: 2100 2 3 be
+: 2104 6 3 longs 
+: 2112 4 7 to 
+: 2120 8 8 them 
+- 2144
+: 2160 2 3 Let’s 
+: 2168 2 5 give 
+: 2172 4 5 it 
+: 2180 8 5 ba
+: 2188 4 3 ~
+* 2192 16 0 ck 
+- 2236
+: 2264 2 3 How 
+: 2268 2 3 can 
+: 2272 2 3 we 
+: 2276 6 3 dance 
+- 2282
+: 2284 4 3 When 
+: 2292 2 3 our 
+: 2296 4 3 earth 
+: 2304 4 3 is 
+: 2312 6 3 tur
+: 2320 8 1 ning 
+- 2360
+: 2392 2 6 How 
+: 2396 2 6 do 
+: 2400 2 6 we 
+: 2404 4 6 sleep 
+- 2410
+: 2412 4 6 While 
+: 2420 2 6 our 
+: 2424 6 6 beds 
+* 2432 4 10 are 
+: 2440 6 8 bur
+: 2448 8 6 ning 
+- 2488
+: 2520 2 3 How 
+: 2524 2 3 can 
+: 2528 2 3 we 
+: 2532 6 3 dance 
+- 2538
+: 2540 4 3 When 
+: 2548 2 3 our 
+: 2552 4 3 earth 
+: 2560 4 3 is 
+: 2568 6 3 tur
+: 2576 8 1 ning 
+- 2616
+: 2648 2 6 How 
+: 2652 2 6 do 
+: 2656 2 6 we 
+: 2660 4 6 sleep 
+- 2666
+: 2668 4 6 While 
+: 2676 2 6 our 
+: 2680 6 6 beds 
+* 2688 4 10 are 
+: 2696 6 8 bur
+: 2704 8 6 ning 
+- 2742
+: 2772 2 3 The 
+: 2776 4 3 time 
+: 2784 6 3 has 
+: 2792 8 3 come 
+- 2802
+: 2804 2 3 To 
+: 2808 4 3 say 
+: 2816 4 -1 fair’s 
+: 2824 6 -1 fair 
+- 2832
+: 2836 2 3 To 
+: 2840 4 3 pay 
+: 2848 2 1 the 
+: 2852 4 1 rent 
+: 2860 4 1 now 
+- 2866
+: 2868 2 1 To 
+: 2872 4 5 pay 
+: 2876 4 1 our 
+: 2884 8 1 share 
+- 2896
+: 2900 4 1 The 
+: 2904 6 3 time 
+: 2912 6 3 has 
+: 2920 8 3 come 
+- 2930
+: 2932 2 3 A 
+: 2936 4 3 fact’s 
+: 2944 4 3 a 
+: 2948 6 3 fact 
+- 2956
+: 2960 2 3 It 
+: 2964 2 3 be
+: 2968 4 3 longs 
+: 2976 2 1 to 
+: 2980 4 1 them 
+- 2986
+: 2988 4 1 We 
+: 2992 2 1 gon
+: 2996 2 1 na 
+: 3000 4 5 give 
+: 3004 4 1 it 
+: 3012 8 1 back 
+- 3026
+: 3032 2 3 How 
+: 3036 2 3 can 
+: 3040 2 3 we 
+: 3044 6 3 dance 
+- 3050
+: 3052 4 3 When 
+: 3060 2 3 our 
+: 3064 4 3 earth 
+: 3072 4 3 is 
+: 3080 6 3 tur
+: 3088 8 1 ning 
+- 3128
+: 3160 2 6 How 
+: 3164 2 6 do 
+: 3168 2 6 we 
+: 3172 4 6 sleep 
+- 3178
+: 3180 4 6 While 
+: 3188 2 6 our 
+: 3192 6 6 beds 
+* 3200 4 10 are 
+: 3208 6 8 bur
+: 3216 8 6 ning 
+E

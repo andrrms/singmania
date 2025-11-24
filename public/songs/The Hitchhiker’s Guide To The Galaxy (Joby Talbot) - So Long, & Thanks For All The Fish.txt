@@ -1,0 +1,275 @@
+#ARTIST:The Hitchhiker’s Guide To The Galaxy (Joby Talbot)
+#TITLE:So Long, & Thanks For All The Fish
+#MP3:The Hitchhiker’s Guide To The Galaxy (Joby Talbot) - So Long, & Thanks For All The Fish.mp3
+#CREATOR:GALAKTOS
+#GENRE:Soundtrack
+#YEAR:2005
+#LANGUAGE:English
+#BPM:224
+#GAP:111380
+#VIDEO:v=N_dUmDBfp6k,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7d/26/29/7d2629fc-3f96-8252-1d51-b70858f782e4/00720616250629.rgb.jpg/5000x5000bb.jpg
+#START:86.0
+: 0 1 14 So 
+: 2 4 9 long 
+: 8 2 6 and 
+: 12 2 4 thanks 
+: 16 1 2 for 
+: 18 2 4 all 
+: 22 1 6 the 
+: 24 2 2 fish 
+- 28
+: 32 2 14 So 
+: 36 2 9 sad 
+: 40 2 6 that 
+: 44 2 4 it 
+: 48 1 2 should 
+: 50 2 4 come 
+: 54 1 6 to 
+: 56 2 2 this 
+- 60
+: 64 2 2 We 
+: 68 2 4 tried 
+: 72 2 2 to 
+: 76 2 9 warn 
+: 80 1 7 you 
+: 82 2 2 all 
+: 86 1 2 but 
+: 88 2 4 oh 
+* 92 28 6 dear 
+- 122
+: 128 1 14 You 
+: 130 2 9 may 
+: 134 4 6 not 
+: 140 2 4 share 
+: 144 1 2 our 
+: 146 2 4 in
+: 150 1 6 tel
+: 152 2 2 lect 
+- 156
+: 160 2 14 Which 
+: 164 2 14 might 
+: 168 2 9 ex
+: 172 2 7 plain 
+: 176 1 6 your 
+: 178 2 4 dis
+: 182 1 6 res
+: 184 2 4 pect 
+- 188
+: 192 3 2 For 
+: 196 3 4 all 
+: 200 2 2 the 
+: 204 2 9 na
+: 208 1 7 tural 
+: 210 2 2 won
+: 214 1 2 ders 
+: 216 2 4 that 
+- 219
+: 220 7 6 Grow 
+: 228 7 9 a
+: 236 7 11 round 
+: 244 6 15 you 
+- 251
+: 252 1 9 So 
+* 254 2 14 long, 
+: 258 1 9 so 
+* 260 2 14 long 
+: 264 1 9 and 
+* 266 2 14 thanks 
+- 270
+: 274 1 2 For 
+: 276 2 2 all 
+: 280 1 2 the 
+* 282 38 2 fish 
+- 322
+* 352 2 14 The 
+: 356 2 9 world’s 
+: 360 2 6 a
+: 364 2 4 bout 
+: 368 1 2 to 
+: 370 2 4 be 
+: 374 1 6 des
+: 376 4 2 troyed 
+- 382
+* 384 2 14 There’s 
+: 388 2 14 no 
+: 392 2 9 point 
+: 396 2 7 gett
+: 400 1 6 ing 
+: 402 2 4 all 
+: 406 1 6 an
+: 408 4 2 noyed 
+- 414
+: 416 2 2 Lie 
+: 420 2 4 back 
+: 424 2 2 and 
+: 428 2 9 let 
+: 432 1 7 the 
+: 434 2 2 pla
+: 438 1 2 net 
+: 440 2 4 dis
+* 444 32 6 solve 
+- 478
+* 480 1 14 Des
+: 482 2 9 pite 
+: 488 2 6 those 
+: 492 2 4 nets 
+: 496 1 2 of 
+: 498 2 4 tu
+: 502 1 6 na 
+: 504 2 2 fleets 
+- 508
+: 512 2 14 We 
+: 516 2 14 thought 
+: 520 2 9 that 
+: 524 2 7 most 
+: 528 1 6 of 
+: 530 2 4 you 
+: 534 1 6 were 
+: 536 4 2 sweet 
+- 542
+: 544 2 2 Es
+: 548 2 4 pecial
+: 552 2 2 ly 
+: 556 2 9 ti
+: 560 1 7 ny 
+: 562 2 2 tots 
+: 566 1 2 and 
+: 568 2 4 your 
+- 571
+: 572 7 6 Preg
+: 580 7 9 nant 
+: 588 7 11 wo
+: 596 6 15 men 
+- 603
+: 604 1 9 So 
+* 606 2 14 long, 
+: 610 1 9 so 
+: 612 2 14 long, 
+: 616 1 9 so 
+: 618 2 14 long, 
+: 622 1 9 so 
+: 624 2 14 long, 
+: 628 1 9 so 
+: 630 2 14 long 
+- 634
+: 636 1 9 So 
+: 638 2 16 long, 
+: 642 1 9 so 
+: 644 2 16 long, 
+: 648 1 11 so 
+: 650 2 15 long, 
+: 654 1 11 so 
+: 656 2 15 long, 
+: 660 1 11 so 
+: 662 2 15 long 
+- 666
+: 668 1 9 So 
+: 670 2 14 long, 
+: 674 1 9 so 
+: 676 2 14 long 
+: 680 1 9 and 
+: 682 2 14 thanks 
+- 686
+: 690 1 2 For 
+: 692 2 2 all 
+: 696 1 2 the 
+* 698 34 2 fish 
+- 734
+: 764 7 -1 If 
+: 772 7 2 I 
+: 780 7 4 had 
+: 788 6 6 just 
+: 796 7 -1 one 
+: 804 7 2 last 
+: 812 12 4 wish 
+- 826
+: 828 7 -1 I 
+: 836 7 2 would 
+: 844 7 4 like 
+: 852 4 6 a 
+: 860 7 9 tas
+: 868 7 6 ty 
+: 876 12 4 fish 
+- 890
+: 892 7 5 If 
+: 900 7 9 we 
+: 908 7 11 could 
+: 916 6 14 just 
+: 924 7 11 change 
+: 932 7 9 one 
+: 940 12 11 thing 
+- 954
+: 956 7 5 We 
+: 964 7 9 would 
+: 972 7 11 all 
+: 980 7 14 have 
+: 988 7 12 lungs 
+: 996 7 9 to 
+: 1004 8 9 sing 
+- 1014
+: 1020 23 10 Come 
+: 1044 7 9 one 
+: 1052 15 9 and 
+: 1068 12 7 all 
+- 1082
+: 1084 23 10 Man 
+: 1108 7 9 and 
+: 1116 15 9 mam
+: 1132 12 7 mal 
+- 1146
+: 1147 24 11 Side 
+: 1172 7 9 by 
+: 1180 7 9 si
+: 1188 7 7 de 
+: 1196 7 9 i
+: 1204 6 10 n 
+- 1211
+: 1212 15 9 Life’s 
+: 1228 15 13 great 
+: 1244 15 14 gene 
+* 1260 28 15 pool 
+- 1290
+: 1469 17 6 O
+: 1487 15 4 o
+: 1503 13 6 o
+: 1517 13 7 h 
+: 1531 10 9 A
+: 1542 9 13 a
+: 1552 9 11 a
+: 1562 8 15 h 
+- 1572
+* 1573 1 9 So 
+: 1575 2 14 long, 
+: 1579 1 9 so 
+: 1581 2 14 long, 
+: 1585 1 9 so 
+: 1587 2 14 long, 
+: 1591 1 9 so 
+: 1593 2 14 long, 
+: 1597 1 9 so 
+: 1599 2 14 long 
+- 1603
+: 1604 1 9 So 
+: 1606 2 16 long, 
+: 1610 1 9 so 
+: 1612 2 16 long, 
+: 1616 1 11 so 
+: 1618 2 15 long, 
+: 1622 1 11 so 
+: 1624 2 15 long, 
+: 1628 1 11 so 
+: 1630 2 15 long 
+- 1634
+: 1636 1 9 So 
+: 1638 2 14 long, 
+: 1642 1 9 so 
+: 1644 2 14 long 
+: 1648 1 9 and 
+* 1650 4 18 thanks 
+- 1656
+: 1658 1 14 For 
+: 1660 2 14 all 
+: 1664 2 16 the 
+: 1668 1 16 fi
+* 1670 62 14 sh! 
+E

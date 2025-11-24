@@ -1,0 +1,372 @@
+#ARTIST:Dr. Horrible’s Sing-Along Blog
+#TITLE:My Eyes (Version I)
+#MP3:Dr. Horrible’s Sing-Along Blog - My Eyes (Version I).mp3
+#CREATOR:x-y-zero
+#GENRE:Musical
+#YEAR:2008
+#LANGUAGE:English
+#BPM:256
+#GAP:8330
+#VIDEO:a=XsUGxcvn8yw,co=https://cdn-images.dzcdn.net/images/cover/e75fd5f47ac9dc52a6ef2de62ce6bab2/1900x1900-000000-80-0-0.jpg
+: 0 4 6 A
+: 8 4 6 ny 
+: 16 3 6 dolt 
+: 20 3 7 with 
+: 24 3 6 half 
+: 28 3 4 a 
+: 32 4 6 brain 
+- 38
+: 52 3 1 Can 
+: 56 3 2 see 
+: 60 3 4 that 
+: 64 6 6 hu
+: 72 6 6 man
+: 80 3 6 kind 
+: 84 3 7 has 
+: 88 3 6 gone 
+: 92 3 4 in
+: 96 4 6 sane 
+- 102
+: 122 1 2 To 
+: 124 2 4 the 
+: 128 2 6 point 
+: 132 3 7 where 
+: 136 3 6 I 
+: 140 3 4 don’t 
+: 144 4 6 know 
+- 149
+: 150 1 1 If 
+: 152 3 2 I’ll 
+: 156 3 4 up
+: 160 2 6 set 
+: 164 3 7 the 
+: 168 3 6 sta
+: 172 3 4 tus 
+: 176 4 6 quo 
+- 182
+: 186 1 2 If 
+: 188 3 4 I 
+: 192 4 6 throw 
+: 200 3 6 poi
+: 204 3 7 son 
+: 208 3 6 in 
+: 212 3 4 the 
+: 216 3 2 wa
+: 220 3 4 ter 
+: 224 4 6 main 
+- 230
+: 256 6 7 Lis
+: 264 6 7 ten 
+: 272 6 9 close 
+: 280 6 7 to 
+: 288 3 6 eve
+: 292 3 4 ry
+: 296 3 2 bo
+: 300 3 4 dy’s 
+: 304 4 6 heart 
+- 310
+: 316 3 6 And 
+: 320 6 7 hear 
+: 328 6 7 that 
+: 336 6 9 brea
+: 344 6 7 king 
+: 352 11 6 so
+: 364 3 4 u
+: 368 4 2 nd 
+- 374
+: 384 4 7 Hopes 
+: 392 6 7 and 
+: 400 6 9 dreams 
+: 408 6 7 are 
+: 416 3 6 shat
+: 420 3 4 ter
+: 424 3 2 ing 
+: 428 3 4 a
+: 432 4 6 part 
+- 438
+: 444 3 4 And 
+: 448 6 6 cra
+: 456 6 6 shing 
+: 464 6 9 to 
+: 472 1 6 th
+: 474 4 4 e 
+: 480 16 4 ground 
+- 498
+: 508 3 1 I 
+: 512 7 2 can
+: 520 3 1 not 
+: 524 3 2 be
+: 528 6 1 lieve 
+: 536 3 -3 my
+: 540 2 -5 ~ 
+: 544 16 -5 eyes 
+- 562
+: 572 1 -1 How 
+: 574 1 1 the 
+: 576 4 2 world’s 
+: 584 3 1 filled 
+: 588 3 2 with 
+: 592 4 1 filth 
+: 600 1 -3 a
+: 602 4 -5 nd 
+: 608 14 -5 lies 
+- 624
+: 634 1 -1 But 
+: 636 2 1 it’s 
+: 640 4 2 plain 
+: 648 7 6 to 
+: 656 16 6 see 
+- 674
+: 688 5 6 E
+: 694 5 4 vil 
+: 700 3 2 in
+: 704 1 4 si
+: 706 4 -1 de 
+: 712 3 -1 of 
+: 716 1 -1 me
+: 718 18 2 ~ 
+- 738
+: 744 6 -3 Is 
+: 752 6 2 on 
+: 760 6 1 the 
+: 768 27 2 ri
+: 796 3 1 ~
+: 800 27 -1 ~
+: 828 3 -3 ~
+: 832 16 -6 se 
+- 850
+F 896 22 2 Look 
+F 920 7 1 a
+F 928 8 2 round 
+- 938
+F 940 3 2 We’re 
+F 944 3 4 li
+F 948 3 2 ving 
+F 952 3 -1 with 
+F 956 3 2 the 
+F 960 20 -3 lost 
+F 984 6 -6 and 
+F 992 6 -3 found 
+- 1000
+F 1004 3 -3 Just 
+F 1008 3 -5 when 
+F 1012 3 -3 you 
+F 1016 3 2 feel 
+F 1020 3 1 you’ve 
+F 1024 22 2 al
+F 1048 6 1 most 
+F 1056 6 2 drowned 
+- 1064
+F 1068 3 2 You 
+F 1072 3 4 find 
+F 1076 3 2 your
+F 1080 3 -1 self 
+F 1084 3 2 on 
+F 1088 22 -3 so
+F 1112 6 -6 lid 
+F 1120 6 -3 ground 
+- 1127
+F 1128 6 -3 And 
+F 1136 6 -3 you 
+F 1144 3 2 be
+F 1148 3 -1 ~
+F 1152 4 -1 lieve 
+- 1158
+F 1160 6 -1 There’s 
+F 1168 6 4 good 
+F 1180 3 1 in 
+F 1184 3 2 eve
+F 1188 3 1 ry
+F 1192 3 -1 bo
+F 1196 3 1 dy’s 
+F 1200 4 2 heart 
+- 1206
+F 1216 6 -1 Keep 
+F 1224 6 -1 it 
+F 1232 6 4 safe 
+F 1240 6 1 and 
+F 1248 11 2 so
+F 1260 3 1 u
+F 1264 6 -1 nd 
+- 1272
+F 1288 6 -1 With 
+F 1296 6 4 hope, 
+F 1312 3 2 you 
+F 1316 3 1 can 
+F 1320 3 -1 do 
+F 1324 3 1 your 
+F 1328 4 2 part 
+- 1334
+F 1340 3 2 To 
+F 1344 10 1 turn 
+F 1356 3 2 a 
+F 1360 10 1 life 
+F 1372 3 2 a
+F 1376 18 1 round 
+- 1396
+F 1404 3 4 I 
+F 1408 6 6 can
+F 1416 3 4 not 
+F 1420 3 6 be
+F 1424 6 4 lieve 
+F 1432 6 1 my 
+F 1440 20 -1 eyes 
+- 1462
+F 1466 3 2 Is 
+F 1470 1 4 the 
+F 1472 6 6 world 
+F 1480 3 4 fin
+F 1484 3 6 ally 
+F 1488 6 4 gro
+F 1496 6 1 wing 
+F 1504 12 -1 wise 
+- 1518
+F 1530 1 2 ’Cause 
+F 1532 2 4 it 
+F 1536 8 6 seems 
+F 1546 5 9 to 
+F 1552 24 9 me 
+- 1578
+F 1584 1 6 So
+F 1586 4 4 me 
+F 1592 4 4 kind 
+F 1598 4 2 of 
+F 1604 4 4 har
+F 1610 3 -1 mo
+F 1614 1 -1 ny
+F 1616 10 2 ~ 
+- 1628
+F 1640 6 -6 Is 
+F 1648 6 2 on 
+F 1656 6 1 the 
+F 1664 11 2 ri
+F 1676 3 1 ~
+F 1680 24 -1 se 
+- 1706
+: 1792 6 6 A
+: 1800 6 6 ny
+: 1808 3 6 one 
+: 1812 3 7 with 
+: 1816 3 6 half 
+: 1820 3 4 a 
+: 1824 4 6 brain 
+- 1830
+: 1844 3 1 Could 
+: 1848 3 2 spend 
+: 1852 3 4 their 
+: 1856 6 6 whole 
+: 1864 4 6 life 
+: 1872 3 6 ho
+: 1876 3 7 w
+: 1880 3 6 ling 
+: 1884 3 4 in 
+: 1888 4 6 pain 
+- 1894
+: 1914 1 2 ’Cause 
+: 1916 2 4 the 
+: 1920 3 6 dark 
+: 1924 3 7 is 
+: 1928 3 6 eve
+: 1932 3 4 ry
+: 1936 3 6 where 
+- 1940
+: 1940 3 4 And 
+: 1944 3 2 Pen
+: 1948 3 4 ny 
+: 1952 3 6 doe
+: 1956 3 7 sn’t 
+: 1960 3 6 seem 
+: 1964 3 4 to 
+: 1968 3 6 care 
+- 1972
+: 1972 3 4 That 
+: 1976 3 2 soon 
+: 1980 3 4 the 
+: 1984 3 6 dark 
+: 1988 3 7 in 
+: 1992 3 6 me 
+: 1996 3 4 is 
+: 2000 3 6 all 
+: 2004 3 4 that 
+: 2008 3 2 will 
+: 2012 3 4 re
+: 2016 4 6 main 
+- 2022
+: 2048 6 7 Lis
+: 2056 6 7 ten 
+: 2064 4 9 close 
+: 2072 6 7 to 
+: 2080 3 6 eve
+: 2084 3 4 ry
+: 2088 3 2 bo
+: 2092 3 4 dy’s 
+: 2096 4 6 heart 
+- 2102
+: 2108 3 6 And 
+: 2112 6 7 hear 
+: 2120 6 7 that 
+: 2128 6 9 brea
+: 2136 6 7 king 
+: 2144 11 6 so
+: 2156 3 4 u
+: 2160 8 2 nd 
+- 2170
+: 2176 4 7 Hopes 
+: 2184 6 7 and 
+: 2192 6 9 dreams 
+: 2200 6 7 are 
+: 2208 3 6 shat
+: 2212 3 4 ter
+: 2216 3 2 ing 
+: 2220 3 4 a
+: 2224 4 6 part 
+- 2230
+: 2236 3 4 And 
+: 2240 6 6 crash
+: 2248 6 6 ing 
+: 2256 6 9 to 
+: 2264 1 6 th
+: 2266 5 4 e 
+: 2272 20 4 ground 
+- 2294
+: 2300 3 1 I 
+: 2304 6 2 can
+: 2312 3 1 not 
+: 2316 3 2 be
+: 2320 6 1 lieve 
+: 2328 1 -3 my
+: 2330 5 -5 ~ 
+: 2336 20 -5 eyes 
+- 2358
+: 2364 1 -1 How 
+: 2366 1 1 the 
+: 2368 6 2 world’s 
+: 2376 3 1 filled 
+: 2380 3 2 with 
+: 2384 6 1 filth 
+: 2392 1 -3 a
+: 2394 5 -5 nd 
+: 2400 16 -5 lies 
+- 2418
+: 2426 1 1 But 
+: 2428 3 1 it’s 
+: 2432 4 2 plain 
+: 2440 6 6 to 
+: 2448 30 6 see 
+- 2479
+: 2480 5 6 E
+: 2486 4 4 vil 
+: 2492 3 2 in
+: 2496 6 4 side 
+: 2504 3 -1 of 
+: 2508 1 -1 me
+: 2510 18 2 ~ 
+- 2530
+: 2536 6 -3 Is 
+: 2544 6 2 on 
+: 2552 1 1 t
+: 2554 4 -1 he 
+: 2560 27 -1 ri
+: 2588 3 -3 ~
+: 2592 32 -6 se 
+E

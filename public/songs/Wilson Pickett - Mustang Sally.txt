@@ -1,0 +1,322 @@
+#ARTIST:Wilson Pickett
+#TITLE:Mustang Sally
+#MP3:Wilson Pickett - Mustang Sally.mp3
+#CREATOR:Relisch
+#COVER:Wilson Pickett - Mustang Sally [CO].jpg
+#BACKGROUND:Wilson Pickett - Mustang Sally [BG].jpg
+#GENRE:Rock
+#YEAR:1966
+#LANGUAGE:English
+#BPM:300
+#GAP:8250
+#VIDEO:a=16u6w0cjjrU,co=mustang-sally--three-time-loser-55abea28b8262.jpg,bg=pickett-wilson-505048101e50a.jpg
+: 0 2 9 Mustang
+: 3 9 12 ~ 
+: 13 6 16 Sally
+: 20 5 16 ~, 
+F 57 7 6 huh, 
+F 88 6 6 huh, 
+- 104
+: 127 4 9 Guess 
+: 133 4 12 you 
+: 138 4 12 better
+: 143 4 9 ~ 
+: 149 6 16 slow 
+* 156 6 16 your 
+* 165 8 12 mustang
+* 175 11 12 ~ 
+* 187 11 4 down 
+- 208
+F 223 3 6 Oh 
+F 229 5 6 Lord, 
+F 276 1 6 what 
+F 278 3 6 I 
+F 283 9 6 said 
+F 293 7 6 now? 
+- 320
+: 344 4 9 Mustang
+: 349 14 12 ~ 
+: 364 6 15 Sally
+: 371 5 12 ~, 
+F 378 4 6 now 
+F 383 4 6 baby
+F 390 8 6 ~, 
+- 408
+F 418 6 6 Oh 
+F 425 5 6 Lord, 
+: 476 4 10 guess 
+: 481 4 12 you 
+: 486 3 12 better
+: 491 3 10 ~ 
+: 497 10 15 slow 
+: 509 7 12 your 
+: 518 5 12 mustang
+: 524 9 12 ~ 
+: 535 33 4 down 
+- 578
+F 599 7 6 Huh 
+F 624 5 6 oh 
+F 630 11 6 yeah 
+- 661
+: 706 3 16 You 
+: 710 4 16 been 
+: 715 4 16 running
+: 720 3 16 ~ 
+: 728 3 16 all 
+: 733 8 16 over
+: 743 4 14 ~ 
+: 749 4 11 the 
+: 754 10 7 town 
+: 766 11 7 now 
+- 787
+: 810 12 17 Oh! 
+: 823 2 15 I 
+: 826 3 17 guess 
+: 831 4 15 I’ll 
+: 836 3 17 have 
+: 840 4 15 to 
+: 845 4 17 put 
+: 850 4 15 your 
+: 856 6 17 flat 
+: 865 5 15 feet 
+: 871 4 12 on 
+: 877 3 10 the 
+: 882 20 12 ground 
+- 912
+F 919 4 6 Huh, 
+F 963 1 6 what 
+F 965 1 6 I 
+F 968 8 6 said 
+F 977 11 6 now? 
+- 1008
+F 1048 1 6 Listen
+F 1050 2 6 ~ 
+- 1059
+: 1062 4 15 All 
+: 1067 4 16 you 
+: 1072 5 12 want 
+: 1078 4 9 to 
+: 1084 4 12 do 
+: 1089 7 9 is 
+: 1099 11 12 ride 
+: 1111 4 9 around
+: 1116 8 12 ~ 
+: 1126 4 15 Sally
+: 1132 9 16 ~, 
+: 1149 20 12 ride, 
+: 1171 4 9 Sally
+: 1176 9 12 ~, 
+: 1187 14 12 ride 
+- 1211
+: 1236 4 15 All 
+: 1241 4 16 you 
+: 1246 5 12 want 
+: 1252 4 9 to 
+: 1258 4 12 do 
+: 1263 7 9 is 
+: 1273 11 12 ride 
+: 1285 4 9 around
+: 1290 8 12 ~ 
+: 1300 4 15 Sally
+: 1306 9 16 ~, 
+: 1323 20 12 ride, 
+: 1345 4 9 Sally
+: 1350 9 12 ~, 
+: 1361 14 12 ride 
+- 1385
+: 1411 3 17 All 
+: 1416 4 17 you 
+: 1421 4 17 want 
+: 1427 4 17 to 
+: 1433 5 17 do 
+: 1439 4 14 is 
+: 1445 15 17 ride 
+: 1462 3 15 around
+: 1466 7 17 ~ 
+: 1486 4 12 Sally
+: 1492 5 16 ~, 
+: 1498 21 12 ride, 
+: 1521 4 9 Sally
+: 1527 7 12 ~, 
+: 1537 14 12 ride. 
+F 1563 2 6 Huh 
+- 1575
+: 1587 4 15 All 
+: 1592 4 16 you 
+: 1597 4 12 want 
+: 1603 3 9 to 
+: 1608 5 12 do 
+: 1614 8 9 is 
+: 1625 11 12 ride 
+: 1639 2 9 around
+: 1642 8 12 ~ 
+: 1652 3 15 Sally
+: 1657 7 16 ~, 
+: 1673 20 12 ride, 
+: 1696 4 9 Sally
+: 1702 6 12 ~, 
+: 1711 14 12 ride 
+- 1735
+: 1762 3 19 One 
+: 1767 4 17 of 
+: 1773 11 19 these 
+: 1785 9 19 early
+: 1795 5 17 ~ 
+: 1801 9 17 mornings
+: 1812 7 19 ~, 
+F 1821 7 6 baby
+F 1829 7 6 ~, 
+- 1845
+: 1848 5 15 You 
+: 1875 1 17 gonna
+: 1877 3 15 ~ 
+: 1882 6 17 be 
+: 1889 7 17 wiping
+: 1899 5 15 ~ 
+* 1906 5 17 your 
+* 1912 5 15 weeping
+* 1920 4 12 ~
+* 1925 5 10 ~ 
+* 1933 13 12 eyes 
+- 1950
+F 1952 5 6 Huh, 
+F 2012 1 6 what 
+F 2014 2 6 I 
+F 2017 7 6 said 
+F 2028 11 6 now? 
+- 2049
+F 2065 2 6 Look 
+F 2068 1 6 it 
+F 2070 3 6 here. 
+- 2083
+: 2107 4 7 I 
+: 2112 7 12 bought 
+: 2121 6 12 you 
+: 2129 3 12 a 
+: 2134 5 12 brand 
+: 2141 8 12 new 
+: 2150 7 16 mustang
+: 2158 7 12 ~ 
+: 2200 6 12 nineteen
+: 2210 9 12 ~ 
+: 2221 5 12 sixty
+: 2228 7 12 ~ 
+: 2236 15 12 five. 
+F 2260 4 6 Huh 
+- 2274
+: 2287 4 16 Now 
+: 2293 3 12 you 
+: 2298 4 12 come 
+: 2303 4 10 around
+: 2309 12 12 ~ 
+* 2328 6 16 signifying
+* 2336 3 12 ~
+* 2341 4 12 ~
+* 2346 3 12 ~ 
+* 2350 3 10 a 
+* 2354 3 12 woman
+* 2358 3 12 ~, 
+- 2367
+: 2369 4 12 You 
+: 2374 8 12 don’t 
+: 2385 4 12 wanna
+: 2390 5 12 ~ 
+: 2396 4 12 let 
+: 2402 9 12 me 
+: 2413 15 12 ride 
+- 2436
+: 2439 4 9 Mustang
+: 2444 31 12 ~ 
+: 2476 6 15 Sally
+: 2483 3 12 ~, 
+F 2487 3 6 now 
+F 2491 3 6 baby
+F 2496 6 6 ~, 
+- 2512
+F 2523 6 6 Oh 
+F 2530 5 6 Lord, 
+: 2571 4 10 guess 
+: 2576 5 12 you 
+: 2582 4 12 better
+: 2587 4 10 ~ 
+: 2592 9 15 slow 
+: 2602 6 12 that 
+: 2609 11 12 mustang
+: 2621 21 12 ~ 
+: 2643 29 4 down 
+- 2682
+F 2700 3 6 Huh, 
+F 2721 6 6 oh 
+F 2728 6 6 Lord. 
+F 2761 3 6 Look 
+F 2765 6 6 here 
+- 2781
+: 2802 4 14 You 
+: 2807 4 14 been 
+: 2812 4 14 running
+: 2817 4 14 ~ 
+: 2823 9 14 all 
+: 2834 4 14 over
+: 2839 4 12 ~ 
+: 2844 5 11 the 
+: 2850 18 7 town 
+- 2878
+: 2906 14 17 Oh! 
+: 2926 4 15 I 
+: 2931 2 17 got 
+: 2934 4 15 to 
+: 2939 4 17 put 
+: 2944 4 15 your 
+: 2950 6 17 flat 
+: 2959 5 15 feet 
+: 2966 4 12 on 
+: 2972 5 10 the 
+: 2982 10 12 ground. 
+- 2999
+F 3002 2 6 Huh, 
+F 3056 2 6 What 
+F 3059 3 6 I 
+F 3064 7 6 said 
+F 3072 15 6 now? 
+- 3097
+F 3107 1 6 Let 
+F 3109 1 6 me 
+F 3111 1 6 say 
+F 3113 1 6 it 
+F 3115 1 6 one 
+F 3117 2 6 more 
+F 3120 3 6 time 
+F 3124 6 6 ya’ll 
+- 3140
+: 3156 5 15 All 
+: 3162 5 16 you 
+: 3168 4 12 want 
+: 3173 4 9 to 
+: 3179 4 12 do 
+: 3184 7 9 is 
+: 3196 9 12 ride 
+: 3206 4 9 around
+: 3211 9 12 ~ 
+: 3222 4 15 Sally
+: 3227 7 16 ~, 
+* 3243 21 12 ride, 
+* 3266 4 9 Sally
+* 3271 8 12 ~, 
+* 3282 15 12 ride 
+- 3307
+: 3331 5 15 All 
+: 3337 5 16 you 
+: 3343 4 12 want 
+: 3348 4 9 to 
+: 3354 4 12 do 
+: 3359 8 9 is 
+: 3370 11 12 ride 
+: 3382 3 9 around
+: 3387 5 12 ~ 
+: 3398 5 15 Sally
+: 3405 6 16 ~, 
+: 3419 19 12 ride, 
+: 3441 4 9 Sally
+: 3447 6 12 ~, 
+: 3457 13 12 ride 
+E

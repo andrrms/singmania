@@ -1,0 +1,222 @@
+#ARTIST:The Wiggles
+#TITLE:Move Your Arms Like Henry
+#MP3:The Wiggles - Move Your Arms Like Henry.mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#LANGUAGE:English
+#BPM:296
+#GAP:14440
+#VIDEO:a=NJPCF5p9yPM,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 4 11 Move 
+: 5 3 11 your 
+: 9 3 11 arms
+: 13 4 9 ~ 
+: 18 4 7 like 
+: 23 8 9 Hen
+: 32 6 7 ry 
+- 40
+: 64 4 11 Move 
+: 69 3 11 your 
+: 73 3 11 arms
+: 77 4 9 ~ 
+: 82 4 7 like 
+: 87 6 9 Hen
+: 94 8 7 ry 
+- 104
+: 128 2 11 Move 
+: 132 2 11 your 
+: 136 3 11 arms
+: 140 5 9 ~ 
+: 146 5 7 a
+: 152 7 9 round 
+- 160
+: 160 3 9 And 
+: 164 3 7 a
+: 168 9 9 round 
+: 178 2 9 and 
+: 181 2 9 a
+: 184 7 11 round 
+- 192
+: 192 3 14 And 
+: 196 3 14 a
+: 200 3 11 round
+: 204 3 9 ~ 
+: 208 5 7 like 
+: 214 7 9 Hen
+: 222 6 7 ry 
+- 230
+: 256 4 11 Shake 
+: 261 2 11 your 
+* 265 3 11 hands
+: 269 4 9 ~ 
+: 274 3 7 like 
+: 278 7 9 Hen
+: 286 7 7 ry 
+- 295
+: 320 4 11 Shake 
+: 325 3 11 your 
+: 329 3 11 hands
+: 333 4 9 ~ 
+: 338 3 7 like 
+: 342 7 9 Hen
+: 350 7 7 ry 
+- 359
+: 384 3 11 Shake 
+: 388 5 11 your 
+: 394 2 11 hands
+: 397 4 9 ~ 
+: 402 5 7 a
+: 408 7 9 round 
+- 416
+: 416 3 9 And 
+: 420 3 7 a
+* 424 9 9 round 
+: 434 2 9 and 
+: 437 4 9 a
+: 442 5 11 round 
+- 448
+: 448 3 14 And 
+: 452 3 14 a
+: 456 3 11 round
+: 460 3 9 ~ 
+: 464 5 7 like 
+: 470 7 9 Hen
+: 478 8 7 ry 
+- 488
+: 537 3 4 Hen
+: 541 2 7 ry 
+: 545 3 7 waves 
+: 549 3 4 to 
+: 553 6 9 you
+: 560 8 7 ~ 
+- 570
+* 601 2 4 Hen
+: 604 3 7 ry 
+: 608 3 7 waves 
+: 612 4 4 to 
+: 618 7 9 me
+: 626 7 7 ~ 
+- 635
+: 652 4 7 He’s 
+: 657 6 7 got 
+: 664 7 9 so 
+: 672 3 9 ma
+: 676 5 7 ny 
+: 682 7 9 hands 
+- 690
+: 690 3 9 He’s 
+: 694 6 11 wav
+: 702 6 9 ing 
+: 714 7 9 all 
+: 722 3 9 the 
+: 726 7 11 time
+* 734 16 14 ~ 
+- 752
+: 768 4 11 Move 
+: 773 2 11 your 
+: 777 3 11 arms
+: 781 4 9 ~ 
+: 786 3 7 like 
+: 790 7 9 Hen
+: 798 7 7 ry 
+- 807
+: 832 4 11 Move 
+: 837 3 11 your 
+: 841 3 11 arms
+* 845 4 9 ~ 
+: 850 3 7 like 
+: 854 7 9 Hen
+: 862 7 7 ry 
+- 871
+: 896 3 11 Move 
+: 900 5 11 your 
+: 906 2 11 arms
+: 909 4 9 ~ 
+: 914 5 7 a
+: 920 7 9 round 
+- 928
+: 928 3 9 And 
+: 932 3 7 a
+: 936 9 9 round 
+: 946 2 9 and 
+: 949 4 9 a
+: 954 5 11 round 
+- 960
+: 960 3 14 And 
+: 964 3 14 a
+: 968 3 11 round
+: 972 3 9 ~ 
+: 976 5 7 like 
+: 982 7 9 Hen
+: 990 8 7 ry 
+- 1000
+* 1282 21 2 Ah 
+: 1304 3 4 Hen
+: 1308 2 7 ry 
+: 1312 3 7 waves 
+: 1316 3 4 to 
+: 1320 7 9 you
+: 1328 8 7 ~ 
+- 1338
+: 1370 2 4 Hen
+: 1373 4 7 ry 
+: 1378 3 7 waves 
+: 1382 3 4 to 
+: 1386 7 9 me
+* 1394 7 7 ~ 
+- 1403
+: 1422 3 7 He’s 
+* 1426 6 7 got 
+: 1434 6 9 so 
+: 1442 3 9 ma
+: 1446 3 7 ny 
+: 1450 7 9 hands 
+- 1458
+: 1458 3 9 He’s 
+: 1462 7 11 wav
+: 1470 8 9 ing 
+: 1482 7 9 all 
+: 1490 3 9 the 
+: 1494 7 11 time
+* 1502 7 14 ~
+: 1510 5 11 ~ 
+- 1517
+: 1536 4 11 Move 
+: 1541 2 11 your 
+: 1545 3 11 arms
+: 1549 4 9 ~ 
+: 1554 3 7 like 
+: 1558 7 9 Hen
+: 1566 7 7 ry 
+- 1575
+: 1600 4 11 Move 
+: 1605 2 11 your 
+: 1609 3 11 arms
+: 1613 4 9 ~ 
+: 1618 3 7 like 
+: 1622 7 9 Hen
+: 1630 7 7 ry 
+- 1639
+: 1664 3 11 Move 
+: 1668 5 11 your 
+: 1674 2 11 arms
+: 1677 4 9 ~ 
+: 1682 5 7 a
+: 1688 7 9 round 
+- 1696
+: 1696 3 9 And 
+: 1700 3 7 a
+: 1704 8 9 round 
+: 1713 2 9 and 
+: 1716 5 9 a
+: 1722 5 11 round 
+- 1729
+: 1730 3 14 And 
+* 1734 3 14 a
+: 1738 3 11 round
+: 1742 3 9 ~ 
+: 1746 4 7 like 
+: 1751 8 9 Hen
+: 1760 8 7 ry 
+E

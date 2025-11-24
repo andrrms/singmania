@@ -1,0 +1,477 @@
+#ARTIST:Matt And Kim
+#TITLE:Daylight
+#MP3:Matt And Kim - Daylight.mp3
+#CREATOR:gun8
+#GENRE:Pop
+#YEAR:2009
+#LANGUAGE:English
+#BPM:206.6
+#GAP:10170
+#VIDEO:v=WgBeu3FVi60,co=https://ia802805.us.archive.org/24/items/mbid-bb90a512-7863-44bb-ba28-9011adcef83c/mbid-bb90a512-7863-44bb-ba28-9011adcef83c-24984604937.jpg
+: 0 2 -1 We 
+: 4 1 -3 cut 
+: 6 3 -1 the 
+: 10 2 1 legs 
+: 14 2 -1 off 
+: 18 1 -3 of 
+: 20 3 1 our 
+: 24 4 1 pants 
+- 30
+: 32 2 -1 Threw 
+: 36 1 -3 our 
+: 38 3 -1 shoes 
+: 42 2 1 in
+: 46 2 -1 to 
+: 50 1 -3 the 
+: 52 2 4 o
+: 56 4 1 cean 
+- 62
+: 64 2 -1 Sit 
+: 68 1 -3 back 
+: 70 3 -1 and 
+: 74 2 1 wave 
+: 78 2 -1 through 
+: 82 1 -3 the 
+: 84 2 -1 day
+: 88 4 -3 light 
+- 94
+: 96 2 -1 Sit 
+: 100 1 -3 back 
+: 102 3 -1 and 
+* 106 2 1 wave 
+: 110 2 -1 through 
+: 114 1 -3 the 
+: 116 2 -1 day
+: 120 4 -3 light 
+- 126
+: 128 2 -1 Slip 
+: 132 1 -3 and 
+: 134 3 -1 slide 
+* 138 2 1 on 
+: 142 2 -1 sub
+: 146 1 -3 ~
+: 148 3 1 way 
+: 152 4 1 grates 
+- 158
+: 160 2 -1 These 
+: 164 1 -3 shoes 
+: 166 3 -1 are 
+: 170 2 1 poor 
+: 174 2 -1 mans 
+: 180 2 4 ice 
+: 184 4 1 skates 
+- 190
+: 192 2 -1 Fall 
+: 196 1 -3 through 
+: 198 3 -1 like 
+: 202 2 1 change 
+: 206 2 -1 in 
+: 210 1 -3 the 
+: 212 2 -1 day
+: 216 4 -3 light 
+- 222
+: 224 2 -1 Fall 
+: 228 1 -3 through 
+: 230 3 -1 like 
+* 234 2 1 change 
+: 238 2 -1 in 
+: 242 1 -3 the 
+: 244 2 -1 day
+: 248 4 -3 light 
+- 254
+: 256 2 -1 I 
+: 260 1 -3 miss 
+: 262 3 -1 ye
+: 266 2 1 llow 
+: 270 2 -1 lines 
+: 274 1 -3 in 
+: 276 3 1 my 
+: 280 4 1 roads 
+- 286
+: 288 2 -1 Some 
+: 292 1 -3 col
+: 294 3 -1 or 
+: 298 2 1 on 
+: 302 2 -1 mo
+: 308 2 4 no
+: 312 4 1 chrome 
+- 318
+: 320 2 -1 May
+: 324 1 -3 be 
+: 326 3 -1 I’ll 
+: 330 2 1 paint 
+: 334 2 -1 them 
+: 338 1 -3 in 
+: 340 2 -1 my
+: 344 4 -3 self 
+- 350
+: 352 2 -1 May
+: 356 1 -3 be 
+: 358 3 -1 I’ll 
+* 362 2 1 paint 
+: 366 2 -1 them 
+: 370 1 -3 in 
+: 372 2 -1 my
+: 376 4 -3 self 
+- 382
+: 384 2 -1 May
+: 388 1 -3 be 
+: 390 3 -1 I’ll 
+: 394 2 1 paint 
+: 398 2 -1 them 
+: 402 1 -3 in 
+: 404 3 1 my
+: 408 4 1 self 
+- 414
+: 416 2 -1 May
+: 420 1 -3 be 
+: 422 3 -1 I’ll 
+: 426 2 1 paint 
+: 430 2 -1 them 
+: 434 1 -3 in 
+: 436 2 4 my
+: 440 4 1 self 
+- 446
+: 448 2 -1 May
+: 452 1 -3 be 
+: 454 3 -1 I’ll 
+* 458 2 1 paint 
+: 462 2 -1 them 
+: 466 1 -3 in 
+: 468 2 -1 my
+: 472 4 -3 self 
+- 478
+: 480 2 -1 May
+: 484 1 -3 be 
+: 486 3 -1 I’ll 
+* 490 2 1 paint 
+: 494 2 -1 them 
+: 498 1 -3 in 
+: 500 2 -1 my
+: 504 4 -3 self 
+- 510
+: 512 2 -1 These 
+: 516 1 -3 side
+: 518 3 -1 walks 
+: 522 2 1 li
+: 526 2 -1 quid 
+: 532 3 1 then 
+: 536 4 1 stone 
+- 542
+: 544 2 -1 Buil
+: 548 1 -3 ding 
+: 550 3 -1 walls 
+: 554 2 1 and 
+: 558 2 -1 an 
+: 562 1 -3 old 
+* 564 2 4 pay 
+: 568 4 1 phone 
+- 574
+: 576 2 -1 It 
+: 580 1 -3 rings 
+: 582 3 -1 like 
+: 586 2 1 all 
+: 590 2 -1 through 
+: 594 1 -3 the 
+: 596 2 -1 day
+: 600 4 -3 light 
+- 606
+: 608 2 -1 It 
+* 612 1 -3 rings 
+: 614 3 -1 like 
+* 618 2 1 all... 
+- 622
+: 624 3 6 And 
+: 628 3 9 in 
+: 632 3 6 the 
+: 636 5 9 day
+: 644 5 9 light 
+- 651
+: 652 3 9 We 
+: 656 3 9 can 
+: 660 3 6 hitch
+: 664 5 9 hike 
+: 672 5 9 to 
+: 680 5 9 Maine 
+- 687
+: 688 3 6 I 
+: 692 3 9 hope 
+: 696 3 6 that 
+: 700 5 9 some
+: 708 5 9 day 
+- 715
+: 716 3 9 I’ll 
+: 720 3 9 see 
+* 724 3 6 with
+: 728 5 9 out 
+: 736 5 9 these 
+: 744 5 9 frames 
+- 751
+: 752 3 6 And 
+* 756 3 9 in 
+: 760 3 6 the 
+: 764 5 9 day
+: 772 5 9 light 
+- 779
+: 780 3 9 I 
+: 784 3 9 don’t 
+: 788 3 6 pick 
+: 792 7 9 up 
+: 800 7 9 my 
+: 808 5 9 phone 
+- 815
+: 816 3 6 Cause 
+: 820 3 9 in 
+: 824 3 6 the 
+: 828 5 9 day
+: 836 5 9 light 
+- 843
+: 844 3 9 A
+: 848 3 9 ny
+* 852 3 6 where 
+: 856 7 9 feels 
+: 864 7 9 like 
+: 872 8 9 home 
+- 882
+: 896 2 -1 I 
+: 900 1 -3 have 
+: 902 3 -1 five 
+: 906 2 1 clocks 
+: 910 2 -1 in 
+: 916 3 1 my 
+: 920 4 1 life 
+- 926
+: 928 2 -1 And 
+: 932 1 -3 on
+: 934 3 -1 ly 
+: 938 2 1 one 
+: 942 2 -1 has 
+: 946 1 -3 the 
+* 948 2 4 time 
+: 952 4 1 right 
+- 958
+: 960 2 -1 I’ll 
+: 964 1 -3 just 
+: 966 3 -1 un
+: 970 2 1 plug 
+: 974 2 -1 it 
+: 978 1 -3 for 
+: 980 2 -1 to
+: 984 4 -3 day 
+- 990
+: 992 2 -1 I’ll 
+: 996 1 -3 just 
+: 998 3 -1 un
+* 1002 2 1 plug 
+: 1006 2 -1 it 
+: 1010 1 -3 for 
+: 1012 2 -1 to
+: 1016 4 -3 day 
+- 1022
+: 1024 2 -1 O
+: 1028 1 -3 pen 
+: 1030 3 -1 hyd
+: 1034 2 1 rant 
+: 1038 2 -1 rolled 
+: 1042 1 -3 down 
+: 1044 3 1 win
+: 1048 4 1 dows 
+- 1054
+: 1056 2 -1 This 
+: 1060 1 -3 car 
+: 1062 3 -1 might 
+: 1066 2 1 make 
+: 1070 2 -1 a 
+: 1074 1 -3 good 
+: 1076 2 4 old 
+: 1080 4 1 boat 
+- 1086
+: 1088 2 -1 And 
+: 1092 1 -3 float 
+: 1094 3 -1 down 
+* 1098 2 1 grand 
+: 1102 2 -1 street 
+: 1106 1 -3 in 
+: 1108 2 -1 day
+: 1112 4 -3 light 
+- 1118
+: 1120 2 -1 And 
+: 1124 1 -3 float 
+: 1126 3 -1 down 
+* 1130 2 1 grand 
+: 1134 2 -1 street 
+: 1138 1 -3 in 
+: 1140 2 -1 day
+: 1144 4 -3 light 
+- 1150
+: 1152 2 -1 And 
+: 1156 1 -3 float 
+: 1158 3 -1 down 
+: 1162 2 1 grand 
+: 1166 2 -1 street 
+: 1170 1 -3 in 
+: 1172 3 1 day
+: 1176 4 1 light 
+- 1182
+: 1184 2 -1 And 
+: 1188 1 -3 float 
+: 1190 3 -1 down 
+: 1194 2 1 grand 
+: 1198 2 -1 street 
+: 1202 1 -3 in 
+* 1204 2 4 day
+: 1208 4 1 light 
+- 1214
+: 1216 2 -1 And 
+: 1220 1 -3 float 
+: 1222 3 -1 down 
+: 1226 2 1 grand 
+: 1230 2 -1 street 
+: 1234 1 -3 in 
+: 1236 2 -1 day
+: 1240 4 -3 light 
+- 1246
+: 1248 2 -1 And 
+* 1252 1 -3 float 
+: 1254 3 -1 down 
+* 1258 2 1 grand 
+* 1262 2 -1 street 
+: 1266 1 -3 in 
+: 1268 2 -1 day
+: 1272 4 -3 light 
+- 1278
+: 1280 2 -1 And 
+: 1284 1 -3 with 
+: 1286 3 -1 just 
+: 1290 2 1 half 
+: 1294 2 -1 of 
+: 1298 1 -3 a 
+: 1300 3 1 sun
+: 1304 4 1 burn 
+- 1310
+: 1312 2 -1 New 
+: 1316 1 -3 ye
+: 1318 3 -1 llow 
+: 1322 2 1 lines 
+: 1326 2 -1 that 
+: 1332 2 4 I 
+: 1336 4 1 earned 
+- 1342
+: 1344 2 -1 Step 
+: 1348 1 -3 back 
+: 1350 3 -1 and 
+: 1354 2 1 here 
+: 1358 2 -1 comes 
+: 1362 1 -3 the 
+: 1364 2 -1 night 
+: 1368 4 -3 time 
+- 1374
+: 1376 2 -1 Step 
+: 1380 1 -3 back 
+: 1382 3 -1 and 
+* 1386 2 1 here... 
+- 1390
+: 1392 3 6 And 
+* 1396 3 9 in 
+: 1400 3 6 the 
+: 1404 5 9 day
+: 1412 5 9 light 
+- 1419
+: 1420 3 9 We 
+: 1424 3 9 can 
+: 1428 3 6 hitch
+: 1432 5 9 hike 
+: 1440 5 9 to 
+: 1448 5 9 Maine 
+- 1455
+: 1456 3 6 I 
+: 1460 3 9 hope 
+: 1464 3 6 that 
+: 1468 5 9 some
+: 1476 5 9 day 
+- 1483
+: 1484 3 9 I’ll 
+: 1488 3 9 see 
+* 1492 3 6 with
+: 1496 5 9 out 
+: 1504 5 9 these 
+: 1512 5 9 frames 
+- 1519
+: 1520 3 6 And 
+: 1524 3 9 in 
+: 1528 3 6 the 
+: 1532 5 9 day
+: 1540 5 9 light 
+- 1547
+: 1548 3 9 I 
+: 1552 3 9 don’t 
+* 1556 3 6 pick 
+: 1560 7 9 up 
+: 1568 7 9 my 
+: 1576 5 9 phone 
+- 1583
+: 1584 3 6 Cause 
+: 1588 3 9 in 
+: 1592 3 6 the 
+: 1596 5 9 day
+: 1604 5 9 light 
+- 1611
+: 1612 3 9 A
+: 1616 3 9 ny
+* 1620 3 6 where 
+: 1624 7 9 feels 
+: 1632 7 9 like 
+: 1640 8 9 home 
+- 1650
+: 1904 3 6 And 
+: 1908 3 9 in 
+: 1912 3 6 the 
+: 1916 5 9 day
+: 1924 5 9 light 
+- 1931
+: 1932 3 9 We 
+: 1936 3 9 can 
+: 1940 3 6 hitch
+: 1944 5 9 hike 
+: 1952 5 9 to 
+: 1960 5 9 Maine 
+- 1967
+: 1968 3 6 I 
+* 1972 3 9 hope 
+: 1976 3 6 that 
+: 1980 5 9 some
+: 1988 5 9 day 
+- 1995
+: 1996 3 9 I’ll 
+: 2000 3 9 see 
+* 2004 3 6 with
+: 2008 5 9 out 
+: 2016 5 9 these 
+: 2024 5 9 frames 
+- 2031
+: 2032 3 6 And 
+: 2036 3 9 in 
+: 2040 3 6 the 
+: 2044 5 9 day
+: 2052 5 9 light 
+- 2059
+: 2060 3 9 I 
+: 2064 3 9 don’t 
+: 2068 3 6 pick 
+: 2072 7 9 up 
+: 2080 7 9 my 
+: 2088 5 9 phone 
+- 2095
+: 2096 3 6 Cause 
+: 2100 3 9 in 
+: 2104 3 6 the 
+: 2108 5 9 day
+: 2116 5 9 light 
+- 2123
+: 2124 3 9 A
+* 2128 3 9 ny
+* 2132 3 6 where 
+: 2136 7 9 feels 
+: 2144 7 9 like 
+: 2152 8 9 home 
+E

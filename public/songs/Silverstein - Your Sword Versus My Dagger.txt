@@ -1,0 +1,351 @@
+#ARTIST:Silverstein
+#TITLE:Your Sword Versus My Dagger
+#MP3:Silverstein - Your Sword Versus My Dagger.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2005
+#LANGUAGE:English
+#BPM:260
+#GAP:18800
+#VIDEO:a=iXcAZmTJE3Y,co=discovering-the-waterfront-4f221a9613f6d.jpg,bg=silverstein-63635c3d74979.jpg
+F 0 4 9 I’m 
+F 5 2 9 cut
+F 8 2 9 ting 
+F 12 8 9 through 
+- 22
+F 26 2 9 You’re 
+F 30 2 9 blee
+F 33 2 9 ding 
+F 37 4 9 out 
+- 42
+: 43 3 9 And 
+: 47 2 9 I 
+: 51 2 9 would 
+: 55 4 9 tell 
+: 62 3 5 the 
+: 68 4 5 truth 
+- 74
+: 77 2 5 But 
+: 80 2 9 I 
+: 84 3 9 can’t 
+: 89 4 7 help 
+: 95 3 5 my
+: 102 9 4 self 
+- 113
+F 133 3 9 Red 
+F 138 2 9 ru
+F 141 2 9 shes 
+F 146 7 9 out 
+- 155
+F 158 3 9 Di
+F 163 1 9 ssect 
+F 165 2 9 this 
+F 170 6 9 nerve 
+- 178
+: 179 3 9 And 
+: 183 2 9 I’ll 
+: 188 3 9 stop 
+: 194 3 5 my
+: 200 5 5 self 
+- 207
+: 209 2 5 Be
+: 213 3 9 fore 
+: 217 3 9 I 
+: 222 3 7 reach 
+: 228 3 5 my 
+: 234 7 4 cell 
+- 243
+: 265 3 5 I 
+: 271 4 5 wa
+: 279 5 9 sn’t 
+: 287 5 7 as
+: 295 4 5 king 
+: 303 4 4 for 
+: 311 4 5 the 
+* 319 31 2 world 
+- 352
+: 360 3 9 And 
+: 365 3 9 I 
+: 370 4 9 know 
+: 376 4 5 that 
+: 382 3 5 I’m 
+: 388 3 9 not 
+: 393 4 7 one 
+: 400 3 5 to 
+: 406 5 4 fol
+: 412 3 4 low 
+: 420 16 5 through 
+- 438
+: 459 3 9 All 
+: 464 2 9 these 
+: 468 5 9 ci
+: 475 3 5 ty 
+: 480 6 5 streets 
+- 487
+: 488 2 5 The 
+: 493 3 9 peo
+: 498 2 9 ple 
+: 502 3 7 look 
+: 508 2 5 the 
+: 513 6 4 same 
+- 520
+: 521 3 4 And 
+: 527 2 4 I 
+: 530 2 4 can 
+* 535 4 12 see 
+: 541 3 5 your 
+: 547 5 5 face 
+- 554
+: 556 3 5 And 
+: 560 2 5 I 
+: 564 2 5 can 
+* 568 4 12 hear 
+: 574 3 5 your 
+: 580 8 5 name 
+- 590
+: 613 3 5 I 
+: 617 5 5 wa
+: 625 5 9 sn’t 
+: 634 5 7 ask
+: 642 4 5 ing 
+: 650 5 4 for 
+: 658 4 5 the 
+: 666 10 2 world 
+- 677
+F 678 2 9 Your 
+F 682 2 9 sta
+F 685 3 9 bbing 
+F 690 7 9 in 
+- 699
+F 702 3 9 Per
+F 707 1 9 ma
+F 709 2 9 nent 
+F 714 8 9 scars 
+- 723
+: 724 3 9 And 
+: 728 2 9 you’ll 
+: 732 4 9 jus
+: 739 3 5 ti
+: 745 6 5 fy 
+- 752
+: 753 3 9 It 
+: 757 3 9 all 
+: 762 2 9 in
+: 766 4 7 side 
+: 772 3 5 your
+: 777 11 4 self 
+- 790
+F 810 3 9 You’ve 
+F 814 2 9 fi
+F 817 2 9 nished 
+F 822 6 9 me 
+- 830
+F 834 3 9 My 
+F 839 2 9 pulse 
+F 843 2 9 is 
+F 847 8 9 gone 
+- 856
+: 856 3 9 And 
+: 860 2 9 you’re 
+: 864 4 9 sat
+: 871 2 5 is
+: 876 7 5 fied 
+- 884
+: 885 2 5 To 
+: 889 2 9 put 
+: 893 3 9 this 
+: 898 4 7 all 
+: 904 3 5 to 
+: 909 11 4 hell 
+- 922
+: 942 3 5 I 
+: 947 5 5 wa
+: 955 4 9 sn’t 
+: 963 6 7 ask
+: 972 5 5 ing 
+: 980 4 4 for 
+: 988 4 5 the 
+* 996 30 2 world 
+- 1028
+: 1037 3 9 And 
+: 1042 3 9 I 
+: 1047 4 9 know 
+: 1053 4 5 that 
+: 1059 3 5 I’m 
+: 1065 3 9 not 
+: 1072 4 7 one 
+: 1078 3 5 to 
+: 1084 4 4 fol
+: 1089 3 4 low 
+: 1097 17 5 through 
+- 1116
+: 1136 3 9 All 
+: 1141 2 9 these 
+: 1146 3 9 ci
+: 1152 3 5 ty 
+: 1157 5 5 streets 
+- 1164
+: 1166 2 5 The 
+: 1170 3 9 peo
+: 1174 2 9 ple 
+: 1179 3 7 look 
+: 1185 3 5 the 
+: 1191 5 4 same 
+- 1198
+: 1200 2 4 And 
+: 1204 2 4 I 
+: 1207 2 4 can 
+* 1212 4 12 see 
+: 1218 3 5 your 
+: 1223 7 5 face 
+- 1231
+: 1232 3 5 And 
+: 1237 2 5 I 
+: 1240 2 5 can 
+* 1245 3 12 hear 
+: 1251 3 5 your 
+: 1256 10 5 name 
+- 1268
+: 1290 3 5 I 
+: 1294 5 5 wa
+: 1303 5 9 sn’t 
+: 1311 5 7 ask
+: 1319 4 5 ing 
+: 1327 4 4 for 
+: 1335 3 5 the 
+* 1343 69 2 world 
+- 1414
+: 1706 7 2 Drink 
+: 1719 6 9 the 
+: 1732 4 7 poi
+: 1738 3 5 son 
+: 1744 4 4 when 
+: 1750 3 5 you 
+: 1756 7 0 think 
+: 1769 7 7 it’s 
+: 1781 4 5 o
+: 1787 4 0 ~
+: 1793 3 0 ver 
+- 1798
+: 1805 7 0 Stab
+: 1815 5 -2 bing 
+: 1822 4 -3 your
+: 1829 9 -7 self 
+- 1840
+: 1848 3 -7 When 
+: 1853 3 -7 you 
+* 1857 5 7 think 
+: 1864 4 5 it’s 
+: 1871 4 4 too 
+: 1878 8 0 la
+: 1889 6 2 ~te 
+- 1897
+: 1904 8 2 Tra
+* 1917 8 9 gic 
+: 1930 4 7 en
+: 1936 3 5 dings 
+: 1942 4 4 are 
+: 1948 3 5 your 
+: 1954 6 0 thing 
+- 1962
+: 1966 6 7 You
+: 1974 3 5 ~ 
+: 1980 7 5 love 
+: 1992 4 0 them 
+- 1997
+: 1998 4 -7 You 
+: 2004 5 0 love 
+: 2012 6 -2 let
+: 2020 4 -3 ting 
+: 2028 8 -7 go 
+- 2038
+: 2048 3 -7 The 
+: 2054 5 7 end
+: 2062 5 5 ings 
+: 2071 3 4 the 
+: 2077 7 0 sa
+: 2086 5 2 ~me 
+- 2093
+: 2104 7 2 Drink 
+: 2116 6 9 the 
+: 2127 4 7 poi
+: 2133 4 5 son 
+: 2139 5 4 when 
+: 2147 3 5 you 
+: 2152 7 0 think 
+: 2165 7 7 it’s 
+: 2176 5 5 o
+: 2183 3 0 ~
+: 2189 4 0 ver 
+- 2195
+: 2197 4 -7 In
+: 2202 5 0 e
+: 2210 6 -2 vi
+: 2218 8 -3 ta
+: 2228 4 -7 ble, 
+F 2246 3 5 Ve
+F 2250 5 5 ro
+F 2257 3 5 na 
+F 2262 4 5 lives 
+F 2268 3 5 in
+F 2273 6 5 side 
+F 2281 3 5 of 
+F 2287 10 5 you 
+- 2299
+: 2313 3 5 I 
+: 2318 5 5 wa
+: 2326 5 9 sn’t 
+: 2334 5 7 ask
+: 2342 4 5 ing 
+: 2350 5 4 for 
+: 2358 5 5 the 
+* 2367 29 2 world 
+- 2398
+: 2407 4 9 And 
+: 2412 3 9 I 
+: 2417 4 9 know 
+: 2423 4 5 that 
+: 2429 3 5 I’m 
+: 2435 3 9 not 
+: 2441 4 7 one 
+: 2447 3 5 to 
+: 2453 5 4 fol
+: 2459 3 4 low 
+: 2467 15 5 through 
+- 2484
+: 2507 2 9 All 
+: 2511 2 9 these 
+: 2516 4 9 ci
+: 2522 3 5 ty 
+: 2528 5 5 streets 
+- 2534
+: 2535 3 5 The 
+: 2540 3 9 peo
+: 2544 2 9 ple 
+: 2549 3 7 look 
+: 2555 3 5 the 
+: 2560 6 4 same 
+- 2567
+: 2568 3 4 And 
+: 2572 3 4 I 
+: 2576 2 4 can 
+* 2581 4 12 see 
+: 2588 3 5 your 
+: 2594 6 5 face 
+- 2602
+: 2603 3 5 And 
+: 2607 2 5 I 
+: 2611 2 5 can 
+* 2615 4 12 hear 
+: 2621 3 5 your 
+: 2628 7 5 name 
+- 2637
+: 2659 3 5 I 
+: 2664 5 5 wa
+: 2672 5 9 sn’t 
+: 2680 5 7 as
+: 2688 4 5 king 
+: 2696 4 4 for 
+: 2704 4 5 the 
+F 2712 25 2 world 
+E

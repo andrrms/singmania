@@ -1,0 +1,164 @@
+#ARTIST:Boytronic
+#TITLE:You
+#MP3:Boytronic - You.mp3
+#CREATOR:Fepo
+#COVER:Boytronic - You [CO].jpg
+#BACKGROUND:Boytronic - You [BG].jpg
+#GENRE:Electronic
+#YEAR:1983
+#LANGUAGE:English
+#BPM:292
+#GAP:50798
+#VIDEO:v=Dun-YF48gvo,co=https://m.media-amazon.com/images/I/81YLfoaDSXS.jpg
+F 0 12 0 You 
+- 14
+: 33 6 4 You 
+: 41 3 4 look 
+: 46 7 1 full 
+: 55 3 -1 o
+: 59 3 1 ~f 
+: 65 11 1 won
+: 79 10 -4 der 
+- 91
+: 153 7 4 Of 
+: 162 6 4 mi
+: 170 3 4 ra
+: 175 6 3 cles 
+: 184 6 1 I 
+: 193 15 1 see 
+- 210
+F 256 6 0 You 
+- 264
+: 284 2 3 E
+: 288 5 4 mo
+: 295 4 4 tions 
+: 301 5 3 get
+: 308 9 1 ting 
+: 319 11 1 stron
+: 331 13 -4 ger 
+- 346
+: 408 7 4 Why 
+: 417 5 4 don′t 
+: 425 2 4 you 
+: 429 5 3 feel 
+: 436 4 -1 li
+: 441 4 1 ~ke 
+: 448 18 1 me? 
+- 468
+: 539 3 6 I 
+: 544 6 8 feel 
+: 552 3 8 it 
+* 557 5 8 eve
+* 564 7 8 ry 
+: 575 9 8 se
+: 587 14 1 cond 
+- 602
+: 603 3 8 My 
+: 608 6 8 heart 
+: 616 2 8 re
+: 620 5 8 calls 
+: 628 5 8 you
+: 635 3 1 ~r 
+: 640 12 1 name 
+- 654
+: 665 5 6 I'm 
+: 672 5 6 sear
+: 679 2 6 ching 
+: 683 6 6 for 
+: 691 4 6 a
+: 696 4 4 ~n 
+: 702 10 1 ans
+: 714 9 1 wer 
+- 724
+: 726 7 4 Why 
+: 735 3 4 don′t 
+: 740 4 4 you 
+: 746 5 3 fee
+: 752 4 -1 ~l 
+: 758 3 -1 the
+: 762 2 0 ~ 
+: 766 11 1 same? 
+- 779
+F 1021 9 0 You 
+- 1032
+: 1053 5 3 Loo
+: 1061 3 4 king 
+: 1066 3 3 for 
+: 1072 7 3 a 
+: 1084 13 1 lo
+: 1099 12 -4 ver 
+- 1113
+: 1177 3 3 A 
+: 1182 7 4 man 
+: 1191 3 3 I 
+: 1196 5 3 want 
+: 1203 4 -1 to
+: 1208 4 1 ~ 
+: 1214 18 1 be. 
+- 1234
+F 1277 9 0 You 
+- 1288
+: 1309 7 4 Need 
+: 1318 2 3 some
+: 1322 5 3 one 
+: 1330 4 -1 to
+: 1335 5 3 ~ 
+: 1343 9 1 hold 
+: 1355 9 -4 on 
+- 1366
+: 1429 8 4 Why 
+: 1439 5 4 don't 
+: 1446 2 4 you 
+: 1450 5 3 look 
+: 1457 6 1 at 
+* 1468 23 1 me? 
+- 1493
+: 1561 3 6 I 
+: 1566 6 8 feel 
+: 1574 3 8 it 
+* 1579 5 8 eve
+* 1586 7 8 ry 
+: 1597 9 8 se
+: 1609 14 1 cond 
+- 1624
+: 1624 4 8 My 
+: 1630 6 8 heart 
+: 1638 2 8 re
+: 1642 5 8 calls 
+: 1650 5 8 you
+: 1657 3 1 ~r 
+: 1662 12 1 name 
+- 1676
+: 1684 5 6 I'm 
+: 1691 7 6 sear
+: 1700 3 6 ching 
+: 1705 6 6 for 
+: 1713 4 6 a
+: 1718 4 4 ~n 
+: 1724 10 1 ans
+: 1736 9 1 wer 
+- 1746
+: 1748 7 4 Why 
+: 1757 3 4 don′t 
+: 1762 4 4 you 
+: 1768 5 3 fee
+: 1774 4 -1 ~l 
+: 1780 3 -1 the
+: 1784 2 0 ~ 
+: 1788 11 1 same? 
+- 1801
+: 1950 5 1 Eve
+: 1957 3 1 ry
+: 1962 6 1 time 
+: 1970 8 6 I 
+: 1981 3 6 see
+: 1985 5 6 ~ 
+: 1992 6 6 you 
+- 2000
+: 2004 7 4 I 
+: 2013 5 4 feel 
+: 2020 4 4 it′s 
+: 2027 6 3 not 
+: 2035 6 1 a 
+* 2044 14 1 game 
+E

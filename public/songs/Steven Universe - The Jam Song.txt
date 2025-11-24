@@ -1,0 +1,123 @@
+#ARTIST:Steven Universe
+#TITLE:The Jam Song
+#MP3:Steven Universe - The Jam Song.mp3
+#CREATOR:GaryCXJk
+#GENRE:Soundtrack
+#YEAR:2015
+#LANGUAGE:English
+#BPM:720
+#GAP:380
+#VIDEO:v=6RD5pTxXCXE,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/33/7c/0a337cb5-7752-62bf-cdda-4067b7b30d7e/859720734890.jpg/5000x5000bb.jpg
+: 0 4 9 The 
+: 6 16 14 sun 
+: 24 4 14 is 
+: 30 15 14 bright, 
+: 48 4 9 our 
+: 54 15 13 shirts 
+: 72 4 13 are 
+: 78 13 13 clean 
+- 92
+: 93 6 9 We’re 
+: 101 7 11 sit
+: 110 7 11 ting 
+: 119 6 11 up 
+: 131 6 6 a
+: 141 20 9 bove 
+: 166 4 9 the 
+: 173 14 9 sea 
+- 189
+: 193 7 9 Come 
+: 202 12 7 on 
+: 216 4 7 and 
+: 222 15 7 share 
+: 241 7 7 this 
+: 251 12 4 jam 
+: 266 13 4 with 
+: 289 25 6 me! 
+- 316
+: 393 13 14 Peach 
+: 408 3 14 or 
+: 413 14 14 plum 
+: 429 4 14 or 
+: 439 8 13 straw
+: 449 8 13 ber
+: 459 24 13 ry 
+- 484
+: 485 7 11 A
+: 493 7 11 ny 
+: 501 13 11 kind 
+: 517 7 6 is 
+: 526 25 9 fine, 
+: 553 6 9 you 
+: 561 13 9 see 
+- 575
+: 576 8 9 Come 
+: 586 11 7 on 
+: 599 5 7 and 
+: 605 14 7 share 
+: 621 8 7 this 
+: 631 15 13 jam 
+: 648 14 13 with 
+: 670 41 14 me! 
+- 713
+: 779 10 11 I’ll 
+: 792 6 7 do 
+: 800 13 11 my 
+: 815 23 14 best 
+: 864 4 14 to 
+: 870 13 14 give 
+: 885 7 14 this 
+: 894 13 14 jam 
+: 909 6 14 the 
+: 917 12 14 sweet
+: 931 11 14 ness 
+: 946 8 14 it 
+: 957 8 16 de
+: 967 61 13 ser
+: 1030 9 9 ~
+: 1041 12 11 ~
+: 1055 35 9 ves 
+- 1092
+: 1149 6 11 And 
+: 1157 12 11 I’ll 
+: 1171 10 7 keep 
+: 1183 9 11 it 
+: 1194 24 14 fresh 
+- 1220
+: 1244 7 9 I’m 
+: 1253 14 14 jam
+: 1269 7 14 ming 
+: 1278 12 14 on 
+: 1292 7 14 these 
+: 1301 14 14 tas
+: 1317 6 13 ty 
+: 1325 8 14 pre
+: 1338 91 16 serves 
+- 1431
+: 1525 7 9 In
+: 1536 11 14 gre
+: 1549 6 14 di
+: 1557 8 14 ents 
+: 1572 5 9 in 
+: 1582 8 13 har
+: 1592 3 13 mo
+: 1597 25 13 ny 
+- 1623
+: 1624 8 9 We 
+: 1634 11 11 mix 
+: 1650 3 11 to
+: 1655 9 11 get
+: 1666 5 6 her 
+: 1676 7 9 per
+: 1685 6 9 fect
+: 1693 28 9 ly 
+- 1723
+: 1730 6 6 Come 
+: 1739 13 7 on 
+: 1754 5 7 and 
+: 1762 11 7 share 
+: 1775 6 7 this 
+: 1785 16 11 jam 
+: 1803 16 13 with 
+: 1825 44 14 me! 
+E

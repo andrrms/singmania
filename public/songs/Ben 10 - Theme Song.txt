@@ -1,0 +1,154 @@
+#ARTIST:Ben 10
+#TITLE:Theme Song
+#MP3:Ben 10 - Theme Song.mp3
+#CREATOR:zozole
+#LANGUAGE:English
+#BPM:280.98
+#GAP:6440
+#VIDEO:v=_iIUGEOreiw,co=https://image.api.playstation.com/cdn/EP3678/CUSA09538_00/NM7goOprCX25D8Y9sr2YXXjWelDUi0TQ.png
+: 0 2 0 It 
+: 4 2 1 star
+: 8 2 1 ted 
+: 12 2 2 when 
+: 16 2 0 an 
+: 21 2 1 a
+: 24 2 1 li
+: 29 2 2 en 
+: 33 2 1 de
+: 36 2 0 vice 
+: 40 2 1 did 
+: 44 2 2 what 
+: 48 2 1 it 
+: 53 2 0 did 
+- 57
+: 65 2 0 And 
+: 68 2 1 stuck 
+: 72 2 1 it
+: 76 2 2 self 
+: 80 2 1 u
+: 85 2 1 pon 
+: 88 2 2 his 
+: 93 2 1 wrist 
+: 96 2 0 with 
+: 100 2 1 se
+: 104 2 2 crets 
+: 108 2 1 that 
+: 113 2 1 it 
+: 118 8 0 hid 
+- 128
+: 129 2 0 Now 
+: 132 2 0 he’s 
+: 136 2 0 got 
+: 140 2 1 su
+: 144 2 2 per 
+: 148 2 3 po
+: 153 2 3 wers 
+- 156
+: 157 2 1 He’s 
+: 160 2 1 no 
+: 164 2 0 or
+: 169 2 2 di
+: 173 2 1 na
+: 177 2 0 ry 
+: 182 2 0 kid 
+- 185
+* 186 2 0 He’s 
+* 190 2 2 Ben 
+* 197 4 2 10 
+- 203
+: 259 2 0 So 
+: 262 2 1 if 
+: 266 2 1 you 
+: 270 2 2 see 
+: 274 2 0 him 
+: 277 2 1 you 
+: 282 2 1 might 
+: 286 2 2 be 
+: 289 2 0 in 
+: 294 2 1 for 
+: 298 2 1 a 
+: 303 2 2 big 
+: 306 2 1 sur
+: 311 3 0 prise 
+- 316
+: 323 2 0 He’ll 
+: 327 2 1 turn 
+: 330 2 1 in
+: 334 2 2 to 
+: 338 2 0 an 
+: 342 2 1 a
+: 346 2 1 li
+: 351 2 2 en 
+: 355 2 1 be
+: 358 2 0 fore 
+: 362 2 0 your 
+: 366 2 1 ve
+: 370 2 0 ry 
+: 376 9 0 eyes 
+- 386
+: 387 2 0 He’s 
+: 390 3 1 sli
+: 394 3 1 my, 
+: 399 3 2 cree
+: 404 2 2 py, 
+: 407 2 4 fast, 
+: 411 2 2 and 
+: 414 3 1 strong 
+- 419
+: 420 1 2 He’s 
+: 424 2 1 eve
+: 428 2 1 ry 
+: 431 2 0 shape 
+: 436 2 0 and 
+: 440 3 0 size 
+- 444
+* 444 2 1 He’s 
+* 449 2 0 Ben 
+* 456 3 0 10 
+- 461
+: 520 7 3 Ar
+: 528 3 3 med 
+: 533 2 2 with 
+: 537 2 1 po
+: 541 2 1 wers 
+: 545 2 0 he’s 
+: 549 2 0 on 
+: 556 3 0 the 
+: 564 4 0 case 
+- 570
+: 582 8 3 Figh
+: 592 3 3 ting 
+: 597 2 2 off 
+: 601 2 1 e
+: 604 2 1 vil 
+: 609 2 0 from 
+: 613 2 0 Earth 
+: 619 3 0 of 
+: 627 4 0 space 
+- 633
+: 647 8 3 He’ll 
+: 657 2 2 ne
+: 661 2 2 ver 
+: 665 2 1 stop 
+: 668 2 1 till 
+: 673 2 0 he 
+: 677 2 0 makes 
+: 684 2 0 them 
+: 692 4 0 pay 
+- 698
+: 708 3 0 ’Cause 
+: 713 2 1 he’s 
+: 716 2 1 the 
+: 721 2 2 bad
+: 724 2 2 dest 
+: 729 2 2 kid 
+: 733 2 1 to 
+: 737 3 1 e
+: 741 2 2 ver 
+: 746 2 1 save 
+: 750 2 1 the 
+: 756 6 2 day 
+- 764
+* 769 5 0 Ben 
+* 778 7 0 10! 
+E

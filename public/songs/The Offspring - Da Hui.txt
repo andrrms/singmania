@@ -1,0 +1,287 @@
+#ARTIST:The Offspring
+#TITLE:Da Hui
+#MP3:The Offspring - Da Hui.mp3
+#CREATOR:FaKK
+#YEAR:2003
+#LANGUAGE:English
+#BPM:378.75
+#GAP:78380
+#VIDEO:v=mXKy8k0b_5I,co=https://i.discogs.com/6XQzDkxx9dgBe38PnCc7YsuBWlAddZbPgIAQkiEmpwI/rs:fit/g:sm/q:90/h:471/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODg1/MjQtMTQ0ODc5NzU4/Ny04MjQ1LmpwZWc.jpeg,bg=offspring-the-501e2bd055140.jpg,tags=explicit
+: 0 7 11 I 
+: 8 7 11 won’t 
+: 16 3 11 fuck 
+: 20 7 11 with 
+: 28 3 11 Da 
+: 32 3 11 Hu
+: 36 8 11 i 
+- 46
+: 64 7 11 I 
+: 72 7 11 won’t 
+: 80 3 11 fuck 
+: 84 7 11 with 
+: 92 3 11 Da 
+: 96 3 11 Hu
+: 100 8 11 i 
+- 110
+: 128 7 11 I 
+: 136 7 11 won’t 
+: 144 3 11 fuck 
+: 148 7 11 with 
+: 156 3 11 Da 
+: 160 3 11 Hu
+: 164 8 11 i 
+- 174
+: 188 3 11 Be
+: 192 8 11 cause 
+: 204 3 11 Da 
+: 208 3 11 Hu
+: 212 4 11 i 
+: 220 3 11 will 
+: 224 7 11 fuck 
+: 232 7 11 with 
+: 240 8 11 me 
+- 250
+: 256 7 11 I 
+: 264 7 11 won’t 
+: 272 3 11 take 
+: 276 3 11 off 
+: 280 3 11 on 
+: 284 3 11 Da 
+: 288 3 11 Hu
+: 292 8 11 i 
+- 302
+: 320 7 11 I 
+: 328 7 11 won’t 
+: 336 3 11 take 
+: 340 3 11 off 
+: 344 3 11 on 
+: 348 3 11 Da 
+: 352 3 11 Hu
+: 356 8 11 i 
+- 366
+: 384 7 11 I 
+: 392 7 11 won’t 
+: 400 3 11 take 
+: 404 3 11 off 
+: 408 3 11 on 
+: 412 3 11 Da 
+: 416 3 11 Hu
+: 420 8 11 i 
+- 430
+: 444 3 11 Be
+: 448 8 11 cause 
+: 460 3 11 Da 
+: 464 3 11 Hu
+: 468 4 11 i 
+: 476 3 11 will 
+: 480 7 11 fuck 
+: 488 7 11 with 
+: 496 8 11 me 
+- 506
+: 512 3 4 A 
+: 516 7 4 Haelo 
+: 524 3 4 with 
+: 528 8 6 heart, 
+: 544 3 8 that’s 
+* 548 7 8 all 
+: 556 3 6 I’ll 
+: 560 3 8 ev
+: 564 3 6 er 
+: 568 7 3 be 
+- 576
+: 576 3 4 I’m 
+: 580 7 4 not 
+: 588 3 4 a 
+: 592 7 6 part 
+: 600 3 6 of 
+: 604 3 6 the 
+* 608 3 8 North 
+* 612 7 8 Shore 
+: 620 3 6 so
+: 624 3 8 ci
+: 628 3 6 e
+: 632 7 3 ty 
+- 640
+: 640 3 4 Stuck 
+: 644 7 4 on 
+: 652 3 4 the 
+: 656 7 6 shoul
+: 664 7 6 der, 
+: 672 3 8 that’s 
+: 676 7 8 where 
+: 684 3 6 you’ll 
+: 688 3 8 fi
+: 692 3 6 ~nd 
+: 696 7 3 me 
+- 704
+: 704 3 4 Dig
+: 708 7 4 ging 
+: 716 3 4 for 
+: 720 7 6 scrapes 
+: 728 3 6 with 
+: 732 3 6 the 
+* 736 7 8 kooks 
+* 744 7 8 in 
+* 752 10 8 line! 
+- 764
+: 768 7 11 I 
+: 776 5 11 won’t 
+: 782 5 11 park 
+: 788 3 11 next 
+: 792 3 11 to 
+: 796 3 11 Da 
+: 800 3 11 Hu
+: 804 8 11 i 
+- 814
+: 832 7 11 I 
+: 840 7 11 won’t 
+: 848 3 11 park 
+: 852 3 11 next 
+: 856 3 11 to 
+: 860 3 11 Da 
+: 864 3 11 Hu
+: 868 8 11 i 
+- 878
+: 896 7 11 I 
+: 904 7 11 won’t 
+: 912 3 11 park 
+: 916 3 11 next 
+: 920 3 11 to 
+: 924 3 11 Da 
+: 928 3 11 Hu
+: 932 8 11 i 
+- 942
+: 956 3 11 Be
+: 960 11 11 cause 
+: 972 3 11 I 
+: 976 12 11 don’t 
+: 994 3 11 real
+: 998 3 11 ly 
+: 1002 7 11 feel 
+: 1010 3 11 com
+: 1014 3 11 for
+: 1018 7 11 table 
+- 1026
+: 1026 3 4 A 
+: 1030 7 4 Haole 
+: 1038 3 4 with 
+: 1042 8 6 heart 
+: 1058 3 8 that’s 
+: 1062 7 8 all 
+: 1070 3 6 I’ll 
+: 1074 3 8 e
+: 1078 3 6 ver 
+: 1082 7 3 be 
+- 1090
+: 1090 3 4 I’m 
+: 1094 7 4 not 
+: 1102 3 4 a 
+: 1106 7 6 part 
+: 1114 3 6 of 
+: 1118 3 6 the 
+: 1122 3 8 North 
+: 1126 7 8 Shore 
+: 1134 3 6 ro
+: 1138 3 8 ya
+: 1142 3 6 l
+: 1146 7 3 ty 
+- 1154
+: 1154 3 4 Stuck 
+: 1158 7 4 on 
+: 1166 3 4 the 
+: 1170 7 6 shoul
+: 1178 6 6 der, 
+: 1186 3 8 I’m 
+: 1190 7 8 not 
+: 1198 3 6 com
+: 1202 3 8 pla
+: 1206 3 6 i
+: 1210 7 3 ning 
+- 1218
+: 1218 3 4 Dig
+: 1222 7 4 ging 
+: 1230 3 4 for 
+: 1234 7 6 scraps, 
+: 1242 3 6 I’m 
+: 1246 3 6 the 
+* 1250 7 8 kooks 
+* 1258 7 8 in 
+* 1266 8 8 line! 
+- 1276
+: 1538 3 4 A 
+: 1542 7 4 Haole 
+: 1550 3 4 with 
+: 1554 8 6 heart 
+: 1570 3 8 that’s 
+: 1574 7 8 all 
+: 1582 3 6 I’ll 
+: 1586 3 8 e
+: 1590 3 6 ver 
+: 1594 7 3 be 
+- 1602
+: 1602 3 4 I’m 
+: 1606 7 4 not 
+: 1614 3 4 a 
+: 1618 5 6 part 
+: 1624 3 6 in 
+: 1628 3 6 the 
+: 1632 3 8 North 
+: 1636 7 8 Shore 
+: 1644 3 6 so
+: 1648 3 8 ci
+: 1652 3 6 e
+: 1656 7 3 ty 
+- 1664
+: 1664 3 4 Stuck 
+: 1668 7 4 on 
+: 1676 3 4 the 
+: 1680 7 6 soul
+: 1688 7 6 der 
+: 1696 3 8 that’s 
+: 1700 7 8 where 
+: 1708 3 6 you’ll 
+: 1712 3 8 fi
+: 1716 3 6 ~nd 
+: 1720 7 3 me 
+- 1728
+: 1728 3 4 Dig
+: 1732 7 4 ging 
+: 1740 3 4 for 
+: 1744 7 6 scraps, 
+: 1752 3 6 with 
+: 1756 3 6 the 
+* 1760 7 8 kooks 
+* 1768 7 8 in 
+* 1776 8 8 line! 
+- 1786
+: 1792 8 8 Don’t 
+: 1808 3 8 fuck 
+: 1812 7 8 with 
+: 1820 3 8 Da 
+: 1824 3 8 Hu
+: 1828 4 8 i 
+- 1834
+: 1856 8 8 Don’t 
+: 1872 3 8 fuck 
+: 1876 7 8 with 
+: 1884 3 8 Da 
+: 1888 3 8 Hu
+: 1892 4 8 i 
+- 1898
+: 1920 8 8 Don’t 
+: 1936 3 8 fuck 
+: 1940 7 8 with 
+: 1948 3 8 Da 
+: 1952 3 8 Hu
+: 1956 4 8 i 
+- 1962
+: 1980 3 8 Be
+: 1984 8 8 cause 
+: 1996 3 8 Da 
+: 2000 3 8 Hu
+: 2004 7 8 i 
+: 2012 3 8 will 
+: 2016 7 8 fuck 
+: 2024 7 8 with 
+: 2032 8 8 you! 
+E

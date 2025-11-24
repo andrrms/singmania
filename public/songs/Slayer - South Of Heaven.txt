@@ -1,0 +1,353 @@
+#ARTIST:Slayer
+#TITLE:South Of Heaven
+#MP3:Slayer - South Of Heaven.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2012 Vol. 2
+#GENRE:Thrash Metal
+#YEAR:1988
+#LANGUAGE:English
+#BPM:397
+#GAP:56880
+#VIDEO:a=74nTzbgDGWM,co=south-of-heaven-58aec0970d08a.jpg,bg=slayer-5698f50ee9900.jpeg
+: 0 2 3 An 
+: 6 3 3 un
+: 13 3 3 fore
+: 20 11 3 seen 
+: 34 3 3 fu
+: 42 4 3 ture 
+: 48 3 3 nest
+: 56 3 3 led 
+- 61
+: 63 3 3 Some
+: 69 3 3 where 
+: 76 3 6 in 
+: 84 8 3 time
+: 93 10 1 ~ 
+- 105
+: 116 2 3 Un
+: 122 2 3 sus
+: 130 2 3 pect
+: 136 5 3 ing 
+: 144 2 3 vic
+: 150 3 3 tims 
+: 156 6 3 no 
+: 164 5 3 warn
+: 171 4 3 ings 
+: 178 3 6 no 
+: 185 9 3 signs
+: 195 10 1 ~ 
+- 207
+: 239 2 6 Judg
+: 246 5 3 ment 
+: 252 5 3 Day 
+: 259 2 3 the 
+: 266 3 3 se
+: 273 3 3 cond 
+: 279 6 3 com
+: 287 2 3 ing 
+: 293 5 6 ar
+: 299 8 3 rives
+: 308 12 1 ~ 
+- 322
+F 338 3 10 Be
+F 345 5 10 fore 
+F 351 3 10 you 
+F 358 5 10 see 
+F 365 5 10 the 
+F 371 7 10 light 
+- 380
+F 389 5 10 You 
+F 397 5 10 must 
+F 411 119 11 die 
+- 532
+: 1299 3 3 For
+: 1305 5 3 got
+: 1312 4 3 ten 
+: 1323 4 3 chil
+: 1330 3 3 dren 
+: 1337 8 3 con
+: 1349 9 3 form 
+: 1360 3 3 a 
+: 1365 3 6 new 
+: 1372 10 3 faith 
+- 1384
+: 1395 3 3 A
+: 1401 2 3 vi
+: 1404 3 3 di
+: 1408 4 3 ty 
+: 1414 4 1 and 
+: 1420 4 3 lust 
+: 1431 9 3 con
+: 1443 9 3 trolled 
+* 1454 8 6 by 
+* 1467 8 3 hate 
+- 1477
+: 1489 3 6 The 
+: 1494 2 3 ne
+: 1497 3 3 ver
+: 1501 3 3 end
+: 1505 3 3 ing 
+: 1513 3 3 search 
+: 1524 4 3 for 
+: 1530 3 3 your 
+- 1535
+: 1541 4 3 Shat
+: 1548 4 6 tered 
+: 1559 4 3 sa
+: 1564 1 3 ni
+: 1569 3 3 ty 
+- 1574
+: 1587 3 3 Souls 
+: 1593 2 3 of 
+: 1599 8 3 dam
+: 1609 3 3 na
+: 1616 2 3 tion 
+: 1621 3 2 in 
+: 1626 3 2 their 
+: 1633 4 3 own 
+: 1638 3 3 re
+: 1642 4 6 ~
+: 1649 4 3 a
+: 1654 2 3 li
+: 1659 3 3 ty 
+- 1664
+: 1675 4 9 Cha
+: 1681 4 9 os 
+- 1687
+: 1700 4 9 Ram
+: 1707 3 9 pant 
+: 1711 2 9 in 
+: 1714 2 9 an 
+: 1717 10 9 age 
+: 1730 2 9 of 
+: 1735 2 9 dis
+: 1742 5 9 trust 
+- 1749
+: 1770 5 9 Con
+: 1778 5 9 fron
+: 1788 7 9 ta
+: 1800 4 9 tions 
+F 1810 4 9 im
+F 1818 4 9 pul
+F 1826 3 9 sive 
+F 1835 10 9 ha
+F 1848 6 9 bi
+F 1860 7 9 tat 
+- 1869
+: 2481 3 3 Bas
+: 2487 4 3 tard 
+: 2499 7 3 sons 
+: 2511 6 3 be
+: 2522 5 3 gat 
+: 2533 3 3 your 
+- 2538
+: 2552 4 4 Daugh
+: 2558 3 3 ters 
+- 2563
+: 2570 3 3 Pro
+: 2576 1 3 mis
+: 2582 4 3 cu
+: 2588 1 3 ous 
+: 2594 2 3 mo
+: 2598 2 3 thers 
+- 2602
+: 2605 2 3 With 
+: 2611 3 3 your 
+: 2616 2 2 in
+: 2622 2 3 ces
+: 2629 4 3 tu
+: 2635 1 6 ous 
+: 2640 4 4 fa
+: 2647 2 3 thers 
+- 2651
+: 2669 4 3 In
+: 2675 6 3 grate 
+: 2686 7 3 souls 
+: 2698 9 3 con
+: 2709 9 3 demned 
+* 2720 2 3 for 
+* 2726 4 6 all 
+: 2732 2 6 e
+: 2738 1 3 ter
+: 2740 1 3 ni
+: 2743 4 3 ty 
+- 2749
+: 2754 2 3 Ob
+: 2761 4 3 tained 
+: 2766 2 3 by 
+: 2769 2 3 im
+: 2772 1 3 mo
+: 2774 2 3 ral 
+: 2777 2 3 ob
+: 2784 4 3 ser
+: 2789 2 3 vance 
+- 2793
+: 2795 2 3 A 
+: 2801 4 3 do
+: 2806 2 3 mi
+: 2812 4 3 neer
+: 2817 2 6 ing 
+: 2823 4 4 de
+: 2828 2 3 i
+: 2834 5 3 ty 
+- 2841
+: 2850 5 9 Cha
+: 2857 4 9 os 
+- 2863
+: 2873 4 9 Ram
+: 2879 2 9 pant 
+: 2884 1 9 in 
+: 2887 1 9 an 
+: 2890 9 9 age 
+: 2902 3 9 of 
+: 2907 3 9 dis
+: 2914 6 9 trust 
+- 2922
+: 2944 4 9 Con
+: 2951 5 9 fron
+: 2961 7 9 ta
+: 2973 4 9 tions 
+: 2983 3 9 im
+: 2990 4 9 pul
+: 2999 3 9 sive 
+: 3008 8 9 sab
+: 3019 10 9 bath 
+- 3031
+F 3049 5 9 On 
+F 3055 4 9 and 
+F 3061 4 9 on 
+F 3068 4 9 south 
+F 3073 3 9 of 
+F 3078 8 9 Hea
+F 3088 10 9 ven 
+- 3100
+F 3139 5 9 On 
+F 3145 4 9 and 
+F 3151 3 9 on 
+F 3157 3 9 south 
+F 3162 3 9 of 
+F 3167 9 9 Hea
+F 3178 10 9 ven 
+- 3190
+F 3227 5 9 On 
+F 3233 4 9 and 
+F 3238 3 9 on 
+F 3245 3 9 south 
+F 3249 3 9 of 
+F 3255 9 9 Hea
+F 3265 10 9 ven 
+- 3277
+F 3315 5 9 On 
+F 3321 4 9 and 
+F 3326 3 9 on 
+F 3332 3 9 south 
+F 3337 3 9 of 
+F 3342 9 9 Hea
+F 3352 11 9 ven 
+- 3365
+: 3941 4 1 The 
+: 3947 4 6 root 
+: 3952 4 3 of 
+: 3958 9 3 all 
+: 3969 4 3 e
+: 3975 3 3 vil 
+: 3980 2 3 is 
+* 3986 3 1 the 
+* 3993 4 3 heart 
+* 3998 3 3 of 
+* 4003 2 1 a 
+* 4010 4 6 black 
+* 4021 3 3 soul 
+- 4026
+F 4032 2 1 A 
+F 4038 3 3 force 
+F 4044 3 3 that 
+F 4049 2 1 has 
+F 4056 4 6 lived 
+F 4066 4 3 all 
+F 4072 2 1 e
+F 4079 3 3 ter
+F 4084 2 1 ni
+F 4089 4 3 ty 
+- 4095
+: 4123 2 6 The 
+: 4128 3 3 ne
+: 4132 2 3 ver
+: 4135 3 3 end
+: 4140 2 3 ing 
+: 4146 2 3 search 
+- 4150
+: 4157 4 3 For 
+: 4162 1 3 a 
+: 4167 5 3 truth 
+* 4178 4 3 ne
+* 4184 2 6 ver 
+* 4191 4 3 told
+* 4196 3 2 ~ 
+- 4201
+F 4211 5 7 The 
+F 4218 3 7 loss 
+F 4224 3 7 of 
+F 4229 3 7 all 
+F 4235 3 7 hope 
+F 4241 3 7 and 
+F 4246 3 7 your 
+F 4252 3 7 dig
+F 4257 2 7 ni
+F 4261 11 7 ty 
+- 4274
+: 4306 5 9 Cha
+: 4312 4 9 os 
+- 4318
+: 4328 4 9 Ram
+: 4335 3 9 pant 
+: 4339 2 9 in 
+: 4342 3 9 an 
+: 4346 9 9 age 
+: 4358 3 9 of 
+: 4364 3 9 dis
+: 4370 6 9 trust 
+- 4378
+: 4398 4 9 Con
+: 4405 5 9 fron
+: 4416 8 9 ta
+: 4428 5 9 tions 
+F 4438 3 9 im
+F 4445 4 9 pul
+F 4452 4 9 sive 
+F 4461 8 9 ha
+F 4473 6 9 bi
+F 4484 6 9 tat 
+- 4492
+F 4501 5 9 On 
+F 4507 4 9 and 
+F 4513 4 9 on 
+F 4519 3 9 south 
+F 4524 3 9 of 
+F 4529 8 9 Hea
+F 4540 10 9 ven 
+- 4552
+F 4590 5 9 On 
+F 4596 4 9 and 
+F 4601 3 9 on 
+F 4608 3 9 south 
+F 4612 3 9 of 
+F 4617 9 9 Hea
+F 4628 9 9 ven 
+- 4639
+F 4677 4 9 On 
+F 4682 4 9 and 
+F 4687 3 9 on 
+F 4694 3 9 south 
+F 4698 3 9 of 
+F 4704 9 9 Hea
+F 4715 9 9 ven 
+- 4726
+F 4762 5 9 On 
+F 4768 4 9 and 
+F 4774 3 9 on 
+F 4780 3 9 south 
+F 4784 3 9 of 
+F 4788 11 9 Hea
+F 4800 116 9 ven 
+E

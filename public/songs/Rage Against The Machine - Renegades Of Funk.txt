@@ -1,0 +1,750 @@
+#ARTIST:Rage Against The Machine
+#TITLE:Renegades Of Funk
+#MP3:Rage Against The Machine - Renegades Of Funk.mp3
+#CREATOR:DoubleDee
+#COVER:Rage Against The Machine - Renegades Of Funk [CO].jpg
+#BACKGROUND:Rage Against The Machine - Renegades Of Funk [BG].jpg
+#GENRE:Rap Metal
+#YEAR:2001
+#LANGUAGE:English
+#BPM:495.2
+#GAP:800
+#VIDEO:v=4KXdU3cZbNQ,co=renegades-of-funk-580dded3bd262.jpg,preview=43.93,medley=0-1788
+R 0 4 2 No 
+R 8 4 4 mat
+R 16 4 4 ter 
+R 24 4 7 how 
+R 40 4 9 hard 
+R 48 4 4 you 
+R 56 4 11 try, 
+R 72 4 4 you 
+R 80 4 11 can’t 
+R 96 6 4 stop 
+R 104 4 4 us 
+R 112 10 11 now 
+- 188
+R 256 4 7 No 
+R 264 4 11 mat
+R 272 4 9 ter 
+R 280 8 9 how 
+R 296 4 9 hard 
+R 304 4 7 you 
+R 312 8 11 try, 
+R 328 3 6 you 
+R 336 4 6 can’t 
+R 351 5 6 stop 
+R 360 4 7 us 
+R 368 10 11 now 
+- 444
+R 528 2 7 Since 
+R 532 2 2 the 
+R 536 4 9 Pre
+R 544 4 4 his
+R 552 4 11 to
+R 560 4 4 ric 
+R 568 4 9 a
+R 576 4 0 ges 
+R 592 2 4 and 
+R 596 2 4 the 
+R 600 4 7 days 
+R 608 4 7 of 
+R 616 4 9 an
+R 624 4 6 cient 
+R 632 6 9 Greece 
+- 648
+R 656 4 7 Right 
+R 664 4 9 down 
+R 672 2 6 through 
+R 676 2 4 the 
+R 680 6 11 Mid
+R 688 2 4 dle 
+R 692 6 11 A
+R 704 4 4 ges 
+- 717
+R 720 2 7 Pla
+R 724 2 7 net 
+R 728 4 6 Earth 
+R 736 4 7 kept 
+R 744 2 7 go
+R 748 2 6 ing 
+R 752 4 4 through 
+R 760 4 11 chan
+R 768 4 9 ges 
+- 782
+R 792 2 7 And 
+R 796 2 6 then 
+R 800 4 4 no 
+R 808 2 9 re
+R 812 2 6 nais
+R 816 4 4 sance 
+R 826 4 6 came 
+- 840
+R 848 2 4 And 
+R 856 2 7 times 
+R 864 2 6 con
+R 872 2 7 tin
+R 876 2 11 ued 
+R 880 4 2 to 
+R 888 4 7 change 
+- 902
+R 920 4 7 No
+R 928 4 7 thing 
+R 936 4 7 stayed 
+R 944 4 4 the 
+R 952 8 7 same, 
+R 972 2 4 but 
+R 976 2 7 there 
+R 980 2 6 were 
+R 984 6 7 al
+R 992 6 4 ways 
+R 1000 6 9 re
+R 1008 4 0 ne
+R 1016 6 0 gades 
+- 1029
+R 1032 4 11 Like 
+R 1040 4 4 Chief 
+R 1048 2 7 Sit
+R 1052 4 0 ting 
+R 1060 6 7 Bull, 
+G 1080 6 9 Tom 
+G 1096 5 9 Paine 
+- 1102
+R 1104 2 6 Doc
+R 1108 2 4 tor 
+R 1112 2 6 Mar
+R 1116 2 4 tin 
+R 1120 2 6 Lu
+R 1124 2 6 ther 
+R 1128 4 7 King, 
+G 1144 4 7 Mal
+G 1152 4 6 colm 
+G 1160 3 9 X 
+- 1166
+R 1168 2 7 They 
+R 1172 2 4 were 
+R 1176 4 11 re
+R 1184 2 0 ne
+R 1188 6 4 gades 
+R 1224 4 7 of 
+R 1232 4 6 their 
+R 1240 4 9 time 
+R 1248 4 6 and 
+R 1256 6 7 age 
+- 1266
+R 1268 2 7 So 
+R 1272 2 7 ma
+R 1276 2 7 ny 
+R 1280 4 9 re
+R 1288 2 2 ne
+R 1292 4 7 gades! 
+- 1329
+R 1424 2 7 We’re 
+R 1428 2 4 the 
+R 1432 4 7 re
+R 1440 4 4 ne
+R 1448 4 7 gades 
+R 1456 4 2 of 
+R 1464 6 2 funk 
+- 1480
+R 1488 2 9 We’re 
+R 1492 2 4 the 
+R 1496 4 9 re
+R 1504 4 7 ne
+R 1512 4 9 gades 
+R 1520 4 4 of 
+R 1528 6 2 funk 
+- 1600
+R 1680 2 2 We’re 
+R 1684 2 4 the 
+R 1688 4 9 re
+R 1696 4 6 ne
+R 1704 4 9 gades 
+R 1712 4 4 of 
+R 1718 8 2 funk 
+- 1736
+R 1744 2 2 We’re 
+R 1748 2 7 the 
+R 1752 4 9 re
+R 1760 4 7 ne
+R 1768 4 9 gades 
+R 1776 4 4 of 
+R 1782 6 2 funk 
+- 1798
+R 1808 2 7 From 
+R 1812 2 6 a 
+R 1816 4 6 dif
+R 1824 4 7 ferent 
+R 1832 4 9 so
+R 1840 4 4 lar 
+R 1848 4 7 sys
+R 1856 5 2 tem 
+- 1862
+R 1864 2 7 Ma
+R 1868 2 6 ny, 
+R 1872 2 7 ma
+R 1876 2 6 ny 
+R 1880 4 7 ga
+R 1888 4 4 la
+R 1896 4 9 xies 
+R 1904 4 6 a
+R 1912 4 7 way 
+- 1925
+R 1928 6 9 We 
+R 1936 2 4 are 
+R 1940 2 2 the 
+R 1944 4 7 force 
+R 1952 2 4 of 
+R 1956 2 4 a
+R 1960 2 9 no
+R 1964 2 6 ther 
+R 1968 2 4 cre
+R 1972 4 4 a
+R 1982 4 9 tion 
+- 1993
+R 1996 2 2 A 
+R 2000 4 7 new 
+R 2008 2 7 mu
+R 2012 2 6 si
+R 2016 4 4 cal 
+R 2024 4 9 re
+R 2032 2 4 ve
+R 2036 4 4 la
+R 2044 4 11 tion 
+- 2057
+R 2060 2 11 And 
+R 2064 4 6 we’re 
+R 2072 4 6 on 
+R 2080 4 4 this 
+R 2088 2 9 mu
+R 2092 2 4 si
+R 2096 4 2 cal 
+R 2104 4 11 mis
+R 2112 4 4 sion, 
+- 2125
+R 2128 4 6 To 
+R 2136 4 6 help 
+R 2144 4 4 the 
+R 2152 4 9 o
+R 2160 4 4 thers 
+R 2168 4 9 lis
+R 2176 2 4 ten 
+- 2188
+R 2192 4 6 And 
+R 2200 4 9 groove 
+R 2208 4 7 from 
+R 2216 4 9 land 
+R 2224 4 4 to 
+R 2232 4 7 land, 
+- 2246
+R 2256 2 9 Sing
+R 2260 2 7 ing 
+R 2264 4 7 e
+R 2272 4 0 lec
+R 2280 4 9 tro
+R 2288 4 2 nic 
+R 2296 4 7 chants 
+R 2312 4 6 like 
+- 2325
+R 2328 4 4 Zu
+R 2336 4 7 lu 
+R 2344 4 0 Na
+R 2352 4 4 tion 
+- 2366
+R 2392 4 2 Re
+R 2400 4 7 ve
+R 2408 4 9 la
+R 2416 4 7 tions 
+- 2430
+R 2448 4 6 De
+R 2456 4 4 stroy 
+R 2464 4 6 all 
+R 2472 4 2 na
+R 2480 4 6 tions 
+- 2494
+R 2512 4 2 De
+R 2520 4 6 stroy 
+R 2528 4 0 all 
+R 2536 4 6 na
+R 2544 4 11 tions 
+- 2558
+R 2576 4 7 Now 
+R 2584 2 9 re
+R 2588 4 6 ne
+R 2596 6 7 gades 
+R 2608 2 9 are 
+R 2612 2 4 the 
+R 2616 4 7 peo
+R 2624 4 2 ple 
+- 2637
+R 2640 2 7 With 
+R 2644 2 6 their 
+R 2648 4 7 own 
+R 2656 4 7 phi
+R 2664 4 11 lo
+R 2672 4 4 so
+R 2680 6 6 phies 
+- 2693
+R 2696 2 7 They 
+R 2700 4 7 change 
+R 2708 2 4 the 
+R 2712 6 7 course 
+R 2720 4 6 of 
+R 2728 4 9 his
+R 2736 2 6 to
+R 2740 4 4 ry 
+- 2756
+R 2760 2 6 Eve
+R 2764 2 7 ry
+R 2768 4 7 day 
+R 2776 2 7 peo
+R 2780 2 7 ple 
+R 2784 4 7 like 
+R 2792 4 9 you 
+R 2800 2 7 and 
+R 2804 4 9 me 
+- 2818
+R 2832 2 7 We’re 
+R 2836 2 7 the 
+R 2840 2 7 re
+R 2844 4 7 ne
+R 2852 6 9 gades, 
+R 2864 2 9 we’re 
+R 2868 2 4 the 
+R 2872 4 6 peo
+R 2880 6 2 ple 
+- 2893
+R 2896 2 7 With 
+R 2900 2 6 our 
+R 2904 4 7 own 
+R 2912 4 6 phi
+R 2920 4 9 lo
+R 2928 4 4 so
+R 2936 4 4 phies 
+- 2949
+R 2952 2 9 We 
+R 2956 4 9 change 
+R 2964 2 6 the 
+R 2968 4 9 course 
+R 2976 4 7 of 
+R 2984 4 7 his
+R 2992 2 4 to
+R 2996 4 4 ry 
+- 3012
+R 3016 2 6 Eve
+R 3020 2 7 ry
+R 3024 4 7 day 
+R 3032 2 7 peo
+R 3036 2 7 ple 
+R 3040 4 7 like 
+R 3048 4 7 you 
+R 3056 2 7 and 
+R 3060 4 9 me 
+- 3070
+R 3072 2 9 Come 
+R 3076 6 9 on 
+- 3148
+R 3216 2 4 We’re 
+R 3220 2 6 the 
+R 3224 4 7 re
+R 3232 4 7 ne
+R 3240 4 9 gades 
+R 3248 4 4 of 
+R 3256 6 11 funk 
+- 3272
+R 3280 2 6 We’re 
+R 3284 2 7 the 
+R 3288 4 9 re
+R 3296 4 7 ne
+R 3304 4 9 gades 
+R 3312 4 4 of 
+R 3320 6 0 funk 
+- 3392
+R 3472 2 7 We’re 
+R 3476 2 7 the 
+R 3480 4 9 re
+R 3488 4 7 ne
+R 3496 4 9 gades 
+R 3504 4 4 of 
+R 3510 8 0 funk 
+- 3528
+R 3536 2 9 We’re 
+R 3540 2 7 the 
+R 3544 4 9 re
+R 3552 4 7 ne
+R 3560 4 9 gades 
+R 3568 4 4 of 
+R 3574 6 2 funk 
+- 3590
+G 3600 4 2 With 
+G 3608 2 4 Pop
+G 3612 2 4 ping, 
+G 3616 2 4 sock
+G 3620 2 2 ing, 
+G 3624 2 4 rock
+G 3628 2 2 ing 
+G 3632 1 6 put
+G 3634 1 6 ting 
+G 3636 2 0 a 
+G 3640 3 4 side 
+G 3644 2 2 of 
+G 3648 2 2 hip-
+G 3656 3 7 hop 
+- 3662
+R 3664 4 4 Cause 
+R 3672 3 7 where 
+R 3680 4 4 we’re 
+R 3688 3 7 go
+R 3692 3 4 ing 
+R 3696 3 2 there 
+R 3704 3 7 ain’t 
+R 3712 3 2 no 
+R 3720 3 7 stop
+R 3728 2 0 ping 
+- 3734
+R 3736 2 7 Pop
+R 3740 2 4 ping, 
+R 3744 2 6 sock
+R 3748 2 4 ing, 
+R 3752 2 6 rock
+R 3756 2 4 ing 
+R 3760 1 2 put
+R 3762 1 6 ting 
+R 3764 2 2 a 
+R 3768 3 6 side 
+R 3772 2 2 of 
+R 3775 3 4 hip-
+R 3783 3 7 hop 
+- 3789
+R 3791 4 4 Cause 
+R 3800 3 7 where 
+R 3808 4 4 we’re 
+R 3816 3 7 go
+R 3820 3 4 ing 
+R 3824 3 4 there 
+R 3832 3 7 ain’t 
+R 3840 3 2 no 
+R 3848 3 9 stop
+R 3855 2 9 ping 
+- 3862
+R 3864 3 6 Pop
+R 3871 3 2 ping, 
+R 3875 3 9 and 
+R 3880 3 7 sock
+R 3888 3 2 ing, 
+R 3892 3 11 and 
+R 3896 3 7 rock
+R 3903 2 0 ing 
+R 3906 3 0 and 
+R 3912 3 7 put
+R 3918 1 11 ting 
+R 3920 2 11 a 
+R 3928 4 7 side 
+R 3936 3 6 of 
+G 3944 4 7 hip-
+G 3960 5 7 hop 
+- 3966
+R 3968 4 4 Cause 
+R 3976 5 7 we’re 
+- 3989
+R 3992 2 7 Pop
+R 3996 2 4 ping, 
+R 4000 2 6 sock
+R 4004 2 4 ing, 
+R 4008 2 6 rock
+R 4012 2 7 ing 
+R 4016 2 7 put
+R 4020 1 4 ting 
+R 4022 1 9 a 
+R 4024 3 7 side 
+R 4028 2 4 of 
+R 4031 3 4 hip-
+R 4039 3 9 hop 
+- 4052
+R 4056 2 7 Pop
+R 4060 2 4 ping, 
+R 4064 2 7 sock
+R 4068 2 6 ing, 
+R 4072 2 7 rock
+R 4076 2 4 ing 
+R 4080 2 7 put
+R 4084 1 4 ting 
+R 4086 1 0 a 
+R 4088 3 7 side 
+R 4092 2 4 of 
+R 4096 3 7 hip-
+R 4104 3 9 hop 
+- 4173
+R 4240 2 4 We’re 
+R 4244 2 6 the 
+R 4248 4 7 re
+R 4256 4 4 ne
+R 4264 4 11 gades 
+R 4272 4 2 of 
+R 4278 6 11 funk 
+- 4294
+R 4304 2 7 We’re 
+R 4308 2 6 the 
+R 4312 4 7 re
+R 4320 4 6 ne
+R 4328 4 9 gades 
+R 4336 4 2 of 
+R 4342 6 0 funk 
+- 4414
+R 4496 2 6 We’re 
+R 4500 2 7 the 
+R 4504 4 7 re
+R 4512 4 7 ne
+R 4520 4 6 gades 
+R 4528 4 4 of 
+R 4534 8 0 funk 
+- 4552
+R 4560 2 7 We’re 
+R 4564 2 7 the 
+R 4568 4 9 re
+R 4576 4 7 ne
+R 4584 4 4 gades 
+R 4592 3 4 of 
+R 4598 6 11 funk 
+- 4614
+R 4627 2 2 We’re 
+R 4631 2 7 tea
+R 4635 2 4 chers 
+R 4639 2 7 of 
+R 4644 2 2 the 
+R 4648 3 9 funk 
+R 4660 2 4 and 
+R 4664 2 7 not 
+R 4668 2 6 of 
+R 4672 2 4 emp
+R 4676 2 4 ty 
+R 4680 3 7 pop
+R 4686 2 9 ping 
+- 4694
+R 4696 2 7 Bles
+R 4700 2 7 sed 
+R 4704 2 7 with 
+R 4708 2 4 the 
+R 4712 2 9 force 
+R 4718 1 6 and 
+R 4720 2 4 the 
+R 4725 3 7 sight 
+R 4729 2 6 of 
+R 4733 2 4 e
+R 4737 2 6 lec
+R 4744 3 9 tro
+R 4750 3 4 nics 
+- 4754
+R 4756 2 2 The 
+R 4760 3 9 bass, 
+R 4776 2 2 the 
+R 4780 3 4 tre
+R 4784 3 4 ble, 
+R 4789 2 0 the 
+R 4794 4 9 horns, 
+R 4800 2 4 and 
+R 4804 2 4 our 
+R 4809 2 9 vo
+R 4816 2 2 cals 
+- 4819
+R 4821 2 4 ’Cause 
+R 4825 2 7 eve
+R 4829 2 6 ry 
+R 4833 2 7 time 
+R 4837 2 4 I 
+R 4841 2 7 pop 
+R 4845 2 6 in
+R 4849 2 7 to 
+R 4853 2 4 the 
+R 4857 2 7 beat, 
+R 4861 2 4 we 
+R 4865 2 7 get 
+R 4875 4 0 fresh 
+- 4912
+R 4992 3 9 Come 
+R 4998 4 4 on 
+- 5068
+R 5136 2 6 There 
+R 5144 2 7 was 
+R 5151 2 7 a 
+R 5157 2 7 time 
+R 5163 2 7 when 
+R 5168 2 7 our 
+R 5175 3 7 mu
+R 5184 3 7 sic 
+- 5196
+R 5199 3 7 Was 
+R 5208 2 9 some
+R 5212 2 7 thing 
+R 5216 2 7 called 
+R 5220 2 6 “The 
+R 5224 4 7 Bay 
+R 5233 4 7 Street” 
+R 5241 4 9 beat 
+- 5253
+R 5256 3 9 Peo
+R 5260 2 7 ple 
+R 5264 3 4 would 
+R 5272 3 9 ga
+R 5277 2 6 ther 
+R 5282 2 6 from 
+R 5287 2 7 all 
+R 5296 2 4 a
+R 5301 3 7 round 
+- 5314
+R 5325 2 7 To 
+R 5329 2 9 get 
+R 5337 2 9 down 
+R 5345 2 4 to 
+R 5349 2 0 the 
+R 5353 4 11 big 
+R 5369 4 9 sound 
+- 5375
+R 5377 3 7 You 
+R 5381 3 0 had 
+R 5387 3 6 to 
+R 5392 2 6 be 
+R 5396 2 4 a 
+R 5401 4 7 re
+R 5409 4 4 ne
+R 5417 4 6 gade 
+R 5423 2 7 in 
+R 5426 5 4 those 
+R 5436 6 7 days 
+- 5475
+R 5516 2 6 To 
+R 5520 2 7 take 
+R 5524 2 4 a 
+R 5528 4 7 man 
+R 5536 2 6 to 
+R 5540 2 4 the 
+R 5547 5 7 dance 
+R 5563 6 9 floor 
+- 5602
+G 5649 3 7 Say 
+G 5657 6 9 jam 
+G 5676 4 7 suck
+G 5681 4 7 er 
+- 5695
+G 5714 3 9 Say 
+G 5722 6 9 jam 
+G 5739 3 9 suck
+G 5744 3 6 er 
+- 5757
+G 5776 4 9 Say 
+G 5786 6 9 groove 
+G 5802 4 2 suck
+G 5808 3 7 er 
+- 5821
+G 5840 6 6 Now 
+G 5849 10 9 groove 
+G 5867 4 7 suck
+G 5873 4 6 er 
+- 5887
+R 5902 6 7 Now 
+R 5913 8 9 dance 
+R 5930 4 7 suck
+R 5936 4 6 er 
+- 5950
+R 5964 5 4 Now 
+R 5976 6 9 dance 
+R 5992 4 7 suck
+R 5998 4 4 er 
+- 6012
+R 6028 4 7 Now 
+R 6040 6 11 move 
+R 6056 4 9 suck
+R 6063 4 7 er 
+- 6077
+R 6094 4 7 Now 
+R 6105 6 11 move 
+R 6120 4 9 suck
+R 6126 3 7 er 
+- 6139
+R 6159 4 7 Say 
+R 6168 6 9 jam 
+R 6185 4 7 suck
+R 6190 3 6 er 
+- 6203
+R 6224 4 7 Say 
+R 6233 6 9 jam 
+R 6248 4 7 suck
+R 6255 3 6 er 
+- 6268
+R 6289 6 6 Say 
+R 6298 6 11 groove 
+R 6313 4 9 suck
+R 6320 3 7 er 
+- 6333
+R 6352 4 6 Now 
+R 6361 6 11 groove 
+R 6376 4 9 suck
+: 6383 3 7 er 
+- 6396
+R 6415 4 4 Now 
+R 6425 6 9 dance 
+R 6441 4 7 suck
+R 6447 3 4 er 
+- 6460
+R 6478 4 7 Now 
+R 6489 6 9 dance 
+R 6506 4 7 suck
+R 6511 3 4 er 
+- 6524
+R 6543 4 7 Now 
+R 6553 6 9 move 
+R 6570 4 9 suck
+R 6575 3 7 er 
+- 6588
+R 6607 4 7 Now 
+R 6616 6 9 move 
+R 6633 4 9 suck
+R 6640 3 7 er 
+- 6709
+G 6799 4 6 We’re 
+G 6805 3 4 the 
+G 6809 4 9 re
+G 6816 4 7 ne
+G 6824 4 9 gades 
+G 6832 4 4 of 
+G 6838 6 0 funk 
+- 6854
+R 6864 4 4 We’re 
+R 6870 3 6 the 
+R 6874 4 6 re
+R 6881 4 7 ne
+R 6889 4 7 gades 
+R 6897 4 4 of 
+R 6903 6 2 funk 
+- 6975
+R 7056 4 7 We’re 
+R 7062 3 7 the 
+R 7066 4 9 re
+R 7073 4 7 ne
+R 7081 4 9 gades 
+R 7089 4 4 of 
+R 7095 6 11 funk 
+- 7111
+R 7120 4 6 We’re 
+R 7126 3 9 the 
+R 7130 4 9 re
+R 7137 4 7 ne
+R 7145 4 9 gades 
+R 7153 4 4 of 
+R 7159 6 2 funk 
+- 7231
+R 7312 4 4 We’re 
+R 7318 3 7 the 
+R 7322 4 7 re
+R 7329 4 7 ne
+R 7337 4 7 gades 
+R 7345 4 4 of 
+R 7351 6 0 funk 
+- 7367
+R 7376 4 7 We’re 
+R 7382 3 7 the 
+R 7386 4 9 re
+R 7393 4 7 ne
+R 7401 4 9 gades 
+R 7409 4 4 of 
+R 7415 6 0 funk 
+E

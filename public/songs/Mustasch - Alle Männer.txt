@@ -1,0 +1,253 @@
+#ARTIST:Mustasch
+#TITLE:Alle Männer
+#MP3:Mustasch - Alle Männer.mp3
+#CREATOR:Ich,werdennsonst?
+#GENRE:Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:360.19
+#GAP:15160
+#VIDEO:v=oQEbKJbX80Q,co=https://i.scdn.co/image/ab67616d0000b27306759bb94f635b6feeb2ed41
+: 0 11 0 Andre
+: 12 8 0 as 
+: 22 7 0 Breh
+: 30 10 -3 me 
+- 42
+: 71 13 0 Jürgen 
+: 88 7 0 Koh
+: 96 10 -3 ler 
+- 108
+: 136 14 0 Thomas 
+: 152 7 2 Häß
+: 160 12 -1 ler 
+- 174
+: 201 11 0 Bodo 
+: 214 7 0 Ilg
+: 222 14 -3 ner 
+- 238
+: 264 13 2 Pierre 
+: 278 5 0 Litt
+: 284 8 2 bar
+: 293 17 -3 ski 
+- 312
+: 332 15 2 Rudi 
+: 348 11 2 Völ
+: 360 14 -3 ler 
+- 376
+: 390 13 2 Jürgen 
+: 404 11 2 Klins
+: 416 16 7 mann 
+- 434
+: 452 5 2 Und 
+: 458 7 5 Karl-
+: 466 10 0 Heinz 
+: 478 12 0 Rumme
+: 491 29 9 nigge 
+- 522
+: 584 15 9 Ninety 
+: 600 3 7 mi
+: 604 8 5 nutes, 
+: 614 3 3 then 
+: 618 6 10 Ger
+: 625 4 9 ma
+: 630 12 10 ny 
+- 644
+: 650 13 9 Always 
+: 664 7 9 win 
+: 672 7 9 the 
+: 680 10 9 penal
+: 691 19 7 ties 
+- 711
+: 712 9 9 They’re 
+: 722 5 0 im
+: 728 7 7 poss
+: 736 11 11 ible 
+: 748 6 9 to 
+: 755 17 9 beat 
+- 774
+: 776 13 9 Deutsch
+: 790 16 11 land 
+- 807
+: 808 11 9 Immer 
+: 822 6 9 vor
+: 829 7 9 wärts 
+- 838
+: 842 13 9 Ninety 
+: 856 3 7 mi
+: 860 8 5 nutes, 
+: 870 3 3 then 
+: 874 5 10 Ger
+: 880 5 9 ma
+: 886 12 10 ny 
+- 900
+: 908 11 9 Always 
+: 920 7 9 win 
+: 928 6 9 the 
+: 936 11 9 penal
+: 948 18 7 ties 
+- 967
+: 968 9 9 They’re 
+: 978 5 0 im
+: 984 7 7 poss
+: 992 11 11 ible 
+: 1004 7 9 to 
+: 1012 12 9 beat 
+- 1026
+: 1032 13 9 Deutsch
+: 1046 14 11 land 
+- 1062
+: 1064 12 9 Immer 
+: 1080 3 9 vor
+: 1084 10 9 wärts, 
+: 1098 10 9 alle 
+: 1112 12 9 Männer 
+- 1126
+: 1396 11 2 Paul 
+: 1408 28 2 Breitner 
+- 1438
+: 1452 12 2 Uwe 
+: 1466 22 0 Seeler 
+- 1490
+: 1516 9 2 Kai
+: 1526 11 0 ser 
+: 1538 20 -1 Franz 
+- 1560
+: 1580 17 2 Bundes
+: 1598 22 -1 berti 
+- 1622
+: 1640 13 0 Bastian 
+: 1654 13 2 Schwein
+: 1668 7 2 stei
+: 1676 16 0 ger 
+- 1694
+: 1704 13 2 Lothar 
+: 1718 5 0 Mat
+: 1724 5 7 thä
+: 1730 10 8 us 
+- 1742
+: 1770 11 9 Gerd 
+: 1782 9 12 Mül
+: 1792 14 9 ler 
+- 1808
+: 1828 7 0 Und 
+: 1836 6 2 Karl-
+: 1843 8 0 Heinz 
+: 1852 13 9 Rumme
+: 1866 58 10 nigge 
+- 1926
+: 1958 13 9 Ninety 
+: 1972 7 7 mi
+: 1980 7 5 nutes, 
+: 1988 5 3 then 
+: 1994 5 10 Ger
+: 2000 5 9 ma
+: 2006 18 10 ny 
+- 2025
+: 2026 13 9 Always 
+: 2040 7 9 win 
+: 2048 7 9 the 
+: 2056 9 9 penal
+: 2066 21 7 ties 
+- 2088
+: 2089 8 9 They’re 
+: 2098 5 0 im
+: 2104 7 7 poss
+: 2112 15 11 ible 
+: 2128 3 9 to 
+: 2132 16 9 beat 
+- 2150
+: 2154 9 9 Deutsch
+: 2164 18 11 land 
+- 2184
+: 2186 13 9 Immer 
+: 2200 3 9 vor
+: 2204 8 9 wärts 
+- 2214
+: 2218 13 9 Ninety 
+: 2232 3 7 mi
+: 2236 9 5 nutes, 
+: 2246 3 3 then 
+: 2250 7 10 Ger
+: 2258 3 9 ma
+: 2262 16 10 ny 
+- 2280
+: 2282 13 9 Always 
+: 2296 7 9 win 
+: 2304 7 9 the 
+: 2312 11 9 penal
+: 2324 20 7 ties 
+- 2345
+: 2346 7 9 They’re 
+: 2354 5 0 im
+: 2360 7 7 poss
+: 2368 11 11 ible 
+: 2380 7 9 to 
+: 2388 18 9 beat 
+- 2407
+: 2408 11 9 Deutsch
+: 2420 19 11 land 
+- 2440
+: 2440 14 9 Immer 
+: 2456 5 9 vor
+: 2462 10 9 wärts, 
+: 2474 12 9 alle 
+: 2488 16 9 Männer 
+- 2506
+: 3178 13 9 Ninety 
+: 3192 5 7 mi
+: 3198 5 5 nutes, 
+: 3204 5 3 then 
+: 3210 7 10 Ger
+: 3218 3 9 ma
+: 3222 18 10 ny 
+- 3242
+: 3244 13 9 Always 
+: 3258 7 9 win 
+: 3266 5 9 the 
+: 3272 11 9 penal
+: 3284 20 7 ties 
+- 3305
+: 3305 8 9 They’re 
+: 3314 7 0 im
+: 3322 7 7 poss
+: 3330 9 11 ible 
+: 3340 8 9 to 
+: 3350 14 9 beat 
+- 3366
+: 3370 11 9 Deutsch
+: 3382 17 11 land 
+- 3400
+: 3400 12 9 Immer 
+: 3416 5 9 vor
+: 3422 8 9 wärts 
+- 3431
+: 3432 15 9 Ninety 
+: 3448 5 7 mi
+: 3454 7 5 nutes, 
+: 3462 5 3 then 
+: 3468 7 10 Ger
+: 3476 5 9 ma
+: 3482 14 10 ny 
+- 3498
+: 3500 13 9 Always 
+: 3514 7 9 win 
+: 3522 7 9 the 
+: 3530 9 9 penal
+: 3540 20 7 ties 
+- 3561
+: 3561 10 9 They’re 
+: 3572 5 0 im
+: 3578 7 7 poss
+: 3586 9 11 ible 
+: 3596 9 9 to 
+: 3606 14 9 beat 
+- 3622
+: 3624 13 9 Deutsch
+: 3638 16 11 land 
+- 3655
+: 3656 14 9 Immer 
+: 3674 3 9 vor
+: 3678 10 9 wärts, 
+: 3690 12 9 alle 
+: 3705 19 9 Männer 
+E

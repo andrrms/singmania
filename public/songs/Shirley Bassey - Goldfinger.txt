@@ -1,0 +1,207 @@
+#ARTIST:Shirley Bassey
+#TITLE:Goldfinger
+#MP3:Shirley Bassey - Goldfinger.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Soundtrack
+#YEAR:1964
+#LANGUAGE:English
+#BPM:229
+#GAP:20600
+#VIDEO:v=6D1nK7q2i8I,co=goldfinger-51b51c39e4ed5.jpg,bg=bassey-shirley-51b19df913897.jpg,preview=75.76,medley=1146-1826
+: 0 8 -1 Gold
+: 14 3 6 fin
+: 20 8 4 ger 
+- 30
+: 81 3 6 He’s 
+: 86 2 3 the 
+: 89 7 4 man, 
+- 98
+: 104 2 -1 The 
+: 107 8 1 man 
+: 116 2 1 with 
+: 119 2 1 the 
+: 123 8 9 Mi
+: 134 2 8 das 
+: 140 4 7 touch 
+- 146
+: 189 3 7 A 
+: 199 6 7 spi
+: 207 4 3 der’s 
+: 216 3 6 touch 
+- 221
+: 270 4 2 Such 
+: 283 3 -1 a 
+: 289 9 -1 cold 
+: 304 3 6 fin
+: 310 4 4 ger 
+- 316
+: 370 2 6 Be
+: 374 2 2 ckons 
+: 378 5 4 you 
+- 385
+: 394 2 -1 To 
+: 398 2 1 en
+: 403 3 1 ter 
+: 409 3 1 his 
+: 415 4 9 web 
+: 422 4 8 of 
+: 431 5 7 sin 
+- 438
+: 478 3 7 But 
+: 486 4 7 don’t 
+: 495 6 7 go 
+: 504 20 8 in 
+- 526
+: 567 3 10 Gol
+: 572 3 8 den 
+: 577 4 6 words 
+: 583 3 6 he 
+: 588 2 3 will 
+: 593 4 6 pour 
+: 599 3 6 in 
+: 605 4 8 your 
+: 611 9 10 ear 
+- 622
+: 638 2 10 But 
+: 641 2 8 his 
+: 644 6 6 lies 
+: 653 4 6 can’t 
+: 658 2 3 dis
+: 664 4 6 guise 
+: 671 2 6 what 
+: 676 2 10 you 
+* 681 13 13 fear 
+- 696
+: 708 3 13 For 
+: 712 2 11 a 
+: 716 6 10 gol
+: 725 2 10 den 
+: 730 7 10 girl 
+- 739
+: 751 4 11 Knows 
+: 758 3 11 when 
+* 762 3 13 he’s 
+: 769 3 11 kissed 
+: 775 4 6 her 
+- 781
+: 795 3 6 It’s 
+: 803 2 6 the 
+: 807 3 5 kiss 
+: 817 5 3 of 
+: 827 3 9 death 
+- 832
+: 843 3 6 From 
+: 848 3 3 Mis
+: 858 5 0 ter 
+: 867 10 -1 Gold
+: 882 3 6 fin
+: 889 6 4 ger 
+- 897
+: 948 1 6 Pret
+: 950 2 3 ty 
+: 954 4 4 girl, 
+- 960
+: 972 2 -1 Be
+: 976 4 1 ware 
+: 982 3 1 of 
+: 987 3 1 his 
+* 993 6 9 heart 
+: 1002 3 8 of 
+: 1007 22 7 gold 
+- 1031
+: 1055 2 7 This 
+: 1065 5 7 heart 
+: 1074 3 7 is 
+: 1083 30 8 cold 
+- 1115
+: 1146 3 10 Gol
+: 1150 3 8 den 
+: 1155 4 6 words 
+: 1162 2 6 he 
+: 1166 3 3 will 
+: 1171 4 6 pour 
+: 1177 3 6 in 
+: 1183 2 8 your 
+: 1189 10 10 ear 
+- 1201
+: 1215 2 10 But 
+: 1218 2 8 his 
+: 1222 5 6 lies 
+: 1230 4 6 can’t 
+: 1237 2 3 dis
+: 1242 4 6 guise 
+: 1248 2 6 what 
+: 1253 2 10 you 
+: 1258 11 13 fear 
+- 1271
+: 1285 2 13 For 
+: 1289 2 11 a 
+: 1293 7 10 gol
+: 1302 2 10 den 
+: 1307 9 10 girl 
+- 1318
+: 1328 4 10 Knows 
+: 1335 3 11 when 
+: 1340 3 13 he’s 
+: 1346 2 11 kissed 
+: 1351 4 6 her 
+- 1357
+: 1372 3 6 It’s 
+: 1379 2 6 the 
+: 1384 3 5 kiss 
+: 1394 5 3 of 
+: 1404 3 9 death 
+- 1409
+: 1421 3 6 From 
+: 1425 3 3 Mis
+: 1434 5 0 ter 
+: 1443 11 -1 Gold
+: 1459 3 6 fin
+: 1464 6 4 ger 
+- 1472
+: 1521 1 6 Pret
+: 1523 2 3 ty 
+: 1528 4 4 girl, 
+- 1534
+: 1545 2 -1 Be
+: 1550 4 1 ware 
+: 1557 2 1 of 
+: 1562 2 1 his 
+: 1567 6 9 heart 
+: 1576 2 8 of 
+: 1581 32 7 gold 
+- 1615
+: 1628 3 7 This 
+: 1637 6 7 heart 
+: 1647 3 7 is 
+: 1655 33 8 cold 
+- 1690
+: 1701 3 8 He 
+: 1706 3 11 loves 
+: 1712 2 10 on
+: 1718 2 6 ly 
+* 1723 31 8 gold 
+- 1756
+: 1773 5 10 On
+: 1784 3 6 ly 
+* 1789 37 8 gold 
+- 1828
+: 1839 5 10 He 
+: 1847 4 11 loves 
+: 1856 32 8 gold 
+- 1890
+: 1901 2 8 He 
+: 1905 3 11 loves 
+: 1911 2 10 on
+: 1917 2 6 ly 
+: 1921 33 8 gold 
+- 1956
+: 1971 6 10 On
+: 1983 3 6 ly 
+: 1988 36 8 gold 
+- 2026
+: 2037 5 10 He 
+: 2045 4 11 loves 
+* 2055 94 15 gold 
+E

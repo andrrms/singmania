@@ -1,0 +1,282 @@
+#ARTIST:Avenue Q
+#TITLE:My Girlfriend, Who Lives In Canada
+#MP3:Avenue Q - My Girlfriend, Who Lives In Canada.mp3
+#CREATOR:Danmcfoo
+#GENRE:Musical
+#YEAR:2003
+#LANGUAGE:English
+#BPM:664
+#GAP:1060
+#VIDEO:a=tLlLaJlk56k,co=avenue-q-the-musical-537cae0598e16.jpg,bg=https://images.wallpapersden.com/image/download/avenue-q-band-toys_amplameUmZqaraWkpJRmbmdlrWZlbWVnZWZuaWZl.jpg
+#END:74000
+: 0 36 4 Oh
+: 37 30 2 ~, 
+: 72 38 1 I 
+- 117
+: 120 7 0 Wish 
+: 129 6 2 you 
+: 137 6 0 could 
+: 145 8 0 meet 
+: 161 7 0 my 
+: 170 8 0 girl
+: 179 12 9 friend 
+- 201
+: 208 7 4 My 
+: 218 4 5 girl
+: 223 8 7 friend 
+: 234 6 5 who 
+: 242 14 4 lives 
+: 258 4 2 in 
+: 267 8 2 Ca
+: 276 5 0 na
+: 282 13 0 da 
+- 303
+: 306 7 0 She 
+: 315 7 2 could
+: 323 6 -1 n’t 
+: 331 4 0 be 
+: 339 7 2 sweet
+: 347 7 -1 er, 
+- 355
+: 357 3 0 I 
+: 362 6 2 wish 
+: 369 6 -1 you 
+: 378 6 0 could 
+: 386 7 2 meet 
+: 395 5 -1 her, 
+- 401
+: 403 5 0 My 
+: 410 7 10 girl
+: 418 6 9 friend 
+: 426 5 7 who 
+: 433 13 5 lives 
+: 448 4 4 in 
+: 454 8 7 Ca
+: 463 5 5 na
+: 469 24 5 da! 
+- 503
+: 545 8 3 Her 
+: 555 7 2 name 
+: 563 5 5 is 
+: 570 7 5 Al
+: 578 9 7 ber
+: 588 6 5 ta, 
+- 595
+: 597 6 5 She 
+: 605 7 7 lives 
+: 614 5 5 in 
+: 621 6 2 Van
+: 628 8 2 cou
+: 637 5 0 ver 
+- 642
+: 643 9 5 She 
+: 654 7 2 cooks 
+: 663 6 5 like 
+: 671 5 5 my 
+: 678 7 7 mo
+: 686 6 5 ther, 
+- 692
+: 694 5 5 And 
+: 701 8 7 sucks 
+: 711 6 5 like 
+: 719 4 2 a 
+: 725 10 2 Hoo
+: 736 7 0 ver 
+- 753
+: 794 6 5 I 
+: 802 5 2 e
+: 808 7 5 mail 
+: 818 5 5 her 
+: 825 3 7 ev’
+: 829 4 5 ry 
+: 835 5 4 sin
+: 841 6 5 gle 
+: 849 23 0 day, 
+- 880
+: 883 7 5 Just 
+: 892 7 4 to 
+: 901 4 2 make 
+: 906 8 5 sure 
+: 915 7 5 that 
+: 924 3 7 ev’
+: 928 3 5 ry
+: 932 8 4 thing’s 
+: 941 5 5 o
+: 947 24 12 kay 
+- 980
+: 983 6 5 It’s 
+: 990 5 4 a 
+: 997 9 2 pi
+: 1007 4 5 ty 
+: 1013 5 5 she 
+: 1019 7 7 lives 
+: 1027 3 5 so 
+: 1031 9 4 far 
+: 1042 4 5 a
+: 1047 26 14 way, 
+- 1083
+: 1087 5 4 In 
+: 1097 7 7 Ca
+: 1105 5 5 na
+: 1111 38 5 da 
+- 1159
+: 1198 71 13 Last 
+: 1273 6 13 week 
+: 1281 6 11 she 
+: 1289 6 13 was 
+: 1297 6 14 here 
+: 1305 6 14 but 
+: 1313 6 9 she 
+: 1320 11 5 had 
+: 1333 6 9 the 
+: 1342 26 2 flu 
+- 1378
+: 1387 10 12 Too 
+: 1399 40 11 bad, 
+- 1448
+: 1452 8 11 ’Cause 
+: 1462 5 11 I 
+: 1469 7 11 wan
+: 1477 9 9 ted 
+: 1488 4 11 to 
+: 1496 10 12 in
+: 1509 8 7 tro
+: 1518 8 4 duce 
+: 1528 4 4 her 
+: 1533 6 7 to 
+: 1541 24 0 you 
+- 1571
+: 1574 9 11 It’s 
+: 1585 7 10 so 
+: 1594 54 9 sad, 
+- 1657
+: 1661 9 9 There 
+: 1672 7 9 was
+: 1680 5 8 n’t 
+: 1686 6 9 a 
+: 1694 13 9 thing 
+: 1709 6 9 that 
+: 1717 9 11 she 
+: 1732 7 13 could 
+: 1741 10 14 do 
+- 1755
+: 1757 5 9 But 
+: 1763 14 5 stay 
+: 1779 7 9 in 
+: 1787 7 7 bed
+: 1795 4 9 ~
+: 1800 59 7 ~ 
+- 1869
+: 1873 7 7 With 
+: 1882 6 7 her 
+: 1890 10 12 legs 
+: 1904 6 12 up 
+: 1912 8 14 o
+: 1921 6 12 ver 
+: 1929 5 14 her 
+: 1936 19 16 head 
+- 1958
+: 1960 15 17 Oh! 
+- 1977
+: 1979 3 2 I 
+: 1986 8 0 wish 
+: 1995 5 2 you 
+: 2001 7 0 could 
+: 2010 9 0 meet 
+: 2023 5 0 my 
+: 2030 5 0 girl
+: 2036 13 9 friend 
+- 2060
+: 2064 5 2 But 
+: 2071 4 4 you 
+: 2077 7 5 can’t 
+: 2087 4 7 be
+: 2092 7 5 cause 
+: 2101 7 4 she 
+: 2110 3 4 is 
+: 2115 4 2 in 
+: 2123 7 2 Ca
+: 2131 4 0 na
+: 2136 19 0 da 
+- 2161
+: 2163 5 0 I 
+: 2171 6 2 love 
+: 2179 6 -1 her, 
+: 2187 4 0 I 
+: 2193 7 2 miss 
+: 2202 6 -1 her, 
+- 2208
+: 2209 7 0 I 
+: 2217 8 2 can’t 
+: 2226 6 -1 wait 
+: 2234 4 0 to 
+: 2240 10 2 kiss 
+: 2251 3 -1 her, 
+- 2254
+: 2255 6 0 So 
+: 2263 9 10 soon 
+: 2274 5 9 I’ll 
+: 2281 4 7 be 
+: 2287 9 7 off 
+: 2298 4 5 to 
+: 2304 7 4 Al
+: 2312 8 4 ber
+: 2321 20 16 ta! 
+- 2351
+: 2407 8 5 ...I 
+: 2417 5 5 mean 
+: 2424 6 5 Van
+: 2431 10 4 cou
+: 2442 18 16 ver! 
+- 2468
+F 2471 10 4 Shit, 
+F 2483 4 4 her 
+F 2489 7 4 name 
+F 2498 5 4 is 
+F 2505 5 4 Al
+F 2511 6 4 ber
+F 2518 4 4 ta, 
+F 2524 9 4 she 
+F 2535 6 4 lives 
+F 2543 5 4 in 
+F 2550 4 4 Van
+F 2555 5 4 cou- 
+- 2560
+: 2561 11 16 She’s 
+: 2574 5 14 my 
+: 2581 12 17 girl
+: 2594 38 14 friend! 
+- 2640
+: 2643 7 14 My 
+: 2653 7 14 won
+: 2661 5 16 der
+: 2667 9 14 ful 
+: 2679 15 17 girl
+: 2695 30 13 friend! 
+- 2737
+: 2741 11 14 Yes, 
+: 2754 7 14 I 
+: 2762 5 15 have 
+: 2770 6 14 a 
+: 2778 14 17 girl
+: 2793 15 12 friend 
+- 2814
+: 2817 8 17 Who 
+: 2826 24 17 lives 
+: 2851 20 17 in 
+: 2874 9 19 Ca
+: 2884 6 17 na
+: 2891 78 17 da! 
+- 2979
+F 2989 6 4 And 
+F 2997 6 4 I 
+F 3005 8 4 can’t 
+F 3019 6 4 wait 
+F 3028 4 4 to 
+F 3034 5 4 eat 
+F 3041 6 4 her 
+F 3049 7 4 pus
+F 3057 5 4 sy 
+F 3064 4 4 a
+F 3069 18 4 gain! 
+E

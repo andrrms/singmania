@@ -1,0 +1,157 @@
+#ARTIST:Les Misérables (Original Broadway Cast)
+#TITLE:Castle On A Cloud
+#MP3:Les Misérables (Original Broadway Cast) - Castle On A Cloud.mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:1987
+#LANGUAGE:English
+#BPM:240
+#GAP:10940
+#VIDEO:a=e-fmpY3lUhc,co=https://www.bestoftheatre.co.uk/assets/images/content/shows/square-poster/original/les-miserables-10.jpg
+: 0 6 9 There 
+: 9 2 11 is 
+: 12 2 12 a 
+: 16 6 11 cas
+: 27 4 9 tle 
+: 35 5 9 on 
+: 43 5 8 a 
+: 52 14 9 cloud 
+- 76
+: 84 6 9 I 
+: 93 3 11 like 
+: 98 2 12 to 
+: 102 4 11 go 
+: 109 6 9 there 
+: 118 6 7 in 
+: 127 5 5 my 
+: 138 12 4 sleep 
+- 160
+: 170 7 2 Aren’t 
+: 179 3 4 a
+: 183 2 5 ny 
+: 187 5 4 floors 
+: 197 5 9 for 
+: 205 5 11 me 
+: 214 3 12 to 
+: 224 16 9 sweep 
+- 250
+: 254 8 2 Not 
+: 266 2 4 in 
+: 269 3 5 my 
+: 275 5 4 cas
+: 283 7 2 tle 
+: 293 5 0 on 
+: 301 4 -1 a 
+: 309 17 -3 cloud 
+- 338
+: 342 8 9 There 
+: 353 3 11 is 
+: 357 3 12 a 
+: 363 4 11 room 
+: 369 7 9 that’s 
+: 381 4 9 full 
+: 387 5 8 of 
+: 397 17 9 toys 
+- 426
+: 430 8 9 There 
+: 439 3 11 are 
+: 443 3 12 a 
+: 449 6 11 hun
+: 458 5 9 dred 
+: 467 4 7 boys 
+: 475 7 5 and 
+: 485 14 4 girls 
+- 509
+: 516 10 2 No
+: 527 3 4 bo
+: 531 2 5 dy 
+: 535 7 4 shouts 
+: 545 5 9 or 
+: 552 6 11 talks 
+* 562 3 12 too 
+: 572 16 9 loud 
+- 598
+: 605 6 2 Not 
+: 614 2 4 in 
+: 617 3 5 my 
+: 623 5 4 cas
+: 632 6 2 tle 
+: 640 5 0 on 
+: 648 5 -1 a 
+: 656 10 -3 cloud 
+- 676
+: 693 7 5 There 
+: 702 3 4 is 
+: 706 3 2 a 
+: 711 10 0 la
+: 724 2 2 dy 
+: 729 8 4 all 
+: 740 3 5 in 
+: 746 9 4 white 
+- 762
+: 765 5 9 Holds 
+: 772 4 7 me 
+: 777 3 5 and 
+: 784 7 4 sings 
+: 794 3 5 a 
+: 799 10 7 lu
+: 810 4 9 lla
+: 817 6 7 by 
+- 828
+: 830 2 7 She’s 
+: 835 8 10 nice 
+: 846 2 9 to 
+: 853 4 7 see 
+: 860 3 5 and 
+: 865 2 7 she’s 
+: 872 6 9 soft 
+: 883 2 5 to 
+* 888 4 0 touch 
+- 898
+: 901 3 2 She 
+: 908 7 4 says 
+: 923 2 5 “Co
+: 927 4 4 sette, 
+: 944 3 5 I 
+: 948 5 4 love 
+: 956 3 5 you 
+: 961 5 4 ve
+: 968 5 5 ry 
+: 977 10 4 much” 
+- 997
+: 1012 7 9 I 
+: 1022 4 11 know 
+: 1027 3 12 a 
+: 1032 6 11 place 
+: 1042 6 9 where 
+: 1050 7 9 no 
+: 1059 5 8 one’s 
+: 1069 14 9 lost 
+- 1093
+: 1102 7 9 I 
+: 1111 3 11 know 
+: 1115 3 12 a 
+: 1119 3 11 place 
+: 1128 6 9 where 
+: 1136 6 7 no 
+: 1146 5 5 one 
+: 1158 15 4 cries 
+- 1184
+: 1188 7 2 Cry
+: 1197 3 4 ing 
+: 1201 4 5 at 
+: 1206 6 4 all 
+: 1216 5 9 is 
+: 1223 8 11 not 
+* 1233 6 12 a
+: 1242 16 9 llowed 
+- 1268
+: 1277 8 2 Not 
+: 1287 3 4 in 
+: 1291 3 5 my 
+: 1297 5 4 cas
+: 1307 7 2 tle 
+: 1317 9 0 on 
+: 1329 11 -1 a 
+* 1348 26 -3 cloud 
+E

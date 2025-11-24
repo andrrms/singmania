@@ -1,0 +1,276 @@
+#ARTIST:Combichrist
+#TITLE:My Life My Rules
+#MP3:Combichrist - My Life My Rules.mp3
+#CREATOR:gunultra
+#GENRE:Industrial
+#YEAR:2016
+#LANGUAGE:English
+#BPM:270
+#GAP:53010
+#VIDEO:v=0tEUP7vDMbo,co=this-is-where-death-begins-5c7fde76e40ff.jpg,bg=combichrist-504817ce8955d.jpg
+#START:10.0
+: 0 3 2 Now 
+: 4 2 4 you 
+: 8 4 2 know 
+: 14 4 6 it’s 
+: 20 7 2 chang
+: 28 8 2 ing 
+- 38
+: 62 1 5 And 
+: 64 2 2 now 
+: 68 2 4 you’re 
+: 72 1 7 run
+: 74 4 5 ning 
+: 80 3 7 a
+: 84 8 6 way 
+- 94
+: 110 2 5 We 
+: 114 2 5 got 
+: 118 2 6 the 
+: 122 12 6 hate, 
+: 140 2 5 we 
+: 144 2 5 got 
+: 148 2 6 the 
+: 152 12 6 soul 
+- 166
+: 174 2 5 I 
+: 178 1 5 got 
+: 180 2 6 it, 
+: 184 4 6 fuck 
+: 190 2 6 it, 
+: 194 2 5 let’s 
+: 198 2 6 just 
+: 202 4 7 throw 
+: 208 2 6 it 
+: 212 1 6 a
+: 214 6 7 way 
+- 222
+: 236 2 5 I 
+: 240 4 5 got 
+: 246 8 6 six 
+: 256 6 6 rounds, 
+: 264 4 6 save 
+: 270 4 6 one 
+: 276 2 6 to 
+: 280 4 6 put 
+: 286 2 6 in 
+: 290 2 6 my 
+: 294 8 6 head 
+- 304
+: 318 2 5 We’re 
+: 322 4 6 not 
+: 328 3 6 go
+: 332 6 7 ing 
+: 340 12 5 home 
+- 354
+: 366 2 5 You 
+: 370 4 2 know 
+: 376 2 6 we 
+: 380 4 5 never 
+: 386 2 6 get 
+: 390 1 6 e
+: 392 6 5 nough 
+: 400 2 6 in 
+: 404 4 6 this 
+: 410 6 7 city 
+: 418 2 5 of 
+: 422 1 6 d
+: 424 10 5 ust 
+- 436
+: 446 2 5 We’re 
+: 450 4 5 gonna 
+: 456 8 6 play 
+: 466 1 6 a
+: 468 12 9 gain 
+- 482
+: 492 2 5 I 
+: 496 6 7 said 
+: 506 16 6 hey, 
+: 528 8 7 it’s 
+: 538 6 5 my 
+: 546 18 7 life, 
+: 574 8 5 my 
+: 584 6 7 life 
+: 592 8 5 my 
+: 602 12 7 rules 
+- 616
+: 642 4 7 Ain’t 
+: 648 6 5 nothing 
+: 656 2 6 can 
+: 660 8 7 change 
+: 670 6 5 that, 
+: 680 6 5 don’t 
+: 688 4 6 you 
+: 694 8 6 know 
+- 704
+: 738 6 5 My 
+: 746 6 7 life 
+: 754 4 5 my 
+: 760 16 7 rules 
+- 778
+: 1280 2 5 I’m 
+: 1284 2 6 so 
+: 1288 4 6 sick 
+: 1294 4 7 and 
+: 1300 10 7 tired 
+: 1312 2 7 of 
+: 1316 10 7 waiting 
+: 1328 2 6 for 
+: 1332 10 7 you 
+- 1343
+: 1344 4 5 There 
+: 1350 2 6 is 
+: 1354 1 6 no
+: 1356 6 7 thing 
+: 1364 6 6 left 
+: 1372 6 7 to 
+: 1380 8 6 do 
+- 1390
+: 1404 3 5 You’ve 
+: 1408 3 6 been 
+: 1412 3 5 too 
+: 1416 14 7 proud, 
+: 1436 3 5 you’ve 
+: 1440 3 6 been 
+: 1444 1 5 a 
+: 1446 16 7 fool 
+- 1464
+: 1466 4 5 God 
+: 1472 2 5 damn, 
+: 1476 2 5 you’re 
+: 1480 4 6 so 
+: 1486 1 6 o
+: 1488 5 6 ver
+: 1494 5 7 ra
+: 1500 8 6 ted 
+- 1510
+: 1522 7 6 In
+: 1530 12 7 sane 
+: 1552 5 6 a
+: 1558 16 7 ssaults 
+- 1576
+: 1586 4 6 I 
+: 1592 6 6 sold 
+: 1600 4 6 my 
+: 1606 8 6 soul 
+: 1616 4 6 for 
+: 1622 2 6 a 
+: 1626 3 4 hole 
+: 1630 1 6 in 
+: 1632 3 6 the 
+: 1636 10 6 wall 
+- 1648
+: 1660 4 6 We’re 
+: 1666 4 5 never 
+: 1672 3 6 read
+: 1676 8 8 y, 
+: 1692 4 9 I 
+: 1698 1 6 had 
+: 1700 1 6 to 
+: 1702 5 6 quit 
+: 1708 10 8 it 
+- 1720
+: 1724 4 5 We’re 
+: 1730 4 5 only 
+: 1736 3 6 burn
+: 1740 4 6 ing 
+: 1746 1 6 a
+: 1748 14 8 way 
+- 1764
+: 1772 2 5 I 
+: 1776 6 7 said 
+: 1786 16 6 hey, 
+: 1808 8 7 it’s 
+: 1818 6 5 my 
+: 1826 18 7 life, 
+: 1854 8 5 my 
+: 1864 6 7 life 
+: 1872 8 5 my 
+: 1882 12 7 rules 
+- 1896
+: 1922 4 7 Ain’t 
+: 1928 6 5 nothing 
+: 1936 2 6 can 
+: 1940 8 7 change 
+: 1950 6 5 that, 
+: 1960 6 5 don’t 
+: 1968 4 6 you 
+: 1974 8 6 know 
+- 1984
+: 2028 2 5 I 
+: 2032 6 7 said 
+: 2042 16 6 hey, 
+: 2064 8 7 it’s 
+: 2074 6 5 my 
+: 2082 18 7 life, 
+: 2110 8 5 my 
+: 2120 6 7 life 
+: 2128 8 5 my 
+: 2138 12 7 rules 
+- 2152
+: 2178 4 7 Ain’t 
+: 2184 6 5 nothing 
+: 2192 2 6 can 
+: 2196 8 7 change 
+: 2206 6 5 that, 
+: 2216 6 5 don’t 
+: 2224 4 6 you 
+: 2230 8 6 know 
+- 2240
+: 2272 6 5 My 
+: 2280 6 7 life 
+: 2288 4 5 my 
+: 2294 16 7 rules 
+- 2312
+F 2692 2 4 Ain’t 
+F 2696 1 4 no
+F 2698 4 6 thing 
+F 2704 2 6 can 
+F 2708 4 6 change 
+F 2714 12 6 that 
+- 2728
+: 3308 2 5 I 
+: 3312 6 7 said 
+: 3322 16 6 hey, 
+: 3344 8 7 it’s 
+: 3354 6 5 my 
+: 3362 18 7 life, 
+: 3390 8 5 my 
+: 3400 6 7 life 
+: 3408 8 5 my 
+: 3418 12 7 rules 
+- 3432
+: 3458 4 7 Ain’t 
+: 3464 6 5 nothing 
+: 3472 2 6 can 
+: 3476 8 7 change 
+: 3486 6 5 that, 
+: 3496 6 5 don’t 
+: 3504 4 6 you 
+: 3510 8 6 know 
+- 3520
+: 3564 2 5 I 
+: 3568 6 7 said 
+: 3578 16 6 hey, 
+: 3600 8 7 it’s 
+: 3610 6 5 my 
+: 3618 18 7 life, 
+: 3646 8 5 my 
+: 3656 6 7 life 
+: 3664 8 5 my 
+: 3674 12 7 rules 
+- 3688
+: 3714 4 7 Ain’t 
+: 3720 6 5 nothing 
+: 3728 2 6 can 
+: 3732 8 7 change 
+: 3742 6 5 that, 
+: 3752 6 5 don’t 
+: 3760 4 6 you 
+: 3766 8 6 know 
+- 3776
+: 3808 6 5 My 
+: 3816 6 7 life 
+: 3824 4 5 my 
+: 3830 16 7 rules 
+E

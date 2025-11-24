@@ -1,0 +1,250 @@
+#ARTIST:Greg Lake
+#TITLE:I Believe In Father Christmas
+#MP3:Greg Lake - I Believe In Father Christmas.mp3
+#CREATOR:znxineohp
+#COVER:Greg Lake - I Believe In Father Christmas [CO].jpg
+#BACKGROUND:Greg Lake - I Believe In Father Christmas [BG].jpg
+#GENRE:Christmas
+#YEAR:1977
+#LANGUAGE:English
+#BPM:381.18
+#GAP:21730
+#VIDEO:v=yfY4b1NszpY,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/58/56/18585666-8fd5-ab1f-a4b8-2a1deaaa3736/4050538184914.jpg/5000x5000bb.jpg,tags=Christmas
+: 0 6 23 They 
+: 9 6 21 said 
+: 21 10 18 there’ll 
+: 34 6 16 be 
+: 41 11 14 snow 
+: 53 6 16 at 
+* 61 9 14 Christ
+: 71 10 18 mas 
+- 91
+: 106 7 23 They 
+: 115 9 21 said 
+: 128 9 18 there’ll 
+: 140 5 16 be 
+: 148 8 14 peace 
+: 159 6 16 on 
+: 167 11 14 earth, 
+- 188
+: 210 5 23 But 
+: 216 5 21 in
+: 222 11 18 stead 
+: 236 6 16 it 
+: 244 6 14 just 
+: 251 7 16 kept 
+: 259 6 14 on 
+: 270 10 16 rain
+: 281 10 18 ing, 
+- 301
+: 311 3 23 A 
+: 315 7 21 veil 
+: 323 6 18 of 
+: 330 10 16 tears 
+: 344 5 14 for 
+: 351 5 16 the 
+: 357 5 14 Virg
+: 363 8 14 in 
+: 376 10 14 birth 
+- 396
+: 420 8 24 I 
+: 430 5 24 re
+: 436 7 23 mem
+: 444 8 21 ber 
+: 453 6 19 one 
+: 463 10 21 Christ
+: 474 7 21 mas 
+: 483 10 19 morn
+: 494 8 21 ing, 
+- 508
+: 510 4 24 The 
+: 515 6 24 Win
+: 522 9 23 ter’s 
+: 532 11 19 light 
+: 546 9 21 and 
+: 557 7 21 a 
+: 565 6 19 dis
+: 572 8 21 tant 
+: 585 10 21 choir, 
+- 605
+: 615 1 21 And 
+: 617 1 21 the 
+: 619 11 21 peal 
+: 632 5 21 of 
+: 638 4 25 a 
+: 643 10 21 bell, 
+: 656 5 23 and 
+: 662 7 23 that 
+: 670 9 21 Christ
+: 680 8 19 mas 
+: 689 9 21 tree 
+: 699 13 21 smell, 
+- 718
+: 721 4 16 And 
+: 726 13 18 eyes 
+: 741 5 18 full 
+: 747 4 18 of 
+: 752 5 16 tin
+: 758 6 14 sel 
+: 765 5 11 and 
+: 771 5 14 fi
+: 777 17 14 re 
+- 804
+F 815 1 12  
+- 866
+: 1344 6 23 They 
+: 1352 12 21 sold 
+: 1366 10 18 me 
+: 1379 6 16 a 
+: 1386 9 16 dream 
+: 1398 5 14 of 
+: 1405 10 16 Christ
+: 1416 10 18 mas, 
+- 1436
+: 1451 9 23 They 
+: 1461 8 21 sold 
+: 1472 8 18 me 
+: 1484 4 16 a 
+: 1491 9 14 Sil
+: 1501 8 16 ent 
+: 1512 10 14 Night 
+- 1532
+: 1555 6 23 They 
+: 1565 7 21 told 
+: 1581 8 18 me 
+: 1591 5 16 a 
+: 1598 11 14 fai
+: 1610 6 14 ry 
+: 1618 9 16 sto
+: 1628 6 18 ry, 
+- 1644
+: 1656 5 23 Till 
+: 1662 5 21 I 
+: 1668 3 18 be
+: 1672 14 16 lieved 
+: 1690 6 14 in 
+: 1697 6 16 the 
+: 1705 4 14 Is
+: 1710 13 14 rae
+: 1724 7 14 lite 
+- 1741
+: 1763 3 24 And 
+: 1767 7 24 I 
+: 1775 2 23 be
+: 1778 11 21 lieved 
+: 1792 4 19 in 
+: 1798 5 21 their 
+: 1804 16 21 Fa
+: 1821 8 19 ther 
+: 1830 9 19 Christ
+: 1840 8 21 mas, 
+- 1851
+: 1853 3 21 And 
+: 1857 5 21 I 
+: 1863 7 24 looked 
+: 1871 5 24 to 
+: 1877 5 24 the 
+: 1883 12 23 sky 
+: 1897 4 19 with 
+: 1902 8 21 ex
+: 1911 14 21 cit
+: 1926 4 19 ed 
+: 1931 17 21 eyes, 
+- 1954
+: 1957 5 21 Till 
+: 1963 5 21 I 
+: 1969 10 21 woke 
+: 1980 4 21 with 
+: 1985 3 21 a 
+: 1989 10 25 yawn 
+: 2000 7 21 in 
+: 2008 9 21 the 
+: 2018 10 23 first 
+: 2029 7 21 light 
+: 2037 4 19 of 
+: 2042 13 21 dawn, 
+- 2064
+: 2067 1 16 And 
+: 2069 5 18 I 
+: 2075 7 18 saw 
+: 2083 6 18 him 
+: 2090 6 16 and 
+: 2097 9 14 through 
+: 2107 4 12 his 
+: 2112 4 12 dis
+: 2117 36 14 guise. 
+- 2208
+: 2700 7 23 I 
+: 2709 9 21 wish 
+: 2720 8 18 you 
+: 2732 5 16 a 
+: 2739 9 14 hope
+: 2749 8 16 ful 
+: 2758 13 16 Christ
+: 2772 10 18 mas, 
+- 2792
+: 2804 8 23 I 
+: 2815 7 21 wish 
+: 2824 9 18 you 
+: 2834 8 16 a 
+: 2844 9 14 brave 
+: 2854 8 16 New 
+: 2863 13 14 Year, 
+- 2886
+: 2907 9 23 All 
+: 2918 14 21 an
+: 2933 11 18 guish, 
+: 2947 11 16 pain 
+: 2960 6 14 and 
+: 2967 10 16 sad
+: 2978 12 18 ness, 
+- 3000
+: 3009 10 23 Leave 
+: 3021 7 21 your 
+: 3029 8 21 heart 
+: 3038 2 21 and 
+: 3041 6 18 let 
+: 3048 6 16 your 
+: 3055 9 14 road 
+: 3065 7 16 be 
+: 3073 12 14 clear 
+- 3095
+: 3119 6 24 They 
+: 3126 8 23 said 
+: 3136 8 21 there’d 
+: 3145 7 19 be 
+: 3156 15 21 snow 
+: 3173 5 21 at 
+: 3179 10 19 Christ
+: 3190 10 21 mas, 
+- 3210
+: 3221 9 24 They 
+: 3232 10 23 said 
+: 3244 6 21 there’d 
+: 3252 8 19 be 
+: 3262 11 21 peace 
+: 3275 8 19 on 
+: 3285 10 21 earth 
+- 3301
+: 3303 6 21 Hal
+: 3310 5 21 le
+: 3316 6 26 lu
+: 3323 9 26 jah! 
+: 3333 6 25 No
+: 3340 9 21 el!, 
+: 3351 7 23 be 
+: 3359 5 21 it 
+: 3365 6 21 Hea
+: 3372 6 19 ven 
+: 3381 8 21 or 
+: 3390 12 21 Hell, 
+- 3409
+: 3412 5 16 The 
+: 3420 10 18 Christ
+: 3431 8 18 mas 
+: 3441 5 16 we 
+: 3447 6 14 get, 
+: 3455 6 12 we 
+: 3463 9 14 de
+: 3473 25 14 serve 
+E

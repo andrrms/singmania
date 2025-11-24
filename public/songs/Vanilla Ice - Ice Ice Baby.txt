@@ -1,0 +1,966 @@
+#ARTIST:Vanilla Ice
+#TITLE:Ice Ice Baby
+#MP3:Vanilla Ice - Ice Ice Baby.mp3
+#CREATOR:melinas@upenn.edu
+#EDITION:SingStar ’80s [NL|PL|UK], SingStar ’90s [US]
+#YEAR:1990
+#LANGUAGE:English
+#BPM:232.35
+#GAP:13080
+#VIDEO:v=rog8ou-ZepE,co=https://i.ytimg.com/vi/GOQtzxPnoY0/maxresdefault.jpg,co-crop=280-0-720-720,bg=vanilla-ice-50bb8f814f16b.jpg
+F 0 2 14 Yo 
+F 5 1 14 V.
+F 7 3 14 I.
+F 11 2 14 P. 
+- 15
+F 42 2 9 Let’s 
+F 46 2 9 kick 
+F 49 2 9 it 
+- 53
+R 87 4 14 Ice 
+R 95 4 14 ice 
+R 103 3 14 ba
+R 107 2 14 by 
+- 111
+R 151 4 9 Ice 
+R 159 4 9 ice 
+R 167 3 9 ba
+R 171 2 9 by 
+- 175
+R 177 1 14 All 
+R 179 3 14 right 
+R 183 2 14 stop 
+- 187
+R 193 1 9 Col
+R 195 1 9 la
+R 197 1 9 bo
+R 199 2 9 rate 
+R 203 2 9 and 
+- 206
+R 207 3 14 Lis
+R 211 2 14 ten 
+- 215
+R 217 2 9 Ice 
+R 221 1 9 is 
+R 223 2 9 back 
+- 226
+R 227 1 14 With 
+R 229 1 14 my 
+R 231 2 14 brand 
+R 235 1 14 new 
+- 237
+R 237 1 9 In
+R 239 3 9 ven
+R 243 2 9 tion 
+- 246
+G 247 3 14 Some
+R 251 2 14 thing 
+- 255
+R 259 1 14 Grabs 
+R 261 1 14 a 
+R 263 1 14 hold 
+R 265 1 14 of 
+R 267 2 14 me 
+R 271 2 14 tight
+R 275 2 14 ly 
+- 278
+R 279 2 9 Flow 
+R 283 1 9 like 
+R 285 1 9 a 
+R 287 3 9 har
+R 291 2 9 poon 
+- 294
+R 295 1 14 Dai
+R 297 1 14 ly 
+R 299 3 14 and 
+R 303 2 14 night
+R 307 2 14 ly 
+- 310
+R 311 1 9 Will 
+R 313 1 9 it 
+R 315 1 9 e
+R 317 1 9 ver 
+R 319 2 9 stop 
+- 322
+R 323 2 14 Yo 
+R 329 1 14 I 
+R 331 2 14 don’t 
+R 335 2 14 know 
+- 339
+R 343 1 9 Turn 
+R 345 3 9 off 
+R 349 1 9 the 
+R 351 3 9 lights 
+- 356
+R 361 1 14 And 
+R 363 3 14 I’ll 
+R 367 2 14 glow 
+- 371
+R 375 1 9 To 
+R 377 1 9 the 
+R 379 1 9 ex
+R 381 2 9 treme 
+- 384
+R 384 1 14 I 
+R 386 1 14 rock 
+R 388 1 14 a 
+R 390 2 14 mic 
+R 393 1 14 like 
+R 395 1 14 a 
+R 397 3 14 van
+R 401 2 14 dal 
+- 404
+R 405 1 9 Light 
+R 407 1 9 up 
+R 409 1 9 a 
+R 411 2 9 stage 
+- 414
+R 415 1 14 And 
+R 417 1 14 wax 
+R 419 1 14 a 
+R 421 2 14 chump 
+- 424
+R 425 1 9 Like 
+R 427 2 9 a 
+R 430 2 9 can
+R 434 2 9 dle 
+- 437
+R 439 4 14 Dance 
+- 445
+R 449 1 9 Go 
+R 451 1 9 rush 
+R 453 1 9 the 
+R 455 1 9 spea
+R 457 1 9 ker 
+R 459 2 9 that 
+R 463 3 9 booms 
+- 467
+R 469 1 14 I’m 
+R 471 1 14 kil
+R 473 2 14 ling 
+R 477 1 14 your 
+R 479 2 14 brain 
+- 482
+R 483 1 9 Like 
+R 485 1 9 a 
+R 487 1 9 poi
+R 489 1 9 so
+R 491 2 9 nous 
+R 495 2 9 mush
+R 499 2 9 room 
+- 502
+G 503 2 14 Dead
+R 507 3 14 ly 
+- 512
+R 515 1 9 When 
+R 517 1 9 I 
+R 519 1 9 play 
+R 521 1 9 a 
+R 523 2 9 dope 
+R 527 1 9 me
+R 529 1 9 lo
+R 531 2 9 dy 
+- 534
+R 535 1 14 A
+R 537 1 14 ny
+R 539 2 14 thing 
+R 543 2 14 less 
+R 547 1 14 than 
+R 549 1 14 the 
+R 551 2 14 best 
+- 554
+R 555 1 9 Is 
+R 557 1 9 a 
+R 559 1 9 fe
+R 561 1 9 lo
+R 563 2 9 ny 
+- 566
+R 567 1 14 Love 
+R 569 2 14 it 
+R 573 1 14 or 
+R 575 1 14 leave 
+R 577 2 14 it 
+- 580
+R 581 1 9 You 
+R 583 1 9 bet
+R 585 1 9 ter 
+R 587 3 9 gain 
+- 591
+R 591 3 14 Way 
+- 595
+R 597 1 9 You 
+R 599 1 9 bet
+R 601 1 9 ter 
+R 603 2 9 hit 
+R 607 3 9 bull’s 
+R 611 1 9 eye 
+- 613
+R 613 1 14 The 
+R 615 2 14 kid 
+R 619 2 14 don’t 
+- 622
+R 623 2 9 Play 
+- 627
+R 631 1 14 If 
+R 633 1 14 there 
+R 635 1 14 was 
+R 637 1 14 a 
+R 639 3 14 prob
+R 643 2 14 lem 
+- 646
+R 647 2 9 Yo, 
+R 651 2 9 I’ll 
+R 655 3 9 solve 
+R 659 2 9 it 
+- 662
+R 663 1 14 Check 
+R 665 2 14 out 
+R 669 1 14 the 
+R 671 2 14 hook 
+- 674
+R 675 1 9 While 
+R 677 1 9 my 
+R 679 1 9 D
+R 681 2 9 J 
+R 684 2 9 re
+R 687 3 9 volves 
+R 691 2 9 it 
+- 694
+G 695 4 14 Ice 
+R 703 4 14 ice 
+R 711 3 14 ba
+R 715 2 14 by 
+- 719
+R 747 3 9 Va
+R 751 3 9 nil
+R 755 2 9 la 
+R 759 4 9 ice 
+R 767 4 9 ice 
+R 775 3 9 ba
+R 779 2 9 by 
+- 783
+R 811 3 14 Va
+R 815 3 14 nil
+R 819 2 14 la 
+R 823 4 14 ice 
+R 831 4 14 ice 
+R 839 3 14 ba
+R 843 2 14 by 
+- 847
+R 875 3 9 Va
+R 879 3 9 nil
+R 883 2 9 la 
+R 887 4 9 ice 
+R 895 4 9 ice 
+R 903 3 9 ba
+R 907 2 9 by 
+- 911
+R 939 3 14 Va
+R 943 3 14 nil
+R 947 2 14 la 
+- 950
+R 951 2 9 Now 
+R 955 1 9 that 
+R 957 1 9 the 
+R 959 1 9 par
+R 961 1 9 ty 
+R 963 2 9 is 
+- 966
+R 967 2 14 Jum
+R 971 3 14 ping 
+- 976
+R 979 1 9 With 
+R 981 1 9 the 
+R 983 2 9 bass 
+R 987 2 9 kicked 
+R 991 2 9 in 
+- 994
+R 995 1 14 And 
+R 997 1 14 the 
+R 999 1 14 ve
+R 1001 1 14 gas 
+R 1003 2 14 are 
+- 1006
+R 1007 2 9 Pum
+R 1011 2 9 pin’ 
+- 1014
+R 1015 2 14 Quick 
+R 1019 1 14 to 
+R 1021 1 14 the 
+R 1023 2 14 point 
+- 1026
+R 1027 1 9 To 
+R 1029 1 9 the 
+R 1031 2 9 point 
+R 1035 2 9 no 
+- 1038
+R 1039 3 14 Fa
+R 1043 3 14 king 
+- 1047
+R 1047 1 9 Coo
+R 1049 1 9 king 
+R 1051 2 9 M
+R 1055 2 9 Cs 
+- 1058
+R 1059 1 14 Like 
+R 1061 1 14 a 
+R 1063 2 14 pound 
+R 1067 2 14 of 
+- 1070
+R 1071 2 9 Ba
+R 1075 3 9 con 
+- 1079
+R 1079 1 14 Bur
+R 1081 1 14 nin’ 
+R 1083 2 14 ’em 
+- 1087
+R 1090 1 9 If 
+R 1092 1 9 he 
+R 1094 1 9 ain’t 
+R 1096 1 9 quick 
+R 1099 2 9 and 
+- 1102
+R 1103 2 14 Nim
+R 1107 3 14 ble 
+- 1111
+R 1113 1 9 I 
+R 1115 2 9 go 
+R 1119 1 9 cra
+R 1121 1 9 zy 
+- 1123
+R 1123 1 14 When 
+R 1125 1 14 I 
+R 1127 2 14 hear 
+R 1131 2 14 a 
+R 1135 2 14 cym
+R 1138 1 14 bal 
+- 1140
+R 1140 1 9 And 
+R 1142 1 9 a 
+R 1144 2 9 hi-
+R 1147 2 9 hat 
+- 1151
+R 1155 1 14 With 
+R 1157 1 14 a 
+R 1159 2 14 souped 
+R 1163 2 14 up 
+R 1167 3 14 tem
+R 1171 2 14 po 
+- 1174
+R 1176 1 9 I’m 
+R 1178 1 9 on 
+R 1180 1 9 a 
+R 1182 5 9 roll 
+- 1188
+R 1189 1 14 It’s 
+R 1191 1 14 time 
+R 1193 1 14 to 
+R 1195 2 14 go 
+R 1198 3 14 so
+R 1202 2 14 lo 
+- 1205
+R 1206 3 9 Rol
+R 1210 2 9 lin’ 
+- 1214
+R 1219 1 14 In 
+R 1221 1 14 my 
+R 1223 2 14 five 
+R 1227 2 14 point 
+R 1231 3 14 oh 
+- 1235
+R 1235 1 9 With 
+R 1237 1 9 my 
+R 1239 2 9 rag-
+R 1243 2 9 top 
+R 1247 2 9 down 
+- 1250
+R 1251 1 14 So 
+R 1253 1 14 my 
+R 1255 2 14 hair 
+R 1259 2 14 can 
+R 1263 2 14 blow 
+- 1267
+G 1269 1 9 The 
+R 1271 1 9 gir
+R 1273 1 9 lies 
+R 1275 2 9 on 
+R 1279 3 9 stand
+R 1283 3 9 by 
+- 1287
+R 1287 1 14 Wa
+R 1289 1 14 ving 
+R 1291 1 14 just 
+R 1293 1 14 to 
+R 1295 2 14 say 
+R 1299 4 14 hi 
+- 1304
+R 1305 3 9 Did 
+R 1309 1 9 you 
+R 1311 3 9 stop? 
+- 1315
+R 1317 4 14 No 
+- 1322
+R 1323 1 9 I 
+R 1325 2 9 just 
+R 1329 3 9 drove 
+R 1333 3 9 by 
+- 1337
+R 1337 2 14 Kept 
+R 1341 3 14 on 
+- 1346
+R 1349 1 9 Pur
+R 1351 1 9 su
+R 1353 1 9 ing 
+R 1355 1 9 to 
+R 1357 1 9 the 
+R 1359 2 9 next 
+R 1363 3 9 stop 
+- 1367
+R 1369 1 14 I 
+R 1371 1 14 bus
+R 1373 1 14 ted 
+R 1375 1 14 a 
+R 1377 1 14 left 
+R 1379 1 14 and 
+R 1381 1 14 I’m 
+- 1383
+R 1383 1 9 Hea
+R 1385 1 9 ding 
+R 1387 1 9 to 
+R 1389 1 9 the 
+R 1391 2 9 next 
+R 1395 2 9 block 
+- 1399
+R 1401 1 14 That 
+R 1403 1 14 block 
+R 1405 1 14 was 
+R 1407 3 14 dead, 
+R 1412 3 14 yo 
+- 1417
+R 1419 1 9 So 
+R 1421 1 9 I 
+R 1423 1 9 con
+R 1425 1 9 ti
+R 1427 1 9 nued 
+R 1429 2 9 to 
+- 1432
+R 1433 3 14 A 
+R 1437 2 14 one 
+R 1441 3 14 A 
+- 1446
+R 1449 3 9 Beach
+R 1453 2 9 front 
+R 1457 1 9 A
+R 1459 1 9 ve
+R 1461 1 9 nue 
+- 1464
+R 1466 2 9 Girls 
+R 1469 2 9 were 
+R 1472 2 9 hot 
+- 1475
+R 1475 1 9 Wea
+R 1477 2 9 ring 
+R 1480 2 9 less 
+R 1483 2 9 than 
+R 1486 1 9 bi
+R 1488 2 9 ki
+R 1491 3 9 nis 
+- 1495
+R 1495 3 14 Rock
+R 1499 3 14 man 
+R 1504 2 9 lo
+R 1507 3 9 vers 
+- 1511
+R 1511 2 14 Dri
+R 1514 1 14 ving 
+R 1516 1 9 Lam
+R 1518 1 9 bor
+R 1520 2 9 ghi
+R 1523 3 9 nis 
+- 1527
+R 1528 2 14 Jea
+R 1531 5 9 lous 
+- 1538
+R 1540 1 9 ’Cause 
+R 1542 2 9 I’m 
+R 1545 3 14 out 
+- 1549
+R 1549 1 9 Get
+R 1551 1 9 ting 
+R 1553 6 14 mine 
+- 1560
+R 1561 3 14 Shay 
+R 1565 1 9 with 
+R 1567 1 9 a 
+R 1569 1 14 gauge 
+- 1571
+R 1571 1 9 And 
+R 1573 1 9 Va
+R 1575 1 14 nil
+R 1577 1 9 la 
+- 1579
+R 1579 1 9 With 
+R 1581 1 9 a 
+R 1583 7 14 nine 
+- 1591
+R 1592 2 14 Rea
+R 1595 4 14 dy 
+R 1603 2 9 for 
+R 1606 1 9 the 
+R 1608 4 14 chumps 
+- 1613
+R 1613 1 9 On 
+R 1615 1 9 the 
+R 1617 4 14 wall 
+- 1622
+R 1623 1 9 The 
+R 1625 1 14 chumps 
+R 1627 1 9 ac
+R 1629 2 9 ting 
+R 1632 2 14 ill 
+- 1634
+R 1634 1 9 Be
+R 1636 1 9 cause 
+R 1638 1 9 they’re 
+R 1640 1 9 so 
+R 1642 1 14 full 
+R 1644 1 9 of 
+- 1643
+R 1643 3 14 “Eight 
+R 1648 4 14 Ball” 
+- 1653
+R 1655 2 14 Gun
+R 1658 5 14 shots 
+- 1665
+R 1667 4 9 Ranged 
+R 1672 2 14 out 
+R 1675 1 9 like 
+R 1677 2 9 a 
+R 1680 7 14 bell 
+- 1688
+R 1689 1 9 I 
+R 1691 1 9 grabbed 
+R 1693 1 9 my 
+R 1695 2 14 nine 
+- 1698
+R 1698 2 9 All 
+R 1701 1 9 I 
+R 1703 2 14 heard 
+R 1706 1 9 was 
+R 1708 10 14 shells 
+- 1719
+R 1719 4 14 Fal
+R 1724 4 14 lin’ 
+R 1732 1 9 on 
+R 1734 1 9 the 
+R 1736 1 14 con
+R 1738 5 9 crete 
+R 1744 2 14 real 
+R 1747 3 9 fast 
+- 1751
+R 1751 3 14 Jumped 
+R 1755 1 9 in 
+R 1757 1 9 my 
+R 1759 4 14 car 
+- 1764
+R 1766 4 14 Slammed 
+R 1771 1 9 on 
+R 1773 1 9 the 
+R 1775 8 14 gas 
+- 1784
+R 1784 2 14 Bum
+R 1787 1 14 per 
+R 1789 1 9 to 
+R 1791 2 14 bum
+R 1794 3 14 per 
+- 1798
+R 1798 1 9 The 
+R 1800 1 14 a
+R 1802 1 14 ve
+R 1804 2 14 nue’s 
+R 1807 6 14 packed 
+- 1814
+R 1814 1 9 I’m 
+R 1816 1 14 try’n 
+R 1818 1 9 to 
+R 1820 1 9 get 
+R 1822 1 14 a
+R 1824 2 14 way 
+- 1826
+R 1826 1 9 Be
+R 1828 1 9 fore 
+R 1830 1 9 the 
+R 1832 3 14 jac
+R 1836 3 9 kers 
+R 1840 5 14 jack 
+- 1846
+R 1846 1 9 Po
+R 1848 2 14 lice 
+R 1851 2 9 on 
+R 1854 1 9 the 
+R 1856 3 14 scene 
+- 1860
+R 1860 2 9 You 
+R 1863 2 14 know 
+R 1866 1 9 what 
+R 1868 1 9 I 
+R 1870 7 14 mean 
+- 1879
+R 1881 2 9 They 
+R 1884 2 9 passed 
+R 1887 1 9 me 
+R 1889 3 14 up 
+- 1893
+R 1893 1 9 Con
+R 1895 1 14 fron
+R 1897 2 9 ted 
+R 1900 1 9 all 
+R 1902 1 9 the 
+R 1904 3 14 dope 
+R 1908 2 9 fiends 
+- 1911
+R 1911 1 14 If 
+R 1913 2 9 there 
+R 1916 1 9 was 
+R 1918 1 9 a 
+R 1920 2 9 prob
+R 1923 3 9 lem 
+- 1927
+R 1927 2 14 Yo 
+- 1930
+R 1931 2 9 I’ll 
+R 1935 5 9 solve 
+R 1941 2 9 it 
+- 1944
+R 1944 3 14 Check 
+R 1948 1 14 out 
+R 1950 2 14 the 
+R 1953 3 14 hook 
+- 1957
+R 1957 2 9 While 
+R 1961 1 9 De 
+R 1963 2 9 Shay 
+R 1967 1 9 re
+R 1969 3 9 volves 
+R 1973 2 9 it 
+- 1976
+R 1976 3 9 Ice 
+R 1983 4 9 ice 
+R 1991 3 9 ba
+R 1995 2 9 by 
+- 1999
+R 2027 3 14 Va
+R 2031 3 14 nil
+R 2035 2 14 la 
+R 2039 4 14 ice 
+R 2047 4 14 ice 
+R 2055 3 14 ba
+R 2059 2 14 by 
+- 2063
+R 2091 3 9 Va
+R 2095 3 9 nil
+R 2099 2 9 la 
+R 2103 4 9 ice 
+R 2111 4 9 ice 
+R 2119 3 9 ba
+R 2123 2 9 by 
+- 2127
+R 2155 3 14 Va
+R 2159 3 14 nil
+R 2163 2 14 la 
+R 2167 4 14 ice 
+R 2175 4 14 ice 
+R 2183 3 14 ba
+R 2187 2 14 by 
+- 2191
+R 2219 3 9 Va
+R 2223 3 9 nil
+R 2227 2 9 la 
+- 2230
+R 2231 3 14 Take 
+R 2235 5 14 heed 
+- 2241
+R 2243 1 9 ’Cause 
+R 2245 1 9 I’m 
+R 2247 1 9 a 
+R 2249 1 9 ly
+R 2251 1 9 ri
+R 2253 2 9 cal 
+- 2256
+R 2257 3 14 Po
+R 2261 1 14 et 
+- 2263
+G 2263 1 9 Mi
+R 2265 1 9 a
+R 2267 1 9 mi’s 
+R 2269 1 9 on 
+R 2271 1 9 the 
+R 2273 2 9 scene 
+- 2276
+R 2277 1 14 Just 
+R 2279 1 14 in 
+R 2281 1 14 case 
+R 2283 1 14 you 
+R 2285 1 14 did
+R 2287 1 14 n’t 
+- 2289
+R 2289 2 9 Know 
+R 2293 2 9 it 
+- 2296
+R 2297 3 14 My 
+R 2301 4 14 town 
+- 2307
+R 2309 1 9 That 
+R 2311 1 9 cre
+R 2313 1 9 a
+R 2315 1 9 ted 
+R 2317 1 9 all 
+R 2319 1 9 the 
+R 2321 2 9 bass 
+R 2325 3 9 sound 
+- 2329
+R 2331 1 14 E
+R 2333 1 14 nough 
+R 2335 1 14 to 
+R 2337 1 14 shake 
+R 2339 1 14 and 
+R 2341 2 14 kick 
+- 2344
+R 2345 2 9 Holes 
+R 2349 1 9 in 
+R 2351 1 9 the 
+R 2353 3 9 ground 
+- 2357
+R 2357 1 14 ’Cause 
+R 2359 1 14 my 
+R 2361 3 14 style’s 
+R 2365 1 14 like 
+R 2367 1 14 a 
+R 2369 1 14 che
+R 2371 1 14 mi
+R 2373 2 14 cal 
+- 2376
+R 2377 8 9 Spill 
+- 2387
+R 2389 1 14 Fea
+R 2391 1 14 si
+R 2393 1 14 ble 
+R 2395 1 14 rhymes 
+R 2397 1 14 you 
+R 2399 1 14 can 
+R 2401 1 14 vi
+R 2403 1 14 sion 
+R 2405 2 14 and 
+- 2408
+R 2409 9 9 Feel 
+- 2420
+R 2423 1 14 Con
+R 2425 1 14 duc
+R 2427 1 14 ted 
+R 2429 1 14 and 
+R 2431 4 14 formed 
+- 2436
+R 2437 1 9 This 
+R 2439 1 9 is 
+R 2441 1 9 a 
+R 2443 1 9 hell 
+R 2445 1 9 of 
+R 2447 1 9 a 
+R 2449 1 9 con
+R 2452 2 9 cept 
+- 2456
+R 2459 1 14 We 
+R 2461 1 14 make 
+R 2463 1 14 it 
+R 2465 2 14 hype 
+- 2469
+R 2477 1 9 And 
+R 2479 1 9 you 
+R 2481 1 9 want 
+R 2483 1 9 to 
+R 2485 2 9 step 
+- 2488
+R 2489 3 14 With 
+R 2493 2 14 this 
+- 2497
+R 2501 2 9 Shay 
+R 2505 3 9 plays 
+R 2509 1 9 on 
+R 2511 1 9 the 
+R 2513 4 9 fade 
+- 2519
+R 2521 2 14 Sliced 
+R 2525 1 14 like 
+R 2527 1 14 a 
+R 2529 2 14 nin
+R 2533 2 14 ja 
+- 2536
+R 2537 2 9 Cut 
+R 2541 1 9 like 
+R 2543 1 9 a 
+R 2545 1 9 ra
+R 2547 1 9 zor 
+R 2549 2 9 blade 
+- 2552
+R 2553 3 14 So 
+R 2557 2 14 fast 
+- 2561
+R 2565 1 9 O
+R 2567 1 9 ther 
+R 2569 1 9 D
+R 2571 1 9 Js 
+R 2573 2 9 say 
+- 2576
+R 2577 3 14 Damn 
+- 2581
+G 2581 1 9 If 
+R 2583 1 9 my 
+R 2585 2 9 rhyme 
+R 2589 1 9 was 
+R 2591 1 9 a 
+R 2593 2 9 drug 
+- 2596
+R 2597 3 14 I’d 
+R 2601 1 14 sell 
+R 2603 1 14 it 
+R 2605 1 14 by 
+R 2607 1 14 the 
+R 2609 2 14 gram 
+- 2613
+R 2617 1 9 Keep 
+R 2619 2 9 my 
+R 2622 1 9 com
+R 2624 1 9 po
+R 2626 1 9 sure 
+- 2628
+R 2628 1 14 When 
+R 2630 1 14 it’s 
+R 2632 1 14 time 
+R 2634 1 14 to 
+R 2636 3 14 get 
+R 2641 2 14 loose 
+- 2644
+R 2645 1 9 Mag
+R 2647 1 9 ne
+R 2649 3 9 tized 
+R 2653 1 9 by 
+R 2655 1 9 the 
+R 2657 2 9 mic 
+- 2660
+R 2661 1 14 While 
+R 2663 1 14 I 
+R 2665 2 14 kick 
+R 2668 1 14 my 
+R 2670 2 14 juice 
+- 2674
+R 2680 1 9 If 
+R 2682 1 9 there 
+R 2684 1 9 was 
+R 2686 1 9 a 
+R 2688 2 9 prob
+R 2692 2 9 lem 
+- 2695
+R 2696 2 14 Yo 
+- 2699
+R 2700 2 9 I’ll 
+R 2704 3 9 solve 
+R 2708 2 9 it 
+- 2711
+R 2711 1 14 Check 
+R 2713 2 14 out 
+R 2717 1 14 the 
+R 2719 2 14 hook 
+- 2722
+R 2723 3 9 While 
+R 2727 1 9 De 
+R 2729 2 9 Shay 
+R 2733 1 9 re
+R 2735 3 9 volves 
+R 2739 2 9 it 
+- 2742
+R 2744 4 14 Ice 
+R 2752 4 14 ice 
+R 2760 3 14 ba
+R 2764 2 14 by 
+- 2768
+R 2796 3 9 Va
+R 2800 3 9 nil
+R 2804 2 9 la 
+R 2808 4 9 ice 
+R 2816 4 9 ice 
+R 2824 3 9 ba
+R 2828 2 9 by 
+- 2832
+R 2860 3 14 Va
+R 2864 3 14 nil
+R 2868 2 14 la 
+R 2872 4 14 ice 
+R 2880 4 14 ice 
+R 2888 3 14 ba
+R 2892 2 14 by 
+- 2896
+R 2924 3 9 Va
+R 2928 3 9 nil
+R 2932 2 9 la 
+R 2936 4 9 ice 
+R 2944 4 9 ice 
+R 2952 3 9 ba
+R 2956 2 9 by 
+- 2960
+R 2988 3 14 Va
+R 2992 3 14 nil
+R 2996 2 14 la 
+R 3000 5 14 ice 
+- 3007
+F 3017 5 9 Yo 
+F 3023 2 9 man 
+- 3026
+F 3027 1 9 Let’s 
+F 3029 1 9 get 
+F 3031 1 9 out
+F 3033 1 9 ta 
+F 3036 4 9 here 
+- 3042
+F 3047 3 14 Word 
+F 3051 2 14 to 
+F 3054 1 14 your 
+F 3056 3 14 mo
+F 3060 4 14 ther 
+- 3065
+G 3066 4 9 Ice 
+R 3074 4 9 ice 
+R 3082 3 9 ba
+R 3086 2 9 by 
+R 3090 2 9 too 
+R 3094 13 9 cold 
+- 3109
+R 3131 4 14 Ice 
+R 3139 4 14 ice 
+R 3147 3 14 ba
+R 3151 2 14 by 
+R 3155 2 14 too 
+R 3159 11 14 cold 
+- 3171
+R 3171 2 9 Too 
+R 3175 13 9 cold 
+- 3190
+R 3195 4 14 Ice 
+R 3203 4 14 ice 
+R 3211 3 14 ba
+R 3215 2 14 by 
+R 3219 2 14 too 
+R 3223 11 14 cold 
+- 3235
+R 3235 2 9 Too 
+R 3239 12 9 cold 
+- 3253
+R 3259 4 14 Ice 
+R 3267 4 14 ice 
+R 3275 3 14 ba
+R 3279 2 14 by 
+R 3283 2 14 too 
+R 3287 11 14 cold 
+- 3299
+R 3299 2 9 Too 
+R 3303 12 9 cold 
+E

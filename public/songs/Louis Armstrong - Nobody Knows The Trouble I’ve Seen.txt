@@ -1,0 +1,278 @@
+#ARTIST:Louis Armstrong
+#TITLE:Nobody Knows The Trouble I’ve Seen
+#MP3:Louis Armstrong - Nobody Knows The Trouble I’ve Seen.mp3
+#CREATOR:mustangfred, mlef
+#COVER:Louis Armstrong - Nobody Knows The Trouble I’ve Seen [CO].jpg
+#BACKGROUND:Louis Armstrong - Nobody Knows The Trouble I’ve Seen [BG].jpg
+#GENRE:Gospel
+#YEAR:1958
+#LANGUAGE:English
+#BPM:222.79
+#GAP:3610
+#VIDEO:a=ajQnX3Zn6CI,co=https://i.scdn.co/image/ab67616d0000b273e081328095e6bfd1335298da,bg=armstrong-louis-5484a5121a005.jpg,preview=3.55,medley=0-468
+: 0 4 0 No
+: 8 7 -9 bo
+: 17 3 -7 dy 
+: 25 4 -4 knows 
+- 39
+: 46 2 -4 All 
+: 49 4 -2 the 
+: 57 3 0 trou
+: 61 3 0 ble 
+: 73 7 0 I’ve 
+: 88 7 0 seen 
+- 109
+: 126 1 -7 And 
+: 129 3 0 no
+: 137 6 -9 bo
+: 145 3 -7 dy 
+: 152 6 -4 knows 
+- 168
+: 176 2 -4 ’Bout 
+: 185 3 -7 Je
+: 190 3 -7 sus
+: 194 4 -9 ~ 
+- 212
+: 256 3 0 No
+: 264 5 -9 bo
+: 271 4 -7 dy 
+: 280 4 -4 knows 
+- 296
+: 300 2 -4 All 
+: 303 3 -2 the 
+: 312 3 0 trou
+: 316 3 0 ble 
+: 328 8 0 I’ve 
+: 343 9 0 seen 
+- 362
+* 376 15 3 Glo
+* 396 9 0 ry, 
+: 407 16 -2 Hal
+: 428 15 0 le
+: 446 11 -4 lu
+: 459 9 -4 jah 
+- 497
+R 529 16 0 Yeah, 
+R 549 2 0 lots 
+R 553 1 0 of 
+R 555 2 0 trou
+R 558 1 0 ble 
+R 561 1 0 floa
+R 564 1 0 ting 
+R 566 2 0 ’round 
+R 569 2 0 these 
+R 573 5 0 days 
+- 588
+R 606 4 0 Seems 
+R 611 3 0 like 
+R 616 2 0 eve
+R 619 2 0 ry
+R 622 2 0 bo
+R 625 1 0 dy’s 
+R 629 2 0 sick, 
+R 637 2 0 sick, 
+R 649 1 0 sick 
+- 664
+R 683 1 0 And 
+R 685 1 0 I’m 
+R 688 2 0 right 
+R 691 1 0 in 
+R 693 2 0 there 
+R 697 1 0 with 
+R 699 2 0 them 
+R 707 1 0 mes
+R 711 1 0 sin’ 
+- 722
+R 738 2 0 Well 
+R 741 3 0 there’s 
+R 746 2 0 one 
+R 750 3 0 thing 
+R 756 1 0 that’s 
+R 760 1 0 for 
+R 763 5 0 sure 
+- 778
+R 796 2 0 Ain’t 
+R 799 1 0 you 
+R 801 1 0 use 
+R 805 5 0 crime 
+- 822
+R 826 1 0 Just 
+R 829 1 0 get 
+R 831 2 0 in 
+R 834 2 0 there 
+R 837 1 0 and 
+R 843 2 0 pitch 
+- 855
+R 866 2 0 Some
+R 870 6 0 times 
+R 884 1 0 you 
+R 886 3 0 need 
+R 890 3 0 help, 
+R 897 1 0 that’s 
+R 901 2 0 when 
+R 904 5 0 you 
+- 918
+R 922 1 0 Kind 
+R 924 1 0 of 
+R 926 2 0 look 
+R 929 2 0 up 
+- 943
+R 947 2 0 Yes 
+R 952 1 0 you... 
+- 967
+: 985 15 0 Mmmh, 
+: 1004 5 0 some
+: 1012 6 3 times 
+* 1021 5 3 I’m 
+* 1029 3 3 up 
+- 1038
+* 1041 3 0 Some
+* 1045 6 3 times 
+: 1053 6 3 I’m 
+: 1061 5 0 down 
+- 1074
+F 1077 6 3 Oh, 
+F 1085 12 3 yes 
+F 1101 5 8 my 
+F 1107 20 7 Lord 
+- 1131
+: 1133 4 0 Some
+: 1140 6 3 times 
+: 1148 5 3 I’m 
+: 1156 5 3 al
+: 1164 4 3 most 
+: 1171 4 0 to 
+: 1177 9 3 the 
+: 1188 7 0 ground 
+- 1205
+F 1212 4 3 Yes 
+F 1221 3 8 my
+F 1225 6 7 ~ 
+F 1233 7 8 Lord 
+- 1250
+: 1260 5 0 Oh 
+: 1268 4 3 Lord 
+: 1276 4 3 you 
+* 1284 4 3 see 
+* 1292 3 3 me 
+: 1300 3 3 go
+: 1304 2 0 ing 
+: 1308 4 3 long 
+: 1316 4 0 zone 
+- 1329
+F 1332 5 3 Oh 
+F 1340 11 3 yes 
+F 1356 4 8 my 
+F 1361 7 7 Lord 
+- 1370
+: 1372 18 5 Yes, 
+: 1393 3 0 I 
+: 1397 3 3 have 
+: 1404 4 3 my 
+: 1412 4 3 tri
+: 1417 1 0 als 
+: 1420 5 3 yeah 
+: 1428 5 3 down 
+: 1436 3 0 when 
+: 1441 2 -4 be
+: 1444 5 0 low 
+- 1457
+F 1460 12 3 Yes 
+F 1476 4 8 my
+F 1481 6 7 ~ 
+F 1490 7 8 Lord 
+- 1526
+R 2058 5 0 Yes, 
+R 2065 1 0 eve
+R 2067 1 0 ry
+R 2069 1 0 bo
+R 2071 1 0 dy’s 
+R 2074 2 0 al
+R 2077 1 0 ways 
+R 2082 1 0 sing
+R 2084 1 0 ing 
+R 2087 1 0 the 
+R 2089 2 0 blues 
+- 2094
+R 2096 2 0 ’Bout 
+R 2108 1 0 his 
+R 2110 3 0 own 
+R 2115 2 0 trou
+R 2118 4 0 bles 
+- 2136
+R 2159 2 0 And 
+R 2163 1 0 the 
+R 2165 2 0 thing 
+R 2168 1 0 to 
+R 2170 6 0 do 
+R 2178 2 0 is 
+R 2181 1 0 to 
+R 2183 2 0 get 
+R 2186 1 0 with 
+R 2188 1 0 the 
+R 2190 2 0 big 
+R 2195 5 0 boss 
+- 2210
+R 2221 1 0 That’s 
+R 2224 2 0 right 
+- 2236
+R 2250 1 0 Look 
+R 2252 2 0 up 
+R 2258 1 0 some
+R 2261 2 0 times 
+- 2274
+: 2278 17 0 Mmmh, 
+: 2297 5 0 no
+: 2306 9 -9 bo
+: 2322 2 -7 dy 
+: 2326 4 -4 knows 
+- 2340
+: 2354 3 -2 The 
+: 2361 4 0 trou
+: 2366 3 0 ble 
+: 2370 4 0 I’ve 
+: 2377 5 0 seen 
+- 2383
+R 2385 1 0 And 
+R 2387 1 0 I 
+R 2389 1 0 ain’t 
+R 2393 1 0 gon
+R 2395 1 0 na 
+R 2398 2 0 bug 
+R 2402 1 0 no
+R 2404 2 0 bo
+R 2407 1 0 dy 
+R 2409 2 0 ’bout 
+R 2412 1 0 it 
+R 2414 2 0 ei
+R 2417 1 0 ther 
+- 2428
+R 2440 3 0 I 
+R 2444 2 0 know 
+R 2448 2 0 where 
+R 2451 3 0 I 
+R 2455 1 0 can 
+R 2457 1 0 get 
+R 2459 2 0 help 
+R 2463 2 0 when 
+R 2466 1 0 I 
+R 2468 1 0 need 
+R 2470 1 0 it 
+- 2481
+R 2495 3 0 Yes, 
+R 2503 5 0 oh 
+R 2518 5 0 eve
+R 2524 3 0 ry
+R 2529 7 0 time, 
+R 2539 2 0 eve
+R 2542 2 0 ry
+R 2546 2 0 time 
+- 2558
+R 2567 1 0 May
+R 2569 1 0 be 
+R 2571 4 0 you’d 
+R 2576 2 0 bet
+R 2579 1 0 ter 
+R 2581 3 0 try 
+R 2585 2 0 it 
+E

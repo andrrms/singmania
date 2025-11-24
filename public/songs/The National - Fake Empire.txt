@@ -1,0 +1,185 @@
+#ARTIST:The National
+#TITLE:Fake Empire
+#MP3:The National - Fake Empire.mp3
+#CREATOR:divmisc
+#GENRE:Indie Rock
+#YEAR:2007
+#LANGUAGE:English
+#BPM:407.8
+#GAP:18750
+#VIDEO:a=YKYvAJBsoqY,co=fake-empire-5746cad2a5098.jpg,bg=the-national-4e4ea8ff4b7d6.jpg
+: 0 7 0 Stay 
+: 8 12 0 out 
+: 26 5 0 su
+: 32 4 0 per 
+: 38 14 0 late 
+: 60 3 0 to
+: 64 18 0 night 
+- 84
+: 96 5 0 Pi
+: 102 5 2 cking 
+: 108 5 2 ap
+: 114 16 2 ples, 
+: 146 5 3 ma
+: 152 5 2 king 
+: 158 22 0 pies 
+- 182
+: 194 5 0 Put 
+: 200 3 0 a 
+: 204 5 0 lit
+: 210 4 0 tle 
+: 216 10 0 some
+: 227 11 0 thing 
+- 240
+: 241 4 0 In 
+: 246 6 0 our 
+: 264 9 0 le
+: 274 4 0 mo
+: 279 4 0 na
+: 284 20 2 ~de 
+- 306
+: 310 3 0 And 
+: 314 5 2 take 
+: 320 5 0 it 
+: 326 5 4 with 
+: 332 12 2 us 
+- 346
+: 352 9 4 We’re 
+: 362 12 4 half-
+: 375 4 2 a
+: 380 14 0 wake 
+: 411 4 -5 in 
+: 416 6 -5 a 
+: 432 16 2 fake 
+: 451 14 4 em
+: 466 12 2 pire 
+- 480
+: 544 9 4 We’re 
+: 554 11 4 half-
+: 567 4 2 a
+: 572 16 0 wake 
+: 601 3 -5 in 
+: 605 5 -5 a 
+: 624 14 2 fake 
+: 643 14 4 em
+: 658 12 2 pire 
+- 672
+: 768 7 0 Tip
+: 776 10 0 toe 
+: 790 9 0 through 
+: 800 10 0 our 
+: 816 5 0 shi
+: 822 4 0 ny 
+: 827 3 0 ci
+: 831 4 0 ty 
+- 837
+: 866 4 2 With 
+: 872 6 2 our 
+: 886 6 2 dia
+: 893 5 0 mond 
+: 900 6 4 slip
+: 907 6 2 pers 
+: 915 9 0 on 
+- 926
+: 960 5 0 Do 
+: 966 12 0 our 
+: 983 8 0 gay 
+: 995 6 0 bal
+: 1002 5 0 let 
+: 1008 5 0 on 
+: 1014 12 0 ice 
+- 1028
+: 1056 7 2 Blue
+: 1064 15 2 birds 
+: 1081 4 2 on 
+: 1086 5 0 our 
+: 1092 10 4 shoul
+: 1103 13 2 ders 
+- 1118
+: 1120 8 4 We’re 
+: 1130 10 4 half-
+: 1144 4 2 a
+: 1149 20 0 wake 
+: 1178 3 -5 in 
+: 1182 6 -5 a 
+: 1200 12 2 fake 
+: 1218 15 4 em
+: 1234 16 2 pire 
+- 1252
+: 1312 6 4 We’re 
+: 1320 10 4 half-
+: 1334 3 2 a
+: 1338 16 0 wake 
+: 1368 4 -5 in 
+: 1374 10 -5 a 
+: 1392 14 2 fake 
+: 1410 15 4 em
+: 1426 18 2 pire 
+- 1446
+: 2306 10 0 Turn 
+: 2318 10 0 the 
+: 2330 6 0 light 
+: 2338 8 0 out 
+: 2354 4 0 say 
+: 2360 6 0 good
+: 2367 9 0 night 
+- 2378
+: 2394 8 -5 No 
+: 2410 5 2 thin
+: 2416 8 2 king 
+: 2426 6 2 for 
+: 2434 3 0 a 
+: 2438 5 4 lit
+: 2444 4 2 tle 
+: 2449 18 0 while 
+- 2469
+: 2499 9 0 Let’s 
+: 2510 10 0 not 
+: 2522 12 0 try 
+: 2536 5 0 to 
+: 2544 5 0 fi
+: 2550 5 0 gure 
+: 2556 11 0 out 
+- 2569
+: 2596 3 2 Eve
+: 2600 5 2 ry
+: 2606 5 2 thing 
+: 2612 5 0 at 
+: 2618 4 2 o
+: 2623 15 4 ~nce 
+- 2640
+: 2682 7 -5 It’s 
+: 2690 16 0 hard 
+: 2711 4 0 to 
+: 2716 12 0 keep 
+: 2734 7 2 track 
+: 2743 4 0 of 
+: 2749 14 -1 you 
+- 2765
+: 2786 7 2 Fal
+: 2794 5 0 ling 
+: 2801 5 -1 through 
+: 2807 4 0 the 
+: 2812 24 0 sky 
+- 2838
+: 2850 8 4 We’re 
+: 2860 12 4 half-
+: 2875 6 2 a
+: 2882 20 0 wake 
+: 2912 3 -5 in 
+: 2916 6 -5 a 
+: 2929 19 2 fake 
+: 2952 13 4 em
+: 2966 20 2 pire 
+- 2988
+: 3038 3 2 We’re 
+: 3042 6 4 ~ 
+: 3050 10 4 half-
+: 3064 5 2 a
+: 3070 22 0 wake 
+: 3098 4 -5 in 
+: 3104 14 -5 a 
+: 3122 16 2 fake 
+: 3142 16 4 em
+: 3159 21 2 pire 
+E

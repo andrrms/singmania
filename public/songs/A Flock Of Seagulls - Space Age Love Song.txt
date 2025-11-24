@@ -1,0 +1,116 @@
+#ARTIST:A Flock Of Seagulls
+#TITLE:Space Age Love Song
+#MP3:A Flock Of Seagulls - Space Age Love Song.mp3
+#CREATOR:Buberatz
+#YEAR:1982
+#LANGUAGE:English
+#BPM:275.7
+#GAP:37720
+#VIDEO:v=gOK3rqVgN2I,co=space-age-love-song-6191ce151b4fa.jpg,bg=flock-of-seagulls-a-52bfc5be5c645.jpg
+: 0 3 14 I 
+: 4 11 18 saw 
+: 16 11 18 your 
+: 28 56 14 eyes 
+- 86
+: 120 3 9 And 
+: 124 3 9 you 
+: 128 11 18 made 
+: 140 11 18 me 
+: 152 56 14 smile 
+- 210
+: 248 3 9 For 
+: 252 3 9 a 
+: 256 11 18 lit
+: 268 11 18 tle 
+: 280 56 14 while 
+- 338
+: 360 3 9 I 
+: 364 3 9 was 
+: 368 3 14 fal
+: 372 3 14 ling 
+: 376 7 16 in 
+: 384 80 14 love 
+- 466
+: 512 3 14 I 
+: 516 11 18 saw 
+: 528 11 18 your 
+: 540 56 14 eyes 
+- 598
+: 632 3 9 And 
+: 636 3 9 you 
+: 640 8 18 touched 
+: 652 11 18 my 
+: 664 56 14 mind 
+- 722
+: 760 3 9 Although 
+: 764 3 9 it 
+: 768 11 18 took 
+: 780 11 18 a 
+: 792 56 14 while 
+- 850
+: 872 3 9 I 
+: 876 3 9 was 
+: 880 3 14 fal
+: 884 3 14 ling 
+: 888 7 16 in 
+: 896 72 14 love 
+- 970
+: 1382 3 9 I 
+: 1386 3 9 was 
+: 1390 3 14 fal
+: 1394 3 14 ling 
+: 1398 7 16 in 
+: 1406 80 14 love 
+- 1488
+: 1534 3 14 I 
+: 1538 11 18 saw 
+: 1550 11 18 your 
+: 1562 64 28 eyes 
+- 1628
+: 1656 3 9 And 
+: 1660 3 9 you 
+: 1664 11 18 made 
+: 1676 11 18 me 
+: 1688 56 14 cry 
+- 1746
+: 1784 3 9 And 
+: 1788 1 9 for 
+: 1790 1 9 a 
+: 1792 11 18 lit
+: 1804 11 18 tle 
+: 1816 56 14 while 
+- 1874
+: 1896 3 9 I 
+: 1900 3 9 was 
+: 1904 3 14 fal
+: 1908 3 14 ling 
+: 1912 7 16 in 
+: 1920 80 14 love 
+- 2002
+: 2408 3 9 I 
+: 2412 3 9 was 
+: 2416 3 14 fal
+: 2420 3 14 ling 
+: 2424 7 16 in 
+: 2432 80 14 love 
+- 2514
+: 2544 3 14 Fal
+: 2548 3 14 ling 
+: 2552 7 16 in 
+: 2560 80 14 love 
+- 2642
+: 2672 3 14 Fal
+: 2676 3 14 ling 
+: 2680 7 16 in 
+: 2688 80 14 love 
+- 2770
+: 2800 3 14 Fal
+: 2804 3 14 ling 
+: 2808 7 16 in 
+: 2816 80 14 love 
+- 2898
+: 2928 3 2 Fal
+: 2932 3 2 ling 
+: 2936 7 4 in 
+: 2944 80 2 love 
+E

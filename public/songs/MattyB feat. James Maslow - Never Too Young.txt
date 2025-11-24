@@ -1,0 +1,776 @@
+#ARTIST:MattyB feat. James Maslow
+#TITLE:Never Too Young
+#MP3:MattyB feat. James Maslow - Never Too Young.mp3
+#CREATOR:aac
+#GENRE:Pop
+#YEAR:2013
+#LANGUAGE:English
+#BPM:336
+#GAP:880
+#VIDEO:v=WM1vOTUaQGw,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/18/21/d8/1821d86a-6e69-45da-bb49-2a989fcf0260/859711337413_cover.tif/5000x5000bb.jpg
+: 0 2 6 You’re 
+: 4 2 6 ne
+: 8 2 6 ver 
+: 12 4 8 too 
+: 20 2 6 young
+: 24 2 4 ~ 
+: 28 4 4 to 
+: 36 8 4 fall 
+: 52 4 9 in 
+: 60 16 8 love 
+: 84 2 8 in
+: 88 2 6 ~ 
+: 92 12 6 love
+: 108 4 8 ~ 
+- 114
+: 128 2 6 You’re 
+: 132 2 6 ne
+: 136 2 6 ver 
+* 140 4 8 too 
+: 148 2 6 young
+: 152 2 4 ~ 
+: 156 4 4 to 
+- 162
+F 164 2 6 What’s 
+F 168 2 6 up 
+F 172 2 6 with 
+F 176 2 6 the 
+F 180 4 6 day 
+- 186
+F 196 2 6 Peo
+F 200 2 6 ple 
+F 204 2 6 tal
+F 208 2 6 kin’ 
+F 212 2 6 bout 
+F 216 3 6 me 
+- 220
+F 220 2 6 They 
+F 224 2 6 say 
+F 228 2 6 what’s 
+F 232 2 6 up 
+F 236 2 6 with 
+F 240 2 6 your 
+F 244 4 6 age 
+F 252 4 6 man 
+- 258
+F 260 2 6 Why 
+F 264 2 6 you 
+F 268 2 6 wan
+F 272 2 6 na 
+F 276 2 6 doubt 
+F 280 3 6 me 
+- 284
+F 284 2 6 See 
+F 288 2 6 me 
+F 292 2 6 li
+F 296 2 6 ving 
+F 300 2 6 while 
+F 304 2 6 I’m 
+F 308 4 6 young 
+- 314
+F 316 2 6 Say 
+F 320 2 6 I 
+F 324 2 6 coul
+F 328 2 6 dn’t, 
+F 332 2 6 shoul
+F 336 2 6 dn’t, 
+F 340 4 6 won’t 
+- 346
+F 348 2 6 Oh 
+F 352 2 6 I 
+F 356 4 6 can’t? 
+F 364 2 6 That’s 
+F 368 2 6 what’s 
+F 372 4 6 up 
+- 378
+F 380 2 6 I’m
+F 384 2 6 ma 
+F 388 2 6 do 
+F 392 2 6 it 
+F 396 2 6 on 
+F 400 2 6 my 
+F 404 4 6 own 
+- 410
+F 412 2 6 This 
+F 416 2 6 goes 
+F 420 2 6 out 
+F 424 2 6 to 
+F 428 2 6 eve
+F 432 2 6 ry
+F 436 2 6 bo
+F 440 3 6 dy 
+- 444
+F 444 2 6 Cha
+F 448 2 6 sing 
+F 452 2 6 af
+F 456 2 6 ter 
+F 460 2 6 what 
+F 464 2 6 they 
+F 468 4 6 want 
+- 474
+F 476 2 6 It 
+F 480 2 6 don’t 
+F 484 2 6 mat
+F 488 2 6 ter 
+F 492 2 6 where 
+F 496 2 6 you’ve 
+F 500 3 6 been 
+- 504
+F 504 2 6 It 
+F 508 2 6 on
+F 512 2 6 ly 
+F 516 2 6 mat
+F 520 2 6 ters 
+F 524 2 6 where 
+F 528 2 6 you’re 
+F 532 2 6 go
+F 536 3 6 ing 
+- 540
+F 540 2 6 I 
+F 544 2 6 see 
+F 548 4 6 you 
+F 556 2 6 and 
+F 560 2 6 I 
+F 564 2 6 think 
+F 568 2 6 a
+F 572 2 6 bout 
+F 576 2 6 an 
+F 580 2 6 an
+F 584 2 6 gel 
+F 588 2 6 from 
+F 592 2 6 a
+F 596 4 6 bove 
+- 602
+F 604 2 6 But 
+F 608 2 6 they 
+F 612 2 6 keep 
+F 616 2 6 on 
+F 620 2 6 tel
+F 624 2 6 ling 
+F 628 2 6 me 
+F 632 2 6 it’s 
+F 636 2 6 pup
+F 640 2 6 py 
+F 644 8 6 love 
+- 654
+: 668 4 4 You 
+* 676 8 11 make 
+: 688 8 11 me 
+: 700 12 8 feel 
+: 720 2 4 like 
+: 724 2 11 eve
+: 728 2 11 ry
+: 732 2 11 thing 
+: 736 2 11 we 
+: 740 8 11 have 
+: 752 8 11 is 
+* 764 12 6 real 
+- 778
+: 788 2 -1 Eve
+: 792 2 -1 ry 
+: 796 2 -1 time 
+: 800 2 -1 I 
+: 804 8 -1 look 
+: 816 6 -1 at
+: 824 2 -4 ~ 
+: 828 12 -4 you 
+: 848 2 -1 it 
+: 852 4 -1 makes 
+: 860 4 -1 me 
+: 868 6 1 smile
+: 876 2 -1 ~
+: 880 18 1 ~
+: 900 4 -1 ~ 
+- 906
+: 940 2 4 I’ve 
+: 944 2 4 been 
+: 948 2 4 thin
+: 952 2 4 king 
+: 956 2 4 about 
+: 960 2 4 you 
+: 964 4 6 eve
+: 972 4 8 ry 
+: 980 8 8 night 
+- 990
+: 996 4 6 All 
+: 1004 4 8 the 
+: 1012 4 8 time 
+: 1020 4 4 can’t 
+: 1028 4 6 get 
+* 1036 4 8 you 
+: 1044 4 6 off 
+: 1052 2 4 my
+: 1056 2 1 ~ 
+* 1060 8 1 mind 
+- 1070
+: 1076 2 4 I 
+: 1080 2 4 just 
+: 1084 2 4 want 
+: 1088 2 4 to 
+: 1092 4 6 hold 
+: 1100 4 8 you 
+: 1108 8 8 tight 
+- 1118
+: 1124 4 6 Feels 
+: 1132 4 8 so 
+: 1140 4 8 right 
+: 1148 2 4 when 
+: 1152 2 4 I’ve 
+: 1156 4 6 got 
+: 1164 4 8 you 
+: 1172 4 6 by 
+: 1180 2 4 my
+: 1184 2 1 ~ 
+: 1188 8 1 side 
+- 1198
+: 1204 4 9 They 
+* 1212 12 8 say 
+: 1228 4 4 that 
+: 1236 4 8 we’re 
+: 1244 20 6 wrong 
+- 1266
+: 1272 2 6 And 
+: 1276 2 6 we 
+: 1280 2 4 don’t 
+: 1284 4 6 know 
+: 1292 4 8 what 
+: 1300 2 6 love
+: 1304 2 4 ~ 
+: 1308 8 4 is 
+- 1318
+: 1332 4 9 They 
+: 1340 12 8 say 
+: 1356 4 4 we’re 
+: 1364 4 8 too 
+: 1372 20 6 young 
+- 1394
+: 1404 2 6 But 
+: 1408 2 4 you’re 
+: 1412 2 6 ne
+: 1416 2 6 ver 
+* 1420 4 8 too 
+: 1428 2 6 young
+: 1432 2 4 ~ 
+: 1436 4 4 to 
+: 1444 8 4 fall 
+* 1460 4 9 in 
+* 1468 16 8 love 
+: 1492 2 8 in
+: 1496 2 6 ~ 
+* 1500 14 6 love
+: 1516 4 8 ~ 
+- 1522
+: 1536 2 6 You’re 
+: 1540 2 6 ne
+: 1544 2 6 ver 
+: 1548 4 8 too 
+: 1556 2 6 young
+: 1560 2 4 ~ 
+: 1564 4 4 to 
+: 1572 8 4 fall 
+: 1588 4 9 in 
+: 1596 16 8 love 
+: 1620 2 8 in
+: 1624 2 6 ~ 
+: 1628 14 6 love
+: 1644 4 8 ~ 
+- 1650
+: 1664 2 6 You’re 
+: 1668 2 6 ne
+: 1672 2 6 ver 
+* 1676 4 8 to 
+* 1684 2 6 young
+: 1688 2 4 ~ 
+: 1692 4 4 to 
+: 1700 8 4 fall 
+- 1710
+: 1716 4 9 (In 
+: 1724 16 8 love 
+: 1748 2 8 in
+: 1752 2 6 ~ 
+: 1756 14 6 love
+: 1772 4 8 ~) 
+- 1778
+F 1820 2 6 Have 
+F 1824 2 6 you 
+F 1828 2 6 e
+F 1832 2 6 ver 
+F 1836 2 6 had 
+F 1840 2 6 a 
+F 1844 4 6 dream 
+F 1852 4 6 where 
+- 1858
+F 1860 2 6 Things 
+F 1864 2 6 ain’t 
+F 1868 2 6 what 
+F 1872 2 6 they 
+F 1876 4 6 seem 
+F 1884 4 6 and 
+- 1890
+F 1892 2 6 Eve
+F 1896 2 6 ry
+F 1900 2 6 thing 
+F 1904 2 6 you 
+F 1908 2 6 want 
+F 1912 2 6 is 
+F 1916 2 6 right 
+F 1920 2 6 in 
+F 1924 2 6 front 
+F 1928 2 6 of 
+F 1932 4 6 you 
+- 1938
+F 1940 2 6 Stan
+F 1944 2 6 ding 
+F 1948 4 6 there 
+- 1954
+F 1956 2 6 Ho
+F 1960 2 6 ping 
+F 1964 2 6 and 
+F 1968 2 6 pra
+F 1972 2 6 ying 
+F 1976 2 6 that 
+F 1980 2 6 you 
+F 1984 2 6 can 
+F 1988 2 6 fi
+F 1992 2 6 nally 
+F 1996 2 6 make 
+F 2000 2 6 it 
+F 2004 4 6 be 
+- 2010
+F 2020 2 6 O
+F 2024 2 6 pen 
+F 2028 2 6 your 
+F 2032 4 6 eyes 
+F 2040 2 6 and 
+F 2044 2 6 rea
+F 2048 2 6 lize 
+F 2052 2 6 that 
+F 2056 2 6 it 
+F 2060 2 6 ain’t 
+F 2064 2 6 a 
+F 2068 4 6 dream 
+F 2076 4 6 and 
+- 2082
+F 2084 2 6 Eve
+F 2088 2 6 ry
+F 2092 2 6 thing 
+F 2096 2 6 you 
+F 2100 2 6 see 
+F 2104 2 6 here 
+F 2108 2 6 is 
+F 2112 2 6 the 
+F 2116 4 6 truth 
+F 2124 2 6 my 
+F 2128 2 6 re
+F 2132 2 6 a
+F 2136 2 6 li
+F 2140 4 6 ty 
+- 2146
+F 2148 4 6 Young 
+F 2156 2 6 but 
+F 2160 2 6 I’m 
+F 2164 2 6 go
+F 2168 2 6 ing 
+F 2172 2 6 for 
+F 2176 3 6 it 
+- 2180
+F 2180 2 6 Ha
+F 2184 2 6 ter’s 
+F 2188 2 6 gonna 
+F 2192 2 6 be 
+F 2196 2 6 mad 
+F 2200 2 6 at … 
+- 2203
+F 2204 2 6 I 
+F 2208 2 6 see 
+F 2212 4 6 you 
+F 2220 2 6 and 
+F 2224 2 6 I 
+F 2228 2 6 think 
+F 2232 2 6 a
+F 2236 2 6 bout 
+F 2240 2 6 an 
+F 2244 2 6 an
+F 2248 2 6 gel 
+F 2252 2 6 from 
+F 2256 2 6 a
+F 2260 7 6 bove 
+- 2268
+F 2268 2 6 I 
+F 2272 2 6 don’t 
+F 2276 2 6 care 
+F 2280 2 6 if 
+F 2284 2 6 they 
+F 2288 2 6 keep 
+F 2292 2 6 sa
+F 2296 2 6 ying 
+F 2300 2 6 pup
+F 2304 2 6 py 
+F 2308 8 6 love 
+- 2318
+: 2332 4 4 You 
+: 2340 8 11 make 
+: 2352 8 11 me 
+: 2364 12 8 feel 
+: 2384 2 4 like 
+: 2388 2 11 eve
+: 2392 2 11 ry
+: 2396 2 11 thing 
+: 2400 2 11 we 
+: 2404 8 11 have 
+: 2416 8 11 is 
+: 2428 12 6 real 
+- 2442
+: 2452 2 -1 Eve
+: 2456 2 -1 ry 
+: 2460 2 -1 time 
+: 2464 2 -1 I 
+* 2468 8 -1 look 
+* 2480 6 1 at
+: 2488 2 -4 ~ 
+: 2492 4 -4 you
+: 2498 6 -6 ~ 
+: 2512 2 4 it 
+: 2516 4 4 makes 
+: 2524 4 4 me 
+* 2532 6 6 smile
+* 2540 2 4 ~
+* 2544 18 6 ~
+* 2564 4 4 ~
+* 2570 20 8 ~
+* 2592 4 6 ~ 
+- 2598
+: 2604 2 4 I’ve 
+: 2608 2 4 been 
+: 2612 2 4 thin
+: 2616 2 4 king 
+: 2620 2 4 about 
+: 2624 2 4 you 
+: 2628 4 6 eve
+: 2636 4 8 ry 
+: 2644 8 8 night 
+- 2654
+: 2660 4 6 All 
+: 2668 4 8 the 
+: 2676 4 8 time 
+: 2684 4 4 can’t 
+: 2692 4 6 get 
+: 2700 4 8 you 
+: 2708 4 6 off 
+: 2716 2 4 my
+: 2720 2 1 ~ 
+: 2724 8 1 mind 
+- 2734
+: 2740 2 4 I 
+: 2744 2 4 just 
+: 2748 2 4 want 
+: 2752 2 4 to 
+: 2756 4 6 hold 
+: 2764 4 8 you 
+* 2772 8 8 tight 
+- 2782
+: 2788 4 6 Feels 
+: 2796 4 8 so 
+: 2804 4 8 right 
+: 2812 2 4 when 
+: 2816 2 4 I’ve 
+: 2820 4 6 got 
+: 2828 4 8 you 
+: 2836 4 6 by 
+: 2844 2 4 my
+: 2848 2 1 ~ 
+: 2852 8 1 side 
+- 2862
+: 2868 4 9 They 
+* 2876 12 8 say 
+: 2892 4 4 that 
+: 2900 4 8 we’re 
+: 2908 20 6 wrong 
+- 2930
+: 2936 2 6 And 
+: 2940 2 6 we 
+: 2944 2 4 don’t 
+: 2948 4 6 know 
+: 2956 4 8 what 
+: 2964 2 6 love
+: 2968 2 4 ~ 
+: 2972 8 4 is 
+- 2982
+: 2996 4 9 They 
+* 3004 12 8 say 
+: 3020 4 4 we’re 
+: 3028 4 8 too 
+: 3036 20 6 young 
+- 3058
+: 3068 2 6 But 
+: 3072 2 4 you’re 
+: 3076 2 6 ne
+: 3080 2 6 ver 
+: 3084 4 8 too 
+: 3092 2 6 young
+: 3096 2 4 ~ 
+: 3100 4 4 to 
+: 3108 8 4 fall 
+: 3124 4 9 in 
+: 3132 16 8 love 
+: 3156 2 8 in
+: 3160 2 6 ~ 
+: 3164 14 6 love
+: 3180 4 8 ~ 
+- 3186
+: 3200 2 6 You’re 
+: 3204 2 6 ne
+: 3208 2 6 ver 
+: 3212 4 8 too 
+: 3220 2 6 young
+: 3224 2 4 ~ 
+: 3228 4 4 to 
+: 3236 8 4 fall 
+: 3252 4 9 in 
+: 3260 16 8 love 
+: 3284 2 8 in
+: 3288 2 6 ~ 
+: 3292 14 6 love
+: 3308 4 8 ~ 
+- 3314
+: 3328 2 6 You’re 
+: 3332 2 6 ne
+: 3336 2 6 ver 
+* 3340 4 8 to 
+: 3348 2 6 young
+: 3352 2 4 ~ 
+: 3356 4 4 to 
+- 3362
+F 3364 4 6 Hey, 
+F 3372 4 6 hey, 
+F 3380 4 6 hey, 
+F 3388 4 6 hey 
+- 3394
+F 3396 2 6 What’s 
+F 3400 2 6 up 
+F 3404 2 6 with 
+F 3408 2 6 that 
+F 3412 8 6 hate 
+- 3422
+F 3428 2 6 Why 
+F 3432 2 6 you 
+F 3436 2 6 al
+F 3440 2 6 ways 
+F 3444 2 6 trip
+F 3448 2 6 pin’ 
+F 3452 2 6 eve
+F 3456 2 6 ry 
+F 3460 2 6 time 
+F 3464 2 6 you 
+F 3468 2 6 come 
+F 3472 2 6 my 
+F 3476 8 6 way 
+- 3486
+F 3492 2 6 Eve
+F 3496 2 6 ry 
+F 3500 2 6 time 
+F 3504 2 6 I 
+F 3508 2 6 come 
+F 3512 2 6 a
+F 3516 2 6 round 
+F 3520 2 6 you 
+F 3524 2 6 try 
+F 3528 2 6 to 
+F 3532 2 6 bring 
+F 3536 2 6 me 
+F 3540 7 6 down 
+- 3548
+F 3548 2 6 I 
+F 3552 2 6 don’t 
+F 3556 2 6 get 
+F 3560 2 6 why 
+F 3564 2 6 you 
+F 3568 2 6 are 
+F 3572 2 6 so 
+F 3576 2 6 in
+F 3580 2 6 fa
+F 3584 2 6 tu
+F 3588 2 6 a
+F 3592 2 6 ted 
+F 3596 2 6 with 
+F 3600 2 6 me 
+F 3604 8 6 now 
+- 3614
+F 3620 4 6 Hair 
+F 3628 4 6 long 
+F 3636 4 6 curl 
+F 3644 4 6 (curl) 
+- 3650
+F 3652 2 6 You 
+F 3656 2 6 my 
+F 3660 2 6 fa
+F 3664 2 6 vorite 
+F 3668 4 6 girl 
+F 3676 4 6 (girl) 
+- 3682
+F 3684 2 6 Hang 
+F 3688 2 6 a
+F 3692 2 6 round 
+F 3696 2 6 with 
+F 3700 2 6 me 
+F 3704 2 6 and 
+F 3708 2 6 may
+F 3712 2 6 be 
+F 3716 2 6 we 
+F 3720 2 6 can 
+F 3724 2 6 change 
+F 3728 2 6 the 
+F 3732 8 6 world 
+- 3742
+F 3748 2 6 You’re 
+F 3752 2 6 my 
+F 3756 2 6 fa
+F 3760 2 6 vorite 
+F 3764 2 6 me
+F 3768 2 6 lo
+F 3772 2 6 dy 
+F 3776 2 6 the 
+F 3780 2 6 rea
+F 3784 2 6 son 
+F 3788 2 6 for 
+F 3792 2 6 my 
+F 3796 7 6 song 
+- 3804
+F 3804 2 6 We 
+F 3808 2 6 won’t 
+F 3812 2 6 let 
+F 3816 2 6 no
+F 3820 2 6 bo
+F 3824 2 6 dy 
+F 3828 2 6 tell 
+F 3832 2 6 us 
+F 3836 2 6 we’re 
+F 3840 2 6 too 
+F 3844 8 6 young 
+F 3860 4 6 ch
+F 3868 8 6 yeah 
+- 3878
+: 4140 2 4 I’ve 
+: 4144 2 4 been 
+: 4148 2 4 thin
+: 4152 2 4 king 
+: 4156 2 4 about 
+: 4160 2 4 you 
+: 4164 4 6 eve
+: 4172 4 8 ry 
+* 4180 8 8 night 
+- 4190
+: 4196 4 6 All 
+: 4204 4 8 the 
+: 4212 4 8 time 
+: 4220 4 4 can’t 
+: 4228 4 6 get 
+: 4236 4 8 you 
+: 4244 4 6 off 
+: 4252 2 4 my
+: 4256 2 1 ~ 
+: 4260 8 1 mind 
+- 4270
+: 4276 2 4 I 
+: 4280 2 4 just 
+: 4284 2 4 want 
+: 4288 2 4 to 
+: 4292 4 6 hold 
+: 4300 4 8 you 
+* 4308 8 8 tight 
+- 4318
+: 4324 4 6 Feels 
+: 4332 4 8 so 
+: 4340 4 8 right 
+: 4348 2 4 when 
+: 4352 2 4 I’ve 
+: 4356 4 6 got 
+: 4364 4 8 you 
+: 4372 4 6 by 
+: 4380 2 4 my
+: 4384 2 1 ~ 
+: 4388 8 1 side 
+- 4398
+: 4404 4 9 They 
+: 4412 12 8 say 
+: 4428 4 4 that 
+: 4436 4 8 we’re 
+: 4444 20 6 wrong 
+- 4466
+: 4472 2 6 And 
+: 4476 2 6 we 
+: 4480 2 4 don’t 
+* 4484 4 6 know 
+: 4492 4 8 what 
+: 4500 2 6 love
+: 4504 2 4 ~ 
+: 4508 8 4 is 
+- 4518
+: 4532 4 9 They 
+: 4540 12 8 say 
+: 4556 4 4 we’re 
+: 4564 4 8 too 
+: 4572 20 6 young 
+- 4594
+: 4604 2 6 But 
+: 4608 2 4 you’re 
+: 4612 2 6 ne
+: 4616 2 6 ver 
+: 4620 4 8 too 
+: 4628 2 6 young
+: 4632 2 4 ~ 
+: 4636 4 4 to 
+: 4644 8 4 fall 
+* 4660 4 9 in 
+* 4668 16 8 love 
+: 4692 2 8 in
+: 4696 2 6 ~ 
+: 4700 14 6 love
+: 4716 4 8 ~ 
+- 4722
+: 4736 2 6 You’re 
+: 4740 2 6 ne
+: 4744 2 6 ver 
+: 4748 4 8 too 
+: 4756 2 6 young
+: 4760 2 4 ~ 
+: 4764 4 4 to 
+: 4772 8 4 fall 
+: 4788 4 9 in 
+: 4796 16 8 love 
+: 4820 2 8 in
+: 4824 2 6 ~ 
+: 4828 14 6 love
+: 4844 4 8 ~ 
+- 4850
+: 4864 2 6 You’re 
+: 4868 2 6 ne
+: 4872 2 6 ver 
+* 4876 4 8 to 
+: 4884 2 6 young
+: 4888 2 4 ~ 
+: 4892 4 4 to 
+: 4900 4 4 fall 
+- 4906
+: 4908 2 6 Fall
+: 4912 2 4 ~
+: 4916 2 1 ~
+* 4920 14 4 ~
+* 4936 14 8 ~
+* 4952 4 6 ~ 
+- 4958
+: 4980 2 4 Ne
+: 4984 2 4 ver 
+: 4988 4 4 to 
+: 4996 4 6 young 
+: 5004 4 4 to 
+: 5012 4 3 fall 
+: 5020 2 3 in 
+: 5024 2 3 love
+: 5028 20 1 ~, 
+: 5052 8 -1 no 
+- 5062
+: 5104 2 -6 No
+: 5108 14 -4 ~
+: 5124 4 -6 ~ 
+E

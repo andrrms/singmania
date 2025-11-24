@@ -1,0 +1,877 @@
+#ARTIST:Action Bronson feat. Chance The Rapper
+#TITLE:Baby Blue
+#MP3:Action Bronson feat. Chance The Rapper - Baby Blue.mp3
+#CREATOR:gun8
+#GENRE:Hip-Hop
+#YEAR:2015
+#LANGUAGE:English
+#BPM:340.23
+#GAP:43080
+#VIDEO:v=bVP_w1rQweE,co=https://grmdaily.com/wp-content/uploads/2020/10/babyblue.jpg,bg=bronson-action-501eab3c18735.jpg
+#START:37.329
+#END:332000
+: 0 7 8 Why 
+: 8 7 8 you 
+: 16 7 8 al
+: 24 7 8 ways 
+: 32 7 8 all 
+: 40 7 8 on 
+: 48 7 8 my 
+: 56 7 8 ba
+* 64 6 6 ~ck? 
+- 72
+: 88 8 4 Ah 
+- 98
+: 128 7 8 Why 
+: 136 7 8 you 
+: 144 7 8 got
+: 152 7 8 ta 
+: 160 7 8 do 
+: 168 7 8 me 
+: 176 7 8 like 
+: 184 7 8 tha
+: 192 8 6 ~t? 
+- 202
+: 216 8 4 Ah 
+- 226
+: 256 7 8 Why 
+: 264 7 8 you 
+: 272 7 8 got
+: 280 7 8 ta 
+: 288 7 8 act 
+: 296 7 8 like 
+: 304 7 8 a 
+F 312 8 8 bitch 
+- 322
+: 352 7 1 When 
+: 360 7 3 I’m 
+: 368 7 4 with 
+: 376 16 8 you? 
+- 394
+: 448 12 6 Ba
+: 464 12 5 by 
+: 480 12 6 girl 
+: 496 12 8 I’m 
+: 512 12 8 blue 
+- 526
+F 534 3 3 Be
+F 538 5 3 cause 
+F 544 3 3 you 
+F 548 3 3 treat 
+F 552 3 3 me 
+F 556 7 3 like 
+F 564 8 3 shit 
+- 574
+F 580 5 3 I 
+F 586 5 3 paid 
+F 592 3 3 for 
+F 596 5 3 the 
+F 602 3 3 bed 
+- 606
+F 608 3 3 And 
+F 612 3 3 ne
+F 616 1 3 ver 
+F 618 3 3 e
+F 622 3 3 ven 
+F 626 7 3 slept 
+F 634 3 3 in 
+F 638 3 3 it 
+- 642
+F 644 5 3 I 
+F 650 5 3 paid 
+F 656 3 3 for 
+F 660 5 3 that 
+F 666 3 3 crib 
+- 670
+F 672 3 3 I 
+F 676 2 3 ne
+F 679 2 3 ver 
+F 682 7 3 stepped 
+F 690 7 3 foot 
+F 698 7 3 in 
+- 706
+F 708 5 3 And 
+F 714 3 3 now 
+F 718 3 3 some
+F 722 5 3 bo
+F 728 3 3 dy 
+F 732 1 3 else 
+- 734
+F 736 3 3 Is 
+F 740 3 3 ea
+F 744 3 3 ting 
+F 748 3 3 all 
+F 752 3 3 the 
+F 756 3 3 pud
+F 760 8 3 ding 
+- 770
+F 778 7 3 Things 
+F 786 5 3 change 
+- 792
+F 794 3 3 Now 
+F 798 3 3 my 
+F 802 7 3 dash
+F 810 7 3 board 
+F 818 3 3 woo
+F 822 8 3 den 
+- 832
+F 836 5 3 All 
+F 842 7 3 black 
+F 850 7 3 Benz 
+- 858
+F 860 3 3 Like 
+F 864 3 3 a 
+F 868 7 3 young 
+F 876 7 3 Doc 
+F 884 3 3 Goo
+F 888 4 3 den 
+- 894
+F 904 7 3 Dark 
+F 912 7 3 shades 
+- 920
+F 922 3 3 ’Cause 
+F 926 3 3 I’m 
+F 930 7 3 stone 
+F 938 7 3 cra
+F 946 7 3 zy 
+F 954 3 3 girl 
+- 958
+F 960 3 3 We 
+F 964 5 3 grown 
+- 970
+F 972 7 3 Stop 
+F 980 3 3 play
+F 984 3 3 ing 
+F 988 1 3 on 
+F 990 4 3 my 
+F 995 2 3 phone 
+- 998
+F 1000 7 3 Ba
+F 1008 5 3 by 
+- 1014
+F 1016 5 3 All 
+F 1022 5 3 your 
+F 1028 5 3 chil
+F 1034 3 3 dish 
+F 1038 3 3 at
+F 1042 3 3 tempts 
+- 1046
+F 1048 3 3 To 
+F 1052 3 3 make 
+F 1056 3 3 me 
+F 1060 3 3 an
+F 1064 3 3 gry 
+F 1068 7 3 fall 
+F 1076 8 3 short 
+- 1086
+F 1088 3 3 Which 
+F 1092 3 3 on
+F 1096 3 3 ly 
+F 1100 5 3 fuels 
+F 1106 3 3 the 
+F 1110 5 3 rage 
+F 1116 3 3 you 
+F 1120 5 3 have 
+- 1126
+F 1128 3 3 Be
+F 1132 3 3 cause 
+F 1136 3 3 you 
+F 1140 3 3 have 
+F 1144 7 3 no
+F 1152 7 3 thing 
+- 1160
+F 1162 3 3 Un
+F 1166 3 3 der
+F 1170 5 3 stan
+F 1176 3 3 da
+F 1180 1 3 ble 
+- 1182
+F 1184 3 3 I’m 
+F 1188 3 3 shi
+F 1192 3 3 ning 
+F 1196 3 3 bril
+F 1200 3 3 liant 
+F 1204 5 3 with 
+F 1210 5 3 five 
+F 1216 3 3 Bra
+F 1220 5 3 zil
+F 1226 6 3 ians 
+- 1234
+F 1244 3 3 There 
+F 1248 3 3 were 
+F 1252 3 3 times 
+F 1256 3 3 I 
+F 1260 3 3 used 
+F 1264 3 3 to 
+F 1268 3 3 hide 
+F 1272 5 3 my 
+F 1278 5 3 fee
+F 1284 8 3 lings 
+- 1294
+F 1296 5 3 Now 
+F 1302 5 3 I’m 
+F 1308 5 3 butt 
+F 1314 5 3 na
+F 1320 2 3 ked 
+F 1323 2 3 in 
+F 1326 1 3 the 
+F 1328 7 3 Lam
+F 1336 3 3 bor
+F 1340 3 3 ghi
+F 1344 4 3 ni 
+- 1349
+F 1351 3 3 And 
+F 1355 3 3 mo
+F 1359 3 3 ther
+F 1363 3 3 fuc
+F 1367 3 3 kers 
+F 1371 7 3 can’t 
+F 1379 7 3 see 
+F 1387 8 3 me 
+- 1397
+F 1400 3 3 Wait 
+F 1404 3 3 ’til 
+F 1408 3 3 this 
+F 1412 7 3 chick 
+F 1420 3 3 see 
+F 1424 3 3 me 
+F 1428 7 3 on 
+F 1436 3 3 T
+F 1440 4 3 V 
+- 1446
+F 1448 3 3 I 
+F 1452 5 3 make 
+F 1458 3 3 the 
+F 1462 5 3 shit 
+F 1468 7 3 look 
+F 1476 3 3 ea
+F 1480 8 3 sy 
+- 1490
+: 1536 7 8 Why 
+: 1544 7 8 you 
+: 1552 7 8 al
+: 1560 7 8 ways 
+: 1568 7 8 all 
+: 1576 7 8 on 
+: 1584 7 8 my 
+: 1592 7 8 ba
+* 1600 6 6 ~ck? 
+- 1608
+: 1624 8 4 Ah 
+- 1634
+: 1664 7 8 Why 
+: 1672 7 8 you 
+: 1680 7 8 got
+: 1688 7 8 ta 
+: 1696 7 8 do 
+: 1704 7 8 me 
+: 1712 7 8 like 
+: 1720 7 8 tha
+: 1728 8 6 ~t? 
+- 1738
+: 1752 8 4 Ah 
+- 1762
+: 1792 7 8 Why 
+: 1800 7 8 you 
+: 1808 7 8 got
+: 1816 7 8 ta 
+: 1824 7 8 act 
+: 1832 7 8 like 
+: 1840 7 8 a 
+: 1848 8 8 bitch 
+- 1858
+: 1888 7 1 When 
+* 1896 7 3 I’m 
+: 1904 7 4 with 
+: 1912 16 8 you? 
+- 1930
+: 1984 12 6 Ba
+: 2000 12 5 by 
+: 2016 12 6 girl 
+* 2032 12 8 I’m 
+: 2048 12 8 blue 
+- 2062
+F 2068 7 8 So 
+F 2076 3 3 ma
+F 2080 3 3 ny 
+F 2084 3 3 wo
+F 2088 3 3 men 
+F 2092 3 3 wan
+F 2096 3 3 na 
+F 2100 3 3 call 
+F 2104 3 3 me 
+F 2108 3 3 ba
+F 2112 4 3 by 
+- 2118
+F 2124 3 3 And 
+F 2128 3 3 you 
+F 2132 3 3 won
+F 2136 3 3 der 
+F 2140 3 3 why 
+F 2144 3 3 the 
+F 2148 1 3 fuck 
+- 2150
+F 2152 3 3 That 
+F 2156 3 3 I 
+F 2160 3 3 ain’t 
+F 2164 3 3 call 
+F 2168 3 3 you 
+F 2172 3 3 late
+F 2176 4 3 ly 
+- 2182
+F 2188 3 3 Some 
+F 2192 3 3 would 
+F 2196 5 3 say 
+F 2202 1 3 that 
+- 2204
+F 2206 3 3 I’m 
+F 2210 3 3 the 
+F 2214 3 3 sym
+F 2218 3 3 bol 
+F 2222 4 3 for 
+F 2228 4 3 sex 
+F 2236 3 3 and 
+F 2240 4 3 uh 
+- 2246
+F 2248 3 3 O
+F 2252 3 3 thers 
+F 2256 3 3 would 
+F 2260 3 3 hate 
+- 2264
+F 2266 3 3 But 
+F 2270 3 3 I 
+F 2274 3 3 don’t 
+F 2278 3 3 give
+F 2282 3 3 ’em 
+F 2286 4 3 no 
+F 2292 6 3 breath 
+- 2300
+F 2312 3 3 Go 
+F 2316 3 3 on 
+F 2320 3 3 a 
+F 2324 1 3 date 
+- 2326
+F 2328 3 3 I’m 
+F 2332 3 3 at 
+F 2336 3 3 the 
+F 2340 3 3 crib 
+F 2344 3 3 with 
+F 2348 3 3 the 
+F 2352 7 3 chef 
+F 2360 7 3 and 
+F 2368 8 3 uh 
+- 2378
+F 2384 7 3 That’s 
+F 2392 8 3 me 
+- 2402
+F 2408 3 3 And 
+F 2412 3 3 you 
+F 2416 3 3 could 
+F 2420 3 3 or
+F 2424 3 3 der 
+F 2428 3 3 what
+F 2432 7 3 e
+F 2440 5 3 ver 
+- 2446
+F 2448 3 3 The 
+F 2452 3 3 spe
+F 2456 3 3 cial
+F 2460 3 3 ty 
+F 2464 3 3 is 
+F 2468 3 3 white 
+F 2472 5 3 snake 
+- 2478
+F 2480 3 3 And 
+F 2484 3 3 un
+F 2488 3 3 der
+F 2492 7 3 wear 
+F 2500 5 3 sauce 
+- 2506
+F 2508 3 3 You 
+F 2512 3 3 could 
+F 2516 3 3 pro
+F 2520 1 3 ba
+F 2522 1 3 bly 
+F 2524 3 3 catch 
+F 2528 3 3 me 
+F 2532 3 3 some
+F 2536 1 3 where 
+- 2538
+F 2540 3 3 Where 
+F 2544 3 3 the 
+F 2548 3 3 sun 
+F 2552 3 3 is 
+F 2556 4 3 next 
+- 2562
+F 2870 3 3 And 
+F 2874 3 3 I 
+F 2878 3 3 un
+F 2882 3 3 der
+F 2886 1 3 stand 
+- 2888
+F 2890 3 3 That’s 
+F 2894 3 3 on
+F 2898 3 3 ly 
+F 2902 3 3 ’cause 
+F 2906 3 3 I’m 
+F 2910 5 3 po
+F 2916 3 3 pu
+F 2920 4 3 lar 
+- 2926
+F 2928 3 3 I’m 
+F 2932 3 3 get
+F 2936 3 3 ting 
+F 2940 7 3 topped 
+F 2948 1 3 off 
+- 2950
+F 2952 3 3 In 
+F 2956 3 3 the 
+F 2960 3 3 front 
+F 2964 3 3 row 
+F 2968 3 3 of 
+F 2972 3 3 the 
+F 2976 3 3 o
+F 2980 3 3 pe
+F 2984 4 3 ra 
+- 2990
+F 2992 3 3 As 
+F 2996 7 3 Bo
+F 3004 3 3 cel
+F 3008 3 3 li 
+F 3012 7 3 sings 
+F 3020 3 3 the 
+F 3024 3 3 cel
+F 3028 3 3 ly 
+F 3032 4 3 rings 
+- 3038
+F 3044 3 3 I 
+F 3048 3 3 got
+F 3052 3 3 ta 
+F 3056 1 3 go 
+- 3058
+F 3060 3 3 You’ll 
+F 3064 3 3 ne
+F 3068 3 3 ver 
+F 3072 3 3 know 
+F 3076 3 3 how 
+F 3080 1 3 good 
+F 3082 3 3 it 
+F 3086 1 3 feels 
+- 3088
+F 3090 3 3 To 
+F 3094 3 3 lay 
+F 3098 3 3 in 
+F 3102 3 3 bed 
+F 3106 3 3 with 
+F 3110 8 3 king 
+- 3120
+F 3132 3 3 I’m 
+F 3136 3 3 not 
+F 3140 3 3 ex
+F 3144 3 3 act
+F 3148 3 3 ly 
+F 3152 3 3 flaw
+F 3156 1 3 less 
+- 3158
+F 3160 3 3 But 
+F 3164 3 3 I’m 
+F 3168 3 3 gor
+F 3172 4 3 geous 
+- 3178
+F 3186 3 3 Just 
+F 3190 3 3 like 
+F 3194 3 3 a 
+F 3198 7 3 horse 
+F 3206 8 3 is 
+- 3216
+F 3218 3 3 I 
+F 3222 3 3 know 
+F 3226 3 3 the 
+F 3230 3 3 thought 
+F 3234 3 3 of 
+F 3238 3 3 me 
+F 3242 3 3 suc
+F 3246 3 3 cee
+F 3250 1 3 ding 
+- 3252
+F 3254 3 3 Makes 
+F 3258 3 3 a 
+F 3262 3 3 lot 
+F 3266 3 3 of 
+F 3270 3 3 peo
+F 3274 3 3 ple 
+F 3278 5 3 nau
+F 3284 3 3 se
+F 3288 4 3 ous 
+- 3294
+F 3296 3 3 Still 
+F 3300 3 3 I’m 
+F 3304 3 3 on 
+F 3308 3 3 the 
+F 3312 3 3 back 
+F 3316 3 3 of 
+F 3320 3 3 the 
+F 3324 8 3 boat 
+- 3334
+F 3336 3 3 Ta
+F 3340 3 3 king 
+F 3344 3 3 pic
+F 3348 3 3 tures 
+F 3352 3 3 with 
+F 3356 3 3 the 
+F 3360 7 3 sword
+F 3368 1 3 fish 
+- 3370
+: 3372 7 8 Why 
+* 3380 7 8 you 
+* 3388 7 8 al
+: 3396 7 8 ways 
+: 3404 7 8 all 
+: 3412 7 8 on 
+: 3420 7 8 my 
+: 3428 7 8 ba
+* 3436 6 6 ~ck? 
+- 3444
+: 3460 8 4 Ah 
+- 3470
+: 3500 7 8 Why 
+: 3508 7 8 you 
+: 3516 7 8 got
+: 3524 7 8 ta 
+: 3532 7 8 do 
+: 3540 7 8 me 
+: 3548 7 8 like 
+: 3556 7 8 tha
+: 3564 8 6 ~t? 
+- 3574
+: 3588 8 4 Ah 
+- 3598
+: 3628 7 8 Why 
+* 3636 7 8 you 
+: 3644 7 8 got
+: 3652 7 8 ta 
+: 3660 7 8 act 
+: 3668 7 8 like 
+: 3676 7 8 a 
+F 3684 8 8 bitch 
+- 3694
+: 3724 7 1 When 
+* 3732 7 3 I’m 
+: 3740 7 4 with 
+: 3748 16 8 you? 
+- 3766
+: 3820 12 6 Ba
+: 3836 12 5 by 
+: 3852 12 6 girl 
+: 3868 12 8 I’m 
+: 3884 11 8 blue 
+- 3896
+F 3898 1 3 … Get 
+F 3900 3 3 a 
+F 3904 3 3 pa
+F 3908 3 3 per 
+F 3912 4 3 cut 
+F 3932 3 3 on 
+F 3936 3 3 your 
+F 3940 5 3 tongue 
+- 3946
+F 3948 3 3 From 
+F 3952 3 3 a 
+F 3956 3 3 ra
+F 3960 3 3 zor 
+F 3964 1 3 in 
+F 3966 1 3 a 
+F 3968 3 3 pa
+F 3972 3 3 per 
+F 3976 4 3 cup 
+- 3982
+F 3992 3 3 I 
+F 3996 3 3 hope 
+F 4000 3 3 eve
+F 4004 3 3 ry 
+F 4008 1 3 so
+F 4010 3 3 da 
+F 4014 3 3 you 
+F 4018 1 3 drink 
+- 4020
+F 4022 3 3 Al
+F 4026 3 3 rea
+F 4030 3 3 dy 
+F 4034 3 3 sha
+F 4038 3 3 ken 
+F 4042 4 3 up 
+- 4048
+F 4054 3 3 I 
+F 4058 3 3 hope 
+F 4062 3 3 your 
+F 4066 7 3 dreams 
+F 4074 1 3 dry 
+- 4076
+F 4078 3 3 Like 
+F 4082 3 3 rai
+F 4086 3 3 sins 
+F 4090 1 3 in 
+F 4092 3 3 the 
+F 4096 3 3 ba
+F 4100 3 3 king 
+F 4104 6 3 sun 
+- 4112
+F 4122 3 3 I 
+F 4126 3 3 hope 
+F 4130 3 3 your 
+F 4134 1 3 tit
+F 4136 3 3 ties 
+F 4140 3 3 all 
+F 4144 7 3 sag
+F 4152 1 3 gy 
+- 4154
+F 4155 2 3 In 
+F 4158 3 3 your 
+F 4162 3 3 ear
+F 4166 3 3 ly 
+F 4170 3 3 twen
+F 4174 7 3 ties 
+- 4182
+F 4184 3 3 I 
+F 4188 3 3 hope 
+F 4192 3 3 there’s 
+F 4196 3 3 al
+F 4200 4 3 ways 
+F 4212 5 3 snow 
+F 4218 3 3 in 
+F 4222 3 3 your 
+F 4226 5 3 drive 
+F 4232 4 3 way 
+- 4238
+F 4264 3 3 I 
+F 4268 3 3 hope 
+F 4272 3 3 you 
+F 4276 3 3 ne
+F 4280 3 3 ver 
+F 4284 3 3 get 
+F 4288 3 3 off 
+F 4292 5 3 Fri
+F 4298 1 3 days 
+- 4300
+F 4302 3 3 And 
+F 4306 3 3 you 
+F 4310 3 3 work 
+F 4314 1 3 at 
+F 4316 3 3 a 
+F 4320 5 3 Fri
+F 4326 1 3 day’s 
+- 4328
+F 4330 3 3 That’s 
+F 4334 3 3 al
+F 4338 3 3 ways 
+F 4342 3 3 bu
+F 4346 3 3 sy 
+F 4350 3 3 on 
+F 4354 5 3 Fri
+F 4360 4 3 days 
+- 4366
+F 4382 3 3 I 
+F 4386 3 3 hope 
+F 4390 3 3 you 
+F 4394 1 3 win 
+F 4396 1 3 the 
+F 4398 5 3 lot
+F 4404 3 3 te
+F 4408 1 3 ry 
+- 4410
+F 4412 3 3 And 
+F 4416 3 3 lose 
+F 4420 3 3 your 
+F 4424 3 3 tic
+F 4428 4 3 ket 
+- 4434
+F 4438 3 3 I 
+F 4442 3 3 hope 
+F 4446 3 3 it’s 
+F 4450 3 3 Ben 
+F 4454 3 3 and 
+F 4458 3 3 So
+F 4462 3 3 cra
+F 4466 1 3 tes 
+- 4468
+F 4470 3 3 Poop 
+F 4474 3 3 all 
+F 4478 3 3 up 
+F 4482 3 3 in 
+F 4486 3 3 your 
+F 4490 3 3 kit
+F 4494 4 3 chen 
+- 4500
+F 4508 3 3 I 
+F 4512 3 3 hope 
+F 4516 3 3 the 
+F 4520 3 3 zip
+F 4524 3 3 per 
+F 4528 1 3 on 
+F 4530 1 3 your 
+F 4532 7 3 jac
+F 4540 3 3 ket 
+F 4544 1 3 get 
+F 4546 6 3 stuck 
+- 4554
+F 4558 1 3 And 
+F 4560 3 3 your 
+F 4564 3 3 head
+F 4568 7 3 phones 
+F 4576 6 3 short 
+- 4584
+F 4588 1 3 And 
+F 4590 3 3 your 
+F 4594 5 3 char
+F 4600 3 3 ger 
+F 4604 3 3 don’t 
+F 4608 4 3 work 
+- 4614
+F 4616 3 3 And 
+F 4620 3 3 you 
+F 4624 3 3 spill 
+F 4628 3 3 shit 
+F 4632 3 3 on 
+F 4636 3 3 your 
+F 4640 7 3 shirt 
+- 4648
+F 4650 3 3 I 
+F 4654 3 3 hope 
+F 4658 3 3 your 
+F 4662 5 3 tears 
+F 4668 5 3 don’t 
+F 4674 5 3 hurt 
+- 4680
+F 4682 3 3 And 
+F 4686 3 3 I 
+F 4690 3 3 can 
+F 4694 3 3 smile 
+F 4698 3 3 in 
+F 4702 3 3 your 
+F 4706 7 3 face 
+- 4714
+F 4716 3 3 Cut 
+F 4720 3 3 my 
+F 4724 3 3 los
+F 4728 1 3 ses 
+- 4730
+F 4732 3 3 How 
+F 4736 1 3 De
+F 4738 3 3 li
+F 4742 1 3 lah 
+F 4744 5 3 changed 
+F 4750 5 3 my 
+F 4756 5 3 locks 
+F 4762 3 3 to 
+F 4766 1 3 a 
+F 4768 5 3 fade 
+- 4774
+F 4776 3 3 I 
+F 4780 3 3 hope 
+F 4784 3 3 you 
+F 4788 3 3 hap
+F 4792 1 3 py 
+- 4794
+F 4796 3 3 I 
+F 4800 3 3 hope 
+F 4804 3 3 you 
+F 4808 3 3 hap
+F 4812 3 3 py 
+- 4816
+F 4818 3 3 I 
+F 4822 3 3 hope 
+F 4826 1 3 you 
+F 4828 3 3 ru
+F 4832 1 3 ined 
+F 4834 3 3 this 
+F 4838 3 3 shit 
+F 4842 3 3 for 
+F 4846 1 3 a 
+F 4848 3 3 rea
+F 4852 4 3 son 
+- 4858
+F 4864 3 3 I 
+F 4868 3 3 hope 
+F 4872 3 3 you 
+F 4876 3 3 hap
+F 4880 4 3 py 
+- 4886
+F 4902 6 3 Igh! 
+- 4909
+: 4911 7 8 Why 
+: 4919 7 8 you 
+: 4927 7 8 al
+: 4935 7 8 ways 
+: 4943 7 8 all 
+: 4951 7 8 on 
+: 4959 7 8 my 
+: 4967 7 8 ba
+: 4975 6 6 ~ck? 
+- 4983
+: 4999 8 4 Ah 
+- 5009
+: 5039 7 8 Why 
+* 5047 7 8 you 
+: 5055 7 8 got
+: 5063 7 8 ta 
+: 5071 7 8 do 
+: 5079 7 8 me 
+: 5087 7 8 like 
+: 5095 7 8 tha
+: 5103 8 6 ~t? 
+- 5113
+* 5127 8 4 Ah 
+- 5137
+: 5167 7 8 Why 
+: 5175 7 8 you 
+: 5183 7 8 got
+: 5191 7 8 ta 
+: 5199 7 8 act 
+: 5207 7 8 like 
+: 5215 7 8 a 
+F 5223 8 8 bitch 
+- 5233
+: 5263 7 1 When 
+: 5271 7 3 I’m 
+: 5279 7 4 with 
+: 5287 16 8 you? 
+- 5305
+: 5359 12 6 Ba
+: 5375 12 5 by 
+: 5391 12 6 girl 
+: 5407 12 8 I’m 
+: 5423 12 8 blue 
+- 5437
+: 5454 7 8 La 
+: 5462 7 11 la 
+: 5470 7 8 la 
+: 5478 7 8 la
+: 5486 16 6 ~ 
+- 5504
+: 5520 7 1 La 
+: 5528 7 4 la 
+: 5536 7 1 la 
+: 5544 14 8 la 
+- 5560
+: 5584 7 8 La 
+: 5592 7 11 la 
+: 5600 7 8 la 
+: 5608 7 8 la
+: 5616 12 6 ~ 
+- 5630
+: 5648 7 1 La
+: 5656 7 4 la
+: 5664 7 1 la
+: 5672 20 8 la 
+- 5694
+: 5712 7 8 La
+: 5720 7 11 la
+: 5728 7 8 la 
+: 5736 7 8 la
+: 5744 16 6 ~ 
+- 5762
+: 5776 7 1 La 
+: 5784 7 4 la 
+* 5792 7 1 la 
+: 5800 24 8 la 
+E

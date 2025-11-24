@@ -1,0 +1,167 @@
+#ARTIST:Disney’s Hercules (Roger Bart)
+#TITLE:Go The Distance
+#MP3:Disney’s Hercules (Roger Bart) - Go The Distance.mp3
+#CREATOR:aikar
+#GENRE:Soundtrack
+#YEAR:1997
+#LANGUAGE:English
+#BPM:360
+#GAP:28380
+#VIDEO:v=zgnHF2CwrPs,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/fc/a0/83fca0de-3758-68b0-db57-54502348c25d/18UMGIM43242.rgb.jpg/5000x5000bb.jpg
+: 0 3 -3 I 
+: 4 3 4 have 
+: 8 11 6 of
+: 20 11 4 ten 
+: 32 16 1 dreamed 
+- 50
+: 64 3 -3 Of 
+: 68 3 4 a 
+: 72 12 6 far-
+: 88 12 4 off 
+: 104 12 1 place 
+- 118
+: 128 3 -3 Where 
+: 132 3 4 a 
+: 136 12 6 great 
+: 152 11 8 warm 
+: 164 7 9 wel
+: 172 8 4 come 
+- 182
+: 192 7 1 Will 
+: 200 3 -3 be 
+: 204 12 1 wai
+: 224 3 2 ting 
+: 228 3 1 for 
+: 232 12 -1 me. 
+- 246
+: 260 3 -3 Where 
+: 264 3 4 the 
+: 268 11 6 crowds 
+: 280 7 4 will 
+: 288 12 1 cheer 
+- 302
+: 320 3 9 When 
+: 324 3 8 they 
+: 328 12 6 see 
+: 344 7 4 my 
+: 352 12 1 face 
+- 366
+: 380 3 -3 And 
+: 384 3 4 a 
+: 388 12 6 voice 
+: 404 7 8 keeps 
+: 412 7 9 say
+: 420 8 6 ing 
+- 430
+: 440 3 9 This 
+: 444 7 11 is 
+: 452 8 13 where 
+: 464 3 14 I’m 
+: 468 8 13 meant 
+: 480 3 14 to 
+: 484 20 11 be. 
+- 506
+: 540 3 13 I 
+: 544 3 14 will 
+: 548 12 16 find 
+: 564 7 9 my 
+: 572 20 11 way 
+- 594
+: 612 4 13 I 
+: 620 3 11 can 
+: 624 7 13 go 
+: 632 3 14 the 
+: 636 7 13 dis
+: 644 12 11 tance. 
+- 658
+: 668 3 13 I’ll 
+: 672 3 14 be 
+: 676 12 16 there 
+: 692 12 9 some 
+: 708 12 11 day 
+- 722
+: 740 3 13 If 
+: 744 3 11 I 
+: 748 7 13 can 
+: 756 7 14 be 
+: 764 16 11 strong. 
+- 782
+: 796 3 13 I 
+: 800 3 14 know 
+: 804 11 16 ev’
+: 816 8 8 ry 
+: 828 16 6 mile 
+- 846
+: 856 3 9 Will 
+: 860 3 11 be 
+: 864 16 13 worth 
+: 884 8 2 my 
+: 896 20 2 while 
+- 918
+: 956 3 2 I 
+: 960 3 4 would 
+: 964 11 6 go 
+: 976 12 4 most 
+: 992 7 1 a
+: 1000 3 4 ny
+: 1004 15 9 where 
+- 1020
+: 1020 3 11 To 
+: 1024 19 13 feel 
+: 1044 15 14 like 
+: 1060 28 11 I 
+: 1120 7 9 be
+: 1128 88 9 long. 
+- 1218
+: 2744 3 16 I 
+: 2748 3 17 am 
+: 2752 12 19 on 
+: 2768 7 12 my 
+: 2776 24 14 way 
+- 2802
+: 2812 7 16 I 
+: 2820 3 14 can 
+: 2824 8 16 go 
+: 2836 3 17 the 
+: 2840 4 16 dis
+: 2848 8 14 tance. 
+- 2858
+: 2868 3 16 I 
+: 2872 3 17 don’t 
+: 2876 12 19 care 
+: 2892 7 12 how 
+: 2900 20 14 far, 
+- 2922
+: 2928 7 16 Some
+: 2936 7 14 how 
+: 2944 7 16 I’ll 
+: 2952 7 17 be 
+: 2960 20 14 strong. 
+- 2982
+: 2988 3 16 I 
+: 2992 3 17 know 
+: 2996 11 19 ev’
+: 3008 12 11 ry 
+: 3024 16 9 mile 
+- 3042
+: 3048 3 12 Will 
+: 3052 3 14 be 
+: 3056 12 16 worth 
+: 3072 12 7 my 
+: 3088 24 5 while. 
+- 3114
+: 3136 4 5 I 
+: 3144 4 7 would 
+: 3152 12 9 go 
+: 3168 11 7 most 
+: 3180 3 4 a
+: 3184 3 7 ny
+: 3188 15 12 where 
+- 3204
+: 3204 7 16 To 
+: 3212 16 16 find 
+: 3236 15 17 where 
+: 3252 19 14 I 
+: 3272 7 12 be
+: 3280 72 12 long 
+E

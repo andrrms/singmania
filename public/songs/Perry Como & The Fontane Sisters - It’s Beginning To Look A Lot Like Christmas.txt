@@ -1,0 +1,309 @@
+#ARTIST:Perry Como & The Fontane Sisters
+#TITLE:It’s Beginning To Look A Lot Like Christmas
+#MP3:Perry Como & The Fontane Sisters - It’s Beginning To Look A Lot Like Christmas.mp3
+#CREATOR:lozboorman
+#YEAR:1951
+#LANGUAGE:English
+#BPM:220.28
+#GAP:13650
+#VIDEO:v=cHh7pW29Fy8,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/78/b6/91/78b69189-2af8-6adb-a51f-ccf6322151f7/886448924623.jpg/5000x5000bb.jpg,tags=Christmas
+: 0 3 0 It’s 
+: 6 1 2 be
+: 9 1 4 gin
+: 11 1 4 ning 
+: 13 1 2 to 
+: 16 1 0 look 
+: 18 1 2 a
+: 21 4 4 lot 
+- 27
+: 33 3 8 Like 
+* 40 3 12 christ
+: 48 4 3 mas 
+- 54
+: 72 6 12 Ev
+* 85 2 12 ery
+* 89 6 10 where 
+: 100 2 8 you 
+: 104 6 5 go 
+- 112
+: 127 2 5 Take 
+: 130 2 7 a 
+: 133 2 8 look 
+: 136 1 7 in 
+: 138 1 7 the 
+: 141 2 5 five 
+: 145 2 5 and 
+: 148 4 7 ten 
+- 154
+: 164 2 5 Glist
+: 167 1 7 en
+: 169 2 5 ing 
+: 173 2 3 once 
+: 177 2 5 a
+: 180 4 7 gain 
+- 186
+: 194 1 5 With 
+: 196 3 7 can
+: 202 1 10 dy 
+: 204 2 10 canes 
+: 209 2 12 and 
+: 212 3 10 sil
+: 217 2 8 ver 
+: 220 3 7 lanes 
+: 225 2 5 a
+* 228 8 10 glow 
+- 238
+: 252 3 0 It’s 
+* 258 1 2 be
+* 261 1 4 gin
+* 263 1 4 ning 
+* 265 1 2 to 
+: 268 1 0 look 
+: 270 1 2 a
+: 273 4 4 lot 
+- 279
+: 284 3 8 Like 
+* 292 3 12 christ
+: 300 4 3 mas 
+- 306
+: 324 6 12 Toys 
+: 337 2 12 in 
+: 341 3 10 ev
+: 348 2 8 ery 
+: 352 6 5 store 
+- 360
+: 379 2 5 But 
+: 384 2 7 the 
+: 387 2 8 pret
+: 390 1 7 ti
+: 392 2 7 est 
+: 396 2 5 sight 
+: 401 1 8 to 
+: 404 5 7 see 
+- 411
+: 415 1 5 Is 
+: 417 2 5 the 
+: 420 3 3 hol
+: 425 1 5 ly 
+: 427 3 7 that 
+: 433 2 8 will 
+: 436 2 12 be 
+- 440
+: 444 2 5 On 
+: 449 1 5 your 
+* 452 7 12 own 
+: 467 8 7 front 
+: 483 6 8 door 
+- 491
+: 504 1 8 A 
+: 507 3 8 pair 
+: 512 2 10 of 
+: 515 1 12 hop 
+: 517 1 12 a 
+: 519 2 12 long 
+: 522 2 10 boots 
+- 525
+: 526 1 12 And 
+: 528 1 10 a 
+: 530 2 8 pis
+: 533 1 10 tol 
+: 535 1 8 that 
+: 537 2 8 shoots 
+* 541 1 8 are 
+* 543 2 10 the 
+* 547 2 12 wish 
+- 551
+: 553 1 10 Of 
+: 555 1 10 Barn
+: 557 1 8 ey 
+: 559 1 8 and 
+: 564 2 5 Ben 
+- 568
+: 578 2 10 Dolls 
+: 582 1 12 that 
+: 584 1 10 will 
+: 586 2 8 talk 
+: 590 1 8 and 
+: 592 1 8 will 
+: 594 1 8 go 
+: 598 1 8 for 
+: 600 1 8 a 
+: 602 2 5 walk 
+- 605
+: 606 1 5 Is 
+: 608 1 7 the 
+: 610 2 7 hope 
+: 616 1 8 for 
+: 618 1 8 Jan
+: 620 1 8 ice 
+: 622 1 5 and 
+: 626 2 5 Jen 
+- 630
+: 640 1 3 And 
+* 642 3 15 Mom 
+* 648 1 14 and 
+* 650 2 12 dad 
+: 656 1 12 can 
+: 659 2 10 hard
+: 665 1 7 ly 
+: 667 2 5 wait 
+- 671
+: 673 1 1 For 
+: 675 2 3 school 
+: 680 1 1 to 
+: 682 2 3 start 
+: 687 1 1 a
+: 690 2 3 gain 
+- 694
+: 700 2 0 It’s 
+* 704 1 2 be
+* 707 1 4 gin
+* 709 1 4 ning 
+* 712 1 2 to 
+* 715 1 0 look 
+: 719 1 2 a
+: 722 4 4 lot 
+- 728
+: 730 3 8 Like 
+* 738 3 12 christ
+: 746 6 3 mas 
+- 754
+: 770 6 12 Ev
+: 783 2 12 ery
+: 787 4 10 where 
+: 795 2 8 you 
+: 802 6 5 go 
+- 810
+: 828 2 5 There’s 
+: 831 1 7 a 
+: 833 2 8 tree 
+: 836 1 7 in 
+: 838 1 7 the 
+: 841 2 5 grand 
+: 847 1 5 ho
+: 850 2 7 tel 
+- 854
+: 866 2 5 One 
+: 869 1 7 in 
+: 871 2 5 the 
+: 874 2 3 park 
+: 879 1 3 as
+: 882 4 5 well 
+- 888
+: 894 1 5 The 
+: 897 2 7 stur
+: 902 1 10 dy 
+: 905 2 10 kind 
+* 911 1 12 that 
+* 913 1 10 does
+* 915 2 8 n’t 
+* 919 3 7 mind 
+: 926 1 5 the 
+: 929 8 10 snow 
+- 939
+: 954 2 0 It’s 
+* 958 1 2 be
+* 961 1 4 gin
+* 963 1 4 ning 
+* 966 1 2 to 
+* 969 1 0 look 
+: 973 1 2 a
+: 976 4 4 lot 
+- 982
+: 985 3 8 Like 
+* 993 3 12 christ
+: 1001 6 3 mas 
+- 1009
+: 1025 6 12 Soon 
+: 1038 1 12 the 
+: 1040 5 10 bells 
+: 1049 2 8 will 
+: 1056 8 5 start 
+- 1066
+: 1084 1 5 And 
+: 1086 1 7 the 
+: 1089 1 8 thing 
+: 1091 1 8 that 
+: 1094 1 7 will 
+: 1096 2 5 make 
+: 1101 1 8 them 
+: 1104 4 7 ring 
+- 1110
+: 1115 1 5 Is 
+: 1117 1 5 the 
+: 1120 2 3 car
+: 1126 1 5 ol 
+: 1128 3 7 that 
+: 1133 1 9 you 
+* 1136 3 12 see 
+- 1141
+: 1144 2 5 Right 
+: 1150 1 5 with
+: 1152 8 12 in 
+: 1168 8 12 your 
+* 1183 8 8 heart 
+- 1193
+: 1398 2 0 It’s 
+* 1405 1 2 be
+* 1407 1 4 gin
+* 1409 1 4 ning 
+* 1413 1 2 to 
+* 1415 1 0 look 
+: 1420 1 2 a
+: 1423 4 4 lot 
+- 1429
+: 1431 3 8 Like 
+* 1439 3 12 christ
+: 1446 8 3 mas 
+- 1456
+: 1471 6 12 Soon 
+: 1484 1 12 the 
+: 1487 5 10 bells 
+: 1495 2 8 will 
+: 1502 8 5 start 
+- 1512
+: 1526 2 5 And 
+: 1532 1 7 the 
+: 1534 1 8 thing 
+: 1536 1 8 that 
+: 1539 1 7 will 
+: 1541 2 5 make 
+: 1547 1 8 them 
+: 1550 4 7 ring 
+- 1556
+: 1561 1 5 Is 
+: 1563 1 5 the 
+: 1566 2 3 car
+: 1572 1 5 ol 
+: 1574 3 7 that 
+: 1579 1 9 you 
+* 1582 3 12 see 
+- 1587
+: 1590 2 5 Right 
+: 1595 1 5 with
+* 1598 8 12 in 
+: 1614 8 7 your 
+: 1630 12 12 heart 
+- 1644
+: 1653 2 4 It’s 
+* 1659 1 6 be
+* 1661 1 8 gin
+* 1663 1 8 ning 
+* 1667 1 6 to 
+* 1669 2 4 look 
+* 1675 1 6 a
+* 1678 4 8 lot 
+- 1684
+: 1686 3 3 Like 
+* 1694 3 12 christ
+: 1701 4 8 mas 
+- 1707
+: 1709 3 12 Christ
+: 1717 3 8 mas 
+- 1722
+: 1741 3 12 Christ
+: 1749 3 8 mas 
+- 1754
+* 1757 3 12 Christ
+* 1765 3 8 mas 
+E

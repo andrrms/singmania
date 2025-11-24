@@ -1,0 +1,781 @@
+#ARTIST:Flo Rida feat. will.i.am
+#TITLE:In The Ayer
+#MP3:Flo Rida feat. will.i.am - In The Ayer.mp3
+#CREATOR:snake84, michas17j
+#YEAR:2008
+#LANGUAGE:English
+#BPM:252.02
+#GAP:16150
+#VIDEO:v=-DsyZdeFjug,co=in-the-ayer-54c5a43f82ad9.jpg,bg=flo-rida-4ee7f323b3927.jpg
+: 0 4 5 Oh 
+: 8 4 5 hot 
+: 16 6 5 damn, 
+- 24
+: 32 2 5 This 
+: 36 2 5 is 
+: 40 4 5 my 
+* 48 6 5 jam. 
+- 56
+: 72 2 5 Keep 
+: 76 2 5 me 
+: 80 2 5 par
+: 84 2 5 ty
+: 88 4 5 ing 
+: 96 2 5 to 
+: 100 2 5 the 
+* 104 4 5 A.
+* 112 4 5 M. 
+- 118
+: 128 2 5 Y’all 
+: 132 2 5 don’t 
+: 136 2 5 un
+: 140 2 5 der
+: 144 4 5 stand. 
+- 150
+: 160 2 5 Make 
+: 164 2 5 me 
+* 168 2 5 throw 
+: 172 2 5 my 
+: 176 4 5 hands 
+- 182
+: 184 2 5 In 
+: 188 2 5 the 
+: 192 2 8 a
+: 196 4 5 yer, 
+: 204 2 8 ay-
+: 212 2 8 a
+: 216 4 5 yer, 
+- 222
+: 224 2 8 A
+: 228 4 5 yer, 
+* 236 2 8 ay-
+: 244 2 8 a
+: 248 4 5 yer. 
+- 254
+* 256 4 5 Oh 
+* 264 4 5 hot 
+* 272 6 5 damn, 
+- 280
+: 288 2 5 This 
+: 292 2 5 is 
+: 296 4 5 my 
+: 304 6 5 jam. 
+- 312
+: 328 2 5 Keep 
+: 332 2 5 me 
+: 336 2 5 par
+: 340 2 5 ty
+: 344 4 5 ing 
+: 352 2 5 to 
+: 356 2 5 the 
+: 360 4 5 A.
+: 368 4 5 M. 
+- 374
+: 384 2 5 Y’all 
+: 388 2 5 don’t 
+: 392 2 5 un
+: 396 2 5 der
+* 400 4 5 stand. 
+- 406
+: 416 2 5 Make 
+: 420 2 5 me 
+: 424 2 5 throw 
+: 428 2 5 my 
+: 432 4 5 hands 
+- 438
+: 440 2 5 In 
+: 444 2 5 the 
+: 448 2 8 a
+: 452 4 5 yer, 
+: 460 2 8 ay-
+: 468 2 8 a
+: 472 4 5 yer, 
+- 478
+* 480 2 8 A
+* 484 4 5 yer, 
+: 492 2 8 ay-
+: 500 2 8 a
+: 504 4 5 yer. 
+- 509
+F 510 8 5 Hey, 
+F 520 2 5 this 
+F 524 2 5 my 
+F 528 4 5 jam. 
+- 534
+F 536 1 5 Y’all 
+F 538 2 5 don’t 
+F 542 2 5 un
+F 546 1 5 der
+F 548 2 5 stand, 
+- 551
+F 552 1 5 I’ll 
+F 554 2 5 make 
+F 558 1 5 you 
+F 560 2 5 un
+F 564 1 5 der
+F 566 2 5 stand. 
+- 570
+F 572 2 5 What’s 
+F 576 1 5 pum
+F 578 1 5 pin’ 
+F 580 1 5 in 
+F 582 1 5 my 
+F 584 2 5 C
+F 588 2 5 D 
+F 592 2 5 pla
+F 596 2 5 yer, 
+F 600 2 5 pla
+F 604 2 5 yer? 
+- 607
+F 608 1 5 Par
+F 610 1 5 ty 
+F 612 2 5 all 
+F 616 2 5 night 
+F 620 2 5 like 
+F 624 2 5 ya
+F 628 2 5 yer, 
+F 632 2 5 ya
+F 636 2 5 yer. 
+- 639
+F 640 1 5 Shaw
+F 642 1 5 ty 
+F 644 1 5 got 
+F 646 1 5 her 
+F 648 2 5 hands 
+F 652 1 5 in 
+F 654 1 5 the 
+F 656 2 5 a
+F 660 2 5 yer, 
+F 664 2 5 a
+F 668 2 5 yer. 
+- 671
+F 672 1 5 Make 
+F 674 1 5 me 
+F 676 1 5 want 
+F 678 1 5 to 
+F 680 2 5 take 
+F 684 2 5 it 
+F 688 2 5 da
+F 692 2 5 yer, 
+- 695
+F 696 1 5 There 
+F 698 1 5 I 
+F 700 2 5 go, 
+F 704 1 5 here 
+F 706 1 5 I 
+F 708 2 5 go, 
+F 712 2 5 here 
+F 716 1 5 is 
+F 718 1 5 my 
+F 720 4 5 song. 
+- 726
+F 728 2 5 D
+F 732 2 5 J 
+F 736 1 5 bring 
+F 738 1 5 it 
+F 740 2 5 back, 
+F 744 1 5 come 
+F 746 1 5 in 
+F 748 2 5 my 
+F 752 4 5 zone. 
+- 757
+F 758 2 5 I 
+F 762 2 5 get 
+F 766 2 5 paid 
+F 770 1 5 for 
+F 772 2 5 them 
+F 776 2 5 cou
+F 780 2 5 ple 
+F 784 4 5 bones. 
+- 790
+F 792 1 5 The 
+F 794 2 5 next 
+F 798 2 5 wop, 
+- 801
+F 802 1 5 Un
+F 804 1 5 til 
+F 806 1 5 the 
+F 808 2 5 ear
+F 812 2 5 ly 
+F 816 4 5 morn’. 
+- 822
+F 824 1 5 I 
+F 826 2 5 need 
+F 830 1 5 that 
+F 832 2 5 crunk 
+F 836 2 5 when 
+F 840 1 5 I’m 
+F 842 1 5 up 
+F 844 1 5 in 
+F 846 1 5 tha 
+F 848 4 5 club. 
+- 854
+F 856 2 5 E
+F 860 1 5 ven 
+F 862 1 5 my 
+F 864 1 5 che
+F 866 1 5 vy 
+F 870 1 5 that 
+F 872 1 5 pull 
+F 874 1 5 up 
+F 876 1 5 on 
+F 878 1 5 them 
+F 880 4 5 dubs. 
+- 886
+F 888 1 5 Give 
+F 890 2 5 me 
+F 894 2 5 that 
+F 898 1 5 drop 
+F 900 1 5 yel
+F 902 1 5 low 
+F 904 2 5 waist 
+F 908 1 5 like 
+F 910 1 5 a 
+F 912 4 5 drug. 
+- 918
+F 920 1 5 Lil 
+F 922 1 5 ma
+F 924 1 5 ma 
+F 928 1 5 hot 
+F 930 2 5 and 
+F 934 1 5 she 
+F 936 2 5 might 
+F 940 1 5 show 
+F 942 1 5 me 
+F 944 4 5 love. 
+- 950
+F 952 2 5 Oh 
+F 956 2 5 hot 
+F 964 4 5 damn, 
+- 970
+F 972 1 5 Ce
+F 974 1 5 le
+F 976 1 5 brate 
+F 978 1 5 to 
+F 980 1 5 that 
+F 982 2 5 A.
+F 986 2 5 M. 
+- 989
+F 990 1 5 I 
+F 992 1 5 love 
+F 994 1 5 it 
+F 996 2 5 so 
+F 1000 2 5 much 
+F 1004 2 5 it’s 
+F 1008 2 5 got 
+F 1012 2 5 me 
+F 1016 2 5 say
+F 1020 2 5 ing: 
+- 1023
+: 1024 4 5 Oh 
+: 1032 4 5 hot 
+: 1040 6 5 damn, 
+- 1048
+: 1056 2 5 This 
+: 1060 2 5 is 
+: 1064 4 5 my 
+: 1072 6 5 jam. 
+- 1080
+: 1096 2 5 Keep 
+: 1100 2 5 me 
+: 1104 2 5 par
+: 1108 2 5 ty
+: 1112 4 5 ing 
+: 1120 2 5 to 
+: 1124 2 5 the 
+: 1128 4 5 A.
+: 1136 4 5 M. 
+- 1142
+: 1152 2 5 Y’all 
+: 1156 2 5 don’t 
+: 1160 2 5 un
+: 1164 2 5 der
+: 1168 4 5 stand. 
+- 1174
+: 1184 2 5 Make 
+: 1188 2 5 me 
+: 1192 2 5 throw 
+: 1196 2 5 my 
+: 1200 4 5 hands 
+- 1206
+* 1208 2 5 In 
+* 1212 2 5 the 
+* 1216 2 8 a
+* 1220 4 5 yer, 
+* 1228 2 8 ay-
+* 1236 2 8 a
+* 1240 4 5 yer, 
+- 1246
+: 1248 2 8 A
+: 1252 4 5 yer, 
+: 1260 2 8 ay-
+: 1268 2 7 a
+: 1272 4 5 yer. 
+- 1278
+: 1280 4 5 Oh 
+* 1288 4 5 hot 
+: 1296 6 5 damn, 
+- 1304
+: 1312 2 5 This 
+: 1316 2 5 is 
+: 1320 4 5 my 
+: 1328 6 5 jam. 
+- 1336
+: 1352 2 5 Keep 
+: 1356 2 5 me 
+: 1360 2 5 par
+: 1364 2 5 ty
+: 1368 4 5 ing 
+: 1376 2 5 to 
+: 1380 2 5 the 
+: 1384 4 5 A.
+: 1392 4 5 M. 
+- 1398
+: 1408 2 5 Y’all 
+* 1412 2 5 don’t 
+: 1416 2 5 un
+: 1420 2 5 der
+: 1424 4 5 stand. 
+- 1430
+: 1440 2 5 Make 
+: 1444 2 5 me 
+: 1448 2 5 throw 
+: 1452 2 5 my 
+* 1456 4 5 hands 
+- 1462
+: 1464 2 5 In 
+: 1468 2 5 the 
+: 1472 2 8 a
+: 1476 4 5 yer, 
+: 1484 2 8 ay-
+: 1492 2 8 a
+* 1496 4 5 yer, 
+: 1504 2 8 a
+: 1508 4 5 yer... 
+- 1514
+F 1516 6 5 Hey, 
+F 1524 2 5 I 
+F 1528 2 5 just 
+F 1532 2 5 might 
+F 1536 4 5 start 
+F 1542 1 5 the 
+F 1544 4 5 wave. 
+- 1550
+F 1552 1 5 Like 
+F 1554 1 5 I’m 
+F 1556 2 5 at 
+F 1560 2 5 ball 
+F 1564 2 5 game 
+F 1568 2 5 do 
+F 1572 2 5 my 
+F 1576 4 5 thang. 
+- 1582
+F 1584 2 5 Hands 
+F 1588 2 5 up 
+F 1592 1 5 high 
+F 1594 1 5 I 
+F 1596 2 5 got 
+F 1600 1 5 mo
+F 1602 1 5 ney 
+F 1604 1 5 in 
+F 1606 1 5 tha 
+F 1608 4 5 bank. 
+- 1614
+F 1616 2 5 I’m 
+F 1620 2 5 so 
+F 1624 2 5 fly 
+F 1628 2 5 7
+F 1632 2 5 4
+F 1636 2 5 7 
+F 1640 4 5 plane. 
+- 1646
+F 1648 1 5 Rock 
+F 1650 2 5 it, 
+F 1654 1 5 no 
+F 1656 1 5 stop 
+F 1658 2 5 it, 
+F 1662 1 5 how 
+F 1664 1 5 I 
+F 1666 2 5 got 
+F 1670 1 5 my 
+F 1672 4 5 name. 
+- 1678
+F 1680 1 5 Ba
+F 1682 1 5 by 
+F 1686 1 5 keep 
+F 1688 1 5 pop
+F 1690 1 5 pin’, 
+- 1693
+F 1694 1 5 You 
+F 1696 2 5 might 
+F 1700 1 5 get 
+F 1702 1 5 the 
+F 1704 4 5 flame. 
+- 1710
+F 1712 2 5 Walk 
+F 1716 1 5 the 
+F 1718 1 5 red 
+F 1720 1 5 car
+F 1722 1 5 pet, 
+- 1725
+F 1726 1 5 Won’t 
+F 1728 2 5 see 
+F 1732 1 5 you 
+F 1734 1 5 the 
+F 1736 4 5 same. 
+- 1742
+F 1744 1 5 I 
+F 1746 1 5 get 
+F 1748 1 5 that 
+F 1752 1 5 stun
+F 1754 2 5 tin’, 
+F 1762 1 5 for
+F 1764 1 5 get 
+F 1766 1 5 my 
+F 1768 4 5 name. 
+- 1774
+F 1784 2 5 Start 
+F 1788 2 5 with 
+F 1792 4 5 me, 
+F 1800 2 5 ride 
+F 1804 2 5 with 
+F 1808 4 5 me. 
+- 1813
+F 1814 1 5 Some
+F 1816 1 5 bo
+F 1818 1 5 dy 
+F 1820 1 5 re
+F 1822 1 5 pre
+F 1824 1 5 sent 
+F 1826 1 5 the 
+F 1828 1 5 ci
+F 1830 1 5 ty 
+F 1832 2 5 vibe 
+F 1836 2 5 with 
+F 1840 4 5 me. 
+- 1846
+F 1848 2 5 Make 
+F 1852 2 5 me 
+F 1860 2 5 throw 
+F 1864 1 5 it 
+F 1866 2 5 up 
+F 1870 1 5 ma 
+F 1872 1 5 ti
+F 1874 1 5 mid 
+F 1876 1 5 in 
+F 1878 1 5 tha 
+F 1880 2 5 club. 
+- 1883
+F 1884 1 5 Go 
+F 1886 1 5 a
+F 1888 2 5 head, 
+F 1892 1 5 throw 
+F 1894 1 5 it 
+F 1896 2 5 up, 
+F 1900 1 5 got
+F 1902 1 5 ta 
+F 1904 1 5 won
+F 1906 2 5 der. 
+- 1909
+F 1910 1 5 How 
+F 1912 2 5 much 
+F 1924 1 5 to 
+F 1926 1 5 show 
+F 1928 1 5 e
+F 1930 2 5 nough 
+- 1933
+F 1934 1 5 To 
+F 1936 2 5 sta
+F 1940 2 5 ~re, 
+F 1944 2 5 sta
+F 1948 2 5 ~re. 
+- 1951
+F 1952 1 5 I’m 
+F 1954 2 5 hood 
+F 1958 1 5 so 
+F 1960 1 5 it’s 
+F 1962 1 5 real
+F 1964 1 5 ly 
+F 1966 2 5 un
+F 1970 2 5 fai
+F 1974 2 5 ~r, 
+F 1978 2 5 fai
+F 1982 2 5 ~r. 
+- 1985
+F 1986 1 5 Shaw
+F 1988 1 5 ty 
+F 1990 1 5 go 
+F 1992 1 5 a
+F 1994 1 5 head 
+F 1996 1 5 and 
+F 1998 2 5 get 
+F 2002 2 5 ba
+F 2006 2 5 ~re, 
+F 2010 2 5 ba
+F 2014 1 5 ~re. 
+- 2016
+F 2016 1 5 We 
+F 2018 1 5 ain’t 
+F 2020 1 5 treat 
+F 2022 1 5 our 
+F 2024 1 5 ci
+F 2026 1 5 ty 
+- 2028
+F 2028 1 5 Like 
+F 2030 1 5 the 
+F 2032 2 5 ma
+F 2036 2 5 yor, 
+F 2040 2 5 ma
+F 2044 2 5 yor. 
+- 2047
+: 2048 4 5 Oh 
+: 2056 4 5 hot 
+: 2064 6 5 damn, 
+- 2072
+: 2080 2 5 This 
+: 2084 2 5 is 
+: 2088 4 5 my 
+: 2096 6 5 jam. 
+- 2104
+* 2120 2 5 Keep 
+* 2124 2 5 me 
+* 2128 2 5 par
+* 2132 2 5 ty
+* 2136 4 5 ing 
+: 2144 2 5 to 
+: 2148 2 5 the 
+: 2152 4 5 A.
+: 2160 4 5 M. 
+- 2166
+: 2178 2 5 Y’all 
+: 2182 2 5 don’t 
+: 2186 2 5 un
+: 2190 2 5 der
+: 2194 4 5 stand. 
+- 2200
+: 2208 2 5 Make 
+: 2212 2 5 me 
+: 2216 2 5 throw 
+: 2220 2 5 my 
+: 2224 4 5 hands 
+- 2230
+* 2232 2 5 In 
+: 2236 2 5 the 
+: 2240 2 8 a
+: 2244 4 5 yer, 
+: 2252 2 8 ay-
+: 2260 2 8 a
+: 2264 4 5 yer, 
+: 2272 2 8 a
+: 2276 2 5 yer. 
+- 2279
+: 2280 2 0 Throw 
+: 2284 2 0 my 
+: 2288 4 0 hands 
+: 2296 2 0 in 
+: 2300 2 0 the 
+- 2303
+: 2304 2 8 A
+: 2308 4 5 yer, 
+: 2316 2 8 ay-
+: 2324 2 8 a
+: 2328 4 5 yer, 
+* 2336 2 8 a
+* 2340 4 5 yer, 
+: 2348 2 8 ay-
+: 2356 2 8 a
+: 2360 4 5 yer. 
+- 2366
+: 2368 2 8 A
+: 2372 4 5 yer, 
+: 2380 2 8 ay-
+: 2388 2 8 a
+* 2392 4 5 yer, 
+: 2400 2 8 a
+: 2404 4 5 yer. 
+- 2410
+: 2420 4 3 Al 
+: 2428 2 3 now 
+: 2432 4 3 stop! 
+- 2438
+: 2444 2 4 O
+: 2448 6 3 ~h, 
+: 2456 2 3 put 
+: 2460 2 3 your 
+: 2464 6 3 hands 
+: 2472 2 3 in 
+: 2476 2 3 the... 
+- 2480
+: 2488 2 3 It’s 
+: 2492 2 3 a 
+: 2496 2 3 stick 
+: 2500 2 3 up, 
+: 2508 2 3 stick 
+: 2512 2 3 up... 
+- 2515
+: 2516 2 3 Stick 
+: 2520 2 3 up, 
+: 2524 2 3 a 
+: 2528 2 3 stick 
+: 2532 2 3 up, 
+: 2536 2 3 touch 
+: 2540 2 3 the 
+: 2544 2 4 cei
+: 2548 2 4 ling 
+: 2552 2 3 ba
+: 2556 2 3 by. 
+- 2560
+F 2568 2 -12 Put 
+F 2572 2 -12 your 
+F 2576 6 -12 hands 
+F 2584 2 -12 in 
+F 2588 2 -12 the... 
+- 2592
+: 2600 2 0 Put 
+: 2604 2 0 your 
+: 2608 6 0 hands 
+: 2616 2 0 up. 
+- 2620
+F 2632 2 3 Put 
+F 2636 2 3 your 
+F 2640 6 2 hands 
+F 2648 2 2 up. 
+- 2652
+F 2656 2 0 Put 
+F 2660 2 0 your, 
+F 2664 2 0 put 
+F 2668 2 0 your 
+F 2672 6 0 hands 
+F 2680 2 0 in 
+F 2684 2 0 the... 
+- 2687
+F 2688 2 5 Put 
+F 2692 2 5 your 
+F 2696 6 5 hands 
+F 2704 2 5 up 
+F 2712 2 5 to 
+F 2716 2 5 the 
+F 2720 2 5 sky. 
+- 2724
+F 2744 2 5 Wave 
+F 2748 2 5 ’em, 
+F 2752 2 5 wave 
+F 2756 2 5 ’em 
+F 2760 2 5 round 
+F 2764 2 5 and 
+F 2768 2 5 round 
+- 2771
+F 2772 2 5 And 
+F 2776 2 5 side 
+F 2780 2 5 to 
+F 2784 2 5 side. 
+- 2788
+F 2808 2 5 It’s 
+F 2812 2 5 a 
+F 2816 2 5 par
+F 2820 2 5 ty, 
+F 2824 2 5 Shaw
+F 2828 2 5 ty, 
+F 2832 2 5 go 
+F 2840 2 5 touch 
+F 2844 2 5 the 
+F 2848 2 5 roof. 
+- 2852
+F 2872 2 5 And 
+F 2876 2 5 we 
+F 2880 2 5 got 
+F 2884 2 5 the 
+F 2888 2 5 bot
+F 2892 2 5 tles 
+F 2896 2 5 pop
+F 2900 2 5 pin’ 
+F 2904 2 5 at 
+F 2908 2 5 my 
+F 2912 2 5 roof 
+- 2915
+F 2916 2 5 So 
+F 2920 2 5 throw 
+F 2924 2 5 your 
+F 2928 6 5 hands 
+F 2936 2 5 in 
+F 2940 2 5 the 
+F 2944 2 5 a
+F 2948 6 5 yer. 
+- 2956
+F 2984 2 3 Just 
+F 2988 2 3 a 
+F 2992 2 5 cei
+F 2996 2 5 ling 
+F 3000 2 3 ba
+F 3004 2 3 by. 
+- 3008
+F 3016 2 3 Feel 
+F 3020 2 3 it, 
+F 3024 2 5 feel 
+F 3028 2 5 it 
+F 3032 2 3 ba
+F 3036 2 3 by. 
+- 3040
+F 3048 2 3 Throw 
+F 3052 2 3 your 
+F 3056 6 3 hands 
+F 3064 4 3 up! 
+- 3070
+* 3072 4 7 Oh 
+: 3080 4 7 hot 
+: 3088 6 7 damn, 
+- 3096
+: 3104 2 7 This 
+: 3108 2 7 is 
+: 3112 4 7 my 
+: 3120 6 7 jam. 
+- 3128
+: 3144 2 7 Keep 
+: 3148 2 7 me 
+: 3152 2 7 par
+: 3156 2 7 ty
+: 3160 4 7 ing 
+: 3168 2 7 to 
+: 3172 2 7 the 
+* 3176 4 7 A.
+: 3184 4 7 M. 
+- 3190
+: 3200 2 7 Y’all 
+: 3204 2 7 don’t 
+: 3208 2 7 un
+: 3212 2 7 der
+: 3216 4 7 stand. 
+- 3222
+: 3232 2 7 Make 
+: 3236 2 7 me 
+: 3240 2 7 throw 
+: 3244 2 7 my 
+: 3248 4 7 hands 
+- 3254
+: 3256 2 7 In 
+* 3260 2 7 the 
+: 3264 2 10 a
+: 3268 4 7 yer, 
+: 3276 2 10 ay-
+: 3284 2 10 a
+: 3288 4 7 yer, 
+- 3294
+: 3296 2 10 A
+: 3300 4 7 yer, 
+: 3308 2 10 ay-
+: 3316 2 10 a
+: 3320 4 7 yer, 
+- 3326
+: 3328 2 10 A
+* 3332 4 7 yer, 
+: 3340 2 10 ay-
+: 3348 2 10 a
+: 3352 4 7 yer, 
+: 3360 2 10 a
+: 3364 3 7 yer. 
+- 3368
+: 3368 2 5 Throw 
+: 3372 2 5 your 
+: 3376 6 5 hands 
+: 3384 4 5 up! 
+E

@@ -1,0 +1,149 @@
+#ARTIST:The Rock-A-Teens
+#TITLE:Woo-Hoo
+#MP3:The Rock-A-Teens - Woo-Hoo.mp3
+#CREATOR:Fepo
+#GENRE:Rock ’n Roll
+#YEAR:1959
+#LANGUAGE:English
+#BPM:232.44
+#GAP:210
+#VIDEO:v=Gno0vPPH5yU,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/4b/18/8b4b1810-4f21-40ab-fa89-f76949613a48/5059460287556.jpg/5000x5000bb.jpg
+: 0 5 8 Whoo, 
+: 8 6 4 hoo, 
+: 16 3 8 hoo- 
+: 21 4 6 hoo- 
+* 28 116 4 hoo. 
+- 146
+F 328 20 8 Yeah 
+- 350
+: 378 2 8 Whoo, 
+: 382 4 4 hoo, 
+: 389 3 8 hoo- 
+: 394 3 6 hoo- 
+: 399 9 4 hoo 
+- 409
+: 410 2 8 Whoo, 
+: 414 4 4 hoo, 
+: 421 3 8 hoo- 
+: 426 3 6 hoo- 
+: 431 9 4 hoo 
+- 441
+: 441 2 8 Whoo, 
+: 445 4 4 hoo, 
+: 452 3 8 hoo- 
+: 457 3 6 hoo- 
+: 462 9 4 hoo 
+- 472
+: 473 2 8 Whoo, 
+: 477 4 4 hoo, 
+: 484 3 8 hoo- 
+: 489 3 6 hoo- 
+: 494 7 4 hoo 
+- 503
+: 504 2 8 Whoo, 
+: 508 9 6 hoo, 
+: 520 2 8 Whoo, 
+: 525 6 4 hoo, 
+- 533
+: 536 2 8 Whoo, 
+: 540 2 4 hoo- 
+: 544 2 1 hoo- 
+: 548 13 4 hoo. 
+- 563
+: 948 2 8 Whoo, 
+: 952 4 4 hoo, 
+: 959 3 8 hoo- 
+: 964 3 6 hoo- 
+: 969 9 4 hoo 
+- 979
+: 980 2 8 Whoo, 
+: 984 4 4 hoo, 
+: 991 2 8 hoo- 
+: 996 2 6 hoo- 
+: 1000 9 4 hoo 
+- 1011
+: 1012 2 8 Whoo, 
+: 1016 4 4 hoo, 
+: 1023 2 8 hoo- 
+: 1028 2 6 hoo- 
+: 1032 9 4 hoo 
+- 1043
+: 1044 2 8 Whoo, 
+: 1048 4 4 hoo, 
+: 1055 2 8 hoo- 
+: 1060 2 6 hoo- 
+: 1064 9 4 hoo 
+- 1075
+: 1076 2 8 Whoo, 
+: 1080 9 6 hoo, 
+: 1092 2 8 Whoo, 
+: 1097 6 4 hoo, 
+- 1105
+: 1108 2 8 Whoo, 
+: 1112 2 4 hoo- 
+: 1116 2 1 hoo- 
+: 1120 13 4 hoo. 
+- 1135
+: 1524 2 8 Whoo, 
+: 1528 4 4 hoo, 
+: 1535 2 8 hoo- 
+: 1540 2 6 hoo- 
+: 1544 9 4 hoo 
+- 1555
+: 1556 2 8 Whoo, 
+: 1560 4 4 hoo, 
+: 1567 2 8 hoo- 
+: 1572 2 6 hoo- 
+: 1576 9 4 hoo 
+- 1587
+: 1588 2 8 Whoo, 
+: 1592 4 4 hoo, 
+: 1599 2 8 hoo- 
+: 1604 2 6 hoo- 
+: 1608 9 4 hoo 
+- 1619
+: 1620 2 8 Whoo, 
+: 1624 4 4 hoo, 
+: 1631 2 8 hoo- 
+: 1636 2 6 hoo- 
+: 1640 9 4 hoo 
+- 1651
+: 1653 2 8 Whoo, 
+: 1657 9 6 hoo, 
+: 1669 2 8 Whoo, 
+: 1674 6 4 hoo, 
+- 1682
+: 1684 2 8 Whoo, 
+: 1688 2 4 hoo- 
+: 1692 2 1 hoo- 
+: 1696 13 4 hoo. 
+- 1711
+: 1717 2 8 Whoo, 
+: 1721 4 4 hoo, 
+: 1728 2 8 hoo- 
+: 1733 2 6 hoo- 
+: 1737 9 4 hoo 
+- 1748
+: 1749 2 8 Whoo, 
+: 1753 4 4 hoo, 
+: 1760 2 8 hoo- 
+: 1765 2 6 hoo- 
+: 1769 9 4 hoo 
+- 1780
+: 1781 2 8 Whoo, 
+: 1785 4 4 hoo, 
+: 1792 2 8 hoo- 
+: 1797 2 6 hoo- 
+: 1801 9 4 hoo 
+- 1812
+: 1813 2 8 Whoo, 
+: 1817 4 4 hoo, 
+: 1824 2 8 hoo- 
+: 1829 2 6 hoo- 
+: 1833 9 4 hoo 
+- 1844
+: 1845 2 8 Whoo, 
+: 1849 9 6 hoo, 
+: 1861 2 8 Whoo, 
+: 1866 6 4 hoo, 
+E

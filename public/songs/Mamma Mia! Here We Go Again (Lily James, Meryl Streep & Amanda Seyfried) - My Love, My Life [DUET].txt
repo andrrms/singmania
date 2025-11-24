@@ -1,0 +1,411 @@
+#ARTIST:Mamma Mia! Here We Go Again (Lily James, Meryl Streep & Amanda Seyfried)
+#TITLE:My Love, My Life [DUET]
+#MP3:Mamma Mia! Here We Go Again (Lily James, Meryl Streep & Amanda Seyfried) - My Love, My Life [DUET].mp3
+#CREATOR:matthias.manuel.mueller
+#EDITION:[DUET]-Songs
+#GENRE:Soundtrack
+#YEAR:2018
+#LANGUAGE:English
+#BPM:300
+#GAP:9230
+#VIDEO:v=KOuClUYl0_U,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/6a/b6/7c6ab634-9f0c-5a32-a9da-1f1ff81b45f8/00602517741843.rgb.jpg/5000x5000bb.jpg,p1=P1,p2=P2
+P1
+: 0 27 1 I’ve 
+: 28 11 3 never 
+: 40 4 1 felt 
+: 52 4 0 this 
+: 60 20 3 strong 
+- 82
+: 124 20 5 I’m 
+: 148 24 6 invincible, 
+: 180 4 3 how 
+: 188 4 1 could 
+: 196 4 3 this 
+: 204 4 2 go 
+: 212 12 3 wrong? 
+- 226
+: 236 12 6 No, 
+: 252 16 5 here, 
+: 288 8 3 here’s 
+: 300 7 1 where 
+: 308 8 1 we 
+: 320 32 3 belong 
+- 354
+: 388 3 5 I 
+: 392 4 7 see 
+: 400 4 8 a 
+: 408 28 7 road 
+: 440 40 8 ahead 
+- 482
+: 520 3 10 I 
+: 524 8 12 never 
+: 536 20 13 thought 
+: 560 12 14 I 
+: 576 4 10 would 
+: 584 24 8 dare 
+: 612 23 5 to 
+: 636 32 8 tread 
+- 670
+: 2680 4 12 Like 
+: 2688 8 12 an 
+: 2700 12 12 image 
+: 2716 16 12 passing 
+: 2736 12 13 by, 
+: 2760 7 8 my 
+: 2768 8 6 love, 
+: 2788 12 6 my 
+: 2804 8 5 life 
+- 2814
+: 2820 3 5 In 
+: 2824 4 5 the 
+: 2832 16 5 mirror 
+: 2852 4 10 of 
+: 2860 4 1 your 
+: 2868 15 0 eyes, 
+: 2884 4 -4 my 
+: 2892 12 6 love, 
+: 2916 4 6 my 
+: 2924 8 5 life 
+- 2934
+: 2948 4 5 I 
+: 2956 3 4 can 
+: 2960 8 5 see 
+: 2972 3 5 it 
+: 2976 4 5 all 
+: 2984 4 6 so 
+: 2996 20 3 clearly 
+- 3018
+: 3028 11 5 All 
+: 3040 4 5 I 
+: 3048 3 5 love 
+: 3052 4 5 so 
+: 3060 36 3 dearly 
+- 3098
+: 3124 20 5 Images 
+: 3148 31 7 passing 
+: 3180 12 8 by 
+- 3194
+: 3204 4 12 Like 
+: 3212 24 12 reflections 
+: 3240 3 13 of 
+: 3244 4 13 your 
+: 3252 12 12 mind, 
+: 3276 4 8 my 
+: 3288 8 6 love, 
+: 3304 8 6 my 
+: 3316 4 5 life 
+- 3322
+: 3336 4 5 Are 
+: 3344 3 5 the 
+: 3348 8 5 words 
+: 3360 3 3 I 
+: 3364 8 10 try 
+: 3376 3 1 to 
+: 3380 16 0 find, 
+: 3400 4 -4 my 
+: 3408 16 6 love, 
+: 3432 4 10 my 
+: 3440 12 5 life 
+- 3454
+: 3464 4 13 But 
+: 3472 3 13 I 
+: 3476 4 13 know 
+: 3484 4 5 I 
+: 3496 11 6 don’t 
+: 3508 8 8 possess 
+: 3524 16 10 you 
+- 3542
+: 3544 4 10 With 
+: 3552 3 10 all 
+: 3556 4 3 my 
+: 3564 4 5 heart, 
+: 3572 8 6 God 
+: 3584 7 6 bless 
+: 3592 12 8 you 
+- 3606
+: 3612 4 7 You 
+: 3620 3 8 are 
+: 3624 4 10 still 
+: 3632 4 8 my 
+: 3640 16 6 love 
+: 3660 28 13 and 
+: 3692 3 12 my 
+: 3696 24 13 life 
+- 3722
+: 3724 4 13 Yes, 
+: 3732 3 13 I 
+: 3736 7 13 know 
+: 3744 3 5 I 
+: 3748 4 5 don’t 
+: 3756 20 8 possess 
+: 3780 12 10 you 
+- 3794
+: 3800 4 10 With 
+: 3808 3 10 all 
+: 3812 4 3 my 
+: 3820 4 5 heart, 
+: 3832 4 6 God 
+: 3840 4 6 bless 
+: 3848 16 8 you 
+- 3866
+: 3868 8 7 You 
+: 3880 3 8 are 
+: 3884 7 10 still 
+: 3892 4 8 my 
+: 3904 23 6 love 
+: 3928 16 13 and 
+: 3952 11 12 my 
+: 3964 20 13 life 
+- 3986
+: 4004 8 10 You’re 
+: 4016 4 10 my 
+: 4024 7 12 one 
+: 4032 4 10 and 
+: 4040 48 17 only 
+P2
+: 732 4 12 Like 
+: 740 4 12 an 
+: 748 16 13 image 
+: 764 12 13 passing 
+: 784 8 12 by, 
+: 804 8 8 my 
+: 816 8 6 love, 
+: 840 8 6 my 
+: 852 4 5 life 
+- 858
+: 868 4 5 In 
+: 872 4 5 the 
+: 880 8 4 mir
+: 888 8 3 ror 
+: 896 8 10 of 
+: 908 8 1 your 
+: 916 12 0 eyes, 
+: 932 4 -4 my 
+: 940 16 6 love, 
+: 964 4 6 my 
+: 972 4 5 life 
+- 978
+: 988 12 5 I 
+: 1004 4 5 can 
+: 1012 8 5 see 
+: 1020 4 5 it 
+: 1028 8 6 all 
+: 1036 4 5 so 
+: 1044 12 5 clear
+: 1056 4 3 ly 
+- 1062
+: 1080 8 5 All 
+: 1092 4 7 I 
+: 1096 4 7 love 
+: 1100 4 7 so 
+: 1108 44 8 dearly 
+- 1154
+: 1176 12 12 Ima
+: 1188 8 13 ges 
+: 1196 32 13 passing 
+: 1232 12 12 by 
+- 1246
+: 1256 4 8 Like 
+: 1264 24 8 reflections 
+: 1288 4 8 of 
+: 1296 8 8 your 
+: 1308 16 12 mind, 
+: 1328 8 8 my 
+: 1340 20 6 love, 
+: 1364 4 6 my 
+: 1372 8 5 life 
+- 1382
+: 1388 4 8 Are 
+: 1396 4 8 the 
+: 1400 8 8 words 
+: 1412 4 8 I 
+: 1416 8 12 try 
+: 1428 4 6 to 
+: 1432 20 0 find, 
+: 1456 4 -4 my 
+: 1460 16 6 love, 
+: 1484 12 8 my 
+: 1500 8 6 life 
+- 1510
+: 1516 4 13 But 
+: 1520 4 13 I 
+: 1524 8 13 know 
+: 1536 4 5 I 
+: 1544 8 6 don’t 
+: 1556 12 8 possess 
+: 1572 8 10 you 
+- 1582
+: 1592 4 10 With 
+: 1600 4 10 all 
+: 1604 8 3 my 
+: 1612 8 5 heart, 
+: 1624 4 6 God 
+: 1632 4 6 bless 
+: 1640 12 8 you 
+- 1654
+: 1664 4 7 You 
+: 1668 4 8 will 
+: 1676 4 10 be 
+: 1684 8 8 my 
+: 1692 16 6 love 
+: 1712 28 13 and 
+: 1744 4 12 my 
+: 1752 20 13 li
+: 1772 4 12 fe 
+- 1778
+: 1792 8 8 You’re 
+: 1804 4 10 my 
+: 1812 8 12 one 
+: 1820 4 10 and 
+: 1824 4 8 on
+: 1828 80 17 ly 
+- 1910
+: 1984 4 1 I 
+: 1992 4 2 held 
+: 2000 4 1 you 
+: 2008 8 0 close 
+: 2020 4 1 to 
+: 2024 16 3 me 
+- 2042
+: 2088 8 5 Felt 
+: 2096 8 5 your 
+: 2108 24 6 heartbeat 
+: 2136 4 5 and 
+: 2140 4 3 I 
+: 2148 8 1 thought 
+: 2160 4 3 I 
+: 2168 4 1 am 
+: 2176 12 3 free 
+- 2190
+: 2192 16 6 Oh, 
+: 2216 8 4 yes 
+: 2248 8 1 and 
+: 2256 4 3 as 
+: 2264 8 0 one 
+: 2280 4 3 are 
+: 2284 28 5 we 
+- 2314
+: 2348 4 5 In 
+: 2352 4 7 the 
+: 2356 12 8 now 
+: 2368 16 8 and 
+: 2388 60 7 beyond 
+- 2450
+: 2472 12 10 Nothing 
+: 2484 12 12 and 
+: 2500 8 13 no 
+: 2508 8 12 one 
+: 2520 12 10 can 
+: 2536 24 8 break 
+: 2564 24 7 this 
+: 2592 64 8 bond 
+- 2658
+: 2680 4 12 Like 
+: 2688 8 12 an 
+: 2700 12 12 image 
+: 2716 16 12 passing 
+: 2736 12 13 by, 
+: 2760 8 8 my 
+: 2768 8 6 love, 
+: 2788 12 6 my 
+: 2804 8 5 life 
+- 2814
+: 2820 4 5 In 
+: 2824 4 5 the 
+: 2832 16 5 mirror 
+: 2852 4 10 of 
+: 2860 4 1 your 
+: 2868 16 0 eyes, 
+: 2884 4 -4 my 
+: 2892 12 6 love, 
+: 2916 4 6 my 
+: 2924 8 5 life 
+- 2934
+: 2948 4 5 I 
+: 2956 4 4 can 
+: 2960 8 5 see 
+: 2972 4 5 it 
+: 2976 4 5 all 
+: 2984 4 6 so 
+: 2996 20 3 clearly 
+- 3018
+: 3028 12 5 All 
+: 3040 4 5 I 
+: 3048 4 5 love 
+: 3052 4 5 so 
+: 3060 36 3 dearly 
+- 3098
+: 3124 20 5 Images 
+: 3148 32 7 passing 
+: 3180 12 8 by 
+- 3194
+: 3204 4 12 Like 
+: 3212 24 12 reflections 
+: 3240 4 13 of 
+: 3244 4 13 your 
+: 3252 12 12 mind, 
+: 3276 4 8 my 
+: 3288 8 6 love, 
+: 3304 8 6 my 
+: 3316 4 5 life 
+- 3322
+: 3336 4 5 Are 
+: 3344 4 5 the 
+: 3348 8 5 words 
+: 3360 4 3 I 
+: 3364 8 10 try 
+: 3376 4 1 to 
+: 3380 16 0 find, 
+: 3400 4 -4 my 
+: 3408 16 6 love, 
+: 3432 4 10 my 
+: 3440 12 5 life 
+- 3454
+: 3464 4 13 But 
+: 3472 4 13 I 
+: 3476 4 13 know 
+: 3484 4 5 I 
+: 3496 12 6 don’t 
+: 3508 8 8 possess 
+: 3524 16 10 you 
+- 3542
+: 3544 4 10 With 
+: 3552 4 10 all 
+: 3556 4 3 my 
+: 3564 4 5 heart, 
+: 3572 8 6 God 
+: 3584 8 6 bless 
+: 3592 12 8 you 
+- 3606
+: 3612 4 7 You 
+: 3620 4 8 are 
+: 3624 4 10 still 
+: 3632 4 8 my 
+: 3640 16 6 love 
+: 3660 28 13 and 
+: 3692 4 12 my 
+: 3696 24 13 life 
+- 3722
+: 3800 4 10 With 
+: 3808 4 10 all 
+: 3812 4 3 my 
+: 3820 4 5 heart, 
+: 3832 4 6 God 
+: 3840 4 6 bless 
+: 3848 16 8 you 
+- 3866
+: 3868 8 7 You 
+: 3880 4 8 are 
+: 3884 8 10 still 
+: 3892 4 8 my 
+: 3904 24 6 love 
+: 3928 16 13 and 
+: 3952 12 12 my 
+: 3964 20 13 life 
+- 3986
+: 4004 8 10 You’re 
+: 4016 4 10 my 
+: 4024 8 12 one 
+: 4032 4 10 and 
+: 4040 48 17 only 
+E

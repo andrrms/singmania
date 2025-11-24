@@ -1,0 +1,111 @@
+#ARTIST:The Smiths
+#TITLE:Please, Please, Please, Let Me Get What I Want
+#MP3:The Smiths - Please, Please, Please, Let Me Get What I Want.mp3
+#CREATOR:Gollum
+#GENRE:Alternative Rock
+#YEAR:1984
+#LANGUAGE:English
+#BPM:266
+#GAP:2100
+#VIDEO:a=w3qPMe_cCJk,co=https://i.discogs.com/mTE5wSHhehAmchexB2Ygo7FjNaWgSopKQR-v2syDz7I/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc4/MjYtMTM0MDAwNTU0/My03NzA3LmpwZWc.jpeg,bg=smiths-the-6085e661dc658.jpg
+: 0 3 6 Good 
+: 6 20 4 times 
+: 29 2 7 for 
+: 32 2 6 a 
+: 35 29 -3 change 
+- 66
+: 90 4 6 See, 
+: 95 2 4 the 
+: 99 2 6 luck 
+: 103 4 4 I’ve 
+: 109 19 6 had 
+: 132 2 4 can 
+: 135 2 6 make 
+: 139 2 4 a 
+: 142 3 6 good 
+: 147 7 2 man 
+- 156
+: 159 5 4 Turn 
+: 168 21 6 bad 
+- 191
+: 226 14 9 So 
+: 244 13 9 please, 
+: 261 13 7 please, 
+: 277 3 6 please
+: 281 13 4 ~ 
+- 296
+: 300 3 7 Let 
+: 305 11 6 me, 
+: 317 3 7 let 
+: 323 10 6 me, 
+: 334 3 7 let 
+: 340 18 6 me 
+- 360
+: 368 3 6 Let 
+: 374 19 2 me 
+: 395 3 6 get 
+: 401 2 4 what 
+: 404 7 2 I 
+: 413 2 4 want
+: 416 16 6 ~ 
+* 436 4 6 this 
+* 442 8 2 time 
+- 452
+: 599 2 6 Hav
+: 602 2 6 en’t 
+: 605 2 6 had 
+: 608 2 6 a 
+: 611 21 4 dream 
+: 633 1 7 in 
+: 635 2 6 a 
+: 638 3 7 long
+: 642 4 6 ~ 
+: 648 12 2 time 
+- 662
+: 702 4 6 See, 
+: 707 2 4 the 
+: 711 4 6 life 
+: 717 4 4 I’ve 
+: 724 18 6 had 
+* 744 2 4 can 
+* 748 2 6 make 
+: 751 2 4 a 
+: 754 3 6 good 
+: 759 7 2 man 
+- 768
+: 779 24 6 Bad 
+- 805
+: 836 26 9 So 
+: 865 4 9 for 
+: 871 4 9 once 
+: 877 2 7 in 
+: 881 4 6 my 
+: 886 22 6 life 
+- 910
+: 912 3 7 Let 
+: 918 19 6 me 
+* 939 4 4 get 
+* 945 2 6 what 
+* 948 4 7 I 
+: 953 16 6 want 
+- 971
+: 991 2 5 Lord
+: 994 11 6 ~ 
+: 1008 15 6 knows, 
+: 1025 3 6 it 
+: 1030 2 4 would 
+: 1033 4 2 be 
+: 1038 2 4 the 
+: 1042 6 6 first 
+: 1051 10 2 time 
+- 1063
+: 1126 3 5 Lord
+: 1130 11 6 ~ 
+: 1144 14 6 knows, 
+* 1160 3 6 it 
+* 1165 2 4 would 
+* 1168 2 2 be 
+* 1171 2 4 the 
+* 1176 5 6 first 
+* 1184 12 2 time 
+E

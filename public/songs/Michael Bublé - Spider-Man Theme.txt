@@ -1,0 +1,227 @@
+#ARTIST:Michael Bublé
+#TITLE:Spider-Man Theme
+#MP3:Michael Bublé - Spider-Man Theme.mp3
+#CREATOR:Maoz75
+#YEAR:2004
+#LANGUAGE:English
+#BPM:372
+#GAP:10800
+#VIDEO:a=cvhUSQsFWC8,co=https://is1-ssl.mzstatic.com/image/thumb/Music/91/d0/bb/mzi.rdimavlg.jpg/5000x5000bb.jpg,bg=bubl-michael-4fe2593972933.jpg
+: 0 4 2 Spi
+: 8 3 5 der 
+: 12 16 9 man, 
+: 32 4 7 Spi
+: 40 3 5 der 
+: 44 8 2 man, 
+- 64
+: 68 4 2 Does 
+: 76 3 5 what
+: 80 3 9 e 
+: 84 3 10 ver 
+: 88 4 9 a 
+: 96 4 7 spi
+: 104 3 5 der 
+: 108 4 2 can. 
+- 124
+: 128 4 7 Spins 
+: 136 3 10 a 
+: 140 16 14 web, 
+: 160 4 12 a
+: 168 3 10 ny
+: 172 8 7 size. 
+- 192
+: 196 4 9 Cat
+: 204 1 9 ches
+: 208 12 9 thieves 
+: 224 4 7 just 
+: 232 3 5 like 
+: 236 4 2 flies. 
+- 246
+: 248 3 10 Look 
+: 252 4 9 out! 
+: 292 4 5 Here 
+: 300 3 7 comes 
+: 304 4 5 the 
+: 312 3 7 Spi
+: 316 4 5 der
+: 324 12 2 man. 
+- 346
+: 384 3 2 Is 
+: 388 4 5 he 
+: 396 16 9 strong? 
+: 416 3 7 Lis
+: 420 4 5 ten, 
+: 428 8 2 bud. 
+- 448
+: 452 3 2 He’s 
+: 456 4 5 got 
+: 464 3 9 ra
+: 468 3 10 dio
+: 472 4 9 ~
+: 480 3 7 acti
+: 484 4 5 ve 
+: 492 4 2 blood. 
+- 508
+: 512 3 7 Can 
+: 516 4 10 he 
+: 524 16 14 swing, 
+: 544 3 12 from 
+: 548 4 10 a 
+: 556 4 7 thread? 
+- 570
+: 580 4 9 Take 
+: 588 1 9 a 
+: 592 4 9 look 
+: 608 3 7 o
+: 612 4 5 ver
+: 620 4 2 head. 
+- 630
+: 632 4 10 Hey, 
+: 640 4 9 there! 
+: 676 3 5 There 
+: 680 3 7 goes 
+: 684 4 5 the 
+: 692 3 7 Spi
+: 696 4 5 der
+: 704 8 2 man! 
+- 722
+: 740 8 9 In 
+: 752 11 10 the 
+: 764 19 12 chill 
+: 784 7 10 of 
+: 792 8 9 night, 
+: 816 7 5 at 
+: 824 19 7 the scene 
+: 844 7 5 of a 
+: 852 8 2 crime, 
+- 872
+: 876 4 9 Like 
+: 884 4 10 a 
+: 892 20 12 streak 
+: 916 3 10 of 
+: 920 8 9 light, 
+- 937
+: 940 8 7 He 
+: 952 16 7 arrives, 
+: 972 7 5 just 
+: 980 3 5 in 
+: 984 12 9 time! 
+- 1006
+: 1016 3 2 Spi
+: 1020 4 5 der
+: 1028 16 9 man, 
+: 1048 3 7 Spi
+: 1052 4 5 der
+: 1060 8 7 man, 
+- 1080
+: 1084 8 9 Frien
+: 1096 1 9 dly 
+: 1098 5 9 neigh
+: 1104 1 9 borh
+: 1106 2 9 ood 
+: 1112 3 7 Spi
+: 1116 4 5 der
+: 1124 8 7 man. 
+- 1141
+: 1144 4 7 Wealth 
+: 1152 3 10 and 
+: 1156 16 14 fame? 
+: 1176 3 12 He’s 
+: 1180 4 10 ig
+: 1188 8 7 nored. 
+- 1206
+: 1216 4 9 Action
+: 1224 1 9 ~ 
+: 1228 11 9 is
+: 1240 7 7 ~ 
+: 1248 4 5 his 
+: 1256 8 2 reward. 
+- 1266
+: 1268 3 10 Look 
+: 1272 4 9 out! 
+- 1286
+: 1308 3 5 There 
+: 1312 3 7 goes 
+: 1316 4 5 the 
+: 1324 3 7 Spi
+: 1328 3 5 der
+: 1332 12 2 man! 
+- 1393
+: 2148 8 9 In 
+: 2164 4 10 the 
+: 2172 19 12 chill 
+: 2192 3 10 of 
+: 2196 12 9 night, 
+: 2220 4 7 at 
+: 2228 4 5 the 
+: 2236 19 7 scene 
+: 2256 3 5 of a 
+: 2260 8 2 crime, 
+- 2278
+: 2288 4 9 Like 
+: 2296 4 10 a 
+: 2304 19 12 streak 
+: 2324 3 10 of 
+: 2328 8 9 light, 
+- 2348
+: 2352 4 7 He 
+: 2360 3 7 ar
+: 2364 15 7 rives, 
+: 2380 3 12 just 
+: 2384 4 12 in 
+: 2392 20 9 time! 
+- 2421
+: 2424 3 2 Spi
+: 2428 4 5 der
+: 2436 16 9 man, 
+: 2460 3 7 Spi
+: 2464 4 5 der
+: 2472 8 7 man, 
+- 2492
+: 2496 4 9 Frien
+: 2504 1 9 dly 
+: 2508 3 9 neigh
+: 2512 1 9 borh
+: 2516 4 9 ood 
+: 2524 3 7 Spi
+: 2528 4 5 der
+: 2536 8 7 man. 
+- 2550
+: 2552 3 7 Wealth 
+: 2556 4 10 and 
+: 2564 16 14 fame? 
+: 2584 3 12 He’s 
+: 2588 4 10 ig
+: 2596 8 7 nored. 
+- 2616
+: 2620 7 9 Action
+: 2628 1 9 ~ 
+: 2632 4 9 is
+: 2640 4 9 ~ 
+: 2648 3 7 his 
+: 2652 4 5 re
+: 2660 8 2 ward.
+: 2672 3 10 To 
+: 2676 8 9 him, 
+- 2694
+: 2716 8 7 Life 
+: 2728 12 7 is 
+: 2744 3 5 a 
+: 2748 19 7 great 
+: 2768 12 5 big 
+: 2784 8 2 bang-up. 
+- 2816
+: 2888 3 8 Whe
+: 2892 3 7 re
+: 2896 4 5 ver 
+: 2904 20 7 there’s 
+: 2928 8 5 a 
+: 2940 12 2 hang-up, 
+- 2976
+: 3036 3 8 You’ll 
+: 3040 8 7 find 
+: 3052 11 5 the 
+: 3064 15 7 Spi
+: 3080 16 9 der
+: 3100 256 14 man! 
+E

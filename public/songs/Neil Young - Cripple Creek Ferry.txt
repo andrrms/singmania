@@ -1,0 +1,137 @@
+#ARTIST:Neil Young
+#TITLE:Cripple Creek Ferry
+#MP3:Neil Young - Cripple Creek Ferry.mp3
+#CREATOR:uweotto
+#YEAR:1970
+#LANGUAGE:English
+#BPM:288
+#GAP:8160
+#VIDEO:a=g_4qLDUoBX0,co=after-the-gold-rush-55c4f7116d98a.jpg,bg=young-neil-6572a4c39742d.jpg
+: 0 7 14 Hey 
+: 8 12 14 hey 
+: 28 3 12 cripp
+: 32 8 11 le creek 
+: 44 3 4 fe
+: 48 8 7 rry 
+- 58
+: 72 4 4 Butt
+: 80 12 11 ing through 
+: 96 8 4 the ov
+: 108 4 7 erhang
+: 116 12 11 ing trees 
+- 130
+: 144 8 14 Make 
+: 156 7 14 way 
+: 164 3 14 for 
+: 168 7 12 the cr
+: 176 8 9 ipple creek 
+: 188 3 4 fe
+: 192 8 7 rry 
+- 202
+: 204 3 7 The 
+: 208 3 4 wat
+: 212 8 7 er’s go
+: 224 8 11 ing down 
+- 234
+: 236 3 2 It’s 
+: 240 7 4 a migh
+: 248 12 7 ty tight 
+: 276 11 11 sq
+: 288 12 9 ue
+: 308 12 7 eze 
+- 322
+: 416 3 14 All 
+: 420 12 14 alone 
+: 440 8 14 the cap
+: 452 3 16 tain 
+: 456 16 14 stands 
+- 474
+: 488 3 14 Has
+: 492 12 14 n’t heard 
+: 508 8 14 from his 
+: 520 7 16 deck 
+: 528 8 14 hands 
+- 538
+: 540 7 9 The gam
+: 548 4 7 bler 
+: 556 4 9 tips 
+: 564 3 7 his 
+: 568 8 4 hat 
+- 578
+: 592 3 7 And 
+: 596 7 7 walks 
+: 604 3 9 to
+: 608 7 11 wards 
+: 616 3 2 the 
+: 620 12 2 door 
+- 634
+: 684 8 11 It’s the 
+: 696 7 12 second 
+: 704 7 9 half 
+: 712 3 9 of 
+: 716 3 11 ~
+: 720 16 9 the cruise 
+- 738
+: 756 7 0 And you 
+: 764 3 0 ~
+: 768 7 4 know 
+: 776 7 7 he 
+: 784 7 11 hates 
+: 792 3 4 ~
+: 796 16 2 to lose 
+- 814
+: 884 7 14 Hey 
+: 892 12 14 hey 
+: 908 7 12 cripp
+: 916 7 9 le creek 
+: 924 3 4 f
+: 928 8 7 erry 
+- 938
+: 956 3 4 Butt
+: 960 16 11 ing through 
+: 980 7 4 the ov
+: 988 4 7 erhang
+: 996 12 11 ing trees 
+- 1010
+: 1028 7 14 Make 
+: 1036 7 14 way 
+: 1044 3 14 for 
+: 1048 7 12 the cr
+: 1056 8 9 ipple creek 
+: 1068 3 4 f
+: 1072 3 7 er
+: 1076 7 7 ry 
+- 1084
+: 1084 3 4 The 
+: 1088 12 7 water’s go
+: 1104 8 11 ing down 
+- 1114
+: 1116 4 2 It’s 
+: 1124 7 4 a migh
+: 1132 8 7 ty tight 
+: 1160 11 11 squ
+: 1172 12 9 ee
+: 1188 16 7 ze 
+- 1206
+: 1296 7 14 Hey 
+: 1304 12 14 hey 
+: 1320 7 12 cripp
+: 1328 7 9 le creek 
+: 1336 3 4 f
+: 1340 8 7 erry 
+- 1350
+: 1368 4 4 Butt
+: 1376 12 11 ing through 
+: 1392 4 4 the ov
+: 1400 4 7 erhang
+: 1408 12 11 ing trees 
+- 1422
+: 1436 7 14 Make 
+: 1444 8 14 way 
+: 1456 4 14 for 
+: 1464 7 12 the cr
+: 1472 7 9 ipple creek 
+: 1480 3 4 f
+: 1484 7 7 err
+: 1492 4 7 y 
+E

@@ -1,0 +1,216 @@
+#ARTIST:Ignite
+#TITLE:Live For Better Days
+#MP3:Ignite - Live For Better Days.mp3
+#CREATOR:rootsrocker
+#YEAR:2006
+#LANGUAGE:English
+#BPM:400
+#GAP:5830
+#VIDEO:a=Q3eaJVZXQ70,co=our-darkest-days-5141be7f594e4.jpg,bg=ignite-615f38bdb533e.jpg
+: 0 2 20 Save 
+: 5 3 20 it 
+: 12 5 19 for 
+: 20 45 19 tomorrow 
+- 67
+: 68 11 20 Just 
+: 84 4 13 let 
+: 91 4 9 me 
+: 99 6 9 get 
+: 108 7 20 some 
+: 118 37 18 sleepin’ 
+- 157
+: 172 3 20 Let 
+: 178 4 10 me 
+: 185 31 12 remind 
+- 218
+: 271 1 20 I 
+: 275 9 19 wasn’t 
+: 288 6 19 born 
+: 297 3 20 a 
+: 303 33 19 failure 
+- 338
+: 339 20 19 Tonight 
+: 362 4 19 i 
+: 369 7 9 feel 
+: 379 5 20 we’re 
+: 388 38 18 sinkin’ 
+- 428
+: 445 2 20 And 
+: 450 4 11 I’m 
+: 458 14 13 thinkin’ 
+: 474 5 20 once 
+: 482 15 18 again 
+- 499
+: 500 2 18 SO 
+: 504 3 18 I 
+: 510 3 19 SAY 
+: 516 4 18 GOOD 
+: 524 18 16 NIGHT 
+- 544
+* 588 4 20 TO 
+* 596 15 9 DREAMS 
+* 614 12 9 THAT 
+* 630 13 18 WON’T 
+* 646 12 18 BE 
+* 661 28 20 REALIZED 
+- 691
+: 723 1 20 I 
+: 727 2 20 CAN’T 
+: 732 15 9 SLEEP 
+: 750 10 10 WITH 
+: 765 27 20 DESPERATION 
+: 796 6 19 BY 
+: 805 5 19 MY 
+: 814 14 19 SIDE 
+- 830
+: 861 4 20 THE 
+: 868 32 19 MEMORIES 
+: 904 11 18 START 
+: 918 6 14 TO 
+: 927 30 17 FADE 
+- 959
+* 989 2 20 NOW 
+* 995 4 14 I 
+* 1002 15 16 LIVE 
+* 1021 14 16 FOR 
+* 1039 27 14 BETTER 
+* 1069 17 11 DAYS 
+- 1088
+: 1353 4 20 Last 
+: 1361 4 16 night 
+: 1369 4 18 was 
+: 1377 5 18 wrong 
+: 1386 4 19 it’s 
+: 1393 30 18 mornin’ 
+- 1425
+: 1428 13 19 So 
+: 1444 11 19 tired 
+: 1459 6 9 of 
+: 1468 5 19 this 
+: 1476 36 17 empty 
+- 1514
+: 1532 10 20 Feelin’ 
+: 1545 6 13 in 
+: 1555 25 18 me 
+- 1582
+: 1633 2 20 I 
+: 1637 8 16 wasn’t 
+: 1649 8 20 born 
+: 1660 3 9 a 
+: 1667 28 19 failure 
+- 1697
+: 1701 4 19 No 
+: 1708 6 19 more 
+: 1718 13 20 livin’ 
+: 1734 6 18 in 
+: 1743 33 18 regret 
+- 1778
+: 1796 4 20 Stop 
+: 1804 12 14 feelin’ 
+: 1818 14 13 sorry 
+: 1835 5 16 for 
+: 1843 15 10 yourself 
+- 1860
+: 1862 2 15 So 
+: 1867 3 15 I 
+: 1873 4 9 say 
+: 1879 6 18 good 
+: 1888 16 17 night 
+- 1906
+* 1950 5 20 To 
+* 1958 15 18 dreams 
+* 1976 11 19 that 
+* 1991 13 18 won’t 
+* 2007 11 11 be 
+* 2021 30 18 realized 
+- 2053
+: 2085 2 20 I 
+: 2090 4 16 can’t 
+: 2097 12 19 sleep 
+: 2112 8 20 with 
+: 2129 27 19 desperation 
+: 2159 5 19 by 
+: 2168 4 19 my 
+: 2176 15 19 side 
+- 2193
+: 2215 3 20 As 
+: 2222 5 16 the 
+: 2230 30 17 memories 
+: 2264 12 16 start 
+: 2280 6 13 to 
+: 2289 26 17 fade 
+- 2317
+* 2350 4 20 Now 
+* 2357 4 16 I 
+* 2365 14 15 live 
+* 2382 14 9 for 
+* 2400 27 10 better 
+* 2430 20 15 days 
+- 2452
+: 2493 2 17 Oh 
+: 2498 1 19 I 
+: 2503 14 20 need 
+: 2520 12 9 to 
+: 2535 12 19 end 
+: 2551 9 16 this 
+: 2564 31 17 violence 
+- 2597
+: 2623 2 20 In 
+: 2629 4 18 a 
+: 2636 15 20 place 
+: 2654 11 19 that 
+: 2668 11 19 I 
+: 2687 12 17 called 
+: 2702 19 20 home 
+- 2723
+: 2766 5 20 I 
+: 2774 14 20 need 
+: 2791 12 9 to 
+: 2806 13 19 hear 
+: 2823 9 16 some 
+: 2835 36 11 silence 
+- 2873
+* 2894 11 20 Silence 
+* 2907 5 20 in 
+* 2915 69 17 me 
+- 2986
+* 3028 13 20 Silence 
+* 3045 4 9 in 
+* 3052 76 17 me 
+- 3130
+: 3155 2 20 So 
+: 3159 2 20 I 
+: 3165 4 16 say 
+: 3172 3 18 good 
+: 3179 16 14 night 
+- 3197
+* 3243 3 20 To 
+* 3251 16 19 dreams 
+* 3270 11 20 that 
+* 3285 12 19 won’t 
+* 3301 12 17 be 
+* 3316 30 17 realized 
+- 3348
+: 3376 2 20 I 
+: 3381 4 17 can’t 
+: 3388 14 20 sleep 
+: 3405 10 20 with 
+: 3420 25 20 desperation 
+: 3449 6 18 by 
+: 3459 5 19 my 
+: 3469 15 19 side 
+- 3486
+: 3509 4 20 As 
+: 3516 4 18 the 
+: 3523 33 18 memories 
+: 3559 11 17 start 
+: 3574 6 13 to 
+: 3583 25 17 fade 
+- 3610
+* 3647 2 20 Now 
+* 3653 2 11 I 
+* 3658 12 16 live 
+* 3674 16 10 for 
+* 3693 27 11 better 
+* 3723 31 20 days 
+E

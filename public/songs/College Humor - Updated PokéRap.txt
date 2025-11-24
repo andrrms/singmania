@@ -1,0 +1,2399 @@
+#ARTIST:College Humor
+#TITLE:Updated PokéRap
+#MP3:College Humor - Updated PokéRap.mp3
+#CREATOR:omega-xis
+#GENRE:Anime
+#LANGUAGE:English
+#BPM:360
+#GAP:5000
+#VIDEO:v=Hpk1XvFOe78,co=https://images.genius.com/ba9829a8e1cded0102ff6067e3fad308.1000x563x1.jpg,co-crop=66-0-563-563
+R 0 6 24 I 
+R 8 7 26 wanna 
+R 16 5 26 be 
+R 22 5 28 the 
+R 28 14 28 best 
+R 50 9 24 there 
+R 60 6 18 e
+R 68 11 18 ver 
+R 80 12 2 was 
+- 94
+R 98 6 9 To 
+R 106 5 26 beat 
+R 112 5 26 all 
+R 118 3 26 the 
+R 122 12 26 rest, 
+R 138 12 26 yeah 
+R 152 9 29 that’s 
+R 162 9 5 my 
+R 172 27 5 cause! 
+- 200
+R 200 3 24 Elec
+R 204 3 24 tro
+R 208 3 24 de, 
+R 212 5 24 Dig
+R 218 6 24 lett, 
+R 226 3 24 Ni
+R 230 3 24 do
+R 234 4 24 ran, 
+R 240 5 24 Man
+R 246 6 24 key 
+- 253
+R 254 5 23 Venu
+R 260 5 23 saur, 
+R 266 5 5 Ratta
+R 272 5 5 tta, 
+R 278 3 24 Fea
+R 282 5 24 row, 
+R 288 5 24 Pid
+R 294 8 24 gey 
+- 303
+R 304 5 24 Sea
+R 310 3 24 king, 
+R 314 5 24 Jol
+R 320 5 24 teon, 
+R 326 3 24 Dra
+R 330 1 24 go
+R 332 6 24 nite, 
+R 340 5 24 Gast
+R 346 6 24 ly 
+- 353
+R 354 4 24 Pony
+R 360 3 24 ta, 
+R 364 1 24 Va
+R 366 3 24 po
+R 370 6 23 reon, 
+R 378 3 24 Poli
+R 382 4 24 wrath, 
+R 388 5 24 Butter
+R 394 3 24 free! 
+- 398
+R 398 5 26 You 
+R 404 3 26 knew 
+R 408 6 26 that 
+R 416 18 4 part 
+R 442 7 24 but 
+R 450 6 19 now 
+R 458 9 15 there’s 
+R 468 18 2 more! 
+R 488 6 2 With 
+- 495
+R 496 9 23 All 
+R 506 7 26 new 
+R 514 15 26 games! 
+R 530 5 1 More 
+R 536 9 29 Poke
+R 546 7 29 mon 
+R 554 5 29 to 
+R 560 9 5 ex
+R 570 26 5 plore! 
+- 597
+R 598 5 7 Gen
+R 604 3 7 gar, 
+R 608 5 7 Vulla
+R 614 5 7 by, 
+R 620 5 24 Rati
+R 626 5 24 cate, 
+R 632 4 24 Toxi
+R 638 5 24 croak 
+- 644
+R 644 4 5 Armal
+R 650 5 5 do, 
+R 656 5 5 Vile
+R 662 5 5 plume, 
+R 668 5 24 Ski
+R 674 6 24 tty, 
+R 682 3 24 Seis
+R 686 1 24 me
+R 688 4 24 toad 
+- 693
+R 694 3 7 Com
+R 698 3 7 bus
+R 702 3 7 ken, 
+R 706 5 7 Snor
+R 712 5 7 lax, 
+R 718 3 24 Mi
+R 722 3 24 llo
+R 726 3 24 tic, 
+R 730 3 24 To
+R 734 3 24 ge
+R 738 4 24 pi 
+- 743
+R 744 5 5 Crust
+R 750 5 5 le, 
+R 756 5 20 Go
+R 762 5 20 goat, 
+R 768 6 24 Lu
+R 776 5 24 xio, 
+R 782 5 7 Vol
+R 788 5 7 beat! 
+- 794
+R 794 5 7 Me
+R 800 5 7 tang, 
+R 806 5 24 Her
+R 812 3 24 dier, 
+R 816 5 24 Far
+R 822 6 24 fethch’d, 
+R 830 5 7 Slow
+R 836 1 7 po
+R 838 1 7 ke 
+R 840 5 7 sol
+R 846 6 7 rock 
+- 853
+R 854 3 1 Got
+R 858 3 1 hi
+R 862 4 1 telle, 
+R 868 5 1 Mi
+R 874 6 1 nun, 
+R 882 3 24 Tym
+R 886 6 24 pole 
+- 893
+R 894 5 7 Deer
+R 900 5 7 ling, 
+R 906 1 24 Ae
+R 908 2 24 gi
+R 912 3 24 slash, 
+R 916 5 24 Sand
+R 922 5 24 slash, 
+R 928 5 1 Stee
+R 934 6 1 lix 
+- 941
+R 942 4 1 Grave
+R 948 3 1 ler, 
+R 952 5 17 Osha
+R 958 6 17 wott, 
+R 966 5 16 Came
+R 972 5 16 rupt, 
+R 978 6 16 Swir
+R 986 6 16 lix! 
+- 994
+R 1032 6 26 Go
+R 1040 5 26 tta 
+R 1046 8 31 catch 
+R 1056 8 33 ’em 
+R 1066 9 33 all 
+R 1076 5 30 Po
+R 1082 5 30 ke
+R 1088 12 30 mon! 
+- 1102
+R 1140 3 4 Le
+R 1144 3 4 dy
+R 1148 3 4 ba, 
+R 1152 3 24 Saws
+R 1156 3 24 buck, 
+R 1160 5 24 She
+R 1166 6 24 llos, 
+R 1174 3 7 Ga
+R 1178 3 7 bi
+R 1182 3 7 te 
+- 1186
+R 1186 5 5 Foon
+R 1192 6 5 gus, 
+R 1200 5 24 Dus
+R 1206 5 24 kull, 
+R 1212 5 24 Gul
+R 1218 5 24 pin, 
+R 1224 3 24 Va
+R 1228 1 24 nni
+R 1230 3 24 li
+R 1234 3 24 te 
+- 1238
+R 1238 3 5 Es
+R 1242 3 5 pe
+R 1246 3 5 on, 
+R 1250 3 24 Ma
+R 1254 1 24 ku
+R 1256 3 24 hi
+R 1260 1 24 ta, 
+R 1262 11 24 Throh, 
+R 1274 5 6 Mew
+R 1280 5 6 two 
+- 1286
+R 1286 5 4 Cle
+R 1292 5 4 ffa, 
+R 1298 3 24 Lar
+R 1302 3 24 ve
+R 1306 3 24 sta, 
+R 1310 5 24 Mol
+R 1316 5 24 tres, 
+R 1322 3 24 Pump
+R 1326 3 24 ka
+R 1330 4 24 boo! 
+- 1335
+R 1336 3 24 E
+R 1340 3 24 mol
+R 1344 3 24 ga, 
+R 1348 5 24 Lo
+R 1354 5 24 tad, 
+R 1360 5 24 Haun
+R 1366 6 24 ter, 
+R 1374 5 24 Se
+R 1380 5 24 waddle 
+- 1386
+R 1386 5 24 Pa
+R 1392 5 24 ras, 
+R 1398 3 24 Mag
+R 1402 3 24 ne
+R 1406 3 24 ton, 
+R 1410 5 24 Duo
+R 1416 5 24 sion, 
+R 1422 3 5 Weep
+R 1426 3 5 pin
+R 1430 3 5 bell 
+- 1434
+R 1434 3 10 Pory
+R 1438 3 10 gon
+R 1442 3 10 -Z, 
+R 1446 5 24 Lit
+R 1452 6 24 leo, 
+R 1460 3 24 Fla
+R 1464 3 24 be
+R 1468 3 24 be, 
+R 1472 3 24 Ar
+R 1476 1 24 ti
+R 1478 3 24 cu
+R 1482 3 24 no 
+- 1486
+R 1486 5 24 Lan
+R 1492 5 24 turn, 
+R 1498 5 24 Munch
+R 1504 5 24 lax, 
+R 1510 5 24 Badcu
+R 1516 6 24 lin, 
+R 1524 5 24 Pidgeo
+R 1530 8 24 tto! 
+- 1540
+R 1558 7 24 Man... 
+R 1566 5 24 that 
+R 1572 1 24 was 
+R 1574 3 24 a 
+R 1578 10 5 lot! 
+R 1600 3 24 How 
+R 1604 4 2 many 
+R 1610 1 2 to 
+R 1612 4 25 go? 
+- 1618
+R 1620 10 9 Six 
+R 1632 3 7 hun
+R 1636 3 7 dred 
+R 1640 8 26 thirty 
+R 1650 11 28 eight 
+- 1662
+R 1662 12 24 Wait.. 
+R 1676 11 1 what? 
+R 1688 12 4 No, 
+R 1702 6 5 no, 
+R 1710 11 5 no! 
+- 1722
+R 1722 3 5 Gal
+R 1726 1 5 van
+R 1728 3 5 tu
+R 1732 3 5 la, 
+R 1736 5 7 Star
+R 1742 5 7 yu, 
+R 1748 3 24 Lo
+R 1752 3 24 pu
+R 1756 4 24 nny, 
+R 1762 5 24 Bre
+R 1768 4 24 loom 
+- 1773
+R 1774 3 5 Elec
+R 1778 3 5 ta
+R 1782 4 5 buzz, 
+R 1788 5 5 Luv
+R 1794 5 5 disc, 
+R 1800 3 24 Mag
+R 1804 3 24 mor
+R 1808 3 24 tar, 
+R 1812 5 24 Skip
+R 1818 6 24 loom 
+- 1825
+R 1826 5 7 Wurm
+R 1832 5 7 ple, 
+R 1838 5 6 Ava
+R 1844 6 6 lugg, 
+R 1852 5 1 Pip
+R 1858 5 1 lup, 
+R 1864 5 24 Scy
+R 1870 5 24 ther 
+- 1876
+R 1876 3 5 Rhy
+R 1880 3 5 per
+R 1884 4 5 ior, 
+R 1890 3 5 Ty
+R 1894 1 5 ra
+R 1896 3 5 ni
+R 1900 1 5 tar, 
+R 1902 5 24 Lai
+R 1908 5 24 ron, 
+R 1914 5 1 Py
+R 1920 6 1 roar! 
+- 1927
+R 1928 3 7 Azu
+R 1932 3 7 ma
+R 1936 3 7 ril, 
+R 1940 5 24 Ze
+R 1946 5 24 krom, 
+R 1952 3 1 Hippo
+R 1956 3 1 poot
+R 1960 4 1 as, 
+R 1966 5 10 Gla
+R 1972 5 10 ceon 
+- 1978
+R 1978 5 7 Strap
+R 1984 5 7 tor, 
+R 1990 3 24 Gi
+R 1994 1 24 ra
+R 1996 3 24 ti
+R 2000 1 24 na, 
+R 2002 5 1 Ya
+R 2008 5 1 mask, 
+R 2014 5 1 Fly
+R 2020 5 1 gon 
+- 2026
+R 2026 3 7 Li
+R 2030 1 7 cky
+R 2032 3 7 li
+R 2036 1 7 cky, 
+R 2038 5 24 Pan
+R 2044 5 24 cham, 
+R 2050 5 24 Man
+R 2056 4 24 tyke, 
+R 2062 5 24 Pid
+R 2068 3 24 geot 
+- 2072
+R 2072 4 24 Pal
+R 2078 5 24 kia, 
+R 2084 4 24 Woop
+R 2090 3 24 er, 
+R 2094 5 16 Ga
+R 2100 6 16 llade, 
+R 2108 5 16 Pawn
+R 2114 5 16 yard! 
+- 2120
+R 2120 3 5 Gotta 
+R 2124 4 5 catch 
+R 2130 1 1 ’em 
+R 2132 2 7 all 
+- 2135
+R 2136 5 24 Gotta 
+R 2142 3 24 catch 
+R 2146 5 24 ’em 
+R 2152 6 24 all 
+- 2160
+R 2168 3 5 Gotta 
+R 2172 3 2 catch 
+R 2176 4 24 ’em 
+R 2182 3 4 all 
+- 2186
+R 2186 3 43 Gotta 
+R 2190 4 24 catch 
+R 2196 3 24 ’em 
+R 2200 5 29 all 
+- 2206
+R 2206 5 24 Do 
+R 2212 6 31 we? 
+- 2220
+R 2222 8 31 Ye
+R 2232 7 40 ee
+R 2240 3 40 ee
+R 2244 3 40 ee
+R 2248 3 40 ee
+R 2252 6 40 es! 
+- 2260
+R 2266 3 7 Flet
+R 2270 3 7 chin
+R 2274 3 7 der, 
+R 2278 3 24 Cro
+R 2282 1 24 co
+R 2284 6 24 naw, 
+R 2292 5 24 Du
+R 2298 5 24 rant, 
+R 2304 5 6 Che
+R 2310 6 6 rim 
+- 2317
+R 2318 11 5 Mew, 
+R 2330 3 24 A
+R 2334 3 24 mau
+R 2338 4 24 ra, 
+R 2344 3 24 Ur
+R 2348 1 24 sa
+R 2350 5 24 ring, 
+R 2356 5 5 El
+R 2362 6 5 gyem 
+- 2369
+R 2370 5 5 Clem
+R 2376 5 5 pearl, 
+R 2382 3 24 Ma
+R 2386 3 24 gi
+R 2390 3 24 karp, 
+R 2394 5 31 Cha
+R 2400 5 31 tot, 
+R 2406 3 24 Au
+R 2410 3 24 ro
+R 2414 4 24 rus 
+- 2419
+R 2420 5 5 Pi
+R 2426 5 5 dove, 
+R 2432 3 24 Lu
+R 2436 1 24 di
+R 2438 3 24 co
+R 2442 1 24 lo
+R 2444 4 24 Dark
+R 2450 3 24 rai, 
+R 2454 5 24 Nose
+R 2460 6 24 pass! 
+- 2467
+R 2468 3 24 Cra
+R 2472 1 24 ni
+R 2474 3 24 dos, 
+R 2478 4 24 Kyo
+R 2484 4 24 gre, 
+R 2490 4 24 In
+R 2496 4 24 kay, 
+R 2502 3 24 Mag
+R 2506 1 24 ne
+R 2508 4 24 zone 
+- 2513
+R 2514 5 24 Shu
+R 2520 5 24 ppet, 
+R 2526 5 24 Wal
+R 2532 6 24 rein, 
+R 2540 5 24 Del
+R 2546 5 24 catty, 
+R 2552 3 24 Gya
+R 2556 3 24 ra
+R 2560 3 24 dos! 
+- 2564
+R 2564 12 24 Ralts, 
+R 2578 3 24 La
+R 2582 7 24 tias, 
+R 2590 3 24 Chan
+R 2594 3 24 de
+R 2598 3 24 lure, 
+R 2602 5 24 Tor
+R 2608 5 24 chic! 
+- 2614
+R 2614 3 24 Wor
+R 2618 3 24 ma
+R 2622 3 24 dam, 
+R 2626 5 24 A
+R 2632 5 24 bra, 
+R 2638 3 24 Ve
+R 2642 3 24 no
+R 2646 4 24 moth, 
+R 2652 7 24 Jol
+R 2660 8 24 tik! 
+- 2670
+R 2676 3 24 For 
+R 2680 3 3 real 
+R 2684 4 24 though... 
+R 2690 1 5 My 
+R 2692 2 24 throat’s 
+R 2696 9 24 sore. 
+R 2706 5 24 I 
+R 2712 5 24 need 
+R 2718 5 24 a 
+R 2724 18 2 rest 
+- 2744
+R 2750 9 9 No 
+R 2760 8 25 rest 
+R 2770 5 25 for 
+R 2776 6 28 the 
+R 2784 6 28 best! 
+- 2792
+R 2804 11 2 (Sigh) 
+R 2816 5 2 The 
+R 2822 11 5 best, 
+R 2834 3 5 I 
+R 2838 1 7 get 
+R 2840 4 7 it. 
+R 2846 11 5 fine... 
+- 2858
+R 2858 5 7 Sun
+R 2864 5 7 kern, 
+R 2870 5 7 Win
+R 2876 6 7 gull, 
+R 2884 3 24 Cyn
+R 2888 3 24 da
+R 2892 3 24 quill, 
+R 2896 5 24 Tim
+R 2902 6 24 burr 
+- 2909
+R 2910 5 5 Karra
+R 2916 5 5 blast, 
+R 2922 5 5 Fril
+R 2928 5 5 lish, 
+R 2934 5 24 Kel
+R 2940 5 24 deo, 
+R 2946 3 24 Ser
+R 2950 3 24 pe
+R 2954 3 24 rior 
+- 2958
+R 2958 5 7 Star
+R 2964 4 7 mie, 
+R 2970 3 24 Bel
+R 2974 3 24 lo
+R 2978 3 24 ssom, 
+R 2982 5 24 Ruff
+R 2988 6 24 let, 
+R 2996 3 24 Shar
+R 3000 3 24 pe
+R 3004 3 24 do 
+- 3008
+R 3008 5 5 Flor
+R 3014 5 5 ges, 
+R 3020 5 5 Mien
+R 3026 6 5 foo, 
+R 3034 5 24 Wea
+R 3040 5 24 vile, 
+R 3046 3 1 Lu
+R 3050 1 1 na
+R 3052 3 1 to
+R 3056 1 1 ne 
+- 3058
+R 3058 5 7 Phan
+R 3064 5 7 py, 
+R 3070 3 24 Vib
+R 3074 3 24 ra
+R 3078 3 24 va, 
+R 3082 5 24 Fla
+R 3088 5 24 reon, 
+R 3094 3 6 Bul
+R 3098 3 6 ba
+R 3102 4 6 saur! 
+- 3107
+R 3108 3 7 Cin
+R 3112 3 7 cin
+R 3116 3 7 no, 
+R 3120 5 24 Swan
+R 3126 5 24 na, 
+R 3132 5 1 Pin
+R 3138 5 1 sir, 
+R 3144 3 24 O
+R 3148 1 24 ma
+R 3150 3 24 star! 
+- 3154
+R 3154 3 7 Ex
+R 3158 1 7 ca
+R 3160 5 7 drill, 
+R 3166 5 6 Um
+R 3172 6 6 breon, 
+R 3180 3 24 Vic
+R 3184 3 24 ti
+R 3188 3 24 ni, 
+R 3192 5 24 Reli
+R 3198 5 24 canth 
+- 3204
+R 3204 5 24 Ching
+R 3210 6 24 ling, 
+R 3218 5 1 Glis
+R 3224 5 1 cor, 
+R 3230 1 24 Va
+R 3232 4 24 ni
+R 3238 3 24 lish, 
+R 3242 3 24 Li
+R 3246 3 24 li
+R 3250 4 24 gant 
+- 3256
+R 3288 5 26 These 
+R 3294 6 29 are 
+R 3302 13 29 all 
+R 3316 9 33 serious
+R 3326 10 33 ly 
+R 3338 7 24 po
+R 3346 7 24 ke
+R 3354 10 24 mon! 
+- 3366
+R 3396 5 23 Bron
+R 3402 6 23 zor, 
+R 3410 5 24 Spea
+R 3416 5 24 row, 
+R 3422 3 24 Ka
+R 3426 3 24 ku
+R 3430 4 24 na, 
+R 3436 5 24 Cast
+R 3442 5 24 form 
+- 3448
+R 3448 5 5 Smear
+R 3454 6 5 gle, 
+R 3462 5 24 Don
+R 3468 6 24 phan, 
+R 3476 3 24 Pory
+R 3480 1 24 gon
+R 3482 4 24 2, 
+R 3488 5 5 Heat
+R 3494 5 5 more 
+- 3500
+R 3500 3 4 Kek
+R 3504 3 4 le
+R 3508 3 4 on, 
+R 3512 5 24 Spew
+R 3518 5 24 pa, 
+R 3524 5 24 Meow
+R 3530 6 24 stick, 
+R 3538 5 24 Wobbo
+R 3544 5 24 fett 
+- 3550
+R 3550 5 24 Sprit
+R 3556 6 24 zee, 
+R 3564 5 24 Grum
+R 3570 5 24 pig, 
+R 3576 3 24 O
+R 3580 6 24 nix, 
+R 3588 5 24 Stout
+R 3594 5 24 land! 
+- 3600
+R 3600 3 24 Aboma
+R 3604 3 25 snow, 
+R 3608 5 24 Electi
+R 3614 6 24 vire, 
+R 3622 3 24 Aero
+R 3626 3 24 dac
+R 3630 3 24 tyl, 
+R 3634 5 24 Solo
+R 3640 5 24 sis 
+- 3646
+R 3646 5 24 A
+R 3652 6 24 ron, 
+R 3660 5 24 Ma
+R 3666 5 24 wile, 
+R 3672 5 24 Rio
+R 3678 5 24 lu, 
+R 3684 5 24 Lap
+R 3690 5 24 ras 
+- 3696
+R 3696 5 25 Dun
+R 3702 5 24 sparce, 
+R 3708 3 24 Vi
+R 3712 1 24 vil
+R 3714 3 24 li
+R 3718 1 24 on, 
+R 3720 5 24 Ho-
+R 3726 6 24 Oh, 
+R 3734 5 24 Qui
+R 3740 5 24 lava 
+- 3746
+R 3746 1 24 Bun
+R 3748 4 24 nel
+R 3754 3 24 by, 
+R 3758 5 24 Exege
+R 3764 5 24 cute, 
+R 3770 5 24 Shel
+R 3776 5 24 met, 
+R 3782 7 24 King
+R 3790 6 24 dra! 
+- 3798
+R 3808 5 24 Can 
+R 3814 3 24 i 
+R 3818 3 24 at 
+R 3822 3 24 least 
+R 3826 3 24 get 
+R 3830 3 24 a 
+R 3834 16 24 snack? 
+R 3862 3 2 My 
+R 3866 7 2 blood 
+R 3874 7 23 sugar’s 
+R 3882 7 9 low... 
+- 3890
+R 3890 5 9 We 
+R 3896 5 26 paid 
+R 3902 3 26 you 
+R 3906 5 25 to 
+R 3912 11 24 sing 
+R 3924 10 24 not 
+R 3936 5 29 to 
+R 3942 11 29 stuff 
+R 3954 11 4 your 
+R 3966 24 44 hole! 
+- 3991
+R 3992 5 24 Quil
+R 3998 3 24 fish, 
+R 4002 4 24 Skoru
+R 4008 5 24 pi, 
+R 4014 5 24 Bur
+R 4020 5 24 my, 
+R 4026 5 24 Trub
+R 4032 5 24 mish 
+- 4038
+R 4038 3 24 Me
+R 4042 3 24 ta
+R 4046 3 24 gross, 
+R 4050 5 24 Accel
+R 4056 6 24 gor, 
+R 4064 5 24 Lie
+R 4070 5 24 pard, 
+R 4076 5 24 Cor
+R 4082 6 24 phish 
+- 4089
+R 4090 5 24 Shift
+R 4096 5 24 ry, 
+R 4102 5 24 Illum
+R 4108 6 24 ise, 
+R 4116 3 24 Kri
+R 4120 1 24 ke
+R 4122 3 24 tot, 
+R 4126 3 24 Te
+R 4130 4 24 pig 
+- 4135
+R 4136 5 24 Gla
+R 4142 5 24 meow, 
+R 4148 5 24 Bu
+R 4154 6 24 neary, 
+R 4162 5 24 Bui
+R 4168 5 24 zel, 
+R 4174 3 24 To
+R 4178 3 24 ge
+R 4182 3 24 kiss 
+- 4186
+R 4186 3 24 Si
+R 4190 3 24 mi
+R 4194 4 24 pour, 
+R 4200 5 24 Grou
+R 4206 5 24 don, 
+R 4212 5 24 Ma
+R 4218 5 24 rill, 
+R 4224 6 24 Gol
+R 4232 5 24 bat 
+- 4238
+R 4238 5 24 Mime 
+R 4244 3 24 Jr, 
+R 4248 5 24 Zwei
+R 4254 5 24 lous, 
+R 4260 4 24 Spin
+R 4266 5 24 da, 
+R 4272 4 24 Nin
+R 4278 5 24 jask! 
+- 4284
+R 4284 3 24 Mis
+R 4288 1 24 drea
+R 4290 3 24 vus, 
+R 4294 3 24 Char
+R 4298 3 24 me
+R 4302 4 24 leon, 
+R 4308 3 24 re
+R 4312 1 24 gi
+R 4314 3 24 gi
+R 4318 3 24 gas, 
+R 4322 5 24 Wee
+R 4328 5 24 zing! 
+- 4334
+R 4334 5 24 Chin
+R 4340 6 24 chou, 
+R 4348 3 24 A
+R 4352 1 24 ro
+R 4354 3 24 ma
+R 4358 3 24 tisse, 
+R 4362 5 24 Gothi
+R 4368 5 24 ta, 
+R 4374 3 24 Ni
+R 4378 3 24 do
+R 4382 6 24 king! 
+- 4390
+R 4430 7 26 Can 
+R 4438 5 31 never 
+R 4444 5 31 have 
+R 4450 6 33 too 
+R 4458 9 33 many 
+R 4468 7 31 po
+R 4476 5 31 ke
+R 4482 8 31 mon! 
+- 4492
+R 4500 16 25 (Ugh...) 
+- 4518
+R 4532 3 24 Cor
+R 4536 1 24 so
+R 4538 4 24 la, 
+R 4544 11 24 Shinx, 
+R 4556 3 24 Zo
+R 4560 1 24 ru
+R 4562 4 24 a, 
+R 4568 5 24 Xa
+R 4574 5 24 tu 
+- 4580
+R 4580 3 24 Con
+R 4584 3 24 kel
+R 4588 3 24 durr, 
+R 4592 5 24 Ray
+R 4598 3 24 qua
+R 4602 1 24 za, 
+R 4604 5 24 Gol
+R 4610 6 24 duck, 
+R 4618 3 24 Ten
+R 4622 3 24 ta
+R 4626 3 24 cool 
+- 4630
+R 4630 5 30 Jelli
+R 4636 5 30 cent, 
+R 4642 3 29 Dra
+R 4646 3 29 gal
+R 4650 4 29 gea, 
+R 4656 5 28 Mur
+R 4662 5 28 krow, 
+R 4668 4 26 Li
+R 4674 5 26 leep 
+- 4680
+R 4680 3 24 Un
+R 4684 1 24 fea
+R 4686 4 24 zent, 
+R 4692 4 24 Wail
+R 4698 5 24 mer, 
+R 4704 3 24 Mon
+R 4708 3 24 fer
+R 4712 3 24 no, 
+R 4716 5 24 Ee
+R 4722 5 24 vee 
+- 4728
+R 4728 3 24 Am
+R 4732 3 24 bi
+R 4736 4 24 pom, 
+R 4742 5 24 Lom
+R 4748 5 24 bre, 
+R 4754 5 30 Grot
+R 4760 5 30 le, 
+R 4766 5 24 Man
+R 4772 6 24 tine 
+- 4779
+R 4780 3 24 Char
+R 4784 3 24 man
+R 4788 3 24 der, 
+R 4792 1 24 A
+R 4794 2 24 la
+R 4798 1 24 ka
+R 4800 2 24 zam, 
+R 4804 3 24 A
+R 4808 3 24 zu
+R 4812 3 24 rill, 
+R 4816 5 24 Ferro
+R 4822 6 24 seed 
+- 4829
+R 4830 5 24 Lou
+R 4836 6 24 dred, 
+R 4844 5 24 Elec
+R 4850 3 24 trike, 
+R 4854 3 24 Spi
+R 4858 1 24 ri
+R 4860 3 24 tomb, 
+R 4864 5 24 Elec
+R 4870 4 24 tross 
+- 4875
+R 4876 11 24 Seel, 
+R 4888 5 24 Cle
+R 4894 6 24 fairy, 
+R 4902 5 24 Drift
+R 4908 6 24 blim, 
+R 4916 5 24 Del
+R 4922 3 24 phox 
+- 4926
+R 4926 3 24 Gotta 
+R 4930 3 24 catch 
+R 4934 3 24 ’em 
+R 4938 3 24 all 
+- 4942
+R 4942 3 24 Gotta 
+R 4946 3 24 catch 
+R 4950 4 24 ’em 
+R 4956 4 24 all 
+- 4962
+R 4970 3 6 Gotta 
+R 4974 5 2 catch 
+R 4980 5 24 ’em 
+R 4986 3 24 all 
+- 4990
+R 4990 3 24 Gotta 
+R 4994 3 24 catch 
+R 4998 3 24 ’em 
+R 5002 6 24 all 
+- 5010
+R 5018 2 19 But 
+R 5022 1 17 I 
+R 5024 3 19 have 
+R 5028 4 16 a 
+R 5034 6 18 life! 
+- 5041
+R 5042 8 31 Leave 
+R 5052 16 29 it! 
+- 5069
+R 5070 3 7 Vol
+R 5074 1 7 ca
+R 5076 3 7 ro
+R 5080 1 7 na, 
+R 5082 5 7 Vul
+R 5088 5 7 pix, 
+R 5094 3 27 Ha
+R 5098 1 27 ri
+R 5100 3 26 ya
+R 5104 3 27 ma, 
+R 5108 3 24 Re
+R 5112 3 24 shi
+R 5116 3 24 ram 
+- 5120
+R 5120 12 5 Gloom, 
+R 5134 3 4 Ma
+R 5138 3 4 li
+R 5142 3 4 mar, 
+R 5146 5 24 Psy
+R 5152 6 24 duck, 
+R 5160 5 24 Go
+R 5166 5 24 lem 
+- 5172
+R 5172 3 7 Snea
+R 5176 4 7 sle, 
+R 5182 3 1 Si
+R 5186 1 1 mi
+R 5188 3 1 sa
+R 5192 1 1 ge, 
+R 5194 3 24 Rog
+R 5198 1 24 gen
+R 5200 3 24 ro
+R 5204 1 24 la, 
+R 5206 5 24 Blas
+R 5212 6 24 toise 
+- 5219
+R 5220 5 5 Tyna
+R 5226 5 5 mo, 
+R 5232 5 5 Lam
+R 5238 5 5 pent, 
+R 5244 3 16 Klef
+R 5248 3 16 ki, 
+R 5252 5 16 Purr
+R 5258 6 16 loin 
+- 5265
+R 5266 5 7 Skun
+R 5272 6 7 tank, 
+R 5280 5 24 Tai
+R 5286 6 24 low, 
+R 5294 5 29 Bra
+R 5300 6 29 xien, 
+R 5308 5 27 Yan
+R 5314 5 27 ma 
+- 5320
+R 5320 3 7 Dra
+R 5324 1 7 gon
+R 5326 4 7 air, 
+R 5332 5 1 Ma
+R 5338 5 1 champ, 
+R 5344 5 1 Cac
+R 5350 5 1 nea, 
+R 5356 5 24 Dial
+R 5362 6 24 ga 
+- 5369
+R 5370 5 7 Dirf
+R 5376 5 7 loon, 
+R 5382 5 26 Maro
+R 5388 5 26 wak, 
+R 5394 5 26 Stant
+R 5400 5 26 ler, 
+R 5406 5 1 Mud
+R 5412 5 1 kip 
+- 5418
+R 5418 5 1 Pan
+R 5424 6 1 pour, 
+R 5432 5 1 Mien
+R 5438 5 1 shao, 
+R 5444 5 24 Prime
+R 5450 5 24 ape, 
+R 5456 1 4 Fen
+R 5458 1 4 ni
+R 5460 4 4 ken 
+- 5466
+R 5510 7 9 Not 
+R 5518 7 30 even 
+R 5526 7 33 half 
+R 5534 8 33 way 
+R 5544 7 31 through! 
+R 5552 7 31 Po
+R 5560 5 31 ke
+R 5566 10 31 mon! 
+- 5578
+R 5610 5 5 Squir
+R 5616 5 5 tle, 
+R 5622 5 24 Tyro
+R 5628 6 24 gue, 
+R 5636 5 24 Yvel
+R 5642 5 24 tal, 
+R 5648 5 30 Bi
+R 5654 5 30 doof 
+- 5660
+R 5660 3 5 Fe
+R 5664 1 5 ra
+R 5666 3 5 li
+R 5670 1 5 gatr, 
+R 5672 5 24 Cac
+R 5678 6 24 turne, 
+R 5686 5 24 Bear
+R 5692 6 24 tic, 
+R 5700 5 5 Slig
+R 5706 5 5 goo 
+- 5712
+R 5712 3 5 Cle
+R 5716 1 5 fa
+R 5718 4 5 ble, 
+R 5724 3 24 Nin
+R 5728 1 24 ca
+R 5730 4 24 da, 
+R 5736 4 24 Stun
+R 5742 5 24 fisk, 
+R 5748 4 8 Ma
+R 5754 5 8 reep 
+- 5760
+R 5760 3 5 Am
+R 5764 1 5 pha
+R 5766 5 5 ros, 
+R 5772 3 24 Mag
+R 5776 3 24 car
+R 5780 3 24 go, 
+R 5784 5 24 Cater
+R 5790 6 24 pie, 
+R 5798 5 24 Sla
+R 5804 5 24 king 
+- 5810
+R 5810 3 24 Pro
+R 5814 3 24 bo
+R 5818 3 24 pass, 
+R 5822 5 24 Mr. 
+R 5828 6 24 Mime, 
+R 5836 5 29 Dra
+R 5842 5 29 pion, 
+R 5848 5 29 Folat
+R 5854 5 29 zel 
+- 5860
+R 5860 5 23 Ab
+R 5866 5 24 sol, 
+R 5872 5 24 Jum
+R 5878 4 24 pluff, 
+R 5884 3 24 Tor
+R 5888 3 24 te
+R 5892 3 24 rra, 
+R 5896 3 5 Vic
+R 5900 3 6 tre
+R 5904 4 6 bel 
+- 5909
+R 5910 5 24 A
+R 5916 5 24 xew, 
+R 5922 5 24 Pan
+R 5928 6 24 sear, 
+R 5936 5 24 Dou
+R 5942 5 24 blade, 
+R 5948 5 24 Nido
+R 5954 5 24 queen 
+- 5960
+R 5960 3 24 Da
+R 5964 1 24 ru
+R 5966 3 24 ma
+R 5970 1 24 ka, 
+R 5972 5 24 Shroo
+R 5978 6 24 mish, 
+R 5986 5 24 Kir
+R 5992 3 24 lia, 
+R 5996 5 23 Kof
+R 6002 6 23 fing! 
+- 6010
+R 6018 12 30 Hey! 
+- 6032
+R 6044 5 24 Oh 
+R 6050 9 24 thank 
+R 6060 6 24 god! 
+R 6074 2 3 Am 
+R 6078 1 2 i 
+R 6080 2 2 done? 
+- 6083
+R 6084 12 2 No! 
+R 6098 8 9 Just 
+R 6110 6 26 dropping 
+R 6118 5 26 off 
+R 6124 3 28 the 
+R 6128 6 30 next 
+R 6136 8 31 list! 
+- 6146
+R 6156 12 1 NO! 
+R 6172 14 25 PLEASE! 
+- 6188
+R 6202 5 24 Hyp
+R 6208 4 24 no, 
+R 6214 5 24 Quag
+R 6220 5 24 sire, 
+R 6226 5 24 Tree
+R 6232 6 24 ko, 
+R 6240 5 24 Hor
+R 6246 5 24 sea 
+- 6252
+R 6252 5 24 Ba
+R 6258 6 24 gon, 
+R 6266 5 24 Li
+R 6272 5 24 noone, 
+R 6278 5 24 Phi
+R 6284 5 24 one, 
+R 6290 3 24 Bay
+R 6294 6 24 leaf 
+- 6301
+R 6302 3 24 Su
+R 6306 1 24 do
+R 6308 3 24 woo
+R 6312 3 24 do, 
+R 6316 5 24 Cro
+R 6322 3 24 gunk, 
+R 6326 3 24 Houn
+R 6330 6 24 doom, 
+R 6338 3 19 Sea
+R 6342 6 24 dra 
+- 6349
+R 6350 3 24 Hit
+R 6354 3 24 mon
+R 6358 4 24 lee, 
+R 6364 3 24 Migh
+R 6368 3 24 tye
+R 6372 3 24 na, 
+R 6376 5 24 De
+R 6382 5 24 denne, 
+R 6388 2 24 Cre
+R 6392 1 24 se
+R 6394 3 24 lia 
+- 6398
+R 6398 3 24 Dar
+R 6402 3 24 ma
+R 6406 1 24 ni
+R 6408 3 24 tan, 
+R 6412 3 24 Em
+R 6416 1 24 po
+R 6418 4 24 leon, 
+R 6424 5 24 Cu
+R 6430 5 24 bone, 
+R 6436 3 24 Hip
+R 6440 3 24 pow
+R 6444 4 24 don 
+- 6449
+R 6450 5 24 Rapi
+R 6456 5 24 dash, 
+R 6462 3 25 Dig
+R 6466 3 25 gers
+R 6470 3 24 by, 
+R 6474 3 29 Ar
+R 6478 1 29 ca
+R 6480 3 29 ni
+R 6484 1 29 ne, 
+R 6486 3 24 Hy
+R 6490 1 24 drei
+R 6492 4 24 gon 
+- 6497
+R 6498 3 24 Car
+R 6502 1 24 ra
+R 6504 3 24 coas
+R 6508 3 24 ta, 
+R 6512 3 24 Ten
+R 6516 1 24 ta
+R 6518 3 24 cru
+R 6522 1 23 el, 
+R 6524 3 24 Reu
+R 6528 1 24 ni
+R 6530 4 24 clus, 
+R 6536 5 24 Gar
+R 6542 5 24 chomp 
+- 6548
+R 6548 3 24 Ty
+R 6552 3 24 phol
+R 6556 4 24 sion, 
+R 6562 3 24 Car
+R 6566 3 24 va
+R 6570 3 24 nah, 
+R 6574 5 24 Dwe
+R 6580 6 24 bble, 
+R 6588 4 24 Ma
+R 6594 3 24 chop! 
+- 6598
+R 6598 5 24 Gotta 
+R 6604 1 24 rap 
+R 6606 3 24 ’em 
+R 6610 3 24 all 
+- 6614
+R 6614 3 24 Gotta 
+R 6618 3 24 rap 
+R 6622 1 24 ’em 
+R 6624 8 24 all 
+- 6634
+R 6646 5 24 Gotta 
+R 6652 3 24 rap 
+R 6656 3 24 ’em 
+R 6660 3 24 all 
+- 6664
+R 6664 4 24 Gotta 
+R 6670 3 24 rap 
+R 6674 3 24 ’em 
+R 6678 6 24 all 
+- 6686
+R 6698 5 7 Kling
+R 6704 5 7 klang, 
+R 6710 3 8 Fur
+R 6714 6 8 frou, 
+R 6722 5 24 Ag
+R 6728 5 24 gron, 
+R 6734 3 24 Mes
+R 6738 4 24 prit 
+- 6743
+R 6744 5 5 Gla
+R 6750 6 5 lie, 
+R 6758 3 5 Kroo
+R 6762 1 5 ko
+R 6764 3 5 dyle, 
+R 6768 4 6 Fra
+R 6774 4 6 xure, 
+R 6780 4 24 Ar
+R 6786 4 23 chen 
+- 6791
+R 6792 3 7 Gre
+R 6796 3 7 nin
+R 6800 3 7 ja, 
+R 6804 5 7 Phan
+R 6810 6 7 tump, 
+R 6818 3 24 Bla
+R 6822 3 24 zi
+R 6826 3 24 ken, 
+R 6830 5 24 Sci
+R 6836 6 24 zor 
+- 6843
+R 6844 3 5 He
+R 6848 1 5 li
+R 6850 3 4 op
+R 6854 1 5 tile, 
+R 6856 1 4 Sa
+R 6858 2 4 mu
+R 6862 2 4 rott, 
+R 6866 5 24 Sla
+R 6872 5 24 koth, 
+R 6878 3 24 Cla
+R 6882 1 24 wit
+R 6884 4 24 zer 
+- 6889
+R 6890 3 7 Me
+R 6894 1 7 ga
+R 6896 4 7 nium, 
+R 6902 3 6 Dra
+R 6906 1 6 ti
+R 6908 4 6 ni, 
+R 6914 3 24 Bas
+R 6918 3 24 tio
+R 6922 4 24 don, 
+R 6928 7 24 Ar
+R 6936 5 24 ceus 
+- 6942
+R 6942 1 7 Se
+R 6944 2 7 vi
+R 6948 1 7 per, 
+R 6950 3 7 Ma
+R 6954 3 7 na
+R 6958 5 7 phy, 
+R 6964 7 3 Shell
+R 6972 7 2 der, 
+R 6980 5 24 Gorey
+R 6986 6 24 byss 
+- 6993
+R 6994 3 7 Clay
+R 6998 3 7 dol, 
+R 7002 5 7 Ar
+R 7008 7 7 bok, 
+R 7016 3 24 Star
+R 7020 6 24 ly, 
+R 7028 3 24 Cha
+R 7032 4 24 ri
+R 7038 3 24 zard 
+- 7042
+R 7042 1 1 Sco
+R 7044 2 1 li
+R 7048 1 1 pe
+R 7050 2 1 de, 
+R 7054 5 1 Cas
+R 7060 5 1 coon, 
+R 7066 11 24 Gible, 
+R 7078 3 24 Gar
+R 7082 3 24 de
+R 7086 4 24 vioir! 
+- 7092
+R 7096 5 24 THAT’S 
+R 7102 6 20 IT! 
+R 7110 5 4 NO 
+R 7116 8 6 MORE! 
+- 7125
+R 7126 3 6 Don’t 
+R 7130 1 4 you 
+R 7132 4 18 wanna 
+R 7138 3 19 be 
+R 7142 4 19 the 
+R 7148 9 19 very 
+R 7158 10 4 best? 
+- 7169
+R 7170 13 9 NO 
+- 7184
+R 7184 3 26 The 
+R 7188 6 26 doors 
+R 7196 10 26 are 
+R 7208 13 47 locked 
+R 7222 4 30 so 
+R 7228 4 29 you 
+R 7234 5 29 best 
+R 7240 19 29 fi
+R 7260 21 29 nish! 
+- 7282
+R 7282 1 5 Sa
+R 7284 3 5 la
+R 7288 1 5 men
+R 7290 4 5 ce, 
+R 7296 5 24 Pi
+R 7302 5 24 chu, 
+R 7308 3 24 Al
+R 7312 3 24 ta
+R 7316 4 23 ria, 
+R 7322 3 24 Claun
+R 7326 5 24 cher 
+- 7332
+R 7332 4 5 Swi
+R 7338 4 5 nub, 
+R 7344 4 24 Nine
+R 7350 4 24 tales, 
+R 7356 5 24 Slug
+R 7362 6 24 ma, 
+R 7370 3 24 Whis
+R 7374 6 24 mur 
+- 7381
+R 7382 3 5 Jig
+R 7386 1 5 gly
+R 7388 3 5 puff, 
+R 7392 5 24 Chim
+R 7398 6 24 char, 
+R 7406 3 24 Bra
+R 7410 3 24 via
+R 7414 4 24 ry, 
+R 7420 5 24 Nuz
+R 7426 4 24 leaf 
+- 7431
+R 7432 11 5 Jynx, 
+R 7444 3 24 Tor
+R 7448 3 24 na
+R 7452 4 24 dus, 
+R 7458 3 24 Chi
+R 7462 1 24 cko
+R 7464 3 24 ri
+R 7468 1 24 ta, 
+R 7470 5 24 Stun
+R 7476 5 24 ky 
+- 7482
+R 7482 3 5 Mu
+R 7486 3 5 shar
+R 7490 4 5 na, 
+R 7496 3 24 Ka
+R 7500 1 24 bu
+R 7502 3 24 tops, 
+R 7506 4 24 Meloe
+R 7512 3 24 tta, 
+R 7516 5 5 Houn
+R 7522 6 5 dour 
+- 7529
+R 7530 3 5 War
+R 7534 3 5 tor
+R 7538 3 5 tle, 
+R 7542 5 24 Dus
+R 7548 5 24 knoir, 
+R 7554 3 24 She
+R 7558 3 24 din
+R 7562 4 24 ja, 
+R 7568 5 5 Em
+R 7574 6 5 boar 
+- 7581
+R 7582 5 5 Zan
+R 7588 3 5 goose, 
+R 7592 5 24 Fros
+R 7598 6 24 lass, 
+R 7606 3 24 Ni
+R 7610 3 24 do
+R 7614 3 24 ran, 
+R 7618 5 24 Zu
+R 7624 5 24 bat 
+- 7630
+R 7630 5 4 Na
+R 7636 6 4 tu, 
+R 7644 4 24 Zo
+R 7650 3 24 rua, 
+R 7654 5 24 Swe
+R 7660 3 24 llow, 
+R 7664 5 24 Noi
+R 7670 6 24 bat! 
+- 7678
+R 7702 5 24 This 
+R 7708 3 24 is 
+R 7712 12 24 wrong! 
+R 7730 6 27 Peole 
+R 7738 3 3 know 
+R 7742 2 2 I’m 
+R 7746 10 2 here! 
+- 7758
+R 7770 6 2 Just 
+R 7780 4 26 keep 
+R 7786 7 26 on 
+R 7794 9 26 ra
+R 7804 10 26 pping 
+R 7816 4 29 no 
+R 7822 8 29 one’s 
+R 7832 3 27 co
+R 7836 1 27 ming 
+R 7838 5 28 for 
+R 7844 30 5 you! 
+- 7875
+R 7876 5 24 See
+R 7882 5 24 dot, 
+R 7888 3 24 O
+R 7892 3 24 ma
+R 7896 3 24 nyte, 
+R 7900 5 24 Bu
+R 7906 5 24 dew, 
+R 7912 3 24 A
+R 7916 3 24 no
+R 7920 4 24 rith 
+- 7925
+R 7926 3 24 Thun
+R 7930 3 24 de
+R 7934 3 24 rus, 
+R 7938 3 24 Fro
+R 7942 3 24 ga
+R 7946 4 24 dier, 
+R 7952 3 24 Krab
+R 7956 5 24 by, 
+R 7962 1 24 To
+R 7964 2 24 ge
+R 7968 2 24 tic 
+- 7971
+R 7972 3 24 Co
+R 7976 3 24 ba
+R 7980 3 24 llion, 
+R 7984 3 24 Bou
+R 7988 3 24 ffa
+R 7992 3 24 launt, 
+R 7996 5 24 Pa
+R 8002 6 24 trat, 
+R 8010 5 24 Surs
+R 8016 5 24 kit 
+- 8022
+R 8022 3 24 Ka
+R 8026 1 24 bu
+R 8028 4 24 to, 
+R 8034 3 24 Scat
+R 8038 3 24 ter
+R 8042 4 24 bug, 
+R 8048 5 24 Pan
+R 8054 5 24 sage, 
+R 8060 5 9 Lit
+R 8066 6 9 wik 
+- 8073
+R 8074 5 24 Craw
+R 8080 5 24 daunt, 
+R 8086 5 24 Gri
+R 8092 6 24 mer, 
+R 8100 3 24 Mis
+R 8104 3 24 ma
+R 8108 3 24 gius, 
+R 8112 3 24 Whir
+R 8116 3 24 le
+R 8120 3 24 pede 
+- 8124
+R 8124 4 24 Kri
+R 8130 3 24 ke
+R 8134 3 24 tune, 
+R 8138 5 24 Sable
+R 8144 4 24 ye, 
+R 8150 3 24 Mil
+R 8154 3 24 tank, 
+R 8158 5 24 Gol
+R 8164 5 24 deen 
+- 8170
+R 8170 3 26 Skar
+R 8174 3 26 mo
+R 8178 4 26 ry, 
+R 8184 5 8 Hea
+R 8190 5 8 tran, 
+R 8196 6 24 Dus
+R 8204 5 24 tox, 
+R 8210 3 24 Me
+R 8214 3 24 ta
+R 8218 3 24 pod 
+- 8222
+R 8222 3 24 Ro
+R 8226 3 24 se
+R 8230 1 24 li
+R 8232 3 24 a, 
+R 8236 5 24 Dril
+R 8242 5 24 bur, 
+R 8248 5 31 Ches
+R 8254 5 31 pin, 
+R 8260 3 24 Marsh
+R 8264 4 24 tomp 
+- 8270
+R 8296 3 21 Who 
+R 8300 3 19 are 
+R 8304 8 24 you? 
+- 8313
+R 8314 3 24 It’s 
+R 8318 3 24 no 
+R 8322 6 26 use 
+R 8330 9 32 you’re 
+R 8340 13 35 caught 
+R 8354 5 24 like 
+R 8360 6 30 we’re 
+R 8370 7 30 gonna 
+R 8378 8 33 catch 
+R 8388 6 33 em 
+R 8396 10 34 all 
+R 8408 11 31 Po
+R 8420 11 31 ke
+R 8432 16 31 mon! 
+- 8450
+R 8464 3 7 Ji
+R 8468 4 7 ra
+R 8474 3 7 chi, 
+R 8478 3 7 Alo
+R 8482 1 7 ma
+R 8484 3 7 mo
+R 8488 1 7 la, 
+R 8490 6 24 Bee
+R 8498 5 24 drill, 
+R 8504 5 24 Para
+R 8510 5 24 sect 
+- 8516
+R 8516 11 5 Spoink, 
+R 8528 7 24 Le
+R 8536 5 24 dian, 
+R 8542 3 1 Dit
+R 8546 4 1 to, 
+R 8552 5 7 Sen
+R 8558 6 7 tret 
+- 8565
+R 8566 5 7 Turt
+R 8572 4 7 wig, 
+R 8578 1 24 Ted
+R 8580 1 24 di
+R 8582 1 24 ur
+R 8584 1 24 sa, 
+R 8586 6 24 Slow
+R 8594 7 24 king, 
+R 8602 5 1 Sno
+R 8608 6 1 ver 
+- 8615
+R 8616 7 5 Sawk, 
+R 8624 1 5 Tor
+R 8626 2 5 tou
+R 8630 2 5 ga, 
+R 8634 5 1 Tau
+R 8640 6 1 ros, 
+R 8648 3 24 Gar
+R 8652 3 24 bo
+R 8656 3 24 dor 
+- 8660
+R 8660 12 7 Meowth, 
+R 8674 9 1 Spheal, 
+R 8684 3 24 Min
+R 8688 3 24 ci
+R 8692 4 24 nno, 
+R 8700 6 24 Scra
+R 8708 5 24 ggy 
+- 8714
+R 8714 3 7 Lili
+R 8718 3 7 pup, 
+R 8722 7 24 Woo
+R 8730 7 24 bat, 
+R 8738 5 24 Zig
+R 8744 3 24 za
+R 8748 3 24 goon, 
+R 8752 3 24 Flaf
+R 8756 4 24 fy 
+- 8761
+R 8762 3 24 Gi
+R 8766 1 24 ra
+R 8768 3 24 fa
+R 8772 1 24 rig, 
+R 8774 3 24 Whim
+R 8778 3 24 si
+R 8782 3 24 cott, 
+R 8786 3 24 Do
+R 8790 3 24 drio, 
+R 8794 3 24 Po
+R 8798 3 24 li
+R 8802 4 24 wag! 
+- 8807
+R 8808 5 24 Jiggly
+R 8814 6 24 puff, 
+R 8822 3 24 Hap
+R 8826 3 24 pi
+R 8830 4 24 ny, 
+R 8836 4 24 Swa
+R 8842 3 24 blu, 
+R 8846 7 24 Swoo
+R 8854 6 24 bat! 
+- 8862
+R 8868 84 24 [Cough] 
+- 8954
+R 8956 5 27 Scep
+R 8962 5 27 tile, 
+R 8968 7 27 Swad
+R 8976 5 27 loon, 
+R 8982 4 24 Ban
+R 8988 4 24 nette, 
+R 8994 3 24 Fer
+R 8998 3 24 ro
+R 9002 3 24 thorn 
+- 9006
+R 9006 4 24 Hop
+R 9012 3 24 pip, 
+R 9016 3 28 Oc
+R 9020 3 28 ti
+R 9024 4 27 llery, 
+R 9030 5 24 Slur
+R 9036 6 24 puff, 
+R 9044 5 24 Noi
+R 9050 5 24 vern 
+- 9056
+R 9056 7 24 Ex
+R 9064 5 24 ploud, 
+R 9070 5 24 Hoot
+R 9076 4 24 hoot, 
+R 9082 1 24 In
+R 9084 2 24 fer
+R 9088 1 25 nape, 
+R 9090 5 24 Shu
+R 9096 6 24 ckle 
+- 9103
+R 9104 3 24 Arc
+R 9108 3 24 he
+R 9112 4 24 ops, 
+R 9118 5 24 Plus
+R 9124 6 24 le, 
+R 9132 3 24 Ge
+R 9136 4 24 ne
+R 9142 3 24 sect, 
+R 9146 10 24 Weedle 
+- 9157
+R 9158 5 24 Snub
+R 9164 5 24 bull, 
+R 9170 4 24 E
+R 9176 5 24 kans, 
+R 9182 7 24 Do
+R 9190 5 24 drio, 
+R 9196 1 24 Po
+R 9198 2 24 ry
+R 9202 2 24 gon 
+- 9206
+R 9220 3 24 La
+R 9224 4 24 tios, 
+R 9230 4 29 Go
+R 9236 3 29 lurk, 
+R 9240 6 29 Rhy
+R 9248 7 29 horn 
+- 9256
+R 9256 1 24 Pu
+R 9258 2 24 ru
+R 9262 2 24 gly, 
+R 9266 3 24 Spi
+R 9270 3 24 na
+R 9274 3 24 rak, 
+R 9278 5 24 Swa
+R 9284 6 24 lot, 
+R 9292 5 24 Swam
+R 9298 5 24 pert 
+- 9304
+R 9304 3 18 Che
+R 9308 3 18 ru
+R 9312 3 18 bi, 
+R 9316 1 23 Ro
+R 9318 2 23 se
+R 9322 1 23 ra
+R 9324 1 23 de, 
+R 9326 3 24 Yan
+R 9330 4 24 me
+R 9336 4 24 ga, 
+R 9342 3 24 Pel
+R 9346 4 24 li
+R 9352 4 24 per! 
+- 9358
+R 9364 7 24 Listen, 
+R 9372 2 24 i 
+R 9376 1 24 have 
+R 9378 2 24 to 
+R 9382 3 23 pick 
+R 9386 1 18 up 
+R 9388 3 24 my 
+R 9392 4 24 son 
+R 9398 5 24 from 
+R 9404 9 24 soccer 
+R 9414 5 24 practice. 
+R 9420 4 2 He’s 
+R 9426 2 2 waiting 
+R 9430 1 9 for 
+R 9432 8 9 me. 
+- 9442
+R 9444 5 9 We 
+R 9450 4 6 have 
+R 9456 6 26 your 
+R 9464 3 26 son 
+R 9468 15 4 too! 
+- 9484
+R 9484 4 30 NO! 
+R 9490 4 29 Don’t 
+R 9496 4 29 hurt 
+R 9502 3 24 him! 
+R 9506 3 24 I’ll 
+R 9510 3 24 play 
+R 9514 3 24 your 
+R 9518 10 24 game 
+- 9530
+R 9548 3 7 Bi
+R 9552 1 7 na
+R 9554 4 7 cle, 
+R 9560 5 7 Tan
+R 9566 6 7 growth, 
+R 9574 7 24 Stra
+R 9582 7 24 vaia, 
+R 9590 3 7 Sil
+R 9594 3 7 coon 
+- 9598
+R 9598 1 5 Lan
+R 9600 2 5 do
+R 9604 2 5 rus, 
+R 9608 3 5 Lar
+R 9612 4 5 vi
+R 9618 4 5 tar, 
+R 9624 3 24 Ves
+R 9628 4 24 pi
+R 9634 4 24 quen, 
+R 9640 1 7 Pi
+R 9642 1 7 ka
+R 9644 1 7 chu 
+- 9646
+R 9646 5 7 Ve
+R 9652 3 7 no
+R 9656 5 7 nat, 
+R 9662 3 16 Car
+R 9666 3 16 bink, 
+R 9670 5 14 Duck
+R 9676 4 14 lett, 
+R 9682 7 15 Bel
+R 9690 7 15 dum 
+- 9698
+R 9698 5 5 Tro
+R 9704 6 5 pius, 
+R 9712 3 4 Zeb
+R 9716 1 4 stri
+R 9718 3 4 ka, 
+R 9722 4 24 Drow
+R 9728 5 24 zee, 
+R 9734 4 24 Smoo
+R 9740 3 24 chum 
+- 9744
+R 9744 3 6 Si
+R 9748 4 6 gi
+R 9754 3 6 lyph, 
+R 9758 4 24 Cloy
+R 9764 5 24 ster, 
+R 9770 3 25 Re
+R 9774 5 24 gice, 
+R 9780 4 7 Goo
+R 9786 4 7 dra 
+- 9791
+R 9792 3 7 Pa
+R 9796 1 7 cha
+R 9798 3 7 ri
+R 9802 3 7 su, 
+R 9806 5 26 Floe
+R 9812 5 26 tte, 
+R 9818 3 24 Re
+R 9822 3 24 mo
+R 9826 3 24 raid, 
+R 9830 3 7 Haw
+R 9834 3 7 lu
+R 9838 4 7 cha 
+- 9843
+R 9844 5 7 Muu
+R 9850 5 7 na, 
+R 9856 5 6 Mag
+R 9862 5 6 by, 
+R 9868 5 24 Grow
+R 9874 5 24 lithe, 
+R 9880 5 24 Pig
+R 9886 4 24 nite 
+- 9891
+R 9892 5 24 Fur
+R 9898 6 24 ret, 
+R 9906 5 24 Bi
+R 9912 6 24 sharp, 
+R 9920 3 32 Si
+R 9924 3 32 mi
+R 9928 3 32 sear, 
+R 9932 4 24 Burg
+R 9938 5 24 mite 
+- 9944
+R 9944 3 24 Gotta 
+R 9948 3 24 catch 
+R 9952 3 24 ’em 
+R 9956 2 24 all 
+- 9959
+R 9960 3 24 Gotta 
+R 9964 3 24 catch 
+R 9968 1 24 ’em 
+R 9970 6 24 all 
+- 9978
+R 9990 3 7 Gotta 
+R 9994 3 5 catch 
+R 9998 3 2 ’em 
+R 10002 4 24 all 
+- 10007
+R 10008 3 24 Gotta 
+R 10012 3 24 catch 
+R 10016 3 24 ’em 
+R 10020 6 24 all 
+- 10028
+R 10030 3 24 You 
+R 10034 3 22 won’t 
+R 10038 2 21 get 
+R 10042 3 21 away 
+R 10046 3 16 with 
+R 10050 9 18 this! 
+- 10060
+R 10060 5 47 We 
+R 10066 20 39 already 
+R 10088 36 31 have! 
+- 10126
+R 10138 3 5 Gi
+R 10142 1 5 ga
+R 10144 4 5 lith, 
+R 10150 3 24 Me
+R 10154 3 24 di
+R 10158 3 24 cham, 
+R 10162 3 24 Lea
+R 10166 3 24 van
+R 10170 3 24 ny, 
+R 10174 5 5 Shay
+R 10180 4 5 min 
+- 10185
+R 10186 3 5 Va
+R 10190 3 5 ni
+R 10194 4 5 luxxe, 
+R 10200 5 24 U
+R 10206 6 24 nown, 
+R 10214 5 24 San
+R 10220 5 24 dile, 
+R 10226 4 5 Kyu
+R 10232 5 5 rem 
+- 10238
+R 10238 5 5 Ai
+R 10244 5 5 pom, 
+R 10250 3 24 Bee
+R 10254 3 24 he
+R 10258 3 24 yem, 
+R 10262 3 24 Tre
+R 10266 3 24 ve
+R 10270 3 24 nant, 
+R 10274 4 6 Dew
+R 10280 3 6 gong 
+- 10284
+R 10284 3 5 Pal
+R 10288 1 5 pi
+R 10290 3 5 to
+R 10294 1 5 de, 
+R 10296 3 24 Bi
+R 10300 3 24 ba
+R 10304 3 24 rel, 
+R 10308 5 24 Deo
+R 10314 5 24 xys, 
+R 10320 5 24 Watch
+R 10326 6 24 og! 
+- 10333
+R 10334 4 24 Bar
+R 10340 5 24 broach, 
+R 10346 3 24 Ee
+R 10350 1 24 lek
+R 10352 4 24 tirk, 
+R 10358 4 24 Scraf
+R 10364 5 24 ty, 
+R 10370 3 24 Ka
+R 10374 3 24 da
+R 10378 3 24 bra 
+- 10382
+R 10382 5 24 Ches
+R 10388 5 24 naught, 
+R 10394 5 24 Rai
+R 10400 5 24 chu, 
+R 10406 5 24 Gur
+R 10412 5 24 durr, 
+R 10418 3 24 Go
+R 10422 1 24 tho
+R 10424 3 24 ri
+R 10428 1 24 ta 
+- 10430
+R 10430 3 24 Cryo
+R 10434 3 24 gi
+R 10438 3 24 nal, 
+R 10442 3 24 Po
+R 10446 3 24 li
+R 10450 4 24 toad, 
+R 10456 5 24 Bal
+R 10462 5 24 toy, 
+R 10468 3 24 Ve
+R 10472 1 24 ni
+R 10474 4 24 pede 
+- 10479
+R 10480 5 2 Do
+R 10486 5 2 duo, 
+R 10492 3 24 Ha
+R 10496 3 24 xo
+R 10500 4 24 rus, 
+R 10506 3 24 E
+R 10510 1 24 xe
+R 10512 3 24 ggu
+R 10516 3 24 tor, 
+R 10520 5 24 Com
+R 10526 6 24 bee! 
+- 10534
+R 10540 10 25 Water.. 
+R 10554 10 26 please.... 
+- 10565
+R 10566 11 26 Water 
+R 10578 7 27 is 
+R 10586 6 31 a 
+R 10594 5 31 type 
+R 10600 4 33 of 
+R 10608 11 33 Po
+R 10620 12 33 ke
+R 10634 12 33 mon! 
+- 10648
+R 10678 5 24 Goo
+R 10684 4 24 my, 
+R 10690 5 24 Rhy
+R 10696 4 24 don, 
+R 10702 1 24 Li
+R 10704 2 24 ki
+R 10708 1 24 ton
+R 10710 1 24 gue, 
+R 10712 3 5 Cot
+R 10716 3 5 to
+R 10720 4 5 nee 
+- 10725
+R 10726 5 5 Mag
+R 10732 5 5 mar, 
+R 10738 12 2 Klang, 
+R 10752 3 24 Ni
+R 10756 1 24 do
+R 10758 3 24 ri
+R 10762 1 23 na, 
+R 10764 4 5 Blis
+R 10770 4 5 sey 
+- 10775
+R 10776 5 5 Xer
+R 10782 5 5 nias, 
+R 10788 5 24 Tor
+R 10794 5 24 koal, 
+R 10800 5 24 Tra
+R 10806 6 24 pinch, 
+R 10814 4 5 Shel
+R 10820 5 5 gon 
+- 10826
+R 10826 5 5 Tran
+R 10832 5 5 quill, 
+R 10838 5 24 Es
+R 10844 6 24 purr, 
+R 10852 5 24 Sea
+R 10858 5 24 leo, 
+R 10864 1 24 Lu
+R 10866 2 24 mi
+R 10870 4 24 neon 
+- 10875
+R 10876 5 24 Cub
+R 10882 4 24 choo, 
+R 10888 5 24 Dei
+R 10894 4 24 no, 
+R 10900 3 24 Kro
+R 10904 1 24 ko
+R 10906 3 24 rok, 
+R 10910 3 24 Me
+R 10914 3 24 di
+R 10918 3 24 tite 
+- 10922
+R 10922 3 24 Re
+R 10926 3 24 gi
+R 10930 4 24 steel, 
+R 10936 3 5 Pan
+R 10940 3 5 go
+R 10944 4 5 ro, 
+R 10950 5 2 Wiggly
+R 10956 6 2 tuff, 
+R 10964 3 24 Ce
+R 10968 1 24 le
+R 10970 4 24 bi 
+- 10975
+R 10976 5 24 Noc
+R 10982 5 24 towl, 
+R 10988 3 24 Es
+R 10992 1 24 ca
+R 10994 3 24 vi
+R 10998 1 24 lier, 
+R 11000 5 24 Prin
+R 11006 6 24 plup, 
+R 11014 3 24 Vi
+R 11018 1 24 ri
+R 11020 4 24 zion 
+- 11025
+R 11026 5 24 Pilo
+R 11032 3 24 swine, 
+R 11036 4 24 Wy
+R 11042 5 24 naut, 
+R 11048 3 24 Qua
+R 11052 1 24 lli
+R 11054 4 24 din, 
+R 11060 4 24 Syl
+R 11066 5 24 veon 
+- 11072
+R 11072 1 26 How 
+R 11074 2 26 are 
+R 11078 1 26 you 
+R 11080 5 26 hol
+R 11086 5 26 ding 
+R 11092 10 25 up? 
+- 11103
+R 11104 3 24 Not 
+R 11108 4 28 good 
+- 11114
+R 11120 7 29 I 
+R 11128 10 29 don’t 
+R 11140 27 26 care! 
+- 11168
+R 11168 3 24 Pi
+R 11172 3 24 ne
+R 11176 3 24 co, 
+R 11180 5 24 Gro
+R 11186 5 24 vyle, 
+R 11192 3 24 Bar
+R 11196 3 24 ba
+R 11200 3 24 nacle, 
+R 11204 5 24 Slow
+R 11210 6 24 bro 
+- 11217
+R 11218 3 24 Cra
+R 11222 3 24 di
+R 11226 3 24 ly, 
+R 11230 3 24 Ty
+R 11234 3 24 ran
+R 11238 3 24 trum, 
+R 11242 5 24 Wai
+R 11248 6 24 lord, 
+R 11256 5 24 Skid
+R 11262 5 24 do 
+- 11268
+R 11268 5 24 Whis
+R 11274 5 24 cash, 
+R 11280 5 24 Sui
+R 11286 6 24 cune, 
+R 11294 3 24 Re
+R 11298 3 24 gi
+R 11302 3 24 rock, 
+R 11306 4 24 A
+R 11312 5 24 zelf 
+- 11318
+R 11318 3 24 Kan
+R 11322 3 24 gash
+R 11326 3 24 khan, 
+R 11330 3 24 Au
+R 11334 3 24 di
+R 11338 3 24 no, 
+R 11342 5 24 En
+R 11348 5 24 tei, 
+R 11354 4 24 Bell
+R 11360 5 24 sprout 
+- 11366
+R 11366 3 9 Dru
+R 11370 3 9 ddi
+R 11374 3 9 gon, 
+R 11378 5 24 Aria
+R 11384 5 24 dos, 
+R 11390 3 24 Ma
+R 11394 3 24 nec
+R 11398 3 24 tric, 
+R 11402 5 24 Froa
+R 11408 6 24 kie 
+- 11415
+R 11416 3 24 Ma
+R 11420 3 24 rac
+R 11424 3 24 tus, 
+R 11428 5 24 Ro
+R 11434 6 24 tom, 
+R 11442 5 24 Chime
+R 11448 5 24 cho, 
+R 11454 5 24 Bon
+R 11460 6 24 sly 
+- 11467
+R 11468 5 24 Shiel
+R 11474 5 24 don, 
+R 11480 3 24 Pe
+R 11484 3 24 ti
+R 11488 4 24 lil, 
+R 11494 5 24 Honch
+R 11500 5 24 krow, 
+R 11506 3 24 He
+R 11510 4 24 lio
+R 11516 1 24 isk 
+- 11518
+R 11518 5 24 Chan
+R 11524 4 24 sey, 
+R 11530 3 24 Ma
+R 11534 1 24 mo
+R 11536 4 24 swine, 
+R 11542 5 24 Mot
+R 11548 4 24 hin, 
+R 11554 5 24 Fore
+R 11560 5 24 tress 
+- 11566
+R 11566 4 24 Gotta 
+R 11572 3 24 rap 
+R 11576 3 24 ’em 
+R 11580 3 24 all 
+- 11584
+R 11584 3 24 Gotta 
+R 11588 3 24 rap 
+R 11592 3 24 ’em 
+R 11596 6 24 all 
+- 11604
+R 11610 5 5 Gotta 
+R 11616 6 5 rap 
+R 11624 3 32 ’em 
+R 11628 5 32 all 
+- 11634
+R 11634 3 24 Gotta 
+R 11638 3 24 rap 
+R 11642 3 24 ’em 
+R 11646 6 24 all 
+- 11654
+R 11660 5 24 Sand
+R 11666 6 24 shrew, 
+R 11674 5 7 Hun
+R 11680 5 7 tail 
+R 11686 3 24 Man
+R 11690 3 24 di
+R 11694 3 24 buzz, 
+R 11698 7 24 Bron
+R 11706 7 24 zong 
+- 11714
+R 11714 3 5 Co
+R 11718 1 5 fa
+R 11720 3 5 gri
+R 11724 1 5 gus, 
+R 11726 5 4 Zap
+R 11732 5 4 dos, 
+R 11738 3 24 De
+R 11742 3 24 li
+R 11746 4 24 bird, 
+R 11752 5 12 Sno
+R 11758 5 12 runt 
+- 11764
+R 11764 5 7 Nu
+R 11770 4 7 mel, 
+R 11776 5 1 Fin
+R 11782 3 1 neon, 
+R 11786 3 24 Tan
+R 11790 3 24 ge
+R 11794 2 24 la, 
+R 11798 5 12 Po
+R 11804 3 12 li
+R 11808 3 12 whirl 
+- 11812
+R 11812 5 5 Dus
+R 11818 4 5 clops, 
+R 11824 5 4 De
+R 11830 4 4 wott, 
+R 11836 5 1 Gour
+R 11842 4 1 geist, 
+R 11848 3 24 I
+R 11852 4 24 vy
+R 11858 3 24 saur 
+- 11862
+R 11862 4 7 Zy
+R 11868 3 7 garde, 
+R 11872 3 24 Mag
+R 11876 3 24 ne
+R 11880 3 24 mite, 
+R 11884 5 24 Bol
+R 11890 3 24 dore, 
+R 11894 5 12 Sni
+R 11900 5 12 vy 
+- 11906
+R 11906 5 7 Gol
+R 11912 6 7 let, 
+R 11920 3 24 Lu
+R 11924 3 24 ca
+R 11928 3 24 rio, 
+R 11932 5 24 Od
+R 11938 5 24 dish, 
+R 11944 5 24 Lux
+R 11950 5 24 ray 
+- 11956
+R 11956 4 7 Fletch
+R 11962 5 7 ling, 
+R 11968 5 7 Lu
+R 11974 4 7 gia, 
+R 11980 10 24 Klink, 
+R 11992 3 24 Car
+R 11996 3 24 na
+R 12000 6 24 vine 
+- 12007
+R 12008 4 1 Gli
+R 12014 3 1 gar, 
+R 12018 4 24 Cro
+R 12024 4 24 bat, 
+R 12030 3 19 Gas
+R 12034 1 19 tro
+R 12036 4 19 don, 
+R 12042 3 24 Beau
+R 12046 4 23 ti
+R 12052 3 24 fly 
+- 12056
+R 12056 8 24 That’s 
+R 12066 7 24 it, 
+R 12074 7 3 no 
+R 12082 8 24 more 
+- 12092
+R 12094 3 19 Don’t 
+R 12098 4 19 you 
+R 12104 9 18 love 
+R 12114 10 19 your 
+R 12126 22 9 son? 
+- 12150
+R 12158 6 41 Daddy 
+R 12166 3 28 he’s 
+R 12170 3 40 got 
+R 12174 4 41 a 
+R 12180 6 36 gun! 
+- 12187
+R 12188 3 24 I’ll 
+R 12192 6 24 KILL 
+R 12200 3 24 YOU 
+R 12204 4 24 YOU... 
+R 12220 9 24 SOCIO
+R 12230 10 24 PATH 
+- 12242
+R 12256 1 24 Ni
+R 12258 2 24 do
+R 12262 1 24 ri
+R 12264 1 24 no, 
+R 12266 5 24 Vol
+R 12272 5 24 torb, 
+R 12278 3 24 Ta
+R 12282 3 24 lon
+R 12286 3 24 flame, 
+R 12290 3 24 A
+R 12294 1 24 moon
+R 12296 4 24 gus 
+- 12301
+R 12302 3 24 Hit
+R 12306 3 24 mon
+R 12310 3 24 top, 
+R 12314 1 24 Pooch
+R 12316 3 24 ye
+R 12320 4 24 na, 
+R 12326 5 24 Per
+R 12332 3 24 sian, 
+R 12336 3 24 He
+R 12340 3 24 ra
+R 12344 4 24 cross 
+- 12349
+R 12350 3 24 Vi
+R 12354 3 24 go
+R 12358 3 24 roth, 
+R 12362 3 24 To
+R 12366 3 24 to
+R 12370 3 24 dyle, 
+R 12374 3 24 Sun
+R 12378 3 24 flo
+R 12382 4 24 ra, 
+R 12388 5 24 Rai
+R 12394 7 24 kou 
+- 12402
+R 12402 3 24 Pu
+R 12406 3 24 pi
+R 12410 3 24 tar, 
+R 12414 5 24 Fee
+R 12420 5 24 bass, 
+R 12426 3 24 E
+R 12430 3 24 le
+R 12434 3 24 kid, 
+R 12438 5 24 Geo
+R 12444 5 24 dude 
+- 12450
+R 12450 5 24 Ma
+R 12456 4 24 choke, 
+R 12462 3 24 Ty
+R 12466 5 24 runt, 
+R 12472 3 24 Mas
+R 12476 1 24 que
+R 12478 4 24 rain, 
+R 12484 5 24 Leaf
+R 12490 7 24 eon 
+- 12498
+R 12498 3 20 Ser
+R 12502 6 20 vine, 
+R 12510 3 19 Ram
+R 12514 1 19 par
+R 12516 4 19 dos, 
+R 12522 3 24 Blit
+R 12526 5 24 zle, 
+R 12532 3 24 Hit
+R 12536 3 24 mon
+R 12540 4 24 chan 
+- 12545
+R 12546 12 24 Skrelp, 
+R 12560 5 24 U
+R 12566 5 24 xie, 
+R 12572 5 24 King
+R 12578 6 24 ler, 
+R 12586 10 24 Muk 
+- 12597
+R 12598 5 24 Hon
+R 12604 5 24 edge, 
+R 12610 3 24 Ter
+R 12614 3 24 ra
+R 12618 4 24 kion 
+- 12623
+R 12624 3 24 THAT’S 
+R 12628 3 19 THEM 
+R 12632 5 19 ALL 
+R 12638 5 19 I’M 
+R 12644 8 19 DONE 
+- 12653
+R 12654 1 19 Did 
+R 12656 4 19 you 
+R 12662 3 19 re
+R 12666 1 19 mem
+R 12668 3 19 ber 
+R 12672 2 24 to 
+R 12676 10 24 say 
+R 12688 5 26 both 
+R 12694 5 24 Ni
+R 12700 6 24 do
+R 12708 6 24 rans? 
+- 12716
+R 12718 7 26 Yes, 
+R 12726 4 26 yes... 
+R 12732 5 26 male 
+R 12738 4 26 and 
+R 12744 6 26 female. 
+- 12751
+R 12752 8 26 Okay 
+R 12762 11 26 Sounds 
+R 12774 6 26 great! 
+R 12782 1 26 Now 
+R 12784 2 26 let’s 
+R 12788 5 24 go 
+R 12794 5 24 for 
+R 12800 6 24 take 
+R 12808 8 24 two! 
+- 12817
+R 12818 25 30 NOOOOOOOO 
+- 12844
+R 12844 8 26 Gotta 
+R 12854 8 31 catch 
+R 12864 7 33 ’em 
+R 12872 8 24 all 
+R 12882 7 24 Po
+R 12890 7 24 ke
+R 12898 8 24 mon! 
+E

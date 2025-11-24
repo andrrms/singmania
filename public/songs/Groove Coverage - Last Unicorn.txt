@@ -1,0 +1,136 @@
+#ARTIST:Groove Coverage
+#TITLE:Last Unicorn
+#MP3:Groove Coverage - Last Unicorn.mp3
+#CREATOR:karmidi
+#YEAR:2002
+#LANGUAGE:English
+#BPM:280.6
+#GAP:3450
+#VIDEO:a=IBtvAA0o3sY,co=covergirl-4fb1048cdd144.jpg,bg=https://meine-onlinezeitung.de/images/2024/82/groove-coverage-live-in-stadtoldendorf.jpg
+: 0 3 15 When 
+: 5 2 17 the 
+: 11 9 18 last 
+: 28 6 17 ea
+: 36 2 15 gle 
+: 42 8 15 flies 
+- 52
+: 58 4 15 O
+: 63 2 13 ver 
+: 66 3 17 the 
+: 73 11 15 last 
+: 91 5 15 crum
+: 100 2 13 bling 
+: 104 6 17 moun
+: 114 8 13 tain 
+- 124
+: 130 2 15 And 
+: 134 2 17 the 
+: 139 9 18 last 
+: 154 6 17 li
+: 164 4 15 on 
+: 170 8 15 roars 
+- 180
+: 194 2 13 At 
+: 198 2 17 the 
+: 203 9 15 last 
+: 220 4 15 dus
+: 227 2 13 ty 
+: 232 6 17 foun
+: 242 6 13 tain 
+- 250
+: 258 2 15 In 
+: 262 2 17 the 
+: 268 4 18 sha
+: 274 4 18 dows 
+: 282 4 18 of 
+: 291 3 17 the 
+: 299 4 13 fo
+: 306 4 13 rest 
+- 312
+: 324 2 10 Though 
+: 328 2 13 she 
+: 332 6 15 may 
+: 340 4 15 be 
+: 346 4 15 old 
+: 356 4 13 and 
+: 362 8 13 worn 
+- 372
+: 388 2 10 They 
+: 391 2 11 will 
+: 396 8 13 stare 
+: 408 6 15 un
+: 416 2 11 be
+: 420 6 13 lie
+: 428 6 13 ving 
+- 436
+: 452 2 10 At 
+: 456 2 11 the 
+: 462 7 13 last 
+: 472 6 18 u
+: 480 2 20 ni
+* 486 22 20 corn 
+- 510
+: 2472 2 15 When 
+: 2476 2 17 the 
+: 2481 7 18 first 
+: 2496 4 17 breath 
+: 2504 4 15 of 
+: 2512 4 15 win
+: 2522 4 15 ter 
+- 2528
+: 2536 2 13 To 
+: 2540 2 17 the 
+: 2545 11 15 flo
+: 2560 4 15 wers 
+: 2568 2 13 is 
+: 2572 6 17 ic
+: 2582 8 13 y 
+- 2592
+: 2600 2 15 And 
+: 2604 2 17 you 
+: 2608 8 18 look 
+: 2622 6 17 to 
+: 2632 2 15 the 
+: 2638 8 15 north 
+- 2648
+: 2664 2 13 And 
+: 2668 2 17 a 
+: 2673 11 15 pale 
+: 2688 6 15 moon 
+: 2696 2 13 is 
+: 2702 4 17 ri
+: 2712 6 13 sing 
+- 2720
+: 2728 2 15 And 
+: 2732 2 17 it 
+: 2738 4 18 seems 
+: 2746 4 18 like 
+: 2754 4 18 all 
+: 2762 2 17 is 
+: 2770 4 13 dy
+: 2777 5 13 ing 
+- 2784
+: 2792 2 10 And 
+: 2796 2 13 would 
+: 2802 4 15 leave 
+: 2808 4 15 the 
+: 2814 4 15 world 
+: 2828 2 13 to 
+: 2834 8 13 mourn 
+- 2844
+: 2856 2 10 In 
+: 2860 2 11 the 
+: 2865 3 13 dis
+* 2872 4 6 tance 
+: 2880 4 10 hear 
+: 2887 2 11 the 
+: 2892 5 13 laugh
+: 2902 6 13 ter 
+- 2910
+: 2920 2 10 Of 
+: 2925 2 11 the 
+: 2931 6 13 last 
+: 2942 4 15 u
+: 2950 2 13 ni
+* 2956 20 13 corn 
+E

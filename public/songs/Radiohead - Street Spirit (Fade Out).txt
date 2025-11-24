@@ -1,0 +1,180 @@
+#ARTIST:Radiohead
+#TITLE:Street Spirit (Fade Out)
+#MP3:Radiohead - Street Spirit (Fade Out).mp3
+#CREATOR:cody29
+#YEAR:1995
+#LANGUAGE:English
+#BPM:278
+#GAP:21260
+#VIDEO:v=LCJblaUkkfc,co=street-spirit-fade-out-5ecabb73af7eb.jpg,bg=radiohead-51b42744e2be3.jpg
+: 0 16 -3 Rows 
+: 18 14 -1 of 
+: 34 14 0 hou
+: 50 14 -1 ses 
+- 66
+: 72 8 -3 All 
+: 82 6 -1 bear
+: 90 4 -3 ing 
+: 96 4 -1 down 
+: 102 6 -3 on 
+: 110 14 4 me 
+- 126
+: 128 16 -3 I 
+: 146 14 -1 can 
+: 162 14 0 feel 
+: 178 14 -1 this 
+- 194
+: 202 6 -3 Blue 
+: 210 6 -1 hands
+: 218 2 -3 ~ 
+: 222 6 -1 touch
+: 230 6 -3 ing 
+: 238 10 4 me 
+- 250
+: 258 6 -5 All 
+: 266 6 -8 this 
+: 274 6 -8 things 
+: 282 4 -8 in
+: 288 4 -8 to 
+: 294 6 -8 po
+: 302 6 -8 si
+: 310 6 -8 tion 
+- 318
+: 322 6 -5 All 
+: 330 6 -8 this 
+: 338 8 -8 things 
+: 348 4 -8 will 
+: 354 4 -8 one 
+: 360 4 -8 day 
+: 366 5 -8 swall
+: 372 4 -7 ow 
+: 378 10 -8 whole 
+- 390
+: 516 60 0 Fade 
+: 580 52 -1 out 
+: 634 6 -3 A
+* 644 72 4 gain 
+- 718
+: 772 60 0 Fade 
+: 836 48 -1 out 
+- 886
+: 904 10 -3 This 
+: 918 12 -1 ma
+: 932 12 0 chine 
+: 950 10 -1 will, 
+- 962
+: 976 6 -3 Will 
+: 984 4 -1 not 
+: 990 4 -3 com
+: 996 6 -1 mu
+: 1004 4 -3 ni
+: 1010 12 4 cate 
+- 1023
+: 1024 4 -3 These 
+: 1030 10 -3 thoughts 
+: 1048 6 -1 and 
+: 1056 2 -1 the 
+: 1062 16 0 strain 
+- 1079
+: 1080 7 -1 I 
+: 1088 4 0 am 
+: 1094 6 -1 un
+: 1102 14 -3 der 
+- 1118
+: 1160 6 -5 Be 
+: 1168 4 -8 a 
+: 1174 4 -8 war
+: 1180 8 -8 child 
+: 1190 6 -8 form 
+: 1198 2 -8 a 
+: 1202 6 -8 cir
+: 1210 6 -8 cle 
+- 1218
+: 1220 4 -5 Be
+: 1226 6 -5 fore 
+: 1234 2 -8 we 
+: 1238 8 -8 all 
+- 1248
+: 1280 4 -8 Go 
+: 1286 6 -7 un
+: 1294 12 -8 der 
+- 1308
+: 1412 62 0 Fade 
+: 1480 56 -1 out 
+: 1538 4 -3 A
+* 1544 120 4 gain 
+- 1666
+: 1672 60 0 Fade 
+: 1736 56 -1 out 
+: 1794 4 -3 A
+: 1800 40 -3 gain 
+- 1842
+: 2320 14 -3 Cracked 
+: 2336 12 -1 eggs 
+: 2350 14 0 dead 
+: 2366 16 -1 birds 
+- 2384
+: 2388 10 -3 Scream 
+: 2400 4 -1 as 
+: 2406 4 -3 they 
+: 2412 4 -1 fight 
+: 2418 6 -3 for 
+: 2426 18 4 life 
+- 2446
+: 2448 12 -3 I 
+: 2462 14 -1 can 
+: 2478 16 0 feel 
+: 2496 12 -1 death 
+- 2510
+: 2518 6 -3 Can 
+: 2526 6 -1 see 
+: 2534 4 -3 it’s 
+: 2540 6 -1 bea
+: 2548 6 -3 dy 
+: 2556 18 4 eyes 
+- 2575
+: 2576 8 -5 All 
+: 2586 6 -8 this 
+: 2594 6 -8 things 
+: 2602 2 -8 in
+: 2606 6 -8 to 
+: 2614 4 -8 po
+: 2620 4 -8 si
+: 2626 6 -8 tion 
+- 2634
+: 2640 8 -5 All 
+: 2650 6 -8 this 
+: 2658 6 -8 things 
+: 2666 2 -8 will 
+: 2670 6 -8 one 
+: 2678 6 -8 day 
+: 2686 4 -8 swall
+: 2692 4 -7 ow 
+: 2698 14 -8 whole 
+- 2714
+: 2832 62 0 Fade 
+: 2900 52 -1 out 
+: 2954 4 -3 A
+: 2960 112 4 gain 
+- 3074
+: 3092 58 0 Fade 
+: 3154 54 -1 out 
+: 3210 6 -3 A
+: 3218 30 -3 gain 
+- 3250
+: 3858 6 -3 Im
+: 3866 50 -5 merse 
+- 3918
+: 3922 4 -5 Your 
+: 3928 52 4 soul 
+: 3984 8 2 In 
+: 3996 104 4 love 
+- 4102
+: 4114 6 -3 Im
+: 4122 46 -5 merse 
+- 4170
+: 4178 4 -5 Your 
+: 4184 56 -4 soul 
+: 4242 6 -4 In 
+: 4250 58 -3 love 
+E

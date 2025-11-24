@@ -1,0 +1,407 @@
+#ARTIST:Tricky feat. Frusciante & Flea
+#TITLE:#1 Da Woman
+#MP3:Tricky feat. Frusciante & Flea - #1 Da Woman.mp3
+#CREATOR:choosie
+#YEAR:2001
+#LANGUAGE:English
+#BPM:245.9
+#GAP:2280
+#VIDEO:v=5MOBbxsJxLM,co=blowback-5201e749872ef.jpg,bg=tricky-521a663868303.jpg
+F 0 1 25 She’s 
+F 2 3 26 a-
+F 6 1 25 ma
+F 8 1 26 li
+F 10 2 26 cious 
+F 14 2 26 as 
+F 18 2 26 some 
+F 22 1 25 de
+F 24 2 26 li
+F 28 1 26 cious 
+- 31
+F 32 2 25 Su
+F 36 1 26 per
+F 38 2 26 sti
+F 42 2 26 cious, 
+F 46 2 25 su
+F 50 2 26 per 
+F 54 1 25 sus
+F 56 2 26 pi
+F 60 1 26 cious 
+- 63
+F 64 2 25 Won
+F 68 1 26 der 
+F 70 2 26 wo
+F 74 2 28 man 
+- 78
+F 80 2 26 Won
+F 84 1 26 der 
+F 86 2 25 wo
+F 90 2 25 man 
+- 94
+F 96 2 25 Won
+F 100 1 26 der 
+F 102 2 26 wo
+F 106 2 28 man 
+- 110
+F 114 2 26 Won
+F 118 1 26 der 
+F 120 1 25 wo
+F 122 2 25 man 
+- 126
+F 128 1 25 You 
+F 130 2 26 just 
+F 134 2 26 re
+F 138 1 26 wind
+F 140 1 28 ~ 
+F 142 1 28 and 
+F 144 1 26 you 
+F 146 2 26 just 
+F 150 2 26 be 
+F 154 1 26 fine
+F 156 2 25 ~ 
+- 159
+F 160 1 25 You 
+F 162 2 26 just 
+F 166 2 26 be 
+F 170 1 26 fine
+F 172 1 25 ~ 
+F 174 1 25 and 
+F 176 1 26 you 
+F 178 2 26 just 
+F 182 2 26 be 
+F 186 1 26 mine
+F 188 2 25 ~ 
+- 191
+F 192 1 25 You 
+F 194 2 26 just 
+F 198 2 26 re
+F 202 1 26 wind
+F 204 1 28 ~ 
+F 206 1 28 and 
+F 208 1 26 you 
+F 210 2 26 just 
+F 214 2 26 be 
+F 218 1 26 fine
+F 220 2 25 ~ 
+- 223
+F 224 1 25 You 
+F 226 2 26 just 
+F 230 2 26 be 
+F 234 1 26 mine
+F 236 2 25 ~, 
+F 240 1 25 you 
+F 242 2 26 just 
+F 246 2 26 be 
+F 250 1 26 mine
+F 252 1 25 ~ 
+- 255
+* 257 8 27 You 
+: 269 4 29 show 
+: 277 4 32 me 
+: 285 4 30 ev
+: 293 4 25 ’ry
+: 301 10 27 thing 
+- 313
+: 321 8 27 You 
+: 333 4 29 feel 
+: 341 4 32 me 
+: 349 4 30 ev
+: 357 4 25 ’ry
+: 365 12 27 where 
+- 379
+: 385 8 27 You 
+: 397 4 29 pre
+: 405 2 32 tend
+: 409 2 34 ~ 
+: 413 2 32 that
+: 417 2 30 ~ 
+: 422 4 25 you 
+: 430 10 27 care 
+- 442
+: 450 20 27 Do 
+: 474 5 27 you 
+: 482 60 29 care? 
+- 544
+: 550 2 29 I 
+: 554 2 27 fit 
+: 558 2 24 to 
+: 563 3 29 fall 
+* 569 3 27 through 
+* 575 3 24 time 
+- 580
+: 582 2 25 I 
+: 586 2 24 knew 
+: 590 2 20 you 
+: 595 3 25 were
+: 601 3 24 n’t 
+: 607 3 20 mine 
+- 612
+: 614 2 29 I 
+: 618 2 27 shine 
+: 622 2 24 light 
+: 627 3 29 through 
+: 633 3 27 the 
+: 639 3 24 sky 
+- 644
+: 646 2 25 One 
+: 650 2 24 thing 
+: 654 2 20 I 
+: 659 3 25 try 
+: 665 3 24 and 
+: 671 3 20 try 
+- 676
+: 678 2 29 Cap
+: 682 2 27 ture 
+: 686 2 24 my 
+: 690 3 29 world, 
+: 696 3 27 I’ll 
+: 702 4 24 lose 
+- 708
+: 710 2 25 Love 
+: 714 2 24 when 
+: 718 2 20 I 
+: 722 3 25 force 
+: 728 3 24 the 
+: 734 3 20 flew 
+- 739
+: 742 2 29 Be
+: 746 2 27 ing 
+: 750 2 24 will 
+: 754 3 29 ne
+: 760 3 27 ver 
+: 766 3 24 be 
+- 771
+: 774 2 25 Ho
+: 778 2 24 ney, 
+* 782 2 20 re
+* 786 3 25 mem
+* 792 3 24 ber 
+: 798 3 20 me 
+- 803
+F 805 1 14 So 
+F 807 1 14 tuck 
+F 809 1 14 your 
+F 811 1 14 hair 
+F 813 3 14 be
+F 817 3 14 hind 
+F 821 2 14 your 
+F 824 2 14 ears 
+- 828
+F 832 1 13 Your 
+F 834 4 14 tears 
+F 840 2 14 and 
+F 844 2 14 your 
+F 848 2 14 sil
+F 852 2 14 ly 
+F 856 1 14 fears
+F 858 4 11 ~ 
+- 864
+F 868 2 14 I’ll 
+F 872 2 14 be 
+F 876 2 14 your 
+F 880 2 14 ted
+F 884 2 14 dy 
+F 888 4 14 bear 
+- 894
+F 902 2 26 You 
+F 906 2 26 choose 
+F 910 1 26 the 
+F 912 2 26 clothes 
+F 916 2 26 I 
+F 920 1 26 wear
+F 922 4 23 ~ 
+- 928
+F 930 2 24 For 
+F 933 2 24 you 
+F 936 2 24 I’ll 
+F 939 2 24 suf
+F 942 4 24 fer 
+F 948 4 24 much 
+F 953 5 24 pain 
+- 960
+F 962 6 24 Sharp 
+F 970 6 24 glass, 
+F 982 3 24 my 
+F 986 4 24 brain 
+- 991
+F 992 1 24 For 
+F 994 1 24 you 
+F 996 4 24 I 
+F 1002 4 24 lose, 
+F 1009 2 24 lose 
+F 1014 2 24 my 
+F 1018 2 24 fo
+F 1021 2 24 cus 
+- 1025
+F 1026 1 24 For 
+F 1028 1 24 you 
+F 1030 3 24 I 
+F 1034 4 24 swim, 
+F 1043 2 24 swim 
+F 1046 2 24 in 
+F 1049 1 24 lo
+F 1051 2 24 custs 
+- 1055
+: 1058 8 27 You 
+: 1070 4 29 show 
+: 1078 4 32 me 
+: 1086 4 30 ev
+: 1094 4 25 ’ry
+: 1102 8 27 thing 
+- 1112
+: 1122 8 27 You 
+* 1134 4 29 feel 
+* 1142 4 32 me 
+: 1150 4 30 ev
+: 1158 2 25 ~
+: 1162 2 25 ’ry
+: 1166 10 27 where 
+- 1178
+: 1187 8 27 You 
+: 1199 4 29 pre
+: 1207 2 32 tend
+: 1211 2 34 ~ 
+: 1215 2 32 that
+: 1219 2 30 ~ 
+: 1223 4 25 you 
+: 1231 10 27 care 
+- 1243
+: 1251 20 27 Do 
+: 1275 5 27 you 
+: 1283 64 29 care? 
+- 1349
+* 1606 2 29 Ev
+* 1610 2 27 ’ry
+* 1614 2 24 time 
+: 1618 3 29 I 
+: 1624 3 27 am 
+: 1630 3 24 you 
+- 1635
+: 1638 2 25 I 
+: 1642 2 24 feel 
+: 1646 2 20 fo
+: 1650 3 25 re
+: 1656 3 24 ver 
+: 1662 3 20 changed 
+- 1667
+: 1670 2 29 Po
+: 1674 2 27 sing 
+: 1678 2 24 a 
+: 1682 3 29 long 
+: 1688 3 27 the 
+: 1694 3 24 beat 
+- 1699
+: 1702 2 25 Keep
+: 1706 2 24 ing 
+: 1710 2 20 the 
+: 1714 3 25 che
+: 1720 3 24 mis
+: 1726 3 20 try 
+- 1731
+: 1734 2 29 I 
+: 1738 2 27 way 
+: 1742 2 24 my
+: 1746 3 29 self 
+: 1752 3 27 right 
+: 1758 3 24 down 
+- 1763
+: 1766 2 25 Al
+: 1770 2 24 ways 
+: 1774 2 20 I 
+: 1778 3 25 ne
+: 1784 3 24 ver 
+: 1790 3 20 found 
+- 1795
+: 1798 2 29 I’m 
+: 1802 2 27 rag
+: 1806 2 24 ing 
+: 1810 3 29 off 
+: 1816 3 27 so 
+: 1822 3 24 tight 
+- 1827
+: 1830 2 25 Feel
+: 1834 2 24 ing 
+: 1838 2 20 low, 
+* 1842 3 25 feel
+* 1848 3 24 ing 
+: 1854 2 20 high 
+- 1858
+: 1859 8 29 You 
+: 1871 4 31 show 
+: 1879 4 34 me 
+: 1887 4 32 ev
+: 1895 4 27 ’ry
+: 1903 8 29 thing 
+- 1913
+: 1923 8 29 You 
+: 1935 4 31 feel 
+: 1943 4 34 me 
+: 1951 4 32 ev
+: 1959 4 27 ’ry
+: 1967 10 29 where 
+- 1979
+: 1987 8 29 You 
+: 1999 4 31 pre
+: 2007 4 34 tend 
+: 2015 2 32 that
+: 2020 4 27 ~ 
+: 2027 2 27 you 
+* 2031 10 29 care 
+- 2043
+: 2051 36 29 Do 
+: 2091 4 29 you 
+: 2099 62 31 care? 
+- 2163
+F 2164 1 24 Here 
+F 2166 3 24 I 
+F 2170 3 24 re
+F 2174 4 24 main 
+- 2180
+F 2190 3 24 She 
+F 2194 3 24 don’t 
+F 2198 3 24 know 
+F 2202 3 24 my 
+F 2206 4 24 name 
+- 2212
+F 2226 3 24 Would 
+F 2230 3 24 she 
+F 2234 4 24 love 
+F 2240 4 24 me 
+- 2246
+F 2254 3 24 If 
+F 2258 3 24 I 
+F 2262 3 24 had 
+F 2266 4 24 real 
+F 2272 4 24 fame 
+- 2278
+F 2288 3 24 I 
+F 2292 3 24 feel 
+F 2296 4 24 bad 
+F 2304 4 24 pain 
+- 2310
+F 2322 3 24 Here 
+F 2326 3 24 come 
+F 2330 4 24 that 
+F 2335 4 24 rain 
+- 2341
+F 2352 3 24 I 
+F 2356 1 24 don’t 
+F 2358 1 24 com
+F 2360 2 24 plain 
+- 2364
+F 2366 3 24 She’s 
+F 2370 1 24 too 
+F 2372 2 24 com
+F 2376 4 24 plex 
+- 2382
+F 2386 3 24 Tell 
+F 2390 1 24 me 
+F 2392 1 24 your 
+F 2394 1 24 name 
+- 2396
+F 2397 2 24 Is 
+F 2401 2 24 that 
+F 2405 2 24 your 
+F 2409 2 24 real 
+F 2413 4 24 sex? 
+E

@@ -1,0 +1,83 @@
+#ARTIST:Brian Causey
+#TITLE:Jimmy Neutron Theme Song
+#MP3:Brian Causey - Jimmy Neutron Theme Song.mp3
+#CREATOR:Viktor1234678
+#COVER:Brian Causey - Jimmy Neutron Theme Song [CO].jpg
+#BACKGROUND:Brian Causey - Jimmy Neutron Theme Song [BG].jpg
+#YEAR:2001
+#LANGUAGE:English
+#BPM:400
+#GAP:910
+#VIDEO:v=zm9hb03dvaw,co=https://m.media-amazon.com/images/I/81ILuimi6cL.jpg
+F 0 8 0 3 
+- 18
+F 29 8 0 2 
+- 47
+F 59 10 0 1 
+- 80
+F 84 3 0 Got
+F 88 3 0 ta 
+F 92 6 0 Blast 
+- 106
+: 109 6 -3 In
+: 119 8 -3 to 
+: 131 6 0 the 
+: 139 12 -3 stars 
+- 160
+: 163 6 -10 Fueled 
+: 171 8 -3 by 
+: 183 10 -5 can
+: 195 2 -7 dy 
+: 199 10 -10 bars 
+- 218
+: 221 4 -10 Rides 
+: 229 4 -10 a 
+: 237 6 -3 kid 
+: 249 6 -3 with 
+: 261 4 0 a 
+: 269 8 -3 knack 
+- 283
+: 285 4 -5 For 
+: 293 4 -7 in
+: 301 6 -3 ven
+: 313 8 -10 tion 
+- 331
+: 355 2 -10 With 
+: 359 2 -10 a 
+: 363 2 -3 su
+: 368 6 -3 per
+: 376 4 0 -pow
+: 384 4 0 ered 
+: 392 10 2 mind 
+- 412
+: 420 2 -10 A 
+: 424 2 -10 mech
+: 428 2 -3 a
+: 432 3 -3 ni
+: 441 6 -5 cal 
+: 452 5 -7 ca
+: 461 7 -10 nine 
+- 478
+: 487 4 -10 He 
+: 494 6 -3 res
+: 505 6 -3 cues 
+: 516 4 0 the 
+: 524 4 -3 day 
+: 532 5 -3 from 
+: 540 5 -5 sure 
+: 548 5 -7 des
+: 557 7 -3 truc
+: 569 7 -10 tion 
+- 586
+: 597 4 -7 This 
+: 605 4 -7 is 
+: 613 4 -10 the 
+: 622 13 -6 theme 
+: 645 22 -10 song 
+- 677
+: 708 4 -10 Of 
+: 716 8 -3 Jim
+: 729 8 -5 my 
+: 741 9 -12 Neu
+: 756 26 -10 tron 
+E

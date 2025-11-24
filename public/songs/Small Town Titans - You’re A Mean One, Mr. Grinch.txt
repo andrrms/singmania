@@ -1,0 +1,281 @@
+#ARTIST:Small Town Titans
+#TITLE:You’re A Mean One, Mr. Grinch
+#MP3:Small Town Titans - You’re A Mean One, Mr. Grinch.mp3
+#CREATOR:Hoanzl
+#COVER:Small Town Titans - You’re A Mean One, Mr. Grinch [CO].jpg
+#BACKGROUND:Small Town Titans - You’re A Mean One, Mr. Grinch [BG].jpg
+#GENRE:Metal
+#YEAR:2017
+#LANGUAGE:English
+#BPM:440
+#GAP:12950
+#VIDEO:v=-cUz-zAATNI,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/62/d8/d662d8ad-1b0c-f1c1-7e13-637cec1fc2b3/191924587927.jpg/5000x5000bb.jpg,bg=https://wallpapers.com/images/hd/the-grinch-1366-x-768-background-48xrtqb85rp43ot6.jpg,preview=12.95,medley=4229-5392
+#END:254000
+: 0 4 -5 You’re 
+: 6 3 -5 a 
+: 13 7 -3 mean 
+: 27 15 -10 one, 
+: 83 6 -7 Mis
+: 91 3 -3 ter 
+: 99 14 -5 Grinch 
+- 142
+: 189 12 -5 You 
+: 203 8 -3 rea
+: 212 5 -10 ~l
+: 220 21 -10 ly 
+: 251 29 -1 are 
+: 285 9 -8 a 
+: 299 28 1 heel 
+- 337
+: 379 4 -3 You’re 
+: 385 3 -3 as 
+: 394 8 2 cudd
+: 408 9 0 ly 
+: 418 3 -2 as 
+: 424 3 -3 a 
+: 431 7 -2 cac
+: 442 8 -5 tus 
+- 460
+: 473 3 -5 And 
+: 478 3 -5 as 
+: 490 13 0 char
+: 506 4 -2 ming 
+: 513 2 -3 as 
+: 519 3 -5 an 
+: 527 9 -3 ee
+: 537 8 -10 ~l 
+- 557
+: 561 8 -7 Mis
+: 573 3 -7 ter 
+* 584 18 -8 Gri-
+: 604 60 -1 nch 
+- 674
+F 687 4 4 You’re 
+F 694 3 -2 a 
+F 703 11 0 bad 
+F 718 5 -3 ba
+F 726 9 -1 na
+F 739 5 -3 na 
+F 751 5 -2 with 
+F 760 16 -3 a 
+- 786
+: 821 13 1 Grea
+: 835 6 -1 sy 
+: 844 19 1 black 
+: 869 5 1 pee
+: 875 125 2 ~l 
+- 1058
+: 1170 7 -3 Just 
+: 1180 11 -5 face 
+: 1195 3 -7 the 
+: 1203 11 -5 mu
+: 1217 5 -3 sic, 
+: 1227 8 -5 you’re 
+: 1238 5 -7 a 
+: 1251 10 -3 mon
+: 1267 15 -10 ste
+: 1283 5 -12 ~r 
+- 1298
+: 1322 4 -7 Mis
+: 1329 5 -3 ter 
+: 1337 6 -3 Gri
+: 1344 21 -5 ~nch 
+- 1394
+: 1431 5 -5 Your 
+: 1440 12 -3 heart’s 
+: 1456 25 -10 an 
+: 1487 25 -1 emp
+: 1525 5 -8 ty 
+: 1533 33 1 hole 
+- 1576
+: 1620 5 -3 Your 
+: 1630 10 2 brain 
+: 1643 4 0 is 
+: 1653 3 -2 full 
+: 1657 4 -3 of 
+: 1670 10 -2 spi
+: 1683 19 -5 ders 
+- 1704
+: 1706 4 -5 You’ve 
+: 1713 5 -5 got 
+: 1724 7 0 gar
+: 1732 4 2 lic 
+: 1738 5 0 in 
+: 1750 6 2 your 
+: 1762 27 -3 soul, 
+: 1796 8 -7 Mis
+: 1810 4 -7 ter 
+: 1821 11 -8 Gri
+: 1835 62 -1 ~nch 
+- 1907
+: 1926 11 8 I
+: 1938 6 7 ~ 
+: 1948 4 7 would
+: 1953 4 5 n’t 
+: 1963 10 7 touch 
+: 1978 6 5 you 
+: 1989 11 7 with 
+: 2003 6 9 a 
+- 2019
+: 2042 6 9 Thir
+: 2050 6 9 ty-
+: 2058 6 9 nine-
+: 2066 4 9 and-
+: 2074 5 9 a-
+: 2082 8 9 half 
+: 2092 7 9 foot 
+: 2104 7 8 po
+: 2112 172 9 ~le 
+- 2342
+: 2470 5 -5 You’re 
+: 2477 4 -5 a 
+: 2487 7 -3 vi
+: 2495 5 -10 ~le 
+: 2506 10 -10 one 
+- 2526
+: 2559 5 -7 Mis
+: 2568 3 -3 ter 
+: 2576 16 -5 Grinch 
+- 2621
+: 2662 4 -5 You’ve 
+: 2668 4 -5 got 
+: 2679 7 -3 ter
+: 2689 25 -10 mites 
+: 2725 17 -1 in 
+: 2761 6 -8 your 
+: 2775 40 1 smile 
+- 2825
+: 2851 4 -3 You 
+: 2857 4 -3 have 
+: 2866 11 2 all 
+: 2881 3 0 the 
+: 2889 5 -2 ten
+: 2898 4 -3 der 
+: 2913 8 -2 sweet
+: 2925 8 -5 ness 
+- 2943
+: 2947 4 -5 Of 
+: 2954 3 -5 a 
+: 2964 8 0 sea
+: 2978 5 0 sick 
+: 2988 4 0 cro
+: 2993 4 2 co
+: 3000 7 -4 di
+: 3008 22 -3 ~le, 
+: 3035 8 -7 Mis
+: 3047 5 -7 ter 
+* 3057 14 -8 Gri-
+* 3075 64 -1 nch 
+- 3149
+F 3157 3 -3 But 
+F 3163 2 4 gi
+F 3166 2 2 ven 
+F 3169 2 0 the 
+F 3175 7 1 choice 
+F 3184 2 -3 be
+F 3190 4 -3 tween 
+F 3196 3 -3 the 
+F 3201 2 1 two 
+F 3205 2 -3 of 
+F 3210 4 -3 you 
+F 3216 4 0 I 
+F 3225 5 -3 would 
+F 3233 4 0 take 
+F 3242 6 -3 the 
+- 3258
+* 3295 11 1 Sea
+* 3311 9 1 sick 
+: 3325 5 -1 cro
+: 3333 5 1 co
+: 3340 8 1 di
+: 3349 157 2 ~le 
+: 3510 4 -3 yea
+: 3515 5 -5 ~
+: 3521 5 -7 ~
+: 3527 3 -5 ~
+: 3531 4 -7 ~h 
+- 3593
+: 4229 4 -5 You’re 
+: 4236 3 -5 a 
+: 4247 10 -3 foul 
+* 4262 9 -10 one, 
+: 4315 5 -7 Mis
+: 4323 3 -3 ter 
+: 4331 13 -5 Grinch 
+- 4373
+: 4422 4 -5 You’re 
+: 4427 3 -5 a 
+: 4437 9 -3 nas
+: 4450 8 -10 ty, 
+: 4485 26 -1 was
+: 4518 4 -8 ty 
+: 4534 15 1 skunk 
+- 4578
+: 4615 7 -3 Your 
+: 4627 8 2 heart 
+: 4639 3 0 is 
+: 4649 4 -2 full 
+: 4654 3 -3 of 
+: 4664 7 -2 un
+: 4678 11 -2 washed 
+: 4696 7 -2 socks 
+- 4705
+: 4707 3 -5 And 
+: 4712 3 -5 your 
+: 4723 9 0 soul 
+: 4735 3 -2 is 
+: 4744 3 -3 full 
+: 4749 3 -5 of 
+: 4760 11 -3 gunk 
+- 4781
+: 4795 6 -7 Mis
+: 4807 3 -7 ter 
+* 4817 14 -8 Gri
+: 4834 48 -1 ~nch 
+- 4892
+F 4920 2 -2 The 
+F 4925 5 6 three 
+F 4933 4 3 best 
+F 4941 5 1 words 
+F 4948 2 1 I 
+F 4952 2 -1 would 
+F 4957 5 -1 use 
+F 4964 2 -2 to 
+F 4967 3 -2 des
+F 4973 6 -1 cribe 
+F 4982 2 -3 you 
+- 4985
+F 4987 4 -3 Are 
+F 4993 4 -3 as 
+F 5005 4 -1 fol
+F 5010 11 -3 lows, 
+F 5025 6 -2 and 
+F 5035 14 -3 I 
+F 5058 9 -7 quote: 
+- 5077
+: 5103 16 1 “Stink. 
+: 5151 16 1 Stank. 
+: 5199 171 2 Stunk.” 
+F 5373 7 2 yeah
+F 5381 3 -7 ~
+F 5385 3 -8 ~
+F 5389 3 -10 ~ 
+- 5450
+: 5546 14 17 Oh 
+: 5563 5 14 yea
+: 5570 5 12 ~h 
+: 5580 3 12 yea
+: 5584 4 8 ~
+: 5589 6 7 ~
+: 5596 20 5 ~h 
+- 5674
+: 6507 10 -7 Mis
+: 6523 4 -7 ter 
+* 6531 14 -8 Gri
+* 6547 56 -1 ~nch 
+- 6613
+: 6625 74 -2 “Stink. 
+: 6722 65 1 Stank. 
+: 6816 152 2 Stunk.” 
+F 6981 20 2 yeah 
+E

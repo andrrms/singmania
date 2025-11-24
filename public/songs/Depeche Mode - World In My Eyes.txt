@@ -1,0 +1,268 @@
+#ARTIST:Depeche Mode
+#TITLE:World In My Eyes
+#MP3:Depeche Mode - World In My Eyes.mp3
+#CREATOR:daggeg
+#YEAR:1990
+#LANGUAGE:English
+#BPM:244.46
+#GAP:87640
+#VIDEO:v=nhZdL4JlnxI,co=world-in-my-eyes-57e35fabcfb43.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 2 3 Let 
+: 4 2 3 me 
+: 8 2 6 take 
+: 12 2 6 you 
+: 16 2 6 on 
+: 20 2 6 a 
+: 24 6 3 trip 
+- 32
+: 60 2 3 A
+: 64 2 3 round 
+: 68 2 3 the 
+: 72 5 6 world 
+: 80 5 6 and 
+: 88 9 3 back 
+- 99
+: 123 2 3 And 
+: 127 2 3 you 
+: 131 6 6 won’t 
+: 140 5 6 have 
+: 148 2 6 to 
+: 152 2 3 move, 
+: 156 2 3 you 
+: 160 2 3 just 
+: 164 4 6 sit 
+: 172 7 3 still 
+- 181
+: 252 2 3 Now 
+: 256 2 3 let 
+: 260 2 3 your 
+* 264 5 6 mind 
+: 272 2 6 do 
+: 276 2 6 the 
+: 280 6 3 wal
+: 288 7 6 king 
+- 297
+: 315 2 3 And 
+: 319 2 3 let 
+: 323 2 3 my 
+: 327 3 6 bo
+: 331 2 6 dy 
+: 335 2 6 do 
+: 339 2 6 the 
+: 344 6 1 tal
+: 352 7 3 king 
+- 361
+: 383 2 3 Let 
+: 387 2 3 me 
+: 391 2 6 show 
+: 395 2 6 you 
+: 399 2 6 the 
+: 403 5 3 world 
+: 411 2 3 in 
+: 415 3 6 my 
+: 420 10 3 eyes 
+- 432
+* 756 2 3 I’ll 
+* 760 2 6 take 
+: 764 2 3 you 
+: 768 2 6 to 
+: 772 2 3 the 
+: 776 6 6 high
+: 784 3 6 est 
+: 792 6 3 moun
+: 800 7 6 tain 
+- 809
+: 816 2 6 To 
+: 820 2 3 the 
+: 824 4 6 depths 
+: 832 2 6 of 
+: 836 2 3 the 
+: 840 5 6 dee
+: 848 5 6 pest 
+: 856 7 3 sea 
+- 865
+: 891 2 3 And 
+: 895 2 3 we 
+: 899 6 6 won’t 
+* 908 6 6 need 
+: 916 2 6 a 
+: 920 6 3 map, 
+: 928 3 3 be
+: 932 5 6 lieve 
+: 940 8 3 me 
+- 950
+: 1019 2 3 Now 
+: 1023 2 3 let 
+: 1027 2 3 my 
+: 1031 3 6 bo
+: 1035 2 6 dy 
+: 1039 2 6 do 
+: 1043 2 6 the 
+: 1047 7 3 mo
+: 1055 8 6 ving 
+- 1065
+: 1083 2 3 And 
+: 1087 2 3 let 
+: 1091 2 3 my 
+: 1095 5 6 hands 
+: 1103 2 6 do 
+: 1107 2 6 the 
+: 1112 6 1 soo
+: 1120 7 3 thing 
+- 1129
+: 1151 2 3 Let 
+: 1155 2 3 me 
+: 1159 2 6 show 
+: 1163 2 6 you 
+: 1167 2 6 the 
+: 1171 5 3 world 
+: 1180 2 3 in 
+: 1184 2 6 my 
+: 1188 10 3 eyes 
+- 1200
+: 1327 5 6 That’s 
+* 1335 8 -1 all 
+: 1348 6 6 there 
+: 1356 10 -2 is 
+- 1368
+: 1384 3 6 No
+: 1388 5 5 thing 
+: 1396 5 -2 more 
+: 1404 5 6 than 
+: 1412 5 5 you 
+: 1420 5 -2 can 
+: 1428 6 6 feel 
+: 1436 5 3 now 
+- 1442
+: 1443 5 6 That’s 
+: 1451 6 3 all 
+: 1459 6 8 there 
+* 1467 6 3 is 
+- 1475
+: 1759 2 3 Let 
+: 1763 2 3 me 
+: 1767 2 6 put 
+: 1771 2 6 you 
+: 1775 2 6 on 
+: 1779 2 6 a 
+: 1783 7 3 ship 
+- 1792
+: 1823 2 3 On 
+: 1827 2 3 a 
+: 1831 5 6 long, 
+: 1839 5 6 long 
+: 1847 8 3 trip 
+- 1857
+* 1891 5 6 Your 
+* 1899 4 6 lips 
+: 1907 5 3 close 
+: 1915 5 3 to 
+: 1924 5 6 my 
+: 1932 10 3 lips 
+- 1944
+: 2015 2 3 All 
+: 2019 2 3 the 
+: 2023 3 6 is
+: 2027 2 6 lands 
+: 2031 2 6 in 
+: 2035 2 6 the 
+: 2039 6 3 o
+: 2047 8 6 cean 
+- 2057
+: 2080 2 3 All 
+: 2084 2 3 the 
+: 2088 3 6 hea
+: 2092 2 6 ven’s 
+: 2096 5 6 in 
+: 2104 5 1 mo
+: 2111 8 3 tion 
+- 2121
+: 2144 2 3 Let 
+: 2148 2 3 me 
+: 2152 2 6 show 
+: 2156 2 6 you 
+: 2160 2 6 the 
+* 2164 5 3 world 
+* 2172 2 3 in 
+: 2176 2 6 my 
+: 2180 8 3 eyes 
+- 2190
+: 2319 5 6 That’s 
+: 2327 8 -1 all 
+: 2339 6 6 there 
+: 2347 10 -2 is 
+- 2359
+: 2376 3 6 No
+: 2380 5 5 thing 
+: 2387 6 -2 more 
+: 2396 5 6 than 
+: 2404 5 5 you 
+: 2412 5 -2 can 
+: 2420 4 6 touch 
+: 2428 5 3 now 
+- 2434
+: 2435 5 6 That’s 
+* 2443 5 3 all 
+: 2451 6 8 there 
+: 2459 8 3 is 
+- 2469
+: 2751 2 3 Let 
+: 2755 2 3 me 
+: 2759 2 6 show 
+: 2763 2 6 you 
+: 2767 2 6 the 
+: 2771 5 3 world 
+: 2779 2 3 in 
+: 2783 2 6 my 
+: 2787 8 3 eyes 
+- 2797
+: 2879 2 3 Let 
+: 2883 2 3 me 
+* 2887 2 6 show 
+* 2891 2 6 you 
+: 2895 2 6 the 
+: 2899 5 3 world 
+: 2907 2 3 in 
+: 2911 6 6 my 
+: 2919 8 3 eyes 
+- 2929
+: 3007 2 3 Let 
+: 3011 2 3 me 
+: 3015 2 6 show 
+: 3019 2 6 you 
+: 3023 2 6 the 
+: 3027 5 3 world 
+: 3035 2 3 in 
+: 3039 6 6 my 
+: 3047 9 3 eyes 
+- 3058
+* 3135 2 3 Let 
+* 3139 2 3 me 
+: 3143 2 6 show 
+: 3147 2 6 you 
+: 3151 2 6 the 
+* 3155 5 3 world 
+: 3163 2 3 in 
+: 3167 6 6 my 
+: 3175 12 3 eyes 
+- 3189
+: 3263 2 3 Let 
+: 3267 2 3 me 
+: 3271 2 6 show 
+: 3275 2 6 you 
+: 3279 2 6 the 
+: 3283 5 3 world 
+: 3291 2 3 in 
+: 3295 2 6 my 
+: 3299 9 3 eyes 
+- 3310
+: 3391 2 3 Let 
+: 3395 2 3 me 
+: 3399 2 6 show 
+: 3403 2 6 you 
+: 3407 2 6 the 
+: 3411 5 3 world 
+: 3419 2 3 in 
+* 3423 10 6 my 
+* 3436 8 3 eyes 
+E

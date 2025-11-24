@@ -1,0 +1,76 @@
+#ARTIST:Hans Zimmer
+#TITLE:Hoist The Colours
+#MP3:Hans Zimmer - Hoist The Colours.mp3
+#CREATOR:Kekstuete
+#GENRE:Soundtrack
+#YEAR:2007
+#LANGUAGE:English
+#BPM:400
+#GAP:19060
+#VIDEO:a=ecRcT6TPuCs,co=https://3.bp.blogspot.com/-Mx-LtMsShSs/Vc-gYEs0SrI/AAAAAAAAAXM/AqrsjItuMO0/s1600/Pirates%2BOf%2BThe%2BCaribbean-%2BAt%2BWorld%2527s%2BEnd.jpg
+: 0 13 5 The 
+: 14 20 12 king 
+: 45 5 12 and 
+: 51 12 12 his 
+: 64 15 12 men 
+- 81
+: 96 11 12 Stole 
+: 108 6 12 the 
+: 115 25 13 queen 
+: 141 10 12 from 
+: 152 12 12 her 
+: 166 48 5 bed 
+- 216
+: 263 6 5 And 
+: 270 27 17 bound 
+: 298 17 17 her 
+: 316 14 17 in
+: 331 15 19 ~ 
+: 347 14 17 her 
+: 363 54 16 Bones. 
+- 419
+: 459 3 12 The 
+: 463 35 19 seas 
+: 499 17 18 be 
+: 517 22 19 ours 
+- 541
+: 549 13 20 And 
+: 563 30 19 by 
+: 604 10 16 the 
+: 615 7 12 po
+: 623 23 12 wers 
+- 648
+: 718 22 19 Where
+: 741 8 20 ~ 
+: 750 12 19 we 
+: 763 19 12 will 
+: 802 13 15 we’ll 
+: 816 43 17 roam. 
+- 861
+: 1029 37 17 Yo, 
+: 1068 54 12 ho, 
+: 1124 28 17 haul 
+: 1153 15 17 to
+: 1169 7 12 ge
+: 1177 11 12 ther, 
+- 1190
+: 1220 26 17 Hoist 
+: 1253 13 17 the 
+: 1269 16 20 co
+: 1286 16 19 ~
+: 1303 15 17 lors 
+: 1319 47 19 high. 
+- 1368
+: 1420 46 19 Heave 
+: 1467 39 12 ho, 
+: 1517 33 19 thieves 
+: 1552 16 19 and 
+: 1569 6 12 beg
+: 1576 24 12 gars, 
+- 1602
+: 1624 19 19 Ne
+: 1644 20 20 ver 
+: 1666 32 12 shall 
+: 1704 14 15 we 
+: 1719 75 17 die. 
+E

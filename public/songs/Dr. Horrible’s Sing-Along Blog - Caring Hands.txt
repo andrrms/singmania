@@ -1,0 +1,53 @@
+#ARTIST:Dr. Horrible’s Sing-Along Blog
+#TITLE:Caring Hands
+#MP3:Dr. Horrible’s Sing-Along Blog - Caring Hands.mp3
+#CREATOR:SKillMaster
+#GENRE:Musical
+#YEAR:2008
+#LANGUAGE:English
+#BPM:300
+#GAP:6590
+#VIDEO:v=PAn1c0MM-to,co=https://cdn-images.dzcdn.net/images/cover/e75fd5f47ac9dc52a6ef2de62ce6bab2/1900x1900-000000-80-0-0.jpg
+: 0 4 4 Will 
+: 5 3 4 you 
+* 10 4 7 lend 
+: 16 6 4 a 
+: 24 4 2 ca
+: 29 4 0 ring 
+: 35 6 2 hand 
+- 43
+: 55 2 -5 To 
+: 59 4 2 shel
+: 64 3 2 ter 
+: 69 6 2 those 
+: 79 3 0 who 
+: 85 5 4 need 
+: 92 4 0 it 
+- 98
+: 131 5 4 On
+: 137 3 4 ly 
+* 142 5 7 have 
+: 150 4 4 to 
+: 158 5 2 sign 
+: 164 3 0 your 
+: 169 6 2 name 
+- 177
+: 188 3 -5 Don’t 
+: 194 3 2 e
+: 199 4 2 ven 
+: 206 4 2 have 
+: 213 3 0 to 
+: 218 4 4 read 
+: 224 4 0 it 
+- 230
+: 264 5 4 Would 
+: 271 3 4 you 
+* 277 5 7 help? 
+- 284
+F 291 7 2 No? 
+- 300
+F 306 1 2 How 
+F 308 1 2 a
+F 310 1 2 bout 
+F 312 5 2 you? 
+E

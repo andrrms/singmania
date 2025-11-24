@@ -1,0 +1,147 @@
+#ARTIST:Tim Hawkins
+#TITLE:Chick-fil-A
+#MP3:Tim Hawkins - Chick-fil-A.mp3
+#CREATOR:matthu
+#YEAR:2009
+#LANGUAGE:English
+#BPM:300
+#GAP:16750
+#VIDEO:v=NsJHqstPuNo,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/52/7b/0e527beb-3ae5-da6f-ef8c-7322ed178558/859707206525_cover.jpg/5000x5000bb.jpg
+: 0 3 4 Chick-
+: 4 2 2 fil-
+: 8 8 2 A 
+- 36
+: 57 3 6 I 
+: 61 2 8 could 
+: 64 3 10 eat 
+: 68 3 11 there 
+: 73 4 13 se
+: 79 3 14 ven 
+: 83 7 13 times 
+: 94 1 11 a 
+: 97 17 11 day 
+- 124
+: 139 3 9 Where 
+: 143 2 11 the 
+: 146 3 9 peo
+: 150 2 7 ple 
+: 154 4 6 laugh 
+: 161 3 4 and 
+: 165 9 7 chil
+: 175 4 6 dren 
+: 181 9 6 play
+: 191 5 4 ~ 
+- 198
+* 200 4 4 Oh, 
+* 206 7 2 I’m 
+* 216 5 6 in 
+* 222 10 4 love 
+* 242 3 -1 with 
+* 247 8 2 Chick-
+* 258 4 6 fil-
+* 265 13 6 A 
+- 298
+: 349 4 4 Sud
+: 354 2 2 den
+: 357 25 2 ly, 
+- 392
+: 402 4 6 I 
+: 407 3 8 need 
+: 411 5 10 waf
+: 417 3 11 fle 
+: 421 6 13 fries 
+: 428 3 14 in 
+: 433 7 13 front 
+: 442 3 11 of 
+: 446 24 11 me 
+- 478
+: 481 4 9 With 
+: 486 3 11 some 
+: 492 3 9 nug
+: 496 4 7 gets 
+: 501 4 6 and 
+: 506 3 4 a 
+: 510 9 7 large 
+: 521 4 6 sweet 
+: 528 10 6 tea
+: 539 4 4 ~ 
+- 547
+* 549 3 4 Oh, 
+* 554 9 2 Chick-
+* 564 4 6 fil-
+* 569 9 4 A, 
+* 588 3 -1 You 
+* 593 7 2 set 
+* 603 4 6 me 
+* 609 19 6 free 
+- 633
+: 635 18 6 Kids, 
+: 655 14 6 get 
+: 678 8 11 in 
+: 688 7 13 the 
+: 697 8 14 van 
+: 708 3 13 so 
+: 712 4 11 we 
+: 717 9 13 can 
+: 733 3 11 go 
+: 738 10 9 there 
+: 751 3 11 to
+: 755 20 6 day 
+- 785
+: 800 15 6 But, 
+: 820 14 6 their 
+: 840 8 11 stores 
+: 850 8 13 are 
+: 860 10 14 closed! 
+: 872 3 13 Oh, 
+: 876 4 11 I 
+: 882 11 13 know, 
+- 894
+: 896 5 11 ’Cause 
+: 902 9 9 it’s 
+: 914 11 13 Sun
+: 926 12 14 day
+: 940 10 9 ~ 
+- 990
+: 1040 3 4 Chick
+: 1044 2 2 fil
+: 1047 10 2 A, 
+- 1077
+: 1101 2 6 What 
+: 1104 1 8 a 
+: 1106 4 10 dir
+: 1111 2 11 ty, 
+: 1115 4 13 rot
+: 1120 4 14 ten 
+: 1125 7 13 trick 
+: 1133 2 11 to 
+: 1136 21 11 play! 
+- 1167
+: 1178 3 11 Now 
+: 1182 4 11 I 
+: 1187 3 9 have 
+: 1192 3 7 to 
+: 1196 2 6 set
+: 1199 5 4 tle 
+: 1205 9 7 for 
+: 1216 4 6 Sub
+: 1222 10 6 way
+: 1233 8 4 ~ 
+- 1241
+* 1242 3 4 Oh, 
+* 1246 9 2 I’m 
+* 1257 5 6 in 
+* 1263 10 4 love 
+* 1282 4 -1 with 
+* 1288 10 2 Chick-
+* 1299 4 6 fil-
+* 1304 12 6 A 
+- 1326
+: 1330 7 2 Mm 
+: 1341 10 6 m 
+: 1353 9 4 m 
+: 1364 6 -1 mm... 
+* 1376 8 2 Chick-
+* 1388 6 6 fil-
+* 1396 35 6 A 
+E

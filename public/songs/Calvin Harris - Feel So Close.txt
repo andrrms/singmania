@@ -1,0 +1,169 @@
+#ARTIST:Calvin Harris
+#TITLE:Feel So Close
+#MP3:Calvin Harris - Feel So Close.mp3
+#CREATOR:lozboorman
+#YEAR:2011
+#LANGUAGE:English
+#BPM:256
+#GAP:42750
+#VIDEO:v=dGghkjpNCQ8,co=feel-so-close-504023a27ef06.jpeg,bg=harris-calvin-509e9e8f89c41.jpg
+: 0 2 -5 I 
+: 4 6 -3 feel 
+: 12 6 -1 so 
+: 20 6 -3 close 
+: 28 2 -5 to 
+: 32 6 -8 you 
+: 40 6 -10 right 
+: 48 6 -5 now 
+- 56
+: 60 2 -5 It’s 
+: 64 2 -8 a 
+: 68 6 -3 force 
+: 76 8 -8 field 
+- 86
+: 128 2 -5 I 
+: 132 6 -3 wear 
+: 140 6 -1 my 
+: 148 6 -3 heart 
+: 156 2 -5 u
+: 160 6 -8 pon 
+: 168 6 -10 my 
+: 176 6 -5 sleeve 
+- 184
+: 188 2 -5 Like 
+: 192 2 -8 a 
+: 196 6 -3 big 
+: 204 8 -8 deal 
+- 214
+: 256 2 -5 Your 
+: 260 6 -3 love 
+: 268 6 -1 pours 
+: 276 6 -3 down 
+: 284 2 -5 on 
+: 288 7 -8 me 
+- 296
+: 296 6 -10 Sur
+: 304 4 -5 rounds 
+: 312 2 -8 me 
+: 316 2 -5 like 
+: 320 2 -8 a 
+: 324 2 -3 wa
+: 328 2 -3 ter
+: 332 8 -8 fall 
+- 342
+: 384 2 -5 And 
+: 388 6 -3 there’s 
+: 396 6 -1 no 
+: 404 2 -3 sto
+: 408 6 -5 pping 
+: 416 6 -8 us 
+: 424 6 -10 right 
+: 432 4 -5 now 
+- 438
+: 448 2 -5 I 
+: 452 6 -3 feel 
+: 460 6 -1 so 
+: 468 6 -3 close 
+: 476 2 -5 to 
+: 480 6 -8 you 
+: 488 6 -10 right 
+: 496 4 -5 now 
+- 502
+: 1280 2 -5 I 
+: 1284 6 -3 feel 
+: 1292 6 -1 so 
+: 1300 6 -3 close 
+: 1308 2 -5 to 
+: 1312 6 -8 you 
+: 1320 6 -10 right 
+: 1328 4 -5 now 
+- 1334
+: 1340 2 -5 It’s 
+: 1344 2 -8 a 
+: 1348 6 -3 force 
+: 1356 8 -8 field 
+- 1366
+: 1408 2 -5 I 
+: 1412 6 -3 wear 
+: 1420 6 -1 my 
+: 1428 6 -3 heart 
+: 1436 2 -5 u
+: 1440 6 -8 pon 
+: 1448 6 -10 my 
+: 1456 4 -5 sleeve 
+- 1462
+: 1468 2 -5 Like 
+: 1472 2 -8 a 
+: 1476 6 -3 big 
+: 1484 8 -8 deal 
+- 1494
+: 1536 2 -5 Your 
+: 1540 6 -3 love 
+: 1548 6 -1 pours 
+: 1556 6 -3 down 
+: 1564 2 -5 on 
+: 1568 7 -8 me 
+- 1576
+: 1576 6 -10 Sur
+: 1584 4 -5 rounds 
+: 1592 2 -8 me 
+: 1596 2 -5 like 
+: 1600 2 -8 a 
+: 1604 2 -3 wa
+: 1608 2 -3 ter
+: 1612 8 -8 fall 
+- 1622
+: 1664 2 -5 And 
+: 1668 6 -3 there’s 
+: 1676 6 -1 no 
+: 1684 2 -3 sto
+: 1688 6 -5 pping 
+: 1696 6 -8 us 
+: 1704 6 -10 right 
+: 1712 4 -5 now 
+- 1718
+: 1728 2 -5 I 
+: 1732 6 -3 feel 
+: 1740 6 -1 so 
+: 1748 6 -3 close 
+: 1756 2 -5 to 
+: 1760 6 -8 you 
+: 1768 6 -10 right 
+: 1776 4 -5 now 
+- 1782
+: 2368 2 -5 And 
+: 2372 6 -3 there’s 
+: 2380 6 -1 no 
+: 2388 2 -3 sto
+: 2392 6 -5 pping 
+: 2400 6 -8 us 
+: 2408 6 -10 right 
+: 2416 4 -5 now 
+- 2422
+: 2496 2 -5 And 
+: 2500 6 -3 there’s 
+: 2508 6 -1 no 
+: 2516 2 -3 sto
+: 2520 6 -5 pping 
+: 2528 6 -8 us 
+: 2536 6 -10 right 
+: 2544 4 -5 now 
+- 2550
+: 2625 2 -5 And 
+: 2629 6 -3 there’s 
+: 2637 6 -1 no 
+: 2645 2 -3 sto
+: 2649 6 -5 pping 
+: 2657 6 -8 us 
+: 2665 6 -10 right 
+: 2673 4 -5 now 
+- 2679
+: 2752 2 -5 I 
+: 2756 6 -3 feel 
+: 2764 6 -1 so 
+: 2772 6 -3 close 
+: 2780 2 -5 to 
+: 2784 6 -8 you 
+: 2792 6 -10 right 
+: 2800 6 -5 now 
+E

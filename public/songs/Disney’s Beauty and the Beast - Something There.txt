@@ -1,0 +1,234 @@
+#ARTIST:Disney’s Beauty and the Beast
+#TITLE:Something There
+#MP3:Disney’s Beauty and the Beast - Something There.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:1991
+#LANGUAGE:English
+#BPM:400
+#GAP:44160
+#VIDEO:v=V2QrZz-n1Uk,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/40/2b/a7402bee-d99a-e30a-0901-e8f3978cde69/14ULAIM03426.rgb.jpg/5000x5000bb.jpg,bg=beauty-and-the-beast-5ae29e8ca9007.jpg
+: 0 5 7 There’s 
+: 6 4 4 some
+: 12 4 5 thing 
+: 18 15 2 sweet 
+- 35
+: 51 4 -5 And 
+: 57 4 2 al
+: 63 4 4 most 
+: 69 16 0 kind 
+- 87
+: 100 5 -5 But 
+: 107 4 4 he 
+: 113 4 5 was 
+: 120 5 2 mean, 
+- 126
+: 127 4 -5 And 
+: 133 3 2 he 
+: 137 4 5 was 
+: 143 6 2 coarse 
+: 152 2 -5 and 
+: 156 5 -1 un
+: 163 5 9 re
+* 171 24 7 fined 
+- 197
+: 202 5 0 And 
+: 209 4 0 now 
+: 215 6 7 he’s 
+: 223 16 5 dear 
+- 241
+: 251 4 5 And 
+: 257 11 5 so 
+: 270 6 7 un
+: 278 19 4 sure 
+- 299
+: 302 5 4 I 
+: 309 3 4 won
+: 314 4 5 der 
+: 320 5 2 why 
+: 327 6 -5 I 
+: 335 2 0 did
+: 338 4 4 n’t 
+: 343 5 2 see 
+: 349 3 -5 it 
+: 354 8 -1 there 
+: 365 4 2 bef
+: 371 24 0 ore 
+- 397
+: 764 5 -5 She 
+: 771 8 4 glanced 
+: 780 6 5 this 
+: 788 16 2 way 
+- 806
+: 816 5 -5 I 
+: 823 3 2 thought 
+: 827 6 4 I 
+: 834 14 0 saw 
+- 850
+: 865 5 -5 And 
+: 871 5 4 when 
+: 877 5 5 we 
+: 884 4 2 touched 
+- 889
+: 890 5 -5 She 
+: 898 2 2 did
+: 901 5 5 n’t 
+: 907 3 2 shud
+: 911 4 -5 der 
+: 916 7 -1 at 
+: 926 8 9 my 
+* 936 19 7 paw 
+- 957
+: 968 5 0 No 
+: 974 4 0 it 
+: 980 5 7 can’t 
+: 987 17 5 be 
+- 1006
+: 1017 6 5 I’ll 
+: 1028 4 5 just 
+* 1033 4 7 ig
+* 1039 15 4 nore 
+- 1056
+: 1069 3 4 But 
+: 1073 4 4 then 
+: 1079 7 5 she’s 
+: 1088 4 2 nev
+: 1093 3 -5 er 
+: 1098 5 0 looked 
+: 1104 4 4 at 
+: 1110 8 2 me 
+- 1120
+: 1122 5 -5 That 
+: 1129 8 -1 way 
+: 1139 4 2 be
+: 1144 30 0 fore 
+- 1176
+: 1241 57 9 New 
+: 1305 4 9 and 
+: 1311 7 11 a 
+: 1319 11 12 bit 
+: 1340 5 12 al
+: 1347 11 12 arm
+: 1360 35 7 ing 
+- 1397
+: 1410 5 7 Who’d 
+: 1416 3 9 have 
+: 1422 13 10 ev
+: 1437 10 9 er 
+: 1449 25 4 thought 
+: 1476 21 0 that 
+: 1499 23 2 this 
+: 1524 25 9 could 
+: 1550 90 7 be? 
+- 1642
+: 1653 49 9 True 
+: 1715 5 9 that 
+: 1723 7 11 he’s 
+* 1733 15 14 no 
+: 1752 12 12 Prince 
+: 1768 13 11 Charm
+: 1782 30 7 ing 
+- 1814
+: 1819 6 7 But 
+: 1827 4 9 there’s 
+: 1833 14 11 some
+: 1851 6 9 thing 
+: 1859 8 4 in 
+: 1870 11 2 him 
+- 1883
+: 1886 9 0 That 
+: 1897 7 2 I 
+: 1907 10 9 sim
+: 1920 10 2 ply 
+: 1933 10 0 did
+: 1944 11 4 n’t 
+: 1958 43 7 see 
+- 2003
+: 2042 3 4 Well, 
+: 2047 4 0 who’d 
+: 2052 4 2 have 
+: 2059 5 -1 thought? 
+- 2066
+* 2067 3 -5 Well, 
+: 2072 4 0 bless 
+: 2077 4 4 my 
+: 2084 5 2 soul 
+- 2091
+: 2093 4 4 Well, 
+: 2099 4 7 who’d 
+: 2104 4 11 have 
+: 2111 4 9 known? 
+- 2117
+: 2118 3 -5 Well, 
+: 2123 4 0 who 
+: 2128 4 4 in
+: 2135 5 2 deed? 
+- 2142
+: 2143 4 4 And 
+: 2149 4 -3 who’d 
+: 2154 5 0 have 
+: 2161 4 -1 guessed 
+- 2166
+: 2167 5 4 They’d 
+: 2174 4 -1 come 
+: 2180 4 2 to
+: 2186 4 -1 geth
+: 2191 4 4 er 
+: 2197 5 7 on 
+: 2204 6 5 their 
+: 2212 6 7 own? 
+- 2219
+* 2219 4 -5 It’s 
+: 2225 5 0 so 
+: 2231 4 4 pe
+: 2237 5 9 cul
+: 2243 3 7 iar 
+- 2248
+: 2249 5 0 Wait 
+: 2256 4 7 and 
+: 2262 13 5 see 
+: 2293 5 -7 a 
+: 2300 4 0 few 
+: 2305 5 5 days 
+: 2312 16 4 more 
+- 2330
+: 2344 4 -3 There 
+: 2350 4 1 may 
+: 2356 4 4 be 
+: 2361 4 2 some
+: 2367 4 -3 thing 
+: 2373 5 0 there 
+- 2379
+: 2380 4 4 That 
+: 2386 5 2 was
+: 2392 4 -5 n’t 
+: 2398 5 -1 there 
+: 2405 4 2 be
+: 2410 14 0 fore 
+- 2426
+* 2508 5 4 There’s 
+: 2516 4 2 some
+: 2522 4 -3 thing 
+: 2528 5 0 there 
+- 2534
+: 2535 4 4 That 
+: 2541 5 2 was
+: 2547 4 -5 n’t 
+: 2553 5 -1 there 
+: 2560 4 2 be
+: 2565 14 0 fore 
+- 2581
+: 2651 4 -3 There 
+: 2657 4 1 may 
+: 2663 4 4 be 
+: 2668 4 2 some
+: 2674 4 -3 thing 
+: 2680 5 0 there 
+- 2686
+: 2687 4 4 That 
+: 2693 5 2 was
+: 2699 4 -5 n’t 
+: 2705 5 -1 there 
+: 2712 4 2 be
+: 2717 14 0 fore 
+E

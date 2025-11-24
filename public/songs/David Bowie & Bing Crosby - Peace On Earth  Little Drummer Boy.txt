@@ -1,0 +1,207 @@
+#ARTIST:David Bowie & Bing Crosby
+#TITLE:Peace On Earth / Little Drummer Boy
+#MP3:David Bowie & Bing Crosby - Peace On Earth / Little Drummer Boy.mp3
+#CREATOR:Tracks
+#YEAR:1977
+#LANGUAGE:English
+#BPM:360
+#GAP:121280
+#VIDEO:v=lCpXMy5GalI,co=peace-on-earth--little-drummer-boy-5ed428bc8bc36.jpg,bg=bowie-david-5122f1a050c87.jpg
+#START:106.0
+: 0 29 2 Come 
+: 34 6 3 they 
+: 44 16 5 told 
+: 64 5 5 me 
+: 74 7 5 pa 
+: 84 2 7 rum 
+: 88 4 5 pum 
+: 94 5 7 pum 
+: 104 22 5 pum 
+- 128
+: 176 8 2 A 
+: 188 8 2 new 
+: 198 8 3 born 
+: 208 8 5 king 
+: 218 6 5 to 
+: 228 6 5 see 
+: 238 7 5 pa 
+: 248 3 7 rum 
+: 254 3 5 pum 
+: 258 6 7 pum 
+: 268 22 5 pum 
+- 292
+: 340 7 0 Our 
+: 350 9 2 fi
+: 360 6 3 nest 
+: 371 6 5 gifts 
+: 382 6 5 we 
+: 392 6 5 bring 
+: 402 7 7 pa 
+: 412 3 8 rum 
+: 416 3 7 pum 
+: 422 6 5 pum 
+: 430 14 7 pum 
+- 446
+: 452 2 7 Rum 
+: 456 3 5 pum 
+: 462 5 3 pum 
+: 472 12 5 pum 
+- 486
+: 492 2 5 Rum 
+: 496 3 3 pum 
+: 502 5 2 pum 
+: 512 32 0 pum 
+- 546
+: 610 8 12 Peace 
+: 622 6 14 on 
+* 632 22 5 Earth 
+- 656
+: 690 8 15 Can 
+: 702 4 14 it 
+: 712 24 5 be? 
+- 738
+: 772 5 12 Years 
+: 782 5 14 from 
+: 792 12 5 now 
+- 806
+: 820 8 10 Per
+: 830 5 15 haps 
+: 840 6 14 we’ll 
+: 850 16 10 see 
+- 868
+: 930 8 10 See 
+: 940 6 9 the 
+: 950 28 9 day 
+: 980 6 9 of 
+: 990 18 9 glo
+* 1010 38 12 ry 
+- 1050
+: 1090 8 9 See 
+: 1100 6 9 the 
+: 1110 20 10 day 
+- 1132
+: 1140 5 15 When 
+: 1150 22 15 men 
+: 1174 4 14 of 
+: 1180 6 12 good 
+: 1190 8 14 will 
+- 1200
+: 1214 4 12 Live 
+: 1220 4 10 in 
+: 1228 14 12 peace 
+- 1244
+: 1256 2 9 Live 
+: 1260 4 7 in 
+: 1270 10 7 peace 
+: 1284 4 9 a
+: 1290 14 5 gain 
+- 1306
+: 1328 8 12 Peace 
+: 1340 6 14 on 
+: 1352 26 5 Earth 
+- 1380
+: 1448 11 3 Can 
+: 1460 4 5 it 
+: 1470 5 3 be
+: 1476 33 5 ~
+: 1510 3 8 ~
+: 1514 28 10 ~ 
+- 1544
+: 1568 8 8 Eve
+: 1578 6 10 ry 
+: 1588 14 12 child 
+: 1606 6 14 must 
+: 1616 8 12 be 
+: 1628 24 10 made 
+: 1656 6 7 a
+: 1666 24 3 ware 
+- 1692
+: 1722 6 8 Eve
+: 1732 6 10 ry 
+: 1742 14 12 child 
+: 1760 4 14 must 
+: 1770 7 12 be 
+: 1780 24 10 made 
+: 1810 3 7 to 
+: 1816 20 3 care 
+- 1838
+: 1880 8 3 Care 
+: 1890 5 6 e
+* 1896 10 10 nough 
+- 1908
+: 1918 7 12 For 
+: 1928 6 10 his 
+: 1938 24 8 fel
+: 1966 8 5 low 
+: 1978 8 1 man 
+- 1988
+: 2004 8 5 To 
+: 2014 16 6 give 
+: 2036 8 3 all 
+: 2048 4 3 the 
+: 2054 8 3 love 
+- 2064
+: 2076 5 3 That 
+: 2086 5 3 he 
+: 2094 52 5 can 
+- 2148
+: 2186 4 12 I 
+: 2196 10 12 pray 
+: 2208 7 14 my 
+: 2220 6 5 wish 
+- 2228
+: 2274 7 15 Will 
+: 2286 6 14 come 
+: 2298 24 5 true 
+- 2324
+: 2352 8 12 For 
+: 2364 7 14 my 
+: 2378 16 5 child 
+- 2396
+: 2402 5 12 And 
+: 2412 7 15 your 
+: 2424 7 14 child 
+: 2436 20 10 too 
+- 2458
+: 2502 6 9 He’ll 
+: 2512 8 9 see 
+: 2522 6 9 the 
+: 2532 18 9 day 
+: 2562 6 9 of 
+: 2572 18 9 glo
+: 2592 32 12 ry 
+- 2626
+: 2672 8 9 See 
+: 2682 6 9 the 
+: 2692 14 10 day 
+- 2708
+: 2720 5 15 When 
+: 2730 23 15 men 
+: 2756 2 14 of 
+: 2760 6 12 good 
+: 2768 14 14 will 
+- 2784
+: 2796 2 12 Live 
+: 2800 5 10 in 
+: 2810 10 12 peace 
+- 2822
+: 2836 2 10 Live 
+: 2840 8 9 in 
+: 2850 11 7 peace 
+: 2864 4 9 a
+: 2870 12 5 gain 
+- 2884
+: 2910 8 12 Peace 
+: 2922 6 14 on 
+: 2934 28 5 Earth 
+- 2964
+: 3034 6 3 Can 
+: 3042 4 5 it 
+: 3050 4 3 be
+: 3055 35 5 ~? 
+- 3092
+: 3204 7 5 Ca
+: 3212 7 3 ~n 
+: 3220 7 5 it 
+* 3236 80 5 be? 
+E

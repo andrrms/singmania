@@ -1,0 +1,283 @@
+#ARTIST:100 gecs
+#TITLE:Dumbest Girl Alive
+#MP3:100 gecs - Dumbest Girl Alive.mp3
+#CREATOR:krasserdude
+#COVER:100 gecs - Dumbest Girl Alive [CO].jpg
+#BACKGROUND:100 gecs - Dumbest Girl Alive [BG].jpg
+#GENRE:Hyperpop
+#YEAR:2023
+#LANGUAGE:English
+#BPM:300
+#GAP:22460
+#VIDEO:v=oXrbMDww9ss,co=10000-gecs-68ac0f17def4c.jpg
+F 0 7 4 Woo 
+- 47
+: 463 2 5 If 
+: 466 2 5 you 
+: 470 2 7 think 
+: 474 2 5 I’m 
+: 479 3 7 stu
+: 483 2 5 pid 
+: 487 5 5 now, 
+: 496 2 7 you 
+: 499 2 5 should 
+: 504 2 7 see 
+: 507 2 5 me 
+: 512 3 7 when 
+: 516 2 5 I’m 
+: 520 5 5 high 
+- 527
+: 529 2 4 And 
+: 532 2 5 I’m 
+: 536 3 5 smar
+: 540 2 5 ter 
+: 544 3 7 than 
+: 548 1 7 I
+: 550 1 5 ~ 
+: 552 4 4 look, 
+: 560 2 5 I’m 
+: 564 2 5 the 
+: 568 2 5 dum
+: 572 2 5 best 
+: 576 3 7 girl 
+: 580 2 5 a
+: 584 4 5 live 
+- 589
+: 591 2 5 I 
+: 594 2 5 took 
+: 598 3 5 ten 
+: 603 2 5 Ad
+: 607 1 5 vils
+: 609 2 7 ~ 
+: 612 1 5 to
+: 614 6 4 day, 
+: 623 2 5 I’ve 
+: 626 3 5 got 
+* 630 3 5 brui
+: 635 2 5 ses 
+: 639 2 7 on 
+: 643 1 7 my
+: 645 1 5 ~ 
+: 647 4 5 thighs 
+- 654
+: 656 2 5 Plus 
+: 660 2 5 I 
+: 664 2 5 gave 
+: 668 2 5 a
+: 672 1 5 way
+: 674 1 7 ~ 
+: 676 2 5 my 
+: 680 4 4 brain, 
+: 688 3 5 I’m 
+: 692 2 5 the 
+: 696 2 5 dum
+: 700 2 5 best 
+: 704 2 7 girl 
+: 708 2 5 a
+: 712 4 5 live 
+- 718
+: 720 2 5 I’ve 
+: 723 2 5 got 
+: 727 2 5 light
+: 731 2 5 ning 
+: 735 3 7 in 
+: 739 2 5 my 
+: 743 5 4 veins, 
+: 751 3 5 walk 
+: 755 2 5 a
+: 759 2 5 round 
+: 763 2 5 like 
+: 767 3 7 Fran
+: 771 2 5 ken
+: 775 4 5 stein 
+- 782
+: 784 2 5 I 
+: 787 3 5 did 
+: 791 3 5 sci
+: 795 2 5 ence 
+: 799 3 7 on 
+: 803 2 5 my 
+: 808 5 4 face, 
+: 816 2 5 I’m 
+: 820 2 5 the 
+: 824 3 5 dum
+: 828 2 5 best 
+: 832 3 7 girl 
+: 836 2 5 a
+: 840 3 5 live 
+- 846
+: 848 2 4 Ne
+: 851 2 5 ver 
+: 855 3 5 ask 
+: 859 2 5 me 
+: 863 3 7 what 
+: 867 2 5 I 
+: 871 4 4 think, 
+: 879 3 5 don’t 
+: 883 2 5 know 
+: 887 3 5 why 
+: 891 2 5 you 
+: 895 2 9 e
+: 899 2 7 ven 
+: 903 5 5 try 
+- 910
+: 912 2 5 ’Cause 
+: 915 2 5 I 
+: 919 3 5 al
+: 923 2 5 ways 
+: 927 3 7 get 
+: 931 2 5 it 
+: 935 5 4 wrong, 
+: 943 3 5 I’m 
+: 947 2 5 the 
+: 951 2 5 dum
+: 955 2 5 best 
+: 959 3 7 girl 
+: 963 2 5 a
+: 967 4 5 live 
+- 974
+: 976 2 5 Mo
+: 979 3 5 ney 
+: 983 3 5 co
+: 987 3 5 min’ 
+: 991 2 7 from 
+: 995 2 5 my 
+: 999 5 4 mouth, 
+: 1008 2 5 mo
+: 1011 3 5 ney 
+: 1015 3 5 co
+: 1020 2 5 min’ 
+: 1023 3 7 from 
+: 1028 2 5 my 
+: 1031 5 5 eyes 
+- 1037
+: 1039 3 4 And 
+: 1043 2 5 I 
+: 1048 2 7 keep 
+: 1051 2 5 on 
+: 1056 2 7 lo
+: 1059 3 5 sing 
+: 1064 5 4 count, 
+: 1072 2 5 I’m 
+: 1076 2 5 the 
+: 1079 3 5 dum
+: 1083 3 5 best 
+: 1087 3 7 girl 
+: 1091 2 5 a
+: 1096 3 5 live 
+- 1102
+: 1104 2 5 And 
+: 1108 2 5 I’m 
+: 1111 2 5 pi
+: 1115 2 5 cking 
+: 1119 2 7 up 
+: 1123 2 5 the 
+: 1127 5 4 pacе, 
+: 1135 2 5 I’m 
+: 1139 3 5 so 
+: 1143 3 5 ha
+: 1147 3 5 ppy, 
+: 1151 3 7 I 
+: 1155 3 5 could 
+: 1159 5 5 die 
+- 1166
+: 1168 2 5 Put 
+: 1171 2 5 e
+: 1175 3 5 mo
+: 1179 3 5 jis 
+: 1184 2 7 on 
+: 1187 3 5 my 
+: 1192 5 4 grave, 
+: 1200 2 5 I’m 
+: 1204 2 5 thе 
+: 1207 3 5 dum
+: 1211 3 5 best 
+: 1215 3 7 girl 
+: 1219 3 5 a
+: 1223 4 5 live 
+- 1229
+: 1231 3 7 And 
+: 1235 3 5 I 
+: 1239 3 5 feel 
+: 1243 3 5 so 
+: 1247 4 7 dan
+: 1253 1 5 ge
+: 1255 6 4 rous, 
+: 1263 2 5 but 
+: 1266 3 5 you 
+: 1270 3 5 say 
+: 1275 2 5 I’m 
+: 1279 3 9 do
+: 1283 3 7 in’ 
+: 1288 5 7 fine 
+: 1295 5 5 now 
+- 1302
+: 1304 2 5 Guess 
+: 1307 3 5 that’s 
+: 1311 3 7 how 
+: 1315 2 5 it 
+: 1319 5 4 goes, 
+: 1327 2 5 I’m 
+: 1331 3 5 the 
+: 1335 3 5 dum
+: 1339 3 5 best 
+: 1343 3 7 girl 
+: 1348 2 5 a
+: 1352 4 5 live 
+- 1357
+: 1359 5 7 Text, 
+: 1367 5 7 text, 
+: 1375 5 7 text, 
+: 1383 7 7 text, 
+: 1392 2 7 like 
+: 1395 3 5 you’re 
+: 1399 3 7 tryin’ 
+: 1403 2 5 to 
+: 1407 3 7 start 
+: 1411 2 5 a 
+: 1415 5 5 fight 
+- 1422
+: 1424 2 7 Yeah, 
+: 1427 3 5 I’ll 
+: 1432 2 7 fu
+: 1435 3 5 ckin’ 
+: 1440 2 7 text 
+: 1443 3 5 you 
+: 1448 4 5 back, 
+: 1455 3 7 I’m 
+: 1459 2 5 the 
+: 1463 3 7 dum
+: 1467 2 5 best 
+: 1471 3 7 girl 
+: 1475 2 5 a
+: 1479 7 5 live 
+- 1526
+: 1622 3 7 Why 
+: 1626 3 5 you 
+: 1630 3 7 wa
+: 1634 2 5 nna 
+: 1639 5 5 pout? 
+- 1645
+: 1647 2 7 Is 
+: 1651 2 5 there 
+: 1655 3 7 some
+: 1659 2 5 thing 
+: 1663 3 7 in 
+: 1667 2 5 your 
+: 1671 6 5 eye? 
+- 1684
+: 1687 2 7 Can 
+: 1690 2 5 you 
+: 1695 2 7 show 
+: 1698 2 5 me 
+: 1702 6 5 how? 
+- 1709
+: 1711 2 10 Can 
+: 1714 2 9 you 
+: 1719 3 10 show 
+: 1723 3 9 me 
+: 1727 2 10 how 
+: 1731 2 9 to 
+- 1753
+: 1790 9 2 Cry? 
+E

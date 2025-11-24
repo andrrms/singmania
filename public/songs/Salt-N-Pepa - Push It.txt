@@ -1,0 +1,438 @@
+#ARTIST:Salt-N-Pepa
+#TITLE:Push It
+#MP3:Salt-N-Pepa - Push It.mp3
+#CREATOR:dan878
+#EDITION:SingStar R&B
+#GENRE:Rap
+#YEAR:1988
+#LANGUAGE:English
+#BPM:254
+#GAP:2870
+#VIDEO:v=hRkEP_4yJGk,co=push-it-5e3c504c934e7.jpg,bg=salt-n-pepa-510f0361bd758.jpg
+R 0 5 0 Ah, 
+R 16 3 0 push 
+R 20 3 0 it 
+- 56
+R 128 5 0 Ah, 
+R 144 3 0 push 
+R 148 3 0 it 
+- 184
+R 352 1 -3 Hit 
+R 354 2 -3 it 
+- 366
+R 384 3 4 Ooh 
+R 392 2 4 ba
+R 396 2 4 by, 
+R 400 5 4 ba
+R 408 4 4 by 
+- 421
+R 424 2 -8 Ba
+R 428 2 -8 by, 
+R 432 5 -8 ba
+R 440 4 -8 by 
+- 446
+R 448 3 4 Ooh 
+R 456 2 4 ba
+R 460 2 4 by, 
+R 464 5 4 ba
+R 472 4 4 by 
+- 482
+G 484 2 -8 B-
+R 488 2 -8 ba
+R 492 2 -8 by, 
+R 496 5 -8 ba
+R 504 4 -8 by 
+- 541
+R 640 5 0 Ah, 
+R 656 3 0 push 
+R 660 3 0 it 
+- 679
+R 704 5 0 Ah, 
+R 720 3 0 push 
+R 724 3 0 it 
+- 743
+R 768 5 0 Ah, 
+R 784 3 0 push 
+R 788 3 0 it 
+- 801
+R 808 5 2 Hi, 
+R 820 1 2 get 
+R 822 3 2 up 
+R 826 3 2 on 
+- 830
+R 832 5 0 Ah, 
+G 848 3 0 push 
+R 852 3 0 it 
+- 865
+R 884 1 2 Get 
+R 886 3 2 up 
+R 890 3 2 on 
+R 896 5 2 this 
+- 917
+R 936 8 11 Ow 
+R 948 4 11 ba
+R 954 4 11 by 
+- 974
+R 1016 3 4 Salt 
+R 1020 3 4 and 
+R 1024 1 4 Pe
+R 1026 3 4 pa’s 
+R 1030 3 4 here 
+- 1043
+R 1060 3 7 Salt 
+R 1064 3 7 salt 
+R 1068 3 7 salt 
+R 1072 3 7 salt 
+- 1078
+R 1080 3 4 Salt 
+R 1084 3 4 and 
+R 1088 1 4 Pe
+R 1090 3 4 pa’s 
+R 1094 3 4 here 
+- 1107
+G 1124 3 7 Salt 
+R 1128 3 7 salt 
+R 1132 3 7 salt 
+R 1136 3 7 salt 
+R 1140 3 7 salt 
+- 1143
+R 1144 3 4 Salt 
+R 1148 3 4 and 
+R 1152 1 4 Pe
+R 1154 3 4 pa’s 
+R 1158 3 4 here 
+- 1171
+R 1184 3 7 Salt 
+R 1188 3 7 and 
+R 1192 3 7 Pe 
+- 1195
+R 1196 3 7 Salt 
+R 1200 3 7 and 
+R 1204 3 7 Pe 
+- 1207
+R 1208 3 4 Salt 
+R 1212 3 4 and 
+R 1216 1 4 Pe
+R 1218 3 4 pa’s 
+R 1222 3 4 here 
+- 1235
+R 1248 3 0 Salt 
+R 1256 3 0 salt 
+R 1262 3 0 salt 
+- 1270
+R 1272 3 4 Salt 
+R 1276 3 4 and 
+R 1280 1 4 Pe
+R 1282 3 4 pa’s 
+R 1286 3 4 here 
+- 1290
+R 1292 3 -3 Now 
+R 1296 4 -3 wait 
+R 1301 2 -3 a 
+R 1304 1 -3 mi
+R 1306 3 -3 nute 
+R 1310 5 -3 y’all 
+- 1324
+R 1328 3 -7 This 
+R 1332 5 -7 dance 
+R 1340 2 -7 ain’t 
+R 1344 2 -7 for 
+R 1347 2 -7 eve
+R 1350 2 -7 ry
+R 1353 2 -7 bo
+R 1356 2 -7 dy 
+- 1368
+R 1376 3 -3 On
+R 1380 1 -3 ly 
+R 1382 1 -3 the 
+R 1384 3 -3 se
+R 1388 3 -3 xy 
+R 1392 3 -3 peo
+R 1396 3 -3 ple 
+- 1408
+R 1412 1 -7 So 
+R 1414 1 -7 all 
+R 1416 4 -7 you 
+R 1421 8 -7 fly 
+R 1432 2 -7 mo
+R 1435 3 -7 thers 
+- 1444
+R 1446 1 -3 Get 
+R 1448 3 -3 on 
+R 1452 3 -3 out 
+R 1456 3 -3 there 
+R 1460 3 -3 and 
+R 1464 3 -3 dance 
+- 1477
+R 1488 4 -7 “Dance”, 
+R 1494 4 -7 I 
+R 1499 4 -7 said 
+- 1513
+R 1528 3 4 Salt 
+R 1532 3 4 and 
+R 1536 1 4 Pe
+R 1538 3 4 pa’s 
+R 1542 3 4 here 
+- 1546
+R 1548 3 0 And 
+R 1552 3 0 we’re 
+R 1556 3 0 in 
+R 1560 3 0 ef
+R 1564 3 0 fect 
+- 1570
+R 1572 3 4 Want 
+R 1576 3 4 you 
+R 1580 3 4 to 
+R 1584 3 4 push 
+R 1588 3 4 it 
+G 1592 3 4 babe 
+- 1598
+R 1600 3 0 Coo
+R 1604 3 0 lin’ 
+R 1608 3 0 by 
+R 1612 3 0 day 
+- 1618
+R 1620 3 0 Then 
+R 1624 3 0 at 
+R 1628 3 0 night 
+R 1640 3 0 wor
+R 1644 3 0 king 
+R 1648 3 0 up 
+R 1652 3 0 a 
+R 1656 3 0 sweat 
+- 1662
+R 1664 1 4 Come 
+R 1666 3 4 on 
+R 1670 3 4 girls 
+- 1674
+R 1676 3 0 Let’s 
+R 1680 3 0 go 
+R 1684 3 0 show 
+R 1688 3 0 the 
+R 1692 3 0 guys 
+- 1698
+R 1700 3 4 That 
+R 1704 3 4 we 
+R 1708 3 4 know 
+- 1714
+R 1716 3 0 How 
+R 1720 3 0 to 
+R 1724 3 0 be
+R 1728 3 0 come 
+R 1736 3 0 num
+R 1740 3 0 ber 
+R 1744 3 0 one 
+- 1747
+R 1748 3 4 In 
+R 1752 3 4 a 
+R 1756 3 4 hot 
+R 1764 3 4 bo
+R 1768 3 4 dy 
+R 1772 3 4 show 
+- 1778
+R 1780 3 -1 Now 
+R 1784 3 -1 push 
+R 1788 3 -1 it 
+- 1791
+R 1792 5 0 Ah, 
+R 1808 3 0 push 
+R 1812 3 0 it 
+- 1825
+R 1840 3 12 Push 
+R 1844 3 12 it 
+R 1848 3 12 good 
+- 1854
+R 1856 5 0 Ah, 
+R 1872 3 0 push 
+R 1876 3 0 it 
+- 1889
+R 1896 3 12 Push 
+R 1900 3 12 it 
+G 1904 4 12 real 
+R 1912 4 12 good 
+- 1918
+R 1920 5 0 Ah, 
+R 1936 3 0 push 
+R 1940 3 0 it 
+- 1953
+R 1968 3 12 Push 
+R 1972 3 12 it 
+R 1976 3 12 good 
+- 1982
+R 1984 5 0 Ah, 
+R 2000 3 0 push 
+R 2004 3 0 it 
+- 2016
+R 2020 3 12 P-
+R 2024 3 12 push 
+R 2028 3 12 it 
+R 2032 5 12 real 
+R 2040 5 12 good 
+- 2061
+R 2104 6 8 Hi 
+- 2126
+G 2168 6 8 Ow 
+- 2190
+R 2224 3 -1 Push 
+R 2228 3 -1 it 
+R 2232 3 -1 good 
+- 2268
+R 2303 3 4 Ooh 
+R 2311 2 4 ba
+R 2315 2 4 by, 
+R 2319 5 4 ba
+R 2327 4 4 by 
+- 2340
+R 2343 2 -8 Ba
+R 2347 2 -8 by, 
+R 2351 5 -8 ba
+R 2359 4 -8 by 
+- 2365
+R 2367 3 4 Ooh 
+R 2375 2 4 ba
+R 2379 2 4 by, 
+G 2383 5 4 ba
+R 2391 4 4 by 
+- 2401
+R 2403 2 -8 B-
+R 2407 2 -8 ba
+R 2411 2 -8 by, 
+R 2415 5 -8 ba
+R 2423 4 -8 by 
+- 2443
+R 2479 3 12 Push 
+R 2483 3 12 it 
+R 2487 3 12 good 
+- 2506
+R 2535 3 12 Push 
+R 2539 3 12 it 
+R 2543 4 12 real 
+R 2551 4 12 good 
+- 2557
+G 2559 5 0 Ah, 
+R 2575 3 0 push 
+R 2579 3 0 it 
+- 2615
+R 2687 5 0 Ah, 
+R 2703 3 0 push 
+R 2707 3 0 it 
+- 2743
+R 2802 3 7 Yo 
+R 2806 3 7 yo 
+R 2810 3 7 yo 
+R 2814 3 7 yo, 
+R 2818 3 7 ba
+R 2822 3 7 by
+R 2826 3 7 pop 
+- 2832
+R 2834 3 4 Yeah 
+G 2842 3 4 you 
+- 2848
+R 2850 3 4 Come 
+R 2854 3 4 here, 
+R 2858 3 4 gim
+R 2862 3 4 me 
+R 2866 3 4 a 
+R 2870 3 4 kiss 
+- 2876
+R 2878 1 7 Bet
+R 2880 1 7 ter 
+R 2882 3 7 make 
+R 2886 3 7 it 
+R 2890 4 7 fast 
+- 2896
+R 2898 3 5 Or 
+R 2902 3 5 else 
+R 2906 3 5 I’m 
+R 2910 3 5 gon
+R 2914 3 5 na 
+R 2918 3 5 get 
+R 2922 4 5 pissed 
+- 2932
+R 2934 3 7 Can’t 
+R 2938 3 7 you 
+R 2942 3 7 hear 
+- 2945
+R 2946 3 7 The 
+R 2950 3 7 mu
+R 2954 3 7 sic’s 
+R 2958 1 7 pum
+R 2960 3 7 pin’ 
+R 2964 3 7 hard 
+- 2968
+R 2970 3 4 Like 
+R 2974 3 4 I 
+R 2978 3 4 wish 
+R 2982 3 4 you 
+G 2986 4 4 would? 
+- 2992
+R 2994 3 -3 Now 
+R 2998 3 -3 push 
+R 3002 3 -3 it 
+- 3021
+R 3054 3 12 Push 
+R 3058 3 12 it 
+R 3062 3 12 good 
+- 3081
+R 3110 3 12 Push 
+R 3114 3 12 it 
+R 3118 5 12 real 
+R 3126 5 12 good 
+- 3147
+R 3182 3 12 Push 
+R 3186 3 12 it 
+R 3190 3 12 good 
+- 3209
+R 3234 3 12 P-
+R 3238 3 12 push 
+R 3242 3 12 it 
+R 3246 5 12 real 
+R 3254 5 12 good 
+- 3275
+R 3325 5 0 Ah 
+- 3346
+R 3388 5 0 Ah, 
+R 3404 3 0 push 
+R 3408 3 0 it 
+- 3420
+R 3424 3 -3 Push, 
+R 3432 3 -3 push, 
+R 3436 3 -3 push 
+R 3440 3 -3 it, 
+R 3444 3 -3 push 
+R 3448 3 -3 it 
+- 3461
+R 3468 3 -3 Push 
+R 3472 3 -3 it 
+- 3484
+R 3487 3 -3 Push, 
+R 3495 3 -3 push, 
+R 3499 3 -3 push 
+R 3503 3 -3 it, 
+R 3507 3 -3 push 
+R 3511 3 -3 it 
+- 3520
+R 3523 3 -3 Push 
+R 3527 3 -3 it, 
+R 3539 3 -3 push 
+R 3543 3 -3 it 
+- 3552
+R 3555 3 -3 Push 
+R 3559 3 -3 it, 
+R 3563 3 -3 push 
+R 3567 3 -3 it, 
+R 3571 3 -3 push 
+R 3575 3 -3 it 
+- 3584
+R 3587 3 -3 Push 
+R 3591 3 -3 it, 
+R 3603 3 -3 push 
+R 3607 3 -3 it 
+- 3616
+R 3619 3 -3 Push 
+R 3623 3 -3 it, 
+R 3627 3 -3 push 
+R 3631 3 -3 it, 
+R 3635 3 -3 push 
+R 3639 3 -3 it 
+E

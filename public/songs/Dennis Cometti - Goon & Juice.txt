@@ -1,0 +1,181 @@
+#ARTIST:Dennis Cometti
+#TITLE:Goon & Juice
+#MP3:Dennis Cometti - Goon & Juice.mp3
+#CREATOR:hugamuga
+#GENRE:Rock
+#YEAR:2015
+#LANGUAGE:English
+#BPM:212.88
+#GAP:25980
+#VIDEO:v=lLXadZsZKUc,co=https://f4.bcbits.com/img/a2721820928_10.jpg
+: 0 1 2 Get
+: 2 1 2 ting 
+: 5 1 2 drunk 
+: 8 2 2 down 
+: 13 1 2 at 
+: 17 1 2 the 
+: 20 3 2 park 
+- 25
+: 34 1 2 Get
+: 36 1 2 ting 
+: 38 3 2 smashed 
+: 42 1 2 from 
+: 46 2 2 dawn 
+: 50 1 2 till 
+: 53 3 2 dark 
+- 58
+: 66 1 2 Got 
+: 69 1 2 no 
+: 71 2 2 money 
+: 75 1 2 it 
+: 77 1 2 ain’t 
+: 80 1 2 no 
+: 84 3 2 use 
+- 89
+: 98 1 2 You’d 
+: 100 1 2 bet
+: 102 1 2 ter 
+: 104 1 2 buy 
+: 107 1 2 some 
+: 110 2 5 goon 
+: 113 1 5 and 
+: 117 3 5 juice 
+- 122
+: 431 2 2 Goon 
+: 434 2 2 and 
+: 438 3 5 juice 
+- 443
+: 494 1 2 It’s 
+: 496 1 2 got
+: 498 1 2 ta 
+: 500 1 2 be 
+: 502 2 2 goon 
+: 507 1 2 and 
+: 509 1 5 juice
+: 511 2 2 ~ 
+- 515
+: 556 2 2 Goon 
+: 559 1 2 and 
+: 561 3 0 juice 
+- 566
+: 620 1 2 It’s 
+: 622 1 2 got
+: 624 1 2 ta 
+: 626 1 2 be 
+: 628 1 2 goon 
+: 632 2 2 and 
+: 636 1 5 juice
+: 638 2 2 ~ 
+- 642
+: 895 1 2 Get
+: 897 1 2 ting 
+: 899 2 2 smashed 
+: 904 2 2 down 
+: 907 1 2 at 
+: 910 1 2 the 
+: 913 3 2 park 
+- 918
+: 925 1 2 Get
+: 927 1 2 ting 
+: 931 2 2 drunk 
+: 935 1 2 from 
+: 938 1 2 dawn 
+: 941 1 2 till 
+: 944 3 2 dark 
+- 949
+: 958 1 2 Got 
+: 960 1 2 no 
+: 962 2 2 money 
+: 965 1 2 it 
+: 968 1 2 ain’t 
+: 972 2 2 no 
+: 976 2 2 use 
+- 980
+: 987 1 2 You’d 
+: 990 1 2 bet
+: 992 1 2 ter 
+: 995 1 2 buy 
+: 998 1 2 some 
+: 1002 2 5 goon 
+: 1005 1 5 and 
+: 1009 3 5 juice 
+- 1014
+: 1321 2 2 Goon 
+: 1325 1 2 and 
+: 1328 3 5 juice 
+- 1333
+: 1385 1 2 Got
+: 1387 1 2 ta 
+: 1389 1 2 be 
+: 1391 2 2 goon 
+: 1396 1 2 and 
+: 1399 1 5 juice
+: 1401 2 2 ~ 
+- 1405
+: 1446 2 2 Goon 
+: 1449 1 2 and 
+: 1452 3 0 juice 
+- 1457
+: 1508 1 2 It’s 
+: 1510 1 2 got
+: 1512 1 2 ta 
+: 1514 1 2 be 
+: 1516 2 0 goon 
+: 1520 1 0 yeah 
+- 1522
+: 1523 2 2 It’s 
+: 1527 1 2 got
+: 1529 1 2 ta 
+: 1531 1 2 be 
+: 1533 2 0 goon 
+: 1536 1 0 yeah 
+- 1538
+: 1539 1 2 It’s 
+: 1541 1 2 got
+: 1543 1 2 ta 
+: 1545 1 2 be 
+* 1547 2 0 goon 
+* 1551 1 2 and 
+* 1554 2 5 juice
+* 1557 4 2 ~ 
+- 1563
+F 1627 1 0 Eag
+F 1630 1 0 les 
+F 1632 1 0 rea
+F 1634 1 0 dy 
+F 1636 1 0 to 
+F 1638 1 0 get 
+F 1640 1 0 up 
+F 1643 1 0 and 
+F 1646 1 0 go 
+- 1649
+F 1655 1 0 Har
+F 1657 1 0 vey 
+F 1659 1 0 closed 
+F 1662 2 0 up 
+F 1666 1 0 the 
+F 1668 1 0 space 
+- 1671
+F 1677 1 0 Now 
+F 1680 1 0 he 
+F 1683 1 0 gives 
+F 1685 1 0 the 
+F 1687 1 0 hand
+F 1690 1 0 ball 
+- 1693
+F 1696 1 0 To 
+F 1699 1 0 well
+F 1702 1 0 ing
+F 1705 2 0 ha
+F 1708 2 0 aa
+F 1712 3 0 aa
+F 1717 2 0 Aa
+F 1721 2 0 AAa
+F 1724 7 0 aAAAAaaa
+F 1734 8 0 amm 
+- 1744
+F 1760 2 0 Well
+F 1764 3 0 ing
+F 1769 3 0 ham 
+F 1775 7 0 goals 
+E

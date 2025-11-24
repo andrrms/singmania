@@ -1,0 +1,378 @@
+#ARTIST:Apocalyptica feat. Lauri Ylönen
+#TITLE:Life Burns
+#MP3:Apocalyptica feat. Lauri Ylönen - Life Burns.mp3
+#CREATOR:Wüstenpfeil
+#YEAR:2005
+#LANGUAGE:English
+#BPM:388.7
+#GAP:10840
+#VIDEO:v=RtnK6-gmdPo,co=https://images.genius.com/35f3d6345fabb2262745e9d57ea28c62.1000x1000x1.jpg,bg=apocalyptica-4dda9e18d9f0b.jpg
+: 0 7 7 We 
+: 8 7 6 break 
+: 16 7 4 our 
+: 24 3 2 en
+: 28 7 4 e
+: 36 7 6 mies 
+: 44 11 2 with 
+: 56 20 4 fe
+: 80 7 -1 ar 
+- 88
+: 88 12 -1 And 
+: 112 7 -1 we’ve 
+: 120 11 0 seen 
+: 132 11 2 how 
+: 144 7 4 the 
+: 152 11 6 tears 
+: 164 11 4 come 
+: 176 7 2 a
+: 184 28 -1 round 
+- 214
+: 256 7 7 We 
+: 264 7 6 built 
+: 272 7 4 our 
+: 280 7 2 con
+: 288 3 4 fi
+: 292 7 6 dence 
+: 300 11 2 on 
+: 312 20 4 wa
+: 336 7 -1 ste
+: 344 12 -1 land 
+- 358
+: 368 7 -1 We’ve 
+: 376 11 0 seen 
+: 388 11 7 how 
+: 400 7 6 the 
+: 408 11 2 walls 
+: 420 11 6 come 
+: 432 36 4 down 
+- 470
+: 568 12 7 Life 
+: 584 44 7 Burns! 
+- 630
+: 700 3 11 A 
+: 704 7 11 man 
+: 712 7 11 dies 
+: 720 3 9 like 
+: 724 3 7 a 
+: 728 3 6 but
+: 732 7 7 ter
+: 740 16 9 fly 
+- 758
+: 768 7 7 Life 
+: 776 7 7 burns 
+: 784 3 6 from 
+: 788 3 4 the 
+: 792 3 2 touch 
+: 796 3 2 of 
+: 800 3 4 the 
+: 804 13 6 rea
+: 818 18 4 per 
+- 838
+: 848 7 7 A
+: 856 11 6 ll 
+: 868 11 4 things 
+: 880 7 2 must 
+: 888 28 -1 pass 
+- 918
+: 960 7 11 One 
+: 968 7 11 love 
+: 976 3 9 is 
+: 980 3 7 a 
+: 984 3 6 crook
+: 988 7 7 ed 
+: 996 16 9 lie 
+- 1014
+: 1024 7 7 The 
+: 1032 7 7 world 
+: 1040 3 6 lies 
+: 1044 3 4 in 
+: 1048 3 2 the 
+: 1052 3 2 hands 
+: 1056 3 4 of 
+: 1060 11 6 e
+: 1072 20 4 vil 
+- 1094
+: 1104 7 7 We 
+: 1112 11 6 pray 
+: 1124 11 4 it 
+: 1136 7 4 would 
+: 1144 28 4 last 
+- 1174
+: 1272 12 7 Life 
+: 1288 44 7 Burns! 
+- 1334
+: 1408 7 7 We 
+: 1416 7 6 have 
+: 1424 7 4 no 
+: 1432 7 2 sym
+: 1440 3 4 pa
+: 1444 7 6 thy 
+: 1452 7 4 for 
+: 1460 3 2 the 
+: 1464 30 4 lost 
+: 1496 12 -1 souls 
+- 1510
+: 1520 7 -1 We’ve 
+: 1528 11 0 cho
+: 1540 11 2 sen 
+: 1552 7 4 the 
+: 1560 11 6 path 
+: 1572 11 4 of 
+: 1584 7 2 dis
+: 1592 28 -1 grace 
+- 1622
+: 1664 7 7 We 
+: 1672 7 6 give 
+: 1680 7 4 this 
+: 1688 11 2 life 
+: 1700 7 6 to 
+: 1708 11 2 our 
+: 1720 20 4 ch
+: 1744 7 -1 il
+: 1752 12 -1 dren 
+- 1766
+: 1776 7 -1 And 
+: 1784 11 0 teach 
+: 1796 11 7 them 
+: 1808 7 6 to 
+: 1816 11 2 hate 
+: 1828 11 6 this 
+: 1840 60 4 place 
+- 1902
+: 1980 3 11 A 
+: 1984 7 11 man 
+: 1992 7 11 dies 
+: 2000 3 9 like 
+: 2004 3 7 a 
+: 2008 3 6 but
+: 2012 7 7 ter
+: 2020 16 9 fly 
+- 2038
+: 2048 7 7 Life 
+: 2056 7 7 burns 
+: 2064 3 6 from 
+: 2068 3 4 the 
+: 2072 3 2 touch 
+: 2076 3 2 of 
+: 2080 3 4 the 
+: 2084 13 6 rea
+: 2098 18 4 per 
+- 2118
+: 2132 5 7 A
+: 2138 9 6 ll 
+: 2148 11 4 things 
+: 2160 7 2 must 
+: 2168 28 -1 pass 
+- 2198
+: 2240 7 11 One 
+: 2248 7 11 love 
+: 2256 3 9 is 
+: 2260 3 7 a 
+: 2264 3 6 crook
+: 2268 7 7 ed 
+: 2276 16 9 lie 
+- 2294
+: 2304 7 7 The 
+: 2312 7 7 world 
+: 2320 3 6 lies 
+: 2324 3 4 in 
+: 2328 3 2 the 
+: 2332 3 2 hands 
+: 2336 3 4 of 
+: 2340 13 6 e
+: 2354 18 4 vil 
+- 2374
+: 2384 7 7 We 
+: 2392 11 6 pray 
+: 2404 11 4 it 
+: 2416 7 4 would 
+: 2424 60 4 last 
+- 2486
+F 2680 7 -8 A 
+F 2688 7 -8 man 
+F 2696 7 -8 dies 
+F 2704 7 -8 like 
+F 2712 3 -8 a 
+F 2716 3 -8 but
+F 2720 7 -8 ter
+F 2728 12 -8 fly 
+- 2742
+F 2752 7 -8 Life 
+F 2760 7 -8 burns 
+F 2768 7 -8 from 
+F 2776 3 -8 the 
+F 2780 3 -8 touch 
+F 2784 3 -8 of 
+F 2788 3 -8 the 
+F 2792 7 -8 rea
+F 2800 8 -8 per 
+- 2810
+F 2816 7 -8 One 
+F 2824 7 -8 love 
+F 2832 7 -8 is 
+F 2840 3 -8 a 
+F 2844 3 -8 crook
+F 2848 7 -8 ed 
+F 2856 12 -8 lie 
+- 2870
+F 2872 7 -8 The 
+F 2880 7 -8 world 
+F 2888 7 -8 lies 
+F 2896 7 -8 in 
+F 2904 7 -8 the 
+F 2912 3 -8 hands 
+F 2916 3 -8 of 
+F 2920 7 -8 e
+F 2928 7 -8 vil 
+- 2936
+F 2936 7 4 The 
+F 2944 7 4 world 
+F 2952 7 4 lies 
+F 2960 7 4 in 
+F 2968 7 4 the 
+F 2976 3 4 hands 
+F 2980 3 4 of 
+F 2984 7 4 e
+F 2992 7 4 vil 
+- 3000
+F 3000 7 4 The 
+F 3008 7 4 world 
+F 3016 7 4 lies 
+F 3024 7 4 in 
+F 3032 7 4 the 
+F 3040 3 4 hands 
+F 3044 3 4 of 
+F 3048 7 4 e
+F 3056 7 4 vil 
+- 3064
+F 3064 7 16 The 
+F 3072 7 16 world 
+F 3080 7 16 lies 
+F 3088 7 16 in 
+F 3096 7 16 the 
+F 3104 3 16 hands 
+F 3108 3 16 of 
+F 3112 7 16 e
+F 3120 7 16 vil 
+- 3128
+F 3128 7 16 The 
+F 3136 7 16 world 
+F 3144 7 16 lies 
+F 3152 7 16 in 
+F 3160 7 16 the 
+F 3168 3 16 hands 
+F 3172 3 16 of 
+F 3176 7 16 e
+F 3184 8 16 vil 
+- 3194
+: 3196 3 11 A 
+: 3200 7 11 man 
+: 3208 7 11 dies 
+: 3216 3 9 like 
+: 3220 3 7 a 
+: 3224 3 6 but
+: 3228 7 7 ter
+: 3236 16 9 fly 
+- 3254
+: 3264 7 7 Life 
+: 3272 7 7 burns 
+: 3280 3 6 from 
+: 3284 3 4 the 
+: 3288 3 2 touch 
+: 3292 3 2 of 
+: 3296 3 4 the 
+: 3300 11 6 rea
+: 3312 20 4 per 
+- 3334
+: 3348 3 7 A
+: 3352 11 6 ll 
+: 3364 11 4 things 
+: 3376 7 6 must 
+: 3384 28 7 pa
+: 3416 28 6 ss 
+- 3446
+: 3458 7 11 One 
+: 3466 7 11 love 
+: 3474 3 9 is 
+: 3478 3 7 a 
+: 3482 3 6 crook
+: 3486 7 7 ed 
+: 3494 16 9 lie 
+- 3512
+: 3518 3 7 The 
+: 3522 7 7 world 
+: 3530 7 7 lies 
+: 3538 3 6 in 
+: 3542 3 4 the 
+: 3546 7 2 hands 
+: 3554 3 4 of 
+: 3558 11 6 e
+: 3570 20 4 vil 
+- 3592
+: 3596 8 7 We 
+: 3610 8 11 pray 
+: 3620 7 4 it 
+: 3628 13 4 would 
+: 3642 28 4 last 
+- 3672
+: 3774 3 11 A 
+: 3778 7 11 man 
+: 3786 7 11 dies 
+: 3794 3 11 like 
+: 3798 3 11 a 
+: 3802 3 11 but
+: 3806 7 9 ter
+: 3814 16 9 fly 
+- 3832
+: 3842 7 7 Life 
+: 3850 7 7 burns 
+: 3858 3 7 from 
+: 3862 3 7 the 
+: 3866 3 6 touch 
+: 3870 3 6 of 
+: 3874 3 6 the 
+: 3878 11 7 rea
+: 3890 5 6 per
+: 3896 14 4 ~ 
+- 3912
+: 3922 7 7 Al
+: 3930 11 6 l 
+: 3942 11 11 things 
+: 3954 7 9 must 
+: 3962 7 9 pa
+: 3970 21 7 ss
+: 3992 18 6 ~ 
+- 4012
+: 4034 7 11 One 
+: 4042 7 11 love 
+: 4050 3 9 is 
+: 4054 3 7 a 
+: 4058 3 6 crook
+: 4062 7 7 ed 
+: 4070 16 9 lie 
+- 4088
+: 4094 3 7 The 
+: 4098 7 7 world 
+: 4106 7 7 lies 
+: 4114 3 6 in 
+: 4118 3 4 the 
+: 4122 7 2 hands 
+: 4130 3 4 of 
+: 4134 11 6 e
+: 4146 20 4 vil 
+- 4168
+: 4178 7 7 We 
+: 4186 11 6 pray 
+: 4198 9 4 it 
+: 4208 7 4 would 
+: 4216 28 4 last 
+- 4246
+: 4280 12 7 Life 
+: 4296 47 7 burns 
+- 4344
+: 4344 12 7 Life 
+: 4360 47 7 burns 
+- 4408
+: 4408 12 7 Life 
+: 4424 48 7 burns 
+E

@@ -1,0 +1,209 @@
+#ARTIST:Boy George
+#TITLE:The Crying Game
+#MP3:Boy George - The Crying Game.mp3
+#CREATOR:Gollum
+#GENRE:Pop
+#YEAR:1992
+#LANGUAGE:English
+#BPM:240
+#GAP:24410
+#VIDEO:v=-EPGhjxm0G0,co=https://lh3.googleusercontent.com/-RVIvXKOVHTE/TXuLNox1HbI/AAAAAAAAAXM/L9WWn4WMcc4/s1600/boygeorge2.jpg,bg=boy-george-531f771c90849.jpg
+: 0 7 11 I 
+: 9 7 11 know 
+: 18 4 9 all 
+: 24 13 9 there 
+: 39 2 12 is 
+: 43 6 12 to 
+: 52 4 11 know 
+- 58
+: 62 2 11 A
+: 66 4 11 bout 
+: 72 2 11 the 
+: 77 3 9 cry
+: 81 6 7 ing 
+: 91 6 -1 game 
+- 99
+: 163 7 2 I’ve 
+: 173 3 4 had 
+: 178 2 6 my
+: 181 3 4 ~ 
+: 187 8 4 share 
+- 197
+: 220 3 6 Of 
+: 225 2 7 the 
+: 230 4 18 cry
+: 235 6 16 ing 
+: 244 9 11 game 
+- 255
+: 326 4 16 First 
+: 332 5 17 there 
+: 338 5 16 are 
+: 345 3 14 kis
+: 350 25 16 ses 
+- 377
+: 402 5 16 Then 
+: 409 5 17 there 
+: 415 6 19 are 
+: 424 25 16 sighs 
+- 451
+: 460 5 17 And 
+: 467 5 16 then 
+: 474 3 14 be
+: 479 7 12 fore 
+- 488
+: 494 2 14 You 
+: 499 6 15 know 
+: 507 3 14 where 
+: 511 4 12 you 
+: 517 8 10 are 
+- 527
+: 532 2 12 You’re 
+: 537 6 14 say
+: 544 4 12 ing 
+: 551 3 10 good
+: 556 3 6 bye
+: 560 7 9 ~ 
+- 569
+: 652 7 11 One 
+: 661 7 11 day 
+: 671 4 9 soon, 
+: 676 3 9 I’m 
+: 680 4 9 gon
+: 685 3 9 na 
+: 690 5 12 tell 
+: 696 6 12 the 
+: 705 6 11 moon 
+- 713
+: 715 3 11 A
+: 719 4 11 bout 
+: 725 2 11 the 
+: 729 3 9 cry
+: 733 7 7 ing 
+: 743 8 -1 game 
+- 753
+: 893 5 -1 And 
+: 900 4 0 if 
+: 906 7 2 he 
+: 916 16 0 knows 
+- 934
+: 950 3 6 May
+: 955 2 7 be 
+: 959 5 18 he’ll 
+: 965 6 16 ex
+: 974 8 11 plain 
+- 984
+: 1055 6 16 Why 
+: 1063 5 17 there 
+: 1069 5 16 are 
+: 1076 5 14 heart
+: 1082 12 16 aches? 
+- 1096
+: 1132 6 16 Why 
+: 1139 5 17 there 
+* 1145 6 19 are 
+: 1156 11 16 tears? 
+- 1169
+: 1190 4 17 And 
+: 1196 5 16 what 
+: 1204 3 14 to 
+: 1209 5 12 do 
+- 1216
+: 1223 2 14 To 
+: 1227 6 15 stop 
+: 1236 3 14 feel
+: 1240 5 12 ing 
+: 1247 5 10 blue 
+- 1254
+: 1262 3 12 When 
+: 1266 6 14 love 
+: 1274 4 12 dis
+: 1280 3 10 ap
+: 1286 4 6 pears
+: 1291 4 9 ~ 
+- 1297
+: 1670 4 16 First 
+: 1676 5 17 there 
+: 1682 5 16 are 
+* 1689 4 14 kis
+* 1694 13 16 ses 
+- 1709
+: 1747 4 16 Then 
+: 1753 4 17 there 
+: 1758 7 19 are 
+: 1767 17 16 sighs 
+- 1786
+: 1804 5 17 And 
+: 1811 5 16 then 
+* 1818 3 14 be
+* 1823 6 12 fore 
+- 1831
+: 1838 2 14 You 
+: 1843 5 15 know 
+: 1850 3 14 where 
+: 1855 4 12 you 
+: 1862 4 10 are 
+- 1868
+: 1875 3 12 You’re 
+* 1880 6 14 say
+* 1887 4 12 ing 
+: 1895 2 10 good
+: 1899 5 6 bye
+: 1905 7 9 ~ 
+- 1914
+: 1958 4 11 Don’t 
+: 1964 4 11 want 
+: 1970 4 11 no 
+* 1977 3 11 more
+* 1981 1 8 ~
+* 1983 5 6 ~ 
+- 1990
+: 2024 4 11 Of 
+: 2030 2 11 the 
+: 2035 4 10 cry
+: 2040 5 10 ing 
+: 2049 2 10 game
+: 2052 2 8 ~
+: 2055 4 6 ~ 
+- 2061
+: 2111 5 9 Don’t 
+: 2117 5 9 want 
+: 2123 4 9 no 
+: 2129 6 9 more 
+- 2137
+: 2178 3 8 Of 
+: 2183 3 9 the 
+: 2188 6 4 cry
+: 2195 4 4 ing 
+: 2203 8 4 game 
+- 2213
+: 2264 6 11 Don’t 
+: 2272 3 11 want 
+: 2277 5 11 no 
+: 2284 2 11 more
+: 2287 2 8 ~
+: 2290 3 6 ~ 
+- 2295
+: 2331 4 11 Of 
+: 2336 3 11 the 
+* 2342 4 10 cry
+* 2347 7 10 ing 
+* 2356 3 10 game
+* 2360 2 8 ~
+* 2363 3 6 ~ 
+- 2368
+: 2418 5 9 Don’t 
+: 2425 4 9 want 
+: 2431 5 9 no 
+: 2438 4 9 more 
+- 2444
+: 2485 3 8 Of 
+: 2490 2 9 the 
+: 2496 4 4 cry
+: 2501 4 4 ing 
+: 2510 8 4 game 
+- 2520
+: 2707 11 18 Oh
+: 2719 3 16 ~
+: 2723 2 15 ~
+: 2726 25 11 ~ 
+E

@@ -1,0 +1,143 @@
+#ARTIST:Slayer
+#TITLE:Mandatory Suicide
+#MP3:Slayer - Mandatory Suicide.mp3
+#CREATOR:znxineohp
+#YEAR:1988
+#LANGUAGE:English
+#BPM:312
+#GAP:55290
+#VIDEO:a=X51t0UDxjgY,co=south-of-heaven-58aec0970d08a.jpg,bg=slayer-5698f50ee9900.jpeg
+: 0 3 3 Mur
+: 4 3 3 der 
+: 8 7 3 at 
+: 16 3 3 your 
+: 20 7 6 ev
+: 28 9 6 ery 
+: 38 7 3 foot
+: 46 6 3 step 
+- 53
+: 54 3 1 A 
+: 58 7 3 child’s 
+: 66 7 3 toy 
+: 74 7 3 sud
+: 82 7 3 den 
+: 90 8 3 death 
+- 100
+: 134 5 3 Sni
+: 140 3 1 per 
+: 144 3 3 bla
+: 148 3 1 zes 
+: 152 5 3 you 
+: 158 5 3 through 
+: 164 9 6 your 
+: 174 10 5 knees 
+- 185
+: 186 3 3 Fall
+: 190 3 1 ing 
+: 194 7 3 down 
+: 202 3 3 can 
+: 206 3 1 you 
+: 210 9 3 feel 
+: 220 3 1 the 
+: 224 8 3 heat 
+- 234
+* 260 64 10 BURN! 
+- 326
+: 536 7 3 Am
+: 544 7 3 bushed 
+: 552 7 3 by 
+: 560 3 1 the 
+: 564 3 6 spray 
+: 568 7 6 of 
+: 576 8 5 lead 
+- 586
+: 588 3 3 Count 
+: 592 3 1 the 
+: 596 3 3 bul
+: 600 3 1 let 
+: 604 7 3 holes 
+: 612 5 3 in 
+: 618 7 3 your 
+: 626 10 3 head 
+- 638
+* 672 7 3 Off
+* 680 7 3 spring 
+* 688 9 1 sent 
+* 698 3 3 out 
+* 702 7 3 to 
+* 710 16 6 cry 
+- 728
+: 738 5 3 Liv
+: 744 3 1 ing 
+: 748 5 3 man
+: 754 3 1 da
+: 758 3 3 to
+: 762 3 1 ry 
+: 766 3 6 su
+: 770 7 -2 i
+: 778 10 -2 cide 
+- 790
+* 804 3 6 Su
+* 808 3 -2 i
+* 812 12 -2 cide 
+- 826
+: 854 3 6 Su
+: 858 3 -2 i
+: 862 12 -2 cide 
+- 876
+* 904 3 6 Su
+* 908 3 -2 i
+* 912 12 -2 cide 
+- 926
+: 954 3 6 Su
+: 958 3 -2 i
+: 962 12 -2 cide 
+- 976
+: 1942 7 3 Holes 
+: 1950 7 3 burn 
+: 1958 7 3 deep 
+: 1966 3 6 in 
+: 1970 11 6 your 
+: 1982 10 5 chest 
+- 1994
+: 1996 11 3 Raked 
+: 2008 5 3 by 
+: 2014 3 1 ma
+: 2018 5 3 chine 
+: 2024 7 3 gun 
+: 2032 8 3 fire 
+- 2042
+: 2076 5 3 Scream
+: 2082 3 1 ing 
+: 2086 9 3 skull 
+: 2096 7 1 sent 
+: 2104 3 3 out 
+: 2108 7 3 to 
+: 2116 14 6 die 
+- 2132
+: 2144 5 3 Liv
+: 2150 3 1 ing 
+: 2154 3 3 man
+: 2158 3 1 da
+: 2162 3 3 to
+: 2166 3 1 ry 
+: 2170 5 6 su
+: 2176 7 -2 i
+: 2184 10 -2 cide 
+- 2196
+* 2206 5 6 Su
+* 2212 3 -2 i
+* 2216 12 -2 cide 
+- 2230
+: 2256 3 6 Su
+: 2260 3 -2 i
+: 2264 12 -2 cide 
+- 2278
+* 2306 3 6 Su
+* 2310 3 -2 i
+* 2314 12 -2 cide 
+- 2328
+: 2356 3 6 Su
+: 2360 3 -2 i
+: 2364 12 -2 cide 
+E

@@ -1,0 +1,215 @@
+#ARTIST:Bobby Vinton
+#TITLE:Sealed With A Kiss
+#MP3:Bobby Vinton - Sealed With A Kiss.mp3
+#CREATOR:diver66
+#YEAR:1972
+#LANGUAGE:English
+#BPM:340
+#GAP:15000
+#VIDEO:a=ewCRBrX4asU,co=https://i.discogs.com/Tqy5AUNnSRA-sd6mpgLwpgMJMVw6hgLruvySb-DUopw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/MzgtMTE5ODk0MDUw/Ni5qcGVn.jpeg,bg=vinton-bobby-53e379ec86e33.jpg
+: 0 9 4 Though 
+: 10 5 4 we’ve 
+: 16 10 7 got
+: 27 4 7 ta 
+: 32 11 11 say 
+: 46 6 11 good
+* 54 44 9 bye 
+- 99
+: 100 10 7 For 
+: 111 3 6 the 
+* 116 9 7 sum
+* 128 36 4 mer 
+- 166
+: 180 18 12 Ba
+: 200 6 12 by, 
+: 207 4 9 I’ll 
+: 215 15 14 pro
+: 232 7 14 mise 
+: 240 6 9 you 
+* 248 16 11 this 
+- 266
+: 272 5 11 I’ll 
+: 278 9 16 send 
+: 288 6 14 you 
+: 295 7 12 all 
+: 303 6 11 my 
+* 311 41 12 love 
+- 354
+: 360 7 14 Ev
+: 368 6 9 ery 
+: 376 14 11 day 
+: 392 6 11 in 
+: 400 5 9 a 
+* 406 6 11 le
+* 414 8 7 t
+* 424 33 4 ter 
+- 459
+: 468 11 9 Sea
+: 480 7 9 led 
+: 488 6 7 with 
+: 495 7 6 a 
+: 503 12 4 kiss. 
+- 516
+: 516 11 4 Yes, 
+: 528 7 4 it’s 
+: 536 7 7 go
+: 544 6 7 nna 
+: 552 7 11 be 
+: 560 5 11 a 
+* 566 38 9 cold 
+- 606
+: 612 11 7 Lone
+: 624 3 6 ly 
+: 628 12 7 sum
+: 641 35 4 mer 
+- 678
+: 688 6 4 But 
+: 696 11 12 I’ll 
+: 710 9 12 fill 
+: 720 7 9 the 
+* 728 19 14 em
+* 748 7 9 pti
+* 756 20 11 ness 
+- 777
+: 778 8 11 I’ll 
+: 788 7 16 send 
+: 796 7 14 you 
+: 804 9 12 all 
+: 814 5 11 my 
+* 820 44 12 dreams 
+- 866
+: 868 8 14 Ev
+: 877 7 12 ery 
+: 885 14 11 day 
+: 900 7 9 in 
+: 908 7 11 a 
+: 916 13 7 let
+: 932 40 4 ter 
+- 974
+: 976 11 9 Sea
+: 988 7 9 led 
+: 996 7 7 with 
+: 1004 6 6 a 
+: 1011 49 4 kiss. 
+- 1062
+: 1068 3 4 I’ll 
+: 1072 18 13 see 
+: 1092 30 13 you 
+: 1124 6 11 in 
+: 1131 4 9 the 
+: 1136 15 11 sun
+: 1152 43 11 light 
+- 1196
+: 1196 5 4 I’ll 
+: 1202 12 13 hear 
+: 1215 16 13 your 
+: 1232 16 13 voice 
+: 1251 4 11 ev
+: 1256 7 9 ery
+: 1264 44 11 where 
+- 1310
+: 1316 7 4 I’ll 
+: 1324 25 13 run 
+: 1350 5 13 to 
+: 1356 15 13 ten
+: 1372 7 11 der
+: 1380 9 9 ly 
+: 1392 14 11 hold 
+: 1408 28 11 you 
+- 1438
+: 1444 7 4 But 
+: 1452 16 13 Ba
+: 1469 12 13 by, 
+: 1482 12 13 you 
+: 1496 10 11 won’t 
+: 1508 5 13 be 
+: 1514 12 15 there. 
+- 1528
+: 1530 7 16 I 
+: 1538 8 16 don’t 
+: 1547 7 16 want 
+: 1555 3 11 to 
+: 1559 12 9 say 
+* 1572 7 7 good
+* 1580 45 9 bye 
+- 1626
+: 1626 8 7 For 
+: 1635 3 6 the 
+: 1639 12 7 sum
+: 1657 35 4 mer 
+- 1694
+: 1704 24 12 Knowing 
+: 1730 5 9 the 
+* 1736 23 14 love 
+: 1760 7 9 from 
+: 1768 16 11 this 
+- 1785
+: 1786 11 11 So 
+: 1798 8 16 let 
+: 1807 7 14 us 
+: 1815 7 12 make 
+: 1823 7 11 a 
+* 1832 18 12 pledge 
+- 1852
+: 1854 6 9 To 
+: 1861 14 14 meet 
+: 1877 4 14 in 
+: 1882 8 12 Sep
+: 1891 11 11 tem
+: 1903 59 16 ber 
+- 1964
+: 1978 3 4 And 
+: 1982 11 9 seal 
+: 1994 6 9 it 
+: 2001 8 7 with 
+: 2010 4 6 a 
+* 2016 54 4 kiss. 
+- 2072
+: 2588 11 17 Yes, 
+: 2601 6 17 it’s 
+: 2609 6 17 go
+: 2616 6 12 nna 
+: 2623 6 10 be 
+: 2630 6 8 a 
+: 2638 40 10 cold 
+- 2680
+: 2686 6 8 Lone
+: 2693 3 7 ly 
+: 2698 11 8 sum
+: 2710 43 5 mer 
+- 2754
+: 2754 6 5 But 
+: 2762 15 13 I’ll 
+: 2778 8 13 fill 
+: 2787 6 10 the 
+* 2794 22 15 emp
+* 2817 8 10 ti
+* 2826 16 12 ness 
+- 2844
+: 2848 5 12 I’ll 
+: 2854 9 17 send 
+: 2864 7 15 you 
+: 2872 6 13 all 
+: 2879 6 12 my 
+* 2887 43 13 love 
+- 2932
+: 2934 8 15 Ev
+: 2943 7 13 ery
+: 2951 14 12 day 
+: 2966 6 12 in 
+: 2973 7 10 a 
+: 2981 20 12 let
+: 3002 36 17 ter 
+- 3040
+: 3042 10 10 Seal
+: 3053 4 10 ed 
+: 3058 7 8 with 
+: 3067 6 7 a 
+* 3074 60 5 kiss... 
+- 3136
+: 3166 12 10 Seal
+: 3179 4 10 ed 
+: 3184 6 8 with 
+: 3191 4 7 a 
+* 3198 66 5 kiss... 
+E

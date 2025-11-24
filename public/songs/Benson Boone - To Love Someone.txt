@@ -1,0 +1,307 @@
+#ARTIST:Benson Boone
+#TITLE:To Love Someone
+#MP3:Benson Boone - To Love Someone.mp3
+#CREATOR:UltraSinger
+#COVER:Benson Boone - To Love Someone [CO].jpg
+#BACKGROUND:Benson Boone - To Love Someone [BG].jpg
+#YEAR:2023
+#LANGUAGE:English
+#BPM:378.14
+#GAP:1780
+#VIDEO:v=HlI4icpg9uE,co=to-love-someone-67d9a4dad8c27.jpg,bg=boone-benson-6191b62c7021d.jpg
+: 0 9 9 Brand 
+: 10 9 7 new 
+: 21 15 9 apart
+: 37 16 5 ment 
+- 61
+: 64 4 0 We 
+: 71 12 7 sat 
+: 88 3 7 on 
+: 93 3 5 the 
+: 99 14 4 floor 
+- 123
+: 140 3 0 A 
+: 148 21 4 blow-up 
+: 174 12 4 mat
+: 187 13 3 tress 
+: 204 4 0 and 
+: 210 7 0 some 
+: 219 25 10 plastic 
+: 248 20 9 forks 
+- 278
+: 287 1 25 Our 
+: 292 13 7 clothes 
+: 310 3 7 on 
+: 315 3 5 the 
+: 320 33 9 counter 
+- 363
+: 367 12 7 Keys 
+: 381 5 7 in 
+: 388 4 5 the 
+: 395 16 4 door 
+- 421
+: 433 7 -3 You’re 
+: 445 5 3 all 
+: 451 11 4 that 
+: 463 1 4 I 
+: 466 23 4 want 
+: 491 4 0 you’ve 
+: 498 14 0 never 
+: 515 15 10 been 
+: 533 18 9 so 
+: 554 18 2 sure 
+- 582
+: 590 16 12 Chances 
+- 616
+: 620 4 14 Are 
+- 634
+: 663 8 12 The 
+: 673 4 14 fu
+: 678 5 14 ture 
+: 684 3 14 will 
+: 689 26 16 take 
+: 716 7 12 us 
+: 727 27 16 places 
+: 755 5 12 that 
+: 764 17 16 we 
+: 783 11 16 can’t 
+: 796 19 17 ima
+: 816 19 16 gine 
+: 838 15 14 yet 
+- 863
+: 879 3 11 And 
+: 884 15 12 chances 
+- 907
+: 910 10 14 Are 
+- 930
+: 958 12 11 Yours 
+: 974 4 14 is 
+: 979 4 17 the 
+: 986 26 16 face 
+: 1018 3 16 I 
+: 1023 9 16 could 
+: 1033 15 16 never 
+: 1050 19 17 for
+: 1070 20 19 get 
+- 1115
+: 1171 6 17 But 
+: 1180 12 21 sud
+: 1193 13 19 denly 
+: 1208 12 33 no
+: 1221 13 17 thing 
+: 1239 4 17 is 
+: 1245 6 17 the 
+: 1253 7 21 way 
+: 1261 12 19 that 
+: 1275 3 17 it 
+: 1279 15 16 was 
+- 1304
+: 1326 1 11 Is 
+: 1329 7 1 this 
+: 1338 10 16 what 
+: 1350 3 16 it 
+: 1356 15 16 feels 
+: 1375 15 12 like 
+: 1391 8 12 to 
+: 1401 13 22 love 
+: 1415 35 21 someone? 
+- 1460
+: 1467 7 17 Don’t 
+: 1475 9 21 know 
+: 1485 7 19 what 
+: 1494 6 17 you 
+: 1503 23 21 had 
+- 1536
+: 1543 9 16 Un
+: 1553 10 21 til 
+: 1565 9 19 it’s 
+: 1577 16 16 gone 
+- 1603
+: 1616 4 11 Is 
+: 1622 8 15 this 
+: 1632 11 19 what 
+: 1645 3 19 it 
+: 1650 15 19 feels 
+: 1669 17 12 like 
+: 1688 7 12 to 
+: 1697 18 22 love 
+: 1716 37 14 someone? 
+- 1763
+: 1770 18 21 Love 
+: 1790 37 14 someone 
+- 1837
+: 1845 18 22 Love 
+: 1864 52 16 someone 
+- 1966
+: 2070 13 7 Empty 
+: 2084 17 9 apart
+: 2102 18 5 ment 
+- 2128
+: 2131 3 0 I’m 
+: 2137 13 9 sat 
+: 2154 3 7 on 
+: 2158 3 6 the 
+: 2164 14 4 floor 
+: 2179 1 4 A 
+- 2190
+: 2212 24 4 Blow-up 
+: 2240 12 4 mat
+: 2253 13 4 tress 
+: 2270 8 0 and 
+: 2279 2 0 a 
+: 2284 26 10 plastic 
+: 2313 12 9 fork 
+- 2335
+: 2359 8 9 Figh
+: 2368 9 7 ting 
+: 2378 2 8 the 
+- 2386
+: 2388 16 9 Flash
+: 2405 17 5 backs 
+: 2425 5 4 that 
+: 2433 10 9 creep 
+: 2444 9 12 through 
+: 2454 3 9 the 
+: 2461 15 9 door 
+- 2486
+: 2500 3 17 I 
+: 2505 15 4 stare 
+: 2522 3 4 at 
+: 2528 4 4 the 
+: 2535 14 4 cei
+: 2550 15 0 ling 
+: 2569 5 0 and 
+: 2575 3 0 I 
+: 2580 14 7 try 
+: 2596 4 10 to 
+: 2604 11 2 ig
+: 2616 12 2 nore 
+- 2638
+: 2654 17 12 Chances 
+- 2680
+: 2683 4 14 Are 
+- 2697
+: 2730 9 14 We’re 
+: 2740 12 14 gonna 
+: 2755 18 16 tell 
+- 2780
+: 2783 27 12 Ourselves 
+: 2813 8 12 this 
+: 2826 3 12 is 
+: 2832 27 16 how 
+: 2861 4 16 it’s 
+: 2866 13 17 sup
+: 2880 14 17 posed 
+: 2895 21 14 to 
+: 2917 1 13 be 
+- 2928
+: 2947 3 8 And 
+: 2951 16 12 chances 
+- 2976
+: 2979 8 14 Are 
+- 2997
+: 3015 6 9 This 
+- 3027
+: 3030 12 14 Isn’t 
+: 3043 6 17 the 
+: 3050 19 16 last 
+: 3070 10 12 time 
+: 3083 4 12 I’ll 
+: 3089 16 16 dance 
+: 3107 7 16 with 
+: 3116 7 16 your 
+: 3126 27 17 memory 
+- 3178
+: 3238 4 16 And 
+: 3244 12 21 sud
+: 3257 13 19 denly 
+: 3273 13 21 no
+: 3287 14 17 thing 
+: 3303 5 17 is 
+: 3310 7 17 the 
+: 3319 9 21 way 
+: 3329 11 19 that 
+: 3342 3 17 it 
+: 3346 21 16 was 
+- 3377
+: 3388 4 9 Is 
+: 3393 8 13 this 
+: 3403 10 16 what 
+: 3415 3 14 it 
+: 3421 15 16 feels 
+: 3440 16 12 like 
+: 3457 8 12 to 
+: 3467 12 22 love 
+: 3480 36 21 someone? 
+- 3528
+: 3532 8 17 Don’t 
+: 3541 9 21 know 
+: 3551 8 19 what 
+: 3560 7 17 you 
+: 3568 25 21 had 
+- 3605
+: 3609 11 17 Un
+: 3621 12 19 til 
+: 3636 5 17 it’s 
+: 3642 19 16 gone 
+- 3671
+: 3681 4 10 Is 
+: 3688 8 19 this 
+: 3698 11 19 what 
+: 3712 3 19 it 
+: 3717 15 19 feels 
+: 3735 17 12 like 
+: 3753 8 12 to 
+: 3763 17 10 love 
+: 3781 23 14 someone? 
+- 3814
+: 3834 19 22 Love 
+: 3855 39 14 someone 
+- 3906
+: 3910 17 22 Love 
+: 3928 42 19 someone 
+: 3972 10 17 Maybe 
+: 3983 23 19 sweet 
+: 4009 10 17 maybe 
+: 4020 20 19 strange 
+- 4046
+: 4048 9 19 Maybe 
+: 4059 12 21 pain’s 
+: 4072 3 21 the 
+: 4077 12 19 price 
+: 4090 4 17 you 
+: 4095 15 14 pay 
+- 4118
+: 4121 8 14 To 
+: 4131 17 22 love 
+: 4149 37 14 someone 
+- 4192
+: 4195 8 14 To 
+: 4205 18 22 love 
+: 4224 162 22 someone 
+- 4396
+: 4420 2 3 And 
+: 4426 12 9 sud
+: 4439 12 7 denly 
+: 4455 12 9 no
+: 4468 13 9 thing 
+: 4486 4 5 is 
+: 4493 4 5 the 
+: 4500 9 9 way 
+: 4510 9 7 that 
+: 4520 1 5 it 
+: 4526 6 4 was 
+- 4557
+: 4583 1 22 Is 
+: 4585 7 1 this 
+: 4596 9 4 what 
+: 4607 3 4 it 
+: 4612 16 4 feels 
+- 4632
+: 4634 10 0 Like 
+- 4656
+: 4660 7 3 To 
+: 4668 3 4 love 
+- 4679
+: 4682 16 5 Someone? 
+E

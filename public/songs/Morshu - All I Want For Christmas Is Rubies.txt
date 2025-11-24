@@ -1,0 +1,306 @@
+#ARTIST:Morshu
+#TITLE:All I Want For Christmas Is Rubies
+#MP3:Morshu - All I Want For Christmas Is Rubies.mp3
+#CREATOR:thenail
+#COVER:Morshu - All I Want For Christmas Is Rubies [CO].jpg
+#BACKGROUND:Morshu - All I Want For Christmas Is Rubies [BG].jpg
+#YEAR:2021
+#LANGUAGE:English
+#BPM:344.85
+#GAP:3850
+#VIDEO:v=z_e17hGXk2Y,co=https://i1.sndcdn.com/artworks-gXQzMuS8XPpAzozg-i2RsLg-t500x500.jpg,tags=Christmas
+F 0 4 0 Lamp 
+F 6 6 0 oil, 
+F 17 5 0 rope, 
+F 34 7 0 bombs, 
+F 47 3 0 you 
+F 52 3 0 want 
+F 57 5 0 it? 
+- 72
+F 86 3 0 Mor
+F 90 6 0 shu, 
+F 102 3 0 can 
+F 107 2 0 you 
+F 110 2 0 tell 
+F 113 3 0 me 
+F 118 3 0 what 
+F 122 3 0 you 
+F 126 3 0 want 
+F 130 3 0 for 
+F 135 4 0 Christ
+F 140 6 0 mas? 
+- 156
+F 171 3 0 List
+F 175 4 0 en 
+F 185 5 0 Link 
+- 200
+: 204 3 7 You 
+: 210 5 11 know 
+: 218 5 14 what 
+: 226 2 18 I 
+: 231 4 19 want 
+: 239 5 18 for 
+: 248 6 16 Christ
+: 255 4 14 mas 
+- 265
+: 268 4 21 I’ll 
+: 275 4 19 give 
+: 282 4 19 you 
+: 289 3 18 this 
+: 296 5 19 tip 
+: 304 5 18 for 
+: 312 8 16 free
+: 321 5 14 ~ 
+- 331
+: 333 4 0 I 
+: 340 4 4 don’t 
+: 347 6 7 care 
+: 356 2 9 a
+: 360 4 11 bout 
+: 367 5 9 the 
+: 375 5 7 lamp 
+: 383 4 4 oil 
+- 389
+: 391 2 0 Or 
+: 396 4 3 rope 
+: 403 3 7 and 
+: 408 8 7 bombs, 
+: 422 2 9 I 
+: 426 5 10 sell 
+: 434 5 9 all 
+: 441 6 5 three
+: 448 4 3 ~ 
+- 457
+: 459 5 9 E
+: 466 5 7 ver 
+: 474 7 7 since 
+: 483 3 6 you 
+: 489 6 7 came 
+: 496 6 6 here 
+: 504 5 4 sto
+: 511 6 2 cking 
+- 521
+: 523 5 7 Just 
+: 531 2 11 one 
+: 535 7 14 i
+: 544 5 18 tem 
+: 552 4 19 earns 
+: 559 5 18 my 
+: 567 7 16 praise
+: 575 5 14 ~ 
+- 592
+: 596 2 11 No
+: 600 3 11 thing 
+: 605 3 11 else 
+: 611 3 9 will 
+: 616 6 11 make 
+: 625 5 9 me 
+: 632 6 7 jol
+: 640 5 4 ly 
+- 649
+: 651 5 0 Skip 
+: 658 3 3 the 
+: 663 5 7 one 
+: 670 6 9 horse 
+: 679 6 10 o
+: 687 5 9 pen 
+: 694 6 5 sleigh
+: 701 4 3 ~ 
+- 710
+: 712 3 7 ’Cause 
+: 717 5 7 I 
+: 724 6 9 just 
+: 732 6 6 want 
+: 740 4 7 those 
+: 746 5 4 gems 
+: 753 5 6 you 
+: 760 8 3 own 
+- 775
+: 778 4 7 More 
+: 785 6 9 than 
+: 793 6 6 you, 
+: 802 3 7 our
+: 806 2 4 ~ 
+: 810 3 4 past 
+: 815 6 6 has 
+: 823 7 3 shown 
+- 839
+: 842 5 2 Link 
+: 849 6 4 now 
+: 857 5 7 can’t 
+: 864 6 14 you 
+* 872 18 12 see? 
+- 900
+: 907 5 11 All 
+: 914 6 9 I 
+: 922 6 7 want 
+: 930 6 4 for 
+: 938 6 3 Christ
+: 946 8 9 mas 
+- 961
+: 964 2 11 Is 
+* 971 3 9 Ru
+* 975 36 7 bies 
+- 1056
+: 1113 4 11 All 
+: 1120 3 11 the 
+: 1126 6 12 time 
+: 1134 6 11 I’ve 
+: 1142 6 9 spent 
+: 1150 6 7 here 
+- 1158
+: 1160 3 6 Ex
+: 1164 4 4 chang
+: 1169 4 6 ing 
+: 1174 6 7 all 
+: 1182 5 9 this 
+: 1189 11 9 stuff
+: 1201 14 7 ~ 
+- 1225
+: 1242 3 9 You 
+: 1247 5 11 just 
+: 1255 8 16 keep 
+: 1266 3 14 buy
+: 1271 6 9 ing 
+: 1279 8 7 bombs 
+- 1289
+: 1291 5 11 I 
+: 1298 2 14 can’t 
+: 1302 6 9 sell 
+: 1310 7 7 en
+: 1319 2 6 ough
+: 1322 2 7 ~
+: 1325 1 6 ~
+: 1327 1 7 ~
+: 1329 1 6 ~
+: 1331 1 4 ~
+: 1333 4 -1 ~ 
+- 1347
+: 1365 3 4 And 
+: 1370 4 7 e
+: 1376 4 9 ven 
+: 1383 5 9 as 
+: 1390 6 9 I’m 
+: 1398 5 9 sing
+: 1405 10 7 ing 
+- 1425
+: 1429 2 4 I 
+: 1433 4 7 hear 
+: 1439 6 9 my 
+: 1447 6 16 door’s 
+: 1455 6 14 bells 
+: 1463 5 9 ring
+: 1470 7 7 ing 
+- 1479
+: 1481 5 11 Link 
+: 1489 3 11 won’t 
+: 1494 2 11 you 
+: 1498 6 11 bring 
+: 1506 1 11 me 
+- 1508
+: 1510 2 11 The 
+: 1513 3 11 gift 
+: 1518 3 11 I 
+: 1522 3 9 real
+: 1526 2 7 ly 
+: 1530 3 11 need 
+- 1535
+: 1537 3 11 Won’t 
+: 1541 2 11 you 
+: 1545 5 16 please 
+: 1552 3 14 bring 
+: 1557 2 11 my 
+: 1560 4 14 Ru
+: 1565 3 11 bies 
+: 1569 3 14 to 
+: 1575 5 16 me
+: 1581 7 14 ~
+: 1589 6 11 ~
+: 1596 2 9 ~? 
+- 1600
+: 1602 5 9 Oh 
+: 1609 5 11 I 
+: 1617 6 9 don’t 
+: 1625 6 7 ask 
+: 1633 2 6 for 
+: 1637 6 7 much 
+: 1645 7 6 for 
+: 1654 4 4 Christ
+: 1660 6 2 mas 
+- 1668
+: 1670 2 9 Most 
+: 1674 5 11 i
+: 1681 4 9 tems 
+: 1687 7 7 weigh 
+: 1696 3 6 me 
+: 1701 5 7 down 
+: 1708 5 6 like 
+: 1715 7 4 snow
+: 1723 3 2 ~ 
+- 1735
+: 1738 3 9 So 
+: 1744 3 11 I’m 
+: 1749 5 9 just 
+: 1755 3 11 gon
+: 1759 5 9 na 
+: 1766 5 11 keep 
+: 1774 5 16 on 
+: 1782 5 9 tra
+: 1789 5 7 ding 
+- 1796
+: 1798 8 11 Un
+: 1808 2 16 til 
+: 1812 7 9 my 
+: 1822 4 7 shop’s 
+: 1829 8 10 shelves 
+: 1838 6 9 are 
+: 1846 10 4 sold 
+- 1859
+: 1861 3 6 ’Cause 
+: 1867 4 7 I 
+: 1873 6 9 just 
+: 1881 6 6 want 
+: 1889 3 7 gems, 
+: 1894 5 4 that’s 
+: 1901 4 6 my 
+: 1908 12 3 price 
+- 1926
+: 1928 6 11 Heark
+: 1935 4 9 en 
+: 1942 7 9 me 
+: 1951 3 7 this 
+: 1957 5 4 Christ
+: 1964 6 6 mas 
+: 1972 11 3 night 
+- 1988
+: 1990 2 6 Al
+: 1993 3 4 low 
+: 1999 7 6 me 
+: 2008 4 7 this 
+: 2014 6 14 one 
+* 2022 8 14 gift
+* 2031 9 12 ~ 
+- 2042
+: 2044 2 6 Else 
+: 2048 2 7 come 
+: 2052 3 9 back 
+: 2057 5 11 when 
+: 2064 6 9 you’re 
+: 2072 6 7 a 
+: 2080 6 4 litt
+: 2088 6 3 le 
+* 2097 19 9 bit 
+- 2138
+: 2192 80 7 Ri
+: 2278 8 2 cher 
+- 2296
+: 2320 6 9 Ri
+: 2327 12 7 ~
+: 2340 2 3 ~
+: 2343 8 9 ~
+: 2352 46 7 ~
+: 2404 8 2 cher 
+- 2422
+F 2450 78 0 Ri
+F 2534 8 0 cher 
+E

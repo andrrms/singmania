@@ -1,0 +1,260 @@
+#ARTIST:Eels
+#TITLE:Friendly Ghost
+#MP3:Eels - Friendly Ghost.mp3
+#CREATOR:Madlock
+#YEAR:2001
+#LANGUAGE:English
+#BPM:200
+#GAP:22500
+#VIDEO:a=4dfO2Mzqbxo,co=souljacker-546f20baf415f.jpg,bg=eels-4fb75068f27ca.jpg
+: 0 1 7 If 
+: 2 1 7 you’re 
+: 4 5 7 scared 
+: 10 2 7 of 
+: 14 5 5 dying 
+: 20 4 5 you 
+: 26 1 5 bet
+: 28 4 5 ter 
+- 34
+: 46 3 4 Not 
+: 50 1 4 be 
+: 52 3 4 sca
+: 56 1 2 red 
+: 58 3 0 to 
+: 62 6 2 live 
+- 70
+: 94 2 7 I’ve 
+: 98 2 7 been 
+: 102 2 7 spen
+: 106 4 7 ding 
+: 112 4 5 all 
+: 118 3 5 my 
+: 122 6 5 days 
+- 130
+: 144 1 4 Gi
+: 146 2 4 ving 
+: 150 3 4 all 
+: 154 1 2 I 
+: 156 3 0 can 
+: 160 4 2 give 
+- 166
+: 188 3 5 Last 
+: 192 2 5 night 
+: 196 4 5 I 
+: 202 4 9 heard 
+: 208 4 7 some
+: 214 4 7 one 
+: 220 4 4 wal
+: 226 6 2 king 
+- 233
+: 234 4 5 Through 
+: 242 1 5 my 
+: 244 4 5 bed
+: 250 4 9 room 
+: 256 8 7 door 
+- 266
+: 284 2 5 What 
+: 288 2 5 they 
+: 292 8 5 want 
+- 302
+: 304 1 5 I’m 
+: 306 4 6 not 
+: 314 1 6 ex
+: 316 4 6 act
+: 322 4 6 ly 
+: 328 12 7 sure 
+- 342
+: 366 1 7 A 
+: 368 5 12 friend
+: 374 5 11 ly 
+: 380 10 7 ghost 
+- 392
+: 412 3 7 Is 
+: 416 3 4 all 
+: 420 5 6 I 
+: 426 8 7 need 
+- 436
+: 462 3 7 A 
+: 466 3 12 friend
+: 470 4 11 ly 
+: 476 12 7 ghost 
+- 490
+: 510 3 7 Is 
+: 514 3 4 all 
+: 518 5 6 I 
+: 524 6 7 need 
+- 531
+: 532 3 7 Wor
+: 536 1 7 king 
+: 538 4 7 time 
+: 546 1 7 on 
+: 548 1 7 a 
+: 550 3 7 bro
+: 554 3 5 ken 
+: 558 10 5 watch 
+- 570
+: 580 1 4 Coun
+: 582 2 4 tin’ 
+: 586 5 4 days 
+: 592 3 2 ’til 
+: 596 1 0 the 
+: 598 2 2 old 
+: 602 4 2 pawn 
+: 608 4 2 shop 
+- 614
+: 628 3 7 Sells 
+: 632 1 7 me 
+: 634 4 7 back 
+: 640 3 7 my 
+: 644 4 7 sa
+: 650 4 5 xo
+: 656 8 5 phone 
+- 666
+: 674 1 4 Then 
+: 676 3 4 ev
+: 680 1 4 ery
+: 682 7 4 one’s 
+: 690 1 2 gon
+: 692 3 0 na 
+: 696 1 2 leave 
+: 698 3 2 me 
+: 702 8 2 alone 
+- 712
+: 720 1 5 Two 
+: 722 7 5 times 
+: 730 3 5 I 
+: 734 6 9 thought 
+: 742 5 7 I 
+: 748 3 7 heard 
+: 752 5 4 some
+: 758 6 2 one 
+- 766
+: 768 4 5 Kno
+: 774 3 5 cking 
+: 778 4 5 on 
+: 784 3 9 the 
+: 788 8 7 glass 
+- 798
+: 814 1 2 I 
+: 816 2 5 hid 
+: 820 2 5 my 
+: 826 4 5 head 
+- 832
+: 838 1 5 And 
+: 840 4 6 prayed 
+: 846 2 6 that 
+: 850 2 6 it 
+: 856 4 6 would 
+: 862 10 7 pass 
+- 874
+: 898 2 7 A 
+: 902 5 12 friend
+: 908 5 11 ly 
+: 914 8 7 ghost 
+- 924
+: 948 1 7 Is 
+: 950 3 4 all 
+: 954 3 6 I 
+: 958 8 7 need 
+- 968
+: 996 1 7 A 
+: 998 5 12 friend
+: 1004 5 11 ly 
+: 1010 8 7 ghost 
+- 1020
+: 1044 3 7 Is 
+: 1048 3 4 all 
+: 1052 3 6 I 
+: 1056 6 7 need 
+- 1064
+: 1258 2 7 If 
+: 1262 1 7 you’re 
+: 1264 4 7 scared 
+: 1270 3 7 to 
+: 1274 4 5 die 
+: 1280 4 5 you 
+: 1286 1 5 bet
+: 1288 2 5 ter 
+- 1292
+: 1308 1 4 Not 
+: 1310 1 4 be 
+: 1312 3 4 sca
+: 1316 1 2 red 
+: 1318 3 0 to 
+: 1322 6 2 live 
+- 1330
+: 1356 1 7 I’ve 
+: 1358 2 7 been 
+: 1362 3 7 carry
+: 1366 4 7 ing 
+: 1372 4 5 ’round 
+: 1378 3 5 a 
+: 1382 14 5 grudge 
+- 1398
+: 1404 2 4 Think 
+: 1408 1 4 i 
+: 1410 2 4 bet
+: 1414 1 2 ter 
+: 1416 3 0 for
+: 1420 8 2 give 
+- 1430
+: 1448 3 5 Last 
+: 1452 2 5 night 
+: 1456 5 5 I 
+: 1462 4 9 heard 
+: 1468 4 7 foot
+: 1474 6 7 steps 
+: 1482 3 4 wal
+: 1486 6 2 king 
+- 1494
+: 1496 4 5 On 
+: 1502 1 5 the 
+: 1504 6 5 at
+: 1512 3 9 tic 
+: 1516 10 7 floor 
+- 1528
+: 1544 3 5 I got 
+: 1548 2 5 up 
+: 1552 4 5 and 
+: 1558 4 5 I 
+: 1568 4 6 op
+: 1574 2 6 ened 
+: 1578 2 6 up 
+: 1582 4 6 the 
+: 1590 12 7 door 
+- 1604
+: 1626 1 7 A 
+: 1628 5 12 friend
+: 1634 5 11 ly 
+: 1640 10 7 ghost 
+- 1652
+: 1674 3 7 Is 
+: 1678 3 4 all 
+: 1682 3 6 I 
+: 1686 8 7 need 
+- 1696
+: 1722 2 7 A 
+: 1726 5 12 friend
+: 1732 5 11 ly 
+: 1738 8 7 ghost 
+- 1748
+: 1770 3 7 Is 
+: 1774 3 4 all 
+: 1778 3 6 I 
+: 1782 8 7 need 
+- 1792
+: 1820 1 7 A 
+: 1822 5 12 friend
+: 1828 5 11 ly 
+: 1834 10 7 ghost 
+- 1846
+: 1868 3 7 Is 
+: 1872 3 4 all 
+: 1876 3 6 I 
+: 1880 12 7 need 
+- 1894
+: 1916 3 7 A 
+: 1920 5 12 friend
+: 1926 5 11 ly 
+: 1932 8 7 ghost 
+E

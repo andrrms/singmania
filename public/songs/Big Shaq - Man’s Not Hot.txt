@@ -1,0 +1,663 @@
+#ARTIST:Big Shaq
+#TITLE:Man’s Not Hot
+#MP3:Big Shaq - Man’s Not Hot.mp3
+#CREATOR:UltraSinger
+#COVER:Big Shaq - Man’s Not Hot [CO].jpg
+#BACKGROUND:Big Shaq - Man’s Not Hot [BG].jpg
+#GENRE:Electronica
+#YEAR:2017
+#LANGUAGE:English
+#BPM:374
+#GAP:18980
+#VIDEO:v=3M_5oYU-IsU,co=mans-not-hot-683c491917747.jpg,preview=150.28,medley=2206-3607
+F 0 5 9 Who’s 
+F 6 3 9 that? 
+- 58
+F 130 5 6 Asz
+F 137 4 6 nee... 
+- 165
+F 198 6 6 Yeah, 
+F 206 4 8 big 
+F 212 4 4 man 
+- 226
+F 254 2 11 Help 
+F 258 2 10 your 
+F 262 1 10 mum 
+F 264 2 9 with 
+F 268 1 10 the 
+F 270 4 12 shop
+F 276 4 5 ping? 
+- 290
+F 308 4 12 Nah 
+F 314 2 11 fam, 
+F 318 2 9 I’m 
+F 321 2 10 not 
+F 324 2 8 a
+F 327 5 8 bout 
+F 334 4 3 fam 
+- 348
+F 356 1 8 I’m 
+F 358 2 8 in 
+F 362 2 9 Mi
+F 365 3 9 a
+F 369 3 9 mi 
+F 374 4 0 bruv 
+- 388
+F 416 2 12 You 
+F 420 3 14 know 
+F 424 4 11 man’s 
+F 432 3 10 in
+F 436 3 9 ter
+F 440 3 10 na
+F 444 3 8 tional 
+F 448 4 2 now 
+F 454 4 1 fam 
+F 460 3 11 Check 
+F 464 2 8 the 
+F 468 1 9 sta
+F 470 2 9 tis
+F 476 6 4 tics 
+- 506
+F 538 5 8 Yeah 
+F 544 4 0 yeah 
+- 558
+F 584 3 -6 Al
+F 588 2 -4 right 
+- 600
+F 620 3 -4 Al
+F 624 2 -9 right 
+F 630 4 6 soon 
+F 636 2 -4 come 
+- 645
+F 648 4 0 Yeah? 
+- 659
+F 662 4 7 Right 
+F 668 3 -2 you’re 
+F 672 4 5 done 
+F 678 2 -3 now 
+- 729
+R 806 8 11 Yo! 
+- 838
+R 888 4 12 Big 
+R 894 4 10 Shaq 
+R 906 2 0 the 
+R 910 2 5 one 
+R 914 2 5 and 
+R 917 2 6 on
+R 920 2 6 ly 
+- 926
+R 928 5 2 Man’s 
+R 935 2 8 not 
+R 939 4 8 hot 
+R 978 2 9 ne
+R 981 3 9 ver 
+R 986 2 8 hot 
+- 998
+R 1026 10 6 Skrrra! 
+R 1064 3 6 Skid
+R 1068 4 6 dy-
+R 1073 3 6 ka-
+R 1077 4 6 ka! 
+R 1116 8 6 Boom! 
+- 1134
+R 1152 2 11 2 
+R 1156 4 14 plus 
+R 1162 2 15 2 
+R 1168 2 9 is 
+R 1172 2 13 4 
+- 1181
+R 1184 3 10 Mi
+R 1188 4 10 nus 
+R 1196 2 12 1 
+R 1200 2 10 that’s 
+R 1206 2 12 3 
+R 1211 3 11 Quick 
+R 1216 6 9 maths 
+- 1232
+R 1240 1 13 Eve
+R 1242 1 13 ry
+R 1244 4 13 day 
+R 1250 4 11 man’s 
+R 1255 1 8 on 
+R 1257 1 2 the 
+R 1260 4 11 block 
+- 1274
+R 1288 4 9 Smoke 
+R 1294 6 11 trees 
+- 1310
+R 1328 3 14 See 
+R 1332 4 13 your 
+R 1338 4 11 girl 
+R 1344 1 8 in 
+R 1346 2 6 the 
+R 1350 4 13 park 
+- 1363
+R 1366 2 12 That 
+R 1370 4 11 girl 
+R 1376 2 9 is 
+R 1379 2 9 a 
+R 1383 3 13 uck
+R 1387 4 4 ers 
+- 1401
+R 1410 2 8 When 
+R 1413 1 8 the 
+R 1415 4 15 ting 
+R 1422 2 13 went 
+G 1426 2 14 quack 
+G 1432 2 14 quack 
+G 1438 2 17 quack 
+- 1450
+R 1460 2 14 You 
+R 1464 2 12 man 
+R 1468 2 7 were 
+R 1472 3 8 du
+R 1476 4 8 ~ckin’ 
+- 1490
+R 1505 3 12 Hold 
+R 1510 4 12 tight 
+R 1516 6 11 Asz
+R 1524 5 6 nee 
+R 1533 4 7 My 
+R 1539 2 5 bro
+R 1542 3 5 ther 
+- 1548
+R 1550 3 14 He’s 
+R 1554 2 11 got 
+R 1557 1 4 a 
+R 1560 5 14 pum
+R 1566 4 14 py 
+R 1578 2 3 big 
+R 1583 4 6 ting 
+- 1590
+R 1592 4 14 Hold 
+R 1598 4 11 tight 
+R 1604 4 13 my 
+R 1610 4 8 man 
+R 1622 4 12 (my 
+R 1628 4 8 guy) 
+- 1636
+R 1638 3 14 He’s 
+R 1642 2 11 got 
+R 1646 1 6 a 
+R 1649 4 14 fris
+R 1654 6 3 bee 
+- 1670
+R 1680 2 8 I 
+R 1684 3 16 trap 
+R 1688 2 15 trap 
+R 1694 2 14 trap 
+R 1700 1 11 on 
+R 1702 1 9 the 
+R 1704 6 14 phone 
+- 1722
+R 1726 2 11 Mo
+R 1729 2 11 vin’ 
+R 1733 2 11 that 
+R 1738 3 8 corn
+R 1743 5 7 flakes 
+- 1758
+R 1776 4 12 Rice 
+R 1782 5 13 kris
+R 1788 6 9 pies 
+- 1804
+R 1808 4 14 Hold 
+R 1814 3 14 tight 
+R 1818 1 9 my 
+R 1820 4 13 girl 
+R 1826 5 7 whit
+R 1832 4 5 ney 
+- 1846
+R 1860 1 14 On 
+R 1862 2 12 the 
+R 1866 3 11 road 
+R 1870 1 15 do
+R 1872 2 15 in’ 
+R 1876 4 13 ten 
+R 1882 6 13 toes 
+- 1898
+R 1908 2 9 Like 
+R 1911 2 3 my 
+R 1914 6 10 toes 
+R 1938 1 12 you 
+R 1940 4 11 man 
+R 1948 4 14 thought 
+R 1956 2 6 I 
+R 1959 7 12 froze 
+- 1975
+R 1978 1 8 I 
+R 1981 1 14 see 
+R 1983 1 9 a 
+R 1986 4 14 peng 
+R 1992 4 13 girl 
+R 1997 1 10 and 
+R 1999 1 6 I 
+R 2003 9 14 pose 
+- 2022
+R 2026 1 13 If 
+R 2028 2 14 she 
+R 2031 2 12 ain’t 
+R 2036 2 14 on 
+R 2039 2 9 it 
+R 2043 2 12 I 
+R 2048 6 13 ghost 
+- 2066
+R 2070 6 34 Ha 
+R 2080 3 13 look 
+R 2084 2 13 at 
+R 2088 2 9 your 
+R 2092 6 13 nose 
+R 2106 2 12 check 
+R 2112 1 8 your 
+R 2114 4 8 nose 
+R 2120 4 4 fam 
+- 2130
+R 2132 3 12 You 
+R 2136 4 14 dough
+R 2142 4 7 nut 
+- 2150
+R 2152 4 12 Nose 
+R 2158 4 10 long 
+R 2163 3 3 like 
+R 2169 4 13 gar
+R 2175 4 13 den 
+R 2181 5 -3 hose 
+- 2196
+R 2206 2 7 I 
+R 2210 1 9 tell 
+R 2212 2 7 her 
+R 2216 4 12 man’s 
+R 2221 2 10 not 
+R 2225 4 11 hot 
+- 2239
+R 2250 2 8 I 
+R 2254 1 11 tell 
+R 2256 2 8 her 
+R 2260 4 12 man’s 
+R 2265 2 12 not 
+R 2269 4 13 hot 
+- 2281
+R 2284 1 7 The 
+R 2286 4 13 girl 
+R 2292 4 11 told 
+R 2298 3 13 me 
+R 2302 4 15 take 
+R 2307 2 14 off 
+R 2311 1 11 your 
+R 2314 4 19 ja
+R 2319 3 19 cket 
+- 2326
+R 2328 1 8 I 
+R 2330 4 12 said 
+R 2336 6 8 babes 
+R 2347 4 17 man’s 
+R 2353 4 13 not 
+R 2359 3 11 hot 
+R 2363 2 6 (ne
+R 2366 2 6 ver 
+R 2370 3 6 hot) 
+- 2382
+R 2386 1 23 I 
+R 2388 1 11 tell 
+R 2390 2 8 her 
+R 2394 4 13 man’s 
+R 2399 3 12 not 
+R 2403 3 11 hot 
+R 2408 2 6 (ne
+R 2411 3 6 ver 
+R 2416 3 7 hot) 
+- 2425
+R 2428 1 20 I 
+R 2430 2 13 tell 
+R 2433 1 10 her 
+R 2436 4 8 man’s 
+R 2442 2 13 not 
+R 2448 3 13 hot 
+R 2452 1 11 (ne
+R 2454 2 11 ver 
+R 2458 1 6 hot) 
+- 2459
+R 2461 2 8 The 
+R 2464 4 13 girl 
+R 2470 4 11 told 
+R 2475 2 11 me 
+R 2480 3 16 take 
+R 2484 1 12 off 
+R 2488 2 10 your 
+R 2492 3 14 ja
+R 2496 4 14 cket 
+- 2504
+R 2506 1 8 I 
+R 2508 3 11 said 
+R 2514 6 6 babes 
+R 2524 3 8 man’s 
+R 2530 3 14 not 
+R 2536 1 4 hot 
+R 2541 2 9 (ne
+R 2544 2 9 ver 
+R 2549 2 17 hot) 
+- 2561
+R 2568 2 13 Hop 
+R 2572 2 11 out 
+R 2576 1 11 the 
+R 2580 3 13 four 
+R 2585 3 11 door 
+R 2590 2 10 with 
+R 2593 2 9 the 
+R 2597 2 12 4
+R 2602 1 12 4 
+- 2604
+R 2606 1 7 It 
+R 2608 2 7 was 
+R 2614 2 14 1 
+R 2618 2 12 2 
+R 2624 2 13 3 
+R 2630 2 4 and 
+R 2635 4 14 4 
+F 2641 4 14 (us 
+F 2647 4 4 man) 
+- 2656
+R 2658 1 15 Chil
+R 2660 2 13 lin’ 
+R 2663 1 12 in 
+R 2665 1 10 the 
+R 2668 6 10 cor
+R 2675 4 13 ri
+R 2680 6 13 dor 
+F 2690 6 2 Yo 
+R 2698 2 8 your 
+R 2702 4 14 dad 
+R 2707 2 9 is 
+G 2712 5 14 four
+G 2718 5 14 ty
+G 2724 5 14 four 
+- 2737
+R 2740 2 9 And 
+R 2743 1 10 he 
+R 2746 4 13 still 
+R 2752 2 12 call 
+R 2755 1 11 a 
+R 2758 2 12 man 
+R 2762 2 12 for 
+R 2765 1 6 a 
+R 2768 8 14 draw 
+R 2778 3 10 Look 
+R 2782 2 8 at 
+R 2785 2 -2 him 
+- 2796
+R 2800 2 14 Let 
+R 2803 1 10 him 
+R 2806 4 12 know 
+- 2820
+R 2840 2 11 When 
+R 2843 1 8 I 
+R 2846 4 14 see 
+R 2852 4 13 him 
+- 2866
+R 2878 3 13 I’m 
+R 2883 2 13 gon
+R 2886 2 13 na 
+R 2889 4 15 spin 
+R 2894 2 10 his 
+G 2900 8 17 jaw 
+F 2911 2 11 Fin
+F 2914 4 1 ished 
+- 2920
+R 2922 3 15 Take 
+R 2928 2 12 man’s 
+R 2934 4 16 twix 
+R 2940 2 11 by 
+R 2945 5 15 force 
+F 2956 4 11 Take 
+F 2962 2 12 it 
+- 2965
+R 2967 3 15 Send 
+R 2972 4 13 man’s 
+R 2978 4 4 shop 
+R 2984 3 9 by 
+R 2989 6 15 force 
+F 3000 4 14 Send 
+F 3006 1 3 it 
+- 3007
+R 3008 2 7 Your 
+R 3012 3 14 girl 
+R 3017 4 11 knows 
+R 3023 1 12 I’ve 
+R 3026 2 13 got 
+R 3030 2 8 the 
+G 3034 6 16 sauce 
+F 3045 4 26 Fle
+F 3051 3 26 xin’ 
+- 3060
+R 3062 2 13 No 
+G 3068 4 15 ket
+G 3073 3 15 chup 
+F 3090 4 15 none 
+- 3103
+R 3106 4 26 Just 
+R 3112 8 15 sauce 
+F 3134 6 17 sau
+F 3141 4 17 cy 
+- 3148
+G 3150 3 14 Raw 
+G 3156 8 15 sauce 
+- 3174
+R 3200 6 13 Yo 
+R 3223 4 13 boom 
+R 3245 2 25 ah 
+- 3257
+R 3274 2 10 The 
+R 3278 4 16 ting 
+R 3284 4 14 goes 
+G 3290 8 20 skrrrr
+G 3299 3 20 ah 
+- 3312
+R 3321 4 14 Pap 
+R 3327 2 14 pap 
+R 3333 2 16 ka-
+R 3338 2 16 ka-
+R 3344 2 16 ka 
+- 3356
+R 3372 1 18 Ski
+R 3374 2 18 di
+R 3378 2 18 ki 
+R 3383 2 18 pap 
+R 3388 4 14 pap 
+R 3400 4 17 (pap) 
+- 3404
+R 3406 1 12 And 
+R 3408 2 6 a 
+R 3412 2 20 pu-
+R 3416 3 17 pu 
+R 3422 7 17 brr 
+R 3433 5 17 boom 
+R 3445 7 16 (boom) 
+- 3462
+: 3472 4 20 Ski-
+: 3477 3 24 yah! 
+- 3490
+R 3494 4 17 Du-
+R 3500 3 17 du 
+R 3504 3 18 ku-
+R 3510 3 14 ku 
+R 3516 3 14 dun-
+R 3521 5 14 dun 
+R 3532 4 13 (dun) 
+R 3550 2 13 pum
+R 3555 2 15 -pum! 
+- 3567
+R 3596 2 4 You 
+R 3599 3 5 dun 
+R 3605 2 4 know 
+- 3656
+R 4026 1 7 I 
+R 4028 1 9 tell 
+R 4030 2 7 her 
+R 4034 4 11 man’s 
+R 4040 4 10 not 
+R 4045 3 11 hot 
+R 4050 4 11 (man’s 
+R 4055 3 11 not) 
+- 4067
+R 4070 1 8 I 
+R 4072 1 11 tell 
+R 4074 2 8 her 
+R 4078 4 12 man’s 
+R 4083 2 12 not 
+R 4088 3 13 hot 
+R 4094 2 13 (ne
+R 4097 1 13 ver 
+R 4100 2 13 hot) 
+- 4102
+R 4103 2 7 The 
+R 4106 2 13 girl 
+R 4111 3 11 told 
+R 4116 3 13 me 
+R 4122 3 15 take 
+R 4126 1 14 off 
+R 4129 2 11 your 
+R 4133 3 19 ja
+R 4137 4 19 cket 
+- 4144
+R 4146 2 8 I 
+R 4150 2 12 said 
+R 4155 4 8 babes 
+R 4166 3 17 man’s 
+R 4172 2 13 not 
+R 4176 3 11 hot 
+R 4182 1 6 (ne
+R 4185 1 6 ver 
+R 4188 2 6 hot) 
+- 4200
+R 4204 1 23 I 
+R 4206 1 11 tell 
+R 4208 2 8 her 
+R 4212 4 13 man’s 
+R 4218 3 12 not 
+R 4222 2 11 hot 
+- 4234
+R 4247 1 9 I 
+R 4250 1 13 tell 
+R 4252 1 10 her 
+R 4255 4 8 man’s 
+R 4260 2 13 not 
+R 4266 3 13 hot 
+R 4271 1 8 (ne
+R 4273 2 8 ver 
+R 4277 2 11 hot) 
+- 4279
+R 4281 1 8 The 
+R 4283 3 13 girl 
+R 4288 4 13 told 
+R 4294 2 12 me 
+R 4299 3 16 take 
+R 4303 1 13 off 
+R 4306 2 11 your 
+R 4310 3 14 ja
+R 4315 3 14 cket 
+- 4320
+R 4322 2 9 I 
+R 4326 4 11 said 
+R 4332 6 10 babes 
+G 4342 6 11 man’s 
+G 4349 3 15 not 
+G 4355 4 15 hot 
+- 4369
+R 4380 3 16 Man 
+R 4384 2 12 can 
+R 4387 2 12 ne
+R 4390 2 12 ver 
+R 4393 2 13 be 
+R 4398 4 11 hot 
+R 4404 2 4 (ne
+R 4407 2 4 ver 
+R 4410 2 8 hot) 
+- 4422
+R 4434 3 14 Per
+R 4439 2 12 spir
+R 4442 3 16 a
+R 4448 3 11 tion 
+R 4454 5 12 ting 
+R 4465 5 11 spray 
+R 4471 4 5 that 
+- 4484
+R 4488 3 16 Lynx 
+R 4495 2 14 ef
+R 4498 3 25 fect 
+R 4509 3 11 come 
+R 4513 1 10 on 
+- 4522
+R 4525 2 11 You 
+R 4528 3 13 didn’t 
+R 4532 2 13 hear 
+R 4535 1 9 me 
+R 4538 2 12 did 
+R 4542 2 3 you? 
+F 4554 6 3 Nah 
+- 4569
+R 4572 3 10 Use 
+R 4576 4 6 roll
+R 4582 4 6 -on 
+R 4599 3 5 Use 
+R 4604 2 1 that 
+- 4612
+R 4615 2 6 Or 
+R 4622 7 6 spray 
+R 4642 6 38 Shhh 
+- 4653
+R 4655 2 8 But 
+R 4658 1 6 ei
+R 4661 2 6 ther 
+R 4664 4 10 way 
+R 4676 4 10 A, 
+R 4688 6 11 B, 
+R 4699 2 15 C, 
+R 4709 2 1 D 
+F 4713 1 14 (al
+F 4715 1 6 pha
+F 4717 1 6 bet 
+F 4720 6 6 ting) 
+- 4736
+R 4740 1 10 The 
+R 4743 3 16 ting 
+R 4748 4 14 goes 
+G 4754 9 20 Skrrrr
+G 4764 3 20 ah 
+- 4777
+R 4786 4 14 Pap 
+R 4792 2 14 pap 
+R 4798 2 16 ka-
+R 4804 2 16 ka-
+R 4810 2 16 ka 
+- 4822
+R 4836 1 18 Skidiki
+R 4838 2 18 di
+R 4841 3 18 ki 
+R 4848 2 18 pap 
+R 4853 2 14 pap 
+R 4865 2 17 (pap) 
+- 4868
+R 4870 1 12 And 
+R 4872 2 6 a 
+R 4876 2 20 pu-
+R 4880 3 17 pu 
+R 4886 6 17 brr 
+R 4897 5 17 boom 
+R 4909 6 16 (boom) 
+- 4925
+: 4936 4 20 Ski-
+: 4941 3 24 yah! 
+- 4954
+R 4958 3 17 Du-
+R 4964 3 17 du 
+R 4969 3 18 ku-
+R 4974 3 14 ku 
+R 4980 3 14 dun-
+R 4985 5 14 dun 
+R 4996 4 13 (dun)
+R 5014 2 13 pum 
+R 5019 3 15 -pum! 
+- 5032
+R 5060 2 4 You 
+R 5064 3 5 dun 
+R 5068 4 4 know 
+E

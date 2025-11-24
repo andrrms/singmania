@@ -1,0 +1,376 @@
+#ARTIST:Poison
+#TITLE:Fallen Angel
+#MP3:Poison - Fallen Angel.mp3
+#CREATOR:Diddlmaus30mg
+#YEAR:1988
+#LANGUAGE:English
+#BPM:276
+#GAP:26000
+#VIDEO:a=qyYn0Z-GfEQ,co=https://i.discogs.com/CfPEYa4piObSxYuVjGJrH3cfYR2NJnjimUhhkmWbn94/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkz/MTMtMTI2OTIyODA2/MC5qcGVn.jpeg,bg=poison-520478cdb941c.jpg
+: 0 3 2 She 
+: 4 3 2 stepped 
+: 8 3 2 off 
+: 12 3 -1 the 
+: 16 12 2 bus 
+- 30
+: 36 3 2 Out 
+: 40 3 2 in
+: 44 3 2 to 
+: 48 3 2 the 
+: 52 3 2 ci
+: 56 7 2 ty 
+: 64 10 4 streets 
+- 76
+: 108 3 2 Just 
+: 112 3 2 a 
+: 116 7 2 small 
+: 124 7 2 town 
+: 132 7 2 girl 
+: 140 3 2 with 
+: 144 3 2 her 
+: 148 3 2 whole 
+: 152 6 2 life 
+- 160
+: 162 5 2 Packed 
+: 168 3 2 in 
+: 172 3 2 a 
+: 176 7 7 suit
+: 184 7 7 case 
+: 192 3 7 by 
+: 196 7 7 her 
+: 204 14 2 feet 
+- 220
+: 236 3 -1 But 
+: 240 3 2 some
+: 244 7 2 how 
+: 252 3 2 the 
+: 256 7 2 lights 
+: 264 3 2 didn’t 
+- 268
+: 268 3 2 Shine 
+: 272 7 2 as 
+: 280 3 2 bright 
+: 284 11 2 as 
+: 296 3 2 they 
+: 300 3 2 did
+: 304 10 4 ~ 
+- 316
+: 322 3 -5 On 
+: 326 3 -5 her 
+: 330 5 -3 ma
+: 336 5 -3 ma’s 
+: 342 7 -1 TV 
+: 350 8 -3 screen 
+- 360
+: 364 3 -5 And 
+: 368 3 2 the 
+: 372 5 2 work 
+: 378 7 2 seemed 
+: 386 5 2 har
+: 392 6 2 der 
+- 400
+: 404 3 2 And 
+: 408 3 2 the 
+: 412 5 2 days 
+: 418 7 4 seemed 
+: 426 10 4 longer 
+- 438
+: 442 3 -5 Than 
+: 446 3 -5 she 
+: 450 3 -3 e
+: 454 3 -3 ver 
+: 458 3 -1 thought 
+: 462 5 -1 they’d 
+: 468 8 -5 be 
+- 478
+: 488 1 4 But 
+: 490 1 4 you 
+: 492 3 4 know 
+: 496 1 4 you 
+: 498 3 4 got 
+: 502 1 4 to 
+: 504 3 4 stick 
+: 508 1 4 to 
+: 510 3 4 your 
+: 514 6 4 guns 
+- 522
+: 524 3 4 When 
+: 528 3 4 it 
+: 532 3 2 all 
+: 536 7 2 comes 
+: 544 12 2 down 
+- 558
+: 592 7 2 ’Cause 
+: 600 7 0 some
+: 608 7 0 times 
+: 616 3 0 you 
+: 620 7 -1 can’t 
+: 628 12 -5 choose 
+- 642
+: 648 3 0 It’s 
+: 652 3 0 li
+: 656 3 0 ~ke 
+: 660 7 2 heads 
+: 668 3 2 they 
+: 672 10 2 win 
+- 684
+: 692 7 4 Tails 
+: 700 3 4 you’re 
+: 704 3 6 gon
+: 708 3 6 na 
+: 712 3 6 lose
+: 716 4 7 ~ 
+- 722
+: 730 3 7 Win 
+: 734 8 7 big 
+: 744 5 7 ma
+: 750 3 7 ma’s 
+: 754 3 6 fal
+: 758 3 2 len 
+: 762 5 2 an
+: 768 14 7 gel 
+- 784
+: 790 3 7 Lose 
+: 794 7 7 big 
+: 802 5 7 li
+: 808 3 7 vin’ 
+: 812 3 6 out 
+: 816 3 2 her 
+: 820 10 2 lies 
+- 832
+: 844 3 7 Wants 
+: 848 3 7 it 
+: 852 8 7 all 
+: 864 5 7 ma
+: 870 3 7 ma’s 
+: 874 3 6 fal
+: 878 3 2 len 
+: 882 5 2 an
+: 888 14 7 gel 
+- 904
+: 906 3 7 Lose 
+: 910 3 7 it 
+: 914 8 7 all, 
+: 930 3 6 rol
+: 934 3 6 lin’ 
+: 938 3 6 the 
+: 942 7 6 dice 
+: 950 3 6 of 
+: 954 7 6 her 
+: 962 14 7 life 
+- 978
+: 1018 3 2 Now 
+: 1022 3 2 she 
+: 1026 3 2 found 
+: 1030 3 2 her
+: 1034 3 -1 self 
+: 1038 3 2 in 
+: 1042 3 2 the 
+: 1046 3 2 fast 
+: 1050 4 2 lane 
+- 1056
+: 1058 3 2 Livin’ 
+: 1062 7 2 day 
+: 1070 3 2 to 
+: 1074 12 4 day 
+- 1088
+: 1130 3 2 Turned 
+: 1134 3 2 her 
+: 1138 7 2 back 
+: 1146 3 2 on 
+: 1150 3 2 her 
+: 1154 7 2 best 
+: 1162 3 2 friends, 
+: 1166 10 -3 yeah 
+- 1178
+: 1188 3 2 And 
+: 1192 3 2 let 
+: 1196 3 2 her 
+: 1200 7 7 fami
+: 1208 7 7 ly 
+: 1216 3 7 slip 
+: 1220 5 7 a
+: 1226 16 3 way 
+- 1244
+: 1250 3 2 Just 
+: 1254 3 2 like 
+: 1258 3 2 a 
+: 1262 11 2 lost 
+: 1274 4 2 soul 
+- 1280
+: 1282 3 2 Caught 
+: 1286 3 2 up 
+: 1290 3 2 in 
+: 1294 3 2 the 
+: 1298 9 2 Hollywood 
+: 1308 12 4 scene 
+- 1322
+: 1332 3 -5 All 
+: 1336 3 -5 the 
+: 1340 3 -3 par
+: 1344 3 -3 ties 
+: 1348 3 -3 and 
+: 1352 3 -3 the 
+: 1356 3 -1 li
+: 1360 7 -1 mou
+: 1368 12 -5 sines 
+- 1382
+: 1388 3 2 Such 
+: 1392 3 2 a 
+: 1396 3 2 good 
+: 1400 5 2 ac
+: 1406 3 2 tress 
+: 1410 3 2 hi
+: 1414 3 2 ding 
+: 1418 6 2 all 
+: 1426 3 2 her 
+: 1430 12 4 pain 
+- 1444
+: 1448 3 -3 Tra
+: 1452 3 -3 ding 
+: 1456 3 -3 her 
+: 1460 3 -3 memo
+: 1464 5 -3 ries 
+: 1470 3 -3 for 
+: 1474 3 -1 for
+: 1478 5 -1 tune 
+: 1484 3 -1 and 
+: 1488 12 -5 fame 
+- 1502
+: 1508 3 4 Just 
+: 1512 3 4 a 
+: 1516 3 4 step 
+: 1520 3 4 a
+: 1524 8 4 way 
+: 1540 3 4 from 
+: 1544 3 4 the 
+: 1548 3 4 edge 
+: 1552 3 2 of 
+: 1556 3 2 a 
+: 1560 12 2 fall 
+- 1574
+: 1608 3 0 Caught 
+: 1612 3 0 be
+: 1616 7 0 tween 
+: 1624 3 0 hea
+: 1628 3 -1 ven 
+: 1632 3 0 and 
+: 1636 16 -5 hell 
+- 1654
+: 1668 7 2 Where’s 
+: 1676 3 2 the 
+: 1680 10 2 girl 
+: 1694 3 2 I 
+: 1698 7 4 knew 
+: 1706 3 4 a 
+: 1710 7 6 year 
+: 1718 3 6 a
+: 1722 8 7 go 
+- 1732
+: 1742 3 7 Win 
+: 1746 6 7 big 
+: 1760 5 7 ma
+: 1766 3 7 ma’s 
+: 1770 3 6 fal
+: 1774 3 2 len 
+: 1778 5 2 an
+: 1784 14 7 gel 
+- 1800
+: 1804 3 7 Lose 
+: 1808 4 7 big 
+: 1816 5 7 li
+: 1822 3 7 vin’ 
+: 1826 3 6 out 
+: 1830 3 2 her 
+: 1834 10 2 lies 
+- 1846
+: 1856 4 7 Wants 
+: 1862 3 7 it 
+: 1866 4 7 all 
+: 1876 5 7 ma
+: 1882 3 7 ma’s 
+: 1886 3 6 fal
+: 1890 3 2 len 
+: 1894 5 2 an
+: 1900 10 7 gel 
+- 1912
+: 1914 3 7 Lose 
+: 1918 3 7 it 
+: 1922 8 7 all, 
+: 1938 3 6 rol
+: 1942 3 6 lin’ 
+: 1946 3 6 the 
+: 1950 5 6 dice 
+: 1956 3 6 of 
+: 1960 3 6 her 
+: 1964 6 7 life 
+- 1971
+: 1972 5 4 Too 
+: 1978 5 4 much 
+: 1984 5 4 too 
+: 1990 8 4 soon 
+- 2000
+: 2002 7 4 Or 
+: 2010 7 4 just 
+: 2018 7 4 a 
+: 2026 3 4 lit
+: 2030 3 2 tle 
+: 2034 7 2 too 
+: 2042 8 2 late 
+- 2052
+: 2080 7 2 ’Cause 
+: 2088 7 0 when 
+: 2096 3 0 her 
+: 2100 7 0 ship 
+: 2108 7 0 came 
+: 2116 12 -5 in 
+- 2130
+: 2144 3 0 She 
+: 2148 3 2 wa
+: 2152 3 2 sn’t 
+: 2156 7 2 there
+: 2164 4 2 ~ 
+: 2174 7 4 and 
+: 2182 3 4 it 
+: 2186 7 6 just 
+: 2194 3 6 wouldn’t 
+: 2198 8 7 wait 
+- 2208
+: 2936 3 7 Win 
+: 2940 8 7 big 
+: 2950 5 7 ma
+: 2956 3 7 ma’s 
+: 2960 3 6 fal
+: 2964 3 2 len 
+: 2968 5 2 an
+: 2974 14 7 gel 
+- 2990
+: 2992 3 7 Lose 
+: 2996 7 7 big 
+: 3004 5 7 li
+: 3010 3 7 vin’ 
+: 3014 3 6 out 
+: 3018 3 2 her 
+: 3022 10 2 lies 
+- 3034
+: 3050 4 7 Wants 
+: 3056 3 7 it 
+: 3060 7 7 all 
+: 3068 5 7 ma
+: 3074 3 7 ma’s 
+: 3078 3 6 fal
+: 3082 3 2 len 
+: 3086 5 2 an
+: 3092 8 7 gel 
+- 3102
+: 3104 3 7 Lose 
+: 3108 4 7 it 
+: 3116 8 7 all, 
+: 3132 3 6 rol
+: 3136 3 6 lin’ 
+: 3140 3 6 the 
+: 3144 7 6 dice 
+: 3152 3 6 of 
+: 3156 7 6 her 
+: 3164 14 7 life 
+E

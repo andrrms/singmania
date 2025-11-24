@@ -1,0 +1,323 @@
+#ARTIST:Lovage
+#TITLE:Strangers On A Train
+#MP3:Lovage - Strangers On A Train.mp3
+#CREATOR:lava
+#YEAR:2001
+#LANGUAGE:English
+#BPM:299.75
+#GAP:28260
+#VIDEO:a=7KjrrBaNljg,co=music-to-make-love-to-your-old-lady-by-51b67dc648d14.jpg,bg=lovage-51d9f82528425.jpg
+F 0 2 2 Par
+F 3 2 2 don 
+F 6 3 2 me 
+F 10 4 2 sir 
+- 16
+F 54 2 2 Is 
+F 57 2 2 this 
+F 60 2 2 seat 
+F 63 3 2 ta
+F 68 4 2 ken 
+- 74
+F 110 2 2 I 
+F 113 3 2 o
+F 117 3 2 ver
+F 121 3 2 heard 
+F 128 3 2 you 
+F 132 3 2 say 
+- 137
+: 154 8 2 Not 
+: 166 11 9 stirred 
+: 181 2 2 but 
+: 186 9 0 sha
+: 197 7 -3 ken 
+- 206
+: 237 7 4 And 
+: 245 3 2 ~ 
+: 250 7 4 I 
+: 258 8 2 ~ 
+: 292 7 4 could 
+: 300 14 5 ~ 
+- 316
+: 338 8 4 Real
+: 348 10 4 ly 
+: 361 7 4 throw 
+: 370 6 2 ~ 
+: 378 6 4 one 
+: 385 4 5 ~ 
+: 390 7 4 back 
+: 399 13 -3 ~ 
+- 414
+F 471 3 2 Such 
+F 475 2 2 a 
+F 478 4 2 thirst 
+F 487 4 2 doesn’t 
+F 494 3 2 al
+F 500 10 2 ways 
+F 519 3 2 per
+F 524 5 2 mit 
+- 531
+F 560 3 2 For
+F 564 6 2 ward 
+F 575 8 2 tact 
+- 585
+F 641 6 2 So 
+F 676 3 2 if 
+F 680 3 2 you 
+F 684 3 2 would 
+F 688 6 2 sir 
+- 696
+F 730 4 2 Par
+F 735 3 2 don 
+F 739 6 2 me 
+- 747
+F 780 4 2 A 
+F 786 3 2 stiff 
+F 790 3 2 one 
+F 794 4 2 is 
+F 801 5 2 my 
+F 834 4 2 spe
+F 839 5 2 cial
+F 846 6 2 ty 
+- 854
+F 975 5 2 Stran
+F 981 5 2 gers 
+F 1014 2 2 on 
+F 1017 3 2 a 
+F 1021 2 2 train 
+- 1025
+F 1200 2 2 Stran
+F 1203 3 2 gers 
+F 1233 2 2 on 
+F 1236 2 2 a 
+F 1239 6 2 train 
+- 1247
+F 1332 2 2 Oh 
+F 1335 3 2 you’re 
+F 1339 9 2 very 
+F 1349 5 2 char
+F 1355 4 2 ming 
+F 1361 5 2 Sir 
+- 1368
+F 1390 6 2 Now 
+F 1399 5 2 here’s 
+F 1406 2 2 to 
+F 1410 3 2 you 
+- 1415
+F 1450 2 2 I 
+F 1453 2 2 don’t 
+F 1456 3 2 want 
+F 1460 3 2 to 
+F 1464 4 2 know 
+F 1469 4 2 your 
+F 1474 6 2 name 
+- 1482
+F 1497 2 2 Or 
+F 1500 5 2 what 
+F 1506 5 2 you 
+F 1512 5 2 do 
+- 1519
+F 1555 5 2 I 
+F 1561 5 2 know 
+F 1587 7 2 here’s 
+F 1595 3 2 to 
+F 1638 4 2 stran
+F 1643 4 2 gers 
+F 1648 6 2 on 
+F 1655 3 2 a 
+F 1659 4 2 train 
+- 1665
+F 1695 3 2 Stran
+F 1699 4 2 gers 
+F 1729 1 2 on 
+F 1731 5 2 a 
+F 1737 13 2 train 
+- 1752
+: 1869 4 2 Oh 
+: 1874 5 2 I 
+: 1880 8 4 think 
+: 1890 4 2 we’re 
+: 1896 6 4 go
+: 1903 5 2 ing 
+: 1910 9 4 fas
+: 1921 11 2 ter 
+- 1934
+: 1979 6 2 From 
+: 1986 4 2 the 
+: 1991 7 4 mount 
+: 1999 5 2 ~ 
+: 2008 4 4 to 
+: 2014 4 2 the 
+: 2022 10 9 pas
+: 2034 11 2 ture 
+- 2047
+: 2106 7 2 Just 
+: 2114 7 2 look 
+: 2122 3 2 at 
+: 2128 7 2 that 
+: 2138 7 2 sce
+: 2146 3 2 ne
+: 2150 6 2 ry 
+- 2158
+: 2210 4 2 It’s 
+: 2216 8 14 love
+: 2226 21 2 ly 
+- 2249
+: 2433 4 2 It’s 
+: 2439 8 14 love
+: 2449 21 2 ly 
+- 2472
+: 2668 4 2 I 
+: 2674 4 6 real
+: 2679 3 9 ly 
+: 2685 7 14 like 
+: 2694 5 2 to 
+: 2701 6 2 ride 
+: 2709 2 2 the 
+: 2713 11 5 train 
+: 2726 8 4 ~ 
+- 2736
+: 2779 5 5 E
+: 2785 6 5 spe
+: 2792 5 5 cially 
+: 2798 9 5 when 
+: 2808 7 5 I 
+: 2821 6 -1 for
+: 2828 4 -1 get 
+: 2834 5 2 where 
+: 2840 4 -1 I’m 
+: 2848 5 5 go
+: 2855 13 5 ing 
+- 2870
+: 2890 4 2 I 
+: 2897 5 6 real
+: 2903 3 9 ly 
+: 2908 6 14 like 
+: 2916 5 2 the 
+: 2922 7 2 way 
+: 2930 4 2 it 
+: 2937 9 9 feels 
+: 2948 21 2 ~ 
+- 2971
+: 2994 6 5 Mo
+: 3003 13 2 tion 
+: 3029 6 -3 of 
+: 3037 6 2 the 
+: 3044 5 5 wheels 
+: 3050 20 2 ~ 
+- 3072
+: 3203 6 2 As 
+: 3211 3 2 the 
+: 3216 5 4 ra
+: 3223 5 2 ging 
+: 3230 8 4 sparks 
+: 3239 9 2 are 
+: 3250 9 4 fly
+: 3261 13 2 ing 
+- 3276
+: 3314 4 2 From 
+: 3320 7 2 the 
+: 3329 5 4 woun
+: 3335 3 2 ded 
+: 3340 8 4 rails 
+: 3350 10 2 still 
+: 3365 9 9 cry
+: 3376 14 2 ing 
+- 3392
+F 3438 6 2 Batt
+F 3445 11 2 ling 
+F 3459 2 2 the 
+F 3463 6 2 sce
+F 3470 5 2 ne
+F 3476 9 2 ry 
+- 3487
+: 3544 4 2 It’s 
+: 3550 8 14 love
+: 3560 21 2 ly 
+- 3583
+: 3655 4 2 It’s 
+: 3661 8 14 love
+: 3671 21 2 ly 
+- 3694
+: 3766 4 2 It’s 
+: 3772 8 14 love
+: 3782 21 2 ly 
+- 3805
+: 3878 4 2 It’s 
+: 3884 8 14 love
+: 3894 21 2 ly 
+- 3917
+: 4003 4 2 I 
+: 4009 4 6 real
+: 4014 3 9 ly 
+: 4020 7 14 like 
+: 4029 5 2 to 
+: 4036 6 2 ride 
+: 4044 2 2 the 
+: 4048 11 5 train 
+: 4061 8 4 ~ 
+- 4071
+: 4114 5 5 E
+: 4120 6 5 spe
+: 4127 5 5 cially 
+: 4133 7 5 when 
+: 4141 9 2 I 
+: 4154 6 -1 for
+: 4161 4 2 get 
+: 4167 5 2 where 
+: 4173 4 -1 I’m 
+: 4181 5 5 go
+F 4188 13 -1 ing 
+- 4203
+: 4224 4 2 I 
+: 4231 4 6 real
+: 4236 3 9 ly 
+: 4241 6 14 like 
+: 4250 4 2 the 
+: 4255 7 2 way 
+: 4263 4 2 it 
+: 4270 9 9 feels 
+: 4281 21 2 ~ 
+- 4304
+: 4328 8 5 Mo
+: 4339 10 2 tion 
+: 4362 6 -3 of 
+: 4370 6 2 the 
+: 4377 5 5 wheels 
+: 4383 22 2 ~ 
+- 4407
+F 4440 11 2 Moun
+F 4454 12 2 tain 
+F 4493 9 2 mea
+F 4504 16 2 dow 
+- 4522
+F 4555 6 2 Oh 
+F 4562 9 2 I.. 
+F 4592 5 2 I’d 
+F 4598 3 2 bet
+F 4602 4 2 ter 
+F 4607 5 2 go 
+- 4614
+F 4629 3 2 This 
+F 4633 3 2 is 
+F 4638 3 2 my 
+F 4644 5 2 sta
+F 4651 4 2 tion 
+F 4656 3 2 you 
+F 4660 14 2 know 
+- 4676
+F 4687 2 2 I’ve 
+F 4690 3 2 had 
+F 4694 3 2 a 
+F 4698 3 2 love
+F 4702 3 2 ly 
+F 4706 9 2 time 
+- 4717
+F 4774 5 2 Oh 
+F 4780 1 2 the 
+F 4782 6 2 plea
+F 4789 6 2 sure’s 
+F 4796 14 2 mine 
+- 4812
+F 4840 8 2 All 
+F 4851 17 2 mine 
+E

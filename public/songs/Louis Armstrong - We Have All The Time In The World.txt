@@ -1,0 +1,217 @@
+#ARTIST:Louis Armstrong
+#TITLE:We Have All The Time In The World
+#MP3:Louis Armstrong - We Have All The Time In The World.mp3
+#CREATOR:riperrin
+#GENRE:Soundtrack
+#YEAR:1969
+#LANGUAGE:English
+#BPM:363.15
+#GAP:21120
+#VIDEO:v=xJlnQL7wS1c,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/f7/25/61f725d7-a555-caef-e43f-afa5d894d2ac/21UM1IM23539.rgb.jpg/5000x5000bb.jpg,bg=louis-armstrong-4de62132e3fde.jpg
+* 0 13 1 We 
+: 16 11 2 have 
+: 32 32 4 all 
+: 80 8 4 the 
+: 91 34 9 time 
+: 149 5 9 in 
+: 155 4 9 the 
+: 160 5 6 wor
+: 166 22 4 ~ld 
+- 212
+: 259 10 6 Time 
+: 277 4 4 e
+: 283 5 2 nough 
+: 293 6 1 for 
+: 300 20 2 life 
+: 340 7 11 to 
+: 348 5 10 un
+: 359 19 11 fold 
+- 388
+: 400 7 -1 All 
+: 409 5 1 the 
+: 415 4 2 pre
+: 422 5 4 cious 
+: 431 15 1 things 
+* 458 9 4 love 
+* 468 11 -3 has 
+* 484 5 1 in 
+* 493 20 -1 store 
+- 523
+: 538 9 1 We 
+: 548 7 1 have 
+: 557 5 1 all
+: 563 37 4 ~ 
+: 611 10 4 the 
+: 623 32 9 love 
+: 667 13 8 in 
+: 682 6 9 the 
+: 691 4 6 wor
+: 696 32 4 ~ld 
+- 752
+: 798 4 6 If 
+: 805 4 4 that’s 
+: 811 8 2 all 
+: 822 6 1 we 
+: 830 27 2 have 
+- 866
+: 870 9 11 You 
+: 881 6 11 will 
+: 890 22 11 find 
+: 931 12 13 we 
+: 945 8 11 need 
+: 954 4 9 no
+: 960 5 8 thing 
+: 967 33 9 more 
+- 1024
+: 1061 15 9 Ev
+: 1078 12 8 ery 
+: 1094 9 7 step 
+* 1131 9 12 of 
+* 1142 5 12 the 
+* 1148 35 12 way 
+: 1208 14 5 will 
+: 1225 22 9 find 
+: 1254 23 7 us 
+- 1301
+: 1330 8 5 With 
+: 1342 6 4 the 
+: 1353 32 0 cares 
+: 1390 11 3 of 
+: 1406 6 0 the 
+: 1417 38 5 world 
+: 1463 9 8 far 
+* 1474 7 5 be
+* 1485 27 12 hind 
+* 1514 14 11 us 
+- 1552
+: 1581 13 1 We 
+: 1601 9 2 have 
+: 1611 5 2 all
+: 1617 32 4 ~ 
+: 1664 9 4 the 
+: 1674 36 9 time 
+: 1721 10 9 in 
+: 1735 6 9 the 
+: 1743 4 6 wor
+: 1748 25 4 ~ld 
+- 1783
+: 1790 5 4 Just 
+: 1800 7 4 for 
+: 1812 30 14 love 
+- 1852
+: 1868 6 13 No
+: 1875 4 11 thing 
+: 1880 22 9 more 
+- 1912
+: 1926 6 13 No
+: 1933 5 11 thing 
+: 1941 17 9 less 
+- 1970
+: 1974 33 13 On
+: 2008 8 11 ly 
+: 2020 33 9 love 
+- 2101
+: 2685 11 9 Ev
+: 2701 9 8 ery 
+: 2716 17 7 step 
+: 2746 13 12 of 
+: 2761 4 12 the 
+: 2767 31 12 way 
+- 2808
+: 2832 13 5 Will 
+: 2847 20 9 find 
+: 2872 42 7 us 
+- 2924
+: 2942 8 5 With 
+: 2951 8 4 the 
+: 2961 33 0 cares 
+: 3015 7 3 of 
+: 3025 6 0 the 
+: 3033 29 5 world 
+: 3078 9 8 far 
+: 3089 5 5 be
+: 3103 23 12 hind 
+: 3129 22 11 us 
+- 3175
+: 3213 5 1 We 
+: 3219 4 2 have 
+: 3224 23 4 all 
+: 3277 8 4 the 
+: 3286 32 9 time 
+: 3328 10 9 in 
+: 3344 9 9 the 
+: 3359 5 6 wor
+: 3365 28 4 ~ld 
+- 3403
+: 3407 7 4 Just 
+: 3417 5 4 for 
+: 3425 21 14 love 
+- 3456
+: 3474 7 13 No
+: 3482 5 11 thing 
+: 3489 20 9 more 
+- 3519
+: 3529 7 13 No
+: 3539 4 12 thing
+: 3544 6 11 ~ 
+: 3553 7 9 less 
+- 3570
+: 3584 16 13 On
+: 3603 9 13 ly 
+: 3617 12 11 love
+: 3630 32 9 ~ 
+- 3672
+: 3709 10 9 Ev
+: 3727 6 8 ery 
+: 3742 13 7 step 
+: 3779 7 12 of 
+: 3790 4 12 the 
+: 3795 45 12 way 
+: 3855 15 5 will 
+: 3873 22 9 find 
+: 3901 26 7 us 
+- 3951
+: 3978 9 5 With 
+: 3990 6 4 the 
+: 4001 25 0 cares 
+: 4038 13 3 of 
+: 4055 7 0 the 
+: 4064 30 5 world 
+: 4111 9 8 far 
+: 4122 6 5 be
+: 4133 25 12 hind 
+: 4161 14 11 us 
+- 4199
+: 4229 16 1 We 
+: 4248 10 2 have 
+: 4260 28 4 all 
+: 4313 7 4 the 
+: 4322 35 9 time 
+: 4368 14 9 in 
+: 4384 4 9 the 
+: 4389 6 6 wor
+: 4396 20 4 ~ld 
+- 4426
+: 4437 7 4 Just 
+: 4448 6 4 for 
+: 4461 16 14 love 
+- 4487
+: 4516 5 13 No
+: 4522 5 11 thing 
+: 4528 20 9 more 
+- 4558
+: 4571 7 13 No
+: 4581 8 11 thing 
+: 4591 7 9 less 
+- 4608
+: 4623 36 13 On
+: 4660 7 11 ly 
+: 4669 19 9 love 
+- 4736
+: 5496 3 -1 On
+: 5500 3 1 ~
+: 5504 14 4 ~
+: 5519 20 4 ly 
+* 5540 3 1 love
+* 5544 31 4 ~ 
+E

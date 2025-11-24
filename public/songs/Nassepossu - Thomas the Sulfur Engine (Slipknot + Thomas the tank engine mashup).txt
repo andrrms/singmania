@@ -1,0 +1,310 @@
+#ARTIST:Nassepossu
+#TITLE:Thomas the Sulfur Engine (Slipknot + Thomas the tank engine mashup)
+#MP3:Nassepossu - Thomas the Sulfur Engine (Slipknot + Thomas the tank engine mashup).mp3
+#CREATOR:hamelner
+#COVER:Nassepossu - Thomas the Sulfur Engine (Slipknot + Thomas the tank engine mashup) [CO].jpg
+#BACKGROUND:Nassepossu - Thomas the Sulfur Engine (Slipknot + Thomas the tank engine mashup) [BG].jpg
+#LANGUAGE:English
+#BPM:384.11
+#GAP:3040
+#VIDEO:a=xtRdb1ssO14,co=https://i.ytimg.com/vi/xtRdb1ssO14/maxresdefault.jpg,co-crop=280-2-718-718,bg=https://i.ytimg.com/vi/xtRdb1ssO14/maxresdefault.jpg
+: 0 5 17 My 
+: 7 9 10 guilt 
+- 24
+: 27 2 11 And 
+: 30 2 10 my 
+: 37 10 9 shame 
+- 55
+: 58 4 11 Al
+: 63 2 10 ways 
+: 66 3 14 sell 
+: 72 2 13 me 
+: 78 8 14 short 
+- 87
+: 89 1 13 Al
+: 91 2 14 ways 
+: 96 5 15 feel 
+: 103 2 13 the 
+: 107 4 15 same 
+- 112
+: 114 2 13 In 
+: 117 3 19 my 
+: 124 12 19 face 
+- 141
+: 143 3 11 And 
+: 147 4 11 my 
+: 155 7 11 soul 
+- 162
+: 163 1 9 Al
+: 165 1 6 ways 
+: 180 7 15 wear 
+: 189 4 12 me 
+: 196 5 17 thin 
+- 205
+: 207 1 18 Al
+: 209 2 16 ways 
+: 215 1 17 un
+: 217 2 18 der 
+: 221 3 8 con
+: 225 4 16 trol 
+- 231
+: 233 4 18 But 
+: 239 3 16 the 
+: 243 7 16 longest 
+: 255 11 18 hours 
+- 267
+: 269 4 17 You’ll 
+: 274 2 15 have 
+: 278 1 15 in 
+: 280 3 16 your 
+: 284 3 17 life 
+- 293
+: 296 1 11 Are 
+: 299 2 12 the 
+: 304 2 12 ones 
+: 310 2 12 you 
+: 313 3 12 sit 
+: 320 4 11 through 
+- 324
+: 326 4 11 To 
+: 331 4 11 know 
+: 336 2 13 if 
+: 339 1 13 you’re 
+: 343 3 15 right 
+- 348
+: 350 4 19 So 
+: 357 3 16 I’ll 
+: 361 4 15 wait 
+- 376
+: 380 4 10 But 
+: 385 1 11 I’ll 
+: 390 3 11 pray 
+: 395 3 11 that 
+: 400 3 9 I’m 
+: 405 8 -1 wrong 
+- 420
+: 423 2 12 Be
+: 426 3 12 cause 
+: 431 1 10 I 
+: 435 1 15 think 
+- 439
+: 441 3 13 I 
+: 445 6 16 know 
+: 452 6 17 what’s 
+: 461 4 19 go
+: 466 5 17 ing 
+: 476 2 18 on 
+- 488
+: 495 2 8 The 
+: 499 5 11 only 
+: 506 4 11 will 
+: 511 2 10 is 
+: 514 6 -1 my 
+: 527 5 9 own 
+- 538
+: 540 1 11 I 
+: 543 2 12 do 
+: 546 11 11 whatever 
+: 558 2 11 I 
+: 561 5 2 want 
+- 569
+: 571 3 13 And 
+: 577 7 17 stay 
+: 585 10 16 alone 
+- 602
+: 605 2 14 All 
+: 610 6 17 my 
+: 617 7 17 de
+: 625 8 10 cisions 
+: 636 5 17 make 
+: 647 4 18 it 
+- 660
+: 664 7 18 Un
+: 672 7 16 touch
+: 680 8 17 able 
+: 691 2 15 it’s 
+: 698 5 19 tain
+: 704 6 18 ted 
+- 716
+: 718 2 18 I’m 
+: 721 5 16 gonna 
+: 729 2 17 suf
+: 732 2 10 fer 
+: 736 2 12 for 
+: 740 1 7 the 
+: 743 2 12 rest 
+: 748 2 10 of 
+: 751 6 12 my 
+: 758 7 8 life 
+- 773
+: 776 4 11 But 
+: 781 2 10 I 
+: 784 3 -1 will 
+: 788 1 -1 al
+: 790 2 -1 ways 
+: 794 3 13 find 
+: 799 1 11 a 
+: 801 3 2 way 
+: 805 2 1 to 
+: 809 7 14 sur
+: 817 8 13 vive 
+- 832
+: 835 3 12 I’m 
+: 839 3 12 not 
+: 843 1 6 a 
+: 846 2 16 fail
+: 849 3 15 ure 
+: 854 2 15 but 
+: 857 3 12 I 
+: 861 3 16 know 
+: 865 3 13 what 
+: 870 2 11 it’s 
+: 875 5 17 like 
+- 882
+: 884 1 13 I 
+: 886 2 11 can 
+: 890 3 17 take 
+: 897 1 14 it 
+: 902 2 16 or 
+: 905 5 17 leave 
+: 912 2 16 it 
+- 926
+: 930 1 17 Or 
+: 934 13 17 die 
+- 947
+: 949 37 18 Yeah! 
+- 997
+: 1001 2 11 You 
+: 1007 11 18 don’t 
+: 1025 2 16 al
+: 1028 3 14 ways 
+: 1036 10 18 know 
+: 1048 9 14 where 
+: 1058 2 14 you 
+: 1066 14 11 stand 
+- 1090
+: 1110 7 16 Still 
+: 1118 5 16 you 
+: 1125 10 16 know 
+: 1136 7 16 that 
+: 1147 4 16 you 
+: 1154 9 19 won’t 
+: 1165 12 18 run 
+: 1178 41 18 away 
+- 1230
+: 1234 3 12 There’s 
+: 1242 10 18 some
+: 1253 10 16 thing 
+- 1269
+: 1271 4 17 In
+: 1276 4 18 side 
+: 1283 8 14 me 
+: 1292 4 14 that 
+: 1301 21 11 feels 
+- 1332
+: 1353 4 17 Like 
+: 1361 8 16 breath
+: 1370 9 16 ing 
+: 1383 4 16 it’s 
+: 1397 15 18 over 
+- 1463
+: 1585 6 20 My 
+: 1594 9 18 life 
+- 1610
+: 1613 1 9 Is 
+: 1619 6 12 un
+: 1626 7 10 done 
+- 1633
+: 1634 1 7 And 
+: 1643 6 12 I’m 
+: 1650 2 11 a 
+: 1654 2 13 sin
+: 1657 3 14 ner 
+: 1661 2 13 to 
+: 1665 4 15 most 
+- 1670
+: 1672 6 13 But 
+: 1680 1 13 a 
+: 1683 5 13 sage 
+: 1690 2 14 to 
+: 1694 5 15 some 
+- 1700
+: 1702 1 14 And 
+: 1704 4 19 my 
+: 1712 8 15 gods 
+- 1728
+: 1731 2 10 Are 
+: 1735 6 11 un
+: 1742 7 9 true 
+- 1749
+: 1750 1 8 I’m 
+: 1771 3 12 prob
+: 1775 4 11 ably 
+: 1781 6 14 wrong 
+- 1787
+: 1789 5 15 But 
+: 1795 3 14 I’m 
+: 1800 2 18 bet
+: 1803 3 17 ter 
+: 1807 3 17 than 
+: 1811 6 19 you 
+- 1819
+: 1821 3 17 And 
+: 1826 2 19 the 
+: 1829 8 17 longest 
+: 1841 11 17 hours 
+- 1854
+: 1856 1 11 I’ve 
+: 1859 3 11 had 
+: 1863 2 12 in 
+: 1866 3 12 my 
+: 1870 4 12 life 
+- 1879
+: 1881 2 11 Were 
+: 1884 2 10 the 
+: 1890 2 11 ones 
+: 1896 1 -1 I 
+: 1899 4 10 went 
+: 1906 6 13 through 
+- 1912
+: 1913 3 12 To 
+: 1917 4 12 know 
+: 1922 1 12 I 
+: 1924 2 12 was 
+: 1928 4 15 right 
+- 1934
+: 1936 3 19 So 
+: 1940 2 17 I’m 
+: 1948 5 19 psyched 
+- 1962
+: 1965 3 10 But 
+: 1971 2 11 I’m 
+: 1974 1 11 a 
+: 1976 7 11 little 
+: 1985 7 11 out
+: 1993 8 14 side 
+- 2008
+: 2011 1 14 I’m 
+: 2013 6 12 gonna 
+: 2020 5 14 laugh 
+- 2025
+: 2027 4 17 When 
+: 2032 2 14 I’m 
+: 2035 3 9 bur
+: 2039 4 16 ied 
+: 2045 13 17 alive 
+- 2109
+: 2264 5 14 Like 
+: 2272 8 13 breath
+: 2281 9 16 ing 
+: 2294 1 16 in 
+: 2299 3 20 sul
+: 2303 30 18 fur 
+- 2384
+: 2704 3 16 Like 
+: 2711 6 16 breath
+: 2718 7 16 ing 
+: 2728 5 7 in 
+: 2734 6 11 sul
+: 2741 19 9 fur! 
+E

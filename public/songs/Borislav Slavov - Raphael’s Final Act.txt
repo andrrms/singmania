@@ -1,0 +1,142 @@
+#ARTIST:Borislav Slavov
+#TITLE:Raphael’s Final Act
+#MP3:Borislav Slavov - Raphael’s Final Act.mp3
+#CREATOR:B0nk3rZ
+#COVER:Borislav Slavov - Raphael’s Final Act [CO].jpg
+#BACKGROUND:Borislav Slavov - Raphael’s Final Act [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2023
+#LANGUAGE:English
+#BPM:316
+#GAP:610
+#VIDEO:a=xMo7ugWudCA,co=baldurs-gate-3-original-game-soundtrack-68587a01d742f.jpg
+: 0 31 7 Lives, 
+: 32 4 10 all 
+: 40 7 9 mor
+: 48 4 9 tal 
+: 56 48 3 lives, 
+: 116 4 7 ex
+: 124 52 2 pire 
+- 186
+: 196 39 7 Souls 
+: 236 7 10 go 
+: 244 7 9 to 
+: 252 8 7 their 
+: 264 36 10 dooms 
+- 309
+: 312 7 10 In 
+: 320 52 9 flame, 
+: 376 15 10 for
+* 392 51 12 e
+: 444 11 10 ver
+: 456 64 7 more 
+- 562
+R 1116 12 0 Hell, 
+R 1132 8 0 Hell, 
+R 1144 7 0 Hell 
+R 1152 3 0 has 
+R 1156 3 0 its 
+R 1160 8 0 laws 
+- 1177
+R 1180 8 0 Hell, 
+R 1192 8 0 Hell, 
+R 1204 3 0 ef
+R 1208 7 0 fects 
+R 1216 3 0 and 
+R 1220 3 0 the 
+R 1224 4 0 cause 
+- 1237
+R 1240 11 0 Curtain 
+R 1252 12 0 falls, 
+R 1268 3 0 but 
+R 1272 7 0 hold 
+R 1280 3 0 your 
+R 1284 3 0 ap
+R 1288 4 0 plause 
+- 1301
+R 1304 8 0 Squirm, 
+R 1320 4 0 squirm, 
+R 1332 3 0 for 
+R 1336 4 0 now 
+R 1344 4 0 down 
+R 1352 4 0 here 
+R 1360 3 0 come 
+R 1364 3 0 the 
+R 1368 28 0 claws 
+- 1438
+: 1624 32 7 Lives, 
+: 1660 4 10 all 
+: 1668 4 9 mor
+: 1676 4 7 tal 
+: 1684 52 3 lives, 
+: 1740 8 7 ex
+: 1752 44 2 pire 
+- 1805
+: 1808 39 7 Souls 
+: 1848 4 10 go 
+: 1856 7 9 to 
+: 1864 8 7 their 
+: 1876 36 10 dooms 
+- 1918
+: 1920 11 10 In 
+: 1932 44 9 flame, 
+: 1984 8 10 for
+* 1996 52 12 e
+: 2052 12 10 ver
+: 2068 48 7 more 
+- 2125
+R 2128 11 0 Fools, 
+R 2140 8 0 fools, 
+R 2152 3 0 how 
+R 2156 4 0 hard 
+R 2164 3 0 you 
+R 2168 3 0 have 
+R 2172 4 0 fought 
+- 2185
+R 2188 12 0 Brave, 
+R 2204 7 0 brave, 
+R 2212 3 0 but 
+R 2216 3 0 it’s 
+R 2220 4 0 all 
+R 2228 3 0 been 
+R 2232 3 0 for 
+R 2236 4 0 naught 
+- 2249
+R 2252 3 0 True 
+R 2256 12 0 Souls 
+R 2276 4 0 that 
+R 2284 7 0 couldn’t 
+R 2292 3 0 be 
+R 2296 8 0 bought 
+- 2313
+R 2316 16 0 Doomed, 
+R 2336 28 0 detected, 
+R 2368 4 0 and 
+R 2376 20 0 caught 
+- 2438
+R 2632 3 0 No 
+R 2636 3 0 more 
+R 2640 12 0 dеals, 
+R 2656 3 0 it’s 
+R 2660 16 0 over 
+- 2685
+R 2688 3 0 The 
+R 2692 8 0 final 
+R 2704 4 0 act, 
+R 2716 4 0 your 
+R 2724 16 0 doom 
+- 2752
+R 2756 3 0 No 
+R 2760 4 0 more 
+R 2768 8 0 gracе, 
+R 2780 4 0 it’s 
+R 2788 12 0 over 
+- 2809
+R 2812 3 0 This 
+R 2816 8 0 House 
+R 2828 3 0 of 
+R 2832 12 0 Hope, 
+R 2876 4 0 your 
+: 2884 91 7 to
+R 2976 28 0 mb 
+E

@@ -1,0 +1,263 @@
+#ARTIST:Dean Martin
+#TITLE:Sway
+#MP3:Dean Martin - Sway.mp3
+#CREATOR:pauldiddy
+#GENRE:Jazz
+#YEAR:1954
+#LANGUAGE:English
+#BPM:243.02
+#GAP:14500
+#VIDEO:a=ZmUdd8G0ToA,co=https://i.discogs.com/gsprB6-CodIl7_WBen9u5bCtyUVgx2cNDtOiuQNzdIg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA5/NzQ1LTE1NDYzODQ5/ODYtMzMwMi5qcGVn.jpeg,bg=martin-dean-5110b0dce51ed.jpg
+: 0 4 9 When 
+: 8 2 5 ma
+: 12 2 9 rim
+: 16 2 5 ba 
+: 20 2 9 rhy
+: 24 2 5 thms 
+: 28 6 10 start 
+: 38 2 9 to 
+: 42 2 9 play
+: 46 6 7 ~, 
+- 54
+: 60 6 10 Dance 
+: 70 2 9 with 
+: 74 2 9 me
+: 78 6 7 ~, 
+- 86
+: 92 6 9 Make 
+: 102 2 7 me 
+: 106 2 7 sway
+: 110 6 5 ~. 
+- 118
+: 132 4 5 Like 
+: 138 2 2 a 
+: 142 2 5 la
+: 146 2 2 zy 
+: 150 2 5 o
+: 154 2 2 cean 
+: 158 4 7 hugs 
+: 166 2 5 the 
+: 170 10 4 shore, 
+- 182
+: 188 6 7 Hold 
+: 198 2 5 me 
+: 202 14 4 close, 
+- 218
+: 220 2 5 Sway
+* 224 2 -2 ~ 
+: 230 2 -2 me 
+: 234 10 2 more. 
+- 246
+: 260 4 9 Like 
+: 266 2 5 a 
+: 270 2 9 flow
+: 274 2 5 er 
+: 278 2 9 bend
+: 282 2 5 ing 
+: 286 6 10 in 
+: 296 2 9 the 
+: 300 2 9 breeze
+: 304 6 7 ~, 
+- 312
+: 320 4 10 Bend 
+: 328 2 9 with 
+: 332 2 9 me
+: 336 6 7 ~, 
+- 344
+: 350 6 9 Sway 
+: 360 2 7 with 
+: 364 2 7 ease
+: 368 6 5 ~. 
+- 376
+: 392 2 5 When 
+: 396 2 2 we 
+: 400 2 5 dance 
+: 404 2 2 you 
+: 408 2 5 have 
+: 412 2 2 a 
+: 416 4 7 way 
+: 424 2 5 with 
+: 428 2 5 me
+: 432 6 4 ~, 
+- 440
+: 446 6 7 Stay 
+: 456 2 5 with 
+: 460 14 4 me, 
+- 476
+: 478 2 5 Sway
+* 482 2 -2 ~ 
+: 488 2 -2 with 
+: 492 10 2 me. 
+- 504
+: 520 2 2 O
+: 524 2 4 ther 
+: 528 1 5 dan
+: 530 1 7 ~
+: 532 1 5 ~
+: 536 2 4 cers 
+: 541 2 2 may 
+: 546 2 4 be 
+: 550 4 4 on 
+: 557 2 5 the 
+: 562 10 7 floor. 
+- 574
+: 584 3 4 Dear, 
+: 589 2 5 but 
+: 594 2 7 my 
+: 598 4 9 eyes 
+: 605 2 10 will 
+: 610 2 12 see 
+: 614 1 12 on
+: 616 1 14 ~
+: 618 1 12 ~
+: 622 2 9 ly 
+: 626 8 12 you. 
+- 636
+: 650 2 9 On
+: 654 2 10 ly 
+: 658 3 12 you 
+: 663 3 10 have 
+: 668 2 9 the 
+: 673 4 13 ma
+: 679 3 13 gic 
+: 686 2 9 tech
+* 690 12 13 nique, 
+- 704
+: 714 2 9 When 
+: 718 2 11 we 
+: 722 3 13 sway 
+: 727 3 11 I 
+: 734 2 9 go 
+* 738 32 14 weak. 
+- 772
+: 782 2 9 I 
+: 786 2 5 can 
+: 790 2 9 hear 
+: 794 2 5 the 
+: 798 2 9 sounds 
+: 802 2 5 of 
+: 806 6 10 vi
+: 816 2 9 o
+: 820 2 9 lins
+: 824 6 7 ~ 
+- 832
+: 840 6 10 Long 
+: 850 2 9 be
+: 854 2 9 fore
+: 858 6 7 ~ 
+- 866
+: 874 4 9 It 
+: 882 2 7 be
+: 886 2 7 gins
+: 890 6 5 ~. 
+- 898
+: 912 4 5 Make 
+: 918 2 2 me 
+: 922 2 5 thrill 
+: 925 2 2 as 
+: 930 2 5 on
+: 934 2 2 ly 
+: 938 4 7 you 
+: 947 2 5 know 
+: 952 10 4 how. 
+- 964
+: 968 6 7 Sway 
+: 978 2 5 me 
+: 982 14 4 smooth, 
+- 998
+: 1002 2 5 Sway 
+* 1008 4 -2 me 
+: 1016 12 2 now. 
+- 1030
+: 1566 2 2 O
+: 1569 2 4 ther 
+: 1574 5 5 dan
+: 1582 2 4 cers 
+: 1587 2 2 may 
+: 1592 2 4 be 
+: 1596 4 4 on 
+: 1603 2 5 the 
+: 1608 10 7 floor. 
+- 1620
+: 1630 3 4 Dear, 
+: 1635 2 5 but 
+: 1640 2 7 my 
+: 1644 4 9 eyes 
+: 1651 2 10 will 
+: 1656 2 12 see 
+: 1660 1 12 on
+: 1662 1 14 ~
+: 1664 1 12 ~
+: 1668 2 9 ly 
+: 1672 8 12 you. 
+- 1682
+: 1696 2 9 On
+: 1700 2 10 ly 
+: 1704 3 12 you 
+: 1709 3 10 have 
+: 1714 2 9 the 
+: 1719 4 13 ma
+: 1725 3 13 gic 
+: 1732 2 9 tech
+* 1736 12 13 nique, 
+- 1750
+: 1760 2 9 When 
+: 1764 2 11 we 
+: 1768 3 13 sway 
+: 1773 3 11 I 
+: 1780 2 9 go 
+* 1784 32 14 weak. 
+- 1818
+: 1824 4 9 I 
+: 1832 2 5 can 
+: 1836 2 9 hear 
+: 1840 2 5 the 
+: 1844 2 9 sounds 
+: 1848 2 5 of 
+: 1852 6 10 vi
+: 1862 2 9 o
+: 1866 2 9 lins
+: 1870 6 7 ~ 
+- 1878
+: 1884 6 10 Long 
+: 1894 2 9 be
+: 1898 2 9 fore
+: 1902 6 7 ~ 
+- 1910
+: 1918 4 9 It 
+: 1926 2 7 be
+: 1930 2 7 gins
+: 1934 6 5 ~. 
+- 1942
+: 1956 4 5 Make 
+: 1962 2 2 me 
+: 1966 2 5 thrill 
+: 1969 2 2 as 
+: 1974 2 5 on
+: 1978 2 2 ly 
+: 1982 4 7 you 
+: 1991 2 5 know 
+: 1996 10 4 how. 
+- 2008
+: 2012 6 7 Sway 
+: 2021 2 5 me 
+: 2026 14 4 smooth, 
+- 2042
+: 2046 2 5 Sway
+* 2050 2 -2 ~ 
+: 2056 2 -2 me 
+: 2060 12 2 now. 
+- 2074
+: 2112 4 7 You 
+: 2121 2 5 know 
+: 2126 10 4 how, 
+- 2138
+: 2140 6 7 Sway 
+: 2149 2 5 me 
+: 2154 14 4 smooth, 
+- 2170
+: 2174 2 5 Sway
+* 2178 4 -2 ~ 
+: 2186 2 -2 me 
+* 2192 48 2 now. 
+E

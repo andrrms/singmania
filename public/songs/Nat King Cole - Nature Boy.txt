@@ -1,0 +1,137 @@
+#ARTIST:Nat King Cole
+#TITLE:Nature Boy
+#MP3:Nat King Cole - Nature Boy.mp3
+#CREATOR:Hoanzl
+#COVER:Nat King Cole - Nature Boy [CO].jpg
+#BACKGROUND:Nat King Cole - Nature Boy [BG].jpg
+#GENRE:Jazz
+#YEAR:1961
+#LANGUAGE:English
+#BPM:208
+#GAP:19940
+#VIDEO:a=ZpF1J9FnD4E,co=the-nat-king-cole-story-691b570f2a0f8.jpg,bg=https://www.downforthecount.co.uk/media/129044/nkc2.jpg,preview=84.47,medley=577-1226,tags=Love%2CMoulin Rouge%2CDavid Bowie%2CEden Ahbez
+: 0 7 -3 There 
+: 9 6 9 was 
+: 16 2 5 a 
+: 19 27 2 boy 
+- 53
+: 56 2 -3 A 
+: 59 2 4 ve
+: 63 2 5 ry 
+: 68 4 7 strange 
+: 74 3 10 en
+: 80 2 9 chan
+: 83 2 5 ted 
+: 86 25 2 boy 
+- 122
+: 126 3 -3 They 
+: 131 3 4 say 
+: 137 3 5 he 
+: 142 2 7 wan
+: 146 4 10 dered 
+* 151 3 9 ve
+* 156 2 14 ry 
+* 161 12 13 far, 
+: 176 2 9 ve
+: 180 2 12 ry 
+: 185 14 11 far 
+- 206
+: 209 2 7 O
+: 212 2 10 ver 
+: 216 10 9 land 
+: 228 5 2 and 
+: 236 36 4 sea 
+- 282
+: 292 9 -3 A 
+: 304 2 9 lit
+: 307 2 7 tle 
+: 313 34 4 shy 
+- 357
+: 367 3 -3 And 
+: 373 6 7 sad 
+: 380 2 5 of 
+: 383 35 2 eye 
+- 430
+: 434 5 -3 But 
+: 443 3 5 ve
+: 448 5 4 ry 
+: 455 39 -1 wise 
+: 504 5 -1 was 
+: 511 40 1 he 
+- 561
+: 577 5 -3 And 
+: 586 3 9 then 
+: 592 3 5 one 
+: 598 23 2 day 
+- 630
+: 634 2 -3 A 
+: 638 3 4 ma
+: 643 2 5 gic 
+: 647 5 7 day 
+* 654 3 10 he 
+* 659 6 9 passed 
+: 668 3 5 my 
+: 674 21 2 way 
+- 704
+: 707 3 -3 And 
+: 712 3 4 while 
+: 718 3 5 we 
+: 724 3 7 spoke 
+: 729 3 10 of 
+* 735 2 9 ma
+* 738 4 14 ny 
+* 745 12 13 things, 
+: 760 7 9 fools 
+: 769 3 12 and 
+: 774 15 11 kings 
+- 797
+: 800 4 7 This 
+: 806 2 10 he 
+: 811 4 9 said 
+: 818 3 2 to 
+: 824 41 4 me 
+- 878
+: 895 5 -3 The 
+: 902 6 9 grea
+: 910 3 7 test 
+: 915 30 4 thing 
+- 955
+: 962 4 -3 You’ll 
+: 968 3 7 e
+: 972 2 5 ver 
+: 975 27 2 learn 
+- 1012
+: 1026 4 -3 Is 
+: 1033 5 5 just 
+: 1041 3 4 to 
+: 1046 29 -1 love 
+- 1082
+: 1085 5 -3 And 
+* 1092 8 7 be 
+* 1101 18 5 loved 
+: 1137 8 -3 in 
+* 1148 17 4 re
+: 1167 59 2 turn 
+- 1253
+: 1624 11 -3 The 
+* 1639 6 9 grea
+: 1647 3 7 test 
+: 1652 32 4 thing 
+- 1696
+: 1700 6 -3 You’ll 
+: 1708 4 7 e
+: 1713 2 5 ver 
+: 1716 33 2 learn 
+- 1759
+: 1772 3 -3 Is 
+: 1778 5 5 just 
+: 1786 3 4 to 
+: 1792 29 -1 love 
+- 1830
+: 1833 5 -3 And 
+: 1840 8 7 be 
+: 1850 24 5 loved 
+: 1893 9 -3 in 
+* 1905 26 4 re
+: 1932 68 2 turn 
+E

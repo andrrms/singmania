@@ -1,0 +1,418 @@
+#ARTIST:Against The Current
+#TITLE:Brighter
+#MP3:Against The Current - Brighter.mp3
+#CREATOR:princetongirl98
+#GENRE:Alternative Rock
+#YEAR:2015
+#LANGUAGE:English
+#BPM:315.81
+#GAP:11880
+#VIDEO:v=XRDdK4ByD9w,co=gravity-55d88765f1bf2.jpg,bg=against-the-current-55d8b015a9639.jpg
+: 0 3 11 It’s 
+: 4 2 9 a 
+: 8 6 11 brand 
+: 16 6 11 new 
+: 23 10 11 day, 
+: 37 1 9 it’s 
+: 40 2 9 ne
+: 43 3 6 ver 
+: 48 6 11 too 
+: 56 7 11 late 
+: 64 2 9 to 
+: 68 17 9 start 
+- 87
+: 127 7 11 Can’t 
+: 135 7 11 live 
+: 144 6 11 this 
+: 152 16 11 life 
+: 175 3 11 with 
+: 180 3 11 an 
+: 184 5 11 emp
+: 191 3 9 ty 
+: 196 22 9 heart 
+- 220
+: 265 6 4 Every 
+: 272 2 1 sin
+: 275 3 1 gle 
+: 279 7 11 time 
+: 288 2 4 that 
+: 292 2 9 we 
+: 296 2 2 lay 
+: 299 2 4 it 
+: 303 3 4 on 
+: 307 3 1 the 
+: 311 6 1 line 
+- 319
+: 320 2 9 It’s 
+: 323 3 9 a 
+: 327 3 2 ro
+: 331 3 4 ller 
+: 336 3 1 coa
+: 340 3 1 ster 
+: 344 7 11 ride 
+: 352 5 9 for 
+: 358 21 9 one 
+- 381
+: 385 1 9 When 
+: 387 1 9 we 
+: 390 3 1 know 
+: 394 2 4 its 
+: 397 3 4 do 
+: 402 3 1 or 
+: 406 7 1 die 
+: 414 2 11 and 
+: 417 2 9 we’re 
+: 421 3 9 run
+: 426 3 4 ning 
+: 430 3 4 out 
+: 434 2 1 of 
+: 437 10 1 time 
+- 448
+: 449 1 9 We’ve 
+: 454 7 4 gotta 
+: 462 2 4 give 
+: 466 2 11 it 
+: 469 8 1 all 
+: 478 5 11 we’ve 
+: 485 14 6 got 
+- 501
+: 517 13 11 All 
+: 531 10 1 we’ve 
+: 543 6 2 go
+: 550 45 1 ~t! 
+- 597
+: 613 7 9 I 
+: 621 6 9 want 
+: 628 7 9 some
+: 636 4 9 thing 
+: 642 17 9 more, 
+: 674 2 9 a 
+: 677 8 9 life 
+: 686 6 9 worth 
+: 694 7 9 fight
+: 702 3 9 ing 
+: 707 19 8 for 
+- 728
+: 743 6 1 I 
+: 750 7 8 don’t 
+: 758 8 9 need 
+: 767 3 6 a 
+: 771 6 8 rea
+: 778 12 9 son, 
+: 796 2 9 to 
+: 799 2 9 set 
+: 802 3 9 the 
+: 806 8 9 world 
+: 815 6 4 on 
+: 822 6 6 fi
+: 829 15 4 re 
+- 846
+: 859 2 4 And 
+: 863 3 1 burn 
+: 867 2 2 a 
+: 870 7 2 little 
+: 879 6 2 bit 
+: 886 6 2 brigh
+: 894 3 2 ter 
+: 898 18 1 now 
+- 918
+: 930 3 9 There’s 
+: 934 6 9 some
+: 942 6 9 thing 
+: 949 7 9 beau
+: 958 3 9 tifu
+: 962 18 8 ~l 
+: 998 14 8 hiding 
+: 1014 6 8 in 
+: 1021 3 6 the 
+: 1026 6 9 sha
+: 1033 13 9 dows 
+- 1048
+: 1051 2 4 So 
+: 1054 3 9 set 
+: 1059 2 9 the 
+: 1062 6 9 world 
+: 1070 6 4 on 
+: 1078 6 6 fi
+: 1085 14 4 re 
+- 1101
+: 1113 3 9 Let’s 
+: 1118 3 9 burn 
+: 1122 3 2 a 
+: 1126 7 2 little 
+: 1134 5 2 bit 
+: 1140 7 1 bright
+: 1148 4 2 er 
+: 1153 16 1 now 
+- 1171
+: 1284 2 4 Some
+: 1287 3 11 times 
+: 1291 2 11 we 
+: 1295 6 11 gotta 
+: 1303 6 11 risk 
+: 1310 2 9 it 
+: 1314 11 11 all 
+: 1330 3 9 to 
+: 1334 8 9 chase 
+: 1343 2 4 a 
+: 1346 15 9 dream 
+- 1363
+: 1406 3 9 It’s 
+: 1410 3 9 a 
+: 1415 6 11 dive 
+: 1422 6 11 in 
+: 1430 6 11 head
+: 1437 6 11 first, 
+: 1446 2 11 all 
+: 1450 2 6 or 
+: 1453 8 11 nothing 
+: 1462 11 9 kinda 
+: 1474 14 9 thing 
+- 1490
+: 1543 6 4 Every 
+: 1550 6 11 single 
+: 1557 7 9 time 
+: 1566 3 9 that 
+: 1570 3 9 we 
+: 1574 2 2 lay 
+: 1578 3 4 it 
+: 1582 3 1 on 
+: 1586 2 1 the 
+: 1590 7 1 line 
+- 1598
+: 1598 2 9 It’s 
+: 1602 3 9 a 
+: 1606 4 2 rol
+: 1611 1 4 ler 
+: 1614 3 2 coa
+: 1619 3 1 ster 
+: 1623 6 11 ride 
+: 1630 6 9 for 
+: 1637 17 6 one 
+- 1656
+: 1662 3 9 When 
+: 1666 2 9 you 
+: 1670 3 2 know 
+: 1674 3 4 its 
+: 1678 3 4 do 
+: 1682 3 1 or 
+: 1686 6 11 die 
+: 1694 3 9 and 
+: 1698 4 9 you’re 
+: 1703 2 4 runn
+: 1706 3 4 ing 
+: 1710 2 4 out 
+: 1714 2 1 of 
+: 1717 9 1 time 
+- 1728
+: 1730 4 9 We’ve 
+: 1735 6 4 gotta 
+: 1742 3 11 give 
+: 1746 2 1 it 
+: 1749 7 1 all 
+: 1758 6 9 we’ve 
+: 1765 13 6 got 
+- 1780
+: 1829 8 9 I 
+: 1838 5 9 want 
+: 1844 8 9 some
+: 1853 3 9 thing 
+: 1857 15 9 more, 
+: 1889 3 9 a 
+: 1893 8 1 life 
+: 1902 6 9 worth 
+: 1909 8 9 fight
+: 1918 3 9 ing 
+: 1922 19 8 for 
+- 1943
+: 1957 7 6 I 
+: 1965 6 8 don’t 
+: 1972 9 8 need 
+: 1982 3 6 a 
+: 1986 6 8 rea
+: 1993 10 9 son, 
+: 2010 2 9 to 
+: 2013 3 9 set 
+: 2017 2 9 the 
+: 2021 7 9 world 
+: 2029 6 4 on 
+: 2037 20 6 fire 
+- 2059
+: 2074 2 2 And 
+: 2077 3 11 burn 
+: 2082 3 2 a 
+: 2086 5 2 little 
+: 2093 7 2 bit 
+: 2101 7 2 bright
+: 2109 4 2 er 
+: 2114 19 1 now 
+- 2135
+: 2145 3 1 There’s 
+: 2149 7 9 some
+: 2157 7 9 thing 
+: 2165 8 9 beaut
+: 2184 17 6 iful 
+: 2221 6 8 hi
+: 2228 6 9 ding 
+: 2235 7 6 in 
+: 2244 2 8 the 
+: 2248 7 9 sha
+: 2256 12 9 dows 
+- 2270
+: 2273 3 9 So 
+: 2277 3 9 set 
+: 2281 3 9 the 
+: 2285 6 4 world 
+: 2293 6 6 on 
+: 2300 7 4 fi
+: 2309 13 2 re 
+- 2324
+: 2335 4 1 Let’s 
+: 2340 3 2 burn 
+: 2345 3 2 a 
+: 2349 6 2 little 
+: 2356 4 2 bit 
+: 2361 6 2 bright
+: 2368 3 1 er 
+: 2373 16 1 now! 
+- 2391
+: 2633 6 9 Can’t 
+: 2640 6 4 stand 
+: 2648 8 1 by 
+: 2657 2 9 and 
+: 2660 6 11 wait 
+: 2668 6 11 like 
+: 2675 4 9 the 
+: 2680 11 1 others 
+- 2693
+: 2696 6 11 I’m 
+: 2703 7 4 front 
+: 2711 8 1 line 
+: 2720 3 11 and 
+: 2724 6 11 won’t 
+: 2731 7 11 run 
+: 2740 3 4 for 
+: 2744 12 1 cover 
+- 2758
+: 2760 7 6 Head 
+: 2768 6 4 held 
+: 2775 8 1 high 
+: 2784 3 6 cause 
+: 2788 2 11 I’m 
+: 2791 7 11 burn
+: 2799 3 11 ing 
+: 2803 12 11 brighter 
+- 2817
+: 2844 2 11 Yeah 
+: 2848 5 2 I’m 
+: 2854 7 11 burn
+: 2862 3 11 ing 
+: 2867 15 9 brighter! 
+- 2883
+: 2884 5 9 Can’t 
+: 2891 6 1 stand 
+: 2899 8 1 by 
+: 2908 2 1 and 
+: 2911 7 11 wait 
+: 2919 6 11 like 
+: 2927 2 11 the 
+: 2931 12 1 others 
+- 2945
+: 2946 8 9 I’m 
+: 2955 7 4 front 
+: 2963 5 8 li
+: 2970 2 1 ne 
+: 2973 2 1 and 
+: 2976 5 11 won’t 
+: 2983 7 11 run 
+: 2991 3 11 for 
+: 2995 12 4 cover 
+- 3009
+: 3010 8 11 Head 
+: 3019 5 2 held 
+: 3025 8 4 high 
+: 3035 2 1 cause 
+: 3039 6 11 I’m 
+: 3072 1 11 brighter! 
+- 3075
+: 3125 1 9 I 
+: 3127 6 9 want 
+: 3134 7 9 some
+: 3142 3 9 thing 
+: 3147 12 9 more, 
+: 3178 3 9 a 
+: 3182 7 9 life 
+: 3190 6 9 worth 
+: 3197 8 8 fight
+: 3206 2 8 ing 
+: 3210 15 6 for 
+- 3227
+: 3246 7 8 I 
+: 3254 7 8 don’t 
+: 3262 7 6 need 
+: 3271 2 8 a 
+: 3274 17 9 reason, 
+: 3299 2 9 to 
+: 3302 3 9 set 
+: 3306 2 4 the 
+: 3310 7 4 world 
+: 3318 6 6 on 
+: 3325 22 4 fire 
+- 3349
+: 3362 4 2 And 
+: 3367 2 2 burn 
+: 3371 2 2 a 
+: 3374 6 2 little 
+: 3382 6 2 bit 
+: 3389 11 2 brighter 
+: 3402 18 1 now 
+- 3422
+: 3435 2 9 There’s 
+: 3438 5 9 some
+: 3445 8 9 thing 
+: 3454 6 9 beau
+: 3462 23 6 tiful 
+: 3502 6 8 hi
+: 3509 6 9 ding 
+: 3516 8 9 in 
+: 3525 2 8 the 
+: 3529 7 9 sha
+: 3538 10 1 dows 
+- 3550
+: 3556 2 9 So 
+: 3559 2 9 set 
+: 3563 2 4 the 
+: 3566 6 4 world 
+: 3574 6 6 on 
+: 3581 20 4 fire 
+- 3603
+: 3620 2 2 Let’s 
+: 3623 3 2 burn 
+: 3628 3 2 a 
+: 3632 7 2 little 
+: 3641 6 2 bit 
+: 3648 6 1 brigh
+: 3656 2 1 ter 
+: 3659 16 9 now 
+- 3677
+: 3748 2 2 Let’s 
+: 3752 4 2 burn 
+: 3757 2 2 a 
+: 3760 6 2 little 
+: 3768 6 2 bit 
+: 3775 6 1 brigh
+: 3783 3 4 ter 
+: 3788 16 4 now 
+- 3806
+: 3913 2 11 It’s 
+: 3916 2 11 a 
+: 3920 6 11 brand 
+: 3928 6 11 new 
+: 3935 12 6 day, 
+: 3948 3 6 it’s 
+: 3952 7 11 never 
+: 3960 7 11 too 
+: 3969 6 6 late 
+: 3976 2 9 to 
+: 3980 26 9 start 
+E

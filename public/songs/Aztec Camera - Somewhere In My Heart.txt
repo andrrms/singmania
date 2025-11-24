@@ -1,0 +1,413 @@
+#ARTIST:Aztec Camera
+#TITLE:Somewhere In My Heart
+#MP3:Aztec Camera - Somewhere In My Heart.mp3
+#CREATOR:daggeg
+#YEAR:1987
+#LANGUAGE:English
+#BPM:267.83
+#GAP:7860
+#VIDEO:v=2w1Q8ZkXZ1Q,co=https://i.discogs.com/3YAfymNwzbn6KE5chsg4rvxdMqqynTu8SUpnni1sLtw/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE0/NzAtMTU4MDc3MDQy/Mi05Mjg3LmpwZWc.jpeg,bg=aztec-camera-545e1f264c119.jpg
+: 0 3 4 Sum
+: 4 3 4 mer 
+: 8 3 4 in 
+: 12 3 4 the 
+: 16 3 2 ci
+: 20 3 2 ty 
+: 24 3 2 where 
+: 28 3 2 the 
+: 32 3 0 air 
+: 36 4 0 is 
+: 44 8 -1 still 
+- 54
+: 60 2 -1 A 
+: 64 3 0 ba
+: 68 3 0 by 
+: 72 3 0 be
+: 76 3 0 ing 
+: 80 4 -1 born 
+: 87 3 -1 to 
+: 91 3 -1 the 
+: 96 7 -3 o
+: 104 3 -5 ver
+: 108 6 -5 kill 
+- 116
+: 136 5 2 Who 
+: 143 5 0 cares 
+: 152 4 -3 what 
+: 160 7 2 peo
+: 168 3 0 ple 
+: 172 7 0 say 
+- 181
+: 196 2 -3 We 
+: 200 4 2 walk 
+: 208 5 0 down 
+: 216 4 -3 love’s 
+* 224 7 2 mo
+: 232 3 4 tor
+: 237 7 4 way 
+- 246
+: 252 2 -3 Am
+: 256 3 4 bi
+: 260 3 4 tion 
+: 264 3 4 and 
+: 268 7 2 love 
+: 280 3 2 wea
+: 284 3 2 ring 
+: 288 5 0 bo
+: 295 3 0 xing 
+: 300 6 -1 gloves 
+- 308
+: 309 5 11 And 
+: 317 2 9 sing
+: 320 2 7 ing 
+: 324 6 9 hearts 
+: 333 4 4 and 
+: 341 7 7 flow
+: 349 3 4 ers 
+- 354
+* 380 2 7 But 
+* 384 6 9 some
+* 392 6 11 where 
+: 400 5 12 in 
+: 408 2 19 my 
+: 413 8 17 heart 
+- 423
+: 424 3 4 There 
+: 428 10 2 is 
+: 440 2 0 a 
+: 444 9 2 star 
+: 456 5 2 that 
+: 464 5 2 shines 
+: 472 2 4 for 
+: 476 8 -4 you 
+- 486
+: 512 7 0 Sil
+: 520 4 0 ver 
+: 528 5 0 splits 
+: 536 2 2 the 
+: 541 7 -7 blue 
+- 550
+: 576 6 5 Love 
+: 584 5 4 will 
+: 592 6 5 see 
+: 600 2 4 it 
+: 605 8 16 through 
+- 615
+: 636 2 7 And 
+: 640 6 9 some
+: 648 6 11 where 
+: 656 5 12 in 
+: 664 2 19 my 
+: 669 7 17 heart 
+- 678
+: 680 3 4 There 
+: 684 10 2 is 
+: 696 2 0 the 
+* 700 8 2 will 
+* 712 5 2 to 
+: 721 5 2 set 
+: 729 2 4 you 
+: 733 8 -4 free 
+- 743
+: 768 10 -1 All 
+: 780 6 -1 you’ve 
+: 788 5 -1 got 
+: 796 5 0 to 
+: 804 7 -7 be 
+: 824 7 -8 is 
+: 836 8 -8 true 
+- 846
+: 892 2 -3 A 
+: 896 3 4 star 
+: 900 3 4 a
+: 904 3 4 bove 
+: 908 3 4 the 
+: 912 3 2 ci
+: 916 3 2 ty 
+: 920 3 2 in 
+: 924 3 2 the 
+: 928 3 0 nor
+: 932 4 0 thern 
+: 940 7 -1 chill 
+- 949
+: 957 2 -1 A 
+: 961 3 0 ba
+: 965 3 0 by 
+: 969 3 0 be
+: 973 3 0 ing 
+: 977 5 -1 born 
+: 984 3 -1 to 
+: 988 3 -1 the 
+: 992 7 -3 o
+: 1000 3 -5 ver
+: 1005 7 -5 kill 
+- 1014
+: 1032 4 2 No 
+: 1040 5 0 say 
+: 1048 4 -3 no 
+: 1056 5 2 place 
+: 1064 3 0 to 
+: 1068 7 0 go 
+- 1077
+: 1092 2 -3 A 
+* 1096 6 2 T.
+* 1104 6 0 V. 
+: 1112 3 -3 and 
+: 1116 3 -3 a 
+: 1120 7 2 ra
+: 1128 3 4 di
+: 1132 6 4 o 
+- 1140
+: 1148 2 -3 Am
+: 1152 3 4 bi
+: 1156 3 4 tion 
+: 1160 3 4 and 
+: 1164 7 2 love 
+: 1176 3 2 wea
+: 1180 3 2 ring 
+: 1184 5 0 bo
+: 1192 3 0 xing 
+: 1197 6 -1 gloves 
+- 1204
+: 1205 3 11 And 
+: 1213 2 9 sing
+: 1216 2 7 ing 
+: 1221 6 9 hearts 
+: 1230 4 4 and 
+: 1237 8 7 flow
+: 1246 3 4 ers 
+- 1251
+: 1276 2 7 But 
+: 1280 6 9 some
+: 1288 6 11 where 
+: 1296 6 12 in 
+: 1304 2 19 my 
+: 1309 7 17 heart 
+- 1318
+: 1321 3 4 There 
+: 1325 9 2 is 
+: 1336 2 0 a 
+: 1340 9 2 star 
+: 1351 5 2 that 
+: 1359 5 2 shines 
+: 1368 2 4 for 
+: 1372 8 -4 you 
+- 1382
+: 1408 7 0 Sil
+: 1416 4 0 ver 
+: 1424 5 0 splits 
+: 1433 2 2 the 
+: 1437 7 -7 blue 
+- 1446
+: 1472 6 5 Love 
+: 1480 5 4 will 
+: 1488 6 5 see 
+: 1496 2 4 it 
+: 1501 8 16 through 
+- 1511
+: 1532 2 7 And 
+: 1536 6 9 some
+: 1544 6 11 where 
+: 1552 5 12 in 
+: 1560 2 19 my 
+: 1565 8 17 heart 
+- 1575
+: 1577 3 4 There 
+: 1581 9 2 is 
+* 1592 3 0 the 
+: 1596 9 2 will 
+: 1608 5 2 to 
+* 1617 5 2 set 
+: 1625 2 4 you 
+: 1629 7 -4 free 
+- 1638
+: 1660 2 -3 And 
+: 1664 9 -1 all 
+: 1675 7 -1 you’ve 
+: 1684 5 -1 got 
+: 1692 5 0 to 
+: 1700 7 -7 be 
+: 1719 7 -8 is 
+: 1734 9 -8 true 
+- 1745
+: 1808 6 -1 Who 
+: 1816 6 2 could 
+: 1824 7 -1 heal 
+- 1833
+: 1860 3 -1 What’s 
+: 1864 3 -1 ne
+: 1868 3 -1 ver 
+: 1872 4 0 been 
+: 1877 4 -1 as 
+: 1885 7 -1 one 
+- 1894
+* 1908 3 2 And 
+* 1912 5 2 our 
+: 1921 4 2 hearts 
+: 1926 2 0 have 
+: 1929 3 0 been 
+: 1933 6 0 torn 
+- 1941
+: 1944 3 2 Since 
+: 1948 3 2 the 
+: 1952 3 2 day 
+: 1956 3 0 we 
+: 1960 3 0 were 
+: 1964 7 0 born 
+- 1973
+: 1976 2 -1 Just 
+: 1980 5 0 like 
+: 2000 7 2 a
+: 2008 10 4 ny
+: 2022 8 -1 one 
+- 2032
+: 2052 2 0 From 
+: 2056 5 5 West
+* 2064 5 3 wood 
+: 2072 4 0 to 
+: 2080 3 5 Holl
+: 2084 3 3 ~
+: 2088 3 3 y
+: 2092 7 3 wood 
+- 2101
+: 2116 2 0 The 
+: 2120 5 5 one 
+: 2129 5 3 thing 
+: 2137 4 0 that’s 
+: 2145 7 5 un
+: 2153 3 3 der
+: 2157 6 3 stood 
+- 2164
+: 2164 3 3 Is 
+: 2168 3 3 that 
+: 2172 3 3 you 
+: 2176 3 3 can’t 
+: 2181 5 2 buy 
+: 2189 5 2 time 
+- 2195
+: 2196 2 -1 But 
+: 2200 2 2 you 
+: 2204 2 -1 can 
+: 2208 3 4 sell 
+: 2212 6 2 your 
+: 2221 7 2 soul 
+- 2230
+: 2232 2 2 And 
+: 2236 2 -1 the 
+: 2240 2 2 clo
+: 2244 2 -1 sest 
+: 2248 2 2 thing 
+: 2252 2 -1 to 
+: 2256 2 2 hea
+: 2260 2 -1 ven 
+: 2264 2 2 is 
+: 2268 2 -1 to 
+: 2272 3 4 rock 
+: 2277 5 4 and 
+: 2284 5 4 roll
+: 2290 1 2 ~
+: 2292 7 0 ~ 
+- 2301
+: 2556 2 7 But 
+: 2560 6 9 some
+: 2568 6 11 where 
+: 2576 5 12 in 
+: 2584 2 19 my 
+: 2589 8 17 heart 
+- 2599
+: 2602 3 4 There 
+: 2606 9 2 is 
+: 2616 2 0 a 
+: 2620 9 2 star 
+: 2632 5 2 that 
+: 2640 5 2 shines 
+: 2649 2 4 for 
+: 2653 8 -4 you 
+- 2663
+* 2688 7 0 Sil
+* 2696 4 0 ver 
+* 2704 5 0 splits 
+: 2712 2 2 the 
+: 2717 6 -7 blue 
+- 2725
+: 2752 6 5 Love 
+: 2760 5 4 will 
+: 2768 6 5 see 
+: 2776 2 4 it 
+: 2780 8 16 through 
+- 2790
+: 2812 2 7 And 
+: 2816 6 9 some
+: 2824 6 11 where 
+: 2832 5 12 in 
+: 2840 2 19 my 
+: 2845 8 17 heart 
+- 2855
+: 2857 3 4 There 
+: 2861 10 2 is 
+: 2872 3 0 the 
+: 2877 9 2 will 
+: 2888 5 2 to 
+: 2897 5 2 set 
+: 2904 2 4 you 
+: 2909 8 -4 free 
+- 2919
+: 2944 11 -1 All 
+: 2957 6 -1 you’ve 
+: 2965 5 -1 got 
+: 2973 5 0 to 
+: 2981 7 -7 be 
+: 3000 7 -8 is 
+: 3013 8 -8 true 
+- 3023
+: 3072 6 9 Some
+: 3080 6 11 where 
+: 3088 5 12 in 
+: 3096 3 19 my 
+: 3101 8 17 heart 
+- 3111
+: 3113 3 4 There 
+: 3117 10 2 is 
+: 3128 2 0 a 
+: 3132 9 2 star 
+: 3144 5 2 that 
+: 3152 5 2 shines 
+: 3161 2 4 for 
+: 3165 8 -4 you 
+- 3175
+: 3200 7 0 Sil
+: 3208 4 0 ver 
+: 3216 5 0 splits 
+: 3224 2 2 the 
+: 3229 6 -7 blue 
+- 3237
+: 3264 6 5 Love 
+: 3272 5 4 will 
+: 3280 6 5 see 
+: 3288 2 4 it 
+: 3292 8 16 through 
+- 3302
+: 3324 2 7 And 
+: 3328 6 9 some
+: 3336 6 11 where 
+: 3344 5 12 in 
+: 3352 2 19 my 
+: 3357 8 17 heart 
+- 3367
+: 3369 3 4 There 
+: 3373 10 2 is 
+: 3384 3 0 the 
+: 3389 9 2 will 
+: 3400 5 2 to 
+: 3408 5 2 set 
+: 3416 2 4 you 
+: 3421 8 -4 free 
+- 3431
+: 3456 11 -1 All 
+: 3469 6 -1 you’ve 
+: 3477 5 -1 got 
+: 3485 5 0 to 
+: 3493 7 -7 be 
+: 3512 7 -8 is 
+: 3525 8 -8 true 
+E

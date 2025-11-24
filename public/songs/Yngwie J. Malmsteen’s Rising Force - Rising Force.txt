@@ -1,0 +1,277 @@
+#ARTIST:Yngwie J. Malmsteen’s Rising Force
+#TITLE:Rising Force
+#MP3:Yngwie J. Malmsteen’s Rising Force - Rising Force.mp3
+#CREATOR:Canni
+#GENRE:Rock
+#YEAR:1988
+#LANGUAGE:English
+#BPM:236.82
+#GAP:58490
+#VIDEO:a=uCVY4Zu_kqk,co=rising-force-55463b3787ee4.jpg,bg=malmsteen-yngwie-j-61103a70a30e4.jpg
+: 0 5 4 Out 
+: 6 4 5 of 
+: 11 3 7 the 
+: 15 5 9 dark
+: 21 5 7 ness 
+: 27 4 5 the 
+: 32 5 7 voi
+: 38 4 5 ces 
+: 43 4 4 are 
+: 48 4 5 cal
+: 53 5 4 ling 
+- 60
+: 62 6 4 Ri
+: 69 5 5 ding 
+: 75 3 7 the 
+: 79 6 9 wings 
+: 86 3 7 of 
+: 90 1 9 a 
+: 92 23 11 song 
+- 117
+: 122 2 4 The 
+: 125 4 4 fu
+: 130 6 5 ry 
+: 137 4 7 is 
+: 142 6 9 screa
+: 149 5 7 ming 
+: 155 3 5 and 
+: 159 4 7 Hea
+: 164 4 5 ven 
+: 169 4 4 is 
+: 174 6 5 fal
+: 181 5 4 ling 
+- 188
+: 189 5 4 I 
+: 195 6 5 feel 
+: 202 4 7 it 
+: 207 5 9 co
+: 213 3 7 ming 
+: 217 5 14 on 
+: 223 21 11 strong. 
+- 246
+: 253 5 12 The 
+: 259 5 11 light
+: 265 2 9 ning 
+: 268 14 5 strikes 
+: 283 10 11 crac
+: 294 3 9 king 
+: 298 2 7 the 
+: 301 13 7 night 
+- 316
+: 320 5 9 It 
+: 326 3 7 feels 
+: 330 3 4 like 
+: 334 4 3 ne
+: 339 6 4 ver 
+: 346 2 5 be
+: 349 28 7 fore 
+- 379
+: 384 4 12 Thun
+: 389 2 12 der 
+: 392 1 12 and 
+: 394 15 12 sparks 
+: 410 1 9 in 
+: 412 2 9 the 
+: 415 6 11 heart 
+: 422 3 12 of 
+: 426 1 11 the 
+: 428 14 9 dark 
+- 444
+: 449 4 9 I 
+: 454 3 7 hear 
+: 458 3 4 a 
+: 462 7 3 ri
+: 470 4 3 sing 
+: 476 15 4 force. 
+- 493
+: 505 5 4 Sear
+: 511 2 5 chi
+: 514 3 7 ~ng 
+: 518 2 9 my 
+: 521 12 7 soul 
+: 534 1 5 I 
+: 536 6 7 find 
+: 543 4 5 some
+: 548 1 4 thi
+: 550 3 5 ~ng 
+: 554 9 4 else 
+- 565
+: 569 5 4 I 
+: 575 5 5 take 
+: 581 4 7 my 
+: 586 6 9 life 
+: 593 4 7 in 
+: 598 4 9 my 
+: 603 24 11 hands 
+- 628
+: 629 4 4 From 
+: 634 4 4 the 
+: 639 6 5 gates 
+: 646 4 7 of 
+: 651 5 9 Hea
+: 657 4 7 ven 
+: 662 2 5 to 
+: 665 1 7 the 
+: 667 4 5 al
+: 672 4 4 tars 
+: 677 4 5 of 
+: 682 8 4 Hell 
+- 692
+: 693 2 4 The 
+: 696 14 5 power 
+: 711 3 7 is 
+: 715 3 9 at 
+: 719 6 7 my 
+: 726 3 14 com
+: 730 19 11 mand. 
+- 751
+: 761 4 12 The 
+: 766 5 11 light
+: 772 3 9 ning 
+: 776 13 5 strikes 
+: 790 12 11 crac
+: 803 1 9 king 
+: 805 1 7 the 
+: 807 15 7 night 
+- 824
+: 828 4 9 It 
+: 833 4 7 feels 
+: 838 3 4 like 
+: 842 5 3 ne
+: 848 6 4 ver 
+: 855 2 5 be
+: 858 25 7 fore 
+- 885
+: 893 3 12 Thun
+: 897 2 12 der 
+: 900 1 12 and 
+: 902 11 12 spark 
+: 916 2 9 in 
+: 919 2 9 the 
+: 923 6 11 heart 
+: 930 3 12 of 
+: 934 1 11 the 
+: 936 16 9 dark 
+- 954
+: 957 2 9 I 
+: 960 4 7 feel 
+: 965 3 4 a 
+: 969 9 3 ri
+: 979 5 3 sing 
+: 985 15 4 force. 
+- 1002
+: 1007 7 9 Uhhhh 
+- 1016
+: 2185 6 4 Burned 
+: 2192 5 5 by 
+: 2198 3 7 the 
+: 2202 5 9 glo
+: 2208 5 7 ry 
+: 2214 3 5 of 
+: 2218 4 7 a 
+: 2223 4 5 sa
+: 2228 4 4 cred 
+: 2233 4 5 fi
+: 2238 4 4 re 
+- 2244
+: 2252 3 4 A 
+: 2256 6 5 ri
+: 2263 3 7 sing 
+: 2267 4 9 force 
+: 2272 5 7 starts 
+: 2278 2 9 to 
+: 2281 24 11 shine 
+- 2307
+: 2312 8 4 Alone 
+: 2321 2 4 in 
+: 2324 2 5 the 
+: 2327 3 7 in
+: 2331 6 9 fer
+: 2338 4 7 no 
+: 2343 3 5 it 
+: 2347 9 7 soars 
+: 2357 2 5 e
+: 2360 1 4 ver 
+: 2362 5 5 high
+: 2368 4 4 er 
+- 2374
+: 2384 5 4 Lea
+: 2390 3 5 ving 
+: 2394 2 7 the 
+: 2397 4 9 de
+: 2402 3 7 mons 
+: 2406 3 14 be
+: 2410 26 11 hind. 
+- 2438
+: 2446 4 12 The 
+: 2451 5 11 light
+: 2457 3 9 ning 
+: 2461 11 5 strikes 
+: 2478 7 11 crac
+: 2486 4 9 king 
+: 2491 1 7 the 
+: 2493 13 7 night 
+- 2508
+: 2515 3 9 It 
+: 2519 4 7 feels 
+: 2524 3 4 like 
+: 2528 3 3 ne
+: 2532 7 4 ver 
+: 2540 3 5 be
+: 2544 21 7 fore 
+- 2567
+: 2580 4 12 Thun
+: 2585 1 12 der 
+: 2587 2 12 and 
+: 2590 11 12 sparks 
+: 2605 1 9 in 
+: 2607 2 9 the 
+: 2610 8 11 heart 
+: 2619 2 12 of 
+: 2622 1 11 the 
+: 2624 18 9 dark 
+- 2644
+: 2647 3 9 I 
+: 2651 4 7 hear 
+: 2656 2 4 a 
+: 2659 7 3 ri
+: 2667 7 3 sing 
+: 2675 12 7 force. 
+- 2689
+: 2708 4 12 The 
+: 2713 4 11 light
+: 2718 3 9 ning 
+: 2722 13 5 strikes 
+: 2740 7 11 crac
+: 2748 4 9 king 
+: 2753 2 7 the 
+: 2756 14 7 night 
+- 2772
+: 2777 3 9 I’m 
+: 2781 3 7 not 
+: 2785 1 4 the 
+: 2787 11 3 same 
+: 2799 3 4 any
+: 2803 8 5 mo
+: 2812 22 7 ~re 
+- 2836
+: 2842 3 12 Thun
+: 2846 2 12 der 
+: 2849 2 12 and 
+: 2852 12 12 spark 
+: 2865 1 9 in 
+: 2867 2 9 the 
+: 2871 7 11 heart 
+: 2879 2 12 of 
+: 2882 2 11 the 
+: 2885 17 9 dark 
+- 2904
+: 2906 4 9 I 
+: 2911 3 7 feel 
+: 2915 2 4 a 
+: 2918 8 3 ri
+: 2927 6 3 sing 
+: 2934 15 4 force 
+- 2951
+: 2958 4 9 Uhhhh! 
+E

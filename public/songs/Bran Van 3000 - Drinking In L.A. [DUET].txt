@@ -1,0 +1,632 @@
+#ARTIST:Bran Van 3000
+#TITLE:Drinking In L.A. [DUET]
+#MP3:Bran Van 3000 - Drinking In L.A. [DUET].mp3
+#CREATOR:dcxx83
+#EDITION:[DUET]-Songs
+#YEAR:1997
+#LANGUAGE:English
+#BPM:389.26
+#GAP:1860
+#VIDEO:v=OQsQZvsR_QI,co=https://ksassets.timeincuk.net/wp/uploads/sites/55/2012/04/35BranVan3000DrinkingInLA600Gb210911-2.jpg,co-crop=26-0-634-600,co-resize=600,bg=https://upload.wikimedia.org/wikipedia/commons/e/ee/BranVan3000_2008_Montreal.jpg,p1=Maraille,p2=James Di Salvio
+P1
+F 0 2 0 Hi, 
+F 9 3 0 my 
+F 14 2 0 name 
+F 20 2 0 is 
+F 26 2 0 Ste
+F 29 1 0 re
+F 32 1 0 o 
+F 36 3 0 Mike 
+- 41
+: 1705 3 10 But 
+: 1714 3 12 we 
+: 1720 3 14 did 
+: 1728 5 15 no
+: 1737 20 14 thin’ 
+- 1759
+: 1778 3 10 Ab
+: 1783 3 10 so
+: 1787 4 12 lute
+: 1792 4 14 ly 
+: 1802 6 15 no
+: 1812 6 14 thin’ 
+: 1823 5 15 that 
+: 1831 9 14 day 
+- 1842
+: 1846 1 14 And 
+: 1851 1 15 I’ll 
+: 1858 12 14 say 
+- 1872
+* 1877 5 17 What 
+* 1886 5 17 the 
+* 1895 7 17 hell 
+* 1904 5 17 am 
+* 1913 7 17 I 
+: 1932 5 15 do
+: 1940 5 15 in’ 
+: 1949 5 14 drin
+: 1958 5 14 kin’ 
+: 1968 4 14 in 
+: 1974 4 12 L.
+: 1982 7 14 A. 
+- 1991
+: 1994 4 10 At 
+: 2004 4 12 twen
+: 2010 4 14 ty 
+* 2018 6 15 si
+* 2028 22 14 ~x? 
+- 2052
+: 2141 5 10 I 
+: 2149 5 12 got 
+: 2158 5 14 the 
+: 2167 5 17 fe
+: 2176 5 17 ver 
+: 2185 4 17 for 
+: 2193 4 17 the 
+: 2203 4 17 fla
+: 2211 6 15 vour 
+- 2219
+: 2232 4 15 The 
+: 2239 5 14 pay
+: 2249 5 14 back 
+: 2259 3 14 will 
+: 2263 4 12 be 
+: 2270 5 14 la
+: 2281 1 14 ter 
+- 2283
+: 2285 3 10 Still 
+: 2290 3 10 I 
+: 2296 3 12 need 
+: 2300 2 14 a 
+: 2308 6 15 fi
+: 2317 20 14 ~x 
+- 2339
+: 2867 4 10 But 
+: 2876 3 12 we 
+: 2881 4 14 did 
+: 2890 5 15 no
+: 2898 15 14 thin’ 
+- 2915
+: 2938 4 10 Ab
+: 2943 3 10 so
+: 2947 5 12 lute
+: 2953 3 14 ly 
+* 2960 6 15 bup
+* 2973 6 14 kis 
+: 2982 4 15 that 
+: 2992 5 14 day 
+- 2999
+: 3010 2 14 And 
+: 3013 2 15 I’ll 
+: 3020 6 14 say 
+- 3028
+: 3039 5 17 What 
+: 3047 4 17 the 
+: 3056 4 17 hell 
+: 3065 4 17 am 
+: 3075 5 17 I 
+: 3092 5 15 do
+: 3100 5 15 ing 
+: 3109 5 14 drin
+: 3117 5 14 king 
+: 3128 4 14 in 
+: 3134 5 12 L.
+: 3142 4 14 A. 
+- 3148
+: 3155 4 10 At 
+: 3164 4 12 twen
+: 3170 4 14 ty 
+: 3177 4 15 si
+: 3186 22 14 ~x? 
+- 3210
+: 3304 4 10 I 
+: 3311 3 12 know 
+: 3318 4 14 that 
+* 3326 4 17 life 
+* 3335 4 17 is 
+* 3343 4 17 for 
+* 3353 4 17 the 
+* 3361 4 17 ta
+* 3373 6 15 kin’ 
+- 3381
+: 3383 2 15 So 
+: 3389 2 14 I’d 
+: 3392 1 14 bet
+: 3394 2 14 ter 
+: 3400 4 12 wise 
+: 3416 5 14 up 
+- 3423
+: 3443 3 10 And 
+: 3451 3 12 take 
+: 3456 3 14 it 
+: 3465 3 15 quick
+: 3472 15 14 ly 
+- 3489
+: 4024 3 10 We’ve 
+: 4031 2 10 got 
+: 4036 1 12 a 
+: 4040 2 14 con
+: 4049 2 15 clu
+: 4057 15 14 sion 
+- 4074
+: 4097 1 10 And 
+: 4099 3 10 I 
+: 4103 3 12 guess 
+: 4111 4 14 that’s 
+: 4120 5 15 some
+: 4130 8 14 thin’ 
+- 4140
+: 4169 2 14 So 
+: 4172 3 14 I 
+* 4178 3 19 ask 
+* 4185 4 17 you 
+- 4191
+* 4196 6 19 What 
+* 4204 6 17 the 
+* 4213 6 19 hell 
+* 4222 7 10 am 
+* 4231 7 10 I 
+: 4248 6 10 do
+: 4257 6 10 in’ 
+: 4267 6 14 drin
+: 4276 6 14 kin’ 
+: 4285 5 14 in 
+: 4291 6 12 L.
+: 4299 8 14 A. 
+- 4309
+: 4312 4 10 At 
+: 4321 4 12 twen
+: 4327 4 14 ty 
+: 4335 4 15 si
+: 4344 22 14 ~x? 
+- 4368
+: 4459 5 10 I 
+: 4466 5 12 got 
+: 4474 5 14 the 
+: 4483 7 17 fe
+: 4493 4 17 ver 
+: 4503 5 17 for 
+: 4511 4 17 the 
+: 4521 5 17 nec
+: 4529 6 15 tar 
+- 4537
+: 4548 5 15 The 
+: 4557 5 14 pay
+: 4564 4 14 back 
+: 4574 5 14 will 
+: 4582 5 12 be 
+: 4589 4 14 la
+: 4597 3 14 ter 
+- 4601
+: 4603 2 10 Still 
+: 4606 3 10 I 
+: 4611 3 12 need 
+: 4616 4 14 a 
+* 4625 5 15 fi
+* 4635 18 14 ~x 
+- 4655
+: 4772 3 10 L.
+: 4788 15 14 A. 
+- 4805
+: 4818 2 10 L.
+: 4825 11 14 A. 
+- 4838
+: 4844 4 10 L.
+: 4852 4 10 L.
+: 4860 13 14 A. 
+- 4875
+: 4888 4 10 L.
+: 4894 17 5 A. 
+- 4913
+* 4916 4 10 L.
+* 4932 17 14 A. 
+- 4951
+: 4961 3 10 L.
+: 4972 14 14 A. 
+- 4987
+* 4989 4 10 L.
+* 4997 4 10 L.
+* 5006 17 14 A. 
+- 5025
+: 5036 4 10 L.
+: 5042 13 5 A. 
+- 5057
+: 5063 5 10 L.
+: 5079 18 14 A. 
+- 5099
+: 5107 3 10 L.
+: 5115 16 14 A. 
+- 5132
+: 5134 4 10 L.
+: 5143 4 10 L.
+: 5152 12 14 A. 
+- 5166
+: 5179 3 14 So 
+: 5183 3 14 I 
+: 5189 3 19 ask 
+: 5197 5 17 you 
+- 5204
+: 5207 6 19 What 
+: 5217 6 17 the 
+: 5226 6 19 hell 
+: 5236 7 10 am 
+: 5246 6 10 I 
+: 5265 6 10 do
+: 5273 6 10 in’ 
+: 5282 8 14 drin
+: 5291 6 14 kin’ 
+: 5301 5 14 in 
+: 5307 4 12 L.
+: 5315 8 4 A. 
+- 5325
+: 5328 4 10 At 
+: 5337 4 12 twen
+: 5343 4 14 ty 
+: 5351 4 15 si
+: 5359 28 14 ~x? 
+P2
+F 268 1 0 Yeah, 
+F 270 2 0 we 
+F 274 2 0 got 
+F 277 2 0 three 
+F 280 1 0 tic
+F 282 2 0 kets 
+- 286
+F 288 2 0 To 
+F 294 2 0 the 
+F 299 2 0 Bran 
+F 303 2 0 Van 
+F 308 2 0 con
+F 312 2 0 cert 
+F 320 2 0 happening 
+F 324 2 0 this 
+F 328 2 0 Monday 
+F 335 1 0 night 
+- 337
+F 337 1 0 At 
+F 340 2 0 the 
+F 343 2 0 Pa
+F 347 2 0 ci
+F 351 2 0 fic 
+F 355 2 0 Pal
+F 358 1 0 li
+F 360 2 0 sades 
+- 364
+F 381 2 0 You 
+F 384 2 0 can 
+F 388 2 0 all 
+F 391 2 0 dial 
+F 395 2 0 in 
+F 398 2 0 if 
+F 408 2 0 you 
+F 420 2 0 want 
+F 424 1 0 to 
+F 428 1 0 an
+F 431 2 0 swer 
+- 434
+F 436 1 0 A 
+F 438 2 0 cou
+F 442 1 0 ple 
+F 445 2 0 of 
+F 449 1 0 ques
+F 451 2 0 tions, 
+F 476 1 0 name
+F 478 1 0 ly 
+- 480
+F 482 1 0 What 
+F 486 2 0 is 
+F 489 1 0 Todd’s 
+F 493 2 0 fa
+F 503 2 0 vou
+F 511 2 0 rite 
+F 519 12 0 cheese? 
+- 533
+F 552 2 0 Jac
+F 559 2 0 kie 
+F 563 1 0 just 
+F 566 2 0 called 
+F 573 2 0 up 
+F 577 1 0 and 
+F 583 2 0 said 
+F 588 2 0 it 
+F 593 2 0 was 
+F 597 1 0 a 
+F 601 1 0 form 
+F 604 1 0 of 
+F 607 1 0 Roque
+F 611 1 0 fort 
+- 614
+F 635 1 0 We’ll 
+F 639 2 0 see 
+F 644 1 0 a
+F 647 1 0 bout 
+F 655 1 0 that 
+- 658
+F 676 2 0 Give 
+F 679 1 0 us 
+F 687 1 0 a 
+F 689 1 0 ring-
+F 691 1 0 ding-
+F 693 1 0 ding! 
+F 713 2 0 It’s 
+F 718 2 0 a 
+F 722 1 0 beau
+F 726 1 0 ti
+F 729 1 0 ful 
+F 734 2 0 day 
+- 738
+F 936 2 0 Yeah 
+F 941 1 0 Todd, 
+F 944 2 0 this 
+F 949 1 0 is 
+F 952 2 0 Li
+F 962 1 0 quid 
+F 967 2 0 ring-
+F 971 2 0 a-
+F 975 2 0 ding-
+F 979 1 0 a-
+F 983 1 0 ding
+F 999 2 0 ing 
+- 1003
+F 1008 2 0 I 
+F 1012 1 0 want 
+F 1016 1 0 those 
+F 1020 2 0 three 
+F 1025 2 0 Bran 
+F 1028 3 0 Van 
+F 1037 2 0 tic
+F 1040 3 0 kets 
+F 1052 2 0 man 
+- 1056
+F 1114 2 0 Wadd
+F 1118 1 0 ya 
+F 1122 1 0 think? 
+- 1125
+F 1182 3 0 Todd, 
+F 1192 2 0 you 
+F 1196 1 0 there? 
+- 1199
+F 1289 1 0 I 
+F 1293 1 0 woke 
+F 1297 2 0 up 
+F 1304 1 0 a
+F 1307 2 0 gain 
+F 1313 1 0 this 
+F 1317 1 0 mor
+F 1321 1 0 nin’ 
+F 1325 1 0 with 
+F 1330 1 0 the 
+F 1334 1 0 sun 
+F 1339 1 0 in 
+F 1343 1 0 my 
+F 1351 5 0 eyes 
+- 1358
+F 1362 1 0 When 
+F 1367 1 0 Mike 
+F 1379 2 0 came 
+F 1388 1 0 o
+F 1393 1 0 ver 
+F 1398 1 0 with 
+F 1403 1 0 a 
+F 1407 1 0 script 
+F 1419 4 0 sur
+F 1424 7 0 prise 
+- 1433
+F 1445 1 0 A 
+F 1448 1 0 ma
+F 1451 2 0 fi
+F 1456 1 0 o
+F 1462 1 0 so 
+F 1471 2 0 story 
+F 1476 2 0 with 
+F 1483 1 0 a 
+F 1485 3 0 twist 
+- 1490
+F 1517 1 0 A 
+F 1521 2 0 “To 
+F 1528 2 0 Wong 
+F 1538 2 0 Foo, 
+F 1544 1 0 Ju
+F 1548 1 0 lie 
+F 1553 1 0 New
+F 1557 1 0 mar” 
+F 1569 5 0 hitch 
+- 1576
+F 1579 2 0 “Get 
+F 1585 2 0 your 
+F 1591 3 0 ass 
+F 1602 2 0 out 
+F 1607 1 0 of 
+F 1611 1 0 bed”, 
+F 1621 1 0 he 
+F 1626 4 0 said 
+- 1632
+F 1635 2 0 “I’ll 
+F 1640 1 0 ex
+F 1645 1 0 plain 
+F 1647 2 0 it 
+F 1652 1 0 on 
+F 1658 2 0 the 
+F 1662 2 0 way” 
+- 1666
+F 2452 1 0 And 
+F 2456 1 0 the 
+F 2459 2 0 girls 
+F 2466 1 0 on 
+F 2471 1 0 the 
+F 2475 1 0 bus 
+F 2483 2 0 kept 
+F 2488 1 0 on 
+F 2493 1 0 lau
+F 2497 1 0 ghin’ 
+F 2503 1 0 at 
+F 2508 3 0 us 
+- 2513
+F 2520 2 0 As 
+F 2526 1 0 we 
+F 2530 1 0 rode 
+F 2540 2 0 on 
+F 2547 2 0 the 
+F 2554 2 0 ten 
+F 2559 1 0 down 
+F 2562 1 0 to 
+F 2567 1 0 Ve
+F 2570 2 0 nice 
+F 2575 1 0 a
+F 2580 2 0 gain 
+- 2584
+F 2601 2 0 Fla
+F 2607 1 0 rin’ 
+F 2611 1 0 out 
+F 2615 1 0 the 
+F 2620 1 0 G-
+F 2628 2 0 funk 
+- 2632
+F 2638 2 0 Sip
+F 2644 1 0 pin’ 
+F 2648 1 0 on 
+F 2655 3 0 juice 
+F 2662 3 0 and 
+F 2675 4 0 gin 
+- 2681
+F 2702 2 0 Just 
+F 2708 2 0 me 
+F 2717 1 0 and 
+F 2719 1 0 a 
+F 2729 5 0 friend 
+- 2736
+F 2750 1 0 Fee
+F 2755 1 0 ling 
+F 2760 1 0 kind
+F 2764 1 0 a 
+F 2768 1 0 groo
+F 2777 1 0 vy 
+- 2780
+F 2790 1 0 Wor
+F 2794 1 0 kin’ 
+F 2798 1 0 on 
+F 2801 1 0 a 
+F 2806 1 0 mo
+F 2812 2 0 vie 
+- 2816
+F 2830 2 0 Yeah 
+F 2839 8 0 right! 
+- 2849
+F 3219 1 0 With 
+F 3223 1 0 my 
+F 3226 1 0 mind 
+F 3231 2 0 on 
+F 3237 1 0 my 
+F 3241 1 0 mo
+F 3245 1 0 ney 
+F 3247 1 0 and 
+F 3251 1 0 my 
+F 3256 1 0 mo
+F 3262 2 0 ney 
+F 3268 2 0 on 
+F 3274 2 0 mind, 
+F 3287 2 0 beer 
+F 3299 5 0 beer! 
+- 3306
+F 3520 2 0 Yeah 
+F 3524 2 0 one 
+F 3530 2 0 more 
+F 3534 2 0 time 
+F 3543 2 0 at 
+F 3548 2 0 Tra
+F 3553 2 0 der 
+F 3557 2 0 Vics 
+- 3561
+F 3608 1 0 Some 
+F 3613 1 0 men 
+F 3616 1 0 there 
+F 3624 2 0 wan
+F 3633 2 0 ted 
+F 3639 1 0 to 
+F 3644 1 0 hurt 
+F 3651 6 0 us 
+- 3659
+F 3683 1 0 And 
+F 3688 1 0 o
+F 3690 2 0 ther 
+F 3694 2 0 men 
+- 3698
+F 3718 2 0 Said 
+F 3724 1 0 we 
+F 3728 1 0 weren’t 
+F 3732 1 0 worth 
+F 3738 1 0 the 
+F 3741 7 0 fuss 
+- 3749
+F 3749 1 0 We 
+F 3751 1 0 could 
+F 3760 2 0 see 
+F 3767 2 0 them 
+F 3772 1 0 all 
+F 3778 1 0 bit
+F 3785 2 0 chin’ 
+F 3790 1 0 by 
+F 3796 1 0 the 
+F 3801 2 0 bar 
+- 3805
+F 3824 1 0 A
+F 3829 1 0 bout 
+F 3833 1 0 the 
+F 3835 2 0 fine 
+F 3844 2 0 line 
+- 3848
+F 3859 2 0 Be
+F 3863 2 0 tween 
+F 3868 2 0 the 
+F 3875 2 0 rich 
+F 3880 1 0 and 
+F 3886 1 0 the 
+F 3890 5 0 poor 
+- 3897
+F 3913 1 0 Then 
+F 3915 1 0 Mike 
+F 3925 1 0 turned 
+F 3930 1 0 to 
+F 3938 2 0 me 
+F 3944 1 0 and 
+F 3947 2 0 said 
+- 3951
+F 3953 2 0 What 
+F 3959 1 0 do 
+F 3961 1 0 you 
+F 3966 1 0 think 
+F 3969 2 0 we 
+F 3974 1 0 got 
+F 3976 2 0 done 
+F 3984 9 0 son? 
+- 3995
+F 4656 1 0 We 
+F 4658 2 0 need 
+F 4661 1 0 to 
+F 4666 1 0 fix 
+F 4669 2 0 you 
+F 4675 1 0 up 
+- 4678
+F 4693 2 0 Call 
+F 4700 1 0 me 
+F 4703 2 0 Mon
+F 4710 1 0 day 
+- 4712
+F 4712 1 0 And 
+F 4717 1 0 may
+F 4720 2 0 be 
+F 4726 1 0 we’ll 
+F 4736 2 0 fix 
+F 4743 1 0 it 
+F 4745 1 0 all 
+F 4751 3 0 up 
+- 4756
+F 5833 3 0 L.
+F 5841 2 0 A. 
+- 5845
+F 5986 2 0 L.
+F 5993 1 0 A. 
+- 5996
+F 6050 2 0 L.
+F 6057 2 0 A. 
+E

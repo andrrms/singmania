@@ -1,0 +1,414 @@
+#ARTIST:Albert Hammond
+#TITLE:Down By The River
+#MP3:Albert Hammond - Down By The River.mp3
+#CREATOR:MasterChristian
+#YEAR:1972
+#LANGUAGE:English
+#BPM:395.8
+#GAP:15120
+#VIDEO:v=3IfcMoMslxM,co=https://i.discogs.com/DqapyuIi-aXAc0MNFp2fwHPAV9V1WyvgA3EdL_5CaBo/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTYy/NzEtMTQzNDk4NjA3/My05OTA2LmpwZWc.jpeg,co-crop=0-4-578-578,bg=hammond-albert-5c346995b968d.jpg
+: 0 4 2 Ci
+: 6 6 2 ty 
+: 14 10 5 life 
+: 26 4 5 was 
+: 32 4 5 get
+: 38 2 3 tin’ 
+: 42 4 3 us 
+: 48 8 3 down 
+- 57
+: 58 4 3 So 
+: 64 6 2 we 
+: 72 6 0 spent 
+: 80 2 0 the 
+: 84 6 3 week
+: 92 6 3 end 
+: 100 6 3 out 
+: 108 2 2 of 
+: 112 14 2 town 
+- 128
+: 132 6 -2 Pitched 
+: 140 2 -2 the 
+: 144 10 2 tent 
+: 156 2 2 on 
+: 160 2 2 the 
+: 164 6 2 patch 
+: 172 4 0 of 
+: 178 18 3 ground 
+- 198
+: 204 6 0 Down 
+: 212 6 0 by 
+: 220 4 0 the 
+: 226 4 0 ri
+: 232 6 -2 ver 
+- 240
+: 258 4 2 Lit 
+: 264 6 2 a 
+: 272 10 5 fire 
+: 284 4 5 and 
+: 290 8 5 drank 
+: 300 4 3 some 
+: 306 12 3 wine 
+- 319
+: 320 4 3 You 
+: 326 4 2 put 
+: 332 4 0 your 
+: 338 8 0 jeans 
+: 348 6 3 on 
+: 356 4 3 top 
+: 362 2 2 of 
+: 366 14 2 mine 
+- 382
+: 388 6 -2 Said, 
+: 396 4 -2 come 
+: 402 8 2 in 
+: 412 4 2 the 
+: 418 4 2 wa
+: 424 8 0 ter’s 
+* 434 18 3 fine 
+- 454
+: 460 6 0 Down 
+: 468 8 0 by 
+: 478 2 0 the 
+: 482 6 0 ri
+: 490 8 -2 ver 
+- 500
+: 516 14 3 Down 
+: 532 6 5 by 
+: 540 4 7 the 
+: 546 4 5 ri
+: 552 8 3 ver 
+- 562
+: 580 14 0 Down 
+: 596 8 3 by 
+: 606 2 5 the 
+: 610 6 3 ri
+: 618 6 2 ver 
+- 626
+: 644 8 -2 Said, 
+: 654 4 -2 come 
+: 660 8 2 in 
+: 670 4 2 the 
+: 676 4 2 wa
+: 682 6 0 ter’s 
+: 690 18 3 fine 
+- 710
+: 718 6 0 Down 
+: 726 6 0 by 
+: 734 2 0 the 
+: 738 6 0 ri
+: 746 12 -2 ver 
+- 760
+: 838 2 2 Di
+: 842 6 2 dn’t 
+: 850 12 5 feel 
+: 864 4 5 to 
+: 870 4 5 good 
+: 876 4 3 all 
+: 882 10 3 night 
+- 893
+: 894 4 3 So 
+: 900 2 2 we 
+: 904 4 0 took 
+: 910 4 0 a 
+: 916 8 3 walk 
+: 926 2 3 in 
+: 930 2 3 the 
+: 934 4 3 mor
+: 940 4 2 ning 
+: 946 14 2 light 
+- 962
+: 966 4 -2 Came 
+: 972 4 -2 a
+: 978 10 2 cross 
+: 990 6 2 the 
+: 998 6 2 stran
+: 1006 4 0 gest 
+: 1012 16 3 sight 
+- 1030
+: 1038 6 0 Down 
+: 1046 6 0 by 
+: 1054 2 0 the 
+: 1058 6 0 ri
+: 1066 6 -2 ver 
+- 1074
+: 1092 4 2 Sil
+: 1098 6 2 ver 
+: 1106 10 5 fish 
+: 1118 6 5 lay 
+: 1126 4 5 on 
+: 1132 4 3 its 
+: 1138 8 3 side 
+- 1147
+: 1148 2 3 It 
+: 1152 4 2 was 
+: 1158 6 0 washed 
+: 1166 6 0 up 
+: 1174 6 3 by 
+: 1182 4 3 the 
+: 1188 4 3 ear
+: 1194 4 2 ly 
+: 1200 12 2 tide 
+- 1214
+: 1234 2 0 I 
+: 1238 6 2 won
+: 1246 4 0 der 
+: 1252 4 2 how 
+: 1258 4 0 it 
+: 1264 24 3 died 
+- 1290
+: 1294 6 0 Down 
+: 1302 6 0 by 
+: 1310 2 0 the 
+: 1314 6 0 ri
+: 1322 8 -2 ver 
+- 1332
+: 1350 14 3 Down 
+: 1366 6 5 by 
+: 1374 2 7 the 
+: 1378 6 5 ri
+: 1386 8 3 ver 
+- 1396
+: 1414 14 0 Down 
+: 1430 6 3 by 
+: 1438 4 5 the 
+: 1444 6 3 ri
+: 1452 8 2 ver 
+- 1462
+: 1478 6 -2 Sil
+: 1486 4 -2 ver 
+: 1492 10 2 fish 
+: 1504 6 2 lay 
+: 1512 4 2 on 
+: 1518 4 0 its 
+: 1524 16 3 side 
+- 1542
+: 1550 6 0 Down 
+: 1558 8 0 by 
+: 1568 2 0 the 
+: 1572 6 0 ri
+: 1580 6 -2 ver 
+- 1588
+: 1666 2 2 The 
+: 1670 6 2 doc
+: 1678 6 2 tor 
+: 1686 4 5 put 
+: 1692 4 5 us 
+: 1698 8 5 both 
+: 1708 4 3 to 
+: 1714 8 3 bed 
+- 1724
+: 1730 2 3 He 
+: 1734 6 2 dosed 
+: 1742 4 0 us 
+: 1748 4 0 up 
+: 1754 4 3 and 
+: 1760 4 3 he 
+: 1766 4 3 shook 
+: 1772 4 2 his 
+: 1778 8 2 head 
+- 1788
+: 1790 4 -2 On
+: 1796 6 -2 ly 
+: 1804 4 2 foo
+: 1810 4 2 lish 
+: 1816 4 2 peo
+: 1822 4 2 ple 
+: 1828 4 2 go, 
+: 1834 6 0 he 
+: 1842 16 3 said 
+- 1860
+: 1868 8 0 Down 
+: 1878 6 0 by 
+: 1886 2 0 the 
+: 1890 6 0 ri
+: 1898 6 -2 ver 
+- 1906
+: 1922 2 2 And 
+: 1926 6 2 why 
+: 1934 4 2 do 
+: 1940 4 5 wil
+: 1946 12 5 lows 
+: 1960 4 5 weep, 
+: 1966 4 3 said 
+: 1972 8 3 he 
+- 1982
+: 1988 2 3 Be
+: 1992 4 2 cause 
+: 1998 4 0 they’re 
+: 2004 6 0 dy
+: 2012 8 3 ing 
+: 2022 6 3 gra
+: 2030 4 2 dual
+: 2036 4 2 ly 
+- 2042
+: 2044 4 -2 From 
+: 2050 4 -2 the 
+: 2056 8 2 waste, 
+: 2072 4 2 from 
+: 2078 4 2 the 
+: 2084 4 2 fac
+: 2090 4 0 to
+: 2096 20 3 ries 
+- 2118
+: 2126 6 0 Down 
+: 2134 8 0 by 
+: 2144 2 0 the 
+: 2148 6 0 ri
+: 2156 6 -2 ver 
+- 2164
+* 2182 14 3 Down 
+* 2198 6 5 by 
+* 2206 4 7 the 
+* 2212 4 5 ri
+* 2218 8 3 ver 
+- 2228
+: 2246 14 0 Down 
+: 2262 6 3 by 
+: 2270 4 5 the 
+: 2276 6 3 ri
+: 2284 8 2 ver 
+- 2294
+: 2310 6 -2 Why 
+: 2318 4 -2 do 
+: 2324 6 2 wil
+: 2332 8 2 lows 
+: 2342 6 2 weep, 
+: 2350 4 0 said 
+: 2356 14 3 he 
+- 2372
+: 2382 6 0 Down 
+: 2390 6 0 by 
+: 2398 4 0 the 
+: 2404 4 0 ri
+: 2410 10 -2 ver 
+- 2422
+: 2490 2 2 And 
+: 2494 4 2 in 
+: 2500 10 2 time, 
+: 2512 2 5 the 
+: 2516 4 5 ri
+: 2522 4 5 ver 
+: 2528 10 5 banks 
+: 2540 4 3 will 
+: 2546 12 3 die 
+- 2559
+: 2560 2 3 The 
+: 2564 6 2 reeds 
+: 2572 4 0 will 
+: 2578 4 0 wilt 
+: 2584 2 3 and 
+: 2588 2 3 the 
+: 2592 8 3 ducks 
+: 2602 8 2 won’t 
+: 2612 14 2 fly 
+- 2628
+: 2632 2 -2 There’ll 
+: 2636 2 -2 be 
+: 2640 2 2 a 
+: 2644 4 2 tear 
+: 2650 4 2 in 
+: 2656 4 2 the 
+: 2662 2 2 ot
+: 2666 6 0 ter’s 
+: 2674 18 3 eye 
+- 2694
+: 2700 6 0 Down 
+: 2708 6 0 by 
+: 2716 2 0 the 
+: 2720 6 0 ri
+: 2728 8 -2 ver 
+- 2738
+: 2752 2 2 The 
+: 2756 6 2 banks 
+: 2764 6 5 will 
+: 2772 6 5 soon 
+: 2780 4 5 be 
+: 2786 6 5 black 
+: 2794 4 3 and 
+: 2800 16 3 dead 
+- 2817
+: 2818 2 3 And 
+: 2822 4 2 where 
+: 2828 4 0 the 
+: 2834 8 0 ot
+: 2844 2 3 ter 
+: 2848 10 3 raised 
+: 2860 4 2 his 
+: 2866 8 2 head 
+- 2876
+: 2880 4 -2 Will 
+: 2886 2 2 be 
+: 2890 4 2 a 
+: 2896 8 2 clean 
+: 2906 8 2 white 
+: 2916 4 2 stone 
+: 2922 6 0 in
+* 2930 16 3 stead 
+- 2948
+: 2956 6 0 Down 
+: 2964 6 0 by 
+: 2972 2 0 the 
+: 2976 6 0 ri
+: 2984 6 -2 ver 
+- 2992
+: 3010 14 3 Down 
+: 3026 6 5 by 
+* 3034 2 7 the 
+: 3038 6 5 ri
+: 3046 8 3 ver 
+- 3056
+: 3074 14 0 Down 
+: 3090 6 3 by 
+: 3098 2 5 the 
+: 3102 6 3 ri
+: 3110 12 2 ver 
+- 3124
+: 3134 2 2 The 
+: 3138 6 2 banks 
+* 3146 6 5 will 
+* 3154 6 5 soon 
+* 3162 4 5 be 
+* 3168 6 5 black 
+: 3176 4 3 and 
+: 3182 16 3 dead 
+- 3200
+: 3210 6 0 Down 
+: 3218 6 0 by 
+: 3226 2 0 the 
+: 3230 6 0 ri
+* 3238 8 -2 ver 
+- 3248
+: 3266 14 3 Down 
+: 3282 6 5 by 
+: 3290 2 7 the 
+: 3294 6 5 ri
+: 3302 6 3 ver 
+- 3310
+: 3330 14 0 Down 
+: 3346 6 3 by 
+: 3354 4 5 the 
+: 3360 4 3 ri
+: 3366 14 2 ver 
+- 3382
+: 3390 2 2 The 
+: 3394 6 2 banks 
+: 3402 6 5 will 
+: 3410 6 5 soon 
+: 3418 4 5 be 
+: 3424 6 5 black 
+: 3432 6 3 and 
+: 3440 24 3 dead 
+- 3466
+* 3516 18 0 Down 
+* 3536 36 0 by 
+* 3574 4 0 the 
+* 3580 12 0 ri
+* 3594 24 -2 ver 
+- 3620
+F 3634 60 0 Brrr! 
+F 3696 6 0 Ha 
+F 3704 2 0 ha 
+F 3708 4 0 ha 
+F 3714 4 0 ha 
+F 3720 14 0 ha 
+E

@@ -1,0 +1,258 @@
+#ARTIST:Dashboard Confessional
+#TITLE:Stolen
+#MP3:Dashboard Confessional - Stolen.mp3
+#CREATOR:Izac,mancer
+#COVER:Dashboard Confessional - Stolen [CO].jpg
+#BACKGROUND:Dashboard Confessional - Stolen [BG].jpg
+#GENRE:Pop
+#YEAR:2007
+#LANGUAGE:English
+#BPM:340
+#GAP:19970
+#VIDEO:v=j82FBbgpUy4,co=dusk-and-summer-552f3e208e17e.jpg,bg=dashboard-confessional-4ee6ab6363961.jpg,medley=0-784
+: 0 5 -2 We
+: 7 6 -2  watch
+: 15 3 -2  the
+: 21 6 5  sea
+: 28 9 3 son
+- 40
+: 42 6 -2 Pull
+: 62 6 -2  up
+: 75 5 5  its
+: 81 8 5  own
+: 94 9 3  stakes
+- 105
+: 107 6 0 And
+: 115 6 0  catch
+: 123 4 0  the
+: 129 7 0  last
+: 140 6 -2  week
+: 149 7 -5 end
+- 167
+: 171 3 10 Of
+: 176 5 10  the
+: 183 10 10  last
+: 196 9 8  week
+- 211
+: 214 3 3 Be
+: 221 7 7 fore
+: 229 2 7  the
+: 233 11 5  gold
+: 250 4 3  and
+: 257 4 3  the
+* 262 7 5  glim
+: 270 5 3 mer
+- 282
+: 285 3 3 Have
+: 289 6 3  been
+: 296 9 5  re
+: 310 11 3 placed
+- 323
+: 325 4 3 A
+: 330 5 7 no
+: 336 3 7 ther
+: 342 8 5  sun
+: 353 12 3  soaked
+: 367 7 5  sea
+: 375 6 3 son
+- 392
+: 396 13 7 Fades
+: 411 3 0  a
+: 415 9 3 way
+- 433
+: 437 16 3 You
+: 456 10 -2  have
+: 476 20 3  sto
+: 497 10 -2 len
+: 518 6 -4  my
+: 525 10 -5 ~
+: 544 26 7  heart
+- 592
+: 653 16 3 You
+: 671 10 -2  have
+: 691 19 3  sto
+: 711 10 -2 len
+: 732 6 -4  my
+: 739 10 -5 ~
+: 758 26 7  heart
+- 806
+: 866 4 -2 In
+: 871 3 -2 vi
+: 875 7 0 ta
+: 883 13 2 tion
+: 900 18 5  on
+: 919 4 -2 ly,
+: 925 12 0  grant
+: 939 12 0  fare
+: 953 11 -2 wells
+- 970
+: 972 6 -2 Crash
+: 979 3 -2  the
+: 985 10 0  best
+: 997 14 2  one,
+- 1022
+: 1026 5 -2 Of
+: 1032 3 -2  the
+: 1038 10 0  best
+: 1052 19 2  ones
+- 1077
+: 1080 11 2 Clear
+: 1093 4 0  li
+: 1099 10 -2 quor
+: 1114 13 -7  and
+* 1146 6 0  clou
+: 1154 8 -7 dy
+: 1166 17 -2  eyed,
+- 1185
+: 1187 13 2 Too
+: 1201 6 0  ear
+: 1208 10 -2 ly
+: 1221 14 -7  to
+: 1252 13 2  say
+: 1268 5 -7  good
+: 1274 36 -2 night
+- 1320
+: 1348 16 3 You
+: 1367 10 -2  have
+: 1387 20 3  sto
+: 1408 10 -2 len
+: 1429 6 -4  my
+: 1436 10 -5 ~
+: 1455 26 7  heart
+- 1503
+: 1563 16 3 You
+: 1582 9 -2  have
+: 1601 20 3  sto
+: 1622 10 -2 len
+: 1643 6 -4  my
+: 1650 10 -5 ~
+: 1669 26 7  heart
+- 1717
+: 1768 3 3 And
+: 1774 7 3  from
+: 1783 3 3  the
+: 1789 7 5  ball
+: 1797 9 7 room
+: 1808 12 5  floor
+- 1822
+: 1824 4 3 We
+: 1830 4 3  are
+: 1835 3 3  in
+: 1842 13 5  ce
+* 1856 4 7 le
+: 1861 7 5 bra
+: 1869 10 3 tion
+- 1889
+: 1897 11 8 One
+: 1910 9 7  good
+: 1921 7 5  stretch
+: 1929 4 7  be
+: 1935 6 -2 fore
+: 1942 4 -2  our
+: 1950 12 5  hi
+: 1964 3 7 ber
+: 1969 5 5 na
+: 1975 10 3 tion
+- 1993
+: 1996 4 7 Our
+: 2003 14 7  dreams
+: 2018 5 7  as
+: 2025 20 7 sured,
+: 2058 4 5  and
+: 2064 10 5  we
+: 2078 6 3  a
+: 2085 13 0 ~ll
+- 2100
+: 2102 3 -2 Will
+* 2110 6 8  slee
+: 2117 6 7 ~p
+: 2130 13 5  well,
+: 2161 8 7  slee
+: 2170 8 0 ~p
+: 2183 18 3  well
+- 2223
+: 2269 8 7 Slee
+: 2278 7 0 ~p
+: 2290 13 3  well,
+: 2376 8 7  slee
+: 2385 7 0 ~p
+: 2397 13 3  well,
+: 2483 8 7  slee
+: 2492 7 0 ~p
+: 2504 13 3  well
+- 2562
+: 2635 13 7 You
+: 2650 11 3  have
+: 2671 20 7  sto
+: 2692 12 3 len
+: 2715 11 5  a-
+: 2727 10 3 ha
+- 2739
+: 2741 16 7 You
+: 2760 13 3  have
+: 2780 20 8  sto
+: 2801 13 7 len
+: 2821 11 10  a-
+: 2833 11 7 ha
+- 2846
+: 2848 16 3 You
+: 2867 11 5  have
+: 2887 20 7  sto
+: 2908 12 5 len
+: 2927 34 3  my
+* 2994 62 10  heart
+- 3058
+: 3060 2 3 I
+: 3063 3 3  watch
+: 3067 3 3  you
+: 3072 8 5  spin
+: 3082 12 7  a
+: 3095 19 10 round
+- 3116
+: 3118 2 3 In
+: 3121 4 3  your
+: 3128 7 5  high
+* 3137 11 7 est
+: 3150 5 5  hee
+: 3156 5 3 ~ls
+- 3162
+: 3164 2 3 You
+: 3168 5 3  are
+: 3174 3 3  the
+: 3182 9 5  best
+: 3195 18 7  one,
+- 3219
+: 3221 6 3 Of
+: 3228 2 3  the
+: 3235 12 5  best
+: 3249 8 8  o
+: 3258 12 7 ~nes
+- 3276
+: 3278 15 7 We
+: 3296 13 3  all
+: 3316 8 7  look
+: 3336 13 3  like
+: 3356 10 -2  we
+: 3383 35 7  fee
+* 3419 47 10 ~l
+- 3476
+: 3492 16 7 You
+: 3511 12 3  have
+: 3531 18 7  sto
+: 3550 14 3 len
+: 3571 16 -2  my
+- 3596
+: 3600 14 7 You
+: 3618 11 3  have
+: 3639 17 8  sto
+: 3658 13 7 len
+: 3675 15 3  my
+- 3701
+: 3705 16 7 You
+: 3724 13 3  have
+: 3744 20 7  sto
+: 3765 13 3 len
+: 3785 16 -2  my
+* 3811 6 8  hea
+* 3818 84 7 ~rt
+E

@@ -1,0 +1,219 @@
+#ARTIST:Akira Yamaoka feat. Mary Elizabeth McGlynn (Silent Hill 3)
+#TITLE:You’re Not Here
+#MP3:Akira Yamaoka feat. Mary Elizabeth McGlynn (Silent Hill 3) - You’re Not Here.mp3
+#CREATOR:ai-chan
+#YEAR:2003
+#LANGUAGE:English
+#BPM:297.5
+#GAP:28960
+#VIDEO:v=S8IA3qONp8c,co=https://images.genius.com/349ee76dacd16921ca8432c45bf41517.999x999x1.jpg
+: 0 3 -2 Blue 
+: 5 5 -1 sky 
+: 16 4 -1 to 
+: 25 5 -1 for
+: 32 6 1 e
+: 41 4 3 ver 
+- 47
+: 49 3 1 The 
+* 54 3 6 green 
+: 62 4 6 grass 
+: 70 3 6 blows 
+* 75 2 6 in 
+: 78 3 6 the 
+: 84 9 3 wind 
+: 98 6 1 dan
+: 107 8 -1 cing 
+- 117
+: 138 3 -4 It 
+: 144 3 -2 would 
+: 151 3 -1 be 
+: 164 3 -1 a 
+: 170 3 1 much 
+* 177 2 1 bet
+* 180 2 6 ter 
+: 186 6 3 sight 
+- 194
+: 214 5 1 With 
+: 221 7 3 you 
+: 241 5 1 with 
+: 251 11 -1 me 
+- 264
+: 277 3 -4 If 
+: 283 3 -1 you 
+: 290 4 -1 ha
+: 299 5 -1 dn’t 
+: 308 5 1 met 
+: 317 5 3 me 
+- 324
+: 330 5 6 I’d 
+: 339 5 6 be 
+: 347 3 6 fine 
+: 351 3 6 on 
+: 355 3 6 my 
+* 361 14 3 own 
+: 378 4 1 ba
+: 384 7 -1 by 
+- 393
+: 413 4 -4 Ne
+: 419 5 -1 ver 
+: 428 5 -1 felt 
+: 436 7 -1 so 
+: 445 7 1 lone
+: 453 3 3 ly, 
+* 458 3 6 then 
+: 464 7 3 you 
+: 484 4 3 came 
+: 492 3 1 al
+: 497 12 3 ong 
+- 511
+: 515 5 3 So 
+: 525 6 -1 now 
+: 535 12 1 what 
+: 556 4 3 should 
+: 562 3 1 I 
+: 566 9 -1 do 
+- 577
+: 588 5 3 I’m 
+: 597 4 -1 strung 
+: 604 10 1 out 
+* 616 3 1 ad
+* 621 2 1 dic
+* 624 2 3 ted 
+: 629 3 1 to 
+: 634 11 -1 you 
+- 647
+: 650 3 1 My 
+: 656 6 3 bo
+: 664 6 -1 dy 
+: 672 10 1 aches 
+- 684
+: 689 3 1 Now 
+: 694 3 3 that 
+: 699 4 1 you’re 
+: 705 11 -1 gone 
+- 718
+: 724 7 3 My 
+: 733 6 1 sup
+* 742 14 -2 ply 
+* 759 14 2 fell 
+* 775 20 5 through 
+- 797
+: 815 2 2 You 
+: 819 4 6 glad
+: 824 3 6 ly 
+: 828 3 6 gave 
+: 832 3 6 me 
+: 836 2 6 eve
+: 839 2 3 ry
+: 844 7 6 thing 
+- 853
+: 856 4 3 You 
+: 863 8 6 had 
+: 872 2 7 and 
+* 876 15 2 mo
+* 892 4 0 ~re 
+- 898
+: 912 2 4 You 
+* 915 7 6 craved 
+: 924 7 3 my 
+: 933 7 3 hap
+: 941 3 1 pi
+: 946 6 3 ness 
+- 954
+: 958 3 3 When 
+: 963 3 6 you 
+: 967 2 6 make 
+: 970 2 6 me 
+: 975 5 3 feel 
+* 984 6 6 joy 
+- 991
+: 991 3 6 It 
+: 998 6 6 made 
+: 1005 3 8 you 
+: 1015 8 3 smile 
+* 1025 2 1 but 
+* 1029 6 1 now 
+- 1037
+: 1046 2 3 I 
+: 1051 6 6 feel 
+: 1059 6 3 your 
+: 1067 8 3 stre
+: 1076 3 2 ~ss 
+- 1081
+: 1095 3 3 Love 
+: 1099 3 6 was 
+: 1103 2 6 ne
+: 1106 4 6 ver 
+: 1111 3 6 meant 
+: 1115 2 4 to 
+: 1119 5 6 be 
+- 1126
+: 1128 5 6 Such 
+: 1134 3 4 a 
+: 1139 3 6 cra
+: 1143 3 6 zy 
+* 1149 3 8 af
+* 1153 13 3 fair 
+* 1168 8 1 no 
+- 1178
+: 1185 3 3 And 
+* 1190 5 6 who 
+: 1198 5 3 has 
+* 1207 1 6 ti
+* 1209 4 3 ~me 
+: 1215 3 1 for 
+: 1222 6 3 tears 
+- 1230
+: 1232 3 3 Ne
+: 1236 4 6 ver 
+: 1242 4 6 thought 
+: 1247 3 6 I’d 
+: 1251 3 6 sit 
+: 1255 2 3 a
+: 1259 7 6 round 
+- 1267
+: 1269 3 6 And 
+: 1275 3 6 cry 
+: 1279 3 6 for 
+: 1285 3 8 your 
+: 1291 11 3 lo
+: 1304 22 1 ~ve 
+- 1328
+* 1366 10 -9 Till 
+* 1381 40 3 now … 
+- 1423
+F 1768 2 0 I 
+F 1774 5 1 feel 
+F 1784 5 -1 your 
+F 1794 13 -1 stress 
+- 1809
+: 1884 4 6 Oh 
+: 1891 5 3 oh 
+: 1897 4 1 oh 
+: 1902 10 3 oh 
+- 1914
+: 1947 5 6 Who 
+: 1956 5 3 has 
+: 1965 8 3 time 
+: 1978 5 3 for 
+: 1988 21 3 tears 
+- 2011
+: 2024 11 3 Oh 
+: 2042 4 1 my 
+: 2048 9 3 baby 
+- 2059
+: 2206 12 6 Yeah 
+: 2224 4 6 yeah
+: 2229 4 3 ~ 
+: 2235 14 3 yeah 
+- 2251
+: 2476 8 11 Yeah
+: 2485 9 10 ~ 
+* 2503 7 13 yeah 
+* 2511 6 11 yeah 
+* 2519 36 6 yeah 
+- 2557
+F 2708 6 1 Feel 
+F 2717 6 -1 your 
+F 2725 7 -1 stress 
+E

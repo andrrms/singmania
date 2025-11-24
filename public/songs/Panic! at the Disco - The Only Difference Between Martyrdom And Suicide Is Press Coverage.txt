@@ -1,0 +1,419 @@
+#ARTIST:Panic! at the Disco
+#TITLE:The Only Difference Between Martyrdom And Suicide Is Press Coverage
+#MP3:Panic! at the Disco - The Only Difference Between Martyrdom And Suicide Is Press Coverage.mp3
+#CREATOR:chiio
+#YEAR:2006
+#LANGUAGE:English
+#BPM:340
+#GAP:350
+#VIDEO:a=flKd80xRazk,co=a-fever-you-cant-sweat-out-50ede312f06fd.jpg,bg=panic-at-the-disco-4ec6860508dfe.jpg
+: 0 4 6 Sit 
+: 6 4 -1 tight, 
+: 12 2 -1 I’m 
+: 16 2 -1 gon
+: 20 2 -3 na 
+: 24 2 -1 need 
+: 28 2 -1 you 
+: 32 2 1 to 
+: 36 4 -1 keep 
+: 42 2 -3 time 
+- 46
+: 50 4 -6 Come 
+: 56 2 -3 on 
+: 60 6 -1 just 
+: 68 6 1 snap, 
+: 76 6 2 snap, 
+: 84 4 1 snap 
+- 90
+: 94 4 -6 Your 
+: 100 4 -4 fin
+: 106 4 -6 gers 
+: 112 2 -4 for 
+: 116 4 -2 me 
+- 122
+: 126 6 2 Good, 
+: 134 4 -1 good 
+: 140 2 -1 now 
+: 144 2 -1 we’re 
+: 148 2 -3 ma
+: 152 4 -1 king 
+: 158 2 -1 some 
+: 162 2 1 pro
+: 166 4 -1 gress 
+- 172
+: 176 4 -6 Come 
+: 182 2 -3 on 
+: 186 6 -1 just 
+: 194 6 1 tap, 
+: 202 6 2 tap, 
+: 210 4 1 tap 
+- 216
+: 220 6 1 Your 
+: 228 6 -3 toes 
+: 236 2 -1 to 
+: 240 2 -3 the 
+: 244 8 -4 beat 
+: 258 4 1 And 
+: 264 6 1 I 
+: 272 2 1 be
+: 276 4 6 li
+: 282 18 4 eve 
+- 302
+: 306 6 6 This 
+: 314 6 4 may 
+: 322 6 4 call 
+: 330 2 2 for 
+: 334 2 1 a 
+: 338 6 1 pro
+: 346 2 1 per 
+: 350 2 1 in
+: 354 2 2 tro
+: 358 2 1 du
+: 362 4 -1 ction, 
+- 368
+: 372 2 -3 And 
+: 376 4 -3 well, 
+: 386 6 -6 don’t 
+: 394 8 -4 you 
+: 404 6 -4 see
+: 412 2 -4 ~
+: 416 6 -1 ~
+: 424 6 1 ~, 
+- 432
+: 436 6 4 I’m 
+: 444 2 4 the 
+: 448 12 1 narrator, 
+- 462
+: 466 2 1 And 
+: 470 2 2 this 
+: 474 2 1 is 
+: 478 2 -1 just 
+: 482 2 -3 the 
+* 486 68 -3 prologue? 
+- 556
+: 630 2 4 Swear 
+: 634 2 4 we’ll 
+: 638 2 4 sha
+: 642 2 4 ke 
+: 646 2 4 it 
+: 650 2 9 up, 
+- 654
+: 658 2 8 If 
+: 662 2 6 you 
+: 666 6 6 swear 
+: 674 2 4 to 
+: 678 8 4 listen 
+- 688
+: 692 2 4 We’re 
+: 696 6 6 still 
+: 704 6 6 so 
+: 712 6 6 young 
+: 720 2 4 but 
+- 724
+: 728 2 2 Des
+: 732 4 1 perate 
+: 738 4 2 for 
+: 744 10 1 attention 
+- 756
+: 760 12 -1 I 
+: 774 8 -3 aim 
+: 784 4 -3 to 
+: 790 18 1 be, 
+- 810
+: 814 8 -1 Your 
+: 824 6 4 eyes, 
+: 832 4 9 trophy 
+: 840 4 6 boys, 
+: 846 8 6 trophy 
+: 856 20 4 wives 
+- 878
+: 888 2 4 Swear 
+: 892 2 4 we’ll 
+: 896 2 4 shake 
+: 900 2 4 it 
+: 904 2 4 up, 
+- 908
+: 912 4 8 And 
+: 918 4 6 you 
+: 924 6 6 swear 
+: 932 2 4 to 
+: 936 8 4 listen 
+- 946
+: 950 2 4 We’re 
+: 954 6 6 still 
+: 962 6 6 so 
+: 970 6 6 young, 
+- 978
+: 982 2 2 Des
+: 986 4 1 perate 
+: 992 4 2 for 
+: 998 10 1 attention 
+- 1010
+: 1016 12 -1 I 
+: 1030 8 -3 aim 
+: 1040 4 -3 to 
+: 1046 16 1 be, 
+- 1064
+: 1068 8 -1 Your 
+: 1078 6 4 eyes, 
+: 1086 4 9 trophy 
+: 1094 4 6 boys, 
+: 1100 8 6 trophy 
+: 1110 20 4 wives 
+- 1132
+: 1140 12 2 Applause, 
+: 1154 16 1 applause, 
+: 1172 8 2 no 
+: 1182 4 1 wait 
+: 1188 8 -1 wait 
+- 1198
+: 1202 2 -3 Dear 
+: 1206 12 -3 studio 
+: 1220 6 1 audience, 
+- 1228
+: 1232 4 -1 I’ve 
+: 1238 2 4 an 
+: 1242 2 9 announce
+: 1246 2 6 ment 
+: 1250 4 6 to 
+: 1256 12 4 make: 
+- 1270
+: 1272 2 6 It 
+: 1276 2 6 seems 
+: 1280 2 4 the 
+: 1284 2 6 ar
+: 1288 2 4 tists 
+: 1292 2 1 these 
+: 1296 2 -1 days 
+- 1300
+: 1304 2 4 Are 
+: 1308 2 9 not 
+: 1312 2 6 who 
+: 1316 2 6 you 
+: 1320 4 6 think 
+- 1326
+: 1330 4 4 We’ll 
+: 1336 6 4 pick 
+: 1344 6 2 back
+: 1352 4 1 up 
+: 1358 2 -1 on 
+: 1362 2 -1 that 
+: 1366 2 -1 on 
+: 1370 2 -1 a
+: 1374 6 -1 nother 
+: 1382 16 -3 page 
+- 1400
+: 1412 4 1 And 
+: 1418 6 1 I 
+: 1426 2 1 be
+: 1430 4 6 lie
+: 1436 18 4 ve 
+- 1456
+: 1458 6 6 This 
+: 1466 6 4 may 
+: 1474 6 4 call 
+: 1482 2 2 for 
+: 1486 2 1 a 
+: 1490 6 1 pro
+: 1498 2 1 per 
+: 1502 2 1 in
+: 1506 2 2 tro
+: 1510 2 1 du
+: 1514 4 -1 ction, 
+- 1520
+: 1524 2 -3 And 
+: 1528 4 -3 well, 
+: 1538 6 -6 don’t 
+: 1546 8 -4 you 
+: 1556 6 -4 see
+: 1564 2 -4 ~
+: 1568 6 -1 ~
+: 1576 6 1 ~, 
+- 1584
+: 1588 6 4 I’m 
+: 1596 2 4 the 
+: 1600 12 1 narrator 
+- 1614
+: 1618 2 1 And 
+: 1622 2 2 this 
+: 1626 2 1 is 
+: 1630 2 -1 just 
+: 1634 2 -3 the 
+: 1638 76 -3 prologue? 
+- 1716
+: 1720 2 4 Swear 
+: 1724 2 4 to 
+: 1728 2 4 shake 
+: 1732 2 4 it 
+: 1736 2 4 up, 
+- 1740
+: 1744 4 8 If 
+: 1750 4 6 you 
+: 1756 6 6 swear 
+: 1764 2 4 to 
+: 1768 8 4 listen 
+- 1778
+: 1780 2 4 We’re 
+: 1784 6 6 still 
+: 1792 6 6 so 
+: 1800 6 6 young, 
+- 1808
+: 1812 2 2 Des
+: 1816 4 1 perate 
+: 1822 4 2 for 
+: 1828 10 1 attention 
+- 1840
+: 1846 12 -1 I 
+: 1860 8 -3 aim 
+: 1870 4 -3 to 
+: 1876 16 1 be, 
+- 1894
+: 1902 8 -1 Your 
+: 1912 6 4 eyes, 
+: 1920 4 9 trophy 
+: 1928 4 6 boys, 
+: 1934 8 6 trophy 
+: 1944 20 4 wives 
+- 1966
+: 1976 2 4 Swear 
+: 1980 2 4 to 
+: 1984 2 4 shake 
+: 1988 2 4 it 
+: 1992 2 4 up, 
+- 1996
+: 2000 4 8 And 
+: 2006 4 6 you 
+: 2012 6 6 swear 
+: 2020 2 4 to 
+: 2024 8 4 listen 
+- 2034
+: 2038 2 4 We’re 
+: 2042 6 6 still 
+: 2050 6 6 so 
+: 2058 6 6 young, 
+- 2066
+: 2070 2 2 Des
+: 2074 4 1 perate 
+: 2080 4 2 for 
+: 2086 10 1 attention 
+- 2098
+: 2102 12 -1 I 
+: 2116 8 -3 aim 
+: 2126 4 -3 to 
+: 2132 16 1 be, 
+- 2150
+: 2154 8 -1 Your 
+: 2164 6 4 eyes, 
+: 2172 4 9 trophy 
+: 2180 4 6 boys, 
+: 2186 8 6 trophy 
+: 2196 20 4 wives 
+- 2218
+: 2746 2 4 Swear 
+: 2750 2 4 to 
+: 2754 2 4 shake 
+: 2758 2 4 it 
+: 2762 2 4 up, 
+- 2766
+: 2780 4 6 You 
+: 2786 6 6 swear 
+: 2794 2 4 to 
+: 2798 6 4 listen 
+- 2806
+: 2810 2 4 Swear 
+: 2814 2 4 to 
+: 2818 2 4 shake 
+: 2822 2 4 it 
+: 2826 8 7 up, 
+- 2836
+: 2842 4 6 You 
+: 2848 6 6 swear 
+: 2856 2 4 to 
+: 2860 6 4 listen 
+- 2868
+: 2872 2 4 Swear 
+: 2876 2 4 to 
+: 2880 2 4 shake 
+: 2884 2 4 it 
+: 2888 2 4 up, 
+- 2892
+: 2908 4 6 You 
+: 2914 6 6 swear 
+: 2922 2 4 to 
+: 2926 6 4 listen 
+- 2934
+: 2940 2 4 Swear 
+: 2944 2 4 to 
+: 2948 2 4 shake 
+: 2952 2 4 it 
+: 2956 2 4 up, 
+- 2960
+F 2966 2 4 Swear 
+F 2970 2 4 to 
+F 2974 2 4 shake 
+F 2978 2 4 it 
+F 2982 2 4 up 
+- 2986
+: 3002 2 4 Swear 
+: 3006 2 4 to 
+: 3010 2 4 shake 
+: 3014 2 4 it 
+: 3018 2 4 up, 
+- 3022
+: 3026 4 8 If 
+: 3032 4 6 you 
+: 3038 6 6 swear 
+: 3046 2 4 to 
+: 3050 8 4 listen 
+- 3060
+: 3064 2 4 We’re 
+: 3068 6 6 still 
+: 3076 6 6 so 
+: 3084 6 6 young, 
+- 3092
+: 3096 2 2 Des
+: 3100 4 1 perate 
+: 3106 4 2 for 
+: 3112 10 1 attention 
+- 3124
+: 3128 12 -1 I 
+: 3142 8 -3 aim 
+: 3152 4 -3 to 
+: 3158 16 1 be, 
+- 3176
+: 3182 8 -1 Your 
+: 3192 6 4 eyes, 
+: 3200 4 9 trophy 
+: 3208 4 6 boys, 
+: 3214 8 6 trophy 
+: 3224 20 4 wives 
+- 3246
+: 3256 2 4 Swear 
+: 3260 2 4 to 
+: 3264 2 4 shake 
+: 3268 2 4 it 
+: 3272 2 4 up, 
+- 3276
+: 3280 4 8 And 
+: 3286 4 6 you 
+: 3292 6 6 swear 
+: 3300 2 4 to 
+: 3304 8 4 listen 
+- 3314
+: 3318 2 4 We’re 
+: 3322 6 6 still 
+: 3330 6 6 so 
+: 3338 6 6 young, 
+- 3346
+: 3350 2 2 Des
+: 3354 4 1 perate 
+: 3360 4 2 for 
+: 3366 10 1 attention 
+- 3378
+: 3382 12 -1 I 
+: 3396 8 -3 aim 
+: 3406 4 -3 to 
+: 3412 34 1 be, 
+: 3450 24 -1 your 
+: 3478 34 4 eyes … 
+E

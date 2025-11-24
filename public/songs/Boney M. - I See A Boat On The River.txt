@@ -1,0 +1,296 @@
+#ARTIST:Boney M.
+#TITLE:I See A Boat On The River
+#MP3:Boney M. - I See A Boat On The River.mp3
+#CREATOR:Unknown
+#COVER:Boney M. - I See A Boat On The River [CO].jpg
+#BACKGROUND:Boney M. - I See A Boat On The River [BG].jpg
+#GENRE:Soul, R&B
+#YEAR:1980
+#LANGUAGE:English
+#BPM:245.43
+#GAP:23800
+#VIDEO:a=PaDq7bcm_Jk,co=https://i.discogs.com/6XZPavAM4lU_GgvjtiBM1_QjugR7kzYW5PUzjLICL_4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDAx/MzUtMTMwNjM0MjE3/OS5qcGVn.jpeg,bg=boney-m-54a2aeeda83ee.jpg
+: 0 2 3 He 
+: 3 4 1 left 
+: 9 2 -2 on 
+: 12 2 -3 a 
+: 16 6 -2 boat 
+- 23
+: 24 3 1 Just 
+: 28 2 1 to 
+: 32 7 2 fol
+: 40 3 3 low 
+: 44 2 1 a 
+: 48 8 0 dream 
+- 58
+: 68 8 1 He 
+: 84 3 6 had 
+: 91 3 2 to 
+: 95 9 2 find 
+- 106
+: 128 3 2 You 
+: 132 3 3 can’t 
+: 136 3 0 hold 
+: 140 2 -2 a 
+: 144 4 -2 man 
+- 150
+: 152 3 -1 When 
+: 156 3 1 he 
+: 160 6 2 fol
+: 168 3 2 lows 
+: 172 2 2 a 
+: 176 8 0 dream 
+- 186
+: 196 10 0 That’s 
+: 212 3 6 on 
+: 220 3 2 his 
+: 224 8 2 mind 
+- 234
+: 236 3 4 I 
+: 244 4 5 see 
+: 252 3 4 a 
+: 260 11 1 boat 
+: 273 5 0 on 
+: 285 3 4 the 
+: 292 10 1 ri
+: 304 6 2 ver 
+- 312
+: 316 7 5 It’s 
+: 324 4 -1 sai
+: 336 7 1 ling 
+: 348 3 2 a
+: 356 10 1 way 
+- 368
+: 388 8 -3 Down 
+: 400 4 -3 to 
+: 412 4 1 the 
+: 420 8 -1 o
+: 432 4 -1 cean 
+- 438
+: 444 6 2 Where 
+: 452 12 1 to 
+: 468 3 1 I 
+: 476 6 -1 can’t 
+: 484 4 -3 say 
+- 490
+: 516 8 -1 Boat 
+: 528 6 -1 on 
+: 540 4 4 the 
+: 548 10 1 ri
+: 560 4 3 ver 
+- 566
+: 572 7 3 It’s 
+: 580 11 3 sai
+: 594 4 0 ling 
+: 606 3 3 a
+: 612 8 3 way 
+- 622
+: 646 9 -3 Down 
+: 657 8 -2 to 
+: 669 7 2 the 
+: 678 6 -1 o
+: 688 8 -1 cean 
+- 698
+: 700 7 2 Where 
+: 709 9 1 to 
+: 724 4 1 I 
+: 732 4 0 can’t 
+: 740 5 -3 say 
+- 747
+: 769 2 0 I 
+: 772 4 3 wai
+: 777 4 -2 ted 
+: 782 3 -3 for 
+: 786 4 -2 him 
+- 791
+: 793 4 -1 Such 
+: 798 2 1 a 
+: 801 4 1 ve
+: 809 3 3 ry 
+: 814 3 1 long 
+: 818 6 -1 time 
+- 826
+: 838 13 0 Don’t 
+: 853 7 5 know 
+: 861 3 2 what 
+: 865 7 2 for 
+- 874
+: 896 4 -2 ’Cause 
+: 901 3 2 I 
+: 905 4 -2 should 
+: 910 3 -3 have 
+: 914 6 -3 known 
+- 921
+: 921 4 -1 When 
+: 926 3 0 he 
+: 930 5 1 left 
+: 938 3 2 on 
+: 942 3 1 the 
+: 946 8 0 boat 
+- 956
+: 966 12 0 We’ll 
+: 982 5 5 meet 
+: 990 3 3 no 
+: 994 8 2 more 
+- 1004
+: 1008 3 4 I 
+: 1013 4 4 see 
+: 1021 4 4 a 
+: 1030 10 1 boat 
+: 1042 4 1 on 
+: 1054 4 5 the 
+: 1061 11 2 ri
+: 1074 7 2 ver 
+- 1083
+: 1086 6 4 It’s 
+: 1093 10 0 sai
+: 1105 5 2 ling 
+: 1117 3 2 a
+: 1124 8 2 way 
+- 1134
+: 1158 9 -3 Down 
+: 1169 7 -2 to 
+: 1182 6 2 the 
+: 1190 9 -1 o
+: 1200 8 -1 cean 
+- 1210
+: 1214 6 3 Where 
+: 1222 10 1 to 
+: 1238 4 1 I 
+: 1246 5 -2 can’t 
+: 1254 7 -3 say 
+- 1263
+: 1288 8 -1 Boat 
+: 1300 5 -1 on 
+: 1310 4 4 the 
+: 1318 10 2 ri
+: 1330 5 2 ver 
+- 1337
+: 1342 6 2 It’s 
+: 1350 10 4 sai
+: 1362 6 0 ling 
+: 1374 3 3 a
+: 1383 6 2 way 
+- 1391
+: 1414 8 -3 Down 
+: 1426 9 -2 to 
+: 1438 4 2 the 
+: 1446 6 -2 o
+: 1458 8 -2 cean 
+- 1468
+: 1470 7 3 Where 
+: 1479 4 2 to 
+: 1494 4 1 I 
+: 1503 5 -2 can’t 
+: 1510 7 -3 say 
+- 1519
+F 1535 3 -3 There 
+F 1539 3 -3 were 
+F 1543 4 -3 peo
+F 1548 3 -3 ple 
+F 1552 3 -3 who 
+F 1556 3 -3  
+- 1560
+F 1560 3 -3 And 
+F 1566 4 -3 said 
+F 1571 3 -3 it’s 
+F 1575 4 -3 real
+F 1580 3 -3 ly 
+F 1584 3 -3 a 
+F 1588 4 -3 shame 
+- 1593
+F 1594 3 -3 Why 
+F 1599 3 -3 did 
+F 1603 2 -3 he 
+F 1606 5 -3 take 
+F 1612 3 -3 off 
+- 1616
+F 1616 2 -3 To 
+F 1619 5 -3 fol
+F 1625 4 -3 low 
+F 1630 4 -3 just 
+F 1635 2 -3 a 
+F 1638 7 -3 dream 
+- 1647
+: 1662 3 2 But 
+: 1668 2 4 I 
+: 1671 4 4 guess 
+: 1676 3 4 they 
+: 1680 3 5 were 
+: 1684 5 5 wrong 
+- 1690
+: 1691 2 6 In 
+: 1694 3 5 life 
+: 1698 3 3 you’re 
+: 1702 3 5 sai
+: 1706 4 6 ling 
+: 1711 2 6 a
+: 1714 4 6 long 
+- 1720
+: 1724 2 7 And 
+: 1727 3 5 things 
+: 1731 3 5 don’t 
+: 1735 3 5 turn 
+: 1739 3 5 out 
+- 1743
+: 1743 3 5 As 
+: 1747 3 5 sim
+: 1754 3 7 ple 
+: 1759 3 1 as 
+: 1763 3 -1 they 
+: 1767 6 -2 seem 
+- 1775
+: 2030 4 5 I 
+: 2038 4 3 see 
+: 2046 4 4 a 
+: 2054 10 1 boat 
+: 2067 4 1 on 
+: 2078 4 4 the 
+: 2086 10 2 ri
+: 2098 4 3 ver 
+- 2104
+: 2110 7 7 It’s 
+: 2118 6 4 sai
+: 2130 6 0 ling 
+: 2142 3 3 a
+: 2150 7 2 way 
+- 2159
+: 2182 8 -2 Down 
+: 2194 4 -2 to 
+: 2206 4 1 the 
+: 2214 8 -1 o
+: 2224 6 -1 cean 
+- 2232
+: 2238 8 3 Where 
+: 2247 4 1 to 
+: 2262 4 1 I 
+: 2270 6 -2 can’t 
+: 2278 4 -2 say 
+- 2284
+: 2290 4 -3 I 
+: 2295 4 1 see 
+: 2302 3 4 a 
+: 2310 9 1 boat 
+: 2322 3 2 on 
+: 2335 4 4 the 
+: 2342 10 2 ri
+: 2354 5 2 ver 
+- 2361
+: 2366 6 7 You’re 
+: 2374 11 5 bound 
+: 2387 3 0 for 
+: 2397 5 4 the 
+: 2406 11 2 sea 
+- 2419
+: 2440 8 -2 If 
+: 2451 5 -3 you 
+: 2462 7 2 should 
+: 2470 6 -2 find 
+: 2482 6 -1 him 
+- 2490
+: 2494 8 3 Please 
+: 2503 9 1 greet 
+: 2518 5 2 him 
+: 2526 4 0 from 
+: 2535 4 -3 me 
+E

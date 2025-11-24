@@ -1,0 +1,250 @@
+#ARTIST:Depeche Mode
+#TITLE:Halo
+#MP3:Depeche Mode - Halo.mp3
+#CREATOR:mus31
+#YEAR:1990
+#LANGUAGE:English
+#BPM:224.8
+#GAP:25390
+#VIDEO:v=iEH4eqtK8SU,co=https://i.discogs.com/sUtNJThje3LBl-tHA26cfCcxOD07S9SB4uA4DkN0H94/rs:fit/g:sm/q:90/h:473/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDIw/Mi0xNDY1NzQ3MTY5/LTk1NzguanBlZw.jpeg,bg=depeche-mode-50480ade161d1.jpg
+: 0 2 9 You 
+: 3 3 7 wear 
+: 9 3 14 guilt 
+- 14
+: 40 2 14 Like 
+: 45 3 9 shac
+: 53 3 7 kles 
+: 61 2 14 on 
+: 65 4 12 your 
+: 72 4 9 feet 
+- 78
+: 100 4 14 Like 
+: 105 2 14 a 
+: 112 3 9 ha
+: 116 5 7 lo 
+: 126 3 2 in 
+* 131 3 7 re
+* 138 14 17 verse 
+- 154
+: 257 3 9 I 
+: 261 2 7 can 
+: 265 8 2 feel 
+- 275
+: 293 2 14 The 
+: 297 3 14 dis
+: 301 4 9 com
+: 307 5 7 fort 
+: 316 2 2 in 
+: 321 4 12 your 
+: 329 8 9 seat 
+- 339
+: 362 2 14 And 
+: 367 2 9 in 
+: 373 3 7 your 
+: 381 3 2 head 
+: 387 3 7 it’s 
+* 395 18 17 worse 
+- 415
+: 770 3 9 There’s 
+: 775 2 7 a 
+: 778 4 14 pain 
+- 784
+: 809 2 14 A 
+: 814 4 9 fa
+: 820 5 7 mine 
+: 830 2 14 in 
+: 835 3 12 your 
+: 842 8 9 heart 
+- 852
+: 873 2 14 An 
+: 880 3 9 ach
+: 886 4 7 ing 
+: 894 2 14 to 
+: 899 3 7 be 
+* 906 14 17 free 
+- 922
+: 1026 3 9 Can’t 
+: 1030 2 7 you 
+: 1034 8 14 see 
+- 1044
+: 1070 3 9 All 
+: 1078 5 7 love’s 
+: 1087 2 14 lu
+: 1091 5 12 xur
+: 1099 10 9 ies 
+- 1111
+: 1130 3 14 Are 
+: 1137 4 9 here 
+: 1143 3 7 for 
+: 1151 3 14 you 
+: 1156 4 7 and 
+: 1164 18 17 me 
+- 1184
+: 1318 2 17 And 
+: 1321 2 17 when 
+: 1324 2 7 our 
+: 1329 5 9 worlds 
+: 1336 3 7 they 
+: 1343 3 17 fall 
+: 1351 2 7 a
+: 1357 12 9 part 
+- 1371
+: 1383 3 17 When 
+: 1387 2 7 the 
+: 1393 4 9 walls 
+: 1401 4 7 come 
+: 1407 4 17 tum
+: 1413 5 7 bling 
+: 1420 12 7 in 
+- 1434
+: 1455 4 9 Though 
+: 1460 2 9 we 
+: 1464 3 7 may 
+: 1468 2 17 de
+: 1471 7 17 serve 
+* 1484 12 7 it 
+- 1498
+: 1520 2 9 It 
+: 1527 4 7 will 
+: 1532 2 19 be 
+: 1537 4 17 worth 
+: 1545 14 7 it 
+- 1561
+: 1667 3 9 Bring 
+: 1671 3 7 your 
+: 1675 6 14 chains 
+- 1683
+: 1708 2 14 Your 
+: 1712 5 9 lips 
+: 1720 2 7 of 
+: 1727 3 14 tra
+: 1733 4 13 ge
+: 1738 5 10 dy 
+- 1745
+: 1772 2 15 And 
+: 1776 5 10 fall 
+: 1786 3 8 in
+: 1790 4 15 to 
+: 1796 3 20 my 
+: 1801 8 18 arms 
+- 1811
+: 1957 2 18 And 
+: 1960 2 18 when 
+: 1965 2 8 our 
+: 1970 5 10 worlds 
+: 1977 3 8 they 
+: 1984 4 18 fall 
+: 1992 2 8 a
+: 1998 8 10 part 
+- 2008
+: 2024 3 18 When 
+: 2029 2 8 the 
+: 2033 4 10 walls 
+: 2040 4 8 come 
+: 2049 5 6 tum
+: 2055 4 8 bling 
+: 2060 12 8 in 
+- 2074
+: 2097 4 10 Though 
+: 2102 2 10 we 
+: 2106 3 8 may 
+: 2110 2 18 de
+: 2114 8 18 serve 
+: 2123 12 20 it 
+- 2137
+* 2162 2 10 It 
+* 2167 4 8 will 
+* 2173 2 20 be 
+* 2178 5 18 worth 
+* 2184 12 8 it 
+- 2198
+: 2339 2 18 And 
+: 2344 2 18 when 
+: 2350 2 8 our 
+: 2354 5 10 worlds 
+: 2361 3 8 they 
+: 2369 3 18 fall 
+: 2376 2 8 a
+: 2381 8 10 part 
+- 2391
+: 2409 3 18 When 
+: 2414 3 8 the 
+: 2420 4 10 walls 
+: 2426 4 8 come 
+: 2432 4 18 tum
+: 2437 4 20 bling 
+: 2445 12 20 in 
+- 2459
+: 2480 4 10 Though 
+: 2485 2 10 we 
+: 2490 3 8 may 
+: 2496 2 18 de
+: 2500 5 18 serve 
+: 2507 12 8 it 
+- 2521
+: 2544 2 10 It 
+: 2551 4 8 will 
+: 2557 2 20 be 
+: 2562 5 18 worth 
+: 2569 12 8 it 
+- 2583
+: 2599 2 18 And 
+: 2602 3 18 when 
+: 2607 2 8 our 
+: 2612 5 10 worlds 
+: 2618 3 8 they 
+: 2625 3 18 fall 
+: 2633 2 8 a
+: 2638 8 10 part 
+- 2648
+: 2664 3 18 When 
+: 2669 2 8 the 
+: 2674 4 10 walls 
+: 2681 4 8 come 
+: 2689 4 18 tum
+: 2694 4 20 bling 
+: 2702 12 20 in 
+- 2716
+: 2737 4 10 Though 
+: 2743 2 10 we 
+: 2747 3 8 may 
+: 2751 2 18 de
+: 2755 6 18 serve 
+: 2763 12 8 it 
+- 2777
+: 2800 2 10 It 
+: 2806 4 8 will 
+: 2813 2 20 be 
+: 2819 5 18 worth 
+: 2825 12 8 it 
+- 2839
+: 2859 2 18 And 
+: 2862 2 18 when 
+: 2866 2 8 our 
+: 2869 5 10 worlds 
+: 2875 3 8 they 
+: 2881 3 18 fall 
+: 2893 2 8 a
+: 2898 8 10 part 
+- 2908
+: 2921 3 18 When 
+: 2926 2 8 the 
+: 2931 4 10 walls 
+: 2938 4 8 come 
+: 2946 5 18 tum
+: 2952 4 20 bling 
+: 2959 12 20 in 
+- 2973
+: 2993 4 10 Though 
+: 2999 2 10 we 
+: 3003 3 8 may 
+: 3007 2 18 de
+: 3011 5 18 serve 
+: 3018 12 8 it 
+- 3032
+: 3058 3 10 It 
+: 3063 4 8 will 
+: 3069 3 20 be 
+: 3074 5 18 worth 
+: 3082 18 8 it 
+E

@@ -1,0 +1,242 @@
+#ARTIST:Weezer
+#TITLE:The One That Got Away
+#MP3:Weezer - The One That Got Away.mp3
+#CREATOR:Viktor1234678
+#COVER:Weezer - The One That Got Away [CO].jpg
+#BACKGROUND:Weezer - The One That Got Away [BG].jpg
+#YEAR:2022
+#LANGUAGE:English
+#BPM:272
+#GAP:7760
+#VIDEO:v=H1PZhscqrEo,co=sznz-winter-63a393dae5c43.jpg,bg=weezer-4e6742be1300b.jpg
+: 0 10 0 You 
+: 15 10 3 look 
+: 31 15 -2 good 
+- 48
+: 71 3 0 And 
+: 75 3 -2 your 
+: 80 5 0 hair 
+: 88 5 3 is 
+: 96 16 -2 full 
+- 114
+: 135 3 0 And 
+: 139 3 -2 I 
+: 143 5 0 know 
+: 151 5 3 it’s 
+: 159 10 3 in
+: 175 10 0 ap
+: 191 10 5 pro
+: 207 10 0 pri
+: 223 11 5 ate 
+- 236
+: 247 3 5 But 
+: 251 3 7 I’m 
+: 256 15 8 sad 
+: 279 3 1 with
+: 283 3 0 out 
+: 288 11 -2 you 
+- 301
+: 310 3 3 I 
+: 314 3 5 still 
+: 319 11 7 think 
+: 343 3 0 a
+: 347 3 -2 bout 
+: 352 11 -4 you 
+- 365
+: 378 4 0 The 
+: 384 8 5 one 
+: 399 10 3 that 
+: 415 10 1 got 
+: 432 10 0 a
+: 448 30 -2 way 
+- 480
+: 507 3 0 I 
+: 511 12 0 gave 
+: 527 9 3 you 
+: 539 3 -2 a 
+: 543 17 -2 hug 
+- 562
+: 583 3 0 You 
+: 587 3 -2 looked 
+: 591 6 0 in 
+: 599 6 3 my 
+: 607 15 -2 eyes 
+- 624
+: 646 3 0 And 
+: 650 3 -2 you 
+: 654 7 0 said 
+: 663 5 3 I 
+: 672 13 3 gave 
+: 688 9 0 you 
+: 703 11 5 but
+: 719 10 0 ter
+: 735 14 5 flies 
+- 751
+: 759 3 5 Now 
+: 763 3 7 I’m 
+: 767 16 8 sad 
+: 790 3 1 with
+: 794 3 0 out 
+: 799 14 -2 you 
+- 815
+: 823 3 3 I 
+: 827 3 5 still 
+: 831 17 7 dream 
+: 855 3 0 a
+: 859 3 -2 bout 
+: 864 9 -4 you 
+- 875
+: 890 3 0 The 
+: 895 11 5 one 
+: 912 10 3 that 
+: 928 11 1 got 
+: 944 10 0 a
+: 960 28 -2 way 
+- 990
+: 1024 4 -2 We 
+: 1032 4 -1 don’t 
+: 1040 4 -2 need 
+: 1048 4 -1 each 
+: 1055 4 -2 o
+: 1063 4 -1 ther 
+: 1068 4 1 like 
+: 1075 7 -1 we 
+: 1088 4 -2 used 
+: 1096 4 -1 to 
+: 1104 4 -2 long 
+: 1111 2 -1 a
+: 1115 10 -6 go 
+- 1127
+: 1151 4 -2 You 
+: 1159 4 -1 got 
+: 1167 4 -2 some
+: 1175 4 -1 one 
+: 1182 4 -2 to 
+: 1190 4 -1 ap
+: 1195 4 1 prove 
+: 1202 7 -1 you, 
+: 1215 4 3 good 
+: 1223 4 3 job, 
+: 1231 4 3 way 
+: 1238 3 3 to 
+: 1243 10 -1 go 
+- 1255
+: 1278 6 4 When 
+: 1286 6 3 we 
+: 1294 6 1 had 
+: 1302 6 -1 that 
+: 1311 6 -2 hur
+: 1318 3 -1 ri
+: 1322 9 1 cane 
+- 1333
+: 1343 5 6 Some
+: 1351 5 4 one’s 
+: 1359 5 3 note
+: 1367 5 1 book 
+: 1375 5 0 blew 
+: 1383 2 1 a
+: 1387 8 3 way 
+- 1397
+: 1403 3 0 But 
+: 1407 6 4 I 
+: 1415 6 2 don’t 
+: 1423 6 0 think 
+: 1431 6 -1 it’s 
+: 1439 6 -2 mine, 
+: 1447 6 -4 I 
+: 1455 6 -6 think 
+: 1463 6 -8 it’s 
+: 1471 16 -9 yours 
+- 1489
+: 1791 6 4 When 
+: 1799 6 3 we 
+: 1807 6 1 had 
+: 1815 6 -1 that 
+: 1823 6 -2 hur
+: 1831 2 -1 ri
+: 1835 8 1 cane 
+- 1845
+: 1855 5 6 Some
+: 1863 5 4 one’s 
+: 1871 5 3 note
+: 1879 5 1 book 
+: 1887 5 0 blew 
+: 1895 3 1 a
+: 1899 7 3 way 
+- 1908
+: 1915 2 1 But 
+: 1919 5 4 I 
+: 1927 5 2 don’t 
+: 1935 5 0 think 
+: 1943 5 -1 it’s 
+: 1951 5 -2 mine 
+- 1958
+: 1960 5 -4 I 
+: 1968 4 -6 think 
+: 1975 4 -8 it’s 
+: 1983 13 -9 yours 
+- 1998
+: 2048 9 0 You 
+: 2065 8 3 look 
+: 2082 13 -2 good 
+- 2097
+: 2124 3 0 And 
+: 2128 3 -2 your 
+: 2133 5 0 hair 
+: 2141 5 3 is 
+: 2149 10 -2 full 
+- 2161
+: 2187 3 0 And 
+: 2191 3 -2 I 
+: 2196 5 0 know 
+: 2204 5 3 it’s 
+: 2212 11 3 in
+: 2228 8 0 ap
+: 2244 10 5 pro
+: 2260 10 0 pri
+: 2276 12 5 ate 
+- 2290
+: 2300 3 5 But 
+: 2304 3 7 I’m 
+: 2309 15 8 sad 
+: 2333 3 1 with
+: 2337 3 0 out 
+: 2342 11 -2 you 
+- 2355
+: 2364 3 3 I 
+: 2368 3 5 still 
+: 2373 11 7 think 
+: 2397 3 0 a
+: 2401 3 -2 bout 
+: 2406 11 -4 you 
+- 2419
+: 2432 4 0 The 
+: 2437 8 5 one 
+: 2453 10 3 that 
+: 2469 10 1 got 
+: 2485 10 0 a
+: 2501 30 -2 way 
+- 2533
+: 2556 3 5 But 
+: 2560 3 7 I’m 
+: 2564 20 8 sad 
+: 2588 3 1 with
+: 2592 3 0 out 
+: 2596 17 -2 you 
+- 2615
+: 2619 3 5 I 
+: 2623 3 8 still 
+: 2628 18 12 dream 
+: 2651 3 12 a
+: 2655 3 12 bout 
+: 2659 3 12 you
+: 2663 3 10 ~
+: 2667 9 8 ~ 
+- 2678
+: 2688 4 0 The 
+: 2693 10 5 one 
+: 2708 10 3 that 
+: 2724 12 1 got 
+: 2741 11 0 a
+: 2758 34 -2 way 
+E

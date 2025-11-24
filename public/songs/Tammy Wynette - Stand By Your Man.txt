@@ -1,0 +1,191 @@
+#ARTIST:Tammy Wynette
+#TITLE:Stand By Your Man
+#MP3:Tammy Wynette - Stand By Your Man.mp3
+#CREATOR:k1656
+#GENRE:Country
+#YEAR:1968
+#LANGUAGE:English
+#BPM:210.2
+#GAP:10700
+#VIDEO:a=AM-b8P1yj9w,co=https://m.media-amazon.com/images/I/61a4pwuiXfL.jpg,bg=wynette-tammy-640fa84a535c5.jpg,preview=83.57,medley=516-1268
+: 0 4 9 Some
+: 8 8 9 times 
+: 24 2 11 it’s 
+: 28 10 13 hard 
+- 40
+: 50 2 13 To 
+* 54 6 11 be 
+: 64 2 9 a 
+: 68 2 8 wo
+: 72 8 11 man 
+- 82
+: 132 2 11 Gi
+: 136 2 11 ving 
+: 140 8 11 all 
+: 154 2 13 your 
+: 158 10 14 love 
+- 170
+: 176 2 8 To 
+: 180 8 8 just 
+: 192 4 13 one 
+: 198 10 13 man 
+- 210
+: 258 4 21 You’ll 
+: 264 10 21 have 
+: 282 4 20 bad 
+: 290 8 18 times 
+- 300
+: 326 4 13 And 
+: 332 4 16 he’ll 
+: 338 8 16 have 
+: 354 4 14 good 
+: 360 8 13 times 
+- 370
+: 390 1 11 Do
+: 392 2 11 ing 
+: 396 8 11 things 
+: 408 2 11 that 
+: 412 2 13 you 
+: 416 8 11 don’t 
+- 426
+: 430 2 11 Un
+: 434 8 11 der
+: 446 10 8 stand 
+- 458
+: 516 2 9 But 
+: 520 4 9 if 
+: 526 6 11 you 
+: 536 2 13 love 
+: 540 10 13 him 
+- 552
+: 558 8 11 You’ll 
+: 570 2 9 for
+: 574 4 8 give 
+: 580 12 11 him 
+- 594
+: 638 2 11 E
+: 642 2 11 ven 
+: 646 8 11 though 
+: 660 4 13 he’s 
+* 666 10 14 hard 
+- 678
+: 688 2 8 To 
+: 692 1 9 un
+: 694 4 11 der
+: 700 12 13 stand 
+- 714
+: 764 4 21 And 
+: 772 4 21 if 
+: 778 6 21 you 
+: 788 4 20 love 
+: 796 8 18 him 
+- 806
+: 828 8 16 Oh, 
+: 844 4 16 be 
+: 850 4 16 proud 
+* 858 4 14 of 
+* 864 12 14 him 
+- 878
+: 892 8 13 Cause 
+: 906 2 13 af
+: 910 2 13 ter 
+: 914 8 14 all 
+- 924
+: 938 4 11 He’s 
+: 944 4 9 just 
+* 950 4 8 a 
+* 956 12 9 man 
+- 970
+: 1022 4 21 Stand 
+: 1030 4 23 by 
+: 1038 4 25 your 
+* 1046 10 20 man 
+- 1058
+: 1084 4 18 Give 
+: 1090 6 20 him 
+: 1100 2 21 two 
+: 1104 10 23 arms 
+: 1120 2 21 to 
+: 1124 4 20 cling 
+: 1130 10 18 to 
+- 1142
+: 1146 8 16 And 
+: 1158 4 15 some
+: 1164 2 16 thing 
+: 1168 8 18 warm 
+: 1182 2 16 to 
+: 1186 4 14 come 
+: 1194 10 13 to 
+- 1206
+: 1214 2 11 When 
+: 1218 8 11 nights 
+: 1230 2 9 are 
+: 1234 8 8 cold 
+* 1246 2 8 and 
+* 1250 4 8 lone
+* 1258 10 8 ly 
+- 1270
+: 1274 4 21 Stand 
+: 1282 4 23 by 
+: 1290 4 25 your 
+: 1296 12 20 man 
+- 1310
+: 1336 4 18 And 
+: 1344 2 20 show 
+: 1348 4 21 the 
+* 1356 8 23 world 
+- 1365
+: 1366 4 21 You 
+: 1374 4 20 love 
+: 1380 12 18 him 
+- 1394
+: 1398 4 16 Keep 
+: 1406 2 16 gi
+: 1410 6 13 ving 
+: 1420 10 14 all 
+- 1432
+: 1434 2 11 The 
+: 1438 3 9 love 
+: 1443 2 11 you
+: 1446 2 8 ~ 
+: 1452 2 13 can
+: 1456 8 11 ~ 
+- 1466
+: 1525 15 9 Stand 
+: 1546 14 11 by 
+* 1568 2 13 you
+* 1571 3 11 ~r 
+: 1578 10 9 man 
+- 1590
+: 1649 5 21 Stand 
+: 1658 4 23 by 
+: 1666 4 25 your 
+: 1674 10 20 man 
+- 1686
+: 1712 4 18 And 
+: 1720 4 20 show 
+: 1726 4 21 the 
+: 1732 8 23 world 
+- 1741
+: 1742 4 21 You 
+: 1750 4 20 love 
+: 1756 12 18 him 
+- 1770
+: 1774 4 16 Keep 
+: 1782 4 16 gi
+: 1788 4 18 ving 
+: 1794 8 20 all 
+- 1804
+: 1810 2 20 The 
+: 1814 2 21 love 
+: 1818 4 23 you 
+* 1826 28 25 can 
+- 1856
+: 1906 8 21 Stand 
+: 1920 16 23 by 
+: 1942 1 25 you
+: 1944 8 23 ~r 
+* 1957 1 25 man
+* 1959 1 23 ~
+* 1961 39 21 ~ 
+E

@@ -1,0 +1,476 @@
+#ARTIST:Linkin Park
+#TITLE:Up From The Bottom [DUET]
+#MP3:Linkin Park - Up From The Bottom [DUET].mp3
+#CREATOR:CHQ
+#EDITION:[DUET]-Songs
+#COVER:Linkin Park - Up From The Bottom [DUET] [CO].jpg
+#BACKGROUND:Linkin Park - Up From The Bottom [DUET] [BG].jpg
+#GENRE:Nu Metal
+#YEAR:2025
+#LANGUAGE:English
+#BPM:321
+#GAP:20740
+#VIDEO:v=97Mj6pXYMd8,co=https://images.genius.com/dfac67dda1737daafd36eadd7ed1c382.1000x1000x1.png,bg=linkin-park-68718cc580e09.jpg,p1=Emily Armstrong,p2=Mike Shinoda
+P1
+: 0 3 17 In
+: 4 7 17 side 
+: 12 4 19 it 
+: 17 8 20 feels
+: 26 4 18 ~ 
+: 31 11 17 like 
+: 43 5 19 I’ve 
+: 49 2 20 been 
+: 52 6 20 bare
+: 59 4 22 ly 
+: 65 8 20 breath
+: 74 4 17 ~
+: 79 21 17 ing 
+- 110
+: 114 3 17 Feels
+: 118 2 19 ~
+: 121 4 23 ~ 
+: 126 10 15 like 
+: 139 2 17 air
+: 142 2 19 ~ 
+: 145 3 19 is 
+: 149 6 19 run
+: 156 5 17 ning 
+: 163 23 17 out 
+- 190
+: 192 4 17 In 
+: 198 6 17 side 
+: 206 2 19 I’m 
+: 209 7 20 stuck
+: 217 3 18 ~ 
+: 223 7 17 here 
+: 235 3 19 star
+: 239 3 20 ing 
+: 243 8 20 at 
+: 252 2 22 a 
+: 256 6 20 ceil
+: 263 6 17 ~
+: 270 16 17 ing 
+- 296
+: 306 3 17 You
+: 310 5 19 ~ 
+: 319 10 15 put 
+: 330 5 17 up 
+: 338 2 19 to 
+: 341 5 19 keep 
+: 347 5 17 me 
+: 353 12 17 down, 
+- 365
+: 366 11 17 Down, 
+: 378 11 17 down, 
+: 390 11 17 down, 
+: 402 11 17 down 
+- 455
+: 577 4 18 You 
+: 582 5 18 keep 
+: 588 5 20 me 
+* 594 3 22 wait
+* 598 7 24 ~
+* 606 14 22 ing, 
+: 623 6 23 down 
+: 631 8 22 here, 
+: 645 8 22 so 
+: 654 8 22 far 
+: 663 2 22 be
+: 666 6 22 low 
+- 676
+: 678 4 17 Star
+: 683 7 19 ing 
+: 691 5 19 up 
+: 702 8 25 from 
+: 711 2 25 the 
+: 714 2 25 bot
+: 717 11 24 tom, 
+: 738 5 20 up 
+: 750 2 23 from
+: 753 5 24 ~ 
+: 759 1 24 the 
+: 762 3 22 bot
+: 766 2 22 tom 
+- 769
+: 771 2 22 I 
+: 774 6 17 try 
+: 782 3 22 es
+: 786 3 22 cap
+: 790 6 24 ~
+: 797 12 22 ing, 
+: 816 3 22 but 
+: 822 9 22 there’s 
+: 840 5 22 no
+: 846 6 22 where 
+: 854 3 22 to 
+: 859 6 22 go 
+- 869
+: 871 5 17 Star
+: 877 4 20 ing 
+: 882 5 20 up 
+* 894 7 25 from 
+* 902 3 25 the 
+* 906 3 25 bot
+* 910 8 24 tom, 
+: 931 4 20 up 
+: 941 3 23 from
+: 945 5 24 ~ 
+: 951 2 24 the 
+: 954 2 24 bot
+: 957 16 22 tom
+: 974 3 23 ~
+: 978 4 24 ~ 
+- 1003
+: 1056 5 16 Each 
+: 1062 5 17 time 
+: 1068 6 19 I 
+: 1075 5 20 hold
+: 1081 3 17 ~ 
+: 1086 7 17 my 
+: 1098 4 20 fist 
+: 1103 3 21 in
+: 1107 6 20 side 
+: 1117 3 19 my 
+: 1121 5 20 pock
+: 1127 6 19 ~
+: 1134 30 17 et 
+- 1169
+: 1171 4 19 Hold
+: 1176 4 15 ~ 
+: 1181 3 15 my 
+: 1192 3 17 breath
+: 1196 3 19 ~ 
+: 1201 2 19 un
+: 1204 6 19 til 
+: 1212 4 17 I’m 
+* 1217 23 17 blue 
+- 1246
+: 1248 5 17 Feels 
+: 1254 5 17 like 
+: 1260 5 17 a 
+: 1267 11 24 knife 
+: 1279 9 17 pushed 
+: 1289 7 20 deep 
+: 1297 2 21 in
+: 1300 7 20 side 
+: 1308 3 22 a 
+: 1313 6 21 sock
+: 1320 5 17 ~
+: 1326 26 17 et 
+- 1359
+: 1362 8 20 Bristl
+: 1371 2 15 ~
+: 1374 12 15 ing, 
+: 1387 4 18 lis
+: 1392 1 18 ten
+: 1394 7 19 ing 
+: 1404 2 17 to 
+: 1407 11 17 you, 
+- 1418
+: 1419 13 17 You, 
+: 1433 10 17 you, 
+: 1444 10 17 you, 
+: 1455 5 17 you 
+- 1502
+: 1633 4 17 You 
+: 1638 5 17 keep 
+: 1644 4 20 me 
+: 1649 4 22 wait
+: 1654 7 24 ~
+: 1662 12 22 ing, 
+: 1680 5 22 down 
+: 1686 12 22 here, 
+: 1705 2 22 so 
+: 1710 8 22 far 
+: 1719 2 22 be
+: 1722 5 22 low 
+- 1733
+: 1735 4 17 Star
+: 1741 5 19 ing 
+: 1747 3 20 up 
+: 1758 6 25 from 
+: 1766 3 25 the 
+: 1770 4 25 bot
+: 1775 8 24 tom, 
+: 1795 4 20 up 
+: 1807 7 24 from 
+: 1816 2 24 the 
+: 1819 2 22 bot
+: 1822 5 22 tom 
+- 1829
+: 1831 4 17 I 
+: 1836 3 20 try 
+: 1841 2 22 es
+: 1844 8 24 ca
+: 1854 12 22 ping, 
+: 1872 2 22 but 
+: 1878 9 22 there’s 
+: 1896 5 22 no
+: 1902 1 23 where
+: 1904 6 22 ~ 
+: 1912 3 22 to 
+: 1916 6 22 go 
+- 1923
+: 1925 7 17 Star
+: 1933 4 20 ing 
+: 1938 5 20 up 
+: 1950 7 25 from 
+: 1958 2 25 the 
+: 1963 3 25 bot
+: 1967 8 24 tom, 
+: 1986 11 20 up 
+: 1999 7 24 from 
+: 2007 2 24 the 
+* 2010 4 24 bot
+* 2015 15 22 tom 
+- 2072
+: 2881 6 17 You 
+: 2888 4 17 keep 
+: 2893 4 20 me 
+: 2898 3 10 wait
+: 2902 3 12 ~
+: 2906 4 10 ~
+: 2911 9 10 ing, 
+: 2929 4 10 down 
+: 2934 10 10 here, 
+: 2953 3 10 so 
+: 2959 7 10 far 
+: 2967 2 10 be
+: 2970 5 10 low 
+- 2981
+: 2983 5 17 Star
+: 2989 4 19 ing 
+: 2994 5 20 up 
+: 3007 2 24 from
+: 3010 4 25 ~ 
+: 3015 2 25 the 
+: 3020 2 25 bot
+: 3023 11 24 tom, 
+: 3042 9 20 up 
+: 3054 7 24 from 
+: 3063 2 23 the 
+: 3066 3 24 bot
+: 3070 1 22 tom 
+- 3071
+: 3072 5 17 I 
+: 3078 5 17 try 
+* 3084 5 20 es
+* 3090 2 22 cap
+* 3093 6 24 ~
+* 3102 10 22 ing, 
+: 3120 2 23 but 
+: 3126 9 22 there’s 
+: 3143 3 22 no
+: 3148 13 22 where 
+: 3162 2 22 to 
+: 3165 4 22 go 
+- 3173
+: 3175 5 17 Star
+: 3181 5 19 ing 
+: 3187 3 20 up 
+: 3201 5 25 from 
+: 3207 2 25 the 
+: 3210 4 25 bot
+: 3215 14 24 tom, 
+: 3240 3 23 got
+: 3244 6 22 ta 
+: 3251 6 24 get 
+: 3258 5 22 out 
+: 3264 4 20 of 
+: 3269 7 20 here 
+- 3281
+: 3283 5 20 Up 
+: 3294 8 25 from 
+: 3304 2 26 the 
+* 3307 3 26 bot
+* 3311 13 24 tom, 
+: 3336 2 23 got
+: 3340 7 22 ta 
+: 3348 6 24 get 
+* 3356 4 22 out 
+* 3361 4 20 of 
+* 3366 9 20 here 
+P2
+F 409 1 7 Wak
+F 411 2 7 ing 
+F 414 2 11 up 
+F 417 2 8 with
+F 420 2 7 out 
+F 423 1 6 a 
+F 425 8 6 name 
+- 435
+F 437 3 9 O
+F 441 2 9 pen 
+F 444 1 9 up 
+F 447 1 8 my 
+F 449 6 11 eyes, 
+F 456 2 9 know
+F 459 2 8 ing 
+F 462 1 11 no
+F 464 5 11 thing 
+F 470 1 6 is 
+F 472 1 6 the 
+F 474 9 11 same 
+- 493
+F 503 3 11 Cir
+F 507 1 10 cl
+F 509 3 10 ing 
+F 513 2 10 a
+F 516 2 10 round 
+F 519 1 10 a 
+F 521 7 11 drain 
+- 531
+F 533 2 11 As 
+F 536 1 11 I 
+F 540 3 11 re
+F 544 2 11 al
+F 547 4 9 ize 
+F 552 2 9 that 
+F 555 2 9 there’s 
+F 558 2 12 no 
+F 561 3 11 one 
+F 565 1 11 else 
+F 567 1 13 to 
+F 569 9 13 blame 
+- 620
+F 1465 1 9 Wak
+F 1467 2 7 ing 
+F 1470 2 11 up 
+F 1473 2 11 with
+F 1476 2 8 out 
+F 1480 1 7 a 
+F 1482 7 10 name 
+- 1491
+F 1493 3 10 O
+F 1497 2 10 pen
+F 1500 2 7 ing 
+F 1503 1 7 my 
+F 1505 6 11 eyes 
+F 1512 2 8 know
+F 1515 2 8 ing 
+F 1518 1 11 no
+F 1520 4 11 thing’s 
+F 1525 1 10 gon
+F 1527 1 10 na 
+F 1530 10 12 change 
+- 1550
+F 1559 3 11 Cir
+F 1563 1 10 cl
+F 1565 3 10 ing 
+F 1569 2 11 a
+F 1572 2 11 round 
+F 1575 1 8 a 
+F 1578 6 11 drain 
+- 1586
+F 1588 4 11 As 
+F 1593 1 10 I 
+F 1595 3 10 re
+F 1599 2 11 al
+F 1602 4 11 ize 
+F 1607 2 9 that 
+F 1610 2 9 there’s 
+F 1613 2 12 no 
+F 1616 3 12 one 
+F 1620 1 11 else 
+F 1622 1 11 to 
+F 1625 8 13 blame 
+- 1675
+F 2131 1 7 Eve
+F 2133 2 7 ry
+F 2136 2 9 bo
+F 2139 2 9 dy 
+F 2143 4 9 out, 
+F 2149 4 9 that 
+F 2155 2 9 de
+F 2158 2 9 vil 
+F 2161 3 9 is 
+F 2166 3 10 com
+F 2171 4 9 ing 
+- 2177
+F 2179 1 11 Poi
+F 2181 2 11 son 
+F 2184 2 9 on 
+F 2187 2 9 his 
+F 2191 4 10 lips, 
+F 2197 2 10 and 
+F 2200 2 10 his 
+F 2203 4 10 words 
+F 2209 3 10 mean 
+F 2214 3 9 no
+F 2219 4 9 thing 
+- 2225
+F 2227 5 10 Cold 
+F 2233 2 8 like 
+F 2236 2 8 a 
+F 2239 2 10 moun
+F 2242 2 10 tain
+F 2245 4 10 top, 
+F 2251 2 10 fa
+F 2254 2 10 ther 
+F 2257 2 10 ne
+F 2260 2 11 ver 
+F 2263 4 11 loved 
+F 2269 2 10 him 
+- 2273
+F 2275 2 10 Ma
+F 2278 2 10 ma 
+F 2281 2 11 said 
+F 2284 2 11 he’s 
+F 2287 4 11 bad 
+F 2292 1 10 e
+F 2294 2 10 nough 
+F 2298 5 11 times 
+F 2304 2 11 that 
+F 2307 2 11 it 
+F 2311 5 10 sunk 
+F 2317 3 11 in 
+- 2322
+F 2324 1 10 Eve
+F 2326 2 10 ry
+F 2329 2 10 bo
+F 2332 2 10 dy 
+F 2336 4 9 out, 
+F 2342 4 11 that 
+F 2347 2 10 de
+F 2350 2 10 vil 
+F 2353 3 10 is 
+F 2358 3 11 com
+F 2363 4 9 ing 
+- 2370
+F 2372 1 11 Pro
+F 2374 2 11 mise 
+F 2377 2 9 you 
+F 2380 2 9 the 
+F 2384 4 11 world, 
+F 2389 2 10 but 
+F 2392 2 10 he’s 
+F 2395 4 10 al
+F 2401 3 10 ways 
+F 2406 3 7 bluff
+F 2411 3 7 ing 
+- 2416
+F 2418 1 12 Be
+F 2420 2 12 fore 
+F 2423 2 10 you 
+F 2426 2 9 e
+F 2429 2 9 ven 
+F 2432 4 11 know, 
+F 2437 2 11 it’s 
+F 2440 2 11 a 
+F 2443 3 11 trap 
+F 2448 3 11 you’re 
+F 2453 5 11 stuck 
+F 2459 1 11 in 
+- 2461
+F 2463 3 8 He’s 
+F 2467 4 11 gone 
+F 2472 3 11 like 
+F 2476 2 11 a 
+F 2480 4 11 ghost, 
+F 2485 4 11 al
+F 2490 2 11 rea
+F 2493 2 11 dy 
+F 2496 5 11 off 
+F 2503 3 12 run
+F 2507 4 18 ning 
+E

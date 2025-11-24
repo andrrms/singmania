@@ -1,0 +1,171 @@
+#ARTIST:King Crimson
+#TITLE:Moonchild
+#MP3:King Crimson - Moonchild.mp3
+#CREATOR:RetroGirl
+#GENRE:Progressive Rock
+#YEAR:1969
+#LANGUAGE:English
+#BPM:308
+#GAP:14230
+#VIDEO:a=f-zEzxfq40g,co=https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/2f/c7/19/2fc71988-6871-be2c-6731-a3d0f2a6b232/Court_2500px.jpg/5000x5000bb.jpg
+: 0 8 4 Call 
+: 9 6 4 her 
+: 16 15 9 moon
+: 32 34 16 child 
+- 68
+: 82 9 14 Danc
+: 92 6 12 ing 
+: 99 5 14 in 
+: 105 6 16 the 
+: 112 8 14 shal
+: 121 13 12 lows 
+- 136
+: 142 5 8 Of 
+: 148 4 5 a 
+: 153 9 5 riv
+: 163 40 4 er 
+- 205
+: 260 8 4 Love
+: 269 7 4 ly 
+: 277 15 9 moon
+* 293 34 16 child 
+- 329
+: 341 10 14 Dream
+: 352 5 12 ing 
+: 358 8 14 in 
+: 367 4 16 the 
+: 372 10 14 shad
+: 383 9 12 ow 
+- 394
+: 403 6 8 Of 
+: 410 2 12 the 
+: 413 9 12 wil
+: 423 34 9 low 
+- 459
+: 540 8 16 Talk
+: 549 6 14 ing 
+: 556 6 12 to 
+: 563 3 9 the 
+: 567 19 11 trees 
+- 588
+: 589 6 9 Of 
+: 596 3 7 the 
+: 602 16 9 cob
+: 619 12 7 web 
+: 632 23 4 strange 
+- 657
+: 665 10 16 Sleep
+: 676 6 14 ing 
+: 683 6 12 on 
+: 690 4 9 the 
+: 695 17 11 steps 
+- 714
+* 721 3 9 Of 
+* 725 3 7 a 
+: 729 15 9 foun
+: 745 29 16 tain 
+- 776
+: 794 8 16 Wav
+: 803 5 14 ing 
+: 809 7 12 sil
+: 817 3 9 ver 
+: 821 20 11 wands 
+- 843
+: 849 4 9 To 
+: 854 2 7 the 
+: 857 13 9 Night
+: 871 17 7 birds 
+: 889 17 4 song 
+- 908
+: 922 8 16 Wait
+: 931 7 14 ing 
+: 939 7 12 for 
+: 947 4 9 the 
+* 952 14 11 sun 
+- 968
+: 976 4 9 On 
+: 981 3 7 the 
+: 985 15 9 moun
+: 1001 27 9 tain 
+- 1030
+: 1543 10 4 She’s 
+: 1554 5 4 a 
+: 1560 14 9 moon
+: 1575 34 16 child 
+- 1611
+: 1623 8 14 Gath
+: 1632 3 12 er
+: 1636 12 14 ing 
+: 1649 4 16 the 
+: 1654 9 14 flow
+: 1664 9 12 ers 
+- 1675
+: 1681 5 8 In 
+: 1687 3 5 a 
+: 1691 10 5 gar
+: 1702 42 4 den 
+- 1746
+: 1797 8 4 Love
+: 1806 7 4 ly 
+: 1814 15 9 moon
+: 1830 34 16 child 
+- 1866
+: 1876 8 14 Drift
+: 1885 7 12 ing 
+: 1893 6 14 on 
+: 1900 4 16 the 
+: 1905 9 14 ech
+: 1915 12 12 oes 
+- 1929
+: 1936 6 8 Of 
+: 1943 4 12 the 
+: 1948 7 12 hours
+: 1956 44 9 ~ 
+- 2002
+* 2063 10 16 Sail
+* 2074 5 14 ing 
+: 2080 7 12 on 
+: 2088 3 9 the 
+: 2092 19 11 wind 
+- 2113
+: 2119 4 9 In 
+: 2124 3 7 a 
+* 2128 16 9 milk 
+: 2145 15 7 white 
+: 2161 21 4 gown 
+- 2184
+: 2192 7 16 Drop
+: 2200 6 14 ping 
+: 2207 8 12 cir
+: 2216 5 9 cle 
+: 2222 18 11 stones 
+- 2242
+: 2247 3 9 On 
+: 2251 2 7 a 
+: 2254 18 9 sun 
+: 2273 2 16 di
+: 2276 28 16 al 
+- 2306
+: 2319 8 16 Play
+: 2328 7 14 ing 
+: 2336 7 12 hide 
+: 2344 4 9 and 
+: 2349 12 11 seek 
+- 2363
+: 2373 5 9 With 
+: 2379 3 7 the 
+: 2383 16 9 ghosts 
+: 2400 13 7 of 
+: 2414 18 4 dawn 
+- 2434
+: 2447 8 16 Wait
+: 2456 5 14 ing 
+: 2470 4 12 for 
+: 2475 2 9 a 
+* 2478 17 11 smile 
+- 2497
+: 2502 4 9 From 
+: 2507 2 7 a 
+* 2510 19 9 sun 
+: 2530 44 9 child 
+E

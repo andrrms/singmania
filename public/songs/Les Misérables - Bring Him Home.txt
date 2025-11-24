@@ -1,0 +1,161 @@
+#ARTIST:Les Misérables
+#TITLE:Bring Him Home
+#MP3:Les Misérables - Bring Him Home.mp3
+#CREATOR:Karakth
+#GENRE:Musical
+#LANGUAGE:English
+#BPM:376
+#GAP:12640
+#VIDEO:a=1azGAl5RYzo,co=https://www.bestoftheatre.co.uk/assets/images/content/shows/square-poster/original/les-miserables-10.jpg
+: 0 31 -2 God 
+- 32
+: 32 23 10 On  
+* 56 103 10 high 
+- 160
+: 160 23 12 Hear 
+: 184 23 8 my 
+: 208 88 10 prayer 
+- 298
+: 320 15 8 In 
+: 336 16 5 my 
+* 356 71 7 need 
+- 428
+: 428 23 8 You 
+: 452 7 5 have 
+* 460 11 7 al
+: 472 11 5 ways 
+: 484 7 3 been 
+: 492 48 -2 there 
+- 542
+: 564 23 -2 He 
+: 588 7 10 is 
+* 596 92 10 young 
+- 690
+: 692 23 12 He’s 
+: 716 7 8 a
+: 724 76 10 fraid 
+- 802
+: 808 15 8 Let 
+: 824 11 5 him 
+: 836 79 7 rest 
+- 916
+: 916 23 8 Hea
+: 940 7 5 ven 
+* 948 72 3 blessed. 
+- 1022
+: 1024 15 3 Bring 
+: 1040 7 12 him 
+* 1048 71 12 home 
+- 1120
+: 1120 19 14 Bring 
+: 1140 7 10 him 
+: 1148 68 12 home 
+- 1218
+: 1228 23 10 Bring 
+: 1252 7 5 him 
+* 1260 56 3 home. 
+- 1318
+: 1332 7 2 He’s 
+: 1340 7 2 like 
+: 1348 3 7 the 
+: 1352 8 7 son 
+: 1364 4 2 I 
+: 1372 7 2 might 
+: 1380 7 5 have 
+: 1388 48 5 known 
+- 1438
+: 1444 7 3 If 
+: 1452 7 3 God 
+: 1460 4 7 had 
+: 1468 7 7 gran
+: 1476 7 3 ted 
+: 1484 7 3 me 
+: 1492 3 5 a 
+: 1496 20 5 son. 
+- 1518
+: 1524 7 -2 The 
+: 1532 7 -2 sum
+: 1540 7 12 mers 
+* 1548 35 12 die 
+- 1584
+: 1584 3 10 One 
+: 1588 8 12 by 
+: 1600 19 10 one 
+- 1620
+: 1620 7 10 How 
+: 1628 12 15 soon 
+: 1648 7 10 they 
+* 1656 31 12 fly 
+- 1688
+: 1688 11 12 On 
+: 1700 7 12 and 
+: 1708 19 10 on 
+- 1728
+: 1728 7 3 And 
+: 1736 11 3 I 
+: 1748 3 8 am 
+: 1752 39 8 old 
+- 1792
+: 1792 7 3 And 
+: 1800 7 3 will 
+: 1808 7 7 be 
+* 1816 88 7 gone. 
+- 1906
+: 1980 23 -2 Bring 
+: 2004 27 10 him 
+: 2032 95 10 peace 
+- 2128
+: 2128 23 12 Bring 
+: 2152 7 8 him 
+: 2160 80 10 joy 
+- 2242
+: 2260 15 8 He 
+: 2276 11 5 is 
+: 2288 63 7 young 
+- 2352
+: 2352 23 8 He 
+: 2376 4 5 is 
+: 2384 12 7 on
+: 2400 7 5 ly 
+: 2408 7 3 a 
+* 2416 40 -2 boy 
+- 2458
+: 2480 19 -2 You 
+: 2500 11 10 can 
+* 2512 63 10 take 
+- 2576
+: 2576 20 12 You 
+* 2600 7 8 can 
+: 2608 79 10 give 
+- 2688
+: 2688 23 8 Let 
+: 2712 7 5 him 
+: 2720 64 7 be 
+- 2786
+: 2788 19 8 Let 
+: 2808 11 5 him 
+* 2820 60 3 live 
+- 2882
+: 2892 11 3 If 
+: 2904 7 12 I 
+: 2912 71 12 die, 
+* 2984 15 14 let 
+: 3000 15 10 me 
+: 3016 72 12 die 
+- 3090
+: 3096 23 10 Let 
+: 3120 7 5 him 
+* 3128 100 3 live 
+- 3230
+: 3240 23 12 Bring 
+: 3264 4 8 him 
+: 3272 84 10 home 
+- 3358
+: 3368 23 12 Bring 
+: 3392 7 8 him 
+: 3400 88 10 home. 
+- 3490
+: 3528 24 12 Bring 
+: 3568 32 15 him 
+* 3612 260 15 home. 
+E

@@ -1,0 +1,144 @@
+#ARTIST:Dr. Darling
+#TITLE:Dynamite
+#MP3:Dr. Darling - Dynamite.mp3
+#CREATOR:Crowbardoctor
+#COVER:Dr. Darling - Dynamite [CO].jpg
+#BACKGROUND:Dr. Darling - Dynamite [BG].jpg
+#YEAR:2019
+#LANGUAGE:English
+#BPM:384.11
+#GAP:17990
+#VIDEO:v=8EJufYOzp8U,co=https://i1.sndcdn.com/artworks-p2NPFbLFuQ0epvL3-JsGFvQ-t1080x1080.jpg
+#START:4
+#END:74518
+: 0 3 12 No
+: 4 5 12 bo
+: 10 3 12 dy 
+: 16 6 14 knew 
+: 25 4 12 her 
+: 33 26 11 name 
+- 69
+: 76 3 9 But 
+: 81 4 9 she 
+: 86 8 9 turned 
+: 96 2 9 up 
+: 105 12 12 just 
+: 119 3 9 the 
+: 124 12 6 same 
+- 146
+: 150 7 5 There 
+: 158 5 11 was 
+: 165 1 11 a 
+: 167 6 11 knock 
+: 175 2 12 on 
+: 178 2 12 the 
+: 183 17 12 door 
+- 205
+: 207 1 12 A 
+: 212 4 11 thump 
+: 220 2 11 on 
+: 223 2 11 the 
+: 227 15 12 floor 
+: 247 2 11 and 
+: 250 1 11 the 
+: 255 7 9 par
+: 263 10 9 ty 
+: 279 14 11 turned 
+: 295 4 6 in
+: 300 16 6 sane 
+- 326
+: 339 2 6 As 
+: 342 5 4 she 
+: 350 11 4 called 
+: 369 5 6 out 
+: 376 8 4 her 
+: 388 73 3 name 
+- 470
+: 473 41 11 Hey 
+: 516 26 15 hey 
+- 544
+: 546 2 15 And 
+: 550 5 18 she 
+: 558 6 18 walked 
+: 568 8 20 in 
+: 577 4 20 loo
+: 583 3 20 king 
+: 588 6 20 like 
+: 599 11 18 dy
+: 611 4 18 na
+: 617 6 18 mite 
+- 626
+: 628 4 16 She 
+: 633 3 16 said 
+: 638 4 18 now 
+: 644 5 18 come 
+: 651 3 20 a
+: 655 4 20 long 
+: 661 2 20 and 
+: 666 4 20 boo
+: 671 4 20 ga
+: 676 8 20 loo 
+: 689 8 20 through 
+: 698 3 18 the 
+: 705 6 18 night 
+- 714
+: 716 2 11 And 
+: 720 5 11 by 
+: 726 2 11 the 
+: 731 9 16 way 
+: 742 7 16 she’s 
+: 752 5 14 mo
+: 758 4 14 ving 
+: 763 7 14 with 
+: 774 7 13 dy
+: 782 6 13 na
+: 789 17 13 mite 
+- 815
+: 818 8 4 Might 
+: 827 6 13 she 
+: 835 7 11 not? 
+- 853
+: 857 3 4 With 
+: 865 5 11 all 
+: 872 5 4 she’s 
+: 878 5 11 got 
+- 887
+: 889 3 13 She’s 
+: 894 3 16 got 
+: 899 2 17 the 
+: 902 11 18 whole 
+: 917 7 20 town 
+: 926 7 20 ligh
+: 934 2 20 ting 
+: 940 2 20 up 
+: 947 10 18 dy
+: 959 3 18 na
+: 964 6 18 mite 
+- 974
+: 976 3 16 No
+: 980 5 16 bo
+: 986 3 16 dy 
+: 992 6 18 quite 
+: 1001 5 20 know
+: 1007 4 20 ing 
+: 1013 3 20 what 
+: 1019 3 20 to 
+: 1026 5 20 do 
+: 1036 5 18 wrong 
+: 1044 1 18 or 
+: 1048 8 18 right 
+- 1061
+: 1063 4 11 But 
+: 1070 4 11 they 
+: 1080 4 15 all 
+: 1085 9 16 know 
+: 1097 6 14 Jes
+: 1104 8 14 sie 
+: 1115 3 8 is 
+: 1120 6 13 dy
+: 1129 4 13 na
+: 1136 14 13 mite 
+- 1152
+: 1154 5 11 They’re 
+: 1160 11 11 right 
+E

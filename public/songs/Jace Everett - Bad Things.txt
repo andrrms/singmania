@@ -1,0 +1,206 @@
+#ARTIST:Jace Everett
+#TITLE:Bad Things
+#MP3:Jace Everett - Bad Things.mp3
+#CREATOR:p4n4cea
+#GENRE:Country
+#YEAR:2005
+#LANGUAGE:English
+#BPM:265
+#GAP:10620
+#VIDEO:v=sMPNjPpdjKU,co=https://is1-ssl.mzstatic.com/image/thumb/Music/ba/98/c0/mzi.sjbqqhaj.jpg/5000x5000bb.jpg,bg=everett-jace-54d68619ead92.jpg
+: 0 6 23 When 
+: 8 5 21 you 
+: 15 7 19 came 
+* 24 10 18 in 
+: 36 3 19 the 
+: 41 5 18 air 
+* 48 7 15 went 
+: 57 7 16 out 
+- 66
+: 128 8 23 And 
+: 138 2 21 e
+: 142 6 19 v’ry 
+: 150 9 18 sha
+: 161 7 19 dow 
+- 170
+: 179 6 16 Filled 
+: 187 5 19 up 
+: 194 6 16 with 
+: 202 11 16 doubt 
+- 215
+: 266 2 9 I 
+: 270 3 16 don’t 
+: 275 2 16 know 
+: 279 1 19 who 
+: 282 2 21 you 
+* 286 6 23 think 
+: 294 7 21 you 
+: 303 5 19 are 
+- 309
+: 310 3 23 But 
+: 315 1 23 be
+: 317 8 26 fore 
+: 327 1 23 the 
+: 330 8 21 night 
+: 340 5 21 is 
+: 347 9 19 through 
+- 358
+* 404 1 4 I 
+* 407 1 4 wan
+* 410 1 7 na 
+: 412 7 11 do 
+: 421 4 11 bad 
+: 427 4 11 thi
+: 433 4 9 ~ngs 
+: 439 2 7 with 
+: 443 16 4 you 
+- 461
+: 517 7 23 I’m 
+: 526 1 23 the 
+: 528 7 21 kind 
+: 537 3 19 to 
+: 542 9 18 sit 
+: 553 3 19 up 
+: 558 5 18 in 
+: 565 7 15 his 
+: 574 10 16 room 
+- 586
+: 648 5 23 Heart 
+: 655 9 21 sick 
+: 666 3 19 an’ 
+: 671 9 18 eyes 
+: 682 6 19 filled 
+: 690 4 18 up 
+: 696 5 15 with 
+: 703 10 16 blue 
+- 715
+: 783 3 9 I 
+: 788 2 16 don’t 
+: 792 2 16 know 
+: 796 2 19 what 
+: 800 2 21 you’ve 
+: 804 5 23 done 
+* 811 6 21 to 
+: 819 2 19 me
+: 823 3 23 ~ 
+- 827
+: 828 2 23 But 
+: 832 2 23 I 
+* 836 7 26 know 
+: 845 1 23 this 
+: 848 7 21 much 
+: 857 5 21 is 
+: 864 10 19 true 
+- 876
+: 921 1 4 I 
+: 924 1 4 wan
+: 927 1 7 na 
+: 930 6 11 do 
+: 938 4 11 bad 
+: 944 10 9 things 
+: 956 3 7 with 
+: 961 11 4 you 
+- 974
+: 1003 4 7 O
+: 1009 9 4 kay 
+- 1020
+F 1301 1 24 When 
+F 1304 3 24 you 
+F 1309 5 24 came 
+F 1316 7 24 in 
+- 1325
+F 1341 3 24 The 
+F 1346 3 24 air 
+F 1351 2 24 went 
+F 1355 6 24 out 
+- 1363
+F 1437 1 24 And 
+F 1440 4 24 all 
+F 1446 5 24 those 
+F 1453 5 24 sha
+F 1460 3 24 dows 
+F 1465 6 24 there 
+- 1473
+F 1488 5 24 Filled 
+F 1495 2 24 up 
+F 1499 1 24 with 
+F 1502 10 24 doubt 
+- 1514
+: 1560 2 11 I 
+: 1564 2 14 don’t 
+: 1568 2 16 know 
+: 1572 2 19 who 
+: 1576 2 21 you 
+: 1580 7 23 think 
+: 1589 5 21 you 
+: 1596 6 19 are 
+- 1603
+: 1604 3 23 But 
+: 1609 1 23 be
+: 1611 7 26 fore 
+: 1620 1 23 the 
+: 1622 10 21 night 
+: 1634 4 21 is 
+: 1640 10 19 through 
+- 1652
+: 1697 1 4 I 
+: 1700 1 4 wan
+: 1703 1 7 na 
+: 1706 5 11 do 
+: 1713 6 11 bad 
+: 1721 4 11 thi
+: 1727 4 9 ~ngs 
+* 1733 2 7 with 
+* 1737 10 4 you 
+- 1749
+: 1819 1 4 I 
+: 1821 2 4 wan
+: 1825 1 7 na 
+: 1828 5 11 do 
+: 1835 6 11 real 
+: 1843 4 11 bad 
+: 1849 4 11 thi
+: 1855 5 9 ~ngs 
+: 1862 2 7 with 
+: 1866 23 16 you 
+- 1891
+: 2206 2 16 I 
+: 2210 3 16 don’t 
+: 2215 2 19 know 
+: 2219 2 21 what 
+: 2223 2 21 you’ve 
+: 2227 5 23 done 
+: 2234 7 21 to 
+: 2243 1 19 me
+: 2246 3 23 ~ 
+- 2250
+: 2251 4 23 But 
+: 2257 1 23 I 
+* 2260 7 26 know 
+: 2269 1 23 this 
+* 2272 6 26 much 
+: 2280 4 23 is 
+: 2286 4 21 tru
+: 2292 17 23 ~e 
+- 2311
+: 2344 2 4 I 
+: 2348 1 4 wan
+: 2351 1 7 na 
+: 2354 5 11 do 
+: 2361 5 11 bad 
+: 2368 4 11 thi
+: 2374 4 9 ~ngs 
+: 2380 2 7 with 
+: 2384 11 4 you 
+- 2397
+: 2466 1 4 I 
+: 2469 1 4 wan
+: 2472 1 7 na 
+: 2475 6 11 do 
+: 2483 6 11 real 
+: 2491 4 11 bad 
+: 2497 4 11 thi
+: 2503 5 9 ~ngs 
+: 2510 1 7 with 
+* 2513 26 16 you 
+E

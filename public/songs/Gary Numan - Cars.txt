@@ -1,0 +1,135 @@
+#ARTIST:Gary Numan
+#TITLE:Cars
+#MP3:Gary Numan - Cars.mp3
+#CREATOR:rote_rose
+#COVER:Gary Numan - Cars [CO].jpg
+#BACKGROUND:Gary Numan - Cars [BG].jpg
+#GENRE:New Wave
+#YEAR:1979
+#LANGUAGE:English
+#BPM:257.89
+#GAP:29350
+#VIDEO:a=LrjM8Fi7J58,v=Im3JzxlatUs,co=cars-68ac0edfc5530.jpg,bg=numan-gary-5026a93c591b1.jpg
+: 0 3 13 Here 
+: 4 3 12 in 
+: 8 3 7 my 
+: 12 7 9 car 
+- 23
+: 25 2 9 I 
+: 29 2 7 feel 
+: 33 2 14 sa
+: 37 2 13 fest 
+: 41 2 7 of 
+: 45 6 9 all 
+- 57
+: 59 2 9 I 
+: 63 2 7 can 
+: 67 2 14 lock 
+: 71 2 13 all 
+: 75 2 7 my 
+* 79 6 9 doors 
+- 88
+: 90 3 9 It’s 
+: 94 3 9 the 
+: 98 3 14 on
+: 102 3 14 ly 
+: 106 2 14 way 
+: 109 1 16 to 
+: 111 6 13 live 
+- 120
+: 122 4 9 In 
+* 130 3 11 cars
+* 134 6 7 ~ 
+- 157
+: 197 3 13 Here 
+: 201 3 12 in 
+: 205 3 7 my 
+: 209 7 9 car 
+- 220
+: 222 2 9 I 
+: 226 2 7 can 
+: 230 2 14 on
+: 234 2 13 ly 
+: 238 2 7 re
+: 242 6 9 ceive 
+- 253
+: 255 2 9 I 
+: 259 2 7 can 
+* 263 2 14 lis
+* 267 2 13 ten 
+: 271 2 7 to 
+: 275 6 9 you 
+- 281
+: 283 3 9 It 
+: 287 3 9 keeps 
+: 291 3 9 me 
+: 295 3 14 sta
+: 299 3 14 ble 
+: 303 6 16 for 
+: 310 6 13 nights 
+- 317
+: 319 4 9 In 
+: 327 3 11 cars
+: 331 6 7 ~ 
+- 371
+* 648 3 13 Here 
+: 652 3 12 in 
+: 656 3 7 my 
+: 660 7 9 car 
+- 670
+: 672 2 9 Where 
+: 676 2 7 the 
+: 680 2 14 i
+: 684 2 13 mage 
+: 688 2 7 breaks 
+: 692 6 9 down 
+- 702
+: 704 2 9 Will 
+: 708 2 7 you 
+: 712 2 14 vi
+: 716 2 13 sit 
+: 720 2 7 me 
+: 724 6 9 please 
+- 734
+: 736 3 9 If 
+: 740 3 9 I 
+* 744 3 14 o
+* 748 3 14 pen 
+: 752 7 16 my 
+: 760 7 13 door? 
+- 767
+: 769 4 9 In 
+: 777 3 11 cars
+: 781 6 7 ~ 
+- 804
+: 843 3 13 Here 
+: 847 3 12 in 
+: 851 3 7 my 
+: 855 7 9 car 
+- 862
+: 864 2 9 I 
+: 868 2 9 know 
+: 872 2 7 I’ve 
+: 876 2 14 star
+: 880 2 13 ted 
+: 884 2 7 to 
+: 888 6 9 think 
+- 894
+: 896 3 9 A
+* 900 5 9 bout 
+: 907 3 14 lea
+: 911 3 13 ving 
+: 915 3 7 to
+: 919 6 9 night 
+- 926
+: 928 3 9 Al
+: 932 7 9 though 
+: 940 3 14 no
+: 944 3 14 thing 
+: 948 7 16 seems 
+: 956 6 13 right 
+- 962
+: 964 4 9 In 
+* 972 3 11 cars
+* 976 6 7 ~ 
+E

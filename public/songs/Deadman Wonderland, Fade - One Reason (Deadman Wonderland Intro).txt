@@ -1,0 +1,174 @@
+#ARTIST:Deadman Wonderland, Fade
+#TITLE:One Reason (Deadman Wonderland Intro)
+#MP3:Deadman Wonderland, Fade - One Reason (Deadman Wonderland Intro).mp3
+#CREATOR:LilPeep1337
+#COVER:Deadman Wonderland, Fade - One Reason (Deadman Wonderland Intro) [CO].jpg
+#BACKGROUND:Deadman Wonderland, Fade - One Reason (Deadman Wonderland Intro) [BG].jpg
+#GENRE:Anime
+#YEAR:2011
+#LANGUAGE:English
+#BPM:218.02
+#GAP:4760
+#VIDEO:v=_5WvUPHF5f8,co=one-reason-687e3a2493570.jpg
+: 0 25 6 Yeah
+: 27 28 4 ~
+: 56 3 1 ~
+: 61 8 1 ~
+: 71 18 -1 ~
+: 91 16 -6 ~ 
+- 109
+: 128 25 6 Yeah
+: 155 28 4 ~
+: 184 3 1 ~
+: 189 8 1 ~
+: 199 18 -1 ~
+: 219 16 -6 ~ 
+- 237
+: 260 2 1 Slit 
+: 264 2 1 the 
+: 268 4 1 throat 
+: 274 4 1 of 
+: 280 5 2 rea
+: 287 4 1 son 
+: 293 2 1 and 
+: 297 2 -1 re
+: 301 3 -1 al
+: 307 3 1 i
+: 313 5 1 ty 
+- 320
+: 324 2 1 Cut 
+: 328 2 1 my
+: 332 4 1 self 
+: 338 4 1 and 
+* 344 5 2 scream 
+: 351 4 4 for 
+: 357 2 1 their 
+: 361 2 1 in
+: 365 3 2 san
+: 371 3 2 i
+: 376 6 1 ty 
+- 384
+: 388 2 1 Wake 
+: 392 2 1 up 
+: 396 4 1 to 
+: 402 4 1 this 
+: 408 5 2 night
+: 415 4 1 mare 
+: 421 2 1 that 
+: 425 2 -1 will 
+: 429 3 -1 ne
+: 435 3 1 ver 
+: 441 5 1 end 
+- 448
+: 451 1 -1 The 
+: 453 2 1 main 
+* 457 2 1 at
+: 461 4 1 trac
+: 467 3 1 tion 
+- 471
+: 473 5 2 Of 
+: 479 4 4 this 
+: 485 2 1 twis
+* 489 2 1 ted 
+: 493 3 2 mas
+: 498 1 1 ter
+: 500 1 2 ~ 
+: 503 11 1 plan 
+- 516
+: 518 20 6 Yeah
+: 540 28 4 ~
+: 569 3 1 ~
+: 574 8 1 ~
+: 584 18 -1 ~
+: 604 16 -6 ~ 
+- 622
+: 636 30 6 Yeah
+: 668 30 4 ~ 
+- 700
+: 704 2 4 I 
+: 708 2 4 will 
+: 712 2 2 be 
+: 716 4 4 your 
+: 722 4 5 dead
+: 728 15 4 man
+: 745 10 2 ~
+: 757 4 0 ~ 
+- 763
+: 769 2 -3 With 
+: 773 2 4 no
+: 777 2 2 thing 
+* 781 4 4 but 
+: 787 2 5 this 
+: 793 11 7 blood 
+: 805 2 0 on 
+: 809 5 2 my 
+: 817 3 0 hands
+: 821 5 -1 ~ 
+- 828
+: 833 2 4 Stuck 
+: 837 2 4 in 
+: 841 2 2 your 
+: 845 4 4 Won
+: 851 4 5 der
+: 857 15 4 land
+: 874 10 2 ~
+: 886 4 0 ~ 
+- 892
+: 897 2 -3 I 
+: 901 2 4 want 
+: 905 2 2 to 
+: 909 4 4 make 
+* 915 3 5 you 
+* 921 11 7 bleed 
+: 933 2 7 just 
+: 937 5 7 like 
+: 945 3 5 me
+: 949 6 4 ~ 
+- 957
+: 961 2 -3 So 
+: 965 2 4 make 
+* 969 2 2 me 
+: 973 4 4 your 
+: 979 3 5 dead
+: 985 15 4 man
+: 1001 10 2 ~
+: 1013 4 0 ~ 
+- 1019
+: 1025 2 -3 With 
+: 1029 2 2 on
+: 1033 2 2 ly 
+* 1037 4 0 poi
+* 1043 4 -1 son 
+* 1049 13 0 in 
+* 1065 6 2 my 
+* 1073 3 5 veins
+* 1077 5 4 ~ 
+- 1084
+: 1089 2 4 Stuck 
+: 1093 2 4 in 
+: 1097 2 2 your 
+: 1101 4 4 Won
+: 1107 4 5 der
+: 1113 15 4 land
+: 1130 10 2 ~
+: 1142 4 0 ~ 
+- 1148
+: 1153 1 5 Stag
+: 1156 2 5 na
+: 1160 1 5 ted 
+: 1163 1 5 by 
+: 1167 2 5 the 
+: 1171 1 6 pas
+: 1175 1 7 si
+: 1177 1 7 vi
+: 1179 2 7 ty 
+- 1183
+: 1185 1 7 I’m 
+: 1188 1 7 gon
+: 1190 1 7 na 
+: 1193 4 7 make 
+: 1200 1 7 you 
+: 1203 1 7 bleed 
+* 1206 3 9 like 
+* 1212 6 9 me 
+E

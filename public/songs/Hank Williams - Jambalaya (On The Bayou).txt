@@ -1,0 +1,246 @@
+#ARTIST:Hank Williams
+#TITLE:Jambalaya (On The Bayou)
+#MP3:Hank Williams - Jambalaya (On The Bayou).mp3
+#CREATOR:Unknown
+#COVER:Hank Williams - Jambalaya (On The Bayou) [CO].jpg
+#BACKGROUND:Hank Williams - Jambalaya (On The Bayou) [BG].jpg
+#YEAR:1951
+#LANGUAGE:English
+#BPM:332
+#GAP:6240
+#VIDEO:v=kUBCZi5WaKc,co=https://coverartarchive.org/release/d8bb1b83-1ee0-4a5d-9ee8-ca24ca9f5622/19363801492.jpg
+: 0 8 4 Good
+: 8 8 7 bye, 
+: 16 16 7 Joe, 
+: 32 4 4 me 
+: 36 12 7 gotta 
+: 48 16 7 go, 
+: 64 8 7 me 
+: 72 8 4 oh 
+: 80 12 7 my 
+: 92 24 2 oh 
+- 124
+: 132 8 7 Me 
+: 140 8 7 gotta 
+: 148 16 9 go 
+: 164 12 9 pole 
+: 176 8 9 the 
+: 184 8 7 pi
+: 192 8 9 rogue 
+: 200 12 7 down 
+: 212 4 9 the 
+: 216 8 7 bay
+: 224 24 4 ou. 
+- 256
+: 264 8 4 My 
+: 272 4 7 Y
+: 276 20 7 vonne, 
+: 296 4 4 the 
+: 300 12 7 sweetest 
+: 312 20 7 one, 
+: 332 4 7 me 
+: 336 8 4 oh 
+: 344 12 7 my 
+: 356 20 2 oh 
+- 384
+: 392 8 7 Son 
+: 400 8 7 of a 
+: 408 12 9 gun, 
+: 420 8 9 we’ll 
+: 428 8 7 have 
+: 436 4 7 big 
+: 440 20 9 fun 
+: 460 8 7 on 
+: 468 8 4 the 
+: 476 8 2 bay
+: 484 24 0 ou. 
+- 516
+* 524 8 16 Jam
+* 532 8 16 ba
+* 540 16 16 laya 
+: 556 4 12 and a 
+: 560 8 9 craw
+: 568 8 7 fish 
+: 576 12 12 pie 
+: 588 4 9 and 
+: 592 12 7 file’ 
+: 604 12 7 gum
+: 616 12 2 bo 
+- 642
+: 656 8 7 ’Cause 
+: 664 20 7 tonight 
+: 684 4 9 I’m 
+: 688 8 9 gon
+: 696 4 7 na 
+: 700 12 9 see 
+: 712 4 7 my 
+: 716 4 9 ma 
+: 720 12 7 cher 
+: 732 4 4 a
+: 736 12 4 mi
+: 748 8 4 o 
+- 772
+: 788 4 12 Pick 
+: 792 8 12 gui
+: 800 20 12 tar, 
+: 820 4 9 fill 
+: 824 8 7 fruit 
+: 832 20 12 jar 
+: 852 8 9 and 
+: 860 4 7 be 
+: 864 16 7 gay 
+: 880 16 2 o 
+- 906
+: 916 8 7 Son 
+: 924 8 7 of a 
+: 932 8 9 gun, 
+: 940 8 9 we’ll 
+: 948 8 7 have 
+: 956 8 7 big 
+: 964 20 9 fun 
+: 984 12 7 on 
+: 996 4 4 the 
+: 1000 8 2 bay
+: 1008 16 0 ou. 
+- 1296
+: 1568 8 7 Thibo
+: 1576 20 7 daux, 
+: 1596 8 4 Font
+: 1604 24 7 enot, 
+: 1628 4 7 the 
+: 1632 8 7 place 
+: 1640 8 4 is 
+: 1648 8 7 buz
+: 1656 32 2 zin’ 
+- 1692
+: 1696 8 7 Kin
+: 1704 8 7 folk 
+: 1712 12 7 come 
+: 1724 4 9 to 
+: 1728 8 9 see 
+: 1736 8 7 Y
+: 1744 16 9 vonne 
+: 1760 12 7 by 
+: 1772 4 9 the 
+: 1776 8 7 do
+: 1784 32 4 zen 
+- 1820
+: 1824 16 4 Dressin 
+: 1840 12 7 style 
+: 1852 4 7 and 
+: 1856 8 4 go 
+: 1864 8 7 hog 
+: 1872 16 7 wild, 
+: 1888 8 7 me 
+: 1896 8 4 oh 
+: 1904 12 7 my 
+: 1916 24 2 oh 
+- 1946
+: 1952 8 7 Son 
+: 1960 4 7 of a 
+: 1964 12 9 gun, 
+: 1976 8 9 we’ll 
+: 1984 8 7 have 
+: 1992 8 7 big 
+: 2000 16 9 fun 
+: 2016 12 7 on 
+: 2028 8 4 the 
+: 2036 8 2 bay
+: 2044 24 0 ou. 
+- 2074
+* 2080 8 16 Jam
+* 2088 8 16 ba
+* 2096 16 15 laya 
+: 2112 4 12 and a 
+: 2116 8 9 craw
+: 2124 8 7 fish 
+: 2132 12 12 pie 
+: 2144 4 9 and 
+: 2148 12 7 file’ 
+: 2160 12 7 gum
+: 2172 28 2 bo 
+- 2206
+: 2212 8 7 ’Cause 
+: 2220 16 7 tonight 
+: 2236 8 9 I’m 
+: 2244 8 9 gon
+: 2252 4 7 na 
+: 2256 8 9 see 
+: 2264 8 7 my 
+: 2272 4 9 ma 
+: 2276 8 7 cher 
+: 2284 4 4 a
+: 2288 12 4 mi
+: 2300 8 4 o 
+- 2324
+: 2340 8 12 Pick 
+: 2348 8 12 gui
+: 2356 16 12 tar, 
+: 2372 8 9 fill 
+: 2380 8 7 fruit 
+: 2388 16 12 jar 
+: 2404 8 9 and 
+: 2412 8 7 be 
+: 2420 8 7 gay 
+: 2428 16 2 o 
+- 2456
+: 2468 8 7 Son 
+: 2476 8 7 of a 
+: 2484 8 9 gun, 
+: 2492 8 9 we’ll 
+: 2500 8 7 have 
+: 2508 8 7 big 
+: 2516 20 9 fun 
+: 2536 12 7 on 
+: 2548 4 4 the 
+: 2552 8 2 bay
+: 2560 20 0 ou. 
+- 2844
+* 3108 4 16 Jam
+* 3112 8 16 ba
+* 3120 16 16 laya 
+: 3136 4 12 and a 
+: 3140 8 9 craw
+: 3148 8 7 fish 
+: 3156 12 12 pie 
+: 3168 4 9 and 
+: 3172 12 7 file’ 
+: 3184 12 7 gum
+: 3196 20 2 bo 
+- 3224
+: 3232 8 7 ’Cause 
+: 3240 20 7 tonight 
+: 3260 4 9 I’m 
+: 3264 8 9 gon
+: 3272 4 7 na 
+: 3276 8 9 see 
+: 3284 8 7 my 
+: 3292 4 9 ma 
+: 3296 8 7 cher 
+: 3304 4 4 a
+: 3308 8 4 mi
+: 3316 8 4 o 
+- 3342
+: 3360 8 12 Pick 
+: 3368 4 12 gui
+: 3372 20 12 tar, 
+: 3392 8 9 fill 
+: 3400 8 7 fruit 
+: 3408 16 12 jar 
+: 3424 8 9 and 
+: 3432 4 7 be 
+: 3436 12 7 gay 
+: 3448 24 2 o 
+- 3480
+: 3488 4 7 Son 
+: 3492 8 7 of a 
+: 3500 12 9 gun, 
+: 3512 8 9 we’ll 
+: 3520 8 7 have 
+: 3528 8 7 big 
+: 3536 16 9 fun 
+: 3552 8 7 on 
+: 3560 8 4 the 
+: 3568 8 2 bay
+: 3576 24 0 ou. 
+E

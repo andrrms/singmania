@@ -1,0 +1,252 @@
+#ARTIST:Pulp
+#TITLE:Something Changed
+#MP3:Pulp - Something Changed.mp3
+#CREATOR:rote_rose
+#COVER:Pulp - Something Changed [CO].jpg
+#BACKGROUND:Pulp - Something Changed [BG].jpg
+#GENRE:Britpop
+#YEAR:1995
+#LANGUAGE:English
+#BPM:240.93
+#GAP:11120
+#VIDEO:v=h2Nj0Q3iNaU,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/67/a2/a267a2ff-022c-7130-df8c-8cb2416ffef9/23UMGIM19891.rgb.jpg/5000x5000bb.jpg,bg=pulp-508d444a22376.jpg
+: 0 3 2 I 
+: 4 3 2 wrote 
+: 8 7 2 this 
+: 16 8 2 song 
+- 34
+: 45 7 4 Two 
+: 53 12 -1 hours 
+: 66 3 -3 be
+: 70 3 -1 fore 
+: 74 7 2 we 
+: 82 11 0 met 
+- 109
+: 131 3 2 I 
+: 135 4 2 didn’t
+: 140 7 2 ~ 
+: 148 6 2 know 
+: 155 7 4 your 
+: 163 7 -1 name 
+- 177
+: 180 3 4 Or 
+: 184 8 -1 what 
+: 196 3 -3 you 
+: 200 4 -1 looked 
+: 205 6 2 like 
+: 212 11 0 yet 
+- 233
+F 241 9 0 Oh 
+- 259
+: 262 3 7 I 
+: 266 3 7 could 
+: 270 6 7 have 
+* 277 6 6 stayed 
+* 284 3 4 at 
+* 288 7 6 home 
+- 303
+: 306 3 2 And 
+: 311 16 9 gone 
+: 337 4 6 to 
+: 342 12 8 bed 
+- 370
+: 397 3 7 I 
+: 401 3 7 could 
+: 405 3 7 have 
+: 409 3 6 gone 
+: 413 3 4 to 
+: 417 13 6 see 
+- 431
+: 433 3 2 A 
+: 438 16 9 film 
+: 465 4 6 ins
+: 470 12 8 tead 
+- 498
+: 516 4 -1 You 
+: 521 4 -1 might 
+: 526 6 9 have 
+: 533 7 8 changed 
+: 541 7 8 your 
+: 549 7 9 mind 
+: 557 7 11 and 
+: 565 26 12 seen 
+: 592 4 11 your 
+: 597 15 9 friends 
+- 628
+: 656 7 9 Life 
+: 664 3 8 could 
+: 668 3 8 have 
+: 672 3 8 been 
+: 676 7 9 ve
+: 684 7 11 ry 
+: 692 22 12 diffe
+: 715 4 14 rent 
+: 720 4 11 but 
+: 725 14 9 then 
+- 755
+* 774 5 7 Some
+* 780 8 7 thing 
+* 791 20 6 changed 
+- 843
+: 995 4 2 Do 
+: 1000 4 2 you 
+: 1005 6 2 be
+: 1012 7 2 lieve 
+- 1029
+: 1036 3 2 That 
+: 1040 7 4 there’s 
+: 1048 3 -1 some
+: 1052 7 -1 one 
+- 1065
+: 1068 3 -1 Up 
+: 1072 3 2 a
+: 1076 16 0 bove? 
+- 1102
+: 1116 3 2 And 
+: 1120 3 2 does 
+: 1124 3 2 he 
+: 1128 6 2 have 
+: 1139 3 2 a 
+: 1143 5 2 time
+: 1149 5 4 ta
+: 1155 6 -1 ble 
+- 1169
+: 1172 3 4 Di
+: 1176 3 -1 rec
+: 1180 7 -1 ting 
+: 1191 8 -1 acts 
+: 1200 3 2 of 
+: 1204 14 0 love? 
+- 1234
+: 1252 4 7 Why 
+: 1257 4 7 did 
+: 1262 4 7 I 
+: 1267 4 6 write 
+: 1272 4 4 this 
+: 1277 14 6 song 
+- 1293
+: 1295 4 2 On 
+: 1300 18 9 that 
+: 1324 6 6 one 
+: 1331 13 8 day? 
+- 1360
+: 1379 4 7 Why 
+: 1384 4 7 did 
+: 1389 4 7 you 
+: 1394 6 6 touch 
+: 1401 4 4 my 
+: 1406 12 6 hand 
+- 1421
+* 1423 3 2 And 
+* 1427 26 9 soft
+* 1454 3 6 ly 
+* 1458 13 8 say 
+- 1487
+: 1506 4 -1 “Stop 
+: 1511 4 -1 ask
+: 1516 5 9 ing 
+: 1522 5 8 ques
+: 1528 5 8 tions 
+: 1534 4 8 that 
+: 1539 7 9 don’t 
+: 1547 4 11 mat
+: 1552 6 11 ter 
+: 1559 22 12 a
+: 1582 3 11 ny
+: 1586 23 9 way 
+- 1619
+: 1635 3 -1 Just 
+: 1639 3 -1 give 
+: 1643 3 -1 us 
+: 1647 3 9 a 
+: 1651 10 8 kiss 
+: 1662 3 8 to 
+: 1666 6 9 ce
+: 1673 4 9 le
+: 1678 7 11 brate 
+: 1686 24 12 here 
+: 1711 3 11 to
+: 1715 18 9 day” 
+- 1743
+* 1765 5 7 Some
+* 1771 10 7 thing 
+* 1782 18 6 changed 
+- 1832
+: 2153 3 16 Oh, 
+: 2157 3 16 when 
+: 2161 3 16 we 
+: 2165 20 16 woke 
+: 2186 3 12 up 
+: 2190 3 11 that 
+: 2194 5 11 mor
+: 2200 8 9 ning 
+- 2208
+: 2210 7 11 We 
+: 2218 7 12 had 
+: 2226 23 18 no 
+: 2250 4 14 way 
+: 2255 3 13 of 
+: 2259 3 13 know
+: 2263 7 11 ing 
+- 2272
+: 2274 3 11 That 
+: 2278 3 12 in 
+: 2282 6 14 a 
+: 2289 23 16 mat
+: 2313 4 12 ter 
+: 2318 3 11 of 
+: 2322 11 11 hours, 
+: 2334 3 9 we’d 
+: 2338 7 11 change 
+: 2346 4 12 the 
+- 2355
+: 2357 21 18 Way 
+: 2379 3 14 we 
+: 2383 3 13 were 
+: 2387 3 13 go
+: 2391 18 11 ing 
+- 2419
+: 2436 4 18 Where 
+: 2441 4 18 would 
+: 2446 4 18 I 
+: 2451 5 18 be 
+: 2457 19 16 now 
+- 2486
+* 2500 4 18 Where 
+* 2505 4 18 would 
+* 2510 4 18 I 
+* 2515 5 18 be 
+* 2521 7 16 now 
+* 2531 6 14 if 
+* 2538 6 11 we’d 
+* 2545 24 9 ne
+* 2570 7 16 ver 
+* 2578 13 14 met 
+- 2607
+: 2624 4 18 Would 
+: 2629 4 18 I 
+: 2634 5 18 be 
+: 2640 6 18 sing
+: 2647 4 18 ing 
+: 2652 4 16 this 
+: 2657 7 14 song 
+: 2665 7 11 to 
+: 2673 7 9 some
+: 2681 7 7 one 
+: 2689 7 9 else 
+: 2697 7 7 ins
+: 2705 15 6 tead 
+- 2726
+: 2728 4 14 I 
+: 2733 6 14 don’t 
+: 2740 7 16 know, 
+* 2748 4 16 but 
+* 2753 6 16 like 
+* 2760 3 18 you 
+* 2764 7 19 just 
+* 2772 16 14 said: 
+- 2820
+: 2886 6 11 Some
+: 2893 9 9 thing 
+: 2908 14 7 changed 
+E

@@ -1,0 +1,205 @@
+#ARTIST:Fever Ray
+#TITLE:When I Grow Up
+#MP3:Fever Ray - When I Grow Up.mp3
+#CREATOR:REL
+#YEAR:2009
+#LANGUAGE:English
+#BPM:300
+#GAP:22600
+#VIDEO:v=4F-CpE73o2M,co=https://d1rgjmn2wmqeif.cloudfront.net/r/b/275648.jpg,bg=fever-ray-51bf53e721165.jpg
+: 0 5 9 When 
+: 6 8 7 I 
+: 16 10 7 grow 
+: 27 31 5 up 
+- 60
+: 68 5 2 I 
+: 74 6 5 want 
+: 81 2 7 to 
+: 84 8 5 be 
+: 93 5 5 a 
+: 99 5 5 fo
+: 105 5 3 res
+: 111 10 5 ter 
+- 123
+: 130 5 5 Run 
+: 136 7 5 through 
+: 145 4 0 the 
+: 150 9 0 moss 
+: 161 8 7 on 
+: 172 10 7 high 
+* 183 17 7 heels 
+- 202
+: 205 5 9 That’s 
+: 211 8 7 what 
+: 221 10 7 I’ll 
+: 232 31 5 do 
+- 265
+: 282 6 5 Throw
+: 289 3 2 ing 
+: 293 9 5 out 
+: 309 6 5 boo
+: 316 2 2 me
+: 319 10 5 rang 
+- 331
+: 333 6 5 Wai
+: 340 4 5 ting 
+: 345 4 5 for 
+: 350 4 5 it 
+: 355 4 5 to 
+: 360 11 5 come 
+: 372 7 7 back 
+: 380 8 5 to 
+: 390 20 7 me 
+- 412
+: 622 5 9 When 
+: 628 8 7 I 
+: 638 10 7 grow 
+: 649 31 5 up 
+- 682
+: 691 5 2 I 
+: 697 6 5 want 
+: 704 2 7 to 
+: 707 8 5 live 
+: 722 5 5 near 
+: 728 5 3 the 
+: 734 10 5 sea 
+- 746
+: 753 5 5 Crab 
+: 759 7 5 claws 
+: 768 4 0 and 
+: 773 9 0 bot
+: 784 8 7 tles 
+: 795 10 7 of 
+: 806 17 7 rum 
+- 825
+: 830 5 9 That’s 
+: 836 8 7 what 
+: 846 10 7 I’ll 
+: 857 31 5 have 
+- 890
+: 908 6 5 Sta
+: 915 2 2 ring 
+: 918 8 5 at 
+: 927 7 5 the 
+: 935 11 2 sea
+: 947 8 2 shell 
+- 957
+: 959 4 5 Wai
+: 964 6 5 ting 
+: 971 4 5 for 
+: 976 12 5 it 
+: 998 6 5 to 
+: 1005 5 5 em
+: 1011 20 7 brace 
+: 1035 25 7 me 
+- 1062
+: 1185 3 7 I 
+: 1189 3 2 put 
+: 1193 4 7 my 
+* 1198 7 7 soul 
+: 1206 3 9 in 
+: 1210 7 7 what 
+: 1218 9 2 I 
+: 1229 29 5 do 
+- 1260
+: 1266 6 5 Last 
+: 1273 6 5 night 
+: 1280 4 5 I 
+: 1285 6 5 drew 
+: 1292 5 5 a 
+: 1298 5 5 fun
+: 1304 5 5 ny 
+: 1310 7 5 man 
+- 1318
+: 1318 6 5 With 
+: 1326 8 5 dark 
+: 1335 8 5 eyes 
+: 1344 4 5 and 
+: 1349 6 5 a 
+: 1356 10 5 hang
+: 1367 9 5 ing 
+: 1377 17 7 tongue 
+- 1396
+: 1405 5 2 It 
+: 1411 10 2 goes 
+: 1422 17 7 way 
+: 1440 27 5 bad 
+- 1469
+: 1476 5 0 I 
+: 1482 6 5 ne
+: 1489 3 5 ver 
+: 1493 7 5 liked 
+: 1501 6 5 a 
+: 1508 7 5 sad 
+: 1516 8 5 look 
+- 1525
+: 1526 6 0 From 
+: 1533 8 5 some
+: 1542 8 5 one 
+: 1552 6 2 who 
+: 1560 7 5 wants 
+- 1568
+: 1569 8 5 To 
+: 1578 6 0 be 
+: 1585 11 5 loved 
+: 1597 12 7 by 
+* 1611 9 7 you
+* 1621 7 2 ~
+* 1629 36 5 ~ 
+- 1667
+: 1813 3 0 You’ve 
+: 1817 3 7 got 
+: 1822 6 7 cu
+: 1829 4 5 cum
+: 1834 8 7 bers 
+: 1843 6 7 on 
+: 1851 7 2 your 
+: 1859 20 5 eyes 
+- 1881
+: 1886 5 0 Too 
+: 1892 6 0 much 
+: 1899 8 5 time 
+: 1908 11 5 spent 
+: 1920 6 0 on 
+: 1927 7 5 no
+: 1935 9 5 thing 
+- 1946
+: 1951 6 5 Wai
+: 1958 3 0 ting 
+: 1962 9 0 for 
+: 1972 3 5 a 
+: 1976 5 5 mo
+: 1982 6 5 ment 
+: 1989 7 5 to 
+: 1997 4 0 a
+: 2002 18 7 rise 
+- 2022
+: 2026 3 7 The 
+: 2030 12 7 face 
+: 2044 6 2 in 
+: 2051 3 2 the 
+: 2055 19 2 cei
+: 2075 12 0 ling 
+- 2089
+: 2100 6 0 And 
+: 2107 18 5 arms 
+: 2127 4 5 too 
+: 2132 17 5 long 
+- 2151
+: 2153 6 5 I 
+: 2160 19 5 wait 
+: 2180 6 0 for 
+: 2187 10 5 him 
+: 2198 11 5 to 
+: 2211 18 7 catch 
+: 2230 33 7 me 
+- 2265
+: 3675 6 5 Wai
+: 3682 8 5 ting 
+: 3691 6 5 for 
+: 3698 7 5 you 
+: 3706 4 5 to 
+: 3711 12 5 em
+: 3725 17 7 brace 
+: 3743 13 7 me 
+E

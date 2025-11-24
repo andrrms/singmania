@@ -1,0 +1,510 @@
+#ARTIST:Masterboy
+#TITLE:I Got To Give It Up
+#MP3:Masterboy - I Got To Give It Up.mp3
+#CREATOR:Leroidukitch
+#YEAR:1994
+#LANGUAGE:English
+#BPM:267.29
+#GAP:4380
+#VIDEO:v=41GHX39_e-o,co=i-got-to-give-it-up-562f02b05bf25.jpg,bg=masterboy-59059d0fdf035.jpg
+* 0 4 2 Get 
+: 6 6 3 away... 
+- 14
+: 566 3 4 I 
+: 570 2 4 got 
+: 573 4 4 to 
+: 578 5 5 give 
+: 584 4 9 it 
+: 589 5 5 up, 
+: 599 2 4 I 
+: 602 2 4 got 
+: 605 3 4 to 
+: 610 5 5 give 
+: 618 2 8 it 
+: 621 5 4 up 
+- 628
+: 629 2 4 I 
+: 632 2 4 got 
+: 635 2 4 to 
+: 640 4 5 give 
+: 645 5 7 it 
+: 652 5 4 up, 
+: 671 4 5 I 
+: 676 4 5 got 
+: 681 5 4 to 
+: 689 4 2 get 
+: 695 5 2 away 
+- 701
+: 702 6 7 Give 
+: 710 4 6 it 
+: 715 5 4 up, 
+: 723 2 4 I 
+: 726 3 4 got 
+* 730 5 4 to 
+* 736 6 5 give 
+* 743 3 6 it 
+: 747 5 8 up 
+- 754
+: 755 2 4 I 
+: 758 3 4 got 
+: 762 3 4 to 
+: 766 3 4 give 
+: 770 5 4 it 
+: 777 5 4 up, 
+: 791 5 4 I 
+: 797 10 4 got 
+: 809 3 4 to 
+: 813 3 4 give 
+: 817 5 4 it 
+: 823 3 4 up 
+- 827
+: 827 5 6 Gimme 
+: 839 5 6 what 
+: 845 3 7 you 
+: 849 5 6 want, 
+: 861 5 6 gimme 
+: 869 3 6 what 
+: 873 3 4 I 
+: 877 5 7 need 
+- 884
+: 892 5 6 Gimme 
+: 899 3 6 what 
+: 903 3 6 you 
+: 907 5 6 want, 
+: 918 5 4 but 
+: 924 7 4 I 
+: 933 2 4 got 
+: 936 5 4 to 
+: 945 5 3 get 
+: 951 5 3 away 
+- 958
+: 959 5 6 Gimme 
+: 971 5 6 what 
+: 977 3 7 you 
+: 981 5 6 want, 
+: 993 5 6 gimme 
+: 1001 3 6 what 
+: 1005 3 4 I 
+: 1009 5 7 need 
+- 1016
+: 1024 5 6 Gimme 
+: 1031 3 6 what 
+: 1035 3 6 you 
+: 1039 5 6 want, 
+: 1050 5 4 but 
+: 1056 7 4 I 
+: 1065 2 4 got 
+: 1068 5 4 to 
+: 1077 5 3 get 
+: 1083 5 3 away 
+- 1090
+F 1477 2 4 Our 
+F 1481 1 4 love 
+F 1486 1 4 is 
+F 1489 1 4 out 
+F 1494 1 4 of 
+F 1498 1 4 sight, 
+- 1501
+F 1502 1 4 No 
+F 1505 1 4 matter 
+F 1509 1 4 if 
+F 1511 1 4 it’s 
+F 1515 1 4 wrong 
+F 1519 1 4 or 
+F 1523 1 4 if 
+F 1526 1 4 it’s 
+F 1529 2 4 right 
+- 1533
+F 1536 1 4 This 
+F 1540 1 4 ain’t 
+F 1543 1 4 no 
+F 1546 1 4 matter 
+F 1550 1 4 for 
+F 1554 1 4 frightning 
+F 1557 1 4 people 
+- 1559
+F 1560 1 4 Get 
+F 1568 1 4 this 
+F 1574 1 4 in 
+F 1577 1 4 your 
+F 1582 1 4 head 
+F 1587 1 4 tonite 
+- 1590
+F 1601 1 4 I 
+F 1605 1 4 loved 
+F 1608 1 4 you 
+F 1611 1 4 once 
+F 1615 1 4 a 
+F 1618 1 4 long 
+F 1622 1 4 time 
+F 1626 1 4 ago 
+- 1628
+F 1629 1 4 But 
+F 1633 1 4 times 
+F 1636 1 4 are 
+F 1639 1 4 changin’ 
+F 1643 1 4 fast 
+- 1646
+F 1665 1 4 You 
+F 1669 1 4 asked 
+F 1673 1 4 me 
+F 1677 1 4 once 
+F 1681 1 4 you 
+F 1684 1 4 asked 
+F 1687 1 4 me 
+F 1691 1 4 twice 
+- 1694
+F 1695 1 4 But 
+F 1699 1 4 still 
+F 1702 1 4 I 
+F 1706 1 4 will 
+F 1709 1 4 say 
+F 1713 1 4 no 
+- 1716
+F 1724 3 4 Stop 
+F 1729 1 4 ~ 
+F 1746 2 4 I 
+F 1750 1 4 gotta 
+F 1753 1 4 getaway 
+- 1756
+F 1764 1 4 No 
+F 1769 1 4 more 
+F 1772 1 4 words 
+F 1776 1 4 for 
+F 1779 1 4 me 
+F 1783 1 4 to 
+F 1786 1 4 say 
+- 1789
+F 1792 1 4 My 
+F 1795 1 4 love 
+F 1799 1 4 for 
+F 1802 1 4 you 
+F 1806 1 4 is 
+F 1809 1 4 dead 
+F 1816 1 4 and 
+F 1819 1 4 gone 
+- 1822
+F 1823 1 4 You’ll 
+F 1826 1 4 leave 
+F 1829 1 4 this 
+F 1832 1 4 place 
+F 1836 1 4 all 
+F 1840 1 4 alone 
+- 1843
+F 1856 1 4 Your 
+F 1861 1 4 body 
+F 1865 1 4 and 
+F 1868 1 4 your 
+F 1872 1 4 fingers 
+F 1876 1 4 touched 
+- 1879
+F 1880 1 4 They 
+F 1886 1 4 drove 
+F 1891 1 4 me 
+F 1895 1 4 once 
+F 1899 1 4 insane 
+- 1902
+F 1917 2 4 But 
+F 1920 1 4 now 
+F 1924 1 4 I 
+F 1929 1 4 tell 
+F 1933 1 4 you 
+F 1937 1 4 that’s 
+F 1941 1 4 the 
+F 1945 2 4 fact 
+- 1949
+F 1953 1 4 I 
+F 1957 1 4 got 
+F 1960 1 4 to 
+F 1964 1 4 get 
+F 1967 1 4 away 
+- 1970
+: 1975 3 4 I 
+: 1979 2 4 got 
+: 1982 4 4 to 
+: 1987 5 5 give 
+: 1993 4 9 it 
+: 1998 5 5 up, 
+: 2008 2 4 I 
+: 2011 2 4 got 
+: 2014 3 4 to 
+: 2019 5 5 give 
+: 2027 2 8 it 
+: 2030 5 4 up 
+- 2037
+: 2038 2 4 I 
+: 2041 2 4 got 
+: 2044 2 4 to 
+: 2049 4 5 give 
+: 2054 5 7 it 
+: 2061 5 4 up, 
+: 2080 4 5 I 
+: 2085 4 5 got 
+: 2090 5 4 to 
+: 2098 4 2 get 
+: 2104 5 2 away 
+- 2110
+: 2111 6 7 Give 
+: 2119 4 6 it 
+: 2124 5 4 up, 
+: 2132 2 4 I 
+: 2135 3 4 got 
+: 2139 5 4 to 
+: 2145 6 5 give 
+: 2152 3 6 it 
+: 2156 5 8 up 
+- 2163
+: 2164 2 4 I 
+: 2167 3 4 got 
+: 2171 3 4 to 
+: 2175 3 4 give 
+: 2179 5 4 it 
+: 2186 5 4 up, 
+: 2200 5 4 I 
+: 2206 10 4 got 
+: 2218 3 4 to 
+: 2222 3 4 get 
+: 2226 5 4 away 
+- 2233
+: 2234 5 6 Gimme 
+: 2246 5 6 what 
+: 2252 3 7 you 
+: 2256 5 6 want, 
+: 2268 5 6 gimme 
+: 2276 3 6 what 
+: 2280 3 4 I 
+: 2284 5 7 need 
+- 2291
+: 2299 5 6 Gimme 
+: 2306 3 6 what 
+* 2310 3 6 you 
+* 2314 5 6 want, 
+: 2325 5 4 but 
+: 2331 7 4 I 
+: 2340 2 4 got 
+: 2343 5 4 to 
+: 2352 5 3 get 
+: 2358 5 3 away 
+- 2365
+: 2366 5 6 Gimme 
+: 2378 5 6 what 
+: 2384 3 7 you 
+: 2388 5 6 want, 
+: 2400 5 6 gimme 
+: 2408 3 6 what 
+: 2412 3 4 I 
+: 2416 5 7 need 
+- 2423
+: 2431 5 6 Gimme 
+: 2438 3 6 what 
+: 2442 3 6 you 
+: 2446 5 6 want, 
+: 2457 5 4 but 
+: 2463 7 4 I 
+: 2472 2 4 got 
+: 2475 5 4 to 
+: 2484 5 3 get 
+: 2490 5 3 away 
+- 2497
+F 2885 2 4 Sorry 
+F 2889 1 4 for 
+F 2892 1 4 this 
+F 2896 1 4 hurting 
+F 2899 1 4 statement 
+- 2902
+F 2905 1 4 I 
+F 2912 1 4 feel 
+F 2916 1 4 burn 
+F 2920 1 4 out 
+F 2924 1 4 to 
+F 2928 1 4 the 
+F 2933 1 4 ground 
+- 2936
+F 2942 1 4 No 
+F 2946 1 4 more 
+F 2951 1 4 compromise 
+F 2959 1 4 at 
+F 2964 1 4 all 
+- 2967
+F 2979 1 4 Can 
+F 2983 1 4 bring 
+F 2987 1 4 me 
+F 2990 1 4 back 
+F 2994 1 4 around 
+- 2997
+F 3007 1 4 Hearts 
+F 3012 1 4 are 
+F 3016 2 4 burning 
+F 3021 1 4 everywhere 
+- 3024
+F 3031 2 4 But 
+F 3041 2 4 now 
+F 3046 1 4 you’ve 
+F 3050 1 4 killed 
+F 3056 1 4 the 
+F 3060 1 4 flame 
+F 3068 1 4 in 
+F 3072 1 4 mine 
+- 3074
+F 3075 1 4 The 
+F 3078 1 4 lightning 
+F 3082 1 4 in 
+F 3086 1 4 my 
+F 3090 1 4 feel 
+F 3093 1 4 is 
+F 3099 1 4 off 
+- 3102
+F 3103 1 4 Can’t 
+F 3107 1 4 have 
+F 3111 1 4 more 
+F 3114 1 4 out 
+F 3117 1 4 of 
+F 3121 1 4 my 
+F 3124 1 4 time 
+- 3127
+F 3140 1 4 Dreams 
+F 3144 1 4 of 
+F 3153 2 4 life 
+F 3165 1 4 time 
+F 3168 1 4 love 
+- 3171
+F 3172 1 4 Seem 
+F 3175 1 4 good 
+F 3178 1 4 to 
+F 3181 1 4 you 
+F 3184 1 4 but 
+F 3187 1 4 not 
+F 3190 1 4 to 
+F 3194 1 4 me 
+- 3196
+F 3197 1 4 You 
+F 3202 1 4 say 
+F 3206 1 4 you’ll 
+F 3210 1 4 love 
+F 3213 1 4 me 
+F 3217 1 4 all 
+F 3220 1 4 your 
+F 3224 1 4 life 
+- 3226
+F 3227 1 4 This 
+F 3232 1 4 can’t 
+F 3236 1 4 be 
+F 3239 1 4 ~ 
+F 3243 1 4 can’t 
+F 3246 1 4 you 
+F 3250 1 4 see 
+- 3253
+F 3270 1 4 Stay 
+F 3280 1 4 ’til 
+F 3284 1 4 the 
+F 3287 1 4 break 
+F 3291 1 4 of 
+F 3295 1 4 dawn 
+- 3297
+F 3298 1 4 Kiss 
+F 3302 1 4 me, 
+F 3305 1 4 hug 
+F 3308 1 4 me 
+F 3311 1 4 on 
+F 3315 1 4 and 
+F 3318 1 4 on 
+- 3320
+F 3321 1 4 You 
+F 3329 1 4 will 
+F 3334 1 4 see 
+F 3339 2 4 next 
+F 3347 1 4 day 
+- 3350
+F 3359 1 4 I 
+F 3363 1 4 got 
+F 3366 1 4 to 
+F 3370 1 4 get 
+F 3373 1 4 away 
+- 3376
+: 3383 3 4 I 
+: 3387 2 4 got 
+: 3390 4 4 to 
+: 3395 5 5 give 
+: 3401 4 9 it 
+: 3406 5 5 up, 
+: 3416 2 4 I 
+: 3419 2 4 got 
+: 3422 3 4 to 
+: 3427 5 5 give 
+: 3435 2 8 it 
+: 3438 5 4 up 
+- 3445
+: 3446 2 4 I 
+: 3449 2 4 got 
+: 3452 2 4 to 
+: 3457 4 5 give 
+: 3462 5 7 it 
+: 3469 5 4 up, 
+: 3488 4 5 I 
+: 3493 4 5 got 
+: 3498 5 4 to 
+: 3506 4 2 get 
+: 3512 5 2 away 
+- 3518
+: 3519 6 7 Give 
+: 3527 4 6 it 
+: 3532 5 4 up, 
+: 3540 2 4 I 
+* 3543 3 4 got 
+* 3547 5 4 to 
+* 3553 6 5 give 
+: 3560 3 6 it 
+: 3564 5 8 up 
+- 3571
+: 3572 2 4 I 
+: 3575 3 4 got 
+: 3579 3 4 to 
+: 3583 3 4 give 
+: 3587 5 4 it 
+: 3594 5 4 up, 
+: 3608 5 4 I 
+: 3614 10 4 got 
+: 3626 3 4 to 
+: 3630 3 4 get 
+: 3634 5 4 away 
+- 3641
+: 3644 5 6 Gimme 
+: 3656 5 6 what 
+: 3662 3 7 you 
+: 3666 5 6 want, 
+: 3678 5 6 gimme 
+: 3686 3 6 what 
+: 3690 3 4 I 
+: 3694 5 7 need 
+- 3701
+: 3709 5 6 Gimme 
+: 3716 3 6 what 
+: 3720 3 6 you 
+: 3724 5 6 want, 
+: 3735 5 4 but 
+: 3741 7 4 I 
+: 3750 2 4 got 
+: 3753 5 4 to 
+: 3762 5 3 get 
+: 3768 5 3 away 
+- 3775
+: 3776 5 6 Gimme 
+: 3788 5 6 what 
+: 3794 3 7 you 
+: 3798 5 6 want, 
+: 3810 5 6 gimme 
+: 3818 3 6 what 
+: 3822 3 4 I 
+: 3826 5 7 need 
+- 3833
+: 3841 5 6 Gimme 
+: 3848 3 6 what 
+: 3852 3 6 you 
+: 3856 5 6 want, 
+: 3867 5 4 but 
+: 3873 7 4 I 
+: 3882 2 4 got 
+: 3885 5 4 to 
+: 3894 5 3 get 
+: 3900 5 3 away 
+E

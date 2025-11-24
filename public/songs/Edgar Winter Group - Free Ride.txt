@@ -1,0 +1,266 @@
+#ARTIST:Edgar Winter Group
+#TITLE:Free Ride
+#MP3:Edgar Winter Group - Free Ride.mp3
+#CREATOR:Relisch
+#COVER:Edgar Winter Group - Free Ride [CO].jpg
+#BACKGROUND:Edgar Winter Group - Free Ride [BG].jpg
+#GENRE:Rock
+#YEAR:1973
+#LANGUAGE:English
+#BPM:300
+#GAP:17100
+#VIDEO:a=JAFyvePcR_o,co=https://i.discogs.com/NoAGA2vBA50qbuqVgkJgQArO_I2zbFhNTy6XnhW5gZg/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/MjAtMTY0OTI5MDk3/MC02MTc3LmpwZWc.jpeg
+: 0 4 16 The 
+: 5 4 18 mountain
+: 10 4 21 ~ 
+: 15 3 18 is 
+: 20 7 21 high
+: 28 7 18 ~, 
+: 39 3 9 the 
+: 44 3 12 valley
+: 49 3 11 ~ 
+: 54 4 9 is 
+: 59 6 13 low
+: 67 7 16 ~ 
+- 75
+: 77 5 16 And 
+: 83 7 18 you’re 
+: 91 5 21 confused
+: 97 7 21 ~
+: 106 7 18 ~ 
+: 116 4 9 on 
+: 122 3 12 which 
+: 127 3 11 way 
+: 131 3 9 to 
+: 136 10 9 go 
+- 152
+: 155 3 16 So 
+: 160 7 18 I’ve 
+: 169 4 21 come 
+: 175 7 21 here
+: 183 7 18 ~ 
+: 192 4 9 to 
+: 198 3 12 give 
+: 203 3 11 you 
+: 208 3 9 a 
+: 213 7 13 hand
+: 222 7 16 ~ 
+- 230
+: 232 4 16 And 
+: 237 8 18 lead 
+: 246 4 21 you 
+: 252 7 21 into
+: 261 3 21 ~
+: 266 5 18 ~ 
+: 272 2 9 the 
+: 276 4 12 promised
+: 281 7 11 ~ 
+: 290 3 9 land
+: 294 7 9 ~, 
+: 305 7 4 so 
+- 321
+: 324 3 25 Come 
+: 329 8 23 on 
+: 338 3 21 and 
+: 343 3 21 take 
+: 348 4 18 a 
+: 353 7 21 free 
+: 362 3 18 ride
+: 367 4 16 ~ 
+* 373 7 25 (free 
+* 381 9 21 ride) 
+- 397
+: 400 4 25 Come 
+: 406 7 23 on 
+: 415 3 21 and 
+: 419 4 21 stand 
+: 424 4 18 here 
+: 429 7 23 by 
+: 438 4 21 my 
+: 444 16 18 side 
+- 472
+: 476 4 25 Come 
+: 482 7 23 on 
+: 491 3 21 and 
+: 495 4 21 take 
+: 500 3 18 a 
+: 504 8 21 free 
+: 514 32 21 ride 
+- 586
+: 880 4 16 All 
+: 886 3 18 over
+: 890 3 21 ~ 
+: 895 3 18 the 
+: 900 7 21 country
+: 909 8 18 ~, 
+: 920 3 9 I’ve 
+: 925 3 12 seen 
+: 929 3 11 it 
+: 934 3 9 the 
+: 938 7 13 same
+: 947 7 16 ~ 
+- 957
+: 959 5 16 Nobody’s
+: 967 2 18 ~
+: 971 4 21 ~ 
+: 977 8 21 winning
+: 987 7 18 ~ 
+: 998 3 9 at 
+: 1002 4 12 this 
+: 1007 4 11 kind 
+: 1012 3 9 of 
+: 1017 9 9 game 
+- 1033
+: 1036 3 16 We 
+: 1041 3 18 gotta
+: 1045 4 21 ~ 
+: 1051 3 21 do 
+: 1056 6 18 better
+: 1064 8 9 ~, 
+: 1075 3 12 it’s 
+: 1080 3 11 time 
+: 1084 4 9 to 
+: 1089 3 13 begin
+: 1095 12 16 ~ 
+- 1112
+: 1114 3 16 You 
+: 1119 3 18 know 
+: 1124 3 21 all 
+: 1128 4 21 the 
+: 1134 8 21 answers
+: 1143 8 18 ~ 
+: 1153 3 9 must 
+: 1158 3 12 come 
+: 1162 4 11 from 
+: 1167 3 9 within
+: 1172 10 9 ~, 
+: 1185 8 4 so 
+- 1201
+: 1204 4 25 Come 
+: 1210 7 23 on 
+: 1219 2 21 and 
+: 1223 4 21 take 
+: 1229 3 18 a 
+: 1234 7 21 free 
+: 1243 3 18 ride
+: 1248 3 16 ~ 
+: 1253 9 25 (free 
+: 1263 10 21 ride) 
+- 1279
+: 1281 4 25 Come 
+: 1287 8 23 on 
+: 1296 3 21 and 
+: 1301 3 21 stand 
+: 1306 3 18 here 
+: 1311 7 23 by 
+: 1319 4 21 my 
+: 1325 18 18 side 
+- 1354
+: 1358 4 25 Come 
+: 1364 8 23 on 
+: 1373 3 21 and 
+: 1378 3 21 take 
+: 1382 3 18 a 
+: 1387 7 21 free 
+: 1396 29 21 ride 
+- 1465
+: 1575 9 25 Yeah, 
+: 1585 8 23 yeah, 
+: 1595 8 21 yeah, 
+: 1605 8 17 yeah 
+- 1653
+* 1929 10 25 Ooh
+* 1943 3 23 ~, 
+* 1947 14 21 ooh, 
+* 1963 31 17 ooh 
+- 2001
+: 2004 9 25 Ooh
+: 2015 3 23 ~, 
+: 2020 17 21 ooh, 
+: 2039 22 17 ooh 
+- 2071
+: 2082 4 25 Ooh
+: 2088 8 23 ~, 
+: 2098 7 21 ooh
+: 2107 7 17 ~, 
+: 2116 7 21 free 
+: 2124 30 21 ride 
+- 2194
+: 2476 4 25 Come 
+: 2482 8 23 on 
+: 2491 3 21 and 
+: 2496 3 21 take 
+: 2500 3 18 a 
+: 2505 7 21 free 
+: 2514 29 21 ride 
+- 2546
+* 2548 8 25 Yeah, 
+* 2557 8 23 yeah, 
+* 2566 8 21 yeah, 
+* 2576 11 17 yeah 
+- 2607
+: 2632 4 25 Come 
+: 2638 8 23 on 
+: 2647 3 21 and 
+: 2652 3 21 take 
+: 2656 3 18 a 
+: 2661 7 21 free 
+: 2670 29 21 ride 
+- 2705
+: 2708 4 25 Yeah, 
+: 2714 7 23 yeah, 
+: 2723 7 21 yeah, 
+: 2732 9 17 yeah 
+- 2761
+: 2791 4 25 Come 
+: 2797 8 23 on 
+: 2806 3 21 and 
+: 2811 3 21 take 
+: 2815 3 18 a 
+: 2820 7 21 free 
+: 2829 29 21 ride 
+- 2859
+: 2861 7 25 Yeah, 
+: 2869 8 23 yeah, 
+: 2879 7 21 yeah, 
+: 2888 10 17 yeah 
+- 2918
+: 2945 4 25 Come 
+: 2951 8 23 on 
+: 2960 3 21 and 
+: 2965 3 21 take 
+: 2969 3 18 a 
+: 2974 7 21 free 
+: 2983 27 21 ride 
+- 3011
+: 3013 8 25 Yeah, 
+: 3023 7 23 yeah, 
+: 3032 8 21 yeah, 
+: 3041 9 17 yeah 
+- 3070
+: 3099 4 25 Come 
+: 3105 8 23 on 
+: 3114 3 21 and 
+: 3119 3 21 take 
+: 3123 3 18 a 
+: 3128 7 21 free 
+* 3137 27 21 ride 
+- 3165
+: 3167 8 25 Yeah, 
+: 3176 8 23 yeah, 
+: 3186 8 21 yeah, 
+: 3195 8 17 yeah 
+- 3223
+: 3253 4 25 Come 
+: 3259 8 23 on 
+: 3268 3 21 and 
+: 3273 3 21 take 
+: 3277 3 18 a 
+: 3282 7 21 free 
+: 3291 27 21 ride 
+- 3319
+: 3321 7 25 Yeah, 
+: 3330 8 23 yeah, 
+: 3340 8 21 yeah, 
+: 3350 6 17 yeah 
+E

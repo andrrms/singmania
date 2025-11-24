@@ -1,0 +1,284 @@
+#ARTIST:Rhapsody
+#TITLE:Wisdom Of The Kings
+#MP3:Rhapsody - Wisdom Of The Kings.mp3
+#CREATOR:Canni
+#EDITION:[SC]-Songs
+#YEAR:1998
+#LANGUAGE:English
+#BPM:360
+#GAP:55850
+#VIDEO:v=nfH5obEG6kw,co=tales-from-the-emerald-sword-saga-569f2c8cb5350.jpg,bg=rhapsody-of-fire-60d61a506d3bb.jpg
+#START:2
+: 0 3 7 Re
+: 4 4 7 moved 
+: 10 2 7 the 
+: 16 12 7 stones 
+: 32 3 8 which 
+* 36 7 10 hide 
+: 44 2 8 the 
+: 48 15 7 cave 
+- 64
+: 64 7 3 Blind 
+: 72 7 3 and 
+: 80 7 5 dark 
+: 88 7 7 a
+: 96 7 5 long 
+: 104 7 2 my 
+: 112 10 -2 way 
+- 124
+: 128 3 3 I 
+: 132 6 3 must 
+: 140 3 5 go 
+: 144 15 7 on 
+: 160 3 8 wi
+: 164 7 10 se 
+: 172 2 8 and 
+: 176 15 7 brave 
+: 192 7 7 be
+: 200 7 7 fore 
+: 208 7 8 a 
+: 216 6 7 last 
+: 224 22 5 hail 
+- 248
+: 256 7 7 At 
+: 264 7 5 the 
+: 272 7 3 end 
+: 280 6 2 of 
+: 288 24 3 floor 
+: 320 6 5 stairs 
+: 328 7 3 of 
+: 336 7 2 an
+: 344 6 0 cient 
+: 352 24 0 stone 
+- 378
+: 384 11 2 Lead 
+: 396 11 3 me 
+: 408 3 5 to 
+: 412 2 5 a 
+: 416 11 8 vi
+: 428 11 7 sion 
+: 440 6 5 an 
+: 448 11 7 un
+: 460 11 5 re
+: 472 6 3 al 
+: 480 24 2 hall 
+- 506
+: 512 2 7 And 
+: 516 7 7 they 
+: 524 2 7 a
+: 528 11 7 ppe
+: 540 2 2 ar 
+: 544 2 7 in 
+: 548 7 10 front 
+: 556 2 8 of 
+: 560 15 7 me 
+- 576
+: 576 7 3 Light
+: 584 6 3 ened 
+: 592 6 5 by 
+: 600 7 7 a 
+: 608 7 5 mys
+: 616 7 2 tic 
+: 624 10 -2 flame 
+- 636
+: 640 3 3 A 
+: 644 7 3 new 
+: 652 2 5 di
+: 656 6 7 men
+: 664 7 7 sion 
+: 672 3 8 I 
+: 676 7 10 have 
+: 684 2 8 to 
+: 688 16 7 face 
+- 706
+: 720 3 7 Be
+: 724 6 8 yond 
+: 732 2 7 the 
+: 736 20 5 gates 
+- 758
+: 768 7 7 I 
+: 776 7 5 can 
+: 784 7 3 not 
+: 792 7 2 be
+: 800 24 3 lieve 
+: 832 7 5 oh 
+: 840 6 3 what 
+: 848 7 2 now 
+: 856 6 0 I 
+: 864 24 0 see 
+- 890
+: 896 11 2 When 
+: 908 11 3 the 
+: 920 6 5 two 
+* 928 11 8 de
+: 940 11 7 mons 
+: 952 6 5 a
+: 960 11 7 wake 
+: 972 11 5 from 
+: 984 4 3 the 
+: 992 24 2 sleep 
+- 1018
+: 1264 7 5 Ho
+: 1272 7 7 ly 
+* 1280 31 8 dra
+: 1312 24 7 gons 
+: 1344 10 10 kee
+: 1356 10 8 pers 
+: 1368 6 7 of 
+: 1376 24 3 time 
+- 1402
+: 1408 10 8 Ride 
+: 1420 10 7 brave 
+: 1432 4 5 the 
+: 1440 10 3 blue 
+: 1452 10 1 skies 
+: 1464 6 0 and 
+: 1472 22 3 spell 
+: 1496 7 5 my 
+: 1504 12 3 eyes 
+- 1518
+: 1520 7 5 Fly 
+: 1528 7 7 be
+: 1536 22 8 yond 
+: 1560 7 8 these 
+: 1568 24 7 hills 
+: 1600 11 10 ride 
+: 1612 11 12 on 
+: 1624 7 13 the 
+: 1632 16 12 wind 
+- 1650
+: 1656 7 8 The 
+: 1664 14 8 wis
+: 1680 14 7 dom 
+: 1696 14 5 of 
+: 1712 14 7 the 
+* 1728 40 8 kings 
+- 1770
+: 3344 2 7 Lost 
+: 3348 7 7 in 
+: 3356 2 7 a 
+: 3360 11 7 dream 
+: 3372 3 0 I’m 
+: 3376 2 8 un
+: 3380 7 10 der 
+: 3388 2 8 the 
+: 3392 15 7 spell 
+- 3408
+: 3408 7 3 Of 
+: 3416 6 3 this 
+: 3424 6 5 su
+: 3432 7 7 nny 
+: 3440 7 5 ma
+: 3448 6 2 gic 
+: 3456 10 -2 land 
+- 3467
+: 3468 2 -2 But 
+: 3472 3 3 A
+: 3476 7 3 re
+: 3484 2 5 sius 
+: 3488 15 7 said: 
+: 3504 3 8 be
+: 3508 7 10 come 
+: 3516 2 8 a
+: 3520 15 7 ware! 
+- 3536
+: 3536 6 7 All 
+: 3544 7 7 can 
+: 3552 7 8 hide 
+: 3560 6 7 the 
+: 3568 20 5 hell... 
+- 3590
+: 3600 7 7 Now 
+: 3608 7 5 it’s 
+: 3616 7 3 time 
+: 3624 7 2 to 
+: 3632 24 3 go 
+: 3664 7 5 to 
+: 3672 6 3 the 
+: 3680 7 2 migh
+: 3688 6 0 ty 
+: 3696 24 0 sword 
+- 3722
+: 3728 11 2 It’s 
+: 3740 11 3 time 
+: 3752 6 5 to 
+: 3760 11 8 fo
+: 3772 11 7 llow 
+: 3784 6 5 the 
+* 3792 11 7 kings 
+: 3804 11 5 ho
+: 3816 4 3 ly 
+: 3824 24 2 call 
+- 3850
+: 4096 7 5 Ho
+: 4104 7 7 ly 
+* 4112 31 8 dra
+: 4144 24 7 gons 
+: 4176 10 10 kee
+: 4188 10 8 pers 
+: 4200 6 7 of 
+: 4208 24 3 time 
+- 4234
+: 4240 10 8 Ride 
+: 4252 10 7 brave 
+: 4264 4 5 the 
+: 4272 10 3 blue 
+: 4284 10 1 skies 
+: 4296 6 0 and 
+: 4304 22 3 spell 
+: 4328 7 5 my 
+: 4336 12 3 eyes 
+- 4350
+: 4352 7 5 Fly 
+: 4360 7 7 be
+: 4368 22 8 yond 
+: 4392 7 8 these 
+: 4400 24 7 hills 
+: 4432 11 10 ride 
+: 4444 11 12 on 
+: 4456 7 13 the 
+: 4464 16 12 wind 
+- 4482
+: 4488 7 8 The 
+: 4496 14 8 wis
+: 4512 14 7 dom 
+: 4528 14 5 of 
+: 4544 14 7 the 
+* 4560 40 8 kings 
+- 4602
+: 4608 7 5 Ho
+: 4616 7 7 ly 
+* 4624 31 8 dra
+: 4656 24 7 gons 
+: 4688 10 10 kee
+: 4700 10 8 pers 
+: 4712 6 7 of 
+: 4720 24 3 time 
+- 4746
+: 4752 10 8 Ride 
+: 4764 10 7 brave 
+: 4776 4 5 the 
+: 4784 10 3 blue 
+: 4796 10 1 skies 
+: 4808 6 0 and 
+: 4816 22 3 spell 
+: 4840 7 5 my 
+: 4848 12 3 eyes 
+- 4862
+: 4864 7 5 Fly 
+: 4872 7 7 be
+: 4880 22 8 yond 
+: 4904 7 8 these 
+: 4912 24 7 hills 
+: 4944 11 10 ride 
+: 4956 11 12 on 
+: 4968 7 13 the 
+: 4976 16 12 wind 
+- 4994
+: 5000 7 8 The 
+: 5008 14 8 wis
+: 5024 14 7 dom 
+: 5040 14 5 of 
+: 5056 14 7 the 
+* 5072 52 8 kings 
+E

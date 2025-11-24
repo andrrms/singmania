@@ -1,0 +1,390 @@
+#ARTIST:Asking Alexandria
+#TITLE:The Final Episode (Let’s Change Channel)
+#MP3:Asking Alexandria - The Final Episode (Let’s Change Channel).mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Network 2011
+#GENRE:Metalcore
+#YEAR:2009
+#LANGUAGE:English
+#BPM:393.77
+#GAP:35110
+#VIDEO:v=z71_E_YqWqA,co=stand-up-and-scream-5ce617d84d6ec.jpg,bg=asking-alexandria-4fbbd7fe936d5.jpg,preview=122.07
+F 0 15 13 Oh 
+F 24 15 13 my 
+F 50 28 13 God 
+- 80
+F 386 13 13 Oh 
+F 411 16 13 my 
+F 435 26 13 God 
+- 463
+F 494 9 13 If 
+F 507 5 13 on
+F 514 5 13 ly 
+F 522 5 13 he 
+F 530 24 13 knew 
+- 556
+F 591 9 13 If 
+F 604 5 13 on
+F 612 5 13 ly 
+F 620 5 13 he 
+F 628 24 13 knew 
+- 654
+F 692 5 13 If 
+F 700 4 13 on
+F 707 4 13 ly 
+F 714 6 13 he 
+F 724 5 13 knew 
+F 731 3 13 a
+F 737 4 13 bout 
+F 743 3 13 the 
+F 747 4 13 world 
+- 753
+F 755 2 13 With
+F 760 4 13 out 
+F 767 3 13 the 
+F 772 5 13 bull 
+F 784 4 13 and 
+F 791 3 13 the 
+F 796 15 13 lies 
+- 813
+F 827 8 13 We 
+F 836 2 13 could 
+F 839 2 13 have 
+F 844 6 13 saved 
+F 853 13 13 him 
+- 868
+F 876 6 13 They 
+F 884 2 13 could 
+F 887 2 13 have 
+F 892 8 13 saved 
+F 905 12 13 me 
+- 919
+F 925 6 13 But 
+F 933 4 13 in
+F 939 4 13 stead 
+F 946 4 13 I’m 
+F 954 6 13 here 
+F 964 7 13 drown
+F 972 4 13 ing 
+F 977 3 13 in 
+F 983 2 13 my 
+F 987 7 13 own 
+- 996
+F 1009 20 13 Mind 
+- 1031
+F 1045 4 13 And 
+F 1051 3 13 I’ll 
+F 1057 3 13 be 
+F 1062 4 13 damned 
+F 1068 3 13 if 
+F 1073 5 13 you’re 
+F 1081 3 13 the 
+F 1086 5 13 death 
+F 1094 5 13 of 
+F 1101 5 13 me 
+- 1108
+F 1110 6 13 Blood 
+F 1118 6 13 and 
+F 1126 6 13 ink 
+F 1134 6 13 stain 
+F 1142 6 13 the 
+F 1150 4 13 walls 
+- 1156
+F 1158 6 13 Si
+F 1166 6 13 lent
+F 1174 6 13 ly 
+F 1182 6 13 with 
+F 1190 6 13 blood
+F 1198 6 13 ied 
+F 1206 6 13 knuck
+F 1214 6 13 les 
+F 1222 6 13 I 
+F 1230 6 13 car
+F 1238 6 13 ry 
+F 1247 4 13 on 
+- 1253
+F 1255 6 13 Hop
+F 1263 6 13 ing 
+F 1271 6 13 it’s 
+F 1279 6 13 not 
+F 1287 6 13 too 
+F 1295 5 13 wrong 
+- 1302
+F 1323 9 13 You 
+F 1335 5 13 said 
+F 1343 5 13 the 
+F 1350 6 13 nights 
+F 1361 8 13 were 
+F 1375 6 13 far 
+F 1387 8 13 too 
+F 1398 34 13 long 
+- 1434
+F 1542 14 13 Oh 
+F 1565 17 13 my 
+F 1593 28 13 God 
+- 1623
+F 1700 9 13 If 
+F 1712 5 13 on
+F 1719 6 13 ly 
+F 1728 6 13 he 
+F 1736 46 13 knew 
+- 1784
+F 1929 13 13 Oh 
+F 1952 17 13 my 
+F 1978 28 13 God 
+- 2008
+F 2037 7 13 If 
+F 2049 6 13 on
+F 2056 5 13 ly 
+F 2064 5 13 he 
+F 2074 6 13 knew 
+F 2082 12 13 if 
+- 2096
+F 2098 4 13 On
+F 2104 4 13 ly 
+F 2110 7 13 he 
+F 2122 8 13 knew 
+F 2133 9 13 if 
+F 2147 7 13 on
+F 2155 5 13 ly 
+F 2162 6 13 he 
+F 2171 25 13 knew 
+- 2198
+: 2283 5 5 Just 
+: 2291 6 9 stand 
+: 2299 4 7 up 
+: 2307 3 5 and 
+: 2315 6 7 scream
+: 2322 6 5 ~ 
+- 2330
+: 2332 3 5 The 
+: 2340 5 2 taint
+: 2349 9 5 ed 
+: 2364 20 7 clock 
+: 2388 17 5 is 
+: 2412 10 4 count
+: 2427 12 5 ing 
+: 2444 8 2 down
+: 2453 1 0 ~ 
+- 2456
+F 2461 16 13 Fast
+F 2484 12 13 er 
+F 2498 4 13 and 
+F 2508 8 13 fast 
+- 2518
+: 2521 7 5 You 
+: 2532 7 9 gave 
+: 2541 3 7 it 
+: 2548 5 5 to 
+: 2555 7 7 me
+: 2563 1 5 ~ 
+: 2566 4 5 would 
+: 2572 3 5 you 
+- 2577
+: 2580 7 9 Say
+: 2588 4 7 ~ 
+: 2596 3 5 the 
+: 2605 6 4 nights 
+: 2615 5 5 are 
+: 2629 5 4 far 
+: 2639 5 5 too 
+: 2653 14 4 long 
+: 2677 18 5 now 
+- 2697
+F 2701 19 13 Fast
+F 2725 7 13 er 
+F 2735 4 13 and 
+F 2749 59 13 fast 
+- 2810
+F 2843 46 13 Rah! 
+F 2893 15 13 Oh 
+F 2915 15 13 my 
+F 2942 28 13 God 
+- 2972
+F 2990 10 13 Oh 
+F 3002 8 13 my 
+F 3040 46 13 God 
+- 3088
+F 3229 22 13 The 
+F 3256 18 13 tears 
+F 3280 15 13 that 
+F 3304 18 13 stain 
+F 3328 15 13 my 
+F 3352 8 13 cheek 
+- 3362
+F 3376 11 13 Must 
+F 3399 5 13 make 
+F 3406 5 13 me 
+F 3414 4 13 look 
+F 3422 65 13 weak 
+- 3489
+F 3491 10 13 I 
+F 3503 6 13 wear 
+F 3511 4 13 them 
+F 3520 12 13 proud
+F 3534 25 13 ly 
+- 3561
+F 3568 7 13 I 
+F 3577 5 13 wear 
+F 3584 4 13 them 
+F 3592 15 13 proud 
+- 3609
+: 3633 4 5 Just 
+: 3641 6 9 stand 
+: 3649 4 7 up 
+: 3657 4 5 and 
+: 3665 6 7 scream
+: 3672 6 5 ~ 
+- 3680
+: 3682 3 5 The 
+: 3690 5 2 taint
+: 3700 9 5 ed 
+: 3714 20 7 clock 
+: 3738 17 5 is 
+* 3762 10 4 count
+* 3778 12 5 ing 
+: 3794 8 2 down
+: 3803 1 0 ~ 
+- 3806
+F 3811 16 13 Fast
+F 3834 12 13 er 
+F 3848 4 13 and 
+F 3858 8 13 fast 
+- 3868
+: 3871 6 5 You 
+* 3882 7 9 gave 
+* 3891 3 7 it 
+* 3898 4 5 to 
+: 3905 7 7 me
+: 3913 1 5 ~ 
+: 3916 5 5 would 
+: 3923 3 5 you 
+- 3928
+: 3930 7 9 Say
+: 3938 4 7 ~ 
+: 3946 4 5 the 
+: 3955 6 4 nights 
+: 3966 5 5 are 
+: 3979 5 4 far 
+: 3989 5 5 too 
+: 4003 14 4 long 
+: 4027 18 5 now 
+- 4047
+F 4051 19 13 Fast
+F 4075 7 13 er 
+F 4085 4 13 and 
+F 4099 89 13 fast 
+- 4190
+F 4194 15 13 Your 
+F 4219 15 13 knife 
+F 4243 17 13 my 
+F 4268 12 13 back 
+- 4282
+F 4292 10 13 My 
+F 4316 12 13 gun 
+F 4340 15 13 your 
+F 4364 11 13 head 
+- 4377
+F 4387 15 13 Your 
+F 4412 13 13 knife 
+F 4436 16 13 my 
+F 4461 12 13 back 
+- 4475
+F 4484 13 13 My 
+F 4509 12 13 gun 
+F 4533 12 13 your 
+F 4555 23 13 head 
+- 4580
+F 4947 3 13 You 
+F 4953 3 13 need 
+F 4958 3 13 a 
+F 4964 4 13 doc
+F 4970 3 13 tor 
+F 4975 3 13 ba
+F 4980 3 13 by? 
+- 4985
+F 4995 3 13 You 
+F 5008 7 13 scared? 
+- 5017
+F 5039 2 13 You 
+F 5043 3 13 need 
+F 5048 3 13 a 
+F 5054 4 13 doc
+F 5060 3 13 tor 
+F 5065 3 13 ba
+F 5070 3 13 by? 
+- 5075
+F 5088 5 13 You 
+F 5098 7 13 scared? 
+- 5107
+F 5129 2 13 You 
+F 5133 3 13 need 
+F 5138 3 13 a 
+F 5144 4 13 doc
+F 5150 3 13 tor 
+F 5155 3 13 ba
+F 5160 3 13 by? 
+- 5165
+F 5178 4 13 You 
+F 5188 8 13 scared? 
+- 5198
+F 5219 2 13 You 
+F 5223 3 13 need 
+F 5228 3 13 a 
+F 5234 4 13 doc
+F 5240 3 13 tor 
+F 5245 3 13 ba
+F 5250 3 13 by? 
+- 5255
+F 5268 22 13 You 
+F 5302 54 13 scared? 
+- 5358
+F 5368 15 13 You 
+F 5392 49 13 scared? 
+- 5443
+F 5457 16 13 You 
+F 5482 84 13 scared? 
+- 5568
+F 5638 19 13 You! 
+- 5659
+F 5668 3 13 You 
+F 5673 3 13 need 
+F 5678 3 13 a 
+F 5684 4 13 doc
+F 5690 3 13 tor 
+F 5695 3 13 ba
+F 5700 3 13 by? 
+- 5705
+F 5716 6 13 You 
+F 5729 19 13 scared? 
+- 5750
+F 5757 3 13 You 
+F 5763 3 13 need 
+F 5767 3 13 a 
+F 5774 4 13 doc
+F 5780 3 13 tor 
+F 5785 3 13 ba
+F 5790 3 13 by? 
+- 5795
+F 5806 6 13 You 
+F 5818 19 13 scared? 
+- 5839
+F 5847 3 13 You 
+F 5853 3 13 need 
+F 5857 3 13 a 
+F 5864 4 13 doc
+F 5870 3 13 tor 
+F 5875 3 13 ba
+F 5880 47 13 by? 
+- 5929
+F 5938 3 13 You 
+F 5943 3 13 need 
+F 5948 3 13 a 
+F 5954 4 13 doc
+F 5960 3 13 tor 
+F 5965 3 13 ba
+F 5970 18 13 by? 
+- 5990
+F 5997 16 13 You 
+F 6021 26 13 scared? 
+E

@@ -1,0 +1,296 @@
+#ARTIST:Morrissey
+#TITLE:You Have Killed Me
+#MP3:Morrissey - You Have Killed Me.mp3
+#CREATOR:Scudder
+#EDITION:Ringleader of the Tormentors
+#COVER:Morrissey - You Have Killed Me [CO].jpg
+#BACKGROUND:Morrissey - You Have Killed Me [BG].jpg
+#GENRE:Rock
+#YEAR:2006
+#LANGUAGE:English
+#BPM:261.39
+#GAP:28710
+#VIDEO:v=fjVsdBxAzhM,co=https://m.media-amazon.com/images/M/MV5BNTQxMmU1NWQtMDYxMS00NTJhLWFmZjAtOWZlMjczMzgzY2YxXkEyXkFqcGc@.jpg,bg=morrissey-5d223e005d80c.jpg
+#START:11.5
+#END:190000
+: 0 2 -4 Pas
+: 3 2 -4 o
+: 8 4 -4 li
+: 16 9 -1 ni 
+: 32 6 -4 is 
+* 48 27 3 me 
+- 92
+: 127 2 -4 ’Acc
+: 131 2 -4 at
+: 136 6 -4 to
+: 145 10 -1 ne’ 
+: 159 7 -4 you’ll 
+: 175 32 3 be 
+- 224
+: 258 4 1 I 
+: 265 3 3 en
+: 273 4 1 tered 
+: 281 4 -4 no
+: 290 12 1 thing 
+- 312
+: 321 3 -6 And 
+: 328 3 -6 no
+: 333 3 -6 thing 
+: 341 4 -4 en
+: 349 4 1 tered 
+: 356 3 1 me
+: 361 9 3 ~ 
+- 376
+: 378 2 1 ’Til 
+: 382 2 -1 you 
+: 386 11 3 came 
+: 409 2 1 with 
+: 412 2 -1 the 
+* 417 16 3 key 
+- 439
+: 441 6 -2 And 
+: 453 3 3 you 
+: 458 3 3 did 
+: 463 4 1 your 
+: 470 3 -1 best 
+: 479 10 -2 but 
+- 499
+: 506 2 3 As 
+: 510 2 3 I 
+: 514 2 3 live 
+: 518 2 1 and 
+: 523 2 1 breathe
+: 526 6 -1 ~ 
+- 536
+: 538 2 -1 You 
+: 543 3 1 have 
+: 550 4 4 killed 
+: 558 8 -1 me 
+- 569
+: 571 2 -1 You 
+: 576 3 3 have 
+: 582 5 3 killed 
+: 590 6 1 me 
+- 600
+: 602 2 3 Yes 
+: 606 2 4 I 
+: 610 2 3 walk 
+: 614 2 2 a
+: 619 2 2 round
+: 622 4 3 ~ 
+: 635 4 -1 some
+: 640 3 0 ~
+: 644 4 -1 ~
+: 651 6 -4 how 
+- 662
+: 664 1 -1 But 
+: 667 2 -1 you 
+: 672 3 1 have 
+: 679 4 4 killed 
+: 687 6 -1 me 
+- 697
+: 699 3 -1 You 
+: 704 3 3 have 
+: 711 5 3 killed 
+: 719 14 1 me 
+- 750
+: 775 3 1 Pi
+: 780 6 2 az
+: 788 9 1 za 
+: 804 3 -4 Ca
+* 809 15 1 vour, 
+- 834
+: 843 4 1 What’s 
+: 852 6 1 my 
+: 863 4 1 life 
+: 872 3 -2 for
+: 876 8 -4 ~ 
+- 918
+: 1157 4 -4 Vis
+: 1165 5 -4 con
+: 1174 10 -1 ti 
+: 1190 9 -4 is 
+: 1206 27 3 me 
+- 1250
+: 1286 4 -4 Mag
+: 1294 4 -4 na
+: 1303 9 -1 ni 
+: 1317 6 -4 you’ll 
+: 1334 2 3 ne
+: 1338 2 1 ver 
+: 1342 2 -1 be
+* 1345 9 -4 ~ 
+- 1371
+: 1415 4 1 I 
+: 1421 5 3 en
+: 1430 5 1 tered 
+: 1439 5 -4 no
+: 1448 10 1 thing 
+- 1468
+: 1479 4 -6 And 
+: 1487 3 -6 no
+: 1492 5 -6 thing 
+: 1499 5 -4 en
+: 1508 4 1 tered 
+: 1515 3 1 me
+: 1520 10 3 ~ 
+- 1533
+: 1535 2 1 ’Til 
+: 1539 2 -1 you 
+: 1543 11 3 came 
+: 1567 2 1 with 
+: 1571 2 -1 the 
+: 1575 16 2 key 
+- 1597
+: 1599 7 -2 And 
+: 1612 2 3 you 
+* 1616 2 3 did 
+: 1621 3 1 your 
+: 1628 4 -1 best 
+: 1637 9 -2 but 
+- 1656
+: 1664 2 3 As 
+: 1668 2 3 I 
+: 1672 2 3 live 
+: 1676 2 1 and 
+: 1681 2 1 breathe
+: 1684 7 -1 ~ 
+- 1694
+: 1696 3 -1 You 
+: 1701 3 1 have 
+: 1708 4 4 killed 
+: 1716 9 -1 me 
+- 1727
+: 1729 2 -1 You 
+: 1734 2 3 have 
+: 1740 4 3 killed 
+: 1747 8 1 me 
+- 1758
+: 1760 2 3 Yes, 
+: 1764 2 4 I 
+: 1768 2 3 walk 
+: 1772 2 2 a
+: 1777 2 2 round
+: 1780 4 3 ~ 
+: 1794 3 -1 some
+: 1798 3 0 ~
+: 1802 4 -1 ~
+: 1808 6 -4 how 
+- 1819
+: 1821 2 -1 But 
+: 1825 2 -1 you 
+: 1829 3 1 have 
+: 1836 4 4 killed 
+: 1845 6 -1 me 
+- 1854
+: 1856 3 -1 You 
+: 1861 3 3 have 
+: 1869 4 3 killed 
+: 1878 12 1 me 
+- 1900
+: 1922 5 3 Who 
+: 1928 2 3 am 
+: 1933 3 1 I
+: 1938 13 3 ~ 
+: 1954 3 1 that 
+: 1959 1 -2 I
+: 1962 24 -3 ~ 
+- 1996
+: 2010 3 3 Come 
+: 2018 3 1 to
+: 2022 2 -1 ~
+: 2025 1 -4 ~ 
+: 2028 5 -4 be 
+: 2036 9 3 here
+: 2048 5 -4 ~
+* 2058 13 3 ~
+: 2073 4 -4 ~ 
+- 2087
+: 2091 5 3 Here
+: 2097 1 2 ~
+: 2099 21 -1 ~
+: 2122 3 1 ~
+: 2127 18 2 ~ 
+- 2155
+: 2179 3 3 As 
+: 2183 3 3 I 
+: 2187 3 3 live 
+: 2191 2 1 and 
+: 2196 2 1 breathe
+: 2199 10 -1 ~ 
+- 2209
+: 2211 2 -1 You 
+: 2216 3 1 have 
+: 2222 5 4 killed 
+: 2231 9 -1 me 
+- 2242
+: 2244 2 -1 You 
+: 2248 3 3 have 
+* 2255 3 3 killed 
+: 2263 8 1 me 
+- 2273
+: 2275 2 3 Yes 
+: 2279 2 4 I 
+: 2283 2 3 walk 
+: 2288 2 2 a
+: 2292 3 2 round
+: 2296 4 3 ~ 
+: 2308 11 -1 some
+: 2323 7 -4 how 
+- 2334
+: 2336 2 -1 But 
+: 2340 2 -1 you 
+: 2344 3 1 have 
+: 2351 4 4 killed 
+: 2359 8 -1 me 
+- 2371
+: 2373 2 -1 You 
+* 2378 2 3 have 
+: 2384 3 3 killed 
+: 2393 6 1 me 
+- 2399
+: 2400 2 1 And 
+: 2405 4 1 there 
+: 2412 4 1 is 
+* 2421 4 3 no 
+: 2428 4 3 point 
+- 2434
+: 2436 3 3 Say
+: 2440 2 4 ing 
+: 2445 2 3 this 
+: 2449 2 1 a
+: 2453 3 1 gain
+: 2457 4 -1 ~ 
+- 2472
+: 2476 3 0 There 
+: 2480 2 2 is 
+: 2486 4 2 no 
+: 2492 4 0 point 
+- 2499
+: 2501 2 -1 Say
+: 2505 2 -1 ing 
+: 2509 1 -1 this 
+: 2513 2 1 a
+: 2517 2 1 gain 
+- 2523
+: 2525 2 1 But 
+: 2530 2 2 I
+: 2533 5 4 ~ 
+: 2540 3 4 for
+: 2546 3 3 give 
+: 2553 8 -1 you 
+- 2562
+: 2564 6 -1 I 
+: 2573 2 2 for
+: 2579 3 0 give 
+: 2588 13 -4 you 
+- 2611
+: 2629 6 -1 Al
+: 2637 3 -2 ways 
+: 2643 2 -1 I
+* 2647 10 1 ~ 
+: 2662 4 -1 do 
+: 2669 4 -1 for
+: 2677 3 -1 give 
+: 2684 24 -4 you 
+E

@@ -1,0 +1,161 @@
+#ARTIST:Depeche Mode
+#TITLE:Behind The Wheel
+#MP3:Depeche Mode - Behind The Wheel.mp3
+#CREATOR:Fepo
+#GENRE:Alternative
+#YEAR:1987
+#LANGUAGE:English
+#BPM:250.5
+#GAP:82440
+#VIDEO:v=VEAuMiKqP-4,co=https://www.depechemode.de/wp-content/uploads/2011/06/depeche-mode-behind-the-wheel-520x520.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 2 2 My 
+: 4 2 2 lit
+: 8 2 2 tle 
+: 12 2 2 girl 
+- 16
+: 64 1 1 Drive 
+: 68 1 2 a
+: 72 1 2 ny
+: 77 2 2 where 
+- 81
+: 128 2 0 Do 
+: 132 2 2 what 
+: 136 2 2 you 
+: 140 2 2 want 
+- 144
+: 206 3 5 I 
+: 211 4 5 don’t 
+: 219 5 4 ca
+: 225 3 2 ~re 
+- 230
+: 263 3 1 To
+: 268 11 2 night 
+- 281
+: 309 2 2 I’m 
+: 313 2 2 in 
+: 317 2 2 the 
+: 321 4 2 hands 
+: 327 3 2 of 
+: 332 3 2 fate 
+- 337
+: 377 3 2 I 
+: 383 3 2 hand 
+: 389 3 2 my
+: 395 3 2 self 
+- 400
+: 462 3 4 O
+: 468 3 2 ver 
+: 476 3 4 on 
+: 484 3 5 a 
+: 492 5 4 pla
+: 499 4 2 ~te 
+- 505
+: 530 7 2 Now 
+- 539
+: 768 2 0 Oh 
+: 772 2 2 lit
+: 776 2 2 tle 
+: 780 5 2 girl 
+- 787
+: 824 2 2 There 
+: 828 2 2 are 
+: 832 3 2 times 
+: 837 2 2 when 
+: 841 3 2 I 
+: 847 6 2 feel 
+- 855
+: 890 3 2 I’d 
+: 895 3 2 ra
+: 900 3 2 ther 
+: 905 4 2 not 
+: 912 4 2 be 
+- 918
+: 968 2 2 The 
+: 972 5 4 one 
+: 984 3 2 be
+: 989 6 4 hind 
+: 999 3 5 the 
+: 1004 5 4 whee
+: 1010 4 2 ~l 
+- 1016
+* 1040 13 2 Come 
+- 1055
+: 1088 4 1 Pull 
+: 1093 3 2 my 
+: 1099 15 2 strings 
+- 1116
+: 1153 5 1 Watch 
+* 1160 3 2 me 
+* 1165 10 2 move 
+- 1177
+: 1219 4 2 I 
+: 1225 6 2 do 
+: 1233 3 4 a
+: 1238 3 5 ny
+: 1244 6 4 thi
+: 1252 4 2 ~ng 
+- 1258
+* 1296 13 2 Please 
+- 1311
+: 2048 3 2 Sweet 
+: 2052 3 2 lit
+: 2057 3 2 tle 
+: 2062 6 2 girl 
+- 2070
+: 2113 6 2 I 
+: 2121 3 2 pre
+: 2126 7 2 fer 
+- 2135
+: 2169 3 2 You 
+: 2174 2 2 be
+: 2178 6 2 hind 
+: 2186 2 2 the 
+: 2190 11 2 wheel 
+- 2203
+: 2245 6 2 And 
+: 2254 10 5 me 
+: 2266 3 2 the 
+: 2270 6 2 pas
+: 2278 4 5 sen
+: 2286 4 5 ger 
+- 2292
+* 2321 12 2 Drive 
+- 2335
+: 2365 3 1 I’m 
+: 2370 5 2 yours 
+: 2377 3 2 to 
+: 2382 7 2 keep 
+- 2391
+: 2434 3 1 Do 
+: 2439 3 2 what 
+: 2443 3 2 you 
+: 2447 7 2 want 
+- 2456
+: 2507 6 2 I’m 
+: 2515 3 5 going
+: 2520 3 5 ~ 
+: 2525 8 4 cheap 
+- 2535
+* 2570 3 2 To
+* 2574 14 2 night 
+- 2590
+: 2770 6 4 You’re 
+: 2779 3 2 be
+: 2784 7 4 hind 
+: 2795 3 5 the 
+: 2800 6 4 whee
+: 2807 4 2 ~l 
+- 2813
+* 2827 3 2 To
+* 2831 10 2 night 
+- 2843
+: 3027 7 4 You’re 
+: 3036 3 2 be
+: 3041 4 4 hind 
+: 3047 6 5 the 
+: 3055 7 5 wheel
+: 3063 6 2 ~ 
+- 3071
+* 3083 4 2 To
+* 3089 10 2 night 
+E

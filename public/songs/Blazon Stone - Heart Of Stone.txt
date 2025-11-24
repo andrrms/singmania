@@ -1,0 +1,419 @@
+#ARTIST:Blazon Stone
+#TITLE:Heart Of Stone
+#MP3:Blazon Stone - Heart Of Stone.mp3
+#COVER:Blazon Stone - Heart Of Stone [CO].jpg
+#BACKGROUND:Blazon Stone - Heart Of Stone [BG].jpg
+#GENRE:Metal
+#YEAR:2019
+#LANGUAGE:English
+#BPM:315.27
+#GAP:26390
+#VIDEO:a=ECjAr9nNdfQ,co=hymns-of-triumph-and-death-5ce7a258eefee.jpg
+: 0 4 6 Ga
+: 6 4 9 llows
+: 12 8 6  end
+: 24 4 4  wai
+: 30 4 2 ting
+: 36 4 4  for
+: 42 4 6  the
+: 48 4 4  ones
+: 54 4 2  in
+: 60 4 -1  line
+- 70
+: 72 4 -1 They
+: 78 4 1  de
+: 84 8 2 fied
+: 96 8 6  the
+: 108 8 9  hands
+: 120 4 6  of
+: 126 4 4 ~
+: 132 16 4  doom
+- 169
+: 192 4 7 Reign
+: 198 4 11  of
+: 204 8 6  death,
+: 216 4 4  tur
+: 222 4 2 ning
+: 228 4 4  eve
+: 234 4 6 ry
+: 240 4 4 thing
+: 246 4 2  to
+: 252 4 -1  waste
+- 262
+: 264 4 -1 By
+: 270 4 1  the
+: 276 8 2  po
+: 288 8 6 wer
+: 300 6 9  of
+: 312 4 11  the
+: 318 2 9 ~
+: 324 20 9  king
+: 348 4 6  born
+- 358
+: 360 4 6 With
+: 366 4 7  a
+: 372 8 6  heart
+: 384 8 2  of
+: 396 8 -1  stone
+- 406
+: 408 4 7 Like
+: 414 4 9  a
+: 420 8 7  de
+: 432 8 6 vils
+: 444 8 2  spawn
+- 454
+: 456 4 7 Strive
+: 462 4 11  to
+: 468 8 9  crush
+: 480 8 6  the
+: 492 8 4  dreams
+: 504 6 2  of
+: 516 4 4  eve
+: 522 4 6 ry
+: 528 4 4 one
+: 534 4 2  be
+: 540 4 1 low
+- 550
+: 552 4 6 On
+: 558 4 7 ly
+: 564 8 6  death
+: 576 8 2  re
+: 588 6 -1 liefs
+- 598
+: 600 4 7 When
+: 606 4 9  their
+: 612 8 7  eyes
+: 624 8 6  turns
+: 636 4 2  black
+- 646
+: 648 4 7 And
+: 654 4 11  the
+: 660 8 9  ho
+: 672 8 6 rrors
+: 684 8 4  will
+: 696 8 2  re
+: 708 4 4 main
+: 714 2 6 ~
+- 718
+: 720 4 4 With
+: 726 4 2  a
+: 732 8 1  heart
+: 744 8 -3  of
+: 756 32 -1  stone
+- 809
+: 865 4 2 Heart
+: 871 4 -3  of
+: 877 8 -1  stone,
+: 889 4 9  heart
+: 895 4 6  of
+: 901 32 11  stone
+- 943
+: 961 4 6 No
+: 967 4 9  one
+: 973 8 6  knows
+: 985 4 4  what
+: 991 4 2  goes
+: 997 4 4  on
+: 1003 4 6  wi
+: 1009 4 4 thin
+: 1015 4 2  those
+: 1021 4 -1  walls
+- 1031
+: 1033 4 -1 But
+: 1039 4 1  the
+: 1045 8 2  si
+: 1057 8 6 lence
+: 1069 8 9  says
+: 1081 4 6  it
+: 1087 4 4 ~
+: 1093 24 4  all
+- 1127
+: 1153 4 7 No
+: 1159 4 11  re
+: 1165 8 6 grets
+: 1177 4 4  by
+: 1183 4 2  the
+: 1189 4 4  ones
+: 1195 4 6  who
+: 1201 4 4  form
+: 1207 4 2  the
+: 1213 4 -1  line
+- 1223
+: 1225 4 -1 They
+: 1231 4 1  have
+: 1237 8 2  had
+: 1249 8 6  e
+: 1261 6 9 nough
+: 1273 4 11  at
+: 1279 2 9 ~
+: 1285 20 9  last
+: 1309 4 6  and
+- 1319
+: 1321 4 6 With
+: 1327 4 7  a
+: 1333 8 6  heart
+: 1345 8 2  of
+: 1357 8 -1  stone
+- 1367
+: 1369 4 7 Like
+: 1375 4 9  a
+: 1381 8 7  de
+: 1393 8 6 vils
+: 1405 8 2  spawn
+- 1415
+: 1417 4 7 Strive
+: 1423 4 11  to
+: 1429 8 9  crush
+: 1441 8 6  the
+: 1453 8 4  dreams
+: 1465 6 2  of
+: 1477 4 4  eve
+: 1483 4 6 ry
+: 1489 4 4 one
+: 1495 4 2  be
+: 1501 4 1 low
+- 1511
+: 1513 4 6 On
+: 1519 4 7 ly
+: 1525 8 6  death
+: 1537 8 2  re
+: 1549 6 -1 liefs
+- 1559
+: 1561 4 7 When
+: 1567 4 9  their
+: 1573 8 7  eyes
+: 1585 8 6  turns
+: 1597 4 2  black
+- 1607
+: 1609 4 7 And
+: 1615 4 11  the
+: 1621 8 9  ho
+: 1633 8 6 rrors
+: 1645 8 4  will
+: 1657 8 2  re
+: 1669 4 4 main
+: 1675 2 6 ~
+- 1679
+: 1681 4 4 With
+: 1687 4 2  a
+: 1693 8 1  heart
+: 1705 8 -3  of
+: 1717 36 -1  stone
+- 1774
+: 1826 4 2 Heart
+: 1832 4 -3  of
+: 1838 8 -1  stone,
+: 1850 4 9  heart
+: 1856 4 6  of
+: 1862 32 11  stone
+- 1936
+: 2018 4 4 Heart
+: 2024 4 -1  of
+: 2030 8 1  stone,
+: 2042 4 11  heart
+: 2048 4 8  of
+: 2054 16 13  stone
+: 2072 4 11 ~
+: 2078 4 8 ~
+: 2084 4 6 ~
+: 2090 8 8 ~
+- 2140
+: 2679 6 1 Death
+: 2691 6 3  is
+: 2703 6 4  kno
+: 2715 4 8 cking
+- 2719
+: 2721 4 4 U
+: 2727 4 8 pon
+: 2733 4 4  your
+: 2739 4 1  gate
+: 2745 4 4  of
+: 2751 4 3  twis
+: 2757 4 -1 ted
+: 2763 4 -4  lies
+- 2773
+: 2775 6 1 Mark
+: 2787 6 3  my
+: 2799 6 4  words
+- 2809
+: 2811 4 8 There
+: 2817 4 4  won’t
+: 2823 4 8  be
+: 2829 4 4  a
+: 2835 4 3 no
+: 2841 4 4 ther
+: 2847 4 3  day
+: 2853 4 -1  this
+: 2859 4 1  time
+- 2869
+: 2871 6 3 Death
+: 2883 6 5  is
+: 2895 6 6  kno
+: 2907 4 10 cking
+- 2911
+: 2913 4 6 U
+: 2919 4 10 pon
+: 2925 4 6  your
+: 2931 4 5  gate
+: 2937 4 6  of
+: 2943 4 5  twis
+: 2949 4 1 ted
+: 2955 4 -2  lies
+- 2965
+: 2967 8 3 Mark
+: 2979 8 5  my
+: 2991 8 6  words
+- 3001
+: 3003 4 10 There
+: 3009 4 6  won’t
+: 3015 4 10  be
+: 3021 4 6  a
+: 3027 4 5 no
+: 3033 4 6 ther
+: 3039 4 5  day
+: 3045 4 1  this
+: 3051 8 3  time
+- 3101
+: 4228 4 6 Ga
+: 4234 4 9 llows
+: 4240 8 6  end
+: 4252 4 4  wai
+: 4258 4 2 ting
+: 4264 4 4  for
+: 4270 4 6  the
+: 4276 4 4  ones
+: 4282 4 2  in
+: 4288 4 -1  line
+- 4298
+: 4300 4 -1 They
+: 4306 4 1  de
+: 4312 8 2 fied
+: 4324 8 6  the
+: 4336 8 9  hands
+: 4348 4 6  of
+: 4354 4 4 ~
+: 4360 16 4  doom
+- 4397
+: 4420 4 7 Reign
+: 4426 4 9  of
+: 4432 8 6  death,
+: 4444 4 4  tur
+: 4450 4 2 ning
+: 4456 4 4  eve
+: 4462 4 6 ry
+: 4468 4 4 thing
+: 4474 4 2  to
+: 4480 4 -1  waste
+- 4490
+: 4492 4 -1 By
+: 4498 4 1  the
+: 4504 8 2  po
+: 4516 8 6 wer
+: 4528 6 9  of
+: 4540 4 11  the
+: 4546 2 9 ~
+: 4552 20 9  king
+: 4576 4 6  born
+- 4586
+: 4588 4 6 With
+: 4594 4 7  a
+: 4600 8 6  heart
+: 4612 8 2  of
+: 4624 8 -1  stone
+- 4634
+: 4636 4 7 Like
+: 4642 4 9  a
+: 4648 8 7  de
+: 4660 8 6 vils
+: 4672 8 2  spawn
+- 4682
+: 4684 4 7 Strive
+: 4690 4 11  to
+: 4696 8 9  crush
+: 4708 8 6  the
+: 4720 8 4  dreams
+: 4732 6 2  of
+: 4744 4 4  eve
+: 4750 4 6 ry
+: 4756 4 4 one
+: 4762 4 2  be
+: 4768 4 1 low
+- 4778
+: 4780 4 6 On
+: 4786 4 7 ly
+: 4792 8 6  death
+: 4804 8 2  re
+: 4816 6 -1 liefs
+- 4826
+: 4828 4 7 When
+: 4834 4 9  their
+: 4840 8 7  eyes
+: 4852 8 6  turns
+: 4864 4 2  black
+- 4874
+: 4876 4 7 And
+: 4882 4 11  the
+: 4888 8 9  ho
+: 4900 8 6 rrors
+: 4912 8 4  will
+: 4924 8 2  re
+: 4936 24 4 main
+- 4969
+: 4972 4 6 With
+: 4978 4 7  a
+: 4984 8 6  heart
+: 4996 8 2  of
+: 5008 8 -1  stone
+- 5018
+: 5020 4 7 Like
+: 5026 4 9  a
+: 5032 8 7  de
+: 5044 8 6 vils
+: 5056 8 2  spawn
+- 5066
+: 5068 4 7 Strive
+: 5074 4 11  to
+: 5080 8 9  crush
+: 5092 8 6  the
+: 5104 8 4  dreams
+: 5116 6 2  of
+: 5128 4 4  eve
+: 5134 4 6 ry
+: 5140 4 4 one
+: 5146 4 2  be
+: 5152 4 1 low
+- 5162
+: 5164 4 6 On
+: 5170 4 7 ly
+: 5176 8 6  death
+: 5188 8 2  re
+: 5200 6 -1 liefs
+- 5210
+: 5212 4 7 When
+: 5218 4 9  their
+: 5224 8 7  eyes
+: 5236 8 6  turns
+: 5248 4 2  black
+- 5258
+: 5260 4 7 And
+: 5266 4 11  the
+: 5272 8 9  ho
+: 5284 8 6 rrors
+: 5296 8 4  will
+: 5308 8 2  re
+: 5320 4 4 main
+: 5326 2 6 ~
+- 5330
+: 5332 4 4 With
+: 5338 4 2  a
+: 5344 8 1  heart
+: 5356 8 -3  of
+: 5368 40 -1  stone
+- 5429
+: 5477 4 2 Heart
+: 5483 4 -3  of
+: 5489 8 -1  stone,
+: 5501 4 9  heart
+: 5507 4 6  of
+: 5513 22 11  stone
+E

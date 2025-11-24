@@ -1,0 +1,565 @@
+#ARTIST:Luca Turilli
+#TITLE:The Ancient Forest Of Elves
+#MP3:Luca Turilli - The Ancient Forest Of Elves.mp3
+#CREATOR:Jolter
+#GENRE:Metal
+#YEAR:1999
+#LANGUAGE:English
+#BPM:340
+#GAP:130
+#VIDEO:a=Oct_j8nnoTE,co=the-ancient-forest-of-elves-5e45bf6b7360b.jpg,bg=turilli-luca-4fad15a6adc87.jpg
+: 0 2 3 To 
+: 4 2 5 the 
+: 8 6 7 wind 
+: 16 2 7 I 
+: 20 2 7 will 
+: 24 10 8 sing 
+: 36 2 8 the 
+: 40 6 5 tale 
+: 48 2 3 of 
+: 52 2 5 the 
+: 56 11 7 king 
+- 68
+: 68 2 7 That 
+: 72 6 8 reigned 
+: 80 6 7 in 
+: 88 6 5 peace 
+: 96 4 7 and 
+: 104 16 5 love 
+- 122
+: 128 2 3 Of 
+: 132 2 5 the 
+: 136 6 7 one 
+: 144 2 7 of 
+: 148 2 7 the 
+: 152 10 8 man 
+: 164 2 8 who 
+: 168 6 10 crossed 
+: 176 4 8 the 
+: 184 6 7 path 
+- 191
+: 192 2 0 Of 
+: 196 2 2 the 
+: 200 6 3 an
+: 208 4 0 cient 
+: 216 6 2 fo
+: 224 2 3 rest 
+: 228 2 2 of 
+* 232 18 0 elves 
+- 252
+: 256 2 3 To 
+: 260 2 5 the 
+: 264 6 7 wind 
+: 272 2 7 I 
+: 276 2 7 will 
+: 280 10 8 sing 
+: 292 2 8 the 
+: 296 6 5 tale 
+: 304 2 3 of 
+: 308 2 5 the 
+: 312 10 7 king 
+- 323
+: 324 2 7 That 
+: 328 6 8 reigned 
+: 336 6 7 in 
+: 344 6 5 peace 
+: 352 4 7 and 
+: 360 18 5 love 
+- 380
+: 384 2 3 Of 
+: 388 2 5 the 
+: 392 6 7 one 
+: 400 2 7 of 
+: 404 2 7 the 
+: 408 10 8 man 
+: 420 2 8 who 
+: 424 6 10 crossed 
+: 432 4 8 the 
+: 440 6 7 path 
+- 447
+: 448 2 0 Of 
+: 452 2 2 the 
+: 456 6 3 an
+: 464 4 0 cient 
+: 472 6 2 fo
+: 480 2 3 rest 
+: 484 2 2 of 
+: 488 24 0 elves 
+- 514
+: 792 10 7 Old 
+: 804 10 5 lands 
+: 816 6 3 and 
+: 824 8 2 red 
+: 836 10 3 dra
+: 848 6 0 gons 
+: 856 6 12 filled 
+: 864 6 10 his 
+: 872 6 8 o
+: 880 4 5 pen 
+: 888 40 7 eyes 
+- 930
+: 952 10 7 Kings, 
+: 964 10 5 queens 
+: 976 6 3 and 
+: 984 10 2 proud 
+: 996 10 3 war
+: 1008 4 0 riors 
+* 1016 6 12 in 
+: 1024 6 10 his 
+: 1032 6 8 ma
+: 1040 6 10 gic 
+: 1048 48 7 dreams 
+- 1098
+: 1128 10 5 Mys 
+: 1140 8 5 ti
+: 1152 4 3 cal 
+: 1160 10 2 e
+: 1172 10 3 ner
+: 1184 6 5 gies 
+: 1192 10 7 led 
+: 1204 8 7 him 
+: 1216 6 5 straight 
+: 1224 12 7 there 
+- 1238
+: 1240 6 0 To 
+: 1248 6 2 the 
+: 1256 20 3 lone
+: 1280 6 2 ly 
+: 1288 14 0 ho
+: 1304 12 5 ly 
+: 1320 20 3 wild
+: 1344 6 2 ~ 
+: 1352 18 2 path 
+- 1372
+: 1376 2 3 To 
+: 1380 2 5 the 
+: 1384 6 7 wind 
+: 1392 2 7 I 
+: 1396 2 7 will 
+: 1400 10 8 sing 
+: 1412 2 8 the 
+: 1416 6 5 tale 
+: 1424 2 3 of 
+: 1428 2 5 the 
+: 1432 10 7 king 
+- 1443
+: 1444 2 7 That 
+: 1448 6 8 reigned 
+: 1456 6 7 in 
+: 1464 6 5 peace 
+: 1472 6 7 and 
+: 1480 18 5 love 
+- 1500
+: 1504 2 3 Of 
+: 1508 2 5 the 
+: 1512 6 7 one 
+: 1520 2 7 of 
+: 1524 2 7 the 
+: 1528 8 8 man 
+: 1540 2 8 who 
+: 1544 4 10 crossed 
+: 1552 4 8 the 
+: 1560 6 7 path 
+- 1567
+: 1568 2 0 Of 
+: 1572 2 2 the 
+: 1576 6 3 an
+: 1584 6 0 cient 
+: 1592 6 2 fo
+: 1600 2 3 rest 
+: 1604 2 2 of 
+: 1608 18 0 elves 
+- 1628
+: 1632 2 3 To 
+: 1636 2 5 the 
+: 1640 6 7 wind 
+: 1648 2 7 I 
+: 1652 2 7 will 
+: 1656 10 8 sing 
+: 1668 2 8 the 
+: 1672 6 5 tale 
+: 1680 2 3 of 
+: 1684 2 5 the 
+: 1688 10 7 king 
+- 1699
+: 1700 2 7 That 
+: 1704 6 8 reigned 
+: 1712 6 7 in 
+: 1720 6 5 peace 
+: 1728 4 7 and 
+: 1736 16 5 love 
+- 1754
+: 1760 2 3 Of 
+: 1764 2 5 the 
+: 1768 6 7 one 
+: 1776 2 7 of 
+: 1780 2 7 the 
+: 1784 10 8 man 
+: 1796 2 8 who 
+: 1800 6 10 crossed 
+: 1808 6 8 the 
+: 1816 6 7 path 
+- 1823
+: 1824 2 0 Of 
+: 1828 2 2 the 
+: 1832 6 3 an
+: 1840 4 0 cient 
+: 1848 6 2 fo
+: 1856 2 3 rest 
+: 1860 2 2 of 
+: 1864 20 0 elves 
+- 1886
+: 2168 8 7 Star
+: 2180 10 5 fi
+: 2192 6 3 re 
+: 2200 8 2 bur
+: 2212 10 3 ning 
+: 2224 6 0 up
+: 2232 6 12 on 
+: 2240 6 10 the 
+: 2248 6 8 si
+: 2256 4 5 lent 
+* 2264 46 7 lake 
+- 2312
+: 2328 10 7 While 
+: 2340 10 5 sleep 
+: 2352 6 3 is 
+: 2360 10 2 wel
+: 2372 12 3 come 
+* 2392 6 12 thanks 
+: 2400 6 10 to 
+: 2408 6 8 my 
+: 2416 6 10 dear 
+: 2424 56 7 elves 
+- 2482
+: 2504 10 5 Sha
+: 2516 8 5 dows 
+: 2528 4 3 are 
+: 2536 10 2 co
+: 2548 10 3 ming 
+: 2560 6 5 to 
+: 2568 10 7 take 
+: 2580 8 7 his 
+: 2592 4 5 brave 
+: 2600 12 7 soul 
+- 2614
+: 2616 7 0 To 
+: 2624 7 2 bring 
+: 2632 6 3 it 
+: 2642 6 3 in 
+: 2656 6 2 the 
+: 2664 12 0 lost 
+: 2680 14 5 for
+: 2696 22 3 got
+: 2720 3 2 ten
+F 2724 3 0 ~ 
+: 2728 20 2 world 
+- 2750
+: 2752 2 3 To 
+: 2756 2 5 the 
+: 2760 6 7 wind 
+: 2768 2 7 I 
+: 2772 2 7 will 
+: 2776 10 8 sing 
+: 2788 2 8 the 
+: 2792 6 5 tale 
+: 2800 2 3 of 
+: 2804 2 5 the 
+: 2808 10 7 king 
+- 2819
+: 2820 2 7 That 
+: 2824 6 8 reigned 
+: 2832 6 7 in 
+: 2840 6 5 peace 
+: 2848 8 7 and 
+: 2858 18 5 love 
+- 2878
+: 2880 2 3 Of 
+: 2884 2 5 the 
+: 2888 6 7 one 
+: 2896 2 7 of 
+: 2900 2 7 the 
+: 2904 10 8 man 
+: 2916 2 8 who 
+: 2920 6 10 crossed 
+: 2928 4 8 the 
+: 2936 6 7 path 
+- 2943
+: 2944 2 0 Of 
+: 2948 2 2 the 
+: 2952 6 3 an
+: 2960 4 0 cient 
+: 2968 6 2 for
+: 2976 2 3 est 
+: 2980 2 2 of 
+* 2984 16 0 elves 
+- 3002
+: 3008 2 3 To 
+: 3012 2 5 the 
+: 3016 6 7 wind 
+: 3024 2 7 I 
+: 3028 2 7 will 
+: 3032 10 8 sing 
+: 3044 2 8 the 
+: 3048 6 5 tale 
+: 3056 2 3 of 
+: 3060 2 5 the 
+: 3064 10 7 king 
+- 3075
+: 3076 2 7 That 
+: 3080 6 8 reigned 
+: 3088 6 7 in 
+: 3096 6 5 peace 
+: 3104 4 7 and 
+: 3112 18 5 love 
+- 3132
+: 3136 2 3 Of 
+: 3140 2 5 the 
+: 3144 6 7 one 
+: 3152 2 7 of 
+: 3156 2 7 the 
+: 3160 10 8 man 
+: 3172 2 8 who 
+: 3176 4 10 crossed 
+: 3184 4 8 the 
+: 3192 6 7 path 
+- 3199
+: 3200 2 0 Of 
+: 3204 2 2 the 
+: 3208 6 3 an
+: 3216 6 0 cient 
+: 3224 6 2 for
+: 3232 2 3 est 
+: 3236 2 2 of 
+: 3240 22 0 elves 
+- 3264
+: 4296 12 7 And 
+: 4312 4 5 may 
+: 4320 4 3 the 
+: 4328 12 5 time
+: 4344 14 2 spell 
+: 4360 12 3 clear 
+: 4376 6 0 his 
+: 4384 7 3 la
+: 4392 4 2 st 
+: 4400 18 2 sin 
+- 4420
+: 4424 14 7 Ride 
+: 4440 6 7 on 
+: 4448 6 9 the 
+: 4456 12 10 co
+: 4472 14 5 met 
+: 4488 8 9 to 
+: 4500 8 10 make 
+: 4512 6 9 him 
+: 4520 22 7 free 
+- 4544
+: 4552 12 7 And 
+: 4568 6 5 may 
+: 4576 4 3 his 
+: 4584 14 3 brave 
+: 4600 14 3 mind 
+: 4616 12 3 en
+: 4632 6 0 dure 
+: 4640 10 3 the 
+: 4656 20 2 pain 
+- 4678
+: 4680 12 7 Of 
+: 4696 6 7 cos
+: 4704 6 9 mic 
+: 4712 12 10 e
+: 4728 12 5 vil 
+: 4744 10 9 trying 
+: 4756 8 10 to 
+: 4768 7 9 pre
+* 4776 56 7 vail 
+- 4834
+F 4850 7 2 And 
+F 4858 5 2 so 
+F 4864 3 2 a 
+F 4868 6 2 new 
+F 4876 10 2 legend 
+F 4888 14 2 begins 
+- 4904
+F 4930 3 2 The 
+F 4934 9 2 borders 
+F 4944 5 2 of 
+F 4950 11 2 space 
+F 4962 5 2 and 
+F 4968 9 2 time 
+- 4978
+F 4978 5 2 Are 
+F 4984 13 2 broken 
+F 4998 5 2 once 
+F 5004 14 2 again 
+- 5020
+F 5024 3 2 And 
+F 5028 4 2 the 
+F 5034 9 2 wise 
+F 5044 3 2 en
+F 5048 3 2 er
+F 5052 4 2 gy 
+F 5058 3 2 of 
+F 5062 9 2 cos
+F 5072 8 2 mos 
+- 5082
+F 5084 11 2 Calls 
+F 5096 3 2 for 
+F 5100 10 2 another 
+F 5112 10 2 hero 
+- 5124
+F 5146 13 2 There, 
+F 5160 3 2 in 
+F 5164 3 2 the 
+F 5168 5 2 twi
+F 5174 4 2 light 
+F 5180 7 2 lands 
+F 5188 3 2 of 
+F 5192 3 2 the 
+F 5196 12 2 north 
+- 5210
+F 5216 5 2 Where 
+F 5222 3 2 the 
+F 5226 5 2 la
+F 5232 7 2 ments 
+F 5240 4 2 of 
+F 5246 7 2 suf
+F 5254 10 2 fering 
+F 5266 18 2 souls 
+- 5286
+F 5288 24 2 Rise 
+: 5320 12 7 To 
+: 5336 14 7 the 
+: 5352 4 7 wind 
+: 5360 2 7 I 
+: 5364 2 7 will 
+* 5368 8 8 sing 
+: 5380 2 8 the 
+: 5384 6 5 tale 
+: 5392 2 3 of 
+: 5396 2 5 the 
+: 5400 8 7 king 
+- 5410
+: 5412 2 7 That 
+: 5416 6 8 reigned 
+: 5424 6 7 in 
+: 5432 6 5 peace 
+: 5440 4 7 and 
+: 5448 20 5 love 
+- 5470
+: 5472 2 3 Of 
+: 5476 2 5 the 
+: 5480 6 7 one 
+: 5488 2 7 of 
+: 5492 2 7 the 
+: 5496 8 8 man 
+: 5508 2 8 who 
+: 5512 6 10 crossed 
+: 5520 4 8 the 
+: 5528 6 7 path 
+- 5535
+: 5536 2 0 Of 
+: 5540 2 2 the 
+: 5544 6 3 an
+: 5552 4 0 cient 
+: 5560 6 2 for
+: 5568 2 3 est 
+: 5572 2 2 of 
+: 5576 16 0 elves 
+- 5594
+: 5600 2 3 To 
+: 5604 2 5 the 
+: 5608 6 7 wind 
+: 5616 2 7 I 
+: 5620 2 7 will 
+: 5624 8 8 sing 
+: 5636 2 8 the 
+: 5640 6 5 tale 
+: 5648 2 3 of 
+: 5652 2 5 the 
+: 5656 8 7 king 
+- 5666
+: 5668 2 7 That 
+: 5672 6 8 reigned 
+: 5680 6 7 in 
+: 5688 6 5 peace 
+: 5696 4 7 and 
+: 5704 16 5 love 
+- 5722
+: 5728 2 3 Of 
+: 5732 2 5 the 
+: 5736 6 7 one 
+: 5744 2 7 of 
+: 5748 2 7 the 
+: 5752 8 8 man 
+: 5764 2 8 who 
+: 5768 6 10 crossed 
+: 5776 4 8 the 
+: 5784 4 7 path 
+- 5790
+: 5792 2 0 Of 
+: 5796 2 2 the 
+: 5800 6 3 an
+: 5808 4 0 cient 
+: 5816 6 2 for
+: 5824 2 3 est 
+: 5828 2 2 of 
+: 5832 16 0 elves 
+- 5850
+: 5856 2 3 To 
+: 5860 2 5 the 
+: 5864 6 7 wind 
+: 5872 2 7 I 
+: 5876 2 7 will 
+: 5880 8 8 sing 
+: 5892 2 8 the 
+: 5896 6 5 tale 
+: 5904 2 3 of 
+: 5908 2 5 the 
+: 5912 10 7 king 
+- 5923
+: 5924 2 7 That 
+: 5928 6 8 reigned 
+: 5936 6 7 in 
+: 5944 6 5 peace 
+: 5952 4 7 and 
+: 5960 18 5 love 
+- 5980
+: 5984 2 3 Of 
+: 5988 2 5 the 
+: 5992 6 7 one 
+: 6000 2 7 of 
+: 6004 2 7 the 
+: 6008 10 8 man 
+: 6020 2 8 who 
+: 6024 4 10 crossed 
+: 6032 4 8 the 
+: 6040 6 7 path 
+- 6047
+: 6048 2 0 Of 
+: 6052 2 2 the 
+: 6056 6 3 an
+: 6064 6 0 cient 
+: 6072 6 2 for
+: 6080 2 3 est 
+: 6084 2 2 of 
+: 6088 20 0 elves 
+- 6110
+: 6112 2 0 Of 
+: 6116 2 2 the 
+: 6120 6 3 an
+: 6128 6 0 cient 
+: 6136 6 2 for
+: 6144 2 3 est 
+: 6148 2 2 of 
+: 6152 20 0 elves 
+- 6174
+: 6176 3 0 Of 
+: 6180 3 2 the 
+: 6184 12 3 an
+: 6200 12 0 cient 
+: 6216 10 2 for
+: 6228 10 3 est 
+: 6240 6 2 of 
+* 6248 42 12 elves 
+E

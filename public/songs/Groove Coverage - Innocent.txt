@@ -1,0 +1,292 @@
+#ARTIST:Groove Coverage
+#TITLE:Innocent
+#MP3:Groove Coverage - Innocent.mp3
+#CREATOR:karmidi
+#EDITION:[SC]-Songs
+#YEAR:2010
+#LANGUAGE:English
+#BPM:260
+#GAP:2140
+#VIDEO:v=WeZgjAORWjM,co=innocent-68b4000787aef.jpg,bg=https://meine-onlinezeitung.de/images/2024/82/groove-coverage-live-in-stadtoldendorf.jpg
+: 0 4 8 I 
+: 8 6 4 know 
+: 20 4 8 you’ll 
+: 28 4 4 ne
+: 36 2 1 ver 
+: 40 2 4 stay 
+: 44 2 6 the 
+: 48 6 8 same. 
+- 56
+: 64 4 6 In 
+: 72 6 3 time, 
+: 84 4 6 most 
+: 92 4 4 of 
+: 100 2 1 us 
+: 104 4 4 lose 
+: 113 6 1 it. 
+- 121
+: 128 4 8 But 
+: 136 6 4 I’m 
+: 148 4 8 ho
+: 156 4 4 ping, 
+: 164 4 4 just 
+: 172 2 6 the 
+: 176 6 8 same, 
+- 184
+: 192 4 6 You’ll 
+: 200 6 3 shine 
+: 208 2 3 and 
+: 212 4 6 learn 
+: 220 4 4 how 
+: 228 2 1 to 
+* 232 4 4 use 
+: 240 6 1 it. 
+- 248
+: 280 6 4 Speak 
+: 292 2 -1 to 
+: 296 6 -1 me, 
+- 304
+: 320 2 -1 Like 
+: 324 2 -1 the 
+: 328 2 4 ve
+: 332 2 4 ry 
+: 336 4 8 first 
+: 344 7 6 speak. 
+- 353
+: 380 6 -1 You 
+: 388 3 1 are 
+: 396 4 3 mag
+: 404 4 3 ni
+: 412 2 4 fi
+: 416 4 4 cent 
+- 422
+: 456 6 1 When 
+: 468 2 3 you’re 
+: 472 2 3 in
+: 476 2 4 no
+: 480 5 4 cent. 
+- 487
+: 536 6 4 Laugh 
+: 548 2 -1 to 
+: 552 6 -1 me, 
+- 560
+: 576 2 -1 Like 
+: 580 2 -1 the 
+: 584 2 4 ve
+: 588 2 4 ry 
+: 592 3 8 first 
+: 600 6 6 laugh. 
+- 608
+: 636 4 -1 You 
+: 644 3 1 are 
+: 652 4 3 from 
+: 660 4 3 hea
+: 668 2 4 ven 
+: 672 4 4 sent 
+- 678
+: 712 6 1 When 
+: 724 2 3 you’re 
+: 728 2 3 in
+: 732 2 4 no
+* 736 4 4 cent. 
+- 742
+: 800 4 8 My 
+: 808 6 4 hands 
+: 820 4 8 hold 
+: 828 4 4 you 
+: 836 2 1 and 
+: 840 2 4 you 
+: 844 2 6 a
+: 848 6 8 dore, 
+- 856
+: 864 4 6 Blue 
+: 872 6 3 eyes 
+: 884 4 6 turn 
+: 892 4 4 my 
+: 900 2 1 di
+: 904 3 4 rec
+: 912 2 -1 tio
+: 916 4 1 ~n. 
+- 922
+: 928 4 8 Sur
+: 936 4 4 prise 
+: 948 4 8 in 
+: 956 4 4 eve
+: 964 2 1 ry
+: 968 2 4 thing 
+: 972 2 6 and 
+: 976 6 8 your 
+- 984
+: 992 4 6 Bo
+: 1000 6 3 dy 
+* 1012 4 6 moves 
+: 1020 4 4 in 
+: 1028 2 1 per
+: 1032 4 4 fec
+: 1040 2 -1 tio
+: 1044 4 1 ~n. 
+- 1050
+: 1080 6 4 Smile 
+: 1092 2 -1 to 
+: 1096 6 -1 me, 
+- 1104
+: 1120 2 -1 Like 
+: 1124 2 -1 the 
+: 1128 2 4 ve
+: 1132 2 4 ry 
+* 1136 4 8 first 
+: 1144 7 6 smile. 
+- 1153
+: 1180 6 -1 You 
+: 1188 3 1 are 
+: 1196 4 3 mag
+: 1204 4 3 ni
+: 1212 2 4 fi
+: 1216 4 4 cent 
+- 1222
+: 1256 6 1 When 
+: 1268 2 3 you’re 
+: 1272 2 3 in
+: 1276 2 4 no
+: 1280 4 4 cent. 
+- 1286
+: 1336 6 4 Walk 
+: 1348 2 -1 to 
+: 1352 6 -1 me, 
+- 1360
+: 1376 2 -1 Like 
+: 1380 2 -1 the 
+: 1384 2 4 ve
+: 1388 2 4 ry 
+: 1392 4 8 first 
+: 1400 7 6 walk. 
+- 1409
+: 1436 6 -1 You 
+: 1444 3 1 are 
+: 1452 4 3 from 
+: 1460 4 3 hea
+: 1468 2 4 ven 
+: 1472 4 4 sent 
+- 1478
+: 1512 6 1 When 
+: 1524 2 3 you’re 
+: 1528 2 3 in
+: 1532 2 4 no
+: 1536 4 4 cent. 
+- 1542
+: 1588 2 3 You’re 
+: 1592 2 3 in
+: 1596 2 4 no
+: 1600 4 4 cent 
+- 1606
+: 1652 2 3 You’re 
+: 1656 2 3 in
+: 1660 2 4 no
+: 1664 4 4 cent 
+- 1670
+: 1716 2 3 You’re 
+: 1720 2 3 in
+: 1724 2 4 no
+: 1728 4 4 cent 
+- 1734
+: 1780 2 3 You’re 
+: 1784 2 3 in
+: 1788 2 4 no
+: 1792 4 4 cent 
+- 1798
+: 1880 6 4 Speak 
+: 1892 2 -1 to 
+: 1896 6 -1 me, 
+- 1904
+: 1920 2 -1 Like 
+: 1924 2 -1 the 
+: 1928 2 4 ve
+: 1932 2 4 ry 
+: 1936 4 8 first 
+: 1944 7 6 speak. 
+- 1953
+: 1980 6 -1 You 
+: 1988 3 1 are 
+: 1996 4 3 mag
+: 2004 4 3 ni
+: 2012 2 4 fi
+* 2016 4 4 cent 
+- 2022
+: 2056 6 1 When 
+: 2068 2 3 you’re 
+: 2072 2 3 in
+: 2076 2 4 no
+: 2080 4 4 cent. 
+- 2086
+: 2136 6 4 Laugh 
+: 2148 2 -1 to 
+: 2152 6 -1 me, 
+- 2160
+: 2176 2 -1 Like 
+: 2180 2 -1 the 
+: 2184 2 4 ve
+: 2188 2 4 ry 
+: 2192 4 8 first 
+: 2200 7 6 laugh. 
+- 2209
+: 2236 6 -1 You 
+: 2244 3 1 are 
+: 2252 4 3 from 
+: 2260 4 3 hea
+: 2268 2 4 ven 
+: 2272 4 4 sent 
+- 2278
+: 2312 6 1 When 
+: 2324 2 3 you’re 
+: 2328 2 3 in
+: 2332 2 4 no
+: 2336 4 4 cent. 
+- 2342
+: 2392 6 4 Smile 
+: 2404 2 -1 to 
+: 2408 6 -1 me, 
+- 2416
+* 2432 2 -1 Like 
+: 2436 2 -1 the 
+: 2440 2 4 ve
+: 2444 2 4 ry 
+: 2448 4 8 first 
+: 2456 7 6 smile. 
+- 2465
+: 2492 6 -1 You 
+: 2500 3 1 are 
+: 2508 4 3 mag
+: 2516 4 3 ni
+: 2524 2 4 fi
+: 2528 4 4 cent 
+- 2534
+: 2568 6 1 When 
+: 2580 2 3 you’re 
+: 2584 2 3 in
+: 2588 2 4 no
+: 2592 4 4 cent. 
+- 2598
+* 2648 6 4 Walk 
+: 2660 2 -1 to 
+: 2664 6 -1 me, 
+- 2672
+: 2688 2 -1 Like 
+: 2692 2 -1 the 
+: 2696 2 4 ve
+: 2700 2 4 ry 
+: 2704 4 8 first 
+: 2712 7 6 walk. 
+- 2721
+: 2748 6 -1 You 
+: 2756 3 1 are 
+: 2764 4 3 from 
+: 2772 4 3 hea
+: 2780 2 4 ven 
+: 2784 4 4 sent 
+- 2790
+: 2824 6 1 When 
+: 2836 2 3 you’re 
+: 2840 2 3 in
+: 2844 2 4 no
+: 2848 4 4 cent. 
+E

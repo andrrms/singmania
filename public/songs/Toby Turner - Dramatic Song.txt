@@ -1,0 +1,380 @@
+#ARTIST:Toby Turner
+#TITLE:Dramatic Song
+#MP3:Toby Turner - Dramatic Song.mp3
+#CREATOR:Mooballs2
+#YEAR:2012
+#LANGUAGE:English
+#BPM:220.18
+#GAP:12090
+#VIDEO:v=WteF0j5gYGk,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3c/b3/be/3cb3be27-3947-6cb2-e09c-4817ff3a6b64/859708213096_cover.jpg/5000x5000bb.jpg
+: 0 3 0 This 
+: 4 7 0 song 
+: 12 3 3 sounds 
+: 16 3 3 dra
+: 20 3 5 ma
+: 24 3 7 tic 
+- 27
+: 28 3 0 But 
+: 32 3 0 I’m 
+: 36 3 3 bad 
+: 40 3 0 at 
+: 44 3 8 wri
+: 48 7 5 ting 
+: 56 4 7 words 
+- 66
+: 68 3 0 If 
+: 72 3 0 you 
+: 76 3 3 don’t 
+: 80 3 0 speak 
+: 84 3 5 Eng
+: 88 4 7 lish 
+- 94
+* 96 3 0 This 
+* 100 3 3 prob’
+* 104 3 0 ly 
+* 108 3 5 sounds 
+* 112 3 3 pret
+* 116 3 2 ty 
+* 120 4 3 good 
+- 126
+: 128 3 0 You’d 
+: 132 3 3 prob’ 
+: 136 3 0 ly 
+: 140 3 5 think 
+: 144 3 0 I’m 
+: 148 3 5 sing
+: 152 3 7 ing 
+- 155
+: 156 3 0 ’Bout 
+: 160 3 0 some 
+: 164 3 3 pret
+: 168 3 0 ty 
+: 172 3 8 ser
+: 176 3 7 i
+: 180 3 5 ous 
+: 184 4 7 stuff 
+- 190
+: 192 3 0 But 
+: 196 3 3 in 
+: 200 3 0 re
+: 204 3 5 a
+: 208 3 0 li
+: 212 3 5 ty 
+: 216 3 7 I’m 
+: 220 3 7 sing
+: 224 3 7 ing 
+- 227
+: 228 3 7 ’Bout 
+: 232 3 7 the 
+: 236 3 7 lack 
+: 240 3 5 of 
+: 244 3 3 stuff 
+: 248 3 2 I’m 
+: 252 3 0 sing
+: 256 3 0 ing 
+: 260 7 0 ’bout 
+- 267
+* 268 3 12 This 
+* 272 3 12 part’s 
+* 276 3 10 in
+* 280 4 12 tense 
+- 290
+: 292 3 8 And 
+: 296 3 8 e
+: 300 3 8 mo
+: 304 3 10 tio
+: 308 8 7 nal 
+- 322
+: 324 7 3 As 
+: 332 7 5 long 
+: 340 8 7 as 
+- 350
+: 352 3 3 You 
+: 356 7 3 don’t 
+: 364 3 8 un
+: 368 3 7 der
+: 372 3 5 stand 
+: 376 4 3 it 
+- 386
+: 388 7 12 You’re 
+: 396 3 12 fo
+: 400 3 12 reign 
+: 404 3 10 grand
+: 408 4 12 ma 
+- 418
+: 420 7 8 Would 
+: 428 3 8 love 
+: 432 3 10 this 
+: 436 8 7 song 
+- 450
+: 452 7 8 Please 
+: 460 3 8 send 
+: 464 3 7 it 
+: 468 3 5 to 
+: 472 4 7 her 
+- 482
+: 484 3 7 And 
+: 488 3 7 she’ll 
+: 492 3 7 prob’
+: 496 3 5 ly 
+: 500 3 3 tell 
+: 504 3 2 her 
+- 507
+: 508 3 0 Fo
+: 512 3 0 reign 
+: 516 3 3 friends 
+: 520 3 0 a
+: 524 3 5 bout 
+: 528 3 0 the 
+: 532 3 5 song 
+- 535
+: 536 3 7 Her 
+: 540 3 0 grand
+: 544 1 0 son 
+: 546 1 0 or 
+: 548 3 3 daugh
+: 552 3 0 ter 
+: 556 3 8 sent 
+: 560 3 7 her 
+: 564 3 5 to 
+: 568 4 7 day 
+- 574
+: 576 3 0 This 
+: 580 3 3 song 
+: 584 3 0 might 
+: 588 3 5 hit 
+: 592 3 0 the 
+: 596 3 5 charts 
+: 600 1 7 in 
+: 602 1 7 her 
+- 603
+: 604 3 7 Coun
+: 608 3 7 try 
+: 612 3 7 if 
+: 616 3 7 parts 
+: 620 3 5 soun
+: 624 3 3 ded 
+- 627
+: 628 3 2 Like 
+: 632 15 7 Cold
+: 648 36 12 play 
+- 691
+* 694 3 3 If 
+* 698 3 2 the 
+* 702 3 0 chor
+* 706 7 0 us 
+* 714 7 3 sounds 
+* 722 7 5 like 
+* 730 15 7 Cold
+* 746 27 12 play 
+- 773
+: 774 3 12 Then 
+: 778 3 12 I’ll 
+: 782 7 12 put 
+: 790 3 10 some 
+: 794 4 12 La 
+- 804
+: 806 7 8 La 
+: 814 3 8 La’s 
+: 818 3 10 in 
+: 822 8 7 there 
+- 836
+: 838 7 8 La 
+: 846 3 8 la 
+: 850 3 7 la 
+: 854 3 5 la 
+: 858 4 7 la 
+- 864
+: 866 3 7 La 
+: 870 3 7 la 
+: 874 3 7 la 
+: 878 3 7 la 
+: 882 3 5 la 
+: 886 3 3 la 
+: 890 3 2 la 
+- 893
+: 894 3 0 Hope
+: 898 3 0 ful
+: 902 3 3 ly 
+: 906 3 0 your 
+: 910 3 5 fo
+: 914 3 0 reign 
+: 918 3 5 grand
+: 922 3 7 ma 
+- 925
+: 926 3 0 Lis
+: 930 3 0 tens 
+: 934 3 3 to 
+: 938 3 0 this 
+: 942 3 8 song 
+: 946 3 7 eve
+: 950 3 5 ry 
+: 954 4 7 day 
+- 960
+: 962 3 0 And 
+: 966 3 3 if 
+: 970 3 0 she 
+: 974 3 5 asks 
+: 978 3 0 you 
+: 982 3 5 to 
+- 985
+: 986 3 7 Trans
+: 990 3 7 late 
+: 994 3 7 the 
+: 998 3 7 lyr
+: 1002 3 7 ics 
+- 1005
+: 1006 3 5 Here’s 
+: 1010 3 3 what 
+: 1014 3 2 you 
+: 1018 4 3 say 
+- 1024
+* 1026 3 0 A 
+* 1030 3 3 Per
+* 1034 3 0 fect 
+* 1038 7 12 trans
+* 1046 3 10 la
+* 1050 4 12 tion 
+- 1060
+: 1062 7 8 Does 
+: 1070 3 8 not 
+: 1074 3 10 e
+: 1078 8 7 xist 
+- 1092
+: 1094 7 3 Well 
+: 1102 7 5 at 
+: 1110 8 7 least 
+- 1124
+: 1126 7 3 Not 
+: 1134 3 8 in 
+: 1138 3 7 your 
+: 1142 3 5 lan
+: 1146 4 3 guage 
+- 1152
+: 1154 3 0 But 
+: 1158 3 3 if 
+: 1162 3 0 you 
+: 1166 7 12 must 
+: 1174 3 10 know
+: 1178 4 12 ~ 
+- 1188
+: 1190 7 8 Well 
+: 1198 3 8 pic
+: 1202 3 10 ture 
+: 1206 8 7 this 
+- 1220
+: 1222 3 8 Fif
+: 1226 3 8 ty 
+: 1230 3 8 bil
+: 1234 3 7 lion 
+: 1238 3 5 rain
+: 1242 3 7 bows 
+- 1245
+: 1246 3 7 And 
+: 1250 3 7 the 
+: 1254 3 7 sun 
+: 1258 3 7 is 
+: 1262 3 7 set
+: 1266 3 5 ting 
+- 1269
+: 1270 3 3 And 
+: 1274 3 2 the 
+: 1278 3 0 moon 
+: 1282 3 0 is 
+: 1286 3 3 set
+: 1290 3 0 ting 
+: 1294 3 5 al
+: 1298 3 0 so 
+- 1301
+* 1302 3 5 And 
+* 1306 3 7 you’re 
+* 1310 7 0 there 
+* 1318 3 3 in 
+* 1322 3 0 a 
+* 1326 3 8 ga
+* 1330 7 5 ze
+* 1338 4 7 bo 
+- 1348
+: 1350 1 3 And 
+: 1352 5 0 then 
+: 1358 3 5 God 
+: 1362 3 0 de
+: 1366 3 5 scends 
+: 1370 3 7 from 
+: 1374 3 7 hea
+: 1378 3 7 ven 
+- 1381
+: 1382 3 7 And 
+: 1386 3 7 He 
+: 1390 3 7 gives 
+: 1394 1 5 you 
+: 1396 1 5 a 
+: 1398 3 3 mil
+: 1402 3 2 lion 
+: 1406 3 3 dol
+: 1410 3 0 lars 
+- 1413
+: 1414 3 0 Take 
+: 1418 3 0 that 
+: 1422 7 5 fee
+: 1430 3 5 ling
+: 1434 4 7 ~ 
+- 1440
+: 1442 3 0 And 
+: 1446 3 3 put 
+: 1450 3 0 it 
+: 1454 3 8 in
+: 1458 3 7 to 
+: 1462 3 5 a 
+: 1466 4 7 song 
+- 1476
+: 1478 3 0 I 
+: 1482 3 0 could 
+: 1486 7 5 trans
+: 1494 3 5 late
+: 1498 3 7 ~ 
+- 1501
+: 1502 3 0 Word 
+: 1506 3 0 by 
+: 1510 3 3 word 
+- 1513
+: 1514 3 0 But 
+: 1518 3 5 that’d 
+: 1522 3 3 take 
+: 1526 3 2 too 
+: 1530 4 3 long 
+- 1536
+: 1538 3 0 And 
+: 1542 3 3 I’ve 
+: 1546 3 0 got 
+: 1550 3 5 stuff 
+: 1554 3 0 to 
+: 1558 3 5 do 
+: 1562 3 7 Grand
+: 1566 4 0 ma 
+- 1572
+: 1574 3 0 I 
+: 1578 3 3 don’t 
+: 1582 3 0 have 
+: 1586 3 8 time 
+: 1590 3 7 for 
+: 1594 6 5 this 
+- 1600
+: 1602 3 7 You 
+: 1606 5 0 got
+: 1612 3 3 ta 
+: 1616 3 0 trust 
+: 1620 1 5 me 
+: 1622 3 0 Grand
+: 1626 4 5 ma 
+- 1632
+* 1634 3 7 This 
+* 1638 3 0 frea
+* 1642 3 3 king 
+* 1646 6 0 song 
+- 1652
+: 1654 3 5 Is 
+: 1658 3 3 bril
+: 1662 3 2 li
+: 1666 8 0 ant 
+E

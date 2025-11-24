@@ -1,0 +1,214 @@
+#ARTIST:Andy Williams
+#TITLE:Speak Softly Love (Love Theme From “The Godfather”)
+#MP3:Andy Williams - Speak Softly Love (Love Theme From “The Godfather”).mp3
+#CREATOR:dude76
+#GENRE:Vocal
+#YEAR:1972
+#LANGUAGE:English
+#BPM:269.4
+#GAP:15700
+#VIDEO:a=3l3xsKBPqQw,co=https://i.discogs.com/vdRaoTIPtEFCOE4i3Vb2nvGLj1seNrMO82uD0uxaRpY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTEy/MjMtMTQ2ODA2ODU5/NC04OTM1LmpwZWc.jpeg,bg=williams-andy-52d859f5e146e.jpg,preview=55.68,medley=0-716
+: 0 7 7 Speak 
+: 9 8 12 soft
+: 19 4 15 ly 
+: 25 10 14 love 
+- 36
+: 37 2 12 And 
+: 41 7 15 hold 
+: 50 3 12 me 
+: 55 13 14 warm 
+: 70 2 12 a
+: 74 6 8 gainst 
+: 82 4 10 your 
+: 88 21 7 heart 
+- 111
+: 125 3 7 I 
+: 130 7 12 feel 
+: 139 5 15 your 
+: 146 11 14 words 
+- 158
+: 159 2 12 The 
+: 163 6 15 ten
+: 171 1 12 der 
+: 174 5 14 trem
+: 181 8 12 bling 
+: 191 5 7 mo
+: 198 5 6 ments 
+: 205 22 5 start 
+- 229
+: 246 6 5 We’re 
+: 254 4 8 in 
+: 260 3 11 a 
+: 265 23 14 world 
+- 290
+: 303 7 5 Our 
+: 312 6 8 ve
+: 320 3 11 ry 
+: 325 7 14 o
+: 334 15 12 ~wn 
+- 351
+: 363 7 0 Sha
+: 372 5 3 ring 
+: 379 3 10 a 
+: 384 12 8 love 
+- 397
+: 398 3 7 That 
+: 403 6 10 on
+: 411 1 8 ly 
+: 414 12 8 few 
+: 428 4 7 have 
+: 434 3 7 e
+: 439 4 -1 ver 
+: 445 28 0 known 
+- 475
+: 483 16 12 Wine-
+: 501 3 12 co
+: 506 3 11 lored 
+: 511 18 10 days 
+- 530
+: 531 26 14 Warmed 
+: 559 4 12 by 
+: 565 1 8 the 
+: 568 15 7 sun 
+- 585
+: 600 9 7 Deep 
+: 611 8 10 vel
+: 621 3 7 vet 
+: 626 13 5 nights 
+- 641
+: 660 4 5 When 
+: 666 10 8 we 
+: 678 4 6 are 
+: 684 32 7 one 
+- 717
+: 718 8 7 Speak 
+: 728 8 12 soft
+: 738 4 15 ly 
+: 744 6 14 love 
+- 751
+: 752 6 12 So 
+: 760 4 15 no 
+: 766 3 12 one 
+: 771 6 14 hears 
+: 779 9 12 us 
+: 790 2 8 but 
+: 794 1 10 the 
+: 797 23 7 sky 
+- 822
+: 840 1 7 The 
+: 843 10 12 vows 
+: 855 4 15 of 
+: 861 3 14 love 
+- 865
+: 866 4 12 We 
+: 872 9 15 make 
+: 883 5 12 will 
+: 890 8 14 live 
+: 900 5 12 un
+: 907 5 7 til 
+: 914 4 6 we 
+: 920 23 5 die 
+- 945
+: 957 4 5 My 
+: 963 4 8 life 
+: 969 3 11 is 
+: 974 27 14 yours 
+- 1003
+: 1017 6 14 And 
+: 1025 5 15 all 
+: 1032 2 14 be
+: 1036 8 15 cau
+: 1046 1 14 ~
+: 1049 21 12 ~se 
+- 1071
+: 1073 3 0 You 
+: 1078 2 3 came 
+: 1082 5 10 in
+: 1089 6 8 to 
+: 1097 3 7 my 
+: 1102 16 10 world 
+: 1120 4 8 with 
+: 1126 10 8 love 
+- 1138
+: 1146 5 7 So 
+: 1153 9 7 soft
+: 1164 4 11 ly 
+: 1170 82 12 love 
+- 1254
+: 1710 14 13 Wine-
+: 1726 3 13 co
+: 1731 3 12 lored 
+: 1736 22 11 days 
+- 1759
+: 1760 23 15 Warmed 
+: 1785 4 13 by 
+: 1791 1 9 the 
+: 1794 12 8 sun 
+- 1808
+: 1828 6 8 Deep 
+: 1836 9 11 vel
+: 1847 4 8 vet 
+: 1853 18 6 nights 
+- 1873
+: 1885 5 6 When 
+: 1892 9 9 we 
+: 1903 5 7 are 
+* 1910 32 8 one 
+- 1944
+: 1952 14 9 Speak 
+: 1968 17 14 soft
+: 1987 12 17 ly 
+: 2001 13 16 love 
+- 2015
+: 2016 7 14 So 
+: 2025 3 17 no 
+: 2030 2 14 one 
+: 2034 8 16 hears 
+: 2044 6 14 us 
+: 2052 2 10 but 
+: 2056 1 12 the 
+: 2059 25 9 sky 
+- 2086
+: 2098 3 9 The 
+: 2103 8 14 vows 
+: 2113 3 17 of 
+: 2118 7 16 love 
+- 2126
+: 2127 3 14 We 
+: 2132 10 17 make 
+: 2144 4 14 will 
+: 2150 8 16 live 
+: 2160 3 14 un
+: 2165 5 9 til 
+: 2172 4 8 we 
+: 2178 26 7 die 
+- 2206
+: 2216 3 7 My 
+: 2221 7 10 life 
+: 2230 3 13 is 
+: 2235 36 16 yours 
+- 2273
+* 2276 39 19 And 
+: 2317 9 17 all 
+: 2328 3 16 be
+: 2333 11 17 cau
+: 2346 2 16 ~
+: 2350 20 14 ~se 
+- 2372
+: 2381 6 2 You 
+: 2389 5 5 came 
+: 2396 4 12 in
+: 2402 8 10 to 
+: 2412 8 9 my 
+: 2422 23 12 world 
+: 2447 5 10 with 
+: 2454 28 10 love 
+- 2484
+: 2487 12 9 So 
+: 2501 37 21 soft
+: 2540 17 21 ly 
+* 2559 8 22 lo
+* 2568 117 21 ~
+* 2687 95 25 ~
+* 2784 103 26 ~ve 
+E

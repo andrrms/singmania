@@ -1,0 +1,662 @@
+#ARTIST:Iggy Azalea feat. Jennifer Hudson
+#TITLE:Trouble
+#MP3:Iggy Azalea feat. Jennifer Hudson - Trouble.mp3
+#CREATOR:amro98
+#YEAR:2014
+#LANGUAGE:English
+#BPM:212.02
+#GAP:18520
+#VIDEO:v=UGLx4zzMdRA,co=trouble-554a5fd1e60e2.jpg,bg=azalea-iggy-540d9fbbea0ca.jpg
+F 0 4 0 Right, 
+- 6
+F 12 1 0 I 
+F 14 2 0 shoul
+F 17 1 0 da 
+F 19 2 0 known 
+F 22 2 0 you 
+F 25 2 0 were 
+F 28 2 0 bad 
+F 32 3 0 news 
+- 37
+F 40 1 0 From 
+F 42 1 0 the 
+F 44 2 0 bad 
+F 47 2 0 boy 
+- 50
+F 50 1 0 De
+F 52 1 0 mea
+F 54 1 0 nor 
+F 56 1 0 and 
+F 58 1 0 the 
+F 60 2 0 tat
+F 64 4 0 toos 
+- 70
+F 74 1 0 Cuz 
+F 76 2 0 most 
+F 79 2 0 guys 
+F 84 1 0 on
+F 86 1 0 ly 
+F 88 2 0 want 
+F 91 2 0 one 
+F 95 2 0 thing 
+- 98
+F 99 1 0 But 
+F 101 1 0 I’m 
+F 103 1 0 un
+F 105 1 0 de
+F 107 1 0 ci
+F 109 1 0 ded, 
+- 111
+F 112 2 0 Tryna 
+F 115 2 0 fi
+F 118 1 0 gure 
+F 120 1 0 out 
+F 122 1 0 if 
+F 124 2 0 that’s 
+F 128 3 0 you 
+- 133
+F 136 1 0 Ei
+F 138 1 0 ther 
+F 140 1 0 way 
+F 142 2 0 though, 
+- 145
+F 146 1 0 I 
+F 148 1 0 think 
+F 150 1 0 you’re 
+F 152 1 0 worth 
+F 154 1 0 a 
+F 156 2 0 test 
+F 160 4 0 drive 
+- 166
+F 168 2 0 Cuz 
+F 171 1 0 ooh 
+F 173 1 0 you’re 
+F 175 1 0 so 
+F 177 1 0 much 
+F 179 2 0 bet
+F 182 1 0 ter 
+- 184
+F 184 1 0 Than 
+F 186 1 0 the 
+F 188 2 0 next 
+F 191 2 0 guy 
+- 194
+F 195 2 0 And 
+F 198 1 0 a 
+F 200 1 0 lit
+F 202 1 0 tle 
+F 204 1 0 trou
+F 206 1 0 ble 
+F 208 1 0 on
+F 210 1 0 ly 
+F 212 2 0 makes 
+- 215
+F 215 1 0 For 
+F 217 1 0 a 
+F 219 2 0 good 
+F 223 3 0 time 
+- 228
+F 230 1 0 So 
+F 232 1 0 all 
+F 234 1 0 the 
+F 236 2 0 nor
+F 239 1 0 mal 
+F 241 1 0 red 
+F 244 3 0 flags 
+- 248
+F 248 1 0 Be 
+F 250 1 0 a 
+F 252 3 0 good 
+F 256 3 0 sign 
+- 260
+: 260 2 10 Don’t 
+: 264 1 10 you 
+: 268 1 9 come
+: 270 1 10 ~ 
+: 272 1 10 here 
+: 275 1 9 thin
+: 277 1 10 ~
+: 280 1 9 kin’ 
+: 283 2 7 you 
+: 287 2 7 ba
+: 290 1 9 ~
+: 294 2 4 llin’ 
+- 298
+: 300 3 7 Oh 
+: 305 2 4 nah 
+- 309
+* 315 1 4 Ain’t 
+: 317 3 7 down 
+: 323 4 7 for 
+: 328 1 4 it 
+- 331
+: 344 1 2 You 
+: 347 3 2 seem 
+: 351 3 7 like 
+: 356 1 9 trou
+: 358 1 11 ~
+: 360 2 9 ble 
+: 364 2 7 to 
+: 368 3 7 me 
+- 373
+: 379 2 11 I 
+: 382 1 14 can 
+: 386 2 14 tell
+: 389 2 16 ~ 
+: 392 1 14 by 
+: 394 1 11 the 
+: 396 1 14 way 
+: 399 2 14 that 
+: 402 1 14 you 
+: 405 1 10 lean
+: 407 2 11 ~ 
+- 411
+: 416 1 2 And 
+: 418 1 4 the 
+: 420 1 7 way 
+: 422 1 4 that 
+: 424 2 7 you 
+: 427 1 7 kiss 
+: 430 1 7 your 
+: 434 2 9 teeth
+: 437 1 11 ~ 
+- 440
+* 448 1 -5 And 
+: 450 1 -5 you 
+* 452 1 -5 turn 
+: 454 1 -5 up 
+* 456 2 -5 so 
+: 460 1 -1 fresh
+: 462 1 2 ~ 
+: 464 1 4 and 
+: 466 4 7 clean 
+- 472
+: 475 3 4 Smells 
+: 480 2 7 like 
+: 484 1 9 trou
+: 486 1 10 ~
+: 488 2 9 ble 
+: 492 1 7 to 
+: 494 6 7 me 
+- 502
+F 523 1 0 Op
+F 525 1 0 po
+F 527 1 0 sites 
+F 530 1 0 at
+F 532 2 0 tract, 
+- 535
+F 536 1 0 I 
+F 538 1 0 guess 
+F 540 1 0 this 
+F 542 1 0 is 
+F 544 3 0 that 
+- 549
+F 551 3 0 Good 
+F 555 2 0 girl, 
+F 559 3 0 bad 
+F 563 2 0 guy 
+- 566
+F 567 1 0 What 
+F 569 1 0 a 
+F 571 2 0 per
+F 574 1 0 fect 
+F 576 4 0 match 
+- 582
+F 583 1 0 And 
+F 585 1 0 if 
+F 587 1 0 we 
+F 589 2 0 ooo, 
+- 592
+F 593 1 0 You’re 
+F 595 1 0 gon’ 
+F 597 1 0 want 
+F 599 1 0 to 
+F 601 1 0 pay 
+F 603 3 0 back 
+F 607 5 0 tithes 
+- 613
+F 614 1 0 Cuz 
+F 616 1 0 when 
+F 618 1 0 you 
+F 620 1 0 fi
+F 622 1 0 nish 
+F 624 1 0 you 
+- 626
+F 626 1 0 Gon’ 
+F 628 1 0 feel 
+F 630 1 0 like 
+F 632 1 0 you 
+F 634 1 0 was 
+F 636 3 0 bap
+F 640 3 0 ti
+F 644 3 0 zed 
+- 649
+F 650 1 0 See 
+F 652 1 0 ba
+F 654 1 0 by 
+F 656 1 0 now 
+F 658 1 0 you 
+- 660
+F 660 1 0 Fien
+F 662 1 0 din’ 
+F 664 1 0 for 
+F 666 1 0 a 
+F 668 3 0 test 
+F 672 2 0 drive 
+- 676
+F 678 1 0 Cuz 
+F 680 1 0 you 
+F 682 1 0 don’t 
+F 684 1 0 wan
+F 686 1 0 na 
+F 688 1 0 lose 
+F 690 1 0 your 
+- 692
+F 692 3 0 Ride 
+F 696 1 0 to 
+F 698 1 0 the 
+F 700 2 0 next 
+F 703 4 0 guy 
+- 709
+F 710 1 0 And 
+F 712 1 0 ba
+F 714 1 0 by 
+F 716 1 0 trou
+F 718 1 0 ble 
+F 720 1 0 on
+F 722 1 0 ly 
+F 724 1 0 makes 
+- 726
+F 727 2 0 For 
+F 730 1 0 a 
+F 732 2 0 good 
+F 735 3 0 time 
+- 740
+F 742 1 0 So 
+F 744 1 0 all 
+F 746 1 0 the 
+F 748 1 0 nor
+F 750 1 0 mal 
+F 752 2 0 red 
+F 755 4 0 flags 
+- 760
+F 760 1 0 Be 
+F 762 1 0 a 
+F 764 3 0 good 
+F 768 3 0 sign 
+- 772
+: 772 2 10 Don’t 
+: 776 1 10 you 
+: 780 1 9 come
+: 782 1 10 ~ 
+: 784 1 10 here 
+: 787 1 9 thin
+: 789 1 10 ~
+: 792 1 9 kin’ 
+: 795 2 7 you 
+: 799 2 7 ba
+: 802 1 9 ~
+: 806 2 4 llin’ 
+- 810
+* 812 3 7 Oh 
+* 817 2 4 nah 
+- 821
+: 827 1 4 Ain’t 
+: 829 3 7 down 
+: 835 4 7 for 
+: 840 1 4 it 
+- 843
+: 856 1 2 You 
+: 859 3 2 seem 
+: 863 3 7 like 
+: 868 1 9 trou
+: 870 1 11 ~
+: 872 2 9 ble 
+: 876 2 7 to 
+: 880 3 7 me 
+- 885
+: 891 2 11 I 
+: 894 1 14 can 
+: 898 2 14 tell
+: 901 2 16 ~ 
+: 904 1 14 by 
+: 906 1 11 the 
+: 908 1 14 way 
+: 911 2 14 that 
+: 914 1 14 you 
+: 917 1 10 lean
+: 919 2 11 ~ 
+- 923
+: 928 1 2 And 
+* 930 1 4 the 
+: 932 1 7 way 
+: 934 1 4 that 
+: 936 2 7 you 
+* 939 1 7 kiss 
+: 942 1 7 your 
+: 946 1 11 teeth 
+- 949
+: 960 1 -5 And 
+: 962 1 -5 you 
+: 964 1 -5 turn 
+: 966 1 -5 up 
+: 968 2 -5 so 
+: 972 1 -1 fresh
+: 974 1 2 ~ 
+: 976 1 4 and 
+: 978 4 7 clean 
+- 984
+: 987 3 4 Smells 
+: 992 2 7 like 
+: 996 1 9 trou
+: 998 1 10 ~
+: 1000 2 9 ble 
+: 1004 1 7 to 
+: 1006 1 7 me
+: 1008 2 7 ~
+: 1012 1 4 ~
+: 1015 3 7 ~ 
+- 1020
+F 1033 2 0 I 
+F 1036 1 0 got 
+F 1038 1 0 it 
+F 1040 2 0 bad 
+F 1043 1 0 for 
+F 1045 2 0 him 
+F 1048 1 0 in 
+F 1050 1 0 the 
+F 1052 3 0 worst 
+F 1056 3 0 way 
+- 1061
+F 1064 3 0 Dear 
+F 1068 3 0 Lord, 
+F 1072 1 0 how’d 
+F 1074 1 0 I 
+F 1076 1 0 get 
+F 1078 1 0 in 
+F 1080 1 0 this 
+F 1082 1 0 po
+F 1084 1 0 si
+F 1086 1 0 tion 
+F 1088 3 0 and 
+- 1093
+F 1094 1 0 I 
+F 1096 1 0 shoul
+F 1098 1 0 da 
+F 1100 1 0 ne
+F 1102 1 0 ver 
+F 1104 1 0 got 
+- 1106
+F 1106 1 0 In
+F 1108 1 0 vol
+F 1110 1 0 ved 
+F 1112 1 0 in 
+F 1114 1 0 the 
+F 1116 2 0 first 
+F 1120 3 0 place 
+- 1125
+F 1127 1 0 But 
+F 1129 1 0 se
+F 1131 1 0 cond 
+F 1133 1 0 place 
+F 1135 1 0 ne
+F 1137 1 0 ver 
+F 1139 1 0 get 
+- 1141
+F 1141 1 0 The 
+F 1143 1 0 re
+F 1145 1 0 cog
+F 1147 1 0 ni
+F 1149 1 0 tion 
+F 1151 2 0 hmm 
+- 1155
+F 1158 1 0 See 
+F 1160 1 0 what 
+F 1162 1 0 he 
+F 1164 1 0 doin’ 
+F 1166 1 0 to 
+F 1168 1 0 me 
+- 1170
+F 1170 2 0 Make 
+F 1173 2 0 me 
+F 1176 1 0 have 
+F 1178 1 0 to 
+F 1180 1 0 shout 
+F 1182 1 0 it 
+F 1184 2 0 out 
+- 1188
+F 1194 1 0 Got 
+F 1196 1 0 a 
+F 1199 3 0 hold 
+F 1203 3 0 on 
+F 1207 1 0 me, 
+- 1209
+F 1209 1 0 That’s 
+F 1211 1 0 with
+F 1213 1 0 out 
+F 1215 1 0 a 
+F 1217 2 0 doubt 
+- 1221
+F 1223 1 0 So 
+F 1226 3 0 clear 
+F 1230 3 0 now 
+- 1234
+F 1234 1 0 That 
+F 1236 1 0 he’s 
+F 1238 1 0 a 
+F 1240 1 0 trou
+F 1242 1 0 ble 
+F 1244 1 0 star
+F 1246 1 0 ter 
+- 1248
+F 1248 1 0 But 
+F 1250 1 0 I 
+F 1252 1 0 ain’t 
+F 1254 1 0 a 
+F 1256 2 0 saint 
+- 1259
+F 1259 2 0 Nei
+F 1262 1 0 ther 
+F 1264 1 0 and 
+F 1266 1 0 these 
+F 1268 1 0 ain’t 
+F 1270 1 0 no... 
+- 1272
+: 1273 2 17 Just 
+: 1278 2 12 cause 
+: 1282 2 12 all 
+: 1285 1 10 the 
+: 1287 2 12 girls 
+- 1290
+: 1291 1 10 Are 
+: 1293 2 12 fa
+: 1296 1 10 lling 
+: 1298 2 14 at 
+: 1302 2 10 your 
+: 1307 1 7 feet
+: 1309 1 9 ~ 
+- 1311
+: 1311 2 4 Don’t 
+: 1315 2 7 mean 
+: 1320 2 4 no 
+* 1324 2 7 thing 
+: 1327 1 4 to 
+: 1330 1 9 me
+: 1332 2 10 ~ 
+- 1336
+: 1344 1 4 Till 
+: 1346 1 4 you 
+: 1348 2 7 show 
+: 1351 2 7 me 
+: 1356 2 10 where 
+: 1359 1 11 it’s 
+: 1362 1 12 at
+: 1364 1 14 ~
+: 1366 1 10 ~
+: 1368 1 12 ~
+: 1370 1 10 ~ 
+- 1372
+: 1372 2 4 Smells 
+: 1376 2 7 like 
+: 1380 1 9 trou
+: 1382 1 10 ~
+: 1384 2 9 ble 
+: 1388 1 7 to 
+: 1390 1 7 me
+: 1392 4 7 ~ 
+- 1398
+* 1401 2 17 Just 
+: 1406 2 12 cause 
+: 1410 2 12 all 
+: 1413 1 10 the 
+: 1415 2 12 girls 
+- 1418
+: 1419 1 10 Are 
+* 1421 2 12 fa
+: 1424 1 10 lling 
+: 1426 2 14 at 
+: 1430 2 10 your 
+: 1435 1 7 feet
+: 1437 1 9 ~ 
+- 1439
+: 1439 2 4 Don’t 
+: 1443 2 7 mean 
+: 1448 2 4 no 
+: 1452 2 7 thing 
+: 1455 1 4 to 
+: 1458 1 9 me
+: 1460 2 10 ~ 
+- 1464
+: 1472 1 4 Till 
+: 1474 1 4 you 
+: 1476 2 7 show 
+: 1479 2 7 me 
+: 1484 2 10 where 
+: 1487 1 11 it’s 
+: 1490 1 12 at
+: 1492 1 14 ~
+: 1494 1 10 ~
+: 1496 1 12 ~
+: 1498 1 10 ~ 
+- 1500
+* 1500 2 4 Smells 
+: 1504 2 7 like 
+: 1508 1 9 trou
+: 1510 1 10 ~
+: 1512 2 9 ble 
+: 1516 1 7 to 
+: 1518 1 7 me
+: 1520 4 7 ~ 
+- 1526
+: 1560 2 5 Oh
+: 1563 2 7 ~ 
+: 1567 2 5 yeah
+: 1570 2 7 ~ 
+- 1574
+: 1596 2 12 Knew 
+: 1599 2 12 you 
+: 1602 2 10 were 
+: 1608 1 12 bad
+: 1610 1 14 ~
+: 1612 2 12 ~
+: 1615 2 10 ~ 
+: 1621 5 7 news 
+- 1628
+* 1651 2 7 I 
+: 1656 2 4 shoul
+: 1659 1 4 da 
+: 1661 3 7 known
+: 1665 3 10 ~ 
+- 1670
+: 1688 5 7 Oh 
+: 1694 2 7 yeah
+: 1697 2 10 ~ 
+- 1701
+: 1720 1 12 Yeah
+: 1722 1 14 ~
+: 1724 2 10 ~
+: 1727 1 12 ~
+: 1729 1 14 ~
+: 1732 5 7 ~ 
+- 1739
+: 1756 3 10 Oh
+: 1760 2 14 ~
+: 1763 1 14 ~
+: 1765 7 19 ~ 
+- 1774
+* 1796 2 10 Don’t 
+: 1800 1 10 you 
+: 1804 1 9 come
+: 1806 1 10 ~ 
+: 1808 1 10 here 
+: 1811 1 9 thin
+: 1813 1 10 ~
+: 1816 1 9 kin’ 
+* 1819 2 7 you 
+: 1823 2 7 ba
+: 1826 1 9 ~
+: 1830 2 4 llin’ 
+- 1834
+: 1836 3 7 Oh 
+: 1841 2 4 nah 
+- 1845
+: 1851 1 4 Ain’t 
+: 1853 3 7 down 
+: 1859 4 7 for 
+: 1864 1 4 it 
+- 1867
+: 1880 1 2 You 
+: 1883 3 2 seem 
+: 1887 3 7 like 
+: 1892 1 9 trou
+: 1894 1 11 ~
+: 1896 2 9 ble 
+: 1900 2 7 to 
+: 1904 3 7 me 
+- 1909
+: 1915 2 11 I 
+: 1918 1 14 can 
+: 1922 2 14 tell
+* 1925 2 16 ~ 
+: 1928 1 14 by 
+: 1930 1 11 the 
+: 1932 1 14 way 
+* 1935 2 14 that 
+: 1938 1 14 you 
+: 1941 1 10 lean
+: 1943 2 11 ~ 
+- 1947
+: 1952 1 2 And 
+: 1954 1 4 the 
+: 1956 1 7 way 
+: 1958 1 4 that 
+: 1960 2 7 you 
+: 1963 1 7 kiss 
+: 1966 1 7 your 
+: 1970 2 9 teeth
+: 1973 1 11 ~ 
+- 1976
+: 1984 1 -5 And 
+: 1986 1 -5 you 
+: 1988 1 -5 turn 
+: 1990 1 -5 up 
+: 1992 2 -5 so 
+: 1996 1 -1 fresh
+: 1998 1 2 ~ 
+: 2000 1 4 and 
+: 2002 4 7 clean 
+- 2008
+: 2011 3 4 Smells 
+: 2016 2 7 like 
+* 2020 1 9 trou
+: 2022 1 10 ~
+: 2024 2 9 ble 
+* 2028 1 7 to 
+: 2030 1 7 me
+: 2033 2 12 ~
+: 2036 2 10 ~
+: 2039 1 9 ~
+: 2041 1 7 ~
+: 2043 2 9 ~
+: 2046 10 7 ~ 
+E

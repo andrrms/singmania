@@ -1,0 +1,95 @@
+#ARTIST:Cyberpunk Edgerunners (Franz Ferdinand)
+#TITLE:This fffire (Opening)
+#MP3:Cyberpunk Edgerunners (Franz Ferdinand) - This fffire (Opening).mp3
+#CREATOR:Currymalker
+#COVER:Cyberpunk Edgerunners (Franz Ferdinand) - This fffire (Opening) [CO].jpg
+#BACKGROUND:Cyberpunk Edgerunners (Franz Ferdinand) - This fffire (Opening) [BG].jpg
+#GENRE:Rock
+#YEAR:2022
+#LANGUAGE:English
+#BPM:292.18
+#GAP:9980
+#VIDEO:v=OifiVCnFKzM,co=https://pbs.twimg.com/media/F0b65lEWAAAktFI.jpg
+: 0 39 -5 Eyes 
+: 49 4 -3 burn
+: 55 3 -5 ing 
+: 60 3 -10 a 
+: 65 9 -10 way 
+: 77 2 -7 through 
+: 81 23 -7 me 
+- 114
+: 128 38 -5 Eyes
+: 168 2 -7 ~ 
+: 172 2 -8 de
+: 176 6 -3 stroy
+* 184 3 -5 ing 
+: 190 2 -8 so
+: 194 2 -10 ~ 
+: 198 3 -10 sweet
+: 203 3 -7 ~
+: 208 13 -7 ly 
+- 231
+: 256 45 2 Now 
+: 303 5 5 there 
+: 310 3 4 is 
+: 315 1 2 a 
+* 319 1 4 fire
+* 322 2 5 ~
+* 326 1 4 ~
+* 329 2 2 ~ 
+: 333 2 2 in 
+: 337 17 2 me 
+- 361
+: 364 2 -3 A 
+: 368 3 4 fire
+: 373 1 2 ~ 
+: 376 3 5 that 
+: 384 58 4 burns
+* 444 2 3 ~
+: 448 66 2 ~ 
+- 552
+: 1030 4 7 This 
+: 1038 3 7 fire
+: 1043 4 5 ~ 
+- 1049
+: 1051 2 5 Is 
+: 1055 2 7 out 
+: 1059 1 5 of 
+: 1062 2 5 con
+: 1066 3 7 trol
+: 1071 6 5 ~ 
+- 1079
+: 1081 3 4 I’ll 
+: 1086 3 5 burn 
+: 1091 3 4 it 
+- 1096
+* 1098 3 4 I’ll 
+: 1103 3 5 burn 
+: 1108 2 4 it 
+- 1112
+: 1114 3 4 I’ll 
+: 1119 6 5 burn 
+- 1128
+: 1130 2 4 I’ll 
+: 1134 2 5 burn 
+: 1138 2 5 it 
+* 1142 5 5 down
+* 1149 4 2 ~ 
+- 1191
+: 1340 3 4 I’ll 
+: 1345 2 5 burn 
+: 1349 3 4 it 
+- 1355
+: 1357 2 4 I’ll 
+: 1361 3 5 burn 
+: 1366 3 4 it 
+- 1372
+: 1374 2 4 I’ll 
+* 1378 7 5 burn 
+- 1387
+: 1389 2 4 I’ll 
+: 1393 2 5 burn 
+: 1397 2 5 it 
+: 1401 5 5 down
+: 1408 2 2 ~ 
+E

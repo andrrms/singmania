@@ -1,0 +1,218 @@
+#ARTIST:Stevie Wonder
+#TITLE:You Are The Sunshine Of My Life
+#MP3:Stevie Wonder - You Are The Sunshine Of My Life.mp3
+#CREATOR:ustarrfan
+#GENRE:Pop
+#YEAR:1972
+#LANGUAGE:English
+#BPM:278.2
+#GAP:15820
+#VIDEO:a=SbenaOqv4yQ,co=https://i1.sndcdn.com/artworks-000594347682-ljsp6f-t500x500.jpg,bg=wonder-stevie-4fdc799459435.jpg
+: 0 3 0 You 
+: 4 4 0 are 
+: 10 4 0 the 
+: 16 4 2 sun
+: 24 10 2 shine 
+: 36 4 -1 of 
+: 42 6 -3 my 
+: 50 38 -5 life 
+- 90
+: 138 4 0 That’s 
+: 144 3 0 why 
+: 148 4 0 I’ll 
+: 156 4 5 al
+: 164 6 5 ways 
+: 172 6 4 be 
+: 180 4 0 a
+: 188 13 2 rou
+: 202 1 4 ~
+: 204 10 2 ~nd, 
+- 216
+: 276 4 2 You 
+: 282 4 0 are 
+: 288 4 0 the 
+: 294 6 0 ap
+: 302 6 0 ple 
+: 312 6 2 of 
+: 320 4 2 my 
+: 326 16 -1 eye, 
+- 344
+: 410 6 -3 For
+: 418 4 -5 e
+: 424 3 0 ver 
+: 428 6 0 you’ll 
+: 438 8 0 stay 
+: 448 6 3 in 
+: 456 4 5 my 
+: 466 30 5 heart 
+- 498
+: 548 4 4 I 
+: 554 4 0 feel 
+: 560 6 2 like 
+: 568 5 4 this 
+: 574 6 2 is 
+: 582 8 0 the 
+: 592 10 -5 be
+: 610 6 0 gin
+: 618 30 7 ning, 
+- 650
+: 680 6 5 Though 
+: 688 3 4 I’ve 
+: 692 7 2 loved 
+: 700 5 4 you 
+: 706 5 -5 for 
+: 712 4 -3 a 
+: 718 4 -5 mil
+: 724 4 -7 lion 
+: 730 34 0 years, 
+- 766
+: 814 7 7 And 
+: 822 3 5 if 
+: 826 4 4 I 
+: 832 9 2 thought 
+: 842 6 0 our 
+: 850 10 2 love 
+: 862 13 2 was 
+: 876 5 -8 en
+: 882 16 -3 ding, 
+- 900
+: 922 7 4 I’d 
+: 930 7 2 find 
+: 938 4 1 my
+: 944 16 -1 self 
+: 962 10 0 drow
+: 974 3 -8 ning 
+: 978 3 -7 in 
+: 982 18 -8 my 
+: 1002 3 0 own 
+: 1006 20 2 tears 
+- 1028
+: 1078 6 2 You 
+: 1086 5 2 are 
+: 1092 4 2 the 
+: 1098 6 2 sun
+: 1106 11 2 shine 
+: 1118 6 9 of 
+: 1126 6 7 my 
+: 1134 36 7 life, 
+- 1172
+: 1214 3 5 That’s 
+: 1218 6 7 why 
+: 1226 8 9 I’ll 
+: 1236 6 7 al
+: 1244 6 4 ways 
+: 1252 4 2 stay 
+: 1258 26 0 around, 
+- 1286
+: 1352 6 0 You 
+: 1360 4 0 are 
+: 1366 4 0 the 
+: 1372 6 2 ap
+: 1382 10 2 ple 
+: 1394 3 -1 of 
+: 1398 4 -3 my 
+: 1406 44 -5 eye, 
+- 1452
+: 1486 4 0 For
+: 1492 3 0 e
+: 1496 4 0 ver 
+: 1502 4 5 you’ll 
+: 1512 6 5 stay 
+: 1520 3 4 in 
+: 1524 3 0 my 
+: 1528 50 1 heart. 
+- 1580
+: 1620 4 2 You 
+: 1626 4 0 must 
+: 1632 4 7 have 
+: 1638 6 9 known 
+: 1646 6 11 that 
+: 1654 4 12 I 
+: 1660 20 12 was 
+: 1682 14 12 lonely, 
+- 1698
+: 1752 4 14 Be
+: 1758 4 14 cause 
+: 1764 4 11 you 
+: 1772 4 9 came 
+: 1780 5 7 to 
+: 1786 4 12 my 
+: 1794 6 12 res
+: 1802 6 12 cue, 
+- 1810
+: 1884 5 17 And 
+: 1890 3 17 I 
+: 1894 8 16 know 
+: 1904 4 12 that 
+: 1910 6 14 this 
+: 1918 8 16 must 
+: 1928 8 12 be 
+: 1938 10 7 hea
+: 1950 14 12 ven, 
+- 1966
+: 1990 5 19 How 
+: 1996 4 17 could 
+: 2002 7 16 so 
+: 2010 8 14 much 
+: 2020 16 15 love 
+: 2038 6 16 be 
+: 2046 3 7 in
+: 2050 18 9 side 
+: 2070 4 7 of 
+: 2076 16 7 you? 
+- 2094
+: 2144 5 12 You 
+: 2150 7 19 are 
+: 2158 6 17 the 
+: 2166 6 16 sun
+: 2174 14 14 shine 
+: 2190 6 12 of 
+: 2198 4 13 my 
+: 2204 28 14 life, 
+: 2234 14 4 yeah, 
+- 2250
+: 2274 5 9 That’s 
+: 2280 7 16 why 
+: 2288 7 14 I’ll 
+: 2296 7 13 al
+: 2304 16 11 ways 
+: 2322 9 12 stay 
+: 2332 20 4 around, 
+- 2354
+: 2406 6 5 You 
+: 2414 6 4 are 
+: 2422 4 12 the 
+: 2428 4 14 ap
+: 2434 8 14 ple 
+: 2446 8 14 of 
+: 2456 6 14 my 
+: 2464 16 14 eye, 
+- 2482
+: 2540 4 14 For
+: 2546 4 21 e
+: 2552 4 19 ver 
+: 2558 4 19 you’ll 
+: 2564 8 17 stay 
+: 2574 3 19 in 
+: 2578 4 21 my 
+: 2584 40 19 heart 
+- 2626
+: 2664 5 16 You 
+: 2670 5 12 are 
+: 2676 6 12 the 
+: 2684 6 14 sun
+: 2692 17 14 shine 
+: 2710 8 14 of 
+: 2720 4 14 my 
+: 2726 34 11 life 
+: 2764 14 9 baby 
+- 2780
+: 2798 6 7 That’s 
+: 2806 6 7 why 
+: 2814 2 9 I’ll 
+: 2818 5 11 al
+: 2824 6 11 ways 
+: 2832 4 12 stay 
+: 2838 4 11 a
+: 2844 30 12 round 
+E

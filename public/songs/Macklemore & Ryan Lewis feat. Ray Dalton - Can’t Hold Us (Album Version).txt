@@ -1,0 +1,949 @@
+#ARTIST:Macklemore & Ryan Lewis feat. Ray Dalton
+#TITLE:Can’t Hold Us (Album Version)
+#MP3:Macklemore & Ryan Lewis feat. Ray Dalton - Can’t Hold Us (Album Version).mp3
+#CREATOR:aac
+#GENRE:Hip-Hop, Rap
+#YEAR:2011
+#LANGUAGE:English
+#BPM:584.46
+#GAP:2390
+#VIDEO:a=VG3JsmOmDqw,co=https://assets.amazingradio.com/wp-content/uploads/sites/2/2013/04/macklemore-ryan-lewis-cant-hold-us-goes-platinum.png,bg=macklemore--lewis-ryan-556d57e5d0457.jpg
+F 0 8 4 Ay 
+F 16 9 4 ay 
+F 33 9 4 ay 
+- 119
+F 218 12 4 Yeah 
+- 240
+F 274 5 4 Let’s 
+F 281 15 4 go 
+- 334
+F 386 5 4 Al
+F 393 11 4 right, 
+F 416 6 4 al
+F 424 10 4 right 
+F 450 6 4 O
+F 457 11 4 K 
+- 478
+F 498 5 4 Al
+F 505 5 4 right 
+F 514 5 4 O
+F 522 12 4 K 
+- 541
+F 544 7 4 Al
+F 554 7 4 right 
+F 578 4 4 O
+F 586 10 4 K 
+- 634
+F 693 3 4 Re
+F 697 7 4 turn 
+F 705 3 4 of 
+F 709 3 4 the 
+F 713 9 4 Mack 
+- 727
+F 729 4 4 Get 
+F 734 3 4 up 
+F 738 2 4 What 
+F 741 2 4 it 
+F 744 8 4 is, 
+F 753 3 4 what 
+F 757 4 4 it 
+F 762 6 4 does, 
+F 769 4 4 what 
+F 774 2 4 it 
+F 777 6 4 is, 
+F 784 3 4 what 
+F 788 3 4 it 
+F 792 8 4 isn’t 
+- 809
+F 812 1 4 Loo
+F 814 3 4 king 
+F 818 3 4 for 
+F 822 2 4 a 
+F 825 3 4 bet
+F 829 2 4 ter 
+F 832 4 4 way 
+F 837 2 4 to 
+F 840 3 4 get 
+F 844 3 4 up 
+F 848 3 4 out 
+F 852 3 4 of 
+F 856 5 4 bed 
+- 861
+F 863 2 4 In
+F 866 2 4 stead 
+F 869 3 4 of 
+F 873 3 4 get
+F 877 3 4 ting 
+F 881 2 4 on 
+F 884 2 4 the 
+F 887 4 4 in
+F 892 2 4 ter
+F 895 3 4 net 
+F 899 4 4 and 
+F 904 4 4 chec
+F 909 3 4 king 
+F 913 2 4 a 
+F 916 3 4 new 
+F 920 4 4 hit 
+- 924
+F 925 2 4 We 
+F 928 7 4 get 
+F 937 7 4 up, 
+- 951
+F 954 8 4 Fresh 
+F 963 5 4 out, 
+F 969 7 4 pimp 
+F 977 6 4 strut 
+F 984 8 4 wal
+F 994 6 4 king 
+- 1001
+F 1003 3 4 Lit
+F 1007 3 4 tle 
+F 1011 2 4 bit 
+F 1014 3 4 of 
+F 1018 6 4 hum
+F 1025 5 4 ble, 
+F 1034 3 4 lit
+F 1038 3 4 tle 
+F 1042 2 4 bit 
+F 1045 3 4 of 
+F 1049 8 4 cau
+F 1058 8 4 tious 
+- 1066
+F 1068 2 4 Some
+F 1071 5 4 where 
+F 1077 2 4 be
+F 1081 6 4 tween 
+F 1089 4 4 like, 
+F 1098 6 4 Roc
+F 1105 6 4 ky 
+F 1112 2 4 and 
+F 1115 7 4 Cos
+F 1123 3 4 by, 
+F 1128 4 4 Swea
+F 1133 4 4 ter 
+F 1138 6 4 Gang 
+- 1144
+F 1146 4 4 Nope, 
+F 1152 4 4 Nope. 
+F 1160 7 4 y’all 
+F 1168 8 4 can’t 
+F 1178 6 4 co
+F 1186 6 4 py 
+F 1195 7 4 that 
+- 1208
+F 1210 15 4 Bad, 
+- 1231
+F 1234 7 4 Moon
+F 1242 13 4 wal
+F 1256 7 4 kin’, 
+F 1266 8 4 This 
+F 1275 12 4 here, 
+F 1294 4 4 is 
+F 1300 5 4 our 
+F 1308 10 4 par
+F 1319 7 4 ty 
+- 1330
+F 1332 6 4 My 
+F 1341 7 4 pos
+F 1350 6 4 se’s 
+F 1358 4 4 been 
+F 1363 6 4 on 
+F 1372 12 4 broad
+F 1386 8 4 way, 
+F 1404 4 4 and 
+F 1411 3 4 we 
+F 1417 7 4 did 
+F 1426 4 4 it 
+F 1432 9 4 our 
+F 1443 5 4 way 
+- 1450
+F 1452 13 4 Grown 
+F 1467 7 4 mu
+F 1476 7 4 sic 
+- 1489
+F 1492 5 4 I 
+F 1499 6 4 shed 
+F 1507 4 4 my 
+F 1514 8 4 skin 
+F 1525 3 4 and 
+F 1533 4 4 put 
+F 1539 4 4 my 
+F 1548 12 4 bones 
+F 1563 4 4 in
+F 1568 4 4 to 
+F 1574 4 4 eve
+F 1580 5 4 ry
+F 1587 5 4 thing 
+F 1594 6 4 I 
+F 1603 5 4 re
+F 1611 13 4 cord 
+F 1626 7 4 to 
+F 1636 10 4 it 
+- 1648
+F 1650 4 4 And 
+F 1658 6 4 yet 
+F 1667 6 4 I’m 
+F 1674 30 4 on 
+- 1704
+F 1705 6 4 Let 
+F 1714 4 4 that 
+F 1724 8 4 stage 
+F 1736 12 4 light 
+F 1757 5 4 go 
+F 1764 4 4 and 
+F 1772 10 4 shine 
+F 1785 6 4 on 
+F 1796 12 4 down 
+- 1817
+F 1820 4 4 Got 
+F 1827 4 4 the 
+F 1835 10 4 Bob 
+F 1847 10 4 Bar
+F 1859 4 4 ker 
+F 1866 6 4 suit 
+F 1875 6 4 game 
+F 1884 5 4 and 
+F 1892 7 4 Plin
+F 1900 5 4 ko 
+F 1907 4 4 in 
+F 1913 6 4 my 
+F 1921 12 4 style 
+- 1945
+F 1949 9 4 Mo
+F 1960 6 4 ney 
+- 1973
+F 1976 6 4 Stay 
+F 1983 2 4 on 
+F 1987 4 4 my 
+F 1994 13 4 craft 
+F 2011 4 4 and 
+F 2017 4 4 stick 
+F 2023 3 4 a
+F 2027 10 4 round 
+F 2040 3 4 for 
+F 2044 7 4 those 
+F 2056 13 4 pounds 
+- 2071
+F 2073 4 4 But 
+F 2079 4 4 I 
+F 2084 4 4 do 
+F 2090 7 4 that 
+F 2099 5 4 to 
+F 2108 6 4 pass 
+F 2116 4 4 the 
+F 2122 7 4 torch 
+F 2132 5 4 and 
+F 2138 6 4 put 
+F 2156 12 4 on 
+F 2169 5 4 for 
+F 2176 6 4 my 
+F 2186 17 4 town 
+- 2208
+F 2210 13 4 Trust 
+F 2225 6 4 me, 
+F 2234 7 4 on 
+F 2243 6 4 my 
+F 2250 6 4 I-
+F 2257 7 4 N-
+F 2266 7 4 D-
+F 2275 6 4 E-
+F 2282 6 4 P-
+F 2290 6 4 E-
+F 2298 6 4 N-
+F 2306 6 4 D-
+F 2314 6 4 E-
+F 2322 6 4 N-
+F 2330 6 4 T 
+F 2338 6 4 shit 
+F 2347 15 4 hust
+F 2363 11 4 ling 
+- 2377
+F 2379 5 4 Cha
+F 2387 6 4 sing 
+F 2395 10 4 dreams 
+F 2406 4 4 since 
+F 2413 4 4 I 
+F 2419 4 4 was 
+F 2428 11 4 four
+F 2442 12 4 teen 
+- 2457
+F 2459 6 4 With 
+F 2467 4 4 the 
+F 2475 10 4 4 
+F 2489 10 4 track, 
+F 2508 10 4 bus
+F 2520 10 4 sing 
+- 2538
+F 2541 6 4 Half
+F 2549 4 4 way 
+F 2555 8 4 cross 
+F 2565 4 4 that 
+F 2572 7 4 ci
+F 2580 4 4 ty 
+F 2586 5 4 with 
+F 2593 6 4 the 
+F 2602 8 4 back
+F 2612 5 4 pack, 
+F 2633 9 4 fat 
+F 2650 12 4 cat, 
+F 2666 12 4 crush 
+F 2684 10 4 shit 
+- 2698
+F 2700 5 4 La
+F 2707 6 4 bels 
+F 2716 6 4 out 
+F 2733 14 4 here, 
+F 2752 4 4 nah 
+F 2758 5 4 they 
+F 2766 8 4 can’t 
+F 2778 7 4 tell 
+F 2787 6 4 me 
+F 2797 6 4 no
+F 2809 12 4 thing 
+- 2826
+F 2828 4 4 We 
+F 2834 3 4 give 
+F 2840 4 4 it 
+F 2846 6 4 to 
+F 2854 4 4 the 
+F 2860 5 4 peo
+F 2868 5 4 ple, 
+F 2888 5 4 spread 
+F 2894 4 4 it 
+F 2899 4 4 a
+F 2905 10 4 cross 
+F 2916 6 4 the 
+F 2924 10 4 coun
+F 2936 8 4 try 
+- 2953
+F 2956 7 4 La
+F 2964 5 4 bels 
+F 2972 8 4 out 
+F 2986 13 4 here, 
+F 3007 4 4 nah 
+F 3012 6 4 they 
+F 3020 10 4 can’t 
+F 3033 9 4 tell 
+F 3044 6 4 me 
+F 3052 12 4 no
+F 3066 11 4 thing 
+- 3083
+F 3086 4 4 We 
+F 3092 3 4 give 
+F 3096 6 4 it 
+F 3103 4 4 to 
+F 3109 4 4 the 
+F 3117 6 4 peo
+F 3125 7 4 ple, 
+F 3144 5 4 spread 
+F 3151 3 4 it 
+F 3156 4 4 a
+F 3162 9 4 cross 
+F 3173 6 4 the 
+F 3184 6 4 coun
+F 3195 5 4 try 
+- 3200
+: 3202 4 4 And 
+: 3209 9 4 then
+: 3220 4 7 ~ 
+: 3228 5 4 we 
+: 3236 12 11 go 
+: 3250 12 11 back, 
+: 3274 7 4 this 
+: 3283 6 7 is 
+: 3291 5 4 the 
+: 3298 14 11 mo
+: 3314 16 11 ment 
+- 3330
+: 3331 5 4 To
+: 3338 8 4 night 
+: 3348 5 7 is 
+: 3355 5 4 the 
+* 3363 18 11 night, 
+: 3388 12 4 we’ll 
+: 3403 7 4 fight 
+: 3412 5 7 till 
+: 3419 7 4 it’s 
+* 3428 12 11 o
+* 3443 6 11 ver 
+- 3450
+: 3452 6 4 So 
+: 3460 5 4 we 
+: 3467 6 4 put 
+: 3475 6 7 our 
+: 3484 14 4 hands 
+: 3500 8 11 up 
+: 3514 7 11 like 
+: 3523 4 11 the 
+: 3529 8 14 cei
+: 3539 6 12 ling 
+: 3547 7 11 can’t
+: 3556 5 9 ~ 
+: 3564 13 9 hold 
+: 3579 45 4 us 
+- 3634
+: 3642 6 -1 Like 
+: 3650 4 -1 the 
+: 3657 7 2 cei
+: 3667 5 0 ling 
+: 3674 7 -1 can’t
+: 3683 5 -3 ~ 
+* 3690 16 -3 hold 
+: 3708 14 -1 us 
+- 3732
+: 3740 5 4 ...We 
+: 3748 12 11 go 
+: 3762 12 11 back, 
+: 3786 7 4 this 
+: 3795 6 7 is 
+: 3803 5 4 the 
+: 3810 14 11 mo
+: 3826 16 11 ment 
+- 3842
+: 3843 5 4 To
+: 3850 8 4 night 
+: 3860 5 7 is 
+: 3867 5 4 the 
+* 3875 18 11 night, 
+: 3900 12 4 we’ll 
+: 3915 7 4 fight 
+: 3924 5 7 till 
+: 3931 7 4 it’s 
+: 3940 12 11 o
+: 3955 6 11 ver 
+- 3962
+: 3964 6 4 So 
+: 3972 5 4 we 
+: 3979 6 4 put 
+: 3987 6 7 our 
+: 3996 14 4 hands 
+: 4012 8 11 up 
+: 4026 7 11 like 
+: 4035 4 11 the 
+: 4041 8 14 cei
+: 4051 6 12 ling 
+: 4059 7 11 can’t
+: 4068 5 9 ~ 
+: 4076 13 9 hold 
+* 4091 45 4 us 
+- 4146
+: 4154 6 -1 Like 
+: 4162 4 -1 the 
+: 4169 7 2 cei
+: 4179 5 0 ling 
+: 4186 7 -1 can’t
+: 4195 5 -3 ~ 
+: 4202 16 -3 hold 
+: 4220 47 -1 us 
+- 4273
+F 4275 11 4 Now, 
+F 4292 3 4 can 
+F 4296 2 4 I 
+F 4301 4 4 kick 
+F 4306 4 4 it? 
+F 4315 8 4 Thank 
+F 4325 10 4 you 
+- 4335
+F 4337 8 4 Yeah 
+F 4355 6 4 I’m 
+F 4362 6 4 so 
+F 4370 7 4 damn 
+F 4379 7 4 grate
+F 4389 8 4 ful 
+- 4398
+F 4400 6 4 I 
+F 4408 2 4 grew 
+F 4413 6 4 up 
+F 4420 3 4 real
+F 4424 3 4 ly 
+F 4428 2 4 wan
+F 4431 3 4 ting 
+F 4436 4 4 gold 
+F 4443 8 4 fronts 
+- 4451
+F 4453 4 4 But 
+F 4459 6 4 that’s 
+F 4467 4 4 what 
+F 4472 2 4 you 
+F 4476 3 4 get 
+F 4482 5 4 when 
+F 4490 4 4 Wu-
+F 4497 9 4 Tang 
+F 4508 11 4 raised 
+F 4521 14 4 you 
+- 4537
+F 4539 7 4 Y’all 
+F 4548 6 4 can’t 
+F 4556 9 4 stop 
+F 4567 6 4 me, 
+- 4576
+F 4578 2 4 I 
+F 4581 5 4 go 
+F 4587 8 4 hard 
+F 4597 1 4 like 
+F 4599 3 4 I’ve 
+F 4604 1 4 got 
+F 4606 4 4 an 
+F 4612 1 4 8
+F 4615 3 4 0
+F 4619 2 4 8 
+F 4622 2 4 in 
+F 4626 5 4 my 
+F 4635 8 4 heart 
+F 4646 4 4 beat 
+- 4658
+F 4661 2 4 And 
+F 4664 3 4 I’m 
+F 4669 1 4 ea
+F 4672 2 4 ting 
+F 4676 2 4 at 
+F 4679 3 4 the 
+F 4683 4 4 beat 
+- 4690
+F 4692 2 4 Like 
+F 4695 2 4 you 
+F 4698 2 4 gave 
+F 4702 2 4 a 
+F 4705 2 4 lit
+F 4709 2 4 tle 
+F 4714 6 4 speed 
+F 4722 4 4 to 
+F 4728 2 4 a 
+F 4733 2 4 great 
+F 4737 4 4 white 
+F 4746 8 4 shark 
+F 4756 2 4 on 
+F 4761 6 4 shark 
+F 4770 8 4 week 
+- 4778
+F 4780 10 4 (Why? 
+F 4795 4 4 Time 
+F 4802 2 4 to 
+F 4807 3 4 go 
+F 4812 9 4 off. 
+F 4828 12 4 Gone)? 
+F 4844 6 4 Deu
+F 4853 3 4 ces, 
+F 4859 5 4 good
+F 4868 4 4 bye 
+- 4872
+F 4873 9 4 I’ve 
+F 4884 4 4 got 
+F 4890 2 4 a 
+F 4894 4 4 world 
+F 4900 3 4 to 
+F 4906 6 4 see; 
+- 4912
+F 4914 3 4 And 
+F 4918 4 4 my 
+F 4924 6 4 girl, 
+F 4933 5 4 She 
+F 4941 2 4 wan
+F 4944 4 4 na 
+F 4950 4 4 see 
+F 4957 14 4 Rome 
+- 4978
+F 4981 5 4 Cae
+F 4988 5 4 sar’ll 
+F 4995 6 4 make 
+F 5004 6 4 you 
+F 5013 2 4 a 
+F 5017 2 4 be
+F 5022 4 4 lie
+F 5029 3 4 ver 
+- 5034
+F 5036 10 4 Nah, 
+F 5049 2 4 I 
+F 5052 3 4 ne
+F 5056 1 4 ver 
+F 5058 2 4 e
+F 5061 3 4 ver 
+F 5067 2 4 did 
+F 5071 2 4 it 
+F 5075 3 4 for 
+F 5080 3 4 a 
+F 5086 12 4 throne 
+- 5104
+F 5107 5 4 That 
+F 5114 2 4 va
+F 5117 2 4 li
+F 5120 3 4 da
+F 5124 5 4 tion 
+F 5131 8 4 comes 
+- 5140
+F 5142 3 4 So 
+F 5146 2 4 I’m 
+F 5149 2 4 gi
+F 5153 2 4 ving 
+F 5157 2 4 it 
+F 5162 9 4 back 
+F 5173 1 4 to 
+F 5176 2 4 the 
+F 5180 5 4 peo
+F 5188 4 4 ple 
+F 5195 10 4 now 
+- 5209
+F 5211 8 4 Sing 
+F 5222 3 4 that 
+F 5228 13 4 song 
+F 5244 6 4 and 
+F 5252 3 4 it 
+F 5261 16 4 goes 
+F 5284 19 4 like... 
+- 5310
+F 5313 14 4 Raise 
+F 5329 10 4 those 
+F 5341 18 4 hands, 
+F 5363 4 4 this 
+F 5369 2 4 is 
+F 5374 4 4 our 
+F 5381 8 4 par
+F 5391 4 4 ty 
+- 5404
+F 5407 5 4 We 
+F 5415 7 4 came 
+F 5425 4 4 here 
+F 5431 3 4 to 
+F 5436 14 4 live 
+F 5452 10 4 life 
+F 5467 10 4 like 
+F 5478 4 4 no
+F 5484 4 4 bo
+F 5491 6 4 dy 
+F 5500 9 4 was 
+F 5510 3 4 wat
+F 5515 8 4 ching 
+- 5525
+F 5527 3 4 I 
+F 5532 7 4 got 
+F 5540 6 4 my 
+F 5549 6 4 ci
+F 5556 4 4 ty 
+F 5565 5 4 right 
+F 5573 7 4 be
+F 5582 6 4 hind 
+F 5590 5 4 me; 
+- 5599
+F 5601 2 4 If 
+F 5605 4 4 I 
+F 5613 10 4 fall 
+F 5627 5 4 they 
+F 5636 7 4 got 
+F 5647 4 4 me 
+- 5651
+F 5653 7 4 Learn 
+F 5663 4 4 from 
+F 5671 4 4 that 
+F 5677 8 4 fail
+F 5687 5 4 ure, 
+F 5694 6 4 gain 
+F 5702 5 4 hu
+F 5709 4 4 mi
+F 5715 5 4 li
+F 5723 8 4 ty 
+- 5736
+F 5738 6 4 Then 
+F 5745 5 4 we 
+F 5754 7 4 keep 
+F 5763 6 4 mar... 
+- 5769
+: 5770 9 4 ...Then
+: 5781 4 7 ~ 
+: 5789 5 4 we 
+: 5797 12 11 go 
+: 5811 12 11 back, 
+: 5835 7 4 this 
+: 5844 6 7 is 
+: 5852 5 4 the 
+: 5859 14 11 mo
+: 5875 16 11 ment 
+- 5891
+: 5892 5 4 To
+: 5899 8 4 night 
+: 5909 5 7 is 
+: 5916 5 4 the 
+: 5924 18 11 night, 
+* 5949 12 4 we’ll 
+* 5964 7 4 fight 
+* 5973 5 7 till 
+* 5980 7 4 it’s 
+: 5989 12 11 o
+: 6004 6 11 ver 
+- 6011
+: 6013 6 4 So 
+: 6021 5 4 we 
+: 6028 6 4 put 
+: 6036 6 7 our 
+: 6045 14 4 hands 
+: 6061 8 11 up 
+: 6075 7 11 like 
+: 6084 4 11 the 
+: 6090 8 14 cei
+: 6100 6 12 ling 
+: 6108 7 11 can’t
+: 6117 5 9 ~ 
+: 6125 13 9 hold 
+: 6140 45 4 us 
+- 6195
+: 6203 6 -1 Like 
+: 6211 4 -1 the 
+: 6218 7 2 cei
+: 6228 5 0 ling 
+* 6235 7 -1 can’t
+: 6244 5 -3 ~ 
+: 6251 16 -3 hold 
+: 6269 14 -1 us 
+- 6293
+: 6310 12 11 ...Go 
+: 6324 12 11 back, 
+: 6348 7 4 this 
+: 6357 6 7 is 
+: 6365 5 4 the 
+: 6372 14 11 mo
+: 6388 16 11 ment 
+- 6404
+: 6405 5 4 To
+: 6412 8 4 night 
+: 6422 5 7 is 
+: 6429 5 4 the 
+: 6437 18 11 night, 
+* 6462 12 4 we’ll 
+: 6477 7 4 fight 
+: 6486 5 7 till 
+: 6493 7 4 it’s 
+: 6502 12 11 o
+: 6517 6 11 ver 
+- 6524
+: 6526 6 4 So 
+: 6534 5 4 we 
+: 6541 6 4 put 
+: 6549 6 7 our 
+: 6558 14 4 hands 
+: 6574 8 11 up 
+: 6588 7 11 like 
+: 6597 4 11 the 
+: 6603 8 14 cei
+: 6613 6 12 ling 
+: 6621 7 11 can’t
+: 6630 5 9 ~ 
+: 6638 13 9 hold 
+: 6653 45 4 us 
+- 6708
+: 6716 6 -1 Like 
+: 6724 4 -1 the 
+: 6731 7 2 cei
+: 6741 5 0 ling 
+: 6748 7 -1 can’t
+: 6757 5 -3 ~ 
+* 6764 16 -3 hold 
+* 6782 49 -1 us 
+- 6908
+: 7029 5 4 But 
+: 7037 7 2 so 
+: 7046 5 2 we 
+: 7053 4 2 put 
+: 7060 6 2 our 
+* 7069 14 2 hands 
+: 7086 6 4 up 
+- 7169
+: 7543 5 4 But 
+: 7551 7 2 so 
+: 7560 5 2 we 
+: 7567 4 2 put 
+: 7574 6 2 our 
+: 7583 14 2 hands 
+: 7600 6 4 up 
+- 7611
+: 7613 17 7 Whoa
+: 7631 13 6 ~
+* 7645 17 2 ~
+: 7663 10 -1 ~ 
+- 7675
+: 7677 17 7 Whoa
+: 7695 13 6 ~
+: 7709 17 2 ~
+: 7727 10 -3 ~ 
+- 7740
+: 7742 14 7 Whoa
+: 7757 16 6 ~
+: 7774 14 2 ~
+: 7789 52 4 ~ 
+- 7850
+: 7854 14 4 “Na 
+: 7870 13 4 na 
+* 7885 7 7 NA
+: 7894 13 4 na 
+: 7910 12 4 na 
+: 7925 5 2 na
+: 7933 13 4 NA 
+: 7949 17 7 na” 
+- 7976
+: 7980 10 7 He
+: 7991 6 6 ~
+: 7998 8 4 ~
+: 8007 7 6 ~
+: 8015 8 4 ~
+: 8024 5 2 ~
+: 8030 8 -1 ~
+: 8039 7 2 ~
+: 8047 7 -1 ~
+: 8055 7 -3 ~
+: 8063 7 -5 ~
+: 8071 8 -5 ~
+: 8080 23 -1 ~ 
+- 8108
+: 8110 14 4 “Na 
+: 8126 13 4 na 
+: 8141 7 7 NA
+: 8150 13 4 na 
+: 8166 12 4 na 
+* 8181 5 2 na
+: 8189 13 4 NA 
+: 8205 17 7 na” 
+- 8232
+* 8236 10 7 He
+* 8247 6 6 ~
+* 8254 8 4 ~
+* 8263 7 6 ~
+* 8271 8 4 ~
+* 8280 5 2 ~
+* 8286 8 -1 ~
+* 8295 7 2 ~
+* 8303 7 -1 ~
+* 8311 7 -3 ~
+* 8319 7 -5 ~
+* 8327 8 -5 ~
+* 8336 23 -1 ~ 
+- 8364
+: 8366 14 4 “Na 
+: 8382 13 4 na 
+: 8397 7 7 NA
+: 8406 13 4 na 
+: 8422 12 4 na 
+: 8437 5 2 na
+: 8445 13 4 NA 
+: 8461 17 7 na” 
+- 8489
+: 8493 10 7 Oh
+: 8504 5 6 ~
+: 8510 8 4 ~
+: 8519 7 6 ~
+: 8527 8 4 ~
+: 8536 6 2 ~
+: 8543 9 -1 ~
+: 8553 12 2 ~
+: 8566 23 4 ~
+: 8590 19 2 ~
+: 8610 10 0 ~ 
+- 8620
+: 8622 14 4 “Na 
+: 8638 13 4 na 
+: 8653 7 7 NA
+: 8662 13 4 na 
+: 8678 12 4 na 
+: 8693 5 2 na
+: 8701 13 4 NA 
+: 8717 17 7 na” 
+- 8743
+: 8747 10 -1 Ma 
+: 8765 10 2 oh 
+: 8782 9 4 oh 
+* 8797 9 6 oh 
+* 8814 10 7 oh 
+* 8831 5 6 oh 
+- 8836
+: 8837 4 4 And 
+: 8844 9 4 then
+: 8855 4 7 ~ 
+: 8863 5 4 we 
+: 8871 12 11 go 
+: 8885 12 11 back, 
+: 8909 7 4 this 
+: 8918 6 7 is 
+: 8926 5 4 the 
+: 8933 14 11 mo
+: 8949 16 11 ment 
+- 8965
+: 8966 5 4 To
+: 8973 8 4 night 
+: 8983 5 7 is 
+: 8990 5 4 the 
+: 8998 18 11 night, 
+: 9023 12 4 we’ll 
+: 9038 7 4 fight 
+: 9047 5 7 till 
+: 9054 7 4 it’s 
+: 9063 12 11 o
+: 9078 6 11 ver 
+- 9085
+: 9087 6 4 So 
+: 9095 5 4 we 
+: 9102 6 4 put 
+: 9110 6 7 our 
+* 9119 14 4 hands 
+: 9135 8 11 up 
+: 9149 7 11 like 
+: 9158 4 11 the 
+: 9164 8 14 cei
+: 9174 6 12 ling 
+: 9182 7 11 can’t
+: 9191 5 9 ~ 
+: 9199 13 9 hold 
+: 9214 45 4 us 
+- 9269
+: 9277 6 -1 Like 
+: 9285 4 -1 the 
+: 9292 7 2 cei
+: 9302 5 0 ling 
+: 9309 7 -1 can’t
+: 9318 5 -3 ~ 
+: 9325 16 -3 hold 
+: 9343 14 -1 us
+: 9368 4 7 ~ 
+- 9374
+: 9376 5 4 ...We 
+: 9384 12 11 go 
+: 9398 12 11 back, 
+: 9422 7 4 this 
+* 9431 6 7 is 
+: 9439 5 4 the 
+: 9446 14 11 mo
+: 9462 16 11 ment 
+- 9478
+: 9479 5 4 To
+: 9486 8 4 night 
+: 9496 5 7 is 
+: 9503 5 4 the 
+: 9511 18 11 night, 
+: 9536 12 4 we’ll 
+: 9551 7 4 fight 
+: 9560 5 7 till 
+: 9567 7 4 it’s 
+: 9576 12 11 o
+: 9591 6 11 ver 
+- 9598
+: 9600 6 4 So 
+: 9608 5 4 we 
+: 9615 6 4 put 
+: 9623 6 7 our 
+: 9632 14 4 hands 
+: 9648 8 11 up 
+: 9662 7 11 like 
+: 9671 4 11 the 
+* 9677 8 14 cei
+: 9687 6 12 ling 
+: 9695 7 11 can’t
+: 9704 5 9 ~ 
+: 9712 13 9 hold 
+: 9727 45 4 us 
+- 9782
+* 9790 6 -1 Like 
+: 9798 4 -1 the 
+: 9805 7 2 cei
+: 9815 5 0 ling 
+: 9822 7 -1 can’t
+: 9831 5 -3 ~ 
+: 9838 16 -3 hold 
+: 9856 49 -1 us 
+E

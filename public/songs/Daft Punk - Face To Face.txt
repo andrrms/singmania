@@ -1,0 +1,200 @@
+#ARTIST:Daft Punk
+#TITLE:Face To Face
+#MP3:Daft Punk - Face To Face.mp3
+#CREATOR:Schluckschuppen
+#YEAR:2001
+#LANGUAGE:English
+#BPM:235.7
+#GAP:74000
+#VIDEO:v=DFNWZkpGBxE,co=face-to-face-618a1907ca615.jpg,bg=daft-punk-531de9b6474a8.jpg
+: 0 3 6 What’s 
+: 4 3 4 go
+: 8 3 6 ing 
+: 12 4 4 on? 
+- 18
+: 20 3 4 Could 
+: 24 3 4 this 
+: 28 3 6 be 
+: 32 3 4 my 
+: 36 3 6 un
+: 40 3 4 der
+: 44 7 6 stan
+: 52 8 8 ding 
+- 62
+: 64 3 4 It’s 
+: 68 3 2 not 
+: 72 3 4 your 
+: 76 4 2 fault 
+- 82
+: 84 3 4 I 
+: 88 3 6 was 
+: 92 3 10 be
+: 96 3 8 ing 
+: 100 3 6 too 
+: 104 3 8 de
+: 108 7 8 man
+: 116 8 6 ding 
+- 126
+: 128 3 4 I 
+: 132 3 6 must 
+: 136 3 4 ad
+: 140 4 6 mit 
+- 146
+: 148 3 4 It’s 
+: 152 3 6 my 
+: 156 3 8 pride 
+: 160 3 6 that 
+: 164 3 8 made 
+: 168 3 6 me 
+: 172 7 8 dis
+: 180 8 10 tant 
+- 190
+: 196 3 4 All 
+: 200 1 2 be
+: 202 7 3 cause 
+- 210
+: 210 1 6 I 
+: 212 3 4 hoped 
+: 216 3 6 that 
+: 220 3 4 you’d 
+: 224 3 2 be 
+: 228 3 0 some
+: 232 3 2 one 
+: 236 7 4 diffe
+: 244 8 0 rent 
+- 254
+: 276 3 4 There’s 
+: 280 3 2 not 
+: 284 3 4 much 
+: 288 3 2 I 
+: 292 3 4 know 
+: 296 3 4 a
+: 300 7 6 bout 
+: 308 8 8 you 
+- 318
+: 340 3 4 Fear 
+: 344 3 2 will 
+: 348 3 4 a
+: 352 3 2 lways 
+: 356 3 4 make 
+: 360 3 6 you 
+: 364 8 5 blind 
+- 374
+: 404 3 4 But 
+: 408 3 4 the 
+: 412 3 8 ans
+: 416 3 8 wer 
+: 420 3 6 is 
+: 424 3 6 in 
+: 428 7 4 clear 
+: 436 8 6 view 
+- 446
+: 468 3 4 It’s 
+: 472 3 4 a
+: 476 3 6 ma
+: 480 3 6 zing 
+: 484 3 6 what 
+: 488 3 6 you’ll 
+: 492 7 8 find 
+- 500
+: 500 3 4 Face 
+: 504 1 4 to 
+: 506 18 8 face 
+- 526
+: 1022 3 4 I 
+: 1026 3 4 turned 
+: 1030 1 4 a
+: 1032 8 2 way 
+- 1042
+: 1044 1 4 Be
+: 1046 1 4 cause 
+: 1048 3 4 I 
+: 1052 3 2 thought 
+: 1056 3 2 you 
+: 1060 3 4 were 
+: 1064 3 4 the 
+: 1068 7 6 pro
+: 1076 8 8 blem 
+- 1086
+: 1088 3 4 Tried 
+: 1092 3 6 to 
+: 1096 3 4 for
+: 1100 4 6 get 
+- 1106
+: 1112 3 4 Un
+: 1116 3 10 til 
+: 1120 3 10 I 
+: 1124 3 10 hit 
+: 1128 3 8 the 
+: 1132 7 6 bot
+: 1140 8 5 tom 
+- 1150
+: 1152 3 4 But 
+: 1156 3 6 when 
+: 1160 3 4 I 
+: 1164 3 6 faced 
+: 1168 8 8 you 
+- 1178
+: 1180 3 4 In 
+: 1184 3 4 my 
+: 1188 3 6 blank 
+: 1192 3 4 con
+: 1196 7 6 fu
+: 1204 7 8 sion 
+- 1212
+: 1212 1 4 I 
+: 1214 1 8 re
+: 1216 3 8 a
+: 1220 3 8 lized 
+: 1224 3 4 you 
+: 1228 1 6 were
+: 1230 1 6 n’t 
+: 1232 3 6 wro
+: 1236 4 4 ~ng 
+- 1241
+: 1242 1 6 It 
+: 1244 3 8 was 
+: 1248 3 8 a 
+: 1252 3 8 mere 
+: 1256 3 8 il
+: 1260 7 6 lu
+: 1268 8 4 sion 
+- 1278
+: 1304 3 4 It 
+: 1308 3 6 real
+: 1312 3 4 ly 
+: 1316 3 6 did
+: 1320 3 4 n’t 
+: 1324 7 6 make 
+: 1332 8 6 sense 
+- 1342
+: 1364 3 4 Just 
+: 1368 3 4 to 
+: 1372 3 2 leave 
+: 1376 3 3 this 
+: 1380 3 4 un
+: 1384 3 6 re
+: 1388 8 5 solved 
+- 1398
+: 1428 3 4 It’s 
+: 1432 3 2 not 
+: 1436 3 10 hard 
+: 1440 3 8 to 
+: 1444 3 6 go 
+: 1448 3 6 the 
+: 1452 7 4 dis
+: 1460 8 6 tance 
+- 1470
+: 1492 3 4 When 
+: 1496 3 4 you 
+: 1500 1 6 fin
+: 1502 1 6 al
+: 1504 3 6 ly 
+: 1508 3 8 get 
+: 1512 3 8 in
+: 1516 7 10 volved 
+- 1524
+: 1524 3 4 Face 
+: 1528 3 4 to 
+: 1532 12 8 face 
+E

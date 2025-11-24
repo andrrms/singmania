@@ -1,0 +1,159 @@
+#ARTIST:Al Martino
+#TITLE:Spanish Eyes
+#MP3:Al Martino - Spanish Eyes.mp3
+#CREATOR:Fepo
+#YEAR:1965
+#LANGUAGE:English
+#BPM:297.5
+#GAP:15090
+#VIDEO:a=OgCNQ-4p6yg,co=https://i.discogs.com/h-k_7NeCxbnzlqNT3R08Y8qdWju0LbR_agFVqw3GX74/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/MDQ2LTE1NzUzOTY4/NTUtNjQ1Mi5qcGVn.jpeg
+* 0 62 -2 Blue 
+: 66 8 -2 Spa
+: 77 5 -1 nish 
+: 85 42 1 Eyes 
+- 129
+: 173 5 -2 Tear 
+: 180 7 -2 drops 
+: 189 4 -1 are 
+: 196 6 1 fal
+: 204 8 3 ling 
+- 214
+: 215 6 5 From 
+: 224 6 6 your 
+: 234 10 8 Spa
+: 246 8 10 nish 
+* 256 46 11 Eyes. 
+- 304
+: 360 28 -4 Please 
+- 390
+: 409 6 -4 Please 
+: 418 6 -2 don’t 
+: 429 29 -1 cry 
+- 460
+: 515 15 -4 This 
+: 532 4 -2 is 
+: 538 8 -1 just 
+: 553 3 1 a
+: 558 3 1 di
+: 562 7 3 os 
+- 571
+: 578 4 5 And 
+: 583 7 6 not 
+: 593 5 8 good 
+: 601 41 10 bye. 
+- 644
+: 691 62 -2 Soon 
+: 757 9 -2 I’ll 
+: 769 5 -1 re
+: 777 15 1 turn 
+- 794
+: 867 4 -2 Brin
+: 873 5 -2 ging 
+: 882 4 -1 you 
+: 888 12 1 all 
+: 903 3 3 the 
+: 908 12 4 Love 
+- 922
+: 934 5 -4 Your 
+: 941 9 -4 Heart 
+: 952 6 -6 can 
+* 962 76 3 hold. 
+- 1040
+: 1042 54 2 Please 
+: 1105 10 4 say 
+: 1120 6 2 si 
+: 1128 40 1 si 
+- 1170
+: 1208 5 -1 Say 
+: 1215 7 -1 you 
+: 1224 4 -1 and 
+: 1231 5 -2 your 
+: 1239 7 -4 Spa
+: 1248 6 -6 nish 
+: 1256 16 -7 Eyes 
+- 1274
+: 1276 6 -6 Will 
+: 1283 13 -4 wait 
+: 1298 6 -7 for 
+* 1305 34 -6 me. 
+- 1341
+: 1478 62 -1 Blue 
+: 1544 10 -1 Spa
+: 1556 8 0 nish 
+: 1566 44 2 Eyes 
+- 1612
+: 1655 7 -1 Pret
+: 1664 5 -1 ti
+: 1670 4 0 es 
+: 1676 12 2 Eyes 
+: 1690 6 4 in 
+: 1698 8 6 all 
+: 1709 6 7 of 
+: 1718 9 9 Me
+: 1728 10 11 xi
+* 1740 72 12 co 
+- 1814
+: 1829 58 -3 True 
+: 1895 10 -3 Spa
+: 1907 8 -1 nish 
+: 1919 48 0 Eyes 
+- 1969
+: 2003 7 -3 Please 
+: 2012 8 -3 smile 
+: 2023 4 -1 for 
+: 2029 6 0 me 
+: 2037 9 2 once 
+: 2048 12 4 more 
+- 2062
+: 2063 4 -6 Be
+: 2069 7 -5 fore 
+: 2080 8 -3 I 
+* 2092 54 -1 go. 
+- 2148
+: 2178 66 -1 Soon 
+: 2249 6 -1 I’ll 
+: 2259 4 0 re 
+: 2266 38 2 turn 
+- 2306
+: 2355 5 -1 Brin
+: 2361 6 -1 ging 
+: 2369 3 0 you 
+: 2374 10 2 all 
+: 2387 3 4 the 
+: 2394 17 5 Love 
+- 2413
+: 2417 5 7 Your 
+: 2424 9 9 Heart 
+: 2434 8 7 can 
+* 2446 68 16 hold. 
+- 2516
+: 2526 60 3 Please 
+: 2590 11 5 say 
+: 2605 7 3 si 
+: 2615 36 2 si 
+- 2653
+: 2691 9 0 Say 
+: 2703 5 0 you 
+: 2711 5 0 and 
+: 2717 4 -1 your 
+: 2724 9 -3 Spa
+: 2735 7 -5 nish 
+: 2744 14 -6 Eyes 
+- 2760
+: 2762 4 -5 Will 
+: 2768 8 -3 wait 
+: 2778 10 -6 for 
+* 2790 39 -5 me. 
+- 2831
+: 2878 6 0 You 
+: 2887 4 0 and 
+: 2893 4 -1 your 
+: 2899 9 -3 Spa
+: 2911 6 -5 nish 
+: 2921 15 -6 Eyes 
+- 2937
+: 2937 7 -5 Will 
+: 2945 7 -3 wait 
+: 2956 5 -5 for 
+: 2965 87 -5 me. 
+E

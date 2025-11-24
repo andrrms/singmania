@@ -1,0 +1,187 @@
+#ARTIST:Felix Jaehn feat. Jasmine Thompson
+#TITLE:Without You
+#MP3:Felix Jaehn feat. Jasmine Thompson - Without You.mp3
+#CREATOR:Daniel
+#COVER:Felix Jaehn feat. Jasmine Thompson - Without You [CO].jpg
+#BACKGROUND:Felix Jaehn feat. Jasmine Thompson - Without You [BG].jpg
+#GENRE:Ballad
+#YEAR:2025
+#LANGUAGE:English
+#BPM:240.04
+#GAP:9130
+#VIDEO:v=L5bQHc8RxZk,co=without-you-67a8f7cfba8e2.jpg,bg=jaehn-felix-5620b9a4ad776.jpg
+: 0 5 1 I 
+: 7 3 1 can’t 
+: 12 8 0 breathe 
+: 27 9 0 here 
+: 39 4 1 with
+: 45 4 0 out 
+: 52 10 -2 you 
+- 94
+: 127 5 0 I 
+: 134 3 3 can’t 
+: 139 6 0 say 
+: 152 6 0 what’s 
+: 160 4 0 on 
+: 167 2 -4 my 
+: 171 10 -2 mind 
+- 213
+: 256 5 4 All 
+: 263 3 5 the 
+: 268 4 3 air 
+: 280 4 3 is 
+: 288 7 6 filled 
+: 299 8 5 around 
+: 315 8 1 your 
+: 331 12 -2 touch 
+- 352
+: 355 5 -2 And, 
+: 364 5 1 oh, 
+: 384 5 1 I 
+: 391 3 3 can’t 
+: 396 10 0 breathe 
+: 411 10 0 here 
+: 424 4 1 with
+: 430 3 0 out 
+: 435 10 -2 you 
+- 477
+: 768 5 1 I 
+: 775 3 1 can’t 
+: 780 8 0 breathe 
+: 795 9 0 here 
+: 807 4 1 with
+: 813 4 0 out 
+: 820 10 -2 you 
+- 862
+: 895 5 0 I 
+: 902 3 3 can’t 
+: 907 6 0 say 
+: 920 6 0 what’s 
+: 928 4 0 on 
+: 935 2 -4 my 
+: 939 10 -2 mind 
+- 981
+: 1023 5 4 All 
+: 1030 3 5 the 
+: 1035 4 3 air 
+: 1047 4 3 is 
+: 1055 7 6 filled 
+: 1066 8 5 around 
+: 1082 8 1 your 
+: 1098 12 -2 touch 
+- 1122
+: 1126 5 -2 And, 
+: 1135 5 1 oh, 
+: 1151 5 1 I 
+: 1158 3 3 can’t 
+: 1163 10 0 breathe 
+: 1178 10 0 here 
+: 1191 4 1 with
+: 1197 3 0 out 
+: 1202 10 -2 you 
+- 1244
+: 1280 5 1 I 
+: 1287 3 1 can’t 
+: 1292 8 0 breathe 
+: 1307 9 0 here 
+: 1319 4 1 with
+: 1325 4 0 out 
+: 1332 10 -2 you 
+- 1374
+: 1407 5 0 I 
+: 1414 3 3 can’t 
+: 1419 6 0 say 
+: 1432 6 0 what’s 
+: 1440 4 0 on 
+: 1447 2 -4 my 
+: 1451 10 -2 mind 
+- 1493
+: 1536 5 4 All 
+: 1543 3 5 the 
+: 1548 4 3 air 
+: 1560 4 3 is 
+: 1568 7 6 filled 
+: 1579 8 5 around 
+: 1595 8 1 your 
+: 1611 12 -2 touch 
+- 1632
+: 1635 5 -2 And, 
+: 1644 5 1 oh, 
+: 1664 5 1 I 
+: 1671 3 3 can’t 
+: 1676 10 0 breathe 
+: 1691 10 0 here 
+: 1704 4 1 with
+: 1710 3 0 out 
+: 1715 10 -2 you 
+- 1757
+* 2048 5 1 I 
+* 2055 3 1 can’t 
+* 2060 8 0 breathe 
+: 2075 9 0 here 
+: 2087 4 1 with
+: 2093 4 0 out 
+: 2100 10 -2 you 
+- 2142
+* 2175 5 0 I 
+* 2182 3 3 can’t 
+* 2187 6 0 say 
+: 2200 6 0 what’s 
+: 2208 4 0 on 
+: 2215 2 -4 my 
+: 2219 10 -2 mind 
+- 2261
+* 2303 5 4 All 
+* 2310 3 5 the 
+* 2315 4 3 air 
+: 2327 4 3 is 
+: 2335 7 6 filled 
+: 2346 8 5 around 
+: 2362 8 1 your 
+: 2378 12 -2 touch 
+- 2399
+: 2403 5 -2 And, 
+: 2412 5 1 oh, 
+* 2432 5 1 I 
+* 2439 3 3 can’t 
+* 2444 10 0 breathe 
+: 2459 10 0 here 
+: 2472 4 1 with
+: 2478 3 0 out 
+: 2483 10 -2 you 
+- 2525
+: 2560 5 1 I 
+* 2567 3 1 can’t 
+: 2572 8 0 breathe 
+: 2587 9 0 here 
+: 2599 4 1 with
+: 2605 4 0 out 
+: 2612 10 -2 you 
+- 2654
+: 2687 5 0 I 
+* 2694 3 3 can’t 
+: 2699 6 0 say 
+: 2712 6 0 what’s 
+: 2720 4 0 on 
+* 2727 2 -4 my 
+: 2731 10 -2 mind 
+- 2773
+: 2816 5 4 All 
+: 2823 3 5 the 
+: 2828 4 3 air 
+: 2840 4 3 is 
+: 2848 7 6 filled 
+: 2859 8 5 around 
+: 2875 8 1 your 
+: 2891 12 -2 touch 
+- 2912
+: 2915 5 -2 And, 
+: 2924 5 1 oh, 
+: 2944 5 1 I 
+* 2951 3 3 can’t 
+: 2956 10 0 breathe 
+: 2971 10 0 here 
+: 2984 4 1 with
+: 2990 3 0 out 
+: 2995 10 -2 you 
+E

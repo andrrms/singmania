@@ -1,0 +1,246 @@
+#ARTIST:The Black Keys
+#TITLE:Gold On The Ceiling
+#MP3:The Black Keys - Gold On The Ceiling.mp3
+#CREATOR:mus31
+#COVER:The Black Keys - Gold On The Ceiling [CO].jpg
+#BACKGROUND:The Black Keys - Gold On The Ceiling [BG].jpg
+#GENRE:Rock
+#YEAR:2011
+#LANGUAGE:English
+#BPM:259.38
+#GAP:28890
+#VIDEO:v=6yCIDkFI7ew,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1e/a8/f7/1ea8f79c-1857-586c-8cdd-7c61d3f218a7/075597962260.jpg/5000x5000bb.jpg,bg=black-keys-the-6338090b1641a.jpg
+: 0 12 2 Down 
+: 14 5 2 in 
+: 20 5 2 the 
+: 27 5 5 wa-
+: 33 10 5 ves 
+- 53
+: 69 6 4 She 
+: 77 6 4 screams 
+: 86 6 2 a
+: 93 6 2 gain
+: 100 4 -1 ~ 
+- 114
+: 126 14 2 Roar 
+: 142 5 2 at 
+: 151 3 2 the 
+: 156 18 5 door 
+- 176
+: 178 8 7 My 
+: 188 7 4 mind 
+: 196 7 4 can’t 
+: 206 4 4 take 
+: 212 4 2 much 
+: 217 13 2 more
+: 231 3 -1 ~ 
+- 244
+: 255 14 2 I 
+: 273 9 2 could 
+: 284 12 0 ne
+: 298 15 2 ver 
+: 319 23 -1 drown 
+: 350 11 -5 in 
+- 395
+: 483 4 2 They 
+: 488 3 0 wan
+: 492 2 -2 na 
+: 495 5 0 get 
+: 502 7 -2 my… 
+- 543
+: 612 4 2 They 
+: 617 2 0 wa
+: 620 3 -2 nna 
+: 624 5 0 get 
+: 631 7 -2 my 
+- 638
+* 640 12 -5 Gold 
+* 656 4 -7 on 
+* 662 4 -5 the 
+* 667 6 -2 cei-
+* 675 12 -5 ling 
+- 697
+: 708 3 -7 I 
+: 712 5 -5 ain’t 
+: 719 9 -5 blind 
+- 733
+: 735 5 -5 Just 
+: 742 3 -7 a 
+: 748 5 -5 mat
+: 755 3 -7 ter 
+: 761 3 -5 of 
+: 766 6 -5 time 
+- 777
+: 779 3 -7 Be
+: 783 5 -7 fore 
+: 790 4 -5 you 
+: 796 6 -2 steal 
+: 806 6 -5 it 
+- 822
+: 835 4 -7 It’s 
+: 841 5 -5 al
+: 848 6 -5 right 
+- 858
+: 860 6 2 Ain’t 
+: 868 4 -2 no 
+: 874 7 -5 guard 
+: 883 4 -7 in 
+: 888 4 -5 my 
+: 894 6 -5 house 
+- 934
+: 1146 12 2 Clouds 
+: 1164 5 2 cover
+: 1170 5 2 ed 
+: 1177 15 5 love’s 
+- 1202
+: 1221 6 4 Barb
+: 1230 4 4 wir
+: 1235 3 2 ed 
+: 1239 6 2 snare
+: 1246 4 -1 ~ 
+- 1260
+: 1276 14 2 Strung 
+: 1292 5 2 up, 
+: 1299 8 2 strung 
+: 1309 13 5 out 
+- 1328
+: 1330 9 7 I 
+: 1340 5 4 just 
+: 1348 6 4 can’t 
+: 1356 5 4 go 
+: 1365 5 2 with
+: 1372 7 2 out
+: 1380 10 -1 ~ 
+- 1400
+: 1404 16 2 I 
+: 1425 10 2 could 
+: 1437 11 0 ne
+: 1450 12 2 ver 
+: 1469 25 -1 drown 
+: 1499 13 -5 in 
+- 1546
+: 1635 3 2 They 
+: 1639 3 0 wan
+: 1643 3 -2 na 
+: 1647 4 0 get 
+: 1655 6 -2 my… 
+- 1695
+: 1764 4 2 They 
+: 1769 3 0 wan
+: 1773 2 -2 na 
+: 1776 5 0 get 
+: 1783 5 -2 my 
+- 1788
+* 1790 13 -5 Gold 
+* 1807 5 -7 on 
+* 1814 4 -5 the 
+* 1820 6 -2 ceil-
+* 1828 10 -5 ing 
+- 1848
+: 1859 4 -7 I 
+: 1864 6 -5 ain’t 
+: 1871 11 -5 blind 
+- 1885
+: 1887 5 -5 Just 
+: 1896 3 -7 a 
+: 1900 4 -5 mat
+: 1905 4 -7 ter 
+: 1910 5 -5 of 
+: 1917 8 -5 time 
+- 1930
+: 1932 2 -7 Be
+: 1935 4 -7 fore 
+: 1941 3 -5 you 
+: 1946 9 -2 steal 
+: 1958 7 -5 it 
+- 1975
+: 1987 3 -7 It’s 
+: 1992 4 -5 al
+: 1997 8 -5 right 
+- 2010
+: 2012 4 2 Ain’t 
+: 2018 5 -2 no 
+: 2026 6 -5 guard 
+: 2035 3 -7 in 
+: 2039 5 -5 my 
+: 2045 12 -5 house 
+- 2091
+: 2403 3 2 They 
+: 2407 3 0 wan
+: 2411 2 -2 na 
+: 2415 4 0 get 
+: 2422 8 -2 my… 
+- 2464
+: 2533 3 2 They 
+: 2537 3 0 wan
+: 2541 3 -2 na 
+: 2545 4 0 get 
+: 2551 5 -2 my 
+- 2558
+* 2560 10 -5 Gold 
+* 2576 5 -7 on 
+* 2583 4 -5 the 
+* 2589 4 -2 ceil-
+* 2595 12 -5 ing 
+- 2617
+: 2628 3 -7 I 
+: 2633 5 -5 ain’t 
+: 2640 9 -5 blind 
+- 2654
+: 2656 6 -5 Just 
+: 2664 3 -7 a 
+: 2668 5 -5 mat
+: 2674 5 -7 ter 
+: 2680 4 -5 of 
+: 2687 9 -5 time 
+- 2698
+: 2700 3 -7 Be
+: 2704 5 -7 fore 
+: 2711 2 -5 you 
+: 2715 6 -2 steal 
+: 2723 5 -5 it 
+- 2738
+: 2755 4 -7 It’s 
+: 2760 4 -5 al
+: 2765 6 -5 right 
+- 2778
+: 2781 5 2 Ain’t 
+: 2788 4 -2 no 
+: 2794 8 -5 guard 
+: 2803 4 -7 in 
+: 2808 7 -5 my... 
+- 2815
+* 2816 8 -5 Gold 
+* 2831 5 -7 on 
+* 2839 3 -5 the 
+* 2844 5 -2 ceil-
+* 2851 10 -5 ing 
+- 2871
+: 2883 3 -7 I 
+: 2888 6 -5 ain’t 
+: 2895 8 -5 blind 
+- 2908
+: 2910 6 -5 Just 
+: 2918 4 -7 a 
+: 2923 5 -5 mat
+: 2929 4 -7 ter 
+: 2935 4 -5 of 
+: 2942 8 -5 time 
+- 2954
+: 2956 2 -7 Be
+: 2959 4 -7 fore 
+: 2965 3 -5 you 
+: 2970 6 -2 steal 
+: 2979 6 -5 it 
+- 2995
+: 3010 4 -7 It’s 
+: 3015 5 -5 al
+: 3021 6 -5 right 
+- 3033
+: 3035 5 2 Ain’t 
+: 3043 3 -2 no 
+: 3049 7 -5 guard 
+: 3058 3 -7 in 
+: 3062 6 -5 my 
+: 3069 8 -5 house 
+E

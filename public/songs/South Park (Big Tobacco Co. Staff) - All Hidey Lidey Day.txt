@@ -1,0 +1,190 @@
+#ARTIST:South Park (Big Tobacco Co. Staff)
+#TITLE:All Hidey Lidey Day
+#MP3:South Park (Big Tobacco Co. Staff) - All Hidey Lidey Day.mp3
+#CREATOR:g21
+#LANGUAGE:English
+#BPM:336.4
+#GAP:2300
+#VIDEO:v=EOcZPZXkQ2c,co=https://i.ytimg.com/vi/HeCMd749wes/maxresdefault.jpg,co-crop=280-0-720-720,bg=https://i.ytimg.com/vi/HeCMd749wes/maxresdefault.jpg
+: 0 3 -3 With 
+: 4 3 -3 a 
+: 8 3 2 hi
+: 12 3 1 dey 
+: 16 3 2 li
+: 20 3 1 dey 
+: 24 3 2 li
+: 28 3 4 dey 
+: 32 3 6 and 
+: 36 3 7 a 
+: 40 3 9 hi
+: 44 3 7 dey 
+: 48 3 9 li
+: 52 3 7 dey 
+: 56 8 9 lay 
+- 66
+: 68 3 9 We 
+: 72 3 7 work 
+: 76 3 6 and 
+: 80 3 4 we 
+: 84 3 7 make 
+: 88 3 6 ci
+: 92 3 4 ga
+: 96 3 2 rettes 
+: 100 3 6 all 
+: 104 3 4 hi
+: 108 3 2 dey 
+: 112 3 1 li
+: 116 3 -1 dey 
+: 120 8 -3 day 
+- 130
+: 132 3 -3 So 
+: 136 3 2 folks 
+: 140 3 1 can 
+: 144 3 2 get 
+: 148 3 1 a 
+: 152 3 2 brea
+: 156 3 4 ky 
+: 160 3 6 from 
+: 164 3 7 their 
+: 168 3 9 stress
+: 172 3 7 ful 
+: 176 3 9 li
+: 180 3 7 dey 
+: 184 7 9 lives 
+- 192
+: 192 3 9 And 
+: 196 3 9 re
+: 200 3 7 lax
+: 204 3 6 y 
+: 208 3 4 with 
+: 212 3 7 the 
+: 216 3 6 ci
+: 220 3 4 ga
+: 224 3 2 rettes 
+: 228 3 6 we 
+: 232 3 4 make 
+: 236 3 2 all 
+: 240 3 1 day 
+: 244 3 4 and 
+: 248 12 2 night. 
+- 262
+: 276 3 -3 I 
+: 280 3 2 like 
+: 284 3 1 to 
+: 288 3 2 have 
+: 292 3 1 a 
+: 296 3 2 ci
+: 300 3 4 ga
+: 304 3 6 ret
+: 308 3 7 te 
+: 312 3 9 ev
+: 316 3 7 ery 
+: 320 3 9 now 
+: 324 3 7 and 
+: 328 8 9 then 
+- 338
+: 340 3 9 It 
+: 344 3 7 makes 
+: 348 3 6 me 
+: 352 3 4 fe
+: 356 3 7 el 
+: 360 3 6 cal
+: 364 3 4 mer 
+: 368 3 2 when 
+: 372 3 6 the 
+: 376 3 4 day 
+: 380 3 2 is 
+: 384 3 1 at 
+: 388 3 -1 an 
+: 392 8 -3 end. 
+- 402
+: 404 3 -3 And 
+: 408 3 2 if 
+: 412 3 1 it 
+: 416 3 2 gives 
+: 420 3 1 me 
+: 424 3 2 can
+: 428 3 4 cer 
+: 432 3 6 when 
+: 436 3 7 I’m 
+: 440 3 9 eigh
+: 444 3 7 ty 
+: 448 3 9 I 
+: 452 3 7 don’t 
+: 456 7 9 care 
+- 464
+: 464 3 9 Who 
+: 468 3 9 the 
+: 472 3 7 hell 
+: 476 3 6 wants 
+: 480 3 4 to 
+: 484 3 7 be 
+: 488 3 6 nine
+: 492 3 4 ty 
+: 496 3 2 a
+: 500 3 4 ny
+: 504 12 2 way? 
+- 518
+: 524 3 -3 So 
+: 528 3 -3 with 
+: 532 3 -3 a 
+: 536 3 2 hi
+: 540 3 1 dey 
+: 544 3 2 li
+: 548 3 1 dey 
+: 552 3 2 li
+: 556 3 4 dey 
+: 560 3 6 and 
+: 564 3 7 a 
+: 568 3 9 hi
+: 572 3 7 dey 
+: 576 3 9 li
+: 580 3 7 dey 
+: 584 8 9 lay 
+- 594
+: 596 3 9 We 
+: 600 3 7 work 
+: 604 3 6 and 
+: 608 3 4 we 
+: 612 3 7 make 
+: 616 3 6 ci
+: 620 3 4 ga
+: 624 3 2 rettes 
+: 628 3 6 all 
+: 632 3 4 hi
+: 636 3 2 dey 
+: 640 3 1 li
+: 644 3 -1 dey 
+: 648 8 -3 day 
+- 658
+: 660 3 -3 So 
+: 664 3 2 folks 
+: 668 3 1 can 
+: 672 3 2 get 
+: 676 3 1 a 
+: 680 3 2 brea
+: 684 3 4 ky 
+: 688 3 6 from 
+: 692 3 7 their 
+: 696 3 9 stress
+: 700 3 7 ful 
+: 704 3 9 li
+: 708 3 7 dey 
+: 712 7 9 lives 
+- 720
+: 720 3 9 And 
+: 724 3 9 re
+: 728 3 7 lax
+: 732 3 6 y 
+: 736 3 4 with 
+: 740 3 7 the 
+: 744 3 6 ci
+: 748 3 4 ga
+: 752 3 2 rettes 
+: 756 3 6 we 
+: 760 3 4 make 
+: 764 3 2 all 
+: 768 3 1 day 
+: 772 3 4 and 
+: 776 8 2 night. 
+E

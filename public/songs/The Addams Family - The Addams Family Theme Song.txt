@@ -1,0 +1,112 @@
+#ARTIST:The Addams Family
+#TITLE:The Addams Family Theme Song
+#MP3:The Addams Family - The Addams Family Theme Song.mp3
+#CREATOR:Relisch
+#COVER:The Addams Family - The Addams Family Theme Song [CO].jpg
+#BACKGROUND:The Addams Family - The Addams Family Theme Song [BG].jpg
+#GENRE:TV
+#YEAR:1964
+#LANGUAGE:English
+#BPM:300
+#GAP:18450
+#VIDEO:v=cfawtDT945o,co=https://is1-ssl.mzstatic.com/image/thumb/Music/63/bd/db/mzi.tsslxpki.jpg/5000x5000bb.jpg
+: 0 4 5 They’re 
+: 5 4 10 creepy
+: 10 3 14 ~ 
+: 15 4 10 and 
+: 20 3 7 they’re 
+: 24 4 3 kooky
+: 29 6 12 ~ 
+- 38
+: 40 4 8 Mysterious
+: 45 4 9 ~
+: 50 3 12 ~
+: 54 5 9 ~ 
+: 60 4 6 and 
+: 65 3 2 spooky
+: 69 6 10 ~ 
+- 77
+: 79 4 6 They’re 
+: 84 4 10 all 
+: 90 2 14 together
+: 94 4 10 ~
+: 99 4 7 ~ 
+: 104 3 3 ooky
+: 109 6 12 ~ 
+- 117
+: 119 3 10 The 
+: 124 4 9 Addams
+: 130 3 6 ~ 
+: 135 4 7 family
+: 141 2 9 ~
+: 145 4 10 ~ 
+- 157
+: 160 4 6 Their 
+: 165 5 10 house 
+: 171 3 14 is 
+: 175 5 10 a 
+: 181 3 7 museum
+: 186 4 3 ~
+: 191 6 12 ~ 
+- 199
+: 201 3 8 When 
+: 206 3 9 people
+: 211 4 12 ~ 
+: 216 4 9 come 
+: 222 2 2 to 
+: 226 3 10 see 
+: 231 5 6 ’em 
+- 239
+: 241 3 6 They 
+: 245 5 10 really
+: 251 3 14 ~ 
+: 256 4 10 are 
+: 261 3 7 a 
+* 265 4 3 scream
+* 270 5 12 ~ 
+- 279
+: 281 3 10 The 
+: 285 4 9 Addams
+: 291 3 6 ~ 
+: 295 4 7 family
+: 301 3 9 ~
+: 305 6 10 ~ 
+- 321
+F 347 6 6 Neat 
+- 363
+F 380 10 6 Sweet 
+- 410
+F 461 1 6 Petite
+F 463 7 6 ~ 
+- 477
+: 480 3 6 So 
+: 484 4 10 get 
+: 490 2 14 a 
+: 493 5 11 witch’s
+: 500 2 7 ~ 
+: 504 3 3 shawl 
+: 509 6 12 on 
+- 517
+: 519 3 8 A 
+: 523 5 9 broomstick
+: 529 3 12 ~ 
+: 533 4 9 you 
+: 538 3 6 can 
+: 543 4 2 crawl 
+: 548 6 10 on 
+- 556
+: 558 3 6 We’re 
+: 563 4 10 gonna
+: 568 3 14 ~ 
+: 573 4 10 pay 
+: 578 3 7 a 
+: 583 4 3 call 
+: 588 6 12 on 
+- 597
+: 599 2 10 The 
+: 603 4 9 Addams
+: 608 11 6 ~ 
+* 621 10 7 family
+: 632 8 9 ~
+* 642 7 10 ~ 
+E

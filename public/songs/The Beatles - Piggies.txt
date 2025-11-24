@@ -1,0 +1,177 @@
+#ARTIST:The Beatles
+#TITLE:Piggies
+#MP3:The Beatles - Piggies.mp3
+#CREATOR:choosie
+#YEAR:1968
+#LANGUAGE:English
+#BPM:372.64
+#GAP:5550
+#VIDEO:a=RhY1x8CpWeI,co=the-beatles-5e81067484ea9.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 2 12 Have 
+: 5 2 13 you 
+: 10 9 15 seen 
+: 24 3 12 the 
+: 32 2 10 lit
+: 37 3 12 tle 
+: 43 3 13 pig
+: 49 11 10 gies 
+- 62
+: 66 4 8 Craw
+: 73 2 10 ling 
+: 78 10 12 in 
+: 92 2 8 the 
+: 98 8 3 dirt 
+- 108
+: 132 4 12 And 
+: 139 2 13 for 
+: 144 7 15 all 
+: 156 3 12 the 
+* 164 2 10 lit
+* 169 3 12 tle 
+* 176 3 13 pig
+* 181 12 10 gies 
+- 195
+: 198 4 8 Life 
+: 205 4 10 is 
+: 213 3 12 get
+: 219 6 8 ting 
+: 230 7 5 worse 
+- 239
+: 265 4 8 Al
+: 273 4 10 ways 
+: 281 2 12 ha
+: 286 6 17 ving 
+: 296 9 14 dirt 
+- 307
+: 322 4 10 To 
+: 332 11 15 play 
+: 348 12 15 a
+: 365 12 15 round 
+: 382 11 15 in 
+- 395
+* 532 2 12 Have 
+* 537 3 13 you 
+* 543 8 15 seen 
+: 556 3 12 the 
+: 565 2 10 big
+: 569 3 12 ger 
+: 576 3 13 pig
+: 582 10 10 gies 
+- 594
+: 598 3 8 In 
+: 604 3 10 their 
+: 610 7 12 starched 
+: 622 4 8 white 
+: 631 12 3 shirts 
+- 645
+: 664 2 12 You 
+: 669 2 13 will 
+: 675 8 15 find 
+: 688 3 12 the 
+: 696 2 10 big
+: 701 3 12 ger 
+: 708 3 13 pig
+: 713 11 10 gies 
+- 726
+: 730 4 8 Stir
+: 737 2 10 ring 
+: 741 3 12 up 
+: 753 2 8 the 
+: 758 10 5 dirt 
+- 770
+: 796 4 8 Al
+: 804 4 10 ways 
+: 812 4 12 have 
+* 821 4 17 clean 
+* 830 16 14 shirts 
+- 848
+: 853 4 10 To 
+: 862 11 15 play 
+: 878 12 15 a
+: 894 12 15 round 
+: 910 10 15 in 
+- 922
+: 1055 4 17 In 
+: 1063 4 15 their 
+: 1072 7 13 sties 
+: 1084 2 17 with 
+: 1088 4 16 all 
+: 1096 4 14 their 
+: 1104 2 16 back
+: 1108 6 12 ing 
+- 1116
+: 1120 5 17 They
+: 1129 3 13 ~ 
+* 1136 11 13 don’t 
+* 1152 14 12 care 
+- 1168
+: 1172 6 19 What 
+: 1184 4 19 goes 
+: 1192 12 22 on 
+: 1208 2 24 a
+: 1213 13 22 round 
+- 1228
+: 1311 4 17 In 
+: 1319 2 15 their 
+: 1324 7 13 eyes 
+: 1335 4 17 there’s 
+: 1343 4 16 some
+: 1351 4 14 thing 
+: 1359 2 16 lack
+: 1364 4 12 ing 
+- 1370
+: 1374 4 17 What 
+: 1382 4 15 they 
+: 1390 4 13 need’s 
+: 1398 4 17 a 
+* 1406 4 15 damn 
+* 1414 4 17 good 
+* 1422 2 19 wack
+* 1427 7 15 ing 
+- 1436
+: 2011 4 12 Ev’
+: 2019 4 13 ry
+: 2027 4 15 where 
+: 2035 4 12 there’s 
+: 2043 4 10 lots 
+: 2051 4 12 of 
+: 2059 2 13 pig
+: 2063 7 10 gies 
+- 2072
+: 2075 2 8 Li
+: 2079 5 10 ving 
+* 2090 2 12 pig
+* 2094 4 8 gy 
+* 2102 12 3 lives 
+- 2116
+: 2138 4 12 You 
+: 2146 4 13 can 
+: 2154 4 15 see 
+: 2162 4 12 them 
+: 2170 4 10 out 
+: 2178 4 12 for 
+: 2186 2 13 din
+: 2190 7 10 ner 
+- 2199
+: 2202 4 8 With 
+: 2210 4 10 their 
+: 2218 2 12 pig
+: 2222 5 8 gy 
+: 2232 7 5 wives 
+- 2241
+: 2266 4 8 Clutch
+: 2274 4 10 ing 
+: 2282 4 12 forks 
+: 2290 4 17 and 
+: 2298 12 14 knives 
+- 2312
+: 2322 4 10 To 
+: 2331 11 15 eat 
+: 2347 12 15 their 
+* 2363 12 15 ba
+* 2379 5 15 con 
+- 2386
+F 2685 3 12 One 
+F 2690 3 12 more 
+F 2695 5 12 time. 
+E

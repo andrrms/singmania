@@ -1,0 +1,172 @@
+#ARTIST:Abadas
+#TITLE:My Name Is …
+#MP3:Abadas - My Name Is ….mp3
+#CREATOR:LouBlu08
+#COVER:Abadas - My Name Is … [CO].jpg
+#BACKGROUND:Abadas - My Name Is … [BG].jpg
+#GENRE:Children
+#YEAR:2011
+#LANGUAGE:English
+#BPM:205.87
+#GAP:9520
+#VIDEO:v=HhyFQa8C5Wo,co=https://m.media-amazon.com/images/I/711fnIFWhYL.jpg
+: 0 3 6 My 
+: 4 7 9 name 
+: 12 3 7 is 
+: 16 3 4 Ser
+: 20 3 2 en, 
+: 24 3 2 I 
+: 28 3 4 can 
+: 32 6 6 fly 
+: 39 4 2 up 
+: 44 8 -1 high 
+- 54
+: 60 3 1 Up 
+: 64 4 6 past 
+: 70 4 9 the 
+* 75 9 14 trees 
+: 85 3 14 and 
+: 89 2 13 to
+: 92 7 11 wards 
+: 100 2 9 the 
+: 103 10 11 sky 
+- 115
+: 124 4 9 I 
+: 129 3 13 hang 
+: 133 2 11 top
+: 136 3 13 sy 
+* 140 7 14 tur
+: 148 3 13 vy 
+: 152 3 11 in 
+: 156 3 9 the 
+: 160 6 11 night 
+: 167 4 9 and 
+: 172 11 9 day 
+- 185
+: 192 6 11 Fly 
+: 199 4 11 right 
+: 204 8 9 down 
+: 216 3 2 when 
+: 220 3 9 its 
+: 224 5 6 time 
+: 230 5 7 to 
+: 236 9 4 play 
+- 247
+: 257 2 6 My 
+: 260 6 9 name 
+: 268 3 4 is 
+: 272 3 4 Ha
+* 276 5 2 ri, 
+: 284 3 4 I 
+: 288 4 6 like 
+: 293 4 2 to 
+: 298 6 -1 swim 
+- 306
+: 316 3 4 I 
+: 320 4 6 dive 
+: 325 5 9 down 
+: 331 6 14 deep, 
+: 343 4 14 I 
+: 348 3 13 see 
+: 352 2 11 eve
+: 355 2 9 ry
+: 358 7 11 thing 
+- 367
+: 379 3 11 That 
+: 383 4 13 lives 
+: 388 2 11 in 
+: 391 3 13 the 
+* 395 7 14 sea
+: 403 5 13 bed, 
+: 414 2 11 or 
+: 417 3 11 on 
+: 421 4 9 the 
+: 426 12 9 shore 
+- 440
+: 448 3 11 Swim
+: 452 3 9 ming 
+: 456 3 7 and 
+: 460 6 9 pla
+: 467 3 6 ying 
+: 471 3 2 is 
+: 475 3 4 what 
+: 479 5 6 I 
+: 485 5 7 a
+: 491 13 4 dore 
+- 506
+: 513 3 6 My 
+: 517 7 9 name 
+: 525 3 6 is 
+: 529 2 4 E
+: 532 4 2 la 
+: 537 2 2 with 
+: 540 3 4 a 
+: 544 5 6 spe
+: 550 4 2 cial 
+: 555 10 11 nose 
+- 567
+: 576 3 6 Where 
+: 580 3 9 it 
+: 584 3 9 will 
+* 588 7 14 lead 
+* 596 7 14 me, 
+: 604 3 13 no
+: 608 1 11 bo
+: 610 3 9 dy 
+: 614 9 11 knows 
+- 625
+: 632 3 9 I 
+: 636 3 11 can 
+: 640 4 13 smell 
+: 645 2 11 all 
+: 648 3 13 the 
+* 652 7 14 things 
+: 660 3 13 that 
+: 664 3 11 you 
+: 668 3 9 can’t 
+: 672 3 11 al
+: 676 6 9 ways 
+: 683 8 9 see, 
+- 693
+: 700 3 2 I 
+: 704 5 11 love 
+: 710 6 11 my 
+: 717 5 9 nose, 
+: 727 4 9 It’s 
+: 732 3 4 a 
+: 736 4 6 part 
+: 741 5 7 of 
+: 747 9 4 me 
+- 758
+F 772 1 8 Shoo
+F 774 2 8 do
+F 777 2 8 wop-
+F 780 4 8 bop, 
+F 787 1 8 Shoo
+F 789 1 8 doo
+F 791 5 8 way 
+- 798
+F 799 5 8 Shoo
+F 805 1 8 do
+F 807 3 8 wop-
+F 811 4 8 bop, 
+F 819 2 8 Shoo
+F 822 1 8 doo
+F 824 4 8 way 
+- 830
+F 835 2 8 Shoo
+F 838 1 8 do
+F 840 2 8 wop-
+F 843 4 8 bop, 
+F 851 2 8 Shoo
+F 854 1 8 doo
+F 856 4 8 way 
+- 862
+F 863 5 8 Shoo
+F 869 1 8 do
+F 871 3 8 wop-
+F 875 4 8 bop, 
+F 884 1 8 Shoo
+F 886 1 8 doo
+F 888 5 8 way 
+E

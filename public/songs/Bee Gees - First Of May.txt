@@ -1,0 +1,229 @@
+#ARTIST:Bee Gees
+#TITLE:First Of May
+#MP3:Bee Gees - First Of May.mp3
+#CREATOR:lukethedonkey
+#GENRE:Pop
+#YEAR:1969
+#LANGUAGE:English
+#BPM:200.45
+#GAP:15610
+#VIDEO:v=yGxDx8ftX1I,co=https://live.staticflickr.com/5742/20819999030_83dd4eea74_b.jpg,bg=bee-gees-4f9a7ff4dffd0.jpg
+: 0 1 2 When 
+: 2 3 2 I 
+: 7 4 9 was 
+: 12 10 9 small 
+: 32 4 9 and 
+: 37 4 6 Christ
+: 42 3 2 mas 
+: 46 9 1 trees 
+: 56 3 9 were 
+: 60 13 9 tall 
+- 75
+: 104 2 7 We 
+: 107 4 7 used 
+: 112 2 9 to 
+: 115 6 11 love 
+: 123 3 7 while 
+: 127 3 6 o
+: 131 5 7 thers 
+: 137 9 9 used 
+: 147 3 6 to 
+: 151 14 4 play 
+- 167
+: 204 3 2 Don’t 
+: 208 6 2 ask 
+: 215 3 9 me 
+: 219 9 9 why 
+: 239 2 9 but 
+: 242 5 11 time 
+: 248 2 14 has 
+: 251 5 13 passed 
+: 257 3 11 us 
+: 261 16 9 by 
+- 279
+: 313 5 7 Some
+: 319 2 9 one 
+: 322 4 11 else 
+: 327 4 7 moved 
+: 332 9 6 in 
+: 342 4 7 from 
+: 347 5 9 far 
+: 353 3 6 a
+: 357 16 4 way 
+- 375
+: 409 4 11 Now 
+: 414 3 11 we 
+: 418 4 14 are 
+: 423 10 14 tall 
+: 445 5 14 and 
+: 451 4 13 Christ
+: 456 4 11 mas 
+: 461 6 9 trees 
+: 468 5 14 are 
+: 474 10 14 small 
+- 486
+: 511 2 11 And 
+: 514 5 9 you 
+: 520 5 14 don’t 
+: 526 18 14 ask 
+: 545 2 11 the 
+: 548 10 9 time 
+: 559 1 7 o
+: 561 5 9 of 
+: 567 20 9 day 
+- 589
+: 611 5 14 But 
+: 617 5 14 you 
+: 623 6 19 and 
+: 630 9 19 I 
+: 649 5 19 our 
+: 655 5 18 love 
+: 661 5 16 will 
+: 667 7 14 ne
+: 675 3 18 ver 
+: 679 10 18 die 
+- 691
+: 715 2 11 But 
+: 718 7 11 guess 
+: 726 5 16 we’ll 
+: 732 11 16 cry 
+: 753 10 14 come 
+: 764 1 11 fi
+: 766 5 9 irst 
+: 772 1 6 o
+: 774 4 4 of 
+: 779 16 2 May 
+- 797
+: 825 9 2 The 
+: 835 2 6 app
+: 838 3 9 le 
+: 842 12 9 tree 
+: 861 2 9 that 
+: 864 14 11 grew 
+: 879 4 6 for 
+: 884 4 9 you 
+: 889 6 11 and 
+: 896 12 6 me 
+- 910
+: 929 2 7 I 
+: 932 4 7 watched 
+: 939 2 9 the 
+: 942 3 11 app
+: 946 4 7 les 
+: 953 4 6 fal
+: 958 6 7 ling 
+: 965 6 9 one 
+: 972 1 6 by
+: 974 4 4 y 
+: 979 12 4 one 
+- 993
+: 1011 2 4 A
+: 1014 6 6 a
+: 1021 1 4 a
+: 1023 8 2 and 
+: 1032 3 6 I 
+: 1036 2 9 re
+: 1039 10 9 call 
+: 1063 3 9 the 
+: 1067 4 11 mo
+: 1072 4 14 ment 
+: 1077 6 13 of 
+: 1084 2 11 them 
+: 1087 12 9 all 
+- 1101
+: 1132 2 7 The 
+: 1135 7 7 day 
+: 1143 4 9 I 
+: 1148 4 11 kissed 
+: 1153 3 7 your 
+: 1157 6 6 cheek 
+: 1172 3 7 and 
+: 1176 4 9 you 
+: 1181 3 6 were 
+: 1185 12 4 gone 
+- 1199
+: 1233 3 11 Now 
+: 1237 2 11 we 
+: 1240 5 14 are 
+: 1246 8 14 tall 
+: 1268 5 14 and 
+: 1274 4 13 Christ
+: 1279 3 11 mas 
+: 1283 6 9 trees 
+: 1290 4 14 are 
+: 1295 12 14 small 
+- 1309
+: 1329 3 9 And 
+: 1333 4 11 you 
+: 1338 6 14 don’t 
+: 1345 10 14 ask 
+: 1363 2 14 the 
+: 1366 5 13 ti
+: 1372 6 11 ime 
+: 1379 3 11 of 
+: 1383 12 9 day 
+- 1397
+: 1423 5 14 But 
+: 1429 5 14 you 
+: 1435 5 19 and 
+: 1441 8 19 I 
+: 1460 5 19 our 
+: 1466 5 18 love 
+: 1472 5 16 will 
+: 1478 7 14 ne
+: 1486 3 18 ver 
+: 1490 10 18 die 
+- 1502
+: 1525 2 11 But 
+: 1528 5 11 guess 
+: 1534 5 16 we’ll 
+: 1540 8 16 cry 
+: 1563 6 14 come 
+: 1570 1 11 fi
+: 1572 6 9 irst 
+: 1579 1 6 o
+: 1581 4 4 of 
+: 1586 14 2 May 
+- 1602
+: 1637 1 6 When 
+: 1639 2 6 I 
+: 1642 3 9 was 
+: 1646 10 9 small 
+: 1683 2 9 and 
+: 1686 2 6 Christ
+: 1689 3 2 mas 
+: 1693 4 1 trees 
+: 1698 2 9 were 
+: 1701 8 9 tall 
+- 1711
+: 1739 1 7 Do 
+: 1741 1 9 do 
+: 1743 6 11 do 
+: 1750 2 7 do 
+: 1753 10 6 do 
+: 1778 2 7 do 
+: 1782 9 9 do 
+: 1794 2 6 do 
+: 1797 10 4 do 
+- 1809
+: 1859 1 2 Don’t 
+: 1861 5 6 ask 
+: 1867 2 9 me 
+: 1870 10 9 why 
+: 1901 2 9 but 
+: 1904 5 11 time 
+: 1910 2 14 has 
+: 1913 5 13 passed 
+: 1919 2 11 us 
+: 1922 10 9 by 
+- 1934
+: 1959 4 7 Some
+: 1964 2 9 one 
+: 1967 5 11 else 
+: 1973 4 7 moved 
+: 1978 6 6 in 
+: 1995 2 7 from 
+: 1998 5 9 far 
+: 2004 1 6 a
+: 2006 8 4 way 
+E

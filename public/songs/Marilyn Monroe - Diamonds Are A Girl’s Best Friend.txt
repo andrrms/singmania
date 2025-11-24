@@ -1,0 +1,384 @@
+#ARTIST:Marilyn Monroe
+#TITLE:Diamonds Are A Girl’s Best Friend
+#MP3:Marilyn Monroe - Diamonds Are A Girl’s Best Friend.mp3
+#CREATOR:DoubleDee
+#COVER:Marilyn Monroe - Diamonds Are A Girl’s Best Friend [CO].jpg
+#BACKGROUND:Marilyn Monroe - Diamonds Are A Girl’s Best Friend [BG].jpg
+#GENRE:Jazz
+#YEAR:1953
+#LANGUAGE:English
+#BPM:398
+#GAP:52570
+#VIDEO:v=H69qXOHVS04,co=https://m.media-amazon.com/images/I/818QMAQFmrL.jpg,preview=74.01,medley=569-1628
+#START:50
+: 0 5 -8 The 
+: 8 6 -3 French 
+: 24 12 -3 are 
+: 42 8 -2 glad 
+: 59 11 5 to 
+: 85 12 4 die 
+: 101 7 1 for 
+: 109 13 -3 love 
+- 131
+: 135 3 -8 They 
+: 139 3 -8 de
+: 143 6 -3 light 
+: 159 6 -3 in 
+: 176 6 -2 figh
+: 185 20 5 ting 
+: 222 4 4 du
+: 227 14 1 els 
+- 251
+: 277 7 -3 But 
+: 286 11 -4 I 
+: 300 7 -1 pre
+: 312 9 -4 fer 
+: 323 8 -1 a 
+: 333 10 -3 man 
+: 348 8 1 who 
+: 357 2 3 live
+: 360 13 4 ~s
+: 376 11 4 and 
+: 388 4 6 give
+: 393 19 7 ~s 
+- 422
+: 438 5 5 Ex
+: 451 7 2 pen
+: 466 11 -4 sive 
+: 510 7 -1 jew
+: 518 18 -3 els 
+- 546
+: 569 4 -3 A 
+: 577 7 -3 kiss 
+: 595 6 -8 on 
+: 604 5 -3 the 
+: 613 9 1 hand 
+: 631 5 -3 may 
+: 641 4 1 be 
+- 652
+: 655 7 4 Quite 
+: 665 6 4 con
+: 673 7 3 ti
+: 681 8 6 nen
+: 690 10 4 tal 
+- 705
+: 707 7 4 But 
+: 716 7 4 dia
+: 725 5 1 monds 
+: 733 7 -3 are 
+: 742 5 -6 a 
+: 750 12 -8 girl’s 
+: 769 8 -3 best 
+: 784 8 -4 friend 
+- 802
+: 845 3 -7 A 
+: 855 7 -2 kiss 
+: 873 5 -5 may 
+: 880 3 -2 be 
+: 886 11 2 grand 
+- 907
+: 931 4 7 But 
+: 936 2 6 it 
+: 941 5 6 won’t 
+: 950 4 6 pay 
+: 955 3 5 the 
+: 959 4 8 ren
+: 965 7 6 tal 
+- 974
+: 976 5 2 On 
+: 984 6 1 your 
+: 992 6 -1 hum
+: 1002 4 -1 ble 
+: 1011 9 -1 flat 
+- 1030
+: 1043 12 -3 Or 
+: 1063 7 -6 help 
+: 1071 3 -6 you 
+: 1078 7 -6 at 
+: 1088 3 -6 the 
+: 1095 6 1 au
+: 1104 5 1 to
+: 1110 2 0 ~
+: 1113 7 1 mat 
+- 1129
+: 1132 11 4 Men 
+: 1157 8 3 grow 
+: 1167 17 4 cold 
+- 1188
+: 1190 6 1 As 
+: 1201 19 2 girls 
+: 1226 4 1 grow 
+: 1236 13 2 old 
+- 1256
+: 1259 6 4 And 
+: 1268 2 4 we 
+: 1271 2 3 all
+: 1274 6 4 ~ 
+: 1285 7 1 lose 
+: 1294 7 -1 our 
+: 1304 11 -3 charms 
+: 1321 4 -4 in 
+: 1329 4 -3 the 
+: 1335 22 -1 end 
+- 1367
+: 1397 5 -8 But 
+: 1409 9 -3 square-
+: 1422 7 -8 cut 
+: 1433 7 -3 or 
+: 1442 10 1 pear–
+: 1455 7 -3 shaped 
+- 1466
+: 1468 6 1 These 
+: 1476 10 4 rocks 
+: 1491 7 1 don’t 
+: 1500 4 4 lose 
+: 1509 11 8 their 
+: 1523 9 6 shape 
+- 1541
+: 1544 8 9 Dia
+: 1553 7 6 monds 
+: 1563 7 2 are 
+: 1571 4 -1 a 
+: 1577 17 6 girl’s 
+: 1597 9 -4 best 
+: 1612 16 -3 friend 
+- 1654
+F 1714 4 0 Tif
+F 1719 2 0 fa
+F 1722 5 0 ny’s 
+- 1780
+F 1850 5 0 Car
+F 1857 6 0 tier 
+- 1889
+F 1949 6 0 Black 
+F 1968 9 0 Starr 
+- 1983
+F 1986 6 0 Frost 
+F 2002 5 0 Gor
+F 2008 8 0 ham 
+- 2018
+F 2020 3 0 Talk 
+F 2025 2 0 to 
+F 2028 2 0 me 
+F 2032 3 0 Har
+F 2036 2 0 ry 
+F 2040 2 0 Wins
+F 2045 2 0 ton 
+- 2050
+: 2052 6 5 Tell 
+: 2060 2 5 me 
+: 2064 3 4 all 
+: 2068 2 4 a
+: 2072 4 5 bout 
+: 2078 3 2 it 
+- 2134
+: 2221 6 -3 There 
+: 2230 13 -3 may 
+: 2247 5 -8 come 
+: 2253 4 -3 a 
+: 2261 16 1 time 
+: 2279 6 -3 when 
+: 2287 5 1 a 
+- 2301
+: 2305 8 4 Lass 
+: 2316 5 4 needs 
+: 2324 6 3 a 
+: 2332 8 6 law
+: 2343 12 4 yer 
+- 2357
+: 2359 3 4 But 
+: 2366 7 4 dia
+: 2376 6 1 monds 
+: 2385 6 -3 are 
+: 2393 4 -6 a 
+: 2401 11 -8 girl’s 
+: 2419 10 -3 best 
+: 2434 15 -4 friend 
+- 2459
+: 2496 6 -6 There 
+: 2505 15 -1 may 
+: 2522 5 -6 come 
+: 2528 3 -1 a 
+: 2536 18 2 time 
+: 2556 5 -1 when 
+: 2563 5 2 a 
+- 2577
+: 2580 7 6 Hard-
+: 2589 8 6 boiled 
+: 2599 5 5 em
+: 2607 8 8 ploy
+: 2616 4 6 er 
+- 2624
+: 2626 5 2 Thinks 
+: 2635 4 1 you
+: 2640 2 -1 ~’re 
+: 2644 4 -1 aw
+: 2649 3 -2 ~
+: 2656 6 -1 ful
+: 2663 3 -2 ~ 
+: 2668 4 -2 nice
+: 2673 18 -1 ~ 
+- 2698
+: 2701 5 -3 But 
+: 2710 5 -6 get 
+: 2719 3 -6 that
+: 2723 2 -7 ~ 
+: 2728 6 -6 ice 
+: 2737 6 -8 or 
+: 2746 5 1 else 
+: 2755 6 0 no 
+: 2764 6 1 dice 
+- 2780
+: 2792 14 4 He’s 
+: 2809 7 3 your 
+: 2819 3 3 guy
+: 2823 18 4 ~ 
+- 2843
+: 2845 4 1 When 
+: 2856 6 2 stocks 
+: 2870 9 1 are 
+: 2882 3 1 high
+: 2886 13 2 ~ 
+- 2907
+: 2910 5 4 But 
+: 2917 3 3 be
+: 2921 9 4 ware 
+: 2937 6 1 when 
+: 2946 3 -1 they 
+: 2955 9 -3 start 
+: 2973 6 -4 to 
+: 2980 5 -3 de
+: 2989 27 -1 scend 
+- 3026
+: 3052 3 -8 It’s 
+: 3060 15 -3 then 
+: 3077 4 -8 that 
+: 3085 6 -3 those 
+: 3094 12 1 lou
+: 3110 7 -3 ses 
+- 3119
+: 3121 5 2 Go 
+: 3130 12 4 back 
+: 3147 5 2 to 
+: 3153 6 4 their 
+: 3163 4 7 spou
+: 3168 8 8 ~
+: 3179 14 6 ses 
+- 3195
+: 3197 9 9 Dia
+: 3208 6 6 monds 
+: 3217 4 2 are 
+: 3225 6 -1 a 
+: 3234 12 6 girl’s 
+: 3250 8 -4 best 
+: 3266 19 -3 friend 
+- 3338
+: 3533 8 -3 I’ve 
+: 3544 10 -2 heard 
+: 3562 4 -7 of 
+: 3569 4 -2 af
+: 3578 12 2 fairs 
+- 3593
+: 3595 6 -2 That 
+: 3603 5 2 are 
+: 3618 7 5 strict
+: 3627 4 5 ly 
+: 3636 3 4 pla
+: 3644 8 7 to
+: 3653 6 5 nic 
+- 3668
+: 3672 5 5 But 
+: 3681 9 5 dia
+: 3692 5 2 monds 
+: 3699 4 -2 are 
+: 3705 5 -5 a 
+: 3714 12 -7 girl’s 
+: 3730 8 -2 best 
+: 3746 24 -3 friend 
+- 3780
+: 3805 6 -5 And 
+: 3813 10 0 I 
+: 3832 4 -5 think 
+: 3839 3 0 af
+: 3847 12 3 fairs 
+- 3863
+: 3865 6 0 That 
+: 3873 6 3 you 
+: 3890 5 7 must 
+: 3899 5 7 keep 
+: 3907 5 6 liai
+: 3916 8 9 so
+: 3925 5 7 nic 
+- 3939
+: 3942 4 4 Are 
+: 3951 5 0 bet
+: 3957 4 0 ter 
+: 3967 6 0 bets 
+- 3983
+: 4008 6 -2 If 
+: 4019 4 -5 lit
+: 4024 3 -5 tle 
+: 4035 5 -5 pets 
+: 4044 5 -7 get 
+: 4053 6 2 big 
+: 4061 7 2 ba
+: 4071 6 2 guettes 
+- 4087
+: 4096 14 5 Time 
+: 4112 7 4 rolls 
+: 4121 24 5 on 
+- 4155
+: 4164 5 3 And 
+: 4172 7 3 youth 
+: 4182 5 2 is 
+: 4191 16 3 gone 
+- 4211
+: 4213 7 5 And 
+: 4221 3 2 you 
+: 4225 8 5 can’t 
+: 4240 7 2 straigh
+: 4249 4 0 ten 
+: 4257 6 -2 up 
+: 4275 7 -3 when 
+: 4283 5 -2 you 
+: 4292 25 0 bend 
+- 4327
+: 4353 5 -7 But 
+: 4363 8 -2 stiff 
+: 4378 7 -7 back 
+: 4387 5 -2 or 
+: 4398 6 2 stiff 
+: 4410 7 -2 knees 
+- 4419
+: 4421 4 3 You 
+: 4431 11 5 stand 
+: 4447 8 2 straight 
+: 4457 9 5 at 
+: 4502 38 9 Tif
+: 4548 2 9 fa
+: 4551 48 7 ny’s 
+- 4652
+* 4743 11 10 Dia
+* 4756 45 7 monds 
+- 4827
+* 4884 16 10 Dia
+* 4901 49 6 monds 
+- 4976
+* 5037 24 5 I 
+: 5065 12 4 don’t 
+: 5085 8 5 mean 
+: 5100 12 9 rhine
+: 5116 25 7 stones 
+- 5153
+: 5157 11 9 But 
+: 5172 11 10 dia
+: 5186 37 7 monds 
+- 5233
+* 5257 17 14 Are 
+* 5276 4 17 a 
+: 5283 15 14 girl’s 
+: 5302 8 10 best 
+- 5336
+: 5416 6 5 Best 
+* 5427 24 10 friend 
+E

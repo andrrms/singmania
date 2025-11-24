@@ -1,0 +1,226 @@
+#ARTIST:Disney’s Frozen
+#TITLE:Do You Want To Build A Snowman?
+#MP3:Disney’s Frozen - Do You Want To Build A Snowman?.mp3
+#CREATOR:Fepo
+#GENRE:Soundtrack
+#YEAR:2013
+#LANGUAGE:English
+#BPM:300
+#GAP:9360
+#VIDEO:v=TeQ_TTyLGMs,co=frozen-677ade05749ed.jpg,bg=frozen-55cb7d70d9a6e.jpg
+: 0 2 3 Do 
+: 4 2 3 you 
+: 8 2 3 wan
+: 12 2 -2 na 
+: 16 2 3 build 
+: 20 2 7 a 
+: 25 6 5 snow
+: 33 19 7 man? 
+- 54
+: 68 2 3 Come 
+: 72 4 3 on, 
+: 78 2 -2 let’s 
+: 82 2 3 go 
+: 85 2 7 and 
+: 89 20 5 play 
+- 111
+: 134 2 3 I 
+: 139 3 3 ne
+: 144 2 -2 ver 
+: 148 4 3 see 
+: 153 2 7 you 
+: 156 2 8 a
+: 160 2 7 ny
+: 164 5 3 more 
+- 171
+: 177 2 3 Come 
+: 181 2 8 out 
+: 185 2 7 the 
+: 188 5 3 door 
+- 195
+: 201 2 3 It’s 
+: 205 2 3 like 
+: 209 2 -2 you’ve 
+: 213 2 3 gone 
+: 218 2 7 a
+: 221 23 10 way 
+- 246
+: 264 2 10 We 
+: 268 2 10 used 
+: 272 2 8 to 
+: 276 2 7 be 
+: 279 3 8 best 
+: 285 3 10 bud
+: 290 3 3 dies 
+- 295
+: 313 2 3 And 
+: 317 5 5 now 
+: 326 2 7 we’re 
+: 330 7 3 not 
+- 339
+: 346 2 5 I 
+: 350 3 7 wish 
+: 355 5 5 you 
+: 362 2 3 would 
+: 366 5 5 tell 
+: 374 5 7 me 
+: 381 27 12 why 
+- 410
+: 426 2 3 Do 
+: 430 2 3 you 
+: 434 2 3 wan
+: 438 2 -2 na 
+: 442 2 3 build 
+: 445 2 7 a 
+: 450 6 5 snow
+: 458 19 7 man? 
+- 479
+: 484 2 3 It 
+: 487 2 3 doe
+: 491 2 3 sn’t 
+: 495 3 3 have 
+: 500 2 -2 to 
+: 503 2 3 be 
+: 507 2 7 a 
+: 511 7 5 snow
+: 520 28 3 man 
+- 550
+: 576 4 3 O
+: 582 8 2 kay 
+: 593 31 3 bye 
+- 626
+: 957 2 3 Do 
+: 961 2 3 you 
+: 965 2 3 wan
+: 969 2 -2 na 
+: 973 2 3 build 
+: 976 2 7 a 
+: 981 6 5 snow
+: 989 19 7 man? 
+- 1010
+: 1015 2 3 Or 
+: 1019 2 3 ride 
+: 1023 2 3 our 
+: 1026 3 3 bike 
+: 1031 2 -2 a
+: 1034 2 3 round 
+: 1038 2 7 the 
+: 1042 11 5 halls? 
+- 1055
+: 1077 2 3 I 
+: 1080 2 3 think 
+: 1084 2 3 some 
+: 1088 2 3 com
+: 1092 3 -2 pa
+: 1097 2 3 ny 
+: 1100 2 7 is 
+: 1104 2 8 o
+: 1108 2 7 ver
+: 1112 5 3 due... 
+- 1119
+: 1121 2 -2 I’ve 
+: 1125 4 3 star
+: 1131 2 7 ted 
+: 1134 3 8 tal
+: 1139 2 7 king 
+: 1142 2 3 to 
+: 1146 2 3 the 
+: 1149 3 3 pic
+: 1153 2 -2 tures 
+: 1157 2 3 on 
+: 1161 2 10 the 
+* 1165 11 10 walls 
+- 1178
+: 1205 2 10 It 
+: 1209 2 10 gets 
+: 1213 2 8 a 
+: 1216 2 7 lit
+: 1220 2 8 tle 
+: 1224 4 10 lone
+: 1230 8 3 ly 
+- 1240
+: 1246 2 -2 All 
+: 1250 2 3 these 
+: 1253 4 5 emp
+: 1259 4 7 ty 
+: 1265 7 3 rooms 
+- 1274
+: 1280 2 5 Just 
+: 1284 3 7 wat
+: 1290 3 5 ching 
+: 1295 2 3 the 
+* 1299 2 5 hou
+* 1303 2 5 rs 
+: 1307 5 7 tick 
+: 1314 22 12 by 
+- 1338
+: 2769 5 3 Please, 
+: 2780 2 -2 I 
+: 2784 4 3 know 
+: 2790 3 7 you’re 
+: 2795 6 5 in 
+: 2804 10 7 there 
+- 2816
+: 2844 2 3 Peo
+: 2847 2 3 ple 
+: 2850 2 3 are 
+: 2853 2 3 ask
+: 2857 3 -2 ing 
+: 2862 4 3 where 
+: 2867 2 7 you’ve 
+: 2874 7 5 been 
+- 2883
+: 2922 2 3 They 
+: 2926 2 3 say 
+: 2930 2 3 have 
+: 2936 3 3 cour
+: 2942 4 -2 age 
+- 2948
+: 2951 2 3 And 
+: 2954 2 7 I’m 
+: 2959 5 8 try
+: 2966 4 7 ing 
+: 2974 3 3 to 
+- 2979
+: 2994 2 -2 I’m 
+: 2997 3 3 right 
+: 3002 3 7 out 
+: 3007 3 8 here 
+: 3013 3 7 for 
+: 3019 4 3 you 
+- 3025
+: 3033 4 3 Just 
+: 3041 3 7 let 
+: 3046 4 3 me 
+: 3053 31 10 in 
+- 3086
+: 3098 2 10 We 
+: 3102 2 10 on
+: 3106 2 8 ly 
+: 3110 2 7 have 
+: 3114 2 8 each 
+: 3121 3 10 o
+: 3125 3 3 ther 
+- 3130
+: 3145 3 -2 It’s 
+: 3150 3 3 just 
+: 3156 6 5 you 
+: 3165 3 7 and 
+: 3170 6 3 me 
+- 3178
+: 3192 5 7 What 
+: 3199 4 5 are 
+: 3205 3 3 we 
+: 3210 7 5 gon
+: 3220 5 7 na 
+* 3229 51 12 do? 
+- 3282
+: 3353 3 3 Do 
+: 3358 3 3 you 
+: 3363 2 3 wan
+: 3367 2 -2 na 
+: 3370 3 3 build 
+: 3376 2 7 a 
+* 3381 7 5 snow
+* 3390 10 7 man? 
+E

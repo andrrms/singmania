@@ -1,0 +1,200 @@
+#ARTIST:OMD (Orchestral Manoeuvres In The Dark)
+#TITLE:Almost
+#MP3:OMD (Orchestral Manoeuvres In The Dark) - Almost.mp3
+#CREATOR:Sogaikan
+#COVER:OMD (Orchestral Manoeuvres In The Dark) - Almost [CO].jpg
+#BACKGROUND:OMD (Orchestral Manoeuvres In The Dark) - Almost [BG].jpg
+#GENRE:Electronic
+#YEAR:1980
+#LANGUAGE:English
+#BPM:300
+#GAP:33780
+#VIDEO:a=s0oGOVDMZOo,co=orchestral-manoeuvres-in-the-dark-527cbe02dcca9.jpg,bg=orchestral-manoeuvres-in-the-dark-59d4f35e3a878.jpg
+: 0 3 -5 I’d 
+: 4 4 -1 tra
+: 9 4 -1 vel 
+* 14 4 -1 oh 
+: 19 9 -1 so 
+: 29 11 0 fa
+* 41 4 -1 ~
+: 46 10 -5 ~r 
+- 58
+: 88 5 -1 To 
+: 94 4 -1 be 
+: 99 5 -1 where 
+: 105 9 -5 you 
+: 115 8 -5 a
+: 124 10 -3 ~re 
+- 136
+: 164 5 -5 I’d 
+: 170 5 -1 tra
+: 176 3 -1 vel 
+: 181 5 -1 there 
+: 187 7 -1 by 
+: 195 10 0 ca
+* 206 5 -1 ~
+: 212 10 -5 ~r 
+- 224
+: 252 6 -1 To 
+: 259 4 -1 be 
+: 264 6 -1 where 
+: 271 9 -5 you 
+: 281 8 -5 a
+: 290 10 -3 ~re 
+- 302
+: 331 7 -5 But 
+: 339 4 -1 if 
+: 344 3 -1 I 
+: 348 4 -1 get 
+: 353 4 -1 there 
+: 359 4 -1 I’d 
+: 364 8 0 fi
+* 373 4 -1 ~
+: 378 13 -5 ~nd 
+- 393
+: 420 5 -1 That 
+: 427 3 -1 I’d 
+: 431 5 -1 change 
+: 437 9 -5 my 
+: 448 9 -5 mi
+: 458 10 -3 ~nd 
+- 470
+: 503 4 -1 Hap
+: 508 6 -1 pens 
+: 515 4 -1 all 
+: 520 3 -1 the 
+: 529 9 0 ti
+* 539 5 2 ~
+: 545 10 -5 ~me 
+- 557
+: 586 4 -1 To 
+: 591 3 -1 a 
+: 596 7 -1 friend 
+: 604 7 -5 of 
+: 613 10 -5 mi
+: 624 10 -3 ~ne 
+- 636
+: 1333 4 -1 Al
+: 1338 4 -1 ways 
+: 1343 4 -1 ma
+: 1348 7 -1 king 
+: 1357 11 0 state
+: 1369 11 -1 ments 
+- 1382
+: 1408 6 -5 And 
+: 1415 3 -1 mo
+: 1419 3 -1 ving 
+: 1424 4 -1 step 
+: 1429 9 -5 by 
+: 1439 10 -3 ste
+* 1450 6 -1 ~
+: 1457 12 -5 ~p 
+- 1471
+: 1498 4 -1 Al
+: 1503 4 -1 ways 
+: 1508 5 -1 ac
+: 1514 7 -1 ting 
+: 1522 13 0 theo
+: 1536 24 -1 ries 
+- 1562
+: 1584 4 -1 I 
+: 1591 4 -1 will 
+: 1596 9 -5 re
+: 1606 7 -3 gre
+* 1614 6 -1 ~
+: 1621 16 -5 ~t 
+- 1639
+: 1658 4 -5 My 
+: 1663 6 -1 on
+: 1670 4 -1 ly 
+: 1675 8 -1 con
+: 1684 4 -1 so
+* 1689 8 0 la
+: 1698 16 -1 tion 
+- 1716
+: 1746 5 -1 In 
+: 1752 4 -1 the 
+: 1757 5 -1 things 
+: 1763 5 -5 that 
+: 1769 4 -5 I’ve 
+: 1774 7 -3 do
+* 1782 6 -1 ~
+: 1789 12 -5 ~ne 
+- 1803
+: 1830 4 -1 Are 
+: 1835 4 -1 the 
+: 1840 5 -1 peo
+: 1846 4 -1 ple 
+: 1851 4 -1 who 
+: 1856 10 0 know 
+: 1867 14 -1 me 
+- 1883
+: 1912 5 -1 And 
+: 1918 4 -1 the 
+: 1923 5 -1 ob
+: 1929 6 -5 jects 
+: 1936 3 -5 I 
+: 1940 8 -3 o
+* 1949 5 -1 ~
+: 1955 7 -5 ~wn 
+- 1964
+: 2989 5 -1 Hap
+: 2995 5 -1 pens 
+: 3001 6 -1 all 
+: 3008 7 -1 the 
+: 3016 8 0 ti
+* 3025 6 -1 ~
+: 3032 13 -5 ~me 
+- 3047
+: 3072 4 -1 To 
+: 3077 3 -1 a 
+: 3084 6 -1 friend 
+: 3091 6 -5 of 
+: 3099 9 -5 mi
+: 3109 9 -3 ~ne 
+- 3120
+: 3157 5 -1 Hap
+: 3163 5 -1 pens 
+: 3169 6 -1 all 
+: 3176 7 -1 the 
+: 3184 8 0 ti
+* 3193 6 -1 ~
+: 3200 13 -5 ~me 
+- 3215
+: 3239 4 -1 To 
+: 3244 3 -1 a 
+: 3251 6 -1 friend 
+: 3258 6 -5 of 
+: 3266 9 -5 mi
+: 3276 9 -3 ~ne 
+- 3287
+: 3319 5 -1 Hap
+: 3325 5 -1 pens 
+: 3331 6 -1 all 
+: 3338 7 -1 the 
+: 3346 8 0 ti
+* 3355 6 -1 ~
+: 3362 13 -5 ~me 
+- 3377
+: 3404 4 -1 To 
+: 3409 3 -1 a 
+: 3416 6 -1 friend 
+: 3423 6 -5 of 
+: 3431 9 -5 mi
+: 3441 9 -3 ~ne 
+- 3452
+: 3489 4 -1 Hap
+: 3494 5 -1 pens 
+: 3500 4 -1 all 
+: 3505 3 -1 the 
+: 3514 9 0 ti
+* 3524 5 2 ~
+* 3530 10 -5 ~me 
+- 3542
+F 3572 4 -1 To 
+F 3577 3 -1 a 
+F 3584 6 -1 friend 
+F 3591 6 -5 of 
+F 3599 9 -5 mi
+F 3609 9 -3 ~ne 
+E

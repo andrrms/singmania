@@ -1,0 +1,234 @@
+#ARTIST:Nirvana
+#TITLE:Something In The Way (MTV Unplugged)
+#MP3:Nirvana - Something In The Way (MTV Unplugged).mp3
+#CREATOR:promike
+#GENRE:Grunge
+#YEAR:1993
+#LANGUAGE:English
+#BPM:211.6
+#GAP:17810
+#VIDEO:v=1YhR5UfaAzM,co=mtv-unplugged-in-new-york-5949485e55c8a.jpg,bg=nirvana-54dc843050470.jpg,preview=54.18
+#START:8.5
+#END:208000
+: 0 3 5 Un
+: 4 3 5 der
+: 8 15 5 neath 
+: 24 3 5 the 
+: 28 16 5 bridge 
+- 46
+: 64 3 3 Tarp 
+: 68 3 5 has 
+: 72 11 5 sprung 
+: 84 7 5 a 
+: 92 16 5 leak 
+- 110
+: 112 3 3 And 
+: 116 4 1 the 
+: 128 3 3 a
+: 132 7 5 ni
+: 140 7 5 mals 
+: 148 7 5 I’ve 
+: 156 16 5 trapped 
+- 174
+: 188 3 0 Have 
+: 192 3 3 all 
+: 196 3 5 be
+: 200 7 5 come 
+: 208 7 5 my 
+: 216 16 5 pets 
+- 234
+: 240 3 3 And 
+: 244 8 1 I’m 
+: 256 3 3 li
+: 260 3 5 ving 
+: 264 7 5 off 
+: 272 7 5 of 
+: 280 16 5 grass 
+- 298
+: 304 3 3 And 
+: 308 4 1 the 
+: 320 3 3 drip
+: 324 7 5 pings 
+: 332 7 5 from 
+: 340 3 5 the 
+: 344 19 5 cei
+: 364 12 3 ling 
+- 378
+: 384 3 3 It’s 
+: 388 7 5 o
+: 396 7 5 kay 
+: 404 3 5 to 
+: 408 3 5 eat 
+: 412 16 5 fish 
+- 430
+: 432 3 3 ’Cause 
+: 436 8 1 they 
+: 448 3 3 don’t 
+: 452 7 5 have 
+: 460 7 5 a
+: 468 7 5 ny 
+: 476 15 5 fee
+: 492 16 3 lings 
+- 510
+: 512 3 10 Some
+: 516 11 12 thing 
+: 528 7 12 in 
+: 536 3 12 the 
+: 540 16 13 way, 
+: 576 31 12 mmm 
+: 608 24 8 mmm 
+- 634
+: 640 3 10 Some
+: 644 11 12 thing 
+: 656 7 12 in 
+: 664 3 12 the 
+: 668 12 8 way, 
+: 692 8 5 yeah, 
+: 708 27 12 mmm 
+: 736 28 8 mmm 
+- 766
+: 768 3 10 Some
+: 772 11 12 thing 
+: 784 7 12 in 
+: 792 3 12 the 
+: 796 16 13 way, 
+: 832 27 12 mmm 
+: 860 28 8 mmm 
+- 890
+: 896 3 10 Some
+: 900 11 12 thing 
+: 912 7 12 in 
+: 920 3 12 the 
+: 924 12 8 way, 
+: 944 8 5 yeah, 
+: 960 27 12 mmm 
+: 988 44 8 mmm 
+- 1034
+: 1064 3 5 Un
+: 1068 7 5 der
+: 1076 11 5 neath 
+: 1088 3 5 the 
+: 1092 12 5 bridge 
+- 1106
+: 1128 3 3 Tarp 
+: 1132 3 5 has 
+: 1136 11 5 sprung 
+: 1148 3 5 a 
+: 1152 16 5 leak 
+- 1170
+: 1176 3 3 And 
+: 1180 4 1 the 
+: 1188 3 3 a
+: 1192 7 5 ni
+: 1200 7 5 mals 
+: 1208 7 5 I’ve 
+: 1216 12 5 trapped 
+- 1230
+: 1248 3 0 Have 
+: 1252 3 3 all 
+: 1256 3 5 be
+: 1260 7 5 come 
+: 1268 7 5 my 
+: 1276 16 5 pets 
+- 1294
+: 1300 3 3 And 
+: 1304 8 1 I’m 
+: 1316 3 3 li
+: 1320 3 5 ving 
+: 1324 7 5 off 
+: 1332 7 5 of 
+: 1340 12 5 grass 
+- 1354
+: 1364 3 3 And 
+: 1368 4 1 the 
+: 1380 3 3 drip
+: 1384 3 5 pings 
+: 1388 7 5 from 
+: 1396 7 5 the 
+: 1404 15 5 cei
+: 1420 16 3 ling 
+- 1438
+: 1444 3 3 It’s 
+: 1448 3 5 o
+: 1452 7 5 kay 
+: 1460 3 5 to 
+: 1464 7 5 eat 
+: 1472 12 5 fish 
+- 1486
+: 1492 3 3 ’Cause 
+: 1496 4 1 they 
+: 1508 3 3 don’t 
+: 1512 7 5 have 
+: 1520 7 5 a
+: 1528 7 5 ny 
+: 1536 15 5 fee
+: 1552 12 3 lings 
+- 1566
+: 1572 3 10 Some
+: 1576 11 12 thing 
+: 1588 7 12 in 
+: 1596 3 12 the 
+: 1600 12 13 way, 
+: 1636 27 12 mmm 
+: 1664 28 8 mmm 
+- 1694
+: 1700 3 10 Some
+: 1704 11 12 thing 
+: 1716 7 12 in 
+: 1724 3 12 the 
+: 1728 12 8 way, 
+: 1748 8 5 yeah, 
+: 1764 27 12 mmm 
+: 1792 24 8 mmm 
+- 1818
+: 1824 3 10 Some
+: 1828 11 12 thing 
+: 1840 7 12 in 
+: 1848 3 12 the 
+: 1852 16 13 way, 
+: 1888 27 12 mmm 
+: 1916 28 8 mmm 
+- 1946
+: 1952 3 10 Some
+: 1956 11 12 thing 
+: 1968 7 12 in 
+: 1976 3 12 the 
+: 1980 12 8 way 
+: 2000 8 5 yeah, 
+: 2016 27 12 mmm 
+: 2044 28 8 mmm 
+- 2074
+: 2080 3 10 Some
+: 2084 11 12 thing 
+: 2096 7 12 in 
+: 2104 3 12 the 
+: 2108 12 13 way, 
+: 2144 27 12 mmm 
+: 2172 28 8 mmm 
+- 2202
+: 2208 3 10 Some
+: 2212 11 12 thing 
+: 2224 7 12 in 
+: 2232 3 12 the 
+: 2236 12 8 way, 
+: 2256 8 5 yeah,
+: 2272 27 12 mmm 
+: 2300 28 8 mmm 
+- 2330
+: 2336 3 10 Some
+: 2340 11 12 thing 
+: 2352 7 12 in 
+: 2360 3 12 the 
+: 2364 12 13 way, 
+: 2400 27 12 mmm 
+: 2428 28 8 mmm 
+- 2458
+: 2464 3 10 Some
+: 2468 11 12 thing 
+: 2480 7 12 in 
+: 2488 3 12 the 
+: 2492 12 8 way, 
+: 2512 8 5 yeah, 
+: 2528 30 12 mmm 
+: 2560 36 8 mmm 
+E

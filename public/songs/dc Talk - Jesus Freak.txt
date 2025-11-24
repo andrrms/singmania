@@ -1,0 +1,654 @@
+#ARTIST:dc Talk
+#TITLE:Jesus Freak
+#MP3:dc Talk - Jesus Freak.mp3
+#CREATOR:mindtakerr
+#COVER:dc Talk - Jesus Freak [CO].jpg
+#BACKGROUND:dc Talk - Jesus Freak [BG].jpg
+#GENRE:Alternative
+#YEAR:1995
+#LANGUAGE:English
+#BPM:207.6
+#GAP:31000
+#VIDEO:v=kbB0QrBIs9k,co=jesus-freak-4f6527d085248.jpg,bg=-4f6527ab57404.jpg,tags=skydaddy
+: 0 3 0 Sep
+: 5 1 0 a
+: 8 1 0 rat
+: 12 5 0 ed, 
+: 20 1 0 I 
+: 23 1 0 cut 
+: 27 1 10 my
+: 31 1 7 self 
+: 35 8 10 clean 
+- 44
+: 46 3 5 From 
+: 50 2 7 a 
+: 55 6 8 past 
+: 62 3 8 that 
+: 66 4 7 comes 
+: 71 5 8 back 
+: 78 2 8 in 
+: 81 4 8 my 
+: 86 3 10 dark
+: 90 1 10 est 
+: 93 2 5 of 
+: 97 15 2 dreams 
+- 119
+: 122 4 0 Been 
+: 127 2 0 ap
+: 130 3 0 pre
+: 134 3 0 hend
+: 138 2 0 ed 
+: 141 3 0 by 
+: 145 3 0 a 
+: 149 4 0 spir
+: 154 2 10 i
+: 157 6 8 tual 
+: 164 7 10 force 
+- 174
+: 176 3 7 And 
+: 180 3 7 a 
+: 184 6 7 grace 
+: 191 3 3 that 
+: 195 4 5 re
+: 200 4 8 placed 
+: 208 2 8 all 
+: 211 2 8 the 
+: 214 4 10 me 
+: 219 3 0 I’ve 
+: 223 3 10 di
+: 227 11 0 vorced 
+- 238
+R 240 1 0 I 
+R 242 1 0 saw 
+R 244 1 0 a 
+R 246 3 0 man 
+R 250 1 0 with 
+R 252 1 0 a 
+R 254 3 0 tat 
+R 258 1 0 on 
+R 260 1 0 his 
+R 262 2 0 big 
+R 265 3 0 fat 
+R 269 2 0 bel
+R 272 1 0 ly 
+- 273
+R 274 4 0 It 
+R 279 1 0 wig
+R 281 1 0 gled 
+R 283 1 0 a
+R 285 4 0 round 
+R 290 2 0 like 
+R 294 1 0 mar
+R 296 1 0 ma
+R 298 3 0 lade 
+R 302 1 0 jel
+R 304 2 0 ly 
+- 306
+R 307 2 0 It 
+R 310 3 0 took 
+R 314 1 0 me 
+R 316 1 0 a 
+R 318 3 0 while 
+R 322 1 0 to 
+R 324 3 0 catch 
+R 328 1 0 what 
+R 330 1 0 it 
+R 332 1 0 said 
+- 336
+G 338 1 0 ’Cause 
+G 340 1 0 I 
+G 343 1 0 had 
+G 345 1 0 to 
+G 347 1 0 match 
+G 349 1 0 the 
+G 351 1 0 rhy
+G 353 1 0 thm 
+G 355 1 0 of 
+G 357 1 0 his 
+G 359 1 0 bel
+G 361 1 0 ly 
+G 363 1 0 with 
+G 365 1 0 my 
+G 367 4 0 head 
+- 372
+R 374 1 0 “Je
+R 376 4 0 sus 
+R 381 4 0 Saves” 
+R 386 2 0 is 
+R 389 2 0 what 
+R 392 1 0 it 
+R 395 5 0 raved 
+- 400
+R 402 1 0 In 
+R 404 1 0 a 
+R 406 1 0 typ
+R 408 1 0 i
+R 410 1 0 cal 
+R 412 3 0 tat
+R 417 3 0 too 
+R 421 7 0 green 
+- 430
+R 432 3 0 He 
+R 437 3 0 stood 
+R 441 1 0 on 
+R 443 1 0 a 
+R 445 4 0 box 
+R 450 1 0 in 
+R 452 1 0 the 
+R 454 1 0 mid
+R 456 1 0 dle 
+R 458 1 0 of 
+R 460 1 0 the 
+R 462 1 0 ci
+R 464 1 0 ty 
+- 465
+G 466 1 0 And 
+G 468 1 0 he 
+G 470 2 0 claimed 
+G 473 2 0 he 
+G 476 2 0 had 
+G 479 1 0 a 
+G 481 17 0 dream 
+- 498
+: 500 4 5 What 
+: 505 3 5 will 
+: 509 3 5 peo
+: 513 2 3 ple 
+: 517 3 3 think
+: 521 2 0 ~ 
+- 523
+: 524 4 0 When 
+: 529 3 3 they 
+: 533 3 3 hear 
+: 537 1 3 that 
+: 539 3 3 I’m 
+: 543 1 5 a 
+: 545 5 5 Je
+: 551 4 0 sus 
+: 556 5 0 freak 
+- 562
+: 564 3 5 What 
+: 568 4 5 will 
+: 573 2 5 peo
+: 577 1 3 ple 
+: 580 3 3 do
+: 584 3 0 ~ 
+: 588 3 0 when 
+: 592 2 3 they 
+: 596 3 3 find 
+: 600 3 10 that 
+: 604 2 5 it’s 
+: 608 11 0 true 
+- 625
+: 628 3 3 I 
+: 632 3 5 don’t 
+: 636 3 5 real
+: 641 2 3 ly 
+: 644 6 3 care 
+: 652 3 0 if 
+: 656 3 3 they 
+: 660 3 3 la
+: 664 3 3 bel 
+: 668 3 3 me 
+: 672 1 3 a 
+: 674 5 0 Je
+: 680 2 0 sus 
+: 684 5 0 freak 
+- 690
+: 692 3 5 There 
+: 696 3 5 ain’t 
+: 700 3 5 no 
+: 704 2 3 dis
+: 708 2 3 guis
+: 712 2 0 ing 
+: 716 2 3 the 
+: 719 12 3 truth 
+- 741
+: 755 3 10 There 
+: 759 3 0 ain’t 
+: 763 4 0 no 
+: 768 2 5 dis
+: 772 2 10 guis
+: 775 3 0 ing 
+: 779 2 5 the 
+: 783 6 10 truth
+: 791 7 0 ~ 
+- 810
+: 814 4 0 No, 
+: 820 3 0 I 
+: 824 2 8 ain’t 
+: 827 2 8 in
+: 831 2 0 to 
+: 835 5 0 hid
+: 843 11 0 ing~ 
+- 864
+: 874 4 7 The 
+: 879 3 8 truth
+: 883 6 5 ~ 
+- 889
+: 891 3 10 Ka
+: 895 3 0 mi
+: 899 3 0 ka
+: 903 7 0 ze, 
+: 911 3 0 my 
+: 915 3 0 death 
+: 919 3 10 is
+: 923 3 0 ~ 
+: 927 8 10 gain 
+- 936
+: 938 3 5 I’ve 
+: 942 3 7 been 
+: 947 5 8 marked 
+: 955 2 10 by 
+: 959 3 3 my 
+: 963 2 8 Mak
+: 966 3 8 er 
+- 969
+: 971 3 8 A 
+: 975 3 8 pe
+: 979 3 7 cu
+: 983 2 3 liar 
+: 987 2 10 dis
+: 990 5 5 play 
+- 1005
+: 1013 4 2 The 
+: 1018 3 10 high 
+: 1022 2 0 and 
+: 1026 2 0 loft
+: 1029 6 0 y, 
+: 1037 3 0 they 
+: 1041 3 0 see 
+: 1045 3 0 me 
+: 1049 2 7 as 
+: 1053 3 0 weak
+: 1057 6 3 ~ 
+- 1064
+: 1066 1 2 ’Cause 
+: 1070 1 3 I 
+: 1074 4 5 won’t 
+: 1082 1 5 live 
+: 1086 1 5 and 
+: 1090 7 8 die 
+: 1102 1 8 for 
+: 1104 1 8 the 
+: 1106 1 10 pow
+: 1110 1 8 er 
+: 1114 1 10 they 
+: 1121 1 10 seek
+: 1126 4 10 ~ 
+- 1130
+R 1131 1 0 There 
+R 1133 1 0 was 
+R 1135 1 0 a 
+R 1137 3 0 man 
+R 1141 1 0 from 
+R 1143 1 0 the 
+R 1145 1 0 de
+R 1147 2 0 sert 
+- 1149
+R 1150 3 0 With 
+R 1154 3 0 naps 
+R 1158 1 0 in 
+R 1160 2 0 his 
+R 1163 2 0 head 
+- 1165
+R 1166 1 0 The 
+R 1168 3 0 sand 
+R 1172 1 0 that 
+R 1174 2 0 he 
+R 1177 3 0 walked 
+R 1181 1 0 was 
+R 1183 3 0 al
+R 1187 1 0 so 
+R 1189 2 0 his 
+R 1192 4 0 bed 
+- 1196
+R 1197 2 0 The 
+R 1200 3 0 words 
+R 1204 1 0 that 
+R 1206 2 0 he 
+R 1209 3 0 spoke 
+R 1213 1 0 made 
+R 1215 1 0 the 
+R 1217 2 0 peo
+R 1220 1 0 ple 
+R 1222 1 0 as
+R 1224 2 0 sume 
+- 1226
+R 1227 1 0 There 
+R 1229 1 0 was
+R 1231 1 0 n’t 
+R 1233 1 0 too 
+R 1235 3 0 much 
+R 1239 5 0 left 
+R 1245 1 0 in 
+R 1247 1 0 the 
+R 1249 1 0 up
+R 1251 1 0 per 
+R 1253 5 0 room 
+- 1259
+R 1261 3 0 With 
+R 1265 2 0 skins 
+R 1269 1 0 on 
+R 1271 1 0 his 
+R 1273 2 0 back 
+R 1276 3 -2 and 
+R 1280 3 0 hair 
+R 1284 1 0 on 
+R 1286 1 0 his 
+R 1289 4 0 face 
+- 1293
+G 1295 1 0 They 
+G 1297 1 0 thought 
+G 1299 1 0 he 
+G 1301 1 0 was 
+G 1303 5 0 strange 
+G 1309 1 0 by 
+G 1311 1 0 the 
+G 1313 1 0 lo
+G 1315 1 0 custs 
+G 1317 1 0 he 
+G 1319 2 0 ate 
+- 1321
+R 1323 1 0 You 
+R 1325 1 0 see 
+R 1327 1 0 the 
+R 1329 1 0 Phar
+R 1331 1 0 i
+R 1333 2 0 sees 
+R 1336 4 0 tripped 
+R 1341 1 0 when 
+R 1343 1 0 they 
+R 1345 1 0 heard 
+R 1347 1 0 him 
+R 1349 4 0 speak 
+- 1353
+G 1355 1 0 Un
+G 1357 1 0 til 
+G 1359 1 0 the 
+G 1361 2 0 king 
+G 1364 1 0 took 
+G 1366 1 0 the 
+G 1368 2 0 head 
+G 1371 1 0 of 
+G 1373 1 0 this 
+- 1374
+G 1375 4 0 Je
+G 1380 2 0 sus 
+G 1383 7 0 freak 
+- 1391
+: 1393 2 3 What 
+: 1397 2 5 will 
+: 1400 3 7 peo
+: 1404 2 3 ple 
+: 1408 3 3 think
+: 1412 2 0 ~ 
+- 1414
+: 1416 3 3 When 
+: 1420 3 3 they 
+: 1424 3 3 hear 
+: 1428 1 3 that 
+: 1430 3 3 I’m 
+: 1434 1 5 a 
+: 1436 6 0 Je
+: 1443 4 0 sus 
+: 1448 5 0 freak 
+- 1454
+: 1456 4 5 What 
+: 1461 2 7 will 
+: 1464 3 5 peo
+: 1468 2 3 ple 
+: 1472 3 3 do
+: 1476 3 0 ~ 
+: 1480 2 0 when 
+: 1484 2 3 they 
+: 1488 3 3 find 
+: 1492 2 10 that 
+: 1496 2 0 it’s 
+: 1499 13 0 true 
+- 1517
+: 1519 4 5 I 
+: 1524 3 5 don’t 
+: 1528 4 5 real
+: 1533 2 7 ly 
+: 1536 8 0 care 
+: 1545 2 8 if 
+: 1548 3 3 they 
+: 1552 3 3 la
+: 1556 3 3 bel 
+: 1560 3 5 me 
+: 1564 1 0 a 
+: 1566 5 0 Je
+: 1572 3 0 sus 
+: 1576 5 0 freak 
+- 1581
+: 1583 3 3 There 
+: 1587 4 5 ain’t 
+: 1592 3 5 no 
+: 1596 3 3 dis
+: 1600 2 3 guis
+: 1604 2 3 ing 
+: 1607 2 2 the 
+: 1611 11 3 truth 
+- 1632
+: 1644 2 0 No 
+: 1647 3 0 I 
+: 1651 3 5 ain’t 
+: 1655 3 5 in
+: 1659 3 8 to 
+: 1663 11 7 hid
+: 1675 35 3 in 
+- 1737
+: 1773 5 7 Peo
+: 1779 3 0 ple 
+: 1783 3 5 say 
+: 1787 2 7 I’m 
+: 1791 7 7 strange, 
+: 1799 3 5 does 
+: 1803 6 8 it 
+: 1811 2 10 make 
+: 1815 2 10 me 
+: 1818 2 7 a 
+: 1821 7 7 strang
+: 1829 5 5 er 
+- 1834
+: 1836 3 10 That 
+: 1840 5 5 my 
+: 1847 6 7 best 
+: 1855 6 7 friend 
+: 1862 3 5 was 
+: 1866 4 8 born
+: 1871 6 10 ~ 
+: 1879 3 10 in 
+: 1883 2 8 a 
+: 1886 7 7 mang
+: 1894 6 5 er 
+- 1900
+: 1902 3 5 Peo
+: 1906 3 5 ple 
+: 1910 2 5 say 
+: 1914 1 7 I’m 
+: 1918 7 7 strange, 
+: 1927 2 0 does 
+: 1930 6 8 it 
+: 1938 3 10 make 
+: 1942 2 10 me 
+: 1946 2 7 a 
+: 1950 6 8 strang
+: 1958 4 8 er 
+- 1962
+: 1963 3 3 That 
+: 1967 5 5 my 
+: 1974 6 7 best 
+: 1982 7 8 friend 
+: 1991 1 5 was 
+: 1993 4 8 born
+: 1998 7 10 ~ 
+: 2006 3 10 in 
+: 2010 2 7 a 
+: 2014 6 8 mang
+: 2022 40 0 er 
+- 2089
+: 2316 3 5 What 
+: 2320 3 5 will 
+: 2324 3 5 peo
+: 2328 2 3 ple 
+: 2331 3 3 think
+: 2335 3 8 ~ 
+- 2338
+: 2340 3 3 When 
+: 2344 2 3 they 
+: 2347 3 3 hear 
+: 2351 1 3 that 
+: 2353 3 3 I’m 
+: 2357 1 5 a 
+: 2359 6 3 Je
+: 2366 3 0 sus 
+: 2371 5 0 freak 
+- 2377
+: 2379 3 3 What 
+: 2383 3 5 will 
+: 2387 3 5 peo
+: 2391 2 3 ple 
+: 2395 7 0 do 
+: 2404 2 0 when 
+: 2407 3 3 they 
+: 2411 3 10 find 
+: 2415 3 10 that 
+: 2419 2 0 it’s 
+: 2423 12 0 true 
+- 2441
+: 2443 4 5 I 
+: 2448 2 5 don’t 
+: 2451 3 5 real
+: 2455 2 3 ly 
+: 2458 8 3 care 
+: 2467 3 0 if 
+: 2471 2 3 they 
+: 2474 3 3 la
+: 2478 3 3 bel 
+: 2482 3 3 me 
+: 2486 2 5 a 
+: 2489 5 0 Je
+: 2495 3 0 sus 
+: 2499 4 0 freak 
+- 2504
+: 2506 4 3 There 
+: 2511 3 5 ain’t 
+: 2515 3 5 no 
+: 2519 2 3 dis
+: 2522 3 3 guis
+: 2526 3 0 ing 
+: 2530 2 3 the 
+: 2534 11 3 truth 
+- 2555
+: 2570 3 5 What 
+: 2574 4 5 will 
+: 2579 3 5 peo
+: 2583 2 2 ple 
+: 2586 3 7 think
+: 2590 3 3 ~ 
+- 2593
+: 2595 3 3 When 
+: 2599 3 3 they 
+: 2603 3 3 hear 
+: 2607 1 3 that 
+: 2609 2 3 I’m 
+: 2612 1 5 a 
+: 2615 6 3 Je
+: 2622 4 0 sus 
+: 2627 4 0 freak 
+- 2632
+: 2634 3 5 What 
+: 2638 3 5 will 
+: 2642 2 5 peo
+: 2646 2 3 ple 
+: 2649 8 7 do 
+: 2658 3 0 when 
+: 2662 3 3 they 
+: 2666 2 3 find 
+: 2669 4 10 that 
+: 2674 2 0 it’s 
+: 2677 3 0 true
+: 2681 3 0 ~
+: 2685 9 0 ~ 
+- 2696
+: 2698 3 3 I 
+: 2702 3 5 don’t 
+: 2706 3 5 real
+: 2710 3 3 ly 
+: 2714 7 3 care 
+: 2722 3 0 if 
+: 2726 2 3 they 
+: 2729 3 3 la
+: 2733 3 3 bel 
+: 2738 3 5 me 
+: 2742 1 10 a 
+: 2744 4 0 Je
+: 2750 2 0 sus 
+: 2753 5 0 freak 
+- 2759
+: 2761 4 5 There 
+: 2766 2 5 ain’t 
+: 2769 3 5 no 
+: 2773 4 3 dis
+: 2778 3 3 guis
+: 2782 2 3 ing 
+: 2786 1 8 the 
+: 2789 11 3 truth 
+- 2810
+: 2825 3 3 What 
+: 2829 3 5 will 
+: 2833 3 7 peo
+: 2837 2 7 ple 
+: 2840 4 7 think
+: 2845 7 3 ~ 
+- 2854
+: 2856 7 10 (What 
+: 2865 5 0 will 
+: 2872 7 7 peo
+: 2880 3 7 ple 
+: 2884 4 0 think) 
+- 2888
+: 2890 2 3 What 
+: 2893 3 5 will 
+: 2897 2 5 peo
+: 2901 2 7 ple 
+: 2904 3 7 do
+: 2908 4 3 ~ 
+- 2918
+: 2920 5 5 (What 
+: 2928 6 0 will 
+: 2936 6 0 peo
+: 2943 4 0 ple 
+: 2948 5 7 do) 
+- 2953
+: 2954 2 5 I 
+: 2957 3 5 don’t 
+: 2961 2 5 real
+: 2964 3 7 ly 
+: 2968 3 7 care
+: 2972 5 3 ~ 
+- 2981
+: 2983 7 10 (What 
+: 2992 5 0 else 
+: 3000 3 0 can 
+: 3004 5 3 I 
+: 3011 5 0 say) 
+- 3016
+: 3017 2 5 There 
+: 3020 3 5 ain’t 
+: 3024 2 5 no 
+: 3028 2 0 dis
+: 3032 2 5 guis
+: 3036 2 0 ing 
+: 3040 2 3 the 
+: 3043 7 3 truth 
+- 3051
+* 3053 2 0 (Je
+* 3056 2 7 sus 
+* 3059 6 0 is
+* 3066 5 0 ~ 
+* 3072 2 0 the 
+* 3075 14 8 way) 
+E

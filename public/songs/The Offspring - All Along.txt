@@ -1,0 +1,224 @@
+#ARTIST:The Offspring
+#TITLE:All Along
+#MP3:The Offspring - All Along.mp3
+#CREATOR:FaKK
+#EDITION:[SC]-Songs
+#YEAR:2000
+#LANGUAGE:English
+#BPM:366
+#GAP:12200
+#VIDEO:a=nTAN-8Cbfvg,co=conspiracy-of-one-5cec0eb9e99a6.jpg,bg=offspring-the-5363b88387398.jpg
+: 0 6 4 Deep 
+: 7 2 2 in
+: 10 6 4 side 
+: 19 3 2 se
+: 23 3 2 crets 
+: 28 4 4 bur
+: 33 10 7 ning 
+- 45
+: 61 2 4 I 
+: 64 7 4 should 
+: 72 4 2 have 
+: 77 4 4 known 
+: 82 7 4 all 
+: 90 2 2 the 
+: 93 8 4 while 
+: 102 5 4 what’s 
+: 109 8 2 true 
+- 119
+: 131 7 4 Went 
+: 139 2 2 a
+: 142 7 4 long, 
+: 155 2 2 to 
+: 158 4 4 fool 
+: 163 4 4 my
+: 171 8 4 self 
+- 181
+: 196 6 4 Can’t 
+: 204 3 2 go 
+: 209 7 4 on, 
+: 222 2 2 I 
+: 225 6 9 can’t 
+: 233 6 7 es
+* 240 6 11 cape 
+* 249 9 11 it 
+- 260
+: 262 6 11 All 
+: 270 2 7 a
+: 273 8 11 long 
+- 283
+: 293 9 9 Think 
+: 303 2 7 I 
+: 306 3 9 re
+: 310 3 11 ally 
+: 314 4 9 knew 
+- 320
+: 328 5 9 It 
+: 335 4 7 was 
+: 340 4 9 there 
+: 346 4 9 in 
+: 352 2 11 the 
+* 355 8 12 words 
+* 364 5 12 un
+: 372 8 11 spo
+: 381 10 11 ken 
+- 392
+: 392 6 11 All 
+: 400 2 7 a
+: 404 8 11 long 
+- 414
+: 423 7 9 Still 
+: 434 2 7 be
+: 437 3 9 lieved 
+: 441 3 11 in 
+: 445 4 9 you 
+- 451
+: 457 6 9 Now 
+: 465 3 7 I 
+: 469 4 9 leave 
+: 474 4 9 here 
+: 480 4 11 be
+* 485 3 12 tra
+* 489 4 12 yed 
+* 494 6 12 and 
+: 502 7 11 bro
+: 510 7 11 ken 
+- 519
+: 651 8 4 Close 
+: 660 4 2 my 
+: 665 6 4 eyes 
+: 672 5 4 from 
+: 678 3 2 the 
+: 682 2 4 burn
+: 685 10 7 ing 
+- 697
+: 719 6 4 All 
+: 726 2 2 a
+: 729 5 4 long, 
+: 736 5 4 all 
+: 742 2 2 the 
+: 745 8 4 while 
+: 755 5 4 it’s 
+: 761 6 2 true 
+- 769
+: 782 6 4 Take 
+: 791 3 2 it 
+: 796 6 4 on, 
+: 808 3 2 or 
+: 812 3 4 turn 
+: 816 5 4 your 
+: 824 8 4 back 
+- 834
+: 848 6 4 Ei
+: 855 3 2 ther 
+: 860 7 4 way, 
+: 873 2 2 you 
+: 876 6 9 can’t 
+: 886 5 7 es
+* 892 6 11 cape 
+* 901 10 11 it 
+- 912
+: 913 6 11 All 
+: 921 2 7 a
+: 925 8 11 long 
+- 935
+: 946 8 9 Think 
+: 955 2 7 I 
+: 958 4 9 re
+: 963 4 11 ally 
+: 968 5 9 knew 
+- 975
+: 980 6 9 It 
+: 988 3 7 was 
+: 993 4 9 there 
+: 998 3 9 in 
+: 1003 3 11 the 
+* 1007 8 12 words 
+* 1016 5 12 un
+: 1023 6 11 spo
+: 1031 6 11 ken 
+- 1039
+: 1043 6 11 All 
+: 1051 2 7 a
+: 1055 8 11 long 
+- 1065
+: 1076 8 9 Still 
+: 1085 3 7 be
+: 1089 4 9 lieved 
+: 1094 3 11 in 
+: 1098 4 9 you 
+- 1104
+: 1110 6 9 Now 
+: 1117 3 7 I 
+: 1121 4 9 leave 
+: 1126 4 9 here 
+: 1132 4 11 be
+* 1137 5 12 tra
+* 1143 3 12 yed 
+* 1147 5 12 and 
+: 1154 6 11 bro
+: 1162 6 11 ken 
+- 1170
+* 1435 27 7 Ohhh 
+* 1464 20 6 ohhh 
+* 1485 4 7 oh 
+* 1490 6 6 oh 
+* 1497 30 4 oh 
+- 1529
+* 1563 30 7 Ohhh 
+* 1595 20 6 ohhh 
+* 1616 3 7 oh 
+* 1620 6 6 oh 
+* 1627 16 4 oh 
+- 1645
+: 1696 6 11 All 
+: 1704 4 7 a
+: 1710 8 11 long 
+- 1720
+: 1728 9 9 Think 
+: 1738 2 7 I 
+: 1741 4 9 re
+: 1746 4 11 ally 
+: 1751 4 9 knew 
+- 1757
+: 1763 6 9 It 
+: 1770 4 7 was 
+: 1775 4 9 there 
+: 1781 4 9 in 
+: 1786 3 11 the 
+* 1790 7 12 words 
+* 1800 5 12 un
+: 1807 6 11 spo
+: 1815 6 11 ken 
+- 1823
+: 1827 5 11 All 
+: 1833 5 7 a
+: 1839 10 11 long 
+- 1851
+: 1857 8 9 Still 
+: 1867 2 7 be
+: 1870 4 9 lieved 
+: 1875 4 11 in 
+: 1880 4 9 you 
+- 1886
+: 1891 6 9 Now 
+: 1900 2 7 I 
+: 1903 5 9 leave 
+: 1909 5 9 here 
+: 1915 3 11 be
+* 1919 4 12 tra
+* 1924 4 12 yed 
+* 1929 5 12 and 
+: 1936 6 11 bro
+: 1944 6 11 ken 
+- 1952
+: 1958 6 9 All 
+: 1965 3 7 a
+: 1969 6 9 long, 
+: 1978 4 7 I 
+: 1985 5 9 still 
+: 1993 7 7 be
+: 2001 8 4 lieved 
+: 2011 5 2 in 
+: 2018 7 4 you 
+E

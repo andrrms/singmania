@@ -1,0 +1,222 @@
+#ARTIST:Roxy Music
+#TITLE:Love Is The Drug
+#MP3:Roxy Music - Love Is The Drug.mp3
+#CREATOR:bohning, Fepo
+#EDITION:SingStar Legends [ES|FR|UK]
+#YEAR:1975
+#LANGUAGE:English
+#BPM:247.35
+#GAP:44800
+#VIDEO:v=0n3OepDn5GU,co=https://pbs.twimg.com/media/GYt-IIGWEAA-O1M?format=jpg&name=4096x4096,bg=roxy-music-5bbbb77e0a577.jpg
+: 0 4 12 T’ain’t 
+: 8 5 14 no 
+: 16 4 14 big 
+: 24 5 14 thing 
+- 31
+: 52 2 7 To 
+: 56 3 12 wait 
+: 62 2 12 for 
+: 65 2 9 the 
+: 70 5 16 bell 
+: 78 3 9 to 
+: 86 5 9 ring 
+- 93
+: 126 4 14 T’ain’t 
+: 134 5 16 no 
+: 142 4 14 big 
+: 150 4 14 thing 
+- 156
+: 177 2 7 The 
+* 180 5 12 toll 
+: 189 2 7 of 
+: 193 2 7 the 
+: 196 5 9 bell 
+- 203
+: 260 5 9 Ag
+: 267 5 9 gra
+: 275 3 7 va
+: 279 3 9 ted 
+: 291 6 9 spare 
+: 299 2 9 for 
+: 303 7 12 days 
+- 312
+: 320 2 9 I 
+: 324 5 9 troll 
+: 331 5 9 down
+: 339 6 12 town 
+: 351 3 9 the 
+: 355 2 14 red 
+: 359 4 9 light 
+: 367 6 9 place 
+- 375
+: 386 3 9 Jump 
+: 394 3 9 up 
+: 402 2 7 bub
+: 406 3 9 ble 
+: 410 3 9 up 
+: 418 2 7 what’s 
+: 422 4 9 in 
+: 430 4 12 store? 
+- 436
+: 450 5 9 Love 
+: 458 2 9 is 
+: 462 2 9 the 
+: 466 4 12 drug 
+: 474 2 9 and 
+: 478 2 9 I 
+* 482 5 16 need 
+: 490 2 12 to 
+: 494 3 9 score 
+- 499
+: 514 2 7 Show
+: 517 3 9 ing 
+: 522 3 9 out, 
+: 530 2 7 show
+: 533 2 9 ing 
+: 537 3 9 out 
+* 546 2 9 hit 
+: 550 4 9 and 
+: 558 4 12 run 
+- 564
+: 578 6 9 Boy 
+: 586 3 9 meets 
+: 594 3 12 girl 
+: 602 2 14 where 
+: 606 2 12 the 
+: 610 2 15 beat 
+: 617 3 9 goes 
+: 622 3 9 on 
+- 627
+: 640 4 11 Stitched 
+: 649 3 12 up 
+: 657 4 11 tight 
+: 672 4 11 can’t 
+: 678 4 12 shake 
+: 686 4 11 free 
+- 692
+* 704 5 9 Love 
+: 713 2 9 is 
+: 716 2 9 the 
+: 720 5 12 drug 
+: 727 2 9 got 
+: 731 2 9 a 
+: 735 2 12 hook 
+: 740 4 9 on 
+: 748 3 9 me 
+- 753
+: 768 14 16 Oh
+: 784 2 14 ~ 
+: 800 2 14 catch 
+: 804 3 12 that 
+: 811 3 14 buzz 
+- 816
+: 832 5 9 Love 
+: 839 2 9 is 
+: 843 2 9 the 
+: 847 3 12 drug 
+: 859 2 9 I’m 
+: 863 3 12 thin
+: 868 6 9 kin’ 
+: 876 3 9 of 
+- 881
+: 894 14 16 Oh
+: 910 2 14 ~ 
+: 926 6 12 can’t 
+: 934 2 12 you 
+: 938 7 14 see? 
+- 947
+: 958 6 9 Love 
+: 966 3 9 is 
+: 970 3 9 the 
+: 974 1 12 dru
+: 976 3 14 ~g 
+: 981 5 9 for 
+: 989 3 9 me 
+- 994
+: 1022 18 16 Oh
+: 1042 2 17 ~
+* 1046 3 16 ~ 
+: 1051 29 14 oh 
+- 1082
+: 1152 20 16 Oh
+: 1174 2 17 ~
+: 1178 3 16 ~ 
+: 1183 26 14 oh 
+- 1211
+* 1283 3 9 Late 
+: 1289 3 9 that 
+: 1298 3 9 night 
+: 1310 2 9 I 
+: 1314 4 9 park 
+: 1322 2 9 my 
+: 1326 7 12 car 
+- 1335
+: 1345 4 9 Stake 
+: 1353 4 9 my 
+: 1361 4 12 place 
+: 1369 2 9 in 
+: 1372 2 9 the 
+: 1377 2 14 sin
+: 1381 4 9 gles 
+: 1389 5 9 bar 
+- 1396
+: 1409 4 9 Face 
+: 1417 4 9 to 
+: 1425 4 9 face, 
+: 1440 6 9 toe 
+: 1448 2 9 to 
+: 1452 5 12 toe 
+- 1459
+: 1471 4 9 Heart 
+: 1479 5 9 to 
+: 1487 4 12 heart 
+: 1495 2 14 as 
+: 1499 2 12 we 
+: 1503 2 16 hit 
+: 1511 2 9 the 
+: 1515 5 9 floor 
+- 1522
+: 1535 6 9 Lum
+: 1543 6 11 ber 
+: 1551 3 9 up 
+: 1567 2 9 lim
+* 1571 7 11 bo 
+: 1579 5 5 down 
+- 1586
+: 1594 2 7 The 
+: 1598 3 9 locked 
+: 1606 5 9 em
+: 1614 3 12 brace 
+- 1619
+: 1628 2 9 The 
+: 1631 2 14 stum
+: 1635 5 14 ble 
+: 1643 8 12 round 
+- 1653
+: 1663 3 9 I 
+: 1670 4 9 say 
+: 1678 4 12 go 
+: 1694 3 9 she 
+: 1699 5 14 say 
+: 1707 5 12 yes 
+- 1714
+: 1727 5 9 Dim 
+: 1736 4 9 the 
+: 1742 3 12 lights 
+: 1753 2 9 you 
+: 1756 2 9 can 
+: 1759 3 12 guess 
+: 1764 3 4 the 
+: 1769 6 2 rest 
+- 1777
+: 1791 14 16 Oh
+: 1807 3 14 ~ 
+: 1823 3 12 catch 
+: 1828 3 12 that 
+: 1835 5 14 buzz 
+- 1842
+: 1855 5 9 Love 
+: 1863 2 9 is 
+: 1867 2 9 the 
+* 1871 3 12 drug 
+E

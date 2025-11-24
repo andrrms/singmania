@@ -1,0 +1,775 @@
+#ARTIST:DJ Antoine vs. Timati feat. Kalenna
+#TITLE:Welcome To St. Tropez
+#MP3:DJ Antoine vs. Timati feat. Kalenna - Welcome To St. Tropez.mp3
+#CREATOR:ultrastarsongs
+#YEAR:2010
+#LANGUAGE:English
+#BPM:250
+#GAP:16320
+#VIDEO:v=Kh2FRFhS7QY,co=https://m.media-amazon.com/images/I/81DpfYePUkL.jpg,co-crop=68-0-1524-1453,co-resize=1453-1453,bg=antoine-dj-5a202e6d19dde.jpg
+F 0 2 0 Wel
+F 3 2 0 come 
+F 6 1 0 to 
+F 9 2 0 St. 
+F 13 2 0 Tro
+F 17 3 0 pez 
+- 22
+F 320 4 0 Get 
+F 328 4 0 fresh 
+F 336 2 0 got
+F 339 1 0 ta 
+F 342 3 0 stay 
+F 346 3 0 fly 
+- 351
+F 356 2 0 Get 
+F 359 1 0 the 
+F 362 2 0 jet 
+F 366 1 0 I 
+F 368 1 0 got
+F 370 1 0 ta 
+F 372 2 0 stay 
+F 377 3 0 high 
+- 382
+F 386 4 0 High 
+F 392 2 0 up 
+F 396 1 0 like 
+F 398 1 0 a 
+F 400 2 0 la 
+F 404 2 0 la 
+F 408 2 0 la 
+- 412
+F 416 2 0 Ain’t 
+F 420 1 0 no
+F 422 1 0 thing 
+F 425 2 0 here 
+F 428 1 0 that 
+F 430 1 0 my 
+F 432 1 0 mo
+F 434 1 0 ney 
+F 436 2 0 can’t 
+F 440 3 0 buy 
+- 445
+F 448 5 0 Dolce, 
+F 456 5 0 Gucci 
+F 464 2 0 and 
+F 468 3 0 Louis 
+F 473 2 0 V 
+- 477
+F 480 2 0 Yacht 
+F 484 2 0 so 
+F 488 2 0 big 
+F 491 2 0 I 
+F 494 1 0 could 
+F 496 2 0 live 
+F 499 2 0 in 
+F 502 1 0 the 
+F 505 3 0 sea 
+- 510
+F 512 2 0 You 
+F 516 2 0 for 
+F 520 2 0 real 
+F 524 2 0 u 
+F 528 2 0 can’t 
+F 532 2 0 see 
+F 536 3 0 me 
+- 541
+F 544 1 0 In 
+F 546 1 0 these 
+F 548 1 0 Eu
+F 550 1 0 ro 
+F 552 3 0 frames 
+F 558 1 0 the 
+F 560 2 0 whole 
+F 564 2 0 world 
+F 568 5 0 changed 
+- 575
+F 580 2 0 Mad 
+F 584 2 0 bit
+F 587 2 0 ches 
+F 592 2 0 so 
+F 596 2 0 much 
+F 600 4 0 broads 
+- 606
+F 608 1 0 Fee
+F 610 1 0 ling 
+F 612 2 0 like 
+F 616 1 0 when 
+F 618 1 0 I 
+F 620 1 0 wan
+F 622 1 0 na 
+F 624 2 0 fuck 
+F 628 2 0 them 
+F 632 3 0 all 
+- 637
+F 640 2 0 Get 
+F 644 2 0 mad 
+F 648 2 0 brain 
+F 652 1 0 in 
+F 654 1 0 my 
+F 656 1 0 ve
+F 658 1 0 ry 
+F 660 2 0 fast 
+F 664 4 0 car 
+- 669
+F 670 1 0 Fer
+F 672 1 0 ra
+F 674 1 0 ri 
+F 676 2 0 V
+F 680 2 0 12 
+F 684 1 0 Ma
+F 686 3 0 rile
+F 690 1 0 na 
+F 692 1 0 on 
+F 694 1 0 my 
+F 696 3 0 arm 
+- 701
+F 708 2 0 La
+F 712 2 0 dies 
+F 716 2 0 can’t 
+F 720 1 0 re
+F 722 2 0 sist 
+F 726 1 0 the 
+F 728 4 0 charm 
+- 734
+F 736 5 0 Haters, 
+F 748 1 0 kiss 
+F 750 1 0 the 
+F 752 3 0 ring 
+F 756 1 0 of 
+F 758 1 0 the 
+F 760 4 0 Don 
+- 766
+F 780 1 0 And 
+F 782 1 0 we 
+F 784 1 0 do 
+F 786 1 0 this 
+F 788 3 0 all 
+F 793 3 0 day 
+- 798
+F 800 2 0 Wel
+F 804 1 0 come 
+F 806 1 0 to 
+F 808 2 0 St. 
+F 812 3 0 Tro
+F 817 3 0 pez 
+- 822
+* 832 8 12 Woah, 
+: 848 3 10 par
+: 852 1 12 ty 
+: 854 3 3 now 
+- 859
+: 864 2 10 Too 
+: 868 2 10 much 
+: 872 1 10 mo
+: 874 1 10 ney 
+: 876 1 10 in 
+: 878 1 10 the 
+: 880 3 10 bank 
+- 885
+: 896 2 10 Hands 
+: 900 1 10 in 
+: 902 1 10 the 
+: 904 2 10 air 
+: 908 1 10 make 
+: 910 1 10 you 
+: 912 2 10 scream 
+: 916 1 12 and 
+: 918 2 3 shout 
+- 922
+: 928 2 10 When 
+: 932 2 10 we’re 
+: 936 2 7 in 
+: 940 2 10 St. 
+: 944 2 7 Tro
+: 948 3 14 pe
+: 952 3 12 ~
+: 956 2 10 ~z 
+- 959
+: 960 7 12 Woah, 
+: 976 3 10 par
+: 980 1 12 ty 
+: 982 2 3 now 
+- 986
+: 992 3 10 Spen
+: 996 2 10 ding 
+: 1000 1 10 mo
+: 1002 1 10 ney 
+: 1004 1 10 in 
+: 1006 1 10 a 
+: 1008 3 10 large 
+: 1012 1 12 a
+: 1014 2 3 mount 
+- 1018
+: 1024 2 10 Hands 
+: 1028 1 10 in 
+: 1030 1 10 the 
+: 1032 2 10 air 
+: 1036 1 10 make 
+: 1038 1 10 you 
+: 1040 3 10 scream 
+: 1044 2 12 and 
+: 1047 3 1 shout 
+- 1052
+: 1056 2 10 When 
+: 1060 2 10 we’re 
+: 1064 2 7 in 
+: 1068 2 10 St. 
+: 1072 2 7 Tro
+* 1076 3 14 pe
+: 1080 3 12 ~
+: 1084 3 10 ~
+: 1088 4 12 ~z 
+- 1094
+F 1104 4 129 Oh 
+F 1112 8 122 yeah 
+- 1122
+F 1152 2 0 We 
+F 1156 2 0 make 
+F 1160 1 0 mo
+F 1162 1 0 ney, 
+F 1166 2 0 mo
+F 1169 2 0 ney 
+F 1172 2 0 we 
+F 1176 3 0 spen
+F 1180 2 0 ding 
+- 1183
+F 1184 2 0 Get 
+F 1188 2 0 mad 
+F 1192 1 0 ho
+F 1194 1 0 ney, 
+F 1198 2 0 swim
+F 1202 1 0 ming 
+F 1204 2 0 in 
+F 1208 1 0 wo
+F 1210 2 0 men 
+- 1213
+F 1213 2 0 Im
+F 1216 3 0 por
+F 1220 2 0 ted 
+F 1224 2 0 Linen, 
+F 1230 1 0 E
+F 1232 1 0 gyp
+F 1234 3 0 tian 
+F 1240 2 0 cot
+F 1243 2 0 ton 
+- 1246
+F 1246 1 0 The 
+F 1248 1 0 par
+F 1250 1 0 ty 
+F 1252 2 0 just 
+F 1256 3 0 star
+F 1260 1 0 ted 
+- 1262
+F 1262 1 0 The 
+F 1264 1 0 par
+F 1266 1 0 ty 
+F 1268 2 0 ain’t 
+F 1272 3 0 stop
+F 1276 2 0 pin’ 
+- 1279
+F 1280 2 0 Keep 
+F 1284 2 0 shit 
+F 1288 2 0 pop
+F 1291 2 0 pin’ 
+- 1294
+F 1294 1 0 Pop
+F 1297 1 0 ping 
+F 1300 2 0 these 
+F 1304 3 0 bot
+F 1308 2 0 tles 
+- 1311
+F 1312 2 0 Haters 
+F 1316 2 0 keep 
+F 1320 1 0 ha
+F 1322 2 0 tin’ 
+- 1326
+F 1328 2 0 Fuckin’ 
+F 1332 2 0 these 
+F 1336 2 0 mo
+F 1340 2 0 dels 
+- 1343
+F 1344 2 0 So 
+F 1348 2 0 much 
+F 1352 1 0 mo
+F 1354 1 0 ney 
+F 1356 2 0 like 
+F 1360 2 0 we 
+F 1364 1 0 own 
+F 1366 1 0 the 
+F 1368 3 0 lot
+F 1372 2 0 to 
+- 1375
+F 1376 1 0 Pull 
+F 1378 1 0 up 
+F 1380 1 0 to 
+F 1382 1 0 a 
+F 1384 1 0 club 
+F 1386 1 0 in 
+F 1388 1 0 a 
+F 1390 2 0 white 
+F 1394 2 0 Mur
+F 1398 1 0 cié
+F 1400 2 0 la
+F 1404 1 0 go 
+- 1406
+F 1406 1 0 He 
+F 1408 2 0 don’t 
+F 1412 2 0 make 
+F 1416 3 0 dol
+F 1420 1 0 lars, 
+F 1422 1 0 he 
+F 1424 2 0 don’t 
+F 1428 2 0 make 
+F 1432 4 0 cents 
+- 1437
+F 1438 1 0 He 
+F 1440 2 0 don’t 
+F 1444 2 0 make 
+F 1448 1 0 you 
+F 1450 3 0 rich, 
+F 1454 1 0 he 
+F 1456 2 0 don’t 
+F 1460 2 0 mean 
+F 1464 4 0 shit, 
+F 1472 4 0 shit 
+- 1478
+F 1490 1 0 Give 
+F 1492 1 0 me 
+F 1494 1 0 the 
+F 1498 2 0 shit 
+- 1502
+F 1507 1 0 I 
+F 1509 1 0 mean 
+F 1512 2 0 how 
+F 1516 2 0 much 
+F 1520 1 0 bet
+F 1522 1 0 ter 
+F 1524 1 0 can 
+F 1526 1 0 it 
+F 1528 2 0 get 
+- 1532
+F 1536 3 0 Har
+F 1540 2 0 leys, 
+F 1548 2 0 Mase
+F 1552 2 0 ra
+F 1555 1 0 ti, 
+F 1558 1 0 Gal
+F 1560 3 0 lar
+F 1564 2 0 dos 
+- 1568
+F 1578 1 0 We 
+F 1580 2 0 make 
+F 1584 2 0 too 
+F 1588 2 0 much 
+F 1592 3 0 dough 
+- 1597
+F 1612 1 0 And 
+F 1614 1 0 we 
+F 1616 2 0 spend 
+F 1619 1 0 it 
+F 1621 2 0 all 
+F 1625 3 0 day 
+- 1630
+F 1632 2 0 Wel
+F 1636 1 0 come 
+F 1638 1 0 to 
+F 1640 3 0 St. 
+F 1644 3 0 Tro
+F 1649 3 0 pez 
+- 1654
+: 1664 7 12 Woah, 
+: 1680 3 10 par
+: 1684 1 12 ty 
+: 1686 2 3 now 
+- 1690
+: 1696 2 10 Too 
+: 1700 2 10 much 
+: 1704 1 10 mo
+: 1706 1 10 ney 
+: 1708 1 10 in 
+: 1710 1 10 the 
+: 1712 3 10 bank 
+- 1717
+: 1728 2 10 Hands 
+: 1732 1 10 in 
+: 1734 1 10 the 
+: 1736 2 10 air 
+: 1740 1 10 make 
+: 1742 1 10 you 
+* 1744 3 10 scream 
+: 1748 1 12 and 
+: 1751 2 3 shout 
+- 1755
+: 1760 2 10 When 
+: 1764 2 10 we’re 
+: 1768 2 7 in 
+: 1772 2 10 St. 
+: 1776 2 7 Tro
+: 1780 3 14 pe
+: 1784 3 12 ~
+: 1788 2 10 ~z 
+- 1791
+: 1792 7 12 Woah, 
+: 1808 3 10 par
+: 1812 1 12 ty 
+: 1814 2 3 now 
+- 1818
+: 1824 2 10 Too 
+: 1828 2 10 much 
+: 1832 1 10 mo
+: 1834 1 10 ney 
+: 1836 1 10 in 
+: 1838 1 10 the 
+: 1840 2 10 bank 
+: 1844 1 12 ac
+: 1846 2 3 count 
+- 1850
+: 1856 2 10 Hands 
+: 1860 1 10 in 
+: 1862 1 10 the 
+: 1864 2 10 air 
+: 1868 1 10 make 
+: 1870 1 10 you 
+: 1872 3 10 scream 
+: 1876 1 12 and 
+: 1879 2 3 shout 
+- 1883
+: 1888 2 10 When 
+: 1892 2 10 we’re 
+: 1896 2 7 in 
+: 1900 2 10 St. 
+: 1904 2 7 Tro
+: 1908 3 14 pe
+: 1912 3 12 ~
+: 1916 2 10 ~z 
+- 1919
+* 1920 7 12 Woah, 
+: 1936 3 10 par
+: 1940 1 12 ty 
+: 1942 2 3 now 
+- 1946
+: 1952 3 10 Spen
+: 1956 2 10 ding 
+: 1960 1 10 mo
+: 1962 1 10 ney 
+: 1964 1 10 in 
+: 1966 1 10 a 
+: 1968 3 10 large 
+: 1972 1 12 a
+: 1974 2 3 mount 
+- 1978
+: 1984 2 10 Hands 
+: 1988 1 10 in 
+: 1990 1 10 the 
+: 1992 2 10 air 
+: 1996 1 10 make 
+: 1998 1 10 you 
+: 2000 3 10 scream 
+: 2004 2 12 and 
+* 2007 2 1 shout 
+- 2011
+: 2016 2 10 When 
+: 2020 2 10 we’re 
+: 2024 2 7 in 
+: 2028 2 10 St. 
+: 2032 2 7 Tro
+: 2036 3 14 pe
+: 2040 3 12 ~
+: 2044 2 10 ~z 
+- 2047
+: 2048 7 12 Woah, 
+: 2064 3 10 par
+: 2068 1 12 ty 
+: 2070 2 3 now 
+- 2074
+: 2080 3 10 Spen
+: 2084 2 10 ding 
+: 2088 1 10 mo
+: 2090 1 10 ney 
+: 2092 1 10 in 
+: 2094 1 10 a 
+: 2096 3 10 large 
+: 2100 1 12 a
+: 2102 2 3 mount 
+- 2106
+: 2112 2 10 Hands 
+: 2116 1 10 in 
+: 2118 1 10 the 
+: 2120 2 10 air 
+: 2124 1 10 make 
+: 2126 1 10 you 
+: 2128 3 10 scream 
+: 2132 2 12 and 
+: 2135 2 1 shout 
+- 2139
+: 2144 2 10 When 
+: 2148 2 10 we’re 
+: 2152 2 7 in 
+: 2156 2 10 St. 
+: 2160 2 7 Tro
+: 2164 3 14 pe
+: 2168 3 12 ~
+: 2172 3 10 ~
+* 2176 7 12 ~z 
+- 2185
+F 2192 1 0 La
+F 2194 1 0 dies 
+F 2196 2 0 and 
+F 2200 1 0 Gen
+F 2202 1 0 tle
+F 2204 2 0 men 
+- 2208
+F 2212 1 0 To
+F 2214 3 0 night, 
+F 2224 2 0 all 
+F 2227 2 0 the 
+F 2230 2 0 way 
+F 2234 2 0 from 
+F 2240 3 0 Mos
+F 2244 2 0 cow, 
+F 2248 2 0 Rus
+F 2252 3 0 sia 
+- 2257
+F 2260 1 0 Give 
+F 2262 1 0 a 
+F 2264 3 0 warm 
+F 2271 2 0 wel
+F 2275 2 0 come 
+F 2278 2 0 for 
+F 2281 1 0 hea
+F 2283 1 0 vy
+F 2285 3 0 weight 
+F 2290 2 0 Rap-
+F 2295 7 0 champion 
+- 2304
+F 2309 8 -4 B 
+F 2320 5 -4 smooth, 
+F 2327 2 -4 the 
+F 2331 8 -4 groove 
+- 2341
+F 2352 2 0 So 
+F 2356 2 0 make 
+F 2361 2 0 some 
+F 2366 5 0 noise 
+- 2372
+F 2374 1 -6 For 
+F 2376 1 -6 the 
+F 2378 2 -6 one 
+F 2381 1 -6 and 
+F 2383 3 -6 on
+F 2389 2 -6 ly 
+- 2393
+F 2396 8 0 Mr. 
+F 2410 3 0 Black 
+F 2418 8 0 Star 
+- 2428
+: 2432 1 7 Get 
+: 2434 1 7 it 
+: 2436 1 7 on 
+: 2438 2 7 up, 
+: 2442 2 7 don’t 
+: 2446 2 5 stop 
+: 2450 2 7 your 
+: 2454 4 7 bo
+: 2460 2 5 dy 
+- 2463
+F 2464 1 0 C’
+F 2466 1 0 mon 
+F 2470 2 0 la
+F 2474 2 0 dies, 
+F 2480 2 0 let’s 
+F 2483 2 0 get 
+F 2486 3 0 naugh
+F 2490 2 0 ty 
+- 2494
+: 2496 1 7 Get 
+: 2498 1 7 it 
+: 2500 1 7 on 
+: 2502 2 7 up, 
+: 2506 2 7 now 
+: 2510 3 5 eve
+: 2514 2 7 ry
+: 2518 4 7 bo
+: 2524 2 5 dy 
+- 2527
+F 2528 1 0 C’
+F 2530 1 0 mon 
+F 2534 3 0 girls, 
+F 2540 2 0 here 
+F 2544 2 0 comes 
+F 2548 1 0 the 
+F 2550 3 0 dad
+F 2554 2 0 dy 
+- 2558
+: 2560 1 7 Get 
+: 2562 1 7 it 
+: 2564 1 7 on 
+: 2566 2 7 up, 
+: 2570 2 7 don’t 
+: 2574 2 7 stop 
+: 2578 2 7 your 
+* 2582 4 10 bo
+: 2588 2 7 dy 
+- 2591
+: 2592 1 10 Get 
+: 2594 1 10 it 
+: 2596 1 10 on 
+: 2598 2 10 up, 
+: 2602 2 10 and 
+: 2606 2 10 gain 
+: 2610 2 10 your 
+: 2614 4 12 par
+: 2620 2 10 ty 
+- 2623
+: 2624 1 10 Get 
+: 2626 1 12 it 
+: 2628 1 12 on 
+: 2630 2 12 up, 
+: 2634 2 12 now 
+: 2638 3 12 eve
+: 2642 2 12 ry
+: 2646 4 15 bo
+: 2652 2 12 dy 
+- 2655
+: 2656 2 0 Get 
+: 2660 2 0 it 
+: 2664 2 0 up 
+: 2668 2 0 for 
+* 2672 6 3 mu
+: 2680 6 0 sic 
+- 2687
+: 2688 7 12 Woah, 
+: 2704 3 10 par
+: 2708 1 12 ty 
+: 2710 2 3 now 
+- 2714
+: 2720 2 10 Too 
+: 2724 2 10 much 
+: 2728 1 10 mo
+: 2730 1 10 ney 
+: 2732 1 10 in 
+: 2734 1 10 the 
+: 2736 3 10 bank 
+- 2741
+: 2752 2 10 Hands 
+: 2756 1 10 in 
+: 2758 1 10 the 
+: 2760 2 10 air 
+: 2764 1 10 make 
+: 2766 1 10 you 
+: 2768 3 10 scream 
+: 2772 1 12 and 
+: 2775 2 3 shout 
+- 2779
+: 2784 2 10 When 
+: 2788 2 10 we’re 
+: 2792 2 7 in 
+: 2796 2 10 St. 
+: 2800 2 7 Tro
+* 2804 3 14 pe
+: 2808 3 12 ~
+: 2812 2 10 ~z 
+- 2815
+: 2816 7 12 Woah, 
+: 2832 3 10 par
+: 2836 1 12 ty 
+: 2838 2 3 now 
+- 2842
+: 2848 2 10 Too 
+: 2852 2 10 much 
+: 2856 1 10 mo
+: 2858 1 10 ney 
+: 2860 1 10 in 
+: 2862 1 10 the 
+: 2864 2 10 bank 
+: 2868 1 12 ac
+: 2870 2 3 count 
+- 2874
+: 2880 2 10 Hands 
+: 2884 1 10 in 
+: 2886 1 10 the 
+: 2888 2 10 air 
+: 2892 1 10 make 
+: 2894 1 10 you 
+: 2896 3 10 scream 
+: 2900 1 12 and 
+: 2903 2 3 shout 
+- 2907
+: 2912 2 10 When 
+: 2916 2 10 we’re 
+: 2920 2 7 in 
+: 2924 2 10 St. 
+: 2928 2 7 Tro
+: 2932 3 14 pe
+: 2936 3 12 ~
+: 2940 2 10 ~z 
+- 2943
+* 2944 7 12 Woah, 
+: 2960 3 10 par
+: 2964 1 12 ty 
+: 2966 2 3 now 
+- 2970
+: 2976 3 10 Spen
+: 2980 2 10 ding 
+: 2984 1 10 mo
+: 2986 1 10 ney 
+: 2988 1 10 in 
+: 2990 1 10 a 
+: 2992 3 10 large 
+: 2996 1 12 a
+: 2998 2 3 mount 
+- 3002
+: 3008 2 10 Hands 
+: 3012 1 10 in 
+: 3014 1 10 the 
+: 3016 2 10 air 
+: 3020 1 10 make 
+: 3022 1 10 you 
+: 3024 3 10 scream 
+: 3028 2 12 and 
+: 3031 3 1 shout 
+- 3036
+: 3040 2 10 When 
+: 3044 2 10 we’re 
+: 3048 2 7 in 
+: 3052 2 10 St. 
+: 3056 2 7 Tro
+: 3060 3 14 pe
+: 3064 3 12 ~
+: 3068 2 10 ~z 
+- 3071
+: 3072 7 12 Woah, 
+* 3088 3 10 par
+: 3092 1 12 ty 
+: 3094 2 3 now 
+- 3098
+: 3104 3 10 Spen
+: 3108 2 10 ding 
+: 3112 1 10 mo
+: 3114 1 10 ney 
+: 3116 1 10 in 
+: 3118 1 10 a 
+: 3120 3 10 large 
+: 3124 1 12 a
+: 3126 2 3 mount 
+- 3130
+: 3136 2 10 Hands 
+: 3140 1 10 in 
+: 3142 1 10 the 
+: 3144 2 10 air 
+: 3148 1 10 make 
+: 3150 1 10 you 
+: 3152 3 10 scream 
+* 3156 1 12 and 
+: 3159 2 1 shout 
+- 3163
+: 3168 2 10 When 
+: 3172 2 10 we’re 
+: 3176 2 7 in 
+: 3180 2 10 St. 
+: 3184 2 7 Tro
+: 3188 3 14 pe
+: 3192 3 12 ~
+: 3196 3 10 ~
+: 3200 7 12 ~z 
+E

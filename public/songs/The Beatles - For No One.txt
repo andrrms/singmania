@@ -1,0 +1,255 @@
+#ARTIST:The Beatles
+#TITLE:For No One
+#MP3:The Beatles - For No One.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:326
+#GAP:880
+#VIDEO:v=hgJ7dmr_ysU,co=revolver-4ddaafee1751a.jpg,bg=beatles-the-55744b4d583c0.jpg
+: 0 2 6 Your 
+: 4 6 6 day 
+: 12 8 6 breaks, 
+: 34 2 6 your 
+: 38 6 6 mind 
+: 46 8 6 aches 
+- 56
+: 66 2 11 You 
+: 70 10 11 find 
+: 84 2 11 that 
+: 88 8 15 all 
+- 98
+: 100 6 15 Her 
+: 108 6 15 words 
+: 116 2 15 of 
+: 120 10 15 kind
+: 132 6 11 ness 
+: 140 6 11 lin
+: 148 2 11 ger 
+: 152 8 11 on 
+- 162
+: 166 6 6 When 
+: 174 2 6 she 
+: 178 6 6 no 
+: 188 8 6 long
+: 198 2 6 er 
+: 202 8 6 needs 
+: 212 12 3 you 
+- 226
+: 264 2 6 She 
+: 268 6 6 wakes 
+: 276 6 6 up 
+- 284
+: 294 2 6 She 
+: 298 6 6 makes 
+: 308 4 6 up 
+- 314
+: 326 2 11 She 
+: 330 10 11 takes 
+: 344 2 11 her 
+: 348 8 15 time 
+- 358
+: 360 6 15 And 
+: 368 2 15 does
+: 372 6 15 n’t 
+: 380 8 15 feel 
+: 392 6 11 she 
+: 400 6 11 has 
+: 408 6 11 to 
+: 416 2 11 hur
+: 420 6 6 ry 
+- 428
+: 432 2 6 She 
+: 436 8 6 no 
+: 448 8 6 long
+: 458 2 6 er 
+: 462 6 6 needs 
+: 470 10 3 you 
+- 482
+: 488 6 3 And 
+: 496 2 4 in 
+: 500 6 6 her 
+: 510 12 8 eyes 
+: 526 6 13 you 
+: 534 4 11 see 
+: 542 4 6 no
+: 548 12 8 thing 
+- 562
+: 582 4 8 No 
+* 590 4 13 sign 
+* 598 4 15 of 
+* 606 4 16 love 
+: 614 6 15 be
+: 622 4 13 hind 
+: 628 2 12 the 
+: 632 10 13 tears 
+- 644
+: 652 6 13 Cried 
+: 660 2 11 for 
+: 664 8 6 no 
+: 674 12 8 one 
+- 688
+: 706 4 8 A 
+: 714 4 13 love 
+: 722 4 15 that 
+: 730 4 16 should 
+: 738 6 15 have 
+: 746 4 13 last
+: 752 2 12 ed 
+: 756 18 13 years 
+- 776
+: 836 2 6 You 
+: 840 6 6 want 
+: 848 6 6 her, 
+: 868 2 6 you 
+: 872 6 6 need 
+: 880 6 6 her 
+- 888
+: 900 6 11 And 
+: 908 6 11 yet 
+: 916 2 11 you 
+: 922 8 15 don’t 
+: 932 4 15 be
+: 938 6 15 lieve 
+: 946 4 15 her 
+- 952
+: 956 6 15 When 
+: 964 4 11 she 
+: 970 6 11 says 
+: 980 6 11 her 
+* 988 4 11 love 
+* 994 6 6 is 
+* 1002 6 6 dead 
+- 1010
+: 1014 6 6 You 
+: 1022 6 6 think 
+: 1030 2 6 she 
+: 1034 8 6 needs 
+: 1046 12 3 you 
+- 1060
+: 1320 6 3 And 
+: 1328 2 4 in 
+: 1332 8 6 her 
+: 1344 12 8 eyes 
+: 1360 6 13 you 
+: 1368 4 11 see 
+* 1376 2 6 no
+* 1380 12 8 thing 
+- 1394
+: 1412 4 8 No 
+: 1420 4 13 sign 
+: 1428 4 15 of 
+: 1436 4 16 love 
+: 1444 6 15 be
+: 1452 4 13 hind 
+: 1460 2 12 the 
+: 1464 10 13 tears 
+- 1476
+* 1482 6 13 Cried 
+* 1490 2 11 for 
+* 1494 8 6 no 
+* 1504 12 8 one 
+- 1518
+: 1536 4 8 A 
+: 1544 4 13 love 
+: 1552 4 15 that 
+: 1560 4 16 should 
+: 1568 6 15 have 
+: 1576 4 13 last
+: 1582 2 12 ed 
+: 1586 20 13 years 
+- 1608
+: 1666 2 6 You 
+: 1670 6 6 stay 
+: 1678 8 6 home 
+- 1688
+: 1698 2 6 She 
+: 1702 6 6 goes 
+: 1710 6 6 out 
+- 1718
+: 1728 2 11 She 
+: 1732 8 11 says 
+: 1744 4 11 that 
+: 1752 6 15 long 
+: 1760 2 15 a
+: 1764 8 15 go 
+- 1774
+: 1778 4 15 She 
+: 1786 4 15 knew 
+: 1792 4 11 some 
+: 1798 6 11 one 
+- 1806
+: 1814 2 11 But 
+: 1818 4 11 now 
+: 1826 4 6 he’s 
+: 1832 8 6 gone 
+- 1842
+: 1846 2 6 She 
+: 1850 2 6 does
+: 1854 6 6 n’t 
+* 1862 6 6 need 
+* 1870 12 3 him 
+- 1884
+: 1922 2 6 Your 
+: 1926 6 6 day 
+: 1934 8 6 breaks 
+- 1944
+: 1954 2 6 Your 
+: 1958 6 6 mind 
+: 1966 6 6 aches 
+- 1974
+: 1986 4 11 There 
+: 1992 6 11 will 
+: 2000 4 11 be 
+: 2006 8 15 times 
+- 2016
+: 2018 4 15 When 
+: 2024 8 15 all 
+: 2034 4 15 the 
+: 2040 8 15 things 
+* 2050 2 11 she 
+* 2054 6 11 said 
+- 2062
+: 2066 6 11 Will 
+: 2074 4 11 fill 
+: 2080 6 6 your 
+: 2088 8 6 head 
+- 2098
+: 2104 2 6 You 
+: 2108 8 6 won’t 
+: 2118 2 6 for
+: 2122 6 6 get 
+: 2130 12 3 her 
+- 2144
+: 2150 2 3 And 
+: 2154 2 4 in 
+: 2158 6 6 her 
+* 2168 12 8 eyes 
+: 2184 6 13 you 
+: 2192 4 11 see 
+: 2200 4 6 no
+: 2206 12 8 thing 
+- 2220
+: 2238 4 8 No 
+: 2246 4 13 sign 
+: 2254 4 15 of 
+: 2262 4 16 love 
+: 2270 6 15 be
+: 2278 4 13 hind 
+: 2286 2 12 the 
+: 2290 10 13 tears 
+- 2302
+: 2308 6 13 Cried 
+: 2316 2 11 for 
+: 2320 8 6 no 
+: 2330 12 8 one 
+- 2344
+: 2362 4 8 A 
+: 2370 4 13 love 
+: 2378 4 15 that 
+: 2386 4 16 should 
+: 2394 6 15 have 
+: 2402 4 13 last
+: 2408 2 12 ed 
+: 2412 28 13 years. 
+E

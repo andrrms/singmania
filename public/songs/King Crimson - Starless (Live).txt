@@ -1,0 +1,113 @@
+#ARTIST:King Crimson
+#TITLE:Starless (Live)
+#MP3:King Crimson - Starless (Live).mp3
+#CREATOR:Yodamies
+#COVER:King Crimson - Starless (Live) [CO].jpg
+#BACKGROUND:King Crimson - Starless (Live) [BG].jpg
+#GENRE:Progressive Rock
+#YEAR:1974
+#LANGUAGE:English
+#BPM:358.54
+#GAP:93180
+#VIDEO:v=FhKJgqxNDD8,co=https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/0f/e1/05/0fe105c2-5620-c1c3-806e-28ee467f32f2/RadicalAction_2500px.jpg/5000x5000bb.jpg
+: 0 12 7 Sun
+: 50 14 14 down 
+: 95 22 14 daz
+: 118 25 15 zling 
+: 146 14 10 day 
+- 170
+: 187 41 9 Gold 
+: 235 21 15 through 
+: 257 24 14 my 
+: 282 18 10 eyes 
+- 310
+: 329 15 10 But 
+: 352 21 12 my 
+: 374 28 14 eyes 
+: 420 22 14 turned 
+: 443 23 17 with
+: 467 17 17 in 
+- 494
+: 515 18 12 On
+: 534 20 14 ly 
+: 557 40 10 see
+: 598 10 9 ~
+: 609 8 7 ~ 
+- 627
+: 653 19 14 Star
+: 673 16 10 less 
+: 690 36 14 and 
+- 736
+: 771 11 17 Bi
+: 783 16 19 ble 
+: 800 6 17 black
+: 807 69 19 ~ 
+- 923
+: 1168 20 7 Ice 
+: 1214 18 14 blue 
+: 1260 22 14 sil
+: 1283 5 14 ver
+: 1289 19 15 ~ 
+: 1310 16 10 sky 
+- 1336
+: 1352 45 9 Fades 
+: 1399 22 15 in
+: 1422 19 14 to 
+: 1443 19 10 grey 
+- 1472
+: 1494 21 10 To 
+: 1516 20 12 a 
+: 1537 31 14 grey 
+: 1584 24 14 hope 
+: 1609 25 17 that 
+: 1635 21 17 oh 
+- 1666
+: 1679 22 12 Yearns 
+: 1703 23 14 to 
+: 1727 39 10 be
+: 1767 7 9 ~
+: 1775 11 7 ~ 
+- 1796
+: 1819 19 14 Star
+: 1839 16 10 less 
+: 1856 36 14 and 
+- 1902
+: 1937 11 17 Bi
+: 1949 16 19 ble 
+* 1966 6 17 black
+* 1973 69 19 ~ 
+- 2089
+: 3080 18 6 Old 
+: 3125 19 14 friend 
+: 3172 23 14 char
+: 3196 24 15 i
+: 3223 13 10 ty 
+- 3246
+: 3264 24 9 Cruel 
+: 3310 25 15 twist
+: 3336 22 14 ed 
+: 3361 21 10 smile 
+- 3392
+: 3407 21 10 And 
+: 3429 19 12 the 
+: 3449 27 14 smile 
+: 3496 23 14 sig
+: 3522 24 17 nals 
+: 3547 25 17 emp
+: 3574 9 15 ti
+: 3584 7 14 ~
+: 3592 11 12 ness 
+- 3612
+: 3616 20 14 For 
+: 3639 34 10 me
+: 3674 10 9 ~
+: 3685 15 7 ~ 
+- 3710
+: 3730 20 14 Star
+: 3751 15 10 less 
+: 3767 29 14 and 
+: 3848 11 17 bi
+: 3860 17 19 ble 
+* 3878 5 17 black
+* 3884 72 19 ~ 
+E

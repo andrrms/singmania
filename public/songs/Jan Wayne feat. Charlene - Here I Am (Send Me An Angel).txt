@@ -1,0 +1,328 @@
+#ARTIST:Jan Wayne feat. Charlene
+#TITLE:Here I Am (Send Me An Angel)
+#MP3:Jan Wayne feat. Charlene - Here I Am (Send Me An Angel).mp3
+#CREATOR:Edi316
+#COVER:Jan Wayne feat. Charlene - Here I Am (Send Me An Angel) [CO].jpg
+#BACKGROUND:Jan Wayne feat. Charlene - Here I Am (Send Me An Angel) [BG].jpg
+#YEAR:2004
+#LANGUAGE:English
+#BPM:276
+#GAP:7730
+#VIDEO:v=FYDFTOKpvik,co=https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d18/h13/s05.ahfkusth.jpg/5000x5000bb.jpg,bg=wayne-jan-51f20f5b0fb1d.jpg
+: 0 3 3 Wise
+: 6 4 3  man
+: 13 5 3  said
+: 28 3 3  just
+: 33 3 1  walk
+: 38 4 3  this
+: 45 5 -2  way
+- 60
+: 76 1 3 To
+: 78 1 5  the
+: 80 6 6  dawn
+: 91 2 5  of
+: 94 2 3  the
+: 97 5 1  light
+- 112
+: 128 4 3 Wind
+: 134 3 3  will
+: 140 4 3  blo
+: 145 3 -2 ~w
+: 156 3 3  in
+: 161 3 1 to
+: 166 4 3  your
+: 173 5 -2  face
+- 188
+: 202 3 3 As
+: 207 1 5  the
+: 209 6 6  years
+: 219 2 5  pass
+: 223 1 3  you
+: 225 5 1  by
+- 240
+: 257 5 3 Hear
+: 264 2 3  this
+: 269 4 3  vo
+: 274 3 -2 ~ice
+: 284 3 3  from
+: 289 3 1  deep
+: 293 4 3  in
+: 300 5 -2 side
+- 315
+: 331 2 3 It’s
+: 334 1 5  the
+: 337 5 6  call
+: 347 1 5  of
+: 349 1 3  your
+: 351 5 1  heart
+- 366
+: 384 6 3 Close
+: 392 3 3  your
+: 397 4 3  ey
+: 402 3 -2 ~es
+: 412 3 3  and
+: 416 4 1  you
+: 421 3 3  will
+: 428 7 -2  find
+- 445
+: 459 1 3 Pas
+: 461 2 5 sage
+: 464 6 6  out
+: 475 2 5  of
+: 478 2 3  the
+: 481 9 1  dark
+- 508
+: 527 8 8 Here
+: 537 2 8  I
+: 540 3 7 ~
+: 545 26 7  am
+- 581
+: 604 1 5 Will
+: 606 1 7  you
+: 609 6 8  send
+: 620 1 7  me
+: 622 2 5  an
+: 625 3 3  a
+: 629 3 0 ~n
+: 633 4 0 gel
+- 647
+: 656 7 8 Here
+: 665 2 8  I
+: 668 3 7 ~
+: 673 26 7  am
+- 709
+: 733 1 5 In
+: 735 1 7  the
+: 737 6 8  land
+: 748 2 7  of
+: 751 1 5  the
+: 753 6 3  mor
+: 760 2 5 ni
+: 763 2 7 ~ng
+: 769 11 5  star
+- 781
+: 783 8 8 Here
+: 793 2 8  I
+: 796 3 7 ~
+: 801 26 7  am
+- 837
+* 860 1 5 Will
+* 862 1 7  you
+* 865 6 8  send
+* 876 2 7  me
+* 879 1 5  an
+* 881 2 3  a
+* 884 3 0 ~n
+* 889 4 0 gel
+- 903
+: 912 8 8 Here
+: 921 2 8  I
+: 924 3 7 ~
+: 929 26 7  am
+- 965
+: 989 1 5 In
+: 991 1 7  the
+: 993 6 8  land
+: 1004 2 7  of
+: 1007 1 5  the
+: 1009 7 3  mor
+: 1017 1 5 ni
+: 1019 2 7 ~ng
+: 1025 32 5  star
+- 1093
+: 1600 4 5 Wise
+: 1606 4 5  man
+: 1613 6 5  said
+: 1628 2 5  just
+: 1632 5 3  find
+: 1639 3 5  your
+: 1645 7 0  place
+- 1662
+: 1675 1 5 In
+: 1677 2 7  the
+: 1680 6 8  eye
+: 1690 2 7  of
+: 1693 2 5  the
+: 1697 7 3  storm
+- 1714
+: 1728 6 5 Seek
+: 1737 2 5  the
+: 1740 7 5  rose
+: 1756 3 5  a
+: 1761 4 3 long
+: 1767 3 5  the
+: 1774 7 0  way
+- 1791
+: 1803 2 5 Just
+: 1806 2 7  be
+: 1809 5 8 ware
+: 1820 1 7  of
+: 1822 2 5  the
+: 1825 9 3  thorns
+- 1852
+: 1872 7 10 Here
+: 1881 2 10  I
+: 1884 3 9 ~
+: 1888 26 9  am
+- 1924
+: 1948 1 7 Will
+: 1950 1 9  you
+: 1953 6 10  send
+: 1964 2 7  me
+: 1967 1 5  an
+: 1969 3 5  a
+: 1973 2 2 ~n
+: 1977 4 2 gel
+- 1991
+: 2000 7 10 Here
+: 2009 2 10  I
+: 2012 3 9 ~
+: 2016 26 9  am
+- 2052
+: 2076 1 7 In
+: 2078 1 9  the
+: 2081 5 10  land
+: 2092 2 9  of
+: 2095 1 7  the
+: 2097 6 5  mor
+: 2104 6 9 ning
+* 2113 2 9  sta
+* 2116 42 10 ~r
+- 2194
+: 2528 4 3 Wise
+: 2533 4 3  man
+: 2541 6 3  said
+: 2556 2 3  just
+: 2560 5 1  raise
+: 2568 3 3  your
+: 2573 5 -2  hand
+- 2588
+: 2603 2 3 And
+: 2606 1 5  reach
+: 2608 6 6  out
+: 2620 1 5  for
+: 2622 2 3  the
+: 2626 5 1  spell
+- 2641
+: 2656 5 3 Find
+: 2664 2 3  the
+: 2668 7 3  door
+: 2684 1 3  to
+: 2686 1 3  the
+: 2689 4 1  pro
+: 2694 2 3 mised
+: 2700 5 -2  land
+- 2715
+: 2731 1 3 Just
+: 2734 1 5  be
+: 2736 6 6 lieve
+: 2746 2 5  in
+: 2749 2 3  your
+: 2753 4 1 self
+- 2767
+: 2784 5 3 Hear
+: 2792 2 3  this
+: 2797 5 3  voice
+: 2812 3 3  from
+: 2817 2 1  deep
+: 2821 4 3  in
+: 2829 5 -2 side
+- 2844
+: 2858 2 3 It’s
+: 2862 1 5  the
+: 2864 5 6  call
+: 2874 2 5  of
+: 2877 2 3  your
+: 2880 5 1  heart
+- 2895
+: 2913 5 3 Close
+: 2920 3 3  your
+: 2925 8 3  eyes
+: 2941 3 3  and
+: 2945 3 1  you
+: 2949 3 3  will
+: 2956 5 -2  find
+- 2971
+: 2987 1 3 The
+: 2989 2 5  way
+: 2992 6 6  out
+: 3004 1 5  of
+: 3006 2 3  the
+: 3009 7 1  dark
+- 3034
+: 3055 8 8 Here
+: 3065 2 8  I
+: 3068 3 7 ~
+: 3073 26 7  am
+- 3109
+: 3132 1 5 Will
+: 3134 1 7  you
+: 3137 6 8  send
+: 3148 2 7  me
+: 3151 1 5  an
+: 3153 3 3  a
+: 3157 3 0 ~n
+: 3161 4 0 gel
+- 3175
+* 3184 8 8 Here
+* 3193 3 8  I
+* 3197 2 7 ~
+* 3201 26 7  am
+- 3237
+: 3261 1 5 In
+: 3263 1 7  the
+: 3265 6 8  land
+: 3276 2 7  of
+: 3279 1 5  the
+: 3281 6 3  mor
+: 3289 1 5 ni
+: 3291 2 7 ~ng
+: 3297 12 5  star
+- 3310
+: 3312 8 8 Here
+: 3321 2 8  I
+: 3324 3 7 ~
+: 3329 26 7  am
+- 3365
+: 3389 1 5 Will
+: 3391 1 7  you
+: 3393 6 8  send
+: 3404 1 7  me
+: 3406 2 5  an
+: 3409 3 3  a
+: 3413 2 0 ~n
+: 3417 4 0 gel
+- 3431
+: 3440 8 8 Here
+: 3449 2 8  I
+: 3452 3 7 ~
+: 3457 26 7  am
+- 3493
+: 3516 1 5 In
+: 3518 1 7  the
+: 3521 6 8  land
+: 3532 2 7  of
+: 3535 1 5  the
+: 3537 6 3  mor
+: 3545 1 5 ni
+: 3547 3 7 ~ng
+: 3553 30 5  star
+- 3619
+: 3772 1 5 In
+: 3774 1 7  the
+: 3776 5 8  land
+- 3791
+: 3805 1 5 In
+: 3807 1 7  the
+: 3809 5 8  land
+- 3824
+: 3836 1 5 In
+: 3838 1 7  the
+: 3840 6 8  land
+: 3851 2 7  of
+: 3854 1 5  the
+: 3856 6 3  mor
+: 3864 1 5 ni
+: 3866 3 7 ~ng
+: 3872 30 5  star
+E

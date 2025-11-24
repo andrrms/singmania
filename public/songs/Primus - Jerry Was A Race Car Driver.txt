@@ -1,0 +1,219 @@
+#ARTIST:Primus
+#TITLE:Jerry Was A Race Car Driver
+#MP3:Primus - Jerry Was A Race Car Driver.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band 3
+#GENRE:Alternative Rock
+#YEAR:1991
+#LANGUAGE:English
+#BPM:396.36
+#GAP:29280
+#VIDEO:v=LBQ2305fLeA,co=https://i.discogs.com/t0eV1iHKf2EHPlN2AjiHRgeVVWUWfobE_WtqF9S7oV8/rs:fit/g:sm/q:90/h:488/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODA5/NzEtMTM3MjA0NjM1/NC03MzI5LmpwZWc.jpeg,bg=primus-6270315569296.jpg
+: 0 2 12 Jer
+: 3 1 10 ry 
+: 6 1 10 was 
+: 10 1 8 a 
+: 13 3 8 race 
+: 19 1 6 car 
+: 22 6 8 dri
+: 29 2 8 ver 
+- 33
+: 48 1 8 He 
+: 52 4 12 drove 
+: 58 1 10 so 
+: 61 4 12 god
+: 68 3 12 damn 
+: 74 4 12 fast 
+- 80
+: 103 2 12 Ne
+: 107 1 12 ver 
+: 109 2 12 did 
+: 115 3 12 win 
+: 121 2 8 no 
+: 125 2 11 che
+: 131 2 8 ckered 
+: 139 4 8 flags 
+- 145
+: 147 2 8 But 
+: 150 2 6 he 
+* 154 3 8 ne
+: 158 1 8 ver 
+: 160 3 8 did 
+* 167 2 12 come 
+* 172 2 6 in 
+: 177 8 8 last 
+- 187
+: 206 2 12 Jer
+: 209 2 10 ry 
+: 212 2 10 was 
+: 216 1 10 a 
+: 218 4 11 race 
+: 225 2 10 car 
+: 228 6 8 dri
+: 236 2 8 ver 
+- 240
+: 242 5 12 He’d 
+: 251 3 8 say 
+: 257 4 12 El 
+: 264 3 8 Sob 
+: 271 4 12 num
+: 276 3 12 ber 
+: 281 7 8 one 
+- 290
+: 303 2 13 With 
+: 306 2 13 a 
+: 309 4 8 Bo
+: 316 2 10 ce
+: 319 1 8 phus 
+: 323 2 10 sti
+: 326 2 8 cker 
+: 330 1 8 on 
+: 332 2 6 his 
+: 336 4 8 four, 
+: 343 4 8 four, 
+: 349 2 10 two 
+- 353
+* 355 3 6 He’d 
+: 361 3 6 light 
+: 365 2 6 ’em 
+: 368 3 6 up 
+: 375 3 8 just 
+* 380 2 6 for 
+* 384 9 8 fun 
+- 395
+: 412 43 9 Ah 
+- 457
+: 516 38 9 Ah 
+- 556
+: 827 3 12 Cap
+: 832 2 6 tain 
+: 836 3 8 Pierce 
+: 843 1 6 was 
+: 845 1 6 a 
+: 849 5 7 fire
+: 856 3 8 man 
+- 861
+: 878 2 8 Rich
+: 885 2 6 mond 
+: 888 4 8 en
+: 895 3 8 gine 
+: 900 4 8 num
+: 907 2 8 ber 
+: 912 2 8 three 
+- 916
+: 918 2 6 I’ll 
+: 923 1 8 be 
+: 926 2 6 a 
+* 929 3 8 weal
+: 934 2 6 thy 
+* 937 6 8 man 
+: 945 2 6 when 
+: 948 2 6 I 
+: 952 3 8 get 
+* 958 2 8 that 
+: 963 4 8 dime 
+- 969
+: 971 1 8 For 
+: 974 2 6 all 
+: 977 1 6 the 
+: 980 5 8 things 
+: 988 1 6 that 
+: 992 4 6 man 
+: 998 1 6 had 
+: 1002 3 7 taught 
+: 1009 3 8 to 
+: 1014 3 8 me 
+- 1019
+: 1021 1 7 Now 
+- 1024
+: 1031 3 11 Cap
+* 1036 1 11 tain 
+: 1040 4 14 Pierce 
+* 1047 1 14 was 
+* 1050 1 14 a 
+: 1053 4 11 strong 
+: 1060 6 9 man 
+- 1068
+: 1083 2 12 Strong 
+: 1086 2 10 as 
+: 1089 2 10 a
+: 1092 2 8 ny 
+: 1095 5 12 man 
+: 1101 1 12 a
+: 1105 6 8 live 
+- 1113
+: 1134 1 13 Stuck 
+: 1138 1 8 in 
+: 1140 1 8 his 
+: 1145 5 8 craw 
+: 1153 1 6 they 
+: 1157 4 8 made 
+: 1163 5 6 him 
+: 1170 1 6 re
+: 1174 2 8 tire 
+- 1178
+: 1180 1 3 At 
+: 1183 1 3 the 
+: 1186 5 6 age 
+* 1194 1 3 of 
+: 1200 1 6 six
+: 1205 1 3 ty-
+* 1208 13 6 five 
+- 1223
+: 1237 45 8 Ah 
+- 1284
+: 1341 42 8 Ah 
+- 1385
+F 1633 2 21 Go! 
+- 1637
+F 2051 2 21 Heh, 
+F 2057 2 21 heh, 
+F 2061 2 21 heh, 
+F 2067 2 21 heh 
+- 2071
+F 2084 13 21 Dog 
+F 2101 4 21 will 
+F 2108 4 21 hunt 
+- 2114
+: 2766 41 9 Ah 
+- 2809
+: 2869 43 9 Ah 
+- 2914
+F 3179 1 21 Jer
+F 3181 2 21 ry 
+F 3185 2 21 was 
+F 3188 2 21 a 
+F 3191 3 21 race 
+F 3197 2 21 car 
+F 3201 5 21 dri
+F 3208 2 21 ver 
+- 3212
+F 3230 3 21 Twen
+F 3234 1 21 ty-
+F 3239 4 21 two 
+F 3245 4 21 years 
+F 3252 9 21 old 
+- 3263
+F 3281 3 21 One 
+F 3287 3 21 too 
+F 3292 3 21 ma
+F 3296 1 21 ny 
+F 3299 1 21 crow
+F 3303 4 21 bars 
+F 3310 4 21 one 
+F 3316 3 21 night 
+- 3321
+F 3323 2 21 And 
+F 3326 1 21 wrapped 
+F 3328 2 21 him
+F 3333 4 21 self 
+- 3339
+F 3341 2 21 A
+F 3344 5 21 round 
+F 3350 2 21 a 
+F 3353 2 21 te
+F 3356 2 21 le
+F 3360 3 21 phone 
+F 3367 4 21 pole 
+F 3372 2 21 go 
+E

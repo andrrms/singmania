@@ -1,0 +1,373 @@
+#ARTIST:Rainbow
+#TITLE:The Temple Of The King
+#MP3:Rainbow - The Temple Of The King.mp3
+#CREATOR:Pandorasings
+#YEAR:1975
+#LANGUAGE:English
+#BPM:324.8
+#GAP:25630
+#VIDEO:v=ZUpxniZBb5s,co=ritchie-blackmores-rainbow-55e1bb549de77.jpg,bg=rainbow-51b22d4b75e1c.jpg
+: 0 4 4 One 
+: 8 4 4 day 
+: 16 3 4 in 
+: 20 3 4 the 
+: 24 4 2 year 
+: 32 3 2 of 
+: 36 3 2 the 
+: 40 7 2 fox 
+- 48
+: 48 3 0 Came 
+: 52 3 0 a 
+: 56 8 0 time 
+: 68 3 0 re
+: 72 7 0 mem
+: 80 3 0 bered 
+: 84 16 -3 well 
+- 102
+: 112 3 -3 When 
+: 116 3 -3 the 
+: 120 4 0 strong 
+: 128 4 0 young 
+: 136 4 0 man 
+: 144 3 0 of 
+: 148 3 0 the 
+: 152 4 -1 ris
+: 160 3 -1 ing 
+: 164 8 -1 Sun 
+- 174
+: 176 3 -5 Heard 
+: 180 3 -5 the 
+: 184 7 -3 tolling 
+: 192 3 0 of 
+: 196 3 -3 the 
+: 200 7 -1 great 
+: 208 7 -5 black 
+: 216 28 -5 bell 
+- 246
+: 256 4 2 One 
+: 264 4 2 day 
+: 272 3 2 in 
+: 276 3 7 the 
+: 280 7 2 year 
+: 288 3 2 of 
+: 292 3 2 the 
+: 296 7 2 fox 
+- 304
+: 304 3 0 When 
+: 308 3 0 the 
+: 312 11 2 bell 
+: 324 3 0 be
+: 328 7 4 gan 
+: 336 3 2 to 
+: 340 12 0 ring 
+- 354
+: 368 3 -3 Meant 
+: 372 3 -1 the 
+: 376 8 0 time 
+: 388 3 0 had 
+: 392 8 0 come 
+: 404 3 0 for 
+: 408 3 0 the 
+: 412 3 -1 one 
+: 416 3 -1 to 
+: 420 8 -1 go 
+- 430
+: 432 3 -5 To 
+: 436 4 -5 the 
+: 444 3 -3 tem
+: 448 4 0 ple 
+: 460 3 -3 of 
+: 464 4 -5 the 
+: 472 12 -5 King 
+- 486
+: 504 7 2 There 
+: 512 3 2 in 
+: 516 3 2 the 
+: 520 7 2 middle 
+: 528 3 0 of 
+: 532 3 2 the 
+: 536 8 2 circle 
+: 548 3 2 he 
+: 552 15 2 stands 
+- 568
+* 568 15 0 Search
+* 584 8 -3 ing, 
+* 600 15 0 seek
+* 616 11 -3 ing 
+- 628
+: 628 3 2 With 
+: 632 4 2 just 
+: 640 4 2 one 
+: 648 3 2 touch 
+: 652 3 2 of 
+: 656 4 2 his 
+: 664 3 2 trem
+: 668 8 0 bling 
+: 680 7 2 hand 
+- 688
+: 688 4 2 The 
+: 696 3 0 ans
+: 700 4 2 wer 
+: 708 3 0 will 
+: 712 4 2 be 
+: 720 12 -1 found 
+- 734
+: 756 11 2 Daylight 
+: 768 7 2 waits 
+: 776 3 2 while 
+: 780 4 2 the 
+: 788 3 0 old 
+: 792 4 2 man 
+: 800 15 0 sings 
+- 816
+* 816 7 2 He
+* 824 7 0 av
+* 832 8 -3 en, 
+* 848 11 0 help 
+* 860 8 -3 me 
+- 870
+: 876 7 2 Then 
+: 884 3 2 like 
+: 888 3 2 a 
+: 892 7 2 rush 
+: 900 3 0 of 
+: 904 3 0 a 
+: 908 7 2 thous
+: 916 7 0 and 
+: 924 7 2 wings 
+- 932
+: 932 4 0 It 
+: 940 8 4 shines 
+: 952 3 8 u
+: 956 8 4 pon 
+: 968 3 4 the 
+: 972 12 4 one 
+- 986
+: 992 3 2 And 
+: 996 3 4 the 
+: 1000 12 5 day 
+: 1016 15 5 has 
+: 1032 8 4 just 
+: 1048 12 0 be
+: 1064 15 0 gu
+* 1080 24 -3 n 
+- 1106
+F 1108 472 4 (Small solo) 
+- 1582
+: 1588 4 4 One 
+: 1596 4 4 day 
+: 1604 3 4 in 
+: 1608 3 4 the 
+: 1612 7 2 year 
+: 1620 3 2 of 
+: 1624 3 2 the 
+: 1628 7 2 fox 
+- 1636
+: 1636 3 0 Came 
+: 1640 3 0 a 
+: 1644 8 0 time 
+: 1656 3 0 re
+: 1660 7 0 mem
+: 1668 3 0 bered 
+: 1672 16 -3 well 
+- 1690
+: 1700 3 -3 When 
+: 1704 3 -3 the 
+: 1708 7 0 strong 
+: 1716 4 0 young 
+: 1724 4 0 man 
+: 1732 3 0 of 
+: 1736 3 0 the 
+: 1740 7 -1 ris
+: 1748 3 -1 ing 
+: 1752 11 -1 Sun 
+- 1764
+: 1764 3 -5 Heard 
+: 1768 3 -3 the 
+: 1772 3 0 toll
+: 1776 3 -3 ing 
+: 1780 3 -3 of 
+: 1784 3 -3 the 
+: 1788 7 -3 great 
+: 1796 7 -3 black 
+: 1804 12 -3 bell 
+- 1818
+: 1844 4 4 One 
+: 1852 4 4 day 
+: 1860 3 4 in 
+: 1864 3 7 the 
+: 1868 7 2 year 
+: 1876 3 2 of 
+: 1880 3 2 the 
+: 1884 7 2 fox 
+- 1892
+: 1892 3 0 When 
+: 1896 3 2 the 
+: 1900 11 2 bell 
+: 1912 8 4 began 
+: 1924 3 2 to 
+: 1928 7 0 si
+: 1936 8 -3 ng 
+- 1946
+: 1956 3 0 Meant 
+: 1960 4 0 the 
+: 1968 3 0 time 
+: 1972 4 0 had 
+: 1980 4 0 come 
+- 1986
+: 1988 3 -1 For 
+: 1992 3 -1 the 
+: 1996 8 -1 one 
+: 2008 3 -5 to 
+: 2012 4 -3 go 
+- 2018
+: 2020 3 0 To 
+: 2024 3 -3 the 
+: 2028 12 -3 temple 
+: 2044 7 -3 of 
+: 2052 4 -3 the 
+: 2060 12 -3 king 
+- 2074
+: 2092 7 2 There 
+: 2100 3 2 in 
+: 2104 3 2 the 
+: 2108 7 2 middle 
+: 2116 3 0 of 
+: 2120 3 2 the 
+: 2124 7 2 people 
+: 2132 3 2 he 
+: 2136 12 2 stands 
+- 2150
+* 2152 15 0 See
+* 2168 12 -3 ing, 
+* 2184 15 0 feel
+* 2200 11 -3 ing 
+- 2212
+: 2212 3 2 With 
+: 2216 7 2 just 
+: 2224 4 2 a 
+: 2232 7 2 wave 
+: 2240 3 0 of 
+: 2244 3 2 a 
+: 2248 7 2 strong 
+: 2256 7 0 right 
+: 2264 7 2 hand 
+: 2272 4 0 he’s 
+: 2280 3 2 go
+: 2284 47 4 ne 
+- 2332
+: 2332 3 2 To 
+: 2336 3 4 the 
+: 2340 15 5 tem
+: 2356 12 5 ple 
+: 2376 12 7 of 
+: 2392 8 7 the 
+F 2408 71 9 
+* 2480 4 9 King 
+- 2486
+F 2492 1419 2 (SOLO) 
+- 3912
+: 3912 4 0 Far 
+: 3920 3 2 from 
+: 3924 3 2 the 
+: 3928 7 2 circle 
+: 3936 3 0 of 
+: 3940 3 0 the 
+: 3944 3 2 edge 
+: 3948 3 2 of 
+: 3952 3 2 the 
+: 3956 11 2 World 
+: 3968 4 2 he’s 
+- 3974
+* 3976 11 0 Hop
+* 3988 12 -3 ing, 
+* 4004 15 0 wonde
+* 4020 12 -3 ring 
+- 4034
+: 4040 3 2 Think
+: 4044 3 2 ing 
+: 4048 7 2 back 
+: 4056 3 2 from 
+: 4060 4 2 the 
+: 4068 4 2 stories 
+: 4076 3 0 he’s 
+: 4080 15 2 heard 
+- 4096
+: 4096 3 0 Of 
+: 4100 3 2 what 
+: 4104 3 0 he’s 
+: 4108 8 2 gonna 
+: 4120 20 -1 see 
+- 4142
+: 4164 3 2 There 
+: 4168 3 2 in 
+: 4172 3 2 the 
+: 4176 3 2 middle 
+: 4180 3 2 of 
+: 4184 3 2 the 
+: 4188 7 2 circle 
+: 4196 4 2 it 
+: 4204 8 0 lies 
+- 4214
+* 4220 7 2 He
+* 4228 7 0 av
+* 4236 8 -3 en 
+* 4252 11 0 help 
+* 4264 11 -3 me 
+- 4276
+: 4276 3 2 Then 
+: 4280 4 2 all 
+: 4288 7 2 could 
+: 4296 3 2 see 
+: 4300 3 0 by 
+: 4304 3 2 the 
+: 4308 3 2 shine 
+F 4312 1 -2 
+F 4314 1 0 
+: 4316 3 2 in 
+: 4320 4 0 his 
+* 4328 7 4 eyes 
+- 4336
+: 4336 4 4 The 
+: 4344 3 8 ans
+: 4348 3 4 wer 
+: 4352 7 2 had 
+: 4360 7 2 been 
+: 4368 16 2 found 
+- 4386
+: 4404 3 2 Back 
+: 4408 3 2 with 
+: 4412 3 2 the 
+: 4416 7 2 people 
+: 4424 3 0 in 
+: 4428 3 2 the 
+: 4432 7 2 circle 
+: 4440 3 0 he 
+: 4444 12 2 stands 
+- 4458
+* 4464 11 0 Giv
+* 4476 12 -3 ing, 
+* 4492 15 0 feel
+* 4508 11 -3 ing 
+- 4520
+: 4520 3 2 With 
+: 4524 3 2 just 
+: 4528 7 2 one 
+: 4536 7 2 touch 
+: 4544 3 0 of 
+: 4548 3 2 a 
+: 4552 7 0 strong 
+: 4560 7 2 right 
+: 4568 7 0 hand 
+: 4576 7 2 they 
+: 4584 48 2 know 
+- 4634
+: 4636 3 2 Of 
+: 4640 3 4 the 
+: 4644 15 5 tem
+: 4660 11 5 ple 
+: 4672 12 7 and 
+: 4692 8 7 the 
+F 4708 55 12 
+* 4764 4 9 King. 
+E

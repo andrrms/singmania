@@ -1,0 +1,328 @@
+#ARTIST:Grave Digger
+#TITLE:Rebellion (The Clans Are Marching)
+#MP3:Grave Digger - Rebellion (The Clans Are Marching).mp3
+#CREATOR:Fepo
+#GENRE:Metal
+#YEAR:1996
+#LANGUAGE:English
+#BPM:300
+#GAP:4490
+#VIDEO:v=p-x_uBB-KIE,co=https://m.media-amazon.com/images/M/MV5BZDU2N2U2ZmEtY2JkNi00YjZmLWI3NTQtMmJmNDQ5YjIzODk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg,bg=grave-digger-53f4851d28edd.jpg
+: 0 5 4 The 
+: 9 7 4 clans 
+: 20 4 6 are 
+: 28 7 6 mar
+: 37 4 6 ching 
+: 43 8 4 ’gainst 
+: 54 3 2 the 
+: 59 8 4 law 
+- 69
+: 74 6 -1 Bag
+: 83 4 -1 pi
+: 91 5 -1 pers 
+: 100 6 0 play 
+: 110 3 -1 the 
+: 118 8 -5 tunes 
+: 129 2 -3 of 
+: 133 8 -1 war 
+- 143
+: 154 7 4 Death 
+: 165 3 4 or 
+: 170 9 6 glo
+: 183 4 6 ry 
+: 189 6 4 I 
+: 200 3 7 will 
+: 206 8 4 find 
+- 216
+: 222 4 4 Re
+: 228 5 4 bell
+: 236 5 4 ion 
+: 245 4 7 on 
+: 252 4 4 my 
+: 258 10 4 mind 
+- 270
+: 291 5 4 The 
+: 300 9 4 clans 
+: 311 6 6 are 
+: 320 6 7 mar
+: 328 3 6 ching 
+: 333 8 4 ’gainst 
+: 345 3 2 the 
+: 350 12 4 law 
+- 364
+: 365 6 -1 Bag
+: 374 5 -1 pi
+: 382 5 -1 pers 
+: 390 6 0 play 
+: 400 4 -1 the 
+: 409 7 -5 tunes 
+: 419 3 -3 of 
+: 425 8 -1 war 
+- 435
+: 445 7 4 Death 
+: 455 3 4 or 
+: 460 10 6 glo
+: 473 4 4 ry 
+: 480 6 4 I 
+: 490 4 -5 will 
+: 496 7 4 find 
+- 505
+: 514 3 4 Re
+: 519 5 4 bell
+: 527 5 4 ion 
+: 537 3 7 on 
+: 542 4 4 my 
+: 548 10 4 mind 
+- 560
+: 1010 6 -1 Ru
+: 1019 6 0 mours 
+: 1028 4 0 kno
+: 1034 17 -1 ~w 
+- 1053
+: 1058 3 -1 That 
+: 1063 4 -1 re
+: 1069 5 -1 bell
+: 1076 7 0 ion 
+: 1086 4 -1 will 
+: 1092 5 0 break 
+: 1101 18 -1 out 
+- 1121
+: 1139 3 7 Bonn
+: 1144 2 4 ie 
+: 1148 3 4 Prince 
+: 1153 9 7 Charles 
+: 1164 2 4 is 
+: 1168 2 7 in 
+: 1172 2 4 the 
+: 1176 6 7 high
+: 1185 12 4 lands 
+- 1199
+: 1208 3 0 To 
+: 1212 10 6 claim 
+: 1224 4 0 his 
+* 1230 7 6 crown 
+: 1241 7 0 no 
+: 1250 14 4 doubt 
+- 1266
+: 1281 3 0 He 
+: 1286 9 2 raised 
+: 1298 4 -1 his 
+: 1304 4 -1 Stan
+: 1310 3 0 dart 
+: 1314 2 0 at 
+: 1318 4 -1 Glen
+: 1326 3 0 fin
+: 1331 9 -1 nen, 
+- 1342
+: 1358 3 0 Call
+: 1363 3 0 ing 
+: 1368 8 0 to 
+: 1378 3 2 our
+: 1383 6 4 ~ 
+: 1391 18 4 pride 
+- 1411
+: 1428 3 6 The 
+: 1432 3 8 Ja
+: 1437 6 6 co
+: 1445 13 6 bites 
+: 1461 5 6 are 
+: 1469 2 6 ga
+: 1473 7 4 ther
+: 1482 11 4 ing, 
+- 1495
+: 1506 6 6 I’ll 
+: 1514 8 6 be 
+: 1524 2 7 at 
+: 1528 6 2 their 
+: 1537 17 4 side 
+- 1556
+: 1585 3 6 Armed 
+: 1590 2 6 and 
+: 1593 6 6 rea
+: 1601 2 4 dy 
+: 1605 9 4 stand 
+- 1616
+: 1619 2 2 My 
+: 1623 3 4 rights 
+: 1627 2 4 I 
+: 1630 4 5 must 
+: 1636 3 4 de
+: 1641 10 4 fend 
+- 1653
+: 1659 5 6 Steel’s 
+: 1666 3 7 in 
+: 1671 4 6 my 
+: 1677 8 4 hand 
+- 1687
+: 1734 5 4 The 
+* 1741 8 4 clans 
+: 1752 5 6 are 
+* 1760 6 6 mar
+: 1769 4 4 ching 
+: 1775 6 4 ’gainst 
+: 1786 4 2 the 
+: 1793 10 4 law 
+- 1805
+: 1806 5 -1 Bag
+: 1814 6 0 pi
+: 1823 5 -1 pers 
+: 1832 7 0 play 
+: 1842 4 -1 the 
+* 1849 9 -3 tunes 
+: 1860 3 0 of 
+: 1866 10 -1 war 
+- 1878
+: 1887 6 4 Death 
+: 1895 3 4 or 
+: 1901 11 6 glo
+: 1914 5 4 ry 
+: 1921 8 4 I 
+: 1932 3 6 will 
+: 1937 8 4 find 
+- 1947
+: 1955 2 4 Re
+: 1959 7 4 bell
+: 1969 5 4 ion 
+: 1978 3 6 on 
+: 1984 3 6 my 
+: 1990 7 4 mind 
+- 1999
+: 2098 5 -1 The 
+: 2106 8 -1 town 
+: 2116 3 -1 of 
+: 2121 2 -1 E
+: 2125 3 -1 din
+: 2130 14 -1 burgh 
+- 2146
+: 2150 8 11 Fell 
+: 2161 6 9 soon 
+: 2171 6 11 in 
+: 2180 4 11 our
+: 2186 4 9 ~ 
+: 2196 26 11 hands 
+- 2224
+: 2242 7 6 De
+: 2251 3 6 feated
+: 2256 3 7 ~ 
+: 2261 4 -1 the 
+: 2267 3 6 Eng
+: 2273 12 7 lish 
+- 2287
+: 2298 3 4 At 
+: 2303 2 4 the 
+: 2307 3 6 Bat
+: 2312 3 6 tle 
+: 2318 4 7 of 
+: 2324 6 6 Pre
+: 2333 3 4 sto
+: 2339 22 4 pans 
+- 2363
+: 2387 3 6 Armed 
+: 2392 2 4 and 
+: 2396 6 6 rea
+: 2404 2 4 dy 
+: 2408 9 4 stand 
+- 2419
+: 2422 2 4 My 
+: 2426 3 4 rights 
+: 2431 3 8 I 
+: 2436 2 6 must 
+: 2440 2 4 de
+: 2443 9 4 fend 
+- 2454
+: 2461 5 6 Steel’s 
+: 2468 3 6 in 
+: 2473 5 4 my 
+: 2480 12 4 hand 
+- 2494
+: 2535 5 4 The 
+: 2542 8 4 clans 
+: 2553 5 6 are 
+: 2561 6 6 mar
+: 2570 4 4 ching 
+: 2576 6 4 ’gainst 
+: 2587 4 2 the 
+: 2594 10 4 law 
+- 2606
+: 2608 5 -1 Bag
+: 2616 6 0 pi
+: 2625 5 -1 pers 
+: 2634 7 0 play 
+: 2644 4 -1 the 
+: 2651 9 -3 tunes 
+: 2662 3 0 of 
+: 2668 10 -1 war 
+- 2680
+: 2688 6 4 Death 
+: 2696 3 4 or 
+: 2702 11 6 glo
+: 2715 5 4 ry 
+: 2722 8 4 I 
+: 2733 3 6 will 
+: 2738 8 4 find 
+- 2748
+: 2758 2 4 Re
+: 2762 7 4 bell
+: 2772 5 4 ion 
+: 2781 3 6 on 
+: 2787 3 6 my 
+: 2793 7 4 mind 
+- 2802
+: 4157 5 4 The 
+: 4164 8 4 clans 
+: 4175 5 6 are 
+: 4183 6 6 mar
+: 4192 4 4 ching 
+: 4198 6 4 ’gainst 
+: 4209 4 2 the 
+: 4216 10 4 law 
+- 4228
+: 4229 5 -1 Bag
+: 4237 6 0 pi
+: 4246 5 -1 pers 
+: 4255 7 0 play 
+: 4265 4 -1 the 
+: 4272 9 -3 tunes 
+: 4283 3 0 of 
+: 4289 10 -1 war 
+- 4301
+: 4310 6 4 Death 
+: 4318 3 4 or 
+: 4324 11 6 glo
+: 4337 5 4 ry 
+: 4344 8 4 I 
+: 4355 3 6 will 
+: 4360 8 4 find 
+- 4370
+: 4378 2 4 Re
+: 4382 7 4 bell
+: 4392 5 4 ion 
+: 4401 3 6 on 
+: 4407 3 6 my 
+: 4413 7 4 mind 
+- 4422
+: 4450 3 7 The 
+: 4456 8 7 clans 
+: 4466 2 4 are 
+: 4470 5 6 march
+: 4477 11 4 ing 
+- 4490
+: 4518 7 4 Come 
+: 4528 6 0 play 
+: 4536 3 4 the 
+: 4541 12 4 tunes 
+: 4555 4 6 of 
+: 4561 20 4 war 
+- 4583
+: 4602 6 14 Death 
+: 4611 2 14 or 
+: 4615 9 14 glo
+: 4626 15 17 ry 
+- 4643
+: 4665 6 4 Re
+: 4674 4 4 bell
+: 4680 9 4 ion 
+: 4691 3 7 on 
+: 4696 6 4 my 
+: 4704 11 4 mind 
+E

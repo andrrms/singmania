@@ -1,0 +1,201 @@
+#ARTIST:Pretenders
+#TITLE:Have Yourself A Merry Little Christmas
+#MP3:Pretenders - Have Yourself A Merry Little Christmas.mp3
+#CREATOR:tigger_75
+#EDITION:Christmas
+#GENRE:Christmas Rock
+#YEAR:1987
+#LANGUAGE:English
+#BPM:297.5
+#GAP:22360
+#VIDEO:a=GH4pJ_TX3Ok,co=get-close-5e4af3b846192.jpg,bg=pretenders-52113470c940d.jpg,tags=Christmas,preview=22.36,medley=690-2023
+#START:14
+#END:277000
+: 0 8 5 Have 
+: 10 4 9 your
+: 17 28 12 self 
+- 47
+: 60 4 17 A 
+: 66 7 12 mer
+: 74 14 10 ry 
+: 91 4 9 lit
+: 98 5 7 tle 
+: 107 9 5 Christ
+: 118 12 7 mas 
+- 132
+: 173 7 5 Let 
+: 182 5 9 your 
+: 189 26 12 heart 
+: 224 10 17 be 
+: 240 22 12 light 
+- 264
+: 344 9 9 From 
+: 355 6 12 now 
+: 362 19 17 on 
+: 391 12 21 our 
+: 408 7 19 trou
+: 416 13 16 bles 
+- 430
+: 432 7 14 Will 
+: 442 6 12 be 
+: 452 21 12 out 
+: 485 7 10 of 
+: 498 14 9 sight 
+- 514
+: 690 10 5 Have 
+: 702 3 9 your
+: 707 16 12 self 
+- 725
+: 746 8 17 A 
+: 758 7 12 mer
+: 767 5 10 ry 
+: 787 5 9 lit
+: 794 5 7 tle 
+: 801 9 5 Christ
+: 811 15 7 mas 
+- 828
+: 868 6 5 Make 
+: 876 3 9 the 
+: 883 19 12 Yule-
+: 903 24 17 tide 
+: 934 34 12 gay 
+- 970
+: 1041 7 9 From 
+: 1050 6 12 now 
+: 1058 22 17 on 
+: 1086 13 21 our 
+: 1104 7 19 trou
+: 1112 15 16 bles 
+- 1128
+: 1130 7 14 Will 
+: 1140 7 13 be 
+: 1152 24 13 miles 
+: 1183 9 16 a
+: 1195 14 17 way 
+- 1211
+: 1365 30 21 Here 
+: 1398 9 21 we 
+: 1410 18 21 are 
+: 1435 4 19 a
+: 1440 5 17 ~s 
+: 1447 4 17 in 
+: 1452 6 16 ol
+: 1459 5 17 den 
+: 1467 35 19 days 
+- 1504
+: 1524 9 17 Hap
+: 1535 4 16 py 
+: 1541 6 14 gol
+: 1548 6 16 den 
+: 1556 45 17 days 
+: 1621 11 16 of 
+: 1634 18 12 yore 
+- 1654
+: 1723 26 17 Faith
+: 1751 5 17 ful 
+: 1758 28 17 friends 
+: 1789 6 16 who 
+: 1796 5 14 are 
+: 1809 7 12 dear 
+: 1819 5 14 to 
+: 1827 24 16 us 
+- 1853
+: 1875 8 16 Ga
+: 1885 7 17 ther 
+: 1893 8 19 near 
+: 1907 5 19 to 
+: 1913 48 19 us 
+: 1967 19 19 once 
+: 1988 35 19 more 
+- 2025
+: 2098 6 5 Through 
+: 2106 4 9 the 
+: 2112 20 12 years 
+- 2134
+: 2152 7 17 We 
+: 2161 18 12 all 
+: 2181 7 10 will 
+: 2190 5 9 be 
+: 2200 4 7 to
+: 2205 4 5 get
+: 2210 12 7 her 
+- 2224
+: 2286 6 5 If 
+: 2293 2 9 the 
+: 2296 27 12 fates 
+: 2325 13 17 al
+: 2341 17 12 low 
+- 2360
+: 2452 6 9 Hang 
+: 2459 3 12 a 
+: 2463 26 17 shi
+: 2495 14 21 ning 
+: 2511 12 19 star 
+- 2525
+: 2538 4 17 U
+: 2543 7 16 pon 
+: 2551 3 14 the 
+: 2556 11 13 high
+: 2579 17 16 est 
+: 2598 19 17 bough 
+- 2619
+: 2771 4 17 And 
+: 2776 28 21 have 
+: 2810 6 21 your
+: 2818 16 21 self 
+- 2836
+: 2869 3 16 A 
+: 2873 7 21 mer
+: 2883 16 19 ry 
+: 2910 5 17 lit
+: 2916 9 16 tle 
+: 2929 10 14 Christ
+: 2940 18 16 mas 
+: 2962 47 17 now 
+- 3011
+: 3878 6 5 Through 
+: 3887 3 9 the 
+: 3893 28 12 years 
+- 3923
+: 3929 10 17 We 
+: 3944 19 12 all 
+: 3968 4 10 will 
+: 3973 3 9 be
+: 3977 3 7 ~ 
+: 3982 3 7 to
+: 3987 4 5 get
+: 3993 12 7 her 
+- 4007
+: 4057 4 5 If 
+: 4063 4 9 the 
+: 4070 35 12 fates 
+: 4108 14 17 al
+: 4125 25 12 low 
+- 4152
+: 4235 7 9 Hang 
+: 4244 2 12 a 
+: 4248 27 17 shi
+: 4282 11 21 ning 
+: 4296 14 19 star 
+- 4312
+: 4322 6 17 U
+: 4329 6 16 pon 
+: 4337 4 14 the 
+: 4343 16 13 high
+: 4362 19 16 est 
+: 4384 69 17 bough 
+- 4455
+: 4544 15 17 And 
+: 4563 35 21 have 
+: 4601 4 21 your
+: 4608 23 21 self 
+- 4633
+: 4673 3 17 A 
+: 4678 10 21 mer
+: 4690 9 19 ry 
+: 4719 6 17 lit
+: 4729 8 16 tle 
+: 4745 26 14 Christ
+: 4775 44 16 mas 
+: 4844 69 17 now 
+E

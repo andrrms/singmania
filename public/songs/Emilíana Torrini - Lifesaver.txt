@@ -1,0 +1,155 @@
+#ARTIST:Emilíana Torrini
+#TITLE:Lifesaver
+#MP3:Emilíana Torrini - Lifesaver.mp3
+#CREATOR:lava
+#YEAR:2005
+#LANGUAGE:English
+#BPM:297.5
+#GAP:17400
+#VIDEO:a=TmgGCG5WT5U,co=fishermans-woman-51c2c480d3ec1.jpg,bg=torrini-emilana-521665e67d901.jpg
+: 0 30 3 Life
+: 31 7 1 sa
+: 39 34 -2 ver 
+- 75
+: 133 4 -2 Your 
+* 138 6 5 ti
+* 145 8 3 ming’s 
+: 155 25 1 real
+: 181 5 0 ly 
+: 188 47 3 strange 
+- 237
+: 303 11 1 Catch 
+: 315 18 3 me 
+: 334 5 1 la
+: 340 36 -2 ter 
+- 378
+: 434 4 -2 But 
+: 439 6 5 can 
+: 446 5 3 you 
+: 452 35 1 please 
+: 488 4 0 be 
+: 493 42 3 late 
+- 537
+: 632 4 1 And 
+: 637 6 3 it’s 
+: 644 5 5 fun
+: 650 5 3 ny 
+: 656 8 1 how 
+: 665 4 3 your 
+: 671 38 3 thoughts 
+- 710
+: 710 6 1 Think 
+: 717 5 3 they’re 
+: 723 8 5 right 
+: 732 4 3 at 
+: 737 2 1 all 
+* 740 22 -2 ~ 
+- 764
+: 784 4 1 And 
+: 789 6 3 it’s 
+: 796 5 5 fun
+: 802 4 3 ny 
+: 807 9 1 how 
+: 817 5 3 your 
+: 823 24 3 cause 
+- 849
+: 862 6 1 Makes 
+: 869 5 3 no 
+: 877 12 5 sense 
+: 890 3 3 at 
+: 894 2 1 all 
+: 897 22 -2 ~ 
+- 921
+: 935 16 3 Life
+: 952 6 1 sa
+: 959 33 -2 ver 
+- 994
+: 1052 6 -2 Let’s 
+: 1059 7 5 play 
+: 1067 3 3 a 
+: 1071 31 1 litt
+: 1103 6 0 le 
+* 1110 50 3 game 
+- 1162
+: 1223 12 1 Catch 
+: 1236 21 3 me 
+: 1258 5 1 la
+: 1264 51 -2 ter 
+- 1317
+: 1353 4 -2 But 
+: 1358 12 -2 make 
+: 1371 7 5 sure 
+: 1379 7 3 you’ll 
+: 1387 22 1 be 
+: 1410 6 0 there 
+: 1419 49 3 late 
+- 1470
+: 1553 4 1 And 
+: 1558 7 3 it’s 
+: 1567 5 5 fun
+: 1573 3 3 ny 
+: 1578 8 1 how 
+: 1587 3 3 it 
+: 1591 38 3 seems 
+- 1630
+: 1630 7 3 You’re 
+: 1638 7 5 do
+: 1646 7 3 ing 
+: 1656 2 1 things 
+: 1659 14 -2 ~ 
+- 1675
+: 1704 5 1 And 
+: 1710 5 3 its 
+: 1717 6 5 fun
+: 1724 4 3 ny 
+: 1729 6 1 how 
+: 1737 5 3 you 
+: 1743 35 3 find 
+- 1780
+: 1781 8 3 Your 
+: 1791 11 5 peace 
+: 1803 4 3 of 
+: 1811 4 1 mind 
+: 1816 18 -2 ~ 
+- 1836
+: 1851 18 3 Life
+: 1870 7 1 sa
+: 1878 49 -2 ver 
+- 1929
+: 1968 5 -2 I’m 
+: 1974 7 5 can
+: 1982 8 3 cel
+: 1991 31 1 ling 
+: 2023 6 0 our 
+: 2030 66 3 date 
+- 2098
+: 2138 34 3 Life
+: 2173 6 1 sa
+: 2180 44 -2 ver 
+- 2226
+: 2272 5 -2 It’s 
+: 2278 19 5 time 
+: 2298 6 3 you 
+: 2305 21 1 had 
+: 2327 4 0 a 
+* 2332 69 3 break 
+- 2403
+: 3361 31 3 Life
+: 3393 7 1 sa
+: 3401 31 -2 ver 
+- 3434
+: 3494 6 -2 I’m 
+: 3501 6 5 can
+: 3508 9 3 cel
+: 3518 28 1 ling 
+: 3547 21 0 our 
+: 3569 64 3 date 
+- 3635
+: 3667 33 3 Life
+: 3701 7 1 sa
+: 3709 56 -2 ver 
+- 3767
+: 3821 32 3 My 
+: 3854 7 1 sa
+* 3862 46 -2 ver 
+E

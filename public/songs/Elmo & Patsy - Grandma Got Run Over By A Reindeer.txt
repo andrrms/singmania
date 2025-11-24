@@ -1,0 +1,461 @@
+#ARTIST:Elmo & Patsy
+#TITLE:Grandma Got Run Over By A Reindeer
+#MP3:Elmo & Patsy - Grandma Got Run Over By A Reindeer.mp3
+#CREATOR:sentientred
+#EDITION:Christmas
+#COVER:Elmo & Patsy - Grandma Got Run Over By A Reindeer [CO].jpg
+#BACKGROUND:Elmo & Patsy - Grandma Got Run Over By A Reindeer [BG].jpg
+#GENRE:Christmas
+#YEAR:1984
+#LANGUAGE:English
+#BPM:222
+#GAP:4530
+#VIDEO:v=MgIwLeASnkw,co=https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/7d/2c/9d/7d2c9d81-9111-b380-00a1-134571490134/dj.utyjfloe.jpg/5000x5000bb.jpg,tags=Christmas
+: 0 3 8 Grand
+: 4 2 8 ma 
+: 8 2 8 got 
+: 12 1 8 run 
+: 14 4 8 o
+: 20 3 8 ver 
+: 24 2 6 by 
+: 28 1 4 a 
+: 30 4 11 rein
+: 36 6 8 deer 
+- 52
+: 64 3 8 Walk
+: 68 1 8 ing 
+: 70 4 8 home 
+: 76 2 11 from 
+: 80 2 9 our 
+: 84 4 8 house 
+: 90 1 6 Chris
+: 92 3 8 mas 
+: 96 9 9 Eve 
+- 115
+: 128 3 13 You 
+: 132 3 13 can 
+: 136 3 13 say 
+: 140 3 13 there’s 
+: 144 3 13 no 
+: 148 3 13 such 
+: 152 3 11 thing 
+: 156 3 9 as 
+: 160 3 11 San
+: 164 8 8 ta 
+- 182
+: 191 1 8 But 
+: 193 3 6 as 
+: 198 3 6 for 
+: 202 1 8 me 
+: 204 3 9 and 
+: 208 3 8 Grand
+: 212 4 6 pa 
+: 218 2 4 we 
+: 221 2 3 be
+: 224 12 4 lieve 
+- 250
+: 266 3 8 She’d 
+: 270 3 8 been 
+: 274 3 8 drink
+: 278 3 8 ing 
+: 282 3 6 too 
+: 286 3 4 much 
+: 290 3 4 egg
+: 294 7 3 nog 
+- 311
+: 330 3 6 And 
+: 334 3 8 we 
+: 338 3 11 begged 
+: 342 3 6 her 
+: 346 3 4 not 
+: 350 1 6 to 
+: 352 6 8 go 
+- 372
+: 389 3 4 But 
+: 393 3 4 she 
+: 397 2 4 for
+: 400 3 8 got 
+: 405 3 8 her 
+: 409 2 11 med
+: 412 2 11 i
+: 415 4 13 ca
+: 420 7 9 tion 
+- 437
+: 441 3 9 And 
+: 445 4 8 she 
+* 450 3 6 stag
+* 454 2 6 gered 
+: 457 3 8 out 
+: 461 2 9 the 
+: 464 4 8 door 
+: 469 3 6 in
+: 473 2 4 to 
+: 476 2 3 the 
+: 479 9 4 snow 
+- 502
+: 520 3 8 When 
+: 524 2 8 we 
+: 527 4 8 found 
+: 532 3 8 her 
+: 536 3 6 Christ
+: 540 3 4 mas 
+: 544 3 4 mor
+: 548 6 3 ning 
+- 568
+: 584 3 6 At 
+: 588 2 8 the 
+: 591 4 9 scene 
+: 596 3 6 of 
+: 600 2 4 the 
+: 603 2 6 at
+: 606 6 8 tack 
+- 626
+R 647 2 4 She 
+R 651 3 4 had 
+R 655 3 8 hoof
+R 660 2 8 prints 
+R 663 4 11 on 
+R 668 3 11 her 
+R 672 4 13 fore
+R 677 11 9 head 
+- 694
+: 696 2 9 And 
+: 699 4 8 in
+: 704 3 6 crim
+: 708 1 6 in
+: 710 3 8 at
+: 714 3 9 ing 
+: 719 4 8 Claus 
+: 724 4 6 marks 
+: 730 1 4 on 
+: 732 3 3 her 
+: 736 5 4 back 
+- 751
+: 768 3 8 Grand
+: 772 3 8 ma 
+: 776 3 8 got 
+: 780 2 8 run 
+: 783 4 8 o
+: 788 3 8 ver 
+: 792 3 6 by 
+: 796 2 4 a 
+: 799 4 11 rein
+: 804 8 8 deer 
+- 822
+: 832 3 8 Walk
+: 836 3 8 ing 
+: 840 3 8 home 
+: 844 3 11 from 
+: 848 3 9 our 
+: 852 4 8 house 
+: 857 2 6 Christ
+: 860 3 8 mas 
+: 864 11 9 Eve 
+- 885
+: 896 3 13 You 
+: 900 3 13 can 
+: 904 3 13 say 
+: 908 3 13 there’s 
+: 912 3 13 no 
+: 916 3 13 such 
+: 920 3 11 thing 
+: 924 3 9 as 
+: 928 3 11 San
+: 932 6 8 ta 
+- 948
+: 957 3 8 But 
+: 961 3 6 as 
+: 965 3 6 for 
+: 969 2 8 me 
+: 972 3 9 and 
+: 976 3 8 Grand
+: 980 4 6 pa 
+: 987 2 4 we 
+: 990 2 3 be
+: 993 11 4 lieve 
+- 1014
+: 1033 3 8 Now 
+: 1037 3 8 we’re 
+: 1041 3 8 all 
+: 1045 3 8 so 
+: 1049 3 6 proud 
+: 1053 3 4 of 
+: 1057 3 4 Grand
+: 1061 12 3 pa 
+- 1083
+: 1099 3 6 He’s 
+: 1103 3 8 been 
+: 1107 3 11 tak
+: 1111 2 6 ing 
+: 1115 3 4 this 
+: 1119 3 6 so 
+: 1123 8 8 well 
+- 1145
+: 1163 3 4 See 
+: 1167 3 4 him 
+: 1171 3 8 in 
+: 1175 3 8 there 
+: 1179 3 11 watch
+: 1183 3 11 ing 
+: 1187 3 13 foot
+: 1191 9 9 ball 
+- 1208
+: 1211 2 9 Drink
+: 1214 4 8 ing 
+: 1219 3 6 beer 
+: 1223 3 6 and 
+: 1227 1 8 play
+: 1229 3 9 ing 
+: 1233 4 8 cards 
+: 1239 3 6 with 
+: 1243 3 4 cou
+: 1247 3 3 sin 
+: 1251 8 4 Mel 
+- 1273
+: 1291 3 8 It’s 
+: 1295 3 8 not 
+: 1299 3 8 Chris
+: 1303 3 8 mas 
+: 1307 1 6 with
+: 1309 4 4 out 
+: 1315 3 4 Grand
+: 1319 8 3 ma 
+- 1337
+: 1355 2 6 All 
+: 1358 2 8 the 
+: 1361 4 9 fam
+: 1366 3 6 ily’s 
+: 1370 3 4 dressed 
+: 1374 3 6 in 
+: 1378 8 8 black 
+- 1400
+R 1419 2 4 And 
+R 1422 3 4 we 
+R 1426 3 8 just 
+R 1430 3 8 can’t 
+R 1434 3 11 help 
+R 1438 3 11 but 
+R 1442 3 13 won
+R 1446 7 9 der 
+- 1462
+: 1465 3 9 Should 
+: 1469 3 8 we 
+: 1473 3 6 o
+: 1477 2 6 pen 
+: 1480 3 8 up 
+: 1484 3 9 her 
+: 1488 4 8 gifts 
+: 1494 3 6 or 
+: 1499 2 4 send 
+: 1503 2 3 them 
+: 1507 6 4 back? 
+- 1523
+: 1539 3 8 Grand
+: 1543 3 8 ma 
+: 1547 3 8 got 
+: 1551 1 8 run 
+: 1553 4 8 o
+: 1558 4 8 ver 
+: 1563 3 6 by 
+: 1567 3 4 a 
+: 1571 3 11 rein
+: 1575 6 8 deer 
+- 1591
+: 1603 3 8 Walk
+: 1607 2 8 ing 
+: 1610 5 8 home 
+: 1616 1 11 from 
+: 1618 4 9 our 
+: 1623 4 8 house 
+: 1628 2 6 Christ
+: 1631 3 8 mas 
+: 1635 9 9 Eve 
+- 1654
+: 1667 2 13 You 
+: 1670 4 13 can 
+: 1675 3 13 say 
+: 1679 4 13 there’s 
+: 1684 3 13 no 
+: 1688 3 13 such 
+: 1692 3 11 thing 
+: 1696 3 9 as 
+: 1700 3 11 San
+: 1704 6 8 ta 
+- 1720
+: 1727 3 8 But 
+: 1731 3 6 as 
+: 1736 1 6 for 
+: 1738 4 8 me 
+: 1743 3 9 and 
+: 1747 3 8 Grand
+: 1751 4 6 pa 
+: 1757 3 4 we 
+: 1761 1 3 be
+: 1763 15 4 lieve 
+- 1788
+: 1806 3 4 Now 
+: 1810 3 6 the 
+* 1814 5 8 goose 
+: 1820 1 8 is 
+: 1822 3 6 on 
+: 1826 4 4 the 
+: 1831 3 4 ta
+: 1836 8 3 ble 
+- 1854
+: 1872 3 6 And 
+: 1876 2 8 the 
+: 1879 2 11 pud
+: 1882 3 6 ding 
+: 1886 3 4 made 
+: 1890 3 6 of 
+: 1894 3 8 fig 
+- 1911
+R 1935 3 4 And 
+R 1939 2 4 the 
+R 1942 3 8 blue 
+R 1946 5 8 and 
+R 1953 4 11 sil
+R 1959 3 11 ver 
+R 1963 4 13 can
+R 1968 8 9 dles 
+- 1982
+: 1985 2 9 That 
+: 1988 2 8 would 
+: 1991 2 6 just 
+: 1994 3 6 have 
+: 1998 3 8 matched 
+: 2002 3 9 the 
+: 2006 3 8 hair 
+- 2010
+: 2012 2 6 In 
+: 2015 3 4 Grand
+: 2019 3 3 ma’s 
+: 2023 6 4 wig 
+- 2043
+: 2062 3 8 I’ve 
+: 2066 3 8 warned 
+: 2070 3 8 all 
+: 2075 3 8 my 
+: 2079 3 6 friends 
+: 2083 3 4 and 
+: 2087 3 4 neigh
+: 2091 7 3 bors 
+- 2108
+R 2126 3 6 Bet
+R 2130 2 8 ter 
+R 2133 4 9 watch 
+R 2138 3 6 out 
+R 2142 3 4 for 
+R 2146 3 6 your
+R 2150 6 8 selves 
+- 2170
+R 2189 4 4 They 
+R 2194 3 4 should 
+: 2199 3 8 nev
+: 2203 2 8 er 
+: 2207 3 11 give 
+: 2211 3 11 a 
+: 2215 3 13 lic
+: 2219 9 9 ense 
+- 2236
+: 2239 2 9 To 
+: 2242 3 8 a 
+: 2246 4 6 man 
+: 2251 3 6 who 
+: 2255 3 8 drives 
+: 2259 3 9 a 
+: 2263 3 8 sleigh 
+- 2266
+: 2267 4 6 And 
+: 2272 4 4 plays 
+: 2279 1 3 with 
+: 2281 10 4 elves 
+- 2301
+: 2311 3 8 Grand
+: 2315 3 8 ma 
+: 2319 3 8 got 
+: 2323 3 8 run 
+: 2327 3 8 o
+: 2331 3 8 ver 
+: 2335 3 6 by 
+: 2339 3 4 a 
+: 2343 3 11 rein
+: 2347 12 8 deer 
+- 2369
+: 2376 3 8 Walk
+: 2380 3 8 ing 
+: 2384 3 8 home 
+: 2388 2 11 from 
+: 2391 4 9 our 
+: 2396 4 8 house 
+: 2401 2 6 Christ
+: 2404 3 8 mas 
+: 2408 11 9 Eve 
+- 2429
+: 2442 3 13 You 
+: 2446 3 13 can 
+: 2450 3 13 say 
+: 2454 3 13 there’s 
+: 2458 3 13 no 
+: 2462 3 13 such 
+: 2466 3 11 thing 
+: 2470 3 9 as 
+: 2474 3 11 San
+: 2478 10 8 ta 
+- 2498
+: 2502 2 8 But 
+: 2505 4 6 as 
+: 2510 3 6 for 
+: 2514 2 8 me 
+: 2517 4 9 and 
+: 2522 3 8 Grand
+: 2526 4 6 pa 
+: 2532 1 4 we 
+: 2534 3 3 be
+: 2538 9 4 lieve 
+- 2557
+: 2570 3 10 Grand
+: 2574 3 10 ma 
+: 2578 3 10 got 
+: 2582 3 10 run 
+: 2586 3 10 o
+: 2590 3 10 ver 
+: 2594 3 8 by 
+: 2598 3 6 a 
+: 2602 3 13 rein
+: 2606 12 10 deer 
+- 2630
+: 2634 3 10 Walk
+: 2638 2 10 ing 
+: 2641 4 10 home 
+: 2646 2 13 from 
+: 2649 3 11 our 
+: 2653 5 10 house 
+: 2659 1 8 Christ
+: 2661 3 10 mas 
+: 2665 11 11 Eve 
+- 2686
+: 2697 2 15 You 
+: 2700 4 15 can 
+: 2705 3 15 say 
+: 2710 3 15 there’s 
+: 2714 3 15 no 
+: 2718 3 15 such 
+: 2722 3 13 thing 
+: 2726 3 11 as 
+: 2730 3 13 San
+: 2734 9 10 ta 
+- 2753
+: 2760 1 10 But 
+: 2762 5 8 as 
+: 2768 1 8 for 
+: 2770 3 10 me 
+: 2774 3 11 and 
+: 2778 3 10 Grand
+: 2782 3 8 pa 
+: 2786 3 6 we 
+: 2790 3 4 be
+* 2794 15 6 lieve
+* 2810 15 8 ~
+* 2826 32 10 ~ 
+E

@@ -1,0 +1,207 @@
+#ARTIST:Bowling For Soup
+#TITLE:Phineas and Ferb Theme Song
+#MP3:Bowling For Soup - Phineas and Ferb Theme Song.mp3
+#CREATOR:Viktor1234678
+#LANGUAGE:English
+#BPM:356
+#GAP:250
+#VIDEO:v=_qZYWo3txPk,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/e4/b6/5d/e4b65dd0-4f15-6fd0-f97a-c5833aec3ca7/05099968852351.jpg/5000x5000bb.jpg
+: 0 4 0 There’s 
+: 5 3 0 a 
+: 10 3 5 hun
+: 14 3 5 dred 
+: 18 3 5 and 
+: 23 5 5 four 
+: 31 6 3 days 
+: 40 3 1 of 
+: 45 3 3 sum
+: 49 3 3 mer 
+: 53 3 3 va
+: 58 4 3 ca
+: 65 6 0 tion 
+- 73
+: 74 3 1 Then 
+: 78 3 1 school 
+: 82 3 1 comes 
+: 86 4 1 a
+: 91 5 1 long 
+: 99 4 0 just 
+: 106 3 -2 to 
+: 111 5 0 end 
+: 119 8 3 it 
+- 129
+: 134 4 0 So 
+: 140 2 0 the 
+: 144 2 5 an
+: 148 2 5 nu
+: 152 2 5 al 
+: 156 6 5 prob
+: 165 4 3 lem 
+: 174 2 1 for 
+: 178 2 3 our 
+: 182 2 3 ge
+: 186 2 3 ne
+: 190 4 3 ra
+: 199 6 0 tion 
+- 206
+: 207 3 0 Is 
+: 211 3 -2 fin
+: 215 3 -2 ding 
+: 219 3 -2 a 
+: 223 5 -2 good 
+: 231 6 0 way 
+: 239 4 -2 to 
+: 245 8 3 spend 
+: 262 10 -9 it 
+- 274
+: 286 4 5 Like 
+: 294 4 5 may
+: 302 6 3 be... 
+- 310
+: 315 2 0 Buil
+: 318 3 -1 ding 
+: 322 3 0 a 
+: 326 5 -9 ro
+: 333 3 0 cket 
+- 337
+: 338 2 0 Or 
+: 342 2 0 fight
+: 346 2 -1 ing 
+: 350 2 0 a 
+: 354 4 3 mum
+: 361 7 0 my 
+- 369
+: 369 2 0 Or 
+: 373 2 -2 clim
+: 377 3 -2 bing 
+: 381 2 -2 up 
+: 385 2 -2 the 
+: 389 2 -2 Eif
+: 393 4 -7 fel 
+: 400 4 -2 To
+: 407 5 -2 wer 
+- 414
+: 432 2 -2 Dis
+: 436 2 -5 co
+: 440 2 -7 ve
+: 444 2 -5 ring 
+: 448 4 -2 some
+: 456 4 -2 thing 
+: 464 2 -2 that 
+: 468 2 -5 does
+: 472 2 -7 n’t 
+: 476 2 -5 e
+: 480 6 -2 xist 
+- 488
+: 495 3 -2 Or 
+: 499 3 -4 gi
+: 503 2 -4 ving 
+: 507 2 -4 a 
+: 511 4 -4 mon
+: 518 3 -2 key 
+: 522 5 -2 a 
+: 530 4 0 sho
+: 537 5 0 wer 
+- 544
+: 570 2 -3 Sur
+: 574 2 -3 fing 
+: 578 2 -3 ti
+: 582 2 -2 dal 
+: 586 4 0 waves 
+- 592
+: 598 2 -3 Cre
+: 602 2 -3 a
+: 606 2 -3 ting 
+: 610 2 -3 na
+: 614 2 -2 no
+: 618 3 0 bots 
+- 622
+: 622 2 -3 Or 
+: 626 2 -2 lo
+: 630 2 -2 ca
+: 634 2 -2 ting 
+: 638 6 -2 Fran
+: 646 2 -2 ken
+: 650 3 0 stein’s 
+: 658 8 -2 brain 
+- 668
+: 693 2 -1 Fin
+: 697 2 -1 ding 
+: 700 3 -1 a 
+: 704 2 -1 do
+: 708 2 0 do 
+: 712 5 2 bird 
+- 719
+: 726 2 -1 Pain
+: 729 2 -1 ting 
+: 733 2 -1 a 
+: 737 2 -1 con
+: 740 2 0 ti
+: 744 3 2 nent 
+- 748
+: 748 2 2 Or 
+: 751 3 3 dri
+: 755 3 3 ving 
+: 760 3 3 our 
+: 764 5 3 sis
+: 771 3 3 ter 
+: 776 4 5 in
+: 784 6 3 sane 
+- 792
+: 820 2 0 As 
+: 824 2 -2 you 
+: 828 2 0 can 
+: 832 6 -9 see 
+- 839
+: 840 2 0 There’s 
+: 844 2 0 a 
+: 848 2 0 whole 
+: 852 2 -1 lot 
+: 856 2 0 of 
+: 860 4 3 stuff 
+: 867 2 0 to 
+: 871 2 0 do 
+- 875
+: 876 2 0 Be
+: 880 4 1 fore 
+: 888 4 1 school 
+: 895 3 1 starts 
+: 900 4 3 this 
+: 907 10 1 fall 
+- 919
+: 946 3 0 So 
+: 950 3 0 stick 
+: 954 3 0 with 
+: 958 5 3 us 
+- 964
+: 965 5 3 ’Cause 
+: 973 3 6 Phi
+: 977 2 6 ne
+: 981 3 6 as 
+: 986 2 6 and 
+: 990 4 5 Ferb 
+: 997 5 0 are 
+: 1005 2 -2 gon
+: 1009 7 -2 na 
+: 1021 3 3 do 
+: 1025 9 3 it 
+: 1037 13 5 all! 
+- 1052
+: 1072 2 0 So 
+: 1076 2 0 stick 
+: 1080 2 0 with 
+: 1084 4 3 us 
+- 1090
+: 1092 5 3 ’Cause 
+: 1100 3 6 Phi
+: 1104 3 6 ne
+: 1109 2 6 as 
+: 1113 2 6 and 
+: 1117 4 5 Ferb 
+: 1125 5 0 are 
+: 1133 2 -2 gon
+: 1137 7 -2 na 
+: 1148 2 3 do 
+: 1152 7 0 it 
+: 1163 16 -4 all! 
+E

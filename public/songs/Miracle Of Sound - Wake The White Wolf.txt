@@ -1,0 +1,368 @@
+#ARTIST:Miracle Of Sound
+#TITLE:Wake The White Wolf
+#MP3:Miracle Of Sound - Wake The White Wolf.mp3
+#CREATOR:magic-ott
+#GENRE:Video Game
+#YEAR:2011
+#LANGUAGE:English
+#BPM:400
+#GAP:18260
+#VIDEO:v=hyDVz2O-HRU,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/df/92/da/df92daf2-a7c7-2078-22f6-9b73ddbd44e9/859712877512_cover.tif/5000x5000bb.jpg
+: 0 13 -1 Tor
+: 14 7 1 ches 
+: 22 7 1 of 
+: 30 10 3 war 
+: 42 8 -2 un
+: 52 8 -2 der 
+: 63 12 10 hat
+: 76 13 2 red’s 
+: 91 15 -2 sails 
+- 108
+: 111 8 8 A 
+: 120 15 7 whis
+: 136 5 7 per 
+: 142 8 9 of 
+: 151 11 6 doom 
+: 163 7 6 on 
+: 172 6 4 a 
+: 180 9 4 wa
+: 190 8 5 ry 
+: 199 21 5 breeze 
+- 222
+: 242 13 -2 Scor
+: 256 6 2 ching 
+: 264 6 1 the 
+: 273 11 2 shores 
+: 288 4 -1 in 
+: 293 4 -1 a 
+: 306 10 1 blaz
+: 317 11 2 ing 
+: 332 13 -2 trail 
+- 347
+: 364 12 9 Cin
+: 377 9 8 der 
+: 387 3 9 and 
+: 392 8 9 fume 
+: 402 7 8 foul 
+: 413 6 7 the 
+: 422 8 5 air 
+: 433 6 5 we 
+: 443 16 5 breathe 
+- 460
+: 461 13 8 Blood 
+: 476 3 10 of 
+: 482 30 10 fal
+: 514 17 8 len 
+: 538 14 9 kings 
+- 554
+: 564 10 9 Blades 
+: 577 4 9 of 
+: 585 29 9 cha
+: 617 15 14 os 
+: 636 18 14 ring 
+- 656
+: 664 6 9 Steel 
+: 676 5 9 and 
+: 685 24 10 sil
+: 711 18 8 ver 
+: 736 21 9 sing 
+- 759
+: 766 14 7 For 
+: 787 46 7 jus
+: 835 39 5 tice 
+- 876
+: 886 7 2 Keen 
+: 897 5 3 to 
+: 905 4 4 the 
+: 913 12 5 scent, 
+: 933 6 5 the 
+: 944 7 5 hunt 
+: 956 5 4 is 
+: 963 6 2 my 
+: 974 19 2 muse 
+- 995
+: 1002 5 -2 A 
+: 1010 7 -1 means 
+: 1019 4 2 to 
+: 1027 3 4 an 
+: 1032 15 4 end 
+: 1057 5 5 this 
+: 1067 6 3 path 
+: 1078 4 1 that 
+: 1084 9 2 I 
+: 1095 21 2 choose 
+- 1118
+: 1130 5 -1 Lost 
+: 1140 4 1 and 
+: 1149 3 3 a
+: 1154 13 5 loof 
+: 1172 4 4 are 
+: 1180 4 4 the 
+: 1187 6 5 loves 
+: 1197 3 3 of 
+: 1203 8 1 my 
+: 1215 16 2 past 
+- 1233
+: 1247 9 1 Wake 
+: 1258 3 4 the 
+: 1264 11 7 White 
+: 1277 39 7 Wolf! 
+- 1318
+: 1331 8 -1 Re
+: 1341 5 2 mem
+: 1349 6 1 brance 
+: 1360 6 0 at 
+: 1371 26 2 last 
+- 1399
+: 1612 9 -4 Wake 
+: 1624 4 -1 the 
+: 1630 7 2 White 
+: 1639 9 2 Wolf 
+: 1654 3 -1 at 
+: 1663 4 -1 the 
+: 1672 11 1 dawn 
+: 1690 5 2 of 
+: 1702 12 -3 war 
+- 1716
+: 1723 5 8 The 
+: 1733 10 8 end 
+: 1747 2 8 of 
+: 1752 4 8 the 
+: 1762 6 7 age 
+: 1772 5 5 is 
+: 1781 6 6 a
+: 1791 6 6 co
+: 1801 7 6 ming 
+: 1811 17 5 now 
+- 1829
+: 1829 13 8 Sign 
+: 1844 6 8 of 
+: 1852 20 9 flame 
+: 1879 16 7 will 
+: 1898 21 9 sting 
+- 1921
+: 1931 8 8 Pu
+: 1941 9 9 nish
+: 1952 21 9 ment 
+: 1984 13 14 I 
+: 2004 20 14 bring 
+- 2026
+: 2033 8 9 Steel 
+: 2044 5 8 and 
+: 2058 21 9 sil
+: 2082 16 7 ver 
+: 2104 20 9 sing 
+- 2126
+: 2132 17 8 For 
+: 2153 46 7 jus
+: 2205 32 5 tice 
+- 2239
+: 2252 10 1 Keen 
+: 2265 5 2 to 
+: 2272 7 3 the 
+: 2285 11 6 scent, 
+: 2305 6 6 the 
+: 2315 6 5 hunt 
+: 2325 4 4 is 
+: 2332 8 1 my 
+: 2343 19 2 muse 
+- 2364
+: 2373 3 7 A 
+: 2377 5 9 means 
+: 2387 6 13 to 
+: 2396 3 16 an 
+: 2401 11 17 end 
+: 2423 8 17 this 
+: 2433 11 17 path 
+: 2446 5 16 that 
+: 2454 5 13 I 
+: 2463 18 14 choose 
+- 2483
+: 2496 7 10 Lost 
+: 2507 5 12 and 
+: 2514 4 14 a
+: 2520 16 17 loof 
+: 2538 7 16 are 
+: 2548 4 16 the 
+: 2554 8 17 loves 
+: 2567 5 15 of 
+: 2574 11 13 my 
+: 2590 12 13 past 
+- 2604
+: 2615 10 0 Wake 
+: 2627 3 4 the 
+: 2632 10 7 White 
+: 2645 34 7 Wolf! 
+- 2681
+: 2698 7 11 Re
+: 2707 6 11 mem
+: 2715 12 13 brance 
+: 2730 6 13 at 
+: 2738 19 13 last 
+- 2759
+: 2980 9 -1 Wake 
+: 2992 5 1 the 
+: 2999 5 2 White 
+: 3009 7 2 Wolf 
+: 3020 6 -2 at 
+: 3029 7 -2 the 
+: 3039 15 -1 dawn 
+: 3057 9 1 of 
+: 3070 11 -3 war 
+- 3083
+: 3090 5 6 The 
+: 3101 11 6 end 
+: 3115 5 8 of 
+: 3122 5 8 the 
+: 3129 11 7 age 
+: 3143 6 6 is 
+: 3152 6 5 a
+: 3161 7 5 co
+: 3170 6 6 ming 
+: 3179 13 5 now 
+- 3194
+: 3605 4 1 Ra
+: 3610 4 1 va
+: 3615 2 1 ging 
+: 3619 2 1 the 
+: 3623 7 1 ri
+: 3632 3 1 vers 
+: 3639 5 2 scor
+: 3648 3 1 ching 
+: 3653 5 1 the 
+: 3661 14 1 shores 
+- 3677
+: 3686 2 1 Fi
+: 3690 3 1 res 
+: 3695 2 1 in 
+: 3698 3 1 the 
+: 3705 4 1 night 
+: 3713 3 1 the 
+: 3718 8 2 tor
+: 3728 8 1 ches 
+: 3739 3 1 of 
+: 3744 9 1 war 
+- 3755
+: 3763 3 1 Ra
+: 3768 3 1 va
+: 3773 3 1 ging 
+: 3778 1 1 the 
+: 3782 8 1 ri
+: 3792 4 1 vers 
+: 3798 9 2 scor
+: 3809 4 1 ching 
+: 3815 7 1 the 
+: 3824 11 1 shores 
+- 3837
+: 3847 3 1 Fi
+: 3851 3 1 res 
+: 3856 1 1 in 
+: 3859 3 1 the 
+: 3864 7 1 night 
+: 3874 4 1 the 
+: 3880 9 2 tor
+: 3891 3 1 ches 
+: 3896 6 1 of 
+: 3904 11 1 war 
+- 3917
+F 3925 8 9 WAKE 
+F 3935 4 8 THE 
+F 3941 9 10 WOLF 
+- 3952
+F 3954 6 7 WAKE 
+F 3962 6 8 THE 
+F 3970 7 8 WHITE 
+F 3981 15 9 WOLF 
+- 3998
+F 4085 9 8 WAKE 
+F 4096 4 8 THE 
+F 4102 12 10 WOLF 
+- 4115
+F 4115 9 8 WAKE 
+F 4126 4 9 THE 
+F 4132 8 10 WHITE 
+F 4142 16 10 WOLF 
+- 4160
+: 4248 3 1 Ra
+: 4253 2 1 va
+: 4257 3 1 ging 
+: 4262 2 1 the 
+: 4266 6 1 ri
+: 4274 6 1 vers 
+: 4282 7 2 scor
+: 4291 4 1 ching 
+: 4297 7 1 the 
+: 4306 12 1 shores 
+- 4320
+: 4330 1 1 Fi
+: 4333 4 1 res 
+: 4339 3 1 in 
+: 4344 2 1 the 
+: 4348 6 1 night 
+: 4356 5 1 the 
+: 4363 7 2 tor
+: 4372 6 1 ches 
+: 4380 6 1 of 
+: 4388 9 1 war 
+- 4399
+: 4411 2 1 Ra
+: 4414 2 1 va
+: 4417 4 1 ging 
+: 4424 6 1 the 
+: 4431 7 1 ri
+: 4441 4 1 vers 
+: 4446 7 2 scor
+: 4455 2 1 ching 
+: 4460 6 1 the 
+: 4469 12 1 shores 
+- 4483
+: 4491 2 1 Fi
+: 4495 3 1 res 
+: 4500 2 1 in 
+: 4504 2 1 the 
+: 4508 8 1 night 
+: 4518 4 1 the 
+: 4524 7 2 tor
+: 4532 5 1 ches 
+: 4539 6 1 of 
+: 4546 16 1 war 
+- 4563
+F 4564 13 8 WAKE 
+F 4579 6 9 THE 
+F 4587 11 9 WOLF 
+- 4599
+F 4599 7 8 WAKE 
+F 4608 3 10 THE 
+F 4613 9 11 WHITE 
+F 4628 11 11 WOLF 
+- 4641
+F 4728 9 10 WAKE 
+F 4739 3 10 THE 
+F 4744 9 10 WOLF 
+- 4755
+F 4759 7 9 WAKE 
+F 4768 4 10 THE 
+F 4774 9 9 WHITE 
+F 4789 10 10 WOLF 
+- 4801
+: 5132 14 -2 Wake 
+: 5149 4 1 the 
+: 5155 6 2 White 
+: 5163 9 3 Wolf 
+: 5175 5 1 at 
+: 5183 6 -2 the 
+: 5193 13 0 dawn 
+: 5211 6 1 of 
+: 5223 15 -3 war 
+- 5240
+: 5243 7 7 The 
+: 5253 12 7 end 
+: 5269 3 8 of 
+: 5273 7 8 the 
+: 5283 8 6 age 
+: 5294 6 5 is 
+: 5304 6 5 a
+: 5313 7 6 co
+: 5323 6 6 ming 
+: 5333 35 5 now 
+E

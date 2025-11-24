@@ -1,0 +1,100 @@
+#ARTIST:The Beatles
+#TITLE:Maggie Mae
+#MP3:The Beatles - Maggie Mae.mp3
+#CREATOR:choosie
+#YEAR:1969
+#LANGUAGE:English
+#BPM:339.32
+#GAP:1970
+#VIDEO:a=tSn1r9--tq4,co=let-it-be-5fdc4a6bbf144.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 10 14 Oh
+: 14 2 15 ~
+: 18 4 16 ~, 
+* 26 4 16 dir
+* 34 4 12 ty 
+: 42 3 12 Mag
+: 48 3 12 gie 
+: 54 6 12 Mae 
+- 62
+: 73 2 16 They 
+: 77 5 16 have 
+: 87 4 16 ta
+: 95 2 14 ken 
+: 100 7 14 her 
+: 111 2 12 a
+: 116 5 14 way 
+- 123
+: 138 2 12 And
+: 142 2 14 ~ 
+: 146 2 14 she’ll 
+: 150 2 14 ne
+: 154 7 14 ver 
+: 166 4 14 walk 
+: 174 4 14 down 
+* 182 4 16 Lisle 
+* 190 4 14 Street 
+: 198 2 14 a
+: 202 4 14 ny 
+: 210 2 14 mo
+: 214 2 9 wer 
+- 218
+: 262 2 12 Oh
+: 266 4 14 ~, 
+: 274 2 14 the 
+: 278 4 14 judge 
+: 286 4 11 he 
+: 294 4 7 guil
+: 302 2 11 ty 
+: 307 1 12 found
+: 309 3 14 ~ 
+: 315 4 14 her 
+- 321
+: 338 2 14 A 
+: 342 2 12 rob
+: 346 4 12 bing 
+: 354 2 11 the 
+: 358 4 12 home
+: 366 2 16 ward 
+: 370 2 17 boun
+: 374 2 19 ~
+: 379 3 19 der 
+- 384
+: 398 4 16 That 
+: 406 4 14 dir
+: 414 4 14 ty, 
+: 422 4 17 no 
+: 430 4 16 good 
+: 438 2 14 rob
+: 443 4 12 bing 
+- 449
+* 454 2 11 Mag
+* 459 4 9 gie 
+* 467 8 7 Mae 
+- 477
+: 528 2 7 It’s 
+: 532 2 7 the 
+: 537 4 12 part 
+: 545 4 12 of 
+: 553 2 12 Li
+: 557 5 12 ver
+: 567 10 16 pool 
+- 579
+: 597 2 11 She-
+: 601 4 16 ay 
+: 609 4 14 re
+: 617 4 14 turned 
+: 625 2 11 me 
+: 630 8 14 to 
+- 640
+: 665 4 14 Two 
+: 673 4 14 pounds 
+* 681 2 14 ten 
+* 686 4 14 a 
+* 694 5 16 week 
+- 701
+: 706 4 14 That 
+: 715 2 14 was 
+: 720 4 14 my 
+: 728 2 12 pay
+: 733 2 9 ~. 
+E

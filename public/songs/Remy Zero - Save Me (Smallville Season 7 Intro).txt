@@ -1,0 +1,83 @@
+#ARTIST:Remy Zero
+#TITLE:Save Me (Smallville Season 7 Intro)
+#MP3:Remy Zero - Save Me (Smallville Season 7 Intro).mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2001
+#LANGUAGE:English
+#BPM:300
+#GAP:1200
+#VIDEO:v=WMYn3K0qHV0,co=the-golden-hum-54e8b9581611a.jpg,bg=remy-zero-531b27a79ca81.jpg
+: 0 3 6 Some
+: 6 3 6 bo
+: 12 3 6 dy 
+: 19 3 8 sa
+* 25 31 10 ~
+: 62 3 8 ~ve 
+: 69 20 8 me 
+- 91
+: 130 3 8 Let 
+: 137 3 8 your 
+: 143 5 8 wa
+: 155 4 3 ters 
+: 168 5 8 break 
+: 180 5 6 right 
+: 192 4 3 through 
+- 198
+: 199 3 3 Some
+: 205 3 6 bo
+: 212 3 6 dy 
+: 218 3 8 sa
+* 225 28 10 ~
+: 259 3 8 ~ve 
+: 267 17 8 me 
+- 286
+: 342 5 8 Don’t 
+: 354 5 3 care 
+: 368 6 8 how 
+: 380 6 6 you 
+: 392 4 3 do 
+: 404 3 6 it 
+- 409
+: 410 4 6 Just 
+: 422 4 10 sa
+: 430 18 8 ~ve, 
+: 468 4 10 sa
+: 475 17 8 ~ve 
+- 494
+: 511 3 10 Come 
+: 517 4 8 o
+: 526 3 6 ~
+: 532 3 3 ~n 
+- 537
+: 545 3 6 I’ve 
+: 552 4 6 been 
+: 565 6 10 wai
+: 578 5 8 ting 
+: 590 4 6 for 
+: 602 4 8 yo
+: 609 6 6 ~u 
+- 617
+: 622 15 10 Sa
+: 641 7 13 ~ve 
+: 654 16 18 me 
+- 672
+: 734 4 8 I’ve 
+: 741 5 8 made 
+: 752 5 3 this 
+: 765 7 8 whole 
+: 777 7 6 world 
+: 790 7 5 shine 
+: 803 4 3 for 
+: 816 4 1 you 
+- 822
+: 824 4 10 Sa
+: 831 15 8 ~ve, 
+: 866 5 10 sa
+: 875 12 8 ~ve 
+- 889
+: 910 3 10 Come 
+: 915 5 8 o
+: 924 3 6 ~
+* 930 5 3 ~n 
+E

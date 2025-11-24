@@ -1,0 +1,360 @@
+#ARTIST:New Kids On The Block
+#TITLE:Hangin’ Tough
+#MP3:New Kids On The Block - Hangin’ Tough.mp3
+#CREATOR:DoubleDee
+#COVER:New Kids On The Block - Hangin’ Tough [CO].jpg
+#BACKGROUND:New Kids On The Block - Hangin’ Tough [BG].jpg
+#GENRE:Pop
+#YEAR:1988
+#LANGUAGE:English
+#BPM:365
+#GAP:12580
+#VIDEO:v=By86PcLufOU,co=hangin-tough-62e9823130cbd.jpg,bg=new-kids-on-the-block-5188380a6027e.jpg
+* 0 14 1 Whoa-
+* 16 14 -1 oh-
+: 32 14 -4 oh-
+: 48 14 4 oh-
+: 64 8 1 oh 
+- 96
+: 128 14 1 Whoa-
+: 144 14 -1 oh-
+: 160 14 -4 oh-
+: 176 14 4 oh-
+: 192 8 1 oh 
+- 224
+: 256 14 1 Whoa-
+: 272 14 -1 oh-
+: 288 14 -4 oh-
+: 304 14 4 oh-
+: 320 8 1 oh 
+- 352
+: 384 14 1 Whoa-
+: 400 14 -1 oh-
+: 416 14 -4 oh-
+: 432 14 4 oh-
+: 448 8 1 oh 
+- 466
+: 504 2 -1 Lis
+: 508 2 1 ten 
+: 512 4 1 up 
+: 520 2 1 eve
+: 524 2 1 ry
+: 528 2 5 bo
+: 532 2 5 dy 
+: 536 2 5 if 
+: 540 3 5 you 
+: 544 3 8 want 
+: 548 3 8 to 
+: 552 2 8 take 
+: 556 2 8 a 
+* 560 16 13 chance 
+- 600
+R 632 4 4 Just 
+R 640 2 3 get 
+R 644 2 3 on 
+R 652 2 1 the 
+R 656 2 1 floor 
+R 660 2 1 and 
+R 664 2 3 do 
+R 668 2 3 the 
+R 672 4 6 New 
+R 680 4 1 Kids’ 
+R 688 4 1 dance 
+- 716
+: 760 6 1 Don’t 
+: 768 2 1 wor
+: 772 2 1 ry 
+: 776 4 1 bout 
+: 784 3 5 no
+: 788 3 5 thing 
+: 792 3 5 ’cause 
+: 796 3 5 it 
+: 800 6 8 won’t 
+: 808 6 8 take 
+* 816 16 13 long 
+- 856
+R 884 2 3 We’re 
+R 888 2 2 gon
+R 892 2 1 na 
+R 896 2 4 put 
+R 900 2 1 you 
+R 904 2 1 in 
+R 908 2 -1 a 
+R 912 4 1 trance 
+R 920 2 1 with 
+R 924 2 -1 a 
+R 928 2 4 fun
+R 932 2 1 ky 
+R 936 6 1 song 
+- 952
+R 984 2 4 ’Cause 
+R 988 3 7 you 
+R 992 2 6 got
+R 996 2 1 ta 
+R 1000 3 1 be 
+- 1006
+: 1008 3 4 Han
+: 1012 10 4 gin’ 
+: 1024 12 1 tough 
+- 1046
+: 1072 3 4 Han
+: 1076 10 4 gin’ 
+: 1088 12 1 tough 
+- 1110
+: 1136 3 4 Han
+: 1140 10 4 gin’ 
+: 1152 12 1 tough 
+- 1188
+R 1224 3 1 We’re 
+R 1232 5 4 rough 
+- 1247
+: 1280 14 1 Whoa-
+: 1296 14 -1 oh-
+: 1312 14 -4 oh-
+: 1328 14 4 oh-
+: 1344 8 1 oh 
+- 1376
+: 1408 14 1 Whoa-
+: 1424 14 -1 oh-
+: 1440 14 -4 oh-
+: 1456 14 4 oh-
+: 1472 8 1 oh 
+- 1504
+: 1529 3 1 Eve
+: 1533 2 1 ry
+: 1537 3 1 bo
+: 1541 3 1 dy’s 
+: 1545 3 1 al
+: 1549 2 1 ways 
+: 1553 3 5 tal
+: 1557 2 5 kin’ 
+: 1561 6 5 ’bout 
+: 1569 6 8 who’s 
+: 1577 6 8 on 
+* 1585 13 13 top 
+- 1622
+R 1657 3 1 Don’t 
+R 1665 3 1 cross 
+R 1673 3 -1 our 
+R 1681 4 -1 path 
+R 1688 2 -1 ’cause 
+R 1692 2 -1 you’re 
+R 1696 2 1 gon
+R 1700 2 -1 na 
+R 1704 2 -1 get 
+R 1712 5 1 stomped 
+- 1741
+: 1788 3 1 We 
+: 1792 6 1 ain’t 
+: 1800 3 1 gon
+: 1804 2 1 na 
+: 1808 6 5 give 
+: 1816 3 5 a
+: 1820 2 5 ny
+: 1824 3 8 bo
+: 1828 2 8 dy 
+: 1832 3 8 a
+: 1836 2 8 ny 
+* 1840 15 13 slack 
+- 1879
+R 1908 2 4 And 
+R 1912 2 4 if 
+R 1916 2 4 you 
+R 1920 2 4 try 
+R 1924 2 1 to 
+R 1928 3 1 keep 
+R 1932 2 1 us 
+R 1936 2 1 down 
+R 1940 2 -1 we’re 
+R 1944 2 1 gon
+R 1948 2 1 na 
+R 1952 4 1 come 
+R 1960 4 1 right 
+R 1968 4 1 back 
+- 1982
+R 2008 3 0 And 
+R 2012 2 0 you 
+R 2016 4 0 know 
+R 2024 3 0 we’re 
+- 2030
+: 2032 3 4 Han
+: 2036 9 4 gin’ 
+: 2047 13 1 tough 
+- 2070
+: 2096 3 4 Han
+: 2100 8 4 gin’ 
+: 2111 13 1 tough 
+- 2134
+: 2160 3 4 Han
+: 2164 10 4 gin’ 
+: 2176 12 1 tough 
+- 2212
+R 2247 2 0 Are 
+R 2251 2 0 you 
+R 2256 2 0 tough 
+R 2260 2 0 e
+R 2264 2 0 nough? 
+- 2276
+: 2288 3 4 Han
+: 2292 10 4 gin’ 
+: 2304 12 1 tough 
+- 2326
+: 2352 3 4 Han
+: 2356 10 4 gin’ 
+: 2368 12 1 tough 
+- 2390
+: 2416 3 4 Han
+: 2420 10 4 gin’ 
+: 2432 12 1 tough 
+- 2468
+R 2504 4 0 We’re 
+R 2512 7 0 rough 
+- 2529
+: 2559 14 1 Whoa-
+: 2575 14 -1 oh-
+: 2591 14 -4 oh-
+: 2607 14 4 oh-
+: 2623 8 1 oh 
+- 2655
+: 2687 14 1 Whoa-
+: 2703 14 -1 oh-
+: 2719 14 -4 oh-
+: 2735 14 4 oh-
+: 2751 8 1 oh 
+- 2783
+: 2815 14 1 Whoa-
+: 2831 14 -1 oh-
+: 2847 14 -4 oh-
+: 2863 14 4 oh-
+: 2879 8 1 oh 
+- 2911
+: 2943 14 1 Whoa-
+: 2959 14 -1 oh-
+: 2975 14 -4 oh-
+: 2991 14 4 oh-
+: 3007 8 1 oh 
+- 3063
+: 3576 5 1 Get 
+: 3584 3 1 loose 
+: 3592 2 1 eve
+: 3596 2 1 ry
+: 3600 2 5 bo
+: 3604 3 5 dy 
+: 3608 2 5 ’cause 
+: 3612 2 5 we’re 
+: 3616 3 8 gon
+: 3620 3 8 na 
+: 3624 2 8 do 
+: 3628 3 8 our 
+* 3632 15 13 thing 
+- 3671
+R 3704 2 4 ’Cause 
+R 3708 2 4 you 
+R 3712 3 1 know 
+R 3716 2 1 it 
+R 3720 3 1 ain’t 
+R 3728 2 1 o
+R 3732 2 -1 ver 
+R 3736 2 -1 ’til 
+R 3740 2 -1 the 
+R 3744 2 1 fat 
+R 3751 3 1 la
+R 3755 2 -1 dy 
+R 3759 4 1 sings 
+- 3787
+: 3824 3 4 Han
+: 3828 9 4 gin’ 
+: 3839 13 1 tough 
+- 3862
+: 3888 3 4 Han
+: 3892 8 4 gin’ 
+: 3903 13 1 tough 
+- 3926
+: 3952 3 4 Han
+: 3956 10 4 gin’ 
+: 3968 12 1 tough 
+- 4004
+R 4039 2 0 Are 
+R 4043 2 0 you 
+R 4048 2 0 tough 
+R 4052 2 0 e
+R 4056 2 0 nough? 
+- 4068
+: 4080 3 4 Han
+: 4084 10 4 gin’ 
+: 4096 12 1 tough 
+- 4118
+: 4144 3 4 Han
+: 4148 10 4 gin’ 
+: 4160 12 1 tough 
+- 4182
+: 4208 3 4 Han
+: 4212 10 4 gin’ 
+: 4224 12 1 tough 
+- 4260
+R 4296 4 0 We’re 
+R 4304 7 0 rough 
+- 4321
+: 4351 14 1 Whoa-
+: 4367 14 -1 oh-
+: 4383 14 -4 oh-
+: 4399 14 4 oh-
+: 4415 8 1 oh 
+- 4435
+* 4439 3 -1 Just 
+* 4447 3 -1 han
+* 4451 5 -1 gin’ 
+* 4459 7 1 tough 
+- 4475
+: 4479 14 1 Whoa-
+: 4495 14 -1 oh-
+: 4511 14 -4 oh-
+: 4527 14 4 oh-
+: 4543 8 1 oh 
+- 4561
+: 4575 3 -1 Han
+: 4579 4 -1 gin’ 
+: 4587 8 1 tough 
+- 4604
+: 4607 14 1 Whoa-
+: 4623 14 -1 oh-
+: 4639 14 -4 oh-
+: 4655 14 4 oh-
+: 4671 8 1 oh 
+- 4691
+* 4695 3 -1 Just 
+* 4703 3 -1 han
+* 4707 5 -1 gin’ 
+* 4715 7 1 tough 
+- 4731
+: 4735 14 1 Whoa-
+: 4751 14 -1 oh-
+: 4767 14 -4 oh-
+: 4783 14 4 oh-
+: 4799 8 1 oh 
+- 4817
+: 4831 3 -1 Han
+: 4835 4 -1 gin’ 
+: 4843 8 1 tough 
+- 4860
+: 4863 14 1 Whoa-
+: 4879 14 -1 oh-
+: 4895 14 -4 oh-
+: 4911 14 4 oh-
+: 4927 8 1 oh 
+- 4947
+* 4951 3 -1 Just 
+* 4959 3 -1 han
+* 4963 5 -1 gin’ 
+* 4971 7 1 tough 
+- 4987
+: 4991 14 1 Whoa-
+: 5007 14 -1 oh-
+: 5023 14 -4 oh-
+: 5039 14 4 oh-
+: 5055 8 1 oh 
+- 5073
+: 5087 3 -1 Han
+: 5091 4 -1 gin’ 
+: 5099 8 1 tough 
+E

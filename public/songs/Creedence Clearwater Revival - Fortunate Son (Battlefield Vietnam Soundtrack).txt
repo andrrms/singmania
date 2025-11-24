@@ -1,0 +1,214 @@
+#ARTIST:Creedence Clearwater Revival
+#TITLE:Fortunate Son (Battlefield Vietnam Soundtrack)
+#MP3:Creedence Clearwater Revival - Fortunate Son (Battlefield Vietnam Soundtrack).mp3
+#CREATOR:sirius45
+#YEAR:1969
+#LANGUAGE:English
+#BPM:265.4
+#GAP:19240
+#VIDEO:v=ZWijx_AgPiA,co=fortunate-son-5ef25429bdc34.jpg,bg=creedence-clearwater-revival-6416bef9ab71a.jpg
+#START:4.0
+: 0 3 7 Some 
+: 4 3 7 folks 
+: 8 3 4 are 
+: 12 15 7 born 
+* 28 3 9 made 
+: 32 3 7 to 
+: 36 3 7 wave 
+: 40 3 4 the 
+: 44 8 7 flag, 
+- 61
+: 64 7 10 Ooh, 
+: 72 3 4 they’re 
+: 76 7 7 red, 
+: 84 3 7 white 
+: 88 3 7 and 
+: 92 8 7 blue 
+- 110
+: 128 3 7 And 
+: 132 3 7 when 
+: 136 3 4 the 
+: 140 7 7 band 
+: 148 7 7 plays 
+: 156 7 9 “Hail 
+: 164 3 7 To 
+: 168 3 4 The 
+: 172 8 7 Chief”, 
+- 189
+: 192 3 4 Oh, 
+: 196 3 7 they 
+: 200 3 4 point 
+: 204 3 7 the 
+: 208 3 7 cannon 
+: 212 3 7 at 
+: 216 3 7 you, 
+: 220 8 7 Lord, 
+- 238
+: 256 3 7 It 
+: 260 7 7 ain’t 
+: 268 19 7 me, 
+: 288 3 9 it 
+: 292 7 10 ain’t 
+: 300 3 9 m
+: 304 8 7 e, 
+- 318
+: 320 3 10 I 
+: 324 3 10 ain’t 
+: 328 3 4 no 
+: 332 3 7 sen
+: 336 3 7 a
+: 340 7 7 tor’s 
+: 348 8 7 son, 
+- 366
+: 384 3 7 It 
+: 388 7 7 ain’t 
+: 396 19 7 me, 
+: 416 3 9 it 
+: 420 7 10 ain’t 
+: 428 3 9 m
+: 432 8 7 e, 
+- 446
+: 448 3 10 I 
+: 452 3 10 ain’t 
+: 456 3 4 no 
+: 460 3 7 fort
+: 464 3 7 u
+: 468 7 7 nate 
+: 476 8 7 one, no, 
+- 494
+: 512 3 7 Some 
+: 516 3 7 folks 
+: 520 3 4 are 
+: 524 15 7 born 
+: 540 3 9 sil
+: 544 3 7 ver 
+: 548 3 7 spoon 
+: 552 3 4 in 
+: 556 8 7 hand, 
+- 573
+: 576 7 10 Lord, 
+: 584 3 4 don’t 
+: 588 7 7 they 
+: 596 3 7 help 
+: 600 3 7 them
+: 604 8 7 selves, oh 
+- 622
+: 640 3 7 But 
+: 644 3 7 when 
+: 648 3 4 the 
+: 652 7 7 tax
+: 660 7 7 man 
+: 668 7 9 come 
+: 676 3 7 to 
+: 680 3 4 the 
+: 684 8 7 door, 
+- 701
+: 704 3 4 The 
+: 708 3 7 house 
+: 712 3 4 look 
+: 716 3 7 a 
+: 720 3 7 like 
+: 724 3 7 a 
+: 728 3 7 rummage 
+: 732 8 7 sale, yes, 
+- 750
+: 768 3 7 It 
+: 772 7 7 ain’t 
+: 780 19 7 me, 
+: 800 3 9 it 
+: 804 7 10 ain’t 
+: 812 3 9 m
+: 816 8 7 e, 
+- 830
+: 832 3 10 I 
+: 836 3 10 ain’t 
+: 840 3 4 no 
+: 844 3 7 mil
+: 848 3 7 lion
+: 852 7 7 aire’s 
+: 860 8 7 son 
+- 878
+: 896 3 7 It 
+: 900 7 7 ain’t 
+: 908 19 7 me, 
+: 928 3 9 it 
+: 932 7 10 ain’t 
+: 940 3 9 m
+: 944 8 7 e, 
+- 958
+: 960 3 10 I 
+: 964 3 10 ain’t 
+: 968 3 4 no 
+: 972 3 7 fort
+: 976 3 7 u
+: 980 7 7 nate 
+: 988 8 7 one, no 
+- 1031
+: 1280 3 7 Some 
+: 1284 3 7 folks 
+: 1288 3 4 in
+: 1292 15 7 herit 
+: 1308 3 9 star 
+: 1312 3 7 span
+: 1316 3 7 gl
+: 1320 3 4 ed 
+: 1324 8 7 eyes, 
+- 1341
+: 1344 7 10 They 
+: 1352 3 4 send 
+: 1356 7 7 you 
+: 1364 3 7 down 
+: 1368 3 7 to 
+: 1372 8 7 war, 
+- 1390
+: 1408 3 7 And 
+: 1412 3 7 when 
+: 1416 3 4 you 
+: 1420 7 7 ask 
+: 1428 7 7 them, 
+: 1436 7 9 how 
+: 1444 3 7 much 
+: 1448 3 4 should 
+: 1452 19 7 we 
+: 1472 3 4 give, 
+- 1475
+: 1476 3 7 They 
+: 1480 3 4 only 
+: 1484 3 7 answ
+: 1488 3 7 er, 
+: 1492 3 7 more, 
+: 1496 3 7 more, 
+: 1500 8 7 more, 
+- 1518
+: 1536 3 7 It 
+: 1540 7 7 ain’t 
+: 1548 19 7 me, 
+: 1568 3 9 it 
+: 1572 7 10 ain’t 
+: 1580 3 9 m
+: 1584 8 7 e, 
+- 1598
+: 1600 3 10 I 
+: 1604 3 10 ain’t 
+: 1608 3 4 no 
+: 1612 3 7 mil
+: 1616 3 7 i
+: 1620 7 7 tary 
+: 1628 8 7 son, 
+- 1646
+: 1664 3 7 It 
+: 1668 7 7 ain’t 
+: 1676 19 7 me, 
+: 1696 3 9 it 
+: 1700 7 10 ain’t 
+: 1708 3 9 m
+: 1712 8 7 e, 
+- 1726
+: 1728 3 10 I 
+: 1732 3 10 ain’t 
+: 1736 3 4 no 
+: 1740 3 7 fort
+: 1744 3 7 u
+: 1748 7 7 nate 
+: 1756 8 7 one. 
+E

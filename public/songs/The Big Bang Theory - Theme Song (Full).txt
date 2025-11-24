@@ -1,0 +1,371 @@
+#ARTIST:The Big Bang Theory
+#TITLE:Theme Song (Full)
+#MP3:The Big Bang Theory - Theme Song (Full).mp3
+#CREATOR:DS
+#YEAR:2007
+#LANGUAGE:English
+#BPM:322.4
+#GAP:9980
+#VIDEO:v=TzhIfN4UQv8,co=https://i.discogs.com/i3bdPgPUxcrEDx9Gm6HkQwcfcubYFnNTJQJqsI2ZWKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NzI3LTE1ODQ1MjA3/NTQtMjE0MC5qcGVn.jpeg,bg=the-big-bang-theory-5149014d7df46.jpg
+#START:9.5
+: 0 6 7 Our 
+: 12 5 16 whole 
+: 19 3 16 u
+: 24 3 14 ni
+: 29 3 14 verse 
+: 34 3 11 was 
+: 39 2 11 in 
+: 43 2 9 a 
+: 48 5 11 hot 
+: 57 5 14 dense 
+: 67 4 7 state, 
+- 71
+: 73 2 7 Then 
+: 76 5 7 near
+: 82 2 4 ly 
+: 89 2 5 four
+: 93 2 6 teen 
+: 98 3 7 bil
+: 103 3 8 lion 
+: 107 5 10 years 
+: 114 2 9 a
+: 118 3 7 go 
+- 121
+: 123 2 10 Ex
+: 127 3 11 pan
+: 132 2 12 sion 
+: 137 4 13 star
+: 142 2 9 ted. 
+: 147 5 7 Wait... 
+- 157
+: 159 2 8 The 
+: 162 3 6 Earth 
+: 166 2 7 be
+: 170 3 7 gan 
+: 174 2 8 to 
+: 178 3 11 cool, 
+- 181
+: 183 2 9 The 
+: 186 1 7 au
+: 188 1 7 to
+: 190 4 11 trophs 
+: 197 4 11 be
+: 202 3 9 gan 
+: 206 2 9 to 
+: 210 3 7 drool, 
+- 213
+: 214 4 18 Ne
+: 219 3 18 an
+: 223 2 14 der
+: 226 3 16 thals 
+: 230 2 18 de
+: 234 2 19 ve
+: 238 2 20 loped 
+: 242 3 22 tools, 
+- 245
+: 247 2 11 We 
+: 250 4 8 built 
+: 255 2 10 a 
+: 258 5 11 wall 
+F 264 2 12 (we 
+F 267 3 12 built 
+F 271 1 12 the 
+F 274 2 12 py
+F 278 2 12 ra
+F 281 2 12 mids), 
+- 288
+: 290 6 17 Math, 
+: 300 5 19 science, 
+: 307 2 22 his
+: 312 2 21 to
+: 315 2 20 ry, 
+- 317
+: 318 2 8 Un
+: 322 5 12 rave
+: 330 3 13 ling 
+: 335 2 14 the 
+: 339 2 16 mys
+: 344 2 14 te
+: 347 2 14 ries, 
+- 349
+: 351 3 18 That 
+: 356 3 16 all 
+: 363 3 18 star
+: 367 2 19 ted 
+: 371 2 22 with 
+: 374 2 20 the 
+* 379 5 21 big 
+* 387 7 19 bang! 
+- 406
+: 410 3 8 “Since 
+: 415 2 9 the 
+: 419 7 16 dawn 
+: 428 3 17 of 
+: 435 4 14 man” 
+: 440 2 12 is 
+: 443 2 11 real
+: 447 2 8 ly 
+: 451 5 11 not 
+: 459 4 14 that 
+: 467 4 7 long, 
+- 471
+: 472 2 20 As 
+: 476 1 20 e
+: 478 3 18 very 
+: 483 2 15 ga
+: 487 2 17 la
+: 491 2 20 xy 
+: 495 2 21 was 
+: 499 3 22 formed 
+- 502
+: 504 2 12 In 
+: 507 2 9 less 
+: 511 3 8 time 
+* 515 1 10 than 
+* 517 2 11 it 
+* 520 3 13 takes 
+: 526 2 14 to 
+: 531 3 15 sing 
+: 535 2 14 this 
+: 539 3 14 song. 
+- 542
+: 544 2 19 A 
+: 547 3 17 frac
+: 551 3 18 tion 
+: 555 3 19 of 
+: 559 1 20 a 
+: 563 3 23 se
+: 567 3 21 cond 
+- 570
+: 572 2 19 And 
+: 575 2 20 the 
+: 579 2 22 e
+: 582 2 23 le
+: 585 3 21 ments 
+: 591 2 21 were 
+: 595 5 19 made. 
+- 605
+: 607 2 17 The 
+: 611 3 14 bi
+: 615 2 18 peds 
+: 619 2 19 stood 
+: 622 2 21 up 
+: 627 3 22 straight, 
+- 630
+: 632 2 19 The 
+: 635 2 19 di
+: 638 1 21 no
+: 641 4 23 saurs 
+: 647 2 23 all 
+: 650 3 21 met 
+: 655 2 21 their 
+: 659 3 19 fate, 
+- 662
+: 663 2 19 They 
+: 667 3 19 tried 
+: 671 2 14 to 
+: 675 3 16 leap 
+: 679 2 18 but 
+: 683 2 19 they 
+: 687 2 20 were 
+: 691 3 22 late 
+- 694
+: 696 2 21 And 
+: 699 2 19 they 
+: 702 2 20 all 
+: 706 5 23 died 
+F 712 2 0 (they 
+F 715 4 0 froze 
+F 720 2 0 their 
+F 723 3 0 as
+F 727 3 0 ses 
+F 731 2 0 off) 
+- 733
+: 735 3 21 The 
+: 739 2 18 o
+: 743 3 20 ceans 
+: 748 2 21 and 
+: 752 2 22 pan
+: 755 3 23 ge
+: 759 2 21 a 
+- 761
+: 763 3 8 See 
+: 767 2 7 ya, 
+: 772 3 12 would
+: 776 2 12 n’t 
+: 780 2 14 wan
+: 784 2 14 na 
+: 787 3 16 be 
+: 791 1 15 ya 
+- 793
+: 795 3 18 Set 
+: 800 2 14 in 
+: 803 2 17 mo
+: 807 3 18 tion 
+: 811 2 19 by 
+: 815 2 20 the 
+: 819 4 22 same 
+: 827 5 21 big 
+: 835 7 19 bang! 
+- 852
+: 863 3 18 It 
+: 868 4 15 all 
+: 874 4 18 sta
+: 879 3 19 rted 
+: 883 3 21 with 
+: 887 3 19 the 
+: 891 8 20 big 
+: 907 11 19 BANG! 
+- 927
+* 931 14 11 It’s 
+* 949 10 9 ex
+* 964 9 7 pan
+* 975 3 9 ding 
+* 980 7 10 e
+* 991 3 12 ver 
+: 997 8 11 out
+: 1007 4 10 ward 
+: 1014 3 8 but 
+: 1020 5 8 one 
+: 1029 6 7 day 
+- 1045
+: 1060 12 11 It 
+: 1077 10 9 will 
+: 1092 9 8 cause 
+: 1102 2 10 the 
+: 1108 9 11 stars 
+: 1119 2 13 to 
+: 1124 9 11 go 
+: 1136 2 9 the 
+: 1141 4 7 o
+: 1147 5 9 ther 
+: 1156 7 6 way, 
+- 1165
+: 1167 2 13 Col
+: 1171 6 14 lap
+: 1179 3 12 sing 
+: 1185 4 13 e
+: 1192 3 14 ver 
+: 1201 4 14 in
+: 1207 5 14 ward, 
+: 1215 4 14 we 
+: 1224 4 14 won’t 
+: 1231 4 14 be 
+: 1239 4 14 here, 
+: 1247 4 14 it 
+: 1255 4 14 won’t 
+: 1263 5 14 be 
+: 1271 8 15 hurt 
+- 1284
+: 1286 4 14 Our 
+: 1295 4 14 best 
+: 1305 5 14 and 
+: 1312 6 14 brigh
+: 1321 3 14 test 
+: 1327 6 14 fi
+: 1336 4 14 gure 
+- 1342
+: 1344 3 7 That 
+: 1349 2 11 it’ll 
+: 1360 4 14 make 
+: 1368 4 14 an 
+: 1375 6 15 e
+: 1384 4 14 ven 
+: 1392 4 14 big
+: 1400 3 14 ger 
+: 1408 7 14 bang! 
+- 1457
+* 1669 4 16 Aus
+* 1675 3 16 tra
+* 1679 2 14 lo
+* 1683 3 14 pit
+* 1687 4 12 he
+* 1692 2 12 cus 
+: 1696 2 9 would 
+: 1699 3 11 real
+: 1704 2 11 ly 
+: 1708 2 14 have 
+: 1712 2 14 been 
+: 1716 3 7 sick 
+: 1720 3 7 of 
+: 1724 2 7 us 
+- 1726
+: 1728 2 17 De
+: 1732 3 15 ba
+: 1736 2 17 ting 
+: 1740 3 19 out 
+: 1744 2 20 while 
+: 1748 3 23 here 
+: 1752 2 21 they’re 
+: 1755 3 18 cat
+: 1760 3 22 ching 
+: 1764 3 23 deer 
+- 1767
+F 1769 2 0 (We’re 
+F 1772 3 0 cat
+F 1776 2 0 ching 
+F 1780 2 0 vi
+F 1784 1 0 ru
+F 1786 1 0 ses) 
+- 1789
+: 1791 2 19 Re
+: 1795 2 16 li
+: 1799 3 17 gion 
+: 1804 2 19 or 
+: 1807 3 20 as
+: 1812 2 22 tro
+: 1816 2 21 no
+: 1820 2 19 my, 
+- 1822
+: 1824 2 14 En
+: 1827 3 12 car
+: 1832 2 12 ta, 
+: 1836 2 13 De
+: 1840 2 14 ute
+: 1843 3 15 ro
+: 1848 2 14 no
+: 1852 3 14 my 
+- 1855
+: 1856 2 18 It 
+: 1860 3 15 all 
+: 1867 4 18 star
+: 1872 2 19 ted 
+: 1876 2 22 with 
+: 1880 2 20 the 
+: 1884 6 21 big 
+: 1892 8 19 bang! 
+- 1910
+: 1924 3 15 Mu
+: 1928 3 17 sic 
+: 1932 2 19 and 
+: 1935 2 20 my
+: 1940 3 22 tho
+: 1944 2 21 lo
+: 1948 3 19 gy, 
+- 1952
+: 1954 3 11 Ein
+: 1960 3 13 stein 
+: 1964 3 14 and 
+: 1968 2 14 as
+: 1972 4 16 tro
+: 1977 2 14 lo
+: 1980 2 14 gy 
+- 1982
+: 1983 3 19 It 
+: 1988 5 16 all 
+: 1996 3 18 star
+: 2000 2 19 ted 
+: 2004 3 21 with 
+: 2008 2 20 the 
+: 2012 6 20 big 
+: 2021 7 19 bang! 
+- 2038
+: 2047 3 19 It 
+: 2052 4 16 all 
+: 2059 3 18 star
+: 2063 2 19 ted 
+: 2067 2 21 with 
+: 2071 2 21 the 
+: 2075 5 19 big 
+* 2093 3 22 BANG! 
+E

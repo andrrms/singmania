@@ -1,0 +1,189 @@
+#ARTIST:Conway Twitty
+#TITLE:I See The Want To In Your Eyes
+#MP3:Conway Twitty - I See The Want To In Your Eyes.mp3
+#CREATOR:exo.esl
+#GENRE:Country
+#YEAR:1974
+#LANGUAGE:English
+#BPM:400
+#GAP:10030
+#VIDEO:v=d2aeRg_yMSE,co=https://images.genius.com/b9b2dc60afc9c53229d8c4cc8a585ba5.600x600x1.jpg
+: 0 2 11 I 
+: 3 7 13 see 
+: 11 3 13 the 
+: 15 32 15 sparkling 
+- 49
+: 71 16 12 Little 
+: 88 28 10 diamond 
+- 118
+: 132 20 8 On 
+: 154 10 10 your 
+: 166 41 8 hand 
+- 209
+: 264 8 8 It’s 
+: 273 7 10 plain 
+: 281 2 12 to 
+: 284 31 15 see 
+: 316 6 13 that 
+: 323 18 12 you’ve 
+- 343
+: 348 6 11 Al
+* 357 31 17 ready 
+: 408 8 13 got 
+: 417 11 15 a 
+: 429 48 12 man 
+- 479
+: 533 10 12 I 
+: 545 6 13 can 
+: 552 23 15 tell 
+: 576 12 13 you’re 
+: 589 29 15 not 
+: 619 23 15 about 
+: 644 7 15 to 
+: 652 21 12 fall 
+- 675
+: 683 6 12 For 
+: 691 26 14 any 
+: 718 12 12 of 
+: 735 18 10 my 
+: 755 57 8 lines 
+- 814
+: 836 12 9 I 
+: 850 17 12 see 
+: 869 16 15 the 
+: 886 15 13 want 
+: 903 10 12 to 
+: 923 9 10 in 
+: 934 17 10 your 
+: 955 52 8 eyes 
+- 1009
+: 1061 8 8 Deep 
+: 1070 4 10 in 
+: 1075 7 11 your 
+: 1084 24 12 smile, 
+: 1135 10 12 there’s 
+: 1146 3 12 a 
+: 1150 27 10 quiet, 
+* 1181 32 10 soft 
+* 1214 42 8 desire 
+- 1258
+: 1333 10 12 Like 
+: 1344 6 13 the 
+: 1351 46 15 embers 
+: 1399 7 12 of 
+: 1407 8 13 a 
+: 1416 31 17 once 
+* 1448 48 17 raging 
+: 1498 29 15 fire 
+- 1529
+: 1597 7 13 You 
+: 1605 8 15 know 
+: 1614 27 17 I 
+: 1642 9 15 could 
+: 1652 16 17 light 
+: 1669 7 15 that 
+: 1677 31 17 fire 
+: 1709 26 12 again 
+- 1737
+: 1740 7 8 You 
+: 1748 16 13 know 
+: 1765 15 12 it 
+: 1781 26 10 isn’t 
+: 1808 65 8 wise 
+- 1875
+: 1899 11 9 I 
+: 1911 19 12 see 
+: 1931 14 15 the 
+: 1946 15 13 want 
+: 1962 17 12 to 
+: 1983 11 10 in 
+: 1995 15 10 your 
+* 2014 84 8 eyes 
+- 2100
+: 2164 9 10 How 
+: 2174 26 12 strong’s 
+: 2201 6 12 a 
+: 2208 27 14 band 
+: 2236 4 12 of 
+: 2241 36 9 gold 
+- 2279
+: 2285 7 12 Is 
+: 2294 4 12 it 
+: 2300 24 12 strong 
+: 2327 26 14 enough 
+: 2355 4 12 to 
+* 2360 35 10 hold 
+- 2397
+: 2408 6 9 When 
+: 2415 5 10 a 
+: 2421 28 12 love 
+: 2450 22 14 has 
+: 2474 10 12 grown 
+: 2486 18 10 cold
+: 2506 6 9 and 
+: 2513 5 9 a 
+: 2519 29 7 woman 
+- 2550
+: 2568 7 7 Wants 
+: 2576 5 8 a 
+: 2583 44 9 love, 
+: 2628 11 10 sweet 
+: 2640 5 10 and 
+: 2647 47 12 warm 
+- 2696
+: 2743 6 9 How 
+: 2751 10 12 many 
+: 2764 27 15 women 
+- 2793
+* 2810 9 13 Just 
+* 2821 10 13 like 
+* 2836 27 12 you 
+: 2864 7 10 have 
+: 2873 30 10 silent 
+: 2904 67 9 schemes? 
+- 2973
+: 3008 5 10 How 
+: 3015 8 12 many 
+: 3026 24 15 men 
+: 3051 10 15 like 
+: 3062 12 15 me 
+- 3076
+: 3080 7 10 Do 
+: 3088 8 10 they 
+: 3098 16 15 sleep 
+: 3115 14 15 with 
+: 3141 11 10 in 
+: 3154 16 12 their 
+: 3171 49 8 dreams? 
+- 3222
+: 3263 11 10 You 
+: 3276 4 12 can 
+: 3282 31 15 stay 
+: 3314 4 15 or 
+: 3319 20 15 you 
+: 3340 11 13 can 
+: 3352 30 12 go 
+- 3384
+: 3390 7 12 And 
+: 3398 33 13 although 
+: 3432 9 12 I 
+: 3443 84 10 sympathize 
+- 3529
+* 3558 13 8 I 
+* 3572 18 12 see 
+* 3591 15 15 the 
+* 3608 19 13 want 
+* 3628 16 12 to 
+* 3646 10 10 in 
+* 3658 16 10 your 
+* 3677 71 8 eyes 
+- 3750
+: 3820 16 8 I 
+: 3838 18 12 see 
+: 3858 12 14 the 
+: 3871 17 13 want 
+: 3890 19 12 to 
+: 3912 11 10 in 
+: 3924 22 10 your 
+: 3948 71 8 eyes 
+E

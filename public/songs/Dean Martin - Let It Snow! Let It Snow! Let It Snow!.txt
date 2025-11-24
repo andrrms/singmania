@@ -1,0 +1,236 @@
+#ARTIST:Dean Martin
+#TITLE:Let It Snow! Let It Snow! Let It Snow!
+#MP3:Dean Martin - Let It Snow! Let It Snow! Let It Snow!.mp3
+#CREATOR:RetroGirl
+#GENRE:Folk
+#YEAR:1959
+#LANGUAGE:English
+#BPM:229.46
+#GAP:7600
+#VIDEO:v=Rnil5LyK_B0,co=a-winter-romance-55a954e07a149.jpg,bg=martin-dean-5110b0dce51ed.jpg
+: 0 5 8 Oh, 
+: 6 2 8 the 
+: 9 3 8 wea
+: 13 2 8 ther 
+: 16 3 6 out
+: 23 6 5 side 
+: 30 1 3 is 
+: 36 3 1 fright
+: 41 3 -4 ful 
+- 46
+: 53 2 3 But 
+: 56 1 3 the 
+: 60 8 3 fire 
+: 69 3 1 is 
+: 80 5 3 so 
+: 86 2 1 de
+: 89 3 0 light
+: 95 2 -4 ful 
+- 99
+: 108 3 8 And 
+: 116 2 10 since 
+: 120 2 10 we’ve 
+: 124 2 8 no 
+: 130 3 6 place 
+* 137 2 5 to 
+* 141 2 5 go
+* 144 4 3 ~ 
+- 150
+: 161 2 12 Let 
+: 164 1 10 it 
+: 171 5 8 snow, 
+: 177 1 8 let 
+: 179 1 6 it 
+: 185 4 5 snow, 
+: 190 1 5 let 
+: 192 1 3 it 
+: 198 6 1 snow 
+- 206
+: 215 5 8 Man, 
+: 221 1 8 it 
+: 225 3 8 does
+: 229 1 8 n’t 
+: 232 3 6 show 
+: 239 5 5 signs 
+: 245 1 3 of 
+: 252 2 1 stop
+: 256 2 -4 ping 
+- 260
+: 269 1 3 And 
+: 271 3 3 I’ve 
+: 279 3 3 brought 
+: 283 2 3 me 
+: 287 2 1 some 
+: 296 4 3 corn 
+: 302 1 1 for 
+* 306 3 0 pop
+* 310 2 -4 ping 
+- 314
+: 331 1 5 The 
+: 333 3 10 lights 
+: 338 1 10 are 
+: 340 3 8 turned
+: 344 2 5 ~ 
+: 347 5 6 way 
+: 353 6 5 down 
+: 361 2 5 low
+: 364 3 3 ~ 
+- 369
+: 378 1 12 Let 
+: 380 1 10 it 
+: 387 16 8 snow, 
+: 404 3 -4 let 
+: 408 1 -4 it 
+: 415 10 1 snow 
+- 427
+: 437 2 0 When 
+: 440 2 1 we 
+: 444 3 3 fi
+: 448 1 5 nal
+: 450 3 3 ly 
+: 458 2 8 kiss 
+: 464 3 8 good
+: 468 2 8 night
+: 471 1 3 ~ 
+- 474
+: 489 3 5 How 
+: 493 2 0 I’ll 
+: 498 3 1 hate 
+: 505 2 1 go
+: 508 1 0 ing 
+: 510 5 -2 out 
+: 516 1 -4 in 
+: 518 1 -2 the 
+* 523 9 0 storm 
+- 534
+: 545 2 0 But 
+: 548 2 1 if 
+: 552 3 3 you 
+: 556 3 5 real
+: 560 5 3 ly 
+: 568 4 8 hold 
+: 574 1 8 me 
+: 578 2 5 tight
+: 581 4 3 ~ 
+- 587
+: 603 6 8 All 
+: 610 2 7 the 
+: 613 3 5 way 
+: 617 5 7 home 
+: 623 2 5 I’ll 
+: 626 2 3 be 
+: 629 11 8 warm 
+- 642
+: 651 6 8 And 
+: 658 2 6 the 
+: 661 5 8 fire 
+: 667 3 6 is 
+: 675 5 5 slow
+: 681 2 3 ly 
+* 687 3 1 dy
+* 691 3 -4 ing 
+- 696
+: 705 3 1 And, 
+: 709 2 1 my 
+: 715 8 3 dear, 
+: 725 2 1 we’re 
+: 733 2 3 still 
+: 737 2 1 good
+: 741 5 0 by
+: 747 3 -4 ing 
+- 752
+: 759 2 8 But 
+: 762 2 8 as 
+: 769 3 10 long 
+: 773 1 10 as 
+: 775 2 8 you 
+: 782 3 6 love 
+: 786 3 5 me 
+: 793 2 5 so
+: 796 5 3 ~ 
+- 803
+: 813 2 12 Let 
+: 816 1 10 it 
+: 822 5 8 snow, 
+: 828 1 8 let 
+: 830 1 6 it 
+: 837 2 5 snow, 
+: 840 7 5 and 
+* 853 3 5 snow
+* 857 6 1 ~ 
+- 865
+: 1091 2 0 When 
+: 1094 2 1 we 
+: 1099 3 3 fi
+: 1103 1 5 nal
+: 1105 2 3 ly 
+: 1111 2 0 kiss 
+: 1119 2 8 good
+: 1123 9 3 night 
+- 1134
+: 1141 3 5 How 
+: 1145 3 0 I’ll 
+: 1151 3 1 hate 
+: 1157 2 1 go
+: 1160 1 0 ing 
+: 1162 6 -2 out 
+: 1169 2 -4 in 
+: 1172 1 -2 the 
+: 1177 10 0 storm 
+- 1189
+: 1197 1 0 But 
+: 1199 2 1 if 
+: 1204 4 3 you 
+: 1209 2 5 real
+: 1212 4 3 ly 
+: 1221 3 8 grab 
+: 1226 1 8 me 
+* 1231 4 5 tight
+* 1236 4 3 ~ 
+- 1242
+: 1255 5 8 All 
+: 1261 2 7 the 
+: 1264 4 5 way 
+: 1269 4 7 home 
+: 1274 4 5 I’ll 
+: 1279 2 3 be 
+: 1282 9 8 warm 
+- 1293
+: 1303 3 8 Oh, 
+: 1307 1 6 the 
+: 1312 5 8 fire 
+: 1318 3 6 is 
+: 1328 3 6 slow
+: 1332 2 4 ly 
+: 1336 5 1 dy
+: 1342 4 -4 ing 
+- 1348
+: 1356 1 4 And, 
+: 1359 2 4 my 
+: 1364 7 4 dear, 
+: 1377 1 2 we’re 
+: 1385 2 4 still 
+: 1389 1 2 good
+: 1393 3 1 by
+: 1397 2 -3 ing 
+- 1401
+: 1412 1 11 But 
+: 1414 2 11 as 
+: 1420 4 11 long 
+: 1425 1 11 as 
+: 1427 2 9 you 
+: 1433 3 7 love 
+: 1438 2 6 me 
+: 1445 1 6 so
+: 1447 6 4 ~ 
+- 1455
+: 1465 2 13 Let 
+: 1468 2 11 it 
+: 1474 8 9 snow, 
+* 1492 2 9 let 
+* 1495 1 7 it 
+* 1502 10 6 snow, 
+: 1520 2 6 let 
+: 1523 1 4 it 
+: 1529 36 2 snow 
+E

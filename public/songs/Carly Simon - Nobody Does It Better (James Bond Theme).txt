@@ -1,0 +1,219 @@
+#ARTIST:Carly Simon
+#TITLE:Nobody Does It Better (James Bond Theme)
+#MP3:Carly Simon - Nobody Does It Better (James Bond Theme).mp3
+#CREATOR:riperrin
+#GENRE:Soundtrack
+#YEAR:1977
+#LANGUAGE:English
+#BPM:269.53
+#GAP:8430
+#VIDEO:v=isAUOa50wdA,co=https://1.bp.blogspot.com/-vHa3qzY_DBs/T7usbz6Q3KI/AAAAAAAAAU4/aLjLsweC8hA/s1600/ndib.jpg,bg=simon-carly-50f65f696337b.jpg
+: 0 11 6 No
+: 14 3 4 bo
+: 19 2 6 dy 
+: 22 23 7 does 
+: 47 5 -5 it 
+: 54 5 -1 be
+: 62 32 2 tter 
+- 96
+: 132 9 6 Makes 
+: 144 3 4 me 
+: 148 4 6 feel 
+: 154 22 7 sad 
+: 178 13 9 for 
+: 194 3 7 the 
+: 198 38 -1 rest 
+- 238
+: 263 13 6 No
+: 279 3 4 bo
+: 283 3 6 dy 
+: 288 7 7 does 
+: 296 18 9 it 
+: 329 14 12 half 
+: 345 6 11 as 
+: 353 4 9 good 
+: 358 8 11 as 
+: 367 32 7 you 
+- 401
+: 411 11 11 Ba
+: 424 5 9 by, 
+: 431 12 7 you’re 
+: 444 3 9 the 
+: 448 76 7 best 
+- 526
+: 531 5 -1 I 
+: 539 3 2 was
+: 543 3 -1 n’t 
+: 548 5 9 look
+: 554 30 7 ing 
+: 593 3 -5 but 
+: 598 3 -5 some
+: 602 3 -3 how 
+: 606 3 -5 you 
+: 612 8 2 found 
+: 621 24 0 me 
+- 647
+: 660 5 -1 I 
+: 667 4 2 tried 
+: 673 3 -1 to 
+: 677 9 9 hide 
+: 688 7 7 from 
+: 697 7 7 your 
+: 706 30 4 love 
+: 739 33 3 light 
+- 774
+: 776 2 -1 But 
+: 779 6 -1 like 
+: 787 3 -1 Hea
+: 792 3 2 ven 
+: 796 3 -1 a
+: 800 9 9 bove 
+: 810 27 7 me 
+- 839
+: 843 5 -5 The 
+: 851 7 -3 spy 
+: 859 4 -5 who 
+: 865 7 2 loved 
+: 874 13 0 me 
+- 889
+: 894 4 12 Is 
+: 900 6 11 keep
+: 908 3 12 ing 
+: 912 8 11 all 
+: 922 4 12 my 
+: 929 7 11 se
+: 939 4 9 crets 
+: 947 2 7 safe
+: 951 2 7 ~ 
+: 955 11 9 to
+: 968 45 7 night 
+- 1015
+: 1026 5 -5 And 
+: 1039 7 6 no
+: 1048 3 4 bo
+: 1054 3 6 dy 
+: 1058 23 7 does 
+: 1083 6 -5 it 
+: 1092 5 -1 be
+: 1099 44 2 tter 
+- 1145
+: 1164 6 6 Though 
+: 1172 5 6 some
+: 1179 5 4 times 
+: 1186 6 6 I 
+: 1194 11 7 wish 
+: 1207 14 9 some
+: 1223 8 7 one 
+: 1233 38 -1 could 
+- 1273
+: 1293 12 6 No
+: 1307 4 4 bo
+: 1313 2 6 dy 
+: 1316 7 7 does 
+: 1325 24 9 it 
+: 1357 14 12 quite 
+: 1373 3 11 the 
+: 1378 8 9 way 
+: 1387 5 11 you 
+: 1394 38 7 do 
+- 1434
+: 1435 6 4 Why’d 
+: 1443 3 7 you 
+: 1448 5 11 have 
+: 1454 3 9 to 
+: 1459 6 7 be 
+: 1466 10 9 so 
+: 1479 65 7 good? 
+- 1546
+: 1553 4 -1 The 
+: 1559 3 -1 way 
+: 1563 3 2 that 
+: 1568 2 -1 you 
+: 1572 8 9 hold 
+: 1582 32 7 me 
+- 1616
+: 1617 3 -5 When
+: 1622 3 -5 e
+: 1626 3 -3 ver 
+: 1630 3 -5 you 
+: 1634 7 2 hold 
+: 1644 31 0 me 
+- 1677
+: 1682 3 -1 There’s 
+: 1687 3 -1 some 
+: 1692 2 2 kind 
+: 1697 3 -1 of 
+: 1701 3 9 ma
+: 1706 2 9 ~
+: 1710 10 7 gic 
+: 1722 5 7 in
+: 1730 3 7 ~
+: 1734 7 4 side
+: 1743 7 4 ~
+: 1753 7 4 ~
+: 1762 12 3 ~ 
+: 1776 24 3 you 
+- 1802
+: 1806 5 -1 That 
+: 1813 4 -1 keeps 
+: 1819 4 2 me 
+: 1824 3 -1 from 
+: 1829 6 9 run
+: 1837 20 7 ning 
+- 1859
+: 1867 4 -5 But 
+: 1873 4 -3 just 
+: 1880 5 -3 keep 
+: 1887 3 -5 it 
+: 1892 5 2 com
+: 1899 17 0 ing 
+- 1918
+: 1921 8 11 How’d 
+: 1931 3 12 you 
+: 1936 8 11 learn 
+: 1945 2 12 to 
+: 1949 8 11 do 
+: 1959 3 9 the 
+: 1963 12 7 things 
+: 1977 5 9 you
+: 1983 5 9 ~ 
+: 1990 53 7 do? 
+- 2045
+: 2046 19 -5 And 
+: 2068 6 6 no
+: 2076 3 4 bo
+: 2081 2 6 dy 
+: 2084 22 7 does 
+: 2109 5 -5 it 
+: 2116 8 -1 be
+: 2125 36 2 tter 
+- 2163
+: 2188 11 6 Makes 
+: 2201 3 4 me 
+: 2206 4 6 feel 
+: 2212 21 7 sad 
+: 2234 10 9 for 
+: 2247 4 7 the 
+: 2252 34 -1 rest 
+- 2288
+: 2318 12 6 No
+: 2332 3 4 bo
+: 2336 2 6 dy 
+: 2340 6 7 does 
+: 2348 27 9 it 
+: 2382 16 12 half 
+: 2399 5 11 as 
+: 2406 3 9 good 
+: 2411 9 11 as 
+: 2422 38 7 you 
+- 2462
+: 2464 10 11 Ba
+: 2476 4 9 by, 
+: 2483 9 7 ba
+: 2493 20 9 by, 
+: 2519 9 11 dar
+: 2529 20 9 lin’, 
+: 2552 9 7 you’re 
+: 2563 3 9 the 
+: 2568 42 7 best 
+E

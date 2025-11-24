@@ -1,0 +1,304 @@
+#ARTIST:Tim Minchin
+#TITLE:F Sharp
+#MP3:Tim Minchin - F Sharp.mp3
+#CREATOR:pyoxkd
+#YEAR:2006
+#LANGUAGE:English
+#BPM:360
+#GAP:1090
+#VIDEO:v=5Ju8Wxmrk3s,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4b/58/3f/4b583f10-d738-3396-54b3-7e05b424dbb6/5054227002359_1.jpg/5000x5000bb.jpg,bg=minchin-tim-501fe1351e191.jpg,tags=explicit
+F 0 6 0 I’ve 
+F 10 6 0 been 
+F 22 2 0 ha
+F 26 2 0 ving 
+F 29 1 0 a 
+F 31 1 0 litt
+F 33 2 0 le 
+F 40 2 0 pro
+F 43 4 0 blem 
+F 49 2 0 re
+F 53 2 0 cent
+F 57 12 0 ly 
+- 71
+F 92 2 0 Which 
+F 96 2 0 is 
+F 100 4 0 quite 
+F 105 2 0 dis
+F 109 2 0 tur
+F 114 2 0 bing 
+F 120 2 0 mu
+F 123 2 0 si
+F 128 2 0 call
+F 133 2 0 ic
+F 138 14 0 ’ly 
+- 154
+F 172 2 0 In
+F 176 2 0 vol
+F 182 2 0 ving 
+F 185 2 0 a 
+F 188 2 0 se
+F 191 2 0 mi
+F 194 2 0 to
+F 198 2 0 nal 
+F 202 2 0 dis
+F 208 2 0 cre
+F 211 2 0 pan
+F 214 14 0 cy 
+- 230
+F 256 2 0 Vo
+F 260 2 0 cal
+F 263 2 0 ly 
+F 270 2 0 and 
+F 273 2 0 in
+F 277 2 0 stru
+F 283 2 0 men
+F 286 2 0 tal
+F 290 6 0 ly 
+- 298
+F 327 2 0 You 
+F 330 2 0 see 
+F 336 2 0 mu
+F 340 2 0 si
+F 344 2 0 cians 
+F 353 2 0 of 
+F 359 2 0 diff
+F 363 2 0 ’rent 
+F 368 2 0 va
+F 371 2 0 ri
+F 375 2 0 e
+F 379 8 0 ties 
+- 389
+F 406 2 0 Pre
+F 410 2 0 fer 
+F 416 2 0 play
+F 420 2 0 ing 
+F 424 2 0 in 
+F 430 2 0 par
+F 434 2 0 tic
+F 438 2 0 u
+F 442 2 0 lar 
+F 446 8 0 keys 
+- 456
+F 494 4 0 And 
+F 500 2 0 sing
+F 506 4 0 ers, 
+F 512 4 0 too, 
+F 522 4 0 treat 
+F 528 2 0 pre
+F 532 2 0 fer
+F 536 2 0 ent
+F 540 2 0 ial
+F 546 6 0 ly 
+- 554
+: 600 3 4 Those 
+: 606 3 4 notes 
+: 613 2 4 they 
+: 621 2 4 tack
+: 627 2 4 le 
+: 632 6 4 more 
+: 639 4 4 pro
+: 644 3 5 fi
+: 648 4 7 cient
+* 655 30 9 ly 
+- 687
+: 716 6 9 Now 
+: 727 5 9 you 
+: 737 5 9 don’t 
+: 745 3 10 have 
+: 750 3 10 to 
+: 755 3 10 be 
+: 759 3 10 a 
+: 763 3 10 mem
+: 768 9 9 ber 
+: 778 3 9 of 
+: 783 6 9 men
+: 792 7 2 sa 
+- 801
+: 815 4 2 To 
+: 820 4 4 un
+: 825 2 4 der
+: 829 5 4 stand 
+: 837 2 4 the 
+: 840 2 4 depths 
+: 846 2 4 of 
+: 852 4 5 my 
+: 858 2 7 di
+: 861 3 9 lem
+: 865 14 9 ma 
+- 881
+: 885 4 9 The 
+: 891 4 9 two 
+: 896 3 10 e
+: 901 3 10 le
+: 905 4 7 ments 
+: 911 4 7 of 
+: 917 8 9 me 
+: 927 4 5 fa
+: 933 4 5 vor 
+: 941 4 7 two 
+: 947 2 5 diff’
+: 951 2 4 rent 
+: 957 7 5 keys 
+- 965
+: 965 3 2 Thus 
+: 971 3 2 the 
+: 975 3 4 rift 
+F 981 2 4 be
+F 985 3 4 twixt 
+: 991 2 5 my 
+: 996 3 7 fin
+: 1001 4 5 gers 
+: 1007 2 4 and 
+: 1011 2 2 my 
+: 1017 3 5 te
+: 1023 15 2 nor 
+- 1040
+: 1053 3 10 I 
+: 1058 2 14 like 
+: 1062 2 14 no
+: 1067 3 14 thing 
+: 1072 4 14 more 
+: 1078 3 14 than 
+: 1082 4 12 play
+: 1088 3 10 ing 
+: 1092 3 9 in
+: 1098 3 12 stru
+: 1102 3 12 ments 
+: 1107 4 12 in 
+: 1112 4 12 F 
+- 1118
+: 1126 3 9 It 
+: 1130 4 7 warms 
+: 1137 3 7 the 
+: 1142 3 7 ve
+: 1146 3 9 ry 
+: 1150 4 10 cock
+: 1155 3 9 les 
+: 1160 4 7 of 
+: 1165 4 7 my 
+: 1172 18 9 heart 
+- 1192
+: 1200 3 9 The 
+: 1206 3 10 trou
+: 1210 2 14 ble 
+: 1213 2 14 is 
+: 1219 2 14 that 
+: 1222 2 14 F 
+: 1228 3 14 can 
+: 1233 4 12 leave 
+: 1238 6 10 me 
+: 1245 4 9 vo
+: 1250 2 12 cal
+: 1254 3 12 ly 
+: 1258 2 12 be
+: 1261 4 12 reft 
+: 1266 4 12 you 
+: 1272 3 10 see 
+- 1277
+: 1287 4 9 I 
+: 1293 4 9 like 
+: 1299 4 7 play
+: 1305 2 7 ing 
+: 1310 2 7 in 
+: 1315 5 9 F 
+: 1322 8 10 Ma
+: 1332 38 9 jor 
+- 1372
+: 1392 5 -3 But 
+: 1400 4 -3 I 
+: 1409 8 -3 like 
+: 1423 11 9 sing
+: 1436 17 7 ing 
+: 1459 6 5 in 
+: 1473 14 4 F 
+* 1513 51 6 sharp 
+- 1566
+: 1575 8 2 F 
+: 1585 57 6 sharp 
+- 1644
+: 1650 7 2 F 
+: 1662 58 6 sharp 
+- 1721
+: 1723 4 2 I 
+: 1729 4 2 re
+: 1734 2 14 fuse 
+: 1738 2 14 to 
+: 1742 2 14 be 
+: 1746 2 14 be
+: 1752 2 14 hol
+: 1757 2 14 den 
+: 1762 3 12 to 
+: 1767 4 10 my 
+: 1773 16 9 hands 
+- 1791
+: 1801 4 9 I 
+: 1806 3 7 don’t 
+: 1812 2 7 see 
+: 1816 3 7 why 
+: 1821 2 9 my 
+: 1825 3 10 la
+: 1830 2 10 rynx 
+: 1836 3 9 should 
+: 1841 3 7 give 
+: 1845 4 9 in 
+: 1851 2 9 to 
+: 1855 3 9 their 
+: 1859 2 10 de
+: 1862 9 9 mands 
+- 1873
+: 1880 5 9 I’ll 
+: 1886 2 10 not 
+: 1890 3 14 be 
+: 1896 3 14 forced 
+: 1901 2 14 to 
+: 1906 2 14 com
+: 1911 2 14 pro
+: 1914 5 12 mise 
+: 1922 4 10 my 
+: 1927 9 9 art 
+- 1938
+: 1958 3 9 And 
+: 1963 3 7 so 
+: 1967 3 7 I’ll 
+: 1971 3 7 just 
+: 1977 3 9 keep 
+: 1983 3 10 play
+: 1987 3 10 ing 
+: 1991 2 9 in 
+: 1994 2 7 F 
+: 1998 1 7 Ma
+: 2000 1 9 ~
+: 2002 3 10 ~
+: 2006 6 9 jor 
+- 2014
+: 2016 4 2 And 
+: 2022 4 9 sing
+: 2027 4 7 ing 
+: 2032 4 5 in
+: 2037 3 4 F 
+* 2042 52 6 sharp 
+- 2096
+: 2104 6 2 F 
+: 2114 57 6 sharp 
+- 2173
+: 2181 6 2 F 
+: 2192 56 6 sharp 
+- 2250
+: 2259 4 2 I'll 
+: 2268 4 2 keep 
+: 2276 4 2 play
+: 2284 2 4 ing 
+: 2291 2 5 in 
+: 2299 5 7 F 
+: 2310 8 9 Ma
+: 2323 38 7 jor 
+- 2363
+: 2377 5 0 But 
+: 2387 4 0 I'll 
+: 2396 8 0 keep 
+: 2408 11 0 sing
+: 2423 12 2 ing 
+: 2440 10 4 in 
+: 2464 41 7 F 
+* 2534 63 6 sharp 
+E

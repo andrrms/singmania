@@ -1,0 +1,231 @@
+#ARTIST:Kylie Minogue
+#TITLE:Let It Snow
+#MP3:Kylie Minogue - Let It Snow.mp3
+#CREATOR:RetroGirl
+#GENRE:Christmas
+#YEAR:2010
+#LANGUAGE:English
+#BPM:280
+#GAP:15000
+#VIDEO:v=cRwmoBdG0Pk,co=kylie-christmas-574752d739632.jpg,bg=minogue-kylie-53f77638ee892.jpg,preview=25.44,medley=267-1048
+: 0 2 -4 Oh, 
+: 4 2 -4 the 
+: 9 3 8 wea
+: 13 2 8 ther 
+: 16 4 6 out
+: 24 11 5 side 
+: 36 3 3 is 
+: 42 5 1 fright
+: 50 8 -4 ful 
+- 60
+: 66 2 -4 But 
+: 70 2 -4 the 
+* 75 12 3 fire 
+: 88 3 1 is 
+: 94 8 3 so 
+: 103 3 1 de
+: 107 5 0 light
+: 113 10 -4 ful 
+- 125
+: 134 2 -2 And 
+: 139 3 10 since 
+: 144 3 10 we’ve 
+: 148 3 8 no 
+: 154 7 6 place 
+: 163 3 5 to 
+: 169 12 3 go 
+- 183
+: 196 3 12 Let 
+: 200 4 10 it 
+: 207 7 8 snow, 
+: 216 2 8 let 
+: 219 2 6 it 
+: 223 6 5 snow, 
+: 231 2 5 let 
+: 234 3 3 it 
+: 238 14 1 snow 
+- 254
+: 267 2 -4 It 
+: 272 3 8 doe
+: 276 3 8 sn’t 
+: 280 4 6 show 
+: 288 10 5 signs 
+: 300 3 3 of 
+: 306 5 1 stop
+: 313 5 -4 ping 
+- 320
+: 329 3 -4 And 
+: 333 2 -4 I 
+: 338 10 3 brought 
+: 351 3 1 some 
+: 358 6 3 corn 
+: 366 3 1 for 
+: 370 5 0 pop
+: 376 5 -4 ping 
+- 383
+: 397 2 -2 The 
+* 403 4 10 lights 
+: 409 3 10 are 
+: 414 3 8 turned 
+: 419 7 6 way 
+: 428 4 5 down 
+: 435 12 3 low 
+- 449
+: 461 4 12 Let 
+: 466 3 10 it 
+: 471 7 8 snow, 
+: 479 2 8 let 
+: 482 2 6 it 
+: 487 6 5 snow, 
+: 495 3 5 let 
+: 499 2 3 it 
+: 503 9 1 snow 
+- 514
+: 525 4 0 When 
+: 531 3 1 we 
+: 536 4 3 fi
+: 541 2 5 nal
+: 544 3 3 ly 
+: 549 10 8 kiss 
+: 560 4 8 good
+: 565 17 3 night 
+- 584
+: 593 3 0 How 
+: 597 4 3 I’ll 
+: 602 5 1 hate 
+: 609 4 0 going 
+: 614 8 -2 out 
+: 623 3 -4 in 
+: 627 2 -2 the 
+: 631 14 0 storm 
+- 647
+: 659 2 0 But 
+: 662 3 1 if 
+: 666 4 3 you 
+: 671 3 5 real
+: 675 3 3 ly 
+: 680 9 8 hold 
+: 691 3 8 me 
+: 696 17 3 tight 
+- 715
+: 730 6 8 All 
+: 737 2 7 the 
+: 740 5 5 way 
+: 747 7 7 home 
+: 755 4 5 I’ll 
+: 760 3 7 be 
+* 764 24 8 warm 
+- 790
+: 794 3 -4 The 
+: 800 8 8 fire 
+: 810 3 6 is 
+: 817 8 5 slo
+: 826 4 3 wly 
+: 833 4 1 dy
+: 838 4 -4 ing 
+- 844
+: 854 3 -4 And, 
+: 859 2 -4 my 
+: 865 10 3 dear, 
+: 877 3 1 we’re 
+: 885 7 3 still 
+: 893 4 1 good
+: 898 5 0 bye
+: 904 5 -4 ing 
+- 911
+: 922 3 -2 But 
+: 926 3 -2 as 
+: 931 5 10 long 
+: 937 2 10 as 
+: 940 4 8 you 
+: 946 6 6 love 
+: 954 4 5 me 
+: 963 11 3 so 
+- 976
+: 988 4 12 Let 
+: 993 3 10 it 
+: 999 7 8 snow, 
+: 1008 2 8 let 
+: 1011 2 6 it 
+: 1016 7 5 snow, 
+: 1025 2 5 let 
+: 1028 2 3 it 
+: 1034 14 1 snow 
+- 1050
+: 1316 4 0 When 
+: 1322 3 1 we 
+: 1327 4 3 fi
+: 1332 2 5 nal
+: 1335 3 3 ly 
+: 1340 10 8 kiss 
+* 1351 3 8 good
+: 1355 16 3 night 
+- 1373
+: 1382 4 0 How 
+: 1387 4 3 I’ll 
+: 1392 5 1 hate 
+: 1399 4 0 going 
+: 1404 8 -2 out 
+: 1413 3 -4 in 
+: 1417 2 -2 the 
+: 1421 12 0 storm 
+- 1435
+: 1449 2 0 But 
+: 1452 3 1 if 
+: 1457 4 3 you 
+: 1462 3 5 real
+: 1466 3 3 ly 
+: 1471 9 8 hold 
+: 1482 3 8 me 
+: 1487 15 3 tight 
+- 1504
+: 1520 7 8 All 
+: 1528 2 7 the 
+: 1531 5 5 way 
+: 1538 7 7 home 
+: 1546 4 5 I’ll 
+: 1551 3 7 be 
+: 1556 12 8 warm
+: 1569 12 10 ~ 
+- 1582
+: 1584 3 -3 The 
+: 1590 8 9 fire 
+: 1599 3 7 is 
+* 1606 8 6 slo
+: 1615 4 4 wly 
+: 1622 4 2 dy
+: 1627 4 -3 ing 
+- 1633
+: 1642 4 -3 And, 
+: 1648 2 -3 my 
+: 1654 7 4 dear, 
+: 1666 3 2 we’re 
+: 1674 5 4 still 
+: 1681 4 2 good
+: 1687 4 1 bye
+: 1692 3 -3 ing 
+- 1697
+: 1711 3 -1 But 
+: 1715 3 -1 as 
+: 1720 5 11 long 
+: 1726 2 11 as 
+: 1729 4 9 you 
+: 1734 5 7 love 
+: 1742 4 6 me 
+: 1749 13 4 so 
+- 1764
+: 1777 3 13 Let 
+: 1781 2 11 it 
+: 1787 10 9 snow, 
+- 1799
+: 1810 3 9 Let 
+: 1814 2 7 is 
+: 1820 10 6 snow, 
+- 1832
+: 1842 4 6 Let 
+: 1847 3 4 it 
+* 1855 38 2 snow 
+- 1895
+F 1934 9 2 Uh 
+F 1946 12 2 yeah 
+E

@@ -1,0 +1,219 @@
+#ARTIST:Dr. Horrible’s Sing-Along Blog
+#TITLE:My Freeze Ray (Album Version)
+#MP3:Dr. Horrible’s Sing-Along Blog - My Freeze Ray (Album Version).mp3
+#CREATOR:x-y-zero
+#GENRE:Musical
+#YEAR:2008
+#LANGUAGE:English
+#BPM:288
+#GAP:15050
+#VIDEO:a=dlONS745QPo,co=https://cdn-images.dzcdn.net/images/cover/e75fd5f47ac9dc52a6ef2de62ce6bab2/1900x1900-000000-80-0-0.jpg
+: 0 5 7 Laun
+: 6 3 9 dry 
+: 10 4 7 day 
+- 16
+: 32 5 7 See 
+: 38 3 9 you 
+: 42 4 7 there 
+- 48
+: 64 3 7 Un
+: 68 4 9 der 
+: 74 4 7 things 
+- 80
+: 96 5 4 Tum
+: 102 3 2 b
+: 106 1 0 li
+: 108 4 2 ng 
+- 114
+: 128 3 7 Wan
+: 132 3 9 na 
+: 136 6 7 say 
+- 144
+: 160 3 7 Love 
+: 164 3 9 your 
+: 168 6 7 hair 
+- 176
+: 192 3 7 Here 
+: 196 3 9 I 
+: 200 6 7 go 
+- 208
+: 224 3 4 Mum
+: 228 3 2 b
+: 232 1 0 li
+: 234 4 2 ng 
+- 240
+: 256 3 0 With 
+: 260 8 2 my 
+: 270 8 4 freeze 
+: 280 7 0 ray 
+: 288 7 2 I 
+: 296 4 0 will 
+: 304 4 7 stop 
+: 328 3 9 the 
+: 332 3 2 wo
+: 336 4 4 rld 
+- 342
+: 384 3 0 With 
+: 388 8 2 my 
+: 398 8 4 freeze 
+: 408 7 0 ray 
+: 416 7 2 I 
+: 424 7 0 will 
+- 432
+: 432 6 7 Find 
+: 440 3 5 the 
+: 444 8 5 time 
+: 458 4 0 to 
+: 466 5 7 find 
+: 472 3 6 the 
+: 476 8 6 words 
+: 488 4 0 to 
+- 494
+: 512 5 7 Tell 
+: 518 3 9 you 
+: 522 4 7 how 
+- 528
+: 544 5 7 How 
+: 550 3 9 you 
+: 554 4 7 make 
+- 560
+: 576 3 7 Make 
+: 580 5 9 me 
+: 586 4 7 feel 
+- 592
+: 608 3 4 What’s 
+: 612 4 2 the 
+: 618 1 0 phra
+: 620 4 2 se? 
+- 626
+: 640 3 7 Like 
+: 644 5 9 a 
+: 650 6 7 fool 
+- 658
+: 674 3 7 Kin
+: 678 2 9 da 
+: 682 2 7 sick 
+- 686
+: 704 5 7 Spe
+: 710 2 9 cial 
+: 714 4 7 needs 
+- 720
+: 736 3 4 A
+: 740 3 2 ny
+: 744 1 0 wa
+: 746 4 2 ys 
+- 752
+: 768 3 0 With 
+: 772 8 2 my 
+: 782 8 4 freeze 
+: 792 7 0 ray 
+: 800 6 0 I 
+: 808 4 -5 will 
+: 816 4 7 stop 
+: 840 3 9 the 
+: 844 3 2 pa
+: 848 4 4 in 
+- 854
+: 892 3 0 It’s 
+: 896 7 0 not 
+: 904 3 2 a 
+: 908 8 4 death 
+: 920 6 0 ray 
+: 928 7 2 or 
+: 936 4 0 an 
+: 944 7 7 ice 
+: 952 6 5 beam 
+- 959
+: 960 6 5 That’s 
+: 968 6 0 all 
+: 976 3 7 John
+: 980 6 6 ny 
+: 988 3 4 Sno
+: 992 6 6 w 
+- 1000
+: 1004 3 0 I 
+: 1008 4 7 just 
+: 1016 4 5 think 
+: 1024 7 3 you 
+: 1032 6 0 need 
+: 1040 10 7 time 
+: 1052 3 6 to 
+: 1056 4 4 know 
+- 1062
+: 1064 3 2 That 
+: 1068 8 11 I’m 
+: 1080 3 9 the 
+: 1084 8 7 guy 
+: 1096 3 4 to 
+: 1100 4 2 make 
+: 1108 6 4 it 
+: 1116 8 7 real 
+- 1126
+: 1132 3 4 The 
+: 1136 7 9 fee
+: 1144 6 11 lings 
+: 1152 3 9 you 
+: 1156 6 11 don’t 
+: 1164 7 9 dare 
+: 1172 3 7 to 
+: 1176 6 4 feel 
+- 1184
+: 1196 3 4 I’ll 
+: 1200 6 9 bend 
+: 1208 3 11 the 
+: 1212 11 9 wo
+: 1224 6 11 rld 
+: 1232 3 9 to 
+: 1236 7 11 our 
+: 1244 6 12 will 
+- 1252
+: 1260 3 9 And 
+: 1264 6 7 we’ll 
+: 1272 10 7 make 
+: 1288 10 4 time 
+: 1304 6 2 stand 
+: 1328 31 14 sti
+: 1360 32 15 ll 
+- 1394
+: 1536 5 7 That’s 
+: 1542 3 9 the 
+: 1546 4 7 plan 
+- 1552
+: 1568 5 7 Rule 
+: 1574 3 9 the 
+: 1578 4 7 world 
+- 1584
+: 1600 3 7 You 
+: 1604 3 9 and 
+: 1608 6 7 me 
+- 1616
+: 1632 3 4 A
+: 1636 3 2 ny 
+: 1640 1 0 da
+: 1642 4 2 y 
+- 1648
+: 1664 3 7 Love 
+: 1668 3 9 your 
+: 1672 6 7 hair 
+- 1680
+F 1698 5 1 No, 
+F 1704 5 1 I 
+F 1710 4 1 ju... 
+F 1718 3 1 I 
+F 1722 5 1 love 
+F 1728 5 1 the 
+F 1734 6 1 air... 
+- 1742
+: 1762 1 4 A
+: 1764 3 2 ny
+: 1768 1 0 wa
+: 1770 4 2 y 
+- 1776
+: 1792 3 0 With 
+: 1796 8 2 my 
+: 1806 8 4 freeze 
+: 1816 7 0 ray 
+: 1824 6 0 I 
+: 1832 4 -5 will 
+: 1840 4 7 stop 
+E

@@ -1,0 +1,467 @@
+#ARTIST:Linkin Park
+#TITLE:Two Faced
+#MP3:Linkin Park - Two Faced.mp3
+#CREATOR:DoubleDee
+#COVER:Linkin Park - Two Faced [CO].jpg
+#BACKGROUND:Linkin Park - Two Faced [BG].jpg
+#GENRE:Nu-Metal
+#YEAR:2024
+#LANGUAGE:English
+#BPM:368
+#GAP:31430
+#VIDEO:v=kivUsDGWojU,co=https://i.ytimg.com/vi/kivUsDGWojU/maxresdefault.jpg,co-crop=388-6-708-708,bg=linkin-park-68718cc580e09.jpg,preview=54.9,medley=0-1080
+* 0 4 8 Last 
+* 9 7 8 time 
+: 21 5 8 I 
+: 29 3 6 was 
+: 34 3 8 hang
+: 38 3 8 ing 
+: 42 2 8 by 
+: 45 2 6 a 
+* 50 5 9 thread 
+- 62
+: 65 3 8 Try
+: 69 2 6 na 
+: 73 3 8 say 
+: 77 3 7 I’m 
+: 81 3 8 not 
+: 85 3 8 but 
+: 89 3 7 I’m 
+: 93 2 8 in 
+: 97 2 8 it 
+: 101 2 8 o
+: 105 3 7 ver 
+: 109 3 6 my 
+: 113 5 9 head 
+- 126
+: 129 4 8 That’s 
+: 137 5 8 when 
+: 149 4 8 I 
+: 157 3 8 fi
+: 161 3 8 gured 
+: 165 2 8 out 
+: 169 3 6 where 
+: 173 2 6 it 
+: 177 4 9 led 
+- 183
+: 185 2 8 Be
+: 189 3 9 gin
+: 193 3 8 ning 
+: 197 2 6 to 
+: 201 3 8 re
+: 205 2 8 a
+: 209 2 9 lize 
+: 213 2 9 that 
+: 217 3 8 you 
+: 221 3 8 put 
+: 225 3 9 me 
+: 229 2 9 o
+: 233 3 8 ver 
+: 237 2 6 the 
+: 241 5 9 edge 
+- 251
+: 253 3 6 Your 
+: 257 6 8 truth’s 
+: 265 5 8 not 
+: 273 3 6 ri
+: 278 4 9 gid 
+: 285 3 6 your 
+: 289 6 9 rules 
+: 297 5 8 aren’t 
+: 305 6 9 fair 
+- 315
+: 317 2 4 The 
+: 321 6 8 dark’s 
+: 330 5 8 too 
+: 337 3 6 vi
+: 341 5 8 vid 
+: 349 2 4 the 
+: 353 6 8 light’s 
+: 362 4 8 not 
+: 370 6 9 there 
+- 379
+: 381 2 4 I 
+: 385 6 8 start 
+: 394 4 8 to 
+: 401 3 6 give 
+: 405 4 9 in 
+: 413 2 6 but 
+: 417 5 8 I 
+: 426 4 8 can’t 
+: 434 7 9 bear 
+- 443
+: 445 2 6 To 
+: 449 3 8 put 
+: 453 2 8 it 
+: 457 3 8 all 
+: 461 3 6 be
+: 465 6 9 hind 
+: 473 4 6 I 
+: 481 3 9 run 
+: 485 2 9 in
+: 489 3 8 to 
+: 493 2 6 it 
+: 497 6 9 blind 
+: 505 6 6 like 
+- 535
+* 576 7 13 Two
+* 584 3 8 ~–
+* 592 9 8 faced 
+: 608 6 9 caught 
+: 616 2 9 in 
+: 620 2 9 the 
+: 624 3 9 mid
+: 628 26 8 dle 
+- 664
+: 672 6 9 Caught 
+: 680 2 9 in 
+: 684 3 9 the 
+: 688 3 9 mid
+: 692 9 8 dle 
+- 702
+: 704 6 13 Too
+: 712 6 8 ~ 
+: 720 12 8 late, 
+: 736 7 9 coun
+: 744 3 9 ting 
+: 748 3 9 to 
+: 752 3 9 ze
+: 756 29 8 ro 
+- 796
+: 800 7 9 Coun
+: 808 3 9 ting 
+: 812 3 9 to 
+: 816 3 9 ze
+: 820 17 8 ro 
+- 838
+: 840 5 6 You 
+: 848 7 6 should 
+: 856 5 8 have 
+: 864 7 9 re
+: 872 6 9 cog
+: 880 10 8 nized 
+- 894
+: 896 4 9 It’s 
+: 904 6 9 too 
+: 912 7 8 late 
+: 920 5 6 for 
+: 928 6 9 choo
+: 936 6 9 sing 
+: 944 13 8 sides 
+- 958
+: 960 7 13 Two
+: 968 3 8 ~–
+: 976 9 8 faced 
+: 992 6 9 caught 
+: 1000 2 9 in 
+: 1004 2 9 the 
+: 1008 3 9 mid
+: 1012 8 8 dle 
+- 1023
+: 1025 6 9 Caught 
+: 1033 2 9 in 
+: 1037 3 9 the 
+: 1041 3 9 mid
+: 1045 9 8 dle 
+- 1054
+G 1056 7 8 Two–
+G 1072 8 8 faced 
+- 1086
+* 1088 5 8 Last 
+* 1096 5 8 time 
+: 1110 5 8 you 
+: 1118 3 9 told 
+: 1122 3 9 me 
+: 1126 3 9 it 
+: 1130 3 8 was
+: 1134 3 6 n’t 
+: 1138 6 9 true 
+- 1147
+: 1149 3 6 And 
+: 1153 3 9 poin
+: 1157 2 9 ting 
+: 1161 2 9 eve
+: 1165 2 8 ry 
+: 1169 3 9 fin
+: 1173 3 9 ger 
+: 1177 2 8 at 
+: 1181 3 9 things 
+: 1185 2 9 that 
+: 1189 3 9 you 
+: 1193 2 8 did
+: 1197 2 6 n’t 
+: 1201 4 9 do 
+- 1211
+: 1213 3 6 So 
+: 1217 5 8 that’s 
+: 1225 5 8 why 
+: 1237 4 8 I 
+: 1245 5 9 kept 
+: 1253 3 9 mis
+: 1257 3 9 sing 
+: 1261 2 6 the 
+: 1265 7 9 clues 
+- 1275
+: 1277 2 6 And 
+: 1281 2 9 ne
+: 1285 2 8 ver 
+: 1289 2 9 re
+: 1293 2 9 a
+: 1297 2 9 lized 
+: 1301 2 9 that 
+: 1305 3 8 the 
+: 1309 2 9 one 
+: 1313 2 8 that 
+: 1317 2 9 did 
+: 1321 2 9 it 
+: 1325 3 6 was 
+: 1329 4 9 you 
+- 1339
+: 1341 3 6 Your 
+: 1345 6 8 truth’s 
+: 1353 5 8 not 
+: 1361 3 8 ri
+: 1366 4 9 gid 
+: 1373 3 6 your 
+: 1377 6 9 rules 
+: 1385 5 9 aren’t 
+: 1393 6 9 fair 
+- 1403
+: 1405 2 6 The 
+: 1409 6 8 dark’s 
+: 1418 5 8 too 
+: 1425 3 6 vi
+: 1429 5 8 vid 
+: 1437 2 6 the 
+: 1441 6 8 light’s 
+: 1450 4 8 not 
+: 1458 6 9 there 
+- 1467
+: 1469 2 6 I 
+: 1473 6 8 start 
+: 1482 4 8 to 
+: 1489 3 6 give 
+: 1493 4 9 in 
+: 1501 2 6 but 
+: 1505 5 8 I 
+: 1514 4 8 can’t 
+: 1522 7 9 bear 
+- 1531
+: 1533 2 6 To 
+: 1537 3 8 put 
+: 1541 2 8 it 
+: 1545 3 8 all 
+: 1549 3 6 be
+: 1553 6 9 hind 
+: 1561 4 6 I 
+: 1569 3 9 run 
+: 1573 2 9 in
+: 1577 3 8 to 
+: 1581 2 6 it 
+: 1585 6 9 blind 
+: 1593 6 6 like 
+- 1599
+* 1600 7 13 Two
+* 1608 3 8 ~–
+* 1616 9 8 faced 
+: 1632 6 9 caught 
+: 1640 2 9 in 
+: 1644 2 9 the 
+: 1648 3 9 mid
+: 1652 26 8 dle 
+- 1688
+: 1696 6 9 Caught 
+: 1704 2 9 in 
+: 1708 3 9 the 
+: 1712 3 9 mid
+: 1716 9 8 dle 
+- 1726
+: 1728 6 13 Too
+: 1736 6 8 ~ 
+: 1744 12 8 late, 
+: 1760 7 9 coun
+: 1768 3 9 ting 
+: 1772 3 9 to 
+: 1776 3 9 ze
+: 1780 29 8 ro 
+- 1820
+: 1824 7 9 Coun
+: 1832 3 9 ting 
+: 1836 3 9 to 
+: 1840 3 9 ze
+: 1844 17 8 ro 
+- 1862
+: 1864 5 6 You 
+: 1872 7 6 should 
+: 1880 5 8 have 
+: 1888 7 9 re
+: 1896 6 9 cog
+: 1904 10 8 nized 
+- 1918
+: 1920 4 9 It’s 
+: 1928 6 9 too 
+: 1936 7 8 late 
+: 1944 5 6 for 
+: 1952 6 9 choo
+: 1960 6 9 sing 
+: 1968 13 8 sides 
+- 1982
+: 1984 7 13 Two
+: 1992 3 8 ~–
+: 2000 9 8 faced 
+: 2016 6 9 caught 
+: 2024 2 9 in 
+: 2028 2 9 the 
+: 2032 3 9 mid
+: 2036 8 8 dle 
+- 2047
+: 2049 6 9 Caught 
+: 2057 2 9 in 
+: 2061 3 9 the 
+: 2065 3 9 mid
+: 2069 9 8 dle 
+- 2078
+R 2080 7 8 Two–
+R 2096 8 8 faced 
+- 2114
+R 2148 3 9 I 
+R 2152 4 9 can’t 
+R 2160 3 9 hear 
+R 2164 3 9 my
+R 2168 3 9 self 
+R 2176 4 10 think 
+- 2190
+R 2213 3 9 I 
+R 2217 4 9 can’t 
+R 2225 3 9 hear 
+R 2229 3 9 my
+R 2233 3 9 self 
+R 2241 4 10 think 
+- 2255
+R 2277 3 9 I 
+R 2281 4 9 can’t 
+R 2289 3 9 hear 
+R 2293 3 9 my
+R 2297 3 9 self 
+R 2305 4 10 think 
+- 2319
+: 2344 6 14 Stop 
+: 2352 3 13 yel
+: 2356 3 14 ling 
+: 2360 4 14 at 
+* 2368 60 13 me! 
+- 2438
+R 2468 3 13 I 
+R 2472 4 13 can’t 
+R 2480 3 13 hear 
+R 2484 3 13 my
+R 2488 3 14 self 
+R 2496 9 16 think 
+- 2515
+G 2553 4 16 Yeah! 
+- 2567
+: 2600 6 13 Stop 
+: 2608 3 13 yel
+: 2612 3 13 ling 
+: 2616 5 13 at 
+: 2624 22 11 me 
+- 2656
+: 2664 6 13 Stop 
+: 2672 3 13 yel
+: 2676 3 13 ling 
+: 2680 5 13 at 
+: 2688 22 11 me 
+- 2720
+: 2728 6 13 Stop 
+: 2736 3 13 yel
+: 2740 3 13 ling 
+: 2744 5 13 at 
+: 2752 43 11 me 
+- 2805
+: 2816 7 13 Two
+: 2824 3 8 ~–
+: 2832 9 8 faced 
+: 2848 6 9 caught 
+: 2856 2 9 in 
+: 2860 2 9 the 
+: 2864 3 9 mid
+: 2868 26 8 dle 
+- 2904
+: 2912 6 9 Caught 
+: 2920 2 9 in 
+: 2924 3 9 the 
+: 2928 3 9 mid
+: 2932 9 8 dle 
+- 2942
+: 2944 6 13 Too
+: 2952 6 8 ~ 
+: 2960 12 8 late, 
+: 2976 7 9 coun
+: 2984 3 9 ting 
+: 2988 3 9 to 
+: 2992 3 9 ze
+: 2996 29 8 ro 
+- 3036
+: 3040 7 9 Coun
+: 3048 3 9 ting 
+: 3052 3 9 to 
+: 3056 3 9 ze
+: 3060 17 8 ro 
+- 3078
+: 3080 5 6 You 
+: 3088 7 6 should 
+: 3096 5 8 have 
+: 3104 7 9 re
+: 3112 6 9 cog
+: 3120 10 8 nized 
+- 3134
+: 3136 4 9 It’s 
+: 3144 6 9 too 
+: 3152 7 8 late 
+: 3160 5 6 for 
+: 3168 6 9 choo
+: 3176 6 9 sing 
+: 3184 13 8 sides 
+- 3198
+: 3200 7 13 Two
+: 3208 3 8 ~–
+: 3216 9 8 faced 
+: 3232 6 9 caught 
+: 3240 2 9 in 
+: 3244 2 9 the 
+: 3248 3 9 mid
+: 3252 8 8 dle 
+- 3263
+: 3265 6 9 Caught 
+: 3273 2 9 in 
+: 3277 3 9 the 
+: 3281 3 9 mid
+: 3285 8 8 dle 
+- 3294
+: 3296 6 9 Caught 
+: 3304 2 9 in 
+: 3308 3 9 the 
+: 3312 3 9 mid
+: 3316 10 8 dle 
+- 3327
+: 3329 6 9 Caught 
+: 3337 2 9 in 
+: 3341 3 9 the 
+: 3345 3 9 mid
+: 3349 9 8 dle 
+- 3358
+: 3360 6 9 Caught 
+: 3368 2 9 in 
+: 3372 3 9 the 
+: 3376 3 9 mid
+: 3380 7 8 dle 
+- 3390
+R 3392 6 9 Caught 
+R 3400 2 9 in 
+R 3404 3 9 the 
+R 3408 3 9 mid
+R 3412 7 8 dle 
+- 3422
+G 3424 7 8 Two–
+G 3440 8 8 faced 
+E

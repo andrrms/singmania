@@ -1,0 +1,486 @@
+#ARTIST:Chuck Berry
+#TITLE:You Never Can Tell
+#MP3:Chuck Berry - You Never Can Tell.mp3
+#CREATOR:Gollum
+#GENRE:Soundtrack
+#YEAR:1964
+#LANGUAGE:English
+#BPM:314.5
+#GAP:560
+#VIDEO:v=WSLMN6g_Od4,co=you-never-can-tell--too-booped-to-pop-56170c2ea6502.jpg,bg=chuck-berry-4e602efa9c1ff.jpg
+F 0 2 7 La
+F 4 5 7 dies 
+F 12 4 7 and 
+F 18 1 7 gen
+F 20 1 7 tle
+F 22 1 7 men 
+- 25
+F 44 2 7 Now 
+F 48 1 7 the 
+F 50 1 7 mo
+F 52 1 7 ment 
+F 55 2 7 you’ve 
+F 58 3 7 all 
+F 63 2 7 been 
+F 67 2 7 wai
+F 71 2 7 ting 
+F 76 8 7 for 
+- 86
+F 97 3 7 The 
+F 102 4 7 world 
+F 110 2 7 fa
+F 113 4 7 mous 
+- 119
+F 129 3 7 Jack
+F 135 1 7 rab
+F 137 1 7 bit 
+F 142 5 7 Slim’s 
+- 149
+F 160 4 7 Twist 
+F 171 4 7 con
+F 177 3 7 test 
+- 182
+F 283 2 7 Now, 
+F 287 1 7 this 
+F 289 1 7 is 
+F 291 9 7 where 
+- 302
+F 311 4 7 One 
+F 317 2 7 luc
+F 321 2 7 ky 
+F 325 3 7 cou
+F 329 6 7 ple 
+- 337
+F 347 1 7 Will 
+F 349 3 7 win 
+F 354 2 7 this 
+F 360 2 7 hand
+F 364 2 7 some 
+F 369 3 7 tro
+F 374 1 7 phy 
+- 376
+F 378 2 7 That 
+F 382 2 7 Ma
+F 385 1 7 ri
+F 387 2 7 lyn 
+F 392 5 7 here 
+- 399
+F 409 3 7 Is 
+F 416 3 7 hol
+F 421 2 7 ding 
+- 425
+F 440 5 7 Now, 
+F 448 2 7 who 
+F 451 1 7 will 
+F 453 7 7 be 
+- 462
+F 475 4 7 Our 
+F 482 4 7 first 
+F 496 2 7 con
+F 499 3 7 tes
+F 505 2 7 tants? 
+- 509
+F 513 2 7 Right 
+F 516 5 7 here! 
+- 523
+F 582 1 7 I 
+F 584 1 7 wan
+F 586 1 7 na 
+F 588 3 7 dance 
+- 593
+F 600 3 7 No, 
+F 607 2 7 no, 
+F 610 2 7 no, 
+F 614 3 7 no, 
+F 619 3 7 no 
+- 624
+F 631 11 7 No, 
+F 644 4 7 no, 
+F 650 3 7 no, 
+F 655 5 7 no, 
+F 662 1 7 no, 
+F 665 2 7 no 
+- 669
+F 677 2 7 I 
+F 680 1 7 do 
+F 683 1 7 be
+F 685 3 7 lieve 
+F 692 2 7 Mar
+F 698 2 7 sel
+F 702 2 7 lus 
+- 705
+F 707 3 7 My 
+F 712 2 7 hus
+F 717 2 7 band, 
+F 721 2 7 your 
+F 726 3 7 boss 
+- 731
+F 734 3 7 Told 
+F 739 3 7 you 
+F 745 1 7 to 
+F 748 2 7 take 
+F 753 3 7 me 
+F 757 3 7 out 
+- 762
+F 766 1 7 And 
+F 768 1 7 do 
+F 770 1 7 what 
+F 772 1 7 e
+F 774 1 7 ver 
+F 776 3 7 I 
+F 780 3 7 wan
+F 784 1 7 ted 
+- 787
+F 799 2 7 Now 
+F 802 2 7 I 
+F 805 1 7 wan
+F 807 1 7 na 
+F 812 3 7 dance 
+- 817
+F 826 1 7 I 
+F 829 1 7 wan
+F 831 1 7 na 
+F 835 3 7 win 
+- 840
+F 854 1 7 I 
+F 856 2 7 want 
+F 860 1 7 that 
+F 865 2 7 tro
+F 870 1 7 phy 
+- 873
+F 887 1 7 So 
+F 890 3 7 dance 
+F 898 2 7 good 
+- 902
+F 905 2 7 All 
+F 909 2 7 right 
+- 913
+F 918 3 7 Let’s 
+F 922 2 7 hear 
+F 925 1 7 it 
+F 927 3 7 for 
+F 932 2 7 our 
+F 935 2 7 first 
+F 938 3 7 con
+F 945 3 7 tes
+F 949 5 7 tants 
+- 956
+F 1100 2 7 Now 
+F 1103 2 7 let’s 
+F 1107 2 7 meet 
+F 1110 3 7 our 
+F 1115 3 7 first 
+F 1120 1 7 con
+F 1122 3 7 tes
+F 1127 1 7 tants 
+F 1130 5 7 here 
+- 1136
+F 1138 2 7 This 
+F 1141 2 7 eve
+F 1145 3 7 ning 
+- 1150
+F 1164 2 7 Young 
+F 1168 1 7 la
+F 1170 2 7 dy, 
+F 1174 1 7 what 
+F 1176 1 7 is 
+F 1178 2 7 your 
+F 1181 3 7 name? 
+- 1186
+F 1213 2 7 Mrs
+F 1218 1 7 ~. 
+F 1221 2 7 Mia 
+F 1224 3 7 Wal
+F 1229 2 7 lace 
+- 1233
+F 1255 4 7 And 
+F 1260 5 7 how 
+F 1267 2 7 ’bout 
+F 1271 4 7 your 
+F 1278 2 7 fel
+F 1281 2 7 la 
+F 1284 3 7 here 
+- 1289
+F 1315 3 7 Vin
+F 1319 2 7 cent 
+F 1323 2 7 Ve
+F 1326 2 7 ga 
+- 1330
+F 1352 2 7 Al
+F 1355 2 7 right, 
+F 1359 2 7 let’s 
+F 1364 2 7 see 
+F 1367 1 7 what 
+F 1369 1 7 you 
+F 1371 1 7 can 
+F 1373 4 7 do 
+- 1379
+F 1383 3 7 Take 
+F 1387 1 7 it 
+F 1389 1 7 a
+F 1391 4 7 way! 
+- 1397
+: 1868 2 -5 It 
+: 1872 2 -3 was 
+: 1876 2 -1 a 
+: 1880 2 0 teen
+: 1884 3 -3 age 
+- 1889
+: 1892 3 -1 We
+: 1896 1 -3 ~
+: 1898 1 -5 ~d
+: 1901 1 -5 ding, 
+: 1904 2 -5 and 
+: 1907 2 -5 the 
+: 1910 1 -5 o
+: 1912 2 -3 ~ld 
+: 1920 2 -3 folks 
+- 1924
+: 1928 3 -3 Wished 
+: 1936 2 -5 them 
+: 1941 1 -5 we
+: 1943 5 -3 ~ll 
+- 1950
+: 1995 1 -3 You 
+: 1999 2 -1 could 
+: 2003 6 0 see 
+: 2011 2 -3 that 
+: 2016 2 -3 Pi
+: 2019 5 -1 erre 
+: 2027 3 -5 did 
+- 2032
+: 2035 3 -3 Tru
+: 2040 1 -5 ~
+: 2043 1 -5 ly 
+: 2047 2 -5 love 
+: 2052 1 -8 the 
+: 2055 3 -5 ma
+: 2059 1 -8 de
+: 2062 2 -8 moi
+: 2067 3 -10 selle 
+- 2072
+: 2123 1 -3 And 
+: 2126 3 -3 now 
+: 2131 1 -3 the 
+: 2134 4 -1 young 
+: 2143 2 -5 mon
+: 2148 2 -3 sieu
+: 2151 1 -5 ~r 
+: 2155 1 -8 and 
+: 2158 2 -7 ma
+: 2162 4 -5 dame 
+- 2168
+: 2171 1 -8 Have 
+: 2174 2 -7 rung 
+: 2178 2 -7 the 
+: 2182 3 -5 cha
+: 2187 2 -10 pe
+: 2190 2 -8 ~l 
+: 2195 2 -8 be
+: 2198 2 -10 ~ll 
+- 2202
+: 2251 2 -3 “C’est 
+: 2254 2 -3 la 
+: 2259 5 -1 vie”, 
+: 2266 2 -5 say 
+: 2270 3 -5 the 
+: 2274 4 -3 old 
+: 2283 2 -7 folks 
+- 2287
+: 2290 1 -5 It 
+: 2294 2 -3 goes 
+: 2298 1 -5 to 
+: 2301 3 -3 show 
+: 2306 1 -5 you 
+: 2310 2 -3 ne
+: 2314 1 -5 ver 
+: 2318 3 -3 can 
+: 2326 2 -3 te
+: 2330 3 -5 ~ll 
+- 2335
+: 2377 2 -5 They 
+: 2381 2 -3 fur
+: 2385 2 -1 nished 
+: 2389 3 0 off 
+: 2394 1 0 an 
+: 2397 1 0 a
+: 2402 4 0 part
+: 2410 1 -5 ment 
+: 2413 3 -3 with 
+: 2418 1 -5 a 
+: 2421 2 0 two 
+- 2424
+: 2426 4 0 Room 
+: 2437 3 0 Roe
+: 2442 2 -3 buck 
+: 2450 2 -3 sa
+: 2454 4 -8 ~le 
+- 2460
+: 2506 1 -5 The 
+: 2510 2 0 coo
+: 2514 1 0 le
+: 2517 3 0 ra
+: 2522 1 0 tor 
+: 2525 2 0 was 
+: 2530 4 0 crammed 
+- 2536
+: 2538 1 -5 With 
+: 2542 2 -2 T
+: 2546 2 -5 V 
+: 2550 2 -2 din
+: 2554 1 -5 ners 
+: 2558 3 -3 and 
+: 2563 1 -5 a 
+: 2566 4 -2 gin
+: 2574 2 -5 ger 
+: 2577 3 -2 a
+: 2582 4 -5 ~le 
+- 2588
+: 2634 1 -5 But 
+: 2638 2 -3 when 
+: 2643 1 -2 Pi
+: 2645 3 -1 erre 
+: 2651 4 -5 found 
+: 2659 2 -3 work 
+- 2663
+: 2667 1 -8 The 
+: 2670 2 -7 lit
+: 2674 1 -6 tle 
+: 2678 2 -5 mo
+: 2681 2 -5 ney 
+: 2686 2 -5 co
+: 2689 2 -5 min’ 
+: 2694 2 -3 worked 
+: 2698 2 -3 ou
+: 2701 2 -1 ~t 
+: 2706 1 -5 we
+: 2708 2 -10 ~ll 
+- 2712
+* 2762 2 -3 “C’est 
+* 2765 2 -3 la 
+* 2770 5 -1 vie”, 
+: 2778 3 -5 say 
+: 2782 3 -5 the 
+: 2786 4 -3 old 
+: 2794 2 -5 folks 
+- 2798
+: 2802 1 -5 It 
+: 2806 2 -3 goes 
+: 2810 1 -5 to 
+: 2814 2 -3 show 
+: 2818 1 -5 you 
+: 2822 2 -3 ne
+: 2826 1 -5 ver 
+: 2830 3 -3 can 
+: 2838 2 -5 te
+: 2842 2 -12 ~ll 
+- 2846
+: 2890 2 -5 They 
+: 2894 3 -3 had 
+: 2898 2 -1 a 
+: 2902 3 0 hi
+: 2910 3 0 fi 
+* 2918 3 0 pho
+* 2922 3 -3 no 
+- 2927
+: 2930 9 0 Boy, 
+: 2942 2 -3 did 
+: 2946 2 -5 they 
+: 2950 3 0 let 
+: 2954 2 -3 i
+: 2957 1 -5 ~t 
+: 2962 5 0 blast 
+- 2969
+: 3022 2 0 Se
+: 3026 2 0 ven 
+: 3030 2 0 hun
+: 3034 1 0 dred 
+: 3038 3 0 lit
+: 3042 1 -3 tle 
+: 3046 2 0 re
+: 3051 2 -3 cords 
+- 3055
+: 3058 10 0 All 
+: 3070 3 -3 ro
+: 3074 1 -5 ~ck, 
+: 3078 2 -2 rhy
+: 3082 1 -2 thm 
+: 3086 1 -5 and 
+* 3090 3 -1 ja
+* 3094 3 -5 ~
+* 3098 3 -7 ~zz 
+- 3103
+: 3145 2 -5 But 
+: 3150 1 -3 when 
+: 3153 2 -2 the 
+: 3158 4 -1 sun 
+: 3166 2 -5 went 
+: 3171 4 -3 down 
+- 3176
+: 3178 1 -8 The 
+: 3182 2 -7 ra
+: 3186 1 -6 pid 
+: 3190 2 -5 tem
+: 3195 2 -5 po 
+: 3199 2 -5 of 
+: 3203 1 -5 the 
+: 3206 3 -3 mu
+: 3211 1 -3 si
+: 3213 1 -1 ~c 
+: 3219 1 -3 fe
+: 3222 2 -10 ~ll 
+- 3226
+: 3275 2 -3 “C’est 
+: 3278 2 -2 la 
+: 3282 5 -1 vie”, 
+: 3291 2 -5 say 
+: 3295 3 -5 the 
+: 3299 4 -3 old 
+: 3307 2 -8 folks 
+- 3311
+: 3315 1 -5 It 
+: 3319 2 -3 goes 
+: 3323 1 -5 to 
+: 3327 2 -3 show 
+* 3331 1 -5 you 
+* 3334 2 -3 ne
+* 3338 1 -5 ver 
+* 3342 3 -3 can 
+* 3351 2 -3 te
+* 3355 2 -12 ~ll 
+- 3359
+: 3916 1 -5 It 
+: 3920 2 -3 had 
+: 3923 2 -1 a 
+: 3928 2 0 teen
+: 3931 4 0 age 
+: 3940 6 0 wed
+: 3949 1 0 ding, 
+: 3952 2 -3 and 
+: 3956 2 -5 the 
+: 3960 4 0 old 
+: 3968 2 -3 folks 
+- 3972
+: 3977 3 0 Wished 
+* 3984 2 -3 them 
+* 3989 2 -5 we
+* 3992 3 -3 ~ll 
+- 3997
+F 4044 1 -2 You 
+F 4048 2 -1 could 
+F 4052 6 0 see 
+F 4060 2 -3 that 
+F 4064 2 -3 Pi
+F 4067 5 -1 erre 
+F 4075 3 -5 did 
+- 4080
+F 4083 3 -3 Tru
+F 4088 1 -5 ~
+F 4091 1 -5 ly 
+F 4095 2 -5 love 
+F 4100 1 -8 the 
+F 4103 3 -5 ma
+F 4107 1 -8 de
+F 4110 2 -8 moi
+F 4115 3 -10 selle 
+E

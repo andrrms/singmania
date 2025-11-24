@@ -1,0 +1,131 @@
+#ARTIST:Girlschool
+#TITLE:Race With The Devil
+#MP3:Girlschool - Race With The Devil.mp3
+#CREATOR:Fepo
+#GENRE:Rock
+#YEAR:1980
+#LANGUAGE:English
+#BPM:255
+#GAP:36480
+#VIDEO:v=Pe_LRasNay0,co=https://m.media-amazon.com/images/I/71iz4MqTTkL.jpg,bg=girlschool-500c1bf3c1d2a.jpg
+: 0 1 0 You’d 
+: 2 4 0 bet
+: 8 2 2 ter 
+: 12 5 5 run 
+- 19
+: 24 1 0 You’d 
+: 26 4 0 bet
+: 32 2 2 ter 
+: 36 5 5 run 
+- 43
+: 48 2 8 You’d 
+: 51 2 8 bet
+: 55 2 8 ter 
+: 60 3 8 run 
+: 65 2 8 from 
+: 69 2 8 the 
+: 73 2 9 De
+: 77 3 12 vil’s 
+: 84 9 9 gun 
+- 95
+: 96 2 0 The 
+: 99 2 0 race 
+: 104 2 2 is 
+: 108 5 5 on 
+- 115
+: 120 2 0 The 
+: 123 2 0 race 
+: 128 2 2 is 
+: 132 5 5 on 
+- 139
+: 140 2 5 So 
+: 144 2 5 you 
+: 148 2 7 bet
+: 151 2 7 ter 
+: 156 3 7 run 
+: 161 2 7 from 
+: 165 2 7 the 
+: 169 3 9 De
+: 174 4 8 vil’s 
+: 180 4 6 gun 
+- 186
+: 388 4 0 Strange 
+: 394 2 2 things 
+: 398 2 4 hap
+: 403 4 5 pen 
+- 409
+: 412 2 0 If 
+: 416 2 2 you 
+: 420 5 5 stay 
+- 427
+: 432 2 5 The 
+: 436 2 7 De
+: 439 2 7 vil 
+: 442 2 7 will 
+* 445 4 7 catch 
+: 452 3 5 you 
+* 457 3 9 a
+: 462 3 12 ny
+: 468 6 9 way 
+- 476
+: 480 2 0 He’ll 
+: 484 3 0 try 
+: 489 2 2 to 
+: 493 4 6 find 
+: 499 4 6 you 
+- 505
+: 508 2 0 So 
+: 512 2 4 take 
+: 517 6 6 care 
+- 525
+: 528 2 6 The 
+: 532 2 8 De
+: 535 2 8 vil 
+: 538 2 8 will 
+: 541 3 8 seek 
+: 546 4 6 you 
+: 553 4 9 e
+: 559 3 8 very
+: 564 6 6 whe
+: 572 4 2 ~re 
+- 578
+: 1169 2 0 And 
+: 1173 3 0 when 
+: 1178 3 2 he 
+: 1183 5 6 finds 
+: 1191 5 6 you 
+- 1197
+: 1198 2 0 Soon 
+: 1202 4 3 find 
+: 1208 3 6 out 
+- 1213
+: 1219 2 5 The 
+: 1222 2 7 De
+: 1225 2 5 vil’s 
+: 1230 2 7 fi
+: 1234 2 7 re 
+: 1238 2 7 it 
+: 1242 4 14 won’t 
+: 1249 4 9 go 
+: 1255 3 9 ou
+: 1260 3 6 ~t 
+- 1265
+: 1267 2 0 He 
+: 1270 2 0 burns 
+: 1274 2 0 you 
+: 1278 3 0 up 
+: 1284 5 0 and 
+: 1293 2 0 soon 
+: 1297 3 0 you’ll 
+: 1302 6 0 know 
+- 1310
+: 1314 2 6 The 
+: 1317 2 8 De
+: 1321 3 6 vil’s 
+: 1326 4 8 grip 
+: 1332 4 6 just 
+: 1338 4 9 won’t 
+: 1344 4 8 let 
+: 1350 4 6 go
+: 1356 4 2 ~ 
+E

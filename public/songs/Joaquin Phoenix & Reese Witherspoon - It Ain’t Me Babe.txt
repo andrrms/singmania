@@ -1,0 +1,204 @@
+#ARTIST:Joaquin Phoenix & Reese Witherspoon
+#TITLE:It Ain’t Me Babe
+#MP3:Joaquin Phoenix & Reese Witherspoon - It Ain’t Me Babe.mp3
+#CREATOR:nascituruz
+#GENRE:Country
+#YEAR:2005
+#LANGUAGE:English
+#BPM:230.2
+#GAP:34500
+#VIDEO:v=zHQqoftUSRg,co=https://www.cowboysindians.com/wp-content/uploads/2017/06/WalktheLine_LP_Cover_RGB.jpg
+: 0 3 0 Go 
+: 4 3 2 a
+: 8 7 4 way 
+: 16 6 4 from 
+: 24 7 7 my 
+: 32 5 4 win
+: 38 18 2 dow 
+- 58
+: 64 7 4 Leave 
+: 72 3 4 at 
+: 76 3 7 your 
+: 80 6 4 own 
+: 88 3 4 cho
+: 92 3 2 sen 
+: 96 18 0 speed 
+- 116
+: 124 5 2 I’m 
+: 130 7 4 not 
+: 138 5 4 the 
+: 144 9 4 one 
+: 154 5 7 you 
+: 160 10 4 want, 
+: 172 14 2 babe 
+- 188
+: 192 3 2 I’m 
+: 196 11 4 not 
+: 208 3 7 the 
+: 212 6 4 one 
+: 220 5 2 you 
+: 226 16 0 need 
+- 244
+: 256 1 0 You 
+: 258 7 4 say 
+: 266 6 4 you’re 
+: 274 5 4 loo
+: 280 8 7 kin’ 
+: 292 5 4 for 
+: 298 3 2 some
+: 302 8 2 one 
+- 311
+: 312 3 2 Who’s 
+: 316 2 4 ne
+: 319 2 4 ver 
+: 322 6 4 weak 
+: 336 3 7 but 
+: 342 5 4 al
+: 348 8 4 ways 
+: 360 14 2 strong 
+- 376
+: 380 3 2 To 
+: 384 4 4 pro
+: 389 5 4 tect 
+: 396 7 4 you 
+: 404 8 7 and 
+: 418 1 4 de
+: 420 7 4 fend 
+: 428 10 2 you 
+- 440
+: 448 2 2 Whe
+: 451 2 2 ther 
+: 454 6 4 you 
+: 462 4 4 are 
+: 468 8 7 right 
+: 478 6 4 or 
+: 488 20 2 wrong 
+- 510
+: 512 3 9 Some
+: 516 7 9 one 
+: 524 2 9 to 
+: 528 2 9 o
+: 532 2 9 pen 
+: 536 3 9 each 
+: 540 1 7 and 
+: 542 3 9 eve
+: 546 4 9 ry 
+* 552 16 11 door 
+- 569
+: 570 3 7 But 
+: 574 2 7 it 
+: 577 4 7 ain’t 
+: 582 15 7 me, 
+: 598 13 0 babe 
+- 612
+* 614 7 12 No, 
+* 622 7 11 no, 
+* 630 7 9 no, 
+: 638 2 7 it 
+: 642 4 7 ain’t 
+: 648 12 7 me 
+: 662 7 0 babe 
+- 670
+: 670 1 0 It 
+: 672 6 4 ain’t 
+: 680 7 5 me 
+: 688 7 4 you’re 
+: 696 3 2 loo
+: 700 6 2 kin’ 
+: 710 17 0 for 
+: 728 20 0 babe 
+- 750
+: 866 3 0 Go 
+: 870 7 2 light
+: 878 7 4 ly 
+: 886 10 4 from 
+: 898 3 7 the 
+: 902 11 4 ledge 
+: 914 13 2 babe 
+- 928
+: 928 7 4 Go 
+: 936 3 4 light
+: 940 9 7 ly 
+: 950 11 4 on 
+: 962 3 2 the 
+: 966 18 0 ground 
+- 986
+: 994 3 2 I’m 
+: 998 4 4 not 
+: 1004 6 4 the 
+: 1012 7 4 one 
+: 1020 7 7 you 
+: 1028 13 4 want, 
+: 1042 12 2 babe 
+- 1055
+: 1056 3 2 I’ll 
+: 1060 9 4 on
+: 1070 5 7 ly 
+: 1076 9 4 let 
+: 1086 5 2 you 
+: 1092 16 0 down 
+- 1110
+: 1120 3 0 You 
+: 1124 7 4 say 
+: 1132 6 4 you’re 
+: 1140 3 4 loo
+: 1144 10 7 kin’ 
+: 1156 7 4 for 
+: 1164 3 2 some
+: 1168 14 2 one 
+- 1183
+: 1184 3 2 Who’ll 
+: 1188 7 4 pro
+: 1196 7 4 mise 
+: 1204 5 7 ne
+: 1210 5 7 ver 
+: 1216 3 4 to 
+: 1220 14 2 part 
+- 1236
+: 1248 3 2 Some
+: 1252 7 4 one 
+: 1260 4 4 to 
+: 1268 9 7 close 
+: 1278 6 4 his 
+: 1286 7 4 eyes 
+: 1294 3 2 to 
+: 1298 14 2 you 
+- 1313
+: 1314 3 2 Some
+: 1318 5 4 one 
+: 1324 4 4 to 
+: 1330 9 7 close 
+: 1340 7 4 his 
+: 1348 14 2 heart 
+- 1364
+: 1376 3 9 Some
+: 1380 8 9 one 
+: 1392 2 9 to 
+: 1396 3 9 die 
+: 1400 3 9 for 
+: 1404 3 7 you 
+: 1408 3 9 and 
+* 1412 19 11 more 
+- 1432
+: 1432 2 7 But 
+: 1435 2 7 it 
+: 1439 3 7 ain’t 
+: 1444 15 7 me 
+: 1460 15 0 babe 
+- 1476
+* 1476 7 12 No, 
+* 1484 7 11 no, 
+* 1492 6 9 no, 
+* 1500 2 7 it 
+* 1504 3 7 ain’t 
+: 1508 13 7 me 
+: 1522 7 7 babe 
+- 1530
+: 1530 3 0 It 
+: 1534 4 0 ain’t 
+: 1544 3 4 me 
+: 1548 6 5 you’re 
+: 1555 3 2 loo
+: 1560 7 2 kin’ 
+: 1568 22 0 for 
+E

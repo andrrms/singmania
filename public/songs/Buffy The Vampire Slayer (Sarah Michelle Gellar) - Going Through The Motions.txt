@@ -1,0 +1,255 @@
+#ARTIST:Buffy The Vampire Slayer (Sarah Michelle Gellar)
+#TITLE:Going Through The Motions
+#MP3:Buffy The Vampire Slayer (Sarah Michelle Gellar) - Going Through The Motions.mp3
+#CREATOR:Timtim
+#GENRE:Soundtrack
+#YEAR:2001
+#LANGUAGE:English
+#BPM:213.2
+#GAP:76040
+#VIDEO:v=FmLSjwam26E,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/a0/cd/00a0cddb-c247-573f-972a-dcd6e5b6b6a8/20UMGIM16028.rgb.jpg/5000x5000bb.jpg,bg=buffy-the-vampire-slayer-512ce93c86b5f.jpg,preview=141.83,medley=0-754
+: 0 1 -2 Eve
+: 2 1 -1 ry 
+: 4 1 1 sin
+: 6 3 3 gle 
+: 10 4 1 night 
+- 15
+: 16 1 -1 The 
+: 18 5 -2 same 
+: 24 3 -1 ar
+: 28 3 1 range
+: 32 3 3 ment 
+- 36
+: 36 1 -2 I 
+: 38 1 -1 go 
+: 40 1 1 out 
+: 42 3 3 and 
+* 46 3 1 fight 
+* 50 1 -2 the 
+* 52 8 -4 fight 
+- 62
+: 74 1 -2 Still 
+: 76 1 -1 I 
+: 78 1 1 al
+: 80 1 3 ways 
+: 82 7 1 feel 
+: 90 1 -1 the 
+: 92 3 -2 stran
+: 96 3 -1 gest 
+: 100 3 1 strange
+: 104 5 3 ment 
+- 110
+: 110 1 -3 No
+: 112 1 -1 thing 
+: 114 1 1 here 
+: 116 3 3 is 
+: 120 3 1 real, 
+: 124 1 -4 no
+: 126 1 -2 thing 
+: 128 1 1 here 
+: 130 1 3 is 
+* 132 4 1 right 
+- 138
+: 146 1 6 I’ve 
+: 148 1 5 been 
+: 150 1 3 ma
+: 152 3 5 king 
+: 156 3 6 shows 
+: 160 3 3 of 
+: 164 3 1 tra
+: 168 5 3 ding 
+: 174 3 -2 blows 
+- 178
+: 178 3 1 Just 
+: 182 3 3 ho
+: 186 5 1 ping 
+: 192 3 6 no 
+: 196 3 5 one 
+: 200 6 2 knows 
+- 207
+: 208 1 2 That 
+: 210 3 3 I’ve 
+: 214 3 5 been 
+: 218 3 6 go
+: 222 5 8 ing 
+: 228 3 6 through 
+: 232 1 5 the 
+* 234 5 6 mo
+* 240 12 1 tions 
+- 254
+: 256 3 -3 Wal
+: 260 3 -1 king 
+: 264 3 1 through 
+: 268 3 2 the 
+: 272 8 -4 part 
+- 282
+: 290 3 3 No
+: 294 5 5 thing 
+: 300 3 6 seems 
+: 304 3 8 to 
+: 308 5 10 pe
+: 314 3 6 net
+: 318 3 1 rate 
+: 322 6 -2 my 
+* 332 26 8 heart 
+- 360
+: 364 1 -2 I 
+: 366 1 -1 was 
+: 368 1 1 al
+: 370 1 3 ways 
+: 372 5 1 brave 
+: 378 3 -1 and 
+: 382 3 -2 kind 
+: 386 3 -1 of 
+: 390 3 1 right
+: 394 4 3 eous 
+- 399
+: 400 1 -2 Now 
+: 402 1 -1 I 
+: 404 1 1 find 
+: 406 3 3 I’m 
+: 410 3 1 wa
+: 414 1 -2 ve
+: 416 6 -4 ring 
+- 424
+: 436 1 -2 Crawl 
+: 438 1 -1 out 
+: 440 1 1 of 
+: 442 1 3 your 
+: 444 7 1 grave, 
+: 452 1 -1 you’ll 
+: 454 3 -2 find 
+: 458 3 -1 this 
+: 462 5 1 fight 
+- 468
+: 468 3 3 Just 
+: 472 1 -3 doe
+: 474 1 -1 sn’t 
+: 476 1 1 mean 
+: 478 3 3 a 
+: 482 3 1 thing 
+- 486
+: 486 1 -2 (She 
+: 488 1 -1 ain’t 
+: 490 1 1 got 
+: 492 3 3 that 
+: 496 8 1 swing) 
+- 506
+: 536 1 -2 Thanks 
+: 538 1 -1 for 
+: 540 1 1 no
+: 542 1 3 ti
+: 544 4 1 cing 
+- 550
+: 554 1 6 (She 
+: 556 1 5 does 
+: 558 1 3 pret
+: 560 1 5 ty 
+: 562 3 6 well 
+: 566 3 4 with 
+: 570 5 1 fiends 
+: 576 5 3 from 
+: 582 4 -1 hell 
+- 587
+: 588 1 1 But 
+: 590 3 3 late
+: 594 3 -1 ly 
+* 598 5 7 we 
+: 604 3 3 can 
+: 608 6 -1 tell 
+- 615
+: 616 1 5 That 
+: 618 3 3 she’s 
+: 622 3 5 just 
+: 626 5 6 go
+: 632 3 8 ing 
+: 636 3 6 through 
+: 640 3 5 the 
+: 644 5 6 mo
+: 650 8 1 tions 
+- 660
+: 664 3 -3 Fa
+: 668 3 -1 king 
+: 672 3 1 it 
+: 676 5 2 some
+: 682 10 -4 how) 
+- 694
+: 700 3 3 (She’s 
+: 704 3 5 not 
+: 708 3 6 e
+: 712 3 8 ven 
+: 716 5 10 half 
+: 722 3 6 the 
+: 726 5 1 girl 
+: 732 4 -2 she... 
+* 744 10 8 ow...) 
+- 756
+: 772 3 6 Will 
+: 776 3 5 I 
+: 780 3 3 stay 
+: 784 5 -2 this 
+: 790 5 6 way 
+: 796 1 5 fo
+: 798 3 3 re
+: 802 4 6 ver? 
+- 807
+: 808 3 6 Sleep
+: 812 3 5 walk 
+: 816 3 3 through 
+: 820 5 -2 my 
+: 826 5 6 life’s 
+: 832 1 5 en
+: 834 2 3 dea
+: 838 4 -2 vor 
+- 844
+: 846 5 6 (How 
+: 852 1 5 can 
+: 854 3 3 I 
+: 858 3 -2 re
+: 862 6 6 pay) 
+- 868
+: 869 1 3 What
+: 871 1 2 e
+: 873 2 5 ver! 
+- 879
+: 880 2 6 I 
+: 884 5 5 don’t 
+: 890 3 3 want 
+: 894 1 -2 to 
+* 897 32 8 be 
+- 928
+: 936 2 3 Go
+: 940 3 5 ing 
+: 945 4 6 through 
+: 950 1 8 the 
+: 952 4 6 mo
+: 957 6 1 tions 
+- 966
+: 972 3 -3 Lo
+: 976 1 -1 sing 
+: 978 5 1 all 
+: 984 5 2 my 
+: 990 10 1 drive 
+- 1002
+: 1008 3 3 I 
+: 1012 3 5 can’t 
+: 1017 3 6 e
+: 1021 2 8 ven 
+: 1025 8 10 see, 
+: 1039 3 1 if 
+: 1043 3 3 this 
+: 1047 4 5 is 
+: 1052 3 6 real
+: 1056 5 8 ly 
+: 1062 8 10 me 
+- 1072
+: 1078 3 1 And 
+* 1082 3 11 I 
+: 1086 3 10 just 
+: 1091 4 8 wan
+: 1096 1 6 na 
+: 1098 22 8 be 
+- 1122
+: 1128 7 6 A
+* 1136 76 6 live! 
+E

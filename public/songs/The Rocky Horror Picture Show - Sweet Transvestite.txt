@@ -1,0 +1,468 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Sweet Transvestite
+#MP3:The Rocky Horror Picture Show - Sweet Transvestite.mp3
+#CREATOR:REL, DoubleDee
+#GENRE:Soundtrack
+#YEAR:1975
+#LANGUAGE:English
+#BPM:291.2
+#GAP:3110
+#VIDEO:a=Dpx9vdctz74,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg
+R 0 3 11 How 
+R 5 2 7 d’you 
+R 9 3 9 do, 
+R 14 4 4 I 
+- 28
+R 45 2 16 See 
+R 48 2 14 you’ve 
+R 52 4 16 met 
+R 61 6 7 my 
+- 77
+R 88 4 9 Faith
+R 94 6 4 ful 
+: 108 6 11 han
+: 115 3 4 ~
+: 119 2 4 dy
+: 122 8 4 man 
+- 140
+R 152 4 11 He’s 
+R 157 2 9 just 
+R 162 4 7 a 
+R 173 2 9 lit
+R 176 2 2 tle 
+R 181 4 4 brought 
+R 188 4 4 down 
+- 198
+R 200 2 7 Be
+R 203 7 7 cause 
+R 221 4 14 when 
+R 226 4 9 you 
+R 233 9 7 knocked 
+- 252
+R 262 3 9 He 
+R 267 3 6 thought 
+R 273 1 7 you 
+R 275 1 7 were 
+R 277 1 5 the 
+R 286 4 14 can
+R 292 2 2 dy
+R 295 4 0 man. 
+- 318
+* 350 3 16 Don’t 
+* 355 2 16 get 
+* 360 6 16 strung 
+* 368 5 16 out 
+- 383
+: 393 3 11 By 
+: 397 1 9 the 
+: 399 2 11 way 
+: 402 2 11 that 
+: 405 3 11 I 
+: 411 7 14 look, 
+- 428
+: 436 4 9 Don’t 
+: 442 4 9 judge 
+: 448 2 7 a 
+: 451 4 9 book 
+: 459 6 9 by 
+: 466 2 9 its 
+: 470 7 11 co
+: 481 2 6 ver
+: 484 4 7 ~
+: 489 2 6 ~
+: 492 4 4 ~ 
+- 505
+: 508 3 16 I’m 
+: 513 2 11 not
+: 516 2 9 ~ 
+: 525 2 11 much 
+: 529 2 9 of 
+: 532 2 7 a 
+: 535 2 9 man
+: 538 8 7 ~ 
+: 555 3 11 by 
+: 559 3 7 the 
+: 566 5 11 light 
+: 572 3 11 of 
+: 578 2 14 day
+: 581 5 11 ~, 
+- 592
+: 594 3 7 But 
+: 599 4 7 by 
+: 605 3 9 night 
+: 610 3 9 I’m 
+: 614 3 9 one 
+* 620 3 7 hell
+* 624 5 9 ~ 
+: 631 4 9 of 
+: 637 4 9 a 
+: 643 8 11 lo
+: 654 4 6 ver
+: 659 4 2 ~
+: 664 3 -1 ~ 
+- 672
+: 674 2 9 I’m 
+: 680 2 9 just 
+: 685 2 7 a 
+: 691 6 11 Sweet 
+: 701 7 11 Trans
+: 712 3 14 ves
+: 718 13 11 tite 
+- 750
+: 771 6 16 From 
+: 784 6 13 Tra
+: 791 2 9 ~
+: 794 2 6 ~
+: 797 2 4 ~n
+: 804 3 13 se
+: 809 2 9 xu
+: 812 6 4 al, 
+- 827
+: 831 3 13 Tran
+: 837 7 11 syl
+: 847 6 13 va
+: 854 4 2 ni
+: 859 2 2 a
+: 862 32 4 ~, 
+: 897 4 2 ha
+: 902 10 4 ha 
+- 922
+: 938 3 11 Let 
+: 942 2 8 me
+: 945 3 6 ~ 
+R 960 2 8 show 
+R 964 1 6 you 
+R 966 2 4 a
+R 969 6 6 round, 
+- 980
+: 982 2 11 May
+: 985 2 8 be
+: 988 3 6 ~ 
+R 1004 3 9 play 
+R 1008 1 6 you 
+R 1010 1 4 a 
+R 1013 6 9 sound 
+- 1029
+R 1041 1 12 You 
+R 1043 2 12 look 
+R 1047 3 9 like 
+R 1053 2 8 you’re 
+R 1056 4 9 both 
+: 1070 2 9 pret
+: 1073 2 7 ty 
+: 1076 6 11 groo
+: 1084 4 4 vy 
+- 1098
+: 1109 3 16 Or 
+: 1113 2 14 if 
+: 1117 5 11 you 
+R 1130 4 13 want 
+R 1135 3 13 some
+R 1139 3 13 thing 
+R 1144 2 13 vi
+R 1147 2 11 su
+R 1150 4 4 al 
+- 1164
+: 1171 2 7 That’s 
+: 1175 3 7 not 
+R 1183 2 11 too 
+R 1187 2 7 a
+R 1191 2 7 bys
+R 1195 4 5 mal 
+- 1209
+R 1216 2 16 We 
+R 1219 2 14 could 
+R 1223 3 11 take 
+R 1227 1 11 in 
+R 1229 2 9 an 
+R 1232 5 9 old 
+R 1248 5 9 Steve 
+R 1256 7 9 Reeves 
+R 1266 2 9 mo
+R 1270 4 7 vie. 
+- 1284
+F 1293 3 6 I’m 
+F 1298 5 6 glad 
+F 1305 4 6 we 
+F 1313 4 6 caught 
+F 1318 2 6 you 
+F 1321 1 6 at 
+F 1323 6 6 home, 
+- 1339
+F 1358 2 6 Could 
+F 1361 2 6 we 
+F 1364 2 6 use 
+F 1367 2 6 your 
+F 1371 6 6 phone? 
+- 1387
+F 1405 2 6 We’re 
+F 1408 3 6 both 
+F 1412 1 6 in 
+F 1414 1 6 a 
+F 1416 1 6 bit 
+F 1418 1 6 of 
+F 1420 1 6 a 
+F 1422 1 6 hur
+F 1424 2 6 ry. 
+- 1436
+F 1456 3 6 We’ll 
+F 1461 3 6 just 
+F 1472 6 6 say 
+F 1479 3 6 where 
+F 1483 2 6 we 
+F 1486 4 6 are, 
+- 1494
+F 1496 3 6 Then 
+F 1501 4 6 go 
+F 1506 5 6 back 
+F 1513 2 6 to 
+F 1516 2 6 the 
+F 1519 6 6 car 
+- 1544
+F 1566 2 6 We 
+F 1569 3 6 don’t 
+F 1573 2 6 want 
+F 1577 1 6 to 
+F 1579 2 6 be 
+F 1584 1 6 a
+F 1586 1 6 ny 
+F 1589 2 6 wor
+F 1592 2 6 ry. 
+- 1604
+: 1631 3 16 Well, 
+: 1636 4 16 you 
+: 1642 6 16 got 
+* 1652 5 16 caught 
+* 1659 1 11 with 
+* 1661 1 9 a 
+* 1666 4 16 flat, 
+- 1672
+: 1674 3 11 Well
+: 1678 2 7 ~
+: 1681 2 4 ~, 
+- 1693
+: 1702 2 13 How 
+: 1707 3 11 bout 
+: 1713 6 7 that? 
+- 1729
+: 1739 3 11 Well 
+: 1745 2 11 ba
+: 1749 2 9 bie
+: 1752 3 4 ~s, 
+R 1768 3 11 don’t 
+R 1773 5 4 you 
+R 1783 3 11 pa
+R 1787 2 4 nic. 
+- 1799
+: 1810 3 16 By 
+: 1816 4 16 the 
+: 1822 9 16 light 
+: 1833 2 16 of 
+: 1836 2 14 the 
+: 1841 3 16 nigh
+: 1845 4 13 ~t 
+- 1856
+: 1859 1 14 It
+: 1861 2 13 ’ll 
+: 1864 4 11 all 
+: 1876 3 11 seems 
+: 1880 5 7 al
+: 1886 5 9 right 
+- 1900
+: 1903 3 7 I’ll 
+: 1908 2 9 get 
+: 1913 3 9 you 
+: 1919 2 9 a 
+: 1924 2 7 sa
+: 1929 4 9 ta
+: 1935 4 7 nic 
+: 1946 3 9 me
+: 1952 4 11 cha
+: 1958 6 4 nic 
+- 1976
+: 1980 3 9 I’m 
+: 1984 3 9 just 
+: 1989 2 7 a 
+: 1995 6 11 Sweet 
+: 2007 7 11 Trans
+: 2017 3 14 ves
+: 2022 10 11 tite 
+- 2051
+: 2075 4 16 From
+: 2080 4 11 ~ 
+: 2088 4 14 Tra
+: 2093 2 11 ~
+: 2096 4 9 ~n
+: 2107 4 13 sex
+: 2113 2 9 u
+: 2116 5 7 al, 
+- 2133
+* 2137 3 13 Tran
+* 2143 3 11 syl
+* 2153 3 13 va
+* 2157 4 4 ~
+* 2162 3 4 ni
+* 2166 3 2 ~
+* 2170 28 4 a 
+: 2202 5 2 ha
+: 2209 5 4 ha 
+- 2224
+: 2245 3 13 Why 
+: 2249 2 8 don’t 
+: 2253 4 6 you 
+- 2266
+: 2270 5 8 Stay 
+: 2278 1 2 for 
+: 2280 1 3 the 
+: 2282 1 5 nigh
+: 2284 6 3 ~t? 
+- 2300
+R 2310 3 6 Or 
+R 2314 3 6 may
+R 2318 5 6 be 
+R 2330 2 6 a 
+R 2334 5 6 bite? 
+- 2349
+R 2357 3 6 I 
+R 2362 2 6 could 
+R 2365 2 6 show 
+R 2369 2 6 you 
+R 2373 3 6 my 
+R 2383 4 6 fa
+R 2388 4 6 vourite 
+- 2401
+: 2404 2 -1 Ob
+: 2409 3 1 ses
+: 2414 2 2 sion. 
+- 2428
+R 2432 3 6 I’ve 
+R 2437 6 6 been 
+R 2448 2 6 ma
+R 2452 2 6 king 
+R 2455 1 6 a 
+R 2459 6 6 man 
+- 2475
+R 2494 3 6 With 
+R 2499 4 6 blond 
+R 2508 4 6 hair 
+R 2516 2 6 and 
+R 2519 2 6 a 
+R 2523 5 6 tan 
+- 2536
+R 2539 1 6 And 
+R 2541 3 6 he’s 
+R 2548 3 6 good 
+R 2552 2 6 for 
+R 2555 2 6 re
+R 2558 1 6 lie
+R 2560 2 6 ving 
+R 2563 5 6 my 
+R 2591 3 8 ten
+R 2596 4 4 sion 
+- 2606
+: 2608 2 4 I’m 
+: 2612 3 13 just 
+: 2618 2 11 a 
+: 2624 6 11 Sweet 
+: 2636 3 13 Tran
+: 2640 3 11 ~s
+: 2647 3 13 ves
+: 2653 11 11 tite 
+- 2683
+: 2706 7 13 From 
+: 2719 8 13 Tra
+: 2728 8 4 ~n
+: 2741 3 11 se
+: 2747 4 2 xu
+: 2752 10 3 al, 
+- 2766
+: 2768 4 13 Tran
+: 2775 4 11 syl
+: 2785 4 13 va
+: 2790 4 4 ni
+: 2795 4 3 ~
+: 2800 33 4 a 
+* 2834 5 2 ha
+* 2840 5 4 ha 
+- 2851
+F 2854 3 6 Hit 
+F 2858 2 6 it 
+F 2866 3 6 here 
+- 2869
+: 2871 2 11 I’m 
+: 2875 2 11 just 
+: 2880 2 11 a 
+: 2886 5 11 Sweet 
+: 2898 6 15 Trans
+: 2909 2 15 ves
+: 2914 11 11 tite 
+- 2944
+: 2969 7 15 From 
+: 2980 10 13 Tran
+: 2991 4 11 ~
+: 3000 3 13 se
+: 3006 2 11 xu
+: 3009 2 11 al
+: 3012 4 4 ~, 
+- 3025
+: 3029 4 13 Tran
+: 3036 4 11 syl
+: 3046 4 13 va
+: 3051 4 4 ni
+: 3056 4 3 ~
+: 3061 33 4 a 
+: 3095 5 2 ha
+: 3101 5 4 ha 
+- 3144
+R 3191 2 6 Come 
+R 3195 2 6 up 
+R 3200 1 6 to 
+R 3202 1 6 the 
+R 3205 5 6 lab. 
+- 3220
+R 3230 3 6 And 
+R 3242 6 6 see 
+R 3251 4 6 what’s 
+R 3256 3 6 on 
+R 3262 2 6 the 
+R 3270 9 6 slab. 
+- 3289
+F 3304 2 6 I 
+F 3308 1 6 see 
+F 3310 1 6 you 
+F 3317 2 6 shi
+F 3321 2 6 ver 
+F 3334 3 6 with 
+F 3339 3 6 an
+F 3349 2 6 ti
+F 3352 2 6 ci... 
+- 3373
+F 3401 4 6 Pa
+F 3407 6 6 tion! 
+- 3423
+: 3445 4 4 But 
+* 3454 5 16 may
+* 3461 10 16 be 
+: 3475 2 9 the 
+: 3478 6 16 rain 
+- 3496
+F 3500 3 6 Is
+F 3504 3 6 n’t 
+F 3514 3 6 real
+F 3518 3 6 ly 
+F 3523 2 6 to 
+F 3526 4 6 blame 
+- 3540
+F 3557 2 6 So 
+F 3561 5 6 I’ll 
+F 3569 2 6 re
+F 3572 4 6 move 
+F 3584 3 6 the 
+F 3589 12 6 cause, 
+- 3639
+R 3692 2 6 But 
+R 3696 3 6 not 
+R 3706 2 6 the 
+R 3711 3 16 symp
+R 3716 3 16 tom. 
+E

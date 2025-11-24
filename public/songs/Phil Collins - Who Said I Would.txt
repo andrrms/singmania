@@ -1,0 +1,397 @@
+#ARTIST:Phil Collins
+#TITLE:Who Said I Would?
+#MP3:Phil Collins - Who Said I Would?.mp3
+#CREATOR:yentel
+#COVER:Phil Collins - Who Said I Would? [CO].jpg
+#BACKGROUND:Phil Collins - Who Said I Would? [BG].jpg
+#YEAR:1985
+#LANGUAGE:English
+#BPM:274
+#GAP:22400
+#VIDEO:v=4dZgeeTV9so,co=https://i.discogs.com/ykCtiisNJVy6KQZd2QKt5Q65yYk2Tk1u3M9BbtzCWcM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQ2/NDgtMTU5NDkzOTI2/MS04OTc2LmpwZWc.jpeg
+: 0 3 0 I 
+: 5 3 7 know 
+: 10 3 7 she 
+: 15 2 5 says 
+: 19 2 4 she 
+: 23 3 5 wants 
+: 28 4 5 me
+: 33 3 0 ~ 
+- 46
+: 53 2 7 I 
+: 56 2 7 hear 
+: 60 2 10 it 
+: 64 3 7 eve
+: 68 2 5 ry 
+: 72 3 5 day
+: 76 3 7 ~ 
+- 97
+: 132 2 0 And 
+: 136 2 2 I 
+: 140 2 7 know 
+: 144 2 7 she 
+: 148 2 5 knows 
+: 152 2 5 it 
+: 156 4 5 keeps 
+: 162 5 5 me
+: 168 3 0 ~ 
+- 180
+: 184 2 0 Well 
+: 187 2 0 there 
+: 190 2 10 ain’t 
+: 194 3 7 no 
+: 199 2 7 o
+: 202 2 4 ther 
+: 205 4 5 way
+: 210 3 0 ~ 
+- 231
+: 256 2 0 But 
+: 260 3 0 she’s 
+: 264 3 0 got 
+: 269 3 0 a 
+: 274 5 7 heart 
+: 281 2 5 must 
+: 285 3 3 be 
+: 290 7 5 made 
+: 299 4 5 of 
+: 305 4 3 sto
+: 310 5 -2 ~ne 
+- 322
+: 325 2 3 ’Cause 
+: 329 3 3 when 
+: 334 4 3 I 
+: 340 3 7 tell 
+: 345 2 10 her 
+: 349 2 5 that 
+: 352 3 5 she’ll 
+: 357 2 3 miss 
+: 361 2 5 me 
+: 365 2 5 when 
+: 368 2 5 I’m 
+: 372 2 5 go
+: 375 2 5 ~
+: 378 10 3 ~ne 
+- 392
+: 394 3 3 She 
+: 399 5 7 says 
+- 422
+: 452 2 0 “Who 
+: 456 3 7 said 
+: 461 2 10 I 
+: 465 7 7 would?” 
+- 490
+: 537 2 10 She 
+: 541 6 7 knows 
+: 549 2 5 it 
+: 552 4 7 ain’t 
+: 558 4 5 ea
+: 564 4 5 sy
+: 569 7 0 ~ 
+- 583
+: 586 2 0 For 
+: 589 2 2 a 
+: 592 2 7 sim
+: 595 2 10 ple 
+: 600 2 7 boy 
+: 604 2 5 like 
+: 608 2 3 me
+: 611 4 7 ~ 
+- 633
+: 672 2 5 She 
+: 675 2 7 fills 
+: 679 2 7 me 
+: 683 2 5 full 
+: 687 2 4 of 
+: 691 6 5 lo
+: 698 5 4 ving 
+- 713
+: 720 2 7 Oh, 
+: 724 3 9 then 
+: 729 2 7 she 
+: 733 2 5 sets 
+: 736 2 4 me 
+: 740 4 5 free
+: 745 3 0 ~ 
+- 766
+: 792 2 0 But 
+: 796 2 0 she’s 
+: 800 2 0 got 
+: 804 2 0 a 
+: 808 6 7 heart 
+: 816 2 5 must 
+: 820 2 3 be 
+: 824 9 5 made 
+: 835 3 5 of 
+: 840 5 3 sto
+: 846 4 -2 ~ne 
+- 860
+: 872 2 3 ’Cause 
+: 876 2 7 when 
+: 880 2 10 I 
+: 884 3 7 tell 
+: 889 2 5 her 
+: 893 2 3 that 
+: 896 3 5 she’ll 
+: 901 2 5 miss 
+: 905 2 5 me 
+: 909 2 5 when 
+: 912 2 3 I’m 
+: 916 13 3 gone 
+- 929
+: 930 3 3 She 
+: 935 5 7 says 
+- 958
+: 988 3 0 “Who 
+: 992 3 7 said 
+: 997 2 10 I 
+: 1001 16 7 would, 
+- 1027
+: 1040 6 0 Tell 
+: 1048 4 -3 me, 
+: 1054 3 0 who 
+: 1059 2 7 said 
+: 1062 2 5 I 
+: 1066 4 5 wou
+: 1071 4 0 ~ld? 
+- 1093
+: 1121 2 0 Who 
+: 1125 2 7 said 
+: 1129 2 10 I 
+: 1134 11 7 would 
+- 1155
+: 1179 3 0 Who 
+: 1185 2 5 said 
+: 1189 2 4 I 
+: 1192 3 5 wou
+: 1196 4 0 ~ld? 
+- 1210
+: 1228 2 5 I’m 
+: 1231 3 5 not 
+: 1239 3 5 the 
+: 1244 2 5 on
+: 1248 2 3 ly 
+: 1252 3 3 one 
+: 1257 2 0 but 
+: 1261 6 5 I 
+: 1269 5 5 do 
+: 1276 7 5 fine 
+- 1294
+: 1298 2 7 I 
+: 1302 2 5 suit 
+: 1306 2 7 her 
+: 1310 2 7 pur
+: 1314 3 3 pose 
+: 1319 3 3 and 
+: 1324 2 5 I’m 
+: 1327 4 5 just 
+: 1335 7 7 her 
+: 1344 10 7 kind 
+- 1362
+: 1365 2 7 I 
+: 1369 2 7 do
+: 1372 3 5 ~n’t 
+: 1377 3 7 own 
+: 1382 2 5 her 
+: 1386 3 5 and 
+: 1391 2 5 I 
+: 1394 7 7 nev
+: 1403 3 7 er 
+: 1410 3 7 cou
+: 1414 2 4 ~ld 
+- 1428
+: 1432 2 7 Don’t 
+: 1436 3 7 think 
+: 1441 2 7 I 
+: 1445 2 7 do
+: 1449 2 5 ~, 
+: 1457 2 12 don’t 
+: 1461 2 5 think 
+: 1465 2 5 I 
+* 1469 7 5 should 
+- 1486
+: 1511 2 7 ”Tell 
+: 1515 4 2 me 
+- 1522
+: 1524 2 0 Who 
+: 1528 2 7 said 
+: 1532 2 10 I 
+: 1537 8 7 would 
+- 1563
+: 1582 2 0 Who 
+: 1586 2 7 said 
+: 1589 2 7 I 
+: 1592 3 5 wou
+: 1596 3 0 ~ld? 
+- 1635
+: 1862 2 0 But 
+: 1866 2 0 she’s 
+: 1870 3 0 got 
+: 1875 2 0 a 
+: 1879 5 7 heart 
+: 1887 3 5 must 
+: 1892 2 3 be 
+: 1896 7 5 made 
+: 1906 3 5 of 
+: 1911 4 3 sto
+: 1916 4 -2 ~ne 
+- 1932
+: 1936 2 3 And 
+: 1939 2 3 when 
+: 1943 2 3 I 
+: 1947 3 7 tell 
+: 1953 2 10 her 
+: 1957 2 5 that 
+: 1960 3 5 she’ll 
+: 1965 2 3 miss 
+: 1969 2 5 me 
+: 1973 2 5 when 
+: 1976 2 5 I’m 
+: 1980 3 5 go
+: 1984 10 3 ~ne 
+- 1998
+: 2000 3 3 She 
+: 2005 7 10 says 
+- 2022
+: 2030 3 5 You’re 
+: 2034 3 5 not 
+: 2042 3 5 the 
+: 2047 2 5 on
+: 2051 2 3 ly 
+: 2055 3 3 one 
+: 2060 2 0 you 
+: 2064 6 5 I 
+: 2072 5 5 do 
+: 2079 7 5 fine 
+- 2094
+: 2097 3 5 You 
+: 2101 3 5 suit 
+: 2111 2 5 my 
+: 2114 3 5 pur
+: 2118 2 3 pose 
+: 2122 2 3 and 
+: 2126 2 3 you’re 
+: 2130 4 5 just 
+: 2137 7 7 my 
+: 2146 7 7 kind 
+- 2164
+: 2168 3 7 You 
+: 2173 4 7 don’t 
+: 2180 3 7 own 
+: 2185 3 5 me 
+: 2190 2 5 and 
+: 2194 2 2 you 
+: 2197 6 7 ne
+: 2205 5 7 ver 
+: 2213 9 7 could 
+- 2232
+: 2240 2 7 Don’t 
+: 2244 2 7 think 
+: 2248 2 7 you 
+: 2252 4 5 do, 
+: 2260 2 5 don’t 
+: 2264 2 5 think 
+: 2268 2 2 you 
+* 2272 7 7 should“ 
+- 2315
+: 2461 2 -2 Who 
+: 2464 3 7 said 
+: 2469 2 10 I 
+: 2473 7 7 would 
+- 2498
+: 2536 5 0 Now 
+: 2544 2 0 she 
+: 2548 5 7 knows 
+: 2556 4 5 when 
+: 2562 2 4 she 
+: 2566 4 5 calls 
+: 2572 4 5 me
+: 2577 5 0 ~ 
+- 2588
+: 2590 3 0 I’ll 
+: 2595 2 0 come 
+: 2598 3 7 run
+: 2602 3 10 ning 
+: 2608 2 7 eve
+: 2611 2 5 ry 
+: 2614 4 5 ti
+: 2619 6 7 ~me 
+- 2643
+: 2674 2 0 And 
+: 2678 2 0 she 
+* 2682 4 7 knows 
+: 2688 2 4 she 
+: 2691 2 5 gets 
+: 2695 2 5 me 
+: 2699 4 7 hot 
+- 2707
+: 2709 2 0 But 
+: 2712 2 0 she 
+: 2715 2 10 don’t 
+: 2718 4 10 know 
+: 2724 2 4 it’s 
+: 2728 2 0 her 
+: 2732 3 10 bo
+: 2737 3 7 dy, 
+: 2741 2 5 not 
+: 2745 2 4 her 
+: 2748 2 5 mi
+: 2752 6 0 ~nd 
+- 2776
+: 2799 2 0 And 
+: 2802 3 0 she’s 
+: 2807 3 0 got 
+: 2812 2 0 a 
+: 2815 8 7 heart 
+: 2825 2 5 must 
+: 2829 2 3 be 
+: 2833 7 5 made 
+: 2843 2 5 of 
+: 2847 5 3 sto
+: 2853 6 -2 ~ne 
+- 2870
+: 2874 3 3 ’Cause 
+: 2883 3 7 when 
+: 2888 2 10 I 
+: 2892 2 7 tell 
+: 2896 2 5 her 
+: 2900 2 5 that 
+: 2904 2 5 she’ll 
+: 2908 2 5 miss 
+: 2912 2 5 me 
+: 2916 3 5 kno
+: 2920 9 3 ~w 
+- 2934
+: 2936 3 7 She 
+: 2941 13 7 says 
+- 2972
+: 2996 2 0 ”Who 
+: 3000 2 7 said 
+: 3004 4 10 I 
+: 3010 5 7 would, 
+- 3025
+: 3051 3 8 Tell 
+: 3056 3 0 me, 
+- 3061
+: 3063 2 0 Who 
+: 3067 2 5 said 
+: 3071 2 5 I 
+: 3075 2 5 wou
+: 3078 2 0 ~ld 
+- 3098
+: 3129 2 0 “Who 
+: 3133 2 7 said 
+: 3137 4 10 I 
+: 3143 5 7 would, 
+- 3166
+: 3186 2 5 ”Who 
+: 3190 2 7 said 
+: 3194 4 7 I 
+: 3200 3 5 wou
+: 3204 2 3 ~ld“ 
+- 3242
+: 3431 2 5 Who 
+: 3435 2 7 said 
+: 3439 2 5 I 
+: 3443 2 5 wou
+: 3446 2 2 ~ld 
+E

@@ -1,0 +1,306 @@
+#ARTIST:Manic Street Preachers
+#TITLE:If You Tolerate This Your Children Will Be Next (Album Version)
+#MP3:Manic Street Preachers - If You Tolerate This Your Children Will Be Next (Album Version).mp3
+#CREATOR:hamadad
+#GENRE:Rock
+#YEAR:1998
+#LANGUAGE:English
+#BPM:290
+#GAP:20380
+#VIDEO:a=W_IFHYzk0rY,co=if-you-tolerate-this-your-children-will-be-next-5e31c1800d600.jpg,bg=manic-street-preachers-5383938a74a87.jpg
+: 0 3 -3 The 
+: 5 5 9 fu
+: 12 2 7 ture 
+: 16 6 4 tea
+: 24 7 2 ches 
+: 32 3 0 you 
+: 36 4 2 to 
+: 42 6 4 be 
+: 50 4 7 a
+: 56 15 4 lone 
+- 73
+: 86 3 -3 The 
+: 91 4 5 pre
+: 97 4 5 sent 
+: 103 4 4 to 
+: 110 4 2 be 
+: 115 3 2 a
+: 120 5 0 fraid 
+: 127 3 0 and 
+: 132 16 4 cold 
+- 150
+: 180 5 -3 ’So 
+: 188 5 5 if 
+: 194 4 5 I 
+: 200 4 4 can 
+: 206 4 2 shoot 
+: 211 4 0 rab
+: 217 6 -3 bits 
+- 225
+: 230 7 4 Then 
+: 242 5 4 I 
+: 249 3 4 can 
+: 254 4 0 shoot 
+: 260 6 5 fa
+: 268 6 4 ~a
+: 278 17 2 scists’ 
+- 297
+: 404 5 9 Bul
+: 411 5 7 lets 
+: 417 4 4 for 
+: 423 4 2 your 
+: 429 5 4 brain 
+: 436 5 7 to
+: 442 7 4 day 
+- 451
+: 472 5 -3 But 
+: 478 4 5 we’ll 
+: 483 5 5 for
+: 490 4 4 get 
+: 496 4 2 it 
+: 502 6 2 all 
+: 511 4 7 a
+: 522 10 4 gain 
+- 534
+: 563 2 4 Mo
+: 566 2 4 nu
+: 570 3 4 ments 
+: 575 4 5 put 
+: 580 5 5 from 
+: 586 5 4 pen 
+: 593 4 2 to 
+: 598 5 2 pa
+: 604 6 0 per 
+- 612
+: 617 13 4 Turns 
+: 631 5 4 me 
+: 637 3 4 in
+: 642 2 0 to 
+: 645 2 0 a 
+: 649 5 5 gut
+: 656 8 4 less 
+: 666 10 2 won
+: 678 3 2 der
+: 682 3 0 ~
+: 686 3 -1 ~ 
+- 691
+: 720 33 7 And 
+: 756 6 4 if 
+: 764 2 4 you 
+: 768 2 5 to
+: 774 6 4 le
+: 784 6 4 rate 
+: 791 6 2 this 
+- 799
+: 810 10 4 Then 
+: 821 5 4 your 
+: 829 5 4 chil
+: 835 5 0 dren 
+: 841 4 5 will 
+: 848 6 4 be 
+: 858 12 2 next 
+- 872
+: 934 14 7 And 
+: 949 6 4 if 
+: 956 2 4 you 
+: 960 4 5 to
+: 966 4 4 le
+: 972 6 4 rate 
+: 985 13 2 this 
+- 1000
+: 1006 6 4 Then 
+: 1015 3 4 your 
+: 1021 4 4 chil
+: 1027 5 0 dren 
+: 1034 6 5 will 
+: 1041 6 4 be 
+: 1053 12 2 next, 
+- 1066
+: 1066 4 2 Will 
+: 1072 3 4 be 
+: 1076 8 5 next 
+- 1086
+: 1087 4 5 Will 
+: 1093 3 7 be 
+: 1100 8 9 next 
+- 1110
+: 1112 4 11 Will 
+: 1118 5 11 be 
+: 1127 8 9 ne
+: 1137 8 7 xt 
+- 1147
+: 1368 2 -3 The 
+: 1371 3 9 Gra
+: 1375 3 7 vi
+: 1379 4 4 ty 
+: 1386 8 2 keeps 
+: 1396 5 4 my 
+: 1402 4 7 head 
+: 1408 15 4 down 
+- 1425
+: 1448 8 5 Or 
+: 1457 4 4 is 
+: 1462 4 2 it 
+: 1468 5 2 may
+: 1476 5 7 be 
+: 1487 10 4 shame 
+- 1499
+: 1535 2 -3 At 
+: 1542 6 5 be
+: 1553 5 4 ing 
+: 1564 5 2 so 
+: 1572 8 0 young 
+- 1582
+: 1588 3 4 And
+: 1592 2 0 ~ 
+: 1613 3 5 be
+: 1617 2 5 ing 
+: 1620 3 4 so 
+: 1629 12 2 va
+: 1643 2 0 ~a
+: 1647 6 -1 ~ain 
+- 1655
+: 1754 10 9 Holes 
+: 1765 4 7 in 
+: 1770 2 4 your
+: 1773 2 2 ~
+: 1776 2 0 ~ 
+: 1783 4 4 head 
+: 1788 2 7 to
+: 1794 6 4 day 
+- 1802
+: 1826 4 5 But 
+: 1831 11 5 I’m 
+: 1843 9 4 a 
+: 1854 4 2 pa
+: 1860 8 7 ci
+: 1872 12 4 fist 
+- 1886
+: 1922 4 -3 I’ve 
+: 1927 11 5 walked 
+: 1940 8 4 La 
+: 1950 8 2 Ram
+: 1959 9 0 blas 
+- 1969
+: 1970 7 4 But 
+: 1982 8 4 not 
+: 1995 4 0 with 
+: 2000 4 5 real 
+: 2008 8 4 in
+: 2018 14 2 tent 
+- 2034
+: 2078 27 7 And 
+: 2108 6 4 if 
+: 2115 4 4 you 
+: 2120 4 5 to
+: 2125 5 4 le
+: 2131 8 4 rate 
+: 2142 8 2 this 
+- 2152
+: 2163 10 4 Then 
+: 2174 6 4 your 
+: 2181 5 4 chil
+: 2187 5 0 dren 
+: 2193 6 5 will 
+: 2201 6 4 be 
+: 2211 12 2 next 
+- 2225
+: 2288 12 7 And 
+: 2301 6 4 if 
+: 2308 4 4 you 
+: 2313 4 5 to
+: 2320 5 4 le
+: 2327 6 4 rate 
+: 2338 6 2 this 
+- 2346
+: 2356 10 4 Then 
+: 2368 4 4 your 
+: 2373 5 4 chil
+: 2379 4 0 dren 
+: 2387 6 5 will 
+: 2395 6 4 be 
+: 2405 10 2 next, 
+- 2416
+: 2417 5 2 Will 
+: 2423 5 4 be 
+: 2429 8 5 next 
+- 2439
+: 2442 5 5 Will 
+: 2448 5 7 be 
+: 2454 5 9 next 
+- 2461
+: 2465 5 11 Will 
+: 2472 5 11 be 
+: 2480 7 9 ne
+: 2489 9 7 xt 
+- 2500
+: 2880 12 7 ’And 
+: 2894 6 5 on 
+: 2905 5 4 the 
+: 2914 9 2 streets 
+: 2931 6 0 to
+: 2938 8 4 night 
+- 2948
+: 2960 4 0 An 
+: 2966 5 5 old 
+: 2972 6 4 man 
+: 2984 12 2 plays 
+- 2998
+: 3074 11 7 With 
+: 3086 12 5 news
+: 3100 8 4 pa
+: 3110 8 2 pe
+: 3119 6 0 r 
+: 3128 11 4 cut
+: 3140 6 4 tings 
+- 3147
+: 3147 6 4 Of 
+: 3154 3 0 his 
+: 3158 7 5 glo
+: 3166 10 4 ry 
+: 3178 18 2 days’ 
+- 3198
+: 3236 25 7 And 
+: 3268 4 4 if 
+: 3274 4 4 you 
+: 3279 7 5 to
+: 3287 4 4 le
+: 3292 6 4 rate 
+: 3304 18 2 this 
+- 3324
+: 3326 6 4 Then 
+: 3333 5 4 your 
+: 3340 6 4 chil
+: 3347 3 0 dren 
+: 3352 7 5 will 
+: 3360 6 4 be 
+: 3370 12 2 next 
+- 3384
+: 3446 13 7 And 
+: 3461 6 4 if 
+: 3469 2 4 you 
+: 3473 5 5 to
+: 3479 3 4 le
+: 3484 6 4 rate 
+: 3494 10 2 this 
+- 3506
+: 3518 6 4 Then 
+: 3527 5 4 your 
+: 3534 5 4 chil
+: 3540 3 0 dren 
+: 3545 6 5 will 
+: 3552 6 4 be 
+: 3564 8 2 next, 
+- 3574
+: 3576 4 2 Will 
+: 3582 4 4 be 
+: 3588 6 5 next 
+- 3596
+: 3600 4 5 Will 
+: 3606 4 7 be 
+: 3612 6 9 next 
+- 3620
+: 3624 3 11 Will 
+: 3630 3 11 be 
+: 3636 3 9 next 
+E

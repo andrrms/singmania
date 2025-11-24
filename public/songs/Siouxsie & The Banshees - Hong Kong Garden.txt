@@ -1,0 +1,216 @@
+#ARTIST:Siouxsie & The Banshees
+#TITLE:Hong Kong Garden
+#MP3:Siouxsie & The Banshees - Hong Kong Garden.mp3
+#CREATOR:choosie
+#YEAR:1978
+#LANGUAGE:English
+#BPM:379.7
+#GAP:26100
+#VIDEO:v=Y-l9GQJRl9Y,co=hong-kong-garden-5a4be03c5cceb.jpg,bg=siouxsie-and-the-banshees-507cf63d05340.jpg
+: 0 5 4 Harm
+: 11 9 7 ful 
+: 21 3 7 e
+: 26 3 7 le
+: 31 5 7 ments 
+: 42 4 9 in 
+: 47 10 7 the 
+: 59 11 4 air 
+- 72
+: 84 6 2 Sym
+: 93 6 5 bols 
+: 104 5 5 cra
+: 114 6 5 shing 
+: 125 5 7 eve
+: 132 7 5 ry
+: 141 7 4 where
+: 151 7 2 ~ 
+- 160
+: 165 5 5 Reap 
+: 175 6 7 the 
+: 186 8 7 fields 
+: 197 6 7 of 
+: 206 4 9 rice 
+: 213 7 7 and 
+: 223 12 4 reed 
+- 237
+: 248 10 2 While 
+: 259 6 5 the 
+: 269 5 5 pop
+: 279 9 5 u
+: 290 3 7 la
+: 296 6 5 tion 
+: 305 3 4 feeds
+: 315 6 2 ~ 
+- 323
+: 331 4 4 Junk 
+: 340 4 7 floats 
+: 351 5 7 on 
+: 361 10 7 pol
+: 373 3 9 lu
+: 378 6 7 ted 
+: 388 7 4 wa
+: 398 5 4 ter 
+- 405
+: 408 4 2 An 
+: 413 6 2 old 
+: 423 4 5 cus
+: 433 8 5 tom 
+: 444 4 5 to 
+: 454 4 7 sell 
+: 460 7 5 your 
+: 470 7 4 daugh
+: 480 5 2 ter 
+- 487
+: 495 4 4 Would 
+: 505 9 7 you 
+: 516 6 7 like 
+: 526 3 7 num
+: 531 2 7 ber 
+: 535 4 9 twen
+: 542 5 7 ty 
+: 552 9 4 three? 
+- 563
+: 577 8 2 Leave 
+: 587 10 5 your 
+: 598 8 5 yens 
+: 608 4 5 on 
+: 613 2 5 the 
+: 617 5 7 coun
+: 625 6 5 ter 
+: 634 5 4 please
+: 643 7 2 ~ 
+- 652
+: 742 10 2 Ho
+: 753 7 5 ~ 
+: 783 6 7 oh
+: 790 5 5 ~ 
+: 799 6 4 oh 
+: 809 7 2 oh 
+- 818
+* 824 4 4 Hong 
+* 835 6 7 Kong 
+* 866 11 4 Gar
+* 878 7 7 den 
+- 887
+: 907 10 2 Ho
+: 919 6 5 ~ 
+: 950 5 7 oh
+: 956 5 5 ~ 
+: 965 6 4 oh 
+: 975 6 2 oh 
+- 983
+: 990 4 4 Hong 
+: 1001 6 7 Kong 
+: 1032 10 9 Gar
+: 1043 24 7 den 
+- 1069
+* 1114 6 7 Oh
+* 1121 5 5 ~ 
+* 1130 6 4 oh 
+* 1140 6 2 oh 
+- 1148
+: 1488 9 4 Tour
+: 1498 4 7 ists 
+: 1508 8 7 swarm 
+: 1520 6 7 to 
+: 1529 5 9 see 
+: 1536 5 7 your 
+: 1544 10 4 face 
+- 1556
+: 1566 2 4 Con
+: 1571 5 2 fu
+: 1581 5 5 cius 
+: 1591 7 5 has 
+: 1601 7 5 a 
+: 1612 4 7 puz
+: 1617 4 7 z
+: 1623 4 5 ling 
+: 1628 6 4 grace
+: 1638 6 2 ~ 
+- 1646
+: 1649 2 2 Dis
+: 1653 4 4 o
+: 1658 4 4 ri
+: 1664 4 7 en
+: 1673 6 7 ta
+: 1684 3 7 ted 
+: 1690 3 7 you 
+: 1694 3 9 en
+: 1701 8 7 ter 
+: 1711 10 4 in 
+- 1723
+: 1731 3 2 Un
+: 1737 4 2 lea
+: 1746 4 5 shing 
+: 1756 4 5 scent 
+: 1767 3 5 of 
+: 1777 5 7 wild 
+: 1785 5 5 jas
+: 1795 4 4 mine
+: 1804 4 2 ~ 
+- 1810
+: 1818 6 4 Slan
+: 1828 9 7 ted 
+: 1839 8 7 eyes 
+: 1849 3 7 meet 
+: 1854 3 7 a 
+: 1859 4 9 new 
+: 1866 6 7 sun
+: 1874 11 4 rise 
+- 1887
+* 1895 3 2 A 
+* 1900 4 2 race 
+* 1909 5 5 of 
+* 1920 4 5 bo
+* 1925 5 5 dies 
+: 1941 5 7 small 
+: 1947 5 5 in 
+: 1957 4 4 size
+: 1966 7 2 ~ 
+- 1975
+: 1982 2 4 Chic
+: 1986 2 4 ken 
+: 1992 8 7 Chow 
+: 2002 10 7 Mein 
+: 2013 6 7 and 
+: 2023 3 9 Chop 
+: 2029 9 7 Su
+: 2039 13 4 ey 
+- 2054
+: 2064 6 2 Hong 
+: 2075 9 5 Kong 
+: 2085 9 5 Gar
+: 2095 5 5 den 
+: 2105 9 7 take
+: 2116 3 5 a
+: 2121 5 4 way
+: 2131 6 2 ~ 
+- 2139
+* 2145 8 4 La 
+* 2156 9 7 la 
+* 2166 9 7 la 
+* 2177 4 7 la 
+* 2182 3 7 la 
+* 2187 5 9 la 
+* 2194 8 7 la 
+* 2203 13 4 la 
+- 2218
+: 2229 9 2 Ho
+: 2239 7 5 ~ 
+: 2270 5 7 oh
+: 2276 5 5 ~ 
+: 2286 6 4 oh 
+: 2295 6 2 oh 
+- 2303
+: 2311 5 4 Hong 
+: 2322 6 7 Kong 
+: 2352 10 4 Gar
+: 2363 7 7 den 
+- 2372
+: 2393 9 2 Ho
+: 2404 6 5 ~ 
+: 2434 6 7 oh
+: 2441 5 5 ~ 
+: 2450 6 4 oh 
+: 2460 6 2 oh 
+E

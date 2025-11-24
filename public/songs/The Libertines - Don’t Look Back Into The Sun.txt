@@ -1,0 +1,250 @@
+#ARTIST:The Libertines
+#TITLE:Don’t Look Back Into The Sun
+#MP3:The Libertines - Don’t Look Back Into The Sun.mp3
+#CREATOR:lozboorman
+#YEAR:2003
+#LANGUAGE:English
+#BPM:351.12
+#GAP:39750
+#VIDEO:v=jLYsIESNtUc,co=dont-look-back-into-the-sun-5cbfcb3c0a83d.jpg,bg=libertines-the-5b87507b0f9df.jpg
+: 0 4 14 Don’t 
+: 8 4 9 look 
+: 16 4 7 back 
+: 24 4 7 in 
+: 32 2 2 to 
+: 36 4 6 the 
+: 44 4 9 sun 
+- 50
+: 72 2 7 Now 
+: 76 2 7 you 
+: 80 2 7 know 
+: 88 2 7 that 
+: 92 2 7 your 
+: 96 2 12 time 
+: 102 2 11 has 
+: 108 4 9 come 
+- 114
+: 136 2 7 And 
+: 140 2 7 they 
+: 144 2 7 said 
+: 152 2 7 it 
+: 156 2 7 would 
+* 160 2 9 nev
+* 166 2 6 er 
+: 174 4 7 come 
+: 182 4 9 for 
+: 192 4 14 you 
+- 198
+: 204 2 12 Uh 
+: 208 4 11 oh 
+: 214 4 9 oh 
+: 222 8 7 oh 
+- 232
+: 258 4 14 Oh 
+: 266 4 9 my 
+: 274 4 7 friend 
+: 282 4 7 you 
+: 290 2 2 have
+: 294 4 6 n’t 
+: 302 4 9 changed 
+- 308
+: 328 2 7 You’re 
+: 332 2 7 look
+: 336 4 7 ing 
+: 344 4 7 rough 
+: 352 2 7 and 
+* 356 2 12 liv
+* 360 4 11 ing 
+: 368 4 9 strange 
+- 374
+: 378 2 11 And 
+: 382 2 9 I 
+: 386 4 7 know 
+- 392
+: 408 2 7 You 
+: 412 2 7 got 
+: 416 4 7 a 
+: 428 4 7 taste 
+: 436 4 7 for 
+: 446 4 9 it 
+: 454 4 14 too 
+- 460
+: 466 2 12 Uh 
+: 470 2 11 oh 
+* 474 4 11 oh 
+: 482 8 7 oh 
+- 492
+: 522 2 12 And 
+: 526 4 12 they’ll 
+: 532 2 12 nev
+: 536 2 12 er 
+: 540 2 11 for
+: 546 2 12 give 
+: 552 2 12 you 
+- 555
+: 556 2 12 But 
+: 560 2 12 they 
+: 564 2 12 won’t 
+: 568 2 11 let 
+: 572 4 12 you 
+: 580 4 11 go 
+- 586
+: 600 4 9 Oh 
+: 608 8 7 no 
+- 618
+: 646 2 12 She 
+: 650 2 11 will 
+: 654 2 12 nev
+: 658 2 11 er 
+: 662 2 11 for
+: 666 4 12 give 
+: 674 2 12 you 
+- 677
+: 678 2 12 But 
+: 682 2 12 she 
+: 686 2 12 won’t 
+: 690 2 12 let 
+: 694 2 12 you 
+: 700 4 14 go 
+- 706
+* 708 4 17 Oh 
+: 716 4 14 no 
+- 722
+* 760 4 14 Don’t 
+* 768 4 9 look 
+: 776 4 7 back 
+: 784 4 7 in 
+: 792 2 2 to 
+: 796 4 6 the 
+: 804 4 9 sun 
+- 810
+: 812 2 9 When 
+: 816 2 9 you’ve 
+: 820 4 11 cast 
+: 830 4 7 your 
+: 838 2 4 plans 
+: 844 2 4 and 
+: 848 2 7 you’re 
+: 854 4 11 on 
+: 864 2 7 the 
+: 870 4 4 run 
+- 876
+: 884 2 0 And 
+: 888 4 0 all 
+: 896 4 4 the 
+: 904 4 7 lies 
+: 912 4 7 you 
+: 920 4 2 said 
+- 926
+: 928 4 6 Huh 
+: 936 4 9 did 
+: 944 2 6 you 
+: 948 8 7 say 
+- 958
+: 1006 2 14 But 
+: 1010 2 14 then 
+: 1014 4 14 played 
+* 1022 4 11 that 
+* 1030 4 7 song 
+: 1038 2 7 at 
+: 1042 2 7 the 
+: 1046 2 2 death 
+: 1052 4 6 dis
+: 1060 4 9 co 
+- 1065
+: 1066 4 9 It 
+: 1074 4 11 starts 
+: 1082 4 7 it 
+: 1090 4 4 fast 
+: 1098 2 7 but 
+: 1102 2 9 it 
+: 1106 4 11 ends 
+: 1114 4 7 so 
+: 1122 4 4 slow 
+- 1128
+: 1138 2 0 But 
+: 1142 4 0 all 
+: 1150 4 4 this 
+: 1158 4 7 time 
+: 1166 2 7 it 
+: 1170 2 7 re
+: 1174 4 2 min
+: 1182 4 6 ded 
+: 1190 4 9 me 
+: 1198 2 6 of 
+: 1202 8 7 you 
+- 1212
+: 1274 2 12 And 
+: 1278 4 12 they’ll 
+: 1284 2 12 nev
+: 1288 2 12 er 
+: 1292 2 11 for
+: 1298 2 12 give 
+: 1304 2 12 you 
+- 1307
+: 1308 2 12 But 
+: 1312 2 12 they 
+: 1316 2 12 won’t 
+: 1320 2 11 let 
+: 1324 4 12 you 
+: 1332 4 11 go 
+- 1338
+F 1348 2 9 Let 
+F 1352 4 9 me 
+F 1358 4 9 go 
+- 1364
+: 1398 2 12 She 
+: 1402 2 11 will 
+: 1406 2 12 nev
+: 1410 2 11 er 
+: 1414 2 11 for
+: 1418 4 12 give 
+: 1426 2 12 you 
+- 1429
+: 1430 2 12 But 
+: 1434 2 12 she 
+: 1438 2 12 won’t 
+: 1442 2 12 let 
+: 1446 2 12 you 
+: 1452 4 14 go 
+- 1458
+* 1460 4 17 Oh 
+: 1468 4 14 no 
+- 1474
+: 2022 2 12 And 
+: 2026 4 12 they’ll 
+: 2032 2 12 nev
+: 2036 2 12 er 
+: 2040 2 11 for
+: 2046 2 12 give 
+: 2052 2 12 you 
+- 2055
+: 2056 2 12 But 
+: 2060 2 12 they 
+: 2064 2 12 won’t 
+: 2068 2 11 let 
+: 2072 4 12 you 
+: 2080 4 11 go 
+- 2086
+F 2096 4 9 Let 
+F 2102 4 9 me 
+F 2108 4 9 go 
+- 2114
+: 2146 2 12 She 
+: 2150 2 11 will 
+: 2154 2 12 nev
+: 2158 2 11 er 
+: 2162 2 11 for
+: 2166 4 12 give 
+: 2174 2 12 you 
+- 2177
+: 2178 2 12 But 
+: 2182 2 12 she 
+: 2186 2 12 won’t 
+: 2190 2 12 let 
+: 2194 2 12 you 
+: 2200 4 14 go 
+- 2206
+* 2208 4 17 Oh 
+: 2216 4 14 no 
+E

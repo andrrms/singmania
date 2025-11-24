@@ -1,0 +1,852 @@
+#ARTIST:Pitbull feat. Ne-Yo, Afrojack & Nayer
+#TITLE:Give Me Everything
+#MP3:Pitbull feat. Ne-Yo, Afrojack & Nayer - Give Me Everything.mp3
+#CREATOR:snake84, Fepo
+#YEAR:2011
+#LANGUAGE:English
+#BPM:258
+#GAP:780
+#VIDEO:v=EPo5wWmKEaI,co=give-me-everything-67b4c2a7e7688.jpg,bg=pitbull-509820b8d9d6c.jpg
+F 0 2 3 Me 
+F 4 2 3 not 
+F 8 2 3 wor
+F 12 1 3 king 
+F 14 4 3 hard 
+- 20
+F 28 2 3 Yeah 
+F 32 2 3 right, 
+F 36 1 3 pic
+F 38 1 3 ture 
+F 40 2 3 that 
+F 44 1 3 with 
+F 46 1 3 a 
+F 48 2 3 ko
+F 52 2 3 dak 
+- 56
+F 60 1 3 And 
+F 62 1 3 better 
+F 64 3 3 yet, 
+F 72 1 3 go 
+F 74 1 3 to 
+F 76 4 3 times 
+F 82 3 3 square 
+- 87
+F 88 1 3 Take 
+F 90 1 3 a 
+F 92 2 3 pic
+F 96 2 3 ture 
+F 100 2 3 of 
+F 104 2 3 me 
+F 108 1 3 with 
+F 110 1 3 a 
+F 112 2 3 ko
+F 116 2 3 dak 
+- 120
+F 124 1 3 Took 
+F 126 1 3 my 
+F 128 2 3 life 
+F 132 2 3 from 
+F 136 1 3 ne
+F 138 1 3 ga
+F 140 2 3 tive 
+F 144 1 3 to 
+F 146 1 3 a 
+F 148 1 3 po
+F 150 1 3 si
+F 152 2 3 tive 
+- 155
+F 156 1 3 I 
+F 158 1 3 just 
+F 160 2 3 want 
+F 164 1 3 y’all 
+F 166 1 3 to 
+F 168 2 3 know 
+F 172 2 3 that 
+- 176
+F 180 1 3 And 
+F 182 1 3 to
+F 184 3 3 night, 
+F 190 2 3 let’s 
+F 194 1 3 en
+F 196 2 3 joy 
+F 201 3 3 life 
+- 206
+F 212 2 3 Pit
+F 216 2 3 bull, 
+F 220 2 3 Na
+F 224 2 3 yer, 
+F 231 2 3 Ne-
+F 234 2 3 Yo 
+- 238
+: 240 2 2 To
+: 244 9 3 night 
+- 255
+: 268 2 2 I 
+: 272 2 3 will 
+: 276 8 7 love, 
+: 288 5 5 love 
+: 296 5 3 you 
+: 304 2 2 to
+: 308 9 3 night 
+- 319
+: 332 2 2 Give 
+: 336 2 3 me 
+: 340 9 7 eve
+: 352 5 5 ry
+: 360 5 3 thing 
+: 368 2 2 to
+: 372 3 3 ni
+: 376 3 2 ~
+: 380 6 0 ~ght 
+- 388
+: 404 2 -5 For 
+: 408 2 -4 all 
+* 412 5 3 we 
+: 420 6 3 know 
+- 428
+: 436 2 -2 We 
+: 440 5 3 might 
+: 448 5 3 not 
+: 456 5 3 get 
+: 464 2 2 to
+: 468 6 3 mor
+: 476 4 5 row 
+- 482
+: 484 2 3 Let’s 
+: 488 2 3 do 
+: 492 2 5 it 
+* 496 2 3 to
+: 500 2 3 night 
+- 503
+: 504 4 3 Don’t 
+: 510 4 3 care 
+: 516 4 7 what 
+: 522 3 7 they 
+: 528 3 7 say 
+- 533
+: 536 4 10 All 
+: 542 4 10 my 
+* 548 4 0 girls 
+: 554 4 0 they 
+: 560 3 0 play 
+- 565
+: 568 4 3 No
+: 574 4 3 thing 
+: 580 4 7 is 
+: 586 4 7 e
+: 592 3 7 nough 
+- 597
+: 600 4 10 Till 
+: 606 3 10 they 
+: 612 4 0 han
+: 618 4 0 dle 
+: 624 3 0 love 
+- 629
+: 632 4 3 I 
+* 638 4 3 want 
+: 644 4 7 you 
+: 650 4 7 to
+: 656 3 7 night 
+- 661
+: 664 4 10 I 
+: 670 3 10 want 
+: 676 4 0 you 
+: 682 4 0 to 
+: 688 3 0 stay 
+- 693
+: 696 4 3 I 
+: 702 4 3 want 
+: 708 4 7 you 
+: 714 4 7 to
+: 720 3 7 night 
+- 725
+: 728 2 0 Grab 
+: 732 2 0 some
+: 736 2 0 bo
+: 740 2 0 dy 
+: 744 3 0 se
+: 748 2 -5 xy, 
+: 752 2 0 tell 
+: 756 2 2 ’em 
+: 760 6 3 hey 
+- 768
+: 780 2 2 Give 
+: 784 2 3 me 
+: 788 9 7 eve
+: 800 5 5 ry
+: 808 5 3 thing 
+: 816 2 2 to
+: 820 9 3 night 
+- 831
+: 844 2 2 Give 
+: 848 2 3 me 
+* 852 9 7 eve
+: 864 5 5 ry
+: 872 5 3 thing 
+: 880 2 2 to
+: 884 8 3 night 
+- 894
+: 908 2 2 Give 
+: 912 2 3 me 
+: 916 9 7 eve
+: 928 5 5 ry
+: 936 5 3 thing 
+: 944 2 2 to
+: 948 9 3 night 
+- 959
+: 972 2 2 Give 
+: 976 2 3 me 
+: 980 9 7 eve
+: 992 5 5 ry
+* 1000 5 3 thing 
+: 1008 2 2 to
+: 1012 9 3 night 
+- 1023
+F 1036 1 3 … ’Cause 
+F 1038 1 3 to 
+F 1040 2 3 more 
+F 1044 1 3 and 
+F 1046 2 3 more 
+F 1050 1 3 to 
+F 1052 2 3 do 
+F 1056 2 3 bad 
+- 1059
+F 1060 1 3 And 
+F 1062 1 3 per
+F 1064 2 3 form 
+F 1068 1 3 for 
+F 1070 1 3 a 
+F 1072 4 3 prin
+F 1078 3 3 cess 
+- 1083
+F 1084 1 3 But 
+F 1086 1 3 to
+F 1088 4 3 night 
+F 1100 1 3 I 
+F 1102 1 3 can 
+F 1104 1 3 make 
+F 1106 1 3 you 
+F 1108 2 3 my 
+F 1112 2 3 queen 
+- 1115
+F 1116 2 3 And 
+F 1120 3 3 make 
+F 1128 2 3 love 
+F 1132 1 3 to 
+F 1134 1 3 you 
+F 1136 4 3 end
+F 1142 1 3 less 
+- 1144
+F 1144 1 3 This 
+F 1146 1 3 is 
+F 1148 2 3 in
+F 1152 2 3 sane, 
+F 1156 1 3 the 
+F 1158 2 3 way 
+F 1162 1 3 the 
+F 1164 2 3 name 
+F 1168 1 3 grow
+F 1170 2 3 in’ 
+- 1173
+F 1174 1 3 Mo
+F 1176 2 3 ney 
+F 1180 2 3 keep 
+F 1184 2 3 flow
+F 1188 1 3 in’ 
+- 1190
+F 1190 1 3 Hust
+F 1192 2 3 lers 
+F 1196 1 3 move 
+F 1198 1 3 a
+F 1200 2 3 side, 
+F 1206 1 3 so 
+F 1208 2 3 I’m 
+F 1212 2 3 tip-
+F 1216 2 3 toe
+F 1220 1 3 in’ 
+- 1223
+F 1228 2 3 Keep 
+F 1232 2 3 blow
+F 1236 1 3 in’ 
+- 1238
+F 1238 1 3 I 
+F 1240 1 3 got
+F 1242 1 3 ta 
+F 1244 2 3 locked 
+F 1248 3 3 up 
+F 1254 2 3 like 
+F 1258 1 3 Lind
+F 1260 2 3 say 
+F 1264 2 3 Lo
+F 1268 2 3 han 
+- 1272
+F 1280 1 3 Put 
+F 1282 1 3 it 
+F 1284 1 3 on 
+F 1286 1 3 my 
+F 1288 4 3 life, 
+F 1296 2 3 ba
+F 1300 2 3 by 
+- 1304
+F 1310 1 3 I 
+F 1312 1 3 make 
+F 1314 1 3 you 
+F 1316 2 3 feel 
+F 1320 4 3 right, 
+F 1328 2 3 ba
+F 1332 2 3 by 
+- 1336
+F 1340 2 3 Can’t 
+F 1344 1 3 pro
+F 1346 2 3 mise 
+F 1350 1 3 to
+F 1352 1 3 mor
+F 1354 2 3 row 
+- 1358
+F 1364 1 3 But 
+F 1366 1 3 I 
+F 1368 1 3 pro
+F 1370 2 3 mise 
+F 1374 1 3 to
+F 1376 4 3 night 
+- 1382
+: 1396 2 2 Ex
+: 1400 5 3 cuse 
+: 1408 2 0 me, 
+: 1412 2 2 ex
+* 1416 5 3 cuse 
+: 1424 2 0 me 
+- 1428
+: 1430 1 2 And 
+: 1432 2 3 I 
+: 1436 2 3 might 
+: 1440 2 3 drink 
+: 1444 1 3 a 
+: 1446 2 2 lit
+: 1450 2 2 tle 
+: 1454 2 2 more 
+: 1458 1 2 than 
+: 1460 2 2 I 
+: 1464 5 3 should 
+- 1471
+: 1476 2 0 To
+: 1480 5 0 night 
+- 1487
+: 1494 1 -2 And 
+: 1496 2 3 I 
+: 1500 2 3 might 
+* 1504 2 3 take 
+: 1508 1 3 you 
+: 1510 2 2 home 
+: 1514 2 2 with 
+: 1518 2 2 me 
+: 1522 1 2 if 
+: 1524 2 2 I 
+: 1528 5 3 could 
+- 1535
+: 1540 2 0 To
+: 1544 5 0 night 
+- 1551
+: 1558 1 -2 And 
+: 1560 2 3 may
+: 1564 2 3 be 
+: 1568 2 3 I’m
+: 1572 1 3 ma 
+: 1574 2 2 make 
+: 1578 2 2 you 
+* 1582 3 2 feel 
+: 1588 2 2 so 
+: 1592 5 3 good 
+- 1599
+: 1604 2 0 To
+: 1608 5 0 night 
+- 1615
+: 1620 1 0 ’Cause 
+: 1622 1 0 we 
+: 1624 2 3 might 
+: 1628 2 3 not 
+: 1632 2 3 get 
+: 1636 1 3 to
+: 1638 2 2 mor
+: 1642 2 3 row 
+- 1646
+: 1648 2 2 To
+* 1652 9 3 night 
+- 1663
+: 1676 2 2 I 
+: 1680 2 3 will 
+* 1684 8 7 love, 
+: 1696 5 5 love 
+: 1704 5 3 you 
+: 1712 2 2 to
+: 1716 8 3 night 
+- 1726
+: 1740 2 2 Give 
+: 1744 2 3 me 
+: 1748 9 7 eve
+: 1760 5 5 ry
+: 1768 5 3 thing 
+: 1776 2 2 to
+: 1780 3 3 ni
+: 1784 3 2 ~
+: 1788 8 0 ~ght 
+- 1798
+: 1812 2 -5 For 
+: 1816 2 -4 all 
+: 1820 5 3 we 
+* 1828 6 3 know 
+- 1836
+: 1844 2 -2 We 
+: 1848 5 3 might 
+* 1856 5 3 not 
+: 1864 5 3 get 
+: 1872 2 2 to
+: 1876 6 3 mor
+: 1884 4 5 row 
+- 1890
+: 1892 2 3 Let’s 
+: 1896 2 3 do 
+: 1900 2 5 it 
+: 1904 2 3 to
+: 1908 2 3 night 
+- 1911
+: 1912 4 3 Don’t 
+: 1918 4 3 care 
+: 1924 4 7 what 
+: 1930 4 7 they 
+: 1936 3 7 say 
+- 1941
+: 1944 4 10 All 
+: 1950 3 10 my 
+: 1956 4 0 girls 
+: 1962 4 0 they 
+: 1968 3 0 play 
+- 1973
+: 1976 4 3 No
+: 1982 4 3 thing 
+* 1988 4 7 is 
+: 1994 4 7 e
+: 2000 3 7 nough 
+- 2005
+: 2008 4 10 Till 
+: 2014 3 10 they 
+: 2020 4 0 han
+: 2026 4 0 dle 
+: 2032 3 0 love 
+- 2037
+: 2040 4 3 I 
+: 2046 4 3 want 
+: 2052 4 7 you 
+: 2058 4 7 to
+: 2064 3 7 night 
+- 2069
+: 2072 4 10 I 
+: 2078 3 10 want 
+: 2084 4 0 you 
+: 2090 4 0 to 
+: 2096 3 0 stay 
+- 2101
+: 2104 4 3 I 
+: 2110 4 3 want 
+: 2116 4 7 you 
+* 2122 4 7 to
+: 2128 4 7 night 
+- 2134
+* 2136 2 0 Grab 
+: 2140 2 0 some
+: 2144 2 0 bo
+: 2148 2 0 dy 
+: 2152 3 0 se
+: 2156 2 -5 xy, 
+: 2160 2 0 tell 
+: 2164 2 2 ’em 
+: 2168 6 3 hey 
+- 2176
+: 2188 2 2 Give 
+: 2192 2 3 me 
+: 2196 9 7 eve
+: 2208 5 5 ry
+: 2216 5 3 thing 
+: 2224 2 2 to
+: 2228 8 3 night 
+- 2238
+* 2252 2 2 Give 
+: 2256 2 3 me 
+: 2260 9 7 eve
+: 2272 5 5 ry
+: 2280 5 3 thing 
+: 2288 2 2 to
+: 2292 8 3 night 
+- 2302
+: 2316 2 2 Give 
+: 2320 2 3 me 
+: 2324 9 7 eve
+: 2336 5 5 ry
+: 2344 5 3 thing 
+: 2352 2 2 to
+: 2356 8 3 night 
+- 2366
+: 2380 2 2 Give 
+: 2384 2 3 me 
+: 2388 9 7 eve
+* 2400 5 5 ry
+: 2408 5 3 thing 
+: 2416 2 2 to
+: 2420 8 3 night 
+- 2430
+F 2446 1 3 … And 
+F 2448 1 3 if 
+F 2450 1 3 you 
+F 2452 2 3 don’t 
+F 2456 2 3 grab 
+F 2460 1 3 ’em 
+- 2462
+F 2462 1 3 At 
+F 2464 2 3 least 
+F 2468 1 3 you’re 
+F 2470 1 3 on 
+F 2472 2 3 top 
+F 2476 1 3 of 
+F 2478 1 3 the 
+F 2480 3 3 world 
+- 2485
+F 2488 1 3 Think 
+F 2490 1 3 a
+F 2492 2 3 bout 
+F 2496 1 3 it 
+- 2499
+F 2502 1 3 ’Cause 
+F 2504 2 3 if 
+F 2508 2 3 you 
+F 2512 3 3 slip 
+- 2517
+F 2518 1 3 I’m 
+F 2520 1 3 gon
+F 2522 1 3 na 
+F 2524 1 3 fall 
+F 2526 1 3 on 
+F 2528 1 3 top 
+F 2530 1 3 of 
+F 2532 2 3 you 
+F 2536 3 3 girl 
+- 2541
+F 2554 1 3 When 
+F 2556 1 3 I’m 
+F 2558 1 3 in
+F 2560 2 3 volved 
+- 2563
+F 2564 1 3 When 
+F 2566 1 3 they 
+F 2568 1 3 slee
+F 2570 1 3 pin’ 
+F 2572 1 3 in 
+F 2574 1 3 the 
+F 2576 2 3 Ma
+F 2580 2 3 cy’s, 
+F 2584 2 3 ba
+F 2588 1 3 by, 
+F 2590 2 3 ba
+F 2594 1 3 by 
+- 2596
+F 2596 1 3 And 
+F 2598 1 3 it 
+F 2600 2 3 ain’t 
+F 2604 2 3 no 
+F 2608 4 3 sec
+F 2614 2 3 ret 
+- 2618
+F 2622 1 3 My 
+F 2624 1 3 gran
+F 2626 2 3 ny’s 
+F 2630 1 3 from 
+F 2632 2 3 Cu
+F 2636 1 3 ba 
+F 2638 1 3 but 
+F 2640 1 3 I’m 
+F 2642 2 3 an 
+F 2646 1 3 A
+F 2648 1 3 me
+F 2650 1 3 ri
+F 2652 1 3 can 
+- 2655
+F 2656 1 3 Tied 
+F 2658 1 3 o
+F 2660 1 3 ver 
+F 2662 1 3 your 
+F 2664 1 3 mo
+F 2666 1 3 ney 
+F 2668 2 3 like 
+F 2672 4 3 Sea
+F 2678 3 3 crest 
+- 2683
+F 2688 1 3 Put 
+F 2690 1 3 it 
+F 2692 1 3 on 
+F 2694 1 3 my 
+F 2696 4 3 life, 
+F 2704 2 3 ba
+F 2708 2 3 by 
+- 2712
+F 2718 1 3 I 
+F 2720 1 3 make 
+F 2722 1 3 you 
+F 2724 2 3 feel 
+F 2728 4 3 right, 
+F 2736 2 3 ba
+F 2740 2 3 by 
+- 2744
+F 2748 2 3 Can’t 
+F 2752 1 3 pro
+F 2754 2 3 mise 
+F 2758 1 3 to
+F 2760 1 3 mor
+F 2762 2 3 row 
+- 2766
+F 2772 1 3 But 
+F 2774 1 3 I 
+F 2776 1 3 pro
+F 2778 2 3 mise 
+F 2782 1 3 to
+F 2784 4 3 night 
+- 2790
+: 2804 2 2 Ex
+: 2808 5 3 cuse 
+: 2816 2 0 me, 
+* 2820 2 2 ex
+: 2824 5 3 cuse 
+: 2832 2 0 me 
+- 2836
+: 2838 1 0 And 
+: 2840 2 3 I 
+: 2844 2 3 might 
+: 2848 2 3 drink 
+: 2852 1 3 a 
+: 2854 2 2 lit
+: 2858 2 2 tle 
+: 2862 2 2 more 
+: 2866 1 2 than 
+: 2868 2 2 I 
+* 2872 5 3 should 
+- 2879
+: 2884 2 0 To
+: 2888 5 0 night 
+- 2895
+: 2902 1 -2 And 
+: 2904 2 3 I 
+: 2908 2 3 might 
+: 2912 2 3 take 
+: 2916 1 3 you 
+: 2918 2 2 home 
+: 2922 2 2 with 
+: 2926 2 2 me 
+: 2930 1 2 if 
+: 2932 2 2 I 
+: 2936 5 3 could 
+- 2943
+: 2948 2 0 To
+: 2952 5 0 night 
+- 2959
+: 2966 1 0 And 
+: 2968 2 3 may
+: 2972 2 3 be 
+* 2976 2 3 I’m
+: 2980 1 3 ma 
+: 2982 2 2 make 
+: 2986 2 2 you 
+: 2990 3 2 feel 
+: 2996 2 2 so 
+: 3000 5 3 good 
+- 3007
+: 3012 2 0 To
+: 3016 5 0 night 
+- 3023
+: 3028 1 0 ’Cause 
+: 3030 1 0 we 
+: 3032 2 3 might 
+: 3036 2 3 not 
+: 3040 2 3 get 
+: 3044 1 3 to
+: 3046 2 2 mor
+: 3050 2 3 row 
+- 3054
+: 3056 2 2 To
+: 3060 8 3 night 
+- 3070
+: 3084 2 2 I 
+: 3088 2 3 will 
+: 3092 8 7 love, 
+* 3104 5 5 love 
+: 3112 5 3 you 
+: 3120 2 2 to
+: 3124 8 3 night 
+- 3134
+: 3148 2 2 Give 
+: 3152 2 3 me 
+: 3156 9 7 eve
+: 3168 5 5 ry
+: 3176 5 3 thing 
+: 3184 2 2 to
+: 3188 3 3 ni
+: 3192 3 2 ~
+: 3196 8 0 ~ght 
+- 3206
+: 3220 2 -5 For 
+: 3224 2 -4 all 
+: 3228 5 3 we 
+: 3236 6 3 know 
+- 3244
+: 3252 2 -2 We 
+: 3256 5 3 might 
+* 3264 5 3 not 
+: 3272 5 3 get 
+: 3280 2 2 to
+: 3284 6 3 mor
+: 3292 4 5 row 
+- 3298
+: 3300 2 3 Let’s 
+: 3304 2 3 do 
+: 3308 2 5 it 
+: 3312 2 3 to
+: 3316 2 3 night 
+- 3319
+: 3320 4 3 Don’t 
+: 3326 4 3 care 
+: 3332 4 7 what 
+: 3338 4 7 they 
+: 3344 3 7 say 
+- 3349
+: 3352 4 10 All 
+: 3358 3 10 my 
+: 3364 4 0 girls 
+: 3370 4 0 they 
+: 3376 3 0 play 
+- 3381
+: 3384 4 3 No
+: 3390 4 3 thing 
+: 3396 4 7 is 
+: 3402 4 7 e
+* 3408 3 7 nough 
+- 3413
+: 3416 4 10 Till 
+: 3422 3 10 they 
+* 3428 4 0 han
+: 3434 4 0 dle 
+: 3440 3 0 love 
+- 3445
+: 3448 4 3 I 
+: 3454 4 3 want 
+: 3460 4 7 you 
+: 3466 4 7 to
+: 3472 3 7 night 
+- 3477
+: 3480 4 10 I 
+: 3486 3 10 want 
+: 3492 4 0 you 
+: 3498 4 0 to 
+: 3504 3 0 stay 
+- 3509
+: 3512 4 3 I 
+: 3518 4 3 want 
+: 3524 4 7 you 
+: 3530 4 7 to
+: 3536 4 7 night 
+- 3542
+: 3544 2 0 Grab 
+: 3548 2 0 some
+: 3552 2 0 bo
+: 3556 2 0 dy 
+* 3560 3 0 se
+* 3564 2 -5 xy, 
+: 3568 2 0 tell 
+: 3572 2 2 ’em 
+: 3576 5 3 hey 
+- 3583
+: 3596 2 2 Give 
+: 3600 2 3 me 
+: 3604 9 7 eve
+: 3616 5 5 ry
+: 3624 5 3 thing 
+: 3632 2 2 to
+: 3636 8 3 night 
+- 3646
+: 3660 2 2 Give 
+: 3664 2 3 me 
+* 3668 9 7 eve
+: 3680 5 5 ry
+: 3688 5 3 thing 
+: 3696 2 2 to
+: 3700 8 3 night 
+- 3710
+: 3724 2 2 Give 
+: 3728 2 3 me 
+: 3732 9 7 eve
+: 3744 5 5 ry
+: 3752 5 3 thing 
+: 3760 2 2 to
+: 3764 8 3 night 
+- 3774
+: 3788 2 2 Give 
+: 3792 2 3 me 
+: 3796 9 7 eve
+: 3808 5 5 ry
+: 3816 5 3 thing 
+* 3824 2 2 to
+: 3828 8 3 night 
+- 3838
+: 3844 2 2 … Ex
+: 3848 5 3 cuse 
+: 3856 2 0 me 
+- 3860
+: 3862 1 0 And 
+: 3864 2 3 I 
+: 3868 2 3 might 
+: 3872 2 3 drink 
+: 3876 1 3 a 
+: 3878 2 2 lit
+: 3882 2 2 tle 
+: 3886 2 2 more 
+: 3890 1 2 than 
+: 3892 2 2 I 
+: 3896 5 3 should 
+- 3903
+* 3908 2 0 To
+: 3912 5 0 night 
+- 3919
+: 3926 1 -2 And 
+: 3928 2 3 I 
+: 3932 2 3 might 
+: 3936 2 3 take 
+: 3940 1 3 you 
+* 3942 2 2 home 
+: 3946 2 2 with 
+: 3950 2 2 me 
+: 3954 1 2 if 
+: 3956 2 2 I 
+: 3960 5 3 could 
+- 3967
+: 3972 2 0 To
+: 3976 5 0 night 
+- 3983
+: 3990 1 -2 And 
+: 3992 2 3 may
+: 3996 2 3 be 
+: 4000 2 3 I’m
+: 4004 1 3 ma 
+: 4006 2 2 make 
+: 4010 2 2 you 
+: 4014 3 2 feel 
+: 4020 2 2 so 
+* 4024 5 3 good 
+- 4031
+: 4036 2 0 To
+: 4040 5 0 night 
+- 4047
+: 4052 1 0 ’Cause 
+: 4054 1 0 we 
+: 4056 2 3 might 
+: 4060 2 3 not 
+: 4064 2 3 get 
+: 4068 1 3 to
+: 4070 2 2 mor
+: 4074 2 3 row 
+E

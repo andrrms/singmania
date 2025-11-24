@@ -1,0 +1,640 @@
+#ARTIST:Within Temptation feat. Xzibit
+#TITLE:And We Run [DUET]
+#MP3:Within Temptation feat. Xzibit - And We Run [DUET].mp3
+#CREATOR:march
+#EDITION:[DUET]-Songs
+#GENRE:Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:258.09
+#GAP:22210
+#VIDEO:v=awvqIi427_A,co=and-we-run-537adad90429c.jpg,bg=within-temptation-4ff5a641724c7.jpg,p1=Sharon den Adel,p2=Xzibit
+#START:9.5
+#END:242000
+P1
+: 0 2 -3 It 
+: 3 8 2 burns 
+: 12 3 0 in
+: 16 7 -1 to 
+: 24 6 -3 your 
+: 31 25 0 heart 
+- 58
+: 62 3 0 The 
+: 66 8 2 dark
+: 75 7 0 ness 
+: 83 4 -1 that 
+: 88 4 4 you 
+: 93 23 0 fear 
+- 118
+: 130 5 2 You 
+: 136 4 0 were 
+: 141 12 -1 ne
+: 154 3 -3 ver 
+: 158 24 -3 free, 
+- 184
+: 185 5 -3 And 
+: 191 2 -3 you 
+: 194 7 2 ne
+: 202 4 0 ver 
+: 207 8 -1 re
+: 216 4 -3 a
+: 221 39 0 liz
+: 261 7 -1 ed 
+- 270
+: 279 4 0 And 
+: 284 20 0 love 
+: 314 4 0 is 
+: 319 2 0 a 
+: 322 7 2 word 
+- 330
+: 330 5 0 You’ve 
+: 336 6 -1 ne
+: 343 7 4 ver 
+: 351 21 0 heard 
+- 374
+: 382 3 0 Your 
+: 387 6 2 heart 
+: 394 3 0 ain’t 
+: 398 8 -1 cold 
+: 407 3 -3 ’cause 
+: 411 4 -3 it 
+: 416 20 -3 burns 
+- 438
+: 443 3 -3 A 
+: 447 1 -3 de
+: 449 9 2 si
+: 459 3 0 re 
+: 463 4 0 to 
+: 468 6 -1 leave 
+: 475 2 -3 the 
+: 478 35 0 mi
+: 514 10 -1 re 
+- 526
+: 546 6 9 Take 
+: 553 7 5 your 
+: 561 8 9 breath 
+: 570 7 5 till 
+: 578 3 9 no
+: 582 8 5 thing’s 
+: 591 13 13 left 
+- 606
+: 610 7 9 Scars 
+: 618 4 5 of 
+: 623 7 9 life 
+: 631 5 5 u
+: 637 9 13 pon 
+: 647 7 11 your 
+: 655 17 9 chest 
+- 674
+* 677 4 9 And 
+* 682 4 5 I 
+* 687 12 9 kno
+* 700 18 11 w 
+* 719 10 9 wherever 
+* 730 13 11 it 
+* 744 32 7 goes 
+- 778
+: 792 3 9 And 
+: 796 3 9 we 
+: 800 20 9 run 
+: 823 3 9 with 
+: 827 3 9 a 
+: 831 7 13 lone
+: 839 5 16 ly 
+: 845 8 7 heart 
+- 854
+: 854 3 7 And 
+: 858 5 9 we 
+: 864 21 9 run 
+: 886 3 9 for 
+: 890 4 9 this 
+: 895 7 13 ki
+: 903 7 16 lling 
+: 911 4 7 love 
+- 916
+: 916 5 7 And 
+: 922 5 9 we 
+: 928 16 9 ru
+: 945 16 4 n 
+: 962 7 14 till 
+: 970 3 13 the 
+: 974 8 11 hea
+: 983 4 9 vens 
+: 988 2 9 a
+: 991 7 7 bo
+: 999 2 9 ~
+: 1002 5 7 ~
+: 1008 3 9 ~
+: 1012 3 7 ~
+: 1016 3 9 ~
+: 1020 3 7 ~
+: 1024 3 9 ~
+: 1028 7 13 ~
+: 1036 8 11 ve 
+- 1046
+: 1048 4 9 Yeah, 
+: 1053 3 7 we 
+: 1057 19 9 run, 
+: 1077 4 9 run
+: 1082 4 9 ning 
+: 1087 6 13 in 
+: 1094 7 11 the 
+: 1102 4 11 dark 
+- 1107
+: 1107 6 9 And 
+: 1114 3 7 we 
+: 1118 21 9 run 
+: 1141 6 9 till 
+: 1148 2 9 we 
+: 1151 7 13 fall 
+: 1159 7 11 a
+: 1167 5 11 part 
+- 1173
+: 1173 4 9 And 
+: 1178 6 7 we 
+: 1185 16 9 ru
+: 1202 16 4 n 
+: 1219 5 14 till 
+: 1225 4 13 the 
+: 1230 6 11 hea
+: 1237 6 9 vens 
+: 1244 2 9 a
+: 1247 8 7 bo
+: 1256 3 9 ~
+: 1260 3 7 ~
+: 1264 3 9 ~
+: 1268 3 7 ~
+: 1272 3 9 ~
+: 1276 3 7 ~
+: 1280 3 9 ~
+: 1284 3 13 ~
+: 1288 3 13 ~
+: 1292 3 11 ~
+: 1296 3 11 ~
+F 1300 32 4 ve 
+- 1334
+: 1560 4 9 And 
+: 1565 3 9 we 
+: 1569 20 9 run 
+: 1590 5 9 with 
+: 1596 1 9 a 
+: 1598 7 12 lone
+: 1606 7 16 ly 
+: 1614 5 7 heart 
+- 1620
+: 1620 4 7 And 
+: 1625 5 9 we 
+: 1631 21 9 run 
+: 1655 2 9 for 
+: 1658 5 9 this 
+: 1664 5 13 ki
+: 1670 7 16 lling 
+: 1678 9 7 love 
+- 1688
+: 1688 4 7 And 
+: 1693 2 9 we 
+: 1696 32 9 long 
+* 1729 6 14 for 
+* 1736 5 13 a 
+* 1742 9 11 hea
+* 1752 7 9 venly 
+* 1760 7 7 hea
+* 1768 3 9 ~
+* 1772 3 7 ~
+* 1776 3 9 ~
+* 1780 3 7 ~
+* 1784 3 9 ~
+* 1788 3 7 ~
+* 1792 3 9 ~
+* 1796 11 13 ~
+* 1808 10 11 ~
+* 1819 45 11 rt 
+- 1866
+: 2328 3 9 And 
+: 2332 4 9 we 
+: 2337 21 9 run 
+: 2359 3 9 with 
+: 2363 3 9 a 
+: 2367 7 13 lone
+: 2375 6 16 ly 
+: 2382 5 7 heart 
+- 2388
+: 2388 4 7 And 
+: 2393 6 9 we 
+: 2400 21 9 run 
+: 2422 3 9 for 
+: 2426 4 9 this 
+: 2431 5 13 ki
+: 2437 9 16 lling 
+: 2447 4 7 love 
+- 2452
+: 2452 6 7 And 
+: 2459 4 7 we 
+: 2464 15 9 ru
+: 2480 16 9 n 
+: 2500 4 14 till 
+: 2505 4 13 the 
+: 2510 7 11 hea
+: 2518 6 9 vens 
+: 2525 1 9 a
+: 2527 8 7 bo
+: 2536 3 9 ~
+: 2540 3 7 ~
+: 2544 3 9 ~
+: 2548 3 7 ~
+: 2552 3 9 ~
+: 2556 2 7 ~
+: 2559 4 9 ~
+: 2564 11 13 ~
+: 2576 6 11 ve 
+- 2583
+: 2584 3 9 Yeah, 
+: 2588 4 7 we 
+: 2593 19 9 run, 
+: 2613 3 9 run
+: 2617 4 9 ning 
+: 2622 7 13 in 
+: 2630 7 11 the 
+: 2638 5 11 dark 
+- 2644
+: 2644 4 9 And 
+: 2649 6 7 we 
+: 2656 20 9 run 
+: 2677 4 9 till 
+: 2682 4 9 we 
+: 2687 9 13 fall 
+: 2697 6 11 a
+: 2704 3 11 part 
+- 2708
+: 2708 4 9 And 
+: 2713 6 7 we 
+: 2720 15 9 ru
+: 2736 18 4 n 
+: 2755 5 14 till 
+: 2761 4 13 the 
+: 2766 8 11 hea
+: 2775 5 9 vens 
+: 2781 1 9 a
+: 2783 8 7 bo
+: 2792 3 9 ~
+: 2796 3 7 ~
+: 2800 3 9 ~
+: 2804 3 7 ~
+: 2808 3 9 ~
+: 2812 3 7 ~
+: 2816 3 9 ~
+: 2820 11 13 ~
+: 2832 3 11 ~
+: 2836 3 11 ~
+: 2840 3 4 ~
+F 2844 53 4 ve 
+- 2899
+: 3094 4 9 And 
+: 3099 4 9 we 
+: 3104 23 9 run 
+: 3128 4 9 with 
+: 3133 2 9 a 
+: 3136 5 13 lone
+: 3142 8 16 ly 
+: 3151 7 7 heart 
+- 3159
+: 3160 3 7 And 
+: 3164 3 9 we 
+: 3168 24 9 run 
+: 3193 2 9 for 
+: 3196 4 9 this 
+: 3201 5 13 ki
+: 3207 6 16 lling 
+: 3214 5 7 love 
+- 3220
+: 3220 6 7 And 
+: 3227 5 9 we 
+: 3233 33 9 long 
+: 3267 6 14 for 
+: 3274 4 13 a 
+: 3279 9 11 hea
+: 3289 7 9 venly 
+: 3297 6 7 hea
+: 3304 3 9 ~
+: 3308 3 7 ~
+: 3312 3 9 ~
+: 3316 3 7 ~
+: 3320 3 9 ~
+: 3324 3 7 ~
+: 3328 3 9 ~
+: 3332 11 13 ~
+: 3344 12 11 ~
+F 3357 35 11 rt 
+P2
+F 1326 4 0 Don’t 
+F 1331 4 0 blink, 
+F 1336 3 0 you’ll 
+F 1340 2 0 miss 
+F 1343 3 0 it 
+- 1348
+F 1359 3 0 Lift 
+F 1363 3 0 up 
+F 1367 3 0 your 
+F 1371 5 0 head 
+- 1378
+F 1393 1 0 We 
+F 1395 3 0 got
+F 1398 2 0 ta 
+F 1401 2 0 get 
+F 1404 7 0 gone, 
+- 1413
+F 1416 7 0 Yeah, 
+F 1424 2 0 we 
+F 1427 4 0 out
+F 1431 3 0 ta 
+F 1435 7 0 here! 
+- 1444
+F 1456 2 0 Don’t 
+F 1459 4 0 blink, 
+F 1464 2 0 you’ll 
+F 1467 3 0 miss 
+F 1471 5 0 it 
+- 1478
+F 1487 3 0 Lift 
+F 1491 3 0 up 
+F 1495 3 0 your 
+F 1499 9 0 head 
+- 1510
+F 1520 2 0 Too 
+F 1523 4 0 late, 
+F 1528 3 0 we’re 
+F 1532 8 0 gone 
+- 1542
+F 1544 8 0 Yeah, 
+F 1553 2 0 we 
+F 1556 4 0 out
+F 1560 3 0 ta 
+F 1564 12 0 here! 
+- 1578
+F 1822 4 0 Imma 
+F 1827 4 0 break 
+F 1832 3 0 these 
+F 1836 6 0 chains 
+- 1843
+F 1844 2 0 Ran 
+F 1847 2 0 through 
+F 1850 1 0 the 
+F 1852 4 0 rain 
+- 1857
+F 1858 1 0 Never 
+F 1860 3 0 look 
+F 1864 3 0 back, 
+F 1868 2 0 never 
+F 1871 4 0 quit 
+- 1875
+F 1875 4 0 Work 
+F 1880 1 0 through 
+F 1882 1 0 the 
+F 1884 3 0 pain 
+- 1888
+F 1889 2 0 This 
+F 1892 3 0 blood 
+F 1896 1 0 in 
+F 1898 1 0 my 
+F 1900 3 0 veins 
+F 1904 2 0 run 
+F 1907 4 0 cold 
+- 1911
+F 1911 2 0 When 
+F 1914 1 0 I 
+F 1916 3 0 think 
+F 1920 1 0 it’ll 
+F 1922 4 0 never 
+F 1927 1 0 be 
+F 1929 1 0 the 
+F 1931 2 0 same 
+- 1934
+F 1935 2 0 But 
+F 1938 1 0 I 
+F 1940 2 0 never 
+F 1943 4 0 lose 
+F 1948 3 0 hope 
+- 1950
+F 1950 2 0 This 
+F 1953 2 0 is 
+F 1956 2 0 MY 
+F 1959 4 0 time 
+F 1964 3 0 now! 
+- 1969
+F 1972 2 0 No 
+F 1975 4 0 time 
+F 1980 1 0 for 
+F 1982 5 0 tears 
+- 1985
+F 1985 6 0 Cele
+F 1991 4 0 brate 
+- 1994
+F 1994 2 0 Put 
+F 1997 2 0 it 
+F 2000 1 0 in 
+F 2002 1 0 the 
+F 2004 2 0 air 
+F 2007 4 0 right 
+F 2012 3 0 now! 
+- 2015
+F 2015 3 0 Never 
+F 2019 4 0 back 
+F 2024 3 0 down 
+- 2028
+F 2028 1 0 You 
+F 2030 1 0 could 
+F 2032 3 0 never 
+F 2036 2 0 wear 
+F 2039 4 0 my 
+F 2044 3 0 crown 
+- 2048
+F 2048 1 0 ’Cause 
+F 2050 2 0 it 
+F 2053 3 0 weighs 
+F 2057 2 0 too 
+F 2060 4 0 much 
+- 2063
+F 2063 1 0 And 
+F 2065 1 0 I 
+F 2067 4 0 crush 
+- 2072
+F 2072 1 0 Eve
+F 2073 2 0 ry 
+F 2076 1 0 mu
+F 2077 3 0 thar
+F 2080 1 0 fuc
+F 2081 2 0 kin’ 
+F 2084 4 0 thing 
+F 2089 2 0 I 
+F 2092 4 0 touch 
+- 2098
+F 2101 1 0 This 
+F 2103 1 0 is 
+F 2105 5 0 love 
+- 2109
+F 2109 1 0 I’ve 
+F 2111 3 0 never 
+F 2115 3 0 loved 
+F 2119 3 0 so 
+F 2123 5 0 much! 
+- 2130
+F 2131 2 0 Get 
+F 2134 3 0 in
+F 2137 3 0 vo
+F 2140 2 0 ~lved 
+- 2142
+F 2142 3 0 Make 
+F 2146 1 0 the 
+F 2148 2 0 world 
+F 2151 4 0 stand 
+F 2156 4 0 up! 
+- 2162
+F 2163 3 0 Give 
+F 2167 2 0 my 
+F 2170 3 0 life 
+- 2173
+F 2173 2 0 Be 
+F 2175 2 0 fore 
+F 2178 1 0 I 
+F 2180 2 0 ever 
+F 2183 4 0 give 
+F 2188 4 0 up 
+- 2193
+F 2194 4 0 ’Name 
+F 2199 2 0 in 
+F 2202 4 0 lights’, 
+F 2207 1 0 you 
+F 2209 3 0 lost 
+F 2213 2 0 all 
+F 2216 2 0 my 
+F 2219 7 0 trust 
+- 2226
+F 2226 3 0 Now 
+F 2230 3 0 it’s 
+F 2234 2 0 time 
+F 2237 2 0 to 
+F 2240 3 0 face 
+F 2244 2 0 all 
+F 2247 2 0 of 
+F 2250 2 0 us 
+- 2254
+F 2256 1 0 Get 
+F 2258 1 0 in 
+F 2260 3 0 line 
+F 2264 2 0 ’cause 
+F 2267 1 0 they 
+F 2269 2 0 cal
+F 2271 3 0 lin’ 
+F 2275 2 0 us 
+- 2278
+F 2279 2 0 And 
+F 2282 1 0 it 
+F 2284 4 0 feels 
+F 2289 2 0 so 
+F 2292 3 0 mar
+F 2295 3 0 ve
+F 2298 4 0 lous 
+- 2303
+F 2304 3 0 Just 
+F 2308 2 0 take 
+F 2311 2 0 my 
+F 2314 2 0 hand 
+F 2317 2 0 and 
+F 2320 10 0 RUN! 
+- 2332
+F 2828 4 0 Yeah, 
+F 2833 2 0 we 
+F 2836 5 0 out
+F 2841 2 0 ta 
+F 2844 8 0 here! 
+- 2854
+F 2864 3 0 Don’t 
+F 2868 4 0 blink, 
+F 2873 2 0 you’ll 
+F 2876 3 0 miss 
+F 2880 4 0 it 
+- 2886
+F 2896 3 0 Lift 
+F 2900 3 0 up 
+F 2904 3 0 your 
+F 2908 8 0 head 
+- 2918
+F 2929 2 0 We 
+F 2932 2 0 got 
+F 2934 2 0 ta 
+F 2937 2 0 get 
+F 2940 8 0 gone 
+- 2950
+F 2952 7 0 Yeah, 
+F 2960 3 0 we 
+F 2964 4 0 out
+F 2968 2 0 ta 
+F 2971 5 0 here! 
+- 2978
+F 2992 3 0 Don’t 
+F 2996 4 0 blink, 
+F 3001 2 0 you’ll 
+F 3004 3 0 miss 
+F 3008 4 0 it 
+- 3014
+F 3022 4 0 Lift 
+F 3027 3 0 up 
+F 3031 4 0 your 
+F 3036 8 0 head 
+- 3046
+F 3055 3 0 Too 
+F 3059 3 0 late, 
+F 3063 4 0 we’re 
+F 3068 8 0 gone 
+- 3078
+F 3081 7 0 Yeah, 
+F 3089 3 0 we 
+F 3093 3 0 out 
+F 3096 4 0 ta 
+F 3101 9 0 here! 
+- 3112
+F 3376 3 0 Don’t 
+F 3380 3 0 blink, 
+F 3384 3 0 you’ll 
+F 3388 3 0 miss 
+F 3392 2 0 it! 
+- 3396
+F 3408 4 0 Lift 
+F 3413 2 0 up 
+F 3416 3 0 your 
+F 3420 6 0 head 
+- 3428
+F 3440 2 0 We 
+F 3443 3 0 got 
+F 3446 2 0 ta 
+F 3449 2 0 get 
+F 3452 8 0 gone 
+- 3462
+F 3465 5 0 Yeah, 
+F 3471 5 0 we 
+F 3477 3 0 out
+F 3480 3 0 ta 
+F 3484 8 0 here! 
+- 3494
+F 3504 2 0 Don’t 
+F 3507 4 0 blink, 
+F 3512 3 0 you’ll 
+F 3516 3 0 miss 
+F 3520 4 0 it 
+- 3526
+F 3535 5 0 Lift 
+F 3541 3 0 up 
+F 3545 2 0 your 
+F 3548 8 0 head 
+- 3558
+F 3568 2 0 Too 
+F 3571 5 0 late, 
+F 3577 3 0 we’re 
+F 3581 7 0 gone 
+- 3590
+F 3594 6 0 Yeah, 
+F 3601 3 0 we 
+F 3605 4 0 out
+F 3609 3 0 ta 
+F 3613 7 0 here! 
+E

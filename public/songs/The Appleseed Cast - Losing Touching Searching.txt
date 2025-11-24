@@ -1,0 +1,200 @@
+#ARTIST:The Appleseed Cast
+#TITLE:Losing Touching Searching
+#MP3:The Appleseed Cast - Losing Touching Searching.mp3
+#CREATOR:daggeg
+#GENRE:Rock
+#YEAR:2003
+#LANGUAGE:English
+#BPM:359.56
+#GAP:30900
+#VIDEO:a=21k8ywbxmQY,co=two-conversations-583ce9a4352dc.jpg
+: 0 3 11 There’s 
+: 6 6 11 no 
+: 16 29 7 sign 
+- 47
+: 85 3 11 There’s 
+: 90 6 11 no 
+: 101 28 7 sign 
+- 131
+: 170 3 11 There’s 
+: 175 6 11 no 
+: 186 32 7 chance 
+- 220
+: 222 6 7 We’ll 
+: 232 14 9 get 
+: 249 7 9 there 
+* 260 7 7 on 
+* 271 29 7 time 
+- 302
+: 379 3 7 We 
+: 383 3 9 coul
+: 387 3 7 dn’t 
+: 399 8 9 find 
+: 414 3 7 the 
+: 419 9 11 place 
+: 432 5 7 that 
+: 442 17 7 night 
+- 461
+: 553 3 9 We 
+: 558 5 7 were 
+: 568 14 9 lost 
+: 586 3 7 and 
+: 591 10 9 stuck 
+: 607 4 7 to
+: 613 6 11 ge
+: 621 11 7 ther 
+- 634
+: 724 3 9 We 
+: 730 5 7 were 
+: 740 14 9 lost 
+: 762 5 11 with 
+: 772 6 7 our
+: 782 22 7 selves 
+- 806
+: 889 3 7 And 
+: 893 3 9 we 
+* 899 6 7 were 
+* 909 16 9 lost 
+* 933 5 9 with 
+* 942 6 7 each 
+* 954 7 11 o
+* 963 14 7 ther 
+- 979
+: 1405 4 14 Where’s 
+: 1411 3 14 this 
+: 1421 5 14 place 
+: 1438 3 9 we 
+: 1443 7 9 need 
+: 1459 3 7 to 
+: 1464 14 7 be? 
+- 1480
+: 1575 4 14 Where’s 
+: 1581 3 14 this 
+: 1591 6 14 place 
+: 1608 3 9 we 
+: 1614 7 9 need 
+: 1628 3 7 to 
+: 1634 14 7 see? 
+- 1650
+: 1705 3 11 There’s 
+: 1710 6 11 no 
+: 1721 28 7 sign 
+- 1751
+: 1790 3 11 There’s 
+* 1795 6 11 no 
+: 1806 28 7 sign 
+- 1836
+: 1875 3 11 There’s 
+* 1880 6 11 no 
+: 1891 32 7 chance 
+- 1925
+: 1928 6 7 We’ll 
+: 1937 14 9 get 
+: 1954 7 9 there 
+: 1965 7 7 on 
+: 1975 29 7 time 
+- 2006
+: 2083 2 7 If 
+: 2088 3 9 we 
+: 2093 1 7 could
+: 2095 2 7 ’ve 
+: 2102 15 9 found 
+: 2121 2 9 a
+: 2125 10 11 no
+: 2137 4 7 ther 
+: 2146 13 7 place 
+- 2161
+: 2253 3 7 To 
+: 2257 5 9 see 
+: 2264 4 7 our
+* 2274 12 9 selves 
+: 2291 2 9 and 
+* 2296 7 11 crack 
+: 2311 3 7 the 
+: 2317 18 7 code 
+- 2337
+: 2424 3 7 We 
+: 2429 3 9 could
+: 2433 2 7 ’ve 
+: 2444 13 9 made 
+: 2461 2 9 it 
+: 2465 10 11 then 
+: 2481 3 7 I 
+: 2486 22 7 know 
+- 2510
+: 2594 3 7 But 
+: 2599 3 9 there’s 
+: 2604 6 7 no 
+: 2614 14 9 signs 
+: 2635 6 11 on 
+: 2645 7 7 that 
+: 2656 25 7 road 
+- 2683
+: 3195 15 19 Caught 
+: 3216 5 19 in 
+: 3227 3 11 this 
+: 3232 11 12 place 
+: 3250 3 11 we 
+: 3255 22 7 know 
+- 3279
+: 3363 2 11 With 
+: 3367 11 19 no 
+: 3380 14 19 signs 
+: 3399 3 11 of 
+: 3404 7 12 let
+: 3414 5 11 ting 
+: 3424 23 7 go 
+- 3449
+: 3532 2 11 Your 
+* 3535 10 19 heart 
+* 3548 2 16 is 
+* 3552 10 19 just 
+: 3567 3 11 a
+: 3572 7 12 no
+: 3582 5 11 ther 
+: 3593 23 7 road 
+- 3618
+: 3700 3 11 A
+: 3705 9 19 no
+: 3717 3 16 ther 
+: 3722 10 19 place 
+: 3738 4 11 that 
+: 3744 6 12 I 
+: 3753 4 11 can’t 
+: 3764 23 7 go 
+- 3789
+: 3876 7 19 So 
+: 3888 3 16 we 
+: 3892 10 19 sit
+: 3908 4 11 and 
+: 3914 8 12 con
+: 3925 6 11 tem
+: 3936 23 7 plate 
+- 3961
+: 4043 3 11 The 
+: 4048 6 19 world’s 
+: 4059 3 16 be
+: 4063 7 19 come 
+: 4080 3 11 a 
+: 4085 5 12 big 
+: 4094 7 11 mis
+: 4105 12 7 take 
+- 4119
+: 4214 2 11 And 
+: 4218 6 19 here 
+: 4228 3 16 we 
+: 4233 9 19 are 
+: 4257 5 12 in 
+: 4266 5 11 the 
+: 4276 6 11 midd
+: 4285 7 7 le 
+- 4294
+: 4387 8 19 Try
+: 4396 2 19 ing 
+: 4399 2 16 to 
+* 4405 12 19 work 
+: 4428 5 12 out 
+: 4437 5 11 this 
+* 4447 6 11 ridd
+* 4455 7 7 le 
+E

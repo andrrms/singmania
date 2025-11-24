@@ -1,0 +1,247 @@
+#ARTIST:Fit For Rivals
+#TITLE:Crash
+#MP3:Fit For Rivals - Crash.mp3
+#CREATOR:Swanton
+#YEAR:2009
+#LANGUAGE:English
+#BPM:327.76
+#GAP:34600
+#VIDEO:v=vc-b-t6RCvc,co=steady-damage-553c0515de867.jpg
+: 0 5 -4 Don’t 
+: 8 8 5 know 
+: 20 5 -4 where 
+: 27 5 6 I’m 
+: 35 10 -5 go
+: 47 5 -4 ing. 
+- 54
+* 55 2 8 Every
+* 60 2 8 body’s 
+: 66 5 -5 run
+: 74 5 5 ning, 
+: 82 7 -5 every
+: 92 8 -5 body’s 
+: 103 6 -5 run
+: 111 7 5 ning. 
+- 120
+: 126 6 -3 Come 
+: 136 6 6 back, 
+: 147 2 -5 af
+: 152 2 -5 ter 
+: 157 5 -5 all 
+: 165 2 4 is 
+* 169 4 -5 bro
+* 175 6 -4 ken. 
+- 182
+: 183 2 -5 Every
+: 187 3 -5 thing 
+: 192 2 -4 is 
+* 197 2 0 bur
+* 202 6 5 ning, 
+: 211 6 -4 no 
+: 218 2 -5 one 
+: 223 2 -5 is 
+: 227 2 -5 re
+: 231 5 -5 tur
+: 237 7 -4 ning. 
+- 245
+: 246 6 -3 Step 
+* 255 7 6 back, 
+: 270 6 -3 step 
+* 279 9 6 back, 
+: 294 3 -4 every
+: 300 3 -4 body 
+: 305 8 -4 step 
+: 317 9 -5 back, 
+: 334 6 -4 step 
+: 343 6 -5 back. 
+- 351
+* 357 3 6 It’s 
+* 362 2 5 time 
+* 367 2 5 to 
+* 370 2 5 pick 
+: 374 2 5 up 
+: 379 5 -5 the 
+: 386 5 5 slack, 
+: 396 6 -5 the 
+: 405 8 5 slack, 
+: 422 2 -4 you 
+: 427 2 -4 ought 
+: 431 2 -4 to 
+: 435 32 -4 know. 
+- 469
+* 501 61 -4 Save 
+* 566 15 -5 me, 
+: 587 4 5 from 
+: 593 2 5 this 
+: 597 4 -4 wick
+: 604 3 -5 ed 
+: 609 3 5 per
+: 614 4 -4 son 
+: 620 4 -4 I’ve 
+: 626 2 5 be
+: 630 13 -4 come. 
+- 645
+: 650 6 5 As 
+: 658 2 6 the 
+* 662 30 -4 world 
+* 694 17 -5 ~, 
+: 718 6 4 comes 
+: 727 13 -4 cra
+: 742 13 -4 shing. 
+- 757
+: 766 6 -4 Don’t 
+: 774 8 5 know 
+: 786 5 -4 why 
+: 795 6 6 I’m 
+: 803 9 -4 craw
+: 814 6 -3 ling. 
+- 822
+* 823 3 8 Every
+* 828 2 8 body’s 
+: 833 5 -5 run
+: 840 5 5 ning, 
+: 850 6 -5 every
+: 859 8 -5 body’s 
+: 869 6 -5 run
+: 878 7 5 ning. 
+- 887
+: 893 8 -4 Re
+: 903 7 5 spun 
+: 914 5 -5 back 
+: 922 2 6 to 
+: 926 3 6 where 
+: 931 2 6 there’s 
+: 935 5 -5 some
+: 942 7 -4 thing. 
+- 950
+: 951 2 5 Every
+: 955 2 5 thing 
+: 959 4 -5 was 
+* 965 4 6 fal
+* 970 5 4 ling, 
+: 978 6 -5 trust 
+: 986 2 6 in 
+: 991 2 6 what 
+: 996 5 6 was 
+: 1003 4 -5 no
+: 1009 5 -4 thing. 
+- 1015
+: 1016 6 -3 Step 
+* 1023 7 6 back, 
+: 1038 6 -3 step 
+* 1047 6 6 back, 
+: 1061 6 -4 every
+: 1070 6 -4 body 
+: 1078 6 -4 step 
+: 1086 8 -5 back, 
+: 1101 7 -4 step 
+: 1111 7 -5 back. 
+- 1120
+: 1122 4 6 It’s 
+: 1128 2 5 time 
+: 1133 3 5 to 
+: 1138 2 5 pick 
+: 1143 2 5 up 
+: 1147 3 -5 the 
+* 1152 6 5 slack, 
+: 1163 7 -5 the 
+* 1173 6 5 slack, 
+: 1187 4 -4 you 
+: 1194 2 -4 ought 
+: 1198 2 -4 to 
+: 1202 35 -4 know. 
+- 1239
+* 1268 63 -4 Save 
+* 1334 15 -5 me, 
+: 1353 4 5 from 
+: 1360 4 5 this 
+: 1366 4 -4 wick
+: 1371 3 -5 ed 
+: 1377 4 5 per
+: 1382 4 -4 son 
+: 1387 4 -5 I’ve 
+: 1393 3 5 be
+: 1398 11 -4 come. 
+- 1411
+: 1416 6 5 As 
+: 1424 3 6 the 
+* 1429 45 -4 world, 
+: 1485 8 4 comes 
+: 1494 13 -4 cra
+: 1509 12 -4 shing. 
+- 1523
+* 1524 61 -4 Save 
+* 1589 16 -5 me, 
+: 1610 5 5 from 
+: 1618 3 5 this 
+: 1622 3 -4 wick
+: 1627 3 -5 ed 
+: 1632 4 5 per
+: 1637 3 -4 son 
+: 1642 5 -5 I’ve 
+: 1649 3 5 be
+: 1653 12 -4 come. 
+- 1667
+: 1673 5 3 As 
+: 1681 3 6 the 
+* 1685 49 -4 world, 
+: 1740 8 4 comes 
+: 1750 13 -4 cra
+: 1765 11 -4 shing. 
+- 1778
+* 2355 62 -4 Save 
+* 2421 17 -5 me, 
+: 2442 4 5 from 
+: 2448 2 5 this 
+: 2452 4 -4 wick
+: 2458 3 -5 ed 
+: 2463 4 5 person 
+: 2469 6 -5 I’ve 
+: 2478 2 5 be
+: 2483 12 -4 come. 
+- 2497
+: 2504 5 3 As 
+: 2512 2 6 the 
+* 2516 47 -4 world, 
+: 2571 7 4 comes 
+: 2580 13 -4 cra
+: 2595 13 -4 shing. 
+- 2610
+* 2612 61 -4 Save 
+* 2675 17 -5 me, 
+: 2696 4 5 from 
+: 2704 2 5 this 
+: 2708 4 -4 wick
+: 2714 3 -5 ed 
+: 2719 3 5 per
+: 2724 4 -4 son 
+: 2730 4 -4 I’ve 
+: 2735 3 5 be
+: 2740 12 -4 come. 
+- 2754
+: 2759 6 3 As 
+: 2768 2 6 the 
+* 2771 45 -4 world, 
+: 2827 8 4 comes 
+: 2836 13 -4 cra
+: 2852 13 -4 shing. 
+- 2867
+* 2868 60 -4 Save 
+* 2932 15 -5 me, 
+: 2953 4 5 from 
+: 2959 4 5 this 
+: 2965 4 -4 wick
+: 2970 4 -5 ed 
+: 2975 4 5 per
+: 2980 4 -4 son 
+: 2986 4 -5 I’ve 
+: 2991 3 5 be
+: 2996 12 -4 come. 
+- 3010
+: 3017 5 3 As 
+: 3024 2 6 the 
+* 3028 48 -4 world, 
+: 3084 6 4 comes 
+: 3092 13 -4 cra
+: 3107 15 -4 shing. 
+E

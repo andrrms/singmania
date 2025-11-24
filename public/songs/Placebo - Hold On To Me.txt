@@ -1,0 +1,452 @@
+#ARTIST:Placebo
+#TITLE:Hold On To Me
+#MP3:Placebo - Hold On To Me.mp3
+#CREATOR:prgoenner
+#YEAR:2013
+#LANGUAGE:English
+#BPM:367.82
+#GAP:21190
+#VIDEO:v=x6HWFWsTrRY,co=loud-like-love-51f7e5fada438.jpg,bg=placebo-4efe38688b3a9.jpg
+: 0 6 5 Who 
+: 8 7 5 let 
+: 16 2 5 the 
+: 20 12 5 cat 
+: 34 6 5 out 
+: 42 6 3 of 
+: 49 2 1 the 
+: 53 19 1 bag? 
+- 74
+: 130 4 -2 Who 
+: 136 8 5 told 
+: 145 2 5 the 
+: 149 12 5 world 
+: 162 2 5 that 
+: 167 8 1 I 
+: 178 2 1 was 
+: 184 9 1 ol
+: 195 23 -2 der? 
+- 220
+: 271 4 5 Who 
+: 277 10 8 laughed 
+: 290 2 8 at 
+: 294 6 1 all 
+: 302 4 1 I 
+: 309 8 1 ha
+: 321 11 0 d? 
+- 334
+: 400 4 -2 Who 
+: 406 8 5 said 
+: 416 3 5 the 
+: 421 10 1 race 
+: 434 3 1 was 
+* 439 8 1 o
+* 449 6 -3 ve
+* 458 16 -2 r? 
+- 476
+: 512 4 5 I 
+: 517 10 5 am 
+: 529 1 5 a 
+: 534 10 5 small 
+: 546 3 5 and 
+: 551 8 1 gent
+: 560 10 1 le 
+: 574 9 1 ma
+: 586 8 0 n 
+- 596
+: 619 12 1 Who 
+: 641 5 5 car
+: 647 8 5 ries 
+: 657 2 5 the 
+: 661 10 5 world 
+: 674 2 5 u
+: 678 5 3 pon 
+: 686 4 1 his 
+* 692 12 1 shoul
+* 706 26 -2 ders 
+- 734
+* 775 7 5 Kin
+* 783 8 5 dly 
+: 792 8 8 lend 
+: 801 5 8 a 
+: 807 8 1 help
+: 816 11 1 ing 
+: 831 8 1 ha
+: 840 9 0 nd 
+- 851
+* 942 6 1 Come 
+* 949 7 1 o
+* 961 24 -2 ver 
+- 987
+: 995 3 -2 And 
+: 1001 4 5 hold 
+: 1009 12 3 on
+: 1024 3 5 to 
+* 1029 20 -2 me 
+- 1051
+: 1063 5 5 Hold 
+: 1070 16 3 on
+: 1088 3 5 to 
+* 1094 16 -4 me 
+- 1112
+: 1123 3 -4 And 
+: 1128 4 5 hold 
+: 1135 13 3 on
+: 1151 4 5 to 
+* 1159 16 -5 me 
+- 1177
+* 1195 5 1 Hold 
+* 1202 13 0 o
+* 1217 20 1 n 
+- 1239
+: 1252 3 -2 And 
+: 1257 15 3 my 
+: 1279 3 -2 be
+: 1283 12 5 hav
+: 1296 8 5 ior’s 
+: 1306 7 5 hard 
+: 1314 6 5 to 
+: 1322 6 3 un
+: 1330 7 1 der
+: 1341 12 1 sta
+: 1357 11 0 nd 
+- 1370
+: 1384 4 1 When 
+: 1390 12 0 I’m 
+: 1414 9 5 like 
+: 1424 2 5 a 
+: 1427 11 5 phone 
+: 1439 4 5 with 
+: 1446 7 1 no 
+: 1455 4 1 con
+: 1460 8 1 nec
+: 1471 25 -2 tion 
+- 1498
+: 1539 5 1 But 
+: 1545 3 1 I’m 
+: 1549 8 1 still 
+: 1558 4 1 do
+: 1563 7 1 ing 
+: 1573 6 1 all 
+* 1581 6 1 I
+* 1589 5 3 ~ 
+: 1597 23 0 can 
+- 1622
+: 1661 5 -2 To 
+: 1669 11 5 try 
+: 1681 4 5 and 
+: 1689 4 5 get 
+: 1697 3 5 me 
+: 1703 6 3 some 
+: 1711 4 1 re
+: 1717 7 1 dem
+* 1726 8 -4 ti
+* 1736 6 -2 o
+* 1746 15 1 n 
+- 1763
+: 1785 4 -2 And 
+: 1791 4 1 I’m 
+: 1798 7 1 kne
+: 1806 4 0 e 
+: 1812 11 1 deep 
+: 1825 3 0 in 
+: 1831 8 1 sink
+: 1843 16 3 ing 
+: 1862 25 0 sand 
+- 1889
+: 1928 5 5 Cry
+: 1934 4 5 ing 
+: 1940 8 5 out 
+: 1950 3 5 for 
+: 1954 8 5 your 
+: 1968 3 5 at
+: 1973 7 5 ten
+: 1982 24 5 tion 
+- 2008
+: 2054 8 5 Kin
+: 2063 7 5 dly 
+: 2072 7 5 lend 
+: 2081 4 5 a 
+: 2087 8 1 help
+: 2096 12 1 ing 
+: 2111 8 1 ha
+: 2121 20 3 nd 
+- 2143
+: 2190 4 -2 For 
+: 2196 9 5 once 
+: 2208 3 5 de
+: 2213 8 1 fy 
+: 2224 4 1 con
+: 2230 6 1 ven
+: 2239 4 -3 ti
+: 2246 16 -2 on 
+- 2264
+: 2275 2 -2 And 
+: 2280 4 5 hold 
+: 2287 14 3 on
+: 2303 3 5 to 
+* 2308 20 -2 me 
+- 2330
+: 2343 5 5 Hold 
+: 2350 14 3 on
+: 2366 4 5 to 
+* 2372 20 -4 me 
+- 2394
+: 2406 5 5 Hold 
+: 2414 13 3 on
+: 2430 4 5 to 
+* 2436 22 -5 me 
+- 2460
+* 2471 9 0 Hold 
+* 2482 12 0 o
+* 2497 23 1 n 
+- 2522
+: 2531 2 -2 And 
+: 2535 4 5 hold 
+: 2542 13 3 on
+: 2558 3 3 to 
+* 2563 20 -2 me 
+- 2585
+: 2597 6 5 Hold 
+: 2605 16 3 on
+: 2623 3 3 to 
+* 2628 16 -4 me 
+- 2646
+: 2662 5 5 Hold 
+: 2669 15 3 on
+: 2687 3 5 to 
+* 2692 20 -5 me 
+- 2714
+* 2729 7 0 Hold 
+* 2738 12 0 o
+* 2754 24 1 n 
+- 2780
+F 4369 3 0 Our 
+F 4373 10 0 task 
+F 4384 3 0 is 
+F 4388 2 0 to 
+F 4391 10 0 trans
+F 4402 6 0 form 
+F 4409 4 0 our
+F 4414 10 0 selves 
+- 4426
+F 4433 4 0 Into 
+F 4438 2 0 a
+F 4441 5 0 wak
+F 4447 6 0 ened 
+F 4454 4 0 mul
+F 4459 4 0 ti
+F 4465 1 0 di
+F 4467 3 0 men
+F 4471 3 0 sio
+F 4475 4 0 nal 
+F 4481 4 0 be
+F 4486 8 0 ings 
+- 4496
+F 4512 5 0 Thus 
+F 4518 4 0 ful
+F 4523 5 0 filling 
+F 4529 5 0 our 
+F 4535 7 0 dream 
+- 4543
+F 4543 9 0 Before 
+F 4553 5 0 4th 
+F 4559 5 0 and 
+F 4566 7 0 5th 
+F 4575 9 0 dimen
+F 4585 10 0 sions 
+- 4597
+F 4607 3 0 To 
+F 4611 3 0 the 
+F 4615 13 0 third 
+- 4630
+F 4649 2 0 It 
+F 4652 2 0 is 
+F 4655 2 0 the 
+F 4659 8 0 inner 
+F 4668 9 0 meaning 
+F 4681 2 0 be
+F 4684 4 0 tween 
+F 4689 8 0 Earth 
+F 4698 5 0 as
+F 4704 9 0 cending 
+- 4715
+F 4730 4 0 And 
+F 4735 6 0 Heaven 
+F 4742 7 0 des
+F 4750 14 0 cending 
+- 4766
+F 4784 6 0 This 
+F 4792 7 0 sacred 
+F 4800 15 0 magic 
+- 4817
+F 4818 4 0 Has 
+F 4823 10 0 already 
+F 4834 4 0 been 
+F 4839 11 0 achieved 
+F 4851 4 0 by 
+F 4856 7 0 many 
+F 4865 4 0 of 
+F 4870 4 0 us 
+- 4876
+F 4895 3 0 The 
+F 4899 14 0 nameless 
+F 4914 10 0 others 
+F 4925 3 0 are 
+F 4929 13 0 awaking 
+F 4946 12 0 daily 
+- 4960
+F 4973 3 0 As 
+F 4977 4 0 the 
+F 4982 12 0 cause 
+F 4995 7 0 stead
+F 5003 11 0 fastly 
+F 5020 13 0 intensi
+F 5034 13 0 fies 
+- 5049
+F 5071 5 0 We 
+F 5077 2 0 are 
+F 5080 3 0 the 
+F 5084 7 0 claiming 
+- 5092
+F 5093 4 0 Of 
+F 5098 14 0 divine 
+F 5113 7 0 birth
+F 5121 5 0 right 
+F 5128 4 0 and 
+F 5133 8 0 heri
+F 5142 8 0 tage 
+- 5152
+F 5166 15 0 Remembering 
+F 5183 4 0 that 
+F 5188 3 0 we 
+F 5192 3 0 are 
+F 5196 15 0 angels 
+F 5213 12 0 incar
+F 5226 9 0 nate 
+- 5237
+F 5247 12 0 Vast 
+F 5260 17 0 starred 
+F 5278 9 0 beings 
+F 5288 4 0 of 
+F 5293 13 0 light 
+- 5308
+F 5316 6 0 We’re 
+F 5323 4 0 no 
+F 5328 8 0 longer 
+F 5337 17 0 limited 
+F 5355 4 0 and 
+F 5361 8 0 bound 
+- 5370
+F 5371 2 0 By 
+F 5374 4 0 the 
+F 5379 14 0 illusions 
+F 5394 4 0 of 
+F 5399 11 0 time, 
+F 5423 18 0 space 
+F 5448 6 0 and 
+F 5456 12 0 matter 
+- 5470
+F 5491 5 0 We 
+F 5497 3 0 are 
+F 5501 7 0 ready 
+F 5510 3 0 to 
+F 5514 7 0 join 
+F 5522 4 0 as 
+F 5527 17 0 unimensions 
+F 5547 3 0 of 
+F 5551 2 0 the 
+F 5554 7 0 one 
+- 5563
+F 5584 3 0 The 
+F 5588 6 0 new 
+F 5595 6 0 door
+F 5602 9 0 ways 
+F 5612 6 0 cannot 
+F 5619 4 0 be 
+F 5624 10 0 opend 
+F 5635 3 0 or 
+F 5639 8 0 passed 
+- 5649
+F 5653 6 0 By 
+F 5660 7 0 any 
+F 5668 4 0 of 
+F 5673 5 0 us 
+- 5680
+F 5685 11 0 Still 
+F 5697 21 0 operating 
+F 5727 7 0 as 
+F 5735 17 0 individual 
+F 5753 9 0 units 
+F 5763 5 0 of 
+F 5769 18 0 consciousness 
+- 5789
+F 5812 3 0 They 
+F 5816 3 0 are 
+F 5820 4 0 brought 
+F 5825 5 0 into 
+F 5831 6 0 many
+F 5838 18 0 festation 
+- 5858
+F 5859 4 0 From 
+F 5864 3 0 our 
+F 5868 17 0 unified 
+F 5886 18 0 presence 
+- 5906
+F 5916 5 0 Through 
+F 5922 3 0 our 
+F 5926 12 0 focused 
+F 5939 17 0 intent 
+- 5958
+F 5972 3 0 Through 
+F 5976 4 0 our 
+F 5981 10 0 total 
+F 5993 13 0 commitment 
+- 6007
+F 6007 3 0 To 
+F 6011 12 0 serving 
+F 6025 2 0 a 
+F 6028 6 0 higher 
+F 6035 6 0 pur
+F 6042 7 0 pose 
+- 6051
+F 6093 6 0 This 
+F 6100 2 0 is 
+F 6103 3 0 the 
+F 6107 8 0 bridge 
+- 6116
+F 6117 3 0 To 
+F 6121 2 0 an 
+F 6124 11 0 entirely 
+F 6136 11 0 different 
+F 6148 8 0 energy 
+F 6157 11 0 pattern 
+- 6170
+F 6231 4 0 It 
+F 6236 4 0 is 
+F 6241 2 0 the 
+F 6244 9 0 step 
+F 6254 9 0 beyond 
+F 6264 3 0 the 
+F 6268 6 0 mound 
+- 6275
+F 6275 11 0 Dimensional 
+F 6287 4 0 uni
+F 6293 10 0 vers 
+- 6305
+F 6373 2 0 It 
+F 6376 3 0 is 
+F 6381 1 0 a 
+F 6383 9 0 journey 
+F 6393 5 0 into 
+F 6399 3 0 the 
+F 6403 12 0 unknown 
+- 6417
+F 6431 4 0 Which 
+F 6436 4 0 shall 
+F 6441 4 0 lead 
+F 6446 6 0 us 
+F 6456 6 0 ever 
+F 6463 9 0 closer 
+F 6473 3 0 to 
+F 6477 13 0 home 
+E

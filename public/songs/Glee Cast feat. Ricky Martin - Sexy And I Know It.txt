@@ -1,0 +1,523 @@
+#ARTIST:Glee Cast feat. Ricky Martin
+#TITLE:Sexy And I Know It
+#MP3:Glee Cast feat. Ricky Martin - Sexy And I Know It.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Pop
+#YEAR:2012
+#LANGUAGE:English
+#BPM:260
+#GAP:260
+#VIDEO:v=RHUSh4QuBB0,co=https://gleethecovers.files.wordpress.com/2012/02/s03e12-01-sexy-and-i-know-it-07.jpg
+F 0 7 12 Un, 
+F 8 7 12 dos, 
+F 16 7 12 tres, 
+F 24 3 12 cua
+F 28 7 12 tro 
+- 37
+F 156 9 12 Yeah 
+- 167
+F 188 9 12 Yeah 
+- 199
+F 204 1 12 Cuan
+F 206 1 12 do 
+F 208 1 12 sal
+F 210 3 12 go a an
+F 214 6 12 dar, 
+- 222
+F 224 3 12 Girls 
+F 228 3 12 be 
+F 232 1 12 loo
+F 234 1 12 king 
+F 236 1 12 like 
+F 238 1 12 que 
+F 240 1 12 du
+F 242 3 12 ro es
+F 246 7 12 tá 
+- 255
+F 266 1 12 Yo 
+F 268 1 12 soy 
+F 270 1 12 el 
+F 272 1 12 can
+F 274 3 12 gri a
+F 278 6 12 quí, 
+- 286
+F 288 1 12 Wal
+F 290 1 12 king 
+F 292 1 12 on 
+F 294 1 12 the 
+F 296 3 12 street 
+F 300 1 12 in 
+F 302 1 12 my 
+F 304 1 12 new 
+F 306 3 12 la
+F 310 2 12 freak, 
+- 314
+F 316 7 12 Yeah 
+- 325
+F 332 1 12 This 
+F 334 1 12 is 
+F 336 1 12 how 
+F 338 3 12 I 
+F 342 6 12 roll, 
+- 350
+F 352 1 12 A
+F 354 1 12 ni
+F 356 3 12 mal 
+F 360 3 12 print, 
+F 364 3 12 pants 
+F 368 1 12 fue
+F 370 1 12 ra 
+F 372 1 12 con
+F 374 7 12 trol, 
+- 383
+F 386 1 12 Es
+F 388 1 12 toy 
+F 390 1 12 gui
+F 392 3 12 llao 
+F 396 1 12 con 
+F 398 1 12 mi 
+F 400 1 12 big 
+F 402 3 12 a
+F 406 4 12 fro 
+- 412
+F 414 1 12 Y 
+F 416 1 12 co
+F 418 1 12 mo 
+F 420 3 12 Bruce 
+F 424 1 12 Lee, 
+- 427
+F 428 3 12 I 
+F 432 3 12 got 
+F 436 1 12 the 
+F 438 2 12 glow, 
+- 442
+F 444 7 12 Yo 
+- 453
+: 460 3 12 Girl 
+: 464 1 7 look 
+: 466 1 7 at 
+: 468 3 7 that 
+: 472 3 7 bo
+: 476 3 7 dy 
+- 481
+: 492 3 12 Girl 
+: 496 1 7 look 
+: 498 1 7 at 
+: 500 3 7 that 
+: 504 3 7 bo
+: 508 3 7 dy 
+- 513
+: 524 3 12 Girl 
+: 528 1 7 look 
+: 530 1 7 at 
+: 532 3 7 that 
+: 536 3 7 bo
+: 540 3 7 dy 
+- 545
+F 548 1 12 I
+F 550 3 12 ~
+F 554 1 12 ~ 
+F 556 3 12 work 
+F 560 9 12 out 
+- 571
+: 588 3 12 Girl 
+: 592 1 7 look 
+: 594 1 7 at 
+: 596 3 7 that 
+: 600 3 7 bo
+: 604 3 7 dy 
+- 609
+: 620 3 12 Girl 
+: 624 1 7 look 
+: 626 1 7 at 
+* 628 3 7 that 
+: 632 3 7 bo
+: 636 3 7 dy 
+- 641
+: 652 3 12 Girl 
+: 656 1 7 look 
+: 658 1 7 at 
+: 660 3 7 that 
+: 664 3 7 bo
+: 668 3 7 dy 
+- 673
+F 676 1 12 I
+F 678 3 12 ~
+F 682 1 12 ~ 
+F 684 3 12 work 
+F 688 4 12 out 
+- 694
+F 696 3 12 Cuan
+F 700 3 12 do 
+F 704 3 12 ha
+F 708 3 12 go 
+F 712 3 12 mi 
+F 716 3 12 en
+F 720 3 12 tra
+F 724 7 12 da 
+- 733
+F 736 3 12 This 
+F 740 3 12 is 
+F 744 3 12 what 
+F 748 3 12 I 
+F 752 7 12 see 
+- 761
+F 768 3 12 To
+F 772 3 12 do el 
+F 776 3 12 mun
+F 780 3 12 do 
+F 784 3 12 pa
+F 788 1 12 ra 
+- 791
+F 792 3 12 Pa’ 
+F 796 3 12 mi
+F 800 3 12 rar
+F 804 3 12 me 
+F 808 7 12 a 
+F 816 1 12 mí 
+- 819
+F 820 3 12 I 
+F 824 7 12 got 
+F 832 3 12 pas
+F 836 3 12 sion 
+F 840 3 12 in 
+F 844 3 12 my 
+F 848 4 12 pants 
+- 854
+F 856 3 12 And 
+F 860 3 12 I 
+F 864 3 12 ain’t 
+F 868 3 12 a
+F 872 3 12 fraid 
+F 876 1 12 to 
+- 879
+F 880 3 12 Show 
+F 884 5 12 it, 
+F 892 3 12 show 
+F 896 5 12 it, 
+F 904 3 12 show 
+F 908 5 12 it, 
+F 916 3 12 show 
+F 920 5 12 it 
+- 927
+: 940 2 5 I’m 
+: 944 2 7 se
+: 948 3 7 xy 
+: 952 3 7 and 
+* 956 3 7 I 
+: 960 3 10 know 
+: 964 4 7 it 
+- 970
+: 1068 2 5 Soy 
+: 1072 2 7 se
+: 1076 3 7 xy 
+: 1080 3 7 y 
+: 1084 2 7 lo 
+: 1088 3 10 sa
+: 1092 4 7 bes 
+- 1098
+F 1212 7 12 Yo 
+- 1221
+F 1228 1 12 Va
+F 1230 1 12 ci
+F 1232 1 12 lan
+F 1234 1 12 do en 
+F 1236 1 12 el 
+F 1238 6 12 mall, 
+- 1246
+F 1248 1 12 Se
+F 1250 1 12 cu
+F 1252 1 12 ri
+F 1254 1 12 ty 
+F 1256 3 12 just 
+F 1260 3 12 can’t 
+F 1264 3 12 fight 
+F 1268 1 12 them 
+F 1270 7 12 off 
+- 1279
+F 1290 1 12 Jan
+F 1292 1 12 geo
+F 1294 1 12 ~ 
+F 1296 3 12 at 
+F 1300 1 12 the 
+F 1302 4 12 beach, 
+- 1308
+F 1310 1 12 I’m 
+F 1312 1 12 in 
+F 1314 1 12 a 
+F 1316 3 12 g-
+F 1320 3 12 tro 
+F 1324 1 12 trying 
+F 1326 1 12 to 
+F 1328 3 12 tan 
+F 1332 1 12 my 
+F 1334 7 12 cheeks 
+- 1343
+F 1356 1 12 This 
+F 1358 1 12 is 
+F 1360 1 12 how 
+F 1362 3 12 I 
+F 1366 4 12 roll, 
+- 1372
+F 1374 1 12 Va
+F 1376 3 12 mos 
+F 1380 3 12 la
+F 1384 3 12 dies 
+F 1388 3 12 it’s 
+F 1392 3 12 time 
+F 1396 1 12 to 
+F 1398 4 12 go 
+- 1404
+F 1406 1 12 Nos 
+F 1408 1 12 fui
+F 1410 1 12 mos 
+F 1412 3 12 pal’ 
+F 1416 3 12 bar, 
+F 1420 1 12 ba
+F 1422 1 12 by 
+F 1424 1 12 có
+F 1426 1 12 ge
+F 1428 1 12 lo 
+F 1430 1 12 sua
+F 1432 1 12 ve 
+- 1435
+F 1436 3 12 No 
+F 1440 3 12 shoes, 
+F 1444 3 12 no 
+F 1448 3 12 shirt, 
+F 1452 1 12 co
+F 1454 1 12 mo 
+F 1456 1 12 quie
+F 1458 1 12 ra 
+F 1460 1 12 me 
+F 1462 3 12 sir
+F 1466 1 12 ve, 
+- 1468
+F 1468 11 12 Watch 
+- 1481
+: 1484 3 12 Girl 
+: 1488 1 7 look 
+* 1490 1 7 at 
+: 1492 3 7 that 
+: 1496 3 7 bo
+: 1500 3 7 dy 
+- 1505
+: 1516 3 12 Girl 
+: 1520 1 7 look 
+: 1522 1 7 at 
+: 1524 3 7 that 
+: 1528 3 7 bo
+: 1532 3 7 dy 
+- 1537
+: 1548 3 12 Girl 
+: 1552 1 7 look 
+: 1554 1 7 at 
+: 1556 3 7 that 
+: 1560 3 7 bo
+: 1564 3 7 dy 
+- 1569
+F 1572 1 12 I
+F 1574 3 12 ~
+F 1578 1 12 ~ 
+F 1580 3 12 work 
+F 1584 4 12 out 
+- 1590
+F 1592 3 12 Cuan
+F 1596 3 12 do 
+F 1600 3 12 ha
+F 1604 3 12 go 
+F 1608 3 12 mi 
+F 1612 3 12 en
+F 1616 3 12 tra
+F 1620 7 12 da, 
+- 1629
+F 1632 3 12 This 
+F 1636 3 12 is 
+F 1640 3 12 what 
+F 1644 3 12 I 
+F 1648 7 12 see 
+- 1657
+F 1664 3 12 To
+F 1668 3 12 do el 
+F 1672 3 12 mun
+F 1676 3 12 do 
+F 1680 3 12 pa
+F 1684 1 12 ra 
+- 1687
+F 1688 3 12 Pa’ 
+F 1692 3 12 mi
+F 1696 3 12 rar
+F 1700 3 12 me 
+F 1704 7 12 a 
+F 1712 1 12 mí 
+- 1715
+F 1716 3 12 I 
+F 1720 7 12 got 
+F 1728 3 12 pas
+F 1732 3 12 sion 
+F 1736 3 12 in 
+F 1740 3 12 my 
+F 1744 4 12 pants 
+- 1750
+F 1752 3 12 And 
+F 1756 3 12 I 
+F 1760 3 12 ain’t 
+F 1764 3 12 a
+F 1768 3 12 fraid 
+F 1772 1 12 to 
+- 1775
+F 1776 3 12 Show 
+F 1780 5 12 it, 
+F 1788 3 12 show 
+F 1792 5 12 it, 
+F 1800 3 12 show 
+F 1804 5 12 it, 
+F 1812 3 12 show 
+F 1816 5 12 it 
+- 1823
+: 1836 2 5 I’m 
+: 1840 2 7 se
+: 1844 3 7 xy 
+: 1848 3 7 and 
+: 1852 3 7 I 
+* 1856 3 10 know 
+: 1860 4 7 it 
+- 1866
+F 1884 9 12 Hey, 
+- 1895
+F 1932 1 12 Che
+F 1934 1 12 quéa
+F 1936 5 12 lo 
+- 1943
+F 1984 1 12 Wig
+F 1986 1 12 gle, 
+F 1988 1 12 wig
+F 1990 1 12 gle, 
+F 1992 1 12 wig
+F 1994 1 12 gle, 
+F 1996 1 12 wig
+F 1998 1 12 gle, 
+F 2000 1 12 wig
+F 2002 3 12 gle 
+F 2006 6 12 yeah 
+- 2014
+F 2016 1 12 Wig
+F 2018 1 12 gle, 
+F 2020 1 12 wig
+F 2022 1 12 gle, 
+F 2024 1 12 wig
+F 2026 1 12 gle, 
+F 2028 1 12 wig
+F 2030 1 12 gle, 
+F 2032 1 12 wig
+F 2034 3 12 gle 
+F 2038 6 12 yeah 
+- 2046
+F 2048 1 12 Wig
+F 2050 1 12 gle, 
+F 2052 1 12 wig
+F 2054 1 12 gle, 
+F 2056 1 12 wig
+F 2058 1 12 gle, 
+F 2060 1 12 wig
+F 2062 1 12 gle, 
+F 2064 1 12 wig
+F 2066 3 12 gle 
+F 2070 6 12 yeah 
+- 2078
+F 2080 1 12 Wig
+F 2082 1 12 gle, 
+F 2084 1 12 wig
+F 2086 1 12 gle, 
+F 2088 1 12 wig
+F 2090 1 12 gle, 
+F 2092 1 12 wig
+F 2094 1 12 gle, 
+F 2096 5 12 yeah, 
+F 2102 9 12 yeah 
+- 2113
+F 2124 1 12 Do 
+F 2126 1 12 the 
+F 2128 1 12 wig
+F 2130 3 12 gle 
+F 2134 7 12 man, 
+- 2143
+F 2154 1 12 A
+F 2156 1 12 sí 
+F 2158 1 12 me
+F 2160 3 12 néa
+F 2164 1 12 lo 
+F 2166 9 12 man 
+- 2177
+F 2188 9 12 Yeah 
+- 2199
+F 2220 3 12 Soy 
+F 2224 3 12 se
+F 2228 3 12 xy 
+F 2232 3 12 y 
+F 2236 3 12 lo 
+F 2240 3 12 sa
+F 2244 3 12 bes 
+- 2249
+: 2252 3 12 Girl 
+: 2256 1 7 look 
+: 2258 1 7 at 
+: 2260 3 7 that 
+: 2264 3 7 bo
+: 2268 3 7 dy 
+- 2273
+: 2284 3 12 Girl 
+: 2288 1 7 look 
+: 2290 1 7 at 
+: 2292 3 7 that 
+: 2296 3 7 bo
+: 2300 3 7 dy 
+- 2305
+: 2316 3 12 Girl 
+: 2320 1 7 look 
+: 2322 1 7 at 
+* 2324 3 7 that 
+: 2328 3 7 bo
+: 2332 3 7 dy 
+- 2337
+F 2340 1 12 I
+F 2342 3 12 ~
+F 2346 1 12 ~ 
+F 2348 3 12 work 
+F 2352 9 12 out 
+- 2363
+: 2380 3 12 Girl 
+: 2384 1 7 look 
+: 2386 1 7 at 
+: 2388 3 7 that 
+: 2392 3 7 bo
+: 2396 3 7 dy 
+- 2401
+: 2412 3 12 Girl 
+: 2416 1 7 look 
+: 2418 1 7 at 
+: 2420 3 7 that 
+: 2424 3 7 bo
+: 2428 3 7 dy 
+- 2433
+: 2444 3 12 Girl 
+: 2448 1 7 look 
+: 2450 1 7 at 
+: 2452 3 7 that 
+: 2456 3 7 bo
+* 2460 3 7 dy 
+- 2465
+F 2468 1 12 I
+F 2470 3 12 ~
+F 2474 1 12 ~ 
+F 2476 3 12 work 
+F 2480 9 12 out 
+- 2491
+* 2604 2 5 I’m 
+: 2608 2 7 se
+: 2612 3 7 xy 
+: 2616 3 7 and 
+: 2620 3 7 I 
+: 2624 3 10 know 
+: 2628 4 7 it 
+E

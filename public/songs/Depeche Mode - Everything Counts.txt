@@ -1,0 +1,302 @@
+#ARTIST:Depeche Mode
+#TITLE:Everything Counts
+#MP3:Depeche Mode - Everything Counts.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1983
+#LANGUAGE:English
+#BPM:226
+#GAP:34260
+#VIDEO:v=QelGBstXa3k,co=everything-counts-60adbec5e6129.jpg,bg=depeche-mode-50480ade161d1.jpg
+: 0 3 7 The 
+: 4 6 9 hand
+: 11 6 9 shake 
+: 27 4 9 seals 
+: 32 2 7 the 
+: 36 6 9 con
+: 43 6 9 tract 
+- 51
+: 60 3 9 From 
+: 64 2 7 the 
+: 68 6 9 con
+: 75 6 9 tract 
+: 88 3 9 there’s 
+: 92 5 9 no 
+: 100 3 4 tur
+: 104 4 4 ning 
+: 109 5 4 back 
+- 116
+: 128 2 2 The 
+: 132 2 4 tur
+: 135 3 4 ning 
+: 140 6 4 point 
+: 152 3 4 of 
+: 156 3 4 a 
+: 160 3 4 ca
+: 164 3 4 ree
+: 168 3 2 ~
+: 172 6 2 ~r 
+- 180
+: 185 4 4 In 
+: 192 3 4 Ko
+: 196 3 4 re
+: 200 3 2 ~
+: 204 5 2 a, 
+: 212 3 4 be
+: 216 3 4 ing 
+: 220 2 4 in
+: 223 3 4 sin
+: 227 4 4 ce
+: 232 3 -3 ~
+: 236 5 -3 re 
+- 243
+: 288 3 2 The 
+: 292 2 4 ho
+: 295 3 4 li
+: 299 7 4 day 
+: 318 3 4 was 
+: 322 7 12 fun-
+: 330 6 9 packed 
+- 338
+: 352 3 2 The 
+: 356 6 4 con
+: 363 7 4 tract 
+: 381 5 4 still 
+: 387 6 4 in
+: 394 8 -3 tact 
+- 404
+: 415 3 14 The 
+: 419 5 16 grab
+: 425 5 16 bing 
+: 431 13 14 hands 
+: 450 4 14 grab 
+: 455 3 14 all 
+: 459 3 16 they 
+: 463 11 12 can 
+- 476
+: 485 3 16 All 
+: 490 3 16 for 
+: 494 3 17 them
+: 498 10 14 selves 
+: 515 5 14 af
+: 521 5 16 ter 
+: 527 12 12 all 
+- 540
+: 542 3 14 The 
+: 546 5 16 grab
+: 552 5 16 bing 
+: 558 12 14 hands 
+: 577 4 14 grab 
+: 582 3 14 all 
+: 586 3 16 they 
+: 590 11 12 can 
+- 603
+: 612 4 16 All 
+: 617 3 16 for 
+: 621 3 17 them
+: 625 11 14 selves 
+- 638
+: 641 6 14 Af
+: 648 4 12 ter 
+: 653 6 9 all 
+: 661 4 14 it’s 
+: 666 2 14 a 
+* 669 3 14 com
+* 673 5 9 pe
+* 679 5 9 ti
+* 686 6 9 tive 
+: 694 10 9 world 
+- 706
+: 738 2 16 Eve
+: 741 3 16 ry
+: 745 5 16 thing 
+: 752 8 14 counts 
+: 761 2 12 in 
+: 765 11 14 large 
+: 777 3 16 a
+: 781 8 12 mounts 
+- 791
+: 1050 3 7 The 
+: 1055 8 9 graph 
+: 1078 3 9 on 
+: 1082 3 7 the 
+: 1086 6 9 wall 
+- 1094
+: 1109 3 9 Tells 
+: 1113 3 7 the 
+: 1117 7 9 sto
+: 1125 5 9 ry 
+: 1142 2 9 of 
+: 1145 4 9 i
+: 1150 4 4 ~t 
+: 1155 8 4 all 
+- 1165
+: 1181 3 4 Pic
+: 1185 3 4 ture 
+: 1189 3 4 it 
+: 1194 7 4 now 
+: 1213 3 4 see 
+: 1217 7 2 just 
+: 1225 8 2 how 
+- 1235
+: 1242 3 0 The 
+: 1246 7 2 lies 
+: 1254 3 2 and 
+: 1258 3 0 de
+: 1262 3 2 ceit 
+: 1270 3 2 gained 
+: 1274 3 4 a 
+: 1278 2 -3 lit
+: 1281 2 -3 tle 
+: 1284 3 -3 more 
+: 1290 6 -3 pow
+: 1297 3 -3 er 
+- 1302
+: 1341 3 4 Con
+: 1345 2 4 fi
+: 1348 5 4 dence 
+: 1365 2 4 ta
+: 1368 4 4 ken 
+: 1373 7 9 in 
+- 1382
+: 1397 3 9 By 
+: 1401 2 9 a 
+: 1405 4 4 sun 
+: 1413 7 4 tan 
+: 1429 3 4 and 
+: 1433 2 4 a
+: 1436 2 -3 ~ 
+: 1440 12 -3 grin 
+- 1454
+: 1464 3 14 The 
+: 1468 5 16 grab
+: 1474 5 16 bing 
+: 1481 12 14 hands 
+: 1500 3 14 grab 
+: 1504 3 14 all 
+: 1508 3 16 they 
+: 1512 12 12 can 
+- 1526
+: 1532 5 16 All 
+: 1539 3 16 for 
+: 1543 4 17 them
+: 1548 10 14 selves 
+: 1564 6 14 af
+: 1571 4 16 ter 
+: 1576 10 12 all 
+- 1588
+: 1592 3 14 The 
+: 1596 5 16 grab
+: 1602 5 16 bing 
+: 1608 13 14 hands 
+: 1627 4 14 grab 
+: 1632 3 14 all 
+: 1636 3 16 they 
+: 1640 12 12 can 
+- 1654
+: 1660 5 16 All 
+: 1667 3 16 for 
+: 1671 3 17 them
+: 1675 11 14 selves 
+- 1688
+: 1692 6 14 Af
+: 1699 4 12 ter 
+: 1704 6 9 all 
+: 1711 3 14 it’s 
+: 1715 3 14 a 
+* 1719 3 14 com
+* 1723 5 9 pe
+* 1729 5 9 ti
+* 1736 6 9 tive 
+: 1744 9 9 world 
+- 1755
+: 1788 2 16 Eve
+: 1791 4 16 ry
+: 1796 4 16 thing 
+: 1802 8 14 counts 
+: 1811 2 12 in 
+: 1815 11 14 large 
+: 1827 3 16 a
+: 1831 8 12 mounts 
+- 1841
+: 1915 2 16 Eve
+: 1918 3 16 ry
+: 1922 5 16 thing 
+: 1929 8 14 counts 
+: 1938 2 12 in 
+: 1942 11 14 large 
+: 1954 3 16 a
+: 1958 8 12 mounts 
+- 1968
+: 2291 3 14 The 
+: 2295 5 16 grab
+: 2301 5 16 bing 
+: 2307 13 14 hands 
+: 2326 4 14 grab 
+: 2331 3 14 all 
+: 2335 3 16 they 
+: 2339 12 12 can 
+- 2353
+: 2360 2 16 Eve
+: 2363 3 16 ry
+: 2367 5 16 thing 
+: 2375 7 14 counts 
+: 2383 2 12 in 
+: 2387 11 14 large 
+: 2399 3 16 a
+: 2403 8 12 mounts 
+- 2413
+: 2419 3 14 The 
+: 2423 5 16 grab
+: 2429 5 16 bing 
+: 2435 12 14 hands 
+: 2454 4 14 grab 
+: 2459 3 14 all 
+: 2463 3 16 they 
+: 2467 11 12 can 
+- 2480
+: 2487 3 16 Eve
+: 2491 2 16 ry
+: 2494 5 16 thing 
+: 2502 7 14 counts 
+: 2510 2 12 in 
+: 2514 11 14 large 
+: 2526 3 16 a
+: 2530 8 12 mounts 
+- 2540
+: 2800 3 14 The 
+: 2804 5 16 grab
+: 2810 5 16 bing 
+: 2817 12 14 hands 
+: 2836 3 14 grab 
+: 2840 3 14 all 
+: 2844 3 16 they 
+: 2848 12 12 can 
+- 2862
+: 2869 2 16 Eve
+: 2872 3 16 ry
+: 2876 5 16 thing 
+: 2884 7 14 counts 
+: 2892 2 12 in 
+: 2896 11 14 large 
+: 2908 3 16 a
+: 2912 9 12 mounts 
+- 2923
+F 2928 3 14 The 
+F 2932 5 16 grab
+F 2938 5 16 bing 
+F 2944 13 14 hands 
+F 2963 4 14 grab 
+F 2968 3 14 all 
+F 2972 3 16 they 
+F 2976 12 12 can 
+- 2990
+F 2997 2 16 Eve
+F 3000 3 16 ry
+F 3004 5 16 thing 
+F 3011 8 14 counts 
+F 3020 2 12 in 
+F 3023 12 14 large 
+F 3036 3 16 a
+F 3040 8 12 mounts 
+E

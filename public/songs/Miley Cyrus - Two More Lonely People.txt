@@ -1,0 +1,405 @@
+#ARTIST:Miley Cyrus
+#TITLE:Two More Lonely People
+#MP3:Miley Cyrus - Two More Lonely People.mp3
+#CREATOR:B'Fan
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:255.92
+#GAP:3680
+#VIDEO:a=hxPneYjOewk,co=cant-be-tamed-61b08351580e0.jpg,bg=cyrus-miley-5165ac933962f.jpg
+: 0 2 4 I 
+: 4 3 4 need 
+: 9 3 4 to 
+: 13 3 4 feel 
+: 17 2 4 your 
+: 21 3 4 heart
+: 25 4 4 beat, 
+: 32 7 6 when 
+: 41 2 4 you 
+: 44 3 4 say, 
+: 48 2 4 you 
+: 51 7 4 love 
+: 60 21 6 me 
+- 83
+: 129 2 4 I 
+: 132 5 5 don’t 
+: 139 6 4 wanna 
+: 147 4 4 hear 
+: 152 4 4 it, 
+: 157 2 6 if 
+: 160 3 4 its 
+: 164 4 4 some
+: 169 2 7 thing 
+: 173 2 4 that 
+: 176 2 2 you 
+: 180 3 4 don’t 
+: 184 25 7 mean 
+- 211
+: 260 2 4 If 
+: 264 2 5 I 
+: 268 3 4 had 
+: 272 2 4 to 
+: 276 3 7 leave 
+: 281 6 4 you 
+: 288 17 1 now 
+- 307
+: 308 2 4 There 
+: 311 6 3 would 
+: 318 1 4 be 
+: 320 15 4 an 
+: 337 14 4 empty 
+: 352 13 2 space 
+- 367
+: 385 2 4 It 
+: 388 6 4 doesn’t 
+: 396 6 4 matter 
+: 404 10 5 any
+: 416 18 7 how 
+- 435
+: 435 3 4 You 
+: 440 7 4 can 
+: 448 6 2 take 
+: 456 6 4 your 
+: 464 8 5 things, 
+: 480 2 3 and 
+: 484 5 4 go 
+: 490 4 5 your 
+: 496 7 7 own 
+: 505 19 9 way 
+- 526
+: 532 2 2 And 
+: 535 7 3 there’s 
+: 544 7 4 two 
+: 552 2 5 more 
+: 555 18 7 lonely 
+: 575 17 5 people 
+- 594
+: 599 3 4 In 
+: 604 2 5 the 
+: 607 9 6 world 
+: 617 11 3 tonight 
+- 630
+: 632 7 3 Baby, 
+: 640 2 5 you 
+: 644 7 2 and 
+: 652 6 4 I. 
+- 660
+: 661 2 4 And 
+: 665 6 3 just 
+: 672 6 5 two 
+: 680 6 4 more 
+: 687 12 2 lonely 
+: 702 16 7 people. 
+- 720
+: 727 3 3 Who 
+: 732 4 4 gave 
+: 737 5 6 up 
+: 744 2 4 the 
+: 747 9 5 fight. 
+- 758
+: 759 7 6 Yeah 
+: 768 4 2 wrong 
+: 773 1 3 or 
+: 775 9 5 right. 
+- 786
+: 789 2 6 Well, 
+: 793 6 4 you 
+: 800 5 3 know 
+: 807 3 6 my 
+: 811 2 4 heart 
+: 815 3 3 is 
+: 820 9 5 aching. 
+- 830
+: 831 7 6 You 
+: 840 2 3 don’t 
+: 843 3 4 have 
+: 848 2 3 to 
+: 851 2 6 break 
+: 855 5 5 it. 
+- 861
+: 862 1 5 If 
+: 864 6 8 love 
+: 872 2 3 don’t 
+: 876 11 5 change 
+: 888 6 4 your 
+: 896 10 5 mind. 
+- 908
+: 916 3 4 Then 
+: 920 6 5 there’s 
+: 928 6 6 two 
+: 936 6 4 more 
+: 943 14 5 lonely 
+: 959 16 6 people, 
+: 984 12 4 tonight. 
+- 998
+: 1062 2 5 I 
+: 1066 2 3 don’t 
+: 1069 4 4 want 
+: 1074 1 4 the 
+: 1076 11 6 pictures. 
+- 1088
+: 1088 6 4 I 
+: 1096 2 1 don’t 
+: 1099 3 3 want 
+: 1103 2 2 your 
+: 1107 3 3 sym
+: 1112 21 5 pathy 
+- 1135
+: 1188 2 5 We 
+: 1191 3 4 don’t 
+: 1195 3 3 have 
+: 1200 2 4 to 
+: 1203 3 5 be 
+: 1207 8 3 friends. 
+- 1216
+: 1217 4 4 We 
+: 1222 1 6 don’t 
+: 1224 3 4 have 
+: 1228 2 4 to 
+: 1231 3 3 be 
+: 1236 3 5 ene
+: 1240 26 6 mies. 
+- 1268
+: 1315 3 4 In 
+: 1320 2 5 my 
+: 1323 4 4 head 
+: 1329 1 5 I 
+: 1331 6 4 break 
+: 1338 5 6 it 
+: 1344 17 3 down 
+- 1362
+: 1363 2 4 And 
+: 1367 8 5 I’m 
+: 1376 13 4 abso
+: 1391 14 6 lutely 
+: 1407 13 4 sure. 
+- 1422
+: 1441 1 3 That 
+: 1443 3 5 you 
+: 1448 3 4 and 
+: 1452 3 6 I 
+: 1456 3 4 could 
+: 1460 5 3 work 
+: 1466 4 4 it 
+: 1472 16 7 out 
+- 1489
+: 1490 1 2 Or 
+: 1492 2 5 we 
+: 1496 3 3 could 
+: 1500 9 4 kill 
+: 1511 7 4 the 
+: 1519 8 5 lights 
+: 1529 7 6 on 
+: 1539 4 3 What 
+: 1545 6 4 we 
+: 1552 6 5 had 
+: 1560 18 6 before 
+- 1580
+: 1587 2 3 And 
+: 1591 7 3 there’s 
+: 1599 7 4 two 
+: 1608 3 4 more 
+: 1614 16 2 lonely 
+: 1632 14 5 people 
+- 1648
+: 1655 3 3 In 
+: 1659 4 4 the 
+: 1665 5 5 world 
+: 1671 13 6 tonight 
+- 1686
+: 1687 7 5 Baby, 
+: 1696 2 4 you 
+: 1700 4 3 and 
+: 1705 5 5 I. 
+- 1712
+: 1716 4 3 And 
+: 1721 4 4 just 
+: 1727 7 2 two 
+: 1736 5 4 more 
+: 1743 13 5 lonely 
+: 1758 16 6 people. 
+- 1776
+: 1783 3 2 Who 
+: 1787 3 4 gave 
+: 1792 5 5 up 
+: 1799 3 4 the 
+: 1803 8 6 fight. 
+- 1813
+: 1815 6 7 Yeah 
+: 1823 4 4 wrong 
+: 1828 2 3 or 
+: 1831 5 5 right 
+F 1843 1 4 . 
+- 1845
+: 1845 3 4 Well, 
+: 1850 2 6 you 
+: 1854 7 5 know 
+: 1863 2 4 my 
+: 1867 2 3 heart 
+: 1871 2 4 is 
+: 1875 6 6 aching. 
+- 1883
+: 1888 6 5 You 
+: 1896 2 3 don’t 
+: 1899 2 4 have 
+: 1903 2 3 to 
+: 1907 3 4 break 
+: 1912 5 6 it. 
+- 1918
+: 1918 1 4 If 
+: 1920 4 5 love 
+: 1927 5 4 don’t 
+: 1935 6 3 change 
+: 1943 6 2 your 
+: 1951 11 4 mind. 
+- 1964
+: 1971 2 3 Then 
+: 1975 6 4 there’s 
+: 1983 6 5 two 
+: 1991 7 4 more 
+: 1999 6 3 lonely 
+: 2015 16 5 people, 
+: 2039 8 4 tonight. 
+- 2048
+: 2048 2 4 Well, 
+: 2051 3 5 we 
+: 2055 1 3 got 
+: 2058 3 2 some
+: 2063 3 4 thing 
+: 2067 8 4 special. 
+- 2076
+: 2076 2 3 That 
+: 2080 9 4 sho
+: 2091 2 5 uld 
+: 2095 3 4 be 
+: 2099 5 2 enough 
+- 2106
+: 2116 2 4 Nothing 
+: 2120 5 5 is 
+: 2126 17 4 predictable 
+: 2144 2 5 when 
+: 2147 4 4 it 
+: 2152 7 3 comes 
+: 2160 2 4 to 
+: 2163 8 6 love. 
+- 2172
+: 2173 3 2 Oh. 
+- 2177
+: 2178 5 4 Maybe, 
+: 2184 9 4 lately, 
+: 2195 6 6 baby 
+: 2204 9 4 I’m 
+: 2214 7 5 really 
+: 2222 2 3 rough 
+- 2225
+: 2225 14 4 Oh 
+: 2241 1 5 if 
+: 2244 3 4 you 
+: 2248 5 4 walk 
+: 2254 8 3 away 
+: 2265 4 6 then 
+: 2270 14 7 I’ve … 
+- 2286
+: 2294 2 4 Will 
+: 2297 4 4 be 
+: 2303 7 4 two 
+: 2311 6 5 more 
+: 2319 15 4 lonely 
+: 2335 7 6 peo
+: 2343 9 5 ple 
+- 2354
+: 2359 3 4 In 
+: 2364 2 4 the 
+: 2367 6 5 world 
+: 2375 14 6 tonight 
+- 2390
+: 2391 7 4 Baby, 
+: 2400 2 5 you 
+: 2403 2 4 and 
+: 2407 11 5 I. 
+- 2419
+: 2420 2 4 You’re 
+: 2423 6 4 just 
+: 2432 7 4 two 
+: 2440 5 3 more 
+: 2447 13 4 lonely 
+: 2462 6 5 peo
+: 2471 8 6 ple. 
+- 2481
+: 2487 3 4 Who 
+: 2491 3 3 gave 
+: 2495 7 5 up 
+: 2503 2 4 the 
+: 2507 36 6 fight. 
+- 2545
+: 2547 3 4 And 
+: 2552 6 4 there’s 
+: 2559 7 4 two 
+: 2567 6 4 more 
+: 2575 14 6 lonely 
+: 2591 6 6 peo
+: 2599 6 7 ple 
+- 2607
+: 2615 3 4 In 
+: 2619 2 4 the 
+: 2623 6 5 world 
+: 2631 13 3 tonight 
+- 2645
+: 2646 8 5 Baby, 
+: 2656 3 4 you 
+: 2660 3 4 and 
+: 2664 6 3 I. 
+- 2672
+: 2674 5 3 And 
+: 2680 6 5 just 
+: 2687 7 6 two 
+: 2696 5 4 more 
+: 2703 14 3 lonely 
+: 2719 7 5 peo
+: 2727 5 6 ple. 
+- 2734
+: 2743 2 4 Who 
+: 2747 3 3 gave 
+: 2751 6 5 up 
+: 2759 2 4 the 
+: 2763 7 5 fight. 
+- 2772
+: 2775 6 6 Yeah 
+: 2783 3 5 wrong 
+: 2787 2 4 or 
+: 2790 9 5 right 
+F 2801 1 4 . 
+- 2803
+: 2804 2 4 Well, 
+: 2807 3 4 you 
+: 2814 6 6 know 
+: 2823 2 4 my 
+: 2827 3 5 heart 
+: 2831 2 4 is 
+: 2835 6 6 aching. 
+- 2843
+: 2844 1 5 You 
+: 2847 10 3 don’t 
+: 2859 2 4 have 
+: 2862 2 5 to 
+: 2867 3 6 break 
+: 2871 2 4 it. 
+- 2874
+: 2875 3 4 If 
+: 2880 5 6 love 
+: 2887 6 3 don’t 
+: 2895 6 5 change 
+: 2904 4 4 your 
+: 2911 9 5 mind. 
+- 2922
+: 2930 3 4 Then 
+: 2935 6 4 there’s 
+: 2943 5 5 two 
+: 2951 3 6 more 
+: 2958 15 4 lonely 
+: 2975 6 5 peo
+: 2983 7 6 ple, 
+: 2999 3 4 to
+: 3003 10 6 night. 
+E

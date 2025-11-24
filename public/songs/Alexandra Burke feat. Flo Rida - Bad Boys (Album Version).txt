@@ -1,0 +1,653 @@
+#ARTIST:Alexandra Burke feat. Flo Rida
+#TITLE:Bad Boys (Album Version)
+#MP3:Alexandra Burke feat. Flo Rida - Bad Boys (Album Version).mp3
+#CREATOR:gaspar17
+#YEAR:2009
+#LANGUAGE:English
+#BPM:280
+#GAP:3080
+#VIDEO:a=5hkQ9udN4Sk,co=bad-boys-6592cbb428291.jpg,bg=burke-alexandra-5165a9b6809f3.jpg
+F 0 3 -3 Flo
+F 5 3 -3 ri
+F 10 3 -3 da 
+- 15
+F 16 4 -7 (Bad 
+F 24 4 -7 Boys, 
+F 32 4 -7 Bad 
+F 40 4 -7 Boys) 
+- 46
+F 48 2 0 A
+F 51 2 0 le
+F 54 2 0 xan
+F 57 2 0 dra 
+F 60 3 0 girl 
+- 64
+F 65 1 0 I 
+F 68 2 0 know 
+F 72 2 0 what 
+F 76 1 0 you 
+F 78 2 0 like 
+- 81
+F 81 3 -7 (Bad 
+F 88 3 -7 Boys, 
+F 94 3 -7 Bad 
+F 100 3 -7 Boys) 
+- 104
+: 104 2 -4 Oh 
+: 108 2 -2 oh 
+: 112 2 0 whoo 
+* 116 4 0 ho 
+- 122
+F 142 4 -7 (Bad 
+F 149 4 -7 Boys, 
+F 158 4 -7 Bad 
+F 166 4 -7 Boys) 
+- 172
+* 177 4 -2 Hey
+: 183 3 -4 ~ 
+: 188 2 -2 yeah
+: 191 2 -4 ~
+: 194 2 -7 ~ 
+- 198
+F 208 3 -7 (Bad 
+F 215 4 -7 Boys, 
+F 223 4 -7 Bad 
+F 232 4 -7 Boys) 
+- 238
+: 255 4 0 Some 
+: 263 4 0 peo
+: 271 4 0 ple 
+* 279 4 0 call 
+: 287 4 0 them 
+: 295 6 0 play
+: 303 6 5 ers 
+- 311
+: 315 2 -7 But 
+: 319 3 0 I’m 
+: 326 4 0 far 
+: 334 4 0 from 
+* 342 4 -2 ter
+: 348 2 -4 ri
+: 351 4 -4 fied 
+- 357
+: 380 2 -7 ’Cause 
+: 383 4 0 some
+: 391 4 0 how 
+: 399 4 0 I’m 
+: 407 4 0 drawn 
+: 415 4 0 to 
+: 423 5 0 dan
+* 431 5 5 ger 
+- 438
+: 444 2 -7 And 
+* 447 4 0 have 
+: 455 4 0 been 
+: 463 4 0 all 
+: 471 3 -2 of 
+: 476 2 -4 my 
+: 479 6 -4 life 
+- 487
+: 511 5 5 It 
+: 519 5 5 feels 
+: 527 5 5 my 
+: 535 5 7 heart 
+: 543 5 7 di
+: 551 5 7 vi
+* 559 6 8 ded 
+- 567
+: 575 4 0 Half
+: 583 4 0 way 
+: 590 2 0 be
+: 593 2 0 tween 
+: 599 4 0 wrong 
+: 606 2 -2 and 
+* 609 4 -2 right 
+- 615
+* 648 10 5 I 
+: 664 10 7 know 
+: 679 10 8 I’m 
+: 695 2 5 play
+: 698 2 5 ing 
+: 703 3 5 with 
+: 710 4 5 fire 
+- 716
+: 718 4 5 But 
+: 725 2 5 I 
+: 728 3 5 don’t 
+: 733 2 3 know 
+: 736 6 3 why 
+- 744
+: 751 4 8 Yeah 
+: 757 2 10 the 
+: 760 10 12 bad 
+: 772 10 8 boys 
+- 784
+: 788 2 8 Are 
+* 791 6 10 al
+: 799 6 7 ways 
+: 807 6 3 cat
+: 815 6 10 ching 
+: 823 10 8 my 
+: 836 8 5 eye 
+- 846
+F 847 3 8 (Ooh 
+F 852 8 8 way, 
+F 863 3 8 ooh 
+F 868 4 8 wah) 
+- 874
+: 875 2 8 I 
+: 878 3 8 said 
+: 884 2 10 the 
+: 888 10 12 bad 
+* 900 10 8 boys 
+- 912
+: 915 2 8 Are 
+: 919 6 10 al
+: 927 6 7 ways 
+: 935 6 3 spin
+: 943 6 10 ning 
+: 951 10 8 my 
+: 964 8 5 mind 
+- 974
+F 976 3 8 (Ooh 
+F 980 8 8 way, 
+F 991 3 8 ooh 
+F 996 4 8 wah) 
+- 1002
+: 1004 2 8 E
+: 1007 4 10 ven 
+* 1013 5 12 though 
+: 1020 5 15 I 
+: 1028 4 15 know 
+- 1034
+: 1035 2 15 They’re 
+: 1039 3 15 no 
+: 1044 4 15 good 
+: 1051 6 13 for 
+: 1060 4 12 me 
+- 1066
+: 1068 2 8 It’s 
+: 1072 2 10 the 
+: 1077 5 12 risk 
+- 1083
+: 1084 6 12 I 
+: 1092 4 12 take 
+: 1099 2 12 for 
+: 1103 3 12 the 
+: 1108 3 12 che
+: 1112 2 10 mis
+: 1116 3 10 try
+: 1122 2 8 ~
+: 1125 2 5 ~ 
+- 1129
+: 1133 4 8 With 
+: 1140 2 10 the 
+: 1144 10 12 bad 
+: 1156 10 8 boys 
+- 1168
+: 1174 6 10 Al
+: 1182 6 7 ways 
+* 1190 6 3 cat
+: 1199 6 10 ching 
+: 1207 10 8 my 
+: 1221 8 5 eye 
+- 1230
+F 1231 3 8 (Ooh 
+F 1236 7 8 way, 
+F 1247 3 8 ooh 
+F 1252 7 8 way, 
+F 1262 4 8 ooh 
+F 1268 7 8 wah) 
+- 1277
+: 1297 13 12 Oooooh, 
+- 1311
+F 1312 5 5 Bad 
+F 1319 5 5 boys 
+- 1326
+* 1343 4 0 Some 
+: 1351 4 0 think 
+: 1359 4 0 it’s 
+: 1367 4 0 com
+: 1375 4 0 pli
+* 1383 6 0 ca
+: 1391 6 5 ted 
+- 1399
+: 1404 2 -7 But 
+: 1408 3 0 they’re 
+: 1415 4 0 straight 
+: 1422 4 0 up 
+: 1431 2 -2 fun 
+: 1436 2 -4 for 
+: 1439 4 -4 me 
+- 1445
+: 1468 2 -7 I 
+: 1471 4 0 don’t 
+* 1479 4 0 need 
+: 1487 4 0 no 
+: 1495 4 0 ex
+: 1503 4 0 pla
+: 1511 6 0 na
+* 1519 6 8 tion 
+- 1527
+: 1531 2 -7 It’s 
+: 1535 3 0 no
+: 1540 2 0 thing 
+: 1543 4 0 more 
+: 1551 4 0 than 
+: 1558 3 -2 what 
+: 1564 2 -4 you 
+: 1568 4 -4 see 
+: 1574 3 -4 here 
+- 1579
+: 1598 5 5 My 
+: 1607 5 5 heart 
+: 1615 5 5 still 
+: 1624 5 7 feels 
+: 1632 5 7 di
+: 1639 5 7 vi
+: 1647 6 8 ded 
+- 1655
+: 1662 6 0 Half
+: 1672 4 0 way 
+: 1678 2 0 be
+: 1681 2 0 tween 
+: 1687 4 0 wrong 
+: 1694 2 -2 and 
+: 1697 4 -2 right 
+- 1703
+: 1736 10 5 I 
+: 1752 10 7 know 
+* 1768 10 8 I’m 
+: 1784 2 5 play
+: 1788 2 5 ing 
+: 1792 3 5 with 
+: 1800 4 5 fire 
+- 1806
+: 1808 3 5 But 
+: 1814 2 5 I 
+: 1817 3 5 don’t 
+: 1822 2 3 know 
+: 1825 6 3 why 
+- 1833
+: 1839 4 8 Yeah 
+: 1846 2 10 the 
+: 1849 10 12 Bad 
+: 1861 10 8 Boys 
+- 1873
+: 1876 3 8 Are 
+: 1881 6 10 al
+: 1888 6 7 ways 
+: 1896 6 3 cat
+: 1904 6 10 ching 
+: 1913 10 8 my 
+: 1925 8 5 eye 
+- 1935
+F 1937 2 8 (Ooh 
+F 1940 6 8 way, 
+F 1952 3 8 ooh 
+F 1957 4 8 wah) 
+- 1963
+: 1964 2 8 I 
+: 1968 3 8 said 
+: 1973 2 10 the 
+: 1977 10 12 bad 
+* 1989 10 8 boys 
+- 2001
+: 2004 3 8 Are 
+: 2009 6 10 al
+: 2016 6 7 ways 
+: 2024 6 3 spin
+: 2032 6 10 ning 
+* 2040 10 8 my 
+: 2054 8 5 mind 
+- 2064
+F 2065 2 8 (Ooh 
+F 2069 7 8 way, 
+F 2081 3 8 ooh 
+F 2085 4 8 wah) 
+- 2091
+: 2092 2 8 E
+: 2096 2 10 ven 
+: 2102 5 12 though 
+: 2109 5 15 I 
+: 2117 5 15 know 
+- 2123
+: 2124 2 15 They’re 
+: 2128 4 15 no 
+: 2134 4 15 good 
+: 2140 4 13 for 
+: 2149 4 12 me 
+- 2155
+: 2156 3 8 It’s 
+: 2160 4 10 the 
+: 2166 5 12 risk 
+- 2172
+: 2173 5 12 I 
+* 2181 5 12 take 
+: 2188 3 12 for 
+: 2192 3 12 the 
+: 2197 3 12 che
+: 2202 2 10 mis
+: 2206 3 10 try
+: 2212 2 8 ~
+: 2215 2 5 ~ 
+- 2219
+: 2223 4 8 With 
+: 2230 2 10 the 
+* 2233 10 12 bad 
+: 2244 10 8 boys 
+- 2256
+: 2262 6 10 Al
+: 2270 6 7 ways 
+: 2279 6 3 cat
+: 2286 6 10 ching 
+: 2294 12 8 my 
+: 2309 8 5 eye 
+- 2319
+F 2321 3 8 (Ooh 
+F 2326 7 8 way, 
+F 2337 3 8 ooh 
+F 2342 7 8 way, 
+F 2351 5 8 ooh 
+F 2358 5 8 wah) 
+- 2364
+F 2365 1 0 I 
+F 2367 2 0 know 
+F 2372 2 0 you 
+F 2375 2 0 want 
+F 2380 3 0 me 
+F 2384 3 0 shaw
+F 2388 2 0 ty 
+- 2391
+F 2392 2 0 ’Cause 
+F 2395 1 0 I’m 
+F 2397 1 0 a 
+F 2400 3 5 bad 
+F 2407 3 5 boy 
+- 2412
+F 2423 4 0 Hey 
+F 2429 1 0 sh-
+F 2431 2 0 shaw
+F 2434 2 0 ty 
+F 2437 1 0 can’t 
+F 2439 2 0 help 
+F 2442 1 0 it 
+- 2444
+F 2445 1 0 She 
+F 2447 2 0 so 
+F 2450 2 0 so 
+F 2453 1 0 ad
+F 2455 3 0 dic
+F 2460 2 0 ted 
+- 2463
+F 2463 3 0 To 
+F 2468 2 0 them 
+F 2471 4 0 rou
+F 2476 2 0 gher 
+F 2479 4 0 fel
+F 2484 2 0 las 
+- 2488
+F 2492 2 0 With 
+F 2495 2 0 e
+F 2498 2 0 ven 
+F 2501 1 0 the 
+F 2503 4 0 al
+F 2508 2 0 pha
+F 2511 2 0 bet 
+- 2514
+F 2515 3 0 She 
+F 2519 3 0 on
+F 2523 2 0 ly 
+F 2527 3 0 sings 
+F 2532 2 0 the 
+F 2535 4 0 croo
+F 2540 2 0 ked 
+F 2543 3 0 let
+F 2548 3 0 ters 
+- 2553
+F 2556 2 0 Let 
+F 2559 1 0 mam
+F 2562 2 0 ma 
+F 2565 2 0 take 
+F 2568 4 0 all 
+F 2573 1 0 the 
+F 2575 2 0 risks 
+- 2578
+F 2578 2 0 For 
+F 2581 1 0 that 
+F 2583 2 0 che
+F 2586 1 0 mis
+F 2588 2 0 try 
+- 2591
+F 2591 2 0 She 
+F 2594 1 0 like 
+F 2596 2 0 them 
+F 2599 2 0 tou
+F 2602 1 0 gher 
+F 2605 1 0 than 
+F 2607 4 0 lea
+F 2612 3 0 ther 
+- 2617
+F 2620 1 0 Not 
+F 2623 2 0 e
+F 2626 2 0 ven 
+F 2629 1 0 the 
+F 2631 4 0 paws, 
+- 2637
+F 2638 1 0 It’s 
+F 2640 1 0 more 
+F 2642 1 0 like 
+F 2644 1 0 a 
+F 2647 1 3 mam
+F 2650 1 3 ma 
+F 2653 2 0 bee 
+- 2656
+F 2656 3 0 Out 
+F 2661 1 0 lost 
+F 2663 3 0 that’s 
+F 2667 1 0 on 
+F 2669 1 0 the 
+F 2671 3 0 reg’
+F 2676 3 0 lar 
+- 2681
+F 2683 2 0 By 
+F 2687 2 0 a
+F 2690 2 0 ny 
+F 2693 2 0 means 
+F 2696 3 0 ne
+F 2700 2 0 ces
+F 2703 3 0 sa
+F 2708 2 0 ry, 
+F 2711 3 0 girl 
+- 2716
+F 2720 2 0 She 
+F 2723 2 0 likes 
+F 2726 1 0 them 
+F 2728 4 0 ruth
+F 2734 1 0 less, 
+- 2736
+F 2736 3 0 That’s 
+F 2742 1 0 my 
+F 2744 3 0 world 
+- 2749
+F 2751 2 0 It’s 
+F 2755 1 0 not 
+F 2757 2 0 the 
+F 2760 3 0 news 
+F 2765 2 0 it’s 
+F 2768 3 0 what 
+F 2773 2 0 I 
+F 2776 2 0 heard 
+- 2780
+F 2784 2 0 To 
+F 2787 1 0 get 
+F 2789 2 0 them 
+F 2792 3 0 more 
+F 2797 2 0 the 
+F 2800 3 0 mer
+F 2805 2 0 ri
+F 2809 3 0 er 
+- 2814
+F 2815 2 0 It’s 
+F 2819 1 0 not 
+F 2822 2 0 a 
+F 2825 3 0 big 
+F 2829 2 0 sur
+F 2833 2 0 prise 
+- 2837
+F 2839 1 0 I 
+F 2841 1 0 know 
+F 2844 1 0 them 
+F 2846 1 0 bad 
+F 2851 2 0 boys 
+F 2854 3 0 catch 
+F 2859 2 0 your 
+F 2862 3 0 eyes 
+- 2867
+F 2870 2 0 Look 
+F 2873 1 0 at 
+F 2876 1 0 her 
+F 2878 3 0 walk 
+F 2882 1 0 when 
+F 2884 1 0 I 
+F 2886 2 0 go 
+F 2890 1 0 in 
+F 2892 1 0 dis
+F 2894 3 0 guise 
+- 2899
+F 2902 2 0 You’ll 
+F 2905 2 0 have 
+F 2908 1 0 them 
+F 2910 1 0 shaw
+F 2913 2 0 ty 
+- 2916
+F 2916 1 0 Don’t 
+F 2918 3 0 wor
+F 2922 1 0 ry 
+F 2924 1 0 you 
+F 2926 1 0 fly 
+- 2928
+: 2928 4 8 Yeah 
+: 2934 2 10 the 
+: 2937 8 12 Bad 
+: 2948 10 8 Boys 
+- 2960
+: 2963 2 8 Are 
+: 2967 6 10 al
+: 2975 6 7 ways 
+: 2983 6 3 cat
+: 2991 6 10 ching 
+: 2999 10 8 my 
+: 3012 8 5 eye 
+- 3022
+F 3023 3 8 (Ooh 
+F 3028 7 8 way, 
+F 3038 3 8 ooh 
+F 3044 4 8 wah) 
+- 3050
+: 3052 2 8 I 
+: 3056 2 8 said 
+: 3061 2 10 the 
+* 3064 8 12 bad 
+* 3076 10 8 boys 
+- 3088
+: 3092 2 8 Are 
+: 3095 6 10 al
+: 3103 6 7 ways 
+: 3111 6 3 spin
+: 3119 6 10 ning 
+: 3127 10 8 my 
+: 3140 8 5 mind 
+- 3150
+F 3152 3 8 (Ooh 
+F 3156 6 8 way, 
+F 3167 4 8 ooh 
+F 3173 4 8 wah) 
+- 3179
+: 3180 2 8 E
+: 3184 2 10 ven 
+: 3189 5 12 though 
+* 3197 5 15 I 
+: 3204 4 15 know 
+- 3210
+: 3211 2 15 They’re 
+: 3215 3 15 no 
+: 3220 4 15 good 
+: 3228 4 13 for 
+: 3236 4 12 me 
+- 3242
+: 3244 2 8 It’s 
+: 3247 2 10 the 
+: 3252 5 12 risk 
+- 3259
+: 3260 5 12 I 
+: 3267 4 12 take 
+: 3275 2 12 for 
+: 3280 2 12 the 
+: 3284 2 12 che
+: 3288 2 10 mis
+: 3292 3 10 try
+: 3299 2 8 ~
+: 3302 2 5 ~ 
+- 3306
+: 3310 4 8 With 
+: 3317 2 10 the 
+: 3320 10 12 bad 
+: 3332 8 8 boys 
+- 3342
+: 3350 6 10 Al
+* 3359 6 7 ways 
+: 3367 6 3 cat
+: 3375 6 10 ching 
+: 3383 10 8 my 
+: 3397 8 5 eye 
+- 3406
+F 3407 3 8 (Ooh 
+F 3412 7 8 way, 
+F 3423 3 8 ooh 
+F 3429 5 8 wah) 
+- 3436
+: 3439 4 8 Yeah 
+: 3445 2 10 the 
+: 3448 10 12 Bad 
+: 3460 10 8 Boys 
+- 3472
+: 3475 2 8 Are 
+: 3479 6 10 al
+: 3487 6 7 ways 
+: 3495 6 3 spin
+: 3503 6 10 ning 
+: 3511 10 8 my 
+* 3524 8 5 mind 
+- 3534
+F 3535 3 8 (Ooh 
+F 3540 7 8 way, 
+F 3551 3 8 ooh 
+F 3556 6 8 wah) 
+- 3564
+: 3565 2 8 I 
+: 3569 2 8 said 
+: 3573 2 10 the 
+* 3576 10 12 Bad 
+: 3588 10 8 Boys 
+- 3600
+: 3604 2 8 Are 
+: 3607 6 10 al
+: 3615 6 7 ways 
+: 3623 6 3 cat
+: 3631 6 10 ching 
+: 3639 10 8 my 
+: 3652 8 5 eye 
+- 3662
+F 3663 4 8 (Ooh 
+F 3669 6 8 way, 
+F 3679 4 8 ooh 
+F 3685 6 8 way, 
+F 3695 4 8 ooh 
+F 3700 5 8 wah) 
+- 3707
+F 3743 4 5 Bad 
+F 3751 4 5 boy, 
+F 3759 4 5 bad 
+F 3766 10 5 boys 
+E

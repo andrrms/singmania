@@ -1,0 +1,182 @@
+#ARTIST:Lagwagon
+#TITLE:Change Despair
+#MP3:Lagwagon - Change Despair.mp3
+#CREATOR:Canni
+#YEAR:1998
+#LANGUAGE:English
+#BPM:214.9
+#GAP:10000
+#VIDEO:a=76SvUG49TWo,co=lets-talk-about-feelings-50bf277909be3.jpg,bg=lagwagon-4fb6c52b994a8.JPG
+: 0 11 17 Ev
+: 12 3 17 ery
+: 16 5 16 thing 
+: 22 3 12 that 
+: 26 5 9 I’ve 
+: 32 12 14 done 
+- 46
+: 50 5 14 Here 
+: 56 3 12 in
+: 60 5 10 to 
+: 66 12 12 one 
+- 80
+: 82 5 12 In 
+: 88 5 10 kee
+: 94 3 9 ping 
+: 98 10 5 with 
+- 110
+: 130 15 17 Some 
+: 146 5 16 earned 
+: 152 3 12 con
+: 156 5 9 vic
+: 162 12 14 tion 
+- 175
+: 176 7 14 Some 
+: 184 3 12 stag
+: 188 5 17 na
+: 194 12 12 tion 
+- 208
+: 210 7 12 Some 
+: 218 5 10 change 
+: 224 3 9 des
+: 228 8 5 pair 
+- 238
+: 258 7 12 Dis
+: 266 7 12 ap
+: 274 5 12 point
+: 280 3 12 ment 
+: 284 5 14 and 
+: 290 12 12 odds 
+- 304
+: 306 5 12 In 
+: 312 5 10 a 
+: 318 5 9 cos
+: 324 6 5 tume 
+: 332 7 0 you 
+: 340 7 10 can’t 
+: 348 7 9 take 
+: 356 12 7 off 
+- 370
+: 372 5 12 Leave 
+: 378 3 10 it 
+: 382 5 9 be
+: 388 8 5 hind 
+- 397
+: 398 3 5 I 
+: 402 5 12 know 
+: 408 3 10 that 
+: 412 5 9 this 
+: 418 8 7 time 
+- 428
+: 430 3 5 I 
+: 434 5 9 get 
+: 440 3 7 in 
+: 444 5 4 for 
+: 450 10 5 free 
+- 462
+: 512 5 17 Our 
+: 518 3 17 la
+: 522 5 17 test 
+: 528 5 16 ren
+: 534 2 17 di
+: 538 5 21 tion 
+: 544 8 14 lame 
+- 554
+: 560 3 12 Re
+: 564 3 12 in
+: 568 5 10 car
+: 574 10 12 nate 
+- 586
+: 590 5 12 Re
+: 596 3 10 turn 
+: 600 5 9 the 
+: 606 10 5 same 
+- 618
+: 638 5 17 Still 
+: 644 3 17 the 
+: 648 5 17 best 
+: 654 5 16 times 
+: 660 3 12 are 
+: 664 5 9 here 
+: 670 10 14 now 
+- 682
+: 684 5 14 Now 
+: 690 3 12 that 
+: 694 5 10 I’m 
+: 700 12 12 bored, 
+: 716 5 12 now 
+: 722 3 10 that 
+: 726 5 9 I’m 
+: 732 10 5 numb 
+- 744
+: 762 11 12 Done, 
+: 774 3 12 I 
+: 778 5 12 know 
+: 784 3 14 this 
+: 788 5 16 is 
+: 794 12 12 wrong 
+- 807
+: 808 7 12 Safe 
+: 816 3 10 in 
+: 820 5 9 that 
+: 826 7 5 stance 
+: 834 7 0 but 
+: 842 7 10 in
+: 850 7 9 com
+: 858 10 7 plete 
+- 869
+: 870 3 7 I 
+: 874 5 12 leave 
+: 880 5 10 it 
+: 886 3 9 be
+: 890 10 5 hind 
+- 901
+: 902 3 5 I 
+: 906 5 12 know 
+: 912 3 10 that 
+: 916 5 9 this 
+: 922 8 7 time 
+: 934 3 5 I 
+: 938 5 9 get 
+: 944 3 7 in 
+: 948 3 4 for 
+: 952 10 5 free 
+- 964
+: 1086 1 21 Some 
+: 1088 1 19 of 
+: 1090 3 17 it’s 
+: 1094 3 12 ha
+: 1098 3 19 bi
+: 1102 10 19 tual 
+- 1114
+: 1182 3 21 Some 
+: 1186 1 19 of 
+: 1188 3 17 it 
+: 1192 3 12 pre
+: 1196 3 19 dic
+: 1200 1 19 ta
+: 1202 8 17 ble 
+- 1212
+: 1214 3 14 Some
+: 1218 3 14 times 
+: 1222 3 14 the 
+: 1226 5 14 change 
+: 1232 3 12 is 
+: 1236 3 14 not 
+: 1240 3 9 e
+: 1244 8 7 nough 
+- 1254
+: 1310 5 5 And 
+: 1316 3 9 in 
+: 1320 3 14 the 
+: 1324 6 9 lost 
+: 1332 1 12 em
+: 1334 3 14 pa
+: 1338 8 16 thy 
+- 1347
+: 1348 3 17 Me
+: 1352 3 17 mo
+: 1356 8 17 ries, 
+: 1366 1 14 bet
+: 1368 3 16 ter 
+: 1372 18 17 days 
+E

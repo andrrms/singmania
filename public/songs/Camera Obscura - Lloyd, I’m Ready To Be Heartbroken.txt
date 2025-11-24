@@ -1,0 +1,265 @@
+#ARTIST:Camera Obscura
+#TITLE:Lloyd, I’m Ready To Be Heartbroken
+#MP3:Camera Obscura - Lloyd, I’m Ready To Be Heartbroken.mp3
+#CREATOR:sanicsip
+#YEAR:2006
+#LANGUAGE:English
+#BPM:360
+#GAP:29370
+#VIDEO:v=9gnsWamIB4s,co=https://is1-ssl.mzstatic.com/image/thumb/Music/ff/d2/92/mzi.odeocamk.jpg/5000x5000bb.jpg,bg=camera-obscura-4f36b25e236ba.jpg
+: 0 8 9 He 
+: 10 5 5 said 
+: 16 5 5 “I’ll 
+: 22 3 5 pro
+: 27 3 5 tect 
+: 32 3 2 you 
+: 36 5 5 like 
+: 42 3 5 you 
+: 46 5 3 are 
+- 51
+: 53 2 5 The 
+: 57 8 5 crown 
+: 67 4 5 jew
+: 72 8 5 els” 
+: 81 26 5 yet 
+- 117
+: 150 5 5 Said 
+: 156 4 5 he’s 
+* 162 8 10 feel
+: 171 3 5 ing 
+: 176 3 4 sor
+: 180 1 5 ri
+: 182 3 5 er 
+: 187 3 5 for 
+: 192 4 5 me 
+: 197 3 5 the 
+: 201 8 5 more 
+: 210 4 3 I 
+- 215
+: 217 4 5 Be
+: 222 2 3 have 
+: 226 16 4 badly 
+: 243 7 3 I 
+: 251 4 5 can 
+: 256 21 3 bet 
+- 301
+: 327 11 11 Hey 
+: 341 19 5 Lloyd 
+- 369
+: 373 8 8 I’m 
+: 382 14 5 ready 
+: 398 3 5 to 
+: 403 10 5 be 
+* 414 8 5 heart
+: 423 9 6 bro
+: 433 19 5 ken 
+- 462
+: 473 9 0 Cause I 
+: 483 9 2 can’t 
+: 494 8 1 see 
+: 505 5 1 fur
+: 511 3 3 ther 
+: 515 26 1 than 
+- 542
+: 544 10 2 My 
+: 555 10 1 own 
+: 566 10 2 nose 
+: 577 3 1 at 
+: 581 4 0 this 
+: 586 10 1 mo
+: 599 23 0 ment 
+- 670
+: 812 6 12 Jeal
+: 819 7 10 ousy 
+: 827 4 12 is 
+* 832 6 8 more 
+: 839 3 7 than 
+: 843 3 5 a 
+: 847 8 5 word 
+: 856 9 5 now 
+- 866
+: 868 4 5 I 
+: 873 4 5 un
+: 878 8 5 der
+: 887 24 2 stand 
+- 935
+: 967 4 11 You 
+: 972 8 5 can 
+: 982 6 5 stay 
+: 989 3 5 a 
+: 993 23 6 girl 
+- 1017
+: 1019 8 0 By 
+: 1029 8 3 hold
+: 1038 4 4 ing 
+: 1043 3 3 a 
+* 1047 39 4 boy’s 
+: 1088 26 3 hand 
+- 1124
+: 1132 15 11 Hey 
+: 1150 25 -7 Lloyd 
+- 1176
+: 1178 10 8 I’m 
+: 1189 13 5 ready 
+: 1203 3 5 to 
+: 1208 10 5 be 
+: 1219 9 5 heart
+: 1230 6 6 bro
+: 1238 26 5 ken 
+- 1275
+: 1279 9 0 Cause I 
+: 1290 7 2 can’t 
+: 1299 8 1 see 
+: 1309 4 1 fur
+: 1315 4 3 ther 
+: 1321 23 1 than 
+- 1347
+: 1349 10 2 My 
+: 1361 10 1 own 
+: 1372 10 2 nose 
+: 1383 3 1 at 
+: 1387 4 0 this 
+: 1392 8 1 mo
+: 1402 26 0 ment 
+- 1438
+: 1457 12 11 Hey 
+: 1471 30 5 Lloyd 
+- 1501
+: 1503 8 8 I’m 
+: 1512 16 5 ready 
+: 1529 3 5 to 
+: 1534 7 5 be 
+: 1542 11 5 heart
+: 1554 8 6 bro
+: 1563 28 5 ken 
+- 1600
+: 1604 9 6 Cause I 
+: 1615 10 7 can’t 
+: 1626 8 6 see 
+: 1636 4 5 fur
+: 1642 4 7 ther 
+: 1647 25 6 than 
+- 1674
+: 1676 9 2 My 
+: 1686 9 1 own 
+: 1697 10 2 nose 
+: 1708 3 1 at 
+* 1712 4 0 this 
+: 1717 9 1 mo
+: 1727 25 0 ment 
+- 1762
+: 1772 9 0 This 
+* 1782 4 1 mo
+* 1788 21 0 ment 
+- 1857
+: 3240 4 2 I’ve 
+: 3245 8 7 got 
+: 3254 5 1 my 
+: 3260 8 7 life 
+* 3270 3 6 of 
+* 3274 7 6 com
+: 3282 3 6 pli
+: 3287 6 4 ca
+: 3295 6 1 tion 
+: 3302 12 1 here 
+- 3315
+: 3317 3 1 To 
+: 3322 8 3 sort 
+: 3332 20 3 out 
+- 3362
+: 3396 3 1 Take 
+: 3401 3 0 my
+: 3406 8 -3 self 
+: 3416 4 -2 to 
+: 3421 3 -2 an 
+: 3425 6 6 east 
+: 3432 8 6 coast 
+* 3441 27 4 city 
+- 3469
+: 3471 9 4 And 
+: 3481 8 4 walk 
+* 3490 4 3 a
+: 3495 21 0 bout 
+- 3540
+: 3564 14 11 Hey 
+: 3580 21 5 Lloyd 
+- 3607
+: 3609 8 8 I’m 
+: 3618 14 5 ready 
+: 3633 4 5 to 
+: 3638 8 5 be 
+: 3647 11 5 heart
+: 3659 8 6 bro
+: 3668 28 5 ken 
+- 3705
+: 3709 7 6 Cause I 
+: 3718 9 7 can’t 
+: 3728 8 6 see 
+: 3737 5 5 fur
+: 3743 5 7 ther 
+: 3749 23 6 than 
+- 3776
+: 3778 8 2 My 
+: 3788 10 1 own 
+: 3800 10 2 nose 
+: 3811 3 1 at 
+: 3815 3 0 this 
+: 3820 8 1 mo
+: 3829 25 0 ment 
+- 3864
+: 3884 12 11 Hey 
+: 3898 28 5 Lloyd 
+- 3929
+: 3931 8 8 I’m 
+: 3940 14 6 ready 
+: 3955 4 5 to 
+: 3961 7 5 be 
+: 3970 10 5 heart
+: 3981 8 6 bro
+: 3990 31 5 ken 
+- 4029
+: 4032 7 6 Cause I 
+: 4040 9 7 can’t 
+: 4050 9 6 see 
+: 4061 5 5 fur
+: 4067 4 7 ther 
+: 4072 26 6 than 
+- 4100
+: 4102 8 2 My 
+: 4112 8 7 own 
+: 4123 11 2 nose 
+: 4135 3 1 at 
+: 4139 4 0 this 
+: 4144 7 1 mo
+: 4152 28 0 ment 
+- 4190
+: 4208 12 11 Hey 
+* 4221 28 5 Lloyd 
+- 4251
+: 4253 10 8 I’m 
+: 4264 13 6 ready 
+: 4278 4 5 to 
+: 4284 9 5 be 
+: 4294 10 5 heart
+: 4306 8 6 bro
+: 4315 33 5 ken 
+- 4352
+: 4354 7 6 Cause I 
+* 4365 8 7 can’t 
+* 4375 8 6 see 
+* 4385 4 5 fur
+* 4390 4 7 ther 
+: 4396 26 6 than 
+- 4424
+: 4426 7 6 My 
+: 4435 9 7 own 
+: 4446 9 7 nose 
+: 4456 3 5 at 
+: 4460 4 5 this 
+: 4466 8 7 mo
+: 4476 30 6 ment 
+- 4516
+: 4520 9 8 This 
+* 4531 14 7 mo
+: 4546 50 6 ment 
+E

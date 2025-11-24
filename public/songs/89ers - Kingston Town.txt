@@ -1,0 +1,230 @@
+#ARTIST:89ers
+#TITLE:Kingston Town
+#MP3:89ers - Kingston Town.mp3
+#CREATOR:FaKK
+#YEAR:2003
+#LANGUAGE:English
+#BPM:284
+#GAP:12100
+#VIDEO:v=eJ8UFST26AU,co=kingston-town-685dabf9e8cf3.jpg
+: 0 3 12 The 
+: 4 3 12 ni
+: 10 8 8 ght 
+: 38 6 10 seems 
+: 48 4 12 to 
+: 56 8 7 fade 
+- 66
+: 86 4 8 But 
+: 93 2 10 the 
+: 100 4 5 moon
+: 109 9 5 light 
+: 132 4 3 lin
+: 137 4 1 gers 
+: 143 9 -2 on 
+- 154
+: 176 3 8 There 
+: 182 3 0 are 
+: 188 6 1 won
+: 200 8 5 ders 
+: 226 3 8 for 
+: 233 16 10 eve
+* 253 13 15 ry
+* 269 4 15 on
+* 275 9 12 e 
+* 308 4 12 wo
+* 314 10 10 oh 
+- 326
+: 352 2 3 The 
+: 357 11 8 stars 
+: 392 5 10 shine 
+: 400 7 12 so 
+: 408 8 7 bright 
+- 418
+: 441 2 8 But 
+: 446 4 10 they’re 
+: 452 9 5 fa
+: 464 4 5 ding 
+: 484 2 3 af
+: 491 3 1 ter 
+: 496 8 -2 dawn 
+- 506
+: 529 3 8 There 
+: 535 2 0 is 
+: 540 6 1 ma
+: 552 10 5 gic 
+: 577 2 8 in 
+* 585 5 12 Ki
+: 594 18 7 ng
+: 617 3 7 ston 
+: 624 4 10 to
+: 630 10 8 wn 
+- 642
+F 1312 7 12 When 
+F 1320 5 12 I’m 
+F 1326 3 12 when 
+F 1330 3 12 I’m 
+F 1334 7 12 king 
+- 1342
+F 1342 3 12 When 
+F 1346 3 12 I’m 
+F 1350 3 12 when 
+F 1354 3 12 I’m 
+F 1358 3 12 when 
+F 1362 3 12 I’m 
+F 1366 6 12 king 
+- 1374
+F 1376 7 12 When 
+F 1384 5 12 I’m 
+F 1390 3 12 when 
+F 1394 3 12 I’m 
+F 1398 7 12 king 
+- 1406
+F 1406 3 12 When 
+F 1410 3 12 I’m 
+F 1414 3 12 when 
+F 1418 3 12 I’m 
+F 1422 3 12 when 
+F 1426 3 12 I’m 
+F 1430 6 12 king 
+- 1438
+F 1440 7 12 When 
+F 1448 5 12 I’m 
+F 1454 3 12 when 
+F 1458 3 12 I’m 
+F 1462 7 12 king 
+- 1470
+F 1470 3 12 When 
+F 1474 3 12 I’m 
+F 1478 3 12 when 
+F 1482 3 12 I’m 
+F 1486 3 12 when 
+F 1490 3 12 I’m 
+F 1494 6 12 king 
+- 1502
+F 1504 7 12 When 
+F 1512 5 12 I’m 
+F 1518 3 12 when 
+F 1522 3 12 I’m 
+F 1526 7 12 king 
+- 1534
+F 1534 3 12 When 
+F 1538 3 12 I’m 
+F 1542 3 12 I’m 
+F 1546 3 12 king 
+F 1550 3 12 I’m 
+F 1554 3 12 I’m 
+F 1558 6 12 king 
+- 1566
+F 1568 7 12 When 
+F 1576 5 12 I’m 
+F 1582 3 12 when 
+F 1586 3 12 I’m 
+F 1590 7 12 king 
+- 1598
+F 1598 3 12 When 
+F 1602 3 12 I’m 
+F 1606 3 12 when 
+F 1610 3 12 I’m 
+F 1614 3 12 when 
+F 1618 3 12 I’m 
+F 1622 6 12 king 
+- 1630
+F 1632 7 12 When 
+F 1640 5 12 I’m 
+F 1646 3 12 when 
+F 1650 3 12 I’m 
+F 1654 7 12 king 
+- 1662
+F 1662 3 12 When 
+F 1666 3 12 I’m 
+F 1670 3 12 when 
+F 1674 3 12 I’m 
+F 1678 3 12 when 
+F 1682 3 12 I’m 
+F 1686 6 12 king 
+- 1694
+F 1696 7 12 When 
+F 1704 5 12 I’m 
+F 1710 3 12 when 
+F 1714 3 12 I’m 
+F 1718 7 12 king 
+- 1726
+F 1726 3 12 When 
+F 1730 3 12 I’m 
+F 1734 3 12 when 
+F 1738 3 12 I’m 
+F 1742 3 12 when 
+F 1746 3 12 I’m 
+F 1750 6 12 king 
+- 1758
+F 1760 7 12 When 
+F 1768 5 12 I’m 
+F 1774 3 12 when 
+F 1778 3 12 I’m 
+F 1782 7 12 king 
+- 1790
+F 1790 3 12 When 
+F 1794 3 12 I’m 
+F 1798 3 12 when 
+F 1802 3 12 I’m 
+F 1806 3 12 when 
+F 1810 3 12 I’m 
+F 1814 6 12 king 
+- 1822
+: 1848 3 12 The 
+: 1852 3 12 ni
+: 1856 8 8 ght 
+: 1876 4 10 seems 
+: 1883 3 12 to 
+: 1888 8 7 fade 
+- 1898
+: 1911 2 8 But 
+: 1915 2 10 the 
+: 1920 4 5 moon
+: 1928 6 5 light 
+: 1944 2 3 lin
+: 1948 2 1 gers 
+: 1952 6 -2 on 
+- 1960
+: 1976 3 8 There 
+: 1980 3 0 are 
+: 1985 5 1 won
+: 1992 12 5 ders 
+: 2012 3 8 for 
+: 2016 14 10 eve
+* 2032 8 15 ry
+* 2044 3 15 on
+* 2048 8 12 e 
+* 2072 3 12 wo
+* 2077 5 10 oh 
+- 2084
+: 2104 2 12 The 
+: 2108 8 8 stars 
+: 2132 4 10 shine 
+: 2138 4 12 so 
+: 2145 7 7 bright 
+- 2154
+: 2168 3 8 But 
+: 2173 2 10 they’re 
+: 2177 6 5 fa
+: 2185 7 5 ding 
+: 2200 2 3 af
+: 2205 2 1 ter 
+: 2210 6 -2 dawn 
+- 2218
+: 2232 2 8 There 
+: 2236 2 0 is 
+: 2240 6 1 ma
+: 2249 7 5 gic 
+: 2268 2 8 in 
+* 2274 4 12 Ki
+: 2282 8 7 ng
+: 2296 2 7 ston 
+: 2300 4 10 to
+: 2306 10 8 wn 
+- 2318
+F 2384 2 8 8
+F 2387 2 8 9
+F 2390 4 8 e
+F 2395 5 8 rs 
+E

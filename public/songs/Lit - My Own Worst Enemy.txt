@@ -1,0 +1,286 @@
+#ARTIST:Lit
+#TITLE:My Own Worst Enemy
+#MP3:Lit - My Own Worst Enemy.mp3
+#CREATOR:jdogk
+#GENRE:Rock
+#YEAR:1999
+#LANGUAGE:English
+#BPM:208
+#GAP:32380
+#VIDEO:v=sc5iTNVEOAg,co=https://i.discogs.com/KUviLJgYa8VjFZ5teHWQgn_mCtfpe6NrtIR8iBIPCTs/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDc0/Ni0xMTg5NTM3MTUy/LmpwZWc.jpeg,bg=lit-518ef982e2cff.jpg
+: 0 3 -4 Can 
+: 4 3 -4 we 
+: 8 1 -3 for
+: 10 5 -1 get 
+: 16 1 -3 a
+: 18 5 -4 bout 
+: 24 1 -3 the 
+: 26 5 -1 things 
+- 32
+: 32 1 -3 I 
+: 34 5 -4 said 
+: 40 1 -3 when 
+: 42 5 -1 I 
+: 48 1 -3 was 
+: 50 10 -4 drunk 
+- 62
+: 74 1 -4 I 
+: 76 3 -1 did
+: 80 1 -3 n’t 
+: 82 5 -4 mean 
+: 88 1 -6 to 
+: 90 5 -8 call 
+: 96 1 -6 you 
+: 98 10 -4 that 
+- 110
+: 128 3 -4 I 
+: 132 3 -4 can’t 
+: 136 1 -3 re 
+: 138 5 -1 mem
+: 144 1 -3 ber 
+: 146 5 -4 what 
+: 152 1 -3 was 
+: 154 5 -1 said 
+- 160
+: 160 1 -3 Or 
+: 162 5 -4 what 
+: 168 1 -3 you 
+: 170 5 -1 threw 
+: 176 1 -3 at 
+* 178 10 4 me 
+- 190
+: 196 7 -1 Please 
+: 204 7 8 tell 
+: 212 12 4 me 
+- 226
+: 228 7 8 Please 
+: 236 7 4 tell 
+: 244 7 6 me 
+* 252 19 4 why
+* 272 1 1 -y
+* 274 5 -1 -y
+* 280 1 -3 -y
+* 282 15 -4 -y? 
+- 298
+: 298 1 4 My 
+: 300 3 8 car 
+: 304 1 6 is 
+: 306 5 4 in 
+: 312 1 6 the 
+: 314 5 8 front 
+: 320 16 4 yard 
+- 338
+: 340 7 1 And 
+: 348 12 -1 I’m 
+: 364 3 8 sleep
+: 368 1 6 ing 
+: 370 5 4 with 
+: 376 1 6 my 
+: 378 5 8 clothes 
+: 384 28 4 on 
+- 414
+: 430 3 8 Came 
+: 434 1 6 in 
+: 436 5 4 through 
+: 442 1 6 the 
+: 444 3 8 win
+: 448 19 4 dow 
+: 468 7 1 last 
+: 476 12 -1 night 
+- 490
+: 492 7 1 And 
+: 500 15 4 you’re 
+: 516 8 -1 gone 
+- 526
+: 552 3 -1 Go
+: 556 1 -3 -o
+: 558 6 -4 ne 
+- 566
+: 644 3 -4 It’s 
+: 648 3 -4 no 
+: 652 1 -3 sur
+: 654 5 -1 prise 
+: 660 1 -3 to 
+: 662 5 -4 me 
+- 668
+: 668 1 -3 I 
+: 670 5 -1 am 
+: 676 1 -3 my 
+: 678 5 -4 own 
+: 684 1 -3 worst 
+: 686 5 -1 en
+: 692 1 -3 e
+: 694 10 -4 my 
+- 706
+: 712 3 -4 Cuz 
+: 716 1 -3 every 
+: 718 5 -1 now 
+: 724 1 -3 and 
+: 726 5 -4 then 
+- 732
+: 732 1 -3 I 
+: 734 5 -1 kick 
+: 740 1 -3 the 
+: 742 3 -4 liv
+: 746 5 -3 ing 
+: 752 1 -1 shit 
+: 754 1 -3 out 
+: 756 1 -3 of 
+: 758 6 -4 me 
+- 766
+: 774 3 -4 The 
+: 778 3 -4 smoke 
+: 782 1 -3 a
+: 784 5 -1 larm 
+: 790 1 -3 is 
+: 792 5 -4 go
+: 798 1 -3 ing 
+: 800 5 -1 off 
+- 806
+: 806 1 -3 And 
+: 808 5 -4 there’s 
+: 814 1 -3 a 
+: 816 5 -1 cig
+: 822 1 -3 a
+* 824 10 4 rette 
+- 836
+: 840 7 -1 Still 
+: 848 7 8 burn
+: 856 12 4 ing 
+- 870
+: 872 7 8 Please 
+: 880 7 4 tell 
+: 888 7 6 me 
+* 896 19 4 wh
+* 916 1 1 -y
+* 918 5 -1 -y
+* 924 1 -3 -y
+* 926 15 -4 -y? 
+- 942
+: 942 1 4 My 
+: 944 3 8 car 
+: 948 1 6 is 
+: 950 5 4 in 
+: 956 1 6 the 
+: 958 5 8 front 
+: 964 16 4 yard 
+- 982
+: 986 7 1 And 
+: 994 12 -1 I’m 
+: 1010 3 8 sleep
+: 1014 1 6 ing 
+: 1016 5 4 with 
+: 1022 1 6 my 
+: 1024 5 8 clothes 
+: 1030 28 4 on 
+- 1060
+: 1072 3 8 Came 
+: 1076 1 6 in 
+: 1078 5 4 through 
+: 1084 1 6 the 
+: 1086 5 8 win
+: 1092 19 4 dow 
+: 1112 7 1 last 
+: 1120 12 -1 night 
+- 1134
+: 1136 7 1 And 
+: 1144 15 4 you’re 
+: 1160 8 -1 gone 
+- 1170
+: 1194 3 -1 Go
+: 1198 1 -3 -o
+: 1200 6 -4 ne 
+- 1208
+: 1386 7 8 Please 
+: 1394 7 4 tell 
+: 1402 7 6 me 
+: 1410 19 4 why
+: 1430 1 1 -y
+: 1432 5 -1 -y
+: 1438 1 -3 -y
+: 1440 15 -4 -y? 
+- 1456
+: 1456 1 4 My 
+: 1458 3 8 car 
+: 1462 1 6 is 
+: 1464 5 4 in 
+: 1470 1 6 the 
+: 1472 5 8 front 
+: 1478 16 4 yard 
+- 1496
+: 1498 7 1 And 
+: 1506 12 -1 I’m 
+: 1522 3 8 sleep
+: 1526 1 6 ing 
+: 1528 5 4 with 
+: 1534 1 6 my 
+: 1536 5 8 clothes 
+: 1542 28 4 on 
+- 1572
+: 1588 3 8 Came 
+: 1592 1 6 in 
+: 1594 5 4 through 
+: 1600 1 6 the 
+* 1602 5 8 win
+* 1608 19 4 dow 
+* 1628 7 1 last 
+* 1636 24 -1 night 
+- 1662
+: 1670 3 -4 It’s 
+: 1674 3 -4 no 
+: 1678 1 -3 sur
+: 1680 5 -1 prise 
+: 1686 1 -3 to 
+: 1688 5 -4 me 
+- 1694
+: 1694 1 -3 I 
+: 1696 5 -1 am 
+: 1702 1 -3 my 
+: 1704 5 -4 own 
+: 1710 1 -3 worst 
+: 1712 5 -1 en
+: 1718 1 -3 e
+: 1720 10 -4 my 
+- 1732
+: 1740 1 -4 Cuz 
+: 1742 3 -4 eve
+: 1746 1 -3 ry 
+: 1748 5 -1 now 
+: 1754 1 -3 and 
+: 1756 5 -4 then 
+- 1762
+: 1762 1 -3 I 
+: 1764 5 -1 kick 
+: 1770 1 -3 the 
+: 1772 3 -4 liv
+: 1776 5 -3 ing 
+: 1782 1 -1 shit 
+: 1784 1 -3 out 
+: 1786 1 -3 of 
+: 1788 6 -4 me 
+- 1796
+: 1802 3 -4 Can 
+: 1806 3 -4 we 
+: 1810 1 -3 for
+: 1812 5 -1 get 
+: 1818 1 -3 a
+: 1820 5 -4 bout 
+: 1826 1 -3 the 
+: 1828 5 -1 things 
+- 1834
+: 1834 1 -3 I 
+: 1836 5 -4 said 
+: 1842 1 -3 when 
+: 1844 5 -1 I 
+: 1850 1 -3 was 
+: 1852 10 -4 drunk 
+- 1864
+: 1876 1 -4 I 
+: 1878 3 -1 did
+: 1882 1 -3 n’t 
+: 1884 5 -4 mean 
+: 1890 1 -6 to 
+: 1892 5 -8 call 
+: 1898 1 -6 you 
+: 1900 10 -4 that 
+E

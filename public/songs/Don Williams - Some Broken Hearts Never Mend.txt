@@ -1,0 +1,158 @@
+#ARTIST:Don Williams
+#TITLE:Some Broken Hearts Never Mend
+#MP3:Don Williams - Some Broken Hearts Never Mend.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Country
+#YEAR:1976
+#LANGUAGE:English
+#BPM:391
+#GAP:9560
+#VIDEO:a=ONAhFxPapWg,co=https://upload.wikimedia.org/wikipedia/en/4/4c/Some_Broken_Hearts_Never_Mend_-_by_Don_Williams.jpg,bg=williams-don-514eef4c61791.jpg
+: 0 7 4 Cof
+: 8 7 4 fee 
+: 16 16 9 black 
+: 64 7 11 ci
+: 72 7 11 ga
+: 80 16 8 rette 
+- 98
+: 124 11 13 Start 
+: 136 7 14 this 
+: 144 32 16 day 
+: 184 7 16 like 
+: 192 7 13 all 
+: 200 3 11 the 
+: 204 20 9 rest 
+- 226
+: 272 7 14 First 
+: 280 7 14 thing 
+: 288 11 14 every 
+: 300 15 16 morn
+: 316 7 18 ing 
+: 324 3 16 that 
+: 328 7 14 I 
+: 336 16 13 do 
+- 354
+: 388 3 4 Is 
+: 392 7 4 start 
+: 400 15 11 missing 
+: 416 16 11 you 
+- 434
+: 544 15 16 Some 
+: 560 23 18 brok
+: 584 7 13 en 
+: 592 15 16 hearts 
+: 608 7 16 nev
+: 616 7 15 er 
+: 624 16 14 mend 
+- 642
+: 680 11 18 Some 
+: 692 11 20 mem
+: 704 7 18 o
+: 712 7 18 ries 
+: 720 35 16 never 
+: 756 20 21 end 
+- 778
+: 808 11 21 Some 
+: 820 15 20 tea
+: 836 7 21 rs 
+: 844 7 25 will 
+: 852 31 23 never 
+: 884 16 21 dry 
+- 902
+: 916 15 17 My 
+: 932 7 20 love 
+: 940 7 21 for 
+: 948 7 23 you 
+: 956 7 25 will 
+: 964 11 23 never 
+: 976 20 21 die 
+- 998
+: 1604 7 4 Re
+: 1612 7 6 nd
+: 1620 12 9 ezvous 
+: 1668 7 11 in 
+: 1676 3 11 the 
+: 1680 20 8 night 
+- 1702
+: 1728 3 13 A 
+: 1732 15 14 willing 
+: 1748 28 16 woman 
+: 1788 3 13 to 
+: 1792 11 11 hold 
+: 1804 3 9 me 
+: 1808 20 13 tight 
+- 1830
+: 1872 7 14 But 
+: 1880 7 14 the 
+: 1888 7 16 mi
+: 1896 7 18 ddle 
+: 1904 15 18 of 
+: 1920 11 16 loves 
+: 1932 3 14 em
+: 1936 20 13 brace 
+- 1958
+: 1992 3 4 I 
+: 1996 11 4 see 
+: 2008 7 11 your 
+: 2016 24 11 face 
+- 2042
+: 2140 19 16 Some 
+: 2160 23 18 brok
+: 2184 7 13 en 
+: 2192 15 16 hearts 
+: 2208 7 16 nev
+: 2216 3 15 er 
+: 2220 20 14 mend 
+- 2242
+: 2276 11 18 Some 
+: 2288 19 20 mem
+: 2308 3 18 ori
+: 2312 7 18 es 
+: 2320 31 16 never 
+: 2352 16 21 end 
+- 2370
+: 2404 11 21 Some 
+: 2416 23 20 tears 
+: 2440 7 21 will 
+: 2448 19 25 nev
+: 2468 7 23 er 
+: 2476 24 21 dry 
+- 2502
+: 2508 15 16 My 
+: 2524 11 20 love 
+: 2536 3 21 for 
+: 2540 11 23 you 
+: 2552 7 25 will 
+: 2560 11 23 never 
+: 2572 20 21 die 
+- 2594
+: 2652 19 16 Some 
+: 2672 23 18 brok
+: 2696 7 13 en 
+: 2704 15 16 hearts 
+: 2720 7 16 nev
+: 2728 3 15 er 
+: 2732 20 14 mend 
+- 2754
+: 2788 11 18 Some 
+: 2800 19 20 mem
+: 2820 3 18 or
+: 2824 7 18 ies 
+: 2832 31 16 never 
+: 2864 16 21 end 
+- 2882
+: 2912 11 21 Some 
+: 2924 23 20 tears 
+: 2948 7 21 will 
+: 2956 23 25 nev
+: 2980 7 23 er 
+: 2988 20 21 dry 
+- 3010
+: 3020 15 16 My 
+: 3036 7 20 love 
+: 3044 7 21 for 
+: 3052 7 23 you 
+: 3060 7 25 will 
+: 3068 11 23 never 
+: 3080 24 21 die 
+E

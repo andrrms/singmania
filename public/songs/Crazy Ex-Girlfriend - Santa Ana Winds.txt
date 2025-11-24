@@ -1,0 +1,219 @@
+#ARTIST:Crazy Ex-Girlfriend
+#TITLE:Santa Ana Winds
+#MP3:Crazy Ex-Girlfriend - Santa Ana Winds.mp3
+#CREATOR:blackcat6
+#COVER:Crazy Ex-Girlfriend - Santa Ana Winds [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend - Santa Ana Winds [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:366
+#GAP:8680
+#VIDEO:v=J5XdQ5q2PIA,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/e8/60/45e86038-0b28-8f57-8de4-04559f60767d/794043191060.jpg/5000x5000bb.jpg
+: 0 3 -1 Hel
+: 6 8 2 lo
+: 18 4 2  there,
+: 24 5 7  it’s
+: 36 5 9  me
+: 42 5 11 ~
+: 48 5 9 ~
+: 54 14 7 ~
+- 78
+: 96 4 0 I’m
+: 102 2 0  the
+: 108 4 4  San
+: 114 2 4 ta
+: 119 4 7  A
+: 125 3 7 na
+: 132 5 11  winds
+: 138 5 12 ~
+: 144 5 11 ~
+: 150 14 9 ~
+- 174
+: 192 2 -1 I
+: 199 8 2  cause
+: 210 4 2  al
+: 216 8 7 ler
+: 228 5 9 gies
+: 234 5 11 ~
+: 240 5 9 ~
+: 246 12 7 ~
+- 268
+: 282 4 0 I
+: 288 2 0  al
+: 294 3 0 so
+: 300 6 4  make
+: 312 6 7  things
+: 324 5 11  weird
+: 330 5 12 ~
+: 336 5 11 ~
+: 342 14 9 ~
+- 366
+: 390 4 7 A
+: 396 4 6  lit
+: 402 3 6 tle
+: 408 4 7  bit
+: 414 1 7  a
+: 420 4 9 bout
+: 426 4 9  me,
+: 432 4 7  I’m
+: 438 2 7  a
+: 444 4 6  hot
+: 452 4 7  hot
+: 463 9 4  breeze
+- 478
+: 480 4 7 That
+: 486 3 7  o
+: 492 3 6 ri
+: 498 3 6 gi
+: 504 2 7 nates
+: 510 3 7  from
+* 516 8 11  high
+* 528 2 9  pres
+* 534 2 7 sure
+: 540 9 11  air
+: 552 2 9  mas
+: 558 4 7 ses
+- 573
+: 577 3 7 Tech
+: 583 2 7 ni
+: 589 5 6 cally
+: 596 6 7  I’m
+: 607 9 9  known
+- 622
+: 624 4 7 As
+: 630 1 7  a
+: 636 4 6  ka
+: 642 2 6 ta
+: 648 4 7 ba
+: 654 2 7 tic
+: 660 7 4  wind
+- 675
+: 678 2 7 That’s
+: 685 3 6  sci
+: 690 3 6 ence
+: 697 4 7  for
+: 702 2 7  a
+: 708 10 11  pain
+: 720 3 9  in
+: 726 2 7  your
+: 732 7 11  as
+: 744 5 9 ses
+: 750 4 7 ~
+- 764
+: 774 4 11 I’m
+: 780 2 11  mys
+: 786 1 11 ti
+: 792 3 11 cal
+: 798 4 11  but
+: 804 2 11  al
+: 810 2 11 so
+: 816 4 11  car
+: 822 2 11 ry
+: 828 4 11  dan
+: 834 4 11 ge
+: 840 1 9 rous
+: 846 5 9  spores
+: 852 6 7 ~
+- 862
+: 864 3 7 I
+: 870 4 4  bring
+: 876 3 7  whim
+: 883 4 7 sy
+: 894 2 4  and
+: 900 5 7  fo
+: 907 4 9 rest
+: 918 9 9  fi
+: 929 6 7 res
+- 945
+: 959 4 7 When
+: 965 2 7  I
+: 972 3 7  blow
+: 977 2 7  there’s
+: 984 3 4  ma
+: 990 2 7 gic
+: 996 4 11  in
+: 1002 5 12  the
+: 1008 4 11 ~
+: 1014 8 9  air
+- 1029
+: 1032 4 9 And
+: 1038 2 7  a
+: 1044 5 9  high
+: 1050 4 9 er
+: 1056 2 9  risk
+: 1062 1 9  of
+: 1068 4 9  su
+: 1074 6 11 i
+* 1086 11 14 cide
+* 1098 5 16 ~
+* 1104 5 14 ~
+* 1110 5 16 ~
+* 1116 10 14 ~
+- 1136
+: 1151 4 -1 I
+: 1158 5 2  make
+: 1170 3 2  chil
+: 1176 7 7 dren
+: 1188 5 9  wheeze
+: 1194 5 11 ~
+: 1200 5 9 ~
+: 1206 11 7 ~
+- 1227
+: 1242 2 0 ’Cause
+: 1248 4 0  I’m
+: 1254 1 0  the
+: 1260 4 4  San
+: 1266 2 4 ta
+: 1272 4 7  A
+: 1278 3 7 na
+: 1284 5 11  winds
+: 1290 5 12 ~
+: 1296 5 11 ~
+: 1302 7 9 ~
+- 1318
+: 1321 2 2 To
+: 1326 4 2  re
+: 1332 4 -1 i
+: 1338 4 -1 te
+: 1344 4 -1 rate,
+: 1350 4 -1  I
+: 1356 7 2  make
+: 1368 7 7  things
+: 1380 5 9  weird
+: 1386 5 11 ~
+: 1392 5 9 ~
+: 1398 11 7 ~
+- 1419
+: 1440 4 0 When
+: 1446 2 0  I
+: 1452 4 4  blow
+: 1458 1 4  it
+: 1464 3 7  sounds
+: 1470 3 7  like
+* 1476 5 11  whe
+* 1482 5 12 e
+* 1488 5 11 e
+* 1494 10 9 e
+- 1514
+: 1536 3 7 I’ll
+: 1542 2 7  be
+: 1548 5 7  back
+- 1562
+: 1566 2 4 Be
+: 1572 3 7 cause
+: 1578 3 7  I’m
+: 1584 2 9  the
+: 1590 5 9  wind
+: 1596 6 7 ~
+- 1611
+: 1615 3 3 And
+: 1621 4 7  al
+: 1630 5 7 so
+: 1645 5 7  kind
+: 1652 5 7  of
+: 1660 5 9  a
+: 1668 6 9  nar
+: 1678 7 7 ra
+: 1687 9 7 tor
+E

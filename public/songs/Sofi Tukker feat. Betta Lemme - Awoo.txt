@@ -1,0 +1,195 @@
+#ARTIST:Sofi Tukker feat. Betta Lemme
+#TITLE:Awoo
+#MP3:Sofi Tukker feat. Betta Lemme - Awoo.mp3
+#CREATOR:Johnnn
+#GENRE:Electronic
+#YEAR:2016
+#LANGUAGE:English
+#BPM:248
+#GAP:32050
+#VIDEO:v=x7g_SWE90O8,co=soft-animals-5d9e43bce52b7.jpg
+: 0 2 1 I 
+: 4 4 3 know 
+: 16 2 1 I 
+: 20 4 3 did 
+: 32 2 1 not 
+: 36 4 3 raise 
+: 48 2 1 a 
+: 52 4 3 wrist 
+- 58
+: 64 2 1 I 
+: 68 4 3 know 
+: 80 2 1 I 
+: 84 4 3 did 
+: 96 2 1 not 
+: 100 4 3 cap
+: 112 2 1 ture 
+: 116 4 3 it 
+- 122
+: 128 2 1 It 
+: 132 4 3 came 
+: 144 2 1 it 
+: 148 4 3 went 
+: 160 2 1 it 
+: 164 4 3 con 
+: 176 2 1 quered 
+: 180 4 3 quick 
+- 186
+: 196 4 3 I 
+: 208 2 1 was 
+: 214 4 3 there 
+: 224 2 1 and 
+: 230 4 3 then 
+: 240 2 1 I 
+: 246 4 3 quit 
+- 252
+: 260 2 1 I 
+: 264 4 3 know 
+: 276 2 1 I 
+: 280 4 3 did 
+: 292 2 1 not 
+: 296 4 3 raise 
+: 308 2 1 a 
+: 312 4 3 wrist 
+- 318
+: 324 2 1 I 
+: 328 4 3 know 
+: 340 2 1 I 
+: 344 4 3 did 
+: 356 2 1 not 
+: 360 4 3 cap
+: 372 2 1 ture 
+: 376 4 3 it 
+- 382
+: 388 2 1 It 
+: 392 4 3 came 
+: 404 2 1 it 
+: 408 4 3 went 
+: 420 2 1 it 
+: 424 4 3 con 
+: 436 2 1 quered 
+: 440 4 3 quick 
+- 446
+: 456 4 3 I 
+: 468 2 1 was 
+: 474 4 3 there 
+: 484 2 1 and 
+: 490 4 3 then 
+: 500 2 1 I 
+: 506 3 3 quit 
+- 511
+: 512 5 3 A
+: 520 5 15 woo 
+- 527
+: 1032 2 1 I 
+: 1036 4 3 know 
+: 1048 2 1 I 
+: 1052 4 3 did 
+: 1064 2 1 not 
+: 1068 4 3 raise 
+: 1080 2 1 a 
+: 1084 4 3 wrist 
+- 1090
+: 1096 2 1 I 
+: 1100 4 3 know 
+: 1112 2 1 I 
+: 1116 4 3 did 
+: 1128 2 1 not 
+: 1132 4 3 cap
+: 1144 2 1 ture 
+: 1148 4 3 it 
+- 1154
+: 1160 2 1 It 
+: 1164 4 3 came 
+: 1176 2 1 it 
+: 1180 4 3 went 
+: 1192 2 1 it 
+: 1196 4 3 con 
+: 1208 2 1 quered 
+: 1212 4 3 quick 
+- 1218
+: 1228 4 3 I 
+: 1240 2 1 was 
+: 1246 4 3 there 
+: 1256 2 1 and 
+: 1262 4 3 then 
+: 1272 2 1 I 
+: 1278 4 3 quit 
+- 1284
+: 1298 52 3 Aaa
+: 1352 4 -1 aaa
+: 1358 8 3 aaa 
+- 1368
+: 1412 9 3 A
+* 1424 5 15 woo 
+- 1431
+: 1808 2 1 I 
+: 1812 4 3 know 
+: 1824 2 1 I 
+: 1828 4 3 did 
+: 1840 2 1 not 
+: 1844 4 3 raise 
+: 1856 2 1 a 
+: 1860 4 3 wrist 
+- 1866
+: 1872 2 1 I 
+: 1876 4 3 know 
+: 1888 2 1 I 
+: 1892 4 3 did 
+: 1904 2 1 not 
+: 1908 4 3 cap
+: 1920 2 1 ture 
+: 1924 4 3 it 
+- 1930
+: 1936 2 1 It 
+: 1940 4 3 came 
+: 1952 2 1 it 
+: 1956 4 3 went
+: 1968 2 1 it 
+: 1972 4 3 con 
+: 1984 2 1 quered 
+: 1988 4 3 quick 
+- 1994
+: 2004 4 3 I 
+: 2016 2 1 was 
+: 2022 4 3 there 
+: 2032 2 1 and 
+: 2038 4 3 then 
+: 2048 2 1 I 
+: 2054 4 3 quit 
+- 2060
+: 2068 2 1 I 
+: 2072 4 3 know 
+: 2084 2 1 I 
+: 2088 4 3 did 
+: 2100 2 1 not 
+: 2104 4 3 raise 
+: 2116 2 1 a 
+: 2120 4 3 wrist 
+- 2126
+: 2132 2 1 I 
+: 2136 4 3 know 
+: 2148 2 1 I 
+: 2152 4 3 did 
+: 2164 2 1 not 
+: 2168 4 3 cap
+: 2180 2 1 ture 
+: 2184 4 3 it 
+- 2190
+: 2196 2 1 It 
+* 2200 4 3 came 
+: 2212 2 1 it 
+* 2216 4 3 went 
+: 2228 2 1 it 
+* 2232 4 3 con 
+: 2244 2 1 quered 
+* 2248 4 3 quick 
+- 2254
+* 2264 4 3 I 
+: 2276 2 1 was 
+* 2282 4 3 there 
+: 2292 2 1 and 
+* 2298 4 3 then 
+: 2308 2 1 I 
+* 2314 4 3 quit 
+E

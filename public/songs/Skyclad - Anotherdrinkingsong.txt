@@ -1,0 +1,330 @@
+#ARTIST:Skyclad
+#TITLE:Anotherdrinkingsong
+#MP3:Skyclad - Anotherdrinkingsong.mp3
+#CREATOR:Fierce
+#GENRE:Folk Metal
+#YEAR:2004
+#LANGUAGE:English
+#BPM:400
+#GAP:6230
+#VIDEO:a=g6wCH-VFh68,co=a-semblance-of-normality-5416ab3fb8037.jpg
+: 0 6 8 Where 
+: 7 4 8 they 
+: 12 5 8 sit 
+: 19 3 9 a
+: 24 6 10 round 
+: 32 4 9 and 
+: 37 4 8 get 
+: 42 3 8 a 
+: 47 9 11 round 
+- 57
+: 58 4 11 In 
+: 64 4 11 while 
+: 71 4 11 the 
+: 76 2 10 get
+: 79 4 9 ting’s 
+: 85 6 6 good, 
+- 93
+: 94 4 6 They’ll 
+: 100 4 7 make 
+: 107 1 7 the 
+: 109 6 7 most 
+: 118 4 9 un
+: 124 4 10 til 
+: 131 4 10 the 
+: 137 3 8 mo
+: 142 4 7 ney’s 
+: 149 9 5 gone. 
+- 160
+: 193 4 6 They’re 
+: 199 3 7 co
+: 203 4 7 ming 
+: 209 6 7 out 
+: 217 4 9 to 
+: 224 2 9 ce
+: 228 3 8 le
+: 233 6 7 brate, 
+- 240
+: 241 4 7 To 
+: 248 3 12 sing 
+: 253 3 12 and 
+: 258 5 12 dance 
+: 266 4 12 and 
+: 272 3 11 to 
+: 277 4 9 es
+: 282 5 5 cape 
+- 289
+: 292 3 5 A 
+: 298 4 6 cra
+: 304 3 7 zy 
+: 308 6 7 world 
+: 316 5 9 where 
+: 323 7 9 every
+: 332 6 9 thing 
+: 340 8 5 seems 
+: 352 13 7 wrong. 
+- 367
+: 394 5 15 Drin
+: 401 4 14 king 
+: 408 4 14 to 
+: 414 2 15 for
+: 418 7 15 get 
+- 426
+: 427 4 14 And 
+: 433 4 15 to 
+: 440 4 16 re
+: 445 5 15 mem
+: 453 3 12 ber 
+: 458 4 10 all 
+: 464 1 10 the 
+: 467 7 10 glo
+: 476 2 12 ry 
+: 479 8 10 days, 
+- 489
+: 491 1 13 The 
+: 494 5 15 days 
+: 502 4 15 we 
+: 507 3 15 stood 
+: 512 4 15 a
+: 517 5 15 part 
+: 525 4 15 and 
+: 531 4 14 we 
+: 538 6 10 stood 
+: 547 11 12 strong; 
+- 560
+: 592 5 6 Though 
+: 599 2 7 the 
+: 602 6 7 beer 
+: 610 4 9 be
+: 616 6 9 fuddles 
+: 624 7 7 sense 
+- 632
+: 633 4 7 It 
+: 639 5 11 can’t 
+: 647 1 12 pro
+: 650 6 12 vide 
+: 657 4 11 them 
+: 663 2 10 re
+: 667 3 9 com
+: 671 6 6 pense, 
+- 679
+: 680 4 5 They 
+: 686 6 7 settle 
+: 695 7 7 for 
+* 704 3 9 a
+* 710 3 10 no
+* 714 4 10 ther
+* 719 5 9 drin
+* 727 5 6 king
+* 734 21 7 song. 
+- 757
+: 1138 6 9 Where 
+: 1148 4 8 the 
+: 1154 4 8 ’bu
+: 1159 4 8 sy 
+: 1165 4 9 man 
+: 1171 4 9 finds 
+: 1178 1 9 re
+: 1180 6 7 crea
+: 1188 4 7 tion’ 
+- 1193
+: 1194 4 10 The 
+: 1201 1 12 ’idle 
+: 1203 6 11 man 
+: 1211 4 11 finds 
+: 1217 4 10 busi
+: 1223 8 8 ness’, 
+- 1233
+: 1236 4 6 The 
+: 1242 1 7 ’me
+: 1245 5 7 lan
+: 1252 5 7 choly 
+: 1260 7 10 man 
+: 1269 4 9 finds 
+: 1276 5 9 sanc
+: 1284 5 6 tuary’; 
+- 1291
+: 1328 3 6 The 
+: 1333 4 7 ’stran
+: 1339 1 7 ger 
+: 1342 6 7 may 
+: 1350 4 9 have 
+: 1355 4 9 wel
+: 1361 8 8 come’ 
+- 1371
+: 1372 4 8 And 
+: 1379 5 12 still 
+: 1386 2 12 with
+: 1389 5 12 in 
+: 1396 5 11 these 
+: 1403 4 10 self
+: 1408 4 8 same 
+: 1414 7 6 walls, 
+- 1422
+: 1422 4 6 The 
+: 1429 1 7 ’ci
+: 1431 3 7 ti
+: 1436 5 7 zen 
+: 1442 4 9 may 
+: 1449 5 9 find 
+: 1456 4 10 some 
+: 1461 4 9 cour
+: 1467 19 7 tesy’. 
+- 1488
+: 1512 4 16 From 
+: 1517 4 16 Rose 
+: 1523 4 15 and 
+: 1529 4 15 Crown’ 
+: 1535 4 15 to 
+: 1541 3 15 ’Cock 
+: 1545 3 15 and 
+: 1550 5 15 Bull’ 
+- 1556
+: 1557 4 17 All 
+: 1563 4 15 his
+: 1570 7 10 tory 
+: 1580 4 13 is 
+: 1586 3 13 writt
+: 1590 4 11 en 
+: 1595 8 9 there, 
+- 1605
+: 1607 3 15 To 
+: 1611 4 14 folk
+: 1616 5 15 lore, 
+: 1622 4 15 myth 
+: 1628 3 15 and 
+: 1632 5 15 le
+: 1638 4 14 gend 
+: 1643 7 14 we 
+: 1654 16 12 belong; 
+- 1672
+: 1698 4 8 Come 
+: 1703 4 7 Ma
+: 1708 4 7 sons, 
+: 1713 4 7 Plum
+: 1719 4 9 bers 
+: 1725 4 9 Car
+: 1732 3 9 pen
+: 1737 5 7 ters, 
+- 1743
+: 1744 4 8 Come 
+: 1750 7 13 Cricke
+: 1758 8 12 ters 
+: 1767 2 12 and 
+: 1770 5 11 Hunts
+: 1778 7 9 men, 
+- 1787
+: 1788 5 7 All 
+: 1794 4 7 join 
+: 1801 4 7 in 
+: 1806 3 7 with 
+* 1813 4 10 a
+* 1819 1 10 no
+* 1821 5 10 ther
+* 1827 6 9 drin
+* 1835 6 5 king
+* 1845 14 6 song 
+- 1861
+: 4870 4 6 Well 
+: 4876 2 6 you 
+: 4880 1 6 can 
+: 4883 5 7 keep 
+: 4890 1 7 your 
+: 4893 12 7 ’long-hours 
+: 4907 3 9 cul
+: 4912 6 9 ture’ 
+- 4920
+: 4923 5 7 And 
+: 4930 4 11 lus
+: 4936 4 11 ting 
+: 4941 2 11 for 
+: 4944 4 10 ad
+: 4949 5 10 ven
+: 4956 7 8 ture, 
+- 4965
+: 4967 3 6 There’s 
+: 4973 6 7 life 
+: 4980 3 7 a
+: 4984 9 7 plenty 
+: 4996 7 9 down 
+: 5004 4 9 ’The 
+: 5009 7 7 Tap ’n’ 
+: 5018 22 5 Spile’ 
+- 5042
+: 5062 4 5 For
+: 5068 4 7 get 
+: 5075 4 7 your 
+: 5081 4 6 oc
+: 5087 1 8 cu
+: 5089 19 8 pation 
+: 5112 7 10 down 
+: 5121 3 12 the 
+: 5125 5 12 sa
+: 5131 5 11 lu
+: 5137 15 7 tation 
+- 5154
+: 5155 3 6 This 
+: 5161 4 6 tra
+: 5168 3 6 gi
+: 5173 1 6 co
+: 5176 3 7 me
+: 5180 6 8 dy 
+: 5189 4 9 will 
+: 5195 5 7 make 
+: 5202 7 5 you 
+: 5210 19 6 smile 
+- 5231
+: 5248 3 13 From 
+: 5253 4 15 quaint 
+: 5260 3 15 bar
+: 5265 4 15 stool 
+: 5271 4 15 phi
+: 5277 1 15 lo
+: 5280 1 15 so
+: 5282 10 15 phy 
+- 5293
+: 5294 4 17 To 
+: 5301 9 11 subtle 
+: 5312 10 11 innu
+: 5324 4 12 en
+: 5330 6 10 do 
+- 5338
+: 5341 4 15 It’s 
+: 5347 4 15 fun
+: 5353 5 15 ny 
+: 5359 4 15 how 
+: 5365 4 15 the 
+: 5371 7 14 tribes 
+: 5380 5 14 all 
+: 5388 3 10 get 
+: 5393 4 11 a
+: 5398 13 11 long 
+- 5413
+: 5434 3 7 Curse 
+: 5439 4 7 ab
+: 5446 2 7 sti
+: 5449 6 7 nence 
+: 5457 3 8 and 
+: 5461 3 9 tem
+: 5467 1 9 per
+: 5469 7 7 ance; 
+- 5478
+: 5479 4 7 And 
+: 5485 2 11 ce
+: 5488 4 12 le
+: 5494 5 12 brate 
+: 5502 3 11 in
+: 5508 4 9 sou
+: 5514 3 7 ciance 
+- 5519
+: 5526 2 6 And 
+: 5531 4 7 join 
+: 5537 5 7 us 
+: 5544 3 7 in 
+: 5548 3 9 a
+: 5553 3 9 no
+: 5558 3 9 ther
+: 5563 5 9 drin
+: 5570 6 6 king
+: 5579 20 6 song 
+E

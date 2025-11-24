@@ -1,0 +1,169 @@
+#ARTIST:Engelbert Humperdinck
+#TITLE:Release Me
+#MP3:Engelbert Humperdinck - Release Me.mp3
+#CREATOR:haylocki
+#GENRE:Pop
+#YEAR:1967
+#LANGUAGE:English
+#BPM:360
+#GAP:13830
+#VIDEO:a=-EP2WApwcTU,co=https://i.discogs.com/GlE8t7LxADDy5NLEAvEYnyz0UwsKt7Xu8bEjcYXyOkw/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQ3/NzMtMTUxMDk0Njcy/My0zNjY2LmpwZWc.jpeg,bg=humperdinck-engelbert-54174d09cfbd8.jpg
+: 0 58 22 Please 
+: 60 3 23 re
+: 64 10 23 lease 
+: 76 18 21 me, 
+: 96 26 14 let 
+: 124 6 14 me 
+: 132 64 2 go 
+- 198
+: 252 6 22 For 
+: 260 46 15 I 
+: 308 18 12 don’t 
+: 328 10 12 love 
+: 340 37 21 you 
+: 378 3 16 a
+: 382 3 16 ny
+: 386 70 16 more 
+- 458
+: 512 9 22 To 
+: 522 53 23 waste 
+: 576 11 21 our 
+: 588 21 21 lives 
+: 610 7 22 would 
+: 618 27 14 be 
+: 646 7 5 a 
+: 654 46 5 sin 
+- 702
+: 760 21 5 Re
+: 782 9 5 lease 
+* 792 47 20 me 
+: 840 7 21 and 
+: 848 9 11 let 
+: 858 43 7 me 
+: 902 7 5 love 
+: 910 3 5 a
+: 914 48 5 gain 
+- 964
+: 1042 54 6 I 
+: 1098 9 20 have 
+: 1108 27 21 found 
+: 1136 3 21 a 
+: 1140 21 14 new 
+: 1162 11 14 love, 
+: 1174 42 5 dear 
+- 1218
+: 1300 5 5 And 
+: 1306 44 15 I 
+: 1352 16 12 will 
+: 1370 7 21 al
+: 1378 33 21 ways 
+: 1412 9 21 want 
+: 1422 11 21 her 
+: 1434 67 4 near 
+- 1503
+: 1558 7 19 Her 
+: 1566 54 23 lips 
+: 1622 9 23 are 
+: 1632 23 5 warm 
+: 1658 9 21 while 
+* 1668 23 14 yours 
+: 1692 9 14 are 
+: 1702 54 5 cold 
+- 1758
+: 1822 17 5 Re
+: 1840 7 5 lease 
+: 1848 36 21 me 
+: 1886 10 12 my 
+: 1898 9 12 dar
+: 1908 42 12 ling, 
+: 1952 7 5 let 
+: 1960 3 5 me 
+: 1964 60 5 go 
+- 2026
+: 2096 51 19 Please 
+: 2148 15 5 re
+: 2164 14 5 lease 
+: 2180 14 12 me, 
+: 2196 17 12 let 
+: 2214 15 14 me 
+: 2230 66 5 go 
+- 2298
+: 2354 5 5 For 
+: 2360 50 15 I 
+* 2412 21 12 don’t 
+: 2434 7 7 love 
+: 2442 42 4 you 
+: 2486 3 21 a
+: 2490 3 21 ny
+: 2494 61 21 mo
+: 2556 3 20 ~
+: 2560 3 19 ~
+: 2564 12 18 re 
+- 2578
+: 2610 17 20 To 
+: 2628 49 24 waste 
+: 2678 15 29 my 
+: 2696 15 21 life 
+: 2712 15 21 would 
+: 2728 17 22 be 
+: 2746 12 14 a 
+: 2760 86 5 sin 
+- 2848
+: 2850 34 5 So 
+: 2886 9 5 re
+: 2896 7 5 lease 
+: 2904 45 20 me 
+: 2952 9 12 and 
+: 2962 7 11 let 
+: 2970 44 11 me 
+: 3016 7 5 love 
+* 3024 2 5 a
+* 3027 53 5 gain 
+- 3082
+: 3162 60 6 Please 
+: 3224 7 27 re
+: 3232 11 27 lease 
+: 3244 13 27 me 
+: 3258 28 30 can’t 
+: 3288 7 4 you 
+: 3296 81 4 see 
+- 3379
+: 3416 10 15 You’d 
+: 3428 50 21 be 
+: 3480 22 20 a 
+: 3504 20 27 fool 
+: 3528 13 27 to 
+: 3542 11 27 cling 
+: 3554 9 27 to 
+: 3564 63 27 m
+: 3628 9 26 ~
+: 3638 24 25 e 
+- 3664
+: 3698 8 22 To 
+: 3708 58 30 live 
+: 3768 7 27 a 
+: 3776 24 27 lie 
+: 3802 7 28 would 
+: 3810 18 28 bring 
+: 3832 11 4 us 
+: 3844 70 4 pain 
+- 3916
+: 3940 30 4 So 
+: 3972 7 30 re
+: 3980 14 30 lease 
+* 3996 40 26 me 
+: 4038 16 26 and 
+: 4056 11 1 let 
+: 4068 35 1 me 
+: 4104 11 22 love 
+: 4116 3 22 a
+: 4120 32 22 gain 
+- 4153
+: 4154 15 23 Let 
+: 4170 17 23 me 
+: 4188 24 23 love 
+- 4214
+: 4222 17 23 Let 
+: 4240 14 23 me 
+: 4256 98 24 go 
+E

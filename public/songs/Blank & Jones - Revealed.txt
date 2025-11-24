@@ -1,0 +1,261 @@
+#ARTIST:Blank & Jones
+#TITLE:Revealed
+#MP3:Blank & Jones - Revealed.mp3
+#CREATOR:prgoenner
+#YEAR:2005
+#LANGUAGE:English
+#BPM:351.74
+#GAP:1350
+#VIDEO:a=IT_q2zQ0tVQ,co=https://i.discogs.com/FEYgVPMMyxNVyooH2vT5o0zCuOACEoRWxezcielswXM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDA0/OS0xNjI1MTU4Mzgz/LTY1MzguanBlZw.jpeg,bg=blank--jones-509ad997a64ca.jpg
+: 0 8 -7 All 
+: 11 9 -7 my 
+: 25 18 -7 friends 
+: 46 3 -8 are 
+: 52 3 -10 re
+: 57 28 -7 vealed 
+- 87
+: 121 5 -10 As 
+: 131 7 -8 no 
+: 139 16 -8 one 
+: 171 8 -8 in 
+: 181 3 -7 the 
+: 188 14 -8 sun 
+- 204
+: 249 6 -8 And 
+: 257 9 -8 all 
+: 269 14 -8 that 
+: 289 16 -8 was 
+: 308 4 -10 con
+: 318 22 -8 cealed 
+- 342
+: 404 5 -10 O
+: 410 7 -10 ther
+: 418 12 -10 wise 
+* 433 7 -8 un
+* 444 15 -10 done 
+- 461
+: 515 4 -7 All 
+: 521 13 -7 my 
+: 537 17 -7 hopes 
+: 556 4 -8 are 
+* 562 8 -10 laid 
+* 572 15 -7 bare 
+- 589
+: 637 4 -8 Like 
+: 646 8 -7 smoke 
+: 659 15 -8 dreams 
+: 683 7 -8 in 
+: 692 3 -7 a 
+: 698 17 -8 jail 
+- 717
+: 777 9 -8 All 
+: 787 3 -8 the 
+: 793 21 -8 plans 
+: 816 3 -10 for 
+: 821 4 -10 es
+: 828 12 -8 cape 
+- 842
+: 907 10 -10 All 
+: 919 7 -8 will 
+: 931 15 -10 fail 
+- 948
+: 1022 4 -7 And 
+: 1028 6 -7 all 
+: 1036 10 -7 my 
+: 1049 15 -7 time 
+: 1068 5 -7 has 
+: 1075 5 -10 run 
+: 1082 15 -7 out 
+- 1099
+* 1147 8 -8 Just 
+* 1159 7 -8 se
+* 1168 14 -7 conds 
+: 1193 7 -8 in 
+: 1202 4 -7 a 
+: 1208 18 -8 jar 
+- 1228
+: 1291 8 -8 All 
+: 1300 6 -8 the 
+: 1308 15 -8 nights 
+: 1325 4 -10 that 
+: 1331 5 -10 I 
+: 1339 16 -8 owned 
+- 1357
+: 1403 3 -8 In 
+: 1408 7 -8 Sa
+: 1417 3 -8 xo
+: 1422 14 -10 ny 
+: 1450 3 -8 and 
+: 1457 6 -10 Cu
+: 1466 8 -10 ba 
+- 1476
+: 2049 6 -7 All 
+: 2057 8 -7 my 
+: 2071 18 -7 friends 
+* 2092 5 -8 are 
+* 2100 3 -10 re
+* 2105 18 -7 vealed 
+- 2125
+: 2170 3 -10 As 
+: 2178 7 -8 no 
+: 2187 12 -8 one 
+: 2218 8 -8 in 
+: 2227 3 -7 the 
+: 2234 17 -8 sun 
+- 2253
+: 2306 7 -8 All 
+: 2317 12 -8 that 
+: 2338 13 -8 was 
+: 2354 3 -10 con
+: 2359 20 -8 cealed 
+- 2381
+: 2450 6 -10 O
+: 2458 4 -10 ther
+: 2464 11 -10 wise 
+* 2478 5 -8 un
+* 2489 22 -10 done 
+- 2513
+F 2561 3 -7 The 
+F 2565 2 -7 ma
+F 2568 7 -7 chine 
+F 2576 4 -7 I 
+F 2581 8 -7 bought 
+F 2591 4 -7 to 
+F 2596 4 -7 for
+F 2601 4 -7 get 
+F 2606 4 -7 you 
+- 2612
+F 2689 10 -7 Walks 
+F 2700 2 -7 in 
+F 2704 7 -7 cir
+F 2712 6 -7 cles 
+F 2720 5 -7 ne
+F 2726 7 -7 gle
+F 2734 7 -7 cted 
+- 2743
+F 2813 10 -7 Star 
+F 2825 6 -7 of 
+F 2832 3 -7 the 
+F 2837 12 -7 East 
+F 2850 4 -7 now 
+F 2855 12 -7 guides 
+F 2869 5 -7 me 
+- 2876
+F 2946 3 -7 I 
+F 2950 8 -7 float 
+F 2959 5 -7 to 
+F 2965 2 -7 the 
+F 2968 9 -7 place 
+F 2979 2 -7 of 
+F 2982 2 -7 the 
+F 2985 8 -7 me
+F 2994 3 -7 mo
+F 2998 7 -7 ries 
+- 3007
+F 3068 2 -7 I 
+F 3071 4 -7 lay 
+F 3076 2 -7 an 
+F 3079 5 -7 offe
+F 3085 7 -7 ring 
+F 3093 3 -7 be
+F 3097 4 -7 for 
+F 3103 7 -7 Jupi
+F 3111 6 -7 ter 
+- 3119
+F 3202 12 -7 Rust 
+F 3215 6 -7 has 
+F 3222 3 -7 af
+F 3226 3 -7 fec
+F 3230 3 -7 ted 
+F 3234 6 -7 tra
+F 3241 5 -7 vel 
+F 3248 7 -7 out 
+F 3256 7 -7 there 
+- 3265
+F 3325 6 -7 In
+F 3332 5 -7 ces
+F 3338 5 -7 sant 
+F 3344 10 -7 brain 
+F 3355 4 -7 has 
+F 3360 3 -7 pe
+F 3364 2 -7 ne
+F 3367 7 -7 trated 
+F 3376 4 -7 the 
+F 3381 7 -7 inner 
+F 3389 8 -7 saric
+F 3398 9 -7 tum 
+- 3409
+F 3459 5 -7 I 
+F 3465 6 -7 wish 
+F 3472 3 -7 for 
+F 3477 6 -7 you 
+- 3485
+F 3501 5 -7 And 
+F 3507 3 -7 you 
+F 3511 3 -7 ap
+F 3515 12 -7 pears 
+- 3529
+F 3583 4 -7 Can 
+F 3588 3 -7 you 
+F 3592 3 -7 e
+F 3596 2 -7 ver 
+F 3599 4 -7 for
+F 3604 4 -7 give 
+F 3609 5 -7 me 
+F 3615 5 -7 and 
+F 3621 9 -7 trust 
+F 3631 7 -7 me 
+- 3640
+: 4208 5 -7 All 
+: 4215 8 -7 my 
+: 4231 18 -7 friends 
+* 4252 5 -8 are 
+* 4260 4 -10 re
+* 4268 15 -7 vealed 
+- 4285
+: 4328 3 -10 As 
+: 4336 7 -8 no 
+: 4344 11 -8 one 
+: 4376 8 -8 in 
+: 4386 4 -7 the 
+: 4393 14 -8 sun 
+- 4409
+: 4464 5 -8 All 
+: 4472 12 -8 that 
+* 4496 14 -8 was 
+* 4512 3 -10 con
+* 4520 18 -8 cealed 
+- 4540
+: 4608 6 -10 O
+: 4615 5 -10 ther
+: 4622 14 -10 wise 
+: 4639 6 -8 un
+: 4648 16 -10 done 
+- 4666
+: 4716 8 -7 All 
+: 4726 11 -7 my 
+: 4742 17 -7 friends 
+: 4761 3 -8 are 
+: 4768 3 -10 re
+: 4773 22 -7 vealed 
+- 4797
+: 4840 3 -10 As 
+: 4848 6 -8 no 
+: 4856 11 -8 one 
+* 4888 8 -8 in 
+* 4897 3 -7 the 
+* 4904 15 -8 sun 
+- 4921
+: 4966 6 -8 And 
+: 4973 8 -8 all 
+: 4984 15 -8 that 
+: 5006 14 -8 was 
+: 5024 4 -10 con
+: 5032 19 -8 cealed 
+- 5053
+* 5120 5 -10 O
+* 5127 5 -10 ther
+* 5134 13 -10 wise 
+* 5150 7 -8 un
+* 5159 16 -10 done 
+E

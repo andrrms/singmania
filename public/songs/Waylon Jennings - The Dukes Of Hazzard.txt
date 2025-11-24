@@ -1,0 +1,132 @@
+#ARTIST:Waylon Jennings
+#TITLE:The Dukes Of Hazzard
+#MP3:Waylon Jennings - The Dukes Of Hazzard.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Waylon Jennings - The Dukes Of Hazzard [CO].jpg
+#BACKGROUND:Waylon Jennings - The Dukes Of Hazzard [BG].jpg
+#GENRE:Country
+#YEAR:1980
+#LANGUAGE:English
+#BPM:396.63
+#GAP:5694
+#VIDEO:v=l8Wqo3CvtUc,co=https://i.ibb.co/PZGCZB4/image.png,bg=the-dukes-of-hazzard-4fcd808ba70d1.jpg
+: 0 6 0 Just 
+: 8 2 0 the 
+: 11 7 2 good 
+: 22 5 0 old 
+: 29 13 7 boys 
+- 52
+: 89 5 9 Nev
+: 94 4 0 er 
+: 101 5 2 mean
+: 106 5 0 in’ 
+: 112 4 0 no 
+: 117 6 7 harm
+: 123 7 5 ~ 
+- 156
+: 202 4 0 Beats 
+: 209 6 7 all 
+: 218 6 5 you 
+: 224 4 7 nev
+: 228 3 7 er 
+: 233 9 0 saw 
+- 242
+: 242 9 5 Been 
+: 253 2 0 in 
+: 256 5 7 trou
+: 261 5 9 ble 
+: 267 5 5 with 
+: 273 3 7 the 
+: 278 10 11 law 
+- 288
+: 289 6 7 Since 
+: 295 3 7 the 
+: 299 5 0 day 
+: 305 4 5 they 
+: 311 4 4 was 
+: 316 5 4 born
+: 321 8 5 ~ 
+- 355
+: 385 5 0 Straight
+: 390 4 0 en
+: 394 4 0 in’ 
+: 399 2 2 the 
+: 404 15 7 curves 
+- 445
+: 475 4 2 Flat
+: 479 4 0 ten
+: 483 4 0 in’ 
+: 488 3 0 the 
+: 493 16 7 hills 
+- 535
+: 585 9 7 Some
+: 594 8 7 day 
+: 604 3 4 the 
+: 608 6 7 moun
+: 614 5 5 tain 
+: 620 10 5 might 
+: 631 6 4 get 
+: 638 3 2 ’em 
+- 641
+: 642 4 7 But 
+: 648 3 7 the 
+: 653 7 0 law 
+: 661 3 9 nev
+: 664 3 7 er 
+: 672 19 5 will 
+- 701
+: 740 5 9 Mak
+: 745 5 0 ing 
+: 751 5 0 their 
+: 758 55 0 way 
+: 814 3 0 the 
+: 821 4 0 on
+: 825 3 0 ly 
+: 829 5 4 way 
+: 835 4 2 they 
+: 840 6 0 know 
+: 848 6 0 how 
+- 880
+: 938 9 0 That’s 
+: 949 6 0 just 
+: 958 1 0 a 
+: 961 5 2 lit
+: 966 5 5 tle 
+: 972 4 0 bit 
+: 978 5 7 more
+: 984 8 7 ~ 
+: 996 3 4 than 
+: 1002 2 2 the 
+: 1008 2 9 law 
+: 1013 2 7 will 
+: 1018 2 4 al
+: 1023 21 0 low 
+- 1047
+: 1081 6 5 Just 
+: 1088 3 0 the 
+: 1094 4 2 good 
+: 1100 10 0 old 
+: 1111 18 5 boys 
+- 1139
+: 1170 5 9 Would
+: 1175 4 0 n’t 
+: 1181 7 0 change 
+: 1190 2 0 if 
+: 1193 4 0 they 
+: 1198 15 7 could 
+- 1239
+: 1291 6 7 Fight
+: 1297 6 5 ing 
+: 1304 3 5 the 
+: 1308 8 7 sys
+: 1316 8 7 tem 
+: 1325 5 4 like 
+: 1332 2 11 a 
+: 1335 9 4 true 
+: 1346 5 0 mod
+: 1351 5 7 ern 
+: 1358 6 2 day 
+: 1364 4 7 Rob
+: 1368 4 5 in 
+: 1376 38 5 Hood 
+E

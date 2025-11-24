@@ -1,0 +1,523 @@
+#ARTIST:Rockapella
+#TITLE:Where In The World Is Carmen Sandiego
+#MP3:Rockapella - Where In The World Is Carmen Sandiego.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Rockapella - Where In The World Is Carmen Sandiego [CO].jpg
+#BACKGROUND:Rockapella - Where In The World Is Carmen Sandiego [BG].jpg
+#YEAR:1993
+#LANGUAGE:English
+#BPM:380.86
+#GAP:790
+#VIDEO:v=ozYg8vDTmkc,co=https://i.discogs.com/tjqkfDkY3-lsrykJKzkG8Nk8Iv_Vd53qZE3jt24QYHU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM1/MTA0LTE1ODUxNDEz/MjctNTg5Mi5qcGVn.jpeg,bg=https://i.imgur.com/mRCNWtS.jpeg
+: 0 5 3 One
+: 7 14 3  two
+: 25 13 3  three
+- 39
+: 39 14 10 Yeah!
+- 54
+R 54 8 8 Doo
+R 65 5 8  wop
+R 74 5 8  doob
+R 81 6 8  doob
+R 90 5 8  doo
+R 96 6 8 bie
+R 104 11 8  doo
+R 117 7 8  wop
+- 126
+R 128 4 8 Doob
+R 134 5 8  doob
+R 143 6 8  doo
+R 150 6 8 bie
+R 157 9 8  doo
+R 168 9 8  wop
+R 180 6 8  doob
+R 187 5 8  doob
+R 196 4 8  doo
+R 201 5 8 bie
+R 208 10 8  doo
+R 222 7 8  wop
+- 231
+G 233 14 8 Bowwww
+- 249
+: 252 5 1 Well
+: 259 3 11  she
+: 266 6 10  sneaks
+: 276 2 10  a
+: 279 2 10 round
+: 284 2 10  the
+: 290 10 10  world
+- 302
+: 303 6 10 From
+: 311 5 3  Ki
+: 317 5 8 ev
+: 325 4 11  to
+: 331 4 8  Car
+: 336 5 5 o
+: 342 6 1 li
+: 349 7 10 na
+- 358
+: 359 5 11 She’s
+: 366 5 3  a
+: 372 4 11  stick
+: 377 4 1 y
+: 383 4 1  fin
+: 389 5 10 gered
+: 396 4 10  fil
+: 402 4 10 cher
+- 408
+: 411 5 11 From
+: 418 5 3  Ber
+: 424 5 8 lin
+: 431 4 11  down
+: 436 6 11  to
+: 443 3 6  Be
+: 448 12 8 lize
+- 462
+: 469 5 3 She’ll
+: 476 4 10  take
+: 482 4 10  you
+: 488 4 10  for
+: 495 4 10  a
+: 501 14 11  ride
+- 517
+: 519 4 3 On
+: 524 4 3  a
+: 530 8 8  slow
+: 541 4 8  boat
+: 548 3 6  to
+: 553 6 1  Chi
+: 560 7 10 na
+- 568
+: 568 1 3 Tell
+: 570 2 10  me
+: 584 6 6  where
+: 599 3 6  in
+: 604 4 6  the
+: 611 7 6  world
+: 628 4 8  is
+- 633
+G 633 4 12 Car
+G 638 4 12 men
+G 643 8 12  San
+G 652 6 12 di
+G 659 6 12 e
+G 666 7 12 go?
+- 675
+: 677 5 1 Steal
+: 684 5 3  their
+: 691 2 10  Se
+: 694 2 10 oul
+: 698 4 1  in
+: 704 4 10  South
+: 710 3 10  Ko
+: 714 4 11 re
+: 719 5 11 a,
+- 726
+: 728 3 10 Make
+: 734 4 3  Ant
+: 741 2 8 arc
+: 746 2 5 tic
+: 752 4 8 a
+: 759 5 5  cry
+: 766 6 6  unc
+: 773 6 10 le
+- 781
+: 782 5 8 From
+: 789 7 3  the
+: 800 5 3  Red
+: 808 4 10  Sea
+: 815 2 10  to
+: 819 5 11  Green
+: 825 5 11 land
+- 832
+: 834 5 11 They’ll
+: 841 7 3  be
+: 852 6 8  sing
+: 859 6 11 ing
+: 867 2 6  the
+: 871 12 10  blues
+- 885
+: 886 6 1 Well
+: 894 4 3  they
+: 900 5 8  ne
+: 906 5 10 ver
+: 913 3 1  Ark
+: 917 3 10 an
+: 921 8 10 sas
+: 931 7 11  her
+- 939
+: 939 9 11 Steal
+: 950 3 6  the
+: 955 4 6  Me
+: 960 4 6 kong
+: 966 5 8  from
+: 973 3 11  the
+: 977 6 8  jun
+: 984 6 10 gle
+- 992
+: 994 5 3 Tell
+: 1000 5 3  me
+- 1006
+: 1006 8 5 Where
+: 1018 6 6  in
+: 1026 4 5  the
+: 1032 10 6  world
+: 1045 11 8  is
+- 1057
+G 1058 5 12 Car
+G 1064 5 12 men
+G 1073 6 19  San
+G 1082 3 16  Di
+G 1086 1 16 e
+G 1088 2 16 go
+- 1091
+: 1091 7 10 She
+: 1099 4 1  go
+: 1105 4 1  from
+: 1110 8 3  Nash
+: 1119 8 10 ville
+: 1131 5 3  to
+: 1137 8 1  Nor
+: 1146 9 10 way
+- 1156
+: 1156 5 5 Bon
+: 1162 8 1 aire
+: 1172 7 1  to
+: 1182 5 1  Zim
+: 1189 7 11 bab
+: 1198 8 1 we
+- 1207
+: 1208 6 5 Chi
+: 1216 7 10 ca
+: 1224 7 11 go
+: 1235 4 6  to
+: 1241 8 8  Czech
+: 1250 6 1 o
+: 1257 7 5 slov
+: 1266 5 6 ak
+: 1272 5 6 i
+: 1278 6 3 a
+: 1287 5 5  and
+: 1294 9 6  back!
+- 1305
+: 1309 4 1 Well
+: 1315 5 1  she’ll
+: 1322 3 10  ran
+: 1327 3 10 sack
+: 1333 6 10  Pa
+: 1340 6 10 ki
+: 1347 7 10 stan
+- 1355
+: 1356 4 11 And
+: 1361 4 11  run
+: 1366 3 3  a
+: 1370 7 6  scam
+: 1379 3 8  in
+: 1385 5 8  Scan
+: 1392 2 6 di
+: 1396 4 8 nav
+: 1402 3 8 i
+: 1406 4 10 a
+- 1412
+: 1413 5 8 Then
+: 1420 4 6  she’ll
+: 1426 2 10  stick
+: 1430 3 10  ’em
+: 1436 4 10  up
+: 1443 3 10  Down
+: 1449 4 10  Un
+: 1456 4 11 der
+- 1462
+: 1469 2 10 And
+: 1473 2 10  go
+: 1480 3 6  pick-
+: 1491 1 11 pock
+: 1493 1 10 et
+: 1497 16 8  Perth
+- 1515
+: 1516 2 1 She
+: 1519 4 10  put
+: 1525 3 1  the
+: 1531 4 1  Miss
+: 1538 3 10  in
+: 1544 4 10  mis
+: 1550 5 11 de
+: 1556 4 11 mean
+: 1561 5 10 or
+- 1568
+: 1572 3 11 When
+: 1578 4 10  she
+: 1585 3 6  stole
+: 1592 1 10  the
+: 1595 5 8  beans
+: 1601 2 5  from
+: 1607 5 1  Li
+: 1613 6 10 ma
+- 1621
+: 1624 5 6 Tell
+: 1631 4 5  me
+- 1636
+: 1636 8 6 Where
+: 1648 4 6  in
+: 1655 4 5  the
+: 1663 9 6  world
+: 1676 7 8  is
+- 1685
+G 1687 6 12 Car
+G 1694 7 12 men
+G 1702 6 12  San
+G 1709 4 12 di
+G 1714 4 12 e
+G 1719 5 12 go
+- 1726
+: 1729 4 11 Tell
+: 1735 4 10  me
+: 1741 9 11  where
+: 1752 4 11  in
+: 1759 2 8  the
+: 1764 6 3  world
+- 1771
+: 1771 1 11 Come
+: 1773 4 8  on
+: 1779 4 3  tell
+: 1786 4 3  me
+- 1791
+: 1792 7 5 Where
+: 1802 5 3  can
+: 1810 4 1  she
+: 1817 16 3  be?
+- 1835
+: 1836 5 3 Bot
+: 1842 5 5 swan
+: 1848 12 3 a
+: 1863 3 3  to
+: 1869 8 3  Thai
+: 1878 9 1 land
+- 1888
+: 1889 6 1 Mi
+: 1896 7 3 lan
+: 1905 6 1  vi
+: 1912 7 1 a
+: 1921 2 1  A
+: 1924 2 1 m
+: 1927 5 1 ster
+: 1933 11 1 dam
+- 1946
+: 1947 7 5 Ma
+: 1955 7 10 li
+: 1966 4 6  to
+: 1973 7 8  Ba
+: 1981 8 1 li
+- 1991
+: 1992 5 3 O
+: 1998 8 5 hi
+: 2009 5 1 o
+: 2018 3 3  O
+: 2024 11 5 a
+: 2037 42 5 hu!
+- 2081
+: 2457 4 6 The
+: 2463 4 3  war
+: 2468 6 8 rant!
+: 2508 4 8  The
+: 2514 5 3  war
+: 2521 6 3 rant!
+: 2559 4 10  The
+: 2566 4 3  war
+: 2573 5 6 rant!
+: 2614 4 3  The
+: 2619 4 1  war
+: 2624 5 3 rant!
+- 2631
+F 2669 41 16 Ooh
+F 2714 6 14  the
+F 2722 37 14  chase
+F 2773 8 20  Ooh
+F 2783 6 15  woo
+F 2792 5 15  woo
+F 2800 17 13  woo
+F 2820 5 16  the
+F 2827 38 16  chase
+- 2867
+: 3244 3 10 Mon
+: 3248 4 6 day
+: 3253 3 3  through
+: 3257 4 3  Fri
+: 3262 2 6 day
+: 3265 5 3  at
+: 3271 11 6  five!
+- 3284
+: 3285 4 1 Well
+: 3290 4 11  she
+: 3297 5 10  glides
+: 3307 2 10  a
+: 3310 2 10 round
+: 3315 2 10  the
+: 3320 10 11  globe
+- 3332
+: 3338 2 11 And
+: 3342 4 10  she’ll
+: 3348 4 10  flim
+: 3355 5 6 flam
+: 3365 2 6  eve
+: 3368 2 6 ry
+: 3372 4 8  na
+: 3377 5 8 tion
+- 3384
+: 3389 3 8 She’s
+: 3397 4 10  a
+: 3402 2 10  dou
+: 3405 2 10 ble-
+: 3412 6 10 deal
+: 3420 2 10 ing
+: 3425 4 11  di
+: 3430 5 10 va
+- 3437
+: 3442 3 11 With
+: 3451 2 10  a
+: 3454 3 8  taste
+: 3461 2 11  for
+: 3467 6 6  thie
+: 3474 5 1 ver
+: 3480 6 6 y
+- 3488
+: 3493 5 1 Her
+: 3500 4 1  it
+: 3506 3 10 in
+: 3510 3 10 er
+: 3516 5 10 ar
+: 3522 5 10 y’s
+: 3529 5 10  load
+: 3535 6 11 ed
+: 3543 7 11  up
+: 3552 4 11  with
+: 3558 6 6  mov
+: 3565 5 6 ing
+: 3572 4 11  vi
+: 3578 2 6 o
+: 3581 2 1 la
+: 3584 11 10 tions
+- 3597
+: 3599 5 10 Tell
+: 3605 6 5  me
+- 3612
+: 3613 7 5 Where
+: 3625 4 6  in
+: 3632 4 6  the
+: 3638 10 6  world
+: 3651 10 6  is
+- 3663
+: 3666 4 10 Car
+: 3673 3 10 men
+: 3679 4 8  San
+: 3686 1 3 Di
+: 3689 5 1 e
+: 3696 4 1 go?
+- 3702
+: 3706 4 11 Tell
+: 3712 4 10  me
+- 3717
+: 3718 8 5 Where
+: 3730 4 5  in
+: 3737 3 5  the
+: 3743 10 6  world
+: 3756 8 6  is
+- 3766
+: 3770 5 3 Car
+: 3777 4 3 men
+: 3782 6 3  San
+: 3789 4 3 Di
+: 3794 4 5 e
+: 3799 5 6 go?
+- 3806
+: 3809 4 3 Tell
+: 3816 4 1  me
+- 3821
+: 3822 6 6 Where
+: 3836 2 5  in
+: 3841 6 5  the
+: 3848 8 6  world
+: 3865 2 6  is
+- 3869
+: 3875 3 3 Car
+: 3879 4 3 men
+: 3887 11 3  San
+: 3899 3 10 Di
+: 3903 3 10 e
+: 3907 4 5 go?
+- 3913
+: 3914 4 5 Tell
+: 3921 2 3  me
+- 3925
+: 3926 8 5 Where
+: 3941 2 3  in
+: 3945 5 5  the
+: 3952 8 6  world
+: 3976 1 8  is
+- 3978
+: 3978 5 3 Car
+: 3984 5 3 men
+: 3990 5 3  San
+: 3997 2 1 Di
+: 4001 4 5 e
+: 4006 11 5 go?
+- 4018
+: 4018 4 3 Tell
+: 4024 6 3  me
+- 4031
+: 4031 9 10 Where
+: 4047 4 10  in
+: 4054 2 10  the
+: 4058 13 10  world
+: 4072 8 3  is
+: 4082 5 6  Car
+: 4089 5 10 men
+: 4096 4 6  San
+: 4103 2 5 Di
+: 4106 3 8 e
+: 4111 7 10 go?
+- 4120
+: 4131 9 3 Where
+: 4147 4 6  in
+: 4154 2 5  the
+: 4158 17 6  world
+: 4179 3 3  is
+- 4184
+* 4187 6 6 Where
+* 4196 6 3  can
+* 4205 5 3  she
+* 4213 9 5  be
+* 4223 13 5 ~?
+- 4238
+: 4239 10 11 Where
+: 4252 4 1  in
+: 4258 2 8  the
+: 4262 13 3  world
+: 4277 11 3  is
+: 4291 4 8  Car
+: 4297 5 10 men
+: 4304 4 8  San
+: 4311 2 5 Di
+: 4315 3 8 e
+: 4320 7 5 go?
+- 4329
+: 4332 4 11 Tell
+: 4339 4 6  me
+- 4344
+: 4345 6 5 Where
+: 4359 2 5  in
+: 4364 6 5  the
+: 4371 8 6  world
+: 4388 2 6  is
+- 4392
+: 4397 4 10 Car
+: 4403 3 10 men
+: 4408 5 11  San
+: 4415 3 6 Di
+: 4419 2 8 e
+: 4422 3 10 go?
+- 4426
+G 4426 4 12 Watch
+G 4432 2 12  your
+G 4436 9 12  back!
+E

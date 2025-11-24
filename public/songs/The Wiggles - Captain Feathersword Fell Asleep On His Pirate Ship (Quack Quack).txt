@@ -1,0 +1,321 @@
+#ARTIST:The Wiggles
+#TITLE:Captain Feathersword Fell Asleep On His Pirate Ship (Quack Quack)
+#MP3:The Wiggles - Captain Feathersword Fell Asleep On His Pirate Ship (Quack Quack).mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#LANGUAGE:English
+#BPM:218
+#GAP:4640
+#VIDEO:a=xxue3aMyEKY,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 3 14 Cap
+: 4 3 14 tain 
+: 8 3 16 Fea
+: 12 1 18 ther
+: 14 8 14 sword 
+- 22
+: 24 1 16 Fell 
+: 26 4 18 a
+: 31 5 14 sleep 
+- 38
+: 40 3 23 On 
+: 44 3 21 his 
+: 48 3 23 pi
+: 52 3 21 rate 
+* 56 4 17 ship 
+- 62
+: 64 6 14 Then 
+: 72 3 16 he 
+: 76 3 18 woke 
+: 80 4 14 up 
+- 86
+F 88 1 43 On 
+F 90 3 43 a 
+F 94 6 43 farm 
+- 102
+F 104 3 43 Oh 
+F 108 3 43 my 
+F 112 5 43 goodness 
+F 118 4 43 me 
+- 122
+: 124 3 14 With 
+: 128 3 16 roos
+: 132 6 16 ters 
+: 140 3 18 and 
+: 144 4 16 ducks 
+- 157
+: 160 1 14 Sing
+* 162 8 14 ing 
+: 172 3 18 this 
+: 176 4 14 song 
+- 189
+: 192 6 14 Quack, 
+: 200 3 17 quack
+: 204 3 18 ~ 
+: 208 6 14 quack, 
+: 216 3 17 quack
+: 220 3 18 ~ 
+- 223
+: 224 3 14 Quack 
+: 228 7 23 cock-
+: 236 3 21 a-
+: 240 3 23 doo-
+: 244 1 21 dle-
+: 246 4 16 doo 
+- 254
+: 256 6 14 Quack, 
+: 264 3 16 quack
+: 268 3 17 ~ 
+: 272 6 14 quack, 
+: 280 3 16 quack
+: 284 3 17 ~ 
+- 287
+: 288 3 14 Quack 
+: 292 7 23 cock-
+: 300 3 21 a-
+: 304 3 23 doo-
+: 308 1 21 dle-
+: 310 4 16 doo 
+- 318
+: 320 6 13 Quack, 
+: 328 6 16 quack, 
+: 336 4 13 quack 
+- 340
+: 342 1 9 A-
+: 344 3 11 doo-
+: 348 1 11 dley-
+: 350 8 14 doo 
+- 368
+: 380 3 18 So 
+: 384 6 14 now 
+: 392 3 16 e
+: 396 1 18 very 
+: 398 6 14 day 
+- 406
+: 408 1 16 When 
+: 410 2 18 he 
+* 413 5 14 talks 
+- 422
+: 424 3 23 This 
+: 428 3 21 is 
+: 432 3 23 what 
+: 436 3 21 he 
+: 440 3 18 says 
+- 446
+F 448 4 43 “Quack, 
+F 456 4 43 quack, 
+F 464 4 43 quack, 
+F 472 4 43 quack 
+- 478
+F 480 3 43 Quack 
+F 484 24 43 cock-a-doodle-doo” 
+- 508
+: 510 1 9 He 
+: 512 3 16 al
+: 516 3 16 so 
+: 520 3 16 does 
+- 523
+: 524 1 13 The 
+* 526 5 16 farm
+: 532 3 16 yard 
+: 536 3 16 dance 
+- 539
+F 540 3 43 And 
+F 544 3 43 you 
+F 548 3 43 can 
+F 552 1 43 do 
+F 554 3 43 it 
+F 558 6 43 too 
+- 573
+: 576 6 14 Quack, 
+: 584 3 17 quack
+: 588 3 18 ~ 
+: 592 6 14 quack, 
+: 600 3 17 quack
+: 604 3 18 ~ 
+- 607
+: 608 3 14 Quack 
+: 612 7 23 cock-
+: 620 3 21 a-
+: 624 3 23 doo-
+: 628 1 21 dle-
+* 630 4 16 doo 
+- 638
+: 640 6 14 Quack, 
+: 648 3 16 quack
+: 652 3 17 ~ 
+: 656 6 14 quack, 
+: 664 3 16 quack
+: 668 3 17 ~ 
+- 671
+: 672 3 14 Quack 
+: 676 7 23 cock-
+: 684 3 21 a-
+: 688 3 23 doo-
+: 692 1 21 dle-
+: 694 4 16 doo 
+- 702
+: 704 6 16 Quack, 
+: 712 6 16 quack, 
+: 720 4 16 quack 
+- 724
+: 726 1 9 A-
+: 728 3 11 doo-
+: 732 1 11 dley-
+: 734 8 14 doo 
+- 752
+: 764 3 9 Well 
+: 768 6 14 is 
+: 776 1 16 he 
+: 778 3 18 a 
+: 782 4 14 roos
+: 787 4 14 ter 
+- 791
+F 792 1 43 Or 
+F 794 4 43 a 
+F 800 6 43 pirate? 
+- 806
+F 808 1 43 Well 
+F 810 4 43 I 
+F 816 3 43 just 
+F 820 3 43 don’t 
+F 824 4 43 know 
+- 828
+F 830 5 43 Ahoy 
+F 836 4 43 there 
+- 844
+F 846 5 43 Ahoy 
+F 852 4 43 there 
+- 860
+F 862 6 43 Ahoy 
+F 872 13 43 cock-a-doo-dley 
+F 886 5 43 there 
+- 892
+: 894 1 9 He 
+: 896 3 16 al
+: 900 3 16 so 
+: 904 3 16 does 
+- 907
+: 908 1 13 The 
+: 910 5 16 farm
+: 916 3 16 yard 
+* 920 3 16 dance 
+- 923
+F 924 3 43 And 
+F 928 3 43 you 
+F 932 3 43 can 
+F 936 1 43 do 
+F 938 3 43 it 
+F 942 10 43 too 
+- 958
+: 960 6 14 Quack, 
+: 968 3 17 quack
+: 972 3 18 ~ 
+: 976 6 14 quack, 
+: 984 3 17 quack
+: 988 3 18 ~ 
+- 991
+: 992 3 14 Quack 
+: 996 7 23 cock-
+: 1004 3 21 a-
+: 1008 3 23 doo-
+: 1012 1 21 dle-
+: 1014 4 16 doo 
+- 1022
+: 1024 6 14 Quack, 
+: 1032 3 16 quack
+: 1036 3 17 ~ 
+: 1040 6 14 quack, 
+: 1048 3 16 quack
+: 1052 3 17 ~ 
+- 1055
+: 1056 3 14 Quack 
+: 1060 7 23 cock-
+: 1068 3 21 a-
+: 1072 3 23 doo-
+: 1076 1 21 dle-
+: 1078 4 16 doo 
+- 1086
+: 1088 6 16 Quack, 
+: 1096 6 16 quack, 
+: 1104 4 16 quack 
+- 1108
+: 1110 1 9 A-
+: 1112 3 11 doo-
+: 1116 1 11 dley-
+: 1118 10 14 doo 
+- 1138
+: 1152 6 14 Quack, 
+* 1160 3 17 quack
+: 1164 3 18 ~ 
+: 1168 6 14 quack, 
+: 1176 3 17 quack
+: 1180 3 18 ~ 
+- 1183
+: 1184 3 14 Quack 
+: 1188 7 23 cock-
+: 1196 3 21 a-
+: 1200 3 23 doo-
+: 1204 1 21 dle-
+: 1206 4 16 doo 
+- 1214
+: 1216 6 14 Quack, 
+: 1224 3 16 quack
+: 1228 3 17 ~ 
+: 1232 6 14 quack, 
+: 1240 3 16 quack
+: 1244 3 17 ~ 
+- 1247
+: 1248 3 14 Quack 
+: 1252 7 23 cock-
+: 1260 3 21 a-
+: 1264 3 23 doo-
+: 1268 1 21 dle-
+: 1270 4 16 doo 
+- 1278
+: 1280 6 16 Quack, 
+: 1288 6 16 quack, 
+: 1296 4 16 quack 
+- 1300
+: 1302 1 9 A-
+: 1304 3 11 doo-
+: 1308 1 11 dley-
+: 1310 8 14 doo 
+- 1328
+: 1344 6 14 Quack, 
+: 1352 3 17 quack
+: 1356 3 18 ~ 
+: 1360 6 14 quack, 
+: 1368 3 17 quack
+: 1372 3 18 ~ 
+- 1375
+: 1376 3 14 Quack 
+* 1380 7 23 cock-
+: 1388 3 21 a-
+: 1392 3 23 doo-
+: 1396 1 21 dle-
+: 1398 4 16 doo 
+- 1406
+* 1408 6 14 Quack, 
+: 1416 3 16 quack
+: 1420 3 17 ~ 
+: 1424 6 14 quack, 
+: 1432 3 16 quack
+: 1436 3 17 ~ 
+- 1439
+: 1440 3 14 Quack 
+: 1444 7 23 cock-
+: 1452 3 21 a-
+: 1456 3 23 doo-
+: 1460 1 21 dle-
+: 1462 4 16 doo 
+- 1470
+: 1472 6 16 Quack, 
+: 1480 6 16 quack, 
+: 1488 4 16 quack 
+- 1492
+: 1494 1 9 A-
+: 1496 3 11 doo-
+: 1500 1 11 dley-
+* 1502 8 14 doo 
+E

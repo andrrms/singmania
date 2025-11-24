@@ -1,0 +1,406 @@
+#ARTIST:Fall Out Boy
+#TITLE:A Little Less Sixteen Candles, A Little More “Touch Me”
+#MP3:Fall Out Boy - A Little Less Sixteen Candles, A Little More “Touch Me”.mp3
+#CREATOR:_cesc_
+#GENRE:Alternative
+#YEAR:2005
+#LANGUAGE:English
+#BPM:266.1
+#GAP:14320
+#VIDEO:a=otm1r8FWAUA,co=https://i.discogs.com/AkEd2BOUVUbr09SNaD3fvpB72ysokldiOnvbeTolEYw/rs:fit/g:sm/q:90/h:465/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTg5/OTQtMTM3OTA0MjY2/MC0xNjkwLmpwZWc.jpeg,bg=fall-out-boy-54b6699d3ba07.jpg
+: 0 3 2 I 
+: 4 3 4 con
+: 8 12 6 fess, 
+: 24 3 6 I 
+: 28 7 4 messed 
+: 36 4 2 up 
+- 41
+: 42 5 6 Drop
+: 48 3 7 ping 
+: 52 3 6 “I’m 
+: 56 7 4 sor
+: 64 3 2 rys” 
+- 68
+: 68 3 4 Like 
+: 72 1 2 you’re 
+: 74 9 -1 still 
+: 84 1 7 a
+: 86 26 6 round 
+- 114
+: 128 3 2 And 
+: 132 3 4 I 
+: 136 12 6 know 
+: 152 3 6 you 
+: 156 7 4 dressed 
+: 164 6 2 up 
+- 172
+: 176 5 6 “Hey 
+: 182 9 4 kid, 
+: 192 3 2 you’ll 
+: 196 3 4 ne
+: 200 3 2 ver 
+: 204 5 -1 live 
+: 210 9 7 this 
+: 220 32 6 down” 
+- 254
+: 268 1 6 And 
+: 270 1 7 you’re 
+: 272 3 6 just 
+: 276 3 4 the 
+: 280 8 2 girl 
+- 289
+: 290 1 -1 All 
+: 292 3 6 the 
+: 296 7 7 boys 
+: 304 3 6 wan
+: 308 3 4 na 
+: 312 7 2 dance 
+: 320 6 -3 with 
+- 328
+: 330 1 6 And 
+: 332 3 7 I’m 
+: 336 3 6 just 
+: 340 3 4 the 
+: 344 8 2 boy 
+- 353
+: 354 1 -1 Who’s 
+: 356 3 6 had 
+: 360 5 7 too 
+: 366 3 6 ma
+: 370 3 4 ny 
+: 374 7 2 chan
+: 382 7 -3 ces 
+- 390
+: 390 3 6 I’m 
+: 394 5 7 slee
+: 400 3 6 ping 
+: 404 3 4 on 
+: 408 3 4 your 
+: 412 8 6 folk’s 
+- 422
+: 424 7 2 Porch 
+: 432 3 2 a
+: 436 6 2 gain, 
+: 444 3 -1 drea
+: 448 5 2 min’ 
+- 454
+: 454 3 -1 She 
+: 458 7 2 said, 
+: 466 3 -3 she 
+: 470 7 2 said, 
+: 478 3 -1 she 
+: 482 6 2 said 
+- 490
+: 494 1 6 “Why 
+: 496 3 7 don’t 
+: 500 3 6 you 
+: 504 7 4 just 
+: 512 7 4 drop 
+: 520 5 2 dead?” 
+- 526
+: 526 3 2 I 
+: 530 1 -3 don’t 
+: 532 3 6 blame 
+: 536 10 4 you 
+- 548
+: 550 9 2 For 
+: 560 3 -3 be
+: 564 3 6 ing 
+: 568 10 4 you 
+- 580
+: 588 1 2 But 
+: 590 3 -3 you 
+: 594 5 6 can’t 
+: 600 7 4 blame 
+: 608 6 2 me 
+- 615
+: 616 3 -3 For 
+: 620 7 7 ha
+: 628 7 6 ting 
+: 636 3 4 i
+: 640 6 2 ~t 
+- 647
+: 648 3 2 So 
+: 652 3 2 say, 
+: 656 3 -3 what 
+: 660 3 6 are 
+: 664 3 4 you 
+: 668 3 4 wai
+: 672 3 2 ting 
+: 676 6 2 for? 
+- 683
+: 684 3 6 Kiss 
+: 688 6 2 her, 
+: 696 3 6 kiss 
+: 700 3 2 he
+: 704 6 -1 ~r 
+- 711
+: 712 3 -3 I 
+: 716 3 -3 set 
+: 720 3 -3 my 
+: 724 7 6 clocks 
+: 732 3 4 ear
+: 736 3 2 ly 
+- 740
+: 740 3 6 ’Cause 
+: 744 3 6 I 
+: 748 7 9 know 
+: 756 3 7 I’m 
+: 760 5 7 al
+: 766 9 6 ways 
+: 776 8 6 late 
+- 786
+: 896 3 2 Write 
+: 900 3 4 me 
+: 904 10 6 off 
+- 916
+: 920 3 6 Give 
+: 924 6 4 up 
+: 932 7 2 on 
+: 940 7 -3 me 
+- 948
+: 948 3 6 ’Cause 
+: 952 7 4 dar
+: 960 3 2 ling 
+- 964
+: 964 3 4 What 
+: 968 3 2 do 
+: 972 7 -1 you 
+: 980 7 7 ex
+: 988 24 6 pect 
+- 1014
+: 1024 3 2 I’m 
+: 1028 3 4 just 
+: 1032 12 6 off 
+- 1046
+: 1048 3 6 A 
+: 1052 7 4 lost 
+: 1060 7 2 cause, 
+: 1068 3 -3 a 
+: 1072 5 6 long 
+: 1078 8 4 shot 
+- 1087
+: 1088 3 2 Don’t 
+: 1092 3 4 e
+: 1096 3 2 ven 
+: 1100 7 -1 take 
+: 1108 7 7 this 
+: 1116 24 6 bet 
+- 1142
+: 1156 3 2 You 
+: 1160 3 2 can 
+: 1164 3 6 make 
+: 1168 3 7 all 
+: 1172 3 6 the 
+: 1176 7 4 moves 
+- 1184
+: 1184 3 2 You 
+: 1188 3 -3 can 
+: 1192 7 6 aim 
+: 1200 3 7 all 
+: 1204 3 6 the 
+: 1208 7 4 spot
+: 1216 8 2 lights 
+- 1226
+: 1228 3 6 Get 
+: 1232 3 7 all 
+: 1236 3 6 the 
+: 1240 7 4 sighs 
+- 1248
+: 1248 3 2 And 
+: 1252 3 -3 the 
+: 1256 7 9 moa
+: 1264 3 6 ~
+: 1268 3 4 ~ns 
+: 1272 7 4 just 
+: 1280 4 2 right 
+- 1285
+: 1286 3 -1 I’m 
+: 1290 5 6 slee
+: 1296 3 7 ping 
+: 1300 3 6 on 
+: 1304 3 4 your 
+: 1308 8 4 folk’s 
+- 1318
+: 1320 7 6 Porch 
+: 1328 3 2 a
+: 1332 7 2 gain, 
+: 1340 3 -1 drea
+: 1344 7 2 ming 
+- 1352
+: 1352 3 -1 She 
+: 1356 7 2 said, 
+: 1364 3 -3 she 
+: 1368 7 2 said, 
+: 1376 3 -1 she 
+: 1380 7 2 said 
+- 1388
+: 1388 3 6 “Why 
+: 1392 3 7 don’t 
+: 1396 3 6 you 
+: 1400 7 4 just 
+: 1408 7 4 drop 
+: 1416 3 2 dead?” 
+- 1420
+: 1420 3 2 I 
+: 1424 3 -3 don’t 
+: 1428 3 6 blame 
+: 1432 12 4 you 
+- 1446
+: 1448 7 2 For 
+: 1456 3 -3 be
+: 1460 3 6 ing 
+: 1464 12 4 you 
+- 1478
+: 1484 3 2 But 
+: 1488 3 -3 you 
+: 1492 3 6 can’t 
+: 1496 7 4 blame 
+: 1504 4 2 me 
+- 1510
+: 1512 3 -3 For 
+: 1516 7 7 hang
+: 1524 7 6 ing 
+: 1532 3 4 i
+: 1536 4 2 ~n 
+- 1542
+: 1544 3 2 So 
+: 1548 3 2 say, 
+: 1552 3 -3 what 
+: 1556 3 6 are 
+: 1560 3 4 you 
+: 1564 3 4 wai
+: 1568 3 2 ting 
+: 1572 4 2 for? 
+- 1578
+: 1580 3 6 Kiss 
+: 1584 4 2 her, 
+: 1592 3 6 kiss 
+: 1596 3 2 he
+: 1600 4 -1 ~r 
+- 1606
+: 1608 3 -3 I 
+: 1612 3 -3 set 
+: 1616 3 -3 my 
+: 1620 7 6 clocks 
+: 1628 3 4 ear
+: 1632 3 2 ly 
+- 1636
+: 1636 3 2 ’Cause 
+: 1640 3 2 I 
+: 1644 7 6 know 
+: 1652 3 4 I’m 
+: 1656 7 4 al
+: 1664 7 2 ways 
+: 1672 6 2 late 
+- 1680
+F 1684 3 0 (A
+F 1688 3 0 ~l
+F 1692 10 0 way
+F 1703 5 0 ~s 
+F 1710 14 0 on) 
+- 1726
+: 1748 7 6 You 
+: 1756 7 4 said 
+: 1764 7 2 you’d 
+: 1772 7 4 keep 
+: 1780 7 6 me 
+: 1788 7 4 ho
+: 1796 8 2 nest 
+- 1806
+F 1812 3 0 (A
+F 1816 3 0 ~l
+F 1820 10 0 way
+F 1831 5 0 ~s 
+F 1837 14 0 on) 
+- 1853
+: 1876 3 6 But 
+: 1880 7 4 I
+: 1888 3 2 ~ 
+: 1892 7 2 won’t 
+: 1900 7 4 call 
+: 1908 7 6 you 
+: 1916 7 4 on 
+: 1924 8 2 it 
+- 1934
+F 1940 3 0 (A
+F 1944 2 0 ~l
+F 1947 11 0 way
+F 1959 5 0 ~s 
+F 1965 14 0 on, 
+F 1979 4 0 al
+F 1984 12 0 ways 
+F 1997 2 0 o
+F 2000 20 0 ~
+F 2021 2 0 ~
+F 2024 34 0 ~ n) 
+- 2059
+: 2060 3 2 I 
+: 2064 3 -3 don’t 
+: 2068 3 6 blame 
+: 2072 10 4 you 
+- 2084
+: 2088 7 2 For 
+: 2096 3 -3 be
+: 2100 3 6 ing 
+: 2104 12 4 you 
+- 2118
+: 2124 3 2 But 
+: 2128 3 -3 you 
+: 2132 3 6 can’t 
+: 2136 7 4 blame 
+: 2144 4 2 me 
+- 2150
+: 2152 3 -3 For 
+: 2156 7 7 ha
+: 2164 7 6 ting 
+: 2172 3 4 i
+: 2176 4 2 ~t 
+- 2182
+: 2184 3 2 So 
+: 2188 3 2 say, 
+: 2192 3 -3 what 
+: 2196 3 6 are 
+: 2200 3 4 you 
+: 2204 3 4 wai
+: 2208 3 2 ting 
+: 2212 4 2 for? 
+- 2218
+: 2220 3 6 Kiss 
+: 2224 4 2 her, 
+: 2232 3 6 kiss 
+: 2236 3 2 he
+: 2240 4 -1 r 
+- 2246
+: 2248 3 -3 I 
+: 2252 3 -3 set 
+: 2256 3 -3 my 
+: 2260 7 6 clocks 
+: 2268 3 4 ear
+: 2272 3 2 ly 
+- 2276
+: 2276 3 2 ’Cause 
+: 2280 3 2 I 
+: 2284 7 6 know 
+: 2292 3 4 I’m 
+: 2296 7 4 al
+: 2304 7 2 ways 
+- 2312
+* 2312 33 9 La
+* 2346 36 6 ~te 
+- 2384
+: 2504 3 -3 I 
+: 2508 3 -3 set 
+: 2512 3 -3 my 
+: 2516 7 6 clocks 
+: 2524 3 4 ear
+: 2528 3 2 ly 
+- 2532
+: 2532 3 2 ’Cause 
+: 2536 3 2 I 
+: 2540 8 6 know 
+: 2550 3 4 I’m 
+: 2554 5 4 al
+: 2560 7 2 ways 
+: 2568 10 2 late 
+E

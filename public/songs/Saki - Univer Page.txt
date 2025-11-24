@@ -1,0 +1,191 @@
+#ARTIST:Saki
+#TITLE:Univer Page
+#MP3:Saki - Univer Page.mp3
+#CREATOR:hamelner
+#GENRE:Anime
+#YEAR:2013
+#LANGUAGE:English
+#BPM:373.83
+#GAP:13060
+#VIDEO:a=exQgJIiRks4,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/c2/d3/e0c2d32b-b202-ec46-337f-235b25ce8cb8/PCCG_70195_itunes.png/5000x5000bb.jpg
+: 0 4 4 Loo
+: 5 3 5 king 
+: 9 8 7 back 
+: 18 7 7 on 
+: 26 5 7 days 
+: 32 3 4 long 
+: 36 14 2 past, 
+- 51
+: 51 5 2 I 
+: 57 7 2 once 
+: 65 6 0 felt 
+: 72 16 2 emp
+: 89 34 4 ty 
+- 125
+: 130 2 7 Fee
+: 133 2 4 ling 
+: 136 7 0 trapped 
+: 144 5 0 with
+: 150 7 5 in 
+: 158 5 4 the 
+: 164 12 2 lines 
+- 178
+: 179 6 2 That 
+: 186 7 2 once 
+: 194 6 0 de
+: 202 16 5 fined 
+: 219 26 4 me 
+- 247
+: 256 4 4 Then 
+: 261 3 5 you 
+: 265 7 7 came 
+: 273 7 7 in
+: 281 5 7 to 
+: 287 7 4 my 
+: 295 10 2 life 
+- 307
+: 311 5 2 And 
+: 317 6 2 now 
+: 324 5 0 I 
+: 331 13 2 doubt 
+: 345 16 4 what’s 
+: 362 15 0 right 
+- 379
+: 389 10 0 All 
+: 400 4 2 I 
+: 405 6 0 know 
+: 412 9 4 in
+: 422 13 2 side, 
+- 436
+: 437 5 2 With 
+: 443 4 0 you 
+: 448 5 4 my 
+: 454 17 3 fu
+: 472 15 2 ture’s 
+: 488 23 0 bright 
+- 513
+: 518 8 4 Ev
+: 527 9 2 ery 
+: 537 8 4 won
+: 546 6 2 der 
+: 553 7 11 I 
+: 561 8 7 can 
+: 570 10 7 see, 
+- 582
+: 588 4 5 Ne
+: 593 4 4 ver 
+: 598 10 2 stops 
+: 609 4 0 a
+: 614 10 -1 ma
+: 625 7 0 zing 
+: 633 11 2 me 
+- 646
+: 650 4 4 O
+: 655 5 2 ver
+: 661 7 4 flo
+: 669 7 2 wing 
+: 677 14 11 hopes 
+: 692 5 7 and 
+: 698 7 7 dreams 
+- 706
+: 706 3 3 Ap
+: 710 17 7 pear, 
+: 732 5 3 too 
+: 738 23 5 near 
+- 763
+: 766 7 2 So 
+: 774 21 4 strong, 
+: 797 6 0 sin
+: 804 15 2 cere 
+- 820
+: 820 6 4 As 
+: 827 5 5 I 
+: 833 5 7 fall 
+: 839 8 12 dee
+: 848 7 11 per 
+: 856 7 9 in
+: 864 7 4 to 
+- 873
+: 874 5 4 Fan
+: 880 3 0 ta
+: 884 10 2 sies 
+: 895 6 4 we 
+: 902 48 2 dream 
+- 952
+: 963 10 7 Ri
+: 974 8 7 sing 
+: 983 3 7 up 
+: 987 3 12 to 
+: 991 2 11 the 
+: 994 11 7 sky, 
+- 1006
+: 1006 2 7 Fee
+: 1009 7 7 lings 
+: 1017 3 7 gro
+: 1021 3 12 wing 
+: 1025 2 11 in
+: 1028 14 7 side 
+- 1043
+: 1044 11 7 Wrapped 
+: 1056 7 9 in 
+: 1064 8 7 mys
+: 1073 2 4 te
+: 1076 11 2 ries 
+: 1088 7 0 a
+: 1096 17 0 round 
+- 1114
+: 1115 5 0 As 
+: 1121 7 4 we 
+: 1129 5 4 end 
+: 1135 7 0 the 
+: 1143 9 9 chap
+: 1153 5 7 ter, 
+- 1159
+: 1159 8 7 Filled 
+: 1168 7 11 with 
+: 1176 6 12 sto
+: 1183 5 11 ries 
+: 1189 6 9 grand 
+: 1196 5 7 and 
+: 1202 4 5 pro
+: 1207 14 7 found 
+- 1223
+: 1224 6 7 Though 
+: 1231 6 7 we 
+: 1238 4 7 play 
+: 1243 4 12 and 
+: 1248 3 11 pre
+: 1252 3 7 tend 
+- 1256
+: 1256 5 7 And 
+: 1262 5 7 our 
+: 1268 7 7 quests 
+: 1276 3 12 ne
+: 1280 5 11 ver 
+: 1286 16 7 end 
+- 1303
+: 1303 8 7 Pa
+: 1312 6 9 ges 
+: 1319 7 7 filled 
+: 1327 5 4 with 
+: 1333 5 2 trea
+: 1339 4 2 sures 
+: 1344 6 4 so 
+: 1351 9 0 dear 
+- 1361
+: 1361 11 4 With 
+: 1373 9 7 a 
+: 1383 17 11 whis
+: 1401 13 12 per 
+: 1415 22 15 in 
+: 1438 6 11 my 
+: 1445 27 9 ear 
+- 1473
+: 1474 10 5 Full 
+: 1485 4 7 of 
+: 1490 9 9 pride 
+: 1500 9 0 I’ll 
+: 1510 14 2 ne
+: 1525 10 2 ver 
+: 1536 25 0 hide 
+E

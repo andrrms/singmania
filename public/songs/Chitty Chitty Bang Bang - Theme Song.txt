@@ -1,0 +1,406 @@
+#ARTIST:Chitty Chitty Bang Bang
+#TITLE:Theme Song
+#MP3:Chitty Chitty Bang Bang - Theme Song.mp3
+#CREATOR:Fepo
+#GENRE:Modern Folk
+#YEAR:1968
+#LANGUAGE:English
+#BPM:338.79
+#GAP:20110
+#VIDEO:v=ZTTzcXSLjhI,co=https://m.media-amazon.com/images/I/71o5PdEDjlL.jpg
+: 0 2 5 Chit
+: 3 2 5 ty 
+: 7 3 5 Bang 
+: 12 3 0 Bang 
+: 18 2 5 Chit
+: 21 2 5 ty 
+: 24 2 5 Chit
+: 27 2 5 ty 
+: 30 4 5 Bang 
+: 36 4 0 Bang 
+- 42
+: 47 2 9 Chit
+: 50 2 9 ty 
+: 53 3 9 Bang 
+: 58 4 5 Bang 
+: 64 2 9 Chit
+: 67 2 9 ty 
+: 70 2 9 Chit
+: 73 2 9 ty 
+: 76 4 9 Bang 
+: 82 4 5 Bang 
+- 88
+: 92 2 12 Chit
+: 95 2 12 ty 
+: 98 3 12 Bang 
+: 103 3 9 Bang 
+: 109 2 12 Chit
+: 112 2 12 ty 
+: 115 2 12 Chit
+: 118 2 12 ty 
+: 121 4 12 Bang 
+: 127 4 9 Bang 
+- 132
+: 133 4 5 Oh 
+: 144 3 5 you 
+: 157 2 5 pret
+: 160 2 5 ty 
+: 163 2 5 Chit
+: 166 2 5 ty 
+: 169 4 5 Bang 
+: 176 4 0 Bang, 
+- 181
+: 181 2 5 Chit
+: 184 2 5 ty 
+: 187 2 5 Chit
+: 190 2 5 ty 
+: 193 3 7 Bang 
+: 198 3 5 Bang 
+- 203
+: 205 4 5 We 
+: 211 4 4 love 
+: 217 4 4 you. 
+- 223
+: 229 6 7 And, 
+: 240 4 4 in 
+: 252 2 4 Chit
+: 255 2 4 ty 
+: 258 2 4 Chit
+: 261 2 4 ty 
+: 264 3 4 Bang 
+: 270 3 0 Bang 
+- 275
+: 276 2 4 Chit
+: 279 2 4 ty 
+: 282 2 4 Chit
+: 285 2 4 ty 
+: 288 3 4 Bang 
+: 294 3 0 Bang 
+- 299
+: 300 3 2 What 
+* 306 3 4 we’ll 
+: 312 3 5 do. 
+- 317
+: 324 4 9 Near, 
+: 336 4 5 far, 
+: 348 2 5 in 
+: 351 2 5 our 
+: 354 2 5 mo
+: 357 2 5 tor 
+: 360 2 5 car 
+- 364
+: 366 3 0 Oh 
+: 371 2 5 what 
+: 374 2 5 a 
+: 377 2 5 hap
+: 380 2 5 py 
+: 383 3 7 time 
+: 389 3 5 we’ll 
+: 395 9 5 spend. 
+- 406
+: 418 4 5 Bang 
+: 425 4 5 Bang 
+* 431 2 7 Chit
+* 434 2 5 ty 
+* 437 2 4 Chit
+* 440 2 2 ty 
+* 443 3 0 Bang 
+* 449 4 9 Bang 
+- 455
+: 461 3 9 Our 
+: 466 3 10 fine 
+: 472 3 7 four 
+: 478 4 5 fen
+: 484 3 0 dered 
+: 490 6 9 friend. 
+- 498
+: 514 4 5 Bang 
+: 521 4 5 Bang 
+* 527 2 7 Chit
+* 530 2 5 ty 
+* 533 2 4 Chit
+* 536 2 2 ty 
+* 539 3 0 Bang 
+* 545 4 9 Bang 
+- 551
+: 555 3 9 Our 
+: 560 3 10 fine 
+: 566 3 7 four 
+: 572 4 5 fen
+: 578 3 0 dered 
+: 584 4 5 friend. 
+- 590
+: 592 2 5 Chit
+: 595 2 5 ty 
+: 599 3 5 Bang 
+: 604 3 0 Bang 
+: 610 2 5 Chit
+: 613 2 5 ty 
+: 616 2 5 Chit
+: 619 2 5 ty 
+: 622 4 5 Bang 
+: 628 4 0 Bang 
+- 634
+: 639 2 9 Chit
+: 642 2 9 ty 
+: 645 3 9 Bang 
+: 650 4 5 Bang 
+: 656 2 9 Chit
+: 659 2 9 ty 
+: 662 2 9 Chit
+: 665 2 9 ty 
+: 668 4 9 Bang 
+: 674 4 5 Bang 
+- 680
+: 685 2 12 Chit
+: 688 2 12 ty 
+: 691 3 12 Bang 
+: 696 3 9 Bang 
+: 702 2 12 Chit
+: 705 2 12 ty 
+: 708 2 12 Chit
+: 711 2 12 ty 
+: 714 4 12 Bang 
+: 720 4 9 Bang 
+- 725
+: 726 4 5 Oh 
+: 737 3 5 you 
+: 749 2 5 pret
+: 752 2 5 ty 
+: 755 2 5 Chit
+: 758 2 5 ty 
+: 761 4 5 Bang 
+: 767 3 0 Bang, 
+- 771
+: 772 2 5 Chit
+: 775 2 5 ty 
+: 778 2 5 Chit
+: 781 2 5 ty 
+: 784 3 7 Bang 
+: 789 3 5 Bang 
+- 794
+: 796 4 5 We 
+: 802 4 4 love 
+: 808 4 4 you. 
+- 814
+: 819 6 7 And, 
+: 830 4 4 in 
+: 842 2 4 Chit
+: 845 2 4 ty 
+: 848 2 4 Chit
+: 851 2 4 ty 
+: 854 3 4 Bang 
+: 860 3 0 Bang 
+- 865
+: 866 2 4 Chit
+: 869 2 4 ty 
+: 872 2 4 Chit
+: 875 2 4 ty 
+: 878 3 4 Bang 
+: 884 3 0 Bang 
+- 888
+: 889 3 2 What 
+* 895 3 4 we’ll 
+: 901 3 5 do. 
+- 906
+: 912 4 9 Near, 
+: 924 4 5 far, 
+: 936 2 5 in 
+: 939 2 5 our 
+: 942 2 5 mo
+: 945 2 5 tor 
+: 948 2 5 car 
+- 952
+: 953 3 0 Oh 
+: 958 2 5 what 
+: 961 2 5 a 
+: 964 2 5 hap
+: 967 2 5 py 
+: 970 3 7 time 
+: 976 3 5 we’ll 
+: 982 9 5 spend. 
+- 993
+: 1007 4 5 Bang 
+: 1014 4 5 Bang 
+* 1020 2 7 Chit
+* 1023 2 5 ty 
+* 1026 2 4 Chit
+* 1029 2 2 ty 
+* 1032 3 0 Bang 
+* 1038 4 9 Bang 
+- 1044
+: 1049 3 9 Our 
+: 1054 3 10 fine 
+: 1060 3 7 four 
+: 1066 4 5 fen
+: 1072 3 0 dered 
+: 1078 6 9 friend. 
+- 1086
+: 1101 4 5 Bang 
+: 1108 4 5 Bang 
+* 1114 2 7 Chit
+* 1117 2 5 ty 
+* 1120 2 4 Chit
+* 1123 2 2 ty 
+* 1126 3 0 Bang 
+* 1132 4 9 Bang 
+- 1138
+: 1144 3 9 Our 
+: 1149 3 10 fine 
+: 1155 3 7 four 
+: 1161 4 5 fen
+: 1167 3 0 dered 
+: 1173 6 5 friend. 
+- 1181
+: 1185 4 2 Your 
+: 1194 5 0 sleek 
+: 1208 3 4 as 
+: 1215 3 7 a 
+: 1221 3 5 tho
+: 1226 3 0 rough
+: 1231 5 0 bred. 
+- 1237
+: 1238 3 2 Your 
+: 1244 6 0 seats 
+: 1256 3 5 are 
+: 1262 3 7 a 
+: 1267 4 10 fea
+: 1274 3 9 ther 
+: 1279 4 9 bed. 
+- 1284
+: 1285 4 2 You’ll 
+: 1292 7 0 turn 
+: 1304 3 4 eve
+: 1310 3 7 ry
+: 1316 3 12 bo
+: 1322 3 12 dy’s 
+: 1328 3 12 head 
+: 1334 4 12 to
+* 1341 27 12 day. 
+- 1370
+: 1379 3 2 We’ll 
+: 1386 7 0 glide 
+: 1398 4 5 on 
+: 1404 2 7 our 
+: 1409 3 5 mo
+: 1415 3 0 tor 
+: 1421 4 0 trip 
+- 1426
+: 1426 3 5 With 
+: 1432 8 4 pride 
+: 1445 3 7 in 
+: 1451 3 10 our 
+: 1457 3 10 ow
+: 1462 3 9 ner
+: 1467 3 9 ship 
+- 1472
+: 1473 3 9 The 
+: 1479 4 7 en
+: 1486 3 7 vy 
+: 1497 4 7 of 
+: 1504 4 11 all 
+: 1510 4 11 we 
+: 1520 5 7 sur
+* 1528 36 12 vey. 
+- 1566
+: 1572 3 5 Oh 
+: 1579 2 5 Chit
+: 1582 2 5 ty 
+: 1585 2 5 You 
+: 1590 2 5 Chit
+: 1593 2 5 ty 
+: 1596 2 5 Pret
+: 1599 2 5 ty 
+: 1602 2 5 Chit
+: 1605 2 5 ty 
+: 1608 3 5 Bang 
+: 1613 3 0 Bang 
+- 1617
+: 1618 2 5 Chit
+: 1621 2 5 ty 
+: 1624 2 5 Chit
+: 1627 2 5 ty 
+: 1630 3 7 Bang 
+: 1635 3 5 Bang 
+- 1640
+: 1642 4 5 We 
+: 1648 4 4 love 
+: 1654 4 4 you. 
+- 1660
+: 1664 3 7 And 
+: 1671 2 7 Chit
+: 1674 2 7 ty, 
+: 1677 3 4 in 
+: 1682 2 4 Chit
+: 1685 2 4 ty 
+: 1688 2 4 Pret
+: 1691 2 4 ty 
+: 1694 2 4 Chit
+: 1697 2 4 ty 
+: 1700 3 4 Bang 
+: 1706 3 0 Bang 
+- 1710
+: 1711 2 4 Chit
+: 1714 2 4 ty 
+: 1717 2 4 Chit
+: 1720 2 4 ty 
+: 1723 3 4 Bang 
+: 1728 3 0 Bang 
+- 1733
+: 1734 3 2 What 
+* 1740 3 4 we’ll 
+: 1746 3 5 do. 
+- 1751
+: 1758 3 9 Near 
+: 1764 2 9 Chit
+: 1767 2 9 ty, 
+: 1770 3 5 far 
+: 1775 2 5 Chit
+: 1778 2 5 ty, 
+: 1781 2 5 in 
+: 1784 2 5 our 
+: 1787 1 5 mo
+: 1789 1 5 tor 
+: 1792 3 5 car 
+- 1797
+: 1798 3 0 Oh 
+: 1803 2 5 what 
+: 1806 2 5 a 
+: 1809 2 5 hap
+: 1812 2 5 py 
+: 1815 3 7 time 
+: 1821 3 5 we’ll 
+: 1827 9 5 spend. 
+- 1838
+: 1849 4 5 Bang 
+: 1856 4 5 Bang 
+* 1862 2 7 Chit
+* 1865 2 5 ty 
+* 1868 2 4 Chit
+* 1871 2 2 ty 
+* 1874 3 0 Bang 
+* 1880 4 9 Bang 
+- 1886
+: 1892 2 9 Our 
+: 1897 3 10 fine 
+: 1902 3 7 four 
+: 1908 3 4 fen
+: 1914 2 0 dered 
+: 1920 4 9 friend. 
+- 1926
+: 1943 4 5 Bang 
+: 1950 4 5 Bang 
+* 1956 2 7 Chit
+* 1959 2 5 ty 
+* 1962 2 4 Chit
+* 1965 2 2 ty 
+* 1968 3 0 Bang 
+* 1974 4 9 Bang 
+- 1980
+: 1985 3 9 Our 
+: 1991 6 10 fine 
+: 2003 7 7 four 
+: 2015 8 12 fen
+: 2027 5 12 dered 
+* 2038 82 12 friend. 
+E

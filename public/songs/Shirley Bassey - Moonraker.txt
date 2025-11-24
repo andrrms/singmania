@@ -1,0 +1,160 @@
+#ARTIST:Shirley Bassey
+#TITLE:Moonraker
+#MP3:Shirley Bassey - Moonraker.mp3
+#CREATOR:riperrin
+#GENRE:Soundtrack
+#YEAR:1979
+#LANGUAGE:English
+#BPM:379.38
+#GAP:18360
+#VIDEO:v=gt3oQN0cAv0,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/46/2e/2f/462e2ffc-fab9-d414-3a4e-20e7b98828b5/05099969735653.jpg/5000x5000bb.jpg,preview=35.2,medley=0-1884
+: 0 23 -5 Where 
+: 30 23 2 are 
+: 59 48 4 you? 
+: 121 10 2 Why 
+: 135 7 4 do 
+: 150 7 -7 you 
+: 162 62 2 hide? 
+- 226
+: 243 9 0 Where 
+: 254 5 2 is 
+: 262 5 4 that 
+: 270 22 7 moon
+: 295 5 9 light 
+: 303 21 7 trail 
+: 328 5 -5 that 
+: 335 18 7 leads 
+: 356 3 5 to 
+: 361 5 4 your 
+: 368 49 5 side? 
+- 419
+: 426 8 2 Just 
+: 437 6 4 like 
+: 446 4 5 the 
+: 453 38 7 Moon
+: 494 5 -5 ra
+: 503 5 -5 ker 
+: 512 48 7 goes 
+- 562
+: 572 4 7 In 
+: 579 38 7 search 
+: 620 5 -5 of 
+: 628 6 -5 his 
+: 636 24 7 dream 
+: 664 5 9 of 
+: 670 19 7 gold, 
+- 691
+: 710 30 5 I 
+: 744 8 -5 search 
+: 755 5 -4 for 
+: 764 41 5 love, 
+: 817 7 5 for 
+: 828 36 5 some
+: 866 7 -5 one 
+: 874 4 -5 to 
+: 881 22 5 have 
+: 905 5 7 and 
+: 911 18 5 hold, 
+- 931
+: 946 9 5 I’ve 
+: 957 31 4 seen 
+: 991 7 7 your 
+: 1000 34 0 smile 
+: 1048 6 2 in 
+: 1055 4 5 a 
+: 1061 45 4 thou
+: 1109 9 7 sand 
+: 1124 47 0 dreams, 
+- 1173
+: 1186 42 4 Felt 
+: 1230 10 7 your 
+: 1243 10 0 touch 
+: 1292 7 2 and 
+: 1300 4 5 it 
+: 1305 41 4 al
+: 1350 12 7 ways 
+: 1364 52 11 seems, 
+- 1416
+: 1416 5 12 You 
+: 1422 56 12 love 
+: 1484 48 7 me, 
+- 1534
+: 1551 53 11 You 
+: 1605 66 9 love 
+: 1678 206 4 me. 
+- 1886
+: 1934 24 -5 Where 
+: 1964 25 2 are 
+: 1993 43 4 you? 
+: 2057 9 2 When 
+: 2068 7 4 will 
+: 2078 6 -7 we 
+: 2087 64 2 meet? 
+- 2153
+: 2183 6 0 Take 
+: 2191 5 2 my 
+: 2199 5 4 un
+: 2206 19 7 fi
+: 2229 9 9 nished 
+: 2240 20 7 life 
+: 2261 7 -5 and 
+: 2271 8 7 make 
+: 2282 6 5 it 
+: 2291 5 4 com
+: 2299 49 5 plete. 
+- 2350
+: 2359 9 2 Just 
+: 2371 6 4 like 
+: 2380 4 5 the 
+: 2387 45 7 Moon
+: 2435 6 -5 ra
+: 2444 4 -5 ker 
+: 2450 48 7 knows 
+- 2502
+: 2502 8 7 His 
+: 2513 38 7 dream 
+: 2554 5 -5 will 
+: 2562 5 -5 come 
+: 2569 16 7 true 
+: 2588 6 9 some
+: 2598 18 7 day, 
+- 2618
+: 2636 38 5 I 
+: 2676 5 -5 know 
+: 2683 4 -4 that 
+: 2690 43 5 you 
+: 2742 6 5 are 
+: 2751 32 5 on
+: 2788 5 -5 ly 
+: 2797 5 -5 a 
+: 2804 21 5 kiss 
+: 2832 4 7 a 
+: 2838 14 5 way. 
+- 2854
+: 2859 7 5 I’ve 
+: 2869 37 4 seen 
+: 2910 11 7 your 
+: 2924 32 0 smile 
+: 2972 5 2 in 
+: 2979 4 5 a 
+: 2985 41 4 thou
+: 3028 12 7 sand 
+: 3044 48 0 dreams, 
+- 3094
+: 3109 39 4 Felt 
+: 3152 11 7 your 
+: 3167 26 0 touch 
+: 3213 5 2 and 
+: 3219 4 5 it 
+: 3224 40 4 al
+: 3268 14 7 ways 
+: 3285 51 11 seems, 
+- 3336
+: 3336 4 12 You 
+: 3342 57 12 love 
+: 3402 47 7 me, 
+- 3451
+: 3466 55 11 You 
+: 3524 49 9 love 
+: 3590 170 12 me. 
+E

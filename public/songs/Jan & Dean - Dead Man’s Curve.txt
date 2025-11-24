@@ -1,0 +1,429 @@
+#ARTIST:Jan & Dean
+#TITLE:Dead Man’s Curve
+#MP3:Jan & Dean - Dead Man’s Curve.mp3
+#CREATOR:Way2Evil
+#YEAR:1963
+#LANGUAGE:English
+#BPM:275
+#GAP:10710
+#VIDEO:a=yrCuMPeSu9s,co=https://inkkitchen.com/app/uploads/2019/07/jan-and-dean.jpg
+: 0 3 7 I 
+: 4 3 7 was 
+: 9 2 11 crui
+: 12 4 11 sin’ 
+: 17 2 11 in 
+: 20 3 11 my 
+: 25 7 14 Sting 
+: 33 5 7 Ray 
+: 40 3 14 late 
+: 44 3 14 one
+: 48 4 16 ~ 
+: 53 7 14 night 
+- 63
+: 65 3 7 When 
+: 69 3 7 an 
+: 73 6 12 X.
+: 81 6 14 K.
+: 90 5 12 E. 
+: 98 3 9 pul
+: 102 3 7 led 
+: 106 2 10 up 
+: 109 3 10 by 
+: 113 5 9 my 
+: 119 8 7 right 
+- 133
+: 135 2 7 He 
+: 138 5 11 rolled 
+: 145 4 12 down 
+: 150 2 12 the 
+: 153 4 14 win
+: 158 2 14 dow 
+: 161 3 12 of 
+: 165 3 11 his 
+: 171 2 14 shi
+: 174 2 14 ny 
+: 177 5 16 new 
+: 184 8 14 Jag 
+- 197
+: 199 1 9 And 
+: 201 3 9 chal
+: 205 4 9 lenged 
+: 210 6 11 me 
+: 217 8 9 then 
+: 226 5 9 and 
+: 233 5 12 there 
+: 239 2 12 to 
+: 242 3 11 a 
+: 246 10 9 drag 
+- 260
+: 262 3 7 I 
+: 267 2 11 said: 
+: 270 4 11 “you’re 
+: 275 5 11 on 
+: 282 2 14 bud
+: 285 5 14 dy, 
+: 291 6 7 my 
+: 298 3 14 mill’s 
+: 302 3 14 run
+: 306 3 16 nin’ 
+: 310 9 14 fine” 
+- 320
+: 322 5 7 “Let’s 
+: 330 3 12 come 
+: 334 3 12 off 
+: 338 3 14 the 
+: 342 7 12 line 
+: 352 5 9 now, 
+: 358 3 7 at 
+: 362 3 10 Sun
+: 366 3 10 set 
+: 370 4 9 and 
+: 375 8 7 Vine” 
+- 384
+: 386 3 7 “But 
+: 390 4 7 I’ll 
+: 395 3 11 go 
+: 399 3 11 you 
+: 403 5 12 one 
+: 410 3 14 bet
+: 414 3 14 ter 
+: 418 3 11 if 
+: 422 4 11 you 
+: 427 5 14 got 
+: 434 3 16 the 
+: 438 10 14 nerve” 
+- 448
+: 450 6 11 “Let’s 
+: 458 4 9 race 
+: 463 2 9 all 
+: 466 3 11 the 
+: 470 20 9 way” 
+- 499
+F 503 3 2 “To 
+F 507 4 2 Dead 
+F 512 8 2 Man’s 
+: 523 29 7 curve” 
+- 562
+F 586 3 23 Dead 
+F 590 6 23 Man’s 
+F 598 12 23 curve, 
+F 614 3 23 you 
+F 618 3 23 best 
+F 622 3 23 keep 
+F 626 4 23 a
+F 631 10 23 way 
+- 647
+F 650 3 24 Dead 
+F 654 6 24 man’s 
+F 662 10 24 curve, 
+F 674 3 24 I 
+F 678 3 24 can 
+F 682 5 24 hear 
+F 688 4 24 ’em 
+F 697 10 24 say 
+- 713
+: 715 6 14 Won’t 
+: 723 6 14 come 
+: 731 5 15 back 
+: 739 6 15 from 
+: 746 4 12 Dead 
+: 751 6 12 Man’s 
+: 761 46 14 curve. 
+- 818
+: 822 3 7 The 
+: 826 6 11 street 
+: 834 3 11 was 
+: 838 3 11 de
+: 842 3 14 ser
+: 846 4 14 ted 
+: 851 6 7 late 
+: 858 3 14 fri
+: 862 3 14 day
+: 866 4 16 ~ 
+: 871 8 14 night 
+- 881
+: 883 3 7 We 
+: 887 3 7 were 
+: 891 4 12 bug
+: 896 2 12 gin’ 
+: 899 5 14 each 
+: 909 1 12 ot
+: 911 3 12 her 
+: 915 4 9 while 
+: 920 2 7 we 
+: 923 3 10 sat 
+: 927 3 10 out 
+: 931 3 9 the 
+: 935 12 7 light 
+- 950
+: 952 3 7 We 
+: 956 6 11 both 
+: 963 3 12 popped 
+: 967 3 12 the 
+: 971 7 14 clutch 
+: 979 3 12 when 
+: 983 3 11 the 
+: 987 7 14 light 
+: 995 5 16 turned 
+: 1002 9 14 green 
+- 1014
+: 1016 3 9 You 
+: 1021 3 9 should 
+: 1025 2 9 have 
+: 1028 3 11 heard 
+: 1032 3 11 the 
+: 1036 6 9 whine 
+: 1044 3 9 from 
+: 1048 3 9 my 
+: 1052 3 12 scream
+: 1056 3 12 in’ 
+: 1060 3 11 ma
+: 1065 10 9 chine 
+- 1078
+: 1080 3 7 I 
+: 1084 5 11 flew 
+: 1092 3 11 past 
+: 1096 3 11 La
+: 1100 2 14 bre
+: 1103 3 14 a 
+: 1108 4 7 Schwab’s, 
+: 1114 1 14 and 
+: 1116 4 14 Cres
+: 1121 6 16 cent 
+: 1128 7 14 Heights 
+- 1141
+: 1144 3 7 And 
+: 1148 3 12 all 
+: 1152 3 12 the 
+: 1156 3 14 Jag 
+: 1160 2 12 could 
+: 1164 7 12 see 
+: 1172 3 9 were 
+: 1176 3 7 my 
+: 1180 3 10 six 
+: 1185 2 10 ta
+: 1188 4 9 il 
+: 1194 7 7 lights 
+- 1207
+: 1209 2 7 He 
+: 1212 3 11 passed 
+: 1216 3 11 me 
+: 1220 4 12 at 
+: 1225 2 12 Do
+: 1228 3 14 he
+: 1232 4 14 ny 
+: 1237 2 11 then 
+: 1240 3 11 I 
+: 1244 3 14 star
+: 1248 4 14 ted 
+: 1253 3 16 to 
+: 1257 10 14 swerve 
+- 1267
+: 1269 2 11 But 
+: 1272 3 11 I 
+: 1276 3 9 pulled 
+: 1280 3 9 her 
+: 1284 3 11 out 
+: 1288 3 9 and 
+: 1292 7 11 there 
+: 1300 6 11 we 
+: 1308 8 9 were 
+- 1320
+F 1322 3 2 At 
+F 1326 4 2 Dead 
+F 1331 8 2 Man’s 
+: 1342 34 7 curve 
+- 1386
+F 1406 3 17 Dead 
+F 1410 6 17 Man’s 
+F 1418 38 17 curve 
+- 1468
+F 1472 3 0 The 
+F 1476 3 0 last 
+F 1480 2 0 thing 
+F 1483 2 0 I 
+F 1486 4 0 remember, 
+F 1491 6 0 Doc, 
+F 1499 5 0 I 
+F 1506 4 0 started 
+F 1511 2 0 to 
+F 1514 9 0 swerve. 
+- 1533
+F 1543 1 0 Then 
+F 1545 3 0 I 
+F 1549 2 0 saw 
+F 1552 2 0 the 
+F 1555 9 0 Jag 
+F 1565 4 0 slide 
+F 1570 5 0 into 
+F 1576 1 0 the 
+F 1578 8 0 curve 
+- 1596
+F 1610 2 0 I 
+F 1613 1 0 know 
+F 1615 1 0 I’ll 
+F 1617 4 0 never 
+F 1622 6 0 forget 
+F 1629 5 0 that 
+F 1637 7 0 horrible 
+F 1645 8 0 sight 
+- 1663
+F 1681 1 0 Guess 
+F 1683 3 0 I 
+F 1687 1 0 found 
+F 1689 3 0 out 
+F 1693 1 0 for 
+F 1695 5 0 myself 
+F 1701 3 0 that 
+F 1705 9 0 everyone 
+F 1715 3 0 was 
+F 1719 6 0 right 
+- 1732
+: 1735 6 14 Won’t 
+: 1743 6 14 come 
+: 1751 6 15 back 
+: 1759 5 15 from 
+: 1765 3 12 Dead 
+: 1769 5 12 Man’s 
+: 1778 42 14 curve. 
+- 1830
+F 1843 3 23 Dead 
+F 1847 6 23 Man’s 
+F 1855 15 23 curve, 
+F 1871 3 23 it’s 
+F 1875 3 23 no 
+F 1879 3 23 place 
+F 1883 3 23 to 
+F 1887 7 23 play 
+- 1903
+F 1907 3 23 Dead 
+F 1911 6 23 Man’s 
+F 1919 12 23 curve, 
+F 1935 3 23 you 
+F 1939 3 23 best 
+F 1943 3 23 keep 
+F 1947 3 23 a 
+F 1951 8 23 way 
+- 1968
+F 1971 3 24 Dead 
+F 1975 6 24 Man’s 
+F 1983 10 24 curve, 
+F 1995 3 24 I 
+F 1999 3 24 can 
+F 2003 3 24 hear 
+F 2007 4 24 ’em 
+F 2014 8 24 say 
+- 2031
+: 2034 6 14 Won’t 
+: 2042 6 14 come 
+: 2050 6 15 back 
+: 2058 6 15 from 
+: 2066 3 12 Dead 
+: 2070 6 12 Man’s 
+: 2078 42 14 curve. 
+- 2130
+F 2143 4 23 Dead 
+F 2148 5 23 Man’s 
+F 2156 15 23 curve 
+F 2172 3 23 it’s 
+F 2176 3 23 no 
+F 2180 4 23 place 
+F 2185 2 23 to 
+F 2188 7 23 play 
+- 2204
+F 2208 3 23 Dead 
+F 2212 6 23 Man’s 
+F 2220 14 23 curve 
+F 2235 3 23 you 
+F 2239 3 23 best 
+F 2244 2 23 keep 
+F 2247 3 23 a 
+F 2251 7 23 way 
+- 2267
+F 2271 3 24 Dead 
+F 2275 6 24 Man’s 
+F 2283 10 24 curve 
+F 2295 3 24 I 
+F 2299 3 24 can 
+F 2303 3 24 hear 
+F 2307 4 24 ’em 
+F 2315 6 24 say 
+- 2332
+* 2336 5 14 Won’t 
+* 2343 6 14 come 
+* 2351 6 15 back 
+* 2360 4 15 from 
+* 2365 3 12 Dead 
+* 2369 6 12 Man’s 
+* 2377 39 14 curve. 
+- 2426
+F 2444 3 23 Dead 
+F 2448 6 23 Man’s 
+F 2456 14 23 curve 
+F 2472 3 23 it’s 
+F 2476 3 23 no 
+F 2480 3 23 place 
+F 2485 2 23 to 
+F 2488 7 23 play 
+- 2504
+F 2508 3 23 Dead 
+F 2512 5 23 Man’s 
+F 2520 13 23 curve 
+F 2535 3 23 you 
+F 2539 3 23 best 
+F 2543 3 23 keep 
+F 2547 3 23 a 
+F 2551 8 23 way 
+- 2567
+F 2570 3 24 Dead 
+F 2574 6 24 Man’s 
+F 2582 11 24 curve 
+F 2594 3 24 I 
+F 2598 3 24 can 
+F 2602 3 24 hear 
+F 2606 5 24 ’em 
+F 2614 8 24 say 
+- 2631
+: 2635 5 14 Won’t 
+: 2643 5 14 come 
+: 2651 5 15 back 
+: 2658 5 15 from 
+: 2664 3 12 Dead 
+: 2668 7 12 Man’s 
+: 2677 36 14 curve. 
+- 2723
+F 2742 3 23 Dead 
+F 2746 6 23 Man’s 
+F 2754 12 23 curve 
+F 2770 3 23 it’s 
+F 2774 3 23 no 
+F 2778 3 23 place 
+F 2782 3 23 to 
+F 2786 16 23 play 
+- 2804
+F 2806 3 23 Dead 
+F 2810 6 23 Man’s 
+F 2818 12 23 curve 
+F 2834 3 23 you 
+F 2838 3 23 best 
+F 2842 3 23 keep 
+F 2846 3 23 a 
+F 2850 16 23 way 
+- 2868
+F 2870 3 24 Dead 
+F 2874 6 24 Man’s 
+F 2882 10 24 curve 
+F 2894 3 24 I 
+F 2898 3 24 can 
+F 2902 3 24 hear 
+F 2906 6 24 ’em 
+F 2914 12 24 say 
+- 2932
+F 2934 6 14 Won’t 
+F 2942 6 14 come 
+F 2950 6 15 back 
+F 2958 6 15 from 
+F 2966 3 12 Dead 
+F 2970 6 12 Man’s 
+F 2978 4 14 curve. 
+E

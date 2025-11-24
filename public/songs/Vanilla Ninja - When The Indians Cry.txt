@@ -1,0 +1,270 @@
+#ARTIST:Vanilla Ninja
+#TITLE:When The Indians Cry
+#MP3:Vanilla Ninja - When The Indians Cry.mp3
+#CREATOR:Endlager
+#YEAR:2004
+#LANGUAGE:English
+#BPM:286
+#GAP:14330
+#VIDEO:v=y5EccQV7WN0,co=when-the-indians-cry-61b1b15503816.jpg,bg=vanilla-ninja-61b1bc34488dd.jpg
+: 0 16 2 Babe 
+: 20 6 4 tell 
+: 28 2 2 me 
+: 32 14 1 where 
+- 48
+: 56 2 -1 Will 
+: 60 2 -3 you 
+: 64 18 -1 sle
+: 84 2 -3 ep 
+: 88 6 -5 to
+: 96 16 -6 night 
+- 114
+: 120 6 1 For 
+: 128 18 2 there’s 
+: 148 6 4 such 
+: 156 4 2 a 
+: 162 12 1 pain 
+: 182 6 -1 in 
+: 190 6 -3 my 
+: 202 28 -1 heart 
+- 232
+: 252 6 1 And 
+: 260 12 2 I’ve 
+: 274 6 4 got 
+: 282 2 2 a 
+: 286 14 1 flame 
+- 302
+: 314 4 -3 That’s 
+: 322 18 -1 dy
+: 342 2 -3 ing 
+: 346 4 -5 in
+: 352 16 -6 side 
+- 370
+: 376 2 -1 And 
+: 380 2 1 I 
+: 384 14 2 feel 
+: 406 2 4 that 
+: 410 4 2 we’ll 
+: 416 12 1 soon 
+: 438 6 -1 have 
+: 446 6 -3 to 
+: 458 28 -1 part 
+- 488
+: 498 6 2 When 
+: 508 6 4 the 
+: 516 14 6 in
+: 532 10 11 dians 
+: 546 18 9 cry 
+- 566
+: 568 2 6 And 
+: 572 6 4 the 
+: 580 12 2 ea
+: 596 14 7 gles 
+: 612 16 6 die 
+- 629
+: 630 4 2 Cause 
+: 636 4 4 the 
+: 642 14 6 winds 
+: 658 12 11 of 
+: 674 12 9 change 
+: 694 8 6 blow 
+: 704 10 2 a
+: 716 22 4 gain 
+- 740
+: 756 4 2 Then 
+: 764 4 4 I’ll 
+: 772 12 6 know 
+: 788 12 11 that 
+: 804 14 9 you 
+- 820
+: 824 6 11 Turned 
+: 832 2 9 the 
+: 836 10 11 world 
+: 854 2 2 in
+: 858 2 4 to 
+: 862 14 6 blue 
+- 878
+: 886 2 2 And 
+: 890 6 4 my 
+: 898 12 6 tears 
+: 914 12 11 will 
+: 928 10 9 fall 
+: 950 6 6 like 
+: 958 6 2 the 
+: 966 26 4 rain 
+- 994
+: 1026 6 2 Love 
+: 1038 2 2 can 
+: 1042 6 4 be 
+: 1050 2 2 so 
+: 1054 14 1 cruel 
+- 1070
+: 1082 2 -1 When 
+: 1086 2 -3 the 
+: 1090 14 -1 light 
+: 1106 2 -1 of 
+: 1110 4 -3 hope 
+: 1118 2 -5 is 
+: 1122 16 -6 gone 
+- 1140
+: 1146 6 1 I 
+: 1154 14 2 know 
+: 1174 4 4 cos 
+: 1180 2 2 I 
+: 1186 12 1 felt 
+: 1206 4 -1 it 
+: 1212 10 -3 be
+: 1224 28 -1 fore 
+- 1254
+: 1268 4 -1 In 
+: 1274 4 1 the 
+: 1282 12 2 de
+: 1296 4 4 sert 
+: 1304 2 2 of 
+: 1310 14 1 fear 
+- 1326
+: 1332 4 -1 I 
+: 1338 4 -3 can 
+: 1346 16 -1 hear 
+: 1364 2 -3 this 
+: 1370 6 -5 old 
+: 1378 16 -6 song 
+- 1396
+: 1402 2 -1 Of 
+: 1406 2 1 a 
+: 1410 14 2 love 
+: 1430 4 4 that 
+: 1436 4 2 won’t 
+: 1442 18 1 live 
+: 1462 2 -1 a
+: 1466 10 -3 ny
+: 1480 28 -1 more 
+- 1510
+: 1522 6 2 When 
+: 1530 6 4 the 
+: 1538 14 6 in
+: 1554 12 11 dians 
+: 1568 18 9 cry 
+- 1588
+: 1592 2 6 And 
+: 1596 6 4 the 
+: 1604 12 2 ea
+: 1620 14 7 gles 
+: 1636 16 6 die 
+- 1653
+: 1654 2 2 Cause 
+: 1658 6 4 the 
+: 1666 14 6 winds 
+: 1682 12 11 of 
+: 1698 12 9 change 
+: 1718 8 6 blow 
+: 1732 8 2 a
+: 1742 26 4 gain 
+- 1770
+: 1780 4 2 Then 
+: 1788 4 4 I’ll 
+: 1796 12 6 know 
+: 1812 14 11 that 
+: 1828 12 9 you 
+- 1842
+: 1846 6 11 Turned 
+: 1854 2 9 the 
+: 1858 12 11 world 
+: 1878 2 2 in
+: 1882 2 4 to 
+: 1888 14 6 blue 
+- 1904
+: 1910 2 2 And 
+: 1914 6 4 my 
+: 1922 12 6 tears 
+: 1938 12 11 will 
+: 1952 10 9 fall 
+: 1974 6 6 like 
+: 1982 8 2 the 
+* 1992 50 4 rain 
+- 2044
+: 2610 6 2 When 
+: 2618 6 4 the 
+: 2626 14 6 in
+: 2642 10 11 dians 
+: 2656 18 9 cry 
+- 2676
+: 2680 2 6 And 
+: 2684 4 4 the 
+: 2690 12 2 ea
+: 2706 14 7 gles 
+: 2722 16 6 die 
+- 2740
+: 2742 2 2 Cause 
+: 2746 6 4 the 
+: 2754 14 6 winds 
+: 2770 12 11 of 
+: 2786 12 9 change 
+: 2806 4 6 blow 
+: 2818 12 2 a
+: 2832 30 9 gain 
+- 2864
+: 2866 4 2 Then 
+: 2874 4 4 I’ll 
+: 2882 12 6 know 
+: 2898 14 11 that 
+: 2914 14 9 you 
+- 2930
+: 2934 6 11 Turned 
+: 2942 2 9 the 
+: 2946 10 11 world 
+: 2966 2 2 in
+: 2970 2 4 to 
+: 2974 14 6 blue 
+- 2990
+: 2998 2 2 And 
+: 3002 6 4 my 
+: 3010 12 6 tears 
+: 3026 14 11 will 
+: 3042 10 9 fall 
+: 3062 6 6 like 
+: 3070 4 2 the 
+: 3078 30 9 rain 
+- 3110
+: 3122 4 2 Then 
+: 3130 4 4 I’ll 
+: 3138 12 6 know 
+: 3154 14 11 that 
+: 3170 14 9 you 
+- 3186
+: 3190 6 11 Turned 
+: 3198 2 9 the 
+: 3202 18 11 world 
+: 3222 2 2 in
+: 3226 2 4 to 
+: 3232 12 6 blue 
+- 3246
+: 3258 2 6 Then 
+: 3262 2 4 I’ll 
+: 3266 14 2 know 
+: 3282 14 11 that 
+: 3298 14 9 you 
+- 3314
+: 3322 2 6 Turned 
+: 3326 2 4 the 
+: 3330 10 2 world 
+: 3350 2 7 in
+: 3354 2 9 to 
+: 3358 14 6 blue 
+- 3374
+: 3386 2 6 And 
+: 3390 2 4 my 
+: 3394 12 2 tears 
+: 3410 12 11 will 
+: 3426 12 9 fall 
+: 3448 6 6 like 
+: 3456 4 4 the 
+: 3464 40 2 rain 
+- 3506
+: 3528 6 4 Oh 
+: 3536 2 2 oh 
+: 3540 20 -2 oh 
+: 3562 14 4 like 
+: 3580 12 2 the 
+* 3604 80 9 rain 
+E

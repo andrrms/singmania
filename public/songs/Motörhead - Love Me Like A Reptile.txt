@@ -1,0 +1,253 @@
+#ARTIST:Motörhead
+#TITLE:Love Me Like A Reptile
+#MP3:Motörhead - Love Me Like A Reptile.mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero World Tour
+#GENRE:Heavy Metal
+#YEAR:1980
+#LANGUAGE:English
+#BPM:395.92
+#GAP:24920
+#VIDEO:a=mJQpMQewFWM,co=https://www.brancastudio.com/cdn/shop/articles/motorhead-portfolio-branca-studio-brancastudio_600x.jpg,bg=motrhead-5ff624361528a.jpg,preview=44.54,medley=0-714
+#START:5.0
+: 0 4 3 Knew 
+: 5 2 3 I 
+: 9 4 3 had 
+: 18 3 3 to 
+: 25 5 6 bite 
+: 33 3 3 you 
+: 38 5 4 ba
+: 45 1 3 by 
+- 48
+: 49 3 3 When 
+: 54 2 3 I 
+: 58 5 6 first 
+: 65 6 4 laid 
+: 73 5 6 eyes 
+: 79 4 3 on 
+: 86 10 6 you 
+- 98
+: 129 7 3 Yours 
+: 138 4 3 real
+: 144 4 3 ly 
+: 150 10 6 turned 
+: 162 5 4 me 
+: 168 8 6 on 
+- 178
+: 181 3 3 I 
+: 186 6 3 can’t 
+: 194 3 3 be
+: 198 7 6 lieve 
+: 207 5 3 it’s 
+: 214 10 6 true 
+- 226
+: 273 2 3 And 
+: 277 4 3 I 
+: 284 4 6 like 
+: 291 2 3 to 
+: 296 7 6 watch 
+: 305 3 3 your
+: 309 7 1 ~ 
+- 318
+: 331 4 6 Bo
+: 336 4 3 dy 
+: 344 14 6 sway 
+- 360
+: 414 3 6 Got 
+: 421 4 6 no 
+: 429 11 6 choice 
+- 442
+* 453 3 6 Gon
+: 457 2 6 na 
+: 461 5 6 twist 
+: 470 5 6 your 
+: 478 9 6 tail 
+- 489
+: 518 6 6 Love 
+: 525 4 6 me 
+: 531 4 6 like 
+: 537 4 6 a 
+: 543 6 9 rep
+: 553 9 3 tile 
+- 564
+: 581 7 6 Love 
+: 590 3 6 me 
+: 595 4 6 like 
+: 601 4 6 a 
+: 608 6 9 rep
+: 619 10 3 tile 
+- 631
+: 663 3 3 Gon
+: 668 3 3 na 
+: 672 4 5 sink 
+* 680 5 6 my 
+: 688 8 5 fangs 
+: 697 5 3 in 
+: 705 9 6 you 
+- 716
+: 906 3 4 Thun
+: 910 3 4 der 
+: 914 2 4 li
+: 919 5 4 zard, 
+: 930 6 6 sto
+: 937 4 3 ny 
+* 942 9 6 eye 
+- 953
+: 958 2 3 You 
+: 962 5 6 got 
+: 971 5 3 me 
+: 977 3 6 hyp
+* 984 4 3 no
+: 990 13 6 tized 
+- 1005
+: 1035 6 6 Forked 
+: 1044 6 6 tongue 
+: 1051 4 6 go
+: 1056 3 6 in’ 
+: 1060 3 6 in 
+: 1066 5 6 and 
+: 1072 7 6 out 
+- 1081
+: 1087 4 3 I 
+: 1092 6 6 can’t 
+: 1100 3 3 be
+: 1105 7 6 lieve 
+: 1114 4 3 my 
+: 1120 12 6 eyes 
+- 1134
+* 1176 4 3 And 
+: 1182 4 3 your 
+: 1189 4 6 soft 
+: 1197 5 6 white 
+: 1204 3 6 bel
+: 1208 6 6 ly 
+- 1216
+: 1237 5 6 Next 
+: 1245 4 3 to 
+: 1250 12 6 mine 
+- 1264
+: 1318 8 6 Sca
+: 1327 2 3 ly 
+: 1332 6 3 ba
+* 1339 7 6 by 
+- 1348
+: 1367 6 6 See 
+: 1374 6 6 you 
+: 1383 11 6 shine 
+- 1396
+: 1422 6 6 Love 
+: 1430 5 6 me 
+: 1436 5 6 like 
+: 1442 5 6 a 
+* 1448 6 9 rep
+: 1460 10 3 tile 
+- 1472
+: 1487 6 6 Love 
+: 1495 4 6 me 
+: 1501 4 6 like 
+: 1506 3 6 a 
+: 1512 7 9 rep
+: 1524 11 3 tile 
+- 1537
+: 1569 5 3 You’re 
+: 1577 6 6 mur
+: 1585 4 3 der 
+* 1590 6 6 in 
+: 1598 5 3 dis
+: 1606 10 6 guise 
+- 1618
+: 1699 4 3 You’re 
+: 1706 7 6 mur
+: 1715 3 6 der 
+: 1719 6 6 in 
+: 1726 6 3 dis
+: 1736 11 6 guise 
+- 1749
+F 1784 1 0 Hey 
+- 1787
+: 2715 3 3 Ba
+: 2719 4 3 by 
+: 2724 7 3 you’re 
+: 2733 4 3 a 
+: 2740 4 6 rat
+: 2745 3 3 tle
+: 2753 7 6 snake 
+- 2762
+: 2768 3 3 You 
+: 2774 5 6 know 
+: 2781 3 3 the 
+: 2786 5 6 way 
+: 2793 4 3 I 
+: 2801 11 6 feel 
+- 2814
+: 2844 3 3 Feel 
+: 2849 3 3 you 
+: 2854 5 3 crawl
+: 2861 4 3 in’ 
+: 2866 4 6 up 
+: 2874 4 3 my 
+: 2882 7 6 back 
+- 2891
+: 2898 2 3 You’ve 
+: 2902 4 6 got 
+: 2910 4 6 no 
+: 2918 4 6 love 
+: 2926 3 6 to 
+: 2934 10 6 steal 
+- 2946
+: 2988 3 3 And 
+: 2993 3 3 you 
+: 2999 5 6 know 
+: 3005 4 6 I’ve 
+: 3012 4 6 got 
+: 3021 3 3 my
+: 3025 7 1 ~ 
+- 3034
+: 3048 6 6 Eyes 
+: 3056 5 6 on 
+: 3063 10 6 you 
+- 3075
+: 3128 5 6 Pe
+: 3137 3 3 tri
+: 3143 8 6 fied 
+- 3153
+: 3167 3 6 Gon
+: 3171 3 6 na 
+: 3175 5 6 stick 
+: 3183 6 6 like 
+: 3192 11 6 glue 
+- 3205
+: 3233 6 6 Love 
+: 3240 4 6 me 
+: 3246 4 6 like 
+: 3252 4 6 a 
+: 3259 6 9 rep
+* 3270 9 3 tile 
+- 3281
+: 3298 5 6 Love 
+: 3305 3 6 me 
+: 3311 3 6 like 
+: 3316 4 6 a 
+: 3322 5 9 rep
+: 3333 10 3 tile 
+- 3345
+: 3387 3 6 Like 
+: 3391 4 6 an 
+: 3396 3 3 e
+* 3400 3 6 lec
+: 3408 5 3 tric 
+: 3416 10 7 eel 
+- 3428
+: 3517 5 6 Shock 
+: 3523 3 3 it 
+* 3530 5 3 ba
+* 3536 4 6 by, 
+: 3543 5 6 like 
+: 3551 3 4 an 
+: 3555 4 3 e
+: 3561 4 6 lec
+: 3569 4 3 tric 
+: 3576 9 7 eel 
+- 3587
+F 3600 1 1 Hey 
+E

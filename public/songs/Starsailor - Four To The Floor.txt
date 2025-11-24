@@ -1,0 +1,206 @@
+#ARTIST:Starsailor
+#TITLE:Four To The Floor
+#MP3:Starsailor - Four To The Floor.mp3
+#CREATOR:prgoenner
+#GENRE:Rock
+#YEAR:2003
+#LANGUAGE:English
+#BPM:368
+#GAP:20830
+#VIDEO:v=d0votplOm8E,co=https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/61/90/55/619055cb-f877-0689-7fcc-afd4ff4ac5db/dj.tkcehxxe.jpg/5000x5000bb.jpg,bg=starsailor-4f15e89e285ea.jpg
+: 0 12 -4 With 
+: 16 24 4 hand 
+: 64 8 -4 on 
+: 80 24 3 heart 
+- 106
+: 124 12 3 You 
+: 140 20 1 right 
+: 172 12 -1 from 
+: 188 12 -3 the 
+: 204 20 -4 start 
+- 226
+: 252 8 -8 You 
+: 268 24 1 taught 
+: 296 12 -1 me 
+: 312 12 -3 to 
+: 328 16 -4 take 
+- 346
+* 376 8 -8 My 
+* 392 20 -6 part 
+- 414
+: 504 8 -4 No 
+* 516 36 4 cross 
+: 564 16 -4 to 
+: 584 16 3 bear 
+- 602
+: 628 12 3 No 
+: 644 28 1 rea
+: 676 12 -1 son 
+: 692 12 -3 to 
+: 708 16 -4 care 
+- 726
+: 756 12 -8 My 
+: 772 28 1 life 
+: 804 12 -1 was 
+: 820 12 -3 all 
+: 836 16 -4 up 
+- 854
+* 884 8 -1 In 
+* 900 56 1 air 
+- 958
+: 1024 12 1 Four 
+: 1040 7 1 to 
+: 1048 4 -1 the 
+: 1056 12 1 floor 
+: 1072 7 1 I 
+: 1080 7 -1 was 
+: 1088 16 1 sure 
+- 1106
+: 1120 7 3 Ne
+: 1128 4 4 ver 
+* 1136 7 3 see
+* 1144 4 4 ing 
+: 1152 20 1 clear 
+- 1174
+: 1248 4 3 I 
+: 1256 4 4 could 
+: 1264 7 3 have 
+: 1272 4 4 it 
+: 1280 20 1 all 
+- 1302
+: 1364 8 4 When
+: 1376 3 3 e
+: 1380 4 4 ver 
+: 1388 7 3 you 
+: 1396 4 4 are 
+: 1404 28 1 near 
+- 1434
+: 1516 8 -4 The 
+: 1532 44 1 i
+: 1580 8 -4 ron 
+* 1596 28 3 hand 
+- 1626
+: 1644 12 3 Did 
+: 1660 24 1 not 
+: 1688 15 -1 un
+: 1704 12 -3 der
+: 1720 24 -4 stand 
+- 1746
+: 1768 12 -8 The 
+: 1784 28 1 plight 
+: 1816 15 -1 of 
+: 1832 8 -3 the 
+- 1842
+* 1848 44 -4 Com
+* 1896 8 -1 mon 
+- 1906
+* 1912 56 1 Man 
+- 1970
+: 2036 12 1 Four 
+: 2052 7 1 to 
+: 2060 4 -1 the 
+: 2068 12 1 floor 
+: 2084 7 1 I 
+: 2092 4 -1 was 
+: 2100 20 1 sure 
+- 2122
+: 2132 7 3 Ne
+: 2140 4 4 ver 
+: 2148 7 3 see
+: 2156 4 4 ing 
+: 2164 20 1 clear 
+- 2186
+: 2260 4 3 I 
+: 2268 4 4 could 
+: 2276 4 3 have 
+: 2284 4 4 it 
+* 2292 20 1 all 
+- 2314
+: 2376 7 4 When
+: 2384 4 3 ev
+: 2392 4 4 er 
+* 2400 7 3 you 
+* 2408 7 4 are 
+: 2416 24 1 near 
+- 2442
+: 2544 12 1 Four 
+: 2560 4 1 to 
+: 2568 4 -1 the 
+: 2576 12 1 floor 
+: 2592 7 1 I 
+: 2600 4 -1 was 
+: 2608 16 1 sure 
+- 2626
+: 2636 7 3 She 
+: 2644 7 4 would 
+: 2652 7 3 be 
+: 2660 7 4 my 
+: 2668 24 1 girl 
+- 2694
+: 2756 7 4 We’d 
+: 2764 7 3 rent 
+: 2772 7 4 a 
+: 2780 7 3 lit
+: 2788 4 4 tle 
+: 2796 24 1 world 
+- 2822
+: 2888 11 3 Have 
+: 2900 4 4 a 
+: 2908 7 3 lit
+: 2916 4 4 tle 
+* 2924 24 1 girl 
+- 2950
+: 3052 8 1 Four 
+: 3064 7 1 to 
+: 3072 4 -1 the 
+: 3080 12 1 floor 
+: 3096 7 1 I 
+: 3104 4 -1 was 
+: 3112 16 1 sure 
+- 3130
+: 3144 7 3 Ne
+: 3152 4 4 ver 
+* 3160 7 3 see
+* 3168 4 4 ing 
+: 3176 16 1 clear 
+- 3194
+: 3268 7 3 I 
+: 3276 7 4 could 
+: 3284 8 3 have 
+: 3296 4 4 it 
+: 3304 20 1 all 
+- 3326
+: 3388 7 4 If 
+: 3396 7 3 on
+: 3404 4 4 ly 
+: 3412 7 3 you 
+: 3420 4 4 where 
+: 3428 16 1 here 
+- 3446
+: 3552 12 1 Four 
+: 3568 8 1 to 
+: 3580 4 -1 the 
+: 3588 12 1 floor 
+: 3604 7 1 I 
+: 3612 4 -1 was 
+: 3620 20 1 sure 
+- 3642
+: 3648 7 3 She 
+: 3656 7 4 would 
+: 3664 4 3 be 
+: 3672 8 4 my 
+* 3684 20 1 girl 
+- 3706
+: 3768 7 4 We’d 
+: 3776 7 3 rent 
+: 3784 4 4 a 
+* 3792 7 3 lit
+* 3800 7 4 tle 
+* 3808 24 1 world 
+- 3834
+: 3900 11 3 Have 
+: 3912 4 4 a 
+: 3920 7 3 lit
+: 3928 4 4 tle 
+: 3936 24 1 girl 
+E

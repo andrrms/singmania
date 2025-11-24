@@ -1,0 +1,118 @@
+#ARTIST:CCS
+#TITLE:Walking
+#MP3:CCS - Walking.mp3
+#CREATOR:Fepo
+#GENRE:Blues
+#YEAR:1971
+#LANGUAGE:English
+#BPM:237.68
+#GAP:78940
+#VIDEO:a=gVNeAFx4FlM,co=https://a3.cdn.hhv.de/items/images/generated/475x475/00893/893871/1-ccs-walking.webp
+: 0 2 -3 Wal
+: 4 5 0 king, 
+: 47 3 4 wal
+: 52 3 4 king 
+: 56 4 0 af
+: 62 2 -1 ter 
+: 66 7 2 you 
+- 75
+: 125 4 -8 I’m 
+: 130 3 0 wal
+: 134 7 2 king, 
+: 178 3 5 wal
+: 183 3 7 king 
+: 188 1 2 a
+: 190 1 -2 ~f
+: 192 2 0 ter 
+: 196 9 4 you 
+- 207
+: 260 2 -3 Wal
+: 264 5 0 king, 
+: 308 2 -3 wal
+: 312 3 0 king 
+: 317 2 2 af
+: 320 2 -3 ~ 
+: 324 2 0 ter 
+: 328 8 4 you 
+- 338
+* 344 3 7 Uh 
+* 349 3 2 hu 
+* 354 4 4 hu 
+- 360
+: 388 3 4 Thin
+: 393 6 0 king, 
+: 404 4 2 tal
+: 410 5 -5 king, 
+: 421 2 5 wal
+: 425 2 5 king 
+: 429 2 5 all 
+: 433 2 6 my 
+: 437 4 3 ways 
+: 445 3 -4 wit’ 
+: 450 6 0 you 
+- 458
+: 518 3 4 Drea
+: 523 6 4 ming, 
+: 566 3 4 drea
+: 571 3 4 ming 
+: 576 3 2 o
+: 580 2 4 ver 
+: 583 6 2 you 
+- 591
+: 647 3 2 Drea
+: 652 6 2 ming, 
+: 695 3 4 drea
+: 699 3 5 ming 
+: 703 2 4 o
+: 707 2 5 ver 
+: 711 7 4 you 
+- 720
+: 773 4 9 Sche
+: 778 7 9 ming, 
+: 821 3 9 sche
+: 826 2 7 ming 
+: 830 2 5 what 
+: 834 2 7 to 
+: 838 9 4 do 
+- 849
+: 901 3 9 Drea
+: 905 3 7 ming 
+: 910 2 4 and 
+: 914 2 0 a 
+: 917 4 9 sche
+: 922 4 0 ming 
+- 928
+: 933 3 4 Spen
+: 938 3 4 ding 
+: 942 2 7 all 
+: 946 2 9 my 
+: 950 5 3 dreams 
+: 958 3 0 on 
+: 962 6 0 you 
+- 970
+: 1284 4 9 Sin
+: 1290 6 9 ging, 
+: 1332 3 9 sin
+: 1337 5 7 ging 
+: 1344 3 4 for 
+: 1349 5 9 you
+: 1356 11 7 ~ 
+: 1369 4 9 ~ 
+: 1374 4 9 ~ 
+: 1380 12 0 ~ 
+- 1394
+: 1412 3 9 Mo
+: 1416 3 7 ving 
+: 1421 2 7 and 
+: 1425 2 4 a 
+: 1429 3 2 goi
+: 1434 5 9 ng 
+- 1441
+: 1444 2 9 Sin
+: 1448 2 5 ging 
+: 1452 3 9 all 
+: 1457 3 9 my 
+* 1461 6 2 songs 
+* 1469 4 0 for 
+* 1475 6 4 you 
+E

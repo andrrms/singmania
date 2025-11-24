@@ -1,0 +1,336 @@
+#ARTIST:Smash Cast feat. Krysta Rodriguez
+#TITLE:Reach For Me
+#MP3:Smash Cast feat. Krysta Rodriguez - Reach For Me.mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:2013
+#LANGUAGE:English
+#BPM:287
+#GAP:12240
+#VIDEO:a=V-VOyklyQuk,co=https://m.media-amazon.com/images/I/51tkUA-imeL.jpg
+: 0 10 6 I 
+: 17 3 -1 could 
+: 25 12 1 fall 
+: 49 4 3 in 
+: 55 14 3 love 
+: 76 3 -1 with 
+: 85 8 -4 you 
+- 95
+: 121 10 -4 I 
+: 135 3 -1 could 
+: 142 14 1 fall 
+: 163 3 3 in 
+: 170 27 3 love 
+- 199
+: 235 13 6 In 
+: 251 7 3 my 
+: 263 13 1 dreams 
+: 282 5 3 your 
+: 292 13 3 dreams 
+: 312 3 -1 come 
+: 321 8 -4 true 
+- 331
+: 350 15 -4 Say 
+: 370 4 3 you’ll 
+: 378 14 1 dream 
+: 399 5 -1 of 
+: 409 10 1 us 
+- 421
+: 433 2 1 At 
+: 437 7 3 night 
+: 447 5 3 when 
+: 455 4 3 the 
+: 462 11 8 bright 
+: 477 7 6 stars 
+: 487 2 6 are 
+: 491 11 6 bur
+: 504 5 3 ning 
+: 511 4 1 high 
+: 518 5 1 o
+: 526 6 -1 ver 
+- 534
+: 543 3 6 Man
+: 547 5 6 ha
+: 558 10 3 ttan 
+: 572 4 3 all 
+: 578 5 1 washed 
+: 589 6 -1 out 
+- 597
+: 603 3 6 In 
+: 607 4 6 ne
+: 615 8 3 on 
+: 636 3 -4 and 
+: 640 3 3 hid 
+: 646 3 1 from 
+: 651 11 3 view 
+- 664
+: 670 5 -1 But 
+: 678 9 1 when 
+: 690 3 3 the 
+: 696 8 8 po
+: 707 8 6 wer 
+: 719 3 6 goes 
+: 725 9 6 out 
+: 737 5 3 and 
+: 744 5 1 you 
+: 751 5 1 look 
+: 758 9 -1 up 
+- 769
+: 777 4 6 From 
+: 782 4 6 Broo
+: 789 6 3 klyn, 
+: 799 5 3 will 
+: 806 5 3 you 
+: 812 4 1 reach 
+: 821 3 -1 for 
+: 826 7 -1 me 
+- 835
+: 845 3 1 Reach
+: 850 3 3 ing 
+: 855 5 1 out 
+: 865 4 -1 for 
+: 875 22 3 you 
+- 899
+: 906 6 3 Oh 
+: 914 5 3 will 
+: 922 6 3 you 
+: 930 5 1 reach 
+: 938 4 -1 for 
+: 945 5 -1 me 
+- 952
+: 963 3 1 Reach
+: 969 2 3 ing 
+: 974 4 1 out 
+: 980 5 -1 for 
+: 989 40 -1 you 
+- 1031
+: 1079 3 1 Reach
+: 1084 2 3 ing 
+: 1088 6 1 out 
+: 1098 2 -1 for 
+: 1107 56 3 you 
+- 1165
+: 1227 13 6 I 
+: 1245 4 -1 can 
+: 1254 13 1 tell 
+: 1274 5 3 you’re 
+: 1284 14 3 un
+: 1302 4 -1 pre
+: 1309 14 -4 pared 
+- 1325
+: 1338 3 -4 For 
+: 1343 7 -4 what 
+: 1360 5 -1 will 
+: 1371 14 1 ha
+: 1390 3 3 ppen 
+: 1398 7 4 next
+: 1408 12 3 ~ 
+- 1422
+: 1458 11 6 No
+: 1477 4 3 thing 
+: 1486 10 1 now 
+: 1507 2 3 could 
+: 1514 14 3 change 
+: 1536 4 -1 my 
+: 1544 11 -4 mind 
+- 1557
+: 1570 5 -6 Or 
+: 1578 10 -4 make 
+: 1594 5 3 me 
+: 1604 14 1 want 
+: 1624 4 -1 you 
+: 1634 25 1 less 
+- 1661
+: 1681 4 -1 Do 
+: 1686 4 -1 you 
+: 1691 8 -2 want 
+: 1702 6 -2 this 
+: 1712 3 -1 to
+: 1718 8 1 night 
+: 1729 8 3 when 
+: 1739 4 3 the 
+: 1747 8 8 bright 
+: 1760 6 6 stars 
+: 1769 3 6 are 
+: 1775 10 6 bur
+: 1788 2 3 ning 
+: 1795 6 1 high 
+: 1804 3 1 o
+: 1810 7 -1 ver 
+- 1819
+: 1829 3 6 Man
+: 1834 4 6 ha
+: 1842 9 3 ttan 
+: 1857 5 3 all 
+: 1863 5 1 washed 
+: 1873 7 -1 out 
+- 1882
+: 1887 3 6 In 
+: 1892 4 6 ne
+: 1897 12 3 on 
+: 1920 2 -4 and 
+: 1925 2 3 hid 
+: 1930 3 1 from 
+: 1935 9 3 view 
+- 1946
+: 1955 6 -1 But 
+: 1964 7 1 when 
+: 1974 3 3 the 
+: 1980 7 8 po
+: 1991 8 6 wer 
+: 2003 3 6 goes 
+: 2009 10 6 out 
+: 2021 5 3 and 
+: 2029 6 1 you 
+: 2037 3 1 look 
+: 2043 7 -1 up 
+- 2052
+: 2061 4 6 From 
+: 2066 5 6 Brook
+: 2073 6 3 lyn, 
+: 2082 6 3 will 
+: 2090 5 3 you 
+: 2097 4 1 reach 
+: 2106 3 -1 for 
+: 2112 6 -1 me 
+- 2120
+: 2130 2 1 Reach
+: 2135 3 3 ing 
+: 2140 5 1 out 
+: 2148 3 -1 for 
+: 2155 25 3 you 
+- 2182
+: 2191 5 3 Oh 
+: 2199 5 3 will 
+: 2207 4 3 you 
+: 2213 5 1 reach 
+: 2223 2 -1 for 
+: 2227 7 -1 me 
+- 2236
+: 2247 2 1 Reach
+: 2252 2 3 ing 
+: 2256 5 1 out 
+: 2265 4 -1 for 
+: 2273 11 -1 you 
+- 2286
+: 2353 4 -1 Would 
+: 2358 5 -1 you 
+: 2365 3 -1 reach 
+: 2371 5 1 for 
+: 2381 19 3 me? 
+- 2402
+: 2441 3 -1 I 
+: 2446 2 -1 could 
+: 2452 5 6 wait 
+: 2459 3 8 for 
+: 2467 7 3 you
+: 2477 10 1 ~ 
+- 2489
+: 2527 4 -1 Would 
+: 2533 3 -1 you 
+: 2537 4 -1 reach 
+: 2548 3 1 for 
+: 2554 21 3 me? 
+- 2577
+: 2598 5 8 Bright 
+: 2609 5 6 stars 
+: 2615 4 6 are 
+: 2621 10 6 bur
+: 2634 4 3 ning 
+: 2640 7 1 high 
+: 2650 5 1 o
+: 2658 8 -1 ver 
+- 2668
+: 2675 3 6 Man
+: 2680 4 6 ha
+: 2689 8 3 ttan 
+: 2703 4 3 all 
+: 2710 4 1 washed 
+: 2719 7 -1 out 
+- 2728
+: 2734 3 6 In 
+: 2738 5 6 ne
+: 2746 8 3 on 
+: 2767 2 -4 and 
+: 2772 2 3 hid 
+: 2776 4 1 from 
+: 2782 10 3 view 
+- 2794
+: 2803 5 -1 But 
+: 2810 8 1 when 
+: 2820 3 3 the 
+: 2828 6 8 po
+: 2836 11 6 wer 
+: 2849 5 6 goes 
+* 2857 6 11 out 
+* 2869 4 10 and 
+* 2877 5 8 you 
+* 2883 4 8 look 
+* 2889 7 6 up 
+- 2898
+: 2906 4 3 From 
+: 2912 4 8 Brook
+: 2919 6 6 lyn, 
+: 2927 6 3 will 
+: 2937 5 3 you 
+: 2944 3 1 reach 
+: 2952 4 -1 for 
+: 2957 7 -1 me 
+- 2966
+: 2975 3 1 Rea
+: 2981 2 3 ching 
+: 2985 3 1 out
+: 2989 3 -1 ~ 
+: 2997 2 -1 for 
+: 3002 26 3 you 
+- 3030
+: 3036 4 6 Oh 
+: 3044 6 3 will 
+: 3053 6 3 you 
+: 3061 4 1 reach 
+: 3069 2 -1 for 
+: 3073 8 -1 me 
+- 3083
+: 3092 3 1 Rea
+: 3098 3 3 ching 
+: 3103 4 1 out 
+: 3113 2 -1 for 
+* 3120 16 3 you
+* 3142 8 8 ~
+* 3152 5 11 ~ 
+- 3159
+: 3164 3 3 Will 
+: 3170 5 3 you 
+: 3177 4 1 reach 
+: 3186 3 -1 for 
+: 3192 7 -1 me 
+- 3201
+: 3209 3 1 Reach
+: 3214 4 3 ing 
+: 3220 5 1 out 
+: 3227 6 -1 for 
+: 3235 38 -1 you 
+- 3275
+: 3326 3 1 Reach
+: 3331 4 3 ing 
+: 3338 5 1 out 
+: 3347 4 -1 for 
+: 3354 43 3 you 
+- 3399
+: 3438 2 -1 I’m 
+: 3443 2 1 reach
+: 3447 3 3 ing 
+: 3451 4 1 out 
+: 3457 3 -1 for 
+: 3462 5 6 you
+* 3470 22 3 ~
+* 3496 22 1 ~
+* 3522 7 -1 ~ 
+- 3531
+: 3554 3 -4 I’m 
+: 3558 4 1 reach
+: 3564 3 3 ing 
+: 3568 4 1 out 
+: 3579 3 -1 for 
+: 3591 55 3 you 
+E

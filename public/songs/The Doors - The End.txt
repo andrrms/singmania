@@ -1,0 +1,140 @@
+#ARTIST:The Doors
+#TITLE:The End
+#MP3:The Doors - The End.mp3
+#CREATOR:Way2Evil
+#YEAR:1966
+#LANGUAGE:English
+#BPM:202.6
+#GAP:54550
+#VIDEO:v=CIrvSJwwJUE,co=https://m.media-amazon.com/images/I/81afyUtuoaL.jpg
+#END:228800
+: 0 2 -3 This 
+: 3 1 -3 is 
+: 5 1 -3 the 
+: 7 20 -3 end. 
+- 29
+: 39 8 0 Beau
+: 48 4 0 ti
+: 53 6 -1 ful 
+: 60 16 -3 friend 
+- 78
+: 127 2 -3 This 
+: 130 1 -3 is 
+: 133 2 -3 the 
+: 136 16 -3 end 
+- 154
+: 167 7 0 My 
+: 176 5 0 on
+: 183 6 -5 ly 
+: 192 9 -3 friend, 
+: 204 3 0 the 
+: 208 16 -3 end 
+- 226
+: 232 7 -1 Of 
+: 240 8 0 our 
+: 250 6 2 e
+: 257 7 -1 la
+: 265 5 -5 brate 
+: 273 11 -3 plans, 
+: 285 3 0 the 
+: 289 16 -3 end 
+- 307
+: 314 7 -1 Of 
+: 322 6 0 ev
+: 330 6 2 ery
+: 338 6 -1 thing 
+: 346 4 -5 that 
+: 354 10 -3 stands, 
+: 366 3 0 the 
+: 370 15 -3 end 
+- 387
+: 395 5 -1 No 
+: 403 7 0 safe
+: 413 5 2 ty 
+: 419 5 -1 or 
+: 427 7 -5 sur
+: 436 10 -3 prise, 
+* 449 2 0 the 
+* 452 16 -3 end 
+- 470
+: 476 7 -1 I’ll 
+: 484 4 2 ne
+: 489 7 0 ver 
+: 500 6 2 look 
+: 508 9 2 in
+: 518 4 2 to 
+: 523 10 0 your 
+: 534 18 -3 eyes, 
+: 556 4 0 a
+: 562 16 -3 gain 
+- 580
+: 644 7 -3 Can 
+: 652 5 -3 you 
+: 660 4 4 pic
+: 666 10 4 ture 
+: 680 4 4 what 
+: 687 4 4 will 
+: 693 16 2 be, 
+- 711
+: 716 3 4 So
+: 720 3 2 ~ 
+: 725 6 5 li
+: 732 7 4 mit
+: 740 6 2 less 
+: 748 7 0 and 
+: 757 17 -3 free 
+- 776
+: 787 4 2 Des
+: 794 7 2 perate
+: 802 6 2 ly 
+: 809 8 2 in 
+: 819 3 2 ne
+: 823 14 -3 ed, 
+: 838 3 -4 of 
+: 843 8 0 some, 
+- 853
+: 865 7 0 Stran
+: 873 5 -5 ger’s 
+: 881 16 -3 hand, 
+: 902 3 0 in 
+: 906 9 0 a 
+: 929 4 5 des
+: 937 7 4 perate 
+: 945 17 2 land 
+- 964
+: 1617 13 -3 Lost 
+: 1633 3 -3 in 
+: 1637 7 -3 a 
+: 1647 4 -3 ro
+: 1652 8 -3 man 
+- 1662
+: 1679 6 -1 Wil
+: 1687 6 2 der
+: 1694 4 2 ness 
+: 1700 5 0 of 
+: 1707 16 -3 pain 
+- 1725
+: 1768 3 9 And 
+* 1772 22 9 all 
+: 1795 5 9 the 
+* 1803 14 12 chil
+* 1818 13 9 dren 
+* 1833 14 12 are 
+* 1849 11 7 in
+* 1863 16 9 sane 
+- 1881
+: 1940 3 9 All 
+: 1944 7 9 the 
+: 1956 3 9 chil
+: 1960 16 9 dren 
+: 1985 15 12 are 
+: 2003 11 11 in
+: 2017 19 9 sane 
+- 2038
+F 2077 13 0 Waiting 
+F 2091 8 0 for 
+F 2100 4 0 the 
+F 2105 14 0 summer 
+F 2120 19 0 rain, 
+F 2140 34 0 yeah! 
+E

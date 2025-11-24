@@ -1,0 +1,178 @@
+#ARTIST:Van Tongeren / Johnny Vancouver
+#TITLE:Galaxy Rangers Intro
+#MP3:Van Tongeren / Johnny Vancouver - Galaxy Rangers Intro.mp3
+#CREATOR:hamelner
+#COVER:Van Tongeren / Johnny Vancouver - Galaxy Rangers Intro [CO].jpg
+#BACKGROUND:Van Tongeren / Johnny Vancouver - Galaxy Rangers Intro [BG].jpg
+#LANGUAGE:English
+#BPM:374
+#GAP:1890
+#VIDEO:v=aBJGMI2ZWWI,co=https://i1.sndcdn.com/artworks-sCk2vOHMAIk4Rzzw-za9zEA-t500x500.jpg
+: 0 2 -1 In 
+: 6 24 2 2086 
+- 36
+: 38 4 7 Two 
+: 46 4 4 peace
+: 51 5 -1 ful 
+: 57 5 8 ali
+: 63 7 8 ens 
+- 70
+: 72 2 4 Jour
+: 75 5 5 neyed 
+: 81 3 4 to 
+: 85 10 8 Earth 
+- 99
+: 101 4 3 Seek
+: 106 5 -5 ing 
+: 113 3 -5 our 
+: 117 8 -2 help 
+- 135
+: 145 2 4 In 
+: 154 1 8 re
+: 156 5 7 turn 
+- 166
+: 168 6 2 They 
+: 175 4 7 gave 
+: 180 3 7 us 
+: 184 4 4 the 
+: 189 7 -4 plans 
+: 200 3 0 for 
+: 204 5 1 our 
+: 211 9 7 first 
+- 220
+: 221 3 4 Hy
+: 225 3 -2 per
+: 229 14 -2 drive 
+- 248
+: 250 2 0 Al
+: 253 6 3 low
+: 260 6 1 ing 
+: 267 5 -2 man
+: 273 13 1 kind 
+- 286
+: 287 3 -1 To 
+: 292 8 1 open 
+: 301 3 0 the 
+: 305 9 -3 doors 
+: 320 1 1 to 
+: 322 5 -4 the 
+: 328 24 0 stars 
+- 376
+: 427 4 2 We 
+: 433 2 -1 have 
+: 436 4 4 as
+: 441 7 -2 sembled 
+: 450 2 -2 a 
+: 453 7 -4 team 
+- 460
+: 461 3 -3 Of 
+: 465 9 -1 unique 
+: 475 3 6 in
+: 479 2 5 di
+: 482 4 -3 vidu
+: 487 7 -1 als 
+- 494
+: 495 2 4 To 
+: 499 3 4 pro
+: 503 4 4 tect 
+: 511 4 4 Earth 
+: 516 3 -1 and 
+: 520 3 0 our 
+: 526 3 0 al
+: 530 10 -3 lies 
+- 544
+: 546 4 5 Cour
+: 551 10 9 ageous 
+: 562 5 8 pi
+: 568 3 7 on
+: 572 9 -1 eers 
+- 581
+: 582 1 4 Com
+: 584 1 5 mit
+: 586 2 7 ted 
+: 590 2 4 to 
+: 593 2 6 the 
+: 597 10 10 highest 
+: 609 13 10 ideals 
+: 623 2 8 of 
+: 626 17 9 justice 
+- 643
+: 645 3 3 And 
+: 652 2 9 ded
+: 655 2 1 ic
+: 658 7 2 ated 
+: 666 2 2 to 
+: 670 4 4 pre
+: 675 8 5 serving 
+- 683
+: 685 4 8 Law 
+: 690 4 9 and 
+: 696 2 7 or
+: 699 7 0 der 
+- 706
+: 708 3 8 Across 
+: 716 2 3 the 
+: 721 3 8 new 
+: 726 4 8 fron
+: 731 8 8 tier 
+- 749
+: 760 11 8 These 
+: 773 2 6 are 
+: 776 6 3 the 
+: 784 3 11 ad
+: 788 4 7 ven
+: 793 7 12 tures 
+- 800
+: 801 2 7 Of 
+: 804 2 8 the 
+: 809 14 14 Galaxy 
+: 826 25 14 Rangers! 
+- 861
+: 881 18 12 Into 
+: 901 9 17 this 
+: 911 9 17 world 
+: 922 6 17 of 
+- 929
+: 931 6 12 Un
+: 938 6 12 known 
+: 947 7 12 dan
+: 955 9 17 ger 
+- 964
+: 966 7 16 They! 
+: 974 34 16 ride! 
+- 1018
+: 1042 3 18 They
+: 1047 1 16 ’re 
+: 1051 6 18 the 
+: 1058 4 17 Ga
+: 1063 5 17 la
+: 1070 1 17 xy 
+: 1073 6 17 Rang
+: 1083 7 14 ers 
+- 1090
+: 1092 9 17 Her
+: 1102 3 17 oes 
+: 1108 2 19 in 
+: 1113 4 17 the 
+: 1120 10 21 sky 
+- 1135
+: 1137 7 16 No 
+: 1146 14 12 Guts 
+: 1165 3 13 No 
+: 1169 20 13 Glory 
+- 1199
+: 1208 3 14 We 
+: 1215 3 15 ’re 
+: 1219 4 17 tak
+: 1224 5 16 ing 
+: 1230 4 21 a 
+: 1240 11 17 sta
+: 1252 44 17 ~and 
+- 1306
+: 1310 14 17 Rea
+: 1325 9 17 ady 
+: 1336 6 17 to 
+: 1345 14 19 prove 
+: 1360 13 17 it 
+: 1374 43 14 again 
+E

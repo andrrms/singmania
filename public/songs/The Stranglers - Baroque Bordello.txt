@@ -1,0 +1,190 @@
+#ARTIST:The Stranglers
+#TITLE:Baroque Bordello
+#MP3:The Stranglers - Baroque Bordello.mp3
+#CREATOR:choosie
+#YEAR:1979
+#LANGUAGE:English
+#BPM:269.92
+#GAP:93290
+#VIDEO:a=H_YH-pc8DJs,co=the-raven-556d16465b5e3.jpg,bg=stranglers-the-511ed15eafc20.jpg
+: 0 2 9 See 
+: 4 2 7 a 
+* 8 2 9 pic
+* 12 2 7 tu
+* 16 3 12 resque 
+: 24 2 7 de
+: 28 4 4 cay 
+: 36 8 7 there 
+- 46
+: 56 2 9 Some
+: 60 2 7 thing 
+: 64 4 9 for 
+: 72 4 12 time 
+: 80 2 7 to 
+: 85 10 4 tell 
+- 97
+: 112 2 9 See 
+: 116 2 7 the 
+: 120 2 9 wo
+: 124 2 7 man 
+: 128 3 12 of 
+: 136 2 7 your 
+: 140 4 4 dreams 
+: 148 10 7 there 
+- 160
+: 168 2 9 In 
+: 172 2 7 a 
+: 176 4 9 ba
+: 184 4 12 roque 
+: 192 2 7 bor
+: 196 3 4 del
+: 203 8 0 lo 
+- 213
+: 224 2 9 Swing 
+: 228 2 7 doors 
+: 232 2 9 and 
+: 236 2 7 a 
+: 240 4 12 blind 
+* 248 2 7 Ve
+* 252 4 4 ne
+* 260 10 7 tian 
+- 272
+: 280 2 9 Keep 
+: 284 2 7 her 
+: 288 2 9 in 
+: 292 2 7 a 
+: 296 2 12 wall
+: 301 4 7 nut 
+: 308 10 4 shell 
+- 320
+: 336 2 9 Has 
+: 340 2 7 to 
+: 344 2 9 rub 
+: 348 2 7 your 
+: 352 4 12 eyes 
+: 360 2 7 to 
+: 364 4 4 bath 
+: 372 10 7 you 
+- 384
+: 392 2 9 In 
+: 396 2 7 a 
+: 400 4 9 ba
+: 408 4 12 roque 
+: 416 2 7 bor
+: 421 3 4 del
+: 427 8 0 lo 
+- 437
+: 704 2 9 All 
+: 708 2 7 the 
+: 712 2 9 words 
+: 716 2 7 are 
+: 720 2 12 writ
+: 724 4 7 ten 
+: 732 4 4 for 
+: 740 8 7 you 
+- 750
+: 760 2 9 Finds 
+: 764 2 7 you 
+: 768 2 9 hea
+: 772 2 9 ven, 
+* 776 4 12 finds 
+* 784 2 7 you 
+* 789 8 4 hell 
+- 799
+: 816 2 9 Finds 
+: 820 2 7 your 
+: 824 2 9 love 
+: 828 2 7 but 
+: 832 4 12 keeps 
+: 840 2 7 it 
+: 844 4 4 hid
+: 852 10 7 den 
+- 864
+: 872 2 9 In 
+: 876 2 7 a 
+: 880 4 9 ba
+: 888 4 12 roque 
+: 896 2 7 bor
+: 900 3 4 del
+: 907 8 0 lo 
+- 917
+: 928 2 9 Se
+: 932 2 7 ven 
+: 936 2 9 days 
+: 940 2 7 and 
+: 945 4 12 se
+: 952 2 7 ven 
+: 957 4 4 nights 
+: 965 8 7 spent 
+- 975
+: 984 2 9 Sleep
+: 988 2 7 ing 
+: 992 2 9 in 
+: 996 2 7 her 
+: 1000 2 12 wish
+: 1004 4 7 ing 
+: 1012 10 4 well 
+- 1024
+: 1040 2 9 Climb 
+: 1044 2 7 her 
+: 1048 2 9 rope 
+: 1052 2 7 and 
+: 1056 4 12 find 
+: 1064 2 7 her 
+: 1069 4 4 trai
+: 1077 9 7 ler 
+- 1088
+: 1096 2 9 In 
+: 1100 2 7 a 
+: 1104 4 9 ba
+: 1112 4 12 roque 
+* 1120 2 7 bor
+* 1124 3 4 del
+* 1131 10 0 lo 
+- 1143
+: 1408 2 9 In 
+: 1412 2 7 a 
+: 1416 4 9 ba
+: 1424 4 16 roque 
+: 1432 2 12 bor
+: 1437 3 9 del
+: 1443 10 4 lo 
+- 1455
+: 1600 2 9 In 
+: 1604 2 7 a 
+* 1608 4 9 ba
+* 1616 4 16 roque 
+: 1624 2 12 bor
+: 1629 3 9 del
+: 1635 10 4 lo 
+- 1647
+: 2032 4 9 Ba
+: 2040 12 16 roque 
+: 2056 12 12 bor
+: 2072 11 9 del
+: 2087 3 4 lo 
+- 2092
+: 2095 4 9 Ba
+: 2103 12 16 roque 
+* 2119 12 12 bor
+* 2135 12 9 del
+* 2151 3 4 lo 
+- 2156
+: 2159 4 9 Ba
+: 2167 12 16 roque 
+: 2183 12 12 bor
+: 2199 12 9 del
+: 2215 3 4 lo 
+- 2220
+: 2223 4 9 Ba
+: 2231 12 16 roque 
+: 2247 12 12 bor
+: 2263 12 9 del
+: 2279 3 4 lo 
+- 2284
+* 2287 4 9 Ba
+* 2295 12 16 roque 
+: 2311 12 12 bor
+: 2327 12 9 del
+: 2343 24 4 lo. 
+E

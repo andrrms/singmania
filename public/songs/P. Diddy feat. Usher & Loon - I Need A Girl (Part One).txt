@@ -1,0 +1,591 @@
+#ARTIST:P. Diddy feat. Usher & Loon
+#TITLE:I Need A Girl (Part One)
+#MP3:P. Diddy feat. Usher & Loon - I Need A Girl (Part One).mp3
+#CREATOR:Schnuppy
+#YEAR:2001
+#LANGUAGE:English
+#BPM:300
+#GAP:2510
+#VIDEO:a=Wk-BITyU2Vw,co=https://i.discogs.com/AQE8pX2VQqAq-nXfQm_AYfGIw3ZvH6I4JLH1egaXdrk/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc0/NzctMTMzNzI5OTYx/MC04OTUwLmpwZWc.jpeg,bg=p-diddy-5400cf0162544.jpg
+F 0 64 10 Yeah, come on 
+- 66
+F 116 14 10 I need a, 
+- 132
+F 144 12 11 I want a 
+- 158
+: 170 2 27 I 
+: 174 2 26 need 
+: 178 2 27 a 
+: 182 3 26 girl 
+: 186 2 26 to 
+: 192 8 24 ride, 
+: 202 8 20 ride, 
+: 212 8 22 ride 
+- 222
+: 224 2 25 I 
+: 228 2 25 need 
+: 232 2 26 a 
+: 236 4 25 girl 
+: 242 2 22 to 
+: 246 8 24 make 
+: 256 8 22 my 
+: 266 8 23 wife 
+- 276
+: 278 2 23 I 
+: 282 2 24 need 
+: 286 2 25 a 
+: 290 4 21 girl 
+: 296 2 17 who’s 
+: 300 8 23 mine 
+: 312 7 24 oh 
+: 320 8 21 mine 
+- 330
+: 332 2 23 I 
+: 336 2 25 need 
+: 340 2 25 a 
+: 344 4 22 girl 
+: 354 8 29 in 
+: 366 6 27 my 
+: 374 1 26 life 
+- 376
+F 376 19 21 Yo, I’m internationally 
+- 396
+F 396 29 15 Known on the microphone 
+- 426
+F 426 15 14 I got it all, 
+- 442
+F 442 36 10 But I really need a wife at home 
+- 480
+F 484 28 14 I don’t really like the zone, 
+- 513
+F 514 32 14 Never spend the night alone 
+- 547
+F 548 15 9 I got a few, 
+- 564
+F 564 23 14 You would like to bone 
+- 588
+F 588 32 15 But, chicks don’t romance me, 
+- 621
+F 622 23 15 Don’t tickle my fancy 
+- 646
+F 646 28 16 Only Tiffany, Nancy; 
+- 675
+F 676 23 14 That’s not what my plans be 
+- 700
+F 700 31 14 I need a girl that could stand me, 
+- 732
+F 732 24 14 Raise me a family 
+- 757
+F 758 24 20 Go to trips at the Lancy, 
+- 783
+F 784 28 10 Trip to the Grammy’s cause 
+- 814
+F 816 37 9 Most of these girls be confusin me 
+- 854
+F 854 32 14 I don’t know if they really love me 
+- 887
+F 888 20 15 Or they usin me 
+- 909
+F 910 19 11 Here’s the money, 
+- 930
+F 930 32 16 Or maybe you ain’t used to me 
+- 963
+F 964 15 16 Cause you was depressed 
+- 980
+F 980 39 14 And now you abusin me 
+- 1020
+F 1020 26 20 That’s why I need a girl 
+- 1047
+F 1048 24 14 That be true to me 
+- 1073
+F 1074 16 14 Know bout the game, 
+- 1091
+F 1092 30 9 And know how to do to me 
+- 1123
+F 1124 29 14 Without a girl on my side, 
+- 1154
+F 1154 21 20 Shit I ruin me 
+- 1176
+F 1176 19 14 Forget the word, 
+- 1196
+F 1196 21 9 It’s just you and me 
+- 1218
+: 1218 3 26 Now 
+: 1222 4 28 let’s 
+: 1228 8 26 ride 
+- 1238
+: 1244 2 27 I 
+: 1248 2 26 need 
+: 1252 2 27 a 
+: 1256 4 26 girl 
+: 1262 2 26 to 
+: 1268 8 24 ride, 
+: 1278 8 20 ride, 
+: 1290 8 22 ride 
+- 1299
+: 1300 2 25 I 
+: 1304 2 25 need 
+: 1308 1 26 a 
+: 1310 4 25 girl 
+: 1320 1 22 to 
+: 1322 8 24 make 
+: 1332 8 22 my 
+: 1342 8 23 wife 
+- 1352
+: 1354 2 23 I 
+: 1358 2 24 need 
+: 1362 1 25 a 
+: 1364 4 21 girl 
+: 1370 2 17 who’s 
+: 1376 8 23 mine 
+: 1386 6 24 oh 
+: 1396 8 21 mine 
+- 1405
+: 1406 2 23 I 
+: 1410 2 25 need 
+: 1414 2 25 a 
+: 1418 4 22 girl 
+: 1430 8 29 in 
+: 1440 6 27 my 
+: 1448 8 26 life 
+- 1458
+: 1460 2 27 I 
+: 1464 2 26 need 
+: 1468 2 27 a 
+: 1472 3 26 girl 
+: 1476 2 26 to 
+: 1482 8 24 ride, 
+: 1492 8 26 ride, 
+: 1502 8 28 ride 
+- 1512
+: 1514 2 25 I 
+: 1518 2 25 need 
+: 1522 2 26 a 
+: 1526 4 25 girl 
+: 1532 2 22 to 
+: 1536 8 24 be 
+: 1546 8 22 my 
+: 1558 8 23 wife 
+- 1567
+: 1568 2 23 No
+: 1572 2 25 bo
+: 1576 2 25 dy 
+: 1580 3 24 else 
+: 1584 7 22 cuz 
+: 1592 8 25 she’s 
+: 1602 7 25 all 
+: 1610 8 23 mine 
+- 1620
+: 1622 2 23 I 
+: 1626 2 25 need 
+: 1630 2 25 a 
+: 1634 4 22 girl 
+: 1644 8 27 in 
+: 1656 6 29 my 
+: 1664 7 30 life 
+- 1672
+F 1672 21 18 Yo, now I have had a lot of women 
+- 1694
+F 1694 19 14 In my lifetime 
+- 1714
+F 1714 31 9 But see it’s not a lot of women 
+- 1746
+F 1746 25 14 That got the right mind 
+- 1772
+F 1772 27 20 I done had pretty chicks 
+- 1800
+F 1800 29 9 With all the right features 
+- 1830
+F 1830 21 14 And hoodrat chicks 
+- 1852
+F 1852 31 14 That only rock sneakers 
+- 1884
+F 1884 27 15 Cellphones and beepers, 
+- 1912
+F 1912 26 20 And know how to treat ya 
+- 1940
+F 1942 19 15 You break her heart, 
+- 1962
+F 1962 32 15 She’ll walk out and leave ya 
+- 1996
+F 1998 35 10 I find a girl, I’ma keep her 
+- 2034
+F 2034 21 12 Cuz now I’m gettin money 
+- 2056
+F 2056 34 12 And the game gettin deeper 
+- 2091
+F 2092 27 10 I want some real shit, 
+- 2120
+F 2120 39 14 I need somebody I can chill with 
+- 2160
+F 2160 39 10 I need somebody I can build with 
+- 2200
+F 2200 38 14 I need somebody I can hold tight 
+- 2239
+F 2240 35 10 With the time and no full limits, 
+- 2276
+F 2276 16 16 No right 
+- 2294
+F 2298 21 16 Anytime we together 
+- 2320
+F 2320 28 14 Would feel so right 
+- 2350
+F 2352 25 15 You the girl I been lookin 
+- 2378
+F 2378 27 9 For my whole life 
+- 2406
+F 2406 15 20 God bless me, 
+- 2422
+F 2422 30 12 I’m glad I got the insight 
+- 2454
+F 2456 21 20 It’s cuz of you girl, 
+- 2478
+F 2478 30 10 Now I understand life 
+- 2510
+: 2516 2 28 I 
+: 2520 2 26 need 
+: 2524 1 28 a 
+: 2526 4 26 girl 
+- 2532
+: 2536 2 27 I 
+: 2540 2 26 need 
+: 2544 2 27 a 
+: 2548 3 26 girl 
+: 2552 2 26 to 
+: 2558 8 25 ride, 
+: 2570 8 20 ride, 
+: 2580 8 22 ride 
+- 2589
+: 2590 2 25 I 
+: 2594 2 25 need 
+: 2598 2 26 a 
+: 2602 4 25 girl 
+: 2610 2 22 to 
+: 2614 8 24 make 
+: 2624 7 22 my 
+: 2632 8 23 wife 
+- 2642
+: 2644 2 23 I 
+: 2648 2 24 need 
+: 2652 2 25 a 
+: 2656 4 21 girl 
+: 2662 2 17 who’s 
+: 2666 8 23 mine 
+: 2678 6 24 oh 
+: 2686 8 21 mine 
+- 2696
+: 2698 2 23 I 
+: 2702 2 25 need 
+: 2706 2 25 a 
+: 2710 4 22 girl 
+: 2720 8 29 in 
+: 2732 6 27 my 
+: 2740 8 26 life 
+- 2749
+: 2750 2 27 I 
+: 2754 2 26 need 
+: 2758 2 27 a 
+: 2762 4 26 girl 
+: 2768 2 26 to 
+: 2774 8 24 ride, 
+: 2784 8 20 ride, 
+: 2794 8 22 ride 
+- 2804
+: 2806 2 25 I 
+: 2810 2 25 need 
+: 2814 2 26 a 
+: 2818 4 25 girl 
+: 2824 2 22 to 
+: 2828 8 24 be 
+: 2838 8 22 my 
+: 2848 8 23 wife 
+- 2857
+: 2858 2 25 No
+: 2862 2 25 bo
+: 2866 2 26 dy 
+: 2870 4 25 else 
+: 2876 7 22 cuz 
+: 2884 7 24 she’s 
+: 2892 8 22 all 
+: 2902 8 23 mine 
+- 2911
+: 2912 2 24 I 
+: 2916 2 25 need 
+: 2920 2 25 a 
+: 2924 4 22 girl 
+: 2936 8 27 in 
+: 2946 6 29 my 
+: 2956 3 30 life 
+- 2960
+F 2960 5 20 I had a girl 
+- 2966
+F 2966 24 18 That would’ve died for me 
+- 2992
+F 2994 19 13 Didnt ’preciate her 
+- 3014
+F 3014 32 15 So I made her cry for me 
+- 3048
+F 3050 9 9 Every night 
+- 3060
+F 3060 38 16 She had tears in her eyes for me 
+- 3099
+F 3100 15 14 Quarter K’s, 
+- 3116
+F 3116 36 12 Shorty took the whole ride for me 
+- 3154
+F 3162 19 10 First we were friends 
+- 3182
+F 3182 24 12 Then became lovers 
+- 3207
+F 3208 29 20 You was more than my girl, 
+- 3238
+F 3238 24 14 We was like brothers 
+- 3263
+F 3264 23 14 All night we would play 
+- 3288
+F 3288 26 12 Fight under covers 
+- 3316
+F 3318 11 10 Now you gone, 
+- 3330
+F 3330 36 20 Can’t love you like I really wanna 
+- 3368
+F 3374 20 10 But everytime I think 
+- 3395
+F 3396 24 9 About your pretty smile 
+- 3422
+F 3430 19 12 And how we used to drive 
+- 3450
+F 3450 24 17 The whole city wild 
+- 3476
+F 3490 40 20 Damn I wish you would’ve had my child 
+- 3532
+F 3538 23 9 A pretty little girl 
+- 3562
+F 3562 19 12 With Diddy’s style 
+- 3582
+F 3582 15 20 This shit is wild 
+- 3598
+F 3598 40 15 All dem days that I reminisce 
+- 3640
+F 3644 13 13 About the way 
+- 3658
+F 3658 32 18 I use to kiss dem pretty lips 
+- 3692
+F 3694 27 14 But as long as you happy, 
+- 3722
+F 3722 19 13 I’ma tell you this 
+- 3742
+F 3742 15 19 I love you girl 
+- 3758
+F 3758 36 12 And you’re the one that I will always miss 
+- 3796
+: 3826 2 27 I 
+: 3830 2 26 need 
+: 3834 2 27 a 
+: 3838 3 26 girl 
+: 3842 2 26 to 
+: 3848 8 24 ride, 
+: 3860 8 20 ride, 
+: 3870 8 22 ride 
+- 3879
+: 3880 2 25 I 
+: 3884 2 25 need 
+: 3888 2 26 a 
+: 3892 4 26 girl 
+: 3900 2 22 to 
+: 3904 8 24 make 
+: 3914 7 22 my 
+: 3922 8 23 wife 
+- 3932
+: 3934 2 23 I 
+: 3938 2 24 need 
+: 3942 2 25 a 
+: 3946 4 21 girl 
+: 3952 2 17 who’s 
+: 3956 8 23 mine 
+: 3968 6 24 oh 
+: 3976 8 21 mine 
+- 3986
+: 3988 2 23 I 
+: 3992 2 25 need 
+: 3996 2 25 a 
+: 4000 4 22 girl 
+: 4010 8 29 in 
+: 4022 6 27 my 
+: 4030 8 26 life 
+- 4039
+: 4040 2 27 I 
+: 4044 2 26 need 
+: 4048 2 27 a 
+: 4052 4 26 girl 
+: 4058 2 26 to 
+: 4064 8 24 ride, 
+: 4074 8 26 ride, 
+: 4084 8 28 ride 
+- 4094
+: 4096 2 25 I 
+: 4100 2 25 need 
+: 4104 2 26 a 
+: 4108 4 25 girl 
+: 4114 2 22 to 
+: 4118 8 24 be 
+: 4128 8 22 my 
+: 4138 8 23 wife 
+- 4147
+: 4148 2 23 No
+: 4152 2 25 bo
+: 4156 2 25 dy 
+: 4160 4 24 else 
+: 4166 7 22 cuz 
+: 4174 7 25 she’s 
+: 4182 8 25 all 
+: 4192 8 23 mine 
+- 4201
+: 4202 2 23 I 
+: 4206 2 25 need 
+: 4210 2 25 a 
+: 4214 4 22 girl 
+: 4226 8 29 in 
+: 4236 6 27 my 
+: 4246 8 28 life 
+- 4255
+: 4256 2 27 I 
+: 4260 2 26 need 
+: 4264 2 27 a 
+: 4268 3 26 girl 
+: 4272 2 26 to 
+: 4278 8 24 ride, 
+: 4290 8 20 ride, 
+: 4300 8 22 ride 
+- 4309
+: 4310 2 25 I 
+: 4314 2 25 need 
+: 4318 2 26 a 
+: 4322 4 25 girl 
+: 4330 2 22 to 
+: 4334 8 24 make 
+: 4344 7 22 my 
+: 4352 8 23 wife 
+- 4362
+: 4364 2 23 I 
+: 4368 2 24 need 
+: 4372 2 25 a 
+: 4376 4 21 girl 
+: 4382 2 17 who’s 
+: 4386 8 23 mine 
+: 4398 6 24 oh 
+: 4406 8 21 mine 
+- 4416
+: 4418 2 23 I 
+: 4422 2 25 need 
+: 4426 2 25 a 
+: 4430 4 22 girl 
+: 4440 8 29 in 
+: 4452 6 27 my 
+: 4460 8 26 life 
+- 4469
+: 4470 2 27 I 
+: 4474 2 26 need 
+: 4478 2 27 a 
+: 4482 4 26 girl 
+: 4488 2 26 to 
+: 4494 8 24 ride, 
+: 4504 8 26 ride, 
+: 4514 8 28 ride 
+- 4524
+: 4526 2 25 I 
+: 4530 2 25 need 
+: 4534 2 26 a 
+: 4538 4 25 girl 
+: 4544 2 22 to 
+: 4548 8 24 be 
+: 4558 8 22 my 
+: 4568 8 23 wife 
+- 4577
+: 4578 2 23 No
+: 4582 2 25 bo
+: 4586 2 25 dy 
+: 4590 3 24 else 
+: 4594 7 22 cuz 
+: 4602 8 25 she’s 
+: 4612 7 25 all 
+: 4620 8 23 mine 
+- 4630
+: 4632 2 23 I 
+: 4636 2 25 need 
+: 4640 2 25 a 
+: 4644 4 22 girl 
+: 4654 8 29 in 
+: 4666 6 27 my 
+: 4674 8 28 life 
+- 4683
+: 4684 2 27 I 
+: 4688 2 26 need 
+: 4692 2 27 a 
+: 4696 4 26 girl 
+: 4702 2 26 to 
+: 4708 8 24 ride, 
+: 4718 8 20 ride, 
+: 4730 8 22 ride 
+- 4739
+: 4740 2 25 I 
+: 4744 2 25 need 
+: 4748 1 26 a 
+: 4750 4 25 girl 
+: 4760 1 22 to 
+: 4762 8 24 make 
+: 4772 8 22 my 
+: 4782 8 23 wife 
+- 4792
+: 4794 2 23 I 
+: 4798 2 24 need 
+: 4802 1 25 a 
+: 4804 4 21 girl 
+: 4810 2 17 who’s 
+: 4816 8 23 mine 
+: 4826 6 24 oh 
+: 4836 8 21 mine 
+- 4845
+: 4846 2 23 I 
+: 4850 2 25 need 
+: 4854 2 25 a 
+: 4858 4 22 girl 
+: 4870 8 29 in 
+: 4880 6 27 my 
+: 4888 8 26 life 
+- 4898
+: 4900 2 27 I 
+: 4904 2 26 need 
+: 4908 2 27 a 
+: 4912 3 26 girl 
+: 4916 2 26 to 
+: 4922 8 24 ride, 
+: 4932 8 26 ride, 
+: 4942 8 28 ride 
+- 4952
+: 4954 2 25 I 
+: 4958 2 25 need 
+: 4962 2 26 a 
+: 4966 4 25 girl 
+: 4972 2 22 to 
+: 4976 8 24 be 
+: 4986 8 22 my 
+: 4998 8 23 wife 
+- 5007
+: 5008 2 23 No
+: 5012 2 25 bo
+: 5016 2 25 dy 
+: 5020 3 24 else 
+: 5024 7 22 cuz 
+: 5032 8 25 she’s 
+: 5042 7 25 all 
+: 5050 8 23 mine 
+- 5060
+: 5062 2 23 I 
+: 5066 2 25 need 
+: 5070 2 25 a 
+: 5074 4 22 girl 
+: 5084 8 27 in 
+: 5096 6 29 my 
+: 5104 8 30 life 
+E

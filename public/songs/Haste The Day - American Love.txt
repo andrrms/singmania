@@ -1,0 +1,317 @@
+#ARTIST:Haste The Day
+#TITLE:American Love
+#MP3:Haste The Day - American Love.mp3
+#CREATOR:Kintaro84
+#YEAR:2004
+#LANGUAGE:English
+#BPM:239.95
+#GAP:11190
+#VIDEO:v=pKNezpfcIcE,co=burning-bridges-4e24feb1d0f99.jpg,bg=haste-the-day-4e2500179d7a9.jpg
+F 0 2 2 Ex
+F 3 5 2 chan
+F 9 5 2 ging 
+F 15 4 2 beau
+F 20 9 2 ty 
+- 31
+F 45 4 3 For 
+F 50 2 8 the 
+F 53 2 8 a
+F 56 20 7 shes 
+- 78
+F 85 1 8 Gi
+F 87 2 8 ven 
+F 90 6 8 my 
+F 97 3 7 heart 
+F 101 3 8 to 
+F 125 4 2 no
+F 130 4 8 thing 
+F 135 23 7 real 
+- 159
+F 160 2 2 Ex
+F 163 5 2 chan
+F 169 5 2 ging 
+F 175 4 2 beau
+F 180 9 2 ty 
+- 191
+F 206 4 3 For 
+F 211 2 8 the 
+F 214 2 8 a
+F 217 20 7 shes 
+- 239
+F 247 1 8 Gi
+F 249 2 8 ven 
+F 252 5 8 my 
+F 258 5 7 heart 
+F 264 3 8 to 
+F 285 4 2 no
+F 290 4 8 thing 
+F 295 23 7 real 
+- 320
+F 529 3 8 I’ve 
+F 535 2 8 gi
+F 538 3 8 ven 
+F 543 3 8 my 
+F 547 7 4 heart 
+F 555 5 8 a
+F 561 11 5 way 
+- 574
+F 587 6 5 To 
+F 595 4 8 so 
+F 600 2 8 ma
+F 603 6 4 ny 
+F 610 19 3 things 
+F 636 6 7 So 
+F 643 1 8 ma
+F 645 7 8 ny 
+F 653 9 4 times 
+- 664
+F 674 4 8 I’ve 
+F 679 22 5 failed 
+- 703
+F 740 8 7 Help 
+F 749 4 5 me 
+F 754 12 -3 stop 
+F 773 6 -2 this 
+F 780 5 2 end
+F 786 11 2 less 
+F 803 5 5 cy
+F 809 20 3 cle 
+- 831
+F 837 3 7 Re
+F 842 4 0 mind 
+F 848 9 2 me 
+F 865 2 4 of 
+F 868 5 -2 how 
+F 875 5 -2 it 
+F 886 5 2 can 
+F 892 21 2 be 
+- 915
+F 1267 5 5 Take 
+F 1273 4 3 me 
+F 1278 10 4 back 
+F 1302 2 5 I 
+F 1305 2 3 su
+F 1308 4 3 rrender 
+F 1313 3 3 
+F 1317 15 5 all 
+- 1334
+F 1348 4 3 With 
+F 1353 2 5 out 
+F 1357 9 5 you 
+- 1368
+F 1380 6 4 My 
+F 1387 7 4 heart 
+F 1395 5 4 is 
+F 1401 6 2 bro
+F 1408 9 2 ken 
+- 1419
+: 2073 1 7 I 
+: 2076 2 7 ne
+: 2079 1 7 ver 
+: 2082 2 7 should 
+: 2085 2 7 have 
+: 2088 2 7 let 
+: 2092 2 9 you 
+: 2097 6 7 go 
+- 2105
+: 2172 1 7 I 
+: 2176 2 7 ne
+: 2179 1 7 ver 
+: 2182 2 7 should 
+: 2185 2 7 have 
+: 2188 2 7 let 
+: 2192 2 9 you 
+: 2197 6 7 slip 
+- 2205
+: 2210 3 7 Through 
+: 2216 3 9 my 
+: 2223 6 7 arms 
+- 2231
+: 2275 1 7 I 
+: 2278 2 7 ne
+: 2281 1 7 ver 
+: 2284 2 7 should 
+: 2287 2 7 have 
+: 2290 2 7 let 
+: 2293 2 9 you 
+: 2299 6 7 go 
+- 2307
+: 2376 1 7 I 
+: 2380 2 7 ne
+: 2383 2 7 ver 
+: 2386 2 7 should 
+: 2389 2 7 have 
+: 2392 2 7 let 
+: 2396 2 9 you 
+: 2402 6 7 slip 
+- 2410
+: 2415 4 7 Through 
+: 2421 4 9 my 
+: 2428 12 7 arms 
+- 2442
+: 2476 2 7 As 
+: 2480 2 7 the 
+: 2483 3 12 sun 
+: 2491 3 12 sets 
+: 2498 3 11 to
+: 2504 7 7 night 
+- 2513
+: 2582 2 7 I’ll 
+: 2586 2 12 hold 
+: 2593 2 11 you 
+: 2599 2 7 with 
+: 2610 3 7 all 
+: 2621 3 5 that 
+: 2628 1 4 I 
+: 2635 2 5 am 
+: 2638 2 4 ~
+: 2641 5 0 ~ 
+- 2648
+: 2683 2 7 As 
+: 2687 2 7 the 
+: 2690 3 12 sun 
+: 2698 3 12 sets 
+: 2705 3 11 to
+: 2711 8 7 night 
+- 2721
+: 2788 2 7 I’ll 
+: 2792 2 12 hold 
+: 2799 2 11 you 
+: 2811 2 7 with 
+: 2815 3 7 all 
+: 2826 3 5 that 
+: 2834 1 4 I 
+: 2839 3 5 am 
+: 2843 2 4 ~
+: 2846 5 0 ~ 
+- 2853
+: 2887 2 7 As 
+: 2891 2 7 the 
+: 2894 3 12 sun 
+: 2902 3 12 sets 
+: 2909 3 14 to
+: 2915 3 12 ni
+: 2923 4 9 ght 
+- 2929
+: 2994 2 7 I’ll 
+: 2997 2 12 hold 
+: 3004 2 11 you 
+: 3016 2 11 with 
+: 3021 10 12 all 
+: 3051 8 12 that 
+: 3061 6 14 I 
+: 3069 20 12 am 
+- 3091
+: 3099 1 16 I 
+: 3102 2 16 ne
+: 3105 2 16 ver 
+: 3108 2 16 should 
+: 3111 2 14 have 
+: 3115 2 16 let 
+: 3119 2 17 you 
+: 3126 3 16 go 
+- 3131
+: 3155 5 16 Pro
+: 3167 7 14 mise 
+: 3181 6 12 me 
+- 3189
+: 3203 2 11 You’ll 
+: 3207 3 12 stay 
+: 3214 2 11 with 
+: 3219 2 12 me 
+: 3224 3 14 for
+: 3231 3 12 e
+: 3236 3 7 ver 
+- 3241
+: 3253 3 12 For
+: 3257 3 12 e
+* 3263 15 16 ver
+* 3279 3 14 ~
+* 3283 5 12 ~ 
+- 3290
+: 3307 1 16 I 
+: 3311 2 16 ne
+: 3314 2 16 ver 
+: 3317 2 16 should 
+: 3320 2 14 have 
+: 3324 2 16 let 
+: 3329 2 17 you 
+: 3334 5 16 go 
+- 3341
+: 3364 5 16 Pro
+: 3377 7 14 mise 
+: 3391 7 12 me 
+- 3400
+: 3414 2 11 You’ll 
+: 3418 2 12 stay 
+: 3424 2 11 with 
+: 3429 2 12 me 
+: 3433 3 14 for
+: 3440 3 12 e
+: 3447 3 7 ver 
+- 3452
+: 3463 3 12 For
+: 3467 3 12 e
+* 3473 15 16 ver
+* 3489 3 14 ~
+* 3493 5 12 ~ 
+- 3500
+: 3520 1 16 I 
+: 3524 2 16 ne
+: 3527 2 16 ver 
+: 3530 2 16 should 
+: 3533 2 14 have 
+: 3537 2 16 let 
+: 3541 2 17 you 
+: 3548 5 16 go 
+- 3555
+: 3575 5 16 Pro
+: 3588 7 14 mise 
+: 3602 7 12 me 
+- 3611
+: 3625 2 12 You’ll 
+: 3629 1 16 stay 
+: 3631 1 14 ~
+: 3633 1 12 ~
+: 3635 2 11 with 
+: 3640 2 12 me 
+: 3644 3 14 for
+: 3651 3 12 e
+: 3658 3 7 ver 
+- 3663
+: 3672 3 12 For
+: 3676 3 12 e
+* 3682 15 16 ver
+* 3698 3 14 ~
+* 3702 5 12 ~ 
+- 3709
+F 4236 4 52 For
+F 4241 7 52 give 
+F 4249 9 52 me 
+F 4262 6 52 for 
+F 4269 3 52 run
+F 4273 9 52 ning 
+F 4285 6 52 so 
+F 4292 7 52 quick
+F 4300 10 52 ly 
+- 4311
+F 4312 3 52 To 
+F 4317 7 52 the 
+F 4325 5 52 out
+F 4331 13 52 side 
+- 4346
+F 4350 3 52 For
+F 4354 6 52 give 
+F 4361 7 52 me 
+F 4374 5 52 for 
+F 4380 5 52 run
+F 4386 8 52 ning 
+F 4399 5 52 so 
+F 4406 6 52 quick
+F 4413 6 52 ly 
+- 4420
+F 4420 4 52 To 
+F 4426 8 52 the 
+F 4435 4 52 out
+F 4440 9 52 side 
+E

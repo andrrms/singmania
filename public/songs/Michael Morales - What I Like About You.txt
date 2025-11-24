@@ -1,0 +1,274 @@
+#ARTIST:Michael Morales
+#TITLE:What I Like About You
+#MP3:Michael Morales - What I Like About You.mp3
+#CREATOR:Leroidukitch
+#YEAR:1989
+#LANGUAGE:English
+#BPM:312
+#GAP:13460
+#VIDEO:a=ozP6Bc8aoWI,co=https://i.discogs.com/NCBFrhpECckFsrbDrWvhJUmLZTpAaFiebok1VU7UqXM/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzA2/NTEtMTQzMzExNzAx/OC02NDgyLmpwZWc.jpeg
+F 0 14 21 Hey! 
+F 66 8 13 Ah, 
+F 76 10 16 ah 
+- 88
+F 130 16 20 Hey! 
+F 192 8 13 Ah, 
+F 202 14 16 ah - 
+- 218
+: 248 3 16 What 
+: 252 3 16 I 
+: 256 3 16 like 
+: 260 3 16 a
+: 264 7 16 bout 
+: 272 9 20 you: 
+: 316 3 16 you 
+: 320 3 17 hold 
+: 324 7 16 me 
+: 332 9 14 tight 
+- 343
+: 398 3 19 Tell 
+: 402 3 19 me 
+: 406 3 16 I’m 
+: 410 3 14 the 
+: 414 3 19 on
+: 418 3 19 ly 
+: 422 7 16 one 
+- 430
+: 430 3 19 Wan
+: 434 3 19 na 
+: 438 7 19 come 
+: 446 3 19 o
+: 450 3 16 ver 
+: 454 3 14 to
+: 458 7 16 night, 
+: 490 11 16 yeah 
+- 503
+: 532 7 16 Go 
+: 540 3 16 whis
+: 544 3 16 per
+: 548 7 16 ing 
+: 564 7 14 in 
+: 572 7 14 my 
+: 580 7 16 ear, 
+: 594 3 14 tell 
+: 598 3 16 me 
+: 602 3 16 all 
+: 606 3 16 the 
+: 610 7 16 things 
+: 624 3 16 that 
+: 628 7 14 I 
+: 636 3 14 want 
+: 640 3 14 to 
+: 644 7 16 hear 
+- 652
+: 652 3 11 ’Cause 
+: 656 3 13 that’s 
+: 660 5 16 true, 
+: 700 3 16 that’s 
+: 704 3 16 what 
+: 708 3 16 I 
+: 712 3 18 like 
+: 716 3 16 a
+: 720 3 16 bout 
+: 728 7 16 you 
+- 737
+: 768 3 16 What 
+: 772 3 16 I 
+: 776 3 16 like 
+: 780 3 13 a
+: 784 7 16 bout 
+: 792 5 19 you: 
+: 828 3 19 you 
+: 832 3 19 real
+: 836 3 19 ly 
+: 840 3 19 know 
+: 844 3 16 how 
+: 848 3 13 to 
+: 854 7 16 dance 
+- 863
+: 904 3 13 When 
+: 908 3 16 you 
+: 912 7 16 go 
+: 920 7 18 up, 
+: 928 7 16 down, 
+: 936 3 19 jump 
+: 940 3 19 a
+: 944 7 16 round, 
+: 952 3 19 think 
+: 956 3 19 a
+: 960 7 19 bout 
+: 968 3 19 true 
+: 972 7 16 ro
+: 980 9 16 mance, 
+: 1018 7 16 yeah 
+- 1027
+: 1062 7 16 Go 
+: 1070 3 16 whis
+: 1074 3 16 per
+: 1078 7 16 ing 
+: 1086 7 14 in 
+: 1094 7 14 my 
+: 1102 7 16 ear, 
+: 1124 3 13 tell 
+: 1128 3 16 me 
+: 1132 3 16 all 
+: 1136 3 16 the 
+: 1140 7 16 things 
+: 1148 3 16 that 
+: 1152 7 14 I 
+: 1160 3 14 want 
+: 1164 3 14 to 
+: 1168 7 16 hear 
+- 1176
+: 1176 3 11 ’Cause 
+: 1180 3 13 that’s 
+: 1184 7 16 true, 
+: 1224 3 14 that’s 
+: 1228 3 16 what 
+: 1232 3 16 I 
+: 1236 3 19 like 
+: 1240 3 16 a
+: 1244 7 16 bout 
+: 1252 5 16 you, 
+- 1259
+: 1288 3 14 That’s 
+: 1292 3 16 what 
+: 1296 3 16 I 
+: 1300 3 16 like 
+: 1304 3 14 a
+: 1308 7 16 bout 
+: 1316 5 19 you, 
+: 1352 3 16 that’s 
+: 1356 3 14 what 
+: 1360 3 16 I 
+: 1364 3 18 like 
+: 1368 3 16 a
+: 1372 7 16 bout 
+: 1380 7 16 you, 
+- 1389
+: 1438 8 20 Hey! 
+- 1448
+: 2210 3 16 What 
+: 2214 3 16 I 
+: 2218 3 16 like 
+: 2222 3 13 a
+: 2226 7 16 bout 
+: 2234 9 20 you: 
+: 2270 3 19 you 
+: 2274 3 19 keep 
+: 2278 3 19 me 
+: 2282 3 19 warm 
+: 2286 7 16 at 
+: 2294 9 16 night 
+- 2305
+: 2364 3 19 Nev
+: 2368 3 19 er 
+: 2372 3 16 want 
+: 2376 3 13 to 
+: 2380 3 19 let 
+: 2384 3 19 you 
+: 2388 7 16 go, 
+: 2400 3 19 know 
+: 2404 3 19 you 
+: 2408 3 19 make 
+: 2412 3 16 me 
+: 2416 3 19 feel 
+: 2420 7 16 all 
+: 2428 7 14 right, 
+: 2460 9 16 yeah 
+- 2471
+: 2494 7 16 Go 
+: 2502 3 16 whis
+: 2506 3 16 per
+: 2510 7 16 ing 
+: 2530 7 14 in 
+: 2538 7 14 my 
+: 2546 5 16 ear, 
+: 2556 3 16 a-
+: 2560 3 19 tell 
+: 2564 3 19 me 
+: 2568 3 19 all 
+: 2572 3 16 the 
+: 2576 7 19 things 
+: 2592 3 16 that 
+: 2596 7 19 I 
+: 2604 3 19 want 
+: 2608 3 16 to 
+: 2612 5 19 hear 
+- 2618
+: 2618 3 16 ’Cause 
+: 2622 7 16 that’s 
+: 2630 7 16 true, 
+: 2666 3 16 that’s 
+: 2670 3 16 what 
+: 2674 3 16 I 
+: 2678 3 18 like 
+: 2682 3 16 a
+: 2686 7 16 bout 
+: 2694 5 16 you, 
+- 2701
+: 2728 3 16 That’s 
+: 2732 3 16 what 
+: 2736 3 16 I 
+: 2740 3 16 like 
+: 2744 3 13 a
+: 2748 7 16 bout 
+: 2756 11 19 you, 
+- 2769
+: 2792 3 16 That’s 
+: 2796 3 16 what 
+: 2800 3 16 I 
+: 2804 3 18 like 
+: 2808 3 16 a
+: 2812 7 16 bout 
+: 2820 9 16 you, 
+- 2831
+F 2856 3 16 That’s 
+F 2860 3 16 what 
+F 2864 3 16 I 
+F 2868 3 16 like 
+F 2872 3 16 a
+F 2876 7 16 bout 
+F 2884 7 16 you, 
+- 2893
+F 2918 3 16 That’s 
+F 2922 3 16 what 
+F 2926 3 16 I 
+F 2930 3 16 like 
+F 2934 3 16 a
+F 2938 7 16 bout 
+F 2946 9 16 you, 
+- 2957
+F 2988 3 16 That’s 
+F 2992 3 16 what 
+F 2996 3 16 I 
+F 3000 3 16 like 
+F 3004 3 16 a
+F 3008 7 16 bout 
+F 3016 7 16 you, 
+- 3025
+F 3060 3 16 That’s 
+F 3064 3 16 what 
+F 3068 3 16 I 
+F 3072 3 16 like 
+F 3076 3 16 a
+F 3080 7 16 bout 
+F 3088 9 16 you 
+- 3099
+F 3144 18 20 Hey! 
+F 3202 7 11 Ah, 
+F 3210 11 16 ah 
+F 3222 15 16 Hey, 
+F 3238 15 16 hey, 
+F 3254 15 16 hey! 
+- 3270
+F 3270 20 16 Hey! 
+F 3330 7 11 Ah, 
+F 3338 12 16 ah, 
+F 3372 28 18 haouw 
+- 3402
+F 3404 12 16 Hey! 
+F 3465 8 11 Ah, 
+F 3474 8 16 ah, 
+F 3538 12 16 hey! 
+E

@@ -1,0 +1,888 @@
+#ARTIST:Crazy Town
+#TITLE:Butterfly
+#MP3:Crazy Town - Butterfly.mp3
+#CREATOR:DoubleDee73
+#COVER:Crazy Town - Butterfly [CO].jpg
+#BACKGROUND:Crazy Town - Butterfly [BG].jpg
+#YEAR:1999
+#LANGUAGE:English
+#BPM:414
+#GAP:9600
+#VIDEO:v=6FEDrU85FLE,co=butterfly-596a7ae12f479.jpg
+R 0 5 4 Come 
+R 6 3 4 my 
+R 10 4 4 la
+R 15 3 4 dy, 
+R 24 7 4 come, 
+R 32 4 4 come 
+R 38 2 4 my 
+R 42 4 4 la
+R 47 4 4 dy 
+- 53
+R 60 3 4 You’re 
+R 64 2 4 my 
+R 68 2 4 but
+R 72 2 4 ter
+R 76 6 4 fly 
+R 90 3 4 Sug
+R 94 3 4 ar, 
+R 106 2 4 ba
+R 110 3 4 by 
+- 115
+R 128 3 4 Come 
+R 136 3 4 my 
+R 140 3 4 la
+R 144 2 4 dy, 
+R 152 3 4 come, 
+R 160 3 4 come 
+R 168 2 4 my 
+R 172 3 4 la
+R 176 4 4 dy 
+- 182
+R 188 3 4 You’re 
+R 192 3 4 my 
+R 196 3 4 but
+R 200 2 4 ter
+R 203 6 4 fly 
+R 218 2 4 Sug
+R 222 3 4 ar, 
+R 234 2 4 ba
+R 238 3 4 by 
+- 243
+R 244 3 9 Such 
+R 248 2 9 a 
+R 252 3 9 sex
+R 260 3 4 y, 
+R 268 3 9 sex
+R 276 4 4 y 
+R 284 2 12 pret
+R 288 2 12 ty 
+R 292 2 12 lit
+R 296 2 9 tle 
+R 300 6 9 thing 
+- 308
+R 312 3 9 Fierce 
+R 316 2 9 nip
+R 320 2 9 ple 
+R 324 2 9 pierce 
+R 328 2 9 you 
+R 332 2 9 got 
+R 336 2 7 me 
+R 340 5 9 sprung 
+- 347
+R 348 2 7 With 
+R 352 3 7 your 
+R 356 3 11 tongue 
+R 364 6 4 ring 
+- 372
+R 376 2 7 And 
+R 380 3 9 I 
+R 384 3 7 ain’t 
+R 388 3 7 gon
+R 392 3 7 na 
+R 396 5 7 lie 
+- 403
+R 404 3 7 ’Cause 
+R 408 2 7 your 
+R 412 2 7 lo
+R 416 2 7 ving 
+R 420 3 7 gets 
+R 424 3 7 me 
+R 428 5 9 high 
+- 435
+R 436 3 4 So 
+R 440 3 4 to 
+R 444 3 4 keep 
+R 448 3 4 you 
+R 452 3 4 by 
+R 456 2 4 my 
+R 460 4 4 side 
+- 466
+R 472 3 4 There’s 
+R 476 3 4 no
+R 480 2 4 thing 
+R 484 3 4 that 
+R 488 3 4 I 
+R 492 3 4 won’t 
+R 500 5 4 try 
+- 507
+R 514 3 4 But
+R 518 3 4 ter
+R 522 3 4 flies 
+R 531 2 4 in 
+R 535 3 4 her 
+R 539 3 4 eyes 
+R 547 3 4 and 
+R 551 3 4 the 
+R 555 3 4 looks 
+R 563 3 4 to 
+R 567 7 4 kill 
+- 576
+R 579 3 4 Time 
+R 583 2 4 is 
+R 587 7 4 pas
+R 595 2 4 sing 
+R 598 3 4 I’m 
+R 602 7 4 as
+R 610 2 4 king 
+R 614 4 4 could 
+R 619 3 4 this 
+R 625 4 4 be 
+R 630 4 4 real 
+- 636
+R 640 3 4 ’Cause 
+R 644 2 4 I 
+R 648 5 4 can’t 
+R 658 5 4 sleep 
+R 664 3 4 I 
+R 668 3 4 can’t 
+R 673 5 4 hold 
+R 680 6 4 still 
+- 687
+R 688 2 4 The 
+R 692 3 4 on
+R 696 3 4 ly 
+R 700 3 4 thing 
+R 704 3 4 I 
+R 708 2 4 real
+R 712 3 4 ly 
+R 716 3 4 know 
+R 720 2 4 is 
+R 724 2 4 she 
+R 728 2 4 got 
+R 732 6 4 sex 
+R 740 3 4 ap
+R 744 6 4 peal 
+- 751
+R 752 5 4 I 
+R 759 4 4 can 
+R 766 8 4 feel 
+R 783 3 4 too 
+R 787 3 4 much 
+R 791 3 4 is 
+R 795 3 4 ne
+R 799 3 4 ver 
+R 803 3 4 e
+R 807 4 4 nough 
+- 813
+R 816 3 4 You’re 
+R 820 3 4 al
+R 824 2 4 ways 
+R 828 2 4 there 
+R 832 2 4 to 
+R 836 2 4 lift 
+R 840 2 4 me 
+R 844 2 4 up 
+- 848
+R 852 2 4 When 
+R 856 2 4 these 
+R 860 3 4 times 
+R 868 3 4 get 
+R 876 3 4 rough 
+- 881
+R 884 2 4 I 
+R 888 2 4 was 
+R 892 5 4 lost, 
+- 899
+R 900 3 4 Now 
+R 904 2 4 I’m 
+R 908 3 4 found 
+R 916 2 4 e
+R 920 2 4 ver 
+R 924 2 4 since 
+R 928 2 4 you’ve 
+R 932 3 4 been 
+R 936 2 4 a
+R 940 3 4 round 
+- 945
+R 948 3 4 You’re 
+R 952 2 4 the 
+R 956 2 4 wom
+R 960 2 4 an 
+R 964 2 4 that 
+R 968 2 4 I 
+R 972 2 4 want, 
+- 975
+R 976 3 4 So 
+R 980 3 4 yo, 
+R 984 3 4 I’m 
+R 988 2 4 put
+R 992 3 4 ting 
+R 996 3 4 it 
+R 1000 10 4 down 
+- 1012
+R 1024 4 4 Come 
+R 1031 3 4 my 
+R 1036 3 4 la
+R 1040 3 4 dy, 
+R 1048 5 4 come, 
+R 1055 7 4 come 
+R 1063 3 4 my 
+R 1067 3 4 la
+R 1072 2 4 dy 
+- 1076
+R 1084 2 4 You’re 
+R 1088 2 4 my 
+R 1092 2 4 but
+R 1096 2 4 ter
+R 1100 5 4 fly, 
+R 1114 4 4 sug
+R 1120 4 4 ar, 
+R 1131 3 4 ba
+R 1136 3 4 by 
+- 1141
+R 1152 4 4 Come 
+R 1160 3 4 my 
+R 1164 2 4 la
+R 1168 2 4 dy 
+R 1176 4 4 you’re 
+R 1183 3 4 my 
+R 1187 3 4 pret
+R 1191 4 4 ty 
+R 1196 3 4 ba
+R 1200 2 4 by 
+- 1203
+R 1204 3 4 I’ll 
+R 1208 7 4 make 
+R 1216 3 4 your 
+R 1220 6 4 legs 
+R 1227 6 4 shake 
+- 1235
+R 1236 2 4 You 
+R 1240 7 4 make 
+R 1248 3 4 me 
+R 1252 3 4 go 
+R 1259 3 4 cra
+R 1267 3 4 zy 
+- 1272
+R 1280 4 4 Come 
+R 1288 2 4 my 
+R 1292 3 4 la
+R 1296 3 4 dy, 
+R 1303 6 4 come, 
+R 1311 5 4 come 
+R 1318 3 4 my 
+R 1322 4 4 la
+R 1328 5 4 dy 
+- 1335
+R 1339 3 4 You’re 
+R 1343 3 4 my 
+R 1347 3 4 but
+R 1351 2 4 ter
+R 1355 4 4 fly, 
+R 1370 3 4 sug
+R 1375 3 4 ar, 
+R 1387 3 4 ba
+R 1391 3 4 by 
+- 1396
+R 1408 4 4 Come 
+R 1415 3 4 my 
+R 1419 4 4 la
+R 1425 3 4 dy 
+R 1432 6 4 you’re 
+R 1440 2 4 my 
+R 1444 2 4 pret
+R 1448 2 4 ty 
+R 1452 2 4 ba
+R 1456 3 4 by 
+- 1460
+R 1460 2 4 I’ll 
+R 1464 4 4 make 
+R 1472 2 4 your 
+R 1476 2 4 legs 
+R 1483 5 4 shake 
+R 1490 4 4 you 
+R 1495 5 4 make 
+R 1503 2 4 me 
+R 1507 4 4 go 
+R 1514 5 4 cra
+R 1521 5 4 zy 
+- 1528
+R 1647 3 4 I 
+R 1651 3 4 don’t 
+R 1656 3 4 de
+R 1660 5 4 serve 
+R 1668 3 4 you 
+- 1672
+R 1672 3 4 Un
+R 1676 4 4 less 
+R 1684 2 4 it’s 
+R 1688 3 4 some 
+R 1692 3 4 kind 
+R 1696 3 4 of 
+R 1700 2 4 hid
+R 1704 2 4 den 
+R 1708 2 4 mes
+R 1712 3 4 sage 
+- 1717
+R 1720 2 4 To 
+R 1724 3 4 show 
+R 1728 2 4 me 
+R 1732 2 4 life 
+R 1736 3 4 is 
+R 1740 4 4 pre
+R 1748 3 4 cious 
+- 1752
+R 1752 2 4 Then 
+R 1755 2 4 I 
+R 1759 3 4 guess 
+R 1763 3 4 it’s 
+R 1769 6 4 true 
+- 1777
+R 1780 3 4 But 
+R 1784 2 4 to 
+R 1788 3 4 tell 
+R 1792 2 4 the 
+R 1796 3 4 truth, 
+R 1800 3 4 I 
+R 1804 3 4 real
+R 1808 3 4 ly 
+R 1812 3 4 ne
+R 1816 3 4 ver 
+R 1820 3 4 knew 
+R 1824 3 4 ’til 
+R 1828 3 4 I 
+R 1832 3 4 met 
+R 1836 3 4 you 
+- 1841
+R 1844 1 4 See 
+R 1846 1 4 I 
+R 1848 3 4 was 
+R 1852 5 4 lost 
+R 1860 2 4 and 
+R 1864 3 4 con
+R 1868 6 4 fused 
+- 1876
+R 1883 5 4 Twis
+R 1890 1 4 ted 
+R 1892 2 4 and 
+R 1896 7 4 used 
+R 1904 2 4 up 
+- 1907
+R 1907 2 4 Knew 
+R 1911 3 4 a 
+R 1915 2 4 bet
+R 1919 3 4 ter 
+R 1923 4 4 life 
+R 1928 3 4 e
+R 1932 6 4 xis
+R 1940 2 4 ted 
+- 1943
+R 1944 2 4 But 
+R 1948 3 4 thought 
+R 1952 2 4 that 
+R 1956 2 4 I 
+R 1960 7 4 missed 
+R 1968 2 4 it 
+- 1971
+R 1972 3 4 My 
+R 1976 3 4 life
+R 1980 6 4 style’s 
+R 1988 9 4 wild 
+- 1999
+R 2004 2 4 I 
+R 2008 2 4 was 
+R 2012 2 4 li
+R 2016 2 4 ving 
+R 2020 2 4 like 
+R 2024 2 4 a 
+R 2028 3 4 wild 
+R 2036 6 4 child 
+- 2043
+R 2044 7 4 Trapped 
+R 2052 3 4 on 
+R 2056 3 4 a 
+R 2060 4 4 short 
+R 2066 5 4 leash 
+R 2072 3 4 pa
+R 2076 3 4 roled 
+R 2080 2 4 the 
+R 2084 3 4 po
+R 2088 6 4 lice 
+R 2096 9 4 files 
+- 2107
+R 2128 3 4 So 
+R 2132 5 4 yo 
+R 2138 2 4 what’ 
+R 2142 3 4 hap
+R 2146 2 4 pe
+R 2150 3 4 ning 
+R 2155 4 4 now 
+- 2160
+R 2160 3 4 I 
+R 2164 3 4 see 
+R 2168 2 4 the 
+R 2172 5 4 sun 
+R 2180 3 4 brea
+R 2184 3 4 king 
+R 2188 3 4 down 
+R 2192 2 4 in
+R 2195 3 4 to 
+R 2200 6 4 dark 
+R 2208 12 4 clouds 
+- 2222
+R 2227 3 4 And 
+R 2231 3 4 a 
+R 2235 3 4 vi
+R 2239 3 4 sion 
+R 2243 2 4 of 
+R 2247 7 4 you 
+R 2259 3 4 stan
+R 2263 3 4 ding 
+R 2267 3 4 out 
+R 2271 2 4 in 
+R 2275 2 4 a 
+R 2279 7 4 crowd, 
+R 2291 8 4 so 
+- 2301
+R 2304 6 4 Come 
+R 2311 2 4 my 
+R 2315 4 4 la
+R 2320 5 4 dy 
+- 2326
+R 2327 6 4 Come, 
+R 2335 5 4 come 
+R 2343 3 4 my 
+R 2347 3 4 la
+R 2351 3 4 dy 
+- 2356
+R 2364 2 4 You’re 
+R 2367 3 4 my 
+R 2371 3 4 but
+R 2375 3 4 ter
+R 2379 6 4 fly, 
+R 2394 3 4 sug
+R 2399 3 4 ar, 
+R 2411 3 4 ba
+R 2416 5 4 by 
+- 2423
+R 2432 6 4 Come 
+R 2439 3 4 my 
+R 2443 4 4 la
+R 2448 3 4 dy 
+R 2457 5 4 you’re 
+R 2463 3 4 my 
+R 2467 3 4 pret
+R 2471 3 4 ty 
+R 2476 3 4 ba
+R 2480 2 4 by 
+- 2483
+R 2484 4 4 I’ll 
+R 2489 4 4 make 
+R 2496 2 4 your 
+R 2499 5 4 legs 
+R 2506 4 4 shake 
+R 2515 3 4 you 
+R 2519 5 4 make 
+R 2526 5 4 me 
+R 2532 2 4 go 
+R 2538 7 4 cra
+R 2546 9 4 zy 
+- 2557
+R 2560 6 4 Come 
+R 2567 3 4 my 
+R 2571 3 4 la
+R 2576 2 4 dy, 
+R 2583 6 4 come, 
+R 2591 4 4 come 
+R 2598 3 4 my 
+R 2602 5 4 la
+R 2608 6 4 dy 
+- 2616
+R 2620 3 4 You’re 
+R 2624 3 4 my 
+R 2628 3 4 but
+R 2632 3 4 ter
+* 2636 8 4 fly 
+- 2646
+R 2651 3 4 Sug
+R 2655 3 4 ar, 
+R 2667 3 4 ba
+R 2671 3 4 by 
+- 2676
+R 2688 5 4 Come 
+R 2694 4 4 my 
+R 2699 4 4 la
+R 2704 2 4 dy 
+R 2712 6 4 you’re 
+R 2719 4 4 my 
+R 2724 3 4 pret
+R 2728 3 4 ty 
+R 2732 3 4 ba
+R 2736 3 4 by 
+- 2740
+R 2740 3 4 I’ll 
+R 2744 4 4 make 
+R 2751 3 4 your 
+R 2755 5 4 legs 
+R 2763 4 4 shake 
+R 2771 3 4 you 
+R 2775 4 4 make 
+R 2783 3 4 me 
+R 2787 5 4 go 
+R 2794 8 4 cra
+R 2803 3 4 zy 
+- 2808
+R 2812 6 4 Hey 
+R 2820 2 4 sug
+R 2824 3 4 ar 
+R 2828 3 4 mom
+R 2832 2 4 ma, 
+R 2836 3 4 come 
+R 2840 3 4 and 
+R 2844 5 4 dance 
+R 2852 3 4 with 
+R 2856 5 4 me 
+- 2863
+R 2864 2 4 The 
+R 2868 2 4 smar
+R 2872 3 4 test 
+R 2876 3 4 thing 
+R 2880 3 4 you 
+R 2884 3 4 e
+R 2888 2 4 ver 
+R 2892 2 4 did 
+- 2895
+R 2896 3 4 Was 
+R 2900 3 4 take 
+R 2904 2 4 a 
+R 2908 6 4 chance 
+R 2916 2 4 with 
+R 2920 4 4 me 
+- 2926
+R 2944 3 4 What
+R 2948 2 4 e
+R 2952 3 4 ver 
+R 2956 3 4 tic
+R 2960 3 4 kles 
+R 2964 3 4 your 
+R 2968 7 4 fan
+R 2976 6 4 cy 
+- 2984
+R 2988 3 4 Girl, 
+R 2992 2 4 it’s 
+R 2996 3 4 me 
+R 3000 2 4 and 
+R 3004 2 4 you 
+R 3012 3 4 like 
+R 3020 7 4 Sid 
+R 3028 2 4 and 
+R 3032 7 4 Nan
+R 3042 4 4 cy 
+- 3048
+R 3052 7 4 So 
+R 3068 4 4 sex
+R 3076 5 4 y 
+R 3084 2 4 al
+R 3088 5 4 most 
+R 3096 6 4 e
+R 3104 6 4 vil 
+- 3112
+R 3116 3 4 Talkin’ 
+R 3120 2 4 a
+R 3124 4 4 bout 
+R 3132 3 4 but
+R 3136 2 4 ter
+R 3140 7 4 flies 
+R 3148 3 4 in 
+R 3152 3 4 my 
+R 3160 3 4 head 
+- 3165
+R 3168 3 4 I 
+R 3172 2 4 used 
+R 3176 3 4 to 
+R 3180 3 4 think 
+R 3184 3 4 that 
+R 3188 2 4 hap
+R 3192 2 4 py 
+R 3196 2 4 en
+R 3201 4 4 dings 
+- 3207
+R 3208 3 4 Were 
+R 3212 3 4 on
+R 3216 2 4 ly 
+R 3220 2 4 in 
+R 3223 3 4 the 
+R 3228 4 4 books 
+R 3234 6 4 I 
+R 3242 5 4 read 
+- 3249
+R 3252 3 4 But 
+R 3256 2 4 you 
+R 3260 2 4 made 
+R 3264 3 4 me 
+R 3268 3 4 feel 
+R 3272 2 4 a
+R 3276 3 4 live 
+R 3280 3 4 when 
+R 3284 2 4 I 
+R 3288 3 4 was 
+R 3292 3 4 al
+R 3296 4 4 most 
+R 3304 8 4 dead 
+- 3314
+R 3320 2 4 You 
+R 3324 2 4 filled 
+R 3328 2 4 that 
+R 3332 2 4 emp
+R 3336 2 4 ty 
+R 3340 4 4 space 
+- 3346
+R 3348 2 4 With 
+R 3352 2 4 the 
+R 3356 2 4 love 
+R 3360 2 4 I 
+R 3364 3 4 used 
+R 3368 2 4 to 
+R 3372 5 4 chase 
+- 3379
+R 3380 2 4 And 
+R 3384 2 4 as 
+R 3388 3 4 far 
+R 3392 2 4 as 
+R 3396 2 4 I 
+R 3400 2 4 can 
+R 3404 3 4 see 
+R 3408 2 4 it 
+R 3412 2 4 don’t 
+R 3416 3 4 get 
+R 3420 3 4 bet
+R 3424 2 4 ter 
+R 3428 3 4 than 
+R 3432 4 4 this 
+- 3438
+R 3440 6 4 So 
+R 3452 3 4 but
+R 3456 2 4 ter
+R 3460 6 4 fly, 
+R 3468 3 4 here 
+R 3472 2 4 is 
+R 3476 2 4 a 
+R 3480 3 4 song 
+- 3485
+R 3488 2 4 And 
+R 3492 2 4 it’s 
+R 3500 7 4 sealed 
+R 3508 3 4 with 
+R 3512 2 4 a 
+R 3524 5 4 kiss 
+- 3531
+R 3540 3 4 And 
+R 3544 2 4 a 
+R 3548 7 4 thank 
+R 3556 3 4 you 
+R 3560 8 4 miss 
+- 3570
+R 3604 3 4 Come 
+R 3608 3 4 and 
+R 3612 7 4 dance 
+R 3620 3 4 with 
+R 3624 10 4 me 
+- 3636
+R 3650 3 4 Come 
+R 3654 3 4 and 
+R 3659 7 4 dance 
+R 3668 3 4 with 
+R 3673 2 4 me 
+- 3677
+R 3729 5 4 Come 
+R 3735 3 4 and 
+R 3740 5 4 dance 
+R 3748 3 4 with 
+R 3753 5 4 me 
+- 3760
+R 3773 2 4 So 
+R 3777 1 4 come 
+R 3781 2 4 and 
+R 3786 8 4 dance 
+R 3795 5 4 with 
+R 3801 5 4 me 
+- 3808
+R 3809 6 4 Uh 
+R 3816 3 4 huh, 
+R 3823 4 4 uh 
+R 3828 6 4 huh 
+- 3836
+R 3841 5 4 Come 
+R 3847 2 4 my 
+R 3851 3 4 la
+R 3855 6 4 dy, 
+- 3863
+R 3864 6 4 Come 
+R 3871 7 4 come 
+R 3879 2 4 my 
+R 3883 4 4 la
+R 3888 3 4 dy 
+- 3893
+R 3900 2 4 You’re 
+R 3904 2 4 my 
+R 3908 2 4 but
+R 3911 3 4 ter
+R 3915 6 4 fly 
+- 3923
+R 3931 3 4 Sug
+R 3935 3 4 ar, 
+R 3947 3 4 ba
+R 3951 4 4 by 
+- 3957
+R 3968 3 4 Come 
+R 3975 2 4 my 
+R 3979 4 4 la
+R 3985 3 4 dy 
+- 3990
+R 3991 5 4 You’re 
+R 3999 3 4 my 
+R 4003 3 4 pret
+R 4007 3 4 ty 
+R 4012 3 4 ba
+R 4016 3 4 by 
+- 4020
+R 4020 3 4 I’ll 
+R 4025 4 4 make 
+R 4030 3 4 your 
+R 4035 6 4 legs 
+R 4042 4 4 shake 
+- 4048
+R 4049 3 4 You 
+R 4054 6 4 make 
+R 4063 3 4 me 
+R 4068 2 4 go 
+R 4075 7 4 cra
+R 4083 3 4 zy 
+- 4088
+R 4097 4 4 Come 
+R 4103 2 4 my 
+R 4107 3 4 la
+R 4112 2 4 dy 
+- 4116
+R 4120 6 4 Come, 
+R 4128 6 4 come 
+R 4135 3 4 my 
+R 4139 4 4 la
+R 4144 3 4 dy 
+- 4149
+R 4156 3 4 You’re 
+R 4160 2 4 my 
+R 4164 3 4 but
+R 4168 2 4 ter
+R 4172 5 4 fly 
+- 4179
+R 4188 3 4 Sug
+R 4192 4 4 ar, 
+R 4204 3 4 ba
+R 4208 3 4 by 
+- 4213
+R 4224 6 4 Come 
+R 4232 3 4 my 
+R 4236 3 4 la
+R 4240 2 4 dy 
+R 4248 6 4 you’re 
+R 4255 3 4 my 
+R 4260 3 4 pret
+R 4264 3 4 ty 
+R 4268 3 4 ba
+R 4272 2 4 by 
+- 4275
+R 4276 3 4 I’ll 
+R 4281 6 4 make 
+R 4288 3 4 your 
+R 4292 4 4 legs 
+R 4300 5 4 shake 
+- 4307
+R 4308 3 4 You 
+R 4312 5 4 make 
+R 4319 3 4 me 
+R 4324 2 4 go 
+R 4331 6 4 cra
+R 4339 4 4 zy 
+- 4345
+R 4353 5 4 Come 
+R 4360 2 4 my 
+R 4363 4 4 la
+R 4368 2 4 dy 
+- 4372
+R 4375 5 4 Come, 
+R 4383 5 4 come 
+R 4391 4 4 my 
+R 4396 3 4 la
+R 4400 3 4 dy 
+- 4405
+R 4412 2 4 You’re 
+R 4416 2 4 my 
+R 4420 2 4 but
+R 4424 2 4 ter
+R 4428 7 4 fly 
+- 4437
+R 4443 3 4 Sug
+R 4447 2 4 ar, 
+R 4459 3 4 ba
+R 4464 4 4 by 
+- 4470
+R 4480 5 4 Come 
+R 4487 3 4 my 
+R 4491 3 4 la
+R 4497 4 4 dy 
+- 4503
+R 4504 4 4 You’re 
+R 4511 3 4 my 
+R 4516 3 4 pret
+R 4520 2 4 ty 
+R 4524 3 4 ba
+R 4528 2 4 by 
+- 4531
+R 4532 3 4 I’ll 
+R 4537 3 4 make 
+R 4543 4 4 your 
+R 4548 6 4 legs 
+R 4555 4 4 shake 
+R 4562 5 4 you 
+R 4568 3 4 make 
+R 4575 4 4 me 
+R 4580 3 4 go 
+R 4586 8 4 cra
+R 4595 3 4 zy 
+- 4600
+R 4609 4 4 Come 
+R 4615 3 4 my 
+R 4619 4 4 la
+R 4625 2 4 dy, 
+R 4632 5 4 Come 
+R 4640 6 4 come 
+R 4647 3 4 my 
+R 4651 4 4 la
+R 4656 4 4 dy 
+- 4662
+R 4668 3 4 You’re 
+R 4672 3 4 my 
+R 4676 2 4 but
+R 4680 2 4 ter
+R 4684 8 4 fly 
+- 4694
+R 4699 3 4 Sug
+R 4703 3 4 ar, 
+R 4716 3 4 ba
+R 4720 4 4 by 
+- 4726
+R 4736 7 4 Come 
+R 4744 2 4 my 
+R 4748 3 4 la
+R 4752 2 4 dy 
+R 4761 6 4 you’re 
+R 4768 3 4 my 
+R 4772 2 4 pret
+R 4776 2 4 ty 
+R 4780 3 4 ba
+R 4784 3 4 by 
+- 4788
+R 4788 3 4 I’ll 
+R 4793 4 4 make 
+R 4799 4 4 your 
+R 4804 5 4 legs 
+R 4810 7 4 shake 
+R 4820 3 4 you 
+R 4824 5 4 make 
+R 4831 3 4 me 
+R 4836 5 4 go 
+R 4843 7 4 cra
+R 4851 5 4 zy 
+E

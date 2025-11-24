@@ -1,0 +1,1014 @@
+#ARTIST:Hamilton
+#TITLE:Cabinet Battle #1 [DUET]
+#MP3:Hamilton - Cabinet Battle #1 [DUET].mp3
+#CREATOR:Danmcfoo
+#EDITION:[DUET]-Songs
+#GENRE:Musical
+#YEAR:2015
+#LANGUAGE:English
+#BPM:696
+#GAP:330
+#VIDEO:a=dSYW61XQZeo,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/a0/07/38a007fe-dc73-56af-082c-5668aab3e466/075679909183.jpg/5000x5000bb.jpg,bg=hamilton-5f126d92aaa76.jpg,p1=Alexander Hamilton (and G. Washington),p2=Thomas Jefferson (and G. Washington)
+P1
+R 0 12 4 Lad
+R 13 11 4 ies 
+R 26 10 4 and 
+R 39 7 4 gen
+R 47 5 4 tle
+R 53 10 4 men, 
+- 73
+R 86 7 4 You 
+R 97 2 4 coul
+R 100 6 4 da 
+R 108 3 4 been 
+R 114 4 4 a
+R 119 4 4 ny
+R 124 9 4 where 
+R 139 3 4 in 
+R 145 4 4 the 
+R 150 15 4 world 
+R 168 5 4 to
+R 174 10 4 night, 
+- 185
+R 187 6 4 But 
+R 195 6 4 you’re 
+R 203 7 4 here 
+R 213 5 4 with 
+R 220 8 4 us 
+R 231 6 4 in 
+R 239 16 4 New 
+R 257 11 4 York 
+R 272 7 4 Ci
+R 280 8 4 ty 
+- 298
+R 306 4 4 Are 
+R 312 10 4 you 
+R 326 8 4 rea
+R 335 6 4 dy 
+R 356 7 4 for 
+R 368 4 4 a 
+R 377 13 4 cab
+R 391 9 4 ’net 
+R 403 8 4 mee
+R 412 8 4 ting 
+- 430
+R 486 7 4 The 
+R 495 8 4 iss
+R 504 8 4 ue 
+R 520 14 4 on 
+R 538 5 4 the 
+R 546 10 4 ta
+R 557 8 4 ble: 
+- 575
+R 597 5 4 Sec
+R 603 7 4 re
+R 611 3 4 ta
+R 615 7 4 ry 
+R 626 4 4 Ha
+R 631 5 4 mil
+R 637 8 4 ton’s 
+R 651 9 4 plan 
+R 661 5 4 to 
+R 670 3 4 a
+R 674 13 4 ssume 
+R 689 13 4 state 
+R 706 9 4 debt 
+- 725
+R 729 2 4 And 
+R 734 7 4 es
+R 742 9 4 tab
+R 752 8 4 lish 
+R 763 1 4 a 
+R 765 7 4 na
+R 773 5 4 tion
+R 779 4 4 al 
+R 786 8 4 bank 
+- 804
+R 826 6 4 Sec
+R 833 4 4 re
+R 838 5 4 ta
+R 844 4 4 ry 
+R 850 7 4 Jeff
+R 858 5 4 er
+R 864 8 4 son, 
+R 894 4 4 you 
+R 903 8 4 have 
+R 915 5 4 the 
+R 924 8 4 floor, 
+R 938 12 4 sir 
+- 1042
+G 2054 14 4 Not 
+G 2071 16 4 true 
+- 2179
+R 3969 8 4 Tho
+R 3978 8 4 mas, 
+R 3996 9 4 That 
+R 4006 6 4 was 
+R 4014 5 4 a 
+R 4022 9 4 real 
+R 4034 10 4 nice 
+R 4046 5 4 de
+R 4052 9 4 cla
+R 4062 9 4 ra
+R 4072 13 4 tion 
+- 4091
+R 4093 7 4 Wel
+R 4101 8 4 come 
+R 4111 6 4 to 
+R 4118 5 4 the 
+R 4125 7 4 pre
+R 4133 7 4 sent, 
+- 4140
+R 4141 7 4 We’re 
+R 4149 6 4 run
+R 4156 7 4 ning 
+R 4164 4 4 a 
+R 4170 14 4 real 
+R 4187 10 4 na
+R 4198 12 4 tion 
+- 4218
+R 4221 5 4 Would 
+R 4227 7 4 you 
+R 4235 7 4 like 
+R 4244 5 4 to 
+R 4251 16 4 join 
+R 4268 8 4 us, 
+R 4289 3 4 or 
+R 4296 10 4 stay 
+R 4312 8 4 mel
+R 4321 7 4 low 
+- 4331
+R 4333 5 4 Do
+R 4339 7 4 in’ 
+R 4348 7 4 what
+R 4356 7 4 e
+R 4364 6 4 ver 
+R 4372 4 4 the 
+R 4378 7 4 hell 
+R 4387 6 4 it 
+R 4395 6 4 is 
+R 4402 6 4 you 
+R 4409 6 4 do 
+R 4417 7 4 in 
+R 4426 6 4 Mon
+R 4433 5 4 ti
+R 4439 10 4 cel
+R 4450 8 4 lo 
+- 4468
+R 4486 3 4 If 
+R 4490 5 4 we 
+R 4497 4 4 as
+R 4502 18 4 sume 
+R 4522 6 4 the 
+R 4529 12 4 debts, 
+R 4545 5 4 the 
+R 4552 12 4 un
+R 4565 10 4 ion 
+R 4577 9 4 gets 
+- 4592
+R 4595 3 4 A 
+R 4599 11 4 new 
+R 4613 9 4 line 
+R 4623 5 4 of 
+R 4630 7 4 cre
+R 4638 6 4 dit, 
+R 4646 3 4 a 
+R 4651 9 4 fi
+R 4661 7 4 nan
+R 4669 9 4 cial 
+R 4679 8 4 di
+R 4688 6 4 ur
+R 4695 6 4 e
+R 4702 9 4 tic 
+- 4712
+R 4714 4 4 How 
+R 4720 4 4 do 
+R 4725 6 4 you 
+R 4733 5 4 not 
+R 4740 7 4 get 
+R 4748 5 4 it 
+- 4764
+R 4768 5 4 If 
+R 4774 5 4 we’re 
+R 4781 7 4 ag
+R 4789 7 4 gres
+R 4797 8 4 sive 
+R 4806 6 4 and 
+R 4814 5 4 com
+R 4820 8 4 pe
+R 4829 4 4 ti
+R 4834 11 4 tive 
+- 4847
+R 4849 3 4 The 
+R 4853 8 4 u
+R 4862 7 4 nion 
+R 4870 7 4 gets 
+R 4879 2 4 a 
+R 4883 15 4 boost 
+- 4900
+R 4902 5 4 You’d 
+R 4908 6 4 ra
+R 4915 8 4 ther 
+R 4924 7 4 give 
+R 4932 6 4 it 
+R 4940 3 4 a 
+R 4944 9 4 sed
+R 4954 3 4 a
+R 4958 9 4 tive? 
+- 4977
+R 4991 2 4 A 
+R 4994 9 4 ci
+R 5004 8 4 vics 
+R 5014 6 4 les
+R 5021 5 4 son 
+R 5029 5 4 from 
+R 5036 2 4 a 
+R 5039 20 4 sla
+R 5060 6 4 ver 
+- 5066
+R 5068 10 4 Hey 
+R 5081 13 4 neigh
+R 5095 11 4 bor 
+- 5113
+R 5116 5 4 Your 
+R 5123 9 4 debts 
+R 5133 5 4 are 
+R 5139 9 4 paid 
+R 5152 6 4 ’cause 
+R 5159 5 4 you 
+R 5166 8 4 don’t 
+R 5177 9 4 pay 
+R 5195 4 4 for 
+G 5200 14 4 la
+G 5215 9 4 bor 
+- 5234
+R 5241 6 4 “We 
+R 5249 12 4 plant 
+R 5262 16 4 seeds 
+R 5280 3 4 in 
+R 5284 3 4 the 
+R 5289 15 4 South, 
+R 5306 5 4 We 
+R 5313 8 4 cre
+R 5322 12 4 ate” 
+- 5335
+R 5337 4 4 Yeah, 
+R 5342 10 4 keep 
+R 5354 16 4 rant
+R 5371 8 4 ing 
+- 5388
+R 5391 4 4 We 
+R 5397 8 4 know 
+R 5406 8 4 who’s 
+R 5415 6 4 real
+R 5422 6 4 ly 
+R 5430 5 4 do
+R 5436 7 4 ing 
+R 5444 5 4 the 
+R 5452 12 4 plan
+R 5465 15 4 ting 
+- 5490
+R 5508 3 4 And 
+R 5512 4 4 a
+R 5517 5 4 no
+R 5523 6 4 ther 
+R 5533 6 4 thing, 
+R 5542 5 4 Mis
+R 5548 6 4 ter 
+R 5557 9 4 Age 
+R 5568 4 4 of 
+R 5573 5 4 En
+R 5579 8 4 ligh
+R 5588 6 4 ten
+R 5595 9 4 ment 
+- 5605
+R 5607 4 4 Don’t 
+R 5613 7 4 lec
+R 5621 7 4 ture 
+R 5629 8 4 me 
+R 5639 4 4 a
+R 5644 10 4 bout 
+R 5656 7 4 the 
+R 5670 9 4 war, 
+- 5683
+R 5685 5 4 You 
+R 5692 5 4 did
+R 5698 6 4 n’t 
+R 5706 8 4 fight 
+R 5717 5 4 in 
+R 5725 5 4 it 
+- 5740
+R 5749 3 4 You 
+R 5753 7 4 think 
+R 5761 6 4 I’m 
+R 5769 10 4 frigh
+R 5780 5 4 tened 
+R 5786 7 4 of 
+R 5794 7 4 you, 
+R 5803 8 4 man 
+- 5811
+R 5812 5 4 We 
+R 5820 3 4 al
+R 5824 6 4 most 
+R 5832 9 4 died 
+R 5843 2 4 in 
+R 5847 5 4 the 
+R 5854 15 4 trench 
+- 5875
+R 5877 4 4 While 
+R 5882 5 4 you 
+R 5888 8 4 were 
+R 5899 8 4 off 
+R 5912 6 4 get
+R 5919 3 4 ting 
+R 5926 12 4 high 
+R 5941 4 4 with 
+R 5947 6 4 the 
+R 5954 14 4 French 
+- 5978
+R 5991 9 4 Tho
+R 6001 7 4 mas 
+R 6011 5 4 Jeff
+R 6017 4 4 er
+R 6022 9 4 son, 
+R 6033 5 4 al
+R 6039 7 4 ways 
+R 6048 5 4 he
+R 6054 7 4 si
+R 6062 8 4 tant 
+R 6072 6 4 with 
+R 6080 5 4 the 
+R 6088 5 4 Pre
+R 6094 7 4 si
+R 6102 8 4 dent 
+- 6116
+R 6119 5 4 Re
+R 6125 7 4 ti
+R 6133 9 4 cent 
+R 6147 10 4 there 
+R 6159 6 4 is
+R 6166 5 4 n’t 
+R 6173 4 4 a 
+R 6178 11 4 plan 
+R 6191 5 4 he 
+R 6199 5 4 does
+R 6205 6 4 n’t 
+R 6212 7 4 jett
+R 6220 8 4 i
+R 6229 10 4 son 
+- 6242
+R 6244 9 4 Ma
+R 6254 7 4 di
+R 6262 5 4 son, 
+R 6269 5 4 you’re 
+R 6276 8 4 mad 
+R 6286 5 4 as 
+R 6294 5 4 a 
+R 6300 9 4 hat
+R 6310 4 4 ter, 
+R 6315 6 4 son, 
+R 6323 8 4 take 
+R 6333 6 4 your 
+R 6341 6 4 me
+R 6348 7 4 di
+R 6356 10 4 cine 
+- 6371
+R 6373 8 4 Damn, 
+R 6383 6 4 you’re 
+R 6392 2 4 in 
+R 6397 10 4 worse 
+R 6408 12 4 shape 
+R 6423 10 4 than 
+R 6434 6 4 the 
+R 6442 6 4 na
+R 6449 8 4 tion
+R 6458 6 4 al 
+R 6465 6 4 debt 
+R 6473 7 4 is 
+R 6481 10 4 in 
+- 6494
+R 6496 11 4 Sit
+R 6508 5 4 tin’ 
+R 6516 9 4 there 
+G 6530 16 4 use
+G 6547 8 4 less 
+G 6557 6 4 as 
+G 6564 9 4 two 
+G 6577 13 4 shits 
+- 6596
+R 6598 9 4 Hey, 
+R 6614 6 4 turn 
+R 6623 4 4 a
+R 6628 11 4 round, 
+R 6642 16 4 bend 
+R 6659 8 4 ov
+R 6668 5 4 er, 
+- 6673
+G 6675 3 4 I’ll 
+G 6683 8 4 show 
+G 6695 5 4 you 
+G 6704 5 4 where 
+G 6711 6 4 my 
+G 6720 11 4 shoe 
+G 6739 19 4 fits 
+- 6850
+R 7164 11 4 Sir 
+- 7221
+: 7290 14 -1 You 
+: 7307 9 -1 don’t 
+: 7322 16 -1 have 
+: 7339 6 0 the 
+: 7347 17 -1 votes 
+- 7374
+: 7388 9 -1 You 
+: 7405 10 -1 don’t 
+: 7420 12 -1 have 
+: 7434 6 0 the 
+: 7442 15 -1 votes 
+- 7467
+: 7537 6 -1 You’re 
+: 7546 5 -1 gon
+: 7552 6 -1 na 
+: 7561 8 -1 need 
+: 7570 6 -1 con
+: 7577 9 -1 gres
+: 7587 5 -1 sion
+: 7593 7 -1 al 
+: 7601 7 -1 a
+: 7609 8 -1 ppro
+: 7618 6 -1 val 
+- 7624
+: 7626 12 -1 And 
+: 7642 14 -1 you 
+: 7658 10 -1 don’t 
+: 7672 12 -1 have 
+: 7686 7 0 the 
+: 7696 20 -1 votes 
+- 7808
+R 7939 8 4 Why 
+R 7949 8 4 he 
+R 7958 5 4 ev
+R 7964 7 4 en 
+R 7972 8 4 brings 
+R 7982 6 4 the 
+R 7990 12 4 thun
+R 8003 10 4 der... 
+- 8105
+R 8266 5 4 I’m 
+R 8273 9 4 sor
+R 8283 5 4 ry, 
+R 8291 7 4 these 
+R 8299 5 4 Vir
+R 8305 7 4 gin
+R 8313 6 4 i
+R 8320 6 4 ans 
+R 8328 4 4 are 
+R 8334 17 4 birds 
+R 8352 4 4 of 
+R 8358 4 4 a 
+R 8363 9 4 fea
+R 8373 10 4 ther 
+- 8429
+R 8511 6 4 So 
+R 8520 6 4 we 
+R 8528 7 4 let 
+R 8538 9 4 Con
+R 8548 9 4 gress 
+R 8559 7 4 get 
+R 8567 13 4 held 
+R 8582 12 4 hos
+R 8595 8 4 tage 
+R 8604 6 4 by 
+R 8611 5 4 the 
+R 8618 18 4 South 
+- 8646
+R 8692 9 4 No, 
+R 8710 6 4 we 
+R 8717 10 4 need 
+R 8731 10 4 bold 
+R 8744 19 4 strokes 
+- 8764
+R 8766 7 4 We 
+R 8774 9 4 need 
+R 8786 7 4 this 
+R 8798 18 4 plan 
+- 8826
+R 8883 7 4 Well, 
+R 8891 13 4 James 
+R 8906 6 4 Mad
+R 8913 4 4 i
+R 8918 7 4 son 
+R 8926 10 4 won’t 
+R 8937 7 4 talk 
+R 8946 4 4 to 
+R 8952 9 4 me, 
+- 8963
+R 8965 8 4 That’s 
+R 8976 6 4 a 
+R 8986 13 4 non
+R 9000 10 4 start
+R 9011 14 4 er 
+- 9071
+R 9135 9 4 They’re 
+R 9145 6 4 be
+R 9152 2 4 ing 
+R 9156 2 4 in
+R 9159 14 4 trans
+R 9174 5 4 i
+R 9180 21 4 gent 
+- 9211
+R 9264 5 4 But 
+R 9271 4 4 they 
+R 9276 6 4 don’t 
+R 9284 5 4 have 
+R 9291 3 4 a 
+R 9299 11 4 plan, 
+R 9314 5 4 they 
+R 9320 8 4 just 
+R 9330 10 4 hate 
+R 9342 18 4 mine 
+- 9370
+R 9393 9 4 And 
+R 9403 6 4 what 
+R 9414 8 4 hap
+R 9423 11 4 pens 
+R 9436 3 4 if 
+R 9441 3 4 I 
+R 9448 10 4 don’t 
+R 9460 6 4 get 
+R 9468 5 4 con
+R 9474 9 4 gres
+R 9484 4 4 sio
+R 9489 5 4 nal 
+R 9496 6 4 ap
+R 9503 9 4 pro
+R 9513 11 4 val 
+- 9570
+R 9645 13 4 Sir 
+P2
+R 1057 9 4 “Life, 
+R 1072 6 4 li
+R 1079 8 4 ber
+R 1088 6 4 ty 
+R 1098 4 4 and 
+R 1103 5 4 the 
+R 1112 4 4 pur
+R 1117 9 4 suit 
+R 1128 4 4 of 
+R 1135 7 4 hap
+R 1143 6 4 pi
+R 1150 11 4 ness” 
+- 1171
+R 1179 4 4 We 
+R 1185 7 4 fought 
+R 1194 5 4 for 
+R 1200 7 4 these 
+R 1209 5 4 i
+R 1215 12 4 deals 
+- 1231
+R 1233 3 4 We 
+R 1238 7 4 should
+R 1246 5 4 n’t 
+R 1254 8 4 set
+R 1263 4 4 tle 
+R 1270 6 4 for 
+R 1278 11 4 less 
+- 1299
+R 1310 8 4 These 
+R 1319 4 4 are 
+R 1326 13 4 wise 
+R 1340 15 4 words, 
+R 1358 5 4 en
+R 1364 8 4 ter
+R 1373 11 4 pri
+R 1385 11 4 sing 
+R 1397 7 4 men 
+G 1406 14 4 quote 
+R 1425 9 4 ’em 
+- 1435
+R 1437 10 4 Don’t 
+R 1448 10 4 act 
+R 1460 7 4 sur
+R 1468 17 4 prised, 
+R 1486 7 4 you 
+R 1496 11 4 guys, 
+R 1511 7 4 ’cause 
+R 1521 7 4 I 
+R 1533 16 4 wrote 
+R 1553 7 4 ’em 
+- 1570
+R 1581 28 4 Oww 
+- 1615
+R 1618 6 4 But 
+R 1627 8 4 Ham
+R 1636 5 4 il
+R 1642 7 4 ton 
+R 1652 6 4 for
+R 1659 14 4 gets 
+- 1682
+R 1685 7 4 His 
+R 1694 8 4 plan 
+R 1704 3 4 would 
+R 1709 7 4 have 
+R 1717 5 4 the 
+R 1724 6 4 gov
+R 1731 6 4 ern
+R 1738 5 4 ment 
+R 1745 4 4 a
+R 1750 14 4 ssume 
+R 1766 16 4 state’s 
+R 1786 21 4 debts 
+- 1813
+R 1815 6 4 Now, 
+R 1829 10 4 place 
+R 1841 8 4 your 
+R 1851 10 4 bets 
+R 1866 5 4 as 
+R 1873 4 4 to 
+R 1881 5 4 who 
+R 1888 5 4 that 
+R 1898 4 4 be
+R 1903 5 4 ne
+R 1909 13 4 fits: 
+- 1932
+R 1936 5 4 The 
+R 1945 7 4 ve
+R 1953 5 4 ry 
+R 1960 7 4 seat 
+R 1970 4 4 of 
+R 1978 7 4 gov
+R 1986 6 4 ern
+R 1993 7 4 ment 
+R 2003 5 4 where 
+R 2011 8 4 Ham
+R 2020 7 4 il
+R 2028 8 4 ton 
+R 2040 33 4 sits 
+- 2085
+G 2089 25 4 Ooh, 
+G 2117 5 4 if 
+G 2125 5 4 the 
+G 2132 10 4 shoe 
+G 2147 11 4 fits, 
+G 2163 13 4 wear 
+G 2177 9 4 it 
+- 2191
+R 2193 4 4 If 
+R 2199 6 4 New 
+R 2206 14 4 York’s 
+R 2223 3 4 in 
+R 2228 12 4 debt 
+- 2244
+R 2246 5 4 Why 
+R 2255 9 4 should 
+R 2267 6 4 Vir
+R 2274 10 4 gin
+R 2285 10 4 ia 
+R 2296 6 4 bear 
+R 2310 6 4 it 
+- 2326
+R 2343 18 4 Uh, 
+R 2364 9 4 Our 
+R 2375 7 4 debts 
+R 2384 5 4 are 
+R 2391 10 4 paid, 
+R 2405 7 4 I’m 
+R 2414 4 4 a
+R 2419 13 4 fraid 
+- 2432
+R 2434 6 4 Don’t 
+R 2445 13 4 tax 
+R 2460 4 4 the 
+R 2466 13 4 South 
+- 2481
+R 2483 7 4 ’Cause 
+R 2492 5 4 we 
+R 2498 7 4 got 
+R 2506 4 4 it 
+R 2512 13 4 made 
+R 2528 5 4 in 
+R 2535 4 4 the 
+R 2541 36 4 shade 
+- 2583
+R 2586 5 4 In 
+R 2594 3 4 Vir
+R 2598 7 4 gin
+R 2606 6 4 ia, 
+R 2615 6 4 we 
+R 2622 12 4 plant 
+R 2636 17 4 seeds 
+R 2654 3 4 in 
+R 2658 3 4 the 
+R 2664 12 4 ground 
+- 2682
+R 2685 6 4 We 
+R 2692 8 4 cre
+R 2701 8 4 ate 
+- 2716
+R 2719 5 4 You 
+R 2727 5 4 just 
+R 2736 5 4 wan
+R 2742 5 4 na 
+R 2748 9 4 move 
+R 2759 5 4 our 
+R 2765 7 4 mo
+R 2773 6 4 ney 
+R 2781 3 4 a
+R 2785 16 4 round 
+- 2811
+R 2815 9 4 This 
+R 2826 11 4 fi
+R 2838 11 4 nan
+R 2850 8 4 cial 
+R 2861 11 4 plan 
+R 2875 3 4 is 
+R 2880 3 4 an 
+R 2884 8 4 out
+R 2893 9 4 ra
+R 2903 8 4 geous 
+R 2913 4 4 de
+R 2918 13 4 mand 
+- 2931
+R 2933 4 4 And 
+R 2939 7 4 it’s 
+R 2948 5 4 too 
+R 2955 3 4 ma
+R 2959 4 4 ny 
+R 2970 11 4 damn 
+R 2984 13 4 pa
+R 2998 6 4 ges 
+- 3004
+R 3006 5 4 For 
+R 3013 5 4 a
+R 3019 6 4 ny 
+R 3027 10 4 man 
+R 3041 4 4 to 
+R 3048 7 4 un
+R 3056 4 4 der
+R 3061 21 4 stand 
+- 3089
+R 3092 12 4 Stand 
+R 3106 7 4 with 
+R 3116 8 4 me 
+R 3131 5 4 in 
+R 3138 5 4 the 
+R 3145 8 4 land 
+R 3154 4 4 of 
+R 3160 7 4 the 
+R 3169 13 4 free 
+- 3190
+R 3193 5 4 Pray 
+R 3201 5 4 to 
+R 3208 11 4 God 
+R 3222 4 4 we 
+R 3228 4 4 ne
+R 3233 4 4 ver 
+R 3239 7 4 see 
+R 3248 7 4 Ham
+R 3256 4 4 il
+R 3261 10 4 ton’s 
+R 3273 6 4 can
+R 3280 5 4 di
+R 3286 7 4 da
+R 3294 9 4 cy 
+- 3307
+G 3309 8 4 Look, 
+R 3326 6 4 when 
+R 3334 6 4 Bri
+R 3341 9 4 tain 
+R 3352 9 4 taxed 
+R 3363 8 4 our 
+R 3374 9 4 tea, 
+R 3388 7 4 we 
+R 3397 7 4 got 
+R 3409 13 4 fris
+R 3423 8 4 ky 
+- 3441
+R 3456 4 4 I
+R 3461 6 4 ma
+R 3468 7 4 gine 
+R 3478 5 4 what 
+R 3486 5 4 gon’ 
+R 3493 7 4 hap
+R 3501 6 4 pen 
+- 3508
+R 3510 6 4 When 
+R 3517 4 4 you 
+R 3524 8 4 try 
+R 3534 4 4 to 
+R 3540 12 4 tax 
+R 3554 9 4 our 
+G 3566 15 4 whis
+G 3583 26 4 ky 
+- 3619
+R 3634 9 4 Thank 
+R 3646 9 4 you, 
+R 3661 6 4 Se
+R 3668 7 4 cre
+R 3676 7 4 ta
+R 3684 5 4 ry 
+R 3691 9 4 Jeff
+R 3701 6 4 er
+R 3708 9 4 son 
+- 3727
+R 3746 6 4 Se
+R 3753 4 4 cre
+R 3758 6 4 ta
+R 3765 4 4 ry 
+R 3771 5 4 Ham
+R 3777 5 4 il
+R 3783 8 4 ton, 
+- 3801
+R 3829 7 4 Your 
+R 3838 4 4 re
+R 3843 31 4 sponse 
+- 3966
+R 6762 12 4 Ex
+R 6775 15 4 cuse 
+R 6794 10 4 me 
+- 6814
+R 6846 5 4 Ma
+R 6852 3 4 di
+R 6856 7 4 son, 
+R 6877 6 4 Jeff
+R 6884 5 4 er
+R 6890 4 4 son, 
+R 6897 4 4 take 
+R 6902 3 4 a 
+R 6908 13 4 walk 
+- 6927
+R 6930 6 4 Ham
+R 6937 5 4 il
+R 6943 8 4 ton, 
+R 6952 10 4 take 
+R 6965 3 4 a 
+R 6970 18 4 walk 
+- 6998
+R 7025 6 4 We’ll 
+R 7033 7 4 re
+R 7041 6 4 con
+R 7048 9 4 vene 
+R 7059 7 4 af
+R 7067 7 4 ter 
+R 7076 5 4 a 
+R 7083 9 4 brief 
+R 7094 6 4 re
+R 7101 19 4 cess 
+- 7130
+R 7140 6 4 Ham
+R 7147 6 4 il
+R 7154 9 4 ton 
+- 7173
+R 7197 7 4 A 
+R 7208 18 4 word 
+- 7272
+: 7388 9 4 You 
+: 7405 10 4 don’t 
+: 7420 12 4 have 
+: 7434 6 4 the 
+: 7442 13 4 votes 
+- 7457
+G 7459 6 4 A
+G 7466 7 4 ha 
+G 7474 15 4 ha 
+G 7490 15 4 ha 
+G 7506 15 4 ha 
+- 7533
+: 7537 6 4 You’re 
+: 7546 5 4 gon
+: 7552 6 4 na 
+: 7561 8 4 need 
+: 7570 6 4 con
+: 7577 9 4 gres
+: 7587 5 4 sion
+: 7593 7 4 al 
+: 7601 7 4 a
+: 7609 8 4 ppro
+: 7618 7 4 val 
+- 7625
+: 7626 12 4 And 
+: 7642 14 4 you 
+: 7658 10 4 don’t 
+: 7672 12 4 have 
+: 7686 7 4 the 
+: 7696 20 4 votes 
+- 7726
+R 7778 11 4 Such 
+R 7791 4 4 a 
+R 7798 7 4 blun
+R 7806 6 4 der 
+R 7814 7 4 some
+R 7822 18 4 times 
+R 7842 3 4 it 
+R 7847 8 4 makes 
+R 7857 4 4 me 
+R 7865 4 4 won
+R 7870 6 4 der 
+- 7876
+R 7878 11 4 Why 
+R 7890 3 4 I 
+R 7895 6 4 ev
+R 7902 8 4 en 
+R 7912 5 4 bring 
+R 7919 7 4 the 
+R 7928 9 4 thun
+R 7938 7 4 der 
+- 8037
+R 8185 8 4 You 
+R 8195 4 4 wan
+R 8200 4 4 na 
+R 8206 9 4 pull 
+R 8218 5 4 your
+R 8224 9 4 self 
+R 8234 5 4 to
+R 8240 8 4 geth
+R 8249 9 4 er 
+- 8304
+R 8376 11 4 Young 
+R 8390 9 4 man, 
+R 8403 11 4 I’m 
+R 8416 8 4 from 
+R 8427 4 4 Vir
+R 8432 8 4 gi
+R 8441 12 4 nia, 
+R 8454 6 4 so 
+R 8462 14 4 watch 
+R 8477 9 4 your 
+R 8487 18 4 mouth 
+- 8551
+R 8662 4 4 You 
+R 8667 9 4 need 
+R 8678 5 4 the 
+R 8684 19 4 votes 
+- 8749
+R 8802 8 4 No, 
+R 8812 8 4 you 
+R 8822 10 4 need 
+R 8834 3 4 to 
+R 8839 4 4 con
+R 8844 13 4 vince 
+R 8860 10 4 more 
+R 8872 22 4 folks 
+- 8940
+R 9014 22 4 Ahh, 
+R 9040 5 4 Win
+R 9046 6 4 ning 
+R 9054 8 4 was 
+R 9065 8 4 ea
+R 9074 7 4 sy, 
+R 9083 8 4 young 
+R 9093 7 4 man 
+- 9103
+R 9105 8 4 Gov
+R 9114 3 4 er
+R 9118 8 4 ning’s 
+R 9129 14 4 hard
+R 9144 10 4 er 
+- 9164
+R 9180 9 4 You 
+R 9190 11 4 have 
+R 9204 4 4 to 
+R 9210 10 4 find 
+R 9222 5 4 a 
+R 9230 12 4 com
+R 9243 8 4 pro
+R 9252 30 4 mise 
+- 9292
+R 9350 11 4 Con
+R 9362 12 4 vince 
+R 9376 5 4 them 
+R 9383 3 4 o
+R 9387 4 4 ther
+R 9392 27 4 wise 
+- 9465
+R 9530 3 4 I 
+R 9535 2 4 i
+R 9538 7 4 ma
+R 9546 5 4 gine 
+R 9553 7 4 they’ll 
+R 9561 9 4 call 
+R 9574 7 4 for 
+R 9582 10 4 your 
+R 9595 6 4 re
+R 9602 9 4 mo
+R 9612 10 4 val 
+- 9632
+R 9676 10 4 Fi
+R 9687 6 4 gure 
+R 9695 2 4 it 
+R 9699 7 4 out, 
+R 9715 6 4 Al
+R 9722 8 4 ex
+R 9731 7 4 an
+R 9739 12 4 der 
+- 9761
+R 9803 9 4 That’s 
+R 9814 5 4 an 
+R 9820 11 4 or
+R 9832 4 4 der 
+R 9839 6 4 from 
+R 9847 10 4 your 
+R 9859 9 4 com
+R 9869 12 4 man
+R 9882 10 4 der 
+E

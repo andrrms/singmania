@@ -1,0 +1,420 @@
+#ARTIST:Dr. Alban
+#TITLE:It’s My Life
+#MP3:Dr. Alban - It’s My Life.mp3
+#CREATOR:Fepo
+#GENRE:Pop
+#YEAR:1992
+#LANGUAGE:English
+#BPM:257.49
+#GAP:18890
+#VIDEO:v=oW0VovnyjPY,co=its-my-life-609d7a9411e97.jpg,bg=alban-dr-543a6077a138d.jpg
+F 0 2 1 Stop 
+F 4 1 1 tel
+F 6 1 1 ling 
+F 9 1 1 me 
+F 12 1 1 how 
+F 15 1 1 to 
+F 17 1 1 run 
+F 21 1 1 your 
+F 24 2 1 busi
+F 28 2 1 ness 
+- 32
+F 288 2 -3 It’s 
+F 292 2 -3 my 
+F 296 4 -3 life 
+F 304 2 -3 take 
+F 307 2 -3 it 
+F 310 2 -3 or 
+F 313 2 -3 leave 
+F 316 2 -3 it 
+- 319
+F 320 2 -1 Set 
+F 324 2 -1 me 
+F 328 4 -1 free 
+F 336 2 -1 what’s 
+F 340 2 -1 that 
+F 344 2 -1 crap 
+F 348 1 -1 pa
+F 350 1 -1 pa 
+F 352 2 -1 knew 
+F 356 2 -1 it 
+F 360 2 -1 all 
+- 363
+F 364 2 1 I 
+F 368 2 1 got 
+F 372 2 1 my 
+F 376 1 1 own 
+F 379 2 1 life 
+F 382 1 1 you 
+F 384 2 1 got 
+F 388 2 1 your 
+F 392 2 1 own 
+F 396 3 1 life 
+- 400
+F 400 2 1 Live 
+F 404 2 1 your 
+F 408 2 1 own 
+F 411 2 1 life 
+F 414 2 1 and 
+F 417 2 1 set 
+F 420 2 1 me 
+F 424 2 1 free 
+- 428
+F 432 2 1 Mind 
+F 436 2 1 your 
+F 440 2 1 busi
+F 443 2 1 ness 
+F 446 2 1 and 
+F 449 2 1 leave 
+F 452 2 1 my 
+F 455 2 1 busi
+F 458 3 1 ness 
+- 462
+F 463 1 1 You 
+F 465 2 1 know 
+F 468 1 1 eve
+F 470 1 1 ry
+F 472 2 1 thing 
+F 476 2 1 pa
+F 479 2 1 pa 
+F 482 2 1 knew 
+F 485 2 1 it 
+F 489 2 1 all 
+- 492
+F 492 2 1 Ve
+F 495 1 1 ry 
+F 497 1 1 lit
+F 499 1 1 tle 
+F 502 2 1 know
+F 505 2 1 ledge 
+F 509 2 1 is 
+F 512 2 1 dan
+F 515 2 1 ge
+F 518 2 1 rous 
+- 522
+F 531 2 1 Stop 
+F 534 1 1 bug
+F 536 2 1 ging 
+F 539 2 1 me 
+F 544 2 1 stop 
+F 549 1 1 bo
+F 551 1 1 the
+F 553 2 1 ring 
+F 556 2 1 me 
+- 560
+F 561 2 1 Stop 
+F 566 2 1 bug
+F 569 2 1 ging 
+F 572 2 1 me 
+F 576 2 1 stop 
+F 581 2 1 for
+F 584 2 1 cing 
+F 588 2 1 me 
+- 591
+F 592 2 1 Stop 
+F 596 2 1 figh
+F 600 2 1 ting 
+F 604 2 1 me 
+F 608 2 1 stop 
+F 614 2 1 yel
+F 617 2 1 ling 
+F 620 3 1 me 
+- 624
+F 624 4 1 It’s 
+F 632 5 1 my 
+F 640 8 1 life 
+- 650
+: 657 5 -5 It’s 
+* 665 5 0 my 
+* 673 7 -3 life 
+- 682
+: 721 5 -3 It’s 
+* 729 5 0 my 
+* 737 7 -1 life 
+- 746
+: 785 5 -5 It’s 
+* 793 5 0 my 
+* 801 7 -3 life 
+- 810
+: 849 5 -3 It’s 
+* 857 5 0 my 
+* 865 7 -1 life 
+- 874
+: 913 5 -5 It’s 
+* 921 5 0 my 
+* 929 7 -3 life 
+- 938
+F 941 1 1 Do 
+F 943 1 1 you 
+F 945 2 1 un
+F 949 2 1 der
+F 953 3 1 stand 
+- 957
+F 957 2 1 I 
+F 960 2 1 live 
+F 964 2 1 the 
+F 968 2 1 way 
+F 972 2 1 I 
+F 976 2 1 want 
+F 980 2 1 to 
+F 984 3 1 live 
+- 988
+F 989 2 1 I 
+F 993 2 1 make 
+F 997 2 1 de
+F 1000 2 1 ci
+F 1004 2 1 sions 
+F 1009 2 1 day 
+F 1013 2 1 and 
+F 1017 2 1 night 
+- 1021
+F 1025 2 1 Show 
+F 1029 2 1 me 
+F 1033 2 1 signs 
+F 1037 2 1 and 
+F 1041 2 1 good 
+F 1045 2 1 ex
+F 1049 2 1 amp
+F 1053 2 1 les 
+- 1056
+F 1056 2 1 Stop 
+F 1061 1 1 tel
+F 1063 1 1 ling 
+F 1065 1 1 me 
+F 1067 2 1 how 
+F 1070 2 1 to 
+F 1073 2 1 run 
+F 1076 3 1 your 
+F 1080 2 1 busi
+F 1084 3 1 ness 
+- 1088
+F 1088 2 1 Take 
+F 1092 2 1 a 
+F 1096 2 1 trip 
+F 1100 2 1 to 
+F 1104 2 1 east 
+F 1108 2 1 and 
+F 1112 3 1 west 
+- 1116
+F 1116 2 1 You 
+F 1120 2 1 find 
+F 1124 2 1 that 
+F 1128 2 1 you 
+F 1132 2 1 don’t 
+F 1136 2 1 know 
+F 1140 2 1 a
+F 1143 1 1 ny
+F 1145 2 1 thing 
+- 1149
+F 1152 2 1 Eve
+F 1156 2 1 ry’s 
+F 1160 2 1 get
+F 1164 2 1 ting 
+F 1168 3 1 tired 
+F 1173 2 1 of 
+F 1176 4 1 you 
+- 1182
+F 1184 2 1 Some
+F 1188 2 1 times 
+F 1191 1 1 you 
+F 1193 2 1 have 
+F 1196 2 1 to 
+F 1200 2 1 look 
+F 1204 2 1 and 
+F 1208 2 1 lis
+F 1212 2 1 ten 
+- 1215
+F 1216 2 1 You 
+F 1220 2 1 can 
+F 1224 2 1 e
+F 1228 2 1 ven 
+F 1232 2 1 learn 
+F 1236 2 1 from 
+F 1240 3 1 me 
+- 1245
+F 1248 2 1 Lit
+F 1252 2 1 tle 
+F 1255 2 1 know
+F 1258 2 1 ledge 
+F 1261 2 1 is 
+F 1264 2 1 dan
+F 1268 2 1 ge
+F 1272 3 1 rous 
+- 1277
+: 1297 4 -5 It’s 
+: 1305 4 0 my 
+: 1313 6 -3 life 
+- 1321
+: 1361 5 -3 It’s 
+: 1369 5 0 my 
+: 1377 6 -1 life 
+- 1385
+: 1425 4 -5 It’s 
+: 1433 4 0 my 
+: 1441 6 -3 life 
+- 1449
+: 1489 5 -3 It’s 
+: 1497 5 0 my 
+: 1505 6 -1 life 
+- 1513
+: 1553 4 -5 It’s 
+: 1561 4 0 my 
+: 1569 6 -3 life 
+- 1577
+F 1585 2 1 Set 
+F 1589 2 1 me 
+F 1593 4 1 free 
+- 1599
+F 1601 2 1 So 
+F 1605 2 1 you 
+F 1609 2 1 bed 
+- 1613
+F 1617 2 1 So 
+F 1621 2 1 you 
+F 1625 3 1 lie 
+- 1630
+F 1633 2 1 What 
+F 1637 2 1 you 
+F 1641 2 1 see 
+F 1645 2 1 is 
+F 1649 2 1 what 
+F 1653 2 1 you 
+F 1657 3 1 get 
+- 1662
+F 1665 2 1 Lis
+F 1668 2 1 ten 
+F 1671 2 1 to 
+F 1674 1 1 peo
+F 1676 1 1 ple 
+F 1678 1 1 and 
+F 1680 2 1 sort 
+F 1684 3 1 things 
+F 1690 2 1 out 
+- 1694
+F 1697 2 1 Things 
+F 1701 2 1 I 
+F 1705 2 1 do 
+F 1709 2 1 I 
+F 1713 2 1 do 
+F 1717 2 1 them 
+F 1721 2 1 no 
+F 1725 3 1 more 
+- 1729
+F 1729 2 1 Things 
+F 1733 2 1 I 
+F 1737 2 1 say 
+F 1741 2 1 I 
+F 1745 2 1 say 
+F 1749 2 1 them 
+F 1753 2 1 no 
+F 1757 2 1 more 
+- 1760
+F 1761 2 1 Chan
+F 1765 2 1 ges 
+F 1769 2 1 come 
+- 1773
+F 1777 2 1 Once 
+F 1781 2 1 in 
+F 1785 2 1 life 
+- 1789
+F 1794 2 1 Stop 
+F 1798 2 1 bug
+F 1802 2 1 ging 
+F 1805 2 1 me 
+F 1809 2 1 stop 
+F 1813 2 1 bo
+F 1816 1 1 the
+F 1818 2 1 ring 
+F 1821 2 1 me 
+- 1824
+F 1825 2 1 Stop 
+F 1830 2 1 bug
+F 1833 2 1 ging 
+F 1836 2 1 me 
+F 1840 2 1 stop 
+F 1845 2 1 for
+F 1848 2 1 cing 
+F 1852 2 1 me 
+- 1855
+F 1856 2 1 Stop 
+F 1860 2 1 figh
+F 1864 2 1 ting 
+F 1868 2 1 me 
+F 1872 2 1 stop 
+F 1878 2 1 yel
+F 1881 2 1 ling 
+F 1885 2 1 me 
+- 1888
+F 1889 2 1 Stop 
+F 1895 2 1 tel
+F 1898 2 1 ling 
+F 1901 2 1 me 
+F 1905 2 1 stop 
+F 1910 2 1 see
+F 1913 2 1 ing 
+F 1917 2 1 me 
+- 1921
+: 1937 4 -5 It’s 
+: 1945 4 0 my 
+: 1953 6 -3 life 
+- 1961
+: 2001 5 -3 It’s 
+: 2009 5 0 my 
+: 2017 6 -1 life 
+- 2025
+: 2065 4 -5 It’s 
+: 2073 4 0 my 
+: 2081 6 -3 life 
+- 2089
+: 2129 5 -3 It’s 
+: 2137 5 0 my 
+: 2145 6 -1 life 
+- 2153
+: 2193 5 -5 It’s 
+: 2201 5 0 my 
+: 2209 6 -3 life 
+- 2217
+: 2257 5 -3 It’s 
+: 2265 5 0 my 
+: 2273 6 -1 life 
+- 2281
+: 2321 4 -5 It’s 
+: 2329 4 0 my 
+: 2337 6 -3 life 
+- 2345
+: 2385 5 -3 It’s 
+: 2393 5 0 my 
+: 2401 6 -1 life 
+- 2409
+: 2961 4 -5 It’s 
+: 2969 4 0 my 
+: 2978 7 -3 life 
+- 2987
+: 3025 5 -3 It’s 
+: 3033 5 0 my 
+: 3041 6 -1 life 
+- 3049
+: 3089 4 -5 It’s 
+: 3097 4 0 my 
+: 3106 7 -3 life 
+- 3115
+: 3153 5 -3 It’s 
+: 3161 5 0 my 
+: 3169 6 -1 life 
+- 3177
+: 3217 5 -5 It’s 
+* 3225 5 0 my 
+: 3233 6 -3 life 
+- 3241
+: 3281 5 -3 It’s 
+: 3289 5 0 my 
+: 3297 6 -1 life 
+- 3305
+: 3345 5 -5 It’s 
+: 3353 5 0 my 
+: 3361 6 -3 life 
+- 3369
+: 3409 5 -3 It’s 
+* 3417 5 0 my 
+: 3425 6 -1 life 
+E

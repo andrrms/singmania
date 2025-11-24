@@ -1,0 +1,313 @@
+#ARTIST:Slayer
+#TITLE:Dead Skin Mask
+#MP3:Slayer - Dead Skin Mask.mp3
+#CREATOR:znxineohp
+#YEAR:1990
+#LANGUAGE:English
+#BPM:218
+#GAP:68130
+#VIDEO:a=eVmaqj668Fk,co=seasons-in-the-abyss-5fa25b00efd18.jpg,bg=slayer-6401c7a1c3601.jpg
+: 0 3 4 Graze 
+: 4 3 2 the 
+: 8 7 4 skin 
+: 16 4 4 with 
+: 24 7 4 my 
+: 32 3 4 fing
+: 36 3 2 er
+: 40 8 4 tips 
+- 50
+: 66 3 4 The 
+: 70 3 4 brush 
+: 74 3 2 of 
+: 78 3 4 dead 
+: 82 3 4 co
+: 86 3 2 ld 
+: 90 6 4 flesh 
+- 97
+: 98 1 2 Paci
+: 100 5 4 fies 
+: 106 1 2 the 
+: 108 10 4 means 
+- 120
+: 130 3 4 Pro
+: 134 3 4 vo
+: 138 3 2 king 
+: 142 1 4 im
+: 144 1 4 a
+: 146 5 4 ges 
+- 152
+: 152 1 4 Del
+: 154 1 4 i
+: 156 3 2 cate 
+: 160 3 4 feat
+: 164 3 4 ures 
+: 168 3 2 so 
+: 172 12 4 smooth 
+- 186
+: 196 3 4 A 
+: 200 3 4 pleas
+: 204 3 2 ant 
+: 208 3 4 frag
+: 212 3 4 rance 
+- 216
+: 216 3 4 In 
+: 220 3 2 the 
+: 224 3 4 light 
+: 228 3 4 of 
+: 232 3 2 the 
+: 236 12 4 moon 
+- 250
+: 256 7 4 Dance 
+: 264 3 4 with 
+: 268 3 4 the 
+: 272 3 5 dead 
+: 276 3 5 in 
+: 280 3 5 my 
+* 284 3 5 dreams
+* 288 20 4 ~ 
+- 310
+: 318 3 4 Lis
+: 322 3 4 ten 
+: 326 3 4 to 
+: 330 3 4 their 
+: 334 3 5 hall
+: 338 7 5 owed 
+* 346 4 5 screams
+* 352 20 4 ~ 
+- 374
+: 378 3 2 The 
+: 382 7 4 dead 
+: 390 7 4 have 
+: 398 3 5 tak
+: 402 3 5 en 
+: 406 3 5 my 
+* 410 3 5 so
+* 414 16 4 ul 
+- 432
+: 440 3 4 Tem
+: 444 7 4 pta
+: 452 7 4 tion’s 
+: 460 3 5 lost 
+: 464 3 5 all 
+* 468 3 5 con
+* 472 3 5 trol
+* 476 16 4 ~ 
+- 494
+: 512 3 4 Sim
+: 516 3 2 ple 
+: 520 11 4 smiles 
+: 532 3 2 e
+: 536 7 4 lude 
+: 544 3 4 psy
+: 548 3 4 cho
+: 552 1 2 tic 
+: 554 10 4 eyes 
+- 566
+: 578 3 4 Lose 
+: 582 3 2 all 
+: 586 7 4 mind 
+: 594 3 2 con
+: 598 7 4 trol 
+: 606 3 4 rat
+: 610 3 4 ional 
+: 614 3 2 de
+: 618 12 4 clines 
+- 632
+: 640 3 4 Emp
+: 644 3 2 ty 
+: 648 7 4 eyes 
+: 656 5 4 en
+: 662 9 4 slave 
+: 672 3 4 the 
+: 676 3 2 cre
+: 680 7 4 at
+: 688 4 4 ions 
+- 694
+: 704 3 4 Of 
+: 708 3 4 pla
+: 712 3 4 cid 
+: 716 3 4 fac
+: 720 3 4 es 
+: 724 3 2 and 
+: 728 7 4 life
+: 736 7 4 less 
+* 744 7 4 page
+* 752 36 4 ants 
+- 790
+: 896 3 4 In 
+: 900 3 4 the 
+: 904 7 4 depths 
+: 912 3 4 of 
+: 916 3 2 a 
+: 920 7 4 mind 
+: 928 7 4 in
+: 936 8 4 sane 
+- 946
+* 960 3 4 Fan
+* 964 3 4 ta
+* 968 4 4 sy 
+* 976 3 4 & 
+* 980 3 2 re
+* 984 7 4 al
+* 992 3 4 i
+* 996 4 4 ty 
+* 1002 7 10 are 
+* 1010 7 10 the 
+* 1018 52 10 same 
+- 1072
+: 2182 3 4 Graze 
+: 2186 3 2 the 
+: 2190 7 4 skin 
+: 2198 4 4 with 
+: 2206 7 4 my 
+: 2214 3 4 fing
+: 2218 3 2 er
+: 2222 8 4 tips 
+- 2232
+: 2244 3 4 The 
+: 2248 3 4 brush 
+: 2252 3 2 of 
+: 2256 3 4 dead 
+: 2260 3 4 wa
+: 2264 3 2 rm 
+: 2268 7 4 flesh 
+- 2276
+: 2276 1 2 Paci
+: 2278 5 4 fies 
+: 2284 1 2 the 
+: 2286 10 4 means 
+- 2298
+: 2306 3 4 In
+: 2310 3 2 cised
+: 2314 5 4 mem
+: 2320 5 2 bers 
+: 2326 5 4 or
+: 2332 1 2 na
+: 2334 3 4 ments 
+: 2338 5 4 on 
+: 2344 3 2 my 
+: 2348 12 4 being 
+- 2362
+: 2370 3 4 Ad
+: 2374 3 2 u
+: 2378 7 4 la
+: 2386 3 4 ting 
+: 2390 5 4 the 
+: 2396 4 2 skin 
+: 2402 7 4 be
+: 2410 7 2 fore 
+: 2418 8 4 me 
+- 2428
+: 2432 3 4 Sim
+: 2436 3 2 ple 
+: 2440 9 4 smiles 
+: 2450 5 2 e
+: 2456 7 4 lude 
+: 2464 3 4 psy
+: 2468 3 4 cho
+: 2472 1 2 tic 
+: 2474 10 4 eyes 
+- 2486
+: 2498 3 4 Lose 
+: 2502 3 2 all 
+: 2506 7 4 mind 
+: 2514 3 2 con
+: 2518 7 4 trol 
+: 2526 3 4 rat
+: 2530 3 4 ional 
+: 2534 3 2 de
+: 2538 12 4 clines 
+- 2552
+: 2560 3 4 Emp
+: 2564 3 2 ty 
+: 2568 7 4 eyes 
+: 2576 5 4 en
+: 2582 9 4 slave 
+: 2592 3 4 the 
+: 2596 3 2 cre
+: 2600 7 4 at
+: 2608 4 4 ions 
+- 2614
+: 2624 3 4 Of 
+: 2628 3 4 pla
+: 2632 3 4 cid 
+: 2636 3 4 fac
+: 2640 3 4 es 
+: 2644 3 2 and 
+: 2648 7 4 life
+: 2656 7 4 less 
+: 2664 7 4 page
+: 2672 8 4 ants 
+- 2682
+: 2684 7 4 Dance 
+: 2692 3 4 with 
+: 2696 3 4 the 
+: 2700 3 5 dead 
+: 2704 3 5 in 
+: 2708 3 5 my 
+* 2712 3 5 dre
+* 2716 20 4 ams 
+- 2738
+: 2746 3 4 Lis
+: 2750 3 4 ten 
+: 2754 3 4 to 
+: 2758 3 4 their 
+: 2762 3 5 hall
+: 2766 7 5 owed 
+* 2774 3 5 scre
+* 2778 20 4 ams 
+- 2800
+: 2806 3 2 The 
+: 2810 7 4 dead 
+: 2818 7 4 have 
+: 2826 3 5 tak
+: 2830 3 5 en 
+: 2834 3 5 my 
+* 2838 3 5 so
+* 2842 16 4 ul 
+- 2860
+: 2868 3 4 Tem
+: 2872 7 4 pta
+: 2880 5 4 tion’s 
+: 2886 3 5 lost 
+: 2890 3 5 all 
+: 2894 3 5 con
+* 2898 3 5 trol
+* 2902 20 4 ~ 
+- 2924
+: 2934 7 4 Dance 
+: 2942 3 4 with 
+: 2946 3 4 the 
+: 2950 3 5 dead 
+: 2954 3 5 in 
+: 2958 3 5 my 
+* 2962 3 5 dre
+* 2966 20 4 ams 
+- 2988
+: 2996 3 4 Lis
+: 3000 3 4 ten 
+: 3004 3 4 to 
+: 3008 3 4 their 
+: 3012 3 5 hall
+: 3016 7 5 owed 
+* 3024 3 5 scre
+* 3028 20 4 ams 
+- 3050
+: 3056 3 2 The 
+: 3060 7 4 dead 
+: 3068 7 4 have 
+: 3076 3 5 tak
+: 3080 3 5 en 
+: 3084 3 5 my 
+* 3088 3 5 so
+* 3092 16 4 ul 
+- 3110
+: 3120 3 4 Tem
+: 3124 7 4 pta
+: 3132 7 4 tion’s 
+: 3140 3 5 lost 
+: 3144 3 5 all 
+* 3148 3 5 con
+* 3152 3 5 trol
+* 3156 20 4 ~ 
+E

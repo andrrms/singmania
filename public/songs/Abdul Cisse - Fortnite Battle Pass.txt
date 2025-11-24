@@ -1,0 +1,127 @@
+#ARTIST:Abdul Cisse
+#TITLE:Fortnite Battle Pass
+#MP3:Abdul Cisse - Fortnite Battle Pass.mp3
+#CREATOR:Aircraft192
+#COVER:Abdul Cisse - Fortnite Battle Pass [CO].jpg
+#BACKGROUND:Abdul Cisse - Fortnite Battle Pass [BG].jpg
+#GENRE:Comedy
+#YEAR:2022
+#LANGUAGE:English
+#BPM:352
+#VIDEO:v=In76ShQstsw,co=https://i.scdn.co/image/ab67616d0000b273e18b253ab204ee3ed2619708,bg=https://pbs.twimg.com/media/FOaY5BjWUAAvcjO.jpg
+F 0 8 0 Now 
+F 9 1 0 I’m 
+F 11 1 0 gonna 
+F 13 5 0 perform 
+F 19 1 0 a 
+F 21 6 0 song 
+- 32
+F 34 3 0 I 
+F 38 2 0 wrote 
+F 41 3 0 for 
+F 45 4 0 you 
+F 50 6 0 guys 
+- 60
+F 62 4 0 - Oh, 
+F 67 2 0 an 
+F 70 5 0 original 
+F 76 6 0 (original) 
+F 83 4 0 song? 
+- 87
+F 88 2 0 Yeah, 
+F 91 5 0 yeah, 
+F 97 1 0 an 
+F 99 5 0 original 
+F 105 4 0 song, 
+F 110 6 0 yes. 
+- 126
+F 136 1 0 You 
+F 138 2 0 gotta 
+F 141 1 0 let 
+F 143 3 0 us 
+F 147 2 0 see 
+F 150 2 0 it 
+F 153 4 0 now! 
+F 166 2 0 Good 
+F 169 5 0 luck! 
+- 180
+F 182 7 0 Thank 
+F 190 4 0 you! 
+- 240
+: 358 5 9 Fort
+: 364 6 9 nite 
+: 373 5 9 battle 
+* 381 12 7 pass
+F 394 6 -4 ~ 
+- 405
+: 407 6 9 I 
+: 414 5 9 just 
+: 420 10 9 shit 
+- 433
+: 435 7 9 Out 
+: 443 2 5 my 
+* 446 11 7 ass
+F 458 5 -3 ~ 
+- 468
+: 470 4 7 Booted 
+: 475 5 7 up 
+: 481 2 7 my 
+: 484 5 9 P
+: 490 7 5 C, 
+- 505
+: 508 5 5 ’Cause 
+: 514 5 7 I 
+: 520 4 9 need, 
+: 525 8 5 need 
+- 536
+: 538 2 5 To 
+: 541 2 5 get 
+: 544 4 4 that 
+: 549 4 9 Fort
+: 554 8 4 nite 
+: 563 9 9 battle 
+* 573 12 7 pass
+F 586 6 -5 ~ 
+- 598
+: 601 3 5 I 
+: 605 5 5 like 
+: 611 5 9 Fort
+: 617 10 5 nite, 
+- 627
+: 629 3 5 Did 
+: 633 2 5 I 
+: 636 3 5 men
+: 640 5 4 tion 
+: 646 5 9 Fort
+: 652 6 4 nite? 
+F 662 6 0 (Yeah!) 
+- 668
+: 669 2 5 I 
+: 672 6 9 like 
+: 679 4 9 Fort
+: 684 7 5 nite, 
+: 700 6 5 it’s 
+: 707 8 9 night 
+: 716 7 5 time 
+- 726
+: 728 4 5 I 
+: 733 3 5 mean 
+: 737 3 5 it’s 
+: 741 4 9 five 
+: 746 1 5 o’ 
+: 748 4 5 clock, 
+: 753 4 9 that’s 
+: 758 2 9 ba
+: 761 2 7 si
+: 764 7 5 cally 
+: 772 3 9 night 
+- 775
+: 776 5 9 Time 
+: 792 8 9 Y’all 
+: 801 3 7 re 
+: 805 7 9 member 
+: 813 7 9 Cartoon 
+: 821 9 7 Network, 
+: 831 11 9 Adventure 
+* 843 19 7 Time 
+E

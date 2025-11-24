@@ -1,0 +1,242 @@
+#ARTIST:The Polar Express
+#TITLE:When Christmas Comes To Town
+#MP3:The Polar Express - When Christmas Comes To Town.mp3
+#CREATOR:seanie627
+#YEAR:2004
+#LANGUAGE:English
+#BPM:326.16
+#GAP:4930
+#VIDEO:v=uKwwpmC02IQ,co=https://i.scdn.co/image/ab67616d0000b2730136903a49a84b5994b56fbc,tags=Christmas
+: 0 7 -2 I’m 
+: 9 4 3 wish
+: 17 5 -2 ing 
+: 25 4 5 on 
+: 32 4 -2 a 
+: 41 13 7 star 
+- 56
+: 70 7 -2 And 
+: 79 5 3 try
+: 87 5 -2 ing 
+: 96 5 -4 to 
+: 106 6 -2 be
+: 115 11 -5 lieve 
+- 128
+: 143 5 -2 That 
+: 151 6 3 e
+: 160 6 -2 ven 
+: 169 5 5 though 
+: 178 5 -2 it’s 
+: 187 12 7 far 
+- 201
+: 218 6 -2 He’ll 
+: 228 6 3 find 
+: 237 5 -2 me 
+: 244 6 -4 Christ
+: 254 5 -2 mas 
+: 262 10 -5 Eve 
+- 274
+: 290 5 7 I 
+: 299 5 8 guess 
+: 307 5 8 that 
+: 315 5 8 San
+: 324 7 7 ta’s 
+: 334 5 7 bu
+: 342 8 5 sy 
+- 352
+: 363 2 3 ’Cause 
+: 367 2 5 he’s 
+: 371 6 7 ne
+: 379 5 5 ver 
+: 388 5 7 come 
+: 395 2 10 a
+: 401 12 3 round 
+- 415
+: 434 7 10 I 
+: 444 4 8 think 
+: 451 5 7 of 
+: 461 8 3 him 
+- 471
+: 475 4 10 When 
+: 480 6 8 Christ
+: 489 6 7 mas 
+: 499 10 5 comes 
+: 512 2 3 to 
+* 516 37 3 town 
+- 555
+: 582 3 -2 The 
+: 588 5 3 best 
+: 597 5 -2 time 
+: 606 5 5 of 
+: 615 6 -2 the 
+: 624 12 7 year 
+- 638
+: 652 6 -2 When 
+: 660 6 3 e
+: 669 5 -2 very
+: 677 6 -4 one 
+: 686 6 -2 comes 
+: 696 13 -5 home 
+- 711
+: 726 4 -2 With 
+: 732 5 3 all 
+: 742 6 -2 this 
+: 751 5 5 Christ
+: 760 7 10 mas 
+* 770 18 7 cheer 
+- 790
+: 798 5 -2 It’s 
+: 807 7 3 hard 
+: 816 5 -2 to 
+: 824 7 -4 be 
+: 833 3 -2 a
+: 840 16 -5 lone 
+- 858
+: 877 7 8 Put
+: 887 2 8 ting 
+* 892 12 8 up 
+: 907 3 7 the 
+: 913 7 7 Christ
+: 923 6 5 mas 
+: 932 9 5 tree 
+- 943
+: 946 3 -2 With 
+: 952 7 7 friends 
+: 961 6 5 who 
+: 969 6 7 come 
+: 977 4 10 a
+: 983 21 3 round 
+- 1006
+: 1015 6 -2 It’s 
+: 1024 5 8 so 
+: 1032 5 7 much 
+: 1040 10 3 fun 
+- 1052
+: 1055 4 10 When 
+: 1061 6 8 Chris
+: 1070 5 7 tmas 
+: 1078 12 5 comes 
+: 1093 2 3 to 
+* 1097 43 3 town 
+- 1142
+: 1169 6 3 Pre
+: 1177 5 3 sents 
+: 1185 7 3 for 
+: 1197 4 6 the 
+: 1204 9 5 chi
+: 1214 4 3 ~l
+: 1219 10 1 dre
+: 1230 4 -1 ~n 
+- 1236
+: 1239 7 1 Wrapped 
+: 1249 2 1 in 
+: 1254 7 1 red 
+: 1264 9 5 and 
+: 1276 19 3 green 
+- 1297
+: 1312 8 3 All 
+: 1322 3 3 the 
+: 1327 7 3 things 
+: 1338 7 6 I’ve 
+: 1348 8 5 heard 
+: 1358 2 3 a
+: 1363 7 1 bout 
+- 1372
+: 1376 6 -1 But 
+: 1385 8 1 ne
+: 1396 2 1 ver 
+: 1400 6 1 real
+: 1409 6 5 ly 
+: 1420 13 6 seen 
+- 1435
+: 1459 6 3 No 
+: 1468 6 3 one 
+: 1477 6 3 will 
+: 1486 6 3 be 
+: 1495 5 5 sleep
+: 1503 6 5 ing 
+: 1513 9 5 on 
+- 1524
+: 1527 3 -2 The 
+: 1531 9 6 night 
+: 1542 4 5 of 
+: 1549 4 3 Christ
+: 1556 4 5 mas 
+: 1563 10 6 Eve 
+- 1575
+: 1585 5 6 Ho
+: 1594 6 8 ping 
+: 1604 12 9 San
+: 1622 14 9 ta’s 
+: 1641 17 9 on 
+- 1660
+: 1668 6 9 His 
+* 1678 52 11 way 
+- 1732
+: 1743 5 -2 When 
+: 1750 6 3 San
+: 1758 5 -2 ta’s 
+: 1766 6 5 sleigh 
+: 1775 5 -2 bells 
+: 1784 15 7 ring 
+- 1801
+: 1811 5 -2 I 
+: 1820 6 3 lis
+: 1829 6 -2 ten 
+: 1837 5 -4 all 
+: 1846 5 -2 a
+: 1855 13 -5 round 
+- 1870
+: 1883 6 -2 The 
+: 1892 5 4 he
+: 1900 6 -2 rald 
+: 1909 5 5 an
+* 1917 6 10 gels 
+: 1927 16 7 sing 
+- 1945
+: 1955 6 -2 I 
+: 1964 5 3 ne
+: 1973 6 -2 ver 
+: 1982 6 -4 hear 
+: 1991 4 -2 a 
+: 1999 14 -5 sound 
+- 2015
+: 2031 4 -2 And 
+: 2037 8 8 all 
+: 2047 2 8 the 
+* 2051 10 8 dreams 
+: 2064 5 7 of 
+: 2072 5 7 chil
+: 2081 11 5 dren 
+- 2094
+: 2102 6 -2 Once 
+: 2111 8 7 lost 
+: 2121 3 5 will 
+: 2127 6 7 all 
+: 2135 5 10 be 
+: 2143 15 3 found 
+- 2160
+: 2174 6 -2 That’s 
+: 2183 4 8 all 
+: 2191 6 7 I 
+: 2200 10 3 want 
+- 2212
+: 2215 3 -2 When 
+: 2219 5 8 Christ
+: 2228 4 7 mas 
+: 2237 13 5 comes 
+: 2251 2 3 to 
+* 2256 34 3 town 
+- 2292
+: 2356 6 -2 That’s 
+: 2365 5 8 all 
+: 2374 6 7 I 
+: 2383 8 3 want 
+- 2393
+: 2396 5 -2 When 
+: 2402 4 8 Christ
+: 2411 6 7 mas 
+* 2419 30 5 comes 
+- 2451
+: 2466 3 3 To 
+* 2471 75 3 town 
+E

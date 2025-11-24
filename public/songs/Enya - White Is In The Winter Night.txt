@@ -1,0 +1,362 @@
+#ARTIST:Enya
+#TITLE:White Is In The Winter Night
+#MP3:Enya - White Is In The Winter Night.mp3
+#CREATOR:michas17j
+#YEAR:2008
+#LANGUAGE:English
+#BPM:342.84
+#GAP:17500
+#VIDEO:v=AVUnEhjILNs,co=https://image.jimcdn.com/app/cms/image/transf/dimension=origxorig:format=jpg/path/s506665aa270d1b56/image/i6e16727c7aca821f/version/1444573537/white-is-in-the-winter-night-04-11-2008.jpg,bg=enya-4ddf9f6a453b8.jpg
+: 0 4 3 Have 
+: 8 4 4 you 
+: 16 4 6 seen 
+: 24 4 3 the 
+: 32 4 -1 mis
+: 40 4 4 tle
+: 48 4 3 toe? 
+- 54
+: 56 4 1 It 
+: 64 4 3 fills 
+: 72 4 4 the 
+: 80 4 6 night 
+: 88 4 3 with 
+: 96 12 -1 kis
+: 112 4 1 ses 
+- 118
+: 128 4 3 Have 
+: 136 4 4 you 
+: 144 4 6 seen 
+: 152 4 3 the 
+: 160 4 -1 bright 
+: 168 4 4 new 
+: 176 4 3 star? 
+- 182
+: 184 4 1 It 
+: 192 4 3 fills 
+: 200 4 4 your 
+: 208 4 1 heart 
+: 216 4 3 with 
+: 224 12 -1 wi
+: 240 4 -1 shes 
+- 246
+: 256 4 3 Have 
+: 264 4 4 you 
+: 272 4 6 seen 
+: 280 4 3 the 
+: 288 4 -1 can
+: 296 4 4 dle
+: 304 4 3 light? 
+- 310
+: 312 4 1 It 
+: 320 4 3 shines 
+: 328 4 4 from 
+: 336 4 6 eve
+: 344 4 3 ry 
+: 352 12 -1 win
+: 368 4 1 dow 
+- 374
+: 384 4 3 Have 
+: 392 4 4 you 
+: 400 4 6 seen 
+: 408 4 3 the 
+: 416 4 -1 moon 
+: 424 4 4 a
+: 432 4 3 bove? 
+- 438
+: 440 4 1 It 
+: 448 4 3 lights 
+: 456 4 4 the 
+: 464 4 1 sky 
+: 472 4 3 in 
+: 480 12 -1 sil
+: 496 4 -1 ver 
+- 502
+: 512 4 6 Green 
+: 520 4 6 is 
+: 528 4 10 in 
+: 536 4 10 the 
+: 544 4 11 mis
+: 552 4 10 tle
+: 560 4 6 toe 
+- 566
+: 568 4 4 And 
+: 576 4 6 red 
+: 584 4 6 is 
+: 592 4 10 in 
+: 600 4 10 the 
+: 608 12 11 hol
+: 624 4 13 ly 
+- 630
+: 640 4 6 Sil
+: 648 4 6 ver 
+: 656 4 10 in 
+: 664 4 10 the 
+: 672 4 11 stars 
+: 680 4 10 a
+: 688 4 6 bove 
+- 694
+: 696 4 -1 That 
+: 704 4 3 shine 
+: 712 4 4 on 
+: 720 4 1 eve
+: 728 4 3 ry
+: 736 12 -1 bo
+: 752 4 -1 dy 
+- 758
+: 768 4 6 Gold 
+: 776 4 6 is 
+: 784 4 10 in 
+: 792 4 10 the 
+: 800 4 11 can
+: 808 4 10 dle
+: 816 4 6 light 
+- 822
+: 824 4 1 And 
+: 832 4 6 crim
+: 840 4 6 son 
+: 848 4 10 in 
+: 856 4 10 the 
+: 864 12 11 em
+: 880 4 13 bers 
+- 886
+: 896 4 6 White 
+: 904 4 6 is 
+: 912 4 10 in 
+: 920 4 10 the 
+: 928 4 11 win
+: 936 4 10 ter 
+: 944 4 6 night 
+- 950
+: 952 4 -1 That 
+: 960 4 3 eve
+: 968 4 4 ry
+: 976 4 1 one 
+: 984 4 3 re
+: 992 12 -1 mem
+: 1008 4 -1 bers 
+- 1014
+: 1024 4 3 Have 
+: 1032 4 4 you 
+: 1040 4 6 heard 
+: 1048 4 3 the 
+: 1056 4 -1 boys 
+: 1064 4 4 all 
+: 1072 4 3 sigh 
+- 1078
+: 1080 4 1 When 
+: 1088 4 3 all 
+: 1096 4 4 the 
+: 1104 4 6 girls 
+: 1112 4 3 are 
+: 1120 12 -1 ska
+: 1136 4 1 ting? 
+- 1142
+: 1152 4 3 Have 
+: 1160 4 4 you 
+: 1168 4 6 heard 
+: 1176 4 3 the 
+: 1184 4 -1 sweet
+: 1192 4 4 heart’s 
+: 1200 4 3 cry 
+: 1208 4 1 for 
+- 1214
+: 1216 4 3 All 
+: 1224 4 4 this 
+: 1232 4 1 time 
+: 1240 4 3 they’re 
+: 1248 12 -1 wai
+: 1264 4 -1 ting? 
+- 1270
+: 1568 4 6 Green 
+: 1576 4 6 is 
+: 1584 4 10 in 
+: 1592 4 10 the 
+: 1600 4 11 mis
+: 1608 4 10 tle
+: 1616 4 6 toe 
+- 1622
+: 1624 4 4 And 
+: 1632 4 6 red 
+: 1640 4 6 is 
+: 1648 4 10 in 
+: 1656 4 10 the 
+: 1664 12 11 hol
+: 1680 4 13 ly 
+- 1686
+: 1696 4 6 Sil
+: 1704 4 6 ver 
+: 1712 4 10 in 
+: 1720 4 10 the 
+: 1728 4 11 stars 
+: 1736 4 10 a
+: 1744 4 8 bove 
+- 1750
+: 1752 4 -1 That 
+: 1760 4 3 shine 
+: 1768 4 4 on 
+: 1776 4 1 eve
+: 1784 4 3 ry
+: 1792 12 -1 bo
+: 1808 8 -1 dy 
+- 1818
+: 1824 4 6 Gold 
+: 1832 4 6 is 
+: 1840 4 10 in 
+: 1848 4 10 the 
+: 1856 4 11 can
+: 1864 4 10 dle
+: 1872 4 6 light 
+- 1878
+: 1880 4 4 And 
+: 1888 4 6 crim
+: 1896 4 6 son 
+: 1904 4 10 in 
+: 1912 4 10 the 
+: 1920 12 11 em
+: 1936 4 13 bers 
+- 1942
+: 1952 4 6 White 
+: 1960 4 6 is 
+: 1968 4 10 in 
+: 1976 4 10 the 
+: 1984 4 11 win
+: 1992 4 10 ter 
+: 2000 4 8 night 
+- 2006
+: 2008 4 -1 That 
+: 2016 4 3 eve
+: 2024 4 4 ry
+: 2032 4 1 one 
+: 2040 4 3 re
+: 2048 8 -1 mem
+: 2064 8 -1 bers 
+- 2074
+: 2080 4 3 Have 
+: 2088 4 4 you 
+: 2096 4 6 seen 
+: 2104 4 3 the 
+: 2112 4 -1 chil
+: 2120 4 4 dren 
+: 2128 4 3 play
+: 2136 4 1 ing? 
+- 2142
+: 2144 4 3 Ti
+: 2152 4 4 ny 
+: 2160 4 6 hands 
+: 2168 4 3 are 
+: 2176 12 -1 fro
+: 2192 4 1 zen! 
+- 2198
+: 2208 4 3 Have 
+: 2216 4 4 you 
+: 2224 4 6 seen 
+: 2232 4 3 them 
+: 2240 4 -1 hur
+: 2248 4 4 ry 
+: 2256 4 3 home 
+- 2262
+: 2264 4 1 When 
+: 2272 4 3 sud
+: 2280 4 4 den
+: 2288 4 1 ly 
+: 2296 4 3 it’s 
+: 2304 12 -1 snow
+: 2320 20 -1 ing! 
+- 2342
+: 2624 4 7 Green 
+: 2632 4 7 is 
+: 2640 4 11 in 
+: 2648 4 11 the 
+: 2656 4 12 mis
+: 2664 4 11 tle
+: 2672 4 7 toe 
+- 2678
+: 2680 4 4 And 
+: 2688 4 7 red 
+: 2696 4 7 is 
+: 2704 4 11 in 
+: 2712 4 11 the 
+: 2720 12 12 hol
+: 2736 4 14 ly 
+- 2742
+: 2752 4 7 Sil
+: 2760 4 7 ver 
+: 2768 4 11 in 
+: 2776 4 11 the 
+: 2784 4 12 stars 
+: 2792 4 11 a
+: 2800 4 7 bove 
+- 2806
+: 2808 4 0 That 
+: 2816 4 4 shine 
+: 2824 4 5 on 
+: 2832 4 2 eve
+: 2840 4 4 ry
+: 2848 12 0 bo
+: 2864 4 0 dy 
+- 2870
+: 2880 4 7 Gold 
+: 2888 4 7 is 
+: 2896 4 11 in 
+: 2904 4 11 the 
+: 2912 4 12 can
+: 2920 4 11 dle
+: 2928 4 7 light 
+- 2934
+: 2936 4 4 And 
+: 2944 4 7 crim
+: 2952 4 7 son 
+: 2960 4 11 in 
+: 2968 4 11 the 
+: 2976 12 12 em
+: 2992 4 14 bers 
+- 2998
+: 3008 4 7 White 
+: 3016 4 7 is 
+: 3024 4 11 in 
+: 3032 4 11 the 
+: 3040 4 13 win
+: 3048 4 11 ter 
+: 3056 4 8 night 
+- 3062
+: 3064 4 0 That 
+: 3072 4 4 eve
+: 3080 4 5 ry
+: 3088 4 2 one 
+: 3096 4 4 re
+: 3104 12 0 mem
+: 3120 4 0 bers 
+- 3126
+: 3136 4 4 Have 
+: 3144 4 5 you 
+: 3152 4 7 heard 
+: 3160 4 4 the 
+: 3168 4 0 bells 
+: 3176 4 5 are 
+: 3184 4 4 ring
+: 3192 4 2 ing 
+- 3198
+: 3200 4 4 Ring
+: 3208 4 5 ing 
+: 3216 4 7 out 
+: 3224 4 4 their 
+: 3232 12 0 sto
+: 3248 4 2 ry? 
+- 3254
+: 3264 4 4 Have 
+: 3272 4 5 you 
+: 3280 4 7 heard 
+: 3288 4 4 the 
+: 3296 4 0 choi
+: 3304 4 5 ~r 
+: 3312 4 4 sing
+: 3320 4 2 ing? 
+- 3326
+: 3328 6 12 Glo
+: 3336 6 12 ry! 
+: 3344 6 11 Glo
+: 3352 6 11 ry! 
+- 3360
+F 3364 14 12 Glo
+F 3384 12 12 ry! 
+E

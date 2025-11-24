@@ -1,0 +1,57 @@
+#ARTIST:Neal Hefti
+#TITLE:Batman Theme (TV)
+#MP3:Neal Hefti - Batman Theme (TV).mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1966
+#LANGUAGE:English
+#BPM:312
+#GAP:37020
+#VIDEO:a=N6Cfy58-zPU,co=batman-theme-and-19-hefti-bat-songs-5106cf93c336d.jpg,bg=https://www.themoviedb.org/t/p/original/negxMFZbug4I6QX20q8vWxidszw.jpg
+: 0 4 19 Bat
+: 8 14 19 man! 
+- 24
+: 64 4 19 Bat
+: 72 14 19 man! 
+- 88
+: 130 4 24 Bat
+: 138 14 24 man! 
+- 154
+: 194 4 19 Bat
+: 202 14 19 man! 
+- 218
+* 258 6 26 Bat
+* 268 14 26 man! 
+- 284
+: 290 6 24 Bat
+: 300 14 24 man! 
+- 316
+: 324 4 19 Bat
+: 332 14 19 man! 
+- 348
+* 388 6 26 Bat
+* 398 14 26 man! 
+- 414
+: 420 6 24 Bat
+: 430 14 24 man! 
+- 446
+: 454 4 19 Bat
+: 462 14 19 man! 
+- 478
+: 504 2 24 Da
+: 508 2 24 da
+: 512 2 25 da
+: 516 2 25 da
+: 520 2 26 da
+: 524 2 26 da
+: 528 2 25 da
+: 532 2 25 da
+: 536 2 24 da
+: 540 2 24 da
+: 544 2 25 da
+: 548 2 25 da, 
+* 552 4 26 da! 
+- 558
+: 570 4 31 Bat
+* 578 42 31 man! 
+E

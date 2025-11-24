@@ -1,0 +1,345 @@
+#ARTIST:The Soulful Dynamics
+#TITLE:Coconuts From Congoville
+#MP3:The Soulful Dynamics - Coconuts From Congoville.mp3
+#CREATOR:Fepo
+#COVER:The Soulful Dynamics - Coconuts From Congoville [CO].jpg
+#BACKGROUND:The Soulful Dynamics - Coconuts From Congoville [BG].jpg
+#GENRE:Pop
+#YEAR:1972
+#LANGUAGE:English
+#BPM:255.09
+#GAP:8240
+#VIDEO:v=2oIKRgikcrw,co=https://media.hitparade.ch/cover/big/the_soulful_dynamics-coconuts_from_congoville_s.jpg
+: 0 2 -3 Ji
+: 4 2 -3 mi 
+: 8 2 -3 has 
+: 12 2 -3 a 
+: 16 4 1 par
+: 22 4 -3 rot 
+- 26
+: 28 4 4 He’s 
+: 35 5 4 sel
+: 42 3 6 ling 
+: 47 2 1 co
+: 50 2 -1 co
+: 54 6 -3 nuts 
+- 61
+: 63 2 1 Co
+: 67 9 1 co, 
+: 79 2 -1 co
+: 83 5 -1 co
+: 90 3 -3 ~
+: 95 5 -3 nuts 
+- 110
+: 127 2 -3 Ear
+: 131 2 -1 ly 
+: 135 2 -3 in 
+: 139 2 -3 the 
+* 143 6 1 mor
+: 151 3 -3 ning 
+- 154
+: 155 6 4 He’s 
+: 163 5 4 plu
+: 170 3 6 cking 
+: 175 2 1 co
+: 178 2 -1 co
+: 182 5 -3 nuts 
+- 188
+: 190 2 1 Co
+: 194 9 1 co, 
+: 206 2 -1 co
+: 210 5 -1 co
+: 217 3 -3 ~
+: 222 5 -3 nuts 
+- 237
+: 255 4 -1 And 
+: 261 3 -1 he 
+: 266 2 -1 is 
+: 270 5 4 shou
+: 277 6 -1 ting 
+- 283
+: 285 2 1 Lou
+: 289 3 1 der 
+: 294 2 1 than 
+: 298 2 1 the 
+: 302 6 4 o
+: 310 3 1 thers 
+- 315
+: 317 2 2 Laid 
+: 321 2 2 down 
+: 325 2 2 on 
+: 329 2 2 the 
+: 333 2 4 mar
+: 337 6 6 ket
+: 345 6 4 place 
+- 351
+: 353 2 4 La 
+: 357 2 4 la 
+: 361 2 4 la 
+- 367
+: 369 3 2 All 
+: 374 2 2 the 
+* 377 30 4 day 
+- 411
+: 413 10 1 Co
+: 425 2 -1 co
+: 429 5 -3 nuts 
+: 436 7 1 from 
+: 445 6 2 Con
+: 453 5 2 go
+: 460 10 2 ville 
+- 474
+: 476 11 -1 Gro
+: 489 3 -3 wing 
+: 494 4 -4 up 
+: 501 2 -1 on 
+: 505 2 -1 a 
+: 509 5 1 sun
+: 516 7 1 ny 
+: 525 8 1 hill 
+- 539
+: 541 2 1 Co
+: 545 2 -1 co
+: 549 4 -3 nuts, 
+: 556 2 1 co
+: 560 2 -1 co
+: 564 4 -3 nuts, 
+: 572 2 6 co
+: 576 2 4 co
+: 580 4 2 nuts, 
+: 588 2 6 co
+: 592 2 4 co
+: 596 4 2 nuts 
+- 602
+: 604 2 1 Co
+: 608 2 2 co
+: 612 4 4 nuts 
+* 620 6 4 from 
+: 628 3 1 Con
+: 633 6 -1 go
+: 642 9 -3 ville 
+- 685
+: 772 2 -3 Eve
+: 776 2 -3 ry
+: 780 2 -3 bo
+: 784 2 -3 dy 
+: 788 6 1 loves 
+: 796 4 -3 him 
+- 800
+: 801 5 4 Down 
+: 808 5 4 there 
+: 816 2 6 in 
+: 820 2 1 Con
+: 824 2 -1 go
+: 828 7 -3 ville 
+- 835
+: 837 2 1 Co
+: 841 9 1 co, 
+: 853 2 -1 co
+: 857 5 -1 co
+: 864 3 -3 ~
+: 869 5 -3 nuts 
+- 884
+: 900 2 -3 You 
+: 904 2 -3 can 
+: 908 4 -3 see 
+: 916 5 1 chil
+: 924 3 -3 dren 
+- 927
+: 929 5 4 Dan
+: 936 2 4 cing 
+: 940 3 4 ’round 
+: 945 2 6 his 
+: 949 3 1 pa
+: 953 2 -1 ~r
+: 956 4 -3 rot 
+- 963
+: 965 2 1 Co
+: 969 9 1 co, 
+: 981 2 -1 co
+: 985 5 -1 co
+: 992 3 -3 ~
+: 997 5 -3 nuts 
+- 1012
+: 1029 2 -1 You 
+: 1033 2 -1 will 
+: 1037 2 -1 hear 
+: 1041 2 -1 them 
+: 1045 6 4 sing
+: 1053 3 -1 ing 
+- 1056
+: 1057 6 1 Eve
+: 1065 2 1 ry
+: 1069 2 1 bo
+: 1073 2 1 dy’s 
+: 1077 7 4 swing
+: 1086 5 1 ing 
+- 1091
+: 1093 2 2 He 
+: 1097 2 2 is 
+: 1101 2 2 dan
+: 1105 2 2 cing 
+: 1109 2 4 on 
+: 1113 5 6 his 
+: 1121 9 4 place 
+- 1131
+: 1133 2 4 La 
+: 1137 2 4 la 
+: 1141 2 4 la 
+- 1143
+: 1145 3 2 All 
+: 1150 2 2 the 
+* 1153 30 4 day 
+- 1188
+: 1190 10 1 Co
+: 1202 2 -1 co
+: 1206 5 -3 nuts 
+: 1213 7 1 from 
+: 1222 6 2 Con
+: 1230 5 2 go
+: 1237 10 2 ville 
+- 1252
+: 1254 11 -1 Gro
+: 1267 3 -3 wing 
+: 1272 4 -4 up 
+: 1279 2 -1 on 
+: 1283 2 -1 a 
+: 1287 5 1 sun
+: 1294 7 1 ny 
+: 1303 8 1 hill 
+- 1316
+: 1318 2 1 Co
+: 1322 2 -1 co
+: 1326 4 -3 nuts, 
+: 1333 2 1 co
+: 1337 2 -1 co
+: 1341 4 -3 nuts, 
+: 1349 2 6 co
+: 1353 2 4 co
+: 1357 4 2 nuts, 
+: 1365 2 6 co
+: 1369 2 4 co
+: 1373 4 2 nuts 
+- 1380
+: 1382 2 1 Co
+: 1386 2 2 co
+: 1390 4 4 nuts 
+* 1398 6 4 from 
+: 1406 3 1 Con
+: 1411 6 -1 go
+: 1420 9 -3 ville 
+- 1439
+: 1455 10 1 Co
+: 1467 2 -1 co
+: 1471 5 -3 nuts 
+: 1478 7 1 from 
+: 1487 6 2 Con
+: 1495 5 2 go
+: 1502 10 2 ville 
+- 1518
+: 1520 11 -1 Gro
+: 1533 3 -3 wing 
+: 1538 4 -4 up 
+: 1545 2 -1 on 
+: 1549 2 -1 a 
+: 1553 5 1 sun
+: 1560 7 1 ny 
+: 1569 8 1 hill 
+- 1582
+: 1584 2 1 Co
+: 1588 2 -1 co
+: 1592 4 -3 nuts, 
+: 1599 2 1 co
+: 1603 2 -1 co
+: 1607 4 -3 nuts, 
+: 1615 2 6 co
+: 1619 2 4 co
+: 1623 4 2 nuts, 
+: 1631 2 6 co
+: 1635 2 4 co
+: 1639 4 2 nuts 
+- 1647
+: 1649 2 1 Co
+: 1653 2 2 co
+: 1657 4 4 nuts 
+* 1665 6 4 from 
+: 1673 3 1 Con
+: 1678 6 -1 go
+: 1687 9 -3 ville 
+- 1706
+: 1722 10 1 Co
+: 1734 2 -1 co
+: 1738 5 -3 nuts 
+: 1745 7 1 from 
+: 1754 6 2 Con
+: 1762 5 2 go
+: 1769 10 2 ville 
+- 1784
+: 1786 11 -1 Gro
+: 1799 3 -3 wing 
+: 1804 4 -4 up 
+: 1811 2 -1 on 
+: 1815 2 -1 a 
+: 1819 5 1 sun
+: 1826 7 1 ny 
+: 1835 8 1 hill 
+- 1848
+: 1850 2 1 Co
+: 1854 2 -1 co
+: 1858 4 -3 nuts, 
+: 1865 2 1 co
+: 1869 2 -1 co
+: 1873 4 -3 nuts, 
+: 1881 2 6 co
+: 1885 2 4 co
+: 1889 4 2 nuts, 
+: 1897 2 6 co
+: 1901 2 4 co
+: 1905 4 2 nuts 
+- 1914
+: 1916 2 1 Co
+: 1920 2 2 co
+: 1924 4 4 nuts 
+* 1932 6 4 from 
+: 1940 3 1 Con
+: 1945 6 -1 go
+: 1954 8 -3 ville 
+- 1972
+: 1988 10 1 Co
+: 2000 2 -1 co
+: 2004 5 -3 nuts 
+: 2011 7 1 from 
+: 2020 6 2 Con
+: 2028 5 2 go
+: 2035 10 2 ville 
+- 2050
+: 2052 11 -1 Gro
+: 2065 3 -3 wing 
+: 2070 4 -4 up 
+: 2077 2 -1 on 
+: 2081 2 -1 a 
+: 2085 5 1 sun
+: 2092 7 1 ny 
+: 2101 8 1 hill 
+- 2114
+: 2116 2 1 Co
+: 2120 2 -1 co
+: 2124 4 -3 nuts, 
+: 2131 2 1 co
+: 2135 2 -1 co
+: 2139 4 -3 nuts, 
+: 2147 2 6 co
+: 2151 2 4 co
+: 2155 4 2 nuts, 
+: 2163 2 6 co
+: 2167 2 4 co
+: 2171 4 2 nuts 
+- 2178
+: 2180 2 1 Co
+: 2184 2 2 co
+: 2188 4 4 nuts 
+* 2196 6 4 from 
+: 2204 3 1 Con
+: 2209 6 -1 go
+: 2218 7 -3 ville 
+E

@@ -1,0 +1,142 @@
+#ARTIST:Lil Yachty
+#TITLE:Poland
+#MP3:Lil Yachty - Poland.mp3
+#CREATOR:Viktor1234678
+#YEAR:2022
+#LANGUAGE:English
+#BPM:300
+#GAP:3930
+#VIDEO:v=s9PzYuVwCSE,co=poland-68e369a82f327.jpg
+: 0 2 0 To 
+: 4 4 0 Po
+: 11 10 -2 land 
+- 23
+: 52 3 -2 I 
+: 57 3 -2 took 
+: 62 3 -2 the 
+: 67 20 2 Wock’
+: 90 17 3 ~ 
+: 127 3 0 to 
+: 132 6 0 Po
+: 140 9 -2 land 
+- 151
+: 180 3 -2 I 
+: 185 3 -2 took 
+: 190 3 -2 the 
+: 195 20 2 Wock’
+: 218 17 3 ~ 
+: 255 3 0 to 
+: 260 6 0 Po
+: 268 9 -2 land 
+- 279
+: 309 3 -2 I 
+: 314 3 -2 took 
+: 319 3 -2 the 
+: 324 20 2 Wock’
+: 347 17 3 ~ 
+: 384 3 0 to 
+: 389 6 0 Po
+: 397 9 -2 land 
+- 408
+: 491 3 5 I 
+: 495 2 3 been 
+: 499 4 7 fien
+: 506 6 7 ding, 
+: 523 3 5 like 
+: 527 3 3 I’m 
+: 532 5 7 Ke
+: 539 5 7 nan 
+- 546
+: 548 2 5 Ride 
+: 551 2 5 around 
+: 555 3 5 with 
+: 559 3 3 a 
+: 564 4 7 Kel
+: 571 5 5 -Tec 
+- 578
+: 587 3 5 If 
+: 591 3 3 you 
+: 596 5 7 mean 
+: 603 5 7 it, 
+: 611 1 5 baby
+: 613 1 5 ~ 
+: 615 2 5 girl, 
+: 619 3 5 do 
+: 623 2 3 you 
+: 627 6 7 mean 
+: 635 5 7 it? 
+- 642
+: 652 2 5 I 
+: 655 3 3 been 
+: 660 4 7 lea
+: 667 5 7 ning, 
+: 675 1 5 baby
+: 677 1 5 ~ 
+: 679 4 5 girl, 
+: 684 3 5 I 
+: 688 3 3 been 
+: 692 5 7 lea
+: 700 4 7 ning 
+- 706
+: 781 2 5 Phone 
+: 784 2 3 still 
+: 788 5 7 rin
+: 796 4 5 ging, 
+: 803 2 5 batt
+: 807 2 5 ling 
+: 811 3 5 all 
+: 815 3 3 my 
+: 820 5 7 de
+: 827 5 5 mons 
+- 834
+: 844 2 5 I 
+: 847 3 3 been 
+: 852 4 7 fien
+: 860 4 5 ding, 
+: 867 1 5 baby
+: 869 1 5 ~ 
+: 871 3 5 girl, 
+: 875 3 5 I 
+: 879 3 3 been 
+: 883 6 7 fien
+: 891 5 5 ding 
+- 898
+: 908 2 5 Hope 
+: 912 2 3 you 
+: 916 4 7 love 
+: 924 4 5 me, 
+: 931 1 5 ba
+: 933 1 5 by, 
+: 935 3 5 I 
+: 940 2 5 hope 
+: 944 2 3 you 
+: 948 5 7 mean 
+: 952 2 5 it 
+- 955
+F 955 1 -2 I 
+F 957 1 -2 took 
+F 959 2 -2 the 
+: 962 13 2 Wock’
+: 987 13 3 ~ 
+: 1024 2 0 to 
+: 1028 5 0 Po
+: 1036 12 -2 land 
+- 1050
+: 1076 3 -2 I 
+: 1081 3 -2 took 
+: 1086 3 -2 the 
+: 1091 20 2 Wock’
+: 1114 17 3 ~ 
+: 1151 3 0 to 
+: 1156 6 0 Po
+: 1164 9 -2 land 
+- 1175
+: 1204 3 -2 I 
+: 1209 3 -2 took 
+: 1214 3 -2 the 
+: 1219 20 2 Wock’
+: 1242 17 3 ~ 
+: 1279 3 0 to 
+: 1284 6 0 Po
+: 1292 9 -2 land 
+E

@@ -1,0 +1,197 @@
+#ARTIST:KISS
+#TITLE:Let Me Go, Rock’n Roll
+#MP3:KISS - Let Me Go, Rock’n Roll.mp3
+#CREATOR:Battousai3
+#COVER:KISS - Let Me Go, Rock’n Roll [CO].jpg
+#BACKGROUND:KISS - Let Me Go, Rock’n Roll [BG].jpg
+#GENRE:Hard Rock
+#YEAR:1974
+#LANGUAGE:English
+#BPM:360
+#GAP:3240
+#VIDEO:a=bFntM9FLz14,co=let-me-go-rock-n-roll--hotter-than-hell-608a3a57b482b.jpg,bg=kiss-50616ca39a887.jpg
+* 0 4 21 Rock 
+* 6 3 18 ’n’ 
+* 10 44 20 roll 
+- 56
+: 248 3 7 Ba
+: 252 3 7 by 
+: 256 9 7 gets 
+: 266 10 7 tired, 
+: 282 9 7 e
+: 292 3 4 very
+: 296 3 7 bo
+: 300 4 4 dy 
+: 306 10 7 knows 
+- 318
+: 330 3 7 Your 
+: 334 3 7 mo
+: 338 3 7 ther 
+: 342 9 7 tells 
+: 352 4 7 you, 
+: 358 9 7 ba
+: 368 4 4 by 
+: 374 3 7 has 
+: 378 4 4 to 
+: 384 3 7 show 
+- 388
+: 388 9 7 Yeah, 
+: 398 34 4 yeah 
+- 434
+: 466 4 9 Let 
+: 472 3 6 me 
+: 476 14 9 go 
+- 492
+* 548 9 4 ’Cause 
+* 558 4 7 ba
+* 564 3 4 by’s 
+* 568 4 7 got 
+* 574 3 4 the 
+* 578 9 7 feelin’ 
+- 588
+: 588 3 7 Ba
+: 592 9 6 by
+: 602 4 4 ~ 
+: 608 3 6 wants 
+: 612 3 4 a 
+: 616 10 6 show 
+- 628
+: 634 4 9 Ba
+: 640 3 7 by, 
+: 644 4 9 won’t 
+: 650 3 7 you 
+: 654 9 9 tell 
+: 664 3 2 me 
+- 668
+: 668 9 11 Ba
+: 678 4 7 by, 
+: 684 3 11 rock 
+: 688 3 7 ’n’ 
+: 692 4 11 roll 
+- 697
+: 698 9 12 Yeah, 
+: 708 24 9 yeah 
+- 734
+: 1022 4 6 I 
+: 1028 3 7 ne
+: 1032 4 4 ver 
+: 1038 3 7 knew 
+: 1042 4 4 I 
+: 1048 3 7 need
+: 1052 4 7 ed 
+: 1062 3 4 a 
+: 1066 4 7 ba
+: 1072 3 4 by 
+: 1076 3 7 like 
+: 1080 10 7 you 
+- 1092
+: 1100 4 4 I 
+: 1106 3 7 ne
+: 1110 4 4 ver 
+: 1116 3 7 knew 
+: 1120 3 4 I 
+: 1124 4 7 need
+: 1130 3 4 ed 
+: 1134 4 7 you 
+: 1140 3 4 like 
+: 1144 4 7 I 
+: 1150 10 7 do 
+- 1162
+: 1168 9 7 Yeah, 
+: 1178 34 4 yeah 
+- 1214
+: 1246 4 9 Let 
+: 1252 3 6 me 
+: 1256 14 9 go 
+- 1272
+: 1330 7 4 ’Cause 
+: 1338 4 7 ba
+: 1344 3 4 by’s 
+: 1348 4 7 got 
+: 1354 3 4 the 
+: 1358 9 7 feelin’ 
+- 1368
+* 1368 3 7 Ba
+* 1372 9 6 by
+* 1382 4 4 ~ 
+* 1388 3 6 wants 
+* 1392 4 4 a 
+* 1398 10 6 show 
+- 1410
+: 1416 4 9 Ba
+: 1422 3 7 by, 
+: 1426 4 9 won’t 
+: 1432 3 7 you 
+: 1436 9 9 tell 
+: 1446 3 2 me 
+- 1450
+: 1450 9 11 Ba
+: 1460 4 7 by, 
+: 1466 3 11 rock 
+: 1470 4 7 ’n’ 
+: 1476 3 11 roll 
+- 1480
+: 1480 9 12 Yeah, 
+: 1490 24 9 yeah 
+- 1516
+: 2424 3 4 You 
+: 2428 4 7 try 
+: 2434 3 4 so 
+: 2438 4 7 hard 
+: 2444 3 4 to plea
+: 2448 10 7 se 
+- 2460
+: 2462 4 4 You 
+: 2468 3 7 get me 
+: 2472 4 4 hard 
+: 2478 3 7 you 
+: 2482 4 4 know
+: 2488 10 7 ~ 
+- 2500
+: 2506 4 7 Ba
+: 2512 3 4 by, 
+: 2516 4 7 won’t 
+: 2522 3 4 you 
+: 2526 10 7 squeeze 
+- 2538
+: 2550 4 7 Let 
+: 2556 3 7 me 
+: 2560 4 7 go 
+- 2566
+: 2570 3 9 Let 
+: 2574 4 9 me 
+: 2580 10 9 go 
+- 2592
+* 2648 3 9 Let 
+* 2652 4 6 me 
+* 2658 14 9 go 
+- 2674
+: 2726 9 4 ’Cause 
+: 2736 3 7 ba
+: 2740 4 4 by’s 
+: 2746 3 7 got 
+: 2750 4 4 the 
+: 2756 9 7 feelin’ 
+- 2766
+: 2766 3 7 Ba
+: 2770 9 6 by
+: 2780 3 4 ~ 
+: 2784 4 6 wants 
+: 2790 3 4 a 
+: 2794 10 6 show 
+- 2806
+* 2810 3 9 Ba
+* 2814 4 7 by, 
+* 2820 3 9 won’t 
+* 2824 4 7 you 
+* 2830 9 9 tell 
+* 2840 3 2 me 
+* 2844 9 11 Ba
+* 2854 3 7 by, 
+* 2858 4 11 rock 
+* 2864 3 7 ’n’ 
+* 2868 4 11 roll 
+- 2873
+* 2874 9 12 Yeah, 
+* 2884 22 9 yeah 
+E

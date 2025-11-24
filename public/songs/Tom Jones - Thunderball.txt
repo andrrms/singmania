@@ -1,0 +1,141 @@
+#ARTIST:Tom Jones
+#TITLE:Thunderball
+#MP3:Tom Jones - Thunderball.mp3
+#CREATOR:riperrin
+#YEAR:1965
+#LANGUAGE:English
+#BPM:399.58
+#GAP:10370
+#VIDEO:v=sT0x7QiJI1g,co=https://i.discogs.com/9s2NUn2O1Tjl6XBYfKynyeHlGF7rHYii65qVALHGBhQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTUy/MzEtMTQxMDQ0ODk5/OS00MzA2LmpwZWc.jpeg,bg=jones-tom-53fc3509f3373.jpg
+: 0 41 2 He 
+: 43 7 7 al
+: 52 4 9 ways 
+: 58 31 11 runs 
+: 94 13 9 while 
+: 110 6 5 o
+: 119 5 4 thers 
+: 127 60 7 walk; 
+- 189
+: 262 10 7 He 
+: 275 48 8 acts 
+: 327 12 16 while 
+: 341 12 14 o
+: 357 6 12 ther 
+: 365 29 11 men 
+: 397 6 9 just 
+: 405 16 11 talk
+: 423 56 11 ~. 
+- 481
+: 538 9 11 He 
+: 549 44 12 looks 
+: 595 9 14 at 
+: 606 4 16 this 
+: 612 33 14 world 
+: 647 7 12 and 
+: 656 20 11 wants 
+: 678 7 9 it 
+: 686 75 2 all; 
+- 763
+: 803 6 2 So 
+: 813 5 1 he 
+: 821 18 0 strikes 
+: 873 11 11 like 
+: 891 46 9 Thun
+: 940 5 7 der
+: 948 90 9 ball. 
+- 1040
+: 1093 44 2 He 
+: 1141 7 7 knows 
+: 1151 7 9 the 
+: 1161 8 11 mean
+: 1172 21 9 ing 
+: 1208 9 5 of 
+: 1223 6 4 suc
+: 1232 76 7 cess; 
+- 1310
+: 1364 5 7 His 
+: 1372 50 8 needs 
+: 1424 8 16 are 
+: 1435 22 14 more 
+: 1469 10 12 so 
+: 1483 9 11 he 
+: 1496 10 9 gives 
+: 1509 59 11 less. 
+- 1570
+: 1633 7 11 They 
+: 1642 35 12 call 
+: 1680 8 14 him 
+: 1691 6 16 the 
+: 1700 8 14 win
+: 1710 38 12 ner 
+: 1751 14 11 who 
+: 1769 8 9 takes 
+: 1779 76 2 all; 
+- 1857
+: 1884 9 2 And 
+: 1897 5 1 he 
+: 1904 17 0 strikes 
+: 1955 9 11 like 
+: 1970 48 9 Thun
+: 2021 7 7 der
+: 2032 16 7 ball
+: 2051 71 7 ~. 
+- 2124
+: 2170 50 12 A
+: 2222 8 7 ny 
+: 2233 10 17 wo
+: 2247 7 16 man 
+: 2257 7 14 he 
+: 2266 18 12 wants, 
+: 2294 6 11 he’ll
+: 2303 8 11 ~ 
+: 2314 54 7 get; 
+- 2370
+: 2418 7 7 He 
+: 2428 4 4 will 
+: 2435 26 5 break 
+: 2482 8 7 a
+: 2494 6 4 ny 
+: 2502 20 5 heart 
+: 2527 5 16 with
+: 2535 23 14 out 
+: 2560 4 12 re
+: 2566 106 16 gret. 
+- 2674
+: 2697 41 2 His 
+: 2741 12 9 days 
+: 2756 7 11 of 
+: 2765 5 12 ask
+: 2771 23 11 ing 
+: 2807 9 7 are 
+: 2819 6 5 all 
+: 2827 79 9 gone; 
+- 2908
+: 2950 6 9 His 
+: 2960 34 10 fight 
+: 3015 14 17 goes 
+: 3032 15 16 on, 
+: 3050 7 14 and 
+: 3059 18 12 on, 
+: 3081 7 11 and 
+: 3090 53 14 on. 
+- 3145
+: 3203 10 12 But 
+: 3215 5 12 he 
+: 3222 24 14 thinks 
+: 3264 8 16 that 
+: 3277 5 17 the 
+: 3284 25 16 fight 
+: 3314 8 12 is 
+: 3325 22 11 worth 
+: 3350 5 9 it 
+: 3356 57 2 all; 
+- 3415
+: 3464 9 2 So 
+: 3475 4 1 he 
+: 3482 18 0 strikes 
+: 3532 10 11 like 
+: 3549 33 9 Thun
+: 3583 22 11 der
+: 3611 257 12 ball. 
+E

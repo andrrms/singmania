@@ -1,0 +1,156 @@
+#ARTIST:Opeth
+#TITLE:Windowpane
+#MP3:Opeth - Windowpane.mp3
+#CREATOR:Zalakajin
+#GENRE:Progressive Metal
+#YEAR:2003
+#LANGUAGE:English
+#BPM:318.6
+#GAP:36270
+#VIDEO:a=bSpqLqC7U6g,co=damnation-5bf09e0ed653e.jpg,bg=opeth-4f77ea50906f7.jpg
+: 0 7 -4 Blank 
+: 8 7 -4 face 
+: 16 3 -4 in 
+: 20 7 -6 the 
+: 28 7 -6 window
+: 36 20 -8 pane 
+- 58
+: 128 7 -8 Made 
+: 136 7 -4 clear 
+: 144 3 -4 in 
+: 148 7 -6 se
+: 156 7 -6 conds 
+: 164 7 -6 of 
+: 172 44 -6 light 
+- 218
+: 256 7 -4 Dis
+: 264 7 -4 appears 
+: 272 3 -4 and 
+: 276 7 -6 returns 
+: 284 7 -6 a
+: 292 20 -8 gain 
+- 314
+: 376 7 -8 Count
+: 384 3 -8 ing 
+: 388 7 -6 hour
+: 396 7 -6 s, 
+: 404 7 -8 search
+: 412 7 -8 ing 
+: 420 3 -9 the 
+: 424 44 -11 night 
+- 470
+: 1518 7 -11 Might 
+: 1526 7 -4 be 
+: 1534 3 -4 wait
+: 1538 7 -6 ing 
+: 1546 7 -6 for 
+: 1554 20 -8 someone 
+- 1576
+: 1646 7 -8 Might 
+: 1654 7 -4 be 
+: 1662 3 -4 there 
+: 1666 7 -6 for 
+: 1674 7 -6 us 
+: 1682 7 -6 to 
+: 1690 40 -6 see 
+- 1732
+: 1774 3 -4 Might 
+: 1778 5 -4 be 
+: 1784 3 -4 in 
+: 1788 7 -6 need 
+: 1796 20 -6 of talking 
+- 1818
+: 1898 7 -8 Might 
+: 1906 3 -8 be 
+: 1910 5 -6 star
+: 1916 9 -6 ing 
+: 1926 7 -8 di
+: 1934 7 -8 rectly 
+: 1942 3 -9 at 
+: 1946 44 -11 me 
+- 1992
+: 2816 15 -4 In
+: 2832 7 -8 side 
+: 2840 7 -10 plays 
+: 2848 5 -8 a 
+: 2854 25 -3 lu
+: 2880 5 -3 lla
+: 2886 30 -3 by 
+- 2918
+: 2946 15 -8 Slurred 
+: 2962 7 -8 voice 
+: 2970 7 -10 o
+: 2978 5 -8 ver 
+: 2984 25 -3 chil
+: 3010 5 -3 dren 
+: 3016 26 -3 cries 
+- 3044
+: 3064 11 0 On 
+: 3076 9 0 ~ 
+: 3086 24 -2 ~ 
+- 3112
+* 3150 63 -7 The 
+* 3214 11 -7 in
+* 3226 56 -1 side 
+- 3284
+: 7614 7 -1 Haunting 
+: 7622 7 -4 loneli
+: 7630 3 -4 ness 
+: 7634 7 -6 in 
+: 7642 7 -6 the 
+: 7650 16 -8 eye 
+- 7668
+: 7740 7 -8 Skin 
+: 7748 7 -4 cover
+: 7756 3 -4 ing 
+: 7760 7 -6 se
+: 7768 7 -6 cret 
+: 7776 7 -6 scars 
+: 7784 36 -6 ~ 
+- 7822
+: 7862 7 -4 His 
+: 7870 7 -4 hand 
+: 7878 3 -4 is 
+: 7882 7 -6 waving 
+: 7890 7 -6 a 
+: 7898 20 -8 goodbye 
+- 7920
+: 7982 7 -8 There’s 
+: 7990 5 -8 no 
+: 7996 11 -6 response 
+: 8008 7 -6 or 
+: 8016 7 -8 ac
+: 8024 7 -8 tion 
+: 8032 3 -9 re
+: 8036 38 -11 turned 
+- 8076
+: 8126 7 -11 There’s 
+: 8134 7 -4 deep 
+: 8142 3 -4 pre
+: 8146 7 -6 judice 
+: 8154 7 -6 in 
+: 8162 18 -8 me 
+- 8182
+: 8252 9 -8 Out
+: 8262 7 -4 shines 
+: 8270 3 -4 all 
+: 8274 7 -6 rea
+: 8282 7 -6 sons 
+: 8290 7 -6 in
+: 8298 40 -6 side 
+- 8340
+: 8380 9 -4 Given 
+: 8390 7 -4 dreams 
+: 8398 5 -4 all 
+: 8404 15 -6 ridden 
+: 8420 20 -6 with pain 
+- 8442
+: 8502 5 -8 And 
+: 8508 5 -8 pro
+: 8514 7 -6 ject
+: 8522 7 -6 ed 
+: 8530 7 -8 un
+: 8538 7 -8 to 
+: 8546 3 -9 the 
+: 8550 50 -11 lost 
+E

@@ -1,0 +1,155 @@
+#ARTIST:Pink Floyd
+#TITLE:Another Brick In The Wall (Part II)
+#MP3:Pink Floyd - Another Brick In The Wall (Part II).mp3
+#CREATOR:Jesposo
+#GENRE:Rock
+#YEAR:1979
+#LANGUAGE:English
+#BPM:412
+#GAP:9700
+#VIDEO:v=HrxX9TBj2zY,co=another-brick-in-the-wall-part-2-5c6f12582b6c9.jpg,bg=pink-floyd-4dea85237bfef.jpg
+#END:191000
+: 0 6 14 We 
+: 8 10 16 don’t 
+: 25 13 17 need 
+: 41 20 16 no 
+: 65 11 14 e
+: 79 6 16 du
+: 88 9 17 ca
+: 102 18 16 tion. 
+- 122
+: 254 6 14 We 
+: 262 11 16 don’t 
+: 277 13 17 need 
+: 294 19 16 no 
+: 317 8 14 thought 
+: 332 4 16 con
+: 341 25 17 trol. 
+- 368
+: 498 5 9 No 
+: 506 9 14 dark 
+: 521 7 16 sar
+: 532 10 17 ca
+: 546 19 16 sm 
+: 570 11 14 in 
+: 585 4 16 the 
+: 593 14 17 class
+: 609 19 16 room. 
+- 630
+: 757 10 14 Tea
+: 772 7 16 cher, 
+: 782 11 17 leave 
+: 797 17 16 them 
+: 821 13 14 kids 
+: 837 4 16 a
+* 844 23 17 lone. 
+- 869
+: 1042 19 21 Hey, 
+: 1073 5 17 tea
+: 1079 8 17 cher, 
+: 1105 6 21 leave 
+: 1113 6 19 them 
+: 1121 6 17 kids 
+: 1130 2 19 a
+: 1133 28 17 lone. 
+- 1163
+: 1281 6 5 All 
+: 1288 3 5 in 
+* 1292 12 5 all 
+- 1305
+: 1305 6 5 It’s 
+: 1313 5 5 just 
+: 1322 14 5 a
+: 1345 4 4 no
+: 1350 6 4 ther 
+: 1360 7 4 brick 
+: 1369 8 2 in 
+: 1383 8 0 the 
+: 1393 16 2 wall. 
+- 1411
+: 1535 5 5 All 
+: 1542 4 5 in 
+: 1547 8 5 all 
+: 1559 6 5 you’re 
+- 1567
+: 1568 7 5 Just 
+: 1577 12 4 a
+: 1600 4 4 no
+: 1605 7 4 ther 
+: 1616 7 4 brick 
+: 1625 12 2 in 
+: 1639 6 0 the 
+* 1648 29 2 wall. 
+- 1679
+: 1774 9 14 We 
+: 1785 12 16 don’t 
+: 1800 13 17 need 
+: 1816 17 16 no 
+: 1837 10 14 e
+: 1851 7 16 du
+: 1860 12 17 ca
+: 1876 20 16 tion. 
+- 1898
+: 2027 8 14 We 
+: 2037 12 16 don’t 
+: 2052 13 17 need 
+: 2068 16 16 no 
+: 2089 12 14 thought 
+: 2105 7 16 con
+: 2115 22 17 trol. 
+- 2139
+: 2273 6 9 No 
+: 2281 10 14 dark 
+: 2295 8 16 sar
+: 2305 10 17 ca
+: 2321 15 16 sm 
+: 2344 8 14 in 
+: 2357 8 16 the 
+: 2368 12 17 class
+: 2384 20 16 room. 
+- 2406
+: 2533 7 14 Tea
+: 2544 10 16 chers, 
+: 2558 13 17 leave 
+: 2574 15 16 them 
+: 2596 11 14 kids 
+: 2610 5 16 a
+* 2619 24 17 lone. 
+- 2645
+: 2818 15 21 Hey, 
+: 2848 7 17 tea
+: 2857 10 17 cher, 
+: 2880 4 21 leave 
+: 2887 5 19 us 
+: 2896 6 17 kids 
+: 2904 3 19 a
+: 2908 17 17 lone. 
+- 2927
+: 3057 6 5 All 
+: 3064 4 5 in 
+: 3070 7 5 all 
+- 3079
+: 3081 5 5 You’re 
+: 3088 6 5 just 
+: 3097 8 5 a
+: 3121 6 4 no
+: 3128 4 4 ther 
+: 3136 7 4 brick 
+: 3145 10 2 in 
+: 3160 5 0 the 
+: 3168 21 1 wall. 
+- 3191
+: 3311 6 5 All 
+: 3319 4 5 in 
+: 3324 8 5 all 
+: 3335 6 5 you’re 
+- 3342
+: 3343 6 5 Just 
+: 3352 7 5 a
+: 3375 5 4 no
+: 3382 5 4 ther 
+: 3391 6 4 brick 
+: 3400 9 2 in 
+: 3413 4 0 the 
+: 3423 28 2 wall. 
+E

@@ -1,0 +1,245 @@
+#ARTIST:Editors
+#TITLE:Papillon
+#MP3:Editors - Papillon.mp3
+#CREATOR:juhuu
+#YEAR:2009
+#LANGUAGE:English
+#BPM:250
+#GAP:16180
+#VIDEO:v=Wq4tyDRhU_4,co=https://1.bp.blogspot.com/-jvTe13CmRrQ/ThdzCY-U_9I/AAAAAAAAAJM/Scgc_gbDnEs/s1600/Papillon.jpg,bg=editors-4e528c3f54137.jpg
+: 0 3 -5 Make 
+: 4 3 -5 your 
+: 8 3 -3 es
+: 12 8 -5 cape 
+- 22
+: 34 3 -8 You’re 
+: 38 3 -5 my 
+: 42 6 -6 old 
+: 50 3 -5 pa
+: 54 3 -10 pil
+: 58 10 -8 lon 
+- 70
+: 124 1 -5 The 
+: 126 3 -5 world 
+: 130 5 -5 turns 
+: 136 5 -3 too 
+: 142 8 -5 fast 
+- 152
+: 166 3 -5 Feel 
+: 170 5 -6 love 
+: 176 1 -5 be
+: 178 3 -6 fore 
+: 182 3 -10 it’s 
+: 186 10 -8 gone 
+- 198
+: 246 3 -3 It 
+: 250 6 -1 kicks 
+: 258 3 -1 like 
+: 262 3 0 a 
+: 266 6 -1 sleep 
+: 274 10 -3 twitch 
+- 286
+: 380 3 -8 My 
+: 384 3 -5 pa
+: 388 1 -3 pil
+: 390 8 -5 lon 
+- 400
+: 420 3 -5 Feel 
+: 424 7 -6 love 
+: 432 1 -5 when 
+: 434 5 -10 it’s 
+: 440 10 -8 shone 
+- 452
+: 722 3 -3 It 
+: 726 6 -1 kicks 
+: 734 3 -1 like 
+: 738 3 0 a 
+: 742 6 -1 sleep 
+: 750 10 -3 twitch 
+- 762
+* 1012 11 2 Daaar
+* 1024 16 -5 ling 
+- 1042
+: 1054 3 2 Just 
+: 1058 3 2 don’t 
+: 1062 3 0 put 
+: 1066 3 -1 on 
+: 1070 3 -5 your 
+: 1074 11 -3 guns 
+: 1086 18 -10 yet 
+- 1106
+: 1110 7 2 If 
+: 1118 3 2 there 
+: 1122 3 2 real
+: 1126 3 0 ly 
+: 1130 3 -1 was 
+: 1134 3 -5 a 
+: 1138 11 -3 god 
+: 1150 14 -5 here, 
+- 1166
+: 1174 7 2 He’d 
+: 1182 3 2 have 
+: 1186 5 2 raised 
+: 1192 1 0 a 
+: 1194 3 -1 hand 
+: 1198 7 -3 by 
+: 1206 12 -3 now 
+- 1220
+: 1260 5 2 Now 
+: 1266 11 2 daaar
+: 1278 14 -5 ling 
+- 1294
+: 1308 3 2 You’re 
+: 1312 5 2 born, 
+: 1318 3 0 get 
+: 1322 5 -1 old 
+: 1328 5 -5 and 
+: 1334 9 -3 die 
+: 1344 14 -10 here 
+- 1360
+: 1364 5 2 Well, 
+: 1370 3 2 that’s 
+: 1374 5 2 quite 
+: 1380 3 0 e
+: 1384 3 -1 nough 
+: 1388 5 -3 for 
+* 1394 12 -3 me 
+- 1408
+: 1426 5 2 We’ll 
+: 1432 3 2 find 
+: 1436 3 2 our 
+: 1440 3 2 own 
+: 1444 3 0 way 
+: 1448 8 -1 home 
+* 1458 9 -5 some
+* 1468 16 -3 how 
+- 1486
+: 1776 3 -5 No 
+: 1780 3 -5 sense 
+: 1784 3 -3 of 
+: 1788 10 -5 doubt 
+- 1800
+: 1816 3 -5 Or 
+: 1820 3 -6 what 
+: 1824 3 -5 you 
+: 1828 3 -6 could 
+: 1832 3 -10 a
+: 1836 10 -8 chieve 
+- 1848
+: 1902 1 -5 Well, 
+: 1904 1 -5 I 
+: 1906 3 -5 found 
+: 1910 3 -3 you 
+: 1914 8 -5 out 
+- 1924
+: 1934 3 -8 I’ve 
+: 1938 3 -6 seen 
+: 1942 1 -5 the 
+: 1944 5 -3 life 
+: 1950 3 -3 you 
+: 1954 3 -5 wish 
+: 1958 3 -6 to 
+: 1962 10 -8 leave 
+- 1974
+: 2014 3 -3 But 
+: 2018 3 -1 when 
+: 2022 3 -3 it 
+: 2026 6 -1 kicks 
+: 2034 3 -1 like 
+: 2038 3 0 a 
+* 2042 7 -1 sleep 
+* 2050 10 -3 twitch 
+- 2062
+: 2156 3 -5 You 
+: 2160 6 -3 will 
+: 2168 14 -5 choke, 
+- 2184
+: 2188 3 -5 Choke 
+: 2192 3 -5 on 
+: 2196 1 -5 the 
+: 2198 5 -6 air 
+: 2204 3 -5 you 
+: 2208 3 -6 try 
+: 2212 3 -10 to 
+: 2216 12 -8 breathe 
+- 2230
+: 2246 3 -3 It 
+: 2250 6 -1 kicks 
+: 2258 3 -1 like 
+: 2262 3 0 a 
+: 2266 6 -1 sleep 
+: 2274 10 -3 twitch 
+- 2286
+: 2536 11 2 Daaar
+: 2548 12 -5 ling 
+- 2562
+: 2572 5 2 Now 
+: 2578 3 2 just 
+: 2582 3 2 don’t 
+: 2586 3 0 put 
+: 2590 3 -1 on 
+: 2594 3 -5 your 
+: 2598 11 -3 guns 
+: 2610 18 -10 yet 
+- 2630
+: 2634 7 2 If 
+: 2642 3 2 there 
+: 2646 3 2 real
+: 2650 3 0 ly 
+: 2654 3 -1 was 
+: 2658 3 -5 a 
+: 2662 11 -3 god 
+: 2674 12 -5 here, 
+- 2688
+: 2698 7 2 He’d 
+: 2706 3 2 have 
+* 2710 3 2 raised 
+* 2714 1 0 a 
+* 2716 5 -1 hand 
+* 2722 7 2 by 
+* 2730 10 2 now 
+- 2742
+* 2788 11 2 Daaar
+* 2800 12 -5 ling 
+- 2814
+: 2826 3 0 Now 
+: 2830 5 2 you’re 
+: 2836 5 2 born, 
+: 2842 3 -1 get 
+: 2846 1 -1 old 
+: 2848 5 2 and 
+* 2854 9 2 die 
+* 2864 10 -3 here 
+- 2876
+: 2890 5 2 Well, 
+: 2896 3 2 that’s 
+: 2900 3 2 quite 
+: 2904 1 0 e
+: 2906 5 -1 nough 
+: 2912 3 -5 for 
+: 2916 11 -3 me, 
+: 2928 14 -5 dear 
+- 2944
+: 2952 3 2 We’ll 
+: 2956 3 2 find 
+: 2960 3 2 our 
+: 2964 3 2 own 
+: 2968 3 0 way 
+: 2972 7 -1 home 
+* 2980 7 -3 some
+* 2988 14 -3 how 
+- 3004
+: 3006 3 -1 It 
+: 3010 7 -1 kicks 
+: 3018 3 -1 like 
+: 3022 3 0 a 
+: 3026 7 -1 sleep 
+: 3034 12 -3 twitch 
+- 3048
+* 3514 3 -1 It 
+* 3518 7 -1 kicks 
+* 3526 3 -1 like 
+* 3530 3 0 a 
+* 3534 7 -1 sleep 
+* 3542 12 -3 twitch 
+E

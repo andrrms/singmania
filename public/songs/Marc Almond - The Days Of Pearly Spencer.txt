@@ -1,0 +1,385 @@
+#ARTIST:Marc Almond
+#TITLE:The Days Of Pearly Spencer
+#MP3:Marc Almond - The Days Of Pearly Spencer.mp3
+#CREATOR:Fepo
+#COVER:Marc Almond - The Days Of Pearly Spencer [CO].jpg
+#BACKGROUND:Marc Almond - The Days Of Pearly Spencer [BG].jpg
+#GENRE:Pop
+#YEAR:1992
+#LANGUAGE:English
+#BPM:315.81
+#GAP:39880
+#VIDEO:v=DC3zbW2W_CM,co=the-days-of-pearly-spencer-601c61f4bda70.jpg,bg=almond-marc-520c345cba74e.jpg
+: 0 2 -5 A 
+: 4 3 0 te
+: 9 1 0 ne
+: 11 4 0 ment, 
+- 21
+: 24 2 -5 A 
+: 28 4 3 dir
+: 34 3 3 ty 
+: 39 8 0 street 
+- 50
+: 52 4 -2 Walked 
+: 58 2 -2 and 
+: 61 6 -2 worn 
+: 69 4 -2 by 
+: 76 2 2 shoe
+: 80 2 2 less 
+: 84 7 -2 feet 
+- 94
+: 96 4 -2 In
+: 102 3 0 side 
+: 107 2 0 it’s 
+: 111 5 0 long 
+: 118 3 -5 and 
+: 123 3 3 so 
+: 128 4 3 com
+: 134 3 0 plete 
+- 139
+: 141 3 12 Watched 
+: 147 8 10 by 
+: 157 2 10 a 
+: 161 2 7 shi
+: 164 1 3 ve
+: 166 7 5 ring 
+: 178 15 5 sun 
+- 203
+: 220 5 0 Old 
+: 227 7 0 eyes 
+: 236 2 -5 in 
+: 239 2 -5 a 
+: 243 5 3 small 
+: 250 6 3 child’s 
+: 259 7 0 face 
+- 266
+: 268 2 -2 Wat
+: 272 2 -2 ching 
+: 276 8 -2 as 
+: 286 2 -5 the 
+: 289 3 2 sha
+: 294 5 2 dows 
+: 302 5 -2 race 
+- 307
+: 308 5 0 Through 
+: 315 7 0 walls 
+: 324 2 -5 and 
+: 328 5 0 cracks 
+: 335 2 -5 and 
+: 339 3 3 leave 
+: 344 5 3 no 
+: 351 6 0 trace 
+- 357
+: 358 3 7 And 
+: 363 3 10 day
+: 368 6 10 light’s 
+: 376 7 5 bright
+: 385 3 3 ne
+: 390 4 5 ~ss 
+: 397 7 5 shuns 
+- 446
+: 501 3 10 The 
+* 506 8 15 days 
+: 516 3 15 of 
+* 521 8 10 Pear
+: 531 4 12 ly 
+: 539 7 12 Spen
+: 548 16 7 cer 
+- 585
+* 622 12 7 A
+: 636 19 5 ha 
+- 665
+: 695 2 -2 The 
+: 699 5 3 race 
+: 706 2 2 is 
+: 710 3 0 al
+: 715 10 0 most 
+: 728 24 0 run 
+- 773
+: 820 4 0 Nose 
+: 827 3 0 pressed 
+: 832 5 0 hard 
+: 839 3 -2 on 
+: 844 3 3 fros
+: 849 2 3 ted 
+: 853 7 0 glass 
+- 869
+: 872 2 -2 Ga
+: 876 2 -2 zing 
+: 880 2 -2 as 
+: 884 2 -2 the 
+: 889 4 3 swol
+: 895 2 2 len 
+: 899 6 -2 mass 
+- 910
+: 912 2 0 On 
+: 916 2 0 con
+: 920 2 0 crete 
+: 924 5 0 fields 
+: 932 2 -5 where 
+: 936 5 3 grows 
+: 944 5 3 no 
+: 952 7 2 grass 
+- 965
+: 968 2 10 Stum
+: 972 4 10 bles 
+: 978 6 7 blind
+: 986 8 5 ly 
+: 996 11 5 on 
+- 1017
+: 1040 2 0 I
+: 1044 2 0 ron 
+* 1048 9 0 trees 
+: 1060 2 3 smo
+: 1063 2 3 ther 
+: 1066 2 3 the 
+: 1070 6 0 air 
+- 1076
+: 1077 2 -5 But 
+: 1081 2 -2 wi
+: 1084 2 -5 the
+: 1087 7 -5 ring 
+: 1099 5 -5 they 
+: 1106 4 2 stand 
+: 1112 2 2 and 
+: 1116 6 -2 stare 
+- 1122
+: 1124 5 0 Through 
+: 1131 5 0 eyes 
+: 1138 2 0 that 
+: 1142 3 0 nei
+: 1147 3 0 ther 
+: 1152 4 3 know 
+: 1159 6 5 no 
+: 1167 10 0 care 
+- 1178
+: 1180 3 10 Where 
+: 1185 3 10 the 
+: 1190 6 5 grass 
+: 1198 3 3 ha
+: 1202 4 5 ~s 
+: 1209 14 5 gone 
+- 1265
+: 1317 3 10 The 
+* 1322 8 15 days 
+: 1332 3 15 of 
+* 1337 8 10 Pear
+: 1347 4 12 ly 
+: 1355 7 12 Spen
+: 1364 16 7 cer 
+- 1401
+* 1436 12 7 A
+: 1450 19 5 ha 
+- 1479
+: 1511 2 -2 The 
+: 1515 5 3 race 
+: 1522 2 2 is 
+: 1526 3 0 al
+: 1531 10 0 most 
+: 1544 24 0 run 
+- 1589
+: 1637 2 0 Pear
+: 1641 2 0 ly 
+: 1645 7 0 where’s 
+: 1654 2 0 your 
+: 1658 3 4 milk 
+: 1664 8 3 white 
+: 1675 5 0 skin 
+- 1683
+: 1685 2 -2 What’s 
+: 1688 4 -2 that 
+: 1696 2 -2 stub
+: 1700 3 -2 ble 
+: 1706 3 2 on 
+: 1711 3 2 your 
+: 1716 6 -2 chin 
+- 1726
+: 1728 3 2 It’s 
+: 1733 3 0 bu
+: 1737 3 0 ried 
+: 1742 2 0 in 
+: 1746 3 -5 the 
+: 1752 6 3 rott 
+: 1760 3 3 gut 
+: 1766 6 0 gin 
+- 1772
+: 1773 2 10 You 
+: 1777 5 10 played 
+: 1784 3 10 and 
+: 1789 6 7 lost 
+: 1797 4 3 no
+: 1802 4 5 ~t 
+: 1808 12 5 won 
+- 1830
+: 1847 3 -2 You 
+: 1852 2 0 played 
+: 1856 2 0 a 
+: 1860 5 0 house 
+: 1868 2 -5 that 
+: 1872 5 3 can’t 
+: 1879 4 3 be 
+: 1885 3 2 beat 
+- 1891
+: 1893 2 0 No
+: 1896 1 -2 ~w 
+: 1899 3 -2 look 
+: 1904 2 -2 your 
+: 1908 3 -2 head’s 
+: 1913 4 -2 bo
+: 1918 3 -5 ~wed 
+: 1923 3 2 in 
+: 1928 2 2 de
+: 1932 6 2 feat 
+- 1943
+: 1945 2 0 You 
+: 1948 3 0 walked 
+: 1953 3 3 too 
+: 1958 8 0 far 
+: 1968 2 -4 a
+: 1971 4 3 long 
+: 1977 2 2 the 
+: 1980 3 2 stree
+: 1984 2 0 ~t 
+- 1989
+: 1991 2 12 Where 
+: 1995 3 10 on
+: 2000 3 10 ly 
+: 2005 7 7 rats 
+: 2015 8 5 can 
+: 2026 19 5 run 
+- 2087
+: 2133 3 10 The 
+* 2138 8 15 days 
+: 2148 3 15 of 
+* 2153 5 10 Pear
+: 2160 4 12 ly 
+: 2167 6 12 Spen
+: 2175 13 7 cer 
+- 2209
+* 2250 12 7 A
+: 2264 19 5 ha 
+- 2293
+: 2325 2 -2 The 
+: 2330 5 3 race 
+: 2337 2 2 is 
+: 2341 3 0 al
+: 2346 10 0 most 
+: 2359 24 0 run 
+- 2425
+: 2518 3 10 The 
+* 2523 8 15 days 
+: 2533 3 15 of 
+* 2538 8 10 Pear
+: 2548 3 12 ly 
+: 2554 6 12 Spen
+: 2562 16 7 cer 
+- 2599
+* 2634 12 7 A
+: 2648 19 5 ha 
+- 2688
+: 2711 2 -2 The 
+: 2715 5 3 race 
+: 2722 2 2 is 
+: 2726 3 0 al
+: 2731 10 0 most 
+: 2744 24 0 run 
+- 2778
+: 2807 2 -4 The 
+: 2811 5 3 race 
+: 2818 2 3 is 
+: 2822 3 0 al
+: 2827 14 0 most 
+* 2843 40 0 run 
+- 2925
+: 3518 2 -2 A 
+: 3522 2 0 te
+: 3525 2 0 ne
+: 3528 2 0 ment, 
+- 3540
+: 3550 2 -5 A 
+: 3554 8 3 dir
+: 3564 3 3 ty 
+: 3570 6 3 stree
+: 3578 3 0 ~t 
+- 3581
+: 3582 3 -2 Re
+: 3587 3 -2 mem
+: 3592 3 -2 ber 
+: 3597 9 -5 worn 
+: 3613 4 -5 and 
+: 3620 5 2 shoe
+: 3627 7 2 less 
+: 3636 2 0 fee
+: 3639 10 -2 ~t 
+- 3650
+: 3652 2 0 Re
+: 3656 2 0 mem
+: 3660 2 0 ber 
+: 3664 6 0 ho
+: 3672 3 -2 ~w 
+: 3680 3 0 you 
+: 3686 5 3 stood 
+: 3694 5 3 to 
+: 3702 14 0 beat 
+- 3716
+: 3717 3 0 The 
+: 3722 7 -2 way 
+: 3732 5 -2 your 
+: 3739 7 -7 life 
+: 3750 10 -7 had 
+: 3763 32 -7 gone 
+- 3805
+: 3816 4 0 So 
+: 3823 4 0 Pear
+: 3829 2 0 ly 
+: 3833 8 0 don’t 
+: 3844 6 -5 you 
+: 3853 6 3 shed 
+: 3861 9 3 more 
+: 3872 18 0 tears 
+- 3896
+: 3898 2 -2 For 
+: 3902 4 -2 those 
+: 3908 4 -5 best 
+- 3921
+: 3924 2 -5 For
+: 3928 6 2 got
+: 3936 3 2 te
+: 3941 2 0 ~n 
+: 3945 17 -2 years 
+- 3962
+: 3963 4 0 Those 
+: 3969 2 0 te
+: 3972 2 0 ne
+: 3975 6 0 ments 
+- 3990
+: 3993 3 -5 Are 
+: 3998 7 3 me
+: 4007 6 3 mo
+: 4015 14 0 ries 
+- 4030
+: 4032 3 0 Of 
+: 4037 8 -2 where 
+: 4047 7 -2 you’ve 
+: 4056 6 -7 ri
+: 4064 10 -7 sen 
+* 4077 39 -7 from 
+- 4158
+: 4224 3 -2 The 
+: 4229 26 3 days 
+: 4257 3 2 of 
+* 4262 15 -2 Pear
+: 4279 6 0 ly 
+: 4287 6 0 Spen
+: 4295 32 -5 cer 
+- 4348
+* 4382 14 7 A
+: 4399 29 5 ha 
+- 4449
+: 4486 4 -2 The 
+: 4492 18 3 race 
+: 4513 4 2 is 
+: 4520 9 0 al
+: 4531 18 0 most 
+: 4551 159 0 won 
+E

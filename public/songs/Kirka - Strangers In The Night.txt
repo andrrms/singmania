@@ -1,0 +1,292 @@
+#ARTIST:Kirka
+#TITLE:Strangers In The Night
+#MP3:Kirka - Strangers In The Night.mp3
+#CREATOR:jalaat73
+#GENRE:Rock
+#YEAR:1985
+#LANGUAGE:English
+#BPM:324.17
+#GAP:13340
+#VIDEO:a=7cvsX2bgklE,co=https://is1-ssl.mzstatic.com/image/thumb/Music/0f/4b/5c/mzi.dcvmmpep.jpg/5000x5000bb.jpg
+: 0 2 7 No
+: 5 4 5 thing 
+: 12 5 4 left 
+: 19 5 5 to 
+: 27 25 7 mend, 
+: 65 2 7 no
+: 69 4 5 thing 
+: 76 6 4 left 
+: 84 6 2 to 
+: 93 20 -1 break. 
+- 115
+: 129 2 7 What 
+: 133 3 5 is 
+: 140 11 4 there 
+: 153 2 9 to 
+: 158 9 7 dream 
+: 170 2 5 a
+: 174 10 4 bout 
+: 190 2 4 for 
+: 194 3 7 lo
+: 199 4 5 vers 
+: 206 6 4 out 
+: 214 5 2 of 
+: 222 5 4 fa
+: 229 20 4 ~ith? 
+- 251
+: 290 3 7 Should 
+: 295 5 5 I 
+: 303 5 4 be 
+: 310 5 5 sur
+: 318 25 7 prised, 
+* 355 3 7 should 
+* 360 5 5 I 
+* 367 6 4 break 
+* 374 6 2 and 
+* 382 21 -1 cry? 
+- 405
+: 419 4 7 What 
+: 424 3 5 is 
+: 430 10 4 there 
+: 444 2 9 to 
+: 448 9 7 mind 
+: 459 2 5 a
+: 463 10 4 bout 
+: 480 2 4 when 
+: 484 4 7 love 
+: 489 4 5 is 
+: 496 14 9 just 
+: 513 4 9 a 
+: 520 5 7 lie?
+: 527 5 5 ~
+: 534 12 4 ~ 
+- 548
+* 581 21 9 Stran
+* 604 6 11 gers 
+* 612 2 7 in 
+* 616 6 5 the 
+* 624 9 4 night, 
+: 644 3 5 love 
+: 650 4 7 is 
+: 656 10 9 lost 
+: 669 6 11 and 
+: 677 7 7 pa
+: 686 2 5 ra
+: 690 10 4 lyzed. 
+- 702
+: 709 21 9 Stran
+: 733 5 11 gers 
+: 741 2 7 in 
+: 746 6 5 the 
+: 754 8 4 night 
+: 773 2 5 run
+: 778 5 7 ning 
+: 786 10 9 from 
+: 798 3 11 the 
+: 803 42 7 light. 
+- 847
+: 870 22 9 Stran
+: 895 6 11 gers 
+: 903 2 7 in 
+: 907 6 5 the 
+: 915 10 4 night, 
+: 934 3 5 love 
+: 939 4 7 is 
+: 947 9 9 lost 
+: 958 6 11 and 
+: 967 7 7 pa
+: 976 2 5 ra
+: 980 8 4 lyzed. 
+- 990
+: 999 21 9 Stran
+: 1023 6 11 gers 
+: 1031 2 7 in 
+: 1035 6 5 the 
+: 1043 9 4 night 
+: 1063 4 5 run
+: 1069 4 7 ning 
+: 1075 10 9 from 
+: 1088 3 11 the 
+* 1094 31 7 light.
+* 1126 10 9 ~
+* 1137 4 11 ~
+* 1142 4 9 ~
+* 1147 4 7 ~
+* 1152 4 5 ~
+* 1157 4 4 ~ 
+- 1163
+: 1417 4 7 Ne
+: 1423 5 5 ver 
+: 1430 5 4 mind 
+: 1437 6 5 my 
+: 1446 22 7 call, 
+: 1483 4 7 pro
+: 1489 4 5 mi
+: 1495 6 4 ses 
+: 1503 5 2 I 
+: 1510 23 -1 make. 
+- 1535
+: 1547 3 7 Ne
+: 1552 5 5 ver 
+: 1559 7 4 mind 
+* 1568 10 9 my 
+* 1580 5 7 emp
+* 1587 2 5 ty 
+* 1592 10 4 heart, 
+: 1608 2 4 af
+: 1612 3 7 fec
+: 1617 5 5 tion 
+: 1624 6 4 that 
+: 1632 6 2 I 
+: 1640 5 4 fa
+: 1647 22 4 ~ke. 
+- 1671
+: 1709 3 7 We 
+: 1714 5 5 were 
+: 1722 5 4 so 
+: 1730 5 5 damn 
+: 1738 25 7 fine, 
+: 1770 2 7 now 
+: 1774 13 5 we’re 
+: 1789 4 4 lost 
+: 1795 4 2 and 
+: 1801 21 -1 sore. 
+- 1824
+: 1838 3 7 What 
+: 1844 3 5 is 
+: 1850 11 4 there 
+: 1862 2 9 to 
+: 1867 10 7 talk 
+: 1879 2 5 a
+: 1883 10 4 bout 
+: 1899 2 4 when 
+: 1903 3 7 lo
+: 1908 3 5 vers 
+: 1915 13 9 dream 
+: 1931 9 9 no 
+: 1944 4 7 more?
+: 1950 6 5 ~
+: 1958 12 4 ~ 
+- 1972
+: 1999 22 9 Stran
+: 2023 4 11 gers 
+: 2031 2 7 in 
+: 2035 5 5 the 
+: 2043 9 4 night, 
+: 2062 3 5 love 
+: 2068 4 7 is 
+* 2075 9 9 lost 
+* 2087 6 11 and 
+* 2095 7 7 pa
+* 2104 2 5 ra
+* 2109 9 4 lyzed. 
+- 2120
+: 2127 22 9 Stran
+: 2152 6 11 gers 
+: 2160 2 7 in 
+: 2165 5 5 the 
+: 2172 8 4 night 
+: 2192 3 5 run
+: 2197 4 7 ning 
+: 2204 10 9 from 
+: 2217 2 11 the 
+: 2221 35 7 light 
+- 2258
+: 2287 22 9 Stran
+: 2312 5 11 gers 
+: 2319 2 7 in 
+: 2323 5 5 the 
+: 2331 10 4 night, 
+: 2352 3 5 love 
+: 2357 5 7 is 
+: 2364 10 9 lost 
+: 2377 6 11 and 
+: 2385 7 7 pa
+: 2394 2 5 ra
+: 2398 9 4 lyzed. 
+- 2409
+: 2416 21 9 Stran
+: 2440 7 11 gers 
+: 2449 2 7 in 
+: 2453 6 5 the 
+: 2461 9 4 night 
+: 2480 3 5 run
+: 2485 4 7 ning 
+: 2492 10 9 from 
+: 2505 2 11 the 
+: 2509 43 7 light.
+: 2554 21 9 ~
+: 2577 38 11 ~ 
+- 2617
+: 3842 21 9 Stran
+: 3865 5 11 gers 
+: 3872 2 7 in 
+: 3877 6 5 the 
+: 3885 9 4 night, 
+: 3905 4 5 love 
+: 3911 4 7 is 
+: 3917 9 9 lost 
+: 3929 6 11 and 
+: 3937 7 7 pa
+: 3945 2 5 ra
+: 3949 10 4 lyzed. 
+- 3961
+: 3968 21 9 Stran
+: 3991 7 11 gers 
+: 4000 2 7 in 
+: 4004 5 5 the 
+: 4011 9 4 night 
+: 4031 3 5 run
+: 4037 4 7 ning 
+: 4043 10 9 from 
+: 4056 2 11 the 
+: 4060 36 7 light 
+- 4098
+: 4127 21 9 Stran
+: 4151 6 11 gers 
+: 4159 2 7 in 
+: 4164 6 5 the 
+: 4172 9 4 night, 
+: 4190 3 5 love 
+: 4196 5 7 is 
+: 4203 9 9 lost 
+: 4214 6 11 and 
+: 4222 7 7 pa
+: 4232 2 5 ra
+: 4236 9 4 lyzed. 
+- 4247
+: 4254 21 9 Stran
+: 4277 6 11 gers 
+: 4286 2 7 in 
+: 4290 5 5 the 
+: 4297 9 4 night 
+: 4317 3 5 run
+: 4322 4 7 ning 
+: 4329 9 9 from 
+: 4341 2 11 the 
+: 4346 38 7 light. 
+- 4386
+: 4412 21 9 Stran
+: 4436 6 11 gers 
+: 4444 2 7 in 
+: 4448 5 5 the 
+: 4455 9 4 night, 
+: 4474 5 5 love 
+: 4481 3 7 is 
+: 4487 9 9 lost 
+: 4499 6 11 and 
+: 4507 6 7 pa
+: 4516 2 5 ra
+: 4520 9 4 lyzed. 
+- 4531
+: 4538 21 9 Stran
+: 4561 6 11 gers 
+: 4570 2 7 in 
+: 4574 5 5 the 
+: 4581 9 4 night 
+: 4601 3 5 run
+: 4606 5 7 ning 
+: 4613 9 9 from 
+: 4625 2 11 the 
+: 4630 37 7 light. 
+E

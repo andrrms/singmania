@@ -1,0 +1,274 @@
+#ARTIST:Chris Montez
+#TITLE:Let’s Dance
+#MP3:Chris Montez - Let’s Dance.mp3
+#CREATOR:Fepo
+#GENRE:Pop-Rock Oldies
+#YEAR:1962
+#LANGUAGE:English
+#BPM:305.22
+#GAP:11490
+#VIDEO:v=WiE_3PfEGzc,co=https://media.hitparade.ch/cover/800/chris_montez-lets_dance_s.jpg
+F 0 10 1 One, 
+F 16 10 1 two 
+- 28
+F 32 6 1 One, 
+F 42 4 1 two, 
+F 50 5 1 three 
+- 57
+: 201 5 1 Hey 
+: 208 2 1 ba
+: 212 2 1 by 
+: 216 2 1 won’t 
+: 220 2 1 you 
+: 224 2 3 take 
+: 228 3 3 a 
+: 235 3 3 cha
+: 240 5 1 ~nce 
+- 247
+: 264 2 -2 Say 
+: 268 2 -2 that 
+: 272 6 1 you’ll 
+: 280 2 1 let 
+: 283 2 1 me 
+: 287 2 3 have 
+: 291 5 6 this 
+: 298 5 1 dance 
+- 305
+: 306 3 1 Well 
+: 311 5 3 let’s 
+: 318 5 3 dance, 
+- 325
+: 369 3 3 Well 
+: 374 6 3 let’s 
+: 382 7 1 dance 
+- 391
+: 433 2 1 We’ll 
+: 437 2 3 do 
+: 441 2 1 the 
+: 445 5 5 twist, 
+: 453 2 5 the 
+: 457 5 5 stomp, 
+: 464 2 5 the 
+: 468 3 5 mashed 
+: 472 3 5 po
+: 477 5 3 ta
+: 484 3 3 to 
+: 489 8 3 too, 
+- 499
+: 509 2 5 A
+: 513 2 5 ny 
+: 517 2 5 old 
+: 521 7 5 dance 
+: 529 2 5 that 
+: 533 2 5 let 
+: 537 2 8 you 
+: 541 5 3 wan
+: 549 2 3 na 
+: 553 5 1 do 
+- 559
+: 560 3 1 But 
+: 565 4 3 let’s 
+: 572 7 1 dance, 
+- 581
+: 624 3 1 Well 
+: 629 7 3 let’s 
+: 638 5 1 dance 
+- 645
+: 708 4 1 Hey 
+: 715 2 1 ba
+: 719 2 1 by, 
+: 723 2 1 yeah, 
+: 727 2 1 you 
+: 731 3 3 thrill 
+: 736 3 3 me 
+: 743 3 3 so
+: 748 4 1 ~ 
+- 754
+: 770 2 -1 Hold 
+: 774 2 -1 me 
+: 778 5 1 tight, 
+: 786 2 1 don’t 
+: 790 2 1 you 
+: 794 2 3 let 
+: 798 5 6 me 
+: 806 6 1 go 
+- 813
+: 814 2 1 But 
+: 818 5 3 let’s 
+: 826 6 3 dance, 
+- 834
+: 876 3 3 Well 
+: 881 3 3 le
+: 885 3 1 ~t’s 
+: 890 8 1 dance 
+- 900
+: 941 2 1 We’ll 
+: 945 2 3 do 
+: 949 2 1 the 
+: 953 5 5 twist, 
+: 961 2 5 the 
+: 965 5 5 stomp, 
+: 972 2 5 the 
+: 976 3 5 mashed 
+: 980 3 5 po
+: 985 5 3 ta
+: 992 3 3 to 
+: 997 8 3 too, 
+- 1007
+: 1018 2 5 A
+: 1022 2 5 ny 
+: 1026 2 5 old 
+: 1030 7 5 dance 
+: 1038 2 5 that 
+: 1042 2 5 let 
+: 1046 2 8 you 
+: 1050 5 3 wan
+: 1058 2 3 na 
+: 1062 5 1 do 
+- 1068
+: 1069 3 1 But 
+: 1074 4 3 let’s 
+: 1081 7 1 dance, 
+- 1090
+: 1133 3 1 Well 
+: 1138 7 3 let’s 
+: 1147 5 1 dance 
+- 1154
+F 1200 3 1 O
+F 1204 3 1 K 
+F 1209 5 1 wail 
+F 1216 3 1 now. 
+- 1221
+F 1263 23 1 Oh, 
+F 1289 9 1 yeah 
+- 1300
+: 1729 5 1 Hey, 
+: 1736 2 1 ba
+: 1740 2 1 by, 
+: 1744 2 1 if 
+: 1748 2 1 you’re 
+: 1752 4 3 all 
+: 1758 3 3 a
+: 1763 6 3 lo
+: 1771 5 1 ~ne 
+- 1778
+: 1792 2 -1 May
+: 1796 2 -1 be 
+: 1800 5 1 you’ll 
+: 1807 2 1 let 
+: 1811 2 1 me 
+: 1815 3 3 walk 
+: 1820 5 6 you 
+: 1828 4 1 home 
+- 1834
+: 1835 2 1 But 
+: 1839 5 3 let’s 
+: 1847 6 3 dance, 
+- 1855
+: 1897 3 3 Well 
+: 1902 3 3 le
+: 1906 3 1 ~t’s 
+: 1911 8 1 dance 
+- 1921
+: 1962 2 1 We’ll 
+: 1966 2 3 do 
+: 1970 2 1 the 
+: 1974 5 5 twist, 
+: 1982 2 5 the 
+: 1986 5 5 stomp, 
+: 1993 2 5 the 
+: 1997 3 5 mashed 
+: 2001 3 5 po
+: 2006 5 3 ta
+: 2013 3 3 to 
+: 2018 8 3 too, 
+- 2028
+: 2040 2 5 A
+: 2044 2 5 ny 
+: 2048 2 5 old 
+: 2052 7 5 dance 
+: 2060 2 5 that 
+: 2064 2 5 let 
+: 2068 2 8 you 
+: 2072 5 3 wan
+: 2080 2 3 na 
+: 2084 5 1 do 
+- 2091
+: 2092 3 1 But 
+: 2097 4 3 let’s 
+: 2104 7 1 dance, 
+- 2113
+: 2156 3 1 Well 
+: 2161 7 3 let’s 
+: 2170 5 1 dance 
+- 2177
+: 2240 6 1 Hey, 
+: 2248 2 1 ba
+: 2252 2 1 by, 
+: 2256 2 1 things 
+: 2260 2 1 are 
+: 2264 3 3 swin
+: 2269 5 3 gin’ 
+: 2276 8 1 right 
+- 2286
+: 2304 2 -2 Yes, 
+: 2308 2 -2 I 
+: 2312 5 1 know 
+: 2320 5 1 that 
+: 2328 2 3 this 
+: 2332 5 6 is 
+: 2340 2 6 the 
+: 2344 2 1 night 
+- 2347
+: 2348 3 1 Well 
+: 2353 5 3 let’s 
+: 2360 5 3 dance, 
+- 2367
+: 2411 3 3 Well 
+: 2416 6 3 let’s 
+: 2424 7 1 dance 
+- 2433
+: 2476 2 1 We’ll 
+: 2480 2 3 do 
+: 2484 2 1 the 
+* 2488 5 5 twist, 
+: 2496 2 5 the 
+* 2500 5 5 stomp, 
+: 2507 2 5 the 
+* 2511 3 5 mashed 
+* 2515 3 5 po
+* 2520 5 3 ta
+* 2527 3 3 to 
+: 2532 8 3 too, 
+- 2542
+: 2553 2 5 A
+: 2557 2 5 ny 
+: 2561 2 5 old 
+* 2565 7 5 dance 
+: 2573 2 5 that 
+: 2577 2 5 let 
+: 2581 2 8 you 
+: 2585 5 3 wan
+: 2593 2 3 na 
+: 2597 5 1 do 
+- 2604
+: 2605 3 1 But 
+: 2610 4 3 let’s 
+: 2617 7 1 dance, 
+- 2626
+: 2669 3 1 Well 
+: 2674 7 3 let’s 
+: 2683 5 1 dance 
+- 2690
+: 2733 2 1 But 
+: 2737 5 3 let’s 
+: 2745 6 1 dance 
+- 2753
+: 2797 2 1 But 
+: 2801 5 3 let’s 
+: 2809 6 1 dance 
+- 2817
+: 2860 2 1 But 
+: 2864 5 3 let’s 
+: 2872 6 1 dance 
+E

@@ -1,0 +1,85 @@
+#ARTIST:The Hitchhiker’s Guide To The Galaxy (Gabriel Crouch)
+#TITLE:Huma’s Hymn
+#MP3:The Hitchhiker’s Guide To The Galaxy (Gabriel Crouch) - Huma’s Hymn.mp3
+#CREATOR:GALAKTOS
+#GENRE:Soundtrack
+#YEAR:2005
+#LANGUAGE:English
+#BPM:201
+#GAP:12200
+#VIDEO:a=P-YJhUMSTFk,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7d/26/29/7d2629fc-3f96-8252-1d51-b70858f782e4/00720616250629.rgb.jpg/5000x5000bb.jpg
+: 0 4 -3 Oh 
+: 8 11 2 migh
+: 20 3 4 ty 
+: 24 7 6 Ar
+: 32 7 2 kle
+* 40 7 14 s
+: 48 3 13 e
+: 52 3 11 i
+: 56 4 9 zure, 
+- 62
+: 64 4 11 Thou 
+: 72 8 6 camest 
+: 84 3 6 from 
+: 88 8 4 high 
+: 100 3 4 a
+: 104 16 2 bove. 
+- 122
+: 128 3 2 A
+: 132 3 4 nd 
+: 136 10 6 sneezed 
+: 148 2 8 from 
+: 152 4 9 out 
+: 160 4 6 thy 
+* 168 14 13 nos
+: 184 8 6 trils, 
+- 194
+: 195 2 8 A 
+: 199 10 9 gift 
+: 210 2 9 of 
+: 214 10 8 boun
+: 225 2 8 teous 
+: 229 16 6 love. 
+- 247
+: 254 4 6 The 
+: 262 10 4 u
+: 273 3 2 ni
+: 277 3 4 ver
+: 281 3 6 se 
+* 285 6 7 a
+: 293 15 4 round 
+: 309 4 4 us 
+- 315
+: 316 7 9 E
+: 324 11 9 merg
+: 336 3 7 eth 
+: 340 11 7 from 
+: 352 3 6 thy 
+: 356 10 6 nose. 
+- 368
+: 372 4 9 Now 
+: 379 3 11 we 
+: 383 3 13 a 
+* 387 16 14 await 
+- 405
+: 408 4 13 With 
+* 415 11 13 ea
+: 427 3 11 ger 
+: 431 6 9 ex
+: 438 6 11 pec
+: 446 6 9 ta
+: 453 6 6 ti
+: 461 14 2 on 
+- 477
+: 484 2 2 Thy 
+: 488 7 2 hand
+: 496 7 4 ker
+: 504 16 6 chief, 
+- 522
+: 527 6 7 To 
+: 534 6 6 bring 
+: 542 6 4 us 
+: 550 8 2 back 
+: 562 2 4 to 
+* 566 68 2 thee. 
+E

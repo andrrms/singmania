@@ -1,0 +1,168 @@
+#ARTIST:Pink Floyd
+#TITLE:Welcome To The Machine
+#MP3:Pink Floyd - Welcome To The Machine.mp3
+#CREATOR:Fepo
+#GENRE:Classic Rock
+#YEAR:1975
+#LANGUAGE:English
+#BPM:250.16
+#GAP:62330
+#VIDEO:v=NCfVFxRsKQc,co=welcome-to-the-machine-5c6f12583db1d.jpg,bg=pink-floyd-4dea85237bfef.jpg
+: 0 2 7 Wel
+: 4 7 7 come 
+: 16 3 6 my 
+: 24 8 7 son, 
+- 34
+: 60 3 7 Wel
+: 66 8 7 come 
+: 91 9 7 to 
+: 102 2 4 the 
+: 105 3 7 ma
+: 110 2 7 chi
+: 114 14 6 ~ne 
+- 130
+: 243 2 7 Where 
+: 247 4 7 have 
+: 254 2 4 you 
+: 258 7 7 been? 
+- 267
+: 301 3 9 It’s 
+: 306 4 9 al
+: 313 4 9 right 
+: 320 3 7 we 
+: 325 7 9 know 
+: 336 5 9 where 
+: 343 2 7 you’ve 
+: 347 8 11 been. 
+- 357
+: 476 2 6 You’ve 
+: 480 4 7 been 
+: 488 2 6 in 
+: 491 2 4 the 
+: 495 4 7 pipe
+: 502 4 7 line, 
+- 508
+: 513 2 7 Fil
+: 517 2 6 ling 
+: 521 2 4 in 
+: 525 8 7 time, 
+- 535
+: 596 2 6 Pro
+: 600 6 6 vi
+: 608 2 6 ded 
+: 611 2 4 with 
+: 616 6 6 toys 
+: 628 2 4 and 
+: 632 4 6 Scou
+: 638 2 6 ting 
+: 642 2 4 for 
+: 646 12 6 Boys. 
+- 660
+: 718 2 4 You 
+: 722 5 7 bought 
+: 729 2 6 a 
+: 732 2 4 gui
+: 736 6 7 tar 
+- 744
+: 750 2 7 To 
+: 754 2 7 pu
+: 758 2 6 nish 
+: 762 2 4 your 
+: 766 7 7 ma, 
+- 775
+: 833 2 -1 And 
+: 837 2 6 you 
+: 841 2 6 did
+: 845 2 6 n’t 
+: 849 4 6 like 
+: 857 9 6 school, 
+- 868
+: 881 2 -1 And 
+: 885 2 -1 you 
+: 889 5 6 know 
+: 897 3 4 you’re 
+: 902 4 6 no
+: 908 2 6 bo
+: 912 2 4 dy’s 
+* 916 26 7 foo
+* 944 14 6 ~
+* 960 12 4 ~l, 
+- 974
+: 1034 4 4 So 
+: 1040 6 7 wel
+* 1048 80 7 come 
+: 1138 8 7 to 
+: 1149 3 7 the 
+: 1153 3 7 ma
+: 1158 38 6 chine. 
+- 1198
+: 2915 2 7 Wel
+: 2919 7 7 come 
+: 2931 3 6 my 
+: 2939 8 7 son, 
+- 2949
+: 2974 3 7 Wel
+: 2980 8 7 come 
+: 3005 7 7 to 
+: 3015 2 4 the 
+: 3019 2 7 ma
+: 3024 3 7 chi
+: 3028 14 6 ~ne 
+- 3044
+: 3156 2 7 What 
+: 3160 2 7 did 
+: 3164 2 4 you 
+: 3168 10 7 dream? 
+- 3180
+: 3216 2 9 It’s 
+: 3220 5 9 al
+: 3227 4 9 right 
+: 3234 2 7 we 
+: 3238 5 9 told 
+: 3245 2 7 you 
+: 3249 3 9 what 
+: 3254 2 7 to 
+: 3259 13 11 dream. 
+- 3274
+: 3389 2 7 You 
+: 3393 4 7 dreamed 
+: 3400 2 6 of 
+: 3404 2 4 a 
+: 3408 4 7 big 
+: 3416 5 7 sta
+: 3423 2 6 ~r, 
+- 3427
+: 3510 2 6 He 
+: 3514 7 6 played 
+: 3524 2 4 a 
+: 3528 4 6 mean 
+: 3539 2 4 gui
+: 3543 7 6 tar, 
+- 3552
+: 3618 2 4 He 
+: 3622 5 7 al
+: 3630 3 4 ways 
+: 3635 5 7 ate 
+: 3642 2 4 in 
+: 3645 2 4 the 
+: 3648 6 7 Steak 
+: 3660 7 7 Bar. 
+- 3669
+: 3739 2 4 He 
+: 3743 4 6 loved 
+: 3750 2 4 to 
+: 3754 4 6 drive 
+: 3761 2 6 in 
+: 3765 2 4 his 
+: 3769 4 6 Ja
+: 3776 2 4 gu
+: 3780 5 6 ar. 
+- 3787
+: 3855 4 4 So 
+: 3862 5 7 wel
+* 3870 80 7 come 
+: 3960 7 7 to 
+: 3970 3 7 the 
+: 3975 3 7 ma
+: 3980 52 6 chine. 
+E

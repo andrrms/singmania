@@ -1,0 +1,244 @@
+#ARTIST:The Divine Comedy
+#TITLE:Songs Of Love
+#MP3:The Divine Comedy - Songs Of Love.mp3
+#CREATOR:hommemystere
+#YEAR:1996
+#LANGUAGE:English
+#BPM:300
+#GAP:9000
+#VIDEO:a=k64RlXzecPU,co=casanova-6083db91e61d6.jpg,bg=divine-comedy-the-5230ff9e24c3f.jpg
+: 0 16 12 Pale, 
+: 20 6 12 pu
+: 28 3 9 be
+: 33 4 7 scent 
+: 40 11 9 beasts 
+- 53
+: 65 5 9 Roam 
+: 72 5 7 through 
+: 80 3 4 the 
+: 87 14 7 streets 
+- 103
+: 110 3 7 And 
+: 116 4 4 co
+: 122 5 2 ffee 
+: 130 21 4 -shops 
+- 153
+: 168 4 12 Their 
+: 175 13 14 prey 
+: 196 5 14 ga
+: 203 5 12 ther 
+: 210 3 9 in 
+: 216 12 12 herds 
+- 230
+: 233 3 12 Of 
+: 239 4 12 stiff 
+: 246 6 9 knee
+: 253 5 7 -length 
+: 260 8 9 skirts 
+- 270
+: 276 4 9 And 
+: 282 6 9 white 
+: 290 5 7 an
+: 296 4 4 kle 
+: 304 21 7 -socks 
+- 327
+: 342 5 11 But 
+: 349 11 12 while 
+: 363 4 12 they 
+: 370 5 12 search 
+: 377 4 9 for 
+: 383 3 7 a 
+: 388 13 9 mate 
+- 403
+: 408 3 9 My 
+: 414 4 9 type 
+: 421 5 7 hi
+: 428 3 4 ber
+: 434 12 7 nate 
+- 448
+: 452 2 7 In 
+: 458 5 7 bed
+: 464 4 4 rooms 
+: 471 3 2 a
+: 476 24 4 bove 
+- 502
+: 515 4 12 Com
+: 524 14 14 po
+: 544 12 12 sing 
+: 559 4 9 their 
+: 567 22 12 songs 
+: 602 5 11 of 
+* 611 62 12 love 
+- 675
+: 698 9 12 Young, 
+: 716 5 12 u
+: 725 3 9 ni
+: 733 3 7 form 
+: 741 14 9 minds 
+- 757
+: 760 3 9 In 
+: 765 4 9 u
+: 771 3 7 ni
+: 777 3 4 form 
+: 784 12 7 lines 
+- 798
+: 799 2 7 And 
+: 806 3 7 u
+: 813 3 4 ni
+: 820 3 2 form 
+: 827 21 4 ties 
+- 850
+: 864 4 12 Run 
+: 871 8 14 ’round 
+- 881
+: 884 5 14 With 
+: 892 7 14 trou
+: 901 3 12 sers 
+: 908 3 9 on 
+: 915 11 12 fire 
+- 928
+: 930 4 12 And 
+: 937 4 12 signs 
+: 944 3 9 of 
+: 951 4 7 de
+: 958 11 9 sire 
+- 971
+: 973 3 9 They 
+: 980 4 9 can
+: 988 3 7 not 
+: 995 3 4 dis
+: 1002 29 7 guise 
+- 1033
+: 1037 4 11 While 
+: 1045 12 12 I 
+: 1067 5 12 try 
+: 1074 4 9 to 
+: 1082 2 7 find 
+: 1089 14 9 words 
+- 1104
+: 1104 4 9 As 
+: 1111 4 9 light 
+: 1118 3 7 as 
+: 1125 3 4 the 
+: 1130 15 7 birds 
+- 1147
+: 1148 3 7 That 
+: 1154 4 7 cir
+: 1161 5 4 cle 
+: 1169 4 2 a
+: 1176 26 4 bove 
+- 1204
+: 1210 6 12 To 
+: 1219 21 14 put 
+: 1242 12 12 in 
+: 1256 4 9 my 
+- 1262
+: 1263 33 12 Songs 
+: 1299 4 11 of 
+* 1307 29 12 love 
+- 1338
+: 1393 9 12 Fate 
+: 1408 9 10 doe
+: 1420 11 8 sn’t 
+: 1437 12 7 hang 
+: 1450 13 5 on 
+: 1467 9 8 a 
+: 1481 23 7 wrong 
+- 1506
+: 1510 5 4 Or 
+: 1519 10 5 right 
+: 1532 26 7 choice 
+- 1560
+: 1568 12 12 For
+: 1582 12 10 tune 
+: 1597 10 8 de
+: 1611 12 7 pends 
+: 1627 9 5 on 
+: 1640 8 8 the 
+: 1655 19 7 tone 
+- 1676
+: 1685 4 4 Of 
+: 1692 4 5 your 
+* 1698 27 7 voice 
+- 1727
+: 1735 3 11 So 
+: 1743 13 12 sing 
+: 1764 5 12 while 
+: 1772 3 9 you 
+: 1778 3 7 have 
+: 1786 13 9 time 
+- 1801
+: 1806 5 9 Let 
+: 1815 3 7 the 
+: 1822 3 4 sun 
+: 1829 10 7 shine 
+: 1850 3 7 down 
+: 1857 5 4 from 
+: 1866 3 2 a
+: 1871 23 4 bove 
+- 1896
+: 1909 4 12 And 
+: 1917 19 14 fill 
+: 1939 10 12 you 
+: 1953 3 9 with 
+: 1961 26 12 songs 
+: 1995 5 11 of 
+* 2004 67 12 love 
+- 2073
+: 2786 11 12 Fate 
+: 2803 11 10 doe
+: 2817 10 8 sn’t 
+: 2831 11 7 hang 
+: 2845 11 5 on 
+: 2860 9 8 a 
+: 2874 25 7 wrong 
+- 2901
+: 2904 4 4 Or 
+: 2912 8 5 right 
+: 2925 31 7 choice 
+- 2958
+: 2962 11 12 For
+: 2976 11 10 tune 
+: 2990 11 8 de
+: 3005 12 7 pends 
+: 3020 11 5 on 
+: 3035 8 8 the 
+: 3049 22 7 tone 
+- 3073
+: 3077 4 7 Of 
+: 3085 4 9 your 
+* 3093 26 11 voice 
+- 3121
+: 3122 3 9 So 
+: 3127 5 11 let’s 
+: 3135 19 12 sing 
+: 3158 3 12 while 
+: 3165 3 9 we 
+: 3171 3 7 still 
+: 3178 12 9 can 
+- 3192
+: 3202 4 9 While 
+: 3209 3 7 the 
+: 3215 3 4 sun 
+: 3222 19 7 hangs 
+: 3246 3 7 high 
+: 3252 3 4 up 
+: 3260 2 2 a
+: 3265 33 4 bove 
+- 3300
+* 3309 16 14 Won
+: 3330 8 12 der
+: 3340 7 9 ful 
+: 3352 31 12 songs 
+- 3385
+: 3389 4 11 Of 
+* 3398 79 12 love 
+- 3479
+: 3484 16 14 Beau
+: 3504 8 12 ti
+: 3513 14 9 ful 
+: 3529 21 12 songs 
+- 3552
+* 3553 44 14 Of 
+* 3600 104 12 love 
+E

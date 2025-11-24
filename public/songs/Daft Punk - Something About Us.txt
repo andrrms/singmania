@@ -1,0 +1,136 @@
+#ARTIST:Daft Punk
+#TITLE:Something About Us
+#MP3:Daft Punk - Something About Us.mp3
+#CREATOR:DaveGahan
+#GENRE:Electronic
+#YEAR:2001
+#LANGUAGE:English
+#BPM:399.96
+#GAP:77330
+#VIDEO:v=NY5OB-l7xfo,co=something-about-us-love-theme-from-interstella-5555-5713c106cc102.jpg,bg=daft-punk-531de9b657ae9.jpg
+: 0 6 7 It 
+: 8 6 9 might 
+: 16 6 12 not 
+: 24 6 12 be 
+: 48 6 9 the 
+: 56 8 14 right 
+: 72 14 12 time 
+- 88
+: 128 6 7 I 
+: 136 6 9 might 
+: 144 6 12 not 
+: 152 6 12 be 
+: 176 6 7 the 
+: 184 8 9 right 
+: 200 14 2 one 
+- 216
+: 232 6 2 But 
+: 240 6 5 there’s 
+: 248 6 9 some
+: 256 6 7 thing 
+: 264 6 5 a
+: 272 10 2 bout 
+: 288 6 2 us 
+: 304 6 2 I 
+: 312 6 7 want 
+: 320 6 9 to 
+: 328 14 7 say 
+- 344
+: 360 6 5 Cause 
+: 368 6 7 there’s 
+: 376 6 9 some
+: 384 6 7 thing 
+: 392 6 5 be
+: 400 10 4 tween 
+: 416 6 2 us 
+: 424 2 2 a
+: 428 2 0 ny
+: 432 14 2 way 
+- 448
+: 512 6 7 I 
+: 520 6 9 might 
+: 528 6 12 not 
+: 536 6 12 be 
+: 560 6 9 the 
+: 568 8 14 right 
+: 584 14 12 one 
+- 600
+: 640 6 7 It 
+: 648 6 9 might 
+: 656 6 12 not 
+: 664 6 12 be 
+: 688 6 7 the 
+: 696 8 9 right 
+: 712 14 2 time 
+- 728
+: 744 6 2 But 
+: 752 6 5 there’s 
+: 760 6 9 some
+: 768 6 7 thing 
+: 776 6 5 a
+: 784 14 2 bout 
+: 800 6 2 us 
+: 816 6 0 I’ve 
+: 824 6 2 got 
+: 832 6 5 to 
+: 840 14 14 do 
+- 856
+: 896 6 0 Some 
+: 904 6 2 kind 
+: 912 6 5 of 
+: 920 6 2 sec
+: 928 6 2 ret 
+: 936 6 9 I 
+: 944 6 7 will 
+: 952 6 9 share 
+: 960 6 7 with 
+: 968 14 14 you 
+- 984
+: 1024 6 0 I 
+: 1032 6 2 need 
+: 1040 6 4 you 
+: 1048 6 5 more 
+: 1056 6 7 than 
+: 1064 6 4 a
+: 1072 6 5 ny
+: 1080 6 2 thing 
+: 1088 6 4 in 
+: 1096 6 0 my 
+: 1104 14 2 life 
+- 1120
+: 1152 6 0 I 
+: 1160 6 2 want 
+: 1168 6 4 you 
+: 1176 6 5 more 
+: 1184 6 7 than 
+: 1192 6 4 a
+: 1200 6 5 ny
+: 1208 6 2 thing 
+: 1216 6 4 in 
+: 1224 6 0 my 
+: 1232 14 2 life 
+- 1248
+: 1280 6 0 I’ll 
+: 1288 6 2 miss 
+: 1296 6 4 you 
+: 1304 6 5 more 
+: 1312 6 7 than 
+: 1320 6 4 a
+: 1328 6 5 ny
+: 1336 6 2 one 
+: 1344 6 4 in 
+: 1352 6 0 my 
+: 1360 14 2 life 
+- 1376
+: 1408 6 0 I 
+: 1416 6 2 love 
+: 1424 6 4 you 
+: 1432 6 5 more 
+: 1440 6 7 than 
+: 1448 6 4 a
+: 1456 6 5 ny
+: 1464 6 2 one 
+: 1472 6 4 in 
+: 1480 6 0 my 
+: 1488 14 2 life 
+E

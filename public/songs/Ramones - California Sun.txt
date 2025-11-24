@@ -1,0 +1,244 @@
+#ARTIST:Ramones
+#TITLE:California Sun
+#MP3:Ramones - California Sun.mp3
+#CREATOR:Unknown
+#COVER:Ramones - California Sun [CO].jpg
+#BACKGROUND:Ramones - California Sun [BG].jpg
+#GENRE:Punk
+#YEAR:1977
+#LANGUAGE:English
+#BPM:378
+#GAP:160
+#VIDEO:a=awHungTMVPM,co=blitzkrieg-bop-6057cb0ebe6a9.jpg,bg=ramones-5404f6cd3d25b.jpg,preview=36.985,medley=418-1683
+F 0 5 4 One! 
+F 9 5 4 Chew! 
+F 17 5 4 Free! 
+F 26 6 4 Far! 
+- 34
+: 418 4 4 Well 
+: 423 1 4 I’m 
+: 425 5 8 going 
+: 433 7 11 out 
+: 441 6 11 west 
+: 448 5 11 where 
+: 454 8 13 I 
+: 463 4 16 be
+: 468 6 11 long 
+- 476
+: 544 3 4 Where 
+: 548 2 4 the 
+: 551 6 8 days 
+: 559 4 11 are 
+: 565 10 11 short 
+- 576
+: 576 1 11 And 
+: 578 3 11 the 
+: 582 6 13 nights 
+: 589 3 16 are 
+: 594 10 11 long 
+- 606
+: 665 5 8 When 
+: 671 3 11 I 
+: 675 9 11 walk 
+: 698 5 6 and 
+: 704 4 8 they 
+: 709 11 4 walk 
+- 722
+: 731 5 11 I 
+: 738 9 11 twist 
+: 762 4 6 and 
+: 767 5 8 they 
+: 773 12 4 twist 
+- 787
+: 796 3 8 And 
+: 800 4 11 I 
+: 806 5 11 shim
+: 812 6 11 my 
+: 827 4 6 and 
+: 832 5 8 they 
+: 839 4 4 shim
+: 844 5 4 my 
+- 851
+: 861 3 8 And 
+: 865 3 11 I 
+: 869 11 11 fly 
+: 892 3 6 and 
+: 896 6 8 they 
+: 903 8 4 fly 
+- 913
+: 928 7 11 We’re 
+: 936 7 11 out 
+: 944 7 11 there 
+: 952 3 11 ha
+: 956 5 11 ving 
+: 964 12 13 fun 
+- 978
+: 992 3 13 In 
+: 996 3 8 the 
+: 1000 7 4 warm 
+: 1008 3 4 Ca
+: 1012 3 4 li
+: 1017 5 6 for
+: 1023 4 8 nia 
+: 1028 12 4 sun 
+- 1042
+: 1058 3 4 Well, 
+: 1062 2 4 I’m 
+: 1065 4 8 going 
+: 1071 6 11 out 
+: 1079 6 11 west 
+: 1086 7 11 down 
+: 1094 7 13 on 
+: 1102 3 16 the 
+: 1106 13 11 coast 
+- 1121
+: 1182 3 4 Where 
+: 1186 2 4 the 
+: 1189 4 8 Ca
+: 1194 2 11 li
+: 1197 4 11 for
+: 1202 3 11 nia 
+: 1206 10 11 girls 
+- 1217
+: 1217 2 11 Are 
+: 1220 5 13 real
+: 1226 3 13 ly 
+: 1230 3 16 the 
+: 1234 10 11 most 
+- 1246
+: 1305 5 8 And 
+: 1311 4 11 I 
+: 1316 10 11 walk 
+: 1338 5 6 and 
+: 1344 5 8 they 
+: 1350 13 4 walk 
+- 1365
+: 1371 7 11 I 
+: 1379 13 11 twist 
+: 1400 5 6 and 
+: 1406 7 8 they 
+: 1414 11 4 twist 
+- 1427
+: 1435 5 8 And 
+: 1442 4 11 I 
+: 1447 6 11 shim
+: 1454 5 11 my 
+: 1467 5 6 and 
+: 1473 4 8 they 
+: 1479 4 4 shim
+: 1484 8 4 my 
+- 1494
+: 1500 4 8 And 
+: 1505 1 11 I 
+: 1509 11 11 fly 
+: 1532 4 6 and 
+: 1537 5 8 they 
+: 1544 11 4 fly 
+- 1557
+: 1565 7 11 We’re 
+: 1578 7 11 out 
+: 1586 5 11 there 
+: 1592 2 11 ha
+: 1595 10 11 ving 
+* 1608 14 13 fun 
+- 1624
+: 1637 2 13 In 
+: 1640 2 8 the 
+: 1643 5 4 warm 
+: 1650 3 4 Ca
+: 1654 3 4 li
+: 1659 5 6 for
+: 1665 1 8 nia
+: 1667 2 6 ~ 
+: 1670 13 4 sun 
+- 1685
+: 2216 1 4 Well, 
+: 2220 1 4 the 
+: 2223 6 8 girls 
+: 2230 5 11 are 
+: 2236 7 11 fris
+: 2244 1 11 ky 
+: 2246 7 11 in 
+: 2254 5 13 old 
+: 2260 6 16 Fris
+: 2268 11 11 co 
+- 2281
+: 2345 3 4 A 
+: 2349 4 8 pret
+: 2354 1 11 ty 
+: 2358 1 11 lit
+: 2360 2 11 tle 
+: 2365 6 11 chick 
+: 2372 3 11 where
+: 2376 5 13 e
+: 2382 4 13 ver 
+: 2388 1 16 you 
+: 2392 5 11 go 
+- 2399
+* 2443 6 13 Oh
+* 2450 4 11 u
+* 2455 3 13 oh
+* 2459 4 11 u
+* 2464 3 13 oh 
+- 2468
+: 2468 2 11 And 
+: 2471 3 11 I 
+: 2476 7 11 walk 
+: 2496 5 6 and 
+: 2502 5 8 they 
+: 2510 10 4 walk 
+- 2522
+: 2528 8 11 I 
+: 2537 11 11 twist 
+: 2559 6 6 and 
+: 2566 6 8 they 
+: 2573 9 4 twist 
+- 2584
+: 2593 3 8 And 
+: 2597 6 11 I 
+: 2605 7 11 shim
+: 2613 8 11 my 
+: 2628 4 6 and 
+: 2633 4 8 they 
+: 2638 4 4 shim
+: 2643 5 4 my 
+- 2650
+: 2659 4 8 And 
+: 2664 5 11 I 
+: 2670 11 11 fly 
+: 2692 4 6 and 
+: 2697 5 8 they 
+: 2703 9 4 fly 
+- 2714
+: 2724 7 11 We’re 
+: 2734 7 11 out 
+: 2742 7 11 there 
+: 2751 5 11 ha
+: 2757 5 11 ving 
+: 2764 13 13 fun 
+- 2779
+: 2793 2 13 In 
+: 2796 2 8 the 
+: 2800 8 4 warm 
+: 2810 3 4 Ca
+: 2814 3 4 li
+: 2818 5 6 for
+: 2825 4 8 nia 
+: 2830 10 4 sun 
+- 2842
+: 2854 6 11 We’re 
+: 2868 6 11 out 
+: 2875 5 11 there 
+: 2882 3 11 ha
+: 2886 6 11 ving 
+: 2898 12 13 fun 
+- 2912
+: 2923 2 13 In 
+: 2926 2 8 the 
+: 2931 5 4 warm 
+: 2939 3 4 Ca
+: 2943 2 4 li
+: 2947 6 6 for
+: 2954 4 8 nia 
+: 2960 16 4 sun 
+E

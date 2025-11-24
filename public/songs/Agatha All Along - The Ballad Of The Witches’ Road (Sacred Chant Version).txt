@@ -1,0 +1,341 @@
+#ARTIST:Agatha All Along
+#TITLE:The Ballad Of The Witches’ Road (Sacred Chant Version)
+#MP3:Agatha All Along - The Ballad Of The Witches’ Road (Sacred Chant Version).mp3
+#CREATOR:GaryCXJk
+#COVER:Agatha All Along - The Ballad Of The Witches’ Road (Sacred Chant Version) [CO].jpg
+#BACKGROUND:Agatha All Along - The Ballad Of The Witches’ Road (Sacred Chant Version) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2024
+#LANGUAGE:English
+#BPM:316
+#GAP:3150
+#VIDEO:v=VnjYeJ5blxo,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/53/6e/4c536e39-39db-dadb-a4ac-bd00cb829786/24UM1IM00616.rgb.jpg/5000x5000bb.jpg,bg=agatha-all-along-6730c47aa9daf.jpg
+: 0 7 9 See
+: 9 5 11 kest 
+: 19 6 13 thou 
+: 27 5 14 the 
+: 36 15 16 road 
+: 56 9 9 to 
+- 74
+: 77 8 16 All 
+: 86 3 14 that’s 
+: 97 8 14 foul 
+: 106 5 12 and 
+: 117 19 12 fair
+: 137 25 14 ~ 
+- 172
+: 196 7 9 Gat
+: 205 4 11 her 
+: 214 2 13 sis
+: 222 4 14 ters 
+: 233 17 16 fire
+: 252 15 9 ~ 
+- 270
+: 272 10 16 Wa
+: 283 6 14 ter, 
+: 291 7 14 earth 
+: 300 5 16 and 
+: 310 18 16 air
+: 329 43 18 ~ 
+- 382
+: 390 7 19 Dar
+: 400 4 17 kest 
+: 409 9 19 hour,
+: 419 6 16 ~ 
+: 429 6 17 wake 
+: 440 6 14 thy 
+: 449 4 16 po
+: 454 4 16 wer 
+- 466
+: 469 7 17 Earth
+: 480 6 17 ly 
+: 488 7 16 and 
+: 498 6 12 di
+: 508 18 12 vine
+: 527 37 14 ~ 
+- 574
+: 588 8 14 Burn 
+: 597 8 12 and 
+: 608 8 14 brew 
+: 617 6 11 with 
+: 627 8 12 co
+: 637 6 14 ven 
+: 647 4 16 true 
+- 655
+* 657 5 17 And 
+* 666 8 17 glo
+* 676 5 16 ry 
+* 686 8 16 shall 
+* 695 6 14 be 
+* 704 18 14 thine
+* 723 38 16 ~ 
+- 782
+: 812 14 21 Down, 
+: 830 18 16 down, 
+: 849 10 19 down 
+: 860 6 21 the 
+: 869 11 16 road 
+- 887
+: 890 7 16 Down 
+: 900 6 12 the 
+: 908 6 14 wit
+: 918 4 16 ches’ 
+: 927 24 9 road 
+- 963
+: 967 16 21 Down, 
+: 985 16 16 down, 
+: 1005 8 19 down 
+: 1015 6 21 the 
+: 1025 12 16 road 
+- 1043
+: 1046 8 16 Down 
+: 1056 7 12 the 
+: 1065 6 14 wit
+: 1074 5 16 ches’ 
+: 1085 27 16 road 
+- 1121
+: 1125 16 21 Down, 
+: 1145 17 16 down, 
+: 1164 9 19 down 
+: 1174 8 21 the 
+: 1183 11 16 road 
+- 1202
+: 1205 7 16 Down 
+: 1214 7 12 the 
+: 1223 6 14 wit
+: 1233 5 16 ches’ 
+: 1242 24 9 road 
+- 1276
+: 1284 7 14 Cir
+: 1292 6 12 cles 
+: 1302 8 14 sewn 
+: 1311 6 11 with 
+: 1322 19 16 fate 
+- 1350
+: 1353 6 12 Un
+: 1363 6 14 lock 
+: 1373 8 12 thy 
+: 1383 9 11 hid
+: 1394 8 7 den 
+: 1403 44 9 gate 
+- 1468
+: 1512 6 10 Mar
+: 1521 5 12 ching 
+: 1529 6 14 e
+: 1537 4 15 ver 
+: 1546 15 17 for
+: 1563 7 10 ward 
+- 1576
+: 1578 5 17 ’Neath 
+: 1587 8 15 the 
+: 1596 8 15 woo
+: 1605 3 13 ded 
+: 1613 16 13 shrine
+: 1630 31 15 ~ 
+- 1671
+: 1686 3 10 I 
+: 1694 6 10 stray 
+: 1702 5 12 not 
+: 1711 6 14 from 
+: 1719 6 15 the 
+: 1727 6 17 path 
+- 1741
+: 1744 14 10 I 
+: 1761 8 17 hold 
+: 1770 5 15 death’s 
+: 1779 7 15 hand 
+: 1788 5 17 in 
+: 1796 14 17 mine
+: 1811 37 19 ~ 
+- 1858
+: 1869 8 20 Pri
+: 1878 6 18 mal 
+: 1886 10 20 night, 
+: 1903 7 18 gi
+: 1911 5 15 veth 
+: 1920 7 17 sight 
+- 1931
+: 1933 3 13 Fa
+: 1937 7 18 mil
+: 1945 6 18 iar 
+: 1953 7 17 by 
+: 1962 4 13 thy 
+: 1971 17 13 side
+: 1989 25 15 ~ 
+- 2024
+: 2031 3 15 If 
+: 2039 8 15 one 
+: 2048 6 13 be 
+: 2055 7 15 gone, 
+: 2064 6 12 we 
+: 2073 8 13 car
+: 2082 7 15 ry 
+: 2090 7 17 on 
+- 2105
+: 2108 7 18 Spi
+: 2116 7 17 rit 
+: 2124 7 17 as 
+: 2133 7 15 our 
+: 2142 17 15 guide
+: 2160 40 17 ~ 
+- 2208
+: 2211 12 22 Down, 
+: 2227 8 17 down, 
+: 2243 7 20 down 
+: 2251 8 22 the 
+: 2260 11 17 road 
+- 2274
+: 2276 7 17 Down 
+: 2286 6 13 the 
+: 2293 4 15 wit
+: 2302 3 17 ches’ 
+: 2311 19 10 road 
+- 2339
+: 2343 14 22 Down, 
+: 2359 15 17 down, 
+: 2376 7 20 down 
+: 2384 6 22 the 
+: 2392 10 17 road 
+- 2406
+: 2408 8 17 Down 
+: 2417 6 13 the 
+: 2424 6 15 wit
+: 2433 4 17 ches’ 
+: 2441 25 17 road 
+- 2471
+: 2473 15 22 Down, 
+: 2489 14 17 down, 
+: 2504 9 20 down 
+: 2514 6 22 the 
+: 2522 10 17 road 
+- 2536
+: 2538 7 17 Down 
+: 2547 7 13 the 
+: 2555 5 15 wit
+: 2562 4 17 ches’ 
+: 2570 18 10 road 
+- 2599
+: 2603 7 15 Blood 
+: 2611 5 13 and 
+: 2619 6 15 tears 
+: 2627 5 12 and 
+: 2635 20 17 bone 
+- 2664
+: 2668 8 15 Mai
+: 2677 7 13 den, 
+: 2685 6 12 Mot
+: 2692 6 8 her, 
+: 2702 30 10 Crone 
+- 2753
+: 2790 5 10 The 
+: 2798 6 10 road 
+: 2805 3 12 is 
+: 2813 7 14 wild 
+: 2821 4 15 and 
+: 2828 13 17 wic
+: 2844 7 10 ked 
+- 2856
+: 2858 6 17 Win
+: 2866 5 15 ding 
+: 2873 7 15 through 
+: 2881 7 13 the 
+: 2890 13 13 wood
+: 2904 34 15 ~ 
+- 2943
+: 2945 5 10 Where 
+: 2952 6 10 all 
+: 2959 3 12 that’s 
+: 2966 6 14 wrong 
+: 2974 3 15 is 
+: 2981 7 17 right 
+- 2994
+: 2996 13 10 And 
+: 3011 7 17 all 
+: 3019 4 15 that’s 
+: 3026 7 15 bad 
+: 3034 4 17 is 
+: 3042 13 17 good
+: 3056 37 19 ~ 
+- 3098
+: 3100 6 19 Through 
+: 3107 7 20 ma
+: 3115 5 18 ny 
+: 3122 6 20 miles 
+: 3130 3 17 of 
+: 3137 3 18 tricks 
+: 3144 4 15 and 
+: 3151 6 17 trials 
+- 3161
+: 3163 3 13 We’ll 
+: 3167 7 18 wan
+: 3175 6 18 der 
+: 3182 7 17 high 
+: 3190 5 13 and 
+: 3197 17 13 low
+: 3215 32 15 ~ 
+- 3256
+: 3259 7 15 Tame 
+: 3267 5 13 your 
+: 3274 7 15 fears, 
+: 3284 3 12 a 
+: 3290 7 13 door 
+: 3298 5 15 ap
+: 3305 5 17 pears 
+- 3314
+: 3316 3 18 The 
+: 3320 7 18 time 
+: 3328 4 17 has 
+: 3336 6 17 come 
+: 3343 6 15 to 
+: 3350 16 15 go
+: 3367 43 17 ~ 
+- 3412
+: 3414 11 22 Down, 
+: 3428 12 17 down, 
+: 3442 7 20 down 
+: 3450 6 22 the 
+: 3457 11 17 road 
+- 3469
+: 3471 7 17 Down 
+: 3481 5 13 the 
+: 3487 4 15 wit
+: 3494 3 17 ches’ 
+: 3501 14 10 road 
+- 3527
+: 3531 11 22 Down, 
+: 3545 12 17 down, 
+: 3559 7 20 down 
+: 3567 6 22 the 
+: 3575 10 17 road 
+- 3586
+: 3588 8 17 Down 
+: 3597 6 13 the 
+: 3604 4 15 wit
+: 3611 3 17 ches’ 
+: 3619 19 17 road 
+- 3644
+: 3647 13 22 Down, 
+: 3661 13 17 down, 
+: 3676 7 20 down 
+: 3684 6 22 the 
+: 3692 10 17 road 
+- 3703
+: 3705 7 17 Down 
+: 3713 6 13 the 
+: 3720 5 15 wit
+: 3727 3 17 ches’ 
+: 3734 19 13 road 
+- 3759
+: 3762 7 15 Fol
+: 3770 5 13 low 
+: 3777 6 15 me 
+: 3784 4 12 my 
+: 3792 15 17 friend 
+- 3812
+* 3814 5 13 To 
+* 3822 8 15 glo
+* 3835 14 13 ry 
+* 3850 11 12 at 
+* 3865 13 8 the 
+* 3880 38 10 end 
+E

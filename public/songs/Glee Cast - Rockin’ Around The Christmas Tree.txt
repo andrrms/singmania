@@ -1,0 +1,260 @@
+#ARTIST:Glee Cast
+#TITLE:Rockin’ Around The Christmas Tree
+#MP3:Glee Cast - Rockin’ Around The Christmas Tree.mp3
+#CREATOR:seanie627
+#YEAR:2013
+#LANGUAGE:English
+#BPM:285.96
+#GAP:6850
+#VIDEO:v=YFL2ikYHSWU,co=https://gleethecovers.files.wordpress.com/2014/02/s05e08-rockin-around-the-christmas-tree-05.jpg,tags=Christmas
+: 0 3 11 Rock
+: 6 2 11 in’ 
+: 9 2 11 a
+: 13 9 13 round 
+: 29 2 13 the 
+: 33 5 11 Christ
+: 41 2 11 mas 
+: 44 5 13 tree 
+- 51
+: 52 6 11 At 
+: 61 2 11 the 
+: 65 4 15 Christ
+: 72 5 13 mas 
+: 80 6 9 par
+: 89 2 6 ty 
+: 92 6 3 hop 
+- 100
+: 128 3 13 Mis
+: 133 2 13 tle
+: 137 2 13 toe 
+: 141 6 15 hung 
+: 152 7 15 where 
+: 162 3 13 you 
+: 167 2 13 can 
+: 173 7 15 see 
+- 182
+: 183 5 13 Ev
+: 191 1 13 ery 
+: 194 3 11 cou
+: 199 2 11 ~ 
+: 202 2 12 ple 
+* 206 8 13 tries 
+: 217 2 9 to 
+: 221 5 8 stop 
+- 228
+: 257 4 11 Rock
+: 263 2 11 in’ 
+: 267 2 11 a
+: 271 9 13 round 
+: 287 2 13 the 
+: 290 4 11 Christ
+: 298 2 11 mas 
+: 302 5 13 tree 
+- 309
+: 311 6 11 Let 
+: 319 1 11 the 
+: 323 5 15 Christ
+: 330 4 13 mas 
+: 338 6 9 spi
+: 345 3 6 rit 
+: 350 4 3 ring 
+- 356
+: 386 3 13 La
+: 391 2 13 ter 
+: 395 2 13 we’ll 
+: 399 7 15 have 
+: 410 7 15 some 
+: 419 3 13 pump
+: 424 5 13 kin 
+: 431 6 15 pie 
+- 439
+: 440 5 13 And 
+: 448 1 13 we’ll 
+: 451 4 11 do 
+: 458 5 12 some 
+: 467 6 13 ca
+: 475 2 3 ro
+: 479 7 4 ling 
+- 488
+: 515 6 13 You 
+: 523 5 12 will 
+: 532 7 13 get 
+: 540 4 12 a 
+: 547 5 13 sen
+: 556 2 4 ti
+: 559 5 9 men
+: 567 6 13 tal 
+: 576 7 15 fee
+: 585 5 11 ling 
+- 592
+: 600 2 8 When 
+: 604 2 11 you 
+* 608 21 15 hear 
+- 631
+: 644 5 16 Voi
+: 652 6 15 ces 
+: 661 5 16 sing
+: 669 5 15 ing 
+- 676
+: 677 6 16 Let’s 
+: 685 2 13 be 
+: 689 6 15 jol
+: 698 4 16 ly 
+- 704
+* 708 4 18 Deck 
+- 714
+: 722 2 16 The 
+: 726 4 15 halls 
+: 733 3 13 with 
+: 738 9 11 boughs 
+: 749 2 13 of 
+: 753 8 15 hol
+: 765 4 11 ly 
+- 771
+: 773 3 11 Rock
+: 778 2 11 in’ 
+: 782 2 11 a
+: 786 8 13 round 
+: 802 2 13 the 
+: 806 4 11 Christ
+: 814 2 11 mas 
+: 818 5 13 tree 
+- 825
+: 826 6 11 Have 
+: 834 2 11 a 
+: 838 4 15 hap
+: 845 5 13 py 
+: 853 6 9 ho
+: 862 2 6 li
+: 867 5 3 day 
+- 874
+: 902 2 13 Ev
+: 906 2 13 ery
+: 910 5 13 one’s 
+: 918 5 15 dan
+: 926 6 15 cing 
+: 935 3 11 mer
+: 939 4 11 ri
+: 946 6 15 ly 
+- 954
+: 955 5 13 In 
+: 963 1 13 the 
+: 966 5 11 new 
+: 974 4 12 old 
+: 982 6 13 fa
+: 990 3 3 shioned 
+: 996 6 4 way 
+- 1004
+: 1547 5 16 You 
+: 1555 5 15 will 
+: 1563 5 16 get 
+: 1571 5 15 a 
+: 1579 7 16 sen
+: 1587 4 9 ti
+: 1594 5 13 men
+: 1600 6 15 tal 
+: 1607 6 18 fee
+* 1616 10 15 ling 
+- 1628
+: 1632 2 1 When 
+: 1636 2 3 you 
+: 1640 7 6 hear 
+- 1649
+F 1651 4 11 Bop, 
+F 1659 4 11 bop, 
+F 1667 4 11 bop 
+- 1673
+: 1675 5 20 Voi
+: 1683 5 18 ces 
+: 1691 6 20 sing
+: 1700 4 18 ing 
+- 1706
+: 1707 5 20 Let’s 
+: 1715 2 16 be 
+: 1720 6 18 jol
+: 1729 5 20 ly 
+- 1736
+* 1739 4 21 Deck 
+- 1745
+: 1752 2 20 The 
+: 1756 5 18 halls 
+: 1764 3 16 with 
+: 1769 6 15 boughs 
+: 1779 3 16 of 
+: 1784 4 18 ho
+: 1792 2 18 ~l
+: 1796 6 15 ly 
+- 1803
+: 1804 3 15 Rock
+: 1809 2 15 in’ 
+: 1813 2 15 a
+* 1817 9 18 round 
+: 1833 2 15 the 
+: 1837 4 15 Christ
+: 1844 2 15 mas 
+: 1849 6 18 tree 
+- 1856
+: 1857 7 6 At 
+: 1866 1 6 the 
+: 1869 5 8 Christ
+: 1876 5 6 mas 
+: 1884 7 1 par
+: 1893 2 1 ty 
+: 1897 5 -4 hop 
+- 1904
+: 1933 2 18 Mis
+: 1938 2 18 tle
+: 1941 3 18 toe 
+: 1946 7 20 hung 
+: 1956 6 20 where 
+: 1966 2 18 you 
+: 1970 5 18 can 
+: 1977 6 20 see 
+- 1985
+: 1986 7 16 Ev
+: 1995 2 18 ery 
+: 1998 4 15 cou
+: 2005 4 16 ple 
+: 2011 8 18 tries 
+: 2022 2 13 to 
+: 2026 7 11 stop 
+- 2035
+: 2062 3 3 Rock
+: 2067 2 3 in’ 
+: 2071 2 3 a
+: 2075 7 6 round 
+: 2091 1 3 the 
+: 2095 4 3 Christ
+: 2103 2 3 mas 
+: 2106 6 6 tree 
+- 2114
+: 2115 6 16 Have 
+: 2123 2 16 a 
+: 2127 4 18 hap
+: 2134 4 16 py 
+: 2142 5 13 ho
+: 2150 2 10 li
+: 2156 3 9 day 
+- 2161
+: 2191 2 18 Ev
+: 2196 2 18 ery
+: 2199 5 18 one’s 
+: 2207 5 20 dan
+: 2215 6 20 cing 
+: 2223 2 18 mer
+: 2228 4 18 ri
+: 2236 5 20 ly 
+- 2243
+: 2247 3 18 In 
+: 2252 2 18 the 
+* 2256 5 15 new 
+- 2263
+* 2271 7 18 Old 
+- 2280
+* 2287 10 15 Fa
+: 2302 6 18 shioned
+: 2309 4 15 ~ 
+- 2315
+: 2317 6 21 Way
+* 2324 112 20 ~ 
+E

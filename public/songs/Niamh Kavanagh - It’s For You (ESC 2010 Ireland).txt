@@ -1,0 +1,289 @@
+#ARTIST:Niamh Kavanagh
+#TITLE:It’s For You (ESC 2010 Ireland)
+#MP3:Niamh Kavanagh - It’s For You (ESC 2010 Ireland).mp3
+#CREATOR:bakus33
+#EDITION:Eurovision Song Contest 2010
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:259.9
+#GAP:10520
+#VIDEO:v=OH5XorOdx0w,co=https://is1-ssl.mzstatic.com/image/thumb/Music/0d/7a/ac/mzi.khypioev.jpg/5000x5000bb.jpg
+: 0 2 0 Look 
+: 4 2 0 in 
+: 8 2 2 to 
+: 12 6 4 these 
+: 20 8 4 eyes 
+- 30
+: 32 2 0 Hold 
+: 36 2 0 on 
+: 40 2 2 to 
+: 44 6 4 these 
+: 52 8 4 hands 
+- 62
+: 64 2 0 Be
+: 68 2 0 lieve 
+: 72 2 2 in 
+: 76 4 4 this 
+* 84 4 7 heart
+: 92 12 0 beat 
+- 106
+: 130 4 0 Though 
+: 136 2 2 You’re 
+: 140 4 4 a
+: 148 8 4 fraid 
+- 158
+: 164 2 0 That 
+: 168 2 2 I 
+: 172 6 4 might 
+: 180 6 4 break 
+- 188
+: 190 8 7 Just 
+- 200
+: 204 5 4 Hold
+: 210 8 2 ~ 
+: 220 4 2 on
+: 226 8 0 ~ 
+- 236
+: 244 7 -1 Sha
+: 252 4 -3 dows 
+: 258 9 -1 on
+: 268 4 -3 ly 
+: 274 8 -1 haunt 
+: 284 8 0 You 
+- 294
+: 300 4 0 When 
+: 308 6 0 dark
+: 316 2 0 ness 
+: 322 22 4 crowds 
+: 348 3 0 Your
+: 352 10 -3 ~ 
+: 364 8 -3 heart 
+- 374
+: 384 4 -5 So 
+: 390 6 0 let 
+: 398 1 2 the
+: 400 2 0 ~ 
+: 406 6 4 light 
+- 414
+: 422 4 5 Of 
+: 428 3 4 My
+: 432 3 2 ~ 
+: 436 10 2 love 
+- 448
+: 454 12 0 Shine 
+: 470 26 0 bright 
+- 498
+: 516 7 4 When 
+: 524 6 7 I 
+* 534 26 9 cry 
+: 572 4 9 It’s 
+: 582 5 9 for
+: 588 4 7 ~ 
+: 594 2 7 the 
+: 598 8 4 lo
+: 608 16 7 nely 
+- 626
+: 644 6 4 When 
+: 652 6 7 I 
+: 662 6 9 pray
+: 670 10 7 ~ 
+: 684 4 7 It’s 
+: 692 8 5 for 
+: 702 2 4 the 
+: 706 6 2 lost 
+: 716 4 0 and 
+: 724 36 4 stray 
+- 762
+: 780 3 2 When 
+: 784 4 2 I 
+: 790 4 2 love 
+: 796 6 4 like 
+: 806 4 -3 there’s 
+: 814 2 4 no 
+: 818 3 2 to
+: 822 4 2 mor
+: 828 8 4 row 
+- 838
+: 848 4 4 No 
+: 854 4 2 more 
+: 860 6 2 words 
+: 870 2 0 to 
+: 876 8 0 say 
+- 886
+: 894 4 -1 It’s 
+: 902 8 0 for 
+: 912 56 0 You 
+- 970
+: 1154 4 0 Look 
+: 1160 2 2 straight 
+: 1164 6 4 a
+: 1172 8 4 head 
+- 1182
+: 1184 2 0 Hold 
+: 1188 2 0 on 
+: 1192 2 2 to 
+: 1196 6 4 your 
+: 1204 10 4 dreams 
+- 1216
+: 1218 2 0 Be
+: 1222 2 0 lieve 
+: 1226 2 2 in 
+: 1230 2 4 this 
+* 1236 6 7 ma
+: 1246 8 0 gic 
+- 1256
+: 1284 2 0 O
+: 1288 2 2 pen 
+: 1292 8 4 your 
+: 1302 8 4 eyes 
+- 1312
+: 1318 2 0 O
+: 1322 2 2 pen 
+: 1326 6 4 your 
+: 1334 6 4 mind 
+- 1342
+: 1344 12 7 And 
+: 1358 4 9 It’s 
+: 1366 8 0 there 
+- 1376
+: 1400 5 -1 Sha
+: 1406 2 -3 dows 
+: 1410 9 -1 on
+: 1420 4 -3 ly 
+: 1426 8 -1 haunt 
+: 1438 6 0 You 
+- 1446
+: 1454 4 0 When 
+: 1460 6 0 dark
+: 1468 2 0 ness 
+: 1474 10 4 crowds 
+: 1486 3 0 Your
+: 1490 2 -3 ~ 
+: 1494 10 -3 heart 
+- 1506
+: 1536 4 -5 So 
+: 1542 6 0 let 
+: 1550 3 2 the
+: 1554 2 0 ~ 
+: 1560 10 4 light 
+- 1572
+: 1574 6 5 Of 
+: 1582 1 4 My
+: 1584 4 2 ~ 
+: 1590 6 2 love 
+- 1598
+: 1606 12 0 Shine 
+: 1620 32 0 bright 
+- 1654
+: 1668 7 4 When 
+: 1676 6 7 I 
+: 1686 36 9 cry 
+: 1726 4 9 It’s 
+: 1734 7 9 for
+: 1742 3 7 ~ 
+: 1746 2 7 the 
+: 1750 8 4 lo
+: 1760 16 7 nely 
+- 1778
+: 1798 7 4 When 
+: 1806 4 7 I 
+* 1814 7 9 pray
+: 1822 12 7 ~ 
+: 1838 4 7 It’s 
+: 1846 6 5 for 
+: 1854 2 4 the 
+: 1858 6 2 lost 
+: 1870 4 0 and 
+: 1878 36 4 stray 
+- 1916
+: 1934 3 2 When 
+: 1938 2 2 I 
+: 1942 6 2 love 
+: 1950 4 4 like 
+: 1958 6 -3 there’s 
+: 1966 2 4 no 
+: 1970 3 2 to
+: 1974 5 2 mor
+: 1980 8 4 row 
+- 1990
+: 1998 4 4 No 
+: 2004 6 2 more 
+: 2012 6 2 words 
+: 2022 2 0 to 
+: 2028 8 0 say 
+- 2038
+: 2082 2 -3 When 
+: 2086 7 -1 sha
+: 2094 4 -3 dows 
+: 2100 6 -1 haunt 
+: 2108 8 0 You 
+- 2118
+: 2130 2 -1 And 
+: 2134 6 -1 dark
+: 2142 2 0 ness 
+: 2148 8 4 crowds 
+: 2158 3 0 Your
+: 2162 3 -3 ~ 
+: 2166 8 -3 heart 
+- 2176
+: 2184 4 0 Let 
+: 2190 3 2 the
+: 2194 2 0 ~ 
+: 2200 12 4 light 
+- 2214
+: 2216 4 5 Of 
+: 2222 3 4 my
+: 2226 4 2 ~ 
+: 2232 4 2 love 
+- 2238
+: 2248 12 7 Shine
+* 2262 6 9 ~ 
+: 2272 32 9 bright 
+- 2306
+: 2314 10 6 When 
+: 2326 8 9 I 
+* 2338 34 11 cry 
+: 2376 4 11 It’s 
+: 2384 7 11 for
+: 2392 4 9 ~ 
+: 2398 2 9 the 
+: 2402 6 6 lo
+: 2410 16 9 nely 
+- 2428
+: 2448 7 6 When 
+: 2456 6 9 I 
+: 2466 5 11 pray
+: 2472 14 9 ~ 
+: 2490 4 9 It’s 
+: 2498 6 7 for 
+: 2506 2 6 the 
+: 2510 6 4 lost 
+: 2520 4 2 and 
+* 2528 40 6 stray 
+- 2570
+: 2584 3 4 When 
+: 2588 4 4 I 
+: 2594 4 4 love 
+: 2600 6 6 like 
+: 2610 4 -1 there’s 
+: 2616 4 6 no 
+: 2622 1 4 to
+: 2624 5 4 mor
+: 2630 6 6 row 
+- 2638
+: 2648 4 6 No 
+: 2654 6 4 more 
+: 2662 6 4 words 
+: 2672 2 2 to 
+: 2678 8 2 say 
+- 2688
+: 2696 4 2 It’s 
+: 2704 6 2 for 
+* 2712 15 11 You
+: 2728 16 9 ~ 
+- 2746
+: 2824 4 13 It’s 
+* 2832 8 14 for 
+: 2842 42 14 You! 
+E

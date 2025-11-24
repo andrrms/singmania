@@ -1,0 +1,331 @@
+#ARTIST:Neil Diamond
+#TITLE:Cracklin’ Rosie
+#MP3:Neil Diamond - Cracklin’ Rosie.mp3
+#CREATOR:Diddlmaus30mg
+#YEAR:1970
+#LANGUAGE:English
+#BPM:240
+#GAP:7880
+#VIDEO:a=lXrcuv3G_7A,co=https://styles-24.de/WebRoot/Store28/Shops/ff46e5fa-0caf-4a2e-ae78-efc83c5c1922/6207/C285/9191/41AB/2D8E/0A48/358F/906B/Rosie.jpg,bg=diamond-neil-53221e68d8444.jpg
+: 0 3 4 Crack
+: 4 3 4 lin’ 
+: 8 7 2 Rosie, 
+: 16 3 2 get 
+: 20 7 2 on 
+: 28 8 2 board 
+- 38
+: 64 3 2 We’re 
+: 68 3 2 gonna 
+: 72 11 2 ride 
+: 84 3 2 till 
+: 88 3 2 there 
+: 92 7 2 ain’t 
+: 100 7 2 no 
+: 108 11 2 more 
+: 120 3 2 to 
+: 124 8 -3 go 
+- 134
+: 144 3 6 Taking 
+: 148 3 7 it 
+: 152 8 7 slow 
+- 162
+: 202 3 7 Lord, 
+: 206 3 7 don’t 
+: 210 7 7 you 
+: 218 8 7 know 
+- 228
+: 246 3 7 Have 
+: 250 3 2 me 
+: 254 3 4 a 
+: 258 7 4 time 
+: 266 3 4 with 
+: 270 3 4 a 
+: 274 7 4 poor 
+: 282 7 4 man’s 
+: 290 12 4 lady 
+- 304
+: 306 7 9 Hitchin’ 
+: 314 3 9 on 
+: 318 3 2 a 
+: 322 3 2 twi
+: 326 5 2 light 
+: 332 5 2 tra
+: 338 8 2 in 
+- 348
+: 368 3 2 Ain’t 
+: 372 3 2 no
+: 376 3 2 thing 
+: 380 7 2 there 
+: 388 3 2 that 
+- 392
+: 392 1 2 I 
+: 394 3 2 ca
+: 398 3 2 re 
+: 402 7 2 to 
+: 410 11 2 take 
+: 422 8 2 along 
+- 432
+: 442 3 -3 Maybe 
+: 446 3 6 a 
+: 450 8 7 song 
+- 460
+: 498 1 7 To 
+: 500 5 2 sing 
+: 506 3 7 when 
+: 510 3 7 I 
+: 514 10 7 want 
+- 526
+: 544 3 7 Don’t 
+: 548 3 7 need 
+: 552 1 4 to 
+: 554 3 4 say 
+- 558
+: 558 7 4 Please 
+: 566 3 4 to 
+: 570 3 4 no 
+: 574 5 4 man 
+: 580 5 9 for 
+: 586 3 9 a 
+: 590 13 9 happy 
+: 604 24 9 tune 
+- 630
+: 668 11 9 Oh, 
+: 680 3 2 I 
+: 684 7 2 love 
+: 692 11 2 my 
+: 704 3 7 Ros
+: 708 3 7 ie 
+: 712 8 9 child 
+- 722
+: 728 3 9 You 
+: 732 7 9 got 
+: 740 3 2 the 
+: 744 7 2 way 
+: 752 3 2 to 
+: 756 3 7 make 
+: 760 3 7 me 
+: 764 7 7 hap
+: 772 8 9 py 
+- 782
+: 788 9 9 You 
+: 798 3 9 and 
+: 802 5 2 me, 
+: 808 5 2 we 
+: 814 7 7 go 
+: 822 5 7 in 
+: 828 3 7 sty
+: 832 8 9 le 
+- 842
+: 846 3 9 Crack
+: 850 5 9 lin’ 
+: 856 9 4 Rose 
+: 866 3 4 you’re 
+: 870 3 4 a 
+: 874 7 4 store
+: 882 5 4 bought 
+: 888 8 4 woman 
+- 898
+: 904 5 4 You 
+: 910 3 4 make 
+: 914 1 4 me 
+: 916 9 4 sing 
+: 926 3 4 like 
+: 930 3 4 a 
+: 934 9 4 gui
+: 944 3 4 tar 
+: 948 3 4 hum
+: 952 8 4 min’ 
+- 962
+: 964 3 4 So 
+: 968 3 4 hang 
+: 972 3 11 on 
+: 976 3 4 to 
+: 980 7 4 me, 
+: 988 3 4 girl 
+- 992
+: 992 1 4 Our 
+: 994 11 4 song 
+: 1006 5 4 keeps 
+: 1012 11 4 run
+: 1024 3 4 nin’ 
+* 1028 56 4 on 
+- 1086
+: 1088 3 4 Play 
+: 1092 3 4 it 
+: 1096 8 9 now 
+- 1106
+: 1108 7 4 Play 
+: 1116 3 4 it 
+: 1120 8 9 now 
+- 1129
+: 1130 7 4 Play 
+: 1138 3 4 it 
+: 1142 5 9 now, 
+: 1148 7 9 my 
+: 1156 8 9 baby 
+- 1166
+: 1174 5 -1 Cracklin’ 
+: 1180 3 1 Ro
+: 1184 1 2 se, 
+: 1186 3 2 make 
+: 1190 5 2 me 
+: 1196 1 2 a 
+: 1198 8 2 smile 
+- 1208
+: 1230 7 2 Girl 
+: 1238 1 2 if 
+: 1240 1 1 it 
+: 1242 7 2 lasts 
+: 1250 3 2 for 
+: 1254 3 2 an 
+: 1258 3 2 ho
+: 1262 9 2 ur, 
+- 1272
+: 1272 3 2 Well 
+: 1276 5 2 that’s 
+: 1282 7 2 all 
+: 1290 10 -3 right 
+- 1302
+: 1306 3 6 We 
+: 1310 3 7 got 
+: 1314 8 7 all night 
+- 1324
+: 1364 1 7 To 
+: 1366 3 2 set 
+: 1370 1 7 the 
+: 1372 9 7 world 
+: 1382 8 7 right 
+- 1392
+: 1412 3 7 Find 
+: 1416 3 7 us 
+: 1420 3 4 a 
+: 1424 5 4 dream 
+- 1430
+: 1430 3 4 That 
+: 1434 3 4 don’t 
+: 1438 7 4 ask 
+: 1446 7 4 no 
+: 1454 3 9 ques
+: 1458 13 9 tions, 
+: 1472 28 9 yeah 
+- 1502
+: 1536 5 9 Oh, 
+: 1542 1 2 I 
+: 1544 9 2 love 
+: 1554 9 2 my 
+- 1564
+: 1564 5 7 Ros
+: 1570 1 7 ie 
+: 1572 8 9 child 
+- 1582
+: 1592 3 9 You 
+: 1596 5 9 got 
+: 1602 3 2 the 
+: 1606 7 2 way 
+: 1614 3 2 to 
+: 1618 5 7 make 
+: 1624 7 7 me 
+: 1632 7 7 hap
+: 1640 8 9 py 
+- 1650
+: 1652 11 9 You 
+: 1664 3 9 and 
+: 1668 7 2 me, 
+: 1676 1 2 we 
+: 1678 9 7 go 
+: 1688 1 7 in 
+: 1690 5 7 sty
+: 1696 8 9 le 
+- 1706
+: 1712 3 9 Crack
+: 1716 3 9 lin’ 
+: 1720 9 4 Rose 
+: 1730 3 4 you’re 
+: 1734 3 4 a 
+: 1738 5 4 store
+: 1744 7 4 -bought 
+: 1752 8 4 woman 
+- 1762
+: 1768 5 4 You 
+: 1774 3 4 make 
+: 1778 3 4 me 
+: 1782 5 4 sing 
+: 1788 3 4 like 
+: 1792 5 4 a 
+: 1798 7 4 gui
+: 1806 5 4 tar 
+: 1812 3 4 hum
+: 1816 8 4 min’ 
+- 1826
+: 1828 3 4 So 
+: 1832 1 4 hang 
+: 1834 3 11 on 
+: 1838 5 4 to 
+: 1844 7 4 me, 
+: 1852 3 4 girl 
+- 1856
+: 1856 1 4 Our 
+: 1858 11 4 song 
+: 1870 5 4 keeps 
+: 1876 9 4 run
+: 1886 3 4 nin’ 
+* 1890 56 4 on 
+- 1948
+: 1950 5 4 Play 
+: 1956 1 4 it 
+: 1958 9 9 now 
+- 1968
+: 1968 7 4 Play 
+: 1976 3 4 it 
+: 1980 8 9 now 
+- 1990
+: 1994 7 9 Play 
+: 2002 3 9 it 
+: 2006 5 14 now, 
+: 2012 5 12 my 
+: 2018 8 9 baby 
+- 2028
+: 2034 7 -1 Cracklin’ 
+: 2042 1 1 Ro
+: 2044 3 2 se, 
+: 2048 1 2 make 
+: 2050 3 2 me 
+: 2054 3 2 a 
+: 2058 8 2 smile 
+- 2068
+: 2092 5 2 Girl 
+: 2098 1 2 if 
+: 2100 3 1 it 
+: 2104 9 2 lasts 
+: 2114 1 2 for 
+: 2116 3 2 an 
+: 2120 3 2 ho
+: 2124 7 2 ur, 
+- 2132
+: 2132 4 2 Well
+: 2140 3 2 that’s 
+: 2144 5 2 all 
+: 2150 8 -3 right 
+- 2160
+: 2170 5 6 We 
+: 2176 3 7 got 
+: 2180 8 7 all night 
+- 2190
+: 2226 1 7 To 
+: 2228 3 2 set 
+: 2232 1 7 the 
+: 2234 9 7 world 
+: 2244 6 7 right 
+- 2252
+: 2274 1 7 Find 
+: 2276 3 7 us 
+: 2280 3 4 a 
+: 2284 7 4 dream 
+- 2292
+: 2292 3 4 That 
+: 2296 3 4 don’t 
+: 2300 5 4 ask 
+: 2306 9 4 no 
+: 2316 5 9 ques
+: 2322 10 9 tions, 
+E

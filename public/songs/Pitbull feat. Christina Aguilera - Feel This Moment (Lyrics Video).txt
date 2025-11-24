@@ -1,0 +1,560 @@
+#ARTIST:Pitbull feat. Christina Aguilera
+#TITLE:Feel This Moment (Lyrics Video)
+#MP3:Pitbull feat. Christina Aguilera - Feel This Moment (Lyrics Video).mp3
+#CREATOR:superstar90
+#YEAR:2012
+#LANGUAGE:English
+#BPM:272
+#GAP:1030
+#VIDEO:v=1-fCTnIdHK8,co=https://m.media-amazon.com/images/I/9197wAEPZcL.jpg
+F 0 4 0 Ask 
+F 5 2 0 for 
+F 9 5 0 money 
+- 16
+F 28 3 0 And 
+F 32 2 0 get 
+F 36 8 0 advice 
+- 46
+F 60 3 0 Ask 
+F 65 2 0 for 
+F 68 7 0 advice 
+- 77
+F 92 3 0 Get 
+F 96 3 0 money 
+F 104 4 0 twice 
+- 110
+F 124 3 0 I’m 
+F 128 3 0 from 
+F 132 2 0 the 
+F 136 7 0 dirty 
+- 145
+F 155 1 0 But 
+F 157 1 0 that 
+F 160 4 0 chico 
+F 168 4 0 nice 
+- 174
+F 188 3 0 Ya’ll 
+F 192 2 0 call 
+F 196 1 0 it 
+F 198 1 0 a 
+F 200 6 0 moment 
+- 208
+F 220 3 0 I 
+F 224 2 0 call 
+F 228 2 0 it 
+F 232 4 0 life 
+- 238
+: 248 6 4 One 
+: 256 5 4 day 
+: 264 5 12 when 
+: 272 2 11 the 
+: 276 7 9 light
+: 284 2 7 ~ 
+: 288 2 7 is 
+: 292 10 6 glow
+: 304 3 7 ing 
+- 309
+: 312 5 2 I’ll 
+: 320 5 2 be 
+: 328 4 11 in 
+: 336 2 9 my 
+: 340 7 7 ca
+: 348 2 6 ~
+: 352 2 6 stle 
+: 356 9 4 gol
+: 368 4 2 den 
+- 374
+: 376 5 4 But 
+: 384 4 4 un
+* 392 5 12 til 
+: 400 2 11 the 
+: 404 7 9 gates
+: 412 2 7 ~ 
+: 416 2 7 are 
+: 420 10 6 o
+: 432 3 7 pen 
+- 437
+: 440 5 2 I 
+: 448 3 2 just 
+: 456 7 11 wan
+: 464 2 9 na 
+: 468 7 7 feel
+: 476 2 6 ~ 
+: 480 3 6 this 
+: 488 3 4 mo
+: 492 2 2 ~
+: 496 4 2 ment 
+- 502
+: 504 14 4 Oh 
+: 520 7 12 oh
+: 528 3 11 ~
+: 532 23 9 ~ 
+- 557
+: 568 5 2 I 
+: 576 3 2 just 
+: 584 6 11 wan
+: 592 2 9 na 
+: 596 7 7 feel
+: 604 2 6 ~ 
+: 608 3 6 this 
+: 616 3 4 mo
+: 620 2 2 ~
+: 624 4 2 ment 
+- 630
+: 632 14 4 Oh 
+* 648 7 12 oh
+: 656 3 11 ~
+: 660 21 9 ~ 
+- 683
+: 696 5 2 I 
+: 704 3 2 just 
+: 712 7 11 wan
+: 720 2 9 na 
+: 724 7 7 feel
+: 732 2 6 ~ 
+: 736 3 6 this 
+: 744 3 4 mo
+: 748 2 2 ~
+: 752 5 2 ment 
+- 759
+F 808 2 0 Mr. 
+F 812 11 0 Worldwide 
+- 825
+F 868 5 0 Christina 
+F 876 11 0 Aguilera 
+- 889
+F 928 3 0 Oye 
+F 932 10 0 mamita 
+- 944
+: 952 5 2 I 
+: 960 3 2 just 
+: 968 7 11 wan
+: 976 2 9 na 
+: 980 7 7 feel
+: 988 2 6 ~ 
+: 992 3 6 this 
+: 1000 3 4 mo
+: 1004 2 2 ~
+: 1008 4 2 ment 
+- 1014
+F 1240 5 0 Feel 
+F 1248 4 0 this 
+F 1256 10 0 moment 
+- 1268
+F 1278 5 0 Reportin’ 
+F 1285 7 0 live 
+- 1294
+F 1300 1 0 From 
+F 1302 1 0 the 
+F 1304 3 0 tallest 
+F 1310 4 0 building 
+F 1316 2 0 in 
+F 1320 8 0 Tokyo 
+- 1330
+F 1336 4 0 Long 
+F 1343 3 0 way 
+F 1348 1 0 from 
+F 1350 1 0 them 
+F 1352 4 0 hard 
+F 1358 4 0 ways 
+- 1364
+F 1368 2 0 Filled 
+F 1371 2 0 with 
+F 1374 4 0 Zoes 
+F 1380 2 0 and 
+F 1384 3 0 Oh 
+F 1389 5 0 yays 
+- 1396
+F 1400 5 0 Dade 
+F 1406 6 0 county 
+F 1416 10 0 always 
+- 1428
+F 1432 8 0 305 
+F 1448 4 0 all 
+F 1454 3 0 day 
+- 1459
+F 1460 2 0 Now 
+F 1464 5 0 baby 
+F 1472 2 0 we 
+F 1476 2 0 can 
+F 1480 9 0 parlay 
+- 1491
+F 1492 2 0 Or 
+F 1496 4 0 baby 
+F 1504 2 0 we 
+F 1508 2 0 can 
+F 1512 11 0 party 
+- 1525
+F 1532 2 0 She 
+F 1536 2 0 reads 
+F 1540 3 0 books 
+- 1545
+F 1552 4 0 Especially 
+F 1560 3 0 about 
+F 1564 2 0 red 
+F 1568 5 0 rooms 
+F 1576 2 0 and 
+F 1580 2 0 tie 
+F 1584 4 0 ups 
+- 1590
+F 1596 2 0 I 
+F 1600 1 0 got 
+F 1602 2 0 her 
+F 1605 4 0 hooked 
+- 1611
+F 1620 1 0 Cause 
+F 1622 1 0 she 
+F 1624 1 0 seen 
+F 1626 1 0 me 
+F 1628 1 0 in 
+F 1630 1 0 a 
+F 1632 2 0 suit 
+F 1636 1 0 with 
+F 1638 1 0 a 
+F 1640 2 0 red 
+F 1644 2 0 tie 
+- 1647
+F 1648 4 0 Tied 
+F 1654 2 0 up 
+- 1658
+F 1664 4 0 Christian 
+F 1670 2 0 Gris 
+F 1674 2 0 nice 
+F 1677 1 0 to 
+F 1680 2 0 meet 
+F 1684 2 0 you 
+- 1688
+F 1692 2 0 But 
+F 1696 2 0 time 
+F 1700 2 0 is 
+F 1704 5 0 money 
+- 1711
+F 1716 2 0 Only 
+F 1720 4 0 difference 
+F 1726 3 0 is 
+F 1732 2 0 I 
+F 1736 2 0 own 
+F 1740 2 0 it 
+- 1744
+F 1748 2 0 Now 
+F 1752 2 0 let’s 
+F 1756 2 0 stop 
+F 1760 2 0 time 
+F 1764 1 0 and 
+F 1766 3 0 enjoy 
+F 1772 2 0 this 
+F 1776 4 0 moment 
+- 1782
+: 1784 6 4 One 
+: 1792 5 4 day 
+: 1800 5 12 when 
+: 1808 2 11 the 
+: 1812 7 9 light
+: 1820 2 7 ~ 
+: 1824 2 7 is 
+: 1828 10 6 glow
+: 1840 3 7 ing 
+- 1845
+: 1848 5 2 I’ll 
+: 1856 5 2 be 
+: 1864 4 11 in 
+: 1872 2 9 my 
+: 1876 7 7 ca
+: 1884 2 6 ~
+: 1888 2 6 stle 
+: 1892 9 4 gol
+: 1904 4 2 den 
+- 1910
+: 1912 5 4 But 
+: 1920 4 4 un
+: 1928 5 12 til 
+: 1936 2 11 the 
+: 1940 7 9 gates
+: 1948 2 7 ~ 
+: 1952 2 7 are 
+: 1956 10 6 o
+: 1968 3 7 pen 
+- 1973
+: 1976 5 2 I 
+: 1984 3 2 just 
+* 1992 7 11 wan
+: 2000 2 9 na 
+: 2004 7 7 feel
+: 2012 2 6 ~ 
+: 2016 3 6 this 
+: 2024 3 4 mo
+: 2028 2 2 ~
+: 2032 4 2 ment 
+- 2038
+: 2040 14 4 Oh 
+: 2056 7 12 oh
+: 2064 3 11 ~
+: 2068 23 9 ~ 
+- 2093
+: 2104 5 2 I 
+: 2112 3 2 just 
+: 2120 6 11 wan
+: 2128 2 9 na 
+: 2132 7 7 feel
+: 2140 2 6 ~ 
+: 2144 3 6 this 
+: 2152 3 4 mo
+: 2156 2 2 ~
+: 2160 4 2 ment 
+- 2166
+: 2168 14 4 Oh 
+: 2184 7 12 oh
+: 2192 3 11 ~
+* 2196 21 9 ~ 
+- 2219
+: 2232 5 2 I 
+: 2240 3 2 just 
+: 2248 7 11 wan
+: 2256 2 9 na 
+: 2260 7 7 feel
+: 2268 2 6 ~ 
+: 2272 3 6 this 
+: 2280 3 4 mo
+: 2284 2 2 ~
+: 2288 5 2 ment 
+- 2295
+F 2520 4 0 Feel 
+F 2528 3 0 this 
+F 2536 10 0 moment 
+- 2548
+F 2556 1 0 I 
+F 2559 1 0 see 
+F 2561 1 0 the 
+F 2564 4 0 future 
+- 2570
+F 2573 1 0 But 
+F 2575 2 0 live 
+F 2579 1 0 for 
+F 2581 1 0 the 
+F 2584 4 0 moment 
+- 2590
+F 2592 2 0 Makes 
+F 2596 2 0 sense, 
+F 2600 2 0 don’t 
+F 2604 2 0 it? 
+F 2608 4 0 Ha! 
+- 2614
+F 2620 2 0 Now 
+F 2624 2 0 make 
+F 2628 4 0 dollars, 
+F 2634 1 0 I 
+F 2636 2 0 mean 
+F 2640 5 0 billions 
+- 2647
+F 2652 1 0 I’m 
+F 2654 1 0 a 
+F 2656 4 0 genius, 
+F 2665 1 0 I 
+F 2668 2 0 mean 
+F 2672 5 0 billiant 
+- 2679
+F 2684 2 0 The 
+F 2688 1 0 streets 
+F 2690 1 0 is 
+F 2692 2 0 what 
+F 2696 3 0 schooled 
+F 2700 4 0 him 
+- 2706
+F 2710 1 0 And 
+F 2712 2 0 made 
+F 2716 2 0 him 
+F 2720 2 0 slicker 
+F 2724 2 0 than 
+F 2728 2 0 slick 
+- 2731
+F 2732 1 0 Rick 
+F 2734 1 0 the 
+F 2736 5 0 ruler, 
+F 2744 3 0 yeah! 
+- 2749
+F 2750 1 0 I’ve 
+F 2752 2 0 lost 
+F 2756 1 0 a 
+F 2758 3 0 lot 
+- 2763
+F 2766 1 0 And 
+F 2768 2 0 learned 
+F 2772 1 0 a 
+F 2774 2 0 lot 
+- 2777
+F 2778 1 0 But 
+F 2780 1 0 I’m 
+F 2784 1 0 still 
+F 2786 8 0 undefeated 
+F 2796 1 0 like 
+F 2800 5 0 Shula 
+- 2807
+F 2812 2 0 I’m 
+F 2816 2 0 far 
+F 2820 2 0 from 
+F 2824 3 0 cheap 
+- 2829
+F 2837 1 0 I 
+F 2840 2 0 break 
+F 2844 2 0 down 
+F 2848 4 0 companies 
+F 2854 1 0 with 
+F 2856 2 0 all 
+F 2860 2 0 my 
+F 2864 3 0 peeps 
+- 2869
+F 2880 2 0 Baby, 
+F 2884 1 0 we 
+F 2886 1 0 can 
+F 2888 4 0 travel 
+F 2894 1 0 the 
+F 2896 3 0 world 
+- 2901
+F 2902 1 0 And 
+F 2904 1 0 I 
+F 2906 1 0 can 
+F 2908 2 0 give 
+F 2912 2 0 you 
+F 2918 1 0 and 
+F 2920 1 0 all 
+F 2922 1 0 you 
+F 2924 2 0 can 
+F 2928 4 0 see 
+- 2934
+F 2944 2 0 Time 
+F 2948 2 0 is 
+F 2952 4 0 money 
+- 2958
+F 2964 2 0 Only 
+F 2968 3 0 difference 
+F 2974 2 0 is 
+F 2979 3 0 I 
+F 2984 2 0 own 
+F 2988 2 0 it 
+- 2992
+F 2998 2 1 Like 
+F 3001 2 1 a 
+F 3004 2 1 stop 
+F 3009 4 1 watch 
+F 3016 2 1 let’s 
+F 3020 2 1 stop 
+F 3024 5 1 time 
+- 3031
+F 3034 1 1 And 
+F 3036 5 1 enjoy 
+F 3044 2 1 this 
+F 3048 4 1 moment, 
+F 3056 4 1 dale 
+- 3062
+: 3064 6 4 One 
+: 3072 5 4 day 
+: 3080 5 12 when 
+: 3088 2 11 the 
+: 3092 7 9 light
+: 3100 2 7 ~ 
+: 3104 2 7 is 
+: 3108 10 6 glow
+: 3120 3 7 ing 
+- 3125
+: 3128 5 2 I’ll 
+: 3136 5 2 be 
+: 3144 4 11 in 
+: 3152 2 9 my 
+: 3156 7 7 ca
+: 3164 2 6 ~
+: 3168 2 6 stle 
+: 3172 9 4 gol
+: 3184 4 2 den 
+- 3190
+: 3192 5 4 But 
+: 3200 4 4 un
+: 3208 5 12 til 
+: 3216 2 11 the 
+: 3220 7 9 gates
+: 3228 2 7 ~ 
+: 3232 2 7 are 
+* 3236 10 6 o
+: 3248 3 7 pen 
+- 3253
+: 3256 5 2 I 
+: 3264 3 2 just 
+: 3272 7 11 wan
+: 3280 2 9 na 
+: 3284 7 7 feel
+: 3292 2 6 ~ 
+: 3296 3 6 this 
+: 3304 3 4 mo
+: 3308 2 2 ~
+: 3312 4 2 ment 
+- 3318
+: 3320 14 4 Oh 
+: 3336 7 12 oh
+: 3344 3 11 ~
+: 3348 23 9 ~ 
+- 3373
+: 3384 5 2 I 
+: 3392 3 2 just 
+: 3400 6 11 wan
+: 3408 2 9 na 
+: 3412 7 7 feel
+: 3420 2 6 ~ 
+: 3424 3 6 this 
+: 3432 3 4 mo
+: 3436 2 2 ~
+: 3440 4 2 ment 
+- 3446
+: 3448 14 4 Oh 
+: 3464 7 12 oh
+: 3472 3 11 ~
+: 3476 11 9 ~
+: 3488 3 7 ~
+: 3492 3 11 ~
+* 3496 6 11 ~ 
+- 3504
+: 3512 5 2 I 
+: 3520 3 2 just 
+: 3528 7 11 wan
+: 3536 2 9 na 
+: 3540 7 7 feel
+: 3548 2 6 ~ 
+: 3552 3 6 this 
+: 3560 3 4 mo
+: 3564 2 2 ~
+: 3568 5 2 ment 
+- 3575
+F 3800 5 2 Feel 
+F 3808 4 2 this 
+F 3816 10 2 moment 
+- 3828
+: 3832 14 4 Oh 
+: 3848 7 12 oh
+: 3856 3 11 ~
+: 3860 23 9 ~ 
+- 3885
+: 3896 5 2 I 
+: 3904 3 2 just 
+: 3912 6 11 wan
+: 3920 2 9 na 
+: 3924 7 7 feel
+: 3932 2 6 ~ 
+: 3936 3 6 this 
+: 3944 3 4 mo
+: 3948 2 2 ~
+: 3952 4 2 ment 
+- 3958
+* 3960 14 4 Oh 
+: 3976 7 12 oh
+: 3984 3 11 ~
+: 3988 21 9 ~ 
+- 4011
+: 4024 5 2 I 
+: 4032 3 2 just 
+: 4040 7 11 wan
+: 4048 2 9 na 
+: 4052 7 7 feel
+: 4060 2 6 ~ 
+: 4064 3 6 this 
+: 4072 3 4 mo
+: 4076 2 2 ~
+: 4080 5 2 ment 
+E

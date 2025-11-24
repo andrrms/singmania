@@ -1,0 +1,232 @@
+#ARTIST:Michael Bublé
+#TITLE:When You’re Smiling
+#MP3:Michael Bublé - When You’re Smiling.mp3
+#CREATOR:Bad_Gamer39
+#COVER:Michael Bublé - When You’re Smiling [CO].jpg
+#BACKGROUND:Michael Bublé - When You’re Smiling [BG].jpg
+#GENRE:Blues
+#YEAR:2001
+#LANGUAGE:English
+#BPM:300.44
+#GAP:436
+#VIDEO:a=vyeos_o52Ok,co=https://lastfm.freetls.fastly.net/i/u/ar0/7c285e5c1f2160ea60b1fb47d42a99b8.jpg,bg=bubl-michael-4fe2593972933.jpg
+: 0 4 -12 When 
+: 8 3 -8 you’re 
+: 16 3 -4 smi
+: 20 3 -4 lin’ 
+- 25
+: 64 3 -12 When 
+: 72 3 -8 you’re 
+: 80 3 -5 smi
+: 84 3 -5 lin’ 
+- 89
+: 136 3 -8 The 
+: 144 13 -7 whole 
+: 159 11 -7 world, 
+: 180 3 -7 it 
+: 187 9 -7 smiles 
+: 199 3 -8 with 
+: 204 2 -8 you
+: 207 17 -10 ~ 
+- 226
+: 261 2 -10 When 
+: 264 5 -7 you’re 
+: 272 4 -2 lau
+: 277 9 -2 ghin’ 
+- 288
+: 308 21 0 Babe, 
+: 331 4 -2 when 
+: 338 3 -4 you’re 
+: 343 5 -4 lau
+: 349 12 -7 ghin’ 
+- 363
+: 388 2 -8 Well, 
+: 391 3 -7 the 
+: 397 15 -5 sun 
+: 415 12 -5 comes 
+: 431 22 -5 shi
+: 455 4 -7 nin’ 
+: 460 21 -8 through 
+- 483
+: 509 3 -10 But 
+: 516 3 -8 when 
+: 520 3 -7 you’re 
+: 527 4 -6 cry
+: 532 5 -5 in’ 
+- 539
+: 572 2 -4 You 
+: 575 5 -2 know 
+: 581 16 -2 you 
+: 598 3 -2 bring 
+: 603 3 -2 on 
+: 614 3 -2 the 
+: 619 18 -4 rain 
+- 639
+: 641 3 -7 Stop 
+: 650 4 -5 that 
+: 658 8 -4 sigh
+: 667 12 -4 in’ 
+- 681
+: 698 31 0 Be 
+: 732 3 0 hap
+: 736 3 -2 py 
+: 740 5 0 a
+: 746 11 -2 gain 
+- 759
+: 769 3 0 Keep 
+: 777 3 0 on 
+: 785 5 0 smi
+: 791 12 -4 lin’ 
+- 805
+* 822 7 -4 ’Cause 
+* 832 3 -4 when 
+* 836 3 -5 you’re 
+* 841 7 0 smi
+* 849 12 0 lin’ 
+- 863
+* 897 6 -7 The 
+* 905 15 1 whole 
+* 921 11 1 world 
+* 935 20 0 smiles 
+* 957 3 0 with 
+* 963 5 0 you
+* 969 20 -4 ~ 
+- 991
+: 1517 6 -12 ’Cause 
+: 1525 3 -8 when 
+: 1529 6 -7 you’re 
+: 1537 9 -6 cry
+: 1547 9 -6 in’ 
+- 1558
+: 1581 23 -2 You 
+: 1606 3 -2 bring 
+: 1611 9 -2 on 
+: 1622 3 -2 the 
+: 1627 3 -2 rai
+: 1631 13 -6 ~n 
+- 1646
+: 1648 3 -7 Stop 
+: 1656 4 -6 that 
+: 1666 8 -4 sigh
+: 1675 10 -4 in’ 
+- 1687
+: 1708 29 0 Be 
+: 1740 4 0 hap
+: 1745 2 3 py 
+: 1748 5 0 a
+: 1754 11 -2 gain 
+- 1767
+: 1777 3 0 Keep 
+: 1783 3 0 on 
+: 1791 6 0 smi
+: 1798 11 -4 lin’ 
+- 1811
+: 1831 10 -4 ’Cause 
+: 1845 4 -6 when 
+: 1851 7 -4 you’re 
+: 1861 6 0 smi
+: 1868 10 0 lin’ 
+- 1880
+: 1907 6 -7 The 
+: 1915 12 1 whole 
+: 1931 9 1 world 
+: 1945 18 0 smiles 
+: 1966 4 0 with 
+: 1973 3 0 you
+: 1977 12 -4 ~ 
+- 1991
+: 2025 9 1 When 
+: 2036 6 1 you’re 
+: 2045 9 1 smi
+: 2055 6 -3 lin’ 
+- 2063
+: 2089 4 1 When 
+: 2097 4 -3 you’re 
+: 2105 4 -5 smi
+: 2110 4 -8 lin’ 
+- 2116
+: 2163 4 -8 The 
+: 2171 13 -6 whole 
+: 2186 11 -6 world 
+: 2203 19 -6 smiles 
+: 2227 4 -8 with 
+: 2233 3 -8 you
+: 2237 16 -10 ~ 
+- 2255
+: 2285 4 -1 When 
+: 2291 4 -1 you’re 
+: 2299 5 -1 lau
+: 2305 4 -1 ghin’ 
+- 2311
+: 2348 4 -3 When 
+: 2355 4 -3 you’re 
+: 2363 5 -3 lau
+: 2369 8 -6 ghin’ 
+- 2379
+: 2419 4 -7 The 
+: 2428 9 -5 sun 
+: 2444 9 -5 comes 
+: 2458 22 -5 shi
+: 2481 6 -7 nin’ 
+: 2488 3 -7 throu
+: 2492 20 -8 ~gh 
+- 2514
+: 2536 5 -10 But 
+: 2544 3 -8 when 
+: 2548 4 -7 you’re 
+: 2555 7 -5 cry
+: 2563 20 -5 in’ 
+- 2585
+: 2598 2 -3 You 
+: 2601 3 -1 know 
+: 2609 13 -1 you 
+: 2626 3 -1 bring 
+: 2630 10 -1 on 
+: 2641 3 -1 the 
+: 2646 2 -1 rai
+: 2649 14 -3 ~n 
+- 2665
+: 2667 4 -7 Stop 
+: 2675 4 -5 that 
+: 2685 10 -3 sigh
+: 2697 14 -3 in’ 
+- 2713
+* 2726 2 -1 Come 
+* 2729 16 1 on, 
+* 2757 2 -1 be 
+* 2760 3 1 hap
+* 2764 2 4 py 
+* 2767 4 1 a
+* 2772 16 1 gai
+* 2789 27 4 ~n 
+- 2818
+: 2822 4 1 Keep 
+: 2829 7 1 smi
+: 2837 6 -3 lin’ 
+- 2845
+: 2859 3 -5 When 
+: 2863 4 -3 you’re 
+: 2869 15 4 smi
+: 2885 11 3 lin’, 
+: 2897 15 2 ba
+: 2913 11 1 by 
+- 2926
+: 2931 4 -7 The 
+: 2937 6 2 whole 
+: 2945 18 2 world, 
+: 2969 3 1 it 
+: 2977 11 1 smiles 
+: 2993 4 1 with 
+: 2999 20 1 you 
+- 3021
+* 3051 5 -7 The 
+* 3060 24 2 whole 
+* 3089 32 2 world, 
+* 3125 3 4 it 
+* 3133 8 4 smi
+* 3142 32 1 ~les 
+* 3189 6 4 with 
+* 3198 33 1 you
+* 3232 3 -1 ~
+* 3236 70 -3 ~ 
+E

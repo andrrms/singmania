@@ -1,0 +1,198 @@
+#ARTIST:Daði Freyr
+#TITLE:Whole Again (ESC 2023 Iceland Live)
+#MP3:Daði Freyr - Whole Again (ESC 2023 Iceland Live).mp3
+#CREATOR:Pure6/jabolko13
+#EDITION:Eurovision Song Contest 2023
+#COVER:Daði Freyr - Whole Again (ESC 2023 Iceland Live) [CO].jpg
+#BACKGROUND:Daði Freyr - Whole Again (ESC 2023 Iceland Live) [BG].jpg
+#GENRE:Pop
+#YEAR:2023
+#LANGUAGE:English
+#BPM:352.2
+#GAP:9050
+#VIDEO:v=SZMZAJjciTg,co=whole-again-6851da462c308.jpg,bg=dai-freyr-609ecb4abdf0e.jpg
+: 0 4 2 If 
+: 5 4 5 you 
+: 10 8 5 see 
+: 19 7 2 me 
+: 28 5 5 walk
+: 34 4 2 ing 
+: 39 7 5 down 
+: 47 2 7 the 
+: 50 10 2 street 
+- 70
+: 89 7 10 Star
+: 97 9 9 ing 
+: 107 5 9 at 
+: 118 4 7 the 
+: 125 8 9 sky
+: 134 14 7 ~ 
+- 148
+: 150 4 2 And 
+: 155 5 2 drag
+: 161 4 2 ging 
+: 166 7 3 my 
+: 174 4 5 two 
+: 180 8 7 feet 
+- 198
+: 218 6 2 You 
+: 225 4 2 just 
+: 230 7 3 pass 
+: 239 10 5 me 
+: 251 3 2 by
+* 255 7 0 ~ 
+- 274
+: 278 5 2 It 
+: 286 5 2 still 
+: 294 7 3 makes 
+* 303 9 5 me 
+: 313 5 2 cry
+: 319 6 0 ~ 
+- 335
+: 343 3 2 But 
+: 347 5 2 you 
+: 353 7 2 can 
+: 361 7 2 make 
+: 370 8 2 me 
+: 379 3 0 whole
+: 383 12 -2 ~ 
+* 397 6 -2 a
+: 404 16 -2 gain 
+- 443
+: 497 7 -2 And 
+: 508 5 2 if 
+: 514 4 5 you 
+: 522 8 5 see 
+: 534 3 2 me 
+: 538 4 5 with 
+: 544 4 2 a
+: 550 3 5 not
+: 554 6 7 her 
+: 562 12 2 man 
+- 584
+: 602 8 10 Laugh
+: 611 8 9 ing 
+: 620 2 9 and
+: 623 2 7 ~ 
+* 628 10 9 jo
+: 640 14 7 king 
+- 663
+: 666 5 2 Do
+: 672 6 2 ing 
+: 682 2 3 what 
+: 686 4 5 I 
+: 694 10 7 can 
+- 714
+: 728 4 2 I 
+: 735 4 2 won’t 
+: 743 4 3 put 
+: 751 4 5 you 
+: 760 6 2 down
+: 767 9 0 ~ 
+- 785
+: 789 5 3 ’Cos I 
+: 795 4 3 want 
+* 805 11 3 you 
+: 818 4 5 a
+: 823 7 2 round
+: 831 8 0 ~ 
+- 849
+: 858 4 2 You 
+: 866 4 2 can 
+: 874 4 2 make 
+: 882 6 2 me 
+: 890 7 0 whole
+: 898 4 -2 ~ 
+: 905 6 -2 a
+: 912 20 -2 gain 
+- 955
+: 1016 6 14 Look
+: 1023 6 14 ing 
+: 1030 8 14 back 
+: 1039 7 14 on 
+* 1047 7 15 when 
+: 1055 6 14 we 
+: 1062 5 12 first 
+: 1070 4 14 met 
+- 1084
+: 1112 5 14 I 
+: 1118 6 14 can 
+: 1126 6 14 not 
+: 1134 6 14 es
+: 1142 7 14 cape
+: 1150 4 12 ~ 
+: 1158 6 12 and 
+: 1166 4 10 I 
+: 1174 6 12 can 
+: 1182 4 12 not 
+: 1190 7 10 for
+: 1198 5 9 get
+: 1204 8 5 ~ 
+- 1222
+: 1239 8 15 Ba
+: 1248 4 15 by 
+: 1254 6 14 you’re 
+: 1262 6 10 the 
+: 1270 6 10 one, 
+: 1294 6 15 you 
+: 1304 8 15 still 
+: 1318 4 15 turn 
+: 1326 4 14 me 
+: 1334 3 14 on
+: 1338 8 12 ~ 
+- 1356
+: 1366 4 14 You 
+: 1374 4 14 can 
+: 1382 4 14 make 
+: 1390 4 14 me 
+: 1398 5 12 whole
+: 1404 4 10 ~ 
+: 1414 6 10 a
+: 1422 12 10 gain 
+- 1457
+: 1522 7 14 Look
+: 1530 6 14 ing 
+: 1538 6 14 back 
+: 1547 4 14 on 
+: 1555 13 15 when 
+: 1569 4 14 we 
+: 1576 4 12 first 
+* 1602 6 14 met 
+- 1617
+: 1620 7 14 I 
+: 1628 7 14 can 
+: 1636 8 14 not 
+: 1645 6 14 es
+: 1652 6 14 cape
+: 1659 4 12 ~ 
+* 1667 6 12 and 
+: 1675 4 10 I 
+: 1683 7 12 can
+: 1691 4 12 not 
+: 1699 6 10 for
+: 1707 5 7 get
+: 1713 6 5 ~ 
+- 1729
+: 1747 10 15 Ba
+: 1758 3 15 by 
+: 1762 8 14 you’re 
+: 1772 2 10 the
+: 1775 2 7 ~ 
+* 1795 8 10 one 
+- 1808
+: 1810 7 15 You 
+: 1818 7 15 still 
+: 1827 8 15 turn 
+: 1836 5 14 me 
+* 1859 4 14 on
+* 1864 4 12 ~ 
+- 1872
+: 1874 6 14 You 
+* 1881 7 14 can 
+: 1891 6 14 make 
+: 1898 5 14 me 
+* 1907 29 12 whole
+: 1937 26 10 ~ 
+* 1965 3 10 a
+* 1969 9 10 gain 
+E

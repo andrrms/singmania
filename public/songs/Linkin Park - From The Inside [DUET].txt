@@ -1,0 +1,384 @@
+#ARTIST:Linkin Park
+#TITLE:From The Inside [DUET]
+#MP3:Linkin Park - From The Inside [DUET].mp3
+#CREATOR:DoubleDee, Ceptic
+#EDITION:[DUET]-Songs
+#COVER:Linkin Park - From The Inside [DUET] [CO].jpg
+#BACKGROUND:Linkin Park - From The Inside [DUET] [BG].jpg
+#GENRE:Nu Metal
+#YEAR:2003
+#LANGUAGE:English
+#BPM:380.2
+#GAP:27570
+#VIDEO:v=YLHpvjrFpe0,co=from-the-inside-5e2893e12c8e2.jpg,bg=linkin-park-4de523586c57e.jpg,p1=Chester,p2=Mike,preview=55.97
+P1
+: 0 7 3 I 
+: 8 2 3 don’t 
+: 12 8 3 know 
+: 24 6 3 who
+: 32 6 4 ~ 
+: 40 4 3 to 
+: 48 14 1 trust 
+- 72
+: 80 4 -4 No 
+: 88 4 -1 sur
+: 96 26 -1 prise 
+- 147
+: 192 6 3 Hea
+: 200 2 3 vy 
+: 204 8 3 thoughts 
+: 216 6 3 si
+: 224 6 4 ~ft 
+: 232 4 3 through 
+: 240 13 1 dust 
+- 263
+: 272 4 -4 And 
+: 280 4 4 the 
+: 288 45 3 lies 
+- 383
+: 520 6 -1 I
+: 528 36 1 ~
+: 568 44 -1 ~
+* 616 76 3 ~ 
+- 702
+: 720 28 8 Take 
+: 752 4 6 e
+: 760 4 4 very
+: 768 28 3 thing 
+: 800 6 3 from 
+: 808 6 1 the 
+: 816 10 3 in
+: 832 12 4 side 
+- 853
+: 856 6 1 And 
+: 864 12 6 throw 
+: 880 6 4 it 
+: 888 12 3 all 
+: 904 6 1 a
+: 912 22 8 way 
+- 941
+: 944 4 6 ’Cause 
+: 952 4 4 I 
+: 960 24 3 swear 
+: 992 6 3 for 
+: 1000 6 1 the 
+: 1008 10 3 last 
+: 1024 8 4 time 
+- 1038
+: 1040 6 1 I 
+: 1048 4 4 won’t 
+: 1056 10 6 trust 
+: 1072 4 4 my
+: 1080 10 3 self 
+: 1096 4 4 with 
+: 1104 6 3 you
+: 1112 16 1 ~ 
+- 1138
+: 1152 6 3 Ten
+: 1160 2 3 sion 
+: 1164 6 3 has 
+: 1176 6 3 buil
+: 1184 6 4 ding 
+: 1192 4 3 in
+: 1200 14 1 side 
+- 1224
+: 1232 6 -4 Stea
+: 1240 6 -1 di
+: 1248 24 -1 ly 
+- 1297
+: 1344 6 3 Hea
+: 1352 2 3 vy 
+: 1356 8 3 thoughts 
+: 1368 6 3 for
+: 1376 4 4 cing 
+: 1384 6 3 their 
+: 1392 14 1 way 
+- 1416
+: 1424 6 -4 Out 
+* 1432 4 4 of 
+: 1440 36 3 me 
+- 1526
+: 1672 8 4 I
+: 1684 32 3 ~
+: 1720 44 1 ~
+: 1768 72 3 ~ 
+- 1850
+: 1872 24 8 Take 
+: 1904 6 6 e
+: 1912 6 4 very
+: 1920 28 3 thing 
+: 1952 6 3 from 
+: 1960 6 1 the 
+: 1968 12 3 in
+: 1984 12 4 side 
+- 2005
+: 2008 6 1 And 
+: 2016 12 6 throw 
+: 2032 6 4 it 
+: 2040 12 3 all 
+: 2056 6 1 a
+* 2064 24 8 way 
+- 2094
+: 2096 6 6 ’Cause 
+: 2104 4 4 I 
+: 2112 20 3 swear 
+: 2144 6 3 for 
+: 2152 4 1 the 
+: 2160 11 3 last 
+: 2175 9 4 time 
+- 2190
+: 2192 6 1 I 
+: 2200 4 4 won’t 
+: 2208 10 8 trust 
+: 2224 4 6 my
+: 2232 10 8 self 
+: 2248 6 6 with 
+: 2256 96 8 you 
+- 2362
+: 2384 4 25 I 
+: 2392 4 23 won’t 
+: 2400 6 25 waste 
+: 2411 6 25 my
+: 2422 8 25 self 
+: 2434 8 23 on 
+* 2448 24 25 you 
+- 2482
+: 2496 24 25 You 
+- 2530
+: 2544 24 25 You 
+- 2578
+: 2592 6 25 Waste 
+: 2604 6 23 my
+: 2616 8 25 self 
+: 2628 6 23 on 
+: 2640 24 25 you 
+- 2674
+: 2688 28 25 You 
+- 2726
+: 2736 28 25 You 
+- 2774
+* 2784 40 9 I 
+: 2832 26 8 take 
+: 2864 4 6 e
+: 2872 4 4 very
+: 2880 24 3 thing 
+: 2912 4 3 from 
+: 2920 6 1 the 
+: 2928 12 3 in
+: 2944 12 4 side 
+- 2965
+: 2968 4 1 And 
+: 2976 12 6 throw 
+: 2992 6 4 it 
+: 3000 12 3 all 
+: 3016 6 1 a
+: 3024 26 8 way 
+- 3054
+: 3056 4 6 ’Cause 
+: 3064 4 4 I 
+: 3072 22 3 swear 
+: 3104 6 3 for 
+: 3112 4 1 the 
+: 3120 10 3 last 
+: 3135 11 4 time 
+- 3150
+: 3152 4 1 I 
+: 3160 4 4 won’t 
+: 3168 10 8 trust 
+: 3184 4 6 my
+: 3192 12 4 self 
+: 3208 4 6 with 
+: 3216 28 8 you 
+- 3246
+: 3248 6 8 E
+* 3256 4 9 very
+: 3264 26 8 thing 
+: 3296 6 6 from 
+: 3304 6 4 the 
+: 3312 10 3 in
+: 3328 8 4 side 
+- 3342
+: 3344 6 1 And 
+: 3352 4 4 just 
+: 3360 12 6 throw 
+: 3376 6 4 it 
+: 3384 10 3 all 
+: 3400 6 1 a
+: 3408 28 8 way 
+- 3438
+: 3440 4 8 ’Cause 
+: 3448 4 9 I 
+: 3456 24 8 swear 
+: 3488 4 6 for 
+: 3496 6 4 the 
+: 3504 10 3 last 
+: 3520 10 4 time 
+- 3534
+: 3536 6 1 I 
+: 3544 4 4 won’t 
+: 3552 8 8 trust 
+: 3568 4 6 my
+: 3576 10 8 self 
+: 3592 4 6 with 
+: 3600 22 8 you 
+- 3632
+: 3648 22 8 You 
+- 3680
+* 3696 22 8 You 
+P2
+G 120 3 0 Eve
+G 124 3 0 ry
+G 128 3 0 one 
+R 133 4 0 feels 
+R 140 2 0 so 
+R 144 3 0 far 
+R 152 2 0 a
+R 156 3 0 way 
+R 164 2 0 from 
+R 169 5 0 me 
+- 224
+R 337 4 0 Try
+R 344 3 0 ing 
+R 348 3 0 not 
+R 356 3 0 to 
+R 360 3 0 break, 
+R 368 2 0 but 
+R 372 3 0 I’m 
+R 376 3 0 so 
+R 384 3 0 tired 
+R 392 3 0 of 
+R 396 3 0 this 
+R 404 2 0 de
+R 408 3 0 ceit 
+- 420
+R 424 3 0 Eve
+R 428 2 0 ry 
+R 432 4 0 time 
+R 440 2 0 I 
+R 444 3 0 try 
+R 452 2 0 to 
+R 456 3 0 make 
+R 464 2 0 my
+R 468 3 0 self 
+R 476 2 0 get 
+R 480 4 0 back 
+R 488 2 0 up 
+R 492 3 0 on 
+R 500 2 0 my 
+R 504 4 0 feet 
+- 510
+R 512 2 0 All 
+R 516 2 0 I 
+R 520 2 0 e
+R 524 2 0 ver 
+R 528 3 0 think 
+R 536 2 0 a
+R 540 2 0 bout 
+R 548 2 0 is 
+R 552 3 0 this 
+- 564
+R 568 2 0 All 
+R 572 2 0 the 
+R 576 2 0 ti
+R 584 2 0 ring 
+R 588 3 0 time 
+R 596 2 0 be
+R 600 3 0 tween 
+- 606
+R 608 3 0 And 
+R 612 3 0 how 
+R 624 3 0 try
+R 628 2 0 ing 
+R 632 2 0 to 
+R 636 4 0 put 
+R 644 2 0 my 
+R 648 3 0 trust 
+R 656 2 0 in 
+R 660 3 0 you 
+- 666
+R 668 2 0 Just 
+R 672 2 0 takes 
+R 680 2 0 so 
+R 684 2 0 much 
+R 688 2 0 out 
+R 692 2 0 of 
+R 696 3 0 me 
+- 749
+R 1272 2 0 Eve
+R 1276 2 0 ry
+R 1280 2 0 one 
+R 1284 3 0 feels 
+R 1292 2 0 so 
+R 1296 2 0 far 
+R 1304 2 0 a
+R 1308 2 0 way 
+R 1316 3 0 from 
+R 1320 3 0 me 
+- 1373
+R 1488 3 0 Try
+R 1492 2 0 ing 
+R 1500 2 0 not 
+R 1508 2 0 to 
+R 1512 4 0 break, 
+R 1520 2 0 but 
+R 1524 2 0 I’m 
+R 1528 2 0 so 
+R 1536 4 0 tired 
+R 1544 2 0 of 
+R 1548 2 0 this 
+R 1556 2 0 de
+R 1560 3 0 ceit 
+- 1572
+R 1576 2 0 Eve
+R 1580 2 0 ry 
+R 1584 3 0 time 
+R 1592 2 0 I 
+R 1596 2 0 try 
+R 1604 2 0 to 
+R 1608 3 0 make 
+R 1616 2 0 my
+R 1620 2 0 self 
+R 1628 2 0 get 
+R 1632 2 0 back 
+R 1640 2 0 up 
+R 1644 2 0 on 
+R 1652 2 0 my 
+R 1656 4 0 feet 
+- 1662
+R 1664 2 0 All 
+R 1668 2 0 I 
+R 1672 2 0 e
+R 1676 2 0 ver 
+R 1680 3 0 think 
+R 1688 2 0 a
+R 1692 2 0 bout 
+R 1700 2 0 is 
+R 1704 2 0 this 
+- 1716
+R 1720 2 0 All 
+R 1724 2 0 the 
+R 1728 2 0 ti
+R 1736 2 0 ring 
+R 1740 2 0 time 
+R 1748 2 0 be
+R 1752 2 0 tween 
+- 1758
+R 1760 2 0 And 
+R 1764 3 0 how 
+R 1776 3 0 try
+R 1780 2 0 ing 
+R 1784 2 0 to 
+R 1788 3 0 put 
+R 1796 3 0 my 
+R 1800 3 0 trust 
+R 1808 3 0 in 
+R 1812 3 0 you 
+- 1818
+G 1820 2 0 Just 
+G 1824 3 0 takes 
+G 1832 2 0 so 
+G 1836 2 0 much 
+G 1840 2 0 out 
+G 1844 2 0 of 
+G 1848 2 0 me 
+E

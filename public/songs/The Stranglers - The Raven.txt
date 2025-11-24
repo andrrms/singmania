@@ -1,0 +1,217 @@
+#ARTIST:The Stranglers
+#TITLE:The Raven
+#MP3:The Stranglers - The Raven.mp3
+#CREATOR:choosie
+#YEAR:1979
+#LANGUAGE:English
+#BPM:308.2
+#GAP:66490
+#VIDEO:a=MMQeQzRPiAE,co=the-raven-556d16465b5e3.jpg,bg=stranglers-the-511ed15eaed2b.jpg
+: 0 8 9 Fly 
+: 12 5 9 straight 
+- 19
+: 46 2 9 With 
+: 51 4 9 per
+: 58 4 9 fec
+: 67 7 9 tion
+: 78 4 2 ~ 
+- 84
+* 127 7 9 Find 
+* 139 4 9 me 
+- 145
+: 170 2 7 A 
+: 174 2 9 new 
+: 178 4 9 di
+: 186 4 9 rec
+: 194 8 9 tion
+: 206 4 2 ~ 
+- 212
+: 250 2 7 You’ll 
+: 254 2 9 ne
+: 258 3 9 ver 
+: 270 2 9 re
+: 274 4 9 a
+: 281 7 9 lise 
+- 290
+: 297 2 9 The 
+: 301 2 9 things 
+: 306 4 9 they 
+: 314 5 9 said 
+- 321
+: 377 2 9 We’ll 
+: 381 2 12 ne
+: 385 4 12 ver 
+* 397 2 12 re
+* 401 4 12 a
+* 409 8 9 lise 
+- 419
+: 425 2 9 Un
+: 429 2 9 til 
+: 433 5 9 we’re 
+: 443 5 9 dead 
+- 450
+: 505 2 7 The 
+: 509 5 9 fires 
+: 522 2 7 they 
+: 526 5 9 burned 
+- 533
+: 538 2 7 A
+: 542 5 9 long 
+: 554 2 7 the 
+: 558 5 9 coast 
+: 570 2 7 of 
+: 574 2 9 tri
+: 578 4 9 umphs
+: 586 4 2 ~ 
+- 592
+* 633 2 7 The 
+* 637 2 9 e
+* 642 4 9 bo
+* 650 4 9 ny 
+- 656
+: 665 2 7 Em
+: 669 2 9 bit
+: 673 4 9 tered 
+: 681 3 9 souls
+: 686 2 7 ~ 
+: 697 2 7 of 
+: 701 2 9 chil
+: 705 5 9 dren
+: 714 4 2 ~ 
+- 720
+: 762 2 7 We’ll 
+: 766 5 9 seek 
+: 778 2 7 a
+: 782 2 9 no
+: 786 4 9 ther 
+: 794 4 9 way
+: 801 2 7 ~ 
+- 805
+: 810 2 9 Be
+: 814 2 9 fore 
+: 819 4 9 too 
+: 826 6 9 long 
+- 834
+: 890 2 9 But 
+: 894 2 12 will 
+: 899 5 12 you 
+: 909 3 12 stop 
+: 915 4 12 my 
+: 923 6 9 wind 
+- 931
+: 938 2 9 Be
+: 942 2 9 fore 
+: 946 4 9 I’m 
+: 954 6 9 gone 
+- 962
+: 1158 4 17 And 
+: 1166 2 16 when 
+: 1170 4 17 you 
+: 1178 8 16 find 
+: 1190 4 12 me 
+: 1198 2 17 all 
+* 1203 4 16 a
+* 1211 28 14 lone 
+- 1241
+: 1287 4 17 Your 
+: 1295 2 16 world 
+: 1299 4 17 has 
+: 1307 4 16 ne
+: 1315 6 12 ver 
+: 1327 2 17 been 
+: 1332 4 16 my 
+: 1340 28 14 own 
+- 1370
+: 1994 4 19 And 
+: 2002 2 19 when 
+: 2007 4 19 you 
+: 2015 8 19 find 
+: 2027 10 14 me 
+- 2039
+: 2059 4 17 And 
+: 2067 2 16 when 
+: 2072 4 17 you 
+: 2080 8 16 find 
+: 2092 4 12 me 
+: 2100 2 17 all 
+: 2105 4 16 a
+: 2112 28 14 lone 
+- 2142
+: 2189 4 17 Your 
+: 2197 2 16 world 
+* 2202 4 17 has 
+* 2210 4 16 ne
+* 2218 6 12 ver 
+: 2230 2 17 been 
+: 2234 4 16 my 
+: 2242 28 14 own 
+- 2272
+: 2434 2 7 My 
+: 2438 5 9 friend, 
+: 2450 2 7 you’re 
+: 2454 5 9 black 
+- 2461
+: 2466 2 7 And 
+: 2470 5 9 when 
+: 2482 2 7 you 
+: 2486 3 9 fly 
+: 2492 3 7 you’re 
+: 2498 4 9 wild
+: 2506 6 9 ~
+: 2516 3 2 ~ 
+- 2521
+: 2566 2 9 I 
+: 2570 3 7 am 
+: 2577 4 9 white, 
+: 2586 4 9 some
+: 2594 4 9 times 
+: 2602 2 9 I 
+: 2606 2 7 be
+: 2610 4 9 have 
+- 2616
+: 2618 2 9 Just 
+: 2622 2 9 like 
+* 2626 2 7 a 
+* 2631 2 9 child
+* 2636 8 2 ~ 
+- 2646
+: 2690 2 7 The 
+: 2694 2 9 north
+: 2699 5 7 ern 
+: 2708 2 9 seas
+: 2712 4 7 ~ 
+: 2722 2 9 are 
+: 2727 3 9 cold 
+- 2732
+: 2738 2 9 But 
+: 2742 2 9 they’re 
+: 2746 4 9 our 
+: 2754 8 9 own 
+- 2764
+: 2818 2 9 We’ll 
+: 2822 4 12 sail 
+: 2830 4 12 your 
+: 2838 2 12 south
+: 2842 4 12 ern 
+: 2850 8 9 seas 
+- 2860
+: 2866 2 9 Be
+: 2870 2 9 fore 
+* 2874 5 9 too 
+* 2883 8 9 long 
+- 2893
+F 3205 2 7 When 
+F 3209 2 9 I 
+F 3213 2 7 was 
+F 3217 2 9 a 
+F 3221 4 9 vi
+F 3229 4 7 king 
+- 3235
+F 3269 2 7 My 
+F 3273 2 9 friend 
+F 3277 2 7 he 
+F 3281 2 9 was 
+F 3285 2 9 the 
+F 3289 2 9 ra
+F 3293 8 7 ven. 
+E

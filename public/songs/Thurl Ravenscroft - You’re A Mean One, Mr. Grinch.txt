@@ -1,0 +1,366 @@
+#ARTIST:Thurl Ravenscroft
+#TITLE:You’re A Mean One, Mr. Grinch
+#MP3:Thurl Ravenscroft - You’re A Mean One, Mr. Grinch.mp3
+#CREATOR:stobb3s
+#GENRE:Christmas
+#YEAR:1966
+#LANGUAGE:English
+#BPM:400
+#GAP:5010
+#VIDEO:v=3Hj3U18FHgQ,co=how-the-grinch-stole-christmas-689a3467e3f74.jpg
+: 0 2 -5 You’re 
+: 5 2 -3 a 
+: 11 4 -1 mean 
+: 21 6 -8 one, 
+: 54 4 -5 Mis
+: 65 2 -1 ter 
+: 70 12 -3 Grinch 
+- 92
+: 115 7 -5 You 
+: 129 3 -1 real
+: 138 14 -8 ly 
+: 162 18 1 are 
+: 185 3 -6 a 
+: 194 22 3 heel 
+- 226
+: 238 6 -1 You’re 
+: 249 4 -1 as 
+: 257 5 4 cudd
+: 266 2 2 ly 
+: 271 2 0 as 
+: 280 2 -1 a 
+: 286 4 0 cac
+: 294 4 -3 tus 
+- 299
+: 301 5 -3 You’re 
+: 312 3 -3 as 
+: 317 9 2 char
+: 329 3 0 ming 
+: 335 3 -1 as 
+: 340 4 -3 an 
+: 346 6 -3 eel, 
+* 362 3 -5 Mis
+* 372 2 -6 ter 
+* 377 18 -8 Gri-
+* 407 14 4 inch 
+- 431
+F 440 7 0 You’re 
+F 451 4 0 a 
+F 457 6 0 bad 
+F 467 3 0 ba
+F 472 8 0 na
+F 482 2 0 na 
+- 486
+F 488 3 0 With 
+F 498 3 0 a 
+: 535 8 3 grea
+: 547 5 1 sy 
+: 555 9 3 black 
+: 569 26 4 peel 
+- 648
+: 810 2 -5 You’re 
+: 815 2 -3 a 
+: 821 4 -1 mon
+: 831 6 -8 ster, 
+: 864 4 -5 Mis
+: 875 2 -1 ter 
+: 880 12 -3 Grinch 
+- 902
+: 926 7 -5 Your 
+: 940 3 -1 heart’s 
+: 949 14 -8 an 
+: 973 18 1 emp
+: 996 3 -6 ty 
+: 1003 22 3 hole 
+- 1035
+: 1045 8 -1 Your 
+: 1059 7 4 brain 
+: 1070 4 2 is 
+: 1077 3 0 full 
+: 1086 2 -1 of 
+: 1092 2 0 spi
+: 1099 3 -3 ders 
+- 1105
+: 1107 5 -3 You’ve 
+: 1118 3 -3 got 
+: 1124 6 2 gar
+: 1131 6 0 lic 
+: 1139 3 -1 in 
+: 1145 4 -3 your 
+: 1152 5 -3 soul, 
+* 1169 3 -5 Mis
+* 1179 2 -6 ter 
+* 1184 18 -8 Gri-
+* 1215 14 4 inch 
+- 1239
+F 1271 2 0 I 
+F 1275 2 0 would
+F 1280 1 0 n’t 
+F 1284 2 0 touch 
+F 1291 2 0 you 
+F 1298 2 0 with 
+F 1307 2 0 a 
+- 1319
+: 1330 2 3 Thir
+: 1333 5 3 ty-
+: 1340 5 3 nine-
+: 1348 3 3 and-
+: 1352 3 3 a-
+: 1356 5 1 half 
+: 1363 3 3 foot 
+: 1370 30 4 pole 
+- 1410
+: 1440 2 -5 You’re 
+: 1445 2 -3 a 
+: 1451 4 -1 vile 
+: 1461 6 -8 one, 
+: 1494 7 -5 Mis
+: 1505 2 -1 ter 
+: 1510 12 -3 Grinch 
+- 1532
+: 1553 3 -5 You 
+: 1564 2 -3 have 
+: 1570 6 -1 ter
+: 1580 15 -8 mites 
+: 1599 19 1 in 
+: 1623 3 -6 your 
+: 1631 26 3 smile 
+- 1667
+: 1675 6 -1 You 
+: 1686 2 -1 have 
+: 1692 5 4 all 
+: 1701 2 2 the 
+: 1707 5 0 ten
+: 1716 3 -1 der 
+: 1723 5 0 sweet
+: 1732 4 -3 ness 
+- 1738
+: 1740 3 -3 Of 
+: 1746 2 -3 a 
+: 1752 4 2 sea
+: 1761 3 0 sick 
+: 1768 3 -1 croc
+: 1777 2 -3 o
+: 1782 8 -3 dile, 
+* 1797 4 -5 Mis
+* 1807 2 -6 ter 
+* 1812 21 -8 Gri-
+* 1844 16 4 inch 
+- 1870
+F 1893 1 0 Gi
+F 1896 1 0 ven 
+F 1899 1 0 the 
+F 1903 2 0 choice 
+F 1912 1 0 be
+F 1917 1 0 tween 
+F 1921 1 0 the 
+F 1926 1 0 two 
+F 1932 2 0 of 
+F 1940 3 0 you 
+- 1952
+F 1956 3 0 I’d 
+F 1967 3 0 take 
+F 1977 2 0 the 
+: 1984 4 3 sea
+: 1995 3 3 sick 
+: 2002 3 1 cro
+: 2012 2 3 co
+: 2018 31 4 dile 
+- 2075
+: 2143 6 -5 You’re 
+: 2152 2 -3 a 
+: 2158 8 -1 foul 
+: 2172 15 -8 one, 
+: 2204 7 -5 Mis
+: 2214 2 -1 ter 
+: 2220 13 -3 Grinch 
+- 2243
+: 2263 3 -5 You’re 
+: 2274 2 -3 a 
+: 2280 6 -1 nas
+: 2290 15 -8 ty, 
+: 2309 19 1 was
+: 2333 3 -6 ty 
+: 2341 26 3 skunk 
+- 2377
+: 2386 8 -1 Your 
+: 2401 7 4 heart 
+: 2411 4 2 is 
+: 2418 3 0 full 
+: 2427 2 -1 of 
+: 2434 2 0 un
+: 2440 3 -3 washed 
+: 2451 5 0 socks 
+- 2459
+: 2461 2 -3 Your 
+: 2466 6 2 soul 
+: 2476 2 0 is 
+: 2483 2 -1 full 
+: 2488 2 -3 of 
+: 2494 8 -3 gunk, 
+* 2510 4 -5 Mis
+* 2518 2 -6 ter 
+* 2524 21 -8 Gri-
+* 2554 16 4 inch 
+- 2580
+F 2602 1 0 The 
+F 2605 1 0 three 
+F 2612 3 0 words 
+F 2622 2 0 that 
+F 2629 2 0 best 
+F 2636 2 0 des
+F 2642 4 0 cribe 
+F 2653 4 0 you 
+- 2660
+F 2662 2 0 Are 
+F 2669 2 0 as 
+F 2675 2 0 fol
+F 2683 3 0 lows, 
+F 2698 4 0 and 
+F 2709 5 0 I 
+F 2722 8 0 quote: 
+- 2740
+: 2749 23 1 “Stink. 
+: 2789 16 3 Stank. 
+: 2824 16 4 Stunk.” 
+- 2850
+: 2883 1 -5 You’re 
+: 2886 3 -3 a 
+: 2891 4 -1 rot
+: 2897 6 -8 ter, 
+: 2934 5 -5 Mis
+: 2943 2 -1 ter 
+: 2948 7 -3 Grinch 
+- 2965
+: 2992 3 -5 You’re 
+: 3003 2 -3 the 
+: 3009 6 -1 king 
+: 3019 15 -8 of 
+: 3038 19 1 sin
+: 3062 3 -6 ful 
+: 3070 26 3 sots 
+- 3106
+: 3120 6 -1 Your 
+: 3131 3 4 heart’s 
+: 3141 2 2 a 
+: 3148 3 0 dead 
+: 3157 2 -1 to
+: 3163 2 0 ma
+: 3170 2 -3 to 
+: 3177 6 -3 splotched 
+- 3184
+: 3186 2 -3 With 
+: 3192 6 2 mol
+: 3202 4 0 dy 
+: 3209 3 -1 pur
+: 3215 2 -3 ple 
+: 3221 10 -3 spots, 
+* 3239 4 -5 Mis
+* 3248 2 -6 ter 
+* 3254 24 -8 Gri-
+* 3286 16 4 inch 
+- 3312
+F 3328 2 0 Your 
+F 3334 5 0 soul 
+F 3348 3 0 is 
+F 3354 1 0 an 
+F 3357 1 0 a
+F 3362 2 0 ppa
+F 3366 2 0 lling 
+F 3373 2 0 dump 
+F 3384 3 0 heap 
+- 3397
+F 3409 3 0 O
+F 3415 1 0 ver
+F 3419 3 0 flow
+F 3425 3 0 ing 
+F 3431 4 0 with 
+F 3437 2 0 the 
+F 3441 4 0 most 
+F 3448 5 0 dis
+F 3454 4 0 grace
+F 3460 7 0 ful 
+F 3470 5 0 as
+F 3476 3 0 sort
+F 3481 4 0 ment 
+- 3487
+F 3489 5 0 Of 
+F 3496 3 0 de
+F 3501 3 0 plor
+F 3505 2 0 a
+F 3508 3 0 ble 
+F 3512 3 0 rub
+F 3516 4 0 bish 
+F 3521 4 0 i
+F 3526 3 0 mag
+F 3530 4 0 in
+F 3535 3 0 a
+F 3539 4 0 ble 
+- 3553
+F 3560 5 0 Man
+F 3567 4 0 gled 
+F 3574 4 0 up 
+F 3582 4 0 in 
+: 3594 10 3 tan
+: 3609 5 1 gled-
+: 3619 8 3 up 
+: 3634 32 4 knots 
+- 3676
+: 3701 2 -5 You 
+: 3707 2 -5 nau
+: 3711 2 -3 se
+: 3717 3 -1 ate 
+: 3726 8 -8 me, 
+: 3759 7 -5 Mis
+: 3769 2 -1 ter 
+: 3775 11 -3 Grinch 
+- 3796
+: 3821 2 -5 With 
+: 3827 3 -3 a 
+: 3836 2 -1 nau
+: 3842 9 -8 seous 
+: 3861 22 1 su
+: 3887 4 -6 per 
+: 3896 16 3 naus 
+- 3922
+: 3941 6 -1 You’re 
+: 3951 2 -1 a 
+: 3958 3 4 croo
+: 3965 3 2 ked, 
+: 3973 2 0 jer
+: 3979 2 -1 ky 
+: 3987 2 0 joc
+: 3994 4 -3 key 
+- 4001
+: 4003 3 -3 And 
+: 4009 2 -3 you 
+: 4017 2 2 drive 
+: 4027 2 0 a 
+: 4033 3 -1 croo
+: 4038 2 -3 ked 
+: 4044 5 -3 horse, 
+* 4061 4 -5 Mis
+* 4072 2 -6 ter 
+* 4077 17 -8 Gri-
+* 4106 13 4 inch 
+- 4129
+F 4162 5 0 You’re 
+F 4171 2 0 a 
+F 4177 2 0 three-
+F 4186 3 0 dec
+F 4193 2 0 ker 
+F 4199 2 0 sau
+F 4206 2 0 er
+F 4211 2 0 kraut 
+F 4216 1 0 and 
+F 4222 3 0 toad
+F 4231 3 0 stool 
+F 4243 3 0 sand
+F 4253 14 0 wich 
+- 4277
+: 4293 9 3 With 
+: 4306 9 3 ar
+: 4320 3 1 se
+: 4328 5 3 nic 
+: 4340 71 4 sauce 
+E

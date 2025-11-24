@@ -1,0 +1,243 @@
+#ARTIST:My Little Pony
+#TITLE:The Ballad of the Crystal Empire
+#MP3:My Little Pony - The Ballad of the Crystal Empire.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2012
+#LANGUAGE:English
+#BPM:223.19
+#GAP:420
+#VIDEO:v=Zl4gdfrnBJM,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+F 0 4 0 C’mon 
+F 5 8 0 Spike! 
+- 15
+F 19 3 0 We’ve 
+F 23 1 0 got 
+F 25 1 0 a 
+F 27 3 0 Crystal 
+F 31 3 0 Fair 
+F 35 1 0 to 
+F 37 1 0 put 
+F 39 5 0 together! 
+- 46
+: 216 2 0 Prin
+: 219 5 0 cess 
+: 225 3 0 Ca
+: 229 5 -5 dence 
+: 235 5 2 needs 
+* 241 3 4 our 
+: 245 6 0 help 
+- 252
+: 252 2 4 Her 
+: 255 4 4 ma
+: 260 3 4 gic 
+: 264 4 4 will 
+: 269 3 7 not 
+: 273 5 7 last 
+: 279 5 4 for
+: 285 2 2 e
+: 288 4 0 ver 
+- 294
+: 295 3 4 I 
+: 299 4 4 think 
+: 304 3 4 we 
+: 308 3 2 can 
+* 312 4 7 do 
+: 317 3 4 it; 
+- 322
+: 323 3 2 But 
+: 327 4 4 we 
+: 332 3 4 need 
+: 336 3 0 to 
+: 340 3 2 work 
+: 344 5 4 to
+: 350 3 2 ge
+: 354 5 0 ther. 
+- 361
+: 367 4 0 We 
+: 372 4 0 have 
+: 377 1 -5 to 
+: 379 3 0 get 
+: 383 6 2 this 
+: 390 6 0 right 
+- 398
+: 400 4 4 Yes, 
+: 405 2 2 we 
+: 408 5 0 have 
+: 414 1 0 to 
+: 416 4 2 make 
+* 421 5 4 them 
+: 427 8 4 see 
+- 437
+: 438 3 0 We 
+: 442 3 0 can 
+: 446 5 5 save 
+: 452 3 5 the 
+* 456 4 7 crys
+: 461 4 7 tal 
+: 466 4 2 po
+: 471 5 0 nies 
+- 477
+: 477 2 0 With 
+: 480 4 -5 their 
+: 485 4 2 his
+: 490 3 0 to
+* 494 6 4 ry
+: 501 18 2 -y! 
+- 521
+: 528 2 7 It 
+: 531 4 7 says 
+: 536 2 4 that 
+: 539 6 7 they 
+: 546 6 9 liked 
+: 554 4 4 jous
+* 559 9 0 ting! 
+- 570
+: 591 2 7 They 
+: 594 4 7 flew 
+: 599 1 4 a 
+: 601 5 7 flag 
+: 607 2 4 of 
+: 610 4 7 ma
+: 615 5 9 ny 
+: 622 19 7 hues. 
+- 643
+: 653 4 7 Made 
+: 658 4 7 sweets 
+: 663 2 4 with 
+: 666 6 7 crys
+* 673 7 9 tal 
+: 682 3 2 ber
+: 686 9 0 ries. 
+- 697
+: 718 3 7 They 
+: 722 4 7 had 
+: 727 2 7 a 
+: 730 4 7 pet
+: 735 2 7 ting 
+: 738 4 7 zoo 
+: 743 3 4 with 
+* 747 3 9 ti
+: 751 6 7 ny 
+: 758 11 7 ewes. 
+- 770
+: 770 3 -5 Oh 
+: 774 3 -3 we 
+: 778 3 0 have 
+: 782 1 0 to 
+: 784 3 0 get 
+: 788 5 2 this 
+: 794 5 0 right, 
+- 800
+: 801 4 0 Yes, 
+: 806 3 0 we 
+: 810 3 2 have 
+: 814 1 0 to 
+: 816 3 2 make 
+: 820 4 4 them 
+: 825 7 4 see 
+- 834
+: 835 2 0 We 
+: 838 2 0 can 
+: 841 4 4 save 
+: 846 3 4 the 
+: 850 3 7 crys
+: 854 3 7 tal 
+: 858 3 2 po
+: 862 3 0 nies 
+- 866
+: 866 3 0 With 
+: 870 2 -5 their 
+: 873 4 2 his
+: 878 3 0 to
+: 882 4 4 ry-
+: 887 7 2 y! 
+- 896
+: 909 3 4 There 
+: 913 4 4 was 
+: 918 2 4 a 
+: 921 4 5 crys
+: 926 3 4 tal 
+: 930 3 5 flu
+* 934 6 7 gel
+: 942 21 7 horn, 
+- 965
+: 973 4 5 That 
+: 978 3 5 eve
+: 982 2 5 ry
+: 985 4 4 po
+: 990 2 2 ny 
+: 993 4 0 liked 
+: 998 3 4 to
+: 1002 2 2 -o 
+: 1005 16 2 play 
+- 1023
+: 1042 2 0 And 
+: 1045 2 0 the 
+: 1048 4 2 crys
+: 1053 3 0 tal 
+: 1057 4 0 king
+: 1062 3 4 dom 
+: 1066 2 4 an
+: 1069 12 0 them, 
+- 1083
+: 1089 3 4 Can 
+: 1093 2 4 you 
+* 1096 5 5 learn 
+: 1102 7 4 it 
+: 1110 7 5 in 
+: 1118 2 4 a 
+: 1121 4 5 da
+: 1126 6 4 -a
+: 1133 16 7 -ay? 
+- 1151
+: 1152 4 -5 Oh 
+: 1157 2 -3 we 
+: 1160 4 0 have 
+: 1165 1 0 to 
+: 1167 3 0 get 
+: 1171 5 2 this 
+: 1177 5 0 right, 
+- 1183
+: 1184 3 -3 Yes, 
+: 1188 3 -3 we 
+: 1192 3 2 have 
+: 1196 1 0 to 
+: 1198 3 2 make 
+: 1202 4 4 them 
+: 1207 7 4 see 
+- 1216
+: 1217 2 0 We 
+: 1220 3 0 can 
+: 1224 12 4 save 
+: 1237 2 4 the 
+: 1240 11 7 crys
+: 1252 3 7 tal 
+: 1256 4 2 po
+: 1261 14 0 nies. 
+- 1277
+: 1280 3 0 With 
+: 1284 4 2 their 
+: 1289 15 4 his
+: 1305 11 2 to
+: 1317 3 0 -o-
+* 1321 58 0 ry! 
+- 1381
+F 1446 3 0 It 
+F 1450 3 0 looks 
+F 1454 12 0 amazing! 
+- 1468
+F 1475 1 0 I 
+F 1477 1 0 don’t 
+F 1479 1 0 know 
+F 1481 2 0 how 
+- 1484
+F 1484 1 0 I 
+F 1486 1 0 could 
+F 1488 1 0 have 
+F 1490 1 0 done 
+F 1492 1 0 this 
+F 1494 3 0 without 
+F 1498 5 0 you. 
+E

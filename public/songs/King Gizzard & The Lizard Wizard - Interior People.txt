@@ -1,0 +1,369 @@
+#ARTIST:King Gizzard & The Lizard Wizard
+#TITLE:Interior People
+#MP3:King Gizzard & The Lizard Wizard - Interior People.mp3
+#CREATOR:testguy1245
+#COVER:King Gizzard & The Lizard Wizard - Interior People [CO].jpg
+#BACKGROUND:King Gizzard & The Lizard Wizard - Interior People [BG].jpg
+#GENRE:Psychedelic Rock
+#YEAR:2021
+#LANGUAGE:English
+#BPM:208
+#GAP:49160
+#VIDEO:v=LzcWTjY3b8Q,co=https://preview.redd.it/interior-people-v0-rb501fk3dv8c1.jpeg?auto=webp&s=7c46993ad98095b07c2f1e8e9ab58e46f23686be,bg=king-gizzard--the-lizard-wizard-5ef8bc582c179.jpg
+: 0 4 -1 Just
+: 6 4 -3  on
+: 11 2 -6  the
+: 14 4 -3  down
+: 19 5 -6  low
+- 34
+: 45 3 -8 I’m
+: 49 4 -10  fee
+: 54 2 -12 ling
+: 57 1 -10  pret
+: 59 2 -10 ty
+: 63 3 -12  low
+- 76
+: 86 4 -1 Some
+: 91 5 -3  days
+: 97 1 -5  I
+: 99 3 -3  feel
+: 104 6 -6  fine
+- 120
+: 130 3 -8 Ot
+: 134 4 -10 hers,
+: 139 2 -13  I
+: 142 4 -10  don’t
+: 148 4 -6  know
+- 165
+: 187 2 -3 I
+: 190 2 -1  got
+: 193 1 -3  a
+: 195 2 -1  sen
+: 198 2 -3 so
+: 201 2 -3 ry
+: 206 3 -3  road
+: 212 4 -6 block
+- 226
+: 230 2 -10 I’m
+: 233 2 -7  in
+: 235 2 -8  a
+: 238 4 -7  bi
+: 243 2 -10 na
+: 246 2 -12 ry
+: 249 4 -10  mind
+: 254 4 -12 lock
+- 269
+: 273 4 0 So
+: 278 2 -3  I’m
+: 281 2 0  dan
+: 284 1 -3 cing
+: 286 2 0  in
+: 289 1 -3 ~
+: 291 3 0  lock
+: 298 4 -3 step
+- 312
+: 316 4 -5 To
+: 321 2 -6  the
+: 324 1 -5  mu
+: 326 2 -6 sic
+: 329 2 -5  that
+: 332 1 -6  I
+: 334 2 -5  can’t
+: 339 4 -6  hear,
+- 353
+: 361 4 2 Yeah
+- 392
+: 523 4 0 Fai
+: 528 2 -1 ling
+: 531 5 0  far
+: 537 1 -1 mer,
+: 540 2 0  to
+: 544 2 -1 xic
+: 547 5 0  crop
+- 558
+: 561 4 0 Two
+: 566 2 -1  white
+: 569 4 0  hearts
+: 574 1 -1  to
+: 576 4 0  shake
+: 582 2 -1  shit
+: 585 5 -3  up
+- 596
+: 598 4 0 Pay
+: 603 2 -1  some
+: 606 4 0 one
+: 611 1 -1  to
+: 613 4 0  taste
+- 617
+: 619 2 -1 To
+: 622 4 0  smell
+: 627 2 -1  and
+: 630 3 0  punch
+: 635 5 0  through
+: 641 1 -1  the
+: 643 5 0  dry
+: 649 1 0  wall
+: 651 1 2  in
+: 654 2 6 si
+: 657 1 4 de
+: 659 3 2  my
+: 665 3 2  skull
+- 678
+: 694 2 2 In
+: 697 4 6 te
+: 702 2 9 ri
+: 705 4 6 or
+: 737 2 5  people
+: 739 3 4 ~
+: 742 6 2 ~
+- 761
+: 790 2 2 A
+: 793 3 6  lens
+: 797 3 9 ~
+: 801 2 4  fla
+: 803 2 6 re
+: 822 2 5  in
+: 824 2 4 ~
+: 827 3 2  my
+: 832 4 2  sub
+: 838 4 2 con
+: 844 4 6 scious
+- 861
+: 886 2 2 The
+: 889 1 6  gap
+: 891 4 9  of
+: 897 1 9  death
+: 898 3 11 ~
+- 911
+: 919 3 11 I
+: 924 4 9  no
+: 929 4 9  lon
+: 934 2 6 ger
+: 937 2 9  fear
+: 939 5 6 ~
+- 957
+: 977 4 2 The
+: 982 2 2  In
+: 985 2 6 te
+: 987 2 4 ~
+: 990 2 2 ri
+: 993 3 4 or
+: 1025 4 4  peo
+: 1030 6 2 ple
+- 1063
+: 1363 2 -10 I
+: 1366 4 -1  keep
+: 1371 4 -3  thin
+: 1376 2 -6 king
+: 1379 4 -3  some
+: 1384 5 -6 one
+- 1399
+: 1406 1 -10 Is
+: 1409 4 -7  stan
+: 1414 4 -8 ding
+: 1419 1 -10  be
+: 1422 4 -10 side
+: 1427 4 -6  me
+- 1442
+: 1446 1 -10 But
+: 1448 2 -10  when
+: 1451 4 -1  I
+: 1457 4 -3  turn
+: 1462 1 -6  to
+: 1465 3 -3  grab
+: 1471 4 -6  them
+- 1487
+: 1491 2 -10 They
+: 1494 4 -7  jump
+: 1499 4 -10  back
+: 1505 1 -13  in
+: 1507 2 -10 side
+: 1510 1 -10  of
+: 1513 5 -15  me
+- 1528
+: 1545 2 -10 They
+: 1548 4 2  tell
+: 1553 4 0  me
+: 1558 2 -6  to
+: 1561 3 -6  do 
+: 1566 1 -5  things
+: 1567 5 -3 ~
+- 1583
+: 1587 2 -10 And
+: 1590 4 -5  so
+: 1595 4 -5  does
+: 1600 2 -6  the
+: 1603 3 -5  radio
+: 1606 2 -6 ~
+: 1609 2 -3 ~
+: 1612 2 -5 ~
+: 1614 2 -6 ~
+- 1626
+: 1641 2 0 And
+: 1644 3 0  learn
+: 1649 4 0  from
+: 1654 1 -3  the
+: 1657 1 0  sa
+: 1659 2 0 tel
+: 1662 4 -3 lite
+- 1676
+: 1683 2 -10 That
+: 1686 4 -5  or
+: 1691 3 -5 bits
+: 1697 1 -5  my
+: 1699 3 -5  sha
+: 1702 2 -6 ~
+: 1705 5 -10 dow,
+- 1722
+: 1726 5 2 Yeah
+- 1758
+: 1889 3 0 In
+: 1894 2 -1 sti
+: 1898 3 0 gate
+: 1902 1 -1  the
+: 1905 4 0  pa
+: 1910 2 -1 ra
+: 1913 5 0 digm
+- 1924
+: 1926 4 0 Play
+: 1931 2 -1  the
+: 1934 4 0  game,
+: 1939 2 -1  and
+: 1942 3 0  drink
+: 1947 2 -1  the
+: 1950 4 -3  wine
+- 1956
+: 1958 4 -10 Com
+: 1964 4 0 mu
+: 1969 1 -1 ni
+: 1971 2 0 cate
+: 1974 2 0  with
+: 1976 3 0  the
+: 1980 4 0  af
+: 1985 1 -1 ter
+: 1987 4 0 glow
+: 1992 2 -1  that
+: 1995 4 0  ra
+: 2000 3 -1 dia
+: 2003 3 0 tes
+: 2009 1 -1  be
+: 2011 4 0 tween
+: 2017 1 -1  the
+: 2019 5 0  wall
+- 2034
+: 2038 4 0 Fai
+: 2043 2 -1 ling
+: 2046 4 0  far
+: 2051 1 -1 mer,
+: 2054 3 0  to
+: 2059 2 -1 xic
+: 2062 4 0  crop
+- 2074
+: 2077 2 0 Two
+: 2080 2 -1  white
+: 2083 4 0  hearts
+: 2088 1 -1  to
+: 2091 4 0  shake
+: 2096 2 2  shit
+: 2099 4 2  up
+- 2109
+: 2112 3 6 Pay
+: 2117 7 2  someone
+: 2126 1 0  to
+: 2128 5 0  taste
+- 2133
+: 2134 1 2 To
+: 2137 3 2  smell
+: 2141 2 2  and
+: 2145 3 5  punch
+: 2150 4 7  through
+: 2155 2 5  the
+: 2158 4 7  dry
+: 2163 3 7  wall
+: 2168 1 5  in
+: 2169 3 9 side
+: 2174 4 2  my
+: 2179 3 2  skull
+: 2182 4 0 ~
+- 2199
+: 2230 2 2 In
+: 2233 4 6 te
+: 2238 2 9 ri
+: 2241 5 6 or
+: 2273 2 5  peo
+: 2275 2 4 ~
+: 2278 6 2 ple
+- 2297
+: 2326 1 2 A
+: 2328 5 6  lens
+: 2334 1 9 ~
+: 2336 6 6  flare
+: 2359 3 4  in
+: 2363 4 2  my
+: 2368 5 2  sub
+: 2374 4 2 con
+: 2379 2 4 sci
+: 2382 3 6 ous
+- 2398
+: 2422 2 2 The
+: 2425 1 6  gap
+: 2427 4 9  of
+: 2432 2 9  de
+: 2434 4 11 ath
+- 2450
+: 2454 4 11 I
+: 2459 4 9  no
+: 2464 5 9  lon
+: 2470 1 6 ger
+: 2472 3 9  fe
+: 2476 3 6 ar
+- 2492
+: 2513 4 2 The
+: 2518 2 2  In
+: 2521 1 6 te
+: 2523 2 4 ~
+: 2526 2 2 ri
+: 2529 3 4 or
+: 2560 4 7  peo
+: 2565 6 9 ple
+- 2598
+: 3190 1 2 In
+: 3192 5 6 te
+: 3198 2 9 ri
+: 3201 5 6 or
+: 3232 3 5  peo
+: 3237 6 2 ple
+- 3256
+: 3286 1 0 A
+: 3288 5 6  lens
+: 3294 1 9 ~
+: 3296 6 6  flare
+: 3318 3 4  in
+: 3323 4 2  my
+: 3328 3 2  sub
+: 3333 5 2 con
+: 3339 2 4 scious
+: 3342 2 6 ~
+- 3357
+: 3382 1 2 The
+: 3384 2 6  gap
+: 3387 4 9  of
+: 3392 2 9  de
+: 3394 3 11 ath
+- 3407
+: 3414 3 11 I
+: 3419 4 9  no
+: 3424 5 9  lon
+: 3430 2 6 ger
+: 3433 2 9  fear
+: 3436 3 6 ~
+- 3452
+: 3473 4 2 The
+: 3478 1 2  In
+: 3480 3 6 te
+: 3483 2 4 ~
+: 3486 2 2 ri
+: 3488 4 4 or
+: 3520 5 4  peo
+: 3526 6 2 ple
+E

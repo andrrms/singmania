@@ -1,0 +1,227 @@
+#ARTIST:Depeche Mode
+#TITLE:The Sun & The Rainfall
+#MP3:Depeche Mode - The Sun & The Rainfall.mp3
+#CREATOR:DaPhilosopha
+#COVER:Depeche Mode - The Sun & The Rainfall [CO].jpg
+#BACKGROUND:Depeche Mode - The Sun & The Rainfall [BG].jpg
+#YEAR:1982
+#LANGUAGE:English
+#BPM:236.49
+#GAP:62200
+#VIDEO:a=R_zaEcrpCbI,v=CULIp6w6fD8,co=a-broken-frame-55f32c9b27b1d.jpg,bg=depeche-mode-4e142171de6df.jpg
+#VIDEOGAP:41.8
+: 0 4 5 Some
+: 7 4 7 one 
+: 13 3 8 will 
+: 18 7 5 call, 
+: 33 3 5 some
+: 37 5 7 thing 
+: 45 3 8 will 
+: 50 8 5 fall 
+- 60
+: 85 3 5 And 
+: 89 2 8 smash 
+: 93 4 5 on 
+: 100 3 7 the 
+: 105 15 8 floor 
+- 122
+: 128 2 5 With
+: 132 2 5 out 
+: 137 2 8 rea
+: 140 2 5 ding 
+: 144 3 8 the 
+: 149 6 5 text 
+: 160 3 5 know 
+: 166 7 8 what 
+: 174 6 8 comes 
+: 181 7 5 next 
+- 190
+: 217 3 8 Seen 
+: 221 3 5 it 
+: 229 2 7 be
+: 233 22 8 fore 
+: 272 2 5 and 
+: 277 2 7 it’s 
+: 281 10 8 pain
+: 293 26 8 ful 
+- 321
+: 329 5 11 Things 
+: 336 5 11 must 
+: 345 26 11 change 
+- 373
+: 391 4 11 We 
+: 397 5 11 must 
+: 406 7 11 re
+* 416 3 12 ar
+: 421 5 9 range 
+: 429 8 7 them 
+- 439
+: 455 5 11 Or 
+: 462 7 10 we’ll 
+: 471 4 10 have 
+: 477 2 7 to 
+* 481 3 4 es
+: 485 7 9 trange 
+: 494 10 7 them 
+- 506
+: 537 4 11 All 
+: 544 3 7 that 
+: 548 2 4 I’m 
+: 553 3 4 say
+: 557 6 9 ing 
+- 565
+: 566 2 7 A 
+: 570 4 11 game’s 
+: 576 3 7 not 
+: 581 2 4 worth 
+: 585 3 4 pla
+: 589 5 9 ying 
+- 596
+: 600 5 11 O
+: 606 4 7 ver 
+: 613 3 4 and 
+: 617 4 11 o
+: 623 5 7 ver 
+: 629 2 4 a
+* 634 19 4 gain 
+- 655
+: 929 3 5 You’re 
+: 934 2 5 the 
+: 938 3 8 one 
+: 942 2 5 I 
+: 945 2 8 like 
+: 950 7 5 best, 
+: 962 2 5 you 
+: 966 2 5 re
+: 970 2 7 tain 
+: 977 3 8 my 
+: 982 4 10 in
+: 990 8 5 terest 
+- 1000
+: 1010 3 4 You’re 
+: 1014 2 4 the 
+: 1019 4 6 on
+: 1025 3 7 ly 
+: 1030 20 7 one 
+- 1052
+: 1058 2 5 If 
+: 1062 2 5 it 
+: 1066 2 8 was
+: 1070 2 5 n’t 
+: 1074 2 8 for 
+: 1078 6 5 you, 
+: 1091 2 5 don’t 
+: 1094 2 5 know 
+: 1098 3 8 what 
+: 1102 4 8 I’d 
+: 1110 8 5 do 
+- 1120
+: 1125 1 5 Un
+: 1128 2 5 pre
+: 1131 2 8 dic
+: 1135 2 8 ta
+: 1139 2 5 ble 
+: 1142 2 5 like 
+: 1154 2 7 the 
+: 1158 24 8 sun 
+: 1202 2 5 and 
+: 1206 3 7 the 
+: 1211 9 7 rain
+* 1222 44 7 fall 
+- 1268
+: 1323 4 11 Things 
+: 1330 6 11 must 
+: 1338 31 11 change 
+- 1371
+: 1384 4 11 We 
+: 1391 6 11 must 
+: 1400 7 11 re
+: 1410 3 12 ar
+: 1414 6 9 range 
+: 1423 10 7 them 
+- 1435
+: 1448 4 11 Or 
+: 1455 7 10 we’ll 
+: 1464 3 10 have 
+: 1469 2 7 to 
+: 1473 3 4 es
+: 1478 8 9 trange 
+: 1487 9 7 them 
+- 1498
+: 1530 4 11 All 
+: 1537 2 7 that 
+: 1541 2 4 I’m 
+: 1546 3 4 say
+: 1550 5 9 ing 
+- 1557
+: 1559 2 7 The 
+: 1563 3 11 game’s 
+: 1569 3 7 not 
+: 1574 2 4 worth 
+: 1578 3 4 pla
+: 1582 5 9 ying 
+- 1589
+: 1592 5 11 O
+: 1599 5 7 ver 
+: 1606 3 4 and 
+: 1611 4 11 o
+: 1616 5 7 ver 
+: 1623 3 4 a
+: 1627 24 4 gain 
+- 1653
+* 1899 5 11 Things 
+* 1908 5 11 must 
+* 1915 55 11 change 
+- 1972
+: 2026 5 11 Things 
+: 2035 5 11 must 
+: 2043 55 11 change 
+- 2100
+: 2155 5 11 Things 
+: 2164 5 11 must 
+: 2171 55 11 change 
+- 2228
+: 2283 5 11 Things 
+: 2291 5 11 must 
+: 2298 55 11 change 
+- 2355
+* 2410 5 11 Things 
+* 2419 5 11 must 
+* 2426 55 11 change 
+- 2483
+: 2539 5 11 Things 
+: 2547 5 11 must 
+: 2554 55 11 change 
+- 2611
+: 2668 5 11 Things 
+: 2675 5 11 must 
+: 2682 55 11 change 
+- 2739
+: 2796 5 11 Things 
+: 2803 5 11 must 
+: 2811 55 11 change 
+- 2868
+: 2924 5 11 Things 
+: 2931 5 11 must 
+: 2939 55 11 change 
+- 2996
+: 3052 5 11 Things 
+: 3059 5 11 must 
+: 3066 55 11 change 
+- 3123
+: 3180 5 11 Things 
+: 3188 5 11 must 
+: 3195 55 11 change 
+- 3252
+: 3308 5 11 Things 
+: 3315 5 11 must 
+: 3323 55 11 change 
+- 3380
+* 3436 5 11 Things 
+* 3444 5 11 must 
+* 3451 55 11 change 
+- 3508
+F 3564 5 11 Things 
+F 3571 5 11 must 
+F 3579 55 11 change 
+E

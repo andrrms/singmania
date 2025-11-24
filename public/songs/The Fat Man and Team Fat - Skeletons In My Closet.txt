@@ -1,0 +1,375 @@
+#ARTIST:The Fat Man and Team Fat
+#TITLE:Skeletons In My Closet
+#MP3:The Fat Man and Team Fat - Skeletons In My Closet.mp3
+#CREATOR:Greg5
+#COVER:The Fat Man and Team Fat - Skeletons In My Closet [CO].jpg
+#BACKGROUND:The Fat Man and Team Fat - Skeletons In My Closet [BG].jpg
+#YEAR:1997
+#LANGUAGE:English
+#BPM:224.45
+#GAP:17810
+#VIDEO:a=R7EMzkjdz64,co=https://f4.bcbits.com/img/a1343334339_65
+: 0 15 4 48 
+: 16 7 2 years 
+: 24 3 0 of 
+: 28 6 2 li
+: 35 14 4 ving, 
+- 56
+: 59 3 4 An 
+: 63 9 4 angel 
+: 78 4 7 in 
+: 84 6 9 dis
+: 91 29 4 guise, 
+- 122
+: 124 16 4 48 
+: 141 7 2 years 
+: 149 4 0 of 
+: 154 9 2 lov
+: 164 10 4 ing, 
+- 183
+: 187 8 0 Smi
+: 196 6 0 ling 
+: 203 6 0 with 
+: 210 8 0 my 
+: 220 28 -1 eyes. 
+- 252
+: 254 19 4 48 
+: 276 6 2 years 
+: 284 2 0 of 
+: 287 5 2 mem
+: 293 17 4 ories, 
+- 315
+: 317 8 4 Neat
+: 326 6 4 ly 
+: 334 9 7 tucked 
+: 344 3 9 a
+: 348 21 4 way 
+- 376
+: 379 4 -3 When 
+: 384 3 0 day
+: 388 7 0 light 
+: 396 13 2 dies, 
+- 410
+: 412 6 0 I 
+: 419 3 2 hear 
+: 424 3 0 them 
+: 428 13 -1 rise, 
+- 442
+: 444 3 -1 And 
+: 449 10 -8 dance 
+: 461 2 -5 up
+: 464 4 -5 on 
+: 470 3 -1 their 
+: 475 21 -3 grave. 
+- 505
+: 508 7 9 What’s 
+: 516 5 4 that 
+: 522 15 -3 sound, 
+- 541
+: 543 5 0 Com
+: 549 3 0 ing 
+: 553 2 0 from 
+: 556 2 0 the 
+: 559 5 -1 dres
+: 565 2 -1 ser 
+- 567
+: 569 2 -1 On 
+: 572 2 -1 a 
+: 575 9 0 night 
+: 588 2 2 as 
+: 591 4 0 black 
+: 596 4 0 as 
+: 603 13 4 pitch? 
+- 626
+: 637 7 9 What’s 
+: 645 4 4 that 
+: 650 17 -3 sound 
+- 668
+: 670 5 0 Com
+: 676 2 0 in 
+: 679 4 0 from 
+: 684 2 0 the 
+: 687 2 -1 bur
+: 690 3 -1 eau, 
+- 693
+: 695 4 -1 Do 
+: 700 6 -1 I 
+: 707 6 0 dare 
+: 714 6 0 turn 
+: 721 4 2 on 
+: 726 3 0 the 
+: 730 9 -1 swit
+: 740 13 -1 ch? 
+- 763
+: 767 9 -3 Bones, 
+: 778 4 -3 them 
+: 784 9 -1 bones, 
+: 795 6 -1 them 
+: 803 11 0 dry 
+: 815 10 -1 bones, 
+- 825
+: 827 4 0 All 
+: 832 10 4 bleached 
+: 843 3 4 in 
+: 847 5 2 death
+: 853 5 0 ly 
+: 859 17 4 white. 
+- 879
+: 881 5 4 I’ve 
+: 887 3 4 got 
+: 891 8 9 ske
+: 900 5 4 le
+: 906 9 -3 tons 
+: 916 1 -3 in 
+: 918 6 0 my 
+: 925 6 0 clo
+: 932 7 -3 set 
+: 940 12 -8 and, 
+- 953
+: 955 4 -8 They’re 
+: 960 7 -8 ra
+: 968 10 -5 ttlin’ 
+: 979 7 -1 to
+: 987 32 -3 night. 
+- 1048
+: 1114 4 4 The 
+: 1119 5 4 cheat 
+: 1125 6 4 bones 
+: 1132 1 2 con
+: 1134 2 2 nec
+: 1137 5 2 ted 
+: 1143 2 2 to 
+: 1146 2 2 de
+: 1149 5 2 ceit 
+: 1156 15 4 bones, 
+- 1175
+: 1177 3 4 And 
+: 1182 3 4 there
+: 1186 6 4 by 
+: 1194 2 4 con
+: 1197 4 7 nec
+: 1202 2 7 ted 
+: 1205 3 9 to 
+: 1209 26 4 lies. 
+- 1238
+: 1240 2 4 “I 
+: 1243 5 4 love 
+: 1249 4 4 you” 
+: 1256 11 2 said 
+: 1269 2 2 in
+: 1272 2 0 dis
+: 1275 5 2 crim
+: 1281 2 4 in
+: 1284 2 2 ate
+: 1287 6 0 ly, 
+- 1296
+: 1298 5 -1 Make 
+: 1304 2 -1 the 
+: 1307 5 0 sock
+: 1313 4 0 ets 
+: 1321 8 2 for 
+: 1331 3 0 the 
+: 1336 28 -1 eyes. 
+- 1364
+: 1366 3 0 The 
+: 1370 7 4 love 
+: 1378 8 4 bones 
+: 1387 5 2 knock 
+: 1393 2 0 a
+: 1396 4 2 gainst 
+: 1401 2 0 the 
+: 1404 3 2 hate 
+: 1408 17 4 bones, 
+- 1427
+: 1429 3 2 And 
+: 1433 4 4 fin
+: 1438 9 4 gers 
+: 1448 5 7 click 
+: 1454 5 9 in 
+: 1460 29 4 time. 
+- 1490
+: 1492 5 -3 There 
+: 1498 4 -3 won’t 
+: 1503 3 0 be 
+: 1507 10 2 sleep 
+: 1519 5 0 for 
+: 1525 2 0 the 
+: 1528 3 2 wea
+: 1532 3 4 ry 
+: 1536 4 0 to
+: 1541 13 -8 night, 
+- 1555
+: 1557 3 -8 Cause 
+: 1561 6 -4 all 
+: 1568 7 -4 those 
+: 1576 9 -1 bones 
+: 1586 3 0 are 
+: 1592 25 -3 mine. 
+- 1620
+: 1622 7 9 What’s 
+: 1630 3 4 that 
+: 1634 16 -3 sound, 
+- 1652
+: 1654 7 0 Com
+: 1662 2 0 ing 
+: 1665 3 0 from 
+: 1669 2 0 the 
+: 1672 4 -1 dres
+: 1677 3 -1 ser 
+- 1680
+: 1682 1 -1 On 
+: 1684 3 -1 a 
+: 1688 9 0 night 
+: 1699 3 2 as 
+: 1703 7 0 black 
+: 1711 5 0 as 
+: 1717 23 4 pitch? 
+- 1745
+: 1747 10 9 What’s 
+: 1758 4 4 that 
+: 1763 17 -3 sound 
+- 1781
+: 1783 6 0 Com
+: 1790 1 0 in 
+: 1792 3 0 from 
+: 1796 2 0 the 
+: 1799 3 -1 bur
+: 1803 4 -1 eau, 
+- 1807
+: 1809 2 -1 Do 
+: 1812 6 -1 I 
+: 1820 6 0 dare 
+: 1828 4 0 turn 
+: 1833 4 2 on 
+: 1838 4 0 the 
+: 1844 8 -1 swit
+: 1853 10 -1 ch? 
+- 1873
+: 1880 9 -3 Bones, 
+: 1890 5 -3 them 
+: 1897 8 -1 bones, 
+: 1906 9 -1 them 
+: 1917 8 0 dry 
+: 1929 8 -1 bones, 
+- 1938
+: 1940 3 0 All 
+: 1944 11 4 bleached 
+: 1956 3 4 in 
+: 1960 4 2 death
+: 1965 5 0 ly 
+: 1971 15 4 white. 
+- 1993
+: 1996 3 4 I’ve 
+: 2000 4 4 got 
+: 2005 5 9 ske
+: 2011 6 4 le
+: 2019 9 -3 tons 
+: 2030 1 -3 in 
+: 2032 6 0 my 
+: 2039 5 0 clo
+: 2045 7 -3 set 
+: 2054 10 -8 and, 
+- 2066
+: 2068 4 -8 They’re 
+: 2073 6 -8 ra
+: 2080 13 -5 ttlin’ 
+: 2095 6 -1 to
+: 2102 34 -3 night. 
+- 2165
+F 2366 6 0 Hup, 
+F 2373 6 0 Hup, 
+F 2381 4 0 they’re 
+F 2387 2 0 in 
+F 2390 3 0 my 
+F 2394 10 0 closet 
+F 2405 9 0 now. 
+- 2443
+F 2492 7 0 Hup, 
+F 2501 7 0 Hup, 
+F 2509 4 0 they’re 
+F 2514 2 0 in 
+F 2517 3 0 my 
+F 2521 9 0 dresser 
+F 2531 17 0 drawer. 
+- 2577
+: 2614 8 9 What’s 
+: 2623 5 4 that 
+: 2629 17 -3 sound, 
+- 2647
+: 2649 3 0 Com
+: 2653 2 0 ing 
+: 2656 3 0 from 
+: 2660 2 0 the 
+: 2663 5 -1 dres
+: 2669 3 -1 ser 
+- 2672
+: 2674 2 -1 On 
+: 2677 2 -1 a 
+: 2680 7 0 night 
+: 2692 2 2 as 
+: 2695 5 0 black 
+: 2701 6 0 as 
+: 2709 10 4 pitch? 
+- 2729
+: 2742 6 9 What’s 
+: 2749 4 4 that 
+: 2754 17 -3 sound 
+- 2774
+: 2776 4 0 Com
+: 2781 2 0 in 
+: 2784 4 0 from 
+: 2789 4 0 the 
+: 2794 2 -1 bu
+: 2797 3 -1 reau, 
+- 2800
+: 2802 4 -1 Do 
+: 2807 6 -1 I 
+: 2814 6 0 dare 
+: 2821 3 0 turn 
+: 2825 4 2 on 
+: 2830 3 0 the 
+: 2835 12 -1 swi
+: 2848 12 -1 ~tch? 
+- 2870
+: 2874 7 -3 Bones, 
+: 2882 7 -3 them 
+: 2891 5 -1 bones, 
+: 2897 8 -1 them 
+: 2907 13 0 dry 
+: 2922 9 -1 bones, 
+- 2932
+: 2934 3 0 All 
+: 2938 10 4 bleached 
+: 2949 3 4 in 
+: 2953 3 2 death
+: 2957 6 0 ly 
+: 2965 12 4 white. 
+- 2984
+: 2987 4 4 I’ve 
+: 2992 3 4 got 
+: 2996 8 9 ske
+: 3005 5 4 le
+: 3011 9 -3 tons 
+: 3021 2 -3 in 
+: 3024 6 0 my 
+: 3031 7 0 clo
+: 3039 6 -3 set 
+: 3046 13 -8 and, 
+- 3060
+: 3062 4 -8 They’re 
+: 3067 9 -8 rat
+: 3077 13 -5 tlin’ 
+: 3091 3 -1 to
+: 3096 49 -3 night. 
+- 3155
+F 3166 7 0 Hup, 
+F 3174 7 0 Hup, 
+F 3182 7 0 Hup. 
+- 3203
+F 3229 7 0 Hup, 
+F 3237 7 0 Hup. 
+- 3258
+F 3293 7 0 Hup, 
+F 3301 7 0 Hup, 
+F 3309 7 0 Hup. 
+E

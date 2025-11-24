@@ -1,0 +1,414 @@
+#ARTIST:Futurama
+#TITLE:This Trinity’s Goin’ To War
+#MP3:Futurama - This Trinity’s Goin’ To War.mp3
+#CREATOR:gun8
+#GENRE:Funk
+#YEAR:2007
+#LANGUAGE:English
+#BPM:392
+#GAP:620
+#VIDEO:v=b21kNh-Guyo,co=https://i1.sndcdn.com/artworks-jGNqlJAPYyyKjBbN-hdnTkA-t500x500.jpg
+: 0 3 20 I 
+: 4 3 20 brought 
+: 8 3 20 the 
+: 12 4 20 elves 
+: 20 4 16 back 
+: 28 4 18 from 
+: 36 3 20 va
+: 40 4 16 ca
+: 48 4 13 tion 
+- 58
+: 60 4 20 Chained 
+: 68 4 20 them 
+: 73 4 20 up 
+- 82
+: 84 5 13 And 
+: 92 6 16 called 
+: 100 5 13 my 
+: 107 4 13 ho
+: 112 2 13 li
+: 115 5 11 day 
+: 121 7 13 friends 
+- 130
+F 132 3 12 Kwan
+F 136 4 12 zaa
+F 144 1 12 bot 
+- 146
+: 148 3 13 And 
+: 152 3 13 the 
+: 156 3 20 Chan
+: 160 3 18 u
+: 164 3 20 ka 
+: 168 9 16 Zom
+: 179 2 13 bie 
+- 182
+: 184 5 13 Three 
+* 190 3 20 mad 
+: 195 7 18 wise 
+: 204 4 16 men 
+- 210
+: 212 3 13 Bea
+: 216 3 13 ring 
+: 220 3 16 mur
+: 224 4 13 der 
+: 231 3 13 and 
+: 236 6 13 frank
+: 244 3 11 in
+: 248 4 13 cense 
+- 264
+* 268 15 16 Damn 
+: 284 4 11 you 
+- 290
+F 292 3 12 Shut 
+F 296 4 12 up 
+- 306
+: 308 4 8 Now 
+: 316 4 9 fetch 
+: 324 4 11 those 
+: 332 3 8 bun
+: 336 8 4 nies 
+: 348 4 8 by 
+: 356 3 8 the 
+: 360 8 6 arm
+: 372 3 6 ful
+: 376 8 8 ~ 
+- 393
+: 396 12 16 Says 
+: 412 5 11 who? 
+- 418
+F 420 4 12 Says 
+F 428 8 12 me 
+- 442
+: 444 7 9 Na
+: 452 7 11 palm 
+: 460 4 8 makes 
+: 468 4 4 them 
+: 476 3 8 slight
+: 480 3 8 ly 
+: 484 4 8 more 
+: 492 4 6 harm
+: 500 4 8 ful 
+- 506
+: 508 4 8 No 
+* 516 4 11 one 
+: 524 8 8 here 
+: 536 4 4 goes 
+: 544 3 8 near 
+: 548 4 4 that 
+: 556 5 6 door 
+- 562
+: 564 7 4 This 
+: 572 4 8 toy
+: 580 8 1 shop’s 
+: 590 6 1 goin’ 
+: 597 2 -1 to 
+: 600 10 1 war 
+- 620
+* 644 3 20 Tal
+* 648 3 20 mud 
+: 652 4 20 says 
+: 660 4 16 be 
+: 668 4 18 slow 
+: 676 3 20 to 
+: 680 4 16 an
+: 688 4 13 ger 
+- 698
+: 700 4 18 Low~
+: 708 4 20 down 
+: 716 4 16 scam
+: 724 4 13 mers 
+: 732 4 16 got 
+: 740 4 13 me 
+: 748 4 13 see
+: 756 3 11 ing 
+: 760 4 13 red 
+- 770
+: 772 3 20 Got 
+: 776 3 20 my 
+: 780 4 20 TIE 
+: 788 3 16 Fight
+: 792 3 16 er 
+: 796 3 18 out 
+: 800 3 18 of 
+: 804 3 20 the 
+: 808 4 16 han
+: 816 4 13 gar 
+- 826
+: 828 4 18 Jump 
+: 836 4 20 back 
+: 844 4 16 Jack 
+- 850
+: 852 3 13 Cause 
+: 856 3 13 I’m 
+: 860 5 16 Jew
+: 866 5 13 ish 
+: 872 4 13 and 
+: 878 3 13 I’m 
+: 884 3 11 un
+: 888 4 13 dead 
+- 904
+: 908 15 16 Ten 
+: 924 4 11 hut, 
+: 932 4 4 doo 
+: 940 4 4 doo 
+: 948 4 4 doo 
+- 954
+: 956 7 8 Drei
+: 964 3 11 del, 
+: 968 4 8 drei
+: 976 4 8 del 
+- 983
+: 985 3 8 I 
+: 989 3 8 made 
+: 993 3 8 it 
+: 997 3 8 out 
+: 1001 2 8 of 
+: 1004 6 6 blast
+: 1012 3 6 ing 
+: 1016 8 4 clay 
+- 1033
+* 1036 15 16 You’re 
+: 1052 4 11 nuts 
+- 1058
+: 1060 4 8 And 
+: 1068 4 8 when 
+: 1076 4 8 it’s 
+: 1084 7 9 dry 
+: 1094 3 11 and 
+: 1099 4 8 read
+: 1104 4 8 y 
+- 1109
+: 1111 5 8 For 
+: 1117 6 8 mer
+: 1124 6 8 cy 
+: 1132 3 6 they 
+: 1136 6 6 will 
+: 1144 4 9 pray 
+- 1150
+: 1152 3 8 I 
+: 1156 4 8 can’t 
+: 1164 4 8 wait 
+: 1172 4 8 eight 
+: 1180 4 8 nights 
+: 1188 3 6 or 
+: 1192 8 8 more 
+- 1202
+: 1204 4 8 This 
+: 1212 7 8 zom
+: 1220 4 1 bie’s 
+: 1228 4 1 goin’ 
+: 1236 3 -1 to 
+: 1240 4 1 war 
+- 1256
+F 1260 4 12 Ch, 
+F 1268 4 12 Check 
+F 1276 3 12 it 
+F 1280 4 12 out 
+- 1286
+F 1288 3 12 Kwan
+F 1292 3 12 zaa 
+F 1296 4 12 bot 
+F 1304 3 12 in 
+F 1308 3 12 the 
+F 1312 3 12 nep
+F 1316 3 12 tizz
+F 1320 3 12 le 
+F 1324 3 12 hizz
+F 1328 4 12 le 
+- 1334
+F 1336 3 12 With 
+F 1340 3 12 my 
+F 1344 3 12 in
+F 1348 3 12 hu
+F 1352 3 12 man 
+F 1356 4 12 beat
+F 1364 4 12 box 
+- 1370
+F 1372 3 12 Bu
+F 1376 3 12 sy 
+F 1380 4 12 buil
+F 1388 3 12 ding 
+F 1392 3 12 mis
+F 1396 1 12 siles 
+- 1398
+F 1400 3 12 They’re 
+F 1404 3 12 gui
+F 1408 3 12 ded 
+F 1412 3 12 by 
+F 1416 3 12 these 
+F 1420 4 12 cute 
+- 1426
+F 1428 3 12 Danc
+F 1432 4 12 ing 
+F 1440 3 12 fai
+F 1444 3 12 ry 
+F 1448 1 12 fi
+F 1450 2 12 gures 
+- 1464
+F 1468 3 12 Care
+F 1472 3 12 ful 
+F 1476 3 12 lit
+F 1480 3 12 tle 
+F 1484 4 12 elf 
+- 1490
+F 1492 3 12 That’s 
+F 1496 2 12 pro
+F 1499 1 12 xi
+F 1502 1 12 mi
+F 1504 3 12 ty 
+F 1508 3 12 trig
+F 1512 3 12 gered 
+- 1524
+F 1528 3 12 I’m 
+F 1532 3 12 figh
+F 1536 3 12 ting 
+F 1540 3 12 back 
+F 1544 1 12 for 
+- 1546
+F 1548 4 12 Kwan
+F 1556 3 12 zaa 
+F 1560 3 12 so 
+F 1564 3 12 the 
+F 1568 3 12 chil
+F 1572 3 12 dren 
+F 1576 3 12 won’t 
+- 1582
+F 1584 3 12 Miss 
+F 1588 3 12 it 
+F 1592 3 12 I’m 
+F 1596 3 12 con
+F 1600 1 12 fused 
+F 1602 1 12 a
+F 1604 3 12 bout 
+F 1608 2 12 it’s 
+F 1611 3 12 mea
+F 1615 1 12 ning 
+- 1618
+F 1620 3 12 But 
+F 1624 3 12 I 
+F 1628 3 12 know 
+F 1632 3 12 it 
+F 1636 3 12 when 
+F 1640 3 12 they 
+F 1644 3 12 diss 
+F 1648 4 12 it 
+- 1654
+F 1656 3 12 So 
+F 1660 3 12 San
+F 1664 4 12 ta? 
+- 1670
+F 1672 4 0 Yeah, 
+F 1680 4 0 Kay? 
+- 1686
+F 1688 4 12 Cee 
+F 1696 4 12 Zee? 
+- 1702
+F 1704 3 24 Hey, 
+F 1708 4 24 hey 
+- 1714
+F 1716 4 12 Let’s 
+F 1724 4 12 slay 
+F 1732 4 12 them 
+F 1740 4 12 pimps 
+- 1746
+F 1748 3 12 Come 
+F 1752 3 12 on, 
+F 1756 4 12 pimp 
+F 1764 4 12 my 
+F 1772 4 12 sleigh 
+- 1786
+* 1796 3 22 Eas
+: 1800 3 22 y 
+: 1804 4 22 with 
+: 1812 4 18 that 
+: 1820 8 20 toy 
+: 1830 5 22 ar
+: 1836 3 18 til
+: 1840 3 15 le
+: 1844 4 15 ry 
+- 1854
+: 1856 4 20 Tor
+: 1864 4 22 go’s 
+: 1872 4 18 Pow
+: 1880 4 15 der’s 
+: 1888 3 18 dead
+: 1892 4 15 ly 
+: 1900 4 15 but 
+: 1908 4 13 un
+: 1916 3 15 sta
+: 1920 4 15 ble 
+- 1926
+F 1928 3 12 Can 
+F 1932 4 12 they 
+F 1940 4 12 sue 
+F 1948 3 12 for 
+F 1953 3 12 li
+F 1957 3 12 a
+F 1961 3 12 bil
+F 1965 3 12 i
+F 1969 4 12 ty? 
+- 1978
+F 1980 4 24 Cer
+F 1988 3 24 tain
+F 1992 3 24 ly 
+F 1996 4 24 not! 
+- 2006
+* 2008 3 15 Use 
+: 2012 3 15 as 
+: 2016 4 18 much 
+: 2024 3 15 as 
+: 2028 4 15 you 
+: 2036 4 13 are 
+: 2044 3 15 a
+: 2048 4 15 ble 
+- 2061
+: 2064 15 18 This 
+: 2080 7 13 bites 
+* 2088 4 6 doo 
+: 2094 3 6 doo 
+- 2098
+: 2100 4 10 You 
+: 2108 8 11 signed 
+: 2118 4 13 a
+: 2124 6 10 way 
+: 2132 6 6 your 
+: 2140 6 10 rights 
+- 2148
+: 2150 5 10 When 
+: 2156 4 8 you 
+: 2161 3 10 were 
+: 2165 7 6 hired 
+- 2181
+: 2184 7 6 Now 
+* 2192 13 18 let’s 
+: 2208 5 13 fight 
+- 2214
+F 2216 4 12 O
+F 2224 4 12 kay 
+- 2235
+: 2238 6 10 Chest
+: 2246 4 13 nuts 
+: 2252 6 10 roas
+: 2260 7 6 ting 
+: 2270 4 10 I’m 
+: 2278 3 10 gon
+: 2282 3 10 na 
+: 2287 4 8 o
+: 2292 3 8 pen 
+: 2298 7 10 fire 
+- 2310
+F 2312 4 12 Pre
+F 2320 4 12 pare 
+F 2328 4 12 for 
+F 2336 3 12 gore 
+F 2340 4 12 ga
+F 2348 4 12 lore 
+- 2358
+* 2360 4 15 This 
+: 2368 2 18 tri
+: 2371 3 15 ni
+: 2375 5 15 ty’s 
+: 2384 5 15 goin’ 
+: 2390 4 13 to 
+: 2396 9 15 war 
+E

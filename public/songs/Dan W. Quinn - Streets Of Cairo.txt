@@ -1,0 +1,243 @@
+#ARTIST:Dan W. Quinn
+#TITLE:Streets Of Cairo
+#MP3:Dan W. Quinn - Streets Of Cairo.mp3
+#CREATOR:Viktor1234678
+#COVER:Dan W. Quinn - Streets Of Cairo [CO].jpg
+#BACKGROUND:Dan W. Quinn - Streets Of Cairo [BG].jpg
+#YEAR:1895
+#LANGUAGE:English
+#BPM:220.05
+#GAP:13950
+#VIDEO:a=6A5yJ5Z2Ezw,co=https://i1.sndcdn.com/artworks-000291596172-7zs3jd-t500x500.jpg
+: 0 4 -8 I 
+: 6 4 -6 will 
+: 11 6 -5 sing 
+: 20 2 -6 you 
+: 23 4 -6 a 
+: 28 7 -8 song 
+- 36
+: 38 2 -8 And 
+: 41 3 -6 it 
+: 45 4 -5 won’t 
+: 50 3 -1 be 
+: 54 2 -6 ve
+: 57 3 -5 ry 
+: 61 7 -8 long 
+- 71
+: 73 2 -8 ’Bout 
+: 76 2 -6 a 
+: 79 6 -5 mai
+: 89 5 -6 den 
+: 97 5 -8 sweet 
+- 104
+: 106 4 -8 And 
+: 111 2 -6 she 
+: 114 2 -5 ne
+: 117 4 -1 ver 
+: 122 3 -6 would 
+: 126 3 -5 do 
+: 130 6 -8 wrong 
+- 144
+: 147 3 -1 E
+: 151 2 -1 very
+: 154 3 -1 one 
+: 159 3 0 said 
+: 163 4 -1 she 
+: 168 4 -3 was 
+: 173 1 -6 pret
+: 175 5 -5 ty 
+- 180
+: 181 2 -3 She 
+: 184 3 -3 was 
+: 188 3 -3 not 
+: 192 4 -1 long 
+: 197 2 -3 in 
+: 200 3 -5 the 
+: 204 1 -8 ci
+: 206 3 -6 ty 
+- 212
+: 214 5 -5 All 
+: 220 2 -5 a
+: 223 3 -5 lone, 
+: 227 3 -3 oh, 
+: 232 3 -5 what 
+: 236 3 -6 a 
+: 240 2 -8 pi
+: 243 6 -6 ty 
+- 250
+: 252 6 -5 Poor 
+: 260 2 -6 lit
+: 263 4 -6 tle 
+: 269 8 -8 maid 
+- 284
+: 287 14 -1 She 
+: 306 12 -1 ne
+: 320 3 -5 ver 
+: 324 4 -3 saw 
+: 329 2 -1 the 
+: 332 4 -3 streets 
+: 337 2 -5 of 
+: 340 8 -8 Cai
+: 349 6 -10 ro 
+- 357
+: 359 6 -5 On 
+: 367 5 2 the 
+: 375 5 2 Mid
+: 383 6 4 way, 
+: 392 7 2 she 
+: 401 7 4 had 
+: 410 3 2 ne
+: 414 2 -1 ver 
+: 418 7 -3 strayed 
+- 426
+: 428 12 -1 She 
+: 445 8 -1 ne
+: 458 2 -5 ver 
+: 461 5 -3 saw 
+: 467 2 -1 the 
+: 470 3 -3 ku
+: 474 4 -5 tchy, 
+: 479 6 -8 ku
+: 486 4 -10 tchy 
+- 493
+: 495 5 -5 Poor 
+: 503 1 -1 lit
+: 505 4 -1 tle 
+: 510 5 -3 coun
+: 518 5 -1 try 
+: 526 8 -5 maid 
+- 563
+: 612 5 -8 She 
+: 620 6 -5 was 
+: 631 5 -6 en
+: 639 5 -8 gaged 
+- 646
+: 648 3 -8 As 
+: 652 2 -6 a 
+: 655 3 -5 pic
+: 659 4 -1 ture 
+: 664 3 -6 for 
+: 668 2 -5 to 
+: 671 7 -8 pose 
+- 680
+: 682 1 -8 To 
+: 684 3 -6 ap
+: 688 8 -5 pear 
+: 698 5 -6 each 
+: 706 6 -8 night 
+- 715
+: 717 1 -8 In 
+: 719 2 -6 ab
+: 722 4 -5 bre
+: 727 3 -1 vi
+: 731 3 -6 a
+: 735 2 -5 ted 
+: 738 10 -8 clothes 
+- 753
+: 755 5 -1 All 
+: 761 2 -1 the 
+: 764 5 -1 dudes 
+: 770 3 0 were 
+: 774 1 -1 in 
+: 776 4 -3 a 
+: 781 2 -6 flur
+: 784 4 -5 ry 
+- 788
+: 790 4 -3 For 
+: 795 3 -3 to 
+: 799 3 -3 catch 
+: 803 3 -1 her 
+: 807 3 -3 they 
+: 811 3 -5 did 
+: 815 2 -8 hur
+: 818 4 -6 ry 
+- 823
+: 825 5 -5 One 
+: 831 3 -5 who 
+: 835 4 -5 caught 
+: 840 3 -3 her 
+: 844 5 -5 now 
+: 850 5 -6 is 
+: 856 2 -8 sor
+: 859 5 -6 ry 
+- 865
+: 867 8 -5 Poor 
+: 879 2 -6 lit
+: 882 4 -6 tle 
+: 889 9 -8 maid 
+- 905
+: 908 12 -1 She 
+: 925 8 -1 was 
+: 938 2 -5 much 
+: 941 5 -3 fai
+: 947 2 -1 rer 
+: 950 3 -3 far 
+: 954 4 -5 than 
+: 959 6 -8 Tril
+: 966 4 -10 by 
+- 972
+: 974 5 -3 Lots 
+: 982 5 2 of 
+: 990 5 2 more 
+: 997 5 4 men 
+: 1007 3 2 sor
+: 1011 6 4 ry 
+: 1021 3 2 will
+: 1025 3 -1 ~ 
+: 1030 6 -3 be 
+- 1038
+: 1040 10 -1 If 
+: 1056 9 -1 they 
+: 1069 3 -5 don’t 
+: 1073 4 -3 try 
+: 1078 2 -1 to 
+: 1081 2 -3 keep 
+: 1084 2 -5 a
+: 1087 4 -8 way 
+: 1095 3 -5 from 
+: 1099 4 -5 this 
+- 1103
+: 1105 5 -5 Poor 
+: 1112 2 -1 lit
+: 1115 4 -1 tle 
+: 1121 5 -3 coun
+: 1127 6 -1 try 
+: 1135 13 -5 maid 
+- 1158
+: 1167 14 -1 She 
+: 1183 12 -1 ne
+: 1196 2 -5 ver 
+: 1199 4 -3 saw 
+: 1204 2 -1 the 
+: 1207 4 -3 streets 
+: 1212 2 -5 of 
+: 1215 6 -8 Cai
+: 1223 6 -10 ro 
+- 1229
+: 1231 6 -5 On 
+: 1240 5 2 the 
+: 1247 5 2 Mid
+: 1254 6 4 way, 
+: 1263 7 2 she 
+: 1271 7 4 had 
+: 1279 2 2 ne
+: 1282 4 -1 ver 
+: 1287 7 -3 strayed 
+- 1294
+: 1296 14 -1 She 
+: 1312 10 -1 ne
+: 1324 2 -5 ver 
+: 1327 4 -3 saw 
+: 1332 3 -1 the 
+: 1336 3 -3 ku
+: 1340 3 -5 tchy, 
+: 1344 6 -8 ku
+: 1351 6 -10 tchy 
+- 1357
+: 1359 6 -5 Poor 
+: 1368 2 -1 lit
+: 1371 5 -1 tle 
+: 1377 5 -3 coun
+: 1384 6 -1 try 
+: 1392 14 -5 maid 
+E

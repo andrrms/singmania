@@ -1,0 +1,842 @@
+#ARTIST:New Boyz feat. The Cataracs & DEV
+#TITLE:Backseat
+#MP3:New Boyz feat. The Cataracs & DEV - Backseat.mp3
+#CREATOR:Angeloffate
+#GENRE:Pop
+#YEAR:2011
+#LANGUAGE:English
+#BPM:250
+#GAP:2160
+#VIDEO:v=herLMUn2-U0,co=https://is1-ssl.mzstatic.com/image/thumb/Music/61/82/d3/mzi.xtrvyivd.jpg/5000x5000bb.jpg,bg=new-boyz-4ec97da8b01ec.jpg
+F 0 2 0 New 
+F 6 14 0 Boyz 
+- 22
+: 35 1 5 Don’t 
+: 38 2 7 say 
+: 42 2 7 a 
+: 46 2 7 word, 
+- 49
+: 50 2 7 Just 
+: 54 2 7 turn 
+: 58 2 7 a
+: 62 2 7 round 
+: 66 2 7 and 
+: 70 2 7 let 
+: 74 2 7 me 
+* 78 4 11 see 
+- 84
+: 94 2 5 Girl 
+: 98 2 7 you 
+: 102 2 7 got 
+: 106 2 7 some
+: 110 2 7 thing 
+: 114 2 7 spe
+: 118 2 7 cial, 
+- 122
+: 123 2 7 Some
+: 127 2 2 thing 
+: 131 2 2 spe
+: 135 2 2 cial 
+: 139 2 2 for 
+* 143 2 7 me
+* 146 2 11 ~ 
+- 150
+: 163 2 5 It’s 
+: 167 2 7 way 
+: 171 2 7 too 
+: 175 2 7 ma
+: 179 2 7 ny 
+: 183 2 7 suck
+: 187 2 7 ers 
+: 191 2 7 in 
+: 195 2 7 the 
+: 199 2 7 V
+: 203 2 7 I
+: 207 2 2 P 
+- 211
+: 214 2 5 Va
+: 218 2 7 let 
+: 222 2 7 got 
+: 226 2 7 my 
+: 230 2 7 car 
+: 234 2 7 out 
+: 238 2 7 front 
+- 242
+: 246 2 5 Tell 
+: 250 2 7 me, 
+: 254 2 7 do 
+: 258 2 7 you 
+: 262 2 7 wan
+: 266 2 7 na 
+: 270 3 7 kick 
+: 275 2 7 it 
+- 278
+: 279 2 7 In 
+: 283 2 7 the 
+: 288 2 19 back 
+: 294 4 19 seat 
+- 300
+: 306 2 0 I 
+: 310 2 0 wan
+: 314 2 0 na 
+: 318 2 3 get 
+: 323 2 3 be
+: 330 2 3 si
+: 334 2 2 de 
+: 338 2 2 ya, 
+- 341
+: 342 2 7 In 
+: 346 2 7 the 
+: 351 2 19 back 
+: 357 4 19 seat 
+- 362
+: 363 2 0 So 
+: 367 2 0 I 
+: 371 2 0 can 
+: 375 2 0 be 
+: 379 2 0 your 
+: 383 2 3 back 
+: 387 2 3 seat 
+: 393 2 3 dri
+: 397 2 2 ~
+: 401 1 2 ver, 
+- 404
+: 407 2 7 In 
+: 411 2 7 the 
+: 416 2 19 back 
+: 422 4 19 seat 
+- 428
+: 434 2 0 I 
+: 438 2 0 wan
+: 442 2 0 na 
+: 446 2 3 get 
+: 451 2 3 be
+: 458 2 3 si
+: 462 2 2 de 
+: 466 2 2 ya, 
+- 470
+: 471 2 7 In 
+: 475 2 7 the 
+: 480 2 19 back 
+: 486 4 19 seat 
+- 491
+: 491 2 0 So 
+: 495 2 0 I 
+: 499 2 0 can 
+: 503 2 0 be 
+: 507 2 0 your 
+: 511 2 3 back 
+: 515 2 3 seat 
+: 521 2 3 dri
+: 525 2 2 ~
+: 529 1 2 ver, 
+- 532
+F 547 2 7 You 
+F 551 2 7 see 
+F 555 2 7 them 
+F 559 2 7 girls 
+F 563 2 7 with 
+F 567 2 7 them 
+F 571 2 7 high 
+F 575 2 7 heels 
+- 578
+F 579 2 7 They 
+F 583 2 7 got 
+F 587 2 7 this 
+F 591 2 7 par
+F 595 2 7 ty 
+F 599 2 7 pop
+F 603 2 0 pin’ 
+- 607
+F 611 2 7 This 
+F 615 2 7 ain’t 
+F 619 2 7 no 
+F 623 2 7 coun
+F 627 2 7 try 
+F 631 2 7 club 
+- 634
+F 635 2 7 We 
+F 639 2 7 bout’ 
+F 643 2 7 to 
+F 647 2 7 get 
+F 651 2 7 this 
+F 655 2 7 par
+F 659 2 7 ty 
+F 663 2 7 rock
+F 667 2 0 in’ 
+- 671
+F 672 2 7 You 
+F 675 2 7 got 
+F 679 2 7 girl 
+F 683 2 7 that’s 
+F 687 2 7 with 
+F 691 2 7 the 
+F 695 2 7 band 
+- 698
+F 698 2 8 Let’s 
+F 702 2 7 get 
+F 706 2 7 on 
+F 710 2 7 top 
+F 713 1 7 and 
+F 715 1 7 let 
+F 717 1 7 me 
+F 719 2 7 see 
+F 723 2 7 it 
+F 727 6 3 though 
+- 735
+F 739 2 7 Wait 
+F 743 2 8 not 
+F 747 2 1 in 
+F 751 2 6 here 
+F 755 2 9 we 
+F 759 2 8 out
+F 763 2 1 ta 
+F 767 2 1 here 
+- 770
+F 771 2 8 Jump 
+F 775 2 8 in 
+F 779 2 8 my 
+F 783 2 8 ve
+F 787 2 4 hi
+F 791 2 8 cle 
+- 794
+F 795 2 0 Ca
+F 799 2 0 me
+F 803 2 0 ro, 
+F 815 4 0 long 
+F 822 6 0 shift, 
+- 829
+F 830 1 0 She 
+F 832 2 0 just 
+F 836 1 0 try
+F 838 1 0 ing 
+F 840 1 0 to 
+F 842 2 0 fit 
+F 846 2 0 com
+F 850 2 0 for
+F 853 1 0 ta
+F 855 2 0 bly 
+- 858
+F 859 2 0 She 
+F 863 2 0 like 
+F 866 2 0 my 
+F 869 5 0 orange 
+F 875 2 0 Ca
+F 879 2 0 me
+F 882 2 0 ro 
+- 885
+F 886 2 0 She 
+F 890 2 0 said 
+F 894 2 0 let’s 
+F 898 2 0 ride 
+F 902 2 0 up 
+F 906 2 0 and 
+F 910 2 0 trick 
+F 914 2 0 or 
+F 918 2 0 treat 
+- 921
+F 922 2 7 Like 
+F 926 2 8 damn
+F 930 2 7 ~ 
+F 934 4 7 girl, 
+F 942 2 8 damn
+F 946 2 7 ~ 
+F 950 3 7 girl, 
+- 954
+F 954 2 0 You’re 
+F 958 2 0 func
+F 962 2 0 tion 
+F 966 2 0 with 
+F 970 2 0 the 
+F 974 4 0 man
+F 979 2 0 ~ 
+F 982 3 0 girl, 
+- 986
+F 986 2 7 Like 
+F 990 2 8 damn
+F 994 2 7 ~ 
+F 998 4 7 girl, 
+F 1006 2 8 damn
+F 1010 2 7 ~ 
+F 1014 3 7 girl, 
+- 1018
+F 1018 2 0 You’re 
+F 1022 2 0 func
+F 1026 2 0 tion 
+F 1030 2 0 with 
+F 1034 2 0 the 
+F 1038 4 0 man
+F 1043 2 0 ~ 
+F 1046 4 0 girl, 
+- 1052
+: 1059 1 5 Don’t 
+: 1062 2 7 say 
+: 1066 2 7 a 
+: 1070 2 7 word, 
+- 1073
+: 1074 2 7 Just 
+: 1078 2 7 turn 
+: 1082 2 7 a
+: 1086 2 7 round 
+: 1090 2 7 and 
+: 1094 2 7 let 
+: 1098 2 7 me 
+* 1102 4 11 see 
+- 1108
+: 1118 2 5 Girl 
+: 1122 2 7 you 
+: 1126 2 7 got 
+: 1130 2 7 some
+: 1134 2 7 thing 
+: 1138 2 7 spe
+: 1142 2 7 cial, 
+- 1145
+: 1146 2 7 Some
+: 1150 2 2 thing 
+: 1154 2 2 spe
+: 1158 2 2 cial 
+: 1162 2 2 for 
+* 1166 2 7 me
+* 1169 2 11 ~ 
+- 1173
+: 1186 2 5 It’s 
+: 1190 2 7 way 
+: 1194 2 7 too 
+: 1198 2 7 ma
+: 1202 2 7 ny 
+: 1206 2 7 suck
+: 1210 2 7 ers 
+: 1214 2 7 in 
+: 1218 2 7 the 
+: 1222 2 7 V
+: 1226 2 7 I
+: 1230 2 2 P 
+- 1234
+: 1238 2 5 Va
+: 1242 2 7 let 
+: 1246 2 7 got 
+: 1250 2 7 my 
+: 1254 2 7 car 
+: 1258 2 7 out 
+: 1262 2 7 front 
+- 1266
+: 1270 2 5 Tell 
+: 1274 2 7 me, 
+: 1278 2 7 do 
+: 1282 2 7 you 
+: 1286 2 7 wan
+: 1290 2 7 na 
+: 1294 3 7 kick 
+: 1299 2 7 it 
+- 1302
+: 1303 2 7 In 
+: 1307 2 7 the 
+: 1312 2 19 back 
+: 1318 4 19 seat 
+- 1324
+: 1331 2 0 I 
+: 1335 2 0 wan
+: 1339 2 0 na 
+: 1343 2 3 get 
+: 1348 2 3 be
+: 1355 2 3 si
+: 1359 2 2 de 
+: 1363 2 2 ya, 
+- 1366
+: 1366 2 7 In 
+: 1370 2 7 the 
+: 1375 2 19 back 
+: 1381 4 19 seat 
+- 1386
+: 1386 2 0 So 
+: 1390 2 0 I 
+: 1394 2 0 can 
+: 1398 2 0 be 
+: 1402 2 0 your 
+: 1406 2 3 back 
+: 1410 2 3 seat 
+: 1416 2 3 dri
+: 1420 2 2 ~
+: 1424 1 2 ver, 
+- 1427
+: 1431 2 7 In 
+: 1435 2 7 the 
+: 1440 2 19 back 
+: 1446 4 19 seat 
+- 1452
+: 1458 2 0 I 
+: 1462 2 0 wan
+: 1466 2 0 na 
+: 1470 2 3 get 
+: 1475 2 3 be
+: 1482 2 3 si
+: 1486 2 2 de 
+: 1490 2 2 ya, 
+- 1494
+: 1495 2 7 In 
+: 1499 2 7 the 
+: 1504 2 19 back 
+: 1510 4 19 seat 
+- 1515
+: 1515 2 0 So 
+: 1519 2 0 I 
+: 1523 2 0 can 
+: 1527 2 0 be 
+: 1531 2 0 your 
+: 1535 2 3 back 
+: 1539 2 3 seat 
+: 1545 2 3 dri
+: 1549 2 2 ~
+: 1553 1 2 ver, 
+- 1556
+F 1571 1 0 Aye 
+F 1574 2 0 girl 
+F 1578 2 0 what’s 
+F 1582 2 0 up 
+- 1585
+F 1586 2 0 All 
+F 1590 2 0 of 
+F 1594 2 0 this 
+F 1598 2 0 dan
+F 1602 2 0 cing 
+F 1606 2 0 get 
+F 1610 3 0 you 
+F 1615 4 0 off 
+F 1622 4 0 huh? 
+- 1628
+F 1634 2 0 I 
+F 1638 2 0 no
+F 1642 2 0 ti
+F 1646 2 0 ced 
+F 1650 2 0 you 
+F 1654 2 0 because 
+F 1658 2 0 yo 
+F 1662 2 0 friends 
+F 1666 2 0 is 
+F 1670 2 0 frea
+F 1674 2 0 king 
+F 1678 4 0 star 
+F 1686 4 0 struck 
+- 1692
+F 1696 2 0 And 
+F 1702 2 0 you 
+F 1706 2 0 got 
+F 1710 2 0 more 
+F 1714 2 0 of 
+F 1718 2 0 that 
+- 1722
+F 1726 2 0 How 
+F 1730 2 0 you 
+F 1734 2 0 say 
+F 1738 2 0 it 
+F 1743 2 0 shy
+F 1746 2 0 ~ 
+F 1750 4 0 swag 
+- 1756
+F 1763 2 0 Un
+F 1767 2 0 til 
+F 1771 2 0 you 
+F 1775 2 0 get 
+F 1778 2 0 it 
+F 1782 2 0 low 
+- 1785
+F 1786 2 0 Quit 
+F 1790 2 0 play
+F 1794 2 0 in 
+F 1798 2 0 with 
+F 1802 2 0 yo 
+F 1807 4 0 fine
+F 1812 2 0 ~ 
+F 1816 2 0 ass 
+- 1820
+F 1826 1 0 I 
+F 1830 2 0 said 
+F 1834 2 0 don’t 
+F 1838 2 0 try 
+F 1842 2 0 me 
+F 1846 4 0 ba
+F 1852 2 0 by 
+- 1856
+F 1859 2 0 I’ll 
+F 1862 2 0 make 
+F 1866 2 0 you 
+F 1870 5 0 hot 
+F 1878 3 0 trick
+F 1882 2 0 ~ 
+- 1886
+F 1890 2 0 Lets 
+F 1894 2 0 do 
+F 1898 2 0 like 
+F 1902 2 0 fish
+F 1906 2 0 burn 
+F 1910 2 0 danc
+F 1916 2 0 in, 
+- 1920
+F 1922 1 0 And 
+F 1926 2 0 shake 
+F 1930 2 0 this 
+F 1934 4 0 spot 
+F 1942 4 0 quick 
+- 1948
+F 1954 2 0 Oh 
+F 1958 2 0 you 
+F 1962 2 0 a 
+F 1968 4 0 good 
+F 1976 4 0 girl 
+- 1982
+F 1986 2 0 It’s 
+F 1990 2 0 cool 
+F 1994 2 0 I 
+F 1998 2 0 play 
+F 2002 2 0 pre
+F 2006 2 0 tend 
+F 2012 2 0 too 
+- 2016
+F 2018 2 0 I 
+F 2022 2 0 heard 
+F 2026 2 0 you 
+F 2030 2 0 had 
+F 2034 2 0 a 
+F 2038 4 0 ba
+F 2044 2 0 by 
+- 2048
+F 2051 2 0 You 
+F 2055 2 0 want 
+F 2059 2 0 a 
+F 2063 2 0 new 
+F 2067 2 0 boy 
+F 2071 2 0 in 
+F 2075 2 0 you? 
+- 2079
+: 2083 1 5 Don’t 
+: 2086 2 7 say 
+: 2090 2 7 a 
+: 2094 2 7 word, 
+- 2097
+: 2098 2 7 Just 
+: 2102 2 7 turn 
+: 2106 2 7 a
+: 2110 2 7 round 
+: 2114 2 7 and 
+: 2118 2 7 let 
+: 2122 2 7 me 
+* 2126 4 11 see 
+- 2132
+: 2143 2 5 Girl 
+: 2147 2 7 you 
+: 2151 2 7 got 
+: 2155 2 7 some
+: 2159 2 7 thing 
+: 2163 2 7 spe
+: 2167 2 7 cial, 
+- 2170
+: 2171 2 7 Some
+: 2175 2 2 thing 
+: 2179 2 2 spe
+: 2183 2 2 cial 
+: 2187 2 2 for 
+* 2191 2 7 me
+* 2194 2 11 ~ 
+- 2198
+: 2211 2 5 It’s 
+: 2215 2 7 way 
+: 2219 2 7 too 
+: 2223 2 7 ma
+: 2227 2 7 ny 
+: 2231 2 7 suck
+: 2235 2 7 ers 
+: 2239 2 7 in 
+: 2243 2 7 the 
+: 2247 2 7 V
+: 2251 2 7 I
+: 2255 2 2 P 
+- 2259
+: 2262 2 5 Va
+: 2266 2 7 let 
+: 2270 2 7 got 
+: 2274 2 7 my 
+: 2278 2 7 car 
+: 2282 2 7 out 
+: 2286 2 7 front 
+- 2290
+: 2294 2 5 Tell 
+: 2298 2 7 me, 
+: 2302 2 7 do 
+: 2306 2 7 you 
+: 2310 2 7 wan
+: 2314 2 7 na 
+: 2318 3 7 kick 
+: 2323 2 7 it 
+- 2326
+: 2327 2 7 In 
+: 2331 2 7 the 
+: 2336 2 19 back 
+: 2342 4 19 seat 
+- 2348
+: 2354 2 0 I 
+: 2358 2 0 wan
+: 2362 2 0 na 
+: 2366 2 3 get 
+: 2371 2 3 be
+: 2378 2 3 si
+: 2382 2 2 de 
+: 2386 2 2 ya, 
+- 2389
+: 2390 2 7 In 
+: 2394 2 7 the 
+: 2399 2 19 back 
+: 2405 4 19 seat 
+- 2410
+: 2411 2 0 So 
+: 2415 2 0 I 
+: 2419 2 0 can 
+: 2423 2 0 be 
+: 2427 2 0 your 
+: 2431 2 3 back 
+: 2435 2 3 seat 
+: 2441 2 3 dri
+: 2445 2 2 ~
+: 2449 1 2 ver, 
+- 2452
+: 2454 2 7 In 
+: 2458 2 7 the 
+: 2463 2 19 back 
+: 2469 4 19 seat 
+- 2475
+: 2482 2 0 I 
+: 2486 2 0 wan
+: 2490 2 0 na 
+: 2494 2 3 get 
+: 2499 2 3 be
+: 2506 2 3 si
+: 2510 2 2 de 
+: 2514 2 2 ya, 
+- 2517
+: 2518 2 7 In 
+: 2522 2 7 the 
+: 2527 2 19 back 
+: 2533 4 19 seat 
+- 2538
+: 2539 2 0 So 
+: 2543 2 0 I 
+: 2547 2 0 can 
+: 2551 2 0 be 
+: 2555 2 0 your 
+: 2559 2 3 back 
+: 2563 2 3 seat 
+: 2569 2 3 dri
+: 2573 2 2 ~
+: 2577 1 2 ver, 
+- 2580
+F 2589 1 0 I 
+F 2591 1 0 met 
+F 2593 1 0 a 
+F 2595 2 0 group 
+F 2598 1 0 of 
+F 2600 2 0 girls 
+F 2603 1 0 in 
+F 2605 1 0 a 
+F 2607 3 0 es
+F 2611 2 0 ca
+F 2614 3 0 lade 
+- 2619
+F 2621 1 0 I 
+F 2623 1 0 met 
+F 2625 1 0 a 
+F 2627 2 0 group 
+F 2630 1 0 of 
+F 2632 2 0 girls 
+F 2635 1 0 in 
+F 2637 1 0 a 
+F 2639 3 0 es
+F 2643 2 0 ca
+F 2646 3 0 lade 
+- 2650
+F 2651 1 0 Met 
+F 2653 1 0 a, 
+F 2655 1 0 met 
+F 2657 1 0 a 
+F 2659 2 0 group 
+F 2662 1 0 of 
+F 2664 2 0 girls 
+F 2667 1 0 in 
+F 2669 1 0 a 
+F 2671 3 0 es
+F 2675 2 0 ca
+F 2678 3 0 lade 
+- 2683
+F 2689 2 0 They 
+F 2693 2 0 came 
+F 2696 1 0 with 
+F 2698 2 0 you, 
+F 2701 1 0 and 
+F 2703 2 0 left 
+F 2706 1 0 with 
+F 2709 2 0 me 
+- 2713
+F 2717 1 0 I 
+F 2719 1 0 met 
+F 2721 1 0 a 
+F 2723 2 0 group 
+F 2726 1 0 of 
+F 2728 2 0 girls 
+F 2731 1 0 in 
+F 2733 1 0 a 
+F 2735 3 0 es
+F 2739 2 0 ca
+F 2742 3 0 lade 
+- 2747
+F 2749 1 0 I 
+F 2751 1 0 met 
+F 2753 1 0 a 
+F 2755 2 0 group 
+F 2758 1 0 of 
+F 2760 2 0 girls 
+F 2763 1 0 in 
+F 2765 1 0 a 
+F 2767 3 0 es
+F 2771 2 0 ca
+F 2774 3 0 lade 
+- 2778
+F 2779 1 0 Met 
+F 2781 1 0 a, 
+F 2783 1 0 met 
+F 2785 1 0 a 
+F 2787 2 0 group 
+F 2790 1 0 of 
+F 2792 2 0 girls 
+F 2795 1 0 in 
+F 2797 1 0 a 
+F 2799 3 0 es
+F 2803 2 0 ca
+F 2806 3 0 lade 
+- 2811
+F 2816 2 0 They 
+F 2820 2 0 came 
+F 2823 1 0 with 
+F 2825 2 0 you, 
+F 2828 1 0 and 
+F 2830 2 0 left 
+F 2833 1 0 with 
+F 2836 2 0 me 
+- 2840
+: 2915 1 5 Don’t 
+: 2918 2 7 say 
+: 2922 2 7 a 
+: 2926 2 7 word, 
+- 2929
+: 2930 2 7 Just 
+: 2934 2 7 turn 
+: 2938 2 7 a
+: 2942 2 7 round 
+: 2946 2 7 and 
+: 2950 2 7 let 
+: 2954 2 7 me 
+* 2958 4 11 see 
+- 2964
+: 2975 2 5 Girl 
+: 2979 2 7 you 
+: 2983 2 7 got 
+: 2987 2 7 some
+: 2991 2 7 thing 
+: 2995 2 7 spe
+: 2999 2 7 cial, 
+- 3002
+: 3002 2 7 Some
+: 3006 2 2 thing 
+: 3010 2 2 spe
+: 3014 2 2 cial 
+: 3018 2 2 for 
+* 3022 2 7 me
+* 3025 2 11 ~ 
+- 3029
+: 3043 2 5 It’s 
+: 3047 2 7 way 
+: 3051 2 7 too 
+: 3055 2 7 ma
+: 3059 2 7 ny 
+: 3063 2 7 suck
+: 3067 2 7 ers 
+: 3071 2 7 in 
+: 3075 2 7 the 
+: 3079 2 7 V
+: 3083 2 7 I
+: 3087 2 2 P 
+- 3091
+: 3094 2 5 Va
+: 3098 2 7 let 
+: 3102 2 7 got 
+: 3106 2 7 my 
+: 3110 2 7 car 
+: 3114 2 7 out 
+: 3118 2 7 front 
+- 3122
+: 3127 2 5 Tell 
+: 3131 2 7 me, 
+: 3135 2 7 do 
+: 3139 2 7 you 
+: 3143 2 7 wan
+: 3147 2 7 na 
+: 3151 3 7 kick 
+: 3156 2 7 it 
+- 3159
+: 3159 2 7 In 
+: 3163 2 7 the 
+: 3168 2 19 back 
+: 3174 4 19 seat 
+- 3180
+: 3186 2 0 I 
+: 3190 2 0 wan
+: 3194 2 0 na 
+: 3198 2 3 get 
+: 3203 2 3 be
+: 3210 2 3 si
+: 3214 2 2 de 
+: 3218 2 2 ya 
+- 3221
+: 3222 2 7 In 
+: 3226 2 7 the 
+: 3231 2 19 back 
+: 3237 4 19 seat 
+- 3242
+: 3243 2 0 So 
+: 3247 2 0 I 
+: 3251 2 0 can 
+: 3255 2 0 be 
+: 3259 2 0 your 
+: 3263 2 3 back 
+: 3267 2 3 seat 
+: 3273 2 3 dri
+: 3277 2 2 ~
+: 3281 1 2 ver 
+- 3284
+: 3287 2 7 In 
+: 3291 2 7 the 
+: 3296 2 19 back 
+: 3302 4 19 seat 
+- 3308
+: 3314 2 0 I 
+: 3318 2 0 wan
+: 3322 2 0 na 
+: 3326 2 3 get 
+: 3331 2 3 be
+: 3338 2 3 si
+: 3342 2 2 de 
+: 3346 2 2 ya, 
+- 3349
+: 3350 2 7 In 
+: 3354 2 7 the 
+: 3359 2 19 back 
+: 3365 4 19 seat 
+- 3370
+: 3370 2 0 So 
+: 3374 2 0 I 
+: 3378 2 0 can 
+: 3382 2 0 be 
+: 3386 2 0 your 
+: 3390 2 3 back 
+: 3394 2 3 seat 
+: 3400 2 3 dri
+: 3404 2 2 ~
+: 3408 1 2 ver 
+E

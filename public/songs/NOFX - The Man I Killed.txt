@@ -1,0 +1,291 @@
+#ARTIST:NOFX
+#TITLE:The Man I Killed
+#MP3:NOFX - The Man I Killed.mp3
+#CREATOR:Ultrastar-Songs
+#GENRE:Punk
+#YEAR:2006
+#LANGUAGE:English
+#BPM:294
+#GAP:580
+#VIDEO:a=mqEWKoiWoN4,co=wolves-in-wolves-clothing-537b91797b2e8.jpg,bg=nofx-639d545e56710.jpg
+: 0 3 -5 When 
+: 4 3 -1 they 
+: 8 3 2 tight
+: 12 3 2 ly 
+: 16 4 2 strap 
+: 21 3 2 me 
+: 25 4 2 in 
+- 31
+: 36 3 -5 Give 
+: 40 3 2 me 
+: 44 3 4 le
+: 48 3 4 thal 
+: 52 1 4 in
+: 54 3 2 jec
+: 58 4 2 tion 
+- 64
+: 70 4 2 Just 
+: 75 2 -1 a 
+: 78 4 0 few 
+: 83 3 0 mo
+: 87 2 0 ments 
+: 90 3 -3 to 
+: 94 6 -5 live 
+- 102
+: 105 3 -5 No 
+: 109 2 -5 re
+: 112 4 0 morse 
+: 117 2 0 for 
+: 120 3 0 what 
+: 124 2 0 I 
+: 127 6 2 did 
+- 135
+: 137 1 -5 Was 
+: 139 2 -1 for 
+: 142 4 -1 the 
+: 147 3 2 bet
+: 151 3 2 ter
+: 155 3 2 ment 
+: 159 1 2 of 
+: 161 8 2 man 
+- 170
+: 171 1 -5 I 
+: 173 4 -5 gave 
+: 178 2 2 the 
+: 181 1 4 ut
+: 183 4 4 most 
+: 188 3 4 sa
+: 192 4 2 cri
+: 197 6 -1 fice 
+- 204
+: 205 1 2 Be
+: 207 4 2 fore 
+: 212 4 -1 more 
+: 217 2 0 da
+: 220 4 0 mage 
+: 225 2 0 could 
+: 228 3 -3 be 
+: 232 6 -5 done 
+: 239 1 -5 I 
+: 241 4 -5 took 
+: 246 3 -5 his 
+: 251 6 -5 life 
+- 259
+: 272 4 7 There 
+: 277 4 7 was 
+: 282 2 6 a 
+: 285 4 4 split 
+: 290 3 4 se
+: 294 3 4 cond 
+: 298 1 4 of 
+: 300 4 4 si
+: 305 6 4 lence 
+- 312
+: 312 1 -1 When 
+: 314 3 2 the 
+: 318 4 4 dart 
+: 323 3 4 punc
+: 327 3 4 tured 
+: 331 2 4 the 
+: 334 6 4 skin 
+- 342
+: 348 1 2 Bea
+: 350 2 2 dy 
+: 353 5 2 eyes 
+: 359 3 2 roll 
+: 363 3 2 back 
+: 367 2 2 in 
+: 370 6 2 head 
+- 378
+: 380 3 0 Bo
+: 384 3 -1 dy 
+: 388 5 -3 dropped 
+: 395 1 -3 un
+: 397 2 -3 der 
+: 400 3 -3 poi
+: 404 6 2 son 
+- 412
+: 415 3 7 They 
+: 419 4 6 could 
+: 424 2 4 in
+: 427 3 4 ca
+: 431 3 4 pa
+: 435 3 4 ci
+: 439 4 4 tate 
+: 444 4 4 me 
+- 449
+: 449 4 -1 But 
+: 454 2 2 could 
+: 457 3 4 not 
+: 462 1 4 e
+: 464 3 4 rase 
+: 468 3 4 my 
+: 472 6 4 sneer 
+- 480
+: 482 1 2 I 
+: 484 4 2 heard 
+: 489 2 2 a 
+: 492 8 2 thousand 
+: 501 2 2 peo
+: 504 2 2 ple 
+: 507 4 2 screa
+: 512 4 2 ming 
+- 517
+: 518 3 0 While 
+: 522 4 -1 three 
+: 527 2 -3 bil
+: 530 4 -3 lion 
+: 535 1 -3 o
+: 537 3 -3 ther 
+: 541 8 2 cheered 
+- 551
+: 553 4 -3 He 
+: 558 4 -5 was 
+: 563 8 -8 gone 
+: 592 4 -5 and 
+: 599 6 0 I 
+: 607 5 -5 will 
+: 613 6 -5 soon 
+: 622 14 -3 be 
+- 638
+: 692 3 -5 E
+: 696 3 -1 xe
+: 700 3 2 cu
+: 704 3 2 ted 
+: 708 3 2 by 
+: 712 1 2 the 
+: 714 8 2 state 
+- 724
+: 726 3 -5 All 
+: 730 2 2 ap
+: 733 5 4 peals 
+: 740 2 4 would 
+: 743 3 4 be 
+: 747 1 2 in 
+: 749 6 2 vain 
+- 757
+: 760 1 2 I 
+: 762 1 -1 was 
+: 764 3 0 not 
+: 768 5 0 crimi
+: 774 6 0 nally 
+: 781 1 -3 in
+: 783 5 -5 sane 
+- 789
+: 791 1 -5 In 
+: 793 5 -5 fact 
+: 805 2 0 I 
+: 808 2 0 was 
+: 811 4 0 found 
+: 816 2 0 to 
+: 819 6 2 be 
+- 826
+: 828 1 -5 An 
+: 830 3 -5 other
+: 834 3 -1 wise 
+: 838 2 2 ca
+: 841 2 2 ring 
+: 844 3 2 and 
+: 849 2 2 res
+: 852 5 2 pec
+: 858 4 2 table 
+: 864 2 -5 mem
+: 867 3 -5 ber 
+- 871
+: 873 2 2 Of 
+: 876 4 2 so
+: 881 6 4 cie
+: 888 4 4 ty 
+- 894
+: 897 1 4 A 
+: 899 2 2 mi
+: 902 2 2 nor 
+: 905 7 2 threat 
+: 915 1 -1 ex
+: 917 2 0 cept 
+: 920 1 0 for 
+: 922 4 0 that 
+: 929 3 -3 one 
+: 933 3 -5 man 
+: 937 3 -5 I 
+: 941 7 -5 killed
+- 950
+: 970 3 7 As 
+: 974 1 7 the 
+: 976 3 6 se
+: 980 1 4 da
+: 982 5 4 tives 
+: 988 4 4 take 
+: 993 2 4 ef
+: 996 6 4 fect 
+- 1003
+: 1003 2 -1 I 
+: 1006 2 2 just 
+: 1009 5 4 smile 
+: 1016 1 4 and 
+: 1018 5 4 close 
+: 1024 3 4 my 
+: 1028 6 4 eyes 
+- 1036
+: 1038 3 2 There’s 
+: 1042 2 2 a 
+: 1045 5 2 priest 
+: 1051 3 2 knee
+: 1055 1 2 ling 
+: 1057 2 2 next 
+: 1060 3 2 to 
+: 1064 3 2 me 
+- 1068
+: 1068 3 0 He 
+: 1072 3 0 asked 
+: 1076 4 -1 me 
+: 1081 4 -3 if 
+: 1086 2 -3 I 
+: 1089 2 -3 re
+: 1092 2 -3 a
+: 1095 8 2 lize 
+- 1105
+: 1110 3 7 I 
+: 1114 4 7 was 
+: 1120 3 6 going 
+: 1124 3 4 straight 
+: 1128 2 4 to 
+: 1132 6 4 hell 
+- 1140
+: 1144 1 -1 And 
+: 1146 2 2 he 
+: 1149 4 4 thought 
+: 1154 2 4 that 
+: 1157 2 4 I 
+: 1160 4 4 should 
+: 1165 7 4 know 
+- 1174
+: 1176 3 2 That 
+: 1180 2 2 the 
+: 1184 4 2 man 
+: 1189 2 2 I 
+: 1192 3 2 killed 
+: 1196 2 2 re
+: 1199 5 2 place
+: 1205 4 2 ment 
+- 1210
+: 1210 2 0 Plan
+: 1213 2 -1 ned 
+: 1216 2 -3 this 
+: 1219 4 -3 whole 
+: 1224 2 -3 sce
+: 1227 2 -3 na
+: 1230 8 2 rio 
+- 1240
+: 1246 3 -3 What 
+: 1250 4 -5 I 
+: 1255 6 -8 did 
+: 1284 4 -5 had 
+: 1289 4 -5 no 
+: 1295 8 -5 sig
+: 1307 8 -3 ni
+: 1316 5 -5 fi
+: 1323 20 -5 cance 
+: 1354 5 -5 at 
+: 1360 10 -3 all 
+E

@@ -1,0 +1,102 @@
+#ARTIST:Irn-Bru
+#TITLE:The Snowman
+#MP3:Irn-Bru - The Snowman.mp3
+#CREATOR:thursday
+#GENRE:TV
+#LANGUAGE:English
+#BPM:215.34
+#GAP:4820
+#VIDEO:v=4yZOab5gl-4,co=https://i.kym-cdn.com/entries/icons/original/000/032/092/10367580_901298626587740_584159422766251303_n.png
+: 0 3 9 We’re 
+* 4 3 14 wal
+* 8 1 14 king 
+: 10 5 12 in 
+: 16 3 12 the 
+* 20 28 9 air 
+- 50
+: 60 2 9 I’m 
+* 64 1 14 sip
+* 66 3 14 ping 
+: 70 3 12 on 
+: 74 3 12 an 
+: 78 8 9 I
+: 88 3 5 rn 
+* 92 28 7 Bru 
+- 122
+: 148 2 7 My 
+: 152 1 10 chil
+: 154 2 10 ly 
+: 158 3 9 snow
+: 162 2 9 man 
+: 166 10 7 mate 
+- 177
+: 178 1 2 Says 
+: 180 1 5 he 
+: 182 3 5 would 
+: 186 2 4 like 
+: 190 3 4 some 
+* 194 28 2 too. 
+- 224
+: 264 2 9 I 
+* 268 1 14 tell 
+* 270 3 14 him, 
+: 274 3 12 get 
+: 278 3 12 your 
+* 282 28 9 own 
+- 312
+: 322 2 9 He 
+* 326 3 14 looks 
+* 330 2 14 like 
+: 334 1 12 he 
+: 336 2 12 is 
+: 340 3 9 go
+: 344 4 9 ing 
+: 350 3 5 to 
+* 354 28 7 cry 
+- 384
+: 410 2 7 I 
+: 414 3 10 tell 
+: 418 3 10 him 
+: 422 1 9 once 
+: 424 3 9 a
+: 428 10 7 gain, 
+- 439
+: 440 3 2 The 
+: 444 1 5 I
+: 446 3 5 rn 
+: 450 3 4 Bru 
+: 454 2 4 is 
+* 458 28 2 mine. 
+- 488
+: 522 3 9 Now 
+: 526 3 9 I’m 
+* 530 3 14 fal
+* 534 1 14 ling 
+: 536 3 12 through 
+: 540 3 12 the 
+* 544 28 9 air 
+- 574
+: 586 2 9 I 
+* 590 1 14 won
+* 592 3 14 der 
+: 596 3 12 where 
+: 600 2 12 I’m 
+: 604 1 9 go
+: 606 6 9 ing 
+: 614 3 5 to 
+* 618 28 7 land 
+- 648
+: 672 3 7 He 
+: 676 2 10 nicked 
+: 680 1 10 my 
+: 682 3 9 I
+: 686 3 9 rn 
+: 690 10 7 Bru 
+- 701
+: 702 1 2 And 
+: 704 2 5 let 
+: 708 1 5 go 
+: 710 3 4 of 
+: 714 3 4 my 
+* 718 28 2 hand 
+E

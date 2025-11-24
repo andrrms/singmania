@@ -1,0 +1,188 @@
+#ARTIST:The Alan Parsons Project
+#TITLE:Some Other Time
+#MP3:The Alan Parsons Project - Some Other Time.mp3
+#CREATOR:Strummer
+#COVER:The Alan Parsons Project - Some Other Time [CO].jpg
+#BACKGROUND:The Alan Parsons Project - Some Other Time [BG].jpg
+#GENRE:Rock
+#YEAR:1977
+#LANGUAGE:English
+#BPM:260
+#GAP:32880
+#VIDEO:v=ECUfp0I0XLs,co=i-robot-57f59cd8e6a4e.jpg,bg=parsons-alan-project-the-50fb9f5a87408.jpg
+: 0 2 12 In 
+: 3 2 12 a 
+: 7 4 11 mat
+: 12 8 9 ter 
+- 22
+: 31 2 9 Of 
+: 35 2 9 a 
+: 40 2 7 mo
+: 46 2 9 ment 
+: 53 8 11 lost 
+: 66 2 9 till 
+: 69 2 7 the 
+: 73 5 9 end 
+: 82 1 7 of 
+: 86 14 9 time 
+- 102
+: 132 2 12 Is 
+: 137 1 12 the 
+: 139 4 11 eve
+: 146 9 9 ning 
+- 157
+: 165 2 9 Of 
+: 169 2 9 a
+: 173 3 7 no
+: 177 5 9 ther 
+: 185 10 11 day 
+: 198 2 9 and 
+: 202 2 7 the 
+: 206 6 9 end 
+: 215 1 7 of 
+* 221 14 9 mine 
+- 237
+: 531 2 12 Now 
+: 535 1 12 the 
+: 539 4 11 star
+: 545 6 9 light 
+- 553
+: 564 1 9 Which 
+: 567 2 9 has 
+: 572 4 7 found 
+: 581 3 9 me 
+: 586 7 11 lost 
+: 598 2 9 for 
+: 601 2 7 a 
+: 608 3 9 mi
+: 614 2 7 llion 
+: 620 14 9 years 
+- 636
+: 664 2 12 Tries 
+: 669 1 12 to 
+: 672 2 11 lin
+: 677 10 9 ger 
+- 689
+: 697 2 9 As 
+: 700 1 9 it 
+: 706 2 7 fills 
+: 715 1 9 my 
+: 719 8 11 eyes 
+: 731 1 9 till 
+: 734 1 7 it 
+: 739 2 9 diss
+: 746 1 7 a
+* 751 17 9 ppears 
+- 770
+: 798 3 14 Could 
+: 802 1 14 it 
+: 806 3 13 be
+: 810 4 11 ~ 
+: 818 1 11 that 
+: 822 3 13 some
+: 826 3 13 bo
+: 830 3 13 dy 
+: 834 6 14 else 
+: 842 3 16 is 
+- 847
+: 854 3 18 Loo
+: 858 2 18 king 
+: 862 2 18 in
+: 866 6 19 to 
+: 874 9 18 my 
+: 886 7 14 mind 
+- 895
+: 902 3 18 Some 
+: 906 3 16 o
+: 910 2 14 ther 
+: 916 21 18 place 
+: 943 4 18 some
+: 950 11 16 where 
+: 967 3 13 some 
+: 971 2 11 o
+: 974 2 9 ther 
+: 979 37 11 time 
+- 1018
+: 1031 3 18 Some 
+: 1035 2 16 o
+: 1039 1 14 ther 
+* 1044 21 18 place 
+: 1072 4 18 some
+: 1079 11 16 where 
+: 1096 3 13 some 
+: 1100 1 11 o
+: 1104 2 9 ther 
+: 1109 37 11 time 
+- 1148
+: 2196 2 12 Like 
+: 2200 2 12 a 
+: 2204 3 11 mi
+: 2208 9 9 rror 
+- 2219
+: 2229 3 9 Held 
+: 2234 1 9 be
+: 2238 4 7 fore 
+: 2245 4 9 me 
+: 2251 9 11 large 
+: 2263 2 9 as 
+: 2268 1 7 the 
+: 2272 6 9 sky 
+: 2280 2 7 is 
+: 2286 17 9 wide 
+- 2305
+: 2331 2 12 And 
+: 2335 2 12 the 
+: 2339 2 11 i
+: 2343 9 9 mage 
+- 2354
+: 2365 1 9 Is 
+: 2368 2 9 re
+: 2372 3 7 flec
+: 2379 3 9 ted 
+: 2385 7 11 back 
+: 2397 2 9 to 
+: 2400 2 7 the 
+: 2404 6 9 o
+: 2413 3 7 ther 
+* 2418 18 9 side 
+- 2438
+: 2465 3 14 Could 
+: 2469 1 14 it 
+: 2473 3 13 be
+: 2477 5 11 ~ 
+: 2485 1 11 that 
+: 2489 3 13 some
+: 2493 3 13 bo
+: 2497 3 13 dy 
+: 2501 6 14 else 
+: 2510 3 16 is 
+- 2515
+: 2523 3 18 Loo
+: 2527 2 18 king 
+: 2531 2 18 in
+: 2535 6 19 to 
+: 2543 9 18 my 
+: 2555 6 14 mind 
+- 2563
+: 2572 3 18 Some 
+: 2576 3 16 o
+: 2580 2 14 ther 
+* 2585 21 18 place 
+: 2612 4 18 some
+: 2620 12 16 where 
+: 2636 3 13 some 
+: 2640 1 11 o
+: 2644 2 9 ther 
+: 2649 37 11 time 
+- 2688
+: 2702 3 18 Some 
+: 2706 3 16 o
+: 2710 2 14 ther 
+: 2715 22 18 place 
+: 2743 4 18 some
+: 2750 11 16 where 
+: 2766 3 13 some 
+: 2770 1 11 o
+: 2774 2 9 ther 
+* 2779 38 11 time 
+E

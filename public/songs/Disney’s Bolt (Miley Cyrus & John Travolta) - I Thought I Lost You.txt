@@ -1,0 +1,298 @@
+#ARTIST:Disney’s Bolt (Miley Cyrus & John Travolta)
+#TITLE:I Thought I Lost You
+#MP3:Disney’s Bolt (Miley Cyrus & John Travolta) - I Thought I Lost You.mp3
+#CREATOR:Coppolatte
+#GENRE:Soundtrack
+#YEAR:2008
+#LANGUAGE:English
+#BPM:206.04
+#GAP:8100
+#VIDEO:v=T_ozrd6so_0,co=https://vignette1.wikia.nocookie.net/disneychannel/images/d/da/I_Thought_I_Lost_You_-Single_Cover_Art.jpg
+: 0 3 7 No
+: 4 1 5 bo
+: 6 2 3 dy 
+: 10 3 5 lis
+: 14 1 3 ten 
+: 18 3 -2 to 
+: 22 7 -2 me 
+- 31
+: 32 3 -2 Don’t 
+: 36 3 -2 hear 
+: 40 1 -2 a 
+: 42 2 3 sin
+* 46 2 0 gle 
+: 50 2 -2 thing 
+: 54 2 -2 I’ve 
+: 58 3 -5 said 
+- 63
+: 64 3 7 Say 
+: 68 1 5 a
+: 70 2 3 ny
+: 74 3 5 thing
+: 78 1 3 ~ 
+: 80 1 -2 to 
+: 82 3 -2 soothe 
+: 86 5 -2 me 
+- 93
+: 96 1 -2 A
+: 98 1 -2 ny
+: 100 2 -2 thing 
+: 104 1 -2 to 
+: 106 2 3 get 
+: 110 2 0 you 
+: 114 2 -2 from 
+: 118 2 -2 my 
+: 122 3 -5 head 
+- 127
+: 128 3 7 Don’t 
+* 132 1 5 know 
+: 134 3 3 how 
+: 138 1 3 it 
+: 140 3 5 real
+: 144 1 3 ly it 
+: 146 5 -2 feels 
+- 153
+: 154 1 -5 To 
+: 156 2 -2 fake 
+: 160 1 -2 the 
+: 162 4 -2 days 
+: 168 1 0 to 
+* 170 2 3 make 
+: 174 2 0 like 
+: 178 2 -2 I 
+: 182 2 -2 don’t 
+: 186 3 -5 care 
+- 191
+: 192 3 7 Don’t 
+: 196 1 5 know 
+: 198 4 3 how 
+: 204 2 5 much 
+: 208 1 3 it 
+: 210 3 -2 hurt 
+- 215
+: 218 1 -5 To 
+: 220 3 -2 turn 
+: 224 1 -2 a
+: 226 5 3 round 
+: 232 2 5 like 
+: 236 3 8 you 
+: 240 1 8 were 
+: 242 3 5 ne
+: 246 1 3 ver 
+: 248 3 3 there 
+- 253
+: 256 3 7 Like 
+: 260 1 7 some
+: 262 3 7 how 
+: 268 3 7 you 
+: 272 1 5 could 
+: 274 3 3 be 
+- 279
+: 280 2 -5 The 
+* 284 5 -4 break 
+- 291
+: 320 3 7 And 
+: 324 3 7 I 
+: 328 2 7 could 
+: 332 2 5 walk 
+: 336 1 3 a
+: 338 3 3 way 
+- 343
+* 344 1 5 From 
+: 346 1 5 the 
+: 348 3 8 pro
+: 352 1 8 mi
+: 354 2 7 ses 
+: 358 2 3 we 
+: 362 9 5 made 
+- 373
+: 376 2 3 And 
+: 380 3 10 swore 
+: 384 2 8 we’d 
+: 388 1 7 ne
+: 390 2 5 ver 
+- 394
+* 396 3 8 Break
+* 400 7 7 ~
+: 408 3 5 ~ 
+- 413
+: 416 3 10 I 
+: 420 1 8 thought 
+: 422 3 7 I 
+: 426 3 8 lost 
+: 430 3 7 you 
+- 435
+* 436 3 3 When 
+* 440 2 0 you 
+: 444 3 3 ran 
+: 448 1 0 a
+: 450 3 3 way 
+- 455
+: 456 1 0 To 
+: 458 5 3 try 
+: 464 1 0 to 
+: 466 1 5 find
+: 468 3 7 ~ 
+: 472 3 3 me 
+- 477
+: 480 3 10 I 
+: 484 1 8 thought 
+: 486 4 7 I’d 
+: 492 1 8 ne
+: 494 2 7 ver 
+: 498 3 3 see 
+- 503
+: 504 3 10 Your
+: 508 2 8 ~ 
+* 512 5 8 sweet 
+: 520 5 8 face 
+: 528 3 5 a
+: 532 3 7 gain
+: 536 3 5 ~ 
+- 541
+: 544 3 10 I 
+: 548 2 8 turned 
+: 552 1 7 a
+: 554 4 8 round 
+: 560 1 7 and 
+: 562 4 3 you 
+: 568 1 0 were 
+: 570 3 3 gone 
+- 575
+: 576 1 0 And 
+: 578 4 3 on 
+: 584 1 0 and 
+: 586 4 3 on 
+: 592 1 5 the 
+: 594 4 7 days 
+: 600 3 3 went 
+- 605
+: 608 2 10 I 
+* 612 3 3 kept 
+: 618 1 10 the 
+: 620 2 10 mo
+: 624 3 3 ment 
+- 629
+: 632 3 10 That 
+: 636 3 10 we
+: 640 2 8 ~ 
+: 644 3 8 were
+: 648 2 7 ~ 
+: 652 3 7 in
+: 656 3 5 ~ 
+- 661
+: 670 1 10 ’Cause 
+: 672 2 10 I 
+* 676 4 3 hoped 
+: 682 1 10 in 
+: 684 2 10 my 
+: 688 5 3 heart 
+- 695
+: 696 1 10 You’d 
+: 698 1 10 come 
+: 700 2 10 back 
+: 704 1 8 to 
+: 706 2 8 me 
+: 710 3 7 my 
+: 714 3 7 friend 
+- 719
+: 720 3 10 And 
+: 724 1 8 now 
+* 726 2 7 I 
+: 730 3 8 got 
+: 734 11 7 you
+: 746 1 5 ~ 
+- 749
+: 784 3 10 I 
+* 788 1 8 thought 
+: 790 3 7 I 
+: 794 3 8 lost 
+: 798 17 7 you
+: 816 3 5 ~ 
+- 821
+: 856 2 3 I 
+: 860 2 3 told 
+: 864 2 3 my
+: 868 2 3 self 
+: 872 2 3 I 
+: 876 1 3 would
+: 878 3 5 n’t 
+: 882 1 5 sleep 
+- 885
+: 886 1 5 Till 
+: 888 2 7 I 
+: 892 2 7 searched 
+: 896 1 3 the 
+: 898 3 3 world 
+- 903
+: 904 2 7 From 
+* 908 3 8 sea 
+: 912 2 8 to 
+: 916 21 7 sea 
+- 939
+: 986 1 3 I 
+* 988 3 3 made 
+: 992 1 3 a 
+: 994 3 3 wish 
+- 999
+: 1000 1 3 U
+: 1002 1 5 ~
+: 1004 3 5 pon 
+: 1008 1 5 a 
+: 1010 3 5 star 
+: 1014 1 5 and 
+: 1016 1 3 I 
+- 1019
+: 1020 3 7 Turned 
+: 1024 1 7 a
+* 1026 3 7 round 
+: 1030 1 7 and 
+: 1032 3 8 there
+: 1036 2 7 ~ 
+: 1040 3 5 you 
+* 1044 1 3 were 
+* 1046 1 3 and 
+: 1048 1 3 now 
+- 1051
+: 1052 4 5 Here 
+: 1058 3 7 we 
+: 1064 3 3 are
+: 1068 3 0 ~
+: 1072 3 -2 ~ 
+- 1077
+: 1080 3 3 Are
+: 1084 17 7 ~
+: 1102 3 5 ~ 
+- 1107
+: 1119 3 5 Here 
+: 1123 1 3 we 
+: 1125 9 3 are 
+- 1136
+: 1141 3 10 I 
+* 1145 1 8 thought 
+: 1147 3 7 I 
+: 1151 3 8 lost 
+- 1156
+: 1157 3 7 I 
+: 1161 1 5 thought 
+: 1163 2 3 I 
+: 1167 4 5 lost 
+: 1173 7 3 you 
+- 1182
+: 1183 1 10 Yeah
+: 1185 3 10 ~
+: 1189 3 7 ~ 
+- 1194
+: 1254 3 3 I 
+* 1258 1 3 thought 
+: 1260 3 3 I 
+: 1266 1 5 lost 
+- 1268
+: 1269 3 7 I 
+: 1273 1 5 thought 
+: 1275 3 3 I 
+: 1279 3 5 lost 
+: 1285 5 3 you 
+: 1293 3 0 too
+: 1297 3 -2 ~. 
+E

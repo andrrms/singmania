@@ -1,0 +1,148 @@
+#ARTIST:Massive Attack
+#TITLE:Angel
+#MP3:Massive Attack - Angel.mp3
+#CREATOR:dude76
+#GENRE:Trip-Hop
+#YEAR:1998
+#LANGUAGE:English
+#BPM:216
+#GAP:36500
+#VIDEO:v=hbe3CQamF8k,co=angel-5f40047cdeb56.jpg,bg=massive-attack-4dde91e9e04c0.jpg
+: 0 49 0 You 
+: 51 9 -2 are 
+: 62 7 1 my 
+: 71 9 0 an
+: 82 27 0 gel 
+- 111
+: 259 7 0 Come 
+: 268 5 0 from 
+: 275 8 -2 way 
+: 285 2 1 a
+: 289 31 0 bove 
+- 322
+: 336 3 -2 To 
+: 341 5 0 bring 
+: 348 3 0 me 
+* 353 57 0 love 
+- 412
+: 710 4 0 Her 
+: 716 31 0 eyes 
+- 749
+: 758 5 0 She’s 
+: 765 4 -2 on 
+: 771 3 1 the 
+: 776 4 0 dark 
+: 782 28 0 side 
+- 812
+: 837 8 0 Neu
+: 847 3 -2 tra
+: 852 45 0 lize 
+- 899
+: 912 2 0 E
+: 916 3 0 very 
+: 921 3 -2 man 
+: 926 6 1 in 
+: 934 52 0 sight 
+- 988
+: 1029 7 0 Love 
+: 1038 1 -1 you 
+- 1040
+: 1041 2 0 Love 
+: 1045 3 -1 you 
+- 1049
+: 1050 1 0 Love 
+: 1053 2 -1 you 
+- 1056
+: 1057 2 0 Love 
+: 1061 2 -1 you 
+- 1064
+: 1065 3 0 Love 
+: 1070 1 -1 you 
+- 1072
+: 1073 2 0 Love 
+: 1077 2 -1 you 
+- 1080
+* 1081 2 0 Love 
+* 1085 3 -1 you 
+- 1089
+: 1090 2 0 Love 
+: 1094 1 -1 you 
+- 1096
+: 1097 3 0 Love 
+: 1102 2 -1 you 
+- 1105
+: 1106 3 0 Love 
+: 1111 1 -1 you 
+- 1113
+: 1114 3 0 Love 
+: 1119 1 -1 you 
+- 1121
+: 1122 2 0 Love 
+: 1126 2 -1 you 
+- 1129
+: 1130 2 0 Love 
+: 1134 2 -1 you 
+- 1137
+: 1138 3 0 Love 
+: 1143 1 -1 you 
+- 1145
+* 1146 3 0 Love 
+* 1151 1 -1 you 
+- 1153
+: 1154 2 0 Love 
+: 1158 3 -1 you 
+- 1162
+: 1163 2 0 Love 
+: 1167 2 -1 you 
+- 1170
+: 1171 2 0 Love 
+: 1175 2 -1 you 
+- 1178
+: 1179 2 0 Love 
+: 1183 2 -1 you 
+- 1186
+: 1187 2 0 Love 
+: 1191 2 -1 you 
+- 1128
+* 1736 49 0 You 
+: 1787 10 -2 are 
+: 1799 5 1 my 
+: 1806 10 0 an
+: 1818 30 0 gel 
+- 1850
+: 1996 6 0 Come 
+: 2004 5 0 from 
+: 2011 9 -2 way 
+: 2022 2 1 a
+: 2026 68 0 bove 
+- 1832
+: 2912 7 0 Love 
+: 2921 1 -1 you 
+- 2923
+: 2924 3 0 Love 
+: 2929 1 -1 you 
+- 2931
+: 2932 3 0 Love 
+: 2937 2 -1 you 
+- 2940
+: 2941 3 0 Love 
+: 2946 1 -1 you 
+- 2948
+: 2949 2 0 Love 
+: 2953 2 -1 you 
+- 2956
+: 2957 2 0 Love 
+: 2961 1 -1 you 
+- 2963
+: 2964 4 0 Love 
+: 2970 1 -1 you 
+- 2972
+: 2973 3 0 Love 
+: 2978 1 -1 you 
+- 2980
+: 2981 2 0 Love 
+: 2985 1 -1 you 
+- 2987
+: 2988 4 0 Love 
+: 2994 61 -1 you 
+E

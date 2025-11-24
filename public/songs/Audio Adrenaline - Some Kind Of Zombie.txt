@@ -1,0 +1,441 @@
+#ARTIST:Audio Adrenaline
+#TITLE:Some Kind Of Zombie
+#MP3:Audio Adrenaline - Some Kind Of Zombie.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Audio Adrenaline - Some Kind Of Zombie [CO].jpg
+#BACKGROUND:Audio Adrenaline - Some Kind Of Zombie [BG].jpg
+#GENRE:Christian Rock, Religious
+#YEAR:1997
+#LANGUAGE:English
+#BPM:378.61
+#GAP:30090
+#VIDEO:v=TtgxF0Qe3Zw,co=https://m.media-amazon.com/images/I/51kaRsjKdrL.jpg,bg=audio-adrenaline-4ecad60ebb1c3.jpg
+: 0 5 7 I 
+: 7 14 7 must 
+: 22 4 9 have 
+: 28 18 7 been 
+- 71
+: 112 3 7 Con
+: 117 14 7 fused 
+: 133 5 5 or 
+: 140 23 4 vain 
+- 188
+: 223 3 7 To 
+: 230 12 7 let 
+: 245 5 5 this 
+- 253
+: 255 12 4 E
+: 270 7 0 vil 
+: 279 8 4 in 
+: 292 8 5 my 
+: 306 29 4 brain 
+- 385
+: 454 13 0 Lord 
+: 469 5 2 did 
+: 477 26 0 I 
+- 528
+: 562 5 5 En
+: 569 12 7 joy 
+: 584 3 7 the 
+: 589 30 4 change 
+- 644
+: 678 11 7 That 
+: 692 6 5 you 
+: 701 18 4 made 
+: 723 4 2 in
+: 730 8 4 side 
+: 742 7 5 my 
+: 755 33 9 heart 
+- 838
+: 889 12 9 Oh 
+: 903 13 0 here 
+: 918 4 11 they 
+: 925 18 9 come 
+- 968
+: 1001 5 9 But 
+: 1009 5 9 I’m 
+: 1017 13 0 not 
+: 1032 4 9 a
+: 1039 26 9 fraid 
+- 1075
+: 1112 13 9 There’s 
+: 1128 11 0 no 
+: 1142 5 11 temp
+: 1151 9 9 ta
+: 1162 23 4 tion 
+- 1195
+: 1227 11 9 I 
+: 1241 11 0 can’t 
+: 1254 4 11 e
+: 1262 30 9 vade 
+- 1317
+: 1351 3 9 Stand 
+: 1356 4 7 up 
+: 1363 14 9 straight 
+- 1387
+: 1397 2 9 I 
+: 1400 3 9 look 
+: 1404 9 7 through 
+: 1414 3 7 the 
+: 1418 13 9 haze 
+- 1441
+: 1456 3 9 I 
+: 1460 4 2 be
+: 1465 4 9 gin 
+: 1470 3 2 to 
+: 1474 9 9 walk 
+- 1493
+: 1518 8 2 Through 
+: 1528 2 0 the 
+: 1532 16 9 maze 
+- 1558
+: 1574 4 2 Here 
+: 1579 3 11 they 
+: 1583 11 2 come 
+- 1604
+: 1626 3 7 They’re 
+: 1630 3 0 all 
+: 1634 3 7 up 
+: 1639 5 2 on 
+: 1646 9 9 me 
+- 1665
+: 1678 1 2 But 
+: 1680 3 2 I’m 
+: 1685 6 2 dead 
+: 1693 2 0 to 
+: 1696 4 4 sin
+: 1701 5 0 ~ 
+: 1707 13 2 like 
+- 1731
+: 1735 4 2 Some 
+: 1741 6 2 kind 
+: 1749 2 0 of 
+: 1752 9 0 zom
+: 1762 8 0 bie 
+- 1776
+G 1779 3 15 I 
+G 1786 4 11 hear 
+G 1794 4 12 you 
+G 1800 5 13 speak 
+G 1808 2 14 and 
+G 1812 3 16 I 
+G 1818 2 14 o
+G 1822 18 14 bey 
+- 1846
+: 1849 3 7 Some 
+: 1855 5 9 kind 
+: 1863 2 9 of 
+: 1867 8 2 zom
+: 1877 14 0 bie 
+- 1891
+R 1892 4 13 I 
+R 1898 6 20 walked 
+R 1905 3 24 a
+R 1909 13 24 way 
+R 1924 5 12 from 
+R 1932 2 14 the 
+R 1936 16 15 grave 
+- 1958
+: 1960 3 7 Some 
+: 1967 5 4 kind 
+: 1974 2 0 of 
+: 1978 7 2 zom
+: 1987 18 0 bie 
+- 2007
+R 2009 3 10 I 
+R 2016 4 21 will 
+R 2024 2 17 nev
+R 2028 5 17 er 
+R 2037 2 16 be 
+R 2042 1 17 a
+R 2046 20 17 fraid 
+- 2071
+: 2073 4 7 Some 
+: 2080 4 9 kind 
+: 2086 2 9 of 
+: 2090 8 4 zom
+: 2100 15 0 bie 
+- 2115
+G 2116 4 12 I 
+G 2123 4 12 gave 
+G 2129 4 4 my 
+G 2136 11 5 life 
+G 2150 3 16 a
+G 2156 28 16 way 
+- 2209
+: 2249 10 7 I’m 
+: 2263 4 9 o
+: 2270 29 7 bliged 
+- 2324
+: 2362 12 7 And 
+: 2375 6 9 o
+: 2382 22 7 bey 
+- 2429
+: 2473 9 7 I’m 
+: 2487 4 0 a 
+: 2495 17 7 slave 
+: 2516 4 2 to 
+: 2523 8 2 what 
+: 2537 7 2 you 
+: 2550 5 2 say
+: 2557 83 4 ~ 
+- 2650
+: 2682 10 9 Oh 
+: 2695 13 0 here 
+: 2710 4 11 they 
+: 2717 18 9 come 
+- 2760
+: 2795 5 9 But 
+: 2802 4 9 I’m 
+: 2809 13 0 not 
+: 2824 3 11 a
+: 2830 22 9 fraid 
+- 2877
+: 2906 10 9 There’s 
+: 2920 11 0 no 
+: 2935 4 11 temp
+: 2942 10 9 ta
+: 2953 23 4 tion 
+- 2986
+: 3018 11 9 I 
+: 3032 12 11 can’t 
+: 3047 5 11 e
+: 3054 35 9 vade 
+- 3114
+: 3141 2 7 I 
+: 3145 2 11 stand 
+: 3148 4 9 up 
+: 3155 14 9 straight 
+- 3179
+: 3192 2 11 I 
+: 3195 4 7 look 
+: 3201 5 2 through 
+: 3208 2 2 the 
+: 3211 15 9 haze 
+- 3236
+: 3248 2 2 I 
+: 3251 4 2 be
+: 3256 5 2 gin 
+: 3262 3 0 to 
+: 3266 8 2 walk 
+- 3284
+: 3310 5 2 Through 
+: 3318 3 4 the 
+: 3323 12 0 maze 
+- 3345
+: 3361 4 2 Here 
+: 3368 3 7 they 
+: 3373 20 9 come 
+- 3403
+: 3417 2 4 They’re 
+: 3421 2 2 all 
+: 3424 3 7 up 
+: 3429 2 2 on
+: 3432 3 4 ~ 
+: 3438 8 9 me 
+- 3456
+: 3470 2 4 But 
+: 3473 5 4 I’m 
+: 3479 5 2 dead 
+: 3485 3 2 to 
+: 3489 5 4 sin 
+: 3501 7 0 like 
+- 3518
+: 3528 4 7 Some 
+: 3535 5 7 kind 
+: 3544 2 2 of 
+: 3548 8 0 zom
+: 3558 8 0 bie 
+- 3567
+R 3569 6 16 I 
+R 3577 5 17 hear 
+R 3585 3 16 you 
+R 3591 6 17 speak 
+R 3599 2 17 and 
+R 3603 5 19 I 
+R 3610 2 4 o
+R 3613 12 4 bey 
+- 3636
+: 3640 5 9 Some 
+: 3648 5 9 kind 
+: 3656 2 4 of 
+: 3660 8 2 zom
+: 3669 15 0 bie 
+- 3684
+R 3685 3 10 I 
+R 3690 6 17 walk 
+R 3699 2 4 a
+R 3702 13 4 way 
+R 3719 4 14 from 
+R 3726 2 4 the 
+R 3730 13 4 grave 
+- 3750
+: 3753 8 7 Some 
+: 3763 5 9 kind 
+: 3769 2 4 of 
+: 3773 5 2 zom
+: 3781 18 0 bie 
+- 3804
+G 3806 2 4 I 
+G 3809 5 4 will 
+G 3815 4 4 nev
+G 3820 5 4 er 
+G 3828 5 17 be 
+G 3835 5 5 a
+G 3841 6 5 fraid 
+- 3857
+: 3865 5 9 Some 
+: 3873 4 9 kind 
+: 3880 2 4 of 
+: 3883 8 4 zom
+: 3893 16 0 bie 
+- 3909
+R 3910 1 4 I 
+R 3912 7 4 gave 
+R 3920 6 4 my 
+R 3927 9 4 life 
+R 3945 4 24 a
+R 3950 4 24 way 
+- 4004
+: 4711 1 7 I 
+: 4714 2 7 stand 
+: 4719 3 7 up 
+: 4723 14 9 straight 
+- 4747
+: 4758 2 9 I 
+: 4761 4 11 look 
+: 4766 7 7 through 
+: 4774 3 7 the 
+: 4778 14 9 haze 
+- 4802
+: 4817 2 11 I 
+: 4820 3 2 be
+: 4824 4 2 gin 
+: 4829 5 2 to 
+: 4835 9 2 walk 
+- 4854
+: 4880 5 2 Through 
+: 4888 2 2 the 
+: 4892 15 4 maze 
+- 4917
+: 4931 3 4 Here 
+: 4937 4 7 they 
+: 4944 19 9 come 
+- 4973
+: 4990 2 5 They’re 
+: 4994 3 7 all 
+: 4999 2 9 up 
+: 5003 6 7 on 
+: 5011 13 9 me 
+- 5034
+: 5042 1 7 But 
+: 5045 3 2 I’m 
+: 5051 3 5 dead 
+: 5056 2 2 to 
+: 5060 19 7 sin 
+- 5091
+: 5095 2 0 Like 
+: 5099 4 2 some 
+: 5106 3 7 kind 
+: 5113 1 2 of 
+: 5116 5 7 zom
+: 5123 15 7 bie 
+- 5138
+R 5140 4 16 I 
+R 5147 4 17 hear 
+R 5154 3 17 you 
+R 5161 5 17 speak 
+R 5169 2 18 and 
+R 5173 3 17 I 
+R 5178 2 18 o
+R 5182 18 18 bey 
+- 5207
+: 5210 3 9 Some 
+: 5217 4 9 kind 
+: 5225 1 4 of 
+: 5229 7 2 zom
+: 5239 10 0 bie 
+- 5251
+R 5253 4 17 I 
+R 5260 4 18 walk 
+R 5267 2 13 a
+R 5271 13 13 way 
+R 5288 3 16 from 
+R 5295 1 18 the 
+R 5299 19 18 grave 
+- 5320
+: 5322 2 7 Some 
+: 5327 4 11 kind 
+: 5336 2 0 of 
+: 5340 5 7 zom
+: 5349 15 0 bie 
+- 5370
+R 5373 1 16 I 
+R 5379 2 18 will 
+R 5386 2 19 nev
+R 5390 3 19 er 
+R 5398 2 26 be 
+R 5402 3 17 a
+R 5408 19 17 fraid 
+- 5432
+: 5434 1 9 Some 
+: 5441 3 9 kind 
+: 5449 1 9 of 
+: 5452 6 4 zom
+: 5463 11 0 bie 
+- 5474
+G 5475 4 16 I 
+G 5482 4 16 gave 
+G 5489 4 17 my 
+G 5496 13 4 life 
+G 5512 3 4 a
+G 5518 18 4 way 
+- 5543
+: 5546 4 7 Some 
+: 5553 5 9 kind 
+: 5561 2 4 of 
+: 5565 7 2 zom
+: 5574 16 0 bie 
+- 5593
+R 5595 3 12 I 
+R 5601 5 12 will 
+R 5610 3 17 nev
+R 5615 4 17 er 
+R 5622 3 14 be 
+R 5627 3 24 a
+R 5632 18 24 fraid 
+- 5656
+: 5658 4 9 Some 
+: 5666 5 9 kind 
+: 5673 2 9 of 
+: 5677 8 11 zom
+: 5687 16 0 bie 
+- 5706
+R 5708 3 22 I 
+R 5714 4 22 will 
+R 5721 4 12 nev
+R 5727 4 12 er 
+R 5735 3 12 be 
+R 5740 2 4 a
+R 5744 21 4 fraid 
+- 5768
+: 5770 3 7 Some 
+: 5777 6 0 kind 
+: 5785 2 4 of 
+: 5789 6 4 zom
+: 5797 13 11 bie 
+- 5815
+R 5817 3 15 I 
+R 5824 4 15 will 
+R 5834 2 17 nev
+R 5838 4 17 er 
+R 5847 2 17 be 
+R 5852 2 5 a
+R 5856 23 5 fraid 
+- 5880
+: 5882 5 9 Some 
+: 5889 5 9 kind 
+: 5896 2 9 of 
+: 5900 8 9 zom
+: 5910 22 0 bie 
+E

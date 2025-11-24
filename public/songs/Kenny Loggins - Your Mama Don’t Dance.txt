@@ -1,0 +1,330 @@
+#ARTIST:Kenny Loggins
+#TITLE:Your Mama Don’t Dance
+#MP3:Kenny Loggins - Your Mama Don’t Dance.mp3
+#CREATOR:Relisch
+#COVER:Kenny Loggins - Your Mama Don’t Dance [CO].jpg
+#BACKGROUND:Kenny Loggins - Your Mama Don’t Dance [BG].jpg
+#GENRE:Pop
+#YEAR:1972
+#LANGUAGE:English
+#BPM:300
+#GAP:13500
+#VIDEO:a=VTu4yQH8KBs,co=https://i.ibb.co/YRNHv9N/lamymdd.jpg,bg=loggins-kenny-65ae06db276a9.jpg
+: 0 3 14 Your 
+: 4 3 17 mama
+: 8 2 17 ~ 
+: 11 6 14 don’t 
+: 19 7 14 dance 
+: 27 4 11 and 
+: 32 2 14 your 
+: 36 3 17 daddy
+: 41 2 17 ~ 
+: 45 5 14 don’t 
+: 53 5 14 rock 
+: 60 3 11 and 
+: 65 8 14 roll 
+- 93
+: 129 3 14 Your 
+: 133 3 17 mama
+: 137 2 17 ~ 
+: 140 6 14 don’t 
+: 148 7 14 dance 
+: 156 4 11 and 
+: 161 2 14 your 
+: 165 3 17 daddy
+: 170 2 17 ~ 
+* 174 5 14 don’t 
+* 182 5 14 rock 
+* 189 3 11 and 
+* 194 8 14 roll 
+- 222
+: 254 4 14 But 
+: 262 2 14 when 
+: 266 1 16 evening
+: 268 2 16 ~ 
+: 271 2 16 rolls 
+: 275 2 14 around
+: 278 6 17 ~ 
+: 286 4 16 and 
+: 291 2 16 it’s 
+: 294 4 14 time 
+: 300 2 14 to 
+: 303 3 14 go 
+: 308 2 11 to 
+: 311 5 16 town 
+- 317
+: 319 1 16 Where 
+: 321 2 17 do 
+: 324 1 18 you 
+: 326 5 14 go 
+: 347 2 16 to 
+: 350 1 17 rock 
+: 352 2 18 and 
+: 355 6 14 roll? 
+- 371
+: 387 3 14 The 
+: 391 5 17 old 
+: 398 6 16 folks 
+: 406 7 14 say 
+: 415 4 11 that 
+: 420 2 14 ya 
+: 424 3 17 gotta
+: 428 3 17 ~ 
+: 432 3 16 end 
+: 436 3 16 your 
+: 440 6 14 day 
+: 447 4 11 by 
+: 452 7 14 ten 
+- 479
+: 514 3 14 If 
+: 519 2 14 you’re 
+: 522 6 14 out 
+: 529 4 17 on 
+: 534 2 16 a 
+: 538 6 16 date 
+: 546 2 11 and 
+: 550 2 14 you 
+: 554 3 17 bring 
+: 558 3 17 it 
+: 562 6 16 home 
+: 570 5 14 late, 
+: 577 4 11 it’s 
+: 582 3 14 a 
+: 586 7 14 sin 
+- 613
+: 648 2 14 There 
+: 652 4 16 just 
+: 657 2 16 ain’t 
+: 660 3 16 no 
+: 664 3 14 excuse
+: 668 6 16 ~ 
+: 676 3 19 and 
+: 681 2 19 you 
+: 684 4 17 know 
+: 689 2 17 you’re 
+: 692 2 17 gonna
+: 695 3 17 ~ 
+: 699 3 17 lose 
+- 703
+: 705 2 14 And 
+: 708 3 16 never
+: 712 1 17 ~ 
+: 714 5 14 win 
+- 729
+* 737 3 14 I’ll 
+* 741 2 16 say 
+* 744 1 16 it 
+* 746 2 17 again
+* 749 6 14 ~ 
+- 758
+: 760 2 2 And 
+: 763 2 2 it’s 
+: 766 4 5 all 
+: 772 2 9 because
+: 775 4 11 ~ 
+: 781 2 14 your 
+: 784 3 17 mama
+: 789 1 17 ~ 
+: 792 5 14 don’t 
+: 799 6 14 dance 
+- 806
+: 808 4 11 And 
+: 813 2 14 your 
+: 817 3 17 daddy
+: 821 3 17 ~ 
+: 825 6 14 don’t 
+: 833 6 14 rock 
+: 841 3 11 and 
+: 846 6 14 roll 
+- 872
+: 913 3 14 Your 
+: 917 3 17 mama
+: 921 2 17 ~ 
+: 924 6 14 don’t 
+: 932 7 14 dance 
+: 940 4 11 and 
+: 945 2 14 your 
+: 949 3 17 daddy
+: 954 2 17 ~ 
+: 958 5 14 don’t 
+: 966 5 14 rock 
+: 973 3 11 and 
+: 978 8 14 roll 
+- 1006
+: 1046 3 14 When 
+: 1050 3 16 evening
+: 1054 3 16 ~ 
+: 1058 4 16 rolls 
+: 1063 2 14 around
+: 1066 8 17 ~ 
+: 1075 3 16 and 
+: 1079 3 16 it’s 
+: 1083 5 14 time 
+: 1089 2 14 to 
+: 1092 3 14 go 
+: 1096 3 11 to 
+: 1100 5 16 town 
+- 1106
+: 1108 2 16 Where 
+: 1111 1 17 do 
+: 1113 2 18 you 
+: 1116 6 14 go, 
+: 1139 2 16 to 
+: 1142 1 17 rock 
+: 1144 2 18 and 
+: 1147 6 14 roll? 
+- 1193
+F 1972 3 6 You 
+F 1976 4 6 pull 
+F 1981 2 6 into
+F 1984 4 6 ~ 
+F 1989 2 6 a 
+F 1993 6 6 drive-in
+F 2000 4 6 ~, 
+F 2006 2 6 you 
+F 2009 4 6 find 
+F 2014 3 6 a 
+F 2018 4 6 place 
+F 2023 2 6 to 
+F 2026 7 6 park 
+- 2036
+F 2038 3 6 You 
+F 2042 4 6 hop 
+F 2047 2 6 into
+F 2051 3 6 ~ 
+F 2055 2 6 the 
+F 2059 4 6 backseat
+F 2064 5 6 ~ 
+F 2070 2 6 where 
+F 2073 1 6 you 
+* 2075 3 6 know 
+* 2079 3 6 it’s 
+* 2083 4 6 nice 
+* 2088 2 6 and 
+* 2091 7 6 dark 
+- 2102
+F 2104 2 6 You’re 
+F 2107 4 6 just 
+F 2113 2 6 about
+F 2116 3 6 ~ 
+F 2121 2 6 to 
+F 2124 7 6 groove, 
+F 2132 3 6 and 
+F 2136 3 6 you’re 
+F 2140 4 6 thinking
+F 2146 2 6 ~ 
+F 2149 3 6 it’s 
+F 2153 1 6 a 
+F 2155 9 6 breeze 
+- 2166
+F 2168 2 6 Then 
+F 2171 1 6 there’s 
+F 2173 1 6 a 
+F 2175 1 6 light 
+F 2177 1 6 in 
+F 2179 1 6 your 
+F 2181 3 6 eye, 
+F 2185 3 6 and 
+F 2189 1 6 then 
+F 2191 1 6 a 
+F 2193 5 6 guy 
+F 2199 2 6 says 
+- 2202
+F 2204 2 6 “Out 
+F 2207 1 6 of 
+F 2209 2 6 the 
+F 2212 5 6 car, 
+F 2218 3 6 Longhair”
+F 2222 1 6 ~ 
+- 2223
+* 2224 1 9 But 
+* 2226 7 17 ooh-wee
+* 2234 5 16 ~, 
+: 2258 3 14 you’re 
+: 2262 2 16 comin’
+: 2265 1 16 ~ 
+: 2267 2 17 with 
+: 2271 5 14 me 
+- 2287
+: 2291 1 14 To 
+: 2293 1 14 the 
+: 2295 2 16 local
+: 2298 2 16 ~ 
+: 2301 2 17 police
+: 2304 7 14 ~ 
+- 2321
+: 2345 2 2 And 
+: 2348 2 2 it’s 
+: 2351 4 5 all 
+: 2357 2 9 because
+: 2360 4 11 ~ 
+: 2366 2 14 your 
+: 2369 3 17 mama
+: 2374 1 17 ~ 
+: 2377 5 14 don’t 
+: 2384 6 14 dance 
+- 2391
+: 2393 4 11 And 
+: 2398 2 14 your 
+: 2402 3 17 daddy
+: 2406 3 17 ~ 
+: 2410 6 14 don’t 
+: 2418 6 14 rock 
+: 2426 3 11 and 
+: 2431 6 14 roll 
+- 2457
+: 2498 3 14 Your 
+: 2502 3 17 mama
+: 2506 2 17 ~ 
+: 2509 6 14 don’t 
+: 2517 7 14 dance 
+: 2525 4 11 and 
+: 2530 2 14 your 
+: 2534 3 17 daddy
+: 2539 2 17 ~ 
+: 2543 5 14 don’t 
+: 2551 5 14 rock 
+: 2558 3 11 and 
+: 2563 8 14 roll 
+- 2591
+: 2633 3 14 When 
+: 2637 3 16 evening
+: 2641 3 16 ~ 
+: 2645 4 16 rolls 
+: 2650 2 14 around
+: 2653 8 17 ~, 
+: 2662 3 16 and 
+: 2666 3 16 it’s 
+: 2670 5 14 time 
+: 2676 2 14 to 
+: 2679 3 14 go 
+: 2683 3 11 to 
+: 2687 4 16 town 
+- 2692
+* 2694 2 16 Where 
+* 2697 1 17 do 
+* 2699 2 18 you 
+* 2702 6 14 go 
+: 2725 2 16 to 
+: 2728 1 17 rock 
+: 2730 2 18 and 
+: 2733 6 14 roll? 
+- 2749
+: 2760 2 16 Where 
+: 2763 1 17 do 
+: 2765 2 18 you 
+: 2768 6 14 go 
+: 2791 2 16 to 
+: 2794 1 17 rock 
+: 2796 2 18 and 
+: 2799 6 14 roll? 
+- 2815
+: 2826 2 16 Where 
+: 2829 1 17 do 
+: 2831 2 18 you 
+: 2834 6 14 go 
+: 2857 2 16 to 
+: 2860 1 17 rock 
+: 2862 2 18 and 
+: 2865 6 14 roll? 
+E

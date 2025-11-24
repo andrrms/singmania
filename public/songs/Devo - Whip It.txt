@@ -1,0 +1,314 @@
+#ARTIST:Devo
+#TITLE:Whip It
+#MP3:Devo - Whip It.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band 3
+#GENRE:Rock
+#YEAR:1980
+#LANGUAGE:English
+#BPM:398.69
+#GAP:19700
+#VIDEO:v=IIEVqFB4WUo,co=https://i.discogs.com/dqRmyIhG0xEGks4u9ZXL_SEAd-p-3uUog2_8EZ4j1JY/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ3/OC0xMTE5NDU0Mjg0/LmpwZw.jpeg,bg=devo-50f3847b60012.jpg
+F 0 2 25 Crack
+F 4 7 25 ~ 
+F 15 7 25 that 
+F 24 7 25 whip 
+- 33
+: 81 7 14 Give 
+: 91 1 14 the 
+: 95 4 16 past 
+: 102 1 14 the 
+: 106 6 16 slip 
+- 114
+: 166 2 14 Step 
+: 171 4 14 on 
+: 176 1 14 a 
+: 181 4 14 crack
+: 186 5 16 ~ 
+- 193
+: 243 7 14 Break 
+: 253 2 14 your 
+: 257 4 16 mom
+: 263 1 14 ma’s 
+: 268 6 16 back 
+- 276
+* 358 2 11 When 
+: 362 3 10 a 
+: 368 4 11 pro
+: 373 1 10 blem 
+: 378 2 11 comes 
+: 383 3 10 a
+: 389 7 11 long 
+- 398
+: 404 4 13 You
+: 409 4 14 ~ 
+: 414 2 14 must 
+* 419 2 13 whip 
+: 424 3 14 it 
+- 429
+: 434 3 11 Be
+: 440 3 11 fore 
+: 444 1 11 the 
+: 449 3 11 cream 
+: 455 1 11 sits 
+: 459 3 11 out 
+: 465 2 10 too 
+: 469 7 11 long 
+- 478
+: 485 8 18 You 
+: 494 2 18 must 
+: 500 2 16 whip 
+: 504 3 14 it 
+- 509
+: 524 2 10 When 
+: 529 2 11 some
+: 535 2 10 thing’s 
+: 540 3 11 go
+: 544 3 10 in’ 
+: 549 8 11 wrong 
+- 559
+: 565 4 13 You
+: 570 3 14 ~ 
+: 574 2 14 must 
+: 580 2 13 whip 
+: 585 3 14 it 
+- 590
+F 626 2 25 Now 
+F 630 4 25 whip 
+F 636 3 25 it 
+- 641
+F 670 2 25 In
+F 675 2 25 to 
+F 681 6 25 shape 
+- 689
+F 711 3 25 Shape 
+F 716 4 25 it 
+F 721 7 25 up 
+- 730
+F 753 3 25 Get 
+F 763 7 25 straight 
+- 772
+F 793 7 25 Go 
+F 803 3 25 for
+F 809 3 25 ward 
+- 814
+F 833 4 25 Move 
+F 838 4 25 a
+F 844 6 25 head 
+- 852
+F 869 2 25 Try 
+F 874 2 25 to 
+F 878 2 25 de
+F 883 3 25 tect 
+F 890 3 25 it 
+- 895
+F 909 1 25 It’s 
+F 914 3 25 not 
+F 920 3 25 too 
+F 924 6 25 late 
+- 932
+F 950 2 25 To 
+F 954 3 25 whip 
+F 960 3 25 it 
+- 965
+F 993 2 25 Whip 
+F 999 2 25 it 
+F 1004 8 25 good 
+- 1014
+: 1086 3 10 When 
+: 1090 3 10 a 
+: 1096 2 11 good 
+: 1101 3 10 time 
+: 1106 3 11 turns 
+: 1111 5 10 a
+: 1117 8 11 round 
+- 1127
+: 1130 4 13 You
+: 1135 4 14 ~ 
+: 1141 2 14 must 
+: 1147 3 13 whip 
+: 1151 2 14 it 
+- 1155
+: 1166 3 11 You 
+* 1170 3 11 will 
+* 1176 4 11 ne
+* 1181 4 11 ver 
+* 1187 3 11 live 
+: 1191 1 11 it 
+: 1197 8 11 down 
+- 1207
+: 1211 4 18 Un
+: 1216 3 18 less 
+: 1222 3 18 you 
+: 1227 3 16 whip 
+: 1232 3 14 it 
+- 1237
+: 1251 4 10 Well 
+: 1257 3 11 no 
+: 1261 3 10 one 
+: 1266 1 11 gets 
+: 1271 4 10 a
+: 1277 8 11 way 
+- 1287
+: 1292 3 13 Un
+: 1297 4 14 til 
+: 1302 3 14 they 
+: 1307 3 13 whip 
+: 1312 3 14 it 
+- 1317
+F 1389 2 25 I 
+F 1394 2 25 say 
+F 1398 3 25 whip 
+F 1404 2 25 it 
+- 1408
+F 1470 2 25 Whip 
+F 1474 1 25 it 
+F 1479 9 25 good 
+- 1490
+F 1550 2 25 I 
+F 1555 1 25 say 
+F 1560 3 25 whip 
+F 1565 3 25 it 
+- 1570
+F 1631 2 25 Whip 
+F 1635 2 25 it 
+F 1640 9 25 good 
+- 1651
+F 2181 2 25 Crack
+F 2185 7 25 ~ 
+F 2195 7 25 that 
+F 2206 8 25 whip 
+- 2216
+: 2262 8 14 Give 
+* 2273 1 14 the 
+: 2277 3 16 past 
+: 2284 1 14 the 
+* 2288 6 16 slip 
+- 2296
+: 2347 2 14 Step 
+: 2352 4 14 on 
+: 2357 1 14 a 
+: 2362 5 14 crack
+: 2368 4 16 ~ 
+- 2374
+: 2423 6 14 Break 
+: 2433 2 14 your 
+: 2438 4 16 mom
+: 2444 1 14 ma’s 
+: 2449 6 16 back 
+- 2457
+: 2539 4 11 When 
+: 2544 2 10 a 
+: 2549 4 11 pro
+: 2554 1 10 blem 
+: 2559 3 11 comes 
+: 2565 4 10 a
+: 2570 7 11 long 
+- 2579
+: 2584 8 14 You 
+: 2594 2 14 must 
+: 2600 3 13 whip 
+: 2604 4 14 it 
+- 2610
+: 2615 3 10 Be
+: 2620 4 11 fore 
+: 2625 2 10 the 
+: 2630 3 11 cream 
+: 2636 1 11 sits 
+: 2640 3 11 out 
+: 2646 3 10 too 
+: 2651 7 11 long 
+- 2660
+: 2666 8 18 You 
+: 2675 2 18 must 
+: 2680 3 16 whip 
+: 2685 3 14 it 
+- 2690
+* 2705 2 10 When 
+: 2711 2 11 some
+: 2716 3 10 thing’s 
+: 2720 4 11 go
+: 2726 2 10 in’ 
+: 2731 9 11 wrong 
+- 2742
+* 2746 8 14 You 
+: 2755 2 14 must 
+: 2761 2 13 whip 
+* 2766 3 14 it 
+- 2771
+F 2806 3 25 Now 
+F 2811 3 25 whip 
+F 2817 4 25 it 
+- 2823
+F 2852 2 25 In
+F 2857 1 25 to 
+F 2862 6 25 shape 
+- 2870
+F 2892 3 25 Shape 
+F 2897 4 25 it 
+F 2902 5 25 up 
+- 2909
+F 2932 4 25 Get 
+F 2943 6 25 straight 
+- 2951
+F 2973 7 25 Go 
+F 2983 4 25 for
+F 2988 3 25 ward 
+- 2993
+F 3014 3 25 Move 
+F 3019 4 25 a
+F 3024 6 25 head 
+- 3032
+F 3049 2 25 Try 
+F 3054 3 25 to 
+F 3059 2 25 de
+F 3064 3 25 tect 
+F 3071 3 25 it 
+- 3076
+F 3089 1 25 It’s 
+F 3094 3 25 not 
+F 3100 3 25 too 
+F 3104 6 25 late 
+- 3112
+F 3130 2 25 To 
+F 3134 2 25 whip 
+F 3140 4 25 it 
+- 3146
+F 3174 3 25 In
+F 3180 1 25 to 
+F 3186 7 25 shape 
+- 3195
+F 3215 3 25 Shape 
+F 3221 3 25 it 
+F 3225 6 25 up 
+- 3233
+F 3255 4 25 Get 
+F 3266 7 25 straight 
+- 3275
+F 3296 6 25 Go 
+F 3306 4 25 for
+F 3311 3 25 ward 
+- 3316
+F 3336 3 25 Move 
+F 3341 4 25 a
+F 3346 7 25 head 
+- 3355
+F 3372 2 25 Try 
+F 3377 3 25 to 
+F 3381 2 25 de
+F 3386 3 25 tect 
+F 3393 3 25 it 
+- 3398
+F 3412 1 25 It’s 
+F 3416 3 25 not 
+F 3422 3 25 too 
+F 3426 6 25 late 
+- 3434
+F 3453 3 25 To 
+F 3457 2 25 whip 
+F 3462 4 25 it 
+- 3468
+F 3497 3 25 Whip 
+F 3502 1 25 it 
+F 3507 9 25 good 
+E

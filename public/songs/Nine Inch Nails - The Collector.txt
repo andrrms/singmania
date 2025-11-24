@@ -1,0 +1,358 @@
+#ARTIST:Nine Inch Nails
+#TITLE:The Collector
+#MP3:Nine Inch Nails - The Collector.mp3
+#CREATOR:leflaw
+#GENRE:Industrial
+#YEAR:2005
+#LANGUAGE:English
+#BPM:276
+#GAP:23020
+#VIDEO:a=Zi3664zsTzg,co=with-teeth-4dd444ff1cb7b.jpg,bg=nine-inch-nails-621473f8a2d4d.jpg
+: 0 3 9 I 
+: 4 4 11 pick 
+: 12 4 11 things 
+: 20 4 12 up 
+- 26
+: 48 3 9 I 
+: 52 7 7 am 
+: 60 3 7 a 
+: 64 3 5 col
+: 68 4 7 lec
+: 76 8 5 tor 
+- 86
+: 104 7 9 And 
+: 112 11 11 things, 
+: 124 4 12 well 
+: 132 19 9 things 
+- 152
+: 152 3 7 They 
+: 156 7 9 tend 
+: 164 7 7 to 
+: 172 3 7 ac
+: 176 3 5 cu
+: 180 3 5 mu
+: 184 4 2 late 
+- 190
+: 208 3 9 I 
+: 212 4 11 have 
+: 220 4 11 this 
+: 228 8 12 net 
+- 238
+: 256 4 9 It 
+: 264 7 7 drags 
+: 272 3 5 be
+: 276 7 7 hind 
+: 284 12 5 me 
+- 298
+: 312 3 9 It 
+: 316 4 7 picks 
+: 324 4 5 up 
+: 332 7 7 fee
+: 340 8 5 lings 
+- 350
+: 360 3 2 For 
+: 364 7 5 me 
+: 372 7 5 to 
+: 380 7 5 feed 
+: 388 3 5 u
+: 392 8 2 pon 
+- 402
+: 416 7 7 There are 
+: 424 15 5 times, 
+: 440 3 7 plen
+: 444 3 7 ty 
+: 448 3 7 of 
+: 452 11 5 times 
+- 464
+: 464 3 2 I 
+: 468 3 0 wish 
+: 472 7 2 I 
+: 480 3 0 could 
+: 484 3 7 let 
+: 488 3 7 it 
+: 492 6 5 go 
+- 500
+: 520 3 5 They 
+: 524 7 7 start 
+: 532 4 7 to 
+: 540 12 5 breathe, 
+- 554
+: 568 3 5 They 
+: 572 7 7 start 
+: 580 7 7 to 
+: 588 7 5 grow 
+: 596 3 2 in
+: 600 6 2 side 
+: 608 8 2 me 
+- 618
+: 624 7 7 There are 
+: 632 15 5 times 
+: 648 3 7 plen
+: 652 3 7 ty 
+: 656 3 7 of 
+: 660 11 5 times 
+- 672
+: 672 3 2 I 
+: 676 3 0 wish 
+: 680 7 2 I 
+: 688 3 0 could 
+: 692 3 7 let 
+: 696 3 7 it 
+: 700 6 5 go 
+- 708
+: 724 3 5 But 
+: 728 3 5 they 
+: 732 7 7 start 
+: 740 4 7 to 
+: 748 7 5 make 
+: 756 3 5 me 
+: 760 8 2 think 
+- 770
+: 776 3 5 Things 
+: 780 7 7 I 
+: 788 7 7 don’t 
+: 796 3 5 wan
+: 800 3 5 na 
+: 804 8 2 know 
+- 814
+: 816 15 7 I’m 
+: 832 7 7 trying 
+: 840 3 5 to 
+: 844 7 7 fit 
+: 852 7 7 it 
+: 860 7 7 all 
+: 868 3 7 in
+: 872 8 5 side 
+- 882
+: 928 15 7 I’m 
+: 944 7 7 trying 
+: 952 3 5 to 
+: 956 7 7 o
+: 964 7 7 pen 
+: 972 7 7 my 
+: 980 7 7 mouth 
+: 988 8 5 wide 
+- 998
+: 1040 15 7 I’m 
+: 1056 7 7 try 
+: 1064 3 5 ing 
+: 1068 7 7 not 
+: 1076 7 7 to 
+: 1084 8 5 choke 
+: 1096 7 2 and 
+- 1104
+* 1104 3 7 Swal
+* 1108 3 7 low 
+* 1112 3 7 it 
+* 1116 8 5 all, 
+- 1126
+* 1128 3 7 Swal
+* 1132 3 7 low 
+* 1136 3 7 it 
+* 1140 8 5 all, 
+- 1150
+* 1152 3 7 Swal
+* 1156 3 7 low 
+* 1160 3 7 it 
+* 1164 8 5 all, 
+- 1174
+* 1176 3 7 Swal
+* 1180 3 7 low 
+* 1184 3 7 it 
+* 1188 12 5 all! 
+- 1202
+: 1424 3 11 I 
+: 1428 4 12 am 
+: 1436 4 12 the 
+: 1444 8 14 plague 
+- 1454
+: 1472 3 11 I 
+: 1476 4 12 am 
+: 1484 4 12 the 
+: 1492 8 14 swarm 
+- 1502
+: 1528 7 12 All 
+: 1536 11 14 you heart 
+: 1548 4 17 sticks 
+: 1556 4 19 on 
+: 1564 11 17 me 
+: 1576 4 14 and I 
+: 1584 3 14 keep
+: 1588 3 14 ing 
+: 1592 3 12 it 
+: 1596 12 17 warm 
+- 1610
+: 1628 3 12 They 
+: 1632 3 12 won’t 
+: 1636 4 12 let 
+: 1644 4 12 me 
+: 1652 8 12 stay 
+- 1662
+: 1676 3 12 They 
+: 1680 3 12 won’t 
+: 1684 4 12 let 
+: 1692 4 12 me 
+: 1700 12 12 leave 
+- 1714
+: 1732 3 12 They 
+: 1736 3 12 are 
+: 1740 3 12 so 
+: 1744 4 12 god 
+: 1752 4 12 damned 
+: 1760 3 12 ma
+: 1764 3 12 ny 
+: 1768 3 12 of 
+: 1772 4 12 them 
+- 1778
+: 1780 3 12 It 
+: 1784 4 12 gets 
+: 1792 4 12 hard 
+: 1800 3 12 to 
+: 1804 12 12 breath 
+- 1818
+: 1824 15 7 I’m 
+: 1840 7 7 trying 
+: 1848 3 5 to 
+: 1852 7 7 fit 
+: 1860 7 7 it 
+: 1868 7 7 all 
+: 1876 7 7 in
+: 1884 12 5 side 
+- 1898
+: 1936 15 7 I’m 
+: 1952 7 7 trying 
+: 1960 3 5 to 
+: 1964 7 7 o
+: 1972 7 7 pen 
+: 1980 7 7 my 
+: 1988 7 7 mouth 
+: 1996 12 5 wide 
+- 2010
+: 2048 15 7 I’m 
+: 2064 7 7 try
+: 2072 3 5 ing 
+: 2076 7 7 not 
+: 2084 7 7 to 
+: 2092 7 7 choke 
+: 2100 7 7 in
+: 2108 12 5 side 
+- 2122
+: 2160 15 7 I 
+: 2176 7 7 am 
+: 2184 3 5 a 
+* 2188 7 9 good 
+* 2196 7 5 boy 
+: 2204 3 2 and 
+: 2208 7 2 I 
+: 2216 7 5 will 
+- 2224
+* 2224 3 7 Swal
+* 2228 3 7 low 
+* 2232 3 7 it 
+* 2236 8 5 all 
+- 2246
+* 2248 3 7 Swal
+* 2252 3 7 low 
+* 2256 3 7 it 
+* 2260 8 5 all 
+- 2270
+* 2272 3 7 Swal
+* 2276 3 7 low 
+* 2280 3 7 it 
+* 2284 8 5 all 
+- 2294
+* 2296 3 7 Swal
+* 2300 3 7 low 
+* 2304 3 7 it 
+* 2308 12 5 all! 
+- 2322
+F 2440 3 5 E
+F 2444 3 5 very 
+F 2448 7 5 last 
+F 2456 7 2 one, 
+F 2464 3 5 e
+F 2468 3 5 very 
+F 2472 7 5 last 
+F 2480 7 2 one, 
+- 2488
+F 2488 3 5 E
+F 2492 3 5 very 
+F 2496 7 5 last 
+F 2504 7 2 one, 
+F 2512 3 5 e
+F 2516 3 5 very 
+F 2520 7 5 last 
+F 2528 8 2 one, 
+- 2538
+F 2544 3 5 E
+F 2548 3 5 very 
+F 2552 7 5 last 
+F 2560 7 2 one, 
+F 2568 3 5 e
+F 2572 3 5 very 
+F 2576 7 5 last 
+F 2584 7 2 one, 
+- 2592
+F 2592 3 5 E
+F 2596 3 5 very 
+F 2600 7 5 last 
+F 2608 7 2 one, 
+F 2616 3 5 e
+F 2620 3 5 very 
+F 2624 7 5 last 
+F 2632 8 2 one, 
+- 2642
+F 2648 3 5 E
+F 2652 3 5 very 
+F 2656 7 5 last 
+F 2664 7 2 one, 
+F 2672 3 5 e
+F 2676 3 5 very 
+F 2680 7 5 last 
+F 2688 7 2 one 
+- 2696
+F 2696 3 5 E
+F 2700 3 5 very 
+F 2704 7 5 last 
+F 2712 7 2 one, 
+F 2720 3 5 e
+F 2724 3 5 very 
+F 2728 7 5 last 
+F 2736 8 2 one, 
+- 2746
+F 2752 3 5 E
+F 2756 3 5 very 
+F 2760 7 5 last 
+F 2768 7 2 one, 
+F 2776 3 5 e
+F 2780 3 5 very 
+F 2784 7 5 last 
+F 2792 7 2 one, 
+- 2800
+F 2800 3 5 E
+F 2804 3 5 very 
+F 2808 7 5 last 
+F 2816 7 2 one, 
+F 2824 3 5 e
+F 2828 3 5 very 
+F 2832 7 5 last 
+F 2840 7 2 one, 
+- 2848
+F 2848 3 5 E
+F 2852 3 5 very 
+F 2856 7 5 last 
+F 2864 7 2 one, 
+F 2872 3 5 e
+F 2876 3 5 very 
+F 2880 7 5 last 
+F 2888 7 2 one, 
+- 2896
+F 2896 3 5 E
+F 2900 3 5 very 
+F 2904 7 5 last 
+F 2912 7 2 one,
+F 2920 3 5 e
+F 2924 3 5 very 
+F 2928 7 5 last 
+F 2936 8 2 one! 
+E

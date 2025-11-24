@@ -1,0 +1,413 @@
+#ARTIST:2 Unlimited
+#TITLE:Tribal Dance
+#MP3:2 Unlimited - Tribal Dance.mp3
+#CREATOR:Way2Evil
+#GENRE:Eurodance
+#YEAR:1993
+#LANGUAGE:English
+#BPM:390
+#GAP:33320
+#VIDEO:v=DQP4tlA9v5I,co=https://cdns-images.dzcdn.net/images/cover/7e8e90e96e0d0da490a3275f9d84e128/1900x1900-000000-80-0-0.jpg
+F 0 2 0 Say 
+F 3 2 0 that 
+F 7 1 0 a
+F 9 4 0 gain 
+- 65
+R 400 3 0 Feel 
+R 405 2 0 the 
+R 410 5 0 force, 
+R 422 1 0 this 
+R 425 2 0 is 
+R 429 3 0 your 
+R 434 5 0 chance 
+- 443
+R 445 2 0 To 
+R 449 2 0 get 
+R 453 2 0 con
+R 458 2 0 trol 
+R 463 2 0 and 
+R 466 1 0 do 
+R 468 1 0 the 
+R 472 3 0 tri
+R 478 2 0 bal 
+R 482 5 0 dance 
+- 493
+R 496 1 0 Peo
+R 498 2 0 ple 
+R 502 1 0 star
+R 504 1 0 ted 
+R 508 2 0 dan
+R 513 1 0 cing 
+R 515 1 0 a 
+R 517 3 0 long 
+R 523 3 0 time 
+R 528 1 0 a
+R 532 3 0 go 
+- 538
+R 540 2 0 The 
+R 544 3 0 bass 
+R 549 3 0 was 
+R 554 3 0 fast, 
+R 559 2 0 but 
+R 562 2 0 then 
+R 566 1 0 a
+R 568 1 0 gain 
+R 570 1 0 it 
+R 573 2 0 was 
+R 579 4 0 slow 
+- 590
+R 593 4 0 Soul, 
+R 604 4 0 house, 
+R 614 2 0 hip 
+R 618 2 0 hop 
+R 621 2 0 and 
+R 627 4 0 blues 
+- 635
+R 637 1 0 It 
+R 640 2 0 doesn’t 
+R 644 2 0 real
+R 648 1 0 ly 
+R 651 2 0 mat
+R 654 1 0 ter 
+R 657 2 0 which 
+R 661 3 0 mu
+R 667 2 0 sic 
+R 671 2 0 you 
+R 676 4 0 choose 
+- 686
+R 688 3 0 Start 
+R 693 2 0 up 
+R 696 2 0 this 
+R 700 3 0 dance 
+R 705 2 0 this 
+R 709 2 0 is 
+R 714 2 0 your 
+R 721 4 0 chance 
+- 731
+R 733 2 0 To 
+R 737 2 0 come 
+R 741 2 0 with 
+R 745 2 0 me 
+R 750 2 0 and 
+R 753 2 0 do 
+R 756 1 0 the 
+R 760 3 0 tri
+R 765 2 0 bal 
+R 773 5 0 dance 
+- 830
+: 957 3 5 You’ve 
+: 963 3 8 got 
+: 970 3 5 to 
+: 976 9 12 move 
+: 988 6 8 it 
+- 1003
+: 1006 5 8 Feel 
+: 1014 3 8 the 
+: 1023 5 10 tem
+: 1033 4 8 pera
+: 1042 4 10 ture 
+- 1050
+: 1052 4 5 In
+: 1059 3 8 to 
+: 1065 3 5 the 
+: 1071 10 12 rhy
+: 1082 7 8 thm 
+- 1098
+: 1101 4 8 Let 
+: 1110 3 8 the 
+: 1119 9 12 fi
+: 1129 3 10 re
+: 1133 2 8 ~ 
+: 1138 5 10 burn 
+- 1147
+: 1149 3 5 So 
+: 1154 5 8 get 
+: 1161 3 5 in
+: 1167 10 12 to 
+: 1179 6 8 it 
+- 1194
+: 1197 6 8 Get 
+: 1207 4 8 in
+: 1215 4 10 to
+: 1220 2 8 ~ 
+: 1224 3 8 the 
+: 1233 6 10 trance 
+- 1245
+: 1247 2 5 This 
+: 1251 3 8 is 
+: 1258 3 5 the 
+: 1264 10 12 rhy
+: 1275 7 8 thm 
+- 1290
+: 1293 5 8 Of 
+: 1302 3 8 the 
+: 1311 9 12 tri
+: 1321 2 10 ba
+: 1324 3 8 ~l 
+: 1330 6 10 dance 
+- 1339
+: 1341 3 8 The 
+: 1347 5 10 tri
+: 1353 3 8 bal 
+* 1359 98 12 da
+* 1458 3 10 ~
+* 1462 20 8 nce 
+- 1534
+R 1786 1 0 It 
+R 1791 2 0 star
+R 1795 1 0 ted 
+R 1797 1 0 with 
+R 1799 2 0 a 
+R 1804 3 0 tribe 
+R 1808 2 0 who 
+R 1812 2 0 dis
+R 1815 2 0 cov
+R 1819 1 0 ered 
+R 1821 2 0 the 
+R 1825 4 0 vibe 
+- 1834
+R 1836 1 0 They 
+R 1838 4 0 moved 
+R 1844 2 0 to 
+R 1847 2 0 the 
+R 1851 1 0 rhy
+R 1853 2 0 thm 
+R 1857 1 0 just 
+R 1859 2 0 the 
+R 1863 3 0 way 
+R 1868 3 0 they 
+R 1874 4 0 liked 
+- 1883
+R 1885 2 0 You 
+R 1888 3 0 hear 
+R 1892 2 0 the 
+R 1897 2 0 treb
+R 1901 3 0 le, 
+R 1907 2 0 you 
+R 1911 2 0 hear 
+R 1916 2 0 the 
+R 1920 4 0 bass 
+- 1930
+R 1932 2 0 The 
+R 1935 2 0 R.
+R 1939 2 0 A.
+R 1944 3 0 Y., 
+R 1950 3 0 yeah 
+R 1956 1 0 is 
+R 1959 2 0 on 
+R 1964 2 0 the 
+R 1969 4 0 case 
+- 1979
+R 1982 3 0 Feel 
+R 1988 2 0 the 
+R 1992 4 0 fi
+R 1999 3 0 re, 
+R 2007 2 0 feel 
+R 2011 2 0 the 
+R 2018 5 0 flame 
+- 2029
+R 2031 3 0 Do 
+R 2035 2 0 your 
+R 2040 3 0 thing 
+R 2045 3 0 now 
+R 2051 2 0 don’t 
+R 2054 2 0 be 
+R 2058 2 0 a
+R 2064 5 0 shamed 
+- 2073
+R 2075 2 0 I 
+R 2078 3 0 have 
+R 2084 2 0 to 
+R 2088 3 0 go 
+R 2094 3 0 now, 
+R 2100 2 0 no 
+R 2105 3 0 off
+R 2112 3 0 ense 
+- 2121
+R 2123 2 0 I’ve 
+R 2127 3 0 hooked 
+R 2132 2 0 you 
+R 2136 2 0 up 
+R 2141 2 0 in
+R 2144 2 0 to 
+R 2147 2 0 the 
+R 2151 3 0 tri
+R 2157 3 0 bal 
+R 2164 5 0 dance 
+- 2179
+: 2187 2 5 Get 
+: 2190 3 5 in
+: 2196 4 10 to 
+: 2202 8 8 it 
+- 2220
+: 2235 2 5 Get 
+: 2238 3 5 in
+: 2244 4 10 to 
+: 2250 8 8 it 
+- 2268
+: 2282 2 5 Get 
+: 2285 3 5 in
+: 2291 3 8 to 
+: 2295 2 8 the 
+: 2300 10 5 trance 
+- 2320
+: 2348 3 5 You’ve 
+: 2354 3 8 got 
+: 2361 3 5 to 
+: 2367 9 12 move 
+: 2379 6 8 it 
+- 2394
+: 2397 5 8 Feel 
+: 2405 3 8 the 
+: 2414 5 10 tem
+: 2424 4 8 pera
+: 2433 4 10 ture 
+- 2441
+: 2443 4 5 In
+: 2450 3 8 to 
+: 2456 3 5 the 
+: 2462 10 12 rhy
+: 2473 7 8 thm 
+- 2489
+: 2492 4 8 Let 
+: 2501 3 8 the 
+: 2510 9 12 fi
+: 2520 3 10 re
+: 2524 2 8 ~ 
+: 2529 5 10 burn 
+- 2538
+: 2540 3 5 So 
+: 2545 5 8 get 
+: 2552 3 5 in
+: 2558 10 12 to 
+: 2570 6 8 it 
+- 2585
+: 2588 6 8 Get 
+: 2598 4 8 in
+: 2606 4 10 to
+: 2611 2 8 ~ 
+: 2615 3 8 the 
+: 2624 6 10 trance 
+- 2636
+: 2638 2 5 This 
+: 2642 3 8 is 
+: 2649 3 5 the 
+: 2655 10 12 rhy
+: 2666 7 8 thm 
+- 2681
+: 2684 5 8 Of 
+: 2693 3 8 the 
+: 2702 9 12 tri
+: 2712 2 10 ba
+: 2715 3 8 ~l 
+: 2721 6 10 dance 
+- 2730
+: 2732 3 8 The 
+: 2738 5 10 tri
+: 2744 3 8 bal 
+: 2750 56 12 da
+: 2807 2 10 ~
+: 2810 5 12 ~
+: 2816 3 10 ~
+: 2820 2 12 ~
+: 2823 4 10 ~
+: 2828 2 12 ~
+: 2831 3 10 ~
+: 2835 3 12 ~
+: 2839 2 10 ~
+: 2842 3 12 ~
+: 2846 5 10 ~
+: 2852 21 8 nce 
+- 2925
+R 3421 2 0 Check 
+R 3424 2 0 it 
+R 3427 3 0 out, 
+R 3445 3 0 take 
+R 3451 2 0 your 
+R 3457 4 0 chance 
+- 3467
+R 3470 1 0 Check 
+R 3472 2 0 it 
+R 3476 3 0 out, 
+R 3493 3 0 take 
+R 3499 2 0 your 
+R 3506 4 0 chance 
+- 3515
+R 3517 2 0 Check 
+R 3520 2 0 it 
+R 3523 3 0 out, 
+R 3541 3 0 take 
+R 3547 2 0 your 
+R 3553 4 0 chance 
+- 3563
+: 3565 6 11 Tri
+: 3574 4 11 bal 
+: 3583 6 11 da
+: 3590 3 10 ~
+: 3594 9 8 nce 
+- 3655
+R 3758 3 0 Tri
+R 3763 2 0 bal 
+R 3769 5 0 dance, 
+R 3782 3 0 tri
+R 3787 2 0 bal 
+R 3793 5 0 dance 
+- 3850
+: 3979 3 5 You’ve 
+: 3985 3 8 got 
+: 3992 3 5 to 
+: 3998 9 12 move 
+: 4010 6 8 it 
+- 4025
+: 4028 5 8 Feel 
+: 4036 3 8 the 
+: 4045 5 10 tem
+: 4055 4 8 pera
+: 4064 4 10 ture 
+- 4072
+: 4074 4 5 In
+: 4081 3 8 to 
+: 4087 3 5 the 
+: 4093 10 12 rhy
+: 4104 7 8 thm 
+- 4120
+: 4123 4 8 Let 
+: 4132 3 8 the 
+: 4141 9 12 fi
+: 4151 3 10 re
+: 4155 2 8 ~ 
+: 4160 5 10 burn 
+- 4169
+: 4171 3 5 So 
+: 4176 5 8 get 
+: 4183 3 5 in
+: 4189 10 12 to 
+: 4201 6 8 it 
+- 4216
+: 4219 6 8 Get 
+: 4229 4 8 in
+: 4237 4 10 to
+: 4242 2 8 ~ 
+: 4246 3 8 the 
+: 4255 6 10 trance 
+- 4267
+: 4269 2 5 This 
+: 4273 3 8 is 
+: 4280 3 5 the 
+: 4286 10 12 rhy
+: 4297 7 8 thm 
+- 4312
+: 4315 5 8 Of 
+: 4324 3 8 the 
+: 4333 9 12 tri
+: 4343 2 10 ba
+: 4346 3 8 ~l 
+: 4352 6 10 dance 
+- 4361
+: 4363 3 8 The 
+: 4369 5 10 tri
+: 4375 3 8 bal 
+: 4381 98 12 da
+: 4480 3 10 ~
+: 4484 20 8 nce 
+E

@@ -1,0 +1,209 @@
+#ARTIST:Editors
+#TITLE:All Sparks
+#MP3:Editors - All Sparks.mp3
+#CREATOR:GunnerXero
+#GENRE:Rock Alternative
+#YEAR:2005
+#LANGUAGE:English
+#BPM:252.5
+#GAP:16640
+#VIDEO:v=-D1HE25I2AQ,co=https://m.media-amazon.com/images/I/31bkuhR-QoL.jpg,bg=editors-4ff899f5a8d68.jpg
+: 0 4 16 You’re 
+: 7 7 20 ans
+: 19 5 18 wer
+: 31 3 16 ing 
+: 39 6 20 ques
+: 51 8 18 tions 
+: 64 2 16 that 
+: 72 7 20 have 
+: 84 6 18 not 
+: 96 3 16 yet 
+: 104 8 20 been 
+: 116 3 18 asked 
+- 121
+* 124 4 21 All 
+* 131 7 20 sparks 
+- 140
+: 159 2 20 Will 
+: 164 6 21 burn 
+: 172 3 21 out 
+: 187 2 16 in 
+: 191 3 20 the 
+: 196 6 18 end 
+- 204
+: 256 4 16 You 
+* 265 8 20 burn 
+: 277 9 18 like 
+: 288 4 16 a 
+: 296 7 20 boun
+: 309 5 18 cing 
+: 320 6 16 cig
+* 328 9 20 a
+: 340 5 18 rette 
+: 352 4 16 on 
+: 361 7 20 the 
+: 372 6 18 road 
+- 380
+: 381 4 21 All 
+: 389 7 20 sparks 
+- 398
+: 416 2 20 Will 
+: 421 6 21 burn 
+: 429 3 21 out 
+: 444 2 16 in 
+: 448 2 20 the 
+: 453 6 18 end 
+- 461
+: 558 2 13 All 
+: 565 6 11 sparks 
+: 576 2 8 will 
+: 581 5 9 burn 
+: 589 4 6 out 
+- 595
+: 623 2 13 All 
+* 629 4 13 sparks
+* 634 3 16 ~ 
+: 642 2 14 will 
+: 647 4 13 burn 
+: 653 4 9 out 
+- 659
+: 688 2 13 All 
+: 695 6 11 sparks 
+: 707 2 8 will 
+: 711 4 9 burn 
+: 719 4 6 out 
+- 725
+: 769 1 4 In 
+: 773 2 8 the 
+: 778 5 6 end 
+- 785
+: 1027 4 16 You’re 
+* 1035 7 21 cast
+: 1047 5 18 ing 
+: 1059 5 16 o
+: 1067 4 20 pin
+: 1080 6 18 ions 
+: 1091 3 16 at 
+* 1099 8 20 peo
+: 1111 9 18 ple 
+: 1123 5 16 who 
+: 1131 8 20 need 
+: 1143 4 18 them 
+- 1149
+: 1153 4 21 All 
+: 1160 7 20 sparks 
+- 1169
+: 1188 2 20 Will 
+: 1192 7 21 burn 
+: 1201 3 21 out 
+: 1216 2 16 in 
+: 1220 2 20 the 
+: 1224 7 18 end 
+- 1233
+: 1285 4 16 Well 
+: 1292 5 20 be 
+: 1304 6 18 care
+: 1316 5 16 ful 
+: 1324 8 20 an
+: 1336 8 18 gel, 
+: 1348 4 16 this 
+: 1356 8 20 life 
+: 1368 3 18 is 
+: 1379 4 16 just 
+: 1388 7 20 too 
+: 1399 6 18 long 
+- 1407
+* 1409 4 21 All 
+* 1416 8 20 sparks 
+- 1426
+: 1444 2 20 Will 
+: 1449 5 21 burn 
+: 1457 3 21 out 
+: 1472 2 16 in 
+: 1476 2 20 the 
+: 1481 6 18 end 
+- 1489
+: 1586 2 13 All 
+: 1593 6 11 sparks 
+: 1604 2 8 will 
+: 1609 5 9 burn 
+: 1617 4 6 out 
+- 1623
+: 1650 2 13 All 
+: 1656 4 13 sparks
+: 1661 3 16 ~ 
+: 1669 2 14 will 
+: 1674 4 13 burn 
+: 1680 4 9 out 
+- 1686
+: 1715 2 13 All 
+: 1722 6 11 sparks 
+: 1734 2 8 will 
+: 1738 4 9 burn 
+: 1746 4 6 out 
+- 1752
+: 1796 1 4 In 
+: 1800 2 8 the 
+: 1805 5 6 end 
+- 1812
+: 2181 3 11 You 
+: 2188 9 16 burn 
+: 2201 11 13 like 
+: 2245 4 11 a 
+: 2253 6 16 boun
+: 2265 9 13 cing 
+: 2304 3 11 cig
+: 2309 2 13 a
+: 2314 9 11 rette 
+- 2325
+: 2482 2 13 All 
+: 2489 6 11 sparks 
+: 2500 2 8 will 
+: 2505 5 9 burn 
+: 2513 4 6 out 
+- 2519
+: 2547 2 13 All 
+: 2553 4 13 sparks
+: 2558 3 16 ~ 
+: 2566 2 14 will 
+: 2571 4 13 burn 
+: 2577 4 9 out 
+- 2583
+: 2611 2 13 All 
+: 2618 6 11 sparks 
+: 2630 2 8 will 
+: 2634 4 9 burn 
+: 2642 4 6 out 
+- 2648
+: 2676 2 13 All 
+* 2682 4 13 sparks
+* 2687 3 16 ~ 
+: 2695 2 14 will 
+: 2700 4 13 burn 
+: 2707 4 9 out 
+- 2713
+: 2740 2 13 All 
+* 2746 4 13 sparks
+* 2751 3 16 ~ 
+: 2759 2 14 will 
+: 2764 4 13 burn 
+: 2771 4 9 out 
+- 2777
+: 2804 2 13 All 
+* 2810 4 13 sparks
+* 2815 3 16 ~ 
+: 2823 2 14 will 
+: 2828 4 13 burn 
+: 2835 4 9 out 
+- 2841
+: 2869 2 13 All 
+* 2875 4 13 sparks
+* 2880 3 16 ~ 
+: 2888 2 14 will 
+: 2893 4 13 burn 
+: 2900 4 9 out 
+- 2906
+: 2948 1 4 In 
+: 2952 2 8 the 
+: 2957 5 6 end 
+E

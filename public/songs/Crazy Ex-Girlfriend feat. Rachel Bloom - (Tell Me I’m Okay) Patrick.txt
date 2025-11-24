@@ -1,0 +1,405 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Rachel Bloom
+#TITLE:(Tell Me I’m Okay) Patrick
+#MP3:Crazy Ex-Girlfriend feat. Rachel Bloom - (Tell Me I’m Okay) Patrick.mp3
+#CREATOR:blackcat6
+#COVER:Crazy Ex-Girlfriend feat. Rachel Bloom - (Tell Me I’m Okay) Patrick [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Rachel Bloom - (Tell Me I’m Okay) Patrick [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:224
+#GAP:2150
+#VIDEO:v=VsOdQKQduW0,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/e8/60/45e86038-0b28-8f57-8de4-04559f60767d/794043191060.jpg/5000x5000bb.jpg
+: 0 3 2 Tell 
+: 5 3 3 me 
+: 9 2 -2 I’m 
+: 12 3 0 o
+: 17 8 2 kay, 
+: 32 4 3 Pa
+: 39 11 7 trick 
+- 61
+: 65 2 5 Tell 
+: 68 1 3 me 
+: 72 3 2 please, 
+: 76 1 3 that’s 
+: 80 4 5 all 
+: 85 2 3 you 
+: 89 1 2 have 
+: 94 2 3 to 
+: 99 11 0 do 
+- 120
+: 124 1 -2 Just 
+: 129 3 0 one 
+: 133 1 -2 lit
+: 135 2 -4 tle 
+: 138 2 -2 o
+: 144 7 0 kay 
+- 152
+: 154 3 0 And 
+: 160 3 2 you’ll 
+: 164 2 0 be 
+: 167 2 -2 on 
+: 170 3 0 your 
+: 174 10 2 way 
+- 190
+: 192 2 3 Pa
+: 197 1 3 trick, 
+: 206 1 3 I 
+* 209 2 3 real
+* 212 3 6 ly 
+* 217 4 10 need 
+* 223 8 10 that 
+: 235 3 5 from 
+: 240 12 5 you 
+- 262
+: 278 4 2 Tell 
+: 283 3 3 me 
+: 288 2 -2 I’m 
+: 291 2 0 o
+: 296 8 2 kay, 
+: 310 3 3 Pa
+: 317 10 7 trick 
+- 333
+: 336 2 7 No 
+: 341 1 5 pres
+: 344 2 3 sure, 
+: 348 1 2 but 
+: 350 2 3 I 
+: 356 2 5 serious
+: 360 2 3 ly 
+: 363 2 2 need 
+: 367 1 3 to 
+: 370 16 10 know 
+- 391
+: 393 4 10 I 
+: 398 2 10 rea
+: 401 2 10 lize
+: 404 2 8 ~ 
+: 408 1 8 your 
+: 410 2 7 oc
+: 413 1 8 cu
+: 417 2 8 pa
+: 421 2 3 tion 
+- 425
+: 427 1 10 Is 
+: 429 2 10 not 
+: 434 2 10 gen
+: 438 2 8 tle 
+: 442 2 7 va
+: 445 1 8 li
+: 448 2 8 da
+: 453 3 3 tion 
+- 459
+: 461 1 5 But 
+: 464 2 7 just 
+: 468 1 7 this 
+: 472 3 7 once, 
+: 484 2 7 Pa
+: 490 1 7 trick 
+- 497
+: 500 1 5 Give 
+: 502 1 3 it 
+: 504 1 5 a 
+: 506 9 3 go 
+- 523
+: 526 1 3 You 
+: 529 2 7 re
+: 533 2 10 pre
+: 537 3 11 sent 
+: 541 2 11 the 
+: 544 2 11 out
+: 548 3 11 side 
+: 554 3 11 world, 
+: 559 2 11 ’cause 
+: 563 1 10 you 
+: 565 2 8 don’t 
+* 569 4 10 know 
+* 574 9 6 me 
+- 589
+: 592 2 3 Your 
+: 596 1 6 per
+: 600 2 11 cep
+: 604 2 11 tion 
+: 607 1 11 of 
+: 610 3 11 me 
+: 614 3 11 is 
+: 620 3 10 com
+: 625 2 8 plete
+: 630 3 10 ly 
+: 635 3 8 pure
+: 639 8 6 ~ 
+- 655
+: 658 2 6 You 
+: 663 3 7 don’t 
+: 668 2 7 have 
+: 671 1 7 an 
+: 673 1 7 a
+: 676 3 10 gen
+: 681 3 7 da 
+- 687
+: 689 1 7 That’s 
+: 692 2 5 why 
+: 695 3 7 I 
+: 699 2 7 need 
+: 702 2 7 you 
+: 705 2 7 to 
+* 708 3 12 lend 
+* 713 7 7 a 
+- 725
+: 727 4 7 Hand, 
+: 735 2 3 Pa
+: 740 2 3 trick 
+- 754
+: 758 1 0 Cause 
+: 760 1 2 I 
+: 762 1 3 think 
+: 764 3 5 I’m 
+: 771 3 7 fine
+: 775 2 3 ~, 
+: 779 2 3 Pa
+: 784 1 3 trick 
+- 795
+: 803 1 0 But 
+: 805 1 2 I’m 
+: 807 2 3 on
+: 810 1 3 ly 
+: 812 2 5 like 
+- 825
+: 829 2 7 For
+: 832 2 7 ty-
+: 836 5 7 three 
+: 842 2 8 per
+: 846 1 10 cent
+: 848 2 7 ~ 
+: 853 4 7 sure
+: 858 1 8 ~
+: 860 1 7 ~
+: 862 13 5 ~ 
+- 885
+: 896 3 2 Tell 
+: 901 3 3 me 
+: 906 2 -2 I’m 
+: 909 2 0 o
+: 914 8 2 kay, 
+: 930 4 3 Pa
+: 937 7 7 trick 
+- 947
+: 949 2 7 Or 
+: 952 1 7 e
+: 954 2 7 ven 
+: 960 2 5 some
+: 964 2 3 thing 
+: 967 2 2 in 
+: 970 2 3 the 
+: 974 3 5 ball
+: 979 3 3 park 
+: 984 1 2 would 
+: 987 2 3 be 
+: 991 5 0 nice 
+- 1006
+: 1014 1 0 You 
+: 1016 1 0 can 
+: 1021 3 0 phrase 
+: 1025 1 -2 it 
+: 1029 2 -4 how 
+: 1032 2 -2 you 
+: 1036 4 0 want 
+- 1046
+: 1048 1 0 You 
+: 1050 1 0 can 
+: 1052 3 2 make 
+: 1056 1 0 it 
+: 1059 3 -2 non
+: 1065 2 0 cha
+: 1068 7 2 lant 
+- 1080
+: 1082 1 1 For
+: 1084 1 3 get 
+: 1088 2 3 the 
+: 1091 3 3 “O” 
+- 1099
+: 1101 3 3 E
+: 1106 2 6 ven 
+: 1111 2 10 just 
+: 1118 4 10 “K”
+: 1124 3 5 ~ 
+: 1128 2 5 would 
+: 1133 1 5 suf
+: 1136 14 5 fice 
+- 1160
+F 1178 6 0 Seriously, 
+F 1185 5 0 Patrick 
+- 1191
+F 1193 1 0 Was 
+F 1195 2 0 I 
+F 1200 2 0 sick 
+F 1203 1 0 the 
+F 1205 2 0 day 
+F 1208 1 0 in 
+F 1211 5 0 school 
+- 1221
+F 1223 2 0 They 
+F 1226 2 0 taught 
+F 1229 2 0 you 
+F 1232 1 0 how 
+F 1234 1 0 to 
+F 1236 1 0 be 
+F 1238 1 0 a 
+F 1240 3 0 normal 
+F 1244 6 0 person? 
+- 1260
+F 1267 1 0 It 
+F 1269 2 0 just 
+F 1274 2 0 feels 
+F 1277 1 0 like 
+F 1279 1 0 there’s 
+F 1281 3 0 something 
+F 1287 6 0 fundamental 
+F 1294 1 0 I’m 
+F 1296 3 0 missing 
+F 1300 2 0 out 
+F 1303 1 0 on 
+- 1304
+F 1305 1 0 Like, 
+F 1307 1 0 is 
+F 1309 1 0 there 
+F 1311 1 0 an 
+F 1313 9 0 instruction 
+F 1323 8 0 manual? 
+- 1332
+F 1334 1 0 You 
+F 1336 1 0 get 
+F 1338 1 0 what 
+F 1340 1 0 I’m 
+F 1342 5 0 saying, 
+F 1348 5 0 Patrick? 
+- 1354
+F 1356 1 0 It 
+F 1358 2 0 just, 
+F 1361 1 0 it 
+F 1363 1 0 just 
+F 1365 2 0 feels 
+F 1368 1 0 like 
+F 1370 4 0 everyone 
+F 1375 1 0 is 
+F 1377 1 0 in 
+F 1379 1 0 this 
+F 1384 8 0 cabal 
+F 1393 2 0 of 
+F 1396 6 0 normal 
+F 1403 4 0 people 
+- 1408
+F 1410 1 0 And 
+F 1412 1 0 they’re 
+F 1414 6 0 all 
+F 1421 4 0 laughing 
+F 1426 1 0 at 
+F 1428 1 0 me 
+- 1429
+F 1431 1 0 Like 
+F 1433 1 0 I’m 
+F 1436 1 0 the 
+F 1439 4 0 jester 
+F 1444 1 0 in 
+F 1446 2 0 my 
+F 1449 2 0 own 
+F 1453 4 0 Truman 
+F 1458 3 0 Show 
+- 1464
+F 1466 4 0 Patrick, 
+F 1474 1 0 tell 
+F 1476 1 0 me 
+F 1478 1 0 what 
+F 1480 1 0 the 
+F 1482 2 0 secret 
+F 1485 1 0 is 
+- 1486
+F 1488 1 0 Just 
+F 1490 1 0 tell 
+F 1492 1 0 me 
+F 1494 1 0 what 
+F 1496 1 0 the 
+F 1498 1 0 secret 
+F 1500 1 0 is 
+- 1501
+F 1502 1 0 Is 
+F 1504 1 0 there 
+F 1506 1 0 a 
+F 1508 5 0 manual? 
+F 1518 1 0 Do 
+F 1520 1 0 you 
+F 1522 1 0 have 
+F 1524 1 0 the 
+F 1526 1 0 manual? 
+- 1527
+F 1528 1 0 I 
+F 1530 1 0 know 
+F 1532 1 0 you 
+F 1534 1 0 have 
+F 1536 1 0 the 
+F 1538 1 0 manual, 
+F 1540 2 0 Patrick 
+- 1543
+F 1545 1 0 I 
+F 1547 1 0 know 
+F 1549 1 0 it’s 
+F 1551 1 0 in 
+F 1553 1 0 your 
+F 1555 3 0 truck, 
+F 1560 7 0 Patrick! 
+- 1577
+: 1595 2 2 I’m 
+: 1601 2 2 so
+: 1604 3 3 rry 
+: 1608 2 -2 that 
+: 1611 3 0 I 
+: 1617 8 2 yelled, 
+* 1631 5 3 Pa
+* 1639 3 7 trick 
+- 1650
+: 1653 1 7 But 
+: 1655 3 7 I 
+: 1659 2 7 need 
+: 1664 1 5 just 
+: 1668 2 3 a 
+: 1671 1 2 lit
+: 1673 2 3 tle 
+: 1677 1 3 more
+: 1679 3 5 ~ 
+: 1684 2 3 from 
+: 1688 2 2 you 
+: 1692 1 3 to
+: 1695 17 10 day 
+- 1719
+: 1722 2 10 So 
+: 1727 2 10 Pa
+: 1732 3 8 trick, 
+: 1737 2 7 hear 
+: 1740 3 8 my 
+: 1746 10 3 plea 
+- 1759
+: 1761 3 10 Make 
+: 1766 3 10 one 
+: 1771 3 10 last 
+: 1777 3 8 de
+: 1781 1 7 li
+: 1783 2 8 ve
+: 1786 10 3 ry 
+- 1804
+* 1807 3 7 Say 
+* 1811 3 8 the 
+* 1815 8 10 word, 
+: 1830 2 -2 Pa
+: 1835 2 -2 trick 
+- 1844
+: 1847 7 7 Tell 
+: 1855 6 8 me 
+: 1863 6 5 I’m 
+: 1871 5 7 o
+: 1881 33 11 kay 
+- 1924
+: 1933 5 -4 Am 
+: 1940 7 -1 I 
+: 1950 2 -4 o
+: 1956 14 -2 kay? 
+E

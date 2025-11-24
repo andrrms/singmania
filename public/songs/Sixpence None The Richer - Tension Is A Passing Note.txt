@@ -1,0 +1,181 @@
+#ARTIST:Sixpence None The Richer
+#TITLE:Tension Is A Passing Note
+#MP3:Sixpence None The Richer - Tension Is A Passing Note.mp3
+#CREATOR:lava
+#YEAR:2002
+#LANGUAGE:English
+#BPM:298,95
+#GAP:39650
+#VIDEO:a=5h1TLKlx6pQ,co=divine-discontent-62f42e320fa0a.jpg,bg=sixpence-none-the-richer-516a1d9a49b21.jpg
+* 0 19 6 Do 
+* 20 4 4 ~ 
+* 25 18 4 I 
+: 47 9 7 mur
+: 57 11 7 der 
+: 71 8 6 when 
+: 80 6 4 I 
+: 88 5 2 for
+: 94 7 6 get 
+: 102 12 6 you 
+: 118 9 4 from 
+: 128 6 2 a
+* 135 11 -1 far? 
+- 164
+: 182 4 4 Too 
+: 188 9 6 drunk 
+: 198 7 6 on 
+: 206 5 6 the 
+: 212 7 4 poi
+: 220 8 4 son 
+: 229 6 4 of 
+: 236 7 7 end
+: 244 9 7 less 
+: 254 11 6 roads 
+- 266
+: 267 5 4 And 
+: 273 7 2 the 
+: 281 9 6 count
+: 291 10 6 less 
+: 306 7 4 smo
+: 314 9 2 ky 
+: 324 17 -1 bars 
+- 355
+: 370 5 6 But 
+* 376 7 7 ten
+* 384 10 7 sion 
+: 395 5 7 is 
+: 401 7 6 to 
+: 409 9 6 be 
+* 419 14 2 loved 
+- 438
+: 443 5 6 When 
+: 449 3 7 it 
+: 453 3 6 is 
+: 457 6 4 like 
+: 464 5 2 a 
+: 470 7 4 pas
+: 478 6 6 sing 
+: 485 17 2 note 
+- 503
+: 505 8 -1 To 
+: 514 7 2 a 
+: 522 7 6 beau
+: 530 7 4 ti
+: 538 7 2 ful 
+: 546 7 6 beau
+: 554 8 4 ti
+: 563 13 2 ful 
+: 577 27 2 chord 
+- 684
+: 764 20 6 Do 
+: 785 2 4 ~ 
+: 788 23 4 I 
+: 812 10 7 mur
+: 823 10 7 der 
+: 834 10 6 us 
+- 844
+: 845 6 4 Put
+: 852 6 2 ting 
+* 859 8 6 pave
+* 868 11 6 ment 
+: 883 8 4 in 
+: 892 11 2 my 
+* 904 18 -1 veins 
+- 937
+: 953 10 6 Shoo
+: 964 7 6 ting 
+: 972 5 6 it 
+: 978 7 4 in 
+: 986 8 4 spe
+: 995 7 4 cial 
+: 1003 7 7 he
+: 1011 8 7 ro
+: 1020 8 6 in 
+- 1030
+: 1032 7 4 For 
+: 1040 6 2 the 
+: 1047 8 6 see
+: 1056 10 6 king 
+: 1073 8 4 and 
+: 1082 9 2 dis
+: 1092 18 -1 placed? 
+- 1124
+: 1138 6 6 But 
+: 1145 7 7 ten
+: 1153 10 7 sion 
+: 1164 5 7 is 
+: 1170 8 6 to 
+: 1179 7 6 be 
+: 1187 12 2 loved 
+- 1205
+: 1212 5 6 When 
+: 1218 3 7 it 
+: 1222 4 6 is 
+: 1227 7 4 like 
+* 1235 5 2 a 
+* 1241 5 4 pas
+* 1247 6 6 sing 
+* 1254 9 2 note 
+- 1268
+: 1273 10 -1 To 
+: 1284 6 2 a 
+: 1291 7 6 beau
+: 1299 7 4 ti
+: 1307 7 2 ful 
+: 1315 9 6 beau
+: 1325 8 4 ti
+: 1334 12 2 ful 
+: 1347 27 2 chord 
+- 1917
+: 2461 5 6 But 
+: 2467 7 7 ten
+: 2475 10 7 sion 
+: 2486 5 7 is 
+: 2492 7 6 to 
+: 2500 9 6 be 
+: 2510 15 2 loved 
+- 2530
+: 2535 4 6 When 
+: 2540 5 7 it 
+: 2546 4 6 is 
+: 2551 6 4 like 
+: 2558 4 2 a 
+: 2563 8 4 pas
+: 2572 5 6 sing 
+: 2578 12 2 note 
+- 2594
+: 2598 8 -1 To 
+: 2607 6 2 a 
+: 2614 8 6 beau
+: 2623 6 4 ti
+: 2630 8 2 ful 
+: 2639 8 6 beau
+: 2648 7 4 ti
+: 2656 6 2 ful 
+- 2663
+* 2664 8 7 Ten
+* 2673 9 7 sion 
+: 2683 5 7 is 
+: 2689 8 6 to 
+: 2698 8 6 be 
+* 2707 18 2 loved 
+- 2730
+: 2735 6 6 When 
+: 2742 3 7 it 
+: 2746 3 6 is 
+: 2750 6 4 like 
+: 2757 5 2 a 
+: 2763 6 4 pas
+: 2770 7 6 sing 
+: 2778 17 2 note 
+- 2796
+: 2798 10 -1 To 
+: 2809 6 2 a 
+: 2816 8 6 beau
+: 2825 8 4 ti
+: 2834 7 2 ful 
+* 2842 8 6 beau
+* 2851 7 4 ti
+* 2859 13 2 ful 
+* 2874 26 2 chord 
+E

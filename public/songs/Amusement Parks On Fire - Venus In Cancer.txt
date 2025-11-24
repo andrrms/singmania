@@ -1,0 +1,191 @@
+#ARTIST:Amusement Parks On Fire
+#TITLE:Venus In Cancer
+#MP3:Amusement Parks On Fire - Venus In Cancer.mp3
+#CREATOR:daggeg
+#GENRE:Alternative
+#YEAR:2004
+#LANGUAGE:English
+#BPM:399.95
+#GAP:27520
+#VIDEO:v=_ZDWbAQFGZs,co=https://m.media-amazon.com/images/I/51KAVQMCZ2L.jpg
+: 0 6 2 Girl 
+: 9 3 2 in 
+: 15 3 2 the 
+: 21 10 1 phone
+: 40 35 -3 box 
+- 77
+: 91 4 -3 In 
+: 100 12 1 my 
+: 118 45 -1 home 
+- 165
+: 178 5 2 Right 
+: 189 3 2 from 
+: 194 3 2 the 
+* 200 8 1 first 
+* 216 35 -3 start 
+- 253
+: 267 3 -3 In 
+: 276 11 1 my 
+: 294 37 -1 bones 
+- 333
+: 350 3 6 I 
+: 355 4 6 have
+: 361 3 6 n’t 
+: 366 3 6 got 
+: 377 6 4 time 
+: 388 3 2 you 
+: 394 31 1 ask 
+- 427
+: 445 3 1 What 
+: 450 3 2 you 
+: 456 10 4 here 
+: 471 38 2 for? 
+- 511
+: 531 3 2 Take 
+: 536 3 2 me 
+: 542 3 2 to 
+: 547 3 2 the 
+: 554 8 1 back
+: 571 40 -3 room 
+- 613
+: 621 3 -3 And 
+* 626 3 -3 o
+* 630 3 -1 pen 
+: 635 5 1 the 
+: 651 43 -1 door 
+- 696
+: 728 3 1 It’s 
+: 733 4 1 all 
+: 740 4 2 I 
+: 749 7 1 care 
+: 761 3 -1 a
+: 766 40 -3 bout 
+- 808
+: 834 3 -3 And 
+: 840 9 2 I 
+: 855 40 -3 found 
+- 897
+: 905 3 2 It’s 
+: 911 3 2 all 
+: 916 5 2 I 
+: 926 6 1 hear 
+: 939 3 -1 a
+: 944 68 1 bout 
+- 1014
+: 1417 3 2 I 
+: 1422 5 2 can’t 
+* 1433 3 2 fi
+* 1437 4 2 gure 
+* 1444 8 1 out 
+: 1461 34 -3 what 
+- 1497
+: 1505 3 -3 I 
+: 1510 4 -3 wan
+: 1515 4 -1 na 
+: 1522 11 1 wait 
+: 1539 43 -1 for 
+- 1584
+: 1596 3 2 I 
+: 1600 8 2 forged 
+: 1611 3 2 all 
+: 1616 3 2 the 
+: 1622 9 1 an
+: 1637 33 -3 swers 
+- 1672
+: 1684 2 -3 And 
+: 1689 2 -3 now 
+: 1694 2 -1 I 
+* 1700 7 1 want 
+* 1716 44 -1 more 
+- 1762
+: 1773 3 6 I 
+: 1778 4 6 won’t 
+: 1788 4 6 step 
+: 1799 4 4 back 
+: 1811 3 2 and 
+: 1817 33 1 watch 
+- 1852
+: 1865 3 1 What 
+: 1870 3 2 I 
+: 1876 11 4 paid 
+: 1893 44 2 for 
+- 1939
+: 1953 4 2 Wait 
+: 1960 3 2 un
+: 1965 3 2 til 
+: 1971 3 2 the 
+: 1976 10 1 mask’s 
+: 1994 33 -3 off 
+- 2029
+: 2039 3 -3 And 
+: 2045 3 -3 take 
+: 2050 3 -1 it 
+: 2056 10 1 too 
+: 2074 55 -1 far 
+- 2131
+: 2150 3 1 It’s 
+: 2155 3 1 all 
+: 2162 4 2 I 
+: 2172 7 1 care 
+: 2183 3 -1 a
+: 2188 55 -3 bout 
+- 2245
+: 2254 3 -3 And 
+: 2260 10 2 I 
+: 2277 36 -3 found 
+- 2315
+: 2328 3 2 It’s 
+: 2333 3 2 all 
+: 2339 4 2 I 
+: 2349 6 1 hear 
+* 2361 3 -1 a
+* 2367 94 1 bout 
+- 2463
+: 2488 6 6 Straight 
+: 2500 3 6 from 
+: 2506 3 2 the 
+: 2511 8 4 cam
+: 2523 4 2 e
+: 2529 36 1 ra 
+- 2567
+: 2579 3 1 In 
+: 2587 11 4 my 
+: 2605 40 2 heart 
+- 2647
+: 2667 5 6 Forged 
+: 2676 3 6 all 
+: 2681 3 2 the 
+: 2688 10 4 an
+: 2704 34 1 swers 
+- 2740
+: 2754 4 1 Right 
+: 2760 3 2 from 
+: 2765 11 4 the 
+: 2781 43 2 start 
+- 2826
+: 2840 3 6 I 
+: 2845 3 6 have
+: 2849 3 6 n’t 
+: 2855 7 6 got 
+: 2866 8 4 time 
+: 2877 3 2 you 
+: 2883 36 1 ask 
+- 2921
+: 2934 3 1 What 
+: 2939 3 2 you 
+: 2944 9 4 here 
+: 2960 42 2 for? 
+- 3004
+: 3018 3 6 I 
+: 3023 4 6 won’t 
+: 3033 3 6 step 
+: 3044 4 4 back 
+: 3056 3 2 and 
+: 3062 32 1 watch 
+- 3096
+: 3109 3 1 What 
+: 3114 3 2 I 
+: 3120 12 4 paid 
+* 3138 37 2 fo
+* 3180 67 1 r 
+E

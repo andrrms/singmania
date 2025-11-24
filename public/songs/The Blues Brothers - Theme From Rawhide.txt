@@ -1,0 +1,349 @@
+#ARTIST:The Blues Brothers
+#TITLE:Theme From Rawhide
+#MP3:The Blues Brothers - Theme From Rawhide.mp3
+#CREATOR:Way2Evil
+#YEAR:1980
+#LANGUAGE:English
+#BPM:204.6
+#GAP:400
+#VIDEO:v=6-SU-3Ds9s4,co=https://i.discogs.com/h6V5MDGQ9hVMCK5x_lzmrEaZO9jTxaEeuTL0EkaUa4I/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjc4/ODQtMTUwOTQ3ODI1/My05NDEzLmpwZWc.jpeg
+: 0 3 -3 Roll
+: 4 3 0 in’, 
+: 8 3 -3 roll
+: 12 3 0 lin’, 
+: 16 3 -3 roll
+: 20 6 0 in’. 
+- 28
+: 32 3 -3 Roll
+: 36 3 0 in’, 
+: 40 3 -3 roll
+: 44 3 0 in’, 
+: 48 3 -3 roll
+: 52 6 0 in’. 
+- 60
+: 64 3 0 Roll
+: 68 3 4 in’, 
+: 72 3 0 roll
+: 76 3 4 in’, 
+: 80 3 0 roll
+: 84 6 4 in’. 
+- 92
+: 96 3 0 Roll
+: 100 3 4 in’, 
+: 104 3 0 roll
+: 108 3 4 in’, 
+: 112 3 0 roll
+: 116 1 4 in’. 
+- 118
+: 118 6 4 Raw
+* 126 58 9 hide 
+- 186
+: 254 3 -3 Roll
+: 258 3 0 in’, 
+: 262 3 -3 roll
+: 266 3 0 in’, 
+: 270 3 -3 roll
+: 274 6 0 in’. 
+- 282
+: 286 3 0 Though 
+: 290 3 4 the 
+: 294 3 0 streams 
+: 298 3 4 are 
+: 302 3 0 swol
+: 306 10 4 len. 
+- 317
+: 318 3 4 Keep 
+: 322 3 7 them 
+: 326 3 4 dog
+: 330 3 7 gies 
+: 334 3 4 roll
+: 338 6 7 in’. 
+- 345
+: 346 3 4 Raw
+: 350 24 7 hide! 
+- 376
+: 382 3 9 Rain 
+: 386 3 7 and 
+: 390 3 9 wind 
+: 394 3 7 and 
+: 398 3 9 weath
+: 402 4 4 er. 
+- 408
+: 414 6 7 Hell 
+: 422 3 7 bent 
+: 426 3 5 for 
+: 430 3 4 leath
+: 434 4 -3 er. 
+- 440
+: 446 3 7 Wish
+: 450 6 7 in’ 
+: 458 3 7 my 
+: 462 4 9 gal 
+: 468 3 7 was 
+: 472 3 0 by 
+: 476 3 2 my 
+: 480 22 4 side. 
+- 504
+: 512 3 9 All 
+: 516 1 7 the 
+: 518 5 9 things 
+: 524 3 7 I’m 
+: 528 3 9 mis
+: 532 6 4 sin’ 
+- 539
+: 540 3 4 Good 
+: 544 1 7 vit
+: 546 4 7 tels, 
+: 552 3 7 lov
+: 556 3 5 in’ 
+: 560 3 4 kis
+: 564 6 -3 sin’. 
+- 571
+: 572 3 -3 Are 
+: 576 3 7 wait
+: 580 1 7 in’ 
+: 582 4 7 at 
+: 588 3 5 the 
+: 592 3 4 end 
+: 596 6 -3 of 
+: 604 3 -5 my 
+: 608 22 -3 ride. 
+- 632
+: 636 1 -3 Move 
+: 638 1 -3 ’em 
+: 640 3 -3 on, 
+F 644 1 0 head 
+F 646 1 0 ’em 
+F 648 3 0 up, 
+- 652
+: 652 1 -3 Head 
+: 654 1 -3 ’em 
+: 656 3 -3 up, 
+F 660 1 0 move 
+F 662 1 0 ’em 
+F 664 3 0 on, 
+- 668
+: 668 1 -3 Move 
+: 670 1 -3 ’em 
+: 672 3 -3 on, 
+F 676 1 0 head 
+F 678 1 0 ’em 
+F 680 3 0 up, 
+- 684
+: 684 3 -3 Raw
+: 688 12 4 hide! 
+- 701
+: 702 1 -3 Cut 
+: 704 1 -3 ’em 
+: 706 3 -3 out, 
+F 710 1 0 ride 
+F 712 1 0 ’em 
+F 714 3 0 in, 
+- 718
+: 718 1 -3 Ride 
+: 720 1 -3 ’em 
+: 722 3 -3 in, 
+F 726 1 0 cut 
+F 728 1 0 ’em 
+F 730 3 0 out, 
+- 734
+: 734 1 -3 Call 
+: 736 1 -3 ’em 
+: 738 4 -3 out, 
+: 744 5 3 Ride 
+: 750 3 4 ’em 
+: 754 4 5 in, 
+- 760
+* 762 7 4 Raw
+* 770 40 9 hide! 
+- 812
+: 880 3 -2 Keep 
+: 884 3 -2 mov
+: 888 3 1 in’, 
+: 892 3 -2 mov
+: 896 3 1 in’, 
+: 900 3 -2 mov
+: 904 8 1 in’, 
+- 914
+: 916 3 -2 Though 
+: 920 5 1 they’re 
+: 926 3 1 dis
+: 930 3 5 ap
+: 934 3 1 prov
+: 938 8 5 in’ 
+- 947
+: 948 3 1 Keep 
+: 952 5 5 them 
+: 958 3 5 dog
+: 962 3 8 gies 
+: 966 3 5 mov
+: 970 4 8 in’, 
+- 975
+: 976 3 5 Raw
+: 980 26 8 hide 
+- 1008
+: 1010 3 10 Don’t 
+: 1014 5 10 try 
+: 1020 1 8 to 
+: 1022 3 10 un
+: 1026 3 8 der
+: 1030 3 10 stand 
+: 1034 6 5 ’em 
+- 1042
+: 1044 3 5 Just 
+: 1048 4 8 rope, 
+: 1056 3 8 throw 
+: 1060 3 8 and 
+: 1064 3 6 brand 
+: 1068 6 5 ’em 
+- 1076
+: 1078 5 -2 Soon 
+: 1084 6 8 we’ll 
+: 1092 5 8 be 
+: 1098 3 8 liv
+: 1102 3 10 in’ 
+: 1106 3 8 high 
+: 1110 3 1 and 
+: 1114 3 3 wi
+: 1118 22 5 de 
+- 1142
+: 1146 3 10 My 
+: 1150 3 10 heart 
+: 1154 3 10 cal
+: 1158 1 8 cu
+: 1160 3 10 lat
+: 1164 4 5 in’ 
+- 1170
+: 1174 3 5 My 
+: 1178 3 8 true 
+: 1182 3 8 love 
+: 1186 3 8 will 
+: 1190 3 6 be 
+: 1194 3 5 wait
+: 1198 4 -2 in’ 
+- 1204
+: 1206 3 -2 Be 
+: 1210 3 8 wait
+: 1214 3 8 in’ 
+: 1218 3 8 at 
+: 1222 3 6 the 
+: 1226 5 5 end 
+: 1232 5 -2 of 
+: 1238 3 -4 my 
+: 1242 12 -2 ride 
+- 1256
+: 1272 1 -2 Move 
+: 1274 1 -2 ’em 
+: 1276 3 -2 on, 
+F 1280 1 0 head 
+F 1282 1 0 ’em 
+F 1284 3 0 up, 
+- 1288
+: 1288 1 -2 Head 
+: 1290 1 -2 ’em 
+: 1292 3 -2 up, 
+F 1296 1 0 move 
+F 1298 1 0 ’em 
+F 1300 3 0 on, 
+- 1304
+: 1304 1 -2 Move 
+: 1306 1 -2 ’em 
+: 1308 3 -2 on 
+F 1312 1 0 head 
+F 1314 1 0 ’em 
+F 1316 3 0 on 
+- 1320
+: 1320 3 -2 Raw
+: 1324 10 5 hide 
+- 1335
+: 1336 1 -3 Cut 
+: 1338 1 -3 ’em 
+: 1340 3 -3 out, 
+F 1344 1 0 ride 
+F 1346 1 0 ’em 
+F 1348 3 0 in, 
+- 1352
+: 1352 1 -3 Ride 
+: 1354 1 -3 ’em 
+: 1356 3 -3 in, 
+F 1360 1 0 cut 
+F 1362 1 0 ’em 
+F 1364 3 0 out, 
+- 1368
+: 1368 1 -3 Call 
+: 1370 1 -3 ’em 
+: 1372 4 -3 out, 
+: 1378 3 4 Ride 
+: 1382 5 5 ’em 
+: 1388 8 6 in, 
+- 1397
+: 1398 7 5 Raw
+: 1406 36 10 hide! 
+- 1444
+: 1728 1 -2 Move 
+: 1730 1 -2 ’em 
+: 1732 3 -2 on, 
+F 1736 1 0 head 
+F 1738 1 0 ’em 
+F 1740 3 0 up, 
+- 1744
+: 1744 1 -2 Head 
+: 1746 1 -2 ’em 
+: 1748 3 -2 up, 
+F 1752 1 0 move 
+F 1754 1 0 ’em 
+F 1756 3 0 on, 
+- 1760
+: 1760 1 -2 Move 
+: 1762 1 -2 ’em 
+: 1764 3 -2 on, 
+F 1768 1 0 head 
+F 1770 1 0 ’em 
+F 1772 3 0 up, 
+- 1776
+: 1776 3 -2 Raw
+: 1780 10 5 hide! 
+- 1791
+: 1792 1 -3 Cut 
+: 1794 1 -3 ’em 
+: 1796 3 -3 out, 
+F 1800 1 0 ride 
+F 1802 1 0 ’em 
+F 1804 3 0 in, 
+- 1808
+: 1808 1 -3 Ride 
+: 1810 1 -3 ’em 
+: 1812 3 -3 in, 
+F 1816 1 0 cut 
+F 1818 1 0 ’em 
+F 1820 3 0 out, 
+- 1824
+: 1824 1 -3 Call 
+: 1826 1 -3 ’em 
+: 1828 4 -3 out, 
+: 1836 3 4 Ride 
+: 1840 5 5 ’em 
+: 1846 5 6 in, 
+- 1852
+* 1852 7 5 Raw
+* 1860 56 10 hide! 
+- 1918
+: 1928 3 1 Roll
+: 1932 3 5 in’, 
+: 1936 3 1 roll
+: 1940 3 5 in’, 
+: 1944 3 1 roll
+: 1948 6 5 in’, 
+- 1956
+: 1960 3 1 Roll
+: 1964 3 5 in’, 
+: 1968 3 1 roll
+: 1972 3 5 in’, 
+: 1976 3 1 roll
+: 1980 3 5 in’, 
+- 1984
+* 1984 6 5 Raw
+* 1992 104 10 hide! 
+- 2098
+F 2106 24 0 Rawhide! 
+E

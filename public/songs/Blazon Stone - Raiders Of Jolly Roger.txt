@@ -1,0 +1,443 @@
+#ARTIST:Blazon Stone
+#TITLE:Raiders Of Jolly Roger
+#MP3:Blazon Stone - Raiders Of Jolly Roger.mp3
+#CREATOR:BlodsveptKrigare
+#COVER:Blazon Stone - Raiders Of Jolly Roger [CO].jpg
+#BACKGROUND:Blazon Stone - Raiders Of Jolly Roger [BG].jpg
+#GENRE:Metal
+#YEAR:2021
+#LANGUAGE:English
+#BPM:389.32
+#GAP:30190
+#VIDEO:v=xndfqc4JDbE,co=damnation-6126bddd65751.jpg
+: 0 4 6 Wea
+: 8 4 6 thered 
+: 16 4 4 face 
+: 24 4 2 and 
+: 32 4 4 dark 
+: 40 8 6 soul 
+- 54
+: 56 4 6 The 
+: 64 4 9 cap
+: 72 4 9 tain 
+: 80 4 11 of 
+: 88 4 9 the 
+: 96 8 6 wild 
+- 110
+: 112 4 4 He’s 
+: 120 4 2 a 
+: 128 4 4 bas
+: 136 8 4 tard 
+- 150
+F 152 6 0 A 
+F 160 6 0 bas
+F 168 6 0 tard! 
+- 181
+: 184 4 6 But 
+: 192 4 4 that’s 
+: 200 4 2 the 
+: 208 4 -1 way 
+: 216 4 -3 to 
+: 224 12 -1 live 
+- 246
+: 256 4 6 Lea
+: 264 4 6 der 
+: 272 4 4 of 
+: 280 4 2 the 
+: 288 4 4 out
+: 296 8 6 cast 
+- 310
+: 312 4 6 A 
+: 320 4 9 sa
+: 328 4 9 vior 
+: 336 4 11 for 
+: 344 4 9 the 
+: 352 8 6 damned 
+- 366
+: 368 4 4 There’s 
+: 376 4 2 no 
+: 384 4 4 mer
+: 392 8 4 cy 
+- 406
+F 408 6 0 No 
+F 416 6 0 mer
+F 424 6 0 cy! 
+- 437
+: 440 4 6 For 
+: 448 4 4 those 
+: 456 4 2 who 
+: 464 4 -1 hold 
+: 472 4 -3 them 
+: 480 12 -1 down 
+- 502
+: 519 4 4 Brea
+: 527 4 6 king 
+: 535 4 7 the 
+: 543 8 6 chains 
+- 557
+: 559 4 7 Let 
+: 567 4 9 you 
+: 575 4 7 live 
+: 583 4 11 a
+: 591 4 9 no
+: 599 4 7 ther 
+: 607 14 9 day
+: 623 12 2 ~ 
+- 644
+: 647 4 4 You’re 
+: 655 4 6 no 
+: 663 4 7 ones 
+: 671 8 6 slave 
+- 685
+: 687 4 7 Un
+: 695 4 9 der 
+: 703 4 7 Jol
+: 711 4 11 ly 
+: 719 4 9 Ro
+: 727 4 7 gers 
+: 735 28 9 wave 
+- 772
+: 775 4 6 De
+: 783 8 6 ranged 
+: 799 4 4 mad
+: 807 4 2 mens 
+: 815 8 -1 crew 
+- 829
+: 831 4 11 Rai
+: 839 4 9 ders 
+: 847 4 11 Of 
+: 863 4 2 Jol
+: 871 4 6 ly 
+: 879 4 4 Ro
+: 887 4 6 ger! 
+- 900
+: 903 4 6 By 
+: 911 8 6 blood, 
+: 927 4 4 flint 
+: 935 4 2 and 
+: 943 8 -1 steel 
+- 957
+: 959 6 11 Heave
+: 967 3 9 ~ 
+: 975 8 9 ho! 
+: 991 4 6 Hell 
+: 999 4 2 is 
+: 1007 8 4 home! 
+- 1026
+: 1030 4 6 De
+: 1038 8 6 ranged 
+: 1054 4 4 mad
+: 1062 4 2 mens 
+: 1070 8 -1 crew 
+- 1084
+: 1086 4 11 Rai
+: 1094 4 9 ders 
+: 1102 4 11 Of 
+: 1118 4 2 Jol
+: 1126 4 6 ly 
+: 1134 4 4 Ro
+: 1142 4 6 ger! 
+- 1155
+: 1158 4 6 By 
+: 1166 8 6 blood, 
+: 1182 4 4 flint 
+: 1190 4 2 and 
+: 1198 8 -1 steel 
+- 1212
+: 1214 4 11 Ride 
+: 1222 4 9 the 
+: 1230 4 11 storm, 
+: 1246 4 14 rove 
+: 1254 4 11 and 
+: 1262 8 9 raid! 
+- 1276
+: 1278 72 11 Yeah! 
+- 1401
+: 1533 4 6 Gol
+: 1541 4 6 den 
+: 1549 4 4 age 
+: 1557 4 2 of 
+: 1565 4 4 pi
+: 1573 8 6 rates 
+- 1587
+: 1589 4 6 Em
+: 1597 4 9 brace 
+: 1605 4 9 the 
+: 1613 4 11 blin
+: 1621 4 9 ding 
+: 1629 8 6 fear 
+- 1643
+: 1645 4 4 We 
+: 1653 4 2 are 
+: 1661 4 4 bas
+: 1669 8 4 tards 
+- 1683
+F 1685 6 0 We’re 
+F 1693 6 0 bas
+F 1701 6 0 tards! 
+- 1714
+: 1717 4 6 No 
+: 1725 4 4 rope 
+: 1733 4 2 for 
+: 1741 4 -1 us 
+: 1749 4 -3 to
+: 1757 12 -1 night 
+- 1779
+: 1789 4 6 Hun
+: 1797 4 6 ted 
+: 1805 4 4 by 
+: 1813 4 2 the 
+: 1821 4 4 king
+: 1829 8 6 doms 
+- 1843
+: 1845 4 6 With 
+: 1853 4 9 pri
+: 1861 4 9 ces 
+: 1869 4 11 on 
+: 1877 4 9 our 
+: 1885 8 6 heads 
+- 1899
+: 1901 4 4 There’s 
+: 1909 4 2 no 
+: 1917 4 4 mer
+: 1925 8 4 cy 
+- 1939
+F 1941 6 0 No 
+F 1949 6 0 mer
+F 1957 6 0 cy! 
+- 1970
+: 1973 4 6 The 
+: 1981 4 4 skull 
+: 1989 4 2 and 
+: 1997 4 -1 bone 
+: 2005 4 -3 sur
+: 2013 12 -1 vives 
+- 2035
+: 2052 4 4 Brea
+: 2060 4 6 king 
+: 2068 4 7 the 
+: 2076 8 6 chains 
+- 2090
+: 2092 4 7 Let 
+: 2100 4 9 you 
+: 2108 4 7 live 
+: 2116 4 11 a
+: 2124 4 9 no
+: 2132 4 7 ther 
+: 2140 14 9 day
+: 2156 12 2 ~ 
+- 2177
+: 2180 4 4 You’re 
+: 2188 4 6 no 
+: 2196 4 7 ones 
+: 2204 8 6 slave 
+- 2218
+: 2220 4 7 Un
+: 2228 4 9 der 
+: 2236 4 7 Jol
+: 2244 4 11 ly 
+: 2252 4 9 Ro
+: 2260 4 7 gers 
+: 2268 28 9 wave 
+- 2305
+: 2308 4 6 De
+: 2316 8 6 ranged 
+: 2332 4 4 mad
+: 2340 4 2 mens 
+: 2348 8 -1 crew 
+- 2362
+: 2364 4 11 Rai
+: 2372 4 9 ders 
+: 2380 4 11 Of 
+: 2396 4 2 Jol
+: 2404 4 6 ly 
+: 2412 4 4 Ro
+: 2420 4 6 ger! 
+- 2433
+: 2436 4 6 By 
+: 2444 8 6 blood, 
+: 2460 4 4 flint 
+: 2468 4 2 and 
+: 2476 8 -1 steel 
+- 2490
+: 2492 6 11 Heave
+: 2500 3 9 ~ 
+: 2508 8 9 ho! 
+: 2524 4 6 Hell 
+: 2532 4 2 is 
+: 2540 8 4 home! 
+- 2559
+: 2563 4 6 De
+: 2571 8 6 ranged 
+: 2587 4 4 mad
+: 2595 4 2 mens 
+: 2603 8 -1 crew 
+- 2617
+: 2619 4 11 Rai
+: 2627 4 9 ders 
+: 2635 4 11 Of 
+: 2651 4 2 Jol
+: 2659 4 6 ly 
+: 2667 4 4 Ro
+: 2675 4 6 ger! 
+- 2688
+: 2691 4 6 By 
+: 2699 8 6 blood, 
+: 2715 4 4 flint 
+: 2723 4 2 and 
+: 2731 8 -1 steel 
+- 2745
+: 2747 4 11 Ride 
+: 2755 4 9 the 
+: 2763 4 11 storm, 
+: 2779 4 14 rove 
+: 2787 4 11 and 
+: 2795 8 9 raid! 
+- 2854
+: 4599 4 6 Wea
+: 4607 4 6 thered 
+: 4615 4 4 face 
+: 4623 4 2 and 
+: 4631 4 4 dark 
+: 4639 8 6 soul 
+- 4653
+: 4655 4 6 The 
+: 4663 4 9 cap
+: 4671 4 9 tain 
+: 4679 4 11 of 
+: 4687 4 9 the 
+: 4695 8 6 wild 
+- 4709
+: 4711 4 4 He’s 
+: 4719 4 2 a 
+: 4727 4 4 bas
+: 4735 8 4 tard 
+- 4749
+F 4751 6 0 A 
+F 4759 6 0 bas
+F 4767 6 0 tard! 
+- 4780
+: 4783 4 6 But 
+: 4791 4 4 that’s 
+: 4799 4 2 the 
+: 4807 4 -1 way 
+: 4815 4 -3 to 
+: 4823 12 -1 live 
+- 4845
+: 4855 4 6 Lea
+: 4863 4 6 der 
+: 4871 4 4 of 
+: 4879 4 2 the 
+: 4887 4 4 out
+: 4895 8 6 cast 
+- 4909
+: 4911 4 6 A 
+: 4919 4 9 sa
+: 4927 4 9 vior 
+: 4935 4 11 for 
+: 4943 4 9 the 
+: 4951 8 6 damned 
+- 4965
+: 4967 4 4 There’s 
+: 4975 4 2 no 
+: 4983 4 4 mer
+: 4991 8 4 cy 
+- 5005
+F 5007 6 0 No 
+F 5015 6 0 mer
+F 5023 6 0 cy! 
+- 5036
+: 5039 4 6 For 
+: 5047 4 4 those 
+: 5055 4 2 who 
+: 5063 4 -1 hold 
+: 5071 4 -3 them 
+: 5079 12 -1 down 
+- 5101
+: 5119 4 4 Brea
+: 5127 4 6 king 
+: 5135 4 7 the 
+: 5143 8 6 chains 
+- 5157
+: 5159 4 7 Let 
+: 5167 4 9 you 
+: 5175 4 7 live 
+: 5183 4 11 a
+: 5191 4 9 no
+: 5199 4 7 ther 
+: 5207 14 9 day
+: 5223 12 2 ~ 
+- 5244
+: 5247 4 4 You’re 
+: 5255 4 6 no 
+: 5263 4 7 ones 
+: 5271 8 6 slave 
+- 5285
+: 5287 4 7 Un
+: 5295 4 9 der 
+: 5303 4 7 Jol
+: 5311 4 11 ly 
+: 5319 4 9 Ro
+: 5327 4 7 gers 
+: 5335 28 9 wave 
+- 5371
+: 5374 4 6 De
+: 5382 8 6 ranged 
+: 5398 4 4 mad
+: 5406 4 2 mens 
+: 5414 8 -1 crew 
+- 5428
+: 5430 4 11 Rai
+: 5438 4 9 ders 
+: 5446 4 11 Of 
+: 5462 4 2 Jol
+: 5470 4 6 ly 
+: 5478 4 4 Ro
+: 5486 4 6 ger! 
+- 5499
+: 5502 4 6 By 
+: 5510 8 6 blood, 
+: 5526 4 4 flint 
+: 5534 4 2 and 
+: 5542 8 -1 steel 
+- 5556
+: 5558 6 11 Heave
+: 5566 3 9 ~ 
+: 5574 8 9 ho! 
+: 5590 4 6 Hell 
+: 5598 4 2 is 
+: 5606 8 4 home! 
+- 5626
+: 5630 4 6 De
+: 5638 8 6 ranged 
+: 5654 4 4 mad
+: 5662 4 2 mens 
+: 5670 8 -1 crew 
+- 5684
+: 5686 4 11 Rai
+: 5694 4 9 ders 
+: 5702 4 11 Of 
+: 5718 4 2 Jol
+: 5726 4 6 ly 
+: 5734 4 4 Ro
+: 5742 4 6 ger! 
+- 5754
+: 5757 4 6 By 
+: 5765 8 6 blood, 
+: 5781 4 4 flint 
+: 5789 4 2 and 
+: 5797 8 -1 steel 
+- 5811
+: 5813 4 11 Ride 
+: 5821 4 9 the 
+: 5829 4 11 storm, 
+: 5845 4 14 rove 
+: 5853 4 11 and 
+: 5861 8 9 raid! 
+- 5875
+: 5877 68 11 Yeah! 
+- 5955
+: 5973 10 14 Rove 
+: 5989 10 16 and 
+: 6005 104 11 Raid! 
+E

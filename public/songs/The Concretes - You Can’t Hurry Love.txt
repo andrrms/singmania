@@ -1,0 +1,131 @@
+#ARTIST:The Concretes
+#TITLE:You Can’t Hurry Love
+#MP3:The Concretes - You Can’t Hurry Love.mp3
+#CREATOR:daggeg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:275.29
+#GAP:8810
+#VIDEO:v=dw8y8uDrgR4,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a2/e5/54/a2e55467-0ad6-51c3-6b5f-3e151091fccf/0724354930553_1500x1500_300dpi.jpg/5000x5000bb.jpg
+: 0 31 6 Boy 
+: 40 2 6 did 
+: 44 3 9 you 
+: 52 3 6 hear 
+: 58 2 4 me 
+: 63 5 6 say 
+- 70
+: 71 2 6 Did 
+: 75 2 6 you 
+: 79 4 6 hear 
+: 88 2 6 me 
+: 92 5 9 say 
+: 100 16 6 now 
+- 118
+: 128 11 6 Love
+: 140 3 4 ~
+: 144 36 2 ~ 
+- 182
+: 183 4 -3 Ain’t 
+* 191 11 6 far,
+: 203 3 4 ~
+: 207 32 2 ~ 
+- 241
+: 247 2 -1 Well 
+: 251 2 -3 I 
+: 255 4 -1 did 
+: 263 7 2 mine, 
+- 272
+: 284 2 -3 I 
+: 288 4 -1 did 
+: 296 14 2 mine, 
+- 312
+: 316 2 -3 I 
+: 320 4 -1 did 
+* 328 14 2 mine
+: 343 3 4 ~
+: 347 19 2 ~ 
+- 368
+: 418 2 7 You 
+: 422 4 7 can’t 
+: 430 6 7 hur
+: 438 2 6 ry 
+: 442 3 9 love
+: 446 25 6 ~ 
+- 473
+: 545 2 7 You 
+: 549 4 7 can’t 
+: 557 6 7 hur
+: 565 2 7 ry 
+: 569 29 6 love 
+- 600
+: 637 32 6 Boy 
+: 677 2 6 did 
+: 681 3 9 you 
+: 689 3 6 hear 
+: 695 2 4 me 
+: 700 3 6 say 
+- 705
+: 708 2 6 Did 
+: 712 2 6 you 
+: 716 4 6 hear 
+: 725 2 6 me 
+: 729 5 9 say 
+: 737 15 6 now 
+- 754
+* 763 12 6 Love
+* 776 3 4 ~
+* 780 31 2 ~ 
+- 813
+: 818 4 -3 Ain’t 
+: 827 11 6 far,
+: 839 3 4 ~
+: 843 27 2 ~ 
+- 872
+: 882 2 -1 Well 
+: 886 2 -3 I 
+: 890 4 -1 did 
+: 898 13 2 mine, 
+- 913
+: 918 2 -3 I 
+: 922 4 -1 did 
+: 930 15 2 mine, 
+- 947
+: 950 2 -3 I 
+: 954 4 -1 did 
+: 962 15 2 mine
+: 978 3 4 ~
+: 982 20 2 ~ 
+- 1004
+: 1052 2 7 You 
+* 1056 4 7 can’t 
+: 1064 6 7 hur
+: 1072 2 6 ry 
+: 1076 3 9 love
+: 1080 28 6 ~ 
+- 1110
+: 1179 2 7 You 
+: 1183 4 7 can’t 
+: 1191 6 7 hur
+: 1199 2 7 ry 
+: 1203 31 6 love 
+- 1236
+: 1628 2 7 You 
+: 1632 4 7 can’t 
+: 1640 6 7 hur
+: 1648 2 6 ry 
+: 1652 3 9 love
+: 1656 16 6 ~ 
+- 1674
+: 1755 2 7 You 
+: 1759 4 7 can’t 
+: 1767 6 7 hur
+: 1775 2 7 ry 
+: 1779 19 6 love 
+- 1800
+: 1883 2 7 You 
+: 1887 4 7 can’t 
+: 1895 6 7 hur
+: 1903 2 7 ry 
+* 1908 19 6 love
+* 1928 15 2 ~ 
+E

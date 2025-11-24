@@ -1,0 +1,249 @@
+#ARTIST:Les Misérables (Original Broadway Cast)
+#TITLE:Empty Chairs at Empty Tables
+#MP3:Les Misérables (Original Broadway Cast) - Empty Chairs at Empty Tables.mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:1987
+#LANGUAGE:English
+#BPM:243.19
+#GAP:7590
+#VIDEO:a=W0vGvMlfQd8,co=https://www.bestoftheatre.co.uk/assets/images/content/shows/square-poster/original/les-miserables-10.jpg
+: 0 2 21 There’s 
+: 3 1 21 a 
+: 7 5 23 grief 
+: 15 2 21 that 
+: 20 5 19 can’t 
+: 28 3 17 be 
+: 34 3 17 spo
+: 42 16 16 ken 
+- 74
+: 94 4 21 There’s 
+: 100 1 21 a 
+: 103 13 23 pain 
+: 121 3 21 goes 
+: 126 2 19 on, 
+: 131 1 17 and 
+: 135 2 16 on
+: 139 27 19 ~ 
+- 176
+: 184 4 19 Emp
+: 189 2 19 ty 
+: 195 7 21 chairs 
+: 204 4 19 at 
+: 210 3 17 emp
+: 214 2 16 ty 
+: 222 4 16 ta
+: 231 7 14 bles 
+- 246
+: 249 3 16 Now 
+: 254 3 17 my 
+: 261 8 16 friends 
+: 277 6 16 are 
+: 286 5 11 dead 
+: 302 4 12 and 
+: 312 33 16 gone 
+- 355
+: 364 3 21 Here 
+: 368 2 21 they 
+: 373 4 23 talked 
+: 380 9 21 of 
+: 392 4 19 re
+: 397 4 17 vo
+: 402 3 17 lu
+: 409 15 16 tion 
+- 434
+: 452 4 21 Here 
+: 457 1 21 it 
+: 461 5 23 was 
+: 471 4 21 they 
+: 479 2 19 lit 
+: 485 3 17 the 
+: 493 5 16 flames
+: 501 20 19 ~ 
+- 531
+: 541 2 19 Here 
+: 544 3 19 they 
+: 551 4 21 sang 
+: 557 2 19 a
+: 561 6 17 bout 
+: 570 2 16 “to
+: 574 4 16 mo
+: 581 11 14 rrow” 
+- 604
+: 608 3 16 And 
+: 613 3 17 “to
+: 617 4 16 mo
+: 623 14 16 rrow” 
+: 652 3 11 ne
+: 657 2 12 ver 
+: 664 33 9 came 
+- 713
+: 736 2 12 From 
+: 739 2 12 the 
+: 744 3 12 ta
+: 749 19 12 ble 
+: 773 4 14 in 
+: 778 3 12 the 
+: 784 3 12 cor
+: 791 11 9 ner 
+- 810
+: 813 3 12 They 
+: 818 2 14 could 
+: 826 8 15 see 
+: 837 3 17 a 
+: 844 9 19 world 
+: 856 5 17 re 
+: 865 4 17 born
+: 872 8 14 ~ 
+- 889
+: 892 3 14 And 
+: 898 4 16 they 
+: 908 5 17 rose 
+: 917 3 19 with 
+: 923 8 21 voi
+: 935 4 19 ces 
+: 941 5 19 ring
+: 949 8 16 ing 
+- 964
+: 967 3 12 And 
+: 971 4 12 I 
+: 976 6 26 can 
+: 986 19 26 hear 
+: 1012 4 26 them 
+: 1023 7 25 now 
+- 1034
+: 1036 3 25 The 
+: 1041 4 26 ve
+: 1048 9 28 ry 
+: 1063 13 29 words 
+: 1081 4 28 that 
+: 1087 5 26 they 
+: 1094 2 24 here 
+: 1098 5 22 had 
+: 1111 16 17 sung 
+- 1133
+: 1136 4 29 Be
+: 1144 12 31 came 
+: 1160 5 29 their 
+: 1170 6 28 last 
+: 1182 3 26 com
+: 1190 4 21 mu
+: 1199 15 17 nion 
+- 1230
+: 1255 2 24 On 
+: 1259 2 24 a 
+: 1264 13 26 lone
+: 1281 2 24 ly 
+: 1287 3 22 ba
+: 1291 2 21 rri
+: 1297 27 21 cade 
+- 1334
+: 1349 3 21 At 
+: 1353 1 21 the 
+: 1358 34 21 dawn 
+- 1402
+: 1411 3 21 Oh 
+: 1415 2 21 my 
+: 1421 5 23 friends, 
+: 1429 3 21 my 
+: 1435 6 19 friends, 
+: 1445 3 17 for
+: 1449 3 17 give 
+: 1457 27 16 me 
+- 1495
+: 1499 3 21 That 
+: 1503 2 21 I 
+: 1508 13 23 live 
+: 1523 4 21 and 
+: 1528 5 19 you 
+: 1534 4 17 are 
+: 1539 4 16 gone
+: 1545 23 19 ~ 
+- 1578
+: 1587 2 19 There’s 
+: 1590 3 19 a 
+: 1595 5 21 grief 
+: 1601 3 19 that 
+: 1607 4 17 can’t 
+: 1613 2 16 be 
+: 1621 4 16 spo
+: 1630 8 14 ken 
+- 1644
+: 1647 4 16 There’s 
+: 1652 4 17 a 
+: 1658 12 16 pain 
+: 1674 4 16 goes 
+: 1680 6 11 on, 
+: 1696 3 12 and 
+: 1705 32 16 on 
+- 1747
+: 1751 3 25 Phan
+: 1756 4 25 tom 
+: 1761 4 27 fa
+: 1769 8 25 ces 
+* 1779 3 23 at 
+: 1783 3 21 the 
+: 1787 5 21 win
+: 1795 29 20 dow 
+- 1830
+: 1832 3 25 Phan
+: 1836 4 25 tom 
+: 1842 4 27 sha
+: 1849 8 25 dows 
+: 1859 3 23 on 
+: 1863 2 21 the 
+: 1867 6 20 floor
+: 1878 24 23 ~ 
+- 1908
+: 1910 5 23 Emp
+: 1916 4 23 ty 
+: 1924 5 25 chairs 
+: 1931 5 23 at 
+: 1937 4 21 emp
+: 1942 4 20 ty 
+: 1948 5 20 ta
+: 1954 12 18 bles 
+- 1971
+: 1973 3 20 Where 
+: 1978 3 21 my 
+: 1984 10 20 friends 
+: 2000 4 20 will 
+* 2008 5 15 meet 
+: 2022 6 16 no 
+: 2035 30 20 more 
+- 2071
+: 2073 3 25 Oh 
+: 2079 3 25 my 
+: 2085 5 27 friends, 
+: 2092 6 25 my 
+* 2102 23 28 friends, 
+: 2144 6 27 don’t 
+: 2153 4 27 ask 
+: 2166 25 20 me 
+- 2200
+: 2204 5 25 What 
+: 2211 4 25 your 
+: 2220 3 27 sa
+: 2227 3 25 cri
+: 2234 3 23 fice 
+: 2242 3 21 was 
+* 2248 4 20 for
+* 2258 17 23 ~ 
+- 2281
+: 2283 4 23 Emp
+: 2289 3 23 ty 
+: 2295 6 25 chairs 
+: 2304 4 23 at 
+: 2311 4 21 emp
+: 2316 3 20 ty 
+: 2321 5 20 ta
+: 2327 17 18 bles 
+- 2356
+: 2360 6 20 Where 
+: 2368 6 21 my 
+: 2377 13 20 friends 
+: 2397 2 20 will 
+: 2404 18 15 sing 
+: 2465 31 16 no 
+* 2507 44 13 more 
+E

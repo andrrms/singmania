@@ -1,0 +1,234 @@
+#ARTIST:Feargal Sharkey
+#TITLE:You Little Thief
+#MP3:Feargal Sharkey - You Little Thief.mp3
+#CREATOR:sledge
+#YEAR:1985
+#LANGUAGE:English
+#BPM:256.5
+#GAP:39050
+#VIDEO:v=YS4ALgm6Rsc,co=https://mijnplatenzaak.nl/wp-content/uploads/2022/07/FeargalSharkey1.jpg,bg=sharkey-feargal-51bbd19ebb2b2.jpg
+: 0 3 18 You 
+: 4 3 16 lit
+: 8 2 14 tle 
+: 13 5 14 thief 
+- 20
+: 64 2 18 You 
+: 68 2 16 let 
+: 72 2 14 me 
+: 78 4 18 love 
+: 84 7 14 you 
+- 93
+: 126 4 18 You 
+: 132 4 18 saw 
+: 138 2 18 me 
+F 142 6 18 st 
+: 150 8 18 stumb
+: 160 8 14 ling 
+- 170
+: 192 3 18 You 
+: 196 3 16 watched 
+: 200 3 14 me 
+: 206 20 11 fall 
+- 228
+: 256 3 18 You 
+: 260 3 16 left 
+: 266 2 14 me 
+: 272 4 18 bro
+: 280 12 14 ken 
+- 294
+: 320 2 18 Shat
+: 324 3 18 tered 
+: 328 3 18 and 
+: 332 7 18 blee
+: 342 6 14 ding 
+- 350
+: 378 1 6 But 
+: 380 2 6 there’s 
+: 385 3 14 no 
+: 392 4 14 hard 
+: 400 4 14 fee
+: 406 9 11 lings 
+- 417
+* 440 3 9 There’s 
+* 444 2 9 no 
+* 449 2 18 fee
+* 453 2 16 lings 
+* 456 2 14 at 
+* 460 24 11 all 
+- 486
+: 512 3 18 You 
+: 516 3 16 lit
+: 520 2 14 tle 
+: 525 6 14 thief 
+- 533
+: 574 3 18 You 
+: 578 3 16 lit
+: 582 2 14 tle 
+: 591 5 18 sav
+: 598 6 14 age 
+- 606
+: 638 3 18 You 
+: 642 3 16 lit
+: 646 5 14 tle 
+: 654 4 14 beau
+: 661 3 11 ty 
+- 666
+: 704 3 18 You 
+: 708 3 16 lit
+: 712 3 14 tle 
+: 720 12 11 whore 
+- 734
+: 768 3 18 You’ve 
+: 773 2 16 ta
+: 776 2 14 ken 
+: 784 4 18 eve
+: 790 3 14 ry
+: 796 12 14 thing 
+- 810
+: 828 2 9 I 
+: 833 2 18 had 
+: 837 2 16 to 
+: 840 3 14 be
+: 846 5 18 lieve 
+: 854 7 14 in 
+- 863
+: 896 3 21 Now 
+: 900 6 21 there’s 
+: 912 3 23 no
+F 916 8 16 thing 
+- 926
+: 952 3 9 Worth 
+: 957 1 9 be
+: 961 2 18 lie
+: 965 2 16 ving 
+: 968 3 14 at 
+: 974 26 11 all 
+- 1002
+F 1004 2 12 So 
+F 1008 3 13 tell 
+F 1012 3 12 me 
+- 1017
+* 1024 3 18 How 
+* 1029 2 21 does 
+* 1033 2 23 it 
+* 1040 3 18 fee
+* 1044 12 16 ~l 
+- 1058
+: 1076 2 16 To 
+: 1080 3 16 make 
+: 1084 2 14 a 
+: 1089 4 18 grown 
+: 1094 5 16 man 
+: 1100 1 14 wan
+: 1102 2 14 na 
+: 1108 24 14 die 
+- 1134
+: 1147 2 14 Does 
+: 1151 1 16 it 
+: 1154 2 19 make 
+: 1158 2 21 you 
+: 1161 3 23 un
+: 1168 3 19 ea
+: 1172 7 16 sy 
+- 1181
+: 1208 3 16 Does 
+: 1212 3 14 it 
+: 1216 3 16 e
+: 1220 3 14 ver 
+: 1232 2 18 cross 
+: 1236 6 16 your 
+: 1244 20 14 mind 
+- 1266
+: 1536 3 18 You 
+: 1540 3 16 lit
+: 1544 3 14 tle 
+: 1549 10 14 dream 
+- 1561
+: 1600 3 18 You 
+: 1604 3 16 lit
+: 1608 3 14 tle 
+: 1615 5 18 night
+: 1622 8 14 mare 
+- 1632
+: 1664 3 18 You 
+: 1668 3 16 lit
+: 1672 3 14 tle 
+: 1676 4 13 no
+: 1683 3 11 thing 
+- 1688
+: 1728 3 18 You 
+: 1732 3 16 lit
+: 1736 3 14 tle 
+: 1742 18 11 girl 
+- 1762
+: 1792 3 18 You 
+: 1796 3 16 left 
+: 1800 3 14 me 
+: 1808 5 18 bro
+: 1816 24 14 ken 
+- 1842
+: 1856 3 21 Shat
+: 1860 3 21 tered 
+: 1864 3 21 and 
+: 1870 6 21 blee
+: 1878 12 14 ding 
+- 1892
+: 1912 2 7 But 
+: 1916 2 6 there’s 
+: 1921 6 14 no 
+: 1928 3 14 hard 
+: 1938 3 14 fee
+: 1944 10 11 lings 
+- 1956
+* 1972 3 21 There’s 
+* 1976 6 21 no 
+* 1984 3 21 fee
+* 1988 3 21 lings 
+* 1992 3 21 at 
+* 1996 56 21 all 
+- 2054
+: 2108 3 9 There’s 
+: 2113 3 18 no 
+: 2118 4 18 hard 
+: 2128 5 18 fee
+: 2136 10 14 lings 
+- 2148
+: 2180 2 7 There’s 
+: 2184 3 15 no 
+: 2188 4 12 hard 
+: 2196 3 12 fee
+: 2200 3 12 lings 
+- 2205
+: 2428 2 9 There’s 
+: 2432 3 18 no 
+: 2438 6 18 hard 
+: 2450 3 18 fee
+: 2456 7 14 lings 
+- 2465
+: 2484 3 21 There’s 
+: 2488 5 21 no 
+: 2496 3 21 fee
+: 2500 3 21 ling 
+: 2504 3 21 at 
+: 2508 56 21 all 
+- 2566
+* 2668 3 18 Cause 
+* 2674 7 23 babe 
+* 2683 5 23 when 
+* 2690 7 23 I 
+* 2700 3 23 nee
+* 2706 4 18 ded 
+* 2712 7 14 you 
+- 2721
+: 2752 3 21 You 
+: 2756 3 21 watched 
+: 2760 2 21 me 
+: 2766 4 21 stum
+F 2772 3 14 ble 
+- 2777
+: 2784 3 21 You 
+: 2788 3 21 watched 
+: 2796 2 21 me 
+: 2802 25 23 fall
+: 2828 40 21 ~ 
+E

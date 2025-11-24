@@ -1,0 +1,173 @@
+#ARTIST:Avenged Sevenfold
+#TITLE:(O)rdinary
+#MP3:Avenged Sevenfold - (O)rdinary.mp3
+#CREATOR:Double D
+#COVER:Avenged Sevenfold - (O)rdinary [CO].jpg
+#BACKGROUND:Avenged Sevenfold - (O)rdinary [BG].jpg
+#GENRE:Alternative
+#YEAR:2023
+#LANGUAGE:English
+#BPM:230.13
+#GAP:27400
+#VIDEO:v=xQLWKq6qOqc,co=life-is-but-a-dream-647c73458e6a6.jpg,bg=avenged-sevenfold-51544ff4401ab.jpg
+: 0 2 9 Will
+: 3 4 10 ~ 
+: 9 20 8 you 
+: 32 2 5 give
+: 35 3 7 ~ 
+: 40 21 5 me 
+: 64 3 0 my
+: 68 18 2 ~ 
+: 88 2 3 own
+: 91 2 5 ~ 
+* 96 5 3 soul?
+* 102 2 2 ~
+* 105 13 0 ~ 
+- 120
+: 128 2 9 Will
+: 131 3 10 ~ 
+: 136 22 8 you 
+: 160 2 5 let
+: 163 3 7 ~ 
+: 168 18 5 me 
+: 193 4 0 take
+: 198 15 2 ~ 
+: 216 2 3 con
+: 219 2 5 ~
+: 224 5 3 trol?
+: 230 2 2 ~
+: 233 11 0 ~ 
+- 246
+: 253 2 3 I 
+: 257 3 6 wan
+: 261 2 6 na 
+: 265 2 5 see 
+: 268 1 3 the 
+: 272 2 5 things 
+: 276 2 6 that 
+: 280 2 6 you 
+: 285 2 3 see
+: 288 22 5 ~ 
+- 312
+: 317 2 0 I 
+: 320 3 3 wan
+: 324 2 3 na 
+: 329 2 2 be 
+: 332 2 -1 the 
+* 337 2 1 hu
+* 341 2 3 man 
+: 345 2 3 you 
+: 349 23 0 be 
+- 374
+: 380 3 3 I 
+: 385 3 6 wan
+: 389 2 6 na 
+: 393 2 5 know 
+: 396 2 2 the 
+: 401 2 5 se
+: 404 2 6 crets 
+: 408 2 6 in
+: 413 2 2 side
+: 416 4 5 ~
+: 421 1 4 ~
+: 423 1 2 ~
+: 425 11 0 ~ 
+- 438
+: 444 2 0 I 
+: 448 3 3 wan
+: 452 2 3 na 
+: 456 2 2 know 
+: 460 2 0 the 
+: 464 3 2 feel
+: 469 2 3 ings 
+: 473 2 3 you 
+: 477 20 0 hide 
+- 499
+: 512 3 9 Will
+: 516 3 10 ~ 
+: 521 21 8 you 
+: 545 2 5 give
+: 548 3 7 ~ 
+: 553 20 5 me 
+: 576 3 0 my
+: 580 19 2 ~ 
+: 601 2 3 own
+: 604 2 5 ~ 
+* 609 4 3 soul
+* 614 2 2 ~
+* 617 14 0 ~, 
+R 633 3 2 con
+: 637 3 2 trol
+: 641 22 3 ~ 
+- 665
+: 668 2 2 Tell
+: 671 3 3 ~ 
+: 676 2 3 me 
+: 680 2 3 how 
+: 684 2 3 to 
+: 688 5 3 dream 
+- 695
+: 696 2 2 And 
+: 700 3 4 tell
+: 704 2 5 ~ 
+: 708 2 5 me 
+: 712 2 5 what 
+: 716 2 5 it 
+: 720 6 5 means 
+- 728
+: 732 3 4 Tell
+: 736 2 5 ~ 
+: 740 2 5 me 
+: 744 2 5 how 
+: 748 2 5 to 
+* 752 5 5 feel 
+- 759
+: 760 2 5 And 
+: 764 6 7 tell 
+: 773 2 7 me 
+: 777 2 7 you 
+: 781 3 7 be
+: 785 6 7 lieve
+: 792 5 5 ~ 
+- 799
+: 801 2 3 Tell 
+: 805 2 3 me 
+: 809 2 3 all 
+: 813 2 3 the 
+: 817 6 3 things 
+: 825 3 10 you 
+: 830 5 8 want
+: 836 3 7 ed 
+: 841 2 5 me 
+: 845 1 3 to 
+: 849 5 5 be 
+- 856
+: 861 6 5 Tell 
+: 869 2 5 me 
+: 873 2 5 when 
+: 877 2 5 I’m 
+: 881 1 5 re
+: 883 2 5 al
+: 886 1 7 ly 
+* 889 3 8 a
+* 893 6 7 live
+: 900 3 5 ~
+: 904 12 3 ~ 
+- 918
+: 929 6 10 Can 
+: 937 20 8 you 
+: 961 6 7 feel 
+: 969 19 5 my 
+: 993 2 3 love?
+: 996 3 2 ~
+: 1000 16 0 ~ 
+- 1018
+: 1057 2 9 Can
+: 1060 3 10 ~ 
+: 1065 20 8 you 
+: 1089 6 7 feel 
+: 1097 19 5 my 
+: 1121 2 3 lovе?
+: 1124 3 2 ~
+: 1128 28 0 ~ 
+E

@@ -1,0 +1,239 @@
+#ARTIST:Critical Role
+#TITLE:It’s Thursday Night
+#MP3:Critical Role - It’s Thursday Night.mp3
+#CREATOR:AfterMidnight
+#YEAR:2022
+#LANGUAGE:English
+#BPM:315.1
+#GAP:2060
+#VIDEO:v=Kpdh5S9myc4,co=its-thursday-night-critical-role-theme-6851be13b0d8a.jpg
+F 0 1 0 Cri
+F 3 1 0 ti
+F 9 1 0 cal 
+- 10
+F 11 1 0 It’s 
+F 13 4 0 Thurs
+F 23 3 0 day 
+- 28
+F 30 1 0 Cri
+F 33 1 0 ti
+F 39 2 0 cal 
+- 42
+F 44 2 0 It’s 
+F 48 4 0 Thurs
+F 58 3 0 day 
+- 64
+F 66 1 0 Cri
+F 69 1 0 ti
+F 76 2 0 cal 
+- 79
+F 81 2 0 It’s 
+F 85 9 0 Thurs
+F 96 6 0 day 
+F 106 34 0 night 
+- 140
+: 142 6 -3 One
+: 149 8 -1 -by
+: 158 7 -3 -one, 
+: 168 8 -1 we 
+: 178 4 -3 climb 
+- 182
+: 183 3 -1 Un
+: 187 3 -3 til 
+: 191 3 -1 we 
+: 196 3 0 reach 
+: 200 3 -1 the 
+: 204 4 -3 top 
+- 212
+: 214 5 -3 Two
+: 224 6 -1 -By
+: 233 6 -3 -two, 
+* 241 14 -1 we 
+* 259 22 -8 fall 
+- 285
+: 287 5 -3 Will 
+: 296 7 -1 we 
+: 306 8 -3 meet 
+: 316 6 -1 our 
+: 323 4 -3 end 
+- 327
+: 329 2 -1 Or 
+: 332 4 -3 meet 
+: 337 2 -1 our 
+: 340 4 0 des
+: 345 2 -1 ti
+: 348 7 -3 ny 
+- 359
+: 361 9 -3 Hold 
+: 371 6 -1 your 
+: 378 8 -3 breath 
+: 387 7 -1 and 
+* 395 15 4 roll
+* 411 2 5 ~
+* 414 2 4 ~
+* 417 22 2 ~ 
+- 448
+: 451 7 -3 It’s 
+: 459 6 -3 Thurs
+: 466 6 4 day 
+* 474 37 4 night 
+- 521
+: 530 5 2 All 
+: 536 4 4 ye 
+: 542 5 5 Crit
+: 549 5 5 ters, 
+: 556 5 5 come 
+: 562 6 5 join 
+: 569 4 4 us 
+- 573
+: 574 4 2 It’s 
+: 580 5 0 time 
+: 587 4 -1 to 
+: 593 4 -3 con
+: 598 4 -3 ti
+: 603 5 -3 nue 
+: 610 6 4 our 
+* 619 34 1 plight 
+- 663
+: 676 6 2 There 
+: 683 4 4 is 
+: 688 6 5 ma
+: 695 6 7 gic 
+: 702 4 9 and 
+: 707 6 7 myste
+: 714 5 5 ry 
+- 719
+: 720 4 2 Who 
+: 725 7 0 knows 
+: 733 4 -1 what 
+: 738 4 -1 will 
+: 744 3 -1 hap
+: 748 4 -1 pen 
+- 755
+: 757 4 2 He 
+* 762 21 4 might
+* 784 2 2 ~
+* 787 31 1 ~ 
+- 826
+: 829 4 -3 But 
+: 834 5 -3 one 
+: 840 6 -1 thing’s 
+: 847 3 0 for 
+: 851 10 -3 sure 
+- 864
+: 866 4 -3 We 
+: 871 3 -1 ne
+: 875 5 -1 ver 
+: 884 5 -1 give 
+: 890 5 -3 up 
+: 897 5 -5 on 
+: 903 3 -3 the 
+* 907 38 -3 fight 
+- 966
+: 990 3 -3 From 
+: 994 3 -1 the 
+* 999 6 0 hea
+* 1006 2 -1 ler
+* 1009 8 -3 ~ 
+- 1024
+: 1027 3 -3 To 
+: 1031 4 -1 the 
+: 1036 4 0 re
+: 1041 4 -1 ne
+: 1046 8 -3 gade 
+- 1060
+: 1062 5 -3 We 
+: 1068 2 -1 all 
+: 1071 8 0 share 
+: 1080 2 -1 the 
+: 1083 17 -3 same 
+* 1101 27 -8 goal 
+- 1133
+: 1135 4 -3 Ad
+: 1140 3 -1 ding 
+: 1144 9 0 more 
+: 1154 3 -1 al
+: 1158 8 -3 lies 
+- 1170
+: 1172 4 -3 Ta
+: 1177 5 -1 king 
+: 1183 6 0 more 
+: 1190 4 -1 chan
+: 1195 9 -3 ces 
+- 1207
+: 1209 4 -3 Hold 
+: 1214 4 -1 your 
+: 1219 8 0 breath 
+: 1228 8 -3 and 
+* 1237 12 4 roll
+* 1250 2 5 ~
+* 1253 2 4 ~
+* 1256 16 2 ~ 
+- 1282
+: 1292 5 -3 It’s 
+: 1298 7 -3 Thurs
+: 1306 6 4 day 
+* 1313 33 4 night 
+- 1356
+: 1368 6 2 All 
+: 1375 5 4 ye 
+: 1381 6 5 Crit
+: 1388 6 5 ters, 
+: 1395 4 5 come 
+: 1400 8 5 join 
+: 1409 4 4 us 
+- 1413
+: 1414 5 2 It’s 
+: 1420 5 0 time 
+: 1426 5 -1 to 
+: 1433 3 -3 con
+: 1437 3 -3 ti
+: 1441 6 -3 nue 
+: 1449 8 4 our 
+* 1458 44 1 plight 
+- 1512
+: 1516 5 2 There 
+: 1522 4 4 is 
+: 1527 5 5 ma
+: 1533 6 7 gic 
+: 1540 4 9 and 
+: 1545 6 7 myste
+: 1552 5 5 ry 
+- 1559
+: 1561 2 4 From 
+: 1564 5 2 dark
+: 1570 7 0 ness 
+: 1578 3 -1 our 
+: 1582 4 -1 friend
+: 1587 5 -1 ship 
+: 1595 7 2 will 
+* 1603 20 4 rise
+* 1624 2 2 ~
+* 1627 27 1 ~ 
+- 1666
+: 1670 3 -3 But 
+: 1674 5 -3 one 
+: 1680 6 -1 thing’s 
+: 1687 3 0 for 
+: 1691 12 -3 sure 
+- 1704
+: 1706 3 0 We 
+: 1710 4 -1 ne
+: 1715 6 -1 ver 
+: 1723 6 -3 give 
+: 1730 3 -3 up 
+: 1735 4 -5 on 
+: 1741 4 -3 the 
+* 1746 44 -3 fight 
+- 1796
+: 1798 13 4 Oh, 
+: 1812 3 5 get 
+: 1816 4 4 rea
+: 1821 26 2 dy 
+- 1851
+* 1853 3 4 It’s 
+* 1857 9 7 Thurs
+* 1867 16 7 day 
+* 1884 7 7 night
+* 1892 49 9 ~ 
+E

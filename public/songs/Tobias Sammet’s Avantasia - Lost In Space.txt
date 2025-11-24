@@ -1,0 +1,251 @@
+#ARTIST:Tobias Sammet’s Avantasia
+#TITLE:Lost In Space
+#MP3:Tobias Sammet’s Avantasia - Lost In Space.mp3
+#CREATOR:Ultrastar-Songs
+#YEAR:2007
+#LANGUAGE:English
+#BPM:240
+#GAP:14780
+#VIDEO:v=o26SlmROH5Q,co=lost-in-space-part-1-5cf5243992e89.jpg,bg=avantasia-4f9b4ecd5e1f0.jpg
+: 0 3 4 A
+: 4 4 11 no
+: 9 5 11 ther 
+: 17 10 9 star 
+- 29
+: 44 3 6 Has 
+: 49 5 7 fa
+: 56 6 6 llen 
+- 64
+: 75 3 7 With
+: 79 3 7 out
+: 83 2 6 ~ 
+: 87 2 6 a 
+: 91 7 6 sound 
+- 100
+: 127 3 9 A
+: 131 3 14 no
+: 135 7 14 ther 
+: 143 12 13 Spark 
+: 171 3 9 has 
+: 175 11 11 burned 
+: 187 3 9 out 
+: 191 7 11 in 
+: 199 7 9 the 
+: 207 12 9 cold 
+- 221
+: 255 2 4 A
+: 259 3 6 no
+: 263 5 6 ther 
+: 271 12 4 door 
+: 295 3 9 to 
+: 299 3 9 the 
+: 303 7 11 ba
+: 311 6 9 rrens 
+: 319 6 11 stan
+: 327 6 6 ding 
+: 335 7 7 o
+: 343 12 6 pen 
+- 357
+: 379 2 9 And 
+: 382 4 9 who 
+: 387 5 14 is 
+: 394 7 14 there 
+: 421 4 13 to 
+: 426 10 14 tell 
+: 437 3 13 me 
+: 441 10 14 not 
+: 452 3 13 to 
+: 456 12 14 give 
+: 469 4 13 and 
+: 474 8 14 not 
+: 484 4 13 to 
+: 489 20 14 go 
+- 511
+: 532 6 5 How 
+: 540 3 4 could 
+: 544 6 5 I 
+: 551 11 2 know? 
+: 563 6 5 how 
+: 570 3 4 could 
+: 574 7 5 I 
+: 583 20 0 know? 
+- 605
+: 632 4 5 That 
+: 637 3 5 ill 
+: 641 6 5 get 
+: 648 12 4 Lost 
+: 662 10 5 in 
+: 674 11 12 Space 
+: 686 11 5 to 
+: 698 7 4 roam 
+: 706 4 5 for
+: 711 7 4 e
+: 719 12 2 ver 
+- 733
+: 780 10 5 How 
+: 791 5 4 could 
+: 797 5 5 I 
+: 803 10 2 know? 
+: 814 8 5 how 
+: 823 3 4 could 
+: 827 3 5 I 
+: 831 20 0 see? 
+- 853
+: 883 4 5 Fee
+: 888 5 5 ling 
+: 894 5 5 like 
+: 900 13 4 Lost 
+: 914 10 5 in 
+: 925 11 12 Space 
+: 937 11 5 to 
+: 949 6 4 roam 
+: 956 5 5 for
+: 962 6 4 e
+: 969 12 2 ver 
+- 983
+: 1006 4 2 I’m
+: 1011 5 11 craw
+: 1017 7 11 ling 
+: 1025 17 9 down 
+: 1043 10 6 The 
+: 1054 8 7 Door 
+: 1063 7 6 way 
+: 1071 8 7 to 
+: 1080 8 6 the 
+: 1089 5 7 bad
+: 1095 12 6 lands 
+- 1109
+: 1134 4 2 And 
+: 1139 3 11 kic
+: 1143 7 11 king 
+: 1151 13 9 down 
+: 1170 5 6 Are 
+: 1176 3 6 you 
+: 1180 12 7 heard 
+: 1193 4 6 its 
+: 1198 9 7 to 
+: 1208 4 6 the 
+: 1213 20 6 black 
+- 1235
+: 1260 4 13 And 
+: 1265 6 14 all 
+: 1272 2 14 the 
+: 1275 3 16 da
+: 1279 19 13 mage 
+: 1299 3 14 fa
+: 1303 3 13 ding 
+: 1307 10 14 in 
+- 1318
+: 1318 6 13 The 
+: 1325 6 14 obli
+: 1332 7 13 vion 
+: 1340 5 13 mir
+: 1346 13 11 ror 
+: 1390 4 14 When 
+: 1395 7 14 the 
+: 1403 6 16 de
+: 1410 18 13 mons 
+- 1429
+: 1430 4 13 Are 
+: 1435 7 14 cal
+: 1443 5 13 ling 
+: 1449 11 14 me, 
+: 1461 4 13 they’re 
+: 1466 10 14 drag
+: 1477 4 13 ging 
+: 1482 11 14 me 
+: 1494 2 13 a
+: 1497 18 14 way 
+- 1517
+: 1536 10 5 How 
+: 1547 5 4 could 
+: 1553 5 5 I 
+: 1559 11 2 know? 
+: 1571 7 5 how 
+: 1579 4 4 could 
+: 1584 6 5 I 
+: 1591 20 0 know? 
+- 1613
+: 1639 6 5 That 
+: 1646 3 5 ill 
+: 1650 6 5 get 
+: 1657 11 4 Lost 
+: 1669 12 5 in 
+: 1682 11 12 Space 
+: 1694 12 5 to 
+: 1707 7 4 roam 
+: 1715 3 5 for
+: 1719 7 4 e
+: 1727 13 2 ver 
+- 1742
+: 1791 8 5 How 
+: 1800 4 4 could 
+: 1805 5 5 I 
+: 1811 11 2 know? 
+: 1823 7 5 how 
+: 1831 3 4 could 
+: 1835 7 5 I 
+: 1843 20 0 see? 
+- 1865
+: 1895 3 5 Fee
+: 1899 3 5 ling 
+: 1903 5 5 like 
+: 1909 11 4 Lost 
+: 1921 11 5 in 
+: 1933 11 12 Space 
+: 1945 11 5 to 
+: 1957 7 4 roam 
+: 1965 3 5 for
+: 1969 7 4 e
+: 1977 13 2 ver 
+- 1992
+: 2483 7 5 How 
+: 2491 3 4 could 
+: 2495 7 5 I 
+: 2503 11 2 know, 
+: 2515 7 5 how 
+: 2523 3 4 could 
+: 2527 9 5 I 
+- 2538
+: 2546 8 7 How 
+: 2555 4 6 could 
+: 2560 6 7 I 
+: 2567 11 4 know? 
+: 2579 7 7 how 
+: 2587 3 6 could 
+: 2591 7 7 I 
+: 2599 20 2 know? 
+- 2621
+: 2646 5 7 That 
+: 2652 4 7 ill 
+: 2657 7 7 get 
+: 2665 11 6 Lost 
+: 2677 11 7 in 
+: 2689 11 14 Space 
+: 2701 11 7 to 
+: 2713 7 6 roam 
+: 2721 3 7 for
+: 2725 7 6 e
+: 2733 12 4 ver 
+- 2747
+: 2799 7 7 How 
+: 2807 3 6 could 
+: 2811 7 7 I 
+: 2819 10 4 know? 
+: 2830 7 7 how 
+: 2838 3 6 could 
+: 2842 6 7 I 
+: 2849 20 2 see? 
+- 2871
+: 2898 4 7 Fee
+: 2903 5 7 ling 
+: 2909 7 7 like 
+: 2917 11 6 Lost 
+: 2929 11 7 in 
+: 2941 11 14 Space 
+: 2953 11 7 to 
+: 2965 7 6 roam 
+: 2973 3 7 for
+: 2977 7 6 e
+: 2985 12 4 ver 
+E

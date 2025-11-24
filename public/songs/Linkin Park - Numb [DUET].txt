@@ -1,0 +1,444 @@
+#ARTIST:Linkin Park
+#TITLE:Numb [DUET]
+#MP3:Linkin Park - Numb [DUET].mp3
+#CREATOR:Lianqui
+#EDITION:[DUET]-Songs
+#COVER:Linkin Park - Numb [DUET] [CO].jpg
+#BACKGROUND:Linkin Park - Numb [DUET] [BG].jpg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:220.1
+#GAP:22840
+#VIDEO:v=kXYiU_JCYtU,co=numb-56de1c11f0ae0.jpg,bg=linkin-park-4de523586c57e.jpg,p1=Chester Bennington,p2=Mike Shinoda
+P1
+: 0 4 1 Tired 
+: 5 3 1 of 
+: 9 2 1 being 
+- 12
+: 12 3 1 What 
+: 16 3 2 you 
+: 20 8 1 want 
+: 29 3 1 me 
+: 33 3 -1 to 
+: 37 5 -3 be 
+- 44
+: 56 3 1 Fee
+: 60 3 1 ling 
+: 64 3 -1 so 
+: 68 7 -3 faith
+: 76 5 -1 less 
+- 83
+: 85 3 -3 Lost 
+: 89 3 1 un
+: 93 2 1 der 
+: 97 1 -1 the 
+: 101 5 -3 sur
+: 108 5 -1 face 
+- 115
+: 128 4 1 Don’t 
+: 133 3 1 know 
+: 137 2 1 what 
+: 141 3 1 you’re 
+: 145 3 2 ex
+: 149 7 1 pec
+: 157 3 1 ting 
+: 161 2 -1 of 
+: 165 4 -3 me 
+- 171
+: 180 3 -6 Put 
+: 185 3 1 un
+: 189 3 1 der 
+: 193 2 -1 the 
+: 197 5 -3 pres
+: 204 3 -1 sure 
+- 209
+: 213 3 -6 Of 
+: 217 3 1 wal
+: 221 4 -1 king 
+: 229 5 -3 in 
+: 237 4 -1 your 
+* 245 45 1 shoes 
+- 292
+: 304 2 1 Eve
+: 307 3 1 ry 
+: 312 3 6 step 
+: 316 3 6 that 
+: 320 3 4 I 
+: 324 5 1 take 
+- 330
+: 332 4 1 Is 
+: 337 2 1 a
+: 341 5 6 no
+: 348 3 6 ther 
+: 352 3 4 mis
+: 356 6 1 take 
+: 364 8 2 to 
+* 373 53 4 you 
+- 428
+: 440 11 6 I’ve 
+: 452 3 6 be
+: 456 6 6 come 
+: 464 3 4 so
+: 468 2 6 ~ 
+: 472 4 6 numb 
+- 478
+: 480 3 6 I 
+: 484 3 6 can’t 
+: 488 7 6 feel 
+: 496 6 8 you 
+: 504 6 4 there 
+- 512
+: 517 3 6 Be
+: 521 5 6 come 
+: 528 3 4 so
+: 532 3 6 ~ 
+: 536 5 6 tired 
+- 542
+: 543 3 6 So 
+: 548 4 6 much 
+: 553 5 6 more 
+: 560 7 4 a
+: 568 5 6 ware 
+- 574
+: 576 4 6 I’ve 
+: 581 3 6 be
+: 585 6 6 co
+: 592 6 4 ming 
+: 600 4 6 this 
+- 606
+: 609 3 6 All 
+: 613 3 6 I 
+: 617 5 6 want 
+: 624 6 8 to 
+: 631 5 4 do 
+- 638
+: 641 3 6 Is 
+: 645 3 6 be 
+: 649 5 6 more 
+: 656 7 4 like 
+: 664 6 6 me 
+- 671
+: 672 4 6 And 
+: 677 2 6 be 
+: 680 7 6 less 
+: 688 6 4 like 
+: 696 6 6 you 
+- 703
+: 705 3 6 Can’t 
+: 709 2 6 you 
+: 712 4 6 see 
+: 717 2 6 that 
+: 720 2 4 you’re 
+: 724 7 6 smo
+: 732 3 4 the
+: 736 4 4 ring 
+: 741 6 4 me 
+- 749
+: 760 4 6 Hol
+: 765 3 4 ding 
+: 769 2 4 too 
+: 772 8 4 tight
+: 781 4 1 ly 
+- 787
+: 789 2 1 A
+: 792 4 2 fraid 
+: 797 6 1 to 
+: 804 7 -1 lose 
+: 812 6 1 con
+: 819 4 1 trol 
+- 825
+: 828 4 -6 ’Cause 
+: 833 2 1 eve
+: 836 3 1 ry
+: 840 3 1 thing 
+- 844
+: 844 4 1 That 
+: 849 2 2 you 
+: 853 6 1 thought 
+: 861 3 1 I 
+: 865 3 -1 would 
+: 869 5 -3 be 
+- 876
+: 884 4 -6 Has 
+: 889 3 1 fal
+: 893 2 1 len 
+: 897 2 -1 a
+: 901 9 -3 part 
+- 912
+: 918 5 1 Right 
+: 925 5 -1 in 
+: 933 7 -3 front 
+: 941 6 -1 of 
+* 949 37 1 you 
+- 988
+: 1008 3 1 Eve
+: 1012 2 1 ry 
+: 1016 3 6 step 
+: 1020 3 6 that 
+: 1024 4 4 I 
+: 1029 5 1 take 
+- 1035
+: 1036 4 1 Is 
+: 1041 2 1 a
+: 1044 8 6 no
+: 1053 3 6 ther 
+: 1057 3 4 mis
+: 1061 4 1 take 
+: 1068 6 2 to 
+* 1076 38 4 you 
+- 1116
+: 1132 4 1 And 
+: 1137 3 1 eve
+: 1141 2 1 ry 
+: 1145 3 6 se
+: 1149 3 6 cond 
+: 1153 3 4 I 
+: 1157 6 1 waste 
+- 1164
+: 1166 3 1 Is 
+: 1170 2 1 more 
+: 1173 2 1 than 
+* 1176 5 9 I 
+* 1182 5 8 can 
+* 1188 10 9 ta
+* 1199 6 8 ~ke 
+- 1207
+: 1210 8 6 I’ve 
+: 1220 4 6 be
+: 1225 5 6 come 
+: 1232 3 4 so
+: 1236 2 6 ~ 
+: 1240 7 6 numb 
+- 1248
+: 1248 4 6 I 
+: 1253 3 6 can’t 
+: 1257 6 6 feel 
+: 1265 6 8 you 
+: 1273 9 4 there 
+- 1283
+: 1284 3 6 Be
+: 1288 6 6 come 
+: 1296 3 4 so
+: 1300 3 6 ~ 
+: 1304 6 6 tired 
+- 1311
+: 1312 4 6 So 
+: 1317 3 6 much 
+: 1321 6 6 more 
+: 1328 7 4 a
+: 1336 8 6 ware 
+- 1345
+: 1345 3 6 I’ve 
+: 1349 3 6 be
+: 1353 7 6 co
+: 1361 7 4 ming 
+: 1369 6 6 this 
+- 1376
+: 1376 4 6 All 
+: 1381 3 6 I 
+: 1385 6 6 want 
+: 1393 6 8 to 
+: 1400 8 4 do 
+- 1409
+: 1409 3 6 Is 
+: 1413 3 6 be 
+: 1418 5 6 more 
+: 1425 6 4 like 
+: 1433 6 6 me 
+- 1440
+: 1440 4 6 And 
+: 1445 3 6 be 
+: 1449 5 6 less 
+: 1456 5 4 like 
+* 1464 16 6 you 
+- 1482
+: 1484 4 6 And 
+: 1489 3 9 I 
+* 1493 20 8 know 
+- 1514
+: 1516 4 6 I 
+: 1521 6 8 may 
+: 1528 13 9 end 
+: 1544 10 8 up 
+: 1561 12 9 fai
+: 1576 10 8 ling 
+: 1588 18 6 too 
+- 1608
+: 1613 3 6 But 
+: 1617 3 9 I 
+* 1621 24 8 know 
+- 1646
+: 1648 3 8 You 
+: 1652 3 6 were 
+: 1656 5 8 just 
+: 1662 5 8 like 
+: 1668 7 8 me 
+- 1676
+: 1676 2 6 When 
+: 1680 3 8 some
+: 1684 4 6 one 
+: 1689 4 8 dis
+: 1694 6 8 ap
+: 1701 6 8 poin
+: 1708 3 6 ted 
+: 1713 3 9 in 
+* 1717 29 8 you 
+- 1748
+: 1753 9 6 I’ve 
+: 1764 3 6 be
+: 1768 6 6 come 
+: 1776 3 4 so
+: 1780 2 6 ~ 
+: 1784 7 6 numb 
+- 1792
+: 1792 4 6 I 
+: 1797 2 6 can’t 
+: 1801 6 6 feel 
+: 1809 6 8 you 
+: 1817 10 4 there 
+- 1828
+: 1828 4 6 Be
+: 1833 5 6 come 
+: 1841 3 4 so
+: 1845 2 6 ~ 
+: 1848 4 6 tired 
+- 1854
+: 1856 3 6 So 
+: 1860 4 6 much 
+: 1865 6 6 more 
+: 1873 6 4 a
+: 1881 6 6 ware 
+- 1888
+: 1888 4 6 I’ve 
+: 1893 3 6 be
+: 1897 7 6 co
+: 1905 7 4 ming 
+: 1913 6 6 this 
+- 1920
+: 1922 3 6 All 
+: 1926 3 6 I 
+: 1930 3 6 want 
+: 1937 4 8 to 
+: 1944 6 4 do 
+- 1951
+: 1952 4 6 Is 
+: 1957 3 6 be 
+: 1961 6 6 more 
+: 1968 7 4 like 
+: 1976 6 6 me 
+- 1983
+: 1984 4 6 And 
+: 1989 2 6 be 
+: 1993 6 6 less 
+: 2001 5 4 like 
+: 2008 11 6 you 
+- 2020
+: 2020 3 6 Be
+: 2024 6 6 come 
+: 2033 3 4 so
+: 2037 2 6 ~ 
+: 2041 5 6 numb 
+- 2047
+: 2049 3 6 I 
+: 2053 2 6 can’t 
+: 2057 7 6 feel 
+: 2065 6 8 you 
+: 2073 12 4 there 
+- 2087
+: 2138 7 6 I’ve 
+: 2148 4 6 be
+: 2153 6 6 come 
+: 2161 3 4 so
+: 2165 2 6 ~ 
+: 2169 4 6 numb 
+- 2174
+: 2176 4 6 I 
+: 2181 2 6 can’t 
+: 2185 6 6 feel 
+: 2193 6 8 you 
+: 2201 11 4 there 
+P2
+F 256 3 0 Caught 
+F 260 2 0 in 
+F 263 2 0 the 
+F 266 2 0 un
+F 269 2 0 der
+F 272 3 0 tow 
+- 276
+F 276 3 0 Just 
+F 280 2 0 caught 
+F 283 2 0 in 
+F 286 2 0 the 
+F 289 2 0 un
+F 292 2 0 der
+F 295 3 0 tow 
+- 300
+F 383 3 0 Caught 
+F 387 2 0 in 
+F 390 2 0 the 
+F 393 2 0 un
+F 396 2 0 der
+F 399 3 0 tow 
+- 403
+F 403 3 0 Just 
+F 407 2 0 caught 
+F 410 2 0 in 
+F 413 2 0 the 
+F 416 2 0 un
+F 419 2 0 der
+F 422 3 0 tow 
+- 427
+F 960 3 0 Caught 
+F 964 2 0 in 
+F 967 2 0 the 
+F 970 2 0 un
+F 973 2 0 der
+F 976 3 0 tow 
+- 980
+F 980 3 0 Just 
+F 984 2 0 caught 
+F 987 2 0 in 
+F 990 2 0 the 
+F 993 2 0 un
+F 996 2 0 der
+F 999 3 0 tow 
+- 1004
+F 1088 3 0 Caught 
+F 1092 2 0 in 
+F 1095 2 0 the 
+F 1098 2 0 un
+F 1101 2 0 der
+F 1104 3 0 tow 
+- 1108
+F 1108 3 0 Just 
+F 1112 2 0 caught 
+F 1115 2 0 in 
+F 1118 2 0 the 
+F 1121 2 0 un
+F 1124 2 0 der
+F 1127 3 0 tow 
+- 1132
+: 2079 2 1 I’m 
+: 2082 2 1 tired 
+: 2085 2 1 of 
+: 2088 1 1 be
+: 2090 2 1 ing 
+: 2093 2 1 what 
+: 2096 4 2 you 
+: 2101 7 1 want 
+: 2109 2 1 me 
+: 2112 3 -1 to 
+: 2116 10 -3 be 
+- 2128
+: 2204 2 1 I’m 
+: 2207 2 1 tired 
+: 2210 2 1 of 
+: 2213 1 1 be
+: 2215 2 1 ing 
+: 2218 2 1 what 
+: 2221 3 2 you 
+: 2225 7 1 want 
+: 2233 2 1 me 
+: 2236 3 -1 to 
+: 2240 10 -3 be 
+E

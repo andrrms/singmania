@@ -1,0 +1,872 @@
+#ARTIST:50 Cent
+#TITLE:In Da Club (Explicit Version)
+#MP3:50 Cent - In Da Club (Explicit Version).mp3
+#CREATOR:FaKK
+#GENRE:Rap
+#YEAR:2003
+#LANGUAGE:English
+#BPM:359
+#GAP:44500
+#VIDEO:v=Kd6XZGZsNyk,co=in-da-club-55fdfb92a3d27.jpg,bg=50-cent-540492f591e67.jpg,medley=845-2382,tags=explicit
+#START:41.0
+R 0 7 -4 Go, 
+R 14 7 -4 go, 
+R 30 7 -4 go, 
+R 46 8 -4 go, 
+R 62 8 -4 go, 
+R 78 8 -4 go, 
+- 88
+R 94 6 -4 Go 
+R 102 8 -11 shaw
+R 111 7 -4 ty, 
+R 122 7 -4 it’s 
+R 130 3 -4 your 
+R 134 6 -11 birth
+R 141 12 -4 day, 
+- 154
+R 154 3 -4 We 
+R 159 5 -4 gon’ 
+R 166 7 -4 par
+R 174 3 -4 ty 
+R 178 7 -4 like 
+R 186 7 -4 it’s 
+R 194 3 -4 your 
+R 198 6 -11 birth
+R 205 6 -4 day, 
+- 212
+R 212 1 -4 We 
+R 215 4 -4 gon’ 
+R 220 5 -4 sip 
+R 226 3 -4 Ba
+R 230 6 -4 car
+R 237 4 -4 di 
+R 242 5 -4 like 
+R 250 7 -4 it’s 
+R 258 3 -4 your 
+R 262 7 -11 birth
+R 270 4 -4 day, 
+- 276
+R 286 1 -4 And 
+R 288 1 -4 you 
+R 290 5 -4 know 
+R 296 1 -11 we 
+R 298 3 -4 don’t 
+R 302 2 -4 give 
+R 305 3 -4 a 
+R 309 4 -4 fuck 
+- 314
+R 314 3 -4 It’s 
+R 318 3 -4 not 
+R 322 3 -4 your 
+R 326 7 -4 birth
+R 334 6 -4 day. 
+- 340
+R 340 2 -4 You’ll 
+R 343 4 -4 find 
+R 348 3 -4 me 
+R 352 1 -4 in 
+R 354 3 -4 da 
+R 358 8 -4 club 
+- 368
+R 374 3 -4 Bot
+R 378 3 -4 tle 
+R 382 3 -4 full 
+R 386 3 -4 of 
+R 390 8 -4 bub 
+- 398
+R 398 3 -4 Look 
+R 402 3 -4 Ma
+R 406 3 -4 mi, 
+R 410 3 -4 I 
+R 414 5 -4 got 
+R 420 2 -4 the 
+R 423 6 -4 X 
+- 430
+R 432 2 -4 If 
+R 435 2 -4 ya 
+R 438 3 -4 in
+R 442 3 -4 to 
+R 446 3 -4 ta
+R 450 3 -4 kin’ 
+R 454 12 -4 drugs, 
+- 468
+R 470 3 -4 I’m 
+R 474 1 -4 in
+R 476 2 -4 to 
+R 479 3 -4 ha
+R 483 3 -4 vin’ 
+R 487 7 -4 sex, 
+- 495
+R 495 1 -4 I 
+R 497 4 -4 ain’t 
+R 502 3 -4 in
+R 506 2 -4 to 
+R 509 4 -4 ma
+R 514 2 -4 kin’ 
+R 517 8 -4 love 
+- 526
+R 526 3 -4 So 
+R 530 6 -4 come 
+R 537 4 -4 give 
+R 542 3 -4 me 
+R 546 3 -4 a 
+R 550 11 -4 hug 
+- 558
+R 558 3 -4 If 
+R 562 3 -4 ya 
+R 566 3 -4 in
+R 570 2 -4 to 
+R 573 4 -4 get
+R 578 2 -4 tin’ 
+R 581 9 -4 rubbed. 
+- 592
+R 594 3 -4 You’ll 
+R 598 3 -4 find 
+R 602 3 -4 me 
+R 606 3 -4 in 
+R 610 3 -4 da 
+R 614 8 -4 club 
+- 624
+R 630 3 -4 Bot
+R 634 2 -4 tle 
+R 637 3 -4 full 
+R 641 2 -4 of 
+R 644 10 -4 bub 
+- 654
+R 654 2 -4 Look 
+R 658 3 -4 Ma
+R 662 3 -4 mi, 
+R 666 3 -4 I 
+R 670 3 -4 got 
+R 674 3 -4 the 
+R 678 7 -4 X 
+- 682
+R 682 3 -4 If 
+R 686 3 -4 ya 
+R 690 7 -4 in
+R 698 3 -4 to 
+R 702 3 -4 ta
+R 706 7 -4 kin’ 
+R 714 8 -4 drugs, 
+- 723
+R 724 1 -4 I’m 
+R 726 2 -4 in
+R 729 3 -4 to 
+R 733 3 -4 ha
+R 737 3 -4 vin’ 
+R 741 7 -4 sex, 
+- 749
+R 749 3 -4 I 
+R 753 3 -4 ain’t 
+R 757 3 -4 in
+R 761 3 -4 to 
+R 765 3 -4 ma
+R 769 3 -4 kin’ 
+R 773 7 -4 love 
+- 781
+R 781 3 -4 So 
+R 785 6 -4 come 
+R 792 4 -4 give 
+R 797 3 -4 me 
+R 801 3 -4 a 
+R 805 8 -4 hug 
+- 814
+R 816 2 -4 If 
+R 819 2 -4 ya 
+R 822 3 -4 in
+R 826 2 -4 to 
+R 829 4 -4 get
+R 834 2 -4 tin’ 
+R 837 9 -4 rubbed. 
+- 845
+R 845 3 -4 When 
+R 849 3 -4 I 
+R 853 3 -4 pull 
+R 857 6 -4 up 
+R 864 5 -4 out 
+R 870 6 1 front 
+- 877
+: 878 1 -6 You’ll 
+: 880 2 -6 see 
+: 883 1 -6 the 
+: 885 8 -6 Benz 
+: 894 7 -4 on 
+: 902 6 -11 dubs 
+- 910
+: 914 1 -11 When 
+: 916 1 -11 I 
+: 918 7 -4 roll 
+: 926 4 -4 twen
+: 931 2 -4 ty 
+: 934 6 -4 deep 
+- 940
+: 940 2 -4 It’s 
+: 944 2 1 twen
+: 947 2 -6 ty 
+: 950 5 -6 ni
+: 956 3 -4 ~nes 
+: 960 2 -4 in 
+: 963 2 -4 da 
+: 966 6 -11 club 
+- 973
+: 974 3 -4 Nig
+: 978 3 -4 gas 
+: 982 3 -4 heard 
+: 986 2 -4 I 
+: 989 5 -4 fuck 
+: 995 2 -4 with 
+: 998 7 1 Dre’ 
+- 1006
+: 1006 3 -4 Now 
+: 1010 3 -4 they 
+: 1014 3 -6 wan
+: 1018 3 -6 na 
+: 1022 3 -6 show 
+: 1026 2 -6 me 
+: 1029 7 -11 love. 
+- 1037
+: 1038 3 -4 When 
+: 1042 3 -4 you 
+: 1046 3 -4 sell 
+: 1050 3 -4 like 
+: 1054 3 -4 E
+: 1058 3 -4 mi
+: 1062 3 1 nem, 
+- 1066
+: 1066 3 1 Then 
+: 1070 3 1 the 
+: 1074 8 -4 hoes, 
+: 1083 2 -4 they 
+: 1086 3 -4 wan
+: 1090 3 -4 na 
+: 1094 7 -11 fuck 
+- 1102
+: 1102 3 -11 Look 
+: 1106 3 -4 ho
+: 1110 3 -4 mie, 
+: 1114 3 -4 ain’t 
+: 1118 3 -4 no
+: 1122 3 -4 thin’ 
+: 1126 7 -4 changed, 
+- 1134
+R 1134 7 -4 Hoes 
+R 1142 7 -4 down, 
+R 1150 7 -4 G’s 
+R 1158 5 -4 up 
+- 1164
+R 1164 1 -4 I 
+R 1166 4 -4 see 
+R 1171 2 -4 X
+R 1174 3 -4 zi
+R 1178 3 -4 bit 
+R 1182 3 -4 in 
+R 1186 2 -4 the 
+R 1189 4 -4 club, 
+- 1194
+R 1194 3 -4 Hey 
+R 1198 3 -4 nig
+R 1202 3 -4 ga, 
+R 1206 3 -4 roll 
+R 1210 3 -4 that 
+R 1214 7 -4 weed 
+R 1222 6 -4 up. 
+- 1230
+R 1233 1 -4 If 
+R 1235 2 -4 you 
+R 1238 7 -4 watch 
+R 1246 3 -4 how 
+R 1250 3 -4 I 
+R 1254 3 -4 move 
+- 1259
+R 1262 4 -4 You’ll 
+R 1267 2 -4 mis
+R 1270 3 -4 take 
+R 1274 3 -4 me 
+R 1278 3 -4 for 
+R 1282 3 -4 a 
+R 1286 4 -4 play
+R 1291 2 -4 er 
+R 1294 2 -4 or 
+R 1297 8 -4 pimp 
+- 1307
+R 1310 4 -4 Been 
+R 1315 4 -4 hit 
+R 1320 1 -4 with 
+R 1322 1 -4 a 
+R 1324 7 -4 few 
+R 1332 8 -4 shells 
+- 1340
+R 1340 1 -4 But 
+R 1342 1 -4 I 
+R 1344 4 -4 don’t 
+R 1349 5 -4 walk 
+R 1355 2 -4 with 
+R 1358 2 -4 a 
+R 1361 7 -4 limp. 
+- 1370
+R 1375 2 -4 In 
+R 1378 3 -4 the 
+R 1382 4 -4 hood 
+R 1388 3 -4 all 
+R 1392 3 -4 the 
+R 1396 3 -4 la
+R 1400 3 -4 dies 
+R 1404 3 -4 say
+R 1408 3 -4 in’ 
+- 1412
+R 1412 3 -4 “Fif
+R 1416 3 -4 ty, 
+R 1420 4 -4 you 
+R 1425 5 -4 hot!” 
+- 1432
+R 1435 2 -4 They 
+R 1438 5 -4 like 
+R 1444 4 -4 me, 
+- 1449
+R 1449 3 -4 I 
+R 1453 3 -4 want 
+R 1457 3 -4 ’em 
+R 1461 3 -4 to 
+R 1465 3 -4 love 
+R 1469 3 -4 me 
+R 1473 3 -4 like 
+R 1477 3 -4 they 
+R 1481 7 -4 love 
+R 1489 8 -4 ’Pac. 
+- 1498
+R 1498 2 -4 But 
+R 1501 3 -4 hol
+R 1505 3 -4 la 
+R 1509 4 -4 in 
+R 1514 2 -4 New 
+R 1517 8 -4 York 
+- 1526
+R 1526 3 -4 The 
+R 1530 8 -4 niggas 
+R 1539 2 -4 will 
+R 1542 3 -4 tell 
+R 1546 3 -4 you 
+R 1550 3 -4 I’m 
+R 1554 5 -4 lo
+R 1560 6 -4 co 
+- 1567
+R 1569 1 -4 And 
+R 1571 1 -4 the 
+R 1573 8 -4 plan 
+R 1582 2 -4 is 
+- 1585
+R 1585 3 -4 To 
+R 1589 3 -4 put 
+R 1593 3 -4 the 
+R 1597 7 -4 rap 
+R 1605 3 -4 game 
+R 1609 3 -4 in 
+R 1613 3 -4 a 
+R 1617 7 -4 choke
+R 1625 4 -4 hold. 
+- 1630
+R 1630 3 -4 I’m 
+R 1634 1 -4 fee
+R 1636 2 -4 lin’ 
+R 1639 6 -4 fo
+R 1646 7 -4 cused 
+R 1654 8 -4 man, 
+- 1664
+R 1666 2 -4 My 
+R 1669 3 -4 mo
+R 1673 3 -4 ney 
+R 1677 3 -4 on 
+R 1681 2 -4 my 
+R 1684 9 -4 mind 
+- 1694
+R 1694 2 -4 Got 
+R 1697 4 -4 a 
+R 1702 6 -4 mil’ 
+R 1709 3 -4 out 
+R 1713 4 -4 the 
+R 1718 7 -4 deal 
+- 1726
+R 1726 2 -4 And 
+R 1729 2 -4 I’m 
+R 1732 3 -4 still 
+R 1736 3 -4 on 
+R 1740 3 -4 the 
+R 1744 10 -4 grind. 
+- 1755
+R 1757 1 -4 Now 
+R 1759 2 -4 shaw
+R 1762 3 -4 ty 
+R 1766 2 -4 said 
+R 1770 2 -4 she’s 
+R 1773 2 -4 fee
+R 1776 2 -4 lin’ 
+R 1779 6 -4 my 
+R 1786 5 -4 style, 
+- 1792
+R 1792 5 -4 She’s 
+R 1798 2 -4 fee
+R 1801 3 -4 lin’ 
+R 1805 4 -4 my 
+R 1810 8 -4 flow 
+- 1819
+R 1819 3 -4 Her 
+R 1823 5 -4 girl
+R 1829 3 -4 friend 
+R 1833 3 -4 with 
+R 1837 1 -4 her, 
+R 1839 3 -4 she 
+R 1843 7 -4 bi 
+- 1853
+R 1855 1 -4 And 
+R 1857 3 -4 they 
+R 1861 2 -4 rea
+R 1864 3 -4 dy 
+R 1868 3 -4 to 
+R 1872 5 -4 go. 
+- 1877
+R 1878 2 -4 You’ll 
+R 1881 2 -4 find 
+R 1884 1 -4 me 
+R 1886 3 -4 in 
+R 1890 3 -4 da 
+R 1894 11 -4 club 
+- 1907
+R 1909 3 -4 Bot
+R 1913 2 -4 tle 
+R 1916 5 -4 full 
+R 1922 2 -4 of 
+R 1925 6 -4 bub 
+- 1932
+R 1934 3 -4 Look 
+R 1938 3 -4 Ma
+R 1942 3 -4 mi, 
+R 1946 7 -4 I 
+R 1954 3 -4 got 
+R 1958 3 -4 the 
+R 1962 4 -4 X 
+- 1967
+R 1968 2 -4 If 
+R 1971 2 -4 ya 
+R 1974 3 -4 in
+R 1978 3 -4 to 
+R 1982 5 -4 ta
+R 1988 5 -4 kin’ 
+R 1994 7 -4 drugs, 
+- 2002
+R 2002 1 -4 I’m 
+R 2004 3 -4 in
+R 2008 2 -4 to 
+R 2011 3 -4 ha
+R 2015 4 -4 vin’ 
+R 2020 6 -4 sex, 
+- 2027
+R 2027 4 -4 I 
+R 2032 3 -4 ain’t 
+R 2036 3 -4 in
+R 2040 3 -4 to 
+R 2044 3 -4 ma
+R 2048 3 -4 kin’ 
+R 2052 7 -4 love 
+- 2060
+R 2060 4 -4 So 
+R 2066 8 -4 come 
+R 2076 2 -4 give 
+R 2079 3 -4 me 
+R 2083 2 -4 a 
+R 2086 8 -4 hug 
+- 2094
+R 2094 2 -4 If 
+R 2097 2 -4 ya 
+R 2100 3 -4 in
+R 2104 4 -4 to 
+R 2109 4 -4 get
+R 2114 1 -4 tin’ 
+R 2116 10 -4 rubbed. 
+- 2128
+R 2132 1 -4 You’ll 
+R 2134 3 -4 find 
+R 2138 3 -4 me 
+R 2142 3 -4 in 
+R 2146 3 -4 da 
+R 2150 4 -4 club 
+- 2156
+R 2166 1 -4 Bot
+R 2168 2 -4 tle 
+R 2171 5 -4 full 
+R 2177 4 -4 of 
+R 2182 4 -4 bub 
+- 2187
+R 2188 2 -4 Look 
+R 2191 4 -4 Ma
+R 2196 3 -4 mi, 
+R 2200 3 -4 I 
+R 2204 3 -4 got 
+R 2208 3 -4 the 
+R 2212 8 -4 X 
+- 2220
+R 2220 3 -4 If 
+R 2224 3 -4 ya 
+R 2228 2 -4 in
+R 2231 3 -4 to 
+R 2235 3 -4 ta
+R 2239 3 -4 kin’ 
+R 2244 12 -4 drugs, 
+- 2258
+R 2260 1 -4 I’m 
+R 2262 2 -4 in
+R 2265 1 -4 to 
+R 2267 2 -4 ha
+R 2270 5 -4 vin’ 
+R 2276 6 -4 sex, 
+- 2283
+R 2284 2 -4 I 
+R 2287 5 -4 ain’t 
+R 2293 2 -4 in
+R 2296 3 -4 to 
+R 2300 2 -4 ma
+R 2303 4 -4 kin’ 
+R 2308 7 -4 love 
+- 2316
+R 2316 4 -4 So 
+R 2322 4 -4 come 
+R 2330 3 -4 give 
+R 2334 2 -4 me 
+R 2337 3 -4 a 
+R 2341 9 -4 hug 
+- 2348
+R 2348 3 -4 If 
+R 2352 3 -4 ya 
+R 2356 3 -4 in
+R 2360 3 -4 to 
+R 2364 4 -4 get
+R 2369 3 -4 tin’ 
+R 2373 9 -4 rubbed. 
+- 2384
+* 2414 4 -4 My 
+: 2422 4 -11 flow, 
+* 2430 4 -4 my 
+: 2438 4 -11 show 
+: 2446 4 -11 brought 
+: 2454 4 -11 me 
+: 2460 3 -8 the 
+* 2464 8 -4 dough 
+- 2474
+: 2476 4 -4 That 
+: 2484 4 -11 bought 
+: 2492 4 -11 me 
+: 2500 4 -11 all 
+: 2508 4 -11 my 
+: 2516 4 -11 fan
+: 2524 3 -8 cy 
+: 2528 4 -4 things 
+- 2534
+* 2540 4 -4 My 
+* 2548 4 -11 cribs, 
+* 2556 4 -4 my 
+* 2564 4 -11 cars, 
+* 2572 4 -4 my 
+* 2580 4 -11 clothes, 
+* 2588 4 -4 my 
+* 2596 4 -11 jewels 
+- 2602
+: 2604 4 -4 Look 
+: 2610 3 -8 nig
+: 2614 4 -8 ga, 
+: 2619 4 -4 I 
+: 2624 3 -8 done 
+* 2628 4 -4 came 
+: 2634 5 -11 up 
+: 2640 3 -11 and 
+: 2644 3 -8 I 
+: 2648 4 -4 ain’t 
+* 2653 11 -11 changed 
+- 2665
+R 2666 1 -4 And 
+R 2668 1 -4 you 
+R 2670 3 -4 should 
+R 2674 2 -4 love 
+R 2677 3 -4 it, 
+- 2682
+R 2686 5 -4 Way 
+R 2692 3 -4 more 
+R 2696 2 -4 than 
+R 2699 3 -4 you 
+R 2703 4 -4 hate 
+R 2708 3 -4 it 
+- 2712
+R 2712 3 -4 Nig
+R 2716 3 -4 ga, 
+R 2720 3 -4 you 
+R 2724 6 -4 mad? 
+- 2732
+R 2736 2 -4 I 
+R 2739 3 -4 thought 
+R 2743 3 -4 that 
+R 2747 3 -4 you’d 
+R 2751 3 -4 be 
+R 2755 3 -4 hap
+R 2759 3 -4 py 
+- 2763
+R 2763 3 -4 I 
+R 2767 3 -4 made 
+R 2771 4 -4 it. 
+- 2777
+R 2780 2 -4 I’m 
+R 2783 3 -4 that 
+R 2787 7 -4 cat 
+R 2795 3 -4 by 
+R 2799 3 -4 the 
+R 2803 7 -4 bar 
+- 2811
+R 2811 3 -4 Toas
+R 2815 3 -4 tin’ 
+R 2819 4 -4 to 
+R 2824 2 -4 the 
+R 2827 7 -4 good 
+R 2835 6 -4 life, 
+- 2842
+R 2842 5 -4 You 
+R 2848 3 -4 that 
+R 2852 4 -4 fag
+R 2857 6 -4 got-
+R 2864 3 -4 ass 
+R 2869 2 -4 nig
+R 2873 3 -4 ga 
+- 2877
+R 2877 2 -4 Try’n 
+R 2880 3 -4 to 
+R 2884 2 -4 pull 
+R 2887 3 -4 me 
+R 2891 6 -4 back 
+R 2898 10 -4 right? 
+- 2909
+R 2910 4 -4 When 
+R 2915 4 -4 my 
+R 2920 6 -4 joint 
+R 2927 3 -4 get 
+R 2931 3 -4 to 
+R 2930 3 -4 bum
+R 2934 3 -4 pin’ 
+R 2938 3 -4 in 
+R 2942 3 -4 da 
+R 2946 7 -4 club 
+R 2954 5 -4 it’s 
+R 2960 8 -4 on, 
+- 2969
+R 2969 1 -4 I 
+R 2971 3 -4 wink 
+R 2975 3 -4 my 
+R 2979 5 -4 eye 
+R 2985 5 -4 at 
+R 2991 3 -4 your 
+R 2995 8 -4 bitch, 
+- 3004
+R 3004 3 -4 If 
+R 3008 3 -4 she 
+R 3012 6 -4 smiles, 
+R 3019 3 -4 she’s 
+R 3023 10 -4 gone. 
+- 3035
+R 3038 1 -4 If 
+R 3040 3 -4 the 
+R 3044 6 -4 roof 
+R 3051 7 -4 on 
+R 3059 6 -4 fire 
+- 3066
+R 3066 2 -4 Let 
+R 3069 2 -4 the 
+R 3072 3 -4 mo
+R 3076 3 -4 ther
+R 3080 5 -4 fuc
+R 3086 3 -4 ker 
+R 3090 6 -4 burn, 
+- 3097
+R 3098 1 -4 If 
+R 3100 1 -4 you’re 
+R 3102 3 -4 tal
+R 3106 3 -4 kin’ 
+R 3110 2 -4 a
+R 3113 6 -4 bout 
+R 3120 4 -4 mo
+R 3125 2 -4 ney, 
+R 3128 5 -4 ho
+R 3134 2 -4 mie 
+- 3137
+R 3137 2 -4 I 
+R 3140 3 -4 ain’t 
+R 3144 4 -4 con
+R 3149 7 -4 cerned. 
+- 3158
+R 3162 1 -4 I’m 
+R 3164 1 -4 a 
+R 3166 3 -4 tell 
+R 3170 4 -4 you 
+R 3175 3 -4 what 
+R 3179 6 -4 banks 
+R 3186 5 -4 told 
+R 3192 3 -4 me 
+- 3196
+R 3196 2 -4 ’Cause, 
+R 3199 5 -4 go 
+R 3205 3 -4 ’head 
+R 3209 5 -4 switch 
+R 3215 4 -4 the 
+R 3220 6 -4 styles 
+R 3227 4 -4 up, 
+- 3232
+R 3232 1 -4 If 
+R 3234 2 -4 nig
+R 3237 3 -4 gas 
+R 3241 4 -4 hate, 
+R 3249 3 -4 let 
+R 3253 3 -4 em’ 
+R 3257 4 -4 hate, 
+- 3263
+R 3265 3 -4 Watch 
+R 3269 3 -4 the 
+R 3273 3 -4 mo
+R 3277 3 -4 ney 
+R 3281 9 -4 pile 
+R 3291 7 -4 up. 
+- 3300
+R 3303 3 -4 Or 
+R 3307 3 -4 we 
+R 3311 3 -4 could 
+R 3315 3 -4 go 
+R 3319 3 -4 up
+R 3323 3 -4 side 
+R 3327 3 -4 your 
+R 3331 7 -4 head 
+R 3339 3 -4 wit’ 
+R 3343 2 -4 a 
+R 3346 3 -4 bot
+R 3350 3 -4 tle 
+R 3354 4 -4 of 
+R 3359 10 -4 bub, 
+- 3370
+R 3370 3 -4 They 
+R 3374 3 -4 know 
+R 3378 2 -4 where 
+R 3381 3 -4 we 
+R 3385 4 -4 fuc
+R 3390 4 -4 kin’ 
+R 3395 7 -4 be. 
+- 3403
+R 3405 3 -4 You’ll 
+R 3409 6 -4 find 
+R 3416 3 -4 me 
+R 3420 2 -4 in 
+R 3424 4 -4 da 
+R 3429 11 -4 club 
+- 3441
+R 3441 4 -4 Bot
+R 3446 2 -4 tle 
+R 3449 4 -4 full 
+R 3454 4 -4 of 
+R 3459 7 -4 bub 
+- 3466
+R 3466 2 -4 Look 
+R 3469 4 -4 Ma
+R 3474 2 -4 mi, 
+R 3478 3 -4 I 
+R 3482 3 -4 got 
+R 3486 3 -4 the 
+R 3490 7 -4 X 
+- 3496
+R 3496 2 -4 If 
+R 3499 2 -4 ya 
+R 3502 3 -4 in
+R 3506 3 -4 to 
+R 3510 7 -4 ta
+R 3518 3 -4 kin’ 
+R 3522 8 -4 drugs, 
+- 3532
+R 3536 1 -4 I’m 
+R 3538 3 -4 in
+R 3542 2 -4 to 
+R 3545 4 -4 ha
+R 3550 2 -4 vin’ 
+R 3553 8 -4 sex, 
+- 3562
+R 3562 3 -4 I 
+R 3566 3 -4 ain’t 
+R 3570 3 -4 in
+R 3574 3 -4 to 
+R 3578 3 -4 ma
+R 3582 3 -4 kin’ 
+R 3586 4 -4 love 
+- 3592
+R 3594 3 -4 So 
+R 3598 7 -4 come 
+R 3606 3 -4 give 
+R 3610 3 -4 me 
+R 3614 3 -4 a 
+R 3618 8 -4 hug 
+- 3628
+R 3630 2 -4 If 
+R 3633 2 -4 ya 
+R 3636 2 -4 in
+R 3639 2 -4 to 
+R 3642 2 -4 get
+R 3645 1 -4 tin’ 
+R 3647 10 -4 rubbed. 
+- 3659
+R 3662 3 -4 You’ll 
+R 3666 5 -4 find 
+R 3672 3 -4 me 
+R 3676 2 -4 in 
+R 3679 3 -4 da 
+R 3683 10 -4 club 
+- 3695
+R 3698 3 -4 Bot
+R 3702 2 -4 tle 
+R 3705 4 -4 full 
+R 3710 3 -4 of 
+R 3714 7 -4 bub 
+- 3720
+R 3720 3 -4 Look 
+R 3724 3 -4 Ma
+R 3728 4 -4 mi, 
+R 3734 3 -4 I 
+R 3738 3 -4 got 
+R 3742 3 -4 the 
+R 3746 4 -4 X 
+- 3751
+R 3752 2 -4 If 
+R 3755 2 -4 ya 
+R 3758 4 -4 in
+R 3766 3 -4 to 
+R 3770 3 -4 ta
+R 3774 3 -4 kin’ 
+R 3778 8 -4 drugs, 
+- 3788
+R 3790 3 -4 I’m 
+R 3794 3 -4 in
+R 3798 3 -4 to 
+R 3802 3 -4 ha
+R 3806 3 -4 vin’ 
+R 3810 4 -4 sex, 
+- 3816
+R 3818 3 -4 I 
+R 3822 3 -4 ain’t 
+R 3826 3 -4 in
+R 3830 3 -4 to 
+R 3834 3 -4 ma
+R 3838 3 -4 kin’ 
+R 3842 4 -4 love 
+- 3848
+R 3850 3 -4 So 
+R 3854 4 -4 come 
+R 3862 3 -4 give 
+R 3866 3 -4 me 
+R 3870 3 -4 a 
+R 3874 4 -4 hug 
+- 3879
+R 3880 2 -4 If 
+R 3883 2 -4 ya 
+R 3886 4 -4 in
+R 3892 3 -4 to 
+R 3896 3 -4 get
+R 3900 3 -4 tin’ 
+R 3904 4 -4 rubbed 
+E

@@ -1,0 +1,188 @@
+#ARTIST:Ian Brown
+#TITLE:Golden Gaze
+#MP3:Ian Brown - Golden Gaze.mp3
+#CREATOR:daggeg
+#YEAR:2000
+#LANGUAGE:English
+#BPM:382
+#GAP:41750
+#VIDEO:v=WpICP_naoX8,co=https://i.ibb.co/DGxxfG6/ibgg.jpg,bg=brown-ian-4fc0c527b7ae7.jpg
+: 0 7 12 Through 
+: 9 2 12 the 
+: 13 7 12 haze 
+: 22 2 11 of 
+: 25 2 9 the 
+: 28 8 12 smoke 
+: 39 2 11 in 
+: 43 2 9 the 
+: 46 6 12 room 
+- 53
+: 54 4 12 I 
+: 60 7 12 caught 
+: 69 5 9 your 
+: 76 9 12 gol
+: 86 3 9 den 
+* 91 4 7 gaze
+* 96 9 9 ~ 
+- 107
+: 126 5 11 Knew 
+: 133 3 11 these 
+: 138 3 9 were 
+: 143 4 11 bet
+: 148 4 9 ter 
+: 154 4 7 days
+: 159 10 9 ~ 
+- 171
+: 257 4 12 With 
+: 263 3 12 the 
+: 268 8 12 rays 
+* 278 2 11 of 
+* 281 2 9 the 
+* 284 7 12 sun 
+: 293 3 11 through 
+: 298 2 9 the 
+: 301 6 12 roof 
+- 309
+: 310 4 12 I 
+: 316 7 12 caught 
+: 325 5 9 your 
+: 332 9 12 gol
+: 342 3 9 den 
+: 347 4 7 gaze
+: 352 9 9 ~ 
+- 363
+: 383 4 11 Knew 
+: 388 4 11 these 
+: 395 3 9 were 
+: 400 4 11 bet
+: 405 4 9 ter 
+: 411 4 7 days
+: 416 9 9 ~ 
+- 427
+: 454 4 11 Your 
+: 460 10 12 gol
+: 471 3 9 den 
+: 476 4 7 gaze
+: 481 9 9 ~ 
+- 492
+* 1039 11 12 Star 
+* 1053 9 11 spang
+* 1063 4 9 led 
+: 1071 11 12 shades 
+: 1084 9 11 shade 
+: 1095 7 9 your 
+: 1104 10 12 eyes 
+- 1116
+: 1117 6 11 But 
+: 1127 6 9 could 
+: 1136 4 12 ne
+: 1141 4 11 ver 
+: 1148 8 9 hide 
+: 1158 5 7 your 
+: 1165 9 12 gol
+: 1175 3 7 den 
+: 1180 10 9 gaze 
+- 1192
+: 1296 8 12 Red 
+: 1311 5 11 sum
+: 1317 4 9 mer 
+: 1323 14 12 skies 
+: 1341 7 11 bright 
+: 1350 6 9 your 
+: 1360 9 12 smile 
+- 1371
+: 1377 4 11 And 
+: 1383 6 9 could 
+: 1392 3 12 ne
+: 1396 5 11 ver 
+: 1404 9 9 hide 
+* 1415 4 7 your 
+* 1421 10 12 gol
+* 1432 3 7 den 
+* 1438 11 9 gaze 
+- 1451
+: 1543 4 11 Your 
+: 1550 9 12 gol
+: 1560 3 9 den 
+: 1565 4 7 gaze
+: 1570 8 9 ~ 
+- 1580
+: 1671 4 11 Your 
+: 1678 9 12 gol
+: 1688 3 9 den 
+: 1693 4 7 gaze
+: 1698 9 9 ~ 
+- 1709
+: 1799 4 11 Your 
+: 1806 9 12 gol
+: 1816 3 9 den 
+: 1821 4 7 gaze
+: 1826 9 9 ~ 
+- 1837
+: 1927 4 11 Your 
+: 1934 9 12 gol
+: 1944 3 9 den 
+: 1949 4 7 gaze
+: 1954 9 9 ~ 
+- 1965
+: 2563 4 12 In 
+: 2568 2 12 the 
+* 2573 8 12 dawn 
+: 2583 2 11 of 
+: 2586 2 9 the 
+: 2589 7 12 morn
+: 2597 4 11 ing 
+: 2603 9 12 rain 
+- 2613
+: 2614 5 12 I 
+: 2621 6 11 caught 
+: 2629 6 9 your 
+: 2637 9 11 gol
+: 2647 3 9 den 
+: 2652 7 7 gaze
+: 2660 6 9 ~ 
+- 2668
+: 2695 4 11 Your 
+: 2702 9 12 gol
+: 2712 3 9 den 
+: 2717 4 7 gaze
+: 2722 9 9 ~ 
+- 2733
+: 2816 5 12 Through 
+: 2823 3 12 the 
+* 2828 9 12 haze 
+: 2839 1 11 of 
+: 2841 2 9 the 
+* 2844 8 12 smoke 
+: 2854 3 11 in 
+: 2859 2 9 the 
+: 2862 6 12 room 
+- 2870
+: 2871 3 12 I 
+: 2876 7 12 caught 
+: 2885 6 9 your 
+: 2893 9 12 gol
+: 2903 3 9 den 
+: 2908 4 7 gaze
+: 2913 10 9 ~ 
+- 2925
+: 2944 4 11 Knew 
+: 2950 4 11 these 
+: 2956 4 9 were 
+: 2962 3 11 bet
+: 2966 3 9 ter 
+: 2971 5 7 days
+: 2977 8 9 ~ 
+- 2987
+: 3014 4 11 Your 
+: 3021 9 12 gol
+: 3031 3 9 den 
+: 3036 4 7 gaze
+: 3041 9 9 ~ 
+- 3052
+* 3271 4 11 Your 
+* 3277 9 12 gol
+* 3287 3 9 den 
+* 3292 4 7 gaze
+* 3297 9 9 ~ 
+E

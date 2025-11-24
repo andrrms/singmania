@@ -1,0 +1,811 @@
+#ARTIST:Lady Gaga
+#TITLE:Scheiße
+#MP3:Lady Gaga - Scheiße.mp3
+#CREATOR:klops_007
+#GENRE:Electro Pop
+#YEAR:2011
+#LANGUAGE:English
+#BPM:262
+#GAP:490
+#VIDEO:a=_sNi9nIXxVo,co=born-this-way-5251bc3fb339b.jpg,bg=lady-gaga-4ddec6482ae79.jpg
+F 0 1 0 I 
+F 2 2 0 don’t 
+F 7 2 0 speak 
+F 12 2 0 Ger
+F 16 1 0 man 
+- 18
+F 18 1 0 But 
+F 20 2 0 I 
+F 24 2 0 can 
+F 27 2 0 if 
+F 30 1 0 you 
+F 33 8 0 like 
+- 43
+F 62 2 0 Ich 
+F 66 2 0 schle
+F 70 2 0 iban 
+F 74 2 0 aus
+F 78 1 0 ta 
+F 80 4 0 be 
+F 86 4 0 clair 
+- 92
+F 94 2 0 Es 
+F 98 2 0 kum
+F 102 2 0 pent 
+F 106 2 0 ma
+F 110 1 0 dre 
+F 112 4 0 mon
+F 118 6 0 stere 
+- 125
+F 126 2 0 A
+F 130 2 0 us 
+F 134 2 0 be 
+F 138 2 0 aus 
+F 142 1 0 can 
+F 144 4 0 be 
+F 150 2 0 flau
+F 154 2 0 gen 
+- 157
+F 158 1 0 Be
+F 160 2 0 gun 
+F 166 2 0 be 
+F 170 2 0 us
+F 174 1 0 ke 
+F 176 4 0 but 
+F 182 4 0 bair. 
+- 188
+F 190 2 0 Ich 
+F 194 2 0 schlei
+F 198 2 0 ban 
+F 202 2 0 aus
+F 206 1 0 ta 
+F 208 4 0 be 
+F 214 4 0 clair 
+- 220
+F 222 2 0 Es 
+F 226 2 0 kum
+F 230 2 0 pent 
+F 234 2 0 ma
+F 238 1 0 dre 
+F 240 4 0 mon
+F 246 4 0 stere 
+- 252
+F 254 2 0 A
+F 258 2 0 us 
+F 262 2 0 be 
+F 266 2 0 aus 
+F 270 1 0 can 
+F 272 2 0 be 
+F 278 2 0 flau
+F 282 2 0 gen 
+- 286
+F 290 2 0 Frau
+F 294 2 0 lein 
+F 298 2 0 us
+F 302 1 0 ke 
+F 304 2 0 be 
+F 310 4 0 clair 
+- 316
+F 318 2 0 Ich 
+F 322 2 0 schle
+F 326 2 0 iban 
+F 330 2 0 aus
+F 334 2 0 ta 
+F 338 2 0 be 
+F 342 4 0 clair 
+- 348
+F 350 2 0 Es 
+F 354 2 0 kum
+F 358 2 0 pent 
+F 362 2 0 ma
+F 366 1 0 dre 
+F 368 4 0 mon
+F 374 4 0 stere 
+- 380
+F 382 2 0 A
+F 386 2 0 us 
+F 390 2 0 be 
+F 394 2 0 aus 
+F 398 1 0 can 
+F 400 2 0 be 
+F 406 2 0 flau
+F 410 2 0 gen 
+- 413
+F 414 1 0 Be
+F 416 2 0 gun 
+F 422 2 0 be 
+F 426 2 0 us
+F 430 1 0 ke 
+F 432 2 0 but 
+F 438 4 0 bair. 
+- 444
+F 446 2 0 Ich 
+F 450 2 0 schlei
+F 454 2 0 ban 
+F 458 2 0 aus
+F 462 1 0 ta 
+F 464 4 0 be 
+F 470 4 0 clair 
+- 476
+F 478 2 0 Es 
+F 482 2 0 kum
+F 486 2 0 pent 
+F 490 2 0 ma
+F 494 1 0 dre 
+F 496 4 0 mon
+F 502 4 0 stere 
+- 508
+F 510 2 0 A
+F 514 2 0 us 
+F 518 2 0 be 
+F 522 2 0 aus 
+F 526 1 0 can 
+F 528 2 0 be 
+F 534 2 0 flau
+F 538 2 0 gen 
+- 542
+F 546 2 0 Frau
+F 550 2 0 lein 
+F 554 2 0 us
+F 558 1 0 ke 
+F 560 2 0 be 
+F 566 4 0 clair 
+- 572
+F 574 2 0 Ich 
+F 578 2 0 schle
+F 582 2 0 iban 
+F 586 2 0 aus
+F 590 2 0 ta 
+F 594 2 0 be 
+F 598 4 0 clair 
+- 604
+F 606 2 0 Es 
+F 610 2 0 kum
+F 614 2 0 pent 
+F 618 2 0 ma
+F 622 1 0 dre 
+F 624 4 0 mon
+F 630 4 0 stere 
+- 636
+F 638 2 0 A
+F 642 2 0 us 
+F 646 2 0 be 
+F 650 2 0 aus 
+F 654 1 0 can 
+F 656 2 0 be 
+F 662 2 0 flau
+F 666 2 0 gen 
+- 669
+F 670 1 0 Be
+F 672 2 0 gun 
+F 678 2 0 be 
+F 682 2 0 us
+F 686 1 0 ke 
+F 688 2 0 but 
+F 694 4 0 bair. 
+- 700
+F 702 2 0 Ich 
+F 706 2 0 schlei
+F 710 2 0 ban 
+F 714 2 0 aus
+F 718 1 0 ta 
+F 720 4 0 be 
+F 726 4 0 clair 
+- 732
+F 734 2 0 Es 
+F 738 2 0 kum
+F 742 2 0 pent 
+F 746 2 0 ma
+F 750 1 0 dre 
+F 752 4 0 mon
+F 758 4 0 stere 
+- 764
+F 766 2 0 A
+F 770 2 0 us 
+F 774 2 0 be 
+F 778 2 0 aus 
+F 782 1 0 can 
+F 784 2 0 be 
+F 790 2 0 flau
+F 794 2 0 gen 
+- 798
+F 802 2 0 Frau
+F 806 2 0 lein 
+F 810 2 0 us
+F 814 1 0 ke 
+F 816 2 0 be 
+F 822 4 0 clair 
+- 828
+: 830 2 0 I’ll 
+: 834 2 3 take 
+: 838 2 0 you 
+: 842 4 3 out 
+: 848 2 0 to
+: 854 6 3 night 
+- 861
+: 862 2 -2 Say 
+: 866 2 0 what
+: 870 2 -2 e
+: 874 4 0 ver 
+: 880 4 0 you 
+: 886 4 -7 like. 
+- 892
+: 894 2 -2 Schei
+: 898 2 0 ße 
+: 902 2 -2 Schei
+: 906 4 0 ße 
+: 912 4 0 be 
+: 918 6 3 mine 
+- 925
+: 926 2 -2 Schei
+: 930 2 0 ße 
+: 934 1 0 be 
+: 936 4 -7 mine 
+- 942
+: 958 2 0 Put 
+: 962 2 3 on 
+: 966 2 0 a 
+: 970 4 3 show 
+: 976 4 0 to
+: 982 6 3 night 
+- 989
+: 990 2 -2 Do 
+: 994 2 0 what
+: 998 2 -2 e
+: 1002 4 0 ver 
+: 1008 4 0 you 
+: 1014 1 -4 like.
+: 1016 4 -2 ~ 
+- 1021
+: 1022 2 0 Schei
+: 1026 2 0 ße 
+: 1030 2 -2 Schei
+: 1034 4 0 ße 
+: 1040 4 0 be 
+: 1046 6 3 mine 
+- 1053
+: 1054 2 -2 Schei
+: 1058 2 0 ße 
+: 1062 1 0 be 
+: 1064 4 -7 mine 
+- 1070
+F 1102 1 0 When 
+F 1104 2 0 I’m 
+F 1108 2 0 on 
+F 1112 1 0 a 
+F 1114 2 0 mis
+F 1118 4 0 sion 
+- 1124
+F 1134 1 0 I 
+F 1136 1 0 re
+F 1138 1 0 buke 
+F 1141 2 0 
+F 1144 1 0 my 
+F 1146 2 0 con
+F 1150 2 0 di
+F 1154 4 0 tion. 
+- 1160
+F 1166 2 0 If 
+F 1169 2 0 you’re 
+F 1172 1 0 a 
+F 1174 2 0 strong 
+F 1180 2 0 fe
+F 1184 4 0 male 
+- 1190
+F 1198 1 0 You 
+F 1200 1 0 don’t 
+F 1202 2 0 need 
+F 1206 1 0 per
+F 1208 2 0 mis
+F 1211 4 0 sion. 
+- 1217
+: 1238 2 9 I 
+: 1242 1 9 wish 
+: 1244 1 9 that 
+: 1246 2 9 I 
+: 1250 2 9 could 
+: 1254 2 9 dance
+: 1258 6 8 ~ 
+- 1265
+: 1266 2 4 On 
+: 1270 2 4 a 
+: 1274 2 4 sin
+: 1278 2 6 gle 
+: 1282 2 4 pra
+: 1286 4 6 yer. 
+- 1292
+: 1302 2 8 I 
+: 1306 1 8 wish 
+: 1308 1 8 I 
+: 1310 2 8 could 
+: 1314 2 8 be 
+: 1318 2 13 strong
+: 1322 2 10 ~ 
+- 1325
+: 1326 2 10 With
+: 1330 2 10 out 
+: 1334 2 8 some
+: 1338 2 10 bo
+: 1342 2 13 dy 
+: 1346 2 6 there.
+: 1350 4 4 ~ 
+- 1356
+: 1366 2 9 I 
+: 1370 1 9 wish 
+: 1372 1 9 that 
+: 1374 2 9 I 
+: 1378 2 9 could 
+: 1382 2 9 dance
+: 1386 6 8 ~ 
+- 1393
+: 1394 2 4 On 
+: 1398 2 4 a 
+: 1402 2 4 sin
+: 1406 4 6 gle 
+: 1414 2 4 pra
+: 1418 4 6 yer. 
+- 1424
+: 1430 2 8 I 
+: 1434 1 8 wish 
+: 1436 1 8 I 
+: 1438 2 8 could 
+: 1442 2 8 be 
+: 1446 2 13 strong
+: 1450 2 10 ~ 
+- 1453
+: 1454 2 10 With
+: 1458 2 10 out 
+: 1462 2 8 the 
+: 1466 2 10 Schei
+: 1470 2 13 ße 
+: 1474 2 6 yeah
+: 1478 2 4 ~ 
+- 1482
+: 1518 2 10 With
+: 1522 2 10 out 
+: 1526 2 8 the 
+: 1530 2 10 Schei
+: 1534 2 13 ße 
+: 1538 2 6 yeah
+: 1542 2 4 ~ 
+- 1546
+: 1582 2 10 With
+: 1586 2 10 out 
+: 1590 2 8 the 
+: 1594 2 10 Schei
+: 1598 2 13 ße 
+: 1602 2 6 yeah
+: 1606 2 4 ~ 
+- 1610
+: 1646 2 10 With
+: 1650 2 10 out 
+: 1654 2 8 the 
+: 1658 2 10 Schei
+: 1662 2 13 ße 
+: 1666 2 6 yeah
+: 1670 2 4 ~ 
+- 1674
+: 1710 2 10 With
+: 1714 2 10 out 
+: 1718 2 8 the 
+- 1722
+F 1726 2 0 Ich 
+F 1730 2 0 schle
+F 1734 2 0 iban 
+F 1738 2 0 aus
+F 1742 1 0 ta 
+F 1744 4 0 be 
+F 1750 4 0 clair 
+- 1756
+F 1758 2 0 Es 
+F 1762 2 0 kum
+F 1766 2 0 pent 
+F 1770 2 0 ma
+F 1774 1 0 dre 
+F 1776 4 0 mon
+F 1782 4 0 stere 
+- 1788
+F 1790 2 0 A
+F 1794 2 0 us 
+F 1798 2 0 be 
+F 1802 2 0 aus 
+F 1806 1 0 can 
+F 1808 2 0 be 
+F 1814 2 0 flau
+F 1818 2 0 gen 
+- 1821
+F 1822 1 0 Be
+F 1824 2 0 gun 
+F 1830 2 0 be 
+F 1834 2 0 us
+F 1838 1 0 ke 
+F 1840 2 0 but 
+F 1846 4 0 bair. 
+- 1852
+F 1854 2 0 Ich 
+F 1858 2 0 schlei
+F 1862 2 0 ban 
+F 1866 2 0 aus
+F 1870 1 0 ta 
+F 1872 4 0 be 
+F 1878 4 0 clair 
+- 1884
+F 1886 2 0 Es 
+F 1890 2 0 kum
+F 1894 2 0 pent 
+F 1898 2 0 ma
+F 1902 1 0 dre 
+F 1904 4 0 mon
+F 1910 4 0 stere 
+- 1916
+F 1918 2 0 A
+F 1922 2 0 us 
+F 1926 2 0 be 
+F 1930 2 0 aus 
+F 1934 1 0 can 
+F 1936 2 0 be 
+F 1942 2 0 flau
+F 1946 2 0 gen 
+- 1950
+F 1954 2 0 Frau
+F 1958 2 0 lein 
+F 1962 2 0 us
+F 1966 1 0 ke 
+F 1968 2 0 be 
+F 1974 4 0 clair 
+- 1980
+: 1982 2 0 Love 
+: 1986 2 3 is 
+: 1990 2 0 ob
+: 1994 4 3 jec
+: 2000 4 0 ti
+: 2006 6 3 fied 
+- 2013
+: 2014 2 -2 By 
+: 2018 2 0 what 
+: 2022 2 -2 men 
+: 2026 4 0 say 
+: 2032 4 0 is 
+: 2038 6 -7 right 
+- 2045
+: 2046 2 -2 Schei
+: 2050 2 0 ße 
+: 2054 2 -2 Schei
+: 2058 4 0 ße 
+: 2064 4 0 be 
+: 2070 6 3 mine 
+- 2077
+: 2078 2 -2 No 
+: 2082 2 0 s**t 
+: 2086 1 0 be 
+: 2088 4 -7 mine 
+- 2094
+: 2110 2 0 Blonde 
+: 2114 2 3 high 
+: 2118 2 0 heeled 
+: 2122 4 3 fe
+: 2128 4 0 mi
+: 2134 4 3 nist 
+- 2140
+: 2142 2 -2 En
+: 2146 2 0 list
+: 2150 2 -2 ing 
+: 2154 4 0 femmes 
+: 2160 4 0 for 
+: 2166 4 -2 this 
+- 2172
+: 2174 2 -2 Ex
+: 2178 2 0 press 
+: 2182 2 -2 your 
+: 2186 4 0 wo
+: 2192 4 0 men 
+: 2198 4 3 kind 
+- 2204
+: 2206 2 -2 Fight 
+: 2210 2 0 for 
+: 2214 1 0 your 
+: 2216 4 -7 rights 
+- 2222
+F 2254 1 0 When 
+F 2256 2 0 I’m 
+F 2260 2 0 on 
+F 2264 1 0 a 
+F 2266 2 0 mis
+F 2270 4 0 sion 
+- 2276
+F 2286 1 0 I 
+F 2288 1 0 re
+F 2290 1 0 buke 
+F 2293 2 0 
+F 2296 1 0 my 
+F 2298 2 0 con
+F 2302 2 0 di
+F 2306 4 0 tion. 
+- 2312
+F 2318 2 0 If 
+F 2321 2 0 you’re 
+F 2324 1 0 a 
+F 2326 2 0 strong 
+F 2332 2 0 fe
+F 2336 4 0 male 
+- 2342
+F 2350 1 0 You 
+F 2352 1 0 don’t 
+F 2354 2 0 need 
+F 2358 1 0 per
+F 2360 2 0 mis
+F 2363 4 0 sion. 
+- 2369
+: 2390 2 9 I 
+: 2394 1 9 wish 
+: 2396 1 9 that 
+: 2398 2 9 I 
+: 2402 2 9 could 
+: 2406 2 9 dance
+: 2410 6 8 ~ 
+- 2417
+: 2418 2 4 On 
+: 2422 2 4 a 
+: 2426 2 4 sin
+: 2430 2 6 gle 
+: 2434 2 4 pra
+: 2438 4 6 yer. 
+- 2444
+: 2454 2 8 I 
+: 2458 1 8 wish 
+: 2460 1 8 I 
+: 2462 2 8 could 
+: 2466 2 8 be 
+: 2470 2 13 strong
+: 2474 2 10 ~ 
+- 2477
+: 2478 2 10 With
+: 2482 2 10 out 
+: 2486 2 8 some
+: 2490 2 10 bo
+: 2494 2 13 dy 
+: 2498 2 6 there.
+: 2502 4 4 ~ 
+- 2508
+: 2518 2 9 I 
+: 2522 1 9 wish 
+: 2524 1 9 that 
+: 2526 2 9 I 
+: 2530 2 9 could 
+: 2534 2 9 dance
+: 2538 6 8 ~ 
+- 2545
+: 2546 2 4 On 
+: 2550 2 4 a 
+: 2554 2 4 sin
+: 2558 4 6 gle 
+: 2566 2 4 pra
+: 2570 4 6 yer. 
+- 2576
+: 2582 2 8 I 
+: 2586 1 8 wish 
+: 2588 1 8 I 
+: 2590 2 8 could 
+: 2594 2 8 be 
+: 2598 2 13 strong
+: 2602 2 10 ~ 
+- 2605
+: 2606 2 10 With
+: 2610 2 10 out 
+: 2614 2 8 the 
+: 2618 2 10 Schei
+: 2622 2 13 ße 
+: 2626 2 6 yeah
+: 2630 2 4 ~ 
+- 2634
+: 2670 2 10 With
+: 2674 2 10 out 
+: 2678 2 8 the 
+: 2682 2 10 Schei
+: 2686 2 13 ße 
+: 2690 2 6 yeah
+: 2694 2 4 ~ 
+- 2698
+: 2734 2 10 With
+: 2738 2 10 out 
+: 2742 2 8 the 
+: 2746 2 10 Schei
+: 2750 2 13 ße 
+: 2754 2 6 yeah
+: 2758 2 4 ~ 
+- 2762
+: 2798 2 10 With
+: 2802 2 10 out 
+: 2806 2 8 the 
+: 2810 2 10 Schei
+: 2814 2 13 ße 
+: 2818 2 6 yeah
+: 2822 2 4 ~ 
+- 2826
+: 2862 2 10 With
+: 2866 2 10 out 
+: 2870 2 8 the 
+: 2874 2 10 Schei
+: 2878 2 13 ße 
+: 2882 2 6 yeah
+: 2886 2 4 ~ 
+- 2890
+F 2934 6 0 I 
+F 2942 3 0 speak 
+F 2946 2 0 Ger
+F 2950 2 0 man 
+- 2954
+F 2989 1 0 But 
+F 2991 1 0 I 
+F 2993 2 0 can 
+F 2997 1 0 if 
+F 2999 1 0 you 
+F 3003 6 0 like 
+- 3011
+F 3062 6 0 I 
+F 3070 3 0 speak 
+F 3074 2 0 Ger
+F 3078 2 0 man 
+- 3082
+F 3116 1 0 But 
+F 3118 1 0 I 
+F 3120 2 0 can 
+F 3124 1 0 if 
+F 3126 1 0 you 
+F 3130 11 0 like 
+- 3143
+: 3158 2 9 I 
+: 3162 1 9 wish 
+: 3164 1 9 that 
+: 3166 2 9 I 
+: 3170 2 9 could 
+: 3174 2 9 dance
+: 3178 6 8 ~ 
+- 3185
+: 3186 2 4 On 
+: 3190 2 4 a 
+: 3194 2 4 sin
+: 3198 2 6 gle 
+: 3202 2 4 pra
+: 3206 4 6 yer. 
+- 3212
+: 3222 2 8 I 
+: 3226 1 8 wish 
+: 3228 1 8 I 
+: 3230 2 8 could 
+: 3234 2 8 be 
+: 3238 2 13 strong
+: 3242 2 10 ~ 
+- 3245
+: 3246 2 10 With
+: 3250 2 10 out 
+: 3254 2 8 some
+: 3258 2 10 bo
+: 3262 2 13 dy 
+: 3266 2 6 there.
+: 3270 4 4 ~ 
+- 3276
+: 3286 2 9 I 
+: 3290 1 9 wish 
+: 3292 1 9 that 
+: 3294 2 9 I 
+: 3298 2 9 could 
+: 3302 2 9 dance
+: 3306 6 8 ~ 
+- 3313
+: 3314 2 4 On 
+: 3318 2 4 a 
+: 3322 2 4 sin
+: 3326 4 6 gle 
+: 3334 2 4 pra
+: 3338 4 6 yer. 
+- 3344
+: 3350 2 8 I 
+: 3354 1 8 wish 
+: 3356 1 8 I 
+: 3358 2 8 could 
+: 3362 2 8 be 
+: 3366 2 13 strong
+: 3370 2 10 ~ 
+- 3373
+: 3374 2 10 With
+: 3378 2 10 out 
+: 3382 2 8 the 
+: 3386 2 10 Schei
+: 3390 2 13 ße 
+: 3394 2 6 yeah
+: 3398 2 4 ~ 
+- 3402
+: 3438 2 10 With
+: 3442 2 10 out 
+: 3446 2 8 the 
+: 3450 2 10 Schei
+: 3454 2 13 ße 
+: 3458 2 6 yeah
+: 3462 2 4 ~ 
+- 3466
+: 3502 2 10 With
+: 3506 2 10 out 
+: 3510 2 8 the 
+: 3514 2 10 Schei
+: 3518 2 13 ße 
+: 3522 2 6 yeah
+: 3526 2 4 ~ 
+- 3530
+: 3566 2 10 With
+: 3570 2 10 out 
+: 3574 2 8 the 
+: 3578 2 10 Schei
+: 3582 2 13 ße 
+: 3586 2 6 yeah
+: 3590 2 4 ~ 
+- 3594
+: 3630 2 10 With
+: 3634 2 10 out 
+: 3638 2 8 the 
+- 3642
+F 3646 2 0 Ich 
+F 3650 2 0 schle
+F 3654 2 0 iban 
+F 3658 2 0 aus
+F 3662 2 0 ta 
+F 3666 2 0 be 
+F 3670 4 0 clair 
+- 3676
+F 3678 2 0 Es 
+F 3682 2 0 kum
+F 3686 2 0 pent 
+F 3690 2 0 ma
+F 3694 1 0 dre 
+F 3696 4 0 mon
+F 3702 4 0 stere 
+- 3708
+F 3710 2 0 A
+F 3714 2 0 us 
+F 3718 2 0 be 
+F 3722 2 0 aus 
+F 3726 1 0 can 
+F 3728 2 0 be 
+F 3734 2 0 flau
+F 3738 2 0 gen 
+- 3741
+F 3742 1 0 Be
+F 3744 2 0 gun 
+F 3750 2 0 be 
+F 3754 2 0 us
+F 3758 1 0 ke 
+F 3760 2 0 but 
+F 3766 4 0 bair. 
+- 3772
+F 3774 2 0 Ich 
+F 3778 2 0 schlei
+F 3782 2 0 ban 
+F 3786 2 0 aus
+F 3790 1 0 ta 
+F 3792 4 0 be 
+F 3798 4 0 clair 
+- 3804
+F 3806 2 0 Es 
+F 3810 2 0 kum
+F 3814 2 0 pent 
+F 3818 2 0 ma
+F 3822 1 0 dre 
+F 3824 4 0 mon
+F 3830 4 0 stere 
+- 3836
+F 3838 2 0 A
+F 3842 2 0 us 
+F 3846 2 0 be 
+F 3850 2 0 aus 
+F 3854 1 0 can 
+F 3856 2 0 be 
+F 3862 2 0 flau
+F 3866 2 0 gen 
+- 3870
+F 3874 2 0 Frau
+F 3878 2 0 lein 
+F 3882 2 0 us
+F 3886 1 0 ke 
+F 3888 2 0 be 
+F 3894 4 0 clair 
+E

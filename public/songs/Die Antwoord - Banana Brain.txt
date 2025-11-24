@@ -1,0 +1,770 @@
+#ARTIST:Die Antwoord
+#TITLE:Banana Brain
+#MP3:Die Antwoord - Banana Brain.mp3
+#CREATOR:Jesposo
+#GENRE:Hip-Hop
+#YEAR:2016
+#LANGUAGE:English
+#BPM:299.93
+#GAP:79000
+#VIDEO:v=XXlZfc1TrD0,co=mount-ninji-and-da-nice-time-kid-5ba56f6481388.jpg,bg=antwoord-die-514109e9e1acf.jpg
+: 0 2 0 Ba
+: 4 2 0 na
+: 8 2 0 na 
+: 12 3 0 brains, 
+: 18 3 0 you’re 
+: 24 3 1 the 
+: 31 4 1 ap
+: 38 6 1 ple 
+: 47 3 1 of 
+: 52 5 3 my 
+: 60 9 0 eye 
+- 71
+: 91 7 0 Stay 
+: 103 4 -2 with 
+: 111 5 -4 me 
+: 119 2 -4 to
+: 122 7 -4 night 
+- 131
+: 133 2 -4 ’Cause 
+: 136 2 -4 I’m 
+: 139 4 -4 ha
+: 144 4 -4 ving 
+: 151 5 0 the 
+: 160 4 -2 best 
+: 168 4 0 time 
+: 176 3 -4 of 
+: 180 4 0 my 
+: 188 17 -7 life 
+- 207
+: 256 2 0 Ba
+: 259 2 0 na
+: 263 2 0 na 
+: 267 4 0 brains, 
+: 274 3 0 you’re 
+: 280 3 1 the 
+: 287 4 1 ap
+: 295 4 1 ple 
+: 303 2 1 of 
+: 308 5 3 my 
+: 316 3 3 eye
+: 320 20 0 ~ 
+- 342
+: 347 8 0 Stay 
+: 359 4 -2 with 
+: 367 4 -4 me 
+: 375 2 -4 to
+: 379 6 -4 night 
+- 386
+: 387 2 -4 ’Cause 
+: 391 2 -4 I’m 
+: 395 3 -4 ha
+: 400 3 -4 ving 
+: 407 4 0 the 
+: 416 5 -4 best 
+: 424 6 0 time 
+: 432 2 -4 of 
+: 435 6 0 my 
+: 443 22 -7 life 
+- 467
+: 475 5 2 Made 
+: 483 4 -1 by 
+: 492 6 4 God 
+- 500
+: 1212 18 1 Nin
+: 1233 33 -3 ji 
+- 1268
+F 1275 3 0 Ba
+F 1280 2 0 by 
+F 1284 5 0 girl, 
+F 1291 2 0 you’re 
+F 1295 3 0 so 
+F 1299 4 0 fine 
+- 1305
+F 1308 2 0 So, 
+F 1312 2 0 so 
+F 1315 4 0 fine, 
+F 1320 2 0 you 
+F 1323 3 0 blow 
+F 1327 3 0 my 
+F 1331 6 0 mind 
+- 1339
+F 1340 2 0 Look 
+F 1343 3 0 at 
+F 1348 4 0 you, 
+F 1355 3 0 coo
+F 1359 2 0 chie 
+F 1363 4 0 coo 
+- 1369
+F 1371 2 0 Jui
+F 1375 2 0 cy, 
+F 1379 2 0 tus
+F 1383 2 0 hy, 
+F 1387 2 0 gus
+F 1391 3 0 hy, 
+F 1395 4 0 goo 
+- 1401
+F 1404 2 0 Boo
+F 1407 3 0 bie 
+F 1411 5 0 one, 
+F 1419 3 0 boo
+F 1423 2 0 bie 
+F 1427 5 0 two 
+- 1434
+F 1435 2 0 Boun
+F 1439 2 0 cing 
+F 1443 3 0 like 
+F 1447 3 0 a 
+F 1451 3 0 Loo
+F 1455 3 0 ney 
+F 1459 4 0 Tune 
+- 1465
+F 1467 3 0 Boo
+F 1471 2 0 ty 
+F 1475 3 0 boo
+F 1479 3 0 min’, 
+F 1483 3 0 coo
+F 1487 3 0 kie 
+F 1492 5 0 juice 
+- 1498
+F 1499 3 0 Gu
+F 1503 2 0 shin’ 
+F 1507 3 0 out 
+F 1511 2 0 your 
+F 1515 3 0 coo
+F 1519 2 0 chie, 
+F 1523 3 0 boo 
+- 1528
+F 1531 2 0 You’re 
+F 1535 2 0 so 
+F 1539 2 0 cute, 
+F 1542 3 0 like 
+F 1547 2 0 Pi
+F 1550 3 0 ka
+F 1555 4 0 chu 
+- 1561
+F 1563 2 0 Ain’t 
+F 1566 4 0 no 
+F 1571 2 0 one 
+F 1574 3 0 so 
+F 1578 3 0 sweet 
+F 1583 2 0 like 
+F 1587 2 0 you 
+- 1591
+F 1592 2 0 I 
+F 1595 3 0 whist
+F 1599 2 0 le 
+F 1603 2 0 then 
+F 1607 2 0 you 
+F 1610 3 0 sneak 
+F 1615 3 0 in
+F 1620 2 0 to 
+- 1623
+F 1623 3 0 My 
+F 1627 3 0 lone
+F 1631 2 0 ly 
+F 1635 3 0 heart 
+F 1639 2 0 like 
+F 1644 1 0 peek~
+F 1647 2 0 a~
+F 1651 2 0 boo 
+- 1654
+F 1655 3 0 Now 
+F 1659 3 0 eve
+F 1663 2 0 ry 
+F 1667 2 0 time 
+F 1671 2 0 I 
+F 1675 2 0 think 
+F 1679 2 0 of 
+F 1683 2 0 you 
+F 1687 2 0 not 
+F 1691 2 0 by 
+F 1695 2 0 my 
+F 1699 2 0 side 
+F 1703 2 0 I 
+F 1707 2 0 dry 
+F 1712 2 0 my 
+F 1716 4 0 eyes 
+- 1722
+F 1723 3 0 Just 
+F 1727 3 0 wan
+F 1731 2 0 na 
+F 1735 2 0 sing 
+F 1739 3 0 lull
+F 1743 2 0 ab
+F 1747 6 0 ies 
+F 1756 2 0 to 
+F 1759 2 0 my 
+F 1762 3 0 lit
+F 1767 2 0 tle 
+F 1771 3 0 but
+F 1775 2 0 ter
+F 1779 9 0 fly 
+- 1790
+: 1791 3 0 Ba
+: 1795 3 0 na
+: 1799 2 0 na 
+: 1803 4 0 brains, 
+: 1810 2 0 you’re 
+: 1815 4 1 the 
+: 1823 6 1 ap
+: 1831 5 1 ple 
+: 1838 3 1 of 
+: 1843 6 3 my 
+: 1852 19 0 eye 
+- 1873
+: 1883 8 0 Stay 
+: 1895 4 -2 with 
+: 1903 4 -4 me 
+: 1910 3 -4 to
+: 1914 4 -4 night 
+- 1920
+: 1923 2 -4 ’Cause 
+: 1928 2 -4 I’m 
+: 1931 3 -4 ha
+: 1935 2 -4 ving 
+: 1943 3 0 the 
+: 1951 4 -4 best 
+: 1959 5 0 time 
+: 1967 2 -4 of 
+: 1971 4 0 my 
+: 1979 25 -7 life 
+- 2006
+: 2047 2 0 Ba
+: 2051 2 0 na
+: 2055 2 0 na 
+: 2059 4 0 brains, 
+: 2066 2 0 you’re 
+: 2071 5 1 the 
+: 2079 4 1 ap
+: 2086 4 1 ple 
+: 2094 2 1 of 
+: 2099 6 3 my 
+: 2107 3 3 eye
+: 2111 20 0 ~ 
+- 2133
+: 2139 8 0 Stay 
+: 2151 4 -2 with 
+: 2159 4 -4 me 
+: 2166 2 -4 to
+: 2170 4 -4 night 
+- 2176
+: 2179 2 -4 ’Cause 
+: 2183 2 -4 I’m 
+: 2187 3 -4 ha
+: 2191 2 -4 ving 
+: 2199 3 0 the 
+: 2207 4 -4 best 
+: 2215 6 0 time 
+: 2223 2 -4 of 
+: 2227 4 0 my 
+: 2235 26 -7 life 
+- 2263
+F 2287 3 0 Turn 
+F 2291 5 0 up! 
+- 2298
+: 2303 2 0 Ba
+: 2306 2 0 na
+: 2310 3 0 na 
+: 2315 4 0 brains, 
+: 2321 3 0 you’re 
+: 2327 3 1 the 
+: 2335 4 1 ap
+: 2342 4 1 ple 
+: 2350 3 1 of 
+: 2355 4 3 my
+: 2360 3 0 ~ 
+: 2366 12 0 eye 
+- 2380
+: 2394 7 0 Stay 
+: 2406 5 -2 with 
+: 2415 5 -4 me 
+: 2422 2 -4 to
+: 2426 6 -4 night 
+- 2434
+: 2435 2 -4 ’Cause 
+: 2439 2 -4 I’m 
+: 2443 2 -4 ha
+: 2447 3 -4 ving 
+: 2455 3 0 the 
+: 2463 4 -4 best 
+: 2471 4 0 time 
+: 2479 2 -4 of 
+: 2483 6 0 my 
+: 2491 24 -7 life 
+- 2517
+: 2559 2 0 Ba
+: 2563 2 0 na
+: 2567 2 0 na 
+: 2571 4 0 brains, 
+: 2578 3 0 you’re 
+: 2583 3 1 the 
+: 2591 5 1 ap
+: 2598 4 1 ple 
+: 2606 2 1 of 
+: 2611 5 3 my 
+: 2619 4 3 eye
+: 2624 19 0 ~ 
+- 2645
+: 2650 7 0 Stay 
+: 2662 4 -2 with 
+: 2671 4 -4 me 
+: 2678 2 -4 to
+: 2682 4 -4 night 
+- 2688
+: 2691 2 -4 ’Cause 
+: 2695 2 -4 I’m 
+: 2699 2 -4 ha
+: 2703 3 -4 ving 
+: 2711 4 0 the 
+: 2719 4 -4 best 
+: 2727 4 0 time 
+: 2735 2 -4 of 
+: 2738 6 0 my 
+: 2747 26 -7 life 
+- 2775
+F 3067 2 0 Ba
+F 3070 2 0 by 
+F 3075 5 0 boy, 
+F 3083 2 0 you 
+F 3087 2 0 so 
+F 3091 7 0 cool 
+- 3099
+F 3099 2 0 How 
+F 3103 2 0 can 
+F 3107 2 0 I 
+F 3110 3 0 stay 
+F 3114 3 0 mad 
+F 3119 2 0 at 
+F 3123 4 0 you? 
+- 3129
+F 3131 2 0 I 
+F 3135 2 0 love 
+F 3139 2 0 you 
+F 3143 2 0 and 
+F 3147 3 0 that’s 
+F 3151 2 0 the 
+F 3155 6 0 truth 
+- 3162
+F 3163 2 0 You 
+F 3167 2 0 so 
+F 3171 3 0 sil
+F 3175 2 0 ly, 
+F 3179 2 0 you 
+F 3182 2 0 so 
+F 3187 9 0 stup
+F 3199 5 0 id 
+- 3206
+F 3212 2 0 You 
+F 3215 2 0 the 
+F 3219 4 0 best 
+- 3225
+F 3228 2 0 I 
+F 3231 2 0 ne
+F 3235 2 0 ver 
+F 3239 2 0 want 
+F 3243 2 0 you 
+F 3246 2 0 to 
+F 3249 3 0 stress 
+- 3254
+F 3255 1 0 Eve
+F 3257 1 0 ry
+F 3259 2 0 thing 
+F 3263 1 0 gon
+F 3265 1 0 na 
+F 3267 2 0 be 
+F 3271 2 0 cool 
+- 3274
+F 3275 2 0 Wait 
+F 3279 1 0 and 
+F 3283 2 0 see 
+- 3286
+F 3287 2 0 Just 
+F 3290 2 0 hold 
+F 3294 2 0 my 
+F 3297 4 0 hand 
+F 3303 1 0 and 
+F 3306 3 0 stay 
+F 3310 2 0 with 
+F 3313 3 0 me 
+- 3317
+F 3317 2 0 B~
+F 3320 2 0 B~
+F 3323 2 0 Ba
+F 3326 1 0 by 
+F 3328 2 0 girl, 
+F 3332 1 0 you 
+F 3334 3 0 been 
+F 3338 3 0 there 
+F 3342 1 0 for 
+F 3345 2 0 me 
+- 3349
+F 3350 3 0 Through 
+F 3355 1 0 thick 
+F 3358 1 0 and 
+F 3360 2 0 thin 
+F 3363 1 0 with 
+F 3366 3 0 cool 
+F 3370 2 0 e
+F 3373 2 0 ner
+F 3376 3 0 gy 
+- 3381
+F 3385 1 0 You 
+F 3387 2 0 cared 
+F 3390 2 0 for 
+F 3393 2 0 me, 
+F 3396 2 0 yeah, 
+F 3400 1 0 de
+F 3403 2 0 fen
+F 3406 1 0 ded 
+F 3408 2 0 me 
+- 3412
+F 3413 2 0 Helped 
+F 3416 1 0 me 
+F 3418 2 0 de
+F 3421 2 0 feat 
+F 3425 1 0 my 
+F 3427 2 0 e
+F 3431 2 0 ~
+F 3435 2 0 ~
+F 3438 1 0 ne
+F 3440 3 0 mies 
+- 3445
+F 3452 2 0 Life’s 
+F 3457 2 0 weird 
+F 3460 1 0 it 
+F 3463 1 0 keeps 
+F 3467 3 0 tes
+F 3471 1 0 ting 
+F 3474 1 0 me 
+- 3476
+F 3477 1 0 No 
+F 3479 1 0 o
+F 3481 1 0 ther 
+F 3483 3 0 girl 
+F 3487 1 0 in 
+F 3489 1 0 the 
+F 3491 3 0 world 
+F 3496 2 0 im
+F 3499 2 0 pres
+F 3502 2 0 sing 
+F 3506 1 0 me 
+- 3508
+F 3508 1 0 You 
+F 3510 3 0 like 
+F 3515 1 0 Yu
+F 3517 1 0 du, 
+F 3519 2 0 you 
+F 3522 3 0 voo
+F 3526 1 0 doo 
+F 3530 2 0 fresh 
+F 3534 1 0 to 
+F 3536 2 0 me 
+- 3539
+F 3540 2 0 You 
+F 3543 2 0 just 
+F 3547 1 0 wan
+F 3549 1 0 na 
+F 3551 2 0 be 
+F 3554 2 0 dif
+F 3557 1 0 fe
+F 3559 1 0 rent 
+- 3560
+F 3560 1 0 Get 
+F 3562 1 0 the 
+F 3564 1 0 best 
+F 3566 1 0 of 
+F 3568 2 0 me 
+- 3572
+F 3575 1 0 It 
+F 3577 1 0 was 
+F 3579 1 0 meant 
+F 3582 1 0 to 
+F 3586 1 0 be 
+- 3589
+F 3590 1 0 You 
+F 3592 1 0 were 
+F 3594 2 0 sent 
+F 3599 1 0 to 
+F 3601 2 0 me 
+- 3605
+F 3611 1 0 You 
+F 3613 1 0 and 
+F 3615 2 0 me 
+F 3618 2 0 got 
+F 3622 2 0 wild 
+F 3627 2 0 de
+F 3630 1 0 sti
+F 3633 2 0 ny 
+- 3636
+F 3637 1 0 You’re 
+F 3639 1 0 like 
+F 3641 1 0 a 
+F 3643 1 0 lit
+F 3645 1 0 tle 
+F 3647 2 0 an
+F 3650 1 0 gel 
+F 3652 1 0 won’t 
+F 3654 1 0 e
+F 3656 2 0 ver 
+F 3659 2 0 pres
+F 3662 2 0 sure 
+F 3665 3 0 me 
+- 3670
+F 3671 1 0 E
+F 3673 1 0 ~
+F 3675 1 0 ~ve
+F 3677 1 0 ry
+F 3679 1 0 thing 
+F 3681 1 0 you 
+F 3683 1 0 do 
+F 3685 1 0 is 
+F 3687 2 0 so 
+F 3690 3 0 Zef 
+F 3694 2 0 to 
+F 3697 4 0 me 
+- 3703
+F 3706 1 0 I 
+F 3708 1 0 love 
+F 3710 1 0 it 
+F 3712 2 0 that 
+F 3715 2 0 you 
+F 3718 3 0 best 
+F 3722 3 0 friends 
+F 3726 1 0 with 
+F 3728 4 0 me 
+- 3734
+F 3735 2 0 Just 
+F 3738 1 0 wan
+F 3740 2 0 na 
+F 3743 2 0 treat 
+F 3746 2 0 your 
+F 3750 3 0 heart 
+F 3755 2 0 care
+F 3759 1 0 ful
+F 3761 2 0 ly 
+- 3765
+F 3767 2 0 ’Cause 
+F 3770 2 0 eve
+F 3773 1 0 ry
+F 3775 2 0 day 
+F 3779 2 0 I 
+F 3782 3 0 feel 
+F 3786 3 0 blessed 
+F 3790 2 0 to 
+F 3793 2 0 be 
+- 3796
+F 3797 1 0 The 
+F 3799 2 0 boy 
+F 3803 1 0 chil
+F 3805 1 0 lin’ 
+F 3807 2 0 with 
+F 3811 2 0 you 
+F 3814 3 0 right 
+F 3818 2 0 next 
+F 3822 1 0 to 
+F 3824 5 0 me 
+- 3831
+: 3839 2 0 Ba
+: 3843 2 0 na
+: 3847 2 0 na 
+: 3851 3 0 brains, 
+: 3857 2 0 you’re 
+: 3863 4 1 the 
+: 3871 5 1 ap
+: 3878 5 1 ple 
+: 3886 3 1 of 
+: 3891 7 3 my 
+: 3901 24 0 eye 
+- 3927
+: 3929 8 0 Stay 
+: 3943 3 -2 with 
+: 3950 6 -4 me 
+: 3958 2 -4 to
+: 3962 6 -4 night 
+- 3969
+: 3970 2 -4 ’Cause 
+: 3975 2 -4 I’m 
+: 3978 3 -4 ha
+: 3983 3 -4 ving 
+: 3991 3 0 the 
+: 3999 5 -4 best 
+: 4007 5 0 time 
+: 4015 2 -4 of 
+: 4018 6 0 my 
+: 4027 26 -7 life 
+- 4055
+: 4095 2 0 Ba
+: 4098 2 0 na
+: 4102 2 0 na 
+: 4106 4 0 brains, 
+: 4113 2 0 you’re 
+: 4118 3 1 the 
+: 4126 4 1 ap
+: 4134 5 1 ple 
+: 4141 3 1 of 
+: 4146 6 3 my 
+: 4154 4 3 eye
+: 4159 20 0 ~ 
+- 4181
+: 4186 10 0 Stay 
+: 4199 4 -2 with 
+: 4206 5 -4 me 
+: 4214 3 -4 to
+: 4218 4 -4 night 
+- 4224
+: 4226 2 -4 ’Cause 
+: 4230 2 -4 I’m 
+: 4234 3 -4 ha
+: 4238 4 -4 ving 
+: 4247 4 0 the 
+: 4255 4 -4 best 
+: 4262 5 0 time 
+: 4271 2 -4 of 
+: 4275 6 0 my 
+: 4283 25 -7 life 
+- 4310
+: 4379 8 0 Stay 
+: 4390 4 -2 with 
+: 4399 4 -4 me 
+: 4405 3 -4 to
+: 4410 6 -4 night 
+- 4418
+: 4442 6 0 Stay 
+: 4454 4 -2 with 
+: 4462 4 -4 me 
+: 4470 2 -4 to
+: 4474 5 -4 night 
+- 4481
+: 4506 6 0 Stay 
+: 4518 4 -2 with 
+: 4526 4 -4 me 
+: 4534 2 -4 to
+: 4538 5 -4 night 
+- 4545
+: 4546 2 -4 ’Cause 
+: 4550 2 -4 I’m 
+: 4554 3 -4 ha
+: 4558 3 -4 ving 
+: 4567 3 0 the 
+: 4574 4 -4 best 
+: 4582 5 0 time 
+: 4591 2 -4 of 
+: 4594 6 0 my 
+: 4602 3 -7 life 
+- 4606
+F 4606 3 0 I 
+F 4610 2 0 love 
+F 4614 2 0 your 
+F 4618 3 0 e
+F 4622 2 0 ner
+F 4626 3 0 gy! 
+- 4630
+: 4631 4 0 The 
+: 4638 6 -4 best 
+: 4646 6 0 time 
+- 4654
+F 4662 2 0 I 
+F 4666 2 0 love 
+F 4670 2 0 it 
+F 4674 3 0 that 
+F 4678 2 0 you’re 
+F 4682 3 0 there 
+F 4686 3 0 for 
+F 4690 3 0 me! 
+- 4694
+: 4694 4 0 The 
+: 4703 5 -4 best 
+: 4710 6 0 time 
+- 4718
+F 4730 2 0 Eve
+F 4734 2 0 ry
+F 4738 3 0 thing 
+F 4743 2 0 is 
+F 4747 2 0 meant 
+F 4751 2 0 to 
+F 4755 3 0 be! 
+- 4759
+: 4759 3 0 The 
+: 4766 4 -4 best 
+: 4774 6 0 time 
+- 4782
+F 4794 3 0 Ba
+F 4798 2 0 by, 
+F 4802 3 0 you 
+F 4806 2 0 were 
+F 4810 3 0 sent 
+F 4815 2 0 to 
+F 4818 3 0 me! 
+- 4822
+: 4822 3 0 The 
+: 4830 5 -4 best 
+: 4838 6 0 time 
+: 4846 2 -4 of 
+: 4850 5 0 my 
+: 4858 3 -7 life 
+- 4862
+F 4862 2 0 I 
+F 4866 3 0 love 
+F 4871 2 0 your 
+F 4874 3 0 e
+F 4878 2 0 ner
+F 4882 5 0 gy! 
+- 4889
+F 4920 1 0 I 
+F 4922 2 0 love 
+F 4926 1 0 it 
+F 4930 2 0 that 
+F 4934 1 0 you’re 
+F 4938 2 0 there 
+F 4942 1 0 for 
+F 4946 5 0 me! 
+- 4953
+F 4986 2 0 Eve
+F 4990 2 0 ry
+F 4994 2 0 thing 
+F 4998 2 0 is 
+F 5002 2 0 meant 
+F 5007 2 0 to 
+F 5010 5 0 be! 
+- 5017
+F 5050 2 0 Ba
+F 5054 2 0 by, 
+F 5058 2 0 you 
+F 5062 2 0 were 
+F 5066 2 0 sent 
+F 5070 2 0 to 
+F 5074 6 0 me! 
+- 5082
+F 5116 4 0 I 
+F 5122 2 0 love 
+F 5126 2 0 your 
+F 5130 3 0 e
+F 5135 2 0 ner
+F 5138 5 0 gy! 
+- 5145
+F 5174 3 0 I 
+F 5178 2 0 love 
+F 5182 2 0 it 
+F 5186 2 0 that 
+F 5190 2 0 you’re 
+F 5194 2 0 there 
+F 5198 2 0 for 
+F 5202 5 0 me! 
+- 5209
+F 5243 2 0 Eve
+F 5246 2 0 ry
+F 5250 2 0 thing 
+F 5254 2 0 is 
+F 5258 2 0 meant 
+F 5262 2 0 to 
+F 5266 4 0 be! 
+- 5272
+F 5306 2 0 Ba
+F 5310 2 0 by, 
+F 5314 2 0 you 
+F 5318 2 0 were 
+F 5322 2 0 sent 
+F 5326 2 0 to 
+F 5330 6 0 me! 
+E

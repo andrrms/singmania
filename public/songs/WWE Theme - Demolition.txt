@@ -1,0 +1,172 @@
+#ARTIST:WWE Theme
+#TITLE:Demolition
+#MP3:WWE Theme - Demolition.mp3
+#CREATOR:Leroidukitch
+#LANGUAGE:English
+#BPM:208
+#GAP:15400
+#VIDEO:a=OK7pGkBIzgY,co=https://i1.sndcdn.com/artworks-9uayxHIzC3Vs648L-LAmA3g-t500x500.jpg
+: 0 3 -9 Here 
+: 4 3 -9 comes 
+: 8 3 -9 the 
+: 12 3 -7 A
+: 16 5 -6 x 
+- 23
+: 30 3 -9 Here 
+: 34 3 -9 comes 
+: 38 5 -8 the 
+: 44 5 -7 Sma
+: 50 5 -7 sher 
+- 57
+: 64 3 2 The 
+: 68 3 3 De
+: 72 5 5 mo
+: 78 5 6 li
+: 84 5 3 tion, 
+- 91
+: 96 3 1 Wal
+: 100 3 4 king 
+: 104 3 5 di
+: 108 5 5 sas
+: 116 5 3 ter 
+- 123
+: 146 3 7 Pain 
+: 150 3 7 and 
+: 154 1 6 des
+: 156 3 5 truc
+: 160 5 5 tion 
+: 174 3 1 are 
+: 178 3 3 our 
+: 182 1 3 mid
+: 184 5 3 dle 
+: 190 5 3 names 
+- 197
+: 256 3 1 Search 
+: 260 3 3 and 
+: 264 3 3 des
+: 268 5 6 troy 
+: 274 5 4 you 
+- 281
+: 288 3 2 Run 
+: 292 3 3 and 
+: 296 1 1 we’ll 
+: 298 5 6 find 
+: 308 5 5 you 
+- 315
+: 320 3 9 There’s 
+: 324 1 8 no 
+: 326 3 8 place 
+: 330 1 5 to 
+: 332 5 -2 hide 
+- 339
+: 352 1 -2 The 
+: 354 3 1 De
+: 358 3 3 mos 
+: 362 3 3 will 
+: 366 5 5 get 
+: 372 5 3 you 
+- 379
+: 400 3 7 Pain 
+: 404 3 7 and 
+: 408 1 6 des
+: 410 3 5 truc
+: 414 5 5 tion, 
+: 428 3 6 are 
+: 432 3 8 our 
+: 436 1 8 mid
+: 438 5 8 dle 
+: 444 5 8 names 
+- 451
+: 536 3 -3 The 
+: 540 1 -3 De
+: 542 3 -3 mo
+: 546 3 -2 li
+: 550 5 -3 tion 
+- 557
+: 584 5 -3 You 
+: 590 1 -3 bet
+: 592 3 -4 ter 
+: 596 5 -5 state 
+: 606 3 3 your 
+: 610 5 -5 act 
+: 616 3 5 of 
+: 620 3 4 con
+: 624 3 5 tri
+: 628 5 5 tion 
+- 635
+: 1240 3 -3 The 
+: 1244 1 -3 De
+: 1246 3 -3 mo
+: 1250 3 -2 li
+: 1254 5 -3 tion 
+- 1261
+: 1288 5 -3 You 
+: 1294 1 -3 bet
+: 1296 3 -4 ter 
+: 1300 5 -5 state 
+: 1310 3 3 your 
+: 1314 5 -5 act 
+: 1320 3 5 of 
+: 1324 3 4 con
+: 1328 3 5 tri
+: 1332 5 5 tion 
+- 1339
+: 1414 3 -9 Here 
+: 1418 3 -9 comes 
+: 1422 3 -9 the 
+: 1426 3 -7 A
+: 1430 5 -6 x 
+- 1437
+: 1444 3 -9 And here 
+: 1448 3 -9 comes 
+: 1452 5 -8 the 
+: 1458 5 -7 Sma
+: 1464 5 -7 sher 
+- 1471
+: 1478 3 2 The 
+: 1482 3 3 De
+: 1486 5 5 mo
+: 1492 5 6 li
+: 1498 5 3 tion 
+- 1505
+: 1510 3 1 Wal
+: 1514 3 4 king 
+: 1518 3 5 di
+: 1522 5 5 sas
+: 1530 5 3 ter 
+- 1537
+: 1542 3 1 Search 
+: 1546 3 3 and 
+: 1550 3 3 des
+: 1554 5 6 troy 
+: 1560 5 4 you 
+- 1567
+: 1605 3 2 Run 
+: 1609 3 3 and 
+: 1613 1 1 we’ll 
+: 1615 5 6 find 
+: 1625 5 5 you 
+- 1632
+: 1668 3 5 There’s 
+: 1672 1 5 no 
+: 1674 3 5 place 
+: 1678 1 5 to 
+: 1680 5 -2 hide 
+- 1687
+: 1730 1 -2 The 
+: 1732 3 1 De
+: 1736 3 3 mos 
+: 1740 3 3 wil 
+: 1744 5 5 get 
+: 1750 5 3 you!! 
+- 1757
+: 1788 1 -3 De
+: 1790 3 -3 mo
+: 1794 3 -2 li
+: 1798 5 -3 tion, 
+- 1805
+: 1966 1 -3 De
+: 1968 3 -3 mo
+: 1972 3 -2 li
+: 1976 5 -3 tion 
+E

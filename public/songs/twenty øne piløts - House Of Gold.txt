@@ -1,0 +1,306 @@
+#ARTIST:twenty øne piløts
+#TITLE:House Of Gold
+#MP3:twenty øne piløts - House Of Gold.mp3
+#CREATOR:gun8
+#GENRE:Alternative, Indie, Rap
+#YEAR:2013
+#LANGUAGE:English
+#BPM:230
+#GAP:9230
+#VIDEO:v=mDyxykpYeu8,co=https://www.easypianoonline.com/wp-content/uploads/2020/07/HouseOfGold.jpg,co-crop=0-2-594-594,bg=twenty-one-pilots-538ed3f1068af.jpg
+: 0 2 2 She 
+: 4 6 4 asked 
+* 12 3 2 me 
+- 17
+: 20 6 0 Son 
+: 28 6 2 when 
+: 36 6 4 I 
+* 44 3 7 gro
+: 48 3 4 ~w 
+: 52 6 4 old 
+- 60
+: 64 3 2 Will 
+: 68 6 4 you 
+: 76 6 2 buy 
+: 84 6 0 me 
+: 92 6 2 a 
+: 100 6 -1 house 
+: 108 4 -3 of 
+: 116 6 -5 gold? 
+- 124
+: 128 3 2 And 
+: 132 6 4 when 
+: 140 4 2 your 
+: 148 6 0 fa
+: 156 6 2 ther 
+: 164 6 4 turns 
+: 172 4 7 to 
+: 180 6 4 stone 
+- 188
+: 192 2 2 Will 
+: 196 6 4 you 
+: 208 2 2 take 
+: 212 6 2 care 
+: 224 2 -5 of 
+: 228 6 0 me? 
+- 236
+: 256 2 2 She 
+: 260 6 4 asked 
+* 268 3 2 me 
+- 273
+: 276 6 0 Son 
+: 284 6 2 when 
+: 292 6 4 I 
+* 300 3 7 gro
+: 304 3 4 ~w 
+: 308 6 4 old 
+- 316
+: 320 3 2 Will 
+: 324 6 4 you 
+: 332 6 2 buy 
+: 340 6 0 me 
+: 348 6 2 a 
+: 356 6 -1 house 
+: 364 4 -3 of 
+: 372 6 -5 gold? 
+- 380
+: 384 3 2 And 
+: 388 6 4 when 
+: 396 4 2 your 
+: 404 6 0 fa
+: 412 6 2 ther 
+: 420 6 4 turns 
+: 428 4 7 to 
+: 436 6 4 stone 
+- 444
+: 448 2 2 Will 
+: 452 6 4 you 
+: 464 2 2 take 
+: 468 6 2 care 
+: 480 2 -5 of 
+: 484 6 0 me? 
+- 492
+: 516 12 -3 I 
+: 532 12 0 will 
+: 548 12 9 make 
+* 564 8 4 you 
+- 574
+: 580 12 5 Queen 
+: 596 12 2 of 
+: 612 8 10 eve
+: 624 2 5 ry
+: 628 6 5 thing 
+: 636 6 1 you 
+* 644 6 0 see 
+- 652
+: 656 2 -3 I’ll 
+: 660 2 -3 put 
+: 664 2 -3 you 
+: 668 2 -5 on 
+: 672 1 -7 the 
+: 674 6 -5 map 
+- 682
+: 688 2 -3 I’ll 
+: 692 2 -3 cure 
+: 696 2 -3 you 
+: 700 2 -5 of 
+: 704 1 -7 di
+: 706 6 -7 sease 
+- 714
+: 768 2 4 Let’s 
+: 772 5 4 say 
+: 780 4 2 we 
+: 788 4 0 up 
+: 796 5 2 and 
+: 804 5 4 left 
+: 812 5 7 this 
+: 820 5 4 town 
+- 827
+: 832 2 2 And 
+: 836 5 4 turned 
+: 844 5 2 our 
+: 852 5 0 fu
+: 860 5 2 ture 
+: 868 5 -1 up
+: 876 5 -3 side 
+* 884 5 -5 down 
+- 891
+: 896 2 2 We’ll 
+: 900 5 4 make 
+: 908 5 2 pre
+: 916 5 0 tend 
+* 924 4 2 that 
+: 932 5 4 you 
+: 940 5 7 and 
+: 948 5 4 me 
+- 955
+: 960 2 2 Lived 
+: 964 5 4 e
+: 972 5 2 ver 
+: 980 5 2 af
+: 988 5 -5 ter 
+: 996 5 0 hap
+: 1004 5 0 pi
+: 1012 5 0 ly 
+- 1019
+: 1056 2 2 She 
+: 1060 6 4 asked 
+: 1068 3 2 me 
+- 1073
+: 1076 6 0 Son 
+: 1084 6 2 when 
+: 1092 6 4 I 
+: 1100 7 7 grow 
+: 1108 6 7 old 
+- 1116
+: 1120 3 2 Will 
+: 1124 6 4 you 
+: 1132 6 2 buy 
+: 1140 6 0 me 
+: 1148 6 2 a 
+: 1156 6 -1 house 
+* 1164 4 -3 of 
+: 1172 6 -5 gold? 
+- 1180
+: 1184 3 2 And 
+: 1188 6 4 when 
+: 1196 4 2 your 
+: 1204 6 0 fa
+: 1212 6 2 ther 
+: 1220 6 4 turns 
+* 1228 4 7 to 
+: 1236 6 4 stone 
+- 1244
+: 1248 2 2 Will 
+: 1252 6 4 you 
+: 1264 2 2 take 
+: 1268 6 2 care 
+: 1280 2 -5 of 
+: 1284 6 0 me? 
+- 1292
+: 1316 12 -3 I 
+: 1332 12 0 will 
+: 1348 12 9 make 
+: 1364 8 4 you 
+- 1374
+: 1380 12 5 Queen 
+: 1396 12 2 of 
+: 1412 8 10 eve
+: 1424 2 5 ry
+: 1428 6 5 thing 
+: 1436 6 1 you 
+: 1444 6 0 see 
+- 1452
+: 1456 2 -3 I’ll 
+* 1460 2 -3 put 
+: 1464 2 -3 you 
+: 1468 2 -5 on 
+: 1472 1 -7 the 
+: 1474 6 -5 map 
+- 1482
+: 1488 2 -3 I’ll 
+* 1492 2 -3 cure 
+: 1496 2 -3 you 
+: 1500 2 -5 of 
+: 1504 1 -7 di
+: 1506 6 -7 sease 
+- 1514
+: 1540 20 0 Oh 
+- 1562
+: 1568 2 4 And 
+: 1572 5 4 since 
+: 1580 5 2 we 
+: 1588 5 0 know 
+: 1596 5 2 that 
+: 1604 5 4 dreams 
+: 1612 5 7 are 
+: 1620 5 4 dead 
+- 1627
+: 1632 2 2 And 
+: 1636 5 4 life 
+: 1644 5 2 turns 
+: 1652 5 0 plans 
+: 1660 5 2 up 
+: 1668 5 -1 on 
+: 1676 5 -3 their 
+: 1684 5 -5 head 
+- 1691
+: 1700 5 4 I 
+: 1708 5 2 will 
+: 1716 5 0 plan 
+: 1724 5 2 to 
+: 1732 5 4 be 
+* 1740 5 7 a 
+: 1748 5 4 bum 
+- 1755
+: 1760 2 2 So 
+: 1764 5 4 I 
+: 1772 5 2 just 
+: 1780 5 2 might 
+* 1788 5 -5 be
+F 1796 5 0 COME 
+F 1804 5 0 SOME
+F 1812 5 0 ONE!
+- 1819
+: 1856 2 2 She 
+: 1860 6 4 asked 
+: 1868 3 2 me 
+- 1873
+: 1876 6 0 Son 
+: 1884 6 2 when 
+: 1892 6 4 I 
+: 1900 7 7 grow 
+: 1908 6 7 old 
+- 1916
+: 1920 3 2 Will 
+: 1924 6 4 you 
+: 1932 6 2 buy 
+: 1940 6 0 me 
+: 1948 6 2 a 
+: 1956 6 2 house 
+: 1964 4 4 of 
+: 1972 6 2 gold? 
+- 1980
+: 1984 3 2 And 
+: 1988 6 4 when 
+: 1996 4 2 your 
+: 2004 6 0 fa
+: 2012 6 2 ther 
+: 2020 6 4 turns 
+* 2028 4 7 to 
+: 2036 6 7 stone 
+- 2044
+: 2048 2 7 Will 
+: 2052 6 7 you 
+* 2064 2 7 take 
+: 2068 6 7 care 
+: 2080 2 7 of 
+: 2084 6 7 me? 
+- 2092
+: 2116 8 -3 I 
+: 2133 8 0 will 
+* 2150 8 9 make 
+: 2167 8 4 you 
+- 2177
+: 2183 8 5 Queen 
+: 2200 8 2 of 
+: 2220 8 10 eve
+: 2232 2 5 ry
+: 2236 6 5 thing 
+: 2246 4 1 you 
+: 2252 5 0 see 
+- 2259
+: 2268 2 -3 I’ll 
+: 2272 2 -3 put 
+: 2276 2 -3 you 
+: 2280 2 -5 on 
+: 2284 1 -7 the 
+: 2286 10 -5 map 
+- 2298
+: 2302 2 -3 I’ll 
+* 2306 2 -3 cure 
+: 2310 2 -3 you 
+: 2314 2 -5 of 
+* 2320 1 -7 di
+: 2322 6 -7 sease 
+E

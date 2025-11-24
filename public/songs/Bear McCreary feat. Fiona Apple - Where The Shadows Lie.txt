@@ -1,0 +1,183 @@
+#ARTIST:Bear McCreary feat. Fiona Apple
+#TITLE:Where The Shadows Lie
+#MP3:Bear McCreary feat. Fiona Apple - Where The Shadows Lie.mp3
+#CREATOR:lava
+#GENRE:Soundtrack
+#YEAR:2022
+#LANGUAGE:English
+#BPM:299.7
+#GAP:19640
+#VIDEO:a=KqC0YxJROP0,co=the-lord-of-the-rings-the-rings-of-power-season-one-amazon-o-6300a9d44dc58.jpg,bg=the-lord-of-the-rings-the-rings-of-power-season-one-amazon-o-6300a9d44dc58.jpg,bg-crop=0-105-1000-750,preview=54.16,medley=1784-2608
+: 0 4 4 Three
+: 5 13 5 ~ 
+* 23 9 -2 Rings 
+: 37 4 -2 for 
+: 43 5 5 the 
+: 49 3 4 El
+: 53 3 5 ~
+: 57 8 4 ven
+: 68 12 4 kings 
+: 93 8 1 un
+: 102 19 -2 der 
+: 125 6 1 the 
+: 135 25 0 sky 
+- 162
+: 181 4 5 Se
+: 188 8 5 ven 
+: 202 12 -2 for 
+: 217 3 5 the 
+: 223 4 4 Dwarf
+: 228 5 5 ~
+: 234 10 4 lords 
+: 247 6 4 in 
+: 255 4 5 their
+: 261 3 -2 ~ 
+: 267 38 -2 halls 
+: 307 3 0 of 
+* 313 19 1 stone 
+- 334
+: 355 5 4 Nine
+: 361 11 5 ~ 
+: 374 19 -2 for 
+: 397 5 4 Mor
+: 403 6 5 ~
+: 410 9 4 tal 
+: 421 9 4 Men 
+: 443 34 1 doomed 
+: 480 2 -2 to 
+: 485 25 0 die 
+- 512
+: 533 15 0 One 
+: 551 13 1 for 
+: 566 5 3 the 
+* 573 10 3 Dark 
+* 585 9 5 Lord 
+: 596 8 6 on 
+: 606 5 5 his
+: 612 4 -2 ~ 
+: 619 20 -4 dark 
+: 641 32 -2 throne 
+- 675
+: 691 7 1 In 
+: 699 6 3 the 
+: 708 4 3 Land
+: 713 24 4 ~ 
+: 740 6 3 of 
+* 748 4 1 Mor
+* 753 20 3 ~
+* 775 31 4 dor 
+: 817 7 6 where 
+: 826 4 8 the 
+: 836 2 7 sha
+: 839 41 8 ~
+: 883 36 7 dows 
+: 922 4 7 lie
+: 927 44 8 ~ 
+- 973
+: 991 8 7 Where 
+: 1001 4 8 the 
+: 1012 3 7 sha
+: 1016 40 8 ~
+: 1059 36 7 dows 
+* 1099 5 7 lie
+* 1105 56 8 ~ 
+- 1163
+* 1784 14 5 One 
+: 1805 10 -2 Ring 
+: 1819 4 5 to 
+: 1826 4 4 rule
+: 1832 7 5 ~ 
+: 1842 7 4 them 
+: 1851 13 4 all 
+- 1866
+: 1878 9 1 One 
+* 1890 20 -2 Ring 
+: 1914 2 -2 to
+: 1917 2 0 ~ 
+: 1924 19 1 find 
+: 1946 12 0 them 
+- 1960
+: 1979 19 5 One 
+: 2003 12 -2 Ring 
+: 2019 3 4 to
+: 2023 7 5 ~ 
+: 2033 4 4 bring
+: 2038 8 5 ~ 
+: 2049 10 4 them 
+: 2062 10 4 all 
+- 2074
+: 2080 13 5 And 
+: 2096 18 -2 in 
+: 2121 18 0 the 
+: 2144 22 1 dark
+: 2171 14 3 ness 
+* 2197 25 5 bind 
+* 2226 23 -2 them 
+- 2251
+: 2273 7 1 In 
+: 2281 6 3 the 
+: 2291 3 3 Land
+: 2295 40 4 ~ 
+: 2339 33 3 of 
+: 2386 26 3 Mor
+: 2416 31 4 dor 
+: 2458 7 6 where 
+: 2467 4 8 the 
+: 2477 2 7 sha
+: 2480 41 8 ~
+: 2524 36 7 dows 
+* 2563 4 7 lie
+* 2568 40 8 ~ 
+- 2610
+: 2627 11 7 Where 
+: 2641 4 8 the 
+: 2651 3 7 sha
+: 2655 38 8 ~
+: 2696 34 7 dows 
+: 2736 5 7 lie
+: 2742 56 8 ~ 
+- 2800
+: 2815 4 7 Where 
+: 2821 4 8 the 
+: 2832 3 7 sha
+: 2836 39 8 ~
+: 2878 35 7 dows 
+: 2917 5 7 lie
+: 2923 56 8 ~ 
+- 2981
+: 2990 7 7 Where 
+: 2999 4 8 the 
+: 3009 41 8 sha
+: 3053 35 7 dows 
+* 3094 5 7 lie
+* 3100 56 8 ~ 
+- 3158
+: 3417 14 5 One 
+* 3441 10 -2 Ring 
+: 3456 15 5 to 
+: 3474 9 5 rule 
+: 3486 7 4 them 
+: 3495 13 4 all 
+- 3510
+: 3522 9 1 One 
+: 3534 17 -2 Ring 
+: 3561 4 0 to 
+* 3572 20 1 find 
+: 3600 14 0 them 
+- 3616
+: 3634 19 5 One 
+: 3658 16 -2 Ring 
+: 3681 16 5 to 
+: 3700 14 5 bring 
+: 3716 10 4 them 
+: 3729 10 4 all 
+- 3741
+: 3755 16 5 And 
+: 3782 16 -2 in 
+: 3808 20 0 the 
+: 3835 31 1 dark
+: 3877 24 3 ness 
+* 3920 4 4 bind
+* 3925 31 5 ~ 
+* 3962 55 -2 them 
+E

@@ -1,0 +1,128 @@
+#ARTIST:Jonas Brothers
+#TITLE:Making It Right
+#MP3:Jonas Brothers - Making It Right.mp3
+#CREATOR:vexevir
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:320.76
+#GAP:5950
+#VIDEO:v=3TupS146DRM,co=jonas-la-5230936b036d5.jpg,bg=jonas-brothers-51f54c5b9799b.jpg
+: 0 4 -5 You 
+: 6 4 -3 say 
+: 14 2 -5 you’ll 
+: 18 9 -3 know 
+- 29
+: 46 4 -5 When 
+: 52 3 -5 you 
+: 57 2 -5 rea
+: 60 2 -3 ~l
+: 63 4 -1 ly 
+: 69 4 -3 find 
+: 75 4 -5 the 
+: 81 2 -9 one
+: 84 5 -8 ~ 
+- 91
+: 132 2 -5 But 
+: 136 2 -5 it’s 
+: 140 6 -3 hard 
+: 148 2 -5 to 
+: 152 10 -3 tell 
+- 164
+: 180 2 -5 With 
+: 184 2 -5 the 
+: 188 4 -3 da
+: 196 2 -1 mage 
+: 200 6 -3 that’s 
+: 208 6 -5 been 
+: 216 12 -5 done 
+- 230
+: 264 2 -5 But 
+: 268 2 -5 id 
+: 272 5 2 like 
+: 280 2 2 to 
+: 284 10 2 say 
+: 296 2 0 that 
+: 300 4 -1 it’s 
+: 308 4 -3 your 
+: 316 2 -5 fault
+: 320 6 -3 ~ 
+- 328
+: 332 2 -5 But 
+: 336 6 -3 I 
+: 344 4 -5 know 
+: 352 2 -3 bet
+: 356 6 -5 ter 
+- 364
+: 401 3 -5 Cuz’ 
+: 406 2 -5 I’m
+: 410 2 -3 ~ 
+: 414 2 -2 a 
+: 418 8 0 fool 
+: 429 2 -2 to? 
+: 433 6 -3 think 
+- 441
+: 443 5 -5 You’ll 
+: 455 2 -2 wait
+: 459 3 0 ~ 
+: 464 2 -2 a
+: 468 5 -3 round 
+: 476 3 -5 fo
+: 480 3 -3 re
+: 484 5 -8 ver 
+- 491
+: 503 2 -1 Maybe
+: 507 2 0 ~ 
+: 512 12 2 I
+: 526 2 -1 ~ 
+- 530
+: 556 10 9 Could 
+: 572 9 7 have 
+: 585 7 4 loved 
+: 594 10 2 you 
+- 606
+* 638 2 -1 Maybe
+* 642 2 0 ~ 
+* 647 10 2 I
+: 659 2 -1 ~ 
+- 663
+: 692 10 9 Could 
+: 706 9 7 have 
+: 718 2 2 shown
+: 722 6 4 ~ 
+- 730
+: 772 2 0 That 
+: 776 2 2 I 
+: 782 2 9 still
+: 786 2 11 ~ 
+: 791 4 11 do 
+* 799 7 11 care 
+: 808 6 9 a
+: 816 6 9 bout 
+: 824 5 7 you 
+- 831
+: 832 2 7 More
+: 836 3 9 ~ 
+: 841 5 7 than 
+* 848 2 7 you
+* 852 2 9 ~ 
+: 856 4 7 could 
+: 862 6 4 know 
+- 870
+: 896 6 -5 Don’t 
+: 904 2 -3 say 
+: 908 6 -1 it’s 
+: 918 9 0 too 
+- 929
+: 956 4 4 Late
+: 962 8 2 ~ 
+: 972 2 -3 to
+: 976 5 -1 ~ 
+: 984 2 -3 try
+: 988 8 -1 ~ 
+- 998
+: 1036 2 -5 To 
+: 1040 2 -3 make 
+: 1044 2 -5 it 
+: 1048 13 -5 right 
+E

@@ -1,0 +1,578 @@
+#ARTIST:Pet Shop Boys
+#TITLE:Left To My Own Devices
+#MP3:Pet Shop Boys - Left To My Own Devices.mp3
+#CREATOR:Tracks
+#COVER:Pet Shop Boys - Left To My Own Devices [CO].jpg
+#BACKGROUND:Pet Shop Boys - Left To My Own Devices [BG].jpg
+#YEAR:1988
+#LANGUAGE:English
+#BPM:253.96
+#GAP:54950
+#VIDEO:v=Ed1tv_gCOUA,co=https://i.discogs.com/BwwgeTtn8nP7A05DjfQmW0AVR9D9wm5AHxGuqPUxpBE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM0/Ni0xMjg3MTMzNjcx/LmpwZWc.jpeg,bg=pet-shop-boys-523915f7ce29a.jpg
+F 0 1 0 I 
+F 4 1 0 get 
+F 8 1 0 out 
+F 12 1 0 of 
+F 16 1 0 bed 
+- 27
+F 31 1 0 At 
+F 36 1 0 half 
+F 42 1 0 past 
+F 48 1 0 ten 
+- 59
+F 67 1 0 Phone 
+F 71 1 0 up 
+F 75 1 0 a 
+F 80 1 0 friend 
+- 88
+F 91 1 0 Who’s 
+F 95 1 0 a 
+F 100 1 0 par
+F 107 1 0 ty 
+F 111 1 0 an
+F 114 1 0 i
+F 118 1 0 mal 
+- 128
+F 131 1 0 Turn 
+F 135 1 0 on 
+F 139 1 0 the 
+F 144 1 0 news 
+- 156
+F 160 1 0 And 
+F 164 1 0 drink 
+F 170 1 0 some 
+F 176 1 0 tea 
+- 182
+F 184 1 0 May
+F 188 1 0 be 
+F 192 1 0 if 
+F 196 1 0 you’re 
+F 202 1 0 with 
+F 208 1 0 me 
+- 219
+F 223 1 0 We’ll 
+F 228 1 0 do 
+F 234 1 0 some 
+F 240 1 0 shop
+F 244 1 0 ping 
+- 255
+F 259 1 0 One 
+F 263 1 0 day 
+F 267 1 0 I’ll 
+F 271 1 0 read 
+- 278
+F 280 1 0 Or 
+F 284 1 0 learn 
+F 288 1 0 to 
+F 292 1 0 drive 
+F 299 1 0 a 
+F 304 1 0 car 
+- 313
+F 316 1 0 If 
+F 320 1 0 you 
+F 324 1 0 pass 
+F 331 1 0 the 
+F 336 1 0 test 
+- 344
+F 347 1 0 You 
+F 351 1 0 can 
+F 355 1 0 beat 
+F 362 1 0 the 
+F 368 1 0 rest 
+- 373
+F 375 1 0 But 
+F 379 1 0 I 
+F 383 1 0 don’t 
+F 387 1 0 like 
+F 391 1 0 to 
+F 395 1 0 com
+F 400 1 0 pete 
+- 405
+F 407 1 0 Or 
+F 411 1 0 talk 
+F 419 1 0 street, 
+F 427 1 0 street, 
+F 435 1 0 street 
+- 441
+F 443 1 0 I 
+F 447 1 0 can 
+F 451 1 0 pick 
+F 455 1 0 up 
+F 459 1 0 the 
+F 463 1 0 best 
+- 472
+F 475 1 0 From 
+F 479 1 0 the 
+F 483 1 0 par
+F 491 1 0 ty 
+F 495 1 0 an
+F 497 1 0 i
+F 501 1 0 mal 
+- 512
+: 535 2 9 I 
+: 539 2 4 could 
+: 543 2 4 lea
+: 546 3 6 ~ve 
+: 552 4 9 you 
+- 564
+: 567 3 1 Say 
+: 571 3 -6 good-
+: 576 7 -3 bye 
+- 594
+: 598 1 -6 Or 
+: 600 2 -3 I 
+: 604 2 -8 could 
+: 608 1 -8 lo
+: 610 4 -6 ~ve 
+: 616 4 -3 you 
+- 628
+: 631 2 -1 If 
+: 635 2 -6 I 
+: 640 7 -3 try 
+- 659
+: 663 3 4 And 
+: 667 2 9 I 
+: 672 8 8 could 
+- 690
+: 703 3 4 And 
+: 707 2 9 left 
+: 712 4 9 to 
+: 719 2 9 my 
+: 723 5 9 own 
+: 731 3 9 de
+: 735 4 9 vi
+: 742 3 2 ces 
+- 749
+: 751 2 2 I 
+: 755 3 -1 prob
+: 761 3 6 a
+: 766 3 8 bly 
+: 771 4 8 wou
+: 776 14 9 ~ld 
+- 806
+F 835 1 0 Pick 
+F 839 1 0 up 
+F 843 1 0 a 
+F 847 1 0 bro
+F 852 1 0 chure 
+- 860
+F 863 1 0 A
+F 867 1 0 bout 
+F 875 1 0 the 
+F 879 1 0 sun 
+- 890
+F 899 1 0 Learn 
+F 903 1 0 to 
+F 908 1 0 ig
+F 912 1 0 nore 
+F 919 1 0 what 
+F 923 1 0 the 
+F 927 1 0 pho
+F 931 1 0 tog
+F 935 1 0 ra
+F 939 1 0 pher 
+F 944 1 0 saw 
+- 952
+F 955 1 0 I 
+F 959 1 0 was 
+F 963 1 0 al
+F 967 1 0 ways 
+F 975 1 0 told 
+- 981
+F 983 1 0 That 
+F 987 1 0 you 
+F 991 1 0 should 
+F 995 1 0 join 
+F 1003 1 0 a 
+F 1008 1 0 club 
+- 1019
+F 1027 1 0 Stick 
+F 1031 1 0 with 
+F 1035 1 0 the 
+F 1039 3 0 gang 
+- 1048
+F 1051 1 0 If 
+F 1055 1 0 you 
+F 1059 1 0 want 
+F 1063 1 0 to 
+F 1067 1 0 be
+F 1071 1 0 long 
+- 1077
+F 1079 1 0 I 
+F 1083 1 0 was 
+F 1087 1 0 a 
+F 1091 1 0 lone
+F 1097 1 0 ly 
+F 1103 1 0 boy 
+- 1115
+F 1119 1 0 No 
+F 1123 1 0 strength, 
+F 1130 1 0 no 
+F 1135 1 0 joy 
+- 1145
+F 1148 1 0 In 
+F 1150 1 0 a 
+F 1154 1 0 world 
+F 1160 1 0 of 
+F 1164 1 0 my 
+F 1168 1 0 own 
+- 1176
+F 1179 1 0 At 
+F 1183 1 0 the 
+F 1187 1 0 back 
+F 1191 1 0 of 
+F 1195 1 0 the 
+F 1199 1 0 gar
+F 1204 1 0 den 
+- 1206
+F 1208 1 0 I 
+F 1211 1 0 did
+F 1214 1 0 n’t 
+F 1218 1 0 want 
+F 1223 1 0 to 
+F 1227 1 0 com
+F 1231 1 0 pete 
+F 1238 1 0 or 
+F 1242 1 0 play 
+- 1249
+F 1251 1 0 Out 
+F 1255 1 0 on 
+F 1259 1 0 the 
+F 1263 1 0 street 
+- 1269
+F 1271 1 0 For 
+F 1275 1 0 in 
+F 1279 1 0 a 
+F 1283 1 0 se
+F 1287 2 0 cret 
+F 1295 1 0 life 
+- 1301
+F 1303 1 0 I 
+F 1307 1 0 was 
+F 1311 1 0 a 
+F 1315 1 0 Round
+F 1320 1 0 head 
+F 1327 1 0 gen
+F 1329 1 0 er
+F 1333 1 0 al 
+- 1344
+: 1367 2 9 I 
+: 1371 2 4 could 
+: 1375 2 4 lea
+: 1378 3 6 ~ve 
+: 1384 4 9 you 
+- 1396
+* 1399 3 1 Say 
+* 1403 3 -6 good-
+* 1408 7 -3 bye 
+- 1425
+: 1429 1 -6 Or 
+: 1431 2 -3 I 
+: 1435 2 -8 could 
+: 1439 1 -8 lo
+: 1441 4 -6 ~ve 
+: 1447 4 -3 you 
+- 1460
+: 1463 2 -1 If 
+: 1467 2 -6 I 
+: 1472 7 -3 try 
+- 1491
+: 1495 3 4 And 
+: 1499 2 9 I 
+: 1504 8 8 could 
+- 1522
+: 1535 3 4 And 
+: 1539 2 9 left 
+: 1544 4 9 to 
+: 1551 2 9 my 
+: 1555 5 9 own 
+: 1563 3 9 de
+: 1567 4 9 vi
+: 1574 3 2 ces 
+- 1581
+: 1583 2 2 I 
+: 1587 3 -1 prob
+: 1593 3 6 a
+: 1598 3 8 bly 
+: 1603 4 8 wou
+: 1608 14 9 ~ld 
+- 1638
+: 1667 2 9 Left 
+: 1672 4 9 to 
+: 1679 2 9 my 
+: 1683 5 9 own 
+: 1691 3 9 de
+: 1695 4 9 vi
+: 1702 3 2 ces 
+- 1709
+: 1711 2 2 I 
+: 1715 3 -1 prob
+: 1721 3 6 a
+: 1726 3 8 bly 
+* 1731 4 8 wou
+* 1736 14 9 ~ld 
+- 1760
+: 1782 2 7 Oh, 
+: 1786 2 2 I 
+: 1791 3 7 wou
+: 1795 18 9 ~ld 
+- 1846
+F 1978 1 0 I 
+F 1982 1 0 was 
+F 1986 1 0 faced 
+F 1990 1 0 with 
+F 1994 1 0 a 
+F 1998 1 0 choice 
+- 2008
+F 2011 1 0 At 
+F 2013 1 0 a 
+F 2017 1 0 dif
+F 2020 1 0 fi
+F 2022 2 0 cult 
+F 2028 1 0 age 
+- 2038
+F 2042 1 0 Would 
+F 2045 1 0 I 
+F 2049 1 0 write 
+F 2054 1 0 a 
+F 2058 1 0 book? 
+- 2068
+F 2071 1 0 Or 
+F 2074 1 0 should 
+F 2076 1 0 I 
+F 2080 1 0 take 
+F 2085 1 0 to 
+F 2087 1 0 the 
+F 2092 1 0 stage? 
+- 2100
+F 2103 1 0 But 
+F 2107 1 0 in 
+F 2111 1 0 the 
+F 2115 1 0 back 
+F 2119 1 0 of 
+F 2123 1 0 my 
+F 2127 1 0 head 
+- 2132
+F 2134 1 0 I 
+F 2139 1 0 heard 
+F 2146 1 0 dis
+F 2151 1 0 tant 
+F 2158 1 0 feet 
+- 2167
+F 2170 1 0 Che 
+F 2174 1 0 Gue
+F 2178 1 0 va
+F 2182 1 0 ra 
+F 2186 1 0 and 
+F 2190 1 0 De
+F 2194 1 0 bus
+F 2198 1 0 sy 
+F 2202 1 0 to 
+F 2206 1 0 a 
+F 2210 1 0 dis
+F 2214 1 0 co 
+F 2222 1 0 beat 
+- 2256
+F 2294 1 0 It’s 
+F 2298 1 0 not 
+F 2300 1 0 a 
+F 2305 1 0 crime 
+F 2314 1 0 when 
+F 2317 1 0 you 
+F 2320 1 0 look 
+- 2331
+F 2335 1 0 The 
+F 2339 1 0 way 
+F 2343 1 0 you 
+F 2347 1 0 do 
+- 2358
+F 2366 1 0 The 
+F 2370 1 0 way 
+F 2374 1 0 I 
+F 2379 1 0 like 
+- 2390
+F 2399 1 0 To 
+F 2403 1 0 pic
+F 2407 1 0 ture 
+F 2411 1 0 you 
+- 2422
+F 2430 1 0 When 
+F 2434 1 0 I 
+F 2439 1 0 get 
+F 2447 1 0 home 
+- 2459
+F 2463 1 0 It’s 
+F 2467 1 0 late 
+F 2471 1 0 at 
+F 2479 1 0 night 
+- 2491
+F 2495 1 0 I 
+F 2499 1 0 pour 
+F 2503 1 0 a 
+F 2506 1 0 drink 
+- 2517
+F 2526 1 0 And 
+F 2531 1 0 watch 
+F 2537 1 0 the 
+F 2543 1 0 fight 
+- 2554
+F 2558 1 0 I 
+F 2562 1 0 turn 
+F 2566 1 0 off 
+F 2570 1 0 the 
+F 2574 1 0 T
+F 2579 1 0 V 
+- 2590
+F 2594 1 0 Look 
+F 2598 1 0 at 
+F 2600 1 0 a 
+F 2605 1 0 book 
+- 2616
+F 2626 1 0 Pick 
+F 2630 1 0 up 
+F 2634 1 0 the 
+F 2638 1 0 phone 
+- 2649
+F 2658 1 0 Fix 
+F 2663 1 0 some 
+F 2670 1 0 food 
+- 2681
+F 2690 1 0 May
+F 2694 1 0 be 
+F 2698 1 0 I’ll 
+F 2705 1 0 sit 
+F 2707 1 0 up 
+F 2714 1 0 all 
+F 2722 1 0 night 
+F 2727 1 0 and 
+F 2735 1 0 day 
+- 2746
+F 2754 1 0 Wait
+F 2756 1 0 ing 
+F 2762 1 0 for 
+F 2764 1 0 the 
+F 2770 1 0 min
+F 2772 1 0 ute 
+F 2778 1 0 I 
+F 2786 1 0 hear 
+F 2791 1 0 you 
+F 2799 1 0 say 
+- 2833
+: 2934 2 9 I 
+: 2938 2 4 could 
+: 2942 2 4 lea
+: 2945 3 6 ~ve 
+: 2951 4 9 you 
+- 2963
+: 2966 3 1 Say 
+: 2970 3 -6 good-
+: 2975 7 -3 bye 
+- 2993
+: 2997 1 -6 Or 
+: 2999 2 -3 I 
+: 3003 2 -8 could 
+: 3007 1 -8 lo
+: 3009 4 -6 ~ve 
+: 3015 4 -3 you 
+- 3027
+: 3030 2 -1 If 
+: 3034 2 -6 I 
+: 3039 7 -3 try 
+- 3056
+: 3063 3 4 And 
+: 3067 2 9 I 
+: 3072 8 8 could 
+- 3090
+: 3102 3 4 And 
+: 3106 2 9 left 
+: 3111 4 9 to 
+: 3118 2 9 my 
+: 3123 5 9 own 
+: 3131 3 9 de
+: 3135 4 9 vi
+: 3142 3 2 ces 
+- 3148
+: 3150 2 2 I 
+: 3154 3 -1 prob
+: 3160 3 6 a
+: 3165 3 8 bly 
+: 3170 4 8 wou
+: 3175 6 9 ~ld 
+- 3188
+* 3191 3 9 Come 
+* 3195 2 4 on, 
+: 3199 1 4 ba
+: 3201 4 6 ~
+: 3207 3 9 by 
+- 3219
+: 3222 3 1 Say 
+: 3226 3 -6 good-
+: 3231 7 -3 bye 
+- 3249
+: 3253 1 -6 Or 
+: 3255 2 -3 I 
+: 3259 2 -8 could 
+: 3263 1 -8 lo
+: 3265 4 -6 ~ve 
+: 3271 4 -3 you 
+- 3283
+: 3286 2 -1 If 
+: 3290 2 -6 I 
+: 3295 7 -3 try 
+- 3312
+: 3319 3 4 And 
+: 3323 2 9 I 
+: 3328 8 8 could 
+- 3346
+: 3358 3 4 And 
+: 3362 3 9 left 
+: 3367 4 9 to 
+: 3374 2 9 my 
+: 3379 5 9 own 
+* 3387 3 9 de
+* 3391 4 9 vi
+* 3398 3 9 ces 
+- 3405
+: 3407 2 2 I 
+: 3411 3 -1 prob
+: 3417 3 6 a
+: 3422 3 8 bly 
+: 3427 4 8 wou
+: 3432 14 9 ~ld 
+- 3462
+: 3490 2 9 Left 
+: 3495 4 9 to 
+: 3502 2 9 my 
+: 3506 5 9 own 
+: 3514 3 9 de
+: 3518 4 9 vi
+: 3525 3 2 ces 
+- 3533
+: 3535 2 2 I 
+: 3539 3 -1 prob
+: 3545 3 6 a
+: 3550 3 8 bly 
+: 3555 4 8 wou
+: 3560 10 9 ~ld 
+- 3573
+: 3575 3 9 Come 
+: 3579 2 4 on, 
+: 3583 1 4 ba
+: 3585 4 6 ~
+: 3591 3 9 by 
+- 3604
+: 3619 2 11 Left 
+: 3624 4 11 to 
+: 3630 2 11 my 
+: 3634 5 11 own 
+: 3642 3 11 de
+: 3647 4 11 vi
+: 3654 3 9 ces 
+- 3661
+* 3663 2 2 I 
+* 3667 3 -1 prob
+* 3673 3 6 a
+* 3678 3 8 bly 
+* 3683 4 8 wou
+* 3688 25 9 ~ld 
+E

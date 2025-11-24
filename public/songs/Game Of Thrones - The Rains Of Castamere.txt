@@ -1,0 +1,242 @@
+#ARTIST:Game Of Thrones
+#TITLE:The Rains Of Castamere
+#MP3:Game Of Thrones - The Rains Of Castamere.mp3
+#CREATOR:Raygin
+#GENRE:Classical
+#YEAR:2012
+#LANGUAGE:English
+#BPM:379.45
+#GAP:780
+#VIDEO:a=gfYzrXmFN84,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/38/91/53/3891538c-359c-4b52-55f6-f540e248ef05/artwork.jpg/5000x5000bb.jpg,bg=https://spoilertime.com/wp-content/uploads/2019/03/51ccb7340bce5d33_frey.jpg,preview=43.47,medley=0-1832
+: 0 4 -3 And 
+: 8 20 5 who 
+: 30 6 -3 are 
+: 40 20 4 you, 
+: 62 6 -3 the 
+: 70 14 5 proud 
+: 86 12 7 lord 
+: 102 18 4 said, 
+- 126
+: 128 4 -3 That 
+: 136 12 7 I 
+: 152 12 5 must 
+: 166 12 4 bow 
+: 182 14 2 so 
+: 198 30 4 low? 
+- 238
+: 262 4 9 On
+: 270 14 9 ly 
+: 286 4 10 a 
+: 294 12 7 cat 
+: 310 4 0 of 
+: 318 4 0 a 
+: 326 10 9 diff’
+: 342 12 10 rent 
+: 358 18 7 coat, 
+- 382
+: 384 4 2 That’s 
+: 392 12 10 all 
+: 408 12 9 the 
+: 422 12 7 truth 
+: 438 14 5 I 
+: 456 24 4 know. 
+- 490
+: 510 6 -3 In-a 
+: 520 20 5 coat 
+: 542 6 -3 of 
+: 550 18 4 gold 
+: 572 6 -3 or-a 
+: 580 14 5 coat 
+: 598 14 7 of 
+: 614 18 4 red, 
+- 638
+: 640 4 -3 A 
+: 648 12 7 li
+: 664 12 5 on 
+: 680 12 4 still 
+: 694 14 2 has 
+: 710 30 4 claws, 
+- 750
+: 766 4 0 And 
+: 774 20 9 mine 
+: 798 4 10 are 
+: 806 20 7 long 
+: 828 4 0 and 
+: 836 12 9 sharp, 
+: 852 12 10 my 
+: 868 16 7 lord, 
+- 893
+: 896 4 2 As 
+: 904 12 10 long 
+: 919 12 9 and 
+: 935 12 7 sharp 
+: 951 12 5 as 
+* 968 42 2 yours. 
+- 1035
+: 1080 4 -3 And 
+: 1094 6 4 so 
+: 1102 6 5 he 
+: 1110 24 2 spoke, 
+: 1142 12 5 and 
+: 1158 6 5 so 
+: 1166 6 4 he 
+: 1174 24 -3 spoke, 
+- 1210
+: 1214 4 -3 That 
+: 1222 4 4 Lord 
+: 1230 4 5 of 
+: 1238 32 2 Cast
+: 1272 12 5 a
+: 1286 7 5 me
+: 1294 20 4 re, 
+- 1324
+: 1340 4 -3 And 
+: 1350 6 4 now 
+: 1358 6 5 the 
+: 1366 30 2 rains 
+: 1398 14 9 weep 
+: 1414 14 9 o’er 
+: 1430 14 7 his 
+: 1446 22 2 hall, 
+- 1470
+: 1472 4 4 With 
+: 1480 16 5 no 
+: 1504 6 2 one 
+: 1512 16 4 there 
+: 1534 4 0 to 
+: 1542 28 2 hear. 
+- 1580
+: 1590 8 -3 Yes 
+: 1606 4 4 now 
+: 1614 4 5 the 
+: 1622 20 2 rains 
+: 1654 12 9 weep 
+: 1670 12 9 o’er 
+: 1686 12 7 his 
+: 1702 18 2 hall, 
+- 1726
+: 1728 4 4 And 
+: 1736 18 5 not 
+: 1760 4 2 a 
+* 1768 7 9 soul
+* 1776 7 7 ~
+* 1784 6 4 ~ 
+* 1792 4 5 to 
+* 1800 32 2 hear. 
+- 1857
+: 1932 4 -3 And 
+: 1940 20 5 who 
+: 1962 6 -3 are 
+: 1972 20 4 you, 
+: 1994 6 -3 the 
+: 2002 14 5 proud 
+: 2018 12 7 lord 
+: 2034 18 4 said, 
+- 2058
+: 2060 4 -3 That 
+: 2068 12 7 I 
+: 2084 12 5 must 
+: 2098 12 4 bow 
+: 2114 14 2 so 
+: 2130 30 4 low? 
+- 2170
+: 2194 4 9 On
+: 2202 14 9 ly 
+: 2218 4 10 a 
+: 2226 12 7 cat 
+: 2242 4 0 of 
+: 2250 4 0 a 
+: 2258 10 9 diff’
+: 2274 12 10 rent 
+: 2290 18 7 coat, 
+- 2314
+: 2316 4 2 That’s 
+: 2324 12 10 all 
+: 2340 12 9 the 
+: 2354 12 7 truth 
+: 2370 14 5 I 
+: 2388 24 4 know. 
+- 2422
+: 2442 6 -3 In-a 
+: 2452 20 5 coat 
+: 2474 6 -3 of 
+: 2482 18 4 gold 
+: 2504 6 -3 or-a 
+: 2512 14 5 coat 
+: 2530 14 7 of 
+: 2546 18 4 red, 
+- 2570
+: 2572 4 -3 A 
+: 2580 12 7 li
+: 2596 12 5 on 
+: 2612 12 4 still 
+: 2626 14 2 has 
+: 2642 30 4 claws, 
+- 2682
+: 2698 4 0 And 
+: 2706 20 9 mine 
+: 2730 4 10 are 
+: 2738 20 7 long 
+: 2760 4 0 and 
+: 2768 12 9 sharp, 
+: 2784 12 10 my 
+: 2800 16 7 lord, 
+- 2825
+: 2828 4 2 As 
+: 2836 12 10 long 
+: 2851 12 9 and 
+: 2867 12 7 sharp 
+: 2883 12 5 as 
+* 2900 42 2 yours. 
+- 2967
+: 3012 4 -3 And 
+: 3026 6 4 so 
+: 3034 6 5 he 
+: 3042 24 2 spoke, 
+: 3074 12 5 and 
+: 3090 6 5 so 
+: 3098 6 4 he 
+: 3106 24 -3 spoke, 
+- 3142
+: 3146 4 -3 That 
+: 3154 4 4 Lord 
+: 3162 4 5 of 
+: 3170 32 2 Cast
+: 3204 12 5 a
+: 3218 7 5 me
+: 3226 20 4 re, 
+- 3256
+: 3272 4 -3 And 
+: 3282 6 4 now 
+: 3290 6 5 the 
+: 3298 30 2 rains 
+: 3330 14 9 weep 
+: 3346 14 9 o’er 
+: 3362 14 7 his 
+: 3378 22 2 hall, 
+- 3402
+: 3404 4 4 With 
+: 3412 16 5 no 
+: 3436 6 2 one 
+: 3444 16 4 there 
+: 3466 4 0 to 
+: 3474 28 2 hear. 
+- 3512
+: 3522 8 -3 Yes 
+: 3538 4 4 now 
+: 3546 4 5 the 
+: 3554 20 2 rains 
+: 3586 12 9 weep 
+: 3602 12 9 o’er 
+: 3618 12 7 his 
+: 3634 18 2 hall, 
+- 3658
+: 3660 4 4 And 
+: 3668 18 5 not 
+: 3692 4 2 a 
+* 3700 7 9 soul
+* 3708 7 7 ~
+* 3716 6 4 ~ 
+* 3724 4 5 to 
+* 3732 32 2 hear. 
+E

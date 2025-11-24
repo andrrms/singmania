@@ -1,0 +1,176 @@
+#ARTIST:DJ Sammy feat. Carisma
+#TITLE:Golden Child
+#MP3:DJ Sammy feat. Carisma - Golden Child.mp3
+#CREATOR:taite83
+#GENRE:Trance
+#YEAR:1997
+#LANGUAGE:English
+#BPM:276
+#GAP:20980
+#VIDEO:v=qgvJlrHEvr0,co=https://media.hitparade.ch/cover/800/dj_sammy_feat_carisma-golden_child_s.jpg,bg=sammy-dj-5a20027a59cd9.jpg
+#START:4.0
+: 0 20 6 Gol
+: 24 4 4 den 
+: 30 12 -1 Child 
+- 44
+: 56 3 6 When
+: 60 4 6 e
+: 65 4 4 ver 
+: 72 6 9 you’ll 
+: 80 6 7 feel 
+: 88 6 6 lone
+: 96 12 4 ly 
+- 110
+: 116 6 2 I’m 
+: 124 16 6 on 
+: 146 4 4 your 
+: 153 12 -1 side 
+- 167
+: 180 3 6 No 
+: 184 3 6 mat
+: 188 5 4 ter 
+: 196 6 9 where 
+: 204 4 7 you 
+: 210 6 6 go 
+- 218
+: 224 4 7 I 
+: 230 6 6 Will 
+: 238 6 7 be 
+: 246 12 2 there 
+- 260
+: 272 3 2 You’ll 
+: 276 5 7 al
+: 283 3 6 ways 
+: 288 4 4 find 
+: 295 4 2 my 
+: 302 8 6 shoul
+: 314 12 4 der 
+- 328
+: 352 6 4 So 
+: 360 6 6 don’t 
+: 368 20 2 cry 
+- 390
+: 405 6 7 My 
+: 413 4 6 gold
+: 418 5 4 en 
+: 425 6 6 child
+: 433 20 4 ~ 
+- 455
+: 958 6 7 My 
+: 966 4 6 gold
+: 971 5 7 en 
+: 978 6 6 child
+: 986 20 4 ~ 
+- 1008
+: 1203 6 7 My 
+: 1211 4 6 gold
+: 1216 5 7 en 
+: 1223 6 6 child
+: 1231 20 4 ~ 
+- 1253
+: 1840 20 6 Gold
+: 1864 4 4 en 
+: 1870 12 -1 child 
+- 1884
+: 1896 3 6 When
+: 1900 4 6 e
+: 1905 4 4 ver 
+: 1912 6 9 you 
+: 1920 6 7 feel 
+: 1928 6 6 lone
+: 1936 12 4 ly 
+- 1950
+: 1955 6 2 I’m 
+: 1963 16 6 on 
+: 1985 6 4 your 
+: 1993 12 -1 side 
+- 2007
+: 2020 3 6 No 
+: 2024 3 6 mat
+: 2028 6 4 ter 
+: 2036 6 9 where 
+: 2044 4 7 you 
+: 2050 6 6 go 
+- 2058
+: 2064 4 7 I 
+: 2070 6 6 will 
+: 2078 6 7 be 
+: 2086 16 2 there 
+- 2104
+: 2112 3 2 You’ll 
+: 2116 6 7 al
+: 2124 3 6 ways 
+: 2128 6 4 find 
+: 2136 4 2 my 
+: 2142 8 6 shoul
+: 2154 16 4 der 
+- 2172
+: 2192 6 4 So 
+: 2200 6 6 don’t 
+: 2208 20 2 cry 
+- 2230
+: 2245 6 7 My 
+: 2253 4 6 gold
+: 2258 5 4 en 
+: 2265 6 6 child
+: 2273 20 4 ~ 
+- 2295
+: 2331 20 6 Gold
+: 2355 4 4 en 
+: 2361 12 -1 child 
+- 2375
+: 2388 3 6 When
+: 2392 4 6 e
+: 2397 4 4 ver 
+: 2404 6 9 you 
+: 2412 6 7 feel 
+: 2420 6 6 lone
+: 2428 12 4 ly 
+- 2442
+: 2446 6 2 I’m 
+: 2454 16 6 on 
+: 2476 6 4 your 
+: 2484 12 -1 side 
+- 2498
+: 2510 3 6 No 
+: 2514 3 6 mat
+: 2518 8 4 ter 
+: 2528 6 9 where 
+: 2536 4 7 you 
+: 2542 8 6 go 
+- 2552
+: 2555 4 7 I 
+: 2561 6 6 will 
+: 2569 6 7 be 
+: 2577 16 2 there 
+- 2595
+: 2603 3 2 You’ll 
+: 2607 6 7 al
+: 2615 3 6 ways 
+: 2619 4 4 find 
+: 2625 4 2 my 
+: 2633 8 6 shoul
+: 2645 16 4 der 
+- 2663
+: 2683 6 4 So 
+: 2691 6 6 don’t 
+: 2699 20 2 cry 
+- 2721
+: 2736 6 7 My 
+: 2744 4 6 gold
+: 2749 5 4 en 
+: 2756 6 6 child
+: 2764 20 4 ~ 
+- 2786
+: 3228 6 7 My 
+: 3236 4 6 gold
+: 3241 5 7 en 
+: 3248 6 6 child
+: 3256 16 4 ~ 
+- 3274
+: 3473 6 7 My 
+: 3481 4 6 gold
+: 3486 5 7 en 
+: 3493 6 6 child
+: 3501 20 4 ~ 
+E

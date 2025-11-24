@@ -1,0 +1,308 @@
+#ARTIST:My Little Pony
+#TITLE:Poney Pokey
+#MP3:My Little Pony - Poney Pokey.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2011
+#LANGUAGE:English
+#BPM:400
+#GAP:540
+#VIDEO:v=FkObSw17JLw,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 11 -3 You 
+: 12 5 1 reach 
+: 18 4 1 your 
+: 23 4 1 right 
+: 29 7 3 hoof 
+* 37 11 5 in 
+- 50
+: 52 7 0 You 
+: 60 6 5 reach 
+: 67 4 5 your 
+: 72 6 5 right 
+: 79 6 5 hoof 
+: 86 10 3 out 
+- 98
+: 103 6 0 You 
+: 110 6 2 reach 
+: 117 4 2 your 
+: 122 4 2 right 
+: 127 6 4 hoof 
+: 134 8 6 in 
+- 144
+: 146 5 0 And 
+: 152 3 -3 you 
+: 156 7 1 shake 
+: 164 4 1 it 
+: 172 4 1 all 
+* 177 3 3 a
+: 181 14 5 bout 
+- 197
+: 200 4 5 You 
+: 206 6 6 do 
+: 213 3 6 the 
+: 217 6 6 Po
+: 224 4 6 ny 
+: 229 6 5 Po
+: 236 4 1 key 
+- 241
+: 241 6 1 Meet
+: 248 5 1 ing 
+: 255 6 3 lots 
+: 262 4 3 of 
+: 267 5 5 folks 
+: 273 4 3 with 
+* 278 14 8 clout 
+- 294
+: 302 7 0 That’s 
+: 310 11 0 what 
+: 322 3 0 I’m 
+: 326 5 5 talk
+: 332 7 5 ing 
+: 341 8 3 a
+: 350 14 1 bout 
+- 366
+: 388 8 -3 You 
+: 398 7 1 step 
+: 406 6 1 your 
+: 413 5 1 left 
+: 419 6 3 hoof 
+: 426 9 5 in 
+- 437
+: 441 4 1 You 
+: 446 8 6 pull 
+* 455 4 6 it 
+: 460 5 6 right 
+: 466 7 6 back 
+: 475 11 4 out 
+- 488
+: 489 4 3 You 
+: 494 6 3 step 
+: 503 4 3 your 
+: 508 7 3 left 
+: 516 5 5 hoof 
+: 523 6 7 in 
+- 531
+: 532 4 -1 But 
+: 538 6 -1 you 
+: 546 4 2 bet
+: 551 4 2 ter 
+: 557 6 2 help 
+: 566 4 4 him 
+* 571 12 6 out 
+- 585
+: 588 4 6 You 
+: 593 7 7 do 
+: 601 4 7 the 
+: 606 5 7 Po
+: 612 4 7 ny 
+: 617 6 6 Po
+: 624 5 2 key 
+- 630
+: 630 5 2 But 
+: 636 6 2 you’d 
+: 643 5 4 find 
+: 649 2 4 a 
+: 653 6 6 diff
+: 660 6 4 ’rent 
+* 667 13 9 route 
+- 682
+: 691 6 1 That’s 
+: 698 10 1 what 
+: 709 6 1 it’s 
+: 716 11 6 all 
+: 728 9 4 a
+: 738 10 2 bout 
+- 750
+: 776 10 -2 You 
+: 787 6 3 kick 
+: 794 5 3 your 
+: 800 5 3 back 
+: 806 6 5 left 
+: 813 9 7 in 
+- 824
+: 828 6 1 You 
+: 835 5 7 pull 
+: 841 5 7 your 
+: 847 6 7 back 
+: 855 6 7 left 
+: 863 10 5 out 
+- 875
+: 880 4 3 You 
+: 886 5 8 reach 
+: 892 4 4 your 
+: 897 5 4 back 
+: 903 7 6 left 
+: 911 8 8 in 
+- 920
+: 920 6 -1 Just 
+: 928 5 -1 be 
+: 934 6 3 brave 
+: 941 3 3 and 
+: 946 4 3 have 
+: 951 5 5 no 
+* 957 11 7 doubt 
+- 970
+: 976 4 7 You 
+: 982 5 8 do 
+: 988 4 8 the 
+: 993 6 12 Po
+: 1000 4 8 ny 
+: 1005 6 7 Po
+: 1012 5 3 key 
+- 1018
+: 1018 5 3 Feel
+: 1024 4 3 ing 
+: 1029 5 5 like 
+: 1035 7 5 you’re 
+* 1043 4 7 gon
+: 1048 4 5 na 
+: 1053 15 10 pout 
+- 1070
+: 1078 7 2 That’s 
+: 1086 9 2 what 
+: 1096 5 2 I’m 
+: 1102 5 7 sing
+: 1108 6 7 ing 
+: 1115 9 5 a
+: 1126 11 3 bout 
+- 1139
+: 1163 9 -1 You 
+: 1174 8 3 tilt 
+: 1183 3 3 your 
+* 1187 9 3 head 
+: 1199 12 7 in 
+- 1213
+: 1216 5 3 You 
+: 1222 7 8 tilt 
+: 1230 4 8 your 
+: 1235 9 8 head 
+: 1247 11 6 out 
+- 1260
+: 1266 5 2 You 
+: 1272 6 6 tilt 
+: 1279 4 6 your 
+: 1284 7 6 head 
+* 1295 10 9 in 
+- 1306
+: 1307 5 2 Then 
+: 1313 4 -1 you 
+: 1318 6 3 shake 
+: 1325 6 3 it 
+: 1332 7 3 all 
+: 1340 3 5 a
+: 1344 12 7 bout 
+- 1358
+: 1363 5 8 You 
+: 1369 6 9 do 
+: 1376 4 9 the 
+: 1381 6 9 Po
+: 1388 5 9 ny 
+: 1395 4 8 Po
+: 1400 7 4 key 
+- 1408
+: 1408 4 4 E
+: 1413 4 4 ven 
+: 1418 4 6 though 
+: 1423 5 6 your 
+* 1430 7 8 date’s 
+: 1438 2 6 a 
+: 1442 14 11 lout 
+- 1458
+: 1459 6 3 You’re 
+: 1467 5 3 be
+: 1473 14 3 tter 
+: 1492 7 8 off 
+: 1503 10 6 with
+* 1515 12 4 out 
+- 1529
+: 1550 10 1 You 
+: 1562 7 5 stomp 
+: 1572 3 5 your 
+: 1576 4 5 whole 
+: 1581 6 7 self 
+: 1590 11 9 in 
+- 1603
+: 1605 4 5 You 
+: 1610 7 9 stomp 
+: 1618 5 9 your 
+: 1624 5 9 whole 
+: 1630 6 9 self 
+: 1638 12 7 out 
+- 1651
+: 1652 6 4 You 
+: 1659 7 7 stomp 
+: 1667 4 7 your 
+: 1672 4 7 whole 
+: 1677 7 9 self 
+: 1687 7 10 in 
+- 1695
+: 1696 6 4 And 
+: 1703 3 2 you 
+: 1707 7 4 stomp 
+: 1715 4 4 your
+: 1720 6 4 self 
+: 1727 4 6 a
+: 1732 14 9 bout 
+- 1748
+: 1750 6 9 You 
+: 1757 6 10 do 
+: 1764 3 10 the 
+: 1768 6 10 Po
+: 1775 4 10 ny 
+: 1780 7 9 Po
+: 1788 6 5 key 
+- 1795
+: 1795 4 5 And 
+: 1800 4 5 you 
+: 1805 6 7 give 
+: 1814 3 7 a 
+: 1818 4 9 litt
+: 1823 4 7 le 
+* 1828 7 12 shout 
+- 1836
+F 1836 6 0 COME 
+F 1843 11 0 OUT! 
+- 1855
+: 1855 6 4 That’s 
+: 1862 11 4 what 
+: 1874 4 4 I’m 
+: 1879 4 9 talk
+: 1884 6 9 ing 
+: 1891 8 7 a
+: 1901 14 5 bout 
+- 1917
+: 1943 7 9 You 
+: 1951 5 10 do 
+: 1957 4 10 the 
+: 1963 5 12 Po
+: 1969 4 10 ny 
+: 1974 6 9 Po
+: 1981 8 5 key 
+- 1991
+: 1994 5 5 You 
+: 2000 4 7 do 
+: 2005 4 7 the 
+: 2010 6 9 Po
+: 2017 4 7 ny 
+* 2022 6 12 Po
+: 2029 11 0 key 
+- 2041
+: 2042 5 8 You 
+: 2048 6 10 do 
+: 2055 4 10 the 
+: 2061 4 12 Po
+: 2066 4 10 ny 
+: 2071 5 9 Po
+: 2077 7 7 key 
+- 2086
+: 2087 8 5 And 
+: 2096 8 4 that’s 
+: 2105 10 4 what 
+: 2116 6 4 it’s 
+: 2123 10 9 all 
+: 2134 8 7 a
+: 2144 15 5 bout 
+- 2161
+F 2164 21 0 YEAH! 
+E

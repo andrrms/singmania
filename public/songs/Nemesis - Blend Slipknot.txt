@@ -1,0 +1,242 @@
+#ARTIST:Nemesis
+#TITLE:Blend Slipknot
+#MP3:Nemesis - Blend Slipknot.mp3
+#CREATOR:hamelner
+#COVER:Nemesis - Blend Slipknot [CO].jpg
+#BACKGROUND:Nemesis - Blend Slipknot [BG].jpg
+#LANGUAGE:English
+#BPM:369.14
+#GAP:5900
+#VIDEO:v=4j9xw-D38cE,co=https://i1.sndcdn.com/artworks-000540444300-t3czlz-t500x500.jpg
+: 0 2 18 I 
+: 4 7 19 did 
+: 14 7 19 my 
+: 24 10 20 time 
+- 39
+: 41 3 19 And 
+: 47 2 19 I 
+: 50 4 18 want 
+: 57 3 15 out 
+- 69
+: 72 4 12 So 
+: 78 3 13 e 
+: 82 6 18 fu 
+: 89 13 16 sive 
+: 104 10 10 fade 
+- 117
+: 119 1 16 It 
+: 121 7 16 doesn’t 
+: 132 6 14 cut 
+- 144
+: 146 2 16 The 
+: 151 5 17 soul 
+: 158 2 13 is 
+: 161 2 17 not 
+: 166 1 17 so 
+: 170 3 21 vi
+: 174 4 17 brant 
+- 190
+: 194 5 18 The 
+: 200 5 17 rec
+: 206 5 17 ko
+: 212 6 18 ning 
+- 229
+: 233 2 19 The 
+: 238 8 16 sic 
+: 248 7 17 kening 
+- 255
+: 257 5 12 Pac
+: 263 6 13 kaging 
+: 272 4 16 sub
+: 277 4 16 ver
+: 282 5 16 sion 
+- 293
+: 296 7 17 Pseudo
+: 304 6 17 sac
+: 311 4 17 ro
+: 316 4 17 sanct 
+: 321 4 16 per
+: 326 4 20 ver
+: 331 10 16 sion 
+- 347
+: 350 3 19 Go 
+: 355 4 17 drill 
+: 360 2 16 your 
+: 364 9 19 deserts 
+- 384
+: 388 3 19 Go 
+: 393 4 17 dig 
+: 399 2 19 your 
+: 403 10 17 graves 
+- 424
+: 428 3 16 Then 
+: 433 4 15 fill 
+: 438 4 16 your 
+: 443 3 17 mouth 
+: 448 3 17 with 
+: 454 2 16 all 
+: 457 3 17 the 
+: 463 6 16 money 
+: 470 5 17 you 
+: 476 4 13 will 
+: 481 12 15 save 
+- 498
+: 500 5 19 Sin
+: 506 5 16 king 
+: 512 6 18 in 
+: 519 3 18 get
+: 523 4 17 ting 
+: 528 5 18 smal
+: 534 5 18 ler 
+: 540 11 20 again 
+- 559
+: 562 2 18 I’m 
+: 568 8 15 done 
+: 578 1 7 it 
+: 583 8 17 has 
+: 593 5 17 be
+: 599 6 17 gun 
+- 611
+: 613 3 12 I’m 
+: 617 3 16 not 
+: 622 5 17 the 
+: 629 7 17 only 
+: 642 4 17 one 
+- 656
+: 677 2 13 And 
+: 680 2 14 the 
+: 684 9 14 rain 
+- 693
+: 694 2 12 Will 
+: 698 11 10 kill 
+: 710 9 12 us 
+: 720 24 15 all 
+- 753
+: 756 6 21 We 
+: 763 5 15 throw 
+: 769 23 14 ourselves 
+: 793 12 12 against 
+: 806 4 15 the 
+: 811 10 11 wall 
+- 830
+: 834 2 7 And 
+: 839 6 17 no 
+: 850 3 17 one 
+: 856 3 12 else 
+: 863 6 12 can 
+: 873 13 14 see 
+- 898
+: 902 1 15 The 
+: 907 4 14 pre
+: 912 4 11 ser
+: 917 4 14 va
+: 922 5 12 tion 
+: 928 2 12 of 
+: 932 2 10 the 
+: 937 3 10 mar
+: 941 4 9 tyr 
+: 950 4 9 in 
+: 956 10 10 me 
+- 976
+: 1014 8 12 Psycho
+: 1026 2 19 so
+: 1029 6 22 cial! 
+- 1045
+: 1053 10 21 Psycho
+: 1064 2 7 so
+: 1068 5 22 cial! 
+- 1083
+: 1092 8 21 Psycho
+: 1103 2 12 so
+: 1107 5 22 cial! 
+- 1122
+: 1129 8 21 Psycho
+: 1142 2 19 so
+: 1145 6 22 cial! 
+- 1161
+: 1169 10 21 Psycho
+: 1180 1 19 so
+: 1184 5 10 cial! 
+- 1199
+: 1208 8 21 Psycho
+: 1219 2 19 so
+: 1223 6 10 cial! 
+- 1239
+: 1247 8 21 Psycho
+: 1258 2 19 so
+: 1262 5 22 cial! 
+- 1277
+: 1305 8 11 Oh 
+: 1314 4 19 there 
+: 1321 2 17 are 
+: 1324 8 19 cracks 
+: 1336 2 19 in 
+: 1339 3 18 the 
+: 1344 4 18 road 
+: 1349 4 18 we 
+: 1354 6 17 laid 
+- 1366
+: 1369 3 19 But 
+: 1374 4 17 where 
+: 1379 2 17 the 
+: 1383 7 20 temple 
+: 1393 7 14 fell 
+- 1406
+: 1408 2 19 The 
+: 1413 7 19 secrets 
+: 1422 4 19 have 
+: 1429 6 19 gone 
+: 1437 11 18 mad 
+- 1472
+: 1500 2 20 This 
+: 1506 1 16 is 
+: 1509 4 19 no
+: 1514 4 17 thing 
+: 1520 7 19 new 
+- 1532
+: 1534 3 19 But 
+: 1539 3 17 when 
+: 1543 3 17 we 
+: 1547 6 16 killed 
+: 1555 2 16 it 
+: 1563 3 17 all 
+- 1571
+: 1573 9 16 The hate 
+: 1583 5 17 was 
+: 1591 3 16 all 
+: 1596 6 17 we 
+: 1603 16 15 had! 
+- 1629
+: 1660 4 15 Who 
+: 1666 2 15 needs 
+: 1672 5 15 an
+: 1678 5 16 other 
+: 1684 4 18 mess? 
+- 1695
+: 1698 2 18 We 
+: 1702 3 16 could 
+: 1708 6 15 start 
+: 1716 5 16 over! 
+- 1726
+: 1728 3 17 Just 
+: 1733 2 19 look 
+: 1739 3 16 me 
+: 1744 2 16 in 
+: 1747 3 16 the 
+: 1751 6 16 eyes 
+: 1758 1 16 and 
+: 1762 7 17 say 
+: 1772 2 15 I’m 
+: 1776 10 15 wrong! 
+- 1835
+: 1979 5 11 I 
+: 1985 4 17 think 
+: 1990 3 14 we’re 
+: 1994 12 17 done 
+- 2006
+: 2007 5 21 I’m 
+: 2013 6 21 not 
+: 2020 5 24 the 
+: 2026 6 22 only 
+: 2033 22 17 one! 
+E

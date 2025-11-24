@@ -1,0 +1,296 @@
+#ARTIST:Steppenwolf
+#TITLE:Magic Carpet Ride
+#MP3:Steppenwolf - Magic Carpet Ride.mp3
+#CREATOR:IC
+#YEAR:1968
+#LANGUAGE:English
+#BPM:221.4
+#GAP:23320
+#VIDEO:v=HPE9a_epmWw,co=https://whythebeatlesarestillrelevant.files.wordpress.com/2019/02/magic-carpet-ride.jpg,co-crop=5-4-524-524,bg=steppenwolf-513e341e7fb13.jpg
+#START:2.0
+* 0 3 18 I 
+* 4 3 18 like 
+: 11 3 16 to 
+: 16 6 14 dream
+: 23 4 11 ~ 
+- 29
+: 43 4 12 Yes
+: 48 5 14 ~, 
+: 56 5 14 yes 
+- 63
+: 64 3 12 Right 
+: 68 3 14 be
+: 72 3 12 tween 
+: 76 2 12 the 
+: 80 3 11 sound 
+: 84 2 11 ma
+: 88 3 11 chine
+: 92 2 7 ~ 
+- 96
+: 123 1 14 On 
+: 125 1 14 a 
+* 127 3 18 cloud 
+: 131 2 14 of 
+* 135 3 18 sound 
+: 139 3 16 I 
+: 143 1 14 drift 
+: 145 1 14 in 
+: 147 1 11 the 
+: 149 5 14 night 
+- 156
+: 163 2 12 A
+: 166 1 11 ny 
+: 168 3 12 place 
+: 172 2 11 it 
+: 176 3 14 goes 
+: 180 2 9 is 
+: 184 5 11 right 
+- 191
+: 196 2 12 Goes 
+: 200 6 14 far, 
+: 211 3 12 flies 
+: 216 5 14 near 
+- 223
+: 228 1 12 To 
+: 230 1 12 the 
+: 232 4 11 stars 
+: 238 1 7 a
+: 240 2 11 way 
+: 243 3 7 from 
+: 247 2 7 here 
+- 250
+: 251 6 12 Well, 
+* 260 4 18 you 
+: 266 5 16 don’t 
+: 272 6 14 know 
+: 280 3 12 what 
+- 285
+: 292 5 12 We 
+: 300 2 11 can 
+: 304 8 14 find 
+- 314
+: 320 2 12 Why 
+: 323 1 12 don’t 
+: 325 2 11 you 
+: 328 3 12 come 
+: 332 2 11 with 
+: 336 3 14 me 
+: 340 1 11 lit
+: 342 1 11 tle 
+: 344 5 11 girl 
+- 351
+: 356 1 9 On 
+: 358 1 11 a 
+: 360 3 11 mag
+: 364 2 11 ic 
+: 368 3 7 car
+: 372 2 7 pet 
+: 376 3 7 ride 
+- 381
+* 387 5 18 You 
+: 394 4 16 don’t 
+: 400 5 14 know 
+: 408 2 11 what 
+- 412
+: 419 5 12 We 
+: 427 2 11 can 
+: 431 7 14 see 
+- 440
+: 446 2 12 Why 
+: 449 1 12 don’t 
+: 451 2 11 you 
+: 455 2 12 tell 
+: 459 2 11 your 
+: 463 3 14 dreams 
+: 467 2 11 to 
+: 471 3 11 me 
+- 476
+: 479 3 9 Fan
+: 483 2 11 ta
+: 487 2 11 sy 
+: 491 2 11 will 
+: 495 1 9 set 
+: 497 2 7 you 
+: 501 5 7 free 
+- 508
+: 516 7 7 Close 
+: 524 2 7 your 
+: 528 6 10 eyes, 
+: 535 8 7 girl 
+- 545
+: 548 6 10 Look 
+: 556 2 10 in
+: 560 7 12 side, 
+: 569 7 12 girl 
+- 578
+: 581 5 12 Let 
+: 589 2 12 the 
+: 593 3 14 sound 
+: 597 3 14 take 
+: 601 4 14 you 
+: 606 4 12 a
+: 611 15 14 way 
+- 628
+: 736 3 17 Last 
+* 741 3 17 night 
+* 745 3 17 I 
+* 749 3 17 held 
+: 753 3 17 A
+: 757 1 14 lad
+: 759 3 11 din’s 
+: 764 7 14 lamp 
+- 773
+: 774 2 9 And 
+: 777 1 12 so 
+: 779 1 11 I 
+: 781 3 12 wished 
+: 785 3 11 that 
+: 789 3 11 I 
+: 793 2 11 could 
+: 797 6 11 stay 
+- 805
+: 807 1 11 Be
+: 809 1 12 fore 
+: 811 1 11 the 
+: 813 2 12 thing 
+: 817 2 11 could 
+: 821 3 14 an
+: 825 2 11 swer 
+: 829 2 11 me, 
+- 832
+: 832 3 11 Well 
+: 837 3 10 some
+: 841 3 11 one 
+: 845 1 11 came 
+: 847 1 9 and 
+: 849 1 11 took 
+: 851 1 7 the 
+: 853 3 9 lamp 
+: 857 3 7 a
+: 861 3 7 way 
+- 866
+: 873 3 12 I 
+: 877 5 14 looked 
+: 889 3 11 a
+: 893 4 14 round
+: 898 3 11 ~ 
+- 902
+: 903 1 7 A 
+: 905 1 11 lou
+: 907 2 9 sy 
+: 911 2 11 can
+: 914 2 7 dle’s 
+: 917 3 7 all 
+: 921 2 7 I 
+: 925 2 7 found 
+- 928
+: 929 3 14 Well, 
+* 937 3 18 you 
+: 943 3 16 don’t 
+: 949 6 14 know 
+: 957 3 11 what 
+- 962
+: 968 6 12 We 
+: 977 3 11 can 
+: 981 8 14 find 
+- 991
+: 996 2 12 Why 
+: 999 2 12 don’t 
+: 1002 2 11 you 
+: 1005 3 12 come 
+: 1009 2 11 with 
+: 1013 2 14 me 
+: 1016 1 11 lit
+: 1018 1 11 tle 
+: 1021 5 11 girl 
+- 1028
+: 1032 1 9 On 
+: 1034 2 11 a 
+: 1037 2 11 mag
+: 1040 2 11 ic 
+: 1044 3 7 car
+: 1048 2 7 pet 
+: 1052 2 7 ride 
+- 1055
+: 1056 3 14 Well, 
+* 1065 3 18 you 
+: 1070 4 16 don’t 
+: 1077 6 14 know 
+: 1085 2 11 what 
+- 1089
+: 1097 6 12 We 
+: 1105 2 11 can 
+: 1109 7 14 see 
+- 1118
+: 1124 2 12 Why 
+: 1127 2 12 don’t 
+: 1130 2 11 you 
+: 1133 3 12 tell 
+: 1137 3 11 your 
+: 1141 2 14 dreams 
+: 1145 3 11 to 
+: 1149 3 11 me 
+- 1154
+: 1156 3 11 Fan
+: 1160 2 10 ta
+: 1164 2 11 sy 
+: 1168 2 11 will 
+: 1172 1 7 set 
+: 1174 2 7 you 
+: 1178 5 7 free 
+- 1185
+: 1192 6 7 Close 
+: 1201 2 7 your 
+: 1205 6 10 eyes, 
+: 1213 6 7 girl 
+- 1221
+: 1225 6 10 Look 
+: 1233 2 10 in
+: 1237 7 12 side, 
+: 1247 5 12 girl 
+- 1254
+: 1259 5 12 Let 
+: 1267 2 12 the 
+: 1271 3 14 sound 
+: 1275 3 14 take 
+: 1279 3 14 you 
+: 1283 3 12 a
+* 1287 21 14 way 
+- 1310
+* 3298 3 18 You 
+: 3304 3 16 don’t 
+: 3310 6 14 know 
+: 3318 3 11 what 
+- 3323
+: 3329 6 12 We 
+: 3338 2 11 can 
+: 3342 8 14 find 
+- 3352
+: 3357 2 12 Why 
+: 3360 2 12 don’t 
+: 3363 2 11 you 
+: 3366 3 12 come 
+: 3370 2 11 with 
+: 3374 2 14 me 
+: 3377 1 11 lit
+: 3379 1 11 tle 
+: 3382 5 11 girl 
+- 3389
+: 3394 1 9 On 
+: 3396 2 11 a 
+: 3399 2 11 mag
+: 3402 2 11 ic 
+: 3406 3 9 car
+: 3410 2 7 pet 
+: 3414 2 7 ride 
+- 3417
+: 3417 3 14 Well, 
+* 3426 3 18 you 
+: 3432 3 16 don’t 
+: 3438 6 14 know 
+: 3446 3 11 what 
+- 3451
+: 3457 6 12 We 
+: 3466 2 11 can 
+: 3470 8 14 see 
+E

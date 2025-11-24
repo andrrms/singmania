@@ -1,0 +1,199 @@
+#ARTIST:Robbie Williams
+#TITLE:Have You Met Miss Jones?
+#MP3:Robbie Williams - Have You Met Miss Jones?.mp3
+#CREATOR:DoubleDee
+#COVER:Robbie Williams - Have You Met Miss Jones? [CO].jpg
+#BACKGROUND:Robbie Williams - Have You Met Miss Jones? [BG].jpg
+#GENRE:Swing
+#YEAR:2001
+#LANGUAGE:English
+#BPM:245
+#GAP:9970
+#VIDEO:a=YYgAwJk73QI,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/43/0a/bb430a96-3466-1631-1db9-57d60fb845a8/06UMGIM03095.rgb.jpg/5000x5000bb.jpg,bg=robbie-williams-4de42ba42490b.jpg
+: 0 5 11 “Have 
+: 8 5 4 you 
+: 15 4 2 met 
+: 23 3 4 Miss 
+: 28 3 4 Jone
+: 32 19 2 ~s?” 
+- 60
+: 63 7 4 Some
+: 71 5 6 one 
+: 79 5 7 said 
+: 85 6 9 as 
+: 92 7 11 we 
+: 100 6 12 shook 
+: 108 12 14 hands 
+- 129
+: 132 2 16 She 
+: 135 4 9 was 
+: 140 4 7 just 
+: 148 5 9 Miss 
+: 155 2 9 Jone
+: 158 7 7 ~s 
+: 182 3 11 to 
+: 187 33 12 me 
+- 230
+: 251 2 7 And 
+: 254 6 11 then 
+: 262 6 2 I 
+: 270 5 2 said 
+: 276 4 4 “Miss 
+: 284 2 4 Jone
+: 287 7 2 ~s, 
+- 304
+: 322 4 4 You’re 
+: 328 3 6 a 
+: 333 8 7 girl 
+: 342 6 9 who 
+: 350 7 11 un
+: 358 3 12 der
+: 363 10 14 stands, 
+- 383
+: 387 5 16 I’m 
+: 394 3 9 a 
+: 398 6 7 man 
+: 406 4 9 who 
+: 411 2 9 mus
+: 414 10 7 ~t 
+: 435 16 16 be 
+: 452 22 14 free.” 
+- 484
+: 488 7 16 And 
+: 496 1 15 all
+: 498 5 16 ~ 
+: 504 1 15 at
+: 506 3 16 ~ 
+: 511 6 14 once 
+: 519 7 12 I 
+: 527 6 7 lost 
+: 535 4 9 my 
+: 541 4 10 breath, 
+- 547
+: 549 9 10 And 
+: 559 2 9 all
+: 562 4 10 ~ 
+: 567 1 9 at
+: 569 5 10 ~ 
+: 576 4 10 once 
+: 583 6 8 was 
+: 591 8 3 scared 
+: 600 3 5 to 
+: 605 5 6 death 
+- 611
+: 613 8 6 And 
+: 624 7 6 all 
+: 633 2 5 at
+: 636 3 6 ~ 
+: 640 6 6 once, 
+: 657 6 4 I 
+: 664 4 8 owned 
+: 669 2 11 the 
+: 674 19 15 earth 
+: 695 14 15 and 
+: 711 2 15 sky
+: 714 17 12 ~ 
+- 747
+: 766 2 10 But 
+: 769 6 11 now 
+: 777 7 2 I’ve 
+: 785 4 2 met 
+: 791 4 4 Miss 
+: 799 3 4 Jone
+: 803 10 2 ~s 
+- 823
+: 839 6 4 And 
+: 846 3 6 we’ll 
+: 851 3 7 keep 
+: 855 7 9 on 
+: 863 5 11 mee
+: 870 8 12 ting 
+: 886 4 14 till 
+: 891 4 16 we 
+: 897 34 18 die 
+- 932
+: 934 7 11 Miss 
+: 945 7 11 Jones 
+: 954 1 9 an
+: 956 2 11 ~d 
+: 959 1 11 I
+: 961 4 7 ~
+: 966 2 4 ~ 
+- 1000
+: 1511 7 16 And 
+: 1519 1 14 all
+: 1521 5 16 ~ 
+: 1527 1 15 at
+: 1529 3 16 ~ 
+: 1534 5 14 once 
+: 1541 1 11 I
+: 1543 6 12 ~ 
+: 1550 5 7 lost 
+: 1558 4 9 my 
+: 1564 4 10 breath, 
+- 1569
+: 1571 2 9 An
+: 1574 6 10 ~d 
+: 1582 7 10 all 
+: 1590 1 9 at
+: 1592 5 10 ~ 
+: 1599 5 10 once 
+: 1607 5 8 was 
+: 1615 7 3 scared 
+: 1624 3 5 to 
+: 1629 4 6 death 
+- 1635
+: 1637 9 6 And 
+: 1647 7 6 all 
+: 1656 5 6 at 
+: 1663 5 6 once, 
+: 1679 6 4 I 
+: 1686 4 8 owned 
+: 1691 3 11 the 
+: 1696 21 15 earth 
+: 1720 12 15 and 
+: 1733 2 15 sky
+: 1736 18 12 ~ 
+- 1770
+: 1788 3 9 And 
+: 1792 6 11 now 
+: 1800 7 2 I’ve 
+: 1808 4 2 met 
+: 1813 4 4 Miss 
+: 1821 3 4 Jone
+: 1825 8 2 ~s 
+- 1843
+: 1857 7 4 And 
+: 1865 6 6 we’ll 
+: 1873 4 7 keep 
+: 1878 6 9 on 
+: 1886 5 11 mee
+: 1893 8 12 ting 
+: 1910 4 14 till 
+: 1915 4 16 we 
+: 1921 34 18 die 
+- 1956
+: 1958 4 11 Miss 
+: 1969 6 11 Jones 
+: 1978 1 9 and
+: 1980 3 11 ~ 
+: 1984 14 7 I 
+- 2008
+: 2023 5 7 Miss 
+: 2034 2 9 Jone
+: 2037 5 11 ~s 
+: 2043 4 11 and 
+: 2048 2 11 I
+: 2051 5 7 ~ 
+- 2066
+: 2088 3 10 Mis
+: 2092 4 11 ~s 
+: 2099 7 11 Jones 
+: 2107 6 14 and 
+* 2114 83 19 I
+: 2198 2 16 ~
+: 2201 2 14 ~
+: 2204 3 11 ~ 
+- 2239
+R 2282 5 11 Ha! 
+E

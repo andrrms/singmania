@@ -1,0 +1,257 @@
+#ARTIST:Elvis Presley
+#TITLE:Don’t Cry Daddy
+#MP3:Elvis Presley - Don’t Cry Daddy.mp3
+#CREATOR:Canni
+#GENRE:Country
+#YEAR:1969
+#LANGUAGE:English
+#BPM:345.8
+#GAP:14320
+#VIDEO:a=P58JD3KKRv4,co=https://i.discogs.com/rnf7HauoaBKM5TukPviXK6cQ5bbvWdXKXdCOCgrRR1M/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDAy/NTctMTMzNjg5NjIw/MS0zNTMwLmpwZWc.jpeg,bg=elvis-presley-4ddf94a925d93.jpg
+: 0 2 16 To
+: 3 7 18 day 
+: 12 3 18 I 
+: 16 9 18 stumb
+: 26 3 18 led 
+: 30 7 19 from 
+: 38 7 18 my 
+: 46 11 16 bed 
+- 57
+: 58 7 14 With 
+: 66 7 18 thun
+: 74 3 18 der 
+: 78 11 18 crash
+: 90 3 18 ing 
+: 94 7 19 in 
+: 102 7 18 my 
+: 110 8 16 head 
+- 120
+: 122 7 14 My 
+: 130 3 16 pil
+: 134 7 14 low 
+: 142 7 14 still 
+: 150 12 14 wet 
+- 168
+: 170 3 7 From 
+: 174 7 11 last 
+: 182 7 14 night 
+: 190 40 9 tears 
+- 253
+: 321 2 16 And 
+: 324 7 18 as 
+: 332 3 18 I 
+: 337 11 18 think 
+: 349 3 18 of 
+: 355 5 19 gi
+: 361 7 18 ving 
+: 369 3 16 up 
+- 372
+: 373 3 14 A 
+: 381 11 18 voice 
+: 395 3 18 in
+: 399 10 18 side 
+: 410 7 18 my 
+: 418 7 19 cof
+: 426 3 18 fee 
+: 430 8 16 cup 
+- 440
+: 442 7 14 Kept 
+: 450 7 16 cry
+: 458 3 14 ing 
+: 462 16 14 out 
+- 487
+: 490 7 14 Ring
+: 498 3 14 ing 
+: 502 3 14 in 
+: 506 7 14 my 
+: 514 72 16 ears 
+- 596
+: 612 13 19 Don’t 
+: 626 15 18 cry 
+: 642 11 16 dad
+: 654 64 18 dy 
+- 728
+: 745 5 18 Dad
+: 751 3 18 dy, 
+: 758 9 19 please 
+: 768 9 21 don’t 
+: 778 70 16 cry 
+- 858
+: 892 6 16 Dad
+: 900 3 18 dy, 
+: 904 7 19 you’ve 
+: 912 11 19 still 
+: 924 7 19 got 
+: 932 3 19 me 
+: 937 2 19 and 
+: 941 4 18 lit
+: 946 4 16 tle 
+: 952 10 14 Tom
+: 963 3 16 my 
+- 967
+: 969 3 16 To
+: 973 3 18 get
+: 977 3 18 her 
+: 981 7 18 we’ll 
+: 989 7 18 find 
+: 997 3 18 a 
+: 1001 11 19 brand 
+: 1013 7 18 new 
+: 1021 7 16 mom
+: 1029 7 14 my 
+- 1036
+: 1038 6 9 Dad
+: 1045 4 14 dy, 
+: 1051 5 14 dad
+: 1057 3 14 dy, 
+: 1062 5 18 please 
+: 1069 8 18 laugh 
+: 1079 3 21 a
+: 1084 12 21 gain 
+- 1099
+: 1101 11 9 Dad
+: 1113 2 13 dy 
+: 1117 5 13 ride 
+: 1124 3 16 us 
+: 1128 3 16 on 
+: 1132 3 16 your 
+: 1136 7 16 back 
+: 1144 3 19 a
+: 1148 7 19 gain 
+- 1158
+: 1160 6 19 Oh, 
+: 1168 15 19 da
+: 1184 15 18 d
+: 1200 14 16 dy, 
+: 1216 8 14 please 
+: 1226 4 13 don’t 
+: 1234 48 14 cry 
+- 1328
+: 1684 11 18 Why 
+: 1696 3 18 are 
+: 1700 7 18 chil
+: 1708 3 18 dren 
+: 1712 7 19 al
+: 1720 11 18 ways 
+: 1732 10 16 first 
+- 1743
+: 1745 3 14 To 
+: 1750 7 18 feel 
+: 1758 3 18 the 
+: 1762 7 18 pain 
+: 1770 7 18 and 
+: 1778 11 19 hurt 
+: 1790 3 18 the 
+: 1794 8 16 worst 
+- 1804
+: 1806 3 14 It’s 
+: 1810 11 16 true, 
+: 1822 3 14 but 
+: 1826 7 14 some
+: 1834 12 14 how 
+- 1849
+: 1851 2 14 It 
+: 1854 4 14 just 
+: 1860 5 11 don’t 
+: 1866 7 14 seem 
+: 1874 48 9 right 
+- 1945
+: 2002 3 16 ’Cause 
+: 2006 7 18 ev’
+: 2014 3 18 ry 
+: 2018 11 18 time 
+: 2030 3 18 I 
+: 2034 11 19 cry 
+: 2046 3 18 I 
+: 2050 11 16 know 
+- 2063
+: 2065 3 14 It 
+: 2069 11 18 hurts 
+: 2081 3 18 my 
+: 2089 3 18 lit
+: 2093 5 18 tle 
+: 2100 9 19 chil
+: 2110 5 18 dren 
+: 2118 10 16 so 
+- 2128
+: 2130 3 14 I 
+: 2134 11 16 won
+: 2146 8 14 der 
+: 2160 3 14 will 
+: 2164 3 14 it 
+: 2168 7 14 be 
+: 2176 3 14 the 
+: 2180 3 14 sa
+: 2184 8 14 me 
+: 2194 3 14 to
+: 2198 70 16 night 
+- 2278
+: 2300 11 19 Don’t 
+: 2312 19 18 cry 
+: 2332 7 16 dad
+: 2340 56 18 dy 
+- 2406
+: 2432 7 18 Dad
+: 2440 3 18 dy, 
+: 2444 7 19 please 
+: 2452 8 21 don’t 
+: 2462 66 16 cry 
+- 2551
+: 2578 6 16 Dad
+: 2585 5 18 dy, 
+: 2592 7 19 you’ve 
+: 2600 6 19 still 
+: 2607 5 19 got 
+: 2616 3 19 me 
+: 2622 2 19 and 
+: 2626 2 18 lit
+: 2629 7 16 tle 
+: 2638 7 14 Tom
+: 2646 7 16 my 
+- 2653
+: 2654 3 16 To
+: 2658 3 18 get
+: 2662 3 18 her 
+: 2666 7 18 we’ll 
+: 2674 7 18 find 
+: 2682 3 18 a 
+: 2686 7 19 brand 
+: 2695 7 18 new 
+: 2705 8 16 mom
+: 2714 7 14 my 
+- 2721
+: 2722 7 9 Dad
+: 2730 3 14 dy, 
+: 2734 7 14 dad
+: 2742 3 14 dy, 
+: 2746 3 18 please 
+: 2750 11 18 laugh 
+: 2762 3 21 a
+: 2766 16 21 gain 
+- 2784
+: 2786 7 9 Dad
+: 2794 3 13 dy 
+: 2798 7 13 ride 
+: 2806 3 16 us 
+: 2810 3 16 on 
+: 2814 3 16 your 
+: 2818 7 16 back 
+: 2826 3 19 a
+: 2830 11 19 gain 
+- 2841
+: 2842 7 19 Oh, 
+: 2852 13 19 da
+: 2867 18 18 d
+: 2886 11 16 dy, 
+: 2900 9 14 please 
+: 2910 7 13 don’t 
+: 2918 46 14 cry 
+- 2987
+: 3036 10 19 Oh, 
+: 3048 15 19 da
+: 3064 16 18 d
+: 3082 27 16 dy, 
+: 3118 22 14 please 
+: 3142 17 13 don’t 
+: 3161 71 14 cry 
+E

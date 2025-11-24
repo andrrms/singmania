@@ -1,0 +1,297 @@
+#ARTIST:Greg Lake
+#TITLE:Nuclear Attack
+#MP3:Greg Lake - Nuclear Attack.mp3
+#CREATOR:Ich,werdennsonst?
+#GENRE:Hard Rock
+#YEAR:1981
+#LANGUAGE:English
+#BPM:258.07
+#GAP:23660
+#VIDEO:a=g-vBr0ZgcIk,v=lGZGYBc2ppI,co=https://i.scdn.co/image/ab67616d0000b273fb148a35a1fcac89f6b4298f
+#VIDEOGAP:128.0
+: 0 5 6 Out 
+: 6 3 4 on 
+: 10 3 2 the 
+: 14 9 2 streets 
+: 24 3 2 they’re 
+: 28 5 4 all 
+: 34 3 7 li
+: 38 4 6 ving 
+: 43 2 4 in 
+: 46 7 6 fe
+: 54 14 4 ar. 
+- 70
+: 106 2 2 You 
+: 109 2 2 can 
+: 112 6 6 feel 
+: 119 5 4 their 
+: 125 6 2 hearts 
+: 132 12 2 pound 
+: 150 5 2 as 
+: 156 4 4 the 
+: 161 4 7 mo
+: 166 4 6 ment 
+: 171 7 4 draws 
+: 179 5 6 ne
+: 185 31 4 ar. 
+- 218
+: 236 3 0 One 
+: 240 6 2 push 
+: 247 3 2 of 
+: 251 1 2 a 
+: 253 3 4 but
+: 257 6 0 ton 
+: 266 3 4 is 
+: 270 7 6 all 
+: 278 2 6 it 
+: 281 2 6 would 
+: 284 14 6 take 
+- 300
+: 308 1 6 To 
+: 310 6 6 dress 
+: 317 2 6 the 
+: 320 12 6 world 
+: 333 1 2 in 
+: 335 17 4 black. 
+- 354
+: 366 2 0 One 
+: 369 5 2 fault 
+: 375 2 2 in 
+: 378 2 2 the 
+: 381 5 4 sys
+: 387 7 0 tem, 
+: 397 4 2 a 
+: 402 3 6 fa
+: 406 2 4 tal 
+: 409 4 2 mis
+: 414 10 6 take, 
+- 426
+: 428 2 4 And 
+: 431 3 4 you’ll 
+: 435 3 6 ne
+: 439 3 4 ver 
+: 443 3 2 come 
+: 447 21 6 back 
+- 470
+: 475 4 4 From 
+: 480 1 4 a 
+: 482 3 7 nu
+: 486 4 6 clear 
+: 491 3 4 at
+: 495 13 4 tack. 
+- 510
+: 640 3 6 The 
+: 644 4 4 Rus
+: 649 5 2 sians 
+: 655 2 2 are 
+: 658 2 2 rea
+: 661 5 2 dy, 
+: 672 3 4 the 
+: 676 4 7 U.
+: 681 4 4 S. 
+: 686 3 6 is 
+: 690 16 4 armed. 
+- 708
+: 768 4 2 They 
+: 773 6 2 try 
+: 780 4 6 and 
+: 785 5 4 tell 
+: 791 2 2 us 
+: 794 6 2 there’s 
+: 801 4 4 no 
+* 806 26 7 cause 
+: 833 2 6 for 
+: 836 1 4 a
+: 838 9 6 la
+: 848 4 4 rm. 
+- 854
+: 880 1 0 If 
+: 882 3 0 you 
+: 886 4 2 think 
+: 891 3 2 you 
+: 895 2 2 can 
+: 898 10 4 live 
+: 912 3 0 like 
+: 916 3 0 a 
+: 920 3 2 rat 
+: 924 1 6 in 
+: 926 1 4 a 
+: 928 7 2 se
+: 936 12 6 wer, 
+- 950
+: 955 2 6 There 
+: 958 3 6 might 
+: 962 2 6 be 
+: 965 1 6 a 
+: 967 9 6 chance 
+: 977 3 4 you’ll 
+: 981 3 6 stay 
+: 985 1 2 a
+: 987 13 4 live. 
+- 1002
+: 1012 3 0 But 
+: 1016 3 2 no 
+: 1020 3 2 one 
+: 1024 3 4 can 
+: 1028 12 0 say, 
+: 1044 3 6 no 
+: 1048 5 4 one 
+: 1054 5 4 knows 
+: 1060 1 2 for 
+: 1062 12 6 sure, 
+- 1075
+: 1076 4 4 Just 
+: 1081 4 6 who 
+: 1086 2 4 will 
+: 1089 3 2 sur
+: 1093 21 6 vive 
+- 1116
+: 1125 3 4 A 
+: 1129 3 7 nu
+: 1133 4 6 clear 
+: 1138 2 4 at
+: 1141 13 4 tack, 
+- 1156
+: 1190 1 4 A 
+: 1192 5 7 nu
+: 1198 5 6 clear 
+: 1204 2 4 at
+: 1207 17 4 tack. 
+- 1226
+: 1252 1 4 You 
+: 1254 3 4 may 
+: 1258 3 6 ne
+: 1262 3 4 ver 
+: 1266 3 2 come 
+: 1270 22 6 back 
+- 1294
+: 1316 2 4 From 
+: 1319 3 4 a 
+: 1323 3 7 nu
+: 1327 4 6 clear 
+: 1332 3 4 at
+: 1336 20 4 tack. 
+- 1358
+: 2507 3 6 Out 
+: 2511 3 4 on 
+: 2515 3 2 the 
+: 2519 8 2 streets 
+: 2528 5 2 they’re 
+: 2534 3 4 all 
+: 2538 4 7 li
+: 2543 4 6 ving 
+: 2548 2 4 in 
+: 2551 4 6 fe
+: 2556 18 4 ar. 
+- 2576
+: 2608 3 2 You 
+: 2612 4 2 can 
+: 2617 7 6 feel 
+: 2625 4 4 their 
+: 2630 7 2 hearts 
+: 2638 12 2 pound 
+: 2654 6 2 as 
+: 2661 4 4 the 
+: 2666 4 7 mo
+: 2671 6 6 ment 
+: 2678 9 4 draws 
+: 2688 5 6 ne
+: 2694 18 4 ar. 
+- 2714
+: 2745 3 0 You 
+: 2750 2 2 won’t 
+: 2754 3 2 know 
+: 2758 3 2 what’s 
+: 2762 3 4 hit 
+: 2767 3 0 you, 
+: 2772 5 4 it’ll 
+: 2779 3 6 hap
+: 2783 3 6 pen 
+: 2787 2 6 so 
+: 2792 14 6 fast, 
+- 2808
+: 2814 6 6 Won’t 
+: 2821 2 6 be 
+: 2824 3 6 the 
+: 2828 8 6 time 
+: 2837 2 2 to 
+: 2840 4 2 even 
+: 2845 17 4 scream. 
+- 2864
+: 2872 3 0 You’ll 
+: 2876 5 2 just 
+: 2882 4 2 be 
+: 2887 4 2 burned 
+: 2892 6 4 up 
+: 2903 3 0 by 
+: 2907 2 2 the 
+: 2910 3 6 heat 
+: 2914 1 4 of 
+: 2916 2 2 the 
+: 2919 15 6 blast, 
+- 2935
+: 2936 3 4 A 
+: 2940 5 6 thing 
+: 2946 1 4 of 
+: 2948 3 2 the 
+: 2952 22 6 past 
+- 2976
+: 2984 2 4 In 
+: 2987 2 4 a 
+: 2990 3 6 nu
+: 2994 4 4 clear 
+: 2999 2 2 at
+: 3002 14 6 tack. 
+- 3018
+: 3049 3 4 A 
+: 3053 3 6 nu
+: 3057 4 4 clear 
+: 3062 2 2 at
+: 3065 13 6 tack, 
+- 3080
+: 3107 3 4 You 
+: 3111 5 4 may 
+: 3117 4 6 ne
+: 3122 8 4 ver 
+: 3131 3 2 come 
+: 3135 17 6 back 
+- 3154
+: 3173 4 4 From 
+: 3178 1 4 a 
+: 3180 4 7 nu
+: 3185 3 6 clear 
+: 3189 3 4 at
+: 3193 15 4 tack. 
+- 3210
+: 3244 1 4 You’ll 
+: 3246 2 6 ne
+: 3249 3 4 ver 
+: 3253 2 2 come 
+: 3256 16 6 back 
+- 3274
+: 3301 3 4 From 
+: 3305 1 4 a 
+: 3307 4 7 nu
+: 3312 4 6 clear 
+: 3317 3 4 at
+: 3321 15 4 tack. 
+- 3338
+: 3364 1 4 The 
+* 3366 17 6 world 
+: 3384 3 4 will 
+: 3388 5 2 just 
+: 3394 22 6 crack. 
+- 3418
+: 3426 5 4 There’s 
+: 3432 5 6 no 
+: 3438 5 4 tur
+: 3444 3 2 ning 
+: 3448 16 6 back 
+- 3466
+: 3486 4 4 From 
+: 3491 4 4 a 
+: 3496 5 7 nu
+: 3502 4 6 clear 
+: 3507 5 4 at
+* 3513 123 4 tack. 
+E

@@ -1,0 +1,114 @@
+#ARTIST:Howard Shore feat. Edward Ross
+#TITLE:In Dreams (The Lord of the Rings - The Fellowship of the Ring)
+#MP3:Howard Shore feat. Edward Ross - In Dreams (The Lord of the Rings - The Fellowship of the Ring).mp3
+#CREATOR:Ultorex
+#YEAR:2001
+#LANGUAGE:English
+#BPM:329.88
+#GAP:41130
+#VIDEO:a=xyAjtOxUtmg,co=the-lord-of-the-rings-the-fellowship-of-the-ring-60eef72cd04e0.jpg,bg=the-lord-of-the-rings-the-fellowship-of-the-ring-5117096ac493b.jpg,preview=41.126,medley=0-1198
+: 0 6 2 When 
+: 8 8 4 the 
+: 19 15 6 cold 
+: 36 12 9 of 
+: 51 15 6 win
+: 68 15 4 ter 
+: 86 32 2 comes 
+- 120
+: 136 7 6 Star
+: 145 5 9 less 
+: 155 14 11 night 
+: 171 13 14 will 
+: 189 14 13 co
+: 206 13 9 ver 
+: 224 33 6 day
+: 259 9 4 ~ 
+- 270
+: 276 8 2 In 
+: 286 7 4 the 
+: 295 14 6 vei
+: 311 16 9 ling 
+: 329 14 6 of 
+: 345 13 4 the 
+* 364 33 2 sun 
+- 399
+: 413 7 6 We 
+: 422 8 9 will 
+: 432 42 11 walk 
+: 476 5 11 in 
+: 484 6 9 bit
+: 493 7 6 ter 
+: 502 49 4 rain 
+- 553
+: 572 6 2 But 
+: 581 6 4 in 
+: 590 67 6 dreams 
+- 659
+: 683 6 6 I 
+: 692 6 11 can
+: 700 6 13 ~ 
+: 710 24 14 hear
+* 735 3 16 ~
+* 739 4 14 ~
+* 744 13 13 ~ 
+: 761 15 9 your 
+: 779 33 6 name
+: 813 8 4 ~ 
+- 823
+: 834 5 2 And 
+: 841 6 4 in 
+: 850 75 6 dreams 
+- 927
+: 964 5 6 We 
+: 970 7 11 will
+: 978 8 13 ~ 
+: 988 31 14 meet 
+: 1021 26 16 a
+: 1048 3 14 ~
+: 1052 4 16 ~
+* 1058 41 18 gain
+: 1100 8 14 ~
+: 1109 6 11 ~
+: 1116 27 14 ~
+: 1145 53 9 ~ 
+- 1200
+: 1607 5 4 When 
+: 1614 6 6 the 
+: 1626 13 8 seas 
+: 1644 13 11 and 
+: 1660 13 8 moun
+: 1677 14 6 tains 
+: 1696 36 4 fall 
+- 1734
+: 1748 6 8 And 
+: 1757 7 11 we 
+: 1767 42 13 come 
+: 1813 8 16 to 
+: 1823 6 15 end 
+: 1831 6 11 of 
+: 1840 35 8 days
+* 1877 9 6 ~ 
+- 1888
+: 1896 7 4 In 
+: 1905 7 6 the 
+: 1916 15 8 dark 
+: 1934 16 11 I 
+: 1953 15 8 hear 
+: 1970 12 6 a 
+: 1988 35 4 call 
+- 2025
+: 2036 6 4 Ca
+: 2044 7 8 lling 
+: 2053 9 11 me 
+: 2064 31 13 there 
+- 2097
+: 2107 7 13 I 
+: 2117 7 11 will 
+: 2126 8 8 go 
+: 2136 34 6 there 
+- 2172
+: 2183 6 6 And 
+: 2191 7 4 back 
+: 2200 10 3 a
+* 2212 64 4 gain 
+E

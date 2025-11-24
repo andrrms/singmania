@@ -1,0 +1,353 @@
+#ARTIST:Linda Ronstadt feat. Aaron Neville
+#TITLE:Don’t Know Much [DUET]
+#MP3:Linda Ronstadt feat. Aaron Neville - Don’t Know Much [DUET].mp3
+#CREATOR:Unknown
+#EDITION:[DUET]-Songs
+#GENRE:Pop
+#YEAR:1989
+#LANGUAGE:English
+#BPM:247
+#GAP:12760
+#VIDEO:v=TrqncNVA0FY,co=https://i.discogs.com/yH3oQv4PUaUJpWPSvxE3Qrn6yKgGZ0jitPcNpJBZSWA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTI5/NzItMTMyNDMxMTM1/Ni5qcGVn.jpeg,co-crop=0-8-592-592,p1=Linda Ronstadt,p2=Aaron Neville
+#END:215000
+P1
+: 544 3 7 Look 
+: 548 3 7 at 
+: 552 7 12 these 
+: 560 20 12 eyes 
+- 589
+: 592 7 12 They’ve 
+: 600 3 12 ne
+: 604 4 12 ver 
+: 612 3 4 see 
+: 616 7 9 what 
+: 624 3 9 mat
+: 628 16 9 ter 
+- 656
+: 660 7 9 Look 
+: 668 3 9 at 
+: 672 11 9 these 
+* 684 28 9 dreams 
+- 714
+: 716 3 12 So 
+: 720 4 12 big 
+: 736 4 12 and 
+: 744 3 4 so 
+* 748 3 5 bet
+* 752 16 5 ter 
+- 800
+: 840 3 5 But 
+: 844 3 5 I 
+: 848 3 7 know 
+: 852 7 7 I 
+: 860 3 7 love 
+* 864 16 7 you 
+- 912
+: 948 3 4 And 
+: 952 3 4 that 
+: 956 3 5 may 
+: 960 16 5 be 
+: 980 7 9 all 
+: 988 7 11 I 
+: 996 11 11 need 
+: 1008 3 11 to 
+: 1012 16 5 know 
+- 1060
+: 1328 7 7 And 
+: 1336 3 7 when 
+: 1340 3 7 I 
+: 1344 19 0 feel 
+: 1364 3 0 you 
+: 1368 3 7 near 
+: 1372 16 6 me 
+- 1390
+: 1392 3 5 Some
+: 1396 7 5 times 
+: 1404 3 5 I 
+: 1408 11 5 see 
+: 1420 7 10 so 
+: 1428 3 10 clear
+: 1432 3 5 ly 
+- 1445
+: 1452 3 3 The 
+: 1456 3 3 on
+: 1460 3 5 ly 
+: 1464 12 8 truth 
+: 1480 3 8 I’ve 
+: 1484 3 8 e
+: 1488 3 8 ver 
+: 1492 15 7 known 
+- 1507
+: 1508 3 7 Is 
+: 1512 3 7 me 
+: 1516 3 7 and 
+* 1520 80 7 you 
+- 1632
+: 1792 3 12 Look 
+: 1796 3 12 at 
+: 1800 3 12 his 
+: 1804 15 3 soul 
+- 1851
+: 1904 3 8 I 
+: 1908 3 8 don’t 
+: 1912 7 8 know 
+: 1920 20 12 much 
+- 1950
+: 1964 3 12 But 
+: 1968 3 8 I 
+: 1972 3 8 know 
+: 1976 7 10 I 
+: 1984 3 10 love 
+* 1988 44 10 you 
+- 2048
+: 2072 3 7 And 
+: 2076 7 7 that 
+: 2084 3 8 may 
+: 2088 15 8 be 
+: 2104 7 12 all 
+: 2112 7 14 I 
+: 2120 8 14 need 
+: 2132 3 14 to 
+* 2136 40 8 know 
+- 2208
+: 2452 3 8 I 
+: 2456 3 10 don’t 
+: 2460 11 10 know 
+: 2472 12 3 much 
+- 2494
+: 2512 3 12 But 
+: 2516 3 8 I 
+: 2520 3 8 know 
+: 2524 7 10 I 
+: 2532 3 10 love 
+* 2536 40 10 you 
+- 2592
+: 2620 3 7 And 
+: 2624 7 7 that 
+: 2632 3 8 may 
+: 2636 15 8 be 
+: 2652 7 12 all 
+: 2660 3 14 I 
+: 2664 15 14 need 
+: 2680 3 14 to 
+* 2684 48 8 know 
+- 2742
+: 2760 3 8 I 
+: 2764 3 10 don’t 
+: 2768 7 10 know 
+: 2776 16 15 much 
+- 2802
+: 2820 3 12 But 
+* 2824 3 8 I 
+* 2828 3 8 know 
+* 2832 3 10 I 
+* 2836 7 10 love 
+* 2844 32 10 you 
+- 2892
+: 2932 3 7 And 
+: 2936 7 7 that 
+: 2944 3 8 may 
+: 2948 15 8 be 
+* 2964 3 12 all 
+* 2968 11 14 there 
+* 2980 24 14 is 
+* 3016 7 14 to 
+* 3024 32 20 know 
+P2
+: 0 3 17 Look 
+: 4 3 17 at 
+: 8 3 17 this 
+: 12 16 12 face 
+- 38
+: 48 3 12 I 
+: 52 3 12 know 
+: 56 3 12 the 
+: 60 3 16 years 
+: 64 3 9 are 
+: 68 3 9 show
+: 72 20 9 ing 
+- 102
+: 116 3 9 Look 
+: 120 3 9 at 
+: 124 3 9 this 
+: 128 16 9 life 
+- 150
+: 152 3 12 I 
+: 156 3 12 still 
+: 160 3 12 don’t 
+: 164 3 16 know 
+: 168 3 16 where 
+: 172 3 17 it’s 
+: 176 4 17 go
+: 184 8 17 ing 
+- 208
+: 232 3 17 I 
+: 236 3 17 don’t 
+: 240 7 17 know 
+: 248 16 17 much 
+- 274
+: 292 3 9 But 
+: 296 3 5 I 
+: 300 3 5 know 
+: 304 3 7 I 
+: 308 7 7 love 
+* 316 28 7 you 
+- 360
+: 400 3 4 And 
+: 404 7 4 that 
+: 412 3 5 may 
+: 416 15 5 be 
+: 432 3 9 all 
+: 436 7 11 I 
+: 444 15 11 need 
+: 460 3 11 to 
+* 464 28 5 know 
+- 524
+: 780 3 9 I 
+: 784 3 9 don’t 
+: 788 11 9 know 
+: 800 16 9 much 
+- 826
+: 840 3 5 But 
+: 844 3 5 I 
+: 848 3 7 know 
+: 852 7 7 I 
+: 860 3 7 love 
+* 864 16 7 you 
+- 912
+: 948 3 4 And 
+: 952 3 4 that 
+: 956 3 5 may 
+: 960 16 5 be 
+: 980 7 9 all 
+: 988 7 11 I 
+: 996 11 11 need 
+: 1008 3 11 to 
+: 1012 16 5 know 
+- 1044
+: 1092 3 7 So 
+: 1096 3 7 ma
+: 1100 3 12 ny 
+: 1104 7 9 ques
+: 1112 12 9 tions 
+: 1140 7 16 still 
+: 1148 7 16 left 
+: 1156 3 14 un
+: 1160 3 14 an
+: 1164 16 7 swered 
+- 1190
+: 1200 7 7 So 
+: 1208 8 7 much 
+: 1220 4 14 I’ve 
+: 1228 3 12 ne
+: 1232 3 5 ver 
+: 1236 3 5 bro
+: 1240 3 5 ken 
+* 1244 24 7 through 
+- 1300
+: 1452 3 3 The 
+: 1456 3 3 on
+: 1460 3 5 ly 
+: 1464 12 8 truth 
+: 1480 3 8 I’ve 
+: 1484 3 8 e
+: 1488 3 8 ver 
+: 1492 15 7 known 
+- 1507
+: 1508 3 7 Is 
+: 1512 3 7 me 
+: 1516 3 7 and 
+* 1520 80 7 you 
+- 1632
+: 1672 3 7 Look 
+: 1676 3 7 at 
+: 1680 3 7 this 
+: 1684 16 15 man 
+- 1712
+: 1716 3 15 So 
+: 1720 11 15 blessed 
+: 1732 3 15 with 
+: 1736 7 7 in
+: 1744 3 12 spi
+: 1748 3 12 ra
+: 1752 16 12 tion 
+- 1778
+: 1792 3 12 Look 
+: 1796 3 12 at 
+: 1800 3 12 his 
+: 1804 15 3 soul 
+- 1825
+: 1828 3 3 Still 
+: 1832 7 3 sear
+: 1840 3 7 ching 
+: 1844 3 7 for 
+* 1848 3 7 sal
+* 1852 7 8 va
+* 1860 16 8 tion 
+- 1886
+: 1904 3 8 I 
+: 1908 3 8 don’t 
+: 1912 7 8 know 
+: 1920 20 12 much 
+- 1950
+: 1964 3 12 But 
+: 1968 3 8 I 
+: 1972 3 8 know 
+: 1976 7 10 I 
+: 1984 3 10 love 
+* 1988 44 10 you 
+- 2048
+: 2072 3 7 And 
+: 2076 7 7 that 
+: 2084 3 8 may 
+: 2088 15 8 be 
+: 2104 7 12 all 
+: 2112 7 14 I 
+: 2120 8 14 need 
+: 2132 3 14 to 
+* 2136 40 8 know 
+- 2208
+: 2452 3 8 I 
+: 2456 3 10 don’t 
+: 2460 11 10 know 
+: 2472 12 3 much 
+- 2494
+: 2512 3 12 But 
+: 2516 3 8 I 
+: 2520 3 8 know 
+: 2524 7 10 I 
+: 2532 3 10 love 
+* 2536 40 10 you 
+- 2592
+: 2620 3 7 And 
+: 2624 7 7 that 
+: 2632 3 8 may 
+: 2636 15 8 be 
+: 2652 7 12 all 
+: 2660 3 14 I 
+: 2664 15 14 need 
+: 2680 3 14 to 
+* 2684 48 8 know 
+- 2742
+: 2760 3 8 I 
+: 2764 3 10 don’t 
+: 2768 7 10 know 
+: 2776 16 15 much 
+- 2802
+: 2820 3 12 But 
+* 2824 3 8 I 
+* 2828 3 8 know 
+* 2832 3 10 I 
+* 2836 7 10 love 
+* 2844 32 10 you 
+- 2892
+: 2932 3 7 And 
+: 2936 7 7 that 
+: 2944 3 8 may 
+: 2948 15 8 be 
+* 2964 3 12 all 
+* 2968 11 14 there 
+* 2980 24 14 is 
+* 3016 7 14 to 
+* 3024 32 20 know 
+E

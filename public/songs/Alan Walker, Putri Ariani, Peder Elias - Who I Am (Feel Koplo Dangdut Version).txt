@@ -1,0 +1,316 @@
+#ARTIST:Alan Walker, Putri Ariani, Peder Elias
+#TITLE:Who I Am (Feel Koplo Dangdut Version)
+#MP3:Alan Walker, Putri Ariani, Peder Elias - Who I Am (Feel Koplo Dangdut Version).mp3
+#CREATOR:julistein
+#COVER:Alan Walker, Putri Ariani, Peder Elias - Who I Am (Feel Koplo Dangdut Version) [CO].jpg
+#BACKGROUND:Alan Walker, Putri Ariani, Peder Elias - Who I Am (Feel Koplo Dangdut Version) [BG].jpg
+#GENRE:Dance
+#YEAR:2024
+#LANGUAGE:English
+#BPM:330.43
+#GAP:37490
+#VIDEO:v=_bKujDoRXYQ,co=who-i-am-68a9de3f088c4.jpg
+: 0 11 0 Don’t 
+: 12 7 0 say 
+: 28 9 0 this, 
+* 45 4 8 don’t 
+* 55 12 7 say 
+: 74 18 0 that 
+- 102
+: 119 3 3 I’m 
+: 123 3 3 not 
+: 128 8 1 play
+: 137 3 0 ing 
+: 145 3 -2 by 
+: 156 3 0 the 
+: 164 10 1 rules 
+: 184 4 3 if 
+: 192 8 1 they 
+: 202 6 0 were 
+: 211 6 -2 made 
+: 220 3 0 by
+* 229 12 1 you- 
+* 246 6 0 ~ 
+- 257
+: 259 11 0 I 
+: 273 10 0 won’t 
+: 289 10 0 break 
+: 305 3 8 just 
+: 318 10 7 like 
+: 333 16 0 that 
+- 359
+: 378 3 3 I’ll 
+: 387 7 1 make 
+: 400 5 0 my 
+: 406 7 -2 own 
+: 416 3 0 mis
+: 423 9 1 takes 
+: 439 4 -4 ’til 
+: 446 3 3 I’m 
+: 451 10 1 wrong 
+: 465 3 0 in 
+: 472 4 -2 all 
+: 480 5 0 the 
+: 488 5 1 right 
+: 501 9 0 ways 
+- 516
+* 519 8 8 Save 
+* 529 4 0 all 
+* 538 4 8 your 
+* 548 8 7 tears 
+- 565
+: 569 3 8 You 
+: 577 2 7 don’t 
+: 580 3 5 wan
+: 585 3 3 na 
+: 590 5 5 waste 
+: 602 4 -4 them 
+: 609 3 5 on 
+: 617 8 3 me 
+- 633
+: 636 3 3 I’m 
+: 640 3 1 not 
+: 644 3 0 gon
+: 648 4 -2 na 
+: 653 3 1 be 
+: 661 4 -2 just 
+: 672 7 0 like 
+: 682 7 1 them 
+- 695
+: 697 3 3 This 
+: 701 3 1 is 
+: 705 3 0 just 
+: 710 3 -2 the 
+: 716 4 1 way 
+: 727 4 -2 that 
+: 737 6 0 I
+: 747 5 1 am- 
+: 756 9 0 ~ 
+- 774
+* 778 9 8 Head 
+* 788 4 0 in 
+* 796 4 8 the 
+* 804 13 7 clouds 
+- 823
+: 826 2 8 I 
+: 829 3 7 do 
+: 833 3 5 not 
+: 840 4 3 fit 
+: 847 3 5 in
+: 855 3 -4 to 
+: 865 3 5 the
+: 876 8 3 cro-wd
+: 885 4 0 ~ 
+- 898
+: 902 3 -2 Ba
+: 906 5 0 by, 
+: 912 4 1 it’s 
+: 918 4 0 all 
+: 924 5 -2 mak
+: 935 3 1 ing 
+: 945 4 0 per
+: 950 4 -2 fect 
+: 955 9 -4 sense 
+- 968
+: 970 4 -4 ’Cause 
+: 976 4 -2 this 
+: 982 4 -4 is 
+: 992 5 -5 who 
+: 1000 3 -7 I 
+: 1004 3 -5 am, 
+: 1019 4 -4 who 
+: 1026 3 -5 I 
+: 1035 10 -7 am 
+- 1089
+: 1293 12 0 Don’t 
+: 1306 7 0 say 
+: 1320 10 0 this, 
+: 1336 6 8 don’t 
+* 1346 16 7 say 
+* 1364 20 0 that 
+- 1394
+: 1411 3 3 I’m 
+: 1415 3 3 not 
+: 1420 8 1 play 
+: 1429 3 0 ing 
+: 1437 3 -2 by 
+: 1448 3 0 the 
+: 1456 10 1 rules 
+: 1476 4 3 if 
+: 1484 8 1 they 
+: 1494 6 0 were 
+: 1503 6 -2 made 
+: 1512 3 0 by 
+: 1521 7 1 you- 
+: 1532 7 0 ~ 
+- 1548
+: 1552 11 0 I 
+: 1566 10 0 won’t 
+: 1582 10 0 break 
+* 1594 3 8 just 
+* 1605 10 7 like 
+* 1622 17 0 that 
+- 1649
+: 1667 3 3 I’ll 
+: 1676 7 1 make 
+: 1689 5 0 my 
+: 1695 7 -2 own 
+: 1705 3 0 mis 
+: 1712 9 1 takes 
+: 1728 4 -4 ’til 
+: 1735 3 3 I’m 
+: 1740 10 1 wrong 
+: 1754 3 0 in 
+: 1761 4 -2 all 
+: 1769 5 0 the 
+: 1777 5 1 right 
+: 1790 9 0 ways 
+- 1801
+: 1803 8 8 Save 
+: 1817 4 0 all 
+: 1826 4 8 your 
+: 1836 8 7 tears 
+: 1850 3 8 You 
+: 1858 2 7 don’t 
+: 1861 3 5 wan 
+: 1866 3 3 na 
+: 1871 5 5 waste 
+: 1883 4 -4 them 
+: 1890 3 5 on 
+: 1898 8 3 me 
+- 1913
+: 1916 3 3 I’m 
+: 1920 3 1 not 
+: 1924 3 0 gon 
+: 1928 4 -2 na 
+: 1933 3 1 be 
+: 1943 4 -2 just 
+: 1952 7 0 like 
+: 1965 7 1 them 
+: 1979 3 3 This 
+: 1983 3 1 is 
+: 1987 3 0 just 
+: 1992 3 -2 the 
+: 1998 4 1 way 
+: 2009 4 -2 that 
+* 2019 6 0 I 
+* 2029 5 1 am- 
+* 2038 12 0 ~ 
+- 2061
+: 2065 9 8 Head 
+: 2075 4 0 in 
+: 2083 4 8 the 
+: 2097 7 7 clouds 
+: 2113 2 8 I 
+: 2116 3 7 do 
+: 2120 3 5 not 
+: 2127 4 3 fit 
+: 2134 3 5 in 
+: 2142 3 -4 to 
+: 2152 3 5 the 
+: 2161 8 3 cro-wd 
+: 2170 6 0 ~ 
+- 2182
+: 2185 3 -2 Ba 
+: 2189 5 0 by, 
+: 2195 4 1 it’s 
+: 2201 4 0 all 
+: 2207 5 -2 mak 
+: 2218 3 1 ing 
+: 2228 4 0 per 
+: 2235 4 -2 fect 
+: 2242 9 -4 sense 
+: 2253 4 -4 ’Cause 
+: 2259 4 -2 this 
+: 2265 4 -4 is 
+: 2275 5 -5 who 
+: 2283 3 -7 I 
+: 2287 3 -5 am, 
+: 2307 5 -4 who 
+: 2316 4 -5 I 
+: 2327 10 -7 am 
+- 2381
+* 2843 5 15 If 
+* 2850 5 15 on
+* 2857 4 15 ly 
+* 2862 3 12 I 
+* 2868 4 12 was 
+* 2873 5 12 wide 
+: 2879 4 0 a
+* 2887 9 12 wake 
+- 2902
+: 2905 3 8 There’s 
+: 2909 5 13 more 
+: 2915 4 12 than 
+: 2924 3 12 I 
+: 2931 6 10 can 
+: 2939 11 10 take 
+- 2956
+* 2958 3 5 And 
+* 2962 4 5 when 
+* 2969 3 7 you 
+* 2973 10 7 dive
+* 2985 2 7 in 
+* 2988 3 7 to 
+* 2996 4 8 the 
+* 3005 11 8 blue 
+- 3022
+: 3025 2 5 I’ll 
+: 3029 5 10 be 
+: 3036 5 8 right 
+: 3043 6 7 next 
+: 3051 4 5 to 
+: 3059 12 7 you 
+- 3082
+* 3086 3 8 I 
+* 3091 3 17 nev
+* 3095 3 15 er 
+* 3099 4 15 wan
+* 3106 4 12 na 
+* 3112 8 12 miss 
+* 3122 3 10 a
+* 3131 11 8 thing 
+- 3153
+* 3157 5 8 We 
+* 3164 6 13 fall 
+* 3172 5 12 in 
+* 3178 9 12 love 
+* 3190 4 10 a
+* 3196 13 8 gain 
+- 3214
+: 3216 4 5 You 
+: 3221 7 5 know, 
+: 3229 1 7 I 
+: 3236 6 7 may 
+: 3243 5 7 hold 
+: 3250 5 7 on 
+: 3257 7 8 to 
+: 3265 14 8 June 
+- 3282
+* 3284 4 5 ’Cause 
+* 3289 3 10 all 
+* 3297 4 8 that 
+* 3303 6 7 you 
+* 3311 4 5 go 
+* 3317 7 7 through, 
+* 3337 4 8 I’m 
+* 3343 7 7 with 
+* 3354 22 5 you 
+- 3420
+* 3546 4 8 ’Cause 
+* 3551 3 10 all 
+* 3559 4 8 that 
+* 3565 6 7 you 
+* 3573 4 5 go 
+* 3579 12 7 through, 
+- 3635
+* 3804 4 8 ’Cause 
+* 3809 3 10 all 
+* 3817 4 8 that 
+* 3823 6 7 you 
+* 3831 4 5 go 
+* 3837 7 7 through, 
+* 3857 4 8 I’m 
+* 3863 7 7 with 
+* 3874 22 5 you 
+E

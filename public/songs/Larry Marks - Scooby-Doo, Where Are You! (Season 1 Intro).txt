@@ -1,0 +1,172 @@
+#ARTIST:Larry Marks
+#TITLE:Scooby-Doo, Where Are You! (Season 1 Intro)
+#MP3:Larry Marks - Scooby-Doo, Where Are You! (Season 1 Intro).mp3
+#CREATOR:Diddlmaus30mg, SUBKEI
+#GENRE:Soundtrack
+#YEAR:1969
+#LANGUAGE:English
+#BPM:275.8
+#GAP:7640
+#VIDEO:v=hTq6nwO4oJU,co=https://i.ytimg.com/vi/ba_PmcJ3nas/maxresdefault.jpg,co-crop=280-0-720-720
+: 0 4 13 Scoo
+: 5 3 13 by 
+: 9 4 11 Doo
+: 14 3 11 by 
+: 18 8 9 Doo 
+- 28
+: 32 4 11 Where 
+: 38 7 14 are 
+: 46 8 6 you? 
+- 56
+: 62 3 6 We 
+: 66 6 8 got 
+: 73 7 4 some 
+: 81 7 13 work 
+: 89 3 13 to 
+: 93 5 11 do 
+: 101 9 9 now 
+- 112
+: 129 4 13 Scoo
+: 134 2 13 by 
+: 137 3 11 Doo
+: 141 3 11 by 
+: 145 9 9 Doo 
+- 156
+: 161 5 11 Where 
+: 167 6 13 are 
+: 174 9 14 you? 
+- 185
+: 190 2 6 We 
+: 193 7 4 need 
+: 201 4 4 some 
+: 206 10 13 help 
+: 217 4 13 from 
+: 222 6 11 you 
+: 229 11 9 now 
+- 242
+: 257 3 13 Come 
+: 261 2 13 on 
+: 264 4 11 Scoo
+: 269 3 11 by 
+: 273 9 9 Doo 
+- 284
+: 289 3 11 I 
+: 293 5 14 see 
+: 301 9 6 you 
+- 312
+: 317 3 6 Pre
+: 321 4 8 ten
+: 326 2 8 ding 
+: 330 5 4 you 
+: 337 6 13 got 
+: 344 2 13 a 
+: 348 8 11 sli
+: 357 12 13 ver 
+- 371
+: 384 4 13 You’re 
+: 389 3 13 not 
+: 394 3 11 foo
+: 398 2 11 ling 
+: 401 5 9 me 
+- 408
+: 413 5 9 ’Cause 
+* 419 2 11 I 
+* 423 4 13 can 
+* 429 9 14 see 
+- 440
+: 446 2 6 The 
+: 449 8 4 way 
+: 458 2 4 you 
+: 462 7 13 shake 
+: 470 6 13 and 
+: 478 7 11 shi
+: 486 8 9 ver 
+- 496
+: 501 4 9 You 
+: 506 3 11 know 
+: 510 2 13 we 
+: 513 4 14 got 
+: 518 2 13 a 
+: 521 3 14 mys
+: 525 3 13 te
+: 529 3 14 ry 
+: 533 2 13 to 
+: 536 4 14 solve, 
+: 541 2 13 so 
+- 544
+: 546 3 14 Scoo
+: 550 2 13 by 
+: 553 3 14 Doo 
+: 557 2 13 be 
+: 560 2 14 rea
+: 563 2 14 dy 
+: 566 6 14 for 
+: 573 4 14 your 
+: 579 8 13 act 
+- 589
+: 598 5 16 Don’t 
+: 604 4 16 hold 
+: 609 10 13 back! 
+- 621
+: 629 2 9 And 
+: 632 4 11 Scoo
+: 637 2 13 by 
+: 641 3 14 Doo 
+- 646
+* 649 1 13 If 
+* 651 1 14 you 
+* 653 3 13 come 
+* 657 2 14 through 
+: 660 3 13 you’re 
+: 664 4 14 going 
+: 669 2 13 to 
+: 672 2 14 have 
+- 675
+: 677 2 13 Your
+: 680 3 14 self 
+: 684 2 13 a 
+: 687 4 14 scoo
+: 692 5 15 by 
+: 699 9 16 snack! 
+- 710
+: 724 6 16 That’s 
+: 731 2 16 a 
+: 734 7 16 fact! 
+- 743
+: 767 4 13 Scoo
+: 772 2 13 by 
+: 776 3 11 Doo
+: 780 3 11 by 
+: 784 9 9 Doo 
+- 795
+: 801 4 11 Here 
+: 806 5 14 are 
+: 812 9 6 you 
+- 823
+: 828 3 6 You’re 
+: 832 7 4 rea
+: 840 5 4 dy 
+* 846 7 13 and 
+* 854 5 13 you’re 
+* 860 7 11 wil
+* 868 11 13 ling 
+- 881
+: 893 2 4 If 
+: 896 2 13 we 
+: 899 4 13 can 
+: 904 3 11 count 
+: 908 2 11 on 
+: 911 10 9 you 
+- 923
+: 927 4 11 Scoo
+: 932 6 13 by 
+: 940 8 14 Doo 
+- 950
+: 956 3 6 I 
+: 960 6 4 know 
+: 967 5 4 you’ll 
+: 973 6 13 catch 
+: 980 7 13 that 
+: 988 6 11 vil
+: 996 8 9 lain 
+E

@@ -1,0 +1,462 @@
+#ARTIST:Endwell
+#TITLE:Single And Loving It
+#MP3:Endwell - Single And Loving It.mp3
+#CREATOR:Kintaro84
+#YEAR:2006
+#LANGUAGE:English
+#BPM:233.3
+#GAP:20240
+#VIDEO:v=3mTW43Oi47Y,co=homeland-insecurity-4fa498dabb4fc.jpg,bg=endwell-54e31185cf060.jpg
+: 0 3 3 You 
+: 6 3 3 pushed 
+: 11 2 6 my 
+: 16 5 3 but
+: 22 6 1 tons 
+- 30
+: 33 2 -1 And 
+: 38 6 8 o
+: 45 4 6 pen 
+: 51 2 3 these 
+: 56 13 -1 scars, 
+- 71
+: 77 6 3 Just 
+: 86 2 3 to 
+: 91 1 3 watch 
+: 94 2 6 me 
+: 99 4 3 bleed 
+- 104
+: 105 4 3 What 
+: 111 3 3 I’ve 
+: 116 4 -1 al
+: 121 4 3 rea
+: 126 3 4 dy 
+: 131 5 3 bled 
+: 138 2 -1 a 
+: 142 4 3 thou
+: 147 2 4 sand 
+: 152 4 3 times 
+* 158 4 6 be
+* 163 8 6 fore. 
+- 173
+F 176 3 3 A
+F 180 4 3 go
+F 185 4 3 ni
+F 190 14 3 zing. 
+- 206
+F 213 3 3 You 
+F 219 3 3 make 
+F 225 2 3 me 
+F 230 4 3 scream 
+F 236 2 3 and 
+F 241 12 3 shout. 
+- 255
+F 259 1 0 I 
+F 262 1 0 owe 
+F 265 2 0 this 
+F 270 2 0 all 
+F 275 2 0 to 
+F 280 10 0 you. 
+- 292
+F 299 1 0 You’re 
+F 302 1 0 the 
+F 305 1 0 rea
+F 307 1 0 son 
+F 310 1 0 that 
+F 313 1 0 I’m 
+F 316 2 0 al
+F 319 2 0 ways 
+F 324 4 0 co
+F 329 2 0 ming 
+F 334 38 0 down. 
+- 374
+F 423 6 0 Al
+F 430 5 0 ways 
+F 438 7 0 co
+F 446 5 0 ming 
+F 454 7 0 down. 
+- 463
+: 470 3 6 I’m 
+: 476 1 6 just 
+: 479 3 6 a 
+: 484 3 6 bruised 
+: 489 2 -1 and 
+: 494 4 -1 bro
+: 499 3 8 ken 
+* 505 5 6 heart
+* 511 4 3 ~, 
+- 517
+: 524 1 3 But 
+: 526 1 4 the 
+: 529 1 6 me
+: 531 5 4 mo
+: 537 2 3 ries 
+: 542 2 4 you 
+: 547 4 6 left 
+- 552
+: 553 3 4 Are 
+: 558 3 3 of 
+: 564 2 4 a 
+: 569 2 6 girl 
+: 574 3 4 who’s 
+: 579 3 3 lost 
+: 584 3 1 and 
+: 590 4 1 bro
+: 595 16 3 ken. 
+- 613
+: 643 1 -1 Now 
+: 646 1 3 it’s 
+: 649 2 4 a 
+: 654 3 6 shame 
+: 659 3 4 you’ve 
+: 664 3 3 lost 
+: 669 3 4 your 
+: 675 9 3 touch 
+- 686
+: 689 1 3 And 
+: 692 2 4 you 
+: 696 4 6 can’t 
+: 702 3 4 con
+: 706 3 3 trol 
+: 712 4 4 your 
+: 718 5 3 lust. 
+- 725
+: 727 1 3 I 
+: 729 1 3 was 
+: 731 2 1 on
+: 734 1 1 ly 
+: 737 1 -1 a 
+: 739 5 1 heart
+: 745 2 1 beat 
+: 750 2 -1 a
+: 753 2 1 way 
+: 757 2 1 from 
+: 761 2 -1 for
+: 764 2 1 gi
+: 767 6 3 ving 
+: 774 4 -1 you
+: 779 4 -4 ~. 
+- 785
+F 803 10 0 From 
+F 816 10 0 for
+F 827 9 0 gi
+F 837 5 0 ving 
+F 845 29 0 you. 
+- 876
+F 895 7 0 Let 
+F 906 6 0 the 
+F 916 7 0 past 
+F 927 7 0 be. 
+- 936
+: 982 3 3 I’m 
+: 987 1 3 lear
+: 989 3 6 ning 
+: 994 3 3 les
+: 999 7 1 sons, 
+- 1008
+: 1012 2 -1 While 
+: 1017 2 8 you’re 
+: 1021 4 6 still 
+: 1027 4 6 brea
+: 1032 4 3 king 
+: 1038 16 -1 hearts. 
+- 1056
+: 1071 1 -1 If 
+: 1073 2 3 on
+: 1076 1 3 ly 
+: 1078 1 3 you 
+: 1081 1 4 could 
+: 1083 2 3 see
+: 1086 1 1 ~ 
+: 1089 1 1 the 
+: 1091 3 1 world, 
+- 1096
+: 1097 2 -1 Is 
+: 1102 4 3 not 
+: 1108 2 4 as 
+: 1112 5 3 cold 
+: 1118 3 -1 as 
+: 1123 2 3 you 
+: 1129 3 4 had 
+: 1133 3 3 thought 
+* 1139 4 6 be
+* 1144 8 8 fore
+* 1153 2 6 ~. 
+- 1156
+F 1157 4 0 Al
+F 1162 1 0 ways 
+F 1165 6 0 try
+F 1172 14 0 ing 
+F 1195 3 0 to 
+F 1200 4 0 break 
+F 1206 3 0 and 
+F 1211 4 0 keep 
+F 1217 3 0 me 
+F 1222 8 0 down. 
+- 1232
+F 1238 1 0 You’re 
+F 1241 1 0 the 
+F 1243 1 0 rea
+F 1245 1 0 son 
+F 1248 1 0 that 
+F 1251 1 0 I 
+F 1254 2 0 tur 
+F 1257 2 0 my 
+F 1262 4 0 life 
+F 1267 5 0 a
+F 1273 19 0 round. 
+- 1294
+: 1301 3 6 I’m 
+: 1307 1 6 just 
+: 1310 3 6 a 
+: 1315 3 6 bruised 
+: 1320 2 -1 and 
+: 1325 4 -1 bro
+: 1330 3 8 ken 
+* 1336 5 6 heart
+* 1342 4 3 ~, 
+- 1348
+: 1355 1 3 But 
+: 1357 1 4 the 
+: 1360 1 6 me
+: 1362 5 4 mo
+: 1368 2 3 ries 
+: 1373 2 4 you 
+: 1378 4 6 left 
+- 1384
+: 1385 3 4 Are 
+: 1390 3 3 of 
+: 1396 2 4 a 
+: 1401 2 6 girl 
+: 1406 3 4 who’s 
+: 1411 3 3 lost 
+: 1416 3 1 and 
+: 1422 4 1 bro
+: 1427 16 3 ken. 
+- 1445
+: 1475 1 -1 Now 
+: 1478 1 3 it’s 
+: 1481 2 4 a 
+: 1486 3 6 shame 
+: 1491 3 4 you’ve 
+: 1496 3 3 lost 
+: 1501 3 4 your 
+: 1507 9 3 touch 
+- 1518
+: 1521 1 3 And 
+: 1524 2 4 you 
+: 1528 4 6 can’t 
+: 1534 3 4 con
+: 1538 3 3 trol 
+: 1544 4 4 your 
+: 1550 5 3 lust. 
+- 1557
+: 1558 1 3 I 
+: 1560 1 3 was 
+: 1562 2 1 on
+: 1565 1 1 ly 
+: 1568 1 -1 a 
+: 1570 5 1 heart
+: 1576 2 1 beat 
+: 1581 3 -1 a
+: 1585 2 1 way 
+: 1589 2 1 from 
+: 1593 2 -1 for
+: 1596 2 1 gi
+: 1599 5 3 ving 
+: 1606 4 -1 you
+: 1611 3 -4 ~. 
+- 1616
+F 1635 10 0 From 
+F 1648 10 0 for
+F 1659 9 0 gi
+F 1669 5 0 ving 
+F 1677 21 0 you. 
+- 1700
+F 1727 7 0 Let 
+F 1738 6 0 the 
+F 1748 7 0 past 
+F 1759 6 0 be. 
+- 1766
+F 1766 5 0 Be 
+F 1773 6 0 the 
+F 1781 16 0 past. 
+- 1799
+F 1813 1 0 You 
+F 1816 1 0 were 
+F 1819 2 0 eve
+F 1822 4 0 ry
+F 1827 3 0 thing 
+F 1832 3 0 I’d 
+F 1838 3 0 e
+F 1842 3 0 ver 
+F 1848 10 0 need. 
+- 1860
+F 1861 8 0 But 
+F 1871 8 0 we 
+F 1882 5 0 are 
+F 1889 6 0 though. 
+- 1896
+F 1896 1 0 And 
+F 1899 4 0 I’m 
+F 1905 1 0 eve
+F 1907 4 0 ry
+F 1912 4 0 thing 
+F 1918 3 0 you’ll 
+F 1923 4 0 ne
+F 1928 3 0 ver 
+F 1933 10 0 be. 
+- 1945
+F 1946 5 0 I’ll 
+F 1956 7 0 see 
+F 1968 4 0 this 
+F 1975 6 0 through, 
+- 1983
+F 1984 1 0 You 
+F 1986 1 0 were 
+F 1989 2 0 eve
+F 1992 3 0 ry
+F 1996 5 0 thing 
+F 2003 3 0 I’d 
+F 2008 4 0 e
+F 2013 4 0 ver 
+F 2019 11 0 need. 
+- 2031
+F 2031 9 0 But 
+F 2042 8 0 we 
+F 2053 5 0 are 
+F 2060 6 0 though. 
+- 2067
+F 2067 1 0 And 
+F 2070 4 0 I’m 
+F 2076 1 0 eve
+F 2078 4 0 ry
+F 2083 4 0 thing 
+F 2089 5 0 you’ll 
+F 2096 2 0 ne
+F 2099 3 0 ver 
+F 2105 22 0 be. 
+- 2129
+: 2134 3 6 I’m 
+: 2140 1 6 just 
+: 2143 3 6 a 
+: 2148 3 6 bruised 
+: 2153 2 -1 and 
+: 2158 4 -1 bro
+: 2163 3 8 ken 
+* 2169 5 6 heart
+* 2175 4 3 ~, 
+- 2181
+: 2187 1 3 But 
+: 2189 1 4 the 
+: 2192 1 6 me
+: 2194 5 4 mo
+: 2200 2 3 ries 
+: 2205 2 4 you 
+: 2210 4 6 left 
+- 2216
+: 2217 3 4 Are 
+: 2222 3 3 of 
+: 2228 2 4 a 
+: 2233 2 6 girl 
+: 2238 3 4 who’s 
+: 2243 3 3 lost 
+: 2248 3 1 and 
+: 2254 4 1 bro
+: 2259 16 3 ken. 
+- 2277
+: 2307 1 -1 Now 
+: 2310 1 3 it’s 
+: 2313 2 4 a 
+: 2318 3 6 shame 
+: 2323 3 4 you’ve 
+: 2328 3 3 lost 
+: 2333 3 4 your 
+: 2339 9 3 touch 
+- 2350
+: 2353 1 3 And 
+: 2356 2 4 you 
+: 2360 4 6 can’t 
+: 2366 3 4 con
+: 2370 3 3 trol 
+: 2376 4 4 your 
+: 2382 5 3 lust. 
+- 2389
+: 2390 1 3 I 
+: 2392 1 3 was 
+: 2394 2 1 on
+: 2397 1 1 ly 
+: 2400 1 -1 a 
+: 2402 5 1 heart
+: 2408 2 1 beat 
+: 2413 3 -1 a
+: 2417 2 1 way 
+: 2421 2 1 from 
+: 2425 2 -1 for
+: 2428 2 1 gi
+: 2431 5 3 ving 
+: 2438 4 -1 you
+: 2443 3 -4 ~. 
+- 2448
+F 2477 1 0 And 
+F 2480 4 0 now 
+F 2486 3 0 I’m 
+F 2491 1 0 gi
+F 2493 4 0 ving 
+F 2499 11 0 you 
+- 2512
+F 2522 8 0 All 
+F 2533 9 0 that 
+F 2544 9 0 you’ve 
+F 2555 18 0 earned. 
+- 2575
+F 2577 1 0 How’s 
+F 2580 2 0 it 
+F 2584 6 0 feel 
+F 2592 3 0 to 
+F 2597 9 0 see 
+F 2608 9 0 the 
+F 2619 10 0 ta
+F 2630 8 0 bles 
+F 2640 14 0 turned. 
+- 2656
+F 2660 2 0 You 
+F 2664 3 0 will 
+F 2669 4 0 ne
+F 2675 4 0 ver 
+F 2683 8 0 see 
+F 2693 7 0 this 
+F 2704 9 0 face 
+F 2715 10 0 a
+F 2726 13 0 gain. 
+- 2741
+F 2748 1 0 And 
+F 2750 1 0 I 
+F 2753 1 0 have 
+F 2755 3 0 no 
+F 2760 6 0 more 
+F 2768 15 0 tears 
+F 2788 8 0 to 
+F 2800 6 0 be 
+F 2810 41 0 shed. 
+- 2853
+F 2901 4 0 You 
+F 2907 3 0 will 
+F 2913 12 0 not 
+F 2933 3 0 see 
+F 2938 4 0 this 
+F 2944 4 0 face 
+F 2950 3 0 a
+F 2955 8 0 gain. 
+- 2965
+F 2966 3 0 You 
+F 2971 3 0 will 
+F 2976 7 0 not 
+F 2992 10 0 see 
+F 3008 11 0 this 
+F 3024 88 0 face 
+- 3114
+F 3163 8 0 Ne
+F 3173 6 0 ver 
+F 3184 9 0 a
+F 3194 56 0 gain! 
+E

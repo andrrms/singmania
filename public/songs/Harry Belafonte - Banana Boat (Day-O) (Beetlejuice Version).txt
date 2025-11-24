@@ -1,0 +1,264 @@
+#ARTIST:Harry Belafonte
+#TITLE:Banana Boat (Day-O) (Beetlejuice Version)
+#MP3:Harry Belafonte - Banana Boat (Day-O) (Beetlejuice Version).mp3
+#CREATOR:Leroidukitch
+#YEAR:1956
+#LANGUAGE:English
+#BPM:231.15
+#GAP:8000
+#VIDEO:v=AQXVHITd1N4,co=https://i.discogs.com/Icza9Mc8kvopJqBLorKcQ1uYWWi_lyLYUi01tXVrhcQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk5/NjctMTI3NzUwNjk4/MS5qcGVn.jpeg
+: 0 19 17 Day 
+: 21 9 12 oh 
+: 48 5 16 Day 
+: 54 3 14 ay 
+: 58 5 12 ay 
+* 64 9 9 oh 
+- 75
+: 90 5 9 Day
+: 96 9 9 light 
+: 106 9 12 come 
+: 116 3 12 an’ 
+: 120 3 9 me 
+: 124 7 10 wan’
+: 132 3 9 ~ 
+: 136 3 9 go 
+: 140 15 12 home 
+- 157
+: 176 11 17 Day 
+: 204 1 12 he 
+: 206 5 17 say 
+: 212 3 16 day 
+: 216 3 12 he 
+: 220 3 16 say 
+: 224 3 14 day 
+: 228 1 10 he 
+: 230 3 14 say 
+: 234 3 12 day 
+- 238
+: 238 1 9 He 
+: 240 1 12 say 
+: 242 3 10 day 
+: 246 1 7 he 
+: 248 3 10 say 
+: 252 3 9 day 
+: 256 3 5 ay 
+: 260 1 2 ay 
+* 262 11 0 oh 
+- 275
+: 286 3 9 Day
+: 290 9 9 light 
+: 300 11 12 come 
+: 312 5 12 an’ 
+: 318 5 9 me 
+: 324 11 10 wan’ 
+: 338 5 10 go 
+: 346 21 9 home 
+- 369
+: 390 3 9 Work 
+: 394 7 12 all 
+: 402 7 9 night 
+: 410 7 9 on 
+: 418 3 12 a 
+: 422 5 9 drink 
+: 430 3 12 of 
+: 434 9 17 rum 
+- 445
+: 454 5 9 Day
+: 460 3 9 light 
+: 466 7 12 come 
+: 474 5 12 an’ 
+: 482 3 9 me 
+: 486 5 10 wan’ 
+: 492 5 9 go 
+: 500 11 12 home 
+- 513
+: 514 7 9 Stack 
+: 524 3 12 ba
+: 528 7 9 na
+: 536 3 9 na 
+: 540 1 12 un
+: 542 3 9 til 
+: 546 1 9 the 
+: 548 3 12 morn
+: 552 5 17 ing 
+: 558 9 12 come 
+- 569
+: 574 5 9 Day
+* 580 3 9 light 
+* 586 7 12 come 
+* 594 5 12 an’ 
+: 600 3 9 me 
+: 604 7 10 wan’ 
+: 612 5 10 go 
+: 618 11 9 home 
+- 631
+: 634 9 9 Come 
+: 644 3 12 mist
+: 648 3 12 er 
+: 652 3 9 tall
+: 656 1 9 y 
+: 658 5 12 man 
+: 668 3 10 tall
+: 672 1 10 y 
+: 674 3 10 me 
+: 678 3 7 ba
+: 682 7 4 na
+: 690 3 0 na 
+- 695
+: 696 3 9 Day
+: 700 5 9 light 
+: 706 9 12 come 
+: 716 5 12 an’ 
+: 722 3 9 me 
+: 726 3 10 wan’
+: 730 3 9 ~ 
+: 734 7 9 go 
+: 742 11 12 home 
+- 755
+: 756 7 9 Come 
+: 764 3 12 mist
+: 768 3 12 er 
+: 772 7 9 tally 
+: 780 7 12 man 
+: 788 3 10 tall
+: 792 3 10 y 
+: 796 3 10 me 
+: 800 3 7 ba
+: 804 7 4 na
+: 812 5 0 na 
+- 818
+: 818 3 9 Day
+: 822 7 9 light 
+: 830 7 12 come 
+: 838 5 12 an’ 
+: 844 3 9 me 
+: 848 7 10 wan’ 
+: 856 5 10 go 
+: 862 7 9 home 
+- 870
+: 870 1 9 A 
+: 872 9 12 six 
+: 882 5 9 foot 
+: 888 3 9 sev
+: 892 3 12 en 
+: 898 5 9 foot 
+: 904 7 12 eight 
+: 912 7 17 foot 
+* 920 11 12 bunch 
+- 933
+: 936 5 9 Day
+: 942 5 9 light 
+: 948 7 12 come 
+: 956 7 12 an’ 
+: 964 3 9 me 
+: 968 5 10 wan’
+: 974 1 9 ~ 
+: 976 7 9 go 
+: 984 9 12 home 
+- 994
+: 994 1 9 A 
+: 996 7 12 six 
+: 1004 3 9 foot 
+: 1008 5 9 sev
+: 1014 3 12 en 
+: 1018 7 9 foot 
+: 1026 7 12 eight 
+: 1034 5 17 foot 
+: 1040 9 12 bunch 
+- 1051
+: 1056 5 9 Day
+: 1062 3 9 light 
+: 1066 5 12 come 
+: 1072 7 12 an’ 
+: 1080 3 9 me 
+: 1084 7 10 wan’ 
+: 1092 5 10 go 
+: 1098 11 9 home 
+- 1111
+: 1114 11 17 Day 
+: 1138 3 12 he 
+: 1142 3 17 say 
+* 1146 3 16 Day 
+* 1150 3 14 ay 
+* 1154 3 12 ay 
+* 1158 9 9 oh 
+- 1169
+: 1176 5 9 Day
+: 1182 3 9 light 
+: 1186 7 12 come 
+: 1194 7 9 an’ 
+: 1202 3 10 me 
+: 1206 7 9 wan’ 
+: 1214 7 9 go 
+: 1222 11 12 home 
+- 1235
+: 1238 5 17 Day 
+: 1260 1 12 he 
+: 1262 3 17 say 
+: 1266 9 16 day 
+: 1276 1 12 he 
+: 1278 3 16 say 
+: 1282 7 14 day 
+: 1290 3 10 he 
+: 1294 3 14 say 
+: 1298 5 12 day 
+- 1305
+F 1306 3 9 He 
+F 1310 3 12 say 
+F 1314 5 10 day 
+F 1320 3 7 he 
+F 1324 3 10 say 
+F 1328 5 9 day 
+F 1334 1 5 ay 
+F 1336 3 2 ay 
+F 1340 7 0 oh 
+- 1349
+: 1356 3 9 A 
+: 1360 7 12 beauti
+: 1368 5 9 ful 
+: 1374 9 9 bunch 
+: 1386 3 12 of 
+: 1390 5 9 ripe 
+: 1398 3 12 ba
+: 1402 5 17 na
+: 1408 7 12 na 
+- 1417
+: 1418 5 9 Day
+: 1424 5 9 light 
+: 1430 9 12 come 
+: 1440 5 12 an’ 
+: 1446 3 9 me 
+: 1450 5 10 wan’
+: 1456 1 9 ~ 
+: 1458 5 9 go 
+: 1464 13 12 home 
+- 1479
+: 1480 7 9 Hide 
+: 1488 5 12 the 
+: 1494 3 9 dead
+: 1498 3 9 ly 
+: 1510 5 12 black 
+: 1516 3 9 tri
+: 1520 3 12 ant
+: 1524 5 17 u
+: 1530 5 12 la 
+- 1537
+: 1540 5 9 Day
+: 1546 5 9 light 
+: 1552 9 12 come 
+: 1562 7 12 an’ 
+: 1570 1 9 me 
+: 1572 7 10 wan’ 
+: 1580 5 10 go 
+: 1586 7 9 home 
+- 1594
+: 1594 3 9 A 
+: 1598 9 12 six 
+: 1608 5 9 foot 
+: 1614 3 9 sev
+: 1618 3 12 en 
+: 1622 7 9 foot 
+: 1630 5 12 eight 
+: 1636 9 17 foot 
+* 1646 9 12 bunch 
+E

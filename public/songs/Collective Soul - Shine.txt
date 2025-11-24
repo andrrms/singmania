@@ -1,0 +1,331 @@
+#ARTIST:Collective Soul
+#TITLE:Shine
+#MP3:Collective Soul - Shine.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Collective Soul - Shine [CO].jpg
+#BACKGROUND:Collective Soul - Shine [BG].jpg
+#YEAR:1993
+#LANGUAGE:English
+#BPM:370.07
+#GAP:12840
+#VIDEO:v=_m0bI82Rz_k,co=shine-5b27facb86e98.jpg,bg=collective-soul-4dcd836de4551.jpg
+: 0 5 3 Give 
+: 6 3 5 me 
+: 11 6 5 a 
+: 19 10 5 word 
+- 34
+: 36 5 3 Give 
+: 45 3 1 me 
+: 53 2 1 a 
+: 60 8 1 sign 
+- 75
+: 78 5 3 Show 
+: 85 2 5 me 
+: 89 5 5 where 
+: 95 3 5 to 
+: 101 5 5 look 
+- 112
+: 114 8 8 Tell 
+: 124 4 8 me 
+: 129 5 1 what 
+: 137 7 3 will 
+: 146 8 5 I 
+: 156 25 3 find 
+- 191
+: 211 5 1 What 
+: 217 7 10 will 
+: 225 13 5 I 
+: 239 28 1 find 
+- 291
+: 317 2 1 Lay 
+: 322 4 5 me 
+: 329 2 8 on 
+: 332 1 1 the 
+: 337 7 5 ground 
+- 346
+: 348 2 5 And 
+: 352 7 3 fly 
+: 362 4 1 me 
+: 369 1 1 in 
+: 372 1 1 the 
+: 377 8 1 sky 
+- 394
+: 397 3 1 Show 
+: 401 2 5 me 
+: 405 5 5 where 
+: 411 3 5 to 
+: 416 6 5 look 
+- 430
+: 433 4 1 Tell 
+: 440 4 1 me 
+: 446 4 1 what 
+: 453 8 3 will 
+: 463 7 5 I 
+: 472 22 3 find 
+- 504
+: 529 4 1 What 
+: 534 6 10 will 
+: 542 13 5 I 
+: 557 25 1 find 
+- 631
+: 701 9 1 Yeah 
+- 734
+: 777 11 1 Yeah 
+- 812
+: 856 16 1 Yeah 
+- 896
+: 949 24 6 Woah 
+- 983
+: 1008 2 1 Heav
+: 1011 3 6 en 
+: 1017 3 10 let 
+: 1022 3 6 your 
+: 1027 4 3 light 
+: 1037 5 1 shine 
+: 1047 5 5 down 
+- 1076
+: 1108 24 6 Woah 
+- 1142
+: 1166 2 6 Heav
+: 1169 2 6 en 
+: 1175 3 6 let 
+: 1180 3 10 your 
+: 1185 4 3 light 
+: 1195 4 5 shine 
+: 1205 5 5 down 
+- 1234
+: 1265 25 6 Woah 
+- 1300
+: 1323 2 1 Heav
+: 1326 3 1 en 
+: 1332 3 6 let 
+: 1338 3 10 your 
+: 1342 3 1 light 
+: 1352 4 5 shine 
+: 1362 5 5 down 
+- 1391
+: 1423 26 6 Woah 
+- 1459
+: 1481 2 1 Heav
+: 1484 3 10 en 
+: 1491 2 6 let 
+: 1496 3 6 your 
+: 1501 4 5 light 
+: 1511 5 1 shine 
+: 1520 5 5 down 
+- 1574
+: 1896 3 5 Love 
+: 1903 2 5 is 
+: 1908 1 5 in 
+: 1911 1 5 the 
+: 1915 7 5 wa
+: 1925 4 5 ter 
+- 1929
+: 1930 8 3 Love 
+: 1943 3 1 is 
+: 1948 1 1 in 
+: 1951 2 1 the 
+: 1959 3 1 air 
+- 1972
+: 1976 3 3 Show 
+: 1981 2 5 me 
+: 1985 5 5 where 
+: 1991 2 5 to 
+: 1995 6 5 look 
+- 2007
+: 2009 2 5 Tell 
+: 2020 4 1 me 
+: 2025 5 1 will 
+: 2034 5 3 love 
+: 2044 7 5 be 
+: 2054 12 10 there 
+- 2076
+: 2109 2 1 Will 
+: 2113 7 5 love 
+: 2122 11 5 be 
+: 2135 18 1 there 
+- 2177
+: 2211 4 3 Teach 
+: 2218 3 5 me 
+: 2222 5 5 how 
+: 2228 1 1 to 
+: 2233 7 5 speak 
+- 2246
+: 2248 8 3 Teach 
+: 2257 3 1 me 
+: 2261 5 1 how 
+: 2267 2 1 to 
+: 2271 11 1 share 
+- 2289
+: 2292 3 3 Teach 
+: 2297 2 5 me 
+: 2301 5 8 where 
+: 2307 1 1 to 
+: 2312 6 5 go 
+- 2323
+: 2325 8 8 Tell 
+: 2334 5 1 me 
+: 2340 5 1 will 
+: 2350 6 3 love 
+: 2360 8 5 be 
+: 2370 13 10 there 
+- 2393
+: 2424 3 8 Will 
+: 2429 6 3 love 
+: 2438 12 5 be 
+: 2452 27 1 there 
+- 2528
+: 2594 9 1 Yeah 
+- 2627
+: 2672 11 8 Yeah 
+- 2707
+: 2753 10 1 Yeah 
+- 2787
+: 2844 27 6 Whoa 
+- 2881
+: 2903 2 1 Heav
+: 2906 3 1 en 
+: 2912 2 6 let 
+: 2917 3 10 your 
+: 2922 5 5 light 
+: 2932 4 1 shine 
+: 2942 6 5 down 
+- 2972
+: 3003 23 6 Whoa 
+- 3036
+: 3061 1 1 Heav
+: 3063 1 10 en 
+: 3071 2 6 let 
+: 3075 3 6 your 
+: 3080 4 3 light 
+: 3090 4 1 shine 
+: 3100 5 5 down 
+- 3129
+: 3161 26 6 Whoa 
+- 3197
+: 3220 2 6 Heav
+: 3223 2 1 en 
+: 3228 3 6 let 
+: 3234 3 10 your 
+: 3238 4 10 light 
+: 3248 5 1 shine 
+: 3258 5 0 down 
+- 3287
+: 3318 26 6 Whoa 
+- 3354
+: 3377 1 1 Heav
+: 3379 1 1 en 
+: 3386 2 6 let 
+: 3391 3 10 your 
+: 3396 4 3 light 
+: 3406 4 5 shine 
+: 3415 6 5 down 
+- 3470
+: 4806 11 1 Yeah 
+- 4841
+: 4883 10 1 Yeah 
+- 4917
+: 4966 7 1 Yeah 
+- 4997
+: 5055 25 6 Whoa 
+- 5090
+: 5113 2 1 Heav
+: 5116 3 6 en 
+: 5123 2 6 let 
+: 5128 3 10 your 
+: 5133 3 5 light 
+: 5143 5 1 shine 
+: 5152 6 1 down 
+- 5182
+: 5213 26 6 Whoa 
+- 5249
+: 5272 1 1 Heav
+: 5274 1 1 en 
+: 5281 3 6 let 
+: 5286 3 10 your 
+: 5290 4 6 light 
+: 5301 4 1 shine 
+: 5310 5 1 down 
+- 5339
+: 5371 26 6 Whoa 
+- 5407
+: 5429 2 1 Heav
+: 5432 3 1 en 
+: 5439 3 6 let 
+: 5444 3 10 your 
+: 5449 4 5 light 
+: 5459 5 8 shine 
+: 5469 5 8 down 
+- 5498
+: 5528 26 6 Whoa 
+- 5564
+: 5587 2 1 Heav
+: 5590 3 6 en 
+: 5596 5 6 let 
+: 5602 2 10 your 
+: 5606 4 3 light 
+: 5615 8 8 shine 
+: 5625 13 5 down 
+- 5648
+: 5671 4 8 I’m 
+: 5677 3 8 gon
+: 5681 3 8 na 
+: 5686 6 8 let 
+: 5693 3 6 it 
+: 5701 9 6 shine 
+- 5710
+: 5712 4 1 I’m 
+: 5717 3 8 gon
+: 5721 3 8 na 
+: 5726 3 8 let 
+: 5731 5 1 it 
+: 5738 14 1 shine 
+- 5761
+: 5764 3 5 Heav
+: 5768 4 1 en’s 
+: 5774 2 1 lit
+: 5777 3 6 tle 
+: 5783 9 5 light 
+: 5794 4 5 gon
+: 5799 4 8 na 
+: 5805 4 5 shine 
+: 5810 7 1 on 
+: 5819 13 8 me 
+- 5841
+: 5844 12 8 Hey 
+: 5858 14 1 yeah 
+: 5883 13 1 hey 
+: 5898 16 6 yeah 
+- 5921
+: 5924 3 8 Heav
+: 5928 4 8 en’s 
+: 5933 4 1 lit
+: 5938 4 1 tle 
+: 5943 7 5 light 
+: 5953 4 8 gon
+: 5958 4 8 na 
+: 5963 6 6 shine 
+: 5970 5 8 on 
+: 5978 12 8 me 
+- 5999
+: 6002 38 3 Shine 
+: 6042 14 1 ~ 
+- 6059
+: 6061 5 6 Shine 
+: 6067 5 6 on 
+: 6076 6 8 me
+: 6085 7 5 ~
+: 6095 14 1 ~ 
+- 6118
+: 6122 4 8 Yeah 
+: 6127 6 5 ~
+: 6136 13 1 ~ 
+- 6158
+: 6161 35 3 Shine 
+: 6198 13 1 ~ 
+- 6217
+: 6219 2 8 Come 
+: 6226 3 6 on 
+: 6232 2 6 and 
+: 6238 19 8 shine 
+E

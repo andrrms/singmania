@@ -1,0 +1,144 @@
+#ARTIST:Mai-HiME
+#TITLE:It’s Only The Fairytale
+#MP3:Mai-HiME - It’s Only The Fairytale.mp3
+#CREATOR:Densetsu
+#LANGUAGE:English
+#BPM:299
+#GAP:47410
+#VIDEO:v=ek79dH_XP6k,co=https://static.wikia.nocookie.net/mai/images/c/c6/Mai_OST_1.jpg
+: 0 16 19 Who 
+: 18 4 19 are 
+: 24 6 19 those 
+: 32 5 17 lit
+: 38 6 15 tle 
+: 46 16 17 girls 
+: 64 4 17 in 
+: 70 8 17 pain 
+- 80
+: 88 6 17 Just 
+: 96 4 15 trap
+: 102 8 15 ped 
+: 112 4 15 in 
+: 118 6 14 cas
+: 126 6 12 tle 
+: 134 6 10 of 
+: 144 4 10 dark 
+: 150 12 12 side 
+: 164 2 12 of 
+: 168 16 12 moon 
+- 185
+: 186 20 19 Twelve 
+: 208 4 19 of 
+: 214 8 19 them 
+: 224 4 17 shi
+: 230 6 15 ning 
+: 238 16 17 bright 
+: 256 4 17 in 
+: 262 14 17 vain 
+- 277
+: 278 6 17 Like 
+: 286 6 15 flo
+: 294 6 17 wers 
+: 302 4 15 that 
+: 310 6 14 blos
+: 318 7 12 som 
+: 326 6 10 just 
+: 336 14 14 once 
+: 352 4 12 in 
+: 358 18 12 years 
+- 377
+: 378 6 19 They’re 
+: 386 6 19 dancing 
+: 394 4 20 in 
+: 400 2 19 the 
+: 404 5 24 sha
+: 410 10 22 dow 
+: 422 6 17 like 
+: 430 14 19 whispers 
+: 446 4 20 of 
+: 452 12 19 love 
+- 466
+: 468 6 19 Just 
+: 476 14 19 dreaming 
+: 492 4 20 of 
+: 498 4 19 a 
+: 504 4 19 place 
+: 510 4 17 where 
+: 516 4 15 the
+: 522 6 14 y’re 
+: 530 8 14 free 
+: 542 4 15 as 
+: 548 10 15 dove 
+- 560
+: 564 3 19 The
+: 568 4 19 y’ve 
+: 574 1 19 ne
+: 576 4 20 ver 
+: 582 4 19 been 
+: 588 7 24 allo
+: 596 8 22 wed 
+: 606 4 17 to 
+: 612 6 17 love 
+: 622 4 19 in 
+: 628 6 20 this 
+: 636 8 20 cursed 
+: 646 8 19 cage 
+- 656
+: 662 6 17 It’s 
+: 670 5 15 on
+: 676 8 17 ly 
+: 686 6 15 the 
+: 694 5 14 fai
+: 700 6 12 ry 
+: 708 6 10 tale 
+: 716 20 14 they 
+: 738 5 12 be-
+: 744 40 12 lieve 
+- 786
+: 1190 6 19 They’re 
+: 1198 6 19 dancing 
+: 1206 4 20 in 
+: 1212 2 19 the 
+: 1216 5 24 sha
+: 1222 10 22 dow 
+: 1234 8 17 like 
+: 1244 14 19 whispers 
+: 1260 4 20 of 
+: 1266 12 19 love 
+- 1279
+: 1280 6 19 Just 
+: 1288 14 19 dreaming 
+: 1304 4 20 of 
+: 1310 4 19 a 
+: 1316 6 19 place 
+: 1324 4 17 where 
+: 1330 3 15 the
+: 1334 6 14 y’re 
+: 1342 8 14 free 
+: 1354 4 15 as 
+: 1360 12 15 dove 
+- 1374
+: 1378 3 19 The
+: 1382 4 19 y’ve 
+: 1388 1 19 ne
+: 1390 4 20 ver 
+: 1396 4 19 been 
+: 1404 7 24 allo
+: 1412 8 22 wed 
+: 1422 4 17 to 
+: 1428 6 17 love 
+: 1436 4 19 in 
+: 1442 6 20 this 
+: 1450 8 20 cursed 
+: 1460 8 19 cage 
+- 1470
+: 1476 6 17 It’s 
+: 1484 5 15 on
+: 1490 8 17 ly 
+: 1500 6 15 the 
+: 1508 6 14 fai
+: 1516 6 12 ry 
+: 1524 6 10 tale 
+: 1532 20 14 they 
+: 1554 46 12 be-lieve 
+E

@@ -1,0 +1,249 @@
+#ARTIST:The Wannadies
+#TITLE:Someone Somewhere
+#MP3:The Wannadies - Someone Somewhere.mp3
+#CREATOR:daggeg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:250
+#GAP:31610
+#VIDEO:v=RNTeDXScO4Q,co=https://i.discogs.com/73GetBDwL_Ja--m1yuNgdZbksF4UIJNisFbNgeX61KE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk2/NTEtMTQ4MjMwOTc2/NS00MzE5LmpwZWc.jpeg
+: 0 2 4 Hel
+: 4 21 2 lo 
+: 32 2 4 a
+: 36 18 7 gain 
+- 56
+: 64 2 -1 My 
+: 68 4 -3 sun
+: 76 2 -1 shine 
+: 80 2 -3 in 
+: 85 30 -1 rain 
+- 117
+: 128 2 0 I 
+: 133 22 2 hope 
+: 160 2 0 you’re 
+: 165 18 -1 well 
+- 185
+: 193 2 0 I’ve 
+: 197 6 2 missed 
+: 208 2 4 you 
+: 212 7 2 so 
+: 223 2 4 it’s 
+: 228 7 2 hard 
+: 240 2 4 to 
+: 244 9 2 tell 
+- 255
+: 263 22 -10 Say 
+: 287 2 -8 good
+: 292 22 -5 night 
+- 316
+: 321 2 -1 My 
+: 325 5 -3 blue
+: 332 3 -1 ber
+: 336 2 -3 ry 
+: 340 34 -1 light 
+- 376
+: 385 2 0 And 
+: 389 23 2 dream 
+: 416 2 0 of 
+: 421 22 -1 me 
+- 445
+: 449 2 0 And 
+: 453 10 2 while 
+: 465 2 4 you 
+: 469 9 2 dream 
+- 480
+: 481 2 4 I 
+: 485 9 2 have 
+: 497 2 4 to 
+: 501 9 2 leave 
+- 512
+: 515 1 2 To 
+: 518 4 2 some
+: 525 4 11 one 
+- 531
+: 550 5 3 Some
+: 558 5 9 where, 
+- 565
+: 583 4 4 I’ll 
+: 591 4 7 be 
+: 599 5 9 com
+: 607 4 11 ing 
+: 616 6 7 back 
+- 624
+: 646 1 4 ’Cause 
+: 649 4 4 some
+: 657 5 11 where 
+- 664
+: 682 4 2 Some
+: 689 4 9 one 
+- 695
+: 712 2 2 Is 
+: 716 4 2 wait
+: 723 5 11 ing 
+- 730
+: 911 21 2 Here 
+: 935 2 4 a
+: 940 17 7 gain 
+- 959
+: 969 2 -1 You 
+: 973 5 -3 ne
+: 981 2 -1 ver 
+: 985 4 -3 know 
+: 992 30 -1 when 
+- 1024
+: 1033 2 0 I 
+: 1037 24 2 want 
+: 1064 2 0 you 
+: 1069 22 -1 near 
+- 1093
+: 1098 2 0 At 
+: 1102 9 2 least 
+: 1113 2 4 a 
+: 1117 10 2 week
+: 1129 2 4 end 
+: 1133 7 2 e
+: 1142 6 4 very 
+: 1150 9 2 year 
+- 1161
+: 1168 22 2 Say 
+: 1193 2 4 good
+: 1197 22 7 bye 
+- 1221
+: 1226 2 -1 My 
+: 1230 5 -3 blue
+: 1237 3 -1 ber
+: 1241 2 -3 ry 
+: 1245 38 -1 pie 
+- 1285
+: 1289 2 0 I 
+: 1293 26 2 think 
+: 1322 2 0 you’re 
+: 1326 22 -1 oh 
+- 1350
+: 1354 2 0 So 
+: 1358 10 2 beau
+: 1369 2 4 ti
+: 1373 8 2 ful 
+: 1385 2 4 I 
+: 1389 8 2 have 
+: 1401 2 4 to 
+: 1405 9 2 go 
+- 1416
+: 1419 1 2 To 
+: 1422 4 2 some
+: 1429 4 11 one 
+- 1435
+: 1454 5 3 Some
+: 1463 5 9 where, 
+- 1470
+: 1487 4 4 I’ll 
+: 1495 4 7 be 
+: 1503 5 9 com
+: 1511 4 11 ing 
+: 1519 6 7 back 
+- 1527
+: 1550 1 4 ’Cause 
+: 1553 4 4 some
+: 1561 5 11 where 
+- 1568
+: 1585 4 2 Some
+: 1593 4 9 one 
+- 1599
+: 1614 2 2 Is 
+: 1618 4 2 wait
+: 1626 5 11 ing 
+- 1633
+: 1680 1 2 To 
+: 1683 4 2 some
+: 1691 4 11 one 
+- 1697
+: 1716 5 3 Some
+: 1725 5 9 where, 
+- 1732
+: 1749 4 4 I’ll 
+: 1757 4 7 be 
+: 1765 5 9 com
+: 1773 4 11 ing 
+: 1781 6 7 back 
+- 1789
+: 1812 1 4 ’Cause 
+: 1815 4 4 some
+: 1823 5 11 where 
+- 1830
+: 1847 4 2 Some
+: 1856 4 9 one 
+- 1862
+: 1878 2 2 Is 
+: 1881 4 2 wait
+: 1889 5 11 ing 
+- 1896
+: 1945 5 2 Some
+: 1953 18 11 one 
+- 1973
+: 1978 5 2 Some
+: 1986 19 9 where, 
+- 2007
+: 2010 4 4 I’ll 
+: 2018 4 7 be 
+: 2027 5 9 com
+: 2035 4 11 ing 
+: 2042 21 7 back 
+- 2065
+: 2071 1 2 ’Cause 
+: 2074 4 2 some
+: 2082 17 11 where 
+- 2101
+: 2106 5 2 Some
+: 2114 16 9 one 
+- 2132
+: 2136 2 2 Is 
+: 2139 4 2 wait
+: 2146 33 11 ing 
+- 2181
+: 2201 5 2 Some
+: 2209 19 11 one 
+- 2230
+: 2234 5 3 Some
+: 2242 19 9 where, 
+- 2263
+: 2265 4 4 I’ll 
+: 2273 4 7 be 
+: 2281 5 9 com
+: 2289 4 11 ing 
+: 2297 19 7 back 
+- 2318
+: 2326 2 4 ’Cause 
+: 2329 4 4 some
+: 2337 18 11 where 
+- 2357
+: 2360 5 11 Some
+: 2368 17 14 one 
+- 2387
+: 2390 2 11 Is 
+: 2393 4 11 wait
+: 2401 46 14 ing 
+- 2449
+: 2456 5 11 Some
+: 2464 47 14 one, 
+- 2513
+: 2519 5 11 Some
+: 2529 46 14 where 
+- 2577
+: 2583 5 11 Some
+: 2592 47 14 one, 
+- 2641
+: 2647 5 11 Some
+: 2656 43 14 where 
+- 2701
+: 2710 5 16 Some
+: 2718 45 19 one, 
+- 2765
+: 2773 5 16 Some
+: 2782 46 19 where 
+- 2830
+: 2836 5 16 Some
+: 2847 35 19 one, 
+- 2884
+: 2899 5 16 Some
+: 2908 47 19 where 
+E

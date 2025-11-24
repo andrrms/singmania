@@ -1,0 +1,259 @@
+#ARTIST:blink-182
+#TITLE:Anthem Part Two
+#MP3:blink-182 - Anthem Part Two.mp3
+#CREATOR:Canni
+#YEAR:2001
+#LANGUAGE:English
+#BPM:206.28
+#GAP:46820
+#VIDEO:a=s_hzK4DkNSI,co=take-off-your-pants-and-jacket-55e8bfcd395e3.jpg,bg=blink-182-4eaea7576e7f3.jpg
+: 0 7 4 Eve
+: 8 7 2 ry
+: 16 7 4 thing 
+: 24 7 2 has 
+: 32 7 4 fallen 
+: 40 7 2 to 
+: 48 7 0 pie
+: 56 7 0 ces 
+- 64
+: 64 7 4 Earth 
+: 72 7 2 is 
+: 80 7 4 dy
+: 88 7 2 ing, 
+: 96 7 4 help 
+: 104 7 2 me 
+: 112 7 0 Je
+: 120 7 0 sus 
+- 128
+: 128 7 7 We 
+: 136 7 5 need 
+: 144 7 4 gui
+: 152 7 0 dance, 
+: 160 7 5 we’ve 
+: 168 7 4 been 
+: 176 7 0 mis
+: 184 7 2 led 
+- 192
+: 192 7 7 Young 
+: 200 7 5 and 
+: 208 7 4 hos
+: 216 7 0 tile, 
+: 224 7 5 but 
+: 232 7 4 not 
+: 240 7 0 stu
+: 248 8 0 pid 
+- 258
+: 320 7 4 Cor
+: 328 7 2 porate 
+: 336 7 4 lea
+: 344 7 2 ders, 
+: 352 7 4 po
+: 360 7 2 li
+: 368 7 0 ti
+: 376 7 0 cians 
+- 384
+: 384 7 4 Kids 
+: 392 7 2 can’t 
+: 400 7 4 vote, 
+: 408 7 2 a
+: 416 7 4 dults 
+: 424 7 2 e
+: 432 7 0 lect 
+: 440 7 0 them 
+- 448
+: 448 7 7 Laws 
+: 456 7 5 that 
+: 464 7 4 rule 
+: 472 7 0 the 
+: 480 7 5 school 
+: 488 7 4 and 
+: 496 7 0 work
+: 504 7 2 place 
+- 512
+: 512 7 7 Signs 
+: 520 7 5 that 
+: 528 7 4 cau
+: 536 7 0 tion 
+: 544 7 5 six
+: 552 7 4 teen’s 
+: 560 7 0 un
+: 568 8 0 safe 
+- 578
+: 634 1 7 We 
+: 636 1 7 real
+: 638 1 5 ly 
+: 640 15 4 need 
+: 656 12 0 to 
+: 672 7 4 see 
+: 680 7 0 this 
+: 688 8 2 through 
+- 697
+: 698 1 7 We 
+: 700 1 7 ne
+: 702 1 5 ver 
+: 704 15 4 wan
+: 720 11 0 ted 
+: 732 3 0 to 
+: 736 7 4 be 
+: 744 7 0 a
+: 752 8 2 bused 
+- 761
+: 762 1 7 We’ll 
+: 764 1 7 ne
+: 766 1 5 ver 
+: 768 15 4 give 
+: 784 12 0 up, 
+: 800 7 0 it’s 
+: 808 7 7 no 
+: 816 8 2 use 
+- 826
+: 828 3 2 If 
+: 832 5 4 we’re 
+: 838 5 0 fucked 
+: 844 3 0 up, 
+: 848 5 5 you’re 
+: 854 5 0 to 
+: 860 8 0 blame 
+- 870
+: 992 7 4 Let 
+: 1000 7 2 this 
+: 1008 7 4 train
+: 1016 7 2 wreck 
+: 1024 7 4 burn 
+: 1032 7 2 more 
+: 1040 7 0 slow
+: 1048 7 0 ly 
+- 1056
+: 1056 7 4 Kids 
+: 1064 7 2 are 
+: 1072 7 4 vic
+: 1080 7 2 tims 
+: 1088 7 4 in 
+: 1096 7 2 this 
+: 1104 7 0 sto
+: 1112 7 0 ry 
+- 1120
+: 1120 7 7 Drown 
+: 1128 7 5 the 
+: 1136 7 4 youth 
+: 1144 7 0 with 
+: 1152 7 5 use
+: 1160 7 4 less 
+: 1168 7 0 war
+: 1176 7 2 nings 
+- 1184
+: 1184 7 7 Teen
+: 1192 7 5 age 
+: 1200 7 4 rules, 
+: 1208 7 0 they’re 
+: 1216 7 5 fucked 
+: 1224 7 4 and 
+: 1232 7 0 bo
+: 1240 8 0 ring 
+- 1250
+: 1306 1 7 We 
+: 1308 1 7 real
+: 1310 1 5 ly 
+: 1312 15 4 need 
+: 1328 12 0 to 
+: 1344 7 4 see 
+: 1352 7 0 this 
+: 1360 8 2 through 
+- 1369
+: 1370 1 7 We 
+: 1372 1 7 ne
+: 1374 1 5 ver 
+: 1376 15 4 wan
+: 1392 11 0 ted 
+: 1404 3 0 to 
+: 1408 7 4 be 
+: 1416 7 0 a
+: 1424 8 2 bused 
+- 1433
+: 1434 1 7 We’ll 
+: 1436 1 7 ne
+: 1438 1 5 ver 
+: 1440 15 4 give 
+: 1456 12 0 up, 
+: 1472 7 0 it’s 
+: 1480 7 7 no 
+: 1488 8 2 use 
+- 1498
+: 1500 3 2 If 
+: 1504 5 4 we’re 
+: 1510 5 0 fucked 
+: 1516 3 0 up, 
+: 1520 5 5 you’re 
+: 1526 5 0 to 
+: 1532 8 0 blame 
+- 1542
+: 1664 7 4 Eve
+: 1672 7 2 ry
+: 1680 7 4 thing 
+: 1688 7 2 has 
+: 1696 7 4 fallen 
+: 1704 7 2 to 
+: 1712 7 0 pie
+: 1720 7 0 ces 
+- 1728
+: 1728 7 4 Eve
+: 1736 7 2 ry
+: 1744 7 4 thing 
+: 1752 7 2 has 
+: 1760 7 4 fallen 
+: 1768 7 2 to 
+: 1776 7 0 pie
+: 1784 7 0 ces 
+- 1792
+: 1792 7 4 Eve
+: 1800 7 2 ry
+: 1808 7 4 thing 
+: 1816 7 2 has 
+: 1824 7 4 fallen 
+: 1832 7 2 to 
+: 1840 7 0 pie
+: 1848 7 0 ces 
+- 1856
+: 1856 7 4 Eve
+: 1864 7 2 ry
+: 1872 7 4 thing 
+: 1880 7 2 has 
+: 1888 7 4 fallen 
+: 1896 16 0 to … 
+- 1913
+: 1914 1 7 We 
+: 1916 1 7 real
+: 1918 1 5 ly 
+: 1920 15 4 need 
+: 1936 12 0 to 
+: 1952 7 4 see 
+: 1960 7 0 this 
+: 1968 8 2 through 
+- 1977
+: 1978 1 7 We 
+: 1980 1 7 ne
+: 1982 1 5 ver 
+: 1984 15 4 wan
+: 2000 11 0 ted 
+: 2012 3 0 to 
+: 2016 7 4 be 
+: 2024 7 0 a
+: 2032 8 2 bused 
+- 2041
+: 2042 1 7 We’ll 
+: 2044 1 7 ne
+: 2046 1 5 ver 
+: 2048 15 4 give 
+: 2064 12 0 up, 
+: 2080 7 0 it’s 
+: 2088 7 7 no 
+: 2096 8 2 use 
+- 2106
+: 2108 3 2 If 
+: 2112 5 4 we’re 
+: 2118 5 0 fucked 
+: 2124 3 0 up, 
+: 2128 7 5 you’re 
+: 2136 7 7 to 
+: 2144 8 7 blame 
+E

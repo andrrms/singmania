@@ -1,0 +1,945 @@
+#ARTIST:Rick Ross feat. Drake & Chrisette Michele
+#TITLE:Aston Martin Music
+#MP3:Rick Ross feat. Drake & Chrisette Michele - Aston Martin Music.mp3
+#CREATOR:rottyb
+#GENRE:Rap
+#YEAR:2010
+#LANGUAGE:English
+#BPM:341.85
+#GAP:33740
+#VIDEO:v=a35rNEBNiO4,co=https://upload.wikimedia.org/wikipedia/en/a/ac/Rick_Ross_-_Aston_Martin_Music.jpg,bg=rick-ross-4f05f7696a74a.jpg
+R 0 8 15 Vibing 
+R 10 1 17 to 
+R 14 2 15 the 
+R 18 3 16 mu
+R 23 6 15 sic 
+R 52 1 15 this 
+R 55 1 12 is 
+R 59 1 15 how 
+R 61 3 15 we 
+R 68 5 15 do 
+R 75 6 15 it 
+R 88 2 13 all 
+R 92 1 17 night 
+R 96 1 9 (all 
+R 100 9 10 night) 
+- 111
+R 120 1 11 Bree
+R 126 2 17 zing 
+R 130 2 15 down 
+R 135 1 17 the 
+R 138 3 15 free
+R 145 11 15 way 
+R 176 1 15 just 
+R 180 1 15 me 
+R 183 1 17 and 
+R 186 4 15 my 
+R 193 8 15 baby, 
+R 205 2 14 in 
+R 209 2 18 our 
+R 225 12 15 ride 
+- 239
+R 252 2 12 Just 
+R 257 2 20 me 
+R 263 2 20 and 
+R 271 2 16 my 
+R 278 11 10 boss 
+R 295 10 20 no 
+R 311 2 20 worries 
+R 317 3 20 at 
+R 322 12 10 all 
+- 336
+R 344 8 13 Listening 
+R 354 1 15 to 
+R 359 9 17 the 
+R 370 8 12 As
+R 390 10 20 ton 
+R 406 12 13 Mar
+R 421 11 13 tin 
+R 437 12 20 Music 
+R 454 12 13 Music 
+- 468
+R 518 25 13 Would 
+R 546 4 10 have 
+R 552 5 14 came 
+R 559 10 10 back 
+R 572 8 13 for 
+R 583 8 15 you 
+- 593
+R 599 8 17 I 
+R 609 7 13 just 
+R 619 6 10 needed 
+R 628 15 15 time 
+R 663 3 13 to 
+R 670 3 10 do 
+R 677 5 12 what 
+R 686 12 15 I 
+R 702 6 13 had 
+R 710 11 15 to 
+R 724 7 15 do 
+- 733
+R 734 8 12 Caught 
+R 745 1 20 in 
+R 749 1 20 the 
+R 752 22 17 life 
+R 783 12 10 I 
+R 800 11 15 can’t 
+R 813 2 13 let 
+R 818 1 12 it 
+R 834 14 15 go 
+- 850
+R 854 12 12 Whether 
+R 869 2 12 that’s 
+R 874 25 17 right 
+R 904 21 15 I 
+R 930 8 15 will 
+R 941 15 12 never 
+R 959 17 20 know 
+- 978
+R 1001 4 16 But 
+R 1008 3 12 here 
+R 1014 2 20 goes 
+R 1017 1 11 nothing. 
+- 1019
+R 1019 1 15 When 
+R 1021 1 11 I’m 
+R 1023 1 10 alone 
+R 1026 1 17 in 
+R 1028 1 17 my 
+R 1031 1 12 room 
+R 1034 5 11 some
+R 1041 2 13 times 
+R 1044 1 12 I 
+R 1047 1 17 stare 
+R 1050 2 13 at 
+R 1054 1 11 the 
+R 1057 7 12 walls 
+- 1066
+R 1072 27 11 Auto
+R 1101 1 10 matic 
+R 1103 1 9 wea
+R 1106 7 10 pons 
+R 1117 2 11 on 
+R 1120 1 13 the 
+R 1123 1 20 floor 
+R 1126 2 12 but 
+R 1130 1 10 who 
+R 1132 1 13 can 
+R 1135 1 9 you 
+R 1138 1 9 call? 
+- 1140
+R 1141 1 18 My 
+R 1143 1 20 dime 
+R 1146 1 11 bitch 
+R 1148 3 17 one 
+R 1153 1 20 that 
+R 1156 10 16 live 
+R 1167 2 9 by 
+R 1170 1 12 the 
+R 1174 2 11 code 
+- 1177
+R 1177 23 11 Put 
+R 1203 1 12 this 
+R 1206 1 10 music 
+R 1209 4 20 shit 
+R 1215 5 19 aside 
+R 1223 5 18 get 
+R 1230 3 16 it 
+R 1234 1 20 in 
+R 1237 1 20 on 
+R 1240 1 10 the 
+R 1243 7 11 road 
+- 1252
+R 1265 1 18 A 
+R 1268 1 18 lot 
+R 1270 1 13 of 
+R 1273 1 17 quiet 
+R 1276 4 10 time 
+R 1286 12 16 pink 
+R 1300 2 13 bottles 
+R 1304 1 17 of 
+R 1308 9 10 rose 
+- 1319
+R 1323 3 9 Exotic 
+R 1328 1 12 red 
+R 1331 13 17 bottoms 
+R 1347 5 16 so 
+R 1355 2 11 body 
+R 1359 1 17 glit
+R 1364 4 11 tered 
+R 1372 3 10 in 
+R 1377 6 20 gold 
+- 1385
+R 1394 2 12 Follow
+R 1398 7 9 ing 
+R 1407 1 16 funda
+R 1410 5 10 mentals 
+R 1417 1 10 and 
+R 1420 2 18 follow
+R 1424 5 9 ing 
+R 1431 2 17 in 
+R 1434 4 9 a 
+R 1441 4 9 rental 
+- 1447
+R 1452 8 12 I 
+R 1462 1 18 love 
+R 1465 1 12 a 
+R 1468 5 10 nasty 
+R 1475 1 20 girl 
+R 1478 1 16 that 
+R 1482 7 10 swall
+R 1491 1 12 ows 
+R 1494 4 10 what’s 
+R 1501 1 10 on 
+R 1503 1 12 the 
+R 1506 6 10 menu 
+- 1514
+R 1519 8 13 My 
+R 1529 1 13 money 
+R 1532 5 10 triples 
+R 1539 4 12 up 
+R 1546 2 12 when 
+R 1550 1 9 you 
+R 1554 1 20 get 
+R 1557 3 13 it 
+R 1562 1 12 out 
+R 1565 1 12 of 
+R 1568 8 13 state 
+- 1578
+R 1584 10 13 I 
+R 1597 1 11 need 
+R 1599 1 11 a 
+R 1602 1 13 new 
+R 1605 1 16 safe 
+R 1608 1 10 cause 
+R 1610 4 12 I’m 
+R 1617 1 12 running 
+R 1620 1 10 out 
+R 1622 1 13 of 
+R 1625 13 11 space 
+- 1640
+R 1652 6 13 Elory 
+R 1660 19 10 Jetson 
+R 1682 1 17 I’m 
+R 1684 1 13 some
+R 1687 2 11 where 
+R 1691 1 18 out 
+R 1695 1 18 of 
+R 1697 10 18 space 
+- 1709
+R 1714 6 14 In 
+R 1722 1 17 my 
+R 1725 1 17 two 
+R 1727 2 14 seater 
+R 1732 8 14 she’s 
+R 1742 1 9 the 
+R 1746 4 20 one 
+R 1751 1 11 that 
+R 1754 1 10 I 
+R 1757 3 17 would 
+R 1761 7 16 take 
+- 1770
+R 1781 4 12 Vibing 
+R 1788 1 15 to 
+R 1790 1 17 the 
+R 1793 20 15 music 
+R 1831 1 13 this 
+R 1834 1 15 is 
+R 1836 1 12 how 
+R 1839 1 12 we 
+R 1842 7 15 do 
+R 1850 4 15 it 
+R 1861 4 15 all 
+R 1867 3 17 night 
+R 1874 2 17 (all 
+R 1883 9 15 night) 
+- 1894
+R 1902 4 9 Bree
+R 1908 2 13 zing 
+R 1912 2 15 down 
+R 1916 2 17 the 
+R 1920 6 15 freeway 
+R 1956 1 16 just 
+R 1959 1 15 me 
+R 1961 1 15 and 
+R 1964 1 17 my 
+R 1967 17 15 baby, 
+R 1989 14 10 in 
+R 2006 4 15 our 
+R 2013 12 20 ride 
+- 2027
+R 2033 2 13 Just 
+R 2037 2 19 me 
+R 2041 3 20 and 
+R 2046 4 20 my 
+R 2052 19 10 boss 
+R 2078 11 20 no 
+R 2093 7 20 worries 
+R 2102 2 13 at 
+R 2106 12 10 all 
+- 2120
+R 2125 9 12 Liste
+R 2136 5 15 ning 
+R 2143 5 15 to 
+R 2150 5 20 the 
+R 2166 16 20 Aston 
+R 2188 27 20 Martin 
+R 2219 24 13 Music 
+R 2255 20 13 Music 
+- 2277
+R 2323 8 10 Would 
+R 2333 1 12 have 
+R 2335 1 10 came 
+R 2339 12 10 back 
+R 2354 7 13 for 
+R 2363 12 15 you 
+- 2377
+R 2380 7 17 I 
+R 2389 7 13 just 
+R 2399 8 10 needed 
+R 2410 16 15 time 
+R 2429 4 17 to 
+R 2434 2 13 do 
+R 2462 2 12 what 
+R 2468 7 15 I 
+R 2477 6 13 had 
+R 2485 4 13 to 
+R 2491 8 15 do 
+- 2501
+R 2513 1 10 Caught 
+R 2517 4 12 in 
+R 2524 4 20 the 
+R 2530 27 17 life 
+R 2562 13 10 I 
+R 2579 19 15 can’t 
+R 2600 2 12 let 
+R 2604 1 12 it 
+R 2607 23 12 go 
+- 2632
+R 2636 13 12 Whether 
+R 2654 6 13 that’s 
+R 2661 24 17 right 
+R 2691 16 15 I 
+R 2711 12 15 will 
+R 2726 15 12 never 
+R 2744 17 20 know 
+- 2763
+R 2780 1 17 But 
+R 2784 1 16 here 
+R 2787 5 9 goes 
+R 2795 6 20 nothing. 
+- 2802
+R 2803 1 15 Pull 
+R 2807 2 12 up 
+R 2812 5 12 on 
+R 2819 1 20 the 
+R 2822 1 19 block 
+R 2824 1 13 in 
+R 2827 1 20 the 
+R 2830 4 13 drop 
+R 2836 5 19 top 
+R 2843 4 16 chicken 
+R 2850 8 19 box 
+- 2860
+R 2872 1 20 Mr. 
+R 2875 9 10 KFC 
+R 2889 10 13 bps 
+R 2903 1 11 is 
+R 2906 1 20 in 
+R 2909 1 16 the 
+R 2912 8 13 watch 
+- 2922
+R 2935 3 10 Living 
+R 2939 5 12 fast 
+R 2947 4 11 where 
+R 2954 1 11 its 
+R 2956 1 12 all 
+R 2959 4 18 about 
+R 2965 1 18 the 
+R 2968 1 18 money 
+R 2970 13 11 bags 
+- 2985
+R 2996 2 12 Never 
+R 3001 1 11 front 
+R 3004 4 12 you 
+R 3011 1 13 take 
+R 3014 1 11 there 
+R 3017 5 11 and 
+R 3025 2 10 never 
+R 3030 1 10 come 
+R 3033 12 10 back 
+- 3047
+R 3062 2 14 Top 
+R 3066 6 11 down 
+R 3075 4 17 right 
+R 3081 5 17 here 
+R 3088 2 10 is 
+R 3093 1 11 where 
+R 3096 2 20 she 
+R 3099 1 16 wanna 
+R 3102 6 13 be 
+- 3110
+R 3123 1 12 As 
+R 3127 1 10 my 
+R 3131 3 17 goals 
+R 3136 12 11 unfold 
+R 3153 6 18 right 
+R 3160 1 10 in 
+R 3163 1 14 front 
+R 3165 3 13 of 
+R 3170 6 9 me 
+- 3178
+R 3187 1 13 Every 
+R 3191 1 14 time 
+R 3195 1 14 we 
+R 3199 8 13 fuck 
+R 3208 1 13 her 
+R 3211 4 13 soul 
+R 3218 2 12 takes 
+R 3223 1 12 a 
+R 3226 3 12 hold 
+R 3231 7 10 of 
+R 3240 1 10 me 
+- 3242
+R 3243 7 14 I 
+R 3253 1 13 dig 
+R 3256 1 12 it 
+R 3259 1 19 like 
+R 3262 5 14 pokey 
+R 3270 1 20 the 
+R 3272 6 12 pussy 
+R 3280 2 20 be 
+R 3284 1 15 con
+R 3287 7 16 rolling 
+R 3296 1 13 me 
+- 3299
+R 3336 1 10 That 
+R 3339 1 13 thang 
+R 3342 7 10 keep 
+R 3351 1 16 calling 
+- 3354
+R 3381 15 12 Fuck 
+R 3398 2 19 maintain 
+R 3402 1 19 boy 
+R 3405 2 20 I 
+R 3409 1 12 keep 
+R 3411 1 14 gotta 
+R 3417 15 12 BALLIN 
+- 3434
+R 3461 1 13 Pink 
+R 3465 2 19 bottles 
+R 3473 5 10 keep 
+R 3480 7 13 coming 
+- 3489
+R 3499 1 12 James 
+R 3504 3 12 bond 
+R 3510 6 12 coupe 
+R 3525 1 20 pop 
+R 3529 4 10 clutch 
+R 3536 15 12 100 
+- 3553
+R 3560 5 13 Vibing 
+R 3568 1 15 to 
+R 3571 1 17 the 
+R 3574 5 15 music 
+R 3613 1 16 this 
+R 3616 1 20 is 
+R 3618 1 12 how 
+R 3621 5 15 we 
+R 3628 1 17 do 
+R 3631 2 15 it 
+R 3646 2 16 all 
+R 3650 4 10 night 
+R 3658 1 9 (all 
+R 3661 7 10 night) 
+- 3670
+R 3684 1 20 Bree
+R 3688 2 12 zing 
+R 3692 2 15 down 
+R 3697 1 17 the 
+R 3700 3 15 free
+R 3707 5 15 way 
+R 3739 1 13 just 
+R 3742 1 15 me 
+R 3744 1 15 and 
+R 3747 5 15 my 
+R 3754 7 15 baby, 
+R 3768 16 10 in 
+R 3786 2 15 our 
+R 3791 7 15 ride 
+- 3800
+R 3813 1 13 Just 
+R 3817 3 20 me 
+R 3825 3 20 and 
+R 3832 2 13 my 
+R 3839 15 10 boss 
+R 3859 8 20 no 
+R 3872 4 20 worries 
+R 3878 8 13 at 
+R 3889 9 10 all 
+- 3900
+R 3906 17 15 Listening 
+R 3925 5 17 to 
+R 3932 4 20 the 
+R 3939 25 13 Aston 
+R 3969 26 13 Martin 
+R 4001 24 13 Music 
+R 4033 23 13 Music 
+- 4058
+R 4099 15 17 Would 
+R 4117 1 16 have 
+R 4120 2 15 came 
+R 4123 14 13 back 
+R 4140 4 16 for 
+R 4147 9 15 you 
+- 4158
+R 4168 5 17 I 
+R 4175 3 13 just 
+R 4181 14 20 needed 
+R 4197 12 15 time 
+R 4220 7 13 to 
+R 4229 3 13 do 
+R 4234 4 10 what 
+R 4240 3 12 I 
+R 4247 17 13 had 
+R 4267 4 13 to 
+R 4273 9 16 do 
+- 4284
+R 4297 5 17 Caught 
+R 4304 2 20 in 
+R 4308 4 20 the 
+R 4314 25 17 life 
+R 4345 14 10 I 
+R 4364 13 15 can’t 
+R 4380 9 12 let 
+R 4392 6 12 it 
+R 4400 15 20 go 
+- 4417
+R 4424 10 16 Whether 
+R 4436 2 13 that’s 
+R 4440 24 17 right 
+R 4472 17 15 I 
+R 4492 11 15 will 
+R 4505 11 12 never 
+R 4519 26 20 know 
+- 4547
+R 5093 1 16 But 
+R 5097 1 20 here 
+R 5099 1 14 goes 
+R 5102 1 14 nothing. 
+- 5104
+R 5105 1 13 I 
+R 5109 1 13 talk 
+R 5112 1 18 slicker 
+R 5115 1 14 than 
+R 5117 1 18 a 
+R 5120 1 18 pimp 
+R 5122 5 20 from 
+R 5129 14 14 Augusta 
+- 5145
+R 5147 2 19 Who 
+R 5151 1 19 just 
+R 5153 1 18 had 
+R 5157 1 18 his 
+R 5160 1 18 linen 
+R 5163 3 13 suit 
+R 5168 14 19 dry-cleaned, 
+R 5183 12 16 bitches, 
+R 5200 2 18 what’s 
+R 5204 1 18 up 
+R 5207 6 18 witcha? 
+- 5215
+R 5217 5 11 I 
+R 5224 2 18 hate 
+R 5228 5 18 callin’ 
+R 5235 1 17 the 
+R 5238 3 18 women 
+R 5244 6 13 bitches, 
+R 5254 2 10 but 
+R 5259 1 20 the 
+R 5262 7 16 bitches 
+R 5271 2 17 love 
+R 5275 3 17 it 
+- 5280
+R 5281 1 20 I 
+R 5284 2 11 took 
+R 5287 1 9 some 
+R 5290 1 20 sense 
+R 5293 3 20 and 
+R 5299 1 13 made 
+R 5302 1 16 a 
+R 5304 1 13 nickel 
+R 5307 5 18 of 
+R 5314 7 18 it 
+- 5323
+R 5328 4 11 I’m 
+R 5333 1 16 urgin’ 
+R 5336 1 14 all 
+R 5339 12 13 daughters 
+R 5354 1 16 to 
+R 5357 1 16 kiss 
+R 5359 1 19 they 
+R 5363 6 16 mothers 
+- 5370
+R 5371 2 18 With 
+R 5375 9 10 those 
+R 5386 5 16 lips 
+R 5393 1 20 that 
+R 5396 1 20 all 
+R 5399 2 18 that 
+R 5403 4 19 lipstick 
+R 5410 1 19 covers 
+- 5412
+R 5413 13 19 You’re 
+R 5429 1 16 never 
+R 5433 2 13 too 
+R 5438 2 19 grown 
+R 5441 2 19 up 
+R 5445 2 13 to 
+R 5449 2 18 miss 
+R 5454 2 18 and 
+R 5458 6 13 hug 
+R 5466 4 12 her 
+- 5472
+R 5473 2 10 And 
+R 5477 1 16 girls 
+R 5480 2 14 countin’ 
+R 5486 2 20 on 
+R 5490 2 13 me 
+R 5494 1 13 to 
+R 5498 1 20 be 
+R 5502 1 19 there 
+R 5505 2 19 like 
+R 5509 12 18 missin’ 
+R 5523 6 19 rubbers 
+- 5531
+R 5536 2 20 I’m 
+R 5540 1 16 on 
+R 5544 2 13 some 
+R 5547 1 13 Marvin 
+R 5549 5 18 Gaye 
+R 5558 8 16 shit, 
+R 5569 5 10 a 
+R 5576 1 13 Or 
+R 5578 1 18 bunch 
+R 5580 1 19 of 
+R 5582 2 19 distant 
+R 5587 6 18 lovers 
+- 5595
+R 5599 5 16 This 
+R 5606 1 20 ain’t 
+R 5609 1 14 the 
+R 5613 2 19 life 
+R 5617 1 19 that 
+R 5620 1 19 I’m 
+R 5624 2 18 used 
+R 5628 5 20 to 
+- 5635
+R 5636 18 20 Reintroduced 
+R 5657 2 9 to 
+R 5660 1 20 people 
+R 5664 3 20 I’ve 
+R 5669 2 19 been 
+R 5673 7 20 introduced 
+R 5682 1 20 to 
+- 5684
+R 5685 2 20 Did 
+R 5690 2 20 you 
+R 5694 16 18 forget 
+R 5731 1 18 Or 
+R 5733 1 19 are 
+R 5737 1 19 you 
+R 5740 1 16 too 
+R 5743 4 20 scared 
+R 5750 4 20 to 
+R 5756 1 13 tell 
+R 5759 1 16 me 
+R 5762 1 20 that 
+R 5766 1 14 you 
+R 5769 1 18 met 
+R 5772 3 16 me 
+- 5776
+R 5777 5 20 And 
+R 5784 2 20 fear 
+R 5788 1 20 that 
+R 5790 1 14 I 
+R 5793 1 20 won’t 
+R 5796 12 20 remember, 
+R 5812 1 20 I 
+R 5816 1 20 wish 
+R 5818 1 20 you 
+R 5821 1 20 could 
+R 5824 1 19 still 
+R 5828 5 19 accept 
+R 5835 5 16 me 
+R 5842 1 19 for 
+R 5845 1 19 me 
+- 5847
+R 5847 7 20 I 
+R 5858 3 10 miss 
+R 5862 8 20 Memphis, 
+R 5873 12 19 Tennessee, 
+R 5889 3 20 my 
+R 5894 5 16 cousins, 
+R 5902 2 13 my 
+R 5905 5 14 dad 
+- 5912
+R 5913 9 16 The 
+R 5924 1 9 simplistic 
+R 5928 7 20 beauty 
+R 5937 2 20 that 
+R 5941 1 19 all 
+R 5944 1 14 of 
+R 5947 2 20 them 
+R 5951 13 19 Southerners 
+R 5966 8 20 have 
+- 5976
+R 5980 6 16 I’m 
+R 5988 1 19 halfway 
+R 5992 4 19 across 
+R 5998 1 20 the 
+R 6001 2 20 world 
+R 6005 2 14 with 
+R 6009 13 17 dozens 
+R 6024 1 14 of 
+R 6028 7 14 bags 
+- 6037
+R 6041 7 20 Feelin’ 
+R 6051 1 20 like 
+R 6054 1 19 all 
+R 6057 4 14 four 
+R 6069 7 20 members 
+R 6079 2 20 of 
+R 6083 5 19 Color 
+R 6089 1 20 Me 
+R 6093 8 14 Badd 
+- 6103
+R 6107 5 16 In 
+R 6114 2 19 one 
+R 6119 8 14 nigga, 
+R 6129 6 13 amazing 
+R 6137 3 13 shit 
+- 6142
+R 6143 5 10 I 
+R 6150 1 16 got 
+R 6153 1 16 that 
+R 6156 13 19 Courtney 
+R 6172 6 19 Love 
+R 6180 5 18 for 
+R 6187 6 13 you, 
+R 6195 3 11 that 
+R 6201 2 9 crazy 
+R 6205 7 17 shit 
+- 6214
+R 6217 2 16 I 
+R 6221 2 11 don’t 
+R 6226 3 19 drink 
+R 6232 5 13 every 
+R 6240 3 18 bottle 
+R 6246 1 10 I 
+R 6249 1 10 own, 
+R 6257 2 12 I 
+R 6261 1 19 be 
+R 6264 1 13 agin’ 
+R 6267 6 18 shit 
+- 6274
+R 6275 1 20 And 
+R 6279 1 16 I 
+R 6282 1 15 got 
+R 6285 2 11 them 
+R 6290 6 13 wedding 
+R 6298 5 13 ring 
+R 6306 10 13 flows, 
+R 6320 1 16 that 
+R 6324 5 18 engagin’ 
+R 6331 6 17 shit 
+- 6339
+R 6341 2 19 Which 
+R 6345 3 20 one 
+R 6350 1 19 of 
+R 6353 4 10 y’all 
+R 6359 1 14 got 
+R 6363 6 19 fleets 
+R 6371 1 19 on 
+R 6374 1 18 your 
+R 6378 7 20 keychains? 
+R 6389 2 18 The 
+R 6393 1 13 seats 
+R 6397 1 10 for 
+R 6400 2 18 these 
+R 6405 1 20 Heat 
+R 6407 8 20 games? 
+- 6417
+R 6419 3 16 I 
+R 6424 1 20 really 
+R 6427 1 20 think 
+R 6431 2 19 you 
+R 6435 6 18 stare 
+R 6443 2 20 at 
+R 6448 2 14 yourself 
+R 6454 2 16 and 
+R 6458 1 20 you 
+R 6462 4 16 see 
+R 6471 5 20 things 
+- 6478
+R 6481 9 16 La 
+R 6493 8 18 Familia, 
+R 6503 9 18 I’ve 
+R 6514 1 19 been 
+R 6517 6 20 inducted 
+R 6525 2 18 and 
+R 6529 8 18 instructed 
+- 6539
+R 6540 3 18 To 
+R 6545 1 12 stunt 
+R 6548 2 14 on 
+R 6553 2 18 these 
+R 6556 4 18 niggas 
+R 6563 1 16 we 
+R 6567 2 16 don’t 
+R 6571 2 14 really 
+R 6575 5 16 fuck 
+R 6583 4 19 wit 
+- 6589
+R 6597 4 16 Fuck 
+R 6604 1 12 is 
+R 6607 1 20 up? 
+- 6610
+R 6611 4 13 Havin’ 
+R 6617 7 13 lunch 
+R 6632 2 12 and 
+R 6637 6 16 debatin’ 
+R 6647 3 16 Ferrari 
+R 6655 4 16 prices 
+- 6661
+R 6667 13 17 23 
+R 6683 3 16 and 
+R 6690 5 17 goin’ 
+R 6698 1 13 through 
+R 6701 1 12 a 
+R 6705 8 18 midlife 
+R 6721 7 16 crisis 
+- 6730
+R 6737 1 16 But 
+R 6740 1 20 trust 
+R 6743 2 18 me, 
+R 6748 1 16 I 
+R 6751 1 19 still 
+R 6754 5 18 deliver 
+R 6763 1 12 like 
+R 6766 1 16 a 
+R 6770 12 13 midwife 
+- 6784
+R 6788 1 16 And 
+R 6791 1 13 no, 
+R 6795 1 18 I’m 
+R 6799 1 18 not 
+R 6802 6 12 sayin’ 
+R 6811 2 13 I’m 
+R 6815 1 17 the 
+R 6819 4 16 nicest, 
+R 6830 2 16 I 
+R 6835 1 16 just 
+R 6838 1 16 live 
+R 6841 2 12 like 
+R 6845 9 17 it 
+- 6855
+R 6856 23 13 Uh, 
+R 6890 1 20 it 
+R 6894 1 9 take 
+R 6897 1 12 a 
+R 6901 3 13 certain 
+R 6906 2 16 type 
+R 6910 1 20 of 
+R 6913 5 16 man 
+R 6921 1 12 to 
+R 6924 1 12 teach 
+- 6927
+R 6928 13 17 To 
+R 6942 1 18 be 
+R 6946 1 16 far 
+R 6949 4 18 from 
+R 6958 5 16 hood, 
+R 6965 1 12 but 
+R 6968 4 16 to 
+R 6975 5 16 understand 
+R 6982 1 13 the 
+R 6985 8 19 streets 
+- 6995
+R 7001 1 13 I 
+R 7004 1 16 never 
+R 7006 1 16 threw 
+R 7009 2 13 away 
+R 7013 1 19 that 
+R 7020 4 13 paper 
+R 7031 4 18 with 
+R 7037 2 18 my 
+R 7041 5 13 Grammy 
+R 7048 6 12 speech 
+- 7056
+R 7066 1 16 Because 
+R 7069 1 19 I 
+R 7072 1 16 haven’t 
+R 7075 3 18 hit 
+R 7081 1 18 the 
+R 7085 12 13 pinnacles 
+R 7102 1 16 I 
+R 7106 1 16 plan 
+R 7109 1 20 to 
+R 7112 9 18 reach 
+- 7123
+R 7128 10 18 Yeah, 
+R 7143 3 18 you 
+R 7148 1 14 gotta 
+R 7151 5 13 own 
+R 7159 1 13 it 
+R 7163 1 18 if 
+R 7166 1 18 you 
+R 7169 2 17 want 
+R 7173 9 13 it 
+- 7183
+R 7184 1 20 Kisses 
+R 7188 1 10 all 
+R 7191 1 17 on 
+R 7194 5 12 her 
+R 7202 1 9 body, 
+R 7206 1 9 she 
+R 7209 1 17 tells 
+R 7212 1 17 me 
+R 7216 1 20 live 
+R 7219 1 18 in 
+R 7224 2 13 the 
+R 7228 7 17 moment 
+- 7237
+R 7245 15 13 And, 
+R 7262 1 20 baby, 
+R 7265 11 18 I’ll 
+R 7279 1 16 never 
+R 7282 5 20 forget 
+R 7293 2 16 none 
+R 7298 1 16 of 
+R 7302 5 14 that 
+- 7309
+R 7311 15 17 Girl, 
+R 7329 1 16 I 
+R 7331 1 15 told 
+R 7334 1 9 you 
+R 7336 1 20 I 
+R 7340 1 16 was 
+R 7343 1 17 coming 
+R 7346 8 17 back 
+- 7356
+R 7375 1 12 Aston 
+R 7397 31 13 Martin 
+R 7435 22 13 Music 
+R 7466 23 13 Music 
+R 7500 23 13 (Aston 
+R 7530 25 19 Martin 
+R 7561 19 12 Music, 
+R 7590 19 20 Music) 
+- 7611
+R 7615 3 20 All 
+R 7620 4 20 night 
+R 7631 3 20 (All 
+R 7636 7 20 night) 
+E

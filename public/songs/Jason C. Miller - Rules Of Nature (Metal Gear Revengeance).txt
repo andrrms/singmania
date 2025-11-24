@@ -1,0 +1,197 @@
+#ARTIST:Jason C. Miller
+#TITLE:Rules Of Nature (Metal Gear Revengeance)
+#MP3:Jason C. Miller - Rules Of Nature (Metal Gear Revengeance).mp3
+#CREATOR:Booker255
+#GENRE:Rock
+#YEAR:2013
+#LANGUAGE:English
+#BPM:346.83
+#GAP:23610
+#VIDEO:a=jOpzP33_USs,co=https://static.hggard.com/Images/upload/79380261443199773.jpg
+: 0 4 2 The 
+: 6 33 9 time 
+: 45 3 7 has 
+: 51 6 7 come 
+: 59 6 7 to 
+: 67 2 6 an 
+: 71 16 7 end
+: 88 1 6 ~
+: 90 1 5 ~
+: 92 1 4 ~
+: 94 1 3 ~
+: 96 14 2 ~ 
+- 112
+: 169 27 9 Yeah 
+: 198 4 7 this 
+: 205 5 7 is 
+: 213 3 6 what 
+: 219 5 7 na
+: 228 7 6 ture 
+: 240 56 2 planned 
+- 298
+: 426 9 -3 Being 
+: 437 3 -3 tra
+: 442 3 -3 cked 
+: 447 3 -3 by 
+: 453 2 -3 a 
+: 458 8 -3 star
+: 469 5 -3 ving 
+: 476 17 -3 beast 
+- 495
+: 512 4 -3 Loo
+: 518 4 -3 king 
+: 525 13 -3 for 
+: 540 3 -3 its 
+: 545 7 -3 dai
+: 555 5 -3 ly 
+: 562 20 -3 feast 
+- 584
+: 595 3 -3 A 
+: 599 3 -3 pre
+: 604 3 -3 da
+: 610 7 -3 tor 
+: 620 3 -3 on 
+: 625 3 -3 the 
+: 631 7 -3 verge 
+: 640 4 -3 of 
+: 647 12 -3 death 
+- 661
+: 673 6 5 Close 
+: 681 7 5 to 
+: 690 6 7 its 
+: 698 5 5 last 
+: 707 5 5 breath
+: 713 37 2 ~ 
+- 752
+: 823 4 2 Get
+: 830 3 2 ting 
+: 836 7 2 close 
+: 845 4 2 to 
+: 852 5 5 its 
+: 861 4 7 last 
+* 868 32 9 breath 
+- 902
+F 923 12 3 Rules 
+F 937 3 3 of 
+F 942 7 3 na
+F 952 11 3 ture!!! 
+- 965
+: 995 4 9 And 
+: 1001 3 9 they 
+: 1007 8 9 run 
+: 1017 4 7 when 
+: 1023 2 5 the 
+: 1029 7 5 sun 
+: 1038 6 4 comes 
+: 1048 13 5 up 
+- 1063
+: 1081 4 7 With 
+: 1088 3 7 their 
+: 1094 8 9 lives 
+: 1105 3 7 on 
+: 1110 2 5 the 
+: 1115 19 2 line 
+- 1135
+F 1136 3 3 A
+F 1141 21 3 live 
+- 1164
+: 1169 3 2 For 
+: 1175 3 9 a 
+: 1184 11 7 while
+: 1196 5 5 ~
+: 1202 11 2 ~ 
+- 1215
+F 1217 6 3 No 
+F 1227 24 3 choice 
+- 1253
+: 1255 4 5 Got
+: 1261 4 5 ta 
+: 1266 8 9 fo
+: 1277 3 7 llow 
+: 1281 4 7 the 
+: 1287 9 9 laws 
+: 1298 4 9 of 
+: 1304 4 9 the 
+* 1315 77 9 wild 
+- 1394
+F 1399 3 3 A
+F 1403 24 3 live 
+- 1428
+: 1428 3 5 With 
+: 1434 3 5 their 
+: 1439 9 7 lives 
+: 1450 3 5 on 
+: 1455 3 2 the 
+: 1460 19 2 line 
+- 1481
+F 1520 7 3 No 
+F 1530 25 3 choice 
+- 1557
+: 1568 14 5 Out 
+: 1584 8 4 here 
+: 1593 9 5 on
+: 1603 9 7 ly 
+: 1614 6 5 the 
+: 1624 10 2 strong 
+* 1635 7 9 sur
+* 1646 22 9 vive 
+- 1670
+: 1746 2 -5 What’s 
+: 1750 3 -3 done 
+: 1755 2 -5 is 
+: 1760 13 -3 done 
+- 1775
+: 1777 2 -5 Sur
+: 1781 6 -3 vived 
+: 1789 2 -5 to 
+: 1793 2 -3 see 
+: 1797 3 -5 a
+: 1802 3 -3 no
+: 1807 2 -5 ther 
+: 1812 11 -3 day 
+- 1825
+: 1828 4 -5 The 
+: 1833 3 -3 dance 
+: 1839 3 -5 of 
+: 1845 10 -3 life 
+- 1857
+: 1863 3 -5 The 
+: 1869 3 -3 hun
+: 1875 3 -5 ter 
+: 1881 3 -3 and 
+: 1886 3 -5 the 
+: 1891 3 -3 a
+: 1896 3 0 gile 
+: 1900 11 -3 prey 
+- 1913
+: 1916 3 -5 No 
+: 1921 3 -3 gua
+: 1927 2 -5 ran
+: 1932 13 -3 tee 
+- 1946
+: 1947 3 2 Of 
+: 1953 3 2 which 
+: 1958 2 2 of 
+: 1964 6 2 them 
+: 1974 6 2 will 
+: 1984 8 2 suc
+: 1995 7 5 ceed 
+- 2003
+: 2003 15 7 Strong 
+: 2020 3 5 or 
+: 2027 4 9 weak
+: 2032 3 7 ~
+* 2036 40 9 ~ 
+- 2078
+F 2262 101 3 Aaaaaaaah!!! 
+- 2365
+F 2471 7 3 Rules 
+F 2481 3 3 of 
+F 2486 6 3 na
+F 2497 18 3 ture! 
+- 2517
+F 2555 8 3 Rules 
+F 2565 3 3 of 
+F 2570 5 3 na
+F 2580 16 3 ture! 
+E

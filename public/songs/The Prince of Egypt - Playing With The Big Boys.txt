@@ -1,0 +1,386 @@
+#ARTIST:The Prince of Egypt
+#TITLE:Playing With The Big Boys
+#MP3:The Prince of Egypt - Playing With The Big Boys.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:1998
+#LANGUAGE:English
+#BPM:300
+#GAP:23100
+#VIDEO:v=cLomnZIvoFs,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bb/0a/94/bb0a9498-5f87-9ce4-ed57-e3e9b45b28d6/06UMGIM06465.rgb.jpg/5000x5000bb.jpg
+F 0 9 6 Mut 
+F 33 9 6 Nut 
+- 44
+F 75 3 6 Kh
+F 80 10 6 num 
+F 104 2 6 Pt
+F 108 6 6 ah 
+- 116
+F 124 6 6 Neph
+F 132 6 6 thys 
+F 146 4 6 Nekh
+F 152 5 6 bet 
+- 159
+F 166 4 6 So
+F 172 7 6 bek 
+F 186 4 6 Sekh
+F 193 4 6 ment 
+- 199
+F 208 3 6 So
+F 214 4 6 kar 
+F 226 3 6 Sel
+F 233 4 6 ket 
+- 239
+F 247 3 6 Resh
+F 253 4 6 pu 
+F 266 3 6 Wad
+F 272 5 6 jet 
+- 279
+F 282 3 6 A
+F 288 3 6 nu
+F 293 6 6 bis 
+F 303 2 6 A
+F 308 2 6 nu
+F 312 5 6 kis 
+- 319
+F 322 3 6 Sesh
+F 328 5 6 mu 
+F 341 4 6 Mesh
+F 348 5 6 kent 
+- 355
+F 361 3 6 Hem
+F 367 5 6 sut 
+F 380 3 6 Tef
+F 387 5 6 nut 
+- 394
+F 400 3 6 He
+F 406 5 6 ket 
+F 417 3 6 Maf
+F 422 5 6 det 
+- 429
+F 433 7 6 Ra 
+F 443 5 6 Mut 
+F 452 4 6 Nut 
+F 459 1 6 Pt
+F 462 4 6 ah 
+- 468
+F 469 3 6 Hem
+F 474 2 6 sut 
+F 479 2 6 Tef
+F 483 2 6 nut 
+- 486
+F 487 2 6 So
+F 490 3 6 kar 
+F 495 2 6 Sel
+F 499 2 6 ket 
+- 503
+F 504 1 6 Sesh
+F 508 2 6 mu 
+F 512 2 6 Resh
+F 517 2 6 pu 
+- 521
+F 522 2 6 Sob
+F 525 2 6 ek 
+F 530 1 6 Wad
+F 534 1 6 jet 
+- 537
+F 538 1 6 Hek
+F 541 2 6 et 
+F 546 1 6 Maf 
+F 549 2 6 det 
+- 553
+F 554 1 6 Nepht
+F 557 3 6 hys 
+F 562 2 6 Nekh
+F 566 3 6 bet 
+- 570
+F 571 19 6 Ra 
+- 592
+: 660 4 0 So 
+: 668 3 -1 you 
+: 675 5 -4 think 
+: 684 6 0 you’ve 
+: 692 5 -1 got 
+: 700 6 -3 friends 
+- 708
+: 709 6 0 In 
+: 717 5 -1 high 
+: 726 5 -1 pla
+: 735 8 -3 ces 
+- 745
+: 761 9 0 With 
+: 772 3 -1 the 
+: 777 3 -3 pow
+: 782 6 -1 er 
+: 799 3 0 to 
+: 804 3 3 put 
+: 810 6 0 us 
+: 818 5 -1 on 
+: 826 3 -3 the 
+: 833 8 -4 run 
+- 843
+: 860 11 2 Well, 
+: 873 5 0 for
+: 880 2 -1 give 
+: 884 8 2 us 
+: 894 6 0 these 
+: 902 12 -1 smiles 
+: 917 4 2 on 
+: 923 4 0 our 
+: 930 4 0 fac
+: 937 11 -1 es 
+- 950
+: 971 9 -1 You’ll 
+: 982 5 4 know 
+: 989 4 5 what 
+: 996 2 8 pow
+: 1001 3 5 er 
+: 1006 7 4 is 
+: 1016 3 2 when 
+: 1022 3 -1 we 
+: 1028 3 2 are 
+: 1036 24 4 done 
+- 1062
+F 1073 16 -8 Son 
+- 1091
+: 1134 2 -8 You’re 
+: 1138 3 -3 play
+: 1143 3 -1 ing 
+: 1149 3 0 with 
+: 1154 3 3 the 
+: 1159 7 4 big 
+: 1169 7 8 boys 
+: 1179 13 9 now 
+- 1194
+: 1227 3 -3 Play
+: 1232 4 -1 ing 
+: 1238 3 0 with 
+: 1244 3 3 the 
+: 1249 6 4 big 
+: 1259 6 6 boys 
+: 1269 10 4 now 
+- 1281
+: 1322 6 2 Ev’
+: 1330 4 4 ry 
+: 1336 4 4 spell 
+: 1342 3 5 and 
+: 1347 3 4 gest
+: 1352 5 2 ure 
+- 1359
+: 1363 9 2 Tells 
+: 1374 4 4 you 
+: 1380 3 4 who’s 
+: 1385 2 5 the 
+: 1390 3 4 best, 
+: 1396 3 2 you’re 
+- 1400
+: 1401 3 4 Play
+: 1407 3 5 ing 
+: 1413 3 8 with 
+: 1418 4 5 the 
+: 1424 5 4 big 
+: 1432 7 -8 boys 
+: 1443 13 -3 now 
+- 1458
+: 1487 2 -3 You’re 
+: 1491 3 2 play
+: 1495 3 4 ing 
+: 1500 2 5 with 
+: 1505 2 8 the 
+: 1510 6 9 big 
+: 1519 7 13 boys 
+: 1529 13 14 now 
+- 1544
+: 1566 2 -3 You’re 
+: 1571 3 2 play
+: 1576 3 4 ing 
+: 1582 3 5 with 
+: 1588 2 8 the 
+: 1593 4 9 big 
+: 1602 6 13 boys 
+: 1612 12 9 now 
+- 1626
+: 1660 7 7 Stop 
+: 1670 3 9 this 
+: 1676 2 9 fool
+: 1681 2 10 ish 
+: 1686 2 9 miss
+: 1690 4 7 ion 
+- 1696
+: 1701 9 7 Watch 
+: 1711 4 9 a 
+: 1717 7 9 true 
+: 1726 2 10 magic
+: 1730 1 9 i
+: 1733 5 7 an 
+- 1740
+: 1744 7 9 Give 
+: 1754 2 11 an 
+: 1759 2 11 ex
+: 1763 2 12 hi
+: 1768 2 11 bit
+: 1772 3 9 ion 
+: 1778 23 12 how 
+- 1803
+: 1811 2 5 Pick 
+: 1816 4 5 up 
+: 1824 3 7 your 
+: 1832 1 8 sil
+: 1835 2 10 ly 
+: 1839 4 11 twig, 
+: 1846 5 8 boy 
+- 1853
+: 1855 3 5 You’re 
+: 1860 3 2 play
+: 1865 3 5 ing 
+: 1870 2 7 with 
+: 1874 2 8 the 
+: 1879 5 9 big 
+: 1888 6 13 boys 
+: 1896 16 14 now! 
+- 1914
+F 1931 2 6 By 
+F 1934 2 6 the 
+F 1937 1 6 pow
+F 1940 1 6 er 
+F 1943 1 6 of 
+F 1945 5 6 Ra 
+- 1952
+F 1978 8 6 Mut, 
+F 1997 9 6 Nut, 
+F 2017 2 6 Khn
+F 2021 5 6 um, 
+F 2035 1 6 Pt
+F 2038 6 6 ah 
+- 2046
+F 2057 6 6 Sob
+F 2067 6 6 ek, 
+F 2077 5 6 Sekh
+F 2087 5 6 met, 
+F 2097 5 6 Sok
+F 2106 6 6 ar, 
+F 2116 6 6 Sel
+F 2125 7 6 ket 
+- 2134
+F 2140 2 6 An
+F 2145 3 6 u
+F 2150 5 6 bis, 
+F 2160 3 6 An
+F 2165 3 6 u
+F 2170 2 6 kis 
+- 2173
+F 2174 3 6 Hem
+F 2179 2 6 sut, 
+F 2184 2 6 Tef
+F 2188 3 6 nut, 
+F 2193 2 6 Mesh
+F 2198 2 6 kent, 
+F 2202 2 6 Maf
+F 2207 1 6 det. 
+- 2209
+: 2209 1 3 You’re 
+: 2212 3 3 play
+: 2217 2 5 ing 
+: 2222 2 6 with 
+: 2227 2 9 the 
+: 2231 6 10 big 
+: 2240 6 14 boys 
+: 2249 11 15 now 
+- 2262
+: 2287 2 2 You’re 
+: 2291 3 3 play
+: 2295 3 5 ing 
+: 2300 2 6 with 
+: 2304 2 8 the 
+: 2308 6 10 big 
+: 2316 6 14 boys 
+: 2325 9 10 now 
+- 2336
+: 2371 6 8 By 
+: 2379 2 10 the 
+: 2383 3 10 might 
+: 2388 2 11 of 
+: 2392 2 10 Hor
+: 2397 4 8 us 
+- 2403
+: 2406 8 8 You 
+: 2416 3 10 will 
+: 2422 2 10 kneel 
+: 2426 3 11 bef
+: 2430 3 10 ore 
+: 2435 4 8 us 
+- 2441
+: 2444 6 8 Kneel 
+: 2453 3 10 to 
+: 2458 3 10 our 
+: 2462 3 11 spl
+: 2467 2 10 en
+: 2471 3 9 dorus 
+: 2476 15 13 pow
+: 2493 13 10 er. 
+- 2508
+F 2509 1 6 You 
+F 2513 1 6 put 
+F 2516 1 6 up 
+F 2519 1 6 a 
+F 2522 3 6 front 
+- 2526
+F 2527 2 6 You 
+F 2531 1 6 put 
+F 2534 1 6 up 
+F 2537 1 6 a 
+F 2540 2 6 fight 
+- 2544
+F 2545 2 6 And 
+F 2549 2 6 just 
+F 2554 1 6 to 
+F 2558 2 6 show 
+F 2563 2 6 we 
+F 2568 2 6 feel 
+F 2572 2 6 no 
+F 2577 5 6 spite 
+- 2584
+F 2586 3 6 You 
+F 2591 2 6 can 
+F 2596 2 6 be 
+F 2600 2 6 our 
+F 2605 1 6 ac
+F 2609 1 6 ol
+F 2612 5 6 yte 
+- 2619
+: 2620 2 8 But 
+: 2624 2 8 first, 
+: 2629 6 10 boy, 
+: 2638 2 11 it’s 
+: 2642 5 10 time 
+: 2650 5 8 to 
+: 2659 8 2 bow 
+- 2669
+F 2670 18 6 (Kowtow!) 
+- 2690
+F 2691 2 6 Or 
+: 2694 2 1 it’s 
+: 2698 2 3 your 
+: 2702 3 3 own 
+: 2707 1 3 grave 
+: 2710 2 7 you’ll 
+: 2714 6 3 dig, 
+: 2724 2 3 boy 
+- 2728
+: 2729 2 -9 You’re 
+: 2733 2 3 play
+: 2737 2 3 ing 
+: 2741 3 4 with 
+: 2746 2 7 the 
+: 2750 5 4 big 
+: 2759 5 3 boys 
+- 2766
+: 2914 2 -9 Play
+: 2919 1 15 ing 
+: 2923 1 16 with 
+: 2927 2 19 the 
+: 2931 6 16 big 
+: 2940 5 16 boys 
+- 2947
+: 2948 9 4 Now! 
+E

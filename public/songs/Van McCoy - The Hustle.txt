@@ -1,0 +1,111 @@
+#ARTIST:Van McCoy
+#TITLE:The Hustle
+#MP3:Van McCoy - The Hustle.mp3
+#CREATOR:Fepo
+#COVER:Van McCoy - The Hustle [CO].jpg
+#BACKGROUND:Van McCoy - The Hustle [BG].jpg
+#YEAR:1975
+#LANGUAGE:English
+#BPM:221.07
+#GAP:900
+#VIDEO:v=SFzMs2SN--s,co=https://i.discogs.com/IsJ2sNdUerBxO2jUS6NxSWcZBbfwi59QCkUWwomXQBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzM3/Ny0xNDYzNzY3MTU3/LTcyMTkuanBlZw.jpeg
+: 0 50 7 Uh 
+: 52 2 9 uh 
+: 56 2 7 uh 
+: 60 2 2 uh 
+: 64 29 5 uh 
+- 95
+F 97 1 7 Do 
+F 99 3 7 it! 
+- 112
+: 129 50 7 Uh 
+: 181 2 9 uh 
+: 185 2 7 uh 
+: 189 2 2 uh 
+: 193 29 5 uh 
+- 223
+F 225 1 7 Do 
+F 227 4 7 it! 
+- 241
+: 257 50 7 Uh 
+: 309 2 9 uh 
+: 313 2 7 uh 
+: 317 2 2 uh 
+: 321 29 5 uh 
+- 351
+F 353 1 7 Do 
+F 355 3 7 it! 
+- 387
+F 498 1 5 Do 
+F 500 1 2 the 
+F 502 3 5 Hus
+F 506 3 5 tle! 
+- 519
+F 530 1 7 Do 
+F 532 1 7 the 
+F 534 3 7 Hus
+F 538 3 7 tle! 
+- 570
+F 1330 1 7 Do 
+F 1332 1 7 the 
+F 1334 2 7 Hus
+F 1338 3 7 tle! 
+- 1351
+F 1362 1 7 Do 
+F 1364 1 7 the 
+F 1366 2 7 Hus
+F 1370 2 7 tle! 
+- 1401
+F 1620 1 7 Do 
+F 1622 1 7 the 
+F 1624 2 7 Hus
+F 1627 2 7 tle! 
+- 1636
+* 1639 42 7 Uh 
+: 1683 2 9 uh 
+: 1687 2 7 uh 
+: 1691 2 2 uh 
+* 1695 29 5 uh 
+- 1726
+F 1728 1 7 Do 
+F 1730 3 7 it! 
+- 1743
+: 1759 50 7 Uh 
+* 1811 2 9 uh 
+* 1815 2 7 uh 
+* 1819 2 2 uh 
+: 1823 29 5 uh 
+- 1855
+F 1857 1 7 Do 
+F 1859 3 7 it 
+- 1891
+F 2000 2 7 Do 
+F 2003 2 7 the 
+F 2006 2 7 Hus
+F 2009 2 7 tle! 
+- 2021
+F 2032 2 7 Do 
+F 2035 1 7 the 
+F 2037 3 7 Hus
+F 2041 3 7 tle! 
+- 2073
+F 2832 1 7 Do 
+F 2834 1 7 the 
+F 2836 3 7 Hus
+F 2840 3 7 tle! 
+- 2853
+F 2869 1 7 Do 
+F 2871 1 7 the 
+F 2873 1 7 Hus
+F 2875 3 7 tle! 
+- 2907
+F 3088 2 7 Do 
+F 3091 1 7 the 
+F 3093 2 7 Hus
+F 3096 2 7 tle! 
+- 3127
+F 3349 1 7 Do 
+F 3351 1 7 the 
+F 3353 2 7 Hus
+F 3356 2 7 tle! 
+E

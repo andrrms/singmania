@@ -1,0 +1,560 @@
+#ARTIST:Disney’s The Nightmare Before Christmas
+#TITLE:Town Meeting
+#MP3:Disney’s The Nightmare Before Christmas - Town Meeting.mp3
+#CREATOR:matthu
+#GENRE:Soundtrack
+#YEAR:1993
+#LANGUAGE:English
+#BPM:312.3
+#GAP:64600
+#VIDEO:v=l6QZUcRJw-A,co=tim-burtons-the-nightmare-before-christmas-original-motion-p-68a9df9d6388f.jpg,bg=the-nightmare-before-christmas-5df495f6f3b82.jpg
+#START:71.5
+F 0 2 11 There 
+F 3 2 11 were 
+F 6 2 11 ob
+F 9 4 11 jects 
+F 18 2 11 so 
+F 21 2 11 pe
+F 24 2 11 cu
+F 28 1 11 li
+F 30 2 11 ar 
+- 35
+F 37 1 11 They 
+F 39 1 11 were 
+F 42 3 11 not 
+F 47 1 11 to 
+F 49 2 11 be 
+F 53 1 11 be
+F 55 6 11 lieved 
+- 65
+F 67 2 11 All 
+F 70 2 11 a
+F 73 5 11 round, 
+: 83 2 11 things 
+: 87 2 11 to 
+* 93 2 11 tan
+* 97 3 11 ta
+* 102 2 10 lize 
+* 107 2 11 my 
+* 111 16 12 brain 
+- 136
+F 140 2 11 It’s 
+F 143 2 11 a 
+F 146 4 11 world 
+F 154 3 11 un
+F 159 2 11 like 
+F 172 2 11 a
+F 176 3 11 ny
+F 180 4 11 thing 
+F 186 3 11 I’ve 
+F 191 3 11 ever 
+F 196 6 11 seen 
+- 207
+F 209 2 11 And 
+F 212 2 11 as 
+F 215 6 11 hard 
+F 225 2 11 as 
+F 228 2 11 I 
+F 231 5 11 try, 
+: 246 3 7 I 
+: 251 3 6 can’t 
+: 255 3 16 seem 
+: 260 2 14 to 
+: 264 2 13 des
+: 268 6 11 cribe 
+- 276
+: 278 2 11 Like 
+: 282 3 13 a 
+: 286 5 14 most 
+* 294 7 18 im
+* 303 3 10 pro
+* 307 3 11 ba
+* 312 6 13 ble 
+* 320 9 11 dream 
+- 339
+F 348 3 11 But 
+F 354 2 11 you 
+F 357 5 11 must 
+F 365 4 11 be
+F 370 8 11 lieve 
+F 383 2 11 when 
+F 386 2 11 I 
+F 390 6 11 tell 
+F 398 4 11 you 
+F 404 7 11 this 
+- 417
+F 419 2 11 It’s 
+F 422 3 11 as 
+F 426 9 11 real 
+F 436 2 11 as 
+F 439 3 11 my 
+F 443 10 11 skull 
+F 457 3 11 and 
+F 462 2 11 it 
+F 467 10 11 does 
+F 484 4 11 e
+F 489 20 11 xist 
+- 519
+F 527 6 11 Here, 
+F 546 4 11 let 
+F 551 3 11 me 
+F 555 4 11 show 
+F 561 6 11 you 
+- 608
+F 678 3 11 This 
+F 682 1 11 is 
+F 684 2 11 a 
+F 687 5 11 thing 
+F 694 2 11 called 
+F 698 2 11 a 
+F 701 3 11 pre
+F 705 4 11 sent 
+- 720
+F 724 2 11 The 
+F 727 4 11 whole 
+F 733 5 11 thing 
+F 740 4 11 starts 
+F 747 3 11 with 
+F 751 2 11 a 
+F 754 8 11 box 
+- 766
+F 768 2 11 A 
+F 771 5 11 box? 
+- 785
+F 788 1 11 Is 
+F 790 2 11 it 
+F 793 5 11 steel? 
+F 803 1 11 Are 
+F 805 2 11 there 
+F 808 5 11 locks? 
+- 814
+F 816 2 11 Is 
+F 819 2 11 it 
+F 822 3 11 filled 
+F 826 2 11 with 
+F 829 2 11 a 
+F 833 6 11 pox? 
+F 842 2 11 A 
+F 845 5 11 pox, 
+F 856 3 11 how 
+F 860 1 11 de
+F 862 2 11 light
+F 866 4 11 ful, 
+F 871 1 11 a 
+F 873 5 11 pox! 
+- 882
+F 884 3 11 If 
+F 888 2 11 you 
+F 892 8 11 please, 
+- 911
+F 915 2 11 Just 
+F 919 2 11 a 
+F 924 5 11 box 
+F 933 3 11 with 
+F 937 4 11 bright-
+F 944 2 11 co
+F 947 2 11 lored 
+F 951 4 11 pa
+F 956 7 11 per 
+- 969
+F 972 2 11 And 
+F 975 2 11 the 
+F 978 5 11 whole 
+F 984 5 11 thing’s 
+* 991 3 6 topped 
+* 996 2 7 with 
+* 999 2 9 a 
+* 1003 8 11 bow 
+- 1021
+F 1025 1 11 A 
+F 1027 5 11 bow? 
+F 1038 2 11 But 
+F 1042 5 11 why? 
+F 1051 2 11 How 
+F 1054 4 11 u
+F 1062 2 11 gly! 
+F 1065 2 11 What’s 
+F 1069 2 11 in 
+F 1073 3 11 it? 
+F 1077 2 11 What’s 
+F 1081 3 11 in 
+F 1085 3 11 it? 
+- 1088
+F 1090 2 11 That’s 
+F 1093 1 11 the 
+F 1095 3 11 point 
+F 1100 1 11 of 
+F 1103 2 11 the 
+F 1106 4 11 thing, 
+F 1112 2 11 not 
+F 1115 2 11 to 
+F 1119 5 11 know 
+- 1127
+F 1129 1 11 It’s 
+F 1131 2 11 a 
+F 1134 3 11 bat, 
+F 1140 2 11 will 
+F 1143 1 11 it 
+F 1145 4 11 bend? 
+F 1152 2 11 It’s 
+F 1155 2 11 a 
+F 1159 4 11 rat, 
+F 1165 2 11 will 
+F 1168 2 11 it 
+F 1171 4 11 break? 
+- 1180
+F 1182 2 11 Per
+F 1186 3 11 haps 
+F 1190 2 11 it’s 
+F 1193 2 11 the 
+F 1198 2 11 head 
+F 1202 2 11 that 
+F 1206 2 11 I 
+F 1210 3 11 found 
+F 1215 2 11 in 
+F 1219 2 11 the 
+F 1224 4 11 lake 
+- 1234
+F 1237 2 11 Lis
+F 1242 3 11 ten 
+F 1246 2 11 now, 
+* 1250 3 7 you 
+* 1256 4 4 don’t 
+* 1263 3 6 un
+* 1270 4 9 der
+* 1276 7 7 stand 
+- 1288
+: 1290 2 12 That’s 
+: 1295 2 11 not 
+: 1299 2 9 the 
+: 1302 4 11 point 
+F 1310 4 11 of 
+F 1316 4 11 Christ
+F 1323 4 11 mas 
+F 1330 5 11 land 
+- 1345
+F 1363 2 11 Now, 
+F 1366 2 11 pay 
+F 1369 2 11 a
+F 1372 1 11 tten
+F 1374 5 11 tion, 
+- 1388
+F 1391 3 11 We 
+F 1396 3 11 pick 
+F 1400 2 11 up 
+F 1403 2 11 an 
+F 1406 3 11 o
+F 1410 2 11 ver-
+F 1413 4 11 sized 
+F 1419 6 11 sock 
+- 1435
+F 1443 2 11 And 
+F 1446 2 11 hang 
+F 1450 2 11 it 
+F 1454 2 11 like 
+F 1458 3 11 this 
+F 1462 3 11 on 
+F 1468 2 11 the 
+F 1472 6 11 wall 
+- 1490
+F 1494 2 11 Oh, 
+F 1498 3 11 yes, 
+F 1504 2 11 does 
+F 1507 3 11 it 
+F 1513 4 11 still 
+F 1519 2 11 have 
+F 1523 2 11 a 
+F 1526 4 11 foot? 
+- 1531
+F 1533 2 11 Let 
+F 1536 2 11 me 
+F 1539 4 11 see, 
+F 1545 2 11 let 
+F 1548 2 11 me 
+F 1551 3 11 look! 
+- 1557
+F 1559 2 11 Is 
+F 1562 1 11 it 
+F 1564 2 11 rot
+F 1568 3 11 ted 
+F 1574 2 11 and 
+F 1578 3 11 co
+F 1582 2 11 vered 
+F 1586 2 11 with 
+F 1591 5 11 gook? 
+- 1602
+F 1605 2 11 Let 
+F 1608 2 11 me 
+F 1612 2 11 ex
+F 1615 7 11 plain, 
+- 1628
+F 1631 3 11 There’s 
+F 1635 2 11 no 
+F 1641 3 11 foot 
+F 1646 2 11 in
+F 1649 7 11 side, 
+F 1660 2 11 but 
+F 1663 2 11 there’s 
+F 1666 7 11 can
+F 1676 5 11 dy 
+- 1687
+F 1690 2 11 Or 
+F 1693 3 11 some
+F 1698 3 11 times 
+F 1702 2 11 it’s 
+* 1706 2 8 filled 
+* 1710 2 8 with 
+* 1715 2 10 small 
+* 1720 7 12 toys. 
+F 1728 2 11 Small 
+F 1732 6 11 toys? 
+- 1739
+F 1741 2 11 Do 
+F 1744 1 11 they 
+F 1746 4 11 bite? 
+F 1753 1 11 Do 
+F 1756 1 11 they 
+F 1758 5 11 snap? 
+F 1767 1 11 Or 
+F 1769 2 11 ex
+F 1772 4 11 plode 
+F 1777 2 11 in 
+F 1780 2 11 a 
+F 1784 5 11 sack? 
+- 1793
+F 1795 2 11 Or 
+F 1798 2 11 per
+F 1803 1 11 haps 
+F 1805 2 11 they 
+F 1809 3 11 just 
+F 1814 2 11 spring 
+F 1819 2 11 out 
+F 1823 2 11 and 
+F 1827 2 11 scare 
+F 1831 2 11 girls 
+F 1834 1 11 and 
+F 1837 5 11 boys? 
+- 1845
+F 1847 2 11 What 
+F 1850 2 11 a 
+F 1853 2 11 splen
+F 1856 2 11 did 
+F 1861 10 11 idea, 
+F 1875 2 11 this 
+F 1879 2 11 Christ
+F 1882 2 11 mas 
+F 1886 2 11 sounds 
+F 1890 5 11 fun 
+- 1898
+F 1900 2 11 Why, 
+F 1904 3 11 I 
+F 1908 2 11 ful
+F 1912 2 11 ly 
+F 1916 1 11 en
+F 1918 2 11 dorse 
+F 1921 2 11 it, 
+- 1924
+F 1926 3 11 Let’s 
+F 1931 3 11 try 
+F 1935 3 11 it 
+F 1940 2 11 at 
+F 1944 5 11 once! 
+- 1955
+F 1957 2 11 E
+F 1960 2 11 very
+F 1963 4 11 one, 
+F 1969 4 11 please 
+F 1974 6 11 now, 
+F 1982 3 11 not 
+F 1986 4 11 so 
+F 1993 6 11 fast 
+- 2002
+: 2004 3 5 There’s 
+: 2008 3 13 some
+: 2013 3 12 thing 
+: 2018 2 10 here 
+: 2023 2 12 that 
+: 2027 5 8 you 
+* 2037 4 7 don’t 
+* 2044 6 12 quite 
+* 2055 7 5 grasp 
+- 2082
+F 2124 4 11 Well, 
+F 2139 2 11 I 
+F 2142 2 11 may 
+F 2145 2 11 as 
+F 2148 2 11 well 
+F 2151 3 11 give 
+F 2155 2 11 them 
+F 2158 2 11 what 
+F 2161 2 11 they 
+F 2164 7 11 want 
+- 2181
+F 2189 2 11 And 
+F 2192 2 11 the 
+F 2195 5 11 best, 
+F 2202 3 11 I 
+F 2206 4 11 must 
+F 2212 2 11 con
+F 2215 6 11 fess, 
+- 2223
+F 2225 2 11 I 
+F 2228 2 11 have 
+F 2231 5 11 saved 
+F 2241 2 11 for 
+F 2244 2 11 the 
+F 2247 4 11 last 
+- 2254
+F 2256 3 11 For 
+F 2261 2 11 the 
+F 2264 4 11 ru
+F 2270 3 11 ler 
+F 2276 2 11 of 
+F 2279 2 11 this 
+F 2283 6 11 Christ
+F 2291 5 11 mas 
+F 2299 12 11 land 
+- 2321
+F 2328 2 11 Is 
+F 2331 2 11 a 
+F 2335 7 11 fear
+F 2344 6 11 some 
+F 2353 6 11 king 
+F 2362 2 11 with 
+F 2367 3 11 a 
+F 2371 6 11 deep 
+F 2380 5 11 might
+F 2386 3 11 y 
+F 2390 3 11 voice 
+- 2398
+F 2400 2 11 Least 
+F 2409 6 11 that’s 
+F 2417 2 11 what 
+F 2420 2 11 I’ve 
+F 2425 5 11 come 
+F 2431 2 11 to 
+F 2435 2 11 un
+F 2438 2 11 der
+F 2442 11 11 stand 
+- 2463
+F 2471 3 11 And 
+F 2475 2 11 I’ve 
+F 2479 6 11 also 
+F 2488 2 11 heard 
+F 2492 2 11 it 
+F 2495 5 11 told 
+- 2502
+F 2504 2 11 That 
+F 2507 3 11 he’s 
+F 2512 4 11 some
+F 2517 3 11 thing 
+F 2522 3 11 to 
+F 2526 2 11 be
+F 2529 5 11 hold 
+- 2537
+F 2539 2 11 Like 
+F 2543 2 11 a 
+F 2548 4 11 lob
+F 2555 5 11 ster, 
+F 2564 8 11 huge 
+F 2575 3 11 and 
+F 2582 12 11 red 
+- 2604
+F 2611 3 11 When 
+F 2615 2 11 he 
+F 2618 6 11 sets 
+F 2625 4 11 out 
+F 2630 2 11 to 
+F 2633 7 11 slay 
+F 2644 3 11 with 
+F 2648 2 11 his 
+F 2652 5 11 rain 
+F 2660 7 11 gear 
+F 2669 6 11 on 
+- 2678
+F 2680 2 11 Cart
+F 2684 2 11 ing 
+F 2687 7 11 bul
+F 2696 4 11 ging 
+F 2703 6 11 sacks 
+F 2714 2 11 with 
+F 2717 2 11 his 
+F 2721 7 11 big 
+F 2730 6 11 great 
+F 2739 7 11 arms 
+- 2749
+: 2751 2 17 That 
+: 2754 2 17 is, 
+: 2757 7 15 so 
+: 2766 6 19 I’ve 
+* 2774 4 11 heard
+* 2779 4 12 ~ 
+* 2784 6 14 it 
+* 2792 7 12 said 
+- 2809
+F 2820 2 11 And 
+F 2823 3 11 on 
+F 2827 5 11 a 
+F 2833 4 11 dark, 
+F 2838 6 11 cold 
+F 2845 5 11 night, 
+- 2852
+F 2854 3 11 Un
+F 2858 2 11 der 
+F 2861 6 11 full 
+F 2870 7 11 moon
+F 2878 8 11 light 
+- 2892
+F 2894 2 11 He 
+F 2898 6 11 flies 
+F 2905 10 11 into 
+F 2916 2 11 a 
+F 2919 5 11 fog, 
+- 2927
+F 2929 3 11 Like 
+F 2933 3 11 a 
+F 2938 4 11 vul
+F 2943 3 11 ture 
+F 2948 3 11 in 
+F 2953 4 11 the 
+F 2959 25 11 sky 
+- 2994
+: 3011 10 12 And 
+: 3026 6 14 they 
+: 3033 15 15 call 
+: 3055 13 12 him 
+* 3076 17 12 San
+* 3094 14 11 dy 
+* 3114 65 12 Clawszzz 
+- 3220
+F 3263 4 11 Well, 
+F 3270 2 11 at 
+F 3273 5 11 least 
+F 3280 5 11 they’re 
+F 3287 2 11 ex
+F 3291 4 11 ci
+F 3297 4 11 ted, 
+- 3307
+F 3310 2 11 But 
+F 3314 3 11 they 
+F 3319 6 11 don’t 
+F 3329 3 11 un
+F 3333 2 11 der
+F 3338 9 11 stand 
+- 3356
+F 3360 3 11 That 
+F 3365 4 11 spe
+F 3371 4 11 cial 
+F 3376 3 11 kind 
+F 3381 3 11 of 
+F 3386 4 11 fee
+F 3392 3 11 ling 
+- 3403
+F 3406 4 11 In 
+F 3414 8 11 Christ
+F 3424 5 11 mas 
+F 3434 12 11 land, 
+- 3456
+F 3465 8 11 Oh, 
+F 3475 14 11 well 
+E

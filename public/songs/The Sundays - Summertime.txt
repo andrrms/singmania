@@ -1,0 +1,339 @@
+#ARTIST:The Sundays
+#TITLE:Summertime
+#MP3:The Sundays - Summertime.mp3
+#CREATOR:Heiner
+#COVER:The Sundays - Summertime [CO].jpg
+#BACKGROUND:The Sundays - Summertime [BG].jpg
+#GENRE:Pop
+#YEAR:1997
+#LANGUAGE:English
+#BPM:386.45
+#GAP:19290
+#VIDEO:a=kqct-YbqotM,co=summertime-56612c179f99f.jpg,bg=sundays-the-50fd163adc080.jpg
+: 0 10 6 Some 
+: 12 8 6 people 
+: 21 17 8 wind 
+: 39 9 5 up 
+: 66 5 7 with 
+: 72 4 7 the 
+: 77 7 7 one 
+: 87 6 7 that 
+: 97 7 7 they 
+: 105 15 9 adore 
+- 130
+: 137 4 6 In 
+: 142 4 6 a 
+: 147 7 6 heart 
+: 155 7 6 shaped 
+: 163 5 7 ho
+: 169 10 5 tel 
+: 182 17 3 room 
+: 203 6 5 it’s 
+: 211 6 5 what 
+: 219 5 5 a 
+: 225 6 5 heart 
+: 232 5 5 is 
+: 238 10 7 for 
+- 258
+: 265 5 5 The 
+: 271 5 5 bubble 
+: 277 5 5 floats 
+: 283 7 7 so 
+: 291 16 4 mad
+: 308 13 3 ly 
+: 326 4 5 will 
+: 332 3 5 it 
+: 338 4 5 stay 
+: 344 13 7 sky 
+: 359 19 7 high? 
+- 388
+: 395 6 6 Hello 
+: 423 5 8 part
+: 429 20 7 ner 
+- 451
+: 453 4 5 Kiss 
+: 459 3 5 your 
+: 464 8 5 name 
+: 473 12 7 bye 
+: 489 13 7 bye 
+- 512
+: 531 20 8 Ooh 
+: 553 25 9 Some
+: 579 34 7 times 
+- 623
+: 642 8 6 Ro
+: 651 6 7 man
+: 658 5 6 tic 
+: 667 7 5 Pis
+: 676 4 5 ce
+: 681 7 6 an 
+: 710 4 6 seeks 
+: 716 5 6 an
+: 722 4 6 gel 
+: 731 5 6 in 
+: 738 7 6 dis
+: 746 18 7 guise 
+- 774
+: 778 5 6 Chi
+: 784 6 6 nese 
+: 791 7 6 spea
+: 799 7 6 king 
+: 808 15 8 girl
+: 824 15 7 friend 
+: 846 6 6 big 
+: 855 14 6 brown 
+: 870 26 5 eyes 
+- 898
+: 900 12 7 Liver
+: 913 9 7 pu
+: 923 7 7 dlian 
+: 933 16 6 la
+: 950 7 5 dy 
+: 967 4 7 so
+: 972 6 7 phisti
+: 979 15 7 cated 
+: 999 27 7 male 
+- 1033
+: 1036 25 8 Hello 
+: 1066 10 6 part
+: 1077 11 6 ner 
+- 1090
+: 1092 3 6 Tell 
+: 1096 4 6 me 
+: 1101 7 6 love 
+: 1110 15 5 can’t 
+: 1129 19 7 fail 
+- 1158
+: 1177 6 9 And 
+: 1187 8 9 it’s 
+: 1199 11 13 you 
+: 1213 10 13 and 
+: 1229 12 13 me 
+: 1243 15 13 in 
+: 1263 11 11 summer
+: 1275 25 11 time 
+- 1306
+: 1309 8 9 We’ll 
+: 1318 12 9 be 
+: 1333 11 12 hand 
+: 1346 7 12 in 
+: 1357 9 12 hand 
+: 1368 11 10 down 
+: 1380 5 10 in 
+: 1386 6 10 the 
+: 1393 20 9 park 
+- 1423
+: 1446 8 7 With 
+: 1455 3 7 a 
+: 1459 9 11 squeeze 
+: 1476 6 10 and 
+: 1483 3 10 a 
+: 1489 13 11 sigh 
+: 1503 7 8 and 
+: 1514 5 7 that 
+: 1524 2 8 twin
+: 1527 7 8 kle 
+: 1539 5 8 in 
+: 1545 8 9 your 
+: 1555 12 8 eye 
+- 1569
+: 1571 4 6 And 
+: 1576 4 6 all 
+: 1581 5 6 the 
+: 1587 9 9 sun
+: 1597 10 9 shine 
+: 1615 8 8 ban
+: 1624 6 8 ishes 
+: 1632 6 7 the 
+: 1641 79 6 dark 
+- 1771
+: 1931 10 5 Some 
+: 1942 6 5 peo
+: 1949 3 5 ple 
+: 1955 14 8 wind 
+: 1970 16 7 up 
+: 1998 5 6 with 
+: 2005 4 6 the 
+: 2011 7 6 one 
+: 2020 6 6 that 
+: 2028 6 7 they 
+: 2036 6 7 ab
+: 2043 11 8 hor 
+- 2058
+: 2060 6 6 In 
+: 2068 5 6 a 
+: 2076 8 7 dis
+: 2085 6 6 tant 
+: 2094 7 8 hell 
+: 2103 9 6 hole 
+: 2113 10 6 room 
+: 2124 8 5 this 
+: 2133 8 5 third 
+: 2142 16 5 world 
+: 2159 23 6 war 
+- 2184
+: 2186 7 8 But 
+: 2195 4 8 all 
+: 2200 4 8 I 
+: 2205 6 8 see 
+: 2214 5 8 is 
+: 2229 12 7 films 
+: 2243 5 5 where 
+: 2249 6 5 a 
+: 2258 7 5 colour
+: 2266 9 6 less 
+: 2278 7 6 des
+: 2286 25 6 pair 
+- 2313
+: 2315 9 6 Meant 
+: 2325 14 8 angry 
+: 2340 12 5 young 
+: 2356 20 6 men 
+: 2378 7 5 with 
+: 2386 12 5 imma
+: 2399 13 5 culate 
+: 2415 33 6 hair 
+- 2460
+: 2464 17 8 Ooh 
+: 2485 32 11 Some
+: 2518 42 10 times 
+- 2570
+: 2583 5 12 Get 
+: 2590 5 11 up 
+: 2597 6 9 a 
+: 2605 5 8 voice 
+: 2611 3 9 in
+: 2615 6 7 side 
+: 2622 20 6 says 
+: 2643 5 8 there’s 
+: 2649 4 6 no 
+: 2654 11 6 time 
+: 2667 4 6 for 
+: 2672 8 5 loo
+: 2681 5 5 king 
+: 2687 17 5 down 
+- 2710
+: 2712 12 9 Only 
+: 2727 4 7 a 
+: 2735 8 6 pound 
+: 2747 3 10 a 
+: 2752 8 10 word 
+: 2762 4 9 and 
+: 2769 5 9 you’re 
+: 2775 7 9 tal
+: 2783 5 9 king 
+: 2790 4 10 to 
+: 2796 5 8 the 
+: 2806 25 8 town 
+- 2840
+: 2844 2 9 And 
+: 2847 3 8 how 
+: 2851 3 6 do 
+: 2855 2 6 you 
+: 2858 9 6 coin 
+: 2868 3 8 the 
+: 2872 14 9 phrase 
+: 2887 9 8 through 
+- 2900
+: 2902 7 5 That 
+: 2910 2 5 will 
+: 2913 4 5 set 
+: 2918 6 5 your 
+: 2925 11 5 soul 
+: 2938 5 5 a
+: 2944 14 6 part? 
+- 2960
+: 2962 9 8 Just 
+: 2974 16 8 to 
+: 2992 51 10 touch 
+- 3045
+: 3047 6 5 A 
+: 3057 20 7 lone
+: 3078 12 8 ly 
+: 3093 16 9 heart 
+- 3112
+: 3114 6 7 And 
+: 3121 4 10 it’s 
+: 3127 14 12 you 
+: 3142 15 11 and 
+: 3158 13 12 me 
+: 3172 15 9 in 
+: 3189 11 13 summer
+: 3201 24 12 time 
+- 3236
+: 3240 5 9 We’ll 
+: 3248 6 11 be 
+: 3260 17 13 hand 
+: 3278 10 13 in 
+: 3289 13 13 hand 
+: 3303 10 11 down 
+: 3314 4 12 in 
+: 3319 6 10 the 
+: 3328 27 9 park 
+- 3367
+: 3371 8 9 With 
+: 3380 8 9 a 
+: 3392 12 11 squeeze 
+: 3405 7 10 and 
+: 3413 5 10 a 
+: 3419 15 11 sigh 
+: 3436 8 10 and 
+: 3446 7 8 that 
+: 3454 8 9 twinkle 
+: 3463 4 10 in 
+: 3468 5 8 your 
+: 3474 20 7 eye 
+- 3496
+: 3498 5 9 And 
+: 3505 7 8 all 
+: 3514 6 10 the 
+: 3522 10 11 sun
+: 3533 10 11 shine 
+: 3545 7 9 ba
+: 3553 10 10 nishes 
+: 3565 6 8 the 
+: 3572 44 6 dark 
+- 3626
+: 3630 7 9 And 
+: 3639 7 8 it’s 
+: 3649 7 11 you 
+: 3657 5 10 I 
+: 3666 14 11 need 
+: 3684 7 12 in 
+: 3701 11 13 summer
+: 3713 36 11 time 
+- 3755
+: 3758 5 8 As 
+: 3766 4 7 I 
+: 3773 8 10 turn 
+: 3783 7 10 my 
+: 3794 12 11 white 
+: 3808 21 10 skin 
+: 3832 49 9 red 
+- 3883
+: 3885 16 6 Two 
+: 3904 16 9 peas 
+: 3921 5 8 from 
+: 3927 5 8 the 
+: 3933 8 9 same 
+: 3942 8 7 pod 
+: 3961 6 11 yes 
+: 3968 7 12 we 
+: 3977 18 10 are 
+- 4005
+: 4014 4 7 Or 
+: 4019 6 6 have 
+: 4026 4 5 I 
+: 4031 6 6 read 
+: 4039 5 8 too 
+: 4045 5 8 much 
+: 4054 9 10 fic
+: 4064 11 9 tion? 
+- 4077
+: 4099 9 11 Is 
+: 4112 8 11 this 
+: 4126 7 9 how 
+: 4138 10 13 it 
+: 4150 112 13 hap
+: 4265 26 11 pens? 
+E

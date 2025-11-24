@@ -1,0 +1,189 @@
+#ARTIST:The B.C. 52’s
+#TITLE:(Meet) The Flintstones
+#MP3:The B.C. 52’s - (Meet) The Flintstones.mp3
+#CREATOR:Peschi
+#YEAR:1994
+#LANGUAGE:English
+#BPM:279.86
+#GAP:25030
+#VIDEO:v=cBco_DApZVY,co=meet-the-flintstones-50811cafb85f4.jpg
+: 0 4 8 Yub
+: 8 4 8 ba 
+: 14 4 8 dub
+: 20 4 8 ba 
+: 28 20 8 doo 
+- 50
+: 176 7 8 Flint
+: 184 10 1 stones, 
+- 196
+: 198 5 13 Meet 
+: 204 3 10 the 
+: 208 7 8 Flint
+: 216 10 1 stones 
+- 227
+: 228 4 8 They’re 
+: 236 3 6 the 
+: 240 3 5 mod
+: 244 3 6 ern 
+: 248 3 7 stone 
+: 252 3 8 age 
+: 256 7 1 fam
+: 264 7 3 i
+: 272 8 5 ly 
+- 282
+: 304 6 8 From 
+: 312 6 1 the 
+: 324 7 13 town 
+: 332 3 10 of 
+: 336 6 8 Bed
+: 344 8 1 rock 
+- 354
+: 356 4 8 They’re 
+: 364 3 6 a 
+: 368 3 5 page 
+: 372 3 6 right 
+: 376 3 7 out 
+: 380 3 8 of 
+: 384 7 1 his
+: 392 7 3 to
+: 400 8 1 ry 
+- 410
+: 432 6 12 Let’s 
+: 440 6 5 ride 
+: 452 4 13 with 
+: 460 3 13 the 
+: 464 3 13 fam
+: 468 3 12 ily 
+: 472 3 12 down 
+: 476 3 10 the 
+: 480 10 10 street 
+- 492
+: 500 5 12 Through 
+: 506 6 5 the 
+: 516 9 13 cour 
+: 526 7 13 tesy 
+: 534 1 13 of 
+: 536 5 12 Fred’s 
+: 542 3 12 two 
+: 546 10 10 feet 
+- 558
+: 560 6 8 When 
+: 568 6 1 you’re 
+: 580 4 13 with 
+: 588 3 10 the 
+: 592 7 8 Flint
+: 600 12 1 stones 
+- 613
+: 614 7 8 Have 
+: 622 1 6 a 
+: 624 3 5 yab
+: 628 3 6 ba 
+: 632 3 7 dab
+: 636 3 8 ba 
+: 640 5 1 doo 
+: 646 12 3 time 
+- 659
+: 660 3 5 A 
+: 664 3 6 dab
+: 668 3 8 ba 
+: 672 6 1 doo 
+: 680 4 3 time 
+- 686
+: 692 5 5 We’ll 
+: 698 3 6 have 
+: 702 1 8 a 
+: 704 7 13 gay 
+: 712 7 15 old 
+: 720 36 13 time 
+- 758
+: 1584 5 8 Flint
+: 1590 16 1 stones, 
+- 1607
+: 1608 3 13 Meet 
+: 1612 3 10 the 
+: 1616 7 8 Flint
+: 1624 13 1 stones 
+- 1638
+: 1638 5 8 They’re 
+: 1644 3 6 the 
+: 1648 3 5 mod
+: 1652 3 6 ern 
+: 1656 7 7 stone 
+: 1664 3 8 age 
+: 1668 7 1 fam
+: 1676 5 3 i
+: 1682 12 5 ly 
+- 1696
+: 1716 7 8 From 
+: 1724 7 1 the 
+: 1732 7 13 town 
+: 1740 3 10 of 
+: 1744 7 8 Bed
+: 1752 12 1 rock 
+- 1765
+: 1766 7 8 They’re 
+: 1774 3 6 a 
+: 1778 3 5 page 
+: 1782 5 6 right 
+: 1788 3 7 out 
+: 1792 1 8 of 
+: 1794 7 1 his
+: 1802 7 3 to
+: 1810 14 1 ry 
+- 1826
+: 1842 7 12 Some
+: 1850 9 5 day, 
+: 1860 5 13 may
+: 1866 6 13 be 
+: 1874 3 13 Fred 
+: 1878 3 12 will 
+: 1882 3 12 win 
+: 1886 3 10 the 
+: 1890 8 10 fight 
+- 1900
+: 1912 8 12 Then 
+: 1922 3 5 the 
+: 1926 3 13 cat 
+: 1930 5 13 will 
+: 1936 5 13 stay 
+: 1942 3 12 out 
+: 1946 3 12 for 
+: 1950 3 10 the 
+: 1954 12 10 Night 
+- 1968
+: 1970 5 8 When 
+: 1976 10 1 you’re 
+: 1988 7 13 with 
+: 1996 3 10 the 
+: 2000 7 8 Flint
+: 2008 13 1 stones 
+- 2022
+: 2022 7 8 Have 
+: 2030 1 6 a 
+: 2032 3 5 yab
+: 2036 3 6 ba 
+: 2040 3 7 dab
+: 2044 3 8 ba 
+: 2048 7 1 doo 
+: 2056 11 3 time 
+- 2068
+: 2068 3 5 A 
+: 2072 5 6 dab
+: 2078 3 8 ba 
+: 2082 5 1 doo 
+: 2088 11 3 time 
+- 2100
+: 2100 5 5 We’ll 
+: 2106 5 6 have 
+: 2112 1 8 a 
+: 2114 8 13 gay 
+: 2124 5 15 old 
+: 2130 36 13 time 
+- 2168
+: 2294 9 5 We’ll 
+: 2304 7 6 have 
+: 2312 4 8 a 
+: 2320 12 13 gay 
+: 2336 13 15 old 
+: 2350 82 13 time 
+E

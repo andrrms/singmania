@@ -1,0 +1,349 @@
+#ARTIST:Cinderella
+#TITLE:A Lovely Night
+#MP3:Cinderella - A Lovely Night.mp3
+#CREATOR:shadowscene
+#COVER:Cinderella - A Lovely Night [CO].jpg
+#BACKGROUND:Cinderella - A Lovely Night [BG].jpg
+#YEAR:1997
+#LANGUAGE:English
+#BPM:212
+#VIDEO:v=evFbmP9ss1A,co=https://images.genius.com/d53e33bf5d5efcf68fc61a4dc98c7225.876x876x1.png
+: 0 4 6 It 
+: 6 4 6 looks 
+: 12 4 7 that 
+: 18 8 9 way 
+- 28
+: 32 4 1 The 
+: 38 3 2 way 
+: 42 4 4 you 
+: 48 8 6 say 
+- 58
+: 64 6 2 She 
+: 72 4 1 talks 
+: 78 3 2 as 
+: 82 4 4 if 
+* 98 6 6 she 
+* 106 8 2 knows 
+- 116
+: 130 6 2 I 
+: 138 3 4 do 
+: 142 3 5 not 
+: 146 8 7 know 
+- 156
+: 164 4 -1 That 
+: 170 3 0 this 
+: 174 2 2 is 
+: 178 10 4 so 
+- 190
+: 196 8 4 I 
+: 206 4 4 on
+: 212 8 4 ly 
+* 224 4 7 just 
+: 238 4 5 supp
+: 244 18 4 ose 
+- 264
+: 288 4 6 I 
+: 294 4 7 supp
+: 300 4 9 ose 
+* 306 1 2 that 
+* 308 1 4 when 
+* 310 3 5 you 
+* 314 3 6 come 
+: 318 1 -1 in
+: 320 3 0 to 
+: 324 1 1 the 
+: 326 6 2 ball
+: 334 6 2 room 
+- 342
+: 346 1 6 And 
+: 348 3 7 the 
+: 352 3 9 room 
+: 356 1 2 it
+: 358 3 4 self 
+: 362 1 5 is 
+: 364 3 6 floa
+: 368 3 -1 ting 
+* 372 1 0 in 
+* 374 4 1 the 
+* 380 10 2 air 
+- 392
+: 396 1 1 If 
+: 398 2 2 you’re 
+: 402 3 3 sudd
+: 406 1 2 en
+: 408 2 2 ly 
+: 412 1 2 con
+: 414 3 7 fron
+: 418 3 7 ted 
+: 422 1 7 by 
+: 424 2 7 his 
+: 428 6 6 high
+: 436 4 6 ness 
+- 442
+: 448 1 1 You 
+: 450 1 2 are 
+: 452 3 3 fro
+: 456 1 2 zen 
+: 458 1 2 like 
+: 460 2 2 a 
+* 464 3 9 sta
+* 468 3 9 tue 
+* 472 1 9 on 
+* 474 2 9 the 
+* 478 10 6 stair 
+- 490
+: 496 3 6 You’re 
+: 500 1 7 af
+: 502 3 9 raid 
+: 506 1 2 he’ll 
+: 508 3 4 hear 
+: 512 1 5 the 
+: 514 4 6 way 
+: 520 1 -1 your 
+: 522 3 0 heart 
+: 526 1 1 is 
+: 528 4 2 bea
+: 534 6 2 ting 
+- 542
+: 546 3 2 And 
+: 550 3 4 you 
+: 554 1 5 know 
+: 556 3 6 you 
+: 560 1 6 must
+: 562 2 6 n’t 
+: 566 3 10 make 
+: 570 1 11 the 
+: 572 3 11 first 
+: 576 4 11 ad
+: 582 10 9 vance 
+- 594
+: 598 3 9 You 
+: 602 2 9 are 
+: 606 3 9 se
+: 610 1 9 ri
+: 612 1 9 ous
+: 614 3 9 ly 
+: 618 3 9 think
+: 622 3 9 ing 
+: 626 3 9 of 
+: 630 1 9 ret
+* 632 6 11 rea
+* 640 6 11 ting 
+- 648
+: 654 1 11 Then 
+: 656 2 11 you 
+: 660 3 11 seem 
+: 664 5 4 to 
+: 670 1 4 hear 
+: 672 4 4 him 
+: 678 4 11 ask
+: 686 4 -1 ing 
+: 692 6 -1 you 
+: 702 4 -1 to 
+* 710 18 2 dance 
+- 730
+: 1072 4 0 A 
+: 1078 9 5 love
+: 1088 4 0 ly 
+: 1094 6 2 night 
+- 1102
+: 1108 4 0 A 
+* 1114 11 9 love
+: 1126 4 0 ly 
+: 1132 4 2 night 
+- 1138
+: 1144 2 0 A 
+: 1148 3 12 fin
+: 1152 4 12 er 
+: 1158 3 11 night 
+: 1162 3 11 you 
+: 1166 5 10 know 
+: 1172 1 10 you’ll 
+: 1174 3 9 nev
+: 1178 4 9 er 
+: 1184 12 5 see 
+- 1198
+: 1216 4 0 You 
+: 1222 8 5 meet 
+: 1232 4 0 your 
+: 1238 6 2 prince 
+- 1246
+: 1252 4 0 A 
+* 1258 12 9 char
+: 1272 4 0 ming 
+: 1278 4 2 prince 
+- 1284
+: 1290 2 0 As 
+* 1294 3 12 char
+* 1298 3 12 ming 
+* 1302 3 11 as 
+* 1306 2 11 a 
+: 1310 4 10 prince 
+: 1316 3 10 will 
+: 1320 1 9 ev
+: 1322 4 9 er 
+: 1328 16 5 be 
+- 1346
+: 1364 2 5 The 
+: 1368 4 5 stars 
+: 1374 1 7 in 
+: 1376 1 9 a 
+* 1378 3 10 ha
+* 1382 4 10 zy 
+* 1388 3 10 hea
+* 1392 8 9 ven 
+- 1402
+: 1406 8 6 Trem
+: 1416 6 6 ble 
+: 1424 1 6 ab
+: 1426 4 6 ove 
+: 1432 4 7 you 
+- 1438
+: 1444 6 4 While 
+: 1452 3 4 he 
+: 1456 4 4 is 
+: 1462 2 4 whis
+: 1468 6 5 pering 
+- 1476
+: 1480 11 1 “Dar
+: 1492 5 1 ling, 
+: 1498 1 1 I 
+: 1500 6 1 love 
+: 1508 6 2 you” 
+- 1516
+: 1518 4 0 You 
+* 1524 10 5 say 
+: 1536 4 0 good
+: 1542 6 2 bye 
+- 1550
+: 1554 4 0 Aw
+* 1560 11 9 ay 
+: 1572 4 0 you 
+: 1578 6 2 fly 
+- 1586
+: 1592 2 0 But 
+* 1596 3 12 on 
+* 1600 3 12 your 
+* 1604 4 11 lips, 
+: 1610 3 11 you 
+: 1614 3 10 keep 
+: 1618 4 10 a 
+: 1624 6 9 kiss 
+- 1632
+: 1634 3 5 All 
+: 1638 3 5 your 
+: 1642 5 3 life 
+: 1648 3 3 you’ll 
+: 1652 3 2 dream 
+: 1656 4 2 of 
+: 1662 6 1 this 
+- 1670
+: 1674 4 0 Love
+* 1680 12 12 ly, 
+: 1694 9 5 love
+: 1704 4 4 ly 
+: 1710 14 5 night 
+- 1726
+: 1742 4 0 A 
+: 1748 7 5 love
+: 1756 4 0 ly 
+: 1762 4 2 night 
+- 1768
+: 1774 4 0 A 
+* 1780 11 9 love
+: 1792 4 0 ly 
+: 1798 4 2 night 
+- 1804
+: 1810 2 0 A 
+: 1814 3 12 fin
+: 1818 3 12 er 
+: 1822 3 11 night 
+: 1826 3 11 you 
+: 1830 5 10 know 
+: 1836 1 10 you’ll 
+: 1838 3 9 nev
+: 1842 4 9 er 
+* 1848 12 5 see 
+- 1862
+: 1880 3 0 You 
+: 1884 4 5 meet 
+: 1894 4 0 your 
+: 1900 4 2 prince 
+- 1906
+: 1912 4 0 A 
+* 1918 12 9 char
+: 1932 4 0 ming 
+: 1938 6 2 prince 
+- 1946
+: 1952 2 0 As 
+: 1956 3 12 char
+: 1960 3 12 ming 
+: 1964 3 11 as 
+: 1968 2 11 a 
+: 1972 4 10 prince 
+* 1978 3 10 will 
+* 1982 1 9 ev
+* 1984 4 9 er 
+* 1990 20 5 be 
+- 2012
+: 2022 2 5 The 
+: 2026 4 5 stars 
+: 2032 1 7 in 
+: 2034 1 9 a 
+: 2036 3 10 ha
+: 2040 4 10 zy 
+: 2046 3 10 hea
+: 2050 6 9 ven 
+- 2058
+* 2060 8 6 Trem
+* 2070 6 6 ble 
+* 2078 1 6 ab
+* 2080 4 6 ove 
+* 2086 8 7 you 
+- 2096
+: 2100 6 4 While 
+: 2108 3 4 he 
+: 2112 4 4 is 
+: 2118 2 4 whis
+: 2124 6 5 pering 
+- 2132
+* 2136 7 1 “Dar
+* 2144 5 1 ling, 
+* 2150 1 1 I 
+* 2152 6 1 love 
+* 2160 4 2 you” 
+- 2165
+: 2166 4 0 You 
+: 2172 10 5 say 
+: 2184 4 0 good
+: 2190 6 2 bye 
+- 2198
+: 2202 4 0 Aw
+: 2208 11 9 ay 
+: 2220 4 0 you 
+: 2226 6 2 fly 
+- 2234
+: 2240 1 0 But 
+: 2242 3 12 on 
+: 2246 3 12 your 
+: 2250 4 11 lips, 
+: 2256 3 11 you 
+: 2260 3 10 keep 
+: 2264 4 10 a 
+: 2270 4 9 kiss 
+- 2276
+: 2278 3 5 All 
+: 2282 1 5 your 
+: 2284 5 3 life 
+: 2290 3 3 you’ll 
+: 2294 3 2 dream 
+: 2298 4 2 of 
+: 2304 6 1 this 
+- 2312
+: 2316 4 0 Love
+* 2322 38 12 ly, 
+- 2362
+: 2370 9 5 Love
+: 2380 4 4 ly 
+* 2386 48 5 night 
+E

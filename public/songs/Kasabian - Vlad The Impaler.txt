@@ -1,0 +1,152 @@
+#ARTIST:Kasabian
+#TITLE:Vlad The Impaler
+#MP3:Kasabian - Vlad The Impaler.mp3
+#CREATOR:gun8
+#GENRE:Rock
+#YEAR:2009
+#LANGUAGE:English
+#BPM:230
+#GAP:17270
+#VIDEO:v=iDpxJHblYEU,co=https://cdn-images.dzcdn.net/images/cover/6d7bc0a5e954e2e4b9227e0f92132e95/1900x1900-000000-80-0-0.jpg,bg=kasabian-639ff1788dff0.jpg
+: 0 4 5 Face 
+: 6 2 5 check 
+: 12 2 5 I 
+: 16 2 5 walk 
+: 20 4 5 this 
+: 27 2 5 beach 
+- 31
+: 36 3 5 I’m
+: 40 2 5 ~ 
+: 44 4 5 fry
+: 50 1 5 ing 
+: 52 1 5 in 
+: 54 1 5 the 
+: 56 1 5 heat 
+- 59
+: 68 2 5 In 
+: 72 1 5 the 
+: 74 11 5 cauld
+: 87 2 5 ron 
+- 91
+F 92 4 0 Stir 
+F 104 6 0 me 
+- 112
+: 129 2 5 Chomp 
+: 133 2 5 down 
+: 137 2 5 my 
+: 141 2 5 dia
+: 145 2 5 mond 
+: 150 2 5 teeth 
+: 160 2 5 I 
+: 164 4 5 ain’t 
+: 172 4 5 got 
+- 178
+: 184 2 5 The 
+: 188 4 5 sim
+: 196 4 -2 ple 
+: 204 4 5 things 
+: 212 4 -2 in 
+: 220 4 5 life 
+: 228 4 -2 I 
+* 236 4 5 feel 
+* 244 4 -2 like 
+- 250
+: 252 6 5 You 
+: 260 4 -2 have 
+: 268 4 5 got 
+: 276 4 -2 to 
+- 282
+F 286 2 0 Wit
+F 292 4 0 ness 
+- 298
+: 304 2 5 This 
+: 308 2 5 is 
+: 312 2 5 your 
+: 316 2 5 last 
+- 320
+F 348 2 0 Re
+F 354 2 0 treat 
+- 358
+: 376 2 5 My 
+: 380 6 5 last 
+- 388
+F 412 4 0 Re
+F 420 4 0 peat 
+- 426
+: 446 4 5 All 
+: 451 4 8 my 
+: 457 4 5 friends 
+: 465 4 3 are 
+: 470 2 1 as 
+: 475 5 3 sharp 
+: 482 4 3 as 
+* 489 6 5 ra
+: 498 6 -2 zors 
+- 506
+: 508 4 5 Cut 
+* 514 4 8 you 
+: 520 6 5 down 
+: 528 2 3 if 
+: 532 4 3 you 
+: 540 4 3 touch 
+: 546 4 3 the 
+* 552 6 5 fa
+: 562 4 -2 ders 
+- 568
+: 572 4 5 High 
+* 578 4 8 class 
+: 584 6 5 girls 
+: 592 6 3 hung 
+: 600 2 1 in 
+: 604 4 3 el
+: 610 4 3 e
+* 616 4 5 va
+: 624 4 -2 tors 
+- 630
+: 632 4 -2 Now 
+: 638 2 3 we 
+: 642 4 3 have 
+: 647 7 3 got 
+: 660 2 -2 the 
+: 665 9 -2 floor 
+- 676
+F 704 2 0 Get 
+F 708 2 0 loose 
+F 712 2 0 get 
+F 716 2 0 loose 
+- 720
+F 722 6 -1 Eh! 
+- 730
+F 738 2 0 Get 
+F 742 2 0 loose 
+F 746 2 0 get 
+F 750 2 0 loose 
+- 754
+F 756 4 -2 Eh! 
+- 762
+F 770 2 0 Get 
+F 774 2 0 loose 
+F 778 2 0 get 
+F 782 1 0 loose 
+- 785
+F 786 6 -5 Eh! 
+- 794
+F 800 2 0 Get 
+F 804 2 0 loose 
+F 808 2 0 get 
+F 812 2 0 loose 
+- 816
+F 818 6 -7 Eh! 
+- 826
+: 828 100 10 Ah 
+- 930
+: 1136 2 5 This 
+: 1140 2 5 is 
+: 1144 4 5 your 
+: 1150 4 5 last 
+- 1156
+F 1216 2 0 Get 
+F 1220 2 0 loose 
+F 1224 2 0 get 
+F 1228 2 0 loose 
+E

@@ -1,0 +1,399 @@
+#ARTIST:Christopher Lee
+#TITLE:Name Your Poison
+#MP3:Christopher Lee - Name Your Poison.mp3
+#CREATOR:Ich,werdennsonst?
+#COVER:Christopher Lee - Name Your Poison [CO].jpg
+#BACKGROUND:Christopher Lee - Name Your Poison [BG].jpg
+#YEAR:1983
+#LANGUAGE:English
+#BPM:373.24
+#GAP:5690
+#VIDEO:v=wjbixzkcmjA,co=https://metadata-static.plex.tv/5/gracenote/542fd6765b07192ed83429cccb6c2df2.jpg
+: 0 8 -1 Might 
+: 17 4 -1 I 
+: 25 7 -1 say 
+: 35 9 4 that 
+: 56 6 2 I’m 
+: 69 5 2 old-
+: 75 25 6 fashioned 
+- 100
+: 101 7 4 Trés 
+: 131 9 4 vin 
+: 146 3 6 or
+: 155 25 1 dinaire? 
+- 190
+: 228 9 1 That 
+: 244 2 1 I 
+: 247 12 1 want 
+: 268 3 4 a 
+: 281 6 2 fresh 
+: 296 7 2 Man
+: 304 20 6 hattan 
+- 324
+: 326 7 6 With 
+: 348 6 2 white 
+: 360 27 3 Anglo-Saxons 
+: 400 9 8 every
+: 410 21 11 where? 
+- 441
+: 459 3 6 A 
+: 463 7 6 black 
+: 478 5 6 Rus
+: 484 12 9 sian’s 
+: 505 6 1 no 
+: 517 5 1 Pink 
+: 530 5 1 La
+: 536 9 6 dy 
+- 557
+: 561 10 1 Give 
+: 572 5 1 her 
+: 578 3 1 the 
+: 589 21 6 Singapore 
+: 613 19 4 Sling 
+- 656
+: 684 3 6 A 
+: 688 27 6 Moscow Mule 
+: 716 9 9 is 
+: 736 6 1 not 
+: 746 7 1 your 
+: 755 4 1 ba
+: 760 8 4 by 
+- 778
+: 782 5 1 So 
+: 793 2 6 high
+: 796 11 6 ball 
+: 810 3 6 the 
+: 816 3 6 vod
+: 820 8 3 ka 
+- 835
+: 838 4 4 And 
+: 847 6 8 name 
+: 854 5 9 your 
+: 861 19 11 sting! 
+- 886
+: 889 5 14 Be 
+: 897 1 13 a 
+: 899 4 14 big 
+: 909 5 14 shot 
+- 924
+: 942 4 6 With 
+: 947 1 9 a 
+: 949 10 13 bull 
+: 963 7 11 shot 
+- 980
+: 991 5 9 Be 
+: 997 3 11 a 
+* 1003 35 13 Schwein 
+- 1043
+: 1045 9 13 Mit 
+: 1056 2 14 der 
+* 1059 34 16 Wein 
+- 1104
+: 1108 7 13 Have 
+: 1118 1 11 a 
+: 1124 5 9 short 
+: 1141 1 6 or 
+: 1145 1 8 a 
+: 1150 5 9 port 
+- 1167
+: 1171 2 10 Or 
+: 1175 1 8 a 
+: 1184 6 11 snort 
+: 1200 1 1 of 
+: 1204 5 6 any 
+: 1211 8 -1 sort 
+- 1229
+F 1244 17 4 Asti 
+F 1268 24 -4 Spumante 
+- 1302
+F 1328 10 7 Uno 
+F 1352 7 1 Chi
+F 1360 24 1 anti 
+- 1394
+* 1404 14 13 Par
+* 1419 14 14 ty
+* 1434 84 16 time! 
+- 1542
+: 1600 1 1 I 
+: 1602 2 1 got 
+: 1608 2 2 some 
+: 1613 13 4 eco
+: 1627 14 4 nomic 
+: 1645 10 11 hocks 
+- 1665
+: 1669 2 1 A 
+: 1672 5 1 gin 
+: 1679 2 3 and 
+: 1683 10 4 tonic 
+: 1704 6 4 on 
+: 1712 2 4 the 
+: 1715 2 -3 rocks 
+- 1727
+: 1743 5 3 Where 
+: 1750 14 4 angels 
+: 1768 9 4 fear 
+: 1779 2 4 to 
+: 1783 22 6 tread 
+: 1807 3 6 I 
+: 1811 6 6 say 
+- 1823
+: 1826 5 13 Choose 
+: 1833 2 12 your 
+: 1838 8 13 booze 
+- 1852
+: 1854 3 16 Let’s 
+: 1860 2 16 hit 
+: 1866 3 16 the 
+: 1870 16 21 red-eye! 
+- 1895
+: 1898 6 6 Think 
+: 1905 2 6 of 
+: 1908 11 6 young 
+: 1922 9 6 Dean
+: 1932 3 4 na 
+: 1938 6 4 Dur
+: 1945 7 1 bin 
+- 1955
+: 1957 2 4 And 
+: 1960 7 6 how 
+: 1969 2 6 she 
+: 1977 6 6 sum
+: 1984 9 6 moned 
+: 1994 10 6 Rum and 
+: 2008 6 4 Bour
+: 2015 5 2 bon 
+- 2032
+: 2036 3 1 Or 
+: 2040 12 3 enhance 
+: 2056 5 -3 your 
+: 2064 10 1 luncheon 
+: 2077 8 -3 hour 
+- 2088
+: 2090 2 -3 With 
+: 2094 1 -3 a 
+: 2096 11 1 Planter’s 
+: 2112 6 1 Punch 
+: 2125 1 -1 and 
+: 2129 1 -3 a 
+: 2132 8 1 Whiskey 
+: 2141 10 -4 Sour 
+- 2155
+: 2157 2 12 If 
+: 2160 1 12 you 
+: 2165 6 10 feel 
+: 2174 2 10 like 
+: 2179 1 10 a 
+: 2182 2 10 wreck 
+- 2189
+: 2191 4 10 Try 
+: 2196 2 10 a 
+: 2199 10 10 Horse’s 
+: 2213 3 10 Neck 
+- 2224
+: 2227 3 9 Or 
+: 2232 1 9 a 
+: 2237 8 8 Sherry 
+: 2248 5 8 with 
+: 2254 1 8 a 
+: 2260 9 8 cherry 
+: 2276 2 8 in 
+: 2280 2 8 the 
+: 2284 11 8 new 
+: 2301 14 9 fun 
+: 2316 32 11 size 
+- 2353
+: 2355 14 14 If 
+: 2371 3 14 you 
+: 2380 5 13 don’t 
+: 2390 9 13 name 
+: 2401 2 11 your 
+: 2405 6 11 poi
+: 2412 8 9 son 
+- 2429
+: 2432 7 6 I’ll 
+: 2441 9 9 have 
+: 2456 1 9 to 
+: 2459 7 6 get 
+: 2473 2 9 the 
+: 2476 10 13 boys 
+: 2492 7 11 in 
+- 2506
+: 2509 1 11 The 
+: 2516 13 14 spirit 
+: 2538 3 13 of 
+: 2544 5 11 ad
+: 2550 18 11 venture 
+: 2570 13 9 opens 
+: 2596 20 9 one’s 
+: 2624 16 11 eyes 
+- 2649
+: 2652 2 14 If 
+: 2658 6 13 you 
+: 2666 5 13 don’t 
+: 2674 9 12 name 
+: 2686 2 11 your 
+: 2691 6 11 poi
+: 2698 7 9 son 
+- 2714
+: 2717 8 9 I’ll 
+: 2727 9 16 have 
+: 2742 2 13 to 
+: 2746 11 16 get 
+: 2761 1 14 the 
+: 2764 7 16 boys 
+: 2778 3 12 in 
+- 2788
+: 2791 1 9 And 
+: 2794 2 11 you’ll 
+: 2799 11 14 never 
+: 2814 11 13 see 
+: 2832 14 11 another 
+: 2848 13 9 clear 
+: 2864 39 9 sun
+: 2904 35 11 ~
+: 2940 48 9 rise 
+- 3012
+: 3070 3 4 Live 
+: 3076 14 4 happily 
+: 3091 14 4 ever 
+: 3118 4 6 after 
+- 3131
+: 3134 3 4 With 
+: 3139 4 4 a 
+: 3144 13 4 Chablis 
+: 3161 6 4 and 
+: 3170 3 4 some 
+: 3174 7 9 laugh
+: 3182 18 -3 ter 
+- 3209
+: 3213 11 4 Between 
+: 3226 1 4 the 
+: 3229 8 4 sheets 
+: 3243 2 4 it’s 
+: 3247 4 6 love
+: 3252 8 6 ly 
+- 3269
+: 3273 2 4 With 
+: 3278 1 4 a 
+: 3281 9 13 fancy 
+: 3294 8 4 blonde 
+: 3308 1 4 and 
+: 3312 1 4 a 
+: 3314 7 13 bottle 
+: 3324 2 4 of 
+: 3329 11 9 bubbly 
+- 3343
+: 3345 2 9 There’s 
+: 3349 10 6 nothing 
+: 3367 8 6 sicker 
+: 3376 2 6 in 
+: 3379 10 6 soci
+: 3390 6 4 e
+: 3397 7 2 ty 
+- 3407
+: 3409 3 6 Than 
+: 3415 1 6 a 
+: 3418 3 6 lack 
+: 3428 4 6 of 
+: 3434 8 6 liquor 
+: 3444 1 6 and 
+: 3448 9 6 sobri
+: 3458 4 4 e
+: 3463 6 2 ty 
+- 3474
+: 3476 10 13 So 
+: 3493 4 14 down 
+: 3500 2 14 the 
+: 3503 7 14 hatch, 
+: 3515 3 14 here’s 
+: 3521 4 13 mud 
+: 3526 1 11 in 
+: 3529 4 9 your 
+: 3539 4 4 eye 
+- 3544
+: 3546 3 13 Take 
+: 3552 1 13 a 
+: 3554 2 13 bra
+: 3557 4 9 cer 
+: 3563 2 13 with 
+: 3568 1 13 a 
+: 3571 3 13 tra
+: 3575 3 9 cer 
+- 3579
+: 3581 2 4 Wash 
+: 3586 1 4 it 
+: 3589 5 9 down 
+: 3597 2 9 with 
+: 3601 9 13 Rye! 
+- 3620
+: 3628 8 11 Bottoms 
+: 3640 3 4 up 
+- 3652
+: 3656 6 11 Stirrup 
+: 3669 3 4 cup 
+- 3680
+: 3683 6 8 It’ll 
+: 3692 2 8 put 
+: 3699 3 8 you 
+: 3704 3 8 in 
+: 3709 1 8 the 
+: 3714 3 11 pink 
+- 3729
+: 3733 3 4 And 
+: 3740 4 8 all 
+: 3745 5 8 you 
+: 3753 5 9 have 
+: 3763 3 9 to 
+: 3770 11 11 do 
+- 3789
+: 3792 3 4 Is 
+: 3801 11 14 drink 
+- 3822
+: 3826 7 13 Drink 
+- 3842
+: 3845 8 14 Drink 
+- 3858
+: 3860 9 13 Drink 
+- 3878
+: 3881 34 13 Drink
+: 3916 24 10 ~ 
+- 3946
+: 3949 11 14 Drink 
+- 3963
+: 3965 7 13 Drink 
+- 3981
+: 3985 3 14 Drink 
+- 3997
+: 4000 6 13 Drink 
+- 4015
+: 4019 36 14 Drink
+: 4056 28 11 ~ 
+- 4086
+: 4088 16 14 Drink 
+- 4106
+: 4108 9 13 Drink 
+- 4124
+: 4127 9 1 Drink 
+- 4139
+: 4141 9 2 Drink 
+- 4157
+: 4160 19 2 Drink
+: 4180 9 4 ~
+: 4190 2 6 ~
+: 4193 20 4 ~ 
+- 4223
+: 4232 10 14 Drink 
+- 4245
+: 4247 3 13 Drink 
+- 4258
+: 4261 9 14 Drink 
+- 4277
+: 4280 7 13 Drink 
+- 4296
+: 4300 35 14 Drink
+: 4336 36 11 ~ 
+- 4396
+* 4444 76 14 Drink! 
+- 4532
+* 4536 108 16 Drink! 
+E

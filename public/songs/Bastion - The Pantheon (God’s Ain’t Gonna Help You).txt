@@ -1,0 +1,253 @@
+#ARTIST:Bastion
+#TITLE:The Pantheon (God’s Ain’t Gonna Help You)
+#MP3:Bastion - The Pantheon (God’s Ain’t Gonna Help You).mp3
+#CREATOR:REL
+#GENRE:Game
+#YEAR:2011
+#LANGUAGE:English
+#BPM:300
+#GAP:8950
+#VIDEO:v=hAVmk4E07NQ,co=https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.1000x1000x1.png
+: 0 8 11 Gods 
+: 10 9 9 ain’t 
+: 22 5 9 gonna
+: 29 2 4 ~ 
+: 33 6 7 help 
+: 42 6 4 ya 
+: 51 8 4 son 
+- 61
+: 63 5 4 You’ll 
+: 70 2 4 be 
+: 74 7 7 sorry
+: 83 5 9 ~ 
+: 91 2 7 for 
+: 95 6 9 whatcha
+: 104 6 4 ~ 
+: 111 17 4 done 
+- 130
+: 163 8 11 Them 
+: 173 9 9 gods 
+: 185 5 9 gonna
+: 192 2 4 ~ 
+: 196 6 7 hurt 
+: 205 6 4 ya 
+: 214 8 4 son 
+- 224
+: 226 5 4 When 
+: 233 2 4 you 
+: 237 7 7 play 
+: 246 5 9 with 
+: 254 2 7 a 
+: 258 6 9 loaded
+: 267 6 4 ~ 
+: 274 17 4 gun 
+- 293
+: 306 8 11 When 
+: 316 2 11 you 
+: 320 7 14 play 
+: 330 4 11 with 
+: 337 2 11 a 
+: 341 6 9 loaded
+: 350 6 4 ~ 
+: 358 14 4 gun 
+- 374
+: 401 19 12 They 
+: 422 16 11 ain’t 
+: 441 18 9 gonna
+: 462 17 7 ~ 
+: 481 11 9 catch 
+: 493 13 4 you 
+: 509 3 4 when 
+: 514 5 7 you 
+: 522 16 4 fall 
+- 540
+: 564 19 12 You’ll 
+: 585 16 11 be 
+: 604 18 9 pleadin’
+: 625 17 7 ~ 
+: 644 20 11 while 
+: 666 17 9 you’re 
+: 684 18 7 bleedin’
+: 703 17 6 ~ 
+- 722
+: 740 7 11 They 
+: 750 8 9 ain’t 
+: 761 5 9 gonna
+: 768 2 4 ~ 
+: 772 7 7 heal 
+: 781 7 4 ya 
+: 791 8 4 son 
+- 801
+: 802 7 4 Don’t 
+: 811 7 4 care 
+: 822 7 7 ’bout 
+: 833 6 9 whatcha
+: 842 7 4 ~ 
+: 851 14 4 done 
+- 867
+: 904 7 11 They 
+: 914 7 9 ain’t 
+: 924 6 9 gonna
+: 932 2 4 ~ 
+: 936 6 7 help 
+: 945 7 4 ya 
+: 956 7 4 son 
+- 965
+: 966 5 4 You’ll 
+: 974 1 4 be 
+: 977 6 7 sorry
+: 986 5 9 ~ 
+: 994 1 7 for 
+: 997 7 9 whatcha
+: 1006 7 4 ~ 
+: 1016 16 4 done 
+- 1034
+: 1047 7 11 Be 
+: 1057 8 14 sorry
+: 1068 4 14 ~ 
+: 1075 2 14 for 
+: 1079 7 16 what 
+: 1088 15 16 you 
+: 1105 17 14 done 
+- 1124
+: 1181 6 2 Old 
+: 1190 14 4 Pyth, 
+: 1209 5 2 cranky
+: 1218 1 -1 ~ 
+: 1221 2 2 old 
+: 1228 12 4 bull, 
+- 1242
+: 1251 4 2 Make 
+: 1258 2 -1 you 
+: 1261 8 2 sorry
+: 1272 5 4 ~ 
+: 1280 2 2 for 
+: 1284 6 7 whatcha
+: 1292 6 7 ~ 
+: 1300 19 4 done 
+- 1321
+: 1345 6 2 Hense
+: 1354 14 4 ~ 
+: 1373 5 2 in 
+: 1382 1 -1 a 
+: 1385 2 2 black 
+: 1392 12 4 veil 
+- 1406
+: 1415 4 2 Gonna
+: 1422 2 -1 ~ 
+: 1425 8 2 prick 
+: 1436 5 4 yer 
+: 1444 2 2 for 
+: 1448 6 7 whatcha
+: 1456 6 7 ~ 
+: 1464 19 4 done 
+- 1485
+: 1508 6 2 Roathus
+: 1517 14 4 ~ 
+: 1536 5 2 gotcha
+: 1545 1 -1 ~ 
+: 1548 2 2 empty
+: 1555 12 4 ~ 
+- 1569
+: 1579 4 2 Gotcha
+: 1586 2 -1 ~ 
+: 1589 8 2 weepin’
+: 1600 5 4 ~ 
+: 1608 2 2 for 
+: 1612 6 7 whatcha
+: 1620 6 7 ~ 
+: 1628 19 4 done 
+- 1649
+: 1659 3 4 I
+: 1663 6 4 said 
+: 1672 7 2 Mother
+: 1682 12 4 ~ 
+- 1696
+: 1701 5 2 Lonely
+: 1710 1 -1 ~ 
+: 1713 2 2 old 
+: 1720 12 4 gal 
+- 1734
+: 1742 4 2 Tear 
+: 1749 2 -1 your 
+: 1752 8 2 heart 
+: 1763 5 4 out 
+: 1771 2 2 for 
+: 1775 6 7 whatcha
+: 1783 6 7 ~ 
+: 1791 19 4 done 
+- 1812
+: 1825 8 11 Tear 
+: 1835 2 11 your 
+: 1839 7 14 heart 
+: 1849 4 11 out 
+: 1856 2 11 for 
+: 1860 6 9 whatcha
+: 1869 6 4 ~ 
+: 1877 14 4 done 
+- 1893
+: 1918 19 12 They 
+: 1939 16 11 ain’t 
+: 1958 18 9 gonna
+: 1979 17 7 ~ 
+: 1998 11 9 catch 
+: 2010 13 4 you 
+: 2026 3 4 when 
+: 2031 5 7 you 
+: 2039 16 4 fall 
+- 2057
+: 2081 19 12 You’ll 
+: 2102 16 11 be 
+: 2121 18 9 pleadin’
+: 2142 17 7 ~ 
+: 2161 20 11 while 
+: 2183 17 9 you’re 
+: 2201 18 7 bleedin’
+: 2220 17 6 ~ 
+- 2239
+: 2257 8 11 Gods 
+: 2267 9 9 ain’t 
+: 2279 5 9 gonna
+: 2286 2 4 ~ 
+: 2290 6 7 help 
+: 2299 6 4 ya 
+: 2308 8 4 son 
+- 2318
+: 2320 5 4 You’ll 
+: 2327 2 4 be 
+: 2331 7 7 sorry
+: 2340 5 9 ~ 
+: 2348 2 7 for 
+: 2352 6 9 whatcha
+: 2361 6 4 ~ 
+: 2368 17 4 done 
+- 2387
+: 2420 8 11 Them 
+: 2430 9 9 gods 
+: 2442 5 9 gonna
+: 2449 2 4 ~ 
+: 2453 6 7 hurt 
+: 2462 6 4 ya 
+: 2471 8 4 son 
+- 2481
+: 2483 5 4 You’ll 
+: 2490 2 4 be 
+: 2494 7 7 sorry
+: 2503 5 9 ~ 
+: 2511 2 7 for 
+: 2515 6 9 whatcha
+: 2524 6 4 ~ 
+: 2531 17 4 done 
+- 2550
+: 2563 3 4 You’ll 
+: 2569 5 4 be 
+: 2578 9 7 sorry
+: 2590 6 9 ~ 
+: 2599 3 7 for 
+: 2604 11 9 whatcha
+: 2616 12 4 ~ 
+: 2631 33 4 done 
+- 2666
+F 2705 5 6 Thank 
+F 2713 6 6 you 
+E

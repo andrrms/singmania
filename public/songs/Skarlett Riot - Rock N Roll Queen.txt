@@ -1,0 +1,357 @@
+#ARTIST:Skarlett Riot
+#TITLE:Rock N Roll Queen
+#MP3:Skarlett Riot - Rock N Roll Queen.mp3
+#CREATOR:Phoenix69
+#GENRE:Modern Hard Rock, Alternative Rock
+#YEAR:2013
+#LANGUAGE:English
+#BPM:332.71
+#GAP:28840
+#VIDEO:a=ami_dgrNw0c,co=tear-me-down-60a76d55dcce0.jpg,bg=skarlett-riot-60cec819629af.jpg
+: 0 3 0 She 
+: 5 13 -4 takes 
+: 21 5 -4 to 
+: 28 4 -4 the 
+: 33 7 -4 spo
+: 41 22 6 tlight, 
+- 65
+: 86 5 0 To 
+: 92 4 0 the 
+: 98 15 0 stage 
+- 115
+: 127 2 0 You 
+: 130 3 0 can 
+: 134 5 -3 tell 
+: 141 8 -3 she 
+: 150 4 0 craves 
+: 157 5 -3 in 
+: 164 8 -1 fi
+: 173 3 0 nal 
+: 178 7 -5 look 
+: 187 3 3 on 
+: 191 3 3 her 
+: 195 26 1 face 
+- 223
+: 252 9 0 Eve
+: 262 3 -3 ryone 
+: 270 4 -3 can’t 
+: 276 3 -3 help 
+: 286 3 -3 but 
+: 292 3 -3 stare 
+: 297 6 0 a
+: 304 9 6 way 
+- 315
+: 320 2 3 She’s 
+: 323 2 3 a 
+: 326 3 6 di
+: 330 4 3 va 
+: 335 2 3 and 
+: 338 2 3 a 
+: 341 2 6 ro
+: 344 2 3 cker 
+: 350 4 6 ’til 
+: 355 3 3 some 
+: 359 3 6 fo
+: 363 3 6 llo
+: 367 3 3 wers 
+: 371 3 6 see 
+- 376
+: 379 2 0 You’re 
+: 382 2 3 gon
+: 385 2 3 na 
+: 390 2 6 watch 
+: 394 6 6 your, 
+: 403 6 6 bet
+: 410 4 3 ter 
+: 424 2 3 watch 
+: 428 6 3 you 
+: 435 6 -5 through 
+- 443
+: 445 4 3 Bet 
+: 450 2 3 she 
+: 453 7 -3 steals 
+: 462 3 3 the 
+: 466 4 3 show 
+: 474 2 3 and 
+: 478 6 3 don’t 
+: 486 14 0 get 
+: 503 11 0 to 
+: 515 33 0 you 
+- 550
+: 556 5 -1 She’s 
+: 562 4 -1 a 
+* 567 3 0 rock 
+* 571 4 0 n 
+* 576 4 0 roll 
+: 581 24 0 queen 
+- 607
+: 635 9 -4 Oh 
+: 645 31 0 yeah 
+- 678
+: 700 6 0 She’ll 
+: 710 6 6 drag 
+: 717 3 6 you 
+: 723 8 6 in 
+: 733 3 3 and 
+: 737 4 3 give 
+: 742 6 5 you 
+: 749 3 5 what 
+: 754 3 5 you 
+: 758 5 0 need 
+- 765
+: 767 7 0 She’ll 
+: 775 3 6 pin 
+: 781 4 6 you 
+: 787 5 3 down 
+- 794
+: 796 4 6 And 
+: 801 2 3 make 
+: 805 4 3 you 
+: 810 3 3 weak 
+: 814 2 3 at 
+: 817 2 3 the 
+: 820 14 0 knees 
+- 836
+* 838 4 0 Rock 
+* 843 3 0 n 
+* 847 8 0 roll 
+* 856 24 0 queen 
+- 882
+: 891 8 -4 Oh 
+: 900 32 5 yeah 
+- 934
+: 956 9 0 She’ll 
+: 966 5 0 drag 
+: 973 5 0 you 
+: 980 9 0 in 
+: 991 2 0 and 
+: 994 3 0 give 
+: 998 6 0 you 
+: 1005 5 0 what 
+: 1011 3 0 you 
+: 1015 2 0 need 
+- 1019
+: 1021 7 0 She’ll 
+: 1032 3 0 pin 
+: 1037 5 0 you 
+: 1043 7 0 down 
+: 1052 3 0 and 
+: 1056 3 0 make 
+: 1060 3 0 you 
+: 1064 9 0 weak 
+- 1075
+: 1079 7 0 At 
+: 1087 5 0 the 
+: 1093 36 0 knees 
+- 1131
+: 1223 10 -3 Sweat 
+: 1239 8 -3 drip
+: 1248 4 -3 ping 
+: 1253 7 -3 down 
+: 1261 8 -2 your 
+: 1270 8 6 spine 
+- 1280
+: 1285 3 3 That 
+: 1289 3 6 makes 
+: 1293 5 3 you 
+: 1299 7 4 lose 
+: 1308 6 3 con
+: 1315 18 0 trol 
+- 1335
+: 1343 2 0 As 
+: 1348 3 0 she 
+: 1352 4 -3 takes 
+: 1357 3 -3 a 
+: 1361 7 -3 deep 
+: 1369 4 -5 breath, 
+: 1377 4 3 she 
+: 1382 3 6 takes 
+: 1388 5 6 a 
+: 1394 13 3 lead 
+- 1409
+: 1413 3 3 Screa
+: 1417 5 3 ming 
+: 1424 3 3 to 
+: 1428 2 3 the 
+: 1431 6 3 soul 
+: 1439 4 3 as 
+: 1444 4 3 it 
+: 1449 3 3 makes 
+: 1453 4 6 you 
+: 1458 21 3 bleed 
+- 1481
+: 1485 4 3 Hear 
+: 1492 4 -3 the 
+: 1497 20 -1 sound, 
+: 1520 3 -3 feel 
+: 1525 3 -3 the 
+: 1529 7 3 thun
+: 1537 9 6 der 
+- 1548
+: 1550 4 3 She’s 
+* 1556 4 3 e
+* 1561 5 3 lec
+* 1567 4 3 tric, 
+: 1582 3 3 she’s 
+: 1590 3 3 got 
+: 1595 4 3 it 
+: 1605 91 -2 all 
+- 1698
+: 1712 3 0 She’s 
+: 1716 3 3 a 
+: 1721 2 0 rock 
+: 1725 4 0 n 
+: 1730 6 0 roll 
+: 1737 19 0 queen 
+- 1758
+: 1788 10 -3 Oh 
+: 1801 27 2 yeah 
+- 1830
+: 1860 5 3 She’ll 
+: 1867 2 -3 drag 
+: 1872 4 6 you 
+: 1877 7 6 in 
+: 1885 4 6 and 
+: 1890 5 -3 give 
+: 1896 6 6 you 
+: 1903 2 6 what 
+: 1906 3 3 you 
+: 1910 8 3 need 
+- 1920
+: 1929 2 -3 She’ll 
+: 1934 3 6 pin 
+: 1938 4 3 you 
+: 1943 4 6 down 
+- 1949
+: 1951 2 3 And 
+: 1954 2 6 make 
+: 1957 2 3 you 
+: 1960 2 6 weak 
+: 1963 5 6 at 
+: 1969 3 3 the 
+: 1973 14 3 knees 
+- 1989
+: 1991 5 0 Rock 
+: 1997 3 0 n 
+: 2001 7 0 roll 
+: 2009 21 0 queen 
+- 2032
+: 2047 8 -3 Oh 
+: 2056 34 5 yeah 
+- 2092
+: 2112 5 -3 She’ll 
+: 2120 5 0 drag 
+: 2126 7 0 you 
+: 2134 7 0 in 
+: 2142 3 0 and 
+: 2146 5 0 give 
+: 2152 3 0 you 
+: 2158 5 0 what 
+: 2164 3 0 you 
+: 2168 3 0 need 
+- 2173
+: 2175 9 0 She’ll 
+: 2186 5 0 pin 
+: 2192 4 0 you 
+: 2197 6 0 down 
+- 2205
+: 2207 2 0 And 
+: 2210 2 0 make 
+: 2213 4 -2 you 
+: 2218 9 0 weak 
+: 2234 6 0 at 
+: 2242 6 0 the 
+: 2249 36 0 knees 
+- 2287
+: 2890 18 -2 Rock 
+: 2931 7 -2 n 
+: 2940 4 0 roll 
+: 2947 23 0 queen 
+- 2972
+* 3017 16 0 Rock 
+* 3059 5 -2 n 
+* 3067 7 0 roll 
+* 3076 21 0 queen 
+- 3099
+: 3147 18 0 Rock 
+: 3188 5 0 n 
+: 3196 5 0 roll 
+: 3204 22 0 queen, 
+: 3243 27 3 yeah 
+- 3272
+: 3274 16 0 Rock 
+: 3316 4 0 n 
+: 3324 3 0 roll 
+: 3331 23 0 queen 
+- 3356
+: 3382 3 0 She’s 
+: 3388 2 0 a 
+: 3392 2 0 rock 
+: 3396 2 0 n 
+: 3399 3 0 roll 
+: 3404 22 0 queen 
+- 3428
+: 3457 9 -3 Oh 
+: 3468 27 1 yeah 
+- 3497
+: 3524 8 0 She’ll 
+: 3534 2 -3 drag 
+: 3539 2 6 you 
+: 3544 8 6 in 
+: 3554 3 -3 and 
+: 3558 5 -6 give 
+: 3564 2 -3 you 
+: 3567 4 6 what 
+: 3573 2 6 you 
+: 3576 8 3 need 
+- 3586
+: 3588 5 0 She’ll 
+: 3597 2 -3 pin 
+: 3602 2 3 you 
+: 3607 6 3 down 
+- 3615
+: 3618 3 3 And 
+: 3622 2 3 make 
+: 3625 2 3 you 
+: 3630 3 -3 weak 
+: 3635 3 3 at 
+: 3639 3 3 the 
+: 3643 12 0 knees 
+- 3657
+: 3659 5 -2 Rock 
+: 3665 3 0 n 
+: 3669 6 0 roll 
+: 3677 19 0 queen 
+- 3698
+: 3715 7 -2 Oh 
+: 3724 32 5 yeah 
+- 3758
+: 3778 9 0 She’ll 
+: 3790 2 0 drag 
+: 3795 3 0 you 
+: 3801 8 0 in 
+: 3810 2 0 and 
+: 3813 3 0 give 
+: 3819 2 0 you 
+: 3826 2 0 what 
+: 3829 5 0 you 
+: 3835 6 0 need 
+- 3843
+: 3845 6 -2 She’ll 
+: 3852 5 0 pin 
+: 3858 6 0 you 
+: 3865 3 0 down 
+- 3870
+: 3873 4 -2 And 
+: 3878 2 0 make 
+: 3881 2 0 you 
+: 3886 5 0 weak 
+: 3902 3 0 at 
+: 3907 5 -2 the 
+: 3913 18 0 knees 
+- 3933
+* 4155 6 3 Rock 
+* 4162 3 3 n 
+* 4166 6 -3 roll 
+* 4173 34 0 queen 
+E

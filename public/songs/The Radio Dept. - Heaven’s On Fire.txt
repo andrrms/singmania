@@ -1,0 +1,323 @@
+#ARTIST:The Radio Dept.
+#TITLE:Heaven’s On Fire
+#MP3:The Radio Dept. - Heaven’s On Fire.mp3
+#CREATOR:daggeg
+#YEAR:2010
+#LANGUAGE:English
+#BPM:260.97
+#GAP:360
+#VIDEO:a=jD2vVQMFFWI,co=heavens-on-fire-58542fb423605.jpg,bg=radio-dept-the-5230febbd9320.jpg
+F 0 1 0 “Peo
+F 2 1 0 ple 
+F 4 3 0 see 
+F 10 3 0 rock 
+F 14 1 0 and 
+F 16 3 0 roll 
+F 20 6 0 as, 
+- 27
+F 29 1 0 As 
+F 35 1 0 youth 
+F 40 1 0 cul
+F 44 4 0 ture, 
+F 50 1 0 And 
+F 55 1 0 when 
+F 58 1 0 youth 
+F 61 1 0 cul
+F 64 1 0 ture 
+F 68 1 0 be
+F 70 1 0 comes 
+- 72
+F 74 1 0 Mo
+F 76 1 0 no
+F 79 1 0 po
+F 82 3 0 lised 
+F 87 1 0 by 
+F 90 1 0 big 
+F 94 1 0 bu
+F 98 3 0 siness, 
+- 107
+F 110 1 0 What 
+F 112 1 0 are 
+F 114 1 0 the 
+F 116 1 0 youth 
+F 123 1 0 to 
+F 125 4 0 do? 
+- 139
+F 151 1 0 Do 
+F 153 2 0 you, 
+F 159 1 0 do 
+F 161 1 0 you 
+F 166 1 0 have 
+F 169 1 0 any 
+F 173 6 0 idea? 
+- 189
+F 205 1 0 I 
+F 208 1 0 think 
+F 211 1 0 we 
+F 215 1 0 should 
+F 218 2 0 de
+F 221 10 0 stroy 
+- 239
+F 242 3 0 The 
+F 246 1 0 bo
+F 250 1 0 gus 
+F 256 1 0 ca
+F 259 1 0 pi
+F 263 1 0 ta
+F 265 1 0 list 
+F 267 1 0 pro
+F 270 1 0 cess 
+- 281
+F 285 1 0 That 
+F 287 2 0 is 
+F 290 1 0 de
+F 292 2 0 stroy
+F 295 3 0 ing 
+F 299 4 0 youth 
+F 305 1 0 cul
+F 307 2 0 ture.” 
+- 343
+: 491 1 0 When 
+: 493 2 0 I 
+: 496 3 3 look 
+: 500 2 0 at 
+: 504 4 7 you
+: 509 1 5 ~
+: 511 7 7 ~, 
+- 525
+: 528 3 7 Hea
+: 532 2 7 ven’s 
+* 537 3 10 on 
+* 543 3 7 fi
+* 547 5 7 re 
+- 562
+: 575 1 0 I 
+: 577 1 0 wish 
+: 579 1 0 I 
+: 581 1 3 did
+: 583 2 0 n’t 
+: 589 2 7 know 
+: 593 5 7 you 
+: 601 2 5 bet
+: 604 3 3 ter, 
+- 610
+: 612 5 3 But 
+: 620 2 5 it’s 
+: 628 6 0 point
+: 637 11 -2 less 
+- 657
+: 661 3 5 One 
+: 667 2 5 look 
+: 670 2 3 at 
+: 675 5 7 you
+: 681 1 5 ~
+: 683 7 7 ~, 
+- 691
+: 693 3 5 And 
+: 699 1 5 hea
+: 701 2 5 ven’s 
+: 707 3 5 on 
+: 714 3 3 fi
+: 718 5 3 re 
+- 757
+: 917 1 0 When 
+: 919 2 0 I 
+: 922 2 3 look 
+: 925 2 0 at 
+: 930 4 7 you
+: 935 1 5 ~
+: 937 7 7 ~, 
+- 945
+: 947 1 7 I 
+: 949 3 7 reach 
+: 953 2 7 for 
+: 956 2 7 a 
+: 960 1 10 pi
+: 962 2 10 a
+: 965 2 10 no 
+: 970 2 7 wi
+: 973 8 7 re 
+- 991
+: 1001 2 0 Fight
+: 1004 2 0 ing 
+: 1007 2 3 to 
+: 1010 4 0 keep 
+: 1016 2 7 it 
+: 1020 6 7 to
+: 1028 2 5 ge
+: 1031 4 3 ther, 
+- 1037
+: 1039 5 3 But 
+: 1047 3 5 it’s 
+: 1054 6 0 point
+: 1063 10 3 less 
+- 1082
+: 1086 3 5 One 
+* 1092 3 5 look 
+* 1096 2 3 at 
+: 1101 4 7 you
+: 1106 6 5 ~ 
+- 1117
+: 1119 3 5 And 
+: 1124 3 5 hea
+: 1128 2 5 ven’s 
+: 1133 3 10 on 
+: 1139 6 3 fi
+: 1146 5 3 re, 
+- 1163
+: 1167 2 2 Hea
+: 1170 2 2 ven’s 
+: 1175 4 7 on 
+: 1182 6 0 fi
+: 1189 5 0 re 
+- 1228
+: 1292 2 7 It 
+* 1295 4 10 seems 
+* 1300 3 10 like 
+* 1305 4 10 e
+* 1310 4 10 very
+* 1316 2 10 one 
+: 1319 3 7 is 
+: 1325 3 5 on 
+: 1330 8 7 your 
+: 1341 16 5 side 
+- 1367
+: 1378 2 7 We’re 
+: 1382 3 10 out
+: 1386 4 10 num
+: 1391 3 10 bered 
+: 1396 3 10 by 
+: 1401 3 10 those 
+: 1405 3 7 who 
+: 1409 3 5 take 
+: 1415 8 7 no 
+: 1426 14 3 pride 
+- 1450
+: 1461 2 7 In 
+: 1464 6 10 con
+: 1471 4 10 stant
+: 1476 2 10 ly 
+: 1481 4 10 mov
+: 1486 3 10 ing 
+: 1492 1 7 a
+: 1494 5 5 gainst 
+: 1501 8 7 the 
+: 1512 15 5 tide 
+- 1537
+: 1549 5 10 Char
+: 1555 3 10 la
+: 1559 3 10 tans 
+: 1564 4 10 just 
+: 1570 4 10 out 
+: 1576 3 8 of 
+: 1580 4 7 reach 
+: 1585 4 8 and 
+: 1592 5 7 out 
+: 1600 5 5 of 
+: 1609 15 3 time 
+- 1658
+: 1769 2 0 I’m 
+: 1772 1 0 a 
+: 1774 2 3 litt
+: 1777 1 0 le 
+: 1779 2 0 like 
+* 1782 4 7 you
+* 1787 1 5 ~
+* 1789 7 7 ~, 
+- 1800
+: 1802 2 7 Ug
+: 1805 2 7 ly 
+: 1808 2 7 on 
+: 1811 2 7 the 
+: 1815 3 10 in
+: 1821 9 7 side 
+- 1840
+: 1852 2 0 But 
+: 1855 1 0 while 
+: 1857 1 0 I 
+: 1859 3 3 dive 
+: 1863 3 0 in
+: 1867 5 7 to 
+: 1875 3 7 the 
+: 1880 3 5 gri
+: 1884 3 3 tty 
+- 1889
+: 1891 4 3 You 
+: 1898 4 5 just 
+: 1906 5 0 stand 
+: 1915 12 3 by 
+- 1936
+: 1940 3 5 One 
+: 1944 3 5 look 
+: 1948 2 3 at 
+: 1952 4 7 you
+: 1958 6 5 ~ 
+- 1972
+: 1975 3 5 Hea
+: 1979 2 5 ven’s 
+: 1985 4 10 on 
+: 1993 3 3 fi
+: 1997 4 3 re 
+- 2011
+* 2020 3 2 Hea
+* 2024 2 2 ven’s 
+* 2028 4 7 on 
+* 2035 3 0 fi
+* 2039 4 0 re 
+- 2077
+: 2144 2 7 It 
+: 2147 4 10 seems 
+: 2152 3 10 like 
+: 2157 4 10 e
+: 2162 4 10 very
+: 2167 3 10 one 
+: 2172 3 7 is 
+: 2177 3 5 on 
+: 2183 6 7 your 
+: 2192 14 5 side 
+- 2216
+: 2231 1 7 We’re 
+: 2233 4 10 out
+: 2238 4 10 num
+: 2243 4 10 bered 
+: 2249 3 10 by 
+: 2253 4 10 those 
+: 2258 2 7 who 
+: 2261 5 5 take 
+: 2268 6 7 no 
+: 2279 15 3 pride 
+- 2304
+: 2313 2 7 In 
+: 2317 5 10 con
+: 2323 4 10 stant
+: 2328 2 10 ly 
+: 2333 4 10 mov
+: 2338 2 10 ing 
+: 2343 1 7 a
+: 2345 5 5 gainst 
+: 2352 7 7 the 
+: 2364 15 5 tide 
+- 2389
+: 2402 4 10 Char
+: 2407 4 10 la
+: 2412 4 10 tans 
+: 2419 4 10 out 
+: 2424 2 10 of 
+: 2427 4 8 reach 
+: 2434 3 7 and
+F 2438 4 8 ~ 
+* 2444 4 7 of 
+* 2450 9 5 time 
+- 2493
+: 2572 5 10 Char
+: 2578 3 10 la
+: 2582 4 10 tans 
+: 2587 4 10 just 
+: 2593 3 10 out 
+: 2597 4 8 of 
+: 2603 4 7 reach 
+: 2608 4 8 and 
+: 2615 4 7 out 
+: 2623 4 5 of 
+: 2632 15 3 time 
+E

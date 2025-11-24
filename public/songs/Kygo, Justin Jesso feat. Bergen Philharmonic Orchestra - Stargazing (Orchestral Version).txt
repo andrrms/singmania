@@ -1,0 +1,321 @@
+#ARTIST:Kygo, Justin Jesso feat. Bergen Philharmonic Orchestra
+#TITLE:Stargazing (Orchestral Version)
+#MP3:Kygo, Justin Jesso feat. Bergen Philharmonic Orchestra - Stargazing (Orchestral Version).mp3
+#CREATOR:bohning
+#COVER:Kygo, Justin Jesso feat. Bergen Philharmonic Orchestra - Stargazing (Orchestral Version) [CO].jpg
+#BACKGROUND:Kygo, Justin Jesso feat. Bergen Philharmonic Orchestra - Stargazing (Orchestral Version) [BG].jpg
+#GENRE:Pop
+#YEAR:2017
+#LANGUAGE:English
+#BPM:380.35
+#GAP:29820
+#VIDEO:a=eK-d2HGMhAU,co=stargazing-5e56d72ae4899.jpg,bg=kygo-5784001ce8b74.jpg
+: 0 4 4 You’re 
+: 8 4 4 say
+: 16 4 2 ing 
+: 24 4 4 it’s 
+: 32 12 5 hope
+: 48 12 -3 less 
+- 62
+: 72 4 -3 That 
+: 80 4 -5 I 
+: 88 4 -3 should 
+: 96 12 0 hope 
+: 112 12 -5 less 
+- 126
+: 136 4 4 Hea
+: 144 4 2 ven 
+: 152 4 4 can 
+: 160 12 5 help 
+: 176 8 -3 us 
+- 186
+: 192 4 -3 Well 
+: 200 4 -3 may
+: 208 4 -5 be 
+: 216 4 0 she’d 
+: 224 12 -5 might 
+- 238
+: 256 4 2 You 
+: 264 4 4 say 
+: 272 4 2 it’s 
+: 280 4 4 be
+: 288 12 5 yond 
+: 304 12 -3 us 
+- 318
+: 328 4 -3 What 
+: 336 4 -5 is 
+: 344 4 -3 be
+: 352 12 0 yond 
+: 368 8 -3 us? 
+- 378
+: 384 4 -3 Let’s 
+: 392 4 -3 see 
+: 400 4 -5 and 
+: 408 4 -7 de
+: 416 20 -8 cide 
+- 438
+: 512 4 4 We’ve 
+: 520 4 4 been 
+: 528 4 2 me
+: 536 4 4 te
+: 544 12 5 o
+: 560 12 -3 ric 
+- 574
+: 584 4 -3 E
+: 592 4 -5 ven 
+: 600 4 -3 be
+: 608 12 0 fore 
+: 624 12 -5 this 
+- 638
+: 648 4 4 Burns 
+: 656 4 2 half 
+: 664 4 4 as 
+: 672 12 5 long 
+: 688 12 -3 when 
+- 702
+: 704 4 -3 It’s 
+: 712 4 -3 twi
+: 720 4 -5 ~ce 
+: 728 4 0 as 
+: 736 12 -5 bright 
+- 750
+: 768 4 4 So 
+: 776 4 4 if 
+: 784 4 2 it’s 
+: 792 4 4 be
+: 800 12 5 yond 
+: 816 12 -3 us 
+- 830
+: 840 4 -3 Then 
+: 848 4 -5 it’s 
+: 856 4 -3 be
+: 864 12 0 yond 
+: 880 8 -5 us 
+- 890
+: 896 4 -3 Let’s 
+: 904 4 -3 see 
+: 912 4 -5 and 
+: 920 4 -7 de
+: 928 20 -5 cide 
+- 950
+: 1056 4 0 And 
+: 1064 4 12 I 
+: 1072 4 9 will 
+: 1080 4 7 still 
+: 1088 4 5 be 
+: 1096 32 0 here 
+- 1130
+: 1144 12 2 Star
+: 1160 12 5 ga
+: 1176 8 9 zing 
+- 1186
+: 1200 4 2 I’ll 
+: 1208 4 2 still 
+: 1216 4 0 look 
+: 1224 6 9 up, 
+: 1240 4 0 look 
+: 1248 6 9 up 
+- 1256
+: 1264 4 5 Look 
+: 1272 4 7 up 
+: 1280 4 9 for 
+: 1288 12 7 lo
+: 1304 12 5 ~ve 
+- 1318
+: 1320 4 12 I 
+: 1328 4 9 will 
+: 1336 4 7 still 
+: 1344 4 5 be 
+: 1352 32 0 here 
+- 1386
+: 1400 12 2 Star
+: 1416 12 5 ga
+: 1432 8 9 zing 
+- 1442
+: 1456 4 2 I’ll 
+: 1464 4 2 still 
+: 1472 4 0 look 
+: 1480 6 9 up, 
+: 1496 4 0 look 
+: 1504 6 9 up 
+- 1512
+: 1520 4 5 Look 
+: 1528 4 7 up 
+: 1536 4 9 for 
+: 1544 12 7 lo
+: 1560 124 5 ~ve 
+- 1686
+: 2072 4 0 Look 
+: 2080 6 9 up, 
+: 2096 4 5 look 
+: 2104 4 7 up 
+: 2112 4 9 for 
+: 2120 12 7 lo
+: 2136 20 5 ~ve 
+- 2158
+: 2172 8 4 I’m 
+: 2184 4 4 try
+: 2192 4 2 ing 
+: 2200 4 4 to 
+: 2208 12 5 save 
+: 2224 8 -3 us 
+- 2234
+: 2240 4 -3 You 
+: 2248 4 -3 don’t 
+: 2256 4 -5 wan
+: 2264 4 -3 na 
+: 2272 12 0 save 
+: 2288 8 -5 us 
+- 2298
+: 2304 4 4 You 
+: 2312 4 4 blame 
+: 2320 4 2 hu
+: 2328 4 4 man 
+: 2336 12 5 na
+: 2352 6 -3 ture 
+- 2360
+: 2368 4 -3 And 
+: 2376 4 -3 say 
+: 2384 4 -5 it’s 
+: 2392 4 0 un
+: 2400 12 -5 kind 
+- 2414
+: 2432 4 4 Let’s 
+: 2440 4 4 make 
+: 2448 4 2 up 
+: 2456 4 4 our 
+: 2464 12 5 own 
+: 2480 12 -3 minds 
+- 2494
+: 2504 4 -3 We’ve 
+: 2512 4 -5 got 
+: 2520 4 -3 our 
+: 2528 12 0 whole 
+: 2544 8 -5 lives 
+- 2554
+: 2560 4 -3 Let’s 
+: 2568 4 -3 see 
+: 2576 4 -3 and 
+: 2584 4 0 de
+: 2592 20 0 cide 
+- 2614
+: 2648 4 5 De
+: 2656 28 7 cide 
+- 2686
+: 2720 4 5 And 
+: 2728 4 12 I 
+: 2736 4 9 will 
+: 2744 4 7 still 
+: 2752 4 5 be 
+: 2760 32 0 here 
+- 2794
+: 2808 12 2 Star
+: 2824 12 5 ga
+: 2840 8 9 zing 
+- 2850
+: 2864 4 2 I’ll 
+: 2872 4 2 still 
+: 2880 4 0 look 
+: 2888 6 9 up, 
+: 2904 4 0 look 
+: 2912 6 9 up 
+- 2920
+: 2928 4 5 Look 
+: 2936 4 7 up 
+: 2944 4 9 for 
+: 2952 12 7 lo
+: 2968 8 5 ~ve 
+- 2978
+: 2984 4 12 Stars 
+: 2992 4 9 don’t 
+: 3000 4 7 dis
+: 3008 4 5 ap
+: 3016 28 0 pear 
+- 3046
+: 3056 4 0 They 
+: 3064 12 2 keep 
+: 3080 12 5 bla
+: 3096 8 9 zing 
+- 3106
+: 3120 2 5 E
+: 3124 2 5 ven 
+: 3128 4 5 when 
+: 3136 2 5 the 
+: 3140 8 7 night 
+: 3152 4 7 is 
+: 3160 4 9 o
+: 3168 4 0 ver 
+- 3174
+: 3200 4 5 That’s 
+: 3208 4 4 how 
+: 3216 4 4 I 
+: 3224 4 4 find 
+: 3232 2 4 the 
+: 3236 10 4 li
+: 3248 112 5 ~ght 
+- 3362
+: 3456 4 4 That’s 
+: 3464 4 4 how 
+: 3472 4 4 I 
+: 3480 4 4 find 
+: 3488 2 4 the 
+: 3492 10 4 li
+: 3504 88 5 ~ght 
+- 3594
+: 3696 12 2 Star
+: 3712 12 5 ga
+: 3728 68 9 zi
+: 3800 44 7 ~n 
+- 3846
+: 4240 4 5 And 
+: 4248 4 12 I 
+: 4256 4 9 will 
+: 4264 4 7 still 
+: 4272 8 5 be 
+: 4284 28 0 here 
+- 4314
+: 4324 12 2 Star
+: 4340 12 5 ga
+: 4356 8 9 zing 
+- 4366
+: 4380 4 2 I’ll 
+: 4388 4 2 still 
+: 4396 4 0 look 
+: 4404 6 9 up, 
+: 4420 4 0 look 
+: 4428 6 9 up 
+- 4436
+: 4452 4 5 Look 
+: 4460 4 7 for 
+: 4468 4 9 lo
+: 4476 6 7 ~
+: 4484 14 5 ~ve 
+- 4499
+: 4500 4 12 Stars 
+: 4508 4 9 don’t 
+: 4516 4 7 dis
+: 4524 4 5 ap
+: 4532 28 0 pear 
+- 4562
+: 4572 4 0 They 
+: 4580 12 2 keep 
+: 4596 12 5 bla
+: 4612 8 9 zing 
+- 4622
+: 4640 2 5 E
+: 4644 2 5 ven 
+: 4648 4 5 when 
+: 4656 2 5 the 
+: 4660 8 7 night 
+: 4672 4 7 is 
+: 4680 4 9 o
+: 4688 4 0 ver 
+- 4694
+: 4716 4 5 That’s 
+: 4724 4 4 how 
+: 4732 4 4 I 
+: 4740 4 4 find 
+: 4748 2 4 the 
+: 4752 10 4 li
+: 4764 112 5 ~ght 
+E

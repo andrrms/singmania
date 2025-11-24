@@ -1,0 +1,225 @@
+#ARTIST:Joey Ramone
+#TITLE:What A Wonderful World
+#MP3:Joey Ramone - What A Wonderful World.mp3
+#CREATOR:znxineohp
+#GENRE:Rock
+#YEAR:2002
+#LANGUAGE:English
+#BPM:337.67
+#GAP:54110
+#VIDEO:v=8IoO5nkxT_4,co=https://i.discogs.com/YMemNNfefzrAzbdMSvMRLsxk76SDB5JSuLaA0saIO50/rs:fit/g:sm/q:90/h:534/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIx/MDAtMTQxODgyNDU1/Ny03NTQ1LmpwZWc.jpeg,bg=ramone-joey-50acddf8e739c.jpg
+: 0 7 0 I 
+: 8 7 4 see 
+: 16 24 5 trees 
+: 42 5 9 of 
+: 48 10 12 green, 
+- 60
+: 89 7 14 Red 
+: 97 4 14 ros
+: 102 6 14 es 
+: 110 12 12 too 
+- 124
+: 145 12 10 I 
+: 159 5 10 see 
+: 166 7 10 them 
+: 175 17 9 bloom 
+- 194
+: 210 11 9 For 
+: 222 6 7 me 
+: 229 8 7 and 
+: 239 14 5 you 
+- 255
+: 256 6 5 And 
+: 263 7 5 I 
+: 273 14 5 say 
+: 290 5 5 to 
+: 297 6 5 my
+: 304 12 5 self 
+- 318
+: 353 10 5 What 
+: 365 6 5 a 
+: 372 10 4 won
+: 383 6 5 der
+: 390 8 7 ful 
+* 400 53 9 wo
+* 454 4 10 r
+* 459 6 9 l
+* 466 14 7 d 
+- 482
+: 513 8 0 I 
+: 522 6 4 see 
+: 530 24 5 skies 
+: 556 3 9 of 
+: 560 9 12 blue 
+- 571
+: 604 6 14 And 
+: 611 7 14 clouds 
+: 620 4 14 of 
+: 625 9 12 white 
+- 636
+: 659 13 10 Bright 
+: 674 5 10 sun
+: 680 6 10 ny 
+: 688 20 9 days, 
+- 710
+: 723 13 7 Dark 
+: 737 5 7 sac
+: 743 9 7 red 
+: 753 14 5 nights 
+- 769
+: 770 6 5 And 
+: 777 7 5 I 
+: 786 13 5 think 
+: 801 5 5 to 
+: 808 6 5 my
+: 815 13 5 self 
+- 830
+: 866 10 5 What 
+: 877 5 5 a 
+: 884 11 4 won
+: 896 7 5 der
+: 904 3 7 fu
+: 908 7 5 l 
+: 916 36 5 world 
+- 954
+: 1024 11 5 The 
+: 1043 7 7 col
+: 1051 9 7 ours 
+: 1062 6 7 of 
+: 1069 5 7 the 
+: 1075 6 7 rain
+: 1082 8 7 bow 
+: 1093 6 5 are 
+: 1101 6 3 so 
+: 1108 3 10 pret
+: 1112 9 9 ty 
+: 1123 9 9 in 
+: 1133 5 8 the 
+: 1139 3 9 ski
+: 1143 11 9 es 
+- 1156
+: 1167 6 5 Are 
+: 1174 5 7 al
+: 1180 7 7 so 
+: 1188 7 7 on 
+: 1196 4 7 the 
+: 1201 8 7 fac
+: 1210 7 5 es 
+- 1219
+: 1228 7 7 Of 
+: 1236 5 10 peo
+: 1242 9 9 ple 
+: 1253 7 9 wal
+: 1261 4 8 king 
+: 1267 10 9 by 
+- 1279
+: 1284 8 9 I 
+: 1293 7 12 see 
+: 1301 11 14 friends 
+: 1314 7 14 shak
+: 1322 7 14 ing 
+: 1330 14 12 hands 
+: 1346 6 9 say
+: 1353 5 12 ing 
+- 1360
+: 1365 12 14 How 
+: 1378 5 14 do 
+: 1385 6 14 you 
+: 1393 13 12 do? 
+- 1408
+: 1429 13 14 They’re 
+: 1444 5 14 real
+: 1450 8 14 ly 
+: 1460 14 12 say
+: 1475 13 9 ing 
+- 1490
+: 1493 16 10 I 
+: 1511 3 9 lo
+: 1515 7 7 ve 
+: 1525 10 7 you 
+- 1537
+: 1542 6 0 I 
+: 1549 7 4 see 
+: 1557 9 5 ba
+: 1567 8 9 bies 
+: 1583 6 12 c
+: 1590 14 14 ry, 
+: 1626 3 12 Oh 
+: 1630 7 14 I 
+: 1638 5 14 watch 
+: 1645 6 14 them 
+: 1653 8 12 grow 
+- 1663
+: 1686 10 10 They’ll 
+: 1698 8 10 learn 
+: 1707 6 10 much 
+: 1717 12 9 more 
+: 1731 4 9 th
+: 1736 9 7 an 
+: 1751 10 7 I’ll 
+: 1766 4 9 ev
+: 1771 8 7 er 
+: 1782 9 5 know 
+- 1793
+: 1796 6 5 And 
+: 1804 7 5 I 
+: 1814 11 5 think 
+: 1828 6 5 to 
+: 1836 6 5 my
+: 1843 13 5 self 
+- 1858
+: 1894 9 5 What 
+: 1904 5 5 a 
+: 1910 12 4 won
+: 1923 6 5 der
+: 1930 9 7 ful 
+* 1941 2 7 w
+* 1944 30 9 o
+* 1975 19 7 r
+* 1995 4 9 l
+* 2000 7 7 ~
+* 2008 12 5 d 
+- 2022
+: 2055 7 9 Yes, 
+: 2064 6 9 I 
+: 2071 13 9 think 
+: 2086 5 5 to 
+: 2092 7 7 my
+: 2103 19 5 self 
+- 2124
+: 2153 7 5 What 
+: 2161 6 5 a 
+: 2169 11 4 won
+: 2181 6 5 der
+: 2188 12 7 ful 
+: 2203 29 9 w
+: 2233 18 7 o
+: 2252 5 9 r
+: 2258 7 7 l
+: 2266 30 5 d 
+- 2298
+* 2328 33 9 W
+* 2362 18 7 o
+* 2381 4 9 r
+* 2386 5 7 l
+* 2392 39 5 d 
+- 2433
+: 2439 8 9 And 
+: 2448 7 9 I 
+: 2457 14 9 say 
+: 2473 5 5 to 
+: 2479 8 7 my
+: 2488 21 5 self 
+- 2511
+: 2622 8 5 What 
+: 2633 5 5 a 
+* 2640 14 4 won
+* 2655 6 5 der
+* 2662 4 7 fu
+* 2667 30 5 l 
+* 2706 31 9 w
+* 2738 26 7 o
+* 2765 6 5 r
+* 2772 33 3 l
+* 2806 74 5 d 
+E

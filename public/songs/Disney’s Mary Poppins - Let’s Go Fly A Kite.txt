@@ -1,0 +1,203 @@
+#ARTIST:Disney’s Mary Poppins
+#TITLE:Let’s Go Fly A Kite
+#MP3:Disney’s Mary Poppins - Let’s Go Fly A Kite.mp3
+#CREATOR:MasterChristian
+#COVER:Disney’s Mary Poppins - Let’s Go Fly A Kite [CO].jpg
+#BACKGROUND:Disney’s Mary Poppins - Let’s Go Fly A Kite [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1964
+#LANGUAGE:English
+#BPM:201
+#GAP:420
+#VIDEO:a=n1cnjuEiVuE,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/2e/9b/672e9bf3-5683-c815-a11c-891c1ca70afe/00050086070671.rgb.jpg/5000x5000bb.jpg
+: 0 3 3 With 
+: 4 3 2 tup
+: 8 5 2 pence 
+: 14 3 2 for 
+: 18 3 2 pa
+: 22 3 2 per 
+: 26 3 1 and 
+: 30 12 2 strings 
+- 44
+: 46 3 5 You 
+: 50 3 3 can 
+: 54 6 2 have 
+: 61 4 2 your 
+: 66 4 2 own 
+: 71 2 1 set 
+: 74 3 2 of 
+: 78 11 3 wings 
+- 92
+: 94 3 2 With 
+: 98 4 3 your 
+: 103 3 5 feet 
+: 107 3 4 on 
+: 111 3 5 the 
+: 115 6 6 ground 
+- 121
+: 122 2 5 You’re 
+: 125 3 6 a 
+: 129 9 7 bird 
+: 139 5 7 in 
+: 145 15 10 flight 
+- 162
+: 164 10 9 With 
+: 175 9 7 your 
+: 185 5 5 fist 
+: 191 3 5 hol
+: 195 3 5 ding 
+: 199 3 5 tight 
+- 211
+: 215 3 0 To 
+: 219 2 2 the 
+: 222 3 3 string 
+: 226 3 2 of 
+: 230 3 0 your 
+: 234 5 -2 kite 
+- 244
+: 246 10 2 Oh 
+: 257 11 5 oh 
+: 269 9 10 oh 
+- 278
+: 279 12 10 Let’s 
+: 294 10 10 go 
+: 306 8 10 fly 
+: 315 3 9 a 
+: 319 5 7 kite 
+- 327
+: 329 4 10 Up 
+: 342 7 10 to 
+: 350 3 12 the 
+: 354 8 10 high
+: 363 3 7 est 
+: 367 6 5 height 
+- 374
+: 376 12 9 Let’s 
+: 390 10 9 go 
+: 401 8 9 fly 
+: 410 4 7 a 
+: 415 3 5 kite 
+- 419
+: 421 4 3 And 
+: 426 11 2 send 
+: 438 11 3 it 
+: 450 11 4 soa
+: 462 8 5 ring 
+- 470
+: 472 4 10 Up 
+: 484 8 10 through 
+: 493 4 12 the 
+: 498 6 10 at
+: 505 3 9 mos
+: 509 6 7 phere 
+- 517
+: 519 4 10 Up 
+: 530 8 10 where 
+: 539 4 10 the 
+* 544 7 14 air 
+: 552 3 12 is 
+: 556 8 10 clear 
+- 565
+: 567 11 9 Oh, 
+: 579 11 9 let’s 
+: 591 12 9 go 
+: 607 3 10 fly 
+: 611 3 12 a 
+: 615 3 10 kite 
+- 631
+: 654 3 3 When 
+: 658 3 2 you 
+: 662 6 2 send 
+: 669 3 2 it 
+: 673 3 2 fly
+: 677 2 2 in’ 
+: 680 3 1 up 
+: 684 8 2 there 
+- 698
+: 701 3 5 All 
+: 705 3 3 at 
+: 709 5 2 once 
+: 715 5 2 you’re 
+: 721 2 2 ligh
+: 724 3 1 ter 
+: 728 4 2 than 
+: 733 6 3 air 
+- 745
+: 747 3 2 You 
+: 751 3 3 can 
+: 755 4 5 dance 
+: 760 3 4 on 
+: 764 3 5 the 
+: 768 4 6 breeze 
+- 772
+: 773 3 5 O
+: 777 3 6 ver 
+: 781 5 7 hou
+: 787 3 7 ses 
+: 791 3 7 and 
+: 795 19 10 trees 
+- 814
+: 815 5 9 With 
+: 821 12 7 your 
+: 834 4 5 fist 
+: 839 2 5 hol
+: 842 4 5 ding 
+: 847 4 5 tight 
+- 859
+: 862 3 0 To 
+: 866 2 2 the 
+: 869 4 3 string 
+: 874 2 2 of 
+: 877 3 0 your 
+: 881 4 -2 kite 
+- 892
+* 895 10 2 Oh 
+* 906 11 5 oh 
+* 918 10 10 oh 
+- 928
+: 929 10 10 Let’s 
+: 940 11 10 go 
+: 952 8 10 fly 
+: 961 3 9 a 
+: 965 4 7 kite 
+- 974
+: 976 4 10 Up 
+: 988 7 10 to 
+: 996 3 12 the 
+: 1000 8 10 high
+: 1009 3 7 est 
+: 1013 3 5 height 
+- 1022
+: 1024 6 9 Let’s 
+: 1036 11 9 go 
+: 1048 6 9 fly 
+: 1055 4 7 a 
+: 1060 7 5 kite 
+- 1067
+: 1068 3 3 And 
+: 1072 10 2 send 
+: 1083 11 3 it 
+: 1095 11 4 soa
+: 1107 11 5 ring 
+- 1118
+: 1119 4 10 Up 
+: 1131 8 10 through 
+: 1140 3 12 the 
+: 1144 6 10 at
+: 1151 4 9 mos
+: 1156 10 7 phere 
+- 1166
+: 1167 4 10 Up 
+: 1179 7 10 where 
+: 1187 3 10 the 
+: 1191 7 14 air 
+: 1199 3 12 is 
+: 1203 7 10 clear 
+- 1213
+: 1215 10 9 Oh, 
+: 1226 11 9 let’s 
+: 1238 36 9 go 
+: 1278 3 10 fly 
+: 1282 3 12 a 
+* 1286 48 10 kite 
+E

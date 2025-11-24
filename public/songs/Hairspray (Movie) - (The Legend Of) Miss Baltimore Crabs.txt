@@ -1,0 +1,561 @@
+#ARTIST:Hairspray (Movie)
+#TITLE:(The Legend Of) Miss Baltimore Crabs
+#MP3:Hairspray (Movie) - (The Legend Of) Miss Baltimore Crabs.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:2007
+#LANGUAGE:English
+#BPM:300
+#GAP:32750
+#VIDEO:v=uCW-iFgUbKY,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/87/01/df870100-3f48-68f9-2db3-5f7d70d3e998/794043909825.jpg/5000x5000bb.jpg
+: 0 10 0 Oh 
+: 14 2 -3 my 
+: 19 11 2 God 
+- 31
+: 33 2 0 How 
+: 38 8 4 times 
+: 50 2 2 have 
+: 55 9 5 changed 
+- 65
+: 67 2 5 These 
+: 73 4 7 girls 
+: 80 3 5 must 
+: 86 2 7 be 
+: 91 3 9 blind 
+: 97 3 7 or 
+- 106
+* 108 1 5 Com
+F 112 3 6 plete
+F 118 4 6 ly 
+F 124 2 6 der
+F 128 10 6 anged 
+- 138
+: 140 2 0 But 
+: 144 7 2 time 
+: 155 1 0 seemed 
+: 158 2 4 to 
+: 161 9 2 halt 
+- 172
+: 174 2 0 When 
+: 179 4 2 I 
+: 186 5 0 was 
+: 194 3 4 “Miss 
+: 200 4 2 Bal
+: 206 2 0 ti
+: 211 7 -1 more 
+: 222 14 0 Crabs” 
+- 238
+F 240 2 6 Am
+F 244 3 6 ber! 
+F 249 4 6 That 
+F 257 2 6 move 
+F 262 2 6 is 
+F 266 3 6 far 
+F 271 3 6 too 
+F 276 2 6 dir
+F 280 1 6 ty 
+- 281
+F 282 1 6 Mo
+F 284 2 6 ther, 
+F 288 1 6 wake 
+F 291 2 6 up 
+F 296 2 6 from 
+F 300 2 6 that 
+F 305 2 6 dream 
+- 307
+F 309 2 6 Of 
+F 314 2 6 yours. 
+- 317
+F 319 2 6 This 
+F 323 2 6 is
+F 327 2 6 n’t 
+F 332 2 6 1
+F 336 2 6 9
+F 341 2 6 3
+F 345 5 6 0! 
+- 356
+: 359 10 0 You 
+: 372 2 -3 can 
+: 377 9 2 laugh 
+: 390 2 2 but 
+: 395 10 4 life’s 
+: 407 2 2 a 
+: 411 5 5 test 
+- 417
+: 419 3 4 Don’t 
+: 424 2 5 do 
+: 430 3 7 this, 
+: 437 3 5 don’t 
+: 443 2 7 do 
+: 448 2 8 that 
+- 450
+* 452 2 7 Re
+* 456 2 7 mem
+* 461 7 5 ber 
+F 474 1 6 Mot
+F 477 2 6 ther 
+F 480 1 6 knows 
+F 483 10 6 best 
+- 495
+: 497 2 0 For 
+: 501 2 4 the 
+: 504 8 2 crown’s 
+: 515 1 0 in 
+: 518 2 4 the 
+: 522 7 2 vault 
+- 531
+: 533 2 0 From 
+: 538 2 -1 when 
+: 541 3 2 I 
+: 547 3 0 won 
+: 553 3 4 “Miss 
+* 558 3 0 Bal
+* 563 2 -1 ti
+* 567 9 0 more 
+* 580 18 5 Crabs” 
+- 598
+F 599 2 6 These 
+F 603 2 6 steps 
+F 606 3 6 are 
+F 611 2 6 per
+F 615 2 6 fect 
+F 620 2 6 amm
+F 624 2 6 u
+F 628 2 6 ni
+F 632 2 6 tion 
+- 634
+F 636 3 6 Let 
+F 641 3 6 me 
+F 646 3 6 show 
+F 651 2 6 you 
+F 655 3 6 how 
+F 660 3 6 your 
+F 665 2 6 mom
+F 669 2 6 my 
+F 672 4 6 dear 
+- 676
+F 677 2 6 Took 
+F 682 2 6 out 
+F 687 2 6 the 
+F 691 2 6 comp
+F 696 2 6 e
+F 700 2 6 ti
+F 704 7 6 tion 
+- 716
+F 718 8 6 Girls, 
+F 730 2 6 go 
+F 735 2 6 get 
+F 739 7 6 ’em! 
+F 753 7 6 Boys, 
+F 762 4 6 let’s 
+F 771 2 6 rhum
+F 775 6 6 ba! 
+- 801
+: 857 1 5 Those 
+: 861 4 5 poor 
+: 867 4 7 run
+: 874 1 8 ner-
+: 879 5 8 ups 
+- 890
+: 892 2 5 Might 
+: 897 4 8 still 
+: 904 2 7 hold 
+: 911 2 5 some 
+: 915 2 8 grud
+: 920 6 7 ges 
+- 927
+: 929 2 5 They 
+: 934 2 4 pad
+: 939 4 5 ded 
+: 946 2 7 their 
+: 950 8 7 ’cups’ 
+- 963
+: 965 1 4 But 
+: 969 2 7 I 
+* 975 4 5 screwed 
+* 982 2 4 the 
+* 986 2 5 judg
+* 992 5 4 es 
+- 998
+: 1000 2 4 Those 
+: 1005 2 4 broads 
+: 1010 4 2 thought 
+: 1017 2 5 they’d 
+: 1022 7 3 win 
+- 1031
+: 1033 2 4 If 
+: 1037 2 4 a 
+: 1040 4 7 plate 
+: 1048 3 5 they 
+: 1053 3 10 would 
+: 1059 7 8 spin 
+- 1066
+: 1068 2 7 In 
+: 1073 5 5 their 
+: 1082 18 7 dance 
+- 1110
+F 1120 2 6 Not 
+F 1125 2 6 a 
+F 1129 8 6 chance! 
+- 1143
+F 1146 12 6 Boys, 
+F 1160 3 6 put 
+F 1164 2 6 me 
+F 1168 6 6 down. 
+- 1180
+F 1182 6 6 Oh, 
+F 1194 2 6 good 
+F 1198 2 6 mor
+F 1201 2 6 ning 
+F 1205 2 6 la
+F 1208 5 6 dies 
+- 1214
+F 1216 2 6 Let’s 
+F 1220 2 6 see 
+F 1224 3 6 what 
+F 1229 2 6 you’ve 
+F 1233 7 6 got. 
+- 1251
+F 1255 4 6 Twist 
+F 1263 5 6 twist 
+F 1272 4 6 twist 
+F 1281 4 6 twist 
+- 1288
+F 1290 1 6 Mashed 
+F 1294 1 6 po
+F 1299 2 6 ta
+F 1303 2 6 to 
+F 1308 4 6 mam
+F 1317 3 6 bo 
+- 1322
+F 1324 2 6 Rea
+F 1330 4 6 dy? 
+F 1339 1 6 Beg
+F 1343 4 6 in, 
+- 1349
+F 1351 2 6 On 
+F 1356 2 6 my 
+F 1361 2 6 show 
+F 1366 2 6 you’ll 
+F 1371 1 6 ne
+F 1374 1 6 ver 
+F 1377 3 6 find 
+- 1382
+F 1384 2 6 A 
+F 1389 2 6 thrus
+F 1394 2 6 ting 
+F 1398 2 6 hip 
+F 1403 2 6 or 
+F 1407 2 6 bump 
+F 1411 2 6 and 
+F 1416 2 6 grind 
+- 1419
+F 1421 2 6 What’s 
+F 1425 2 6 that, 
+F 1429 2 6 a 
+F 1433 3 6 dance 
+F 1438 2 6 for 
+F 1443 2 6 fleas 
+F 1447 2 6 and 
+F 1452 2 6 ticks? 
+- 1455
+F 1457 2 6 You 
+F 1462 3 6 should 
+F 1467 1 6 have 
+F 1470 2 6 seen 
+F 1473 3 6 my 
+F 1478 2 6 bag 
+F 1482 2 6 of 
+F 1487 3 6 tricks! 
+- 1492
+: 1494 5 4 Ohh 
+: 1501 2 2 I 
+: 1506 6 0 hit 
+: 1518 2 -3 the 
+: 1523 10 2 stage 
+* 1537 2 0 ba
+* 1541 9 4 tons 
+* 1554 2 2 a
+* 1559 8 5 blaze 
+- 1570
+: 1572 2 5 While 
+: 1577 3 7 bel
+: 1583 4 5 ting 
+: 1589 3 7 A
+* 1595 2 8 i
+: 1600 4 7 da 
+- 1605
+: 1607 1 5 And 
+: 1610 1 5 pre
+: 1613 2 8 par
+: 1619 3 7 ing 
+: 1627 1 24 sou
+: 1631 9 17 ffles 
+- 1642
+: 1644 2 2 But 
+: 1647 2 2 that 
+F 1650 3 6 tri
+F 1655 3 6 ple 
+F 1661 2 6 so
+F 1665 1 6 mmer
+F 1667 6 6 sault 
+- 1677
+: 1679 2 0 Was 
+: 1683 1 0 how 
+: 1685 4 2 I 
+: 1691 3 -1 clinched 
+: 1697 3 0 “Miss 
+: 1703 2 8 Bal
+: 1708 3 4 ti
+: 1715 12 7 more 
+: 1732 46 7 Crabs” 
+- 1818
+F 2335 3 6 Pro
+F 2341 8 6 ceed. 
+- 2353
+F 2355 3 6 Are 
+F 2360 3 6 you 
+F 2365 6 6 scared 
+F 2375 2 6 we’re 
+F 2379 2 6 on 
+F 2383 5 6 live? 
+- 2390
+F 2392 3 6 No, 
+F 2397 4 6 I’m 
+F 2404 4 6 sure 
+F 2410 2 6 I 
+F 2414 2 6 can 
+F 2418 6 6 cope! 
+- 2425
+F 2427 2 6 Well, 
+F 2431 3 6 this 
+F 2436 6 6 show 
+F 2445 2 6 isn’t
+F 2449 2 6 n’t 
+F 2453 4 6 broad
+F 2459 4 6 cast 
+- 2464
+F 2466 7 6 In 
+F 2481 1 6 Cine
+F 2484 2 6 e
+F 2487 2 6 ma
+F 2491 6 6 scope 
+- 2497
+F 2499 3 6 I 
+F 2503 2 6 ne
+F 2507 1 6 ver 
+F 2509 4 6 drank 
+F 2515 3 6 one 
+F 2521 3 6 choc’
+F 2526 2 6 late 
+F 2531 5 6 malt 
+- 2537
+F 2539 3 6 No 
+F 2546 3 6 dess
+F 2551 3 6 erts 
+F 2557 3 6 for 
+: 2562 4 4 “Miss 
+: 2569 4 2 Bal
+: 2576 3 0 ti
+: 2581 7 -2 more 
+* 2591 17 0 Crabs” 
+- 2618
+F 2643 2 6 This 
+F 2646 4 6 one 
+F 2651 2 6 will 
+F 2655 2 6 ne
+F 2658 2 6 ver 
+F 2662 2 6 get 
+F 2665 2 6 a 
+F 2668 5 6 date 
+- 2673
+F 2674 1 6 In 
+F 2678 2 6 those 
+F 2685 1 6 hand-
+F 2691 1 6 me-
+F 2695 2 6 down 
+F 2703 8 6 clothes 
+- 2719
+F 2722 5 6 Kid, 
+F 2733 2 6 she’ll 
+F 2736 1 6 ne
+F 2739 1 6 ver 
+F 2741 2 6 get 
+F 2744 1 6 a 
+F 2746 4 6 date 
+- 2750
+F 2751 2 6 ’Til 
+F 2755 2 6 da
+F 2759 1 6 ddy 
+F 2762 3 6 buys 
+F 2767 3 6 her 
+F 2771 2 6 a 
+F 2774 2 6 new 
+F 2777 8 6 nose 
+- 2785
+F 2787 2 6 I 
+F 2792 1 6 would 
+F 2796 4 6 say 
+F 2802 2 6 ’oy 
+F 2807 1 6 gevalt
+F 2809 6 6 ~ 
+: 2821 2 0 if 
+: 2826 3 0 I 
+: 2831 5 2 was
+: 2838 3 0 n’t 
+- 2841
+: 2842 3 4 Miss 
+: 2848 2 2 Bal
+: 2853 3 -1 ti
+: 2858 9 0 more 
+: 2869 22 5 Crabs 
+- 2901
+F 2930 2 6 Do 
+F 2934 2 6 you 
+F 2938 6 6 dance 
+F 2948 2 6 like 
+F 2952 2 6 you 
+F 2957 3 6 dress? 
+- 2962
+F 2964 2 6 Am
+F 2968 2 6 ber, 
+F 2972 1 6 there’s 
+F 2974 2 6 no 
+F 2977 2 6 need 
+F 2982 1 6 to 
+F 2984 2 6 be 
+F 2987 8 6 cruel! 
+- 2998
+F 3000 2 6 Would 
+F 3005 2 6 you 
+F 3010 6 6 swim 
+F 3019 2 6 in 
+F 3024 1 6 an 
+F 3027 3 6 in
+F 3032 1 6 te
+F 3035 2 6 gra
+F 3038 2 6 ted 
+F 3043 10 6 pool? 
+- 3063
+F 3070 3 6 I 
+F 3075 2 6 sure 
+F 3079 6 6 would. 
+F 3089 3 6 I’m 
+F 3095 3 6 all 
+F 3100 1 6 for 
+- 3101
+F 3102 1 6 In
+F 3105 2 6 te
+F 3108 1 6 gra
+F 3111 6 6 tion. 
+F 3122 2 6 It’s 
+F 3126 1 6 the 
+F 3129 2 6 new 
+F 3133 2 6 fron
+F 3137 7 6 tier! 
+- 3154
+F 3158 3 6 Not 
+F 3164 3 6 in 
+F 3169 3 6 Bal
+F 3175 1 6 ti
+F 3178 3 6 more 
+F 3182 2 6 it 
+F 3186 2 6 is
+F 3189 4 6 n’t. 
+- 3199
+F 3201 2 6 And 
+F 3206 1 6 may 
+F 3209 1 6 I 
+F 3212 1 6 be 
+F 3215 7 6 frank? 
+- 3229
+F 3232 3 6 First 
+F 3237 2 6 imp
+F 3242 2 6 pres
+F 3246 3 6 sions 
+F 3251 3 6 can 
+F 3256 2 6 be 
+F 3261 4 6 tough 
+- 3266
+F 3268 2 6 And 
+F 3272 2 6 when 
+F 3276 2 6 I 
+F 3280 3 6 saw 
+F 3285 3 6 you 
+F 3291 2 6 I 
+F 3296 1 6 knew 
+F 3299 3 6 it 
+- 3303
+F 3305 3 6 If 
+F 3311 2 6 your 
+F 3315 3 6 size 
+F 3321 2 6 weren’t 
+F 3325 2 6 e
+F 3329 4 6 nough 
+- 3337
+F 3339 2 6 Your 
+F 3344 2 6 last 
+F 3349 3 6 an
+F 3355 2 6 swer 
+F 3360 3 6 just 
+F 3365 2 6 blew 
+F 3370 4 6 it! 
+- 3375
+: 3377 3 2 And 
+: 3384 10 2 so, 
+: 3398 2 -1 my 
+: 3402 10 4 dear, 
+: 3415 2 2 so 
+: 3420 9 6 short 
+: 3433 3 4 and 
+: 3439 6 7 stout 
+- 3450
+: 3452 3 7 You’ll 
+: 3458 2 9 ne
+: 3463 2 7 ver 
+: 3469 2 9 be 
+: 3473 4 10 “in” 
+- 3479
+: 3481 3 9 So 
+: 3487 2 7 we’re 
+* 3493 3 9 kick
+* 3499 2 8 ing 
+* 3505 1 7 you 
+* 3510 8 5 out! 
+- 3523
+: 3525 1 5 With 
+: 3528 1 5 your 
+: 3531 7 4 form 
+: 3541 1 2 and 
+: 3544 2 5 your 
+: 3548 10 4 face 
+- 3564
+F 3567 6 6 Awww, 
+F 3575 1 6 it 
+F 3577 2 6 is
+F 3580 1 6 n’t 
+F 3583 2 6 your 
+F 3586 7 6 fault 
+- 3593
+: 3595 2 2 You’re 
+: 3599 2 2 just 
+: 3603 5 4 down 
+: 3609 3 2 with 
+: 3614 3 4 a 
+: 3619 3 2 case 
+: 3625 3 1 of 
+: 3631 12 2 “Miss 
+- 3644
+: 3646 33 7 Bal
+* 3682 4 7 ti
+* 3689 16 9 more 
+* 3713 57 9 Crabs!” 
+- 3790
+F 3813 3 6 You 
+F 3820 2 6 may 
+F 3825 7 6 go. 
+- 3837
+F 3839 6 6 Um 
+F 3847 4 6 thank 
+F 3854 9 6 you. 
+E

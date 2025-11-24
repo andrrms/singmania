@@ -1,0 +1,72 @@
+#ARTIST:My Bloody Valentine
+#TITLE:Soon
+#MP3:My Bloody Valentine - Soon.mp3
+#CREATOR:Gollum
+#GENRE:Dream Pop
+#YEAR:1990
+#LANGUAGE:English
+#BPM:240
+#GAP:46090
+#VIDEO:v=ft56il9bGMk,co=loveless-55d7b5ec8038b.jpg,bg=my-bloody-valentine-51aa94fbd68f4.jpg
+: 0 13 6 Come 
+: 18 30 13 back 
+- 50
+: 70 22 11 Don’t 
+: 97 21 10 be 
+- 120
+: 140 2 4 A
+: 144 4 6 fraid 
+: 149 3 4 of 
+: 153 22 6 me 
+- 177
+: 192 52 16 Soon 
+- 246
+: 267 20 6 That, 
+: 293 38 13 I’ll 
+: 337 27 11 harm 
+: 374 22 10 you 
+- 398
+: 420 3 4 Your 
+: 424 5 6 eyes 
+: 430 3 4 are 
+: 434 18 6 blue 
+- 454
+: 468 38 16 Blue 
+: 512 14 18 je
+: 527 16 18 wels 
+- 545
+: 552 36 6 Yeah 
+- 590
+: 609 38 4 Yeah 
+- 649
+* 984 10 6 Wake 
+* 999 45 13 up, 
+: 1051 24 11 don’t 
+: 1082 28 10 fear 
+- 1112
+: 1122 2 4 I 
+: 1125 4 6 want 
+: 1131 2 4 to 
+: 1134 22 6 love 
+- 1158
+: 1171 53 16 You 
+- 1226
+: 1248 17 6 Yeah, 
+: 1273 26 13 doll
+: 1300 8 11 ~ 
+: 1318 26 11 of 
+- 1346
+: 1357 21 10 Pain 
+- 1380
+: 1401 3 4 I 
+* 1405 3 6 let 
+* 1410 3 4 you 
+* 1414 22 6 get 
+- 1438
+: 1449 38 16 To 
+: 1488 31 18 me 
+- 1521
+: 1532 35 6 Yeah 
+- 1569
+: 1587 40 4 Yeah 
+E

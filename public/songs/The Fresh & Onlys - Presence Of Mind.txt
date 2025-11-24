@@ -1,0 +1,177 @@
+#ARTIST:The Fresh & Onlys
+#TITLE:Presence Of Mind
+#MP3:The Fresh & Onlys - Presence Of Mind.mp3
+#CREATOR:daggeg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:322.43
+#GAP:28880
+#VIDEO:v=z7u6udhgSGg,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/6e/84/826e846b-7c46-5ef5-1e10-f289f701c0f6/4250506805234_cover.jpg/5000x5000bb.jpg
+: 0 6 -1 Pre
+: 7 3 1 sence 
+: 16 3 3 of 
+: 24 20 3 mind, 
+- 46
+: 78 5 -1 Should 
+: 86 3 1 be 
+: 95 12 3 ea
+: 108 4 6 si
+: 113 16 3 er 
+: 136 3 -1 to 
+: 141 13 -1 find 
+- 156
+: 186 4 8 In 
+* 195 11 10 mov
+* 207 10 11 ing 
+: 224 13 10 sha
+: 238 10 8 dows, 
+- 250
+: 256 2 -1 The 
+: 260 6 -1 ab
+: 267 4 1 sence 
+: 275 3 3 of 
+: 283 20 3 light 
+- 305
+: 339 4 -1 Men 
+: 347 4 1 who 
+: 355 8 3 seem 
+: 369 2 6 to 
+: 373 12 3 be 
+: 390 13 -1 bright 
+- 405
+: 445 4 8 Are 
+: 452 12 10 throw
+: 465 10 11 ing 
+* 483 13 10 sha
+* 497 10 8 dows 
+: 516 16 6 here 
+- 534
+: 540 3 6 As 
+: 546 2 8 a 
+: 550 15 10 man, 
+: 575 3 11 with 
+: 583 10 13 stars 
+: 595 2 11 in 
+: 598 2 10 his 
+: 602 28 8 eyes 
+- 632
+: 665 14 6 What 
+: 686 3 3 does 
+: 692 2 6 he 
+: 697 15 10 care 
+: 720 2 10 if 
+: 725 2 11 the 
+: 730 5 13 fu
+: 736 3 11 ture 
+: 741 2 10 is 
+: 749 30 8 bright 
+- 781
+: 791 2 8 The 
+* 795 8 13 fu
+* 804 2 11 ture 
+* 808 2 10 is 
+: 813 30 8 bright, 
+- 845
+: 856 2 8 The 
+: 860 8 13 fu
+: 869 2 11 ture 
+: 873 2 10 is 
+: 879 30 8 bright 
+- 911
+: 925 5 3 Af
+: 931 3 3 ter 
+: 937 5 4 to
+: 943 33 6 night, 
+: 994 3 3 they
+: 998 2 1 ~ 
+: 1002 8 -1 run 
+- 1012
+: 1264 6 -1 Es
+: 1271 3 1 sence 
+: 1279 3 3 of 
+: 1287 20 3 life, 
+- 1309
+: 1342 5 -1 Should 
+: 1350 3 1 be 
+* 1359 13 3 ea
+* 1373 3 6 sy 
+* 1377 16 3 to 
+: 1400 3 -1 sur
+: 1404 30 -1 vive 
+- 1436
+: 1451 3 8 In 
+: 1457 12 10 mov
+: 1470 10 11 ing 
+: 1488 13 10 sha
+: 1502 10 8 dows, 
+- 1514
+: 1519 2 -1 The 
+: 1523 7 -1 ab
+: 1531 3 1 sence 
+: 1538 3 3 of 
+: 1546 20 3 light 
+- 1568
+: 1602 4 -1 Men 
+: 1610 4 1 who 
+: 1619 10 3 seem 
+: 1631 3 6 to 
+: 1635 14 3 be 
+: 1653 22 -1 blind 
+- 1677
+: 1709 3 8 Are 
+: 1716 13 10 throw
+: 1730 10 11 ing 
+: 1748 13 10 sha
+: 1762 10 8 dows 
+: 1782 12 6 here 
+- 1796
+* 1804 3 6 As 
+* 1810 2 8 a 
+* 1815 15 10 man, 
+: 1841 3 11 with 
+: 1848 10 13 stars 
+: 1860 2 11 in 
+: 1863 2 10 his 
+: 1867 28 8 eyes 
+- 1897
+: 1932 12 6 What 
+: 1952 3 3 does 
+: 1957 2 6 he 
+: 1962 18 10 care 
+: 1987 2 10 if 
+: 1991 2 11 the 
+: 1996 6 13 fu
+: 2003 3 11 ture 
+: 2008 2 10 is 
+: 2013 30 8 bright 
+- 2045
+: 2059 2 8 The 
+: 2062 8 13 fu
+: 2071 2 11 ture 
+: 2075 2 10 is 
+: 2080 30 8 bright, 
+- 2112
+: 2124 2 8 The 
+: 2128 8 13 fu
+: 2137 2 11 ture 
+: 2141 2 10 is 
+: 2146 30 8 bright 
+- 2178
+* 2194 4 3 Af
+* 2199 3 3 ter 
+* 2206 3 4 to
+: 2211 43 6 night, 
+* 2264 2 16 let 
+* 2268 2 13 it 
+* 2272 12 11 run 
+- 2286
+: 2535 7 -1 Pre
+: 2543 4 1 sence 
+: 2551 3 3 of 
+: 2559 40 3 mind, 
+- 2601
+* 2793 7 -1 Pre
+* 2801 4 1 sence 
+* 2809 3 3 of 
+* 2817 40 3 mind 
+E

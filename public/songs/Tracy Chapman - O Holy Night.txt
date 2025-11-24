@@ -1,0 +1,201 @@
+#ARTIST:Tracy Chapman
+#TITLE:O Holy Night
+#MP3:Tracy Chapman - O Holy Night.mp3
+#CREATOR:servok
+#EDITION:Christmas
+#GENRE:Christmas, Traditional
+#YEAR:1997
+#LANGUAGE:English
+#BPM:260
+#GAP:33340
+#VIDEO:a=MZWI1GuJwCU,co=https://m.media-amazon.com/images/I/71EW0LamWHL.jpg,bg=chapman-tracy-5212ae9051d11.jpg,preview=33.28,medley=604-1656,tags=Christmas
+: 0 15 4 O 
+: 16 7 4 ho
+: 24 7 5 ly 
+: 32 16 7 night 
+: 60 3 7 the 
+: 64 11 9 stars 
+: 76 7 9 are 
+: 84 7 5 brigh
+: 92 7 9 tly 
+: 100 27 12 shi
+: 128 12 7 ning 
+- 142
+: 144 3 7 This 
+: 148 11 4 is 
+: 160 7 2 the 
+: 168 8 0 night 
+: 186 8 4 of 
+: 195 4 5 our 
+: 200 12 7 dear 
+: 217 10 5 savi
+: 228 6 2 our’s 
+: 235 12 0 birth 
+- 264
+: 304 15 4 Long 
+: 320 11 4 lay 
+: 332 3 5 the 
+: 336 16 7 world 
+- 364
+: 368 3 7 In 
+: 372 11 9 sin 
+: 384 3 9 and 
+: 388 11 5 er
+: 400 3 9 ror 
+: 404 31 12 pin
+: 436 12 7 ing 
+- 450
+: 452 6 7 Till 
+: 459 8 6 he 
+: 468 5 4 a
+: 474 14 11 ppeared 
+- 490
+: 492 6 7 And 
+: 500 4 9 the 
+: 506 14 11 soul 
+: 524 10 12 felt 
+: 535 4 11 his 
+: 542 14 4 worth 
+- 573
+: 604 4 7 A 
+: 612 12 7 thrill 
+: 628 12 9 of 
+: 646 13 2 hope 
+- 670
+: 674 3 7 The 
+: 678 10 9 wea
+: 690 4 7 ry 
+: 696 7 12 world 
+: 706 3 4 re
+: 711 14 9 joi
+: 726 8 7 ces 
+- 736
+: 738 4 7 For 
+: 746 15 7 yon
+: 762 16 9 der 
+: 780 12 2 breaks 
+- 802
+: 809 3 7 A 
+: 814 8 9 new 
+: 826 4 7 and 
+: 831 10 12 glor
+: 842 4 4 ious 
+: 850 12 7 morn’ 
+- 872
+* 882 28 12 Fall 
+* 934 7 11 on 
+* 942 7 9 your 
+* 950 28 11 knees 
+- 988
+: 1002 9 11 Oh
+: 1012 5 14 ~ 
+: 1018 7 14 he
+: 1026 20 14 ar 
+: 1064 6 9 the 
+: 1072 8 9 An
+: 1081 4 9 gel’s 
+: 1086 31 12 voi
+: 1119 16 12 ces 
+- 1146
+: 1150 5 12 Oh 
+: 1157 28 16 ni
+: 1189 12 14 ght 
+: 1218 4 7 di
+: 1223 31 12 vi
+: 1257 9 11 ~ne 
+- 1276
+* 1286 3 7 Oh 
+* 1291 15 7 night 
+* 1337 5 7 when 
+* 1343 2 7 Chr
+* 1347 7 9 ist 
+* 1355 3 7 was 
+* 1360 20 7 born 
+- 1390
+: 1412 3 11 W
+: 1416 3 12 o
+: 1420 3 14 a
+: 1424 3 16 h 
+: 1428 32 14 night 
+* 1483 6 7 di
+* 1490 5 14 ~
+* 1496 28 16 vine 
+- 1534
+* 1548 9 14 Oh
+* 1558 5 12 ~ 
+* 1564 20 12 night 
+: 1616 10 14 di
+: 1627 4 12 ~
+: 1632 24 12 vine. 
+- 1690
+: 2581 6 7 A 
+: 2588 16 7 thrill 
+: 2605 12 9 of 
+: 2621 12 2 hope 
+- 2643
+: 2650 4 7 The 
+: 2655 11 9 wea
+: 2667 4 7 ry 
+: 2672 10 12 world 
+: 2683 4 4 re
+: 2688 14 9 joi
+: 2703 8 7 ces 
+- 2715
+: 2717 4 7 For 
+: 2723 16 7 yon
+: 2740 12 9 der 
+: 2756 16 2 breaks 
+- 2783
+: 2787 3 7 A 
+: 2791 12 9 new 
+: 2804 3 7 and 
+: 2808 11 12 glor
+: 2820 4 4 ious 
+: 2827 16 7 morn’ 
+- 2853
+* 2860 32 12 Fall 
+* 2912 9 11 on 
+* 2923 5 9 your 
+* 2930 30 11 knees 
+- 2970
+: 2980 9 11 Oh
+: 2990 5 14 ~ 
+: 2996 7 14 he
+: 3004 20 14 ar 
+: 3042 6 9 the 
+: 3050 8 9 An
+: 3059 4 9 gel’s 
+: 3064 31 12 voi
+: 3097 16 12 ces 
+- 3123
+: 3127 5 12 Oh 
+: 3134 30 16 ni
+: 3166 16 14 ght 
+: 3194 6 7 di
+: 3201 33 12 vi
+: 3236 12 11 ~ne 
+- 3258
+* 3262 7 7 Oh 
+* 3271 20 7 night 
+* 3314 4 7 when 
+* 3320 2 7 Chr
+* 3323 7 9 ist 
+* 3332 3 7 was 
+* 3336 16 7 born 
+- 3369
+: 3388 3 11 W
+: 3392 3 12 o
+: 3396 3 14 a
+: 3400 3 16 h 
+: 3404 32 14 night 
+* 3458 6 7 di
+* 3466 5 16 ~
+* 3472 28 16 vine 
+- 3510
+* 3524 9 14 Oh
+* 3534 5 12 ~ 
+* 3540 20 12 night 
+: 3592 10 14 di
+: 3603 4 12 ~
+: 3608 24 12 vine. 
+E

@@ -1,0 +1,269 @@
+#ARTIST:Glee Cast
+#TITLE:Candyman
+#MP3:Glee Cast - Candyman.mp3
+#CREATOR:seanie627
+#GENRE:Soundtrack
+#YEAR:2011
+#LANGUAGE:English
+#BPM:346.1
+#GAP:90
+#VIDEO:v=6-eqhJLT9d4,co=https://gleethecovers.files.wordpress.com/2011/10/s03e04-01-ca-ndyman-07.jpg
+: 0 4 8 Tar
+: 6 2 8 zan 
+: 10 3 4 and 
+: 18 6 4 Jane 
+: 26 2 1 were 
+: 30 6 4 swing
+: 38 2 4 in’ 
+: 42 2 4 on 
+: 46 2 4 a 
+: 50 9 7 vine 
+- 61
+: 66 2 8 Can
+: 71 5 4 dy
+: 79 9 4 man 
+- 90
+: 97 2 8 Can
+: 103 2 4 dy
+: 109 10 4 man 
+- 121
+: 129 2 8 Sip
+: 134 2 8 pin’ 
+: 138 2 4 from 
+: 142 2 4 a 
+: 146 2 4 bot
+: 150 2 4 tle 
+: 154 2 1 of 
+- 157
+: 158 4 4 Vod
+: 166 2 4 ka 
+: 170 2 6 dou
+: 174 2 3 ble 
+: 178 6 4 wine 
+- 186
+F 193 8 0 Sweet 
+- 203
+F 209 8 0 Sugar 
+- 219
+F 225 5 0 Can
+F 233 2 0 dy
+F 237 6 0 man 
+- 245
+: 382 2 4 I 
+: 386 2 7 met 
+: 390 2 8 him 
+: 394 2 7 out 
+: 398 2 8 for 
+: 402 2 7 din
+: 406 2 8 ner 
+- 409
+: 410 2 4 On 
+: 414 2 1 a 
+: 418 3 4 Fri
+: 423 3 4 day 
+* 430 9 4 night 
+- 441
+: 447 2 4 He 
+: 451 2 7 real
+: 455 2 8 ly 
+: 459 2 9 had 
+: 463 2 10 me 
+: 467 2 11 work
+: 471 2 8 ing 
+: 475 2 4 up 
+- 478
+: 478 2 1 An 
+: 482 2 4 ap
+: 486 2 1 pe
+: 494 8 4 tite 
+- 504
+: 510 2 4 He 
+: 514 2 7 had 
+: 518 2 7 tat
+: 526 6 7 toos 
+- 533
+: 534 3 7 Up 
+: 542 2 4 and 
+: 546 3 7 down 
+: 550 2 7 his 
+: 558 9 4 arm 
+- 569
+: 574 2 4 There’s 
+: 578 2 7 no
+: 582 2 8 thing 
+: 586 4 9 more 
+: 594 2 11 dan
+: 598 2 8 gerous 
+- 601
+: 602 2 4 Than 
+: 606 2 1 a 
+: 610 2 4 boy 
+: 615 4 4 with 
+: 622 7 4 charm 
+- 631
+: 634 2 4 He’s 
+: 638 2 5 a 
+: 642 2 6 one 
+: 646 4 6 stop 
+: 654 7 6 shop 
+- 663
+: 666 2 6 Makes 
+: 670 2 5 the 
+: 674 3 4 pant
+: 679 3 4 ies 
+* 686 6 4 drop 
+- 694
+: 698 2 -1 He’s 
+: 702 2 1 a 
+: 706 4 4 sweet 
+: 714 3 1 talk
+: 718 2 -1 in’ 
+: 722 2 4 su
+: 726 2 4 gar 
+: 730 2 1 coat
+: 734 2 -1 ed 
+- 737
+: 738 2 4 Can
+: 742 6 -1 dy
+: 750 10 -1 man 
+- 762
+F 769 8 0 Sweet 
+- 779
+F 785 7 0 Sugar 
+- 794
+F 801 5 0 Can
+F 809 2 0 dy
+F 813 6 0 man 
+- 821
+: 825 2 -1 He’s 
+: 830 2 -1 a 
+: 834 3 4 one 
+: 841 5 -1 stop 
+- 848
+: 850 2 4 Got
+: 854 2 4 cha 
+: 857 4 -1 hot 
+- 863
+: 865 3 0 Mak
+: 870 2 0 ing 
+: 874 2 0 all 
+: 878 2 0 the 
+* 882 2 0 pant
+: 886 2 0 ies 
+: 890 2 -1 drop 
+- 894
+F 897 9 0 Sweet 
+- 908
+F 914 7 0 Sugar 
+- 923
+F 930 4 0 Can
+F 937 2 0 dy
+F 941 5 0 man 
+- 948
+: 954 2 -1 He’s 
+: 958 2 -1 a 
+: 962 3 4 one 
+: 969 4 -1 stop 
+- 975
+: 978 2 8 Got 
+: 982 2 8 me 
+: 985 3 4 hot 
+- 990
+: 994 2 4 Mak
+: 998 2 4 ing 
+: 1002 3 4 my 
+* 1009 3 4 uh 
+: 1017 3 4 pop 
+- 1022
+F 1025 8 0 Sweet 
+- 1035
+F 1042 6 0 Sugar 
+- 1050
+F 1058 5 0 Can
+F 1065 2 0 dy
+F 1069 7 0 man 
+- 1078
+: 1082 2 4 He’s 
+: 1086 2 4 a 
+: 1090 3 4 one 
+: 1097 5 4 stop 
+- 1104
+: 1106 2 4 Get 
+: 1110 2 4 it 
+: 1114 2 2 while 
+: 1118 2 2 it’s 
+: 1122 4 4 hot 
+- 1128
+: 1130 2 4 Ba
+: 1134 2 4 by 
+: 1138 3 4 don’t 
+* 1145 4 2 stop 
+- 1151
+F 1153 8 0 Sweet 
+- 1163
+F 1169 7 0 Sugar 
+- 1178
+: 1198 2 10 He 
+: 1202 3 9 got 
+: 1209 4 7 those 
+: 1217 4 7 lips 
+: 1225 4 7 like 
+- 1231
+: 1233 4 7 Su
+: 1239 4 4 gar 
+* 1246 10 7 cane
+: 1257 7 9 ~ 
+: 1265 7 7 ~ 
+: 1273 4 6 ~ 
+- 1279
+: 1282 4 11 Good 
+: 1289 3 9 things 
+: 1297 4 7 come 
+: 1305 4 1 for 
+: 1314 3 -1 boys 
+: 1318 5 1 who 
+: 1326 7 4 wait 
+- 1335
+: 1338 2 4 He’s 
+: 1342 2 5 a 
+: 1346 2 6 one 
+: 1350 4 6 stop 
+: 1358 8 6 shop 
+- 1368
+: 1370 2 6 With 
+: 1374 2 5 a 
+: 1378 2 4 real 
+: 1383 3 4 big 
+- 1388
+F 1390 5 0 Uh 
+- 1397
+: 1402 2 -1 He’s 
+: 1406 2 1 a 
+* 1410 4 4 sweet 
+: 1418 2 1 talk
+: 1422 2 -1 in’ 
+: 1426 2 4 su
+: 1430 2 4 gar 
+: 1434 2 1 coat
+: 1438 2 -1 ed 
+- 1441
+: 1441 3 4 Can
+: 1447 5 -1 dy
+: 1455 9 -1 man 
+- 1466
+: 1505 3 8 Can
+: 1511 5 4 dy
+* 1519 9 4 man 
+- 1530
+* 1569 3 8 Can
+: 1575 5 4 dy
+: 1583 9 4 man 
+- 1594
+: 1633 3 8 Can
+: 1639 5 4 dy
+: 1647 9 4 man 
+- 1658
+: 1697 3 8 Can
+: 1703 5 4 dy
+* 1711 9 4 man 
+E

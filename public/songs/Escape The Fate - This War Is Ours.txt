@@ -1,0 +1,404 @@
+#ARTIST:Escape The Fate
+#TITLE:This War Is Ours
+#MP3:Escape The Fate - This War Is Ours.mp3
+#CREATOR:Swanton
+#YEAR:2009
+#LANGUAGE:English
+#BPM:387
+#GAP:78510
+#VIDEO:v=5RS9EVwNrtg,co=this-war-is-ours-5365517b7b126.jpg,bg=escape-the-fate-615c0357db854.jpg
+F 0 6 0 We 
+F 8 6 0 have 
+F 16 6 0 to 
+F 24 6 0 find 
+F 31 6 0 a 
+F 39 2 0 bet
+F 43 4 0 ter 
+F 49 15 0 way 
+- 66
+F 70 7 0 Out 
+F 79 6 0 of 
+F 87 12 0 this 
+F 103 4 0 tra
+F 109 3 0 ge
+F 113 14 0 dy 
+- 129
+F 135 7 0 As 
+F 143 6 0 the 
+F 151 6 0 bat
+F 160 6 0 tle 
+F 168 2 0 ra
+F 172 6 0 ges 
+F 180 10 0 on 
+- 192
+F 201 10 0 Blood 
+F 215 8 0 stains 
+F 224 7 0 the 
+F 234 4 0 ground 
+F 240 3 0 we’re 
+F 245 13 0 on 
+- 260
+F 267 11 0 My 
+F 281 6 0 ears 
+F 290 6 0 hear 
+F 298 3 0 on
+F 302 4 0 ly 
+F 308 22 0 screams 
+- 332
+F 339 6 0 Great 
+F 347 6 0 sol
+F 355 6 0 diers 
+F 363 3 0 are 
+F 368 4 0 dy
+F 374 12 0 ing 
+- 388
+F 395 12 0 One 
+F 411 6 0 Spar
+F 419 6 0 tan 
+F 428 3 0 stands 
+F 433 4 0 a
+F 439 12 0 lone 
+F 453 4 0 and 
+F 459 7 0 shouts 
+- 468
+F 469 6 0 This 
+F 477 11 0 War 
+F 491 12 0 is 
+F 506 26 0 Ours 
+- 534
+F 599 6 0 This 
+F 607 6 0 War 
+F 616 7 0 is 
+F 624 9 0 Ours 
+- 635
+: 657 9 -5 Yes, 
+: 668 15 6 I 
+* 686 9 12 will 
+: 698 9 7 see 
+: 708 18 8 you 
+: 735 7 9 through 
+: 743 6 7 the 
+: 750 5 6 smoke 
+: 756 6 6 and 
+: 764 6 8 flames 
+: 771 6 3 ~ 
+- 779
+: 785 6 -4 On 
+: 792 6 -4 the 
+: 800 13 6 Front
+: 814 8 3 lines 
+: 823 5 3 of 
+: 830 8 3 war 
+* 840 36 4 ~ 
+- 878
+: 915 9 -5 And 
+: 926 17 6 I 
+* 945 10 12 will 
+: 958 9 7 stand 
+: 969 14 7 my 
+: 995 6 9 ground 
+: 1003 6 8 un
+: 1010 3 6 til 
+: 1016 5 6 the 
+: 1022 6 8 end 
+: 1031 8 4 ~ 
+- 1041
+: 1045 5 8 Till 
+: 1052 6 7 we 
+: 1060 13 7 con
+: 1076 3 3 quer 
+: 1080 6 0 them 
+: 1088 8 3 all 
+* 1099 39 4 ~ 
+- 1140
+F 1190 25 0 Oh 
+- 1217
+F 1237 6 0 Through 
+F 1246 6 0 the 
+F 1254 6 0 fi
+F 1262 6 0 re 
+F 1270 2 0 and 
+F 1274 6 0 the 
+F 1283 13 0 flames 
+- 1298
+F 1299 2 0 A 
+F 1303 3 0 sea 
+F 1308 4 0 of 
+F 1314 8 0 dead, 
+- 1324
+F 1326 6 0 Drives 
+F 1334 6 0 men 
+F 1342 4 0 in
+F 1348 8 0 sane 
+- 1358
+F 1359 6 0 We 
+F 1367 7 0 march 
+F 1376 6 0 the 
+F 1384 6 0 fight 
+F 1392 6 0 in
+F 1399 2 0 to 
+F 1404 7 0 the 
+F 1412 8 0 cold, 
+- 1422
+F 1425 6 0 This 
+F 1433 6 0 is 
+F 1441 6 0 as 
+F 1449 5 0 far 
+F 1456 6 0 as 
+F 1465 2 0 it 
+F 1469 6 0 will 
+F 1477 8 0 go 
+- 1487
+F 1494 4 0 The 
+F 1499 5 0 Bat
+F 1506 6 0 tle 
+F 1514 6 0 ends 
+F 1522 6 0 on 
+F 1529 2 0 top 
+F 1533 6 0 of 
+F 1541 13 0 here, 
+- 1556
+F 1560 6 0 This 
+F 1569 6 0 is 
+F 1577 6 0 where 
+F 1586 6 0 we 
+F 1593 2 0 con
+F 1597 7 0 quer 
+F 1606 9 0 fear 
+- 1617
+F 1627 5 0 Arm 
+F 1635 6 0 the 
+F 1642 6 0 can
+F 1651 6 0 non 
+F 1660 2 0 with 
+F 1664 5 0 a 
+F 1670 17 0 shot 
+- 1689
+F 1699 6 0 This 
+F 1707 12 0 War 
+F 1723 12 0 is 
+F 1737 30 0 Ours 
+- 1769
+F 1772 23 0 YEAH 
+- 1797
+F 1829 6 0 This 
+F 1838 6 0 War 
+F 1845 7 0 is 
+F 1855 12 0 Ours 
+- 1869
+: 1887 8 -5 Yes, 
+: 1898 16 6 I 
+* 1917 9 12 will 
+: 1928 11 7 see 
+: 1942 14 8 you 
+: 1967 6 9 through 
+: 1975 6 7 the 
+: 1982 5 6 smoke 
+: 1988 6 6 and 
+: 1995 6 8 flames 
+: 2002 9 3 ~ 
+- 2013
+: 2016 6 -4 On 
+: 2023 6 -4 the 
+: 2030 13 6 Front 
+: 2044 8 3 lines 
+: 2053 7 3 of 
+: 2061 8 3 war 
+* 2070 40 4 ~ 
+- 2112
+: 2146 9 7 And 
+: 2157 17 6 I 
+* 2176 10 12 will 
+: 2188 9 7 stand 
+: 2200 15 7 my 
+: 2226 6 9 ground 
+: 2234 5 8 un
+: 2241 4 6 til 
+: 2246 6 6 the 
+: 2254 6 7 end 
+: 2262 8 4 ~ 
+- 2272
+: 2275 7 8 Till 
+: 2284 5 7 we 
+: 2291 12 7 con
+: 2305 5 3 quer 
+: 2312 6 0 them 
+: 2320 10 3 all 
+* 2331 44 4 ~ 
+- 2377
+: 2406 6 8 Till 
+: 2413 6 7 we 
+: 2421 12 7 con
+: 2434 6 6 quer 
+: 2442 6 6 them 
+: 2449 6 6 all 
+: 2457 2 6 ~ 
+* 2461 45 3 ~ 
+- 2508
+: 2824 10 7 Yes, 
+: 2837 16 6 I 
+* 2856 12 12 will 
+: 2871 11 7 meet 
+: 2885 18 8 you 
+: 2912 6 9 through 
+: 2921 6 6 the 
+: 2930 3 6 smoke 
+: 2935 6 7 and 
+* 2943 14 6 flames 
+- 2959
+: 2966 8 8 On 
+: 2976 6 8 the 
+: 2984 15 6 Front
+: 3000 6 6 lines 
+: 3007 8 6 of 
+: 3016 10 7 war 
+: 3027 2 6 ~ 
+* 3030 51 4 ~ 
+- 3083
+: 3110 9 7 And 
+: 3121 19 6 I 
+* 3146 8 12 will 
+* 3157 10 12 stand 
+* 3170 6 12 my 
+: 3179 15 9 ~ 
+: 3196 10 6 ground 
+: 3208 6 6 un
+: 3216 3 6 til 
+: 3221 6 4 the 
+: 3229 15 4 end 
+- 3246
+: 3252 8 7 Till 
+: 3262 6 7 we 
+: 3270 14 6 con
+: 3285 4 6 quer 
+: 3291 8 6 them 
+: 3301 8 6 all 
+: 3311 2 7 ~ 
+* 3315 37 4 ~ 
+- 3354
+: 3396 6 8 We 
+: 3404 6 7 will 
+: 3412 14 6 con
+: 3428 5 0 quer 
+: 3435 7 0 them 
+: 3444 12 4 all 
+- 3458
+: 3466 7 7 We 
+: 3475 7 7 will 
+: 3484 13 6 con
+: 3499 5 6 quer 
+: 3506 7 7 them 
+: 3515 7 8 all 
+: 3524 2 7 ~ 
+: 3528 8 6 ~ 
+- 3538
+* 3539 6 9 We 
+* 3547 6 8 will 
+* 3555 15 9 con
+* 3572 4 9 quer 
+* 3578 7 9 them 
+* 3587 72 12 all 
+- 3661
+F 4272 6 0 This 
+F 4281 11 0 War 
+F 4296 12 0 is 
+F 4310 25 0 Ours 
+- 4337
+F 4345 23 0 YEAH 
+- 4370
+F 4401 7 0 This 
+F 4410 7 0 War 
+F 4419 6 0 is 
+F 4426 12 0 Ours 
+- 4440
+: 4458 10 7 Yes, 
+: 4470 14 6 I 
+* 4488 10 12 will 
+: 4501 11 7 see 
+: 4514 12 8 you 
+: 4538 6 9 through 
+: 4546 6 7 the 
+: 4553 5 6 smoke 
+: 4559 6 6 and 
+: 4567 6 8 flames 
+: 4575 8 3 ~ 
+- 4585
+: 4586 6 8 On 
+: 4594 5 8 the 
+: 4601 13 6 Front
+: 4616 6 3 lines 
+: 4624 5 3 of 
+: 4631 10 3 war 
+* 4643 25 4 ~ 
+- 4670
+: 4718 10 7 And 
+: 4730 17 6 I 
+* 4749 10 12 will 
+* 4762 8 12 stand 
+* 4772 6 12 my 
+: 4780 13 9 ~ 
+: 4798 6 6 ground 
+: 4807 5 6 un
+: 4814 2 6 til 
+: 4818 6 4 the 
+: 4826 11 5 end 
+- 4839
+: 4846 7 8 Till 
+: 4855 6 7 we 
+: 4863 12 7 con
+: 4877 6 3 quer 
+: 4885 6 0 them 
+: 4893 9 3 all 
+* 4907 54 4 ~ 
+- 4963
+: 4976 10 6 So 
+: 4988 17 6 I 
+* 5008 11 12 will 
+: 5021 9 6 fight 
+: 5032 18 7 my 
+: 5060 4 10 bat
+: 5066 5 8 tle 
+: 5073 2 7 till 
+: 5077 6 6 I 
+: 5085 11 7 fall 
+- 5098
+: 5105 6 7 And 
+: 5114 5 7 I 
+* 5121 14 9 con
+: 5137 4 6 quer 
+: 5143 6 6 them 
+* 5151 68 7 all 
+- 5221
+* 5233 8 7 Till 
+* 5243 6 7 we 
+* 5252 13 9 con
+* 5267 2 9 quer 
+* 5271 6 9 them 
+* 5280 134 12 all 
+- 5416
+F 5516 18 0 GO 
+- 5536
+F 5666 14 0 YEAH 
+- 5682
+F 5757 8 0 This 
+F 5767 6 0 is 
+F 5776 16 0 War 
+- 5794
+F 5812 18 0 War 
+- 5832
+F 5850 17 0 War 
+- 5869
+F 5885 20 0 War 
+- 5907
+F 5922 19 0 War 
+- 5943
+F 5958 19 0 War 
+- 5979
+F 5996 19 0 War 
+- 6017
+F 6032 15 0 War 
+- 6049
+F 6051 8 0 This 
+F 6062 6 0 is 
+F 6070 19 0 War 
+E

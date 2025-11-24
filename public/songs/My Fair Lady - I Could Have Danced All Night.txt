@@ -1,0 +1,335 @@
+#ARTIST:My Fair Lady
+#TITLE:I Could Have Danced All Night
+#MP3:My Fair Lady - I Could Have Danced All Night.mp3
+#CREATOR:Relisch
+#COVER:My Fair Lady - I Could Have Danced All Night [CO].jpg
+#BACKGROUND:My Fair Lady - I Could Have Danced All Night [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1964
+#LANGUAGE:English
+#BPM:300
+#GAP:11550
+#VIDEO:v=hA9bEKKxTNU,co=https://image.yes24.com/goods/29340037/XL
+F 0 9 6 Bed, 
+F 16 10 6 bed 
+F 30 2 6 I 
+F 34 3 6 couldn’t
+F 38 2 6 ~ 
+F 41 4 6 go 
+F 46 2 6 to 
+F 49 8 6 bed 
+- 58
+F 60 3 6 My 
+F 65 6 6 head’s 
+F 72 6 6 too 
+F 79 6 6 light 
+F 88 7 6 to 
+F 97 4 6 try 
+F 102 3 6 to 
+F 107 3 6 set 
+F 111 3 6 it 
+F 115 14 6 down 
+- 149
+F 193 15 6 Sleep, 
+F 215 9 6 sleep 
+F 229 2 6 I 
+F 233 2 6 couldn’t
+F 236 2 6 ~ 
+F 240 3 6 sleep 
+F 244 2 6 tonight
+F 248 9 6 ~ 
+- 260
+F 262 6 6 Not 
+F 272 7 6 for 
+F 280 8 6 all 
+F 290 6 6 the 
+* 298 4 6 jewels
+* 303 5 6 ~ 
+* 310 4 6 in 
+* 321 6 6 the 
+* 330 20 6 crown 
+- 360
+: 384 2 -2 I 
+: 387 2 2 could 
+: 390 3 5 have 
+: 394 22 10 danced 
+: 418 6 9 all 
+: 426 15 9 night, 
+: 446 3 -3 I 
+: 450 2 2 could 
+: 454 2 5 have 
+: 458 19 9 danced 
+: 481 6 7 all 
+: 490 17 7 night 
+- 511
+: 513 6 5 And 
+: 520 22 3 still 
+: 545 7 6 have 
+: 553 22 5 begged 
+: 577 11 7 for 
+: 589 43 0 more 
+- 636
+: 638 3 0 I 
+: 642 1 3 could 
+: 644 2 7 have 
+: 648 21 12 spread 
+: 671 7 11 my 
+: 679 18 11 wings 
+: 700 3 -2 and 
+: 704 3 3 done 
+: 708 2 7 a 
+: 712 22 10 thousand
+: 736 4 9 ~ 
+: 742 19 9 things 
+- 765
+: 767 6 7 I’ve 
+: 775 23 4 never
+: 799 5 5 ~ 
+: 807 18 7 done 
+: 832 6 7 before
+: 839 49 2 ~ 
+- 891
+: 893 3 2 I’ll 
+: 897 2 4 never
+: 900 3 6 ~ 
+: 904 18 9 know 
+: 924 4 2 what 
+: 929 3 4 made 
+: 933 2 6 it 
+: 937 22 7 so 
+: 963 5 9 exciting
+: 970 15 6 ~
+: 986 26 6 ~ 
+- 1022
+: 1026 3 5 Why 
+: 1030 2 7 all 
+: 1033 2 9 at 
+: 1036 24 12 once 
+: 1061 8 5 my 
+: 1070 17 7 heart 
+: 1088 12 10 took 
+: 1101 36 9 flight 
+- 1148
+* 1152 17 10 I 
+* 1170 13 10 only
+* 1185 21 10 ~ 
+* 1207 23 11 know 
+: 1234 6 9 when 
+: 1244 18 9 he 
+: 1265 4 2 began
+: 1270 3 5 ~ 
+: 1274 2 9 to 
+: 1277 22 12 dance 
+: 1300 7 10 with 
+: 1309 16 10 me 
+- 1326
+: 1328 5 3 I 
+: 1334 2 7 could 
+: 1337 3 10 have 
+: 1342 17 14 danced, 
+: 1360 15 12 danced, 
+: 1377 44 16 danced 
+: 1430 20 9 all 
+: 1452 34 10 night 
+- 1526
+F 1743 4 6 It’s 
+F 1748 3 6 after
+F 1753 4 6 ~ 
+F 1758 8 6 three 
+F 1767 10 6 now 
+- 1780
+F 1782 7 6 Don’t 
+F 1791 4 6 you 
+F 1796 2 6 agree
+F 1799 9 6 ~ 
+F 1810 9 6 now? 
+- 1830
+F 1834 6 6 She 
+F 1841 5 6 ought 
+F 1848 2 6 to 
+F 1851 7 6 be 
+F 1865 5 6 in 
+F 1877 5 6 bed 
+- 1902
+: 1933 2 -2 I 
+: 1936 2 2 could 
+: 1939 3 5 have 
+: 1943 26 10 danced 
+: 1970 7 9 all 
+: 1978 20 9 night, 
+: 2000 2 -3 I 
+: 2003 2 2 could 
+: 2007 2 5 have 
+: 2010 26 9 danced 
+: 2037 5 7 all 
+: 2043 19 7 night 
+- 2065
+: 2067 7 5 And 
+: 2075 23 3 still 
+: 2099 5 6 have 
+: 2107 22 5 begged 
+: 2131 9 7 for 
+: 2141 48 0 more 
+- 2190
+: 2192 3 0 I 
+: 2197 2 3 could 
+: 2201 1 7 have 
+: 2204 25 12 spread 
+: 2230 5 11 my 
+: 2237 19 11 wings 
+: 2258 3 -2 and 
+: 2262 3 3 done 
+: 2266 2 7 a 
+: 2269 25 10 thousand
+: 2295 5 9 ~ 
+: 2301 19 9 things 
+- 2324
+: 2326 6 7 I’ve 
+: 2335 23 4 never
+: 2360 7 5 ~ 
+: 2369 19 7 done 
+: 2394 6 7 before
+: 2402 40 2 ~ 
+- 2450
+: 2453 4 2 I’ll 
+: 2458 4 4 never
+: 2464 2 6 ~ 
+: 2467 19 9 know 
+: 2489 5 2 what 
+: 2495 2 4 made 
+: 2499 1 6 it 
+: 2502 24 7 so 
+: 2527 6 9 exciting
+: 2535 16 6 ~
+: 2552 28 6 ~ 
+- 2587
+: 2590 3 5 Why 
+: 2594 2 7 all 
+: 2598 2 9 at 
+: 2602 25 12 once 
+: 2628 7 5 my 
+: 2637 17 7 heart 
+: 2656 13 10 took 
+: 2672 36 9 flight 
+- 2711
+: 2713 26 10 I 
+: 2741 14 10 only
+: 2757 11 10 ~ 
+: 2773 31 11 know 
+: 2805 4 9 when 
+: 2811 19 9 he 
+: 2832 2 2 began
+: 2836 1 5 ~ 
+: 2839 2 9 to 
+: 2842 22 12 dance 
+: 2867 7 10 with 
+: 2876 17 10 me 
+- 2894
+: 2896 4 3 I 
+: 2901 2 7 could 
+: 2904 2 10 have 
+: 2909 16 14 danced, 
+: 2927 16 12 danced, 
+* 2946 52 16 danced 
+: 3004 30 9 all 
+: 3035 28 10 night 
+- 3064
+F 3066 13 6 I understand 
+F 3080 10 6 dear 
+- 3095
+F 3097 4 6 It’s 
+F 3102 3 6 all 
+F 3106 5 6 been 
+F 3113 10 6 grand 
+F 3124 10 6 dear 
+- 3143
+F 3147 2 6 But 
+F 3150 4 6 now 
+F 3155 7 6 it’s 
+F 3163 11 6 time 
+F 3178 10 6 to 
+F 3190 14 6 sleep 
+- 3244
+: 3353 2 -2 I 
+: 3356 2 2 could 
+: 3359 3 5 have 
+: 3364 24 10 danced 
+: 3390 7 9 all 
+: 3398 21 9 night, 
+: 3420 2 -3 I 
+: 3423 2 2 could 
+: 3427 2 5 have 
+: 3430 23 9 danced 
+: 3454 10 7 all 
+: 3465 13 7 night 
+- 3487
+: 3490 6 5 And 
+: 3498 26 3 still 
+: 3525 6 6 have 
+: 3532 24 5 begged 
+: 3559 13 7 for 
+: 3574 40 0 more 
+- 3620
+: 3622 3 0 I 
+: 3626 2 3 could 
+: 3629 3 7 have 
+: 3634 25 12 spread 
+: 3660 6 11 my 
+: 3667 21 11 wings 
+: 3692 2 -2 and 
+: 3695 2 3 done 
+: 3698 1 7 a 
+: 3701 25 10 thousand
+: 3727 5 9 ~ 
+: 3734 19 9 things 
+- 3758
+: 3760 8 7 I’ve 
+: 3769 24 4 never
+: 3794 6 5 ~ 
+: 3802 27 7 done 
+: 3830 8 7 before
+: 3839 35 2 ~ 
+- 3884
+: 3888 4 2 I’ll 
+: 3895 3 4 never
+: 3900 3 6 ~ 
+: 3905 19 9 know 
+: 3927 3 2 what 
+: 3931 2 4 made 
+: 3935 2 6 it 
+: 3938 22 7 so 
+: 3961 8 9 exciting
+: 3970 16 6 ~
+: 3988 26 6 ~ 
+- 4022
+: 4025 3 5 Why 
+: 4030 4 7 all 
+: 4035 3 9 at 
+: 4039 24 12 once 
+: 4064 4 5 my 
+: 4070 17 7 heart 
+: 4088 12 10 took 
+: 4102 37 9 flight 
+- 4145
+: 4148 16 10 I 
+: 4166 12 10 only
+: 4179 16 10 ~ 
+: 4196 21 11 know 
+: 4218 9 9 when 
+: 4229 20 9 he 
+: 4252 3 2 began
+: 4256 2 5 ~ 
+: 4260 3 9 to 
+: 4265 25 12 dance 
+: 4291 6 10 with 
+: 4299 15 10 me 
+- 4316
+: 4318 3 3 I 
+: 4322 3 7 could 
+: 4326 3 10 have 
+: 4331 13 14 danced, 
+: 4347 15 12 danced, 
+: 4365 46 16 danced 
+: 4423 35 21 all 
+* 4459 136 22 night 
+E

@@ -1,0 +1,205 @@
+#ARTIST:Ramones
+#TITLE:Teenage Lobotomy
+#MP3:Ramones - Teenage Lobotomy.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Track Pack Vol. 1
+#GENRE:Punk
+#YEAR:1977
+#LANGUAGE:English
+#BPM:389.1
+#GAP:4150
+#VIDEO:a=_ABjFQoTO34,co=https://i.discogs.com/POZRYyS12GbfOxQ67VZuWQIq7QSPBvzCninEG_lO2yY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/NTYtMTUyMTQwMDI3/OS00OTk3LmpwZWc.jpeg,bg=ramones-5404f6cd3d25b.jpg
+: 0 2 12 Lo
+: 3 7 12 bo
+: 11 6 12 to
+: 19 8 12 my 
+- 29
+: 51 2 12 Lo
+: 54 7 12 bo
+: 63 7 12 to
+: 71 10 12 my 
+- 83
+: 102 2 12 Lo
+: 105 7 12 bo
+: 113 6 12 to
+* 121 12 12 my 
+- 135
+: 152 2 12 Lo
+: 155 6 12 bo
+: 163 7 12 to
+* 171 13 12 my 
+- 186
+: 441 6 13 D
+* 448 5 13 D
+* 457 6 13 T 
+: 465 3 13 did 
+: 469 2 13 a 
+: 474 4 13 job 
+* 479 6 14 on 
+: 486 6 13 me 
+- 494
+: 507 7 11 Now 
+: 516 6 11 I 
+: 524 8 11 am 
+: 533 4 8 a 
+: 541 5 11 real 
+: 549 2 13 si
+: 555 6 11 ckie 
+- 563
+: 575 5 13 Guess 
+: 583 5 13 I’ll 
+: 592 5 13 have 
+: 600 4 13 to 
+: 608 6 13 break 
+: 617 3 14 the 
+: 622 7 13 news 
+- 631
+* 642 5 11 That 
+: 650 5 11 I 
+: 659 5 11 got 
+: 667 4 8 no 
+: 675 5 11 mind 
+: 684 4 13 to 
+: 689 7 11 lose 
+- 698
+: 709 6 13 All 
+: 718 4 13 the 
+: 726 6 13 girls 
+: 735 2 13 are 
+: 738 2 9 in 
+: 743 2 13 love 
+: 747 4 14 with 
+: 756 7 13 me 
+- 765
+F 775 4 12 I’m 
+F 781 2 11 a 
+F 785 6 11 teen
+F 793 4 10 age 
+F 802 4 9 lo
+F 810 6 10 bo
+F 817 3 10 to
+F 823 9 11 my 
+- 834
+: 1161 5 13 Slugs 
+: 1170 4 13 and 
+: 1178 5 13 snails 
+: 1186 6 13 are 
+: 1194 5 13 af
+: 1202 3 14 ter 
+: 1208 8 13 me 
+- 1218
+: 1228 6 11 D
+: 1237 4 11 D
+: 1245 5 11 T 
+: 1254 3 8 keeps 
+: 1263 3 11 me 
+: 1267 5 13 hap
+: 1276 6 11 py 
+- 1284
+: 1295 6 13 Now 
+: 1304 5 13 I 
+: 1312 5 13 guess 
+: 1320 5 9 I’ll 
+: 1329 4 13 have 
+: 1337 2 13 to 
+: 1342 7 14 tell 
+: 1350 3 13 ’em 
+- 1355
+: 1363 5 11 That 
+: 1371 5 11 I 
+: 1379 5 11 got 
+: 1388 4 8 no 
+: 1397 5 11 ce
+: 1403 3 11 re
+: 1409 4 13 bel
+: 1415 3 11 lum 
+- 1420
+* 1430 6 13 Go
+: 1437 1 13 in’ 
+: 1439 5 13 to 
+: 1447 5 13 get 
+: 1454 6 13 my 
+: 1464 3 13 P
+* 1468 5 14 h.
+: 1480 7 13 D. 
+- 1489
+F 1497 3 12 I’m 
+F 1501 2 10 a 
+F 1506 5 10 teen
+F 1513 4 10 age 
+F 1522 4 9 lo
+F 1530 4 10 bo
+F 1536 4 10 to
+F 1543 8 11 my 
+- 1553
+: 1880 2 12 Lo
+: 1885 7 12 bo
+: 1893 6 12 to
+: 1901 9 12 my 
+- 1912
+: 1932 2 12 Lo
+: 1935 7 12 bo
+: 1944 6 12 to
+: 1952 10 12 my 
+- 1964
+: 1983 2 12 Lo
+: 1987 7 12 bo
+: 1995 6 12 to
+: 2003 10 12 my 
+- 2015
+: 2033 2 12 Lo
+: 2038 7 12 bo
+: 2046 5 12 to
+: 2054 12 12 my 
+- 2068
+: 2322 7 13 D
+: 2331 5 13 D
+: 2339 5 13 T 
+: 2347 2 13 did 
+: 2350 2 13 a 
+: 2356 3 13 job 
+: 2361 5 14 on 
+: 2369 6 13 me 
+- 2377
+: 2389 6 11 Now 
+: 2398 6 11 I 
+: 2406 7 11 am 
+: 2415 4 8 a 
+: 2423 4 11 real 
+: 2431 3 13 si
+: 2436 5 11 ckie 
+- 2443
+: 2457 5 13 Guess 
+: 2465 5 13 I’ll 
+: 2473 5 13 have 
+: 2482 3 13 to 
+: 2491 5 13 break 
+: 2499 4 14 the 
+: 2505 7 13 news 
+- 2514
+: 2525 5 11 That 
+: 2533 5 11 I 
+: 2541 5 11 got 
+: 2550 5 8 no 
+: 2558 5 11 mind 
+: 2567 4 13 to 
+: 2572 6 11 lose 
+- 2580
+: 2591 6 13 All 
+: 2600 5 13 the 
+: 2609 6 13 girls 
+: 2617 3 13 are 
+: 2621 2 11 in 
+: 2625 3 13 love 
+: 2630 4 14 with 
+: 2638 7 13 me 
+- 2647
+F 2659 3 12 I’m 
+F 2663 2 11 a 
+F 2668 6 10 teen
+F 2676 5 11 age 
+F 2685 5 10 lo
+F 2692 6 11 bo
+F 2699 5 11 to
+F 2706 10 11 my 
+E

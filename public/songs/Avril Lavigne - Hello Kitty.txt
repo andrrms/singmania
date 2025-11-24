@@ -1,0 +1,425 @@
+#ARTIST:Avril Lavigne
+#TITLE:Hello Kitty
+#MP3:Avril Lavigne - Hello Kitty.mp3
+#CREATOR:amro98
+#YEAR:2013
+#LANGUAGE:English
+#BPM:255.9
+#GAP:1120
+#VIDEO:v=LiaYDPRedWQ,co=hello-kitty-636bfb5d7ec3e.jpg,bg=lavigne-avril-50597834d1e48.jpg
+F 0 5 11 Min’na 
+F 6 5 11 saiko
+F 12 2 10 ~ 
+F 16 6 9 ari
+F 23 8 7 gato 
+- 33
+F 35 3 7 K-
+F 39 3 7 k-
+F 43 3 6 k-
+F 47 7 10 kawaii,
+F 55 5 9 ~ 
+- 62
+F 99 3 0 K-
+F 103 3 0 k-
+F 107 3 0 k-
+F 111 13 0 kawaii. 
+- 126
+: 128 5 6 Mom’s 
+: 135 6 6 not 
+: 142 5 6 home 
+: 148 2 6 to
+: 151 3 6 night 
+- 156
+: 157 2 6 So 
+: 160 1 6 we 
+: 162 1 6 can 
+: 164 3 6 roll 
+: 168 2 6 around, 
+: 171 2 6 have 
+: 174 1 4 a 
+: 176 1 6 pillow
+: 178 2 6 ~ 
+: 182 4 6 fight 
+- 187
+F 187 3 6 Like 
+F 191 1 6 a 
+F 193 5 16 major 
+F 199 8 12 rager 
+F 208 3 5 O
+F 212 3 4 M
+F 216 3 4 F
+F 220 11 4 G 
+- 233
+: 255 5 6 Let’s 
+: 263 5 6 all 
+: 271 3 6 slum
+: 275 2 6 ber 
+: 279 3 6 par
+: 284 2 4 ty 
+- 287
+: 287 3 6 Like 
+: 291 1 6 a 
+: 293 3 6 fat 
+: 297 2 6 kid 
+: 300 2 6 on 
+: 303 1 4 a 
+: 305 2 6 pack 
+: 308 1 6 of 
+: 310 5 6 Smar
+: 316 3 4 ties 
+- 320
+F 320 7 0 Someone 
+F 328 3 0 chuck 
+F 332 2 0 a 
+F 335 3 0 cup
+F 339 4 0 cake 
+F 344 3 0 at 
+F 349 8 0 me 
+- 359
+: 379 3 6 It’s 
+: 384 6 6 time 
+: 392 5 6 for 
+: 398 4 6 spin 
+: 403 2 6 the 
+: 406 4 6 bot
+: 411 3 4 tle 
+- 415
+: 416 3 6 Not 
+: 420 3 6 gonna 
+: 424 2 6 talk 
+: 427 4 6 about 
+: 432 2 6 it 
+: 436 5 6 tomor
+: 443 3 4 row 
+- 447
+F 447 5 0 Keep 
+F 453 2 0 it 
+F 456 3 0 just 
+F 460 3 0 be
+F 464 4 0 tween 
+F 469 3 0 you 
+F 473 2 0 and 
+F 476 7 0 me 
+- 485
+: 511 4 6 Let’s 
+: 519 5 6 play 
+: 527 4 6 truth 
+: 532 2 6 or 
+: 535 4 6 dare 
+: 540 3 4 now 
+- 544
+: 544 2 6 We 
+: 547 1 6 can 
+: 549 2 6 roll 
+: 552 4 6 around 
+: 557 1 6 in 
+: 559 2 4 our 
+: 562 4 6 under
+: 567 2 6 wear 
+: 571 5 4 how 
+- 577
+F 577 4 0 Every 
+F 583 3 0 sil
+F 587 2 0 ly 
+F 590 3 0 kit
+F 594 4 0 ty 
+F 599 5 0 should 
+F 605 8 0 be 
+- 615
+: 639 6 13 Come 
+: 647 6 11 come 
+: 655 3 8 Kit
+: 659 3 8 ty 
+: 663 3 8 Kit
+: 667 3 8 ty 
+- 671
+: 671 4 8 You’re 
+: 680 6 11 so 
+: 687 7 6 pretty 
+: 695 7 6 pretty 
+- 703
+: 703 6 13 Don’t 
+: 711 3 11 go
+: 715 2 8 ~ 
+: 719 7 8 Kitty 
+: 727 7 8 Kitty 
+- 735
+: 735 9 8 Stay 
+* 747 2 6 with 
+: 751 7 8 me 
+- 760
+: 767 6 13 Come 
+: 775 6 11 come 
+: 783 7 8 Kitty 
+: 791 6 8 Kitty 
+- 798
+: 799 4 8 You’re 
+: 808 4 11 so 
+: 815 7 6 silly 
+: 824 7 6 silly 
+- 832
+: 832 6 13 Don’t 
+: 840 3 11 go
+: 844 2 8 ~ 
+: 848 6 8 Kitty 
+: 855 6 8 Kitty 
+- 862
+: 862 9 8 Play 
+: 875 3 6 with 
+: 880 16 8 me 
+- 898
+* 899 2 11 K
+* 903 2 11 k-
+* 907 2 11 k-
+* 910 3 11 kawa
+* 914 3 10 ~
+* 919 5 9 ii 
+- 926
+: 959 7 8 Hello 
+: 967 7 8 Kitty, 
+: 975 7 8 hello 
+: 983 7 8 Kitty 
+- 992
+: 1022 7 8 Hello 
+: 1030 7 8 Kitty, 
+: 1039 3 8 you’re 
+: 1044 2 8 so 
+: 1047 8 8 pretty 
+- 1057
+: 1087 7 8 Hello 
+: 1095 7 8 Kitty, 
+: 1103 7 8 hello 
+: 1111 7 8 Kitty 
+- 1120
+* 1150 7 8 Hello 
+: 1158 7 8 Kitty, 
+: 1167 3 8 you’re 
+: 1172 2 8 so 
+: 1176 7 8 silly 
+- 1184
+: 1184 7 6 Wake 
+: 1192 5 6 up, 
+: 1198 4 6 got 
+: 1203 1 6 a 
+: 1206 3 6 se
+: 1210 3 4 cret 
+- 1214
+: 1214 4 6 Pin
+: 1219 2 6 ky 
+: 1223 3 6 swear 
+: 1227 2 6 that 
+: 1230 2 6 you’re 
+: 1233 3 4 gonna 
+: 1237 3 6 keep 
+: 1241 4 4 it 
+- 1247
+F 1248 3 0 I’ve 
+F 1252 2 0 got 
+F 1255 7 0 something 
+F 1263 3 0 you 
+F 1267 3 0 need 
+F 1271 2 0 to 
+F 1274 9 0 see 
+- 1285
+: 1310 5 6 Let’s 
+: 1318 5 6 be 
+: 1325 5 6 friends 
+: 1331 3 6 for
+: 1335 3 6 e
+: 1339 4 4 ver 
+- 1344
+: 1344 4 6 Wanna 
+: 1349 2 6 do 
+: 1353 3 6 everything 
+: 1357 2 6 with 
+: 1360 3 6 you 
+: 1364 5 6 toge
+: 1370 4 4 ther 
+- 1375
+F 1375 4 0 Come 
+F 1380 2 0 and 
+F 1383 4 0 play 
+F 1388 2 0 with 
+F 1391 7 0 Kitty 
+F 1399 2 0 and 
+F 1402 8 0 me 
+- 1412
+: 1439 6 13 Come 
+: 1447 6 11 come 
+: 1455 7 8 Kitty 
+: 1463 7 8 Kitty 
+- 1471
+: 1471 4 8 You’re 
+: 1480 6 11 so 
+: 1488 7 6 pretty 
+: 1496 6 6 pretty 
+- 1503
+: 1503 6 13 Don’t 
+: 1511 3 11 go
+: 1515 2 8 ~ 
+: 1519 7 8 Kitty 
+: 1527 7 8 Kitty 
+- 1535
+: 1536 9 8 Stay 
+: 1548 2 6 with 
+: 1551 7 8 me 
+- 1560
+: 1566 7 13 Come 
+: 1574 7 11 come 
+: 1583 7 8 Kitty 
+: 1591 7 8 Kitty 
+- 1599
+: 1599 4 8 You’re 
+: 1607 5 11 so 
+: 1615 7 6 silly 
+: 1624 7 6 silly 
+- 1632
+: 1632 6 13 Don’t 
+: 1639 3 11 go
+: 1643 2 8 ~ 
+: 1647 7 8 Kitty 
+: 1655 7 8 Kitty 
+- 1663
+: 1663 9 8 Play 
+: 1676 2 6 with 
+* 1679 80 8 me 
+- 1761
+: 1763 2 11 K
+: 1767 2 11 k-
+: 1771 2 11 k-
+: 1774 3 11 kawa
+: 1778 3 10 ~
+: 1782 5 9 ii 
+- 1789
+: 1823 7 8 Hello 
+: 1831 7 8 Kitty, 
+: 1839 7 8 hello 
+: 1847 7 8 Kitty 
+- 1856
+: 1886 7 8 Hello 
+: 1894 7 8 Kitty, 
+: 1903 3 8 you’re 
+: 1907 2 8 so 
+: 1911 8 8 pretty 
+- 1921
+: 1951 7 8 Hello 
+: 1959 7 8 Kitty, 
+: 1967 7 8 hello 
+: 1975 7 8 Kitty 
+- 1984
+* 2015 3 13 Hel
+* 2019 3 8 lo 
+: 2023 7 8 Kitty, 
+: 2031 3 8 you’re 
+: 2035 2 8 so 
+: 2040 8 8 silly 
+- 2050
+F 2078 6 0 Min’na 
+F 2086 7 0 saiko 
+- 2094
+F 2094 16 0 Arigato 
+- 2112
+F 2146 3 0 K-
+F 2150 3 0 k-
+F 2154 3 0 k-
+F 2158 15 0 kawaii 
+- 2175
+F 2206 7 0 Min’na 
+F 2215 7 0 saiko 
+- 2223
+F 2224 14 0 Arigato 
+- 2240
+F 2274 3 0 K-
+F 2278 3 0 k-
+F 2282 3 0 k-
+F 2286 12 0 kawaii 
+- 2300
+F 2306 3 0 K
+F 2310 3 0 k-
+F 2314 3 0 k-
+F 2318 13 0 kawaii 
+- 2333
+F 2335 3 0 K
+F 2340 3 0 k-
+F 2346 3 0 k-
+F 2350 13 0 kawaii 
+- 2365
+F 2367 3 0 K
+F 2371 3 0 k-
+F 2375 3 0 k-
+F 2381 14 0 kawaii 
+- 2397
+F 2398 3 0 K
+F 2402 3 0 k-
+F 2408 3 0 k-
+F 2413 14 0 kawaii 
+- 2429
+F 2546 13 0 Meow 
+- 2561
+: 2591 7 8 Hello 
+: 2599 7 8 Kitty, 
+: 2607 7 8 hello 
+: 2615 7 8 Kitty 
+- 2624
+: 2654 7 8 Hello 
+: 2662 7 8 Kitty, 
+: 2671 3 8 you’re 
+: 2675 2 8 so 
+: 2678 8 8 pretty 
+- 2688
+: 2719 7 8 Hello 
+: 2727 7 8 Kitty, 
+: 2735 7 8 hello 
+: 2743 7 8 Kitty 
+- 2752
+* 2783 3 13 Hel
+* 2787 3 8 lo 
+: 2791 7 8 Kitty, 
+: 2799 3 8 you’re 
+: 2803 2 8 so 
+: 2806 8 8 silly 
+- 2815
+: 2816 7 13 Come 
+: 2824 7 11 come 
+: 2832 7 8 Kitty 
+: 2840 7 8 Kitty 
+- 2848
+: 2848 3 8 You’re 
+: 2855 5 11 so 
+: 2862 7 6 pretty 
+: 2870 7 6 pretty 
+- 2878
+: 2878 7 13 Don’t 
+: 2886 3 11 go
+: 2890 2 8 ~ 
+: 2894 7 8 Kitty 
+: 2902 7 8 Kitty 
+- 2910
+: 2910 9 8 Stay 
+: 2922 2 6 with 
+* 2925 5 8 me
+* 2931 1 8 ~
+* 2933 1 8 ~
+* 2935 1 8 ~
+* 2937 1 8 ~ 
+- 2940
+: 2944 7 13 Come 
+: 2952 7 11 come 
+: 2960 7 8 Kitty 
+: 2968 7 8 Kitty 
+- 2976
+: 2976 3 8 You’re 
+: 2983 5 11 so 
+: 2991 6 6 silly 
+: 2999 7 6 silly 
+- 3007
+: 3007 7 13 Don’t 
+: 3015 3 11 go
+: 3019 2 8 ~ 
+: 3023 7 8 Kitty 
+: 3031 7 8 Kitty 
+- 3039
+: 3039 9 8 Play 
+: 3051 3 6 with 
+: 3056 12 8 me 
+E

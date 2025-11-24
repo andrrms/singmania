@@ -1,0 +1,635 @@
+#ARTIST:Sin With Sebastian
+#TITLE:Shut Up (And Sleep With Me) (Airplay Mix)
+#MP3:Sin With Sebastian - Shut Up (And Sleep With Me) (Airplay Mix).mp3
+#CREATOR:Fepo
+#GENRE:General Club Dance
+#YEAR:1995
+#LANGUAGE:English
+#BPM:277.8
+#GAP:3640
+#VIDEO:v=yjZ696SPqx4,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/41/2d/cb/412dcbfd-cfa0-b707-58a2-10ba4592a5d3/859700753088.jpg/5000x5000bb.jpg
+: 0 2 0 Shut 
+: 4 2 5 up 
+: 16 2 0 and 
+: 20 2 5 sleep 
+: 24 2 5 with 
+: 28 2 0 me 
+- 31
+: 32 2 0 Come 
+: 36 2 2 on 
+: 40 2 0 why 
+: 44 2 2 don’t 
+: 48 2 0 you 
+: 52 2 5 sleep 
+: 56 2 5 with 
+: 60 2 0 me 
+- 63
+: 64 2 0 Shut 
+: 68 2 5 up 
+: 80 2 0 and 
+: 84 2 5 sleep 
+: 88 2 5 with 
+: 92 2 0 me 
+- 95
+: 96 2 0 Come 
+: 100 2 2 on 
+: 104 2 0 a
+: 108 2 2 ha 
+: 112 2 0 and 
+: 116 2 5 sleep 
+: 120 2 5 with 
+: 124 2 0 me 
+- 127
+: 128 2 0 Shut 
+: 132 2 5 up 
+: 144 2 0 and 
+: 148 2 5 sleep 
+: 152 2 5 with 
+: 156 2 0 me 
+- 159
+: 160 2 0 Come 
+: 164 2 2 on 
+: 168 2 0 why 
+: 172 2 2 don’t 
+: 176 2 0 you 
+: 180 2 5 sleep 
+: 184 2 5 with 
+: 188 2 0 me 
+- 191
+: 192 2 0 Shut 
+: 196 2 5 up 
+: 208 2 0 and 
+: 212 2 5 sleep 
+: 216 2 5 with 
+: 220 2 0 me 
+- 223
+: 225 2 0 Come 
+: 229 2 2 on 
+: 233 2 0 a
+: 237 2 2 ha 
+: 241 2 0 and 
+: 245 2 5 sleep 
+: 249 2 5 with 
+: 253 2 0 me 
+- 256
+: 257 2 0 Shut 
+: 261 2 5 up 
+: 273 2 0 and 
+: 277 2 5 sleep 
+: 281 2 5 with 
+: 285 2 0 me 
+- 288
+: 290 2 0 Come 
+: 294 2 2 on 
+: 298 2 0 why 
+: 302 2 2 don’t 
+: 306 2 0 you 
+: 310 2 5 sleep 
+: 314 2 5 with 
+: 318 2 0 me 
+- 321
+: 322 2 0 Shut 
+: 326 2 5 up 
+: 338 2 0 and 
+: 342 2 5 sleep 
+: 346 2 5 with 
+: 350 2 0 me 
+- 353
+: 354 2 0 Come 
+: 358 2 2 on 
+: 362 2 0 a
+: 366 2 2 ha 
+: 370 2 0 and 
+: 374 2 5 sleep 
+: 378 2 5 with 
+: 382 2 0 me 
+- 385
+: 386 2 0 Shut 
+: 390 2 5 up 
+: 402 2 0 and 
+: 406 2 5 sleep 
+: 410 2 5 with 
+: 414 2 0 me 
+- 417
+: 419 2 0 Come 
+: 423 2 2 on 
+: 427 2 0 why 
+: 431 2 2 don’t 
+: 435 2 0 you 
+: 439 2 5 sleep 
+: 443 2 5 with 
+: 447 2 0 me 
+- 450
+: 451 2 0 Shut 
+: 455 2 5 up 
+: 467 2 0 and 
+: 471 2 5 sleep 
+: 475 2 5 with 
+: 479 2 0 me 
+- 482
+: 483 2 0 Come 
+: 487 2 2 on 
+: 491 2 0 a
+: 495 2 2 ha 
+: 499 2 0 and 
+: 503 2 5 sleep 
+: 507 2 5 with 
+: 511 2 0 me 
+- 514
+: 515 2 0 Shut 
+: 519 2 5 up 
+: 531 2 0 and 
+: 535 2 5 sleep 
+: 539 2 5 with 
+: 543 2 0 me 
+- 546
+: 548 2 0 Come 
+: 552 2 2 on 
+: 556 2 0 why 
+: 560 2 2 don’t 
+: 564 2 0 you 
+: 568 2 5 sleep 
+: 572 2 5 with 
+: 576 2 0 me 
+- 579
+: 580 2 0 Shut 
+: 584 2 5 up 
+: 596 2 0 and 
+: 600 2 5 sleep 
+: 604 2 5 with 
+: 608 2 0 me 
+- 611
+: 612 2 0 Come 
+: 616 2 2 on 
+: 620 2 0 a
+: 624 2 2 ha 
+: 628 2 0 and 
+: 632 2 5 sleep 
+: 636 2 5 with 
+: 640 2 0 me 
+- 643
+: 644 2 0 Shut 
+: 648 2 5 up 
+: 660 2 0 and 
+: 664 2 5 sleep 
+: 668 2 5 with 
+: 672 2 0 me 
+- 675
+: 676 2 0 Come 
+: 680 2 2 on 
+: 684 2 0 why 
+: 688 2 2 don’t 
+: 692 2 0 you 
+: 696 2 5 sleep 
+: 700 2 5 with 
+: 704 2 0 me 
+- 707
+: 708 2 0 Shut 
+: 712 2 5 up 
+: 724 2 0 and 
+: 728 2 5 sleep 
+: 732 2 5 with 
+: 736 2 0 me 
+- 739
+: 741 2 0 Come 
+: 745 2 2 on 
+: 749 2 0 a
+: 753 2 2 ha 
+: 757 2 0 and 
+: 761 2 5 sleep 
+: 765 2 5 with 
+: 769 2 0 me 
+- 773
+F 781 2 0 I 
+F 785 2 0 love 
+F 789 2 0 your 
+F 793 2 0 bo
+F 797 2 0 dy 
+F 801 2 0 not 
+F 805 2 0 so 
+F 809 3 0 much 
+- 814
+F 817 2 0 I 
+F 821 4 0 like 
+F 829 2 0 your 
+F 833 4 0 mind 
+- 839
+F 845 2 2 In 
+F 849 2 2 fact 
+F 853 2 2 you’re 
+F 857 2 5 bo
+F 861 2 0 ring 
+- 865
+F 869 2 0 Pre
+F 873 2 0 tend 
+F 877 2 0 not 
+F 881 3 0 be
+F 886 2 0 ing 
+F 890 2 0 oF 
+F 894 2 0 my 
+F 898 3 0 kind 
+- 903
+F 910 2 2 You 
+F 914 2 2 keep 
+F 918 2 2 on 
+F 922 2 2 tal
+F 926 2 2 king 
+F 930 2 2 oF 
+F 934 2 2 some 
+F 938 4 2 girl 
+F 946 2 2 that 
+F 950 5 2 i 
+F 958 2 2 don’t 
+F 962 4 2 know 
+- 968
+F 974 2 0 When 
+F 978 2 0 will 
+F 982 2 0 you 
+F 986 2 0 shut 
+F 990 2 0 up 
+- 994
+F 998 2 0 And 
+F 1002 2 0 when 
+F 1006 2 0 will 
+F 1010 2 0 you 
+F 1014 4 0 go 
+- 1020
+* 1025 3 9 You 
+* 1030 2 10 were 
+* 1034 6 12 young 
+- 1042
+: 1058 5 14 You’re 
+: 1066 7 7 free
+: 1074 8 5 ~ 
+- 1084
+: 1090 6 9 Why 
+: 1098 6 10 don’t 
+: 1106 6 9 you 
+* 1114 5 7 sleep 
+* 1122 5 5 with 
+* 1131 8 0 me 
+- 1141
+: 1156 3 9 You 
+: 1161 2 10 were 
+: 1165 6 12 young 
+- 1173
+: 1188 5 14 You’re 
+: 1196 7 7 free
+: 1204 8 5 ~ 
+- 1214
+: 1220 6 9 Why 
+: 1228 6 10 don’t 
+: 1236 6 9 you 
+: 1244 4 7 sleep 
+: 1252 4 5 with 
+: 1260 8 7 me 
+- 1270
+: 1546 2 0 Shut 
+: 1550 2 5 up 
+: 1562 2 0 and 
+: 1566 2 5 sleep 
+: 1570 2 5 with 
+: 1574 2 0 me 
+- 1577
+: 1578 2 0 Come 
+: 1582 2 2 on 
+: 1586 2 0 why 
+: 1590 2 2 don’t 
+: 1594 2 0 you 
+: 1598 2 5 sleep 
+: 1602 2 5 with 
+: 1606 2 0 me 
+- 1609
+: 1610 2 0 Shut 
+: 1614 2 5 up 
+: 1626 2 0 and 
+: 1630 2 5 sleep 
+: 1634 2 5 with 
+: 1638 2 0 me 
+- 1641
+: 1642 2 0 Come 
+: 1646 2 2 on 
+: 1650 2 0 a
+: 1654 2 2 ha 
+: 1658 2 0 and 
+: 1662 2 5 sleep 
+: 1666 2 5 with 
+: 1670 2 0 me 
+- 1673
+: 1674 2 0 Shut 
+: 1678 2 5 up 
+: 1690 2 0 and 
+: 1694 2 5 sleep 
+: 1698 2 5 with 
+: 1702 2 0 me 
+- 1705
+: 1707 2 0 Come 
+: 1711 2 2 on 
+: 1715 2 0 why 
+: 1719 2 2 don’t 
+: 1723 2 0 you 
+: 1727 2 5 sleep 
+: 1731 2 5 with 
+: 1735 2 0 me 
+- 1738
+: 1739 2 0 Shut 
+: 1743 2 5 up 
+: 1755 2 0 and 
+: 1759 2 5 sleep 
+: 1763 2 5 with 
+: 1767 2 0 me 
+- 1770
+: 1771 2 0 Come 
+: 1775 2 2 on 
+: 1779 2 0 a
+: 1783 2 2 ha 
+: 1787 2 0 and 
+: 1791 2 5 sleep 
+: 1795 2 5 with 
+: 1799 2 0 me 
+- 1802
+: 1803 2 0 Shut 
+: 1807 2 5 up 
+: 1819 2 0 and 
+: 1823 2 5 sleep 
+: 1827 2 5 with 
+: 1831 2 0 me 
+- 1834
+: 1836 2 0 Come 
+: 1840 2 2 on 
+: 1844 2 0 why 
+: 1848 2 2 don’t 
+: 1852 2 0 you 
+: 1856 2 5 sleep 
+: 1860 2 5 with 
+: 1864 2 0 me 
+- 1867
+: 1868 2 0 Shut 
+: 1872 2 5 up 
+: 1884 2 0 and 
+: 1888 2 5 sleep 
+: 1892 2 5 with 
+: 1896 2 0 me 
+- 1899
+: 1900 2 0 Come 
+: 1904 2 2 on 
+: 1908 2 0 a
+: 1912 2 2 ha 
+: 1916 2 0 and 
+: 1920 2 5 sleep 
+: 1924 2 5 with 
+: 1928 2 0 me 
+- 1931
+: 1933 2 0 Shut 
+: 1937 2 5 up 
+: 1949 2 0 and 
+: 1953 2 5 sleep 
+: 1957 2 5 with 
+: 1961 2 0 me 
+- 1964
+: 1965 2 0 Come 
+: 1969 2 2 on 
+: 1973 2 0 why 
+: 1977 2 2 don’t 
+: 1981 2 0 you 
+: 1985 2 5 sleep 
+: 1989 2 5 with 
+: 1993 2 0 me 
+- 1996
+: 1997 2 0 Shut 
+: 2001 2 5 up 
+: 2013 2 0 and 
+: 2017 2 5 sleep 
+: 2021 2 5 with 
+: 2025 2 0 me 
+- 2028
+: 2029 2 0 Come 
+: 2033 2 2 on 
+: 2037 2 0 a
+: 2041 2 2 ha 
+: 2045 2 0 and 
+: 2049 2 5 sleep 
+: 2053 2 5 with 
+: 2057 2 0 me 
+- 2061
+F 2073 2 0 Don’t 
+F 2077 2 0 you 
+F 2081 2 0 lis
+F 2085 2 0 ten 
+- 2088
+F 2089 2 0 To 
+F 2094 3 0 those 
+F 2099 4 0 old 
+F 2105 2 0 con
+F 2109 5 0 ven
+F 2116 4 0 tions 
+- 2122
+F 2133 2 0 Nor 
+F 2137 3 0 hide 
+F 2142 2 0 or 
+F 2146 2 0 sup
+F 2150 3 0 press 
+- 2155
+F 2159 2 0 Your 
+F 2163 5 0 real 
+F 2170 2 0 in
+F 2174 4 0 ten
+F 2180 3 0 tions 
+- 2185
+F 2198 2 0 You’re 
+F 2202 2 0 o
+F 2206 2 0 pen 
+F 2210 2 0 min
+F 2214 3 0 ded 
+- 2219
+F 2222 2 0 At 
+F 2226 2 0 least 
+F 2230 2 0 that’s 
+F 2234 2 0 what 
+F 2238 2 0 you 
+F 2242 2 0 keep 
+F 2246 2 0 on 
+F 2250 2 0 say
+F 2254 2 0 ing 
+- 2258
+F 2263 2 0 Don’t 
+F 2267 2 0 be 
+F 2271 2 0 a
+F 2275 2 0 fraid 
+F 2279 2 0 oF 
+F 2283 2 0 do
+F 2287 4 0 ing 
+- 2292
+F 2294 3 0 What 
+F 2299 2 0 you 
+F 2303 2 0 are 
+F 2307 3 0 best 
+F 2314 3 0 can 
+- 2318
+: 2319 3 0 Shut 
+: 2324 4 3 up, 
+: 2335 3 0 shut 
+: 2340 4 3 up, 
+: 2352 3 0 shut 
+: 2357 4 3 up, 
+: 2368 3 0 shut 
+: 2373 4 3 up 
+- 2379
+: 2383 3 0 Shut 
+: 2388 4 3 up, 
+: 2399 3 0 shut 
+: 2404 4 3 up, 
+: 2415 3 0 shut 
+: 2420 4 3 up, 
+: 2431 3 0 shut 
+: 2436 4 3 up 
+- 2441
+: 2443 3 9 You 
+: 2448 2 10 were 
+: 2452 6 12 young 
+- 2460
+: 2475 5 14 You’re 
+: 2483 7 7 free
+: 2491 8 5 ~ 
+- 2501
+: 2509 6 9 Why 
+: 2517 6 10 don’t 
+: 2525 6 9 you 
+: 2533 4 7 sleep 
+: 2541 4 5 with 
+: 2549 8 7 me 
+- 2559
+: 2573 3 9 You 
+: 2578 2 10 were 
+: 2582 6 12 young 
+- 2590
+: 2604 5 14 You’re 
+: 2612 7 7 free
+: 2620 8 5 ~ 
+- 2630
+: 2638 6 9 Why 
+: 2646 6 10 don’t 
+: 2654 6 9 you 
+: 2662 4 7 sleep 
+: 2670 4 5 with 
+: 2678 8 7 me 
+- 2688
+: 2963 2 0 Shut 
+: 2967 2 5 up 
+: 2979 2 0 and 
+: 2983 2 5 sleep 
+: 2987 2 5 with 
+: 2991 2 0 me 
+- 2994
+: 2996 2 0 Come 
+: 3000 2 2 on 
+: 3004 2 0 why 
+: 3008 2 2 don’t 
+: 3012 2 0 you 
+: 3016 2 5 sleep 
+: 3020 2 5 with 
+: 3024 2 0 me 
+- 3027
+: 3028 2 0 Shut 
+: 3032 2 5 up 
+: 3044 2 0 and 
+: 3048 2 5 sleep 
+: 3052 2 5 with 
+: 3056 2 0 me 
+- 3059
+: 3060 2 0 Come 
+: 3064 2 2 on 
+: 3068 2 0 a
+: 3072 2 2 ha 
+: 3076 2 0 and 
+: 3080 2 5 sleep 
+: 3084 2 5 with 
+: 3088 2 0 me 
+- 3091
+: 3092 2 0 Shut 
+: 3096 2 5 up 
+: 3108 2 0 and 
+: 3112 2 5 sleep 
+: 3116 2 5 with 
+: 3120 2 0 me 
+- 3123
+: 3125 2 0 Come 
+: 3129 2 2 on 
+: 3133 2 0 why 
+: 3137 2 2 don’t 
+: 3141 2 0 you 
+: 3145 2 5 sleep 
+: 3149 2 5 with 
+: 3153 2 0 me 
+- 3156
+: 3157 2 0 Shut 
+: 3161 2 5 up 
+: 3173 2 0 and 
+: 3177 2 5 sleep 
+: 3181 2 5 with 
+: 3185 2 0 me 
+- 3188
+: 3189 2 0 Come 
+: 3193 2 2 on 
+: 3197 2 0 a
+: 3201 2 2 ha 
+: 3205 2 0 and 
+: 3209 2 5 sleep 
+: 3213 2 5 with 
+: 3217 2 0 me 
+- 3220
+: 3221 2 0 Shut 
+: 3225 2 5 up 
+: 3237 2 0 and 
+: 3241 2 5 sleep 
+: 3245 2 5 with 
+: 3249 2 0 me 
+- 3252
+: 3253 2 0 Come 
+: 3257 2 2 on 
+: 3261 2 0 why 
+: 3265 2 2 don’t 
+: 3269 2 0 you 
+: 3273 2 5 sleep 
+: 3277 2 5 with 
+: 3281 2 0 me 
+- 3284
+: 3286 2 0 Shut 
+: 3290 2 5 up 
+: 3302 2 0 and 
+: 3306 2 5 sleep 
+: 3310 2 5 with 
+: 3314 2 0 me 
+- 3317
+: 3318 2 0 Come 
+: 3322 2 2 on 
+: 3326 2 0 a
+: 3330 2 2 ha 
+: 3334 2 0 and 
+: 3338 2 5 sleep 
+: 3342 2 5 with 
+: 3346 2 0 me 
+- 3349
+: 3350 2 0 Shut 
+: 3354 2 5 up 
+: 3366 2 0 and 
+: 3370 2 5 sleep 
+: 3374 2 5 with 
+: 3378 2 0 me 
+- 3381
+: 3382 2 0 Come 
+: 3386 2 2 on 
+: 3390 2 0 why 
+: 3394 2 2 don’t 
+: 3398 2 0 you 
+: 3402 2 5 sleep 
+: 3406 2 5 with 
+: 3410 2 0 me 
+- 3413
+: 3414 2 0 Shut 
+: 3418 2 5 up 
+: 3430 2 0 and 
+: 3434 2 5 sleep 
+: 3438 2 5 with 
+: 3442 2 0 me 
+E

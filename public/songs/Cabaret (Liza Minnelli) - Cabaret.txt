@@ -1,0 +1,381 @@
+#ARTIST:Cabaret (Liza Minnelli)
+#TITLE:Cabaret
+#MP3:Cabaret (Liza Minnelli) - Cabaret.mp3
+#CREATOR:Fepo
+#GENRE:General Mainstream Rock
+#YEAR:1972
+#LANGUAGE:English
+#BPM:217.85
+#GAP:19880
+#VIDEO:v=moOamKxW844,co=https://i.discogs.com/Mw09oX1g1VFhuRVDb7Ays-AXf3pTVeTwi5ysPfdffiM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODMz/NjctMTQ4Mjk0OTkw/MS0yNTA0LmpwZWc.jpeg,bg=minnelli-liza-53f31e825dadb.jpg
+: 0 2 5 What 
+: 4 2 5 good 
+: 8 2 5 is 
+: 12 2 2 sit
+: 16 5 5 ting 
+: 24 3 5 a
+: 29 2 7 lone 
+: 33 2 5 in 
+: 38 2 2 your 
+: 42 6 5 room? 
+- 50
+: 61 5 7 Come 
+: 69 3 5 hear 
+: 74 2 2 the 
+: 78 6 5 mu
+: 86 3 7 sic 
+: 94 8 2 play 
+- 104
+: 126 3 7 Life 
+: 132 5 10 is 
+: 140 2 7 the 
+: 147 4 10 ca
+: 155 2 7 ba
+: 159 3 9 ret, 
+: 165 3 5 old 
+: 170 9 2 chum, 
+- 181
+: 191 3 2 Come 
+: 196 5 5 to 
+: 204 2 3 the 
+: 208 6 5 ca
+: 216 4 5 ba
+: 224 10 2 ret 
+- 236
+: 256 2 -7 Put 
+: 260 4 -5 down 
+: 268 2 -2 the 
+: 272 2 2 knit
+: 276 2 5 ting 
+: 284 2 5 the 
+: 288 2 7 book 
+: 292 2 5 and 
+: 296 2 2 the 
+: 300 7 5 broom 
+- 309
+: 315 3 5 It’s 
+: 320 7 7 time 
+: 330 3 5 for 
+: 335 3 2 a 
+: 341 3 5 ho
+: 346 2 7 li
+: 350 13 2 day 
+- 365
+: 385 3 10 Life 
+: 390 5 10 is 
+: 398 3 7 the 
+: 403 5 10 ca
+: 410 2 7 ba
+: 414 4 9 ret, 
+: 422 3 5 old 
+: 428 8 2 chum, 
+- 438
+: 449 3 2 Come 
+: 454 5 5 to 
+: 462 2 3 the 
+: 466 6 5 ca
+: 474 4 5 ba
+: 482 4 -2 ret 
+- 488
+: 502 2 -2 Come 
+: 506 3 -2 test 
+: 511 2 0 the 
+: 515 9 6 wine 
+- 526
+: 534 3 10 Come 
+: 540 3 10 hear 
+: 545 2 2 the 
+: 548 9 5 band 
+- 559
+: 568 2 2 Come 
+: 572 2 2 blow 
+: 576 2 2 your 
+: 580 5 10 horn, 
+: 588 4 10 start 
+: 597 2 10 ce
+: 601 2 7 le
+: 605 2 9 bra
+: 609 2 10 ting 
+- 612
+: 613 2 9 Right 
+: 617 2 12 this 
+: 621 2 12 way 
+: 625 2 9 your 
+: 629 2 9 ta
+: 633 2 5 ble’s 
+: 637 2 2 wai
+: 642 2 0 ting 
+- 645
+: 646 3 -7 What 
+: 650 4 -5 could 
+: 658 2 -2 o
+: 662 2 2 mit
+: 666 3 5 ting 
+: 675 2 5 some 
+: 679 2 7 pro
+: 683 2 5 phet 
+: 687 2 2 of 
+: 691 6 5 doom 
+- 699
+: 706 2 5 To 
+: 710 5 7 wipe 
+: 718 2 5 eve
+: 722 2 2 ry 
+: 727 9 5 smile 
+: 738 2 7 a
+: 742 11 8 way. 
+- 755
+: 773 3 10 Life 
+: 778 6 10 is 
+: 786 2 7 the 
+: 790 5 10 ca
+: 798 6 7 ba
+: 806 3 9 ret, 
+: 811 3 12 old 
+: 817 6 9 chum 
+- 825
+: 833 2 5 So 
+: 837 3 7 come 
+: 842 5 10 to 
+: 850 2 7 the 
+: 854 4 10 ca
+: 861 2 14 ba
+: 865 2 12 ~
+: 870 18 10 ret 
+- 890
+: 929 2 5 I 
+: 933 2 2 used 
+: 937 2 2 to 
+: 941 2 5 have 
+: 945 2 5 this 
+: 949 2 2 girl
+: 953 2 2 friend 
+: 957 2 5 know 
+: 961 2 5 as 
+: 965 3 7 El
+: 970 3 2 sie 
+- 975
+: 993 2 5 With 
+: 997 2 2 whom 
+: 1001 2 2 I 
+: 1005 2 5 shared 
+: 1009 2 5 fore 
+: 1013 2 2 sor
+: 1017 2 2 did 
+: 1021 4 5 room 
+: 1027 2 2 in 
+: 1031 4 7 Chel
+: 1037 3 2 sea 
+- 1042
+: 1058 3 2 She 
+: 1063 2 0 wa
+: 1066 2 0 sn’t 
+: 1071 2 3 what 
+: 1074 2 3 you’d 
+: 1078 3 0 call 
+: 1083 2 0 a 
+: 1087 2 3 blu
+: 1091 2 3 shing 
+: 1096 3 0 flo
+: 1102 3 -3 wer 
+- 1107
+: 1122 2 -2 As 
+: 1125 1 -5 a 
+: 1127 3 -5 mat
+: 1131 1 -5 ter 
+: 1133 2 -5 of 
+: 1136 2 0 fact 
+: 1140 2 3 she 
+: 1144 2 5 ren
+: 1148 2 0 ted 
+: 1152 3 2 by 
+: 1157 2 5 the 
+: 1161 2 7 ho
+: 1165 2 5 ur 
+- 1169
+: 1189 2 5 The 
+: 1193 2 2 day 
+: 1197 2 2 she 
+: 1201 4 5 die 
+: 1207 2 5 the 
+: 1211 2 0 neigh
+: 1214 2 2 bours 
+: 1218 2 5 came 
+: 1223 2 5 to 
+: 1227 2 7 sni
+: 1231 3 2 cker 
+- 1236
+: 1253 3 5 Well 
+: 1258 2 2 that’s 
+: 1262 2 2 what 
+: 1266 3 5 comes 
+: 1272 2 5 from 
+: 1276 1 2 to 
+: 1278 3 2 much 
+: 1283 3 5 pills 
+: 1288 2 5 and 
+: 1292 3 7 li
+: 1297 3 2 quor 
+- 1302
+: 1325 3 3 But 
+: 1330 4 0 when 
+: 1336 3 0 I 
+: 1343 3 3 saw 
+: 1349 2 3 her 
+: 1354 4 7 laid 
+: 1360 5 7 out 
+: 1368 4 9 like 
+: 1377 2 2 a 
+: 1382 20 10 queen 
+- 1404
+: 1428 2 5 She 
+: 1432 2 7 was 
+: 1437 3 9 the 
+: 1446 4 10 hap
+: 1451 2 7 pi
+: 1454 2 5 est 
+: 1460 4 5 corps 
+: 1467 4 3 I’d 
+: 1474 7 2 e
+: 1483 3 0 ver 
+: 1490 6 -2 seen 
+- 1498
+: 1522 2 2 I 
+: 1526 2 -3 think 
+: 1530 2 -3 of 
+: 1534 2 4 El
+: 1537 2 4 sie 
+: 1541 2 -3 to 
+: 1544 2 -3 this 
+: 1548 2 5 ve
+: 1551 1 4 ry 
+: 1554 7 5 day 
+- 1563
+: 1587 2 4 I 
+: 1591 2 2 re
+: 1594 3 0 mem
+: 1598 3 0 ber 
+: 1611 2 5 how 
+: 1615 3 5 she 
+: 1620 5 0 turn 
+: 1628 2 0 to 
+: 1631 7 7 me 
+: 1649 3 0 and 
+: 1654 22 5 say... 
+- 1678
+: 1709 3 -7 What 
+: 1714 2 -5 good 
+: 1718 2 -2 is 
+: 1722 2 2 sit
+: 1726 7 5 ting 
+: 1745 3 7 all 
+: 1750 2 5 a
+: 1754 2 7 lone 
+: 1758 2 5 in 
+: 1762 2 2 your 
+: 1766 10 5 room? 
+- 1778
+: 1792 6 7 Come 
+: 1812 3 5 hear 
+: 1817 2 2 the 
+: 1822 15 5 mu
+: 1841 3 1 sic 
+: 1847 25 2 play 
+- 1874
+: 1902 4 10 Life 
+: 1910 3 10 is 
+: 1915 7 7 the 
+: 1940 6 10 ca
+: 1948 3 7 ba
+: 1953 5 9 ret, 
+: 1962 7 5 old 
+: 1972 8 2 chum, 
+- 1982
+: 2008 4 2 Come 
+* 2016 12 5 to 
+* 2032 3 2 the 
+* 2038 12 5 ca
+: 2052 10 5 ba
+: 2064 9 10 ret 
+- 2075
+: 2091 4 -2 And 
+: 2097 2 -2 as 
+: 2102 2 -2 for 
+: 2107 7 6 me, 
+: 2118 4 6 ha 
+- 2124
+: 2127 3 10 And 
+: 2132 2 10 as 
+: 2136 2 6 for 
+: 2140 7 5 me 
+- 2149
+: 2160 2 2 I 
+: 2164 2 2 made 
+: 2168 2 2 my 
+: 2172 8 10 mind 
+: 2184 6 10 up 
+: 2196 4 10 back 
+: 2204 2 7 in 
+: 2210 4 9 Chel
+: 2217 7 10 sea 
+- 2226
+: 2240 2 9 When 
+: 2244 6 10 I 
+* 2253 51 12 go... 
+- 2306
+: 2316 9 9 I’m 
+: 2330 4 11 go
+: 2336 4 11 ing 
+* 2343 14 7 like 
+* 2360 13 5 El
+* 2376 12 2 sie... 
+- 2390
+: 2397 8 -5 Start 
+: 2409 9 -3 by 
+: 2424 6 0 ad
+: 2434 5 4 mit
+: 2442 5 7 ting 
+: 2457 5 7 from 
+: 2465 6 9 cra
+: 2473 4 7 dle 
+: 2480 3 4 to 
+: 2487 12 7 tomb 
+- 2501
+: 2512 4 7 It 
+: 2518 3 9 i
+: 2523 3 7 sn’t 
+: 2528 3 4 that 
+: 2534 2 0 a 
+: 2538 7 7 long 
+: 2548 3 9 a 
+: 2555 21 10 stay 
+- 2578
+: 2589 4 12 Life 
+: 2595 4 11 is 
+: 2602 3 9 a 
+: 2607 6 12 ca
+: 2615 4 9 ba
+: 2621 4 11 ret, 
+: 2627 4 7 old 
+: 2633 6 4 chum 
+- 2641
+: 2649 2 9 It’s 
+: 2653 2 9 on
+: 2657 5 12 ly 
+: 2665 3 9 a 
+: 2674 3 11 ca
+: 2679 2 9 ba
+: 2683 3 11 ret, 
+: 2688 4 14 old 
+: 2694 7 11 chum 
+- 2703
+: 2710 3 9 And 
+: 2715 4 9 I 
+: 2722 7 12 love 
+- 2731
+: 2737 5 9 A 
+: 2745 12 12 ca
+* 2760 4 16 ba
+* 2766 7 14 ~
+* 2778 86 12 ret 
+E

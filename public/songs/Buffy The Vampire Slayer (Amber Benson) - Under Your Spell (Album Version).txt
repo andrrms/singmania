@@ -1,0 +1,274 @@
+#ARTIST:Buffy The Vampire Slayer (Amber Benson)
+#TITLE:Under Your Spell (Album Version)
+#MP3:Buffy The Vampire Slayer (Amber Benson) - Under Your Spell (Album Version).mp3
+#CREATOR:Canni
+#EDITION:[SC]-Songs
+#GENRE:Soundtrack
+#YEAR:2002
+#LANGUAGE:English
+#BPM:232.24
+#GAP:9520
+#VIDEO:a=rmsrfivdKPQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/a0/cd/00a0cddb-c247-573f-972a-dcd6e5b6b6a8/20UMGIM16028.rgb.jpg/5000x5000bb.jpg,bg=buffy-the-vampire-slayer-5a8917ad2bff5.jpg
+: 0 3 9 I 
+: 5 5 9 lived 
+: 13 5 6 my 
+: 21 6 9 life 
+: 30 3 11 in 
+: 38 5 9 sha
+: 45 5 4 dow. 
+- 52
+: 60 2 8 Ne
+: 63 2 8 ver 
+: 67 2 8 the 
+: 71 5 8 sun 
+: 79 2 6 on 
+: 84 5 9 my 
+: 92 11 9 face. 
+- 105
+: 133 2 9 It 
+: 138 4 9 did
+: 144 4 6 n’t 
+: 155 4 9 seem 
+: 164 4 11 so 
+: 171 5 9 sad 
+: 179 6 4 though. 
+- 187
+: 192 2 8 I 
+: 196 2 8 fi
+: 199 3 8 gured 
+: 204 5 8 that 
+: 212 2 6 was 
+: 216 5 9 my 
+: 224 8 9 place. 
+- 234
+: 254 2 6 Now 
+: 258 8 6 I’m 
+* 269 7 9 bathed 
+: 278 4 4 in 
+: 286 17 4 light. 
+- 305
+: 322 3 6 Some
+: 326 4 6 thing 
+: 334 5 6 just 
+: 342 3 6 is
+: 346 4 9 n’t 
+: 354 11 9 right. 
+- 367
+: 387 2 2 I’m 
+* 392 5 14 un
+: 400 4 13 der 
+: 407 4 14 your 
+: 415 13 9 spell. 
+- 430
+: 434 3 11 How 
+: 439 3 9 else 
+: 444 1 7 could 
+: 446 2 6 it 
+: 450 5 4 be, 
+- 457
+: 467 2 11 A
+: 470 2 9 ny
+: 473 3 7 one 
+: 478 3 6 would 
+: 482 5 4 no
+: 490 3 6 tice 
+: 495 7 7 me? 
+- 504
+: 511 2 4 It’s 
+: 515 4 2 ma
+: 521 4 14 gic, 
+: 526 6 13 I 
+* 534 6 14 can 
+: 541 7 11 te
+: 550 8 9 ~ll. 
+- 560
+: 562 2 11 How 
+: 565 2 9 you 
+: 570 2 7 set 
+: 573 3 6 me 
+: 578 6 4 free. 
+- 586
+: 593 3 11 Brought 
+: 598 1 9 me 
+: 600 4 7 out 
+: 606 3 6 so 
+: 610 5 4 ea
+: 617 3 6 si
+: 622 10 7 ly. 
+- 634
+: 649 3 9 I 
+: 654 5 9 saw 
+: 661 6 6 a 
+: 669 5 9 world 
+: 677 4 11 en
+: 685 5 9 chan
+: 693 5 4 ted. 
+- 700
+: 705 3 8 Spi
+: 709 3 8 rits 
+: 713 3 8 and 
+: 717 6 8 charms 
+: 726 2 6 in 
+: 730 6 9 the 
+: 738 13 9 air. 
+- 753
+: 778 2 9 I 
+: 782 6 9 al
+: 790 5 6 ways 
+: 798 5 9 took 
+: 806 4 11 for 
+: 814 5 9 gran
+: 822 6 4 ted. 
+- 830
+: 835 2 8 I 
+: 839 2 8 was 
+: 843 2 8 the 
+: 847 5 8 on
+: 855 2 6 ly 
+: 859 4 9 one 
+: 866 13 9 there. 
+- 881
+: 895 2 6 But 
+: 898 8 6 your 
+* 911 7 9 po
+: 919 5 4 wer 
+: 927 16 4 shone. 
+- 945
+: 963 3 6 Brigh
+: 968 2 6 ter 
+: 972 3 6 than 
+: 976 6 6 a
+: 984 2 6 ny 
+: 988 5 9 I’ve 
+: 995 20 9 known. 
+- 1017
+: 1028 2 2 I’m 
+* 1033 5 14 un
+: 1041 4 13 der 
+: 1049 4 14 your 
+: 1056 14 9 spell 
+- 1072
+: 1076 3 11 No
+: 1080 2 9 thing 
+: 1083 3 7 I 
+: 1088 3 6 can 
+: 1093 7 4 do. 
+- 1102
+: 1108 2 11 You 
+: 1112 2 9 just 
+: 1116 2 7 took 
+: 1120 3 6 my 
+: 1125 4 4 soul 
+: 1132 3 6 with 
+: 1137 8 7 you. 
+- 1147
+: 1152 3 2 You 
+: 1156 4 2 worked 
+: 1163 3 14 your 
+: 1168 6 13 charm 
+: 1176 5 14 so 
+: 1184 6 11 we
+: 1191 7 9 ~ll. 
+- 1200
+: 1203 3 11 Fi
+: 1207 2 9 nal
+: 1210 3 7 ly, 
+: 1215 3 6 I 
+: 1220 7 4 knew: 
+- 1229
+: 1235 2 11 E
+: 1239 2 9 very
+: 1242 2 7 thing 
+: 1246 3 6 I 
+: 1252 4 4 dreamed 
+: 1258 3 6 was 
+: 1264 6 7 true. 
+- 1272
+: 1275 2 4 You 
+: 1279 10 6 make 
+: 1298 5 -1 me 
+: 1306 3 -1 be
+* 1311 5 15 lie
+* 1318 52 13 ~ve. 
+- 1372
+: 1596 2 6 The 
+: 1600 8 6 moon 
+: 1612 5 9 to 
+: 1619 4 2 the
+: 1624 3 4 ~ 
+: 1629 14 4 tide. 
+- 1645
+: 1664 3 6 I 
+: 1668 5 6 can 
+: 1676 4 6 feel 
+: 1683 3 6 you 
+: 1688 4 9 in
+: 1696 19 9 side. 
+- 1717
+: 1727 3 2 I’m 
+: 1732 5 14 un
+: 1740 3 13 der 
+: 1747 4 14 your 
+: 1755 12 9 spell. 
+- 1769
+: 1775 3 11 Sur
+: 1780 1 9 ging 
+: 1782 3 7 like 
+: 1787 2 6 the 
+: 1791 6 4 sea. 
+- 1799
+: 1807 3 11 Wan
+: 1811 1 9 ting 
+: 1813 3 7 you 
+: 1819 2 6 so 
+: 1823 3 4 help
+: 1829 3 6 less
+: 1836 5 7 ly. 
+- 1843
+: 1850 3 2 I 
+: 1854 4 2 break 
+: 1861 3 14 with 
+: 1866 5 13 e
+: 1874 4 14 very 
+: 1882 7 11 swe
+: 1890 8 9 ~ll. 
+- 1900
+: 1902 3 11 Lost 
+: 1908 1 9 in 
+: 1910 2 7 ecs
+: 1914 2 6 ta
+: 1918 3 4 sy. 
+- 1923
+: 1933 3 11 Spread 
+: 1938 1 9 be
+: 1940 3 7 neath 
+: 1945 3 6 my 
+: 1950 4 4 wil
+: 1956 4 6 low 
+: 1963 7 7 tree. 
+- 1971
+: 1971 4 4 You 
+: 1978 9 6 make 
+: 1997 4 -1 me 
+: 2005 2 -1 com
+* 2010 5 15 ple
+* 2017 63 13 ~te. 
+- 2082
+: 2151 2 11 You 
+: 2155 6 11 make 
+: 2163 5 13 me 
+: 2171 14 15 com
+: 2187 19 13 plete. 
+- 2208
+: 2216 3 11 You 
+: 2221 5 11 make 
+: 2229 6 13 me 
+: 2238 12 15 com
+: 2253 16 13 plete. 
+- 2271
+: 2280 3 11 You 
+: 2285 7 11 make 
+: 2294 4 13 me 
+: 2302 12 15 com
+: 2317 17 13 plete. 
+E

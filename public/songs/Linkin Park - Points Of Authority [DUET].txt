@@ -1,0 +1,493 @@
+#ARTIST:Linkin Park
+#TITLE:Points Of Authority [DUET]
+#MP3:Linkin Park - Points Of Authority [DUET].mp3
+#CREATOR:Liangqui
+#EDITION:[DUET]-Songs
+#COVER:Linkin Park - Points Of Authority [DUET] [CO].jpg
+#BACKGROUND:Linkin Park - Points Of Authority [DUET] [BG].jpg
+#GENRE:Nu Metal
+#YEAR:2000
+#LANGUAGE:English
+#BPM:285
+#GAP:10600
+#VIDEO:v=jZSPAp8kCl4,co=points-of-authority-61616b857e4f2.jpg,bg=linkin-park-4de523586c57e.jpg,p1=Mike Shinoda,p2=Chester Bennington
+P1
+F 0 3 15 For
+F 6 3 15 feit 
+F 11 2 15 the 
+F 15 4 15 game 
+- 19
+F 21 2 15 Be
+F 24 2 15 fore 
+F 27 2 15 some
+F 30 2 15 bo
+F 33 2 15 dy 
+F 36 3 15 else 
+- 40
+F 42 4 15 Takes 
+F 48 2 15 you 
+F 52 1 15 out 
+F 54 1 15 of 
+F 56 2 15 the 
+F 60 4 15 frame 
+- 67
+F 69 2 15 And 
+F 72 2 15 puts 
+F 75 2 15 your 
+F 78 2 15 name 
+F 83 2 15 to 
+F 87 5 15 shame 
+- 92
+F 94 2 15 Co
+F 97 2 15 ver 
+F 100 2 15 up 
+F 104 2 15 your 
+F 108 4 15 face 
+- 115
+F 117 2 15 You 
+F 121 3 15 can’t 
+F 126 2 15 run 
+F 129 2 15 the 
+F 132 3 15 race 
+- 135
+F 137 2 15 The 
+F 141 4 15 pace 
+F 147 2 15 is 
+F 152 3 15 too 
+F 158 4 15 fast 
+- 162
+F 163 3 15 You 
+F 167 3 15 just 
+F 173 4 15 won’t 
+F 179 7 15 last 
+- 224
+: 833 3 6 You 
+: 839 4 6 live 
+: 845 3 6 what 
+: 851 3 8 you’ve 
+: 857 10 6 learned 
+- 886
+: 929 3 6 You 
+: 935 5 6 live 
+: 941 3 6 what 
+: 947 3 6 you’ve 
+: 953 5 8 learned
+: 959 5 5 ~ 
+- 983
+: 1025 3 6 You 
+: 1031 4 6 live 
+: 1037 3 6 what 
+: 1043 3 8 you’ve 
+: 1049 10 6 learned 
+- 1078
+: 1120 4 6 You 
+: 1127 5 6 live 
+: 1136 4 6 what 
+: 1145 3 5 you’ve 
+: 1151 6 6 learned 
+- 1195
+: 1697 3 6 You 
+: 1703 4 6 live 
+: 1709 3 6 what 
+: 1715 3 8 you’ve 
+: 1721 10 6 learned 
+- 1750
+: 1794 3 6 You 
+: 1800 4 6 live 
+: 1806 3 6 what 
+: 1812 3 6 you’ve 
+: 1818 5 8 learned
+: 1824 4 5 ~ 
+- 1847
+: 1889 3 6 You 
+: 1895 4 6 live 
+: 1901 3 6 what 
+: 1907 3 8 you’ve 
+: 1913 10 6 learned 
+- 1961
+F 2016 3 -9 For
+F 2022 3 -9 feit 
+F 2028 2 -9 the 
+F 2031 4 -9 game 
+- 2035
+F 2036 2 -9 Be
+F 2039 2 -9 fore 
+F 2043 2 -9 some
+F 2046 2 -9 bo
+F 2049 2 -9 dy 
+F 2052 3 -9 else 
+- 2056
+F 2058 3 -9 Takes 
+F 2063 3 -9 you 
+F 2067 2 -9 out 
+F 2070 1 -9 of 
+F 2072 2 -9 the 
+F 2076 5 -9 frame 
+- 2083
+F 2085 2 -9 And 
+F 2088 2 -9 puts 
+F 2091 2 -9 your 
+F 2094 2 -9 name 
+F 2099 2 -9 to 
+F 2103 4 -9 shame 
+- 2107
+F 2108 2 -9 Co
+F 2111 2 -9 ver 
+F 2115 3 -9 up 
+F 2121 2 -9 to 
+F 2124 4 -9 face 
+- 2130
+F 2132 2 -9 You 
+F 2136 4 -9 can’t 
+F 2142 2 -9 run 
+F 2145 2 -9 the 
+F 2148 4 -9 race 
+- 2152
+F 2153 2 -9 The 
+F 2157 4 -9 pace 
+F 2163 3 -9 ist 
+F 2169 4 -9 too 
+F 2175 4 -9 fast 
+- 2179
+F 2181 2 -9 You 
+F 2184 3 -9 just 
+F 2190 4 -9 won’t 
+F 2196 5 -9 last 
+- 2206
+F 2208 4 -9 For
+F 2214 3 -9 feit 
+F 2220 2 -9 the 
+F 2223 4 -9 game 
+- 2227
+F 2228 2 -9 Be
+F 2231 2 -9 fore 
+F 2235 2 -9 some
+F 2238 2 -9 bo
+F 2241 2 -9 dy 
+F 2244 2 -9 else 
+- 2248
+F 2250 3 -9 Takes 
+F 2255 3 -9 you 
+F 2259 2 -9 out 
+F 2262 1 -9 of 
+F 2264 2 -9 the 
+F 2268 5 -9 frame 
+- 2275
+F 2277 2 -9 And 
+F 2280 2 -9 puts 
+F 2283 2 -9 your 
+F 2286 2 -9 name 
+F 2292 2 -9 to 
+F 2295 4 -9 shame 
+- 2299
+F 2300 2 -9 Co
+F 2303 2 -9 ver 
+F 2307 3 -9 up 
+F 2312 2 -9 your 
+F 2316 4 -9 face 
+- 2323
+F 2325 2 -9 You 
+F 2329 3 -9 can’t 
+F 2334 2 -9 run 
+F 2337 2 -9 the 
+F 2340 5 -9 race 
+- 2345
+F 2346 2 -9 The 
+F 2349 4 -9 pace 
+F 2355 3 -9 is 
+F 2361 3 -9 to 
+F 2367 4 -9 fast 
+- 2371
+F 2372 2 -9 You 
+F 2376 3 -9 just 
+F 2382 4 -9 won’t 
+F 2388 6 -9 last 
+- 2413
+: 2465 3 6 You 
+: 2471 4 6 live 
+: 2477 3 6 what 
+: 2483 3 8 you’ve 
+: 2489 10 6 learned 
+- 2518
+: 2561 3 6 You 
+: 2567 5 6 live 
+: 2573 3 6 what 
+: 2579 3 6 you’ve 
+: 2585 5 8 learned
+: 2591 5 5 ~ 
+- 2615
+: 2657 3 6 You 
+: 2663 4 6 live 
+: 2669 3 6 what 
+: 2675 3 8 you’ve 
+: 2681 10 6 learned 
+- 2710
+: 2754 3 6 You 
+: 2760 5 6 live 
+: 2766 3 6 what 
+: 2772 3 6 you’ve 
+: 2778 5 8 learned
+: 2784 4 5 ~ 
+- 2807
+: 2849 3 6 You 
+: 2855 4 6 live 
+: 2861 3 6 what 
+: 2867 3 8 you’ve 
+: 2873 10 6 learned 
+- 2902
+: 2946 3 6 You 
+: 2952 4 6 live 
+: 2958 3 6 what 
+: 2964 3 6 you’ve 
+: 2970 5 8 learned
+: 2976 4 5 ~ 
+- 2999
+: 3041 3 6 You 
+: 3047 4 6 live 
+: 3053 3 6 what 
+: 3059 3 8 you’ve 
+: 3065 10 6 learned 
+- 3094
+: 3137 4 6 You 
+: 3144 4 6 live 
+: 3153 3 6 what 
+: 3162 3 5 you’ve 
+: 3168 6 6 learned 
+P2
+: 396 3 15 You 
+: 402 12 13 love 
+: 420 4 11 the 
+: 426 14 10 way 
+- 449
+: 452 2 -9 I 
+: 455 2 -5 look 
+: 459 4 -4 at 
+: 468 10 -5 you 
+- 483
+: 485 4 -9 While 
+: 491 3 -5 ta
+: 497 2 -4 king 
+: 501 5 -5 plea
+: 510 4 -9 sure 
+- 514
+: 516 3 -5 In 
+: 522 2 -4 the 
+: 525 6 -5 aw
+: 534 4 -9 ful 
+: 540 3 -5 things 
+- 543
+: 545 2 -4 You 
+: 549 5 -2 put 
+: 557 4 -4 me 
+: 563 9 -5 through 
+- 584
+: 588 3 15 You 
+: 594 12 13 take 
+: 612 3 11 a
+: 618 15 10 way 
+- 639
+: 642 3 -9 If 
+: 648 4 -5 I 
+: 654 8 -4 give 
+: 665 9 -5 in 
+- 681
+: 684 4 8 My 
+: 690 12 7 life, 
+: 708 3 8 my 
+: 714 13 7 pride 
+: 732 3 8 is 
+: 738 9 7 bro
+: 749 19 3 ken 
+- 772
+: 774 3 10 You 
+: 779 3 10 like 
+: 785 2 8 to 
+: 789 3 8 think 
+: 795 3 6 you’re 
+: 801 3 6 ne
+: 807 2 3 ver 
+: 813 17 8 wrong 
+- 849
+: 870 3 10 You 
+: 876 3 10 have 
+: 882 2 8 to 
+: 885 3 8 act 
+: 891 3 6 like 
+: 897 3 6 you’re 
+: 903 3 3 some
+: 909 17 8 one 
+- 945
+: 966 3 10 You 
+: 971 2 10 want 
+: 977 2 8 some
+: 980 4 8 one 
+: 987 3 6 to 
+: 993 4 10 hurt 
+: 999 3 6 like 
+: 1005 17 8 you 
+- 1041
+: 1061 3 10 You 
+: 1067 3 10 want 
+: 1073 2 8 to 
+: 1077 4 8 share 
+: 1083 3 6 what 
+: 1089 4 6 you’ve 
+: 1095 3 3 been 
+: 1102 5 11 through
+: 1108 10 10 ~ 
+- 1156
+: 1260 4 15 You 
+: 1266 14 13 love 
+: 1284 3 11 the 
+: 1290 12 10 things 
+- 1311
+: 1314 2 -9 I 
+: 1320 3 -5 say 
+: 1326 3 -4 I’ll 
+: 1332 9 -5 do 
+- 1347
+: 1350 3 -9 The 
+: 1356 3 -5 way 
+: 1361 2 -4 I’ll 
+: 1365 3 -5 hurt 
+- 1371
+: 1373 3 -9 My
+: 1379 3 -5 self 
+: 1385 2 -4 a
+: 1389 6 -5 gain 
+- 1395
+: 1397 3 -9 Just 
+: 1403 2 -5 to 
+: 1406 3 -4 get 
+: 1412 6 -2 back 
+: 1422 2 -4 at 
+: 1428 5 -5 you 
+- 1443
+: 1451 3 15 You 
+: 1457 14 13 take 
+: 1475 4 11 a
+: 1482 12 10 way 
+- 1502
+: 1505 4 -9 When 
+: 1511 4 -5 I 
+: 1517 9 -4 give 
+: 1529 9 -5 in 
+- 1545
+: 1548 3 8 My 
+: 1554 12 7 life, 
+: 1572 3 8 my 
+: 1579 13 7 pride 
+: 1596 2 8 is 
+: 1602 8 7 bro
+: 1613 18 3 ken 
+- 1636
+: 1638 3 10 You 
+: 1643 3 10 like 
+: 1649 2 8 to 
+: 1653 3 8 think 
+: 1659 3 6 you’re 
+: 1665 3 6 ne
+: 1671 2 3 ver 
+: 1677 17 8 wrong 
+- 1713
+: 1733 4 10 You 
+: 1739 3 10 have 
+: 1746 2 8 to 
+: 1749 4 8 act 
+: 1755 3 6 like 
+: 1761 3 6 you’re 
+: 1767 3 3 some
+: 1773 17 8 one 
+- 1809
+: 1830 3 10 You 
+: 1835 3 10 want 
+: 1841 2 8 some
+: 1844 4 8 one 
+: 1851 3 6 to 
+: 1857 4 10 hurt 
+: 1863 3 6 like 
+: 1869 17 8 you 
+- 1905
+: 1925 4 10 You 
+: 1931 3 10 want 
+: 1937 2 8 to 
+: 1941 4 8 share 
+: 1947 3 6 what 
+: 1953 4 6 you’ve 
+: 1959 3 3 been 
+: 1966 5 11 through
+* 1972 36 10 ~ 
+- 2046
+: 2406 3 10 You 
+: 2411 3 10 like 
+: 2417 2 8 to 
+: 2421 3 8 think 
+: 2427 3 6 you’re 
+: 2433 3 6 ne
+: 2439 2 3 ver 
+: 2445 17 8 wrong 
+- 2481
+: 2502 3 10 You 
+: 2508 3 10 have 
+: 2514 2 8 to 
+: 2517 3 8 act 
+: 2523 3 6 like 
+: 2529 3 6 you’re 
+: 2535 3 3 some
+: 2541 17 8 one 
+- 2577
+: 2598 3 10 You 
+: 2603 2 10 want 
+: 2609 2 8 some
+: 2612 4 8 one 
+: 2619 3 6 to 
+: 2625 4 10 hurt 
+: 2631 3 6 like 
+: 2637 17 8 you 
+- 2673
+: 2693 4 10 You 
+: 2699 3 10 want 
+: 2705 2 8 to 
+: 2709 4 8 share 
+: 2715 4 6 what 
+: 2721 4 6 you’ve 
+: 2727 3 3 been 
+: 2733 19 8 through 
+- 2771
+: 2790 3 10 You 
+: 2796 4 10 like 
+: 2802 2 10 to 
+: 2805 4 10 think 
+: 2811 4 10 you’re 
+: 2817 4 10 ne
+: 2823 4 6 ver 
+: 2831 15 8 wrong 
+- 2865
+: 2886 3 10 You 
+: 2892 3 10 have 
+: 2898 2 8 to 
+: 2901 4 8 act 
+: 2907 3 6 like 
+: 2913 3 6 you’re 
+: 2919 3 3 some
+: 2925 18 8 one 
+- 2962
+: 2982 4 10 You 
+: 2988 3 10 want 
+: 2994 2 8 some
+: 2997 4 8 one 
+: 3003 3 6 to 
+: 3009 4 10 hurt 
+: 3015 4 6 like 
+: 3022 16 8 you 
+- 3057
+: 3077 4 10 You 
+: 3083 3 10 want 
+: 3089 2 8 to 
+: 3093 4 8 share 
+: 3099 3 6 what 
+: 3105 4 6 you’ve 
+: 3111 3 3 been 
+: 3118 6 11 through
+: 3126 9 10 ~ 
+E

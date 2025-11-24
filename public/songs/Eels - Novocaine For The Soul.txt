@@ -1,0 +1,210 @@
+#ARTIST:Eels
+#TITLE:Novocaine For The Soul
+#MP3:Eels - Novocaine For The Soul.mp3
+#CREATOR:marwood82
+#COVER:Eels - Novocaine For The Soul [CO].jpg
+#BACKGROUND:Eels - Novocaine For The Soul [BG].jpg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:240
+#GAP:30320
+#VIDEO:v=V2yy141q8HQ,co=https://images.genius.com/fb8b946f1f727c34291c65ea88008de2.600x600x1.jpg,co-crop=2-4-594-594,bg=eels-4fb75068f27ca.jpg
+: 0 5 4 Life 
+: 6 1 2 is 
+: 8 14 0 hard 
+- 24
+: 42 2 0 And 
+: 46 1 3 so 
+: 48 5 2 am 
+: 54 14 0 I 
+- 70
+: 88 2 -3 You’d 
+: 92 1 4 bet
+: 94 5 4 ter 
+: 100 5 4 give 
+: 106 5 4 me 
+: 112 3 4 some
+: 116 8 0 thing 
+- 126
+: 134 2 0 So 
+: 138 1 3 I 
+: 140 5 2 don’t 
+: 146 14 0 die 
+- 162
+: 182 5 12 No
+: 188 2 14 vo
+: 192 7 16 cai
+: 200 16 19 ~ne 
+: 228 5 16 for 
+: 234 1 14 the 
+: 236 14 12 soul 
+- 252
+: 282 2 12 Be
+: 286 5 12 fore 
+: 292 1 12 I 
+: 294 4 12 sput
+: 300 1 14 ter 
+: 302 6 12 out 
+- 310
+: 374 1 12 Be
+: 376 5 12 fore 
+: 382 5 12 I 
+: 388 2 12 sput
+: 392 1 14 ter 
+: 394 6 12 out 
+- 402
+: 456 5 16 Life 
+: 462 2 14 is 
+: 466 10 12 white 
+- 478
+: 498 1 12 And 
+: 500 5 16 I 
+: 506 2 14 am 
+: 510 14 12 black 
+- 526
+: 546 2 15 Je
+: 550 5 15 sus 
+: 556 3 15 and 
+: 560 5 15 his 
+: 566 3 15 law
+: 570 6 12 yer 
+- 578
+: 588 1 12 Are 
+: 590 1 15 co
+: 592 5 14 ming 
+: 598 14 12 back 
+- 614
+: 636 5 12 Oh 
+: 642 1 14 my 
+: 644 7 16 dar
+: 652 16 19 ling 
+- 670
+: 678 2 12 Will 
+: 682 5 16 you 
+: 688 1 14 be 
+: 690 14 12 here 
+- 706
+: 736 1 12 Be
+: 738 5 12 fore 
+: 744 5 12 I 
+: 750 1 12 sput
+: 752 2 14 ter 
+: 756 6 12 out 
+- 764
+: 826 1 12 Be
+: 828 5 12 fore 
+: 834 5 12 I 
+: 840 1 12 sput
+: 842 2 14 ter 
+: 846 6 12 out 
+- 854
+: 916 2 12 Be
+: 920 5 12 fore 
+: 926 3 12 I 
+: 930 2 12 sput
+: 934 1 14 ter 
+: 936 6 12 out 
+- 944
+: 1132 5 10 Guess 
+: 1138 5 10 whose 
+: 1144 2 10 li
+: 1148 3 10 ving 
+: 1152 12 10 here 
+- 1166
+: 1168 3 9 With 
+: 1172 2 9 the 
+: 1176 1 9 grea
+: 1178 5 10 ~t 
+: 1184 5 9 un
+: 1190 12 7 dead 
+- 1204
+: 1222 1 10 This 
+: 1224 5 10 paint 
+: 1230 5 10 by 
+: 1236 1 10 num
+: 1238 5 10 bers 
+: 1244 11 10 life 
+- 1256
+: 1256 1 10 Is 
+: 1258 2 9 fuc
+: 1262 5 9 king 
+: 1268 1 9 wi
+: 1270 5 10 ~th 
+: 1276 5 9 my 
+: 1282 9 7 head 
+- 1292
+: 1292 5 9 Once 
+: 1298 2 7 a
+: 1302 14 5 gain 
+- 1318
+: 1586 3 15 Life 
+: 1590 2 14 is 
+: 1594 14 12 good 
+- 1610
+: 1628 1 12 And 
+: 1630 2 15 I 
+: 1634 5 14 feel 
+: 1640 14 12 great 
+- 1656
+: 1674 1 12 ’Cause 
+: 1676 2 15 mo
+: 1680 5 15 ther 
+: 1686 5 14 says 
+: 1692 3 15 I 
+: 1696 2 15 wa
+: 1700 10 12 ~s 
+- 1712
+: 1720 1 12 A 
+: 1722 5 14 great 
+: 1728 1 15 mis
+: 1730 14 12 take 
+- 1746
+: 1768 5 12 No
+: 1774 1 14 vo
+: 1776 8 16 cai
+: 1786 16 19 ~ne 
+: 1814 5 16 for 
+: 1820 1 14 the 
+: 1822 14 12 soul 
+- 1838
+: 1856 2 7 You’d 
+: 1860 1 15 bet
+: 1862 5 15 ter 
+: 1868 5 15 give 
+: 1874 5 15 me 
+: 1880 5 15 some
+: 1886 8 12 thing 
+- 1896
+: 1902 2 12 To 
+: 1906 5 15 fill 
+: 1912 1 14 the 
+: 1914 10 12 hole 
+- 1926
+: 1960 1 12 Be
+: 1962 5 12 fore 
+: 1968 5 12 I 
+: 1974 1 12 sput
+: 1976 2 14 ter 
+: 1980 6 12 out 
+- 1988
+: 2050 2 12 Be
+: 2054 5 12 fore 
+: 2060 5 12 I 
+: 2066 1 12 sput
+: 2068 1 14 ter 
+: 2070 6 12 out 
+- 2078
+: 2142 2 12 Be
+: 2146 3 12 fore 
+: 2150 3 12 I 
+: 2154 3 12 sput
+: 2158 2 14 ter 
+: 2162 6 12 out 
+- 2170
+: 2234 1 12 Be
+: 2236 5 12 fore 
+: 2242 5 12 I 
+: 2248 1 12 sput
+: 2250 5 9 ter 
+: 2256 10 7 out 
+E

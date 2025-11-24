@@ -1,0 +1,215 @@
+#ARTIST:U96
+#TITLE:Love Sees No Colour (Version 2)
+#MP3:U96 - Love Sees No Colour (Version 2).mp3
+#CREATOR:Fepo
+#COVER:U96 - Love Sees No Colour (Version 2) [CO].jpg
+#BACKGROUND:U96 - Love Sees No Colour (Version 2) [BG].jpg
+#GENRE:Eurodance
+#YEAR:1998
+#LANGUAGE:English
+#BPM:266
+#GAP:383
+#VIDEO:v=vX1akxy51P8,co=https://i.imgur.com/3s9vwuF.jpeg
+F 0 8 -2 Love 
+F 12 7 -2 sees 
+F 21 4 -2 no 
+F 28 3 -2 co
+F 33 3 -2 lour 
+- 38
+F 548 5 -2 Raise 
+F 555 3 -2 your 
+F 560 5 -2 hands 
+F 567 3 -2 in 
+F 572 3 -2 the 
+F 577 6 -2 air 
+- 585
+F 744 8 -2 Love 
+F 756 7 -2 sees 
+F 765 4 -2 no 
+F 772 3 -2 co
+F 777 3 -2 lour 
+- 782
+F 1019 2 -2 U
+F 1022 5 -2 9
+F 1028 5 -2 6 
+- 1035
+F 1037 3 -2 Love 
+F 1042 2 -2 sees 
+F 1046 2 -2 no 
+F 1049 2 -2 co
+F 1053 3 -2 lour 
+- 1058
+F 1556 3 -2 Love 
+F 1561 2 -2 sees 
+F 1565 2 -2 no 
+F 1568 2 -2 co
+F 1572 3 -2 lour 
+- 1577
+: 1832 15 2 Love, 
+* 1849 10 0 love, 
+* 1861 11 -2 love, 
+: 1878 6 -2 love 
+: 1886 4 0 sees 
+: 1892 3 2 no 
+: 1897 3 0 co
+: 1902 8 -2 lour 
+- 1912
+: 1960 15 2 Love, 
+* 1977 10 0 love, 
+* 1989 11 -2 love, 
+: 2006 6 -2 love 
+: 2014 4 0 sees 
+: 2020 3 2 no 
+: 2025 3 0 co
+: 2030 8 -2 lour 
+- 2040
+: 2089 15 2 Love, 
+* 2106 10 0 love, 
+* 2118 11 -2 love, 
+: 2135 6 0 love 
+: 2143 4 0 sees 
+: 2149 3 -2 no 
+: 2154 3 -3 co
+: 2159 8 -5 lour 
+- 2169
+F 2173 3 -2 Love 
+F 2178 2 -2 sees 
+F 2182 2 -2 no 
+F 2185 2 -2 co
+F 2189 3 -2 lour 
+- 2194
+F 2965 3 -2 Love 
+F 2970 2 -2 sees 
+F 2974 2 -2 no 
+F 2977 2 -2 co
+F 2981 3 -2 lour 
+- 2986
+: 3241 15 2 Love, 
+* 3258 10 0 love, 
+* 3270 11 -2 love, 
+: 3287 6 -2 love 
+: 3295 4 0 sees 
+: 3301 3 2 no 
+: 3306 3 0 co
+: 3311 8 -2 lour 
+- 3321
+: 3370 14 2 Love, 
+* 3386 10 0 love, 
+* 3398 11 -2 love, 
+: 3416 6 -2 love 
+: 3424 4 0 sees 
+: 3430 3 2 no 
+: 3435 3 0 co
+: 3440 8 -2 lour 
+- 3450
+: 3498 15 2 Love, 
+* 3515 10 0 love, 
+* 3527 11 -2 love, 
+: 3544 6 0 love 
+: 3552 4 0 sees 
+: 3558 3 -2 no 
+: 3563 3 -3 co
+: 3568 8 -5 lour 
+- 3578
+F 3580 2 -2 Love 
+F 3584 2 -2 sees 
+F 3588 2 -2 no 
+F 3591 2 -2 co
+F 3595 3 -2 lour 
+- 3600
+: 3608 5 0 Love 
+: 3615 5 0 sees 
+: 3622 3 -2 no 
+: 3627 3 -3 co
+: 3632 8 -5 lour! 
+- 3642
+F 3689 2 -2 Love 
+F 3693 2 -2 sees 
+F 3697 2 -2 no 
+F 3701 2 -2 co
+F 3705 3 -2 lour 
+- 3710
+: 4522 14 2 Love, 
+* 4538 10 0 love, 
+* 4550 11 -2 love, 
+: 4568 6 -2 love 
+: 4576 4 0 sees 
+: 4582 3 2 no 
+: 4587 3 0 co
+: 4592 8 -2 lour 
+- 4602
+: 4650 14 2 Love, 
+* 4666 10 0 love, 
+* 4678 11 -2 love, 
+: 4696 6 -2 love 
+: 4704 4 0 sees 
+: 4710 3 2 no 
+: 4715 3 0 co
+: 4720 8 -2 lour 
+- 4730
+: 4778 15 2 Love, 
+* 4795 10 0 love, 
+* 4807 11 -2 love, 
+: 4824 6 0 love 
+: 4832 4 0 sees 
+: 4838 3 -2 no 
+: 4843 3 -3 co
+: 4848 8 -5 lour 
+- 4858
+F 4862 3 -2 Love 
+F 4867 2 -2 sees 
+F 4871 2 -2 no 
+F 4874 2 -2 co
+F 4878 3 -2 lour 
+- 4883
+F 5128 8 -2 Love 
+F 5140 7 -2 sees 
+F 5149 4 -2 no 
+F 5156 3 -2 co
+F 5161 3 -2 lour 
+- 5166
+: 5674 14 2 Love, 
+* 5690 10 0 love, 
+* 5702 11 -2 love, 
+: 5720 6 -2 love 
+: 5728 4 0 sees 
+: 5734 3 2 no 
+: 5739 3 0 co
+: 5744 8 -2 lour 
+- 5754
+: 5802 14 2 Love, 
+* 5818 10 0 love, 
+* 5830 11 -2 love, 
+: 5848 6 -2 love 
+: 5856 4 0 sees 
+: 5862 3 2 no 
+: 5867 3 3 co
+: 5872 8 2 lour 
+- 5882
+F 5886 3 -2 Love 
+F 5891 2 -2 sees 
+F 5895 2 -2 no 
+F 5898 2 -2 co
+F 5902 3 -2 lour 
+- 5907
+: 5930 14 2 Love, 
+* 5946 10 0 love, 
+* 5958 11 -2 love, 
+: 5976 6 -2 love 
+: 5984 4 0 sees 
+: 5990 3 -2 no 
+: 5995 3 -3 co
+: 6000 8 -5 lour 
+- 6010
+: 6040 5 0 Love 
+: 6047 5 0 sees 
+: 6054 3 -2 no 
+: 6059 3 -3 co
+: 6064 8 -5 lour! 
+- 6074
+F 6078 3 -2 Love 
+F 6083 2 -2 sees 
+F 6087 2 -2 no 
+F 6090 2 -2 co
+F 6094 3 -2 lour 
+E

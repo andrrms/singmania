@@ -1,0 +1,215 @@
+#ARTIST:Creedence Clearwater Revival
+#TITLE:Run Through The Jungle
+#MP3:Creedence Clearwater Revival - Run Through The Jungle.mp3
+#CREATOR:mustangfred
+#EDITION:Rock Band Store 2010 Vol. 2
+#GENRE:Southern Rock
+#YEAR:1970
+#LANGUAGE:English
+#BPM:272.4
+#GAP:30260
+#VIDEO:a=_7PUPNxsRQ0,co=run-through-the-jungle--up-around-the-bend-5efa0d63d498d.jpg,bg=creedence-clearwater-revival-6416bef9ab71a.jpg
+: 0 5 12 Whoa
+: 6 7 14 ~ 
+: 14 2 14 I 
+: 18 4 12 thought 
+: 23 9 14 it 
+: 34 7 14 was 
+: 42 4 12 a 
+* 47 6 14 night
+* 55 7 14 mare 
+- 64
+: 82 4 12 Lord 
+: 87 5 14 it’s 
+: 94 5 14 all 
+* 102 5 17 so 
+: 110 3 14 true
+: 114 2 9 ~ 
+- 118
+: 144 5 12 They 
+: 150 6 14 told 
+: 158 2 14 me 
+: 162 5 14 don’t 
+: 170 3 14 go
+: 174 2 12 ~ 
+: 178 4 14 walk
+: 183 4 14 in’ 
+: 190 4 14 slow
+: 195 2 9 ~ 
+- 199
+: 205 1 12 The 
+: 209 4 12 Dev
+: 214 4 14 il’s 
+: 221 10 14 on 
+: 233 3 17 the 
+* 237 2 14 loose
+* 240 1 9 ~ 
+- 243
+: 262 2 12 Bet
+: 265 2 12 ter 
+: 269 6 12 run 
+: 277 8 14 through 
+: 286 1 12 the 
+* 289 7 14 jun
+* 298 3 12 gle 
+- 303
+: 326 2 12 Bet
+: 329 2 12 ter 
+: 333 6 12 run 
+: 341 7 14 through 
+: 350 1 12 the 
+: 353 6 14 jun
+: 361 1 9 gle 
+- 364
+: 389 2 12 Bet
+: 392 3 12 ter 
+: 397 6 12 run 
+: 405 7 14 through 
+: 413 1 12 the 
+: 416 7 14 jun
+: 425 3 9 gle 
+- 430
+* 453 2 12 Whoa
+* 456 3 14 ~ 
+: 461 3 14 don’t
+: 465 2 7 ~ 
+: 470 5 7 look 
+: 481 3 5 back
+: 485 4 2 ~ 
+: 493 1 2 to 
+: 496 1 2 see 
+- 499
+: 528 3 12 Thought 
+: 532 10 14 I 
+: 544 2 12 heard
+: 547 4 14 ~ 
+: 553 3 12 a 
+: 557 5 14 rum
+: 564 4 14 blin’
+: 569 2 9 ~ 
+- 573
+: 592 4 12 Call
+: 597 6 14 in’ 
+: 605 6 14 to 
+: 613 6 17 my 
+: 620 4 14 name
+: 625 3 9 ~ 
+- 630
+: 657 3 12 Two 
+: 661 7 14 hun
+: 669 1 14 dred 
+: 672 5 14 mil
+: 679 5 12 lion 
+: 686 9 14 guns 
+: 697 2 14 are 
+: 701 7 14 load
+: 709 3 14 ed 
+- 714
+: 721 5 12 Sa
+: 727 1 14 tan 
+: 733 8 14 cries 
+: 745 3 17 take 
+: 749 3 14 aim
+: 753 4 9 ~ 
+- 759
+: 773 2 12 Bet
+: 776 3 12 ter 
+: 781 6 12 run 
+: 789 8 14 through 
+: 798 1 14 the 
+: 801 7 14 jun
+: 810 2 9 gle 
+- 814
+: 837 2 12 Bet
+: 840 3 12 ter 
+: 845 6 12 run 
+: 852 8 14 through 
+: 861 1 12 the 
+: 864 8 14 jun
+: 873 2 9 gle 
+- 877
+: 901 2 12 Bet
+: 904 3 12 ter 
+: 909 6 12 run 
+: 916 8 14 through 
+: 925 1 12 the 
+: 928 7 14 jun
+: 937 2 9 gle 
+- 941
+: 964 2 12 Whoa
+: 967 3 14 ~ 
+: 973 4 14 don’t
+: 978 3 7 ~ 
+: 983 2 7 look 
+: 993 3 5 back
+: 997 2 2 ~ 
+: 1001 1 2 to 
+: 1005 4 2 see 
+- 1011
+: 1552 3 12 O
+: 1556 10 14 ver 
+: 1568 7 14 on 
+: 1576 2 12 the 
+: 1580 8 14 moun
+: 1592 4 14 tain
+: 1597 2 9 ~ 
+- 1601
+* 1616 3 12 Thun
+* 1620 6 14 der 
+: 1628 7 14 mag
+: 1637 4 17 ic 
+: 1644 4 14 spoke
+: 1649 3 9 ~ 
+- 1654
+* 1684 3 12 Let
+* 1688 3 14 ~ 
+: 1693 2 14 the 
+: 1696 6 14 peo
+: 1704 3 12 ple 
+: 1709 6 14 know 
+: 1716 6 14 my 
+: 1725 5 14 wis
+: 1733 1 12 dom
+: 1735 3 9 ~ 
+- 1740
+: 1744 6 14 Fill 
+: 1752 2 14 the 
+: 1756 7 14 land 
+: 1765 3 17 with 
+: 1772 3 14 smoke
+: 1776 3 9 ~ 
+- 1781
+: 1796 2 12 Bet
+: 1799 3 12 ter 
+: 1804 6 12 run 
+: 1812 7 14 through 
+: 1820 2 14 the 
+: 1824 7 14 jun
+: 1833 2 9 gle 
+- 1837
+: 1860 2 12 Bet
+: 1863 3 12 ter 
+: 1868 6 12 run 
+: 1876 7 14 through 
+: 1884 2 14 the 
+: 1888 6 14 jun
+: 1896 3 9 gle 
+- 1901
+: 1924 2 12 Bet
+: 1927 3 12 ter 
+: 1932 6 12 run 
+: 1939 8 14 through 
+: 1948 1 12 the 
+: 1951 7 14 jun
+: 1960 3 9 gle 
+- 1965
+: 1987 2 12 Whoa
+: 1990 4 14 ~ 
+: 1996 3 14 don’t
+: 2000 3 7 ~ 
+: 2006 4 7 look 
+: 2016 3 5 back
+: 2020 4 2 ~ 
+: 2026 1 2 to 
+: 2029 3 2 see 
+E

@@ -1,0 +1,470 @@
+#ARTIST:Michael Jackson & Paul McCartney
+#TITLE:The Girl Is Mine
+#MP3:Michael Jackson & Paul McCartney - The Girl Is Mine.mp3
+#CREATOR:Gollum
+#GENRE:R&B
+#YEAR:1982
+#LANGUAGE:English
+#BPM:325.5
+#GAP:13200
+#VIDEO:v=txedWZLKT0Q,co=the-girl-is-mine-60a59a787440d.jpg
+: 0 2 1 Eve
+: 3 2 2 ry 
+: 7 5 4 night 
+: 15 3 4 she 
+: 21 6 4 walks 
+: 29 6 1 right 
+: 37 6 -1 in 
+: 44 2 -3 my 
+: 48 7 -1 dreams 
+- 57
+: 63 3 1 Since 
+: 67 2 2 I 
+: 71 5 4 met 
+: 79 2 4 her 
+: 85 4 4 from 
+: 92 2 1 the 
+: 100 11 -1 start 
+- 113
+: 127 2 1 I’m 
+: 130 2 2 so 
+: 135 7 4 proud 
+: 143 4 4 I 
+: 149 2 4 am 
+: 157 6 1 the 
+* 164 8 -1 on
+* 173 2 -3 ly 
+: 176 5 -1 one 
+- 183
+: 191 2 1 Who 
+: 194 2 2 is 
+: 200 4 4 spe
+: 207 2 4 cial 
+: 213 3 4 in 
+: 219 3 1 her 
+: 224 4 -1 heart 
+- 230
+: 240 2 4 The 
+: 244 10 1 girl 
+: 256 2 -3 is 
+: 261 27 -1 mine 
+- 290
+: 357 1 -3 The 
+: 359 6 2 dog
+: 367 6 1 gone 
+: 376 3 -3 girl 
+: 380 3 -6 is 
+: 389 23 -3 mine 
+- 414
+: 496 3 4 I 
+: 501 3 1 know 
+: 508 2 -3 she’s 
+: 512 31 -1 mine 
+- 545
+: 600 3 -6 Be
+: 605 3 -3 cause 
+: 612 2 -6 the 
+: 616 4 2 dog
+: 623 6 1 gone 
+: 631 4 -3 girl 
+: 636 5 -6 is 
+: 645 31 -3 mine 
+- 678
+: 764 2 1 I 
+: 767 3 2 don’t 
+: 772 4 4 un
+: 783 3 4 ders
+: 787 9 4 tand 
+: 799 2 1 the 
+: 804 5 -1 way 
+: 811 2 -3 you 
+: 816 4 -1 think 
+- 822
+: 829 2 1 Say
+: 832 3 2 ing 
+: 840 3 4 that 
+: 846 3 4 she’s 
+: 853 5 4 yours 
+: 861 4 1 not 
+: 868 11 -1 mine 
+- 881
+: 893 3 1 Sen
+: 898 3 2 ding 
+: 904 5 4 ro
+: 912 3 4 ses 
+: 917 5 4 and 
+: 925 3 1 your 
+* 932 3 -1 sil
+* 936 2 -3 ly 
+: 940 10 -1 dreams 
+- 952
+: 957 3 1 Real
+: 961 3 2 ly 
+: 968 3 4 just 
+: 976 2 4 a 
+: 981 5 4 waste 
+: 988 4 1 of 
+: 995 11 -1 time 
+- 1008
+: 1014 2 4 Be
+: 1017 7 1 cause 
+: 1027 2 -3 she’s 
+: 1032 19 -1 mine 
+- 1053
+: 1125 1 -3 The 
+: 1127 6 2 dog
+: 1135 6 1 gone 
+: 1144 3 -3 girl 
+: 1148 4 -6 is 
+: 1157 23 -3 mine 
+- 1182
+: 1264 3 4 Don’t 
+: 1269 5 1 waste 
+: 1276 2 -3 your 
+: 1280 24 -1 time 
+- 1306
+: 1368 3 -6 Be
+: 1373 3 -3 cause 
+: 1380 2 -6 the 
+: 1384 5 2 dog
+: 1392 6 1 gone 
+: 1400 4 -3 girl 
+: 1406 4 -6 is 
+: 1413 30 -3 mine 
+- 1445
+: 1519 6 1 I 
+* 1527 5 4 love 
+* 1536 3 6 you 
+: 1544 22 8 more 
+: 1568 2 4 than 
+: 1572 18 1 he 
+- 1592
+: 1644 2 4 But 
+: 1647 6 6 I 
+: 1655 6 9 love 
+: 1663 4 11 you 
+* 1668 8 13 end
+* 1683 4 4 less
+* 1690 4 6 ly
+* 1695 16 4 ~ 
+- 1713
+: 1759 3 1 So 
+: 1767 8 4 come 
+- 1777
+: 1783 5 9 A
+: 1789 3 4 ~nd 
+: 1796 21 7 go 
+: 1821 3 4 with 
+: 1829 11 4 me 
+: 1844 5 4 to 
+: 1851 3 2 one 
+: 1860 15 2 to
+: 1876 12 4 ~wn 
+- 1890
+: 1911 3 7 But 
+: 1919 4 9 we 
+- 1925
+: 1936 4 13 Both 
+: 1944 3 11 can
+: 1948 4 9 not 
+: 1956 5 11 have 
+: 1964 3 4 her 
+: 1975 3 6 so 
+: 1981 6 9 it’s 
+- 1989
+: 2000 6 13 One 
+: 2008 6 11 or 
+: 2016 3 9 the 
+: 2020 2 11 o
+: 2028 3 4 ther 
+- 2033
+: 2040 3 6 And 
+: 2047 4 9 one 
+- 2053
+: 2063 6 13 Day 
+: 2071 5 11 you’ll 
+* 2080 2 9 dis
+* 2084 3 11 co
+* 2092 3 4 ver 
+- 2097
+: 2104 2 6 That 
+: 2111 5 9 she’s 
+- 2118
+: 2127 5 13 My 
+: 2135 5 11 girl 
+: 2144 2 9 for
+: 2148 5 13 e
+: 2156 2 11 ver 
+: 2160 2 9 and 
+F 2164 5 4 e
+F 2172 8 4 ver 
+- 2182
+: 2185 6 4 Build 
+: 2192 3 4 your 
+: 2196 4 4 hopes 
+: 2205 3 1 to 
+: 2212 5 -1 be 
+: 2219 2 -3 let 
+: 2223 6 -1 down 
+- 2231
+: 2240 2 1 ’Cause 
+: 2244 2 2 I 
+: 2248 5 4 real
+: 2254 3 4 ly 
+: 2261 6 4 feel 
+: 2269 4 1 it’s 
+: 2277 11 -1 time 
+- 2290
+: 2302 1 -6 I 
+: 2304 2 1 know 
+: 2307 2 2 she’ll 
+: 2313 6 4 tell 
+: 2321 3 4 you 
+: 2325 3 4 I’m 
+: 2333 5 1 the 
+: 2341 5 -1 one 
+: 2348 2 -3 for 
+: 2352 4 -1 her 
+- 2358
+: 2368 2 1 ’Cause 
+: 2371 2 2 she 
+: 2376 4 4 said 
+: 2384 2 4 I 
+: 2389 3 4 blow 
+: 2394 3 1 her 
+: 2400 4 -1 mind 
+- 2406
+: 2415 2 4 The 
+: 2420 10 1 girl 
+: 2432 2 -3 is 
+: 2437 30 -1 mine 
+- 2469
+: 2534 1 -3 The 
+: 2536 5 2 dog
+: 2544 4 1 gone 
+: 2552 4 -3 girl 
+: 2558 4 -6 is 
+: 2565 11 -3 mine 
+- 2578
+: 2672 3 4 Don’t 
+: 2676 5 1 waste 
+: 2684 2 -3 your 
+: 2688 29 -1 time 
+- 2719
+: 2776 3 -6 Be
+: 2781 3 -3 cause 
+: 2788 2 -6 the 
+: 2792 5 2 dog
+: 2800 6 1 gone 
+: 2808 4 -3 girl 
+: 2814 4 -6 is 
+: 2821 19 -3 mine 
+- 2842
+F 2844 4 -3 She’s 
+F 2852 11 -3 mine 
+- 2865
+F 2876 5 -3 She’s 
+F 2885 3 -3 mine 
+- 2890
+F 2892 4 -3 No, 
+F 2898 3 -3 no, 
+F 2903 5 -3 no, 
+F 2911 4 -3 she’s 
+F 2916 10 -3 mine 
+- 2928
+F 2931 2 -3 The 
+F 2936 5 -3 girl 
+F 2943 4 -3 is 
+F 2951 11 -3 mine 
+- 2964
+F 2966 2 -3 The 
+F 2969 5 -3 girl 
+F 2976 3 -3 is 
+F 2981 9 -3 mine 
+- 2992
+F 2994 2 -3 The 
+F 2999 6 -3 girl 
+F 3007 3 -3 is 
+F 3012 15 -3 mine 
+- 3029
+F 3031 2 -3 The 
+F 3034 5 -3 girl 
+F 3040 3 -3 is 
+F 3045 11 -3 mine 
+- 3058
+F 3060 2 -3 The 
+F 3063 6 -3 girl 
+F 3071 6 -3 is 
+F 3080 12 -3 mine 
+- 3094
+F 3096 10 -3 Mine, 
+F 3109 15 -3 mine 
+- 3126
+F 3128 3 -3 Yep, 
+F 3135 5 -3 she’s 
+F 3144 13 -3 mine 
+- 3159
+F 3161 10 -3 Mine, 
+F 3173 12 -3 mine 
+- 3187
+F 3189 2 -3 The 
+F 3192 6 -3 girl 
+F 3200 5 -3 is 
+F 3208 12 -3 mine 
+- 3222
+F 3224 10 -3 Mine, 
+F 3237 14 -3 mine 
+- 3253
+F 3255 3 -3 Yep, 
+F 3262 6 -3 she’s 
+F 3271 13 -3 mine 
+- 3286
+F 3288 9 -3 Mine, 
+F 3300 8 -3 mine 
+- 3310
+: 3312 3 4 Don’t 
+* 3317 5 1 waste 
+* 3323 2 -3 your 
+: 3329 30 -1 time 
+- 3361
+: 3416 2 -6 Be
+: 3420 3 -3 cause 
+: 3428 2 -6 the 
+* 3432 4 2 dog
+* 3440 6 1 gone 
+* 3448 4 -3 girl 
+* 3453 4 -6 is 
+* 3461 28 -3 mine 
+- 3491
+F 3511 2 -3 The 
+F 3515 4 -3 girl 
+F 3525 2 -3 is 
+F 3529 7 -3 mine 
+- 3538
+F 3575 1 -3 The 
+F 3577 5 -3 girl 
+F 3584 4 -3 is 
+F 3592 27 -3 mine 
+- 3621
+F 3635 3 -3 Mi
+F 3639 3 -3 chael, 
+- 3644
+F 3661 1 -3 We’re 
+F 3663 2 -3 not 
+F 3666 2 -3 going 
+F 3669 1 -3 to 
+F 3671 3 -3 fight 
+F 3679 1 -3 a
+F 3681 2 -3 bout 
+F 3684 2 -3 this, 
+F 3692 1 -3 o
+F 3694 3 -3 kay 
+- 3699
+F 3711 10 -3 Paul, 
+F 3727 2 -3 I 
+F 3730 3 -3 think 
+F 3734 3 -3 I 
+F 3740 5 -3 told 
+F 3748 3 -3 you, 
+- 3753
+F 3760 2 -3 I’m 
+F 3763 2 -3 a 
+F 3766 2 -3 lo
+F 3770 2 -3 ver 
+F 3773 2 -3 not 
+F 3776 2 -3 a 
+F 3780 3 -3 figh
+F 3784 4 -3 ter 
+- 3790
+F 3839 2 -3 I’ve 
+F 3843 2 -3 heard 
+F 3846 1 -3 it 
+F 3848 2 -3 all 
+F 3852 2 -3 be
+F 3855 3 -3 fore, 
+F 3860 2 -3 Mi
+F 3863 3 -3 chael 
+- 3868
+F 3871 2 -3 She 
+F 3875 3 -3 told 
+F 3879 1 -3 me 
+F 3881 2 -3 that 
+F 3884 3 -3 I’m 
+F 3888 2 -3 her 
+F 3891 2 -3 for
+F 3894 2 -3 e
+F 3897 2 -3 ver 
+F 3900 2 -3 lo
+F 3903 1 -3 ver, 
+- 3905
+F 3907 1 -3 You 
+F 3909 4 -3 know, 
+F 3914 2 -3 don’t 
+F 3917 2 -3 you 
+F 3920 1 -3 re
+F 3922 2 -3 mem
+F 3925 2 -3 ber? 
+- 3929
+F 3946 3 -3 Well, 
+F 3951 2 -3 af
+F 3954 2 -3 ter 
+F 3957 2 -3 lo
+F 3961 2 -3 ving 
+F 3965 2 -3 me, 
+- 3969
+F 3972 2 -3 She 
+F 3976 3 -3 said 
+F 3981 2 -3 she 
+F 3985 2 -3 coul
+F 3988 1 -3 dn’t 
+F 3990 2 -3 love 
+F 3993 2 -3 a
+F 3996 2 -3 no
+F 4000 4 -3 ther 
+- 4006
+F 4009 1 -3 Is 
+F 4011 1 -3 that 
+F 4013 1 -3 what 
+F 4015 2 -3 she 
+F 4018 3 -3 said? 
+- 4023
+F 4034 2 -3 Yes 
+F 4038 2 -3 she 
+F 4042 4 -3 said 
+F 4047 2 -3 it, 
+F 4052 2 -3 you 
+F 4055 2 -3 keep 
+F 4060 3 -3 drea
+F 4064 4 -3 ming 
+- 4070
+F 4076 3 -3 I 
+F 4080 3 -3 don’t 
+F 4085 2 -3 be
+F 4089 19 -3 lieve 
+F 4110 3 -3 it 
+- 4115
+F 4132 8 -3 No, 
+F 4148 2 -3 the 
+F 4152 7 -3 girl 
+F 4161 3 -3 is 
+F 4168 13 -3 mine 
+- 4183
+F 4197 3 -3 No, 
+F 4202 8 -3 mine 
+- 4212
+F 4229 4 -3 No, 
+F 4235 9 -3 mine 
+- 4246
+F 4252 5 -3 She’s 
+F 4261 5 -3 mine, 
+F 4270 5 -3 mine, 
+F 4278 5 -3 mine, 
+F 4285 5 -3 mine, 
+F 4292 6 -3 mine 
+- 4300
+F 4332 4 -3 That’s 
+F 4340 2 -3 the 
+F 4344 6 -3 girl 
+F 4352 3 -3 is 
+F 4360 10 -3 mine 
+E

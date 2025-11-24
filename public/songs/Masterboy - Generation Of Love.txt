@@ -1,0 +1,492 @@
+#ARTIST:Masterboy
+#TITLE:Generation Of Love
+#MP3:Masterboy - Generation Of Love.mp3
+#CREATOR:Leroidukitch
+#GENRE:Eurodance
+#YEAR:1995
+#LANGUAGE:English
+#BPM:279.74
+#GAP:1660
+#VIDEO:v=M8GlWPkzWsA,co=https://a0.cdn.hhv.de/items/images/generated/970x970/01036/1036188/1-masterboy-generation-of-love.webp,bg=masterboy-59059d0fdf035.jpg
+: 0 5 5 Boys 
+: 8 5 4 and 
+: 16 5 5 girls 
+: 24 5 5 - the 
+: 33 5 7 new 
+: 41 6 5 gene
+: 48 6 4 ra
+: 55 6 2 tion 
+- 63
+: 64 6 1 Call 
+: 71 7 3 it 
+: 81 6 4 gene
+: 88 5 4 ra
+: 94 5 6 tion 
+: 103 6 6 of 
+: 111 13 5 love 
+- 126
+: 128 5 5 Boys 
+: 136 5 4 and 
+: 144 5 4 girls 
+: 152 5 4 - the 
+: 161 5 7 new 
+: 169 6 5 gene
+: 176 6 4 ra
+: 183 6 2 tion 
+- 191
+: 192 6 2 Call 
+: 199 7 3 it 
+: 209 6 4 gene
+: 216 5 4 ra
+: 222 5 6 tion 
+: 231 6 6 of 
+: 239 13 5 love 
+- 254
+: 514 5 5 Boys 
+: 522 5 4 and 
+: 530 5 5 girls 
+: 538 5 5 - the 
+: 547 5 7 new 
+: 555 6 5 gene
+: 562 6 4 ra
+: 569 6 2 tion 
+- 577
+: 578 6 1 Call 
+: 585 7 3 it 
+: 595 6 4 gene
+: 602 5 4 ra
+: 608 5 6 tion 
+: 617 6 6 of 
+* 625 13 5 love 
+- 640
+: 642 5 5 Boys 
+: 650 5 4 and 
+: 658 5 4 girls 
+: 666 5 4 - the 
+: 675 5 7 new 
+: 683 6 5 gene
+: 690 6 4 ra
+: 697 6 2 tion 
+- 705
+: 706 6 2 Call 
+: 713 7 3 it 
+: 723 6 4 gene
+: 730 5 4 ra
+: 736 5 6 tion 
+: 745 6 6 of 
+: 753 12 5 love 
+- 766
+: 766 5 4 Give 
+: 772 3 4 me 
+: 776 3 4 all 
+: 780 3 4 your 
+: 784 2 4 lo
+: 787 5 4 ving, 
+: 796 5 4 give 
+: 803 4 4 me 
+: 808 3 4 all 
+: 812 3 4 your 
+: 816 3 4 lo
+: 820 4 5 ving 
+- 826
+: 832 3 4 Give 
+: 836 3 4 me 
+: 840 2 4 all 
+: 843 3 4 you 
+: 847 4 4 lo
+: 852 6 4 ving, 
+: 860 6 6 make 
+: 867 6 6 it 
+: 874 6 4 true 
+- 882
+: 891 5 4 Give 
+: 897 4 4 me 
+: 902 4 4 you 
+: 907 4 4 lo
+: 912 6 4 ving, 
+: 922 6 4 give 
+: 930 3 4 me 
+: 934 4 4 all 
+: 939 4 4 you 
+: 944 3 4 lo
+: 948 5 5 ving 
+- 955
+: 957 4 4 Give 
+: 962 3 4 me 
+: 966 3 4 all 
+: 970 4 4 you 
+: 976 3 4 lo
+: 980 4 4 ving, 
+* 988 5 6 me 
+* 995 6 7 to 
+* 1003 14 9 you 
+- 1019
+F 1282 2 0 Boys 
+F 1287 1 0 and 
+F 1290 1 0 girl 
+F 1294 1 0 up 
+F 1297 1 0 and 
+F 1301 1 0 down 
+- 1304
+F 1310 1 0 Move 
+F 1314 1 0 your 
+F 1318 1 0 bo
+F 1322 1 0 dy 
+F 1327 1 0 round 
+F 1331 1 0 and 
+F 1336 1 0 round 
+- 1339
+F 1345 1 0 Pump 
+F 1349 1 0 the 
+F 1352 1 0 bass 
+F 1356 1 0 up 
+F 1360 1 0 in 
+F 1364 1 0 this 
+F 1368 1 0 place 
+- 1371
+F 1377 1 0 Put 
+F 1381 1 0 a 
+F 1384 1 0 smile 
+F 1387 1 0 back 
+F 1392 1 0 in 
+F 1396 1 0 your 
+F 1400 1 0 face 
+- 1403
+F 1408 1 0 Take 
+F 1412 1 0 con
+F 1415 1 0 trol, 
+F 1419 1 0 don’t 
+F 1423 1 0 waste 
+F 1428 1 0 time 
+- 1431
+F 1440 1 0 The 
+F 1444 1 0 heat 
+F 1447 1 0 is 
+F 1451 1 0 on, 
+F 1457 1 0 you’re 
+F 1461 1 0 fee
+F 1464 1 0 ling 
+F 1467 1 0 fine 
+- 1470
+F 1474 2 0 Feel 
+F 1478 1 0 the 
+F 1481 1 0 power 
+F 1486 2 0 from 
+F 1491 1 0 a
+F 1496 2 0 bove 
+- 1500
+F 1503 1 0 Call 
+F 1507 1 0 it 
+F 1511 1 0 gene
+F 1514 1 0 ra
+F 1519 1 0 tion 
+F 1522 1 0 of 
+F 1527 1 0 love 
+- 1530
+: 1536 5 4 Ba
+: 1543 3 4 by 
+: 1548 5 3 give 
+: 1555 6 3 me 
+: 1563 4 4 all 
+: 1569 6 4 your 
+: 1577 5 4 pas
+: 1584 7 4 sion 
+- 1593
+: 1598 5 4 Ba
+: 1605 4 4 by 
+: 1611 5 3 give 
+: 1618 6 3 me 
+: 1626 5 4 all 
+: 1633 6 4 your 
+: 1641 17 4 love 
+- 1660
+: 1664 5 4 Ba
+: 1671 3 4 by 
+: 1676 5 3 give 
+: 1683 6 3 me 
+: 1691 4 4 all 
+: 1697 6 4 your 
+: 1705 5 4 pas
+: 1712 7 4 sion 
+- 1721
+: 1726 5 4 Ba
+: 1733 4 4 by 
+: 1739 5 3 give 
+: 1746 6 3 me 
+: 1754 5 4 all 
+: 1761 6 4 your 
+: 1769 17 4 love 
+- 1788
+: 1792 5 5 Boys 
+: 1800 5 4 and 
+: 1808 5 5 girls 
+* 1816 5 5 - the 
+* 1825 5 7 new 
+: 1833 6 5 gene
+: 1840 6 4 ra
+: 1847 6 2 tion 
+- 1855
+: 1856 6 1 Call 
+: 1863 7 3 it 
+: 1873 6 4 gene
+: 1880 5 4 ra
+: 1886 5 6 tion 
+: 1895 6 6 of 
+: 1903 13 5 love 
+- 1918
+: 1920 5 5 Boys 
+: 1928 5 4 and 
+: 1936 5 4 girls 
+: 1944 5 4 - the 
+: 1953 5 7 new 
+: 1961 6 5 gene
+: 1968 6 4 ra
+: 1975 6 2 tion 
+- 1983
+: 1984 6 2 Call 
+: 1991 7 3 it 
+: 2001 6 4 gene
+: 2008 5 4 ra
+: 2014 5 6 tion 
+* 2023 6 6 of 
+* 2031 12 5 love 
+- 2044
+: 2044 5 4 Give 
+: 2050 3 4 me 
+: 2054 3 4 all 
+: 2058 3 4 your 
+: 2062 2 4 lo
+: 2065 5 4 ving, 
+: 2074 5 4 give 
+: 2081 4 4 me 
+: 2086 3 4 all 
+: 2090 3 4 your 
+: 2094 3 4 lo
+: 2098 4 5 ving 
+- 2104
+: 2110 3 4 Give 
+: 2114 3 4 me 
+: 2118 2 4 all 
+: 2121 3 4 you 
+: 2125 4 4 lo
+: 2130 6 4 ving, 
+: 2138 6 6 make 
+: 2145 6 6 it 
+: 2152 6 4 true 
+- 2160
+: 2169 5 4 Give 
+: 2175 4 4 me 
+: 2180 4 4 you 
+: 2185 4 4 lo
+: 2190 6 4 ving, 
+: 2200 6 4 give 
+: 2208 3 4 me 
+: 2212 4 4 all 
+: 2217 4 4 you 
+: 2222 3 4 lo
+: 2226 5 5 ving 
+- 2233
+: 2235 4 4 Give 
+: 2240 3 4 me 
+: 2244 3 4 all 
+: 2248 4 4 you 
+: 2254 3 4 lo
+: 2258 4 4 ving, 
+: 2266 5 6 me 
+: 2273 6 7 to 
+: 2281 14 9 you 
+- 2297
+F 2559 2 0 Here 
+F 2563 1 0 I 
+F 2568 1 0 go, 
+F 2575 1 0 here 
+F 2579 1 0 I 
+F 2583 1 0 go 
+- 2586
+F 2591 2 0 Kiss 
+F 2595 1 0 me 
+F 2598 1 0 ba
+F 2602 1 0 by, 
+F 2605 1 0 let 
+F 2609 1 0 it 
+F 2613 1 0 flow 
+- 2616
+F 2622 1 0 You 
+F 2626 1 0 know 
+F 2630 1 0 how 
+F 2634 1 0 to 
+F 2638 1 0 make 
+F 2642 1 0 it 
+F 2646 1 0 right 
+- 2649
+F 2653 1 0 Light 
+F 2657 1 0 my 
+F 2661 1 0 fire, 
+F 2664 1 0 hold 
+F 2668 1 0 me 
+F 2672 1 0 tight 
+- 2675
+F 2685 1 0 People 
+F 2689 1 0 of 
+F 2693 1 0 the 
+F 2697 1 0 night 
+F 2703 1 0 keep 
+F 2707 1 0 groo
+F 2712 1 0 ving 
+- 2715
+F 2720 1 0 Got 
+F 2724 1 0 to 
+F 2727 1 0 get 
+F 2731 1 0 it 
+F 2735 1 0 right, 
+F 2740 1 0 you’re 
+F 2744 1 0 mo
+F 2748 1 0 ving 
+- 2751
+F 2753 1 0 Feel 
+F 2757 1 0 the 
+F 2761 1 0 power 
+F 2765 1 0 from 
+F 2769 1 0 a
+F 2773 2 0 bove 
+- 2777
+F 2782 2 0 Call 
+F 2786 1 0 it 
+F 2792 1 0 gene
+F 2796 1 0 ra
+F 2799 1 0 tion 
+F 2803 1 0 of 
+F 2806 2 0 love 
+- 2810
+: 2816 5 4 Eve
+: 2822 3 4 ry
+: 2826 3 4 bo
+: 2830 5 4 dy 
+: 2836 5 4 is 
+: 2843 5 4 fee
+: 2849 5 4 ling 
+: 2857 5 4 hap
+: 2864 6 4 py 
+- 2872
+: 2875 5 4 Eve
+: 2883 5 4 ry
+: 2889 4 4 bo
+: 2894 4 4 dy, 
+: 2907 6 4 eve
+: 2914 6 4 ry
+: 2921 7 4 where 
+- 2930
+: 2942 5 4 Eve
+: 2948 3 4 ry
+: 2952 3 4 bo
+: 2956 5 4 dy 
+: 2962 5 4 is 
+: 2969 5 4 fee
+: 2975 5 4 ling 
+: 2983 5 4 hap
+: 2990 6 4 py 
+- 2998
+: 3001 5 4 Eve
+: 3009 5 4 ry
+: 3015 4 4 bo
+: 3020 4 4 dy, 
+: 3033 6 4 eve
+: 3040 6 4 ry
+: 3047 7 4 where 
+- 3056
+: 3069 5 5 Boys 
+: 3077 5 4 and 
+: 3085 5 5 girls 
+: 3093 5 5 - the 
+: 3102 5 7 new 
+* 3110 6 5 gene
+* 3117 6 4 ra
+* 3124 6 2 tion 
+- 3132
+: 3133 6 1 Call 
+: 3140 7 3 it 
+: 3150 6 4 gene
+: 3157 5 4 ra
+: 3163 5 6 tion 
+: 3172 6 6 of 
+: 3180 13 5 love 
+- 3195
+: 3197 5 5 Boys 
+: 3205 5 4 and 
+: 3213 5 4 girls 
+: 3221 5 4 - the 
+: 3230 5 7 new 
+: 3238 6 5 gene
+: 3245 6 4 ra
+: 3252 6 2 tion 
+- 3260
+: 3261 6 2 Call 
+: 3268 7 3 it 
+: 3278 6 4 gene
+: 3285 5 4 ra
+: 3291 5 6 tion 
+: 3300 6 6 of 
+: 3308 12 5 love 
+- 3321
+: 3321 5 4 Give 
+: 3327 3 4 me 
+: 3331 3 4 all 
+: 3335 3 4 your 
+: 3339 2 4 lo
+: 3342 5 4 ving, 
+: 3351 5 4 give 
+: 3358 4 4 me 
+: 3363 3 4 all 
+: 3367 3 4 your 
+: 3371 3 4 lo
+: 3375 4 5 ving 
+- 3381
+: 3387 3 4 Give 
+: 3391 3 4 me 
+: 3395 2 4 all 
+: 3398 3 4 you 
+: 3402 4 4 lo
+: 3407 6 4 ving, 
+: 3415 6 6 make 
+: 3422 6 6 it 
+: 3429 6 4 true 
+- 3437
+: 3446 5 4 Give 
+: 3452 4 4 me 
+: 3457 4 4 you 
+: 3462 4 4 lo
+: 3467 6 4 ving, 
+: 3477 6 4 give 
+: 3485 3 4 me 
+: 3489 4 4 all 
+: 3494 4 4 you 
+: 3499 3 4 lo
+: 3503 5 5 ving 
+- 3510
+: 3512 4 4 Give 
+: 3517 3 4 me 
+: 3521 3 4 all 
+: 3525 4 4 you 
+: 3531 3 4 lo
+: 3535 4 4 ving, 
+: 3543 5 6 me 
+: 3550 6 7 to 
+: 3558 14 9 you 
+- 3574
+: 3839 5 4 Boys 
+: 3847 5 4 and 
+: 3855 5 4 girls 
+: 3863 5 4 - the 
+: 3872 5 6 new 
+: 3880 6 5 gene
+: 3887 6 4 ra
+: 3894 6 2 tion 
+- 3902
+: 3903 6 1 Call 
+: 3910 7 3 it 
+: 3920 6 4 gene
+: 3927 5 4 ra
+: 3933 5 6 tion 
+: 3942 6 6 of 
+: 3950 13 4 love 
+E

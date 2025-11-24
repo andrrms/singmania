@@ -1,0 +1,231 @@
+#ARTIST:Tina Turner with David Bowie
+#TITLE:Tonight (Live)
+#MP3:Tina Turner with David Bowie - Tonight (Live).mp3
+#CREATOR:Edi316
+#COVER:Tina Turner with David Bowie - Tonight (Live) [CO].jpg
+#BACKGROUND:Tina Turner with David Bowie - Tonight (Live) [BG].jpg
+#GENRE:Rock
+#YEAR:1985
+#LANGUAGE:English
+#BPM:398
+#GAP:65320
+#VIDEO:v=p4WG_y7owmM,co=https://media.hitparade.ch/cover/big/tina_turner_david_bowie-tonight_(live)_s.jpg,bg=turner-tina-4ffabb7c55864.jpg,preview=65.26,medley=992-2890
+#START:45.8
+#END:266000
+: 0 15 1 Ev
+: 16 3 2 ery
+: 22 10 1 thing
+: 48 9 -3  will
+: 62 5 -1  be
+: 69 7 -1  a
+: 77 5 1 ~l
+: 85 10 -1 right
+: 109 3 -4  to
+: 114 12 -3 night
+- 179
+: 246 15 1 Ev
+: 262 3 2 ery
+: 269 10 1 thing
+: 293 9 -3  will
+: 308 5 -1  be
+: 316 6 -1  a
+: 323 5 1 ~l
+: 331 10 -1 right
+: 356 3 -4  to
+: 361 12 -3 night
+- 426
+: 493 6 2 No
+: 502 10 2  one
+: 518 10 2  moves
+- 538
+: 556 7 1 No
+: 565 6 1  o
+: 572 3 2 ~ne
+: 578 10 1  grooves
+- 598
+: 618 7 -1 No
+: 627 5 -1  o
+: 633 3 1 ~ne
+: 642 10 -1  talks
+- 662
+: 680 7 -3 No
+: 689 6 -3  o
+: 696 3 -1 ~ne
+: 705 10 -3  walks
+: 727 6 -6  to
+: 736 8 -8 night
+- 797
+: 854 4 -6 To
+: 861 3 -6 ni
+: 865 15 -8 ~ght
+- 933
+: 992 17 1 Ev
+: 1010 4 2 ery
+: 1018 8 1 one
+: 1048 4 -3  will
+: 1057 5 -1  be
+: 1064 6 -1  a
+: 1071 7 1 ~l
+: 1080 4 -1 ri
+: 1085 4 1 ~ght
+: 1111 3 -3  to
+: 1117 5 -3 ni
+: 1123 3 -1 ~ght
+- 1179
+: 1243 15 1 Ev
+: 1259 6 2 ery
+: 1268 12 1 one
+: 1298 4 -3  will
+: 1306 5 -1  be
+: 1312 5 -1  a
+: 1318 8 1 ~l
+: 1330 4 -1 ri
+: 1335 8 1 ~ght
+: 1360 4 -3  to
+: 1366 4 -3 ni
+: 1371 4 -1 ~ght
+- 1428
+: 1494 7 2 No
+: 1504 7 2  one
+: 1516 6 2  mo
+: 1523 20 4 ~ves
+- 1552
+: 1556 7 1 No
+: 1565 4 1  o
+: 1570 4 2 ~ne
+: 1581 8 1  talks
+- 1599
+: 1620 7 -1 No
+: 1629 7 -1  one
+: 1644 5 -1  thi
+: 1650 4 1 ~nks
+- 1664
+: 1682 7 -3 No
+: 1692 4 -3  o
+: 1697 5 -1 ~ne
+: 1708 10 -3  walks
+: 1737 3 -10  to
+: 1742 7 -8 night
+- 1775
+: 1854 13 -6 To
+: 1870 3 -6 ni
+: 1874 3 -8 ~ght
+- 1930
+* 1995 13 9 I
+* 2012 6 11  will
+* 2021 11 9  lo
+* 2033 5 6 ~ve
+* 2044 10 6  you
+* 2060 6 8  till
+* 2069 6 6  I
+* 2076 4 4 ~
+* 2084 11 4  reach
+: 2107 5 6  the
+: 2115 12 6  end
+- 2180
+: 2247 13 9 I
+: 2263 6 11  will
+: 2272 13 9  lo
+: 2286 5 6 ~ve
+: 2295 10 6  you
+: 2313 6 8  till
+: 2321 5 6  I
+: 2327 4 4 ~
+: 2336 11 4  reach
+: 2359 5 6  the
+: 2366 12 6  end
+- 2431
+: 2500 12 2 I
+: 2516 5 2  will
+: 2524 6 2  lo
+: 2531 10 4 ~ve
+: 2548 8 2  you
+: 2564 6 1  till
+: 2573 5 1  I
+: 2579 4 2 ~
+: 2587 12 1  die
+- 2609
+: 2626 12 8 I
+: 2643 3 9  will
+: 2652 18 8  see
+: 2674 8 8  you
+: 2690 10 6  in
+: 2704 3 -3  the
+: 2708 2 -1 ~
+: 2715 10 -3  sky
+- 2733
+: 2736 8 6 To
+: 2746 6 6 ni
+: 2753 6 4 ~ght
+- 2785
+: 2864 6 6 To
+: 2872 5 6 ni
+: 2878 12 4 ~ght
+- 2943
+: 4016 14 -1 Ev
+: 4032 4 1 ery
+: 4039 8 -1 one
+: 4063 12 -4  will
+* 4079 6 -2  be
+* 4088 6 -4  a
+* 4095 5 -6 ~l
+* 4102 22 -6 right
+: 4127 4 -4  to
+: 4134 9 -4 night
+- 4196
+: 4268 14 -1 Ev
+: 4285 5 1 ery
+: 4292 7 -1 o
+: 4300 4 -4 ~ne
+: 4316 10 -4  will
+: 4331 5 -2  be
+: 4339 6 -4  a
+: 4346 6 -6 ~l
+: 4354 10 -6 right
+: 4377 6 -4  to
+: 4385 10 -4 night
+- 4448
+: 4519 6 -1 No
+: 4527 8 -1  one
+: 4542 5 4  mo
+: 4548 4 6 ~
+: 4553 4 4 ~ves
+- 4567
+: 4582 6 3 No
+: 4590 8 3  one
+: 4605 5 3  ta
+: 4611 5 4 ~lks
+- 4626
+: 4644 7 -2 No
+: 4654 7 -4  one
+: 4667 10 -6  thinks
+- 4687
+: 4707 7 -4 No
+: 4716 6 -6  o
+: 4723 4 -8 ~ne
+: 4730 10 -8  walks
+: 4753 7 -4  to
+: 4761 4 -4 ni
+: 4766 10 -6 ~ght
+: 4784 4 -8  to
+: 4793 11 -9 night
+: 4817 6 -4  to
+: 4826 3 -4 ni
+: 4830 8 -6 ~ght
+- 4848
+: 4881 7 -4 To
+: 4890 2 -4 ni
+: 4893 8 -6 ~ght
+: 4913 6 -4  to
+: 4922 6 -6 night
+: 4944 6 -4  to
+: 4952 12 -6 night
+- 4974
+: 5006 6 -4 To
+: 5015 9 -4 night
+: 5038 4 -4  to
+: 5047 10 -4 night
+- 5083
+: 5134 14 -1 To
+: 5152 114 3 night
+E

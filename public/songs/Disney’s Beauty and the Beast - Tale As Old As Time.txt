@@ -1,0 +1,179 @@
+#ARTIST:Disney’s Beauty and the Beast
+#TITLE:Tale As Old As Time
+#MP3:Disney’s Beauty and the Beast - Tale As Old As Time.mp3
+#CREATOR:Kimbo
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1991
+#LANGUAGE:English
+#BPM:230.4
+#GAP:22860
+#VIDEO:v=sniX7lOcfZk,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/40/2b/a7402bee-d99a-e30a-0901-e8f3978cde69/14ULAIM03426.rgb.jpg/5000x5000bb.jpg,bg=beauty-and-the-beast-5ae29e8ca9007.jpg
+: 0 4 -7 Tale 
+: 5 4 -4 as 
+: 10 4 0 old 
+: 15 4 1 as 
+: 20 14 -6 time 
+- 36
+: 79 6 -7 True 
+: 86 4 -4 as 
+: 91 2 0 it 
+: 95 3 1 can 
+* 100 8 3 be 
+- 110
+: 157 6 1 Bare
+: 164 4 3 ly 
+: 171 3 5 e
+: 175 2 6 ven 
+: 179 12 8 friends 
+- 193
+: 199 5 8 Then 
+* 206 6 6 some
+: 213 2 5 bo
+: 216 2 3 dy 
+: 220 13 1 bends 
+- 235
+: 240 3 6 Un
+: 245 4 5 ex
+: 251 2 3 pec
+: 254 3 1 ted
+: 259 11 -4 ly 
+- 272
+: 320 4 -7 Just 
+: 325 2 -4 a 
+: 328 2 0 lit
+: 331 2 1 tle 
+: 336 12 -6 change 
+- 350
+* 397 7 -7 Small 
+: 406 3 -4 to 
+: 410 3 0 say 
+: 414 2 1 the 
+: 418 7 3 least 
+- 427
+: 437 3 5 Both 
+: 445 3 3 a 
+: 449 1 5 lit
+: 451 2 8 tle 
+: 456 11 1 scared 
+- 469
+: 479 5 1 Nei
+: 485 2 0 ther 
+: 488 4 1 one 
+: 495 2 5 pre
+: 498 10 -6 pared 
+- 510
+: 518 5 5 Beau
+* 524 5 6 ty 
+: 531 7 3 and 
+: 540 2 5 the 
+: 543 9 1 Beast 
+- 554
+: 606 4 1 E
+: 611 4 3 ver 
+: 616 2 5 just 
+: 620 2 6 the 
+: 624 31 8 same 
+- 657
+: 683 4 -2 E
+: 688 5 0 ver 
+: 697 2 1 a 
+: 700 2 10 sur
+* 705 33 8 prise 
+- 740
+: 760 4 1 E
+: 765 4 3 ver 
+: 771 3 5 as 
+: 775 3 6 be
+: 780 11 8 fore 
+- 793
+: 800 4 8 E
+: 805 3 6 ver 
+: 809 3 5 just 
+: 813 3 3 as 
+: 817 15 1 sure 
+- 834
+: 836 3 1 As 
+: 842 2 3 the 
+: 846 7 5 sun 
+: 854 6 1 will 
+* 861 26 3 rise 
+- 889
+: 915 4 -5 Tale 
+: 920 4 -2 as 
+: 925 3 2 old 
+: 929 6 3 as 
+: 938 13 -4 time 
+- 953
+* 993 4 -5 Tune 
+: 998 4 -2 as 
+: 1003 3 2 old 
+: 1007 4 3 as 
+: 1013 12 5 song 
+- 1027
+: 1068 3 3 Bit
+: 1072 3 5 ter
+: 1078 2 7 sweet 
+: 1082 3 8 and 
+: 1087 14 10 strange 
+- 1103
+: 1108 4 10 Fin
+: 1114 4 8 ding 
+: 1119 2 7 you 
+: 1122 2 5 can 
+: 1126 13 3 change 
+- 1141
+* 1146 4 8 Lear
+: 1152 4 7 ning 
+: 1157 2 5 you 
+: 1160 4 3 were 
+: 1165 17 -2 wrong 
+- 1184
+: 1224 5 -5 Cer
+: 1230 7 -2 tain 
+: 1238 4 2 as 
+: 1243 4 3 the 
+: 1248 18 -4 sun 
+- 1268
+: 1302 4 -5 Ri
+: 1307 5 -2 sing 
+: 1314 3 2 in 
+: 1318 3 3 the 
+: 1322 10 5 East 
+- 1334
+: 1340 4 7 Tale 
+: 1345 5 5 as 
+: 1351 3 7 old 
+: 1355 4 10 as 
+: 1361 11 3 time 
+- 1374
+: 1381 5 3 Song 
+: 1387 3 2 as 
+: 1393 3 3 old 
+: 1397 4 7 as 
+* 1403 11 -4 rhyme 
+- 1416
+: 1425 5 7 Beau
+: 1431 6 8 ty 
+: 1438 8 5 and 
+: 1447 2 7 the 
+: 1450 11 3 Beast 
+- 1463
+: 1517 9 7 Tale 
+: 1528 5 5 as 
+: 1534 4 7 old 
+: 1539 4 10 as 
+: 1545 10 3 time 
+- 1557
+: 1566 8 3 Song 
+: 1579 3 2 as 
+: 1583 6 3 old 
+: 1590 7 7 as 
+: 1598 18 -4 rhyme 
+- 1618
+: 1633 7 7 Beau
+: 1641 7 8 ty 
+: 1655 10 5 and 
+: 1683 6 7 the 
+* 1690 34 3 Beast 
+E

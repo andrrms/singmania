@@ -1,0 +1,229 @@
+#ARTIST:The Breeders
+#TITLE:Cannonball
+#MP3:The Breeders - Cannonball.mp3
+#CREATOR:znxineohp
+#GENRE:Rock
+#YEAR:1993
+#LANGUAGE:English
+#BPM:234.2
+#GAP:3270
+#VIDEO:v=fxvkI9MTQw4,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/15/df/bf15df0f-0c11-8bba-9623-81ca20008d0c/652637301168.png/5000x5000bb.jpg,bg=breeders-the-529b4cfb578b0.jpg
+F 0 5 1 Check 
+F 6 6 1 check 
+F 13 5 1 check 
+- 19
+F 19 16 3 Huumm 
+F 36 11 -4 hummm 
+- 49
+F 54 17 3 Huumm 
+F 72 12 -4 hummm 
+- 86
+F 92 16 3 Huumm 
+F 109 14 -4 hummm 
+- 125
+F 132 17 3 Huumm 
+F 150 13 -4 hummm 
+- 165
+F 170 19 3 Huumm 
+F 190 13 -4 hummm 
+- 205
+F 211 17 3 Huumm 
+F 229 12 -4 hummm 
+- 243
+: 748 10 3 Spitt
+: 759 3 1 ing 
+: 763 2 -2 in 
+: 766 4 -4 a 
+: 771 10 -2 wish
+: 782 8 -4 ing 
+: 791 13 -2 well 
+- 806
+: 817 8 3 Blown 
+: 826 3 1 to 
+: 830 7 -2 hell 
+: 838 5 -2 crash 
+- 845
+F 853 2 -2 I’m 
+F 856 1 -2 the 
+F 858 4 -2 last 
+F 863 5 -2 splash 
+- 870
+: 1044 5 3 I 
+: 1050 6 3 know 
+: 1057 8 1 you 
+: 1066 2 -4 lit
+: 1069 4 -2 tle 
+: 1074 4 -4 lib
+: 1079 2 -7 er
+: 1082 9 -9 tine 
+- 1093
+: 1111 4 3 I 
+: 1116 7 3 know 
+: 1124 9 1 you’re 
+: 1134 3 -4 a 
+: 1138 2 -2 re
+: 1141 4 -2 al 
+: 1146 7 -2 coo
+: 1154 9 -2 coo 
+- 1165
+: 1301 4 10 Want 
+: 1306 8 10 you 
+: 1315 5 10 coo
+: 1321 7 10 coo 
+* 1330 4 10 can
+* 1335 3 10 non
+* 1339 8 10 ball 
+- 1349
+: 1367 5 10 Want 
+: 1373 8 10 you 
+: 1382 5 10 coo
+: 1388 8 10 coo 
+: 1397 3 10 can
+: 1401 3 10 non
+: 1405 8 10 ball 
+- 1415
+* 1439 5 2 In 
+* 1445 3 2 the 
+* 1449 11 3 shade, 
+- 1462
+* 1466 8 0 In 
+* 1475 2 -2 the 
+* 1478 6 0 sha
+* 1485 10 2 de 
+- 1497
+* 1507 3 2 In 
+* 1511 2 2 the 
+* 1514 12 3 shade, 
+- 1528
+* 1531 8 0 In 
+* 1540 3 -2 the 
+* 1544 7 0 sha
+* 1552 9 2 de 
+- 1563
+: 1706 4 3 I 
+: 1711 7 3 know 
+: 1719 7 1 you 
+: 1727 3 -4 lit
+: 1731 4 -2 tle 
+: 1736 4 -4 lib
+: 1741 3 -7 er
+: 1745 13 -9 tine 
+- 1760
+: 1772 5 3 I 
+: 1778 7 3 know 
+: 1786 8 1 you’re 
+: 1795 3 -4 a 
+* 1799 7 -2 can
+* 1807 7 -2 non
+* 1815 10 -2 ball 
+- 1827
+: 1907 5 3 I’ll 
+: 1913 8 3 be 
+: 1922 7 1 your 
+: 1930 3 -4 what
+: 1934 3 -2 ev
+: 1938 3 -4 er 
+: 1942 4 -7 you 
+* 1947 13 -9 want 
+- 1962
+: 1974 4 3 The 
+: 1979 8 3 bong 
+: 1988 7 1 in 
+: 1996 4 -4 this 
+* 2001 7 -2 reg
+* 2009 8 -2 gae 
+* 2018 10 -2 song 
+- 2030
+: 2082 4 2 In 
+: 2087 4 2 the 
+: 2092 11 3 shade, 
+- 2105
+: 2147 5 2 In 
+: 2153 3 2 the 
+: 2157 10 3 shade 
+- 2169
+: 2205 4 10 Want 
+: 2210 8 10 you 
+: 2221 5 10 coo
+: 2227 7 10 coo 
+* 2235 3 10 can
+* 2239 3 10 non
+* 2243 8 10 ball 
+- 2253
+: 2271 4 10 Want 
+: 2276 8 10 you 
+: 2287 5 10 coo
+: 2293 8 10 coo 
+* 2302 3 10 can
+* 2306 4 10 non
+* 2311 8 10 ball 
+- 2321
+: 2347 9 3 Spit
+: 2357 5 1 ting 
+: 2363 3 -2 in 
+: 2367 3 -4 a 
+* 2371 11 -2 wish
+* 2383 8 -4 ing 
+* 2392 11 -2 well 
+- 2405
+: 2416 8 3 Blown 
+: 2425 3 1 to 
+: 2429 8 -2 hell 
+: 2438 6 -2 Crash 
+- 2446
+: 2453 2 -2 I’m 
+: 2456 2 -4 the 
+* 2459 8 1 last 
+* 2469 8 -2 splash 
+- 2479
+: 2544 4 3 I’ll 
+: 2549 9 3 be 
+: 2559 7 1 your 
+: 2567 3 -4 what
+: 2571 3 -2 ev
+: 2575 3 -4 er 
+: 2579 4 -7 you 
+* 2584 10 -9 want 
+- 2596
+: 2611 4 3 The 
+: 2616 7 3 bong 
+: 2624 8 1 in 
+: 2633 4 -4 this 
+* 2638 6 -2 reg
+* 2645 6 -2 gae 
+* 2652 12 -2 song 
+- 2666
+: 2802 4 10 Want 
+: 2807 7 10 you 
+: 2817 5 10 coo
+: 2823 7 10 coo 
+: 2831 4 10 can
+: 2836 3 10 non
+: 2840 9 10 ball 
+- 2851
+: 2867 5 10 Want 
+: 2873 6 10 you 
+: 2884 4 10 coo
+: 2889 8 10 coo 
+: 2898 3 10 can
+: 2902 3 10 non
+: 2906 9 10 ball 
+- 2917
+* 2941 5 2 In 
+* 2947 2 2 the 
+* 2950 11 3 shade, 
+- 2963
+* 2966 8 0 In 
+* 2975 3 -2 the 
+* 2979 7 0 sha
+* 2987 9 2 de 
+- 2998
+* 3006 4 2 In 
+* 3011 4 2 the 
+* 3016 10 3 shade, 
+- 3028
+* 3032 8 0 In 
+* 3041 3 -2 the 
+* 3045 6 0 sha
+* 3052 9 2 de 
+E

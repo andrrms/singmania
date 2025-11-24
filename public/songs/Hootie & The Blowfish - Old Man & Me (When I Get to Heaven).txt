@@ -1,0 +1,459 @@
+#ARTIST:Hootie & The Blowfish
+#TITLE:Old Man & Me (When I Get to Heaven)
+#MP3:Hootie & The Blowfish - Old Man & Me (When I Get to Heaven).mp3
+#CREATOR:mindtakerr
+#COVER:Hootie & The Blowfish - Old Man & Me (When I Get to Heaven) [CO].jpg
+#BACKGROUND:Hootie & The Blowfish - Old Man & Me (When I Get to Heaven) [BG].jpg
+#YEAR:1996
+#LANGUAGE:English
+#BPM:376.67
+#GAP:9550
+#VIDEO:v=REGPO7qnzAI,co=https://i.discogs.com/5uU9edcV62QJM1XQv21PbqGISSFMJFDvnmjgtuuhtHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgz/ODQtMTY5MTc2MzE4/OS01OTU5LmpwZWc.jpeg,bg=hootie--the-blowfish-4ecd49f5effcb.jpg
+: 0 4 6 Well 
+: 6 4 9 an 
+: 13 5 1 old 
+: 20 5 1 man 
+: 27 5 1 said 
+: 35 4 11 to 
+: 41 14 1 me 
+- 61
+: 63 2 9 In 
+: 67 3 11 a 
+: 73 4 1 voice 
+: 80 5 1 filled 
+: 89 4 1 with 
+: 97 22 11 pain 
+- 121
+: 123 5 6 Where 
+: 130 2 8 you 
+: 134 7 6 go
+: 142 3 6 ing 
+: 146 5 6 young 
+: 152 13 6 man 
+- 190
+: 242 3 6 Said 
+: 246 5 11 I’m 
+: 255 7 1 go
+: 263 2 1 ing 
+: 266 4 2 to 
+: 271 4 1 fight 
+: 278 4 11 a 
+: 284 11 11 war 
+- 300
+: 302 5 4 Gon
+: 308 3 11 na 
+: 314 4 1 fight 
+: 321 4 9 for 
+: 329 4 1 my 
+: 339 4 11 coun
+: 349 9 11 try 
+: 361 2 9 in 
+: 365 4 11 some 
+: 373 5 11 fo
+: 379 3 1 reign 
+: 389 6 11 land
+: 397 19 8 ~ 
+- 441
+: 474 4 8 He 
+: 480 4 8 said 
+: 487 3 9 The 
+: 493 21 1 sun 
+: 519 2 11 will 
+: 523 2 1 ne
+: 527 2 6 ver 
+: 531 3 1 hurt 
+: 537 4 11 you 
+: 545 2 11 ne
+: 549 3 11 ver 
+: 555 12 9 harmed 
+: 571 2 9 a
+: 574 4 9 ny
+: 581 17 8 one 
+- 601
+: 603 1 4 But 
+: 606 3 8 you 
+: 611 3 8 must 
+: 617 4 6 re
+: 623 2 6 al
+: 627 28 6 ize 
+- 680
+: 725 3 6 If 
+: 730 6 11 you 
+: 741 3 1 try 
+: 748 2 1 to 
+: 753 4 1 stare 
+: 760 4 11 her 
+: 766 13 1 down 
+: 784 4 11 she 
+: 791 2 11 will 
+: 796 6 1 win 
+: 806 4 1 in 
+: 814 3 11 the 
+: 822 17 1 end 
+- 842
+: 844 5 11 She 
+: 850 4 11 will 
+: 857 4 1 burn 
+: 864 3 1 your 
+: 868 25 11 eyes 
+- 901
+: 904 5 11 She 
+: 910 4 11 will 
+: 917 25 9 burn 
+: 946 10 11 them
+: 957 26 6 ~ 
+- 993
+: 1013 4 6 Seen 
+: 1019 4 4 a 
+: 1026 5 4 mil
+: 1034 4 4 lion 
+: 1041 5 1 pla
+: 1049 9 11 ces 
+- 1083
+: 1137 4 6 Seen 
+: 1143 4 4 a 
+: 1150 4 4 mil
+: 1157 5 11 lion 
+: 1165 7 1 fa
+: 1175 14 11 ces 
+: 1191 30 11 die 
+- 1231
+: 1257 2 8 And 
+: 1260 2 9 I 
+: 1264 3 9 won
+: 1269 3 11 der 
+: 1275 4 11 who 
+: 1282 3 11 will 
+: 1290 4 1 walk 
+: 1298 3 1 with 
+: 1307 11 1 me 
+: 1327 3 6 when 
+: 1333 3 11 I 
+: 1341 4 11 get 
+: 1349 3 11 to 
+: 1357 4 1 Hea
+: 1364 15 11 ven 
+- 1429
+: 1592 3 6 He 
+: 1597 5 9 said 
+: 1604 14 1 Boy 
+: 1619 6 1 I 
+: 1629 4 11 was 
+: 1634 7 1 young 
+: 1642 16 11 once 
+- 1660
+: 1662 5 8 Yeah 
+: 1672 8 9 I 
+: 1682 4 9 was 
+: 1689 16 8 tough 
+: 1713 3 6 sai
+: 1717 2 8 ling 
+: 1721 3 8 on 
+: 1728 3 11 Un
+: 1733 3 6 cle 
+: 1739 15 8 Sam’s 
+: 1755 15 6 boat 
+- 1795
+: 1827 4 9 Hey 
+: 1833 3 9 I 
+: 1839 6 11 could 
+: 1849 6 1 kill 
+: 1857 2 2 the 
+: 1862 4 1 e
+: 1868 4 11 ne
+: 1874 12 1 my 
+- 1892
+: 1895 3 6 I 
+: 1900 3 11 could 
+: 1907 5 2 die 
+: 1915 3 1 on 
+: 1921 4 1 fo
+: 1928 3 1 reign 
+: 1934 7 1 streets
+: 1942 8 11 ~
+: 1956 3 8 but 
+: 1961 4 11 I 
+: 1968 4 2 could 
+: 1975 3 1 not 
+: 1982 8 1 vote
+: 1992 33 11 ~ 
+- 2035
+: 2068 3 9 But 
+: 2073 4 9 now 
+: 2080 4 11 you 
+: 2090 9 1 walk 
+: 2102 8 1 by 
+: 2113 17 1 me 
+: 2136 4 6 you 
+: 2142 4 11 won’t 
+: 2150 11 1 talk 
+: 2164 6 1 to 
+: 2174 15 1 me 
+: 2198 4 9 say 
+: 2203 4 11 this 
+: 2210 4 1 is 
+: 2217 4 1 my 
+: 2223 15 1 fate 
+- 2263
+: 2309 3 9 But 
+: 2315 3 9 eve
+: 2321 5 11 ry 
+: 2333 5 1 time 
+: 2340 3 1 you 
+: 2345 4 1 walk 
+: 2352 3 11 the 
+: 2359 7 1 streets 
+: 2369 17 11 boy 
+: 2394 3 1 most 
+: 2399 4 1 of 
+: 2406 4 1 them 
+: 2413 4 11 you 
+: 2420 8 1 meet 
+- 2428
+: 2429 6 1 You 
+: 2436 5 4 see 
+: 2444 4 11 it’s 
+: 2452 4 1 you 
+: 2459 3 1 they 
+: 2465 18 11 hate 
+: 2500 4 11 it’s 
+: 2508 10 9 you
+: 2522 9 11 ~
+: 2537 10 9 yeah
+: 2551 10 11 ~
+: 2563 27 8 ~ 
+- 2600
+: 2607 3 9 Seen 
+: 2613 4 4 a 
+: 2620 4 4 mil
+: 2627 5 11 lion 
+: 2635 9 1 fa
+: 2646 15 11 ces 
+- 2686
+: 2733 4 9 Seen 
+: 2739 4 4 a 
+: 2746 4 4 mil
+: 2754 4 4 lion 
+: 2761 10 1 pla
+: 2775 10 4 ces 
+: 2788 30 6 die 
+- 2828
+: 2854 3 9 And 
+: 2858 3 9 I 
+: 2862 3 4 won
+: 2867 4 11 der 
+: 2874 4 11 who 
+: 2881 4 11 will 
+: 2889 4 1 walk 
+: 2897 4 1 with 
+: 2905 15 1 me 
+: 2925 3 9 when 
+: 2930 4 11 I 
+: 2938 4 11 get 
+: 2945 4 11 to 
+: 2953 7 1 Hea
+: 2961 10 11 ven 
+- 3021
+: 3476 2 4 I’ve 
+: 3480 3 4 seen 
+: 3486 3 4 a 
+: 3491 3 4 mil
+: 3498 3 4 lion 
+: 3506 32 1 pla
+: 3540 34 8 ces 
+- 3584
+: 3604 3 4 Seen 
+: 3609 3 11 a 
+: 3616 4 4 mil
+: 3623 4 4 lion 
+: 3631 11 1 fa
+: 3646 9 4 ces 
+: 3658 42 11 die 
+- 3710
+: 3724 2 4 And 
+: 3728 2 9 I 
+: 3731 3 9 won
+: 3736 3 4 der 
+: 3743 3 4 who 
+: 3749 3 11 will 
+: 3756 5 1 walk 
+: 3764 4 1 with 
+: 3772 16 1 me 
+: 3795 3 1 when 
+: 3800 4 1 I 
+: 3808 37 1 get 
+: 3849 5 11 there
+: 3857 4 8 ~
+: 3863 29 6 ~ 
+- 3942
+: 4052 4 8 See 
+: 4059 3 9 this 
+: 4065 4 1 wom
+: 4072 4 1 an 
+: 4079 4 1 sit
+: 4085 3 11 ting 
+: 4092 3 1 next 
+: 4099 2 11 to 
+: 4104 12 11 me 
+- 4117
+: 4119 12 9 She’s 
+: 4133 5 9 been 
+: 4140 21 8 there 
+: 4169 4 4 for 
+: 4175 5 8 a 
+: 4182 10 8 long 
+: 4194 23 6 long 
+: 4222 28 9 time 
+- 4260
+: 4285 3 8 And 
+: 4290 4 4 when 
+: 4297 5 11 I 
+: 4305 9 1 fell 
+: 4315 2 11 she 
+: 4319 7 11 picked 
+: 4329 3 11 me 
+: 4334 8 11 up 
+- 4344
+: 4346 8 6 When 
+: 4355 4 6 I 
+: 4363 6 8 cried 
+: 4371 4 6 she 
+: 4378 4 6 wiped 
+: 4385 4 6 my 
+: 4391 14 8 tears 
+- 4410
+: 4412 4 8 I 
+: 4419 3 11 thank 
+: 4425 11 1 God 
+: 4438 8 1 she’s 
+: 4449 10 11 mine
+: 4460 2 6 ~
+: 4465 21 6 ~ 
+- 4496
+: 4524 3 9 And 
+: 4530 3 4 when 
+: 4535 5 11 I 
+: 4545 9 1 leave 
+: 4558 6 1 this 
+: 4567 11 1 world
+: 4579 12 11 ~ 
+- 4594
+: 4596 2 11 She 
+: 4599 4 11 won’t 
+: 4606 3 1 have 
+: 4612 5 1 a
+: 4620 4 1 ny
+: 4628 18 1 thing 
+: 4651 3 4 but 
+: 4656 5 11 her 
+: 4664 4 1 love 
+: 4671 3 1 for 
+: 4678 9 1 me
+: 4689 12 11 ~
+: 4703 23 6 ~ 
+- 4736
+: 4760 5 8 Be
+: 4768 5 9 cause 
+: 4776 4 11 the 
+: 4782 6 1 man 
+: 4791 4 1 took 
+: 4797 5 1 eve
+: 4805 2 1 ry
+: 4809 3 11 thing 
+: 4816 6 1 else 
+- 4822
+: 4823 9 11 He 
+: 4846 3 1 made 
+: 4853 3 2 me 
+: 4858 4 1 hate 
+: 4865 4 11 my
+: 4872 4 11 self 
+: 4881 12 11 so 
+: 4898 3 6 just 
+: 4906 2 1 let 
+: 4911 3 1 her 
+: 4918 5 11 be 
+: 4926 16 11 boy 
+- 4946
+: 4948 5 9 Won’t 
+: 4955 4 11 you 
+: 4966 4 1 let 
+: 4974 4 1 her 
+: 4986 17 11 be
+: 5004 36 11 ~ 
+- 5050
+: 5060 4 6 Seen 
+: 5066 4 4 a 
+: 5074 4 1 mil
+: 5081 4 4 lion 
+: 5088 8 1 pla
+: 5097 15 11 ces 
+- 5137
+: 5185 4 6 Seen 
+: 5192 3 4 a 
+: 5199 4 11 mil
+: 5206 4 4 lion 
+: 5214 10 4 fa
+: 5228 8 11 ces 
+: 5239 36 9 die 
+- 5285
+: 5309 2 6 I’ve 
+: 5313 3 4 seen 
+: 5319 3 4 A 
+: 5326 5 4 mil
+: 5334 3 2 lion 
+: 5341 7 4 mo
+: 5349 30 1 thers 
+: 5383 10 11 cry
+: 5394 10 8 ~ 
+- 5414
+: 5435 2 6 I’ve 
+: 5439 3 4 seen 
+: 5445 3 2 A 
+: 5451 5 4 bil
+: 5459 3 1 lion 
+: 5466 7 4 bro
+: 5476 8 1 thers 
+: 5492 7 1 dy
+: 5502 26 11 ing 
+- 5538
+: 5557 2 4 But 
+: 5561 1 4 I 
+: 5565 2 4 won
+: 5570 2 4 der 
+: 5576 4 4 who 
+: 5583 3 1 will 
+: 5590 4 4 walk 
+: 5598 3 4 with 
+: 5606 15 4 me 
+- 5625
+: 5627 3 4 When 
+: 5633 3 4 I 
+: 5641 4 4 get 
+: 5648 6 1 there
+: 5655 7 8 ~ 
+- 5687
+: 5758 2 4 When 
+: 5762 4 11 I 
+: 5769 4 4 get 
+: 5776 4 11 to 
+: 5786 5 1 hea
+: 5793 31 1 ven
+: 5826 5 9 ~
+: 5833 16 6 ~ 
+- 5859
+: 5880 3 11 When 
+: 5885 4 11 I 
+: 5892 3 11 get 
+: 5898 50 6 there 
+- 5973
+: 6004 3 1 When 
+: 6009 4 11 I 
+: 6016 4 11 get 
+: 6023 3 11 to 
+: 6030 7 1 Hea
+: 6039 17 11 ven 
+: 6057 13 11 Yeah
+: 6071 12 6 ~
+: 6084 27 11 ~ 
+E

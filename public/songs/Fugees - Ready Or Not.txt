@@ -1,0 +1,761 @@
+#ARTIST:Fugees
+#TITLE:Ready Or Not
+#MP3:Fugees - Ready Or Not.mp3
+#CREATOR:Phil333
+#YEAR:1996
+#LANGUAGE:English
+#BPM:297.6
+#GAP:36720
+#VIDEO:v=aIXyKmElvv8,co=https://steveyb.co.uk/wp-content/gallery/fugees/Fugees-Sing06ReadyOrNot.jpg,bg=fugees-55c6090bd71c6.jpg
+: 0 3 3 Rea
+: 4 2 5 dy 
+: 7 3 1 or 
+: 11 11 -2 not, 
+: 28 3 5 here 
+: 32 4 1 I 
+: 37 10 -2 come 
+- 49
+: 53 4 5 You 
+: 58 6 1 can’t 
+: 65 15 -2 hide 
+- 82
+: 101 3 1 Gon
+: 105 2 3 na 
+: 108 15 5 fi
+: 124 2 3 ~
+: 127 6 1 ~nd 
+: 134 14 3 you 
+- 150
+: 154 6 8 And 
+: 162 12 5 take 
+: 175 12 3 it 
+: 188 11 1 slow
+: 200 9 3 ly 
+- 211
+: 215 3 3 Rea
+: 219 2 5 dy 
+: 222 2 1 or 
+: 225 16 -2 not 
+- 242
+: 242 3 5 Here 
+: 246 5 1 I 
+: 252 13 -2 come, 
+: 268 4 5 you 
+: 273 5 1 can’t 
+: 279 18 -2 hide 
+- 299
+: 315 3 1 Gon
+: 319 2 3 na 
+: 322 15 5 fi
+: 338 3 3 ~
+: 342 6 1 ~nd 
+: 350 14 3 you 
+- 366
+: 368 6 8 And 
+: 375 12 5 make 
+: 388 13 3 you 
+: 402 11 1 want 
+: 414 4 3 me 
+- 420
+F 425 6 10 Now 
+F 432 2 10 that 
+F 435 2 10 I 
+F 438 1 10 es
+F 440 7 10 cape 
+- 448
+F 448 5 10 Sleep
+F 454 6 10 wal
+F 461 3 10 ker 
+F 465 6 10 awake 
+- 473
+F 480 4 10 Those 
+F 485 2 10 who 
+F 488 3 10 could 
+F 492 2 10 re
+F 495 5 12 late 
+- 501
+F 502 2 10 Know 
+F 505 2 10 the 
+F 508 4 10 world 
+F 513 4 10 ain’t 
+F 518 5 12 cake 
+- 525
+F 530 4 10 Jail 
+F 535 5 5 bars 
+F 541 4 5 ain’t 
+F 546 4 5 gol
+F 551 2 5 den 
+F 554 9 10 gates 
+- 564
+F 565 5 10 Those 
+F 571 3 5 who 
+F 575 6 10 fake 
+F 582 3 5 they 
+F 586 9 10 break 
+- 596
+F 596 2 10 When 
+F 599 2 10 they 
+F 602 3 10 meet 
+F 606 2 10 their 
+F 609 4 10 four
+F 614 3 10 hun
+F 618 4 10 dred 
+F 623 4 10 pound 
+F 628 3 12 mate 
+- 632
+F 632 3 10 If 
+F 636 2 10 I 
+F 639 2 10 can 
+F 642 5 10 rule 
+F 648 3 10 the 
+F 652 6 12 world 
+- 660
+F 663 2 10 Ev
+F 666 1 10 ’ry
+F 668 2 10 one 
+F 671 2 10 would 
+F 674 4 10 have 
+F 679 2 12 a 
+F 682 6 12 gun 
+- 689
+F 689 2 10 In 
+F 692 1 10 the 
+F 694 4 10 ghet
+F 699 1 10 to 
+F 701 4 10 of 
+F 706 5 12 course 
+- 712
+F 712 2 10 When 
+F 715 3 10 gid
+F 719 2 10 dy
+F 722 3 10 up
+F 726 2 10 in’ 
+F 729 4 10 on 
+F 734 2 10 their 
+F 737 8 12 horse 
+- 747
+F 756 3 10 Kick 
+F 760 2 10 a 
+F 763 5 12 rhyme 
+F 769 3 10 drin
+F 773 2 10 kin’ 
+F 776 5 10 moon
+F 782 9 12 shine 
+- 792
+F 793 2 10 I 
+F 796 2 10 pour 
+F 799 3 10 a 
+F 803 4 10 sip 
+F 808 3 10 on 
+F 812 2 10 the 
+F 815 5 12 con
+F 821 10 10 crete 
+- 832
+F 832 2 10 For 
+F 835 3 10 the 
+F 839 2 10 de
+F 842 6 12 ceased 
+- 849
+F 849 3 3 But 
+F 853 4 3 no 
+F 858 4 8 don’t 
+F 863 8 5 weep 
+- 872
+F 872 3 3 Wy
+F 876 5 3 clef’s 
+F 882 3 3 in 
+F 886 1 3 a 
+F 888 3 3 state 
+F 892 2 3 of 
+F 895 6 5 sleep 
+- 902
+F 902 2 3 Thin
+F 905 2 3 kin’ 
+F 908 3 3 ’bout 
+F 912 2 3 the 
+F 915 3 3 rob
+F 919 2 3 be
+F 922 6 5 ry 
+- 929
+F 930 2 3 That 
+F 933 3 3 I 
+F 937 4 3 did 
+F 942 6 3 last 
+F 949 10 5 week 
+- 961
+F 962 3 3 Mo
+F 966 2 3 ney 
+F 969 3 3 in 
+F 973 2 3 the 
+F 976 5 5 bag 
+- 982
+F 982 3 3 Ban
+F 986 2 3 ker 
+F 989 4 3 looked 
+F 994 3 3 like 
+F 998 3 3 a 
+F 1002 8 5 drag 
+- 1012
+F 1013 2 3 I 
+F 1016 2 3 want 
+F 1019 2 3 to 
+F 1022 3 5 play 
+F 1026 2 3 with 
+F 1029 2 5 pe
+F 1032 2 5 li
+F 1035 3 5 cans 
+- 1039
+F 1039 3 3 From 
+F 1043 2 5 here 
+F 1046 3 3 to 
+F 1050 7 5 Bagh
+F 1058 15 1 dad 
+- 1074
+F 1074 4 3 Gun 
+F 1079 6 3 blast 
+F 1086 4 3 think 
+F 1091 7 3 fast 
+F 1099 2 3 I 
+F 1102 3 3 think 
+F 1106 3 3 I’m 
+F 1110 8 5 hit 
+- 1119
+F 1119 3 3 My 
+F 1123 4 3 girl 
+F 1128 4 3 pinched 
+F 1133 2 3 my 
+F 1136 5 5 hips 
+- 1142
+F 1142 2 3 To 
+F 1145 2 3 see 
+F 1148 1 3 if 
+F 1150 3 3 I 
+F 1154 4 3 still 
+F 1159 2 3 ex
+F 1162 9 5 ist 
+- 1172
+F 1172 3 3 I 
+F 1176 6 3 think 
+F 1183 7 5 not 
+- 1192
+F 1193 3 3 I’ll 
+F 1197 2 3 send 
+F 1200 1 3 a 
+F 1202 3 3 let
+F 1206 2 3 ter 
+F 1209 2 3 to 
+F 1212 3 3 my 
+F 1216 10 5 friends 
+- 1227
+F 1227 2 3 A 
+F 1230 3 3 born 
+F 1234 2 3 a
+F 1237 5 5 gain 
+F 1243 3 3 hoo
+F 1247 2 3 li
+F 1250 5 5 gan 
+- 1256
+F 1256 3 3 On
+F 1260 2 3 ly 
+F 1263 2 3 to 
+F 1266 3 3 be 
+F 1270 4 5 king 
+F 1275 3 3 a
+F 1279 2 5 gain 
+- 1282
+: 1282 3 3 Rea
+: 1286 2 5 dy 
+: 1289 2 1 or 
+: 1292 12 -2 not, 
+: 1308 4 5 here 
+: 1313 5 1 I 
+: 1319 12 -2 come 
+- 1333
+: 1335 4 5 You 
+: 1340 5 1 can’t 
+: 1346 14 -2 hide 
+- 1362
+: 1381 3 1 Gon
+: 1385 2 3 na 
+: 1388 16 5 fi
+: 1405 2 3 ~
+: 1408 7 1 ~nd 
+: 1416 12 3 you 
+- 1430
+: 1435 6 8 And 
+: 1442 12 5 take 
+: 1455 12 3 it 
+: 1469 11 1 slow
+: 1482 12 3 ly 
+- 1495
+: 1496 2 3 Rea
+: 1499 3 5 dy 
+: 1503 2 1 or 
+: 1506 10 -2 not 
+- 1518
+: 1523 3 5 Here 
+: 1527 5 1 I 
+: 1533 14 -2 come 
+- 1548
+: 1549 4 5 You 
+: 1554 5 1 can’t 
+: 1561 15 -2 hide 
+- 1578
+: 1597 2 1 Gon
+: 1600 2 3 na 
+: 1603 10 5 fi
+: 1615 2 3 ~
+: 1619 2 1 ~nd 
+: 1629 18 3 you 
+- 1648
+: 1649 5 8 And 
+: 1655 11 5 make 
+: 1669 10 3 you 
+: 1683 12 1 want 
+: 1696 4 3 me 
+- 1702
+F 1713 2 3 I 
+F 1716 3 5 play 
+F 1720 2 3 my 
+F 1723 2 3 e
+F 1726 2 3 ne
+F 1729 5 5 mies 
+- 1735
+F 1736 2 3 Like 
+F 1739 3 3 a 
+F 1743 2 3 game 
+F 1746 2 3 of 
+F 1749 7 5 chess 
+- 1757
+F 1757 2 3 Where 
+F 1760 3 3 I 
+F 1764 8 5 rest 
+F 1774 5 8 no 
+F 1780 4 5 stress 
+- 1785
+F 1785 2 3 If 
+F 1788 2 3 you 
+F 1791 3 3 don’t 
+F 1795 6 3 smoke 
+F 1802 7 5 sess 
+F 1810 7 5 lest 
+- 1819
+F 1820 2 3 I 
+F 1823 4 3 must 
+F 1828 2 3 con
+F 1831 5 5 fess 
+F 1837 3 3 my 
+F 1841 3 3 des
+F 1845 1 5 ti
+F 1847 3 3 ny’s 
+F 1851 2 3 ma
+F 1854 2 3 ni
+F 1857 6 5 fest 
+- 1864
+F 1864 2 3 To 
+F 1867 4 3 some 
+F 1872 4 3 gore
+F 1877 4 5 tex 
+F 1882 1 3 and 
+F 1884 7 5 sweats 
+- 1892
+F 1892 2 3 I 
+F 1895 3 3 make 
+F 1899 5 3 tracks 
+F 1905 3 3 like 
+F 1909 4 3 I’m 
+F 1914 4 5 home
+F 1919 11 5 less 
+- 1931
+F 1932 6 3 Rap 
+F 1939 5 3 or
+F 1945 3 5 gies 
+F 1949 4 3 with 
+F 1954 5 3 Por
+F 1960 2 5 gy 
+F 1963 3 3 and 
+F 1967 9 5 Bess 
+- 1977
+F 1978 5 3 Cap
+F 1984 2 3 ture 
+F 1987 3 3 your 
+F 1991 6 5 boun
+F 1998 3 3 ty 
+- 2002
+F 2002 5 2 Like 
+F 2008 3 4 El
+F 2012 2 2 li
+F 2015 3 4 ot 
+F 2019 5 2 Ness 
+F 2025 12 4 yes 
+- 2038
+F 2038 5 3 Bless 
+F 2044 6 5 you 
+F 2051 3 3 if 
+F 2055 2 3 you 
+F 2058 1 3 re
+F 2060 3 3 pre
+F 2064 3 3 sent 
+F 2068 2 3 the 
+F 2071 6 3 fu 
+- 2078
+F 2078 2 3 But 
+F 2081 3 3 I’ll 
+F 2085 5 3 hex 
+F 2091 5 1 you 
+F 2097 2 3 with 
+F 2100 3 3 some 
+F 2104 2 3 wit
+F 2107 3 3 ches 
+F 2111 6 5 brew 
+- 2118
+F 2118 3 3 If 
+F 2122 2 3 you’re 
+F 2125 5 1 doo 
+F 2131 5 1 doo 
+F 2138 5 3 voo
+F 2144 6 3 doo 
+- 2151
+F 2151 3 3 I 
+F 2155 2 3 could 
+F 2158 3 3 do 
+F 2162 3 3 what 
+F 2166 3 5 you 
+F 2171 5 3 do 
+- 2178
+F 2179 6 5 Ea
+F 2186 3 3 sy, 
+F 2190 2 3 be
+F 2193 5 5 lieve 
+F 2199 3 5 me 
+- 2203
+F 2203 3 5 Fron
+F 2207 3 5 tin’ 
+F 2211 2 5 n**
+F 2214 3 5 **s 
+F 2218 3 3 give 
+F 2222 2 3 me 
+F 2226 2 3 hee
+F 2229 3 3 bee 
+F 2233 6 5 gee
+F 2240 8 3 bees 
+- 2249
+F 2249 2 3 So 
+F 2252 2 3 while 
+F 2255 1 3 you’re 
+F 2257 2 3 i
+F 2261 2 5 mi
+F 2264 3 3 ta
+F 2268 2 3 tin’ 
+F 2271 4 5 Al 
+F 2276 3 3 Ca
+F 2280 6 5 pone 
+- 2287
+F 2287 2 3 I’ll 
+F 2290 3 3 be 
+F 2294 1 5 Ni
+F 2296 4 3 na 
+F 2301 3 3 Si
+F 2305 8 5 mone 
+- 2314
+F 2314 3 3 And 
+F 2318 2 3 de
+F 2321 2 3 fa
+F 2324 3 5 ca
+F 2328 3 3 ting 
+F 2332 2 3 on 
+F 2335 2 3 your 
+F 2338 2 5 mi
+F 2341 3 3 cro
+F 2345 7 5 phone 
+- 2353
+: 2353 1 3 Rea
+: 2355 2 5 dy 
+: 2359 2 1 or 
+: 2362 16 -2 not, 
+: 2379 3 5 here 
+: 2383 5 1 I 
+: 2389 12 -2 come 
+- 2403
+: 2406 3 5 You 
+: 2410 6 1 can’t 
+: 2417 17 -2 hide 
+- 2436
+: 2450 3 1 Gon
+: 2454 2 3 na 
+: 2458 12 5 fi
+: 2471 2 3 ~
+: 2475 2 1 ~nd 
+: 2485 13 3 you 
+- 2500
+: 2504 6 8 And 
+: 2511 11 5 take 
+: 2524 13 3 it 
+: 2538 11 1 slow
+: 2550 10 3 ly 
+- 2562
+: 2577 5 5 You 
+: 2583 4 8 can’t 
+: 2588 9 10 run 
+: 2599 2 13 a
+: 2602 6 10 wa
+: 2609 2 8 ~
+: 2612 5 5 ~y 
+- 2619
+: 2631 3 5 From 
+: 2635 4 8 these 
+: 2641 6 10 styles 
+: 2649 5 5 I 
+: 2655 6 3 got 
+: 2662 6 5 oh 
+: 2669 5 3 ba
+: 2675 12 1 by 
+- 2688
+: 2688 6 5 Hey 
+: 2695 5 3 ba
+: 2702 7 1 by 
+- 2710
+: 2711 4 -2 ’Cause 
+: 2716 4 1 I 
+: 2721 5 5 got 
+: 2727 6 3 a 
+: 2734 3 5 lo
+: 2738 10 3 ~t 
+: 2749 2 5 oh
+: 2752 2 3 ~ 
+: 2755 3 5 yeah
+: 2759 13 3 ~ 
+- 2774
+: 2789 2 3 And 
+: 2792 2 5 a
+: 2795 4 8 ny
+: 2801 7 10 where 
+: 2810 5 13 you 
+: 2816 4 10 go
+: 2821 2 8 ~
+: 2824 5 5 ~ 
+- 2831
+: 2844 4 5 My 
+: 2849 4 8 whole 
+: 2855 5 10 crew 
+: 2861 2 5 gon
+: 2864 3 3 na 
+: 2868 7 1 know 
+- 2876
+: 2876 4 5 Oh 
+: 2881 7 3 ba
+: 2889 11 1 by, 
+: 2903 5 5 hey 
+: 2910 5 3 ba
+: 2916 7 1 by 
+- 2924
+: 2924 4 1 You 
+: 2929 5 3 can’t 
+: 2935 9 5 hide 
+: 2945 3 3 from 
+: 2949 2 1 the 
+: 2952 5 3 blo
+: 2958 4 1 ~ck 
+: 2963 9 3 oh 
+: 2973 10 3 no 
+- 2985
+F 2996 2 3 Rea
+F 2999 1 1 dy 
+F 3001 3 3 or 
+F 3006 3 1 not 
+F 3013 3 1 Re
+F 3018 2 1 fu
+F 3021 5 3 gees 
+F 3027 2 1 ta
+F 3031 2 1 kin’ 
+F 3034 4 3 o
+F 3039 2 1 ver 
+- 3042
+F 3043 1 1 The 
+F 3045 4 1 buf
+F 3050 2 3 fa
+F 3053 5 1 lo 
+F 3060 5 1 sol
+F 3066 8 3 dier 
+- 3075
+F 3075 4 3 Dread
+F 3080 3 3 lock 
+F 3084 5 1 ras
+F 3090 8 3 ta 
+- 3099
+F 3100 3 3 On 
+F 3104 2 3 the 
+F 3107 5 3 twelfth 
+F 3113 4 1 hou
+F 3118 3 3 ~r 
+- 3122
+F 3122 4 3 Fly 
+F 3127 4 3 by 
+F 3132 2 3 in 
+F 3136 3 3 my 
+F 3140 5 1 bom
+F 3146 6 3 ber 
+- 3153
+F 3153 6 3 Crews 
+F 3160 2 3 run 
+F 3163 2 3 for 
+F 3166 2 3 co
+F 3169 2 3 ver 
+- 3172
+F 3172 2 3 Now 
+F 3175 2 3 they’re 
+F 3178 2 3 un
+F 3181 3 3 der 
+F 3185 2 3 pu
+F 3189 2 3 shin’ 
+F 3192 2 3 up 
+F 3198 4 5 flow
+F 3203 6 3 ers 
+- 3210
+F 3211 3 10 Su
+F 3215 3 10 per 
+F 3219 9 12 fly 
+F 3229 3 10 true 
+F 3233 5 10 lies 
+F 3239 2 10 do 
+F 3242 2 10 or 
+F 3245 7 12 die 
+- 3253
+F 3253 3 10 Toss 
+F 3257 1 10 me 
+F 3259 3 12 high 
+F 3263 2 10 on
+F 3266 2 10 ly 
+F 3269 4 10 puff 
+F 3274 4 12 la 
+- 3279
+F 3279 2 10 With 
+F 3282 2 10 my 
+F 3285 5 5 crew 
+F 3291 3 10 from 
+F 3295 5 10 lock 
+F 3301 11 12 high 
+- 3313
+F 3313 5 10 I 
+F 3319 4 10 re
+F 3324 2 5 fu
+F 3327 4 10 gee 
+F 3332 3 5 from 
+F 3336 2 10 Guan
+F 3339 4 10 ta
+F 3344 2 10 na
+F 3347 4 10 mo 
+F 3352 12 12 Bay 
+- 3365
+F 3365 3 10 Dance 
+F 3369 2 10 a
+F 3372 3 10 round 
+F 3376 2 10 the 
+F 3379 3 5 bor
+F 3383 2 10 der 
+F 3386 3 10 like 
+F 3390 3 10 I’m 
+F 3395 7 10 Cas
+F 3403 5 10 sius 
+F 3409 8 5 Clay 
+- 3418
+: 3419 3 3 Rea
+: 3423 2 5 dy 
+: 3426 2 1 or 
+: 3429 16 -2 not 
+: 3447 2 5 here 
+: 3450 5 1 I 
+: 3456 13 -2 come 
+- 3471
+: 3474 3 5 You 
+: 3478 6 1 can’t 
+: 3485 17 -2 hide 
+- 3504
+: 3520 2 1 Gon
+: 3523 3 3 na 
+: 3527 16 5 fi
+: 3544 4 3 ~
+: 3549 4 1 ~nd 
+- 3554
+: 3554 14 3 You 
+: 3571 7 8 and 
+: 3579 13 5 take 
+: 3593 10 3 it 
+: 3604 13 1 slow
+: 3618 13 3 ly 
+- 3633
+: 4053 3 3 Rea
+: 4057 2 5 dy 
+: 4060 2 1 or 
+: 4063 16 -2 not, 
+: 4081 2 5 here 
+: 4084 5 1 I 
+: 4090 13 -2 come 
+- 4105
+: 4106 4 5 You 
+: 4111 6 1 can’t 
+: 4118 17 -2 hide 
+- 4137
+: 4154 2 1 Gon
+: 4157 3 3 na 
+: 4161 16 5 fi
+: 4178 4 3 ~
+: 4183 4 1 ~nd 
+- 4188
+: 4188 14 3 You 
+: 4205 7 8 and 
+: 4213 13 5 make 
+: 4227 10 3 you 
+: 4238 13 1 want 
+: 4252 13 3 me 
+- 4266
+: 4267 3 3 Rea
+: 4271 2 5 dy 
+: 4274 2 1 or 
+: 4277 16 -2 not 
+: 4295 2 5 here 
+: 4298 5 1 I 
+: 4304 13 -2 come 
+- 4318
+: 4319 4 5 You 
+: 4324 6 1 can’t 
+: 4331 17 -2 hide 
+- 4350
+: 4368 2 1 Gon
+: 4371 3 3 na 
+: 4375 16 5 fi
+: 4392 4 3 ~
+: 4397 4 1 ~nd 
+: 4402 14 3 you 
+- 4418
+: 4419 7 8 And 
+: 4427 13 5 take 
+: 4441 10 3 it 
+: 4452 13 1 slow
+: 4466 13 3 ly 
+- 4480
+: 4481 3 3 Rea
+: 4485 2 5 dy 
+: 4488 2 1 or 
+: 4491 16 -2 not 
+: 4509 2 5 here 
+: 4512 5 1 I 
+: 4518 13 -2 come 
+- 4533
+: 4534 4 5 You 
+: 4539 6 1 can’t 
+: 4546 17 -2 hide 
+- 4565
+: 4579 3 1 Gon
+: 4583 2 3 na 
+: 4586 17 5 fi
+: 4604 2 3 ~
+: 4607 4 1 ~nd 
+: 4614 14 3 you 
+- 4630
+: 4633 7 8 And 
+: 4641 12 5 make 
+: 4654 11 3 you 
+: 4667 8 1 want 
+: 4678 13 3 me 
+E

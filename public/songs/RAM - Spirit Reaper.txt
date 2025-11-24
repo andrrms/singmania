@@ -1,0 +1,510 @@
+#ARTIST:RAM
+#TITLE:Spirit Reaper
+#MP3:RAM - Spirit Reaper.mp3
+#CREATOR:Ich,werdennsonst?
+#COVER:RAM - Spirit Reaper [CO].jpg
+#BACKGROUND:RAM - Spirit Reaper [BG].jpg
+#GENRE:Heavy Metal
+#YEAR:2019
+#LANGUAGE:English
+#BPM:270.76
+#GAP:62130
+#VIDEO:v=IfVAfTEVxao,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bf/a4/22/bfa42288-274a-d86f-6452-82e6e1ca423d/RAM_-_The_Throne_Within.jpg/5000x5000bb.jpg
+#END:367000
+: 0 2 -1 In 
+: 3 3 -1 the 
+: 7 5 -1 night
+: 13 10 -1 side 
+: 24 5 0 of 
+: 30 3 2 the 
+: 34 9 0 realm 
+: 44 4 -1 of 
+: 49 11 -1 dreams 
+- 62
+: 64 2 -1 In 
+: 67 2 -1 a 
+: 70 9 -1 glance 
+: 80 2 -1 in 
+: 83 3 -1 the 
+: 87 6 0 hid
+: 94 5 2 den 
+: 100 4 0 mir
+: 105 14 -1 rors 
+- 121
+: 126 5 -1 Stares 
+: 132 2 -1 the 
+: 135 7 -1 eye 
+: 143 7 -1 that 
+: 151 6 0 ne
+: 158 4 2 ver 
+: 163 6 0 rests 
+- 171
+: 172 3 0 And 
+: 176 2 0 it 
+: 179 8 2 sees 
+: 188 6 0 eve 
+: 195 7 2 move 
+: 203 4 0 that 
+: 208 3 0 you 
+: 212 8 2 make. 
+- 222
+: 252 2 -1 You 
+: 255 4 -1 don’t 
+: 260 2 -1 be
+: 263 8 0 lieve 
+: 272 2 -1 in 
+: 275 2 -1 the 
+: 278 7 0 su
+: 286 4 2 per
+: 291 4 0 na
+: 296 2 -1 tu
+: 299 7 -1 ral 
+: 307 5 -1 world 
+- 314
+: 316 3 -1 You 
+: 320 3 -1 on
+: 324 3 -1 ly 
+: 328 7 -1 fear 
+: 336 3 -1 what 
+: 340 2 -1 you 
+: 343 9 0 see 
+: 353 2 2 be
+: 356 7 0 fore 
+: 364 12 -1 you 
+- 378
+: 386 3 -1 But 
+: 390 2 -1 a 
+: 393 8 0 gate 
+: 402 3 2 has 
+: 406 5 0 o
+: 412 9 -1 pened 
+- 423
+: 428 5 0 Far 
+: 434 3 0 be
+: 438 7 2 yond 
+: 446 3 0 the 
+: 450 4 0 frail 
+: 455 7 2 ends 
+: 463 2 -1 of 
+: 466 4 -1 your 
+: 471 10 2 mind 
+- 483
+: 532 3 -1 Oh 
+: 536 7 4 Dark
+: 544 8 0 ness 
+- 554
+: 597 4 -1 Our 
+: 602 6 4 mis
+: 609 11 0 tress 
+- 622
+: 666 3 -1 Take 
+: 670 2 4 the 
+: 673 11 0 soul 
+- 686
+: 724 2 -1 Of 
+: 727 2 -1 the 
+: 730 7 0 one 
+: 738 7 0 we 
+: 746 7 0 curse 
+: 754 8 0 to
+: 763 21 2 night 
+- 786
+F 880 5 0 Spi
+F 886 6 0 rit 
+F 893 3 0 Rea
+F 897 3 0 per 
+- 901
+: 902 6 5 The 
+: 909 8 5 webs 
+: 918 3 5 of 
+: 922 7 9 wo
+: 930 6 5 ven 
+: 937 15 5 fate 
+: 967 5 4 en
+: 973 9 5 snare 
+: 983 4 4 you 
+: 988 16 -3 now 
+- 1006
+F 1008 6 0 Spi
+F 1015 7 0 rit 
+F 1023 3 0 Rea
+F 1027 3 0 per 
+- 1031
+: 1031 5 5 In
+: 1037 10 5 voked 
+: 1048 3 5 in 
+: 1052 6 9 dar
+: 1059 9 5 kest 
+: 1069 10 5 hate, 
+: 1097 8 4 it’s 
+: 1106 6 5 on 
+: 1113 3 4 the 
+: 1117 15 -3 prowl 
+- 1134
+F 1137 6 0 Spi
+F 1144 7 0 rit 
+F 1152 4 0 Rea
+F 1157 4 0 per 
+- 1163
+: 1164 5 9 The 
+: 1170 6 9 end 
+: 1178 3 9 is 
+: 1182 9 14 near, 
+: 1192 6 10 you 
+: 1199 9 10 scream 
+: 1209 3 10 in 
+: 1213 12 12 fear 
+: 1226 6 10 but 
+: 1233 9 9 no 
+: 1243 3 10 one 
+: 1247 17 9 hears 
+- 1265
+F 1265 6 0 Spi
+F 1272 7 0 rit 
+F 1280 4 0 Rea
+F 1285 4 0 per 
+- 1290
+: 1290 8 5 Hex 
+: 1299 7 5 of 
+: 1307 3 5 e
+: 1311 6 9 ter
+: 1318 7 5 nal 
+: 1326 22 5 night, 
+: 1354 7 4 your 
+: 1362 8 5 soul 
+: 1371 4 4 it 
+: 1376 20 2 takes 
+- 1398
+: 1418 5 -1 In 
+: 1424 2 -1 the 
+: 1427 8 -1 mists 
+: 1436 6 -1 that 
+: 1443 7 0 cloud 
+: 1451 4 2 your 
+: 1456 6 0 na
+: 1463 9 2 ive 
+: 1473 9 -1 mind 
+- 1483
+: 1483 4 -1 Your 
+: 1488 3 -1 sub
+: 1492 5 -1 cons
+: 1498 7 -1 cious 
+: 1508 7 0 house 
+: 1516 4 2 of 
+: 1521 4 0 ho
+: 1526 14 -1 rrors 
+- 1542
+: 1546 7 -1 Seeds 
+: 1554 3 -1 are 
+: 1558 6 -1 plan
+: 1565 7 -1 ted 
+: 1573 6 0 in 
+: 1580 5 2 the 
+: 1586 5 0 fer
+: 1592 8 -3 tile 
+: 1601 7 -1 soil 
+: 1609 4 -3 of 
+: 1614 3 -5 your 
+: 1618 6 -3 ig
+: 1625 2 -5 no
+: 1628 5 -5 rant 
+: 1634 12 -5 bliss 
+- 1648
+: 1678 3 -1 Pa
+: 1682 3 -1 ra
+: 1686 6 -1 noi
+: 1693 7 -1 a 
+: 1701 9 0 snaps 
+: 1711 4 2 to 
+: 1716 6 0 claws 
+: 1723 5 -3 in
+: 1729 12 -1 side 
+- 1743
+: 1744 3 -1 All 
+: 1748 3 -1 your 
+: 1752 9 -1 dreams 
+: 1766 7 0 turn 
+: 1774 4 2 to 
+: 1779 7 0 night
+: 1787 13 -3 mares 
+- 1802
+: 1808 3 -1 Eve
+: 1812 3 -1 ry 
+: 1816 7 -1 time 
+: 1824 6 -1 you 
+: 1831 7 0 close 
+: 1839 4 2 your 
+: 1844 15 0 tired 
+: 1860 6 -3 eyes 
+- 1867
+: 1868 3 -1 The 
+: 1872 3 0 dark
+: 1876 8 -1 ness 
+: 1885 3 0 comes 
+: 1889 4 -1 a
+: 1894 14 0 live 
+- 1910
+: 1952 4 -1 Oh 
+: 1957 6 4 Dark
+: 1964 10 0 ness 
+- 1976
+: 2016 4 -1 Our 
+: 2021 5 4 mis
+: 2027 9 0 tress 
+- 2038
+: 2082 5 -1 Take 
+: 2088 3 4 the 
+: 2092 12 0 soul 
+- 2106
+: 2140 3 -1 Of 
+: 2144 3 -1 the 
+: 2148 7 0 one 
+: 2156 7 0 we 
+: 2164 7 0 curse 
+: 2172 6 0 to
+: 2179 21 2 night 
+- 2202
+F 2296 5 0 Spi
+F 2302 7 0 rit 
+F 2310 2 0 Rea
+F 2313 3 0 per 
+- 2317
+: 2318 9 5 The 
+: 2328 7 5 webs 
+: 2336 3 5 of 
+: 2340 6 9 wo
+: 2347 8 5 ven 
+: 2356 12 5 fate 
+: 2380 8 4 en
+: 2389 10 5 snare 
+: 2400 4 4 you 
+: 2405 15 -3 now 
+- 2422
+F 2424 6 0 Spi
+F 2431 6 0 rit 
+F 2440 3 0 Rea
+F 2444 3 0 per 
+- 2448
+: 2448 6 5 In
+: 2455 8 5 voked 
+: 2464 3 5 in 
+: 2468 7 9 dar
+: 2476 7 5 kest 
+: 2484 12 5 hate, 
+: 2512 8 4 it’s 
+: 2521 6 5 on 
+: 2528 4 4 the 
+: 2533 19 -3 prowl 
+- 2554
+F 2556 4 0 Spi
+F 2561 7 0 rit 
+F 2569 1 0 Rea
+F 2571 3 0 per 
+- 2575
+: 2576 9 9 The 
+: 2586 7 9 end 
+: 2594 2 9 is 
+: 2597 11 14 near, 
+: 2609 6 10 you 
+: 2616 9 10 scream 
+: 2626 3 10 in 
+: 2630 12 12 fear 
+: 2643 7 10 but 
+: 2651 6 9 no 
+: 2658 4 10 one 
+: 2663 18 9 hears 
+- 2682
+F 2683 6 0 Spi
+F 2690 6 0 rit 
+F 2697 3 0 Rea
+F 2701 5 0 per 
+- 2707
+: 2708 6 5 Hex 
+: 2715 5 5 of 
+: 2721 3 5 e
+: 2725 8 9 ter
+: 2734 7 5 nal 
+: 2742 22 5 night, 
+: 2768 7 4 your 
+: 2776 11 5 soul 
+: 2788 3 4 it 
+: 2792 19 2 takes 
+- 2813
+: 2837 3 5 Your 
+: 2841 6 5 soul 
+: 2848 3 5 is 
+: 2852 4 5 now 
+: 2857 5 7 ripe 
+: 2863 4 5 and 
+: 2868 3 5 pre
+: 2872 7 7 pared 
+: 2880 3 5 for 
+: 2884 3 4 the 
+: 2888 6 0 ta
+: 2895 20 3 king 
+- 2917
+: 2968 3 5 A 
+: 2972 4 5 cruel, 
+: 2977 3 5 haun
+: 2981 4 5 ting 
+: 2986 6 7 voice 
+: 2993 5 5 from 
+: 2999 2 5 be
+: 3002 6 7 yond 
+: 3009 5 5 calls 
+: 3015 3 4 your 
+: 3019 9 -3 name 
+- 3030
+: 3041 3 5 The 
+: 3045 1 5 hun
+: 3047 2 5 ter 
+: 3050 3 5 has 
+: 3054 11 7 found 
+: 3066 14 5 it’s 
+: 3082 46 4 prey 
+- 3130
+F 3767 4 9 Oh 
+F 3772 6 7 Dark
+F 3779 13 4 ness 
+- 3794
+F 3830 5 9 Our 
+F 3836 5 7 mis
+F 3842 14 4 tress 
+- 3858
+F 3904 3 9 Take 
+F 3908 3 9 the 
+F 3912 10 7 soul 
+- 3924
+F 3974 3 2 Of 
+F 3978 2 2 the 
+F 3981 7 2 one 
+F 3989 6 2 we 
+F 3996 7 2 curse 
+F 4004 6 2 to
+F 4011 9 2 night 
+- 4022
+: 4050 8 5 The 
+: 4059 8 5 webs 
+: 4068 3 5 of 
+: 4072 6 9 wo
+: 4079 8 5 ven 
+: 4088 12 5 fate 
+: 4116 5 4 en
+: 4122 10 5 snare 
+: 4133 3 4 you 
+: 4137 15 -3 now 
+- 4154
+F 4157 6 0 Spi
+F 4164 6 0 rit 
+F 4171 3 0 Rea
+F 4175 4 0 per 
+- 4180
+: 4180 6 5 In
+: 4187 8 5 voked 
+: 4196 3 5 in 
+: 4200 7 9 dar
+: 4208 7 5 kest 
+: 4216 14 5 hate, 
+: 4244 7 4 it’s 
+: 4252 7 5 on 
+: 4260 3 4 the 
+: 4264 20 -3 prowl 
+- 4285
+F 4286 4 0 Spi
+F 4291 6 0 rit 
+F 4298 3 0 Rea
+F 4302 5 0 per 
+- 4308
+: 4308 6 9 The 
+: 4315 8 9 end 
+: 4324 3 9 is 
+: 4328 11 14 near, 
+: 4340 6 10 you 
+: 4347 9 10 scream 
+: 4357 4 10 in 
+: 4362 9 12 fear 
+: 4372 7 10 but 
+: 4380 7 9 no 
+: 4388 3 10 one 
+: 4392 16 9 hears 
+- 4410
+F 4413 5 0 Spi
+F 4419 6 0 rit 
+F 4426 4 0 Rea
+F 4431 4 0 per 
+- 4436
+: 4436 7 5 Hex 
+: 4444 6 5 of 
+: 4451 4 5 e
+: 4456 8 9 ter
+: 4465 6 5 nal 
+: 4472 24 5 night, 
+: 4500 7 4 your 
+: 4508 9 5 soul 
+: 4518 4 4 it 
+: 4523 17 2 takes 
+- 4542
+F 4544 4 0 Spi
+F 4549 5 0 rit 
+F 4555 3 0 Rea
+F 4559 5 0 per 
+- 4566
+: 4570 5 11 Spi
+: 4576 7 11 rit 
+: 4584 7 9 Rea
+: 4592 25 11 per
+: 4618 33 9 ~
+: 4652 6 7 ~ 
+- 4660
+F 4671 4 0 Spi
+F 4676 7 0 rit 
+F 4684 3 0 Rea
+F 4688 6 0 per 
+- 4695
+: 4696 4 7 In 
+: 4701 3 7 dar
+: 4705 7 7 kest 
+: 4713 13 9 hate, 
+: 4727 6 7 it’s 
+: 4734 5 6 on 
+: 4740 4 7 the 
+: 4745 25 6 prowl
+: 4771 4 7 ~
+: 4776 4 6 ~
+: 4781 15 4 ~ 
+- 4798
+F 4799 6 0 Spi
+F 4806 5 0 rit 
+F 4813 2 0 Rea
+F 4816 4 0 per 
+- 4822
+: 4830 3 2 The 
+: 4834 5 2 end 
+: 4840 3 2 is 
+: 4844 20 7 near, 
+: 4868 3 4 you 
+: 4872 27 7 scream 
+: 4900 7 6 in 
+: 4908 18 7 fear 
+- 4928
+F 4929 6 0 Spi
+F 4936 6 0 rit 
+F 4943 3 0 Rea
+F 4947 8 0 per 
+- 4956
+: 4957 5 2 Hex 
+: 4963 4 2 of 
+: 4968 3 2 e
+: 4972 6 7 ter
+: 4979 8 4 nal 
+: 4988 18 4 night, 
+: 5012 8 2 your 
+: 5021 10 2 soul 
+: 5032 4 2 it 
+: 5037 19 4 takes 
+- 5057
+F 5057 6 0 Spi
+F 5064 7 0 rit 
+F 5072 3 0 Rea
+F 5076 3 0 per 
+E

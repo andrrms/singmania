@@ -1,0 +1,262 @@
+#ARTIST:Neil Sedaka
+#TITLE:Laughter In The Rain
+#MP3:Neil Sedaka - Laughter In The Rain.mp3
+#CREATOR:Diddlmaus30mg
+#YEAR:1974
+#LANGUAGE:English
+#BPM:200
+#GAP:10000
+#VIDEO:a=H9Pm4vMJSjU,co=https://m.media-amazon.com/images/I/61atevv2PpL.jpg,bg=sedaka-neil-521d4f2adf37f.jpg
+: 0 3 -3 Stroll
+: 4 3 -3 ing 
+: 8 3 -3 a
+: 12 7 5 long 
+: 20 3 -3 coun
+: 24 3 -3 try 
+: 28 7 -3 roads 
+: 36 3 9 with 
+: 40 3 2 my 
+: 44 7 -2 ba
+: 52 11 9 by 
+- 64
+: 64 3 -5 It 
+: 68 3 -5 starts 
+: 72 3 0 to 
+: 76 7 -5 rain, 
+: 84 3 -2 it 
+: 88 3 0 be
+: 92 7 0 gins 
+: 100 3 -3 to 
+: 104 19 -3 pour 
+- 124
+: 124 3 5 With
+: 128 3 -3 out 
+: 132 3 -3 an 
+: 136 3 5 um
+: 140 7 0 brel
+: 148 3 0 la, 
+: 152 3 -3 we’re 
+: 156 7 -3 soaked 
+: 164 3 -2 to 
+: 168 3 7 the 
+: 172 19 7 skin 
+- 192
+: 192 3 5 I 
+: 196 3 7 feel 
+: 200 3 0 a 
+: 204 7 7 shiv
+: 212 3 0 er 
+: 216 3 7 run 
+: 220 7 7 up 
+: 228 3 0 my 
+: 232 27 0 spine 
+- 260
+: 260 3 -3 I 
+: 264 3 5 feel 
+: 268 3 -3 the 
+: 272 3 -3 warmth 
+: 276 3 2 of 
+: 280 3 -3 her 
+: 284 27 5 hand 
+: 312 3 2 in 
+: 316 35 -1 mine 
+- 352
+: 352 19 5 Ooh, 
+: 372 3 8 I 
+: 376 3 8 hear 
+: 380 7 8 laugh
+: 388 3 7 ter 
+: 392 3 0 in 
+: 396 3 0 the 
+: 400 11 8 rain, 
+- 412
+: 412 7 8 Walk
+: 420 3 8 ing 
+: 424 3 17 hand 
+: 428 3 13 in 
+: 432 3 17 hand 
+: 436 3 8 with 
+: 440 3 12 the 
+: 444 3 13 one 
+: 448 3 12 I 
+: 452 24 7 love 
+- 478
+: 480 19 8 Ooh, 
+: 500 3 13 how 
+: 504 3 5 I 
+: 508 7 5 love 
+: 516 3 7 the 
+: 520 1 7 rain
+: 522 1 12 y 
+: 524 4 8 days 
+- 530
+: 532 3 8 And 
+: 536 3 8 the 
+: 540 3 8 hap
+: 544 3 5 py 
+: 548 11 5 way 
+: 560 3 5 I 
+: 564 3 5 feel 
+: 568 3 5 in
+: 572 48 5 side--- 
+- 622
+: 636 3 -3 Af
+: 640 4 -3 ter 
+: 646 3 -3 a 
+: 650 5 9 while 
+: 656 3 -3 we 
+: 660 3 -3 run 
+: 664 7 -3 un
+: 672 3 9 der 
+: 676 3 2 a 
+: 680 16 -2 tree 
+- 698
+: 700 3 -5 I 
+: 704 3 -5 turn 
+: 708 3 -2 to 
+: 712 5 -5 her 
+: 718 5 0 and 
+: 724 3 0 she 
+: 728 3 0 kiss
+: 732 3 -3 es 
+: 736 20 -3 me 
+- 758
+: 760 3 -3 There 
+: 764 3 -3 with 
+: 768 3 0 the 
+: 772 7 9 beat 
+: 780 3 0 of 
+: 784 3 9 the 
+: 788 7 9 rain 
+: 796 3 -2 on 
+: 800 3 -2 the 
+: 804 20 -2 leaves, 
+- 825
+: 826 3 7 Soft
+: 830 3 7 ly 
+: 834 3 0 she 
+: 838 7 2 breathes 
+: 846 3 2 and 
+: 850 3 7 I 
+: 854 7 7 close 
+: 862 3 0 my 
+: 866 20 0 eyes 
+- 888
+: 892 3 9 Shar
+: 896 3 5 ing 
+: 900 3 -3 our 
+: 904 3 -3 love 
+: 908 3 5 un
+: 912 1 5 der 
+: 914 27 5 storm
+: 942 5 -1 y 
+: 948 34 -1 skies 
+- 983
+: 984 19 5 Ooh, 
+: 1004 3 8 I 
+: 1008 3 8 hear 
+: 1012 7 8 laugh
+: 1020 3 7 ter 
+: 1024 3 0 in 
+: 1028 3 0 the 
+: 1032 11 8 rain, 
+- 1044
+: 1044 5 8 Walk
+: 1050 3 8 ing 
+: 1054 3 17 hand 
+: 1058 3 13 in 
+: 1062 3 17 hand 
+: 1066 3 8 with 
+: 1070 3 12 the 
+: 1074 3 13 one 
+: 1078 3 12 I 
+: 1082 23 7 love 
+- 1106
+: 1106 19 8 Ooh, 
+: 1126 3 13 how 
+: 1130 3 5 I 
+: 1134 7 5 love 
+: 1142 3 7 the 
+: 1146 3 7 rain
+: 1150 3 7 y 
+: 1154 1 8 days 
+- 1156
+: 1156 3 12 And 
+: 1160 3 12 the 
+: 1164 3 12 hap
+: 1168 3 5 py 
+: 1172 13 5 way 
+: 1186 3 5 I 
+: 1190 3 5 feel 
+: 1194 1 5 in
+: 1196 329 5 side--- 
+- 1526
+: 1526 3 -3 I 
+: 1530 3 5 feel 
+: 1534 3 -3 the 
+: 1538 3 -3 warmth 
+: 1542 3 5 of 
+: 1546 1 5 her 
+: 1548 29 5 hand---- 
+: 1578 3 -1 in 
+: 1582 35 -1 mine 
+- 1618
+: 1618 19 5 Ooh, 
+: 1638 3 8 I 
+: 1642 3 8 hear 
+: 1646 7 8 laugh
+: 1654 3 7 ter 
+: 1658 3 0 in 
+: 1662 3 0 the 
+: 1666 11 8 rain, 
+- 1678
+: 1678 7 8 Walk
+: 1686 3 8 ing 
+: 1690 3 17 hand 
+: 1694 3 13 in 
+: 1698 3 17 hand 
+: 1702 3 8 with 
+: 1706 3 12 the 
+: 1710 3 13 one 
+: 1714 3 12 I 
+: 1718 27 7 love 
+- 1746
+: 1746 19 8 Ooh, 
+: 1766 3 13 how 
+: 1770 3 5 I 
+: 1774 7 5 love 
+: 1782 3 7 the 
+: 1786 3 7 rain
+: 1790 3 7 y 
+: 1794 3 8 days 
+- 1798
+: 1798 3 12 And 
+: 1802 3 12 the 
+: 1806 3 12 hap
+: 1810 3 5 py 
+: 1814 11 5 way 
+: 1826 3 5 I 
+: 1830 3 5 feel 
+: 1834 3 5 in
+: 1838 35 5 side 
+- 1874
+: 1874 19 5 Ooh, 
+: 1894 3 8 I 
+: 1898 3 8 hear 
+: 1902 7 8 laugh
+: 1910 3 7 ter 
+: 1914 3 0 in 
+: 1918 3 0 the 
+: 1922 11 8 rain 
+- 1934
+: 1934 7 8 Walk
+: 1942 3 8 ing 
+: 1946 3 17 hand 
+: 1950 3 13 in 
+: 1954 3 17 hand 
+: 1958 3 8 with 
+: 1962 3 12 the 
+: 1966 3 13 one 
+: 1970 3 12 I 
+: 1974 28 7 love 
+E

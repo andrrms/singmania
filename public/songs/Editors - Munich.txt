@@ -1,0 +1,251 @@
+#ARTIST:Editors
+#TITLE:Munich
+#MP3:Editors - Munich.mp3
+#CREATOR:GunnerXero
+#GENRE:Rock Alternative
+#YEAR:2005
+#LANGUAGE:English
+#BPM:298.05
+#GAP:25560
+#VIDEO:v=NXisq5jOrPk,co=https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/11/fa/77/11fa77dd-2367-14ee-736f-f8db1369260d/05037300720593.jpg/5000x5000bb.jpg,bg=editors-63db7912692de.jpg
+: 0 3 19 I’m 
+: 7 27 22 so 
+: 39 11 19 glad 
+: 54 7 15 I’ve 
+: 66 27 17 found 
+: 103 10 14 this 
+- 115
+: 128 3 19 I’m 
+: 135 25 22 so 
+: 166 12 19 glad 
+: 182 7 15 I 
+: 195 19 14 did 
+- 216
+: 256 3 10 I’m 
+* 263 23 14 so 
+: 294 14 10 glad 
+: 310 8 10 I’ve 
+* 326 28 10 found 
+: 358 8 10 this 
+- 368
+: 384 2 10 I’m 
+: 390 23 14 so 
+: 421 15 10 glad 
+: 438 12 10 I 
+: 454 10 10 did 
+- 466
+: 519 3 15 Peo
+: 526 2 17 ple 
+: 533 3 19 are 
+: 541 4 26 fra
+: 549 4 26 gile 
+: 557 4 24 things, 
+: 565 4 22 you 
+: 573 5 19 should 
+* 581 9 22 know 
+: 597 11 19 by 
+: 613 10 17 now 
+- 625
+: 638 3 15 Be
+: 645 4 15 care
+: 653 5 17 ful 
+: 662 3 19 what 
+: 669 2 26 you 
+: 677 2 26 put 
+: 685 3 24 them 
+: 693 9 22 through 
+- 704
+: 774 3 15 Peo
+: 781 3 17 ple 
+: 788 3 19 are 
+* 796 4 26 fra
+* 804 4 26 gile 
+* 812 4 24 things, 
+: 820 4 22 you 
+: 828 4 19 should 
+: 836 9 22 know 
+: 852 12 19 by 
+: 868 9 17 now 
+- 879
+: 901 3 15 You’ll 
+: 908 3 17 speak 
+: 916 4 19 when 
+* 924 3 26 you’re 
+: 932 3 26 spo
+: 940 3 24 ken 
+: 948 8 22 to 
+- 958
+: 1279 4 19 It 
+: 1287 24 22 breaks 
+: 1318 10 19 when 
+: 1333 2 15 you 
+: 1338 6 15 don’t 
+: 1351 26 17 force 
+: 1383 11 14 it 
+- 1396
+: 1407 2 19 It 
+: 1416 23 22 breaks 
+: 1447 6 19 when 
+: 1463 2 15 you 
+: 1467 5 15 don’t 
+: 1478 14 14 try 
+- 1494
+: 1536 4 10 It 
+: 1545 23 14 breaks 
+: 1576 6 10 if 
+: 1590 2 10 you 
+: 1595 5 10 don’t 
+: 1609 24 10 force 
+: 1640 9 10 it 
+- 1651
+: 1665 2 10 It 
+: 1674 21 14 breaks 
+: 1705 6 10 if 
+: 1720 2 10 you 
+: 1725 5 10 don’t 
+: 1736 14 10 try 
+- 1752
+: 1803 3 15 Peo
+: 1810 2 17 ple 
+: 1817 3 19 are 
+: 1825 4 26 fra
+: 1833 4 26 gile 
+: 1841 4 24 things, 
+: 1849 4 22 you 
+: 1857 5 19 should 
+* 1865 9 22 know 
+: 1881 11 19 by 
+: 1898 9 17 now 
+- 1909
+: 1922 3 15 Be 
+: 1930 4 15 care
+: 1938 5 17 ful 
+: 1946 2 19 what 
+: 1953 2 26 you 
+: 1961 2 26 put 
+: 1969 3 24 them 
+: 1978 9 22 through 
+- 1989
+: 2060 3 15 Peo
+: 2067 3 17 ple 
+: 2074 3 19 are 
+* 2081 4 26 fra
+* 2089 4 26 gile 
+: 2097 4 24 things, 
+: 2105 4 22 you 
+: 2113 4 19 should 
+: 2121 9 22 know 
+: 2138 11 22 by 
+: 2153 9 22 now 
+- 2164
+: 2186 3 15 You’ll 
+: 2194 2 17 speak 
+: 2201 4 19 when 
+* 2210 2 26 you’re 
+: 2218 2 26 spo
+: 2226 3 24 ken 
+: 2234 7 22 to 
+- 2243
+: 2308 3 19 With 
+* 2315 23 22 one 
+: 2343 11 19 hand 
+: 2359 4 15 you 
+: 2374 24 17 calm 
+: 2405 11 14 me 
+- 2418
+: 2429 3 19 With 
+* 2437 23 22 one 
+: 2466 11 19 hand 
+: 2481 7 15 I’m 
+: 2495 17 14 still 
+- 2514
+: 2550 3 10 With 
+* 2557 23 14 one 
+: 2587 9 10 hand 
+: 2603 6 10 you 
+* 2617 23 10 calm 
+: 2648 10 10 me 
+- 2660
+: 2673 3 10 With 
+* 2680 24 14 one 
+: 2710 11 10 hand 
+: 2725 7 10 I’m 
+: 2740 13 10 still 
+- 2755
+: 2802 3 15 Peo
+: 2809 2 17 ple 
+: 2816 3 19 are 
+: 2824 4 26 fra
+: 2832 4 26 gile 
+: 2840 4 24 things, 
+: 2848 3 22 you 
+: 2856 4 19 should 
+* 2864 9 22 know 
+: 2879 9 19 by 
+: 2895 9 17 now 
+- 2906
+: 2919 3 15 Be 
+: 2926 4 15 care
+: 2934 5 17 ful 
+: 2942 3 19 what 
+: 2950 2 26 you 
+: 2957 2 26 put 
+: 2965 3 24 them 
+: 2973 9 22 through 
+- 2984
+: 3054 3 15 Peo
+: 3062 3 17 ple 
+: 3069 3 19 are 
+* 3077 4 26 fra
+* 3085 4 26 gile 
+: 3093 4 24 things, 
+: 3101 4 22 you 
+: 3109 3 19 should 
+: 3117 9 22 know 
+: 3133 9 22 by 
+: 3149 9 22 now 
+- 3160
+: 3181 3 15 You’ll 
+: 3188 3 17 speak 
+: 3196 4 19 when 
+* 3204 3 26 you’re 
+: 3212 3 26 spo
+: 3220 3 24 ken 
+: 3228 8 22 to 
+- 3238
+: 3272 5 19 A
+: 3278 5 21 hhh
+: 3284 88 22 hhhhhhhhhhhh 
+- 3374
+: 3556 3 22 You’ll 
+: 3563 2 22 speak 
+: 3569 2 19 when 
+: 3574 2 17 you’re 
+: 3580 2 19 spo
+: 3585 2 22 ken 
+: 3592 7 22 to 
+- 3601
+: 3620 3 22 You’ll 
+: 3627 2 22 speak 
+: 3633 2 19 when 
+: 3638 2 17 you’re 
+: 3644 2 19 spo
+: 3649 2 22 ken 
+: 3656 7 22 to 
+- 3665
+: 3684 3 22 He’ll 
+: 3691 2 22 speak 
+: 3697 2 19 when 
+: 3702 2 17 he’s 
+: 3708 2 19 spo
+: 3713 2 22 ken 
+: 3719 7 22 to 
+- 3728
+: 3747 3 22 She’ll 
+: 3754 2 22 speak 
+: 3760 2 19 when 
+: 3765 2 17 she’s 
+: 3771 2 19 spo
+: 3776 2 22 ken 
+: 3782 7 22 to 
+E

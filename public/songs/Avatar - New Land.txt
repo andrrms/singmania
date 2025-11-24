@@ -1,0 +1,294 @@
+#ARTIST:Avatar
+#TITLE:New Land
+#MP3:Avatar - New Land.mp3
+#CREATOR:Yodamies
+#COVER:Avatar - New Land [CO].jpg
+#BACKGROUND:Avatar - New Land [BG].jpg
+#GENRE:Metal
+#YEAR:2016
+#LANGUAGE:English
+#BPM:276
+#GAP:39290
+#VIDEO:v=rNYEy2qabKU,co=feathers--flesh-57524f8413f89.jpg
+: 0 2 7 A 
+: 4 4 7 new 
+: 10 10 7 world 
+: 32 2 4 a
+: 36 12 7 waits 
+- 50
+: 62 4 5 I’m 
+: 68 4 6 fly
+: 74 2 6 ing 
+: 78 10 6 without 
+: 90 4 4 an 
+: 96 8 7 escape 
+: 106 12 6 plan 
+- 120
+: 132 4 7 Break
+: 138 18 7 through 
+: 158 2 9 the 
+: 162 14 7 gate 
+- 178
+: 190 4 7 Take 
+: 196 4 6 off, 
+: 202 4 6 take 
+: 208 2 7 me 
+: 212 10 6 on 
+- 224
+F 228 4 0 Break
+F 234 4 0 through 
+F 240 2 0 the 
+F 244 6 0 sky, 
+F 252 2 0 I 
+F 256 2 0 will 
+F 260 6 0 save 
+F 268 30 0 you! 
+- 300
+: 512 2 7 I 
+: 516 4 7 woke 
+: 522 6 7 up 
+: 544 2 5 too 
+: 548 12 7 late 
+- 562
+: 580 10 6 Dangers 
+: 592 10 6 ahead 
+: 604 2 4 and 
+: 608 2 6 be
+: 612 6 7 hind 
+: 620 12 6 us 
+- 634
+: 640 2 6 Be
+: 644 4 7 come 
+: 650 6 7 and 
+: 670 4 9 cre
+: 676 12 7 ate 
+- 690
+F 708 4 0 Here 
+F 714 4 0 comes 
+F 720 2 0 the 
+F 724 14 0 dawn, 
+F 740 10 0 crossing 
+F 752 2 0 the 
+F 756 6 0 can
+F 764 4 0 yon! 
+- 770
+: 772 6 -1 Fly 
+: 780 6 6 bey
+: 788 6 6 ond 
+: 796 6 -2 the 
+: 804 6 -3 o
+: 812 22 4 ceans 
+: 836 6 4 trying 
+: 844 6 11 to 
+: 852 6 11 find 
+: 860 6 13 a 
+: 868 28 9 place 
+- 898
+: 900 6 -1 Home 
+: 908 4 6 is 
+: 914 6 6 some
+: 922 6 -2 where 
+: 930 6 -4 out 
+: 938 16 4 there 
+- 956
+: 962 6 4 Some
+: 970 6 11 where 
+: 978 6 11 you’ll 
+: 986 6 13 be 
+: 994 28 9 safe 
+- 1024
+: 1026 10 11 Sleep, 
+: 1038 2 14 my 
+: 1042 8 14 child, 
+: 1052 6 13 and 
+: 1060 10 14 dream 
+: 1072 2 16 of 
+: 1076 6 18 the 
+: 1084 6 21 new 
+* 1092 62 23 land! 
+- 1156
+: 1342 4 19 You 
+: 1348 6 19 won’t 
+: 1356 8 19 be 
+: 1374 4 16 a
+: 1380 12 19 lone 
+- 1394
+: 1406 14 18 Remember 
+: 1424 2 18 you’ve 
+: 1428 4 18 all 
+: 1434 4 16 got 
+: 1440 2 18 each 
+: 1444 4 19 o
+: 1450 16 18 ther 
+- 1468
+: 1474 6 19 Crack 
+: 1482 16 19 through 
+: 1502 2 21 the 
+: 1506 12 20 stone 
+- 1520
+F 1534 2 0 There’s 
+F 1538 12 0 silver 
+F 1552 14 0 inside 
+F 1568 2 0 we’ll 
+F 1572 4 0 all 
+F 1578 4 0 be 
+F 1584 12 0 alright! 
+- 1598
+: 1604 6 -1 Fly 
+: 1612 6 6 bey
+: 1620 6 6 ond 
+: 1628 6 -2 the 
+: 1636 6 -3 o
+: 1644 22 4 ceans 
+: 1668 6 4 trying 
+: 1676 6 11 to 
+: 1684 6 11 find 
+: 1692 6 13 a 
+: 1700 28 9 place 
+- 1730
+: 1732 6 -1 Home 
+: 1740 4 6 is 
+: 1746 6 6 some
+: 1754 6 -2 where 
+: 1762 6 -4 out 
+: 1770 16 4 there 
+- 1788
+: 1794 6 4 Some
+: 1802 6 11 where 
+: 1810 6 11 you’ll 
+: 1818 6 13 be 
+: 1826 28 9 safe 
+- 1856
+: 1858 10 11 Sleep, 
+: 1870 2 14 my 
+: 1874 8 14 child, 
+: 1884 6 13 and 
+: 1892 10 14 dream 
+: 1904 2 16 of 
+: 1908 6 18 the 
+: 1916 6 21 new 
+* 1924 62 23 land! 
+- 1988
+: 2308 14 11 New
+: 2324 14 6 born 
+: 2340 14 13 pro
+: 2356 12 6 mise 
+- 2370
+: 2372 6 14 Soon 
+: 2380 6 14 will 
+: 2388 6 11 be 
+: 2396 6 14 de
+: 2404 14 16 par
+: 2420 6 13 ted 
+- 2428
+: 2434 14 19 Sleep 
+: 2450 6 18 un
+: 2458 6 16 til 
+: 2466 6 19 we 
+: 2474 6 18 reach 
+: 2482 6 14 the 
+: 2490 6 13 new 
+: 2498 36 11 land 
+- 2536
+: 2564 14 11 New
+: 2580 14 6 born 
+: 2596 14 13 pro
+: 2612 12 6 mise 
+- 2626
+: 2628 6 14 Soon 
+: 2636 6 14 will 
+: 2644 6 11 be 
+: 2652 6 14 de
+: 2660 14 16 par
+: 2676 6 13 ted 
+- 2684
+: 2690 14 19 Sleep 
+: 2706 6 18 un
+: 2714 6 16 til 
+: 2722 6 19 we 
+: 2730 6 18 reach 
+: 2738 6 14 the 
+: 2746 6 13 new 
+: 2754 36 11 land 
+- 2792
+: 2818 14 11 New
+: 2834 14 6 born 
+: 2850 14 13 pro
+: 2866 12 6 mise 
+- 2880
+: 2884 6 14 Soon 
+: 2892 6 14 will 
+: 2900 6 11 be 
+: 2908 6 14 de
+: 2916 14 16 par
+: 2932 6 13 ted 
+- 2940
+: 2948 14 19 Sleep 
+: 2964 6 18 un
+: 2972 6 16 til 
+: 2980 6 19 we 
+: 2988 6 18 reach 
+: 2996 6 14 the 
+: 3004 6 13 new 
+: 3012 36 11 land 
+- 3050
+: 3300 6 -1 Fly 
+: 3308 6 6 bey
+: 3316 6 6 ond 
+: 3324 6 -2 the 
+: 3332 6 -3 o
+: 3340 22 4 ceans 
+: 3364 6 4 trying 
+: 3372 6 11 to 
+: 3380 6 11 find 
+: 3388 6 13 a 
+: 3396 28 9 place 
+- 3426
+: 3428 6 -1 Home 
+: 3436 4 6 is 
+: 3442 6 6 some
+: 3450 6 -2 where 
+: 3458 6 -4 out 
+: 3466 16 4 there 
+- 3484
+: 3490 6 4 Some
+: 3498 6 11 where 
+: 3506 6 11 you’ll 
+: 3514 6 13 be 
+: 3522 28 9 safe 
+- 3552
+: 3556 6 -1 Fly 
+: 3564 6 6 bey
+: 3572 6 6 ond 
+: 3580 6 -2 the 
+: 3588 6 -3 o
+: 3596 22 4 ceans 
+: 3620 6 4 trying 
+: 3628 6 11 to 
+: 3636 6 11 find 
+: 3644 6 13 a 
+: 3652 28 9 place 
+- 3682
+: 3684 6 -1 Home 
+: 3692 4 6 is 
+: 3698 6 6 some
+: 3706 6 -2 where 
+: 3714 6 -4 out 
+: 3722 16 4 there 
+- 3740
+: 3746 6 4 Some
+: 3754 6 11 where 
+: 3762 6 11 you’ll 
+: 3770 6 13 be 
+: 3778 28 9 safe 
+- 3808
+: 3810 10 11 Sleep, 
+: 3822 2 14 my 
+: 3826 8 14 child, 
+: 3836 6 13 and 
+: 3844 10 14 dream 
+: 3856 2 16 of 
+: 3860 6 18 the 
+: 3868 6 21 new 
+* 3876 64 23 land! 
+E

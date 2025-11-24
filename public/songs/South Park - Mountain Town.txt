@@ -1,0 +1,845 @@
+#ARTIST:South Park
+#TITLE:Mountain Town
+#MP3:South Park - Mountain Town.mp3
+#CREATOR:leaby
+#YEAR:1999
+#LANGUAGE:English
+#BPM:200
+#GAP:34100
+#VIDEO:v=zsAOunxcfi8,co=https://m.media-amazon.com/images/I/81SJVwN94BL.jpg
+: 0 11 5 There’s 
+: 12 3 7 a 
+: 17 11 5 bunch 
+: 29 5 2 of 
+: 36 5 0 birds 
+: 42 5 4 in 
+: 48 4 7 the 
+: 53 25 5 sky 
+- 78
+: 80 8 2 And 
+: 89 3 4 some 
+: 93 11 5 deers 
+: 106 5 2 just 
+: 112 5 0 went 
+: 118 6 -2 run
+: 125 5 -3 ning 
+* 131 19 -2 by 
+- 156
+: 158 9 -2 Oh, 
+: 168 1 0 the 
+: 170 7 2 snow’s 
+: 178 5 -7 pure 
+: 184 4 2 and 
+: 189 7 4 white 
+- 196
+: 197 5 2 On 
+: 203 6 4 the 
+: 210 7 5 earth 
+: 218 6 -2 rich 
+: 225 6 5 and 
+* 232 24 10 brown 
+- 256
+: 258 9 9 Just 
+: 268 9 7 a
+: 278 5 5 no
+: 284 3 5 ther 
+: 288 3 7 Sun
+: 292 2 7 day 
+: 295 3 5 mor
+: 299 3 5 ning 
+- 302
+: 303 2 -2 In 
+: 307 3 -2 my 
+: 312 7 4 qui
+: 320 5 4 et 
+: 332 9 0 moun
+: 343 12 -3 tain 
+: 356 16 -2 town 
+- 385
+: 416 1 -4 The 
+: 418 2 0 sun 
+: 421 2 0 is 
+* 424 2 0 shi
+* 427 1 0 ning 
+: 429 1 4 and 
+: 431 1 4 the 
+: 433 3 4 grass 
+: 437 2 2 is 
+: 440 6 2 green 
+- 446
+: 448 1 0 Un
+: 450 2 0 der 
+: 453 2 0 the 
+: 456 2 0 three 
+: 459 1 -5 feet 
+: 461 1 -3 of 
+: 463 2 -3 snow, 
+: 466 3 -5 I 
+: 471 4 -5 mean 
+- 476
+: 478 2 0 This 
+: 481 2 0 is 
+: 484 1 0 the 
+: 486 3 0 day 
+: 490 1 4 when 
+: 492 1 4 it’s 
+: 494 3 4 hard 
+: 498 2 2 to 
+: 501 3 4 wear 
+: 506 2 5 a 
+* 509 15 7 frown 
+- 525
+* 527 2 9 All 
+: 530 1 -4 the 
+: 532 1 -3 hap
+: 534 1 -2 py 
+: 536 1 1 peo
+: 538 1 2 ple 
+: 540 2 4 stop 
+: 543 2 2 to 
+: 546 2 4 say 
+: 550 3 5 “hell
+: 554 3 7 o” 
+- 557
+F 558 1 12 Get 
+F 560 1 12 out 
+F 562 1 12 of 
+F 564 1 12 my 
+F 566 1 12 way! 
+- 567
+: 568 1 -5 E
+: 570 1 -5 ven 
+: 572 1 4 though 
+: 574 1 5 the 
+: 576 2 4 temper
+: 579 1 0 at
+: 581 3 2 ure’s 
+: 585 4 0 low 
+- 595
+: 597 1 0 It’s 
+: 599 1 0 a 
+: 601 1 5 per
+: 603 2 4 fect 
+: 606 4 5 Sun
+: 611 2 4 day 
+: 614 2 5 mor
+: 617 1 5 ning 
+- 618
+: 619 1 4 In 
+: 621 1 4 my 
+: 623 2 5 qui
+: 626 3 4 et 
+: 630 3 5 lit
+: 634 2 4 tle 
+: 638 2 5 mount
+: 641 4 4 ain 
+: 646 11 0 town 
+- 657
+F 658 3 12 Well, 
+F 662 2 12 good 
+F 665 2 12 mor
+F 668 2 12 ning, 
+F 671 5 12 Stan 
+- 678
+F 680 1 12 Mom, 
+F 682 1 12 can 
+F 684 1 12 I 
+F 686 1 12 have 
+F 688 1 12 eight 
+F 690 1 12 doll
+F 692 1 12 ars 
+F 693 1 12 to 
+F 695 1 12 see 
+F 697 1 12 a 
+F 699 1 12 mov
+F 701 1 12 ie? 
+- 702
+F 703 1 12 A 
+F 705 2 12 mov
+F 708 2 12 ie? 
+- 711
+F 713 3 12 Yeah, 
+F 717 1 12 it’s 
+F 719 1 12 gon
+F 721 1 12 na 
+F 722 1 12 be 
+F 724 1 12 the 
+F 726 1 12 best 
+F 728 1 12 mo
+F 730 1 12 vie 
+F 732 1 12 e
+F 734 1 12 ver! 
+- 735
+F 735 1 12 It’s 
+F 737 1 12 a 
+F 739 1 12 fo
+F 741 1 12 reign 
+F 743 1 12 film, 
+F 745 1 12 from 
+F 746 1 12 Can
+F 748 1 12 a
+F 750 1 12 da! 
+- 751
+F 753 1 12 All 
+F 755 1 12 right, 
+F 757 1 12 here 
+F 759 1 12 you 
+F 761 2 12 go 
+- 764
+F 766 1 12 But 
+F 768 1 12 be 
+F 770 2 12 back 
+F 773 1 12 for 
+F 775 2 12 sup
+F 778 3 12 per! 
+- 781
+F 783 1 12 Thanks, 
+F 785 3 12 mom! 
+- 800
+: 804 3 9 Oh, 
+: 808 1 9 what 
+: 810 1 9 a 
+: 812 3 9 pict
+: 816 2 12 ure 
+: 820 2 12 per
+: 823 2 10 fect 
+: 827 6 10 child 
+- 833
+: 834 2 9 Just 
+: 838 2 9 like 
+: 842 1 9 Jes
+: 844 1 9 us, 
+: 846 2 5 he’s 
+: 850 1 5 ten
+: 852 1 4 der 
+: 854 1 4 and 
+: 857 5 4 mild 
+- 864
+: 866 2 9 He’d 
+: 869 1 9 wear 
+: 871 1 9 a 
+: 873 3 9 smile 
+: 877 1 12 while 
+: 879 1 12 he 
+: 881 2 12 wore 
+: 884 1 10 a 
+: 887 2 12 thorn
+: 890 2 14 y 
+* 894 10 16 crown 
+- 911
+* 914 1 17 What 
+: 916 1 4 an 
+: 918 1 5 an
+: 920 1 7 gel 
+- 921
+: 922 1 9 With 
+: 924 1 10 a 
+: 926 2 12 heart 
+: 929 1 10 so 
+: 932 4 10 sweet 
+: 937 1 14 and 
+* 940 6 4 sure 
+- 949
+: 951 1 4 And 
+: 953 1 4 a 
+: 955 3 12 mind 
+: 959 2 14 so 
+: 963 1 12 o
+: 965 1 9 pen 
+: 967 2 10 and 
+: 971 7 9 pure 
+- 980
+: 982 2 12 Thank 
+* 986 2 14 God 
+: 990 1 12 we 
+: 993 2 14 live 
+: 997 1 12 in 
+: 999 1 12 this 
+- 1000
+: 1001 3 14 Qui
+: 1006 2 12 et, 
+: 1009 2 14 red
+: 1013 2 12 neck, 
+: 1017 2 14 mount
+: 1020 2 12 ain 
+: 1024 15 9 town 
+- 1043
+F 1045 4 12 Dude, 
+F 1051 3 12 dude, 
+F 1055 1 12 wake 
+F 1057 2 12 up! 
+- 1072
+F 1112 1 12 Ken
+F 1114 1 12 ny, 
+F 1117 1 12 come 
+F 1119 4 12 on 
+- 1129
+F 1132 2 12 Mmph 
+F 1135 3 12 mmph! 
+- 1147
+F 1150 1 12 Ken
+F 1152 1 12 ny, 
+F 1155 1 12 the 
+F 1157 1 12 Ter
+F 1159 1 12 rance 
+F 1161 1 12 and 
+F 1163 1 12 Phil
+F 1165 1 12 lip 
+F 1167 1 12 mo
+F 1169 1 12 vie 
+F 1171 1 12 is 
+F 1172 1 12 out 
+- 1173
+F 1173 1 12 You 
+F 1174 1 12 wann
+F 1176 1 12 a 
+F 1178 1 12 come? 
+- 1186
+F 1189 1 12 Mmph 
+F 1191 1 12 mmph, 
+F 1193 1 12 mmph 
+F 1195 1 12 mmph, 
+F 1197 1 12 mmph 
+F 1199 3 12 mmph! 
+- 1202
+F 1204 1 12 Where 
+F 1206 1 12 do 
+F 1208 1 12 you 
+F 1210 3 12 think 
+F 1214 3 12 YOU’RE 
+F 1218 2 12 go
+F 1221 3 12 ing? 
+- 1227
+F 1229 1 12 Mmph 
+F 1231 1 12 mmph 
+F 1233 1 12 mmph 
+F 1235 1 12 mmph 
+F 1237 1 12 mmph 
+F 1239 2 12 mmph 
+- 1241
+F 1243 2 12 You 
+F 1246 4 12 can’t, 
+F 1252 1 12 you 
+F 1254 1 12 have 
+F 1256 1 12 to 
+F 1258 1 12 go 
+F 1260 1 12 to 
+F 1262 6 12 church! 
+- 1269
+F 1271 1 12 Mmph 
+F 1273 2 12 mmph, 
+F 1276 1 12 mmph 
+F 1278 1 12 mmph 
+F 1280 1 12 mmph 
+F 1282 1 12 mmph 
+F 1284 1 12 mmph 
+F 1286 1 12 mmph- 
+- 1287
+F 1289 2 12 Well 
+F 1292 4 12 fine, 
+F 1297 1 12 you 
+F 1299 1 12 go 
+F 1301 1 12 a
+F 1303 1 12 head 
+F 1305 1 12 and 
+F 1307 2 12 miss 
+F 1310 6 12 church 
+- 1316
+F 1318 1 12 And 
+F 1320 2 12 then 
+F 1323 1 12 when 
+F 1325 1 12 you 
+F 1328 2 12 die 
+F 1331 1 12 and 
+F 1333 1 12 go 
+F 1335 1 12 to 
+F 1337 4 12 hell 
+- 1341
+F 1342 1 12 You 
+F 1344 1 12 can 
+F 1346 1 12 ans
+F 1348 1 12 wer 
+F 1350 1 12 to 
+F 1352 3 12 Sat
+F 1356 3 12 an! 
+- 1371
+F 1375 1 12 Ok
+F 1377 5 12 ay 
+- 1387
+: 1389 1 -3 You 
+: 1391 1 -3 can 
+: 1393 2 2 see 
+: 1396 2 2 your 
+: 1400 2 2 breath 
+* 1403 1 5 hang
+* 1405 1 5 ing 
+: 1407 1 5 in 
+: 1411 1 4 the 
+: 1415 3 4 air 
+- 1419
+: 1421 1 -3 You 
+* 1423 2 2 see 
+: 1426 1 2 home
+: 1428 1 2 less 
+: 1430 1 2 peo
+: 1432 1 2 ple 
+- 1433
+: 1434 1 -3 But 
+: 1436 1 -2 you 
+: 1438 1 -2 just 
+: 1441 1 -3 don’t 
+: 1445 1 -3 care 
+- 1446
+: 1448 1 -2 It’s 
+: 1450 1 0 a 
+: 1452 3 2 sea 
+: 1456 1 2 of 
+: 1460 2 2 smiles 
+- 1462
+: 1463 1 5 In 
+: 1465 1 5 which 
+: 1467 3 5 we’d 
+: 1471 1 4 be 
+: 1475 2 5 glad 
+: 1478 3 7 to 
+: 1482 14 9 drown 
+- 1497
+: 1499 2 10 Mmph 
+: 1502 1 -3 mmph 
+: 1504 1 -2 mmph 
+: 1506 1 0 mmph 
+: 1508 2 3 mmph 
+: 1511 1 4 mmph 
+- 1512
+: 1513 1 5 Mmph 
+: 1515 3 4 mmph 
+: 1519 3 5 mmph 
+: 1523 1 7 mmph 
+* 1525 12 9 mmph 
+- 1537
+* 1538 1 -3 Mmph 
+: 1540 1 -3 mmph 
+: 1542 1 5 mmph 
+* 1544 1 7 mmph 
+: 1546 1 5 mmph 
+- 1547
+: 1548 1 5 Mmph 
+: 1550 1 2 mmph 
+: 1552 1 4 mmph 
+* 1554 6 2 mmph 
+- 1560
+F 1561 2 12 That’s 
+F 1564 3 12 right! 
+- 1568
+: 1570 1 2 It’s 
+: 1572 2 7 Sun
+: 1576 2 5 day 
+: 1579 1 7 mor
+: 1581 1 7 ning 
+: 1583 1 5 in 
+: 1585 2 5 our 
+- 1587
+: 1588 1 7 Qui
+: 1590 2 5 et, 
+: 1595 3 7 lit
+: 1599 1 5 tle, 
+: 1603 2 7 white
+: 1606 2 5 bread, 
+: 1609 2 7 red
+: 1613 2 5 neck, 
+: 1617 3 7 mount
+: 1621 2 5 ain 
+* 1625 14 2 town 
+- 1639
+F 1640 3 12 Bah, 
+F 1644 2 12 bah 
+F 1647 2 12 bah 
+F 1650 2 12 bah 
+F 1653 4 12 bah! 
+- 1659
+F 1661 1 12 Rea
+F 1663 1 12 dy, 
+F 1665 1 12 Ike? 
+F 1670 2 12 Kick 
+F 1674 1 12 the 
+F 1676 1 12 ba
+F 1678 2 12 by! 
+- 1682
+F 1684 2 12 Don’t 
+F 1688 2 12 kick 
+F 1692 1 12 the 
+F 1694 1 12 ba
+F 1696 2 12 by! 
+- 1698
+F 1699 1 12 Kick 
+F 1701 1 12 the 
+F 1703 1 12 ba
+F 1705 2 12 by! 
+- 1720
+F 1734 3 12 Ike, 
+F 1741 1 12 you 
+F 1744 2 12 broke 
+F 1747 1 12 a
+F 1749 1 12 no
+F 1751 1 12 ther 
+F 1754 2 12 win
+F 1757 4 12 dow! 
+- 1763
+F 1765 1 12 That’s 
+F 1767 1 12 a 
+F 1769 3 12 bad 
+F 1773 2 12 ba
+F 1776 2 12 by 
+- 1778
+F 1780 7 12 Bad 
+F 1789 2 12 ba
+F 1792 3 12 by! 
+- 1796
+F 1798 3 12 Kyle, 
+F 1802 1 12 we’re 
+F 1804 1 12 go
+F 1806 1 12 ing 
+F 1808 1 12 to 
+F 1809 1 12 the 
+F 1811 1 12 Terr
+F 1813 1 12 ance 
+F 1814 1 12 and 
+F 1815 1 12 Phill
+F 1817 1 12 ip 
+F 1819 1 12 mov
+F 1821 1 12 ie 
+- 1831
+F 1834 1 12 Oh 
+F 1836 1 12 my 
+F 1839 3 12 God, 
+F 1844 3 12 dude! 
+- 1848
+F 1850 3 12 Kyle, 
+F 1855 2 12 where 
+F 1858 1 12 are 
+F 1860 2 12 you 
+F 1863 2 12 go
+F 1866 2 12 ing? 
+- 1868
+F 1870 5 12 Uuh, 
+F 1877 1 12 we’re 
+F 1879 1 12 go
+F 1881 1 12 ing 
+F 1883 1 12 ice-
+F 1885 1 12 ska
+F 1887 1 12 ting 
+- 1888
+F 1889 1 12 Well, 
+F 1891 1 12 take 
+F 1893 2 12 your 
+F 1896 1 12 lit
+F 1898 1 12 tle 
+F 1900 1 12 bro
+F 1902 1 12 ther 
+F 1904 1 12 out 
+F 1906 2 12 with 
+F 1909 3 12 you 
+- 1912
+F 1913 1 12 Aw, 
+F 1915 4 12 ma, 
+F 1920 1 12 he’s 
+F 1922 1 12 not 
+F 1924 1 12 e
+F 1926 1 12 ven 
+F 1928 1 12 my 
+F 1930 1 12 real 
+F 1932 1 12 bro
+F 1934 1 12 ther 
+- 1935
+F 1936 1 12 He’s 
+F 1938 1 12 ad
+F 1940 1 12 op
+F 1942 1 12 ted! 
+- 1943
+F 1944 1 12 Do 
+F 1946 1 12 as 
+F 1948 1 12 I 
+F 1950 1 12 say, 
+F 1952 5 12 Kyle! 
+- 1957
+F 1959 1 12 Ok
+F 1961 1 12 ay, 
+F 1963 1 12 ok
+F 1965 1 12 ay, 
+F 1967 1 12 I’m 
+F 1969 1 12 sor
+F 1971 2 12 ry! 
+- 1986
+: 2004 1 5 Look 
+: 2006 1 5 at 
+: 2008 1 5 those 
+: 2010 4 5 frail 
+: 2015 2 9 and 
+: 2019 3 7 frag
+: 2023 3 0 ile 
+: 2027 4 0 boys 
+- 2031
+* 2032 2 0 It 
+: 2035 2 9 reall
+: 2038 2 9 y 
+: 2042 2 9 gets 
+: 2046 2 10 me 
+: 2050 9 7 down 
+- 2061
+: 2063 1 7 The 
+: 2065 3 9 world 
+: 2069 2 9 is 
+: 2072 4 9 such 
+: 2077 1 10 a 
+: 2080 2 12 rot
+: 2083 1 7 ten 
+: 2086 6 7 place 
+- 2092
+: 2094 1 7 And 
+: 2096 1 12 ci
+: 2098 1 12 ty 
+: 2101 2 12 life’s 
+: 2104 1 12 a 
+: 2106 2 14 comp
+F 2110 2 14 lete 
+F 2113 2 12 dis
+F 2116 5 12 grace! 
+- 2121
+* 2122 2 15 That’s 
+* 2126 2 14 why 
+: 2130 1 2 I 
+: 2133 3 2 moved 
+: 2137 1 2 to 
+: 2139 1 2 this 
+- 2140
+: 2141 2 14 Red
+: 2145 1 2 neck, 
+: 2147 1 2 me
+: 2149 1 2 shu
+: 2151 1 2 gen
+: 2153 1 2 nah, 
+* 2156 6 14 qui
+* 2163 4 2 et 
+- 2169
+: 2171 6 14 Moun
+: 2178 4 2 tain 
+* 2186 40 16 town! 
+- 2231
+F 2233 3 12 Ike! 
+F 2242 3 12 Bad 
+F 2246 2 12 ba
+F 2249 1 12 by! 
+- 2250
+F 2251 2 12 Tay 
+F 2254 2 12 for 
+F 2259 1 12 a 
+F 2261 1 12 bah 
+- 2263
+F 2265 1 12 This 
+F 2267 1 12 prog
+F 2269 1 12 ram 
+F 2271 1 12 is 
+F 2273 1 12 brought 
+F 2275 1 12 to 
+F 2277 1 12 you 
+F 2279 1 12 by 
+F 2281 1 12 Snack
+F 2283 1 12 y 
+F 2285 1 12 S’mores 
+- 2286
+F 2287 1 12 The 
+F 2289 1 12 cream
+F 2291 1 12 y 
+F 2293 1 12 fun 
+F 2295 1 12 of 
+F 2297 1 12 s’mores 
+F 2299 1 12 in 
+F 2301 1 12 a 
+F 2303 1 12 de
+F 2305 1 12 light
+F 2307 1 12 ful 
+F 2309 1 12 cook
+F 2311 1 12 ie 
+F 2313 3 12 crunch 
+- 2317
+F 2319 6 12 Mom, 
+F 2326 1 12 some
+F 2328 1 12 bo
+F 2330 1 12 dy’s 
+F 2332 1 12 at 
+F 2334 1 12 the 
+F 2336 4 12 door! 
+- 2343
+F 2345 1 12 Co
+F 2347 2 12 ming, 
+F 2350 4 12 hon 
+- 2356
+F 2358 1 12 Ey, 
+F 2360 1 12 I 
+F 2362 1 12 can’t 
+F 2364 1 12 see 
+F 2366 1 12 the 
+F 2368 1 12 T
+F 2370 4 12 V! 
+- 2375
+F 2377 2 12 It’s 
+F 2380 1 12 been 
+F 2383 2 12 six 
+F 2386 3 12 weeks 
+- 2389
+F 2390 1 12 Since 
+F 2392 1 12 Sad
+F 2394 1 12 dam 
+F 2396 2 12 Hus
+F 2399 1 12 sein 
+F 2401 1 12 was 
+F 2403 2 12 killed 
+F 2406 1 12 by 
+F 2408 1 12 a 
+F 2410 1 12 pack 
+F 2412 2 12 of 
+F 2415 3 12 wild 
+F 2419 4 12 boars 
+- 2424
+F 2426 1 12 And 
+F 2428 1 12 the 
+F 2430 1 12 world 
+F 2432 1 12 is 
+F 2434 2 12 still 
+F 2437 2 12 glad 
+F 2440 1 12 to 
+F 2442 1 12 be 
+F 2444 1 12 rid 
+F 2446 1 12 of 
+F 2448 1 12 him 
+- 2449
+F 2450 1 12 Oh, 
+F 2452 3 12 look, 
+F 2456 1 12 E
+F 2458 2 12 ric, 
+F 2461 1 12 it’s 
+F 2463 1 12 your 
+F 2465 1 12 lit
+F 2467 1 12 tle 
+F 2469 7 12 friends 
+- 2476
+F 2477 1 12 Tor
+F 2479 1 12 ry 
+F 2481 7 12 mam 
+- 2488
+F 2489 1 12 What 
+F 2491 1 12 are 
+F 2493 1 12 you 
+F 2495 1 12 guys 
+F 2497 1 12 do
+F 2499 1 12 ing 
+F 2501 2 12 here? 
+- 2514
+F 2518 4 12 Oh 
+F 2526 5 12 Sweet, 
+F 2532 4 12 dude! 
+F 2539 6 12 Yes! 
+F 2548 7 12 Yes! 
+- 2557
+: 2559 3 2 Off 
+: 2563 2 2 to 
+: 2566 1 2 the 
+* 2568 4 2 mov
+* 2573 5 5 ies 
+: 2579 3 5 we 
+: 2583 5 4 shall 
+: 2589 5 4 go 
+- 2594
+: 2596 1 -3 Where 
+: 2598 4 2 we 
+: 2603 4 2 learn 
+: 2608 1 2 eve
+* 2610 1 -2 ry
+: 2612 4 -2 thing 
+: 2617 3 -2 that 
+: 2621 3 -3 we 
+: 2625 4 -3 know 
+- 2629
+: 2630 1 -2 ’Cause 
+: 2632 1 0 the 
+: 2634 2 2 mov
+: 2637 1 2 ies 
+: 2639 3 2 teach 
+: 2643 3 2 us 
+- 2646
+: 2647 2 5 What 
+: 2650 1 5 our 
+: 2652 1 5 pa
+: 2654 1 5 rents 
+: 2656 1 4 don’t 
+: 2658 1 4 have 
+: 2660 3 5 time 
+: 2664 2 7 to 
+* 2667 16 9 say 
+- 2685
+* 2687 2 10 And 
+: 2690 1 -3 this 
+: 2692 1 -2 mov
+: 2694 1 0 ie’s 
+: 2696 1 3 gonn
+: 2698 1 4 a 
+: 2700 2 5 make 
+: 2704 1 4 our 
+: 2706 3 5 lives 
+: 2710 2 7 comp
+: 2713 6 9 lete 
+- 2724
+: 2726 3 -3 ’Cause 
+: 2730 1 2 Terr
+: 2732 2 2 ance 
+: 2735 2 4 and 
+: 2739 2 2 Phill
+: 2742 2 -2 ip 
+: 2745 3 0 are 
+* 2749 6 -2 sweet 
+- 2755
+F 2756 4 12 Super 
+F 2761 3 12 sweet! 
+- 2765
+: 2767 4 5 Thank 
+* 2772 3 7 God 
+: 2777 2 5 we 
+: 2780 3 7 live 
+: 2784 1 5 in 
+: 2786 1 5 the 
+- 2787
+: 2789 2 7 Qui
+: 2792 2 5 et, 
+: 2796 3 7 lit
+: 2800 2 5 tle, 
+: 2804 2 7 red
+: 2808 2 5 neck, 
+: 2812 2 7 pod
+: 2815 3 5 unk, 
+: 2819 3 7 white
+: 2823 3 5 trash 
+- 2826
+F 2827 1 12 Kick 
+F 2829 5 12 ass! 
+- 2834
+: 2835 9 7 U 
+: 2850 9 10 S 
+* 2865 32 9 A! 
+- 2897
+F 2898 1 12 Can 
+F 2900 1 12 I 
+F 2902 3 12 have 
+F 2907 4 12 five 
+F 2912 2 12 tickets 
+F 2915 1 12 to 
+- 2916
+F 2917 2 12 “Terrance 
+F 2920 1 12 and 
+F 2922 3 12 Phillip: 
+F 2926 2 12 Asses 
+F 2929 1 12 of 
+F 2931 2 12 Fire,” 
+F 2934 7 12 please? 
+- 2946
+F 2948 7 12 No. 
+E

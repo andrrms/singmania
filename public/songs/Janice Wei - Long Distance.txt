@@ -1,0 +1,456 @@
+#ARTIST:Janice Wei
+#TITLE:Long Distance
+#MP3:Janice Wei - Long Distance.mp3
+#CREATOR:lilsilly61
+#COVER:Janice Wei - Long Distance [CO].jpg
+#BACKGROUND:Janice Wei - Long Distance [BG].jpg
+#GENRE:Pop
+#YEAR:2004
+#LANGUAGE:English
+#BPM:312
+#GAP:24770
+#VIDEO:v=liNvmH8YdF0,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/66/b4/b8/66b4b8b7-20b8-ed61-0863-dbb9bd82b250/Day_Night_Janice.jpg/5000x5000bb.jpg
+: 0 3 7 When 
+: 4 2 7 I’m 
+: 8 10 9 fee
+: 20 7 10 ling 
+: 28 15 12 blue 
+- 55
+: 59 8 0 Lost 
+: 68 5 -2 with
+: 75 9 -3 out 
+: 85 3 -2 a 
+: 90 18 0 clue 
+- 118
+: 125 9 -2 Sparks 
+: 135 5 -3 be
+: 142 8 -5 tween 
+: 151 5 -3 our 
+: 158 16 -2 eyes 
+- 183
+: 187 2 -2 No
+: 190 3 -3 thing 
+: 194 5 -2 can 
+: 201 6 0 be 
+: 208 9 -3 as 
+: 218 22 -5 true 
+- 250
+: 260 7 5 Sing 
+: 268 7 7 my 
+: 276 9 9 life 
+: 287 6 10 for 
+: 295 13 12 you 
+- 318
+: 328 8 12 Pain
+: 337 6 10 tings 
+: 345 7 9 that 
+: 354 16 14 I 
+: 371 12 12 drew 
+- 392
+: 396 6 -2 One 
+: 404 6 -3 plus 
+: 412 6 -5 one 
+: 420 6 -3 makes 
+: 427 12 -2 two 
+- 446
+: 449 6 -2 How 
+: 456 3 -3 I 
+: 460 6 -2 wish 
+: 467 5 0 to 
+: 474 8 2 ca
+: 483 14 4 ress 
+: 499 11 0 you 
+- 513
+: 515 6 5 Tell 
+: 522 3 5 me 
+: 526 9 5 where 
+: 536 6 4 we’re 
+: 543 6 2 hea
+: 552 6 4 ding 
+: 559 13 5 to 
+- 581
+: 584 4 5 What 
+: 589 4 5 we 
+: 594 6 5 do 
+: 602 6 4 may 
+: 609 7 2 seem 
+: 618 13 2 so 
+: 634 13 0 crude 
+- 650
+: 652 4 5 Where’s 
+: 657 3 5 the 
+: 661 5 5 good 
+: 667 4 4 in 
+: 672 10 2 our 
+: 684 6 4 good
+: 692 5 5 byes 
+- 697
+: 698 3 5 The 
+: 702 3 4 time 
+: 706 3 5 you 
+: 710 6 4 leave 
+: 717 3 5 is 
+: 721 3 4 the 
+: 725 5 5 time 
+: 731 3 4 you 
+: 735 3 5 break 
+: 739 3 4 my 
+: 743 7 5 heart 
+: 752 5 2 in 
+: 759 18 7 two 
+- 782
+: 784 3 -2 E
+: 788 5 -2 ven 
+: 794 6 -2 though 
+: 801 4 -3 we’re 
+: 806 12 -5 far 
+: 819 4 -2 a
+: 824 15 0 part 
+- 847
+: 850 4 -2 Send 
+: 855 3 -2 my 
+: 859 8 -2 love 
+: 868 4 -3 with 
+: 873 10 -5 all 
+: 884 5 5 my 
+: 890 17 0 heart 
+- 914
+: 917 3 5 When 
+: 921 3 5 you 
+: 925 7 5 miss 
+: 933 8 7 me 
+: 943 4 9 at 
+: 949 13 10 night 
+- 963
+: 965 7 10 Look 
+: 974 7 10 at 
+: 983 4 10 the 
+: 990 8 12 stars 
+: 999 9 9 shi
+: 1009 6 9 ning 
+: 1016 20 7 bright 
+- 1046
+: 1050 3 10 For 
+: 1054 4 10 the 
+: 1059 9 10 times 
+: 1069 3 9 you 
+: 1073 7 7 pulled 
+: 1081 6 5 me 
+: 1088 22 12 through 
+- 1113
+: 1115 5 10 All 
+: 1121 3 10 the 
+: 1125 9 10 things 
+: 1136 2 9 I 
+: 1140 9 7 do 
+: 1150 7 5 for 
+: 1158 21 12 you 
+- 1181
+: 1183 3 5 Run
+: 1187 4 5 ning 
+: 1192 6 5 tears 
+: 1199 7 7 from 
+: 1208 6 9 my 
+: 1216 14 10 eyes 
+- 1230
+: 1232 7 10 Thin
+: 1241 7 10 king 
+: 1249 6 10 how 
+: 1256 7 12 will 
+: 1265 6 9 I 
+: 1273 9 9 sur
+: 1283 21 7 vive 
+- 1314
+: 1329 11 5 Next 
+: 1342 6 5 good
+* 1349 67 12 bye 
+- 1436
+: 1462 5 7 When 
+: 1469 4 7 I’m 
+: 1475 9 9 fee
+: 1485 6 10 ling 
+: 1492 15 12 blue 
+- 1517
+: 1524 7 0 Lost 
+: 1533 6 -2 with
+: 1540 9 -3 out 
+: 1550 3 -2 a 
+: 1555 18 0 clue 
+- 1584
+: 1588 8 -2 Sparks 
+: 1599 4 -3 be
+: 1604 12 -5 tween 
+: 1618 4 -3 our 
+: 1624 14 -2 eyes 
+- 1645
+: 1648 3 -2 No
+: 1652 4 -3 thing 
+: 1657 8 -2 can 
+: 1666 9 0 be 
+: 1677 4 -3 as 
+: 1683 22 -5 true 
+- 1717
+: 1721 10 5 Sing 
+: 1733 6 7 my 
+: 1741 9 9 life 
+: 1751 4 10 for 
+: 1757 16 12 you 
+- 1783
+: 1790 7 12 Pain
+: 1799 7 10 tings 
+: 1807 9 9 that 
+: 1817 12 14 I 
+: 1830 17 12 drew 
+- 1853
+: 1856 8 -2 One 
+: 1866 6 -3 plus 
+: 1874 7 -5 one 
+: 1883 15 -3 makes 
+: 1899 11 -2 two 
+- 1914
+: 1916 3 -2 How 
+: 1921 2 -3 I 
+: 1925 6 -2 wish 
+: 1932 6 0 to 
+: 1940 7 2 ca
+: 1949 15 4 ress 
+: 1966 14 0 you 
+- 1980
+: 1982 5 5 Tell 
+: 1988 3 5 me 
+: 1992 7 5 where 
+: 2000 4 4 we’re 
+: 2005 8 2 hea
+: 2015 5 4 ding 
+: 2022 19 5 to 
+- 2044
+: 2046 4 5 What 
+: 2051 5 5 we 
+: 2057 8 5 do 
+: 2067 7 4 may 
+: 2075 8 2 seem 
+: 2084 13 2 so 
+: 2099 14 0 crude 
+- 2115
+: 2117 3 5 Where’s 
+: 2121 2 5 the 
+: 2124 7 5 good 
+: 2133 2 4 in 
+: 2136 8 2 our 
+: 2149 5 4 good 
+: 2156 5 5 byes 
+- 2161
+: 2162 3 5 The 
+: 2166 4 4 time 
+: 2171 3 5 you 
+: 2175 5 4 leave 
+: 2181 2 5 is 
+: 2184 2 4 the 
+: 2187 5 5 time 
+: 2194 3 4 you 
+: 2198 4 5 break 
+: 2203 3 4 my 
+: 2207 8 5 heart 
+: 2216 6 2 in 
+: 2223 19 7 two 
+- 2246
+: 2248 4 -2 E
+: 2253 3 -2 ven 
+: 2257 7 -2 though 
+: 2266 2 -3 we’re 
+: 2270 9 -5 far 
+: 2281 4 -2 a
+: 2287 19 0 part 
+- 2312
+: 2314 3 -2 Send 
+: 2319 3 -2 my 
+: 2323 8 -2 love 
+: 2333 3 -3 with 
+: 2338 10 -5 all 
+* 2349 4 5 my 
+: 2356 19 0 heart 
+- 2376
+: 2378 5 5 When 
+: 2384 4 5 you 
+: 2389 7 5 miss 
+: 2398 7 7 me 
+: 2407 5 9 at 
+: 2413 14 10 night 
+- 2428
+: 2430 6 10 Look 
+: 2438 7 10 at 
+: 2446 6 10 the 
+: 2454 7 12 stars 
+: 2462 9 9 shi
+: 2473 6 9 ning 
+: 2480 22 7 bright 
+- 2511
+: 2514 3 10 For 
+: 2518 4 10 the 
+: 2523 9 10 times 
+: 2534 2 9 you 
+: 2538 10 7 pulled 
+: 2550 3 5 me 
+: 2554 16 12 through 
+- 2577
+: 2580 3 10 All 
+: 2584 3 10 the 
+: 2588 10 10 things 
+: 2599 4 9 I 
+: 2604 10 7 do 
+* 2616 3 5 for 
+* 2621 15 12 you 
+- 2645
+: 2648 4 5 Run
+: 2653 2 5 ning 
+: 2657 7 5 tears 
+: 2665 6 7 from 
+: 2673 5 9 my 
+: 2680 13 10 eyes 
+- 2694
+: 2696 7 10 Thin
+: 2706 8 10 king 
+: 2715 3 10 how 
+: 2719 10 12 will 
+: 2730 6 9 I 
+: 2739 7 9 sur
+: 2748 20 7 vive 
+- 2778
+: 2798 6 5 Next 
+* 2806 6 5 good
+* 2813 22 12 bye 
+- 2836
+F 2838 4 -5 I’ll 
+F 2844 3 -5 be 
+F 2848 7 -5 here 
+F 2857 6 -5 wai
+F 2865 7 -5 ting 
+F 2873 6 -5 for 
+F 2880 7 -5 you 
+- 2894
+F 2897 6 -5 I’ll 
+F 2905 8 -5 be 
+F 2914 6 -5 here 
+F 2922 7 -5 wai
+F 2931 6 -5 ting 
+F 2939 6 -5 for 
+F 2946 8 -5 you 
+F 2956 3 -5 (oh, 
+F 2961 4 -5 yeah) 
+- 2965
+F 2967 3 -5 I’ll 
+F 2972 6 -5 be 
+F 2980 6 -5 here 
+F 2988 5 -5 wai
+F 2995 7 -5 ting 
+F 3004 6 -5 for 
+F 3012 6 -5 you 
+- 3020
+: 3022 7 0 Yes, 
+: 3031 13 0 I 
+: 3045 11 0 will 
+- 3067
+F 3071 4 -5 You 
+F 3076 5 -5 know 
+F 3082 5 -5 I 
+F 3089 9 -5 will 
+F 3100 11 -5 be 
+- 3111
+F 3113 3 -5 (You 
+F 3118 2 -5 touched 
+F 3122 3 -5 my 
+F 3126 3 -5 life 
+F 3131 5 -5 and 
+F 3138 7 -5 made 
+F 3147 7 -5 me 
+F 3156 6 -5 sink 
+F 3164 3 -5 a
+F 3170 19 -5 way) 
+- 3199
+F 3218 13 -5 Oh 
+- 3232
+F 3234 4 -5 (I’ll 
+F 3239 7 -5 be 
+F 3247 5 -5 here 
+F 3255 7 -5 wai
+F 3264 6 -5 ting 
+F 3272 7 -5 for 
+F 3280 6 -5 you 
+F 3288 7 -5 ’til 
+F 3297 6 -5 the 
+F 3305 6 -5 end 
+F 3311 1 -5 of 
+F 3313 4 -5 day) 
+- 3317
+: 3318 2 -2 E
+: 3321 2 -2 ven 
+: 3324 7 -2 though 
+: 3332 4 -3 we’re 
+: 3337 8 -5 far 
+* 3346 5 -2 a
+* 3352 23 0 part 
+- 3377
+: 3379 5 -2 Send 
+: 3385 2 -2 my 
+: 3389 7 -2 love 
+: 3397 4 -3 with 
+: 3402 10 -5 all 
+* 3414 3 5 my 
+* 3419 17 0 heart 
+- 3445
+: 3448 3 5 When 
+: 3452 3 5 you 
+: 3456 6 5 miss 
+: 3464 5 7 me 
+: 3471 6 9 at 
+* 3479 13 10 night 
+- 3494
+: 3496 6 10 Look 
+: 3504 6 10 at 
+: 3512 5 10 the 
+* 3518 10 12 stars 
+* 3529 7 9 shi
+* 3538 7 9 ning 
+* 3546 26 7 bright 
+- 3573
+: 3575 8 10 For 
+: 3585 2 10 the 
+: 3589 8 10 times 
+: 3599 2 9 you 
+: 3603 9 7 pulled 
+: 3613 5 5 me 
+* 3619 16 12 through 
+- 3642
+: 3645 4 10 All 
+: 3650 2 10 the 
+: 3654 10 10 things 
+: 3665 2 9 I 
+: 3669 10 7 do 
+* 3681 3 5 for 
+* 3686 21 12 you 
+- 3710
+: 3712 2 5 Run
+: 3715 4 5 ning 
+: 3720 9 5 tears 
+: 3730 6 7 from 
+: 3738 6 9 my 
+: 3746 12 10 eyes 
+- 3761
+: 3763 7 10 Thin
+: 3772 7 10 king 
+: 3780 4 10 how 
+: 3785 9 12 will 
+* 3795 8 9 I 
+* 3805 6 9 sur
+* 3813 25 7 vive 
+- 3848
+: 3855 15 5 Next 
+: 3871 6 5 good
+* 3879 60 9 bye 
+- 3959
+F 3986 30 -5 Ooh 
+- 4026
+F 4037 25 -5 Ooh, 
+F 4144 52 -5 yeah, 
+F 4201 33 -5 hey 
+E

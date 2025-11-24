@@ -1,0 +1,265 @@
+#ARTIST:Supertramp
+#TITLE:Bloody Well Right
+#MP3:Supertramp - Bloody Well Right.mp3
+#CREATOR:Fepo
+#GENRE:Pop
+#YEAR:1974
+#LANGUAGE:English
+#BPM:290.74
+#GAP:97280
+#VIDEO:a=iaxAZYQB44o,co=https://i.discogs.com/FY8SBCeJ0xsbgi4i4H4PrG6BYDcbCMU-E3CHrfBGayg/rs:fit/g:sm/q:90/h:516/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjQy/MjQtMTQyNDU1MjM4/OS03NDAxLmpwZWc.jpeg,bg=supertramp-5c18f96b42453.jpg
+: 0 6 7 So 
+: 8 2 7 you 
+: 12 5 5 think 
+: 20 5 2 your 
+: 32 6 0 schoo
+: 40 4 0 ling’s 
+: 48 4 2 pho
+: 54 8 2 ney 
+- 64
+: 125 2 -5 I 
+: 129 2 -5 guess 
+: 133 3 -2 it’s 
+: 142 6 2 hard 
+: 151 3 5 not 
+: 158 4 2 to 
+: 165 4 0 a
+: 171 9 2 gree 
+- 182
+: 249 2 2 You 
+: 253 3 7 say, 
+: 258 6 7 It 
+: 266 7 5 all 
+: 276 3 2 de
+: 281 6 0 pends 
+: 292 5 0 on 
+: 300 3 2 mo
+: 305 8 2 ney 
+- 315
+: 376 2 -5 And 
+: 380 2 -5 who 
+: 384 4 -2 is 
+: 393 6 2 in 
+: 402 3 5 your 
+: 407 8 0 fami
+: 417 3 -2 ly 
+: 422 10 -5 tree 
+- 434
+* 485 5 -4 Right, 
+F 500 6 0 Right 
+: 514 2 -7 you’re 
+: 518 2 -4 bloo
+: 522 2 -2 dy 
+* 526 5 -2 well 
+: 534 5 -2 right 
+- 541
+: 546 2 -5 You 
+: 550 2 -5 got 
+: 554 2 -2 a 
+: 558 2 -2 bloo
+: 562 2 -4 dy 
+: 566 4 -2 right 
+: 573 3 -4 to 
+: 578 6 2 say
+: 586 3 5 ~ 
+- 591
+: 620 5 -4 Right, 
+: 641 2 -7 you’re 
+: 645 2 -4 bloo
+: 649 2 -2 dy 
+: 653 5 -2 well 
+: 661 5 -2 right 
+- 668
+: 673 2 -5 You 
+: 677 2 -5 know 
+: 681 2 -2 you 
+: 685 2 -2 got 
+: 689 2 -4 a 
+: 693 5 0 right 
+: 701 2 -2 to 
+: 706 5 -2 say 
+- 713
+: 748 6 2 Ha 
+: 757 7 3 ha 
+: 768 2 3 you’re 
+* 772 3 5 bloo
+: 777 2 -2 dy 
+: 781 4 -2 well 
+: 787 4 -2 right 
+- 793
+: 807 2 1 You 
+: 811 2 1 know 
+: 815 2 0 you’re 
+: 819 3 -2 right 
+: 825 3 -2 to 
+: 830 6 -2 say 
+- 838
+: 871 4 0 Yeah 
+: 878 8 3 yeah 
+: 890 2 3 you’re 
+: 894 2 5 bloo
+: 898 2 3 dy 
+: 902 4 3 well 
+: 909 4 3 ri
+: 915 3 2 ~ght 
+- 920
+: 930 2 1 You 
+: 934 2 1 know 
+: 938 2 0 you’re 
+: 942 3 -2 right 
+: 948 3 -2 to 
+: 953 6 -2 say 
+- 961
+: 981 2 -2 And 
+: 985 3 7 me, 
+: 990 4 5 I 
+: 996 4 1 don’t 
+: 1003 6 -2 care 
+: 1012 2 -2 a
+: 1016 2 -2 ny
+: 1020 6 -2 way 
+- 1028
+: 1340 5 7 Write 
+: 1347 4 6 your 
+: 1353 4 5 pro
+: 1359 7 0 blems 
+: 1370 7 0 down 
+: 1380 4 0 in 
+: 1388 2 2 de
+: 1392 11 2 tail 
+- 1405
+: 1464 4 -5 Take 
+: 1470 6 -2 them 
+: 1480 5 0 to 
+: 1488 4 5 a 
+: 1494 7 0 hig
+: 1504 2 -2 her 
+: 1508 4 -2 pla
+: 1514 4 -5 ~ce 
+- 1520
+: 1586 2 0 You’ve 
+: 1590 4 7 had 
+: 1597 4 7 your 
+: 1603 7 5 cry, 
+: 1612 5 2 no, 
+: 1619 5 0 I 
+: 1627 3 0 shoul
+: 1632 3 -2 dn’t 
+: 1637 4 2 say 
+: 1643 10 0 wai
+: 1655 5 -2 ~l 
+- 1662
+: 1716 3 -5 In 
+: 1721 3 -2 the 
+: 1726 6 2 mean
+: 1734 6 5 time 
+: 1744 5 0 hush 
+: 1752 4 0 your 
+: 1758 13 2 face 
+- 1773
+: 1820 5 -4 Right, 
+F 1829 4 3 Right 
+F 1838 4 -4 Right 
+: 1849 2 -7 you’re 
+: 1853 2 -4 bloo
+: 1857 2 -2 dy 
+: 1861 5 -2 well 
+: 1869 5 -2 right 
+- 1876
+: 1881 2 -5 You 
+: 1885 2 -5 got 
+: 1889 2 -2 a 
+: 1893 2 -2 bloo
+: 1897 2 -4 dy 
+: 1901 4 -2 right 
+: 1908 3 -4 to 
+: 1913 6 2 say
+: 1921 3 5 ~ 
+- 1926
+: 1954 5 -4 Right, 
+: 1975 2 -7 you’re 
+: 1979 2 -4 bloo
+: 1983 2 -2 dy 
+: 1987 5 -2 well 
+: 1995 5 -2 right 
+- 2002
+: 2007 2 -5 You 
+: 2011 2 -5 know 
+: 2015 2 -2 you 
+: 2019 2 -2 got 
+: 2023 2 -4 a 
+: 2027 5 0 right 
+: 2035 2 -2 to 
+: 2040 5 -2 say 
+- 2047
+: 2082 6 2 Ha 
+: 2091 7 3 ha 
+: 2102 2 3 you’re 
+: 2106 3 5 bloo
+: 2111 2 3 dy 
+: 2115 4 3 well 
+: 2121 4 3 right 
+- 2127
+: 2140 2 2 You 
+: 2144 2 1 know 
+: 2148 2 -2 you’re 
+: 2152 3 1 right 
+: 2158 3 -2 to 
+: 2163 6 -2 say 
+- 2171
+: 2203 4 3 Yeah 
+: 2210 8 3 yeah 
+: 2222 2 3 you’re 
+: 2226 2 5 bloo
+: 2230 2 -2 dy 
+: 2234 4 -2 well 
+: 2241 5 -2 right 
+- 2248
+: 2254 2 -9 You 
+: 2257 2 -4 know 
+: 2261 2 -2 you 
+: 2265 2 -2 got 
+: 2269 2 -4 a 
+: 2273 5 0 right 
+: 2280 2 -2 to 
+: 2284 8 0 say 
+- 2294
+: 2372 2 -5 You 
+: 2376 2 -5 got 
+: 2380 2 -2 a 
+: 2384 2 -2 bloo
+: 2388 2 -4 dy 
+: 2392 4 -2 right 
+: 2399 3 -4 to 
+: 2404 6 2 say
+: 2412 3 5 ~ 
+- 2417
+: 2492 2 -5 You 
+: 2496 2 -5 got 
+: 2499 2 -2 a 
+: 2503 2 -2 bloo
+: 2507 2 -4 dy 
+: 2511 4 0 right 
+: 2518 2 -4 to 
+: 2522 7 0 say 
+- 2531
+: 2610 2 -7 You 
+: 2614 2 -2 got 
+: 2618 2 -2 a 
+: 2622 2 -2 bloo
+: 2626 2 -4 dy 
+: 2630 4 -2 right 
+: 2640 2 -4 to 
+: 2643 7 2 say
+: 2652 3 7 ~
+: 2657 3 10 ~ 
+- 2662
+: 2728 2 -7 You 
+: 2731 2 -5 got 
+: 2735 2 -2 a 
+: 2738 2 -2 bloo
+: 2742 2 -4 dy 
+: 2745 4 0 right 
+: 2753 2 0 to 
+: 2757 7 0 say 
+E

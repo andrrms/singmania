@@ -1,0 +1,272 @@
+#ARTIST:Frank Sinatra
+#TITLE:Santa Claus Is Coming To Town
+#MP3:Frank Sinatra - Santa Claus Is Coming To Town.mp3
+#CREATOR:Canni
+#EDITION:Christmas
+#YEAR:1947
+#LANGUAGE:English
+#BPM:284
+#GAP:7000
+#VIDEO:a=ndFTOleoHGs,co=https://cdns-images.dzcdn.net/images/cover/25e1bf3cc5deaafd7424cbfcc7c8f73e/500x500.jpg,bg=frank-sinatra-4de018d4c92ad.jpg,tags=Christmas
+: 0 3 2 You 
+: 4 1 3 be
+: 6 1 5 tter 
+: 8 6 5 watch 
+: 16 10 5 out. 
+- 28
+: 32 3 5 You 
+: 36 1 7 be
+: 38 1 9 tter 
+: 40 4 10 not 
+: 48 10 10 cry. 
+- 60
+: 68 1 2 Be
+: 70 1 3 tter 
+: 72 4 5 not 
+: 80 6 5 pout. 
+- 87
+: 88 8 5 I’m 
+: 98 5 7 te
+: 104 2 5 lling 
+: 108 3 3 you 
+: 112 10 3 why: 
+- 124
+: 142 3 2 San
+: 146 3 5 ta 
+: 150 7 -2 Claus 
+: 158 3 2 is 
+: 162 5 0 com
+: 168 12 3 ing 
+: 186 4 -3 to 
+: 192 24 -2 town. 
+- 218
+: 258 6 5 He’s 
+: 266 3 2 ma
+: 270 1 3 king 
+: 272 3 5 a 
+: 276 4 5 list 
+- 282
+: 290 4 5 And 
+: 296 3 7 che
+: 300 1 9 cking 
+: 302 2 10 it 
+: 306 8 10 twice. 
+- 316
+: 326 1 10 Go
+: 328 1 2 nna 
+: 330 8 3 find 
+: 340 4 5 out 
+- 346
+: 348 6 5 Who’s 
+: 358 3 7 naugh
+: 362 2 5 ty 
+: 366 3 3 and 
+: 370 8 3 nice. 
+- 380
+: 400 5 2 San
+: 406 3 5 ta 
+: 410 7 -2 Claus 
+: 418 1 2 is 
+: 420 5 0 co
+: 426 12 3 ming 
+: 450 3 -3 to 
+: 454 24 -2 town. 
+- 480
+: 510 2 -2 He 
+* 514 8 0 sees 
+: 524 12 -2 you 
+: 538 3 -3 when 
+: 542 4 -2 you’re 
+: 548 3 -5 sleep
+: 552 8 -5 ing. 
+- 562
+: 574 4 -2 He 
+* 580 8 0 knows 
+: 590 4 -2 when 
+: 596 9 -3 you’re 
+: 606 3 -2 a
+: 610 8 -5 wake. 
+- 620
+: 638 4 0 He 
+* 644 10 2 knows 
+: 656 3 0 if 
+: 660 8 -1 you’ve 
+: 670 4 0 been 
+: 678 7 -3 bad 
+: 686 3 -3 or 
+: 690 6 -3 good. 
+- 697
+: 698 3 -2 So 
+: 702 2 0 be 
+: 706 8 0 good 
+: 722 3 -2 for 
+: 726 3 -3 good
+: 730 6 -5 ness 
+: 738 8 -7 sake. 
+- 748
+: 764 6 5 Oh! 
+: 772 1 2 You 
+: 774 3 3 be
+: 778 1 3 tter 
+: 780 6 5 watch 
+: 788 6 5 out. 
+- 796
+: 802 3 5 You 
+: 806 1 7 be
+: 808 3 9 tter 
+: 812 4 10 not 
+: 820 10 10 cry. 
+- 832
+: 838 1 2 Be
+: 840 1 3 tter 
+: 842 6 5 not 
+: 850 8 5 pout. 
+- 860
+: 862 6 5 I’m 
+: 870 5 7 te
+: 876 1 5 lling 
+: 878 3 3 you 
+: 882 10 3 why: 
+- 894
+: 902 7 2 San
+: 910 3 5 ta 
+: 914 10 -2 Claus 
+: 926 5 2 is 
+: 932 5 0 com
+: 938 12 3 ing 
+* 956 4 10 to 
+* 962 30 10 town. 
+- 994
+: 1602 10 4 Say, 
+: 1614 2 2 you 
+: 1618 1 3 be
+: 1620 2 3 tter 
+: 1624 5 5 watch 
+: 1630 8 5 out. 
+- 1639
+: 1640 3 5 You 
+: 1644 1 7 be
+: 1646 1 9 tter 
+: 1648 6 10 not 
+: 1656 10 10 cry. 
+- 1668
+: 1676 1 2 Be
+: 1678 1 3 tter 
+: 1680 6 5 not 
+: 1688 8 5 pout. 
+- 1697
+: 1698 8 5 I’m 
+: 1708 5 7 te
+: 1714 1 5 lling 
+: 1716 4 3 you 
+: 1722 8 3 why: 
+- 1732
+: 1746 5 2 San
+: 1752 3 5 ta 
+: 1756 7 -2 Claus 
+: 1764 6 2 is 
+: 1772 5 0 com
+: 1778 8 3 ing 
+: 1796 3 -3 to 
+: 1800 20 -2 town. 
+- 1822
+: 1858 6 2 He’s 
+: 1866 5 3 ma
+: 1872 3 3 king 
+: 1876 2 5 a 
+: 1880 8 5 list 
+- 1889
+: 1890 1 5 And 
+: 1892 4 2 he’s 
+: 1898 5 7 che
+: 1904 3 9 cking 
+: 1908 2 10 it 
+: 1912 8 10 twice. 
+- 1922
+: 1928 1 2 He’s 
+: 1930 3 2 go
+: 1934 1 2 nna 
+: 1936 8 3 find 
+: 1946 5 5 out 
+- 1952
+: 1952 3 5 Who 
+: 1956 4 5 is 
+: 1962 5 7 naugh
+: 1968 2 5 ty 
+: 1972 3 3 and 
+: 1976 8 3 nice. 
+- 1986
+: 2000 7 2 San
+: 2008 1 5 ta 
+: 2010 9 -2 Claus 
+: 2020 5 2 is 
+: 2026 5 0 co
+: 2032 10 3 ming 
+: 2050 4 -3 to 
+: 2056 22 -2 town. 
+- 2080
+: 2116 4 -2 He 
+* 2122 8 0 sees 
+: 2132 12 -2 you 
+: 2146 3 -3 when 
+: 2150 2 -2 you’re 
+: 2154 5 -5 sleep
+: 2160 6 -5 ing. 
+- 2168
+: 2182 4 -2 He 
+* 2188 8 0 knows 
+: 2198 4 -2 when 
+: 2204 9 -3 you’re 
+: 2214 3 -2 a
+: 2218 8 -5 wake. 
+- 2228
+: 2246 4 0 He 
+* 2252 9 2 knows 
+: 2262 4 0 if 
+: 2268 8 -1 you’ve 
+: 2278 3 0 been 
+: 2282 11 -3 bad 
+: 2294 3 -3 or 
+: 2298 6 -3 good. 
+- 2305
+: 2306 3 -2 So 
+: 2310 2 0 be 
+: 2314 12 0 good 
+: 2330 3 -2 for 
+: 2334 3 -3 good
+: 2338 6 -5 ness 
+: 2346 6 -7 sake. 
+- 2354
+: 2372 6 5 Oh! 
+: 2380 1 2 You 
+: 2382 3 3 be
+: 2386 1 3 tter 
+: 2388 6 5 watch 
+: 2396 6 5 out. 
+- 2404
+: 2416 3 7 Be
+: 2420 1 9 tter 
+: 2422 6 10 not 
+: 2430 10 10 cry. 
+- 2442
+: 2448 3 2 Be
+: 2452 1 3 tter 
+: 2454 6 5 not 
+: 2462 8 5 pout. 
+- 2471
+: 2472 6 5 I’m 
+: 2480 5 7 te
+: 2486 3 5 lling 
+: 2490 3 3 you 
+: 2494 8 3 why: 
+- 2504
+: 2522 5 2 San
+: 2528 1 5 ta 
+: 2530 9 -2 Claus 
+: 2540 5 2 is 
+: 2546 5 0 com
+: 2552 10 3 ing 
+- 2564
+* 2596 12 2 To 
+* 2610 86 -2 town. 
+E

@@ -1,0 +1,284 @@
+#ARTIST:James Taylor
+#TITLE:Mexico
+#MP3:James Taylor - Mexico.mp3
+#CREATOR:Relisch
+#COVER:James Taylor - Mexico [CO].jpg
+#BACKGROUND:James Taylor - Mexico [BG].jpg
+#GENRE:Folk Rock
+#YEAR:1975
+#LANGUAGE:English
+#BPM:300
+#GAP:22220
+#VIDEO:a=VQnHAb_6sOs,co=https://i.discogs.com/Y9MFhj8w68RN7vy0b-Htz-_3fXi3X92xch8fYn12wio/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzA0/ODMtMTM2MzA4NzM1/NC03MTA3LmpwZWc.jpeg,preview=35.77,medley=0-1140
+: 0 2 8 Way 
+: 4 3 11 down 
+: 10 13 11 here, 
+: 36 2 6 you 
+: 40 3 8 need 
+: 46 3 8 a 
+: 50 9 8 reason
+: 61 4 6 ~ 
+: 66 4 3 to 
+: 71 9 4 move. 
+- 81
+: 83 3 8 Feel 
+: 87 3 11 a 
+: 92 11 11 fool 
+: 121 1 6 running
+: 124 3 8 ~ 
+: 129 5 8 your 
+: 135 4 8 stateside
+: 141 5 6 ~
+: 148 4 4 ~ 
+: 154 9 4 games 
+- 164
+: 166 2 8 Lose 
+: 169 4 11 your 
+: 175 11 11 load, 
+: 207 3 6 leave 
+: 211 4 8 your 
+: 216 13 8 mind 
+: 231 3 6 behind
+: 236 11 4 ~, 
+* 249 3 6 Baby
+* 253 3 1 ~ 
+* 258 9 1 James 
+- 269
+: 271 21 10 Whoa
+: 293 8 8 ~, 
+: 303 8 8 Mexico
+: 313 4 6 ~
+: 319 8 6 ~, 
+- 336
+: 340 4 6 It 
+: 345 5 15 sounds 
+: 353 5 13 so 
+: 360 7 13 simple
+: 368 4 10 ~, 
+: 376 5 10 I 
+: 382 9 10 just 
+: 392 4 8 got 
+: 398 3 6 to 
+: 403 11 6 go 
+- 420
+: 423 4 15 The 
+: 428 4 15 sun’s 
+: 433 9 13 so 
+: 444 7 15 hot 
+: 455 4 10 I 
+: 460 4 10 forgot
+: 466 7 10 ~ 
+: 475 4 8 to 
+: 481 7 6 go 
+: 490 11 6 home, 
+- 509
+: 512 5 4 Guess 
+: 518 9 3 I’ll 
+: 529 8 3 have 
+: 538 4 1 to 
+: 543 5 1 go 
+: 550 16 1 now 
+- 576
+: 596 3 9 “Americano”
+: 601 2 11 ~
+: 606 3 11 ~
+: 610 10 11 ~
+: 621 4 8 ~ 
+: 627 2 8 got 
+: 631 3 8 the 
+: 636 9 8 sleepy
+: 647 3 8 ~ 
+: 654 3 6 ey
+: 658 9 4 e 
+- 669
+: 671 3 8 But 
+: 675 4 11 his 
+: 680 4 11 body’s
+: 685 4 13 ~ 
+: 690 7 11 still 
+: 700 5 11 shaking
+: 706 3 8 ~ 
+: 715 4 8 like 
+: 721 3 6 a 
+: 726 9 8 live 
+: 737 3 6 wi
+: 741 6 4 re 
+- 757
+: 771 4 13 Sleepy
+: 776 3 11 ~ 
+: 781 7 11 senorita
+: 789 5 8 ~
+: 797 8 8 ~
+: 807 6 8 ~ 
+: 814 4 6 with 
+: 819 3 4 the 
+: 825 9 6 eyes 
+: 835 4 1 on 
+: 841 7 4 fire 
+- 853
+: 855 23 10 Whoa
+: 880 4 8 ~, 
+: 886 7 8 Mexico
+: 895 4 6 ~
+: 902 9 6 ~. 
+- 920
+: 924 3 6 It 
+: 929 5 15 sounds 
+: 935 5 13 so 
+: 943 7 13 sweet 
+* 955 4 10 with 
+* 960 3 10 the 
+* 965 10 10 sun 
+* 976 4 8 sinking
+* 982 3 6 ~ 
+* 987 10 6 low 
+- 1007
+: 1011 5 15 Moon’s 
+: 1018 5 13 so 
+: 1025 10 15 bright, 
+: 1039 3 10 like 
+: 1044 3 10 to 
+: 1049 7 10 light 
+: 1058 4 8 up 
+: 1064 2 6 the 
+: 1068 7 6 night, 
+- 1085
+: 1096 4 4 Make 
+: 1101 4 3 everything
+: 1106 4 3 ~
+: 1111 10 3 ~ 
+: 1123 8 1 all 
+: 1132 8 1 right 
+- 1180
+: 1511 4 8 Baby’s
+: 1516 4 11 ~ 
+: 1522 8 11 hungry
+: 1532 4 8 ~ 
+: 1538 3 8 and 
+: 1543 3 6 the 
+: 1548 4 8 money’s
+: 1553 3 4 ~ 
+: 1558 8 6 all 
+: 1568 12 4 gone 
+- 1580
+: 1582 3 11 The 
+: 1588 4 13 folks 
+: 1594 6 11 back 
+: 1603 8 8 home 
+: 1613 4 8 don’t 
+: 1619 4 8 want 
+: 1625 3 6 to 
+: 1630 3 8 talk 
+: 1635 3 6 on 
+: 1640 3 4 the 
+: 1645 10 4 phone 
+- 1662
+: 1665 4 11 She 
+: 1671 3 13 gets 
+: 1676 3 11 a 
+: 1680 8 11 long 
+: 1691 3 11 letter
+: 1695 2 6 ~, 
+- 1699
+: 1701 4 8 Sends 
+: 1706 9 8 back 
+: 1717 3 8 a 
+: 1722 5 6 postcard
+: 1729 8 4 ~, 
+* 1739 3 6 times 
+* 1744 4 1 are 
+* 1750 7 1 hard 
+- 1762
+: 1764 20 10 Whoa, 
+: 1786 3 10 down 
+: 1791 3 8 in 
+: 1796 7 8 Mexico
+: 1807 3 6 ~
+: 1812 8 6 ~, 
+- 1829
+: 1833 3 6 I 
+: 1838 4 15 never
+: 1843 4 13 ~ 
+: 1848 4 13 really
+: 1853 3 10 ~ 
+: 1859 7 10 been 
+: 1870 4 8 so 
+: 1875 4 6 I 
+: 1880 4 8 don’t 
+: 1886 3 10 really
+: 1891 3 8 ~ 
+: 1896 11 6 know 
+- 1916
+: 1919 7 15 Whoa
+: 1928 8 13 ~
+: 1938 8 10 ~
+: 1948 10 8 ~, 
+: 1962 9 8 Mexico
+: 1972 5 6 ~
+: 1978 9 6 ~, 
+: 1999 4 3 I 
+: 2004 5 4 guess 
+: 2010 8 3 I’ll 
+: 2020 9 3 have 
+: 2030 3 1 to 
+: 2036 5 1 go 
+- 2052
+: 2056 26 10 Whoa
+: 2083 3 8 ~, 
+: 2088 7 8 Mexico
+: 2097 5 6 ~
+: 2103 9 6 ~, 
+- 2121
+: 2125 3 6 I 
+: 2130 3 15 never
+: 2135 3 13 ~ 
+: 2139 4 13 really
+: 2145 3 10 ~ 
+: 2150 9 15 been 
+: 2161 4 10 but 
+: 2166 4 8 I’d 
+: 2171 5 13 sure 
+: 2177 5 10 like 
+: 2183 3 8 to 
+: 2187 6 6 go 
+- 2202
+: 2206 1 6 And 
+* 2210 17 18 oh
+* 2228 4 17 ~
+* 2233 4 15 ~
+* 2238 5 15 ~
+* 2244 4 13 ~
+* 2249 3 13 ~
+* 2254 4 10 ~, 
+: 2260 4 8 Mexico
+: 2265 4 10 ~
+: 2270 4 8 ~
+: 2275 6 6 ~, 
+- 2287
+: 2290 4 4 I 
+: 2296 4 4 guess 
+: 2301 9 3 I’ll 
+: 2312 4 3 have 
+: 2318 3 1 to 
+: 2322 7 1 go 
+: 2332 8 1 now 
+- 2360
+: 2398 5 10 Talking
+: 2405 4 8 ~ 
+: 2411 4 8 bout 
+: 2416 3 6 in 
+: 2422 7 8 Mexico
+: 2431 4 6 ~
+: 2437 16 6 ~. 
+- 2463
+F 2472 3 5 In 
+F 2476 3 5 a 
+F 2480 3 5 honkey-tonk
+F 2484 2 5 ~
+F 2487 6 5 ~ 
+F 2496 2 5 down 
+F 2499 2 5 in 
+F 2502 7 5 Mexico
+F 2512 4 5 ~
+F 2519 14 5 ~ 
+E

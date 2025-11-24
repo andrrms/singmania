@@ -1,0 +1,185 @@
+#ARTIST:Gigi D’Agostino
+#TITLE:L’amour toujours (Radio Edit)
+#MP3:Gigi D’Agostino - L’amour toujours (Radio Edit).mp3
+#CREATOR:Canni
+#YEAR:1999
+#LANGUAGE:English
+#BPM:270
+#GAP:14540
+#VIDEO:a=ME-3qLj-usk,co=lamour-toujours-54a7f2644e517.jpg,bg=https://aisvox-a.akamaihd.net/masters/1061235/gigi-dagostino-facebook-jpg.jpg
+: 0 10 2 I 
+: 12 10 4 still 
+: 24 6 6 be
+: 32 10 1 lieve 
+: 44 10 2 in 
+: 56 6 4 your 
+: 64 28 2 eyes 
+- 94
+: 96 10 7 I 
+: 108 10 6 just 
+: 120 6 7 don’t 
+: 128 10 9 care 
+- 139
+: 140 10 7 What 
+: 152 6 6 you’ve 
+: 160 10 4 done 
+: 172 10 6 in 
+: 184 6 9 your 
+: 192 24 6 life 
+- 218
+: 224 10 7 Ba
+: 236 10 6 by 
+- 247
+: 248 6 4 I’ll 
+: 256 10 2 al
+: 268 10 4 ways 
+: 280 6 6 be 
+: 288 10 1 here 
+: 300 10 2 by 
+: 312 6 4 your 
+: 320 28 2 side 
+- 350
+: 352 10 7 Don’t 
+: 364 10 6 leave 
+: 376 6 7 me 
+: 384 10 9 wai
+: 396 10 7 ting 
+: 408 6 6 too 
+: 416 10 4 long 
+- 427
+: 428 10 6 Please 
+: 440 6 9 come 
+: 448 24 6 by 
+- 474
+: 480 10 7 I, 
+: 492 10 6 I, 
+: 504 6 4 I, 
+: 512 10 2 I 
+: 524 10 4 still 
+: 536 6 6 be
+: 544 10 1 lieve 
+: 556 10 2 in 
+: 568 6 4 your 
+: 576 28 2 eyes 
+- 606
+: 608 10 7 There 
+: 620 10 6 is 
+: 632 6 7 no 
+: 640 10 9 choice 
+- 651
+: 652 10 7 I 
+: 664 6 6 be
+: 672 10 4 long 
+: 684 10 6 to 
+: 696 6 9 your 
+: 704 24 6 life 
+- 730
+: 736 10 7 Be
+: 748 10 6 cause 
+: 760 6 4 I 
+- 767
+: 768 10 2 I 
+: 780 10 4 live 
+: 792 6 6 to 
+: 800 10 1 love 
+: 812 10 2 you 
+: 824 6 4 some 
+: 832 28 2 day 
+- 862
+: 864 10 7 You’ll 
+: 876 10 6 be 
+: 888 6 7 my 
+: 896 10 9 ba
+: 908 10 7 by 
+- 919
+: 920 6 6 And 
+: 928 10 4 we’ll 
+: 940 10 6 fly 
+: 952 6 9 a
+: 960 24 6 way 
+- 985
+: 986 5 2 And 
+: 992 10 7 I’ll 
+: 1004 10 6 fly 
+: 1016 6 4 with 
+: 1024 31 2 you
+: 1056 31 1 ~
+: 1088 28 -1 ~ 
+- 1118
+: 1120 11 7 I’ll 
+: 1132 11 6 fly 
+: 1144 7 4 with 
+: 1152 31 2 you
+: 1184 31 4 ~
+: 1216 30 6 ~ 
+- 1247
+: 1248 11 7 I’ll 
+: 1260 11 6 fly 
+: 1272 7 7 with 
+: 1280 126 9 you... 
+- 1408
+: 1664 10 2 E
+: 1676 10 4 very 
+: 1688 6 6 day 
+: 1696 10 1 and 
+: 1708 10 2 e
+: 1720 6 4 very 
+: 1728 28 2 night 
+- 1758
+: 1760 10 7 I 
+: 1772 10 6 al
+: 1784 6 7 ways 
+: 1792 10 9 dream 
+: 1804 10 7 that 
+- 1815
+: 1816 6 6 You 
+: 1824 10 4 are 
+: 1836 10 6 by 
+: 1848 6 9 my 
+: 1856 24 6 side 
+- 1882
+: 1888 10 7 Oh 
+: 1900 10 6 ba
+: 1912 6 4 by 
+- 1919
+: 1920 10 2 E
+: 1932 10 4 very 
+: 1944 6 6 day 
+: 1952 10 1 and 
+: 1964 10 2 e
+: 1976 6 4 very 
+: 1984 28 2 night 
+- 2014
+: 2016 10 7 Well, 
+: 2028 10 6 I 
+: 2040 6 7 said 
+- 2047
+: 2048 10 9 E
+: 2060 10 7 very
+: 2072 6 6 thing’s 
+: 2080 4 4 gon
+: 2086 5 4 na 
+: 2092 10 6 be 
+: 2104 6 9 al
+: 2112 24 6 right 
+- 2137
+: 2138 5 2 And 
+: 2144 10 7 I’ll 
+: 2156 10 6 fly 
+: 2168 6 4 with 
+: 2176 31 2 you
+: 2208 31 1 ~
+: 2240 28 -1 ~ 
+- 2270
+: 2272 11 7 I’ll 
+: 2284 11 6 fly 
+: 2296 7 4 with 
+: 2304 31 2 you
+: 2336 31 4 ~
+: 2368 30 6 ~ 
+- 2399
+: 2400 11 7 I’ll 
+: 2412 11 6 fly 
+: 2424 7 7 with 
+: 2432 128 9 you... 
+E

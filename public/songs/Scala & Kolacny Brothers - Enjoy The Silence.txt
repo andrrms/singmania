@@ -1,0 +1,238 @@
+#ARTIST:Scala & Kolacny Brothers
+#TITLE:Enjoy The Silence
+#MP3:Scala & Kolacny Brothers - Enjoy The Silence.mp3
+#CREATOR:macgyver2809
+#YEAR:2006
+#LANGUAGE:English
+#BPM:234
+#GAP:16600
+#VIDEO:a=VFYvLnEuY-8,co=it-all-leads-to-this-5b3f620bee3fe.jpg,bg=scala--kolacny-brothers-5afa14f920bbe.jpg
+* 0 3 7 Words 
+: 4 3 7 like 
+: 8 5 8 vio
+: 14 6 7 lence 
+- 22
+: 32 3 6 Break 
+: 36 3 6 the 
+: 40 5 8 si
+: 46 10 6 lence 
+- 58
+: 68 3 3 Come 
+: 72 1 5 cra
+: 74 3 7 shing 
+: 78 6 3 in 
+- 86
+: 88 5 3 In
+: 94 5 3 to 
+: 100 3 3 my 
+: 104 1 5 lit
+: 106 3 7 tle 
+: 110 8 3 world 
+- 120
+: 126 1 7 Pain
+: 128 5 7 ful 
+: 134 5 8 to 
+* 140 6 7 me 
+- 148
+: 158 3 6 Pierce 
+: 162 3 6 right 
+: 166 5 8 through 
+* 172 6 6 me 
+- 180
+: 190 3 3 Can’t 
+: 194 3 3 you 
+: 198 1 5 un
+: 200 3 7 der
+: 204 6 3 stand 
+- 212
+: 218 3 3 O
+: 222 3 3 h 
+: 226 3 3 my 
+: 230 1 5 lit
+: 232 3 7 tle 
+* 236 6 3 girl 
+- 244
+: 254 1 8 All 
+: 256 1 8 I 
+: 258 3 8 ever 
+* 262 5 10 wan
+* 268 10 8 ted 
+- 280
+: 286 1 3 All 
+: 288 1 3 I 
+: 290 3 3 ever 
+* 294 5 5 nee
+* 300 5 3 ded 
+- 306
+: 306 3 3 Is 
+* 310 16 7 here 
+: 330 5 3 in 
+: 336 9 8 my 
+* 346 12 7 arms 
+- 360
+: 376 5 8 Words 
+: 382 5 8 are 
+: 388 7 10 ve
+: 396 8 8 ry 
+: 406 5 3 un
+: 412 5 3 ne
+: 418 3 3 ces
+: 422 5 5 sa
+: 428 4 3 ry 
+- 434
+: 438 9 7 They 
+: 448 5 7 can 
+: 454 5 8 on
+: 460 5 7 ly 
+: 466 3 5 do 
+* 470 24 3 harm 
+- 496
+: 818 3 7 Vows 
+: 822 3 7 are 
+: 826 5 8 spo
+: 832 6 7 ken 
+- 840
+: 850 3 6 To 
+: 854 3 6 be 
+: 858 5 8 bro
+: 864 6 6 ken 
+- 872
+: 882 3 3 Fee
+: 886 3 3 lings 
+: 890 1 5 are 
+: 892 3 7 in
+: 896 10 3 tense 
+- 908
+: 914 3 3 Words 
+: 918 3 3 are 
+: 922 1 5 tri
+: 924 3 7 vi
+: 928 4 3 al 
+- 934
+: 946 3 7 Plea
+: 950 3 7 sures 
+: 954 5 8 re
+: 960 10 7 main 
+- 972
+: 978 3 6 So 
+: 982 3 6 does 
+: 986 5 8 the 
+* 992 10 6 pain 
+- 1004
+* 1010 3 3 Words 
+: 1014 3 3 are 
+: 1018 1 5 mea
+: 1020 3 7 ning
+: 1024 6 3 less 
+- 1032
+: 1042 3 3 And 
+: 1046 3 3 for
+: 1050 1 5 get
+: 1052 3 7 tab
+: 1056 6 3 le 
+- 1064
+: 1074 1 8 All 
+: 1076 1 8 I 
+: 1078 3 8 ever 
+* 1082 5 10 wan
+* 1088 14 8 ted 
+- 1104
+: 1106 1 3 All 
+: 1108 1 3 I 
+: 1110 3 3 ever 
+* 1114 5 5 nee
+* 1120 5 3 ded 
+- 1126
+: 1126 3 3 Is 
+* 1130 16 7 here 
+: 1148 9 3 in 
+: 1158 7 8 my 
+: 1166 16 7 arms 
+- 1184
+: 1196 9 8 Words 
+: 1206 3 8 are 
+: 1210 5 10 ve
+: 1216 6 8 ry 
+: 1226 5 3 un
+: 1232 5 3 ne
+: 1238 3 3 ces
+: 1242 5 5 sa
+: 1248 4 3 ry 
+- 1254
+: 1258 8 7 They 
+: 1270 3 7 can 
+: 1274 3 8 on
+: 1278 3 7 ly 
+: 1282 5 5 do 
+* 1288 24 3 harm 
+- 1314
+: 1860 1 8 All 
+: 1862 1 8 I 
+: 1864 2 8 ever 
+* 1868 5 10 wan
+* 1874 14 8 ted 
+- 1890
+: 1892 1 3 All 
+: 1894 1 3 I 
+: 1896 2 3 ever 
+* 1900 5 5 nee
+* 1906 5 3 ded 
+- 1912
+: 1912 3 3 Is 
+* 1916 16 7 here 
+: 1936 7 3 in 
+: 1944 7 8 my 
+* 1952 16 7 arms 
+- 1970
+* 1988 3 8 Words 
+: 1992 3 8 are 
+: 1996 5 10 ve
+: 2002 6 8 ry 
+: 2012 5 3 un
+: 2018 5 3 ne
+: 2024 3 3 ces
+: 2028 5 5 sa
+: 2034 4 3 ry 
+- 2040
+* 2044 8 7 They 
+: 2056 3 7 can 
+: 2060 5 8 on
+: 2066 3 7 ly 
+: 2070 3 5 do 
+* 2074 30 3 harm 
+- 2106
+* 2112 1 8 All 
+: 2114 1 8 I 
+: 2116 2 8 ever 
+* 2120 5 10 wan
+* 2126 6 8 ted 
+- 2134
+* 2144 1 3 All 
+: 2146 1 3 I 
+: 2148 2 3 ever 
+* 2152 5 5 nee
+* 2158 5 3 ded 
+- 2164
+: 2164 3 3 Is 
+* 2168 16 7 here 
+: 2188 7 3 in 
+: 2196 7 8 my 
+* 2204 20 7 arms 
+- 2226
+* 2240 3 8 Words 
+: 2244 3 8 are 
+: 2248 5 10 ve
+: 2254 6 8 ry 
+: 2264 5 3 un
+: 2270 5 3 ne
+: 2276 3 3 ces
+: 2280 5 5 sa
+: 2286 4 3 ry 
+- 2292
+: 2296 8 7 They 
+: 2308 3 7 can 
+: 2312 3 8 on
+: 2316 3 7 ly 
+: 2320 7 5 do 
+* 2328 34 3 harm 
+E

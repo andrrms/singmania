@@ -1,0 +1,102 @@
+#ARTIST:My Little Pony
+#TITLE:My Little Pony Theme (Short)
+#MP3:My Little Pony - My Little Pony Theme (Short).mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2010
+#LANGUAGE:English
+#BPM:229.7
+#GAP:1220
+#VIDEO:v=dtMesafhSYI,co=https://i.scdn.co/image/ab67616d0000b2734c5dae56898ceea1c28aaeb6,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 3 6 My 
+: 4 2 9 Lit
+: 7 2 6 tle 
+: 10 5 4 Po
+: 17 7 9 ny, 
+: 27 3 2 My 
+: 31 2 4 Lit
+: 34 3 2 tle 
+: 38 5 1 Po
+: 44 7 -3 ny 
+- 53
+: 56 7 -1 Ah
+: 64 7 1 -ah
+: 72 5 2 -ah
+: 79 6 4 -ah
+: 87 25 2 -ah 
+- 114
+: 121 1 6 I 
+: 123 2 6 used 
+: 126 1 6 to 
+: 128 2 6 won
+: 131 2 2 der 
+: 134 3 4 what 
+: 138 2 2 friend
+: 141 5 6 ship 
+: 147 3 4 could 
+: 151 8 2 be 
+- 161
+: 181 1 2 Un
+: 183 1 4 til 
+: 185 3 6 you 
+: 189 2 9 all 
+: 192 3 9 shared 
+: 196 3 6 its 
+: 200 3 4 ma
+: 204 2 2 gic 
+: 207 3 6 with 
+: 211 6 4 me 
+- 219
+: 222 2 2 Big 
+: 225 1 2 ad
+: 227 3 2 ven
+: 231 3 4 tures, 
+: 235 3 7 tons 
+: 239 3 9 of 
+: 243 6 7 fun 
+- 250
+: 250 1 2 A 
+: 252 1 4 beau
+: 254 1 4 ti
+: 256 2 4 ful 
+: 259 4 4 heart, 
+: 264 4 2 faith
+: 269 1 4 ful 
+: 271 2 6 and 
+: 274 7 4 strong 
+- 283
+: 285 2 2 Sha
+: 288 3 4 ring 
+: 292 3 6 kind
+: 296 2 2 ness, 
+: 299 1 7 it’s 
+: 301 1 7 an 
+: 303 1 9 ea
+: 305 2 11 sy 
+: 308 5 9 feat 
+- 314
+: 315 2 2 And 
+: 318 3 4 ma
+: 322 3 4 gic 
+: 326 3 4 makes 
+: 330 3 6 it 
+: 334 2 11 all 
+: 337 2 9 com
+: 340 4 9 plete 
+- 345
+: 345 1 5 You 
+: 347 2 7 are 
+: 352 25 8 my~ 
+- 379
+: 380 2 2 Do 
+: 383 1 4 you 
+: 385 2 6 know 
+: 388 3 2 you’re 
+: 392 2 7 all 
+: 395 4 6 my 
+: 400 2 4 ve
+: 403 4 2 ry 
+: 408 6 6 best 
+* 418 61 2 friends 
+E

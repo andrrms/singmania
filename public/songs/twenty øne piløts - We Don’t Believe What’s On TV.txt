@@ -1,0 +1,403 @@
+#ARTIST:twenty øne piløts
+#TITLE:We Don’t Believe What’s On TV
+#MP3:twenty øne piløts - We Don’t Believe What’s On TV.mp3
+#CREATOR:gun8
+#GENRE:Alternative, Indie, Rap
+#YEAR:2015
+#LANGUAGE:English
+#BPM:240.08
+#GAP:7600
+#VIDEO:a=zZEumf7RowI,co=https://images.coveralia.com/audio/t/Twenty_One_Pilots-We_Don_t_Believe_What_s_On_TV_(CD_Single)-Frontal.jpg,bg=twenty-one-pilots-60c21e557c99d.jpg
+F 0 1 3 Yeah 
+F 4 2 3 yeah 
+F 8 2 3 yeah! 
+- 42
+: 132 3 1 We 
+: 136 1 -1 don’t 
+: 138 1 -3 be
+: 140 6 -6 lieve 
+: 152 2 -8 what’s 
+: 156 8 4 on 
+: 168 3 2 T
+: 172 4 1 V 
+- 186
+* 196 1 1 Be
+: 198 1 -1 cause 
+: 200 3 -3 it’s 
+: 204 6 -6 what 
+* 216 2 -8 we 
+: 220 9 4 want 
+: 232 2 2 to 
+: 236 7 1 see 
+- 253
+: 260 3 1 And 
+: 264 1 -1 what 
+: 266 3 -3 we 
+: 270 6 -1 want 
+: 280 1 -3 we 
+: 282 3 -3 know 
+: 286 6 -4 we 
+: 294 3 -3 can’t 
+: 298 3 -3 be
+: 302 6 -3 lieve 
+- 320
+: 324 3 1 We 
+: 328 1 -1 have 
+: 330 3 -3 all 
+: 334 4 -1 learned 
+: 344 3 -3 to 
+: 348 4 -4 kill 
+: 360 3 -3 our 
+: 364 6 -3 dreams 
+- 380
+: 392 3 -8 I 
+: 396 3 -1 need 
+: 400 3 1 to 
+: 404 6 -1 know 
+- 420
+: 424 3 -8 That 
+: 428 1 -1 when 
+: 430 4 1 I 
+: 436 8 -1 fail 
+: 448 2 -3 you’ll 
+: 452 2 -4 still 
+: 456 5 -3 be 
+: 464 4 -8 here 
+- 478
+* 492 20 -5 Mhh 
+- 518
+: 520 3 -3 ’Cause 
+: 524 3 -1 if 
+: 528 3 1 you 
+: 532 3 -1 stick 
+: 536 1 -3 a
+: 538 6 -1 round 
+- 546
+: 548 4 -1 I’ll 
+: 556 3 -1 sing 
+: 560 3 1 you 
+: 564 1 -1 pret
+: 566 3 -3 ty 
+: 570 4 -1 sounds 
+- 576
+: 578 3 -1 And 
+* 582 1 -1 we’ll 
+: 584 3 -1 make 
+: 588 3 -1 mon
+: 592 6 1 ey 
+: 600 3 -1 sell
+: 604 2 -1 ing 
+: 608 5 -3 your 
+: 616 6 -4 hair 
+- 632
+: 652 2 1 I 
+: 656 5 1 don’t 
+: 664 8 1 care 
+: 676 3 -1 what’s 
+: 680 4 -1 in 
+: 686 4 -3 your 
+: 694 9 -3 hair 
+- 704
+: 706 3 -1 I 
+: 710 3 -3 just 
+* 714 2 1 wan
+: 717 2 -1 na 
+: 720 3 1 know 
+: 724 3 -1 what’s 
+: 728 3 1 on 
+: 732 5 1 your 
+: 739 5 -1 mind 
+- 754
+: 772 1 1 I 
+: 774 3 1 used 
+: 778 5 1 to 
+: 784 6 4 say 
+* 792 2 4 “I 
+: 795 3 6 wan
+: 799 3 6 na 
+: 803 4 1 die 
+: 808 2 -3 be
+: 811 3 -1 fore 
+: 815 2 -3 I’m 
+: 818 5 -3 old” 
+- 824
+: 826 3 -1 But 
+: 830 3 -3 be
+: 834 3 1 cause 
+: 838 2 -1 of 
+: 841 3 1 you 
+: 845 2 -1 I 
+: 848 3 1 might 
+: 852 5 1 think 
+: 860 7 -1 twice 
+- 879
+F 883 3 3 Yeah 
+F 887 3 3 yeah 
+F 891 3 3 yeah! 
+- 910
+F 946 2 3 Yeah 
+F 950 2 3 yeah 
+F 955 3 3 yeah! 
+- 970
+F 974 3 3 Al
+F 978 6 3 right 
+- 991
+F 994 2 3 Sec
+F 997 1 3 ond 
+F 999 3 3 verse 
+- 1011
+: 1014 2 1 What 
+: 1017 2 -1 if 
+: 1020 2 -3 my 
+: 1024 7 -6 dream 
+: 1034 3 -8 does 
+: 1040 6 4 not 
+: 1050 2 2 hap
+: 1055 5 1 pen? 
+- 1070
+: 1078 2 1 Would 
+* 1081 2 -1 I 
+: 1084 2 -3 just 
+: 1087 6 -6 change 
+- 1095
+: 1097 2 -6 What 
+: 1100 2 -8 I’ve 
+: 1103 9 4 told 
+: 1115 2 2 my 
+: 1119 5 1 friends? 
+- 1134
+: 1142 2 1 Don’t 
+* 1145 2 -1 wan
+: 1148 2 -3 na 
+: 1151 7 -1 know 
+: 1162 4 -3 who 
+: 1167 8 -4 I 
+: 1177 4 -3 would 
+: 1183 5 -3 be 
+- 1198
+: 1206 2 1 When 
+: 1209 2 -1 I 
+: 1212 2 -3 wake 
+: 1215 6 -1 up 
+: 1225 2 -3 from 
+: 1228 1 -3 a 
+: 1230 5 -4 dream
+: 1237 6 -3 er’s 
+: 1247 6 -3 sleep 
+- 1263
+: 1275 3 -8 I 
+: 1279 3 -1 need 
+: 1283 3 1 to 
+: 1287 6 -1 know 
+- 1303
+: 1307 3 -8 That 
+* 1311 1 -1 when 
+: 1313 4 1 I 
+: 1319 8 -1 fail 
+: 1331 2 -3 you’ll 
+: 1335 2 -4 still 
+: 1339 5 -3 be 
+: 1347 4 -8 here 
+- 1361
+: 1375 20 -5 Mhh 
+- 1401
+: 1403 3 -3 ’Cause 
+: 1407 3 -1 if 
+* 1411 3 1 you 
+: 1415 3 -1 stick 
+: 1419 1 -3 a
+: 1421 6 -1 round 
+- 1429
+: 1431 4 -1 I’ll 
+: 1439 3 -1 sing 
+: 1443 3 1 you 
+: 1447 1 -1 pret
+: 1449 3 -3 ty 
+: 1453 4 -1 sounds 
+- 1459
+: 1461 3 -1 And 
+: 1465 1 -1 we’ll 
+: 1467 3 -1 make 
+: 1471 3 -1 mon
+: 1475 6 1 ey 
+: 1483 3 -1 sell
+: 1487 2 -1 ing 
+: 1491 5 1 your 
+: 1499 6 2 hair 
+- 1515
+: 1535 2 1 I 
+* 1539 5 1 don’t 
+: 1547 8 1 care 
+: 1559 3 -1 what’s 
+: 1563 4 -1 in 
+: 1569 4 -3 your 
+: 1577 9 -3 hair 
+- 1587
+: 1589 3 -1 I 
+: 1593 3 -3 just 
+: 1597 2 1 wan
+: 1600 2 -1 na 
+: 1603 3 1 know 
+: 1607 3 -1 what’s 
+: 1611 3 1 on 
+: 1615 5 1 your 
+: 1622 5 -1 mind 
+- 1637
+: 1655 1 1 I 
+: 1657 3 1 used 
+: 1661 5 1 to 
+: 1667 6 4 say 
+* 1675 2 4 “I 
+* 1678 3 6 wan
+: 1682 3 6 na 
+: 1686 4 1 die 
+: 1691 2 -3 be
+: 1694 3 -1 fore 
+: 1698 2 -3 I’m 
+: 1701 5 -3 old” 
+- 1707
+: 1709 3 -1 But 
+: 1713 3 -3 be
+: 1717 3 1 cause 
+: 1721 2 -1 of 
+: 1724 3 1 you 
+: 1728 2 -1 I 
+: 1731 3 1 might 
+: 1735 5 1 think 
+: 1743 7 -1 twice 
+- 1760
+: 1774 2 1 I 
+: 1778 5 1 don’t 
+: 1786 8 1 care 
+: 1798 3 -1 what’s 
+: 1802 4 -1 in 
+: 1808 4 -3 your 
+: 1816 9 -3 hair 
+- 1826
+: 1828 3 -1 I 
+: 1832 3 -3 just 
+* 1836 2 1 wan
+: 1839 2 -1 na 
+: 1842 3 1 know 
+: 1846 3 -1 what’s 
+: 1850 3 1 on 
+: 1854 5 1 your 
+: 1861 5 -1 mind 
+- 1876
+: 1894 1 1 I 
+: 1896 3 1 used 
+: 1900 5 1 to 
+: 1906 6 4 say 
+* 1914 2 4 “I 
+: 1917 3 6 wan
+: 1921 3 6 na 
+: 1925 4 1 die 
+: 1930 2 -3 be
+: 1933 3 -1 fore 
+: 1937 2 -3 I’m 
+: 1940 5 -3 old” 
+- 1946
+: 1948 3 -1 But 
+: 1952 3 -3 be
+* 1956 3 1 cause 
+: 1960 2 -1 of 
+: 1963 3 1 you 
+: 1967 2 -1 I 
+: 1970 3 1 might 
+: 1974 5 1 think 
+: 1982 7 -1 twice 
+- 2005
+F 2039 2 3 Yeah 
+F 2042 2 3 yeah 
+F 2045 3 3 yeah! 
+- 2064
+F 2087 8 3 Ah 
+- 2098
+F 2100 3 3 Yeah 
+F 2104 3 3 yeah 
+F 2109 3 3 yeah! 
+- 2128
+F 2165 2 3 Yeah 
+F 2169 1 3 yeah 
+F 2173 1 3 yeah! 
+- 2174
+: 2176 6 6 Oh 
+* 2185 6 8 oh 
+: 2193 6 4 oh 
+: 2201 4 6 oh 
+: 2208 12 1 oh 
+- 2226
+F 2228 1 3 Yeah 
+F 2232 1 3 yeah 
+F 2236 1 3 yeah! 
+- 2238
+: 2240 7 1 Oh 
+: 2249 5 4 oh 
+: 2256 5 -1 oh 
+: 2264 5 1 oh 
+: 2272 12 -3 oh 
+- 2290
+F 2292 1 3 Yeah 
+F 2296 1 3 yeah 
+F 2300 2 3 yeah! 
+- 2303
+: 2305 6 6 Oh 
+: 2313 5 8 oh 
+: 2321 5 4 oh 
+: 2328 5 6 oh 
+: 2336 12 1 oh 
+- 2354
+F 2356 2 3 Yeah 
+F 2360 2 3 yeah 
+F 2364 2 3 yeah! 
+- 2367
+: 2369 6 1 Oh 
+: 2377 5 4 oh 
+: 2384 5 -1 oh 
+: 2392 5 1 oh 
+: 2400 12 -3 oh 
+- 2418
+F 2420 2 3 Yeah 
+F 2425 1 3 yeah 
+F 2430 1 3 yeah! 
+- 2431
+: 2433 6 6 Oh 
+* 2441 5 8 oh 
+: 2449 5 4 oh 
+: 2457 5 6 oh 
+: 2465 12 1 oh 
+- 2482
+F 2484 1 3 Yeah 
+F 2489 1 3 yeah 
+F 2493 1 3 yeah! 
+- 2496
+: 2498 6 1 Oh 
+* 2507 6 4 oh 
+: 2515 6 -1 oh 
+: 2522 5 1 oh 
+: 2529 12 -3 oh 
+- 2546
+F 2548 1 3 Yeah 
+F 2552 1 3 yeah 
+F 2556 2 3 yeah! 
+- 2559
+: 2561 7 6 Oh 
+: 2570 4 8 oh 
+: 2577 4 4 oh 
+: 2585 5 6 oh 
+: 2593 12 1 oh 
+- 2610
+F 2612 1 3 Yeah 
+F 2616 1 3 yeah 
+F 2620 1 3 yeah! 
+- 2624
+: 2626 6 1 Oh 
+: 2635 5 4 oh 
+: 2642 5 -1 oh 
+: 2650 5 1 oh 
+: 2657 12 -3 oh 
+- 2674
+F 2676 1 3 Yeah 
+F 2680 2 3 yeah 
+F 2684 4 3 yeah! 
+E

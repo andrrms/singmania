@@ -1,0 +1,229 @@
+#ARTIST:Xandee
+#TITLE:1 Life (ESC 2004 Belgium)
+#MP3:Xandee - 1 Life (ESC 2004 Belgium).mp3
+#CREATOR:claudio bertozzi
+#EDITION:Eurovision Song Contest 2004
+#GENRE:Pop
+#YEAR:2004
+#LANGUAGE:English
+#BPM:260
+#GAP:28960
+#VIDEO:a=KhQ8dgugrWA,co=https://i.discogs.com/HkfXCT3ijbsnukvSrCUDIoA4bcgHzdREvOgtpKYGMW8/rs:fit/g:sm/q:90/h:558/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ2/NTgtMTM2NzA5NTIz/Ni03MjQ1LmpwZWc.jpeg
+: 0 3 3 Lift 
+: 4 3 6 me 
+: 8 4 10 up 
+- 14
+: 32 3 3 Take 
+: 36 3 6 me 
+: 40 4 10 down 
+- 46
+: 64 3 3 You 
+: 68 3 6 can 
+: 72 7 8 turn 
+: 80 7 6 my 
+: 88 7 5 world 
+: 96 7 1 a
+: 104 8 3 round 
+- 114
+: 128 3 3 I 
+: 132 3 6 can 
+: 136 4 10 hear 
+- 142
+: 168 3 3 What 
+: 172 3 8 peo
+: 176 7 8 ple 
+: 184 8 6 say 
+- 194
+: 204 7 1 It 
+: 212 8 1 doesn’t 
+: 224 3 1 matter 
+: 228 3 1 any
+: 232 12 3 way 
+- 246
+: 272 3 5 We’re 
+: 276 3 5 not 
+: 280 3 5 the 
+: 284 5 5 same 
+: 290 2 5 but 
+- 294
+: 304 3 6 So 
+: 308 1 6 much 
+: 312 1 6 a
+: 314 6 6 like 
+- 322
+: 332 3 5 You 
+: 336 3 5 are 
+: 340 3 5 my 
+: 344 7 5 bro
+: 352 2 5 ther 
+- 356
+: 360 3 5 My 
+: 364 3 10 sis
+: 368 3 10 ter 
+: 372 3 10 to
+: 376 4 10 night 
+- 382
+: 384 3 10 We 
+: 388 4 10 got 
+- 394
+: 396 8 10 One 
+: 412 8 10 Life 
+- 422
+: 428 5 6 Living 
+: 434 5 8 to
+: 440 3 10 ge
+: 444 5 11 ther 
+: 450 5 10 in 
+- 456
+: 456 3 6 O
+: 460 8 8 ~ne
+: 476 8 8 life 
+- 486
+: 492 5 6 Let 
+: 498 5 5 us 
+: 504 7 5 be 
+: 512 11 5 free 
+- 524
+: 524 8 10 One 
+: 540 8 10 Life 
+- 550
+: 556 5 6 You 
+: 562 5 8 take 
+: 568 3 10 my 
+: 572 5 11 trou
+: 578 5 10 bles 
+: 584 3 6 a
+: 588 8 8 way 
+- 598
+: 604 5 6 Light 
+: 610 5 5 up 
+: 616 3 3 my 
+: 620 23 3 day-
+: 644 2 15 ya! 
+- 648
+: 1024 3 3 You 
+: 1028 3 6 came 
+: 1032 4 10 here 
+- 1038
+: 1056 3 3 In 
+: 1060 3 6 the 
+: 1064 4 10 night 
+- 1070
+: 1088 3 3 Take 
+: 1092 3 6 the 
+: 1096 7 8 wor
+: 1104 7 6 ries 
+: 1112 7 5 of 
+: 1120 7 1 your 
+: 1128 8 3 mind 
+- 1138
+: 1152 3 3 In 
+: 1156 3 6 your 
+: 1160 4 10 eyes 
+- 1166
+: 1192 3 3 Be
+: 1196 3 8 neath 
+: 1200 7 8 your 
+: 1208 8 6 skin 
+- 1218
+: 1228 7 1 I 
+: 1236 8 1 feel 
+: 1248 3 1 the 
+: 1252 3 1 pain 
+: 1256 12 3 you’re 
+: 1296 3 5 in 
+- 1300
+: 1300 3 5 We’re 
+: 1304 3 5 not 
+: 1308 5 5 the 
+: 1314 2 5 same 
+: 1328 3 6 but 
+- 1332
+: 1332 1 6 So 
+: 1336 1 6 much 
+: 1338 6 6 alike 
+- 1346
+: 1356 3 5 You 
+: 1360 3 5 are 
+: 1364 3 5 my 
+: 1368 7 5 brother 
+- 1376
+: 1376 2 5 My 
+: 1384 3 5 sis
+: 1388 3 10 ter 
+: 1392 3 10 to
+: 1396 3 10 ni
+: 1400 4 10 ~ght 
+- 1406
+: 1408 3 10 We 
+: 1412 4 10 got 
+- 1418
+: 1420 8 10 One 
+: 1436 8 10 Life 
+- 1446
+: 1452 5 6 Li
+: 1458 5 8 ving 
+: 1464 3 10 to
+: 1468 5 11 ge
+: 1474 5 10 ther 
+: 1480 3 6 in 
+- 1484
+: 1484 8 8 One 
+: 1500 8 8 Life 
+- 1510
+: 1516 5 6 Let 
+: 1522 5 5 us 
+: 1528 7 5 be 
+: 1536 11 5 free 
+- 1548
+: 1548 8 10 One 
+: 1564 8 10 Life 
+- 1574
+: 1580 5 6 You 
+: 1586 5 8 take 
+: 1592 3 10 my 
+: 1596 5 11 trou
+: 1602 5 10 bles 
+: 1608 3 6 a
+: 1612 8 8 way 
+- 1622
+: 1628 5 6 Light 
+: 1634 5 5 up 
+: 1640 3 3 my 
+: 1644 23 3 day-
+: 1668 2 15 ya! 
+- 1672
+: 2188 8 10 One 
+: 2204 8 10 Life 
+- 2214
+: 2220 5 6 Li
+: 2226 5 8 ving 
+: 2232 3 10 to
+: 2236 5 11 ge
+: 2242 5 10 ther 
+: 2248 3 6 in 
+- 2252
+: 2252 8 8 One 
+: 2268 8 8 Life 
+- 2278
+: 2284 5 6 Let 
+: 2290 5 5 us 
+: 2296 7 5 be 
+: 2304 11 5 free 
+- 2316
+: 2316 8 10 One 
+: 2332 8 10 Life 
+- 2342
+: 2348 5 6 You 
+: 2354 5 8 take 
+: 2360 3 10 my 
+: 2364 5 11 trou
+: 2370 5 10 bles 
+: 2376 7 6 a
+: 2384 28 8 way 
+- 2414
+: 2428 5 10 Light 
+: 2434 5 10 up 
+: 2440 5 15 my 
+: 2446 29 15 day! 
+E

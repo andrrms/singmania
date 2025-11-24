@@ -1,0 +1,223 @@
+#ARTIST:Night Ranger
+#TITLE:Sister Christian
+#MP3:Night Ranger - Sister Christian.mp3
+#CREATOR:blaustein
+#YEAR:1983
+#LANGUAGE:English
+#BPM:365.07
+#GAP:23640
+#VIDEO:v=z92bmlcmyq0,co=https://is1-ssl.mzstatic.com/image/thumb/Music/42/7f/cc/mzi.wrgnqvzg.tif/5000x5000bb.jpg,bg=night-ranger-4fdc95d4a84da.jpg
+: 0 6 4 Sis
+: 8 6 4 ter 
+: 16 6 4 Christ
+: 25 6 4 ian, 
+: 34 6 2 oh 
+: 42 6 0 the 
+: 51 13 -3 time 
+: 68 8 4 has 
+: 78 24 2 come 
+- 104
+: 136 6 4 And 
+: 144 6 4 you 
+: 152 6 4 know 
+: 160 6 4 that 
+: 168 6 2 you’re 
+: 176 6 0 the 
+: 185 9 -3 on
+: 199 6 4 ly 
+: 210 22 2 one 
+- 234
+: 236 6 0 To 
+: 243 17 -1 say 
+: 300 6 -3 o
+: 308 16 -5 kay 
+- 326
+: 396 6 4 Where 
+: 404 6 4 you 
+: 412 6 4 go
+: 420 6 4 ing, 
+: 429 6 2 what 
+: 438 6 0 you 
+: 447 6 -3 look
+: 456 11 4 ing 
+: 472 20 2 for 
+- 494
+: 516 5 4 You 
+: 524 6 4 know 
+: 533 6 4 those 
+: 542 6 4 boys 
+: 551 6 4 don’t 
+: 559 6 2 want 
+: 567 6 0 to 
+: 575 11 -3 play 
+: 591 9 4 no 
+: 606 14 2 more 
+- 622
+: 625 6 0 With 
+: 633 9 -1 you, 
+: 689 6 -3 it’s 
+: 697 15 -5 true 
+- 714
+: 1021 6 -5 You’re 
+: 1029 6 7 mo
+: 1037 7 7 to
+: 1046 22 4 ring, 
+: 1094 15 10 what’s 
+: 1110 15 9 your 
+: 1127 14 7 price 
+: 1142 7 5 for 
+: 1151 21 7 flight 
+- 1174
+: 1216 6 0 In 
+: 1224 13 10 find
+: 1239 15 9 ing 
+: 1256 12 5 mis
+: 1272 8 5 ter 
+: 1281 29 7 right, 
+: 1345 8 0 you’ll 
+: 1354 12 5 be 
+: 1371 11 5 al
+: 1385 15 4 right 
+: 1402 5 0 to
+: 1410 21 -2 night 
+- 1433
+: 1564 6 4 Babe, 
+: 1573 6 4 you 
+: 1582 6 4 know 
+: 1590 6 4 you’re 
+: 1598 6 2 grow
+: 1606 6 0 ing 
+: 1614 6 -3 up 
+: 1624 6 4 so 
+: 1639 21 2 fast 
+- 1662
+: 1688 6 -5 And 
+: 1696 6 4 ma
+: 1704 6 4 ma’s 
+: 1712 6 4 wor
+: 1720 6 4 ry
+: 1728 7 2 ing 
+: 1736 6 0 that 
+: 1744 12 -3 you 
+: 1760 14 4 won’t 
+: 1776 15 2 last 
+- 1792
+: 1792 5 0 To 
+: 1798 10 -1 say 
+: 1857 7 -3 let’s 
+: 1866 5 -3 play
+: 1872 12 -4 ~ 
+- 1886
+: 1954 6 4 Sis
+: 1962 6 4 ter 
+: 1970 6 4 Christ
+: 1978 6 4 ian 
+: 1987 6 2 there’s 
+: 1995 6 0 so 
+: 2003 6 -3 much 
+: 2020 6 4 in 
+: 2028 20 2 life 
+- 2050
+: 2084 6 4 Don’t 
+: 2092 6 4 you 
+: 2100 6 4 give 
+: 2108 6 4 it 
+: 2116 6 2 up 
+: 2124 6 0 be
+: 2132 12 -3 fore 
+: 2148 8 4 your 
+: 2164 14 2 time 
+: 2180 6 0 is 
+: 2188 16 -1 due 
+- 2206
+: 2247 5 -3 It’s 
+: 2256 17 -5 true. 
+: 2376 7 4 It’s 
+* 2384 99 7 true. 
+: 2530 4 7 Yeah
+: 2535 8 4 ~
+: 2544 33 0 ~ 
+- 2579
+: 2587 6 7 Mo
+: 2595 6 7 to
+: 2603 21 4 ring, 
+* 2652 14 10 what’s 
+: 2668 13 9 your 
+: 2684 14 7 price 
+: 2700 7 5 for 
+: 2708 15 7 flight 
+- 2725
+: 2772 7 0 In 
+* 2780 15 10 find
+: 2796 15 9 ing 
+: 2812 13 5 mis
+: 2828 7 5 ter 
+: 2836 26 7 right, 
+: 2902 7 0 you’ll 
+: 2910 10 5 be 
+: 2928 10 5 al
+: 2942 16 4 right 
+: 2959 5 0 to
+: 2967 25 -2 night 
+- 2994
+: 3949 6 7 Mo
+: 3957 6 7 to
+* 3965 20 4 ring, 
+: 4014 6 10 what’s 
+: 4031 6 9 your 
+: 4047 6 7 price 
+: 4063 6 5 for 
+: 4072 17 7 flight 
+- 4091
+: 4136 7 0 In 
+: 4144 15 10 find
+: 4160 12 9 ing 
+: 4176 6 5 mis
+: 4191 6 5 ter 
+: 4200 6 7 right, 
+: 4266 8 0 you’ll 
+: 4275 10 5 be 
+: 4291 11 5 al
+: 4306 15 4 right 
+: 4344 6 0 to
+: 4352 23 -2 night 
+- 4377
+: 4746 6 4 Sis
+: 4754 4 4 ter 
+: 4761 6 4 Christ
+: 4770 6 4 ian 
+: 4778 6 2 oh 
+: 4786 6 0 the 
+: 4794 6 -3 time 
+: 4810 6 4 has 
+: 4818 21 2 come 
+- 4841
+: 4875 6 4 And 
+: 4883 6 4 you 
+: 4891 6 4 know 
+: 4899 6 4 that 
+: 4907 6 2 you’re 
+: 4915 6 0 the 
+: 4923 6 -3 on
+: 4938 6 4 ly 
+: 4947 25 2 one 
+- 4974
+: 4975 6 0 To 
+: 4982 7 -1 say
+: 4990 10 -1 ~ 
+: 5062 5 -3 o
+: 5071 8 -3 kay
+: 5080 9 -5 ~ 
+- 5091
+: 5168 3 -5 But 
+: 5172 2 -5 you’re 
+: 5176 7 7 mo
+: 5184 6 7 to
+: 5192 17 4 ring 
+- 5211
+: 5253 79 9 Yeah 
+: 5362 12 7 mo
+: 5383 4 7 to
+: 5395 13 7 ring
+* 5409 54 4 ~ 
+E

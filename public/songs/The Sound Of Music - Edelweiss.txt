@@ -1,0 +1,141 @@
+#ARTIST:The Sound Of Music
+#TITLE:Edelweiss
+#MP3:The Sound Of Music - Edelweiss.mp3
+#CREATOR:leaby
+#GENRE:Soundtrack
+#YEAR:1965
+#LANGUAGE:English
+#BPM:272
+#GAP:12310
+#VIDEO:v=tu-lcwhZcEs,co=the-sound-of-music-original-soundtrack-recording--super-delu-6667232ba79eb.jpg,bg=the-sound-of-music-5afc50c8668ab.jpg
+: 0 16 13 E
+: 18 6 16 del
+: 26 26 23 weiss, 
+: 67 12 21 E
+* 81 4 16 del
+: 88 21 14 weiss 
+- 107
+: 130 7 13 Ev’
+: 141 5 13 ry 
+: 148 10 13 mor
+: 159 7 14 ning 
+: 169 4 16 you 
+: 178 29 18 greet 
+: 209 17 16 me 
+- 228
+: 242 20 13 Small 
+: 265 6 16 and 
+: 273 19 23 white 
+- 294
+* 306 18 21 Clean 
+: 328 6 16 and 
+: 336 23 14 bright 
+- 361
+: 372 13 13 You 
+: 388 10 16 look 
+: 404 8 16 hap
+: 414 7 18 py 
+: 424 6 20 to 
+: 432 28 21 meet 
+: 464 20 21 me 
+- 486
+: 496 14 23 Blos
+: 511 3 16 som 
+: 516 4 16 of 
+: 524 12 20 snow 
+- 537
+: 538 7 18 May 
+: 546 7 16 you 
+: 554 19 13 bloom 
+: 575 8 16 and 
+: 585 18 21 grow 
+- 605
+: 616 17 18 Bloom 
+: 635 7 21 and 
+: 646 16 23 grow 
+- 664
+: 667 8 21 For
+: 677 25 20 e
+: 707 19 16 ver 
+- 728
+* 742 16 13 E
+: 761 5 16 del
+: 769 16 23 weiss, 
+: 808 9 21 E
+: 820 5 16 del
+* 828 20 14 weiss 
+- 850
+: 866 13 13 Bless 
+: 888 6 16 my 
+: 896 7 16 home
+: 905 11 18 land 
+: 918 10 20 for
+: 930 31 21 e
+: 964 22 21 ver 
+- 988
+: 1068 16 13 E
+: 1090 6 16 del
+: 1098 30 23 weiss, 
+: 1132 12 21 E
+: 1150 6 16 del
+: 1160 24 14 weiss 
+- 1186
+: 1197 11 13 Ev’
+: 1210 5 13 ry 
+: 1220 10 13 mor
+: 1232 7 14 ning 
+: 1241 4 16 you 
+: 1249 29 18 greet 
+: 1282 17 16 me 
+- 1301
+: 1314 21 13 Small 
+: 1337 6 16 and 
+: 1345 25 23 white 
+- 1372
+: 1376 19 21 Clean 
+: 1397 7 16 and 
+: 1406 22 14 bright 
+- 1430
+: 1439 12 13 You 
+: 1456 7 16 look 
+: 1468 9 16 hap
+: 1478 6 18 py 
+: 1486 8 20 to 
+: 1498 25 21 meet 
+* 1527 21 21 me 
+- 1550
+: 1557 15 23 Blos
+: 1574 5 16 som 
+: 1580 4 16 of 
+: 1586 11 20 snow 
+- 1598
+: 1598 6 18 May 
+: 1607 6 16 you 
+: 1616 17 13 bloom 
+: 1636 6 16 and 
+: 1644 21 21 grow 
+- 1667
+: 1676 18 18 Bloom 
+: 1696 8 21 and 
+: 1706 16 23 grow 
+- 1724
+: 1728 7 21 For
+: 1737 26 20 e
+* 1766 20 16 ver 
+- 1788
+: 1802 16 13 E
+: 1820 7 16 del
+* 1829 29 23 weiss, 
+: 1872 10 21 E
+: 1884 4 16 del
+: 1890 27 14 weiss 
+- 1919
+: 1928 16 13 Bless 
+: 1950 9 16 my 
+: 1962 10 16 home
+: 1974 10 18 land 
+- 1988
+: 1988 14 20 For
+: 2008 35 21 e
+: 2047 101 21 ver 
+E

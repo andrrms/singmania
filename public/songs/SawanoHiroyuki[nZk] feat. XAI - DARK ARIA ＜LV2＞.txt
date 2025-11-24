@@ -1,0 +1,255 @@
+#ARTIST:SawanoHiroyuki[nZk] feat. XAI
+#TITLE:DARK ARIA ＜LV2＞
+#MP3:SawanoHiroyuki[nZk] feat. XAI - DARK ARIA ＜LV2＞.mp3
+#CREATOR:Raygin
+#EDITION:from Solo Leveling EP 6
+#COVER:SawanoHiroyuki[nZk] feat. XAI - DARK ARIA ＜LV2＞ [CO].jpg
+#BACKGROUND:SawanoHiroyuki[nZk] feat. XAI - DARK ARIA ＜LV2＞ [BG].jpg
+#GENRE:Anime
+#YEAR:2024
+#LANGUAGE:English
+#BPM:320
+#GAP:9300
+#VIDEO:v=ZGXOWPZ64DA,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/e2/8c/4ee28c28-f1d4-88c6-cac1-d515fce6385c/4547366665338.jpg/5000x5000bb.jpg
+: 0 14 10 Dark 
+: 16 14 11 time 
+: 32 14 8 has 
+: 48 16 10 come 
+- 74
+: 96 14 6 To 
+: 112 6 8 pack 
+: 120 6 6 a
+: 128 16 6 way 
+: 160 4 11 all 
+: 168 6 10 the 
+: 176 16 10 joys 
+- 213
+: 248 2 10 You 
+: 252 2 10 don’t 
+: 256 2 11 wan
+: 260 2 8 na 
+: 264 8 10 hear 
+: 280 2 10 my 
+: 284 2 10 a
+: 288 2 11 pol
+: 292 2 8 o
+: 296 8 10 gy 
+- 310
+: 312 2 13 Get 
+: 316 2 13 it 
+: 320 2 13 off 
+: 324 2 13 my 
+: 328 8 13 chest 
+: 344 2 11 I 
+: 348 2 10 would 
+: 352 2 8 do 
+: 356 2 8 my 
+: 360 8 10 best 
+- 374
+: 376 2 10 I 
+: 380 2 10 know 
+: 384 2 11 what 
+: 388 2 8 you 
+: 392 8 10 fear 
+: 408 2 15 sim
+: 412 2 15 i
+: 416 2 15 lar
+: 420 2 17 i
+: 424 8 13 ties 
+: 448 14 8 we 
+: 464 14 11 pos
+: 480 8 10 sess 
+- 494
+: 496 4 10 Nev
+: 504 4 8 er 
+: 512 4 10 will 
+: 520 4 8 I 
+: 528 4 10 pass 
+: 536 4 11 the 
+: 544 16 10 test 
+- 570
+: 584 6 8 The 
+: 592 6 10 scene 
+: 600 6 11 is 
+: 608 6 13 fad
+: 616 6 8 ing, 
+: 624 4 10 can 
+: 632 4 8 my 
+: 640 4 10 soul 
+: 648 4 8 be 
+: 656 4 10 put 
+: 664 4 11 to 
+: 672 12 10 rest? 
+- 705
+: 736 2 6 Death 
+: 740 2 5 is 
+: 744 2 3 gon
+: 748 2 5 na 
+: 752 6 6 come 
+: 760 6 5 for 
+: 768 16 3 me, 
+: 800 2 6 be 
+: 804 2 5 the 
+: 808 2 3 change 
+: 812 2 6 I 
+: 816 6 8 could
+: 824 6 6 n’t 
+: 832 16 3 be 
+- 860
+: 864 2 6 Can 
+: 868 2 5 you 
+: 872 2 6 find 
+: 876 2 8 a 
+: 880 10 10 life 
+: 892 2 11 that’s 
+: 896 8 10 like 
+: 912 10 10 fai
+: 924 2 11 ry
+: 928 8 10 tales? 
+: 944 10 8 Far 
+: 956 2 6 from 
+: 960 2 8 this 
+: 964 6 8 tra
+: 972 2 6 ge
+: 976 8 8 dy 
+- 990
+: 992 2 6 Sad 
+: 996 2 5 you 
+: 1000 2 3 had 
+: 1004 2 5 to 
+: 1008 6 6 wait 
+: 1016 6 5 for 
+: 1024 16 3 me, 
+: 1056 2 8 feels 
+: 1060 2 6 like 
+: 1064 2 5 an 
+: 1068 2 6 e
+: 1072 6 8 ter
+: 1080 6 6 ni
+: 1088 16 3 ty 
+- 1116
+: 1120 2 8 Please 
+: 1124 2 6 for
+: 1128 2 6 give 
+: 1132 2 8 me 
+: 1136 10 10 for 
+: 1148 2 11 my 
+: 1152 8 10 sins 
+- 1166
+: 1168 10 10 An
+: 1180 2 11 gels 
+: 1184 8 10 wings 
+: 1200 4 8 lift
+: 1206 4 8 ing 
+: 1212 2 6 and 
+: 1216 4 8 set
+: 1222 4 8 ting 
+: 1228 2 6 me 
+: 1232 16 8 free 
+- 1290
+: 1504 2 6 Death 
+: 1508 2 5 is 
+: 1512 2 3 gon
+: 1516 2 5 na 
+: 1520 6 6 come 
+: 1528 6 5 for 
+: 1536 16 3 me, 
+: 1568 2 6 be 
+: 1572 2 5 the 
+: 1576 2 3 change 
+: 1580 2 6 I 
+: 1584 6 8 could
+: 1592 6 6 n’t 
+: 1600 16 3 be 
+- 1628
+: 1632 2 6 Can 
+: 1636 2 5 you 
+: 1640 2 6 find 
+: 1644 2 8 a 
+: 1648 10 10 life 
+: 1660 2 11 that’s 
+: 1664 8 10 like 
+: 1680 10 10 fai
+: 1692 2 11 ry
+: 1696 8 10 tales? 
+: 1712 10 8 Far 
+: 1724 2 6 from 
+: 1728 2 8 this 
+: 1732 6 8 tra
+: 1740 2 6 ge
+: 1744 8 8 dy 
+- 1758
+: 1760 2 6 Sad 
+: 1764 2 5 you 
+: 1768 2 3 had 
+: 1772 2 5 to 
+: 1776 6 6 wait 
+: 1784 6 5 for 
+: 1792 16 3 me, 
+: 1824 2 8 feels 
+: 1828 2 6 like 
+: 1832 2 5 an 
+: 1836 2 6 e
+: 1840 6 8 ter
+: 1848 6 6 ni
+: 1856 16 3 ty 
+- 1884
+: 1888 2 8 Please 
+: 1892 2 6 for
+: 1896 2 6 give 
+: 1900 2 8 me 
+: 1904 10 10 for 
+: 1916 2 11 my 
+: 1920 8 10 sins 
+- 1934
+: 1936 10 10 An
+: 1948 2 11 gels 
+: 1952 8 10 wings 
+: 1968 4 8 lift
+: 1974 4 8 ing 
+: 1980 2 6 and 
+: 1984 4 8 set
+: 1990 4 8 ting 
+: 1996 2 6 me 
+: 2000 16 8 free 
+- 2022
+: 2024 4 3 The 
+* 2032 14 15 ques
+* 2048 14 13 tion 
+* 2064 14 11 of 
+* 2080 14 10 my 
+* 2096 32 10 life 
+- 2140
+: 2144 3 8 Slip
+: 2149 3 8 ping 
+: 2154 4 11 right 
+: 2160 16 10 through 
+: 2188 2 8 the 
+: 2192 16 10 cracks 
+: 2220 2 8 and 
+: 2224 10 10 crum
+: 2236 2 11 bling
+: 2240 10 8 ~ 
+: 2252 2 6 to 
+: 2256 16 8 dust 
+- 2278
+: 2280 4 3 The 
+: 2288 14 15 ques
+: 2304 14 13 tion 
+: 2320 14 11 of 
+: 2336 14 10 my 
+: 2352 32 10 life 
+- 2396
+: 2400 3 8 Slip
+: 2405 3 8 ping 
+: 2410 4 11 right 
+: 2416 16 10 through 
+: 2444 2 8 the 
+: 2448 16 10 cracks 
+: 2476 2 8 and 
+: 2480 14 10 crum
+: 2496 14 8 bling
+: 2512 14 6 ~ 
+: 2528 14 10 to 
+: 2544 64 3 dust 
+E

@@ -1,0 +1,212 @@
+#ARTIST:NOFX
+#TITLE:Leave It Alone
+#MP3:NOFX - Leave It Alone.mp3
+#CREATOR:dlag
+#GENRE:Punk
+#YEAR:1994
+#LANGUAGE:English
+#BPM:381
+#GAP:24280
+#VIDEO:v=cuR12uCt61Q,co=https://i.discogs.com/tNreA_PckOcurCwAAw5-ZbbVbXT40h1eulRN2P1w-Tw/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQ3/My0xNTI2MDQ2NzI5/LTk4NjcuanBlZw.jpeg,bg=nofx-4f82e56d6d883.jpg
+: 0 12 9 Breathe 
+- 14
+: 44 7 5 Ever 
+: 52 3 7 so
+: 56 7 9 ~ 
+: 64 16 4 soft. 
+- 82
+: 124 3 7 We 
+: 128 3 9 woul
+: 132 7 9 dn’t 
+: 140 7 9 wanna 
+: 148 7 9 break 
+- 156
+: 156 7 7 The 
+: 164 7 7 eggs 
+: 172 7 7 as 
+: 180 3 7 we 
+: 184 8 9 walk. 
+- 194
+: 236 8 5 Never 
+: 248 7 5 alo
+: 256 16 5 ne 
+- 274
+: 300 7 5 Caut
+: 308 3 7 ious, 
+: 312 7 5 af
+: 320 16 4 raid 
+- 338
+: 380 3 7 I 
+: 384 3 9 he
+: 388 7 9 ar 
+: 396 7 9 the 
+: 404 7 9 voi
+: 412 7 7 ce 
+: 420 7 7 of 
+: 428 1 7 rea
+: 430 5 7 son 
+: 436 3 9 on 
+: 440 7 7 the
+: 448 16 5 P.A. 
+- 466
+: 492 7 5 Lea
+: 500 3 5 ve 
+: 504 7 5 it 
+: 512 32 5 alone 
+- 546
+: 556 7 5 Foll
+: 564 3 5 ow 
+: 568 7 5 the 
+: 576 32 4 grain, 
+- 610
+: 636 3 7 We 
+: 640 3 9 co
+: 644 7 9 uldn’t 
+: 652 7 9 stop 
+: 660 7 9 the 
+: 668 7 7 irr
+: 676 7 7 esi
+: 684 7 7 stab
+: 692 3 9 le 
+: 696 7 7 for
+: 704 16 5 ce. 
+- 722
+: 748 7 5 Leave 
+: 756 3 5 it 
+: 760 7 5 the 
+: 768 32 5 same, 
+- 802
+: 812 11 5 Change 
+: 824 7 5 with 
+: 832 24 4 the leaves, 
+- 858
+: 892 3 7 Br
+: 896 3 9 in
+: 900 7 9 ing 
+: 908 7 9 in 
+: 916 7 9 the 
+: 924 7 7 she
+: 932 7 7 aves, 
+- 940
+: 940 7 7 Bring
+: 948 3 9 ing 
+: 952 7 7 in 
+: 960 16 5 the old. 
+- 978
+: 1004 7 5 Leave 
+: 1012 3 5 it 
+: 1016 7 5 al
+: 1024 32 5 one 
+- 1058
+: 1096 7 0 DA 
+: 1104 7 0 NA 
+: 1112 7 2 NA 
+: 1120 3 3 NA 
+: 1124 7 2 NA 
+: 1132 7 0 NA 
+: 1140 7 2 NA 
+: 1148 20 4 NAA 
+- 1170
+: 1220 5 0 DA 
+: 1226 5 0 NA 
+: 1232 5 2 NA 
+: 1238 4 3 NA 
+: 1244 5 2 NA 
+: 1250 5 0 NA 
+: 1256 5 2 NA 
+: 1262 20 4 NAA 
+- 1284
+: 1348 5 0 DA 
+: 1354 6 0 NA 
+: 1368 5 2 NA 
+: 1374 3 3 NA 
+: 1378 5 2 NA 
+: 1384 5 0 NA 
+: 1390 6 2 NA
+: 1400 20 4 NAA 
+- 1422
+: 1472 5 0 DA 
+: 1478 5 0 NA 
+: 1484 5 2 NA 
+: 1490 3 3 NA 
+: 1494 5 2 NA 
+: 1500 5 0 NA 
+: 1506 6 2 NA 
+- 1514
+: 1556 24 4 Breathe 
+- 1582
+: 1604 11 9 Ever 
+: 1616 5 9 so 
+: 1622 8 10 slight. 
+- 1632
+: 1684 7 9 We 
+: 1692 3 9 coul
+: 1696 7 9 dn’t 
+: 1704 11 11 take aw
+: 1716 3 16 ay 
+: 1720 3 19 our 
+: 1724 8 16 god 
+: 1740 7 16 given 
+: 1748 8 16 right. 
+- 1758
+: 1800 11 16 Leave 
+: 1812 3 16 it 
+: 1816 31 16 alo
+: 1848 11 16 ne,
+: 1860 7 16 he
+: 1868 3 16 el 
+: 1872 7 16 and 
+: 1880 24 11 stay, 
+- 1906
+: 1944 3 16 Ro
+: 1948 7 16 ll 
+: 1956 7 16 over 
+: 1964 7 16 and 
+: 1972 7 14 sha
+: 1980 7 14 ke 
+: 1988 7 14 and 
+: 1996 3 16 beg 
+: 2000 7 14 for 
+: 2008 24 12 your bones. 
+- 2034
+: 2052 7 16 Leave 
+: 2060 3 16 it 
+: 2064 7 16 al
+: 2072 32 16 one. 
+- 2106
+: 2152 7 14 DA 
+: 2160 3 16 NA 
+: 2164 7 16 NA 
+: 2172 7 16 NA 
+: 2180 7 16 NA 
+: 2188 7 16 NA 
+: 2196 7 16 NA 
+: 2204 32 16 NAA 
+- 2238
+: 2268 7 14 DA 
+: 2276 7 14 NA 
+: 2284 7 14 NA 
+: 2292 3 16 NA 
+: 2296 7 14 NA
+: 2304 7 14 NA 
+: 2312 7 14 NA
+: 2320 32 12 NAA 
+- 2354
+: 2392 7 14 DA 
+: 2400 7 14 NA 
+: 2408 7 14 NA 
+: 2416 3 16 NA 
+: 2420 7 14 NA
+: 2428 7 14 NA 
+: 2436 7 14 NA
+: 2444 32 12 NAA 
+- 2478
+: 2508 7 0 DA 
+: 2516 7 0 NA 
+: 2524 7 2 NA 
+: 2532 3 3 NA 
+: 2536 7 2 NA 
+: 2544 7 0 NA 
+: 2552 7 2 NA 
+: 2560 64 4 NAA 
+E

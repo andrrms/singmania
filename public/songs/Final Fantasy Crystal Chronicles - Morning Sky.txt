@@ -1,0 +1,262 @@
+#ARTIST:Final Fantasy Crystal Chronicles
+#TITLE:Morning Sky
+#MP3:Final Fantasy Crystal Chronicles - Morning Sky.mp3
+#CREATOR:MerlinXLL
+#COVER:Final Fantasy Crystal Chronicles - Morning Sky [CO].jpg
+#BACKGROUND:Final Fantasy Crystal Chronicles - Morning Sky [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2004
+#LANGUAGE:English
+#BPM:210
+#GAP:14040
+#VIDEO:a=XL4_z1LzGc8,v=xByN9ARyjLA,co=https://ia802302.us.archive.org/7/items/final-fantasy-crystal-chronicles-original-soundtrack/Scans/01.jpg,bg=https://gamingtrend.com/content/images/size/w1200/2025/02/final-fantasy-crystal-chronicles-remastered-edition_20200822105526-scaled-e1598445649233.jpg
+#END:216500
+: 0 17 -2 Drea
+: 17 4 0 ming
+: 22 15 2  of
+: 38 3 -2  the
+: 43 12 4  stars
+: 57 4 5  on
+: 62 10 2  high
+- 74
+: 76 4 0 That
+: 81 13 -2  speak
+: 96 3 0  to
+: 101 9 2  me
+: 115 4 -2  in
+: 120 14 4  se
+: 135 3 7 cret
+: 140 12 9  sighs
+- 153
+: 155 5 2 Drif
+: 160 19 7 ting
+: 180 8 10  o
+: 188 6 9 ~n
+: 195 4 5  a
+: 200 12 7  breeze
+: 220 4 10  on
+: 224 2 12 ly
+: 227 6 9  I
+: 234 5 5  can
+: 240 20 2  feel
+: 264 8 9  a
+: 272 3 5 ~
+: 275 2 2 ~nd
+: 278 21 0  hea
+: 299 21 7 ~r
+- 348
+: 546 11 -2 Could
+: 558 3 0  it
+: 562 11 2  be
+: 574 2 -2  the
+: 578 12 4  sa
+: 590 3 5 cred
+: 594 9 2  wind
+- 604
+: 606 3 0 That’s
+: 610 12 -2  cal
+: 622 3 0 ling
+: 626 8 2  me
+: 638 3 -2  to
+: 642 11 4  now
+: 654 4 7  be
+: 658 8 9 gin
+- 668
+: 670 3 2 To
+: 674 15 7  walk
+: 690 6 10  in
+: 696 5 9 to
+: 702 3 5  the
+: 706 12 7  dark
+: 722 4 10  car
+: 726 2 12 ry
+: 728 5 9 ing
+: 734 3 5  the
+: 738 19 2  light
+: 758 7 9  of
+: 766 4 5  to
+: 770 16 0 mor
+: 786 24 7 row
+- 820
+F 832 1 -2 The
+: 834 12 -2  bea
+: 846 3 0 ting
+: 850 11 2  of
+: 862 2 -2  the
+: 866 11 4  wings
+: 878 3 5  up
+: 882 9 2  high
+- 892
+: 894 4 0 Bey
+: 898 11 -2 ond
+: 910 3 0  the
+: 914 9 2  earth,
+: 926 4 -2  bey
+: 930 11 4 ond
+: 942 3 7  the
+: 946 8 9  sky
+- 956
+: 958 3 2 Come
+: 962 15 7  now,
+: 978 5 10  don’t
+: 984 6 9  he
+: 990 4 5 si
+: 994 10 7 tate
+- 1008
+: 1010 3 10 Don’t
+: 1014 1 12  look
+: 1016 5 9  back,
+: 1022 3 5  we’ve
+: 1026 18 2  got
+: 1047 5 9  to
+: 1052 2 5 ~
+: 1054 3 2 ~
+: 1058 15 0  go
+: 1074 12 7  now
+- 1088
+: 1090 15 2 Don’t
+: 1106 13 9  fear
+- 1120
+: 1122 11 10 You’ll
+: 1134 3 9  be
+: 1138 5 10  safe
+: 1144 5 9  from
+: 1150 3 7  now
+: 1154 5 7  on
+- 1160
+: 1162 4 10 Mor
+: 1166 3 9 ning
+: 1170 5 10  sky
+: 1176 6 9  wat
+: 1182 3 5 ching
+: 1186 8 2  o
+: 1194 16 9 ~
+: 1214 4 5 ~
+: 1218 7 7 ver
+* 1226 40 12  all
+- 1278
+: 1282 7 10 Deep
+: 1290 7 9  in
+: 1298 7 7 side
+: 1306 7 5  so
+: 1314 7 10  si
+: 1322 7 9 len
+: 1330 4 7 tly
+- 1336
+: 1338 7 5 My
+: 1346 6 7  heart
+: 1353 2 5  will
+: 1356 28 4  speak
+- 1391
+: 1394 7 14 Deep
+: 1402 7 12  in
+: 1410 5 10 side
+: 1416 2 9  of
+: 1419 28 7  me
+- 1448
+: 1450 8 9 Me
+: 1458 8 10 mo
+: 1466 7 12 ries
+: 1474 8 10  fli
+: 1482 8 9 cke
+: 1490 6 7 ring
+: 1498 7 5  and
+: 1506 8 10  shim
+: 1514 8 9 me
+: 1522 8 7 ri
+: 1530 7 14 ~ng
+: 1538 26 12  on,
+: 1570 16 14  e
+: 1586 8 12 ~nd
+: 1594 8 9 less
+: 1602 35 7 ly
+- 1665
+: 1922 12 10 Kee
+: 1934 3 9 ping
+: 1938 5 10  close
+: 1944 5 9  to
+: 1950 3 7  the
+: 1954 5 7  path
+- 1960
+: 1962 4 10 Mor
+: 1966 3 9 ning
+: 1970 5 10  sky
+: 1976 6 9  wat
+: 1982 3 5 ching
+: 1986 8 2  o
+: 1994 16 9 ~
+: 2014 4 5 ~
+: 2018 7 7 ver
+* 2026 40 12  all
+- 2078
+: 2082 8 10 Mov
+: 2090 7 9 ing
+: 2098 8 7  ov
+: 2106 7 5 er
+: 2114 8 10  end
+: 2122 7 9 less
+: 2130 8 7  moun
+: 2138 7 5 tains
+: 2146 5 7  oh
+: 2152 1 5  so
+: 2154 26 4  high
+- 2190
+: 2194 7 14 Walk
+: 2202 8 12  in
+: 2210 5 10 to
+: 2216 1 9  the
+: 2218 28 7  light
+- 2248
+: 2250 7 9 Your
+: 2258 7 10  heart
+: 2266 7 12  will
+: 2274 7 10  see
+: 2282 7 9  the
+: 2290 6 7  path
+: 2298 7 5  and
+: 2306 7 10  you
+: 2314 7 9  will
+: 2322 7 7  find
+: 2330 7 14  the
+: 2338 26 12  way
+- 2368
+: 2370 15 14 Just
+: 2386 7 12  wait
+: 2394 5 9  and
+- 2400
+: 2402 8 10 Mov
+: 2410 7 9 ing
+: 2418 8 7  ov
+: 2426 7 5 er
+: 2434 8 10  end
+: 2442 7 9 less
+: 2450 8 7  sky
+: 2458 7 5 ~
+: 2466 5 7  oh
+: 2472 1 5  so
+: 2474 26 4  high
+- 2510
+: 2514 8 14 To
+: 2522 8 12 ~
+: 2530 6 10 mor
+: 2536 2 9 ~
+: 2538 27 7 row
+: 2570 7 9  will
+: 2578 8 10  fol
+: 2586 5 12 low
+- 2592
+: 2594 7 10 And
+: 2602 7 9  it
+: 2610 6 7  holds
+: 2618 7 5  your
+: 2626 8 10  pro
+: 2634 8 9 mi
+: 2642 5 7 ses
+: 2650 8 14  to
+: 2658 26 12 day
+- 2688
+* 2690 15 14 Just
+* 2706 7 12  wait
+* 2714 7 9  and
+* 2722 40 7  see
+E

@@ -1,0 +1,235 @@
+#ARTIST:The Rattles
+#TITLE:The Witch
+#MP3:The Rattles - The Witch.mp3
+#CREATOR:Fepo
+#YEAR:1969
+#LANGUAGE:English
+#BPM:297.5
+#GAP:11640
+#VIDEO:v=m2LHQmp3kd8,co=https://i.discogs.com/j_-eKj8k6QEZAEp15wyokBM_kOYTL2jKEz3qKcKmOHk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjkzLTE1NzUzNjUw/OTctNDgxOS5qcGVn.jpeg
+: 0 3 4 Can’t 
+: 4 1 4 you 
+: 6 4 4 see 
+: 12 3 4 me 
+: 16 5 8 run
+: 22 8 4 nin’ 
+- 32
+: 84 4 4 I’m 
+: 90 3 4 real
+: 94 2 4 ly 
+: 98 5 8 run
+: 104 4 11 nin’ 
+- 110
+: 112 3 13 For 
+: 116 3 13 my 
+: 120 12 13 life 
+- 134
+: 192 4 4 Guess 
+: 198 3 4 from 
+: 202 2 4 where 
+: 206 1 4 I’m 
+: 208 6 8 co
+: 216 8 4 min’ 
+- 226
+: 278 2 4 Guess 
+: 282 3 4 why 
+: 286 3 4 I’m 
+: 290 7 8 run
+: 298 6 11 nin’ 
+- 306
+: 308 3 13 For 
+: 312 4 13 my 
+: 318 10 13 life. 
+- 330
+: 390 6 11 Can’t 
+: 398 3 11 you 
+: 402 4 11 see 
+- 408
+: 410 3 11 The 
+: 414 4 13 Witch 
+: 420 4 13 can’t 
+: 426 2 11 you 
+: 430 6 13 see 
+- 438
+: 442 1 11 The 
+: 444 4 13 Witch 
+: 450 4 13 can’t 
+: 456 2 11 you 
+: 460 3 13 see 
+- 464
+: 464 3 11 The 
+: 468 6 11 Witch 
+: 476 3 11 by 
+: 480 1 9 my 
+: 482 12 11 side. 
+- 496
+: 502 8 11 Can’t 
+: 512 3 11 you 
+: 516 3 11 see 
+- 520
+: 520 4 11 The 
+: 526 4 13 Witch 
+: 532 5 13 can’t 
+: 538 2 11 you 
+: 542 4 13 see 
+- 547
+: 548 3 11 The 
+: 552 4 13 Witch 
+: 558 6 13 can’t 
+: 566 1 11 you 
+: 568 4 13 see 
+- 574
+: 576 3 11 The 
+: 580 6 11 Witch 
+: 588 1 11 by 
+: 590 2 9 my 
+: 594 10 11 side. 
+- 606
+: 1126 4 4 Can’t 
+: 1132 1 4 you 
+: 1134 2 4 see 
+: 1138 1 4 my 
+: 1140 6 8 Death
+: 1148 10 4 fear 
+- 1160
+: 1208 3 4 I 
+: 1212 3 4 can 
+: 1216 1 4 hear 
+: 1218 3 6 her 
+: 1222 5 8 Voice 
+- 1228
+: 1228 2 11 Shou
+: 1232 4 11 tin’ 
+: 1238 2 13 ev’
+: 1242 2 13 ry
+: 1246 8 13 where 
+- 1256
+: 1318 3 4 Who 
+: 1322 3 4 know 
+: 1326 3 4 what 
+: 1330 3 4 I’ve 
+: 1334 5 8 could 
+: 1340 10 4 done 
+- 1352
+: 1402 3 4 It 
+: 1406 2 4 must 
+: 1410 2 4 be 
+: 1414 1 6 so 
+: 1416 6 8 bad 
+- 1423
+: 1424 1 11 That 
+: 1426 3 11 a 
+: 1430 7 11 Witch 
+: 1438 5 12 does 
+: 1444 12 13 care. 
+- 1458
+: 1516 6 11 Can’t 
+: 1524 3 11 you 
+: 1528 6 11 see 
+- 1536
+: 1538 1 11 The 
+: 1540 4 13 Witch 
+: 1546 5 13 can’t 
+: 1552 1 11 you 
+: 1554 6 13 see 
+- 1562
+: 1566 1 11 The 
+: 1568 3 13 Witch 
+: 1572 4 13 can’t 
+: 1578 4 11 you 
+: 1584 6 13 see 
+- 1591
+: 1592 1 11 The 
+: 1594 5 11 Witch 
+: 1600 4 11 by 
+: 1606 2 9 my 
+: 1610 12 11 side. 
+- 1624
+: 1628 7 11 Can’t 
+: 1636 3 11 you 
+: 1640 6 11 see 
+- 1647
+: 1648 3 11 The 
+: 1652 4 13 Witch 
+: 1658 4 13 can’t 
+: 1664 3 11 you 
+: 1668 8 13 see 
+- 1677
+: 1678 1 11 The 
+: 1680 4 13 Witch 
+: 1686 4 13 can’t 
+: 1692 2 11 you 
+: 1696 7 13 see 
+- 1704
+: 1704 3 11 The 
+: 1708 4 11 Witch 
+: 1714 3 11 by 
+: 1718 2 9 my 
+: 1722 10 11 side. 
+- 1734
+: 2254 8 11 Can’t 
+: 2264 2 11 you 
+: 2268 6 11 see 
+- 2275
+: 2276 1 11 The 
+: 2278 4 13 Witch 
+: 2284 4 13 can’t 
+: 2290 2 11 you 
+: 2294 8 13 see 
+- 2303
+: 2304 1 11 The 
+: 2306 4 13 Witch 
+: 2312 5 13 can’t 
+: 2318 2 11 you 
+: 2322 4 13 see 
+- 2327
+: 2328 2 11 The 
+: 2332 4 11 Witch 
+: 2338 3 11 by 
+: 2342 2 9 my 
+: 2346 10 11 side. 
+- 2358
+: 2364 7 11 Can’t 
+: 2372 3 11 you 
+: 2376 6 11 see 
+- 2383
+: 2384 3 11 The 
+: 2388 4 13 Witch 
+: 2394 5 13 can’t 
+: 2400 2 11 you 
+: 2404 6 13 see 
+- 2412
+: 2414 1 11 The 
+: 2416 4 13 Witch 
+: 2422 4 13 can’t 
+: 2428 3 11 you 
+: 2432 5 13 see 
+- 2438
+: 2438 2 11 The 
+: 2442 4 11 Witch 
+: 2448 2 11 by 
+: 2452 3 9 my 
+: 2456 8 11 side. 
+- 2466
+: 2474 7 11 Can’t 
+: 2482 3 11 you 
+: 2486 5 11 see 
+- 2492
+: 2492 2 11 The 
+: 2496 6 13 Witch 
+: 2504 5 13 can’t 
+: 2510 2 11 you 
+: 2514 6 13 see 
+- 2521
+: 2522 3 11 The 
+: 2526 4 13 Witch 
+: 2532 2 13 can’t 
+: 2536 2 11 you 
+: 2540 6 13 see 
+- 2548
+: 2550 3 11 The 
+: 2554 4 11 Witch 
+: 2560 1 11 by 
+: 2562 2 9 my 
+: 2566 10 11 side. 
+E

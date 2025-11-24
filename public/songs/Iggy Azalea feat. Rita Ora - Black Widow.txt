@@ -1,0 +1,755 @@
+#ARTIST:Iggy Azalea feat. Rita Ora
+#TITLE:Black Widow
+#MP3:Iggy Azalea feat. Rita Ora - Black Widow.mp3
+#CREATOR:amro98
+#GENRE:Pop
+#YEAR:2014
+#LANGUAGE:English
+#BPM:327.98
+#GAP:115320
+#VIDEO:v=u3u22OYqFGo,co=black-widow-554a5fd1e3745.jpg,bg=azalea-iggy-53652c25ca18c.jpg
+: 0 2 3 I’m 
+: 4 2 10 gon
+: 8 2 8 na 
+: 12 4 8 love 
+: 20 8 8 ya 
+- 30
+: 68 4 8 Un
+: 76 2 8 til 
+: 80 2 10 you 
+: 84 4 11 hate 
+: 92 10 10 me 
+- 104
+: 120 2 3 And 
+: 124 2 10 I
+: 128 2 8 ~’m 
+: 132 2 10 gon
+: 136 2 8 na 
+* 140 4 8 show 
+* 148 8 8 ya 
+- 158
+: 196 4 8 What’s 
+: 204 2 8 real
+: 208 2 10 ly 
+: 212 2 10 cra
+: 216 2 11 ~
+: 220 8 10 zy 
+- 230
+: 256 2 3 You 
+: 260 2 10 shoul
+: 264 2 8 d’ve 
+: 268 4 8 known 
+: 276 2 8 bet
+: 280 2 8 te
+: 284 6 10 ~r 
+- 292
+: 316 2 8 Than 
+: 320 2 6 to 
+: 324 4 8 mess 
+: 332 2 8 with 
+: 336 2 10 me, 
+: 340 4 11 ho
+: 348 8 10 ney 
+- 358
+: 384 2 3 I’m 
+: 388 2 10 gon
+: 392 2 8 na 
+* 396 4 8 love 
+: 404 8 8 ya, 
+- 414
+: 416 2 3 I’m 
+: 420 2 11 gon
+: 424 2 10 na 
+: 428 4 10 love 
+: 436 6 10 ya 
+- 444
+: 452 2 11 Gon
+: 456 2 10 na 
+: 460 4 10 love 
+: 468 6 10 ya, 
+- 476
+: 484 2 11 Gon
+: 488 2 10 na 
+: 492 4 10 love 
+* 500 6 10 ya 
+- 507
+: 508 2 8 Like 
+: 512 2 6 a 
+: 516 4 8 black 
+: 524 2 8 wi
+: 528 2 10 dow, 
+: 532 2 10 ba
+: 536 2 11 ~
+: 540 12 10 by 
+- 554
+F 556 4 0 Mouse 
+F 564 4 0 game 
+F 572 2 0 al
+F 576 2 0 ways 
+F 582 4 0 starts 
+F 589 2 0 the 
+F 594 6 0 same 
+- 602
+F 604 2 0 First 
+F 608 2 0 we’re 
+F 612 4 0 both 
+F 620 2 0 down 
+F 624 2 0 to 
+F 628 3 0 play 
+- 632
+F 632 2 0 Then 
+F 636 2 0 some
+F 640 2 0 how 
+F 644 2 0 you 
+F 648 2 0 go 
+F 652 2 0 as
+F 658 4 0 tray 
+- 663
+F 664 2 0 We 
+F 668 2 0 went 
+F 672 2 0 from 
+F 676 2 0 no
+F 680 2 0 thing 
+F 684 2 0 to 
+F 688 2 0 some
+F 692 4 0 thing, 
+- 698
+F 708 2 0 Li
+F 712 2 0 king 
+F 716 2 0 to 
+F 720 2 0 lo
+F 724 4 0 ving 
+- 730
+F 732 2 0 It 
+F 736 2 0 was 
+F 740 2 0 us 
+F 744 2 0 a
+F 748 2 0 gainst 
+F 752 2 0 the 
+F 756 8 0 world 
+- 766
+F 768 2 0 And 
+F 772 2 0 now 
+F 776 2 0 we 
+F 780 2 0 just 
+F 784 2 0 fuc
+F 788 2 0 king 
+- 791
+F 792 2 0 It’s 
+F 796 2 0 like 
+F 800 2 0 I 
+F 804 2 0 loved 
+F 808 2 0 you 
+F 812 2 0 so 
+F 816 2 0 much 
+F 820 2 0 and 
+F 824 2 0 now 
+- 827
+F 828 2 0 I 
+F 832 2 0 just 
+F 836 4 0 hate 
+F 844 4 0 you 
+- 850
+F 860 2 0 Fee
+F 864 2 0 ling 
+F 868 2 0 stu
+F 872 2 0 pid 
+F 876 2 0 for 
+F 880 2 0 all 
+F 884 2 0 the 
+F 888 2 0 time 
+F 892 2 0 that 
+- 895
+F 896 2 0 I 
+F 900 4 0 gave 
+F 908 4 0 you 
+- 914
+F 920 2 0 I 
+F 924 2 0 wan
+F 928 2 0 ted 
+F 932 2 0 all 
+F 936 2 0 or 
+F 940 2 0 no
+F 944 2 0 thing 
+F 948 2 0 for 
+F 952 2 0 us 
+- 955
+F 956 2 0 Ain’t 
+F 960 2 0 no 
+F 964 2 0 place 
+F 968 2 0 in 
+F 972 2 0 be
+F 976 6 0 tween 
+- 983
+F 984 2 0 Might, 
+F 988 2 0 might 
+F 992 2 0 be 
+F 996 2 0 me 
+F 1000 2 0 be
+F 1004 2 0 lie
+F 1008 2 0 ving 
+F 1012 2 0 what 
+F 1016 2 0 you 
+F 1020 3 0 say 
+- 1024
+F 1024 2 0 That 
+F 1028 2 0 you 
+F 1032 2 0 ne
+F 1036 2 0 ver 
+F 1040 4 0 mean 
+- 1046
+F 1048 2 0 Like 
+F 1052 2 0 it
+F 1056 2 0 ’ll 
+F 1060 4 0 last 
+F 1068 2 0 for
+F 1072 2 0 e
+F 1076 2 0 ver 
+- 1079
+F 1080 2 0 But 
+F 1084 2 0 now 
+F 1088 2 0 for
+F 1092 2 0 e
+F 1096 2 0 ver 
+F 1100 2 0 ain’t 
+F 1104 2 0 as 
+F 1108 4 0 long 
+- 1114
+F 1116 2 0 If 
+F 1120 2 0 it 
+F 1124 2 0 was
+F 1128 2 0 n’t 
+F 1132 2 0 for 
+F 1136 2 0 you 
+- 1139
+F 1140 2 0 I 
+F 1144 2 0 would
+F 1148 2 0 n’t 
+F 1152 2 0 be 
+F 1156 2 0 stuck 
+F 1160 2 0 sing
+F 1164 2 0 ing 
+F 1168 2 0 this 
+F 1172 4 0 song 
+- 1178
+F 1180 2 0 You 
+F 1184 2 0 were 
+F 1188 2 0 diffe
+F 1192 2 0 rent 
+F 1196 2 0 from 
+F 1200 2 0 my 
+F 1204 3 0 last 
+- 1208
+F 1208 2 0 But 
+F 1212 4 0 now 
+F 1220 2 0 you 
+F 1224 2 0 got 
+F 1228 2 0 it 
+F 1232 2 0 mir
+F 1236 2 0 rored 
+- 1239
+F 1240 2 0 And 
+F 1244 2 0 as 
+F 1248 2 0 it 
+F 1252 4 0 all 
+F 1260 4 0 plays 
+F 1268 2 0 out 
+F 1272 2 0 I 
+F 1276 2 0 see 
+F 1280 2 0 it 
+F 1284 2 0 could
+F 1288 2 0 n’t 
+F 1292 2 0 be 
+F 1296 2 0 clea
+F 1300 3 0 rer 
+- 1304
+F 1304 4 0 Now 
+F 1312 3 0 sing 
+- 1316
+: 1316 2 8 You 
+: 1320 4 8 used 
+: 1328 2 6 to 
+: 1332 6 8 be 
+- 1340
+: 1348 4 8 Thirs
+* 1354 4 8 ty 
+: 1360 2 6 for 
+: 1364 6 8 me 
+- 1372
+: 1380 2 8 But 
+: 1384 4 8 now 
+: 1390 4 6 you 
+: 1396 4 8 wan
+: 1402 2 6 na 
+: 1406 4 8 be 
+: 1412 3 6 se
+: 1416 3 8 ~
+: 1420 3 10 ~
+: 1424 2 8 ~t 
+: 1428 8 6 free 
+- 1438
+: 1444 4 8 This 
+: 1450 4 8 is 
+: 1456 2 6 the 
+: 1460 8 8 web, 
+- 1470
+: 1476 4 8 Web 
+: 1482 4 8 that 
+* 1488 2 6 you 
+* 1492 8 8 weave 
+- 1502
+: 1508 2 8 So 
+: 1512 4 8 ba
+: 1518 4 6 by 
+: 1524 4 8 now 
+: 1530 4 6 rest 
+: 1536 2 8 in 
+: 1540 3 6 pea
+: 1544 3 8 ~
+: 1548 7 8 ~
+* 1556 7 6 ~
+* 1564 3 3 ~
+* 1568 3 5 ~
+* 1572 3 3 ~
+* 1576 3 -1 ~
+* 1580 4 -2 ~ce 
+- 1586
+: 1600 2 3 I’m 
+: 1604 2 10 gon
+: 1608 2 8 na 
+: 1612 4 8 love 
+: 1620 8 8 ya 
+- 1630
+: 1668 4 8 Un
+: 1676 2 8 til 
+: 1680 2 10 you 
+: 1684 4 11 hate 
+: 1692 7 10 me 
+- 1700
+F 1700 8 0 Right 
+- 1710
+: 1720 2 3 And 
+: 1724 2 8 I
+: 1728 2 10 ~’m 
+: 1732 2 10 gon
+: 1736 2 8 na 
+: 1740 4 8 show 
+: 1748 6 8 ya 
+- 1755
+F 1756 2 0 Show 
+F 1760 2 0 ’em 
+F 1764 4 0 what, 
+- 1770
+F 1772 2 0 Show 
+F 1776 2 0 ’em 
+F 1780 4 0 what 
+- 1786
+: 1796 4 8 What’s 
+: 1804 2 8 real
+: 1808 2 10 ly 
+: 1812 4 11 cra
+: 1820 8 10 zy 
+- 1830
+: 1856 2 3 You 
+: 1860 2 10 shoul
+: 1864 2 8 d’ve 
+: 1868 4 8 known 
+: 1876 2 8 bet
+: 1880 2 8 te
+: 1884 4 10 ~r 
+- 1890
+: 1916 2 8 Than 
+: 1920 2 6 to 
+: 1924 4 8 mess 
+: 1932 2 8 with 
+: 1936 2 10 me, 
+: 1940 4 11 ho
+: 1948 8 10 ney 
+- 1958
+: 1984 2 3 I’m 
+: 1988 2 10 gon
+: 1992 2 8 na 
+* 1996 4 8 love 
+: 2004 6 8 ya, 
+- 2012
+: 2016 2 3 I’m 
+: 2020 2 11 gon
+: 2024 2 10 na 
+: 2028 4 10 love 
+: 2036 6 10 ya 
+- 2044
+: 2052 2 11 Gon
+: 2056 2 10 na 
+: 2060 4 10 love 
+: 2068 6 10 ya, 
+- 2076
+: 2084 2 11 Gon
+: 2088 2 10 na 
+: 2092 4 10 love 
+: 2100 6 10 ya 
+- 2107
+: 2108 2 8 Like 
+: 2112 2 6 a 
+: 2116 4 8 black 
+: 2124 2 8 wi
+: 2128 2 10 dow, 
+: 2132 2 10 ba
+: 2136 2 11 ~
+: 2140 8 10 by 
+- 2150
+F 2376 6 0 Black, 
+- 2383
+F 2384 2 0 Black 
+F 2388 2 0 wi
+F 2392 3 0 dow 
+- 2396
+F 2396 2 0 Gon
+F 2400 2 0 na 
+F 2404 2 0 l-
+F 2408 2 0 l-
+F 2412 2 0 l-
+F 2416 2 0 love 
+F 2420 2 0 you 
+F 2424 2 0 un
+F 2428 2 0 til 
+F 2432 2 0 it 
+F 2436 4 0 hurts 
+- 2442
+F 2460 2 0 Just 
+F 2464 2 0 to 
+F 2468 2 0 get 
+F 2472 2 0 you 
+F 2476 2 0 I’m 
+F 2480 2 0 do
+F 2484 2 0 ing 
+F 2488 2 0 what
+F 2492 2 0 e
+F 2496 2 0 ver 
+F 2500 6 0 works 
+- 2508
+F 2520 2 0 You’ve 
+F 2524 2 0 ne
+F 2528 2 0 ver 
+F 2532 2 0 met 
+F 2536 2 0 no
+F 2540 2 0 bo
+F 2544 2 0 dy 
+- 2548
+F 2556 2 0 Tha
+F 2560 2 0 t’ll 
+F 2564 2 0 do 
+F 2568 2 0 you 
+F 2572 2 0 how 
+F 2576 2 0 I 
+F 2580 2 0 do 
+F 2584 2 0 ya 
+- 2587
+F 2588 2 0 That 
+F 2592 2 0 will 
+F 2596 2 0 bring 
+F 2600 2 0 you 
+F 2604 2 0 to 
+F 2608 2 0 your 
+F 2612 4 0 knees 
+- 2618
+F 2620 4 0 Praise 
+F 2628 2 0 Je
+F 2632 2 0 sus 
+F 2636 2 0 hal
+F 2640 2 0 le
+F 2644 2 0 lu
+F 2648 2 0 jah 
+- 2651
+F 2652 2 0 Make 
+F 2656 2 0 you 
+F 2660 4 0 beg 
+F 2668 2 0 for 
+F 2672 2 0 it, 
+- 2676
+F 2684 4 0 Plead 
+F 2692 2 0 for 
+F 2696 2 0 it 
+- 2700
+F 2704 2 0 Till 
+F 2708 2 0 you 
+F 2712 2 0 feel 
+F 2716 2 0 like 
+F 2720 2 0 you 
+F 2724 4 0 breathe 
+F 2732 1 0 for 
+F 2734 1 0 it 
+- 2736
+F 2736 2 0 Till 
+F 2740 2 0 you 
+F 2744 2 0 do 
+F 2748 2 0 a
+F 2752 1 0 ny 
+F 2754 1 0 and 
+F 2756 1 0 e
+F 2758 1 0 ve
+F 2760 2 0 ry
+F 2764 4 0 thing 
+F 2772 1 0 for 
+F 2774 1 0 it 
+- 2776
+F 2776 2 0 I 
+F 2780 1 0 want 
+F 2782 1 0 you 
+F 2784 2 0 to 
+F 2788 4 0 fiend 
+F 2796 1 0 for 
+F 2798 2 0 it 
+- 2802
+F 2804 1 0 Wake 
+F 2806 1 0 up 
+F 2808 2 0 and 
+F 2812 4 0 dream 
+F 2820 1 0 for 
+F 2822 1 0 it 
+- 2824
+F 2824 1 0 Till 
+F 2826 2 0 it’s 
+F 2830 1 0 got 
+F 2832 2 0 you 
+F 2836 1 0 gas
+F 2838 1 0 ping 
+F 2840 2 0 for 
+F 2844 1 0 air 
+- 2846
+F 2846 1 0 And 
+F 2848 2 0 you 
+F 2852 4 0 lean 
+F 2860 1 0 for 
+F 2862 1 0 it 
+- 2864
+F 2864 2 0 Till 
+F 2868 1 0 they 
+F 2870 1 0 have 
+F 2872 2 0 a 
+F 2876 1 0 CAT 
+F 2878 2 0 scan 
+- 2881
+F 2882 1 0 And 
+F 2884 1 0 check 
+F 2886 1 0 on 
+F 2888 1 0 your 
+F 2890 3 0 mind 
+- 2894
+F 2894 1 0 And 
+F 2896 2 0 it’s 
+F 2900 1 0 no
+F 2902 1 0 thing 
+F 2904 2 0 but 
+F 2908 2 0 me, 
+- 2912
+F 2916 1 0 On 
+F 2918 2 0 it, 
+F 2924 1 0 on 
+F 2926 2 0 it, 
+F 2932 1 0 on 
+F 2934 2 0 it 
+- 2938
+F 2940 4 0 Now 
+F 2946 1 0 it’s 
+F 2948 2 0 me-
+F 2952 2 0 time 
+F 2956 2 0 be
+F 2960 2 0 lieve 
+F 2964 4 0 that 
+- 2970
+F 2972 2 0 If 
+F 2976 2 0 it’s 
+F 2980 2 0 yours 
+F 2984 2 0 when 
+F 2988 2 0 you 
+F 2992 2 0 want 
+F 2996 2 0 it 
+- 2999
+F 3000 2 0 I 
+F 3004 2 0 woul
+F 3008 2 0 dn’t 
+F 3012 2 0 pro
+F 3016 2 0 mise 
+F 3020 2 0 I 
+F 3024 2 0 need 
+F 3028 2 0 that 
+- 3032
+F 3036 2 0 Till 
+F 3040 2 0 I’m 
+F 3044 2 0 eve
+F 3048 1 0 ry
+F 3050 2 0 where 
+F 3054 1 0 that 
+F 3056 2 0 you 
+F 3060 2 0 be 
+F 3064 2 0 at 
+- 3068
+F 3070 1 0 I 
+F 3072 2 0 can’t 
+F 3076 4 0 fall 
+F 3082 4 0 back 
+F 3088 2 0 go 
+F 3092 4 0 quick 
+- 3098
+F 3104 2 0 ’Cause 
+F 3108 1 0 this 
+F 3110 1 0 here 
+F 3112 2 0 a 
+F 3116 1 0 fa
+F 3118 1 0 tal 
+F 3120 2 0 at
+F 3124 2 0 trac
+F 3128 1 0 tion 
+F 3130 1 0 so 
+- 3132
+F 3132 1 0 I 
+F 3134 2 0 take 
+F 3138 1 0 it 
+F 3140 4 0 all 
+F 3146 1 0 or 
+F 3148 1 0 I 
+F 3150 2 0 don’t 
+F 3154 1 0 want 
+F 3156 10 0 shh … 
+- 3168
+: 3172 2 8 You 
+: 3176 4 8 used 
+: 3184 2 6 to 
+: 3188 6 8 be 
+- 3196
+: 3204 4 8 Thirs
+: 3210 4 8 ty 
+: 3216 2 6 for 
+: 3220 6 8 me 
+- 3228
+: 3236 2 8 But 
+: 3240 4 8 now 
+: 3246 4 6 you 
+* 3252 4 8 wan
+: 3258 2 6 na 
+: 3262 2 8 be 
+- 3266
+: 3268 3 6 Se
+: 3272 3 8 ~
+: 3276 3 10 ~
+: 3280 2 8 ~t 
+: 3284 8 6 free 
+- 3294
+: 3300 4 8 This 
+: 3306 4 8 is 
+: 3312 2 6 the 
+: 3316 6 8 web, 
+- 3324
+: 3332 4 8 Web 
+: 3338 4 8 that 
+: 3344 2 6 you 
+: 3348 6 8 weave 
+- 3356
+: 3364 4 8 So 
+: 3370 4 8 ba
+: 3376 2 6 by 
+: 3380 4 8 now 
+: 3386 4 6 rest 
+: 3392 4 8 in 
+: 3398 3 6 pea
+: 3402 3 8 ~
+: 3406 5 8 ~
+* 3412 7 6 ~
+: 3420 3 3 ~
+: 3424 3 5 ~
+: 3428 3 3 ~
+: 3432 3 -1 ~
+: 3436 4 -2 ~ce 
+- 3442
+: 3456 2 3 I’m 
+: 3460 2 10 gon
+: 3464 2 8 na 
+: 3468 4 8 love 
+: 3476 8 8 ya 
+- 3486
+: 3524 4 8 Un
+: 3532 2 8 til 
+: 3536 2 10 you 
+: 3540 4 11 hate 
+: 3548 7 10 me 
+- 3556
+F 3556 8 0 Right 
+- 3566
+: 3576 2 3 And 
+: 3580 2 8 I
+: 3584 2 10 ~’m 
+: 3588 2 10 gon
+: 3592 2 8 na 
+: 3596 4 8 show 
+: 3604 6 8 ya 
+- 3611
+F 3612 2 0 Show 
+F 3616 2 0 ’em 
+F 3620 4 0 what, 
+- 3626
+F 3628 2 0 Show 
+F 3632 2 0 ’em 
+F 3636 4 0 what 
+- 3642
+: 3652 4 8 What’s 
+: 3660 2 8 real
+: 3664 2 10 ly 
+: 3668 4 11 cra
+: 3676 6 10 zy 
+- 3684
+: 3712 2 3 You 
+: 3716 2 10 shoul
+: 3720 2 8 d’ve 
+: 3724 4 8 known 
+: 3732 2 8 bet
+: 3736 2 8 te
+: 3740 4 10 ~r 
+- 3746
+: 3772 2 8 Than 
+: 3776 2 6 to 
+: 3780 4 8 mess 
+: 3788 2 8 with 
+: 3792 2 10 me, 
+: 3796 4 11 ho
+: 3804 6 10 ney 
+- 3812
+: 3840 2 3 I’m 
+: 3844 2 10 gon
+: 3848 2 8 na 
+: 3852 4 8 love 
+: 3860 6 8 ya, 
+- 3868
+: 3872 2 3 I’m 
+: 3876 2 11 gon
+: 3880 2 10 na 
+: 3884 4 10 love 
+: 3892 6 10 ya 
+- 3900
+: 3908 2 11 Gon
+: 3912 2 10 na 
+: 3916 4 10 love 
+: 3924 6 10 ya, 
+- 3932
+: 3940 2 11 Gon
+: 3944 2 10 na 
+: 3948 4 10 love 
+: 3956 6 10 ya 
+- 3963
+: 3964 2 8 Like 
+: 3968 2 6 a 
+: 3972 4 8 black 
+: 3980 2 8 wi
+: 3984 2 10 dow, 
+: 3988 2 10 ba
+: 3992 2 11 ~
+: 3996 8 10 by 
+- 4006
+F 4220 2 0 Bla-
+F 4224 4 0 bla-
+F 4232 4 0 bla-
+F 4240 2 0 black 
+F 4244 2 0 wi
+F 4248 2 0 dow, 
+F 4252 2 0 ba
+F 4256 6 0 by 
+E

@@ -1,0 +1,936 @@
+#ARTIST:Biz Markie
+#TITLE:Just A Friend
+#MP3:Biz Markie - Just A Friend.mp3
+#CREATOR:IC
+#EDITION:SingStar Legends [US]
+#GENRE:Hip-Hop
+#YEAR:1989
+#LANGUAGE:English
+#BPM:340.3
+#GAP:39320
+#VIDEO:v=9aofoBrFNdg,co=https://www.rollingstone.com/wp-content/uploads/2021/09/480-biz-markie-just-a-friend.jpg,bg=biz-markie-4dd6dc8d1d309.jpg
+F 0 2 12 Have 
+F 4 2 12 you 
+F 8 2 12 e
+F 12 2 12 ver 
+F 16 2 12 met 
+F 20 2 12 a 
+F 24 5 12 girl 
+- 31
+F 32 2 12 That 
+F 36 2 12 you 
+F 41 5 12 tried 
+F 49 2 12 to 
+F 53 5 12 date 
+- 60
+F 65 2 10 But 
+F 69 2 10 a 
+F 73 2 10 year 
+F 77 2 10 to 
+F 81 3 10 make 
+F 89 3 10 love 
+- 94
+F 97 3 10 She 
+F 105 2 10 wan
+F 109 2 10 ted 
+F 113 2 10 you 
+F 117 2 10 to 
+F 121 4 10 wait 
+- 127
+F 137 2 12 Let 
+F 141 2 12 me 
+F 145 2 12 tell 
+F 149 1 12 ya 
+F 151 1 12 a 
+F 153 2 12 sto
+F 157 2 12 ry 
+F 161 2 12 of 
+- 164
+F 165 4 12 My 
+F 173 2 12 si
+F 177 2 12 tu
+F 181 3 12 a
+F 189 2 12 tion 
+- 192
+F 193 2 10 I 
+F 197 2 10 was 
+F 201 2 10 talk
+F 205 2 10 in’ 
+F 209 2 10 to 
+F 213 2 10 this 
+F 217 3 10 girl 
+- 222
+F 225 2 10 From 
+F 229 2 10 the 
+F 233 2 10 U 
+F 237 3 10 S 
+F 245 3 10 na
+F 253 4 10 tion 
+- 259
+F 261 2 12 The 
+F 265 2 12 way 
+F 269 2 12 that 
+F 273 2 12 I 
+F 277 4 12 met 
+- 283
+F 285 2 12 Her 
+F 289 2 12 was 
+F 293 2 12 on 
+F 297 2 12 tour 
+F 301 2 12 at 
+F 305 2 12 a 
+F 309 3 12 con
+F 317 3 12 cert 
+- 322
+F 325 2 10 She 
+F 329 3 10 had 
+F 336 4 10 long 
+F 344 5 10 hair 
+- 351
+F 353 2 10 And 
+F 357 2 10 a 
+F 361 4 10 short 
+F 369 2 10 mi
+F 373 2 10 ni 
+F 377 4 10 skirt 
+- 383
+F 388 2 12 I 
+F 392 2 12 just 
+F 396 2 12 got 
+F 400 3 12 on 
+F 408 4 12 stage 
+- 414
+F 416 2 12 Drip
+F 420 2 12 pin’ 
+F 424 2 12 pour
+F 428 2 12 in’ 
+F 432 2 12 with 
+F 436 3 12 sweat 
+- 441
+F 448 2 10 I 
+F 452 2 10 was 
+F 456 2 10 walk
+F 460 2 10 in’ 
+F 464 2 10 through 
+F 468 2 10 the 
+F 472 5 10 crowd 
+- 479
+F 484 2 10 And 
+F 488 2 10 guess 
+F 492 2 10 who 
+F 496 3 10 I 
+F 502 3 10 met 
+- 507
+F 516 2 12 I 
+F 520 2 12 whis
+F 524 2 12 pered 
+F 528 2 12 in 
+F 532 2 12 her 
+F 536 5 12 ear 
+- 543
+F 544 2 12 Come 
+F 552 2 12 to 
+F 556 2 12 the 
+F 560 2 12 pic
+F 564 2 12 ture 
+F 568 2 12 booth 
+- 571
+F 572 2 10 So 
+F 576 2 10 I 
+F 580 2 10 can 
+F 584 2 10 ask 
+F 588 2 10 you 
+F 592 2 10 some 
+F 596 2 10 ques
+F 600 2 10 tions 
+F 604 2 10 to 
+F 608 2 10 see 
+- 611
+F 612 2 10 If 
+F 616 1 10 you’re 
+F 618 1 10 a 
+F 624 2 10 hun
+F 628 2 10 dred 
+F 632 4 10 proof 
+- 638
+F 644 2 12 I 
+F 648 5 12 asked 
+F 656 2 12 her 
+F 660 2 12 her 
+F 664 2 12 name 
+- 667
+F 668 2 12 She 
+F 672 3 12 said 
+F 680 4 12 blah
+F 686 4 12 blah
+F 692 4 12 blah 
+- 698
+F 699 2 10 She 
+F 703 3 10 had 
+F 711 5 10 nine 
+F 720 3 10 ten 
+F 728 4 10 pants 
+- 734
+F 736 2 10 And 
+F 740 2 10 a 
+F 744 2 10 ve
+F 748 2 10 ry 
+F 752 3 10 big 
+F 759 5 10 bra 
+- 766
+F 771 2 12 I 
+F 775 2 12 took 
+F 779 2 12 a 
+F 783 2 12 couple 
+F 787 2 12 of 
+F 791 3 12 flicks 
+- 796
+F 799 3 12 And 
+F 807 2 12 she 
+F 811 2 12 was 
+F 815 2 12 en
+F 819 5 12 thused 
+- 826
+F 827 2 10 I 
+F 831 3 10 said 
+F 839 2 10 how 
+F 843 1 10 do 
+F 845 1 10 you 
+F 847 2 10 like 
+F 851 2 10 the 
+F 855 2 10 show? 
+- 858
+F 859 2 10 She 
+F 863 2 10 said 
+F 867 2 10 I 
+F 871 2 10 was 
+F 875 2 10 ve
+F 879 2 10 ry 
+F 883 2 10 a
+F 887 4 10 mused 
+- 893
+F 899 2 12 I 
+F 903 2 12 star
+F 907 2 12 ted 
+F 911 2 12 throw
+F 915 2 12 in’ 
+F 919 2 12 bass 
+F 923 2 12 she 
+F 927 2 12 star
+F 931 2 12 ted 
+- 934
+F 935 2 12 Throw
+F 939 2 12 in’ 
+F 943 3 12 back 
+F 949 3 12 mid 
+F 955 4 12 range 
+- 961
+F 963 2 10 But 
+F 967 1 10 when 
+F 969 3 10 I 
+F 975 2 10 sprung 
+F 979 2 10 the 
+F 983 2 10 ques
+F 987 4 10 tion 
+- 993
+F 995 2 10 She 
+F 999 2 10 ac
+F 1003 2 10 ted 
+F 1007 2 10 kind 
+F 1011 2 10 of 
+F 1015 4 10 strange 
+- 1021
+F 1031 2 12 Then 
+F 1035 1 12 when 
+F 1037 1 12 I 
+F 1039 2 12 asked 
+- 1043
+F 1047 2 12 Do 
+F 1051 2 12 ya 
+F 1055 2 12 have 
+F 1059 2 12 a 
+F 1063 2 12 man? 
+- 1066
+F 1067 2 12 She 
+F 1071 2 12 tried 
+F 1075 2 12 to 
+F 1079 2 12 pre
+F 1083 4 12 tend 
+- 1089
+F 1091 2 10 She 
+F 1095 3 10 said 
+F 1103 2 10 no 
+F 1107 3 10 I 
+F 1112 4 10 don’t 
+- 1118
+F 1123 2 10 I 
+F 1127 2 10 on
+F 1131 3 10 ly 
+F 1136 3 10 have 
+F 1141 3 10 a 
+F 1150 6 10 friend 
+- 1158
+F 1186 3 12 Come 
+F 1191 9 12 on 
+- 1202
+F 1210 2 12 I’m 
+F 1214 2 12 not 
+F 1218 3 12 even 
+F 1226 5 12 goin’ 
+F 1234 2 12 for 
+F 1238 2 12 it 
+- 1242
+F 1246 1 10 This 
+F 1248 1 10 is 
+F 1250 2 10 what 
+F 1254 2 10 I’m 
+F 1258 2 10 goin’ 
+F 1262 2 10 to 
+F 1266 4 10 sing 
+- 1272
+: 1287 11 16 You 
+- 1300
+: 1323 3 16 You 
+: 1331 3 16 got 
+: 1339 2 16 what 
+: 1343 3 16 I 
+: 1351 15 16 need
+: 1367 15 14 ~ 
+- 1384
+: 1403 2 9 But 
+: 1407 3 12 you 
+: 1415 5 14 say 
+: 1423 5 16 he’s 
+: 1431 4 14 just 
+: 1439 2 12 a 
+: 1444 5 14 friend 
+- 1451
+: 1467 3 9 And 
+: 1471 4 12 you 
+: 1479 4 14 say 
+: 1487 4 16 he’s 
+: 1495 4 14 just 
+: 1503 2 12 a 
+: 1507 6 14 fre 
+- 1514
+* 1515 6 19 Oh 
+: 1527 4 19 ba
+: 1535 6 19 by 
+: 1547 14 16 you 
+- 1563
+: 1587 4 19 Got 
+: 1595 3 14 what 
+: 1599 4 16 I 
+: 1607 15 16 need
+: 1623 15 14 ~ 
+- 1640
+: 1658 3 9 But 
+: 1662 3 12 you 
+: 1670 5 14 say 
+: 1678 5 16 he’s 
+: 1686 3 14 just 
+: 1694 2 12 a 
+: 1699 5 14 friend 
+- 1706
+: 1721 3 9 But 
+: 1725 3 12 you 
+: 1733 4 14 say 
+: 1741 4 16 he’s 
+: 1749 4 14 just 
+: 1758 3 12 a 
+: 1764 3 14 fre 
+- 1769
+: 1773 12 19 Oh 
+: 1789 5 19 ba
+: 1798 8 19 by 
+: 1807 2 17 you
+: 1810 4 19 ~
+: 1815 14 16 ~ 
+- 1831
+: 1841 4 16 Got 
+: 1849 3 14 what 
+: 1853 5 16 I 
+: 1861 15 16 need
+: 1877 8 14 ~ 
+- 1887
+: 1913 3 9 But 
+: 1917 3 12 you 
+: 1925 4 14 say 
+: 1933 4 16 he’s 
+: 1941 4 14 just 
+: 1949 2 12 a 
+: 1953 5 14 friend 
+- 1960
+: 1977 3 9 But 
+: 1981 3 12 you 
+: 1989 4 14 say 
+: 1997 4 16 he’s 
+: 2005 4 14 just 
+: 2013 4 12 a 
+: 2021 5 14 friend 
+- 2028
+F 2044 2 12 So 
+F 2048 2 12 I 
+F 2052 2 12 took 
+F 2056 2 12 blah
+F 2060 2 12 blah’s 
+F 2064 4 12 word 
+F 2072 2 12 for 
+F 2076 3 12 it 
+- 2081
+F 2085 2 12 At 
+F 2090 3 12 this 
+F 2097 4 12 time 
+- 2103
+F 2104 2 10 I 
+F 2108 3 10 thought 
+F 2116 2 10 just 
+F 2120 2 10 hav
+F 2124 2 10 in’ 
+F 2128 2 10 a 
+F 2132 3 10 friend 
+- 2137
+F 2140 2 10 Could
+F 2144 2 10 n’t 
+F 2148 2 10 be 
+F 2153 3 10 no 
+F 2161 7 10 crime 
+- 2170
+F 2177 2 12 ’Cause 
+F 2181 2 12 I 
+F 2186 3 12 have 
+F 2194 5 12 friends 
+- 2201
+F 2209 2 12 And 
+F 2213 2 12 that’s 
+F 2221 2 12 a 
+F 2225 5 12 fact 
+- 2232
+F 2236 3 10 Like 
+F 2244 5 10 Ag
+F 2252 4 10 nes, 
+F 2260 2 10 A
+F 2264 2 10 ga
+F 2268 2 10 tha 
+- 2271
+F 2272 2 10 Ger
+F 2277 3 10 maine 
+F 2285 2 10 and 
+F 2289 4 10 Jacq 
+- 2295
+F 2304 2 12 For
+F 2308 2 12 get 
+F 2312 2 12 a
+F 2316 2 12 bout 
+F 2320 3 12 that 
+- 2325
+F 2328 3 12 Let’s 
+F 2335 2 12 go 
+F 2339 2 12 in
+F 2347 2 12 to 
+F 2351 2 12 the 
+F 2355 4 12 story 
+- 2361
+F 2368 2 10 A
+F 2372 2 10 bout 
+F 2376 2 10 a 
+F 2380 2 10 girl 
+F 2384 2 10 named 
+F 2388 2 10 blah
+F 2392 2 10 blah
+F 2396 3 10 blah 
+- 2401
+F 2404 3 10 That 
+F 2412 3 10 a
+F 2416 4 10 dored 
+F 2424 4 10 me 
+- 2430
+F 2436 2 12 So 
+F 2440 2 12 we 
+F 2444 2 12 star
+F 2448 2 12 ted 
+F 2452 4 12 talk
+F 2460 3 12 in’ 
+- 2465
+F 2468 2 12 Get
+F 2472 2 12 tin’ 
+F 2476 2 12 fa
+F 2480 2 12 mi
+F 2484 2 12 li
+F 2488 3 12 ar 
+- 2493
+F 2498 2 10 Spend
+F 2502 1 10 in’ 
+F 2505 1 10 a 
+F 2507 2 10 lot 
+F 2511 2 10 of 
+F 2515 5 10 time 
+- 2522
+F 2527 2 10 So 
+F 2531 5 10 we 
+F 2540 2 10 can 
+F 2544 3 10 build 
+F 2551 3 10 a 
+- 2556
+F 2560 2 12 Re
+F 2564 3 12 la
+F 2572 3 12 tion
+F 2580 3 12 ship 
+- 2585
+F 2592 2 12 Or 
+F 2596 2 12 some 
+F 2600 2 12 un
+F 2604 2 12 der
+F 2608 4 12 stan
+F 2616 3 12 ding 
+- 2621
+F 2624 2 10 How 
+F 2628 2 10 it’s 
+F 2632 2 10 gon
+F 2636 2 10 na 
+F 2640 2 10 be 
+F 2644 2 10 in 
+F 2648 2 10 the 
+F 2652 2 10 fu
+F 2656 2 10 ture 
+- 2659
+F 2660 4 10 We 
+F 2668 2 10 was 
+F 2672 5 10 plan
+F 2680 3 10 nin’ 
+- 2685
+F 2691 2 12 Eve
+F 2695 2 12 ry
+F 2699 4 12 thing 
+F 2707 2 12 sound
+F 2711 2 12 ed 
+F 2715 4 12 so 
+- 2721
+F 2723 4 12 Dan
+F 2729 2 12 dy 
+F 2732 2 12 and 
+F 2737 6 12 sweet 
+- 2745
+F 2747 2 10 I 
+F 2751 2 10 had 
+F 2755 2 10 no 
+F 2761 5 10 i
+F 2768 10 10 dea 
+- 2779
+F 2780 2 10 I 
+F 2784 2 10 was 
+F 2788 3 10 in 
+F 2793 1 10 for 
+F 2795 2 10 a 
+F 2800 4 10 treat 
+- 2806
+F 2809 3 12 Af
+F 2815 2 12 ter 
+F 2819 2 12 this 
+F 2823 2 12 was 
+F 2827 2 12 es
+F 2832 5 12 tab
+F 2839 2 12 lished 
+- 2842
+F 2843 2 12 Eve
+F 2847 2 12 ry
+F 2851 4 12 thing 
+F 2859 2 12 was 
+F 2863 4 12 cool 
+- 2869
+F 2879 2 10 The 
+F 2883 4 10 tour 
+F 2891 2 10 was 
+F 2895 5 10 o
+F 2903 2 10 ver 
+- 2906
+F 2907 2 10 And 
+F 2911 2 10 she 
+F 2915 2 10 went 
+F 2919 2 10 back 
+F 2923 2 10 to 
+F 2928 6 10 school 
+- 2936
+F 2942 2 12 I 
+F 2946 6 12 called 
+F 2955 2 12 eve
+F 2959 2 12 ry 
+F 2963 4 12 day 
+- 2969
+F 2975 2 12 To 
+F 2979 2 12 see 
+F 2983 2 12 how 
+F 2987 2 12 she 
+F 2991 2 12 was 
+F 2995 2 12 do
+F 2999 2 12 in’ 
+- 3002
+F 3003 2 12 Eve
+F 3007 2 12 ry
+F 3011 2 12 time 
+F 3015 2 12 that 
+F 3019 2 12 I 
+F 3023 5 12 called 
+F 3030 3 12 her 
+- 3035
+F 3039 2 12 It 
+F 3043 2 12 seemed 
+F 3047 2 12 some
+F 3051 2 12 thin’ 
+F 3055 2 12 was 
+F 3059 2 12 brew
+F 3063 3 12 in’ 
+- 3068
+F 3070 2 10 I 
+F 3074 2 10 called 
+F 3078 2 10 her 
+F 3082 2 10 on 
+F 3086 2 10 my 
+F 3090 2 10 dime 
+F 3094 2 10 picked 
+F 3098 2 10 up 
+- 3101
+F 3102 2 10 And 
+F 3106 2 10 then 
+F 3110 2 10 I 
+F 3114 2 10 called 
+F 3118 2 10 a
+F 3122 2 10 gain 
+F 3126 2 10 I 
+F 3130 3 10 said 
+- 3135
+F 3139 5 10 Yo 
+F 3147 2 10 who 
+F 3151 2 10 was 
+F 3155 4 10 that? 
+- 3161
+F 3170 4 12 Oh 
+F 3178 3 12 he’s 
+F 3186 3 12 just 
+F 3193 3 12 a 
+F 3201 7 12 friend 
+- 3210
+F 3233 4 12 Don’t 
+F 3240 2 12 gim
+F 3244 2 12 me 
+F 3249 7 12 that 
+- 3258
+F 3274 2 12 Don’t 
+F 3278 2 12 e
+F 3282 2 12 ven 
+F 3286 2 12 gim
+F 3290 2 12 me 
+F 3294 3 12 that 
+- 3299
+F 3302 2 12 Jus’ 
+F 3306 2 12 bust 
+F 3314 3 12 this 
+- 3319
+: 3330 11 16 You 
+- 3343
+: 3366 3 16 You 
+: 3374 3 16 got 
+: 3382 2 16 what 
+: 3386 3 16 I 
+: 3394 15 16 need
+: 3410 15 14 ~ 
+- 3427
+: 3446 2 9 But 
+: 3450 3 12 you 
+: 3458 5 14 say 
+: 3466 5 16 he’s 
+: 3474 4 14 just 
+: 3482 2 12 a 
+: 3487 5 14 friend 
+- 3494
+: 3510 3 9 And 
+: 3514 4 12 you 
+: 3522 4 14 say 
+: 3530 4 16 he’s 
+: 3538 4 14 just 
+: 3546 2 12 a 
+: 3550 4 14 fre 
+- 3556
+: 3558 8 19 Oh 
+: 3569 4 19 ba
+: 3577 6 19 by 
+: 3589 14 16 you 
+- 3605
+: 3629 4 19 Got 
+: 3637 3 14 what 
+: 3641 4 16 I 
+: 3649 15 16 need
+: 3665 15 14 ~ 
+- 3682
+: 3701 3 9 But 
+: 3705 3 12 you 
+: 3713 5 14 say 
+: 3721 5 16 he’s 
+: 3729 3 14 just 
+: 3737 2 12 a 
+: 3742 5 14 friend 
+- 3749
+: 3765 3 9 But 
+: 3769 3 12 you 
+: 3777 4 14 say 
+: 3785 4 16 he’s 
+: 3793 4 14 just 
+: 3802 3 12 a 
+: 3807 3 14 fre 
+- 3812
+: 3816 12 19 Oh 
+: 3832 5 19 ba
+: 3841 8 19 by 
+: 3850 2 17 you
+: 3853 4 19 ~
+: 3858 14 16 ~ 
+- 3874
+: 3885 4 16 Got 
+: 3893 3 14 what 
+: 3897 5 16 I 
+: 3905 15 16 need
+: 3921 8 14 ~ 
+- 3931
+: 3957 3 9 But 
+: 3961 3 12 you 
+: 3969 4 14 say 
+: 3977 4 16 he’s 
+: 3985 4 14 just 
+: 3993 2 12 a 
+: 3997 5 14 friend 
+- 4004
+: 4021 3 9 But 
+: 4025 3 12 you 
+: 4033 4 14 say 
+: 4041 4 16 he’s 
+: 4049 4 14 just 
+: 4057 4 12 a 
+* 4065 5 14 friend 
+- 4072
+F 4087 2 12 So 
+F 4091 2 12 I 
+F 4095 2 12 came 
+F 4099 2 12 to 
+F 4103 2 12 her 
+F 4107 6 12 col
+F 4116 2 12 lege 
+- 4119
+F 4120 2 12 On 
+F 4124 2 12 a 
+F 4128 2 12 sur
+F 4132 3 12 prise 
+F 4140 3 12 vi
+F 4148 2 12 sit 
+- 4152
+F 4156 2 10 To 
+F 4160 4 10 see 
+F 4168 4 10 my 
+F 4176 5 10 girl 
+F 4184 2 10 that 
+F 4188 2 10 was 
+F 4192 2 10 so 
+F 4196 3 10 ex
+F 4206 3 10 qui
+F 4211 2 10 site 
+- 4214
+F 4215 2 12 It 
+F 4219 2 12 was 
+F 4223 4 12 a 
+F 4231 4 12 school 
+F 4239 4 12 day 
+- 4245
+F 4251 2 12 I 
+F 4255 2 12 knew 
+F 4260 2 12 she 
+F 4264 3 12 was 
+F 4272 6 12 there 
+- 4280
+F 4284 2 10 The 
+F 4288 4 10 first 
+F 4296 2 10 se
+F 4300 3 10 mes
+F 4308 3 10 ter 
+- 4313
+F 4316 2 10 Of 
+F 4324 2 10 the 
+F 4328 3 10 school 
+F 4336 5 10 year 
+- 4343
+F 4348 2 12 I 
+F 4352 2 12 went 
+F 4356 2 12 to 
+F 4360 2 12 a 
+F 4364 4 12 gate 
+F 4371 2 12 to 
+F 4375 3 12 ask 
+- 4380
+F 4383 2 12 Where 
+F 4387 2 12 was 
+F 4391 2 12 her 
+F 4395 7 12 dorm 
+- 4404
+F 4411 2 10 This 
+F 4415 2 10 guy 
+F 4419 2 10 made 
+F 4423 2 10 me 
+F 4427 3 10 fill 
+F 4435 3 10 out 
+- 4440
+F 4443 2 10 A 
+F 4447 2 10 vi
+F 4451 2 10 si
+F 4455 3 10 tors 
+F 4463 5 10 form 
+- 4470
+F 4475 2 12 He 
+F 4479 2 12 told 
+F 4483 2 12 me 
+F 4487 2 12 where 
+F 4491 2 12 it 
+F 4495 6 12 was 
+- 4503
+F 4507 2 12 And 
+F 4511 2 12 I 
+F 4515 2 12 was 
+F 4519 2 12 on 
+F 4523 2 12 my 
+F 4527 5 12 way 
+- 4534
+F 4539 2 10 To 
+F 4543 2 10 see 
+F 4547 2 10 my 
+F 4551 2 10 ba
+F 4555 2 10 by 
+F 4559 5 10 doll 
+- 4566
+F 4567 2 10 I 
+F 4571 2 10 was 
+F 4575 2 10 hap
+F 4579 2 10 py 
+F 4583 2 10 to 
+F 4587 4 10 say 
+- 4593
+F 4603 2 12 I 
+F 4607 1 12 ar
+F 4609 3 12 rived 
+F 4615 2 12 in 
+F 4619 3 12 front 
+F 4627 2 12 of 
+- 4631
+F 4634 2 12 The 
+F 4638 5 12 dor
+F 4646 2 12 mi
+F 4651 5 12 to
+F 4659 2 12 ry 
+- 4663
+F 4669 4 10 Yo 
+F 4676 3 10 could 
+F 4683 2 10 you 
+F 4687 2 10 tell 
+F 4691 2 10 me 
+F 4695 3 10 where 
+F 4703 3 10 is 
+F 4711 3 10 door 
+F 4719 4 10 three? 
+- 4725
+F 4730 2 12 They 
+F 4734 2 12 showed 
+F 4738 2 12 me 
+F 4742 2 12 where 
+F 4746 2 12 it 
+F 4750 4 12 was 
+- 4756
+F 4767 5 12 For 
+F 4775 2 12 the 
+F 4779 5 12 mo
+F 4787 2 12 ment 
+- 4791
+F 4794 2 10 I 
+F 4798 2 10 did
+F 4802 2 10 n’t 
+F 4806 3 10 know 
+- 4811
+F 4814 2 10 I 
+F 4818 2 10 was 
+F 4822 2 10 in 
+F 4826 2 10 for 
+F 4830 2 10 such 
+F 4834 2 10 an 
+F 4838 2 10 e
+F 4842 4 10 vent 
+- 4848
+F 4853 2 12 So 
+F 4857 2 12 I 
+F 4861 4 12 came 
+F 4870 2 12 to 
+F 4874 2 12 her 
+F 4878 4 12 room 
+- 4884
+F 4890 2 12 And 
+F 4894 2 12 o
+F 4898 2 12 pened 
+F 4902 2 12 the 
+F 4907 7 12 door 
+- 4916
+F 4926 7 10 Oh 
+F 4942 7 10 snap 
+- 4951
+F 4957 3 10 Guess 
+F 4962 2 10 what 
+F 4965 3 10 I 
+F 4970 7 10 saw? 
+- 4979
+F 4985 2 12 A 
+F 4989 2 12 fel
+F 4993 2 12 la 
+F 4997 3 12 tongue
+F 5005 2 12 kis
+F 5009 2 12 sin’ 
+F 5013 3 12 my 
+- 5018
+F 5021 2 12 Girl 
+F 5025 2 12 in 
+F 5029 2 12 the 
+F 5033 6 12 mouth 
+- 5041
+F 5045 2 10 I 
+F 5049 2 10 was 
+F 5053 2 10 so 
+F 5057 3 10 in 
+F 5065 3 10 shock 
+- 5070
+F 5073 2 10 My 
+F 5077 3 10 heart 
+F 5085 3 10 went 
+F 5093 4 10 down 
+F 5101 5 10 south 
+- 5108
+F 5113 2 12 So 
+F 5117 5 12 please 
+F 5125 2 12 lis
+F 5129 2 12 ten 
+F 5133 2 12 to 
+F 5137 2 12 the 
+- 5140
+F 5141 2 12 Mes
+F 5145 2 12 sage 
+F 5149 2 12 that 
+F 5153 3 12 I 
+F 5161 4 12 say 
+- 5167
+F 5169 2 10 Don’t 
+F 5173 2 10 e
+F 5177 2 10 ver 
+F 5181 3 10 talk 
+F 5187 1 10 to 
+F 5189 2 10 a 
+F 5193 3 10 girl 
+- 5198
+F 5201 2 10 Who 
+F 5205 2 10 says 
+F 5209 2 10 she 
+F 5213 3 10 just 
+F 5221 2 10 has 
+F 5225 2 10 a 
+F 5230 5 10 friend 
+E

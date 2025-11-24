@@ -1,0 +1,691 @@
+#ARTIST:Childish Gambino
+#TITLE:Telegraph Ave (Oakland by Lloyd)
+#MP3:Childish Gambino - Telegraph Ave (Oakland by Lloyd).mp3
+#CREATOR:mus31
+#COVER:Childish Gambino - Telegraph Ave (Oakland by Lloyd) [CO].jpg
+#BACKGROUND:Childish Gambino - Telegraph Ave (Oakland by Lloyd) [BG].jpg
+#GENRE:Rap
+#YEAR:2013
+#LANGUAGE:English
+#BPM:346.6
+#GAP:7720
+#VIDEO:v=p3f-eDzkxcw,co=because-the-internet-52aea956c1b62.jpg,bg=childish-gambino-5ce20f5350aec.jpg
+F 0 8 0 Power 
+F 9 15 0 106! 
+- 30
+F 33 6 0 LA, 
+F 40 2 0 it’s 
+F 43 2 0 ya 
+F 46 3 0 girl, 
+F 50 5 0 Yesi 
+F 56 5 0 Ortiz 
+- 65
+F 67 3 0 Got 
+F 71 3 0 some 
+F 75 9 0 brand-new 
+F 85 6 0 music 
+- 93
+F 95 3 0 I 
+F 99 2 0 need 
+F 102 1 0 y’all 
+F 104 2 0 to 
+F 107 1 0 turn 
+F 109 2 0 it 
+F 112 2 0 up 
+F 115 3 0 and 
+F 123 3 0 let 
+F 127 1 0 me 
+F 129 3 0 know 
+F 133 1 0 what 
+F 135 2 0 you 
+F 138 3 0 think 
+- 141
+F 142 6 0 It’s 
+F 150 8 0 Lloyd, 
+F 159 7 0 called 
+F 167 15 0 “Oakland”, 
+F 183 5 0 on 
+F 189 7 0 Power 
+F 197 6 0 106 
+- 213
+: 245 3 3 I 
+: 249 4 5 was 
+: 255 5 7 ma
+: 261 5 8 king 
+: 267 5 7 Jap
+: 273 6 5 an
+: 280 6 5 ese 
+: 289 5 3 and 
+: 296 4 5 she’s 
+: 301 4 7 wat
+: 306 5 8 ching 
+: 312 5 7 D
+: 318 4 5 V
+: 323 2 5 Ds 
+- 325
+: 326 5 7 In 
+: 333 7 5 Oak
+: 343 9 7 land, 
+: 366 7 7 in 
+: 375 7 5 Oak
+: 385 9 7 land 
+- 404
+: 411 6 3 Now 
+: 419 4 5 I’m 
+: 425 6 7 dri
+: 432 6 8 ving 
+: 440 4 7 up 
+: 445 3 5 the 
+: 450 5 5 5 
+: 457 3 3 and 
+: 462 4 5 she 
+: 468 6 7 waits 
+: 477 4 8 ’til 
+: 483 4 7 I 
+: 489 1 5 ar
+: 491 5 5 rive 
+- 497
+: 499 5 7 In 
+: 506 6 5 Oak
+: 514 7 7 land, 
+: 541 5 7 in 
+: 548 6 5 Oak
+: 555 7 7 land 
+- 572
+: 596 1 10 E
+: 598 4 10 very
+: 603 8 10 thing 
+: 616 4 7 that 
+: 622 2 5 I 
+: 626 3 7 wan
+: 631 6 5 ted 
+- 643
+: 646 2 10 On
+: 649 2 10 ly 
+: 652 1 10 got
+: 654 2 10 ta 
+: 658 5 10 drive 
+: 665 2 7 for 
+: 668 2 7 the 
+: 671 2 7 mo
+: 674 6 5 ment 
+- 682
+: 684 1 10 If 
+: 686 2 10 you 
+: 689 2 10 tell 
+: 692 2 7 me, 
+: 695 1 7 “Turn 
+: 697 2 5 a
+: 700 5 7 round,” 
+: 706 2 7 then 
+: 709 2 5 I’m 
+: 712 2 7 on 
+: 716 3 5 it 
+- 723
+: 725 2 7 For 
+: 728 2 5 the 
+: 732 3 7 mo
+: 737 5 5 ment, 
+: 748 2 7 but 
+: 751 2 7 you 
+: 754 4 7 know 
+: 759 5 5 me 
+- 769
+: 771 2 3 You 
+: 774 4 10 know 
+: 779 3 7 how 
+: 783 2 5 I 
+: 786 3 7 get 
+: 790 3 7 when 
+: 794 3 7 I’m 
+: 798 4 7 lone
+: 803 4 5 ly 
+- 809
+: 811 3 10 And 
+: 815 1 10 I 
+: 817 3 10 think 
+: 821 1 7 a
+: 823 4 7 bout 
+: 828 4 7 you 
+: 833 3 7 and 
+: 837 2 5 the 
+: 841 3 7 mo
+: 845 7 5 ments 
+- 853
+: 855 2 3 But 
+: 859 1 10 e
+: 861 1 10 very
+: 863 3 10 thing 
+: 868 1 7 you 
+: 870 2 7 do 
+: 873 2 5 is 
+: 876 4 7 so 
+: 881 5 7 Oak
+: 888 6 5 land, 
+: 896 5 7 so 
+: 902 6 7 Oak
+: 909 7 5 land 
+- 925
+: 928 6 10 Foot 
+: 937 2 8 on 
+: 940 4 7 the 
+: 947 8 5 gas, 
+: 957 13 10 I’m 
+: 971 5 10 just 
+: 978 4 8 try
+: 983 3 7 na 
+: 987 14 5 pass 
+- 1004
+: 1006 6 3 All 
+: 1014 5 3 the 
+: 1022 7 5 red 
+: 1030 13 7 lights 
+: 1046 7 3 and 
+: 1056 4 5 the 
+: 1062 10 5 stop 
+: 1074 12 10 signs 
+- 1089
+: 1091 11 10 I’m 
+: 1104 5 8 rea
+: 1110 3 7 dy 
+: 1115 3 5 to 
+: 1120 4 5 g
+: 1125 5 3 o 
+- 1136
+: 1139 3 5 Be
+: 1143 3 7 fore 
+: 1147 1 7 I 
+: 1149 2 7 get 
+: 1152 2 7 to 
+: 1156 2 7 The 
+: 1159 3 7 Bay, 
+: 1163 5 7 babe, 
+: 1169 6 7 that’s 
+: 1176 2 7 a 
+: 1179 4 7 pro
+: 1184 5 5 blem 
+- 1192
+: 1194 4 3 ’Cause 
+: 1199 2 7 I’m 
+: 1202 4 7 way 
+: 1207 3 7 too 
+: 1211 6 7 scared 
+: 1218 2 7 to 
+: 1221 3 10 call 
+- 1224
+: 1225 3 7 And 
+: 1229 3 7 you 
+: 1233 5 7 might 
+: 1239 3 7 get 
+: 1243 3 7 me 
+: 1247 3 8 to 
+: 1251 8 10 stay, 
+: 1263 3 7 and 
+: 1267 1 5 oh 
+- 1268
+: 1269 2 3 I 
+: 1272 4 5 don’t 
+: 1278 3 7 real
+: 1282 3 8 ly 
+: 1286 4 7 mind 
+: 1293 3 5 the 
+: 1297 6 5 drive 
+- 1305
+: 1307 5 3 But 
+: 1313 2 5 I 
+: 1316 6 7 think 
+: 1323 4 8 I’d 
+: 1329 4 7 rat
+: 1334 6 5 her 
+: 1341 6 5 die 
+: 1349 4 7 in 
+: 1354 8 5 Oak
+: 1364 11 7 land, 
+* 1391 4 7 in 
+* 1398 6 5 Oak
+* 1405 7 7 land 
+- 1422
+: 1437 3 3 With 
+: 1441 3 5 my 
+: 1447 5 7 hands 
+: 1454 4 8 on 
+: 1459 4 7 two 
+: 1464 3 5 and 
+: 1468 6 5 ten 
+- 1478
+: 1480 3 3 So 
+: 1484 3 5 I 
+: 1488 6 7 guess 
+: 1496 3 8 it 
+: 1500 6 7 all 
+: 1508 4 5 de
+: 1513 7 5 pends 
+: 1522 4 7 on 
+: 1527 7 5 Oak
+: 1535 8 7 land, 
+* 1562 6 7 on 
+* 1570 6 5 Oak
+* 1577 8 7 land 
+- 1595
+: 1608 4 3 And 
+: 1614 3 5 I’m 
+: 1618 6 7 ner
+: 1625 4 8 vous, 
+: 1630 5 7 truth 
+: 1636 3 5 be 
+: 1640 8 5 told 
+- 1648
+: 1650 3 3 I 
+: 1655 4 3 ne
+: 1661 4 5 ver 
+: 1666 4 7 saw 
+: 1671 3 8 me 
+: 1675 4 7 gro
+: 1680 3 5 wing 
+: 1684 5 5 old 
+: 1691 5 7 in 
+: 1699 8 5 Oak
+: 1708 8 7 land, 
+: 1733 5 7 in 
+: 1739 8 5 Oak
+: 1748 7 7 land 
+- 1765
+: 1776 3 3 And 
+: 1780 4 3 if 
+: 1787 4 5 I 
+: 1792 4 7 mar
+: 1797 5 8 ried 
+: 1803 4 7 you 
+: 1808 4 5 to
+: 1813 5 5 night 
+- 1818
+: 1819 3 3 It 
+: 1823 5 5 would 
+: 1829 4 7 pro
+: 1834 2 8 ba
+: 1837 4 7 bly 
+: 1842 4 7 start 
+: 1847 4 5 a 
+: 1854 7 5 riot 
+: 1862 5 7 in 
+: 1872 7 5 Oak
+: 1880 7 7 land, 
+: 1901 6 7 in 
+: 1908 9 5 Oak
+: 1918 8 7 land 
+- 1936
+: 1963 2 10 E
+: 1966 3 10 very
+: 1970 7 10 thing, 
+: 1984 3 7 that 
+: 1988 1 5 I 
+: 1990 6 7 nee
+: 1997 6 5 ded 
+- 2009
+: 2011 3 10 Now 
+: 2015 3 10 that 
+: 2019 2 7 I 
+: 2023 2 7 got 
+: 2026 2 5 you 
+: 2029 1 7 in 
+: 2031 2 5 your 
+: 2034 5 7 fee
+: 2040 6 5 lings 
+- 2047
+: 2049 1 10 E
+: 2051 2 10 very
+: 2054 2 10 thing 
+: 2057 2 7 you 
+: 2060 2 7 won’t 
+: 2063 7 7 say, 
+: 2071 3 7 you 
+: 2075 5 7 tweet 
+: 2081 1 5 it 
+- 2082
+: 2083 4 5 And 
+: 2091 3 5 a 
+: 2095 2 7 nig
+: 2098 3 8 ga 
+: 2102 4 7 don’t 
+: 2107 4 7 like 
+: 2112 5 3 that 
+: 2118 5 3 shit 
+: 2124 6 5 at 
+: 2132 10 5 all 
+- 2152
+: 2156 3 7 So 
+: 2160 5 5 trea
+: 2166 4 7 ted 
+- 2179
+: 2182 3 10 Can 
+: 2186 2 10 we 
+: 2189 3 10 just 
+: 2193 5 7 roll 
+: 2199 2 7 with 
+: 2202 2 5 the 
+: 2206 3 7 fee
+: 2210 5 5 ling? 
+- 2223
+: 2226 2 10 Can 
+: 2229 1 10 we 
+: 2231 3 10 just 
+: 2235 3 7 roll 
+: 2241 3 7 for 
+: 2246 2 5 a 
+: 2249 4 7 min
+: 2254 4 5 ute? 
+- 2260
+: 2262 3 7 Wait 
+: 2266 1 7 a 
+: 2268 4 7 min
+: 2273 5 5 ute 
+- 2286
+: 2289 7 10 Foot 
+: 2299 5 8 on 
+: 2305 4 7 the 
+: 2310 11 5 gas, 
+* 2323 10 10 I’m 
+* 2334 6 10 just 
+* 2341 4 8 try
+* 2346 4 7 na 
+* 2352 11 5 pass 
+- 2366
+: 2368 8 3 All 
+: 2377 6 3 the 
+* 2384 7 5 red 
+* 2392 16 7 lights 
+: 2411 8 3 and 
+: 2421 3 3 the 
+* 2425 10 5 stop 
+* 2436 16 10 signs 
+- 2452
+: 2453 10 10 I’m 
+: 2468 7 8 rea
+: 2476 6 7 dy 
+: 2483 3 5 to 
+: 2487 4 5 g
+: 2492 6 3 o 
+- 2499
+: 2501 4 3 But 
+: 2506 4 5 I’m 
+: 2511 3 7 real
+: 2515 3 7 ly 
+: 2519 4 7 not 
+: 2524 2 7 rea
+: 2527 3 7 dy, 
+: 2531 6 7 girl, 
+: 2539 3 7 that’s 
+: 2543 2 7 a 
+: 2547 4 7 pro
+: 2552 6 5 blem 
+- 2560
+: 2562 3 3 ’Cause 
+: 2566 2 5 I’m 
+: 2569 3 7 way 
+: 2573 3 7 too 
+: 2577 6 7 scared 
+: 2584 2 8 to 
+: 2587 5 7 fall 
+- 2594
+: 2596 2 7 And 
+: 2599 2 7 I 
+: 2602 2 7 know 
+: 2605 2 7 you 
+: 2608 5 7 choose 
+: 2614 2 8 to 
+: 2617 13 10 stay, 
+: 2632 4 7 and 
+: 2637 6 5 oh 
+- 2645
+R 2647 2 0 All 
+R 2650 2 0 the 
+R 2653 7 0 girlfriends 
+R 2661 3 0 saying, 
+R 2665 2 0 “Here 
+R 2668 3 0 we 
+R 2672 3 0 go 
+R 2676 5 0 again” 
+- 2684
+R 2686 6 0 Rich 
+R 2693 5 0 kid, 
+R 2700 2 0 but 
+R 2703 1 0 he 
+R 2705 2 0 act 
+R 2708 2 0 like 
+R 2711 2 0 a 
+R 2714 8 0 gentleman 
+- 2728
+R 2731 4 0 Last 
+R 2736 3 0 one 
+R 2740 5 0 didn’t 
+R 2746 3 0 end 
+R 2750 3 0 like 
+R 2754 2 0 it 
+R 2757 4 0 should’ve 
+R 2762 4 0 been 
+- 2770
+R 2772 5 0 Two 
+R 2778 6 0 dates 
+R 2785 3 0 and 
+R 2789 2 0 he 
+R 2792 3 0 still 
+R 2796 3 0 wanna 
+R 2800 3 0 get 
+R 2804 2 0 it 
+R 2807 4 0 in 
+- 2815
+R 2817 3 0 And 
+R 2821 2 0 they’re 
+R 2824 3 0 saying 
+R 2828 2 0 it’s 
+R 2831 7 0 because 
+R 2839 1 0 of 
+R 2841 2 0 the 
+R 2844 7 0 Internet 
+- 2858
+R 2861 3 0 Try 
+R 2865 2 0 her 
+R 2868 3 0 once 
+R 2872 2 0 and 
+R 2875 2 0 it’s 
+R 2878 2 0 on 
+R 2881 2 0 to 
+R 2884 2 0 the 
+R 2887 4 0 next 
+R 2892 6 0 chick 
+- 2902
+R 2904 6 0 X-O 
+R 2911 3 0 the 
+R 2915 3 0 O 
+R 2919 4 0 face 
+R 2924 3 0 on 
+R 2928 3 0 your 
+R 2932 6 0 exes, 
+F 2942 6 0 right? 
+- 2994
+R 3553 4 0 And 
+R 3558 1 0 we 
+R 3560 2 0 can 
+R 3563 1 0 do 
+R 3565 2 0 the 
+R 3568 3 0 same 
+R 3572 3 0 thing 
+R 3576 2 0 if 
+R 3579 3 0 you 
+R 3583 4 0 wanna 
+R 3588 4 0 have 
+R 3593 1 0 at 
+R 3595 2 0 it 
+- 3597
+R 3598 3 0 When 
+R 3602 2 0 your 
+R 3605 4 0 thoughts 
+R 3610 5 0 can’t 
+R 3616 4 0 breathe 
+R 3621 1 0 and 
+R 3623 3 0 you 
+R 3627 3 0 thinking 
+R 3631 8 0 asthmatic 
+- 3641
+R 3643 3 0 And 
+R 3647 2 0 you 
+R 3650 2 0 wanna 
+R 3653 1 0 be 
+R 3655 1 0 a 
+R 3657 3 0 mom 
+R 3661 4 0 and 
+R 3666 3 0 I 
+R 3670 4 0 wasn’t 
+R 3675 4 0 mad 
+R 3680 2 0 at 
+R 3683 1 0 it 
+- 3684
+R 3685 2 0 I 
+R 3688 3 0 was 
+R 3692 3 0 thinking 
+R 3696 3 0 ’bout 
+R 3700 4 0 me, 
+R 3706 3 0 I’d 
+R 3710 3 0 be 
+R 3714 3 0 really 
+R 3718 4 0 bad 
+R 3723 2 0 at 
+R 3726 2 0 it 
+- 3728
+R 3729 3 0 ’Cause 
+R 3733 1 0 I’m 
+R 3735 3 0 thinking 
+R 3739 4 0 ’bout 
+R 3744 3 0 me, 
+R 3753 5 0 weeks 
+R 3759 2 0 in 
+R 3762 5 0 Dubai 
+- 3773
+R 3775 5 0 Fourth 
+R 3781 2 0 of 
+R 3784 5 0 July, 
+R 3795 5 0 house 
+R 3801 3 0 in 
+R 3805 8 0 Kauai, 
+R 3818 4 0 yeah, 
+R 3823 2 0 we 
+R 3826 2 0 can 
+R 3829 5 0 try 
+- 3844
+R 3862 4 0 So 
+R 3867 3 0 let’s 
+R 3871 5 0 try 
+- 3922
+: 3992 11 0 W
+: 4007 51 8 h
+: 4061 7 7 o
+: 4069 7 5 a 
+: 4157 16 0 w
+: 4175 27 5 ho
+: 4205 19 3 a 
+- 4234
+: 4245 5 3 I 
+: 4252 6 5 took 
+: 4259 5 7 off 
+: 4265 5 8 my 
+: 4271 5 7 nine 
+: 4277 2 5 to 
+: 4280 7 5 five 
+- 4287
+: 4289 4 3 But 
+: 4294 3 5 you 
+: 4298 6 7 still 
+: 4306 4 8 don’t 
+: 4311 5 7 have 
+: 4317 2 5 the 
+: 4320 5 5 time 
+: 4329 5 7 to 
+: 4335 10 5 kiss 
+: 4346 11 7 me, 
+* 4371 7 7 just 
+* 4379 6 5 hit 
+* 4387 9 7 me 
+- 4406
+: 4416 5 3 And 
+: 4422 3 3 if 
+: 4426 3 5 I 
+: 4430 5 7 left 
+: 4436 4 8 you 
+: 4441 5 7 all 
+: 4447 3 5 a
+: 4451 7 5 lone, 
+: 4459 4 3 would 
+: 4464 3 5 you 
+: 4468 6 7 still 
+: 4475 5 8 pick 
+: 4481 4 7 up 
+: 4486 2 5 the 
+: 4490 7 5 phone? 
+- 4499
+: 4501 5 7 It’s 
+: 4509 9 5 if
+: 4520 12 7 fy, 
+: 4542 5 7 you 
+: 4549 10 5 miss 
+: 4561 11 7 me 
+- 4582
+: 4592 3 3 I 
+: 4596 6 5 got 
+: 4604 5 7 furn
+: 4610 2 8 it
+: 4613 5 7 ure 
+: 4619 3 5 to 
+: 4624 6 5 move 
+- 4630
+: 4632 3 3 And 
+: 4636 4 5 we’ll 
+: 4641 6 7 both 
+: 4649 4 8 be 
+: 4654 3 7 thir
+: 4658 2 5 ty 
+: 4661 9 5 soon 
+: 4672 5 7 in 
+: 4678 9 5 Oak
+: 4688 8 7 land, 
+: 4711 5 7 in 
+: 4717 8 5 Oak
+: 4726 8 7 land 
+- 4744
+: 4757 5 10 The 
+: 4764 2 10 on
+: 4767 3 10 ly 
+: 4771 4 10 one 
+: 4776 3 7 I 
+: 4780 5 7 know 
+: 4787 4 5 is 
+: 4793 5 5 you 
+- 4798
+: 4799 5 3 So 
+: 4806 4 5 the 
+: 4811 5 7 fuck 
+: 4818 3 8 I’m 
+: 4822 3 7 sup
+: 4826 4 7 posed 
+: 4831 3 5 to 
+: 4835 2 5 do 
+: 4840 6 7 in 
+: 4847 9 5 Oak
+: 4857 10 7 land? 
+: 4886 7 7 In 
+: 4895 8 5 Oak
+: 4904 10 7 land 
+- 4924
+: 4931 4 7 In 
+: 4936 5 5 Oak
+: 4942 7 7 land, 
+: 4969 5 7 in 
+: 4976 5 5 Oak
+: 4982 7 7 land 
+- 4999
+: 5011 6 7 In 
+: 5018 7 5 Oak
+: 5027 8 7 land, 
+: 5054 6 7 in 
+: 5061 6 5 Oak
+: 5068 7 7 land 
+E

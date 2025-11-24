@@ -1,0 +1,113 @@
+#ARTIST:Paw Patrol
+#TITLE:Theme Song
+#MP3:Paw Patrol - Theme Song.mp3
+#CREATOR:dleevt
+#GENRE:Kids
+#LANGUAGE:English
+#BPM:360
+#GAP:1420
+#VIDEO:v=1UdI_eoDPKQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c8/ce/18/c8ce185f-bc54-277d-b0b3-f6c841f92726/22UMGIM93122.rgb.jpg/5000x5000bb.jpg
+#END:35438
+: 0 3 24 Paw 
+: 4 12 6 Patrol, 
+- 20
+: 22 5 6 Paw 
+: 28 12 21 Patrol, 
+- 44
+: 46 3 23 We’ll 
+: 50 5 24 be 
+: 56 5 24 there 
+: 62 3 24 on 
+: 66 4 24 the 
+: 72 12 3 double. 
+- 96
+: 100 5 4 When 
+: 106 5 24 ever 
+: 112 6 24 there’s 
+: 120 3 24 a 
+: 124 12 24 problem, 
+- 146
+: 150 9 24 ’Round 
+: 160 5 24 Ad 
+: 166 5 24 ven 
+: 172 3 24 ture 
+: 176 12 24 Bay, 
+- 200
+: 204 9 6 Ryder 
+: 214 3 6 and 
+: 218 10 24 his 
+: 230 5 24 team 
+: 236 3 24 of 
+: 240 12 24 pups 
+- 252
+: 254 5 24 Will 
+: 260 4 24 come 
+: 266 3 24 and 
+: 270 6 24 save 
+: 278 5 24 the 
+: 284 14 7 day. 
+- 300
+: 302 7 6 Marshall, 
+: 310 11 6 Rubble, 
+: 322 13 4 Chase, 
+: 336 11 2 Rocky, 
+: 348 13 1 Zuma, 
+: 362 11 1 Skye, 
+: 374 13 2 yeah! 
+- 387
+: 388 5 4 They’re 
+: 394 5 4 on 
+: 400 5 4 the 
+: 406 9 4 way. 
+- 415
+: 416 5 24 Paw 
+: 422 14 24 Patrol, 
+- 438
+: 440 5 21 Paw 
+: 446 14 21 Patrol, 
+- 462
+: 464 7 18 When 
+: 472 3 2 ever 
+: 476 9 2 you’re 
+: 486 7 2 in 
+: 494 16 4 trouble. 
+- 517
+: 520 5 4 Paw 
+: 526 16 24 Patrol, 
+- 542
+: 544 6 24 Paw 
+: 552 16 24 Patrol, 
+- 568
+: 570 3 24 We’ll 
+: 574 5 24 be 
+: 580 3 24 there 
+: 584 5 4 on 
+: 590 5 4 the 
+: 596 20 4 double. 
+- 618
+: 620 4 6 No 
+: 626 3 6 job’s 
+: 630 6 6 too 
+: 638 5 4 big, 
+- 643
+: 644 5 4 No 
+: 650 5 4 pup’s 
+: 656 7 4 too 
+: 664 13 3 small. 
+- 677
+: 678 5 3 Paw 
+: 684 17 3 Patrol, 
+- 701
+: 702 3 3 We’re 
+: 706 5 3 on 
+: 712 5 2 a 
+: 718 21 2 roll. 
+- 739
+: 740 5 2 So 
+: 746 5 2 here 
+: 752 7 40 we 
+: 760 9 40 go, 
+- 769
+: 770 9 40 Paw 
+: 780 12 40 Patrol. 
+E

@@ -1,0 +1,228 @@
+#ARTIST:Simon & Garfunkel
+#TITLE:Leaves That Are Green
+#MP3:Simon & Garfunkel - Leaves That Are Green.mp3
+#CREATOR:choosie
+#YEAR:1965
+#LANGUAGE:English
+#BPM:317.04
+#GAP:9480
+#VIDEO:a=OTlpdCPrx14,co=https://i.discogs.com/45tuUqYFiF-7RNnQg1K3F5LOZXcCQN5_kfCiVucTcZA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDky/NDEtMTUyMjUyMTY2/Ny0yMjg3LmpwZWc.jpeg,bg=simon--garfunkel-624775c383511.jpg
+: 0 2 4 I 
+: 3 2 4 was 
+: 7 2 4 twen
+: 10 2 4 ty
+: 13 3 6 -one 
+: 19 7 6 years 
+: 30 2 6 when 
+: 33 2 6 I
+: 37 12 8 ~ 
+: 54 3 8 wrote 
+: 60 3 6 this 
+: 66 8 4 song 
+- 76
+: 119 3 8 I’m 
+: 125 2 8 twen
+: 128 2 8 ty
+: 132 3 11 -two 
+: 139 3 11 now
+: 144 3 8 ~ 
+: 151 3 8 but 
+: 156 3 8 I 
+: 162 3 9 won’t 
+: 171 4 6 be 
+* 179 2 6 for 
+* 183 20 8 long 
+- 205
+: 244 20 9 Time 
+: 270 2 9 hur
+: 274 5 8 ries 
+: 283 22 6 on 
+- 307
+: 319 3 4 And 
+: 325 3 6 the 
+: 331 18 8 leaves 
+: 355 2 6 that 
+: 359 14 6 are 
+: 379 20 4 green
+: 403 6 6 ~ 
+- 411
+: 415 4 3 Turn 
+: 423 2 3 to 
+: 427 20 4 brown 
+- 449
+: 511 3 4 And 
+: 517 3 4 they 
+: 523 2 6 with
+: 528 4 4 er 
+: 535 3 4 with 
+: 541 2 3 the 
+: 545 4 4 wind
+: 553 6 1 ~ 
+- 561
+* 605 3 8 And 
+* 611 3 8 they 
+* 618 3 9 crum
+* 624 2 8 ble 
+: 628 3 6 in 
+: 634 2 4 your
+: 637 7 6 ~ 
+: 648 22 6 hand 
+- 672
+: 702 3 4 Once 
+: 708 8 4 my 
+: 721 5 4 heart 
+: 731 4 4 was 
+: 739 8 6 filled 
+: 751 3 6 with 
+: 757 2 8 a 
+: 761 6 8 love 
+: 775 3 8 of 
+: 781 2 4 a 
+: 785 18 4 girl 
+- 805
+: 841 3 8 I 
+: 847 3 8 held 
+: 853 3 11 her 
+: 859 3 11 close
+: 865 2 8 ~ 
+: 871 3 8 but 
+: 877 3 8 she 
+: 883 6 9 fad
+: 892 2 6 ed 
+: 895 3 6 in 
+: 902 2 6 the 
+: 905 22 8 night 
+- 929
+* 943 3 6 Like 
+* 949 3 8 a 
+* 955 3 9 po
+* 961 6 9 em 
+: 973 12 9 I 
+: 991 3 9 meant 
+: 998 4 8 to 
+: 1006 18 6 write 
+- 1026
+: 1040 3 4 And 
+: 1046 3 6 the 
+: 1052 19 8 leaves 
+: 1077 2 6 that 
+: 1080 15 6 are 
+: 1101 20 4 green
+: 1125 6 6 ~ 
+- 1133
+: 1137 4 3 Turn 
+: 1145 2 3 to 
+: 1148 16 4 brown 
+- 1166
+: 1233 3 4 And 
+: 1239 3 4 they 
+: 1245 2 6 with
+: 1249 4 4 er 
+: 1257 3 4 with 
+: 1263 2 3 the 
+: 1267 4 4 wind
+: 1275 8 1 ~ 
+- 1285
+: 1328 3 8 And 
+: 1334 3 8 they 
+: 1341 3 9 crum
+: 1347 2 8 ble 
+: 1351 3 6 in 
+: 1357 2 4 your
+: 1361 6 6 ~ 
+: 1371 38 6 hand 
+- 1411
+: 1442 3 4 I 
+: 1448 3 4 threw 
+: 1454 3 4 a 
+: 1460 2 6 peb
+: 1464 12 6 ble
+: 1479 3 8 ~ 
+* 1485 13 8 in 
+* 1503 3 6 a 
+* 1510 3 4 brook 
+- 1515
+: 1527 3 8 And 
+: 1533 13 8 watched 
+: 1551 3 11 the 
+: 1557 3 11 rip
+: 1563 14 8 ples 
+: 1583 5 9 run 
+: 1594 8 6 a
+: 1607 3 6 way
+: 1613 20 8 ~ 
+- 1635
+: 1643 3 6 And 
+: 1649 3 8 they 
+: 1655 2 9 ne
+: 1658 4 9 ver 
+: 1665 4 9 made 
+: 1672 4 8 a 
+: 1680 24 6 sound 
+- 1706
+* 1717 3 4 And 
+* 1723 3 6 the 
+* 1729 19 8 leaves 
+: 1754 2 6 that 
+: 1758 15 6 are 
+: 1779 20 4 green
+: 1803 6 6 ~ 
+- 1811
+: 1815 4 3 Turn 
+: 1823 2 3 to 
+: 1826 20 4 brown 
+- 1848
+: 1912 3 4 And 
+: 1918 3 4 they 
+: 1925 2 6 with
+: 1929 4 4 er 
+: 1937 3 4 with 
+: 1943 2 3 the 
+: 1947 5 4 wind
+: 1957 10 1 ~ 
+- 1969
+: 2007 3 8 And 
+: 2013 3 8 they 
+: 2020 3 9 crum
+: 2026 2 8 ble 
+: 2030 3 6 in 
+: 2037 2 4 your
+: 2040 7 6 ~ 
+: 2051 24 6 hand 
+- 2077
+: 2123 2 4 Hel
+: 2126 6 4 lo, 
+* 2136 2 6 hel
+* 2139 14 6 lo, 
+: 2159 2 8 hel
+: 2162 16 8 lo, 
+: 2183 2 6 hel
+: 2187 6 4 lo 
+- 2195
+: 2208 3 8 Good
+: 2214 12 8 bye, 
+: 2232 3 11 good
+: 2239 10 11 bye 
+: 2257 3 8 good
+: 2264 11 9 bye, 
+: 2281 3 6 good
+: 2288 32 8 bye 
+- 2322
+: 2366 3 9 That’s 
+: 2372 3 9 all 
+: 2378 3 8 there
+: 2384 3 6 ~ 
+: 2390 16 6 is 
+- 2408
+: 2421 3 4 And 
+: 2427 3 6 the 
+: 2433 18 8 leaves 
+: 2457 2 6 that 
+: 2461 14 6 are 
+: 2481 20 4 green
+: 2505 6 6 ~ 
+- 2513
+* 2519 4 3 Turn 
+* 2527 2 3 to 
+* 2531 18 4 brown. 
+E

@@ -1,0 +1,821 @@
+#ARTIST:Estelle feat. Kanye West
+#TITLE:American Boy
+#MP3:Estelle feat. Kanye West - American Boy.mp3
+#CREATOR:Lesla, mancer
+#EDITION:SingStar Pop Hits
+#GENRE:Hip-Hop, Rap
+#YEAR:2008
+#LANGUAGE:English
+#BPM:234
+#GAP:8700
+#VIDEO:v=Ic5vxw3eijY,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/66/91/31669188-5c29-ad3e-09be-49a40343e5c1/75679993533_1.jpg/5000x5000bb.jpg,bg=estelle-51296cd4e4d3b.jpg,preview=24.8,medley=132-603,tags=explicit
+R 0 1 11 Just 
+R 2 1 11 a
+R 4 1 11 no
+R 6 2 11 ther 
+R 9 2 11 one 
+R 12 3 11 cham
+R 16 1 4 pi
+R 18 2 4 on 
+R 21 5 4 sound 
+- 27
+R 28 3 4 Yeah 
+R 32 2 4 Es
+R 35 2 4 telle 
+R 38 2 4 we 
+R 42 2 4 ’bout 
+R 45 2 4 to 
+R 48 1 -1 get 
+R 52 5 -1 down 
+- 59
+R 64 1 9 Who 
+R 66 1 9 the 
+R 68 1 9 hot
+R 70 1 9 test 
+R 72 1 9 in 
+R 74 1 9 the 
+G 76 2 9 world 
+G 80 2 6 right 
+G 85 4 4 now 
+- 90
+R 91 2 4 Just 
+R 95 2 4 touched 
+R 99 3 4 down 
+R 104 1 4 in 
+G 107 2 4 Lon
+G 110 3 2 don 
+G 116 7 -1 town 
+- 125
+R 132 2 6 Bet 
+R 137 1 6 they 
+R 139 2 6 give 
+R 142 1 6 me 
+R 144 1 4 a 
+R 146 5 6 pound 
+- 153
+R 155 1 11 Tell 
+R 157 1 11 them 
+R 159 1 11 put 
+R 161 1 11 the 
+R 163 1 11 mo
+R 165 1 11 ney 
+R 167 1 11 in 
+R 169 1 11 my 
+R 171 2 4 hand 
+R 175 2 4 right 
+R 179 2 7 now 
+- 183
+R 186 1 4 Tell 
+R 188 1 4 the 
+R 190 1 4 pro
+R 192 2 4 mo
+R 195 2 4 ter 
+R 198 1 4 we 
+R 200 2 4 need 
+G 203 5 6 more 
+G 210 2 4 seats, 
+- 214
+R 217 1 4 We 
+R 219 2 4 just 
+R 222 3 4 sold 
+R 226 2 4 out 
+R 229 3 4 all 
+R 233 1 4 the 
+G 236 5 6 floor 
+G 242 6 4 seats 
+- 249
+: 251 3 11 Take 
+: 255 2 9 me 
+: 258 3 8 on 
+: 262 1 4 a 
+: 264 1 11 trip, 
+- 266
+: 268 3 9 I’d 
+: 273 3 8 like 
+: 277 2 4 to 
+: 281 4 11 go 
+: 287 4 11 some 
+: 293 14 11 day 
+- 309
+: 313 3 11 Take 
+: 317 2 9 me 
+: 321 3 7 to 
+: 325 1 4 New 
+: 327 2 11 York, 
+- 330
+: 331 3 9 I’d 
+: 336 3 7 love 
+: 340 1 4 to 
+: 343 1 11 see
+: 345 3 11 ~ 
+: 350 5 11 L
+: 356 8 11 A 
+- 366
+: 368 8 9 I 
+: 377 3 8 real
+: 381 3 9 ly 
+: 385 3 11 want 
+: 389 12 4 to 
+: 405 3 4 come 
+: 409 3 4 kick 
+: 413 2 6 it 
+: 416 3 7 with 
+: 420 13 -1 you 
+- 435
+: 439 3 11 You’ll 
+: 443 2 9 be 
+: 447 3 7 my 
+: 451 3 9 A
+: 455 3 7 me
+: 459 2 4 ri
+: 462 4 4 can 
+: 467 12 6 Boy 
+- 481
+F 507 2 2 He 
+F 511 5 2 said, 
+: 526 5 6 Hey 
+: 533 3 6 Sis
+: 537 6 4 ter 
+- 545
+: 547 2 4 It’s 
+: 551 1 6 real
+: 553 1 6 ly, 
+: 555 1 6 real
+: 557 1 6 ly 
+: 559 2 6 nice 
+: 562 1 4 to 
+: 564 2 6 meet 
+: 568 7 7 ya 
+- 577
+: 580 3 11 I 
+* 584 4 9 just 
+: 589 3 7 met 
+: 593 2 4 this 
+: 596 3 9 five 
+: 600 3 7 foot 
+- 604
+: 605 2 6 Se
+: 608 4 4 ven 
+: 613 3 9 guy 
+: 617 3 7 who’s 
+: 621 3 6 just 
+: 625 3 4 my 
+: 629 9 -1 type 
+- 640
+: 646 3 6 Like 
+: 650 2 4 the 
+: 653 2 6 way 
+: 656 2 4 he’s 
+: 659 3 6 spea
+: 663 9 4 king, 
+- 674
+: 676 2 4 His 
+: 679 2 6 con
+: 682 1 4 fi
+: 684 3 6 dence 
+: 689 2 4 is 
+: 692 2 6 pea
+: 695 7 7 king 
+- 704
+: 706 1 4 Don’t 
+: 708 3 11 like 
+: 712 2 9 his 
+: 715 4 7 bag
+: 720 3 4 gy 
+: 724 3 9 jeans 
+- 728
+: 728 2 7 But 
+: 731 2 6 I’m-
+: 735 3 4 a 
+: 739 3 9 like 
+: 743 3 7 what’s 
+: 748 2 6 un
+: 752 3 4 der
+: 756 3 4 neath 
+: 761 5 -1 them 
+- 768
+: 770 2 -1 And 
+: 773 8 11 no 
+: 782 4 9 I 
+: 787 2 7 ain’t 
+: 790 2 9 been 
+: 793 1 7 to 
+: 795 3 7 M.
+: 799 3 6 I.
+* 803 10 4 A. 
+- 815
+: 819 1 -1 I 
+: 821 3 11 heard 
+: 825 1 9 that 
+: 827 3 7 Ca
+: 831 3 4 li 
+: 835 2 9 ne
+: 838 3 7 ver 
+: 843 3 6 rains 
+- 847
+: 848 2 4 And 
+: 851 2 9 New 
+: 854 4 7 York’s 
+: 859 3 6 heart 
+: 863 3 4 a
+: 867 12 6 waits 
+- 881
+: 884 3 6 First 
+: 888 3 6 let’s 
+: 892 3 6 see 
+: 896 1 4 the 
+: 898 3 6 West 
+: 903 8 4 End 
+- 912
+: 913 1 4 I’ll 
+: 915 4 6 show 
+: 920 2 4 you 
+: 923 3 6 to 
+: 927 2 4 my 
+: 930 3 6 bre
+: 934 8 7 drin 
+- 943
+: 945 1 -1 I’m 
+: 947 4 11 li
+: 952 3 9 kin’ 
+: 956 3 7 this 
+: 960 2 9 A
+: 963 3 7 me
+: 967 1 4 ri
+: 969 5 4 can 
+: 975 11 6 Boy 
+- 987
+: 989 4 7 A
+: 994 3 6 me
+: 998 3 4 ri
+: 1002 3 0 can 
+: 1006 4 -1 Boy 
+- 1011
+: 1011 4 11 Take 
+: 1016 2 9 me 
+: 1019 3 8 on 
+: 1023 1 4 a 
+: 1025 2 11 trip, 
+- 1028
+: 1030 2 9 I’d 
+: 1034 3 8 like 
+: 1038 2 4 to 
+: 1042 4 11 go 
+: 1048 4 11 some 
+: 1054 14 11 day 
+- 1070
+: 1074 3 11 Take 
+: 1078 2 9 me 
+: 1082 3 7 to 
+: 1086 1 4 New 
+: 1088 3 11 York, 
+- 1092
+: 1094 2 9 I’d 
+: 1097 3 7 love 
+: 1101 1 4 to 
+: 1104 1 11 see
+: 1106 3 11 ~ 
+: 1111 5 11 L
+: 1117 8 11 A 
+- 1127
+: 1129 8 9 I 
+: 1138 3 8 real
+: 1142 3 9 ly 
+: 1146 3 11 want 
+: 1150 12 4 to 
+: 1166 3 4 come 
+: 1170 3 4 kick 
+: 1174 2 6 it 
+: 1177 3 7 with 
+: 1181 13 -1 you 
+- 1196
+: 1201 3 11 You’ll 
+: 1205 4 9 be 
+: 1210 3 7 my 
+: 1214 2 9 A
+: 1217 3 7 me
+: 1221 1 4 ri
+: 1223 5 4 can 
+: 1229 12 6 Boy 
+- 1243
+: 1281 1 6 Can 
+: 1283 1 6 we 
+: 1285 1 6 get 
+: 1287 1 6 a
+: 1289 2 6 way 
+: 1292 2 4 this 
+: 1295 2 6 week
+: 1298 10 4 end 
+- 1309
+: 1311 2 6 Take 
+: 1314 3 6 me 
+: 1318 1 4 to 
+: 1320 3 6 Broad
+: 1324 10 7 way 
+- 1336
+: 1342 3 11 Let’s 
+: 1346 2 9 go 
+: 1349 3 7 shop
+: 1353 3 4 ping 
+: 1358 2 11 ba
+: 1362 3 9 by 
+: 1366 3 7 then 
+: 1370 2 4 we’ll 
+: 1373 4 9 go 
+: 1378 3 7 to 
+: 1382 2 6 a 
+: 1385 3 4 ca
+: 1390 10 -1 fé 
+- 1402
+: 1407 4 6 Let’s 
+: 1412 3 6 go 
+: 1416 2 6 on 
+: 1419 1 4 the 
+: 1421 3 6 sub
+: 1425 8 4 way 
+- 1435
+: 1438 2 6 Take 
+: 1441 3 6 me 
+: 1445 1 4 to 
+: 1447 3 6 your 
+: 1451 12 7 hood 
+- 1465
+: 1469 1 -1 I 
+: 1471 2 11 ne
+: 1474 2 9 va 
+: 1477 2 7 been 
+: 1480 3 4 to 
+: 1484 3 9 Brook
+: 1488 4 7 lyn 
+- 1493
+: 1493 2 6 And 
+: 1496 3 4 I’d 
+: 1500 3 9 like 
+: 1504 2 7 to 
+: 1507 3 6 see 
+: 1511 4 4 what’s 
+: 1516 12 -1 good 
+- 1530
+: 1534 7 11 Dress 
+: 1543 6 9 in 
+: 1550 3 7 all 
+: 1554 2 9 your 
+: 1557 2 7 fan
+: 1560 3 6 cy 
+: 1565 11 4 clothes 
+- 1578
+: 1582 2 9 Snea
+: 1585 3 7 ker’s 
+: 1589 2 6 loo
+: 1592 2 4 king 
+: 1595 4 9 Fresh 
+: 1600 2 7 to 
+: 1603 4 6 Def 
+- 1608
+: 1608 1 4 I’m 
+: 1611 3 9 lo
+: 1615 3 7 vin’ 
+: 1619 3 6 those 
+: 1624 3 4 Shell 
+: 1629 12 6 Toes 
+- 1643
+* 1646 5 6 Wal
+: 1652 5 6 kin’ 
+: 1658 5 6 that 
+: 1664 9 6 walk 
+- 1674
+: 1676 5 6 Talk 
+: 1682 4 4 that 
+: 1687 5 6 slick 
+* 1693 11 7 talk 
+- 1705
+: 1706 1 -1 I’m 
+: 1708 4 11 li
+: 1713 3 9 kin’ 
+: 1717 3 7 this 
+: 1721 2 9 A
+: 1724 3 7 me
+: 1728 1 4 ri
+: 1730 5 4 can 
+: 1736 11 6 Boy 
+- 1749
+: 1752 3 7 A
+: 1756 4 6 me
+: 1761 2 4 ri
+: 1764 4 0 can 
+: 1769 3 -1 Boy 
+- 1773
+: 1773 3 9 Take 
+: 1777 3 8 me 
+: 1781 2 4 on 
+: 1784 2 6 a 
+: 1787 3 9 trip, 
+- 1791
+: 1791 3 9 I’d 
+: 1796 3 8 like 
+: 1800 2 4 to 
+: 1804 4 11 go 
+: 1810 4 11 some 
+: 1816 14 11 day 
+- 1832
+: 1836 3 11 Take 
+: 1840 2 9 me 
+: 1844 3 7 to 
+: 1848 1 4 New 
+: 1850 3 11 York, 
+- 1854
+: 1854 3 11 I’d 
+* 1859 3 11 love 
+: 1863 1 11 to 
+: 1865 2 9 see
+: 1868 5 9 ~ 
+* 1874 4 8 L
+: 1879 9 9 A 
+- 1890
+: 1895 4 9 I 
+: 1900 2 8 real
+: 1903 3 9 ly 
+: 1907 3 11 want 
+: 1912 12 4 to 
+: 1927 3 4 come 
+: 1931 3 4 kick 
+: 1935 3 6 it 
+: 1939 3 7 with 
+: 1943 15 -1 you 
+- 1960
+: 1963 3 11 You’ll 
+: 1967 3 9 be 
+: 1971 3 7 my 
+: 1975 2 9 A
+: 1978 3 7 me
+: 1982 1 4 ri
+: 1984 5 4 can 
+: 1990 12 6 Boy 
+- 2004
+F 2009 2 8 Tell 
+F 2012 2 6 ’em 
+F 2015 2 6 wag
+F 2018 2 4 wan 
+F 2021 3 3 blood 
+- 2025
+R 2026 2 11 Who 
+R 2029 1 11 kil
+R 2031 2 11 lin’ 
+R 2034 3 11 em 
+R 2038 1 11 in 
+R 2040 1 11 the 
+G 2042 6 11 U
+G 2049 6 4 K 
+- 2056
+R 2058 1 4 Eve
+R 2060 1 4 ry
+R 2062 1 4 bo
+R 2064 1 4 dy 
+R 2066 1 4 gon
+R 2068 1 4 na 
+R 2070 3 6 say 
+G 2074 7 7 YOU 
+G 2082 6 -1 K, 
+- 2090
+R 2096 1 6 Re
+G 2098 3 6 luc
+G 2102 2 6 tant
+G 2105 4 6 ly, 
+- 2110
+R 2110 2 11 ’Cause 
+R 2113 2 11 most 
+R 2116 2 11 of 
+R 2119 1 11 this 
+R 2121 2 11 press 
+R 2124 2 7 don’t 
+G 2129 2 7 fuck 
+G 2132 2 4 wit 
+G 2135 5 4 me 
+- 2141
+R 2141 2 11 Es
+R 2144 2 11 telle 
+R 2148 3 11 once 
+R 2152 2 11 said 
+R 2156 1 11 to 
+R 2158 1 11 me 
+R 2160 8 11 “cool 
+R 2169 6 4 down, 
+R 2176 6 4 down, 
+- 2184
+R 2186 2 4 Don’t 
+R 2189 1 4 act 
+R 2191 1 6 a 
+R 2193 6 7 fool 
+G 2201 6 0 now, 
+R 2208 3 0 now” 
+- 2213
+R 2215 1 7 I 
+R 2217 1 7 a
+R 2219 1 7 lways 
+R 2221 1 7 act 
+R 2223 1 7 a 
+R 2225 6 4 fool 
+R 2232 7 4 oww, 
+R 2240 7 4 oww 
+- 2248
+R 2248 3 11 Ain’t 
+R 2252 1 9 no
+R 2254 1 7 thing 
+R 2256 6 9 new, 
+R 2264 6 4 now 
+G 2271 7 4 now 
+- 2280
+R 2284 2 11 He 
+R 2287 3 4 cra
+R 2291 2 4 zy, 
+R 2294 1 4 I 
+R 2296 2 8 know 
+R 2299 1 8 what 
+R 2301 1 8 ya 
+R 2304 2 4 thin
+R 2308 4 4 kin’ 
+- 2313
+R 2315 3 11 Ri
+R 2319 3 4 be
+R 2323 1 4 na, 
+R 2325 1 4 I 
+R 2328 2 8 know 
+R 2331 1 8 what 
+R 2333 1 8 you’re 
+R 2335 3 4 drin
+R 2339 4 4 kin’ 
+- 2345
+R 2347 2 5 Rap 
+R 2350 5 5 sing
+R 2356 3 5 er, 
+R 2363 3 5 Chain 
+R 2367 3 5 Bling
+R 2371 4 5 er 
+- 2376
+R 2376 1 4 Hol
+R 2378 1 4 la 
+R 2380 1 4 at 
+R 2382 1 4 the 
+R 2384 1 4 next 
+R 2387 2 4 chick 
+R 2391 3 6 soon 
+R 2395 1 6 as 
+R 2397 2 6 you’re 
+R 2400 2 4 blin
+R 2403 3 4 kin’ 
+- 2408
+R 2411 2 6 What’s 
+R 2414 3 4 your 
+R 2418 2 6 per
+R 2422 8 6 so
+R 2431 3 4 na 
+- 2435
+R 2437 1 4 A
+R 2439 2 4 bout 
+R 2442 1 4 this 
+G 2444 1 4 A
+G 2446 3 6 me
+G 2450 2 6 ri
+G 2453 8 6 ca
+G 2462 4 4 na 
+R 2467 5 6 rhy
+R 2473 3 4 mer 
+- 2477
+R 2479 2 4 Am 
+R 2482 2 6 I 
+R 2485 8 6 shal
+R 2494 3 4 low 
+- 2499
+R 2501 1 4 ’Cause 
+R 2503 2 4 all 
+R 2506 2 4 my 
+R 2509 4 4 clothes 
+G 2514 2 6 de
+G 2517 8 6 sig
+G 2526 5 4 ner 
+- 2533
+R 2538 2 11 Dressed 
+R 2541 4 11 smart 
+R 2546 1 11 like 
+R 2548 1 11 a 
+R 2550 2 11 Lon
+R 2553 3 11 don 
+R 2557 5 11 Bloke 
+- 2563
+G 2563 1 9 Be
+G 2566 3 9 fore 
+G 2570 1 9 he 
+G 2573 3 9 speak 
+G 2577 2 9 his 
+G 2580 4 9 suit 
+G 2585 1 9 be
+G 2588 6 5 spoke 
+- 2596
+R 2598 2 11 And 
+R 2601 2 11 you 
+R 2604 3 6 thought 
+R 2608 1 9 he 
+R 2610 2 9 was 
+R 2613 3 9 cute 
+R 2618 1 4 be
+R 2622 2 4 fore, 
+- 2625
+R 2625 1 8 Look 
+R 2627 1 8 at 
+R 2629 3 8 this 
+R 2634 1 8 pea 
+R 2637 3 8 coat 
+R 2641 3 4 tell 
+R 2645 2 4 me 
+R 2649 2 4 he’s 
+R 2653 4 4 broke 
+- 2659
+R 2665 1 11 And 
+R 2667 1 11 I 
+R 2669 1 11 know 
+R 2671 2 11 you 
+R 2674 2 11 ain’t 
+R 2677 1 11 in
+R 2679 1 4 to 
+R 2681 3 4 all 
+R 2685 3 4 that 
+- 2689
+R 2691 1 4 I 
+R 2693 2 7 heard 
+R 2696 1 7 your 
+R 2699 2 4 ly
+R 2702 2 4 rics 
+- 2705
+R 2706 1 4 I 
+R 2708 3 7 feel 
+R 2712 1 7 your 
+R 2717 2 6 spi
+R 2720 3 6 rit 
+- 2724
+R 2724 1 11 But 
+R 2726 1 11 I 
+R 2728 2 11 still 
+R 2731 2 11 talk 
+R 2735 2 11 that 
+R 2740 2 9 CA-
+R 2744 2 9 A-
+R 2748 6 9 ASH 
+- 2755
+R 2755 2 8 ’Cause 
+R 2758 1 8 a 
+R 2760 1 8 lot 
+R 2762 2 8 of 
+R 2765 6 8 WAGS 
+R 2772 3 6 wan
+R 2776 2 8 na 
+R 2779 4 6 hear 
+R 2784 4 6 it 
+- 2789
+R 2791 1 11 And 
+R 2793 1 11 I’m 
+R 2795 1 11 fee
+R 2797 1 11 lin’ 
+R 2799 3 11 like 
+R 2803 3 11 Mike 
+R 2807 1 11 at 
+R 2809 2 11 his 
+R 2812 7 8 Bad
+R 2820 5 8 dest 
+- 2827
+R 2831 1 11 Like 
+R 2833 1 11 the 
+R 2835 3 11 Pips 
+R 2839 1 11 at 
+R 2841 2 11 they 
+R 2844 6 9 glad
+R 2851 3 9 dest 
+- 2855
+R 2855 1 4 And 
+R 2857 1 4 I 
+R 2859 3 4 know 
+R 2863 2 4 they 
+R 2867 8 6 love 
+R 2876 1 4 it 
+- 2878
+G 2878 1 4 So 
+G 2880 1 4 to 
+G 2882 3 4 hell 
+G 2887 3 4 with 
+G 2891 2 4 all 
+G 2894 2 4 that 
+G 2898 9 6 rub
+G 2908 12 4 bish 
+- 2922
+: 2930 2 4 Would 
+: 2933 3 7 you 
+: 2937 3 4 be 
+: 2941 7 9 my 
+: 2949 8 7 love, 
+- 2959
+: 2962 4 4 Would 
+: 2967 3 7 you 
+: 2971 2 4 be 
+: 2974 7 9 mine 
+- 2983
+: 2994 3 4 Would 
+: 2998 3 7 you 
+: 3002 3 4 be 
+: 3006 6 9 my 
+: 3014 7 7 love, 
+- 3023
+: 3027 2 14 Would 
+: 3030 3 11 you 
+: 3034 3 9 be 
+: 3038 11 11 mine 
+- 3051
+* 3057 4 4 Could 
+: 3062 2 7 you 
+: 3065 2 4 be 
+: 3069 6 9 my 
+: 3076 7 7 love, 
+: 3085 7 9 my 
+: 3093 6 7 love 
+- 3100
+: 3100 2 -1 Would 
+: 3103 4 11 you 
+: 3108 3 9 be 
+: 3112 4 7 my 
+: 3117 2 9 A
+: 3120 4 7 me
+: 3125 1 4 ri
+: 3127 3 4 can 
+: 3132 11 6 Boy 
+- 3145
+: 3149 3 7 A
+: 3153 2 6 me
+: 3156 3 7 ri
+: 3160 3 9 can 
+: 3164 3 11 Boy 
+- 3168
+: 3168 3 11 Take 
+: 3172 2 9 me 
+: 3176 3 8 on 
+: 3180 1 4 a 
+: 3182 3 11 trip, 
+- 3186
+: 3186 3 9 I’d 
+: 3191 3 8 like 
+: 3196 2 4 to 
+: 3199 5 11 go 
+: 3205 5 11 some 
+: 3211 10 11 day 
+- 3223
+: 3231 3 11 Take 
+: 3236 3 9 me 
+: 3240 2 7 to 
+: 3243 2 4 Chi
+: 3246 3 11 ca
+: 3250 2 9 go, 
+: 3254 4 7 San 
+: 3259 2 4 Fran
+: 3262 6 11 cis
+: 3269 5 11 co 
+: 3275 8 11 Bay 
+- 3285
+: 3287 7 9 I 
+: 3295 3 8 real
+: 3300 2 9 ly 
+: 3303 3 11 want 
+: 3307 11 4 to 
+: 3322 3 4 come 
+: 3327 2 4 kick 
+: 3330 3 6 it 
+: 3334 3 7 with 
+: 3338 13 -1 you 
+- 3353
+: 3357 4 11 You’ll 
+: 3362 3 9 be 
+: 3366 3 7 my 
+: 3370 2 9 A
+: 3373 4 7 me
+: 3378 1 4 ri
+: 3380 4 4 can 
+: 3386 12 6 Boy 
+- 3400
+: 3403 3 7 A
+: 3407 3 6 me
+: 3411 3 4 ri
+: 3415 3 0 can 
+: 3419 12 -1 Boy 
+- 3433
+: 3438 7 4 La 
+: 3446 3 6 la 
+: 3450 11 7 la 
+: 3462 3 9 la 
+: 3466 11 11 la 
+: 3478 3 14 la 
+: 3482 17 11 la 
+- 3500
+: 3501 7 4 La 
+: 3509 3 6 la 
+: 3513 11 7 la 
+: 3525 3 9 la 
+: 3529 11 11 la 
+: 3541 3 14 la 
+: 3545 11 11 la 
+E

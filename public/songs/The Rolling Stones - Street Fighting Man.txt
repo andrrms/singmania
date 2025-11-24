@@ -1,0 +1,241 @@
+#ARTIST:The Rolling Stones
+#TITLE:Street Fighting Man
+#MP3:The Rolling Stones - Street Fighting Man.mp3
+#CREATOR:Fepo
+#COVER:The Rolling Stones - Street Fighting Man [CO].jpg
+#BACKGROUND:The Rolling Stones - Street Fighting Man [BG].jpg
+#GENRE:Rock
+#YEAR:1968
+#LANGUAGE:English
+#BPM:256.4
+#GAP:13780
+#VIDEO:v=BUt0dZXPFoU,co=street-fighting-man--no-expectations-5cfff006c5847.jpg
+: 0 11 5 Eve
+: 14 2 0 ry
+* 18 5 5 where 
+: 26 5 0 I 
+* 33 6 5 hear 
+: 41 5 0 the 
+: 49 8 5 sound 
+- 58
+: 60 3 0 Of 
+: 65 9 5 mar
+: 76 4 0 ching, 
+* 82 9 5 char
+* 93 3 0 ging 
+* 98 18 5 feet, 
+: 118 17 0 boy 
+- 145
+: 153 6 0 ’Cause 
+: 161 7 5 sum
+: 170 6 0 mer’s 
+: 178 4 5 he
+: 183 2 0 ~re 
+: 187 2 0 and 
+: 191 2 0 the 
+: 195 7 5 time 
+: 204 4 0 is 
+: 211 5 5 right 
+- 217
+: 219 5 0 For 
+: 226 10 5 figh
+: 238 5 0 ting 
+: 245 3 5 in 
+: 250 6 0 the 
+* 258 17 5 street, 
+: 278 15 0 boy 
+- 303
+: 315 2 2 Well, 
+: 319 2 2 now 
+: 323 4 2 what 
+: 330 6 7 can 
+: 338 3 0 a 
+: 343 2 0 poor 
+: 347 6 0 boy 
+: 355 9 2 do 
+- 372
+: 375 3 2 Ex
+: 379 3 2 cept 
+: 384 2 2 to 
+: 388 6 2 sing 
+: 396 2 7 for 
+: 400 2 2 a 
+: 404 2 -1 rock 
+: 408 2 -1 ’n 
+: 412 5 0 roll 
+: 420 11 2 band? 
+- 440
+: 444 2 0 ’Cause 
+: 448 2 0 in 
+: 452 6 2 slee
+: 460 5 7 py 
+: 468 5 0 Lon
+: 476 5 0 don 
+: 483 7 2 Town 
+- 490
+: 492 4 7 There’s 
+: 503 3 -1 just 
+: 508 5 -1 no 
+: 515 7 2 place 
+: 524 4 2 for 
+- 533
+: 535 2 2 Street 
+: 539 3 7 figh
+: 544 2 2 ting 
+* 548 25 6 ma
+: 575 14 2 ~n 
+- 599
+: 611 8 2 No 
+- 653
+: 772 19 5 He
+: 793 2 0 ~y, 
+: 797 2 0 think 
+: 801 2 0 the 
+: 805 6 5 time 
+: 814 4 0 is 
+: 820 5 5 right 
+- 826
+: 828 3 0 For 
+: 833 2 0 a 
+: 837 6 5 pa
+: 845 4 0 lace 
+* 852 6 5 re
+* 860 6 0 vo
+* 868 18 5 lu
+: 888 22 0 tion 
+- 920
+: 924 5 0 ’Cause 
+: 932 5 5 where 
+: 940 5 0 I 
+: 948 6 5 live 
+: 956 4 0 the 
+: 964 10 5 game 
+: 976 2 0 to 
+: 980 6 5 play 
+- 988
+: 990 3 0 Is 
+* 996 6 5 com
+: 1004 4 0 pro
+* 1012 9 5 mise 
+: 1024 2 0 so
+* 1028 18 5 lu
+: 1048 15 0 tion 
+- 1073
+: 1084 2 0 Well, 
+: 1088 2 2 now 
+: 1092 5 2 what 
+: 1100 7 7 can 
+: 1109 2 0 a 
+: 1113 2 0 poor 
+: 1117 4 0 boy 
+: 1124 8 2 do 
+- 1141
+: 1144 3 2 Ex
+: 1148 3 2 cept 
+: 1153 2 2 to 
+: 1157 6 2 sing 
+: 1165 2 7 for 
+: 1169 2 2 a 
+: 1173 2 -1 rock 
+: 1177 2 -1 ’n 
+: 1181 5 0 roll 
+: 1189 11 2 band? 
+- 1208
+: 1211 2 0 ’Cause 
+: 1215 2 0 in 
+: 1219 6 2 slee
+: 1227 5 7 py 
+: 1235 5 0 Lon
+: 1243 5 0 don 
+: 1250 6 2 Town 
+- 1256
+: 1258 4 7 There’s 
+: 1266 5 -1 just 
+: 1273 5 -1 no 
+: 1281 7 2 place 
+: 1290 4 2 for 
+- 1299
+: 1301 2 2 Street 
+: 1305 3 7 figh
+: 1310 2 2 ting 
+* 1314 25 6 ma
+: 1341 22 2 ~n 
+- 1373
+: 1377 10 2 No 
+- 1421
+: 1562 2 7 Get 
+: 1566 6 0 down 
+- 1606
+: 1666 14 5 Hey
+: 1682 4 0 ~, 
+: 1689 3 0 said 
+: 1694 3 0 my 
+* 1699 6 5 name 
+: 1707 5 0 is 
+* 1714 8 5 called 
+: 1724 5 0 Dis
+* 1731 16 5 tur
+: 1749 22 0 bance 
+- 1782
+: 1786 5 0 I’ll 
+: 1793 6 5 shout 
+: 1802 5 0 and 
+: 1809 7 5 scream, 
+: 1818 4 0 I’ll 
+: 1825 7 5 kill 
+: 1834 4 0 the 
+: 1841 5 5 king 
+- 1848
+: 1850 5 0 I’ll 
+: 1857 7 5 rail 
+: 1866 5 0 at 
+: 1873 8 5 all 
+: 1883 5 0 his 
+: 1890 17 5 ser
+: 1909 12 0 vants 
+- 1931
+: 1944 2 0 Well, 
+: 1948 2 2 now 
+: 1952 5 2 what 
+: 1960 7 7 can 
+: 1969 2 0 a 
+: 1973 2 0 poor 
+: 1977 4 0 boy 
+: 1984 8 2 do 
+- 2002
+: 2006 3 2 Ex
+: 2010 3 2 cept 
+: 2015 2 2 to 
+: 2019 5 2 sing 
+: 2026 3 7 for 
+: 2031 2 2 a 
+: 2035 2 -1 rock 
+: 2039 2 -1 ’n 
+: 2043 5 0 roll 
+: 2051 11 2 band? 
+- 2070
+: 2073 2 0 ’Cause 
+: 2077 2 0 in 
+: 2081 6 2 slee
+: 2089 5 7 py 
+: 2097 5 0 Lon
+: 2105 5 0 don 
+: 2112 6 2 Town 
+- 2118
+: 2120 4 7 There’s 
+: 2128 5 -1 just 
+: 2135 5 -1 no 
+: 2143 7 2 place 
+: 2152 4 2 for 
+- 2162
+: 2164 2 2 Street 
+: 2168 3 7 figh
+: 2173 2 2 ting 
+* 2177 25 6 ma
+: 2204 15 2 ~n 
+- 2229
+: 2239 6 2 No 
+- 2262
+: 2296 3 6 Get 
+: 2300 5 2 down 
+E

@@ -1,0 +1,587 @@
+#ARTIST:Sabrina Carpenter
+#TITLE:The Middle Of Starting Over
+#MP3:Sabrina Carpenter - The Middle Of Starting Over.mp3
+#CREATOR:princetongirl98
+#COVER:Sabrina Carpenter - The Middle Of Starting Over [CO].jpg
+#BACKGROUND:Sabrina Carpenter - The Middle Of Starting Over [BG].jpg
+#GENRE:Pop
+#YEAR:2014
+#LANGUAGE:English
+#BPM:368.11
+#GAP:380
+#VIDEO:v=RLcdPpjKKHo,co=https://static.wikia.nocookie.net/sabrina-carpenter/images/2/21/Sabrina_Carpenter_The_Middle_of_Starting_Over.png,bg=carpenter-sabrina-5d21ef9522745.jpg
+: 0 19 2 Oh, 
+: 30 6 9 oh, 
+: 39 7 2 oh, 
+: 48 27 4 oh 
+- 85
+: 92 3 4 Oh, 
+: 96 5 6 oh, 
+: 104 6 4 oh, 
+: 112 6 2 oh, 
+: 120 22 11 oh 
+- 149
+: 152 5 4 Oh, 
+: 159 5 6 oh, 
+: 167 4 6 oh, 
+: 175 6 2 oh, 
+: 183 13 11 oh, 
+: 198 7 11 oh, 
+: 207 24 2 oh 
+- 241
+: 248 25 2 Cast 
+: 288 5 9 out 
+: 295 5 2 to 
+: 303 25 4 sea 
+- 340
+: 344 5 4 Drift
+: 352 5 4 ing 
+: 360 4 6 with 
+: 368 6 2 the 
+: 376 17 11 tide 
+- 404
+: 408 4 4 Ain’t 
+: 415 6 4 no 
+: 424 5 6 way 
+: 432 5 2 of 
+: 440 14 11 find
+: 456 6 9 ing 
+: 465 20 2 me 
+- 495
+: 503 26 2 Now 
+: 544 5 9 that 
+: 551 5 9 I’m 
+: 560 28 4 free 
+- 597
+: 600 4 4 No
+: 608 5 4 thing 
+: 617 4 4 but 
+: 624 6 2 blue 
+: 632 25 11 skies 
+- 661
+: 663 15 4 Para
+: 680 7 6 dise 
+: 690 5 2 in 
+: 697 13 11 front 
+: 713 7 9 of 
+: 722 20 2 me 
+- 754
+: 758 2 9 A
+: 762 25 1 wake 
+: 792 17 2 from 
+: 810 11 9 this 
+: 824 44 6 dream 
+- 878
+: 889 23 1 I 
+: 921 14 2 hold 
+: 937 6 9 my 
+: 945 15 9 breath 
+: 962 4 7 and 
+: 969 7 6 just 
+: 978 3 7 be
+: 983 47 4 lie
+: 1032 17 4 ve 
+- 1059
+: 1082 3 2 Tired 
+: 1088 2 2 of 
+: 1091 1 2 all 
+: 1094 2 2 the 
+: 1098 6 2 troubles 
+- 1104
+: 1106 3 2 They’ve 
+: 1111 1 2 been 
+: 1114 3 2 wa
+: 1119 1 2 sting 
+: 1122 4 4 my 
+: 1129 7 6 time 
+- 1140
+: 1142 5 1 I 
+: 1149 1 1 don’t 
+: 1152 7 1 wanna 
+: 1160 6 1 fight 
+- 1166
+: 1168 7 1 Gonna 
+: 1177 2 1 leave 
+: 1180 3 1 it 
+: 1185 3 9 be
+: 1190 5 4 hi
+: 1196 7 4 ~nd 
+- 1204
+: 1206 4 1 Take 
+: 1212 1 6 it 
+: 1216 6 2 on 
+: 1224 6 2 faith 
+- 1230
+: 1232 3 2 Now 
+: 1237 1 2 I’m 
+: 1241 6 2 ready 
+: 1249 2 9 to 
+: 1253 6 6 fly 
+- 1260
+: 1262 1 11 I’m 
+: 1266 3 2 in 
+: 1270 2 2 the 
+: 1274 6 4 middle 
+: 1282 5 4 of 
+: 1289 6 4 start
+: 1297 2 2 ing 
+: 1301 6 2 o
+: 1309 11 9 ver 
+- 1331
+: 1335 3 9 Back 
+: 1340 1 9 to 
+: 1344 3 2 the 
+: 1350 1 2 be
+: 1353 4 2 gin
+: 1358 3 2 ning 
+- 1361
+: 1363 1 2 Gonna 
+: 1367 8 2 hit 
+: 1377 2 9 re
+: 1381 9 6 wind 
+- 1396
+: 1399 4 1 Chance 
+: 1406 1 4 to 
+: 1409 3 1 do 
+: 1414 1 1 it 
+: 1417 7 1 over 
+- 1424
+: 1426 2 1 Get 
+: 1430 1 1 it 
+: 1433 5 1 right 
+: 1441 2 1 this 
+: 1445 16 4 time 
+- 1462
+: 1464 4 2 Life 
+: 1470 6 2 gives 
+: 1478 2 2 you 
+: 1481 6 2 pennies 
+- 1488
+: 1490 2 2 Turn 
+: 1494 2 2 them 
+: 1498 9 2 into 
+: 1509 7 6 dimes 
+- 1516
+: 1518 2 2 I’m 
+: 1522 2 2 in 
+: 1526 1 2 the 
+: 1529 7 4 middle 
+: 1538 6 4 of 
+: 1545 6 4 start
+: 1553 3 2 ing 
+: 1559 20 9 over 
+- 1581
+: 1583 1 7 I’m 
+: 1586 3 9 in 
+: 1592 4 4 the 
+: 1597 4 4 middle 
+: 1603 4 7 of 
+: 1610 7 4 start
+: 1619 1 2 ing 
+: 1622 27 9 over 
+- 1656
+: 1659 23 2 Oh, 
+: 1693 7 2 oh, 
+: 1702 8 2 oh, 
+: 1711 28 4 oh 
+- 1747
+: 1750 7 4 Oh, 
+: 1758 7 6 oh, 
+: 1767 6 4 oh, 
+: 1774 6 4 oh, 
+: 1782 19 11 oh 
+- 1810
+: 1814 6 4 Oh, 
+: 1821 7 6 oh, 
+: 1830 7 6 oh, 
+: 1838 6 4 oh, 
+: 1846 15 11 oh, 
+: 1862 6 11 oh, 
+: 1871 23 2 oh 
+- 1901
+: 1904 4 9 Al
+: 1910 23 2 one 
+: 1950 6 9 in 
+: 1958 7 2 a 
+: 1967 24 4 room 
+- 2003
+: 2007 6 2 Tear
+: 2015 5 4 ing 
+: 2022 6 6 down 
+: 2031 5 4 the 
+: 2039 19 11 walls 
+- 2067
+: 2070 6 2 Paint
+: 2079 5 4 ing 
+: 2087 13 6 over 
+: 2102 14 11 scars 
+: 2118 6 9 and 
+: 2126 15 2 brui
+: 2143 11 11 ses 
+- 2163
+: 2166 25 2 Now 
+: 2206 11 6 this 
+: 2219 9 4 is 
+: 2231 3 7 ho
+: 2235 18 4 ~me 
+- 2259
+: 2262 7 4 Fill 
+: 2271 6 4 it 
+: 2279 5 6 up 
+: 2287 6 2 with 
+: 2295 18 11 love 
+- 2322
+: 2325 2 11 And 
+: 2329 4 1 make 
+: 2335 5 4 the 
+: 2343 6 6 best 
+: 2351 5 2 of 
+: 2359 13 11 some
+: 2374 7 11 thing 
+: 2383 17 2 new, 
+: 2402 6 2 yeah 
+- 2417
+: 2420 2 9 As 
+: 2424 22 1 hard 
+: 2454 15 2 as 
+: 2471 13 9 it 
+: 2487 39 6 seems 
+- 2536
+: 2550 22 1 I’ll 
+: 2582 15 2 hold 
+: 2599 4 2 my 
+: 2607 14 9 breath 
+: 2623 5 7 and 
+: 2631 6 4 just 
+: 2639 4 7 be
+: 2645 27 4 lieve 
+- 2676
+: 2678 2 2 Tired 
+: 2683 2 2 of 
+: 2687 2 2 all 
+: 2691 2 2 the 
+: 2695 4 2 troubles 
+- 2700
+: 2702 4 2 They’ve 
+: 2707 1 2 been 
+: 2710 7 2 wasting 
+: 2719 6 2 my 
+: 2727 8 6 time 
+- 2738
+: 2740 5 1 I 
+: 2746 4 1 don’t 
+: 2752 4 1 wanna 
+: 2758 6 1 fight 
+- 2764
+: 2766 7 1 Gonna 
+: 2775 2 1 leave 
+: 2778 2 1 it 
+: 2782 3 1 be
+: 2787 13 4 hind 
+- 2801
+: 2803 5 2 Take 
+: 2809 2 2 it 
+: 2813 6 2 on 
+: 2821 7 2 faith 
+- 2828
+: 2829 1 2 Now 
+: 2833 3 2 I’m 
+: 2838 5 2 ready 
+: 2845 2 2 to 
+: 2850 7 6 fly 
+- 2858
+: 2860 2 2 I’m 
+: 2863 2 2 in 
+: 2867 2 2 the 
+: 2871 5 2 middle 
+: 2878 6 4 of 
+: 2886 6 4 start
+: 2894 3 4 ing 
+: 2899 20 9 over 
+- 2928
+: 2932 4 9 Back 
+: 2938 2 2 to 
+: 2941 2 9 the 
+: 2947 1 2 be
+: 2950 4 2 gin
+: 2956 1 2 ning 
+- 2957
+: 2958 7 2 Gonna 
+: 2967 6 2 hit 
+: 2975 2 2 re
+: 2978 13 6 wind 
+- 2994
+: 2996 5 1 Chance 
+: 3003 2 1 to 
+: 3007 3 1 do 
+: 3011 1 1 it 
+: 3014 7 1 over 
+- 3021
+: 3023 4 1 Get 
+: 3029 1 1 it 
+: 3031 4 1 right 
+: 3037 4 1 this 
+: 3043 14 4 time 
+- 3057
+: 3059 5 4 Life 
+: 3067 6 2 gives 
+: 3075 2 2 you 
+: 3078 3 2 pen
+: 3083 1 2 nies 
+- 3084
+: 3086 2 2 Turn 
+: 3090 2 2 them 
+: 3093 9 2 into 
+: 3106 7 6 dimes 
+- 3113
+: 3115 2 6 I’m 
+: 3119 4 2 in 
+: 3125 1 2 the 
+: 3127 6 2 middle 
+: 3135 6 4 of 
+: 3143 5 4 start
+: 3151 2 4 ing 
+: 3154 24 9 over 
+- 3180
+: 3182 7 2 The 
+: 3191 6 6 col
+: 3200 5 6 ors 
+: 3207 6 6 and 
+: 3215 5 6 the 
+: 3223 24 6 stars 
+- 3253
+: 3255 7 4 Seem 
+: 3263 4 6 a 
+: 3270 14 6 little 
+: 3286 15 1 brigh
+: 3303 8 2 ter 
+- 3314
+: 3316 1 4 To
+: 3320 4 4 mor
+: 3326 6 6 row 
+: 3334 11 4 isn’t 
+: 3349 14 4 far 
+: 3365 8 2 a
+: 3374 68 9 way 
+- 3451
+: 3455 1 6 Through 
+: 3459 2 4 the 
+: 3464 4 11 hard
+: 3471 6 6 est 
+: 3479 20 6 part 
+- 3505
+: 3507 2 2 I’m 
+: 3511 6 4 work
+: 3519 5 6 ing 
+: 3526 8 6 towards 
+: 3535 6 4 a 
+: 3543 14 6 hap
+: 3558 14 2 py 
+: 3575 32 11 end
+: 3609 16 9 ing 
+- 3635
+: 3639 4 11 Tired 
+: 3646 1 2 of 
+: 3649 2 2 all 
+: 3653 1 2 the 
+: 3656 5 2 troubles 
+- 3662
+: 3664 3 2 They’ve 
+: 3668 1 2 been 
+: 3672 3 2 wast
+: 3677 1 2 ing 
+: 3680 4 6 my 
+: 3687 10 6 time 
+- 3699
+: 3701 4 6 I 
+: 3708 2 1 don’t 
+: 3712 3 1 wanna 
+: 3717 7 1 fight 
+- 3724
+: 3726 5 1 Gonna 
+: 3734 2 1 leave 
+: 3738 2 1 it 
+: 3743 3 1 be
+: 3748 6 9 hi
+: 3755 6 6 nd 
+- 3762
+: 3764 5 1 Take 
+: 3772 2 2 it 
+: 3775 4 2 on 
+: 3781 6 2 faith 
+- 3788
+: 3790 2 9 Now 
+: 3794 2 2 I’m 
+: 3797 6 2 ready 
+: 3805 4 2 to 
+: 3811 5 6 fly 
+- 3817
+: 3819 2 6 I’m 
+: 3823 2 2 in 
+: 3828 2 2 the 
+: 3832 6 2 middle 
+: 3839 6 4 of 
+: 3847 6 4 start
+: 3854 2 4 ing 
+: 3859 23 9 over 
+- 3890
+: 3893 3 2 Back 
+: 3899 2 2 to 
+: 3902 3 1 the 
+: 3908 3 2 be
+: 3913 1 11 gin
+: 3916 3 2 ning 
+- 3919
+: 3921 4 2 Gonna 
+: 3926 6 2 hit 
+: 3934 2 2 re
+: 3938 11 9 wind 
+- 3954
+: 3956 2 6 Chance 
+: 3961 2 1 to 
+: 3965 1 1 do 
+: 3969 2 1 it 
+: 3974 4 1 o
+: 3980 3 1 ver 
+- 3983
+: 3984 1 11 Get 
+: 3987 1 1 it 
+: 3991 5 1 right 
+: 3998 2 1 this 
+: 4002 5 4 ti
+: 4009 8 4 ~me 
+- 4017
+: 4019 6 4 Life 
+: 4027 5 2 gives 
+: 4034 2 2 you 
+: 4038 7 2 pennies 
+- 4045
+: 4047 2 11 Turn 
+: 4052 1 2 them 
+: 4055 9 2 into 
+: 4066 6 6 dimes 
+- 4073
+: 4075 2 2 I’m 
+: 4079 1 2 in 
+: 4082 2 2 the 
+: 4086 6 2 middle 
+: 4094 6 4 of 
+: 4102 5 4 start
+: 4110 6 4 ing 
+: 4117 22 9 over 
+- 4146
+: 4149 3 9 Tired 
+: 4155 1 2 of 
+: 4159 2 2 all 
+: 4164 1 2 the 
+: 4167 2 7 troubles 
+- 4173
+: 4175 2 2 They’ve 
+: 4180 1 2 been 
+: 4182 4 2 wast
+: 4188 1 2 ing 
+: 4191 5 2 my 
+: 4198 9 6 time 
+- 4209
+: 4211 5 4 I 
+: 4219 2 4 don’t 
+: 4222 2 1 wanna 
+: 4227 8 1 fight 
+- 4236
+: 4238 5 1 Gonna 
+: 4246 2 1 leave 
+: 4250 2 1 it 
+: 4254 4 9 be
+: 4260 13 4 hind 
+- 4273
+: 4275 5 2 Take 
+: 4283 2 2 it 
+: 4287 5 2 on 
+: 4294 6 2 faith 
+- 4301
+: 4303 1 11 Now 
+: 4307 2 2 I’m 
+: 4311 2 2 ready 
+: 4315 6 2 to 
+: 4324 5 6 fly 
+- 4329
+: 4331 1 6 I’m 
+: 4335 1 2 in 
+: 4338 2 2 the 
+: 4342 6 2 middle 
+: 4351 5 4 of 
+: 4358 7 4 start
+: 4367 12 2 ing 
+: 4381 9 9 over 
+- 4400
+: 4404 4 9 Back 
+: 4411 1 2 to 
+: 4414 2 2 the 
+: 4420 1 2 be
+: 4423 1 2 gin
+: 4427 4 2 ning 
+- 4431
+: 4432 4 2 Gonna 
+: 4439 5 2 hit 
+: 4446 1 2 re
+: 4450 12 9 wind 
+- 4466
+: 4468 5 4 Chance 
+: 4475 1 1 to 
+: 4479 2 1 do 
+: 4484 1 1 it 
+: 4487 7 1 over 
+- 4494
+: 4496 1 1 Get 
+: 4500 1 1 it 
+: 4503 4 1 right 
+: 4511 2 1 this 
+: 4515 14 4 time 
+- 4530
+: 4532 4 4 Life 
+: 4539 7 2 gives 
+: 4548 1 2 you 
+: 4551 5 2 pennies 
+- 4557
+: 4559 2 2 Turn 
+: 4563 1 2 them 
+: 4566 11 2 into 
+: 4579 7 6 dimes 
+- 4586
+: 4588 1 4 I’m 
+: 4592 2 2 in 
+: 4595 1 2 the 
+: 4599 6 2 middle 
+: 4608 4 4 of 
+: 4614 6 4 start
+: 4622 2 4 ing 
+: 4625 20 2 over 
+- 4649
+: 4651 3 2 I’m 
+: 4656 1 9 in 
+: 4660 1 9 the 
+: 4663 4 6 middle 
+: 4670 3 4 of 
+: 4676 6 6 start
+: 4683 2 4 ing 
+: 4687 26 9 over 
+- 4720
+: 4723 29 2 Oh, 
+: 4764 7 2 oh, 
+: 4772 6 9 oh, 
+: 4780 22 4 oh 
+- 4812
+: 4820 6 1 Oh, 
+: 4828 6 4 oh, 
+: 4836 5 6 oh, 
+: 4844 6 4 oh, 
+: 4852 18 11 oh 
+- 4880
+: 4884 6 2 Oh, 
+: 4892 5 4 oh, 
+: 4900 6 6 oh, 
+: 4908 6 4 oh, 
+: 4916 15 11 oh, 
+: 4932 6 11 oh, 
+: 4940 27 2 oh 
+E

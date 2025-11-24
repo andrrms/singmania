@@ -1,0 +1,274 @@
+#ARTIST:La La Land (Emma Stone)
+#TITLE:Audition (The Fools Who Dream)
+#MP3:La La Land (Emma Stone) - Audition (The Fools Who Dream).mp3
+#CREATOR:zrednaz
+#YEAR:2016
+#LANGUAGE:English
+#BPM:202.76
+#GAP:8220
+#VIDEO:v=FAmaskY8eXE,co=la-la-land-68b8971eec5cc.jpg
+F 0 22 24 My aunt used to live in Paris. 
+- 24
+F 41 85 24 I remember, she used to come home and she would tell us these stories about being abroad. 
+- 128
+F 152 115 24 And I remember, she told us that she jumped into the river once. Barefoot. 
+- 269
+F 301 14 24 She smiled 
+- 317
+: 340 8 22 Leapt 
+: 369 2 22 with
+: 372 3 22 out 
+: 377 3 22 look
+: 381 4 24 ing 
+- 387
+: 438 6 22 And 
+* 445 9 21 tum
+: 455 11 26 bled 
+: 467 7 28 in
+* 475 21 29 to 
+: 513 3 21 the 
+: 517 9 19 Seine 
+- 528
+: 573 4 22 The 
+: 578 6 24 wa
+: 585 11 24 ter 
+: 597 7 21 was 
+* 605 4 24 freez
+: 610 7 26 ing 
+- 619
+F 629 3 22 She 
+: 633 5 22 spent 
+: 639 1 22 a 
+: 641 5 22 month 
+: 659 7 22 sneez
+: 667 6 24 ing 
+- 675
+: 689 3 22 But 
+: 693 6 21 said 
+: 701 9 26 she 
+: 711 9 28 would 
+: 721 6 28 do 
+: 728 12 29 it 
+: 741 2 21 a
+* 744 7 19 gain 
+- 753
+: 795 7 22 Here’s 
+* 803 11 26 to 
+: 815 3 34 the 
+: 819 8 28 ones 
+: 836 7 24 who 
+: 844 21 33 dream 
+- 867
+: 897 6 22 Fool
+: 904 5 26 ish 
+: 917 6 34 as 
+: 924 14 28 they 
+* 940 5 24 may 
+* 948 21 33 seem 
+- 971
+: 1001 8 22 Here’s 
+: 1010 10 26 to 
+* 1021 3 34 the 
+: 1025 8 28 hearts 
+: 1043 6 24 that 
+: 1050 25 33 ache 
+- 1077
+: 1102 8 22 Here’s 
+: 1111 12 26 to 
+: 1124 3 34 the 
+: 1128 9 28 mess 
+: 1149 4 24 we 
+: 1154 21 26 make 
+- 1177
+: 1208 2 24 She 
+: 1211 3 24 cap
+: 1215 3 24 tured 
+: 1219 2 21 a 
+: 1222 4 24 feel
+: 1227 8 26 ing 
+- 1237
+: 1245 7 22 Sky 
+: 1253 5 22 with 
+: 1259 4 22 no 
+: 1265 5 22 cei
+: 1271 5 24 ling 
+- 1278
+: 1285 3 22 The 
+: 1289 5 21 sun
+: 1295 9 26 set 
+: 1305 7 28 in
+: 1313 3 28 si
+* 1317 13 29 ~de 
+: 1331 3 19 a 
+: 1335 6 19 frame 
+- 1343
+: 1373 3 22 She 
+: 1377 7 24 lived 
+: 1385 9 24 in 
+: 1395 3 21 her 
+: 1399 3 24 liq
+: 1403 6 26 uor 
+- 1411
+: 1419 2 19 And 
+: 1422 7 22 died 
+: 1430 10 22 with 
+: 1441 2 22 a 
+: 1444 3 22 flick
+: 1448 4 24 er 
+- 1454
+: 1463 3 22 I’ll 
+: 1467 5 21 al
+: 1473 7 26 ways 
+: 1481 6 28 re
+: 1488 5 28 mem
+: 1494 10 29 ber 
+: 1506 2 21 the 
+: 1509 8 19 flame 
+- 1519
+: 1550 7 22 Here’s 
+: 1558 9 26 to 
+: 1568 3 34 the 
+: 1572 7 28 ones 
+: 1586 5 24 who 
+* 1592 27 33 dream 
+- 1621
+: 1633 3 22 Fool
+: 1637 4 26 ish 
+: 1648 5 34 as 
+: 1654 13 28 they 
+: 1668 6 24 may 
+* 1675 28 33 seem 
+- 1705
+: 1715 5 22 Here’s 
+: 1722 8 26 to 
+: 1731 3 34 the 
+: 1735 7 28 hearts 
+: 1749 6 24 that 
+: 1756 27 33 ache 
+- 1785
+: 1797 5 22 Here’s 
+: 1804 8 26 to 
+: 1813 2 34 the 
+: 1817 4 28 mess 
+: 1831 6 24 we 
+: 1838 13 29 make 
+- 1853
+: 1855 12 28 She 
+: 1869 14 29 told 
+* 1885 15 31 me 
+- 1902
+: 1905 2 29 A 
+: 1909 1 29 bit 
+: 1911 1 29 of 
+* 1915 3 25 mad
+: 1919 5 26 ness 
+: 1925 3 28 is 
+: 1929 9 29 key 
+- 1940
+: 1957 2 22 To 
+: 1960 3 29 give 
+: 1964 4 29 us 
+: 1970 4 29 new 
+: 1975 3 25 col
+: 1979 5 26 ors 
+: 1985 3 28 to 
+: 1989 10 29 see 
+- 2001
+: 2024 4 31 Who 
+: 2029 4 31 knows 
+: 2034 5 29 where 
+: 2040 6 28 it 
+: 2047 3 26 will 
+: 2051 4 26 lead 
+* 2056 25 24 us 
+- 2083
+: 2088 8 34 And 
+: 2097 4 34 that’s 
+: 2103 7 33 why 
+: 2111 3 31 they 
+: 2115 6 31 need 
+: 2122 16 33 us 
+- 2140
+: 2147 6 26 So 
+: 2154 4 28 bring 
+: 2159 12 28 on 
+: 2172 2 28 the 
+: 2175 4 28 reb
+: 2180 9 30 els 
+- 2190
+: 2190 2 28 The 
+: 2193 3 26 rip
+: 2197 7 26 ples 
+: 2205 4 26 from 
+: 2211 3 26 peb
+: 2215 7 28 bles 
+- 2224
+: 2225 3 26 The 
+: 2229 4 25 pain
+: 2234 6 30 ters 
+: 2241 4 32 and 
+: 2246 3 32 po
+* 2250 4 33 ets 
+: 2256 5 25 and 
+: 2262 15 23 plays 
+- 2279
+* 2287 7 25 A~
+: 2295 10 23 nd 
+: 2306 7 21 here’s 
+: 2314 6 25 to 
+: 2321 3 33 the 
+: 2325 7 27 fools 
+: 2338 4 23 who 
+: 2343 26 32 dream 
+- 2371
+: 2377 5 21 Cra
+* 2383 5 25 zy 
+: 2389 5 33 as 
+: 2395 10 27 they 
+: 2406 5 23 may 
+: 2413 26 32 seem 
+- 2441
+: 2447 5 21 Here’s 
+: 2454 6 25 to 
+: 2461 2 33 the 
+: 2464 6 27 hearts 
+: 2477 5 23 that 
+* 2483 28 32 break 
+- 2513
+: 2517 6 21 Here’s 
+: 2524 8 25 to 
+* 2533 2 33 the 
+: 2536 7 27 mess 
+: 2558 4 23 we 
+: 2563 26 28 make 
+- 2591
+* 2643 10 28 I 
+: 2665 6 28 trace 
+: 2672 2 28 it 
+: 2675 5 28 all 
+: 2681 15 30 back 
+: 2701 2 28 to 
+: 2704 5 25 then 
+- 2711
+: 2753 6 28 Her 
+: 2760 8 28 and 
+: 2774 2 28 the 
+: 2779 7 28 snow 
+: 2787 9 30 and 
+: 2807 2 28 the 
+: 2811 6 25 Seine 
+- 2819
+: 2871 7 33 Smil
+: 2879 9 33 ing 
+: 2894 9 33 through 
+: 2904 7 35 it 
+- 2913
+: 2937 5 33 She 
+: 2943 9 33 said 
+: 2966 6 33 she’d 
+: 2973 9 33 do 
+: 2983 9 35 it 
+- 2994
+* 3025 1 33 Ag
+F 3027 6 33 ain 
+E

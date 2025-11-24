@@ -1,0 +1,165 @@
+#ARTIST:Barbra Streisand
+#TITLE:Love Theme From “A Star Is Born” (Evergreen)
+#MP3:Barbra Streisand - Love Theme From “A Star Is Born” (Evergreen).mp3
+#CREATOR:boerchen
+#YEAR:1976
+#LANGUAGE:English
+#BPM:220
+#GAP:17400
+#VIDEO:v=udLeOOy6em4,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/ba/c8/bebac8f3-6226-3c52-bdb1-535a5df48c83/dj.ulranwiu.jpg/5000x5000bb.jpg
+: 0 28 13 Love 
+: 32 12 13 soft 
+: 50 4 14 as 
+: 56 4 16 an 
+: 62 11 16 ea
+: 74 5 18 sy 
+: 80 24 11 chair. 
+- 106
+: 128 28 11 Love, 
+: 160 9 11 fresh 
+: 170 3 13 as 
+: 174 3 14 the 
+: 178 5 13 mor
+: 184 7 16 ning
+: 192 26 9 air. 
+- 220
+: 248 31 21 One, 
+: 280 8 18 love 
+: 290 5 20 that 
+: 296 5 21 is 
+: 302 14 20 shared 
+: 318 7 23 by 
+: 326 24 16 two 
+- 352
+: 376 7 18 I 
+: 384 6 21 have 
+: 392 24 14 found 
+: 418 7 13 with 
+: 426 44 11 you. 
+- 472
+: 478 7 9 Like 
+: 486 3 16 a 
+: 490 37 13 rose 
+: 528 7 13 un
+: 536 5 14 der 
+: 542 5 16 the 
+: 548 17 16 Ap
+: 566 7 18 ril
+: 574 24 11 snow 
+- 600
+: 614 31 23 I 
+: 646 3 21 was 
+: 650 3 18 al
+: 654 7 16 ways 
+: 662 3 12 cer
+: 666 5 9 tain 
+: 672 9 11 love 
+: 682 4 13 would 
+: 688 24 9 grow. 
+- 714
+: 736 37 21 Love, 
+: 774 7 18 age
+: 782 5 20 less 
+: 788 7 21 and 
+: 796 7 20 ev
+: 804 13 23 er
+: 818 36 16 green 
+- 856
+: 874 7 18 Sel
+: 882 5 21 dom 
+: 888 17 18 seen 
+: 906 7 13 by 
+: 914 56 16 two. 
+- 972
+: 976 21 21 You 
+: 998 9 20 and 
+: 1008 16 18 I 
+- 1026
+: 1028 5 20 Will 
+: 1034 3 21 make 
+: 1038 21 20 each 
+: 1060 5 16 night 
+: 1066 1 13 a 
+: 1068 36 16 first 
+- 1106
+: 1118 7 21 Eve
+: 1126 5 20 ry 
+: 1132 21 18 day 
+: 1154 3 20 a 
+: 1158 3 21 be
+: 1162 17 20 gin
+: 1180 38 16 ning. 
+- 1220
+: 1232 9 21 Spi
+: 1242 6 20 rits 
+: 1250 20 18 rise 
+: 1278 5 20 and 
+: 1284 3 21 their 
+: 1288 9 25 dance 
+- 1298
+: 1298 3 26 Is 
+: 1302 3 25 un
+: 1306 1 21 re
+: 1308 22 16 hearsed. 
+- 1332
+: 1346 6 18 They 
+: 1354 16 21 warm 
+: 1372 4 20 and 
+: 1378 3 21 ex
+: 1382 9 20 cite 
+: 1392 13 18 us 
+- 1406
+: 1406 9 26 Cause 
+: 1416 3 26 we 
+: 1420 3 25 have 
+: 1424 3 26 the 
+: 1428 23 25 bright
+: 1452 18 25 est 
+: 1472 31 25 love. 
+- 1504
+: 1504 5 13 Two 
+: 1510 5 14 lights 
+: 1516 5 16 that 
+: 1522 25 18 shine 
+: 1548 5 18 as 
+: 1554 24 11 one 
+- 1580
+: 1594 21 23 Mor
+: 1616 6 21 ning 
+: 1624 5 25 glo
+: 1630 6 21 ry 
+: 1638 7 20 and 
+: 1646 3 11 the 
+: 1650 5 11 mid
+: 1656 5 9 night 
+: 1662 30 9 sun. 
+- 1694
+: 1708 36 21 Time 
+: 1750 7 18 we’ve 
+: 1758 1 20 leaned 
+: 1760 3 21 to 
+: 1764 20 23 sail 
+: 1786 3 23 a
+: 1790 28 16 bove, 
+- 1820
+: 1824 23 26 Ti
+: 1848 25 23 me 
+: 1874 5 23 won’t 
+: 1880 3 25 change 
+: 1884 4 26 the 
+: 1890 7 25 mean
+: 1898 7 18 ing 
+: 1906 22 21 of 
+- 1930
+: 1938 15 17 One 
+: 1954 32 16 love 
+: 1998 5 13 age
+: 2004 5 14 less 
+: 2010 3 16 and 
+: 2014 5 15 e
+: 2020 36 23 ver, 
+- 2058
+: 2068 7 17 E
+: 2076 48 22 ver
+: 2132 200 21 green. 
+E

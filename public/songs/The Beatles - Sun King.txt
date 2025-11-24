@@ -1,0 +1,105 @@
+#ARTIST:The Beatles
+#TITLE:Sun King
+#MP3:The Beatles - Sun King.mp3
+#CREATOR:mustangfred
+#EDITION:The Beatles Rock Band
+#GENRE:Pop
+#YEAR:1969
+#LANGUAGE:English
+#BPM:326.02
+#GAP:58570
+#VIDEO:a=6bNMxWGHlTI,co=abbey-road-608579fa55f23.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 91 17 Ah 
+- 93
+: 138 62 7 Here 
+: 205 38 11 come 
+- 245
+: 256 12 12 The 
+: 274 64 7 Sun 
+* 343 23 9 King 
+- 368
+: 413 64 7 Here 
+: 481 39 11 come 
+- 522
+: 533 12 12 The 
+: 550 65 7 Sun 
+: 620 23 9 King 
+- 645
+: 705 5 14 E
+: 714 6 12 very
+: 722 8 11 bo
+: 732 11 9 dy’s 
+: 746 7 12 lau
+: 757 10 9 ghing 
+- 769
+: 844 6 14 E
+: 852 4 12 very
+: 860 9 11 bo
+: 870 12 9 dy’s 
+* 887 6 12 hap
+: 896 10 9 py 
+- 908
+: 969 64 7 Here 
+: 1036 38 11 come 
+- 1076
+: 1089 12 12 The 
+: 1107 64 7 Sun 
+: 1175 18 9 King 
+- 1195
+: 1245 8 13 Quan
+: 1256 8 13 do 
+: 1267 3 13 pa
+: 1272 4 13 ra 
+: 1279 5 13 mu
+: 1287 9 13 cho 
+: 1300 5 13 mi 
+* 1306 4 13 a
+: 1312 10 13 mo
+: 1323 6 13 re 
+- 1331
+: 1334 4 13 De 
+: 1341 5 13 fe
+: 1347 5 13 li
+: 1358 9 13 ce 
+: 1369 5 15 co
+: 1375 4 15 ra
+* 1382 13 8 zón 
+- 1397
+: 1521 9 13 Mun
+: 1533 8 13 do 
+: 1544 3 13 pa
+: 1550 4 13 pa
+: 1556 5 13 raz
+: 1567 9 13 zi 
+: 1578 4 13 mi 
+* 1583 5 13 a
+: 1590 9 13 mo
+* 1600 6 13 re 
+- 1608
+: 1610 2 13 Chick
+: 1617 3 13 a 
+: 1623 7 13 fer
+* 1634 8 13 dy 
+: 1645 5 15 pa
+: 1651 3 15 ra
+: 1659 14 8 sol 
+- 1675
+: 1797 6 13 Cues
+: 1808 11 13 to 
+: 1820 4 13 ob
+: 1826 4 13 ri
+: 1832 8 13 ga
+: 1843 7 13 do 
+: 1854 4 13 tan
+: 1860 4 13 ta 
+: 1866 5 13 mu
+: 1877 8 13 cho 
+- 1887
+: 1889 4 13 Que 
+: 1895 5 13 can 
+: 1901 6 13 eat 
+* 1912 5 13 it 
+: 1922 5 15 ca
+: 1928 4 15 rou
+* 1936 13 8 sel 
+E

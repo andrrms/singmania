@@ -1,0 +1,844 @@
+#ARTIST:P.O.D.
+#TITLE:Youth Of The Nation
+#MP3:P.O.D. - Youth Of The Nation.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:P.O.D. - Youth Of The Nation [CO].jpg
+#BACKGROUND:P.O.D. - Youth Of The Nation [BG].jpg
+#GENRE:Nu Metal, Pop, Rock
+#YEAR:2001
+#LANGUAGE:English
+#BPM:394.74
+#GAP:21010
+#VIDEO:v=EDKwCvD56kw,co=youth-of-the-nation-53bef7e388b5c.jpg,bg=pod-601026f42f5b7.jpg
+F 0 7 0 Last 
+F 8 6 0 day 
+F 16 1 0 of 
+F 20 2 7 the 
+F 23 3 0 rest 
+F 29 2 7 of 
+F 32 2 7 my 
+F 37 4 10 life 
+- 42
+F 44 2 9 I 
+F 48 4 10 wish 
+F 53 2 9 I 
+F 56 3 0 would
+F 60 3 10 ’ve 
+F 64 4 0 known 
+F 69 3 7 cause 
+- 72
+F 73 2 10 I 
+F 77 1 5 di
+F 79 1 5 dn’t 
+F 81 2 0 kiss 
+F 85 3 7 my 
+F 89 3 10 mom
+F 94 2 9 ma 
+F 98 4 10 good
+F 103 5 5 bye 
+- 108
+F 110 2 9 I 
+F 114 1 10 di
+F 116 2 9 dn’t 
+F 121 3 10 tell 
+F 125 2 9 her 
+F 129 3 5 that 
+F 133 2 10 I 
+F 137 3 7 loved 
+F 144 2 10 her 
+F 150 2 10 how 
+F 154 5 0 much 
+F 160 3 9 I 
+F 167 5 2 cared 
+- 172
+F 173 2 7 Or 
+F 177 2 0 thank 
+F 182 1 2 my 
+F 186 6 2 pops 
+F 194 1 2 for 
+F 196 1 10 all 
+F 198 1 5 the 
+F 202 4 2 talks 
+F 207 2 2 and 
+F 210 3 7 all 
+F 215 2 5 the 
+F 218 3 5 wis
+F 223 2 10 dom 
+F 226 2 5 he 
+F 231 6 10 shared 
+- 237
+F 239 2 9 Un
+F 243 3 0 a
+F 247 5 10 ware 
+F 254 1 0 I 
+F 260 4 10 just 
+F 267 5 0 did 
+F 274 2 0 what 
+F 277 1 5 I 
+F 282 4 0 al
+F 288 4 10 ways 
+F 296 4 9 do 
+- 306
+F 308 2 10 Eve
+F 311 3 7 ry
+F 315 3 10 day 
+F 319 1 10 the 
+F 323 4 0 same 
+F 328 2 5 rou
+F 331 3 0 tine 
+F 336 2 0 be
+F 340 2 5 fore 
+F 343 1 5 I 
+F 347 3 0 skate 
+F 351 1 9 off 
+F 355 2 5 to 
+F 360 5 2 school 
+- 366
+F 368 3 10 But 
+F 372 4 2 who 
+F 378 5 3 knew 
+F 384 2 0 that 
+F 388 4 2 this 
+F 395 5 2 day 
+F 403 3 7 wa
+F 407 3 9 sn’t 
+F 412 4 2 like 
+F 419 3 9 the 
+F 424 4 7 rest 
+- 430
+F 432 3 2 In
+F 436 3 10 stead 
+F 440 2 9 of 
+F 443 4 2 ta
+F 448 3 9 king 
+F 452 1 7 a 
+F 457 5 2 test 
+- 465
+F 467 2 5 I 
+F 471 2 5 took 
+F 476 4 2 two 
+F 481 2 5 to 
+F 484 1 9 the 
+F 488 9 5 chest 
+- 507
+F 517 3 7 Call 
+F 522 2 2 me 
+F 526 3 7 blind 
+F 530 2 0 but 
+F 533 1 7 I 
+F 537 2 2 di
+F 541 2 0 dn’t 
+F 545 3 0 see 
+F 549 1 9 it 
+F 553 5 7 co
+F 559 4 9 ming 
+- 564
+F 566 3 7 Eve
+F 570 2 0 ry
+F 573 3 10 bo
+F 577 3 10 dy 
+F 581 2 7 was 
+F 585 3 2 run
+F 589 2 2 ning 
+F 594 2 2 but 
+F 597 1 2 I 
+F 602 2 2 coul
+F 605 2 7 dn’t 
+F 609 5 2 hear 
+F 617 3 2 no
+F 621 3 2 thing 
+F 625 2 3 ex
+F 631 3 0 cept 
+- 643
+: 647 4 3 Gun 
+: 654 6 2 blasts 
+: 661 2 -2 it 
+: 665 3 0 hap
+: 669 2 0 penned 
+: 675 1 2 so
+: 677 2 3 ~ 
+: 683 7 2 fast 
+- 692
+: 694 2 0 I 
+: 698 1 -2 di
+: 700 1 -5 dn’t 
+: 703 2 -2 real
+: 706 2 -5 ly 
+: 710 3 3 know 
+: 714 2 3 this 
+: 718 2 2 kid 
+- 721
+: 723 2 -2 Though 
+: 726 2 -2 I 
+: 731 2 -5 sit 
+: 735 3 3 by 
+: 739 3 3 him 
+: 743 3 3 in 
+: 748 8 2 class 
+- 768
+F 772 2 10 May
+F 775 2 5 be 
+F 779 2 2 this 
+F 783 3 5 kid 
+F 787 2 0 was 
+F 791 2 0 rea
+F 796 2 2 ching 
+F 799 3 0 out 
+F 808 3 0 for 
+F 812 5 5 love 
+- 825
+F 828 2 0 Or 
+F 831 2 2 may
+F 835 2 3 be 
+F 839 3 5 for 
+F 843 2 2 a 
+F 847 3 2 mo
+F 852 2 2 ment 
+F 855 3 2 he 
+F 860 2 2 for
+F 863 3 2 got 
+F 868 3 0 who 
+F 872 2 7 he 
+F 876 6 7 was 
+- 890
+F 893 2 10 Or 
+F 897 2 2 may
+F 901 2 2 be 
+F 905 3 2 this 
+F 912 3 3 kid 
+F 916 3 0 just 
+F 920 3 2 wan
+F 924 3 0 ted 
+F 928 3 2 to 
+F 934 3 0 be 
+F 940 8 7 hugged 
+- 954
+: 956 3 -5 What
+: 961 3 0 e
+: 965 2 -2 ver 
+: 969 2 -2 it 
+* 974 6 -2 was 
+- 986
+: 989 2 -2 I 
+: 993 3 2 know 
+: 997 2 0 it’s 
+: 1001 2 -2 be
+: 1006 4 2 cau
+: 1011 1 0 ~
+: 1013 2 -2 ~se 
+- 1025
+: 1034 7 7 We 
+: 1042 7 7 are 
+: 1050 7 5 we 
+: 1058 7 7 a
+: 1066 7 3 ~re 
+- 1073
+: 1074 3 3 We
+: 1078 21 5 ~ 
+: 1100 15 2 are 
+- 1117
+: 1119 2 2 The 
+: 1123 4 5 youth 
+: 1130 2 5 of 
+: 1134 2 5 the 
+: 1139 4 7 na
+: 1144 4 8 ~
+: 1152 5 7 tion 
+- 1161
+: 1163 7 7 We 
+: 1171 7 7 are 
+: 1179 7 5 we 
+: 1187 7 7 a
+: 1195 7 3 ~re 
+- 1202
+: 1203 3 3 We
+: 1207 21 5 ~ 
+: 1229 15 2 are 
+- 1249
+: 1251 4 5 Youth 
+: 1260 2 5 of 
+: 1264 2 3 the 
+: 1268 4 5 na
+: 1273 4 3 ~
+: 1281 5 0 tion 
+- 1290
+* 1292 7 7 We 
+* 1300 7 7 are 
+* 1308 7 5 we 
+* 1316 8 7 a
+* 1325 7 3 ~re 
+- 1332
+: 1333 3 3 We
+: 1337 21 5 ~ 
+: 1359 15 2 are 
+- 1376
+: 1378 2 2 The 
+: 1382 4 5 youth 
+: 1389 2 5 of 
+: 1393 2 5 the 
+: 1398 4 7 na
+: 1403 4 8 ~
+: 1411 5 7 tion 
+- 1419
+: 1421 7 7 We 
+: 1429 7 7 are 
+: 1437 7 5 we 
+: 1445 7 7 a
+: 1453 7 3 ~re 
+- 1470
+: 1510 4 5 Youth 
+: 1519 2 5 of 
+: 1523 2 3 the 
+: 1527 4 5 na
+: 1532 4 3 ~
+: 1540 5 0 tion 
+- 1548
+F 1550 2 2 Lit
+F 1553 3 2 tle 
+F 1558 3 3 Sus
+F 1562 2 0 ie 
+F 1566 3 0 she 
+F 1570 3 10 was 
+F 1574 3 0 on
+F 1582 3 10 ly 
+F 1587 8 2 twelve 
+- 1596
+F 1598 3 2 She 
+F 1602 3 10 was 
+F 1606 3 2 gi
+F 1610 3 10 ven 
+F 1614 1 9 the 
+F 1618 7 0 world 
+F 1626 1 10 with 
+F 1630 2 0 eve
+F 1634 2 5 ry 
+F 1638 4 2 chance 
+F 1643 2 10 to 
+F 1646 3 2 ex
+F 1652 9 10 cel 
+- 1673
+F 1677 1 0 Hang 
+F 1680 2 2 with 
+F 1684 1 2 the 
+F 1688 3 0 boys 
+F 1692 2 10 and 
+F 1696 2 0 hear 
+F 1700 2 0 the 
+F 1704 2 10 sto
+F 1708 2 10 ries 
+F 1711 3 2 they 
+F 1717 4 0 tell 
+- 1722
+F 1724 2 2 She 
+F 1728 4 10 might 
+F 1735 3 3 act 
+F 1742 2 2 kind
+F 1745 3 10 a 
+F 1751 4 0 proud 
+- 1755
+F 1756 2 0 But 
+F 1760 2 10 no 
+F 1764 2 5 re
+F 1768 3 2 spect 
+F 1773 2 9 for 
+F 1776 5 2 her
+F 1783 6 10 self 
+- 1801
+F 1805 2 10 She 
+F 1809 5 2 finds 
+F 1817 4 7 love 
+F 1824 2 2 in 
+F 1828 2 2 all 
+F 1833 2 0 the 
+F 1837 4 7 wrong 
+F 1846 6 2 pla
+F 1854 3 5 ces 
+- 1858
+F 1860 3 7 The 
+F 1864 3 2 same 
+F 1868 4 2 sit
+F 1873 3 7 u
+F 1877 3 0 a
+F 1885 3 5 tions 
+F 1893 3 5 just 
+F 1897 3 9 dif
+F 1901 2 7 fe
+F 1905 2 7 rent 
+F 1910 5 5 fa
+F 1918 3 5 ces 
+- 1930
+F 1934 3 2 Changed 
+F 1938 1 10 up 
+F 1942 1 5 her 
+F 1947 5 0 pace 
+F 1954 3 0 since 
+F 1958 3 0 her 
+F 1963 4 2 dad
+F 1970 3 10 dy 
+F 1975 3 7 left 
+F 1983 2 10 her 
+- 1988
+F 1990 1 2 Too 
+F 1994 3 10 bad 
+F 1998 3 0 he 
+F 2002 3 0 ne
+F 2006 2 9 ver 
+F 2010 3 10 told 
+F 2014 2 5 her 
+F 2018 3 0 she 
+F 2022 2 2 de
+F 2026 4 10 served 
+F 2033 2 7 much 
+F 2040 4 7 bet
+F 2046 7 0 ter 
+- 2062
+F 2066 3 10 John
+F 2071 2 7 ny 
+F 2075 5 2 boy 
+F 2082 3 0 al
+F 2086 3 0 ways 
+F 2091 4 3 played 
+F 2098 2 10 the 
+F 2103 8 7 fool 
+- 2116
+F 2118 2 0 He 
+F 2122 4 2 broke 
+F 2127 2 9 all 
+F 2131 3 2 the 
+F 2136 4 2 rules 
+F 2143 3 0 so 
+F 2147 3 2 you 
+F 2151 2 10 would 
+F 2155 3 2 think 
+F 2159 1 2 he 
+F 2163 2 10 was 
+F 2168 5 3 cool 
+- 2183
+: 2196 3 3 He 
+: 2200 2 3 was 
+: 2204 3 3 ne
+: 2208 2 0 ver 
+: 2212 2 -2 real
+: 2215 2 -5 ly 
+: 2220 3 3 one 
+: 2224 2 3 of 
+: 2228 2 3 the 
+: 2232 5 2 guys 
+- 2238
+: 2240 2 0 No 
+: 2244 3 -2 mat
+: 2248 2 -5 ter 
+: 2252 3 2 how 
+: 2256 3 3 hard 
+: 2260 3 3 he 
+: 2265 5 2 tried 
+- 2270
+: 2272 2 -2 Of
+: 2276 2 -5 ten 
+: 2281 6 2 thought 
+: 2289 2 -2 of 
+: 2293 3 3 su
+: 2297 2 3 i
+: 2301 8 2 cide 
+- 2318
+F 2321 2 2 It’s 
+F 2325 2 2 kind 
+F 2329 2 10 of 
+F 2333 3 2 hard 
+F 2338 2 2 when 
+F 2341 2 2 you 
+F 2345 2 0 ain’t 
+F 2349 3 0 got 
+F 2355 3 0 no 
+F 2362 5 2 friends 
+- 2368
+F 2370 1 0 He 
+F 2373 3 2 put 
+F 2377 2 0 his 
+F 2381 4 2 life 
+F 2388 1 10 to 
+F 2390 1 2 an 
+F 2395 4 10 end 
+- 2399
+F 2401 3 2 They 
+F 2405 4 2 might 
+F 2410 3 2 re
+F 2414 3 2 mem
+F 2418 3 10 ber 
+F 2422 2 7 him 
+F 2426 8 3 then 
+- 2446
+F 2450 1 10 You 
+F 2453 5 3 crossed 
+F 2459 2 2 the 
+F 2462 4 0 line 
+F 2467 2 0 and 
+F 2470 3 0 there’s 
+F 2475 4 0 no 
+F 2482 3 2 tur
+F 2486 4 0 ning 
+F 2491 4 2 back 
+- 2501
+F 2503 4 2 Told 
+F 2508 2 0 the 
+F 2511 5 3 world 
+F 2517 4 0 how 
+F 2522 3 10 he 
+F 2528 5 10 felt 
+- 2533
+F 2534 2 2 With 
+F 2539 2 10 the 
+F 2542 4 10 sound 
+F 2548 2 7 of 
+F 2551 2 10 a 
+F 2556 7 10 gat 
+- 2573
+: 2584 7 7 We 
+: 2592 7 7 are 
+: 2600 7 5 we 
+* 2608 7 7 a
+* 2616 7 3 ~re 
+- 2623
+: 2624 3 3 We
+: 2628 21 5 ~ 
+: 2650 15 2 are 
+- 2667
+: 2669 2 2 The 
+: 2673 4 5 youth 
+: 2680 2 5 of 
+: 2684 2 5 the 
+: 2689 4 7 na
+: 2694 4 8 ~
+: 2702 5 7 tion 
+- 2711
+: 2713 7 7 We 
+: 2721 7 7 are 
+: 2729 7 5 we 
+: 2737 8 7 a
+: 2746 6 3 ~re 
+- 2752
+: 2753 3 3 We
+: 2757 21 5 ~ 
+: 2779 15 2 are 
+- 2799
+: 2801 4 5 Youth 
+: 2810 2 5 of 
+: 2814 2 3 the 
+: 2818 4 5 na
+: 2823 4 3 ~
+: 2831 5 0 tion 
+- 2840
+: 2842 7 7 We 
+: 2850 7 7 are 
+: 2858 7 5 we 
+: 2866 7 7 a
+: 2874 7 3 ~re 
+- 2881
+* 2882 3 3 We
+* 2886 21 5 ~ 
+* 2908 15 2 are 
+- 2926
+: 2928 2 2 The 
+: 2932 4 5 youth 
+: 2939 2 5 of 
+: 2943 2 5 the 
+: 2948 4 7 na
+: 2953 4 8 ~
+: 2961 5 7 tion 
+- 2969
+: 2971 7 7 We 
+: 2979 7 7 are 
+: 2987 7 5 we 
+: 2995 7 7 a
+: 3003 7 3 ~re 
+- 3020
+: 3059 4 5 Youth 
+: 3068 2 5 of 
+: 3072 2 3 the 
+: 3076 4 5 na
+: 3081 4 3 ~
+: 3089 5 0 tion 
+- 3146
+F 3616 4 2 Who’s 
+F 3622 2 7 to 
+F 3625 5 5 blame 
+F 3631 1 2 for 
+F 3633 1 0 the 
+F 3638 4 2 life 
+F 3645 1 2 the 
+F 3648 4 2 tra
+F 3654 2 7 ge
+F 3657 3 7 dies 
+F 3662 6 2 claim? 
+- 3668
+F 3669 1 10 No 
+F 3673 3 0 mat
+F 3677 2 0 ter 
+F 3681 2 2 what 
+F 3685 3 10 you 
+F 3689 3 10 say 
+F 3693 2 7 it 
+F 3697 2 10 don’t 
+F 3701 3 7 take 
+F 3705 2 2 a
+F 3710 2 10 way 
+F 3713 1 7 the 
+F 3719 6 2 pain 
+- 3726
+: 3728 3 2 That 
+: 3734 3 -5 I 
+: 3746 2 3 feel 
+: 3749 3 3 in
+: 3755 5 2 side 
+- 3760
+: 3762 2 -5 I’m 
+: 3767 5 3 tired 
+: 3774 2 3 of 
+: 3778 3 3 all 
+: 3782 3 3 the 
+: 3787 5 2 lies 
+- 3792
+: 3794 3 -5 Don’t 
+: 3799 2 -5 no
+: 3802 3 3 bo
+: 3806 3 3 dy 
+: 3810 3 3 know 
+: 3815 6 2 why 
+- 3821
+: 3823 2 -2 It’s 
+: 3826 1 -5 the 
+* 3831 6 3 blind 
+: 3838 3 3 lea
+: 3842 3 3 ding 
+: 3846 2 3 the 
+* 3850 8 2 blind 
+- 3868
+F 3872 2 2 Guess 
+F 3876 2 7 that’s 
+F 3881 2 2 the 
+F 3885 3 2 way 
+F 3892 2 0 that 
+F 3896 2 0 the 
+F 3901 5 2 sto
+F 3908 3 0 ry 
+F 3913 6 2 goes 
+- 3921
+F 3923 3 2 Will 
+F 3928 2 7 it 
+F 3932 3 2 e
+F 3936 2 2 ver 
+F 3940 3 7 make 
+F 3947 3 2 sense? 
+- 3958
+F 3961 3 2 Some
+F 3965 2 7 bo
+F 3968 2 7 dy’s 
+F 3973 3 7 got
+F 3977 3 7 ta 
+F 3981 7 0 know 
+- 3997
+F 4001 2 7 There’s 
+F 4005 2 5 got
+F 4009 2 2 ta 
+F 4013 2 2 be 
+F 4018 4 2 more 
+F 4024 2 0 to 
+F 4028 5 0 life 
+F 4036 3 0 than 
+F 4041 4 2 this 
+- 4046
+F 4048 2 0 There’s 
+F 4053 2 2 got
+F 4057 2 0 ta 
+F 4061 6 5 be 
+F 4069 2 3 more 
+F 4073 2 0 to 
+F 4077 2 2 eve
+F 4081 2 0 ry
+F 4085 2 2 thing 
+F 4089 2 10 I 
+F 4093 4 7 thought 
+F 4100 2 10 ex
+F 4106 5 2 ists 
+- 4121
+: 4134 7 7 We 
+: 4142 7 7 are 
+: 4150 7 5 we 
+: 4158 7 7 a
+: 4166 7 3 ~re 
+- 4183
+: 4219 2 2 The 
+: 4223 4 5 youth 
+: 4230 2 5 of 
+: 4234 2 5 the 
+: 4239 4 7 na
+: 4244 4 8 ~
+: 4252 5 7 tion 
+- 4260
+: 4262 7 7 We 
+: 4270 7 7 are 
+: 4278 7 5 we 
+: 4286 7 7 a
+: 4294 7 3 ~re 
+- 4311
+: 4351 4 5 Youth 
+* 4360 2 5 of 
+* 4364 2 3 the 
+: 4368 4 5 na
+: 4373 4 3 ~
+: 4381 5 0 tion 
+- 4390
+: 4392 7 7 We 
+: 4400 7 7 are 
+: 4408 7 5 we 
+: 4416 7 7 are 
+- 4423
+: 4424 7 7 We 
+: 4432 7 7 are 
+: 4440 7 5 we 
+: 4448 8 7 a
+: 4457 7 3 ~re 
+- 4473
+: 4477 2 2 The 
+: 4481 4 5 youth 
+: 4488 2 5 of 
+: 4492 2 5 the 
+: 4497 4 7 na
+: 4502 4 8 ~
+: 4510 5 7 tion 
+- 4519
+: 4521 7 7 We 
+: 4529 7 7 are 
+: 4537 7 5 we 
+: 4545 7 7 are 
+- 4552
+: 4554 7 7 We 
+: 4562 7 7 are 
+: 4570 7 5 we 
+: 4578 8 7 a
+: 4587 7 3 ~re 
+- 4605
+: 4609 4 5 Youth 
+: 4618 2 5 of 
+: 4622 2 3 the 
+* 4626 4 5 na
+* 4631 4 3 ~
+* 4639 5 0 tion 
+- 4648
+: 4650 7 7 We 
+: 4658 7 7 are 
+: 4666 7 5 we 
+: 4674 7 7 are 
+- 4681
+: 4682 7 7 We 
+: 4690 7 7 are 
+: 4698 7 5 we 
+: 4706 8 7 a
+: 4715 7 3 ~re 
+- 4732
+: 4736 2 2 The 
+: 4740 4 5 youth 
+: 4747 2 5 of 
+: 4751 2 5 the 
+: 4756 4 7 na
+: 4761 4 8 ~
+: 4769 5 7 tion 
+- 4778
+: 4780 7 7 We 
+: 4788 7 7 are 
+: 4796 7 5 we 
+: 4804 7 7 are 
+- 4811
+* 4812 7 7 We 
+* 4820 7 7 are 
+* 4828 7 5 we 
+* 4836 8 7 a
+* 4845 7 3 ~re 
+- 4864
+: 4868 4 5 Youth 
+: 4877 2 5 of 
+: 4881 2 3 the 
+: 4885 4 5 na
+: 4890 4 3 ~
+: 4898 5 0 tion 
+- 4907
+: 4909 7 7 We 
+: 4917 7 7 are 
+: 4925 7 5 we 
+: 4933 7 7 are 
+- 4940
+: 4941 7 7 We 
+: 4949 7 7 are 
+: 4957 7 5 we 
+: 4965 8 7 a
+: 4974 7 3 ~re 
+- 4990
+: 4994 2 2 The 
+: 4998 4 5 youth 
+: 5005 2 5 of 
+: 5009 2 5 the 
+: 5014 4 7 na
+: 5019 4 8 ~
+: 5027 5 7 tion 
+- 5036
+: 5038 7 7 We 
+: 5046 7 7 are 
+: 5054 7 5 we 
+: 5062 7 7 are 
+- 5069
+: 5070 7 7 We 
+: 5078 7 7 are 
+: 5086 7 5 we 
+: 5094 8 7 a
+: 5103 7 3 ~re 
+- 5122
+* 5126 4 5 Youth 
+: 5135 2 5 of 
+: 5139 2 3 the 
+: 5143 4 5 na
+: 5148 4 3 ~
+: 5156 2 0 tion 
+- 5158
+: 5159 4 5 Youth 
+: 5168 2 5 of 
+: 5172 2 3 the 
+: 5176 4 5 va
+: 5181 4 3 ~
+: 5189 5 0 tion 
+- 5203
+: 5207 3 3 We
+: 5211 21 5 ~ 
+: 5233 15 2 are 
+- 5253
+: 5255 4 5 Youth 
+: 5264 2 5 of 
+: 5268 2 3 the 
+: 5272 4 5 na
+: 5277 4 3 ~
+: 5285 5 0 tion 
+- 5300
+: 5336 3 3 We
+: 5340 21 5 ~ 
+: 5362 15 2 are 
+- 5382
+: 5384 4 5 Youth 
+: 5393 2 5 of 
+: 5397 2 3 the 
+: 5401 4 5 na
+: 5406 4 3 ~
+: 5414 5 0 tion 
+- 5429
+: 5465 3 3 We
+: 5469 21 5 ~ 
+: 5491 15 2 are 
+- 5511
+* 5513 4 5 Youth 
+* 5522 2 5 of 
+* 5526 2 3 the 
+* 5530 4 5 na
+* 5535 4 3 ~
+* 5543 5 0 tion 
+- 5558
+: 5597 11 3 We 
+: 5609 68 2 are … 
+E

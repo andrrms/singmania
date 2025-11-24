@@ -1,0 +1,242 @@
+#ARTIST:Oleander
+#TITLE:Boys Don’t Cry
+#MP3:Oleander - Boys Don’t Cry.mp3
+#CREATOR:Unknown
+#COVER:Oleander - Boys Don’t Cry [CO].jpg
+#BACKGROUND:Oleander - Boys Don’t Cry [BG].jpg
+#YEAR:1999
+#LANGUAGE:English
+#BPM:324.16
+#GAP:43860
+#VIDEO:v=kBX0F-xvdwo,co=https://m.media-amazon.com/images/I/519gFKbKfPL.jpg
+: 0 2 1 I 
+: 4 4 1 would 
+: 10 8 2 say 
+: 20 4 4 I’m 
+: 26 11 1 sor
+: 38 4 -3 ry 
+- 43
+: 44 6 -3 If 
+: 52 2 -1 I 
+: 56 8 1 thought 
+: 66 8 -1 that 
+: 76 4 -3 it 
+: 82 4 -1 would 
+: 88 14 1 change 
+: 104 4 -1 your 
+: 110 10 -3 mind 
+- 122
+: 128 1 1 But 
+: 130 4 1 I 
+: 136 8 2 know 
+: 146 6 4 that 
+: 154 6 1 this 
+: 162 8 -3 time 
+- 171
+: 172 4 -3 I 
+: 178 4 -1 have 
+: 184 8 1 said 
+: 194 4 -1 too 
+: 200 10 -3 much 
+- 212
+: 214 2 -1 Been 
+: 218 8 1 too 
+: 228 3 -1 un
+: 232 24 -3 kind 
+- 258
+: 508 2 1 I 
+: 512 6 1 would 
+: 520 6 2 break 
+: 528 6 4 down 
+: 536 10 1 at 
+: 548 2 -3 your 
+: 552 13 -3 ~ 
+- 566
+: 566 2 -1 And 
+: 570 8 1 beg 
+: 580 3 -1 for
+: 584 7 -3 give
+: 592 7 -1 ness 
+- 600
+: 600 10 1 Plead 
+: 612 2 -1 with 
+: 616 8 -3 you 
+- 626
+: 636 4 1 But 
+: 642 4 1 I 
+: 648 6 2 know 
+: 656 6 4 that 
+- 663
+: 664 6 1 It’s 
+: 672 4 -3 no 
+: 678 10 -3 use 
+- 689
+: 690 4 -1 ’Cause 
+: 696 10 1 now 
+: 708 6 -1 there’s 
+: 716 2 -3 no
+: 720 8 -1 thing 
+: 730 2 1 I 
+: 734 8 -1 can 
+: 744 10 -3 do 
+- 756
+: 776 4 1 I 
+: 782 6 1 try 
+: 790 2 2 to 
+: 794 4 1 laugh 
+: 800 5 -3 a
+: 806 8 -3 bout 
+: 816 8 -1 it 
+- 825
+: 826 5 1 Co
+: 832 6 1 ver 
+: 840 6 1 it 
+: 848 2 1 all 
+: 852 2 1 up 
+: 856 2 2 with 
+: 860 20 -1 lies 
+- 882
+: 904 4 1 I 
+: 910 6 1 try 
+: 918 2 1 to 
+: 922 6 2 laugh 
+: 930 3 1 a
+: 934 8 -3 bout 
+: 944 6 -6 it 
+- 952
+: 954 5 1 Hi
+: 960 4 1 ding 
+: 966 2 1 the 
+: 970 6 1 tears 
+: 978 2 1 in 
+: 982 2 2 my 
+: 986 14 -1 eyes 
+- 1001
+: 1002 12 -3 ’Cause 
+: 1018 30 1 boys 
+: 1050 26 -1 don’t 
+: 1078 38 -3 cry 
+- 1118
+* 1146 7 1 Boy
+* 1154 3 3 ~
+* 1158 11 1 ~
+* 1170 3 3 ~
+* 1174 11 1 ~
+* 1186 5 3 ~
+* 1192 6 1 s 
+: 1200 19 -1 don’t 
+: 1220 36 -3 cry 
+- 1258
+: 1656 2 4 I 
+: 1660 4 1 would 
+: 1666 8 1 tell 
+: 1676 6 1 you 
+- 1683
+: 1684 6 4 That 
+: 1692 4 4 I 
+: 1698 10 9 loved 
+: 1710 4 4 you 
+- 1716
+: 1718 4 1 If 
+: 1724 4 2 I 
+: 1730 8 4 thought 
+: 1740 6 -3 that 
+: 1748 10 1 you 
+: 1760 2 -1 would 
+: 1764 10 -3 stay 
+- 1776
+: 1784 2 4 But 
+: 1788 4 1 I 
+: 1794 8 1 know 
+: 1804 4 1 that 
+: 1810 8 4 it’s 
+: 1820 6 1 too 
+: 1828 6 1 late 
+- 1836
+: 1840 2 1 ’Cause 
+: 1844 10 2 you’ve 
+: 1856 5 4 al
+: 1862 3 -3 rea
+: 1866 6 -3 dy 
+: 1874 12 1 gone 
+: 1888 9 -3 a
+: 1898 12 -3 way 
+- 1912
+: 1924 5 -1 Mis
+: 1930 8 -1 judged 
+: 1940 2 1 your 
+: 1944 3 -1 lim
+: 1948 12 -3 its 
+- 1962
+: 1988 6 2 Pushed 
+: 1996 4 1 you 
+: 2002 2 -1 too 
+: 2006 14 1 far 
+- 2022
+: 2046 2 4 I 
+: 2050 6 4 took 
+: 2058 2 4 you 
+: 2062 2 4 for 
+: 2066 7 1 gran
+: 2074 12 1 ted 
+- 2088
+: 2098 2 1 I 
+: 2102 4 1 thought 
+: 2108 4 -1 that 
+: 2114 2 -3 you 
+: 2118 5 -1 nee
+: 2124 2 1 ded 
+: 2128 5 4 me 
+- 2134
+: 2134 6 4 More, 
+: 2142 6 2 more, 
+: 2150 6 1 more, 
+: 2158 6 0 more 
+- 2165
+: 2166 2 4 I 
+: 2170 6 2 would 
+: 2178 6 1 do 
+: 2186 6 2 most 
+: 2194 11 4 a
+: 2206 3 2 ny
+: 2210 6 1 thing 
+- 2218
+: 2222 4 2 To 
+: 2228 4 4 get 
+: 2234 6 2 you 
+: 2242 4 1 back 
+: 2248 4 -1 by 
+: 2254 2 -3 my 
+: 2258 22 -3 side 
+- 2282
+: 2292 4 4 But 
+: 2298 4 2 I’ll 
+: 2304 12 1 just 
+: 2322 6 4 keep 
+: 2330 6 2 on 
+: 2338 5 1 lau
+: 2344 8 2 ghing 
+- 2353
+: 2354 7 4 Hi
+: 2362 2 2 ding 
+: 2366 2 1 my 
+: 2370 6 1 tears 
+: 2378 2 -1 in 
+: 2382 6 -3 my 
+: 2390 10 -3 eyes 
+- 2402
+: 2404 18 -3 ’Cause 
+: 2424 28 4 boys 
+: 2454 34 1 don’t 
+: 2490 30 1 cry 
+- 2522
+* 2550 5 1 Boy
+* 2556 5 0 ~
+* 2562 9 1 ~
+* 2572 5 3 ~
+* 2578 9 1 ~
+* 2588 5 3 ~
+* 2594 10 1 ~s 
+: 2608 16 -1 don’t 
+: 2626 30 -3 cry 
+E

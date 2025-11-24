@@ -1,0 +1,300 @@
+#ARTIST:Bob Marley & The Wailers
+#TITLE:One Love / People Get Ready
+#MP3:Bob Marley & The Wailers - One Love / People Get Ready.mp3
+#CREATOR:petersen123, Fepo
+#GENRE:Reggae
+#YEAR:1977
+#LANGUAGE:English
+#BPM:255.2
+#GAP:15380
+#VIDEO:v=cUS8MA5vptA,co=one-love--people-get-ready-610be8017842a.jpg,bg=marley-bob--the-wailers-51aa92c1f35e1.jpg
+: 0 6 2 One 
+: 12 15 2 love, 
+: 54 6 0 one 
+: 64 3 0 hea
+: 71 3 2 ~
+: 77 6 3 ~rt 
+- 85
+: 94 6 3 Let’s 
+: 107 6 2 get 
+: 117 3 0 to
+: 122 5 -2 ge
+: 131 3 0 ther 
+: 138 3 -2 and 
+: 149 8 2 feel 
+: 163 6 0 all 
+: 174 10 -2 right 
+- 186
+: 189 2 3 Hear 
+: 193 2 5 the 
+: 198 2 5 chil
+: 202 2 2 dren 
+: 207 3 5 cry
+: 213 3 7 ing 
+- 218
+: 240 4 7 Hear 
+: 246 2 5 the 
+: 250 3 5 chil
+: 256 2 2 dren 
+: 261 4 5 cry
+: 268 6 2 ing 
+- 276
+: 293 3 3 Say
+: 298 2 5 in’ 
+- 302
+: 304 5 2 Give 
+: 311 4 3 thanks 
+: 317 4 3 and 
+: 324 4 3 praise 
+: 330 2 2 to 
+: 334 2 0 the 
+: 338 7 -2 Lord 
+: 350 3 -2 and 
+: 355 3 -2 I 
+: 360 3 0 will 
+: 365 10 2 feel 
+: 378 5 0 all 
+: 387 6 -2 right 
+- 395
+: 401 4 2 Say
+: 407 5 5 in’ 
+- 414
+: 416 8 3 Let’s 
+: 430 4 2 get 
+: 440 3 0 to
+: 445 6 -2 ge
+: 454 2 0 ther 
+: 458 3 -2 and 
+: 470 8 2 feel 
+: 484 5 0 all 
+: 493 8 -2 right 
+- 503
+: 508 2 2 Woo, 
+: 511 2 0 woo, 
+: 514 2 -2 woo, 
+: 518 2 -5 woo 
+- 522
+: 537 3 2 Let 
+: 542 4 3 them 
+: 549 3 2 all 
+: 555 4 2 pass 
+: 562 4 0 all 
+: 569 4 -2 their 
+- 575
+: 590 4 -2 Dir
+: 596 3 -2 ty 
+: 602 3 5 re
+: 607 7 2 marks 
+- 616
+: 645 3 2 There 
+: 650 3 3 is 
+: 655 3 2 one 
+: 660 3 2 ques
+: 667 6 0 tion 
+- 675
+: 680 3 -2 I’d 
+: 687 2 0 real
+: 691 2 2 ly 
+: 697 3 -2 like 
+: 703 2 0 to 
+: 708 5 -2 ask 
+- 715
+: 750 3 2 Is 
+: 755 3 3 there 
+: 760 2 2 a 
+: 764 4 2 pla
+: 770 3 0 ~ce 
+: 782 3 -7 for 
+: 787 3 -5 the 
+- 792
+: 804 3 -2 Hope
+: 809 3 -2 less 
+: 815 4 0 sin
+: 821 3 2 ner 
+- 826
+: 834 4 0 Who 
+: 841 4 0 has 
+: 854 5 2 hurt 
+: 861 4 5 all 
+: 868 3 7 man
+: 874 7 2 kind 
+: 888 3 -5 just 
+: 895 3 -5 to 
+: 910 4 -2 save 
+: 916 3 -5 his 
+: 921 6 -2 own? 
+- 929
+: 933 2 -2 Be
+: 936 5 0 lieve 
+- 943
+: 962 6 2 One 
+: 972 12 2 love, 
+: 1018 6 0 one 
+: 1028 3 0 hea
+: 1033 3 2 ~
+: 1038 5 3 ~rt 
+- 1045
+: 1057 8 3 Let’s 
+: 1071 4 2 get 
+: 1081 3 0 to
+: 1086 6 -2 ge
+: 1095 2 0 ther 
+: 1099 3 -2 and 
+: 1111 8 2 feel 
+: 1125 5 0 all 
+: 1134 8 -2 right 
+- 1143
+: 1144 2 2 As 
+: 1148 2 5 it 
+: 1152 2 5 was 
+: 1155 2 5 in 
+: 1158 2 2 the 
+: 1161 2 5 be
+: 1164 2 2 gin
+: 1168 6 7 ning 
+- 1176
+: 1195 2 2 So 
+: 1199 3 5 shall 
+: 1204 2 7 it 
+: 1208 4 9 be 
+: 1214 2 7 in 
+: 1217 2 5 the 
+: 1221 8 5 end 
+- 1231
+: 1264 4 2 Give 
+: 1271 4 3 thanks 
+: 1278 3 3 and 
+: 1284 4 3 praise 
+: 1290 2 2 to 
+: 1294 2 0 the 
+: 1298 6 -2 Lord 
+: 1311 3 -2 and 
+: 1316 3 -2 I 
+: 1321 2 0 will 
+: 1325 9 2 feel 
+: 1338 6 0 all 
+: 1348 10 -2 right 
+- 1360
+: 1376 6 3 Le
+: 1386 3 2 ~t’s 
+: 1391 5 0 get 
+: 1399 3 0 to
+: 1406 3 -2 ge
+: 1413 3 0 ther 
+: 1419 6 -2 and 
+: 1429 10 2 feel 
+: 1443 5 0 all 
+: 1453 8 -2 right 
+- 1463
+: 1495 5 2 Let’s 
+: 1502 3 3 get 
+: 1507 3 2 to
+: 1512 4 2 ge
+: 1520 3 0 ther 
+: 1525 3 -2 to 
+: 1532 4 -2 fight 
+: 1538 3 -2 this 
+: 1544 2 -2 Ho
+: 1548 2 -2 ly 
+: 1553 3 -2 Ar
+: 1558 3 -2 ma
+: 1562 2 -5 ged
+: 1565 2 -7 do
+: 1568 3 -7 ~n 
+- 1573
+: 1596 3 -7 So 
+: 1601 3 2 when 
+: 1606 2 3 the 
+: 1610 3 2 Man 
+: 1616 4 -2 comes 
+- 1622
+: 1632 4 -7 There 
+: 1639 4 -5 will 
+: 1645 4 -2 be 
+: 1653 3 2 no 
+: 1658 4 0 no 
+: 1665 5 -2 doom 
+- 1672
+: 1704 4 -7 Have 
+: 1709 3 2 pi
+: 1714 3 3 ty 
+: 1719 3 2 on 
+: 1724 2 2 tho
+: 1728 5 0 ~se 
+: 1738 4 -7 whose 
+: 1744 4 -5 chan
+: 1751 3 -2 ces 
+: 1757 5 -2 grow 
+: 1764 5 -2 thin
+: 1771 5 2 ner 
+- 1778
+: 1790 4 2 There 
+: 1796 4 5 ain’t 
+: 1804 3 7 no
+: 1809 3 5 ~ 
+: 1814 4 3 hi
+: 1820 3 2 ding 
+: 1827 3 2 pla
+: 1832 3 0 ~ce 
+- 1837
+: 1844 4 -7 From 
+: 1850 3 -5 the 
+: 1856 4 -2 Fa
+: 1862 3 -2 ther 
+: 1867 3 0 of 
+: 1872 3 2 Cre
+: 1877 3 0 a
+: 1884 5 -2 tion 
+- 1890
+: 1892 3 2 Say
+: 1897 5 5 in’ 
+- 1904
+: 1918 8 2 One 
+: 1929 8 2 love, 
+: 1971 8 0 one 
+: 1982 8 0 heart 
+- 1992
+: 2011 8 3 Let’s 
+: 2024 5 2 get 
+: 2033 3 0 to
+: 2037 3 -2 ge
+: 2044 3 -2 ther 
+: 2051 3 -2 and 
+: 2064 10 2 feel 
+: 2078 5 0 all 
+: 2088 6 -2 right 
+- 2096
+: 2100 3 2 I’m 
+: 2105 3 7 plea
+: 2110 3 7 ding 
+: 2115 2 2 to 
+: 2119 5 5 man
+: 2126 5 7 kind 
+- 2133
+: 2155 3 0 Oh 
+: 2161 19 5 Lord 
+- 2182
+: 2214 4 2 Give 
+: 2221 4 3 thanks 
+: 2228 3 3 and 
+: 2234 4 3 praise 
+: 2240 2 2 to 
+: 2244 2 0 the 
+: 2248 6 -2 Lord 
+: 2261 3 -2 and 
+: 2266 3 -2 I 
+: 2271 2 0 will 
+: 2275 9 2 feel 
+: 2288 6 0 all 
+: 2298 10 -2 right 
+- 2310
+: 2325 7 3 Let’s 
+: 2339 5 2 get 
+: 2349 3 0 to
+: 2355 4 -2 ge
+: 2362 3 0 ther 
+: 2368 5 -2 and 
+: 2379 11 2 feel 
+: 2393 5 0 all 
+: 2403 5 -2 right 
+E

@@ -1,0 +1,210 @@
+#ARTIST:The Doobie Brothers
+#TITLE:Takin’ It To The Streets
+#MP3:The Doobie Brothers - Takin’ It To The Streets.mp3
+#CREATOR:Relisch
+#COVER:The Doobie Brothers - Takin’ It To The Streets [CO].jpg
+#BACKGROUND:The Doobie Brothers - Takin’ It To The Streets [BG].jpg
+#GENRE:Rock
+#YEAR:1976
+#LANGUAGE:English
+#BPM:300
+#GAP:14550
+#VIDEO:a=5o_umKOTXIs,co=takin-it-to-the-streets-59968f08be482.jpg,bg=doobie-brothers-the-5104b30dabb44.jpg
+: 0 3 14 You 
+: 5 6 17 don’t 
+: 13 6 17 know 
+: 21 7 16 me 
+: 29 3 16 but 
+: 33 6 16 I’m 
+: 41 3 14 your
+: 45 4 12 ~ 
+: 50 26 12 brother
+: 77 26 14 ~ 
+- 113
+: 131 4 14 I 
+: 136 7 17 was 
+: 144 6 17 raised 
+: 152 10 16 here 
+: 164 3 14 in
+: 168 3 12 ~ 
+: 172 6 12 this 
+: 180 15 14 living
+: 196 13 16 ~ 
+: 210 18 12 hell 
+- 238
+: 262 4 14 You 
+: 267 7 17 don’t 
+: 275 7 17 know 
+: 283 11 16 my 
+: 295 3 16 kind
+: 299 3 14 ~
+: 303 4 12 ~ 
+: 308 5 12 in 
+: 315 24 12 your 
+: 340 21 14 world 
+- 371
+: 393 3 14 Fairly
+: 397 7 17 ~ 
+: 406 8 17 soon 
+: 415 8 16 the 
+: 425 16 16 time 
+: 442 3 14 will
+: 446 5 12 ~ 
+: 452 15 12 tell
+: 468 4 14 ~ 
+- 482
+* 506 10 19 You, 
+: 572 6 19 telling
+: 579 4 19 ~ 
+: 585 7 17 me 
+: 594 6 16 the 
+: 601 7 17 things 
+: 609 3 17 you’re 
+: 613 3 17 gonna
+: 617 3 17 ~ 
+: 621 3 15 do 
+: 625 3 14 for 
+: 631 1 12 me
+: 634 2 14 ~
+: 637 6 16 ~ 
+- 663
+* 702 6 19 I 
+* 710 3 19 ain’t 
+* 715 8 17 blind 
+: 724 6 17 and 
+: 731 2 16 I 
+: 734 4 17 don’t 
+: 740 5 17 like 
+: 746 2 17 what 
+: 749 2 17 I 
+: 753 2 15 think 
+: 757 2 14 I 
+: 761 2 12 see
+: 764 2 14 ~ 
+- 767
+: 769 2 16 Takin’
+: 772 3 16 ~ 
+: 776 4 16 it 
+: 781 6 14 to 
+: 788 6 14 the 
+: 796 2 12 streets 
+- 799
+: 801 2 16 Takin’
+: 804 3 16 ~ 
+: 808 7 16 it 
+: 817 5 14 to 
+: 824 3 14 the 
+: 828 2 12 streets 
+- 831
+* 833 3 16 Takin’
+* 837 3 16 ~ 
+* 841 4 16 it 
+* 846 6 16 to 
+* 853 6 14 the 
+* 861 7 12 streets 
+- 878
+: 897 4 16 Takin’
+: 902 2 16 ~ 
+: 906 3 16 it 
+: 910 7 14 to 
+: 918 6 14 the 
+: 926 7 12 streets 
+- 973
+: 1045 3 14 Take 
+: 1049 5 17 this 
+: 1056 6 17 message
+: 1064 10 16 ~ 
+: 1076 7 16 to 
+: 1085 2 14 my
+: 1089 4 12 ~ 
+: 1095 26 12 brother
+: 1122 22 14 ~ 
+- 1154
+: 1175 4 14 You 
+: 1180 7 17 will 
+: 1188 15 17 find 
+: 1204 11 16 him 
+: 1222 17 14 everywhere
+: 1240 9 12 ~
+: 1250 15 12 ~
+: 1266 6 14 ~ 
+- 1282
+: 1302 4 7 Wherever
+: 1307 3 14 ~
+: 1312 5 17 ~ 
+: 1318 7 17 people
+: 1327 10 16 ~ 
+: 1343 1 16 live
+: 1345 2 14 ~
+: 1348 2 12 ~ 
+: 1351 4 12 together
+: 1356 24 12 ~
+: 1381 4 14 ~ 
+- 1405
+: 1436 6 14 Tied 
+: 1443 4 17 in 
+: 1450 7 17 poverty’s
+: 1459 6 16 ~
+: 1466 13 15 ~ 
+: 1481 2 14 despair
+: 1484 1 12 ~
+: 1486 2 12 ~
+: 1489 14 14 ~ 
+- 1523
+: 1551 10 19 You, 
+: 1617 6 19 telling
+: 1624 4 19 ~ 
+: 1630 7 17 me 
+: 1639 6 16 the 
+: 1646 7 17 things 
+: 1654 3 17 you’re 
+: 1658 3 17 gonna
+: 1662 3 17 ~ 
+: 1666 3 15 do 
+: 1670 3 14 for 
+: 1676 1 12 me
+: 1679 2 14 ~
+: 1682 6 16 ~ 
+- 1708
+: 1747 6 19 I 
+: 1755 3 19 ain’t 
+: 1760 8 17 blind 
+: 1769 6 17 and 
+: 1776 2 16 I 
+* 1779 4 17 don’t 
+* 1785 5 17 like 
+* 1791 2 17 what 
+* 1794 2 17 I 
+* 1798 2 15 think 
+* 1802 2 14 I 
+* 1806 2 12 see
+* 1809 1 14 ~ 
+- 1811
+: 1813 2 16 Takin’
+: 1816 3 16 ~ 
+: 1820 3 16 it 
+: 1825 6 14 to 
+: 1832 6 14 the 
+: 1840 2 12 streets 
+- 1843
+: 1845 3 16 Takin’
+: 1849 3 16 ~ 
+: 1853 6 16 it 
+: 1860 8 14 to 
+: 1869 3 14 the 
+: 1873 2 12 streets 
+- 1876
+: 1878 2 16 Takin’
+: 1882 2 16 ~ 
+: 1886 3 16 it 
+: 1890 7 16 to 
+: 1898 5 14 the 
+: 1905 7 12 streets 
+- 1922
+: 1941 4 16 Takin’
+: 1946 3 16 ~ 
+: 1950 3 16 it 
+: 1955 6 14 to 
+: 1962 7 14 the 
+: 1970 7 12 streets 
+E

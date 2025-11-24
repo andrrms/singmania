@@ -1,0 +1,248 @@
+#ARTIST:Rita Coolidge
+#TITLE:We’re All Alone
+#MP3:Rita Coolidge - We’re All Alone.mp3
+#CREATOR:Diddlmaus30mg
+#YEAR:1977
+#LANGUAGE:English
+#BPM:248.7
+#GAP:12490
+#VIDEO:v=tCKO57ZbHSY,co=https://i.discogs.com/NTcge0U_daT5CmYW6ubUmjOMHK8P7weJ-yRMR1w9QT8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTU2/NzEtMTUxNzI2MTQ5/NC00NDQyLmpwZWc.jpeg
+: 0 7 -10 Out
+: 8 7 -10 side 
+: 16 3 -1 the 
+: 20 7 0 rain 
+: 28 7 -1 be
+: 36 23 -3 gins 
+- 60
+: 60 7 -5 And 
+: 68 3 -1 it 
+: 72 11 -3 may 
+: 84 7 -5 ne
+: 92 7 7 ver 
+: 100 16 5 end 
+- 118
+: 120 7 4 So 
+: 128 3 4 cry 
+: 132 7 2 no 
+: 140 19 6 more 
+: 160 7 7 on 
+: 168 3 1 the 
+: 172 11 1 shore 
+: 184 7 7 a 
+: 192 16 -5 dream 
+- 210
+: 212 11 0 Will 
+: 224 3 7 take 
+: 228 7 6 us 
+: 236 3 4 out 
+: 240 3 2 to 
+: 244 16 0 sea 
+- 262
+: 304 3 2 For
+: 308 3 -1 e
+: 312 3 -1 ver 
+: 316 47 0 more 
+: 364 3 0 for
+: 368 3 -1 e
+: 372 3 -1 ver 
+: 376 7 -3 mo
+: 384 16 -1 re 
+- 402
+: 456 7 8 Close 
+: 464 3 10 your 
+: 468 11 1 eyes 
+: 480 7 10 and 
+: 488 16 8 dream 
+- 506
+: 512 7 -5 And 
+: 520 3 -1 you 
+: 524 7 -3 can 
+: 532 7 -5 be 
+: 540 7 7 with 
+: 548 16 5 me 
+- 566
+: 576 11 4 ’Neath 
+: 588 3 2 the 
+: 592 19 6 waves 
+: 612 3 7 through 
+: 616 3 1 the 
+: 620 11 1 caves 
+: 632 3 7 of 
+: 636 16 -5 hours 
+- 654
+: 668 7 0 Long 
+: 676 7 6 for
+: 684 7 4 got
+: 692 3 2 ten 
+: 696 16 0 now 
+- 714
+: 752 3 2 We’re 
+: 756 3 -1 all 
+: 760 3 -1 a
+: 764 44 0 lone 
+- 810
+: 812 3 0 We’re 
+: 816 3 -1 all 
+: 820 11 -1 a
+: 832 16 -3 lone 
+- 850
+: 876 23 -3 Close 
+: 900 3 -1 the 
+: 904 7 2 win
+: 912 7 6 dow 
+: 920 7 7 calm 
+: 928 3 6 the 
+: 932 16 7 light 
+- 950
+: 964 3 2 And 
+: 968 3 7 it 
+: 972 7 6 will 
+: 980 7 6 be 
+: 988 7 7 a
+: 996 16 6 lright 
+- 1014
+: 1016 7 4 No 
+: 1024 7 7 need 
+: 1032 3 5 to 
+: 1036 7 7 bo
+: 1044 7 9 ther 
+: 1052 20 7 now 
+- 1074
+: 1084 11 4 Let 
+: 1096 3 2 it 
+: 1100 15 6 out 
+: 1116 7 7 let 
+: 1124 3 1 it 
+: 1128 11 6 all 
+: 1140 3 7 be
+: 1144 20 7 gin 
+- 1166
+: 1176 7 0 Learn 
+: 1184 3 7 how 
+: 1188 7 6 to 
+: 1196 7 4 pre
+: 1204 32 6 tend 
+- 1238
+: 1352 3 7 Once 
+: 1356 3 -1 a 
+: 1360 11 0 stor
+: 1372 3 -1 y’s 
+: 1376 24 -3 told 
+- 1402
+: 1404 3 -5 It 
+: 1408 7 -1 can’t 
+: 1416 7 -3 help 
+: 1424 7 -5 but 
+: 1432 7 7 grow 
+: 1440 16 5 old 
+- 1458
+: 1468 3 4 Ro
+: 1472 7 2 ses 
+: 1480 15 6 do 
+: 1496 7 7 lo
+: 1504 3 1 vers 
+: 1508 11 1 too 
+- 1520
+: 1520 7 7 So 
+: 1528 23 -5 cast 
+: 1552 7 0 your 
+: 1560 7 7 seas
+: 1568 7 6 ons 
+: 1576 7 4 to 
+: 1584 3 2 the 
+: 1588 16 0 wind 
+- 1606
+: 1640 7 2 And 
+: 1648 7 -1 hold 
+: 1656 3 -1 me 
+: 1660 20 0 dear 
+- 1682
+: 1688 15 0 Oh 
+: 1704 7 -1 hold 
+: 1712 7 -1 me 
+: 1720 3 -3 de
+: 1724 16 -1 ar 
+- 1742
+: 1768 15 -3 Close 
+: 1784 3 -1 the 
+: 1788 7 2 win
+: 1796 7 6 dow 
+: 1804 11 7 calm 
+: 1816 7 6 the 
+: 1824 16 7 light 
+- 1842
+: 1844 7 2 And 
+: 1852 3 7 it 
+: 1856 7 6 will 
+: 1864 11 6 be 
+: 1876 3 7 al
+: 1880 16 6 right 
+- 1898
+: 1900 7 4 No 
+: 1908 7 7 need 
+: 1916 3 5 to 
+: 1920 11 7 bo
+: 1932 3 9 ther 
+: 1936 20 7 now 
+- 1958
+: 1968 3 4 Let 
+: 1972 3 2 it 
+: 1976 19 6 out 
+: 1996 3 7 let 
+: 2000 7 1 it 
+: 2008 11 6 all 
+: 2020 7 7 be
+: 2028 16 7 gin 
+- 2046
+: 2052 7 0 All’s 
+: 2060 3 6 for
+: 2064 3 4 got
+: 2068 15 2 ten 
+: 2084 16 4 now 
+- 2102
+: 2184 11 4 Oh 
+: 2196 3 4 we’re 
+: 2200 3 4 all 
+: 2204 3 2 a
+: 2208 16 4 lone 
+- 2226
+: 2256 19 2 Close 
+: 2276 3 -4 the 
+: 2280 7 2 win
+: 2288 7 6 dow 
+: 2296 7 7 calm 
+: 2304 3 6 the 
+: 2308 16 8 light 
+- 2326
+: 2336 7 2 And 
+: 2344 3 7 it 
+: 2348 7 6 will 
+: 2356 7 6 be 
+: 2364 7 7 al
+: 2372 16 6 right 
+- 2390
+: 2392 7 4 No 
+: 2400 7 7 need 
+: 2408 3 5 to 
+: 2412 7 7 bo
+: 2420 7 9 ther 
+: 2428 16 7 now 
+- 2446
+: 2456 3 4 Let 
+: 2460 3 2 it 
+: 2464 19 6 out 
+: 2484 3 7 let 
+: 2488 7 1 it 
+: 2496 11 6 all 
+: 2508 7 7 be
+: 2516 16 7 gin 
+- 2534
+: 2544 7 0 Owe 
+: 2552 3 7 it 
+: 2556 7 6 to 
+: 2564 3 4 the 
+: 2568 20 6 wind 
+- 2590
+: 2592 12 7 My 
+: 2608 20 7 love 
+E

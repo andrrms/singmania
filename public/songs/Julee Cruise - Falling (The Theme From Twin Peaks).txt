@@ -1,0 +1,153 @@
+#ARTIST:Julee Cruise
+#TITLE:Falling (The Theme From Twin Peaks)
+#MP3:Julee Cruise - Falling (The Theme From Twin Peaks).mp3
+#CREATOR:daggeg
+#COVER:Julee Cruise - Falling (The Theme From Twin Peaks) [CO].jpg
+#BACKGROUND:Julee Cruise - Falling (The Theme From Twin Peaks) [BG].jpg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:348.62
+#GAP:15250
+#VIDEO:v=mInZo4Td8Xk,co=https://images.genius.com/26aca18a1c55bd5b4c55f9c870c9d569.300x301x1.jpg
+: 0 5 0 Don’t 
+: 10 4 5 let 
+: 19 5 7 your
+: 29 5 9 self 
+: 39 6 7 be 
+: 49 6 5 hurt 
+: 59 5 0 this 
+: 69 22 2 time 
+- 93
+: 312 5 0 Don’t 
+: 322 4 5 let 
+: 331 5 7 your
+: 341 5 9 self 
+: 351 6 7 be 
+: 361 6 5 hurt 
+: 371 5 0 this 
+: 381 22 2 time 
+- 405
+: 616 34 4 Then 
+: 654 31 2 I 
+: 690 44 5 saw 
+- 736
+: 750 15 4 Your 
+: 772 67 0 face 
+- 841
+: 927 34 4 Then 
+: 965 31 2 I 
+: 1002 41 7 saw 
+- 1045
+: 1062 12 2 Your 
+* 1080 67 0 smile 
+- 1149
+: 1237 23 0 The 
+: 1266 26 2 sky 
+: 1295 10 -7 is 
+- 1307
+: 1315 25 0 Still 
+: 1343 17 2 blue 
+- 1362
+: 1370 12 -7 The 
+: 1389 23 0 clouds 
+: 1421 25 2 come 
+- 1448
+* 1451 10 5 And 
+: 1468 2 12 go
+: 1471 54 14 ~ 
+- 1527
+: 1537 4 2 Yet 
+: 1547 28 2 some
+: 1577 26 4 thing 
+- 1605
+: 1606 12 -5 Is 
+: 1624 28 2 dif
+: 1654 45 4 f’rent 
+- 1701
+: 1704 31 4 Are 
+: 1740 37 5 we 
+- 1779
+: 1780 35 7 Fall
+: 1816 23 9 ing 
+- 1840
+: 1840 17 10 In 
+: 1858 99 12 love? 
+- 1959
+: 2178 5 0 Don’t 
+: 2188 4 5 let 
+: 2197 5 7 your
+: 2207 5 9 self 
+: 2217 6 7 be 
+* 2227 6 5 hurt 
+* 2237 5 0 this 
+* 2247 22 2 time 
+- 2271
+: 2489 5 0 Don’t 
+: 2499 4 5 let 
+: 2508 5 7 your
+: 2518 5 9 self 
+: 2528 6 7 be 
+: 2538 6 5 hurt 
+: 2548 5 0 this 
+: 2558 22 2 time 
+- 2582
+: 2793 34 4 Then 
+: 2831 32 2 your 
+: 2869 42 5 kiss 
+- 2913
+: 2928 15 4 So 
+: 2947 81 0 soft 
+- 3030
+: 3103 35 4 Then 
+: 3143 35 2 your 
+: 3182 37 7 touch 
+- 3221
+* 3244 14 2 So 
+: 3261 72 0 warm 
+- 3335
+: 3417 21 0 The 
+: 3444 22 2 stars 
+: 3473 10 -7 still 
+- 3485
+: 3491 28 0 Shine 
+: 3524 18 2 bright 
+- 3544
+: 3551 13 -7 The 
+: 3570 2 -2 mou
+: 3573 27 0 ~n
+: 3601 20 2 tains 
+- 3623
+: 3629 12 -7 Still 
+: 3646 48 2 high 
+- 3696
+: 3717 4 2 Yet 
+: 3726 26 2 some
+: 3754 29 4 thing 
+- 3784
+: 3785 12 -5 Is 
+: 3803 29 2 dif
+: 3834 42 4 f’rent 
+- 3878
+: 3881 32 4 Are 
+: 3918 34 5 we 
+* 3958 34 7 fall
+* 3995 15 9 ing 
+- 4012
+: 4016 13 10 In 
+: 4035 100 12 love? 
+- 4137
+: 4349 39 0 Fall
+: 4389 34 -2 ing 
+- 4425
+: 4430 36 9 Fall
+: 4467 32 7 ing 
+- 4501
+: 4504 39 0 Fall
+: 4544 34 -2 ing 
+- 4580
+: 4583 37 9 Fall
+: 4621 19 7 ing 
+- 4641
+: 4641 17 -2 In 
+* 4659 109 0 love 
+E

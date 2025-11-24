@@ -1,0 +1,246 @@
+#ARTIST:Wildstylez feat. Niels Geusebroek
+#TITLE:Year Of Summer
+#MP3:Wildstylez feat. Niels Geusebroek - Year Of Summer.mp3
+#CREATOR:Way2Evil
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:3130
+#VIDEO:v=WA0t6ErCtus,co=https://is1-ssl.mzstatic.com/image/thumb/Features/v4/37/e4/a4/37e4a48f-387b-de54-8864-2e75fc523bcb/dj.tthnvfss.jpg/5000x5000bb.jpg,bg=wildstylez-50eee3ee14497.jpg
+: 0 2 9 The 
+: 4 6 12 clouds 
+: 13 2 9 have 
+: 18 8 12 gone 
+: 28 2 9 a
+: 32 11 12 way 
+- 45
+: 62 2 12 To 
+: 68 3 16 start 
+: 73 3 14 a 
+: 81 10 14 brigh
+: 92 3 12 ter 
+: 96 8 12 day 
+- 106
+: 116 3 9 We 
+: 121 4 11 have 
+: 129 7 12 wai
+: 137 2 11 ted 
+: 143 10 11 for 
+: 155 1 9 too 
+: 157 14 9 long 
+- 173
+: 256 1 9 It’s 
+: 260 7 12 time 
+: 269 2 9 to 
+: 273 10 12 let 
+: 284 2 9 it 
+: 288 18 12 out 
+- 308
+: 319 3 12 You 
+: 324 4 16 know 
+: 330 4 14 what 
+: 335 9 14 it’s 
+: 347 2 12 a
+: 350 16 12 bout 
+- 368
+: 370 1 9 I’ve 
+: 372 3 9 wai
+: 376 3 11 ted 
+: 382 12 12 all 
+: 396 2 11 to 
+: 400 9 11 feel 
+: 410 2 9 the 
+: 416 16 9 sun 
+- 434
+: 480 2 12 The 
+: 484 3 14 har
+: 488 2 16 der 
+: 492 3 16 it 
+: 496 7 16 gets, 
+: 507 2 12 the 
+: 510 7 14 fas
+: 520 2 16 ter 
+: 523 2 16 we 
+: 528 11 16 seem 
+: 541 3 12 to 
+: 545 6 14 fall 
+: 552 4 16 in 
+: 559 16 16 love 
+- 577
+: 610 1 12 The 
+: 612 3 14 deep
+: 616 3 16 er 
+: 620 4 16 we 
+: 625 8 16 fall, 
+: 635 2 12 the 
+: 640 6 14 more 
+: 648 4 16 we 
+: 655 10 17 lose 
+: 669 10 16 con
+: 682 15 12 trol 
+- 699
+: 731 2 12 Set 
+: 737 2 12 your 
+: 740 8 19 mind 
+: 753 10 12 free, 
+: 764 2 12 it’s 
+: 767 2 12 the 
+: 772 10 19 year 
+: 784 15 14 of 
+: 803 4 14 sum
+: 808 26 16 mer 
+- 836
+: 861 2 12 Keep 
+: 864 3 12 your 
+: 868 7 19 heart 
+: 881 7 12 strong 
+: 890 4 12 ’cause 
+: 897 2 12 the 
+: 900 11 19 sum
+: 912 11 14 mer
+: 924 1 12 ’s 
+: 930 9 12 here 
+- 941
+: 992 1 12 Set 
+: 994 1 12 your 
+: 996 10 19 mind 
+: 1009 8 12 free, 
+: 1020 1 12 it’s 
+: 1024 2 12 the 
+: 1028 9 19 year 
+: 1040 15 14 of 
+: 1059 3 14 sum
+: 1063 26 16 mer 
+- 1091
+: 1115 5 14 Yeah 
+: 1121 16 12 year 
+: 1146 6 16 of 
+: 1156 14 14 sum
+: 1171 8 11 mer
+: 1181 2 9 ’s 
+* 1188 24 9 here 
+- 1214
+F 1226 2 0  
+- 1230
+: 1501 5 12 Oh 
+: 1509 26 19 ooh 
+: 1538 7 12 ooh 
+- 1547
+: 1564 5 12 Oh 
+: 1571 7 19 ooh 
+: 1579 5 19 ooh 
+: 1586 6 19 ooh 
+: 1594 5 19 oh 
+: 1600 19 23 ooooh 
+: 1628 7 23 oh 
+: 1636 44 19 o-o-o-o-h 
+: 1681 17 14 o-ooh 
+: 1699 15 12 ooh 
+- 1716
+: 1762 2 12 The 
+: 1765 2 14 har
+: 1768 3 16 der 
+: 1772 3 16 it 
+: 1776 6 16 gets, 
+: 1789 2 12 the 
+: 1792 4 14 fas
+: 1799 2 16 ter 
+: 1802 2 16 we 
+: 1808 10 16 seem 
+: 1821 3 12 to 
+: 1825 6 14 fall 
+: 1832 3 16 in 
+: 1841 14 16 love 
+- 1857
+: 1890 1 12 The 
+: 1892 2 14 deep
+: 1895 4 16 er 
+: 1900 3 16 we 
+: 1904 10 16 fall, 
+: 1916 1 12 the 
+: 1920 7 14 more 
+: 1928 4 16 we 
+: 1935 8 17 lose 
+: 1948 11 16 con
+: 1962 16 12 trol 
+- 1980
+: 2010 6 12 Oh 
+: 2021 23 19 ooh 
+: 2047 7 12 ooh 
+- 2056
+: 2076 4 12 Oh 
+: 2083 6 19 ooh 
+: 2090 5 19 ooh 
+: 2097 6 19 ooh 
+: 2105 5 19 oh 
+: 2111 20 23 ooooh 
+: 2139 7 23 oh 
+: 2148 43 19 o-o-o-o-h 
+: 2192 18 14 o-ooh 
+: 2211 15 12 ooh 
+- 2228
+F 2240 2 0  
+- 2244
+: 2521 2 12 Set 
+: 2527 2 12 your 
+: 2531 7 19 mind 
+: 2544 8 12 free, 
+: 2554 2 12 it’s 
+: 2557 2 12 the 
+: 2563 10 19 year 
+: 2576 13 14 of 
+* 2594 3 14 sum
+* 2600 24 16 mer 
+- 2626
+: 2651 3 12 Keep 
+: 2655 2 12 your 
+: 2660 6 19 heart 
+: 2671 7 12 strong 
+: 2680 4 12 ’cause 
+: 2687 2 12 the 
+: 2691 10 19 sum
+: 2703 10 14 mer
+: 2714 1 12 ’s 
+: 2720 9 12 here 
+- 2731
+: 2782 1 12 Set 
+: 2784 1 12 your 
+: 2787 9 19 mind 
+: 2799 8 12 free, 
+: 2810 1 12 it’s 
+: 2814 2 12 the 
+: 2820 8 19 year 
+: 2831 14 14 of 
+: 2849 3 14 sum
+: 2853 26 16 mer 
+- 2881
+: 2905 5 14 Yeah 
+: 2911 16 12 year 
+: 2936 6 16 of 
+: 2946 14 14 sum
+: 2961 8 11 mer
+: 2971 2 9 ’s 
+: 2978 24 9 here 
+- 3004
+* 3070 2 9 The 
+* 3074 6 12 clouds 
+* 3083 2 9 have 
+* 3088 8 12 gone 
+* 3100 2 9 a
+* 3103 11 12 way 
+- 3116
+: 3134 2 12 To 
+: 3138 3 16 start 
+: 3143 3 14 a 
+: 3151 10 14 brigh
+: 3162 3 12 ter 
+: 3166 10 12 day 
+- 3178
+: 3186 3 9 We 
+: 3191 4 11 have 
+: 3199 7 12 wai
+: 3207 2 11 ted 
+: 3214 9 11 for 
+: 3226 1 9 too 
+: 3229 15 9 long 
+E

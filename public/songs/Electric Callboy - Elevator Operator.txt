@@ -1,0 +1,459 @@
+#ARTIST:Electric Callboy
+#TITLE:Elevator Operator
+#MP3:Electric Callboy - Elevator Operator.mp3
+#CREATOR:karoakey004
+#COVER:Electric Callboy - Elevator Operator [CO].jpg
+#BACKGROUND:Electric Callboy - Elevator Operator [BG].jpg
+#YEAR:2025
+#LANGUAGE:English
+#BPM:290
+#GAP:7055
+#VIDEO:v=BiP0FpY88E4,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/b5/d2/57b5d29c-4ea7-0253-0e44-6a7111efa77d/196872794083.jpg/5000x5000bb.jpg
+R 0 2 0 You
+R 4 1 0  heard
+R 6 1 0  a
+R 8 1 0 bout
+R 10 1 0  a
+R 12 5 0  man
+- 22
+R 24 2 0 The
+R 28 2 0  lift
+R 32 2 0  con
+R 36 3 0 trol
+R 40 2 0 ler
+- 46
+R 48 2 0 The
+R 51 3 0  le
+R 56 2 0 ver
+R 60 3 0  king
+R 64 2 0  I
+R 68 3 0  told
+R 73 2 0  you
+- 81
+R 84 3 0 Hop
+R 91 4 0  in
+R 96 2 0  and
+R 100 2 0  let
+R 104 2 0  the
+R 108 3 0  jour
+R 112 2 0 ney
+R 116 2 0  be
+R 120 4 0 gin
+- 136
+F 140 6 0 Shades,
+F 151 2 0  a
+F 156 4 0  shi
+F 161 2 0 ny
+F 164 5 0  face
+- 174
+F 176 2 0 Like
+F 180 2 0  he’s
+F 184 2 0  some
+F 187 3 0 one
+F 192 2 0  from
+F 196 3 0  ou
+F 200 2 0 ter
+F 204 5 0  space
+- 214
+F 216 2 0 So
+F 221 2 0  full
+F 224 2 0  of
+F 228 7 0  grace
+- 238
+F 240 6 0 I
+F 248 3 0  just
+F 252 1 0  wan
+F 253 1 0 na
+F 256 2 0  get
+F 261 3 0  in
+- 266
+R 268 5 0 Up
+R 280 3 0  and
+R 284 5 0  down
+- 293
+R 295 2 0 We’re
+R 299 3 0  mo
+R 304 3 0 ving
+R 309 2 0  all
+R 312 2 0  a
+R 316 1 0 round
+- 318
+R 320 2 0 We’re
+R 324 3 0  go
+R 328 2 0 ing
+R 332 5 0  up
+R 343 2 0  and
+R 348 5 0  down
+- 358
+R 360 2 0 We’re
+R 364 3 0  mo
+R 368 2 0 ving
+R 372 2 0  all
+R 376 2 0  a
+R 380 10 0 round
+- 394
+: 396 16 2 I
+: 416 3 2  wan
+: 420 2 5 na
+: 425 20 4  show
+: 448 3 4  you
+: 452 3 7  my
+: 457 19 5  world
+- 481
+* 483 3 5 Where
+* 488 2 5  the
+* 492 4 9  beat
+* 500 6 4  goes
+* 508 5 4  up
+* 516 3 5  a
+* 520 2 2 ~nd
+* 524 12 2  down
+- 542
+: 544 3 2 Let
+: 548 2 5  me
+: 552 18 4  o
+: 571 4 0 ~
+: 576 3 0 pen
+: 580 2 0  the
+: 584 3 7  doo
+: 588 11 9 ~
+: 600 3 9 ~
+: 604 3 9 ~
+: 608 3 9 ~
+: 612 3 9 ~r
+- 618
+: 620 2 2 E
+: 624 2 2 le
+: 628 3 2 va
+: 632 2 2 tor
+: 636 2 5  O
+: 640 2 2 per
+: 644 3 2 a
+: 648 2 2 tor
+- 660
+R 668 4 2 Up,
+R 676 4 2  up
+- 690
+R 700 4 2 Down,
+R 708 4 2  down
+- 722
+R 732 4 2 Up,
+R 740 4 2  up
+- 746
+: 748 2 2 E
+: 752 2 2 le
+: 755 3 2 va
+: 760 2 2 tor
+: 764 2 5  O
+: 768 2 2 per
+: 772 3 2 a
+: 776 2 2 tor
+- 816
+: 908 3 2 I
+: 914 3 7  wan
+: 920 2 8 na
+: 924 2 8  be
+: 927 3 8  like
+: 932 3 2  him
+- 941
+R 944 2 0 I
+R 948 1 0  real
+R 950 1 0 ly
+R 952 1 0  wan
+R 954 1 0 na
+R 957 2 0  be
+R 960 2 0  like
+R 965 2 0  him
+- 970
+: 972 3 2 I
+: 978 3 7  wan
+: 984 2 8 na
+: 988 2 8  be
+: 992 2 8  with
+: 996 3 2  him
+- 1005
+R 1008 2 0 For
+R 1012 1 0 get
+R 1014 1 0  a
+R 1016 2 0 bout
+R 1020 3 0  that
+- 1026
+R 1028 4 0 Heads
+R 1036 3 0  up
+R 1044 2 0  in
+R 1048 1 0  the
+R 1052 4 0  sky
+R 1060 3 0  and
+R 1064 2 0  we
+R 1068 3 0  keep
+R 1073 3 0  get
+R 1077 2 0 ting
+R 1081 4 0  high
+- 1086
+R 1088 2 0 A
+R 1091 3 0  ma
+R 1096 2 0 gic
+R 1100 5 0  down
+R 1108 3 0  in
+R 1112 2 0  his
+R 1117 2 0  le
+R 1120 2 0 ver
+R 1124 2 0  that
+R 1128 2 0  you
+R 1132 2 0  can
+R 1136 2 0 not
+R 1140 2 0  de
+R 1144 4 0 ny
+- 1150
+F 1152 2 0 A
+F 1156 4 0  glo
+F 1161 2 0 wing
+F 1164 6 0  light
+- 1173
+F 1175 2 0 He’s
+F 1180 3 0  shi
+F 1184 2 0 ning
+F 1188 6 0  bright
+- 1197
+F 1199 3 0 I
+F 1204 3 0  can
+F 1208 2 0 not
+F 1212 3 0  wait
+F 1216 2 0  to
+F 1220 3 0  get
+F 1224 2 0  in
+F 1228 5 0 side
+- 1237
+F 1239 3 0 Still
+F 1243 3 0  out
+F 1247 2 0  of
+F 1252 5 0  sight
+- 1263
+F 1265 3 0 And
+F 1271 3 0  we
+F 1276 3 0  wan
+F 1280 2 0 na
+F 1284 5 0  go
+- 1290
+R 1292 5 0 Up
+R 1303 2 0  and
+R 1308 5 0  down
+- 1318
+R 1320 2 0 We’re
+R 1324 3 0  mo
+R 1328 3 0 ving
+R 1333 2 0  all
+R 1336 2 0  a
+R 1340 1 0 round
+- 1342
+R 1344 2 0 We’re
+R 1348 3 0  go
+R 1352 2 0 ing
+R 1356 5 0  up
+R 1368 2 0  and
+R 1372 5 0  down
+- 1381
+R 1383 2 0 We’re
+R 1388 3 0  mo
+R 1392 2 0 ving
+R 1397 2 0  all
+R 1400 2 0  a
+R 1404 10 0 round
+- 1418
+: 1420 16 2 I
+: 1440 3 2  wan
+: 1444 2 5 na
+: 1448 20 4  show
+: 1472 3 4  you
+: 1476 3 7  my
+: 1481 19 5  world
+- 1505
+: 1507 3 5 Where
+: 1512 2 5  the
+: 1516 4 9  beat
+: 1524 6 4  goes
+: 1532 5 4  up
+: 1540 3 5  a
+: 1544 2 2 ~nd
+: 1548 12 2  down
+- 1566
+: 1568 3 2 Let
+: 1572 2 5  me
+: 1576 18 4  o
+: 1595 4 0 ~
+: 1600 3 0 pen
+: 1604 3 0  the
+* 1608 3 7  doo
+* 1612 11 9 ~
+* 1624 3 9 ~
+* 1628 3 9 ~
+* 1632 3 9 ~
+* 1636 3 9 ~
+* 1640 1 9 ~r
+- 1642
+: 1644 2 2 E
+: 1648 2 2 le
+: 1652 3 2 va
+: 1656 2 2 tor
+: 1660 2 5  O
+: 1665 2 2 per
+: 1669 2 2 a
+: 1672 2 2 tor
+- 1684
+R 1692 4 2 Up,
+R 1700 4 2  up
+- 1714
+R 1724 4 2 Down,
+R 1732 4 2  down
+- 1746
+R 1756 4 2 Up,
+R 1764 4 2  up
+- 1771
+: 1773 2 2 E
+: 1776 2 2 le
+: 1780 3 2 va
+: 1784 2 2 tor
+: 1788 2 5  O
+: 1792 2 2 per
+: 1796 3 2 a
+: 1800 2 2 tor
+- 1840
+F 2225 2 0 And
+F 2228 2 0  I
+F 2232 2 0  just
+F 2235 3 0  wan
+F 2240 2 0 na
+F 2244 3 0  get
+F 2252 36 0  down
+- 2294
+F 2296 2 0 But
+F 2300 2 0  I’m
+F 2304 2 0  just
+F 2308 3 0  go
+F 2312 2 0 ing
+F 2316 4 0  up
+- 2330
+F 2351 3 0 You
+F 2356 3 0  bet
+F 2360 2 0 ter
+F 2364 3 0  lis
+F 2369 2 0 ten
+F 2372 2 0  to
+F 2376 2 0  the
+F 2380 32 0  sound
+- 2418
+F 2420 3 0 Move
+F 2425 2 0  your
+F 2429 3 0  bo
+F 2433 2 0 dy
+F 2436 2 0  like
+F 2440 2 0  a
+F 2444 5 0  god
+- 2459
+F 2484 3 0 And
+F 2488 2 0  we
+F 2492 2 0  ne
+F 2495 2 0 ver
+F 2500 4 0  stop
+- 2523
+R 2560 3 0 Get
+R 2565 5 0  down
+- 2608
+F 2673 2 0 I
+F 2676 3 0  wan
+F 2680 2 0 na
+F 2684 2 0  hear
+F 2688 2 0  you
+F 2692 5 0  say
+- 2698
+R 2700 3 0 Ta-
+R 2708 3 0 ta-
+R 2716 2 0 ta
+R 2720 2 0 ta
+R 2724 2 0 ta-
+R 2732 2 0 ta
+R 2736 2 0 ta
+R 2740 2 0 ta
+R 2744 3 0 ta,
+R 2751 3 0  get
+R 2756 3 0  down
+- 2762
+G 2764 3 0 Ta-
+G 2772 3 0 ta-
+G 2780 2 0 ta
+G 2784 2 0 ta
+G 2788 2 0 ta-
+G 2796 2 0 ta
+G 2800 2 0 ta
+G 2804 2 0 ta
+G 2808 3 0 ta,
+R 2816 3 0  get
+R 2821 3 0  down
+- 2826
+: 2828 16 2 I
+: 2848 3 2  wan
+: 2852 2 5 na
+: 2856 20 4  show
+: 2880 3 4  you
+: 2884 3 7  my
+: 2889 19 5  world
+- 2913
+: 2915 3 5 Where
+: 2920 2 5  the
+: 2924 4 9  beat
+: 2932 6 4  goes
+: 2940 5 4  up
+: 2948 3 5  a
+: 2952 2 2 ~nd
+: 2956 12 2  down
+- 2974
+: 2976 3 2 Let
+: 2980 2 5  me
+: 2985 17 4  o
+: 3003 4 0 ~
+: 3008 3 0 pen
+: 3012 2 0  the
+: 3016 3 7  doo
+: 3020 11 9 ~
+: 3032 3 9 ~
+: 3036 3 9 ~
+: 3040 3 9 ~
+: 3044 3 9 ~
+: 3048 1 9 ~r
+- 3050
+: 3052 2 2 E
+: 3056 2 2 le
+: 3059 3 2 va
+: 3064 2 2 tor
+: 3068 2 5  O
+: 3072 2 2 per
+: 3076 3 2 a
+: 3080 2 2 tor
+- 3092
+R 3100 4 2 Up,
+R 3108 4 2  up
+- 3122
+R 3132 4 2 Down,
+R 3140 4 2  down
+- 3154
+R 3164 4 2 Up,
+R 3172 4 2  up
+- 3178
+: 3180 2 2 E
+: 3184 2 2 le
+: 3188 3 2 va
+: 3192 2 2 tor
+: 3196 2 5  O
+: 3200 2 2 per
+: 3204 3 2 a
+: 3208 2 2 tor
+- 3248
+: 3436 2 2 E
+: 3440 2 2 le
+: 3444 3 2 va
+: 3448 2 2 tor
+: 3452 2 5  O
+: 3456 2 2 per
+: 3460 3 2 a
+: 3464 2 2 tor
+E

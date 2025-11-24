@@ -1,0 +1,308 @@
+#ARTIST:Loretta Lynn
+#TITLE:Coal Miner’s Daughter
+#MP3:Loretta Lynn - Coal Miner’s Daughter.mp3
+#CREATOR:Frau_Amygdala
+#YEAR:1970
+#LANGUAGE:English
+#BPM:250
+#GAP:9000
+#VIDEO:v=f9eHp7JJgq8,co=https://i.discogs.com/BuYFpwnME9k383NB3IwR3Yr_iK046K-EnDkvVDL8OP0/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI1/ODItMTQ3MzEyMDM4/OS04ODc4LmpwZWc.jpeg,bg=lynn-loretta-4f82e6760aaba.jpg
+: 0 5 19 Well, 
+: 6 11 19 I 
+: 18 9 19 was 
+: 28 5 17 born 
+: 34 15 15 a 
+: 50 3 15 coal 
+: 54 5 12 miner’s 
+: 60 10 15 daughter 
+- 72
+: 106 7 15 In 
+: 114 5 15 a 
+: 120 6 15 cabin 
+: 132 3 15 on 
+: 136 3 15 a 
+: 140 5 17 hill 
+: 146 11 17 in 
+: 158 5 14 But
+: 164 3 14 cher 
+: 168 3 12 Holl
+: 172 8 10 er 
+- 182
+: 212 3 19 We 
+: 216 3 19 were 
+: 220 8 19 poor 
+: 230 3 19 but 
+: 234 3 19 we 
+: 238 5 19 had 
+: 244 8 15 love. 
+- 254
+: 264 3 19 That’s 
+: 268 3 19 the 
+: 272 3 17 one 
+: 276 7 15 thing that 
+: 284 5 15 Daddy 
+: 290 4 15 made 
+: 296 3 12 sure 
+: 300 8 10 of 
+- 310
+: 320 5 15 He 
+: 326 3 15 shov
+: 330 6 15 eled 
+: 338 7 17 coal 
+: 346 3 15 to 
+: 350 3 14 ma
+: 354 4 10 ke 
+: 362 1 10 a 
+: 364 2 14 poor 
+: 368 6 17 man’s 
+: 376 7 17 doll
+: 384 6 15 ar 
+- 392
+: 424 11 19 My 
+: 436 5 19 daddy 
+: 442 7 19 worked 
+: 450 4 19 all 
+: 456 5 19 nigh
+: 462 3 17 t 
+: 466 6 15 in the 
+: 474 6 12 Van Leer 
+: 482 5 15 coal 
+: 488 10 15 mine 
+- 500
+: 532 7 15 All 
+: 540 5 15 day 
+: 546 6 15 long 
+: 554 7 15 in a 
+: 562 11 17 field 
+: 574 3 14 a-
+: 578 5 14 hoe
+: 584 4 12 in’ 
+: 590 6 10 corn 
+- 598
+: 632 3 19 Mom
+: 636 3 19 my 
+: 640 8 19 rocked 
+: 650 1 15 the 
+: 652 3 19 ba
+: 656 1 15 bies 
+: 658 4 19 at 
+: 664 8 15 night 
+- 674
+: 680 5 19 And 
+: 686 3 19 read the 
+: 690 3 17 bible 
+: 694 7 15 by the 
+: 702 5 15 coal 
+: 708 7 15 oil
+: 716 1 12 ~ 
+: 718 6 10 light 
+- 726
+: 736 1 15 And 
+: 738 3 15 ev
+: 742 1 15 ery
+: 744 4 15 thing 
+: 750 3 15 would 
+: 754 6 17 start 
+: 762 5 15 all 
+: 768 3 14 ov
+: 772 6 10 er 
+: 780 1 10 come 
+: 782 4 14 break 
+: 788 4 17 of 
+: 794 5 17 mo
+: 800 6 15 rrn’ 
+- 808
+: 840 5 20 Daddy 
+: 846 11 20 loved 
+: 858 9 20 and raised 
+: 868 5 18 eight 
+: 874 7 20 kids 
+: 882 5 16 on 
+: 888 3 16 a 
+: 892 6 13 miner’s 
+: 900 10 16 pay 
+- 912
+: 946 13 16 Mommy scrubbed 
+: 960 12 16 our coats 
+: 974 5 16 on a 
+: 980 9 18 wash
+: 990 7 18 board 
+: 998 3 15 ev
+: 1002 3 15 ery 
+: 1006 8 11 day. 
+- 1016
+: 1052 9 20 Well, I 
+: 1062 7 20 seen 
+: 1070 3 20 her 
+: 1074 3 16 fin
+: 1078 4 20 gers 
+: 1084 8 16 bleed, 
+- 1094
+: 1104 3 20 To 
+: 1108 3 20 com
+: 1112 3 18 plain 
+: 1116 7 16 there 
+: 1124 5 16 was 
+: 1130 4 16 no 
+: 1136 3 13 ne
+: 1140 8 11 ed. 
+- 1150
+: 1158 6 16 She’s 
+: 1166 3 16 smile 
+: 1170 6 16 in 
+: 1178 7 18 mom
+: 1186 3 16 my’s 
+: 1190 3 15 un
+: 1194 6 11 der
+: 1202 1 11 stan
+: 1204 4 15 ding 
+: 1210 4 18 wa
+: 1216 5 18 ~
+: 1222 8 16 y 
+- 1232
+: 1262 7 20 In the 
+: 1270 8 20 summer 
+: 1280 11 20 time 
+: 1292 3 18 we 
+: 1296 5 16 didn’t 
+: 1302 5 16 have 
+: 1308 8 13 shoes 
+: 1318 1 11 to 
+: 1320 16 16 wear. 
+- 1338
+: 1370 9 16 But in 
+: 1380 5 16 the winter 
+: 1386 6 16 time 
+: 1394 7 16 we’d 
+: 1402 11 18 all get 
+: 1414 3 15 a brand 
+: 1418 9 15 new 
+: 1428 10 11 pair 
+- 1440
+: 1472 3 20 From 
+: 1476 3 20 a mail or
+: 1480 8 20 der 
+: 1490 1 16 ca
+: 1492 3 20 ta
+: 1496 3 16 lo
+: 1500 3 20 ~
+: 1504 8 16 gue, 
+- 1514
+: 1524 5 20 Money 
+: 1530 3 18 made 
+: 1534 7 16 from 
+: 1542 5 16 selling 
+: 1548 7 16 a 
+: 1556 8 11 hog. 
+- 1566
+: 1576 1 16 Dad
+: 1578 3 16 dy 
+: 1582 1 16 al
+: 1584 12 16 ways 
+: 1598 3 18 man
+: 1602 5 16 aged 
+: 1608 3 15 to get 
+: 1612 6 11 the 
+: 1620 1 11 mon
+: 1622 7 15 ey
+: 1630 2 11 ~ 
+: 1636 5 18 some
+: 1642 10 16 where 
+- 1654
+: 1678 7 21 Yeah, I’m 
+: 1686 11 21 proud 
+: 1698 9 21 to be 
+: 1708 5 19 to be 
+: 1714 3 21 a 
+: 1718 1 19 co
+: 1720 6 17 al 
+: 1728 3 17 mi
+: 1732 7 14 ner’s 
+: 1740 10 17 daughter. 
+- 1752
+: 1786 13 17 I remember well 
+: 1800 12 17 the well 
+: 1814 5 17 the well where 
+: 1820 9 19 I 
+: 1830 7 19 drew 
+: 1838 3 16 wa
+: 1842 3 16 ter
+: 1846 3 14 ~
+: 1850 8 12 ~ 
+- 1860
+: 1892 9 21 The 
+: 1902 7 21 work 
+: 1910 3 21 we 
+: 1914 3 17 done 
+: 1918 4 21 was 
+: 1924 8 17 hard, 
+- 1934
+: 1944 3 21 At night 
+: 1948 3 21 we’d 
+: 1952 3 19 sleep 
+: 1956 7 17 cause 
+: 1964 5 17 we 
+: 1970 4 17 were 
+: 1976 3 14 ti
+: 1980 8 12 red. 
+- 1990
+: 1994 5 17 I 
+: 2000 9 17 never 
+: 2010 5 17 thought 
+: 2016 9 19 of 
+: 2026 3 17 ever 
+: 2030 3 16 lea
+: 2034 4 12 ving 
+: 2044 5 16 But
+: 2050 5 16 cher 
+: 2056 5 19 Hol 
+: 2062 8 17 ler. 
+- 2072
+: 2100 7 21 Well, a 
+: 2108 8 21 lot 
+: 2118 7 21 of things 
+: 2126 5 19 have 
+: 2132 7 21 changed 
+: 2140 5 19 since 
+: 2146 7 17 way 
+: 2154 3 14 back 
+: 2158 16 17 then. 
+- 2176
+: 2208 3 17 And 
+: 2212 5 17 it’s 
+: 2218 5 17 so 
+: 2224 6 17 good 
+: 2232 5 17 to be 
+: 2238 5 19 back 
+: 2244 11 19 ho 
+: 2256 9 16 me a
+: 2266 12 12 gain 
+- 2280
+: 2304 5 21 Not 
+: 2310 7 21 much 
+: 2318 10 21 left 
+: 2330 5 21 but 
+: 2336 5 21 the 
+: 2342 12 17 floors, 
+- 2356
+: 2362 5 21 Nothing 
+: 2368 3 19 lives 
+: 2372 7 17 here 
+: 2380 4 17 any 
+: 2388 7 17 mo 
+: 2396 4 12 re, 
+- 2402
+: 2414 1 17 Ex
+: 2416 3 17 cept 
+: 2420 1 17 the 
+: 2422 12 17 memories 
+: 2436 7 19 of 
+: 2444 1 17 ~ 
+: 2446 5 16 a 
+: 2452 1 14 coal 
+: 2454 8 12 ~ 
+: 2464 3 12 mi
+: 2468 5 12 ner’s 
+: 2474 5 14 daugh
+: 2480 8 17 ter 
+E

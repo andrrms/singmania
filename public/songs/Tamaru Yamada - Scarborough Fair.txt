@@ -1,0 +1,146 @@
+#ARTIST:Tamaru Yamada
+#TITLE:Scarborough Fair
+#MP3:Tamaru Yamada - Scarborough Fair.mp3
+#CREATOR:DeinAlptraum, HansiMcKlaus
+#EDITION:WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?
+#COVER:Tamaru Yamada - Scarborough Fair [CO].jpg
+#BACKGROUND:Tamaru Yamada - Scarborough Fair [BG].jpg
+#YEAR:2017
+#LANGUAGE:English
+#BPM:384
+#GAP:14680
+#VIDEO:a=ogwZuQM0hgA,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/16/af/2b/16af2bd6-eab9-fdb2-92e8-2f74a8dfbdcd/195533005933.jpg/5000x5000bb.jpg
+: 0 17 0 Are 
+: 18 17 0 you 
+: 36 11 7 go
+: 48 11 7 ing 
+: 60 11 7 to 
+: 72 17 2 Scar
+: 90 5 3 bo
+: 96 11 2 rough 
+: 108 60 0 Fair? 
+- 170
+: 194 11 7 Par
+: 206 11 10 sley, 
+: 218 23 12 sage, 
+: 242 11 10 rose
+: 254 11 7 ma
+: 266 11 9 ry 
+: 278 11 5 and 
+: 290 60 7 thyme 
+- 352
+: 388 11 12 Re
+: 400 23 12 mem
+: 424 3 12 ber
+: 428 7 10 ~ 
+: 436 18 10 me 
+: 460 11 7 to 
+: 472 11 7 one 
+: 484 11 5 who 
+: 496 11 3 lives 
+: 508 5 2 there
+: 514 30 -2 ~ 
+- 546
+: 582 23 0 He 
+: 606 11 7 once 
+: 618 12 5 was 
+: 642 11 2 a 
+: 654 11 2 true 
+: 666 11 0 love 
+: 678 11 -2 of 
+: 690 48 0 mine 
+- 740
+: 836 11 0 Tell 
+: 848 11 0 him 
+: 860 11 0 to 
+: 872 11 7 make 
+: 884 11 7 me 
+: 896 11 7 a 
+: 908 17 2 cam
+: 926 5 3 br
+: 932 11 2 ic 
+: 944 48 0 shirt 
+- 994
+: 1028 10 7 Par
+: 1039 11 10 sley, 
+: 1051 23 12 sage, 
+: 1075 11 10 rose
+: 1087 11 7 ma
+: 1099 11 9 ry 
+: 1111 11 5 and 
+: 1123 8 9 thyme
+: 1132 51 7 ~ 
+- 1185
+: 1256 11 12 With
+: 1268 23 12 out 
+: 1292 4 12 no
+: 1297 6 10 ~ 
+: 1304 23 10 seams 
+: 1328 11 7 nor 
+: 1340 11 7 ne
+: 1352 11 5 e
+: 1364 11 3 dle
+: 1376 7 2 work
+: 1384 28 -2 ~ 
+- 1414
+: 1452 23 0 Then 
+: 1476 11 7 he’ll 
+: 1488 18 5 be 
+: 1512 11 2 a 
+: 1524 11 2 true 
+: 1536 11 0 love 
+: 1548 11 -2 of 
+: 1560 60 0 mine 
+- 1622
+: 2375 11 2 Tell 
+: 2387 11 2 him 
+: 2399 11 2 to 
+: 2411 11 9 find 
+: 2423 11 9 me 
+: 2435 11 9 an 
+: 2447 17 4 a
+: 2465 5 5 cre 
+: 2471 11 4 of 
+: 2483 48 2 land 
+- 2533
+: 2564 11 9 Par
+: 2576 11 12 sley, 
+: 2588 23 14 sage, 
+: 2612 11 12 rose
+: 2624 11 9 ma
+: 2636 11 11 ry 
+: 2648 11 7 and 
+* 2660 72 9 thyme 
+- 2734
+: 2755 11 14 Be
+: 2767 23 14 tween 
+: 2791 5 14 the
+: 2797 5 12 ~ 
+: 2803 11 12 salt 
+: 2815 17 9 wa
+: 2833 5 9 ter 
+: 2839 11 9 and 
+: 2851 11 7 the 
+: 2863 11 5 sea 
+: 2875 6 4 strand
+: 2882 41 0 ~ 
+- 2925
+: 2948 23 2 Then 
+: 2972 11 9 he’ll 
+: 2984 18 7 be 
+: 3008 11 4 a 
+: 3020 11 4 true 
+: 3032 11 2 love 
+: 3044 11 0 of 
+* 3056 72 2 mine 
+- 3130
+: 3170 29 2 Are 
+: 3200 17 2 you 
+: 3218 17 9 go
+: 3236 11 9 ing 
+: 3248 17 9 to 
+: 3266 23 4 Scar
+: 3290 11 5 bo
+: 3302 17 4 rough 
+: 3320 60 2 Fair? 
+E

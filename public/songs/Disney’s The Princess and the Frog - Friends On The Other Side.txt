@@ -1,0 +1,600 @@
+#ARTIST:Disney’s The Princess and the Frog
+#TITLE:Friends On The Other Side
+#MP3:Disney’s The Princess and the Frog - Friends On The Other Side.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:2009
+#LANGUAGE:English
+#BPM:311.1
+#GAP:44080
+#VIDEO:v=g00kEcGh4j8,co=the-princess-and-the-frog-61cbf2bb4a409.jpg
+F 0 2 6 Don’t 
+F 4 2 6 you 
+F 8 2 6 dis
+F 12 2 6 re
+F 16 2 6 spect 
+F 20 2 6 me 
+F 26 1 6 lit
+F 28 2 6 tle 
+F 32 5 6 man! 
+- 47
+F 70 4 6 Don’t 
+F 76 4 6 you 
+F 83 2 6 de
+F 87 2 6 ro
+F 90 4 6 gate 
+F 104 2 6 or 
+F 111 2 6 de
+F 115 12 6 ride! 
+- 137
+: 144 3 4 You’re 
+: 149 2 4 in 
+: 153 4 4 my 
+: 159 4 0 world 
+: 165 7 -3 now 
+- 174
+: 176 3 4 Not 
+: 182 4 1 your 
+: 189 12 -2 world 
+- 212
+: 216 7 -3 And 
+: 225 4 4 I 
+: 232 4 4 got 
+: 240 6 4 friends 
+: 249 6 0 on 
+: 258 3 -3 the 
+: 263 3 2 o
+: 269 4 0 ther 
+: 276 9 -3 side! 
+- 295
+: 304 3 4 He’s 
+: 309 3 9 got 
+: 315 7 9 friends 
+: 324 4 5 on 
+: 330 6 0 the 
+: 338 6 2 o
+: 346 10 2 there 
+: 359 26 5 side … 
+- 385
+F 386 3 6 That’s 
+F 393 1 6 an 
+F 396 2 6 e
+F 399 2 6 cho, 
+F 403 1 6 gent
+F 405 2 6 le
+F 408 3 6 men. 
+- 417
+F 419 1 6 Just 
+F 422 1 6 a 
+F 424 1 6 lit
+F 426 1 6 tle 
+F 428 1 6 some
+F 430 1 6 thing 
+- 431
+F 432 1 6 We 
+F 434 1 6 have 
+F 436 2 6 here 
+F 439 1 6 in 
+F 441 2 6 Lou
+F 444 1 6 i
+F 446 2 6 si
+F 449 1 6 a
+F 451 1 6 na, 
+- 452
+F 453 2 6 A 
+F 456 2 6 little 
+F 459 2 6 par
+F 464 2 6 lor 
+F 469 3 6 trick. 
+F 475 2 6 Don’t 
+F 478 2 6 wor
+F 482 2 6 ry … 
+- 494
+: 512 2 4 Sit 
+: 516 2 4 down 
+: 521 5 2 at 
+: 528 3 0 my 
+: 534 2 2 tab
+: 538 5 4 le 
+- 553
+: 567 3 4 Put 
+: 572 1 4 your 
+: 575 8 7 minds 
+: 585 2 2 at 
+: 589 13 4 ease 
+- 612
+: 623 2 4 If 
+: 627 2 4 you 
+: 631 1 4 rel
+: 634 2 7 ax 
+: 638 1 4 it 
+: 641 1 2 will 
+: 644 2 0 en
+: 648 1 2 a
+: 651 1 0 ble 
+: 654 2 2 me 
+- 664
+: 667 1 0 To 
+: 670 6 0 do 
+: 682 2 4 a
+: 685 2 0 ny
+: 689 5 4 thing 
+: 696 4 0 I 
+: 702 12 -3 please 
+- 724
+: 739 3 4 I 
+: 744 2 4 can 
+: 749 5 4 read 
+: 755 5 0 your 
+: 763 2 2 fut
+: 769 8 4 ure 
+- 788
+: 792 4 4 I 
+: 797 2 4 can 
+: 801 2 4 change 
+: 805 2 4 it 
+: 809 1 7 ’ro
+: 811 2 4 und 
+: 816 4 2 some, 
+: 823 13 2 too 
+- 839
+: 841 3 4 I’ll 
+: 845 4 4 look 
+: 851 4 9 deep 
+: 858 3 7 in
+: 864 3 4 to 
+: 870 4 0 your 
+: 878 2 3 heart 
+: 883 3 0 and 
+: 890 14 4 soul 
+- 909
+F 911 2 6 (You 
+F 915 2 6 do 
+F 918 2 6 have 
+F 921 2 6 a 
+F 924 2 6 soul, 
+F 928 1 6 don’t 
+F 931 2 6 you, 
+F 935 1 6 Lawrence
+F 938 1 6 ?) 
+- 945
+: 948 4 2 Make 
+: 954 2 0 your 
+: 959 5 4 wil
+: 966 3 4 dest 
+: 973 1 4 drea
+: 975 3 2 ~ms 
+: 980 4 0 come 
+: 987 11 -3 true! 
+- 1008
+: 1015 2 12 I 
+: 1019 2 9 got 
+: 1023 2 12 voo
+: 1027 2 9 doo 
+- 1029
+: 1031 2 12 I 
+: 1035 2 9 got 
+: 1039 1 12 hoo
+: 1043 1 9 doo 
+- 1045
+: 1047 1 12 I 
+: 1051 1 9 got 
+: 1055 2 12 things 
+: 1059 2 14 I 
+: 1064 2 11 ain’t 
+: 1068 1 9 eve
+: 1071 1 7 ve 
+: 1074 16 15 tried! 
+- 1097
+: 1100 1 -3 And 
+: 1103 3 5 I 
+: 1109 3 5 got 
+: 1115 6 5 friends 
+: 1124 4 0 on 
+: 1131 2 -3 the 
+: 1135 3 2 ot
+: 1141 2 0 her 
+: 1146 12 -3 side. 
+- 1164
+: 1166 2 9 He’s 
+: 1170 4 9 got 
+: 1176 7 9 friends 
+: 1185 5 4 on 
+: 1194 2 4 the 
+: 1199 6 8 ot
+: 1207 3 8 her 
+: 1213 12 9 side! 
+- 1235
+F 1247 2 6 The 
+F 1250 9 6 cards, 
+F 1263 2 6 the 
+F 1268 9 6 cards, 
+F 1283 3 6 the 
+F 1290 6 6 cards 
+F 1300 6 6 will 
+F 1310 13 6 tell 
+- 1332
+: 1336 2 -3 The 
+: 1340 5 4 past, 
+: 1351 1 -3 the 
+: 1354 2 3 pre
+: 1359 1 2 sent 
+- 1360
+: 1361 2 0 And 
+: 1366 1 2 the 
+: 1368 2 4 fut
+: 1372 2 4 ure 
+: 1375 4 2 as 
+: 1384 8 0 well! 
+- 1401
+F 1404 1 6 The 
+F 1407 8 6 cards, 
+F 1423 3 6 the 
+F 1430 14 6 cards, 
+F 1457 5 6 just 
+F 1467 6 6 take 
+F 1477 14 6 three 
+- 1503
+: 1507 2 4 Take 
+: 1511 2 7 a 
+: 1514 2 4 lit
+: 1518 2 4 tle 
+: 1521 2 4 trip 
+: 1525 2 2 in
+: 1528 2 0 to 
+: 1532 1 0 your 
+: 1535 2 3 fut
+: 1540 2 2 ure 
+: 1545 6 0 with 
+: 1555 28 4 me! 
+- 1603
+: 1648 3 4 Now 
+: 1653 5 9 you, 
+: 1661 4 9 young 
+: 1669 3 7 man, 
+- 1672
+: 1674 3 7 Are 
+: 1679 2 7 from 
+: 1684 2 7 acr
+: 1688 4 11 oss 
+: 1697 4 7 the 
+: 1706 23 9 sea 
+- 1740
+: 1744 3 7 You 
+: 1750 3 7 come 
+: 1755 2 7 from 
+: 1760 4 7 two 
+: 1768 4 7 long 
+: 1777 6 6 lines 
+: 1786 6 6 of 
+: 1798 6 9 roy
+: 1808 7 6 al
+: 1823 20 7 ty 
+- 1851
+F 1854 1 6 (I’m 
+F 1857 2 6 a 
+F 1860 2 6 roy
+F 1863 2 6 al 
+F 1866 3 6 my
+F 1870 3 6 self 
+F 1875 2 6 on 
+F 1878 2 6 my 
+F 1882 2 6 mo
+F 1885 2 6 ther’s 
+F 1888 6 6 side) 
+- 1904
+: 1914 3 3 Your 
+: 1919 4 4 life
+: 1927 7 7 style’s 
+: 1939 26 12 high 
+- 1967
+: 1969 3 0 But 
+: 1975 2 2 your 
+: 1980 4 4 funds 
+: 1989 7 0 are 
+: 2000 24 -4 low 
+- 2031
+: 2034 1 0 You 
+: 2037 2 0 need 
+: 2041 1 2 to 
+: 2043 2 4 mar
+: 2046 1 4 ry 
+: 2049 1 4 a 
+: 2052 1 4 lil’ 
+: 2054 2 3 ho
+: 2057 2 2 ney 
+- 2060
+: 2062 3 0 Whose 
+: 2069 1 4 dad
+: 2072 2 2 dy 
+: 2076 4 0 got 
+: 2085 10 -3 dough! 
+- 2105
+F 2119 2 6 Mom 
+F 2124 2 6 and 
+F 2128 3 6 dad 
+F 2133 2 6 cut 
+F 2136 2 6 you 
+F 2139 3 6 off, 
+F 2143 3 6 huh 
+F 2147 2 6 play
+F 2150 3 6 boy? 
+- 2163
+F 2192 2 6 Now 
+F 2196 2 6 y’all 
+F 2201 2 6 got
+F 2205 1 6 ta 
+F 2207 3 6 get 
+F 2212 4 6 hitched, 
+- 2220
+F 2222 2 6 But 
+F 2226 1 6 hit
+F 2228 3 6 chin’ 
+F 2232 3 6 ties 
+F 2238 3 6 you 
+F 2244 9 6 down. 
+- 2254
+F 2256 2 6 You 
+F 2259 3 6 just 
+F 2264 2 6 wan
+F 2267 2 6 na 
+F 2270 2 6 be 
+F 2273 5 6 free. 
+- 2281
+F 2283 2 6 Hop 
+F 2287 2 6 from 
+F 2291 3 6 place 
+F 2296 1 6 to 
+F 2299 4 6 place. 
+- 2311
+F 2314 2 6 But 
+F 2318 4 6 free
+F 2324 5 6 dom... 
+F 2338 5 6 takes 
+F 2346 12 6 green! 
+- 2368
+: 2399 2 12 It’s 
+: 2403 2 9 the 
+: 2407 3 12 green, 
+: 2413 2 12 it’s 
+: 2418 2 9 the 
+: 2422 4 12 green, 
+- 2427
+: 2429 2 12 It’s 
+: 2434 2 9 the 
+: 2438 4 12 green 
+: 2445 6 12 you 
+: 2454 25 9 need 
+- 2482
+: 2484 2 0 And 
+: 2488 2 0 when 
+: 2491 1 2 I 
+: 2495 2 4 looked 
+: 2499 1 4 in
+: 2503 1 4 to 
+: 2506 2 4 your 
+: 2510 2 4 fut
+: 2514 1 2 ure 
+- 2515
+: 2517 2 0 It’s 
+: 2521 1 2 the 
+: 2524 1 3 green 
+: 2527 2 2 that 
+: 2531 3 0 I 
+: 2537 7 -3 see! 
+- 2554
+: 2566 4 7 On 
+: 2573 5 4 you 
+: 2581 1 7 lit
+: 2584 1 7 tle 
+: 2586 2 7 man, 
+- 2588
+: 2589 3 7 I 
+: 2594 2 7 don’t 
+: 2597 2 7 want 
+: 2600 1 7 to 
+: 2603 2 12 waste 
+: 2609 2 7 much 
+: 2615 8 7 time 
+- 2627
+: 2629 3 7 You 
+: 2634 2 5 been 
+: 2638 2 4 pushed 
+: 2642 2 7 aro
+: 2645 4 7 und 
+: 2652 6 9 all 
+: 2661 4 7 your 
+: 2669 16 7 life 
+- 2695
+F 2699 3 6 You 
+F 2706 3 6 been 
+F 2712 3 6 pushed 
+F 2718 1 6 aro
+F 2722 3 6 und 
+F 2729 3 6 by 
+F 2734 2 6 your 
+F 2738 2 6 mot
+F 2742 4 6 her 
+- 2747
+F 2749 2 6 And 
+F 2754 2 6 your 
+F 2759 2 6 sis
+F 2764 2 6 ter 
+F 2770 1 6 and 
+F 2774 2 6 your 
+F 2779 2 6 brot
+F 2784 3 6 her. 
+- 2799
+: 2803 2 0 And 
+: 2807 2 2 if 
+: 2812 3 7 you 
+: 2817 3 7 was 
+: 2822 3 7 mar
+: 2828 16 9 ried … 
+- 2850
+F 2852 3 6 You’d 
+F 2857 2 6 be 
+F 2862 3 6 pushed 
+F 2867 2 6 aro
+F 2870 4 6 und 
+F 2876 2 6 by 
+F 2880 3 6 your 
+F 2886 14 6 wife 
+- 2910
+: 2918 4 7 But 
+: 2925 4 12 in 
+: 2931 5 12 your 
+: 2940 2 7 fu
+: 2945 4 7 ture, 
+: 2954 3 7 the 
+: 2959 3 9 you 
+: 2965 5 14 I 
+: 2975 15 4 see 
+- 2999
+: 3002 4 2 Is 
+: 3009 1 2 e
+: 3012 2 4 xact
+: 3016 4 4 ly 
+: 3025 1 -3 the 
+: 3028 3 4 man 
+: 3033 2 2 you 
+- 3035
+: 3036 2 0 Al
+: 3040 2 2 ways 
+: 3043 2 3 wan
+: 3047 2 2 ted 
+: 3050 4 0 to 
+: 3057 11 -3 be! 
+- 3078
+F 3101 6 6 Shake 
+F 3109 3 6 my 
+F 3115 7 6 hand. 
+- 3132
+F 3141 4 6 Come 
+F 3149 3 6 on 
+F 3156 12 6 boys. 
+- 3177
+F 3180 3 6 Won’t 
+F 3184 3 6 you 
+F 3188 6 6 shake 
+F 3202 5 6 the 
+F 3209 10 6 poor 
+F 3224 3 6 sin
+F 3229 6 6 ner’s 
+F 3238 12 6 hand? 
+- 3260
+: 3291 37 -3 Yes … 
+- 3338
+: 3347 2 12 Are 
+: 3351 2 9 you 
+: 3355 7 12 rea
+: 3364 7 9 dy? 
+- 3371
+: 3373 4 12 Are 
+: 3379 2 9 you 
+: 3383 7 12 rea
+: 3393 5 9 dy? 
+- 3398
+: 3400 3 12 Are 
+: 3406 6 9 you 
+: 3415 14 12 rea
+: 3431 14 9 dy? 
+- 3455
+: 3470 3 12 Trans
+: 3477 1 9 for
+: 3481 2 12 ma
+: 3486 2 9 tion 
+: 3491 2 12 cent
+: 3496 4 9 ral! 
+- 3500
+: 3501 1 12 Trans
+: 3506 1 9 for
+: 3510 1 12 ma
+: 3515 1 9 tion 
+: 3520 2 12 cen
+: 3526 2 9 tral! 
+- 3528
+: 3529 2 9 Re
+: 3533 2 16 for
+: 3537 2 17 ma
+: 3541 3 11 tion 
+: 3547 2 19 cent
+: 3552 3 12 ral! 
+- 3555
+: 3557 3 12 Re
+: 3563 1 9 for
+: 3566 2 12 ma
+: 3570 3 9 tion 
+: 3576 1 12 central! 
+- 3577
+F 3578 3 6 Trans
+F 3585 3 6 mog
+F 3591 2 6 ri
+F 3594 2 6 fi
+F 3598 2 6 ca
+F 3602 3 6 tion 
+F 3608 4 6 cent
+F 3615 6 6 ral! 
+- 3631
+: 3641 3 12 Can 
+: 3646 3 9 you 
+: 3650 11 12 feel 
+: 3662 7 9 it? 
+- 3679
+: 3688 2 9 You’re 
+: 3693 2 12 chan
+: 3698 3 11 gin’ 
+- 3701
+: 3703 2 9 You’re 
+: 3708 2 12 chan
+: 3714 3 11 gin’ 
+- 3717
+: 3719 2 9 You’re 
+: 3724 13 12 chan
+: 3740 3 11 gin’, 
+: 3744 2 9 all 
+: 3749 10 9 right! 
+- 3762
+: 3764 5 9 I 
+: 3771 4 9 hope 
+: 3778 5 7 you’re 
+: 3786 8 7 sat
+: 3796 9 9 is
+: 3807 23 4 fied 
+- 3839
+F 3843 4 6 But 
+F 3849 4 6 if 
+F 3855 2 6 you 
+F 3859 7 6 ain’t 
+- 3873
+F 3876 3 6 Don’t 
+F 3882 6 6 blame 
+F 3890 10 6 me!! 
+- 3910
+: 3914 5 0 You 
+: 3921 3 2 can 
+: 3926 6 4 blame 
+: 3934 6 4 my 
+: 3944 9 4 friends 
+: 3955 6 2 on 
+: 3963 3 0 the 
+: 3969 25 4 ot
+: 3995 22 8 her 
+: 4019 26 -3 side! 
+- 4045
+F 4046 1 6 You 
+F 4049 3 6 got 
+F 4055 3 6 what 
+F 4061 1 6 you 
+F 4063 3 6 wan
+F 4068 6 6 ted! 
+- 4084
+F 4096 3 6 But 
+F 4103 1 6 you 
+F 4106 3 6 lost 
+F 4112 2 6 what 
+F 4118 1 6 you 
+F 4121 8 6 had! 
+- 4170
+F 4218 12 6 Hush … 
+E

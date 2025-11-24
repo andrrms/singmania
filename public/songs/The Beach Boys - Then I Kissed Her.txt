@@ -1,0 +1,266 @@
+#ARTIST:The Beach Boys
+#TITLE:Then I Kissed Her
+#MP3:The Beach Boys - Then I Kissed Her.mp3
+#CREATOR:Fepo
+#COVER:The Beach Boys - Then I Kissed Her [CO].jpg
+#BACKGROUND:The Beach Boys - Then I Kissed Her [BG].jpg
+#GENRE:Pop
+#YEAR:1965
+#LANGUAGE:English
+#BPM:251
+#GAP:10970
+#VIDEO:v=5G8x2d2Z9Lc,co=https://media.hitparade.ch/cover/big/the_beach_boys-then_i_kissed_her_s.jpg
+: 0 2 -4 Well, 
+: 4 2 -4 I 
+* 8 5 1 walked 
+: 16 2 1 up 
+: 20 2 1 to 
+: 24 4 1 her 
+- 28
+: 30 2 1 And 
+: 33 2 1 I 
+: 36 5 3 asked 
+: 44 2 3 her 
+: 47 2 3 if 
+: 51 2 3 she 
+: 55 2 3 wan
+: 59 2 1 ted 
+: 63 2 3 to 
+: 67 9 1 dance 
+- 92
+: 129 2 -4 She 
+: 132 5 1 looked 
+: 140 2 1 aw
+: 144 2 1 ful 
+: 148 5 1 nice, 
+- 154
+: 156 2 1 And 
+: 160 5 3 so 
+: 168 2 3 I 
+: 172 2 3 hoped 
+: 176 2 3 she 
+: 180 2 3 might 
+: 184 2 1 take 
+: 188 2 3 a 
+: 192 9 1 chance 
+- 217
+: 264 3 6 When 
+: 269 2 6 we 
+: 273 5 6 danced, 
+: 280 6 6 I 
+: 288 3 5 he
+: 292 2 1 ~ld 
+: 296 2 1 her 
+: 300 9 1 tight 
+- 319
+: 327 2 6 Then 
+: 331 2 6 I 
+: 336 6 6 walked 
+: 344 4 6 her 
+: 351 2 5 ho
+: 354 2 1 ~me 
+: 358 2 1 that 
+: 362 10 1 night 
+- 378
+: 380 2 -4 And 
+: 384 5 1 all 
+: 391 3 1 the 
+: 397 7 1 stars 
+: 406 6 1 were 
+: 414 6 3 shi
+: 422 2 3 ning 
+: 426 5 3 bright, 
+- 432
+: 434 2 3 And 
+: 438 2 3 then 
+: 442 2 5 I 
+* 446 5 3 kissed 
+: 453 42 1 her 
+- 505
+: 509 6 1 Each 
+: 517 3 1 time 
+: 522 2 1 I 
+: 525 3 1 saw 
+: 530 2 1 her, 
+- 532
+: 534 2 1 I 
+: 538 2 1 coul
+: 541 2 3 ~
+: 545 2 3 dn’t 
+: 549 2 3 wait 
+: 553 2 3 to 
+: 557 2 3 see 
+: 561 2 1 her 
+: 565 2 0 a
+: 569 2 3 gai
+: 573 5 1 ~n 
+- 594
+: 633 2 -4 I 
+: 637 3 1 wan
+: 642 3 1 ted 
+: 648 2 1 to 
+: 652 2 1 let 
+: 656 5 1 her 
+: 664 5 3 know 
+- 670
+: 672 2 3 That 
+: 676 2 3 I 
+: 680 2 1 was 
+: 684 2 3 more 
+: 688 2 1 than 
+: 692 2 0 a 
+: 696 3 3 frie
+: 700 5 1 ~nd 
+- 721
+: 768 3 6 I 
+: 773 2 6 did
+: 776 2 6 n’t 
+: 780 5 6 know 
+: 787 6 6 just 
+: 796 3 5 wha
+: 800 2 1 ~t 
+: 804 2 1 to 
+: 808 13 1 do 
+- 833
+: 837 2 6 So 
+: 841 2 6 I 
+: 845 5 6 whis
+: 852 4 6 pered, 
+: 859 3 5 “I
+: 863 2 1 ~ 
+: 867 3 1 love 
+: 872 12 1 you” 
+- 885
+: 887 2 -4 And 
+: 891 6 1 she 
+: 899 6 1 said 
+: 907 5 1 that 
+: 915 6 1 she 
+* 923 7 3 loved 
+: 932 3 3 me 
+: 937 3 3 too, 
+- 942
+: 944 2 3 And 
+: 948 2 3 then 
+: 952 2 5 I 
+* 956 5 3 kissed 
+: 963 45 1 her 
+- 1014
+: 1016 2 -2 I 
+: 1020 3 1 kissed 
+: 1025 2 1 her 
+: 1029 2 1 in 
+: 1033 2 1 a 
+: 1037 5 3 way 
+: 1044 2 3 that 
+: 1048 2 3 I’d 
+: 1052 2 3 ne
+: 1056 2 5 ver 
+: 1060 2 5 kissed 
+: 1064 2 5 a 
+: 1068 2 3 girl 
+: 1072 6 -2 be
+: 1080 57 1 fore 
+- 1142
+: 1144 2 1 I 
+: 1148 2 1 kissed 
+: 1152 2 3 her 
+: 1156 2 3 in 
+: 1160 2 1 a 
+: 1164 6 3 way 
+: 1172 2 3 that 
+: 1176 2 3 I 
+: 1180 6 5 hope 
+: 1188 2 3 she 
+: 1192 6 3 liked 
+: 1200 4 1 for 
+: 1206 2 0 e
+: 1209 2 1 ver
+* 1213 50 3 more 
+- 1269
+: 1272 2 -4 I 
+: 1276 2 1 knew 
+: 1280 2 1 that 
+: 1284 2 1 she 
+: 1288 2 1 was 
+: 1292 3 1 mine, 
+- 1295
+: 1297 2 1 So 
+: 1301 2 1 I 
+: 1305 3 1 ga
+: 1309 3 3 ~ve 
+: 1314 2 3 her 
+: 1318 2 3 all 
+: 1322 2 1 the 
+: 1326 2 3 love 
+: 1330 2 1 that 
+: 1334 2 0 I 
+: 1338 2 3 ha
+* 1341 23 1 ~d 
+- 1380
+: 1401 2 -4 And 
+: 1405 2 1 one 
+: 1409 5 1 day, 
+: 1416 2 1 she’ll 
+: 1420 3 1 take 
+: 1425 4 1 me 
+: 1432 8 3 home 
+- 1440
+: 1442 2 3 To 
+: 1446 2 3 meet 
+: 1450 2 1 her 
+: 1454 2 3 mom 
+: 1458 2 1 and 
+: 1462 2 0 her 
+: 1466 3 3 da
+: 1470 14 1 ~d 
+- 1500
+: 1541 3 6 Then 
+: 1546 3 6 I 
+: 1551 6 6 asked 
+: 1559 2 6 her 
+: 1563 2 6 to 
+: 1567 3 5 be
+: 1571 2 1 ~ 
+: 1575 2 1 my 
+: 1579 17 1 bride 
+- 1600
+: 1602 2 1 And 
+: 1606 2 6 al
+: 1610 3 6 ways 
+: 1615 6 6 be 
+: 1623 5 6 right 
+: 1630 3 5 by
+: 1634 2 1 ~ 
+: 1638 3 1 my 
+: 1643 10 1 side 
+- 1655
+: 1657 2 -4 I 
+: 1661 7 1 felt 
+: 1670 5 1 so 
+: 1677 3 1 hap
+: 1681 3 1 py 
+: 1686 2 1 that 
+: 1690 2 1 I 
+: 1694 3 3 al
+: 1699 4 3 most 
+: 1706 6 3 cried, 
+- 1713
+: 1715 3 3 And 
+: 1720 2 3 then 
+: 1724 2 5 I 
+* 1728 5 3 kissed 
+: 1735 37 1 her 
+- 1776
+: 1778 2 3 And 
+: 1782 2 3 then 
+: 1786 2 5 I 
+* 1790 6 3 kissed 
+: 1798 38 1 her 
+- 1842
+: 1844 2 3 And 
+: 1848 2 3 then 
+: 1852 2 5 I 
+* 1856 5 3 kissed 
+* 1863 71 1 her 
+E

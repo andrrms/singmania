@@ -1,0 +1,145 @@
+#ARTIST:Smash Cast feat. Megan Hilty
+#TITLE:Dancing On My Own
+#MP3:Smash Cast feat. Megan Hilty - Dancing On My Own.mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:2013
+#LANGUAGE:English
+#BPM:236
+#GAP:9730
+#VIDEO:v=gUi-w0mYEPs,co=https://m.media-amazon.com/images/I/51kpv9EmY7L.jpg,bg=smash-2012-530fdf7f5761c.jpg
+: 0 3 2 Some
+: 4 3 2 bo
+: 8 2 2 dy 
+: 15 4 0 said 
+: 23 2 0 you 
+: 27 2 0 got 
+: 31 2 0 a 
+: 34 4 0 new 
+: 42 6 2 friend 
+- 50
+: 135 4 2 Does 
+: 141 3 2 she 
+: 148 5 0 love 
+: 157 2 0 you 
+: 162 3 0 bet
+: 166 1 0 ter 
+: 169 2 0 than 
+: 174 1 0 I 
+: 181 5 2 can 
+- 188
+: 260 3 -7 There’s 
+: 264 3 -7 a 
+: 269 3 2 big 
+: 275 5 2 black 
+: 283 7 0 sky 
+: 296 3 0 o
+: 301 2 0 ver 
+: 304 6 0 my 
+: 312 6 2 town 
+- 320
+: 401 2 2 I 
+: 405 3 2 know 
+: 409 3 2 where 
+: 413 2 2 you’re 
+: 418 5 0 at, 
+: 426 2 0 I 
+: 430 4 0 bet 
+: 437 4 0 she’s 
+: 443 2 0 a
+: 448 5 2 round 
+- 455
+: 538 3 5 Hey, 
+: 545 6 5 I 
+: 554 7 4 know 
+: 565 4 4 it’s 
+: 574 5 4 stu
+: 582 7 5 pid 
+- 591
+: 602 3 5 I 
+: 607 2 5 just 
+: 611 2 5 got
+: 614 2 5 ta 
+: 620 5 4 see 
+: 627 5 4 it 
+: 640 2 4 for 
+: 645 2 4 my
+: 651 7 5 self 
+- 660
+: 674 3 9 I’m 
+: 679 1 7 in 
+: 681 2 9 the 
+: 686 7 9 cor
+: 695 6 5 ner, 
+- 703
+: 706 4 9 Watch
+: 712 2 7 ing 
+: 716 2 9 you 
+: 721 5 9 kiss 
+: 730 4 5 her 
+- 736
+: 742 6 9 Oh
+: 750 4 7 ~
+: 756 11 5 ~ 
+- 769
+: 804 2 9 I’m 
+: 809 3 9 right 
+: 814 3 7 o
+: 818 2 9 ver 
+: 822 5 9 he
+: 831 4 5 re, 
+- 837
+: 842 3 9 Why 
+: 847 2 7 can’t 
+: 851 2 9 you 
+: 856 5 9 see 
+: 864 5 5 me, 
+- 871
+: 876 7 9 Oh
+: 885 3 7 ~
+: 890 18 5 ~ 
+- 910
+: 940 3 12 I’m 
+: 945 3 12 giv
+: 950 2 9 ing 
+: 953 3 12 it 
+: 959 5 12 my 
+: 967 2 9 all, 
+- 971
+: 975 1 9 But 
+: 978 3 12 I’m 
+: 983 2 9 not 
+: 988 1 12 the 
+* 992 9 14 girl 
+* 1003 4 12 you’re 
+* 1010 5 9 ta
+* 1020 4 7 king 
+* 1029 7 5 home, 
+- 1038
+: 1045 7 5 Oh
+: 1054 5 7 ~
+: 1062 7 9 ~ 
+- 1071
+: 1080 4 9 I 
+: 1087 6 9 keep 
+: 1096 5 7 dan
+: 1104 5 7 cing 
+: 1112 6 7 on 
+: 1120 5 5 my 
+: 1129 24 5 own 
+- 1155
+: 1212 7 5 Oh
+: 1223 3 12 ~
+: 1228 13 9 ~
+: 1247 6 12 ~
+: 1256 4 9 ~
+: 1263 18 5 ~ 
+- 1283
+: 1349 2 5 I 
+: 1352 5 5 just 
+: 1362 7 4 came 
+: 1377 3 4 to 
+: 1382 4 4 say 
+: 1388 2 4 good
+: 1395 8 5 bye 
+E

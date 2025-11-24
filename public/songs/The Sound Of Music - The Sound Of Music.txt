@@ -1,0 +1,181 @@
+#ARTIST:The Sound Of Music
+#TITLE:The Sound Of Music
+#MP3:The Sound Of Music - The Sound Of Music.mp3
+#CREATOR:leaby
+#GENRE:Soundtrack
+#YEAR:1965
+#LANGUAGE:English
+#BPM:206.08
+#GAP:15510
+#VIDEO:v=6f0T6UV-HiI,co=the-sound-of-music-original-soundtrack-recording--super-delu-6667232ba79eb.jpg,bg=the-sound-of-music-5afc50c8668ab.jpg
+: 0 5 24 The 
+: 6 9 26 hills 
+: 16 2 24 are 
+: 19 2 22 a
+: 22 16 21 live 
+- 39
+: 39 3 19 With 
+: 43 1 17 the 
+: 45 9 16 sound 
+: 55 3 14 of 
+: 59 9 16 mu
+: 69 24 16 sic 
+- 95
+: 102 3 17 With 
+: 106 7 19 songs 
+: 114 1 17 they 
+: 116 2 16 have 
+* 119 14 14 sung 
+- 135
+: 137 2 16 For 
+: 140 2 17 a 
+: 143 7 19 thou
+: 151 4 21 sand 
+: 156 39 22 years 
+- 197
+: 205 2 24 The 
+: 208 11 26 hills 
+: 220 4 24 fill 
+: 225 4 22 my 
+: 230 17 21 heart 
+- 248
+: 248 2 19 With 
+: 251 1 17 the 
+: 253 10 16 sound 
+: 264 3 14 of 
+: 268 12 16 mu
+: 281 23 16 sic 
+- 306
+: 313 3 16 My 
+: 317 5 17 heart 
+: 323 2 19 wants 
+: 326 2 21 to 
+: 329 7 22 sing 
+- 337
+: 338 2 24 E
+: 341 2 26 very 
+: 345 20 16 song 
+: 366 3 17 it 
+: 370 32 17 hears 
+- 404
+: 414 4 17 My 
+: 419 8 17 heart 
+: 428 4 16 wants 
+: 433 3 16 to 
+: 437 5 14 beat 
+- 443
+: 444 2 14 Like 
+: 447 1 14 the 
+: 449 6 16 wings 
+: 456 1 16 of 
+: 458 1 16 the 
+: 460 8 17 birds 
+: 469 1 17 that 
+: 471 8 21 rise 
+- 480
+: 480 2 17 From 
+: 483 1 16 the 
+: 485 8 14 lake 
+: 494 7 16 to 
+: 502 1 16 the 
+: 504 14 17 trees 
+- 520
+: 526 2 19 My 
+: 529 5 14 heart 
+: 535 2 14 wants 
+: 538 1 14 to 
+: 540 7 16 sigh 
+- 548
+: 548 1 16 Like 
+: 550 1 16 a 
+: 552 9 17 chime 
+: 562 2 17 that 
+: 565 17 24 flies 
+- 583
+: 584 3 21 From 
+: 588 2 17 a 
+: 591 14 19 church 
+: 606 8 19 on 
+: 615 1 19 a 
+: 617 17 19 breeze 
+- 636
+: 641 4 17 To 
+: 646 6 14 laugh 
+: 653 2 14 like 
+: 656 2 14 a 
+* 659 4 16 brook 
+- 664
+: 664 3 16 When 
+: 668 1 16 it 
+: 670 7 17 trips 
+: 678 2 17 and 
+: 681 8 21 falls 
+- 690
+: 691 1 17 O
+: 693 1 16 ver 
+: 695 10 14 stones 
+: 706 6 16 on 
+: 713 2 16 its 
+: 716 14 17 way 
+- 732
+: 739 2 17 To 
+: 742 12 21 sing 
+: 755 10 17 through 
+: 766 1 21 the 
+: 768 20 16 night 
+- 789
+: 790 2 16 Like 
+: 793 3 16 a 
+: 797 7 17 lark 
+: 805 2 19 who 
+: 808 2 21 is 
+: 811 8 22 lear
+: 820 2 24 ning 
+: 823 4 26 to 
+: 828 11 24 pray 
+- 841
+: 846 27 24 I 
+: 874 14 26 go 
+: 889 2 24 to 
+: 892 2 22 the 
+: 895 20 21 hills 
+- 917
+: 925 4 19 When 
+: 930 2 17 my 
+: 933 8 16 heart 
+: 942 4 14 is 
+: 947 14 16 lone
+: 962 36 16 ly 
+- 1000
+: 1010 4 17 I 
+: 1015 9 19 know 
+: 1025 2 17 I 
+: 1028 2 16 will 
+* 1031 17 14 hear 
+- 1050
+: 1052 2 16 What 
+: 1055 3 17 I’ve 
+: 1059 10 19 heard 
+: 1070 2 21 be
+: 1073 43 22 fore 
+- 1118
+: 1126 6 22 My 
+: 1133 11 24 heart 
+: 1145 3 21 will 
+: 1149 3 22 be 
+* 1153 22 24 blessed 
+- 1177
+: 1191 3 21 With 
+: 1195 1 22 the 
+: 1197 19 24 sound 
+: 1217 6 24 of 
+: 1224 27 24 mu
+: 1252 39 17 sic 
+- 1293
+: 1310 9 17 And 
+: 1320 18 22 I’ll 
+: 1339 34 16 sing 
+- 1375
+: 1377 41 16 Once 
+: 1419 96 17 more 
+E

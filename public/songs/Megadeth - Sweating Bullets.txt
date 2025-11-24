@@ -1,0 +1,582 @@
+#ARTIST:Megadeth
+#TITLE:Sweating Bullets
+#MP3:Megadeth - Sweating Bullets.mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero 5
+#GENRE:Thrash Metal
+#YEAR:1992
+#LANGUAGE:English
+#BPM:399.39
+#GAP:47160
+#VIDEO:a=ZkMx9Ch-r1c,co=sweating-bullets-5e4a2d97614cc.jpg,bg=megadeth-6409b6b9e5344.jpg
+F 0 1 0 Hel
+F 6 1 0 lo 
+F 14 1 0 me 
+- 25
+F 32 1 0 Meet 
+F 37 1 0 the 
+F 46 1 0 real 
+F 57 1 0 me 
+- 68
+F 77 1 0 And 
+F 82 1 0 my 
+F 92 1 0 mis
+F 98 1 0 fit’s 
+F 115 1 0 way 
+F 120 1 0 of 
+F 123 1 0 life 
+- 134
+F 154 1 0 A 
+F 157 1 0 dark 
+F 168 1 0 black 
+F 183 1 0 past 
+F 198 1 0 is 
+F 203 1 0 my 
+- 214
+F 234 1 0 Most 
+F 246 1 0 val
+F 254 1 0 ued 
+F 262 1 0 pos
+F 268 1 0 ses
+F 276 1 0 sion 
+- 287
+F 311 1 0 Hind
+F 323 1 0 sight 
+F 331 1 0 is 
+F 338 1 0 al
+F 347 1 0 ways 
+F 352 1 0 twen
+F 355 1 0 ty-
+F 362 1 0 twen
+F 368 1 0 ty 
+- 379
+F 388 1 0 But 
+F 391 1 0 loo
+F 395 1 0 king 
+F 402 1 0 back 
+F 412 1 0 it’s 
+F 418 1 0 still 
+F 424 1 0 a 
+F 430 1 0 bit 
+F 439 1 0 fuz
+F 445 1 0 zy 
+- 456
+F 464 1 0 You 
+F 469 1 0 speak 
+F 474 1 0 of 
+F 479 1 0 mu
+F 485 1 0 tu
+F 488 1 0 al
+F 490 1 0 ly 
+F 492 1 0 as
+F 497 1 0 sured 
+F 506 1 0 de
+F 512 1 0 struc
+F 519 1 0 tion? 
+- 530
+F 545 1 0 Nice 
+F 556 1 0 sto
+F 562 1 0 ry 
+F 573 1 0 tell 
+F 577 1 0 it 
+F 580 1 0 to 
+F 584 1 0 Rea
+F 588 1 0 der’s 
+F 595 1 0 Di
+F 599 1 0 gest! 
+- 610
+: 614 6 4 Fee
+: 624 6 7 lin’ 
+: 634 5 9 pa
+: 640 4 7 ra
+: 647 3 9 noid
+: 651 6 10 ~ 
+- 661
+: 663 8 10 True 
+: 673 5 10 e
+: 680 2 6 ne
+: 688 11 3 my 
+: 702 2 6 or 
+: 712 6 8 false 
+: 721 5 6 friend
+: 727 12 9 ~? 
+- 749
+: 759 5 6 An
+: 768 8 3 xi
+: 777 5 8 e
+: 789 7 9 ty’s 
+: 799 2 9 at
+: 804 5 10 tac
+: 812 5 10 kin’ 
+: 821 9 10 me 
+- 835
+: 837 8 4 My 
+: 846 9 7 air 
+: 856 7 4 is 
+: 866 3 4 get
+: 872 6 2 ting 
+: 882 12 4 thin 
+- 904
+: 921 3 4 Oh, 
+: 925 5 4 I’m 
+: 934 5 7 in 
+: 944 5 9 trou
+: 951 5 7 ble 
+: 960 4 7 for
+: 965 6 10 ~ 
+: 972 1 10 the 
+: 978 8 9 things 
+- 990
+: 992 1 4 I
+: 994 5 2 ~ 
+: 1002 5 4 have
+: 1009 5 7 n’t 
+: 1017 4 9 got 
+: 1026 5 7 to 
+: 1036 11 10 yet 
+- 1057
+: 1069 5 10 I’m 
+: 1079 5 4 chom
+: 1089 7 7 ping 
+: 1098 5 9 at 
+: 1108 4 7 the 
+: 1114 10 10 bit
+: 1125 1 9 ~ 
+- 1131
+: 1133 7 9 And 
+: 1144 8 4 my 
+: 1156 7 7 palms 
+: 1168 7 4 are 
+: 1176 4 4 get
+: 1181 7 2 ting 
+: 1194 8 4 wet 
+- 1209
+: 1212 7 16 Swea
+: 1220 8 16 ting 
+: 1233 6 21 bul
+: 1241 52 19 lets 
+- 1303
+F 1317 1 0 Hel
+F 1324 1 0 lo 
+F 1331 1 0 me 
+F 1340 1 0 it’s 
+F 1355 1 0 me 
+F 1362 1 0 a
+F 1366 1 0 gain 
+- 1377
+F 1395 1 0 You 
+F 1399 1 0 can 
+F 1406 1 0 sub
+F 1413 1 0 due, 
+F 1423 1 0 but 
+F 1429 1 0 ne
+F 1437 1 0 ver 
+F 1442 1 0 tame 
+F 1455 1 0 me 
+- 1467
+F 1471 1 0 It 
+F 1476 1 0 gives 
+F 1484 1 0 me 
+F 1492 1 0 a 
+F 1500 1 0 mi
+F 1509 1 0 graine 
+F 1525 1 0 head
+F 1530 1 0 ache 
+- 1541
+F 1553 1 0 Sin
+F 1557 1 0 kin’ 
+F 1568 1 0 down 
+F 1580 1 0 to 
+F 1583 1 0 your 
+F 1592 1 0 le
+F 1597 1 0 vel 
+- 1608
+: 1627 5 4 Yeah, 
+: 1636 4 3 just 
+: 1644 4 1 keep 
+: 1650 6 1 on 
+- 1658
+F 1660 1 0 Thin
+F 1665 1 0 kin’ 
+F 1670 1 0 it’s 
+F 1677 1 0 my 
+F 1685 1 0 fault 
+- 1696
+F 1704 1 0 And 
+F 1710 1 0 stay 
+F 1713 1 0 an 
+F 1718 1 0 inch 
+- 1725
+F 1728 1 0 Or 
+F 1733 1 0 two 
+F 1740 1 0 out
+F 1743 1 0 ta 
+F 1746 1 0 kic
+F 1752 1 0 king 
+F 1759 1 0 dis
+F 1767 1 0 tance 
+- 1778
+F 1788 1 0 Man
+F 1799 1 0 kind 
+F 1808 1 0 has 
+F 1821 1 0 got 
+F 1828 1 0 to 
+F 1834 1 0 know 
+- 1845
+F 1860 1 0 His 
+F 1873 1 0 lim
+F 1879 1 0 i
+F 1884 1 0 ta
+F 1896 1 0 tions 
+- 1907
+: 1931 6 4 Fee
+: 1941 5 7 lin’ 
+: 1950 7 9 claus
+: 1960 2 4 tro
+: 1965 9 10 pho
+: 1978 2 9 bic 
+- 1986
+: 1989 5 7 Like 
+: 1999 6 7 the 
+: 2007 6 4 walls 
+: 2018 4 7 are 
+: 2028 7 9 clo
+: 2038 2 7 sin’ 
+: 2044 12 10 in 
+- 2066
+: 2083 6 4 Blood 
+: 2096 6 7 stains 
+: 2105 4 9 on 
+: 2113 6 7 my 
+: 2122 4 10 hands
+: 2127 7 9 ~ 
+- 2141
+: 2144 1 8 And
+: 2146 5 9 ~ 
+: 2153 6 7 I 
+: 2163 6 7 don’t 
+: 2173 7 4 know 
+: 2183 6 4 where 
+: 2190 6 2 I’ve 
+: 2199 11 4 been 
+- 2220
+: 2236 3 2 Oh, 
+: 2240 9 4 I’m 
+: 2250 5 7 in 
+: 2260 5 9 trou
+: 2266 5 7 ble 
+: 2276 10 10 for 
+: 2289 2 7 the 
+: 2294 8 9 things 
+- 2307
+: 2309 8 2 I 
+: 2319 3 4 have
+: 2323 5 7 n’t 
+: 2334 4 9 got 
+: 2342 5 7 to 
+: 2351 10 10 yet 
+- 2371
+: 2386 6 7 I’m 
+: 2397 7 4 shar
+: 2406 6 7 pe
+: 2415 1 8 ning
+: 2417 6 9 ~ 
+: 2425 5 7 the 
+: 2431 4 10 axe
+: 2436 10 9 ~ 
+- 2449
+: 2451 6 9 And 
+: 2463 6 4 my 
+: 2473 8 7 palms 
+: 2485 6 4 are 
+: 2495 3 4 get
+: 2499 4 2 ting 
+: 2512 7 2 wet
+: 2520 4 4 ~ 
+- 2528
+: 2530 7 4 Swea
+: 2538 8 4 ting 
+: 2550 7 9 bul
+: 2559 59 7 lets 
+- 2671
+F 4359 1 0 I 
+F 4365 1 0 hear 
+F 4369 1 0 it 
+F 4375 1 0 in 
+F 4377 1 0 here, 
+F 4388 1 0 I 
+F 4394 1 0 hear 
+F 4398 1 0 it 
+F 4404 1 0 in 
+F 4407 1 0 here 
+- 4414
+F 4416 1 0 I 
+F 4422 1 0 hear 
+F 4426 1 0 it 
+F 4432 1 0 in 
+F 4434 1 0 here 
+- 4443
+F 4446 1 0 I 
+F 4451 1 0 hear 
+F 4456 1 0 it 
+F 4461 1 0 in 
+F 4464 1 0 here, 
+F 4474 1 0 I 
+F 4480 1 0 hear 
+F 4484 1 0 it 
+F 4489 1 0 in 
+F 4492 1 0 here 
+- 4519
+F 4578 1 0 Blood 
+F 4586 1 0 stains 
+F 4593 1 0 on 
+F 4597 1 0 my 
+F 4603 1 0 eh 
+F 4618 1 0 hoah-
+F 4629 1 0 ck 
+F 4642 1 0 hands 
+- 4653
+F 4682 1 0 Blood 
+F 4689 1 0 stains 
+F 4697 1 0 on 
+F 4700 1 0 my 
+- 4727
+F 4791 1 0 The 
+F 4794 1 0 big 
+F 4797 1 0 axe, 
+F 4807 1 0 the 
+F 4809 1 0 big 
+F 4813 1 0 axe, 
+F 4824 1 0 the 
+F 4826 1 0 big 
+F 4829 1 0 axe 
+- 4839
+F 4842 1 0 The 
+F 4844 1 0 big 
+F 4847 1 0 axe, 
+F 4859 1 0 the 
+F 4862 1 0 big 
+F 4865 1 0 axe, 
+F 4877 1 0 the 
+F 4879 1 0 big 
+F 4883 1 0 axe 
+- 4892
+F 4895 1 0 The 
+F 4897 1 0 big 
+F 4901 1 0 axe, 
+F 4912 1 0 the 
+F 4914 1 0 big 
+F 4917 1 0 axe 
+- 4971
+F 5172 1 0 Sweat, 
+F 5212 1 0 swea
+F 5220 1 0 ting 
+- 5231
+F 5257 1 0 Swea
+F 5267 1 0 ting, 
+F 5298 1 0 swea
+F 5306 1 0 ting 
+- 5317
+F 5338 1 0 Swea
+F 5346 1 0 ting, 
+F 5377 1 0 swea
+F 5383 1 0 ting 
+- 5394
+F 5426 1 0 Well, 
+F 5435 1 0 me 
+F 5442 1 0 its 
+F 5450 1 0 nice 
+F 5461 1 0 tal
+F 5468 1 0 kin’ 
+F 5474 1 0 to 
+F 5476 1 0 my
+F 5483 1 0 self 
+- 5494
+F 5504 1 0 A 
+F 5513 1 0 cred
+F 5520 1 0 it 
+F 5525 1 0 to 
+F 5533 1 0 de
+F 5539 1 0 men
+F 5548 1 0 tia 
+- 5559
+F 5580 1 0 Some 
+F 5590 1 0 day 
+F 5598 1 0 you 
+F 5605 1 0 too 
+F 5614 3 0 will 
+F 5621 4 0 know 
+F 5628 4 0 my 
+F 5639 4 0 pain 
+- 5653
+F 5657 1 0 And 
+F 5667 1 0 smile 
+F 5679 1 0 its 
+F 5684 1 0 “black
+F 5693 1 0 tooth 
+F 5700 1 0 grin” 
+- 5711
+F 5730 1 0 If 
+F 5737 1 0 the 
+F 5745 1 0 war 
+F 5760 1 0 in
+F 5765 1 0 side 
+F 5774 1 0 my 
+F 5782 1 0 head 
+- 5793
+F 5809 1 0 Won’t 
+F 5813 1 0 take 
+F 5818 1 0 a 
+F 5823 1 0 day 
+F 5830 1 0 off 
+F 5836 1 0 I’ll 
+F 5848 1 0 be 
+F 5856 1 0 dead 
+- 5867
+F 5886 1 0 My 
+F 5896 1 0 i
+F 5903 1 0 cy 
+F 5910 1 0 fin
+F 5916 1 0 gers 
+F 5925 1 0 claw 
+F 5933 1 0 your 
+F 5939 1 0 back 
+- 5950
+F 5962 1 0 Here 
+F 5971 1 0 I 
+F 5977 1 0 come 
+F 5986 1 0 a
+F 5994 1 0 gain 
+- 6005
+: 6035 5 4 Fee
+: 6045 5 7 lin’ 
+* 6054 3 9 pa
+* 6059 4 7 ra
+* 6070 1 9 noid
+* 6072 6 10 ~ 
+- 6082
+: 6084 7 9 True 
+: 6094 4 9 e
+: 6101 4 7 ne
+: 6108 12 4 my 
+: 6123 5 7 or 
+: 6133 6 9 false 
+: 6142 2 7 friend
+: 6147 13 10 ~? 
+- 6170
+: 6180 6 7 An
+: 6190 8 4 xi
+: 6200 6 7 e
+: 6210 8 9 ty’s 
+: 6221 3 7 at
+: 6225 4 10 tac
+: 6234 4 9 kin’ 
+: 6246 4 9 me 
+- 6252
+: 6254 2 4 And 
+: 6258 9 4 my 
+: 6269 8 7 air 
+: 6278 7 4 is 
+: 6287 5 4 get
+: 6293 5 2 ting 
+: 6301 18 4 thin 
+- 6329
+: 6345 7 4 Fee
+: 6355 5 7 lin’ 
+* 6363 7 9 claus
+* 6374 2 7 tro
+* 6380 9 10 pho
+* 6393 3 9 bic 
+- 6400
+: 6402 6 9 Like 
+: 6412 3 7 the 
+: 6416 10 4 walls 
+: 6432 4 7 are 
+* 6442 7 9 clo
+* 6451 5 7 sing 
+: 6457 13 10 in 
+- 6480
+: 6498 6 4 Blood 
+: 6510 6 7 stains 
+: 6519 3 9 on 
+: 6529 4 7 my 
+* 6536 5 10 hands
+* 6542 6 9 ~ 
+- 6554
+: 6556 1 8 And
+: 6558 6 9 ~ 
+: 6567 7 4 I 
+: 6578 7 7 don’t 
+: 6587 7 4 know 
+: 6596 5 4 where 
+: 6603 4 2 I’ve 
+: 6612 12 4 been 
+- 6634
+: 6662 10 16 Once 
+: 6674 7 16 you’ve 
+: 6684 5 14 com
+: 6690 7 16 mit
+: 6699 1 18 ~
+: 6701 5 19 ted 
+: 6708 1 16 me
+: 6710 6 14 ~ 
+- 6726
+: 6738 3 14 Now
+: 6742 6 16 ~ 
+: 6752 6 16 you’ve 
+: 6761 4 16 ac
+: 6766 4 23 quit
+: 6773 1 22 ~
+: 6775 7 21 ted 
+: 6787 7 21 me 
+- 6804
+: 6817 1 15 Clai
+: 6819 10 16 ~
+: 6830 7 16 ming 
+: 6838 4 14 va
+: 6845 5 16 li
+: 6855 7 19 di
+: 6864 3 16 ty
+: 6868 3 14 ~ 
+- 6881
+: 6897 1 14 For
+: 6899 6 16 ~ 
+: 6906 6 16 your 
+* 6916 4 16 stu
+* 6923 8 23 pid
+* 6932 8 21 i
+* 6942 10 21 ty 
+- 6954
+: 6956 5 14 I’m 
+: 6965 7 16 chom
+: 6974 8 14 ping 
+: 6984 5 16 at 
+: 6994 6 19 the 
+: 7002 6 16 bit 
+- 7018
+: 7030 2 15 I’m
+: 7033 6 16 ~ 
+: 7042 8 16 shar
+: 7052 6 14 pe
+: 7061 7 16 ning 
+* 7070 5 19 the 
+* 7078 11 16 axe 
+- 7099
+: 7110 7 16 Oh, 
+: 7120 8 23 here 
+: 7129 1 21 I
+: 7131 7 21 ~ 
+: 7140 8 21 come 
+: 7149 3 21 a
+: 7155 16 21 gain 
+- 7181
+: 7185 10 16 Whoa
+: 7196 1 21 ~
+: 7198 47 23 ~! 
+- 7250
+: 7252 6 16 Swea
+: 7259 13 16 ting 
+: 7274 6 21 bul
+: 7282 69 19 lets
+: 7352 1 16 ~ 
+E

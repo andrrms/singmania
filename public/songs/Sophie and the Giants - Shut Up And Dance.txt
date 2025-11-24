@@ -1,0 +1,398 @@
+#ARTIST:Sophie and the Giants
+#TITLE:Shut Up And Dance
+#MP3:Sophie and the Giants - Shut Up And Dance.mp3
+#CREATOR:Edi316
+#COVER:Sophie and the Giants - Shut Up And Dance [CO].jpg
+#BACKGROUND:Sophie and the Giants - Shut Up And Dance [BG].jpg
+#YEAR:2024
+#LANGUAGE:English
+#BPM:258
+#GAP:470
+#VIDEO:v=oIQ8AJ5_Lwg,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/61/8b/05618bfb-90bd-981e-ffab-14802f283b70/24UMGIM42549.rgb.jpg/5000x5000bb.jpg
+: 0 3 14 Shut
+: 5 2 12  up
+: 8 3 10  and
+: 12 8 7  dance
+- 54
+: 161 3 9 Sit
+: 165 2 10 tin’
+: 169 3 9  in
+: 173 2 10  the
+: 177 4 9  dark,
+: 185 2 5  why
+: 189 2 5  you’re
+: 192 3 2  on
+: 197 2 2  your
+: 201 7 7  own?
+- 218
+: 225 3 9 Drow
+: 229 2 10 nin’
+: 233 3 9  in
+: 237 2 10  your
+: 241 5 12  thoughts,
+: 249 3 9  in
+: 253 2 9  the
+: 257 2 9  al
+: 261 2 9 co
+: 265 3 9 ho
+: 269 6 7 ~l
+- 285
+: 289 2 9 I
+: 293 2 10  could
+: 297 3 9  be
+: 301 2 10  your
+: 305 4 9  light
+: 312 3 5  in
+: 316 2 5  the
+: 321 2 2  af
+: 325 2 2 ter
+: 328 6 7 glow
+- 351
+: 393 2 0 Get
+: 396 2 2  that
+: 401 5 2  taste
+: 409 2 0  out
+: 413 2 2  your
+: 417 5 2  mouth,
+: 425 2 0  take
+: 429 2 2  the
+: 433 5 2  pain,
+: 441 3 0  scream
+: 445 3 2  it
+: 449 1 2  out
+- 451
+: 453 2 2 Like
+: 457 2 5  I
+: 461 4 5  lo
+: 466 2 2 ~ve
+: 469 4 2  it
+- 490
+: 521 2 0 Lose
+: 524 2 2  your
+: 529 5 2 self
+: 537 2 0  in
+: 540 2 2  the
+: 545 5 2  sound
+: 553 2 0  like
+: 556 2 2  there’s
+: 561 5 2  no
+: 569 3 0  one
+: 573 3 2  a
+: 577 4 2 round
+- 583
+: 585 2 0 Let
+: 588 2 2  it
+: 593 5 2  go,
+: 600 2 0  let
+: 604 2 2  it
+: 609 5 2  go,
+: 617 2 0  let
+: 620 2 2  it
+: 625 6 2  go
+- 637
+: 640 3 14 Shut
+: 645 2 12  up
+: 648 3 10  and
+: 653 7 7  dance
+: 669 3 5  and
+: 673 3 7  move
+: 677 4 10  your
+: 684 8 9  bo
+: 693 3 5 dy
+- 702
+: 704 3 14 Shut
+: 709 2 12  up
+: 713 3 10  and
+: 717 7 7  dance
+: 732 3 5  and
+: 737 3 7  make
+: 741 4 10  your
+: 749 6 12  heart
+: 757 5 9  beat
+- 766
+* 768 3 14 Shut
+* 773 2 12  up
+* 777 3 10  and
+* 781 7 7  dance
+- 797
+: 800 3 14 Shut
+: 805 2 12  up
+: 808 3 10  and
+: 812 7 9  dance
+: 821 2 5  like
+: 825 2 5  you’re
+: 829 2 2  in
+: 833 2 5 vi
+: 837 2 2 si
+: 840 6 7 ble
+- 863
+: 897 3 14 Shut
+: 901 2 12  up
+: 905 3 10  and
+: 909 7 7  dance
+: 925 3 5  and
+: 929 3 7  move
+: 933 4 10  your
+: 941 7 9  bo
+: 949 3 5 dy
+- 958
+: 960 3 14 Shut
+: 965 2 12  up
+: 969 3 10  and
+: 973 7 7  dance
+: 989 3 5  and
+: 993 3 7  make
+: 997 4 10  your
+: 1004 6 12  heart
+: 1013 5 9  beat
+- 1022
+: 1024 3 14 Shut
+: 1029 2 12  up
+: 1033 2 10  and
+: 1036 8 7  dance
+- 1053
+* 1056 3 14 Shut
+* 1061 2 12  up
+* 1065 3 10  and
+* 1069 5 9  dance
+* 1077 2 5  like
+* 1081 2 5  you’re
+* 1084 2 2  in
+* 1088 3 5 vi
+* 1093 2 7 si
+* 1096 6 7 ble
+- 1136
+: 1185 3 9 Can
+: 1189 2 10  you
+: 1193 3 9  feel
+: 1197 2 10  the
+: 1201 4 9  pulse
+: 1208 3 5  run
+: 1212 2 5 nin’
+: 1216 3 2  through
+: 1220 2 2  your
+: 1225 6 7  soul?
+- 1241
+: 1249 3 9 Blin
+: 1253 2 10 ded
+: 1257 2 9  by
+: 1260 2 10  the
+: 1265 5 12  lights
+: 1273 3 9  and
+: 1277 2 9  the
+: 1281 3 9  che
+: 1285 2 9 mi
+: 1289 3 9 ca
+: 1293 5 7 ~ls
+- 1309
+: 1313 2 9 I
+: 1317 2 10  can
+: 1321 3 9  hold
+: 1325 2 10  you
+: 1328 5 9  tight
+: 1337 2 5  when
+: 1340 2 5  you
+: 1344 3 2  lose
+: 1349 2 2  con
+: 1353 6 7 trol
+- 1376
+: 1417 2 0 Get
+: 1420 2 2  that
+: 1425 5 2  taste
+: 1433 2 0  out
+: 1437 2 2  your
+: 1441 5 2  mouth,
+: 1449 2 0  take
+: 1453 2 2  the
+: 1457 5 2  pain,
+: 1465 3 0  scream
+: 1469 3 2  it
+: 1473 1 2  out
+- 1475
+* 1477 2 2 Like
+* 1481 2 5  I
+* 1485 4 5  lo
+* 1490 2 2 ~ve
+* 1493 4 2  it
+- 1514
+: 1545 2 0 Lose
+: 1548 2 2  your
+: 1553 5 2 self
+: 1561 2 0  in
+: 1564 2 2  the
+: 1569 5 2  sound
+: 1577 2 0  like
+: 1580 2 2  there’s
+: 1585 5 2  no
+: 1593 3 0  one
+: 1597 3 2  a
+: 1601 4 2 round
+- 1607
+: 1609 2 0 Let
+: 1612 2 2  it
+: 1617 5 2  go,
+: 1625 2 0  let
+: 1628 2 2  it
+: 1632 5 2  go,
+: 1641 2 0  let
+: 1645 2 2  it
+: 1649 6 2  go
+- 1661
+: 1664 3 14 Shut
+: 1669 2 12  up
+: 1672 3 10  and
+: 1677 7 7  dance
+: 1693 3 5  and
+: 1697 3 7  move
+: 1701 4 10  your
+: 1708 8 9  bo
+: 1717 3 5 dy
+- 1726
+: 1729 3 14 Shut
+: 1733 2 12  up
+: 1737 3 10  and
+: 1741 7 7  dance
+: 1756 3 5  and
+: 1761 3 7  make
+: 1765 4 10  your
+: 1773 6 12  heart
+: 1781 5 9  beat
+- 1790
+: 1792 3 14 Shut
+: 1797 2 12  up
+: 1801 3 10  and
+: 1805 7 7  dance
+- 1821
+: 1824 3 14 Shut
+: 1829 2 12  up
+: 1832 3 10  and
+: 1837 5 9  dance
+: 1845 2 5  like
+: 1849 2 5  you’re
+: 1853 2 2  in
+: 1857 2 5 vi
+: 1861 2 7 si
+: 1864 6 7 ble
+- 1887
+: 1925 3 10 When
+: 1929 2 9  you’re
+: 1933 4 7  lost
+: 1941 3 10  in
+: 1945 2 9  the
+: 1949 4 7  dark,
+: 1957 3 10  find
+: 1961 2 9  the
+: 1965 4 7  love
+: 1972 3 10  in
+: 1977 2 9  your
+: 1981 4 7  heart
+- 1987
+: 1989 4 14 Just
+: 1996 5 12  da
+: 2002 2 10 ~
+: 2005 7 7 ~nce,
+: 2021 4 14  just
+: 2028 5 12  da
+: 2034 1 10 ~
+: 2036 7 7 ~nce
+- 2050
+: 2053 3 10 When
+: 2057 2 9  you’re
+: 2061 4 7  lost
+: 2069 3 10  in
+: 2073 2 9  the
+: 2076 4 7  dark,
+: 2084 3 10  find
+: 2089 2 9  the
+: 2093 4 7  love
+: 2100 3 10  in
+: 2104 2 9  your
+: 2108 4 7  heart
+- 2114
+: 2116 4 14 Just
+: 2124 5 12  da
+: 2130 1 10 ~
+: 2132 7 7 ~nce,
+* 2149 4 10  ju
+* 2154 1 9 ~st
+* 2157 15 9  da
+* 2173 8 7 ~nce
+- 2183
+: 2185 2 0 Get
+: 2189 2 2  that
+: 2193 5 2  taste
+: 2201 2 0  out
+: 2205 2 2  your
+: 2209 5 2  mouth,
+: 2217 2 0  take
+: 2221 2 2  the
+: 2225 5 2  pain,
+: 2233 3 0  scream
+: 2237 3 2  it
+: 2241 1 2  out
+- 2243
+: 2245 2 2 Like
+: 2249 2 5  I
+: 2253 4 5  lo
+: 2258 2 2 ~ve
+: 2261 4 2  it
+- 2282
+: 2313 2 0 Lose
+: 2317 2 2  your
+: 2321 5 2 self
+: 2329 2 0  in
+: 2332 2 2  the
+: 2337 5 2  sound
+: 2345 2 0  like
+: 2348 2 2  there’s
+: 2353 5 2  no
+: 2361 3 0  one
+: 2365 3 2  a
+: 2369 5 2 round
+- 2375
+: 2377 2 0 Let
+: 2381 2 2  it
+: 2385 5 2  go,
+: 2393 2 0  let
+: 2397 2 2  it
+: 2401 5 2  go,
+: 2409 2 0  let
+: 2412 2 2  it
+: 2417 6 2  go
+- 2429
+: 2432 3 14 Shut
+: 2437 2 12  up
+: 2440 3 10  and
+: 2445 7 7  dance
+: 2461 3 5  and
+: 2465 3 7  move
+: 2469 4 10  your
+: 2476 8 9  bo
+: 2485 3 5 dy
+- 2494
+: 2496 3 14 Shut
+: 2501 2 12  up
+: 2505 3 10  and
+: 2509 7 7  dance
+: 2524 3 5  and
+: 2529 3 7  make
+: 2533 4 10  your
+: 2541 5 12  heart
+: 2549 5 9  beat
+- 2558
+: 2560 3 14 Shut
+: 2565 2 12  up
+: 2569 3 10  and
+: 2573 7 7  dance
+- 2589
+: 2592 3 14 Shut
+: 2597 2 12  up
+: 2601 3 10  and
+: 2605 6 9  dance
+: 2613 2 5  like
+: 2617 2 5  you’re
+: 2621 2 2  in
+: 2625 2 5 vi
+: 2629 2 7 si
+: 2633 6 7 ble
+E

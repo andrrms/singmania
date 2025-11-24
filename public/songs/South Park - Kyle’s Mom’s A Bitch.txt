@@ -1,0 +1,512 @@
+#ARTIST:South Park
+#TITLE:Kyle’s Mom’s A Bitch
+#MP3:South Park - Kyle’s Mom’s A Bitch.mp3
+#CREATOR:leaby
+#LANGUAGE:English
+#BPM:305.95
+#GAP:790
+#VIDEO:v=i9AT3jjAP0Y,co=https://m.media-amazon.com/images/I/81SJVwN94BL.jpg,tags=explicit
+F 0 2 24 You 
+F 4 3 24 guys, 
+F 12 3 24 this 
+F 16 2 24 is 
+F 19 4 24 all 
+F 26 4 24 Kyle’s 
+F 32 5 24 mom’s 
+F 38 6 24 fault 
+- 45
+F 46 1 24 Shut 
+F 48 1 24 up, 
+F 52 4 24 Cart
+F 57 3 24 man! 
+- 62
+F 63 4 24 Kyle’s 
+F 68 2 24 mom 
+F 71 1 24 is 
+F 73 1 24 the 
+F 75 2 24 one 
+F 78 2 24 that 
+F 82 3 24 start
+F 86 2 24 ed 
+F 89 3 24 that 
+F 93 2 24 damn 
+F 97 5 24 club 
+- 104
+F 107 2 24 And 
+F 110 2 24 all 
+F 113 2 24 be
+F 116 2 24 cause 
+F 120 2 24 she’s 
+F 123 2 24 a 
+F 126 4 24 big, 
+F 133 5 24 fat, 
+F 141 3 24 stup
+F 145 3 24 id 
+F 150 2 24 bi- 
+- 153
+F 153 3 24 Don’t 
+F 158 2 24 say 
+F 161 1 24 it, 
+F 165 3 24 Cart
+F 169 3 24 man! 
+- 174
+: 190 25 19 Weeeeeeeeeellll 
+- 216
+F 216 4 24 Don’t 
+F 221 1 24 do 
+F 223 1 24 it, 
+F 226 4 24 Cart
+F 231 4 24 man! 
+- 237
+: 259 24 19 Weeeeeeeeeellll 
+- 284
+F 284 4 24 I’m 
+F 289 3 24 warn
+F 294 1 24 ing 
+F 296 7 24 you! 
+- 305
+F 309 2 24 Ok
+F 312 4 24 ay, 
+F 317 2 24 ok
+F 321 3 24 ay 
+- 326
+F 340 3 24 I’m 
+F 344 1 24 gett
+F 346 1 24 ing 
+F 348 2 24 prett
+F 351 1 24 y 
+F 353 2 24 sick 
+F 356 1 24 of 
+F 358 2 24 him 
+F 361 1 24 call
+F 363 1 24 ing 
+F 365 1 24 my 
+F 367 1 24 mom- 
+- 369
+* 369 12 19 Weeeeeeeeeellll 
+- 383
+: 385 2 12 Kyle’s 
+: 388 2 12 mom’s 
+: 391 1 12 a 
+: 393 3 12 bitch, 
+: 397 1 12 she’s 
+: 399 1 12 a 
+: 401 1 12 big 
+: 404 2 12 fat 
+: 407 3 12 bitch 
+- 411
+: 411 2 12 She’s 
+: 414 1 12 the 
+: 416 3 12 bigg
+: 420 2 12 est 
+: 424 3 14 bitch 
+: 428 1 12 in 
+: 430 1 12 the 
+: 433 2 10 whole 
+* 436 2 14 wide 
+: 440 3 7 world 
+- 444
+: 444 1 10 She’s 
+: 446 1 10 a 
+: 448 2 10 stup
+: 451 2 10 id 
+: 455 3 10 bitch 
+- 459
+: 459 1 10 If 
+: 461 1 10 there 
+: 463 1 10 ev
+: 465 1 10 er 
+: 467 1 10 was 
+: 469 1 10 a 
+: 471 2 10 bitch 
+- 474
+: 474 2 10 She’s 
+: 477 1 9 a 
+: 479 3 7 bitch 
+: 483 2 7 to 
+: 486 3 9 all 
+: 490 2 10 the 
+F 495 3 24 boys 
+F 499 2 24 and 
+F 502 8 24 girls 
+- 512
+F 526 3 24 Shut 
+F 530 3 24 your 
+F 534 3 24 fuck
+F 538 2 24 ing 
+F 542 4 24 mouth, 
+F 548 3 24 Cart
+F 552 7 24 man! 
+- 561
+: 570 2 12 On 
+: 573 1 14 Mon
+: 575 1 14 day 
+: 578 1 14 she’s 
+: 580 1 14 a 
+: 582 2 14 bitch 
+- 585
+: 586 2 14 On 
+: 589 1 14 Tues
+: 591 1 14 day 
+: 593 1 14 she’s 
+: 595 1 14 a 
+: 597 2 14 bitch 
+- 600
+: 600 2 14 On 
+* 604 3 14 Wednes
+* 608 2 14 day 
+: 611 1 14 through 
+: 613 1 16 Sat
+: 615 1 16 ur
+: 617 2 14 day 
+: 620 2 12 she’s 
+: 624 1 16 a 
+: 627 5 9 bitch 
+- 634
+: 636 2 12 Then 
+: 639 2 12 on 
+: 643 3 12 Sun
+: 647 2 12 day, 
+: 651 2 12 just 
+: 655 1 12 to 
+: 657 1 12 be 
+: 659 1 12 diff
+: 661 1 12 erent 
+- 663
+: 663 2 12 She’s 
+: 666 1 12 a 
+: 668 2 9 sup
+: 671 2 9 er 
+: 674 2 9 King 
+* 679 2 9 Ka-
+* 682 2 10 me-
+* 686 2 12 a-
+* 690 2 16 me-
+* 693 2 14 a 
+: 699 3 16 bee-
+: 704 8 14 atch 
+- 714
+F 723 2 24 Come 
+F 726 4 24 on, 
+F 732 2 24 you 
+F 735 1 24 all 
+F 737 2 24 know 
+F 740 1 24 the 
+F 742 8 24 words! 
+- 752
+: 757 3 13 Have 
+: 761 3 14 you 
+: 765 1 14 ev
+: 767 1 14 er 
+: 769 2 14 met 
+: 772 2 14 my 
+: 776 3 14 friend 
+: 781 2 14 Kyle’s 
+: 785 2 14 mom? 
+- 788
+: 788 1 14 She’s 
+: 790 1 14 the 
+: 792 3 14 bigg
+: 796 2 14 est 
+* 799 3 16 bitch 
+: 803 1 14 in 
+: 805 1 14 the 
+: 807 3 12 whole 
+* 811 2 16 wide 
+: 815 2 9 world 
+- 818
+: 818 1 12 She’s 
+: 820 1 10 a 
+: 822 2 12 mean 
+: 825 2 12 old 
+: 830 3 12 bitch 
+- 834
+: 835 1 12 And 
+: 837 1 12 she 
+: 839 2 12 has 
+: 842 2 12 stup
+: 845 1 12 id 
+: 847 1 12 hair 
+- 849
+: 849 2 12 She’s 
+: 852 1 12 a 
+: 854 2 9 bitch, 
+: 857 2 9 bitch, 
+: 860 3 10 bitch, 
+: 864 3 12 bitch, 
+: 868 4 16 bitch, 
+: 873 3 14 bitch, 
+: 877 4 14 bitch 
+- 883
+: 884 4 16 Bitch, 
+: 889 2 17 bitch, 
+: 892 3 16 bitch, 
+* 896 3 17 bitch, 
+: 900 3 16 bitch, 
+: 904 3 17 bitch, 
+: 908 3 16 bitch, 
+: 912 2 14 bitch 
+- 915
+: 915 4 14 She’s 
+: 920 2 14 a 
+: 923 3 16 stup
+: 927 2 17 id 
+* 931 6 19 bitch 
+- 938
+F 938 7 24 Whoa! 
+- 946
+: 947 5 19 Kyle’s 
+: 954 3 17 mom’s 
+: 958 1 16 a 
+: 961 7 14 bitch 
+- 969
+: 969 2 12 And 
+: 973 3 10 she’s 
+: 977 2 9 such 
+: 980 2 9 a 
+: 984 4 10 dirt
+: 989 2 12 y 
+: 993 6 14 bitch 
+- 1000
+F 1000 8 24 Bitch! 
+- 1009
+F 1009 3 24 Talk 
+F 1013 2 24 to 
+F 1017 2 24 kids 
+F 1020 2 24 a
+F 1023 2 24 round 
+F 1027 2 24 the 
+F 1030 3 24 world 
+- 1034
+F 1034 1 24 And 
+F 1036 1 24 it 
+F 1038 2 24 might 
+F 1041 2 24 go 
+F 1044 1 24 a 
+F 1046 1 24 litt
+F 1048 1 24 le 
+F 1050 2 24 bit 
+F 1053 1 24 some
+F 1055 2 24 thing 
+F 1058 2 24 like 
+F 1061 6 24 this 
+- 1069
+: 1070 2 28 Kyle 
+: 1073 1 28 de 
+: 1075 1 28 ma 
+: 1077 1 28 ma 
+* 1079 1 28 shi
+* 1081 1 28 ge 
+: 1083 1 28 po 
+: 1085 1 28 fu 
+: 1087 1 26 ta
+: 1089 1 26 shi 
+: 1091 1 28 ge 
+: 1093 1 28 da 
+- 1095
+: 1095 1 28 Fey 
+: 1097 1 28 zoo 
+: 1099 1 26 ta
+: 1101 1 26 shi 
+* 1103 1 28 quan
+* 1105 1 28 shi 
+: 1107 1 28 jie
+: 1109 1 28 zoo 
+: 1111 1 29 bu 
+: 1113 1 29 ya 
+: 1115 1 28 li
+: 1117 1 28 an 
+: 1119 1 28 de 
+: 1121 3 26 po 
+: 1125 3 26 fu 
+- 1129
+: 1129 2 26 La 
+: 1133 2 26 mare 
+: 1137 2 26 duh 
+* 1140 1 26 Ky
+* 1142 2 29 le 
+: 1145 1 26 et 
+: 1147 1 26 oon 
+: 1149 2 26 poot 
+: 1152 1 26 set 
+: 1154 1 25 oon 
+: 1156 1 26 sac 
+: 1158 1 29 ray 
+: 1160 1 26 vee
+: 1162 1 24 ay 
+- 1164
+: 1164 1 26 Poot 
+: 1168 1 26 la 
+: 1170 1 26 ploo 
+: 1172 1 29 grahn 
+: 1174 1 29 poot 
+: 1176 1 26 doo 
+: 1178 4 29 mond 
+: 1183 2 28 oo 
+* 1187 3 28 tyeh 
+- 1192
+* 1194 3 19 Kyle’s 
+* 1198 1 28 mood
+* 1200 1 22 er 
+: 1202 1 24 is 
+: 1204 1 22 ayn 
+: 1206 1 19 teef, 
+: 1208 1 18 zi 
+: 1210 1 19 is 
+: 1213 1 28 ayn 
+: 1215 1 22 groa
+: 1217 1 24 ta 
+: 1219 1 22 fet
+: 1221 1 19 teh 
+: 1223 1 21 teef 
+- 1225
+: 1225 1 22 Ze 
+* 1227 1 31 is 
+: 1229 1 22 de 
+: 1231 1 21 groat 
+: 1233 1 22 steh 
+* 1235 1 31 teef 
+: 1237 1 22 ter 
+* 1239 1 22 ver
+* 1241 1 24 reld 
+* 1243 1 33 teef 
+: 1245 1 24 ter 
+: 1247 1 22 ver 
+: 1249 2 24 reld 
+- 1253
+F 1256 1 24 Mah 
+F 1258 1 24 mah 
+F 1260 1 24 yah 
+F 1262 1 24 kay 
+F 1264 1 24 Kyle 
+F 1266 1 24 nee 
+F 1268 1 24 me
+F 1270 1 24 wah 
+F 1271 1 24 nee 
+F 1272 1 24 me 
+F 1274 1 24 wah 
+F 1276 1 24 koo 
+F 1278 1 24 bwahm 
+- 1280
+F 1280 1 24 Neh 
+F 1282 1 24 nay 
+F 1284 1 24 nee 
+F 1286 1 24 bwah 
+F 1288 1 24 m
+F 1290 1 24 koo 
+F 1294 1 24 lee 
+F 1296 1 24 koh 
+F 1298 2 24 wot 
+F 1301 1 24 tay 
+F 1303 2 24 doo 
+F 1306 1 24 ne 
+F 1308 1 24 ah 
+F 1310 3 24 ne 
+- 1314
+: 1315 2 15 Have 
+: 1318 2 16 you 
+: 1321 1 16 ev
+: 1323 1 16 er 
+: 1325 2 16 met 
+: 1329 2 16 my 
+: 1334 2 16 friend 
+: 1337 3 16 Kyle’s 
+: 1342 2 16 mom? 
+- 1345
+: 1345 2 16 She’s 
+: 1348 1 16 the 
+: 1350 2 16 big
+: 1353 3 16 gest 
+: 1357 3 17 bitch 
+: 1361 1 16 in 
+: 1363 1 16 the 
+: 1365 3 14 whole 
+: 1369 3 17 wide 
+: 1373 2 10 world 
+- 1376
+: 1376 2 14 She’s 
+: 1379 1 14 a 
+: 1381 2 14 mean 
+: 1385 2 14 old 
+: 1388 3 14 bitch 
+- 1392
+: 1392 1 14 And 
+: 1394 1 14 she 
+: 1396 2 14 has 
+: 1400 1 14 stup
+: 1402 1 14 id 
+: 1404 2 14 hair 
+- 1407
+: 1407 2 14 She’s 
+: 1410 1 14 a 
+: 1412 2 10 bitch, 
+: 1415 2 10 bitch, 
+: 1419 2 12 bitch, 
+: 1423 2 14 bitch, 
+: 1427 2 17 bitch, 
+: 1431 2 16 bitch, 
+* 1434 2 16 bitch 
+- 1438
+: 1442 3 20 Bitch, 
+: 1446 3 20 bitch, 
+: 1450 2 20 bitch, 
+: 1453 3 20 bitch, 
+: 1457 3 20 bitch, 
+: 1461 3 20 bitch, 
+: 1465 3 18 bitch, 
+: 1469 2 16 bitch 
+- 1472
+: 1472 4 16 She’s 
+: 1477 2 16 a 
+: 1480 3 17 stup
+: 1484 2 19 id 
+* 1488 6 21 bitch 
+- 1496
+* 1504 5 21 Kyle’s 
+: 1510 4 19 mom’s 
+: 1515 2 17 a 
+: 1518 7 16 bitch 
+- 1526
+: 1527 2 14 And 
+: 1530 2 12 she’s 
+: 1534 2 10 such 
+: 1537 2 10 a 
+: 1542 3 12 dirt
+: 1546 2 14 y 
+: 1549 8 16 bitch 
+- 1558
+: 1559 2 19 I 
+: 1563 6 17 reall
+: 1570 2 19 y 
+: 1574 5 14 mean 
+: 1580 3 12 it, 
+: 1586 11 12 Kyle’s 
+: 1598 10 17 mom 
+- 1610
+: 1636 5 17 She’s 
+: 1643 3 17 a 
+: 1647 7 17 big 
+: 1659 5 17 fat 
+: 1671 5 22 fuck
+: 1678 9 22 ing 
+* 1691 5 22 bitch
+: 1697 37 16 ~ 
+- 1735
+: 1735 2 19 Big 
+: 1738 2 21 old 
+: 1742 5 21 fat 
+: 1748 2 22 fuck
+: 1751 2 21 ing 
+: 1755 3 22 bitch, 
+: 1760 8 19 Kyle’s 
+* 1769 23 17 mom 
+- 1793
+F 1793 19 24 Yeah 
+- 1814
+F 1818 24 24 Cha 
+- 1844
+F 1919 3 24 What? 
+- 1924
+F 1975 8 24 Oh, 
+F 1992 11 24 fuck. 
+E

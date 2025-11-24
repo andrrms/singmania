@@ -1,0 +1,135 @@
+#ARTIST:The Delgados
+#TITLE:The Light Before We Land (TV)
+#MP3:The Delgados - The Light Before We Land (TV).mp3
+#CREATOR:SUBKEI
+#GENRE:Anime
+#YEAR:2003
+#LANGUAGE:English
+#BPM:272
+#GAP:20680
+#VIDEO:v=NTxoH_5CnhM,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/85/a4/4e85a435-cac4-a85e-3215-6427d14841a1/609008103135.png/5000x5000bb.jpg
+: 0 5 1 In 
+: 6 10 1 truth 
+: 21 7 1 there 
+: 29 13 1 is 
+- 44
+: 45 6 -1 No 
+: 52 8 1 bet
+: 61 6 2 ter
+: 68 4 0 ~ 
+: 74 15 -1 place 
+: 92 4 -1 to 
+: 97 11 -1 be 
+- 110
+: 186 6 1 Than 
+: 194 15 1 fall
+: 210 7 1 ing 
+: 218 9 1 out
+: 228 3 -1 ~ 
+: 233 6 -1 of 
+: 241 7 1 dark
+: 249 12 2 ness 
+- 263
+: 264 16 -1 Still 
+: 281 4 -1 to 
+: 289 16 -1 see 
+- 307
+: 374 7 9 With
+: 383 8 8 out
+: 392 4 5 ~ 
+: 399 5 4 a 
+: 406 9 4 pre
+: 416 4 1 ~
+: 421 6 1 mo
+: 429 4 1 ni
+: 434 1 -1 ~
+: 438 11 -1 tion 
+- 451
+: 454 8 1 Could 
+* 463 10 2 you 
+: 478 10 8 tell
+: 489 3 6 ~ 
+: 493 6 4 me 
+: 501 13 6 where 
+: 516 10 8 we 
+- 528
+: 532 5 9 Stand
+: 538 3 8 ~
+: 542 11 6 ~? 
+- 555
+: 563 7 9 I’d 
+: 572 9 8 hate
+: 582 5 4 ~ 
+: 589 6 4 to 
+: 596 9 4 lose
+: 606 4 1 ~ 
+: 612 4 1 this 
+: 620 13 1 light 
+- 635
+* 636 4 -1 Be
+* 642 16 1 fore 
+: 660 6 2 we
+: 667 3 -1 ~ 
+: 672 17 -1 land 
+- 691
+: 738 7 4 And 
+: 746 8 6 when 
+: 755 4 8 I 
+: 761 44 9 feel 
+: 808 17 8 like 
+- 827
+: 840 6 4 I 
+: 848 9 1 can
+: 858 4 -1 ~ 
+: 864 20 -1 feel 
+: 887 8 1 once 
+: 898 3 2 a
+: 902 11 -1 gain 
+- 915
+: 934 7 1 Let 
+: 942 4 -1 me 
+* 950 6 1 stay 
+: 957 6 2 a
+: 965 49 4 while 
+- 1016
+: 1030 6 -1 Soak 
+: 1037 6 -3 it 
+: 1045 6 -1 in 
+: 1052 4 1 a
+: 1057 53 2 while 
+- 1112
+: 1116 8 4 If 
+: 1125 6 6 we 
+: 1133 5 8 can 
+: 1139 35 9 hold
+: 1175 9 8 ~ 
+: 1187 25 8 on 
+- 1214
+* 1218 7 4 We 
+* 1226 13 1 can 
+* 1241 21 -1 fix 
+: 1265 8 1 what 
+: 1274 6 2 is
+: 1281 5 0 ~ 
+: 1289 15 -1 wrong 
+- 1306
+: 1312 9 1 Buy 
+: 1322 4 -1 a 
+: 1328 4 1 lit
+: 1333 5 2 tle 
+: 1340 32 4 time
+: 1375 23 -1 ~ 
+- 1400
+: 1407 8 -1 For 
+: 1416 4 -3 this 
+* 1423 6 -1 head 
+: 1430 4 1 of 
+: 1435 45 2 mine 
+- 1482
+: 1494 3 1 Ha
+: 1498 3 -1 ~
+: 1502 6 -3 ven 
+* 1509 13 -1 for
+: 1523 4 -3 ~ 
+: 1528 16 -4 us 
+E

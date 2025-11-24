@@ -1,0 +1,213 @@
+#ARTIST:The Smashing Pumpkins
+#TITLE:Rhinoceros
+#MP3:The Smashing Pumpkins - Rhinoceros.mp3
+#CREATOR:Unknown
+#COVER:The Smashing Pumpkins - Rhinoceros [CO].jpg
+#BACKGROUND:The Smashing Pumpkins - Rhinoceros [BG].jpg
+#GENRE:Rock
+#YEAR:1992
+#LANGUAGE:English
+#BPM:300
+#GAP:43100
+#VIDEO:v=aVfWx9282y0,co=gish-519394324c3b9.jpg
+: 0 7 4 Planned 
+: 8 7 6 a 
+: 16 16 6 show 
+- 34
+: 68 11 8 Trees 
+: 80 11 6 and 
+: 92 3 4 ba
+: 96 3 6 ~l
+: 100 32 6 loons 
+- 134
+: 264 7 4 Ice 
+: 272 7 6 cream 
+: 280 16 6 snow 
+- 298
+: 328 15 8 See 
+: 344 11 6 you 
+: 356 3 4 i
+: 360 3 6 ~n 
+: 364 32 6 June 
+- 398
+: 792 7 4 Could 
+: 800 7 6 have 
+: 808 16 6 known 
+- 826
+: 856 11 8 I 
+: 868 11 6 would 
+: 880 3 4 re
+: 884 3 6 ~
+: 888 32 6 veal 
+- 922
+: 1052 11 4 Should 
+: 1064 7 6 have 
+: 1072 16 6 known 
+- 1090
+: 1120 11 8 I 
+: 1132 11 6 would 
+: 1144 3 4 co
+: 1148 11 6 ~n
+: 1160 32 6 ceal 
+: 1200 15 6 your 
+: 1216 32 7 way 
+- 1250
+: 1268 11 4 She 
+: 1280 32 2 knows, 
+- 1314
+: 1328 7 -3 And 
+: 1336 7 4 she 
+: 1344 23 2 knows, 
+: 1368 7 4 she 
+: 1376 23 2 knows, 
+: 1400 11 4 she 
+: 1412 24 2 knows 
+- 1438
+: 1460 7 -3 And 
+: 1468 11 4 she 
+: 1480 23 2 knows, 
+: 1504 7 4 she 
+: 1512 23 2 knows, 
+: 1536 7 -1 she 
+: 1544 7 -1 kno
+: 1552 12 -3 ws 
+- 1566
+: 1576 12 6 How’sit 
+- 1590
+: 1596 7 -3 And 
+: 1604 7 4 she 
+: 1612 23 2 knows, 
+: 1636 7 4 she 
+: 1644 23 2 knows, 
+: 1668 7 4 she 
+: 1676 24 2 knows 
+- 1702
+: 1724 7 -3 And 
+: 1732 7 4 she 
+: 1740 23 2 knows, 
+: 1764 7 4 she 
+: 1772 24 2 knows 
+- 1798
+: 2380 7 4 Co
+: 2388 7 6 lors 
+: 2396 16 6 show 
+- 2414
+: 2448 11 8 Af
+: 2460 11 6 ter 
+: 2472 3 4 the
+: 2476 3 6 ~ 
+: 2480 32 6 moon 
+- 2514
+: 2644 7 4 I 
+: 2652 7 6 should 
+: 2660 16 6 go 
+- 2678
+: 2712 11 8 See 
+: 2724 11 6 you 
+: 2736 3 4 i
+: 2740 3 6 ~n 
+: 2744 32 6 June 
+- 2778
+: 2792 15 6 Your 
+: 2808 32 7 way 
+- 2842
+: 2856 7 16 She 
+: 2864 36 14 knows, 
+- 2902
+: 2912 7 9 And 
+: 2920 7 16 she 
+: 2928 23 14 knows, 
+: 2952 7 16 she 
+: 2960 23 14 knows, 
+: 2984 7 16 she 
+: 2992 24 14 knows 
+- 3018
+: 3040 7 9 And 
+: 3048 7 16 she 
+: 3056 23 14 knows, 
+: 3080 7 16 she 
+: 3088 23 14 knows, 
+: 3112 7 11 she 
+: 3120 7 11 kno
+: 3128 16 9 ws 
+- 3146
+: 3152 12 18 How’sit 
+- 3166
+: 3172 7 9 And 
+: 3180 7 16 she 
+: 3188 23 14 knows, 
+: 3212 7 16 she 
+: 3220 23 14 knows, 
+: 3244 7 16 she 
+: 3252 24 14 knows 
+- 3278
+: 3296 7 9 And 
+: 3304 7 16 she 
+: 3312 23 14 knows, 
+: 3336 7 16 she 
+: 3344 32 14 knows 
+- 3378
+: 4368 23 9 Open 
+: 4392 3 11 you
+: 4396 3 11 ~r 
+: 4400 12 9 eyes 
+- 4414
+: 4420 3 11 To 
+: 4424 7 9 these 
+: 4432 7 9 must 
+: 4440 3 8 I 
+: 4444 16 8 lie? 
+- 4462
+: 4620 23 9 Open 
+: 4644 3 11 you
+: 4648 3 11 ~r 
+: 4652 12 9 eyes 
+- 4666
+: 4672 3 11 To 
+: 4676 7 9 these 
+: 4684 7 9 must 
+: 4692 3 8 I 
+: 4696 16 8 lie? 
+- 4714
+: 4796 7 6 You
+: 4804 7 7 ~r 
+: 4812 24 7 way 
+- 4838
+: 4856 11 16 She 
+: 4868 32 14 knows, 
+- 4902
+: 4916 7 9 And 
+: 4924 7 16 she 
+: 4932 19 14 knows, 
+: 4952 7 16 she 
+: 4960 23 14 knows, 
+: 4984 7 16 she 
+: 4992 24 14 knows 
+- 5018
+: 5040 7 9 And 
+: 5048 7 16 she 
+: 5056 19 14 knows, 
+: 5076 11 16 she 
+: 5088 19 14 knows, 
+: 5108 7 11 she 
+: 5116 7 11 kno
+: 5124 16 9 ws 
+- 5142
+: 5148 12 18 How’sit 
+- 5162
+: 5168 3 9 And 
+: 5172 7 16 she 
+: 5180 23 14 knows, 
+: 5204 7 16 she 
+: 5212 23 14 knows, 
+: 5236 7 16 she 
+: 5244 24 14 knows 
+- 5270
+: 5292 7 9 And 
+: 5300 7 16 she 
+: 5308 19 14 knows, 
+: 5328 7 16 she 
+: 5336 23 14 knows, 
+: 5360 7 16 she 
+: 5368 24 14 knows 
+E

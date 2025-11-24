@@ -1,0 +1,388 @@
+#ARTIST:Nicki Minaj
+#TITLE:Beautiful Sinner
+#MP3:Nicki Minaj - Beautiful Sinner.mp3
+#CREATOR:davidlovenicki
+#GENRE:Electropop, R&B
+#YEAR:2012
+#LANGUAGE:English
+#BPM:263.16
+#GAP:3040
+#VIDEO:a=ixjcFWCpyXI,co=pink-friday-roman-reloaded-4f95f0398f413.jpg,bg=nicki-minaj-4ee7e89c028f9.jpg,tags=explicit
+: 0 1 0 South 
+: 4 3 0 Africa 
+: 9 2 0 is 
+: 13 1 0 where 
+: 17 2 0 I 
+: 21 1 0 come 
+: 24 5 0 from 
+- 30
+: 30 2 0 Get 
+: 34 2 0 me 
+: 37 2 0 my 
+: 41 2 0 banjo, 
+: 45 2 0 get 
+: 48 1 0 me 
+: 52 2 0 my 
+: 55 6 0 drum 
+- 62
+: 62 7 0 Kidnap 
+: 70 2 1 Korea 
+: 74 5 0 and 
+: 80 2 0 don’t 
+: 83 4 0 take 
+: 89 6 0 ransom 
+- 96
+: 96 2 0 Don’t 
+: 99 3 0 let 
+: 104 2 0 me 
+: 108 2 0 come 
+: 111 2 0 out 
+: 115 2 0 of 
+: 119 2 0 my 
+: 122 5 0 dungeon 
+- 128
+: 129 2 0 Want 
+: 132 1 0 me 
+: 135 2 0 to 
+: 138 2 0 la-leave 
+: 141 2 0 then 
+: 144 1 0 take 
+: 147 1 0 it 
+: 150 6 0 d-down 
+- 157
+: 158 2 0 You 
+: 161 1 0 see 
+: 165 1 0 me 
+: 168 2 0 come 
+: 172 2 0 out 
+: 175 2 0 of 
+: 179 1 0 England 
+: 181 1 0 dawn 
+: 183 1 0 at 
+- 186
+: 191 2 0 You 
+: 194 2 0 see 
+: 197 2 0 the 
+: 201 2 0 pattern 
+: 204 2 0 come 
+: 207 2 0 from 
+: 210 9 0 Kingston 
+- 220
+: 221 7 0 Trinidad 
+: 230 8 0 Trinidad 
+: 240 3 0 my 
+: 245 7 0 island 
+- 253
+: 253 9 4 I 
+: 264 6 3 see 
+: 272 11 2 you 
+: 284 7 3 in 
+: 293 8 2 here 
+: 302 15 1 dancing 
+- 318
+: 319 10 4 Your 
+: 330 15 3 preview 
+: 349 1 2 is 
+: 351 8 3 quite 
+: 361 18 2 romantic 
+- 380
+: 381 10 4 I 
+: 394 15 4 envy 
+: 411 2 3 your 
+: 414 14 4 perfect 
+: 430 6 3 kind
+: 438 2 2 of 
+: 442 16 3 life 
+- 460
+: 510 9 5 Who 
+: 521 7 4 knew 
+: 530 8 3 you’d 
+: 542 6 4 be 
+: 551 5 1 so 
+: 558 14 3 sexy 
+- 574
+: 575 10 5 I 
+: 587 6 4 think 
+: 595 10 3 you’re 
+: 607 7 4 quite 
+: 615 20 3 fantastic 
+- 636
+: 637 11 5 Screw 
+: 649 6 4 your 
+: 657 10 3 flaws 
+- 668
+: 669 2 2 You’re 
+: 672 11 4 perfect 
+: 686 7 3 in 
+: 695 2 2 my 
+: 699 9 3 eyes 
+- 710
+: 778 2 5 And 
+: 781 12 7 maybe 
+: 795 6 8 I’m 
+: 803 13 7 naive 
+: 818 6 6 for 
+: 827 29 5 loving 
+: 857 12 7 you 
+- 871
+: 914 7 5 You’re 
+: 923 2 6 a 
+: 927 5 7 cheat 
+: 933 2 6 and
+: 937 2 5 a 
+: 940 9 7 liar 
+- 950
+: 951 2 6 But 
+: 954 6 8 tonight 
+: 961 3 6 you’re 
+: 967 12 5 everything 
+: 981 2 4 I 
+: 986 13 3 desire 
+- 1000
+: 1001 3 1 You 
+: 1006 11 10 beautiful 
+: 1019 11 9 sinner 
+- 1032
+F 1073 8 6 I 
+F 1083 6 7 love 
+F 1091 7 6 your 
+F 1100 13 5 wicked 
+F 1115 9 6 heart 
+- 1126
+: 1133 10 10 Beautiful 
+: 1145 7 9 sinner 
+- 1154
+F 1202 6 7 It’s 
+F 1210 6 6 such 
+F 1218 7 5 a 
+F 1227 5 4 work 
+F 1235 6 3 of 
+F 1244 12 4 art
+F 1258 16 3 ~
+F 1276 8 2 ~ 
+- 1286
+: 1287 2 9 I
+: 1290 6 8 ~ 
+: 1298 6 7 didn’t 
+: 1306 6 8 know 
+: 1314 6 7 that 
+: 1323 5 6 bad 
+: 1330 19 2 could 
+: 1352 1 4 look 
+: 1355 10 10 so 
+: 1366 9 8 good 
+- 1377
+: 1413 2 8 You 
+: 1418 5 7 are 
+: 1425 7 6 the 
+: 1434 7 8 type 
+: 1443 8 7 of 
+: 1452 5 6 bad 
+: 1460 7 4 that 
+: 1469 11 5 feels
+: 1482 9 10 so 
+: 1494 18 9 good 
+- 1514
+: 1518 10 10 Beautiful 
+: 1530 3 9 sinner 
+- 1534
+: 1535 11 0 I 
+: 1547 6 0 bet 
+: 1554 9 0 your 
+: 1566 6 0 heart 
+: 1574 6 0 is 
+: 1582 13 0 stone 
+- 1597
+: 1598 9 0 Living 
+: 1609 7 0 in 
+: 1618 9 0 your 
+: 1639 3 0 world 
+: 1643 13 0 alone 
+- 1658
+: 1663 8 0 I
+: 1674 8 4 hope 
+: 1683 6 4 you 
+: 1696 5 5 let
+: 1703 5 5 me
+: 1711 5 5 in 
+: 1718 19 4 tonight 
+- 1739
+: 1790 12 0 They 
+: 1803 6 0 want 
+: 1811 9 0 me 
+: 1822 6 0 to 
+: 1830 13 0 beware 
+- 1845
+: 1850 6 0 You’re 
+: 1858 23 0 dangerous 
+: 1884 8 0 I 
+: 1894 6 0 don’t 
+: 1902 10 0 care 
+- 1914
+: 1919 9 0 I 
+: 1931 5 0 can’t 
+: 1938 8 0 wait 
+: 1949 2 0 to 
+: 1952 6 0 have 
+: 1960 5 0 you 
+: 1967 6 4 in 
+: 1975 12 5 my 
+: 1989 25 7 arms 
+- 2016
+: 2060 2 5 And 
+: 2063 9 8 maybe 
+: 2075 7 8 I’m 
+: 2083 13 7 naive 
+: 2098 8 6 for 
+: 2108 23 5 loving 
+: 2133 15 7 you 
+- 2150
+: 2194 4 5 You’re 
+: 2200 1 6 a 
+: 2203 6 7 cheat 
+: 2211 2 6 and 
+: 2214 4 5 a 
+: 2220 8 7 liar 
+- 2229
+: 2229 3 6 But 
+: 2234 9 8 tonight 
+: 2245 1 8 you’re 
+: 2248 8 8 everything 
+: 2259 3 7 I 
+: 2264 14 8 desire 
+- 2280
+: 2281 3 1 You 
+: 2286 12 10 beautiful 
+: 2300 12 9 sinner 
+- 2314
+F 2355 7 0 I 
+F 2365 6 0 love 
+F 2373 7 0 your 
+F 2381 13 0 wicked 
+F 2396 9 0 heart 
+- 2407
+: 2413 12 0 Beautiful 
+: 2428 9 0 sinner 
+- 2439
+F 2482 7 0 It’s 
+F 2491 6 0 such 
+F 2499 7 0 a 
+F 2508 6 0 work 
+F 2516 6 0 of 
+F 2524 12 0 art
+F 2538 16 0 ~
+F 2556 7 0 ~ 
+- 2565
+: 2567 2 0 I
+: 2571 6 0 ~ 
+: 2578 6 0 didn’t 
+: 2587 7 0 know 
+: 2596 6 0 that 
+: 2604 7 0 bad 
+: 2613 18 0 could 
+: 2633 1 0 look 
+: 2636 13 0 so 
+: 2651 7 0 good 
+- 2660
+: 2695 2 0 You 
+: 2699 6 0 are 
+: 2707 6 0 the 
+: 2716 6 0 type 
+: 2723 6 0 of 
+: 2731 5 0 bad 
+: 2739 11 0 that 
+: 2752 10 0 feels 
+: 2764 9 0 so 
+: 2775 15 0 good 
+- 2792
+: 2798 11 0 Beautiful 
+: 2811 13 0 sinner 
+- 2826
+: 2843 2 0 And 
+: 2847 13 0 maybe 
+: 2862 4 0 you’re 
+: 2869 6 0 the 
+: 2877 13 0 maser 
+: 2891 5 0 of 
+: 2899 21 0 disguise 
+: 2921 4 0 and 
+: 2927 5 0 you 
+: 2942 9 0 are 
+- 2953
+: 2975 10 0 Putting 
+: 2986 6 0 on 
+: 2995 7 0 and 
+: 3004 7 0 you’re 
+: 3013 5 0 really 
+: 3020 5 0 the 
+: 3027 8 0 saint 
+: 3050 3 0 that 
+: 3055 4 0 could 
+: 3061 13 0 walk 
+- 3076
+: 3105 4 0 Are 
+: 3111 4 0 you 
+: 3117 6 0 here 
+: 3125 5 0 to 
+: 3133 5 0 save 
+: 3140 5 0 me 
+: 3148 5 0 from 
+: 3155 7 0 the 
+: 3164 32 0 crowd 
+- 3198
+: 3230 2 0 If 
+: 3235 7 0 you 
+: 3244 6 0 are 
+: 3252 6 0 then 
+: 3261 11 0 baby 
+: 3274 7 0 take 
+: 3283 5 0 me 
+: 3290 21 0 now 
+- 3312
+: 3313 7 0 You 
+: 3323 1 0 beautiful 
+: 3326 9 0 sinner 
+- 3337
+: 3379 7 0 I 
+: 3388 7 0 love 
+: 3397 6 0 your 
+: 3406 12 0 wicked 
+: 3420 8 0 heart 
+- 3430
+: 3439 12 0 Beautiful 
+: 3453 11 0 sinner 
+- 3466
+: 3509 5 0 It’s 
+: 3517 5 0 such 
+: 3524 5 0 a 
+: 3531 5 0 work 
+: 3539 6 0 of 
+: 3547 13 0 art
+: 3562 17 0 ~
+: 3582 1 0 ~ 
+- 3585
+: 3592 2 0 I
+: 3597 2 0 ~ 
+: 3605 5 0 didn’t 
+: 3613 5 0 know 
+: 3620 5 0 that 
+: 3628 6 0 bad 
+: 3636 9 0 could 
+: 3655 2 0 look 
+: 3660 8 0 so 
+: 3670 10 0 good 
+- 3682
+: 3720 2 0 You 
+: 3724 5 0 are 
+: 3732 5 0 the 
+: 3740 6 0 type 
+: 3749 5 0 of 
+: 3756 6 0 bad 
+: 3764 9 0 that 
+: 3776 11 0 feels 
+: 3789 7 0 so 
+: 3799 13 0 good 
+- 3814
+: 3826 10 0 Beautiful 
+: 3838 9 0 sinner 
+E

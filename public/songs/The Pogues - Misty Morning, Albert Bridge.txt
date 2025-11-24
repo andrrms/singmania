@@ -1,0 +1,188 @@
+#ARTIST:The Pogues
+#TITLE:Misty Morning, Albert Bridge
+#MP3:The Pogues - Misty Morning, Albert Bridge.mp3
+#CREATOR:daggeg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:377.82
+#GAP:7830
+#VIDEO:v=r7T8dCmtdBs,co=https://i.discogs.com/1-KopsDpTYfvrBchCzqYxHE0sfAvFdOHtB44S0LO3uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTAy/Mi0xMTk2NjE0Mjg2/LmpwZWc.jpeg,bg=pogues-the-6450826ea989f.jpg
+: 0 4 9 I 
+: 8 5 7 dreamt 
+- 15
+: 32 8 7 We 
+: 44 4 9 were 
+: 55 5 7 stand
+: 61 4 4 ing 
+- 67
+: 88 4 0 By 
+: 95 3 0 the 
+: 102 4 0 banks 
+- 108
+: 133 3 2 Of 
+: 137 4 4 the 
+: 145 8 2 Thames 
+- 155
+: 182 3 5 Where 
+: 186 3 7 the 
+: 191 10 7 cold 
+: 205 7 7 grey 
+: 215 4 7 wat
+: 220 7 9 ers 
+: 236 3 12 rip
+: 241 3 9 ple 
+- 246
+: 271 4 7 In 
+: 278 4 4 the 
+: 285 5 5 mist
+: 292 3 5 y 
+- 297
+: 314 7 7 Morn
+: 322 3 12 ing 
+: 330 7 7 light 
+- 339
+: 363 4 9 Held 
+: 369 4 11 a 
+: 377 5 12 match 
+- 384
+: 401 9 7 To 
+: 414 5 4 your 
+: 423 4 2 ci
+: 428 3 0 ga
+: 432 3 0 rette 
+- 437
+: 457 4 0 Watched 
+: 464 4 0 the 
+: 472 4 0 smoke 
+: 480 20 0 curl 
+: 503 3 0 in 
+: 507 3 0 the 
+: 512 5 2 mist 
+- 519
+: 554 4 4 Your 
+: 562 5 4 eyes, 
+- 569
+: 587 4 5 Blue 
+: 594 9 4 as 
+: 606 3 4 the 
+: 610 6 4 o
+: 618 3 0 cean 
+: 625 5 0 be
+: 632 5 0 tween 
+: 638 4 2 us 
+- 644
+: 657 22 2 Smil
+: 680 3 4 ing 
+: 686 3 2 at 
+: 693 4 0 me 
+- 699
+: 871 4 0 I 
+: 878 4 -3 a
+: 884 5 -5 woke 
+- 891
+: 904 4 -5 So 
+: 911 4 0 cold 
+: 918 4 0 and 
+: 925 3 -3 lone
+: 929 3 -5 ly 
+- 934
+: 970 2 4 In 
+: 973 3 4 a 
+: 980 5 5 far
+: 986 3 5 a
+: 990 13 4 way 
+: 1012 5 2 place 
+- 1019
+: 1064 4 4 The 
+: 1071 4 4 sun 
+: 1078 4 0 fell 
+: 1085 8 0 cold 
+- 1095
+: 1115 2 0 Up
+: 1118 2 0 on 
+: 1123 4 0 my 
+: 1131 7 -3 face 
+- 1140
+: 1162 2 0 The 
+: 1166 4 2 cracks 
+: 1174 2 0 in 
+: 1177 2 0 the 
+: 1183 4 0 ceil
+: 1188 3 0 ing 
+- 1193
+: 1210 5 -3 Spelt 
+: 1218 8 -5 hell 
+- 1228
+: 1276 4 0 Turned 
+: 1283 3 0 to 
+: 1287 2 0 the 
+: 1291 5 0 wall 
+- 1298
+: 1345 3 0 Pulled 
+: 1350 3 0 the 
+: 1356 5 2 sheets 
+: 1366 2 0 a
+: 1369 4 0 round 
+: 1375 4 0 my 
+: 1381 4 0 head 
+- 1387
+: 1442 4 0 Tried 
+: 1450 4 -3 to 
+: 1457 6 -5 sleep, 
+- 1465
+: 1493 4 2 Dream 
+: 1499 4 0 my 
+: 1505 5 0 way 
+- 1512
+: 1539 4 2 Back 
+: 1545 2 2 to 
+: 1549 4 2 you 
+: 1574 3 -1 a
+: 1578 4 0 gain 
+- 1584
+: 1949 4 -5 Count 
+: 1955 3 -5 the 
+: 1960 26 0 days 
+- 1988
+: 2022 11 -1 Slow
+: 2034 3 0 ly 
+: 2042 7 -7 pass
+: 2050 4 -7 ing 
+: 2057 11 0 by 
+- 2070
+: 2126 5 7 Step 
+: 2135 2 7 on 
+: 2139 2 7 a 
+: 2144 9 7 plane 
+- 2155
+: 2215 6 4 And 
+: 2227 3 4 fly 
+: 2232 3 2 a
+: 2237 6 2 way 
+- 2245
+: 2310 4 -1 I’ll 
+: 2318 4 -5 see 
+: 2323 3 -5 you 
+: 2329 13 0 then 
+- 2344
+: 2389 9 -1 As 
+: 2402 4 0 the 
+: 2410 4 -7 dawn 
+: 2417 5 -7 birds 
+: 2431 9 0 sing 
+- 2442
+: 2488 3 7 On 
+: 2492 3 7 a 
+: 2497 14 7 cold 
+: 2514 14 9 and 
+* 2533 5 7 mist
+* 2539 3 4 y 
+* 2547 6 2 morn
+* 2554 4 0 ing 
+- 2560
+: 2579 6 0 By 
+: 2587 2 0 the 
+* 2591 34 2 Al
+* 2626 3 0 bert 
+* 2636 8 0 Bridge 
+E

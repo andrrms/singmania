@@ -1,0 +1,622 @@
+#ARTIST:LMFAO feat. Natalia Kills
+#TITLE:Champagne Showers
+#MP3:LMFAO feat. Natalia Kills - Champagne Showers.mp3
+#CREATOR:Coppolatte
+#YEAR:2011
+#LANGUAGE:English
+#BPM:260.02
+#GAP:138680
+#VIDEO:v=UA8rcLvS1BY,co=https://images.coveralia.com/audio/l/Lmfao-Champagne_Showers_(Featuring_Natalia_Kills)_(CD_Single)-Frontal.jpg,bg=lmfao-4e49301cb0276.jpg
+#START:116.0
+: 0 29 7 Ah 
+- 31
+: 36 3 12 We’re 
+: 40 3 14 gon
+* 44 1 12 na 
+: 48 5 14 get 
+: 56 3 10 you 
+: 60 3 10 wet
+: 64 5 9 ~ 
+- 71
+* 100 3 12 We’re 
+: 104 3 14 gon
+* 108 1 12 na 
+: 112 5 14 make 
+: 120 3 10 you 
+: 124 3 10 sweat
+: 128 5 9 ~ 
+- 135
+: 164 3 12 A 
+: 168 3 14 night 
+: 172 3 14 you 
+: 176 5 17 won’t 
+* 184 3 14 for
+: 188 3 12 get
+: 192 5 14 ~ 
+- 199
+: 232 3 14 Are 
+: 236 3 12 you 
+: 240 3 12 rea
+: 244 3 14 dy 
+: 248 3 10 for 
+: 252 1 7 it? 
+- 255
+F 256 7 7 Cham
+F 264 7 7 pagne 
+F 272 5 7 show
+F 278 5 7 ers 
+- 285
+F 288 7 7 Cham
+F 296 7 7 pagne 
+F 304 5 7 show
+F 310 5 7 ers 
+- 317
+F 320 3 7 Pop 
+F 324 3 7 it 
+F 328 3 7 in 
+F 332 3 7 the 
+F 336 3 7 club, 
+F 340 3 7 we 
+F 344 3 7 light 
+F 348 3 7 it 
+F 352 3 7 up 
+- 357
+F 360 3 7 Eight
+F 364 3 7 y 
+F 368 3 7 hours
+F 372 3 7 ~, 
+F 376 3 7 I 
+F 380 1 7 said 
+- 383
+F 384 7 7 Cham
+F 392 7 7 pagne 
+F 400 5 7 show
+F 406 7 7 ers 
+- 415
+F 416 7 7 Cham
+F 424 7 7 pagne 
+F 432 3 7 show
+F 436 1 7 ers 
+- 439
+F 440 3 7 Po-
+F 444 3 7 po-
+F 448 3 7 pop 
+F 452 3 7 it 
+F 456 3 7 in 
+F 460 3 7 the 
+F 464 3 7 club, 
+F 468 3 7 we 
+F 472 3 7 light 
+F 476 3 7 it 
+F 480 3 7 up 
+- 485
+F 488 3 7 Eight
+F 492 3 7 y 
+F 496 3 7 hours
+F 500 3 7 ~, 
+F 504 3 7 eight
+F 508 3 7 y 
+F 512 3 7 hours
+F 516 3 7 ~ 
+- 521
+F 616 3 6 Let 
+F 620 3 4 the 
+F 624 3 8 par
+F 628 3 6 ty 
+F 632 7 4 rock 
+- 641
+F 648 3 6 Put 
+F 652 3 6 your 
+F 656 3 6 hands
+F 660 3 6 ~ 
+F 664 5 6 up 
+- 671
+F 672 3 6 E
+F 676 1 6 very
+F 678 3 6 bo
+F 682 1 6 dy 
+F 684 3 6 just 
+F 688 3 6 dance
+F 692 3 6 ~ 
+F 696 13 6 up 
+- 711
+F 712 1 6 We 
+F 714 3 6 came 
+F 718 1 6 to 
+F 720 3 6 par
+F 724 1 6 ty 
+F 726 5 6 rock 
+- 733
+F 734 1 6 S
+F 736 3 6 mash 
+F 740 3 6 your 
+F 744 3 6 titles 
+F 748 3 6 like 
+F 752 3 6 Mol
+F 756 1 6 ly 
+F 758 3 6 Graw 
+- 763
+F 766 1 6 Ho
+F 768 5 6 ~ 
+- 775
+F 782 1 6 They 
+F 784 1 6 call 
+F 786 1 6 me 
+F 788 3 6 Red 
+F 792 3 6 Flu 
+- 797
+F 798 1 6 I 
+F 800 3 6 walk 
+F 804 1 6 in 
+F 806 1 6 the 
+F 808 3 6 club 
+F 812 1 6 with 
+F 814 1 6 a 
+F 816 1 6 bot
+F 818 1 6 tle 
+F 820 1 6 or 
+F 822 7 6 two 
+- 831
+F 832 3 6 Shake 
+F 836 3 6 it, 
+F 840 1 6 spray 
+F 842 1 6 it 
+F 844 1 6 on 
+F 846 1 6 a 
+F 848 1 6 bo
+F 850 1 6 dy 
+F 852 3 6 or 
+F 856 3 6 two 
+- 861
+F 862 1 6 And 
+F 864 3 6 walk 
+F 868 1 6 out 
+F 870 1 6 the 
+F 872 1 6 par
+F 874 1 6 ty 
+F 876 1 6 with 
+F 878 1 6 a 
+F 880 1 6 hot
+F 882 1 6 tie 
+F 884 1 6 or 
+F 886 3 6 two 
+- 891
+: 892 3 12 Oh
+: 896 7 10 ~ 
+- 905
+: 932 5 7 I’m 
+: 938 3 7 gon
+: 942 1 5 na 
+: 946 5 7 get 
+: 954 5 3 you 
+: 960 3 3 wet
+: 964 7 2 ~ 
+- 973
+: 996 5 7 I’m 
+: 1002 3 7 gon
+: 1006 1 5 na 
+: 1012 5 7 make 
+: 1021 3 3 you 
+: 1026 3 3 sweat
+: 1032 7 2 ~ 
+- 1041
+: 1060 3 7 A 
+: 1064 3 7 night 
+: 1070 3 7 you 
+: 1074 5 10 won’t 
+: 1082 3 7 for
+: 1086 15 7 get 
+- 1103
+: 1104 7 10 Won’t 
+: 1112 3 7 for
+: 1116 3 7 get
+: 1120 1 6 ~
+: 1122 17 7 ~ 
+- 1141
+* 1144 3 7 No
+* 1148 1 7 ~ 
+- 1151
+: 1152 33 7 Ah 
+- 1187
+: 1188 3 12 We’re 
+: 1192 3 14 gon
+: 1196 1 12 na 
+: 1200 5 14 get 
+: 1208 3 10 you 
+: 1212 3 10 wet
+: 1216 5 9 ~ 
+- 1223
+: 1252 3 12 We’re 
+: 1256 3 14 gon
+: 1260 1 12 na 
+* 1264 5 14 make 
+: 1272 3 10 you 
+: 1276 3 10 sweat
+: 1280 5 9 ~ 
+- 1287
+: 1316 3 12 A 
+: 1320 3 14 night 
+: 1324 3 14 you 
+: 1328 5 17 won’t 
+: 1336 3 14 for
+* 1340 1 14 get
+: 1342 1 12 ~
+: 1344 5 14 ~ 
+- 1351
+: 1384 3 21 Are 
+: 1388 3 19 you 
+: 1392 3 19 rea
+: 1396 3 21 dy 
+: 1400 3 17 for 
+: 1404 1 14 it? 
+- 1407
+F 1408 7 7 Cham
+F 1416 7 7 pagne 
+F 1424 5 7 show
+F 1430 5 7 ers 
+- 1437
+F 1440 7 7 Cham
+F 1448 7 7 pagne 
+F 1456 5 7 show
+F 1462 5 7 ers 
+- 1469
+F 1472 3 7 Pop 
+F 1476 3 7 it 
+F 1480 3 7 in 
+F 1484 3 7 the 
+F 1488 3 7 club, 
+F 1492 3 7 we 
+F 1496 3 7 light 
+F 1500 3 7 it 
+F 1504 3 7 up 
+- 1509
+F 1512 3 7 Eight
+F 1516 3 7 y 
+F 1520 3 7 hours
+F 1524 3 7 ~, 
+F 1528 3 7 I 
+F 1532 1 7 said 
+- 1535
+F 1536 7 7 Cham
+F 1544 7 7 pagne 
+F 1552 5 7 show
+F 1558 7 7 ers 
+- 1567
+F 1568 7 7 Cham
+F 1576 7 7 pagne 
+F 1584 3 7 show
+F 1588 1 7 ers 
+- 1591
+F 1592 3 7 Po-
+F 1596 3 7 po-
+F 1600 3 7 pop 
+F 1604 3 7 it 
+F 1608 3 7 in 
+F 1612 3 7 the 
+F 1616 3 7 club, 
+F 1620 3 7 we 
+F 1624 3 7 light 
+F 1628 3 7 it 
+F 1632 3 7 up 
+- 1637
+F 1640 3 7 Eight
+F 1644 3 7 y 
+F 1648 3 7 hours
+F 1652 3 7 ~, 
+F 1656 3 7 eight
+F 1660 3 7 y 
+F 1664 3 7 hours
+F 1668 3 7 ~ 
+- 1673
+F 1768 3 6 Let 
+F 1772 3 4 the 
+F 1776 3 8 par
+F 1780 3 6 ty 
+F 1784 5 4 rock 
+- 1791
+F 1792 7 6 Boom 
+F 1800 3 6 Guess 
+F 1804 3 6 who 
+F 1808 1 6 stepped 
+F 1810 3 6 in 
+F 1814 1 6 the 
+F 1816 5 6 room 
+- 1823
+F 1824 7 6 Sky 
+F 1832 3 6 Blu, 
+F 1836 3 6 Red
+F 1840 3 6 foo 
+F 1844 3 6 and 
+F 1848 5 6 Q 
+- 1855
+F 1856 1 6 She’s 
+F 1858 1 6 a 
+F 1860 1 6 par
+F 1862 1 6 ty 
+F 1864 1 6 rock
+F 1866 1 6 er 
+F 1868 3 6 from 
+F 1872 3 6 night 
+F 1876 3 6 ill 
+F 1880 5 6 noon 
+- 1887
+F 1888 1 6 And 
+F 1890 1 6 it’s 
+F 1892 1 6 a
+F 1894 1 6 bout 
+F 1896 1 6 to 
+F 1898 1 6 be 
+F 1900 1 6 a 
+F 1902 3 6 cham
+F 1906 3 6 pagne 
+F 1910 3 6 mon
+F 1914 5 6 soon 
+- 1921
+F 1924 1 6 Ba
+F 1926 3 6 by 
+F 1930 3 6 girl, 
+F 1934 1 6 you 
+F 1936 3 6 look 
+F 1940 1 6 le
+F 1944 5 6 git 
+- 1951
+F 1952 3 6 Come 
+F 1956 1 6 to 
+F 1958 1 6 my 
+F 1960 3 6 ta
+F 1964 1 6 ble 
+F 1966 1 6 and 
+F 1968 3 6 take 
+F 1972 3 6 a 
+F 1976 5 6 seat 
+- 1983
+F 1988 1 6 O
+F 1990 1 6 pen 
+F 1992 3 6 wide 
+F 1996 1 6 ’cause 
+F 1998 1 6 we’re 
+F 2004 3 6 spray
+F 2008 1 6 ing 
+F 2010 1 6 it 
+- 2013
+F 2016 1 6 Fif
+F 2018 1 6 ty 
+F 2020 3 6 six 
+F 2024 1 6 bot
+F 2026 1 6 tles 
+F 2028 3 6 ain’t 
+F 2032 3 6 payed 
+F 2036 5 6 for 
+F 2042 5 6 shit 
+- 2049
+: 2084 5 7 I’m 
+: 2090 3 7 gon
+: 2094 1 5 na 
+: 2098 5 7 get 
+: 2106 5 3 you 
+: 2112 3 3 wet
+: 2116 7 2 ~ 
+- 2125
+: 2148 5 7 I’m 
+: 2154 3 7 gon
+: 2158 1 5 na 
+* 2164 5 7 make 
+* 2173 3 3 you 
+: 2178 3 3 sweat
+: 2184 7 2 ~ 
+- 2193
+: 2212 3 7 A 
+: 2216 3 7 night 
+: 2222 3 7 you 
+: 2226 5 10 won’t 
+: 2234 3 7 for
+: 2238 15 7 get 
+- 2255
+: 2256 7 10 Won’t 
+* 2264 3 7 for
+* 2268 3 7 get
+* 2272 1 6 ~
+: 2274 17 7 ~ 
+- 2293
+: 2296 5 7 Oh 
+- 2303
+: 2304 33 7 Ah 
+- 2339
+: 2340 3 12 We’re 
+* 2344 3 14 gon
+: 2348 1 12 na 
+: 2352 5 14 get 
+: 2360 3 10 you 
+: 2364 3 10 wet
+: 2368 5 9 ~ 
+- 2375
+: 2404 3 12 We’re 
+: 2408 3 14 gon
+: 2412 1 12 na 
+: 2416 5 14 make 
+: 2424 3 10 you 
+: 2428 3 10 sweat
+: 2432 5 9 ~ 
+- 2439
+: 2468 3 12 A 
+: 2472 3 14 night 
+: 2476 3 14 you 
+: 2480 5 17 won’t 
+: 2488 3 14 for
+: 2492 1 14 get
+: 2494 1 12 ~
+: 2496 5 14 ~ 
+- 2503
+: 2536 3 21 Are 
+: 2540 3 19 you 
+: 2544 3 19 rea
+: 2548 3 21 dy 
+: 2552 3 17 for 
+: 2556 1 14 it? 
+- 2559
+F 2560 7 7 Cham
+F 2568 7 7 pagne 
+F 2576 5 7 show
+F 2582 5 7 ers 
+- 2589
+F 2592 7 7 Cham
+F 2600 7 7 pagne 
+F 2608 5 7 show
+F 2614 5 7 ers 
+- 2621
+F 2624 3 7 Pop 
+F 2628 3 7 it 
+F 2632 3 7 in 
+F 2636 3 7 the 
+F 2640 3 7 club, 
+F 2644 3 7 we 
+F 2648 3 7 light 
+F 2652 3 7 it 
+F 2656 3 7 up 
+- 2661
+F 2664 3 7 Eight
+F 2668 3 7 y 
+F 2672 3 7 hours
+F 2676 3 7 ~, 
+F 2680 3 7 I 
+F 2684 1 7 said 
+- 2687
+F 2688 7 7 Cham
+F 2696 7 7 pagne 
+F 2704 5 7 show
+F 2710 7 7 ers 
+- 2719
+F 2720 7 7 Cham
+F 2728 7 7 pagne 
+F 2736 3 7 show
+F 2740 1 7 ers 
+- 2743
+F 2744 3 7 Po-
+F 2748 3 7 po-
+F 2752 3 7 pop 
+F 2756 3 7 it 
+F 2760 3 7 in 
+F 2764 3 7 the 
+F 2768 3 7 club, 
+F 2772 3 7 we 
+F 2776 3 7 light 
+F 2780 3 7 it 
+F 2784 3 7 up 
+- 2789
+F 2792 3 7 Eight
+F 2796 3 7 y 
+F 2800 3 7 hours
+F 2804 3 7 ~, 
+F 2808 3 7 eight
+F 2812 3 7 y 
+F 2816 3 7 hours
+F 2820 3 7 ~ 
+- 2825
+F 2944 3 6 Hours
+F 2948 3 6 ~ 
+- 2953
+F 3072 3 6 Hours
+F 3076 3 6 ~ 
+- 3081
+F 3100 3 6 Par
+F 3104 1 6 ty 
+F 3108 3 6 peo
+F 3112 7 6 ple 
+- 3121
+F 3146 3 6 Now 
+F 3150 1 6 I 
+F 3152 3 6 want 
+F 3158 1 6 you 
+F 3160 1 6 to 
+F 3164 5 6 grab 
+F 3170 2 6 your 
+F 3174 5 6 bot
+F 3180 5 6 tles 
+- 3187
+F 3214 1 6 Put 
+F 3216 1 6 them 
+F 3218 3 6 up 
+F 3222 1 6 in 
+F 3224 1 6 the 
+F 3226 9 6 air 
+- 3237
+F 3260 3 6 Now 
+F 3266 7 6 shake 
+- 3275
+F 3282 7 6 Shake 
+- 3291
+F 3296 3 6 Shake 
+F 3300 3 6 that 
+F 3304 1 6 bot
+F 3306 1 6 tle 
+F 3308 3 6 and 
+F 3312 3 6 make 
+F 3316 3 6 it 
+- 3321
+: 3840 33 7 Ah 
+- 3875
+* 3876 3 12 We’re 
+* 3880 3 14 gon
+* 3884 1 12 na 
+: 3888 5 14 get 
+: 3896 3 10 you 
+: 3900 3 10 wet
+: 3904 5 9 ~ 
+- 3911
+: 3940 3 12 We’re 
+: 3944 3 14 gon
+: 3948 1 12 na 
+: 3952 5 14 make 
+: 3960 3 10 you 
+: 3964 3 10 sweat
+: 3968 5 9 ~ 
+- 3975
+: 4004 3 12 A 
+: 4008 3 14 night 
+: 4012 3 14 you 
+: 4016 5 17 won’t 
+: 4024 3 14 for
+: 4028 1 14 get
+: 4030 1 12 ~
+: 4032 5 14 ~ 
+- 4039
+: 4072 3 21 Are 
+: 4076 3 19 you 
+: 4080 3 19 rea
+* 4084 3 21 dy 
+: 4088 3 17 for 
+: 4092 1 14 it? 
+- 4095
+: 4120 9 14 Oh 
+- 4131
+: 4152 9 14 Oh 
+- 4163
+: 4184 9 19 Oh 
+- 4195
+* 4216 3 17 Oh
+: 4220 7 19 ~ 
+- 4229
+* 4248 3 21 Oh
+: 4252 1 19 ~
+: 4254 5 21 ~ 
+- 4261
+: 4280 3 21 Oh
+: 4284 1 19 ~
+* 4286 5 21 ~
+* 4292 1 19 ~
+* 4294 5 21 ~
+* 4300 1 19 ~
+: 4302 5 21 ~
+: 4308 1 19 ~
+: 4310 5 21 ~
+: 4316 1 19 ~
+: 4318 5 21 ~
+* 4324 3 22 ~
+* 4328 3 21 ~
+: 4332 3 22 ~
+: 4336 3 21 ~ 
+- 4341
+: 4342 1 17 Oh
+: 4344 3 17 ~
+: 4348 3 14 ~. 
+E

@@ -1,0 +1,145 @@
+#ARTIST:Nancy Sinatra
+#TITLE:You Only Live Twice
+#MP3:Nancy Sinatra - You Only Live Twice.mp3
+#CREATOR:riperrin
+#GENRE:Soundtrack
+#YEAR:1967
+#LANGUAGE:English
+#BPM:200.45
+#GAP:31300
+#VIDEO:v=hs8uYxTJ530,co=https://i.discogs.com/1ktyZxJI74dNWSli4ubfZEnZzkHtAtCZCXIiD_T8Pt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Njky/My0xNTM4NTAzMzYx/LTU2NTMuanBlZw.jpeg,bg=sinatra-nancy-52c7e63127ca8.jpg
+: 0 15 3 You 
+: 19 5 8 on
+: 27 7 6 ly 
+: 36 7 3 live 
+: 44 26 1 twice 
+: 75 8 -1 or 
+: 84 22 1 so 
+: 107 4 3 it 
+: 113 32 -6 seems, 
+- 147
+: 151 7 -8 One 
+: 161 9 -6 life 
+: 172 3 -5 for 
+: 177 3 -1 your
+: 181 10 1 self 
+: 193 2 -6 and 
+: 197 9 4 one 
+: 207 1 2 for 
+: 211 2 4 your 
+: 215 64 6 dreams. 
+- 281
+: 283 16 3 You 
+: 301 4 8 drift 
+: 308 7 6 through 
+: 317 3 3 the 
+: 322 24 1 years 
+: 349 8 -1 and 
+: 359 18 1 life 
+: 379 5 3 seems 
+: 386 36 -6 tame, 
+- 424
+: 434 4 -8 Till 
+: 441 4 -6 one 
+: 447 4 -5 dream 
+: 453 3 -1 ap
+: 457 10 1 pears 
+: 469 3 -6 and 
+: 474 11 4 love 
+: 487 3 1 is 
+: 492 2 3 its 
+: 496 48 -1 name. 
+- 546
+: 570 6 7 And 
+: 578 5 9 love 
+: 585 4 8 is 
+: 591 2 4 a 
+: 595 6 6 stran
+: 603 22 6 ger 
+: 628 17 6 who’ll 
+: 647 3 4 bec
+: 652 6 0 kon 
+: 660 3 4 you 
+: 665 35 6 on, 
+- 702
+: 706 9 7 Don’t 
+: 717 4 9 think 
+: 723 5 8 of 
+: 729 2 4 the 
+: 734 6 6 dan
+: 741 14 6 ger 
+: 758 3 1 or 
+: 763 2 6 the 
+: 767 7 7 stran
+: 775 15 8 ger 
+: 793 6 4 is 
+: 800 28 10 gone. 
+- 830
+: 833 16 4 This 
+: 851 11 8 dream 
+: 863 3 6 is 
+: 868 4 4 for 
+: 874 23 1 you, 
+: 907 6 -1 so 
+: 916 13 1 pay 
+: 931 3 4 the 
+: 935 32 -6 price. 
+- 969
+: 977 5 -8 Make 
+: 986 5 -6 one 
+: 993 5 -5 dream 
+: 999 2 -1 come 
+: 1003 10 1 true, 
+: 1015 2 -6 you 
+: 1019 5 4 on
+: 1027 3 1 ly 
+: 1032 13 2 live 
+: 1047 37 -1 twice. 
+- 1086
+: 1111 6 7 And 
+: 1120 4 9 love 
+: 1126 3 8 is 
+: 1131 2 4 a 
+: 1136 7 6 stran
+: 1144 19 6 ger 
+: 1174 11 6 who’ll 
+: 1187 3 4 bec
+: 1192 6 0 kon 
+: 1200 2 4 you 
+: 1203 30 6 on, 
+- 1235
+: 1243 7 7 Don’t 
+: 1252 4 9 think 
+: 1258 3 8 of 
+: 1263 3 4 the 
+: 1268 7 6 dan
+: 1277 11 6 ger 
+: 1292 3 1 or 
+: 1297 2 6 the 
+: 1301 6 7 stran
+: 1309 12 8 ger 
+: 1325 5 4 is 
+: 1333 31 10 gone. 
+- 1366
+: 1367 14 4 This 
+: 1383 7 8 dream 
+: 1393 5 6 is 
+: 1401 4 4 for 
+: 1407 26 1 you, 
+: 1440 6 -1 so 
+: 1449 12 1 pay 
+: 1463 3 4 the 
+: 1467 32 -6 price. 
+- 1501
+: 1508 8 -8 Make 
+: 1518 4 -6 one 
+: 1525 4 -5 dream 
+: 1531 3 -1 come 
+: 1535 10 1 true, 
+: 1547 3 -6 you 
+: 1552 7 4 on
+: 1561 4 1 ly 
+: 1567 3 2 live
+: 1572 4 2 ~ 
+: 1578 45 -1 twice. 
+E

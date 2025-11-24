@@ -1,0 +1,248 @@
+#ARTIST:Jamie Christopherson feat. Tyson Yen
+#TITLE:The Only Thing I Know For Real
+#MP3:Jamie Christopherson feat. Tyson Yen - The Only Thing I Know For Real.mp3
+#CREATOR:wolf359
+#COVER:Jamie Christopherson feat. Tyson Yen - The Only Thing I Know For Real [CO].jpg
+#BACKGROUND:Jamie Christopherson feat. Tyson Yen - The Only Thing I Know For Real [BG].jpg
+#GENRE:Metal
+#YEAR:2013
+#LANGUAGE:English
+#BPM:290
+#GAP:30070
+#VIDEO:v=T928kJvqTlo,co=https://static.hggard.com/Images/upload/79380261443199773.jpg
+: 0 5 1 Me
+: 6 5 1 mo
+: 12 2 3 ries 
+: 17 3 4 bro
+: 25 3 1 ken, 
+: 29 1 1 the 
+: 32 3 3 truth 
+- 37
+: 38 4 4 Goes 
+: 44 1 6 un
+: 48 2 4 spo
+: 51 1 1 ~
+: 55 4 1 ken, 
+: 60 2 1 I’ve 
+: 64 5 8 e
+: 70 3 8 ven 
+: 76 2 8 for
+: 81 4 8 got
+: 87 4 6 ten 
+: 92 3 6 my 
+: 96 2 6 name
+: 99 17 8 ~ 
+- 118
+: 123 1 -1 I
+: 125 1 1 ~ 
+: 128 3 1 don’t 
+: 134 3 1 know 
+: 140 1 3 the 
+: 144 4 4 sea
+: 149 3 1 son 
+: 153 5 1 or 
+: 160 3 4 what 
+: 164 4 4 is 
+: 172 3 6 the 
+: 176 3 4 rea
+: 181 3 1 son 
+: 185 2 1 I’m 
+- 189
+: 193 1 8 Stan
+: 197 2 8 ding 
+: 202 5 8 here 
+: 209 2 8 hol
+: 213 2 6 ding 
+: 217 5 6 my 
+: 225 1 6 blade
+: 227 11 8 ~
+: 239 7 6 ~ 
+- 248
+: 252 1 1 A 
+: 256 3 8 des
+: 262 4 8 o
+: 267 1 6 late 
+: 272 3 8 place
+: 276 2 1 ~ 
+- 280
+: 282 4 1 With
+: 289 4 8 out 
+: 295 3 8 a
+: 299 1 6 ny 
+: 304 4 8 trace
+: 309 1 1 ~ 
+- 312
+: 320 1 6 It’s 
+: 322 3 8 on
+: 326 4 8 ly 
+: 332 3 8 the 
+: 336 2 8 cold
+: 339 2 6 ~ 
+: 342 2 6 wind 
+: 345 3 6 I 
+: 351 6 6 feel
+: 358 10 4 ~ 
+- 370
+: 380 1 -1 It’s 
+: 385 2 1 me 
+: 389 3 1 that 
+: 394 2 1 I 
+: 400 4 4 spite 
+: 406 3 1 as 
+: 411 2 1 I 
+: 417 2 4 stand 
+: 421 4 4 up 
+: 428 2 1 and 
+: 432 6 4 fight 
+- 440
+: 444 2 1 The 
+: 449 4 4 on
+: 455 2 4 ly 
+: 460 4 4 thing 
+: 465 4 4 I 
+: 470 3 4 know 
+: 476 2 3 for 
+: 480 4 4 re
+: 485 1 4 al 
+: 488 7 8 there 
+: 496 4 8 will
+: 501 2 6 ~ 
+: 504 5 6 be 
+* 515 6 8 blood
+* 522 6 1 ~
+* 544 9 8 shed
+: 554 5 1 ~ 
+- 561
+: 568 2 1 The 
+: 576 1 6 man
+: 578 1 8 ~ 
+: 580 2 8 in 
+: 584 3 6 the 
+: 589 3 4 mir
+: 596 4 1 ror 
+: 605 1 6 nods
+: 607 4 8 ~ 
+: 614 5 6 his 
+: 621 4 4 head
+: 626 2 3 ~, 
+: 629 2 3 the 
+: 633 2 8 on
+: 637 1 6 ly 
+: 640 8 8 one
+: 649 5 1 ~ 
+: 672 7 8 left
+: 680 8 1 ~ 
+- 690
+: 700 2 1 Will 
+: 704 4 8 ride 
+: 710 4 6 up
+: 717 3 4 on 
+: 725 3 1 the 
+: 733 1 6 drag
+: 735 5 8 ~
+: 741 3 6 on’s 
+: 749 5 4 back 
+- 756
+: 757 2 -1 Be
+: 760 2 1 cause 
+: 765 1 -1 the 
+: 768 6 1 moun
+: 777 5 3 tains 
+: 785 2 1 don’t
+: 788 3 3 ~ 
+: 792 3 3 give
+: 796 1 1 ~ 
+: 800 6 4 back 
+: 809 4 3 what 
+: 817 1 3 they
+: 819 3 1 ~ 
+: 825 3 1 take
+: 829 4 -1 ~ 
+- 835
+: 856 3 8 Oh
+: 860 3 6 ~ 
+: 864 7 8 no, 
+: 872 6 8 there 
+: 880 4 8 will
+: 885 2 6 ~ 
+: 889 3 6 be 
+: 897 8 8 blood
+: 906 5 1 ~
+: 928 9 8 shed
+: 938 4 1 ~ 
+- 944
+: 952 3 6 It’s 
+: 957 2 8 the
+: 960 1 9 ~ 
+: 962 2 11 on
+: 965 2 8 ~
+: 968 2 8 ly 
+: 973 6 8 thing 
+: 981 6 8 I’ve 
+: 989 2 9 e
+: 992 4 11 ~
+: 998 5 11 ver 
+: 1006 2 11 known
+* 1009 47 13 ~ 
+- 1058
+: 1536 5 4 Lo
+: 1544 3 6 sing 
+: 1549 7 3 my 
+: 1557 6 3 i
+: 1564 3 4 den
+: 1568 3 3 ti
+: 1572 9 1 ty 
+- 1583
+: 1584 6 1 Won
+: 1592 5 3 dering 
+: 1600 3 4 have 
+: 1604 6 6 I 
+: 1612 7 4 gone 
+: 1620 5 3 in
+: 1628 7 4 sane
+: 1636 4 1 ~ 
+- 1642
+: 1660 2 3 To 
+: 1665 6 4 find 
+: 1673 2 6 the 
+: 1678 5 3 truth 
+: 1686 3 3 in 
+: 1693 3 4 front 
+: 1697 2 3 of 
+: 1701 9 1 me, 
+: 1712 6 1 I 
+: 1720 3 3 must 
+- 1725
+: 1728 6 4 Climb 
+: 1737 2 6 this 
+: 1741 5 3 moun
+: 1749 5 3 tain 
+: 1756 4 4 range
+: 1761 9 1 ~ 
+- 1772
+: 1777 4 1 Loo
+: 1785 5 3 king 
+: 1793 4 4 down
+: 1798 4 3 ward 
+: 1806 5 1 from 
+: 1814 3 3 this 
+- 1819
+: 1821 2 3 Dead
+: 1824 3 4 ~
+: 1830 4 3 ly 
+: 1836 10 1 height 
+: 1847 1 1 and 
+: 1849 1 -1 ne
+: 1851 1 1 ~
+: 1853 1 1 ver 
+: 1856 4 8 re
+: 1862 5 6 a
+: 1868 1 8 ~
+: 1871 3 8 li
+: 1875 1 6 ~
+: 1879 3 6 zing 
+- 1884
+: 1887 7 8 Why 
+: 1895 5 6 I 
+: 1902 81 8 fight 
+E

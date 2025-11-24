@@ -1,0 +1,190 @@
+#ARTIST:The Beatles
+#TITLE:Norwegian Wood (This Bird Has Flown)
+#MP3:The Beatles - Norwegian Wood (This Bird Has Flown).mp3
+#CREATOR:mustangfred
+#EDITION:The Beatles Rock Band
+#GENRE:Pop
+#YEAR:1965
+#LANGUAGE:English
+#BPM:357.62
+#GAP:16320
+#VIDEO:a=Y_V6y1ZCg_8,co=https://media.hitparade.ch/cover/800/the_beatles-norwegian_wood_(this_bird_has_flown)_s.jpg,co-crop=0-0-792-792,bg=the-beatles-4ddaaf1a51231.jpg
+: 0 2 21 I
+: 3 16 23 ~ 
+: 21 8 25 once 
+: 31 6 23 had 
+: 38 1 21 a 
+: 41 11 20 girl 
+- 54
+: 69 5 18 Or 
+* 76 3 21 should 
+: 81 6 20 I 
+: 90 9 16 say 
+- 101
+: 115 5 14 She 
+: 122 7 21 once 
+: 131 3 13 had 
+* 138 10 11 me? 
+- 150
+: 186 4 20 She
+: 192 11 23 ~ 
+: 207 3 23 showed
+: 211 4 25 ~ 
+: 218 4 23 me 
+: 224 5 21 her 
+: 232 11 20 room 
+- 245
+: 256 5 18 I
+: 263 2 21 sn’t 
+: 272 3 20 it 
+: 281 7 16 good 
+- 290
+: 305 6 14 Nor
+* 314 3 21 we
+: 319 6 13 gian 
+: 328 5 11 wood? 
+- 335
+: 368 5 16 She 
+* 375 4 23 asked 
+: 384 4 23 me 
+: 391 3 23 to 
+: 398 9 23 stay 
+: 408 4 21 and 
+: 415 4 21 she 
+: 423 2 21 told
+: 426 3 19 ~ 
+: 433 2 19 me 
+- 437
+: 439 3 19 To 
+: 446 5 19 sit 
+* 452 9 21 a
+: 462 2 19 ny
+: 466 4 19 where
+: 471 10 21 ~ 
+- 483
+: 558 6 14 So 
+: 565 4 21 I
+: 570 2 23 ~ 
+: 575 2 23 looked 
+: 582 4 23 a
+: 589 3 23 round
+: 593 3 21 ~ 
+: 598 3 21 and 
+: 603 6 21 I 
+: 614 2 21 no
+: 617 1 19 ~
+: 621 4 19 ticed 
+- 627
+: 629 6 19 There 
+: 638 2 19 wa
+: 642 7 21 sn’t 
+: 652 2 19 a 
+* 656 4 19 chair
+* 661 10 21 ~ 
+- 673
+: 756 3 20 I
+: 760 15 23 ~ 
+: 779 3 23 sat
+: 783 2 25 ~ 
+* 788 6 23 on 
+: 796 5 21 a 
+: 803 7 20 rug 
+- 812
+: 828 5 18 Bi
+: 835 6 21 ding 
+: 844 4 20 my 
+: 851 14 16 time 
+: 876 5 14 drin
+: 885 4 21 king 
+: 891 7 13 her 
+: 902 10 11 wine 
+- 914
+: 948 2 21 We
+: 951 17 23 ~ 
+: 971 2 23 talked
+: 974 3 25 ~ 
+: 980 4 23 un
+: 986 3 21 til
+: 990 2 20 ~ 
+: 995 8 20 two 
+- 1005
+: 1020 6 18 And 
+: 1027 5 21 then 
+: 1035 5 20 she 
+: 1043 8 16 said 
+- 1053
+: 1068 4 14 It’s 
+: 1075 6 21 time 
+* 1084 3 13 for 
+: 1089 8 11 bed 
+- 1099
+: 1520 2 14 She 
+: 1525 8 23 told 
+: 1536 3 23 me 
+: 1543 7 23 she 
+: 1552 6 23 worked 
+: 1562 4 21 in 
+: 1568 3 21 the 
+: 1573 6 21 mor
+: 1580 3 19 ~
+: 1585 4 19 ning 
+- 1591
+: 1593 3 19 And 
+: 1600 7 19 star
+: 1610 2 21 ted 
+: 1617 2 19 to 
+: 1621 3 19 laugh
+: 1625 7 21 ~ 
+- 1634
+: 1715 3 11 I 
+: 1721 7 21 told 
+: 1731 6 23 her 
+: 1739 4 23 I 
+: 1748 3 23 di
+: 1752 5 21 dn’t 
+- 1759
+: 1762 5 21 And 
+: 1769 3 21 crawled
+: 1773 4 19 ~ 
+: 1779 4 19 off 
+: 1787 2 19 to 
+: 1793 6 19 sleep 
+: 1801 6 21 in 
+: 1810 2 19 the 
+* 1813 4 19 bath
+* 1818 6 21 ~ 
+- 1826
+: 1917 3 21 And
+: 1921 17 23 ~ 
+: 1940 7 25 when 
+: 1948 7 23 I 
+: 1957 5 21 a
+: 1963 8 20 woke 
+- 1973
+: 1988 7 18 I 
+: 1997 6 21 was 
+* 2004 4 20 a
+: 2010 13 16 lone 
+- 2025
+: 2039 3 14 This 
+: 2047 5 21 bird 
+: 2054 2 13 had 
+: 2061 6 11 flown 
+- 2069
+: 2112 8 23 So 
+: 2136 2 23 I
+: 2139 3 25 ~ 
+: 2143 3 23 lit 
+: 2151 3 21 a 
+: 2160 10 20 fire 
+- 2172
+: 2185 4 18 I
+: 2191 7 21 sn’t 
+: 2201 2 20 it 
+: 2209 6 16 good 
+- 2217
+: 2233 6 14 Nor
+: 2241 5 21 we
+: 2249 6 13 gian 
+: 2259 6 11 wood? 
+E

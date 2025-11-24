@@ -1,0 +1,245 @@
+#ARTIST:The Witcher (Joey Batey)
+#TITLE:Burn Butcher Burn
+#MP3:The Witcher (Joey Batey) - Burn Butcher Burn.mp3
+#CREATOR:Oli Lan
+#YEAR:2021
+#LANGUAGE:English
+#BPM:312
+#GAP:6660
+#VIDEO:v=SPiz96e8w4k,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/dd/fb/fdddfb5e-a583-c588-ea0f-6b30b21b76e4/886449772032.jpg/5000x5000bb.jpg
+: 0 20 3 I 
+: 50 24 7 hear 
+: 90 3 5 you’re 
+: 94 3 3 a
+: 98 24 8 live, 
+: 132 12 12 how 
+: 152 3 0 di
+: 156 5 0 sap
+: 162 7 0 poin
+: 170 6 0 ting 
+- 196
+: 218 20 7 I’ve 
+: 240 6 15 al
+: 248 12 14 so 
+: 270 5 12 sur
+: 276 14 14 vived, 
+: 306 5 7 no 
+: 312 5 7 thanks 
+: 318 3 5 to 
+: 322 16 7 you 
+- 358
+: 386 9 7 Did 
+: 396 5 7 I 
+: 402 14 15 not 
+: 424 7 15 bring 
+: 432 5 15 you 
+: 438 6 15 some 
+: 446 20 14 glee 
+- 470
+: 472 6 12 Mis
+: 480 5 14 ter, 
+: 486 8 19 oh, 
+: 512 5 3 look 
+: 518 4 5 at 
+: 526 14 7 me 
+- 544
+: 546 12 5 Now 
+: 562 6 3 I’ll 
+: 570 18 7 burn 
+: 616 5 2 all 
+: 622 3 3 the 
+: 626 7 5 mem
+: 634 19 2 ories 
+: 654 12 3 of 
+: 670 20 0 you 
+- 710
+: 740 5 3 All 
+: 746 5 5 those 
+: 752 5 7 lone
+: 758 4 7 ly 
+: 764 16 7 miles 
+- 790
+: 816 4 5 That 
+: 822 7 3 you 
+: 830 52 7 ride 
+- 889
+: 892 5 5 Now 
+: 898 6 3 you’ll 
+: 906 16 7 walk 
+: 934 6 7 with 
+: 942 8 15 no 
+: 954 8 14 one 
+: 966 10 14 by 
+: 978 8 12 your 
+: 998 24 7 side 
+- 1032
+: 1042 5 7 Did 
+: 1048 4 7 you 
+: 1056 5 15 ev
+: 1062 4 15 er 
+: 1084 3 15 ev
+: 1088 6 15 en 
+: 1096 14 14 care 
+- 1119
+F 1122 3 0 With 
+F 1126 4 0 your 
+F 1132 11 0 swords 
+F 1144 3 0 and 
+F 1148 4 0 your 
+F 1156 11 0 stu
+F 1168 7 0 pid 
+F 1176 9 0 hair? 
+- 1185
+: 1186 9 5 Now 
+: 1196 10 5 watch 
+: 1208 10 3 me 
+: 1222 18 7 laugh 
+: 1250 5 3 as 
+: 1256 4 5 I 
+: 1262 24 7 burn 
+: 1290 5 2 all 
+: 1296 3 3 the 
+: 1300 7 5 mem
+: 1308 18 2 ories 
+: 1330 8 3 of 
+: 1342 28 0 you 
+- 1390
+F 1418 1 0 La
+F 1420 1 0 dies 
+F 1422 3 0 and 
+F 1426 1 0 gen
+F 1428 3 0 tlemen, 
+F 1432 5 0 you 
+F 1438 3 0 have 
+F 1442 3 0 been 
+F 1446 1 0 the 
+F 1448 4 0 most 
+F 1454 3 0 beau
+F 1458 3 0 ti
+F 1462 3 0 ful 
+F 1466 3 0 au
+F 1470 3 0 dience 
+- 1473
+F 1474 3 0 Remem
+F 1478 1 0 ber 
+F 1480 1 0 to 
+F 1482 3 0 toss 
+F 1486 3 0 a 
+F 1490 7 0 coin 
+F 1498 1 0 if 
+F 1500 1 0 you 
+F 1502 8 0 can 
+- 1512
+F 1514 3 0 If 
+F 1518 1 0 a
+F 1520 1 0 ny
+F 1522 3 0 one 
+F 1526 1 0 needs 
+F 1528 3 0 me, 
+F 1532 1 0 I’ll 
+F 1534 3 0 be 
+F 1538 1 0 at 
+F 1540 1 0 the 
+F 1542 7 0 bar 
+- 1549
+: 1550 5 15 What 
+: 1556 8 14 for 
+: 1570 3 12 d’you 
+: 1574 7 14 yea
+: 1582 36 15 ~rn? 
+- 1620
+: 1622 1 7 It’s 
+: 1624 3 7 the 
+: 1628 9 15 point 
+: 1638 1 15 of 
+: 1640 5 14 no 
+: 1646 19 12 re
+: 1666 9 14 tu
+: 1676 30 15 ~rn 
+- 1715
+: 1718 5 7 Af
+: 1724 3 5 ter 
+: 1728 1 7 eve
+: 1730 1 7 ry
+: 1732 7 7 thing 
+: 1740 3 7 we 
+: 1744 6 7 did, 
+: 1754 6 7 we 
+: 1762 14 7 saw 
+- 1788
+: 1792 10 7 You 
+: 1804 11 14 turned 
+: 1816 5 7 your 
+: 1822 11 14 back 
+: 1834 5 7 on 
+: 1840 10 14 me 
+- 1850
+: 1852 7 15 What 
+: 1860 10 14 for 
+: 1874 7 11 d’you 
+* 1882 35 12 yea
+* 1918 35 14 ~
+* 1954 32 15 ~rn? 
+- 1988
+: 1990 11 15 Watch 
+: 2002 7 12 that 
+: 2010 7 15 but
+: 2018 8 12 cher 
+* 2028 73 15 bu
+* 2102 60 17 ~rn 
+- 2162
+: 2164 3 7 At 
+: 2168 3 5 the 
+: 2172 1 7 end 
+: 2174 1 7 of 
+: 2176 8 7 my 
+: 2186 8 7 days 
+: 2196 3 7 when 
+: 2200 4 7 I’m 
+: 2206 12 7 through 
+- 2230
+: 2234 7 7 No 
+: 2242 7 7 word 
+: 2250 3 7 that 
+: 2254 3 7 I’ve 
+: 2258 3 7 writ
+: 2262 4 7 ten 
+: 2270 3 7 will 
+: 2274 7 19 ring 
+: 2282 7 17 quite 
+: 2290 3 15 as 
+: 2294 11 14 true 
+: 2306 5 12 as 
+* 2312 5 17 “bu
+* 2318 84 19 ~rn!” 
+- 2411
+: 2414 15 19 Burn, 
+: 2430 5 17 but
+: 2436 6 15 cher, 
+* 2444 65 20 bu
+* 2510 24 17 ~rn 
+- 2540
+: 2542 17 8 Burn, 
+: 2560 3 -5 but
+: 2564 4 -7 cher, 
+: 2572 12 -5 burn 
+- 2586
+: 2588 14 11 Burn, 
+: 2604 14 14 burn, 
+: 2620 10 14 burn, 
+: 2634 13 19 burn, 
+: 2648 12 17 burn, 
+: 2666 12 17 burn, 
+: 2686 12 17 burn, 
+: 2714 20 17 burn 
+- 2775
+: 2832 18 5 Watch 
+: 2866 8 3 me 
+: 2898 20 7 burn 
+: 2930 5 2 all 
+: 2936 3 3 the 
+: 2940 9 5 mem
+: 2950 18 2 ories 
+: 2984 10 3 of 
+: 3014 14 0 you 
+E

@@ -1,0 +1,84 @@
+#ARTIST:Smalltape
+#TITLE:The Hungry Heart
+#MP3:Smalltape - The Hungry Heart.mp3
+#CREATOR:Quetzaldo
+#GENRE:Progressive Rock
+#YEAR:2021
+#LANGUAGE:English
+#BPM:300
+#GAP:85560
+#VIDEO:a=6703ulIPVSk,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0a/cc/0c/0acc0c1e-a3cd-82af-6e7e-4250073945b3/cover_4064832419696.jpg/5000x5000bb.jpg
+: 0 16 -2 Oh, 
+: 20 16 6 my 
+: 40 8 1 hun
+: 53 3 4 gry 
+: 60 24 3 heart 
+- 86
+: 131 5 -2 Say, 
+: 141 15 2 where 
+: 161 15 1 do 
+: 181 15 -1 you 
+* 202 19 -3 run? 
+- 223
+: 258 14 8 So 
+: 278 26 5 fast 
+: 310 4 1 and 
+: 318 10 2 still 
+: 332 4 3 so 
+: 340 28 6 wild 
+- 370
+: 410 5 1 When 
+: 419 13 4 all 
+: 436 2 6 is 
+: 442 22 2 quiet 
+- 466
+: 510 6 -2 I 
+* 520 16 2 feel 
+: 540 16 1 you 
+: 560 16 -2 so 
+: 580 32 -5 hard 
+- 614
+: 649 9 1 Cause 
+: 662 10 -1 we 
+: 676 2 -3 are 
+: 682 20 -1 one 
+- 704
+: 1760 16 -2 Oh, 
+: 1780 16 6 my 
+: 1800 8 1 rest
+: 1813 3 4 less 
+* 1820 22 3 heart 
+- 1844
+: 1889 5 -2 Say, 
+: 1899 15 2 what 
+: 1919 15 1 is 
+: 1939 15 -1 this 
+: 1960 24 -3 song? 
+- 1986
+: 2020 14 8 I 
+: 2038 26 5 feel 
+: 2070 6 1 your 
+: 2080 10 3 rush
+: 2094 2 4 ing 
+: 2100 28 6 beat 
+- 2130
+: 2172 4 1 This 
+: 2180 12 4 part 
+: 2196 4 1 of 
+: 2204 20 2 me 
+- 2226
+: 2272 6 -2 We 
+: 2282 14 2 won’t 
+: 2300 17 4 fall 
+: 2321 16 1 a
+: 2341 31 -1 part 
+- 2374
+: 2392 4 1 I’ll 
+* 2400 14 6 find 
+: 2420 32 2 out 
+- 2454
+: 2473 4 1 Where 
+: 2481 9 1 we 
+* 2496 4 -2 be
+* 2503 25 -1 long 
+E

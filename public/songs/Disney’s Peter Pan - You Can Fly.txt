@@ -1,0 +1,294 @@
+#ARTIST:Disney’s Peter Pan
+#TITLE:You Can Fly
+#MP3:Disney’s Peter Pan - You Can Fly.mp3
+#CREATOR:Kimbo
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1953
+#LANGUAGE:English
+#BPM:240
+#GAP:5620
+#VIDEO:v=kyd1j3mRsw4,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cd/c9/34/cdc9344b-5ac3-6987-8345-c24bba2fe846/00050086073078.rgb.jpg/5000x5000bb.jpg
+: 0 2 9 Think 
+: 5 2 9 of 
+: 9 2 10 a 
+: 12 2 12 won
+: 15 3 10 der
+: 19 2 9 ful 
+: 22 15 12 thought 
+- 39
+* 44 5 14 A
+: 50 3 12 ny 
+: 55 2 10 mer
+: 58 2 9 ry 
+: 61 2 7 lit
+: 64 2 5 tle 
+: 67 12 9 thought 
+- 81
+: 88 4 7 Think 
+: 93 3 10 of 
+: 98 3 4 Christ
+: 102 2 7 mas 
+- 106
+: 107 3 5 Think 
+: 111 2 9 of 
+: 114 6 0 snow 
+- 121
+: 122 3 7 Think 
+: 126 3 10 of 
+: 130 3 4 sleigh 
+: 134 3 7 bells 
+- 138
+: 138 2 5 Off 
+: 142 1 9 you 
+* 144 4 12 go 
+- 149
+: 149 3 10 Like 
+: 153 2 10 rein
+: 156 2 14 deer 
+: 159 3 7 in 
+: 163 2 10 the 
+: 166 29 14 sky 
+- 197
+: 198 2 16 You 
+: 201 2 16 can 
+: 204 4 17 fly 
+- 209
+* 210 2 12 You 
+: 213 3 12 can 
+: 217 5 10 fly 
+- 223
+: 223 2 16 You 
+: 226 2 16 can 
+: 229 28 17 fly 
+- 259
+: 270 2 17 Think 
+: 273 3 17 of 
+: 277 2 19 the 
+: 280 3 21 hap
+: 284 2 19 pi
+: 287 3 17 est 
+* 291 20 24 things 
+- 312
+: 313 5 26 It’s 
+: 321 2 24 the 
+: 324 2 22 same 
+: 327 2 21 as 
+: 330 2 19 hav
+: 333 2 17 ing 
+: 336 13 16 wings 
+- 351
+: 357 3 7 Take 
+: 361 3 10 the 
+: 366 3 4 path 
+: 370 3 7 that 
+- 374
+: 374 3 5 Moon
+: 379 2 9 beams 
+: 383 5 0 make 
+- 390
+: 393 2 7 If 
+: 397 3 10 the 
+: 401 3 4 moon 
+: 405 3 7 is 
+: 409 2 5 still 
+: 412 1 9 a
+: 414 4 12 wake 
+- 420
+: 421 2 9 You’ll 
+: 424 3 10 see 
+: 428 2 14 him 
+: 432 2 7 wink 
+: 435 3 10 his 
+: 439 15 14 eye
+: 455 5 7 ~
+* 461 5 10 ~
+: 467 6 14 ~ 
+- 474
+: 475 2 19 You 
+: 479 2 19 can 
+: 483 5 17 fly 
+- 489
+: 489 2 12 You 
+: 492 2 12 can 
+: 496 6 10 fly 
+- 503
+: 503 1 19 You 
+: 506 2 19 can 
+: 509 15 17 fly 
+- 526
+* 557 2 16 Up 
+: 561 2 9 you 
+: 565 2 9 go 
+: 569 1 7 with 
+: 571 2 6 a 
+: 574 3 4 heigh 
+: 578 2 11 and 
+: 583 2 11 ho 
+- 586
+: 587 1 8 To 
+: 589 1 6 the 
+: 591 3 4 stars 
+: 595 3 13 be
+: 600 3 13 yond 
+: 604 3 13 the 
+: 608 8 14 blue 
+- 618
+: 624 3 13 There’s 
+: 628 3 14 a 
+: 632 2 16 Ne
+: 635 2 16 ver 
+: 639 5 16 Land 
+- 645
+: 646 3 16 Wait
+: 651 4 16 ing 
+: 657 4 16 for 
+* 662 21 18 you 
+- 685
+: 686 5 18 Where 
+: 693 3 16 all 
+: 697 3 14 your 
+: 701 2 13 hap
+: 705 2 14 py 
+- 708
+: 709 6 11 Dreams 
+: 717 6 13 come 
+: 726 17 9 true 
+- 745
+: 756 4 9 E
+: 762 3 9 very 
+: 767 10 12 dream 
+: 778 3 10 that 
+: 782 5 9 you 
+: 788 10 7 dream 
+- 799
+: 800 6 5 Will 
+: 807 6 4 come 
+: 814 28 5 true
+: 843 12 3 ~ 
+- 857
+: 874 4 1 When 
+: 879 4 6 there’s 
+: 884 3 8 a 
+* 888 4 10 smile 
+: 893 4 8 in 
+: 898 4 6 your 
+: 903 21 13 heart 
+- 926
+: 935 5 15 There’s 
+: 941 6 13 no 
+: 948 3 11 bet
+: 952 4 10 ter 
+: 957 4 8 time 
+: 962 5 6 to 
+: 968 32 10 start 
+- 1002
+: 1016 4 8 Think 
+: 1021 3 11 of 
+: 1026 3 5 all 
+: 1030 4 8 the 
+- 1035
+: 1035 3 6 Joy 
+: 1039 2 10 you’ll 
+: 1043 5 1 find 
+- 1050
+: 1052 4 8 When 
+: 1057 3 11 you 
+: 1061 3 5 leave 
+- 1065
+: 1065 2 8 The 
+: 1068 3 6 world 
+: 1072 1 10 be
+: 1074 5 13 hind 
+- 1080
+: 1080 2 10 And 
+: 1084 2 11 bid 
+: 1087 2 15 your 
+: 1090 2 8 cares 
+: 1093 3 11 good
+: 1097 6 15 bye
+: 1104 7 18 ~ 
+- 1113
+: 1128 2 17 You 
+: 1132 2 17 can 
+: 1137 4 18 fly 
+- 1142
+: 1142 2 13 You 
+: 1146 2 13 can 
+: 1149 5 11 fly 
+- 1155
+: 1155 1 17 You 
+: 1158 2 17 can 
+* 1161 5 18 fly 
+- 1167
+: 1167 1 13 You 
+: 1170 2 13 can 
+: 1173 5 11 fly 
+- 1179
+: 1180 1 17 You 
+: 1182 2 17 can 
+: 1185 32 18 fly 
+- 1219
+: 1464 2 16 When 
+: 1468 3 21 there’s 
+: 1472 3 23 a 
+: 1476 3 25 smile 
+: 1481 3 23 in 
+: 1485 3 21 your 
+: 1489 16 28 heart 
+- 1507
+: 1514 5 30 There’s 
+: 1521 5 28 no 
+: 1527 3 26 bet
+: 1532 2 25 ter 
+: 1536 4 23 time 
+: 1541 6 21 to 
+* 1549 38 20 start 
+- 1589
+: 1610 2 23 Think 
+: 1615 2 26 of 
+: 1619 3 20 all 
+: 1624 2 23 the 
+- 1627
+: 1628 3 21 Joy 
+: 1632 3 25 you’ll 
+: 1636 4 16 find 
+- 1642
+: 1645 3 23 When 
+: 1650 2 26 you 
+: 1654 2 20 leave 
+: 1658 2 23 the 
+: 1662 2 21 world 
+: 1666 1 25 be
+: 1668 3 28 hind 
+- 1673
+: 1674 2 25 And 
+: 1678 2 26 bid 
+: 1681 2 30 your 
+: 1685 3 23 cares 
+: 1689 3 26 good
+: 1693 7 30 bye
+: 1701 12 33 ~ 
+- 1715
+: 1729 3 20 You 
+: 1733 3 20 can 
+: 1737 5 21 fly 
+- 1743
+: 1744 2 16 You 
+: 1747 2 16 can 
+: 1750 5 14 fly 
+- 1756
+: 1757 1 8 You 
+: 1760 2 8 can 
+: 1764 5 9 fly 
+- 1770
+: 1770 1 9 You 
+: 1773 1 9 can 
+: 1776 6 8 fly 
+- 1783
+: 1783 2 8 You 
+: 1786 2 8 can 
+: 1789 12 9 fly
+: 1802 12 8 ~
+: 1815 7 9 ~ 
+E

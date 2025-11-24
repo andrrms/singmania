@@ -1,0 +1,378 @@
+#ARTIST:Dredg
+#TITLE:Catch Without Arms
+#MP3:Dredg - Catch Without Arms.mp3
+#CREATOR:Madlock
+#YEAR:2005
+#LANGUAGE:English
+#BPM:240
+#GAP:10800
+#VIDEO:a=w82f8TZXt8Y,co=catch-without-arms-55d345c1cc0ab.jpg,bg=dredg-4e5ee9c429be4.jpg
+: 0 1 0 I’m 
+: 2 5 2 not 
+: 8 4 3 your 
+: 14 14 0 star 
+- 30
+: 34 1 0 I’m 
+: 36 4 7 not 
+: 42 4 5 that 
+: 48 4 3 beam 
+: 54 1 5 of 
+: 56 14 5 light 
+- 72
+: 82 6 7 Here 
+: 90 3 5 to 
+: 94 5 3 save 
+: 100 1 5 your 
+: 102 20 5 life 
+- 124
+: 126 1 5 To 
+: 128 4 5 make 
+: 134 2 3 you 
+: 138 4 2 all 
+: 144 4 3 look 
+: 150 14 5 fat 
+- 166
+: 174 4 2 Well 
+: 180 1 2 mine’s 
+: 182 2 3 on 
+: 186 3 2 a 
+: 190 18 0 diet 
+- 210
+: 218 1 0 It’s 
+: 220 5 7 not 
+: 226 4 5 my 
+: 232 1 3 grea
+: 234 4 5 test 
+: 240 18 5 care 
+- 260
+: 262 2 3 When 
+: 266 5 7 sim
+: 272 3 5 ple 
+: 276 6 3 needs 
+: 284 5 5 are 
+: 290 11 5 sc
+: 302 9 3 a
+: 312 16 2 re 
+- 330
+: 354 2 2 It’s 
+: 358 5 2 ne
+: 364 2 3 ver 
+: 368 5 2 en
+: 374 10 0 ding 
+- 386
+: 402 1 0 It 
+: 404 4 7 real
+: 410 2 5 ly 
+: 414 4 3 seems 
+: 420 4 5 un
+: 428 16 7 fair 
+- 446
+: 448 2 0 But 
+: 452 3 7 late
+: 456 2 5 ly 
+: 460 5 3 I 
+: 466 4 5 don’t 
+: 472 14 5 care 
+- 488
+: 494 1 7 I 
+: 496 6 7 don’t 
+: 506 6 8 care 
+: 514 4 7 that 
+: 520 18 7 much 
+- 540
+: 542 2 2 I’ve 
+: 546 1 2 gi
+: 548 4 2 ven 
+: 554 1 2 up 
+: 556 1 2 try
+: 558 8 0 in’ 
+- 568
+: 574 1 5 So 
+: 576 2 5 sing 
+: 580 1 3 ab
+: 582 4 5 out 
+: 588 8 5 love 
+- 598
+: 600 1 5 Sing 
+: 602 3 3 ab
+: 606 2 5 out 
+: 612 18 5 love 
+- 632
+: 644 2 3 So 
+: 648 3 3 they 
+: 652 2 5 will 
+: 658 10 5 ca
+: 670 8 3 r
+: 680 22 2 e 
+- 704
+: 726 7 2 It’s the 
+: 734 5 2 same 
+: 740 12 0 difference 
+- 754
+: 762 3 7 That’s 
+: 766 2 8 what 
+: 770 4 7 hap
+: 776 12 5 pens 
+- 789
+: 790 3 3 When 
+: 794 1 5 you 
+: 796 4 7 play 
+: 802 4 8 catch 
+: 808 1 7 with
+: 810 4 5 out 
+: 816 14 5 arms 
+- 832
+: 836 4 5 That’s what 
+: 842 15 5 sets, 
+: 858 11 5 sets, 
+: 870 5 5 sets 
+: 876 3 5 us 
+: 880 3 7 ap
+: 884 26 3 art 
+- 912
+: 922 5 7 Well that’s 
+: 928 1 8 what 
+: 930 6 7 hap
+: 938 32 5 pens 
+- 972
+: 974 1 3 When 
+: 976 2 5 you 
+: 980 4 7 com
+: 986 1 8 pro
+: 988 8 7 mise 
+: 998 1 5 your 
+: 1000 14 5 art 
+- 1016
+: 1020 2 5 That’s what 
+: 1026 10 5 set, 
+: 1042 11 5 set, 
+: 1054 5 5 set 
+: 1060 5 5 us 
+: 1066 3 7 ap
+: 1070 26 7 part 
+- 1098
+: 1194 3 0 You’ve 
+: 1198 3 2 got 
+: 1202 4 3 this 
+: 1210 14 0 far 
+- 1226
+: 1230 1 0 I 
+: 1232 5 7 don’t 
+: 1238 4 5 know 
+: 1244 1 3 if 
+: 1246 5 5 you 
+: 1252 14 7 care 
+- 1268
+: 1272 1 0 But 
+: 1274 2 0 I 
+: 1278 5 7 think 
+: 1284 1 5 that 
+: 1286 5 3 you 
+: 1292 4 5 should 
+: 1298 16 5 swear 
+- 1316
+: 1320 2 5 Or 
+: 1324 2 7 som
+: 1328 4 7 ethi
+: 1334 1 8 ng 
+: 1336 2 7 of 
+: 1340 6 7 the 
+: 1348 16 7 sort 
+- 1366
+: 1368 3 2 To show 
+: 1372 2 2 me that 
+: 1376 2 2 you’re 
+: 1382 3 2 try
+: 1386 17 0 in’ 
+- 1404
+: 1404 2 5 So 
+: 1408 1 3 sing 
+: 1410 3 5 about 
+: 1414 10 5 love 
+- 1426
+: 1428 1 5 Sing 
+: 1430 2 3 ab
+: 1434 2 5 out 
+: 1440 24 5 love 
+- 1466
+: 1472 1 3 So 
+: 1474 4 3 they 
+: 1480 2 5 will 
+: 1486 6 5 ca
+: 1498 8 3 r
+: 1510 28 2 e 
+- 1540
+: 1554 4 2 It’s 
+: 1560 6 3 the same 
+: 1568 18 2 difference 
+- 1588
+: 1590 3 7 That’s 
+: 1594 2 8 what 
+: 1598 4 7 hap
+: 1604 10 5 pens 
+- 1616
+: 1618 5 5 When 
+: 1624 3 7 you 
+: 1628 4 8 play 
+: 1634 2 7 Catch 
+: 1638 3 5 without 
+: 1642 16 5 Arms 
+- 1660
+: 1664 3 5 That’s what 
+: 1668 12 5 sets, 
+: 1686 8 5 sets, 
+: 1698 4 5 sets 
+: 1704 5 5 us 
+: 1710 3 7 ap
+: 1714 18 3 part 
+- 1734
+: 1750 3 7 Well that’s 
+: 1754 2 8 what 
+: 1758 4 7 hap
+: 1766 26 5 pens 
+- 1794
+: 1800 1 7 When 
+: 1802 2 7 you 
+: 1806 1 7 com
+: 1808 2 7 pro
+: 1812 4 8 mise 
+: 1818 4 7 your 
+: 1824 16 5 art 
+- 1842
+: 1848 4 5 That’s what 
+: 1854 15 5 set, 
+: 1870 11 5 set, 
+: 1882 5 5 set 
+: 1888 5 5 us 
+: 1894 2 7 ap
+: 1898 30 7 part 
+- 1930
+: 2116 4 7 Set 
+: 2122 1 7 the 
+: 2124 10 7 faith 
+- 2136
+: 2138 1 7 So 
+: 2140 4 7 they 
+: 2146 2 8 will 
+: 2152 2 7 find 
+: 2156 6 5 it 
+- 2163
+: 2164 4 7 If 
+: 2170 4 5 there’s 
+: 2176 2 7 a hope 
+: 2180 2 5 they 
+: 2186 2 7 can’t 
+: 2192 2 8 de
+: 2196 3 7 ny 
+: 2200 6 5 it 
+- 2208
+: 2210 1 7 Sing 
+: 2212 2 7 ab 
+: 2216 2 7 out 
+: 2220 8 7 love 
+- 2229
+: 2230 1 5 So 
+: 2232 4 5 they 
+: 2238 4 5 can 
+: 2244 2 5 feel 
+: 2248 6 5 it 
+- 2255
+: 2256 2 5 Sing 
+: 2260 1 5 ab
+: 2262 4 5 out 
+: 2268 4 5 love 
+- 2274
+: 2276 1 5 So 
+: 2278 4 5 they 
+: 2284 2 7 can 
+: 2290 2 8 sing 
+: 2294 12 7 it 
+- 2308
+: 2314 1 8 Sing 
+: 2316 30 7 it 
+- 2348
+: 2714 3 7 Well that’s 
+: 2718 4 8 what 
+: 2724 4 7 hap
+: 2730 22 5 pens 
+- 2754
+: 2768 1 5 When 
+: 2770 3 5 you 
+: 2774 5 7 play 
+: 2780 4 8 Catch 
+: 2786 2 7 With
+: 2790 3 5 out 
+: 2794 16 5 Arms 
+- 2811
+: 2812 2 5 That’s what 
+: 2818 12 5 sets, 
+: 2834 12 5 sets, 
+: 2848 4 5 sets 
+: 2854 5 5 us 
+: 2860 1 7 ap
+: 2862 28 3 part 
+- 2892
+: 2900 2 7 Well that’s 
+: 2904 2 7 what 
+: 2908 4 7 hap
+: 2916 24 5 pens 
+- 2942
+: 2952 1 5 When 
+: 2954 3 5 you 
+: 2958 4 7 com
+: 2964 1 8 pro
+: 2966 5 7 mise 
+: 2972 4 5 your 
+: 2978 14 5 art 
+- 2994
+: 2996 2 5 That’s what 
+: 3002 14 5 set, 
+: 3022 8 5 set, 
+: 3032 4 5 set 
+: 3038 3 5 us 
+: 3042 3 7 ap
+: 3046 40 7 part 
+- 3088
+: 3290 1 0 I’m 
+: 3292 5 2 not 
+: 3298 6 3 your 
+: 3306 14 0 star 
+- 3322
+: 3340 3 0 I’m 
+: 3344 6 2 not 
+: 3352 7 3 that 
+: 3360 8 7 beam 
+: 3372 4 5 of 
+: 3378 10 5 light 
+- 3390
+: 3392 4 3 Here 
+: 3398 4 3 to 
+: 3404 12 7 save 
+: 3422 4 5 your 
+: 3430 10 5 life 
+- 3442
+: 3454 6 3 O
+: 3462 4 2 h 
+: 3468 20 5 no... 
+- 3490
+: 3498 3 0 I’m 
+: 3502 5 2 not 
+: 3508 6 3 your 
+: 3516 12 0 star 
+- 3530
+: 3540 7 7 I’m not 
+: 3548 4 5 that 
+: 3556 4 3 beam 
+: 3562 2 5 of 
+: 3566 16 5 light 
+- 3584
+: 3592 7 7 Here 
+: 3600 6 5 to 
+: 3608 5 3 save 
+: 3614 4 5 your 
+: 3620 30 5 life 
+- 3652
+: 3664 5 3 O
+: 3670 6 2 h 
+: 3678 38 5 no... 
+E

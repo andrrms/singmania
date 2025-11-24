@@ -1,0 +1,272 @@
+#ARTIST:Fink
+#TITLE:Looking Too Closely
+#MP3:Fink - Looking Too Closely.mp3
+#CREATOR:bohning, daggeg
+#GENRE:Rock
+#YEAR:2014
+#LANGUAGE:English
+#BPM:233.32
+#GAP:44300
+#VIDEO:v=qoWRs7lXtYE,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/da/1c/85da1cdd-886f-3222-b50c-bdb14872a022/5021392917894.png/5000x5000bb.jpg,bg=fink-557e91c8735e7.jpg
+#END:310500
+: 0 3 6 This 
+: 4 1 9 is 
+: 6 1 9 a 
+: 8 4 9 so
+: 13 2 6 ~ng 
+: 16 2 6 a
+: 19 5 6 bout 
+: 26 4 4 some
+: 31 3 4 bo
+: 35 2 4 dy 
+: 38 10 2 else 
+- 50
+: 74 3 2 So 
+: 80 4 2 don’t 
+: 88 2 9 wor
+: 91 2 9 ry 
+: 94 2 9 your
+: 97 10 9 self, 
+: 109 2 6 wor
+: 112 2 6 ry 
+: 115 2 6 your
+: 118 12 6 self 
+- 132
+: 168 2 2 The 
+: 172 1 9 de
+: 174 2 9 vil’s 
+: 178 2 9 right 
+: 182 4 9 there, 
+: 188 2 9 right 
+: 192 4 9 there 
+: 197 2 6 in 
+: 200 2 6 the 
+: 204 2 6 de
+: 208 10 4 tails 
+- 220
+: 242 2 2 And 
+: 245 3 2 you 
+: 249 2 2 don’t 
+: 252 1 2 wan
+: 254 1 2 na 
+: 256 4 9 hurt 
+: 262 2 9 your
+: 266 10 9 self, 
+: 278 2 6 hurt 
+: 282 3 6 your
+: 286 12 6 self 
+- 300
+: 340 2 4 Loo
+: 343 2 4 king 
+: 346 4 4 too 
+: 352 7 4 close
+: 360 4 2 ly 
+- 366
+: 426 2 4 Loo
+: 429 2 4 king 
+: 432 4 4 too 
+: 438 7 4 close
+: 446 4 2 ly 
+- 452
+: 492 4 9 Oh, 
+: 498 3 9 no, 
+: 504 3 9 no, 
+: 510 14 9 no! 
+- 526
+: 682 4 6 Put 
+: 688 4 9 your 
+: 694 4 9 arms 
+: 700 1 9 a
+: 702 4 9 round 
+: 708 4 9 some
+: 714 3 7 bo
+: 718 2 6 dy 
+: 722 8 6 else 
+- 732
+: 764 4 2 Don’t 
+: 770 2 9 pu
+: 773 2 9 nish 
+: 776 2 9 your
+: 779 11 9 self, 
+: 792 2 6 pu
+: 795 2 6 nish 
+: 798 1 6 your
+: 800 12 6 self 
+- 814
+: 852 3 6 Truth 
+: 856 3 9 is 
+: 860 3 9 like 
+: 864 6 9 blood 
+: 872 1 9 un
+: 874 1 9 der
+: 876 3 9 neath 
+: 880 2 9 your 
+: 884 4 7 fin
+: 889 3 6 ger
+: 893 6 6 nails 
+- 901
+: 924 2 2 And 
+: 927 3 2 you 
+: 931 2 2 don’t 
+: 934 1 2 wan
+: 936 1 2 na 
+: 938 4 9 hurt 
+: 944 2 9 your
+: 948 10 9 self, 
+: 960 2 6 hurt 
+: 964 3 6 your
+: 968 12 6 self 
+- 982
+: 1024 2 4 Loo
+: 1027 2 4 king 
+: 1030 4 4 too 
+: 1036 7 4 close
+: 1044 4 2 ly 
+- 1050
+: 1108 2 4 Loo
+: 1111 2 4 king 
+: 1114 4 4 too 
+: 1120 7 4 close
+: 1128 4 2 ly 
+- 1134
+: 1176 4 9 Oh, 
+: 1182 3 9 no, 
+: 1188 3 9 no, 
+: 1194 14 9 no! 
+- 1210
+: 1260 4 9 Oh, 
+: 1266 3 9 no, 
+: 1272 3 9 no, 
+: 1278 14 9 no! 
+- 1294
+: 1524 3 2 You 
+: 1528 2 2 don’t 
+: 1531 1 2 wan
+: 1533 1 2 na 
+: 1535 4 9 hurt 
+: 1541 2 9 your
+: 1545 10 9 self, 
+: 1557 2 6 hurt 
+: 1561 3 6 your
+: 1565 12 6 self 
+- 1579
+: 1695 3 2 You 
+: 1699 2 2 don’t 
+: 1702 1 2 wan
+: 1704 1 2 na 
+: 1706 4 9 hurt 
+: 1712 2 9 your
+: 1716 10 9 self, 
+: 1728 2 6 hurt 
+: 1732 3 6 your
+: 1736 12 6 self 
+- 1750
+: 1860 4 9 Oh, 
+: 1866 3 9 no, 
+: 1872 3 9 no, 
+: 1878 14 9 no! 
+- 1894
+: 2216 2 2 And 
+: 2219 1 9 I 
+: 2221 2 9 could 
+: 2224 1 9 be 
+: 2226 5 9 wro
+: 2232 3 6 ~ng 
+: 2236 1 6 a
+: 2238 7 6 bout 
+: 2246 1 6 a
+: 2248 2 6 ny
+: 2251 2 6 bo
+: 2254 1 6 dy 
+: 2256 8 4 else 
+- 2266
+: 2292 3 2 So 
+: 2298 6 2 don’t 
+: 2306 4 9 kid 
+: 2312 1 9 your
+: 2314 10 9 self, 
+: 2328 3 6 kid 
+: 2332 2 6 your
+: 2335 13 6 self 
+- 2350
+: 2386 2 2 It’s 
+: 2389 3 6 you 
+: 2396 3 9 right 
+: 2400 3 9 there, 
+: 2404 6 9 right 
+: 2412 1 9 the
+: 2414 1 6 ~re 
+: 2416 2 6 in 
+: 2419 2 6 the 
+: 2422 2 6 mir
+: 2425 2 4 ror 
+- 2429
+: 2460 2 2 And 
+: 2463 3 2 you 
+: 2467 2 2 don’t 
+: 2470 1 2 wan
+: 2472 1 2 na 
+: 2474 4 9 hurt 
+: 2480 2 9 your
+: 2484 10 9 self, 
+: 2496 2 6 hurt 
+: 2500 3 6 your
+: 2504 12 6 self 
+- 2518
+: 2560 2 4 Loo
+: 2563 2 4 king 
+: 2566 4 4 too 
+: 2572 7 4 close
+: 2580 4 2 ly 
+- 2586
+: 2632 13 -3 (Mmmm 
+: 2646 6 9 mmmm 
+: 2654 4 7 mmmm 
+: 2661 5 6 mmmm) 
+- 2668
+: 2730 2 4 Loo
+: 2733 2 4 king 
+: 2736 2 4 too 
+: 2740 14 4 close
+: 2756 4 2 ly 
+- 2762
+: 2902 6 9 Yeah
+: 2909 7 10 ~
+: 2917 23 11 ~ 
+- 2942
+: 2984 4 9 Yeah, 
+: 2990 4 9 yeah, 
+: 2996 4 9 yeah, 
+: 3002 4 6 yeah! 
+- 3008
+: 3070 2 4 Loo
+: 3073 2 4 king 
+: 3076 2 4 too 
+: 3080 12 4 close
+: 3094 4 2 ly 
+- 3100
+: 3232 3 2 You 
+: 3236 2 2 don’t 
+: 3239 1 2 wan
+: 3241 1 2 na 
+: 3243 4 9 hurt 
+: 3249 2 9 your
+: 3253 10 9 self 
+- 3265
+: 3402 3 2 You 
+: 3406 2 2 don’t 
+: 3409 1 2 wan
+: 3411 1 2 na 
+: 3413 4 9 hurt 
+: 3419 2 9 your
+: 3423 10 9 self, 
+: 3435 2 6 hurt 
+: 3439 3 6 your
+: 3443 12 6 self 
+- 3457
+: 3584 2 4 Loo
+: 3587 2 4 king 
+: 3590 2 4 too 
+: 3594 28 4 close
+: 3624 6 2 ly 
+E

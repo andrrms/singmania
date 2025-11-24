@@ -1,0 +1,226 @@
+#ARTIST:Baldur’s Gate 3 (Ilona Ivanova)
+#TITLE:The Weeping Dawn
+#MP3:Baldur’s Gate 3 (Ilona Ivanova) - The Weeping Dawn.mp3
+#CREATOR:b1991
+#EDITION:Baldur’s Gate 3 OST
+#COVER:Baldur’s Gate 3 (Ilona Ivanova) - The Weeping Dawn [CO].jpg
+#BACKGROUND:Baldur’s Gate 3 (Ilona Ivanova) - The Weeping Dawn [BG].jpg
+#GENRE:Ballad
+#YEAR:2023
+#LANGUAGE:English
+#BPM:288.28
+#GAP:15720
+#VIDEO:a=VZXFi9mpIS4,v=T2LWNc90rJc,co=https://ia800605.us.archive.org/17/items/mbid-a36d1409-e1ec-4e3f-8958-fee5e2986e82/mbid-a36d1409-e1ec-4e3f-8958-fee5e2986e82-36364388767_thumb1200.jpg
+: 0 4 0 Dance 
+: 9 3 7 u
+: 14 11 12 pon 
+: 28 2 14 the 
+: 32 9 12 stars 
+: 46 3 10 to
+: 51 12 7 night 
+- 70
+: 73 7 9 Smile 
+: 83 2 7 and 
+: 88 6 5 pain 
+: 98 9 9 will 
+: 111 3 7 fa
+: 115 3 0 ~de 
+: 121 3 0 a
+: 126 10 0 way 
+- 144
+: 147 6 0 Words 
+: 156 2 7 of 
+: 161 9 12 mine 
+: 174 5 14 will 
+: 184 4 12 tu
+: 189 2 10 ~rn 
+: 194 4 10 to 
+: 201 9 7 ash 
+- 218
+: 221 5 9 When 
+: 229 3 7 you 
+: 234 5 5 call 
+: 245 4 9 the
+: 250 4 7 ~ 
+: 257 3 7 last 
+: 266 3 0 light 
+: 274 11 0 down 
+- 290
+: 292 7 0 Moon 
+: 302 3 7 re
+: 307 11 12 minds 
+: 322 6 14 me 
+: 331 3 12 of 
+: 337 5 10 your 
+: 345 12 7 grace 
+- 364
+: 367 6 9 All 
+: 377 2 7 the 
+: 381 6 5 love 
+: 391 8 9 I
+: 400 2 7 ~ 
+: 404 4 7 ca
+F 409 2 0 ~n’t 
+: 414 3 0 re
+: 420 12 0 pay 
+- 437
+: 439 4 0 Rest 
+: 449 2 7 and 
+: 454 8 12 know 
+: 466 6 14 tha
+: 473 3 12 ~t 
+: 478 4 12 I 
+: 484 3 10 will 
+: 492 12 7 pray 
+- 511
+: 514 6 9 Fa
+: 522 4 7 re
+: 528 3 5 well 
+: 538 7 9 my
+: 546 2 7 ~ 
+: 551 3 7 dear 
+: 556 4 0 old 
+: 564 15 0 friend 
+- 585
+: 588 4 5 Moo
+: 593 24 7 ~n, 
+: 623 4 5 su
+: 628 20 7 ~n, 
+: 659 6 9 all 
+: 668 3 10 re
+: 674 6 9 mind 
+: 683 7 10 me 
+* 692 1 12 o
+* 694 4 14 ~f 
+: 703 7 10 your 
+* 713 8 9 gra
+* 722 6 10 ~ce 
+- 733
+: 735 3 5 Fai
+: 739 24 7 ~th, 
+: 770 3 5 ca
+: 774 20 7 ~re, 
+: 807 6 9 all 
+: 816 2 10 the 
+: 820 7 9 love 
+: 830 6 10 I 
+: 839 5 14 can’t 
+: 849 7 10 re
+: 858 8 9 pay
+* 867 10 5 ~ 
+- 880
+: 882 3 5 Moo
+: 886 27 7 ~n, 
+: 917 5 5 su
+: 923 24 7 ~n, 
+: 953 6 9 all 
+: 962 3 10 re
+: 967 5 9 mind 
+: 975 6 10 me 
+: 984 3 12 o
+: 988 4 14 ~f 
+: 996 5 10 your 
+: 1004 8 9 gra
+: 1013 6 10 ~ce 
+- 1025
+: 1027 2 5 Fai
+: 1030 27 7 ~th, 
+: 1063 3 5 ca
+: 1067 23 7 ~re, 
+: 1098 7 9 all 
+: 1108 2 10 the 
+: 1113 6 9 love 
+: 1122 8 10 I 
+: 1132 6 14 can’t 
+: 1141 6 10 re
+: 1150 9 9 pay
+* 1160 12 5 ~
+* 1173 37 3 ~ 
+- 1248
+: 2036 3 0 Dance 
+: 2043 2 7 u
+: 2047 10 12 pon 
+: 2061 2 14 the 
+: 2065 9 12 stars 
+: 2079 2 10 to
+: 2083 13 7 night 
+- 2103
+: 2106 6 9 Smile 
+: 2115 2 7 and 
+: 2120 7 5 pain 
+: 2130 6 9 will 
+: 2143 5 7 fa
+: 2149 2 0 ~de 
+: 2153 2 0 a
+: 2157 12 0 way 
+- 2176
+: 2179 7 0 Words 
+: 2188 2 7 of 
+: 2192 9 12 mine 
+: 2203 5 14 will 
+: 2215 3 12 tu
+: 2219 2 10 ~rn 
+: 2224 2 10 to 
+: 2228 14 7 ash 
+- 2249
+: 2252 7 9 When 
+: 2262 2 7 you 
+: 2266 6 5 call 
+: 2277 7 9 the
+: 2285 3 7 ~ 
+: 2290 3 7 last 
+: 2298 5 0 light 
+: 2307 9 0 down 
+- 2322
+: 2325 5 0 Moon 
+: 2334 3 7 re
+: 2339 10 12 minds 
+: 2353 7 14 me 
+: 2362 3 12 of 
+: 2367 6 10 your 
+: 2376 14 7 grace 
+- 2399
+: 2403 5 9 All 
+: 2412 2 7 the 
+: 2417 2 5 love 
+: 2422 6 9 I
+: 2429 4 7 ~ 
+: 2436 4 7 can’t 
+: 2445 3 0 re
+: 2450 12 0 pay 
+- 2468
+: 2471 3 0 Rest 
+: 2480 3 7 and 
+: 2485 9 12 know 
+: 2497 4 14 tha
+: 2502 3 12 ~t 
+: 2508 5 12 I 
+: 2515 3 10 will 
+: 2522 13 7 pray 
+- 2541
+: 2544 7 9 Fa
+: 2554 2 7 re
+: 2558 4 5 well 
+: 2568 8 9 my
+: 2577 2 7 ~ 
+: 2581 4 7 dear 
+: 2588 4 0 old 
+: 2596 12 0 friend 
+- 2627
+: 2657 5 0 Dance 
+: 2666 2 7 u
+: 2671 12 12 pon 
+: 2687 2 14 the 
+: 2691 12 12 stars 
+: 2706 2 10 to
+: 2710 18 7 night 
+- 2734
+: 2736 16 9 Smile 
+: 2757 2 7 and 
+: 2762 6 5 pain 
+* 2773 17 9 will 
+: 2806 6 7 fa
+: 2813 2 0 ~de 
+: 2819 2 0 a
+: 2825 42 0 way 
+E

@@ -1,0 +1,225 @@
+#ARTIST:Disney’s The Hunchback of Notre Dame
+#TITLE:God Help The Outcasts
+#MP3:Disney’s The Hunchback of Notre Dame - God Help The Outcasts.mp3
+#CREATOR:ai-chan
+#GENRE:Soundtrack
+#YEAR:1996
+#LANGUAGE:English
+#BPM:382.3
+#GAP:27240
+#VIDEO:v=0pLCDnbBEk0,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/0c/02/7d/0c027de7-39ad-016f-21d6-8f34db9f3d33/05099991991355.jpg/5000x5000bb.jpg
+#START:17.5
+* 0 3 5 I 
+: 6 3 5 don’t 
+: 14 3 5 know 
+: 20 2 4 if 
+: 26 4 3 you 
+: 35 4 1 can 
+: 44 6 3 hear 
+* 53 14 -6 me 
+- 69
+: 86 3 3 Or 
+: 91 3 1 if 
+: 97 7 3 You’re 
+: 109 11 4 ev
+: 122 6 1 en 
+: 137 29 3 there 
+- 168
+: 188 5 1 I 
+: 197 3 1 don’t 
+: 206 6 1 know 
+: 214 2 -1 if 
+: 219 6 1 You 
+: 228 5 3 would 
+* 236 9 1 lis
+* 249 10 -1 ten 
+- 261
+: 286 5 1 To 
+: 296 2 3 a 
+: 305 6 4 gyp
+: 316 8 8 sie’s 
+: 332 18 6 prayer 
+- 352
+: 380 4 8 Yes, 
+: 388 3 8 I 
+: 397 5 8 know 
+: 404 8 6 I’m 
+: 417 4 3 just 
+: 425 3 -1 an 
+: 430 11 1 out
+: 444 11 3 cast 
+- 457
+: 478 3 -1 I 
+: 486 3 1 should
+: 492 3 1 n’t 
+: 502 10 4 speak 
+: 519 7 3 to 
+: 533 17 -1 you 
+- 552
+: 590 4 1 Still 
+: 597 4 1 I 
+: 606 4 1 see 
+: 614 4 3 Your 
+: 625 8 4 face 
+: 638 5 1 and 
+: 647 14 3 won
+: 665 21 6 der 
+- 688
+: 711 7 1 Were 
+: 723 5 1 You 
+: 734 6 1 once 
+: 752 4 3 an 
+: 759 10 4 out
+: 774 9 -2 cast 
+: 810 83 -1 too? 
+- 895
+* 1022 17 11 God 
+* 1044 15 10 help 
+: 1065 5 10 the 
+: 1073 12 8 out
+: 1088 12 6 casts 
+- 1102
+: 1123 9 6 Hun
+: 1134 9 4 gry 
+: 1149 6 3 from 
+: 1163 24 1 birth 
+- 1189
+: 1211 8 6 Show 
+: 1226 18 4 them 
+: 1251 2 4 the 
+: 1259 6 3 mer
+: 1273 11 1 cy 
+- 1286
+* 1300 5 -6 They 
+* 1308 12 4 don’t 
+* 1325 16 3 find 
+: 1344 10 -1 on 
+: 1359 19 -6 earth 
+- 1380
+: 1409 10 11 God 
+: 1426 13 10 help 
+: 1447 4 10 my 
+: 1459 6 8 peo
+: 1470 11 6 ple 
+- 1483
+: 1494 3 6 We 
+: 1502 6 6 look 
+: 1515 4 4 to 
+: 1521 14 3 You 
+: 1543 14 1 still 
+- 1559
+: 1593 12 1 God 
+: 1609 18 3 help 
+: 1631 4 4 the 
+: 1639 12 3 out
+: 1655 12 6 casts 
+- 1669
+* 1687 3 -6 Or 
+* 1695 14 1 no
+* 1715 7 -1 bo
+* 1727 2 -2 dy 
+* 1735 41 -1 will 
+- 1778
+* 1812 3 -6 I 
+: 1819 4 1 ask 
+: 1829 2 -1 for 
+: 1834 14 3 wealth 
+- 1850
+: 1900 3 -6 I 
+: 1906 3 1 ask 
+: 1917 3 -1 for 
+* 1924 25 3 fame 
+- 1951
+* 1989 4 -6 I 
+* 1996 4 -1 ask 
+* 2003 2 3 for 
+* 2011 12 1 glo
+* 2026 16 3 ry 
+: 2047 2 3 to 
+: 2054 13 4 shine 
+: 2070 14 6 on 
+: 2089 2 1 my 
+: 2097 43 3 name 
+- 2142
+: 2163 3 -6 I 
+: 2171 4 -2 ask 
+: 2184 5 1 for 
+: 2194 23 -1 love 
+* 2251 4 -1 I 
+* 2260 4 3 can 
+* 2269 8 6 po
+* 2281 44 8 ssess 
+- 2327
+: 2343 3 -1 I 
+: 2350 3 1 ask 
+: 2357 3 3 for 
+: 2365 12 5 God 
+: 2381 10 4 and 
+: 2397 7 3 His 
+: 2407 12 4 an
+: 2421 13 6 gels 
+: 2445 3 5 to 
+: 2454 38 8 bless 
+: 2501 33 9 me 
+- 2536
+* 2560 9 13 I 
+* 2575 16 12 ask 
+* 2599 3 12 for 
+* 2610 4 10 no
+* 2618 18 8 thing 
+- 2638
+: 2654 6 8 I 
+: 2668 8 6 can 
+: 2684 5 5 get 
+: 2694 27 3 by 
+- 2723
+: 2736 3 1 But 
+: 2742 12 8 I 
+: 2758 15 6 know 
+: 2783 6 6 so 
+: 2793 5 5 ma
+: 2799 6 3 ny 
+- 2807
+: 2823 6 -4 Less 
+* 2836 5 6 lu
+* 2846 9 5 cky 
+: 2860 9 1 than 
+: 2876 31 -4 I 
+- 2909
+: 2923 10 13 Please 
+: 2940 16 12 help 
+: 2962 5 12 my 
+: 2973 8 10 peo
+: 2984 12 8 ple 
+- 2998
+: 3008 3 8 The 
+: 3015 5 8 poor
+: 3021 3 7 ~ 
+: 3032 4 6 and
+: 3037 3 5 ~ 
+: 3046 12 5 down
+: 3064 23 3 trod 
+- 3089
+: 3111 8 3 I 
+: 3126 20 5 thought 
+: 3151 5 6 we 
+: 3160 13 5 all 
+: 3179 17 8 were 
+- 3198
+: 3213 4 -4 The 
+: 3225 6 3 chil
+: 3236 14 1 dren 
+: 3258 3 0 of 
+: 3269 60 1 God 
+- 3331
+: 3371 16 3 God 
+: 3392 18 5 help 
+: 3419 8 6 the 
+: 3432 16 5 out
+: 3451 21 8 casts 
+- 3474
+: 3510 16 3 Chil
+: 3532 20 1 dren 
+: 3563 13 0 of 
+* 3626 159 13 God 
+E

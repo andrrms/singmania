@@ -1,0 +1,182 @@
+#ARTIST:Emilíana Torrini
+#TITLE:Gollum’s Song
+#MP3:Emilíana Torrini - Gollum’s Song.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2002
+#LANGUAGE:English
+#BPM:208
+#GAP:74820
+#VIDEO:v=zkXbzffVl44,co=the-lord-of-the-rings-the-two-towers-50ef4cc1ba27a.jpg,bg=the-lord-of-the-rings-the-two-towers-566c324f6f219.jpg,preview=111.52
+: 0 5 -4 Where 
+: 8 5 -1 once 
+: 16 4 1 was 
+* 24 23 3 light 
+- 49
+: 63 5 -1 Now 
+: 71 5 2 dark
+: 79 4 -1 ness 
+: 88 20 -1 falls 
+- 110
+: 126 4 0 Where 
+: 133 6 3 once 
+: 142 4 5 was 
+* 150 21 7 love 
+- 173
+: 190 5 6 Love 
+: 198 4 6 is 
+: 207 4 4 no 
+: 216 16 6 more 
+- 234
+: 262 9 3 Don’t 
+: 277 18 -1 say 
+: 304 4 -3 good
+: 310 30 2 bye 
+- 342
+: 393 4 0 Don’t 
+: 402 12 0 say 
+: 421 4 0 I 
+: 429 3 2 did
+: 434 3 0 n’t 
+: 439 14 0 try
+: 458 25 -1 ~ 
+- 485
+: 509 5 7 These 
+: 518 6 10 tears 
+: 527 5 7 we 
+* 535 28 10 cry 
+- 565
+: 573 5 11 Are 
+* 581 4 14 fa
+: 589 5 11 lling 
+: 597 22 11 rain 
+- 621
+: 637 4 7 For 
+: 645 5 10 all 
+: 653 3 7 the 
+: 659 7 10 lies 
+- 668
+: 670 4 10 You 
+: 676 5 9 told 
+: 684 6 7 us 
+- 692
+: 705 2 11 The 
+: 710 8 11 hurt, 
+: 722 2 9 the 
+: 727 21 11 blame! 
+- 750
+: 766 5 11 And 
+: 774 5 9 we 
+: 782 5 7 will 
+: 791 19 7 weep 
+- 812
+: 815 6 7 To 
+: 823 11 7 be 
+: 839 5 6 so 
+: 847 4 4 a
+: 855 20 6 lone 
+- 877
+: 880 2 6 We 
+: 884 2 6 are 
+: 888 7 7 lost! 
+- 897
+: 911 3 0 We 
+: 915 3 0 can 
+: 920 3 0 ne
+: 926 9 2 ver 
+: 941 10 3 go 
+: 959 30 2 home 
+- 991
+: 1024 4 -4 So 
+: 1030 5 -1 in 
+: 1037 5 1 the 
+: 1044 14 3 end 
+- 1060
+: 1070 5 3 I’ll 
+: 1078 8 2 be 
+: 1091 4 -1 what 
+* 1096 5 2 I 
+: 1104 5 -1 will 
+: 1112 14 -1 be 
+- 1128
+: 1150 5 0 No 
+: 1158 5 3 lo
+: 1166 5 5 yal 
+* 1174 18 7 friend 
+- 1194
+: 1197 3 7 Was 
+: 1203 6 7 e
+: 1213 4 6 ver 
+: 1221 9 6 there 
+: 1233 3 4 for 
+: 1239 17 6 me 
+- 1258
+: 1287 4 -6 Now 
+: 1294 4 3 we 
+: 1301 12 -1 say 
+: 1325 6 -3 good
+: 1334 34 2 bye 
+- 1370
+: 1422 3 3 We 
+: 1428 10 3 say 
+: 1447 4 3 you 
+: 1455 4 7 did
+: 1460 4 3 n’t 
+: 1466 11 3 try
+: 1478 32 2 ~ 
+- 1512
+: 1534 5 7 These 
+: 1542 5 10 tears 
+: 1550 6 7 you 
+: 1558 25 10 cry 
+- 1585
+: 1597 5 11 Have 
+: 1605 5 14 come 
+: 1613 4 11 too 
+: 1621 18 11 late 
+- 1641
+: 1659 6 7 Take 
+: 1668 5 10 back 
+: 1676 3 7 the 
+: 1684 21 10 lies 
+- 1707
+: 1725 4 11 The 
+: 1734 6 11 hurt, 
+: 1747 2 9 the 
+: 1753 22 11 blame! 
+- 1777
+: 1790 5 11 And 
+: 1798 5 9 you 
+: 1806 6 7 will 
+: 1814 18 7 weep 
+- 1834
+: 1837 3 7 When 
+: 1842 3 7 you 
+: 1848 6 7 face 
+: 1860 3 6 the 
+: 1864 6 6 end 
+: 1875 3 4 a
+: 1880 19 6 lone 
+- 1901
+: 1903 3 6 You 
+: 1907 3 6 are 
+: 1912 6 7 lost! 
+- 1920
+: 1933 3 0 You 
+: 1938 3 0 can 
+: 1943 4 0 ne
+: 1949 9 2 ver 
+: 1965 10 3 go 
+: 1982 40 2 home 
+- 2024
+: 2030 3 6 You 
+: 2034 4 6 are 
+: 2044 8 7 lost! 
+- 2054
+: 2063 3 0 You 
+: 2068 3 0 can 
+: 2074 4 0 ne
+: 2081 11 2 ver 
+* 2098 10 3 go 
+: 2114 36 2 home 
+E

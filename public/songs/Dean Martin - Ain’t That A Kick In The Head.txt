@@ -1,0 +1,286 @@
+#ARTIST:Dean Martin
+#TITLE:Ain’t That A Kick In The Head
+#MP3:Dean Martin - Ain’t That A Kick In The Head.mp3
+#CREATOR:DoubleDee
+#COVER:Dean Martin - Ain’t That A Kick In The Head [CO].jpg
+#BACKGROUND:Dean Martin - Ain’t That A Kick In The Head [BG].jpg
+#GENRE:Swing
+#YEAR:1960
+#LANGUAGE:English
+#BPM:310.5
+#GAP:7740
+#VIDEO:a=BeBhy375xsI,co=https://i.discogs.com/MLXBjD6mBp2kpQQPcdSr1RJeJpiurOGm_PPe_rkoWTs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjg2/NTEtMTQyNjA3OTUz/My05NjYwLmpwZWc.jpeg,bg=martin-dean-521b9cb428ba4.jpg,preview=17.0,medley=298-1154
+: 0 3 9 How
+: 4 3 8 ~ 
+: 9 5 9 luck
+: 16 4 9 y 
+: 22 4 8 can 
+: 28 4 9 one 
+: 34 5 8 guy 
+: 41 8 9 be? 
+- 59
+: 76 4 5 I 
+: 83 5 6 kissed 
+: 89 4 6 her 
+: 94 5 5 and 
+: 106 4 6 she 
+: 111 5 5 kissed 
+: 119 6 6 me 
+- 135
+: 147 5 -2 Like 
+: 153 2 -3 the 
+: 159 3 -1 fel
+: 163 3 2 la 
+: 167 5 6 once 
+: 175 4 9 said 
+- 189
+: 193 8 11 “Ain’t 
+: 202 3 11 that 
+: 207 2 9 a 
+: 214 4 11 kick 
+: 220 2 9 in 
+: 223 4 11 the 
+: 228 3 11 hea
+: 232 6 9 ~d?” 
+- 258
+: 298 2 11 The
+: 301 2 10 ~ 
+: 305 7 11 room 
+: 313 5 11 was 
+: 321 5 10 com
+: 327 6 11 plete
+: 334 4 10 ly 
+: 340 6 11 black 
+- 356
+: 376 4 6 I 
+: 382 5 7 hugged 
+: 388 3 7 her 
+: 392 9 6 and 
+: 405 3 9 she 
+: 409 2 8 hug
+: 412 3 9 ~ged 
+: 417 2 9 back
+: 420 3 7 ~ 
+- 433
+: 445 4 -1 Like 
+: 451 3 1 the 
+: 457 3 1 sai
+: 461 4 4 lor 
+: 467 4 7 said, 
+: 475 6 11 quote 
+- 489
+: 492 7 11 “Ain’t 
+: 500 3 11 that 
+: 504 2 9 a 
+: 508 2 10 hole
+: 511 7 11 ~ 
+: 519 2 9 in 
+: 522 2 11 the 
+: 526 2 11 boa
+: 529 6 9 ~t?” 
+- 555
+: 577 5 9 My 
+: 583 5 9 head 
+: 593 5 9 keeps 
+: 614 2 8 spi
+: 617 3 10 ~n
+: 621 5 6 nin’ 
+- 637
+: 641 5 10 I 
+: 649 5 6 go 
+: 658 2 10 to 
+: 662 4 6 sleep 
+: 668 2 10 and 
+: 672 5 6 keep 
+: 688 3 10 gri
+: 692 3 11 ~n
+: 696 8 6 nin’ 
+- 712
+: 715 5 11 If 
+: 724 4 6 this 
+: 734 2 11 is 
+: 737 3 6 just 
+: 743 2 11 the 
+: 746 5 6 be
+: 764 5 13 gin
+: 770 5 8 nin’ 
+- 785
+: 793 2 11 My
+: 796 2 13 ~ 
+: 800 6 8 life 
+: 810 2 13 is 
+: 813 4 8 gon
+: 819 2 13 na 
+: 822 4 8 be 
+- 838
+* 842 26 11 Beau
+* 869 2 10 ~
+* 872 7 11 ~
+* 880 3 10 ti
+* 886 6 9 ful 
+- 894
+: 896 6 9 I’ve 
+: 908 6 9 sun
+: 918 5 9 shine 
+: 924 3 8 e
+: 928 4 9 nough 
+: 936 3 8 to 
+: 942 8 9 spread 
+- 960
+: 975 3 9 It’s 
+: 981 6 10 just 
+: 989 5 10 like 
+: 996 4 9 the 
+: 1007 3 11 fel
+: 1011 3 10 la 
+: 1017 7 11 said 
+- 1034
+: 1045 4 11 Tell 
+: 1050 3 13 me 
+: 1056 7 14 quick 
+: 1075 2 13 ain
+: 1078 5 14 ~’t 
+: 1084 3 14 love 
+: 1088 2 11 a 
+: 1093 6 14 kick 
+- 1109
+: 1121 2 14 In 
+: 1124 3 9 the 
+: 1129 5 13 hea
+: 1135 19 14 ~d? 
+- 1195
+: 1350 5 -2 Like 
+: 1356 2 -1 the 
+: 1362 3 -1 fel
+: 1366 3 2 la 
+: 1370 5 6 once 
+: 1380 5 9 said 
+- 1392
+: 1395 3 9 “Ain
+: 1399 4 11 ~’t 
+: 1405 4 11 that 
+: 1410 2 9 a 
+: 1417 6 11 kick 
+: 1424 5 9 in 
+: 1430 4 11 the 
+: 1436 3 11 hea
+: 1440 14 9 ~d?” 
+- 1495
+: 1647 5 -1 Like 
+: 1654 3 1 the 
+: 1659 5 1 sai
+: 1665 5 4 lor 
+: 1672 4 7 said, 
+: 1678 6 11 quote 
+- 1691
+: 1694 2 10 “Ain
+: 1697 4 11 ~’t 
+: 1702 3 11 that 
+: 1706 4 9 a 
+: 1713 5 11 hole 
+: 1719 3 9 in 
+: 1723 2 11 the 
+: 1727 2 11 boa
+: 1730 1 13 ~
+: 1732 1 11 ~
+: 1734 10 9 ~t?” 
+- 1754
+: 1780 5 9 My
+: 1786 2 8 ~ 
+: 1790 5 9 head 
+: 1799 5 9 keeps 
+: 1816 2 8 spi
+: 1819 3 10 ~n
+: 1823 5 6 nin’ 
+- 1839
+: 1843 5 10 I 
+: 1852 5 6 go 
+: 1861 2 10 to 
+: 1865 4 6 sleep 
+: 1871 2 10 and 
+: 1875 5 6 keep 
+: 1892 2 10 gri
+: 1895 3 11 ~n
+: 1900 7 6 nin’ 
+- 1915
+: 1918 5 11 If 
+: 1927 4 6 this 
+: 1936 2 11 is 
+: 1940 3 6 just 
+: 1947 2 11 the 
+: 1950 5 6 be
+: 1968 5 13 gin
+: 1974 5 8 nin’ 
+- 1989
+: 1996 2 11 My
+: 1999 2 13 ~ 
+: 2002 6 8 life 
+: 2012 2 13 is 
+: 2015 4 8 gon
+: 2021 2 13 na 
+: 2024 4 8 be 
+- 2040
+: 2044 26 11 Beau
+: 2071 2 10 ~
+: 2074 7 11 ~
+: 2082 3 10 ti
+: 2088 7 9 ful 
+- 2099
+: 2101 5 9 She’s 
+: 2110 5 9 tel
+: 2116 3 9 lin’ 
+: 2120 4 8 me 
+: 2133 4 9 we’ll 
+: 2138 3 8 be 
+: 2144 5 9 wed 
+- 2159
+: 2176 5 10 She’s 
+: 2184 5 11 picked 
+: 2191 3 11 out 
+: 2195 2 10 a 
+: 2201 4 11 king
+: 2209 7 10 -size 
+: 2221 6 11 bed 
+- 2237
+: 2250 5 11 I 
+* 2258 5 13 could
+* 2264 3 13 n’t 
+* 2270 4 12 fee
+* 2275 4 11 ~l 
+: 2285 3 13 a
+: 2289 3 12 ny 
+: 2294 4 11 bet
+: 2299 4 11 ter 
+- 2309
+: 2311 4 11 Or 
+: 2316 5 11 I’d 
+: 2323 5 10 be 
+* 2331 4 10 sick
+* 2336 5 9 ~ 
+- 2361
+: 2396 3 11 Tell 
+: 2400 3 11 me 
+: 2407 2 13 qui
+: 2410 6 14 ~ck 
+- 2426
+* 2457 8 17 Boy 
+* 2467 7 16 ain’t 
+: 2475 3 14 love 
+: 2479 2 11 a 
+: 2484 6 14 kick? 
+- 2510
+: 2545 3 14 Tell 
+: 2550 3 14 me 
+: 2555 8 14 quick 
+- 2570
+: 2573 2 13 Ain’
+: 2576 3 14 ~t 
+: 2581 3 14 love 
+: 2585 2 11 a 
+: 2591 5 14 kick 
+- 2606
+: 2610 14 16 In 
+: 2625 6 14 the 
+: 2633 4 13 hea
+: 2638 54 14 ~d? 
+E

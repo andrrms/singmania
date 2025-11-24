@@ -1,0 +1,333 @@
+#ARTIST:Glee Cast
+#TITLE:Boys / Boyfriend
+#MP3:Glee Cast - Boys / Boyfriend.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Pop
+#YEAR:2012
+#LANGUAGE:English
+#BPM:227.65
+#GAP:44080
+#VIDEO:v=xjYYUG6Cqbc,co=https://gleethecovers.files.wordpress.com/2012/09/s04e02-01-boys-boyfriend-06.jpg
+#START:40.0
+F 0 1 6 You 
+F 2 1 6 don’t 
+F 4 1 6 un
+F 6 3 6 der
+F 10 3 6 stand 
+- 23
+F 40 1 6 I’m 
+F 42 3 6 so 
+F 46 1 6 glad 
+F 48 1 6 we’re 
+F 50 1 6 at 
+F 52 1 6 the 
+F 54 3 6 same 
+F 58 3 6 place 
+- 62
+F 64 1 6 At 
+F 66 1 6 the 
+F 68 3 6 same 
+F 72 5 6 time 
+- 86
+F 90 3 6 It’s 
+F 94 1 6 o
+F 96 1 6 ver 
+F 98 5 6 now 
+- 106
+F 108 1 6 I 
+F 110 1 6 spot
+F 112 1 6 ted 
+F 114 3 6 you 
+F 118 3 6 dan
+F 122 3 6 cin’ 
+- 133
+F 136 1 6 You 
+F 138 3 6 made 
+F 142 1 6 all 
+F 144 1 6 the 
+F 146 3 6 boys 
+F 152 5 6 stare 
+- 166
+F 170 3 6 Those 
+F 174 3 6 lips 
+F 178 1 6 and 
+F 180 1 6 your 
+F 182 3 6 brown 
+F 186 5 6 eyes 
+- 199
+F 202 1 6 And 
+F 204 1 6 the 
+F 206 3 6 se
+F 210 1 6 xy 
+F 212 5 6 hair 
+- 228
+F 232 1 6 I 
+F 234 3 6 should 
+F 238 3 6 shake 
+F 242 3 6 my 
+F 246 7 6 thang 
+- 261
+F 264 1 6 I 
+F 266 1 6 make 
+F 268 1 6 the 
+F 270 3 6 world 
+F 274 3 6 want 
+F 278 5 6 you 
+- 294
+F 298 1 6 Tell 
+F 300 1 6 your 
+F 302 3 6 girls 
+F 306 1 6 you’ll 
+F 308 1 6 be 
+F 310 5 6 back 
+- 324
+F 328 1 6 I 
+F 330 1 6 wan
+F 332 1 6 na 
+F 334 1 6 see 
+F 336 1 6 what 
+F 338 1 6 you 
+F 340 1 6 can 
+F 342 3 6 do 
+- 355
+: 370 2 9 What 
+: 374 3 9 would 
+: 378 2 9 it 
+: 382 3 8 take 
+: 386 1 8 for 
+: 388 3 8 you 
+- 392
+: 394 2 8 To 
+: 398 5 8 just 
+: 406 3 8 leave 
+: 410 1 4 with 
+: 412 7 6 me? 
+- 430
+: 434 2 9 Not 
+: 438 3 9 tryin’ 
+: 442 2 9 to 
+: 446 3 8 sound 
+: 450 1 8 con
+: 452 1 8 ceited 
+- 454
+: 456 1 8 But 
+: 458 1 8 me 
+: 460 1 8 and 
+: 462 3 13 you 
+: 466 2 13 were 
+: 470 3 8 meant 
+: 474 1 4 to 
+: 476 7 6 be 
+- 494
+: 498 1 9 You’re 
+: 500 1 9 a 
+: 502 3 9 se
+: 506 1 9 xy 
+: 508 9 8 girl 
+- 526
+: 530 1 8 I’m 
+: 532 1 8 a 
+: 534 3 8 nice
+: 538 1 4 ~ 
+: 540 9 6 guy 
+- 558
+: 562 3 9 Let’s 
+: 566 3 9 turn 
+: 570 3 9 this 
+: 574 5 8 dance 
+: 580 1 8 floor 
+- 582
+: 584 1 8 In
+: 586 1 8 to 
+: 588 1 8 our 
+: 590 3 8 own 
+: 594 1 8 lit
+: 596 1 8 tle 
+: 598 3 8 nas
+: 602 1 4 ty 
+- 604
+: 606 2 4 If 
+: 610 2 6 I 
+: 614 2 6 was 
+: 618 1 4 your 
+: 620 3 9 boy
+: 626 5 6 friend 
+- 634
+: 636 1 9 Some
+: 638 3 11 times 
+: 642 1 9 a 
+: 644 3 11 girl 
+: 648 3 9 just 
+* 652 1 9 needs
+* 654 7 11 ~ 
+: 662 5 6 one 
+- 668
+: 670 2 4 Keep 
+: 674 2 6 you 
+: 678 2 6 on 
+: 682 1 4 my 
+: 684 3 9 arm, 
+: 690 7 6 girl 
+- 699
+: 701 1 9 To 
+: 703 1 11 love 
+: 705 2 9 her 
+* 709 2 11 and 
+* 713 2 16 to 
+: 717 1 11 hold
+: 719 13 13 ~ 
+- 733
+: 735 2 4 I 
+: 739 2 6 can 
+: 743 2 6 be 
+: 747 1 4 a 
+: 749 3 9 gen
+: 753 1 9 tle
+: 755 7 6 man 
+- 763
+: 765 1 9 And 
+: 767 1 11 when 
+: 769 2 9 a 
+: 773 3 11 girl 
+: 777 2 9 is 
+: 781 1 9 with
+: 783 5 11 ~ 
+: 791 5 6 one 
+- 797
+: 799 2 4 If 
+: 803 2 6 I 
+: 807 2 6 was 
+: 811 1 4 your 
+: 813 3 9 boy
+: 819 5 6 friend 
+- 825
+: 827 2 18 Then 
+* 831 1 21 she 
+* 833 2 20 is 
+* 837 1 18 in
+* 839 2 20 ~ 
+: 843 1 16 con
+* 845 13 18 trol 
+- 861
+: 863 2 4 If 
+: 867 2 6 I 
+: 871 2 6 was 
+: 875 1 4 your 
+: 877 3 9 boy
+: 883 7 6 friend 
+- 891
+: 893 1 6 So 
+: 895 2 6 give 
+: 899 3 8 me 
+: 903 2 9 a 
+: 907 3 11 chance
+: 911 11 13 ~ 
+- 923
+: 925 1 6 ’Cause 
+: 927 2 6 you’re 
+: 931 3 8 all 
+: 935 2 9 I 
+: 939 11 16 need
+: 951 2 18 ~ 
+: 955 3 13 girl
+: 959 7 11 ~ 
+- 969
+: 971 1 11 Spend 
+: 973 1 11 a 
+: 975 2 11 week 
+: 979 1 11 with 
+: 981 1 11 your 
+: 983 1 11 boy 
+- 985
+: 987 1 11 I’ll 
+: 989 1 11 be 
+: 991 1 11 cal
+: 993 1 11 ling 
+: 995 1 11 you 
+: 997 1 11 my 
+: 999 2 11 girl
+: 1003 11 9 friend 
+- 1017
+: 1019 2 6 If 
+: 1023 3 6 I 
+: 1027 2 8 was 
+: 1031 2 9 your 
+: 1035 3 11 man
+: 1039 7 13 ~ 
+- 1052
+: 1055 2 6 I’d 
+: 1059 3 8 ne
+: 1063 2 9 ver 
+: 1067 3 14 leave
+: 1071 7 16 ~ 
+: 1079 2 18 you, 
+: 1083 3 13 girl
+: 1087 9 11 ~ 
+- 1102
+: 1104 3 13 I 
+: 1108 2 14 just 
+: 1112 3 13 want 
+: 1116 2 14 to 
+: 1120 3 13 love 
+: 1124 1 6 you 
+: 1126 1 6 and 
+: 1128 3 9 treat 
+* 1132 1 6 you
+* 1134 1 9 ~ 
+: 1136 7 6 right 
+- 1149
+: 1152 1 13 Na, 
+: 1154 1 13 na, 
+: 1156 3 13 na 
+- 1165
+: 1168 1 11 Na, 
+: 1170 1 11 na, 
+: 1172 3 11 na 
+- 1181
+: 1184 2 4 If 
+: 1188 2 6 I 
+: 1192 2 6 was 
+: 1196 1 4 your 
+: 1198 3 9 boy
+: 1204 5 6 friend 
+- 1214
+: 1216 1 13 Na, 
+: 1218 1 13 na, 
+: 1220 3 13 na, 
+- 1229
+: 1232 1 11 Na, 
+: 1234 1 11 na, 
+: 1236 3 11 na 
+- 1245
+: 1248 2 16 Na, 
+: 1252 2 13 na 
+- 1258
+* 1260 3 11 Hey
+* 1264 11 13 ~ 
+- 1278
+: 1280 1 13 Na, 
+: 1282 1 13 na, 
+: 1284 3 13 na 
+- 1293
+: 1296 1 11 Na, 
+: 1298 1 11 na, 
+: 1300 3 11 na 
+- 1309
+: 1312 2 4 If 
+: 1316 2 6 I 
+: 1320 2 6 was 
+: 1324 1 4 your 
+: 1326 3 9 boy
+: 1332 7 6 friend 
+- 1342
+F 1344 2 6 Can’t 
+F 1347 2 6 live 
+F 1350 1 6 with 
+F 1352 3 6 ’em 
+- 1364
+F 1368 3 6 Can’t 
+F 1372 2 6 live 
+F 1375 2 6 with
+F 1378 2 6 out 
+F 1381 2 6 ’em. 
+E

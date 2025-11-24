@@ -1,0 +1,566 @@
+#ARTIST:Masterboy
+#TITLE:Feel The Heat Of The Night
+#MP3:Masterboy - Feel The Heat Of The Night.mp3
+#CREATOR:Fepo
+#YEAR:1994
+#LANGUAGE:English
+#BPM:280
+#GAP:40970
+#VIDEO:v=IBnshjEceKA,co=feel-the-heat-of-the-night-562f026e45741.jpg,bg=masterboy-59059d0fdf035.jpg
+: 0 2 2 Feel 
+: 4 2 2 the 
+: 8 2 2 heat 
+: 12 2 4 of 
+: 16 2 2 the 
+: 20 8 4 night 
+- 30
+: 36 2 5 Eve
+: 40 2 7 ~
+: 44 2 7 ry
+: 48 2 6 thing’s 
+: 52 2 4 all 
+: 56 3 2 right 
+- 61
+: 64 2 2 Feel 
+: 68 2 2 the 
+: 72 2 2 po
+: 76 2 4 wer 
+: 80 2 4 of 
+: 84 2 2 my 
+: 88 4 4 heart 
+- 94
+: 100 2 5 Gi
+: 104 2 7 ~ve 
+: 108 2 7 me 
+: 112 2 6 all 
+: 116 2 4 your 
+: 120 2 2 love 
+- 124
+: 128 2 2 Feel 
+: 132 2 2 the 
+: 136 2 2 heat 
+: 140 2 4 of 
+: 144 2 2 the 
+: 148 7 4 night 
+- 157
+: 164 2 5 Eve
+: 168 2 7 ~
+: 172 2 7 ry
+: 176 2 6 thing’s 
+: 180 2 4 all 
+: 184 3 2 right 
+- 189
+: 192 2 2 Feel 
+: 196 2 2 the 
+: 200 2 2 po
+: 204 2 4 wer 
+: 208 2 4 of 
+: 212 2 2 my 
+: 216 4 4 heart 
+- 222
+: 228 2 4 Gi
+: 232 2 7 ~ve 
+: 236 2 4 me 
+: 240 2 7 all 
+: 244 2 4 your 
+: 248 2 7 lo
+: 252 4 9 ~ve 
+- 258
+: 264 4 4 All 
+: 272 2 7 you 
+: 276 4 7 need 
+: 284 3 4 is 
+: 292 6 7 feel 
+: 300 5 4 right 
+: 308 6 7 no
+: 316 5 9 ~w 
+- 323
+: 328 5 4 All 
+: 336 2 7 you 
+: 340 4 7 need 
+: 348 3 4 is 
+: 356 6 7 feel 
+: 364 2 2 ri
+: 368 2 4 ~ght 
+: 372 5 2 no
+: 380 4 0 ~w 
+- 386
+: 392 4 4 All 
+: 400 2 7 you 
+: 404 4 7 need 
+: 412 3 4 is 
+: 420 6 7 feel 
+: 428 5 4 right 
+: 436 6 7 no
+: 444 5 9 ~w 
+- 451
+: 456 5 4 All 
+: 464 2 7 you 
+: 468 4 7 need 
+: 476 3 4 is 
+* 484 2 11 fee
+* 488 2 12 ~l 
+* 492 4 11 my 
+* 500 20 9 love 
+- 522
+F 776 3 0 Jum
+F 780 2 0 pin’, 
+F 784 3 0 jump
+F 788 2 0 in’ 
+F 792 2 0 up 
+F 795 2 0 and 
+F 798 4 0 down 
+- 804
+F 808 2 0 From 
+F 812 1 0 the 
+F 815 2 0 top 
+F 818 3 0 right 
+F 824 2 0 to 
+F 827 1 0 the 
+F 830 4 0 ground 
+- 836
+F 840 2 0 Free 
+F 843 2 0 your 
+F 846 3 0 soul 
+F 851 3 0 and 
+F 857 1 0 free 
+F 859 2 0 your 
+F 862 4 0 mind 
+- 868
+F 869 2 0 Now 
+F 873 1 0 set 
+F 875 3 0 you 
+F 881 3 0 free, 
+F 888 3 0 right 
+F 892 2 0 on 
+F 896 1 0 time 
+- 899
+F 900 2 0 It’s 
+F 905 2 0 week
+F 908 3 0 end 
+F 913 2 0 and 
+F 916 2 0 it’s 
+F 920 2 0 par
+F 923 2 0 ty
+F 927 4 0 time 
+- 933
+F 937 2 0 Feel 
+F 940 1 0 the 
+F 942 2 0 heat 
+F 946 3 0 and 
+F 953 2 0 free 
+F 956 1 0 your 
+F 958 4 0 mind 
+- 964
+F 969 2 0 Put 
+F 972 1 0 your 
+F 974 4 0 hands 
+F 980 2 0 up 
+F 984 2 0 in 
+F 988 1 0 the 
+F 990 3 0 air 
+- 995
+F 996 2 0 And 
+F 1000 2 0 wave 
+F 1003 2 0 ’em 
+F 1006 3 0 like 
+F 1011 3 0 you 
+F 1016 2 0 just 
+F 1020 2 0 don’t 
+F 1025 3 0 care 
+- 1030
+F 1033 2 0 Feel 
+F 1036 1 0 the 
+F 1038 1 0 rhy
+F 1040 2 0 thm 
+- 1044
+F 1048 2 0 Stay 
+F 1052 2 0 real 
+F 1056 4 0 tight 
+- 1062
+F 1065 2 0 Feel 
+F 1068 1 0 the 
+F 1070 3 0 heat 
+- 1075
+F 1080 2 0 Feel 
+F 1083 2 0 the 
+F 1086 3 0 night 
+- 1091
+F 1096 2 0 Let 
+F 1099 2 0 the 
+F 1102 4 0 groove 
+F 1108 3 0 con
+F 1113 1 0 trol 
+F 1115 2 0 your 
+F 1118 3 0 move 
+- 1123
+F 1128 3 0 Shake 
+F 1132 1 0 your 
+F 1134 4 0 bud 
+F 1140 3 0 and 
+F 1145 2 0 make 
+F 1149 1 0 me 
+F 1151 2 0 hot 
+- 1155
+F 1160 2 0 Par
+F 1164 2 0 ty 
+F 1167 2 0 peo
+F 1170 2 0 ple, 
+F 1176 2 0 par
+F 1179 2 0 ty 
+F 1182 4 0 dance 
+- 1188
+F 1192 2 0 Shake 
+F 1195 2 0 your 
+F 1198 2 0 bo
+F 1201 1 0 dy 
+F 1203 2 0 and 
+F 1208 3 0 wave 
+F 1212 2 0 your 
+F 1216 3 0 hands 
+- 1221
+F 1224 1 0 You 
+F 1226 2 0 know 
+F 1230 3 0 how 
+F 1235 3 0 to 
+F 1240 1 0 do 
+F 1242 2 0 it 
+F 1246 3 0 right 
+- 1251
+F 1256 2 0 Feel 
+F 1260 1 0 the 
+F 1263 4 0 heat 
+F 1272 2 0 of 
+F 1276 1 0 the 
+F 1278 1 0 night 
+- 1280
+: 1280 2 2 Feel 
+: 1284 2 2 the 
+: 1288 2 2 heat 
+: 1292 2 4 of 
+: 1296 2 2 the 
+: 1300 7 4 night 
+- 1309
+: 1316 2 5 Eve
+: 1320 2 7 ~
+: 1324 2 7 ry
+: 1328 2 6 thing’s 
+: 1332 2 4 all 
+: 1336 3 2 right 
+- 1341
+: 1344 2 2 Feel 
+: 1348 2 2 the 
+: 1352 2 2 po
+: 1356 2 4 wer 
+: 1360 2 4 of 
+: 1364 2 2 my 
+: 1368 4 4 heart 
+- 1374
+: 1380 2 5 Gi
+: 1384 2 7 ~ve 
+: 1388 2 7 me 
+: 1392 2 6 all 
+: 1396 2 4 your 
+: 1400 2 2 love 
+- 1404
+: 1408 2 2 Feel 
+: 1412 2 2 the 
+: 1416 2 2 heat 
+: 1420 2 4 of 
+: 1424 2 2 the 
+: 1428 7 4 night 
+- 1437
+: 1444 2 6 Eve
+: 1448 2 7 ~
+: 1452 2 7 ry
+: 1456 2 6 thing’s 
+: 1460 2 4 all 
+: 1464 3 2 right 
+- 1469
+: 1472 2 2 Feel 
+: 1476 2 2 the 
+: 1480 2 2 po
+: 1484 2 4 wer 
+: 1488 2 4 of 
+: 1492 2 2 my 
+: 1496 4 4 heart 
+- 1502
+: 1508 2 4 Gi
+: 1512 2 7 ~ve 
+: 1516 2 4 me 
+: 1520 2 7 all 
+: 1524 2 4 your 
+: 1528 2 7 lo
+: 1532 4 9 ~ve 
+- 1538
+: 1544 4 4 All 
+: 1552 2 7 you 
+: 1556 4 7 need 
+: 1564 3 4 is 
+: 1572 6 7 feel 
+: 1580 5 4 right 
+: 1588 6 7 no
+: 1596 5 9 ~w 
+- 1603
+: 1608 5 4 All 
+: 1616 2 7 you 
+: 1620 4 7 need 
+: 1628 3 4 is 
+: 1636 6 7 feel 
+: 1644 2 2 ri
+: 1648 2 4 ~ght 
+: 1652 5 2 no
+: 1660 4 0 ~w 
+- 1666
+: 1672 4 4 All 
+: 1680 2 7 you 
+: 1684 4 7 need 
+: 1692 3 4 is 
+: 1700 6 7 feel 
+: 1708 5 4 right 
+: 1716 6 7 no
+: 1724 5 9 ~w 
+- 1731
+: 1736 5 4 All 
+: 1744 2 7 you 
+: 1748 4 7 need 
+: 1756 3 4 is 
+* 1764 2 11 fee
+* 1768 2 12 ~l 
+* 1772 4 11 my 
+* 1780 20 9 love 
+- 1802
+F 2056 3 0 Pump
+F 2060 2 0 in’, 
+F 2064 3 0 stomp
+F 2068 2 0 in’, 
+F 2073 1 0 peo
+F 2075 2 0 ple 
+F 2078 3 0 jump
+F 2082 2 0 in’ 
+- 2086
+F 2088 3 0 Peo
+F 2092 2 0 ple 
+F 2096 3 0 dan
+F 2100 2 0 cing 
+F 2104 2 0 e
+F 2108 1 0 very
+F 2110 4 0 where 
+- 2116
+F 2118 1 0 The 
+F 2120 2 0 D
+F 2123 3 0 J’s 
+F 2128 2 0 play
+F 2131 2 0 ing 
+F 2134 2 0 mu
+F 2138 1 0 sic 
+F 2140 4 0 loud 
+- 2146
+F 2147 3 0 So 
+F 2152 3 0 wave 
+F 2156 1 0 your 
+F 2158 3 0 hands 
+F 2163 3 0 up 
+F 2168 2 0 in 
+F 2172 1 0 the 
+F 2174 4 0 air 
+- 2180
+F 2184 3 0 Move 
+F 2188 1 0 your 
+F 2190 2 0 bo
+F 2194 1 0 dy 
+F 2196 2 0 and 
+F 2200 2 0 shake 
+F 2204 2 0 your 
+F 2207 3 0 bud 
+- 2212
+F 2214 1 0 The 
+F 2216 1 0 rhy
+F 2218 2 0 thm 
+F 2221 3 0 of 
+F 2226 2 0 the 
+F 2229 2 0 mu
+F 2233 3 0 sic’s 
+F 2238 3 0 hot 
+- 2243
+F 2244 2 0 I 
+F 2248 2 0 see 
+F 2251 2 0 you 
+F 2254 2 0 do 
+F 2258 2 0 your 
+F 2264 3 0 turn
+F 2268 1 0 a
+F 2270 3 0 round 
+- 2275
+F 2280 2 0 On 
+F 2284 1 0 the 
+F 2286 3 0 dance
+F 2291 3 0 floor 
+F 2296 2 0 up 
+F 2300 3 0 and 
+F 2305 3 0 down 
+- 2310
+F 2312 2 0 Par
+F 2316 1 0 ty, 
+F 2318 3 0 par
+F 2323 2 0 ty, 
+F 2328 2 0 peo
+F 2331 2 0 ple 
+F 2334 2 0 par
+F 2338 2 0 ty 
+- 2342
+F 2345 2 0 Par
+F 2348 2 0 ty 
+F 2352 2 0 peo
+F 2355 2 0 ple, 
+F 2360 2 0 par
+F 2363 2 0 ty 
+F 2366 4 0 dance 
+- 2372
+F 2376 1 0 Come 
+F 2378 2 0 on 
+F 2382 3 0 peo
+F 2386 2 0 ple 
+F 2391 2 0 move 
+F 2395 2 0 your 
+F 2398 2 0 bo
+F 2401 2 0 dy 
+- 2405
+F 2408 2 0 Shake 
+F 2412 2 0 your 
+F 2415 2 0 bo
+F 2418 1 0 dy 
+F 2420 3 0 and 
+F 2424 3 0 wave 
+F 2428 2 0 your 
+F 2431 3 0 hands 
+- 2436
+F 2440 2 0 Sweat 
+F 2444 2 0 is 
+F 2448 3 0 drop
+F 2453 2 0 ping 
+F 2456 1 0 o
+F 2458 1 0 ver 
+F 2460 1 0 my 
+F 2463 2 0 face 
+- 2467
+F 2468 3 0 I 
+F 2473 2 0 feel 
+F 2476 2 0 your 
+F 2480 3 0 sex 
+F 2484 3 0 right 
+F 2489 2 0 in 
+F 2492 2 0 this 
+F 2496 3 0 place 
+- 2501
+F 2505 2 0 Got 
+F 2508 1 0 to 
+F 2510 2 0 get 
+F 2514 3 0 this 
+F 2520 1 0 rhy
+F 2522 2 0 thm 
+F 2526 4 0 right 
+- 2532
+F 2536 2 0 Feel 
+F 2540 1 0 the 
+F 2542 3 0 heat 
+F 2552 2 0 of 
+F 2556 1 0 the 
+F 2558 1 0 night 
+- 2560
+: 2560 2 2 Feel 
+: 2564 2 2 the 
+: 2568 2 2 heat 
+: 2572 2 4 of 
+: 2576 2 2 the 
+: 2580 7 4 night 
+- 2589
+: 2596 2 5 Eve
+: 2600 2 7 ~
+: 2604 2 7 ry
+: 2608 2 6 thing’s 
+: 2612 2 4 all 
+: 2616 3 2 right 
+- 2621
+: 2624 2 2 Feel 
+: 2628 2 2 the 
+: 2632 2 2 po
+: 2636 2 4 wer 
+: 2640 2 4 of 
+: 2644 2 2 my 
+: 2648 4 4 heart 
+- 2654
+: 2660 2 5 Gi
+: 2664 2 7 ~ve 
+: 2668 2 7 me 
+: 2672 2 6 all 
+: 2676 2 4 your 
+: 2680 3 2 love 
+- 2685
+: 2688 2 2 Feel 
+: 2692 2 2 the 
+: 2696 2 2 heat 
+: 2700 2 4 of 
+: 2704 2 2 the 
+: 2708 7 4 night 
+- 2717
+: 2724 2 6 Eve
+: 2728 2 7 ~
+: 2732 2 7 ry
+: 2736 2 6 thing’s 
+: 2740 2 4 all 
+: 2744 3 2 right 
+- 2749
+: 2752 2 2 Feel 
+: 2756 2 2 the 
+: 2760 2 2 po
+: 2764 2 4 wer 
+: 2768 2 4 of 
+: 2772 2 2 my 
+: 2776 3 4 heart 
+- 2781
+: 2788 2 4 Gi
+: 2792 2 7 ~ve 
+* 2796 2 4 me 
+* 2800 2 7 all 
+* 2804 2 4 your 
+: 2808 2 7 lo
+: 2812 4 9 ~ve 
+- 2818
+: 2824 4 4 All 
+: 2832 2 7 you 
+: 2836 4 7 need 
+: 2844 3 4 is 
+: 2852 6 7 feel 
+: 2860 5 4 right 
+: 2868 6 7 no
+: 2876 5 9 ~w 
+- 2883
+: 2888 5 4 All 
+: 2896 2 7 you 
+: 2900 4 7 need 
+: 2908 3 4 is 
+: 2916 6 7 feel 
+: 2924 2 2 ri
+: 2928 2 4 ~ght 
+: 2932 5 2 no
+: 2940 4 0 ~w 
+- 2946
+: 2952 4 4 All 
+: 2960 2 7 you 
+: 2964 4 7 need 
+: 2972 3 4 is 
+: 2980 6 7 feel 
+: 2988 5 4 right 
+: 2996 6 7 no
+: 3004 5 9 ~w 
+- 3011
+: 3016 5 4 All 
+: 3024 2 7 you 
+: 3028 4 7 need 
+: 3036 3 4 is 
+* 3044 2 11 fee
+* 3048 2 12 ~l 
+* 3052 4 11 my 
+* 3060 20 9 love 
+E

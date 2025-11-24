@@ -1,0 +1,313 @@
+#ARTIST:Harry Belafonte
+#TITLE:Island In The Sun
+#MP3:Harry Belafonte - Island In The Sun.mp3
+#CREATOR:Canni, servok
+#GENRE:Calypso
+#YEAR:1957
+#LANGUAGE:English
+#BPM:376
+#GAP:880
+#VIDEO:a=PnAV62l_Fyk,co=https://i.discogs.com/B3ZoSupyd7Drj1q17jmd0mFNoZDOu21Bl3nGUOar0ok/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODY3/NDMtMTU2NzY0NTU4/OS01MDA5LmpwZWc.jpeg,bg=belafonte-harry-57f81b9d37c20.jpg,preview=0.82,medley=0-1100
+: 0 11 9 This 
+: 12 7 9 is 
+: 20 11 9 my 
+* 32 7 14 is
+* 40 18 14 land 
+- 62
+: 64 4 11 In 
+: 70 5 11 the 
+* 78 34 14 sun 
+: 136 7 13 where 
+: 144 6 14 my 
+: 152 7 13 peo
+: 160 3 13 ple 
+- 164
+: 164 7 13 Have 
+: 172 19 11 toiled 
+: 192 15 11 since 
+: 208 7 11 time 
+: 216 7 9 be
+: 224 24 9 gun 
+- 250
+: 288 4 6 I 
+: 294 8 6 may 
+: 304 26 11 sail 
+: 332 7 9 on 
+: 343 5 9 ma
+: 349 2 7 ny 
+: 352 2 7 a 
+: 358 24 7 sea 
+- 385
+: 411 4 7 Her 
+: 418 18 6 shores 
+: 437 7 7 will 
+: 446 7 9 al
+: 454 4 7 way
+: 459 4 6 ~
+: 464 3 4 ~
+: 468 3 2 ~
+: 472 4 1 ~s 
+* 478 11 1 be 
+* 490 27 4 home 
+* 518 6 1 to 
+* 525 36 2 me 
+- 560
+: 594 11 6 Oh, 
+: 610 13 6 is
+: 625 25 6 land 
+: 660 5 7 in 
+: 666 5 7 the 
+: 674 32 7 sun, 
+- 706
+: 724 11 4 Willed 
+: 736 7 4 to 
+: 744 21 4 me 
+: 767 6 2 by 
+: 774 6 4 my 
+: 783 8 7 fa
+: 792 5 6 ther’s 
+: 798 32 6 hand, 
+- 832
+: 838 14 2 All 
+: 854 6 2 my 
+: 862 18 2 days 
+: 884 6 4 I 
+: 892 11 6 will 
+: 906 7 7 sing 
+: 916 7 7 in 
+: 925 27 -1 praise 
+- 956
+: 958 7 4 Of 
+: 966 3 2 your 
+: 972 7 1 fo
+: 980 15 1 rests, 
+: 996 11 1 wa
+: 1008 9 -1 ters, 
+: 1018 6 1 your 
+: 1026 11 4 shi
+: 1038 3 2 ning 
+: 1044 56 2 sands 
+- 1099
+: 1225 9 9 As 
+: 1236 7 9 mor
+: 1244 7 9 ning 
+: 1252 16 14 breaks 
+: 1280 6 14 the 
+: 1288 5 11 hea
+: 1294 3 11 ven 
+: 1298 5 11 on 
+* 1305 28 14 high 
+- 1335
+: 1341 7 13 I 
+: 1350 11 13 lift 
+: 1362 7 13 my 
+: 1370 6 11 hea
+: 1377 2 11 vy 
+: 1380 23 11 load 
+: 1406 7 11 to 
+: 1414 3 9 the 
+: 1419 25 9 sky 
+- 1450
+: 1472 12 6 Sun 
+: 1485 11 6 comes 
+: 1498 23 11 down 
+: 1521 3 9 with 
+: 1525 4 9 a 
+: 1532 8 9 bur
+: 1541 6 7 ning 
+: 1548 24 7 glow 
+- 1574
+: 1584 7 6 Min
+: 1592 7 6 gles 
+: 1600 3 7 my 
+: 1606 20 9 sweat 
+: 1631 7 6 with 
+: 1639 11 2 the 
+: 1652 15 4 earth 
+: 1669 6 2 be
+: 1676 20 2 low 
+- 1698
+: 1724 15 6 Oh, 
+: 1740 11 6 is
+: 1754 15 6 land 
+: 1770 9 7 in 
+: 1780 6 7 the 
+: 1788 20 7 sun, 
+- 1811
+: 1829 16 4 Willed 
+: 1846 6 4 to 
+: 1854 11 4 me 
+: 1868 7 2 by 
+: 1876 14 4 my 
+: 1892 11 7 fa
+: 1904 11 6 ther’s 
+: 1916 24 6 hand 
+- 1940
+: 1954 15 2 All 
+: 1970 7 2 my 
+: 1978 15 2 days 
+: 1994 3 4 I 
+: 1999 10 6 will 
+* 2012 12 7 sing 
+* 2026 11 7 in 
+* 2038 14 -1 praise 
+- 2056
+: 2056 3 4 Of 
+: 2060 11 2 your 
+: 2072 11 1 fo
+: 2084 9 1 rests, 
+: 2098 15 1 wa
+: 2114 7 -1 ters, 
+: 2123 7 1 your 
+: 2132 11 4 shi
+: 2144 11 2 ning 
+: 2158 38 2 sands. 
+- 2205
+: 2331 9 9 I 
+: 2342 9 9 see 
+: 2353 7 14 wo
+: 2361 7 14 man 
+: 2370 11 14 on 
+: 2383 11 11 ben
+: 2396 7 11 ded 
+: 2405 35 14 knee 
+- 2444
+: 2458 7 13 Cut
+: 2466 7 13 ting 
+: 2474 23 11 cane 
+: 2498 7 11 for 
+: 2506 3 11 her 
+: 2513 7 11 fa
+: 2521 4 9 mi
+: 2526 24 9 ly
+- 2551
+: 2581 7 6 I 
+: 2590 10 6 see 
+* 2604 20 11 man 
+: 2628 4 9 at 
+: 2634 5 9 the 
+: 2640 7 9 wa
+: 2648 7 7 ters 
+: 2656 24 7 side 
+- 2682
+: 2688 15 6 Cas
+: 2704 7 7 ting 
+: 2712 20 9 nets 
+: 2740 7 6 at 
+: 2748 3 2 the 
+: 2755 8 4 sur
+: 2764 7 1 ging 
+: 2772 32 2 tide 
+- 2802
+: 2824 15 6 Oh, 
+: 2840 11 6 is
+: 2854 13 6 land 
+: 2869 9 7 in 
+: 2880 7 7 the 
+: 2888 28 7 sun, 
+- 2920
+: 2930 17 4 Willed 
+: 2948 7 4 to 
+: 2956 11 4 me 
+: 2968 7 2 by 
+: 2976 15 4 my 
+: 2994 9 7 fa
+: 3004 9 6 ther’s 
+: 3014 24 6 hand 
+- 3038
+: 3052 11 2 All 
+: 3066 11 2 my 
+: 3078 11 2 days 
+: 3092 6 4 I 
+: 3099 10 6 will 
+: 3111 11 7 sing 
+: 3124 9 7 in 
+: 3135 15 -1 praise 
+- 3152
+: 3152 4 4 Of 
+: 3157 11 2 your 
+: 3170 11 1 fo
+: 3182 14 1 rests, 
+: 3198 14 1 wa
+: 3213 6 -1 ters, 
+: 3220 7 1 your 
+: 3230 13 4 shi
+: 3244 7 2 ning 
+* 3254 58 2 sands 
+- 3312
+: 3430 10 10 I 
+: 3442 7 10 hope 
+: 3450 3 10 the 
+* 3454 26 15 day 
+: 3482 5 15 will 
+: 3489 7 12 ne
+: 3497 3 12 ver 
+* 3502 28 15 come 
+- 3530
+: 3552 5 14 That 
+: 3558 3 15 I 
+: 3564 7 14 can’t 
+: 3573 3 14 a 
+: 3577 19 12 wake 
+: 3599 4 12 to 
+: 3604 3 14 the 
+: 3609 11 12 sound 
+: 3621 4 10 of 
+: 3627 20 10 drum 
+- 3649
+: 3659 15 7 Ne
+: 3675 7 7 ver 
+: 3684 11 12 let 
+: 3696 6 12 me 
+: 3704 11 10 miss 
+: 3718 15 10 Car
+: 3734 7 8 ni
+: 3742 28 8 val 
+- 3767
+: 3781 5 7 With 
+: 3788 5 8 Ca
+: 3794 5 7 lyp
+: 3800 6 8 so 
+: 3808 19 10 songs 
+: 3830 7 7 phi
+: 3838 4 3 lo
+: 3844 7 5 so
+: 3852 7 2 phi
+: 3860 20 3 cal 
+- 3882
+: 3916 13 7 Oh, 
+: 3930 12 7 is
+: 3944 13 7 land 
+: 3958 9 8 in 
+: 3970 7 8 the 
+: 3981 23 8 sun, 
+- 4005
+: 4019 15 5 Willed 
+: 4035 5 5 to 
+: 4042 14 5 me 
+: 4057 6 3 by 
+: 4064 11 5 my 
+: 4078 11 8 fa
+: 4090 11 7 ther’s 
+: 4102 20 7 hand 
+- 4122
+: 4144 11 3 All 
+: 4156 7 3 my 
+: 4164 15 3 days 
+: 4180 6 5 I 
+: 4187 7 7 will 
+* 4197 13 8 sing 
+* 4212 10 8 in 
+* 4224 16 0 praise 
+- 4243
+: 4243 3 5 Of 
+: 4247 10 3 your 
+: 4260 9 2 fo
+: 4270 11 2 rests, 
+: 4283 15 2 wa
+: 4299 9 0 ters, 
+: 4309 7 2 your 
+: 4320 13 5 shi
+: 4334 7 3 ning 
+: 4342 44 3 sands … 
+E

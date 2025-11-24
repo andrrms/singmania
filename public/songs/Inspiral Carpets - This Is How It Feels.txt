@@ -1,0 +1,277 @@
+#ARTIST:Inspiral Carpets
+#TITLE:This Is How It Feels
+#MP3:Inspiral Carpets - This Is How It Feels.mp3
+#CREATOR:daggeg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:357.62
+#GAP:18050
+#VIDEO:v=J-fX0UbpZls,co=https://m.media-amazon.com/images/I/71nmu1x-y+L.jpg,bg=inspiral-carpets-53308c3483b12.jpg
+: 0 6 3 Hus
+: 12 10 6 band 
+: 24 10 6 don’t 
+: 36 10 6 know 
+: 48 4 8 what 
+: 54 4 3 he’s
+: 59 4 1 ~ 
+: 66 10 3 done 
+- 78
+: 94 6 6 Kids 
+: 106 10 6 don’t 
+: 118 10 6 know 
+: 130 7 6 what’s 
+: 142 9 8 wrong 
+: 154 5 3 with 
+: 161 8 3 mum 
+- 171
+: 190 4 6 She 
+: 196 8 6 can’t 
+: 207 26 6 say, 
+* 235 5 8 they 
+* 241 5 3 can’t
+* 247 4 1 ~ 
+: 253 17 3 see 
+- 272
+: 283 4 6 Put
+: 288 5 6 ting 
+: 294 4 6 it 
+: 300 14 6 down 
+: 317 5 6 to 
+: 323 5 6 an
+: 329 5 8 o
+: 335 5 3 ther 
+: 342 8 3 bad 
+: 354 10 3 day 
+- 366
+: 375 5 6 Dad
+: 381 5 6 dy 
+: 387 9 6 don’t 
+: 399 5 3 know 
+: 405 5 3 what 
+: 411 3 1 he’s 
+: 417 39 3 done 
+- 458
+: 470 5 6 Kids 
+: 482 10 6 don’t 
+* 494 10 6 know 
+: 506 7 6 what’s 
+: 517 10 3 wrong 
+: 529 5 1 with 
+: 536 8 3 mum 
+- 546
+: 558 4 -1 So 
+: 564 4 3 this 
+: 570 4 3 is 
+: 576 4 3 how 
+: 582 4 3 it 
+: 588 4 3 feels 
+: 594 4 1 to 
+: 600 4 -1 be 
+: 607 11 3 lone
+: 619 27 1 ly 
+- 648
+: 660 4 3 This 
+: 666 4 3 is 
+: 672 4 3 how 
+: 678 4 3 it 
+: 684 4 3 feels 
+: 690 4 1 to 
+: 696 4 -1 be 
+: 703 38 -1 small 
+- 743
+: 756 4 3 This 
+: 762 4 3 is 
+* 768 4 3 how 
+: 774 4 3 it 
+: 780 10 3 feels 
+: 793 4 -1 when 
+* 799 4 -1 your 
+* 805 8 1 word 
+* 817 8 1 means 
+: 829 5 1 no
+: 835 4 -1 thing 
+: 841 4 -2 at 
+: 847 45 -1 all 
+- 894
+: 960 6 6 Black 
+: 972 9 6 car 
+: 984 8 6 drives 
+: 995 11 8 through 
+: 1008 4 3 the 
+: 1014 18 3 town 
+- 1034
+: 1054 11 6 Some 
+: 1067 10 6 guy 
+: 1079 4 6 from 
+: 1085 4 6 the 
+: 1091 4 3 top 
+: 1097 6 3 e
+: 1104 3 1 ~
+: 1110 15 3 state 
+- 1127
+: 1151 4 6 Left 
+: 1157 4 6 a 
+: 1163 6 6 note 
+: 1175 4 6 for 
+: 1181 4 6 a 
+: 1187 5 8 lo
+: 1193 10 3 cal 
+* 1205 13 3 girl 
+- 1220
+: 1240 4 6 And 
+: 1246 4 6 yet 
+: 1252 4 6 he 
+: 1258 9 6 had 
+: 1270 6 6 it 
+: 1282 4 3 all 
+: 1288 4 3 on 
+: 1294 4 1 a 
+: 1300 7 3 plate 
+- 1309
+: 1323 4 -1 So 
+: 1329 4 3 this 
+: 1335 4 3 is 
+: 1341 4 3 how 
+: 1347 4 3 it 
+: 1353 4 3 feels 
+: 1359 4 1 to 
+: 1365 4 -1 be 
+: 1372 11 3 lone
+: 1384 27 1 ly 
+- 1413
+: 1426 4 3 This 
+: 1432 4 3 is 
+* 1438 4 3 how 
+* 1444 4 3 it 
+* 1450 4 3 feels 
+: 1456 4 1 to 
+: 1462 4 -1 be 
+: 1469 38 -1 small 
+- 1509
+: 1521 4 3 This 
+: 1527 4 3 is 
+: 1533 4 3 how 
+: 1539 4 3 it 
+: 1545 10 3 feels 
+: 1558 4 -1 when 
+: 1564 4 -1 your 
+: 1570 8 1 word 
+: 1582 8 1 means 
+: 1594 5 1 no
+: 1600 4 -1 thing 
+: 1606 4 -2 at 
+: 1612 45 -1 all 
+- 1659
+: 2476 6 6 Hus
+: 2488 10 6 band 
+: 2500 10 6 don’t 
+: 2512 10 6 know 
+: 2524 4 8 what 
+: 2530 4 3 he’s
+: 2535 4 1 ~ 
+: 2542 10 3 done 
+- 2554
+: 2573 6 6 Kids 
+: 2585 10 6 don’t 
+: 2597 10 6 know 
+: 2609 7 6 what’s 
+* 2621 9 8 wrong 
+: 2633 5 3 with 
+: 2640 8 3 mum 
+- 2650
+: 2668 4 6 She 
+: 2674 8 6 can’t 
+: 2685 28 6 say, 
+: 2715 5 8 they 
+: 2721 9 3 can’t 
+: 2734 15 3 see 
+- 2751
+: 2763 4 6 Put
+: 2768 5 6 ting 
+: 2774 4 6 it 
+: 2780 14 6 down 
+: 2797 5 6 to 
+: 2803 5 6 an
+: 2809 5 8 o
+: 2815 5 3 ther 
+: 2821 8 3 bad 
+: 2833 10 3 day 
+- 2845
+: 2850 4 -1 So 
+: 2856 4 3 this 
+: 2862 4 3 is 
+: 2868 4 3 how 
+: 2874 4 3 it 
+: 2880 4 3 feels 
+: 2886 4 1 to 
+: 2892 4 -1 be 
+: 2898 12 3 lone
+: 2911 27 1 ly 
+- 2940
+* 2952 4 3 This 
+* 2958 4 3 is 
+* 2964 4 3 how 
+: 2970 4 3 it 
+: 2976 4 3 feels 
+: 2982 4 1 to 
+: 2988 4 -1 be 
+: 2994 38 -1 small 
+- 3034
+: 3048 4 3 This 
+: 3054 4 3 is 
+: 3060 4 3 how 
+: 3066 4 3 it 
+: 3072 10 3 feels 
+: 3084 4 -1 when 
+: 3090 4 -1 your 
+: 3096 8 1 word 
+: 3108 8 1 means 
+: 3120 5 1 no
+: 3126 4 -1 thing 
+: 3132 4 -2 at 
+: 3138 45 -1 all 
+- 3185
+: 3234 4 -1 So 
+: 3240 4 3 this 
+: 3246 4 3 is 
+: 3252 4 3 how 
+: 3258 4 3 it 
+: 3264 4 3 feels 
+: 3270 4 1 to 
+: 3276 4 -1 be 
+* 3282 12 3 lone
+* 3295 27 1 ly 
+- 3324
+: 3336 4 3 This 
+: 3342 4 3 is 
+: 3348 4 3 how 
+: 3354 4 3 it 
+: 3360 4 3 feels 
+: 3366 4 1 to 
+: 3372 4 -1 be 
+: 3378 38 -1 small 
+- 3418
+: 3432 4 3 This 
+: 3438 4 3 is 
+: 3444 4 3 how 
+: 3450 4 3 it 
+: 3456 10 3 feels 
+: 3468 4 -1 when 
+: 3474 4 -1 your 
+: 3480 8 1 word 
+: 3492 8 1 means 
+: 3504 5 1 no
+: 3510 4 -1 thing 
+: 3516 4 -2 at 
+: 3522 45 -1 all 
+- 3569
+: 3697 5 1 No
+: 3703 4 -1 thing 
+: 3709 4 -2 at 
+: 3715 52 -1 all 
+- 3769
+* 3891 5 1 No
+* 3897 4 -1 thing 
+* 3903 4 -2 at 
+* 3909 51 -1 all 
+E

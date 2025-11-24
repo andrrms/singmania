@@ -1,0 +1,265 @@
+#ARTIST:The Pogues
+#TITLE:A Rainy Night In Soho
+#MP3:The Pogues - A Rainy Night In Soho.mp3
+#CREATOR:choosie
+#YEAR:1986
+#LANGUAGE:English
+#BPM:212
+#GAP:16470
+#VIDEO:v=PSyL-TrD_2g,co=https://www.topaccords.com/storage/illustrations/the-pogues%2Brainy-night-in-soho%2B3787c6c67cf5a2a8ebfb120db0502016b4dc7f3a58bbd17ef1825d4593360b2f.jpg,bg=pogues-the-6450826ea989f.jpg
+: 0 4 4 I’ve 
+: 7 3 4 been 
+: 12 1 2 lo
+: 15 1 0 ving 
+: 18 8 2 you 
+: 30 2 4 a 
+: 35 4 7 long 
+: 42 8 7 time 
+- 52
+: 92 4 4 Down 
+: 99 2 4 all 
+: 103 2 4 the 
+: 108 3 2 years, 
+: 114 7 0 down 
+* 125 1 2 all 
+* 128 2 4 the 
+* 132 10 7 days 
+- 144
+: 188 6 12 And 
+: 198 4 12 I’ve 
+: 205 2 12 cried 
+: 211 5 7 for 
+: 220 2 5 all 
+: 224 2 4 your 
+: 229 1 5 trou
+: 232 7 7 bles 
+- 241
+: 286 5 7 Smiled 
+: 295 1 7 at 
+: 298 3 7 your 
+: 303 2 7 fun
+: 307 5 0 ny 
+: 317 1 5 lit
+: 319 2 4 tle 
+: 324 7 2 ways 
+- 333
+: 380 4 4 We 
+* 388 2 4 watched 
+* 392 2 4 our 
+* 397 3 2 friends 
+* 403 5 0 grow 
+: 412 2 2 up 
+: 416 2 4 to
+: 420 1 7 get
+: 423 6 7 her 
+- 431
+: 480 4 4 And 
+: 488 2 4 we 
+: 492 2 2 saw 
+: 496 7 0 them 
+: 507 2 2 as 
+: 511 2 4 they 
+: 516 11 7 fell 
+- 529
+: 576 1 12 Some 
+: 578 1 12 of 
+: 580 10 12 them 
+: 595 4 7 fell 
+: 603 2 5 in
+: 607 2 4 to 
+: 611 2 5 hea
+: 615 5 7 ven 
+- 622
+: 674 1 7 Some 
+: 676 1 7 of 
+: 678 8 7 them 
+: 692 4 0 fell 
+* 700 2 5 in
+* 704 2 4 to 
+* 708 6 2 hell 
+- 716
+: 768 4 4 I 
+: 775 3 4 took 
+: 780 1 2 shel
+: 783 8 0 ter 
+: 796 1 2 from 
+: 798 2 4 a 
+: 803 3 7 sho
+: 808 8 7 wer 
+- 818
+: 864 4 4 And 
+: 871 3 4 I 
+: 877 1 2 stepped 
+: 880 7 0 in
+: 893 1 2 to 
+: 895 1 4 your 
+: 898 12 7 arms 
+- 912
+: 960 4 12 On 
+: 968 2 12 a 
+: 972 1 12 rai
+: 975 1 7 ny 
+: 978 9 5 night 
+* 991 2 4 in 
+* 996 2 5 So
+* 1000 7 7 ho 
+- 1009
+: 1052 2 7 The 
+: 1056 5 7 wind 
+: 1064 2 7 was 
+: 1068 2 7 whist
+: 1072 6 0 ling 
+: 1083 2 5 all 
+: 1087 3 4 its 
+: 1094 5 2 charms 
+- 1101
+: 1152 6 4 I 
+: 1164 1 2 sang 
+: 1167 8 0 you 
+: 1180 1 2 all 
+: 1183 2 4 my 
+: 1188 2 7 sor
+: 1192 10 7 rows 
+- 1204
+: 1248 7 4 You 
+: 1260 1 2 told 
+: 1264 7 0 me 
+: 1276 1 2 all 
+: 1279 2 4 your 
+* 1284 16 7 joys 
+- 1302
+: 1339 4 12 What
+: 1347 2 12 e
+: 1351 2 12 ver 
+: 1355 2 12 hap
+: 1359 6 7 pened 
+: 1371 2 5 to 
+: 1375 2 4 that 
+: 1379 3 5 old 
+: 1386 7 7 song 
+- 1395
+: 1436 1 7 To 
+: 1438 5 7 all 
+: 1447 2 7 those 
+: 1452 2 7 lit
+: 1456 5 0 tle 
+* 1465 4 5 girls 
+* 1472 2 4 and 
+* 1476 9 2 boys 
+- 1487
+: 1821 3 4 Some
+: 1827 2 4 times 
+* 1832 2 4 I 
+* 1837 1 2 wake 
+* 1840 7 0 up 
+: 1852 1 2 in 
+: 1855 2 4 the 
+: 1860 2 7 morn
+: 1864 6 7 ing 
+- 1872
+: 1916 4 4 The 
+: 1923 2 4 gin
+: 1927 2 4 ger 
+: 1932 2 2 la
+: 1936 4 0 dy 
+: 1948 1 2 by 
+: 1951 2 4 my 
+: 1957 9 7 bed 
+- 1968
+: 2016 1 12 Co
+: 2018 1 12 vered 
+: 2021 8 12 in 
+: 2034 2 7 a 
+: 2038 4 5 cloak 
+: 2046 3 4 of 
+: 2052 2 5 si
+: 2056 5 7 lence 
+- 2063
+: 2107 4 7 I 
+: 2115 2 7 hear 
+: 2119 2 7 you 
+: 2124 2 7 talk
+: 2128 7 0 ing 
+: 2140 1 5 in 
+: 2143 2 4 my 
+: 2148 5 2 head 
+- 2155
+* 2208 3 4 I’m 
+* 2214 3 4 not 
+* 2220 1 2 sing
+* 2223 8 0 ing 
+: 2236 1 2 for 
+: 2239 2 4 the 
+: 2244 2 7 fu
+: 2248 6 7 ture 
+- 2256
+: 2304 4 4 I’m 
+: 2311 2 4 not 
+: 2316 1 2 drea
+: 2319 8 0 ming 
+: 2331 1 2 of 
+: 2334 1 4 the 
+: 2338 10 7 past 
+- 2350
+: 2400 4 12 I’m 
+: 2407 2 12 not 
+: 2412 2 12 talk
+: 2416 6 7 ing 
+: 2427 1 5 of 
+: 2430 2 4 the 
+* 2436 3 5 first 
+* 2442 7 7 time 
+- 2451
+: 2492 4 7 I 
+: 2500 1 7 ne
+: 2502 3 7 ver 
+: 2508 1 7 think 
+: 2511 1 0 a
+: 2514 8 5 bout 
+: 2527 2 4 the 
+: 2531 5 2 last 
+- 2538
+: 2592 4 4 Now 
+: 2599 3 4 the 
+: 2604 1 2 song 
+: 2607 8 0 is 
+: 2620 1 2 near
+: 2623 2 4 ly 
+: 2628 1 7 o
+: 2631 7 7 ver 
+- 2640
+: 2684 3 4 We 
+: 2690 1 4 may 
+: 2692 1 4 ne
+: 2694 3 4 ver 
+: 2700 2 2 find 
+: 2704 7 0 out 
+* 2716 1 2 what 
+* 2719 2 4 it 
+* 2724 10 7 means 
+- 2736
+: 2780 4 12 Still 
+: 2788 2 12 there’s 
+: 2792 2 12 a 
+: 2796 2 12 light 
+: 2800 6 7 I 
+: 2811 2 5 hold 
+: 2815 2 4 be
+: 2819 2 5 fore 
+: 2823 10 7 me 
+- 2835
+: 2880 4 7 You’re 
+: 2888 2 7 the 
+: 2892 2 7 mea
+: 2896 4 0 sure 
+: 2904 4 5 of 
+: 2912 2 4 my 
+: 2916 5 2 dreams 
+- 2923
+: 2936 2 14 The 
+: 2940 2 14 mea
+: 2944 4 12 sure 
+* 2952 4 16 of 
+* 2960 2 14 my 
+* 2964 10 12 dreams. 
+E

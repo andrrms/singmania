@@ -1,0 +1,176 @@
+#ARTIST:DJ Remo & Gosia Perline Andrzejewicz
+#TITLE:You Can Dance
+#MP3:DJ Remo & Gosia Perline Andrzejewicz - You Can Dance.mp3
+#CREATOR:Leroidukitch
+#YEAR:2008
+#LANGUAGE:English
+#BPM:256.38
+#GAP:63240
+#VIDEO:v=LPcjeSwyIaI,co=https://i.discogs.com/-JLSLUzy5ez-_OtKhlBonfsYCed7mGx-EuwDG6YbMbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/MzUtMTMxMjczNDI2/Ni5qcGVn.jpeg
+: 0 5 2 You 
+: 6 4 5 can 
+: 11 10 0 dance 
+- 23
+: 258 5 3 You 
+: 264 4 -5 can 
+: 269 5 -2 dance 
+- 275
+: 275 4 12 I 
+: 281 5 12 need 
+* 287 6 12 some
+* 294 7 12 one 
+- 303
+: 338 6 13 To 
+: 345 6 16 dance 
+: 352 6 17 with 
+: 359 7 16 me 
+: 367 7 13 al
+: 375 14 12 right 
+- 391
+: 406 5 12 So, 
+: 412 3 12 don’t 
+: 416 6 12 you 
+: 423 7 12 mine 
+- 432
+: 469 4 17 To 
+: 474 4 16 have 
+: 479 5 15 some 
+* 487 12 8 fun 
+- 501
+: 532 6 18 The 
+: 539 5 16 mu
+: 545 5 14 sic’s 
+: 551 7 16 on 
+: 563 7 18 the 
+: 571 4 16 be 
+: 576 5 14 the 
+: 582 7 17 strong 
+- 591
+: 598 5 18 This 
+: 604 5 16 in 
+: 610 6 14 my 
+: 617 5 12 fa
+: 623 5 12 vo
+: 629 4 14 rite 
+: 634 7 15 song 
+- 643
+: 659 7 17 So, 
+: 667 5 16 bring 
+: 673 6 15 my 
+: 680 7 20 hand 
+- 689
+: 693 6 8 Don’t 
+: 700 4 18 be 
+: 705 6 15 a
+: 712 6 16 fraid 
+- 720
+: 731 4 8 I’m 
+: 736 2 8 take 
+: 739 5 10 a 
+: 745 7 10 chance 
+- 754
+: 770 5 4 You 
+: 776 4 5 can 
+: 781 10 0 dance 
+- 793
+: 1027 5 5 You 
+: 1033 4 -3 can 
+: 1038 10 0 dance 
+- 1050
+: 1060 5 6 You 
+: 1066 4 5 can 
+: 1071 10 5 dance 
+- 1083
+: 1121 5 5 You 
+: 1127 4 3 can 
+: 1132 10 0 dance 
+- 1144
+: 1186 5 4 You 
+* 1192 4 4 can 
+* 1197 10 3 dance 
+- 1209
+: 1413 5 12 You 
+: 1419 4 10 can 
+: 1424 10 -2 dance 
+- 1436
+: 1557 4 12 I 
+: 1563 5 12 need 
+: 1569 6 12 someone
+: 1576 7 12 ~ 
+- 1585
+: 1620 6 13 To 
+: 1627 6 16 dance 
+: 1634 6 17 with 
+: 1641 7 16 me 
+: 1649 7 13 al
+: 1657 14 12 right 
+- 1673
+: 1688 5 12 So, 
+: 1694 3 12 don’t 
+: 1698 6 12 you 
+: 1705 7 12 mine 
+- 1714
+: 1751 4 17 To 
+: 1756 4 16 have 
+: 1761 5 15 some 
+: 1769 12 8 fun 
+- 1783
+: 1814 6 18 The 
+: 1821 5 16 mu
+: 1827 5 14 sic’s 
+: 1833 7 16 on 
+: 1845 7 18 the 
+: 1853 4 16 be 
+: 1858 5 14 the 
+: 1864 7 17 strong 
+- 1873
+: 1880 5 18 This 
+: 1886 5 16 in 
+: 1892 6 14 my 
+: 1899 5 12 fa
+: 1905 5 12 vo
+: 1911 4 14 rite 
+: 1916 7 15 song 
+- 1925
+: 1941 7 17 So, 
+: 1949 5 16 bring 
+: 1955 6 15 my 
+: 1962 7 20 hand 
+- 1971
+: 1975 6 8 Don’t 
+: 1982 4 18 be 
+: 1987 6 15 a
+: 1994 6 16 fraid 
+- 2002
+: 2013 4 8 I’m 
+: 2018 2 8 take 
+: 2021 5 10 a 
+* 2027 7 10 chance 
+- 2036
+: 2052 5 3 You 
+: 2058 4 5 can 
+: 2063 10 0 dance 
+- 2075
+: 2276 5 6 You 
+: 2282 4 5 can 
+: 2287 10 5 dance 
+- 2299
+: 2325 5 5 You 
+: 2331 4 5 can 
+: 2343 24 5 dance 
+- 2369
+: 2409 5 4 You 
+: 2415 4 3 can 
+: 2420 35 0 dance 
+- 2457
+: 2468 5 0 You 
+: 2474 4 0 can 
+: 2479 11 0 dance
+: 2491 21 -1 ~
+: 2513 3 0 ~
+: 2517 5 2 ~ 
+- 2524
+: 2534 5 0 You 
+: 2540 4 0 can 
+: 2545 32 0 dance 
+E

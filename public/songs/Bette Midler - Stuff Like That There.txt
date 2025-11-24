@@ -1,0 +1,294 @@
+#ARTIST:Bette Midler
+#TITLE:Stuff Like That There
+#MP3:Bette Midler - Stuff Like That There.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:1991
+#LANGUAGE:English
+#BPM:300,6
+#GAP:12464
+#VIDEO:co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/22/33/b32233e0-c2e2-57f0-42cb-dd0f0cfc2ac1/mzi.tqwpvpdl.jpg/5000x5000bb.jpg
+: 0 1 -2 I 
+: 2 3 0 was 
+: 7 2 2 al
+: 11 9 7 one 
+: 23 2 5 on 
+: 28 2 7 a 
+: 33 16 0 shelf 
+- 52
+: 56 2 -2 In 
+: 61 2 0 a 
+: 65 6 7 world 
+: 74 2 5 by 
+: 78 2 7 my
+: 83 12 0 self. 
+- 102
+: 109 2 -2 Oh, 
+: 114 5 5 where 
+: 122 4 5 could 
+: 129 4 5 my 
+: 136 6 5 Prince 
+: 144 5 2 Char
+: 152 4 0 ming 
+: 159 34 2 be? 
+- 198
+: 203 2 7 But 
+: 207 2 10 a 
+: 211 12 7 man 
+: 225 2 5 came 
+: 229 2 7 al
+: 232 16 0 ong, 
+- 251
+: 254 2 -2 Made 
+: 258 2 0 my 
+: 262 9 7 life 
+: 273 2 5 like 
+: 278 2 7 a 
+: 283 19 0 song, 
+- 306
+: 310 3 -2 And 
+: 315 5 7 taught 
+: 322 9 7 me 
+: 333 4 8 these 
+: 341 9 7 words 
+: 353 2 5 of 
+: 356 5 3 ecs
+: 363 2 5 ta
+: 367 28 7 sy, 
+- 401
+: 407 4 7 Ten
+: 413 5 3 der
+: 420 39 8 ly. 
+- 463
+: 468 1 0 I 
+: 471 2 2 want 
+: 474 2 3 some 
+: 477 2 3 hugg
+: 481 2 0 in’ 
+: 484 2 -3 and 
+: 487 2 0 some 
+: 490 2 3 squeez
+: 493 2 0 in’ 
+- 496
+: 497 2 -3 And 
+: 502 1 2 some 
+: 505 2 3 mugg
+: 509 1 0 in’ 
+: 512 2 -3 and 
+: 516 1 -3 some 
+: 519 2 3 teas
+: 523 1 0 in’ 
+- 525
+: 526 2 -3 And 
+: 530 2 0 some 
+: 534 2 7 stuff 
+: 538 5 6 like 
+: 545 4 5 that 
+: 551 16 3 there. 
+- 574
+: 582 1 5 I 
+: 585 1 5 want 
+: 589 1 7 some 
+: 592 2 8 pett
+: 597 1 5 in’ 
+: 600 2 4 and 
+: 605 1 5 some 
+: 608 1 8 spoon
+: 612 1 5 in’ 
+- 614
+: 615 1 2 And 
+: 619 1 5 some 
+: 622 2 8 hap
+: 627 1 5 py 
+: 630 1 2 ho
+: 634 1 5 ney
+: 637 2 8 moon
+: 641 1 5 in’ 
+- 643
+: 644 2 2 And 
+: 648 2 5 some 
+: 651 3 12 stuff 
+: 657 3 11 like 
+: 664 3 10 that 
+: 670 14 8 there. 
+- 692
+: 701 1 5 I 
+: 704 2 7 used 
+: 708 2 5 to 
+: 711 2 4 think 
+: 716 1 12 that 
+: 718 2 4 love 
+- 721
+: 723 1 3 Was 
+: 726 2 2 just 
+: 730 1 10 a 
+: 733 3 2 lot 
+: 738 1 1 o’ 
+: 741 2 0 rubb
+: 746 10 9 ish; 
+- 757
+: 759 2 0 A 
+: 763 2 2 mess 
+: 767 2 0 o’ 
+: 770 3 8 cabb
+: 775 10 7 age, 
+: 789 1 0 a 
+: 793 1 2 mess 
+: 797 1 0 o’ 
+: 800 3 7 cabb
+: 805 8 5 age. 
+- 816
+: 819 1 5 But 
+: 822 2 7 now 
+: 826 2 5 my 
+: 830 2 4 at
+: 834 1 12 ti
+: 837 2 4 tude 
+- 840
+: 842 1 3 Is 
+: 845 2 2 whol
+: 849 2 10 ly 
+: 852 2 2 lov
+: 857 1 1 ey 
+: 860 2 0 dov
+: 864 9 9 ish, 
+- 875
+: 878 1 0 And 
+: 882 1 2 ba
+: 886 1 0 by, 
+: 889 12 8 you, 
+: 912 3 9 you’ve 
+: 918 2 8 done 
+: 923 5 7 it! 
+- 934
+: 940 1 0 I 
+: 943 1 2 want 
+: 947 1 3 some 
+: 949 2 3 kiss
+: 954 1 0 in’ 
+: 957 1 -3 and 
+: 961 1 0 some 
+: 964 1 3 hop
+: 967 1 0 in’ 
+- 969
+: 971 1 -3 And 
+: 974 2 2 some 
+: 977 2 3 miss
+: 982 1 0 in’ 
+: 985 2 -3 and 
+: 990 1 -3 some 
+: 993 1 3 mop
+: 997 1 0 in’ 
+- 998
+: 999 3 -3 And 
+: 1004 3 0 some 
+: 1021 3 7 stuff 
+: 1027 2 7 like 
+: 1031 3 5 that 
+: 1036 8 8 there. 
+- 1050
+: 1057 1 5 I 
+: 1059 1 5 want 
+: 1063 1 7 some 
+: 1066 2 8 leap
+: 1071 1 5 in’ 
+: 1074 1 2 and 
+: 1078 1 5 some 
+: 1081 2 8 chas
+: 1086 1 5 in’ 
+- 1088
+: 1089 2 2 And 
+: 1093 1 5 some 
+: 1096 3 8 weep
+: 1101 1 5 in’ 
+: 1104 2 2 and 
+: 1108 2 5 some 
+: 1111 2 8 pac
+: 1115 1 5 in’ 
+- 1116
+: 1117 3 2 And 
+: 1122 4 5 some 
+: 1140 2 8 stuff 
+: 1145 2 5 like 
+: 1150 2 7 that 
+: 1155 11 5 there. 
+- 1170
+: 1174 1 5 And 
+: 1177 2 7 when 
+: 1182 1 5 I 
+: 1185 2 4 get 
+: 1190 1 12 a 
+: 1193 1 4 cert
+: 1197 1 3 ain 
+: 1200 2 2 feel
+: 1205 1 10 in’ 
+- 1207
+: 1208 1 2 I 
+: 1212 1 1 con
+: 1215 2 0 fess 
+: 1219 5 9 it. 
+- 1228
+: 1233 1 5 There’s 
+: 1236 1 7 real
+: 1241 1 5 ly 
+: 1244 2 4 on
+: 1249 1 12 ly 
+: 1252 2 4 one 
+: 1256 1 6 ex
+: 1259 2 3 press
+: 1264 1 2 ion 
+- 1266
+: 1267 2 2 To 
+: 1271 1 1 exp
+: 1274 2 0 ress 
+: 1278 4 9 it. 
+- 1287
+: 1293 1 5 I 
+: 1296 2 9 want 
+: 1301 1 9 some 
+: 1304 2 8 hugg
+: 1308 2 8 in’ 
+: 1312 1 8 and 
+: 1316 1 8 some 
+: 1319 2 8 squeez
+: 1323 2 8 in’ 
+- 1325
+: 1326 2 6 And 
+: 1330 2 6 some 
+: 1334 1 6 mugg
+: 1338 1 6 in’ 
+: 1341 2 6 and 
+: 1345 1 6 some 
+: 1348 2 6 teas
+: 1352 2 6 in’ 
+- 1355
+: 1356 1 8 And 
+: 1360 1 8 some 
+: 1363 2 8 leap
+: 1368 1 8 in’ 
+: 1371 2 8 and 
+: 1374 2 8 some 
+: 1378 2 8 chas
+: 1383 1 8 in’ 
+- 1385
+: 1386 2 9 And 
+: 1390 2 9 some 
+: 1394 1 9 weep
+: 1398 1 9 in’ 
+: 1401 2 9 and 
+: 1405 1 9 some 
+: 1408 2 10 pac
+: 1412 2 9 in’ 
+- 1415
+: 1416 2 11 And 
+: 1420 4 9 some 
+: 1429 19 12 stuff, 
+- 1450
+: 1456 1 9 I 
+: 1458 2 9 want 
+: 1463 1 9 some 
+: 1466 2 9 stuff 
+: 1470 2 7 like 
+: 1474 2 7 that 
+: 1478 13 7 there. 
+E

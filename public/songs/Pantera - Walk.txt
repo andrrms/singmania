@@ -1,0 +1,378 @@
+#ARTIST:Pantera
+#TITLE:Walk
+#MP3:Pantera - Walk.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2012 Vol. 2
+#GENRE:Metal
+#YEAR:1992
+#LANGUAGE:English
+#BPM:385.16
+#GAP:38120
+#VIDEO:v=AkFqg5wAuFk,co=walk-547b0f41363e8.jpg,bg=pantera-54a5515f7144c.jpg
+: 0 2 9 Can’t 
+: 4 2 9 you 
+: 11 6 9 see
+: 18 3 2 ~ 
+: 23 2 2 I’m 
+: 28 2 2 ea
+: 31 2 2 si
+: 36 13 2 ly
+: 50 2 0 ~ 
+- 54
+: 55 7 2 Bo
+: 64 2 0 thered 
+: 69 6 2 by 
+: 77 2 0 per
+: 83 3 2 sis
+: 91 18 6 tence? 
+- 111
+: 123 8 6 One 
+: 138 6 6 step 
+: 152 7 6 from 
+: 164 7 6 la
+: 178 8 6 shing 
+: 191 6 6 out 
+: 198 2 2 at 
+: 204 6 6 you 
+- 212
+: 214 4 9 You 
+: 222 3 9 want 
+: 227 5 9 in
+: 233 2 2 ~ 
+: 236 3 2 to 
+: 241 2 2 get 
+: 245 2 2 un
+: 249 1 2 der 
+: 252 2 2 my 
+- 256
+: 259 8 2 Skin 
+: 268 3 0 and 
+: 273 4 2 call 
+: 279 3 0 your
+: 285 2 2 self 
+: 289 2 2 a 
+: 294 2 6 friend
+: 297 2 7 ~
+: 300 23 6 ~ 
+- 325
+: 342 8 6 I’ve 
+: 354 9 6 got 
+: 368 8 6 more 
+: 383 4 6 friends 
+: 391 2 2 like 
+: 395 8 6 you
+: 404 4 2 ~ 
+: 409 2 2 what 
+: 412 2 2 do 
+: 416 2 2 I 
+F 420 16 6 do? 
+- 438
+F 446 6 6 Is 
+F 460 8 6 there 
+F 473 5 6 no 
+F 485 6 11 stand
+F 494 3 6 ard 
+F 498 2 6 a
+F 501 2 6 ny
+F 507 26 6 more? 
+- 535
+: 542 3 2 What 
+: 547 3 2 it 
+: 555 5 2 takes 
+- 562
+: 569 4 2 Who 
+: 574 4 2 I 
+: 581 8 2 am 
+: 594 4 2 where 
+: 600 3 2 I’ve 
+: 607 4 2 been 
+F 619 4 2 be
+F 624 14 6 long 
+- 640
+: 650 8 7 You 
+: 663 8 7 can’t 
+: 676 8 7 be 
+: 689 4 3 some
+: 698 3 3 thing 
+: 703 6 3 you’re 
+: 715 19 4 not 
+- 736
+: 747 3 2 Be 
+: 753 3 2 your
+: 760 5 2 self 
+: 774 4 2 by 
+: 780 2 2 your
+: 786 4 2 self 
+- 792
+: 800 3 6 Stay 
+: 804 3 2 a
+: 813 8 6 way 
+: 825 2 2 from 
+: 831 12 6 me 
+- 845
+: 858 7 7 A 
+: 871 6 7 les
+: 885 4 7 son 
+: 898 9 3 learned 
+: 910 6 3 in 
+: 924 22 3 life 
+- 948
+: 960 6 5 Known 
+: 973 5 5 from 
+: 984 5 5 the 
+: 995 10 3 dawn 
+: 1007 6 3 of 
+: 1019 21 2 time 
+- 1042
+F 1081 8 9 Res
+F 1135 5 9 pect 
+- 1142
+F 1186 7 9 Walk 
+- 1195
+F 1225 3 6 What 
+F 1229 1 6 did 
+F 1231 3 6 you 
+F 1239 11 6 say? 
+- 1252
+F 1288 9 9 Res
+F 1343 5 9 pect 
+- 1350
+F 1395 7 9 Walk 
+- 1404
+F 1425 2 6 Are 
+F 1428 2 6 you 
+F 1433 3 6 tal
+F 1438 1 6 king 
+F 1440 2 6 to 
+F 1444 13 6 me? 
+- 1459
+F 1474 2 6 Are 
+F 1478 2 6 you 
+F 1482 3 6 tal
+F 1488 1 6 king 
+F 1490 2 6 to 
+F 1495 12 6 me? 
+- 1509
+: 1717 6 9 Run 
+: 1726 2 9 your 
+: 1730 7 9 mouth 
+: 1742 2 2 when 
+: 1745 2 2 I’m 
+: 1750 2 2 not 
+: 1753 2 2 a
+: 1759 8 2 round
+: 1768 3 0 ~ 
+- 1773
+: 1774 3 0 It’s 
+: 1779 5 2 ea
+: 1785 2 0 sy 
+: 1789 3 2 to 
+: 1793 2 0 a
+: 1799 18 5 chieve
+: 1818 10 6 ~ 
+- 1830
+: 1845 7 6 You 
+: 1858 9 6 cry 
+: 1868 2 4 to 
+: 1873 5 6 weak 
+: 1887 7 6 friends 
+: 1901 6 6 that 
+: 1914 2 6 sym
+: 1917 2 6 pa
+: 1922 8 6 thize 
+- 1932
+: 1939 2 9 Can 
+: 1943 2 9 you 
+: 1946 11 9 hear
+: 1958 2 2 ~ 
+: 1962 2 2 the 
+: 1967 4 2 vi
+: 1972 3 2 o
+: 1978 5 2 lins 
+- 1985
+: 1995 6 2 Play
+: 2003 4 0 ing 
+: 2009 2 2 your 
+* 2015 2 6 song
+* 2018 2 7 ~
+* 2021 28 6 ~? 
+- 2051
+: 2063 8 6 Those 
+: 2077 7 6 same 
+: 2091 6 6 friends 
+: 2104 9 6 tell 
+: 2117 6 6 me 
+: 2126 2 2 your 
+: 2129 2 6 eve
+: 2133 2 6 ry 
+: 2138 13 6 word 
+- 2153
+F 2167 6 6 Is 
+F 2180 8 6 there 
+F 2193 5 6 no 
+F 2206 5 11 stand
+F 2214 3 6 ard 
+F 2218 2 6 a
+F 2221 2 6 ny
+F 2227 25 6 more? 
+- 2254
+: 2264 3 2 What 
+: 2269 2 2 it 
+: 2275 4 2 takes 
+: 2288 5 2 who 
+: 2295 4 2 I 
+: 2301 7 2 am 
+: 2317 3 2 where 
+: 2321 4 2 I’ve 
+: 2328 5 2 been 
+- 2335
+F 2341 2 2 Be
+F 2346 15 6 long 
+- 2363
+: 2371 8 7 You 
+: 2384 8 7 can’t 
+: 2398 7 7 be 
+: 2410 4 3 some
+: 2418 3 3 thing 
+: 2423 8 3 you’re 
+: 2436 19 4 not 
+- 2457
+: 2469 4 2 Be 
+: 2475 2 2 your
+: 2482 4 2 self 
+: 2495 3 2 by 
+: 2501 3 2 your
+: 2509 4 2 self 
+- 2515
+: 2522 3 6 Stay 
+* 2526 3 2 a
+* 2535 6 6 way
+* 2542 3 2 ~ 
+: 2549 1 2 from 
+: 2554 13 6 me 
+- 2569
+: 2580 7 7 A 
+: 2592 8 7 les
+: 2606 5 7 son 
+: 2619 9 3 learned 
+: 2631 7 3 in 
+: 2645 19 3 life 
+- 2666
+: 2682 6 5 Known 
+: 2695 6 5 from 
+: 2707 6 5 the 
+* 2719 10 3 dawn 
+* 2731 6 3 of 
+* 2743 20 2 time 
+- 2765
+F 2805 9 9 Res
+F 2859 5 9 pect 
+- 2866
+F 2910 8 9 Walk 
+- 2920
+F 2949 3 6 What 
+F 2954 1 6 did 
+F 2956 2 6 you 
+F 2962 13 6 say? 
+- 2977
+F 3013 11 9 Res
+F 3067 5 9 pect 
+- 3074
+F 3119 8 9 Walk 
+- 3129
+F 3149 2 6 Are 
+F 3152 2 6 you 
+F 3157 2 6 tal
+F 3161 2 6 king 
+F 3164 2 6 to 
+F 3168 14 6 me? 
+- 3184
+F 3221 10 9 Res
+F 3273 5 9 pect 
+- 3280
+F 3324 8 9 Walk 
+- 3334
+F 3362 3 6 What 
+F 3366 1 6 did 
+F 3369 2 6 you 
+F 3375 12 6 say? 
+- 3389
+F 3425 9 9 Res
+F 3477 4 9 pect 
+- 3483
+F 3528 7 9 Walk 
+- 3537
+F 3558 2 6 Are 
+F 3561 3 6 you 
+F 3566 3 6 tal
+F 3571 1 6 king 
+F 3573 2 6 to 
+F 3577 12 6 me? 
+- 3591
+F 3607 2 6 Are 
+F 3610 2 6 you 
+F 3615 3 6 tal
+F 3620 1 6 king 
+F 3622 2 6 to 
+F 3627 12 6 me? 
+- 3641
+F 3658 13 6 No 
+F 3678 10 6 way 
+F 3696 7 6 punk 
+- 3705
+F 4839 8 9 Res
+F 4893 5 9 pect 
+- 4900
+F 4944 7 9 Walk 
+- 4953
+F 4982 3 6 What 
+F 4986 2 6 did 
+F 4989 2 6 you 
+F 4996 11 6 say? 
+- 5009
+F 5046 9 9 Res
+F 5099 4 9 pect 
+- 5105
+F 5152 7 9 Walk 
+- 5161
+F 5181 2 6 Are 
+F 5184 2 6 you 
+F 5189 3 6 tal
+F 5194 2 6 king 
+F 5197 2 6 to 
+F 5202 13 6 me? 
+- 5217
+F 5252 10 9 Res
+F 5305 5 9 pect 
+- 5312
+F 5356 7 9 Walk 
+- 5365
+F 5392 3 6 What 
+F 5396 1 6 did 
+F 5399 3 6 you 
+F 5408 12 6 say? 
+- 5422
+F 5457 9 9 Res
+F 5509 5 9 pect 
+- 5516
+F 5560 8 9 Walk 
+- 5570
+F 5589 1 6 Are 
+F 5591 2 6 you 
+F 5596 3 6 tal
+F 5602 1 6 king 
+F 5604 2 6 to 
+F 5608 10 6 me? 
+- 5620
+F 5639 2 6 Are 
+F 5642 2 6 you 
+F 5647 3 6 tal
+F 5652 1 6 king 
+F 5654 2 6 to 
+F 5659 14 6 me? 
+- 5675
+F 5701 3 2 Walk 
+F 5707 5 2 on 
+F 5715 6 2 home 
+F 5724 11 2 boy 
+E

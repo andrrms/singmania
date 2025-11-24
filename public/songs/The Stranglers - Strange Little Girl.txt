@@ -1,0 +1,248 @@
+#ARTIST:The Stranglers
+#TITLE:Strange Little Girl
+#MP3:The Stranglers - Strange Little Girl.mp3
+#CREATOR:choosie
+#YEAR:1982
+#LANGUAGE:English
+#BPM:250.2
+#GAP:9300
+#VIDEO:v=jDpNhgIq0pg,co=https://i.discogs.com/ecuRXtig4KeFu-ifDn18bcW-fuM61PcVdqjDTPWtjhc/rs:fit/g:sm/q:90/h:598/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTAy/Mi0xMjg1NDUzMjQy/LmpwZWc.jpeg,bg=stranglers-the-511ed15eafc20.jpg
+: 0 4 9 One 
+: 8 3 9 day 
+: 13 2 9 you 
+: 16 1 9 see 
+: 18 2 11 a 
+: 23 4 12 strange 
+: 31 1 12 lit
+: 33 2 14 tle 
+: 37 2 9 girl
+: 40 2 7 ~ 
+: 45 2 7 look 
+: 48 2 9 at 
+: 53 2 9 you
+: 57 3 7 ~ 
+- 62
+: 128 3 9 One 
+: 134 4 9 day 
+: 141 2 9 you 
+: 145 1 9 see 
+: 147 2 11 a 
+: 152 4 12 strange 
+: 159 1 12 lit
+: 161 2 14 tle 
+: 165 2 9 girl
+: 168 2 7 ~ 
+* 173 2 7 feel
+* 177 2 9 ing 
+* 182 2 9 blue
+* 186 2 7 ~ 
+- 190
+: 255 4 12 She’d 
+: 263 5 12 run 
+: 272 1 12 to 
+: 274 2 12 the 
+: 278 4 14 town 
+: 285 3 12 one 
+: 291 2 9 day
+: 294 2 7 ~ 
+- 298
+: 304 2 14 Lea
+: 308 2 16 ving 
+: 313 3 9 home 
+: 319 2 9 and 
+: 323 3 9 her 
+: 329 3 9 coun
+: 334 3 9 try 
+: 339 4 9 fair 
+- 345
+: 365 4 7 Just 
+: 372 4 9 be
+: 379 8 11 ware 
+- 389
+: 429 4 9 When 
+: 436 4 11 you’re 
+: 443 2 12 there
+: 447 3 11 ~ 
+- 452
+* 487 4 11 Strange 
+* 495 2 9 lit
+* 498 2 11 tle 
+* 503 4 13 girl 
+- 509
+: 574 2 7 She 
+: 578 1 9 did
+: 580 2 7 n’t 
+: 584 5 9 know 
+: 592 2 9 how 
+: 596 2 11 to 
+: 600 2 12 live 
+: 603 2 12 in 
+: 607 2 14 a 
+: 611 2 9 town
+: 615 2 7 ~ 
+: 620 2 7 that 
+: 624 2 9 was 
+: 628 2 9 rough
+: 632 3 7 ~ 
+- 637
+: 702 2 7 It 
+: 706 1 9 did
+: 708 2 7 n’t 
+: 712 3 9 take 
+: 718 3 9 long 
+: 724 2 11 be
+: 728 3 12 fore 
+: 734 3 12 she 
+: 739 3 14 knew 
+: 744 3 9 she’d 
+: 750 3 7 had 
+: 756 2 9 e
+: 759 2 9 nough
+: 763 2 7 ~ 
+- 767
+: 833 2 12 Walk
+: 837 2 12 ing 
+: 842 3 12 home 
+: 848 2 12 in 
+: 852 2 12 her 
+* 856 3 14 wrapped 
+* 862 3 12 up 
+* 868 2 9 world
+* 871 2 7 ~ 
+- 875
+: 881 2 14 She 
+: 885 2 16 sur
+: 890 4 9 vived 
+: 897 2 9 but 
+: 901 5 9 she’s 
+: 910 2 9 feel
+: 914 2 9 ing 
+: 918 4 9 old 
+- 924
+: 942 4 7 And 
+: 950 4 9 she 
+: 957 8 11 found 
+- 967
+* 1007 4 9 All 
+* 1015 6 11 things 
+* 1026 2 12 cold
+* 1030 3 11 ~ 
+- 1035
+: 1083 3 12 Strange 
+: 1088 2 7 lit
+: 1091 2 4 tle 
+: 1095 4 2 girl, 
+: 1103 2 14 where 
+: 1107 2 11 are 
+: 1111 2 7 you 
+: 1115 2 7 go
+: 1119 6 9 ing 
+- 1127
+: 1146 3 12 Strange 
+: 1152 2 7 lit
+: 1155 2 4 tle 
+: 1159 4 2 girl, 
+: 1167 2 14 where 
+: 1170 2 11 are 
+: 1174 2 7 you 
+: 1179 2 7 go
+: 1183 5 9 ing 
+- 1190
+* 1210 2 12 Do 
+* 1214 2 7 you 
+* 1218 2 4 know 
+* 1222 4 2 where 
+: 1230 2 14 you 
+: 1234 2 11 could 
+: 1238 2 7 be 
+: 1242 2 7 go
+: 1246 5 9 ing 
+- 1253
+: 1824 2 12 Walk
+: 1828 2 12 ing 
+: 1833 3 12 home 
+: 1839 2 12 in 
+: 1842 2 12 her 
+: 1847 3 14 wrapped 
+: 1853 3 12 up 
+: 1859 2 9 world
+: 1862 2 7 ~ 
+- 1866
+* 1872 2 14 She 
+* 1876 2 16 sur
+* 1881 4 9 vived 
+: 1888 2 9 but 
+: 1892 5 9 she’s 
+: 1901 2 9 feel
+: 1905 2 9 ing 
+: 1909 4 9 old 
+- 1915
+: 1933 4 7 And 
+: 1941 4 9 she 
+: 1948 8 11 found 
+- 1958
+: 1998 4 9 All 
+: 2006 6 11 things 
+: 2017 2 12 cold
+: 2021 3 11 ~ 
+- 2026
+: 2073 3 12 Strange 
+: 2078 2 7 lit
+: 2081 2 4 tle 
+: 2085 4 2 girl, 
+: 2093 2 14 where 
+: 2097 2 11 are 
+: 2101 2 7 you 
+: 2105 2 7 go
+: 2109 6 9 ing 
+- 2117
+* 2137 3 12 Strange 
+* 2143 2 7 lit
+* 2146 2 4 tle 
+* 2150 4 2 girl, 
+: 2158 2 14 where 
+: 2161 2 11 are 
+: 2165 2 7 you 
+: 2170 2 7 go
+: 2174 6 9 ing 
+- 2182
+: 2201 2 12 Do 
+: 2205 2 7 you 
+: 2209 2 4 know 
+: 2213 4 2 where 
+: 2221 2 14 you 
+: 2225 2 11 could 
+: 2229 2 7 be 
+: 2234 2 7 go
+: 2238 6 9 ing 
+- 2246
+: 2297 3 12 Strange 
+: 2302 2 7 lit
+: 2305 2 4 tle 
+: 2309 4 2 girl, 
+: 2317 2 14 where 
+: 2321 2 11 are 
+: 2325 2 7 you 
+: 2330 2 7 go
+: 2334 5 9 ing 
+- 2341
+: 2361 3 12 Strange 
+: 2367 2 7 lit
+: 2370 2 4 tle 
+: 2374 4 2 girl, 
+: 2382 2 14 where 
+: 2385 2 11 are 
+: 2389 2 7 you 
+: 2394 2 7 go
+: 2398 5 9 ing 
+- 2405
+: 2426 2 12 Do 
+: 2430 2 7 you 
+: 2434 2 4 know 
+: 2438 4 2 where 
+: 2446 2 14 you 
+: 2450 2 11 could 
+: 2454 2 7 be 
+* 2459 4 7 go
+* 2467 14 9 ing. 
+E

@@ -1,0 +1,202 @@
+#ARTIST:Disney’s DuckTales 2017 (Felicia Barton)
+#TITLE:Theme Song
+#MP3:Disney’s DuckTales 2017 (Felicia Barton) - Theme Song.mp3
+#CREATOR:jmfb
+#COVER:Disney’s DuckTales 2017 (Felicia Barton) - Theme Song [CO].jpg
+#BACKGROUND:Disney’s DuckTales 2017 (Felicia Barton) - Theme Song [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2017
+#LANGUAGE:English
+#BPM:365.64
+#GAP:2800
+#VIDEO:v=YKSU82afy1w,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/25/55/a1/2555a1be-7faa-870f-645c-4a32ac7089d3/00050087373702.rgb.jpg/5000x5000bb.jpg,bg=ducktales-2017-59ac6e08ed985.jpg
+#END:57000
+: 0 5 5 Life 
+: 7 2 9 is 
+: 17 4 12 like 
+: 24 2 14 a
+: 27 1 15 ~ 
+: 33 2 14 hur
+: 36 2 15 ~
+: 40 1 15 ri
+* 45 8 14 cane
+* 54 2 12 ~
+* 57 2 10 ~! 
+- 62
+: 64 2 9 Here
+: 67 4 10 ~ 
+: 78 1 8 in
+: 80 3 9 ~ 
+: 96 3 10 Duck
+: 108 3 8 burg
+: 112 4 9 ~ 
+- 125
+: 129 2 5 Race 
+: 136 4 9 cars, 
+: 145 4 12 la
+: 152 3 14 sers, 
+: 161 2 14 aer
+: 164 1 15 ~
+: 167 2 15 o
+: 173 2 15 planes
+: 176 4 14 ~
+: 181 2 12 ~
+: 185 3 10 ~ 
+- 191
+: 193 2 14 It’s
+: 196 2 15 ~ 
+: 204 7 14 a 
+: 224 4 15 duck-
+: 238 1 12 blur
+: 240 6 14 ~! 
+- 256
+: 264 4 7 Might 
+: 272 5 10 solve 
+: 281 1 12 a
+: 283 1 14 ~ 
+: 289 3 12 mys
+: 293 4 14 ~
+: 301 2 12 ter
+: 304 6 12 y
+: 311 2 10 ~ 
+- 324
+: 328 5 14 Or 
+: 337 5 17 re
+: 345 4 19 write 
+* 353 4 19 his
+* 358 2 21 ~
+* 365 2 19 to
+: 369 4 19 ry
+: 374 3 17 ~
+: 378 2 14 ~! 
+- 383
+: 385 2 17 Duck
+: 392 6 17 Tales! 
+- 406
+: 409 7 21 Woo-
+: 417 6 17 hoo! 
+- 433
+: 448 2 15 Eve
+: 451 2 17 ~
+: 457 3 15 ry
+: 464 6 13 day 
+: 473 3 15 they’re 
+* 480 1 15 out
+* 482 3 17 ~ 
+* 488 2 17 there
+* 491 2 15 ~ 
+: 496 5 13 mak
+: 504 3 15 ing 
+- 510
+: 512 3 17 Duck
+: 520 8 17 Tales! 
+- 534
+: 537 6 21 Woo-
+: 545 4 17 hoo! 
+- 559
+: 575 3 15 Tales
+: 579 3 17 ~ 
+: 585 3 15 of 
+: 592 6 13 der
+: 601 2 15 ring-
+: 608 2 15 do
+: 611 2 17 ~ 
+- 614
+: 616 2 17 Bad
+: 619 4 15 ~ 
+: 624 4 13 and 
+: 632 4 15 good 
+: 640 3 17 luck 
+: 648 6 17 tales! 
+- 661
+: 664 7 21 Woo-
+: 673 2 17 hoo! 
+- 685
+: 709 2 17 D-
+: 713 2 17 D-
+* 717 1 17 D-
+* 720 2 19 Dan
+* 723 3 21 ~
+* 729 4 17 ger! 
+: 737 3 12 Lurks 
+: 745 4 12 be
+: 753 1 12 hind
+: 755 3 14 ~ 
+: 760 6 17 you 
+- 773
+: 776 3 17 There’s 
+: 781 1 17 a 
+: 785 2 19 strang
+: 788 2 21 ~
+: 793 3 17 er 
+: 801 1 19 out
+: 803 2 21 ~ 
+: 809 2 22 to 
+: 816 2 19 find
+: 819 3 21 ~ 
+: 825 6 17 you 
+- 837
+: 840 3 19 What 
+: 846 1 19 to 
+: 848 5 19 do? 
+- 854
+: 856 3 21 Just 
+: 864 2 21 grab
+: 867 3 23 ~ 
+: 872 4 21 on 
+: 881 3 19 to 
+: 888 4 21 some 
+- 894
+: 896 4 19 Duck
+: 904 7 19 Tales! 
+- 916
+: 918 2 14 Woo
+: 921 6 23 ~-
+: 928 5 19 hoo! 
+- 943
+: 960 2 17 Eve
+: 963 3 19 ~
+: 969 4 17 ry
+: 977 5 15 day 
+: 985 4 17 they’re 
+* 992 1 17 out
+* 994 3 19 ~ 
+: 1000 5 17 there 
+: 1008 5 15 mak
+: 1016 2 17 ing 
+- 1023
+: 1025 3 19 Duck
+: 1032 6 19 Tales
+: 1039 2 14 ~! 
+- 1046
+: 1048 7 23 Woo-
+: 1056 3 19 hoo! 
+- 1069
+: 1086 7 19 Tales 
+: 1097 3 17 of 
+: 1104 6 15 der
+: 1113 2 17 ring-
+: 1119 1 17 do 
+: 1121 6 19 bad 
+: 1129 3 17 and 
+: 1137 3 15 good 
+- 1142
+: 1144 3 17 Not 
+: 1151 3 17 po
+: 1155 4 19 ~
+: 1160 4 17 ny
+: 1169 4 15 tails 
+* 1177 2 17 or 
+* 1184 3 17 cot
+* 1188 2 19 ~
+: 1192 4 17 ton
+: 1200 5 15 tails 
+- 1207
+: 1209 3 17 No, 
+: 1216 3 19 Duck
+: 1225 7 19 Tales
+: 1233 2 14 ~! 
+- 1238
+: 1240 5 23 Woo-
+: 1246 5 19 hoo! 
+E

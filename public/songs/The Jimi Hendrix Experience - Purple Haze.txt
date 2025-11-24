@@ -1,0 +1,207 @@
+#ARTIST:The Jimi Hendrix Experience
+#TITLE:Purple Haze
+#MP3:The Jimi Hendrix Experience - Purple Haze.mp3
+#CREATOR:Jesposo
+#YEAR:1967
+#LANGUAGE:English
+#BPM:400
+#GAP:33940
+#VIDEO:v=zSsjtiky9xI,co=purple-haze--51st-anniversary-613a0b3a5fb92.jpg,bg=hendrix-jimi-the-experience-5026ca945acec.jpg
+: 0 2 7 Purp
+: 3 2 7 le 
+: 6 2 6 haze,
+: 9 6 7 ~
+: 18 6 2 ~ 
+: 36 3 1 all 
+: 44 3 4 in 
+: 51 3 4 my 
+: 60 6 6 brain
+: 68 4 1 ~ 
+- 74
+: 118 5 7 Late
+: 125 3 7 ly 
+: 133 11 7 things 
+: 147 3 2 just 
+: 151 6 4 don’t 
+: 163 4 7 seem 
+: 170 3 4 the 
+: 178 14 4 same 
+- 194
+: 237 4 7 Act
+: 244 4 7 in’ 
+: 252 3 7 fun
+: 257 8 4 ny, 
+: 274 1 2 but 
+: 276 3 2 I 
+: 281 6 4 don’t 
+: 289 4 4 know 
+: 296 11 6 why 
+- 309
+: 347 2 6 Ex
+: 354 6 7 cuse 
+* 363 8 7 me
+* 374 6 2 ~ 
+: 383 5 4 while 
+: 391 4 4 I 
+: 399 5 7 kiss 
+: 406 3 4 the 
+: 414 10 4 sky 
+- 426
+: 535 2 7 Purp
+: 538 2 7 le 
+: 542 7 7 haze,
+: 552 8 2 ~ 
+: 581 4 4 all 
+: 588 4 4 a
+: 595 6 6 round
+: 602 4 1 ~ 
+- 608
+: 639 5 7 Don’t 
+: 646 12 7 know 
+: 672 2 2 if 
+: 676 4 4 I’m 
+: 684 5 4 com
+: 691 3 2 in’ 
+: 699 5 7 up 
+: 707 3 4 or 
+* 714 10 4 down 
+- 726
+: 773 3 7 Am 
+: 777 4 7 I 
+: 783 5 7 hap
+: 790 4 1 py 
+: 810 4 1 or 
+: 817 3 4 in 
+: 824 3 4 mi
+: 828 2 4 se
+: 832 8 6 ry? 
+- 842
+: 867 3 4 What 
+: 874 3 7 ev
+: 878 2 7 er 
+: 881 1 7 it 
+: 883 5 7 is,
+: 890 1 1 ~ 
+- 893
+: 896 5 1 That 
+: 903 7 4 girl 
+: 923 2 4 put 
+: 926 1 4 a 
+: 931 6 6 spell 
+: 940 3 4 on 
+: 947 7 4 me
+: 957 4 -5 ~ 
+- 963
+: 1068 5 7 Help 
+: 1076 6 1 me 
+- 1084
+: 1125 6 6 Help 
+: 1133 8 1 me 
+- 1143
+F 1178 7 0 Oh, 
+F 1189 8 0 no, 
+F 1205 12 0 no 
+- 1219
+F 1705 18 0 Oooh, 
+F 1763 8 0 ahhh 
+- 1773
+F 1821 11 0 Oooh, 
+F 1880 12 0 ahhh 
+- 1894
+F 1939 10 0 Oooh, 
+F 1996 11 0 ahhh 
+- 2009
+F 2055 10 0 Oooh, 
+F 2112 12 0 ahhh, 
+- 2126
+* 2135 7 7 Yeah!
+* 2143 5 4 ~ 
+- 2150
+: 2163 3 7 Purp
+: 2167 2 7 le 
+: 2171 7 7 haze
+: 2180 6 1 ~ 
+: 2200 4 4 all 
+: 2208 3 4 in 
+: 2215 3 4 my 
+: 2223 8 6 eyes
+: 2234 3 -3 ~ 
+- 2239
+: 2272 5 7 Don’t 
+: 2280 9 7 know 
+: 2300 3 2 if 
+: 2304 6 4 it’s 
+: 2323 6 6 day 
+: 2331 3 4 or 
+: 2339 10 4 night 
+- 2351
+: 2388 3 7 You 
+: 2395 4 7 got 
+: 2402 3 7 me 
+: 2410 6 7 blow
+: 2417 2 2 in’, 
+: 2439 3 4 blow
+: 2443 2 4 in’ 
+: 2446 4 4 my 
+: 2454 6 6 mind
+: 2461 3 1 ~ 
+- 2466
+: 2480 3 4 Is 
+: 2485 4 1 it 
+: 2504 4 7 to
+: 2511 6 7 morr
+: 2518 4 1 ow, 
+- 2524
+: 2532 3 1 Or 
+: 2539 5 4 just 
+: 2547 4 4 the 
+* 2555 5 6 end 
+* 2563 4 4 of 
+* 2571 11 4 time? 
+- 2584
+F 2693 17 0 Oooh 
+- 2712
+: 2748 5 7 Help 
+: 2755 6 2 me 
+- 2763
+F 2805 11 0 Ahh, 
+: 2834 7 9 yea
+: 2843 8 7 -yeah,
+: 2853 8 4 ~ 
+- 2863
+F 2942 9 0 Oh, 
+F 2955 10 0 no, 
+F 2976 13 0 no 
+- 2991
+F 3020 4 0 Oh, 
+F 3028 4 0 help 
+F 3034 6 0 me 
+- 3042
+F 3073 3 0 Tell 
+F 3077 4 0 me, 
+F 3096 5 0 tell 
+F 3103 5 0 me, 
+- 3110
+F 3129 3 0 I 
+F 3135 5 0 can’t 
+F 3142 3 0 go 
+F 3147 5 0 on 
+F 3155 6 0 like 
+F 3163 5 0 this 
+- 3170
+F 3194 3 0 You’re 
+F 3198 3 0 mak
+F 3202 3 0 in’ 
+F 3207 4 0 me 
+F 3216 7 0 blow 
+F 3226 7 0 my 
+F 3238 9 0 mind 
+- 3249
+F 3289 12 0 No, 
+F 3311 12 0 no, 
+F 3329 13 0 no 
+- 3344
+F 3371 16 0 No, 
+F 3412 11 0 no, 
+F 3424 8 0 no 
+E

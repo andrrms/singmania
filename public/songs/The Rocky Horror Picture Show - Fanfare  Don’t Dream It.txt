@@ -1,0 +1,267 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Fanfare / Don’t Dream It
+#MP3:The Rocky Horror Picture Show - Fanfare / Don’t Dream It.mp3
+#CREATOR:DoubleDee
+#COVER:The Rocky Horror Picture Show - Fanfare / Don’t Dream It [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - Fanfare / Don’t Dream It [BG].jpg
+#GENRE:Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:323
+#GAP:33460
+#VIDEO:a=7Vl6mapqpkI,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=the-rocky-horror-picture-show-54414d5bd38e9.jpg
+: 0 2 12 What
+: 4 2 12 e
+: 8 2 12 ver 
+: 13 3 12 hap
+: 17 2 10 pen
+: 20 2 8 ~ed 
+: 46 2 8 to 
+: 54 4 10 Fay
+: 59 4 5 ~ 
+: 67 12 5 Wray? 
+- 89
+: 112 4 9 That 
+: 124 3 9 de
+: 128 2 9 li
+: 131 2 9 cate 
+: 162 3 9 sa
+: 166 4 7 tin 
+: 176 6 5 draped 
+: 196 36 7 frame 
+- 253
+: 280 2 5 As 
+: 283 3 5 it 
+: 290 8 5 clung 
+: 314 3 4 to 
+: 318 3 5 her 
+: 324 3 4 thigh
+: 328 23 2 ~, 
+- 361
+: 379 4 5 How 
+: 384 4 2 I 
+: 394 5 4 star
+: 401 5 -1 ted 
+: 429 2 -1 to 
+: 438 7 0 cry
+: 446 6 -1 ~
+: 453 24 -3 ~ 
+- 487
+: 519 4 -1 Cause 
+: 524 4 -1 I 
+: 531 5 2 wan
+: 539 4 -1 ted 
+: 548 4 0 to 
+: 553 3 -1 be 
+: 559 3 0 dres
+: 563 4 -3 ~sed 
+: 590 5 4 just 
+: 602 5 5 the 
+: 611 4 4 same
+: 616 60 2 ~ 
+- 686
+: 705 7 12 Give 
+: 715 6 12 your
+: 724 6 12 self 
+: 735 4 12 o
+: 742 6 8 ver 
+: 763 5 12 to 
+: 773 5 12 ab
+: 779 6 9 ~
+: 793 5 11 so
+: 799 4 12 lute 
+: 808 6 12 plea
+: 815 3 9 ~
+: 819 4 7 ~
+: 825 8 7 sure
+: 834 4 4 ~
+: 839 4 2 ~ 
+- 855
+: 859 10 9 Swim 
+: 873 3 5 the 
+: 878 7 8 warm
+: 886 5 5 ~ 
+: 895 6 8 wa
+: 903 10 8 ters 
+: 925 6 7 of 
+: 937 7 7 sin
+: 945 8 0 ~s 
+: 954 6 5 of 
+: 961 5 5 the 
+: 975 12 7 fle
+: 988 6 4 ~
+: 995 6 2 ~sh 
+- 1009
+: 1012 4 9 E
+: 1017 3 0 ~
+: 1022 3 8 ro
+: 1026 3 8 tic 
+: 1041 5 8 night
+: 1050 11 8 mares 
+: 1076 4 0 be
+: 1081 7 7 yon
+: 1090 7 4 ~d 
+: 1099 5 7 a
+: 1105 4 4 ny
+: 1110 8 2 ~ 
+: 1124 8 7 mea
+: 1135 6 7 sure
+: 1142 7 0 ~ 
+- 1161
+: 1165 10 8 And 
+: 1181 5 8 sen
+: 1190 3 8 su
+: 1194 3 5 al 
+: 1204 4 8 day
+: 1212 4 8 dream
+: 1217 3 7 ~
+: 1221 4 5 ~s 
+: 1240 3 5 to 
+: 1244 6 7 trea
+: 1252 5 7 sure 
+: 1276 5 7 for
+: 1283 5 7 e
+: 1289 3 4 ~
+: 1293 18 2 ~
+: 1314 11 2 ver 
+- 1335
+: 1345 6 7 Can
+: 1352 4 4 ~’t 
+: 1362 7 7 you 
+: 1372 9 7 just 
+: 1390 4 14 see
+: 1395 24 7 ~ 
+: 1421 7 7 it
+: 1429 6 5 ~? 
+- 1445
+: 1455 8 14 Oh, 
+: 1464 10 16 oh, 
+: 1484 39 17 oh
+: 1524 4 16 ~
+: 1529 4 14 ~
+: 1534 3 12 ~ 
+- 1580
+: 1667 8 7 Don’t 
+: 1688 11 7 dream 
+: 1702 6 0 it, 
+- 1729
+: 1762 8 11 Be
+: 1772 10 12 ~ 
+: 1785 10 14 it. 
+- 1805
+: 1826 16 12 Don’t 
+: 1846 9 11 drea
+: 1856 10 9 ~m 
+: 1867 7 9 it
+: 1876 6 7 ~, 
+- 1903
+: 1928 7 11 Be
+: 1936 7 12 ~ 
+: 1949 11 14 it. 
+- 1970
+: 1988 12 12 Don’t 
+: 2008 7 11 drea
+: 2016 8 9 ~m 
+: 2028 8 9 it, 
+- 2057
+: 2089 7 11 Be
+: 2098 8 12 ~ 
+: 2111 12 14 it. 
+- 2133
+: 2149 14 12 Don’t 
+: 2168 9 11 dream
+: 2179 8 9 ~ 
+: 2188 6 9 it
+: 2196 5 7 ~, 
+- 2222
+: 2249 7 11 Be
+: 2257 10 12 ~ 
+: 2270 11 14 it. 
+- 2291
+F 2307 14 12 Don’t 
+F 2337 16 12 dream 
+F 2360 16 12 it, 
+- 2386
+: 2407 7 11 Be
+: 2415 8 12 ~ 
+: 2428 11 14 it 
+- 2449
+F 2466 13 12 Don’t 
+F 2491 17 11 dream 
+F 2518 13 9 it, 
+- 2541
+: 2565 7 11 Be
+: 2573 9 12 ~ 
+: 2586 11 14 it. 
+- 2607
+R 2624 7 12 Ach! 
+F 2656 4 12 We’ve 
+F 2664 4 12 got 
+F 2672 3 12 to 
+F 2677 3 12 get 
+F 2713 6 12 out 
+F 2724 3 12 of 
+F 2728 3 12 this 
+F 2736 4 12 trap 
+- 2750
+F 2778 2 12 Be
+F 2782 4 12 fore 
+F 2794 4 12 this 
+F 2817 3 12 de
+F 2822 2 12 ca
+F 2826 3 12 dence 
+- 2839
+F 2872 4 12 Saps 
+F 2892 5 12 our 
+F 2899 7 12 will 
+- 2916
+F 2949 5 12 I’ve 
+F 2955 2 12 got 
+F 2958 2 12 to 
+F 2962 2 12 be 
+F 2969 4 12 strong 
+- 2983
+F 3011 4 12 And 
+F 3021 3 12 try 
+F 3027 3 12 to 
+F 3045 4 12 hang 
+F 3051 5 12 on 
+- 3077
+F 3100 3 12 Or 
+F 3104 4 12 else 
+F 3125 3 12 my 
+F 3131 5 12 mind 
+F 3171 5 12 may 
+F 3178 5 12 well 
+F 3199 5 19 snap 
+- 3214
+F 3239 6 12 And 
+F 3248 5 12 my 
+F 3255 5 12 life 
+F 3287 4 12 will 
+F 3292 3 12 be 
+F 3296 8 12 lived 
+- 3325
+: 3364 17 7 For 
+: 3385 12 7 the 
+* 3405 107 16 thrill
+: 3515 34 14 ~s... 
+- 3551
+: 3553 13 12 It’s 
+: 3573 19 12 be
+: 3594 17 12 yond 
+: 3613 11 12 me, 
+* 3645 7 20 help 
+: 3655 4 8 me 
+: 3669 6 10 Mom
+: 3676 3 12 ~
+: 3680 3 14 my
+: 3684 5 20 ~ 
+- 3699
+: 3720 15 12 God 
+: 3738 11 12 bless 
+: 3765 9 16 Li
+: 3777 13 14 ly 
+: 3802 12 12 St. 
+: 3816 43 14 Cyr... 
+E

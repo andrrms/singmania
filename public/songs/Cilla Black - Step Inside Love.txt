@@ -1,0 +1,266 @@
+#ARTIST:Cilla Black
+#TITLE:Step Inside Love
+#MP3:Cilla Black - Step Inside Love.mp3
+#CREATOR:baggier
+#YEAR:1968
+#LANGUAGE:English
+#BPM:264.4
+#GAP:170
+#VIDEO:v=kGddBXNR3s8,co=https://i.discogs.com/XY97slC43SIQ9edpR-mvEQhQTF31jH8HAxBuQi7aNgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIy/MDUtMTM5NzY0NzI0/NC0zNTI4LmpwZWc.jpeg,bg=black-cilla-5d779adf4d386.jpg
+: 0 6 6 Step 
+: 7 3 7 in
+: 11 18 9 side 
+: 31 19 14 love 
+- 52
+: 72 3 6 Let 
+: 76 2 7 me 
+: 79 7 9 find 
+: 88 3 11 you 
+: 92 3 12 a 
+: 96 18 14 place 
+- 116
+: 136 2 12 Where 
+: 139 2 11 the 
+: 143 8 9 cares 
+: 152 3 7 of 
+: 156 3 9 the 
+: 160 6 11 day 
+- 167
+: 167 3 9 Will 
+: 171 3 7 be 
+: 175 3 9 car
+: 179 2 7 ried 
+: 182 2 9 aw
+: 186 4 11 ay 
+- 192
+: 198 4 4 By 
+: 203 2 2 the 
+: 207 8 6 smile 
+: 217 2 9 on 
+: 220 3 10 your 
+: 224 20 12 face 
+- 246
+: 255 5 10 We 
+: 262 4 9 are 
+: 267 9 7 to
+: 277 5 7 ge
+: 283 4 5 ther 
+: 288 6 5 now 
+: 297 4 7 and 
+: 304 5 9 for
+: 311 12 11 ever, 
+- 325
+: 341 7 13 Come 
+: 350 6 14 my 
+: 357 22 16 way 
+- 381
+: 393 4 10 Step 
+: 399 3 13 in
+: 404 11 14 side 
+: 418 23 19 love, 
+: 456 7 17 and 
+: 465 7 17 st
+: 473 4 16 ay 
+- 479
+: 481 6 16 Step 
+: 489 5 17 in
+: 496 7 16 side 
+: 506 13 14 love, 
+- 521
+: 545 4 16 Step 
+: 552 6 17 in
+: 559 7 16 side 
+: 568 16 14 love 
+- 586
+: 607 6 16 Step 
+: 616 3 17 in
+: 620 9 16 side 
+: 630 7 14 love, 
+- 638
+: 639 2 11 I 
+: 643 2 14 want 
+: 646 2 12 you 
+: 650 4 14 to 
+: 657 24 14 stay 
+- 683
+: 706 2 5 You 
+: 710 5 7 look 
+: 720 16 9 tired 
+: 739 13 14 love, 
+- 754
+: 777 2 6 Let 
+: 782 2 6 me 
+: 786 7 8 turn 
+: 795 3 11 down 
+: 799 2 12 the 
+: 802 16 14 light, 
+- 820
+: 842 2 12 Come 
+: 845 3 11 in 
+: 849 6 8 out 
+: 856 3 9 of 
+: 860 3 9 the 
+: 864 6 11 cold 
+- 872
+: 873 3 9 Rest 
+: 877 2 7 your 
+: 881 6 9 head 
+: 888 2 7 on 
+: 893 2 9 my 
+: 898 5 10 shoul
+: 904 4 4 der 
+- 909
+: 910 2 4 And 
+: 915 4 6 love 
+: 920 3 8 me 
+: 925 3 10 to
+: 931 15 12 night 
+- 948
+: 960 3 11 I’ll 
+: 965 4 9 al
+: 970 6 7 ways 
+: 978 4 5 be 
+: 986 5 4 here 
+: 994 4 4 if 
+: 1000 3 5 you 
+: 1005 4 9 should 
+: 1011 5 12 need 
+: 1018 9 11 me, 
+- 1029
+: 1044 3 13 Ni
+: 1048 3 13 ght 
+: 1054 4 14 and 
+: 1062 3 14 da
+: 1067 19 16 y 
+- 1088
+: 1097 4 11 Step 
+: 1103 3 13 in
+: 1109 8 14 side 
+: 1120 28 19 love, 
+: 1154 13 17 and 
+: 1170 4 16 st
+: 1175 4 14 ay 
+- 1181
+: 1185 5 16 Step 
+: 1192 7 17 in
+: 1201 6 16 side 
+: 1209 10 14 love, 
+- 1221
+: 1248 1 21 St
+: 1250 3 16 ep 
+: 1256 5 17 in
+: 1263 7 16 side 
+: 1273 15 14 love 
+- 1290
+: 1310 6 17 Step 
+: 1318 5 17 in
+: 1325 7 16 side 
+: 1334 6 14 love, 
+- 1341
+: 1342 2 12 I 
+: 1345 2 14 want 
+: 1349 2 12 you 
+: 1353 4 14 to 
+- 1359
+* 1360 73 14 Stay 
+- 1435
+: 1815 2 18 St
+: 1818 3 16 ep 
+: 1823 5 16 in
+: 1830 8 16 side 
+: 1840 8 14 love, 
+- 1850
+: 1878 6 16 Step 
+: 1886 5 17 in
+: 1893 6 17 side 
+: 1901 8 14 love 
+- 1911
+: 1941 3 18 Step 
+: 1948 5 16 in
+: 1955 6 16 side 
+: 1963 6 14 love, 
+- 1970
+: 1971 2 12 I 
+: 1975 3 14 want 
+: 1979 2 12 you 
+: 1983 4 14 to 
+- 1989
+: 1990 82 14 Stay 
+- 2074
+: 2103 3 6 When 
+: 2108 5 7 you 
+* 2114 17 9 leave 
+: 2134 11 14 me 
+- 2147
+: 2170 3 6 Say 
+: 2174 3 7 you’ll 
+: 2178 3 6 se
+: 2182 3 9 e 
+: 2188 3 11 me 
+: 2192 2 12 a
+: 2195 13 14 gain, 
+- 2210
+: 2235 2 12 For 
+: 2239 2 11 I 
+: 2243 6 9 know 
+: 2250 2 7 in 
+: 2254 3 9 my 
+: 2258 5 11 heart 
+- 2265
+: 2267 2 9 We 
+: 2270 3 7 will 
+* 2274 3 9 not 
+: 2281 1 7 be 
+: 2283 2 9 a
+: 2286 7 11 part, 
+- 2295
+: 2300 3 2 And 
+: 2304 3 2 I’ll 
+: 2309 5 7 miss 
+: 2315 3 9 you 
+: 2319 4 10 ’til 
+: 2325 10 12 then, 
+- 2337
+: 2356 2 10 We’ll 
+: 2361 3 9 be 
+: 2367 7 6 to
+: 2375 5 7 ge
+: 2381 4 5 ther 
+: 2388 8 5 now 
+: 2398 2 7 and 
+: 2402 5 9 for
+: 2408 16 11 ever, 
+- 2426
+: 2438 7 13 Come 
+: 2448 5 14 my 
+: 2455 18 16 way 
+- 2475
+: 2491 3 11 Step 
+: 2496 3 13 in
+: 2500 12 14 side 
+* 2516 25 19 love, 
+: 2550 7 18 and 
+: 2560 7 16 st
+: 2568 7 14 ay 
+- 2576
+: 2577 6 16 Step 
+: 2587 13 16 inside 
+: 2602 13 14 love 
+- 2617
+: 2642 4 18 Step 
+: 2651 4 17 in
+: 2657 6 16 side 
+: 2664 13 14 love, 
+- 2679
+: 2705 2 18 St
+: 2708 2 17 ep 
+: 2713 4 17 in
+: 2719 6 16 side 
+: 2727 6 14 love, 
+- 2734
+: 2735 2 12 I 
+: 2739 2 14 want 
+: 2742 3 12 you 
+: 2747 4 14 to 
+: 2754 83 14 stay 
+E

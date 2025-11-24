@@ -1,0 +1,204 @@
+#ARTIST:Elton John
+#TITLE:Blue Eyes
+#MP3:Elton John - Blue Eyes.mp3
+#CREATOR:PowerOric
+#GENRE:Pop Rock
+#YEAR:1982
+#LANGUAGE:English
+#BPM:214.32
+#GAP:2620
+#VIDEO:v=4CiyKeSnSxk,co=https://i.discogs.com/Koy9euJgahQnICgDIpkBLcoZerT4ZL-yX2eQXIlke_M/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/NjEtMTQ3NjYyOTI2/NS0xOTQ1LmpwZWc.jpeg,bg=elton-john-4ddf9174a9131.jpg,preview=29.44,medley=384-1122
+: 0 6 7 Blue 
+: 8 32 10 eyes 
+- 42
+: 62 6 12 Ba
+: 70 2 9 by’s 
+: 74 6 5 got 
+* 91 4 0 blue 
+* 98 24 -2 eyes 
+- 124
+: 162 2 5 Like 
+: 166 2 5 a 
+: 170 14 9 deep 
+: 186 10 12 blue 
+: 198 22 7 sea 
+- 222
+: 258 2 2 On 
+: 262 2 5 a 
+: 266 14 9 blue 
+: 284 6 7 blue 
+: 292 24 5 day 
+- 318
+: 384 6 7 Blue 
+: 392 32 10 eyes 
+- 426
+: 446 6 12 Ba
+: 454 2 9 by’s 
+: 462 6 5 got 
+: 476 4 0 blue 
+: 482 32 -2 eyes 
+- 516
+: 546 2 5 When 
+: 550 2 5 the 
+* 554 14 9 mor
+* 570 12 12 ning 
+* 584 30 7 comes 
+- 616
+: 642 2 2 I’ll 
+: 646 2 5 be 
+: 650 14 9 far 
+: 668 1 5 a
+: 670 3 9 wa
+: 674 18 7 y 
+- 694
+: 722 4 17 And 
+: 730 4 16 I 
+: 738 22 9 say 
+- 762
+: 782 4 17 Blue 
+: 788 4 16 eyes 
+: 794 4 14 hol
+: 800 4 12 ding 
+* 806 4 9 back 
+* 811 2 7 the 
+* 814 22 5 tears 
+- 838
+: 842 6 14 Hol
+: 850 3 12 ding 
+: 855 10 9 back 
+: 868 2 7 the 
+: 872 20 5 pain 
+- 894
+: 926 4 12 Ba
+: 932 4 9 by’s 
+: 938 6 5 got 
+: 952 4 0 blue 
+: 960 26 -2 eyes 
+- 988
+: 1000 2 2 And 
+: 1004 2 5 she’s 
+* 1008 2 7 a
+* 1012 3 8 lo
+* 1016 22 7 ne 
+- 1040
+: 1092 2 9 A
+: 1096 4 7 ga
+: 1102 20 5 in 
+- 1124
+: 1238 4 7 Blue 
+: 1244 34 10 eyes 
+- 1280
+: 1300 6 12 Ba
+: 1308 2 9 by’s 
+: 1312 6 5 got 
+* 1328 4 0 blue 
+* 1334 26 -2 eyes 
+- 1362
+: 1400 1 5 Like 
+: 1402 2 5 a 
+: 1406 16 9 clear 
+: 1424 10 12 blue 
+: 1436 22 7 sky 
+- 1460
+: 1496 2 2 Wat
+: 1500 2 5 ching 
+: 1504 3 9 o
+: 1508 1 7 ~
+: 1510 8 9 ~
+: 1520 6 7 ver 
+: 1528 26 5 me 
+- 1556
+: 1622 6 7 Blue 
+: 1630 32 10 eyes 
+- 1664
+* 1684 6 17 Uh
+* 1692 2 9 ~ 
+* 1696 3 9 I 
+* 1703 10 5 love 
+: 1718 2 0 blue 
+: 1724 30 -2 eyes 
+- 1756
+: 1785 2 5 When 
+: 1788 3 5 I’m 
+: 1793 14 9 by 
+: 1809 11 12 her 
+: 1821 30 7 side 
+- 1853
+: 1881 3 2 Where 
+: 1885 2 5 I 
+: 1888 14 9 long 
+* 1905 2 5 to 
+* 1908 2 9 be
+* 1911 12 7 ~ 
+- 1925
+: 1962 4 17 I 
+: 1970 4 16 will 
+: 1978 22 9 see 
+- 2002
+: 2022 4 17 Blue 
+: 2028 4 16 eyes 
+: 2034 4 14 laugh
+: 2040 4 12 ing 
+: 2046 4 9 in 
+: 2052 2 7 the 
+: 2056 22 5 sun 
+- 2080
+: 2082 6 14 Laugh
+: 2090 4 12 ing 
+* 2096 3 9 in
+* 2100 1 7 ~
+* 2102 4 9 ~ 
+* 2108 2 7 the 
+* 2112 20 5 rain 
+- 2134
+: 2164 6 12 Ba
+: 2172 3 9 by’s 
+: 2176 6 5 got 
+: 2192 4 0 blue 
+: 2200 26 -2 eyes 
+- 2228
+: 2242 4 2 And 
+: 2248 2 5 I 
+: 2252 2 7 am 
+: 2256 3 8 ho
+: 2260 28 7 me 
+- 2290
+: 2312 1 2 And 
+: 2314 2 5 I 
+: 2318 2 7 am 
+* 2322 6 9 ho
+* 2330 2 7 me 
+* 2334 2 9 a
+* 2337 2 7 ga
+* 2340 10 9 in 
+- 2352
+: 2356 4 17 Blue 
+: 2362 4 16 eyes 
+: 2368 4 14 laugh
+: 2374 4 12 ing 
+: 2380 4 9 in 
+: 2386 2 7 the 
+: 2390 22 5 sun 
+- 2414
+: 2416 6 14 Laugh
+: 2424 4 12 ing 
+: 2430 10 9 in 
+: 2442 2 7 the 
+: 2446 20 5 rain 
+- 2468
+: 2499 6 12 Ba
+: 2507 2 9 by’s 
+: 2511 6 5 got 
+* 2527 4 0 blue 
+* 2535 26 -2 eyes 
+- 2563
+: 2576 3 2 And 
+: 2580 3 5 I 
+: 2584 2 7 am 
+: 2588 3 8 ho
+: 2592 28 7 me 
+- 2622
+: 2670 2 9 A
+: 2674 5 7 ga
+: 2681 20 5 in 
+E

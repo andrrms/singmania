@@ -1,0 +1,866 @@
+#ARTIST:DJ Jazzy Jeff & The Fresh Prince
+#TITLE:Summertime
+#MP3:DJ Jazzy Jeff & The Fresh Prince - Summertime.mp3
+#CREATOR:ultrastarsongs
+#EDITION:SingStar R&B
+#GENRE:Rap
+#YEAR:1991
+#LANGUAGE:English
+#BPM:379.32
+#GAP:18430
+#VIDEO:v=Kr0tTbTbmVA,co=https://i.discogs.com/I7FK-LL7Oi-fq8XPtUNdUWNJ2-p_kR8niNsGWDdkkjQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/OS0xMzMwOTA3MzA3/LmpwZWc.jpeg,bg=jazzy-jeff-dj--fresh-prince-the-51f2924a620d2.jpg
+: 0 3 17 Sum
+: 4 4 19 mer, 
+: 12 6 19 sum
+: 20 6 21 mer, 
+: 28 4 19 sum
+: 36 4 21 mer
+: 44 7 22 time
+: 52 4 21 ~ 
+- 58
+: 128 3 17 And 
+: 132 4 19 just 
+: 140 7 19 sit 
+: 148 4 21 back 
+: 156 4 22 and 
+: 164 4 17 un
+: 172 16 17 wind 
+- 190
+F 232 3 17 Here 
+F 236 3 17 it 
+F 240 10 17 is 
+F 252 3 17 a 
+F 256 8 17 groove 
+- 266
+F 268 7 14 Slight
+F 276 3 14 ly 
+F 280 14 14 trans
+F 296 12 14 formed 
+- 310
+F 312 3 17 Just 
+F 316 3 17 a 
+F 320 3 17 bit 
+F 324 3 17 of 
+F 328 3 17 a 
+F 332 4 17 break 
+F 340 3 17 from 
+F 344 3 17 the 
+F 348 8 17 norm 
+- 358
+F 368 3 14 Just 
+F 372 3 14 a 
+F 376 3 14 litt
+F 380 3 14 le 
+F 384 3 14 some
+F 388 2 14 thing 
+- 391
+F 392 3 17 To 
+F 396 3 17 break 
+F 400 3 17 the 
+F 404 3 17 mo
+F 408 3 17 no
+F 412 3 17 to
+F 416 4 17 ny 
+- 422
+F 428 3 14 Of 
+F 432 3 14 all 
+F 436 6 14 that 
+F 444 6 14 hard
+F 452 6 14 core 
+F 460 6 14 dance 
+- 467
+F 468 3 17 That 
+F 472 3 17 has 
+F 476 3 17 got
+F 480 3 17 ten 
+F 484 3 17 to 
+F 488 2 17 be 
+- 491
+F 492 3 14 A 
+F 496 3 14 litt
+F 500 3 14 le 
+F 504 4 14 bit 
+F 512 3 14 out 
+F 516 3 14 of 
+F 520 3 14 cont
+F 524 4 14 rol 
+- 530
+F 532 3 17 It’s 
+F 536 4 17 cool 
+F 544 3 17 to 
+F 548 4 17 dance 
+- 554
+F 556 3 14 But 
+F 560 3 14 what 
+F 564 3 14 a
+F 568 3 14 bout 
+F 572 3 14 a 
+F 576 4 14 groove 
+- 582
+F 584 3 17 That 
+F 588 4 17 soothes 
+F 596 3 17 to 
+F 600 4 17 move 
+F 608 3 17 ro
+F 612 10 17 mance 
+- 624
+F 640 3 14 Give 
+F 644 3 14 me 
+F 648 3 14 a 
+F 652 4 14 soft 
+F 660 3 14 sub
+F 664 3 14 tle 
+F 668 4 14 mix 
+- 674
+F 684 3 17 And 
+F 688 3 17 if 
+F 692 3 17 it 
+F 696 4 17 ain’t 
+F 704 4 17 broke 
+- 710
+F 712 3 14 Then 
+F 716 4 14 don’t 
+F 724 3 14 try 
+F 728 3 14 to 
+F 732 4 14 fix 
+F 740 4 14 it 
+- 746
+F 764 3 17 And 
+F 768 3 17 think 
+F 772 3 17 of 
+F 776 3 17 the 
+F 780 3 17 sum
+F 784 3 17 mers 
+F 788 3 17 of 
+F 792 3 17 the 
+F 796 8 17 past 
+- 806
+F 812 3 14 Ad
+F 816 4 14 just 
+F 824 3 14 the 
+F 828 4 14 bass 
+- 834
+F 836 3 17 And 
+F 840 3 17 let 
+F 844 3 17 the 
+F 848 6 17 al
+F 856 6 17 pine 
+F 864 6 17 blast 
+- 872
+F 880 3 14 Pop 
+F 884 4 14 in 
+F 892 4 14 my 
+F 900 4 14 C 
+F 908 3 14 D 
+F 912 3 14 and 
+F 916 3 14 let 
+F 920 3 14 me 
+F 924 3 14 run 
+F 928 3 14 a 
+F 932 4 14 rhyme 
+- 938
+F 940 3 18 And 
+F 944 3 18 put 
+F 948 6 18 your 
+F 956 6 18 car 
+F 964 6 18 on 
+F 972 6 18 cruise 
+F 980 3 18 and 
+F 984 3 18 lay 
+F 988 4 18 back 
+- 994
+F 996 3 13 ’Cause 
+F 1000 7 13 it’s 
+F 1008 3 13 sum
+F 1012 3 13 mer
+F 1016 4 13 time 
+- 1022
+: 1024 3 17 Sum
+: 1028 4 19 mer, 
+: 1036 6 19 sum
+: 1044 6 21 mer, 
+: 1052 4 19 sum
+: 1060 4 21 mer
+: 1068 7 22 time
+: 1076 4 21 ~ 
+- 1082
+: 1104 3 21 Sum
+: 1108 3 19 mer
+: 1112 8 17 time 
+- 1122
+: 1152 3 17 And 
+: 1156 4 19 just 
+: 1164 7 19 sit 
+: 1172 4 21 back 
+: 1180 4 22 and 
+: 1188 4 17 un
+: 1196 16 17 wind 
+- 1214
+: 1280 3 17 Sum
+: 1284 4 19 mer, 
+: 1292 6 19 sum
+: 1300 6 21 mer, 
+: 1308 4 19 sum
+: 1316 4 21 mer
+* 1324 7 22 time
+: 1332 4 21 ~ 
+- 1338
+: 1360 3 21 Sum
+: 1364 3 19 mer
+: 1368 8 17 time 
+- 1378
+: 1408 3 17 And 
+: 1412 4 19 just 
+: 1420 7 19 sit 
+: 1428 4 21 back 
+: 1436 4 22 and 
+: 1444 4 17 un
+: 1452 16 17 wind 
+- 1470
+F 1520 4 14 School 
+F 1528 3 14 is 
+F 1532 4 14 out 
+- 1538
+F 1540 3 17 And 
+F 1544 3 17 it’s 
+F 1548 3 17 a 
+F 1552 3 17 sort 
+F 1556 3 17 of 
+F 1560 3 17 a 
+F 1564 8 17 buzz 
+- 1574
+F 1588 3 14 But 
+F 1592 4 14 back 
+F 1600 3 14 then 
+F 1604 3 14 I 
+F 1608 3 14 did
+F 1612 3 14 n’t 
+F 1616 3 14 real
+F 1620 3 14 ly 
+F 1624 2 14 know 
+- 1627
+F 1628 3 17 What 
+F 1632 3 17 it 
+F 1636 8 17 was 
+- 1646
+F 1660 3 14 But 
+F 1664 3 14 now 
+F 1668 4 14 I 
+F 1676 4 14 see 
+F 1684 4 14 what 
+F 1692 3 14 hap
+F 1696 3 14 pened 
+F 1700 4 14 is 
+- 1706
+F 1708 3 17 The 
+F 1712 4 17 way 
+F 1720 4 17 that 
+F 1728 3 17 peo
+F 1732 3 17 ple 
+F 1736 3 17 res
+F 1740 4 17 pond 
+- 1746
+F 1748 3 14 To 
+F 1752 3 14 sum
+F 1756 3 14 mer 
+F 1760 7 14 mad
+F 1768 8 14 ness 
+- 1778
+F 1788 3 17 The 
+F 1792 3 17 wea
+F 1796 3 17 ther 
+F 1800 3 17 is 
+F 1804 2 17 hot 
+- 1807
+F 1808 3 14 And 
+F 1812 3 14 girls 
+F 1816 3 14 are 
+F 1820 3 14 dress
+F 1824 3 14 ing 
+F 1828 4 14 less 
+- 1834
+F 1836 3 17 And 
+F 1840 3 17 check
+F 1844 3 17 ing 
+F 1848 3 17 out 
+F 1852 3 17 the 
+F 1856 3 17 fel
+F 1860 2 17 las 
+- 1863
+F 1864 3 14 To 
+F 1868 3 14 tell 
+F 1872 3 14 ’em 
+F 1876 4 14 who’s 
+F 1884 4 14 best 
+- 1890
+F 1904 4 17 Rid
+F 1912 1 17 ing 
+F 1914 1 17 a
+F 1916 8 17 round 
+- 1926
+F 1928 3 14 In 
+F 1932 3 14 your 
+F 1936 3 14 Jeep 
+F 1940 3 14 or 
+F 1944 3 14 your 
+F 1948 7 14 Ben
+F 1956 8 14 zo’s 
+- 1966
+F 1972 3 17 Or 
+F 1976 3 17 in 
+F 1980 3 17 your 
+F 1984 3 17 Nis
+F 1988 4 17 san 
+- 1994
+F 1996 3 14 Sit
+F 2000 3 14 ting 
+F 2004 3 14 on 
+F 2008 3 14 lo
+F 2012 4 14 ren
+F 2020 4 14 zos 
+- 2026
+F 2032 4 17 Back 
+F 2040 4 17 in 
+F 2048 3 17 Phil
+F 2052 3 17 ly 
+F 2056 3 17 we 
+F 2060 3 17 be 
+F 2064 3 17 out 
+F 2068 3 17 in 
+F 2072 3 17 the 
+F 2076 4 17 park 
+- 2082
+F 2092 3 14 A 
+F 2096 4 14 place 
+F 2104 3 14 called 
+F 2108 3 14 the 
+F 2112 4 14 pla
+F 2120 2 14 teau 
+- 2123
+F 2124 3 17 Is 
+F 2128 3 17 where 
+F 2132 3 17 ev
+F 2136 3 17 ery
+F 2140 3 17 bo
+F 2144 3 17 dy 
+F 2148 4 17 go 
+- 2154
+F 2160 4 14 Guys 
+F 2168 4 14 out 
+F 2176 3 14 hunt
+F 2180 2 14 ing 
+- 2183
+F 2184 3 17 And 
+F 2188 4 17 girls 
+F 2196 3 17 do
+F 2200 3 17 ing 
+F 2204 4 17 like
+F 2212 4 17 wise 
+- 2218
+F 2224 3 14 Honk
+F 2228 3 14 ing 
+F 2232 3 14 at 
+F 2236 3 14 the 
+F 2240 3 14 ho
+F 2244 2 14 ney 
+- 2247
+F 2248 3 17 In 
+F 2252 3 17 front 
+F 2256 3 17 of 
+F 2260 3 17 you 
+F 2264 3 17 with 
+F 2268 3 17 the 
+F 2272 4 17 light 
+F 2280 4 17 eyes 
+- 2286
+F 2300 3 14 She 
+F 2304 3 14 turned 
+F 2308 3 14 a
+F 2312 3 14 round 
+F 2316 3 14 to 
+F 2320 2 14 see 
+- 2323
+F 2324 3 17 What 
+F 2328 3 17 you 
+F 2332 3 17 beep
+F 2336 3 17 in’ 
+F 2340 4 17 at 
+- 2346
+F 2356 3 14 It’s 
+F 2360 3 14 like 
+F 2364 3 14 the 
+F 2368 3 14 sum
+F 2372 2 14 mer’s 
+- 2375
+F 2376 3 17 A 
+F 2380 1 17 na
+F 2382 1 17 tu
+F 2384 3 17 ral 
+F 2388 3 17 aph
+F 2392 3 17 ro
+F 2396 3 17 di
+F 2400 3 17 si
+F 2404 4 17 ac 
+- 2410
+F 2412 3 14 And 
+F 2416 3 14 with 
+F 2420 3 14 a 
+F 2424 3 14 pen 
+F 2428 3 14 and 
+F 2432 4 14 pad 
+- 2438
+F 2440 3 17 I 
+F 2444 3 17 com
+F 2448 4 17 posed 
+F 2456 4 17 this 
+F 2464 4 17 rhyme 
+- 2470
+F 2476 3 13 To 
+F 2480 3 13 hip 
+F 2484 3 13 you 
+F 2488 7 13 and 
+F 2496 3 13 get 
+F 2500 2 13 you 
+- 2503
+F 2504 3 18 E
+F 2508 4 18 quipped 
+F 2516 3 18 for 
+F 2520 3 18 the 
+F 2524 3 18 sum
+F 2528 3 18 mer
+F 2532 10 18 time 
+- 2544
+: 2560 3 17 Sum
+: 2564 4 19 mer, 
+: 2572 6 19 sum
+: 2580 6 21 mer, 
+: 2588 4 19 sum
+: 2596 4 21 mer
+: 2604 7 22 time
+: 2612 4 21 ~ 
+- 2618
+: 2640 3 21 Sum
+: 2644 3 19 mer
+: 2648 8 17 time 
+- 2658
+: 2688 3 17 And 
+: 2692 4 19 just 
+: 2700 7 19 sit 
+: 2708 4 21 back 
+: 2716 4 22 and 
+: 2724 4 17 un
+: 2732 16 17 wind 
+- 2750
+: 2816 3 17 Sum
+: 2820 4 19 mer, 
+: 2828 6 19 sum
+: 2836 6 21 mer, 
+: 2844 4 19 sum
+: 2852 4 21 mer
+: 2860 7 22 time
+: 2868 4 21 ~ 
+- 2874
+: 2896 3 21 Sum
+: 2900 3 19 mer
+: 2904 8 17 time 
+- 2914
+: 2944 3 17 And 
+: 2948 4 19 just 
+: 2956 7 19 sit 
+: 2964 4 21 back 
+* 2972 4 22 and 
+: 2980 4 17 un
+: 2988 16 17 wind 
+- 3006
+F 3052 3 14 It’s 
+F 3056 3 14 late 
+F 3060 3 14 in 
+F 3064 3 14 the 
+F 3068 4 14 day 
+- 3074
+F 3076 3 17 And 
+F 3080 3 17 I 
+F 3084 3 17 ain’t 
+F 3088 3 17 been 
+F 3092 3 17 on 
+F 3096 3 17 the 
+F 3100 4 17 court 
+F 3108 4 17 yet 
+- 3114
+F 3120 3 14 Hus
+F 3124 3 14 tled 
+F 3128 3 14 to 
+F 3132 3 14 the 
+F 3136 4 14 mall 
+- 3142
+F 3148 3 17 To 
+F 3152 3 17 get 
+F 3156 3 17 me 
+F 3160 3 17 a 
+F 3164 4 17 short 
+F 3172 4 17 set 
+- 3178
+F 3184 3 14 Yeah 
+F 3188 3 14 I 
+F 3192 3 14 got 
+F 3196 4 14 on 
+F 3204 4 14 sneaks 
+- 3210
+F 3212 3 17 But 
+F 3216 3 17 I 
+F 3220 3 17 need 
+F 3224 3 17 a 
+F 3228 4 17 new 
+F 3236 4 17 pair 
+- 3242
+F 3244 3 14 ’Cause 
+F 3248 3 14 bas
+F 3252 3 14 ket
+F 3256 7 14 ball 
+F 3264 2 14 courts 
+- 3267
+F 3268 3 17 In 
+F 3272 3 17 the 
+F 3276 3 17 sum
+F 3280 3 17 mer 
+F 3284 6 17 got 
+F 3292 6 17 girls 
+F 3300 6 17 there 
+- 3308
+F 3324 3 14 The 
+F 3328 3 14 tem
+F 3332 3 14 pera
+F 3336 3 14 ture’s 
+F 3340 3 14 a
+F 3344 2 14 bout 
+- 3347
+F 3348 3 8 Eight
+F 3352 3 8 y 
+F 3356 4 8 eight 
+- 3362
+F 3376 3 17 Hop 
+F 3380 3 17 in 
+F 3384 3 17 the 
+F 3388 3 17 wa
+F 3392 3 17 ter 
+F 3396 4 17 plug 
+- 3402
+F 3408 3 14 Just 
+F 3412 3 14 for 
+F 3416 3 14 old 
+F 3420 4 14 times’ 
+F 3428 4 14 sake 
+- 3434
+F 3440 4 17 Break 
+F 3448 3 17 to 
+F 3452 3 17 ya 
+F 3456 4 17 crib 
+- 3462
+F 3464 3 14 Change 
+F 3468 3 14 your 
+F 3472 3 14 clothes 
+F 3476 4 14 once 
+F 3484 4 14 more 
+- 3490
+F 3492 3 17 ’Cause 
+F 3496 3 17 you’re 
+F 3500 3 17 in
+F 3504 3 17 vi
+F 3508 2 17 ted 
+- 3511
+F 3512 3 8 To 
+F 3516 3 8 a 
+F 3520 3 8 bar
+F 3524 3 8 be
+F 3528 2 8 que 
+- 3531
+F 3532 3 14 That’s 
+F 3536 3 14 start
+F 3540 3 14 ing 
+F 3544 3 14 at 
+F 3548 6 14 four 
+- 3556
+F 3568 3 17 Sit
+F 3572 3 17 tin’ 
+F 3576 3 17 with 
+F 3580 3 17 your 
+F 3584 4 17 friends 
+- 3590
+F 3592 3 14 ’Cause 
+F 3596 4 14 ya’ll 
+F 3604 3 14 re
+F 3608 3 14 mi
+F 3612 4 14 nisce 
+- 3618
+F 3620 3 17 A
+F 3624 3 17 bout 
+F 3628 3 17 the 
+F 3632 4 17 days 
+F 3640 3 17 grow
+F 3644 3 17 ing 
+F 3648 2 17 up 
+- 3651
+F 3652 3 14 And 
+F 3656 3 14 the 
+F 3660 4 14 first 
+F 3668 3 14 per
+F 3672 3 14 son 
+F 3676 3 14 you 
+F 3680 4 14 kissed 
+- 3686
+F 3692 3 17 And 
+F 3696 3 17 as 
+F 3700 4 17 I 
+F 3708 4 17 think 
+F 3716 4 17 back 
+- 3722
+F 3724 4 14 Makes 
+F 3732 3 14 me 
+F 3736 3 14 won
+F 3740 3 14 der 
+F 3744 4 14 how 
+- 3750
+F 3752 4 17 The 
+F 3760 4 17 smell 
+F 3768 3 17 from 
+F 3772 3 17 a 
+F 3776 4 17 grill 
+- 3782
+F 3784 3 14 Can 
+F 3788 4 14 spark 
+F 3796 4 14 up 
+F 3804 3 14 nos
+F 3808 4 14 tal
+F 3816 4 14 gia 
+- 3822
+F 3840 3 17 All 
+F 3844 3 17 the 
+F 3848 4 17 kids 
+F 3856 3 17 play
+F 3860 3 17 ing 
+F 3864 4 17 out 
+F 3872 4 17 front 
+- 3878
+F 3880 3 14 Litt
+F 3884 3 14 le 
+F 3888 4 14 boys 
+F 3896 3 14 mess
+F 3900 3 14 in’ 
+F 3904 2 14 around 
+- 3907
+F 3908 3 17 With 
+F 3912 3 17 the 
+F 3916 4 17 girls 
+F 3924 3 17 play
+F 3928 3 17 ing 
+F 3932 3 17 dou
+F 3936 3 17 ble 
+F 3940 4 17 dutch 
+- 3946
+F 3960 3 14 While 
+F 3964 3 14 the 
+F 3968 3 14 D 
+F 3972 4 14 J’s 
+F 3984 3 14 spin
+F 3988 3 14 ning 
+F 3992 3 14 a 
+F 3996 4 14 tune 
+- 4002
+F 4004 4 17 As 
+F 4012 3 17 the 
+F 4016 4 17 old 
+F 4024 4 17 folks 
+F 4032 4 17 dance 
+- 4038
+F 4040 3 14 At 
+F 4044 3 14 your 
+F 4048 1 14 fa
+F 4050 1 14 mi
+F 4052 3 14 ly 
+F 4056 3 14 re
+F 4060 3 14 u
+F 4064 3 14 ni
+F 4068 4 14 on 
+- 4074
+F 4088 6 17 Then 
+F 4096 6 17 six 
+F 4104 3 17 o’ 
+F 4108 4 17 clock 
+F 4116 7 17 rolls 
+F 4124 3 17 a
+F 4128 10 17 round 
+- 4140
+F 4156 3 14 You 
+F 4160 4 14 just 
+F 4168 3 14 fi
+F 4172 2 14 nished 
+- 4175
+F 4176 3 8 Wip
+F 4180 3 8 ing 
+F 4184 3 8 your 
+F 4188 8 8 car 
+F 4200 8 8 down 
+- 4210
+F 4220 3 17 It’s 
+F 4224 4 17 time 
+F 4232 3 17 to 
+F 4236 4 17 cruise 
+- 4242
+F 4248 3 14 So 
+F 4252 3 14 you 
+F 4256 4 14 go 
+- 4262
+F 4264 3 8 To 
+F 4268 3 8 the 
+F 4272 3 8 sum
+F 4276 3 8 mer
+F 4280 7 8 time 
+F 4288 3 8 hang
+F 4292 2 8 out 
+- 4295
+F 4296 3 17 It 
+F 4300 7 17 looks 
+F 4308 3 17 like 
+F 4312 3 17 a 
+F 4316 7 17 car 
+F 4324 8 17 show 
+- 4334
+F 4352 3 14 Ev
+F 4356 3 14 ery
+F 4360 3 14 bo
+F 4364 3 14 dy 
+F 4368 3 14 come 
+F 4372 3 14 look
+F 4376 3 14 in’ 
+F 4380 4 14 real 
+F 4388 4 14 fine 
+- 4394
+F 4400 4 17 Fresh 
+F 4408 3 17 from 
+F 4412 3 17 the 
+F 4416 3 17 bar
+F 4420 3 17 ber 
+F 4424 2 17 shop 
+- 4427
+F 4428 3 14 Or 
+F 4432 3 14 fly 
+F 4436 3 14 from 
+F 4440 3 14 the 
+F 4444 3 14 beau
+F 4448 3 14 ty 
+F 4452 3 14 sa
+F 4456 4 14 lon 
+- 4462
+F 4480 3 17 Ev
+F 4484 3 17 ery 
+F 4488 3 17 mo
+F 4492 3 17 ment 
+F 4496 3 17 front
+F 4500 3 17 in’ 
+F 4504 3 17 and 
+F 4508 4 17 max
+F 4516 4 17 in’ 
+- 4522
+F 4528 3 14 Chill
+F 4532 3 14 in’ 
+F 4536 3 14 in 
+F 4540 3 14 the 
+F 4544 2 14 car 
+- 4547
+F 4548 3 8 They 
+F 4552 3 8 spent 
+F 4556 7 8 all 
+F 4564 7 8 day 
+F 4572 7 8 wax
+F 4580 8 8 in’ 
+- 4590
+F 4592 3 17 Lean
+F 4596 3 17 in’ 
+F 4600 3 17 to 
+F 4604 3 17 the 
+F 4608 4 17 side 
+- 4614
+F 4620 3 14 But 
+F 4624 3 14 you 
+F 4628 7 14 can’t 
+F 4636 7 14 speed 
+F 4644 8 14 through 
+- 4654
+F 4656 3 17 Two 
+F 4660 4 17 miles 
+F 4668 3 17 an 
+F 4672 4 17 hour 
+- 4678
+F 4684 3 14 So 
+F 4688 3 14 ev
+F 4692 3 14 ery
+F 4696 3 14 bo
+F 4700 3 14 dy 
+F 4704 7 14 sees 
+F 4712 8 14 you 
+- 4722
+F 4728 3 17 There’s 
+F 4732 3 17 an 
+F 4736 7 17 air 
+F 4744 3 17 of 
+F 4748 4 17 love 
+- 4754
+F 4756 3 8 And 
+F 4760 3 8 of 
+F 4764 3 8 hap
+F 4768 3 8 pi
+F 4772 4 8 ness 
+- 4778
+F 4780 3 13 And 
+F 4784 7 13 this 
+F 4792 3 13 is 
+F 4796 3 13 the 
+F 4800 6 13 Fresh 
+F 4808 4 13 Prince’s 
+- 4814
+F 4816 3 18 New 
+F 4820 3 18 de
+F 4824 3 18 fi
+F 4828 3 18 ni
+F 4832 2 18 tion 
+- 4835
+F 4836 3 13 Of 
+F 4840 3 13 sum
+F 4844 3 13 mer 
+F 4848 9 13 mad
+F 4858 4 13 ness 
+- 4863
+: 4864 3 17 Sum
+: 4868 4 19 mer, 
+: 4876 6 19 sum
+: 4884 6 21 mer, 
+: 4892 4 19 sum
+: 4900 4 21 mer
+: 4908 7 22 time
+: 4916 4 21 ~ 
+- 4922
+: 4992 3 17 And 
+: 4996 4 19 just 
+: 5004 7 19 sit 
+: 5012 4 21 back 
+: 5020 4 22 and 
+: 5028 4 17 un
+: 5036 16 17 wind 
+- 5054
+: 5120 3 17 Sum
+: 5124 4 19 mer, 
+: 5132 6 19 sum
+: 5140 6 21 mer, 
+: 5148 4 19 sum
+: 5156 4 21 mer
+: 5164 7 22 time
+: 5172 4 21 ~ 
+- 5178
+: 5248 3 17 And 
+: 5252 4 19 just 
+: 5260 7 19 sit 
+: 5268 4 21 back 
+: 5276 4 22 and 
+: 5284 4 17 un
+: 5292 16 17 wind 
+E

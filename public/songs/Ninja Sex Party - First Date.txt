@@ -1,0 +1,522 @@
+#ARTIST:Ninja Sex Party
+#TITLE:First Date
+#MP3:Ninja Sex Party - First Date.mp3
+#CREATOR:Steve459
+#COVER:Ninja Sex Party - First Date [CO].jpg
+#BACKGROUND:Ninja Sex Party - First Date [BG].jpg
+#GENRE:Comedy Rock
+#YEAR:2018
+#LANGUAGE:English
+#BPM:260
+#GAP:15180
+#VIDEO:v=UvgcLTzwjVM,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/95/0e/02950ee6-8fbe-5df1-b62d-706104c68f11/192914326830.png/5000x5000bb.jpg
+: 0 3 2 Hey 
+: 4 3 2 pret
+: 8 3 4 ty 
+: 12 3 4 La
+: 16 8 2 dy 
+- 30
+: 32 3 2 You’re 
+: 36 3 2 look
+: 40 3 4 ing 
+: 44 3 6 re
+: 48 3 2 al 
+: 52 6 -1 fine 
+- 62
+: 64 3 2 This 
+: 68 3 2 is 
+: 72 3 4 our 
+: 76 7 4 first 
+: 84 6 2 date 
+- 92
+: 94 3 4 I’m 
+: 98 3 4 not 
+: 102 3 2 like 
+: 106 3 4 o
+: 110 5 9 ther 
+: 116 6 6 guys 
+- 128
+: 130 3 6 I 
+: 134 3 9 can 
+: 138 3 7 tell 
+: 142 3 6 that 
+: 146 3 4 you 
+: 150 3 2 have 
+: 154 5 2 played 
+- 159
+: 160 1 4 It 
+: 162 5 4 safe 
+: 168 3 2 your 
+: 172 5 6 whole 
+: 178 5 2 li
+: 184 6 -1 fe 
+- 190
+: 192 3 2 So 
+: 196 3 2 let’s 
+: 200 3 4 get 
+: 204 3 4 nau
+: 208 3 2 ghty 
+: 212 3 2 and 
+: 216 7 6 break 
+- 223
+: 224 3 4 A 
+: 228 3 4 cou
+: 232 3 2 ple 
+: 236 3 6 rules 
+: 240 3 4 to
+: 244 3 4 ni
+: 248 4 2 ght 
+- 252
+: 254 3 2 Sneak 
+: 258 3 2 in 
+: 262 3 4 a 
+: 266 3 4 mo
+: 270 8 2 vie 
+- 285
+: 288 3 4 No 
+: 292 3 4 one 
+: 296 3 2 will 
+: 300 3 6 e
+: 304 5 2 ver 
+: 310 8 -1 know 
+- 318
+: 320 3 4 Then 
+: 324 3 4 run 
+: 328 3 2 on 
+: 332 3 4 pri
+: 336 3 2 vat 
+: 340 3 4 pro
+: 344 3 2 per
+: 348 3 4 ty 
+: 352 3 2 and 
+: 356 3 4 hold 
+: 360 3 2 each 
+: 364 3 4 o
+: 368 3 9 ther 
+: 372 4 6 close 
+- 380
+: 382 3 2 Be
+: 386 3 2 neath 
+: 390 3 4 the 
+: 394 5 4 moon
+: 400 10 2 light 
+- 412
+: 414 3 4 I’ve 
+: 418 3 4 got 
+: 422 3 2 a 
+: 426 5 6 fun 
+: 432 3 2 i
+: 436 3 2 dea
+: 440 8 -1 ~ 
+- 450
+: 452 3 7 Lean 
+: 456 3 6 and 
+: 460 3 7 kiss 
+: 464 3 6 your 
+: 468 3 4 cheek 
+: 472 3 2 and 
+: 476 3 11 gent
+: 480 3 9 ly 
+: 484 3 9 whis
+: 488 3 6 per 
+: 492 3 11 in 
+: 496 3 9 your 
+: 500 6 6 ear 
+- 512
+: 514 7 9 Let’s 
+: 522 3 6 ste
+: 526 3 4 al 
+: 530 7 2 a 
+: 538 7 4 car 
+: 546 3 6 to
+: 550 6 6 night 
+- 565
+: 568 3 2 Com
+: 572 3 4 mit 
+: 576 3 2 a 
+: 580 3 4 fe
+: 584 3 2 lo
+: 588 3 4 ny 
+: 592 3 2 with 
+: 596 3 4 me 
+: 600 3 2 and 
+: 604 3 4 drive 
+: 608 3 2 un
+: 612 3 4 til 
+: 616 3 2 the 
+: 620 7 6 sun
+: 628 3 2 ri
+: 632 4 -1 se 
+- 636
+: 638 3 9 Let’s 
+: 642 3 9 steal 
+: 646 3 6 a 
+: 650 3 4 mo
+: 654 3 2 ther
+: 658 3 4 fu
+: 662 3 2 cking 
+: 666 7 4 car 
+: 674 3 6 to
+: 678 8 6 night 
+- 692
+: 694 3 4 We’re 
+: 698 3 4 young 
+: 702 3 2 and 
+: 706 3 4 a
+* 710 7 11 li
+* 718 12 9 ve 
+- 730
+: 732 3 4 So 
+: 736 3 4 let’s 
+: 740 3 2 com
+: 744 3 6 mit 
+: 748 3 4 some 
+: 752 3 4 cri
+: 756 12 2 mes 
+- 770
+F 772 9 2 Hey, 
+F 782 3 2 I 
+F 786 3 2 like 
+F 790 6 2 you! 
+- 798
+: 800 3 2 I 
+: 804 3 2 got 
+: 808 3 4 you 
+: 812 3 4 flo
+: 816 8 2 wers 
+- 830
+: 832 3 4 Let’s 
+: 836 3 4 have 
+: 840 3 2 some 
+: 844 5 6 cof
+: 850 3 2 fee
+: 854 10 -1 ~ 
+- 864
+: 866 3 4 Look 
+: 870 3 2 deep 
+: 874 3 4 in 
+: 878 3 2 my 
+: 882 3 4 eyes 
+: 886 3 2 and 
+: 890 3 4 tell 
+: 894 3 2 me 
+: 898 3 4 ’bout 
+: 902 3 2 your 
+: 906 3 4 fa
+: 910 3 9 mi
+: 914 4 6 ly 
+- 925
+: 928 3 2 We 
+: 932 3 4 can 
+: 936 9 4 hold 
+: 946 10 2 hands 
+- 958
+: 960 3 4 Then 
+: 964 3 4 you 
+: 968 3 2 can 
+: 972 5 6 watch 
+: 978 5 2 me
+: 984 8 -1 ~ 
+- 994
+: 996 3 7 Shoot 
+: 1000 3 6 co
+: 1004 3 7 cain 
+: 1008 3 6 in
+: 1012 3 4 to 
+: 1016 3 2 my 
+: 1020 3 2 eyes 
+* 1024 3 11 and 
+* 1028 3 11 rock 
+* 1032 3 9 a 
+* 1036 3 11 bur
+* 1040 3 9 gla
+* 1044 6 9 ry 
+- 1056
+: 1058 7 9 Let’s 
+: 1066 3 6 ste
+: 1070 3 4 al 
+: 1074 7 2 some 
+: 1082 7 4 art 
+: 1090 3 6 to
+: 1094 6 6 night 
+- 1110
+: 1114 3 4 What’s 
+: 1118 3 2 a 
+: 1122 3 4 few 
+: 1126 3 2 Pi
+: 1130 3 4 cas
+: 1134 3 2 sos 
+: 1138 3 4 when 
+: 1142 3 2 you’re 
+: 1146 3 4 on 
+: 1150 3 2 a 
+: 1154 3 4 se
+: 1158 3 2 xy 
+: 1162 9 6 date 
+: 1172 3 2 he
+: 1176 4 -1 ist 
+- 1180
+: 1182 3 9 Let’s 
+: 1186 3 9 steal 
+: 1190 3 6 some 
+: 1194 3 4 pre
+: 1198 3 2 cious 
+: 1202 3 4 fu
+: 1206 3 2 cking 
+: 1210 7 4 art 
+: 1218 3 6 to
+: 1222 8 6 night 
+- 1237
+: 1240 3 4 We’re 
+: 1244 3 4 young 
+: 1248 3 2 and 
+: 1252 3 4 a
+* 1256 7 11 li
+* 1264 12 9 ve 
+- 1276
+: 1278 3 4 We’re 
+: 1282 3 4 cros
+: 1286 3 2 sing 
+: 1290 3 6 sta
+: 1294 3 4 te 
+: 1298 3 4 li
+: 1302 12 2 nes 
+- 1316
+F 1318 2 2 Or, 
+F 1326 1 2 you 
+F 1328 4 2 know, 
+- 1332
+F 1334 1 2 We 
+F 1336 1 2 could 
+F 1338 1 2 go 
+F 1340 1 2 a 
+F 1342 1 2 lit
+F 1344 1 2 tle 
+F 1346 1 2 more 
+F 1348 1 2 tra
+F 1350 1 2 di
+F 1352 3 2 tion
+F 1356 4 2 al: 
+- 1360
+F 1362 1 2 Go 
+F 1364 1 2 for 
+F 1366 1 2 a 
+F 1368 4 2 walk, 
+F 1374 3 2 watch 
+F 1378 1 2 a 
+F 1380 1 2 mo
+F 1382 4 2 vie 
+- 1392
+F 1394 1 2 Ac
+F 1396 1 2 tu
+F 1398 1 2 al
+F 1400 1 2 ly 
+F 1402 1 2 there 
+F 1404 1 2 is 
+F 1406 1 2 a 
+F 1408 1 2 real
+F 1410 1 2 ly 
+F 1412 3 2 nice 
+F 1416 3 2 flow
+F 1420 1 2 er 
+F 1422 1 2 ex
+F 1424 1 2 hi
+F 1426 1 2 bit
+F 1428 1 2 at 
+F 1430 1 2 the 
+F 1432 1 2 bo
+F 1434 1 2 ta
+F 1436 1 2 ni
+F 1438 1 2 cal
+F 1440 1 2 gar
+F 1442 4 2 dens! 
+- 1453
+F 1456 1 2 Nin
+F 1458 1 2 ja 
+F 1460 1 2 Bri
+F 1462 1 2 an 
+F 1464 4 2 was 
+F 1470 3 2 just 
+F 1474 1 2 tel
+F 1476 1 2 ling 
+F 1478 3 2 me 
+F 1482 1 2 a
+F 1484 2 2 bout 
+F 1488 1 2 that 
+F 1490 3 2 last 
+F 1494 4 2 week. 
+- 1505
+F 1508 4 2 He 
+F 1516 4 2 loved 
+F 1522 4 2 it. 
+- 1533
+F 1536 2 2 Wait, 
+F 1540 1 2 you 
+F 1542 1 2 know 
+F 1544 2 2 what? 
+- 1552
+F 1554 2 2 FUCK 
+F 1558 2 2 IT! 
+- 1569
+: 1572 7 9 Let’s 
+: 1580 3 6 kill
+: 1584 3 4 ~ 
+: 1588 7 2 some 
+: 1596 7 4 guy 
+: 1604 3 6 to
+: 1608 6 6 night 
+- 1620
+: 1622 3 4 We’re 
+: 1626 3 4 hol
+: 1630 3 2 ding 
+: 1634 3 4 hands 
+: 1638 3 2 and 
+: 1642 3 4 laugh
+: 1646 3 2 ing 
+: 1650 3 4 while 
+: 1654 3 2 we 
+: 1658 3 4 shank 
+: 1662 3 2 him 
+: 1666 3 4 in 
+: 1670 3 2 the 
+: 1674 9 6 star
+: 1684 3 2 light
+: 1688 4 -1 ~ 
+- 1692
+: 1694 3 9 Let’s 
+: 1698 3 9 take 
+: 1702 3 6 a 
+: 1706 3 4 mo
+: 1710 3 2 ther
+: 1714 3 4 fu
+: 1718 3 2 ckin’ 
+: 1722 7 4 life 
+: 1730 3 6 to
+: 1734 8 6 night 
+- 1749
+: 1752 3 4 We’re 
+: 1756 3 4 young 
+: 1760 3 2 and 
+: 1764 3 4 a
+* 1768 7 11 li
+* 1776 6 9 ve 
+- 1784
+: 1786 1 4 Wich 
+: 1788 3 4 I 
+: 1792 3 2 can’t 
+: 1796 3 4 say 
+: 1800 3 2 for 
+* 1804 5 11 that 
+* 1810 8 9 guy! 
+- 1818
+: 1820 5 11 That 
+: 1826 12 9 guy!
+: 1840 3 4 Yeah
+: 1844 3 6 ~
+: 1848 6 2 ~ 
+- 1858
+: 1860 7 9 Let’s 
+: 1868 3 6 kill
+: 1872 3 4 ~ 
+: 1876 7 2 five 
+: 1884 7 4 guys 
+: 1892 3 6 to
+: 1896 6 6 night 
+- 1908
+: 1910 3 4 We’ll 
+: 1914 3 4 share 
+: 1918 3 2 a 
+: 1922 3 4 cher
+: 1926 3 2 ry 
+: 1930 3 4 co
+: 1934 3 2 la 
+: 1938 3 4 while 
+: 1942 3 2 we 
+: 1946 3 4 blast 
+: 1950 3 2 a 
+: 1954 3 4 sa
+: 1958 3 2 vage 
+: 1962 9 6 drive 
+: 1972 3 2 by
+: 1976 4 -1 ~ 
+- 1987
+* 1990 5 11 Let’s 
+* 1996 3 8 kill
+* 2000 3 6 ~ 
+* 2004 5 4 ten
+* 2010 7 6 guys 
+* 2018 3 8 to
+* 2022 6 8 night 
+- 2034
+F 2036 3 2 You 
+F 2040 1 2 know 
+F 2042 2 2 what? 
+F 2046 1 2 First 
+F 2048 2 2 date: 
+- 2054
+F 2056 1 2 Let’s 
+F 2058 3 2 pump 
+F 2062 1 2 the 
+F 2064 3 2 brakes 
+F 2068 1 2 on 
+F 2070 1 2 the 
+F 2072 3 2 mur
+F 2076 4 2 ders 
+- 2082
+: 2084 5 9 Let’s 
+: 2090 3 6 kill
+: 2094 3 4 ~ 
+: 2098 7 2 five
+: 2106 7 4 guys 
+: 2114 3 6 to
+: 2118 8 6 night 
+- 2133
+: 2136 3 4 I’ll 
+: 2140 3 4 take 
+: 2144 3 2 you 
+: 2148 3 4 back 
+: 2152 3 2 to 
+: 2156 3 4 your 
+: 2160 3 2 place 
+: 2164 3 4 and 
+: 2168 3 2 we’ll 
+: 2172 3 4 craft 
+: 2176 3 2 the 
+: 2180 3 4 per
+: 2184 3 2 fect 
+: 2188 3 6 a
+: 2192 3 2 li
+: 2196 3 -1 bi
+: 2200 4 -3 ~ 
+- 2211
+: 2214 5 9 Man, 
+: 2220 3 6 we
+: 2224 3 4 ~ 
+: 2228 5 2 had 
+: 2234 7 4 fun 
+: 2242 3 6 to
+: 2246 6 6 night 
+- 2259
+: 2262 3 4 We’re 
+: 2266 3 4 young 
+: 2270 3 2 and 
+: 2274 3 4 a
+* 2278 7 11 li
+* 2286 6 9 ve, 
+- 2294
+: 2296 3 9 And 
+: 2300 3 11 you 
+: 2304 3 9 can 
+: 2308 3 11 call 
+: 2312 3 9 me 
+* 2316 3 14 a
+* 2320 3 13 ny
+* 2324 36 9 time! 
+- 2362
+* 2364 5 9 Time
+* 2370 5 7 ~
+* 2376 5 6 ~
+* 2382 13 2 ~
+* 2396 11 4 ~
+* 2408 92 2 ~ 
+E

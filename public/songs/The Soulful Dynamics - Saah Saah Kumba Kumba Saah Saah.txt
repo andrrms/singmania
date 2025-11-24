@@ -1,0 +1,280 @@
+#ARTIST:The Soulful Dynamics
+#TITLE:Saah Saah Kumba Kumba Saah Saah
+#MP3:The Soulful Dynamics - Saah Saah Kumba Kumba Saah Saah.mp3
+#CREATOR:Fepo
+#COVER:The Soulful Dynamics - Saah Saah Kumba Kumba Saah Saah [CO].jpg
+#BACKGROUND:The Soulful Dynamics - Saah Saah Kumba Kumba Saah Saah [BG].jpg
+#GENRE:Pop
+#YEAR:1971
+#LANGUAGE:English
+#BPM:249.24
+#GAP:4030
+#VIDEO:v=Jy1Sa1D3ylw,co=https://i.discogs.com/K2FX6G76GBSM6mEQlbpFAs8jRa0dPVO5dUSOo0i-1uU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NjYtMTQxNDUwMjU0/NS04MjcyLmpwZWc.jpeg
+: 0 2 -5 They
+: 4 2 0  went
+: 8 2 0  a
+: 12 4 0 way
+- 18
+: 31 1 -5 On
+: 33 1 -5  a
+: 35 3 0  Ho
+: 40 2 0 li
+: 44 3 0 day
+- 49
+: 67 3 4 Me
+: 72 2 5  and
+: 76 4 2  she
+- 82
+: 96 2 -5 And
+: 100 2 2  she
+: 104 2 4  and
+: 108 3 0  me.
+- 113
+: 128 2 -5 One
+: 132 2 0  took
+: 136 2 0  her
+: 140 4 0  place
+- 146
+: 158 1 -5 With
+: 160 1 -5  a
+: 162 3 0  smi
+: 167 3 0 ling
+: 172 4 0  face
+- 178
+: 191 2 0 Wea
+: 195 3 4 ring
+: 200 2 5  a
+: 204 4 2  ring
+- 210
+: 223 1 -5 They
+: 225 1 -5  be
+: 227 3 2 gan
+: 232 2 4  to
+: 236 4 0  sing:
+- 242
+: 256 6 12 Woh
+- 264
+: 267 5 -5 Saah
+* 275 5 -3  Saah
+: 283 2 -5  Kum
+: 287 2 -5 ba
+: 291 2 -3  Kum
+: 295 2 -3 ba
+* 299 5 -5  Saah
+: 307 5 -3  Saah
+- 314
+: 322 2 -5 Sing
+: 326 2 -3 ing
+- 329
+: 330 5 -5 Saah
+* 338 5 -3  Saah
+: 346 2 -5  Kum
+: 350 2 -5 ba
+: 354 2 -3  Kum
+: 358 2 -3 ba
+* 362 5 -5  Saah
+: 370 5 -3  Saah
+- 377
+: 386 2 -5 Fa
+: 390 2 -3  la
+: 394 20 0  di
+: 416 7 -3  uh
+: 425 19 -5  huh
+- 446
+: 456 6 0 Saah
+: 464 7 2  Saah
+: 473 2 5  Kum
+: 477 2 5 ba
+: 481 2 4  Kum
+: 484 2 2 ba
+: 488 11 0  Saah
+- 501
+: 513 2 -5 Fa
+: 517 2 -3  la
+: 521 20 0  di
+: 543 7 -3  uh
+: 552 19 -5  huh
+- 573
+: 584 6 0 Saah
+: 592 7 2  Saah
+: 601 2 5  Kum
+: 605 2 5 ba
+: 609 2 4  Kum
+: 612 2 2 ba
+: 616 11 0  Saah
+- 629
+: 637 2 -5 They
+: 641 2 0  went
+: 645 2 0  to
+: 649 4 0  swim
+- 655
+: 669 1 -5 And
+: 671 1 -5  a
+: 674 2 0  big
+: 678 2 0  wind
+: 682 5 0  came
+- 689
+: 701 2 0 They
+: 705 2 4  had
+: 709 2 5  no
+: 713 7 2  shorts
+- 722
+: 733 1 -5 So
+: 735 1 -5  they
+: 737 2 2  went
+: 741 2 4  with
+: 745 4 0 out.
+- 751
+: 766 2 -5 One
+: 770 2 0  had
+: 774 2 0  a
+: 778 5 0  fall
+- 785
+: 797 1 -5 Made
+: 799 1 -5  a
+: 801 2 0  big
+: 805 2 0  big
+: 809 5 3  splash
+- 816
+: 829 2 0 And
+: 833 2 4  then
+: 837 2 5  they
+: 841 5 2  all
+- 848
+: 862 2 -5 Be
+: 865 2 2 gan
+: 868 2 4  to
+: 872 7 0  wash.
+- 881
+: 893 6 12 Woh
+- 901
+: 903 5 -5 Saah
+* 911 5 -3  Saah
+: 919 2 -5  Kum
+: 923 2 -5 ba
+: 927 2 -3  Kum
+: 931 2 -3 ba
+* 935 5 -5  Saah
+: 943 6 -3  Saah
+- 951
+: 955 2 -5 You
+: 959 2 -3  sing
+: 963 3 -3 ing
+- 967
+: 967 5 -5 Saah
+* 975 5 -3  Saah
+: 983 2 -5  Kum
+: 987 2 -5 ba
+: 991 2 -3  Kum
+: 995 2 -3 ba
+* 999 5 -5  Saah
+: 1007 5 -3  Saah
+- 1014
+: 1023 2 -5 Fa
+: 1027 2 -3  la
+: 1031 20 0  di
+: 1053 7 -3  uh
+: 1062 19 -5  huh
+- 1083
+: 1095 6 0 Saah
+: 1103 7 2  Saah
+: 1112 2 5  Kum
+: 1116 2 5 ba
+: 1120 2 4  Kum
+: 1123 2 2 ba
+: 1127 11 0  Saah
+- 1140
+: 1151 2 -5 Fa
+: 1155 2 -3  la
+: 1159 20 0  di
+: 1181 7 -3  uh
+: 1190 19 -5  huh
+- 1211
+: 1223 6 0 Saah
+: 1231 7 2  Saah
+: 1240 2 5  Kum
+: 1244 2 5 ba
+: 1248 2 4  Kum
+: 1251 2 2 ba
+: 1255 11 0  Saah
+- 1268
+: 1581 6 12 Woh
+- 1589
+: 1593 5 -5 Saah
+* 1601 5 -3  Saah
+: 1609 2 -5  Kum
+: 1613 2 -5 ba
+: 1617 2 -3  Kum
+: 1621 2 -3 ba
+* 1625 5 -5  Saah
+: 1633 5 -3  Saah
+- 1640
+: 1646 2 -5 You
+: 1650 2 -3  sing
+: 1654 3 -3 ing
+- 1657
+: 1657 5 -5 Saah
+* 1665 5 -3  Saah
+: 1673 2 -5  Kum
+: 1677 2 -5 ba
+: 1681 2 -3  Kum
+: 1685 2 -3 ba
+* 1689 5 -5  Saah
+: 1697 5 -3  Saah
+- 1704
+: 1713 2 -5 Fa
+: 1717 2 -3  la
+: 1721 20 0  di
+: 1743 7 -3  uh
+: 1752 19 -5  huh
+- 1773
+: 1784 6 0 Saah
+: 1792 7 2  Saah
+: 1801 2 5  Kum
+: 1805 2 5 ba
+: 1809 2 4  Kum
+: 1812 2 2 ba
+: 1816 11 0  Saah
+- 1829
+: 1841 2 -5 Fa
+: 1845 2 -3  la
+: 1849 20 0  di
+: 1871 7 -3  uh
+: 1880 19 -5  huh
+- 1901
+: 1913 6 0 Saah
+: 1921 7 2  Saah
+: 1930 2 5  Kum
+: 1934 2 5 ba
+: 1938 2 4  Kum
+: 1941 2 2 ba
+: 1945 11 0  Saah
+- 1958
+: 1970 2 -5 Fa
+: 1974 2 -3  la
+: 1978 20 0  di
+: 2000 7 -3  uh
+: 2009 19 -5  huh
+- 2030
+: 2041 6 0 Saah
+: 2049 7 2  Saah
+: 2058 2 5  Kum
+: 2062 2 5 ba
+: 2066 2 4  Kum
+: 2069 2 2 ba
+: 2073 11 0  Saah
+- 2086
+: 2098 2 -5 Fa
+: 2102 2 -3  la
+: 2106 20 0  di
+: 2128 7 -3  uh
+: 2137 19 -5  huh
+- 2158
+: 2169 6 0 Saah
+: 2177 7 2  Saah
+: 2186 2 5  Kum
+: 2190 2 5 ba
+: 2194 2 4  Kum
+: 2197 2 2 ba
+: 2201 11 0  Saah
+E

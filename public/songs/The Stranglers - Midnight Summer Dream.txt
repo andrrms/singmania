@@ -1,0 +1,364 @@
+#ARTIST:The Stranglers
+#TITLE:Midnight Summer Dream
+#MP3:The Stranglers - Midnight Summer Dream.mp3
+#CREATOR:choosie
+#YEAR:1982
+#LANGUAGE:English
+#BPM:374.2
+#GAP:13270
+#VIDEO:v=HI7CB2UwSj4,co=https://i.discogs.com/KV-cQHOx5WrVGD462q2FbHZQ2E1VOQTSV87ADnLG7FA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjA4/Ny0xMzM1NTQyMzg4/LmpwZWc.jpeg,bg=stranglers-the-511ed15eafc20.jpg
+F 0 3 4 I 
+F 4 3 4 woke 
+F 8 5 4 up 
+F 14 3 4 on 
+F 18 5 4 a 
+F 24 5 4 good 
+F 30 8 4 day 
+- 40
+F 72 3 4 And 
+F 76 3 4 the 
+F 80 7 4 world 
+F 88 7 4 was 
+F 96 5 4 won
+F 102 3 4 der
+F 106 8 4 ful 
+- 116
+F 172 3 5 A 
+F 176 5 5 mid
+F 182 7 5 night 
+F 190 3 5 sum
+F 194 3 5 mer 
+F 198 8 5 dream 
+- 208
+F 244 5 5 Had 
+F 250 5 5 me 
+F 256 3 5 in 
+F 260 5 5 its 
+F 266 8 5 spell 
+- 276
+F 342 7 5 I 
+F 350 3 5 dreamt 
+F 354 3 5 a
+F 358 3 5 bout 
+F 362 3 5 an 
+F 366 7 5 old 
+F 374 8 5 man 
+- 384
+F 414 4 5 He 
+F 420 3 5 sat 
+F 424 3 5 and 
+F 428 3 5 watched 
+F 432 3 5 the 
+F 436 7 5 rain 
+F 444 7 5 all 
+F 452 8 5 night 
+- 462
+F 504 5 5 He 
+F 510 3 5 coul
+F 514 3 5 dn’t 
+F 518 7 5 sleep 
+F 526 3 5 a 
+F 530 8 5 wink 
+- 540
+F 554 5 5 As 
+F 560 5 5 all 
+F 566 3 5 the 
+F 570 7 5 drops 
+F 578 8 5 fell 
+- 588
+F 688 5 5 He 
+F 694 3 5 told 
+F 698 3 5 me 
+F 702 3 5 of 
+F 706 3 5 the 
+F 710 5 5 bea
+F 716 8 5 uty 
+- 726
+F 754 3 5 Hid
+F 758 3 5 den 
+F 762 3 5 in 
+F 766 1 5 our 
+F 768 7 5 fore
+F 776 8 5 heads 
+- 786
+F 838 3 5 And 
+F 842 3 5 he 
+F 846 3 5 told 
+F 850 3 5 me 
+F 854 3 5 of 
+F 858 5 5 the 
+F 864 3 5 ug
+F 868 3 5 li
+F 872 8 5 ness 
+- 882
+F 926 5 5 We 
+F 932 5 5 show 
+F 938 3 5 in
+F 942 8 5 stead 
+- 952
+F 1030 7 5 And 
+F 1038 3 5 when 
+F 1042 3 5 we 
+F 1046 3 5 put 
+F 1050 3 5 a 
+F 1054 3 5 foot 
+F 1058 8 5 wrong 
+- 1068
+F 1092 3 5 Do 
+F 1096 3 5 we 
+F 1100 7 5 learn 
+F 1108 3 5 from 
+F 1112 3 5 all 
+F 1116 3 5 the 
+F 1120 8 5 pain? 
+- 1130
+F 1188 5 5 A 
+F 1194 3 5 mid
+F 1198 9 5 night 
+F 1208 3 5 sum
+F 1212 5 5 mer 
+F 1218 8 5 dream 
+- 1228
+F 1262 3 5 As 
+F 1266 3 5 he 
+F 1270 7 5 watched 
+F 1278 3 5 the 
+F 1282 8 5 rain 
+- 1292
+F 1412 9 5 Then 
+F 1422 3 5 at 
+F 1426 3 5 mid
+F 1430 8 5 night 
+- 1440
+F 1450 3 5 He 
+F 1454 3 5 poured 
+F 1458 1 5 a
+F 1460 1 5 no
+F 1462 3 5 ther 
+F 1466 7 5 drink 
+F 1474 3 5 and 
+F 1478 7 5 bent 
+F 1486 5 5 my 
+F 1492 8 5 ear 
+- 1502
+F 1576 3 5 And 
+F 1580 3 5 af
+F 1584 7 5 ter 
+F 1592 3 5 mid
+F 1596 8 5 night 
+- 1606
+F 1618 3 5 We 
+F 1622 3 5 sat 
+F 1626 3 5 up 
+F 1630 3 5 half 
+F 1634 3 5 the 
+F 1638 8 5 night 
+- 1648
+F 1662 7 5 Or 
+F 1670 3 5 may
+F 1674 3 5 be 
+F 1678 8 5 more 
+- 1688
+F 1706 7 5 And 
+F 1714 3 5 he 
+F 1718 3 5 be
+F 1722 3 5 gan 
+F 1726 3 5 to 
+F 1730 3 5 tell 
+F 1734 3 5 me 
+F 1738 3 5 what 
+F 1742 3 5 it 
+F 1746 3 5 was 
+F 1750 7 5 all 
+F 1758 8 5 for 
+- 1768
+: 1870 4 9 Woke 
+: 1876 4 8 up 
+: 1882 4 6 in 
+: 1888 4 4 an 
+: 1894 36 14 arm
+: 1932 10 13 chair 
+- 1944
+: 1946 4 8 He 
+: 1952 4 9 had 
+: 1958 8 11 gone, 
+* 1968 8 14 I 
+: 1978 4 13 don’t 
+: 1984 6 9 know 
+: 1994 12 6 where 
+- 2008
+: 2042 4 9 Left 
+: 2048 5 8 me 
+: 2054 6 6 there 
+: 2062 6 4 to 
+: 2070 12 2 sit 
+- 2084
+: 2096 8 9 And 
+: 2106 16 8 look 
+: 2132 6 6 at 
+: 2142 6 5 the 
+: 2150 16 6 rain 
+- 2168
+: 2212 4 9 Don’t 
+: 2218 4 8 re
+: 2224 4 6 mem
+: 2230 4 4 ber 
+* 2236 18 14 much 
+: 2256 16 14 at 
+: 2276 6 13 all 
+- 2284
+: 2286 4 8 But 
+: 2292 4 9 his 
+: 2298 8 11 words 
+: 2308 8 14 were 
+: 2320 4 13 e
+: 2326 6 9 cho
+: 2336 12 6 ing 
+- 2350
+: 2384 4 9 Mid
+: 2390 8 8 night 
+: 2400 3 6 sum
+: 2404 6 4 mer 
+: 2412 12 2 dream 
+- 2426
+: 2438 8 9 And 
+: 2448 16 8 then 
+: 2476 6 6 wake 
+: 2486 6 5 a
+: 2494 16 6 gain 
+- 2512
+: 2548 5 6 May
+: 2554 4 8 be 
+: 2560 6 9 I’ll 
+: 2568 4 8 ne
+: 2574 6 6 ver 
+: 2582 4 9 find 
+* 2588 10 6 him 
+- 2600
+: 2636 5 6 May
+: 2642 4 8 be 
+: 2648 6 9 he’s 
+: 2656 4 8 gone 
+: 2662 8 6 for
+: 2672 4 9 e
+: 2678 10 6 ver 
+- 2690
+: 2720 4 6 May
+: 2726 4 8 be 
+: 2732 6 9 I’ll 
+: 2740 4 8 have 
+: 2746 6 6 to 
+: 2756 4 9 sit 
+: 2762 10 6 here 
+- 2774
+: 2854 14 16 Wat
+: 2870 4 14 ching 
+: 2876 5 14 wea
+: 2882 6 13 ther 
+- 2890
+: 2896 4 13 One 
+: 2902 4 11 thing’s 
+: 2908 4 9 pret
+: 2914 8 8 ty 
+: 2926 32 14 cer
+: 2962 6 13 tain 
+- 2970
+: 2972 4 8 Helped 
+: 2978 4 9 me 
+: 2984 8 11 make 
+: 2994 8 14 it 
+: 3006 4 13 in 
+: 3012 6 9 the 
+: 3022 12 6 night 
+- 3036
+: 3068 8 9 Showed 
+: 3078 4 8 me 
+: 3084 4 6 some
+: 3090 6 4 where 
+: 3098 12 2 else 
+- 3112
+: 3124 8 9 Be
+: 3134 16 8 tween 
+* 3162 6 6 wrong 
+: 3170 8 5 and 
+: 3180 16 6 right 
+- 3198
+: 3282 14 16 So, 
+: 3298 4 14 at 
+: 3304 5 14 mid
+: 3310 12 13 night 
+- 3324
+: 3332 3 9 If 
+: 3336 4 11 you 
+: 3342 4 9 can’t 
+: 3348 6 14 sleep 
+: 3356 6 13 at 
+: 3364 6 11 night 
+- 3372
+: 3374 4 9 Than 
+: 3380 4 8 I 
+: 3386 4 9 can 
+* 3392 4 13 bend 
+: 3398 6 11 your 
+: 3406 8 9 ea
+: 3416 8 8 ~r 
+- 3426
+: 3454 14 16 Af
+: 3470 4 14 ter 
+: 3476 5 14 mid
+: 3482 12 13 night 
+- 3496
+: 3504 4 9 We’ll 
+: 3510 3 11 sit 
+: 3514 4 9 up 
+: 3520 6 14 half 
+: 3528 6 13 the 
+: 3536 6 11 night 
+: 3546 8 9 or 
+- 3556
+: 3562 6 13 May
+: 3570 6 11 be 
+* 3578 6 9 more 
+: 3588 8 8 and 
+- 3598
+: 3606 6 11 I’ll 
+: 3614 6 9 be
+: 3622 8 8 gin 
+: 3632 8 6 to 
+- 3642
+: 3650 6 9 Tell 
+: 3658 6 7 you 
+: 3666 8 6 what 
+: 3676 4 4 it 
+: 3682 4 2 is 
+: 3688 10 4 all 
+* 3700 20 6 for 
+- 3722
+F 4448 3 6 I 
+F 4452 5 6 wake 
+F 4458 3 6 up 
+F 4462 3 6 on 
+F 4466 5 6 a 
+F 4472 5 6 good 
+F 4478 8 6 day 
+- 4488
+F 4512 3 6 And 
+F 4516 3 6 the 
+F 4520 3 6 world 
+F 4524 7 6 feels 
+F 4532 5 6 won
+F 4538 3 6 der
+F 4542 8 6 ful 
+- 4552
+F 4616 7 6 Mid
+F 4624 7 6 night 
+F 4632 3 6 sum
+F 4636 3 6 mer 
+F 4640 12 6 dream 
+- 4654
+F 4660 3 6 Has 
+F 4664 3 6 me 
+F 4668 5 6 in 
+F 4674 3 6 its 
+F 4678 96 6 spell. 
+E

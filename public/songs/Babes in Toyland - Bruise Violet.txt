@@ -1,0 +1,219 @@
+#ARTIST:Babes in Toyland
+#TITLE:Bruise Violet
+#MP3:Babes in Toyland - Bruise Violet.mp3
+#CREATOR:Mcisa
+#GENRE:Grunge
+#YEAR:1992
+#LANGUAGE:English
+#BPM:300
+#GAP:18190
+#VIDEO:v=gCjufvdq_1c,co=https://i0.wp.com/turnupthevolume.blog/wp-content/uploads/2021/08/babes.jpg
+: 0 41 11 You 
+- 42
+: 43 2 11 Got 
+: 47 2 11 this 
+: 51 2 11 thing 
+: 55 3 11 that 
+: 68 4 11 really
+: 76 4 11 ~ 
+: 86 3 11 makes 
+: 91 3 11 me 
+: 102 7 11 hot 
+- 111
+: 137 41 11 You 
+- 179
+: 180 2 11 Got 
+: 184 2 11 alot 
+: 188 2 11 and 
+: 204 4 11 more 
+: 212 4 11 when 
+: 222 3 11 you 
+: 227 3 11 get 
+: 238 7 11 caught 
+- 247
+: 278 3 -3 You 
+: 282 2 -1 got 
+: 286 2 -1 this 
+: 289 2 -1 thing 
+: 299 3 -3 that 
+: 303 3 -1 follows
+: 312 3 -3 ~ 
+: 321 5 -1 me 
+- 328
+* 330 9 -3 Around
+: 342 54 -1 ~ 
+- 398
+: 411 41 11 You 
+- 453
+: 454 2 11 Fucking
+: 458 2 11 ~ 
+: 461 2 11 bitch 
+: 465 2 11 well, 
+: 474 3 11 I 
+: 478 4 11 hope 
+: 488 3 11 your 
+: 496 2 11 insides
+: 499 3 11 ~ 
+: 514 7 11 rot 
+- 523
+F 546 10 6 Liar 
+- 558
+F 612 17 6 Liar 
+- 631
+F 686 32 6 Liar 
+- 720
+: 755 41 11 You 
+- 797
+: 798 2 11 See 
+: 802 2 11 the 
+: 805 2 11 stars 
+: 812 4 11 through 
+: 822 4 11 eyes 
+: 832 3 11 lit 
+: 840 2 11 up 
+: 843 3 11 with 
+: 858 7 11 lies 
+- 867
+: 892 41 11 You 
+- 934
+: 935 2 11 Got 
+: 939 2 11 your 
+: 942 2 11 stories 
+: 949 4 11 all 
+: 959 4 11 twisted
+: 969 3 11 ~ 
+: 977 2 11 up 
+: 980 3 11 in 
+: 995 7 11 mine 
+- 1004
+: 1034 3 -3 You 
+: 1038 2 -1 got 
+: 1042 2 -1 this 
+: 1045 2 -1 thing 
+: 1055 3 -3 that 
+: 1059 3 -1 follows
+: 1068 3 -3 ~ 
+: 1077 5 -1 me 
+- 1084
+: 1086 9 -3 Around
+: 1098 54 -1 ~ 
+- 1154
+: 1164 41 11 You 
+- 1207
+: 1208 2 11 Were 
+: 1212 2 11 born 
+: 1216 2 11 with 
+: 1234 4 11 glue 
+: 1242 4 11 instead
+: 1252 3 11 ~ 
+: 1257 3 11 of 
+: 1268 7 11 spine 
+- 1277
+F 1302 10 6 Liar 
+- 1314
+F 1368 17 6 Liar 
+- 1387
+F 1442 32 6 Liar 
+- 1476
+: 1551 7 -1 Of 
+: 1560 2 2 thee 
+: 1564 6 -1 I sing 
+- 1572
+: 1618 7 -1 Tied 
+: 1628 2 2 to 
+: 1632 6 -1 a string 
+- 1640
+: 1651 3 -3 You 
+: 1655 2 -1 got 
+: 1659 2 -1 this 
+: 1662 2 -1 thing 
+* 1672 3 -3 that 
+* 1676 3 -1 follows
+* 1685 3 -3 ~ 
+* 1694 5 2 me 
+- 1701
+* 1703 9 -3 Around
+: 1715 47 -1 ~ 
+- 1764
+* 1782 41 11 You 
+- 1824
+: 1825 2 11 Got 
+: 1829 2 11 this 
+: 1833 2 11 thing 
+: 1837 3 11 that 
+: 1850 4 11 really
+: 1858 4 11 ~ 
+: 1868 3 11 makes 
+: 1873 3 11 me 
+: 1884 7 11 hot 
+- 1893
+: 1919 41 11 You 
+- 1961
+: 1962 2 11 Got 
+: 1966 2 11 alot 
+: 1970 2 11 and 
+: 1986 4 11 more 
+: 1994 4 11 when 
+: 2004 3 11 you 
+: 2009 3 11 get 
+: 2020 7 11 caught 
+- 2029
+F 2098 7 6 Bruise 
+F 2107 18 6 violet 
+- 2127
+F 2160 7 6 Bruise 
+F 2169 18 6 violet 
+- 2189
+F 2228 7 6 Bruise 
+F 2237 18 6 violet 
+- 2257
+: 2326 11 16 You
+: 2338 24 23 ~
+: 2363 2 22 ~
+: 2366 26 21 ~
+: 2393 13 20 ~
+: 2407 7 19 ~
+: 2415 6 18 ~
+: 2422 35 16 ~ 
+- 2459
+: 2466 3 -3 You 
+: 2470 2 -1 got 
+: 2474 2 -1 this 
+: 2477 2 -1 thing 
+: 2487 3 -3 that 
+: 2491 3 -1 follows
+: 2500 3 -3 ~ 
+: 2509 5 2 me 
+- 2516
+: 2518 9 -3 Around
+: 2530 47 -1 ~ 
+- 2579
+: 2599 41 11 You 
+- 2641
+: 2642 2 11 Got 
+: 2646 2 11 this 
+: 2650 2 11 thing 
+: 2654 3 11 that 
+: 2668 4 11 really
+: 2676 4 11 ~ 
+: 2686 3 11 makes 
+: 2691 3 11 me 
+: 2702 7 11 hot 
+- 2711
+: 2737 41 11 You 
+- 2779
+: 2780 2 11 Got 
+: 2784 2 11 alot 
+: 2788 2 11 and 
+: 2804 4 11 more 
+: 2812 4 11 when 
+: 2822 3 11 you 
+: 2827 3 11 get 
+: 2838 7 11 caught 
+- 2847
+: 2876 10 6 Liar 
+- 2888
+: 2942 17 6 Liar 
+- 2961
+: 3016 32 6 Liar 
+E

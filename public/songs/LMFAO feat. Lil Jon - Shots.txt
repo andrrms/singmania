@@ -1,0 +1,424 @@
+#ARTIST:LMFAO feat. Lil Jon
+#TITLE:Shots
+#MP3:LMFAO feat. Lil Jon - Shots.mp3
+#CREATOR:UltraSinger
+#COVER:LMFAO feat. Lil Jon - Shots [CO].jpg
+#BACKGROUND:LMFAO feat. Lil Jon - Shots [BG].jpg
+#YEAR:2009
+#LANGUAGE:English
+#BPM:387.6
+#GAP:34000
+#VIDEO:v=sJaWF67_Qyg,co=https://4.bp.blogspot.com/_mupIVJbjvuU/TDUHjBiwbUI/AAAAAAAAEjw/EGjGgyolx2w/s1600/Shots+(Official+Single+Cover).jpg,bg=lmfao-4e49301cb0276.jpg,tags=explicit
+F 0 2 17 If 
+F 4 4 20 you’re 
+F 10 4 21 not 
+F 16 6 21 drunk 
+F 24 6 21 ladies 
+F 34 1 21 and 
+F 36 3 21 gen
+F 40 3 21 tle
+F 44 3 21 men 
+F 48 5 19 uh
+F 54 6 20 -huh 
+- 62
+F 72 4 21 Get 
+F 80 5 20 ready 
+F 86 2 19 to 
+F 90 4 21 get 
+F 96 6 21 fucked 
+F 108 2 15 up! 
+F 120 5 21 Let’s 
+F 126 4 22 do 
+F 134 4 34 it! 
+F 144 18 20 Ha-ha! 
+F 170 2 22 Uh! 
+- 174
+F 186 26 21 L-M-F-A-O! 
+F 214 2 21 You 
+F 218 8 20 know 
+F 238 1 13 it! 
+- 240
+F 240 4 21 Lil 
+F 248 12 21 jon! 
+F 262 18 22 Yeah! 
+- 282
+F 290 3 21 All 
+F 294 2 21 of 
+F 298 2 20 the 
+F 302 3 21 al
+F 306 4 19 co
+F 312 3 21 hol
+F 316 4 16 ics 
+F 324 3 21 where 
+F 328 2 21 you 
+F 332 2 21 at? 
+- 336
+F 338 6 21 Let’s 
+F 346 9 21 go! 
+F 356 6 21 Hey! 
+F 364 4 11 Hey! 
+- 370
+F 386 6 17 Hey!
+F 408 10 21 ~ 
+- 419
+F 420 2 24 Hey! 
+F 424 2 27 Uh
+F 434 8 16 -huh! 
+- 444
+F 458 10 10 Hey! 
+F 470 2 13 Hey! 
+- 474
+: 762 2 7 When 
+: 766 2 6 I 
+: 770 4 4 walk 
+: 776 1 6 in 
+: 778 1 3 the 
+: 780 22 4 club 
+- 804
+: 812 6 -1 All 
+: 820 4 1 eyes 
+: 826 2 1 on 
+: 830 10 12 me 
+- 842
+: 856 2 5 I’m 
+: 860 2 5 with 
+: 864 1 6 the 
+: 866 6 6 Party 
+: 874 2 5 Rock 
+: 878 20 5 crew 
+: 908 4 1 all 
+: 914 6 3 drinks 
+: 922 4 1 are 
+: 928 16 13 free 
+- 946
+: 956 4 22 We 
+: 962 6 5 like 
+: 970 18 2 Ciroc 
+- 990
+: 1004 6 5 We 
+: 1012 4 6 love 
+: 1018 5 6 Pat
+: 1024 22 6 ron 
+- 1048
+: 1054 4 8 We 
+: 1060 2 8 came 
+: 1064 2 3 to 
+: 1068 4 7 Party 
+: 1074 16 7 Rock 
+- 1092
+: 1104 5 6 Every
+: 1110 4 9 body 
+: 1116 2 8 is 
+: 1122 20 10 on 
+- 1143
+: 1144 10 21 Shots 
+: 1156 10 21 shots 
+: 1168 8 21 shots 
+: 1178 6 8 shots 
+: 1186 4 22 shots 
+: 1192 8 21 shots 
+- 1202
+: 1204 10 21 Shots 
+: 1216 10 21 shots 
+: 1228 6 21 shots 
+: 1236 4 8 shots 
+: 1242 6 22 shots 
+: 1250 8 21 shots 
+- 1260
+: 1264 10 21 Shots 
+: 1276 6 21 shots 
+: 1284 6 21 shots 
+: 1292 6 8 shots 
+- 1299
+: 1300 9 17 Every
+: 1310 24 16 body! 
+- 1336
+: 1338 10 21 Shots 
+: 1350 10 21 shots 
+: 1362 8 21 shots 
+: 1372 6 8 shots 
+: 1380 4 22 shots 
+: 1386 8 21 shots 
+- 1396
+: 1398 10 21 Shots 
+: 1410 10 21 shots 
+: 1422 6 21 shots 
+: 1430 4 8 shots 
+: 1436 6 22 shots 
+: 1444 8 21 shots 
+- 1454
+: 1458 10 21 Shots 
+: 1470 6 21 shots 
+: 1478 6 21 shots 
+: 1486 6 8 shots 
+- 1494
+: 1496 9 17 Every
+: 1506 24 16 body! 
+- 1532
+: 1926 4 6 The 
+: 1932 10 15 ladies 
+: 1946 8 3 love 
+: 1956 4 4 us 
+- 1962
+: 1974 4 3 When 
+: 1980 4 14 we 
+: 1988 6 13 pour 
+: 1996 12 14 shots 
+- 2010
+: 2022 6 7 They 
+: 2030 6 6 need 
+: 2038 1 4 an 
+: 2040 6 7 ex
+: 2048 6 8 cuse 
+- 2056
+: 2072 4 7 To 
+: 2078 6 5 suck 
+: 2086 4 4 our 
+: 2092 20 22 cocks 
+- 2114
+: 2122 2 8 We 
+: 2126 3 7 came 
+: 2130 2 7 to 
+: 2134 4 7 get 
+: 2140 24 7 crunk 
+- 2166
+: 2176 4 5 How 
+: 2182 6 4 about 
+: 2190 18 5 you? 
+- 2210
+: 2224 5 16 Bot
+: 2230 8 8 toms 
+: 2240 16 8 up 
+- 2258
+: 2266 4 10 Let’s 
+: 2272 6 9 go 
+: 2280 4 10 round 
+: 2286 10 11 two 
+- 2298
+: 2306 10 21 Shots 
+: 2318 10 21 shots 
+: 2332 6 36 shots 
+: 2340 6 21 shots 
+: 2350 6 22 shots 
+- 2357
+: 2358 10 21 Shots 
+: 2370 10 21 shots 
+: 2382 6 21 shots 
+: 2390 4 8 shots 
+: 2396 6 22 shots 
+: 2404 8 21 shots 
+- 2414
+: 2418 10 21 Shots 
+: 2430 6 21 shots 
+: 2438 6 21 shots 
+: 2446 6 8 shots 
+: 2454 6 21 shots 
+- 2462
+: 2464 9 17 Every
+: 2474 24 16 body! 
+- 2500
+: 2502 10 21 Shots 
+: 2514 10 21 shots 
+: 2526 8 21 shots 
+: 2536 6 8 shots 
+: 2544 4 22 shots 
+: 2550 8 21 shots 
+- 2560
+: 2562 10 21 Shots 
+: 2574 10 21 shots 
+: 2586 6 21 shots 
+: 2594 4 8 shots 
+: 2600 6 22 shots 
+: 2608 8 21 shots 
+- 2618
+: 2622 10 21 Shots 
+: 2634 6 21 shots 
+: 2642 6 21 shots 
+: 2650 6 8 shots 
+- 2658
+: 2660 9 17 Every
+: 2670 24 16 body! 
+- 2695
+: 2696 1 21 If 
+: 2698 1 20 you 
+: 2700 6 19 ain’t 
+: 2708 4 19 get
+: 2714 4 18 ting 
+: 2720 10 20 drunk 
+: 2732 4 21 get 
+: 2738 4 18 the 
+: 2744 10 19 fuck 
+: 2758 4 16 out 
+: 2764 2 16 the 
+: 2768 12 20 club 
+- 2782
+: 2790 2 17 If 
+: 2794 4 19 you 
+: 2800 4 19 ain’t 
+: 2806 3 19 tak
+: 2810 4 19 ing 
+: 2816 8 22 shots 
+: 2830 4 21 get 
+: 2836 4 19 the 
+: 2842 10 19 fuck 
+: 2856 2 19 out 
+: 2860 2 14 the 
+: 2866 12 19 club 
+- 2880
+: 2886 2 19 If 
+: 2890 4 19 you 
+: 2898 2 19 ain’t 
+: 2902 4 19 from 
+: 2908 4 19 the 
+: 2914 10 19 party 
+: 2926 4 20 get 
+: 2932 2 18 the 
+: 2938 10 19 fuck 
+: 2952 4 19 out 
+: 2958 2 15 the 
+: 2962 12 19 club 
+- 2976
+: 2980 6 20 Now 
+: 2988 4 20 where 
+: 2994 6 20 my 
+: 3002 3 17 al
+: 3006 5 17 co
+: 3012 3 17 hol
+: 3016 6 20 ics? 
+: 3024 4 19 Let 
+: 3030 2 20 me 
+: 3034 6 21 see 
+: 3042 6 20 your 
+: 3050 10 20 hands 
+: 3062 10 17 up! 
+- 3074
+: 3110 9 16 Jager 
+: 3120 18 19 bombs! 
+- 3140
+: 3152 7 19 Le
+: 3160 8 19 mon 
+: 3170 10 20 drops! 
+- 3182
+: 3200 5 20 But
+: 3206 6 18 tery 
+: 3216 3 16 nip
+: 3220 14 19 ples 
+- 3236
+: 3254 10 19 Jello 
+: 3266 10 17 shots! 
+- 3278
+: 3302 13 18 Kami
+: 3316 14 19 kaze! 
+- 3332
+: 3344 8 19 Three 
+: 3354 8 19 Wise 
+: 3364 14 19 men! 
+: 3394 6 19 Fuck 
+: 3402 2 17 all 
+: 3406 6 17 that 
+: 3414 8 20 shit! 
+- 3424
+: 3442 6 20 Give 
+: 3450 2 21 me 
+: 3454 6 20 some 
+: 3462 8 21 gin! 
+- 3471
+: 3472 10 17 Shots! 
+: 3490 4 19 Pat 
+: 3496 12 3 rons 
+: 3510 4 3 on 
+: 3516 4 3 the 
+: 3522 8 2 rocks 
+: 3534 4 13 and 
+: 3540 4 1 I’m 
+: 3546 8 1 ready 
+: 3556 4 1 for 
+: 3562 4 13 some 
+: 3568 8 13 shots! 
+- 3578
+: 3586 6 1 The 
+: 3594 4 3 wo
+: 3600 4 3 men 
+: 3606 6 4 come 
+: 3614 16 2 around 
+: 3634 5 2 every 
+: 3640 8 2 time 
+: 3650 2 2 I’m 
+: 3654 3 3 pour
+: 3658 4 1 ing 
+: 3664 8 0 shots! 
+- 3674
+: 3684 4 1 Their 
+: 3690 10 3 panties 
+: 3704 2 4 hit 
+: 3708 4 3 the 
+: 3714 14 2 ground 
+: 3730 6 12 every 
+: 3738 6 2 time 
+: 3746 4 1 I 
+: 3752 4 2 give 
+: 3758 2 11 them 
+: 3762 8 0 shots! 
+- 3772
+: 3780 6 7 So 
+: 3788 12 1 cups 
+: 3802 2 3 in 
+: 3806 4 3 the 
+: 3812 10 2 air 
+: 3828 7 2 every
+: 3836 8 2 body 
+: 3848 4 15 let’s 
+: 3854 2 11 take 
+: 3858 8 0 shots! 
+- 3868
+: 4346 12 13 Shots 
+: 4364 5 12 pat
+: 4370 12 12 rons 
+: 4384 2 12 on
+: 4388 2 12 the 
+: 4392 12 12 rocks 
+: 4406 6 12 and 
+: 4414 2 11 I’m 
+: 4420 8 12 ready 
+: 4430 4 12 for 
+: 4436 6 12 some 
+: 4444 12 12 shots 
+- 4458
+: 4460 4 12 The 
+: 4466 5 1 wo
+: 4472 4 4 men 
+: 4478 4 3 come 
+: 4484 20 3 around 
+: 4506 9 2 every 
+: 4516 4 2 time 
+: 4522 2 3 I’m 
+: 4526 2 0 pour
+: 4530 4 3 ing 
+: 4536 14 13 shots 
+- 4552
+: 4558 4 0 Their 
+: 4564 12 0 panties 
+: 4578 2 3 hit 
+: 4582 4 3 the 
+: 4588 12 3 ground 
+: 4602 8 2 every 
+: 4612 6 12 time 
+: 4620 4 2 I 
+: 4626 2 1 give 
+: 4630 2 2 them 
+: 4634 14 1 shots 
+- 4650
+: 4652 4 12 So 
+: 4658 14 4 cups 
+: 4674 2 13 in 
+: 4678 4 3 the 
+: 4684 16 3 air 
+: 4702 8 2 every
+: 4712 10 2 body 
+: 4724 4 13 let’s 
+: 4730 2 13 take 
+: 4734 10 11 shots 
+- 4746
+: 4810 6 15 Let’s 
+: 4818 6 21 go! 
+E

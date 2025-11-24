@@ -1,0 +1,89 @@
+#ARTIST:Confetti’s
+#TITLE:C In China
+#MP3:Confetti’s - C In China.mp3
+#CREATOR:Cybergirl76
+#GENRE:Beat
+#YEAR:1988
+#LANGUAGE:English
+#BPM:219.84
+#GAP:4460
+#VIDEO:v=shXn0A9iFcI,co=https://img.cdandlp.com/2013/04/imgL/115932786.jpg
+F 0 1 0 Koni 
+F 11 10 0 hadsokadashi 
+- 23
+F 41 2 0 Hia 
+F 47 18 0 ! 
+- 67
+: 193 4 0 C 
+: 199 2 0 in 
+: 202 4 -1 china 
+: 223 6 4 Yeahhhhh
+: 230 3 3 ~
+: 234 3 2 ~ 
+- 239
+: 254 4 0 C 
+: 260 2 0 in 
+: 263 4 -1 china 
+: 284 6 4 Yeahhhhh
+: 291 3 3 ~
+: 295 3 2 ~ 
+- 300
+: 1667 4 0 C 
+: 1673 2 0 in 
+* 1676 4 -1 china 
+: 1697 6 4 Yeahhhhh
+: 1704 3 3 ~
+: 1708 3 2 ~ 
+- 1713
+: 1795 4 0 C 
+: 1801 2 0 in 
+: 1804 4 -1 china 
+- 1810
+: 1989 6 4 Yeahhhhh
+: 1996 3 3 ~
+: 2000 3 2 ~ 
+- 2005
+: 2054 6 4 Yeahhhhh
+: 2061 3 3 ~
+: 2065 3 2 ~ 
+- 2070
+F 2500 2 0 I 
+F 2503 1 0 wanna 
+F 2505 3 0 dance 
+F 2511 2 0 to 
+F 2514 2 0 the 
+F 2517 3 0 newbeat 
+- 2522
+F 2527 2 0 In 
+F 2530 2 0 the 
+F 2533 2 0 rice 
+F 2536 3 0 fields 
+- 2541
+F 2542 2 0 In 
+F 2545 1 0 the 
+F 2547 2 0 rice 
+F 2550 3 0 fields 
+- 2555
+F 2557 3 0 Oh 
+F 2563 3 0 no 
+F 2586 3 0 In 
+F 2593 13 0 Hong-Kong 
+- 2608
+: 3075 4 0 C 
+: 3081 2 0 in 
+: 3084 4 -1 china 
+: 3105 6 4 Yeahhhhh
+: 3112 3 3 ~
+: 3116 3 2 ~ 
+- 3121
+: 3202 4 0 C 
+: 3208 2 0 in 
+: 3211 4 -1 china 
+: 3232 6 4 Yeahhhhh
+: 3239 3 3 ~
+: 3243 3 2 ~ 
+- 3248
+: 3523 4 0 C 
+: 3529 2 0 in 
+* 3532 7 -1 china 
+E

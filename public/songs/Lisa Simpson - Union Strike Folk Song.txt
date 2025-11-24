@@ -1,0 +1,90 @@
+#ARTIST:Lisa Simpson
+#TITLE:Union Strike Folk Song
+#MP3:Lisa Simpson - Union Strike Folk Song.mp3
+#CREATOR:Hammy
+#YEAR:1993
+#LANGUAGE:English
+#BPM:250
+#GAP:5000
+#VIDEO:v=vt5X8zrHiSM,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/56/b1/4e56b197-4450-eda3-9b24-c2176165a630/21UM1IM46776.rgb.jpg/5000x5000bb.jpg
+: 0 5 0 Come 
+: 6 11 5 gather 
+: 18 5 7 round 
+: 24 7 7 chil
+: 32 7 5 dren 
+- 39
+: 40 3 0 It’s 
+: 44 3 3 high 
+: 48 10 3 time 
+: 59 2 5 ye 
+: 62 12 7 learned 
+- 74
+: 76 4 0 ’Bout 
+: 81 1 0 a 
+: 83 11 5 hero 
+: 95 7 3 named 
+: 103 5 0 Ho
+: 109 6 -2 mer 
+- 115
+: 116 2 -2 And 
+: 119 2 -2 a 
+: 122 10 -2 devil 
+: 133 7 -4 named 
+: 141 23 -7 Burns 
+- 176
+: 180 6 5 We’ll 
+: 187 7 5 march 
+: 195 2 5 till 
+: 198 1 7 we 
+: 200 6 7 dro
+: 207 2 5 ~
+: 210 4 5 ~p 
+- 214
+: 215 3 5 The 
+: 219 8 3 girls 
+: 228 5 3 and 
+: 234 3 5 the 
+: 238 5 7 fe
+: 244 2 5 ~l
+: 247 8 3 las 
+- 255
+: 256 1 3 We’ll 
+: 258 7 5 fight 
+: 266 5 5 till 
+: 272 5 3 the 
+: 278 7 0 death 
+: 286 5 -4 or 
+- 291
+: 292 5 -4 Else 
+: 298 6 -2 fold 
+: 305 6 -2 like 
+: 312 3 -4 um
+: 316 26 -7 brellas 
+- 348
+: 350 3 3 So 
+: 354 2 3 we’ll 
+: 357 7 8 march 
+: 365 5 8 day 
+: 371 5 10 and 
+: 377 3 10 ni
+: 381 1 10 ~
+: 383 5 8 ~ght 
+- 388
+: 390 3 8 By 
+: 394 2 8 the 
+: 397 5 10 big 
+: 403 6 10 cool
+: 410 5 8 ing 
+: 416 14 7 tower 
+- 433
+: 435 4 5 They 
+: 440 9 5 have 
+: 450 4 3 the 
+: 455 13 0 plant 
+- 468
+: 469 5 -4 But 
+: 475 4 -2 we 
+: 480 7 -2 have 
+: 488 7 -4 the 
+: 496 18 -7 power 
+E

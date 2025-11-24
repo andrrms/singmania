@@ -1,0 +1,119 @@
+#ARTIST:Elvis Presley
+#TITLE:Welcome To My World
+#MP3:Elvis Presley - Welcome To My World.mp3
+#CREATOR:ultrastarsongs
+#YEAR:1972
+#LANGUAGE:English
+#BPM:320
+#GAP:10810
+#VIDEO:a=9065VfI_NKU,co=welcome-to-my-world-62ed3f424cf99.jpg,bg=presley-elvis-5046da60dbf30.jpg
+: 0 7 -11 Wel
+: 8 7 -11 come 
+: 16 7 -11 to 
+: 24 7 -11 my 
+: 32 32 -11 world 
+- 66
+: 104 7 -11 Won’t 
+: 112 8 -11 you 
+: 124 7 -11 come 
+: 132 7 -2 on 
+: 140 32 -2 in 
+- 174
+: 224 3 -5 Mir
+: 228 3 -5 a
+: 232 7 -4 cles 
+: 240 7 3 I 
+: 248 32 3 guess 
+- 282
+: 324 7 0 Still 
+: 332 3 0 hap
+: 336 7 -11 pen 
+: 344 7 -9 now 
+: 352 7 -2 and 
+: 360 32 -2 then 
+- 394
+: 444 3 -9 Step 
+: 448 3 -9 in
+: 452 7 -4 to 
+: 460 7 3 my 
+: 468 32 3 heart 
+- 502
+: 564 7 0 Leave 
+: 572 7 0 your 
+: 580 7 -11 cares 
+: 588 7 -2 be
+: 596 32 -2 hind 
+- 630
+: 664 7 -9 Wel
+: 672 8 -9 come 
+: 684 7 -4 to 
+: 692 7 3 my 
+: 700 32 3 world 
+- 734
+: 780 7 0 Built 
+: 788 7 0 with 
+: 796 3 -11 you 
+: 800 7 -2 in 
+: 808 32 -2 mind 
+- 842
+: 912 19 -9 Knock 
+: 932 3 -9 and 
+: 936 7 -2 the 
+: 944 15 -9 door 
+: 960 7 -9 Shall Be 
+: 968 7 -2 op
+: 976 16 -2 en 
+- 994
+: 1020 31 -9 Seek 
+: 1052 7 -4 and 
+: 1060 3 -4 you 
+: 1064 7 -9 will 
+: 1072 16 -2 find 
+- 1090
+: 1132 20 -5 Ask 
+: 1156 4 -5 and 
+: 1164 7 -2 you
+: 1172 11 -9 ’ll 
+: 1184 7 -9 be 
+: 1192 7 -9 giv
+: 1200 16 -2 en 
+- 1218
+: 1236 7 -5 The 
+: 1244 15 -4 key 
+: 1260 8 -4 to 
+: 1272 7 -4 this 
+: 1280 11 -2 heart 
+: 1292 7 -2 of 
+: 1300 24 -2 mine 
+- 1326
+: 1384 7 5 I’ll 
+: 1392 7 5 be 
+: 1400 7 -9 wait
+: 1408 3 -4 ing 
+: 1412 3 -4 the
+: 1416 32 -4 re 
+- 1450
+: 1496 7 -4 With 
+: 1504 7 0 my 
+: 1512 8 -11 arms 
+: 1524 7 -2 un
+: 1532 32 -2 furled 
+- 1566
+: 1604 8 -9 Wait
+: 1616 7 -9 ing 
+: 1624 7 -4 just 
+: 1632 7 3 for 
+: 1640 32 3 you 
+- 1674
+: 1712 8 0 Wel
+: 1724 7 0 come 
+: 1732 7 -11 to 
+: 1740 7 -2 my 
+: 1748 40 -2 world 
+- 1790
+: 1944 7 -4 Wel
+: 1952 7 -4 come 
+: 1960 3 -11 to 
+: 1964 7 -2 my 
+: 1972 60 -2 world 
+E

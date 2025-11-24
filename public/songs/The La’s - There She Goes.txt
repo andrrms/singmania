@@ -1,0 +1,181 @@
+#ARTIST:The La’s
+#TITLE:There She Goes
+#MP3:The La’s - There She Goes.mp3
+#CREATOR:znxineohp
+#GENRE:Britpop
+#YEAR:1988
+#LANGUAGE:English
+#BPM:244.4
+#GAP:34500
+#VIDEO:v=CZXLLMbJdZ4,co=https://media.hitparade.ch/cover/big/the_las-there_she_goes_s.jpg,bg=las-the-5038dd767c6e3.jpg
+#END:162000
+: 0 11 2 There 
+: 15 8 6 she 
+: 28 25 7 goes 
+- 55
+: 64 5 -1 There 
+: 71 2 2 she 
+: 76 10 9 goes 
+: 88 2 6 a
+: 92 14 7 gain 
+- 108
+: 127 6 -1 Ra
+: 135 5 2 cing 
+: 143 6 9 through 
+: 151 7 6 my 
+: 164 14 7 brain 
+- 180
+: 187 3 2 And 
+: 191 4 2 I 
+: 199 4 0 just 
+: 207 3 -1 can’t 
+: 215 3 -3 con
+: 220 3 -1 tai
+: 224 2 0 ~
+: 227 10 -1 ~n 
+- 239
+: 246 5 2 This 
+: 255 5 2 fee
+: 263 3 0 ling 
+: 270 4 -1 that 
+: 279 3 -3 re
+: 283 3 -1 mai
+: 287 3 0 ~
+: 291 3 -1 ~
+: 295 3 0 ~
+: 299 11 -1 ~ns 
+- 312
+: 350 12 2 There 
+: 366 8 6 she 
+: 379 25 7 blows 
+- 406
+: 414 6 -1 There 
+: 422 3 2 she 
+: 427 10 9 blows 
+: 438 3 6 a
+: 442 14 7 gain 
+- 458
+* 478 5 -1 Pul
+* 485 4 2 sing 
+: 494 6 9 through 
+: 501 3 6 my
+: 505 4 7 ~ 
+: 514 16 7 vein 
+- 532
+: 537 3 2 And 
+: 541 4 2 I 
+: 549 4 0 just 
+: 557 3 -1 can’t 
+: 565 3 -3 con
+: 569 3 -1 tai
+: 573 3 0 ~
+: 577 8 -1 ~n 
+- 587
+: 597 5 2 This 
+: 605 5 2 fee
+: 613 4 0 ling 
+: 621 3 -1 that 
+: 629 3 -3 re
+: 633 3 -1 mai
+: 637 3 0 ~
+: 641 3 -1 ~
+: 645 3 0 ~
+: 649 13 -1 ~ns 
+- 664
+: 1050 12 2 There 
+: 1066 9 6 she 
+: 1080 23 7 goes 
+- 1105
+: 1115 5 -1 There 
+: 1122 3 2 she 
+* 1127 10 9 goes 
+: 1139 2 6 a
+: 1142 9 7 gain 
+- 1153
+: 1158 3 2 She 
+: 1163 6 2 calls 
+: 1171 5 6 my 
+: 1179 8 7 name 
+- 1189
+: 1195 5 2 Pulls 
+: 1202 3 6 my 
+: 1210 8 7 train 
+- 1220
+: 1226 4 2 No 
+: 1234 4 0 one 
+: 1243 5 -1 else 
+* 1250 4 2 could 
+* 1259 6 9 heal 
+: 1266 3 6 my
+: 1270 3 7 ~ 
+: 1279 8 7 pain 
+- 1289
+: 1301 3 2 But 
+: 1305 4 2 I 
+: 1314 4 0 just 
+: 1322 3 -1 can’t 
+: 1330 3 -3 con
+: 1334 3 -1 tai
+: 1338 3 0 ~
+: 1342 9 -1 ~n 
+- 1353
+: 1361 6 2 This 
+: 1369 5 2 fee
+: 1378 4 0 ling 
+: 1386 3 -1 that 
+: 1394 3 -3 re
+: 1398 3 -1 mai
+: 1402 3 0 ~
+: 1406 3 -1 ~
+: 1410 3 0 ~
+: 1414 7 -1 ~ns 
+- 1423
+: 1434 11 2 There 
+: 1449 8 6 she 
+: 1462 24 7 goes 
+- 1488
+: 1497 5 -1 There 
+: 1505 3 2 she 
+: 1510 10 9 goes 
+* 1522 2 6 a
+* 1525 16 7 gain 
+- 1543
+: 1561 5 -1 Cha
+: 1569 4 2 sing 
+* 1577 6 9 down 
+: 1585 3 6 my
+: 1589 3 7 ~ 
+: 1597 15 7 lane 
+- 1614
+: 1620 4 2 And 
+: 1625 4 2 I 
+: 1633 4 0 just 
+: 1641 3 -1 can’t 
+: 1649 3 -3 con
+: 1653 3 -1 tai
+: 1657 3 0 ~
+: 1661 11 -1 ~n 
+- 1674
+: 1680 6 2 This 
+: 1688 4 2 fee
+: 1696 4 0 lin’ 
+: 1704 3 -1 that 
+: 1712 3 -3 re
+: 1716 3 -1 mai
+: 1720 3 0 ~
+: 1724 3 -1 ~
+: 1728 3 0 ~
+: 1732 18 -1 ~ns 
+- 1752
+* 1784 12 2 There 
+: 1800 7 6 she 
+: 1812 24 9 goes 
+- 1838
+: 1848 11 2 There 
+: 1863 8 6 she 
+: 1876 24 7 goes 
+- 1902
+: 1911 12 2 There 
+: 1927 8 6 she 
+* 1940 24 7 goes 
+E

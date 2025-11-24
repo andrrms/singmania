@@ -1,0 +1,358 @@
+#ARTIST:Hilary Duff
+#TITLE:Santa Claus Lane
+#MP3:Hilary Duff - Santa Claus Lane.mp3
+#CREATOR:michas17j
+#GENRE:Pop
+#YEAR:2003
+#LANGUAGE:English
+#BPM:244
+#GAP:8230
+#VIDEO:a=p1M6CjKzpi4,co=https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/da/eb/ca/daebca67-4c2e-e95a-4af1-d4c2f87bf904/00094637187753.jpg/5000x5000bb.jpg,bg=hilary-duff-4dded378b3b58.jpg,tags=Christmas
+: 0 4 0 I 
+: 8 4 0 re
+: 16 2 0 mem
+: 20 2 0 ber 
+: 24 6 0 last 
+: 32 2 2 Christ
+: 36 6 4 mas 
+: 44 6 4 Eve 
+- 52
+: 64 4 0 Some
+: 72 4 0 thing 
+: 80 2 0 hap
+: 84 2 0 pened 
+: 88 2 0 that 
+: 92 2 4 I 
+: 96 2 2 could
+: 100 2 0 n’t 
+: 104 2 0 be
+: 108 6 0 lieve 
+- 116
+: 124 2 0 I 
+: 128 2 0 went 
+: 132 2 0 for 
+: 136 2 0 a 
+: 140 4 0 walk 
+: 152 2 0 as 
+: 156 2 0 tha 
+: 160 2 2 snow 
+: 164 6 4 came 
+: 172 6 4 down 
+- 180
+: 188 2 0 And 
+: 192 2 0 when 
+: 196 2 0 it 
+: 200 4 0 stopped 
+: 208 2 0 I 
+: 212 2 0 was 
+: 216 2 0 in 
+: 220 2 4 a 
+: 224 2 2 dif
+: 228 6 0 ferent 
+: 236 6 0 town 
+- 244
+: 256 6 7 And 
+: 264 6 5 the 
+: 272 6 4 sign 
+: 280 6 2 said 
+: 288 6 5 have 
+: 296 6 4 no 
+: 304 6 2 fair 
+- 312
+: 320 6 7 Your 
+: 328 6 5 not 
+: 336 6 4 last 
+: 344 6 2 your 
+: 352 20 5 here! 
+- 374
+: 388 2 7 Wal
+: 392 2 7 king 
+: 396 2 7 this 
+: 400 2 7 christ
+: 404 2 0 mas 
+- 408
+: 412 2 0 Down 
+: 416 2 5 San
+: 420 2 4 ta 
+: 424 2 0 Claus 
+: 428 6 2 Lane 
+- 436
+: 448 2 7 No 
+: 452 2 7 need 
+: 456 2 7 to 
+: 460 2 9 won
+: 464 2 7 der 
+- 468
+: 476 2 0 No 
+: 480 2 5 need 
+: 484 2 4 to 
+: 488 2 0 ex
+: 492 6 2 plain 
+- 500
+: 508 2 0 Just 
+: 512 2 4 have 
+: 516 2 4 some 
+: 520 2 4 faith 
+: 524 2 5 in 
+: 528 2 4 what 
+: 532 2 0 you 
+: 536 2 0 see 
+- 539
+: 540 2 0 Your 
+: 544 2 4 right 
+: 548 2 4 here 
+: 552 2 4 where 
+: 556 2 5 you 
+: 560 2 4 wan
+: 564 2 0 na 
+: 568 6 0 be 
+- 576
+: 580 2 0 Wal
+: 584 2 0 king 
+: 588 2 0 this 
+: 592 2 2 christ
+: 596 10 0 mas 
+- 608
+: 616 4 0 Down 
+: 624 2 -1 San
+: 628 2 0 ta 
+: 632 2 2 Cla
+: 636 2 0 ~us 
+: 640 10 0 Lane 
+- 652
+: 680 4 0 Down 
+: 688 2 -1 San
+: 692 2 0 ta 
+: 696 2 2 Cla
+: 700 2 0 ~us 
+: 704 10 0 Lane 
+- 716
+: 768 4 0 Elves 
+: 776 4 0 were 
+: 784 4 0 stan
+: 792 4 0 ding 
+: 800 2 2 in 
+: 804 6 4 the 
+: 812 6 4 street 
+- 820
+: 832 4 0 Snow 
+: 840 2 0 man 
+: 844 2 0 and 
+: 848 6 0 rein
+: 856 6 4 deer 
+: 864 2 2 came 
+: 868 2 0 out 
+: 872 2 0 to 
+: 876 6 0 greet 
+- 884
+: 896 2 0 Sil
+: 900 2 0 ver 
+: 904 4 0 bells 
+: 912 4 0 chimed 
+: 920 4 0 from 
+: 928 2 2 far 
+: 932 6 4 a
+: 940 6 4 way 
+- 948
+: 956 2 0 As 
+: 960 2 0 san
+: 964 2 0 ta 
+: 968 4 0 rode 
+: 976 4 0 by 
+: 984 2 0 on 
+: 988 2 4 an 
+: 992 2 2 o
+: 996 6 0 pen 
+: 1004 6 0 sleigh 
+- 1012
+: 1024 6 7 And 
+: 1032 6 5 he 
+: 1040 6 4 told 
+: 1048 6 2 me 
+: 1056 6 5 have 
+: 1064 6 4 no 
+: 1072 6 2 fear 
+- 1080
+: 1088 6 7 Your 
+: 1096 6 5 not 
+: 1104 6 4 lost 
+: 1112 6 2 your 
+: 1120 18 5 here! 
+- 1140
+: 1156 2 7 Wal
+: 1160 2 7 king 
+: 1164 2 7 this 
+: 1168 2 7 christ
+: 1172 2 0 mas 
+- 1176
+: 1180 2 0 Down 
+: 1184 2 5 San
+: 1188 2 4 ta 
+: 1192 2 0 Claus 
+: 1196 6 2 Lane 
+- 1204
+: 1216 2 7 No 
+: 1220 2 7 need 
+: 1224 2 7 to 
+: 1228 2 9 won
+: 1232 2 7 der 
+- 1236
+: 1244 2 0 No 
+: 1248 2 5 need 
+: 1252 2 4 to 
+: 1256 2 0 ex
+: 1260 6 2 plain 
+- 1268
+: 1276 2 0 Just 
+: 1280 2 4 have 
+: 1284 2 4 some 
+: 1288 2 4 faith 
+: 1292 2 5 in 
+: 1296 2 4 what 
+: 1300 2 0 you 
+: 1304 2 0 see 
+- 1307
+: 1308 2 0 Your 
+: 1312 2 4 right 
+: 1316 2 4 here 
+: 1320 2 4 where 
+: 1324 2 5 you 
+: 1328 2 4 wan
+: 1332 2 0 na 
+: 1336 6 0 be 
+- 1344
+: 1348 2 0 Wal
+: 1352 2 0 king 
+: 1356 2 0 this 
+: 1360 2 2 christ
+: 1364 10 0 mas 
+- 1376
+: 1384 4 0 Down 
+: 1392 2 -1 San
+: 1396 2 0 ta 
+: 1400 2 2 Cla
+: 1404 2 0 ~us 
+: 1408 10 0 Lane 
+- 1420
+: 1448 4 0 Down 
+: 1456 2 -1 San
+: 1460 2 0 ta 
+: 1464 2 2 Cla
+: 1468 2 0 ~us 
+: 1472 10 0 Lane 
+- 1484
+: 1532 2 0 I 
+: 1536 6 12 don’t 
+: 1544 6 11 know 
+: 1552 6 9 how 
+: 1560 6 7 I 
+: 1568 2 9 don’t 
+: 1572 6 7 know 
+: 1580 6 7 when 
+- 1588
+: 1596 2 0 But 
+: 1600 6 12 one 
+: 1608 6 11 day 
+: 1616 6 9 I’ll 
+: 1624 6 7 be 
+: 1632 2 9 back 
+: 1636 6 7 a
+: 1644 6 7 gain 
+- 1652
+: 1792 6 7 And 
+: 1800 6 5 he 
+: 1808 6 4 told 
+: 1816 6 2 me 
+: 1824 6 5 have 
+: 1832 6 4 no 
+: 1840 6 2 fear 
+- 1848
+: 1856 6 7 Your 
+: 1864 6 5 not 
+: 1872 6 4 lost 
+: 1880 6 2 your 
+: 1888 18 5 here! 
+- 1908
+: 1956 2 7 Wal
+: 1960 2 7 king 
+: 1964 2 7 this 
+: 1968 2 7 christ
+: 1972 2 0 mas 
+- 1976
+: 1980 2 0 Down 
+: 1984 2 5 San
+: 1988 2 4 ta 
+: 1992 2 0 Claus 
+: 1996 6 2 Lane 
+- 2004
+: 2016 2 7 No 
+: 2020 2 7 need 
+: 2024 2 7 to 
+: 2028 2 9 won
+: 2032 2 7 der 
+- 2036
+: 2044 2 0 No 
+: 2048 2 5 need 
+: 2052 2 4 to 
+: 2056 2 0 ex
+: 2060 6 2 plain 
+- 2068
+: 2076 2 0 Just 
+: 2080 2 4 have 
+: 2084 2 4 some 
+: 2088 2 4 faith 
+: 2092 2 5 in 
+: 2096 2 4 what 
+: 2100 2 0 you 
+: 2104 2 0 see 
+- 2107
+: 2108 2 0 Your 
+: 2112 2 4 right 
+: 2116 2 4 here 
+: 2120 2 4 where 
+: 2124 2 5 you 
+: 2128 2 4 wan
+: 2132 2 0 na 
+: 2136 6 0 be 
+- 2144
+: 2148 2 0 Wal
+: 2152 2 0 king 
+: 2156 2 0 this 
+: 2160 2 2 christ
+: 2164 10 0 mas 
+- 2176
+: 2184 4 0 Down 
+: 2192 2 -1 San
+: 2196 2 0 ta 
+: 2200 2 2 Cla
+: 2204 2 0 ~us 
+: 2208 10 0 Lane 
+- 2220
+: 2248 4 0 Down 
+: 2256 2 -1 San
+: 2260 2 0 ta 
+: 2264 2 2 Cla
+: 2268 2 0 ~us 
+: 2272 10 0 Lane 
+- 2284
+: 2312 4 0 Down 
+: 2320 2 -1 San
+: 2324 2 0 ta 
+: 2328 2 2 Cla
+: 2332 2 0 ~us 
+: 2336 10 0 Lane 
+- 2348
+: 2376 4 0 Down 
+: 2384 2 -1 San
+: 2388 2 0 ta 
+: 2392 2 2 Cla
+: 2396 2 0 ~us 
+: 2400 10 0 Lane 
+- 2412
+: 2440 4 0 Down 
+: 2448 2 -1 San
+: 2452 2 0 ta 
+: 2456 2 2 Cla
+: 2460 2 0 ~us 
+: 2464 10 0 Lane 
+E

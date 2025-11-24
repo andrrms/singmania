@@ -1,0 +1,286 @@
+#ARTIST:…And You Will Know Us by the Trail of Dead
+#TITLE:Caterwaul
+#MP3:…And You Will Know Us by the Trail of Dead - Caterwaul.mp3
+#CREATOR:Madlock
+#YEAR:2005
+#LANGUAGE:English
+#BPM:200
+#GAP:28990
+#VIDEO:a=JwkxKk4gsCg,co=worlds-apart-4f26ff53aace9.jpg,bg=and-you-will-know-us-by-the-trail-of-dead-5454d6dc1386c.jpg
+: 0 7 7 Eyes 
+: 8 1 4 at 
+: 10 12 7 night 
+: 36 2 7 ne
+: 40 1 7 ver 
+: 42 5 7 seen 
+: 48 4 9 the 
+: 54 18 4 day 
+- 76
+: 78 5 -3 ’Cause it’s 
+: 84 4 4 not 
+: 90 3 4 in 
+: 94 3 2 my
+: 98 1 0 ~ 
+: 100 3 0 na
+: 104 8 2 ture 
+- 124
+: 128 7 7 Gol
+: 136 3 4 den 
+: 140 8 7 wings 
+: 150 4 7 rise 
+: 158 3 7 from 
+: 162 5 9 the 
+: 168 12 4 plane 
+- 189
+: 192 5 -3 They 
+: 198 4 4 burn 
+: 204 3 4 ab
+: 208 3 2 ove 
+: 212 2 0 the 
+: 216 3 0 red 
+: 220 6 2 earth 
+- 236
+: 244 7 7 Scale 
+: 252 1 4 these 
+: 254 9 7 walls 
+: 264 6 4 in 
+: 272 3 7 front 
+: 276 5 9 of 
+: 282 14 4 me 
+- 305
+: 308 3 -3 Have you 
+: 312 5 4 e
+: 318 3 4 ver 
+: 322 3 2 stopped 
+: 326 2 0 to 
+: 330 3 0 won
+: 334 4 2 der 
+- 348
+: 352 6 7 Why 
+: 364 8 7 they 
+: 380 8 7 forced 
+: 394 3 4 your 
+: 398 8 7 voice 
+: 408 1 4 to 
+: 410 8 7 turn 
+- 420
+: 422 1 4 From 
+: 424 6 7 si
+: 432 3 7 lence 
+: 436 3 4 to 
+: 440 1 2 a 
+: 442 3 0 ca
+: 446 3 2 ter
+: 450 8 0 waul 
+- 462
+: 464 6 7 Why 
+: 480 8 7 they 
+: 494 6 7 forced 
+: 508 3 4 your 
+: 512 9 7 voice 
+: 522 3 4 to 
+: 526 8 7 turn 
+- 534
+: 536 3 4 From 
+: 540 4 7 si
+: 546 3 7 lence 
+: 550 3 4 to 
+: 554 3 2 a 
+: 558 3 0 ca
+: 562 1 2 ter
+: 564 8 0 waul 
+- 598
+: 686 7 7 Ne
+: 694 3 4 ver 
+: 698 10 7 knew 
+: 722 2 7 I 
+: 726 2 7 could 
+: 730 3 7 feel 
+: 734 5 9 this 
+: 740 16 4 way 
+- 763
+: 766 3 -3 So 
+: 770 4 4 old 
+: 776 3 4 and 
+: 780 3 2 un
+: 784 2 0 re
+: 788 1 0 mem
+: 790 8 2 bered 
+- 808
+: 816 5 7 Ne
+: 822 3 4 ver 
+: 826 6 7 thought 
+: 838 4 7 it would 
+: 844 4 7 slip 
+: 850 3 9 a
+: 854 16 4 way 
+- 877
+: 880 3 -3 And 
+: 884 4 4 fall 
+: 892 1 4 like 
+: 894 3 2 se
+: 898 1 0 p
+: 900 3 0 tem
+: 904 12 2 ber 
+- 926
+: 930 7 7 Scale 
+: 938 3 4 these 
+: 942 6 7 walls 
+: 950 4 7 in 
+: 958 3 7 front 
+: 962 7 9 of 
+: 970 14 4 me 
+- 991
+: 994 3 -3 Have you 
+: 998 5 4 e
+: 1004 1 4 ver 
+: 1006 5 2 stopped 
+: 1012 2 0 to 
+: 1016 3 0 won
+: 1020 10 2 der 
+- 1036
+: 1038 6 7 Why 
+: 1052 6 7 they 
+: 1066 6 7 forced 
+: 1080 3 4 my 
+: 1084 10 7 voice 
+: 1096 1 4 to 
+: 1098 9 7 turn 
+- 1107
+: 1108 3 4 From 
+: 1112 6 7 si
+: 1120 3 7 lence 
+: 1124 1 4 to 
+: 1126 3 2 a 
+: 1130 3 0 ca
+: 1134 3 2 ter
+: 1138 8 0 waul 
+- 1150
+: 1152 6 7 Why 
+: 1166 6 7 they 
+: 1180 8 7 force 
+: 1194 3 4 my 
+: 1198 8 7 voice 
+: 1208 3 4 to 
+: 1212 10 7 turn 
+- 1222
+: 1224 1 4 From 
+: 1226 7 7 si
+: 1234 3 7 lence 
+: 1238 1 4 to 
+: 1240 3 2 a 
+: 1244 3 0 ca
+: 1248 3 2 ter
+: 1252 8 0 waul 
+- 1264
+: 1266 6 7 I 
+: 1280 8 7 heard 
+: 1294 3 7 your 
+: 1298 7 7 ca
+: 1306 5 4 ter
+: 1312 28 7 waul 
+- 1366
+: 1686 1 0 And 
+: 1688 1 0 what 
+: 1690 17 0 has tried 
+: 1708 2 2 to 
+: 1712 7 2 bound 
+: 1720 18 0 me 
+- 1764
+: 1798 5 7 I’ve se
+: 1804 5 4 vered 
+: 1810 7 2 e
+: 1818 6 0 very 
+: 1826 18 0 tie 
+- 1870
+: 1912 6 0 Place 
+: 1920 2 0 your 
+: 1924 9 0 arms 
+: 1934 1 2 a
+: 1936 9 2 round 
+: 1946 18 4 me 
+- 1990
+: 2020 5 7 And we
+: 2026 3 4 ’ll 
+: 2030 3 7 leave 
+: 2034 3 4 the 
+: 2038 1 7 rest 
+: 2040 4 7 be
+: 2046 48 7 hind 
+- 2094
+: 2096 1 7 What was 
+: 2098 2 7 I 
+: 2102 1 7 to 
+: 2104 10 7 say 
+- 2121
+: 2124 1 7 How was 
+: 2126 2 7 I 
+: 2130 1 7 to 
+: 2132 14 4 know 
+- 2152
+: 2154 2 7 Was 
+: 2158 2 7 it 
+: 2162 3 7 your 
+: 2166 7 4 soft 
+: 2174 5 2 voice 
+: 2180 5 0 that 
+: 2186 5 0 said 
+: 2192 10 4 so 
+- 2206
+: 2208 2 7 What was 
+: 2212 1 7 I 
+: 2214 1 7 to 
+: 2216 10 7 say 
+- 2233
+: 2236 2 7 How was 
+: 2240 1 7 I 
+: 2242 1 7 to 
+: 2244 14 4 know 
+- 2265
+: 2268 1 7 Was 
+: 2270 2 7 it 
+: 2274 4 7 your 
+: 2280 4 4 soft 
+: 2286 5 2 voice 
+: 2292 6 0 that 
+: 2300 3 0 said 
+: 2304 10 -5 so 
+- 2318
+: 2320 2 7 What was 
+: 2324 1 7 I 
+: 2326 2 7 to 
+: 2330 10 7 say 
+- 2346
+: 2348 2 7 How was 
+: 2352 1 7 I 
+: 2354 1 7 to 
+: 2356 14 4 go 
+- 2377
+: 2380 1 7 Was 
+: 2382 2 7 it 
+: 2386 4 7 your 
+: 2392 5 4 soft 
+: 2398 5 2 voice 
+: 2404 4 0 that 
+: 2412 5 0 said 
+: 2418 8 4 so 
+- 2430
+: 2432 2 7 What was 
+: 2436 2 7 I 
+: 2440 1 7 to 
+: 2442 8 7 say 
+- 2457
+: 2460 3 7 How was 
+: 2464 2 7 I 
+: 2468 1 7 to 
+: 2470 12 4 know 
+- 2489
+: 2492 2 7 Was 
+: 2496 2 7 it 
+: 2500 3 7 your 
+: 2504 5 4 soft 
+: 2510 6 2 voice 
+: 2518 4 0 that 
+: 2524 6 0 said 
+: 2532 10 -5 so 
+E

@@ -1,0 +1,331 @@
+#ARTIST:Dave Matthews Band
+#TITLE:Ants Marching
+#MP3:Dave Matthews Band - Ants Marching.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Dave Matthews Band - Ants Marching [CO].jpg
+#BACKGROUND:Dave Matthews Band - Ants Marching [BG].jpg
+#GENRE:Rock, Alternative Rock, Folk Rock
+#YEAR:1995
+#LANGUAGE:English
+#BPM:393.75
+#GAP:20000
+#VIDEO:v=MNgJBIx-hK8,co=under-the-table-and-dreaming-5e771780a6951.jpg,bg=matthews-dave-band-4f818761c342a.jpg
+: 0 8 9 He 
+: 12 5 2 wakes 
+: 21 7 2 up 
+: 33 4 2 in 
+: 42 3 2 the 
+: 48 9 11 mor
+: 59 35 9 ning 
+- 106
+: 110 10 9 Does 
+: 122 6 1 his 
+: 130 9 2 teeth 
+: 141 7 2 bite 
+: 150 4 2 to 
+: 159 8 11 eat 
+: 171 5 11 and 
+: 180 5 11 he’s 
+: 189 12 11 rol
+: 203 14 9 ling 
+- 226
+: 229 6 6 Ne
+: 235 5 6 ver 
+: 242 11 6 chan
+: 253 11 9 ges 
+: 265 7 11 a 
+: 275 35 2 thing 
+- 320
+: 333 3 2 The 
+: 339 9 2 week 
+: 358 8 6 ends 
+: 368 4 6 the 
+: 374 12 6 week 
+: 389 10 9 be
+: 399 10 2 gins 
+- 412
+: 414 10 4 She 
+: 425 20 9 thinks 
+- 446
+: 448 7 9 We 
+: 459 5 6 ~
+: 466 10 2 look 
+: 479 6 2 at 
+: 488 4 9 each 
+: 494 8 11 o
+: 505 37 9 ther 
+- 551
+: 555 8 9 Won
+: 563 6 2 de
+: 569 6 2 ring 
+: 576 12 2 what 
+: 590 7 11 the 
+: 599 10 11 o
+: 612 7 11 ther 
+: 624 4 11 is 
+: 632 11 11 thin
+: 645 17 9 king 
+- 671
+: 674 4 7 But 
+: 681 5 6 we 
+: 687 5 7 nev
+: 692 5 7 er 
+: 701 9 9 say 
+: 713 5 11 a 
+: 723 11 9 thing 
+- 744
+: 779 4 2 And 
+: 784 10 4 these 
+: 798 13 4 crimes 
+: 813 8 4 be
+: 821 7 6 tween 
+: 830 4 7 us 
+: 839 10 4 grow 
+: 849 8 4 deep
+: 861 29 2 er 
+- 942
+: 1105 8 4 Take 
+: 1119 7 4 these 
+: 1133 10 2 chan
+: 1147 62 9 ces 
+- 1212
+: 1214 12 9 Place 
+: 1229 12 4 them 
+: 1248 5 1 in 
+: 1257 9 11 a 
+: 1270 11 9 box 
+: 1291 9 4 un
+: 1300 9 4 til 
+: 1313 9 9 a 
+: 1324 10 9 qui
+: 1334 9 6 et
+: 1344 7 2 er 
+: 1354 14 4 time
+- 1376
+: 1379 7 7 Lights 
+: 1391 7 9 down 
+: 1403 4 6 you 
+: 1411 4 11 up 
+: 1419 4 11 and 
+: 1426 23 2 die 
+- 1501
+: 1557 12 9 Goes 
+: 1571 8 2 to 
+: 1579 9 2 vis
+: 1588 8 2 it 
+: 1598 13 2 his 
+: 1613 5 11 mom
+: 1622 20 9 my 
+- 1645
+: 1647 15 9 She 
+: 1669 12 9 feeds 
+: 1682 4 2 him 
+: 1689 10 2 well 
+: 1703 4 2 his 
+: 1710 9 2 con
+: 1719 9 2 cerns
+- 1728
+: 1730 5 11 He 
+: 1737 8 11 for
+: 1745 8 11 gets 
+: 1758 16 9 them 
+- 1784
+: 1788 3 7 And 
+: 1794 6 6 re
+: 1800 6 7 mem
+: 1806 6 7 bers 
+: 1814 11 9 be
+: 1825 11 11 ing 
+: 1839 33 2 small
+- 1882
+: 1892 7 4 Play
+: 1903 5 4 ing 
+: 1913 5 4 un
+: 1923 4 6 der 
+: 1932 4 4 the 
+: 1941 6 9 ta
+: 1951 4 9 ble 
+: 1961 3 2 and 
+: 1968 11 2 drea
+: 1982 11 4 ming
+- 1993
+: 1995 12 6 Take 
+: 2009 8 4 these 
+: 2022 11 2 chan
+: 2036 60 9 ces 
+- 2104
+: 2107 8 6 Place 
+: 2119 14 4 them 
+: 2139 4 11 in 
+: 2148 10 11 a 
+: 2161 11 9 box 
+: 2181 11 4 un
+: 2192 10 4 til 
+: 2205 6 2 a 
+: 2213 10 9 qui
+: 2223 10 11 et
+: 2234 8 2 er 
+: 2244 13 4 time 
+- 2263
+: 2266 11 11 Lights 
+: 2280 13 9 down 
+: 2295 5 6 you 
+: 2303 4 2 up 
+: 2310 4 9 and 
+: 2315 13 2 die 
+- 2380
+: 2780 10 9 Dri
+: 2790 10 2 ving 
+: 2801 9 2 a
+: 2810 9 2 long 
+: 2821 5 2 this 
+: 2828 6 11 high
+: 2838 21 9 way
+: 2862 23 9 ~
+- 2892
+: 2895 7 9 All 
+: 2907 4 2 these 
+: 2916 6 2 cars 
+: 2926 5 2 end 
+: 2934 9 2 up 
+: 2947 5 11 on 
+: 2957 4 11 the 
+: 2966 10 11 side
+: 2978 19 9 walk 
+- 3002
+: 3004 8 6 Peo
+: 3012 7 7 ple 
+: 3021 3 6 in 
+: 3028 5 7 eve
+: 3033 5 7 ry 
+: 3039 10 9 di
+: 3049 8 2 rec
+: 3057 8 2 tion 
+- 3075
+: 3114 6 7 No 
+: 3121 8 6 words 
+: 3131 8 7 ex
+: 3139 7 7 changed 
+: 3148 7 9 no 
+: 3157 13 2 time 
+: 3170 8 11 to 
+: 3179 2 9 ex
+: 3185 10 9 change
+- 3201
+: 3204 3 7 When 
+: 3211 24 11 all 
+: 3240 3 9 the 
+: 3247 3 9 lit
+: 3256 9 11 tle 
+: 3269 9 7 ants 
+: 3282 7 6 are 
+: 3295 10 4 mar
+: 3308 23 7 ching 
+- 3335
+: 3337 10 9 Red 
+: 3349 4 9 and 
+: 3356 9 9 black 
+: 3369 8 2 an
+: 3377 6 7 ten
+: 3383 6 7 nae 
+: 3405 18 6 wa
+: 3423 18 9 ving 
+- 3446
+: 3448 8 11 They 
+: 3460 8 9 all 
+: 3469 7 9 do 
+: 3482 2 9 it 
+: 3486 5 11 the 
+: 3495 57 2 same 
+- 3557
+: 3559 8 11 They 
+: 3571 9 9 all 
+: 3580 6 9 do 
+: 3591 3 9 it 
+: 3598 4 11 the 
+: 3606 38 4 same 
+: 3649 98 6 way
+- 3747
+: 3748 29 2 Yeah
+- 3777
+: 3778 7 9 Can
+: 3785 7 9 dy
+: 3792 7 9 man 
+: 3799 6 9 temp
+: 3805 5 9 ting 
+: 3813 3 6 the 
+: 3816 6 9 thoughts 
+: 3825 3 9 of 
+: 3829 3 9 a
+- 3835
+: 3837 4 9 Sweet 
+: 3844 8 9 tooth 
+: 3856 3 9 tor
+: 3862 2 9 tured 
+: 3867 1 9 by
+: 3870 2 9  the 
+: 3874 4 9 weight
+: 3881 4 9  loss
+- 3890
+: 3892 8 9 Pro
+: 3900 7 9 grams 
+: 3910 7 9 Cut
+: 3917 6 9 ting 
+: 3925 3 1 the 
+: 3929 4 9 cor
+: 3933 4 9 ners
+- 3940
+: 3942 8 9 Loose
+: 3950 7 6  end 
+: 3963 8 7 Loose
+: 3971 8 6  end 
+: 3980 8 9 Cut 
+: 3990 7 9 cut 
+- 4002
+: 4004 4 9 On 
+: 4009 3 9 the 
+: 4012 5 9 fence 
+: 4018 4 9 could 
+: 4023 5 9 not 
+: 4028 3 9 to 
+: 4033 9 9 of
+: 4042 8 9 fend
+- 4051
+: 4053 7 9 Cut 
+: 4067 13 9 cut 
+: 4088 8 9 cut 
+: 4099 7 9 cut
+- 4109
+: 4111 10 4 Take 
+: 4126 8 2 these 
+: 4138 10 2 chan
+: 4151 62 9 ces 
+- 4217
+: 4219 9 6 Place 
+: 4233 12 4 them 
+: 4252 5 11 in 
+: 4267 5 9 a 
+: 4275 10 9 box 
+: 4289 9 4 un
+: 4302 10 4 til 
+: 4316 9 9 a 
+: 4329 9 6 qui
+: 4338 8 4 e
+: 4347 6 2 ter 
+: 4358 13 6 time 
+- 4377
+: 4379 7 11 Lights 
+: 4393 14 9 down 
+: 4408 4 6 you 
+: 4416 5 11 up 
+: 4424 3 4 and 
+: 4429 12 2 die 
+- 4493
+: 6270 9 6 Lights 
+: 6285 14 4 down 
+: 6300 7 2 you 
+: 6310 2 9 up 
+: 6316 4 7 and 
+: 6323 12 7 die
+: 6339 74 9 ~
+E

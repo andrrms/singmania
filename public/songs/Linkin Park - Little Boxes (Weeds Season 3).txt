@@ -1,0 +1,155 @@
+#ARTIST:Linkin Park
+#TITLE:Little Boxes (Weeds Season 3)
+#MP3:Linkin Park - Little Boxes (Weeds Season 3).mp3
+#CREATOR:Ceptic
+#EDITION:[SC]-Songs
+#YEAR:2007
+#LANGUAGE:English
+#BPM:272.38
+#GAP:4950
+#VIDEO:a=4WHrmybJ5Ro,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e0/00/2e/e0002ebe-2b81-fef1-b8fe-73a23172a640/856968001418_Cover.jpg/5000x5000bb.jpg,bg=https://lionsgate.brightspotcdn.com/5e/d7/a6168d1945558adbd2dafa7611ea/weeds-season-3-shows-background-01.jpg,preview=4.95,medley=0-377
+: 0 3 12 Lit
+: 4 2 14 tle 
+: 8 5 9 bo
+: 16 2 5 xes 
+: 24 3 12 on 
+: 28 2 14 the 
+: 32 4 9 hill
+: 40 3 5 side 
+- 45
+: 48 3 5 Lit
+: 52 2 5 tle 
+: 56 5 17 bo
+: 64 3 17 xes 
+: 72 3 17 made 
+: 76 2 19 of 
+* 80 3 21 tic
+* 84 1 19 ky 
+* 88 4 17 tac
+* 94 1 17 ky 
+- 96
+: 96 3 17 Lit
+: 100 2 14 tle 
+: 104 4 12 bo
+: 111 3 12 xes 
+: 120 2 12 on 
+: 124 2 14 the 
+: 129 3 10 hill
+: 135 4 10 side 
+- 141
+: 144 2 10 Lit
+: 148 2 12 tle 
+: 152 5 9 bo
+: 160 2 9 xes 
+: 165 3 9 all 
+: 172 2 10 the 
+: 176 3 7 same. 
+- 181
+: 192 3 12 There’s 
+: 196 2 14 a 
+: 201 4 9 green 
+: 209 3 5 one 
+: 216 2 12 and 
+: 220 2 14 a 
+: 225 4 9 pink 
+: 233 3 5 one 
+- 238
+: 240 3 5 And 
+: 244 2 5 a 
+: 249 5 17 blue 
+: 256 4 17 one 
+: 264 3 17 and 
+: 268 2 19 a 
+: 273 3 21 yel
+: 277 2 19 low 
+* 281 4 17 one 
+- 287
+: 289 2 17 And 
+: 292 3 14 they’re 
+: 297 3 12 all 
+: 305 4 12 made 
+: 312 2 12 out 
+: 316 2 14 of 
+: 320 3 10 tic
+: 324 1 9 ky 
+: 328 3 10 tac
+: 332 1 10 ky 
+- 335
+: 336 2 10 And 
+: 340 3 12 they 
+: 346 4 9 all 
+: 352 3 9 look 
+: 361 4 9 just 
+: 366 3 7 the 
+: 372 5 5 same. 
+- 379
+: 408 2 12 And 
+: 411 2 14 the 
+: 416 6 9 peo
+: 425 2 5 ple 
+: 432 2 12 in 
+: 436 2 14 the 
+: 441 4 9 hou
+: 449 2 5 ses 
+- 453
+: 458 3 5 All 
+: 465 3 17 went 
+: 472 2 17 to 
+: 476 2 17 the 
+: 481 3 17 u
+: 485 2 19 ni
+: 488 3 21 ver
+: 493 2 19 si
+: 497 2 17 ty 
+- 501
+: 510 2 14 And 
+: 514 3 12 they 
+: 521 3 12 will 
+: 528 2 12 put 
+: 533 2 14 in 
+: 538 4 10 bo
+: 544 3 10 xes 
+- 549
+: 554 2 12 And 
+: 558 2 12 they 
+: 563 4 9 came 
+: 570 2 9 out 
+: 576 2 9 all 
+: 580 2 10 the 
+: 584 5 7 same. 
+- 591
+: 602 2 12 And 
+: 606 2 14 there’s 
+: 610 5 9 doc
+: 618 3 5 ters 
+: 626 3 12 and 
+: 633 4 9 law
+: 641 3 5 yers 
+- 646
+: 650 2 5 And 
+: 657 5 17 busi
+: 664 4 17 ness 
+: 672 4 19 e
+* 679 4 21 xe
+: 685 2 19 cu
+: 688 3 17 tives 
+- 693
+: 698 2 17 And 
+: 702 2 14 they’re 
+: 707 3 12 all 
+: 713 4 12 made 
+: 720 3 12 out 
+: 724 2 14 of 
+: 730 3 10 tic
+: 735 1 9 ky 
+: 739 2 10 tac
+: 743 1 10 ky 
+- 746
+: 747 2 10 And 
+: 751 2 12 they 
+: 755 4 9 all 
+: 763 3 9 look 
+: 775 4 9 just 
+: 784 2 7 the 
+* 792 9 5 same. 
+E

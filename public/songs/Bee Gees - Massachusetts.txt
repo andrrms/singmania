@@ -1,0 +1,174 @@
+#ARTIST:Bee Gees
+#TITLE:Massachusetts
+#MP3:Bee Gees - Massachusetts.mp3
+#CREATOR:Canni
+#EDITION:[SC]-Songs
+#YEAR:1967
+#LANGUAGE:English
+#BPM:210.6
+#GAP:9860
+#VIDEO:a=9cvKl9FqcHE,co=https://images.genius.com/d7a5e6b3139c9df7860a687e42069831.800x800x1.jpg,bg=bee-gees-4f9a7ff4dffd0.jpg
+: 0 6 2 Feel 
+: 12 2 2 I’m 
+: 16 2 4 go
+: 20 4 7 ing 
+* 28 2 9 ba
+* 32 4 9 ~ck 
+- 38
+: 46 2 4 To 
+: 50 6 7 Mas
+: 60 4 7 sa
+: 66 4 4 chu
+: 74 4 2 setts 
+- 80
+: 132 6 2 Some
+: 142 4 2 thing’s 
+: 148 2 4 tel
+: 152 4 7 ling 
+: 160 2 9 me
+: 164 4 9 ~ 
+- 170
+: 178 2 4 I 
+: 182 4 7 must 
+: 192 4 7 go 
+: 198 2 4 ho
+: 202 4 2 ~me 
+- 208
+: 246 6 11 And 
+: 254 4 12 the 
+: 264 8 14 lights 
+: 280 4 11 all 
+: 288 6 14 went 
+* 298 8 19 out 
+- 308
+: 310 2 19 In 
+: 314 8 19 Mas
+: 326 2 18 sa
+: 330 4 18 chu
+: 338 8 16 setts 
+- 348
+: 370 4 7 The 
+: 378 6 6 day 
+: 388 6 4 I 
+: 400 4 2 left 
+- 406
+: 420 4 11 Her 
+: 428 6 12 stan
+: 438 4 12 ding 
+: 446 6 11 on 
+: 456 4 9 her 
+: 464 6 7 own 
+- 472
+: 528 6 2 Try 
+: 540 2 2 to 
+: 544 4 4 hitch 
+: 550 4 7 a 
+: 558 6 9 ride 
+- 566
+: 572 2 4 To 
+: 578 6 7 San 
+: 588 4 7 Fran
+: 596 4 4 cis
+: 602 6 2 co 
+- 610
+: 660 6 2 Got
+: 670 2 2 ta 
+: 674 4 4 do 
+: 680 4 7 the 
+: 688 8 9 things 
+- 698
+: 704 2 4 I 
+: 708 8 7 wan
+: 720 2 7 na 
+: 724 4 4 do
+: 730 4 2 ~ 
+- 736
+: 774 4 11 And 
+: 782 4 12 the 
+: 790 8 14 lights 
+: 808 4 11 all 
+: 816 6 14 went 
+* 824 8 19 out 
+- 834
+: 836 2 19 In 
+: 840 4 19 Ma
+: 846 4 18 ~s
+: 852 2 18 sa
+: 856 6 18 chu
+: 866 6 16 setts 
+- 874
+: 900 4 7 They 
+: 906 6 6 brought 
+: 914 4 4 me 
+: 922 10 2 back 
+- 934
+: 950 4 11 To 
+: 956 6 12 see 
+: 964 4 12 my 
+: 972 6 11 way 
+: 984 4 9 with 
+: 992 8 7 you 
+- 1002
+: 1054 10 2 Talk 
+: 1068 2 2 a
+: 1072 4 4 bout 
+: 1078 4 7 the 
+: 1084 8 9 life 
+- 1094
+: 1100 2 4 In 
+: 1104 8 7 Mas
+: 1116 4 7 sa
+: 1122 4 4 chu
+: 1130 6 2 setts 
+- 1138
+: 1186 8 2 Speak 
+: 1200 2 2 a
+: 1204 4 4 bout 
+: 1212 2 7 the 
+: 1216 8 9 peo
+: 1232 2 4 ple 
+: 1236 6 7 I 
+: 1248 2 7 have 
+: 1252 2 4 see
+: 1256 4 2 ~n 
+- 1262
+: 1302 4 11 And 
+: 1310 4 12 the 
+: 1318 8 14 lights 
+: 1336 4 11 all 
+: 1344 4 14 went 
+* 1352 8 19 out 
+- 1362
+: 1364 4 19 In 
+* 1370 2 19 Ma
+* 1374 4 18 ~s
+: 1380 2 18 sa
+: 1384 6 18 chu
+: 1394 8 16 setts 
+- 1404
+: 1424 6 7 And 
+: 1434 6 6 Mas
+: 1442 4 4 sa
+: 1450 4 4 chu
+: 1458 6 2 setts 
+- 1466
+: 1476 4 11 Is 
+: 1484 6 12 one 
+: 1494 6 12 place 
+: 1504 8 11 I 
+: 1516 4 9 ha
+: 1522 4 7 ~ve 
+: 1536 4 9 see
+: 1542 4 7 ~n 
+- 1548
+: 1610 8 2 I 
+: 1626 4 4 will 
+: 1634 4 7 be 
+* 1642 8 9 back 
+- 1652
+: 1654 2 4 In 
+: 1658 8 7 Mas
+: 1670 2 7 sa
+: 1674 4 4 chu
+: 1682 6 2 setts 
+E

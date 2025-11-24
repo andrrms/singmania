@@ -1,0 +1,508 @@
+#ARTIST:Ninja Sex Party
+#TITLE:Mansion Party
+#MP3:Ninja Sex Party - Mansion Party.mp3
+#CREATOR:Steve459
+#COVER:Ninja Sex Party - Mansion Party [CO].jpg
+#BACKGROUND:Ninja Sex Party - Mansion Party [BG].jpg
+#GENRE:Comedy Rock
+#YEAR:2018
+#LANGUAGE:English
+#BPM:230
+#GAP:9460
+#VIDEO:v=dNoafUU4Ikw,co=https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/95/0e/02950ee6-8fbe-5df1-b62d-706104c68f11/192914326830.png/5000x5000bb.jpg
+F 0 3 7 Hey, 
+F 4 3 7 yo, 
+F 8 6 7 girl 
+- 20
+F 22 1 7 You 
+F 24 1 7 wanna 
+F 26 3 7 come 
+F 30 1 7 to 
+F 32 1 7 a 
+F 34 1 7 party 
+F 36 1 7 at 
+F 38 1 7 my 
+F 40 3 7 house 
+F 44 2 7 tonight? 
+- 56
+F 60 1 7 Every
+F 62 1 7 one 
+F 64 3 7 who’s 
+F 68 1 7 any
+F 70 1 7 one 
+F 72 1 7 in 
+F 74 3 7 L
+F 78 1 7 A 
+F 80 3 7 is 
+F 84 3 7 gonna
+F 88 1 7 be 
+F 90 4 7 there 
+- 100
+F 102 1 7 I’m 
+F 104 1 7 ex
+F 106 3 7 treme
+F 110 4 7 ly 
+F 116 4 7 rich 
+- 132
+: 136 7 11 Hey, 
+: 144 12 4 girl 
+- 162
+: 164 3 4 Wel
+: 168 3 7 come 
+: 172 1 7 to 
+: 174 5 11 my 
+: 180 3 9 house 
+: 184 3 9 par
+: 188 6 7 ty 
+- 194
+: 196 1 4 It’s 
+: 198 1 7 a 
+: 200 1 9 gi
+: 202 3 7 ant 
+: 206 3 11 man
+: 210 3 9 sion 
+: 214 3 9 ba
+: 218 4 7 by, 
+- 224
+: 226 3 4 Don’t 
+: 230 3 4 slip 
+: 234 1 7 on 
+: 236 5 11 all 
+: 242 3 9 my 
+: 246 3 9 mo
+: 250 6 7 ney 
+- 256
+: 258 3 14 Yeah, 
+: 262 3 11 there’s 
+: 266 1 7 a 
+: 268 5 9 lot 
+: 274 3 7 of 
+: 278 3 11 mo
+: 282 6 7 dels 
+- 290
+: 292 3 9 And 
+: 296 3 9 some 
+: 300 1 9 su
+: 302 1 7 per 
+: 304 3 9 mo
+: 308 1 7 dels 
+: 310 8 11 too 
+- 322
+: 324 3 9 Don’t 
+: 328 3 9 touch 
+: 332 3 7 my 
+: 336 3 9 dia
+: 340 3 7 mond 
+: 344 3 11 fridge 
+- 347
+: 348 3 7 It 
+: 352 3 9 costs 
+: 356 3 7 more 
+: 360 3 9 than 
+: 364 3 11 the 
+* 368 3 9 coun
+* 372 3 7 try 
+* 376 3 4 of 
+* 380 3 2 Pe
+* 384 10 4 ru 
+- 406
+F 410 1 7 Se
+F 412 1 7 duc
+F 414 3 7 tion 
+F 418 1 7 is 
+F 420 3 7 like 
+F 424 1 7 a 
+F 426 1 7 game 
+F 428 1 7 of 
+F 430 4 7 chess 
+- 446
+F 450 3 7 And 
+F 454 3 7 I’m 
+F 458 3 7 the 
+F 462 8 7 queen 
+- 480
+F 494 4 7 Wait 
+- 510
+: 514 5 11 Can’t 
+: 520 6 4 stop, 
+: 528 7 11 won’t 
+: 536 4 4 stop 
+: 544 7 11 dan
+: 552 4 4 cing 
+- 556
+: 558 3 9 Deep 
+: 562 5 7 in
+: 568 3 9 to 
+: 572 1 7 the 
+: 574 8 11 night 
+- 584
+: 586 3 7 It’s 
+: 590 1 7 a 
+* 592 3 11 man
+* 596 3 9 sion 
+* 600 3 9 par
+* 604 4 7 ty 
+- 612
+: 614 3 7 You 
+: 618 1 7 know 
+: 620 3 11 night
+: 624 3 9 time 
+: 628 3 7 is 
+: 632 3 4 su
+: 636 3 2 per 
+: 640 4 4 tight 
+- 644
+: 646 3 4 And 
+: 650 1 4 if 
+: 652 3 7 you’re 
+: 656 3 11 fee
+: 660 3 9 ling 
+: 664 3 9 naugh
+: 668 4 7 ty, 
+- 672
+: 674 3 7 We’ll 
+: 678 3 9 smoke 
+: 682 3 7 cham
+: 686 3 9 pagne 
+: 690 3 7 by 
+: 694 3 9 can
+: 698 3 7 del
+: 702 4 11 light 
+- 710
+: 712 3 7 It’s 
+: 716 1 7 a 
+* 718 3 11 man
+* 722 3 9 sion 
+* 726 3 9 par
+* 730 4 7 ty 
+- 738
+: 740 3 7 And 
+: 744 3 7 lat
+: 748 3 11 ter 
+: 752 3 9 on 
+: 756 3 7 some 
+: 760 3 4 pan
+: 764 3 2 da- 
+: 768 6 4 fight 
+- 778
+F 780 1 7 You’ve 
+F 782 1 7 real
+F 784 1 7 ly 
+F 786 1 7 got
+F 788 1 7 ta 
+F 790 1 7 agi
+F 792 1 7 tate 
+F 794 1 7 the 
+F 796 3 7 pan
+F 800 1 7 das 
+- 801
+F 802 1 7 To 
+F 804 1 7 get 
+F 806 1 7 them 
+F 808 3 7 en
+F 812 3 7 gaged 
+F 816 1 7 in 
+F 818 1 7 com
+F 820 4 7 bat 
+- 830
+F 832 3 7 They’re 
+F 836 3 7 very 
+F 840 3 7 do
+F 844 1 7 cile 
+F 846 3 7 by 
+F 850 1 7 na
+F 852 4 7 ture 
+- 865
+F 868 3 7 I 
+F 872 3 7 laced 
+F 876 3 7 their 
+F 880 3 7 bam
+F 884 4 7 boo 
+- 898
+: 906 7 11 Hey, 
+: 914 12 4 girl 
+- 928
+: 930 1 4 Hear, 
+: 932 1 4 you 
+: 934 3 4 could
+: 938 3 7 ~n’t 
+: 942 3 11 find 
+: 946 3 9 the 
+: 950 3 9 dance 
+: 954 6 7 floor 
+- 960
+: 962 3 4 Just 
+: 966 3 4 walk 
+: 970 1 7 right 
+: 972 5 11 past 
+: 978 1 9 the 
+: 980 3 9 gar
+: 984 4 7 den, 
+- 994
+: 996 3 4 Go 
+: 1000 3 4 through 
+: 1004 1 7 the 
+: 1006 3 11 Span
+: 1010 3 9 ish 
+: 1014 3 9 French 
+: 1018 4 7 doors, 
+- 1026
+: 1028 3 14 Turn 
+: 1032 3 11 right 
+: 1036 1 7 at 
+: 1038 1 9 the 
+: 1040 3 7 seventh 
+: 1044 3 11 bath
+: 1048 8 7 room 
+- 1056
+: 1058 1 9 Then 
+: 1060 1 9 a 
+: 1062 3 9 left 
+: 1066 1 9 at 
+: 1068 1 9 my 
+: 1070 3 9 la
+: 1074 3 7 ser 
+: 1078 10 11 car 
+- 1088
+: 1090 1 9 You 
+: 1092 1 9 can 
+: 1094 3 9 ride 
+: 1098 3 7 my 
+: 1102 3 9 pure-
+: 1106 3 7 bred 
+: 1110 3 11 stal
+: 1114 3 7 lion 
+- 1117
+: 1118 1 9 And 
+: 1120 1 9 if 
+: 1122 3 7 you 
+: 1126 3 9 hit 
+: 1130 3 11 my 
+: 1134 3 9 moat 
+: 1138 3 7 you’ve 
+: 1142 3 4 gone 
+: 1146 3 2 to 
+: 1150 10 4 far 
+- 1160
+: 1162 3 9 You’ve 
+: 1166 5 9 gone 
+: 1172 5 7 to 
+: 1178 11 11 far
+: 1190 8 9 ~ 
+- 1198
+F 1200 1 7 Take 
+F 1202 1 7 an 
+F 1204 1 7 up
+F 1206 3 7 side-
+F 1210 1 7 down 
+F 1212 3 7 left 
+F 1216 1 7 at 
+F 1218 1 7 the 
+F 1220 1 7 M
+F 1222 1 7 C
+F 1224 3 7 Esch
+F 1228 1 7 er
+F 1230 4 7 stairs 
+- 1241
+* 1244 3 11 O
+* 1248 3 14 kay 
+* 1252 3 11 you’re 
+* 1256 3 14 al
+* 1260 3 11 most 
+* 1264 3 14 half
+* 1268 7 11 way 
+* 1276 3 16 there 
+- 1279
+: 1280 5 11 Can’t 
+: 1286 4 4 stop, 
+: 1292 7 11 won’t 
+: 1300 8 4 stop 
+: 1310 7 11 dan
+: 1318 6 4 cing 
+- 1324
+: 1326 3 9 Deep 
+: 1330 3 7 in
+: 1334 3 9 to 
+: 1338 3 7 the 
+: 1342 6 11 night 
+- 1350
+: 1352 3 7 It’s 
+: 1356 1 7 a 
+* 1358 3 11 man
+* 1362 3 9 sion 
+* 1366 3 9 par
+* 1370 4 7 ty 
+- 1378
+: 1380 3 7 I 
+: 1384 3 7 bought 
+: 1388 3 11 a 
+: 1392 3 9 yacht 
+: 1396 3 7 just 
+: 1400 3 4 for 
+: 1404 3 2 to
+: 1408 2 4 night 
+- 1410
+: 1412 3 4 And 
+: 1416 1 4 if 
+: 1418 3 7 you’re 
+: 1422 3 11 fee
+: 1426 3 9 ling 
+: 1430 3 9 naugh
+: 1434 4 7 ty, 
+- 1440
+: 1442 3 7 We’ll 
+: 1446 3 9 smoke 
+: 1450 3 11 cham
+: 1454 3 9 pagne 
+: 1458 3 7 by 
+: 1462 3 9 can
+: 1466 3 7 del
+: 1470 4 11 light 
+- 1476
+: 1478 3 7 It’s 
+: 1482 3 9 a 
+* 1486 3 11 man
+* 1490 3 9 sion 
+* 1494 5 9 par
+* 1500 4 7 ty 
+- 1508
+: 1510 3 7 Now 
+: 1514 3 11 let’s 
+: 1518 3 9 watch 
+: 1522 5 7 two 
+: 1528 3 4 pan
+: 1532 3 2 das 
+: 1536 6 4 fight 
+- 1557
+: 1582 7 7 Uhh
+: 1590 7 9 ~
+: 1598 14 11 ~ 
+- 1627
+: 1646 7 7 Uhh
+: 1654 7 9 ~
+: 1662 14 11 ~ 
+- 1691
+* 1712 3 7 Uhh
+* 1716 11 9 ~
+* 1728 13 11 ~
+* 1742 49 14 uhh
+* 1792 5 16 ~ 
+- 1797
+F 1798 1 7 Oh 
+F 1800 1 7 my 
+F 1802 2 7 god! 
+- 1811
+F 1814 1 7 The 
+F 1816 1 7 bat
+F 1818 1 7 tle 
+F 1820 1 7 pan
+F 1822 1 7 das 
+F 1824 1 7 have
+F 1826 1 7 es
+F 1828 1 7 caped 
+F 1830 1 7 from 
+F 1832 1 7 the 
+F 1834 1 7 pan
+F 1836 1 7 da
+F 1838 1 7 gon 
+- 1839
+F 1840 1 7 And 
+F 1842 1 7 they’re 
+F 1844 1 7 mur
+F 1846 1 7 der
+F 1848 1 7 ring 
+F 1850 1 7 the 
+F 1852 4 7 guests 
+- 1862
+F 1864 3 7 Ahh, 
+F 1868 1 7 it’s 
+F 1870 3 7 last 
+F 1874 3 7 week 
+F 1878 1 7 all 
+F 1880 1 7 o
+F 1882 1 7 ver 
+F 1884 1 7 a
+F 1886 2 7 gain 
+- 1892
+F 1894 1 7 Let’s 
+F 1896 1 7 get 
+F 1898 1 7 the 
+F 1900 1 7 hell 
+F 1902 1 7 out
+F 1904 1 7 ta 
+F 1906 4 7 here 
+- 1917
+: 1920 5 11 Can’t 
+: 1926 6 4 stop, 
+: 1934 7 11 won’t 
+: 1942 8 4 stop 
+: 1952 7 11 non
+: 1960 4 4 stop 
+- 1964
+: 1966 3 9 Run
+: 1970 3 7 ning 
+: 1974 3 9 for 
+: 1978 1 7 my 
+: 1980 6 11 life 
+- 1988
+: 1990 3 7 It’s 
+: 1994 3 9 a 
+* 1998 3 11 man
+* 2002 3 9 sion 
+* 2006 3 9 par
+* 2010 6 7 ty 
+- 2018
+: 2020 3 7 I 
+: 2024 1 7 pray 
+: 2026 3 11 to 
+: 2030 3 9 God 
+: 2034 3 7 we 
+: 2038 3 4 all 
+: 2042 3 2 sur
+: 2046 2 4 vive 
+- 2048
+: 2050 3 4 And 
+: 2054 3 4 if 
+: 2058 3 7 you’re 
+: 2062 3 11 fee
+: 2066 3 9 ling 
+: 2070 3 9 sau
+: 2074 4 7 cy, 
+- 2082
+: 2084 3 7 We’ll 
+: 2088 3 9 grab 
+: 2092 3 11 some 
+: 2096 3 9 spears 
+: 2100 3 7 by 
+: 2104 3 9 can
+: 2108 3 7 del
+: 2112 4 11 light 
+- 2116
+: 2118 3 7 It’s 
+: 2122 3 9 a 
+: 2126 3 11 man
+: 2130 3 9 sion 
+: 2134 5 9 par
+: 2140 4 7 ty 
+- 2144
+: 2146 3 7 We’re 
+: 2150 3 9 drop
+: 2154 3 11 ping 
+: 2158 3 9 pan
+: 2162 3 7 das 
+: 2166 3 4 left 
+: 2170 3 2 and 
+: 2174 4 4 right 
+- 2180
+F 2182 3 7 Save 
+F 2186 3 7 your
+F 2190 4 7 self! 
+- 2204
+F 2208 6 7 God, 
+F 2216 1 7 this 
+F 2218 1 7 par
+F 2220 1 7 ty 
+F 2222 1 7 is 
+F 2224 1 7 awe
+F 2226 4 7 some 
+E

@@ -1,0 +1,304 @@
+#ARTIST:Waylon
+#TITLE:Crème de la crème
+#MP3:Waylon - Crème de la crème.mp3
+#CREATOR:Leroidukitch
+#GENRE:Disco
+#YEAR:1979
+#LANGUAGE:English
+#BPM:261.95
+#GAP:6460
+#VIDEO:a=LbE6-GOQJ1c,co=https://i.discogs.com/2ehnMUBTs-fnIFsKqInwYJ3QvhYqek82hJw6AGws05I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTU1/OC0xNDc1NTEyMDI2/LTkyMzMuanBlZw.jpeg
+F 0 1 0 Ha 
+- 3
+: 118 6 6 She 
+: 126 6 6 lives 
+: 135 6 5 all 
+: 143 7 6 alone 
+- 152
+: 167 3 5 With 
+: 171 1 5 her 
+* 178 17 6 daugh
+: 199 5 5 ter 
+- 206
+: 254 4 7 Drinks 
+: 268 3 5 gin 
+: 273 3 5 and 
+: 277 8 5 wine 
+- 287
+: 307 1 3 Just 
+: 312 1 3 like 
+: 328 19 3 water 
+- 349
+: 385 4 8 Makes 
+: 393 4 8 my 
+: 401 4 8 head 
+: 408 14 12 turn 
+- 424
+: 438 2 8 I’ll 
+: 446 3 7 get 
+: 453 14 -3 crazy 
+- 469
+: 512 3 9 Name 
+: 521 3 5 is 
+: 529 3 9 Mary 
+- 534
+: 546 2 -1 I 
+: 551 2 -2 call 
+: 556 3 -2 her 
+: 573 10 -4 baby 
+- 585
+: 623 2 -5 She’s 
+: 632 3 4 the 
+: 641 5 4 crème 
+: 649 3 4 de 
+* 653 2 4 la 
+: 656 6 4 crème 
+- 664
+: 679 5 7 Ho, 
+: 687 2 7 maman
+: 690 2 4 ~ 
+- 694
+: 701 3 5 La 
+: 707 5 5 crème 
+: 714 2 5 de 
+: 717 2 5 la 
+: 721 7 0 crème 
+- 730
+: 772 1 5 Crème 
+: 778 1 5 de 
+: 782 1 5 la 
+: 786 1 5 crème 
+- 789
+: 806 3 7 La 
+: 813 3 7 La 
+: 822 3 7 La 
+- 827
+: 832 5 5 Crème 
+: 838 2 5 de 
+: 842 2 5 la 
+* 846 5 5 crème 
+- 853
+F 884 1 0 Ha 
+F 888 1 0 Ha 
+F 891 1 0 Hou 
+- 894
+: 1148 2 7 I 
+: 1152 2 6 wish 
+: 1160 2 4 she 
+: 1164 4 4 were 
+: 1169 5 4 here 
+- 1176
+F 1188 2 0 Hot 
+F 1194 2 0 Hot 
+F 1201 2 0 Hot 
+F 1209 2 0 Hot 
+F 1215 2 0 Hot 
+- 1219
+: 1234 8 5 Blood 
+- 1244
+F 1252 2 0 (Hot 
+F 1259 2 0 Hot 
+F 1265 1 0 Hot 
+F 1273 2 0 ) 
+- 1277
+: 1281 5 5 Panties 
+: 1287 5 5 in 
+: 1293 6 5 black 
+: 1320 4 5 in 
+: 1325 5 5 my 
+: 1331 6 5 baby 
+: 1342 5 5 cart 
+- 1349
+: 1405 5 0 She 
+: 1413 5 -2 makes 
+: 1425 5 -3 me 
+: 1433 5 -2 sing 
+- 1440
+* 1456 5 6 Do 
+: 1466 6 9 ré 
+: 1481 40 -1 mi 
+- 1523
+: 1534 2 0 I 
+: 1542 3 -2 lose 
+: 1548 2 0 my 
+: 1557 3 -2 mind 
+- 1562
+: 1588 2 -2 Don’t 
+: 1591 2 -5 you 
+: 1605 13 -1 feel 
+- 1620
+: 1646 3 0 She’s 
+: 1654 2 5 the 
+: 1663 7 5 crème 
+: 1672 2 5 de 
+: 1675 3 5 la 
+: 1681 5 5 crème 
+- 1688
+: 1700 3 5 Ho, 
+: 1708 3 5 maman 
+- 1713
+: 1721 3 5 La 
+: 1728 6 5 crème 
+: 1735 2 5 de 
+: 1739 2 5 la 
+: 1743 5 5 crème 
+- 1750
+F 1758 1 5 (Crème 
+F 1766 2 5 de 
+F 1771 1 5 la 
+F 1776 2 5 crème) 
+- 1780
+: 1791 5 5 Crème 
+: 1799 2 5 de 
+: 1803 3 5 la 
+: 1808 7 5 crème 
+- 1817
+: 1828 3 5 La 
+: 1833 3 5 ! 
+: 1837 2 5 La 
+: 1842 3 5 ! 
+: 1848 3 8 La 
+: 1854 3 8 ! 
+- 1859
+: 1862 3 5 La 
+: 1866 5 5 crème 
+: 1872 2 5 de 
+: 1875 2 8 la 
+: 1878 5 8 crème 
+- 1885
+F 1890 1 0 (Crème 
+F 1897 1 0 de 
+F 1902 2 0 la 
+F 1907 2 0 crème) 
+- 1911
+: 1921 4 -3 Crème 
+: 1934 3 6 de 
+: 1938 4 -3 la 
+: 1943 4 -3 crème 
+- 1949
+: 2048 4 -2 Crème 
+: 2060 4 7 de 
+: 2066 4 -4 la 
+: 2072 4 -2 crème 
+- 2078
+F 2179 1 0 Ha 
+F 2185 1 0 Hou 
+- 2188
+: 2308 2 -5 I 
+: 2315 2 4 am 
+: 2321 2 4 a 
+: 2325 6 4 luck 
+- 2333
+F 2344 1 0 Luck 
+F 2350 1 0 Luck 
+F 2363 1 0 Luck 
+F 2370 1 0 Luck 
+F 2382 2 0 Luck 
+F 2388 1 0 Luck 
+- 2391
+F 2394 1 0 (Luck 
+F 2404 2 0 Luck 
+F 2417 2 0 ) 
+- 2421
+: 2437 4 -6 Bring 
+: 2442 4 -9 me 
+: 2447 5 -9 the 
+: 2453 8 -9 stuff 
+- 2463
+F 2464 1 0 Stuff 
+F 2478 2 0 stuff 
+F 2488 1 0 stuff 
+F 2494 2 0 stuff 
+F 2503 2 0 stuff 
+F 2510 1 0 stuff 
+F 2517 2 0 stuff 
+- 2521
+F 2524 1 0 (Stuff 
+F 2534 1 0 Stuff) 
+- 2537
+: 2562 7 6 Please 
+: 2576 5 14 touch 
+: 2583 4 6 my 
+: 2592 12 6 striiings 
+- 2606
+: 2623 3 -5 Just 
+: 2636 21 -3 fling 
+- 2659
+F 2693 2 0 Get 
+F 2702 1 0 me 
+F 2709 1 0 your 
+F 2713 1 0 wings, 
+F 2724 2 0 your 
+F 2729 1 0 wings 
+- 2732
+F 2736 37 0 Wi-wi-wi-wings 
+- 2775
+: 2819 4 4 Crème 
+: 2826 3 4 de 
+: 2830 3 4 la 
+: 2834 4 4 crème 
+- 2840
+: 2855 4 4 Ho, 
+: 2865 4 4 maman 
+- 2871
+: 2876 3 4 La 
+: 2881 3 4 crème 
+: 2885 3 4 de 
+: 2889 3 4 la 
+: 2894 3 4 crème 
+- 2899
+F 2914 1 0 (Crème 
+F 2922 1 0 de 
+F 2926 2 0 la 
+F 2931 1 0 crème) 
+- 2934
+: 2948 3 4 Crème 
+: 2954 4 4 de 
+: 2959 3 4 la 
+: 2963 5 4 crème 
+- 2970
+: 2984 1 -3 La 
+: 2991 2 -3 La 
+: 2997 2 -3 La 
+: 3004 2 4 La 
+: 3012 4 4 crème 
+: 3019 3 4 de 
+: 3023 3 4 la 
+: 3028 3 4 crème 
+- 3033
+F 3043 1 0 (Crème 
+F 3050 1 0 de 
+F 3054 1 0 la 
+F 3058 2 0 crème 
+F 3070 1 0 de 
+F 3075 1 0 la 
+F 3079 1 0 crème) 
+- 3082
+: 3088 40 -2 Crèème 
+- 3130
+: 3204 52 0 Crème 
+- 3258
+: 3334 4 4 Crème 
+: 3340 3 4 de 
+: 3344 3 4 la 
+: 3348 3 4 crème 
+- 3353
+: 3396 4 4 Crème 
+: 3401 3 4 de 
+: 3405 3 4 la 
+: 3410 4 4 crème 
+- 3416
+* 3462 28 -2 Crème 
+- 3492
+: 3522 51 -2 Crème 
+- 3575
+: 3588 4 3 Crème 
+: 3594 3 3 de 
+: 3598 3 3 la 
+: 3602 4 3 crème 
+- 3608
+: 3653 4 4 Crème 
+: 3659 3 4 de 
+: 3663 3 4 la 
+: 3667 4 4 crème … 
+E

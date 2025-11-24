@@ -1,0 +1,299 @@
+#ARTIST:Les Misérables
+#TITLE:Castle On A Cloud [DUET]
+#MP3:Les Misérables - Castle On A Cloud [DUET].mp3
+#CREATOR:singingSquirrel
+#EDITION:[DUET]-Songs
+#GENRE:Musical
+#YEAR:1987
+#LANGUAGE:English
+#BPM:240
+#GAP:11340
+#VIDEO:a=e-fmpY3lUhc,co=https://www.bestoftheatre.co.uk/assets/images/content/shows/square-poster/original/les-miserables-10.jpg,p1=P1,p2=P2
+P1
+: 0 6 21 There 
+: 9 2 23 is 
+: 12 2 24 a 
+: 16 6 23 cas
+: 27 4 21 tle 
+: 35 5 21 on 
+: 43 5 20 a 
+: 52 14 21 cloud 
+- 76
+: 84 6 21 I 
+: 93 3 23 like 
+: 98 2 24 to 
+: 102 4 23 go 
+: 109 6 21 there 
+: 118 6 19 in 
+: 127 5 17 my 
+: 138 12 16 sleep 
+- 160
+: 170 7 14 Aren’t 
+: 179 3 16 a
+: 183 2 17 ny 
+: 187 5 16 floors 
+: 197 5 21 for 
+: 205 5 23 me 
+: 214 3 24 to 
+: 224 16 21 sweep 
+- 250
+: 254 8 14 Not 
+: 266 2 16 in 
+: 269 3 17 my 
+: 275 5 16 cas
+: 283 7 14 tle 
+: 293 5 12 on 
+: 301 4 11 a 
+: 309 17 9 cloud 
+- 338
+: 342 8 21 There 
+: 353 3 23 is 
+: 357 3 24 a 
+: 363 4 23 room 
+: 369 7 21 that’s 
+: 381 4 21 full 
+: 387 5 20 of 
+: 397 17 21 toys 
+- 426
+: 430 8 21 There 
+: 439 3 23 are 
+: 443 3 24 a 
+: 449 6 23 hun
+: 458 5 21 dred 
+: 467 4 19 boys 
+: 475 7 17 and 
+: 485 14 16 girls 
+- 509
+: 516 10 14 No
+: 527 3 16 bo
+: 531 2 17 dy 
+: 535 7 16 shouts 
+: 545 5 21 or 
+: 552 6 23 talks 
+* 562 3 24 too 
+: 572 16 21 loud 
+- 598
+: 605 6 14 Not 
+: 614 2 16 in 
+: 617 3 17 my 
+: 623 5 16 cas
+: 632 6 14 tle 
+: 640 5 12 on 
+: 648 5 11 a 
+: 656 10 9 cloud 
+- 676
+: 693 7 17 There 
+: 702 3 16 is 
+: 706 3 14 a 
+: 711 10 12 la
+: 724 2 14 dy 
+: 729 8 16 all 
+: 740 3 17 in 
+: 746 9 16 white 
+- 762
+: 765 5 21 Holds 
+: 772 4 19 me 
+: 777 3 17 and 
+: 784 7 16 sings 
+: 794 3 17 a 
+: 799 10 19 lul
+: 810 4 21 la
+: 817 6 19 by 
+- 828
+: 830 2 19 She’s 
+: 835 8 22 nice 
+: 846 2 21 to 
+: 853 4 19 see 
+: 860 3 17 and 
+: 865 2 19 she’s 
+: 872 6 21 soft 
+: 883 2 17 to 
+* 888 4 12 touch 
+- 898
+: 901 3 14 She 
+: 908 7 16 says 
+: 923 2 17 “Co
+: 927 4 16 sette, 
+: 944 3 17 I 
+: 948 5 16 love 
+: 956 3 17 you 
+: 961 5 16 ve
+: 968 5 17 ry 
+: 977 10 16 much” 
+- 997
+: 1012 7 21 I 
+: 1022 4 23 know 
+: 1027 3 24 a 
+: 1032 6 23 place 
+: 1042 6 21 where 
+: 1050 7 21 no 
+: 1059 5 20 one’s 
+: 1069 14 21 lost 
+- 1093
+: 1102 7 21 I 
+: 1111 3 23 know 
+: 1115 3 24 a 
+: 1119 3 23 place 
+: 1128 6 21 where 
+: 1136 6 19 no 
+: 1146 5 17 one 
+: 1158 15 16 cries 
+- 1184
+: 1188 7 14 Cry
+: 1197 3 16 ing 
+: 1201 4 17 at 
+: 1206 6 16 all 
+: 1216 5 21 is 
+: 1223 8 23 not 
+* 1233 6 24 al
+: 1242 16 21 lowed 
+- 1268
+: 1277 8 14 Not 
+: 1287 3 16 in 
+: 1291 3 17 my 
+: 1297 5 16 cas
+: 1307 7 14 tle 
+: 1317 9 12 on 
+: 1329 11 11 a 
+* 1348 26 9 cloud 
+P2
+: 0 6 40 There 
+: 9 2 40 is 
+: 12 2 40 a 
+: 16 6 44 cas
+: 27 4 41 tle 
+: 35 5 41 on 
+: 43 5 40 a 
+: 52 14 40 cloud 
+- 76
+: 84 6 40 I 
+: 93 3 40 like 
+: 98 2 40 to 
+: 102 4 44 go 
+: 109 6 41 there 
+: 118 6 41 in 
+: 127 5 40 my 
+: 138 12 40 sleep 
+- 160
+: 170 7 38 Aren’t 
+: 179 3 40 a
+: 183 2 38 ny 
+: 187 5 40 floors 
+: 197 5 40 for 
+: 205 5 44 me 
+: 214 3 44 to 
+: 224 16 45 sweep 
+- 250
+: 254 8 38 Not 
+: 266 2 40 in 
+: 269 3 41 my 
+: 275 5 40 cas
+: 283 7 38 tle 
+: 293 5 40 on 
+: 301 4 38 a 
+: 309 17 40 cloud 
+- 338
+: 342 8 40 There 
+: 353 3 40 is 
+: 357 3 40 a 
+: 363 4 44 room 
+: 369 7 41 that’s 
+: 381 4 41 full 
+: 387 5 40 of 
+: 397 17 40 toys 
+- 426
+: 430 8 40 There 
+: 439 3 40 are 
+: 443 3 40 a 
+: 449 6 43 hun
+: 458 5 43 dred 
+: 467 4 43 boys 
+: 475 7 41 and 
+: 485 14 40 girls 
+- 509
+: 516 10 38 No
+: 527 3 40 bo
+: 531 2 38 dy 
+: 535 7 40 shouts 
+: 545 5 40 or 
+: 552 6 44 talks 
+* 562 3 44 too 
+: 572 16 45 loud 
+- 598
+: 605 6 38 Not 
+: 614 2 40 in 
+: 617 3 41 my 
+: 623 5 40 cas
+: 632 6 38 tle 
+: 640 5 40 on 
+: 648 5 38 a 
+: 656 10 40 cloud 
+- 676
+: 693 7 41 There 
+: 702 3 40 is 
+: 706 3 38 a 
+: 711 10 36 la
+: 724 2 38 dy 
+: 729 8 40 all 
+: 740 3 41 in 
+: 746 9 40 white 
+- 762
+: 765 5 41 Holds 
+: 772 4 40 me 
+: 777 3 38 and 
+: 784 7 36 sings 
+: 794 3 38 a 
+: 799 10 40 lul
+: 810 4 41 la
+: 817 6 40 by 
+- 832
+: 835 32 38 Ah 
+: 872 20 36 ah 
+- 898
+: 901 3 36 She 
+: 908 7 35 says 
+: 923 2 36 “Co
+: 927 4 35 sette, 
+: 944 3 36 I 
+: 948 5 35 love 
+: 956 3 36 you 
+: 961 5 35 ve
+: 968 5 36 ry 
+: 977 10 35 much” 
+- 997
+: 1012 7 40 I 
+: 1022 4 40 know 
+: 1027 3 40 a 
+: 1032 6 44 place 
+: 1042 6 41 where 
+: 1050 7 41 no 
+: 1059 5 40 one’s 
+: 1069 14 40 lost 
+- 1093
+: 1102 7 40 I 
+: 1111 3 40 know 
+: 1115 3 40 a 
+: 1119 3 43 place 
+: 1128 6 43 where 
+: 1136 6 43 no 
+: 1146 5 41 one 
+: 1158 15 40 cries 
+- 1184
+: 1188 7 38 Cry
+: 1197 3 40 ing 
+: 1201 4 38 at 
+: 1206 6 40 all 
+: 1216 5 40 is 
+: 1223 8 44 not 
+* 1233 6 44 al
+: 1242 16 45 lowed 
+- 1268
+: 1277 8 38 Not 
+: 1287 3 40 in 
+: 1291 3 41 my 
+: 1297 5 40 cas
+: 1307 7 38 tle 
+: 1317 9 36 on 
+: 1329 11 35 a 
+* 1348 26 36 cloud 
+E

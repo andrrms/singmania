@@ -1,0 +1,491 @@
+#ARTIST:Blazon Stone
+#TITLE:Bloody Inquisition
+#MP3:Blazon Stone - Bloody Inquisition.mp3
+#CREATOR:BlodsveptKrigare
+#COVER:Blazon Stone - Bloody Inquisition [CO].jpg
+#BACKGROUND:Blazon Stone - Bloody Inquisition [BG].jpg
+#GENRE:Metal
+#YEAR:2017
+#LANGUAGE:English
+#BPM:322.49
+#GAP:35780
+#VIDEO:a=U721MFMAosk,co=down-in-the-dark-5ce7a2e9b943d.jpg
+: 0 2 7 Sa
+: 4 4 7 va
+: 10 4 7 ges 
+: 16 2 11 of 
+: 20 2 9 the 
+: 24 4 7 great 
+: 30 2 6 new 
+: 34 4 2 world 
+- 45
+: 48 4 7 Beast 
+: 54 4 7 in 
+: 60 2 11 form 
+: 64 2 9 of 
+: 68 2 7 a 
+: 72 6 9 man 
+- 88
+: 96 4 7 Tame 
+: 102 4 7 the 
+: 108 2 7 bas
+: 112 2 11 tards 
+: 116 2 9 and 
+: 120 4 7 bring 
+: 126 2 6 them 
+: 130 4 2 down 
+- 141
+: 144 4 7 To 
+: 150 4 7 their 
+: 156 2 11 knuck
+: 160 2 9 les 
+: 164 2 7 and 
+: 168 8 4 knees 
+- 188
+: 192 4 7 Tell 
+: 198 4 7 them 
+: 204 2 7 all 
+: 208 2 11 of 
+: 212 2 9 the 
+: 216 4 7 ho
+: 222 2 6 ly 
+: 226 4 2 truth 
+- 237
+: 240 4 7 Words 
+: 246 4 7 of 
+: 252 2 11 fa
+: 256 2 9 ther 
+: 260 2 7 be
+: 264 6 9 fore 
+- 280
+: 288 4 7 If 
+: 294 4 7 sub
+: 300 2 7 mis
+: 304 2 11 sion 
+: 308 2 9 will 
+: 312 4 7 fail 
+: 318 2 6 to 
+: 322 4 2 come 
+- 333
+: 336 4 7 Bring 
+: 342 4 7 them 
+: 348 2 11 bloo
+: 352 2 9 ~
+: 356 2 7 dy 
+: 360 8 9 war 
+- 378
+: 396 8 7 Fa
+: 408 8 6 ther 
+: 420 8 2 of 
+: 432 8 0 all 
+: 444 8 7 that’s 
+: 456 8 6 ho
+: 468 8 2 ly 
+- 478
+F 480 8 9 Guide 
+F 492 12 11 us 
+F 516 8 11 to 
+F 528 8 6 hea
+F 540 8 7 vens 
+F 552 12 7 gates! 
+- 574
+: 588 8 7 Jus
+: 600 8 6 tice 
+: 612 8 2 will 
+: 624 8 0 serve 
+: 636 8 7 the 
+: 648 8 6 faith
+: 660 8 2 ful 
+: 672 8 2 sol
+: 684 8 4 diers 
+- 704
+F 708 8 11 Of 
+F 720 12 9 god! 
+- 736
+: 738 4 7 Al
+: 744 4 6 migh
+: 750 4 7 ty 
+: 756 6 9 one! 
+- 766
+: 768 4 4 Bloo
+: 774 4 2 dy 
+: 780 4 4 in
+: 786 4 7 qui
+: 792 4 4 si
+: 798 4 2 tion, 
+: 810 4 9 by 
+: 816 4 7 mus
+: 822 4 4 ket, 
+: 834 4 7 by 
+: 840 4 4 an
+: 846 4 -1 cient 
+: 852 4 2 lies 
+- 862
+: 864 4 4 Free
+: 870 4 2 dom 
+: 876 4 4 goes 
+: 882 4 7 to 
+: 888 4 4 hell 
+: 894 4 2 when 
+: 906 4 9 they’re 
+: 912 4 7 twis
+: 918 4 4 ting 
+: 930 4 7 the 
+: 936 6 9 minds 
+- 952
+: 960 4 4 Bloo
+: 966 4 2 dy 
+: 972 4 4 in
+: 978 4 7 qui
+: 984 4 4 si
+: 990 4 2 tion, 
+: 1002 4 9 by 
+: 1008 4 7 gods 
+: 1014 4 4 will, 
+: 1026 4 7 by 
+: 1032 4 4 de
+: 1038 4 -1 vils 
+: 1044 4 2 ways 
+- 1054
+: 1056 4 4 Ru
+: 1062 4 2 ins, 
+: 1068 4 4 death 
+: 1074 4 7 and 
+: 1080 4 4 so
+: 1086 4 2 rrow, 
+: 1098 4 9 will 
+: 1104 4 7 fo
+: 1110 4 4 llow 
+: 1122 4 0 in 
+: 1128 12 -1 pain 
+- 1182
+: 1344 2 7 La
+: 1348 4 7 shing 
+: 1354 4 7 backs 
+: 1360 2 11 like 
+: 1364 2 9 a 
+: 1368 2 7 game 
+: 1372 2 6 of 
+: 1376 4 2 joy 
+- 1389
+: 1392 4 7 Keep 
+: 1398 4 7 them 
+: 1404 2 11 down 
+: 1408 2 9 in 
+: 1412 2 7 the 
+: 1416 6 9 dirt 
+- 1431
+: 1434 4 6 Un
+: 1440 4 7 til 
+: 1446 4 7 ac
+: 1452 2 7 cep
+: 1456 2 11 tance 
+: 1460 2 9 of 
+: 1464 3 7 one 
+: 1469 2 6 true 
+: 1473 4 2 god 
+- 1482
+: 1484 2 6 Re
+: 1488 4 7 pent 
+: 1494 4 7 the 
+: 1500 2 11 sins 
+: 1504 2 9 of 
+: 1508 2 7 the 
+: 1512 8 2 past 
+- 1530
+: 1548 8 7 Fa
+: 1560 8 6 ther 
+: 1572 8 2 of 
+: 1584 8 0 all 
+: 1596 8 7 that’s 
+: 1608 4 9 ho
+: 1614 4 6 ~
+: 1620 8 6 ly 
+- 1630
+F 1632 8 9 Guide 
+F 1644 12 11 us 
+F 1668 8 11 to 
+F 1680 8 6 hea
+F 1692 8 7 vens 
+F 1704 12 7 gates! 
+- 1726
+: 1740 8 7 Jus
+: 1752 8 6 tice 
+: 1764 8 2 will 
+: 1776 8 0 serve 
+: 1788 8 7 the 
+: 1800 8 6 faith
+: 1812 8 2 ful 
+: 1824 8 2 sol
+: 1836 8 4 diers 
+- 1856
+F 1860 8 11 Of 
+F 1872 12 9 god! 
+- 1888
+: 1890 4 7 Al
+: 1896 4 6 migh
+: 1902 4 7 ty 
+: 1908 6 9 one! 
+- 1918
+: 1920 4 4 Bloo
+: 1926 4 2 dy 
+: 1932 4 4 in
+: 1938 4 7 qui
+: 1944 4 4 si
+: 1950 4 2 tion, 
+: 1962 4 9 by 
+: 1968 4 7 mus
+: 1974 4 4 ket, 
+: 1986 4 7 by 
+: 1992 4 4 an
+: 1998 4 -1 cient 
+: 2004 4 2 lies 
+- 2014
+: 2016 4 4 Free
+: 2022 4 2 dom 
+: 2028 4 4 goes 
+: 2034 4 7 to 
+: 2040 4 4 hell 
+: 2046 4 2 when 
+: 2058 4 9 they’re 
+: 2064 4 7 twis
+: 2070 4 4 ting 
+: 2082 4 7 the 
+: 2088 6 9 minds 
+- 2104
+: 2112 4 4 Bloo
+: 2118 4 2 dy 
+: 2124 4 4 in
+: 2130 4 7 qui
+: 2136 4 4 si
+: 2142 4 2 tion, 
+: 2154 4 9 by 
+: 2160 4 7 gods 
+: 2166 4 4 will, 
+: 2178 4 7 by 
+: 2184 4 4 de
+: 2190 4 -1 vils 
+: 2196 4 2 ways 
+- 2206
+: 2208 4 4 Ru
+: 2214 4 2 ins, 
+: 2220 4 4 death 
+: 2226 4 7 and 
+: 2232 4 4 so
+: 2238 4 2 rrow, 
+: 2250 4 9 will 
+: 2256 4 7 fo
+: 2262 4 4 llow 
+: 2274 4 0 in 
+: 2280 12 -1 pain 
+- 2301
+: 2304 8 9 Your 
+: 2316 4 9 gods 
+: 2322 4 7 are 
+: 2328 4 4 false 
+: 2334 4 2 and 
+: 2340 6 4 lies 
+- 2350
+: 2352 8 7 Turn 
+: 2364 4 4 from 
+: 2370 4 2 the 
+: 2376 4 0 path 
+: 2382 4 2 to 
+: 2388 6 4 hell 
+- 2398
+: 2400 8 9 Come 
+: 2412 4 9 to 
+: 2418 4 7 the 
+: 2424 4 4 ho
+: 2430 4 2 ly 
+: 2436 3 4 light 
+- 2440
+: 2442 4 4 And 
+: 2448 8 7 you 
+: 2460 4 4 shall 
+: 2466 4 2 not 
+: 2472 4 0 fear 
+: 2478 4 2 the 
+: 2484 4 4 dark 
+- 2530
+: 2688 8 9 Your 
+: 2700 4 9 gods 
+: 2706 4 7 are 
+: 2712 4 4 false 
+: 2718 4 2 and 
+: 2724 6 4 lies 
+- 2734
+: 2736 8 7 Turn 
+: 2748 4 4 from 
+: 2754 4 2 the 
+: 2760 4 0 path 
+: 2766 4 2 to 
+: 2772 6 4 hell 
+- 2782
+: 2784 8 9 Come 
+: 2796 4 9 to 
+: 2802 4 7 the 
+: 2808 4 4 ho
+: 2814 4 2 ly 
+: 2820 3 4 light 
+- 2824
+: 2826 4 4 And 
+: 2832 8 7 you 
+: 2844 4 4 shall 
+: 2850 4 2 not 
+: 2856 4 0 fear 
+: 2862 4 2 the 
+: 2868 10 4 dark
+: 2880 20 9 ~ 
+- 2942
+: 3648 2 7 Sa
+: 3652 4 7 va
+: 3658 4 7 ges 
+: 3664 2 11 of 
+: 3668 2 9 the 
+: 3672 4 7 great 
+: 3678 2 6 new 
+: 3682 4 2 world 
+- 3693
+: 3696 4 7 Beast 
+: 3702 4 7 in 
+: 3708 2 11 form 
+: 3712 2 9 of 
+: 3716 2 7 a 
+: 3720 6 9 man 
+- 3736
+: 3744 4 7 Tame 
+: 3750 2 7 the 
+: 3754 4 7 bas
+: 3760 2 11 tards 
+: 3764 2 9 and 
+: 3768 4 7 bring 
+: 3774 2 6 them 
+: 3778 4 2 down 
+- 3789
+: 3792 4 7 To 
+: 3798 4 7 their 
+: 3804 2 11 knuck
+: 3808 2 9 les 
+: 3812 2 7 and 
+: 3816 8 4 knees 
+- 3836
+: 3840 4 7 Tell 
+: 3846 4 7 them 
+: 3852 2 7 all 
+: 3856 2 11 of 
+: 3860 2 9 the 
+: 3864 4 7 ho
+: 3870 2 6 ly 
+: 3874 4 2 truth 
+- 3885
+: 3888 4 7 Words 
+: 3894 4 7 of 
+: 3900 2 11 fa
+: 3904 2 9 ther 
+: 3908 2 7 be
+: 3912 6 9 fore 
+- 3928
+: 3936 4 7 If 
+: 3942 4 7 sub
+: 3948 2 7 mis
+: 3952 2 11 sion 
+: 3956 2 9 will 
+: 3960 4 7 fail 
+: 3966 2 6 to 
+: 3970 4 2 come 
+- 3981
+: 3984 4 7 Bring 
+: 3990 4 7 them 
+: 3996 2 11 bloo
+: 4000 2 9 ~
+: 4004 2 7 dy 
+: 4008 8 14 war 
+- 4026
+: 4044 8 7 Fa
+: 4056 8 6 ther 
+: 4068 8 2 of 
+: 4080 8 0 all 
+: 4092 8 7 that’s 
+: 4104 8 6 ho
+: 4116 8 2 ly 
+- 4126
+F 4128 8 9 Guide 
+F 4140 12 11 us 
+F 4164 8 11 to 
+F 4176 8 6 hea
+F 4188 8 7 vens 
+F 4200 12 7 gates! 
+- 4222
+: 4236 8 7 Jus
+: 4248 8 6 tice 
+: 4260 8 2 will 
+: 4272 8 0 serve 
+: 4284 8 7 the 
+: 4296 8 6 faith
+: 4308 8 2 ful 
+: 4320 8 2 sol
+: 4332 8 4 diers 
+- 4352
+F 4356 8 11 Of 
+F 4368 12 9 god! 
+- 4383
+: 4385 4 7 Al
+: 4391 4 6 migh
+: 4397 4 7 ty 
+: 4403 6 9 one! 
+- 4414
+: 4416 4 4 Bloo
+: 4422 4 2 dy 
+: 4428 4 4 in
+: 4434 4 7 qui
+: 4440 4 4 si
+: 4446 4 2 tion, 
+: 4458 4 9 by 
+: 4464 4 7 mus
+: 4470 4 4 ket, 
+: 4482 4 7 by 
+: 4488 4 4 an
+: 4494 4 -1 cient 
+: 4500 4 2 lies 
+- 4510
+: 4512 4 4 Free
+: 4518 4 2 dom 
+: 4524 4 4 goes 
+: 4530 4 7 to 
+: 4536 4 4 hell 
+: 4542 4 2 when 
+: 4554 4 9 they’re 
+: 4560 4 7 twis
+: 4566 4 4 ting 
+: 4578 4 7 the 
+: 4584 6 9 minds 
+- 4600
+: 4608 4 4 Bloo
+: 4614 4 2 dy 
+: 4620 4 4 in
+: 4626 4 7 qui
+: 4632 4 4 si
+: 4638 4 2 tion, 
+: 4650 4 9 by 
+: 4656 4 7 gods 
+: 4662 4 4 will, 
+: 4674 4 7 by 
+: 4680 4 4 de
+: 4686 4 -1 vils 
+: 4692 4 2 ways 
+- 4702
+: 4704 4 4 Ru
+: 4710 4 2 ins, 
+: 4716 4 4 death 
+: 4722 4 7 and 
+: 4728 4 4 so
+: 4734 4 2 rrow, 
+: 4746 4 9 will 
+: 4752 4 7 fo
+: 4758 4 4 llow 
+: 4770 4 12 in 
+: 4776 10 11 pain
+: 4788 10 14 ~
+: 4800 44 16 ~ 
+E

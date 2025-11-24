@@ -1,0 +1,109 @@
+#ARTIST:Jack Stauber
+#TITLE:Choice
+#MP3:Jack Stauber - Choice.mp3
+#CREATOR:barbeque,lily
+#COVER:Jack Stauber - Choice [CO].jpg
+#BACKGROUND:Jack Stauber - Choice [BG].jpg
+#YEAR:2019
+#LANGUAGE:English
+#BPM:250
+#GAP:1920
+#VIDEO:a=lBB70hwxWec,v=https://www.bilibili.com/video/BV1mm421N73k/,co=micropop-68f88c4d812a9.jpg
+#VIDEOGAP:0.12
+: 0 2 4 Love
+: 4 2 -1 ~,
+: 8 2 4  brain
+: 12 2 1 ~,
+: 16 2 8  heart,
+: 20 2 0  con
+: 24 4 -1 trol
+- 30
+R 32 2 11 Caf
+R 35 2 10 fei
+R 38 8 4 nate,
+: 48 2 -2  me
+: 52 2 -1 la
+: 56 2 -2 to
+: 60 3 -1 nin
+- 63
+: 64 2 4 Love
+: 68 2 -1 ~,
+: 80 2 8  heart,
+: 84 2 4  con
+: 88 4 -1 trol
+- 94
+R 96 2 9 Caf
+R 99 2 8 fei
+R 102 4 5 nate,
+: 108 2 -1  you
+* 112 2 -2  get
+: 116 2 -1  me
+: 120 3 0  go
+: 125 2 -1 ing
+- 133
+: 136 2 4 Brain
+: 140 2 0 ~,
+: 144 2 8  heart,
+* 148 2 0  con
+: 152 5 -1 trol
+- 158
+R 160 2 11 Caf
+R 163 2 6 fei
+R 166 8 4 nate,
+: 176 2 -2  me
+: 180 2 -1 la
+: 184 2 -2 to
+: 188 3 -1 nin
+- 191
+: 192 2 4 Love
+: 196 2 -1 ~,
+: 200 2 4  brain
+: 204 2 1 ~,
+: 208 3 8  heart
+- 220
+F 224 3 6 Wake
+F 229 3 7  up!
+F 238 6 5  (Smack!)
+- 254
+R 264 2 7 Nice
+R 268 2 -3  to
+R 272 3 8  meet
+R 277 3 -4  ya,
+R 288 2 12  who
+R 292 2 1  could
+R 296 2 -5  you
+R 300 5 -12  be?
+- 316
+: 320 6 12 I
+: 329 6 11  am
+: 337 6 7  in
+: 345 2 9 ju
+: 349 9 11 ry
+- 368
+: 376 2 4 No
+: 380 2 -1  you
+: 384 7 4  aren't,
+: 396 2 2  you
+: 400 4 2  made
+: 411 2 3  the
+: 416 5 14  choice
+: 424 2 11  to
+: 428 8 11  be
+- 438
+: 440 2 7 But
+: 444 2 9  the
+: 448 6 11  hurt!
+G 456 2 4  No!
+: 460 2 9  The
+: 464 8 11  hurt!
+G 474 2 4  No!
+- 478
+: 480 2 0 Don't
+: 484 1 0  wan
+: 486 1 0 na
+: 488 4 -1  hear
+: 493 1 -1  a
+: 495 1 11 no
+: 497 2 12 ther
+: 501 9 11  word
+E

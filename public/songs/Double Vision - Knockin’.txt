@@ -1,0 +1,445 @@
+#ARTIST:Double Vision
+#TITLE:Knockin’
+#MP3:Double Vision - Knockin’.mp3
+#CREATOR:Fepo
+#GENRE:Britpop
+#YEAR:1995
+#LANGUAGE:English
+#BPM:279.8
+#GAP:1660
+#VIDEO:v=YIzi8GsJ1Co,co=https://i.discogs.com/5OygPY5TNyCpN2V6C7WjCTiTbXS2Y_ZdeVjxNziXvz0/rs:fit/g:sm/q:90/h:504/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc2/NC0xNDIwMDI2MTI1/LTE5MTYuanBlZw.jpeg
+F 0 2 0 Are 
+F 4 2 0 you 
+F 7 1 0 rea
+F 9 1 0 dy? 
+- 12
+F 19 3 0 Come 
+F 24 2 0 on, 
+F 29 4 0 come 
+F 35 3 0 on 
+- 40
+F 41 4 0 Yeah, 
+F 48 2 0 yeah, 
+F 52 2 0 yeah, 
+F 56 5 0 yeah 
+- 63
+F 85 2 0 Don’t 
+F 89 2 0 let 
+F 93 2 0 me 
+F 96 2 0 talk 
+F 99 2 0 to 
+F 102 2 0 you, 
+F 105 2 0 ho
+F 108 2 0 ney 
+- 112
+F 126 2 0 Don’t 
+F 130 2 0 let 
+F 134 2 0 me 
+F 138 2 0 see 
+F 142 2 0 you 
+- 146
+F 159 2 0 Don’t 
+F 163 2 0 let 
+F 167 2 0 me 
+F 170 2 0 try 
+F 175 2 0 to 
+F 179 2 0 think 
+F 184 2 0 a
+F 188 2 0 ny
+F 192 2 0 thing 
+F 198 3 0 a
+F 202 5 0 way 
+F 212 3 0 from 
+F 217 2 0 you 
+- 221
+F 223 2 0 Just 
+F 227 2 0 try 
+F 233 2 0 to 
+F 238 3 0 hurt 
+F 245 3 0 me, 
+- 250
+F 255 2 0 Just 
+F 259 6 0 try 
+F 268 2 0 to 
+F 272 5 0 round 
+F 280 4 0 me 
+- 286
+F 288 2 0 Think 
+F 291 2 0 she’s 
+F 295 2 0 got 
+F 299 2 0 to 
+F 303 2 0 reach 
+F 307 2 0 you 
+F 311 2 0 ne
+F 315 2 0 ver 
+- 318
+: 318 4 -4 Talk, 
+: 326 4 -4 talk, 
+: 334 4 -4 talk 
+: 342 4 -5 no 
+- 348
+: 383 4 -4 Talk, 
+* 391 4 -4 talk, 
+* 399 4 -4 talk 
+: 406 4 -5 no 
+- 412
+F 451 2 0 She 
+F 455 2 0 just 
+F 459 2 0 to 
+F 463 2 0 see, 
+F 467 2 0 ah 
+- 471
+: 511 4 -4 Talk, 
+: 519 4 -4 talk, 
+: 527 4 -4 talk 
+: 534 4 -5 no 
+- 540
+F 574 3 0 Won’t 
+F 579 2 0 you 
+F 582 2 0 so 
+F 586 2 0 pret
+F 591 2 0 ty, 
+F 595 2 0 so 
+F 599 3 0 talk! 
+- 604
+: 856 3 -4 I’m 
+: 863 4 -2 knock, 
+: 871 4 -4 knock, 
+: 879 3 -4 kno
+: 884 4 -5 ckin’ 
+- 890
+: 895 4 -2 Knock, 
+* 903 4 -4 knock, 
+: 911 3 -4 kno
+: 916 4 -5 ckin’ 
+- 922
+: 926 3 -2 Kno
+: 930 2 -4 ckin’ 
+: 934 2 -4 on 
+: 938 2 -5 the 
+: 942 2 -4 back 
+: 946 2 -5 of 
+: 951 2 -9 your 
+: 955 8 -5 door 
+- 965
+: 979 3 -2 Oooh, 
+: 984 3 -2 I’m 
+: 991 3 -2 kno
+: 995 2 -4 ~ck 
+: 999 4 -4 knock, 
+: 1006 4 -4 kno
+: 1011 4 -5 ckin’ 
+- 1017
+: 1023 4 -2 Knock, 
+: 1031 4 -4 knock, 
+: 1039 3 -4 kno
+: 1044 4 -5 ckin’ 
+- 1050
+: 1055 3 -2 Kno
+: 1059 3 -2 ckin’ 
+: 1064 2 -2 on 
+: 1068 2 -2 the 
+: 1072 2 3 back 
+: 1076 1 3 of 
+: 1079 2 3 your 
+: 1084 4 3 door 
+- 1090
+: 1091 5 7 Oh, 
+: 1099 4 8 ba
+: 1106 3 8 by 
+: 1111 3 8 I’m 
+: 1119 3 10 kno
+: 1123 2 8 ~ck 
+: 1127 5 8 knock, 
+: 1134 3 8 kno
+: 1139 5 7 ckin’ 
+- 1146
+: 1151 5 10 Knock, 
+: 1159 5 8 knock, 
+: 1166 3 8 kn
+: 1171 5 7 ockin’ 
+- 1178
+: 1182 2 -2 Knock, 
+: 1186 3 -4 knock, 
+: 1191 2 -4 kn
+: 1195 2 -5 ockin’ 
+: 1199 2 -4 back 
+: 1203 2 -5 of 
+: 1207 2 -9 your 
+: 1211 8 -5 door 
+- 1221
+: 1222 3 7 Oh, 
+* 1227 6 8 ba
+: 1235 3 3 by 
+: 1240 3 3 I
+: 1244 2 7 ~’m 
+: 1250 3 7 knock, 
+: 1255 3 7 knock, 
+: 1262 3 8 kno
+: 1267 4 7 ckin’ 
+- 1273
+: 1276 5 3 Kno
+: 1283 2 7 ckin’ 
+: 1287 5 7 knock 
+: 1294 3 8 kno
+: 1299 4 7 ckin’ 
+- 1305
+: 1308 5 3 Kno
+: 1315 3 3 ckin’ 
+: 1320 2 7 can 
+: 1323 2 3 you 
+: 1327 2 7 here 
+: 1331 3 3 me? 
+- 1336
+F 1338 2 9 Come 
+F 1341 2 8 on, 
+F 1344 1 7 let 
+F 1346 1 7 me 
+F 1349 2 8 sing 
+F 1353 3 3 it! 
+- 1358
+: 1883 5 6 Oh, 
+: 1891 2 6 we 
+: 1895 2 7 sing 
+: 1899 2 7 in 
+: 1903 2 7 jun
+: 1907 2 7 gle, 
+: 1911 2 3 it’s 
+: 1915 2 3 a 
+: 1919 5 7 deep, 
+: 1927 5 7 deep 
+: 1934 3 7 jun
+: 1939 2 5 gle 
+: 1943 2 3 to 
+: 1947 5 3 do, 
+- 1954
+F 1974 2 0 A
+F 1978 2 0 ha 
+- 1982
+: 2011 5 6 Oh, 
+: 2019 2 6 we 
+: 2023 2 7 sing 
+: 2027 2 7 in 
+: 2031 2 7 jun
+: 2035 2 7 gle, 
+: 2039 2 3 it’s 
+: 2043 2 3 a 
+: 2047 5 7 deep, 
+: 2055 5 7 deep 
+: 2062 3 7 jun
+: 2067 2 5 gle 
+: 2071 2 3 to 
+: 2075 5 3 do, 
+- 2082
+: 2250 6 8 Ba
+: 2258 3 8 by, 
+: 2263 4 10 I’m 
+: 2270 3 10 kno
+: 2274 2 8 ~ck 
+: 2278 4 8 knock, 
+: 2285 4 8 kno
+: 2291 5 7 ckin’ 
+- 2298
+: 2302 5 10 Knock, 
+: 2310 5 8 knock, 
+: 2317 3 8 kn
+: 2322 5 7 ockin’ 
+- 2329
+: 2333 2 -2 Knoc
+: 2337 3 -4 kin’ 
+: 2342 2 -4 on 
+: 2346 2 -5 the 
+: 2350 2 -4 back 
+: 2354 2 -5 of 
+: 2358 2 -9 your 
+: 2362 8 -5 door 
+- 2372
+: 2398 5 10 Knock, 
+: 2406 5 8 knock, 
+: 2413 3 8 kn
+: 2418 5 7 ockin’ 
+- 2425
+: 2430 5 10 Knock, 
+: 2438 5 8 knock, 
+: 2445 3 8 kn
+: 2450 5 7 ockin’ 
+- 2457
+: 2462 2 -2 Knock, 
+: 2466 3 -4 knock, 
+: 2471 2 -4 kn
+: 2475 2 -5 ockin’ 
+: 2479 2 -4 back 
+: 2483 2 -5 of 
+: 2487 2 -9 your 
+: 2491 4 -5 door 
+- 2497
+: 2502 3 7 Oh, 
+: 2507 6 8 ba
+: 2515 3 3 by 
+: 2520 3 3 I
+: 2524 2 7 ~’m 
+: 2529 3 10 knock, 
+: 2535 3 8 knock, 
+: 2542 3 8 kno
+: 2547 4 7 ckin’ 
+- 2553
+: 2560 5 10 Knock, 
+: 2568 5 8 knock, 
+: 2575 3 8 kn
+: 2580 5 7 ockin’ 
+- 2587
+: 2591 2 -2 Knoc
+: 2595 2 -4 kin’ 
+: 2599 2 -4 on 
+: 2603 2 -5 the 
+: 2607 2 -4 back 
+: 2611 2 -5 of 
+: 2615 2 -9 your 
+: 2619 8 -5 door 
+- 2628
+: 2629 3 7 Oh, 
+: 2634 6 8 ba
+: 2642 3 3 by 
+: 2647 3 3 I
+: 2651 2 7 ~’m 
+: 2657 3 7 knock, 
+: 2662 3 7 knock, 
+: 2669 3 8 kno
+: 2674 4 7 ckin’ 
+- 2680
+: 2684 3 3 Knock, 
+: 2691 2 7 knock, 
+: 2695 5 7 knock 
+: 2703 2 8 kno
+: 2707 6 7 ckin’ 
+- 2714
+: 2715 4 3 Kno
+: 2723 2 3 ckin’, 
+: 2727 2 7 can’t 
+: 2731 2 3 you 
+: 2735 2 7 here 
+: 2739 3 3 me? 
+- 2744
+F 2746 2 10 Come 
+F 2750 2 7 on, 
+F 2753 1 7 let 
+F 2755 1 7 me 
+F 2757 2 8 sing 
+F 2761 3 3 it! 
+- 2766
+F 2803 3 15 Ah, 
+F 2807 2 12 lem
+F 2810 2 7 me! 
+- 2814
+F 2835 2 0 Ah, 
+F 2838 1 0 lem
+F 2841 1 0 me! 
+- 2844
+F 2866 3 0 Ah, 
+F 2871 1 0 lem
+F 2873 1 0 me! 
+- 2876
+F 2931 3 0 Ah 
+F 2935 2 0 lem
+F 2938 2 0 me! 
+- 2942
+F 2963 2 0 Ah, 
+F 2967 1 0 lem
+F 2969 1 0 me, 
+- 2972
+: 3018 6 8 Ba
+: 3026 3 8 by, 
+: 3031 4 10 I’m 
+: 3038 3 10 kno
+: 3042 2 8 ~ck 
+: 3046 4 8 knock, 
+: 3053 4 8 kno
+: 3059 5 7 ckin’ 
+- 3066
+: 3070 5 10 Knock, 
+: 3078 5 8 knock, 
+: 3085 3 8 kn
+: 3090 5 7 ockin’ 
+- 3097
+: 3102 2 -2 Knoc
+: 3106 2 -4 kin’ 
+: 3110 2 -4 on 
+: 3114 2 -5 the 
+: 3118 2 -4 back 
+: 3122 2 -5 of 
+: 3126 2 -9 your 
+: 3130 8 -5 door 
+- 3140
+: 3166 5 10 Knock, 
+: 3174 5 8 knock, 
+: 3181 3 8 kn
+: 3186 5 7 ockin’ 
+- 3193
+: 3197 5 10 Knock, 
+: 3205 5 8 knock, 
+: 3212 3 8 kn
+: 3217 5 7 ockin’ 
+- 3224
+: 3229 2 -2 Knoc
+: 3233 2 -4 kin’ 
+: 3237 2 -4 on 
+: 3241 2 -5 the 
+: 3245 2 -4 back 
+: 3249 2 -5 of 
+: 3253 2 -9 your 
+: 3257 8 -5 door 
+- 3267
+: 3268 3 7 Oh, 
+: 3273 6 8 ba
+: 3281 3 3 by 
+: 3286 2 3 I
+: 3289 2 7 ~’m 
+: 3293 4 10 knock, 
+: 3301 3 8 knock, 
+: 3308 3 8 kno
+: 3313 4 7 ckin’ 
+- 3319
+: 3325 5 10 Knock, 
+: 3333 5 8 knock, 
+: 3340 3 8 kn
+: 3345 5 7 ockin’ 
+- 3352
+: 3358 2 -2 Knoc
+: 3362 2 -4 kin’ 
+: 3366 2 -4 on 
+: 3370 2 -5 the 
+: 3374 2 -4 back 
+: 3378 2 -5 of 
+: 3382 2 -9 your 
+: 3386 8 -5 door 
+- 3396
+: 3398 3 7 Oh, 
+: 3403 6 7 ba
+: 3411 3 3 by 
+: 3416 2 3 I
+: 3419 4 7 ~’m 
+: 3426 3 7 knock, 
+: 3431 5 7 knock, 
+: 3439 3 8 kno
+: 3444 4 7 ckin’ 
+- 3450
+: 3451 5 3 Kno
+: 3458 2 7 ckin’ 
+: 3462 5 7 knock 
+: 3469 3 8 kno
+: 3474 4 7 ckin’ 
+- 3480
+: 3484 5 3 Kno
+: 3491 3 3 ckin’ 
+: 3496 2 7 can 
+: 3499 2 3 you 
+: 3503 2 7 here 
+: 3507 3 3 me? 
+- 3512
+F 3514 2 10 Come 
+F 3518 1 7 on, 
+F 3520 1 7 let 
+F 3522 1 7 me 
+F 3525 2 8 sing 
+F 3529 2 3 it! 
+E

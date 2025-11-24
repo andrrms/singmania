@@ -1,0 +1,211 @@
+#ARTIST:Black Sabbath
+#TITLE:Paranoid
+#MP3:Black Sabbath - Paranoid.mp3
+#CREATOR:Canni
+#EDITION:SingStar Legends [AU|DE|ES|FI|FR|UK|US]
+#GENRE:Rock
+#YEAR:1970
+#LANGUAGE:English
+#BPM:326.86
+#GAP:17700
+#VIDEO:v=0qanF-91aJo,co=paranoid-5524b139a90b1.jpg,bg=black-sabbath-4e031e8e1fe0f.jpg
+: 0 3 7 Fi
+: 4 5 7 nished 
+: 12 5 7 with 
+: 20 5 7 my 
+: 28 6 7 wo
+: 36 6 4 man 
+- 43
+: 44 6 4 ’Cause 
+: 52 6 4 she 
+: 62 4 2 coul
+: 68 6 2 dn’t 
+: 77 6 2 help 
+* 85 7 6 me 
+- 94
+: 96 3 6 With 
+: 100 5 4 my 
+: 110 7 4 mind 
+- 119
+: 127 3 7 Peo
+: 131 5 7 ple 
+: 139 5 7 think 
+: 147 5 7 I’m 
+: 155 6 7 in
+: 163 6 4 sane 
+- 171
+: 175 3 4 Be
+: 179 6 4 cause 
+: 189 4 2 I 
+: 195 6 2 am 
+* 205 6 2 frow
+: 213 7 6 ning 
+- 222
+: 225 3 6 All 
+: 229 5 4 the 
+: 239 7 4 time 
+- 248
+: 512 3 7 All 
+: 516 5 7 day 
+: 524 5 7 long 
+: 532 5 7 I 
+: 540 6 7 think 
+: 548 6 4 of 
+: 556 5 4 things 
+- 563
+: 566 6 4 But 
+: 574 4 2 no
+: 580 6 2 thing 
+: 588 6 2 seems 
+: 597 7 6 to 
+- 606
+: 609 3 6 Sa
+: 613 5 4 tis
+: 623 7 4 fy 
+- 632
+: 639 3 7 Think 
+: 643 5 7 I’ll 
+: 651 5 7 lose 
+: 659 5 7 my 
+: 667 6 7 mind 
+- 674
+: 675 6 4 If 
+: 683 6 4 I 
+: 691 6 4 don’t 
+* 699 6 2 find 
+: 708 6 2 some
+: 716 6 2 thing 
+: 724 7 6 to 
+- 733
+: 736 3 6 Pa
+: 740 5 4 ci
+: 750 7 4 fy 
+- 759
+: 799 3 7 Can 
+: 803 7 7 you 
+: 811 7 9 help 
+: 819 8 7 me 
+- 829
+* 862 5 10 Oc
+: 870 3 9 cu
+: 874 3 7 ~
+: 878 5 9 py 
+: 886 6 9 my 
+: 894 7 9 brai
+: 902 3 7 ~
+: 906 19 4 ~n? 
+- 927
+: 943 11 7 Oh
+: 955 3 4 ~
+: 959 3 2 ~ 
+: 963 3 4 yeah
+: 967 10 2 ~ 
+- 979
+: 1281 3 7 I 
+: 1285 5 7 need 
+: 1293 5 7 some
+: 1301 5 7 one 
+: 1309 6 7 to 
+: 1317 6 4 show 
+: 1325 6 4 me 
+- 1332
+: 1333 6 4 The 
+: 1344 5 2 things 
+: 1352 6 2 in 
+: 1360 6 2 life 
+: 1368 7 6 that 
+- 1377
+: 1379 3 6 I 
+: 1383 5 4 can’t 
+: 1393 7 4 find 
+- 1402
+: 1411 3 7 I 
+: 1415 5 7 can’t 
+* 1423 5 7 see 
+: 1431 5 7 the 
+: 1439 6 7 things 
+: 1447 6 4 that 
+- 1454
+: 1455 6 4 Make 
+: 1463 6 4 true 
+: 1473 4 2 hap
+: 1479 6 2 pi
+: 1489 6 2 ness 
+- 1496
+: 1497 7 6 I 
+: 1509 3 6 must 
+: 1513 5 4 be 
+: 1523 7 4 blind 
+- 1532
+: 2305 3 7 Make 
+: 2309 5 7 a 
+* 2317 5 7 joke 
+: 2325 5 7 and 
+: 2333 6 7 I 
+: 2341 6 4 will 
+: 2349 6 4 sigh 
+- 2356
+: 2357 6 4 And 
+: 2367 6 2 you 
+: 2375 6 2 will 
+: 2383 6 2 laugh 
+: 2391 7 6 and 
+- 2400
+: 2402 3 6 I 
+: 2406 5 4 will 
+* 2416 7 4 cry 
+- 2425
+: 2433 3 7 Hap
+: 2437 5 7 pi
+: 2445 5 7 ness 
+: 2453 5 7 I 
+: 2461 6 7 can
+: 2470 6 4 not 
+* 2478 6 4 feel 
+- 2485
+: 2486 6 4 And 
+: 2496 4 2 love 
+: 2501 8 2 to 
+: 2511 6 2 me 
+* 2519 7 6 is 
+- 2528
+: 2531 3 6 So 
+: 2535 5 4 un
+: 2545 7 4 real 
+- 2554
+: 2819 3 7 And 
+: 2823 5 7 so 
+: 2831 5 7 as 
+: 2839 5 7 you 
+: 2847 6 7 hear 
+: 2855 6 4 these 
+: 2863 6 4 words 
+- 2870
+: 2871 6 4 Tel
+: 2881 4 2 ling 
+: 2887 6 2 you 
+: 2897 7 2 no
+: 2905 6 6 ~w 
+- 2912
+: 2912 5 6 Of 
+: 2919 5 4 my 
+: 2929 7 4 state 
+- 2938
+: 2948 3 7 I 
+* 2952 5 7 tell 
+: 2960 5 7 you 
+: 2968 5 7 to 
+: 2976 6 7 en
+: 2984 6 4 joy 
+: 2992 6 4 life 
+- 2999
+: 3000 6 4 I 
+: 3010 4 2 wish 
+: 3016 6 2 I 
+: 3026 6 2 could 
+: 3034 7 6 but 
+- 3043
+: 3045 3 6 It’s 
+: 3050 5 4 too 
+: 3060 7 4 late 
+E

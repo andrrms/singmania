@@ -1,0 +1,394 @@
+#ARTIST:All Time Low
+#TITLE:Break Your Little Heart
+#MP3:All Time Low - Break Your Little Heart.mp3
+#CREATOR:SilenaM
+#GENRE:Pop-Punk
+#YEAR:2009
+#LANGUAGE:English
+#BPM:296.02
+#GAP:14780
+#VIDEO:a=rsfXsOPvzdw,co=nothing-personal-4f077bcdb41dc.jpg,bg=all-time-low-53cf5d9b1a629.jpg
+: 0 2 2 Wide 
+: 4 2 1 a
+: 8 6 5 wake 
+: 16 2 1 my 
+: 20 2 2 mis
+: 24 4 4 take 
+: 30 4 3 so 
+: 36 2 2 pre
+: 40 4 5 dic
+: 46 10 3 table 
+- 58
+: 62 2 1 You 
+: 66 2 1 were 
+: 70 8 5 fake 
+: 80 2 1 I 
+: 84 2 1 was 
+: 88 3 3 great 
+- 92
+: 92 8 3 Nothing 
+: 102 6 5 per
+: 110 12 1 sonal 
+- 123
+: 124 6 7 I’m 
+: 132 6 8 wal
+: 140 12 2 king 
+: 158 6 2 who’s 
+: 166 4 3 lau
+: 172 6 1 ghing 
+: 180 10 0 now? 
+- 192
+: 252 6 11 I’m 
+: 260 8 8 was
+: 270 4 4 ted 
+: 276 6 11 was
+: 284 10 10 ting 
+: 296 14 9 time 
+- 312
+: 318 4 10 Talk 
+: 324 2 6 for 
+: 328 2 7 hours 
+: 332 4 5 but 
+: 338 2 5 you’re 
+: 342 6 5 was
+: 350 4 1 ting 
+: 356 4 3 l
+: 362 4 3 i
+: 368 4 2 n
+: 374 7 1 es 
+- 382
+: 382 1 1 Pret
+: 384 4 1 ty 
+: 390 8 3 face 
+: 400 2 2 but 
+: 404 2 2 the 
+: 408 6 3 chase 
+: 416 6 2 ain’t 
+: 424 6 5 worth 
+: 432 2 2 the 
+: 436 2 2 pri
+: 440 32 1 ze 
+- 474
+: 476 2 7 I’m 
+: 480 2 7 gon
+: 484 2 8 na 
+: 488 2 7 break 
+: 492 2 10 your 
+: 496 6 10 little 
+: 504 8 10 heart 
+- 514
+: 516 4 7 Watch 
+: 522 2 4 you 
+: 526 2 5 take 
+: 530 2 1 the 
+: 534 10 2 fall 
+- 545
+: 546 6 11 Lau
+: 554 2 5 ghing 
+: 558 4 5 all 
+: 564 2 1 the 
+: 568 6 1 way 
+: 576 2 1 to 
+: 580 2 2 the 
+: 584 6 7 hos
+: 592 4 2 pi
+: 598 8 1 tal 
+- 608
+: 624 6 1 Cause 
+: 632 4 1 there 
+: 638 2 1 is 
+: 642 6 3 no
+: 650 8 3 thing 
+: 660 6 2 sur
+: 668 6 2 ge
+: 676 6 1 ry 
+: 684 6 2 can 
+: 692 16 1 do 
+- 710
+: 716 4 1 When 
+: 722 2 1 I 
+: 726 2 2 break 
+: 730 4 3 your 
+: 736 6 3 little 
+: 744 6 2 heart 
+: 752 2 1 in 
+: 756 14 1 two 
+- 772
+: 844 2 1 I’m 
+: 848 2 1 gon
+: 852 2 1 na 
+: 856 2 10 break 
+: 860 2 10 your 
+: 864 2 9 lit
+: 868 2 8 tle 
+: 872 8 4 heart 
+: 882 2 8 in 
+: 886 10 8 two 
+- 898
+: 1022 2 2 Par
+: 1026 2 2 ty 
+: 1030 6 3 Queen 
+: 1038 2 2 cause 
+: 1042 2 2 a 
+: 1046 6 3 scene 
+: 1054 4 3 so 
+: 1060 2 5 ri
+: 1064 4 6 di
+: 1070 4 3 cu
+: 1076 6 1 lous 
+- 1084
+: 1086 6 1 Little 
+: 1094 8 3 dress 
+: 1104 2 1 may
+: 1108 2 2 be 
+: 1112 4 3 less 
+: 1118 4 2 so 
+: 1124 2 2 con
+: 1128 4 5 spi
+: 1134 4 6 cu
+: 1140 8 1 ous 
+- 1150
+: 1152 4 8 You’re 
+: 1158 6 8 fa
+: 1166 8 2 lling 
+: 1182 8 6 who’s 
+: 1192 4 1 cra
+: 1198 4 1 shing 
+: 1204 10 0 now? 
+- 1216
+: 1280 4 6 I’m 
+: 1286 6 7 was
+: 1294 4 1 ted 
+: 1304 6 3 was
+: 1312 6 9 ting 
+: 1320 12 8 time 
+- 1334
+: 1338 2 2 I’m 
+: 1342 4 3 mo
+: 1348 4 6 ving 
+: 1354 2 7 on 
+: 1358 2 2 but 
+: 1362 4 3 you’re 
+: 1368 6 7 left 
+: 1376 4 4 be
+: 1382 4 3 h
+: 1388 4 2 i
+: 1394 6 1 n
+: 1402 1 0 d 
+- 1404
+: 1404 4 1 Pret
+: 1410 4 2 ty 
+: 1416 6 3 face 
+: 1424 2 1 but 
+: 1428 2 2 the 
+: 1432 6 3 chase 
+: 1440 6 3 ain’t 
+: 1448 6 4 worth 
+: 1456 2 2 the 
+: 1460 12 8 pri
+: 1474 24 5 ze 
+- 1500
+: 1502 4 8 Gon
+: 1508 2 10 na 
+: 1512 2 7 break 
+: 1516 2 7 your 
+: 1520 6 8 little 
+: 1528 7 9 heart 
+- 1536
+: 1536 8 8 Watch 
+: 1546 4 5 you 
+: 1552 2 5 take 
+: 1556 2 6 the 
+: 1560 8 8 fall 
+- 1570
+: 1572 4 8 Lau
+: 1578 4 6 ghing 
+: 1584 2 5 all 
+: 1588 2 2 the 
+: 1592 4 4 way 
+: 1598 2 1 to 
+: 1602 4 2 the 
+: 1608 6 6 hos
+: 1616 4 5 pi
+: 1622 10 4 tal 
+- 1634
+: 1648 6 6 Cause 
+: 1656 6 2 there 
+: 1664 2 2 is 
+: 1668 4 3 no
+: 1674 8 4 thing 
+: 1684 6 5 sur
+: 1692 4 3 ge
+: 1698 8 1 ry 
+: 1708 6 2 can 
+: 1716 16 1 do 
+- 1734
+: 1756 2 8 I’m 
+: 1760 2 8 gon
+: 1764 2 8 na 
+: 1768 2 4 break 
+: 1772 2 8 your 
+: 1776 6 8 little 
+: 1784 7 8 heart 
+- 1792
+: 1792 8 5 Show 
+: 1802 2 6 you 
+: 1806 4 2 to 
+: 1812 2 2 the 
+: 1816 8 1 door 
+- 1825
+: 1826 6 5 Sew 
+: 1834 2 3 your
+: 1838 6 2 self 
+: 1846 4 2 shut 
+: 1852 1 2 and 
+- 1854
+: 1854 4 10 Now 
+: 1860 2 2 you’re 
+: 1864 2 7 beg
+: 1868 2 1 ging 
+: 1872 2 1 for 
+: 1876 6 11 more
+: 1884 8 10 ~ 
+- 1894
+: 1906 4 1 Cause 
+: 1912 10 1 there’s 
+: 1924 4 2 no
+: 1930 10 3 thing 
+: 1942 6 2 sur
+: 1950 4 1 ge
+: 1956 4 0 ry 
+: 1962 6 1 can 
+: 1970 22 0 do 
+- 1993
+: 1994 6 6 When 
+: 2002 2 1 I 
+: 2006 4 5 break 
+: 2012 2 5 your 
+: 2016 6 3 little 
+: 2024 8 2 heart 
+: 2034 2 1 in 
+: 2038 5 0 two 
+- 2044
+: 2044 8 8 Don’t 
+: 2054 4 7 be 
+: 2060 6 5 so 
+: 2068 6 9 sen
+: 2076 4 8 ti
+: 2082 4 5 men
+: 2088 6 4 tal 
+: 2096 10 5 no 
+- 2108
+: 2110 6 4 This 
+: 2118 6 3 love 
+: 2130 2 3 is 
+: 2134 4 4 a
+: 2140 4 6 cci
+: 2146 4 4 den
+: 2152 6 3 tal 
+- 2159
+: 2160 4 2 So
+: 2166 4 1 ~ 
+- 2172
+: 2174 2 2 Give 
+: 2178 2 2 it 
+: 2182 4 3 up 
+- 2188
+: 2190 2 3 This 
+: 2194 2 3 was 
+: 2198 2 4 ne
+: 2202 2 6 ver 
+: 2206 2 3 meant 
+: 2210 2 5 to 
+: 2214 2 2 be 
+- 2217
+: 2218 4 2 More 
+: 2224 2 2 than 
+: 2228 2 2 a 
+: 2232 2 3 me
+: 2236 4 3 mo
+: 2242 4 4 ry 
+: 2250 2 6 for 
+: 2254 18 3 you 
+- 2274
+: 2522 2 8 I’m 
+: 2526 2 8 gon
+: 2530 2 9 na 
+: 2534 4 6 break 
+: 2540 2 8 your 
+: 2544 6 9 little 
+: 2552 10 8 heart 
+- 2564
+: 2566 2 5 Watch 
+: 2570 2 4 you 
+: 2574 2 3 take 
+: 2578 2 2 the 
+: 2582 8 3 fall 
+- 2592
+: 2594 4 7 Lau
+: 2600 6 3 ghing 
+: 2608 2 3 all 
+: 2612 2 3 the 
+: 2616 6 3 way 
+: 2624 2 2 to 
+: 2628 2 2 the 
+: 2632 6 5 hos
+: 2640 4 4 pi
+: 2646 8 3 tal 
+- 2656
+: 2674 4 1 Cause 
+: 2680 4 1 there 
+: 2686 2 1 is 
+: 2690 6 3 no
+: 2698 10 3 thing 
+: 2710 6 2 sur
+: 2718 4 1 ge
+: 2724 6 2 ry 
+: 2732 6 4 can 
+: 2740 16 2 do 
+- 2758
+: 2786 1 5 Gon
+: 2788 2 5 na 
+: 2792 2 5 break 
+: 2796 2 7 your 
+: 2800 4 7 little 
+: 2806 8 7 heart 
+- 2816
+: 2820 4 5 Show 
+: 2826 4 4 you 
+: 2832 2 2 to 
+: 2836 2 2 the 
+: 2840 8 1 door 
+- 2850
+: 2852 4 5 Sew 
+: 2858 2 4 your
+: 2862 6 3 self 
+: 2870 2 2 shut 
+: 2876 2 1 and 
+- 2879
+: 2880 2 1 Now 
+: 2884 2 3 you’re 
+: 2888 4 5 beg
+: 2894 4 2 ging 
+: 2900 2 2 for 
+: 2904 8 1 more 
+- 2914
+: 2930 4 2 Cause 
+: 2936 10 2 there’s 
+: 2948 4 2 no
+: 2954 12 3 thing 
+: 2968 4 2 sur
+: 2974 4 1 ge
+: 2980 4 0 ry 
+: 2986 6 2 can 
+: 2994 20 1 do 
+- 3016
+: 3020 4 2 When 
+: 3026 2 2 I 
+: 3030 2 1 break 
+: 3034 2 2 your 
+: 3038 4 3 little 
+: 3044 8 1 heart 
+: 3054 4 1 in 
+: 3060 12 0 two 
+E

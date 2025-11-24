@@ -1,0 +1,134 @@
+#ARTIST:WandaVision
+#TITLE:Agatha All Along
+#MP3:WandaVision - Agatha All Along.mp3
+#CREATOR:seanie627
+#GENRE:Soundtrack
+#YEAR:2021
+#LANGUAGE:English
+#BPM:307.18
+#GAP:8460
+#VIDEO:v=P8u8md-NiHM,co=https://static.wikia.nocookie.net/marvelstudios/images/4/42/Agatha_all_along.jpg/revision/latest?cb=20210222174733&path-prefix=fr
+: 0 6 4 Who’s 
+: 8 6 -1 been 
+: 16 3 7 mes
+: 21 2 6 sing 
+: 25 6 4 up 
+: 33 2 5 ev
+: 38 5 10 ery
+: 46 7 5 thing? 
+- 55
+: 58 2 5 It’s 
+: 62 2 7 been 
+: 66 2 9 A
+: 70 2 7 ga
+: 74 6 5 tha 
+* 83 6 9 all 
+: 91 4 3 a
+: 99 12 4 long 
+- 113
+: 166 5 4 Who’s 
+: 174 6 -1 been 
+: 183 2 7 pul
+: 187 2 6 ling 
+: 191 2 7 ev
+: 195 2 4 ery 
+: 199 2 5 e
+: 204 6 10 vil 
+: 212 7 5 string? 
+- 221
+: 224 2 5 It’s 
+: 228 2 7 been 
+: 232 2 9 A
+: 236 2 7 ga
+: 240 6 5 tha 
+: 249 6 11 all 
+: 258 5 3 a
+* 266 10 4 long 
+- 278
+: 340 6 16 She’s 
+* 349 14 16 in
+: 366 2 16 si
+: 371 6 15 di
+: 379 8 16 ous 
+- 389
+: 407 5 16 So 
+: 415 13 16 per
+: 432 2 16 fi
+: 436 7 18 di
+: 446 9 19 ous 
+- 457
+: 474 2 9 That 
+: 478 2 9 you 
+: 482 2 9 ha
+: 486 2 9 ven’t 
+: 490 2 9 e
+: 494 2 9 ven 
+* 498 5 21 no
+: 507 6 17 ticed 
+- 514
+: 515 5 17 And 
+: 524 6 16 the 
+: 533 2 15 pi
+: 536 2 14 ty 
+: 540 3 15 is 
+- 544
+: 545 1 11 The 
+: 549 2 11 pi
+: 553 2 10 ty 
+: 557 5 11 is 
+- 564
+* 566 2 -1 Pi
+: 570 2 -1 ty, 
+: 574 2 -3 pi
+: 578 2 -3 ty, 
+: 582 2 -5 pi
+: 586 2 -5 ty, 
+: 590 2 -6 pi
+: 594 2 -6 ty 
+- 598
+: 664 3 4 It’s 
+: 672 5 -1 too 
+: 681 3 7 late 
+: 685 2 6 to 
+: 689 6 4 fix 
+: 697 2 5 a
+* 702 6 10 ny
+: 710 7 5 thing 
+- 719
+: 723 2 5 Now 
+: 727 2 7 that 
+: 731 2 9 ev
+: 735 2 7 ery
+: 739 5 5 thing 
+: 748 6 11 has 
+: 756 5 3 gone 
+* 765 14 4 wrong 
+- 781
+: 790 2 4 Thanks 
+: 794 2 5 to 
+: 798 2 7 A
+: 802 2 6 ga
+* 806 11 4 tha 
+- 819
+: 823 2 7 Naugh
+: 827 2 9 ty 
+: 831 2 10 A
+: 835 2 9 ga
+* 839 9 7 tha 
+- 850
+: 856 2 7 It’s 
+: 860 2 9 been 
+: 864 2 11 A
+: 868 2 9 ga
+: 872 6 7 tha 
+* 880 6 11 all 
+: 888 6 3 a
+: 897 8 4 long 
+- 907
+F 934 2 0 And 
+F 937 3 0 I 
+F 943 3 0 killed 
+F 949 5 0 Spar
+F 958 3 0 ky 
+F 962 8 0 too! 
+E

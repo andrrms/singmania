@@ -1,0 +1,837 @@
+#ARTIST:Pokémon
+#TITLE:PokéRap [DUET]
+#MP3:Pokémon - PokéRap [DUET].mp3
+#CREATOR:Relisch
+#EDITION:[DUET]-Songs
+#GENRE:TV
+#YEAR:1999
+#LANGUAGE:English
+#BPM:300
+#GAP:550
+#VIDEO:v=xMk8wuw7nek,co=https://cdns-images.dzcdn.net/images/cover/0a4540547e69d411fc65855d618c85e3/500x500.jpg,p1=Singer-Hypeman,p2=Rapper
+P1
+F 0 2 1 We 
+F 3 1 1 got
+F 5 1 1 ta 
+F 7 6 1 rap 
+F 14 4 1 some 
+F 19 3 1 Po
+F 23 2 1 ké
+F 26 5 1 mon 
+- 33
+F 99 4 1 Let’s 
+F 104 2 1 get 
+F 107 1 1 it 
+F 109 5 1 on 
+- 116
+: 118 4 7 I 
+: 123 5 7 want 
+: 129 4 7 to 
+: 134 9 11 be 
+: 144 4 14 the 
+: 149 12 16 best 
+- 163
+: 170 4 3 There 
+: 175 3 7 ev
+: 179 9 7 er 
+: 189 11 9 was 
+- 202
+: 212 2 7 To 
+: 215 5 11 beat 
+: 221 3 14 all 
+: 225 4 14 the 
+: 230 11 16 rest 
+- 243
+: 247 4 14 Ye
+: 252 4 16 ah, 
+: 257 3 17 that’s 
+: 261 4 17 m
+: 266 5 19 y 
+: 272 5 17 ca
+: 278 8 14 u
+: 287 5 17 se 
+- 294
+: 462 4 11 Catch 
+: 467 4 14 ’em, 
+: 472 4 14 catch 
+: 477 4 16 ’em, 
+: 482 2 11 got
+: 485 2 7 ta 
+: 488 1 7 catch 
+: 490 2 2 ’em 
+: 493 6 7 all 
+- 501
+: 529 3 7 I’ll 
+: 533 4 7 search 
+: 538 4 7 ac
+: 543 10 11 ross 
+: 554 3 14 the 
+: 558 13 16 land 
+- 573
+: 580 3 2 Look 
+: 585 4 7 far 
+: 590 9 7 and 
+: 600 10 9 wide 
+- 612
+: 621 4 7 Re
+: 626 4 11 lease 
+: 631 4 14 from 
+: 636 4 14 my 
+: 641 8 16 hand 
+- 651
+: 652 3 14 The 
+: 656 4 14 po
+: 661 4 16 wer 
+: 666 4 17 that’s 
+: 671 4 17 i
+: 676 6 19 n
+: 683 6 16 s
+* 690 6 14 i
+* 697 4 16 de 
+- 703
+: 872 4 11 Catch 
+: 877 5 14 ’em, 
+: 883 3 14 catch 
+: 887 5 16 ’em, 
+: 893 2 11 got
+: 896 1 7 ta 
+: 898 2 7 catch 
+: 901 1 4 ’em 
+: 903 6 7 all 
+- 911
+: 913 3 17 Got
+: 917 4 17 ta 
+: 922 5 16 catch 
+: 928 4 15 ’em 
+: 933 6 14 all 
+: 943 5 19 Po
+: 949 4 16 ké
+: 954 7 19 mon! 
+- 963
+F 1140 1 6 Got
+F 1142 1 6 ta 
+F 1144 2 6 catch 
+F 1147 1 6 ’em 
+F 1149 5 6 all 
+F 1155 1 6 got
+F 1157 2 6 ta 
+F 1160 1 6 catch 
+F 1162 2 6 ’em 
+F 1165 5 6 all 
+- 1172
+: 1220 4 17 Got
+: 1225 4 17 ta 
+: 1230 5 16 catch 
+: 1236 4 15 ’em 
+: 1241 9 19 all 
+: 1251 4 19 Po
+: 1256 4 16 ké
+: 1261 7 19 mon! 
+- 1270
+: 1492 4 14 At 
+: 1497 4 14 least 
+: 1502 5 16 one 
+: 1508 4 17 hun
+: 1513 4 17 dred 
+: 1518 3 17 and 
+: 1522 8 17 fif
+: 1532 7 17 ty 
+- 1541
+: 1544 4 19 Or 
+: 1549 4 16 mo
+: 1554 3 14 re 
+: 1558 4 12 to 
+: 1563 7 14 see 
+- 1572
+: 1573 4 14 To 
+: 1579 4 14 be 
+: 1584 4 16 a 
+: 1589 4 19 Po
+: 1594 4 16 ké
+: 1599 9 19 mon 
+: 1610 3 19 Mas
+: 1615 3 16 ter 
+- 1620
+: 1621 3 16 Is 
+: 1625 6 14 my 
+: 1635 4 19 dest
+: 1640 4 16 i
+* 1645 6 23 n
+* 1652 18 21 y 
+- 1672
+F 1839 11 6 Woo! 
+F 1854 1 6 we’re 
+F 1856 1 6 at 
+F 1858 2 6 the 
+F 1862 4 6 half 
+F 1867 4 6 way 
+F 1872 5 6 point! 
+- 1879
+F 1882 1 6 Do
+F 1884 2 6 ing 
+F 1887 5 6 great 
+F 1893 4 6 so 
+F 1898 8 6 far! 
+- 1908
+F 1963 3 6 Break 
+F 1967 6 6 time’s 
+F 1974 2 6 ov
+F 1977 3 6 er 
+F 1984 3 6 here 
+F 1988 2 6 we 
+F 1991 20 6 go! 
+- 2013
+F 2164 2 6 Got
+F 2167 1 6 ta 
+F 2169 1 6 catch 
+F 2171 2 6 ’em 
+F 2174 5 6 all 
+F 2180 1 6 got
+F 2182 1 6 ta 
+F 2184 2 6 catch 
+F 2187 2 6 ’em 
+F 2190 4 6 all 
+- 2196
+: 2313 3 7 Po
+: 2317 5 4 ké
+: 2323 4 7 mon! 
+- 2329
+: 2436 3 14 At 
+: 2440 4 14 least 
+: 2445 5 16 one 
+: 2451 4 17 hun
+: 2456 4 17 dred 
+: 2461 4 17 and 
+: 2466 7 17 fif
+: 2474 6 17 ty 
+- 2482
+: 2487 4 19 Or 
+: 2492 3 16 mo
+: 2496 5 14 re 
+: 2502 3 12 to 
+: 2507 6 14 see 
+- 2515
+: 2517 4 14 To 
+: 2523 4 14 be 
+: 2528 4 16 a 
+: 2534 3 19 Po
+: 2538 4 16 ké
+: 2543 9 19 mon 
+: 2554 3 19 Mas
+: 2558 2 16 ter 
+- 2562
+: 2563 4 16 Is 
+: 2569 4 14 my 
+: 2578 4 19 des
+: 2583 4 16 t
+: 2589 6 23 in
+: 2596 20 21 y 
+- 2618
+F 2781 8 6 Whoa! 
+F 2790 3 6 catch 
+F 2794 2 6 your 
+F 2797 4 6 breath 
+F 2803 4 6 man! 
+- 2809
+F 2810 2 6 Shake 
+F 2814 3 6 out 
+F 2818 4 6 those 
+F 2823 6 6 lips! 
+- 2831
+F 2896 5 6 Now 
+F 2902 1 6 it 
+F 2904 3 6 gets 
+F 2908 2 6 trick
+F 2911 3 6 y, 
+F 2916 3 6 so 
+F 2920 2 6 lis
+F 2923 2 6 ten 
+F 2927 7 6 real 
+F 2935 7 6 good 
+- 2944
+F 3094 2 6 We’re 
+F 3097 2 6 al
+F 3100 5 6 most 
+F 3106 15 6 home! 
+- 3123
+F 3148 2 6 Got
+F 3151 1 6 ta 
+F 3153 2 6 catch 
+F 3156 2 6 ’em 
+F 3159 4 6 all 
+F 3164 2 6 got
+F 3167 1 6 ta 
+F 3169 2 6 catch 
+F 3172 1 6 ’em 
+F 3174 8 6 all) 
+- 3184
+: 3190 4 11 Got
+: 3195 3 17 ta 
+: 3199 5 16 catch 
+: 3205 3 15 ’em 
+: 3210 7 14 all 
+: 3220 4 19 Po
+: 3225 4 16 ké
+: 3231 6 19 m
+: 3238 1 16 o
+: 3240 3 14 n 
+- 3245
+F 3415 3 6 That’s 
+F 3419 7 6 all, 
+F 3427 6 6 folks! 
+- 3435
+: 3460 15 11 Ooh, 
+: 3476 4 11 got
+: 3481 3 14 ta 
+: 3486 3 14 catch 
+: 3491 4 11 em 
+: 3496 4 16 a
+: 3501 5 14 ll, 
+: 3507 4 7 po
+: 3512 4 2 ké
+: 3517 7 7 mon 
+- 3526
+: 3543 14 11 Ooh, 
+: 3558 4 11 got
+: 3563 3 14 ta 
+: 3567 4 14 catch 
+: 3572 4 11 em 
+: 3578 9 16 all 
+: 3589 3 14 po
+: 3594 3 7 ké
+: 3599 9 14 m
+: 3609 10 7 on 
+- 3621
+* 3640 4 17 GOT
+* 3645 3 17 TA 
+* 3649 5 16 CATCH 
+* 3655 4 15 EM 
+* 3660 5 14 ALL, 
+* 3670 4 19 PO
+* 3675 4 16 Ké
+P2
+* 293 1 19 MON! 
+- 295
+F 295 3 6 E
+F 300 3 6 lec
+F 305 3 6 trode, 
+F 310 4 6 Dig
+F 315 1 6 lett, 
+F 318 1 6 Ni
+F 320 2 6 do
+F 325 3 6 ran, 
+F 330 2 6 Man
+F 335 1 6 key 
+- 337
+F 338 1 6 Ve
+F 341 1 6 nu
+F 343 1 6 saur, 
+F 346 2 6 Rat
+F 351 3 6 ta
+F 356 3 6 ta, 
+F 361 3 6 Fea
+F 367 1 6 row, 
+F 372 1 6 Pid
+F 376 4 6 gey 
+- 381
+F 382 3 6 Sea
+F 388 1 6 king, 
+F 390 1 6 Jol
+F 392 3 6 te
+F 397 1 6 on, 
+F 400 1 6 Drag
+F 403 2 6 on
+F 408 2 6 ite, 
+F 413 2 6 Gast
+F 418 1 6 ly 
+- 420
+F 421 1 6 Pon
+F 423 1 6 y
+F 426 1 6 ta, 
+F 429 1 6 Vap
+F 431 1 6 o
+F 434 2 6 re
+F 439 1 6 on, 
+F 441 1 6 Pol
+F 444 2 6 i
+F 449 1 6 wrath, 
+F 451 2 6 But
+F 454 5 6 ter
+F 510 5 6 free 
+- 516
+* 516 4 19 Po
+* 521 7 16 ké
+* 705 1 19 mon! 
+- 707
+F 707 1 6 Ve
+F 710 3 6 no
+F 715 1 6 moth, 
+F 718 1 6 Pol
+F 720 3 6 i
+F 725 1 6 wag, 
+F 728 1 6 Nid
+F 730 1 6 or
+F 733 1 6 in
+F 735 4 6 o, 
+F 740 3 6 Gol
+F 746 1 6 duck 
+- 748
+F 749 1 6 Iv
+F 751 4 6 y
+F 756 3 6 saur, 
+F 760 4 6 Gri
+F 766 1 6 mer, 
+F 769 1 6 Vic
+F 771 3 6 tree
+F 776 3 6 bel, 
+F 781 3 6 Mol
+F 787 1 6 tres 
+- 789
+F 790 1 6 Ni
+F 792 3 6 do
+F 797 3 6 king, 
+F 802 3 6 Far
+F 807 4 6 fetch’d, 
+F 812 3 6 Ab
+F 818 1 6 ra, 
+F 820 1 6 Jig
+F 822 2 6 gly
+F 827 4 6 puff 
+- 832
+F 832 4 6 King
+F 838 3 6 ler, 
+F 843 2 6 Rhy
+F 846 1 6 horn, 
+F 848 4 6 Cle
+F 853 4 6 fab
+F 858 1 6 le, 
+F 861 1 6 Wig
+F 863 5 6 gly
+F 970 5 6 tuff 
+- 976
+F 976 4 6 Zu
+F 981 4 6 bat, 
+F 987 2 6 Prime
+F 990 1 6 ape, 
+F 992 7 6 Me
+F 1002 2 6 owth, 
+F 1005 4 6 On
+F 1012 2 6 ix 
+- 1015
+F 1015 1 6 Ge
+F 1018 3 6 o
+F 1023 1 6 dude, 
+F 1026 1 6 Rap
+F 1028 3 6 i
+F 1032 1 6 dash, 
+F 1035 1 6 Mag
+F 1037 4 6 ne
+F 1043 4 6 ton, 
+F 1048 2 6 Snor
+F 1053 3 6 lax 
+- 1057
+F 1058 4 6 Gen
+F 1063 2 6 gar, 
+F 1066 1 6 Tan
+F 1069 3 6 gel
+F 1074 3 6 a, 
+F 1078 4 6 Gol
+F 1084 4 6 deen, 
+F 1089 3 6 Spea
+F 1095 4 6 row 
+- 1100
+F 1100 3 6 Wee
+F 1105 8 6 zing, 
+F 1115 2 6 Seel, 
+F 1118 1 6 Gy
+F 1120 3 6 ra
+F 1126 9 6 dos, 
+F 1137 13 6 Slow
+F 1176 2 6 bro 
+- 1179
+F 1179 1 6 Got
+F 1182 1 6 ta 
+F 1184 1 6 catch 
+F 1187 4 6 ’em 
+F 1193 1 6 all 
+F 1196 1 6 got
+F 1198 1 6 ta 
+F 1201 1 6 catch 
+F 1204 5 6 ’em 
+F 1298 2 6 all 
+- 1301
+F 1301 3 6 Ka
+F 1305 3 6 bu
+F 1310 3 6 to, 
+F 1315 3 6 Pers
+F 1320 4 6 ian, 
+F 1325 3 6 Par
+F 1330 4 6 as, 
+F 1335 3 6 Hor
+F 1341 2 6 sea 
+- 1344
+F 1344 1 6 Rat
+F 1346 4 6 i
+F 1351 2 6 cate, 
+F 1354 1 6 Mag
+F 1356 2 6 ne
+F 1359 1 6 mite, 
+F 1362 3 6 Kad
+F 1366 4 6 a
+F 1372 1 6 bra, 
+F 1374 1 6 Weep
+F 1377 2 6 in
+F 1382 1 6 bell 
+- 1384
+F 1384 5 6 Dit
+F 1392 3 6 to, 
+F 1397 3 6 Cloy
+F 1402 2 6 ster, 
+F 1405 1 6 Cat
+F 1408 3 6 er
+F 1413 3 6 pie, 
+F 1418 2 6 Sand
+F 1423 1 6 shrew 
+- 1425
+F 1426 1 6 Bulb
+F 1428 3 6 a
+F 1432 1 6 saur, 
+F 1434 3 6 Char
+F 1438 4 6 mand
+F 1443 4 6 er, 
+F 1448 4 6 Gol
+F 1454 1 6 em, 
+F 1456 1 6 Pik
+F 1459 13 6 a
+F 1668 1 6 chu 
+- 1670
+F 1670 1 6 A
+F 1672 1 6 la
+F 1674 3 6 ka
+F 1679 3 6 zam, 
+F 1684 1 6 Do
+F 1686 1 6 du
+F 1689 2 6 o, 
+F 1692 1 6 Ven
+F 1695 2 6 o
+F 1699 3 6 nat, 
+F 1704 3 6 Ma
+F 1710 1 6 choke 
+- 1712
+F 1712 1 6 Kan
+F 1715 3 6 ga
+F 1719 3 6 skan, 
+F 1724 2 6 Hyp
+F 1727 1 6 no, 
+F 1730 1 6 E
+F 1732 1 6 lect
+F 1735 3 6 a
+F 1740 1 6 buzz, 
+F 1743 1 6 Flar
+F 1745 3 6 e
+F 1751 3 6 on 
+- 1755
+F 1755 4 6 Blast
+F 1760 1 6 oise, 
+F 1763 1 6 Po
+F 1766 3 6 li
+F 1771 3 6 whirl, 
+F 1776 3 6 Odd
+F 1781 3 6 ish, 
+F 1786 3 6 Drow
+F 1792 3 6 zee 
+- 1796
+F 1797 3 6 Rai
+F 1802 1 6 chu, 
+F 1804 1 6 Ni
+F 1807 3 6 do
+F 1812 4 6 queen, 
+F 1817 3 6 Bell
+F 1822 4 6 spout, 
+F 1827 11 6 Star
+F 1901 7 6 mie 
+- 1910
+F 1911 1 6 We? 
+F 1913 2 6 what’s 
+F 1916 4 6 all 
+F 1921 5 6 this 
+F 1927 3 6 we 
+F 1933 3 6 stuff? 
+- 1937
+F 1937 1 6 I’m 
+F 1939 1 6 do
+F 1941 1 6 ing 
+F 1943 1 6 all 
+F 1945 4 6 the 
+F 1950 7 6 hard 
+F 1996 2 6 work! 
+- 1999
+F 1999 1 6 Me
+F 2002 3 6 ta
+F 2007 1 6 pod, 
+F 2010 1 6 Ma
+F 2012 3 6 ro
+F 2016 1 6 wak, 
+F 2018 2 6 Ka
+F 2021 3 6 kun
+F 2025 1 6 a, 
+F 2027 1 6 Cle
+F 2029 1 6 fair
+F 2035 1 6 y 
+- 2037
+F 2037 2 6 Do
+F 2040 4 6 dri
+F 2047 4 6 o, 
+F 2053 3 6 Sea
+F 2058 1 6 dra, 
+F 2060 2 6 Vi
+F 2063 4 6 le
+F 2069 1 6 plume, 
+F 2071 4 6 Krab
+F 2078 2 6 by 
+- 2081
+F 2081 2 6 Lick
+F 2084 3 6 i
+F 2088 4 6 tung, 
+F 2093 4 6 Taur
+F 2099 1 6 os, 
+F 2102 4 6 Weed
+F 2108 2 6 le, 
+F 2112 1 6 Nid
+F 2114 2 6 o
+F 2119 3 6 ran 
+- 2123
+F 2124 3 6 Ma
+F 2129 4 6 chop, 
+F 2135 3 6 Shell
+F 2139 2 6 der, 
+F 2142 2 6 Por
+F 2145 3 6 y
+F 2150 2 6 gon, 
+F 2154 2 6 Hit
+F 2158 6 6 mon
+F 2201 2 6 chan 
+- 2204
+F 2204 1 6 Got
+F 2206 2 6 ta 
+F 2209 1 6 catch 
+F 2212 4 6 ’em 
+F 2217 1 6 all 
+F 2220 1 6 got
+F 2223 1 6 ta 
+F 2225 1 6 catch 
+F 2228 5 6 ’em 
+F 2243 2 6 all 
+- 2245
+F 2245 2 6 Ar
+F 2248 1 6 ti
+F 2250 1 6 cun
+F 2253 6 6 o, 
+F 2263 1 6 Jynx, 
+F 2266 1 6 Nid
+F 2268 2 6 o
+F 2271 1 6 ri
+F 2274 3 6 na, 
+F 2278 3 6 Bee
+F 2286 4 6 drill 
+- 2291
+F 2291 4 6 Haunt
+F 2297 3 6 er, 
+F 2301 4 6 Squirt
+F 2307 2 6 le, 
+F 2310 3 6 Chan
+F 2327 2 6 sey 
+- 2330
+F 2330 1 6 Pa
+F 2332 4 6 ra
+F 2338 2 6 sect, 
+F 2341 1 6 Ex
+F 2343 3 6 egg
+F 2348 5 6 cute, 
+F 2357 3 6 Muk, 
+F 2362 1 6 Dew
+F 2365 2 6 gong 
+- 2368
+F 2368 4 6 Pidge
+F 2373 4 6 ot
+F 2378 4 6 to, 
+F 2383 3 6 Lap
+F 2389 3 6 ras, 
+F 2393 3 6 Vul
+F 2398 4 6 pix, 
+F 2403 6 6 Rhy
+F 2613 2 6 don 
+- 2616
+F 2616 1 6 Char
+F 2619 4 6 i
+F 2625 3 6 zard, 
+F 2630 3 6 Ma
+F 2635 3 6 champ, 
+F 2640 3 6 Pin
+F 2645 3 6 sir, 
+F 2650 1 6 Kof
+F 2654 2 6 fing 
+- 2657
+F 2657 1 6 Dug
+F 2660 4 6 tri
+F 2665 4 6 o, 
+F 2670 3 6 Gol
+F 2675 4 6 bat, 
+F 2681 3 6 Star
+F 2686 1 6 yu, 
+F 2688 1 6 Mag
+F 2691 1 6 i
+F 2695 4 6 karp 
+- 2700
+F 2700 4 6 Nine
+F 2706 3 6 tales, 
+F 2711 3 6 Ek
+F 2716 4 6 ans, 
+F 2721 3 6 Om
+F 2727 7 6 a
+F 2737 3 6 star 
+- 2741
+F 2742 4 6 Scy
+F 2748 1 6 ther, 
+F 2750 1 6 Ten
+F 2752 4 6 ta
+F 2757 2 6 cool, 
+F 2760 1 6 Drag
+F 2762 4 6 on
+F 2767 4 6 air, 
+F 2773 7 6 Mag
+F 2827 3 6 mar 
+- 2831
+F 2831 9 6 It’s 
+F 2841 5 6 down
+F 2847 3 6 hill 
+F 2851 6 6 from 
+F 2858 4 6 here, 
+F 2863 2 6 just 
+F 2866 1 6 twe
+F 2868 4 6 nty 
+F 2874 2 6 four 
+F 2877 1 6 more 
+F 2879 4 6 to 
+F 2942 4 6 go 
+- 2947
+F 2947 4 6 Sand
+F 2953 1 6 slash, 
+F 2955 2 6 Hit
+F 2958 3 6 mon
+F 2963 3 6 lee, 
+F 2967 4 6 Psy
+F 2973 1 6 duck, 
+F 2976 1 6 Ar
+F 2978 2 6 can
+F 2983 3 6 ine 
+- 2987
+F 2988 2 6 Ee
+F 2991 1 6 vee, 
+F 2994 1 6 Ex
+F 2996 1 6 egg
+F 2998 2 6 u
+F 3001 1 6 tor, 
+F 3004 3 6 Ka
+F 3008 4 6 bu
+F 3013 3 6 tops, 
+F 3018 1 6 Zap
+F 3022 2 6 dos 
+- 3025
+F 3025 3 6 Dra
+F 3029 4 6 ti
+F 3035 3 6 ni, 
+F 3040 3 6 Grow
+F 3045 1 6 lithe, 
+F 3048 1 6 M
+F 3050 3 6 r. 
+F 3055 3 6 Mime, 
+F 3060 2 6 Cu
+F 3065 2 6 bone 
+- 3068
+F 3068 1 6 Grav
+F 3071 2 6 el
+F 3076 3 6 er, 
+F 3080 3 6 Volt
+F 3085 10 6 orb, 
+F 3107 1 6 Gloom 
+- 3109
+F 3110 1 6 Got
+F 3112 1 6 ta 
+F 3114 1 6 catch 
+F 3117 4 6 ’em 
+F 3122 1 6 all 
+F 3125 1 6 got
+F 3127 1 6 ta 
+F 3130 1 6 catch 
+F 3132 6 6 ’em 
+F 3264 5 6 all 
+- 3270
+F 3270 5 6 Charm
+F 3276 2 6 el
+F 3279 7 6 e
+F 3290 4 6 on, 
+F 3295 4 6 War
+F 3301 7 6 tort
+F 3311 3 6 le 
+- 3315
+F 3316 4 6 Mew
+F 3321 2 6 two, 
+F 3324 2 6 Ten
+F 3327 3 6 ta
+F 3332 3 6 cruel, 
+F 3337 3 6 Ae
+F 3342 3 6 ro
+F 3347 2 6 dact
+F 3352 4 6 yl 
+- 3357
+F 3357 4 6 Om
+F 3362 6 6 an
+F 3372 9 6 yte, 
+F 3382 8 6 Slow
+F 3393 4 6 poke 
+- 3398
+F 3398 3 6 Pidge
+F 3403 4 6 ot, 
+F 3408 5 6 Ar
+F 3435 4 6 bok 
+- 3440
+: 3440 4 11 Catch 
+: 3445 4 14 em, 
+: 3450 4 14 catch 
+: 3456 2 16 em, 
+: 3458 2 11 got
+: 3461 1 7 ta 
+: 3463 2 7 catch 
+: 3467 9 4 em 
+: 3516 5 7 all 
+- 3522
+: 3522 4 11 Catch 
+: 3527 4 14 em, 
+: 3532 4 14 catch 
+: 3537 3 16 em, 
+: 3540 2 11 got
+: 3543 2 7 ta 
+: 3546 1 7 catch 
+: 3548 6 4 em 
+: 3600 3 7 all 
+- 3604
+: 3604 4 11 Catch 
+: 3609 4 14 em, 
+: 3614 4 14 catch 
+: 3619 2 16 em, 
+: 3622 1 11 got
+: 3624 2 7 ta 
+: 3627 2 7 catch 
+: 3630 5 4 em 
+: 3640 4 7 all 
+- 3645
+* 3645 3 17 GOT
+* 3649 5 17 TA 
+* 3655 4 16 CATCH 
+* 3660 5 15 EM 
+* 3670 4 14 ALL, 
+* 3675 4 19 PO
+* 3680 1 16 Ké
+* 3682 5 19 MON! 
+E

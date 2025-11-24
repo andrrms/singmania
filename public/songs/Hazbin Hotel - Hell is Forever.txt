@@ -1,0 +1,447 @@
+#ARTIST:Hazbin Hotel
+#TITLE:Hell is Forever
+#MP3:Hazbin Hotel - Hell is Forever.mp3
+#CREATOR:UltraSinger, Karaokey
+#COVER:Hazbin Hotel - Hell is Forever [CO].jpg
+#BACKGROUND:Hazbin Hotel - Hell is Forever [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2024
+#LANGUAGE:English
+#BPM:377.29
+#GAP:10530
+#VIDEO:v=kMy8W0j-Slw,co=hazbin-hotel-original-soundtrack-68b584e9ce808.jpg
+#END:145000
+: 0 2 17 I 
+: 3 2 21 know 
+: 6 3 23 Hell’s 
+: 11 3 23 population
+: 16 15 21 ~ 
+- 31
+: 33 3 18 Is 
+: 39 3 22 out 
+: 44 2 20 of 
+: 49 12 14 control 
+- 65
+: 67 3 11 It’s 
+: 71 1 10 a 
+: 73 5 15 bad 
+: 79 3 24 situation
+: 83 16 23 ~ 
+: 101 3 19 it’s 
+: 105 4 22 ta
+: 111 5 21 king 
+: 117 1 21 a 
+: 120 7 21 toll 
+- 131
+: 133 2 19 If 
+: 136 3 21 we 
+: 140 8 22 rehab 
+: 150 4 21 these 
+: 155 8 20 sinners 
+: 164 3 18 and 
+: 169 8 16 cleanse 
+: 179 3 24 all 
+: 183 4 26 their 
+: 188 9 19 souls 
+- 201
+: 203 2 10 At 
+: 206 4 16 my 
+: 211 14 19 Hazbin 
+: 227 17 22 Hotel 
+- 269
+: 304 1 19 I 
+: 306 2 21 know 
+: 309 2 23 you 
+: 312 3 23 guys 
+: 316 5 23 fly 
+: 322 4 23 down 
+: 327 4 20 just 
+: 332 1 19 to 
+: 335 6 22 kill 
+: 343 4 20 once 
+: 348 1 17 a 
+: 350 5 14 year 
+- 359
+: 361 1 17 And 
+: 363 2 18 it 
+: 366 3 23 must 
+: 371 3 23 be 
+: 377 8 23 annoying 
+- 385
+: 386 3 20 To 
+: 390 4 19 schlep 
+: 399 3 23 all 
+: 403 4 21 the 
+: 408 3 20 way 
+: 412 5 22 here 
+- 420
+: 422 1 20 If 
+: 424 3 22 they 
+: 428 4 23 join 
+: 433 3 22 you 
+: 438 2 20 in 
+: 442 8 23 heaven 
+- 450
+: 451 2 21 That 
+: 456 4 22 trip 
+: 463 16 29 disappears! 
+- 482
+: 484 1 16 You 
+: 486 2 19 can 
+: 489 3 16 wave 
+: 493 3 19 that 
+: 499 6 21 door 
+: 506 12 21 farewell 
+- 528
+: 538 3 21 It’ll 
+: 542 2 22 be 
+: 545 2 22 a 
+: 548 12 24 happy 
+: 561 1 25 day 
+: 563 3 25 in … 
+- 566
+: 567 3 15 Let 
+: 571 3 18 me 
+: 577 5 23 stop 
+: 583 3 10 you 
+: 587 6 9 right 
+: 594 8 9 there 
+- 602
+: 604 6 4 Save 
+: 611 2 4 us 
+: 618 4 4 all 
+: 624 10 8 precious 
+: 636 15 9 time 
+- 657
+: 659 3 7 If 
+: 664 3 6 what 
+: 670 4 9 you’re 
+: 675 15 11 suggesting
+: 691 5 4 ~ 
+: 698 2 4 is 
+: 703 15 4 letting 
+: 719 3 7 them 
+: 723 17 9 climb 
+- 741
+: 743 1 9 Up 
+: 746 3 7 the 
+: 752 11 7 ladder 
+- 763
+: 765 2 9 Oh, 
+: 768 5 9 they’d 
+: 774 9 9 rather 
+: 784 8 13 cross 
+: 794 3 10 the 
+: 800 11 13 pearly 
+: 813 7 15 gates
+: 823 9 22 ~ 
+- 837
+: 839 10 11 Sorry, 
+: 850 10 12 sweetie 
+: 861 3 14 but 
+: 866 5 13 there’s 
+: 872 4 11 no 
+: 877 15 14 defyin’ 
+: 894 4 14 their 
+: 899 7 16 fates 
+- 909
+: 911 6 14 ’Cause 
+: 918 13 16 hell 
+: 934 2 12 is 
+: 937 16 9 forever 
+- 953
+: 954 10 9 Whether 
+: 965 5 7 you 
+: 971 6 7 like 
+: 979 3 7 it 
+: 983 3 16 or 
+: 988 5 16 not 
+- 996
+: 998 4 15 Had 
+: 1003 5 16 their 
+: 1009 10 16 chance 
+: 1020 4 14 to 
+: 1025 8 15 behave 
+: 1036 9 9 better 
+- 1045
+: 1047 5 10 Now 
+: 1053 4 7 they 
+: 1058 7 7 boil 
+: 1066 3 7 in 
+: 1070 1 16 the 
+: 1074 5 15 pot 
+- 1082
+: 1084 5 15 ’Cause 
+: 1090 4 16 the 
+: 1095 11 19 rules 
+: 1108 3 20 are 
+: 1112 5 19 black 
+: 1118 2 18 and 
+: 1123 5 17 white 
+- 1128
+: 1129 5 16 There’s 
+: 1135 5 16 no 
+: 1143 6 19 use 
+- 1150
+: 1152 3 21 In 
+: 1156 6 19 trying 
+: 1163 2 18 to 
+: 1167 7 18 fight 
+: 1175 1 16 it 
+- 1176
+: 1177 4 13 They’re
+: 1184 4 14 ~ 
+: 1189 9 16 burning 
+: 1199 4 14 for 
+: 1204 5 16 their 
+: 1210 8 11 lives 
+- 1218
+: 1219 8 11 Until 
+: 1228 3 11 we 
+: 1232 6 12 kill 
+: 1240 5 7 them 
+: 1249 19 16 again 
+- 1268
+: 1269 7 12 Just 
+: 1277 7 9 try 
+: 1285 3 10 to 
+: 1289 15 10 chillax 
+: 1305 9 8 babe 
+- 1314
+: 1315 4 8 You’re 
+: 1320 11 4 wasting 
+: 1332 3 7 your 
+: 1337 10 9 breath 
+- 1354
+: 1357 3 15 Did 
+: 1362 2 11 I 
+: 1365 5 11 hear 
+: 1371 4 9 you 
+: 1377 13 9 imply 
+- 1390
+: 1391 4 8 That 
+: 1396 4 7 they 
+: 1403 7 11 don’t 
+: 1413 10 16 deserve 
+: 1425 10 13 death? 
+- 1440
+: 1442 3 9 Are 
+: 1446 4 7 they 
+: 1451 10 7 winners? 
+: 1464 2 9 Are 
+: 1467 4 8 they 
+: 1473 10 9 sinners? 
+- 1483
+: 1484 7 13 ’Cause 
+: 1493 4 6 it’s 
+: 1500 5 9 cut 
+: 1507 2 7 and 
+: 1510 27 10 dry 
+- 1538
+: 1540 7 12 Fair 
+: 1549 4 11 is 
+: 1556 14 11 fair 
+- 1571
+: 1573 3 11 An 
+: 1582 3 20 eye 
+: 1587 5 16 for 
+: 1593 3 15 an 
+: 1598 7 16 eye 
+- 1613
+* 1616 5 15 Yeah 
+- 1625
+: 1627 5 16 And, 
+: 1636 5 16 when 
+: 1644 4 16 all’s 
+: 1649 7 16 said 
+: 1659 4 18 and 
+: 1665 26 16 done 
+- 1701
+: 1724 6 17 There’s 
+: 1731 2 11 the 
+: 1734 13 16 question 
+: 1748 1 17 of 
+: 1752 24 16 fun 
+- 1787
+: 1791 2 16 And 
+: 1794 6 18 for 
+: 1801 11 18 those 
+: 1816 3 18 of 
+: 1824 3 17 us 
+: 1830 7 18 with 
+: 1838 17 18 divine 
+: 1856 30 18 ordainment 
+- 1893
+: 1896 28 19 Extermination 
+: 1927 4 21 is 
+: 1935 35 22 entertainment 
+- 1979
+: 1983 4 22 Bow-
+: 1988 4 22 now-
+: 1993 4 22 now-
+: 1998 4 22 now
+: 2003 5 22 now 
+- 2008
+: 2009 3 17 Gui
+: 2014 5 19 tar 
+: 2020 10 21 solo 
+: 2031 3 17 fuck 
+: 2036 6 16 yeah 
+- 2042
+: 2043 3 17 Oh, 
+: 2048 3 17 da 
+: 2053 3 17 ah 
+: 2058 3 17 ah 
+: 2063 3 17 now- 
+: 2068 3 17 now-
+: 2073 3 17 now-
+: 2078 3 17 now-
+: 2083 3 17 now-
+: 2088 3 17 now- 
+- 2091
+: 2093 3 17 Now-
+: 2098 3 17 now-
+: 2103 3 17 now-
+: 2108 3 17 now-
+: 2113 3 17 now-
+: 2118 3 17 now-
+: 2123 3 17 now-
+: 2128 3 17 now- 
+- 2141
+: 2150 5 16 Hell
+: 2156 2 16 ~ 
+: 2159 2 13 is 
+: 2162 15 9 forever 
+- 2177
+: 2179 11 9 Whether 
+: 2191 4 -5 you 
+: 2196 6 7 like 
+: 2204 2 7 it 
+: 2208 3 16 or 
+: 2212 6 16 not 
+- 2220
+: 2222 5 14 Had 
+: 2228 4 16 their 
+: 2233 10 16 chance 
+: 2244 3 15 to 
+: 2250 10 14 behave 
+: 2261 10 9 better 
+- 2271
+: 2272 4 9 Now 
+: 2277 4 7 they 
+: 2282 8 7 boil 
+: 2291 2 7 in 
+: 2294 4 16 the 
+: 2299 6 16 pot 
+- 2308
+: 2310 5 16 ’Cause 
+: 2316 4 17 the 
+: 2321 10 7 rules 
+: 2334 2 21 are 
+: 2337 6 19 black 
+: 2345 2 17 and 
+: 2349 4 18 white 
+- 2353
+: 2354 5 16 There’s 
+: 2360 4 16 no 
+: 2368 6 19 use 
+: 2377 3 9 in 
+: 2381 6 19 trying 
+: 2388 3 18 to 
+: 2392 7 16 fight 
+: 2401 2 16 it 
+- 2406
+: 2408 5 14 They’re 
+: 2414 10 14 burning 
+: 2425 4 16 for 
+: 2430 5 16 their 
+: 2436 6 9 lives 
+- 2442
+: 2443 8 9 Until 
+: 2452 3 11 we 
+: 2456 7 9 kill 
+: 2464 5 7 them 
+: 2471 12 16 again 
+- 2486
+* 2488 10 19 Fucking 
+* 2503 4 17 HELL 
+* 2508 3 7 is 
+* 2512 16 11 forever 
+- 2529
+* 2531 3 10 And 
+* 2537 1 10 it’s 
+* 2540 4 8 meant 
+* 2545 4 9 to 
+* 2550 7 9 suck 
+* 2559 2 17 a 
+* 2562 5 17 lot 
+- 2570
+* 2572 6 15 So 
+* 2579 6 17 give 
+* 2589 1 17 up 
+* 2594 5 16 your 
+* 2600 7 15 dumb 
+* 2608 13 10 endeavor 
+- 2621
+* 2622 5 10 ’Cause 
+* 2629 2 8 you 
+* 2633 7 20 don’t 
+* 2641 4 17 have 
+* 2646 1 14 a 
+* 2649 11 17 shot 
+- 2665
+: 2667 6 17 Long 
+: 2674 3 16 as 
+: 2680 2 19 I 
+: 2683 5 22 got 
+: 2689 6 20 your 
+: 2698 13 17 attention 
+- 2711
+: 2713 2 17 I 
+: 2716 5 17 guess, 
+: 2724 2 20 I 
+: 2727 2 22 should 
+: 2731 10 19 probably 
+: 2743 10 17 mention 
+- 2753
+: 2754 5 17 That 
+: 2760 4 15 we’ve 
+: 2765 10 15 made 
+: 2776 5 15 the 
+: 2782 42 15 determination 
+- 2836
+: 2840 6 15 To 
+: 2847 5 15 move 
+: 2855 2 16 up 
+: 2858 4 15 the 
+: 2863 5 17 next 
+: 2869 48 17 extermination! 
+- 2929
+: 2933 6 19 Can’t 
+: 2940 6 17 wait 
+: 2947 1 15 a 
+: 2949 6 15 whole 
+: 2956 9 18 year 
+- 2965
+: 2966 3 13 To 
+: 2970 10 14 slaughter 
+: 2982 7 15 those 
+: 2990 4 15 little 
+: 2998 10 16 cunts! 
+- 3011
+: 3013 2 16 I 
+: 3016 5 19 know 
+: 3022 3 17 it’s 
+: 3027 5 18 just 
+: 3033 5 17 been 
+: 3039 1 16 a 
+: 3042 7 19 week 
+- 3052
+: 3054 4 21 But 
+: 3059 6 22 we’ll 
+: 3066 2 19 be 
+: 3070 6 22 back 
+: 3078 2 15 in 
+: 3081 10 22 six 
+: 3093 13 19 months! 
+E

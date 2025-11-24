@@ -1,0 +1,154 @@
+#ARTIST:Metallica
+#TITLE:Crash Course In Brain Surgery
+#MP3:Metallica - Crash Course In Brain Surgery.mp3
+#CREATOR:crappy
+#GENRE:Metal
+#YEAR:1987
+#LANGUAGE:English
+#BPM:352
+#GAP:42700
+#VIDEO:a=BENaRU-bNT8,co=https://i.discogs.com/4KItqP0jNPyZHWyORsufwPKeJkqDrhVWegH1erDOk0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU5/OTUxLTE2NTkzMDA3/MzctNTU3OC5qcGVn.jpeg,bg=metallica-4fd83b33d1ddd.jpg
+* 0 4 11 Look 
+: 6 5 11 in
+: 12 6 9 side 
+: 20 6 9 and 
+: 28 6 7 you 
+: 36 6 7 will 
+: 44 12 7 see 
+- 58
+: 60 3 -1 The 
+: 64 4 2 words 
+: 70 6 4 are 
+* 78 5 4 cutt
+* 84 8 4 ing 
+: 94 6 7 deep 
+: 102 5 4 in
+: 108 8 4 side 
+: 118 4 4 my 
+: 124 3 7 brain
+: 128 8 4 ~ 
+- 138
+: 192 3 2 Thund
+: 196 6 4 er 
+: 204 7 4 burn
+: 212 8 4 ing, 
+: 222 5 2 quick
+: 228 8 4 ly 
+: 238 5 4 burn
+: 244 8 4 ing 
+- 254
+: 256 4 2 Knife 
+: 262 6 4 of 
+: 270 6 4 words 
+: 278 6 4 is 
+: 286 5 7 driv
+: 292 6 4 ing 
+: 300 6 4 me 
+: 310 5 4 in
+: 316 3 7 sane
+: 320 8 4 ~ 
+- 330
+: 376 7 2 In
+: 384 3 11 sane
+: 388 15 9 ~
+: 404 3 7 ~
+: 408 3 9 ~
+: 412 16 7 ~ 
+: 430 10 7 yeah 
+- 442
+: 674 3 11 Rav
+: 678 6 11 en 
+: 686 6 9 black 
+: 694 6 9 is 
+: 702 6 7 on 
+: 710 6 7 my 
+: 718 12 7 track 
+- 732
+: 734 3 -1 He 
+: 738 4 2 shows 
+: 744 6 4 me 
+: 752 6 4 how 
+: 760 6 4 to 
+: 768 5 7 neu
+: 774 7 4 tra
+: 782 8 4 lize 
+: 792 4 4 the 
+* 800 5 7 knife
+* 806 8 4 ~ 
+- 816
+: 868 6 2 Show 
+: 876 4 4 to 
+: 882 6 4 me 
+: 890 6 4 in 
+: 898 9 2 sur
+: 908 3 4 ger
+: 912 12 4 y 
+- 926
+: 928 3 -1 The 
+: 932 4 2 art 
+: 938 6 4 of 
+: 946 5 4 fight
+: 952 8 4 ing 
+: 962 6 2 words 
+: 970 6 4 to 
+: 978 5 2 con
+: 984 6 4 quer 
+: 992 3 7 life
+: 996 8 4 ~ 
+- 1006
+: 1046 7 2 Con
+: 1054 6 4 quer 
+: 1062 3 11 life
+: 1066 11 9 ~
+: 1078 3 9 ~
+: 1082 3 7 ~
+: 1086 3 9 ~
+: 1090 16 7 ~ 
+: 1108 10 7 yeah 
+- 1120
+: 2888 4 11 Now 
+: 2894 4 11 the 
+: 2900 5 9 wick
+: 2906 6 9 ed 
+: 2914 6 7 lance 
+: 2922 6 7 of 
+: 2930 12 7 fear 
+- 2944
+: 2946 3 -1 Is 
+: 2950 3 2 driv
+: 2954 6 4 ing 
+: 2962 6 4 from 
+: 2970 6 4 my 
+: 2978 7 7 head
+: 2986 6 4 y 
+: 2994 7 4 mount
+: 3002 6 4 ain 
+: 3010 3 7 brain
+: 3014 8 4 ~ 
+- 3024
+: 3078 4 2 Crash 
+: 3084 6 4 course 
+: 3092 6 4 in 
+: 3100 6 4 brain 
+: 3108 9 2 sur
+: 3118 3 4 ger
+: 3122 12 4 y 
+- 3135
+: 3136 3 -1 Has 
+: 3140 4 2 stopped 
+: 3146 6 4 the 
+: 3154 5 4 blood
+: 3160 6 4 y 
+: 3168 8 7 knife 
+: 3178 6 4 of 
+: 3186 6 4 words 
+: 3194 5 4 a
+: 3200 3 7 gain
+: 3204 8 4 ~ 
+- 3214
+: 3252 32 2 Yeah, 
+: 3286 28 3 yeah, 
+* 3316 3 4 yeah
+* 3320 3 4 ~
+* 3324 8 4 ~ 
+E

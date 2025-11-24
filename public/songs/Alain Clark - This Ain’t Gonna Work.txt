@@ -1,0 +1,245 @@
+#ARTIST:Alain Clark
+#TITLE:This Ain’t Gonna Work
+#MP3:Alain Clark - This Ain’t Gonna Work.mp3
+#CREATOR:yellie
+#YEAR:2007
+#LANGUAGE:English
+#BPM:384
+#GAP:11880
+#VIDEO:v=6Q16o87sPoM,co=https://is1-ssl.mzstatic.com/image/thumb/Music/2f/14/f7/mzi.cwslkbxc.jpg/5000x5000bb.jpg,bg=clark-alain-502568c68592d.jpg
+: 0 6 14 No 
+: 14 8 19 sign 
+: 24 6 14 of 
+: 32 34 18 improving 
+- 68
+: 80 8 14 We’re 
+: 90 4 11 like 
+: 96 8 19 a 
+: 106 16 19 song 
+- 124
+: 138 2 19 That 
+: 144 2 18 just 
+: 156 8 14 ain’t 
+: 168 18 14 groovin’ 
+- 188
+: 252 8 14 Oh, 
+: 270 2 19 the 
+: 278 12 18 harder 
+: 294 4 18 we 
+: 300 16 18 try 
+- 318
+: 334 6 16 The 
+: 342 6 19 more 
+: 350 6 19 it 
+* 358 24 18 seems 
+: 390 2 14 that 
+: 394 6 18 it’s 
+: 402 8 19 just 
+- 411
+: 412 6 19 Not 
+: 420 60 18 right 
+- 482
+: 494 50 18 Ooh 
+: 550 28 14 baby, 
+- 580
+: 590 4 14 This 
+: 598 6 14 ain’t 
+: 608 18 18 gonna 
+: 628 10 19 work 
+: 642 8 19 Baby 
+: 658 8 11 baby, 
+- 668
+: 690 4 18 This 
+: 696 6 14 ain’t 
+: 706 8 19 gonna 
+: 720 12 19 work 
+- 734
+: 754 52 19 Ooh 
+: 810 26 19 baby, 
+- 838
+: 850 5 19 This 
+: 856 8 18 ain’t 
+: 870 8 19 gonna 
+: 882 10 14 work 
+: 898 8 19 Baby 
+: 912 8 19 baby, 
+- 922
+: 944 6 14 This 
+: 952 6 20 ain’t 
+: 960 16 19 gonna 
+: 978 12 14 work 
+- 992
+: 1022 10 19 Girl 
+: 1040 1 17 we’ve 
+: 1042 3 14 got 
+: 1046 2 19 to 
+: 1054 6 19 make 
+: 1062 5 14 some 
+: 1068 22 19 changes 
+- 1092
+: 1102 2 14 We 
+: 1106 6 18 share 
+: 1114 2 18 the 
+: 1120 10 14 same 
+: 1132 18 19 bed, 
+: 1160 2 14 but 
+: 1166 4 19 we’re 
+- 1172
+: 1174 9 19 Living 
+: 1184 6 18 like 
+: 1192 40 18 strangers 
+- 1234
+: 1276 12 19 Oh 
+: 1294 2 19 and 
+: 1298 6 19 sure 
+: 1306 2 14 we 
+: 1314 2 18 get 
+: 1322 16 18 by 
+- 1340
+: 1362 4 14 But 
+: 1368 2 19 if 
+: 1374 2 14 it 
+: 1378 6 19 ain’t 
+: 1386 18 18 true, 
+- 1406
+: 1418 4 19 Then 
+: 1424 1 14 we’re 
+: 1426 8 14 livin’, 
+- 1436
+: 1466 2 18 We 
+: 1468 1 17 are 
+: 1470 2 19 livin’a 
+: 1476 12 19 lie 
+: 1490 12 19 girl 
+- 1504
+: 1520 56 14 Ooh 
+: 1578 26 14 baby, 
+- 1606
+: 1618 5 14 This 
+: 1624 12 14 ain’t 
+: 1640 7 19 gonna 
+: 1648 22 14 work 
+: 1672 2 19 Baby 
+: 1678 20 14 baby, 
+- 1700
+: 1708 6 14 This 
+: 1718 4 14 ain’t 
+: 1724 14 19 gonna 
+: 1742 10 14 work 
+- 1754
+: 1772 56 14 Ooh 
+: 1830 28 19 baby, 
+- 1860
+: 1870 6 19 This 
+: 1878 8 19 ain’t 
+: 1888 12 19 gonna 
+: 1902 12 19 work 
+: 1918 10 18 Baby 
+: 1932 14 14 baby, 
+- 1948
+: 1964 6 18 This 
+: 1974 4 19 ain’t 
+: 1980 10 18 gonna 
+: 1996 10 19 work 
+- 2008
+: 2046 10 19 Oh 
+: 2060 3 17 if 
+: 2064 2 19 it’s 
+: 2068 6 19 up 
+: 2076 2 16 to 
+: 2082 5 16 you 
+: 2088 6 14 and 
+: 2096 16 14 me 
+- 2114
+: 2128 4 19 Then 
+: 2138 2 19 why 
+: 2146 2 19 aren’t 
+: 2150 2 14 we 
+: 2160 52 14 dancing 
+- 2214
+: 2302 8 19 Oh 
+: 2312 2 11 I 
+: 2316 4 19 wish 
+: 2322 1 14 the 
+: 2324 16 18 powers 
+: 2344 4 19 that 
+: 2350 16 14 be 
+- 2368
+: 2382 2 14 Would 
+: 2388 2 18 work 
+: 2392 6 11 in 
+: 2400 8 19 our 
+: 2410 22 19 way 
+- 2434
+: 2476 4 19 But 
+: 2482 4 14 that 
+: 2488 2 14 ain’t 
+: 2492 6 18 like 
+: 2500 3 14 it 
+: 2504 6 18 is 
+: 2512 18 19 today 
+- 2532
+: 3118 11 14 Yeah 
+: 3130 4 11 and 
+: 3136 2 14 I’m 
+: 3142 2 14 really 
+: 3146 2 18 trying 
+: 3150 3 14 to 
+: 3154 5 14 feel 
+- 3160
+: 3160 5 14 You 
+: 3166 16 19 girl 
+- 3184
+: 3246 12 19 I 
+: 3260 5 14 really 
+: 3266 5 19 wanna 
+: 3272 4 19 want 
+: 3280 6 18 you 
+: 3288 28 18 baby 
+- 3318
+: 3398 2 14 I’m 
+: 3402 2 12 not 
+: 3406 1 18 trying 
+: 3408 2 19 to 
+: 3414 4 19 leave 
+: 3420 5 14 you 
+: 3426 8 19 girl 
+- 3436
+: 3498 5 18 But 
+: 3504 4 12 how 
+: 3512 8 11 am 
+: 3514 6 18 I 
+: 3522 1 19 gonna 
+: 3524 22 14 stay 
+: 3556 14 19 when 
+: 3574 44 19 Ooh 
+- 3620
+: 3624 24 19 Baby, 
+- 3650
+: 3664 5 19 This 
+: 3670 6 11 ain’t 
+: 3680 8 19 gonna 
+: 3692 8 18 work 
+: 3710 10 19 Baby 
+: 3726 10 19 baby, 
+- 3738
+: 3756 6 19 This 
+: 3766 4 18 ain’t 
+: 3774 12 19 gonna 
+: 3788 10 14 work 
+- 3800
+: 3820 56 18 Ooh 
+* 3878 26 14 baby, 
+- 3906
+: 3918 6 20 This 
+: 3926 6 20 ain’t 
+: 3934 8 19 gonna 
+: 3944 16 18 work 
+: 3966 10 18 Baby 
+: 3982 10 14 baby, 
+- 3994
+: 4012 4 18 This 
+: 4020 6 19 ain’t 
+: 4030 12 19 gonna 
+: 4044 8 11 work 
+E

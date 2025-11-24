@@ -1,0 +1,87 @@
+#ARTIST:John Lennon & The Plastic Ono Band
+#TITLE:Love
+#MP3:John Lennon & The Plastic Ono Band - Love.mp3
+#CREATOR:ddongmaryo
+#GENRE:Blues
+#YEAR:1970
+#LANGUAGE:English
+#BPM:249
+#GAP:37040
+#VIDEO:v=7er_xx7Wmg8,co=love-577aedaa2bc1d.jpg,bg=lennon-john-65718a60475e5.jpg
+: 0 7 6 Love 
+: 8 7 9 is 
+: 16 12 13 real, 
+: 104 7 11 real 
+: 112 7 13 is 
+: 120 8 9 love 
+- 130
+: 196 9 9 Love 
+: 206 6 13 is 
+: 216 16 13 feeling, 
+: 296 15 14 only 
+: 312 20 11 love 
+- 334
+: 396 5 13 Love 
+: 402 8 9 is 
+: 414 16 6 wanting 
+: 494 5 9 to 
+: 500 6 13 be 
+: 510 20 14 loved 
+- 532
+: 590 9 -1 Love 
+: 600 8 1 is 
+: 610 14 3 touch, 
+: 690 9 2 touch 
+: 700 3 1 is
+: 704 3 1 ~ 
+: 708 12 -1 love 
+- 722
+: 776 19 1 Love 
+: 796 9 2 is 
+: 806 28 2 reaching, 
+: 884 21 1 reaching 
+: 906 30 -1 love 
+- 938
+: 980 11 1 Love 
+: 992 9 2 is 
+: 1002 20 1 asking 
+: 1080 7 -1 to 
+: 1088 7 1 be 
+: 1096 26 2 loved 
+- 1124
+: 1178 7 1 Love 
+: 1186 8 -1 is 
+: 1196 28 1 you 
+- 1226
+: 1274 7 2 You 
+: 1282 8 2 and 
+: 1292 10 1 me 
+- 1304
+: 1370 7 -1 Love 
+: 1378 6 1 is 
+: 1388 28 2 knowing 
+- 1418
+: 1466 5 1 We 
+: 1472 13 -1 can 
+: 1486 20 1 be 
+- 1508
+: 1566 7 2 Love 
+: 1574 8 6 is 
+: 1590 12 9 free, 
+: 1662 7 10 free 
+: 1670 8 8 is 
+: 1680 16 8 love 
+- 1698
+: 1760 9 13 Love 
+: 1770 7 9 is 
+: 1778 26 9 living, 
+: 1856 23 13 living 
+: 1880 24 13 love 
+- 1906
+: 1956 5 14 Love 
+: 1962 8 11 is 
+: 1974 22 13 needing 
+: 2054 7 9 to 
+: 2062 8 9 be 
+: 2072 32 13 loved 
+E

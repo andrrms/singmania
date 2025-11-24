@@ -1,0 +1,334 @@
+#ARTIST:KISS
+#TITLE:Shout It Out Loud (Live From Tiger Stadium)
+#MP3:KISS - Shout It Out Loud (Live From Tiger Stadium).mp3
+#CREATOR:znxineohp
+#YEAR:1996
+#LANGUAGE:English
+#BPM:274
+#GAP:33350
+#VIDEO:v=sohB922c2uQ,co=shout-it-out-loud-live--nothin-to-lose-live-57e2d3ada8ebb.jpg,bg=kiss-50616ca39a887.jpg
+* 0 10 4 Whoo! 
+: 16 3 4 the 
+: 20 5 6 night’s 
+: 26 5 6 be
+: 32 8 6 gun 
+- 42
+: 44 3 6 And 
+: 48 3 4 you 
+: 52 3 6 want 
+: 56 7 6 some 
+: 64 7 6 fun 
+- 72
+: 72 3 4 Do 
+: 76 3 2 you 
+: 80 7 7 think 
+: 88 3 6 you’re 
+: 92 3 4 gon
+: 96 3 1 na 
+: 100 7 4 find 
+: 108 3 1 it 
+- 112
+F 112 7 7 Think 
+F 120 3 6 you’re 
+F 124 3 4 gon
+F 128 3 1 na 
+F 132 7 4 find 
+F 140 8 1 it 
+- 149
+: 150 3 4 You 
+: 154 3 6 got 
+: 158 3 4 to 
+: 162 3 6 treat 
+: 166 3 4 your
+: 170 3 6 self 
+: 174 3 4 like 
+: 178 3 6 num
+: 182 7 6 ber 
+: 190 6 6 one 
+- 197
+: 198 3 4 Do 
+: 202 3 2 you 
+: 206 7 7 need 
+: 214 3 6 to 
+: 218 3 4 be 
+: 222 3 1 re
+: 226 7 4 mind
+: 234 3 1 ed 
+- 238
+F 238 7 7 Need 
+F 246 3 6 to 
+F 250 3 4 be 
+F 254 3 1 re
+F 258 7 4 mind
+F 266 8 8 ed 
+- 276
+: 278 3 4 It 
+: 282 3 6 does
+: 286 3 4 n’t 
+: 290 3 6 mat
+: 294 3 4 ter 
+: 298 3 6 what 
+: 302 3 4 you 
+: 306 3 6 do 
+: 310 5 6 or 
+: 316 6 6 say 
+- 324
+: 326 3 6 Just 
+: 330 3 4 for
+: 334 7 9 get 
+: 342 3 9 the 
+: 346 3 9 things 
+- 350
+: 350 3 4 That 
+: 354 3 7 you’ve 
+: 358 7 6 been 
+: 366 12 4 told 
+- 380
+: 404 3 6 We 
+: 408 4 6 can’t 
+: 416 3 6 do 
+: 420 3 4 it 
+: 424 3 6 a
+: 428 3 4 ny 
+: 432 3 6 o
+: 436 7 6 ther 
+: 444 6 6 way 
+- 451
+: 452 3 6 Ev
+: 456 3 6 ery
+: 460 7 9 bo
+: 468 3 9 dy’s 
+: 472 3 6 got 
+: 476 3 4 to 
+: 480 3 4 rock 
+: 484 7 4 and 
+* 492 24 6 roll 
+* 524 3 6 o
+* 528 3 6 ~
+* 532 16 11 h 
+- 550
+: 560 11 3 Shout 
+: 572 4 4 it, 
+: 584 11 3 shout 
+: 596 8 4 it, 
+: 606 5 3 shout 
+: 612 3 4 it 
+: 616 7 3 out 
+: 624 18 3 loud 
+- 644
+: 684 11 3 Shout 
+: 696 8 4 it, 
+: 708 13 3 shout 
+: 722 9 4 it, 
+* 732 5 3 shout 
+* 738 5 4 it 
+* 744 5 3 out 
+* 750 24 3 loud 
+- 776
+: 802 5 1 If 
+: 808 3 3 you 
+: 812 3 6 don’t 
+: 816 7 6 feel 
+: 824 8 6 good 
+- 834
+: 836 5 6 There’s  
+: 842 1 4 a 
+: 844 5 6 way 
+: 850 5 6 you 
+: 856 8 6 could 
+- 866
+: 868 3 2 Don’t 
+: 872 7 7 sit 
+: 880 1 6 there 
+: 882 3 4 bro
+: 886 3 1 ken 
+: 890 7 4 heart
+: 898 5 1 ed 
+- 904
+F 904 7 7 Sit 
+F 912 3 6 there 
+F 916 3 4 brok
+F 920 3 1 en 
+F 924 7 4 heart
+F 932 4 1 ed 
+- 937
+: 938 5 6 Call 
+: 944 3 6 all 
+: 948 3 4 your 
+: 952 9 6 friends 
+: 962 3 6 in 
+: 966 3 4 the 
+: 970 3 6 neigh
+: 974 7 6 bor
+: 982 4 6 hood 
+- 988
+: 994 3 2 And 
+: 998 7 7 get 
+: 1006 3 6 your 
+: 1010 3 4 par
+: 1014 1 1 ty 
+: 1016 7 4 star
+: 1024 6 8 ted 
+- 1031
+F 1032 5 7 Get 
+F 1038 1 6 your 
+F 1040 3 4 par
+F 1044 3 1 ty 
+F 1048 7 4 star
+F 1056 8 7 ted 
+- 1066
+: 1068 3 4 Don’t 
+: 1072 3 6 let 
+: 1076 3 4 ’em 
+: 1080 3 6 tell 
+: 1084 3 4 you 
+- 1088
+: 1088 3 6 That 
+: 1092 3 4 there’s 
+: 1096 3 6 too 
+: 1100 7 6 much 
+: 1108 6 6 noise 
+- 1115
+: 1116 3 6 They’re 
+: 1120 3 6 too 
+: 1124 7 9 old 
+: 1132 3 4 to 
+: 1136 3 6 real
+: 1140 3 4 ly 
+: 1144 3 7 un
+: 1148 7 6 der
+: 1156 12 4 stand 
+- 1170
+: 1196 3 6 You’ll 
+: 1200 3 6 still 
+: 1204 3 4 get 
+: 1208 3 6 row
+: 1212 3 4 dy 
+- 1216
+: 1216 3 6 With 
+: 1220 3 4 the 
+: 1224 3 6 girls 
+: 1228 7 6 and 
+: 1236 4 6 boys 
+- 1241
+: 1242 5 6 ’Cause 
+: 1248 3 6 it’s 
+: 1252 5 9 time 
+: 1258 3 4 for 
+: 1262 3 4 you 
+* 1266 3 4 to 
+* 1270 3 4 take 
+* 1274 7 4 a 
+* 1282 24 6 stand 
+- 1308
+* 1314 3 6 Ye
+* 1318 3 6 ~
+* 1322 16 11 ah 
+- 1340
+: 1348 13 3 Shout 
+: 1362 4 4 it, 
+: 1372 13 3 shout 
+: 1386 9 4 it, 
+: 1396 5 3 shout 
+: 1402 3 4 it 
+: 1406 7 3 out 
+: 1414 18 3 loud 
+- 1434
+: 1476 11 3 Shout 
+: 1488 6 4 it, 
+: 1500 11 3 shout 
+: 1512 9 4 it, 
+: 1522 7 3 shout 
+: 1530 3 4 it 
+: 1534 8 3 out 
+- 1544
+: 1888 13 3 Shout 
+: 1902 4 4 it, 
+: 1912 13 3 shout 
+: 1926 8 4 it, 
+: 1936 5 3 shout 
+: 1942 3 4 it 
+: 1946 7 3 out 
+: 1954 22 3 loud 
+- 1978
+: 1982 3 4 You 
+: 1986 3 4 got 
+: 1990 3 4 to 
+: 1994 3 4 have 
+: 1998 3 1 a 
+: 2002 7 4 par
+: 2010 4 1 ty 
+- 2016
+: 2018 11 3 Shout 
+: 2030 4 4 it, 
+: 2042 11 3 shout 
+: 2054 9 4 it, 
+: 2064 5 3 shout 
+: 2070 3 4 it 
+: 2074 5 3 out 
+: 2080 12 3 loud 
+- 2094
+: 2096 3 6 Come 
+: 2100 6 4 on 
+: 2110 7 6 Turn 
+: 2118 3 11 it 
+: 2122 7 9 up 
+: 2130 7 11 loud
+: 2138 4 8 er 
+- 2143
+: 2144 13 3 Shout 
+: 2158 4 4 it, 
+: 2170 11 3 shout 
+: 2182 9 4 it, 
+: 2192 5 3 shout 
+: 2198 3 4 it 
+: 2202 5 3 out 
+: 2208 12 3 loud 
+- 2221
+: 2222 7 4 Come 
+: 2230 5 4 on 
+: 2236 7 4 ev
+: 2244 3 1 ery
+: 2248 3 4 bo
+: 2252 3 1 dy 
+: 2256 3 4 shout 
+: 2260 3 4 it 
+: 2264 7 6 now 
+- 2272
+: 2272 11 3 Shout 
+: 2284 4 4 it, 
+: 2296 11 3 shout 
+: 2308 11 4 it, 
+: 2320 3 3 shout 
+: 2324 3 4 it 
+: 2328 7 3 out 
+: 2336 14 3 loud 
+- 2352
+: 2358 5 6 Come 
+: 2364 11 8 on 
+: 2376 3 8 ev
+: 2380 3 6 ery
+: 2384 7 8 bo
+: 2392 4 4 dy 
+- 2397
+: 2398 13 3 Shout 
+: 2412 8 4 it, 
+: 2424 11 3 shout 
+: 2436 9 4 it, 
+: 2446 5 3 shout 
+: 2452 3 4 it 
+: 2456 7 3 out 
+: 2464 18 3 loud 
+- 2484
+: 2488 11 6 Oh 
+: 2500 16 4 yeah! 
+- 2518
+: 2526 13 3 Shout 
+: 2540 4 4 it, 
+: 2552 11 3 shout 
+: 2564 7 4 it, 
+: 2572 7 3 shout 
+: 2580 3 4 it 
+: 2584 7 3 out 
+: 2592 20 3 loud 
+E

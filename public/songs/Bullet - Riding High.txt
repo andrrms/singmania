@@ -1,0 +1,162 @@
+#ARTIST:Bullet
+#TITLE:Riding High
+#MP3:Bullet - Riding High.mp3
+#CREATOR:Ich,werdennsonst?
+#GENRE:Heavy Metal
+#YEAR:2014
+#LANGUAGE:English
+#BPM:300.66
+#GAP:25990
+#VIDEO:v=4ks1IMH7P-4,co=storm-of-blades-5d01c97c633b5.jpg,bg=bullet-555f70c37f05c.jpg
+#END:179000
+: 0 8 7 Ride 
+: 9 8 4 on, 
+: 23 5 4 join 
+: 29 5 4 our 
+: 36 5 7 for
+: 42 15 4 ces 
+- 59
+: 65 6 4 It’s 
+: 72 8 7 time 
+: 81 7 9 to 
+: 89 3 7 meet 
+: 93 7 6 a
+: 101 12 4 gain 
+- 115
+: 127 3 4 In 
+: 131 2 4 the 
+: 134 13 4 streets 
+- 149
+: 155 3 4 In 
+: 159 5 4 the 
+: 165 9 7 alley
+: 175 14 4 ways 
+- 191
+: 207 5 7 Let 
+: 213 2 9 the 
+: 216 7 7 game 
+: 224 4 6 be
+: 229 16 4 gin 
+- 247
+: 249 7 4 And 
+: 257 7 4 we 
+: 265 11 9 ride 
+: 277 16 7 on 
+- 295
+: 308 8 12 Ride 
+: 317 5 11 the 
+: 323 20 9 sky 
+- 345
+: 391 13 11 Ride 
+: 405 14 9 on 
+- 421
+: 433 4 9 Through 
+: 438 2 9 a
+: 441 4 9 no
+: 446 5 9 ther 
+: 452 15 12 night 
+- 469
+: 494 2 11 We’ll 
+: 497 3 11 be 
+: 501 7 14 ri
+: 509 5 13 ding 
+: 515 16 11 high 
+- 533
+: 621 3 11 We’ll 
+: 625 3 11 be 
+: 629 7 14 ri
+: 637 8 13 ding 
+: 646 17 11 high 
+- 665
+: 761 7 7 Raise 
+: 769 7 4 your 
+: 777 10 4 cup 
+- 789
+: 791 1 4 And 
+: 793 4 4 swa
+: 798 3 4 llow 
+: 802 3 4 the 
+: 806 5 7 poi
+: 812 11 4 son 
+- 825
+: 835 6 4 Pro
+: 842 13 7 pane 
+: 856 4 9 in 
+: 861 7 7 my 
+: 869 16 4 veins 
+- 887
+: 897 8 4 Lap 
+: 906 10 4 up 
+- 917
+: 917 4 4 And 
+: 922 7 4 raise 
+: 930 3 4 your 
+: 934 6 7 voi
+: 941 19 4 ces 
+- 961
+: 961 4 7 Co
+: 966 4 7 min’ 
+: 971 5 9 on 
+: 977 4 7 like 
+: 982 3 7 a 
+: 986 4 6 bu
+: 991 7 6 llet 
+: 999 18 4 train 
+- 1019
+: 1021 3 4 And 
+: 1025 7 4 we 
+: 1033 13 9 ride 
+: 1047 14 7 on 
+- 1063
+: 1079 7 12 Ride 
+: 1087 4 11 the 
+: 1092 21 9 sky 
+- 1115
+: 1161 14 11 Ride 
+: 1176 13 9 on 
+- 1191
+: 1201 5 9 Through 
+: 1207 2 9 a
+: 1210 5 9 no
+: 1216 6 9 ther 
+: 1223 18 12 night 
+- 1243
+: 1263 3 11 We’ll 
+: 1267 3 11 be 
+: 1271 6 14 ri
+: 1278 7 13 ding 
+: 1286 13 11 high 
+- 1301
+: 1390 4 11 We’ll 
+: 1395 3 11 be 
+: 1399 7 14 ri
+: 1407 7 13 ding 
+: 1415 16 11 high 
+- 1433
+: 2417 5 11 And 
+: 2423 3 11 we’re 
+: 2427 5 14 ri
+: 2433 11 13 ding 
+: 2445 10 11 high 
+- 2457
+: 2546 2 11 And 
+: 2549 4 11 we’re 
+: 2554 8 14 ri
+: 2563 9 13 ding 
+: 2573 14 11 high 
+- 2589
+: 2675 3 11 And 
+: 2679 5 11 we’re 
+: 2685 3 14 ri
+: 2689 10 13 ding 
+* 2700 42 11 hi
+* 2743 7 10 i
+* 2751 6 9 igh 
+- 2759
+: 2817 4 5 All 
+: 2822 9 2 right 
+- 2833
+: 2873 7 14 Ri
+: 2881 11 13 ding 
+* 2893 18 17 high 
+E

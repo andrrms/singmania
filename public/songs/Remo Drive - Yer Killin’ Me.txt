@@ -1,0 +1,172 @@
+#ARTIST:Remo Drive
+#TITLE:Yer Killin’ Me
+#MP3:Remo Drive - Yer Killin’ Me.mp3
+#CREATOR:Viktor1234678
+#COVER:Remo Drive - Yer Killin’ Me [CO].jpg
+#BACKGROUND:Remo Drive - Yer Killin’ Me [BG].jpg
+#YEAR:2017
+#LANGUAGE:English
+#BPM:330
+#GAP:15470
+#VIDEO:v=1kaMiIaT-sg,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/c5/c4/11c5c4ef-5104-f593-e0a1-1c502d078000/0045778759804.png/5000x5000bb.jpg
+: 0 3 0 I 
+: 4 4 2 don’t 
+: 12 3 2 wan
+: 16 3 0 na 
+: 20 2 -2 fu
+: 23 3 0 ckin’ 
+: 28 6 2 be 
+: 35 12 5 here 
+: 49 3 5 a
+: 53 4 7 ny
+: 58 12 5 more 
+- 72
+: 84 3 -2 I’m 
+: 88 3 5 lea
+: 92 6 3 ving 
+: 99 4 2 for
+: 104 3 0 e
+: 108 3 -2 ver 
+: 112 2 -2 if 
+: 115 4 0 you 
+: 120 4 5 miss 
+: 125 5 3 me 
+: 131 3 2 what
+: 135 2 0 e
+: 138 3 0 ver 
+- 142
+: 142 4 5 I 
+: 147 6 5 don’t 
+: 154 6 2 care 
+- 162
+: 177 3 -2 I’m 
+: 182 3 2 ti
+: 186 3 2 red 
+: 190 3 2 of 
+: 194 3 3 your 
+: 198 5 2 face 
+: 205 2 -2 and 
+: 208 3 -2 the 
+: 212 4 2 way 
+: 217 4 2 that 
+: 224 3 3 you 
+: 228 4 2 hate 
+: 233 5 0 e
+: 239 4 0 very
+: 244 9 0 thing 
+- 255
+: 275 13 3 You 
+: 291 12 2 make 
+: 306 14 0 me 
+: 322 9 -2 want 
+: 338 11 2 to 
+: 353 10 3 start 
+: 368 6 2 smo
+: 376 4 0 ~
+: 384 7 0 king 
+: 400 10 2 ci
+: 415 10 3 ga
+: 430 7 2 rettes 
+: 444 8 -2 so 
+: 462 9 2 I 
+: 476 10 3 die 
+: 492 5 2 slow
+: 499 4 0 ~
+: 508 8 0 ly 
+- 518
+: 523 12 5 A
+: 539 11 3 ny
+: 555 11 2 thing 
+: 571 9 0 that’s 
+: 585 11 3 bad 
+: 601 7 2 for
+: 609 5 0 ~ 
+: 617 9 0 me 
+: 632 9 -2 yer 
+: 648 10 2 kil
+: 663 10 3 lin’ 
+: 678 9 2 me 
+: 694 9 -2 yer 
+: 710 9 2 kil
+: 726 9 3 lin’ 
+: 741 24 3 me 
+- 767
+: 976 3 -2 I 
+: 981 6 2 don’t 
+: 989 3 2 wan
+: 993 3 0 na 
+: 997 3 -2 fu
+: 1001 3 0 ckin’ 
+: 1005 7 2 hear 
+: 1013 11 5 it 
+: 1028 3 5 a
+: 1032 3 7 ny
+: 1036 9 5 more 
+- 1047
+: 1062 4 -2 I 
+: 1067 4 5 know 
+: 1073 4 3 you’ve 
+: 1078 4 2 got 
+: 1083 4 0 prob
+: 1088 4 -2 lems 
+: 1093 4 0 and 
+: 1098 4 5 we’ve 
+: 1103 4 3 all 
+: 1108 4 2 got 
+: 1114 5 0 prob
+: 1121 6 5 lems 
+: 1129 7 2 too 
+- 1138
+: 1149 2 -2 I’m 
+: 1152 3 0 sick 
+: 1156 2 -2 of 
+: 1160 4 2 be
+: 1165 4 2 ing 
+: 1170 4 3 your 
+: 1176 4 2 shoul
+: 1181 5 -2 ders 
+- 1187
+: 1187 3 -2 You 
+: 1192 3 2 know 
+: 1197 3 2 I 
+: 1202 4 3 need 
+: 1208 5 2 shoul
+: 1215 6 0 ders 
+: 1223 7 0 too 
+- 1232
+: 1254 11 3 You 
+: 1270 10 2 make 
+: 1285 9 0 me 
+: 1300 8 -2 want 
+: 1316 10 2 to 
+: 1332 11 3 start 
+: 1347 7 2 rol
+: 1355 4 0 ~
+: 1363 10 0 ling 
+: 1379 9 2 fat 
+: 1393 10 3 ass 
+: 1409 10 2 blunts 
+: 1424 9 -2 ’til 
+: 1440 10 2 I 
+: 1455 10 3 start 
+: 1471 6 2 cho
+: 1479 4 0 ~
+: 1487 10 0 king 
+- 1499
+: 1502 11 5 A
+: 1518 11 3 ny
+: 1533 11 2 thing 
+: 1549 11 0 that’s 
+: 1564 10 3 bad 
+: 1580 6 2 for
+: 1587 5 0 ~ 
+: 1596 11 0 me 
+: 1610 10 -2 yer 
+: 1625 11 2 kil
+: 1641 10 3 lin’ 
+: 1657 10 2 me 
+: 1673 9 -2 yer 
+: 1689 10 3 kil
+: 1703 5 7 lin’ 
+: 1711 15 7 me 
+E

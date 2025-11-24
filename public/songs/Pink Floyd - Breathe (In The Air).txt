@@ -1,0 +1,155 @@
+#ARTIST:Pink Floyd
+#TITLE:Breathe (In The Air)
+#MP3:Pink Floyd - Breathe (In The Air).mp3
+#CREATOR:mus31
+#COVER:Pink Floyd - Breathe (In The Air) [CO].jpg
+#BACKGROUND:Pink Floyd - Breathe (In The Air) [BG].jpg
+#GENRE:Rock
+#YEAR:1973
+#LANGUAGE:English
+#BPM:300.22
+#GAP:135730
+#VIDEO:v=jcz0YxYl6Ac,co=the-dark-side-of-the-moon-53afcfaa65a86.jpg,bg=pink-floyd-4dea8509aef63.jpg
+#START:44.0
+#END:225000
+: 0 13 4 Brea
+: 14 16 2 the, 
+: 40 6 2 breathe 
+: 47 5 2 in 
+: 53 5 -1 the 
+: 59 5 2 ai
+: 66 9 1 r 
+- 115
+: 162 8 2 Don’t 
+: 171 9 2 be 
+: 181 5 -1 af
+: 187 10 2 raid 
+: 199 5 4 to 
+: 205 4 2 c
+: 210 4 1 a
+: 215 3 -1 r
+: 219 3 -3 e 
+- 242
+: 302 18 2 Leave, 
+: 329 6 -1 but 
+: 336 8 2 don’t 
+: 345 14 4 leave 
+: 360 4 2 m
+: 365 6 1 e 
+- 391
+: 435 5 2 Look 
+: 442 4 -1 a
+: 447 7 2 rou
+: 455 8 -1 nd, 
+: 492 8 2 choose 
+: 501 6 -1 your 
+: 508 6 2 own 
+: 515 15 1 ground 
+- 550
+: 590 5 0 Long 
+: 596 5 2 you 
+: 602 11 0 live 
+: 616 5 -5 and 
+: 622 4 0 high 
+: 627 5 2 you 
+: 633 10 0 fly 
+- 653
+: 662 7 -1 Smiles 
+: 670 6 0 you’ll 
+: 677 8 -1 give 
+: 688 7 -5 and 
+: 696 6 -1 tears 
+: 703 4 0 you’ll 
+: 708 8 -1 cry 
+- 726
+: 739 8 -3 All 
+: 748 4 -1 you 
+: 753 12 0 touch 
+: 766 5 -3 and 
+: 772 4 2 all 
+: 777 5 0 you 
+: 784 8 -3 see 
+- 802
+: 811 4 -5 Is 
+: 816 5 -1 all 
+: 822 6 0 your 
+: 829 10 -1 life 
+: 841 6 -5 will 
+: 848 5 -3 e
+: 854 5 -1 ver 
+: 860 9 -3 be 
+- 879
+* 909 5 4 Ru
+* 915 13 2 n, 
+* 946 5 2 rab
+* 952 7 -1 bit, 
+* 960 4 2 ru
+* 965 14 1 n 
+- 999
+: 1038 8 2 Dig 
+: 1047 5 -1 that 
+: 1053 6 4 ho
+: 1060 15 2 le, 
+: 1083 7 -1 for
+: 1092 7 2 get 
+: 1100 6 2 the 
+: 1107 7 2 s
+: 1115 4 1 u
+: 1120 4 -1 n
+: 1125 5 -3 ~ 
+- 1150
+: 1201 8 2 When, 
+: 1210 7 -1 at 
+: 1218 11 2 last, 
+: 1233 5 -1 the 
+: 1239 6 2 work 
+: 1246 8 4 is 
+: 1257 3 2 do
+: 1261 8 1 ne 
+- 1289
+: 1334 8 2 Don’t 
+: 1343 5 -1 sit 
+: 1349 10 4 down, 
+: 1362 6 -1 it’s 
+: 1369 9 2 time 
+: 1380 5 -1 to 
+: 1386 12 4 dig 
+: 1401 4 2 a
+: 1406 3 1 no
+: 1410 3 -1 ther 
+: 1414 8 1 one 
+- 1442
+: 1483 7 0 Long 
+: 1491 4 2 you 
+: 1496 11 0 live 
+: 1511 4 -5 and 
+: 1516 6 0 high 
+: 1523 3 2 you 
+: 1527 7 0 fly 
+- 1544
+: 1553 5 -5 But 
+: 1559 5 -1 on
+: 1565 5 0 ly 
+: 1571 10 -1 if 
+: 1582 6 0 you 
+: 1589 6 -1 ride 
+: 1596 6 0 the 
+: 1603 6 -1 tide 
+- 1619
+: 1634 6 -3 Bal
+: 1641 5 -1 anced 
+: 1647 8 0 on 
+: 1658 5 -3 the 
+: 1665 6 2 big
+: 1672 5 0 gest 
+: 1678 8 -3 wave 
+- 1698
+: 1702 6 -3 You 
+: 1709 8 -1 race 
+: 1718 4 0 to
+: 1723 14 -1 wards 
+: 1738 3 -5 an 
+: 1742 6 -3 ear
+: 1749 5 -1 ly 
+: 1756 11 -3 grave 
+E

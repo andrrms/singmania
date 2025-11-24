@@ -1,0 +1,210 @@
+#ARTIST:Wilderun
+#TITLE:When The Fire And The Rose Were One
+#MP3:Wilderun - When The Fire And The Rose Were One.mp3
+#CREATOR:Quetzaldo
+#EDITION:UltraSinger
+#COVER:Wilderun - When The Fire And The Rose Were One [CO].jpg
+#BACKGROUND:Wilderun - When The Fire And The Rose Were One [BG].jpg
+#GENRE:Progressive Metal
+#YEAR:2019
+#LANGUAGE:English
+#BPM:390.6
+#GAP:31240
+#VIDEO:a=owTiUBlGLrU,co=veil-of-imagination-5eb09d05a7955.jpg,bg=wilderun-61ffc0c26fa9d.jpg
+: 0 6 0 When 
+: 8 4 2 the 
+: 14 17 4 world 
+: 50 8 4 first 
+: 62 26 8 co
+: 88 6 8 lo
+: 94 5 8 red 
+: 102 2 8 the 
+: 108 20 7 sky 
+- 130
+: 190 3 -1 I 
+: 196 8 4 con
+: 204 30 4 sumed 
+: 236 8 5 e
+: 244 4 5 very 
+: 252 18 8 sense 
+: 274 6 5 with 
+: 284 18 7 no 
+: 306 24 7 ties 
+- 332
+: 384 4 0 I 
+: 390 4 3 was 
+: 398 22 4 not 
+: 432 6 5 in 
+: 440 2 6 the 
+: 446 14 8 field
+: 460 14 10 ~, 
+: 480 6 10 but 
+: 488 4 8 I 
+: 496 16 7 felt 
+: 522 18 1 the 
+: 544 16 -1 air 
+- 562
+: 576 10 -4 Life 
+: 588 6 0 was 
+: 598 13 1 there, 
+: 628 6 0 but 
+: 636 4 -1 it 
+: 644 12 1 was 
+: 660 32 2 not 
+* 712 68 4 mine 
+- 782
+: 1542 6 10 The 
+: 1552 22 10 fi
+: 1574 22 10 re 
+: 1602 20 7 burned, 
+: 1640 4 1 there 
+: 1648 18 7 was 
+: 1672 17 4 no 
+: 1696 18 4 pain 
+- 1716
+: 1748 8 4 On
+: 1756 6 4 ly 
+: 1764 8 -3 a 
+: 1784 8 2 re
+: 1792 12 0 min
+: 1804 8 0 der 
+: 1824 4 -4 of 
+: 1832 4 -5 the 
+: 1842 15 -5 claim 
+- 1859
+: 1910 8 0 That 
+: 1920 6 10 e
+: 1926 10 10 very
+: 1936 24 10 thing 
+: 1964 18 7 I 
+: 1986 18 7 touched 
+: 2014 14 7 was 
+: 2044 20 5 tru
+: 2064 10 5 ly 
+: 2078 16 4 there 
+- 2096
+: 2116 4 3 I 
+: 2124 8 4 nee
+: 2132 6 4 ded 
+: 2142 16 2 not 
+: 2166 4 0 a 
+* 2174 12 -1 fu
+* 2186 10 0 ture 
+: 2214 4 -3 or 
+: 2220 4 0 a 
+: 2228 16 0 name 
+- 2246
+: 2400 6 -2 As 
+: 2408 2 2 the 
+: 2414 34 4 sto
+: 2448 4 4 ry 
+: 2456 2 7 of 
+: 2462 22 7 time 
+: 2490 10 8 quick
+: 2500 8 8 ened 
+: 2513 19 7 pace 
+- 2534
+: 2598 10 4 Il
+: 2608 10 4 lu
+: 2618 14 4 sions 
+: 2642 4 5 of 
+: 2648 5 7 my
+: 2653 15 8 self 
+: 2677 11 10 left 
+: 2693 12 7 their 
+: 2710 15 7 trace 
+- 2727
+: 2776 6 -1 I 
+: 2784 8 2 had 
+: 2796 26 5 en
+: 2822 6 5 tered 
+: 2832 2 7 the 
+* 2840 15 8 tale 
+: 2868 12 8 I 
+: 2884 18 3 could 
+: 2908 8 0 not 
+: 2930 14 0 see 
+- 2946
+: 2980 32 1 There 
+: 3020 20 1 was 
+: 3048 10 2 so 
+: 3066 46 4 much 
+: 3150 32 1 for 
+: 3192 18 1 so
+: 3210 14 2 ~ 
+: 3236 48 4 long 
+- 3286
+: 3320 20 14 See
+: 3340 20 14 king 
+* 3368 16 14 a
+* 3384 25 14 ny
+* 3410 64 16 more 
+: 3488 4 9 is 
+: 3494 8 10 be
+: 3502 12 12 gin
+: 3514 10 13 ning 
+: 3528 8 13 to 
+: 3542 12 13 feel 
+: 3558 10 15 wrong
+: 3568 14 14 ~
+: 3582 34 15 ~ 
+- 3618
+: 10932 24 10 Is 
+: 10964 14 9 all 
+: 10986 16 9 still 
+: 11052 32 7 tru
+: 11084 12 7 ly 
+: 11105 19 6 here? 
+- 11126
+: 11162 12 6 Re
+: 11174 9 6 lease 
+: 11188 6 3 me 
+: 11202 6 -3 from 
+: 11216 11 4 my 
+: 11232 11 4 fu
+: 11243 17 2 ture 
+: 11276 10 2 and 
+* 11290 15 2 name 
+- 11307
+: 15487 2 -6 And 
+: 15492 4 -5 all 
+: 15500 3 -6 shall 
+: 15504 3 -7 be 
+: 15509 4 -8 well 
+- 15515
+: 15576 3 -8 And 
+: 15583 4 -7 all 
+: 15589 5 -6 man
+: 15594 5 -6 ner 
+: 15600 1 -10 of 
+: 15605 4 -6 thing 
+: 15618 4 -9 shall 
+: 15624 3 -9 be 
+: 15629 3 -13 well 
+- 15634
+: 15696 2 -4 When 
+: 15700 1 -5 the 
+: 15704 8 -3 tongues 
+: 15714 2 -6 of 
+: 15719 7 -6 flames 
+: 15728 3 -8 are 
+: 15733 3 -9 in-
+: 15736 4 -7 fol
+: 15740 3 -9 ded 
+- 15745
+: 15760 5 -6 Into 
+: 15766 1 -5 the 
+: 15771 6 -5 crowned 
+: 15778 6 -5 knot 
+: 15786 2 -12 of 
+: 15792 5 -12 fire 
+- 15799
+: 15874 2 -10 And 
+: 15877 2 -12 the 
+: 15881 4 -9 fire 
+: 15890 2 -10 and 
+: 15893 2 -8 the 
+: 15897 3 -8 rose 
+: 15924 3 -9 are 
+: 15931 3 0 one 
+E

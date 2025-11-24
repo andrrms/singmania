@@ -1,0 +1,146 @@
+#ARTIST:Slayer
+#TITLE:Raining Blood
+#MP3:Slayer - Raining Blood.mp3
+#CREATOR:znxineohp
+#YEAR:1986
+#LANGUAGE:English
+#BPM:356
+#GAP:82010
+#VIDEO:a=Gy3BOmvLf2w,co=reign-in-blood-5cd6b8589ed2e.jpg,bg=slayer-56dc0a7fe8a38.jpg
+: 0 7 -9 Trapped 
+: 8 5 -9 in 
+: 14 3 -6 pur
+: 18 3 -6 ga
+: 22 3 -4 tor
+: 26 12 -6 y 
+- 40
+: 48 3 -6 A 
+: 52 3 -6 life
+: 56 6 -9 less 
+: 64 5 -9 ob
+: 70 3 -9 ject 
+: 74 3 -9 a
+: 78 18 -9 live 
+- 98
+: 104 3 -9 A
+: 108 3 -9 wait
+: 112 3 -9 ing 
+: 116 3 -9 re
+: 120 3 -9 pri
+: 124 12 -9 sal 
+- 138
+: 156 3 -6 Death 
+: 160 3 -9 will 
+: 164 3 -9 be 
+: 168 3 -9 their 
+: 172 3 -9 ac
+: 176 3 -6 quit
+: 180 12 -9 tance 
+- 194
+: 210 7 -9 Sky 
+: 218 5 -9 is 
+: 224 3 -6 turn
+: 228 1 -6 ing 
+: 230 16 -4 red, 
+- 248
+: 256 5 -7 Re
+: 262 3 -7 turn 
+: 266 5 -7 to 
+: 272 5 -6 pow
+: 278 3 -9 er 
+: 282 5 -9 draws 
+: 288 12 -7 near 
+- 302
+: 314 5 -7 Fall 
+: 320 1 -7 in
+: 322 3 -7 to 
+: 326 5 -7 me, 
+: 332 5 -9 the 
+: 338 7 -9 sky’s 
+: 346 3 -7 crim
+: 350 3 -7 son 
+: 354 7 -7 tears 
+- 362
+: 362 3 -7 A
+: 366 5 -6 bol
+: 372 1 -9 ish 
+: 374 3 -6 the 
+: 378 5 -7 rules 
+: 384 1 -9 made 
+: 386 3 -9 of 
+: 390 20 -6 stone 
+- 412
+: 664 5 -6 Pierced 
+: 670 1 -9 from 
+: 672 3 -8 be
+: 676 10 -9 low, 
+- 688
+: 690 7 -9 Souls 
+: 698 3 -9 of 
+: 702 3 -9 my 
+: 706 3 -9 treach
+: 710 7 -9 erous 
+: 718 12 -9 past 
+- 732
+: 784 3 -6 Be
+: 788 3 -9 tray
+: 792 1 -9 ed 
+: 794 5 -8 by 
+: 800 8 -9 many 
+- 809
+: 810 7 -9 Now 
+: 818 3 -6 or
+: 822 3 -8 na
+: 826 3 -9 ments 
+: 830 7 -4 drip
+: 838 3 -6 ping 
+* 842 3 -6 a
+* 846 20 -6 bove 
+- 868
+: 1048 5 -9 A
+: 1054 3 -6 wait
+: 1058 7 -9 ing 
+: 1066 3 -9 the 
+: 1070 7 -9 hour 
+: 1078 3 -9 of 
+: 1082 3 -9 re
+: 1086 7 -7 pri
+: 1094 8 -10 sal 
+- 1104
+: 1106 7 -9 Your 
+: 1114 13 -6 time 
+: 1128 12 -7 slips 
+: 1146 15 -10 a
+: 1162 40 -9 way 
+- 1204
+* 1812 7 -2 Rain
+* 1820 5 -3 ing 
+* 1826 46 -2 blood 
+: 1878 7 -6 from 
+: 1886 3 -6 a 
+: 1890 3 -6 la
+: 1894 3 -7 cer
+: 1898 1 -7 at
+: 1900 1 -9 ed 
+: 1902 24 -7 sky 
+- 1928
+: 1932 9 -7 Bleed
+: 1942 3 -7 ing 
+: 1946 5 -7 its 
+: 1952 5 -7 horr
+: 1958 14 -9 or 
+- 1974
+: 2000 5 -6 Creat
+: 2006 3 -7 ing 
+: 2010 3 -7 my 
+: 2014 7 -7 struc
+: 2022 10 -7 ture 
+- 2033
+: 2034 9 -9 Now 
+: 2044 5 -7 I 
+: 2050 7 -7 shall 
+: 2058 5 -9 reign 
+: 2064 3 -5 in 
+* 2068 3 -5 bl
+* 2072 18 -4 ood! 
+E

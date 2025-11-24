@@ -1,0 +1,277 @@
+#ARTIST:Rasmussen
+#TITLE:Higher Ground (Acoustic Version) (ESC 2018 Denmark)
+#MP3:Rasmussen - Higher Ground (Acoustic Version) (ESC 2018 Denmark).mp3
+#CREATOR:Baumi3004
+#EDITION:Eurovision Song Contest 2018
+#YEAR:2018
+#LANGUAGE:English
+#BPM:320
+#GAP:2910
+#VIDEO:v=G1fT1wZhR_0,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/ca/c0/82cac026-cc67-bb12-f773-b71d07cfebea/7325870005539.jpg/5000x5000bb.jpg
+: 0 11 6 Ships 
+: 12 12 6 in 
+- 26
+: 38 8 4 The 
+: 48 9 6 mak
+: 58 8 6 ing 
+- 68
+: 92 10 6 Bound 
+: 104 12 6 for 
+: 118 3 6 a 
+: 122 7 8 dis
+: 130 7 4 tant 
+: 138 26 6 shore 
+- 166
+: 182 3 6 A 
+: 186 10 6 world 
+: 198 24 6 for 
+: 226 4 4 the 
+* 232 15 6 tak
+: 248 12 6 ing 
+- 262
+: 278 12 6 Men 
+: 292 8 6 gone 
+: 302 7 6 for
+: 310 7 8 ev
+: 318 5 9 er 
+: 324 14 9 more 
+- 340
+: 374 11 9 Boar
+: 386 9 9 ding 
+: 396 5 9 and 
+: 402 9 11 sett
+: 412 4 13 ing 
+: 420 28 13 sail 
+- 450
+: 458 6 9 Yet 
+: 466 9 11 vic
+: 476 11 11 to
+: 488 7 13 ry 
+: 496 7 9 won’t 
+: 504 7 8 pre
+: 512 22 6 vail 
+- 536
+* 584 7 6 Oh
+* 592 7 9 oh
+* 600 5 11 oh! 
+: 606 7 13 Freeze 
+: 614 5 13 the 
+: 620 9 13 arr
+: 630 7 9 ow 
+: 638 7 11 in 
+: 646 7 13 the 
+: 654 22 9 air 
+- 678
+: 684 7 9 Make 
+: 692 7 11 your 
+: 700 8 13 mark 
+: 710 4 13 and 
+: 716 5 13 leave 
+: 722 7 9 it 
+: 730 8 16 hang
+: 740 5 13 ing 
+: 746 38 11 there 
+- 786
+: 796 5 14 Be 
+: 802 1 14 the 
+: 804 12 14 first 
+: 818 6 14 to 
+: 826 7 13 turn 
+: 834 5 9 ar
+: 840 22 11 ound 
+- 864
+: 872 8 11 Take 
+: 882 5 11 the 
+: 888 7 11 leap 
+: 896 3 11 to 
+: 900 9 11 land 
+: 910 7 11 on 
+: 918 7 9 High
+: 926 7 8 er 
+: 934 32 6 Ground 
+- 968
+: 1172 9 6 Call 
+: 1182 14 6 it 
+- 1198
+: 1210 7 4 Sur
+: 1218 9 6 ren
+: 1228 6 6 der 
+- 1236
+: 1260 10 6 Still 
+: 1274 10 6 won’t 
+: 1286 7 6 feel 
+: 1294 7 8 like 
+: 1302 5 9 de
+: 1308 24 9 feat 
+- 1334
+: 1356 9 9 Men 
+: 1366 7 9 lay
+: 1374 10 9 ing 
+: 1388 7 11 down 
+: 1396 5 16 their 
+: 1402 34 13 swords 
+- 1438
+: 1448 13 11 Each 
+: 1462 11 11 of 
+: 1474 5 13 their 
+: 1480 7 9 own 
+: 1488 7 8 acc
+: 1496 22 6 ord 
+- 1520
+: 1542 9 13 Freeze 
+: 1552 5 13 the 
+: 1558 6 13 arr
+: 1566 7 9 ow 
+: 1574 7 11 in 
+: 1582 7 13 the 
+: 1590 24 9 air 
+- 1616
+: 1622 5 9 Make 
+: 1628 7 11 your 
+: 1636 8 13 mark 
+: 1646 3 13 and 
+: 1650 8 13 leave 
+: 1660 7 9 it 
+: 1668 7 16 hang
+: 1676 7 13 ing 
+: 1684 28 11 there 
+- 1714
+: 1732 6 14 Be 
+: 1740 3 14 the 
+: 1744 9 14 first 
+: 1754 7 14 to 
+: 1762 6 13 turn 
+: 1770 7 9 ar
+: 1778 22 11 ound 
+- 1802
+: 1808 7 11 Take 
+: 1816 5 11 the 
+: 1822 9 11 leap 
+: 1832 4 11 to 
+: 1838 10 11 land 
+: 1850 4 11 on 
+: 1856 7 9 High
+: 1864 5 8 er 
+: 1870 30 6 Ground 
+- 1902
+: 1918 7 13 Raise 
+: 1926 3 13 the 
+: 1930 11 13 ban
+: 1942 5 9 ner 
+: 1948 7 11 to 
+: 1956 9 13 the 
+* 1966 16 9 sky 
+- 1984
+: 1996 7 9 Face 
+: 2004 6 11 the 
+: 2012 7 13 fear 
+: 2020 4 13 and 
+: 2026 7 13 hold 
+: 2034 7 9 your 
+: 2042 7 16 head 
+: 2050 7 13 up 
+: 2058 8 11 high 
+- 2068
+: 2090 7 11 O 
+: 2098 7 13 o 
+: 2106 29 14 o 
+: 2136 7 13 o 
+: 2144 7 9 o 
+: 2152 24 11 o 
+: 2184 7 14 o 
+: 2192 7 16 o 
+: 2200 23 18 o 
+: 2224 5 14 o 
+* 2230 8 21 o 
+* 2240 3 20 o 
+: 2244 3 18 o 
+: 2248 18 16 o 
+- 2268
+: 2278 7 4 Take 
+: 2286 6 6 the 
+: 2294 19 7 leap 
+: 2314 7 7 like 
+: 2322 7 6 you 
+: 2330 8 2 were 
+: 2340 8 4 bound 
+- 2350
+: 2360 8 4 For 
+: 2370 9 2 High
+: 2380 49 6 er 
+: 2430 44 4 Ground 
+- 2476
+: 2666 7 13 Freeze 
+: 2674 6 13 the 
+: 2682 7 13 arr
+: 2690 8 9 ow 
+: 2700 4 11 in 
+: 2706 8 13 the 
+: 2716 20 9 air 
+- 2738
+: 2746 5 9 Make 
+: 2752 6 11 your 
+: 2760 7 13 mark 
+: 2768 4 13 and 
+: 2774 10 13 leave 
+: 2786 5 9 it 
+: 2792 7 16 hang 
+: 2800 7 13 ing 
+* 2808 28 11 there 
+- 2838
+: 2854 7 16 Freeze 
+: 2862 4 16 the 
+: 2868 7 16 arr
+: 2876 9 12 ow 
+: 2886 7 14 in 
+: 2894 5 16 the 
+: 2900 22 12 air 
+- 2924
+: 2932 6 12 Make 
+: 2940 5 14 your 
+: 2946 9 16 mark 
+: 2956 3 16 and 
+: 2960 10 16 leave 
+: 2972 4 12 it 
+: 2978 9 19 hang
+: 2988 5 16 ing 
+: 2994 22 14 there 
+- 3018
+: 3042 7 17 Be 
+: 3050 3 17 the 
+: 3054 9 17 first 
+: 3064 7 17 to 
+: 3072 9 16 turn 
+: 3082 5 12 ar
+: 3088 22 14 ound 
+- 3112
+: 3122 5 14 Take 
+: 3128 6 14 the 
+: 3136 7 14 leap 
+: 3144 3 14 to 
+: 3148 10 14 land 
+: 3160 5 14 on 
+: 3166 7 16 High
+: 3174 5 18 er 
+: 3180 40 21 Ground 
+- 3222
+* 3230 40 24 Yeaa 
+: 3276 60 19 Yea 
+- 3338
+: 3370 7 17 Be 
+: 3378 3 17 the 
+: 3382 9 17 first 
+: 3392 8 17 to 
+: 3402 5 16 turn 
+: 3408 7 12 ar
+: 3416 24 14 ound 
+- 3442
+: 3448 7 14 Take 
+: 3456 5 14 the 
+: 3462 7 14 leap 
+: 3470 4 14 and 
+: 3476 9 14 land 
+: 3486 7 14 on 
+: 3494 7 16 High
+: 3502 3 18 er 
+: 3506 46 21 Ground 
+E

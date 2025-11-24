@@ -1,0 +1,1172 @@
+#ARTIST:Eminem
+#TITLE:Lose Yourself
+#MP3:Eminem - Lose Yourself.mp3
+#CREATOR:don_riddle
+#GENRE:Rap
+#YEAR:2002
+#LANGUAGE:English
+#BPM:341.85
+#GAP:34390
+#VIDEO:v=7YuAzR2XVAM,co=lose-yourself-5cf16d5eaeaca.jpg,co-crop=32-61-935-876,co-resize=876-876,bg=eminem-5e80e3fc39802.jpg
+F 0 3 0 Look 
+- 5
+F 61 2 0 If 
+F 65 2 0 you 
+F 68 5 0 had 
+- 75
+F 111 2 0 One 
+F 118 4 0 shot 
+- 124
+F 158 1 0 Or 
+F 160 2 0 one 
+F 163 3 0 op
+F 167 2 0 por
+F 171 3 0 tu
+F 175 2 0 ni
+F 178 2 0 ty 
+- 182
+F 218 2 0 To 
+F 222 2 0 seize 
+F 226 2 0 eve
+F 229 1 0 ry
+F 232 2 0 thing 
+F 235 3 0 you 
+F 239 2 0 e
+F 242 2 0 ver 
+F 246 3 0 wan
+F 251 1 0 ted 
+- 254
+F 280 1 0 In 
+F 283 2 0 one 
+F 287 4 0 mo
+F 292 2 0 ment 
+- 296
+F 335 1 0 Would 
+F 337 2 0 you 
+F 341 3 0 cap
+F 348 1 0 ture 
+F 351 1 0 it 
+- 354
+F 382 1 0 Or 
+F 384 2 0 just 
+F 387 3 0 let 
+F 391 1 0 it 
+F 395 3 0 slip? 
+- 400
+G 414 4 0 Yo 
+- 420
+R 441 3 0 His 
+R 446 6 0 palms 
+R 454 3 0 are 
+R 459 2 0 swea
+R 462 2 0 ty 
+- 466
+R 472 3 0 Knees 
+R 479 2 0 weak, 
+R 485 5 0 arms 
+R 493 2 0 are 
+R 497 3 0 hea
+R 502 1 0 vy 
+- 504
+R 506 2 0 There’s 
+R 510 4 0 vo
+R 515 2 0 mit 
+R 518 2 0 on 
+R 522 3 0 his 
+R 526 3 0 swea
+R 530 1 0 ter 
+R 532 4 0 al
+R 538 3 0 rea
+R 542 1 0 dy 
+- 545
+R 550 4 0 Mom’s 
+R 558 2 0 spa
+R 562 3 0 ghet
+R 566 2 0 ti 
+- 569
+R 570 3 0 He’s 
+R 574 4 0 ner
+R 580 1 0 vous 
+- 583
+R 589 1 0 But 
+R 591 2 0 on 
+R 594 2 0 the 
+R 598 3 0 sur
+R 602 2 0 face 
+R 606 2 0 he 
+R 609 2 0 looks 
+R 614 5 0 calm 
+R 621 4 0 and 
+R 627 2 0 rea
+R 630 2 0 dy 
+- 633
+R 634 2 0 To 
+R 638 4 0 drop 
+R 646 7 0 bombs 
+- 655
+R 662 2 0 But 
+R 666 2 0 he 
+R 670 6 0 keeps 
+R 678 3 0 on 
+R 686 3 0 for
+R 690 2 0 get
+R 694 2 0 ting 
+- 697
+R 698 2 0 What 
+R 702 2 0 he 
+R 706 4 0 wrote 
+R 714 5 0 down 
+- 720
+R 722 2 0 The 
+R 725 4 0 whole 
+R 733 6 0 crowd 
+R 741 5 0 goes 
+R 749 2 0 so 
+R 753 5 0 loud 
+- 760
+R 762 2 0 He 
+R 766 2 0 o
+R 772 3 0 pens 
+R 777 2 0 his 
+R 782 4 0 mouth 
+- 787
+R 789 2 0 But 
+R 793 2 0 the 
+R 797 6 0 words 
+R 805 3 0 won’t 
+R 812 3 0 come 
+R 818 3 0 out 
+- 823
+R 826 3 0 He’s 
+R 831 4 0 cho
+R 837 3 0 king, 
+R 842 5 0 how? 
+- 849
+R 854 2 0 Eve
+R 858 2 0 ry
+R 861 2 0 bo
+R 864 3 0 dy’s 
+R 870 4 0 jo
+R 876 2 0 king 
+R 881 3 0 now 
+- 886
+R 890 2 0 The 
+R 893 5 0 clock’s 
+R 901 3 0 run 
+R 905 4 0 out 
+- 911
+R 917 6 0 Time’s 
+R 925 4 0 up, 
+R 933 3 0 o
+R 937 5 0 ver, 
+R 945 4 0 blaow! 
+- 951
+R 956 4 0 Snap 
+R 964 6 0 back 
+R 972 3 0 to 
+R 976 3 0 re
+R 980 4 0 a
+R 986 1 0 li
+R 988 2 0 ty 
+- 991
+R 993 5 0 Ope 
+R 1001 3 0 there 
+R 1005 3 0 goes 
+R 1011 5 0 gra
+R 1018 1 0 vi
+R 1020 3 0 ty, 
+R 1026 2 0 ope 
+- 1030
+R 1033 2 0 There 
+R 1037 3 0 goes 
+R 1044 3 0 Rab
+R 1049 1 0 bit, 
+R 1051 3 0 he 
+R 1057 3 0 choked 
+- 1062
+R 1065 3 0 He’s 
+R 1069 4 0 so 
+R 1075 3 0 mad 
+R 1082 1 0 but 
+R 1084 2 0 he 
+R 1088 3 0 won’t 
+- 1093
+R 1097 3 0 Give 
+R 1101 3 0 up 
+R 1107 4 0 that 
+R 1113 2 0 ea
+R 1117 2 0 sy? 
+R 1121 2 0 No 
+- 1125
+R 1129 2 0 He 
+R 1133 3 0 won’t 
+R 1139 4 0 have 
+R 1145 1 0 it, 
+R 1147 4 0 he 
+R 1152 5 0 knows 
+- 1159
+R 1161 2 0 His 
+R 1165 4 0 whole 
+R 1171 5 0 back’s 
+R 1178 1 0 to 
+R 1180 3 0 these 
+R 1184 4 0 ropes 
+- 1190
+R 1194 2 0 It 
+R 1197 5 0 don’t 
+R 1203 4 0 mat
+R 1208 2 0 ter, 
+R 1211 4 0 he’s 
+R 1216 3 0 dope 
+- 1221
+R 1226 1 0 He 
+R 1228 4 0 knows 
+R 1235 4 0 that 
+R 1242 1 0 but 
+R 1244 2 0 he’s 
+R 1248 3 0 broke 
+- 1253
+R 1257 2 0 He’s 
+R 1261 4 0 so 
+R 1267 4 0 stag
+R 1273 2 0 nant, 
+R 1276 3 0 he 
+R 1280 5 0 knows 
+- 1286
+R 1287 1 0 When 
+R 1289 1 0 he 
+R 1291 5 0 goes 
+R 1299 4 0 back 
+R 1305 1 0 to 
+R 1307 4 0 this 
+R 1312 4 0 mo
+R 1319 3 0 bile 
+R 1323 6 0 home 
+- 1330
+R 1331 5 0 That’s 
+R 1338 3 0 when 
+R 1342 2 0 it’s 
+- 1346
+R 1348 5 0 Back 
+R 1356 2 0 to 
+R 1360 2 0 the 
+R 1363 3 0 lab 
+R 1368 2 0 a
+R 1371 3 0 gain 
+R 1376 4 0 yo, 
+R 1384 2 0 this 
+R 1388 4 0 old 
+R 1395 4 0 rap 
+R 1402 1 0 shit, 
+R 1404 2 0 he 
+- 1407
+R 1408 2 0 Bet
+R 1411 2 0 ter 
+R 1414 4 0 go 
+R 1419 4 0 cap
+R 1425 2 0 ture 
+R 1428 2 0 this 
+R 1432 4 0 mo
+R 1437 1 0 ment 
+R 1439 2 0 and 
+R 1442 4 0 hope 
+R 1448 2 0 it 
+R 1451 3 0 don’t 
+- 1456
+* 1459 2 5 You 
+* 1463 2 2 bet
+* 1467 2 2 ter 
+* 1472 6 9 lose 
+: 1479 3 2 your
+: 1483 6 5 self 
+: 1491 2 2 in 
+: 1495 2 2 the 
+: 1499 6 5 mu
+: 1507 2 2 sic 
+- 1510
+: 1511 3 2 The 
+: 1515 7 5 mo
+: 1523 2 2 ment, 
+: 1527 3 2 you 
+: 1531 6 5 own 
+: 1539 2 2 it 
+- 1542
+: 1543 3 2 You 
+: 1547 3 2 bet
+: 1551 3 2 ter 
+: 1555 3 5 ne
+: 1559 3 5 ver 
+: 1563 2 2 let 
+: 1567 2 2 it 
+: 1571 3 5 go, 
+: 1578 3 5 go! 
+- 1582
+: 1584 2 2 You 
+: 1587 3 5 on
+: 1591 3 2 ly 
+: 1595 2 2 get 
+: 1600 3 5 one 
+: 1607 5 5 shot 
+- 1613
+: 1615 3 2 Do 
+: 1619 5 5 not 
+: 1626 3 2 miss 
+: 1631 2 2 your 
+: 1635 5 5 chance 
+: 1642 3 2 to 
+: 1647 5 5 blow 
+- 1653
+: 1655 2 2 This 
+: 1658 4 2 op
+: 1663 2 2 por
+: 1666 4 5 tu
+: 1671 2 2 ni
+: 1674 3 2 ty 
+: 1679 6 2 comes 
+: 1687 4 5 once 
+: 1692 2 2 in 
+: 1695 2 2 a 
+: 1699 4 5 life
+: 1706 3 2 ti
+: 1710 2 0 ~me 
+- 1713
+: 1715 3 5 You 
+: 1719 2 2 bet
+: 1722 3 1 ter 
+: 1727 7 9 lose 
+: 1735 2 2 your
+: 1738 5 5 self 
+: 1746 3 2 in 
+: 1750 2 2 the 
+: 1754 5 5 mu
+: 1762 3 2 sic 
+- 1766
+: 1766 3 2 The 
+: 1770 7 5 mo
+: 1778 4 2 ment, 
+: 1783 2 2 you 
+: 1786 6 5 own 
+: 1793 3 0 it 
+- 1797
+: 1799 3 2 You 
+: 1803 3 2 bet
+: 1807 2 2 ter 
+: 1810 3 5 ne
+: 1814 3 5 ver 
+: 1818 2 2 let 
+: 1821 2 2 it 
+: 1826 4 5 go, 
+: 1834 4 5 go! 
+- 1839
+: 1839 2 2 You 
+: 1842 4 5 on
+: 1847 2 2 ly 
+: 1850 3 2 get 
+: 1855 3 5 one 
+: 1863 5 5 shot 
+- 1869
+: 1871 2 2 Do 
+: 1874 3 5 not 
+: 1882 2 2 miss 
+: 1886 2 2 your 
+: 1890 6 5 chance 
+: 1898 2 2 to 
+: 1902 5 5 blow 
+- 1909
+: 1911 1 2 This 
+: 1913 4 2 op
+: 1918 2 2 por
+: 1921 4 5 tu
+: 1926 2 2 ni
+: 1929 3 2 ty 
+: 1934 6 2 comes 
+: 1942 4 5 once 
+: 1947 2 2 in 
+: 1950 2 2 a 
+: 1954 4 5 life
+: 1961 3 2 ti
+: 1965 2 0 ~me 
+- 1968
+: 1970 2 5 You 
+: 1974 2 2 bet
+: 1977 1 2 ter, 
+G 1979 1 0 his 
+G 1982 6 0 soul’s 
+R 1989 2 0 es
+R 1994 3 0 ca
+R 2000 3 0 ping 
+- 2005
+R 2011 1 0 Through 
+R 2014 2 0 this 
+R 2018 5 0 hole 
+R 2026 1 0 that 
+R 2028 3 0 is 
+R 2034 5 0 ga
+R 2040 3 0 ping 
+- 2045
+R 2051 2 0 This 
+R 2056 5 0 world 
+R 2062 2 0 is 
+R 2066 5 0 mine 
+R 2073 3 0 for 
+R 2077 2 0 the 
+R 2081 5 0 ta
+R 2088 3 0 king 
+- 2093
+R 2098 4 0 Make 
+R 2104 4 0 me 
+R 2109 6 0 king 
+- 2117
+R 2121 3 0 As 
+R 2126 3 0 we 
+R 2130 4 0 move 
+R 2136 5 0 to
+R 2142 1 0 ward 
+R 2144 2 0 a 
+R 2150 2 0 New 
+R 2154 4 0 World 
+R 2160 7 0 Or
+R 2168 2 0 der 
+- 2172
+R 2174 1 0 A 
+R 2176 7 0 nor
+R 2184 3 0 mal 
+R 2190 5 0 life 
+R 2197 2 0 is 
+R 2201 5 0 bo
+R 2208 3 0 ring, 
+R 2214 2 0 but 
+R 2217 3 0 su
+R 2221 3 0 per
+R 2225 6 0 star
+R 2232 4 0 dom’s 
+- 2237
+R 2237 5 0 Close 
+R 2245 2 0 to 
+R 2248 6 0 post-
+R 2256 6 0 mor
+R 2264 2 0 tem 
+R 2269 1 0 it 
+R 2271 5 0 on
+R 2277 2 0 ly 
+R 2281 5 0 grows 
+R 2289 5 0 har
+R 2296 2 0 der 
+- 2300
+R 2303 4 0 Ho
+R 2309 2 0 mie 
+R 2313 5 0 grows 
+R 2321 4 0 hot
+R 2326 1 0 ter, 
+R 2328 3 0 he 
+R 2334 6 0 blows, 
+R 2341 2 0 it’s 
+R 2344 6 0 all 
+R 2352 4 0 o
+R 2358 1 0 ver 
+- 2360
+R 2360 4 0 These 
+R 2365 6 0 hoes 
+R 2373 2 0 is 
+R 2376 6 0 all 
+R 2384 5 0 on 
+R 2390 3 0 him 
+- 2395
+R 2399 4 0 Coast-
+R 2405 1 0 to-
+R 2407 7 0 coast 
+R 2416 7 0 shows 
+- 2424
+R 2424 3 0 He’s 
+R 2429 5 0 known 
+R 2435 1 0 as 
+R 2437 2 0 the 
+R 2440 6 0 Globe
+R 2447 6 0 trot
+R 2455 2 0 ter, 
+R 2463 5 0 lone
+R 2469 2 0 ly 
+R 2472 6 0 roads 
+- 2479
+R 2480 4 0 God 
+R 2485 3 0 on
+R 2489 2 0 ly 
+R 2493 6 0 knows 
+- 2500
+R 2500 3 0 He’s 
+R 2504 6 0 grown 
+R 2512 3 0 far
+R 2517 2 0 ther 
+R 2520 3 0 from 
+R 2525 6 0 home, 
+R 2532 3 0 he’s 
+R 2536 5 0 no 
+R 2543 6 0 fa
+R 2550 2 0 ther 
+- 2554
+R 2558 1 0 He 
+R 2560 5 0 goes 
+R 2568 6 0 home 
+R 2576 3 0 and 
+R 2580 3 0 bare
+R 2585 2 0 ly 
+R 2588 6 0 knows 
+- 2595
+R 2596 3 0 His 
+R 2600 6 0 own 
+R 2607 4 0 daugh
+R 2614 2 0 ter 
+- 2618
+R 2621 2 0 But 
+R 2624 4 0 hold 
+R 2629 2 0 your 
+R 2632 5 0 nose, 
+R 2640 3 0 ’cause 
+R 2645 5 0 here 
+- 2651
+R 2651 7 0 Goes 
+R 2659 2 0 the 
+R 2663 6 0 cold 
+R 2671 5 0 wa
+R 2677 3 0 ter 
+- 2682
+R 2685 3 0 These 
+R 2689 5 0 hoes 
+R 2695 7 0 don’t 
+R 2703 3 0 want 
+R 2707 3 0 him 
+R 2711 4 0 no 
+R 2716 4 0 mo’ 
+- 2722
+R 2724 3 0 He’s 
+R 2728 6 0 cold 
+R 2735 5 0 pro
+R 2741 2 0 duct 
+- 2745
+R 2749 2 0 They 
+R 2752 5 0 moved 
+R 2759 5 0 on 
+R 2765 2 0 to 
+R 2768 3 0 the 
+R 2773 5 0 next 
+R 2781 5 0 schmoe 
+R 2787 3 0 who 
+R 2791 7 0 flows 
+- 2799
+R 2800 3 0 He 
+R 2804 6 0 nose-
+R 2812 7 0 dove 
+R 2820 3 0 and 
+R 2824 5 0 sold 
+R 2831 4 0 na
+R 2836 2 0 da 
+- 2840
+R 2842 2 0 And 
+R 2846 3 0 so 
+R 2851 3 0 the 
+R 2855 5 0 soap 
+R 2861 6 0 o
+R 2869 1 0 pe
+R 2871 1 0 ra 
+- 2873
+R 2873 2 0 Is 
+R 2876 6 0 told, 
+R 2884 2 0 it 
+R 2887 5 0 un
+R 2894 5 0 folds, 
+R 2900 3 0 I 
+R 2904 3 0 sup
+R 2908 6 0 pose 
+R 2915 3 0 it’s 
+R 2919 5 0 old, 
+R 2926 5 0 part
+R 2932 2 0 ner 
+- 2935
+R 2935 3 0 But 
+R 2940 2 0 the 
+R 2943 6 0 beat 
+R 2950 6 0 goes 
+R 2957 5 0 on: 
+G 2964 3 0 da 
+G 2968 3 0 da 
+G 2972 5 0 dum 
+G 2979 2 0 da 
+G 2982 4 0 dum 
+- 2988
+* 2990 2 5 You 
+* 2994 2 2 bet
+* 2998 2 2 ter 
+* 3003 6 9 lose 
+: 3010 3 2 your
+: 3014 6 5 self 
+: 3022 2 2 in 
+: 3026 2 2 the 
+: 3030 6 5 mu
+: 3038 2 2 sic 
+- 3041
+: 3043 2 2 The 
+: 3046 7 5 mo
+: 3054 3 2 ment, 
+: 3058 3 2 you 
+: 3062 7 5 own 
+: 3070 3 2 it 
+- 3074
+: 3074 2 2 You 
+: 3078 3 2 bet
+: 3082 2 2 ter 
+: 3086 3 5 ne
+: 3090 3 5 ver 
+: 3094 2 2 let 
+: 3098 2 2 it 
+: 3102 3 5 go, 
+: 3110 3 5 go! 
+- 3114
+: 3115 2 2 You 
+: 3118 3 5 on
+: 3122 3 2 ly 
+: 3126 3 2 get 
+: 3131 3 5 one 
+: 3138 5 5 shot 
+- 3145
+: 3147 2 2 Do 
+: 3150 3 5 not 
+: 3158 2 2 miss 
+: 3162 2 2 your 
+: 3166 6 5 chance 
+: 3174 2 2 to 
+: 3179 4 5 blow 
+- 3185
+: 3187 1 2 This 
+: 3189 4 2 op
+: 3194 2 2 por
+: 3197 4 5 tu
+: 3202 2 2 ni
+: 3205 3 2 ty 
+: 3210 6 2 comes 
+: 3218 4 5 once 
+: 3223 2 2 in 
+: 3226 2 2 a 
+: 3230 4 5 life
+: 3237 3 2 ti
+: 3241 2 0 ~me 
+- 3244
+: 3245 2 5 You 
+: 3249 2 2 bet
+: 3253 2 2 ter 
+: 3258 6 9 lose 
+: 3265 3 2 your
+: 3269 6 5 self 
+: 3277 2 2 in 
+: 3281 2 2 the 
+: 3285 7 5 mu
+: 3293 2 2 sic 
+- 3296
+: 3298 2 2 The 
+: 3301 7 5 mo
+: 3309 4 2 ment, 
+: 3314 3 2 you 
+: 3318 6 5 own 
+: 3325 2 2 it 
+- 3328
+: 3330 2 2 You 
+: 3334 3 2 bet
+: 3338 3 2 ter 
+: 3342 3 5 ne
+: 3346 3 5 ver 
+: 3350 2 2 let 
+: 3354 2 2 it 
+: 3358 3 5 go, 
+: 3365 3 5 go! 
+- 3369
+: 3371 2 5 You 
+: 3374 4 2 on
+: 3379 2 2 ly 
+: 3382 3 2 get 
+: 3387 3 5 one 
+: 3395 5 5 shot 
+- 3401
+: 3402 2 2 Do 
+: 3406 4 5 not 
+: 3413 2 2 miss 
+: 3417 2 2 your 
+: 3421 6 5 chance 
+: 3429 2 2 to 
+: 3434 4 5 blow 
+- 3440
+: 3442 2 2 This 
+: 3445 3 2 op
+: 3449 2 2 por
+: 3452 5 5 tu
+: 3458 2 2 ni
+: 3461 3 2 ty 
+: 3465 6 2 comes 
+: 3473 4 5 once 
+: 3478 2 2 in 
+: 3481 2 2 a 
+: 3485 4 5 life
+: 3492 3 2 ti
+: 3496 2 0 ~me 
+- 3499
+: 3501 4 5 You 
+: 3506 2 2 bet
+: 3509 1 2 ter, 
+R 3511 2 0 no 
+R 3514 3 0 more 
+R 3522 7 0 games 
+- 3530
+R 3530 1 0 I’
+R 3532 3 0 ma 
+R 3538 6 0 change 
+R 3545 3 0 what 
+R 3549 3 0 you 
+R 3553 6 0 call 
+R 3561 7 0 rage 
+- 3570
+R 3573 3 0 Tear 
+R 3577 3 0 this 
+R 3581 3 0 mo
+R 3585 2 0 ther
+R 3588 4 0 fuc
+R 3593 3 0 kin’ 
+R 3597 4 0 roof 
+R 3602 4 0 off 
+- 3607
+R 3609 3 0 Like 
+R 3613 2 0 two 
+R 3617 6 0 dogs 
+R 3625 6 0 caged 
+- 3633
+R 3638 1 0 I 
+R 3640 4 0 was 
+R 3645 4 0 play
+R 3650 2 0 in’ 
+R 3653 4 0 in 
+R 3658 2 0 the 
+R 3661 2 0 be
+R 3664 3 0 gin
+R 3668 3 0 ning 
+- 3672
+R 3674 3 0 The 
+R 3678 3 0 mood 
+R 3682 6 0 all 
+R 3689 6 0 changed 
+- 3697
+R 3701 3 0 I’ve 
+R 3705 3 0 been 
+R 3709 4 0 chewed 
+R 3714 5 0 up 
+R 3720 3 0 and 
+R 3724 4 0 spit 
+R 3729 5 0 out 
+- 3735
+R 3736 3 0 And 
+R 3740 4 0 booed 
+R 3745 5 0 off 
+R 3753 6 0 stage 
+- 3761
+R 3766 2 0 But 
+R 3769 3 0 I 
+R 3773 6 0 kept 
+R 3780 6 0 rhy
+R 3787 1 0 min’ 
+R 3789 2 0 and 
+R 3794 5 0 stepped 
+R 3800 6 0 right 
+- 3807
+R 3807 1 0 In 
+R 3809 2 0 the 
+R 3812 5 0 next 
+R 3819 5 0 cy
+R 3825 3 0 pher 
+- 3830
+R 3836 4 0 Best 
+R 3841 2 0 be
+R 3844 6 0 lieve 
+R 3851 4 0 some
+R 3856 2 0 bo
+R 3859 4 0 dy’s 
+- 3864
+R 3865 5 0 Pay
+R 3871 1 0 in’ 
+R 3873 1 0 the 
+R 3876 6 0 Pied 
+R 3883 5 0 Pi
+R 3889 5 0 per 
+- 3896
+R 3900 3 0 All 
+R 3904 2 0 the 
+R 3908 6 0 pain 
+R 3915 4 0 in
+R 3921 7 0 side 
+R 3929 5 0 am
+R 3936 3 0 pli
+R 3940 6 0 fied 
+R 3948 4 0 by 
+R 3954 2 0 the 
+- 3958
+R 3963 4 0 Fact 
+R 3969 2 0 that 
+R 3972 6 0 I 
+R 3979 7 0 can’t 
+R 3987 3 0 get 
+R 3992 6 0 by 
+R 3999 2 0 with 
+R 4003 6 0 my 
+- 4010
+R 4011 5 0 Nine-
+R 4017 2 0 to-
+R 4025 5 0 five 
+R 4032 3 0 and 
+R 4036 3 0 I 
+- 4041
+R 4043 6 0 Can’t 
+R 4051 3 0 pro
+R 4057 5 0 vide 
+R 4063 3 0 the 
+R 4067 6 0 right 
+R 4075 4 0 type 
+R 4081 3 0 of 
+- 4086
+R 4090 5 0 Life 
+R 4096 2 0 for 
+R 4099 6 0 my 
+R 4106 4 0 fa
+R 4111 1 0 mi
+R 4113 1 0 ly, 
+R 4115 3 0 ’cause 
+R 4120 4 0 man 
+- 4125
+R 4127 3 0 These 
+R 4131 6 0 god
+R 4138 6 0 damn 
+R 4146 3 0 food 
+R 4152 5 0 stamps 
+- 4158
+R 4159 3 0 Don’t 
+R 4163 5 0 buy 
+R 4170 5 0 dia
+R 4176 5 0 pers 
+- 4183
+R 4185 5 0 And 
+R 4191 3 0 there’s 
+R 4195 5 0 no 
+R 4202 5 0 mo
+R 4208 2 0 vie, 
+R 4211 3 0 there’s 
+R 4216 5 0 no 
+R 4223 3 0 Mek
+R 4227 6 0 hi 
+R 4235 4 0 Phi
+R 4240 2 0 fer 
+- 4244
+R 4251 3 0 This 
+R 4255 2 0 is 
+R 4258 6 0 my 
+R 4265 5 0 life 
+- 4272
+R 4274 1 0 And 
+R 4276 2 0 these 
+R 4279 6 0 times 
+R 4286 3 0 are 
+R 4291 6 0 so 
+R 4298 5 0 hard 
+- 4305
+R 4310 1 0 And 
+R 4312 2 0 it’s 
+R 4315 3 0 get
+R 4319 2 0 tin’ 
+R 4322 3 0 e
+R 4326 3 0 ven 
+R 4330 3 0 har
+R 4335 2 0 der 
+- 4338
+R 4339 3 0 Try’
+R 4343 2 0 na 
+R 4346 3 0 feed 
+R 4350 3 0 and 
+R 4354 4 0 wa
+R 4359 2 0 ter 
+R 4362 3 0 my 
+R 4368 4 0 seed, 
+R 4375 4 0 plus 
+- 4381
+R 4387 3 0 Tee
+R 4391 2 0 ter-
+R 4394 4 0 tot
+R 4399 2 0 ter, 
+R 4402 4 0 caught 
+R 4407 2 0 up 
+R 4411 3 0 be
+R 4415 6 0 tween 
+- 4422
+R 4423 6 0 Bein’ 
+R 4430 2 0 a 
+R 4434 4 0 fa
+R 4440 2 0 ther 
+R 4443 3 0 and 
+R 4447 2 0 a 
+R 4450 4 0 pri
+R 4455 1 0 ma
+R 4457 4 0 don
+R 4462 2 0 na 
+- 4465
+G 4466 3 0 Ba
+G 4470 2 0 by 
+G 4473 4 0 ma
+G 4478 2 0 ma 
+G 4482 3 0 dra
+G 4486 2 0 ma, 
+R 4489 5 0 screa
+R 4495 2 0 min’ 
+R 4498 3 0 on 
+R 4502 2 0 her 
+- 4505
+R 4506 3 0 Too 
+R 4510 6 0 much 
+R 4518 2 0 for 
+R 4522 2 0 me 
+R 4526 2 0 to 
+R 4529 3 0 wan
+R 4533 2 0 na 
+- 4536
+R 4537 5 0 Stay 
+R 4543 1 0 in 
+R 4545 3 0 one 
+R 4550 4 0 spot 
+- 4556
+R 4559 2 0 A
+R 4562 3 0 no
+R 4566 3 0 ther 
+R 4570 4 0 day 
+R 4575 1 0 of 
+R 4577 4 0 mo
+R 4582 4 0 no
+R 4587 1 0 to
+R 4589 2 0 ny’s 
+- 4592
+R 4594 5 0 Got
+R 4600 2 0 ten 
+R 4603 3 0 me 
+R 4610 2 0 to 
+R 4614 2 0 the 
+R 4617 3 0 point 
+R 4621 3 0 I’m 
+R 4625 3 0 like 
+R 4629 2 0 a 
+R 4634 6 0 snail, 
+R 4641 2 0 I’ve 
+R 4646 6 0 got 
+- 4653
+R 4653 3 0 To 
+R 4657 5 0 for
+R 4663 2 0 mu
+R 4666 2 0 late 
+R 4669 3 0 a 
+R 4673 7 0 plot 
+R 4682 2 0 or 
+R 4685 3 0 end 
+R 4689 2 0 up 
+R 4693 2 0 in 
+R 4698 5 0 jail 
+R 4705 2 0 or 
+R 4710 5 0 shot 
+- 4716
+R 4718 3 0 Suc
+R 4723 4 0 cess 
+R 4729 3 0 is 
+R 4734 2 0 my 
+R 4737 4 0 on
+R 4742 3 0 ly 
+R 4746 2 0 mo
+R 4749 3 0 ther
+R 4753 3 0 fuc
+R 4757 3 0 kin’ 
+R 4761 5 0 op
+R 4769 3 0 tion 
+- 4774
+R 4778 4 0 Fai
+R 4783 4 0 lure’s 
+R 4789 6 0 not 
+- 4797
+R 4801 3 0 Mom, 
+R 4806 2 0 I 
+R 4809 3 0 love 
+R 4813 3 0 you, 
+R 4817 2 0 but 
+R 4820 2 0 this 
+R 4825 5 0 trai
+R 4831 4 0 ler’s 
+R 4837 3 0 got 
+- 4842
+R 4845 2 0 To 
+R 4849 5 0 go, 
+R 4856 4 0 I 
+R 4861 3 0 can
+R 4865 5 0 not 
+R 4872 4 0 grow 
+R 4877 5 0 old 
+R 4884 3 0 in 
+R 4888 6 0 Sa
+R 4895 4 0 lem’s 
+R 4900 5 0 Lot 
+- 4907
+R 4910 2 0 So 
+R 4913 2 0 here 
+R 4917 3 0 I 
+R 4921 2 0 go, 
+R 4924 2 0 it’s 
+R 4927 4 0 my 
+R 4933 6 0 shot 
+- 4941
+R 4945 4 0 Feet, 
+R 4953 5 0 fail 
+R 4959 4 0 me 
+R 4965 5 0 not 
+- 4971
+R 4973 3 0 This 
+R 4977 3 0 may 
+R 4982 2 0 be 
+R 4985 4 0 the 
+R 4990 3 0 on
+R 4994 2 0 ly 
+R 4997 3 0 op
+R 5002 2 0 por
+R 5005 3 0 tu
+R 5010 1 0 ni
+R 5012 3 0 ty 
+R 5016 2 0 that 
+R 5019 3 0 I 
+R 5024 5 0 got 
+- 5030
+* 5032 2 5 You 
+* 5036 2 2 bet
+* 5040 2 2 ter 
+* 5045 6 9 lose 
+: 5052 3 2 your
+: 5056 6 5 self 
+: 5064 2 2 in 
+: 5068 2 2 the 
+: 5072 6 5 mu
+: 5080 2 2 sic 
+- 5083
+: 5084 2 2 The 
+: 5087 8 5 mo
+: 5096 3 2 ment, 
+: 5100 3 2 you 
+: 5104 6 5 own 
+: 5112 2 2 it 
+- 5115
+: 5117 2 2 You 
+: 5120 3 2 bet
+: 5124 3 2 ter 
+: 5128 3 5 ne
+: 5132 3 5 ver 
+: 5136 3 2 let 
+: 5140 2 2 it 
+: 5144 3 5 go, 
+: 5152 3 5 go! 
+- 5156
+: 5157 2 2 You 
+: 5160 4 5 on
+: 5165 2 2 ly 
+: 5168 3 2 get 
+: 5173 3 5 one 
+: 5181 5 5 shot 
+- 5187
+: 5188 2 2 Do 
+: 5191 3 5 not 
+: 5199 2 2 miss 
+: 5203 2 2 your 
+: 5207 6 5 chance 
+: 5215 2 2 to 
+: 5220 4 5 blow 
+- 5226
+: 5229 1 2 This 
+: 5231 4 2 op
+: 5236 2 2 por
+: 5239 4 5 tu
+: 5244 2 2 ni
+: 5247 3 2 ty 
+: 5252 6 2 comes 
+: 5260 4 5 once 
+: 5265 2 2 in 
+: 5268 2 2 a 
+: 5272 4 5 life
+: 5279 3 2 ti
+: 5283 2 0 ~me 
+- 5286
+: 5288 2 5 You 
+: 5292 2 2 bet
+: 5295 3 2 ter 
+: 5300 6 9 lose 
+: 5307 3 2 your
+: 5311 6 5 self 
+: 5319 2 2 in 
+: 5323 2 2 the 
+: 5327 6 5 mu
+: 5335 2 2 sic 
+- 5338
+: 5340 2 2 The 
+: 5343 7 5 mo
+: 5351 4 2 ment, 
+: 5356 3 2 you 
+: 5360 6 5 own 
+: 5367 2 2 it 
+- 5370
+: 5371 2 2 You 
+: 5375 3 2 bet
+: 5379 3 2 ter 
+: 5383 3 5 ne
+: 5387 3 5 ver 
+: 5391 2 2 let 
+: 5395 2 2 it 
+: 5399 3 5 go, 
+: 5406 3 5 go! 
+- 5410
+: 5412 2 2 You 
+: 5415 4 5 on
+: 5420 2 2 ly 
+: 5423 3 2 get 
+: 5428 3 5 one 
+: 5436 5 5 shot 
+- 5442
+: 5444 2 2 Do 
+: 5447 3 5 not 
+: 5455 2 2 miss 
+: 5459 2 2 your 
+: 5463 6 5 chance 
+: 5471 2 2 to 
+: 5476 4 5 blow 
+- 5482
+: 5484 1 2 This 
+: 5486 4 2 op
+: 5491 2 2 por
+: 5494 4 5 tu
+: 5499 2 2 ni
+: 5502 3 2 ty 
+: 5507 6 2 comes 
+: 5515 4 5 once 
+: 5520 2 2 in 
+: 5523 2 2 a 
+: 5527 4 5 life
+: 5534 3 2 ti
+: 5538 2 0 ~me 
+- 5541
+: 5543 3 5 You 
+: 5547 2 2 bet
+: 5551 3 0 ter 
+- 5556
+F 5596 2 0 You 
+F 5599 2 0 can 
+F 5602 1 0 do 
+F 5604 1 0 a
+F 5606 1 0 ny
+F 5610 3 0 thing 
+F 5614 1 0 you 
+F 5617 3 0 set 
+- 5621
+F 5621 3 0 Your 
+F 5625 4 0 mind 
+F 5633 2 0 to, 
+F 5638 3 0 man 
+E

@@ -1,0 +1,316 @@
+#ARTIST:Eric B. & Rakim
+#TITLE:Paid In Full
+#MP3:Eric B. & Rakim - Paid In Full.mp3
+#CREATOR:Canni
+#EDITION:SingStar Pop
+#GENRE:Rap
+#YEAR:1987
+#LANGUAGE:English
+#BPM:395.8
+#GAP:78400
+#VIDEO:v=E7t8eoA_1jQ,co=paid-in-full-55be6fe5e05c0.jpg,bg=eric-b--rakim-538c96cd1610d.jpg
+R 0 3 5 Thin
+R 4 3 5 kin’ 
+R 8 3 5 of 
+R 12 3 5 a 
+R 16 6 5 mas
+R 26 3 5 ter
+R 30 6 5 plan 
+- 38
+R 52 3 10 ’Cause 
+R 56 4 10 ain’t 
+R 64 3 10 no
+R 68 3 10 thin’ 
+R 72 4 10 but 
+R 80 4 10 sweat 
+- 85
+R 86 4 5 In
+R 94 6 5 side 
+R 102 6 5 my 
+R 110 4 5 hand 
+- 115
+R 116 3 10 So 
+R 120 6 10 I 
+R 128 3 10 dig 
+R 132 3 10 in
+R 136 3 10 to 
+R 140 3 10 my 
+R 144 3 10 poc
+R 148 2 10 ket 
+- 151
+R 152 3 5 All 
+R 156 3 5 my 
+R 160 3 5 mo
+R 164 6 5 ney’s 
+R 174 4 5 spent 
+- 179
+R 180 3 10 So 
+R 184 3 10 I 
+R 188 3 10 dig 
+R 192 4 10 dee
+R 198 4 10 per 
+- 203
+R 204 3 5 But 
+R 208 4 5 still 
+R 216 3 5 co
+R 220 3 5 min’ 
+R 224 4 5 up 
+R 232 3 5 with 
+R 236 4 5 lint 
+- 242
+R 244 3 10 So 
+R 248 4 10 I 
+R 260 6 10 start 
+R 268 3 10 my 
+R 272 3 10 mis
+R 276 4 10 sion 
+- 282
+R 284 4 5 Leave 
+R 292 3 5 my 
+R 296 3 5 re
+R 300 3 5 si
+R 304 4 5 dence 
+- 310
+G 312 3 10 Thin
+R 316 3 10 kin’ 
+R 320 4 10 how 
+R 328 3 10 could 
+R 332 3 10 I 
+R 336 2 10 get 
+- 339
+R 340 3 10 Some 
+R 344 4 10 dead 
+R 352 3 10 pre
+R 356 4 10 si
+R 364 4 10 dents 
+- 370
+R 372 3 5 I 
+R 376 4 5 need 
+R 384 3 5 mo
+R 388 4 5 ney 
+- 394
+R 396 3 10 I 
+R 400 3 10 used 
+R 404 3 10 to 
+R 408 3 10 be 
+R 412 3 10 a 
+R 416 3 10 stick
+R 420 4 10 up 
+R 428 6 10 kid 
+- 435
+R 436 3 5 So 
+R 440 4 5 I 
+R 448 3 5 think 
+R 452 3 5 of 
+R 456 3 5 all 
+R 460 2 5 the 
+- 463
+R 464 3 10 De
+R 468 3 10 vi
+R 472 4 10 ous 
+R 478 4 10 things 
+R 486 6 10 I 
+R 494 4 10 did 
+- 500
+G 628 3 5 I 
+R 632 3 5 used 
+R 636 3 5 to 
+R 640 3 5 roll 
+R 644 4 5 up 
+- 650
+R 652 3 10 This 
+R 656 3 10 is 
+R 660 3 10 a 
+R 664 3 10 hold
+R 668 4 10 up 
+- 674
+R 676 3 5 Ain’t 
+R 680 3 5 no
+R 684 3 5 thin’ 
+R 688 3 5 fun
+R 692 2 5 ny 
+- 695
+R 696 4 10 Stop 
+R 704 3 10 smi
+R 708 4 10 lin’ 
+- 714
+R 716 3 5 Be 
+R 720 3 5 still 
+R 724 3 5 don’t 
+R 728 3 5 no
+R 732 3 5 thin’ 
+R 736 4 5 move 
+- 742
+R 744 4 10 But 
+R 750 3 10 the 
+R 754 3 10 mo
+R 758 4 10 ney 
+- 763
+R 764 3 5 But 
+R 768 4 5 now 
+R 774 4 5 I 
+R 780 4 5 learned 
+R 788 3 5 to 
+R 792 4 5 earn 
+- 798
+R 800 4 10 ’Cause 
+R 806 4 10 I’m 
+R 814 4 10 righ
+R 822 4 10 teous 
+- 828
+R 836 3 5 I 
+R 840 4 5 feel 
+R 848 4 5 great 
+- 854
+R 860 3 10 So 
+R 864 3 10 may
+R 868 3 10 be 
+R 872 4 10 I 
+R 880 4 10 might 
+R 888 4 10 just 
+- 894
+R 896 4 5 Search 
+R 904 3 5 for 
+R 908 3 5 a 
+R 912 4 5 nine 
+R 920 3 5 to 
+R 924 8 5 five 
+- 934
+R 944 3 10 If 
+R 948 4 10 I 
+R 956 8 10 strive 
+- 966
+R 972 3 5 Then 
+R 976 3 5 may 
+R 980 3 5 be 
+R 984 4 5 I’ll 
+R 992 3 5 stay 
+R 996 4 5 a
+R 1004 6 5 live 
+- 1011
+R 1012 3 10 So 
+R 1016 4 10 I 
+R 1024 4 10 walk 
+R 1032 3 10 up 
+R 1036 3 10 the 
+R 1040 4 10 street 
+- 1046
+R 1056 3 5 Whis
+R 1060 3 5 t
+R 1064 4 5 lin’ 
+R 1072 6 5 this 
+- 1080
+R 1088 3 10 Fee
+R 1092 3 10 lin’ 
+R 1096 3 10 out 
+R 1100 3 10 of 
+R 1104 4 10 place 
+- 1110
+R 1112 3 10 ’Cause 
+R 1116 4 10 man 
+R 1124 3 10 do 
+R 1128 4 10 I 
+R 1136 4 10 miss 
+- 1142
+G 1148 3 5 A 
+R 1152 3 5 pen 
+R 1156 3 5 and 
+R 1160 3 5 a 
+R 1164 4 5 pa
+R 1172 2 5 per 
+- 1175
+R 1176 3 10 A 
+R 1180 6 10 ste
+R 1188 3 10 re
+R 1192 3 10 o, 
+R 1196 3 10 a 
+R 1200 4 10 tape 
+R 1208 4 10 of 
+- 1214
+R 1216 3 5 Me 
+R 1220 3 5 and 
+R 1224 3 5 E
+R 1228 3 5 ric 
+R 1232 2 5 B. 
+- 1235
+R 1236 3 10 And 
+R 1240 3 10 a 
+R 1244 6 10 nice 
+R 1256 4 10 big 
+R 1264 3 10 plate 
+R 1268 4 10 of 
+- 1274
+R 1280 6 5 Fish 
+- 1288
+R 1296 3 5 Which 
+R 1300 3 5 is 
+R 1304 4 5 my 
+R 1312 3 5 fa
+R 1316 3 5 vou
+R 1320 4 5 rite 
+R 1328 6 5 dish 
+- 1336
+R 1340 3 10 But 
+R 1344 3 10 with
+R 1348 4 10 out 
+R 1356 3 10 no 
+R 1360 3 10 mo
+R 1364 2 10 ney 
+- 1367
+R 1368 4 10 It’s 
+R 1376 3 10 still 
+R 1380 4 10 a 
+R 1390 6 10 wish 
+- 1398
+R 1404 3 5 ’Cause 
+R 1408 3 5 I 
+R 1412 3 5 don’t 
+R 1416 3 5 like 
+R 1420 3 5 to 
+R 1424 2 5 dream 
+- 1427
+R 1428 3 5 A
+R 1432 4 5 bout 
+R 1440 4 5 get
+R 1446 4 5 tin’ 
+R 1454 4 5 paid 
+- 1459
+R 1460 3 10 So 
+R 1464 4 10 I 
+R 1472 3 10 dig 
+R 1476 3 10 in
+R 1480 3 10 to 
+R 1484 3 10 the 
+R 1488 4 10 books 
+- 1494
+R 1496 3 5 Of 
+R 1500 3 5 the 
+R 1504 4 5 rhymes 
+R 1510 3 5 that 
+R 1514 4 5 I 
+R 1520 6 5 made 
+- 1528
+R 1540 3 10 To 
+R 1544 4 10 now 
+R 1550 3 10 to 
+R 1554 2 10 test 
+- 1557
+R 1558 3 10 To 
+R 1562 3 10 see 
+R 1566 3 10 if 
+R 1570 3 10 I 
+R 1574 4 10 got 
+R 1584 6 10 pull 
+- 1592
+R 1608 3 5 Hit 
+R 1612 3 5 the 
+R 1616 3 5 stu
+R 1620 3 5 di
+R 1624 4 5 o 
+- 1630
+R 1636 3 10 ’Cause 
+R 1640 4 10 I’m 
+R 1648 6 10 paid 
+R 1658 4 10 in 
+R 1664 8 10 full 
+E

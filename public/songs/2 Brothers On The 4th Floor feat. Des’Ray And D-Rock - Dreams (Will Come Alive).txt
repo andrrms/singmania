@@ -1,0 +1,498 @@
+#ARTIST:2 Brothers On The 4th Floor feat. Des’Ray And D-Rock
+#TITLE:Dreams (Will Come Alive)
+#MP3:2 Brothers On The 4th Floor feat. Des’Ray And D-Rock - Dreams (Will Come Alive).mp3
+#CREATOR:rafallus
+#YEAR:1994
+#LANGUAGE:English
+#BPM:268
+#GAP:820
+#VIDEO:v=Lk3lQRmIkoM,co=dreams-65951237e4667.jpg,bg=2-brothers-on-the-4th-floor-4fdada2ef1dc5.jpg
+: 0 22 7 Dreams 
+: 24 2 9 to 
+: 28 1 10 sur
+: 30 6 3 vive 
+- 38
+* 64 18 10 Dreams 
+: 84 2 12 make 
+: 88 2 14 a 
+: 92 5 14 wish 
+: 100 5 17 come 
+: 108 4 14 true 
+- 114
+: 116 3 14 O
+: 120 3 12 ~
+: 124 2 9 ~h 
+- 127
+: 128 18 7 Keep 
+: 148 2 7 your 
+: 152 2 9 dreams 
+: 156 1 10 a
+: 158 6 3 live 
+- 166
+: 192 22 10 Dream, 
+: 216 2 10 dream 
+: 220 6 9 on 
+- 228
+: 236 2 5 Your 
+: 240 2 14 dream 
+: 244 2 17 will 
+* 248 2 14 come 
+: 252 1 12 a
+: 254 4 10 live! 
+- 259
+: 260 2 9 Come 
+: 264 2 10 on 
+: 268 2 10 dream 
+: 272 7 10 on! 
+- 281
+: 292 2 9 Come 
+: 296 2 10 on 
+: 300 2 10 dream 
+: 304 7 10 on! 
+- 313
+: 324 2 9 Come 
+: 328 2 10 on 
+: 332 2 10 dream 
+* 336 7 10 on! 
+- 345
+: 348 6 5 Boy 
+- 356
+: 364 2 5 Your 
+: 368 2 14 dream 
+: 372 2 17 will 
+: 376 2 14 come 
+: 380 1 12 a
+: 382 4 10 live! 
+- 387
+: 388 2 9 Come 
+: 392 2 10 on 
+: 396 2 10 dream 
+: 400 7 10 on! 
+- 409
+: 420 2 9 Come 
+: 424 2 10 on 
+: 428 2 10 dream 
+: 432 7 10 on! 
+- 441
+* 452 2 9 Come 
+: 456 2 10 on 
+: 460 2 10 dream 
+: 464 7 10 on! 
+- 473
+: 476 6 5 Boy 
+- 484
+: 492 2 5 Your 
+: 496 2 14 dream 
+: 500 2 17 will 
+: 504 2 14 come 
+: 508 1 12 a
+: 510 4 10 live! 
+- 516
+* 620 2 5 Your 
+: 624 2 14 dream 
+: 628 2 17 will 
+: 632 2 14 come 
+: 636 1 12 a
+: 638 4 10 live! 
+- 644
+: 748 2 5 Your 
+: 752 2 14 dream 
+: 756 2 17 will 
+: 760 2 14 come 
+: 764 1 12 a
+: 766 4 10 live! 
+- 772
+F 1024 2 7 Once 
+F 1028 1 7 a
+F 1030 2 7 gain 
+F 1034 1 7 a 
+F 1036 4 7 song 
+F 1042 1 7 co
+F 1044 2 7 min’ 
+F 1048 4 7 strong 
+- 1053
+F 1054 2 7 Here 
+F 1058 1 7 to 
+F 1060 2 7 re
+F 1064 2 7 mind 
+F 1068 1 7 you 
+F 1070 2 7 got 
+F 1074 1 7 to 
+F 1076 2 7 dream 
+F 1080 4 7 on 
+- 1086
+F 1088 2 7 Go 
+F 1092 1 7 for 
+F 1094 2 7 what 
+F 1098 1 7 you 
+F 1100 3 7 know 
+- 1105
+F 1108 2 7 Don’t 
+F 1112 2 7 let 
+F 1116 2 7 it 
+F 1120 4 7 slide 
+- 1126
+F 1128 2 7 Take 
+F 1132 2 7 a 
+F 1136 2 7 chance, 
+F 1140 2 7 let’s 
+F 1144 4 7 ride 
+- 1150
+F 1152 2 7 To 
+F 1156 1 7 the 
+F 1158 2 7 fu
+F 1162 2 7 ture, 
+F 1166 2 7 not 
+F 1170 1 7 to 
+F 1172 2 7 the 
+F 1176 3 7 past 
+- 1181
+F 1184 2 7 Take 
+F 1188 1 7 it 
+F 1190 2 7 ea
+F 1194 1 7 sy 
+F 1196 2 7 and 
+F 1200 2 7 not 
+F 1204 2 7 too 
+F 1208 3 7 fast 
+- 1213
+F 1216 1 7 Ma
+F 1218 2 7 ny 
+F 1222 2 7 failed 
+F 1226 2 7 in 
+F 1230 1 7 so
+F 1232 1 7 ci
+F 1234 2 7 e
+F 1238 2 7 ty 
+- 1242
+F 1244 2 7 Too 
+F 1248 2 7 blind 
+F 1252 1 7 to 
+F 1254 2 7 see 
+F 1258 2 7 you 
+F 1262 2 7 need 
+F 1266 1 7 to 
+F 1268 2 7 be 
+F 1272 2 7 free 
+- 1276
+F 1279 2 7 Free 
+F 1282 2 7 from 
+F 1286 1 7 the 
+F 1288 2 7 strain 
+F 1292 2 7 that 
+F 1296 2 7 cau
+F 1300 2 7 ses 
+F 1303 2 7 pain 
+- 1307
+F 1311 3 7 Pain 
+F 1316 1 7 is 
+F 1318 1 7 the 
+F 1320 2 7 name 
+F 1324 1 7 and 
+F 1326 2 7 life 
+F 1330 1 7 is 
+F 1332 2 7 the 
+F 1336 3 7 game 
+- 1341
+F 1344 4 7 Dream 
+F 1352 4 7 on, 
+F 1358 1 7 try 
+F 1360 2 7 to 
+F 1364 2 7 sur
+F 1368 3 7 vive 
+- 1373
+F 1374 2 7 Keep 
+F 1378 2 7 hope 
+F 1382 1 7 a
+F 1384 2 7 live 
+F 1388 1 7 and 
+F 1390 2 7 reach 
+F 1394 1 7 for 
+F 1396 2 7 the 
+F 1400 3 7 sky 
+- 1405
+F 1408 2 7 Do 
+F 1412 1 7 the 
+F 1414 2 7 best 
+F 1418 1 7 you 
+F 1420 4 7 can, 
+F 1426 2 7 make 
+F 1430 1 7 a 
+F 1432 2 7 wish 
+F 1436 2 7 come 
+F 1440 2 7 true 
+- 1444
+F 1448 1 7 Lis
+F 1450 2 7 ten, 
+F 1455 3 7 here’s 
+F 1460 2 7 the 
+F 1464 2 7 clue 
+- 1468
+F 1472 2 7 Let 
+F 1476 1 7 it 
+F 1478 2 7 flow 
+F 1482 2 7 be
+F 1486 2 7 fore 
+F 1490 1 7 it’s 
+F 1492 2 7 all 
+F 1496 4 7 gone 
+- 1502
+F 1506 1 7 Come 
+F 1508 2 7 on 
+F 1512 2 7 boy, 
+F 1516 1 7 you 
+F 1518 2 7 got 
+F 1522 1 7 to 
+F 1524 2 7 dream 
+F 1528 4 7 on 
+- 1534
+: 1536 22 7 Dreams 
+: 1560 2 9 to 
+: 1564 1 10 sur
+: 1566 6 3 vive 
+- 1574
+: 1600 18 10 Dreams 
+* 1620 2 12 make 
+: 1624 2 14 a 
+: 1628 5 14 wish 
+: 1636 5 17 come 
+: 1644 4 14 true 
+- 1650
+: 1652 3 14 O
+: 1656 3 12 ~
+: 1660 2 10 ~h 
+- 1663
+: 1664 18 7 Keep 
+: 1684 2 7 your 
+: 1688 2 9 dreams 
+: 1692 1 10 a
+: 1694 6 3 live 
+- 1702
+: 1728 22 10 Dream, 
+: 1752 2 10 dream 
+: 1756 6 9 on 
+- 1764
+: 1772 2 5 Your 
+: 1776 2 14 dream 
+: 1780 2 17 will 
+: 1784 2 14 come 
+: 1788 1 12 a
+* 1790 4 10 live! 
+- 1795
+: 1796 2 9 Come 
+: 1800 2 10 on 
+: 1804 2 10 dream 
+: 1808 7 10 on! 
+- 1817
+: 1828 2 9 Come 
+: 1832 2 10 on 
+: 1836 2 10 dream 
+: 1840 7 10 on! 
+- 1849
+* 1860 2 9 Come 
+: 1864 2 10 on 
+: 1868 2 10 dream 
+: 1872 7 10 on! 
+- 1881
+: 1884 6 5 Boy 
+- 1892
+: 1900 2 5 Your 
+: 1904 2 14 dream 
+: 1908 2 17 will 
+: 1912 2 14 come 
+: 1916 1 12 a
+: 1918 4 10 live! 
+- 1923
+: 1924 2 9 Come 
+: 1928 2 10 on 
+: 1932 2 10 dream 
+: 1936 7 10 on! 
+- 1945
+: 1956 2 9 Come 
+: 1960 2 10 on 
+: 1964 2 10 dream 
+* 1968 7 10 on! 
+- 1977
+: 1988 2 9 Come 
+: 1992 2 10 on 
+: 1996 2 10 dream 
+: 2000 7 10 on! 
+- 2009
+* 2012 6 5 Boy 
+- 2020
+: 2028 2 5 Your 
+: 2032 2 14 dream 
+: 2036 2 17 will 
+: 2040 2 14 come 
+: 2044 1 12 a
+: 2046 4 10 live! 
+- 2052
+F 2302 2 7 Dreams 
+F 2306 2 7 are 
+F 2310 1 7 the 
+F 2312 2 7 way 
+- 2315
+F 2316 1 7 To 
+F 2318 1 7 ex
+F 2320 2 7 press 
+F 2324 1 7 your
+F 2326 2 7 self 
+F 2330 2 7 from 
+F 2334 1 7 the 
+F 2336 3 7 heart 
+- 2341
+F 2344 2 7 Now 
+F 2348 1 7 it’s 
+F 2350 2 7 time 
+F 2354 1 7 to 
+F 2356 2 7 de
+F 2360 3 7 part 
+- 2365
+F 2370 2 7 On 
+F 2374 1 7 a 
+F 2376 2 7 jour
+F 2380 1 7 ney 
+F 2382 2 7 for 
+F 2386 2 7 the 
+F 2389 3 7 mind 
+- 2394
+F 2400 2 7 Peace 
+F 2404 2 7 of 
+F 2407 2 7 mind 
+F 2411 2 7 is 
+F 2414 1 7 what 
+F 2416 2 7 you 
+F 2420 2 7 will 
+F 2424 3 7 find 
+- 2429
+F 2436 2 7 Like 
+F 2440 1 7 Mar
+F 2442 2 7 tin 
+F 2446 1 7 Lu
+F 2448 2 7 ther 
+F 2452 3 7 King 
+- 2457
+F 2460 2 7 I 
+F 2464 2 7 had 
+F 2468 1 7 a 
+F 2470 2 7 dream 
+F 2474 1 7 that 
+F 2476 2 7 we 
+F 2480 2 7 all 
+F 2484 2 7 would 
+F 2488 3 7 sing 
+- 2492
+F 2492 2 7 In 
+F 2496 2 7 peace 
+F 2500 2 7 and 
+F 2504 2 7 har
+F 2508 1 7 mo
+F 2510 2 7 ny 
+F 2514 1 7 co
+F 2516 2 7 min’ 
+F 2520 4 7 strong 
+- 2526
+F 2530 1 7 Come 
+F 2532 2 7 on 
+F 2536 2 7 boy, 
+F 2540 1 7 you 
+F 2542 2 7 got 
+F 2546 1 7 to 
+F 2548 2 7 dream 
+F 2552 4 7 on 
+- 2558
+: 2560 22 7 Dreams 
+: 2584 2 9 to 
+: 2588 1 10 sur
+: 2590 6 3 vive 
+- 2598
+: 2624 18 10 Dreams 
+: 2644 2 12 make 
+: 2648 2 14 a 
+: 2652 5 14 wish 
+* 2660 5 17 come 
+: 2668 4 14 true 
+- 2674
+: 2676 3 14 O
+* 2680 3 12 ~
+: 2684 2 10 ~h 
+- 2687
+: 2688 18 7 Keep 
+: 2708 2 7 your 
+: 2712 2 9 dreams 
+: 2716 1 10 a
+: 2718 6 3 live 
+- 2726
+: 2752 22 10 Dream, 
+: 2776 2 10 dream 
+: 2780 6 9 on 
+- 2788
+: 2796 2 5 Your 
+: 2800 2 14 dream 
+: 2804 2 17 will 
+: 2808 2 14 come 
+: 2812 1 12 a
+: 2814 4 10 live! 
+- 2819
+: 2820 2 9 Come 
+: 2824 2 10 on 
+: 2828 2 10 dream 
+: 2832 7 10 on! 
+- 2841
+: 2852 2 9 Come 
+: 2856 2 10 on 
+* 2860 2 10 dream 
+: 2864 7 10 on! 
+- 2873
+: 2884 2 9 Come 
+: 2888 2 10 on 
+: 2892 2 10 dream 
+: 2896 7 10 on! 
+- 2905
+: 2908 6 5 Boy 
+- 2916
+: 2924 2 5 Your 
+: 2928 2 14 dream 
+: 2932 2 17 will 
+: 2936 2 14 come 
+: 2940 1 12 a
+: 2942 4 10 live! 
+- 2947
+: 2948 2 9 Come 
+: 2952 2 10 on 
+: 2956 2 10 dream 
+: 2960 7 10 on! 
+- 2969
+: 2980 2 9 Come 
+: 2984 2 10 on 
+: 2988 2 10 dream 
+: 2992 7 10 on! 
+- 3001
+: 3012 2 9 Come 
+: 3016 2 10 on 
+: 3020 2 10 dream 
+: 3024 7 10 on! 
+- 3033
+* 3036 6 5 Boy 
+- 3044
+: 3052 2 5 Your 
+: 3056 2 14 dream 
+: 3060 2 17 will 
+: 3064 2 14 come 
+: 3068 1 12 a
+: 3070 4 10 live! 
+- 3076
+: 3180 2 5 Your 
+: 3184 2 14 dream 
+: 3188 2 17 will 
+: 3192 2 14 come 
+: 3196 1 12 a
+: 3198 4 10 live! 
+- 3204
+: 3308 2 5 Your 
+: 3312 2 14 dream 
+: 3316 2 17 will 
+: 3320 2 14 come 
+: 3324 1 12 a
+: 3326 4 10 live! 
+E

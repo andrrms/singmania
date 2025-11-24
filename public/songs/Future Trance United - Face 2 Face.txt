@@ -1,0 +1,152 @@
+#ARTIST:Future Trance United
+#TITLE:Face 2 Face
+#MP3:Future Trance United - Face 2 Face.mp3
+#CREATOR:Basti
+#YEAR:2003
+#LANGUAGE:English
+#BPM:284
+#GAP:27640
+#VIDEO:v=dto268KcE28,co=https://m.media-amazon.com/images/I/51Q7yrz0ftL.jpg
+#START:27.0
+: 0 12 14 Died 
+: 16 12 13 for 
+* 32 12 9 dead 
+: 48 4 9 ri
+: 56 4 13 sing 
+: 64 8 13 fall. 
+- 74
+: 80 4 13 Get 
+: 88 4 16 your 
+* 96 7 18 free
+: 104 4 20 dom 
+: 112 4 18 stan
+: 120 4 16 ding 
+: 128 8 13 tall. 
+- 138
+: 144 4 11 One 
+: 152 4 13 more 
+* 160 8 11 try 
+: 176 4 11 to 
+: 184 4 13 get 
+* 192 8 11 you 
+: 208 4 9 stan
+: 216 4 13 ding 
+* 224 24 13 by. 
+- 250
+* 256 12 14 Face 
+: 272 12 13 to 
+: 288 12 9 face. 
+: 304 4 9 Died 
+: 312 4 13 for 
+: 320 8 13 dead. 
+- 330
+: 336 4 13 What 
+: 344 4 16 you 
+* 352 7 18 see 
+: 360 4 20 is 
+: 368 4 18 what 
+: 376 4 16 you 
+: 384 8 13 get. 
+- 394
+: 400 4 14 There’s 
+: 408 4 13 no 
+* 416 8 9 way 
+: 432 4 9 to 
+: 440 7 6 re 
+* 448 10 9 start 
+: 464 6 11 to 
+: 472 6 11 com
+* 480 32 9 mand 
+- 514
+F 516 2 0 This 
+F 520 2 0 is 
+F 524 2 0 a 
+F 528 2 0 par
+F 532 2 0 ty, 
+F 536 2 0 yo! 
+- 540
+F 932 2 0 ~
+F 936 1 0 ~
+F 938 1 0 ~
+F 940 2 0 ~
+F 944 2 0 ~
+F 948 2 0 ~
+F 952 2 0 ~ 
+- 956
+F 1204 2 0 Come 
+F 1208 2 0 on! 
+- 1212
+F 1476 2 0 Give 
+F 1480 2 0 me 
+F 1484 2 0 a 
+F 1488 2 0 beat! 
+- 1492
+: 1504 12 14 Died 
+: 1520 12 13 for 
+* 1536 12 9 dead 
+: 1552 4 9 ri
+: 1560 4 13 sing 
+: 1568 8 13 fall. 
+- 1578
+: 1584 4 13 Get 
+: 1592 4 16 your 
+* 1600 7 18 free
+: 1608 4 20 dom 
+: 1616 4 18 stan
+: 1624 4 16 ding 
+: 1632 8 13 tall. 
+- 1642
+: 1648 4 11 One 
+: 1656 4 13 more 
+* 1664 8 11 try 
+: 1680 4 11 to 
+: 1688 4 13 get 
+* 1696 8 11 you 
+: 1712 4 9 stan
+: 1720 4 13 ding 
+* 1728 24 13 by. 
+- 1754
+* 1760 12 14 Face 
+: 1776 12 13 to 
+: 1792 12 9 face. 
+: 1808 4 9 Died 
+: 1816 4 13 for 
+: 1824 8 13 dead. 
+- 1834
+: 1840 4 13 What 
+: 1848 4 16 you 
+* 1856 7 18 see 
+: 1864 4 20 is 
+: 1872 4 18 what 
+: 1880 4 16 you 
+: 1888 8 13 get. 
+- 1898
+: 1904 4 14 There’s 
+: 1912 4 13 no 
+* 1920 8 9 way 
+: 1936 4 9 to 
+: 1944 7 6 re
+* 1952 10 9 start 
+: 1968 6 11 to 
+: 1976 6 11 com
+* 1984 32 9 mand. 
+- 2017
+F 2018 2 0 Stop! 
+- 2022
+F 2432 2 0 ~
+F 2436 2 0 ~
+F 2444 2 0 ~
+F 2448 2 0 ~
+F 2452 2 0 ~
+F 2456 2 0 ~ 
+- 2460
+F 2692 2 0 This 
+F 2696 2 0 is 
+F 2700 2 0 a 
+F 2704 2 0 par
+F 2708 2 0 ty, 
+F 2712 2 0 yo! 
+- 2716
+F 2968 2 0 Don’t 
+F 2976 2 0 stop! 
+E

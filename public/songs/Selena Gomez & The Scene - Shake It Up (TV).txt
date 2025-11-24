@@ -1,0 +1,184 @@
+#ARTIST:Selena Gomez & The Scene
+#TITLE:Shake It Up (TV)
+#MP3:Selena Gomez & The Scene - Shake It Up (TV).mp3
+#CREATOR:Coppolatte
+#GENRE:Pop
+#YEAR:2011
+#LANGUAGE:English
+#BPM:256.08
+#GAP:10930
+#VIDEO:v=HiF4lfsQzHk,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/ae/fe/bcaefe9e-ca7f-798d-5763-94bdda0ea7b9/05099908739254.jpg/5000x5000bb.jpg,bg=gomez-selena--scene-the-520abf1baa952.jpg
+: 0 3 -3 Eve
+: 4 2 -3 ry
+: 8 3 2 bo
+: 12 2 2 dy, 
+: 16 3 -3 eve
+: 20 2 -3 ry
+: 24 3 2 bo
+: 28 1 2 dy 
+- 31
+: 32 2 2 Get 
+: 36 3 2 out
+: 40 2 0 ~ 
+: 44 3 0 on 
+: 48 2 0 the 
+: 52 7 0 floor 
+- 61
+: 64 2 0 It 
+: 68 2 0 can 
+: 72 3 0 get 
+: 76 2 0 a 
+: 80 3 0 lit
+: 84 2 0 tle 
+: 88 3 11 cra
+: 92 1 9 zy 
+- 95
+: 96 2 0 When 
+: 100 2 0 the 
+: 104 2 2 kick 
+* 108 2 2 hits 
+* 112 2 2 the 
+* 116 5 2 floor 
+- 123
+: 128 2 -3 Make 
+: 132 2 -3 a 
+: 136 5 2 scene, 
+: 144 2 -3 make 
+: 148 2 -3 a 
+: 152 5 2 scene 
+- 159
+: 160 2 2 No
+: 164 3 2 bo
+: 168 2 2 dy 
+: 172 3 0 can 
+: 176 2 0 ig
+: 180 7 0 nore 
+- 189
+: 196 2 0 Don’t 
+: 200 3 0 knock 
+: 204 2 0 it 
+: 208 3 0 till 
+: 212 2 0 you 
+: 216 3 0 rock 
+: 220 1 0 it 
+- 223
+: 224 2 0 We 
+: 228 2 0 can’t 
+: 232 3 2 take 
+: 236 2 2 it 
+: 240 2 2 no 
+: 244 7 2 more 
+- 253
+: 260 3 7 Bring
+: 264 2 9 ~ 
+: 268 2 9 the 
+: 272 3 9 lights
+: 276 2 7 ~ 
+: 280 3 7 up 
+- 285
+: 292 5 10 Bust 
+: 300 2 10 the 
+: 304 3 10 doors
+: 308 2 9 ~ 
+: 312 7 9 down 
+- 321
+: 324 5 9 Dust 
+: 332 2 9 your
+: 336 3 9 self
+: 340 2 7 ~ 
+: 344 1 7 off 
+- 347
+: 348 3 7 Shake 
+: 352 3 12 it 
+: 356 3 12 up 
+- 361
+: 364 3 7 Shake 
+: 368 3 12 it 
+: 372 3 12 up 
+- 377
+: 388 7 9 D
+: 396 2 9 J 
+: 400 3 9 set 
+: 404 2 7 it 
+: 408 7 7 off 
+- 417
+: 420 7 10 Take 
+: 428 3 10 it 
+: 432 3 10 up 
+: 436 2 9 a 
+: 440 7 9 notch 
+- 449
+: 452 3 7 All
+: 456 3 9 ~ 
+: 460 2 9 to
+: 464 3 9 ge
+: 468 2 7 ther 
+: 472 1 7 now 
+- 475
+: 476 3 7 Shake 
+: 480 3 12 it 
+: 484 3 12 up 
+- 489
+: 492 3 7 Shake 
+: 496 3 12 it 
+: 500 3 12 up 
+- 505
+F 524 2 6 Sha-
+F 528 2 6 sha-
+F 532 2 6 sha-
+F 536 3 6 shake 
+F 542 3 6 it 
+F 548 3 6 up 
+- 553
+F 556 2 6 You 
+F 560 2 6 got
+F 564 2 6 ta 
+F 568 3 6 change 
+F 574 3 6 it 
+F 580 3 6 up 
+- 585
+F 588 2 6 And 
+F 592 2 6 when 
+F 596 2 6 you’ve 
+F 600 3 6 had 
+F 606 3 6 e
+F 612 3 6 nough 
+- 617
+F 620 2 6 Sha-
+F 624 2 6 sha-
+F 628 2 6 sha-
+F 632 3 6 shake 
+F 638 3 6 it 
+- 643
+: 644 3 7 Bring
+: 648 2 9 ~ 
+: 652 2 9 the 
+: 656 3 9 lights
+* 660 2 7 ~ 
+: 664 3 7 up 
+- 669
+: 676 5 10 Bust 
+: 684 2 10 the 
+: 688 3 10 doors
+: 692 2 9 ~ 
+: 696 7 9 down 
+- 705
+: 708 5 9 Dust 
+: 716 2 9 your
+: 720 3 9 self
+: 724 2 7 ~ 
+: 728 1 7 off 
+- 731
+: 732 3 7 Shake 
+: 736 3 12 it 
+: 740 3 12 up 
+- 745
+: 748 3 7 Shake 
+: 752 3 12 it 
+: 756 3 12 up 
+- 761
+* 808 5 14 Shake 
+* 816 3 9 it
+* 820 2 2 ~ 
+* 824 11 2 up. 
+E

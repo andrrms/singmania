@@ -1,0 +1,299 @@
+#ARTIST:Operation Ivy
+#TITLE:Knowledge
+#MP3:Operation Ivy - Knowledge.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Ska-Punk
+#YEAR:2012
+#LANGUAGE:English
+#BPM:388
+#GAP:700
+#VIDEO:a=2ItT4f8O93Q,co=https://lastfm.freetls.fastly.net/i/u/ar0/8d828ff6e2144a9f9b8749746b018be8.jpg,bg=https://www.rollingstone.com/wp-content/uploads/2021/04/Operation-Ivy-at-924-Gilman-in-Berkeley-CA-1988-Photo-by-Murray-Bowles.jpg
+: 0 3 4 I 
+: 4 12 0 know 
+: 24 3 0 things 
+: 28 3 -3 are 
+: 32 3 0 get
+: 36 3 -3 ting 
+: 40 3 0 tou
+: 44 3 2 gher 
+- 48
+: 48 2 0 When 
+: 52 3 0 you 
+: 56 7 5 can’t 
+: 64 2 4 get 
+: 68 2 4 the 
+: 72 7 0 top 
+- 80
+: 80 2 -5 Off 
+: 84 2 -5 the 
+: 88 2 5 bot
+: 92 2 5 tom 
+: 96 2 5 of 
+: 100 2 4 the 
+: 104 3 0 bar
+: 108 12 2 rel 
+- 122
+: 128 2 4 Wide 
+: 132 6 4 o
+: 140 8 4 pen 
+: 152 2 4 road 
+: 156 2 4 of 
+: 160 2 4 my 
+: 164 7 2 fu
+: 172 7 0 ture 
+: 180 7 2 no
+: 188 3 0 ~
+: 192 12 -2 ~w … 
+- 206
+: 212 3 -2 It’s 
+: 216 3 5 loo
+: 220 3 3 king 
+: 224 3 5 fuc
+: 228 3 3 kin’ 
+: 232 2 5 nar
+: 236 12 5 row 
+- 250
+: 256 3 4 All 
+: 260 3 2 I 
+: 264 3 4 know 
+: 268 3 4 is 
+: 272 3 4 that 
+: 276 3 2 I 
+: 280 7 4 don’t 
+: 288 1 4 kno
+: 290 1 2 ~
+: 292 12 0 ~w 
+- 306
+: 320 3 5 All 
+: 324 3 3 I 
+: 328 3 5 know 
+: 332 3 5 is 
+: 336 3 5 that 
+: 340 3 3 I 
+: 344 6 5 don’t 
+: 352 7 5 know 
+: 360 2 0 no
+: 364 12 2 thin’ 
+- 378
+: 384 3 4 All 
+: 388 3 2 I 
+: 392 3 4 know 
+: 396 3 4 is 
+: 400 3 4 that 
+: 404 3 2 I 
+: 408 7 4 don’t 
+: 416 1 4 kno
+: 418 1 2 ~
+: 420 12 0 ~w 
+- 434
+: 454 3 5 All 
+: 458 3 3 I 
+: 462 1 5 know 
+: 464 5 5 is 
+: 470 3 5 that 
+: 474 3 3 I 
+: 478 6 5 don’t 
+: 486 7 5 know 
+: 494 5 0 no
+: 500 12 2 thin’ 
+- 514
+: 520 1 2 We
+: 522 45 4 ~ 
+: 568 7 4 get 
+: 576 12 2 told 
+: 592 3 3 to 
+: 596 11 2 de
+: 608 12 0 cide 
+- 622
+: 654 6 4 Just 
+: 662 6 4 like 
+: 688 6 4 as 
+: 696 6 4 if 
+- 704
+: 708 3 0 I’m 
+: 712 6 5 not 
+: 720 3 5 gon
+: 724 3 3 na 
+: 728 4 5 change 
+: 734 5 5 my 
+: 740 12 5 mind 
+- 754
+: 788 3 4 All 
+: 792 3 2 I 
+: 796 3 4 know 
+: 800 3 4 is 
+: 804 3 4 that 
+: 808 3 2 I 
+: 812 7 4 don’t 
+: 820 1 4 kno
+: 822 1 2 ~
+: 824 12 0 ~w 
+- 838
+: 854 3 5 All 
+: 858 3 3 I 
+: 862 3 5 know 
+: 866 3 5 is 
+: 870 3 5 that 
+: 874 3 3 I 
+: 878 6 5 don’t 
+: 886 7 5 know 
+: 894 1 0 no
+: 898 12 2 thin’ 
+- 912
+: 924 3 4 All 
+: 928 3 2 I 
+: 932 3 4 know 
+: 936 3 4 is 
+: 940 3 4 that 
+: 944 3 2 I 
+: 948 7 4 don’t 
+: 956 1 4 kno
+: 958 1 2 ~
+: 960 12 0 ~w 
+- 974
+: 992 3 5 All
+: 996 3 3 I 
+: 1000 3 5 know 
+: 1004 3 5 is 
+: 1008 3 5 that 
+: 1012 3 3 I 
+: 1016 6 5 don’t 
+: 1024 7 5 know 
+: 1032 2 0 no
+: 1036 12 2 thin’ 
+- 1050
+: 1334 2 4 What
+: 1338 2 4 cha 
+: 1342 2 0 gon
+: 1346 6 0 na 
+: 1360 3 0 do 
+: 1364 3 0 with 
+: 1368 3 -3 your
+: 1372 10 2 self 
+- 1383
+: 1384 8 0 Boy 
+: 1394 5 -3 bet
+: 1400 9 0 ter 
+: 1410 5 0 make 
+: 1416 3 0 up 
+: 1420 19 -3 your 
+: 1440 16 2 mind 
+- 1458
+: 1466 7 0 What
+: 1474 2 4 cha 
+: 1478 2 2 gon
+: 1484 2 4 na 
+: 1494 5 4 do 
+: 1500 3 4 with 
+: 1504 2 4 your
+: 1508 8 2 self 
+: 1520 6 4 boy 
+- 1528
+: 1530 3 4 You’re 
+: 1534 3 0 run
+: 1538 6 5 ning 
+: 1546 6 5 out 
+: 1554 3 5 of 
+: 1558 7 5 ti
+: 1566 12 5 ~me 
+- 1580
+: 1740 7 0 This 
+: 1748 2 0 time 
+: 1752 2 0 I 
+: 1756 2 0 got 
+: 1760 2 -3 it 
+: 1764 7 0 all 
+: 1772 3 0 fi
+: 1776 3 -3 gured 
+: 1780 8 0 out 
+- 1790
+: 1878 2 0 All 
+: 1882 2 0 I 
+: 1886 2 0 know 
+: 1890 2 0 is 
+: 1894 2 0 that 
+: 1898 2 -3 I 
+: 1906 3 0 don’t 
+: 1910 3 2 kno
+: 1914 12 0 ~w 
+- 1928
+: 1948 2 0 All 
+: 1952 2 0 I 
+: 1956 2 0 know 
+: 1960 2 0 is 
+: 1964 2 0 that 
+: 1968 2 -3 I 
+: 1972 8 2 don’t 
+: 1982 3 0 know 
+: 1986 3 -3 no
+: 1990 2 0 thi
+: 1994 12 0 ~n’ 
+- 2008
+: 2016 2 4 All 
+: 2020 2 4 I 
+: 2024 2 4 know 
+: 2028 2 4 is 
+: 2032 2 4 that 
+: 2036 2 4 I 
+: 2040 6 4 don’t 
+: 2048 12 4 know 
+- 2062
+: 2082 2 5 All 
+: 2086 2 5 I 
+: 2090 2 5 know 
+: 2094 2 5 is 
+: 2098 2 5 that 
+: 2102 2 3 I 
+: 2106 6 5 don’t 
+: 2114 6 5 know 
+: 2122 2 5 no
+: 2126 12 5 thin’ 
+- 2140
+: 2152 3 4 All 
+: 2156 3 2 I 
+: 2160 3 4 know 
+: 2164 3 4 is 
+: 2168 3 4 that 
+: 2172 3 2 I 
+: 2176 7 4 don’t 
+: 2184 1 4 kno
+: 2186 1 2 ~
+: 2188 12 0 ~w 
+- 2202
+: 2220 3 5 All 
+: 2224 3 3 I 
+: 2228 3 5 know 
+: 2232 3 5 is 
+: 2236 3 5 that 
+: 2240 3 3 I 
+: 2244 6 5 don’t 
+: 2252 7 5 know 
+: 2260 2 0 no
+: 2264 12 2 thin’ 
+- 2278
+: 2288 3 4 All 
+: 2292 3 2 I 
+: 2296 3 4 know 
+: 2300 3 4 is 
+: 2304 3 4 that 
+: 2308 3 2 I 
+: 2312 6 4 don’t 
+: 2320 6 4 kno
+: 2328 3 2 ~
+: 2332 12 0 ~w 
+- 2346
+: 2360 3 5 All 
+: 2364 3 3 I 
+: 2368 3 5 know 
+: 2372 3 5 is 
+: 2376 3 5 that 
+: 2380 3 3 I 
+: 2384 6 5 don’t 
+: 2392 7 5 know 
+: 2400 2 0 no
+: 2404 12 2 thin’ 
+- 2418
+: 2482 5 -5 And 
+: 2488 8 4 that’s 
+: 2512 16 0 fine 
+E

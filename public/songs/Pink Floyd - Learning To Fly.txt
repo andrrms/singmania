@@ -1,0 +1,343 @@
+#ARTIST:Pink Floyd
+#TITLE:Learning To Fly
+#MP3:Pink Floyd - Learning To Fly.mp3
+#CREATOR:mustangfred, mlef
+#COVER:Pink Floyd - Learning To Fly [CO].jpg
+#BACKGROUND:Pink Floyd - Learning To Fly [BG].jpg
+#GENRE:Rock
+#YEAR:1987
+#LANGUAGE:English
+#BPM:330.27
+#GAP:34390
+#VIDEO:v=nVhNCTH8pDs,co=learning-to-fly-5485a5a6ca8d2.jpg,bg=pink-floyd-4dea8509aef63.jpg
+: 0 4 7 In
+: 7 1 7 to 
+: 13 3 4 the 
+* 19 3 7 dis
+* 26 4 2 tance 
+- 40
+: 55 2 7 A 
+: 59 2 7 rib
+: 62 3 7 bon 
+: 68 4 7 of 
+: 78 2 7 black
+: 81 2 -5 ~ 
+- 93
+: 126 4 7 Stretched 
+: 134 5 7 to 
+: 141 1 4 the 
+: 146 4 7 point 
+- 162
+: 166 4 4 Of 
+: 173 4 2 no 
+: 182 7 7 turn
+: 190 13 7 ing 
+* 205 2 7 back
+* 208 2 -5 ~ 
+- 232
+: 257 1 4 A 
+: 259 9 7 flight 
+: 270 1 4 of 
+: 277 5 7 fan
+: 284 1 -5 cy 
+- 295
+: 310 1 4 On 
+: 312 1 7 a 
+: 314 1 7 wind 
+: 318 8 7 swept 
+: 335 3 7 field
+: 339 2 2 ~ 
+- 351
+: 373 7 7 Stand
+: 382 5 7 ing 
+: 391 2 4 a
+: 397 6 7 lone 
+- 413
+: 429 2 2 My 
+: 436 5 7 sens
+: 444 11 7 es 
+: 461 7 7 reeled 
+- 478
+: 507 1 4 A 
+: 509 4 7 fa
+: 516 7 7 tal 
+: 525 1 4 at
+: 529 3 7 trac
+: 534 1 -5 tion 
+- 545
+: 558 1 2 Is 
+: 565 6 7 hold
+: 573 4 7 ing 
+: 579 3 4 me 
+: 588 7 7 fast 
+- 602
+: 605 5 2 How 
+: 620 8 6 can
+: 630 4 7 ~ 
+: 635 8 7 I 
+: 645 1 4 es
+: 650 5 7 cape 
+- 664
+: 668 1 4 Of 
+: 674 6 7 this 
+: 682 1 4 ir
+: 686 1 7 re
+: 690 4 7 sis
+: 700 1 7 ti
+: 703 5 4 ble 
+: 714 1 4 grasp
+: 716 3 2 ~? 
+- 729
+: 763 4 7 Can’t 
+: 770 5 7 keep 
+: 779 5 7 my 
+: 787 8 7 eyes 
+: 804 3 4 from 
+: 811 1 2 the 
+: 815 9 7 cir
+: 831 4 7 cling 
+* 842 3 9 sky
+* 846 4 11 ~ 
+- 860
+: 883 11 9 Tongue-
+: 899 7 9 tied 
+: 910 1 7 and 
+: 915 3 9 twist
+: 922 4 7 ed, 
+: 929 5 7 just 
+: 938 3 7 an 
+: 946 8 9 earth-
+: 962 10 7 bound 
+: 979 2 7 mis
+: 986 8 2 fit, 
+: 1003 10 2 I 
+- 1057
+: 1272 4 7 Ice 
+: 1280 1 2 is 
+: 1288 6 7 form
+: 1296 1 -5 ing 
+- 1307
+: 1320 3 -5 On 
+: 1326 1 2 the 
+: 1330 1 7 tips 
+: 1335 2 7 of 
+: 1340 10 7 my 
+: 1352 4 7 wings 
+- 1366
+: 1399 7 4 Un
+: 1410 5 7 heed
+: 1416 2 4 ed 
+: 1422 7 7 warn
+: 1430 4 4 ings 
+- 1443
+: 1447 3 2 I 
+: 1456 6 7 thought 
+: 1464 3 7 I 
+: 1472 6 7 thought 
+: 1479 3 7 of 
+* 1483 2 7 eve
+* 1486 6 9 ~
+* 1495 1 4 ry
+* 1500 6 2 thing 
+- 1516
+: 1527 4 7 No 
+: 1535 6 7 nav
+: 1542 1 4 i
+: 1547 4 7 ga
+: 1553 1 -5 tor 
+- 1564
+: 1578 1 2 To 
+: 1580 8 7 find 
+: 1592 5 7 my 
+: 1599 5 7 way 
+: 1607 6 7 home 
+- 1623
+: 1655 4 4 Un
+: 1661 9 7 lad
+: 1671 1 4 en
+: 1674 3 7 ed, 
+: 1678 1 7 emp
+: 1682 2 -5 ty 
+- 1694
+: 1702 1 2 And 
+: 1706 13 7 turned 
+: 1722 1 7 to 
+: 1729 4 2 stone 
+- 1755
+: 1782 1 4 A 
+: 1786 11 7 soul 
+* 1799 1 7 in 
+* 1805 3 7 ten
+* 1813 1 4 sion 
+- 1824
+: 1836 1 4 That’s 
+: 1838 8 9 learn
+: 1847 3 9 ing 
+: 1853 5 11 to 
+: 1862 5 9 fly 
+- 1877
+: 1909 6 9 Con
+: 1918 4 9 di
+: 1925 2 7 tion 
+: 1930 8 9 ground
+: 1940 1 0 ed 
+- 1947
+: 1950 1 0 But 
+: 1956 1 0 de
+: 1961 10 9 ter
+: 1974 3 7 mined 
+: 1981 1 7 to 
+: 1985 4 7 try 
+- 2011
+: 2036 4 7 Can’t 
+: 2044 4 7 keep 
+: 2052 6 7 my 
+* 2061 9 7 eyes 
+: 2076 6 4 from 
+: 2085 1 7 the 
+: 2089 9 9 cir
+: 2103 6 11 cling 
+: 2115 9 9 sky 
+- 2134
+: 2156 8 9 Tongue-
+: 2173 6 9 tied 
+: 2182 1 7 and 
+* 2188 2 9 twist
+* 2196 3 7 ed, 
+: 2203 3 7 just 
+: 2211 3 7 an 
+: 2219 11 9 earth-
+: 2235 9 4 bound 
+: 2250 4 2 mis
+: 2259 9 2 fit, 
+: 2275 10 2 I 
+- 2329
+: 3059 1 4 A
+: 3061 10 7 bove 
+: 3074 1 7 the 
+: 3076 4 7 plan
+: 3081 1 7 et 
+- 3092
+: 3103 1 2 On 
+: 3109 1 2 a 
+: 3111 6 7 wing 
+: 3118 1 7 and 
+: 3120 4 7 a 
+: 3126 2 7 pray
+: 3129 2 -5 er 
+- 3153
+: 3183 4 7 My 
+: 3191 5 7 grub
+: 3198 2 7 by 
+: 3204 4 7 ha
+: 3210 1 7 lo 
+- 3221
+: 3230 1 0 A 
+: 3234 11 7 va
+: 3246 1 7 por 
+: 3250 10 7 trail 
+: 3262 1 7 in 
+: 3264 1 7 the 
+: 3266 1 7 emp
+: 3269 1 7 ty 
+: 3271 4 7 air 
+- 3285
+: 3308 1 2 A
+: 3310 10 7 cross 
+: 3325 1 7 the 
+: 3329 9 7 clouds 
+: 3341 3 2 I 
+: 3350 3 4 see 
+: 3357 3 2 my 
+: 3365 4 7 shad
+: 3370 14 7 ow 
+: 3390 6 7 fly 
+- 3406
+: 3437 9 7 Out 
+: 3448 4 7 of 
+: 3453 1 4 the 
+: 3457 7 7 cor
+: 3465 1 4 ner 
+- 3474
+: 3477 5 7 Of 
+: 3484 5 7 my 
+: 3493 6 9 wa
+: 3503 1 4 ter
+: 3505 4 4 ing 
+: 3510 2 4 eye
+: 3513 2 2 ~ 
+- 3537
+: 3565 1 2 A 
+: 3569 7 7 dream 
+: 3580 2 7 un
+: 3584 2 7 threat
+: 3588 2 7 ened 
+- 3600
+: 3613 2 2 By 
+: 3616 1 2 the 
+: 3620 5 7 mor
+: 3627 15 7 ning 
+: 3644 4 7 light 
+- 3658
+: 3692 2 7 Could 
+: 3698 8 7 blow 
+: 3708 1 7 this 
+: 3716 6 7 soul 
+: 3724 3 7 right 
+: 3732 6 7 through 
+: 3740 3 7 the 
+: 3745 4 7 roof 
+: 3753 2 7 of 
+: 3757 2 7 the 
+: 3761 4 7 night 
+- 3787
+: 3819 3 7 There’s 
+: 3827 4 7 no 
+* 3834 3 7 sen
+* 3842 4 7 sa
+* 3850 2 4 tion 
+: 3858 3 4 to 
+- 3870
+: 3874 1 4 Com
+: 3876 14 9 pare 
+: 3892 2 11 with 
+: 3900 3 9 this 
+- 3913
+: 3930 1 5 Sus
+: 3935 9 9 pend
+: 3947 5 9 ed 
+: 3954 8 9 an
+: 3967 2 9 i
+: 3971 1 9 ma
+: 3974 2 0 tion 
+- 3986
+: 3999 1 4 A 
+: 4003 4 7 state 
+: 4011 11 7 of 
+: 4027 3 7 bliss 
+- 4052
+: 4075 4 7 Can’t 
+: 4082 4 7 keep 
+: 4089 6 7 my 
+: 4097 7 7 eyes 
+: 4114 5 4 from 
+: 4121 1 7 the 
+* 4126 11 9 cir
+* 4142 2 11 cling 
+* 4154 4 9 sky
+* 4159 2 7 ~
+: 4162 2 4 ~ 
+- 4174
+: 4193 12 9 Tongue-
+: 4211 5 9 tied 
+* 4219 1 7 and 
+* 4225 2 9 twist
+: 4232 3 7 ed, 
+: 4240 2 7 just 
+: 4249 2 4 an 
+: 4257 8 9 earth-
+: 4272 8 7 bound 
+: 4288 3 2 mis
+: 4296 7 2 fit, 
+: 4312 8 2 I 
+E

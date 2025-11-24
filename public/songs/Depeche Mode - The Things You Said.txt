@@ -1,0 +1,223 @@
+#ARTIST:Depeche Mode
+#TITLE:The Things You Said
+#MP3:Depeche Mode - The Things You Said.mp3
+#CREATOR:jockel1974
+#YEAR:1987
+#LANGUAGE:English
+#BPM:220.4
+#GAP:17340
+#VIDEO:a=0r0mjPctuoE,co=https://i1.sndcdn.com/artworks-000079832057-x6k3fd-t500x500.jpg,bg=depeche-mode-5d7553626c657.jpg
+: 0 3 5 I 
+: 4 3 7 heard 
+: 8 3 5 it 
+: 12 3 7 from 
+: 16 3 5 my 
+: 20 6 7 friends 
+- 27
+: 28 3 5 A
+: 32 7 7 bout 
+: 40 3 5 the 
+: 44 6 7 things 
+: 52 6 7 you 
+: 60 22 3 said 
+- 84
+: 128 3 5 I 
+: 132 3 7 heard 
+: 136 3 5 it 
+: 140 3 7 from 
+: 144 3 5 my 
+: 148 6 7 friends 
+- 155
+: 156 3 5 A
+: 160 7 7 bout 
+: 168 3 5 the 
+: 172 6 7 things 
+: 180 6 7 you 
+: 188 22 3 said 
+- 212
+: 260 3 7 They 
+: 264 7 7 know 
+: 272 3 5 me 
+: 276 3 7 bet
+: 280 3 7 ter 
+: 284 6 5 than 
+: 292 30 3 that 
+- 323
+: 324 3 7 They 
+: 328 7 7 know 
+: 336 3 5 me 
+: 340 3 7 bet
+: 344 3 7 ter 
+: 348 6 5 than 
+: 356 30 3 that 
+- 387
+: 388 3 7 They 
+: 392 7 7 know 
+: 400 3 5 my 
+: 404 6 7 weak
+: 412 3 12 nes
+: 416 26 10 ses 
+- 444
+: 452 3 7 They 
+: 456 7 7 know 
+: 464 3 5 my 
+: 468 6 7 weak
+: 476 3 5 nes
+: 480 26 3 ses 
+- 508
+: 768 3 5 I 
+: 772 3 7 heard 
+: 776 3 5 it 
+: 780 3 7 from 
+: 784 3 5 my 
+: 788 6 7 friends 
+- 795
+: 796 3 5 A
+: 800 7 7 bout 
+: 808 3 5 the 
+: 812 6 7 things 
+: 820 6 7 you 
+: 828 22 3 said 
+- 852
+: 896 3 5 I 
+: 900 3 7 heard 
+: 904 3 5 it 
+: 908 3 7 from 
+: 912 3 5 my 
+: 916 6 7 friends 
+- 923
+: 924 3 5 A
+: 928 7 7 bout 
+: 936 3 5 the 
+: 940 6 7 things 
+: 948 6 7 you 
+: 956 22 3 said 
+- 980
+: 1028 3 7 How 
+: 1032 3 7 can 
+: 1036 3 5 a 
+: 1040 7 7 view 
+: 1048 7 7 be
+: 1056 7 7 come 
+: 1064 7 7 so 
+: 1072 7 7 twis
+: 1080 8 3 ted 
+- 1090
+: 1092 3 7 How 
+: 1096 3 7 can 
+: 1100 3 5 a 
+: 1104 6 7 view 
+: 1112 6 7 be
+: 1120 7 7 come 
+: 1128 6 7 so 
+: 1136 6 7 twis
+: 1144 6 3 ted 
+- 1152
+: 1156 3 7 They 
+: 1160 7 7 know 
+: 1168 3 5 my 
+: 1172 6 7 weak
+: 1180 3 12 nes
+: 1184 26 10 ses 
+- 1212
+: 1220 3 7 They 
+: 1224 7 7 know 
+: 1232 3 5 my 
+: 1236 6 7 weak
+: 1244 3 5 nes
+: 1248 26 3 ses 
+- 1276
+: 1536 3 7 I 
+: 1540 6 8 get 
+: 1548 6 8 so 
+: 1556 3 7 car
+: 1560 3 7 ried 
+: 1564 3 7 a
+: 1568 3 7 way
+: 1572 30 3 ~ 
+- 1603
+: 1604 3 8 You 
+: 1608 7 8 brought 
+: 1616 3 8 me 
+: 1620 6 7 down 
+: 1628 3 3 to
+: 1632 3 3 ~ 
+: 1636 30 0 earth 
+- 1667
+: 1668 3 8 I 
+: 1672 7 8 thought 
+: 1680 7 7 we 
+: 1688 7 7 had 
+: 1696 7 7 some
+: 1704 7 3 thing 
+: 1712 7 5 pre
+: 1720 10 0 cious 
+- 1731
+: 1732 3 5 Now 
+: 1736 3 5 I 
+: 1740 3 5 know 
+: 1744 3 7 what 
+: 1748 3 0 it’s 
+: 1752 34 0 worth 
+- 1788
+: 1920 3 5 I 
+: 1924 3 7 heard 
+: 1928 3 5 it 
+: 1932 3 7 from 
+: 1936 3 5 my 
+: 1940 6 7 friends 
+- 1947
+: 1948 3 5 A
+: 1952 7 7 bout 
+: 1960 3 5 the 
+: 1964 6 7 things 
+: 1972 6 7 you 
+: 1980 22 3 said 
+- 2004
+: 2048 3 5 I 
+: 2052 3 7 heard 
+: 2056 3 5 it 
+: 2060 3 7 from 
+: 2064 3 5 my 
+: 2068 6 7 friends 
+- 2075
+: 2076 3 5 A
+: 2080 7 7 bout 
+: 2088 3 5 the 
+: 2092 6 7 things 
+: 2100 6 7 you 
+: 2108 22 3 said 
+- 2132
+: 2180 3 7 I’ve 
+: 2184 3 7 ne
+: 2188 3 5 ver 
+: 2192 7 7 felt 
+: 2200 7 7 so 
+: 2208 7 7 dis
+: 2216 7 7 ap
+: 2224 7 7 poin
+: 2232 8 3 ted 
+- 2242
+: 2248 3 7 Ne
+: 2252 6 7 ver 
+: 2260 6 7 felt 
+: 2268 6 7 so 
+: 2276 7 7 dis
+: 2284 6 7 ap
+: 2292 6 7 poin
+: 2300 6 3 ted 
+- 2308
+: 2312 3 7 They 
+: 2316 7 7 know 
+: 2324 3 5 my 
+: 2328 6 7 weak
+: 2336 3 12 nes
+: 2340 26 10 ses 
+- 2368
+: 2376 3 7 They 
+: 2380 7 7 know 
+: 2388 3 5 my 
+: 2392 7 7 weak
+: 2400 3 5 nes
+: 2404 26 3 ses 
+E

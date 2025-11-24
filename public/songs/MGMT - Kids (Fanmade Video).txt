@@ -1,0 +1,292 @@
+#ARTIST:MGMT
+#TITLE:Kids (Fanmade Video)
+#MP3:MGMT - Kids (Fanmade Video).mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Synth-Pop, Electronic Rock, Indietronica
+#YEAR:2005
+#LANGUAGE:English
+#BPM:246
+#GAP:55400
+#VIDEO:v=wFZYa1iOnCE,co=https://assets.hhv.de/items/images/generated/970x970/00667/667446/1.jpg,bg=mgmt-4fcb84318429c.jpg
+: 0 2 1 You 
+: 4 2 1 were 
+: 8 2 1 a 
+: 12 6 -3 child 
+- 20
+: 32 2 1 Craw
+: 36 2 1 ling 
+: 40 2 1 on 
+: 44 2 1 your 
+* 48 10 4 knees 
+: 64 1 1 to
+: 66 4 -1 ward 
+: 72 3 -3 it 
+- 77
+: 120 2 1 Ma
+: 124 2 1 king 
+: 128 2 1 ma
+: 132 2 1 ma 
+: 136 4 1 so 
+* 144 4 -3 proud 
+- 150
+: 184 2 1 But 
+: 188 2 1 your 
+: 192 2 1 voice 
+: 196 2 1 was 
+: 200 4 1 too 
+: 208 5 -4 loud 
+- 215
+: 284 2 1 We 
+: 288 2 1 like 
+: 292 2 1 to 
+: 296 4 1 watch 
+: 304 12 4 you 
+: 320 4 1 lau
+: 326 3 -3 ghing 
+- 331
+: 372 2 -3 You 
+: 376 2 1 pick 
+: 380 2 -1 the 
+* 384 2 1 in
+* 388 2 -1 sects 
+: 392 4 1 off 
+: 400 2 1 pla
+: 404 3 -6 ~nts 
+- 409
+: 436 2 1 No 
+: 440 2 1 time 
+: 444 2 1 to 
+: 448 2 1 think 
+: 452 2 1 of 
+: 456 2 1 con
+: 460 2 1 se
+: 464 4 1 quen
+: 472 3 -8 ces 
+- 477
+: 508 2 -6 Con
+: 512 2 1 trol 
+: 516 2 1 your
+* 520 4 1 self 
+- 526
+: 540 2 1 Take 
+: 544 2 1 on
+: 548 2 1 ly 
+: 552 2 1 what 
+: 556 2 1 you 
+: 560 12 4 need 
+: 576 4 -1 from 
+: 582 3 -3 it 
+- 587
+: 636 2 -3 A 
+: 640 2 1 fa
+: 644 2 1 mily 
+: 648 4 1 of 
+* 656 12 4 trees 
+: 672 4 -1 wan
+: 677 3 -3 ted 
+- 682
+: 692 2 -3 To 
+: 696 5 4 be 
+: 704 4 -1 haun
+: 710 3 -3 ted 
+- 715
+: 764 2 -6 Con
+: 768 2 1 trol 
+: 772 2 1 your
+: 776 4 1 self 
+- 782
+: 796 2 1 Take 
+: 800 2 1 on
+: 804 2 1 ly 
+: 808 2 1 what 
+: 812 2 1 you 
+* 816 12 4 need 
+: 832 4 -1 from 
+: 837 2 -3 it 
+- 841
+: 892 2 -3 A 
+: 896 2 1 fa
+: 900 2 1 mily 
+: 904 4 1 of 
+: 912 12 4 trees 
+: 928 4 -1 wan
+: 933 3 -3 ted 
+- 938
+: 948 2 -3 To 
+* 952 5 4 be 
+: 960 4 -1 haun
+: 966 2 -3 ted 
+- 970
+: 1020 2 -6 The 
+: 1024 2 1 wa
+: 1028 2 1 ter 
+: 1032 2 1 is 
+: 1036 9 -3 warm 
+- 1047
+: 1056 2 1 But 
+: 1060 2 1 it’s 
+: 1064 2 1 sen
+: 1068 2 1 ding 
+: 1072 12 4 me 
+* 1088 2 -1 shi
+: 1092 7 -3 vers 
+- 1101
+: 1148 2 -6 A 
+: 1152 2 1 ba
+: 1156 2 1 by 
+: 1160 2 1 is 
+: 1164 6 -3 born 
+- 1172
+: 1208 2 1 Cry
+: 1212 2 1 ing 
+: 1216 4 1 out 
+: 1224 3 1 for 
+: 1228 2 -1 at
+: 1232 2 1 ten
+: 1238 3 -4 tion 
+- 1243
+: 1276 2 -6 The 
+: 1280 1 1 me
+: 1282 1 1 mo
+: 1284 4 1 ries 
+: 1292 4 -3 fade 
+- 1298
+: 1308 2 1 Like 
+: 1312 2 1 loo
+: 1316 2 1 king 
+: 1320 2 1 through 
+: 1324 2 1 a 
+* 1328 12 4 fogged 
+: 1344 2 -1 mir
+: 1348 4 -3 ror 
+- 1354
+: 1388 2 -3 De
+: 1392 2 1 ci
+: 1396 2 1 sions 
+: 1400 2 1 to 
+: 1404 2 -1 de
+: 1408 2 1 ci
+: 1412 2 1 sions 
+: 1416 4 1 are 
+: 1424 2 1 made 
+- 1427
+: 1428 2 -1 And 
+: 1432 4 1 not 
+: 1440 2 1 faught 
+: 1444 2 -1 but 
+: 1448 4 1 I 
+: 1456 4 1 thought 
+- 1462
+* 1468 2 -3 This 
+: 1472 2 1 would
+: 1476 2 -1 n’t 
+: 1480 2 1 hurt 
+: 1484 2 -1 a 
+: 1488 2 1 lot 
+: 1492 2 -1 I 
+: 1496 3 1 guess 
+: 1504 1 1 no
+: 1506 3 -1 ~t 
+- 1511
+: 1532 2 -6 Con
+: 1536 2 1 trol 
+: 1540 2 1 your
+: 1544 4 1 self 
+- 1550
+: 1564 2 1 Take 
+: 1568 2 1 on
+: 1572 2 1 ly 
+: 1576 2 1 what 
+: 1580 2 1 you 
+* 1584 12 4 need 
+: 1600 4 -1 from 
+: 1605 3 -3 it 
+- 1610
+: 1660 2 -6 A 
+: 1664 2 1 fa
+: 1668 2 1 mily 
+: 1672 4 1 of 
+: 1680 12 4 trees 
+: 1696 4 1 wan
+: 1701 3 -3 ted 
+- 1706
+: 1716 2 -3 To 
+: 1720 6 4 be 
+: 1728 4 -1 haun
+: 1734 2 -3 ted 
+- 1738
+: 1788 2 -6 Con
+* 1792 2 1 trol 
+: 1796 2 1 your
+: 1800 4 1 self 
+- 1806
+: 1820 2 1 Take 
+: 1824 2 1 on
+: 1828 2 1 ly 
+: 1832 2 1 what 
+: 1836 2 1 you 
+: 1840 12 4 need 
+: 1856 4 -1 from 
+: 1861 3 -3 it 
+- 1866
+: 1916 2 -3 A 
+: 1920 2 1 fa
+: 1924 2 1 mily 
+: 1928 4 1 of 
+* 1936 12 4 trees 
+: 1952 4 -1 wan
+: 1957 3 -3 ted 
+- 1962
+: 1972 2 -3 To 
+: 1976 6 4 be 
+: 1984 4 -1 haun
+: 1990 2 -3 ted 
+- 1994
+: 2940 2 -6 Con
+: 2944 2 1 trol 
+: 2948 2 1 your
+: 2952 4 1 self 
+- 2958
+: 2972 2 1 Take 
+: 2976 2 1 on
+: 2980 2 1 ly 
+* 2984 2 1 what 
+: 2988 2 1 you 
+: 2992 12 4 need 
+: 3008 4 -1 from 
+: 3013 3 -3 it 
+- 3018
+: 3068 2 -3 A 
+: 3072 2 1 fa
+: 3076 2 1 mily 
+: 3080 4 1 of 
+: 3088 12 4 trees 
+: 3104 4 -1 wan
+: 3109 3 -3 ted 
+- 3114
+: 3124 2 -3 To 
+: 3128 6 4 be 
+: 3136 4 -1 haun
+: 3142 2 -3 ted 
+- 3146
+: 3196 2 -6 Con
+: 3200 2 1 trol 
+: 3204 2 1 your
+: 3208 4 1 self 
+- 3214
+* 3228 2 1 Take 
+: 3232 2 1 on
+: 3236 2 1 ly 
+: 3240 2 1 what 
+: 3244 2 1 you 
+: 3248 12 4 need 
+: 3264 4 -1 from 
+: 3269 4 -3 it 
+- 3275
+: 3324 2 -3 A 
+: 3328 2 1 fa
+: 3332 2 1 mily 
+: 3336 4 1 of 
+* 3344 94 4 trees 
+E

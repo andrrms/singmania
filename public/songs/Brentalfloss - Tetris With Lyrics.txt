@@ -1,0 +1,334 @@
+#ARTIST:Brentalfloss
+#TITLE:Tetris With Lyrics
+#MP3:Brentalfloss - Tetris With Lyrics.mp3
+#CREATOR:Usdx Star
+#YEAR:2008
+#LANGUAGE:English
+#BPM:335.53
+#GAP:2840
+#VIDEO:v=QMKTdrQqpNk,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2e/7b/d5/2e7bd51f-a301-a789-18e2-fc8c73d669e5/859703463724_cover.jpg/5000x5000bb.jpg,tags=explicit
+F 0 4 0 One, 
+F 8 4 0 two, 
+F 16 4 0 three, 
+F 24 4 0 four. 
+- 29
+: 31 5 12 Shapes 
+: 39 3 7 made 
+: 43 2 8 of 
+: 47 5 10 four 
+: 55 2 8 co
+: 58 3 7 lored 
+: 64 5 5 blocks 
+- 70
+: 72 2 5 Like 
+: 75 1 8 a 
+: 79 4 12 T 
+: 88 2 10 or 
+: 91 2 8 a 
+: 95 6 7 box 
+- 105
+: 107 2 7 Come 
+: 112 4 10 down 
+: 119 4 12 like 
+: 127 6 8 fa
+: 134 5 5 lling 
+: 142 8 5 bricks. 
+- 159
+: 163 5 10 You 
+: 171 2 13 can 
+* 175 6 17 place 
+: 183 2 15 them 
+: 187 1 13 in 
+: 191 7 12 rows 
+- 202
+: 204 2 7 But 
+: 208 1 12 e
+: 210 1 12 ve
+: 212 3 12 ry
+: 216 1 10 bo
+: 218 3 8 dy 
+: 223 7 7 knows 
+- 230
+: 231 2 7 That 
+: 235 2 9 they 
+: 239 5 10 made 
+: 246 5 12 this 
+: 254 6 8 game 
+: 262 4 5 for 
+: 271 7 5 chicks. 
+- 284
+: 287 12 12 Mom 
+: 302 14 8 just 
+: 319 13 10 loves 
+: 335 11 7 to 
+: 351 12 8 flip 
+: 367 9 5 and 
+: 381 9 4 stack. 
+- 390
+* 391 4 12 “Flip 
+* 399 4 13 and 
+* 406 8 12 stack.” 
+- 414
+: 416 14 12 Grand
+: 431 11 8 ma 
+: 445 14 10 says 
+: 463 10 7 this 
+: 476 9 8 shit 
+: 487 4 12 is 
+* 494 11 17 like 
+* 508 9 16 crack 
+- 518
+F 520 3 0 “Well, 
+F 524 3 0 it 
+F 528 13 0 is!.” 
+- 541
+: 542 5 12 This 
+: 550 3 7 is 
+: 554 2 8 the 
+: 558 5 10 game 
+: 566 2 8 girls 
+: 570 3 7 de
+: 574 7 5 serve 
+- 581
+: 583 3 5 There 
+: 588 1 8 is 
+: 591 4 12 no 
+: 599 2 10 lear
+: 602 2 8 ning 
+: 606 8 7 curve 
+- 617
+: 619 2 7 Which 
+: 623 5 10 makes 
+: 631 4 12 it 
+: 638 5 8 great 
+: 645 6 5 for 
+: 654 9 5 noobs. 
+- 671
+: 674 5 10 It 
+: 681 3 13 will 
+* 686 4 17 fill 
+: 692 3 15 you 
+: 697 2 13 with 
+: 701 8 12 glee 
+- 715
+: 718 5 12 Es
+: 724 5 10 pe
+: 730 3 8 cial
+: 734 6 7 ly 
+- 741
+: 743 2 7 If 
+: 746 2 9 you 
+: 750 6 10 have 
+: 759 4 12 a 
+: 766 7 8 vag 
+: 775 4 5 and 
+: 781 8 5 boobs. 
+- 796
+: 799 13 12 Your 
+: 814 13 8 Mom 
+: 830 17 10 loves 
+: 849 10 7 it, 
+: 861 15 8 mine 
+: 878 13 5 does 
+: 893 9 4 too 
+- 902
+* 903 5 12 “Mine 
+* 910 5 13 does 
+* 918 5 12 too.” 
+- 926
+: 928 13 12 Call 
+: 943 11 8 me 
+: 957 15 10 se
+: 973 13 7 xist, 
+: 989 8 8 bitch 
+: 999 4 12 it’s 
+* 1004 12 17 still 
+* 1018 10 16 true. 
+- 1028
+F 1029 3 0 “Just 
+F 1033 4 0 kidding 
+F 1038 2 0 about 
+F 1041 1 0 the 
+F 1043 4 0 bitch 
+F 1048 4 0 part.” 
+- 1053
+: 1055 5 12 Deep 
+: 1062 2 7 in 
+: 1066 2 8 a 
+: 1070 6 10 girl’s 
+: 1078 2 8 dain
+: 1081 2 7 ty 
+: 1085 6 5 brain, 
+- 1091
+: 1092 2 5 There’s 
+: 1095 2 8 a 
+: 1099 7 12 spot 
+: 1110 2 10 near 
+: 1113 2 8 a 
+: 1117 7 7 vein 
+- 1128
+: 1130 2 7 Which 
+: 1134 6 10 re
+: 1141 6 12 gu
+: 1148 6 8 lates 
+: 1157 5 5 their 
+: 1164 7 5 bliss. 
+- 1181
+: 1185 6 10 Once 
+: 1193 2 13 they 
+* 1197 6 17 see 
+: 1205 2 15 fa
+: 1208 3 13 lling 
+: 1214 7 12 blocks 
+- 1224
+: 1226 1 7 The 
+: 1229 7 12 T-Spot
+: 1237 4 10 ~ 
+: 1242 2 8 un
+: 1245 6 7 locks 
+- 1251
+: 1252 3 7 And 
+: 1257 2 9 they 
+: 1261 6 10 start 
+: 1269 3 12 to 
+: 1276 5 8 sing 
+: 1283 7 5 like 
+: 1292 7 5 this. 
+- 1299
+F 1301 6 0 Sing! 
+- 1307
+* 1309 14 12 La
+* 1324 15 8 la
+* 1340 15 10 la
+* 1356 15 7 la
+* 1372 15 8 la
+* 1388 15 5 la
+* 1404 27 4 la. 
+- 1434
+* 1436 15 12 We 
+* 1453 15 8 love 
+* 1470 13 10 Te
+* 1484 15 7 tris. 
+* 1502 5 8 La
+* 1508 6 12 la
+* 1515 16 17 la
+* 1532 19 16 la. 
+- 1561
+: 1565 7 12 Here 
+: 1575 1 7 is 
+: 1578 1 8 a 
+: 1581 6 10 trick 
+: 1589 2 8 I 
+: 1593 2 7 have 
+: 1597 1 5 lear
+: 1599 4 5 ned 
+- 1603
+: 1605 2 5 To 
+: 1609 2 8 a
+: 1612 8 12 void 
+: 1622 2 10 get
+: 1625 2 8 ting 
+: 1629 9 7 burned 
+- 1638
+: 1640 3 7 When 
+: 1645 5 10 you 
+: 1653 6 12 piss 
+: 1662 6 8 of 
+: 1670 4 5 your 
+: 1676 7 5 chick. 
+- 1692
+: 1696 5 10 If 
+: 1703 2 13 you 
+* 1707 6 17 sing 
+: 1715 4 15 this 
+: 1721 2 13 on 
+: 1725 10 12 key, 
+- 1735
+: 1737 1 0 Im
+: 1739 4 0 me
+: 1744 6 0 dia
+: 1751 3 0 te
+: 1755 8 0 ly 
+- 1763
+: 1764 3 7 She’ll 
+: 1769 3 8 for
+: 1773 5 10 get 
+: 1781 6 12 that 
+: 1789 6 8 you’re 
+: 1798 4 5 a 
+: 1805 7 5 dick. 
+- 1818
+* 1821 14 12 La
+* 1836 15 8 la
+* 1852 15 10 la
+* 1868 15 7 la
+* 1884 15 8 la
+* 1900 15 5 la
+* 1916 27 4 la. 
+- 1946
+* 1948 15 12 La
+* 1964 15 8 la
+* 1981 14 10 la
+* 1996 14 7 la
+* 2012 7 8 la
+* 2020 7 12 la
+* 2028 14 17 la
+* 2043 19 16 la. 
+- 2072
+: 2076 14 12 Te
+: 2091 14 8 tris 
+: 2108 12 10 helps 
+: 2124 11 7 when 
+- 2136
+: 2138 8 8 Chicks 
+: 2148 3 8 want 
+: 2152 2 8 to 
+: 2156 6 8 neu
+: 2163 6 5 ter 
+: 2172 17 4 us. 
+- 2201
+: 2205 13 12 If 
+: 2220 13 8 you 
+: 2235 15 10 love 
+: 2252 12 7 it 
+- 2266
+F 2268 9 8 You 
+F 2282 3 8 pro
+F 2286 3 8 pa
+F 2290 8 8 bly 
+- 2298
+* 2299 7 17 Have 
+* 2308 3 16 a 
+* 2313 3 17 u
+* 2317 4 16 te
+* 2322 19 17 rus. 
+- 2351
+F 2382 10 0 So, 
+F 2395 2 0 I 
+F 2398 4 0 was 
+F 2403 3 0 kin
+F 2407 4 0 da 
+F 2412 4 0 trying 
+F 2417 3 0 to 
+- 2420
+F 2421 2 0 Com
+F 2424 1 0 mu
+F 2426 1 0 ni
+F 2428 3 0 cate 
+F 2432 2 0 that 
+F 2435 2 0 I 
+F 2438 2 0 think 
+- 2440
+F 2441 3 0 Wo
+F 2445 4 0 men 
+F 2462 3 0 en
+F 2466 4 0 joy 
+F 2471 3 0 Te
+F 2475 5 0 tris 
+F 2481 1 0 a 
+F 2483 22 0 lot. 
+- 2505
+F 2506 1 0 Is 
+F 2508 3 0 that 
+F 2512 6 0 clear? 
+E

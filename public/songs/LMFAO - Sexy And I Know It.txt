@@ -1,0 +1,546 @@
+#ARTIST:LMFAO
+#TITLE:Sexy And I Know It
+#MP3:LMFAO - Sexy And I Know It.mp3
+#CREATOR:vicktoben
+#GENRE:Pop
+#YEAR:2011
+#LANGUAGE:English
+#BPM:260
+#GAP:12860
+#VIDEO:v=wyx6JDQCslE,co=sexy-and-i-know-it-58feed0ec7600.jpg,bg=lmfao-4e49301cb0276.jpg
+F 0 8 7 Yeah 
+- 10
+F 32 8 7 Yeah 
+- 42
+F 48 1 7 When 
+F 50 1 7 I 
+F 52 1 7 walk 
+F 54 2 7 on 
+F 58 6 7 by, 
+- 66
+F 68 2 7 Girls 
+F 72 2 7 be 
+F 76 1 7 loo
+F 78 1 7 kin’ 
+F 80 2 7 like 
+F 84 2 7 damn 
+F 88 1 7 he 
+F 90 6 7 fly 
+- 98
+F 110 1 7 I 
+F 112 2 7 pimp 
+F 116 2 7 to 
+F 120 1 7 the 
+F 122 6 7 beat, 
+- 130
+F 132 1 7 Wal
+F 134 1 7 kin’ 
+F 136 1 7 down 
+F 138 1 7 the 
+F 140 2 7 street 
+F 144 1 7 in 
+F 146 1 7 my 
+F 148 2 7 new 
+F 152 1 7 la 
+F 154 2 7 freak, 
+- 158
+F 160 8 7 Yeah 
+- 170
+F 176 1 7 This 
+F 178 1 7 is 
+F 180 1 7 how 
+F 182 2 7 I 
+F 186 6 7 roll, 
+- 194
+F 196 1 7 A
+F 198 1 7 ni
+F 200 2 7 mal 
+F 204 2 7 print, 
+F 208 2 7 pants 
+F 212 1 7 out
+F 214 1 7 ta 
+F 216 1 7 con
+F 218 6 7 trol, 
+- 226
+F 230 1 7 It’s 
+F 232 2 7 Red
+F 236 2 7 foo 
+F 240 1 7 with 
+F 242 1 7 the 
+F 244 1 7 big 
+F 246 2 7 ass 
+F 250 4 7 fro 
+- 256
+F 258 1 7 And 
+F 260 2 7 like 
+F 264 2 7 Bruce 
+F 268 2 7 Lee 
+F 272 2 7 I 
+F 276 2 7 got 
+F 280 1 7 the 
+F 282 2 7 claw, 
+- 286
+F 288 4 7 Yo 
+- 294
+: 304 3 12 Girl, 
+: 308 1 7 look 
+: 310 1 7 at 
+: 312 2 7 that 
+: 316 3 7 bo
+: 320 4 7 dy 
+- 326
+: 336 3 12 Girl, 
+: 340 1 7 look 
+: 342 1 7 at 
+: 344 2 7 that 
+: 348 3 7 bo
+: 352 4 7 dy 
+- 358
+: 368 3 12 Girl, 
+: 372 1 7 look 
+: 374 1 7 at 
+: 376 2 7 that 
+: 380 3 7 bo
+: 384 4 7 dy 
+- 390
+F 392 1 7 I-
+F 394 2 7 I, 
+F 398 1 7 I 
+F 400 3 7 work 
+F 404 8 7 out 
+- 414
+: 432 3 12 Girl, 
+: 436 1 7 look 
+: 438 1 7 at 
+* 440 2 7 that 
+: 444 3 7 bo
+: 448 4 7 dy 
+- 454
+: 464 3 12 Girl, 
+: 468 1 7 look 
+* 470 1 7 at 
+: 472 2 7 that 
+: 476 3 7 bo
+: 480 4 7 dy 
+- 486
+: 496 3 12 Girl, 
+: 500 1 7 look 
+: 502 1 7 at 
+: 504 2 7 that 
+: 508 3 7 bo
+: 512 4 7 dy 
+- 518
+F 520 1 7 I-
+F 522 2 7 I, 
+F 526 1 7 I 
+F 528 3 7 work 
+F 532 4 7 out 
+- 538
+F 540 2 7 When 
+F 544 2 7 I 
+F 548 6 7 walk 
+F 556 2 7 in 
+F 560 2 7 the 
+F 564 6 7 spot, 
+- 572
+F 580 2 7 This 
+F 584 2 7 is 
+F 588 2 7 what 
+F 592 2 7 I 
+F 596 8 7 see 
+- 606
+F 612 2 7 Eve
+F 616 2 7 ry
+F 620 2 7 bo
+F 624 2 7 dy 
+F 628 4 7 stops 
+- 634
+F 636 2 7 And 
+F 640 2 7 they 
+F 644 2 7 sta
+F 648 2 7 rin’ 
+F 652 6 7 at 
+F 660 1 7 me 
+- 663
+F 664 2 7 I 
+F 668 2 7 got 
+F 672 2 7 a 
+F 676 2 7 pas
+F 680 2 7 sion 
+F 684 2 7 in 
+F 688 2 7 my 
+F 692 4 7 pants 
+- 698
+F 700 2 7 And 
+F 704 2 7 I 
+F 708 2 7 ain’t 
+F 712 2 7 a
+F 716 1 7 fraid 
+- 719
+F 720 2 7 To 
+F 724 2 7 show 
+F 728 4 7 it, 
+F 736 2 7 show 
+F 740 4 7 it, 
+F 748 2 7 show 
+F 752 4 7 it, 
+F 760 2 7 show 
+F 764 4 7 it, 
+- 770
+: 784 2 5 I’m 
+: 788 3 7 se
+: 792 3 7 xy 
+: 796 3 7 and 
+: 800 3 7 I 
+: 804 3 10 know 
+: 808 4 7 it 
+- 814
+: 912 2 5 I’m 
+: 916 3 7 se
+: 920 3 7 xy 
+* 924 3 7 and 
+: 928 3 7 I 
+* 932 3 10 know 
+: 936 4 7 it 
+- 942
+F 1072 1 7 When 
+F 1074 1 7 I’m 
+F 1076 3 7 at 
+F 1080 1 7 the 
+F 1082 4 7 mall, 
+- 1088
+F 1090 1 7 Se
+F 1092 2 7 cu
+F 1096 1 7 ri
+F 1098 1 7 ty 
+F 1100 2 7 just 
+F 1104 2 7 can’t 
+F 1108 2 7 fight 
+F 1112 1 7 them 
+F 1114 8 7 off 
+- 1124
+F 1136 1 7 When 
+F 1138 1 7 I’m 
+F 1140 2 7 at 
+F 1144 1 7 the 
+F 1146 4 7 beach, 
+- 1152
+F 1154 1 7 I’m 
+F 1156 1 7 in 
+F 1158 1 7 a 
+F 1160 3 7 Spee
+F 1164 2 7 do 
+F 1168 1 7 try’n 
+F 1170 1 7 to 
+F 1172 2 7 tan 
+F 1176 1 7 my 
+F 1178 6 7 cheeks 
+- 1186
+F 1200 1 7 This 
+F 1202 1 7 is 
+F 1204 1 7 how 
+F 1206 2 7 I 
+F 1210 4 7 roll, 
+- 1216
+F 1218 1 7 Come 
+F 1220 2 7 on 
+F 1224 2 7 la
+F 1228 2 7 dies, 
+F 1232 2 7 it’s 
+F 1236 2 7 time 
+F 1240 1 7 to 
+F 1242 4 7 go 
+- 1248
+F 1250 1 7 We 
+F 1252 1 7 hea
+F 1254 1 7 ded 
+F 1256 1 7 to 
+F 1258 1 7 the 
+F 1260 1 7 bar, 
+- 1263
+F 1264 1 7 Ba
+F 1266 1 7 by 
+F 1268 2 7 don’t 
+F 1272 1 7 be 
+F 1274 2 7 ner
+F 1278 1 7 vous 
+- 1280
+F 1280 2 7 No 
+F 1284 2 7 shoes, 
+F 1288 2 7 no 
+F 1292 1 7 shirt, 
+- 1295
+F 1296 1 7 And 
+F 1298 1 7 I 
+F 1300 1 7 still 
+F 1302 2 7 get 
+F 1306 1 7 ser
+F 1308 4 7 vice 
+- 1314
+: 1328 3 12 Girl, 
+: 1332 1 7 look 
+: 1334 1 7 at 
+: 1336 2 7 that 
+: 1340 3 7 bo
+: 1344 4 7 dy 
+- 1350
+: 1360 3 12 Girl, 
+: 1364 1 7 look 
+: 1366 1 7 at 
+: 1368 2 7 that 
+: 1372 3 7 bo
+: 1376 4 7 dy 
+- 1382
+: 1392 3 12 Girl, 
+: 1396 1 7 look 
+: 1398 1 7 at 
+: 1400 2 7 that 
+: 1404 3 7 bo
+: 1408 4 7 dy 
+- 1414
+F 1416 1 7 I-
+F 1418 2 7 I, 
+F 1422 1 7 I 
+F 1424 3 7 work 
+F 1428 8 7 out 
+- 1438
+: 1456 3 12 Girl, 
+: 1460 1 7 look 
+: 1462 1 7 at 
+* 1464 2 7 that 
+* 1468 3 7 bo
+: 1472 4 7 dy 
+- 1478
+: 1488 3 12 Girl, 
+: 1492 1 7 look 
+: 1494 1 7 at 
+: 1496 2 7 that 
+: 1500 3 7 bo
+: 1504 4 7 dy 
+- 1510
+: 1520 3 12 Girl, 
+* 1524 1 7 look 
+: 1526 1 7 at 
+: 1528 2 7 that 
+: 1532 3 7 bo
+: 1536 4 7 dy 
+- 1542
+F 1544 1 7 I-
+F 1546 2 7 I, 
+F 1550 1 7 I 
+F 1552 3 7 work 
+F 1556 4 7 out 
+- 1562
+F 1564 2 7 When 
+F 1568 2 7 I 
+F 1572 6 7 walk 
+F 1580 2 7 in 
+F 1584 2 7 the 
+F 1588 6 7 spot, 
+- 1596
+F 1604 2 7 This 
+F 1608 2 7 is 
+F 1612 2 7 what 
+F 1616 2 7 I 
+F 1620 8 7 see 
+- 1630
+F 1636 2 7 Eve
+F 1640 2 7 ry
+F 1644 2 7 bo
+F 1648 2 7 dy 
+F 1652 4 7 stops 
+- 1658
+F 1660 2 7 And 
+F 1664 2 7 they 
+F 1668 2 7 sta
+F 1672 2 7 rin’ 
+F 1676 6 7 at 
+F 1684 1 7 me 
+- 1687
+F 1688 2 7 I 
+F 1692 2 7 got 
+F 1696 2 7 a 
+F 1700 2 7 pas
+F 1704 2 7 sion 
+F 1708 2 7 in 
+F 1712 2 7 my 
+F 1716 4 7 pants 
+- 1722
+F 1724 2 7 And 
+F 1728 2 7 I 
+F 1732 2 7 ain’t 
+F 1736 2 7 a
+F 1740 1 7 fraid 
+- 1743
+F 1744 2 7 To 
+F 1748 2 7 show 
+F 1752 4 7 it, 
+F 1760 2 7 show 
+F 1764 4 7 it, 
+F 1772 2 7 show 
+F 1776 4 7 it, 
+F 1784 2 7 show 
+F 1788 4 7 it, 
+- 1794
+: 1808 2 5 I’m 
+: 1812 3 7 se
+: 1816 3 7 xy 
+* 1820 3 7 and 
+: 1824 3 7 I 
+: 1828 3 10 know 
+: 1832 4 7 it 
+- 1838
+F 1856 8 7 Hey 
+- 1866
+: 1936 2 5 I’m 
+: 1940 3 7 se
+: 1944 3 7 xy 
+: 1948 3 7 and 
+: 1952 3 7 I 
+: 1956 3 10 know 
+: 1960 4 7 it 
+- 1966
+F 2000 1 7 Check 
+F 2002 1 7 it 
+F 2004 4 7 out 
+- 2010
+F 2032 1 7 Check 
+F 2034 1 7 it 
+F 2036 4 7 out 
+- 2042
+F 2084 1 7 Wig
+F 2086 1 7 gle, 
+F 2088 1 7 wig
+F 2090 1 7 gle, 
+F 2092 1 7 wig
+F 2094 1 7 gle, 
+F 2096 1 7 wig
+F 2098 1 7 gle, 
+F 2100 1 7 wig
+F 2102 2 7 gle, 
+F 2106 6 7 yeah 
+- 2114
+F 2116 1 7 Wig
+F 2118 1 7 gle, 
+F 2120 1 7 wig
+F 2122 1 7 gle, 
+F 2124 1 7 wig
+F 2126 1 7 gle, 
+F 2128 1 7 wig
+F 2130 1 7 gle, 
+F 2132 1 7 wig
+F 2134 2 7 gle, 
+F 2138 6 7 yeah 
+- 2146
+F 2148 1 7 Wig
+F 2150 1 7 gle, 
+F 2152 1 7 wig
+F 2154 1 7 gle, 
+F 2156 1 7 wig
+F 2158 1 7 gle, 
+F 2160 1 7 wig
+F 2162 1 7 gle, 
+F 2164 1 7 wig
+F 2166 2 7 gle, 
+F 2170 6 7 yeah 
+- 2178
+F 2180 1 7 Wig
+F 2182 1 7 gle, 
+F 2184 1 7 wig
+F 2186 1 7 gle, 
+F 2188 1 7 wig
+F 2190 1 7 gle, 
+F 2192 1 7 wig
+F 2194 1 7 gle, 
+F 2196 4 7 yeah, 
+F 2202 4 7 yeah 
+- 2208
+F 2224 1 7 Do 
+F 2226 1 7 the 
+F 2228 1 7 wig
+F 2230 2 7 gle 
+F 2234 6 7 man 
+- 2242
+F 2254 1 7 I 
+F 2256 1 7 do 
+F 2258 1 7 the 
+F 2260 1 7 wig
+F 2262 2 7 gle 
+F 2266 6 7 man 
+- 2274
+F 2288 8 7 Yeah 
+- 2298
+: 2320 2 7 I’m 
+: 2324 3 7 se
+: 2328 3 7 xy 
+: 2332 3 7 and 
+: 2336 3 7 I 
+: 2340 3 10 know 
+F 2344 4 9 it 
+- 2350
+F 2368 8 7 Hey 
+- 2378
+F 2400 8 7 Yeah 
+- 2410
+: 2608 3 12 Girl, 
+: 2612 1 7 look 
+* 2614 1 7 at 
+: 2616 2 7 that 
+: 2620 3 7 bo
+: 2624 4 7 dy 
+- 2630
+: 2640 3 12 Girl, 
+: 2644 1 7 look 
+: 2646 1 7 at 
+: 2648 2 7 that 
+: 2652 3 7 bo
+: 2656 4 7 dy 
+- 2662
+: 2672 3 12 Girl, 
+: 2676 1 7 look 
+: 2678 1 7 at 
+: 2680 2 7 that 
+: 2684 3 7 bo
+: 2688 4 7 dy 
+- 2694
+F 2696 1 7 I-
+F 2698 2 7 I, 
+F 2702 1 7 I 
+F 2704 3 7 work 
+F 2708 8 7 out 
+- 2718
+: 2736 3 12 Girl, 
+: 2740 1 7 look 
+* 2742 1 7 at 
+: 2744 2 7 that 
+: 2748 3 7 bo
+: 2752 4 7 dy 
+- 2758
+: 2768 3 12 Girl, 
+: 2772 1 7 look 
+: 2774 1 7 at 
+: 2776 2 7 that 
+: 2780 3 7 bo
+: 2784 4 7 dy 
+- 2790
+: 2800 3 12 Girl, 
+: 2804 1 7 look 
+: 2806 1 7 at 
+: 2808 2 7 that 
+: 2812 3 7 bo
+: 2816 4 7 dy 
+- 2822
+F 2824 1 7 I-
+F 2826 2 7 I, 
+F 2830 1 7 I 
+F 2832 3 7 work 
+F 2836 8 7 out 
+- 2846
+: 3088 2 5 I’m 
+: 3092 3 7 se
+* 3096 3 7 xy 
+: 3100 3 7 and 
+: 3104 3 7 I 
+: 3108 3 10 know 
+: 3112 4 7 it 
+E

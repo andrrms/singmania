@@ -1,0 +1,437 @@
+#ARTIST:The Asteroids Galaxy Tour
+#TITLE:The Golden Age
+#MP3:The Asteroids Galaxy Tour - The Golden Age.mp3
+#CREATOR:milur
+#GENRE:Pop
+#YEAR:2009
+#LANGUAGE:English
+#BPM:339.94
+#GAP:15300
+#VIDEO:v=x5h-LAvQDCQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/2a/ce/1a2ace12-75a9-2ce7-1a0b-cfcbba045066/4050538002805.jpg/5000x5000bb.jpg,bg=asteroids-galaxy-tour-the-51aa933b62428.jpg
+: 0 1 0 I 
+: 2 7 5 wish 
+: 10 4 5 I 
+: 16 8 9 lived 
+: 26 7 4 in a 
+: 34 12 10 golden 
+: 48 12 7 age 
+- 64
+: 66 7 5 Givin’ 
+: 74 4 5 it 
+: 80 8 3 up 
+: 90 5 3 for 
+: 96 1 0 the 
+: 98 12 3 Broadway 
+: 112 12 0 stage 
+- 128
+: 130 6 5 Hang 
+: 138 6 5 with the 
+: 146 8 6 rats 
+: 156 4 6 and 
+: 162 7 10 smoke 
+: 170 5 10 ci
+: 176 8 7 gars 
+- 184
+: 186 3 2 Have 
+: 190 2 0 a 
+: 194 12 5 break with 
+: 210 4 3 Frank 
+: 218 4 0 and 
+: 226 4 3 count 
+: 234 2 3 the 
+: 240 12 0 stars 
+- 256
+: 258 6 5 Dressed 
+: 266 6 5 to the 
+: 274 6 9 nines 
+: 282 4 9 with 
+* 290 12 10 hair to 
+: 306 8 7 match 
+- 320
+: 322 12 5 Shiny 
+: 338 8 3 jewls 
+: 352 1 0 ca~ 
+* 354 10 3 sino 
+: 370 12 0 cash 
+- 384
+: 386 12 5 Tappin’ 
+: 402 6 9 feet 
+: 410 6 6 wanna 
+: 418 12 10 take the 
+: 432 8 7 lead 
+- 446
+: 448 1 3 A 
+: 450 6 5 trip 
+: 458 6 5 back in 
+: 466 6 3 time 
+: 474 6 0 is 
+: 482 10 3 all I 
+: 494 8 5 need 
+* 504 6 12 Oh 
+- 512
+: 514 3 12 Sing 
+: 518 2 5 it 
+: 522 6 5 out 
+: 530 6 5 loud 
+: 538 3 2 gon
+: 542 2 0 na 
+: 546 4 5 get 
+: 554 4 5 back 
+: 562 3 7 ho
+: 566 4 9 ney 
+- 576
+: 578 3 12 Sing 
+: 582 2 5 it 
+: 586 6 5 out 
+: 594 6 5 loud 
+: 602 3 2 get 
+: 606 2 0 a
+: 610 6 5 way 
+: 618 6 5 with 
+* 626 6 0 me 
+- 639
+: 642 3 12 Sing 
+: 646 2 5 it 
+: 650 6 5 out 
+: 658 6 5 loud 
+: 666 3 2 gon
+: 670 2 0 na 
+: 674 4 5 get 
+: 682 4 5 back 
+: 690 3 7 ho
+: 694 4 9 ney 
+- 704
+: 706 3 12 Sing 
+: 710 2 5 it 
+: 714 6 5 out 
+: 722 5 5 loud 
+: 728 4 0 and 
+: 736 6 5 let 
+: 744 12 5 yourself 
+: 760 8 2 free 
+- 768
+* 770 44 17 Uh
+: 818 6 15 ~
+: 826 6 12 ~
+: 834 44 15 ~ 
+- 880
+: 882 15 15 Uh 
+: 898 44 14 ~ 
+: 946 15 10 ~ 
+: 962 31 12 ~ 
+: 994 28 17 ~ 
+- 1022
+: 1024 1 0 I’m 
+: 1026 6 5 on 
+: 1034 4 5 my 
+: 1040 1 9 wa
+: 1042 6 9 ~ay 
+: 1050 6 5 gonna 
+: 1058 6 10 make 
+: 1066 2 10 it 
+: 1070 7 7 big 
+: 1078 6 0 gonna 
+- 1088
+: 1090 6 5 Make 
+: 1098 6 5 these 
+: 1106 6 3 songs 
+: 1114 6 0 for the 
+: 1122 6 3 chicks 
+: 1130 3 3 to 
+: 1134 10 0 dig 
+- 1150
+: 1152 1 0 It’s 
+: 1154 13 5 really 
+* 1168 4 9 hot 
+: 1178 4 5 an’ a 
+: 1186 12 10 little bit 
+: 1202 12 7 sour 
+- 1214
+: 1216 1 0 We’re 
+: 1218 6 5 getting 
+: 1226 6 5 your 
+: 1234 6 3 strength 
+: 1242 6 0 to 
+: 1250 14 3 maximum 
+: 1266 8 0 power 
+- 1280
+: 1282 15 5 Flying a
+: 1298 6 9 way 
+: 1306 7 9 from re
+: 1314 13 10 ali
+: 1328 6 7 ty 
+- 1341
+: 1344 1 0 What
+: 1346 7 5 ever 
+: 1354 6 5 ever 
+: 1362 6 3 happened 
+: 1370 4 0 to 
+: 1378 14 3 gravi
+: 1394 6 0 ty 
+- 1406
+: 1408 1 0 I 
+: 1410 12 5 see it 
+: 1424 6 9 clear 
+: 1440 1 9 a 
+: 1442 12 10 shooting 
+: 1456 8 7 star 
+: 1466 4 7 An’ I’m 
+- 1472
+: 1474 3 9 Real
+: 1478 3 5 ly 
+: 1482 6 5 gonna 
+: 1490 6 3 sing it 
+: 1498 4 3 like 
+: 1506 8 3 dada 
+: 1520 6 5 da 
+- 1535
+: 1538 3 12 Sing 
+: 1542 2 5 it 
+: 1546 6 5 out 
+: 1554 6 5 loud 
+: 1562 3 2 gon
+: 1566 2 0 na 
+: 1570 4 5 get 
+: 1578 4 5 back 
+: 1586 3 7 ho
+: 1590 4 9 ney 
+- 1600
+: 1602 3 12 Sing 
+: 1606 2 5 it 
+: 1610 6 5 out 
+: 1618 6 5 loud 
+: 1626 3 2 get 
+: 1630 2 0 a
+: 1634 6 5 way 
+: 1642 6 5 with 
+* 1650 6 0 me 
+- 1663
+: 1666 3 12 Sing 
+: 1670 2 5 it 
+: 1674 6 5 out 
+: 1682 6 5 loud 
+: 1690 3 2 gon
+: 1694 2 0 ~na 
+: 1698 4 5 get 
+: 1706 4 5 back 
+: 1714 3 7 ho
+: 1718 4 9 ney 
+- 1728
+: 1730 3 12 Sing 
+: 1734 2 5 it 
+: 1738 6 5 out 
+: 1746 5 5 loud 
+: 1752 4 0 and 
+: 1758 5 5 let 
+: 1764 12 5 yourself 
+: 1778 4 2 be 
+* 1786 6 11 yeah! 
+- 1792
+: 1794 3 12 Sing 
+: 1798 2 5 it 
+: 1802 6 5 out 
+: 1810 6 5 loud 
+: 1818 3 2 gon
+: 1822 2 0 na 
+: 1826 4 5 get 
+: 1834 4 5 back 
+: 1842 3 7 ho
+: 1846 4 9 ney 
+- 1856
+: 1858 3 12 Sing 
+: 1862 2 5 it 
+: 1866 6 5 out 
+: 1874 6 5 loud 
+: 1882 3 2 get 
+: 1886 2 0 a
+: 1890 6 5 way 
+: 1898 6 5 with 
+: 1906 6 0 me 
+- 1919
+: 1922 3 12 Sing 
+: 1926 2 5 it 
+: 1930 6 5 out 
+: 1938 6 5 loud 
+: 1946 3 2 on 
+: 1950 2 0 a 
+: 1954 4 5 trip 
+: 1962 4 5 back 
+: 1970 3 7 ho
+: 1974 4 9 ney 
+- 1984
+: 1986 3 12 Sing 
+: 1990 2 5 it 
+: 1994 6 5 out 
+: 2002 6 5 loud 
+: 2010 1 0 and 
+: 2012 6 5 let 
+: 2020 12 5 yourself 
+: 2034 3 2 free
+: 2038 1 5 ~
+: 2040 1 7 ~
+* 2042 4 9 ~ 
+- 2068
+F 2106 3 14 Yeah 
+F 2110 12 10 yeah 
+- 2167
+F 2530 28 14 Ohhhh 
+: 2562 8 5 silver 
+: 2574 10 9 screen 
+: 2586 6 5 on a 
+: 2594 10 10 rainy 
+: 2610 12 7 day 
+- 2624
+: 2626 11 5 Sally 
+: 2638 8 3 Bowles 
+: 2650 3 3 in 
+: 2654 3 0 a 
+: 2658 12 3 Caba
+: 2674 12 0 ret 
+- 2688
+: 2690 12 5 Shaking 
+: 2706 6 9 sticks 
+: 2714 6 5 oh 
+* 2722 10 10 what a 
+: 2734 12 7 show 
+- 2752
+: 2754 6 5 Fresh 
+: 2762 6 5 and 
+: 2770 6 3 jolly 
+: 2778 6 0 from 
+: 2786 4 3 tip 
+: 2794 3 3 to 
+: 2798 12 0 toe 
+- 2816
+: 2818 12 5 Remblin’ 
+: 2834 6 9 down 
+: 2842 6 5 the 
+: 2850 10 10 boule
+: 2866 6 7 vard 
+: 2874 6 0 with a 
+- 2880
+: 2882 12 5 Fire 
+: 2896 9 3 burning 
+: 2906 3 3 in 
+: 2910 3 0 a 
+: 2914 12 3 wooden 
+: 2928 8 0 heart 
+- 2942
+: 2944 1 0 My 
+: 2946 6 5 mind 
+: 2954 4 5 is 
+: 2960 4 9 set 
+: 2976 1 5 I 
+: 2978 6 10 won’t 
+: 2986 2 10 be 
+: 2990 10 7 lying 
+: 3002 5 5 But 
+: 3008 1 5 I 
+- 3009
+: 3010 3 9 Nev
+: 3014 3 7 er 
+: 3018 3 7 real
+: 3022 3 6 ly 
+: 3026 6 5 thought 
+: 3034 3 3 it 
+: 3038 3 0 would 
+: 3042 3 3 feel 
+: 3046 7 3 this 
+: 3054 7 5 fine 
+: 3062 6 12 yeah! 
+- 3072
+: 3074 3 12 Sing 
+: 3078 2 5 it 
+: 3082 6 5 out 
+: 3090 6 5 loud 
+: 3098 3 2 gon
+: 3102 2 0 na 
+: 3106 4 5 get 
+: 3114 4 5 back 
+: 3122 3 7 ho
+: 3126 4 9 ney 
+- 3136
+: 3138 3 12 Sing 
+: 3142 2 5 it 
+: 3146 6 5 out 
+: 3154 6 5 loud 
+: 3162 3 2 get 
+: 3166 2 0 a
+: 3170 6 5 way 
+: 3178 6 5 with 
+: 3186 6 0 me 
+- 3199
+: 3202 3 12 Sing 
+: 3206 2 5 it 
+: 3210 6 5 out 
+: 3218 6 5 loud 
+: 3226 3 2 gon
+: 3230 2 0 na 
+: 3234 4 5 get 
+: 3242 4 5 back 
+: 3250 3 7 ho
+: 3254 4 9 ney 
+- 3264
+: 3266 3 12 Sing 
+: 3270 2 5 it 
+: 3274 6 5 out 
+: 3282 6 5 loud 
+: 3290 2 5 and 
+: 3294 6 10 let 
+: 3304 1 10 your
+: 3306 6 11 self 
+* 3314 16 13 free 
+- 3330
+: 3330 3 12 Sing 
+: 3334 2 5 it 
+: 3338 6 5 out 
+: 3346 6 5 loud 
+: 3354 3 2 gon
+: 3358 2 0 na 
+: 3362 4 5 get 
+: 3370 4 5 back 
+: 3378 3 7 ho
+: 3382 4 9 ney 
+- 3392
+: 3394 3 12 Sing 
+: 3398 2 5 it 
+: 3402 6 5 out 
+: 3410 6 5 loud 
+: 3418 3 2 get 
+: 3422 2 0 a
+: 3426 6 5 way 
+: 3434 6 5 with 
+: 3442 6 0 me 
+- 3455
+: 3458 3 12 Sing 
+: 3462 2 5 it 
+: 3466 6 5 out 
+: 3474 6 5 loud 
+: 3482 3 2 gon
+: 3486 2 0 na 
+: 3490 4 5 get 
+: 3498 4 5 back 
+: 3506 3 7 ho
+: 3510 4 9 ney 
+- 3520
+: 3522 3 12 Sing 
+: 3526 2 5 it 
+: 3530 6 5 out 
+: 3538 6 5 loud 
+: 3546 2 5 and 
+: 3550 6 10 let 
+: 3560 1 10 your
+: 3562 6 11 self 
+* 3570 14 13 free, 
+F 3586 16 13 yeah 
+- 3647
+* 4100 44 17 Uh
+: 4148 6 15 ~
+: 4156 6 12 ~
+: 4164 44 15 ~ 
+- 4210
+: 4212 15 15 Uh
+: 4228 44 14 ~
+: 4276 15 10 ~
+: 4292 31 12 ~
+: 4324 28 17 ~ 
+E

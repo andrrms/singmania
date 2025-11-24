@@ -1,0 +1,300 @@
+#ARTIST:Howard Jones
+#TITLE:New Song
+#MP3:Howard Jones - New Song.mp3
+#CREATOR:Buberatz
+#YEAR:1983
+#LANGUAGE:English
+#BPM:224.7
+#GAP:8600
+#VIDEO:v=9fjg7N_mGaU,co=https://m.media-amazon.com/images/I/511oV3YbqXL.jpg,bg=howard-jones-4f3a82af3e217.jpg
+: 0 3 5 I’ve 
+: 4 1 5 been 
+: 6 4 5 wai
+: 11 2 5 ting 
+: 16 2 3 for 
+: 20 2 1 so 
+: 24 7 1 long 
+- 33
+: 62 1 3 To 
+: 64 3 5 come 
+: 68 1 5 here 
+: 70 5 5 now 
+: 76 2 5 and 
+: 80 3 3 sing 
+: 84 2 1 this 
+: 88 5 3 song
+: 94 1 1 ~
+: 96 3 -2 ~ 
+- 101
+: 120 7 5 Oh 
+: 128 3 5 don’t 
+: 132 1 5 be 
+: 134 5 5 fooled 
+: 140 2 5 by 
+: 144 2 3 what 
+: 148 2 8 you 
+: 152 9 5 see 
+- 163
+: 192 3 5 Don’t 
+: 196 1 5 be 
+: 198 5 5 fooled 
+: 204 2 5 by 
+: 208 2 3 what 
+: 212 2 1 you 
+: 216 4 3 hear
+: 222 5 -2 ~ 
+- 229
+: 248 3 -2 Oh 
+: 252 3 -4 ho 
+- 257
+: 320 1 5 This 
+: 322 2 5 is 
+: 326 1 5 a 
+: 328 3 5 song 
+: 332 1 5 to 
+: 334 3 3 all 
+: 338 1 1 of 
+: 340 2 1 my 
+: 344 3 3 fri
+: 348 5 1 ends 
+- 355
+: 385 1 5 They 
+: 387 2 5 take 
+: 390 1 5 the 
+: 392 3 5 chall
+: 396 2 5 enge 
+: 400 3 3 to 
+: 404 2 3 their 
+: 408 7 5 hearts 
+- 417
+: 449 1 5 Chall
+: 451 1 5 eng
+: 453 2 5 ing 
+: 457 3 5 pre
+: 461 2 5 con
+: 465 2 3 ceived 
+: 469 2 8 i
+: 473 6 5 deas 
+- 481
+: 512 1 5 Say
+: 514 2 5 ing 
+: 517 1 5 good
+: 519 3 5 bye 
+: 523 1 5 to 
+: 525 2 5 long 
+: 529 3 3 stan
+: 533 2 1 ding 
+: 537 3 3 fears
+: 542 6 -2 ~ 
+- 550
+: 576 4 5 Don’t 
+: 582 2 3 crack 
+: 588 2 3 up 
+- 592
+: 608 4 5 Bend 
+: 614 3 3 your 
+: 620 5 3 brain 
+- 627
+: 640 4 5 See 
+: 646 3 3 both 
+: 652 5 3 sides 
+- 659
+: 672 6 5 Throw 
+: 680 2 3 off 
+: 684 2 3 your 
+: 688 5 6 men
+: 694 3 5 tal 
+: 700 19 8 chains 
+- 721
+: 928 4 5 Don’t 
+: 934 2 3 crack 
+: 940 2 3 up 
+- 944
+: 960 4 5 Bend 
+: 966 3 3 your 
+: 972 5 3 brain 
+- 979
+: 992 4 5 See 
+: 998 3 3 both 
+: 1004 5 3 sides 
+- 1011
+: 1024 6 5 Throw 
+: 1032 2 3 off 
+: 1036 2 3 your 
+: 1040 5 6 men
+: 1046 3 5 tal 
+: 1052 19 8 chains 
+- 1073
+: 1152 3 5 I 
+: 1156 1 5 don’t 
+: 1158 3 5 wan
+: 1162 1 5 na 
+: 1164 3 5 be 
+: 1168 2 3 hip 
+: 1172 2 1 and 
+: 1176 13 1 cool 
+- 1191
+: 1218 2 5 I 
+: 1221 1 5 don’t 
+: 1223 2 5 wan
+: 1226 1 5 na 
+: 1228 3 5 play 
+: 1232 2 3 by 
+: 1236 2 1 the 
+: 1240 7 5 rules 
+- 1249
+: 1272 8 5 Not 
+: 1281 2 5 un
+: 1285 1 5 der 
+: 1287 1 5 the 
+: 1289 2 5 thumb 
+: 1292 1 5 of 
+: 1294 1 5 the 
+: 1296 1 5 cy
+: 1298 1 3 ni
+: 1300 1 8 cal 
+: 1304 11 5 few 
+- 1317
+: 1336 8 5 Or 
+: 1345 2 5 la
+: 1348 2 5 den 
+: 1351 3 5 down 
+: 1355 2 5 by 
+: 1358 1 5 the 
+: 1360 7 3 doom 
+: 1368 6 1 crew 
+- 1376
+: 1408 4 5 Don’t 
+: 1414 2 3 crack 
+: 1420 2 3 up 
+- 1424
+: 1440 4 5 Bend 
+: 1446 3 3 your 
+: 1452 5 3 brain 
+- 1459
+: 1472 4 5 See 
+: 1478 3 3 both 
+: 1484 5 3 sides 
+- 1491
+: 1504 6 5 Throw 
+: 1512 2 3 off 
+: 1516 2 3 your 
+: 1520 5 6 men
+: 1526 3 5 tal 
+: 1532 19 8 chains 
+- 1553
+: 2016 4 17 Don’t 
+: 2022 2 15 crack 
+: 2028 2 15 up 
+- 2032
+: 2048 4 17 Bend 
+: 2054 3 15 your 
+: 2060 5 15 brain 
+- 2067
+: 2080 4 17 See 
+: 2086 3 15 both 
+: 2092 5 15 sides 
+- 2099
+: 2112 6 17 Throw 
+: 2120 2 15 off 
+: 2124 2 15 your 
+: 2128 5 18 men
+: 2134 3 17 tal 
+: 2140 19 20 chains 
+- 2161
+: 2240 3 17 I’ve 
+: 2244 1 17 been 
+: 2246 5 17 wai
+: 2252 2 17 ting 
+: 2256 3 15 for 
+: 2260 2 13 so 
+: 2264 7 13 long 
+- 2273
+: 2302 1 15 To 
+: 2304 3 17 come 
+: 2308 1 17 here 
+: 2310 5 17 now 
+: 2316 1 17 and 
+: 2320 3 15 sing 
+: 2324 1 13 this 
+: 2328 5 15 song
+: 2334 1 13 ~
+: 2336 3 10 ~ 
+- 2341
+: 2360 7 17 Oh 
+: 2368 3 17 don’t 
+: 2372 1 17 be 
+: 2374 5 17 fooled 
+: 2380 3 17 by 
+: 2384 2 15 what 
+: 2388 2 20 you 
+: 2392 9 17 see 
+- 2403
+: 2432 2 17 Don’t 
+: 2436 1 17 be 
+: 2438 5 17 fooled 
+: 2444 2 17 by 
+: 2448 3 15 what 
+: 2452 2 13 you 
+: 2456 4 15 hear
+: 2462 5 10 ~ 
+- 2469
+: 2496 1 17 This 
+: 2498 2 17 is 
+: 2502 1 17 a 
+: 2504 2 17 song 
+: 2508 1 17 to 
+: 2510 3 15 all
+: 2514 1 13 of 
+: 2516 2 13 my 
+: 2520 3 15 friends
+: 2524 5 13 ~ 
+- 2531
+: 2560 1 17 They 
+: 2562 2 17 take 
+: 2566 1 17 the 
+: 2568 3 17 chall
+: 2572 2 17 enge 
+: 2576 3 15 to 
+: 2580 2 15 their 
+: 2584 7 17 hearts 
+- 2593
+: 2624 1 17 Chall
+: 2626 1 17 eng
+: 2628 2 17 ing 
+: 2632 3 17 pre
+: 2636 2 17 con
+: 2640 2 15 ceived 
+: 2644 2 20 i
+: 2648 9 17 deas 
+- 2659
+: 2688 1 17 Say
+: 2690 1 17 ing 
+: 2692 1 17 good
+: 2694 2 17 bye 
+: 2698 1 17 to 
+: 2700 2 17 long 
+: 2704 3 15 stan
+: 2708 2 13 ding 
+: 2712 3 15 fears
+: 2717 5 10 ~ 
+- 2724
+: 2752 4 17 Don’t 
+: 2758 2 15 crack 
+: 2764 2 15 up 
+- 2768
+: 2784 4 17 Bend 
+: 2790 3 15 your 
+: 2796 5 15 brain 
+- 2803
+: 2816 4 17 See 
+: 2822 3 15 both 
+: 2828 5 15 sides 
+- 2835
+: 2848 6 17 Throw 
+: 2856 2 15 off 
+: 2860 2 15 your 
+: 2864 5 18 men
+: 2870 3 17 tal 
+: 2876 19 20 chains 
+E

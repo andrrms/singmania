@@ -1,0 +1,407 @@
+#ARTIST:Eurovision Song Contest The Story of Fire Saga (Will Ferrell & Rachel McAdams)
+#TITLE:Double Trouble
+#MP3:Eurovision Song Contest The Story of Fire Saga (Will Ferrell & Rachel McAdams) - Double Trouble.mp3
+#CREATOR:Lolomazz
+#COVER:Eurovision Song Contest The Story of Fire Saga (Will Ferrell & Rachel McAdams) - Double Trouble [CO].jpg
+#BACKGROUND:Eurovision Song Contest The Story of Fire Saga (Will Ferrell & Rachel McAdams) - Double Trouble [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2020
+#LANGUAGE:English
+#BPM:249.5
+#GAP:8110
+#VIDEO:v=7j9hseLiAys,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/ed/7b37ed79-71d5-1f36-44f9-289f2997c3b8/886448418108.jpg/5000x5000bb.jpg,preview=68.83,medley=1148-2431
+: 0 3 3 I 
+: 4 8 10 saw 
+: 13 14 10 you 
+: 42 4 6 and 
+: 47 9 3 then 
+: 62 6 3 all 
+: 70 3 3 of 
+: 74 4 6 my 
+: 79 6 5 nights 
+: 87 7 1 turned 
+: 96 11 3 mor
+: 110 13 3 ning 
+- 124
+: 126 5 3 You 
+: 133 9 10 turned 
+: 143 11 10 ’round 
+: 168 5 6 and 
+: 174 7 3 I 
+: 188 8 3 sud
+: 198 4 3 denly 
+: 204 8 3 found 
+: 214 6 1 my 
+: 222 12 3 glo
+: 237 3 3 ry 
+- 241
+: 241 3 10 Some
+: 245 4 8 times 
+: 251 2 6 I 
+: 254 6 3 pinch 
+: 266 2 6 my
+: 271 5 8 self 
+: 281 5 10 ’cause 
+: 288 8 6 I 
+: 297 5 5 don’t 
+: 303 6 1 know 
+- 311
+: 325 4 10 Am 
+: 330 3 8 I 
+: 334 8 10 drea
+: 344 5 11 ming 
+: 350 14 10 now? 
+- 366
+: 369 4 10 I 
+: 374 2 8 wan
+: 377 2 6 na 
+: 381 6 3 stop 
+: 393 3 6 the 
+: 397 6 8 clocks 
+: 409 3 10 and 
+: 413 10 8 hold 
+: 426 3 5 you 
+: 431 12 1 close 
+- 445
+: 453 4 8 But 
+: 459 1 6 I 
+: 462 6 10 don’t 
+: 470 7 10 know 
+: 479 30 10 how
+* 511 30 14 ~ 
+- 543
+: 550 6 20 Hey 
+: 557 3 20 ba
+: 561 3 15 by, 
+: 565 3 15 when 
+: 569 3 16 you 
+: 573 6 18 look 
+: 582 2 18 at 
+: 585 11 18 me
+: 598 2 16 ~
+: 601 2 15 ~
+: 604 3 13 ~
+- 609
+: 613 7 13 I 
+: 621 6 13 know 
+: 629 3 8 I’m 
+: 633 2 10 in 
+: 636 7 11 dou
+: 645 6 10 ble 
+: 653 3 8 trou
+: 657 2 8 ble 
+: 661 2 6 to
+: 665 5 6 night 
+- 672
+: 677 6 20 Hey 
+: 685 3 20 ba
+: 689 3 15 by, 
+: 693 2 15 when 
+: 696 3 16 you 
+: 700 6 18 talk 
+: 707 3 18 to 
+: 713 10 18 me
+: 724 2 16 ~
+: 727 2 15 ~
+: 730 3 13 ~
+- 735
+: 743 5 13 I 
+: 749 5 13 know 
+: 757 3 8 I’m 
+: 761 2 10 in 
+: 764 6 11 dou
+: 772 6 10 ble 
+: 780 3 8 trou
+: 784 3 8 ble 
+: 789 2 6 to
+: 793 4 6 night 
+- 799
+: 816 3 3 Show 
+: 820 2 10 me 
+* 823 4 6 your 
+* 828 6 8 love 
+- 836
+: 849 3 3 Give 
+: 853 2 10 me 
+: 856 3 6 your 
+: 860 6 8 love 
+- 868
+: 885 3 6 How 
+: 889 2 8 can 
+: 893 3 10 some
+: 898 2 11 thing 
+: 902 4 10 so 
+: 908 5 8 wrong 
+: 914 4 10 feel 
+: 919 3 8 so 
+: 924 5 6 right? 
+- 931
+: 944 3 3 Straight 
+: 948 2 10 from 
+: 951 4 6 a
+: 956 6 8 bove, 
+: 976 3 3 the 
+: 980 3 10 whi
+: 984 3 6 test 
+: 988 6 8 dove 
+- 996
+: 1011 3 8 I’m 
+: 1015 3 8 in 
+: 1019 7 11 dou
+: 1028 5 10 ble 
+: 1036 3 13 trou
+: 1040 2 10 ble 
+: 1043 4 13 to
+: 1048 2 13 ni
+* 1051 41 15 ~ght 
+- 1094
+: 1148 6 11 Dou
+: 1156 4 10 ble 
+: 1164 3 13 trou
+: 1168 2 10 ble 
+: 1171 4 13 to
+: 1177 5 15 night 
+- 1184
+: 1189 2 3 Dou
+: 1192 3 3 ble 
+: 1196 3 3 trou
+: 1200 4 3 ble, 
+: 1213 3 1 dou
+: 1217 2 1 ble, 
+: 1220 2 1 dou
+: 1223 3 1 ble 
+: 1227 3 1 trou
+: 1231 3 1 ble 
+: 1235 3 1 to
+: 1239 3 1 night 
+- 1244
+: 1267 3 8 I’m 
+: 1271 3 8 in 
+: 1275 8 11 dou
+: 1284 3 10 ble 
+: 1291 3 13 trou
+: 1295 2 10 ble 
+: 1299 3 13 to
+* 1304 8 15 night 
+- 1314
+: 1340 3 3 Ne
+: 1344 3 1 ver 
+: 1348 5 3 felt 
+: 1355 4 6 this 
+: 1360 3 1 a
+: 1364 7 3 live 
+- 1372
+: 1372 2 6 Lo
+: 1375 3 6 ving 
+* 1379 3 6 you’s 
+* 1383 3 8 my 
+* 1387 4 6 nine 
+: 1392 1 5 to 
+: 1394 6 3 five 
+- 1401
+: 1403 2 3 No
+: 1407 2 1 thing 
+: 1411 4 1 makes 
+: 1416 2 -2 me 
+: 1420 4 5 feel 
+: 1425 4 5 like 
+: 1430 3 5 you 
+: 1434 5 3 do 
+- 1441
+: 1468 3 3 Up 
+: 1472 3 1 is 
+: 1476 5 3 down, 
+: 1484 3 3 down 
+: 1488 3 1 is 
+: 1492 5 3 up 
+- 1498
+: 1500 3 6 I 
+: 1504 2 6 don’t 
+: 1507 3 6 real
+: 1511 3 8 ly 
+: 1515 4 6 give 
+: 1520 2 5 a 
+: 1524 5 11 what 
+- 1530
+: 1532 3 13 I 
+: 1536 2 13 just 
+: 1539 3 13 wan
+: 1543 2 10 na 
+* 1547 5 17 break 
+: 1554 4 17 eve
+: 1559 3 18 ry 
+: 1565 3 18 ru
+: 1569 1 17 ~
+: 1571 6 15 le 
+- 1579
+: 1582 4 10 Some
+: 1588 4 8 times 
+: 1593 1 6 I 
+: 1595 8 3 pinch 
+: 1606 3 6 my
+: 1611 9 8 self 
+: 1622 5 10 ’cause 
+: 1628 9 8 I 
+: 1638 5 8 don’t 
+: 1644 6 8 know 
+- 1652
+: 1667 4 10 Am 
+: 1672 1 8 I 
+: 1675 7 10 drea
+: 1684 5 11 ming 
+: 1691 9 10 now? 
+- 1702
+: 1711 4 10 I 
+: 1716 2 8 wan
+: 1719 2 6 na 
+: 1722 6 3 stop 
+: 1734 2 6 the 
+: 1738 10 8 clocks 
+: 1750 4 10 and 
+: 1755 10 8 hold 
+: 1766 2 5 you 
+: 1769 13 1 close 
+- 1784
+: 1794 3 8 But 
+: 1798 3 6 I 
+: 1802 5 10 don’t 
+: 1811 6 10 know 
+: 1819 27 10 how
+: 1847 5 14 ~
+: 1854 30 17 ~ 
+- 1886
+: 1889 7 20 Hey 
+: 1898 3 20 ba
+: 1902 3 15 by, 
+: 1906 2 15 when 
+: 1910 3 16 you 
+: 1914 5 18 look 
+: 1921 2 18 at 
+: 1925 10 18 me
+: 1936 2 16 ~
+: 1939 2 15 ~
+: 1942 5 13 ~
+- 1949
+: 1955 5 13 I 
+: 1961 7 13 know 
+: 1970 3 8 I’m 
+: 1974 2 10 in 
+: 1978 7 11 dou
+: 1987 4 10 ble 
+: 1993 4 8 trou
+: 1998 2 8 ble 
+: 2001 2 6 to
+: 2005 5 6 night 
+- 2012
+: 2018 5 20 Hey 
+: 2026 3 20 ba
+: 2030 3 15 by, 
+: 2034 2 15 when 
+: 2037 3 16 you 
+: 2041 6 18 talk 
+: 2049 3 18 to 
+: 2053 11 18 me
+: 2066 2 16 ~
+: 2069 2 15 ~
+: 2072 4 13 ~
+- 2078
+: 2083 5 13 I 
+: 2089 5 13 know 
+: 2098 3 8 I’m 
+: 2102 2 10 in 
+: 2105 7 11 dou
+: 2114 4 10 ble 
+: 2121 3 8 trou
+: 2126 2 8 ble 
+: 2129 2 6 to
+: 2133 6 6 night 
+- 2141
+: 2157 3 3 Show 
+: 2161 3 10 me 
+: 2165 3 6 your 
+: 2169 6 8 love 
+- 2177
+* 2188 3 3 Give 
+* 2192 3 10 me 
+* 2196 3 6 your 
+* 2200 6 8 love 
+- 2208
+: 2225 3 6 How 
+: 2229 3 8 can 
+: 2233 5 10 some
+: 2240 2 11 thing 
+: 2245 3 10 so 
+: 2250 3 8 wrong 
+: 2255 3 10 feel 
+: 2260 3 8 so 
+: 2264 6 6 right? 
+- 2272
+: 2285 3 3 Straight 
+: 2289 3 10 from 
+: 2293 3 6 a
+: 2297 6 8 bove, 
+: 2317 3 3 the 
+: 2321 3 10 whi
+: 2325 3 6 test 
+: 2329 6 8 dove 
+- 2337
+: 2353 3 8 I’m 
+: 2357 3 8 in 
+: 2361 7 11 dou
+: 2370 3 10 ble 
+: 2377 3 13 trou
+: 2381 2 10 ble 
+: 2384 4 13 to
+* 2389 42 15 night 
+- 2433
+: 2489 5 11 Dou
+: 2496 5 10 ble 
+: 2505 3 13 trou
+: 2509 2 10 ble 
+: 2512 4 13 to
+: 2518 5 15 night 
+- 2525
+: 2530 2 3 Dou
+: 2533 3 3 ble 
+: 2537 3 3 trou
+: 2541 4 3 ble, 
+: 2554 3 1 dou
+: 2558 2 1 ble, 
+: 2561 2 1 dou
+: 2564 3 1 ble 
+: 2568 2 1 trou
+: 2571 3 1 ble 
+: 2577 3 1 to
+: 2581 3 1 night 
+- 2586
+: 2608 3 8 I’m 
+: 2612 3 8 in 
+: 2616 7 11 dou
+: 2625 3 10 ble 
+: 2633 3 13 trou
+* 2637 2 10 ble 
+* 2640 3 13 to
+: 2645 6 15 night 
+- 2653
+: 2657 2 3 Dou
+: 2660 3 3 ble 
+: 2664 3 3 trou
+: 2668 4 3 ble, 
+: 2680 3 1 dou
+: 2684 2 1 ble, 
+: 2687 4 1 dou
+: 2692 2 1 ble 
+: 2695 3 1 trou
+: 2699 2 1 ble 
+: 2704 3 1 to
+: 2708 3 1 night 
+- 2713
+: 2736 3 8 I’m 
+: 2740 3 8 in 
+: 2744 6 11 dou
+: 2752 3 10 ble 
+: 2759 3 13 trou
+: 2764 2 10 ble 
+: 2768 2 13 to
+* 2772 8 15 night 
+E

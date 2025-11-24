@@ -1,0 +1,225 @@
+#ARTIST:Black Sabbath
+#TITLE:Children Of The Grave
+#MP3:Black Sabbath - Children Of The Grave.mp3
+#CREATOR:crappy
+#GENRE:Metal
+#YEAR:1971
+#LANGUAGE:English
+#BPM:278
+#GAP:52770
+#VIDEO:a=chxt6iZHRTs,co=children-of-the-grave-5f6b3dc31d235.jpg,bg=black-sabbath-4e031e8e1fe0f.jpg
+: 0 6 1 Re
+: 8 4 1 vo
+: 14 5 4 lu
+: 20 8 6 tion 
+: 31 5 8 in 
+: 38 6 8 their 
+: 46 2 4 minds
+: 50 5 1 ~ 
+- 57
+: 58 4 1 The 
+: 63 3 -1 chil
+: 67 4 1 dren 
+: 74 6 1 start 
+: 82 3 1 to 
+: 88 6 4 march
+: 96 8 1 ~ 
+- 106
+: 116 4 1 A
+: 121 5 8 gainst 
+: 127 3 8 the 
+: 132 4 6 world
+: 137 3 4 ~ 
+: 141 2 1 in 
+: 144 3 -1 which 
+: 148 3 1 they 
+: 152 3 1 have 
+: 156 3 4 to 
+: 161 7 -1 live 
+- 169
+: 170 2 -1 And 
+: 173 3 -1 all 
+: 177 2 -1 the 
+: 180 5 -1 hate 
+: 186 5 1 that’s 
+: 193 6 1 in 
+: 200 5 4 their 
+: 207 5 1 hearts
+: 214 6 -1 ~ 
+- 222
+: 235 3 6 They’re 
+: 240 5 8 tired 
+: 247 4 8 of 
+: 253 4 11 be
+: 258 5 8 ing 
+: 268 6 6 pushed 
+: 276 4 4 a
+: 282 6 8 round 
+- 289
+: 290 4 6 And 
+: 295 6 8 told 
+: 302 7 6 just 
+: 310 5 8 what 
+: 316 6 8 to 
+: 324 5 8 do
+: 331 5 4 ~ 
+- 338
+: 352 4 -1 They’ll 
+: 357 4 1 fight 
+: 362 4 1 the 
+: 368 7 4 world 
+: 377 5 6 un
+: 384 6 8 til 
+: 392 6 8 they’ve 
+: 399 3 4 won
+: 403 5 1 ~ 
+- 409
+: 410 3 -1 And 
+: 414 5 1 love 
+: 421 5 1 comes 
+: 428 4 1 flow
+: 433 8 4 ing 
+: 443 9 1 through 
+- 454
+: 768 6 1 Chil
+: 775 6 1 dren 
+: 783 4 4 of 
+: 789 7 6 to
+: 798 5 8 mor
+: 804 5 8 row 
+- 810
+: 811 8 4 Live 
+: 820 3 1 in 
+: 824 3 1 the 
+: 828 6 -1 tears 
+: 835 4 1 that 
+: 841 5 1 fall 
+: 847 4 1 to
+: 855 5 4 day
+: 862 9 1 ~ 
+- 873
+: 887 2 1 Will
+: 891 2 8 ~ 
+: 894 3 8 the 
+: 899 5 6 sun
+: 905 1 4 rise
+: 907 2 1 ~ 
+: 910 1 -1 up
+: 912 2 1 ~ 
+: 915 3 1 to
+: 919 3 4 mor
+: 923 4 -1 row 
+- 929
+: 931 4 -1 Bring
+: 936 7 -1 ing 
+: 945 6 -1 peace 
+: 952 5 -1 in 
+: 959 6 1 a
+: 966 7 1 ny 
+: 974 5 4 way
+: 980 8 1 ~ 
+- 990
+: 1004 6 6 Must 
+: 1011 4 8 the 
+: 1016 3 8 world
+: 1020 2 11 ~ 
+: 1023 6 8 live 
+: 1031 5 6 in 
+: 1038 5 4 the 
+: 1045 8 8 shad
+: 1055 6 6 ow 
+- 1062
+: 1063 6 8 Of 
+: 1071 4 6 a
+: 1076 5 8 tom
+: 1083 5 8 ic 
+: 1090 5 8 fear
+: 1097 6 4 ~ 
+- 1105
+: 1120 2 -1 Can
+: 1123 2 1 ~ 
+: 1126 6 1 they 
+: 1134 4 4 win 
+: 1140 6 6 the 
+: 1147 7 8 fight 
+: 1156 6 8 for 
+: 1164 5 4 peace 
+- 1171
+: 1174 4 1 Or 
+: 1179 4 -1 will 
+: 1184 6 1 they 
+: 1191 6 1 dis
+: 1198 5 1 ap
+: 1204 8 4 pear
+: 1213 6 1 ~ 
+: 1222 13 1 Yeah 
+- 1237
+: 2521 4 1 So 
+: 2526 5 1 you 
+: 2532 8 4 chil
+: 2541 7 6 dren 
+: 2549 7 8 of 
+: 2557 6 8 the 
+: 2564 2 4 world
+: 2567 3 1 ~ 
+- 2571
+: 2572 5 1 Lis
+: 2578 4 -1 ten 
+: 2586 4 1 to 
+: 2594 6 1 what 
+: 2602 4 1 I 
+: 2608 6 4 say
+: 2616 6 1 ~ 
+- 2624
+: 2643 2 1 If 
+: 2647 7 8 you 
+: 2656 5 6 want 
+: 2662 2 4 a 
+: 2665 3 1 bet
+: 2669 3 -1 ter 
+: 2673 4 1 place 
+: 2678 3 1 to 
+: 2682 8 4 live 
+: 2692 3 -1 in 
+- 2697
+: 2700 5 -1 Spread 
+: 2707 4 -1 the 
+: 2713 9 1 words 
+: 2724 3 1 to
+: 2728 6 4 day
+: 2735 6 1 ~ 
+- 2743
+: 2759 4 6 Show 
+: 2765 6 8 the 
+: 2773 5 11 world 
+: 2780 5 8 that 
+: 2787 8 6 love 
+: 2797 4 4 is 
+: 2802 8 8 still 
+: 2812 4 6 a
+: 2817 4 8 live
+: 2822 3 6 ~ 
+- 2826
+: 2826 5 8 You 
+: 2832 6 8 must 
+: 2839 6 8 be 
+: 2846 13 4 brave 
+- 2861
+: 2878 5 -1 Or 
+: 2885 4 1 you 
+: 2890 8 1 chil
+: 2900 6 4 dren 
+: 2908 4 6 of 
+: 2914 4 8 to
+: 2920 6 8 day 
+: 2927 3 4 are
+: 2931 4 1 ~ 
+- 2936
+: 2936 7 -1 Chil
+: 2944 6 1 dren 
+: 2951 6 1 of 
+: 2958 6 1 the 
+: 2965 5 4 Grave
+: 2971 8 1 ~ 
+: 2983 12 4 Yeah! 
+E

@@ -1,0 +1,180 @@
+#ARTIST:Bob Dylan
+#TITLE:Knockin’ On Heaven’s Door
+#MP3:Bob Dylan - Knockin’ On Heaven’s Door.mp3
+#CREATOR:Fepo
+#EDITION:[SC]-Songs
+#GENRE:Pop
+#YEAR:1973
+#LANGUAGE:English
+#BPM:280
+#GAP:9220
+#VIDEO:a=rm9coqlk8fY,co=https://whythebeatlesarestillrelevant.files.wordpress.com/2020/10/bob-dylan-knocking-on-heavens-door.jpg,bg=bob-dylan-4ea5a290624b4.jpg
+: 0 12 11 Ooh 
+: 16 16 6 hoo 
+: 38 8 6 ooh 
+: 50 24 4 hoo 
+- 76
+: 134 10 11 Ooh 
+: 148 16 6 hoo 
+: 168 6 6 ooh 
+: 178 12 9 hoo 
+- 192
+: 262 12 11 Ooh 
+: 278 12 6 hoo 
+: 294 14 6 ooh 
+: 312 16 4 hoo 
+- 330
+: 393 2 11 Ma
+: 396 2 11 ma 
+: 399 4 11 take 
+: 405 4 9 this 
+: 413 7 9 badge 
+: 422 3 9 off 
+: 428 2 7 of 
+: 432 13 9 me 
+- 447
+: 520 4 9 I 
+: 525 5 11 can’t 
+: 532 4 11 u
+: 537 3 9 ~se 
+: 542 5 9 it 
+: 549 5 9 a
+: 555 3 7 ny
+: 560 4 7 mo
+: 565 7 4 ~re 
+- 574
+: 646 3 9 It’s 
+: 651 2 11 get
+: 654 2 11 tin’ 
+: 658 5 11 da
+: 664 4 9 ~rk 
+: 673 4 7 too 
+: 679 7 9 dark 
+: 687 3 7 to 
+: 693 11 9 see 
+- 706
+: 775 2 9 I 
+: 779 3 11 feel 
+: 784 5 9 I’m 
+: 791 6 9 knoc
+: 798 4 7 kin’ 
+: 803 4 9 on 
+: 810 4 9 hea
+: 815 4 7 ven’s 
+: 823 4 7 doo
+: 828 11 4 ~r 
+- 841
+* 907 6 11 Knock 
+* 915 6 11 knock 
+: 923 3 11 knoc
+: 927 3 9 kin’ 
+: 932 4 9 on 
+: 939 4 9 hea
+: 945 4 7 ven’s 
+: 953 17 9 door 
+- 972
+: 1036 5 11 Knock 
+: 1043 5 11 knock 
+: 1051 3 11 knoc
+: 1055 3 9 kin’ 
+: 1060 4 9 on 
+: 1068 4 9 hea
+: 1073 4 7 ven’s 
+: 1082 4 7 doo
+: 1087 19 4 ~r 
+- 1108
+: 1164 7 11 Knock 
+: 1173 6 11 knock 
+: 1181 3 11 knoc
+: 1185 3 9 kin’ 
+: 1190 4 9 on 
+: 1197 4 9 hea
+: 1202 4 7 ven’s 
+: 1210 20 9 door 
+- 1232
+: 1292 6 11 Knock 
+: 1301 6 11 knock 
+: 1309 3 11 knoc
+: 1313 3 9 kin’ 
+: 1318 5 9 on 
+: 1325 3 9 hea
+: 1330 4 7 ven’s 
+: 1338 5 7 doo
+: 1345 20 4 ~r 
+- 1367
+: 1421 3 11 Ma
+: 1425 3 11 ma 
+: 1429 3 11 put 
+: 1434 4 9 my 
+: 1442 9 9 guns 
+: 1454 3 9 in 
+: 1458 2 7 the 
+: 1462 20 9 ground 
+- 1484
+: 1551 2 9 I 
+: 1554 5 11 can’t 
+: 1562 5 11 shoot 
+: 1570 9 9 them 
+: 1586 2 9 a
+: 1589 2 7 ny
+: 1593 5 7 mo
+: 1599 12 4 ~re 
+- 1613
+: 1672 4 11 That 
+* 1677 11 11 long 
+: 1690 6 11 black 
+: 1697 6 9 cloud 
+: 1705 3 9 is 
+: 1713 3 9 co
+: 1717 3 7 min’ 
+: 1721 20 9 down 
+- 1743
+: 1801 2 9 I 
+: 1804 5 11 feel 
+: 1811 4 9 I’m 
+: 1817 5 9 knoc
+: 1824 4 9 kin’ 
+: 1829 3 7 on 
+: 1837 3 9 hea
+: 1841 3 7 ven’s 
+* 1848 4 7 doo
+* 1853 20 4 ~r 
+- 1875
+: 1932 5 11 Knock 
+* 1939 6 11 knock 
+: 1948 3 9 knoc
+: 1952 3 9 kin’ 
+: 1957 4 9 on 
+: 1965 4 9 hea
+: 1970 4 6 ven’s 
+* 1978 28 9 door 
+- 2008
+: 2060 5 11 Knock 
+: 2067 5 11 knock 
+: 2075 3 11 knoc
+: 2079 3 9 kin’ 
+: 2084 5 9 on 
+: 2093 3 9 hea
+: 2097 3 6 ven’s 
+: 2105 4 7 doo
+: 2110 20 4 ~r 
+- 2132
+: 2187 5 11 Knock 
+: 2194 6 11 knock 
+: 2203 3 11 knoc
+: 2207 3 9 kin’ 
+: 2212 4 9 on 
+: 2219 4 9 hea
+: 2224 4 6 ven’s 
+: 2232 29 9 door 
+- 2263
+: 2315 6 11 Knock 
+: 2323 6 11 knock 
+: 2331 3 11 knoc
+: 2335 3 9 kin’ 
+: 2341 5 9 on 
+: 2348 3 9 hea
+: 2352 4 7 ven’s 
+: 2360 4 7 doo
+: 2365 15 4 ~r 
+E

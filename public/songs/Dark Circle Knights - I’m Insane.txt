@@ -1,0 +1,215 @@
+#ARTIST:Dark Circle Knights
+#TITLE:I’m Insane
+#MP3:Dark Circle Knights - I’m Insane.mp3
+#CREATOR:field3
+#GENRE:Rock
+#YEAR:2011
+#LANGUAGE:English
+#BPM:200.13
+#GAP:1020
+#VIDEO:a=VeidVRbYeCI,co=https://is1-ssl.mzstatic.com/image/thumb/Music/ce/1a/31/mzi.toqcurkx.jpg/5000x5000bb.jpg
+: 0 2 27 Hey! 
+: 3 2 24 I 
+: 7 2 27 see 
+: 12 1 27 it 
+: 16 1 28 in 
+: 18 1 27 your 
+* 20 4 27 eyes, 
+- 25
+: 25 2 27 No 
+: 28 1 27 spark
+: 33 1 28 ling 
+: 36 1 28 no 
+: 39 1 27 sur
+: 42 1 27 prise 
+: 46 1 27 a 
+: 48 3 28 black 
+: 54 5 25 pearl, 
+- 61
+: 64 1 28 In 
+: 66 1 28 a 
+: 68 2 28 white, 
+: 72 2 28 white, 
+: 77 2 28 white 
+: 84 6 27 sea. 
+- 92
+: 169 1 27 Hey! 
+: 174 2 28 I 
+: 177 2 26 see 
+: 182 1 28 it 
+: 185 1 28 in 
+: 188 1 27 your 
+: 190 5 28 eyes, 
+- 196
+: 196 2 25 No 
+: 199 2 28 spark
+: 203 1 29 ling 
+: 206 1 28 no 
+: 209 1 28 sur
+: 211 2 27 prise 
+: 217 1 27 a 
+: 221 2 28 black 
+: 225 5 26 pearl, 
+- 231
+: 232 1 27 In 
+: 235 2 27 a 
+* 238 2 28 white, 
+* 243 2 28 white, 
+* 248 2 28 white 
+* 253 5 27 sea. 
+- 260
+: 345 2 29 Tell 
+: 348 2 29 me 
+: 351 2 30 lies, 
+: 362 2 27 it’s 
+: 367 2 27 your 
+: 372 3 29 fault. 
+: 386 2 30 in 
+: 389 2 28 my 
+: 393 6 31 mind, 
+- 401
+: 406 2 26 In 
+: 409 2 26 my 
+: 414 2 25 soul. 
+: 433 1 28 feel 
+: 435 1 29 the 
+: 437 2 30 craise 
+* 451 1 27 co
+* 454 1 26 ve
+* 457 5 25 ring. 
+- 464
+: 471 2 28 This 
+: 475 4 29 taste, 
+: 492 1 25 I’m 
+: 495 2 25 in
+: 499 9 25 sane 
+- 510
+: 513 2 29 Hey! 
+: 517 1 27 I 
+: 520 2 28 see 
+: 524 1 27 it 
+: 527 1 27 in 
+: 530 1 27 your 
+: 533 1 27 eyes, 
+- 536
+: 538 1 22 No 
+: 541 2 28 spark
+: 544 1 29 ling 
+: 548 1 28 no 
+: 551 1 27 sur
+: 554 1 27 prise 
+: 558 1 28 a 
+: 562 1 28 black 
+: 566 6 26 pearl, 
+- 573
+: 574 1 29 In 
+: 577 1 27 a 
+: 582 2 27 white, 
+: 585 3 28 white, 
+: 590 3 28 white 
+: 597 8 26 sea. 
+- 607
+: 686 2 31 Tell 
+: 689 1 29 me 
+: 692 7 31 lies, 
+: 704 2 27 it’s 
+: 709 2 27 your 
+: 714 2 30 fault. 
+: 722 3 27 in 
+: 730 3 30 my 
+: 734 6 31 mind, 
+- 742
+: 747 1 26 In 
+: 751 1 26 my 
+: 755 6 27 soul. 
+: 771 2 26 feel 
+: 774 2 29 the 
+: 777 5 28 craise 
+: 792 2 28 co
+: 796 2 27 ve
+: 799 7 26 ring. 
+- 808
+: 815 2 30 This 
+: 821 5 30 taste, 
+: 833 2 26 I’m 
+: 836 2 24 in
+: 841 8 25 sane 
+- 851
+: 860 1 29 Tell 
+: 862 1 29 me 
+: 865 2 31 lies, 
+: 876 1 26 it’s 
+: 879 2 28 your 
+: 884 3 31 fault. 
+: 897 2 25 in 
+: 901 2 30 my 
+: 905 6 30 mind, 
+- 913
+: 918 1 25 In 
+: 922 1 25 my 
+: 926 2 26 soul. 
+: 942 2 29 feel 
+: 945 2 30 the 
+: 948 2 29 craise 
+: 962 1 28 co
+: 966 1 26 ve
+: 970 9 22 ring. 
+- 981
+* 985 1 29 This 
+* 990 4 30 taste, 
+: 1005 2 26 I’m 
+: 1008 1 25 in
+: 1012 5 25 sane 
+- 1019
+: 1025 1 0 ~ 
+- 1028
+: 1237 6 29 Tell 
+: 1245 1 30 me 
+: 1248 2 30 lies, 
+: 1259 1 27 it’s 
+: 1262 1 28 your 
+: 1268 6 31 fault. 
+- 1276
+: 1282 1 28 In 
+: 1286 2 29 my 
+: 1290 3 31 mind, 
+* 1302 1 28 in 
+* 1305 1 28 my 
+* 1312 5 28 soul. 
+: 1326 1 23 feel 
+: 1329 1 30 the 
+: 1333 6 30 craise 
+: 1348 1 28 co
+: 1351 1 27 ve
+: 1354 7 26 ring. 
+- 1363
+: 1368 2 29 This 
+: 1374 4 30 taste, 
+: 1388 1 27 I’m 
+: 1391 1 27 in
+: 1396 7 26 sane 
+- 1405
+: 1432 1 28 I’m 
+: 1435 1 27 in
+: 1439 8 27 sane 
+- 1449
+: 1474 1 27 I’m 
+: 1477 1 27 in
+: 1482 8 27 sane 
+- 1492
+: 1518 1 27 I’m 
+: 1521 1 26 in
+* 1525 9 27 sane 
+- 1536
+: 1560 1 27 I’m 
+* 1562 1 27 in
+: 1568 8 27 sane 
+- 1578
+: 1604 1 27 I’m 
+: 1607 1 27 in
+* 1612 8 28 sane 
+- 1622
+* 1644 2 26 I’m 
+* 1648 1 27 in
+* 1652 11 27 sane 
+E

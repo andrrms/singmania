@@ -1,0 +1,377 @@
+#ARTIST:Justin Timberlake
+#TITLE:LoveStoned / I Think She Knows (Interlude)
+#MP3:Justin Timberlake - LoveStoned / I Think She Knows (Interlude).mp3
+#CREATOR:REL
+#GENRE:Dance
+#YEAR:2006
+#LANGUAGE:English
+#BPM:300.15
+#GAP:9010
+#VIDEO:v=QUuKvHHt8Sk,co=lovestonedi-think-she-knows-remixes-600f891e0d09a.jpg,bg=timberlake-justin-536cb2c0e7750.jpg
+F 0 2 6 She’s 
+F 4 3 6 frea
+F 9 3 6 ky 
+F 14 3 6 and 
+F 19 3 6 she 
+F 24 3 6 knows 
+F 29 4 6 it 
+- 35
+F 79 2 6 She’s 
+F 84 2 6 frea
+F 89 3 6 ky 
+F 94 2 6 and 
+F 99 2 6 I 
+F 104 2 6 like 
+F 108 4 6 it 
+- 114
+F 158 2 6 Lis
+F 161 3 6 ten 
+- 166
+: 179 2 12 She 
+: 183 2 12 grabs 
+: 188 2 11 the 
+: 193 2 12 yel
+: 197 2 11 low 
+: 202 3 12 bot
+: 207 4 11 tle 
+- 213
+: 218 2 12 She 
+: 224 1 12 likes 
+: 228 2 11 the 
+: 232 2 12 way 
+: 237 2 11 it 
+: 242 2 12 hits 
+: 246 2 11 her 
+* 251 6 12 lips 
+- 259
+: 264 2 12 She 
+: 268 2 12 gets 
+: 272 2 12 to 
+: 276 2 11 the 
+: 281 2 12 bot
+: 286 3 11 tom 
+- 291
+: 297 2 11 It 
+: 302 3 12 sends 
+: 306 3 11 her 
+: 311 2 12 on 
+: 316 2 11 a 
+: 320 5 12 trip 
+: 331 5 15 so 
+: 341 14 13 right 
+- 357
+: 375 3 11 She 
+: 380 2 12 might 
+: 385 3 11 be 
+: 391 2 12 go
+: 395 3 11 in’ 
+: 401 2 12 home 
+: 406 2 11 with 
+: 410 2 12 me 
+: 415 2 5 to
+: 420 12 5 night 
+- 434
+: 504 1 12 She 
+: 507 2 11 looks 
+: 510 3 12 like 
+: 514 3 10 a 
+: 519 2 12 mo
+: 524 4 10 del 
+- 530
+: 535 1 11 Ex
+: 539 2 12 cept 
+: 544 2 11 she’s 
+: 548 2 12 got 
+: 553 2 11 a 
+: 558 2 12 lit
+: 561 2 12 tle 
+: 564 2 11 more 
+* 568 12 12 ass 
+- 582
+: 584 1 12 Don’t 
+: 587 3 12 e
+: 593 2 12 ven 
+: 598 2 12 bo
+: 603 4 11 ther 
+- 609
+: 614 3 11 Un
+: 619 2 12 less 
+: 623 3 11 you’ve 
+: 628 3 12 got 
+: 633 2 11 that 
+: 638 5 12 thing 
+: 647 6 15 she 
+: 657 25 12 likes 
+- 684
+: 692 2 12 I 
+: 698 2 12 hope 
+: 703 2 11 she’s 
+: 707 2 12 go
+: 712 2 11 in’ 
+: 718 1 12 home 
+: 723 2 11 with 
+: 727 2 12 me 
+* 732 2 5 to
+* 737 15 5 night 
+- 754
+: 821 2 13 Those 
+: 826 1 13 fla
+: 831 1 12 shin’ 
+: 836 5 13 lights 
+- 843
+: 846 2 14 Come 
+: 851 2 10 from 
+: 856 1 12 eve
+: 861 1 11 ry
+: 866 12 12 where 
+- 880
+: 900 3 13 The 
+: 905 2 13 way 
+: 910 2 13 they 
+: 915 2 13 hit 
+: 920 2 13 her 
+: 925 2 15 I 
+: 930 2 13 just 
+: 935 2 12 stop 
+: 940 2 11 and 
+: 945 14 12 stare 
+- 961
+: 979 2 13 She’s 
+: 984 2 13 got 
+: 989 2 12 me 
+: 994 6 13 love 
+: 1004 5 13 stoned 
+- 1011
+: 1014 2 12 Man 
+: 1019 3 11 I 
+: 1024 2 12 swear 
+: 1029 2 11 she’s 
+: 1034 2 12 bad 
+: 1039 2 11 and 
+: 1044 6 8 she 
+: 1053 10 5 knows 
+- 1065
+* 1068 2 10 I 
+* 1074 2 12 think 
+* 1079 1 10 that 
+* 1083 5 8 she 
+* 1093 19 7 knows 
+- 1114
+F 1189 2 6 She’s 
+F 1193 3 6 frea
+F 1197 4 6 ky 
+F 1205 2 6 and 
+F 1210 2 6 she 
+F 1214 2 6 knows 
+F 1218 4 6 it 
+- 1224
+F 1265 3 6 She’s 
+F 1271 2 6 frea
+F 1275 5 6 ky, 
+F 1286 1 6 but 
+F 1289 1 6 I 
+F 1291 3 6 like 
+F 1295 6 6 it 
+- 1303
+: 1447 1 12 She 
+: 1451 1 12 shuts 
+: 1455 2 11 the 
+: 1459 5 12 room 
+: 1469 8 11 down 
+- 1479
+: 1484 1 11 The 
+: 1488 2 6 way 
+: 1493 2 12 she 
+: 1498 2 12 walks 
+: 1504 1 11 and 
+: 1509 1 12 cau
+: 1511 1 11 ses 
+: 1514 2 12 a 
+: 1518 8 11 fuss 
+- 1528
+: 1534 1 12 The 
+: 1537 2 12 bad
+: 1540 2 12 dest 
+: 1543 2 11 in 
+: 1549 8 12 town 
+- 1559
+: 1563 2 11 She’s 
+: 1568 3 12 flaw
+: 1572 3 11 less 
+: 1577 2 12 like 
+: 1582 2 11 some 
+: 1586 5 12 un
+: 1597 5 15 cut 
+* 1608 25 13 ice 
+- 1635
+: 1642 2 12 I 
+: 1648 2 12 hope 
+: 1653 2 11 she’s 
+: 1657 2 12 go
+: 1662 2 11 in’ 
+: 1668 1 12 home 
+: 1673 2 11 with 
+: 1677 2 12 me 
+: 1682 2 5 to
+: 1687 15 5 night 
+- 1704
+: 1756 2 8 And 
+: 1760 1 8 all 
+: 1763 2 11 she 
+* 1766 6 12 wants 
+: 1775 2 12 is 
+: 1780 2 10 to 
+: 1786 8 12 dance 
+- 1796
+: 1802 2 11 That’s 
+: 1806 2 12 why 
+: 1811 2 11 you’ll 
+: 1816 2 12 find 
+: 1820 3 11 her 
+: 1825 2 12 on 
+: 1830 2 12 the 
+: 1835 7 11 floor 
+- 1843
+: 1843 3 10 But 
+: 1848 3 12 you 
+: 1852 2 11 don’t 
+: 1856 2 12 have 
+: 1860 2 12 a 
+: 1864 11 12 chance 
+- 1877
+: 1880 3 11 Un
+: 1886 1 12 less 
+: 1891 1 11 you 
+: 1896 1 12 move 
+: 1900 2 11 the 
+: 1905 2 12 way 
+* 1910 1 12 that 
+: 1915 5 15 she 
+: 1925 32 12 likes 
+- 1959
+: 1960 1 12 That’s 
+: 1964 2 12 why 
+: 1969 2 11 she’s 
+: 1974 2 12 go
+: 1979 2 11 in’ 
+* 1983 6 12 home 
+- 1991
+: 1992 1 11 With 
+: 1997 4 12 me 
+: 2005 2 5 to
+: 2009 23 5 night 
+- 2034
+: 2088 2 13 Those 
+: 2093 1 13 fla
+: 2098 1 12 shin’ 
+: 2103 5 13 lights 
+- 2110
+: 2113 2 14 Come 
+: 2118 2 10 from 
+: 2123 1 12 eve
+: 2128 1 11 ry
+: 2133 12 12 where 
+- 2147
+: 2167 3 13 The 
+: 2172 2 13 way 
+: 2177 2 13 they 
+: 2182 2 13 hit 
+: 2187 2 13 her 
+: 2192 2 15 I 
+: 2197 2 13 just 
+: 2202 2 12 stop 
+: 2207 2 11 and 
+* 2212 14 12 stare 
+- 2228
+: 2246 2 13 She’s 
+: 2251 2 13 got 
+: 2256 2 12 me 
+: 2261 6 13 love 
+: 2271 5 13 stoned 
+- 2278
+: 2281 2 12 Man 
+: 2286 3 11 I 
+: 2291 2 12 swear 
+: 2296 2 11 she’s 
+: 2301 2 12 bad 
+: 2306 2 11 and 
+: 2311 6 8 she 
+: 2320 10 5 knows 
+- 2332
+: 2335 2 10 I 
+: 2341 2 12 think 
+: 2346 1 10 that 
+: 2350 5 8 she 
+: 2360 19 7 knows 
+- 2381
+: 2405 2 13 Those 
+* 2410 1 13 fla
+* 2415 1 12 shin’ 
+: 2420 5 13 lights 
+: 2430 2 14 seem 
+: 2435 2 10 to 
+: 2440 1 12 cause 
+: 2445 1 11 a 
+: 2450 12 12 glare 
+- 2464
+: 2484 3 13 The 
+: 2489 2 13 way 
+: 2494 2 13 they 
+: 2499 2 13 hit 
+: 2504 2 13 her 
+: 2509 2 15 I 
+: 2514 2 13 just 
+: 2519 2 12 stop 
+: 2524 2 11 and 
+: 2529 14 12 stare 
+- 2545
+: 2563 2 13 She’s 
+: 2568 2 13 got 
+: 2572 3 12 me 
+: 2578 5 13 love 
+: 2587 4 13 stoned 
+: 2593 1 10 from 
+: 2597 2 12 eve
+: 2603 1 11 ry
+: 2608 1 12 where 
+- 2611
+: 2613 2 11 She’s 
+: 2618 2 12 bad 
+: 2623 2 11 and 
+: 2628 6 8 she 
+: 2637 10 5 knows 
+- 2649
+: 2652 2 10 I 
+: 2658 2 12 think 
+: 2663 1 10 that 
+: 2667 5 8 she 
+: 2677 19 7 knows 
+- 2698
+F 2701 2 6 Now 
+F 2706 8 6 dance 
+- 2716
+F 2791 1 6 Get 
+F 2794 1 6 it 
+F 2797 7 6 girl 
+- 2806
+F 2854 2 6 You’re 
+F 2859 2 6 frea
+F 2862 3 6 ky, 
+F 2866 2 6 but 
+F 2871 2 6 I 
+F 2875 2 6 like 
+F 2880 6 6 it 
+- 2888
+F 2944 5 6 Hot 
+F 2954 17 6 damn! 
+- 2973
+F 2987 1 6 Let 
+F 2990 1 6 me 
+F 2992 2 6 put 
+F 2995 1 6 my 
+F 2998 1 6 funk 
+F 3000 2 6 on 
+F 3003 1 6 the 
+F 3006 1 6 gui 
+F 3009 1 6 tar 
+E

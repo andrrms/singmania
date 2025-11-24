@@ -1,0 +1,76 @@
+#ARTIST:Pure Pwnage
+#TITLE:Feel Like Pwning Noobs
+#MP3:Pure Pwnage - Feel Like Pwning Noobs.mp3
+#CREATOR:IC
+#LANGUAGE:English
+#BPM:300
+#GAP:14000
+#VIDEO:a=GfKb7CsVmeI,co=https://www.justwatch.com/images/poster/11875299/s332/season-1
+: 0 4 4 It’s 
+: 8 5 7 some
+: 17 4 6 thing 
+: 22 7 2 that 
+: 33 4 -1 I 
+: 39 3 2 have 
+: 44 2 4 to 
+: 48 13 4 do. 
+- 63
+: 103 4 2 I 
+: 111 4 7 feel 
+: 117 4 6 like 
+: 125 5 2 pwn
+: 133 5 4 ing 
+* 142 5 4 no
+* 151 14 2 ~obs. 
+- 167
+: 274 6 2 The 
+: 283 5 7 time 
+: 290 3 6 of 
+: 296 5 2 my 
+: 307 2 -1 de
+: 312 3 2 feat 
+: 316 2 4 is 
+: 322 17 4 through. 
+- 341
+: 374 7 2 I’m 
+: 385 5 7 to
+: 393 4 6 tally 
+: 399 7 2 gon
+: 407 5 4 na 
+* 416 7 4 pwn 
+* 424 12 2 you. 
+- 438
+: 547 5 8 In
+: 556 9 9 stead 
+: 570 4 9 of 
+: 578 6 11 my 
+: 587 5 9 fin
+: 596 13 6 gers 
+: 613 5 9 I’ll 
+: 624 3 8 use 
+: 630 3 6 my 
+: 637 19 5 toes. 
+- 658
+: 694 8 9 I’ll 
+: 706 7 11 still 
+: 719 10 6 play 
+: 733 5 6 way 
+: 745 3 6 bet
+: 749 2 4 ter 
+: 753 3 2 than 
+: 758 21 -3 you. 
+- 781
+: 839 4 9 That’s 
+: 847 4 9 what 
+: 853 6 11 I’ll 
+: 861 3 11 do
+: 866 14 9 ~. 
+- 882
+: 1882 5 2 I 
+: 1894 4 7 feel 
+: 1900 4 6 like 
+: 1908 4 2 pwn
+: 1916 5 4 ing 
+* 1925 6 4 no
+* 1933 21 2 ~obs. 
+E

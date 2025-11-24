@@ -1,0 +1,144 @@
+#ARTIST:Edelweiss
+#TITLE:Bring Me Edelweiss
+#MP3:Edelweiss - Bring Me Edelweiss.mp3
+#CREATOR:Fepo
+#COVER:Edelweiss - Bring Me Edelweiss [CO].jpg
+#BACKGROUND:Edelweiss - Bring Me Edelweiss [BG].jpg
+#GENRE:Pop
+#YEAR:1995
+#LANGUAGE:English
+#BPM:236
+#GAP:19570
+#VIDEO:v=BuWrg80dXeU,co=https://is1-ssl.mzstatic.com/image/thumb/Music/2d/19/75/mzi.utcmtpux.jpg/5000x5000bb.jpg,co-rotate=90
+: 0 2 8 So
+: 4 2 8  when
+: 8 2 8  you
+: 12 2 8  real
+: 16 2 6 ~
+: 20 2 6 ly
+: 24 6 6  love
+: 32 2 6  me
+- 35
+: 36 2 6 Dar
+: 40 2 6 ling
+: 44 4 4  bring
+: 52 2 4  me
+: 56 3 6  E
+: 60 2 8 ~
+: 64 2 4 del
+* 68 4 6 wei
+: 73 5 4 ~ss
+- 80
+: 128 2 8 So
+: 132 2 8  when
+: 136 2 8  you
+: 140 2 8  real
+: 144 2 6 ~
+: 148 2 6 ly
+* 152 6 6  love
+: 160 2 6  me
+- 163
+: 164 2 6 You
+: 168 2 6  should
+: 172 4 4  bring
+: 180 2 4  me
+: 184 3 6  E
+: 188 2 8 ~
+: 192 2 4 del
+: 196 4 6 wei
+: 201 5 4 ~ss
+- 208
+: 1088 2 8 So
+: 1092 2 8  when
+: 1096 2 8  you
+: 1100 2 8  real
+: 1104 2 6 ~
+: 1108 2 6 ly
+: 1112 6 6  love
+: 1120 2 6  me
+- 1123
+: 1124 2 6 Dar
+: 1128 2 6 ling
+: 1132 4 4  bring
+: 1140 2 4  me
+: 1144 3 6  E
+: 1148 2 8 ~
+: 1152 2 4 del
+: 1156 4 6 wei
+: 1161 5 4 ~ss
+- 1168
+: 1216 2 8 So
+: 1220 2 8  when
+: 1224 2 8  you
+: 1228 2 8  real
+: 1232 2 6 ~
+: 1236 2 6 ly
+: 1240 6 6  love
+: 1248 2 6  me
+- 1251
+: 1252 2 6 You
+: 1256 2 6  should
+: 1260 4 4  bring
+: 1268 2 4  me
+: 1272 3 6  E
+: 1276 2 8 ~
+: 1280 2 4 del
+: 1284 4 6 wei
+: 1289 5 4 ~ss
+- 1296
+: 1919 2 8 So
+: 1923 2 8  when
+: 1927 2 8  you
+: 1931 2 8  real
+: 1935 2 6 ~
+: 1939 2 6 ly
+: 1943 6 6  love
+: 1951 2 6  me
+- 1954
+: 1955 2 6 Dar
+: 1959 2 6 ling
+: 1963 4 4  bring
+: 1971 2 4  me
+: 1975 3 6  E
+: 1979 2 8 ~
+: 1983 2 4 del
+: 1987 4 6 wei
+: 1992 5 4 ~ss
+- 1999
+: 2047 2 8 So
+: 2051 2 8  when
+: 2055 2 8  you
+: 2059 2 8  real
+: 2063 2 6 ~
+: 2067 2 6 ly
+: 2071 6 6  love
+: 2079 2 6  me
+- 2082
+: 2083 2 6 You
+: 2087 2 6  should
+: 2091 4 4  bring
+: 2099 2 4  me
+: 2103 3 6  E
+: 2107 2 8 ~
+: 2111 2 4 del
+: 2115 4 6 wei
+: 2120 5 4 ~ss
+- 2127
+: 3037 2 8 So
+: 3041 3 8  when
+: 3046 2 8  you
+: 3050 2 8  real
+: 3053 2 6 ~
+: 3057 2 6 ly
+: 3061 4 6  love
+: 3069 3 4  me
+- 3074
+: 3081 5 6 Bring
+: 3089 3 4  me
+: 3094 5 -6  E
+: 3101 3 -4 ~
+: 3106 2 0 del
+* 3110 4 0 wei
+: 3115 3 0 ~
+: 3119 20 0 ~ss
+E

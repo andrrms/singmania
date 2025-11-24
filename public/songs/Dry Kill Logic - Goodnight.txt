@@ -1,0 +1,171 @@
+#ARTIST:Dry Kill Logic
+#TITLE:Goodnight
+#MP3:Dry Kill Logic - Goodnight.mp3
+#CREATOR:manolis
+#YEAR:2001
+#LANGUAGE:English
+#BPM:242.2
+#GAP:17010
+#VIDEO:a=LbiQheEhJek,co=the-darker-side-of-nonsense-51059674470c7.jpg
+: 0 7 7 Now 
+: 8 5 4 that 
+: 14 18 7 I 
+- 34
+: 63 10 7 Face 
+: 74 5 7 the 
+* 80 9 9 world 
+: 90 5 7 with 
+: 96 9 6 pain 
+: 106 5 7 in
+: 112 5 6 si
+: 118 18 4 ~de 
+- 138
+: 254 11 7 Strange 
+: 266 4 4 but 
+: 271 18 7 I 
+- 291
+: 313 8 7 Can’t 
+: 322 7 7 un
+: 330 5 7 der
+: 336 9 9 stand 
+: 346 5 7 the 
+: 352 7 6 rea
+: 360 9 7 sons 
+: 370 3 6 why
+: 374 18 4 ~. 
+- 394
+: 508 5 4 For
+* 514 5 7 e
+: 520 5 4 ver 
+: 526 22 7 is 
+- 550
+: 572 3 7 A 
+: 576 9 7 world 
+: 586 6 7 that 
+: 594 7 9 I 
+: 602 5 7 can
+: 608 9 6 not 
+: 618 7 7 des
+* 626 3 6 cri
+* 630 20 4 ~be 
+- 652
+: 696 5 4 That 
+: 702 7 4 died 
+: 710 5 4 the 
+: 716 9 4 time 
+: 726 5 4 we 
+: 732 7 4 said 
+* 740 3 2 goo
+* 744 8 4 ~d
+: 754 20 4 night. 
+- 776
+: 1080 5 7 It 
+: 1086 7 7 makes 
+: 1094 7 7 no 
+: 1102 8 7 diffe
+: 1111 7 7 rence 
+: 1119 6 7 wrong 
+: 1126 3 7 o
+: 1130 18 4 ~r 
+* 1160 9 2 ri
+: 1170 26 4 ~ght 
+- 1198
+: 1208 3 4 The 
+: 1212 9 4 time 
+: 1222 6 4 has 
+: 1229 8 4 come 
+: 1238 5 4 to 
+: 1244 9 4 say 
+: 1254 4 2 goo
+: 1259 5 4 ~d
+: 1265 23 4 night. 
+- 1290
+: 1406 5 4 And 
+* 1412 6 7 how 
+: 1419 4 4 could 
+: 1424 16 7 I 
+- 1442
+: 1473 5 7 Be 
+: 1480 6 7 so 
+: 1488 8 9 sure 
+: 1498 6 7 but 
+: 1506 5 6 be 
+: 1512 6 7 so 
+* 1520 5 6 wro
+: 1526 18 4 ~ng? 
+- 1546
+: 1662 5 4 And 
+: 1668 5 7 how 
+: 1674 5 4 could 
+: 1680 16 7 I? 
+- 1698
+: 1721 5 7 Have 
+: 1727 3 7 a 
+: 1731 5 7 will 
+: 1737 8 7 so 
+: 1746 8 9 weak 
+: 1755 3 7 with 
+: 1759 2 7 a 
+: 1762 7 6 mind 
+: 1770 6 7 so 
+* 1777 4 6 stro
+: 1782 18 4 ~ng? 
+- 1802
+: 1918 5 4 And 
+: 1924 5 7 on
+: 1930 5 4 ly 
+* 1936 19 7 I 
+- 1957
+: 1977 5 4 Can 
+: 1983 6 4 tell 
+: 1990 7 4 the 
+: 1998 8 4 diffe
+: 2007 7 4 rence 
+: 2015 6 4 right 
+: 2022 5 2 o
+: 2028 4 4 ~r 
+: 2033 25 4 wrong. 
+- 2060
+: 2618 4 7 It 
+: 2623 8 7 makes 
+: 2632 5 7 no 
+: 2638 8 7 diffe
+: 2647 8 7 rence 
+: 2656 7 7 wrong 
+: 2664 2 7 o
+: 2667 19 4 ~r 
+* 2698 7 2 ri
+* 2706 30 4 ~ght 
+- 2738
+: 2746 3 4 The 
+: 2750 8 4 time 
+: 2759 7 4 has 
+: 2767 7 4 come 
+: 2775 6 4 to 
+: 2782 7 4 say 
+: 2790 7 2 goo
+: 2798 10 2 ~d
+* 2825 8 2 ni
+* 2834 31 4 ~ght. 
+- 2867
+: 2874 3 7 It 
+: 2878 9 7 makes 
+: 2888 5 7 no 
+: 2894 9 7 diffe
+: 2904 7 7 rence 
+: 2912 7 7 wrong 
+: 2920 2 7 o
+: 2923 16 4 ~r 
+* 2954 8 2 ri
+* 2963 29 4 ~ght 
+- 2994
+: 3003 4 4 I 
+: 3008 7 4 guess 
+: 3016 7 4 it’s 
+: 3024 7 4 best 
+: 3032 5 4 we 
+: 3038 8 4 say 
+* 3047 4 2 goo
+* 3052 5 4 ~d
+* 3059 27 4 night. 
+E

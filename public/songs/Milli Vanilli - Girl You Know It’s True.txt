@@ -1,0 +1,555 @@
+#ARTIST:Milli Vanilli
+#TITLE:Girl You Know It’s True
+#MP3:Milli Vanilli - Girl You Know It’s True.mp3
+#CREATOR:IC
+#EDITION:SingStar Made In Germany
+#GENRE:Pop
+#YEAR:1988
+#LANGUAGE:English
+#BPM:391.45
+#GAP:30798
+#VIDEO:v=RdSmokR0Enk,co=https://m.media-amazon.com/images/I/81gesF41ofL.jpg,co-crop=16-0-1468-1468,bg=milli-vanilli-6261552c41d07.jpg
+R 0 2 12 I’m 
+R 4 2 12 in 
+R 7 3 12 love 
+R 12 2 12 with 
+R 16 3 12 you 
+R 23 3 12 girl 
+- 28
+R 30 2 12 ’Cause 
+R 35 1 12 you’re 
+R 38 2 12 on 
+R 43 3 12 my 
+R 51 3 12 mind 
+- 61
+R 64 1 12 You’re 
+R 66 2 12 the 
+R 71 2 12 one 
+R 74 2 12 I 
+R 79 2 12 think 
+R 82 2 12 a
+R 87 3 12 bout 
+- 92
+R 94 4 12 Most 
+R 102 2 12 eve
+R 107 2 12 ry 
+R 115 3 12 time 
+- 122
+R 124 2 12 And 
+R 127 2 12 when 
+R 130 2 12 you 
+R 136 2 12 crack 
+R 141 1 12 a 
+R 147 3 12 smile 
+- 153
+R 155 2 12 In 
+R 159 2 12 eve
+R 163 2 12 ry
+R 167 2 12 thing 
+R 172 2 12 you 
+R 178 4 12 do 
+- 188
+R 191 2 12 Don’t 
+R 195 2 12 you 
+R 199 2 12 un
+R 203 2 12 der
+R 207 3 12 stand 
+R 216 3 12 girl 
+- 222
+R 224 2 12 This 
+R 231 2 12 love 
+R 236 3 12 is 
+R 244 2 12 true 
+- 252
+R 255 2 12 Your 
+R 264 3 12 soft 
+R 272 2 12 sil
+R 275 2 12 ky 
+R 279 3 12 hair 
+- 285
+R 287 3 12 Long 
+R 296 2 12 sweet 
+R 299 3 12 and 
+R 308 3 12 thin 
+- 317
+R 319 2 12 That’s 
+R 328 2 12 kind 
+R 331 2 12 of 
+R 335 2 12 like 
+R 339 2 12 a 
+R 344 2 12 vi
+R 348 2 12 sion 
+- 353
+R 355 2 12 U
+R 359 2 12 pon 
+R 364 3 12 your 
+R 373 3 12 skin 
+- 378
+R 380 2 12 It 
+R 384 2 12 ligh
+R 388 2 12 tens 
+R 392 2 12 up 
+R 396 3 12 my 
+R 404 3 12 day 
+- 410
+R 412 2 12 And 
+R 416 3 12 that’s 
+R 424 2 12 oh 
+R 428 2 12 so 
+R 436 3 12 true 
+- 448
+R 452 2 12 To
+R 456 2 12 ge
+R 460 2 12 ther 
+R 464 3 12 we’re 
+R 473 3 12 one 
+- 478
+R 480 2 12 Se
+R 484 2 12 pa
+R 488 2 12 ra
+R 492 2 12 ted 
+R 496 3 12 we’re 
+R 504 3 12 two 
+- 513
+R 516 2 12 To 
+R 520 2 12 make 
+R 524 2 12 you 
+R 528 3 12 all 
+R 536 3 12 mine 
+- 542
+R 544 4 12 All 
+R 552 3 12 mine 
+R 557 2 12 is 
+R 561 2 12 my 
+R 564 2 12 de
+R 569 2 12 si
+R 574 1 12 re 
+- 578
+R 580 2 12 ’Cause 
+R 584 2 12 you 
+R 588 2 12 con
+R 591 3 12 tain 
+R 597 1 12 a 
+R 600 2 12 qua
+R 604 2 12 li
+R 608 1 12 ty 
+- 610
+R 612 3 12 You 
+R 621 2 12 that 
+R 624 3 12 I 
+R 629 1 12 ad
+R 631 3 12 mi
+R 637 2 12 re 
+- 642
+R 644 2 12 You’re 
+R 648 2 12 pret
+R 652 2 12 ty 
+R 657 2 12 plain 
+R 661 2 12 and 
+R 664 2 12 sim
+R 668 2 12 ple 
+- 674
+R 676 2 12 You 
+R 680 3 12 rule 
+R 685 3 12 my 
+R 692 4 12 world 
+- 698
+R 700 2 12 So 
+R 705 2 12 try 
+R 709 2 12 to 
+R 713 2 12 un
+R 717 2 12 der
+R 721 6 12 stand 
+- 737
+R 769 3 12 I’m 
+R 773 2 12 in 
+R 777 4 12 love 
+R 785 5 12 girl 
+- 800
+R 828 3 12 I’m 
+R 833 2 12 so 
+R 837 2 12 in 
+R 841 4 12 love 
+R 849 5 12 girl 
+- 864
+R 893 2 12 I’m 
+R 897 2 12 just 
+R 901 2 12 in 
+R 905 4 12 love 
+R 912 5 12 girl 
+- 927
+R 956 2 12 And 
+R 960 2 12 this 
+R 964 2 12 is 
+R 968 4 12 true 
+- 982
+: 1000 8 29 Girl 
+: 1010 5 27 you 
+: 1017 5 25 know 
+: 1025 3 27 it’s 
+: 1034 7 29 true 
+- 1067
+: 1097 7 30 Oh 
+: 1112 7 29 oh 
+: 1128 6 25 oh
+: 1135 8 20 ~ 
+- 1148
+: 1150 2 20 I 
+: 1153 4 22 love 
+: 1160 6 22 you
+: 1167 10 20 ~ 
+- 1203
+: 1257 4 29 Yes 
+: 1265 5 27 you 
+: 1272 5 25 know 
+: 1280 3 27 it’s 
+: 1289 8 29 true 
+- 1323
+: 1353 7 30 Oh 
+: 1368 7 29 oh 
+: 1384 7 25 oh
+: 1392 8 20 ~ 
+- 1403
+: 1405 2 20 I 
+: 1409 4 22 love 
+: 1416 5 22 you
+: 1422 10 20 ~ 
+- 1484
+* 1546 10 22 Girl 
+* 1561 10 24 you 
+* 1578 10 25 know 
+* 1593 10 29 it’s 
+* 1610 28 22 true 
+- 1648
+: 1657 10 29 My
+: 1668 2 27 ~ 
+: 1672 42 27 love 
+- 1724
+: 1737 10 27 Is 
+: 1753 12 24 for 
+: 1770 15 25 you
+: 1786 5 27 ~ 
+- 1798
+: 1801 10 22 Girl 
+: 1818 10 24 you 
+: 1833 10 25 know 
+: 1850 10 29 it’s 
+: 1865 28 22 true 
+- 1903
+: 1912 9 29 My
+: 1922 3 27 ~ 
+: 1929 42 27 love 
+- 1981
+: 1993 10 27 Is 
+: 2009 12 24 for 
+: 2026 16 25 you
+: 2043 2 27 ~ 
+- 2047
+R 2049 2 12 This 
+R 2054 1 12 is 
+R 2057 2 12 some 
+R 2062 2 12 sort 
+R 2066 2 12 of 
+R 2071 3 12 thing 
+R 2079 2 12 girl 
+- 2083
+R 2085 2 12 I 
+R 2089 3 12 can’t 
+R 2094 2 12 ex
+R 2103 3 12 plain 
+- 2112
+R 2114 2 12 My 
+R 2118 2 12 e
+R 2122 2 12 mo
+R 2125 1 12 tion 
+R 2130 4 12 starts 
+R 2139 2 12 up 
+- 2144
+R 2146 2 12 When 
+R 2149 2 12 I 
+R 2153 3 12 hear 
+R 2158 3 12 your 
+R 2166 3 12 name 
+- 2173
+R 2175 2 12 May
+R 2178 2 12 be 
+R 2181 2 12 your 
+R 2186 3 12 sweet, 
+R 2195 3 12 sweet 
+R 2201 4 12 voice 
+- 2211
+R 2214 2 12 Would 
+R 2218 2 12 ring 
+R 2221 2 12 in 
+R 2226 2 12 my 
+R 2231 2 12 ear 
+- 2235
+R 2237 2 12 You 
+R 2242 2 12 sti
+R 2246 2 12 mu
+R 2251 3 12 late 
+R 2258 3 12 my 
+R 2266 2 12 sen
+R 2269 2 12 ses 
+R 2275 1 12 girl 
+- 2277
+R 2279 2 12 When 
+R 2282 3 12 you 
+R 2287 3 12 are 
+R 2296 3 12 near 
+- 2301
+R 2303 2 12 And 
+R 2306 2 12 with 
+R 2310 2 12 your 
+R 2314 2 12 po
+R 2319 2 12 si
+R 2323 1 12 tive 
+- 2324
+R 2326 3 12 E
+R 2330 3 12 mo
+R 2335 2 12 tion 
+R 2339 4 12 love 
+R 2347 2 12 ma
+R 2351 1 12 kin’ 
+- 2353
+R 2355 2 12 En
+R 2359 3 12 joy
+R 2365 1 12 in’ 
+- 2368
+R 2370 2 12 That’s 
+R 2375 2 12 for 
+R 2379 3 12 me 
+R 2387 2 12 to 
+R 2391 3 12 bust 
+- 2397
+R 2399 2 12 It’s 
+R 2403 2 12 like 
+R 2407 2 12 a 
+R 2411 2 12 girl 
+R 2415 2 12 and 
+R 2418 2 12 a 
+R 2423 3 12 boy 
+- 2432
+R 2435 3 12 These 
+R 2443 2 12 fee
+R 2447 2 12 lings 
+R 2452 2 12 I 
+R 2456 2 12 get 
+- 2460
+R 2462 2 12 I 
+R 2467 2 12 of
+R 2471 2 12 ten 
+R 2475 3 12 won
+R 2480 2 12 de
+R 2484 2 12 rin’ 
+R 2487 3 12 why 
+- 2496
+R 2498 2 12 So 
+R 2501 2 12 I 
+R 2506 3 12 thought 
+R 2510 2 12 I 
+R 2514 2 12 might 
+R 2518 2 12 dis
+R 2523 2 12 cuss 
+R 2527 1 12 this 
+- 2529
+R 2531 2 12 Girl 
+R 2535 2 12 just 
+R 2540 2 12 you 
+R 2544 3 12 and 
+R 2550 3 12 I 
+- 2557
+R 2559 2 12 Now 
+R 2563 2 12 what 
+R 2567 2 12 you 
+R 2571 4 12 wear 
+R 2579 2 12 I 
+R 2582 3 12 don’t 
+R 2588 3 12 care 
+- 2593
+R 2595 2 12 How 
+R 2600 2 12 you 
+R 2603 2 12 lost 
+R 2608 1 12 it 
+R 2611 2 12 be
+R 2615 3 12 fore 
+- 2621
+R 2623 2 12 No 
+R 2627 3 12 rea
+R 2632 2 12 son 
+R 2636 2 12 that 
+R 2639 2 12 I 
+R 2643 2 12 like 
+R 2647 2 12 you 
+R 2652 3 12 girl 
+- 2658
+R 2660 1 12 Just 
+R 2664 2 12 for 
+R 2668 2 12 what 
+R 2672 3 12 you 
+R 2680 3 12 are 
+- 2689
+R 2692 2 12 If 
+R 2695 2 12 I 
+R 2700 2 12 sit 
+R 2704 2 12 and 
+R 2708 2 12 think 
+R 2712 2 12 a
+R 2715 3 12 bout 
+R 2720 2 12 it 
+- 2726
+R 2728 2 12 You 
+R 2731 3 12 rule 
+R 2737 3 12 my 
+R 2744 4 12 world 
+- 2750
+R 2752 2 12 So 
+R 2756 3 12 try 
+R 2761 2 12 to 
+R 2765 2 12 un
+R 2768 2 12 der
+R 2773 9 12 stand 
+- 2792
+R 2820 2 12 I’m 
+R 2825 2 12 in 
+R 2828 3 12 love 
+R 2836 5 12 girl 
+- 2851
+R 2880 2 12 I’m 
+R 2884 2 12 so 
+R 2889 2 12 in 
+R 2892 4 12 love 
+R 2900 5 12 girl 
+- 2915
+R 2944 2 12 I’m 
+R 2948 2 12 just 
+R 2951 2 12 in 
+R 2956 4 12 love 
+R 2964 5 12 girl 
+- 2979
+R 3007 2 12 And 
+R 3011 2 12 this 
+R 3015 2 12 is 
+R 3020 5 12 true 
+- 3035
+: 3052 7 29 Girl 
+: 3062 4 27 you 
+: 3069 5 25 know 
+: 3077 3 27 it’s 
+: 3085 8 29 true 
+- 3119
+: 3148 6 30 Oh 
+: 3165 7 29 oh 
+: 3180 6 25 oh
+: 3187 8 20 ~ 
+- 3199
+: 3201 2 20 I 
+: 3205 4 22 love 
+: 3212 6 22 you
+: 3219 10 20 ~ 
+- 3255
+: 3309 4 29 Yes 
+: 3317 5 27 you 
+: 3324 5 25 know 
+: 3332 3 27 it’s 
+: 3341 8 29 true 
+- 3375
+: 3405 7 30 Oh 
+: 3420 7 29 oh 
+: 3435 7 25 oh
+: 3443 8 20 ~ 
+- 3454
+: 3456 3 20 I 
+: 3461 4 22 love 
+: 3468 6 22 you
+: 3475 10 20 ~ 
+- 3537
+: 3597 10 22 Girl 
+: 3613 10 24 you 
+: 3629 10 25 know 
+: 3645 10 29 it’s 
+: 3662 28 22 true 
+- 3700
+* 3708 10 29 My
+* 3719 2 27 ~ 
+* 3724 42 27 love 
+- 3776
+: 3788 10 27 Is 
+: 3805 12 24 for 
+: 3821 16 25 you
+: 3838 4 27 ~ 
+- 3894
+R 4294 2 12 I’m 
+R 4297 2 12 in 
+R 4301 3 12 love 
+R 4305 2 12 with 
+R 4310 3 12 you 
+R 4317 4 12 girl 
+- 4331
+R 4358 2 12 I’m 
+R 4361 2 12 in 
+R 4365 3 12 love 
+R 4369 2 12 with 
+R 4373 3 12 you 
+R 4381 4 12 girl 
+- 4395
+R 4422 2 12 I’m 
+R 4426 2 12 in 
+R 4429 3 12 love 
+R 4433 2 12 with 
+R 4438 4 12 you 
+- 4450
+R 4453 2 12 I’m 
+R 4457 2 12 in 
+R 4461 3 12 love 
+R 4465 2 12 with 
+R 4469 4 12 you 
+- 4482
+R 4485 2 12 I’m 
+R 4489 2 12 in 
+R 4493 3 12 love 
+R 4497 2 12 with 
+R 4502 4 12 you 
+- 4508
+: 4510 10 22 Girl 
+: 4526 10 24 you 
+: 4542 10 25 know 
+: 4559 10 29 it’s 
+: 4574 28 22 true 
+- 4612
+: 4622 9 29 My
+: 4632 3 27 ~ 
+: 4639 42 27 love 
+- 4707
+: 4735 6 29 Girl 
+: 4743 5 27 you 
+: 4751 5 25 know 
+: 4759 3 27 it’s 
+: 4767 7 29 true 
+- 4800
+: 4831 7 30 Oh 
+: 4846 7 29 oh 
+: 4861 7 25 oh
+: 4869 8 20 ~ 
+- 4880
+: 4882 2 20 I 
+: 4886 5 22 love 
+: 4893 6 22 you
+: 4900 10 20 ~ 
+- 4936
+* 4991 4 29 Yes 
+* 4999 5 27 you 
+* 5006 5 25 know 
+* 5013 3 27 it’s 
+* 5022 8 29 true 
+- 5056
+: 5087 7 30 Oh 
+: 5102 7 29 oh 
+: 5118 6 25 oh
+: 5125 8 20 ~ 
+- 5136
+: 5138 3 20 I 
+: 5143 5 22 love 
+: 5150 6 22 you
+: 5157 10 20 ~ 
+E

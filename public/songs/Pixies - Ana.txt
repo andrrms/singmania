@@ -1,0 +1,79 @@
+#ARTIST:Pixies
+#TITLE:Ana
+#MP3:Pixies - Ana.mp3
+#CREATOR:choosie
+#YEAR:1990
+#LANGUAGE:English
+#BPM:211.54
+#GAP:47850
+#VIDEO:a=jYJG9g47J4Y,co=bossanova-5ef7a1e7a8b3d.jpg,bg=pixies-4e3a8a6c4bcc2.jpg
+: 0 8 14 She’s 
+: 12 2 14 my 
+: 16 8 14 fave 
+- 26
+: 60 2 18 Un
+: 64 2 19 dres
+: 68 2 18 sing 
+: 72 2 16 in 
+: 76 2 18 the 
+: 80 6 14 sun 
+- 88
+* 124 2 14 Re
+* 128 8 16 turn 
+: 140 2 14 to 
+: 144 6 14 sea 
+- 152
+: 176 12 10 Bye 
+- 190
+: 220 2 18 For
+: 224 2 19 get
+: 228 2 18 ting 
+: 232 2 16 ev
+: 236 2 18 ’ry
+: 240 5 14 one 
+- 247
+: 284 2 14 E
+: 288 8 16 le
+: 300 2 14 ven 
+: 304 6 14 high 
+- 312
+: 368 20 16 Ride 
+* 408 2 15 a
+* 412 5 11 way 
+- 419
+: 577 8 13 She’s 
+: 589 2 13 my 
+: 593 16 13 fave 
+- 611
+* 637 2 17 Un
+* 641 2 18 dres
+* 645 2 17 sing 
+: 649 2 15 in 
+: 653 2 17 the 
+: 657 5 13 sun 
+- 664
+: 701 2 13 Re
+: 705 8 15 turn 
+: 717 2 13 to 
+: 721 2 13 sea
+: 725 10 10 ~ 
+- 737
+: 753 18 9 Bye 
+- 773
+: 797 2 17 For
+: 801 2 18 get
+: 805 2 17 ting 
+: 809 2 15 ev
+: 813 2 17 ’ry
+: 817 5 13 one 
+- 824
+: 861 2 13 E
+: 865 8 15 le
+: 877 2 13 ven 
+* 881 8 20 high 
+- 891
+: 945 20 17 Ride 
+- 967
+: 985 2 16 A
+: 989 5 12 way. 
+E

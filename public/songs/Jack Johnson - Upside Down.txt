@@ -1,0 +1,298 @@
+#ARTIST:Jack Johnson
+#TITLE:Upside Down
+#MP3:Jack Johnson - Upside Down.mp3
+#CREATOR:hamadad
+#YEAR:2005
+#LANGUAGE:English
+#BPM:240
+#GAP:33650
+#VIDEO:v=dqUdI4AIDF0,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/82/87/8e828758-8f39-195f-999a-c18db8f464f0/00602577028595.rgb.jpg/5000x5000bb.jpg,bg=jack-johnson-4e4ad5808b780.jpg
+: 0 5 4 Who’s 
+: 6 4 8 to 
+: 12 8 4 say 
+- 22
+: 42 4 8 What’s 
+: 47 3 8 im
+: 51 6 9 pos
+: 58 5 8 si
+: 65 2 6 ble 
+- 69
+: 70 2 4 Well 
+: 73 5 6 they 
+: 80 6 8 for
+: 88 6 6 got 
+- 96
+: 116 4 6 This 
+: 121 3 6 world 
+: 125 3 6 keeps 
+: 129 4 8 spin
+: 134 2 6 nin’ 
+- 138
+: 139 4 4 And 
+: 144 4 -1 with 
+: 150 5 4 each 
+: 157 4 8 new 
+: 163 5 4 day 
+- 170
+: 192 2 8 I 
+: 195 3 8 can 
+: 200 7 9 feel 
+: 208 4 8 a 
+: 213 6 6 change 
+: 220 3 4 in 
+: 226 4 6 eve
+: 231 5 8 ry
+: 237 7 6 thing 
+- 246
+: 267 3 6 And 
+: 271 3 6 as 
+: 275 2 6 the 
+: 278 4 8 sur
+: 283 5 6 face 
+: 290 3 4 breaks 
+: 294 3 -1 re
+: 298 5 4 flec
+: 304 7 8 tions 
+: 312 6 4 fade 
+- 320
+: 341 4 8 But 
+: 346 2 8 in 
+: 349 7 9 some 
+: 358 6 8 ways 
+: 365 3 6 they 
+: 369 2 4 re
+: 373 7 6 main 
+: 381 4 8 the 
+: 387 7 6 same 
+- 396
+: 417 3 6 And 
+: 421 3 6 as 
+: 425 1 6 my 
+: 427 7 8 mind 
+: 435 3 6 be
+: 439 4 4 gins 
+: 444 2 -1 to 
+: 447 9 4 spread 
+: 457 5 8 its 
+: 463 12 4 wings 
+- 477
+: 491 4 8 There’s 
+: 496 2 8 no 
+: 499 8 9 stop
+: 508 6 8 pin’ 
+: 515 3 6 cu
+: 519 5 4 ri
+: 525 4 6 o
+: 530 6 8 si
+: 537 5 6 ty 
+- 544
+: 566 2 6 I 
+: 570 4 6 wan
+: 575 4 6 na 
+: 580 4 8 turn 
+: 585 3 6 the 
+: 589 4 4 whole 
+: 594 5 4 thing 
+: 600 4 4 up
+* 607 9 11 side 
+* 618 11 8 down 
+- 631
+: 641 3 11 I’ll 
+: 645 4 11 find 
+: 650 2 11 the 
+: 653 5 8 things 
+: 659 3 8 they 
+: 663 5 6 say 
+: 669 4 6 just 
+: 674 9 4 can’t 
+* 684 9 11 be 
+* 694 12 8 found 
+- 708
+: 714 3 11 I’ll 
+: 718 4 11 share 
+: 723 3 11 this 
+: 727 4 8 love 
+: 733 4 8 I 
+: 738 5 6 find 
+: 744 4 6 with 
+: 749 6 4 eve
+* 757 11 11 ry
+* 769 10 8 one 
+- 781
+: 789 3 11 We’ll 
+: 794 4 11 sing 
+: 800 2 11 and 
+: 803 5 8 dance 
+: 809 2 8 to 
+: 813 5 6 Mo
+: 819 3 6 ther 
+: 823 7 4 Na
+* 831 11 11 ture’s 
+: 843 10 4 song 
+- 855
+: 865 1 11 I 
+: 867 2 11 don’t 
+: 870 3 11 want 
+: 874 3 11 this 
+: 878 3 8 fee
+: 882 3 8 lin’ 
+: 886 2 8 to 
+: 889 4 8 go 
+: 894 1 8 a
+: 896 8 4 way 
+- 906
+: 1199 5 4 Who’s 
+: 1205 4 8 to 
+: 1211 8 4 say 
+- 1221
+: 1241 2 8 I 
+: 1244 4 8 can’t 
+: 1249 2 8 do 
+: 1252 6 9 eve
+: 1259 3 8 ry
+: 1263 4 6 thing 
+- 1268
+: 1269 3 4 Well 
+: 1273 4 6 I 
+: 1279 6 8 can 
+: 1287 6 6 try 
+- 1295
+: 1317 2 6 And 
+: 1321 2 6 as 
+: 1325 2 6 I 
+: 1329 4 8 roll 
+: 1334 1 6 a
+: 1336 4 4 long 
+: 1341 3 4 I 
+: 1345 2 3 be
+: 1348 5 4 gin 
+: 1356 3 8 to 
+: 1361 6 4 find 
+- 1369
+: 1390 4 8 Things 
+: 1396 3 8 aren’t 
+: 1400 6 9 al
+: 1407 5 8 ways 
+: 1413 7 6 just 
+: 1422 6 6 what 
+: 1430 4 8 they 
+: 1435 9 6 seem 
+- 1446
+: 1465 2 6 I 
+: 1469 4 6 wan
+: 1474 3 6 na 
+: 1478 4 8 turn 
+: 1483 3 6 the 
+: 1488 3 4 whole 
+: 1492 4 4 thing 
+: 1498 5 4 up
+* 1506 8 11 side 
+* 1515 13 8 down 
+- 1530
+: 1540 3 11 I’ll 
+: 1544 4 11 find 
+: 1549 2 11 the 
+: 1552 5 8 things 
+: 1558 3 8 they 
+: 1562 5 6 say 
+: 1568 3 6 just 
+: 1572 9 4 can’t 
+* 1582 9 11 be 
+* 1592 13 8 found 
+- 1607
+: 1614 2 11 I’ll 
+: 1618 3 11 share 
+: 1623 3 11 this 
+: 1627 4 8 love 
+: 1633 3 8 I 
+: 1637 5 6 find 
+: 1643 4 6 with 
+: 1648 7 4 eve
+* 1657 11 11 ry
+* 1669 10 8 one 
+- 1681
+: 1689 3 11 We’ll 
+: 1694 3 11 sing 
+: 1698 3 11 and 
+: 1702 5 8 dance 
+: 1708 2 8 to 
+: 1712 5 6 Mo
+: 1718 3 6 ther 
+: 1722 7 4 Na
+* 1730 12 11 ture’s 
+* 1743 9 8 song 
+- 1754
+: 1764 3 11 This 
+: 1768 5 11 world 
+: 1774 3 11 keeps 
+: 1778 3 11 spin
+: 1782 3 8 nin’ 
+: 1787 2 11 and 
+: 1790 5 11 there’s 
+* 1796 12 11 no 
+- 1810
+: 1824 5 13 Time 
+: 1830 2 15 to 
+* 1833 18 13 waste 
+- 1853
+: 1862 3 11 Will 
+: 1866 3 11 it 
+: 1871 12 11 all 
+- 1885
+: 1899 6 11 Keep 
+: 1906 5 13 spin
+: 1912 2 11 nin’, 
+: 1917 5 13 spin
+: 1923 2 11 nin’ 
+- 1927
+: 1928 4 13 Round 
+: 1933 2 11 and 
+: 1937 5 13 round 
+: 1943 2 11 and 
+- 1947
+: 1948 4 4 Up
+* 1955 8 11 side 
+: 1966 11 8 down 
+- 1979
+: 1988 2 11 Who’s 
+: 1991 1 11 to 
+: 1993 3 11 say 
+: 1998 3 11 what’s 
+: 2002 1 11 im
+: 2004 3 8 pos
+: 2008 1 8 si
+: 2010 3 8 ble 
+: 2016 4 6 and 
+- 2021
+: 2022 7 4 Can’t 
+* 2031 10 11 be 
+: 2043 12 8 found 
+- 2057
+: 2063 1 11 I 
+: 2066 2 11 don’t 
+: 2069 2 11 want 
+: 2072 3 11 this 
+: 2076 3 8 fee
+: 2080 3 8 lin’ 
+: 2084 2 8 to 
+: 2087 4 8 go 
+: 2092 1 8 a
+: 2094 8 4 way 
+- 2104
+: 2214 7 8 Please 
+: 2222 6 11 don’t 
+: 2229 6 8 go 
+: 2236 6 11 a
+: 2243 7 8 way 
+- 2252
+: 2360 3 1 Is 
+: 2364 6 4 this 
+: 2371 5 1 how 
+: 2378 4 4 it’s 
+: 2383 5 1 sup
+: 2389 10 4 posed 
+: 2400 5 6 to 
+* 2406 3 4 be
+* 2410 2 1 ~
+* 2413 11 -1 ~? 
+E

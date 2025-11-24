@@ -1,0 +1,409 @@
+#ARTIST:Linkin Park
+#TITLE:Burn It Down [DUET]
+#MP3:Linkin Park - Burn It Down [DUET].mp3
+#CREATOR:Silverbeam
+#EDITION:[DUET]-Songs
+#GENRE:Rock
+#YEAR:2012
+#LANGUAGE:English
+#BPM:220
+#GAP:43320
+#VIDEO:v=dxytyRy-O1k,co=burn-it-down-5384f71c942f4.jpg,bg=linkin-park-4de523586c57e.jpg,p1=Chester,p2=Mike
+P1
+: 0 2 0 The 
+: 4 3 4 cy
+: 8 2 5 cle 
+: 12 2 4 re
+: 16 28 2 pea
+: 48 12 0 ted 
+- 62
+: 68 5 -3 As 
+: 76 4 0 ex
+: 84 6 4 plo
+: 92 5 4 sions 
+: 100 2 4 broke 
+: 104 2 5 in 
+: 108 2 4 the 
+: 112 10 2 sky 
+- 124
+: 132 2 4 All 
+: 136 2 5 that 
+: 140 2 4 I 
+: 144 27 2 nee
+: 172 2 4 ~
+: 176 10 0 ded 
+- 188
+: 196 6 -3 Was 
+: 204 2 0 the 
+: 208 8 4 one 
+: 220 6 4 thing 
+: 228 2 4 I 
+: 232 2 5 coul
+: 236 2 4 dn’t 
+: 240 10 2 find 
+- 252
+: 256 2 2 And 
+: 260 6 2 you 
+: 268 2 4 were 
+: 272 3 4 the
+* 276 6 5 ~re 
+: 284 2 4 at 
+: 288 2 2 the 
+: 292 6 0 turn 
+- 300
+: 304 3 4 Wai
+: 308 6 5 ~
+: 316 2 4 ting 
+: 320 2 2 to 
+: 324 4 0 let 
+: 332 2 -3 me 
+: 336 22 4 kno
+: 360 3 5 ~
+: 364 3 4 ~
+: 368 10 2 ~w 
+- 380
+: 384 2 2 We’re 
+: 388 3 9 buil
+: 392 2 9 ding 
+: 396 4 7 it 
+: 404 36 9 up 
+- 442
+: 448 2 2 To 
+: 452 2 9 break 
+: 456 2 9 it 
+: 460 4 5 back 
+: 468 22 7 do
+: 492 3 9 ~
+: 496 12 7 ~wn 
+- 510
+: 512 2 2 We’re 
+: 516 3 9 buil
+: 520 2 9 ding 
+: 524 4 7 it 
+* 532 22 9 u
+: 556 3 7 ~
+: 560 10 5 ~p 
+- 572
+: 576 2 4 To 
+: 580 2 9 burn 
+: 584 2 9 it 
+: 588 6 5 down 
+- 596
+: 600 2 2 We 
+: 604 5 7 can’t 
+: 612 6 7 wait 
+- 620
+: 624 2 2 To 
+: 628 6 9 burn 
+: 636 5 7 it 
+: 644 5 5 to 
+: 652 2 4 the 
+: 656 26 2 ground 
+- 684
+: 768 2 0 The 
+: 772 2 4 co
+: 776 2 5 lors 
+: 780 2 4 con
+* 784 28 2 flic
+: 816 10 0 ted 
+- 828
+: 836 6 -3 As 
+: 844 2 0 the 
+: 848 3 2 fla
+: 852 6 4 ~mes 
+: 860 5 4 climbed 
+: 868 2 4 in
+: 872 2 5 to 
+: 876 2 4 the 
+: 880 9 2 clouds 
+- 891
+: 896 2 0 I 
+: 900 2 4 wan
+: 904 2 5 ted 
+: 908 2 4 to 
+: 912 3 0 fi
+: 916 22 2 ~
+: 940 2 4 ~x 
+: 944 8 0 this 
+- 954
+: 960 2 -3 But 
+: 964 6 -3 coul
+: 972 2 0 dn’t 
+: 976 8 4 stop 
+: 988 4 4 from 
+: 996 3 4 tea
+: 1000 2 5 ring 
+: 1004 2 4 it 
+: 1008 8 2 down 
+- 1018
+: 1024 2 2 And 
+: 1028 4 2 you 
+: 1036 2 4 were 
+: 1040 3 4 the
+: 1044 6 5 ~re 
+: 1052 2 4 at 
+: 1056 2 2 the 
+: 1060 6 0 turn 
+- 1068
+: 1072 3 4 Cau
+: 1076 5 5 ~ght 
+: 1084 2 4 in 
+: 1088 2 2 the 
+: 1092 6 0 bur
+: 1100 2 -3 ning 
+: 1104 3 2 glo
+* 1108 25 4 ~
+: 1136 10 2 ~w 
+- 1148
+: 1152 2 2 And 
+: 1156 4 2 I 
+: 1164 2 4 was 
+: 1168 3 4 the
+: 1172 5 5 ~re 
+: 1180 2 4 at 
+: 1184 2 2 the 
+: 1188 6 0 turn 
+- 1196
+: 1200 3 4 Wai
+: 1204 6 5 ~
+: 1212 2 4 ting 
+: 1216 2 2 to 
+: 1220 4 0 let 
+: 1228 2 -3 you 
+: 1232 3 2 kno
+: 1236 18 4 ~
+: 1256 3 5 ~
+: 1260 3 4 ~
+: 1264 8 2 ~w 
+- 1274
+: 1280 2 2 We’re 
+: 1284 3 9 buil
+: 1288 2 9 ding 
+: 1292 4 7 it 
+* 1300 36 9 up 
+- 1338
+: 1344 2 2 To 
+: 1348 2 9 break 
+: 1352 2 9 it 
+: 1356 4 5 back 
+: 1364 22 7 do
+: 1388 3 9 ~
+: 1392 12 7 ~wn 
+- 1406
+: 1408 2 2 We’re 
+: 1412 3 9 buil
+: 1416 2 9 ding 
+: 1420 4 7 it 
+: 1428 22 9 u
+: 1452 3 7 ~
+: 1456 10 5 ~p 
+- 1468
+: 1472 2 4 To 
+: 1476 2 9 burn 
+: 1480 2 9 it 
+: 1484 6 5 down 
+- 1492
+: 1496 2 2 We 
+: 1500 5 7 can’t 
+: 1508 6 7 wait 
+- 1516
+: 1520 2 2 To 
+: 1524 6 9 burn 
+: 1532 5 7 it 
+: 1540 5 5 to 
+: 1548 2 4 the 
+* 1552 26 2 ground 
+- 1580
+: 1792 2 2 And 
+: 1796 5 2 you 
+: 1804 2 4 were 
+: 1808 8 5 there 
+: 1820 2 4 at 
+: 1824 2 2 the 
+: 1828 6 0 turn 
+- 1836
+: 1840 10 5 Wai
+: 1852 2 4 ting 
+: 1856 2 2 to 
+: 1860 4 0 let 
+: 1868 2 -3 me 
+: 1872 22 4 kno
+: 1896 3 5 ~
+: 1900 3 4 ~
+: 1904 12 2 ~w 
+- 1918
+: 1920 2 2 We’re 
+: 1924 3 9 buil
+: 1928 2 9 ding 
+: 1932 4 7 it 
+: 1940 36 9 up 
+- 1978
+: 1984 2 2 To 
+: 1988 2 9 break 
+: 1992 2 9 it 
+: 1996 4 5 back 
+* 2004 22 7 do
+: 2028 3 9 ~
+: 2032 12 7 ~wn 
+- 2046
+: 2048 2 2 We’re 
+: 2052 3 9 buil
+: 2056 2 9 ding 
+: 2060 4 7 it 
+: 2068 22 9 u
+: 2092 3 7 ~
+: 2096 10 5 ~p 
+- 2108
+: 2112 2 4 To 
+: 2116 2 9 burn 
+: 2120 2 9 it 
+: 2124 6 5 down 
+- 2132
+: 2136 2 2 We 
+: 2140 5 7 can’t 
+: 2148 6 7 wait 
+- 2156
+: 2160 2 2 To 
+: 2164 6 9 burn 
+: 2172 5 7 it 
+: 2180 5 5 to 
+: 2188 2 4 the 
+: 2192 29 2 grou
+* 2224 19 0 ~nd 
+- 2245
+: 2264 2 2 We 
+: 2268 5 7 can’t 
+: 2276 6 7 wait 
+- 2284
+: 2288 2 2 To 
+: 2292 6 9 burn 
+: 2300 5 7 it 
+: 2308 5 5 to 
+: 2316 2 7 the 
+* 2320 30 9 grou
+: 2352 26 7 ~nd 
+- 2380
+: 2392 2 2 We 
+: 2396 5 7 can’t 
+: 2404 6 7 wait 
+- 2412
+: 2416 2 2 To 
+: 2420 6 9 burn 
+: 2428 5 7 it 
+: 2436 5 5 to 
+: 2444 2 4 the 
+: 2448 34 2 ground 
+P2
+R 1544 2 0 You 
+R 1548 2 0 told 
+R 1552 2 0 me 
+R 1556 2 0 yes, 
+R 1562 1 0 you 
+R 1564 2 0 held 
+R 1568 2 0 me 
+R 1572 4 0 high 
+- 1577
+R 1578 1 0 And 
+R 1580 2 0 I 
+R 1584 1 0 be
+R 1586 3 0 lieved 
+R 1590 1 0 when 
+R 1592 2 0 you 
+R 1596 2 0 told 
+R 1600 2 0 that 
+R 1604 3 0 lie 
+- 1609
+R 1612 2 0 I 
+R 1616 2 0 played 
+R 1620 3 0 sol
+R 1624 2 0 dier, 
+R 1628 2 0 you 
+R 1632 3 0 played 
+R 1636 3 0 king 
+- 1641
+R 1642 1 0 And 
+R 1644 2 0 struck 
+R 1648 1 0 me 
+R 1650 2 0 down 
+R 1654 1 0 when 
+R 1656 2 0 I 
+R 1660 2 0 kissed 
+R 1664 2 0 that 
+R 1668 3 0 ring 
+- 1673
+R 1674 1 0 You 
+R 1676 2 0 lost 
+R 1680 2 0 that 
+R 1684 2 0 right 
+R 1690 1 0 to 
+R 1692 2 0 hold 
+R 1696 2 0 that 
+R 1700 3 0 crown 
+- 1705
+R 1706 1 0 I 
+R 1708 2 0 built 
+R 1712 1 0 you 
+R 1714 2 0 up 
+R 1718 1 0 but 
+R 1720 2 0 you 
+R 1724 2 0 let 
+R 1728 2 0 me 
+R 1732 3 0 down 
+- 1737
+R 1738 1 0 So 
+R 1740 2 0 when 
+R 1744 2 0 you 
+R 1748 2 0 fall 
+R 1754 1 0 I’ll 
+R 1756 2 0 take 
+R 1760 2 0 my 
+R 1764 3 0 turn 
+- 1769
+R 1770 1 0 And 
+R 1772 2 0 fan 
+R 1776 1 0 the 
+R 1778 2 0 flames 
+R 1782 1 0 as 
+R 1784 2 0 your 
+R 1788 2 0 bla
+R 1792 2 0 zes 
+R 1796 2 0 burn 
+- 1800
+R 2188 2 0 When 
+R 2192 2 0 you 
+R 2196 3 0 fall 
+- 2200
+R 2200 2 0 I’ll 
+R 2204 2 0 take 
+R 2208 2 0 my 
+R 2212 4 0 turn 
+- 2217
+R 2218 1 0 And 
+R 2220 2 0 fan 
+R 2224 1 0 the 
+R 2226 2 0 flames 
+R 2230 1 0 as 
+R 2232 2 0 your 
+R 2236 3 0 bla
+R 2240 2 0 zes 
+R 2244 3 0 burn 
+- 2249
+R 2316 2 0 When 
+R 2320 2 0 you 
+R 2324 4 0 fall 
+- 2328
+R 2328 2 0 I’ll 
+R 2332 2 0 take 
+R 2336 2 0 my 
+R 2340 3 0 turn 
+- 2345
+R 2346 1 0 And 
+R 2348 2 0 fan 
+R 2352 1 0 the 
+R 2354 2 0 flames 
+R 2358 1 0 as 
+R 2360 2 0 your 
+R 2364 3 0 bla
+R 2368 2 0 zes 
+R 2372 4 0 burn 
+E

@@ -1,0 +1,241 @@
+#ARTIST:BBM
+#TITLE:Where In The World
+#MP3:BBM - Where In The World.mp3
+#CREATOR:Phoenix69
+#YEAR:1994
+#LANGUAGE:English
+#BPM:365.92
+#GAP:21880
+#VIDEO:a=_lB3vKTA15g,co=https://media.hitparade.ch/cover/800/bbm-where_in_the_world_s.jpg
+: 0 20 -2 Maybe 
+: 23 3 -2 the 
+: 29 20 0 sun 
+: 52 17 0 will 
+: 72 11 -2 go 
+: 86 5 -2 on 
+: 93 27 1 shi
+: 124 48 -2 ning 
+- 174
+: 256 5 -3 Maybe 
+: 266 6 -1 the 
+: 276 28 3 stars 
+: 307 17 0 fall 
+: 327 9 0 from 
+: 339 7 0 the 
+: 348 92 0 skies 
+- 442
+: 506 9 0 Where 
+: 517 8 0 there’s 
+: 528 8 0 a 
+: 537 15 0 river 
+: 559 15 -2 flo
+: 578 28 1 wing 
+- 608
+: 632 10 0 There 
+: 646 8 0 is 
+: 656 5 0 no 
+: 664 18 9 way 
+: 684 17 4 of 
+: 703 4 0 kno
+: 709 17 0 wing 
+- 728
+: 730 10 0 Where 
+: 742 7 0 it 
+: 751 71 0 goes, 
+: 856 3 -3 no 
+: 865 6 -3 one 
+: 877 52 -3 knows 
+- 931
+: 1268 21 0 Maybe 
+: 1292 5 0 the 
+: 1299 18 0 rain 
+: 1320 19 -3 will 
+: 1341 10 -3 go 
+: 1354 6 -3 on 
+: 1363 30 0 fa
+: 1395 49 -2 lling 
+- 1446
+: 1524 20 -2 Maybe 
+: 1548 3 0 the 
+: 1553 21 2 moun
+: 1576 16 0 tains 
+: 1594 12 -2 touch 
+: 1608 5 0 the 
+: 1616 91 0 skies 
+- 1709
+: 1776 11 0 Where 
+: 1789 9 0 there’s 
+: 1800 3 0 a 
+: 1806 19 0 cold 
+: 1827 16 0 wind 
+: 1845 10 -2 blo
+: 1858 22 -2 wing 
+- 1882
+: 1902 15 0 There 
+: 1919 5 0 is 
+: 1927 5 0 no 
+: 1934 19 9 way 
+: 1955 19 4 of 
+: 1977 9 0 kno
+: 1989 5 0 wing 
+- 1996
+: 1998 11 0 Where 
+: 2012 7 0 it 
+: 2022 87 0 goes, 
+: 2126 6 -3 no 
+: 2135 7 -3 one 
+: 2147 73 -3 knows 
+- 2222
+: 2252 11 6 Li
+: 2264 4 6 ving 
+: 2269 11 6 a
+: 2283 12 6 lone 
+: 2297 9 4 in 
+: 2308 5 4 the 
+: 2315 7 4 ci
+: 2324 25 4 ty 
+- 2351
+: 2379 9 4 All 
+: 2391 7 4 of 
+: 2402 5 4 our 
+: 2410 11 4 dreams 
+: 2423 6 6 left 
+: 2431 4 6 be
+: 2440 46 6 hind 
+- 2488
+: 2508 7 6 In 
+: 2518 8 6 eve
+: 2529 5 6 ry 
+: 2537 11 6 life 
+: 2550 8 6 there 
+: 2561 6 4 are 
+: 2569 10 5 sea
+: 2582 9 4 sons 
+- 2593
+: 2595 6 3 Of 
+: 2603 8 3 laugh
+: 2613 6 3 ter 
+: 2623 4 3 and 
+: 2630 60 5 so
+: 2694 60 5 rrow 
+- 2756
+* 2762 38 5 Where 
+: 2802 6 3 in 
+: 2811 5 2 the 
+: 2822 28 0 world 
+: 2868 7 0 did 
+: 2880 4 0 our 
+: 2889 4 0 love 
+: 2905 82 3 go? 
+- 2989
+* 3016 35 5 When 
+: 3055 8 3 did 
+: 3066 5 2 our 
+: 3075 35 1 dreams 
+: 3121 5 0 say 
+: 3132 3 0 good
+: 3141 82 -3 bye? 
+- 3225
+: 3779 9 6 Li
+: 3792 6 6 ving 
+: 3801 5 6 a
+: 3808 13 6 lone 
+: 3824 7 4 in 
+: 3834 4 4 the 
+: 3842 5 4 ci
+: 3850 18 4 ty 
+- 3870
+: 3905 11 4 All 
+: 3918 5 4 of 
+: 3927 4 4 our 
+: 3934 8 4 dreams 
+: 3946 20 6 left 
+: 3968 2 6 be
+: 3973 45 6 hind 
+- 4020
+: 4035 8 6 In 
+: 4046 6 6 eve
+: 4056 4 6 ry 
+: 4062 13 6 life 
+: 4077 10 6 there 
+: 4089 5 4 are 
+: 4096 10 5 sea
+: 4108 8 4 sons 
+- 4118
+: 4120 5 3 Of 
+: 4127 10 3 laugh
+: 4139 12 3 ter 
+: 4154 15 3 and 
+: 4171 47 5 so
+: 4222 52 5 rrow 
+- 4276
+* 4288 39 5 Where 
+: 4330 5 3 in 
+: 4339 4 2 the 
+: 4348 34 0 world 
+: 4394 4 0 did 
+: 4405 3 0 our 
+: 4414 15 0 love 
+: 4433 79 3 go? 
+- 4514
+* 4542 35 5 Where 
+: 4580 8 3 did 
+: 4591 7 2 our 
+: 4602 27 1 dreams 
+: 4645 14 0 choose 
+: 4662 4 0 to 
+: 4668 59 -3 hide? 
+- 4729
+* 4797 37 5 Where 
+: 4837 7 3 in 
+: 4847 4 2 the 
+: 4855 27 0 world 
+: 4901 5 0 did 
+: 4913 4 0 our 
+: 4923 17 0 love 
+: 4942 53 3 go? 
+- 4997
+: 5051 37 5 When 
+: 5091 5 3 did 
+: 5101 4 2 our 
+: 5110 27 0 dreams 
+: 5156 6 0 say 
+: 5169 5 0 good
+: 5178 98 -3 bye? 
+- 5278
+* 5306 35 5 Where 
+: 5346 4 3 in 
+: 5355 3 2 the 
+: 5365 34 0 world 
+: 5411 5 0 did 
+: 5423 4 0 our 
+: 5432 18 0 love 
+: 5452 75 3 go? 
+- 5529
+* 5559 39 5 Where 
+: 5602 7 3 in 
+: 5612 6 0 the 
+: 5621 33 0 world 
+: 5665 8 0 did 
+: 5677 4 0 our 
+: 5686 15 0 love 
+: 5704 86 3 go? 
+- 5792
+: 5814 46 5 Where 
+: 5862 4 3 in 
+: 5869 4 0 the 
+* 5876 39 0 world, 
+: 5939 39 5 where 
+: 5982 3 3 in 
+: 5990 3 0 the 
+: 5998 46 0 world 
+- 6046
+: 6068 40 5 Where 
+: 6112 5 3 in 
+: 6121 3 0 the 
+: 6130 38 0 world 
+: 6176 6 0 did 
+: 6186 3 0 our 
+: 6193 31 0 love 
+: 6232 87 3 go? 
+E

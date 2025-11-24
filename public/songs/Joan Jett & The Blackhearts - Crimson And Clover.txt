@@ -1,0 +1,164 @@
+#ARTIST:Joan Jett & The Blackhearts
+#TITLE:Crimson And Clover
+#MP3:Joan Jett & The Blackhearts - Crimson And Clover.mp3
+#CREATOR:Fepo
+#COVER:Joan Jett & The Blackhearts - Crimson And Clover [CO].jpg
+#BACKGROUND:Joan Jett & The Blackhearts - Crimson And Clover [BG].jpg
+#GENRE:Pop
+#YEAR:1982
+#LANGUAGE:English
+#BPM:355
+#GAP:1220
+#VIDEO:v=cXFra7gjElw,co=https://1265745076.rsc.cdn77.org/1024/jpg/35373-6095274f0567c.jpg,co-crop=2-2-592-592
+: 0 24 0 Ah, 
+- 47
+: 101 4 5 Now 
+: 107 4 5 I 
+: 113 10 5 don’t 
+: 126 8 4 hard
+: 137 4 2 ly 
+: 144 16 2 know 
+: 163 15 0 her 
+- 201
+: 256 3 2 But 
+: 261 4 4 I 
+: 268 10 5 think 
+: 280 6 4 I 
+: 288 7 2 could 
+: 297 16 2 love 
+: 316 18 0 her 
+- 357
+: 424 7 5 Crim
+: 433 7 4 son 
+: 443 6 2 and 
+* 452 17 2 clo
+* 472 17 4 ver 
+- 536
+* 596 34 7 Ah 
+- 653
+: 704 2 4 And 
+: 708 2 5 when 
+: 712 2 5 she 
+: 716 9 5 comes 
+: 728 5 4 wal
+: 736 5 2 king 
+: 744 17 2 o
+: 764 21 0 ver 
+- 808
+: 852 2 4 Now 
+: 856 2 5 I’ve 
+: 860 2 5 been 
+: 864 10 5 wai
+: 876 6 4 tin’ 
+: 884 4 2 to 
+: 892 17 2 show 
+: 912 14 0 he
+: 928 9 4 ~r 
+- 960
+: 1012 7 5 Crim
+: 1021 7 4 son 
+: 1031 6 2 and 
+* 1040 17 2 clo
+* 1060 17 4 ver 
+- 1100
+: 1164 6 5 O
+: 1172 6 4 ver 
+: 1180 6 2 and 
+: 1188 18 2 o
+: 1208 18 4 ver 
+- 1273
+: 1848 24 0 Yeah, 
+- 1895
+: 1944 5 5 My, 
+: 1952 9 5 my 
+: 1964 8 4 such 
+: 1975 4 2 a 
+: 1984 13 2 sweet 
+: 2000 16 0 thing 
+- 2039
+: 2088 2 5 I 
+: 2092 2 5 wan
+: 2096 2 5 na 
+: 2100 8 5 do 
+: 2111 6 4 e
+: 2120 5 2 ve
+: 2128 17 2 ry
+: 2148 14 0 thi
+: 2164 12 4 ~ng 
+- 2199
+: 2238 2 5 What 
+: 2242 2 5 a 
+: 2246 7 5 beau
+: 2256 5 4 ti
+: 2264 8 2 ful 
+: 2275 17 2 fee
+: 2295 15 4 ling 
+- 2333
+: 2396 7 5 Crim
+: 2405 7 4 son 
+: 2415 6 2 and 
+* 2424 17 2 clo
+* 2443 18 4 ver 
+- 2484
+: 2540 5 5 O
+: 2548 6 4 ver 
+: 2557 6 5 and 
+: 2568 13 4 o
+: 2583 77 2 ver 
+- 2707
+: 3364 16 4 Crim
+: 3384 6 4 son 
+: 3392 6 4 and 
+: 3400 8 4 clo
+: 3410 7 2 ~
+: 3419 9 2 ver 
+- 3437
+: 3440 13 5 O
+: 3456 9 5 ver 
+: 3467 5 4 and 
+: 3475 7 4 o
+: 3484 4 2 ~
+: 3491 11 2 ver 
+- 3503
+: 3505 16 4 Crim
+: 3525 6 4 son 
+: 3533 6 4 and 
+: 3541 8 4 clo
+: 3551 7 2 ~
+: 3560 9 2 ver 
+- 3574
+: 3576 13 5 O
+: 3592 9 5 ver 
+: 3603 5 4 and 
+: 3611 7 4 o
+: 3620 4 2 ~
+: 3627 11 2 ver 
+- 3642
+: 3644 16 4 Crim
+: 3663 6 4 son 
+: 3671 6 4 and 
+: 3679 8 4 clo
+: 3689 7 2 ~
+: 3698 9 2 ver 
+- 3711
+: 3713 13 5 O
+: 3729 9 5 ver 
+: 3740 5 4 and 
+: 3748 7 4 o
+: 3757 4 2 ~
+: 3764 11 2 ver 
+- 3778
+: 3780 16 4 Crim
+: 3800 6 4 son 
+: 3808 6 4 and 
+: 3816 8 4 clo
+: 3826 7 2 ~
+: 3835 9 2 ver 
+- 3848
+: 3850 13 5 O
+: 3866 9 5 ver 
+: 3877 5 4 and 
+: 3885 7 4 o
+: 3894 4 2 ~
+: 3901 11 2 ver 
+E

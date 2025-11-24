@@ -1,0 +1,201 @@
+#ARTIST:Leningrad Cowboys
+#TITLE:Goldfinger
+#MP3:Leningrad Cowboys - Goldfinger.mp3
+#CREATOR:williluegger
+#YEAR:2006
+#LANGUAGE:English
+#BPM:224
+#GAP:49420
+#VIDEO:a=Dnk55uwj_g8,co=zombies-paradise-553f6a2ac94bd.jpg,bg=leningrad-cowboys-4f759a8866ccb.jpg
+: 0 11 -1 Gold
+: 12 4 6 fin
+: 18 14 4 ger 
+- 34
+: 92 3 6 He’s 
+: 96 1 2 the 
+: 98 8 4 man 
+- 108
+: 120 1 -1 The 
+: 122 4 1 man 
+: 134 2 1 with 
+: 138 2 1 the 
+: 144 10 9 mi
+: 156 6 8 das 
+: 164 8 7 touch 
+- 174
+: 224 4 7 A 
+: 232 4 7 spi
+: 240 4 3 der’s 
+* 252 4 6 touch 
+- 258
+: 326 5 -1 Such 
+: 332 2 -1 a 
+: 336 12 -1 cold 
+: 352 4 6 fin
+: 358 12 4 ger 
+- 372
+: 432 3 6 Bec
+: 436 2 2 kons 
+: 442 8 4 you 
+- 452
+: 462 3 -1 To 
+: 466 4 1 en
+: 472 2 1 ter 
+: 482 2 1 his 
+: 490 6 9 web 
+: 500 4 8 of 
+: 506 8 7 sin 
+- 516
+: 564 4 7 But 
+: 572 4 7 don’t 
+: 580 4 7 go 
+: 592 16 8 in 
+- 610
+: 750 5 10 Gol
+: 756 4 8 den 
+* 762 6 6 words 
+: 770 4 6 he 
+: 778 4 3 will 
+: 784 6 6 pour 
+: 792 3 6 in 
+: 796 6 8 your 
+: 804 12 10 ear 
+- 818
+: 836 4 10 But 
+: 842 4 8 his 
+: 848 6 6 lies 
+: 856 4 6 can’t 
+: 862 4 3 dis
+: 868 6 6 guise 
+: 878 3 6 what 
+: 882 6 10 you 
+: 890 18 12 fear 
+- 910
+: 926 6 13 For 
+: 934 4 11 a 
+: 940 5 10 gol
+: 946 4 10 den 
+: 952 6 10 girl 
+- 960
+: 978 5 11 Knows 
+: 984 3 11 when 
+: 988 5 13 he’s 
+: 994 5 11 kissed 
+: 1000 8 6 her 
+- 1010
+: 1032 4 6 It’s 
+: 1038 3 6 the 
+* 1042 4 5 kiss 
+: 1052 7 3 of 
+: 1060 8 9 death 
+- 1070
+: 1086 4 6 From 
+: 1092 4 5 Mis
+: 1098 4 0 ter 
+: 1106 12 -1 Gold
+: 1120 4 6 fin
+: 1126 14 4 ger 
+- 1142
+: 1202 3 6 Pret
+: 1206 1 2 ty 
+: 1208 8 4 girl 
+: 1226 3 -1 be
+: 1230 8 1 ware 
+: 1246 3 1 of 
+: 1250 3 1 this 
+: 1254 10 9 heart 
+: 1268 4 8 of 
+: 1274 12 7 gold 
+- 1288
+: 1332 4 7 This 
+: 1338 4 7 heart 
+: 1348 4 7 is 
+: 1358 24 8 cold 
+- 1384
+: 1518 5 10 Gol
+: 1524 4 8 den 
+: 1530 6 6 words 
+: 1540 4 6 he 
+: 1546 6 3 will 
+: 1554 6 6 pour 
+: 1562 2 6 in 
+: 1568 4 8 your 
+: 1574 16 10 ear 
+- 1592
+: 1604 4 10 But 
+: 1610 4 8 his 
+: 1616 6 6 lies 
+: 1624 4 6 can’t 
+* 1632 6 3 dis
+* 1640 6 6 guise 
+- 1647
+: 1648 3 6 What 
+: 1652 3 10 you 
+: 1656 16 13 fear 
+- 1674
+: 1694 5 13 For 
+: 1700 3 11 a 
+: 1704 5 10 gol
+: 1710 4 10 den 
+: 1716 8 10 girl 
+- 1726
+: 1744 6 11 Knows 
+: 1752 3 11 when 
+: 1756 5 13 he’s 
+: 1762 5 11 kissed 
+: 1768 8 6 her 
+- 1778
+: 1800 3 6 It’s 
+* 1804 3 6 the 
+: 1808 8 5 kiss 
+: 1820 6 3 of 
+: 1830 10 9 death 
+- 1842
+: 1856 3 6 From 
+: 1860 4 5 Mis
+: 1866 4 0 ter 
+* 1872 16 0 Gold
+: 1890 5 6 fin
+: 1896 14 4 ger 
+- 1912
+: 1974 3 6 Pret
+: 1978 1 2 ty 
+: 1980 8 4 girl 
+- 1990
+: 1994 2 -1 Be
+: 1998 6 1 ware 
+: 2014 3 1 of 
+: 2018 3 1 this 
+: 2022 10 9 heart 
+: 2038 4 8 of 
+: 2044 12 7 gold 
+- 2058
+: 2100 4 7 This 
+: 2106 6 7 heart 
+: 2118 6 7 is 
+: 2128 28 8 cold 
+- 2158
+: 2272 4 8 He 
+: 2278 6 11 loves 
+: 2288 3 10 on
+: 2292 4 6 ly 
+: 2298 36 8 gold 
+- 2336
+: 2362 11 10 On
+: 2374 4 6 ly 
+: 2384 30 8 gold 
+- 2416
+: 2450 6 10 He 
+: 2458 10 11 loves 
+: 2470 38 8 gold 
+- 2510
+: 2540 3 8 He 
+: 2544 5 13 loves 
+: 2550 3 11 on
+: 2554 5 6 ly 
+: 2560 40 8 gold 
+- 2602
+: 2618 10 11 He 
+: 2630 8 13 loves 
+: 2640 60 15 gold. 
+E

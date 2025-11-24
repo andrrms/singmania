@@ -1,0 +1,206 @@
+#ARTIST:The Mamas & The Papas
+#TITLE:California Dreamin’
+#MP3:The Mamas & The Papas - California Dreamin’.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Folk Rock
+#YEAR:1965
+#LANGUAGE:English
+#BPM:225.5
+#GAP:13210
+#VIDEO:v=KOok1WzZbOY,co=california-dreamin-5592530d840b4.jpg,bg=mamas--the-papas-the-52dffd6a9a354.jpg
+: 0 3 1 All 
+: 4 2 3 the 
+: 8 3 1 leaves 
+: 13 2 -1 are 
+: 17 13 1 brown 
+- 32
+: 56 2 1 And 
+: 60 2 3 the 
+* 64 6 1 sky 
+: 72 2 -1 is 
+: 77 7 -4 grey. 
+- 86
+: 128 2 4 I’ve 
+: 132 4 4 been 
+: 139 1 4 for 
+: 141 1 3 a 
+: 144 7 4 walk 
+- 153
+: 184 3 4 On 
+: 188 2 1 a 
+: 192 3 4 win
+: 196 4 4 ter’s 
+: 204 8 3 day. 
+- 214
+: 255 2 -4 I’d 
+: 259 2 -4 be 
+: 263 3 -1 safe 
+: 267 2 -4 and 
+* 271 3 4 wa
+: 275 7 1 ~rm, 
+- 284
+: 311 2 1 If 
+: 315 2 3 I 
+: 319 3 1 was 
+: 323 2 -1 in 
+: 327 3 -1 L.
+: 331 6 -4 A. 
+- 339
+: 383 3 8 Ca
+: 387 2 6 li
+: 391 3 4 for
+: 395 2 3 nia 
+: 399 3 4 drea
+: 404 10 1 min’ 
+- 416
+: 443 2 4 On 
+: 447 3 6 such 
+: 451 2 4 a 
+: 455 3 6 win
+: 459 2 4 ter’s 
+* 463 22 8 day. 
+- 487
+: 509 3 1 Stopped 
+: 513 2 3 in
+: 517 1 1 to 
+: 519 2 -1 a 
+: 523 5 1 church, 
+- 530
+: 561 2 -1 I 
+: 565 3 1 passed 
+: 569 2 -1 a
+: 573 2 1 lo
+: 576 4 -1 ~ng 
+: 585 2 -6 the 
+: 589 5 -4 way. 
+- 596
+: 625 3 8 Well, 
+* 631 4 8 I 
+: 637 3 6 got 
+: 641 3 4 down 
+: 645 2 1 on 
+: 649 3 -1 my 
+: 656 10 4 knees 
+- 668
+: 688 3 1 And 
+: 692 2 4 I 
+: 696 3 1 pre
+: 700 2 4 te
+: 703 4 1 ~nd 
+: 709 2 1 to 
+: 713 6 3 pray. 
+- 721
+: 752 2 8 You 
+: 756 3 8 know 
+: 760 2 8 the 
+: 764 3 8 prea
+: 768 2 6 cher 
+: 772 3 4 lights 
+: 776 2 3 your 
+: 780 3 4 coa
+: 784 6 1 ~ls. 
+- 792
+: 816 3 1 He 
+: 820 2 1 kno
+: 823 3 -1 ~ws, 
+: 828 4 -1 I’m 
+: 834 3 1 gon
+: 838 3 -1 na 
+: 845 6 -4 stay. 
+- 853
+: 891 3 8 Ca
+: 895 2 6 li
+: 899 3 4 for
+: 904 2 3 nia 
+: 908 3 4 drea
+: 912 16 1 min’ 
+- 930
+: 951 2 4 On 
+: 955 2 6 such 
+: 959 2 4 a 
+: 963 3 6 win
+: 967 2 4 ter’s 
+* 971 31 8 day. 
+- 1004
+: 1538 5 4 All 
+: 1546 4 4 the 
+: 1554 6 3 leaves 
+: 1562 3 3 are 
+: 1567 13 1 bro
+: 1583 12 3 ~wn 
+- 1597
+: 1610 2 3 And 
+: 1614 2 3 the 
+: 1618 6 3 sky 
+: 1626 2 3 is 
+: 1631 13 3 gre
+: 1646 13 4 ~y. 
+- 1661
+: 1666 4 8 I’ve 
+: 1673 5 8 been 
+: 1681 3 6 for 
+: 1686 4 6 a 
+: 1693 16 8 wa
+* 1713 9 9 ~lk 
+- 1724
+: 1737 3 6 On 
+: 1741 2 6 a 
+: 1745 3 6 win
+: 1750 4 6 ter’s 
+: 1757 19 3 day. 
+- 1778
+: 1793 3 4 If 
+: 1800 5 4 I 
+: 1808 3 3 di
+: 1812 4 3 dn’t 
+: 1820 4 1 tell 
+: 1828 9 1 he
+: 1840 7 3 ~r, 
+- 1849
+: 1864 2 3 I 
+: 1868 2 3 could 
+: 1872 4 3 leave 
+: 1880 2 3 to
+: 1884 20 3 day. 
+- 1906
+: 1920 6 4 Ca
+: 1928 4 4 li
+: 1936 5 3 for
+: 1944 2 3 nia 
+* 1948 6 1 drea
+: 1956 6 1 min’ 
+- 1963
+: 1963 2 4 On 
+: 1967 2 6 such 
+: 1971 2 4 a 
+: 1975 3 3 win
+: 1979 2 1 ter’s, 
+- 1983
+: 1991 3 1 Ca
+: 1995 2 1 li
+: 1999 5 3 for
+: 2007 2 3 nia 
+: 2011 6 4 drea
+: 2019 6 4 min’ 
+- 2026
+: 2027 2 4 On 
+: 2031 2 6 such 
+: 2035 2 4 a 
+: 2039 3 3 win
+: 2043 2 3 ter’s, 
+- 2047
+: 2054 3 1 Ca
+: 2058 2 1 li
+: 2062 5 3 for
+: 2070 2 3 nia 
+: 2074 6 4 drea
+: 2082 5 4 min’ 
+- 2088
+: 2089 2 4 On 
+: 2093 2 6 such 
+: 2097 2 4 a 
+: 2101 2 3 win
+: 2105 2 1 ter’s 
+* 2109 55 8 day. 
+E

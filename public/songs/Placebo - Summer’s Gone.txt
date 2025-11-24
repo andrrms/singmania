@@ -1,0 +1,340 @@
+#ARTIST:Placebo
+#TITLE:Summer’s Gone
+#MP3:Placebo - Summer’s Gone.mp3
+#CREATOR:choosie
+#YEAR:1998
+#LANGUAGE:English
+#BPM:237.26
+#GAP:17590
+#VIDEO:a=ESF7KENCZEE,co=without-you-im-nothing-5806c2bbd728c.jpg,bg=placebo-4efe38688b3a9.jpg
+: 0 2 12 Cue 
+: 4 1 11 to 
+: 7 4 12 your 
+: 15 3 12 face 
+: 21 2 12 so 
+: 25 2 10 for
+: 29 3 12 sa
+: 35 6 7 ken 
+- 43
+: 61 3 12 Crushed 
+: 66 2 12 by 
+: 70 1 11 the 
+: 73 4 12 way 
+: 80 2 12 that 
+: 84 1 14 you
+: 87 3 15 ~ 
+: 96 7 12 cry 
+- 105
+: 122 2 12 Cue 
+: 126 1 11 to 
+: 129 4 12 your 
+: 137 3 12 face 
+* 143 2 12 so 
+* 147 2 10 for
+* 151 3 12 sa
+* 157 6 7 ken 
+- 165
+: 197 2 7 What 
+: 201 2 8 a 
+: 206 1 8 sur
+: 209 6 8 prise 
+- 217
+: 238 2 10 You 
+: 243 6 12 try 
+: 253 1 12 to 
+: 256 6 12 break 
+: 267 2 15 the 
+: 271 8 12 mould 
+- 281
+: 297 3 10 Be
+: 303 6 12 fore 
+: 313 2 12 you 
+: 317 3 12 get 
+: 323 2 8 too
+: 328 4 7 ~ 
+: 338 2 8 old
+: 343 5 7 ~ 
+- 350
+: 360 2 10 You 
+: 365 6 12 try 
+* 375 1 12 to 
+* 378 6 12 break 
+* 389 2 8 the 
+* 393 6 7 mould 
+- 401
+: 420 2 10 Be
+: 426 6 12 fore 
+: 436 3 12 you 
+: 442 4 13 die
+: 449 7 12 ~ 
+- 458
+: 488 2 12 Cue 
+: 492 1 11 to 
+: 495 4 12 your 
+: 503 3 12 heart 
+: 508 1 12 that 
+: 511 3 10 is 
+: 518 3 12 ra
+: 524 7 7 cing 
+- 533
+: 549 3 12 Stung 
+: 554 2 12 by 
+: 558 1 11 the 
+: 561 4 12 look 
+: 568 2 12 in 
+: 572 1 14 your
+: 575 3 15 ~ 
+* 584 10 12 eye 
+- 596
+: 610 2 12 Cue 
+: 614 1 11 to 
+: 617 4 12 your 
+: 624 3 12 heart 
+: 630 1 12 that 
+: 633 3 10 is 
+: 639 4 12 ra
+: 647 6 7 cing 
+- 655
+: 685 2 7 What 
+: 690 2 8 a 
+: 695 1 8 sur
+: 698 6 8 prise 
+- 706
+: 726 2 10 You 
+: 731 6 12 try 
+: 741 2 12 to 
+: 745 6 12 break 
+: 756 2 15 the 
+: 760 9 12 mould 
+- 771
+: 786 2 10 Be
+: 791 6 12 fore 
+: 801 2 12 you 
+: 805 3 12 get 
+* 812 2 8 too
+* 817 4 7 ~ 
+* 826 2 8 old
+* 831 6 7 ~ 
+- 839
+: 849 2 10 You 
+: 854 6 12 try 
+: 864 1 12 to 
+: 867 6 12 break 
+: 877 2 8 the 
+: 881 9 7 mould 
+- 892
+: 909 2 10 Be
+: 914 5 12 fore 
+: 923 3 12 you 
+: 929 4 13 die
+: 937 7 12 ~ 
+- 946
+* 975 2 12 Cue 
+* 979 1 11 to 
+* 982 4 12 your 
+* 990 3 12 face 
+: 996 2 12 so 
+: 1000 2 10 for
+: 1004 3 12 sa
+: 1010 6 7 ken 
+- 1018
+: 1037 3 12 Crushed 
+: 1042 3 12 by 
+: 1047 1 11 the 
+: 1050 4 12 way 
+: 1057 1 12 that 
+: 1060 1 14 you
+: 1063 4 15 ~ 
+: 1072 3 12 cry
+: 1078 7 10 ~ 
+- 1087
+: 1099 2 12 Cue 
+: 1103 1 11 to 
+: 1106 4 12 your 
+: 1114 3 12 face 
+: 1120 2 12 so 
+: 1124 2 10 for
+: 1128 3 12 sa
+: 1134 8 7 ken 
+- 1144
+* 1175 2 7 Say
+* 1179 2 8 ~ 
+* 1184 2 8 good
+* 1188 7 8 bye 
+- 1197
+F 1220 2 12 Sing 
+F 1226 2 12 for 
+F 1229 2 12 your 
+F 1236 2 12 lo
+F 1239 2 12 ver 
+- 1243
+F 1244 2 12 Like 
+F 1252 2 12 blood 
+F 1256 2 12 from 
+F 1261 2 12 the 
+F 1265 2 12 stone 
+- 1269
+F 1282 2 12 Sing 
+F 1288 2 12 for 
+F 1291 2 12 your 
+F 1298 2 12 lo
+F 1301 2 12 ver 
+- 1304
+F 1305 2 12 Who’s 
+F 1313 2 12 wait
+F 1317 2 12 ing 
+F 1322 2 12 at 
+F 1326 4 12 home 
+- 1332
+F 1335 2 12 If 
+F 1338 2 12 you 
+F 1344 2 12 sing 
+F 1350 2 12 when 
+F 1353 2 12 you’re 
+F 1356 4 12 high 
+- 1362
+F 1369 2 12 And 
+F 1372 2 12 you’re 
+F 1377 2 12 dry 
+F 1381 2 12 as 
+F 1384 2 12 a 
+F 1387 2 12 bone 
+- 1391
+F 1398 2 12 Then 
+F 1402 2 12 you 
+F 1406 2 12 must 
+F 1411 2 12 re
+F 1414 2 12 a
+F 1417 2 12 lise 
+- 1421
+F 1428 2 12 That 
+F 1432 2 12 you’re 
+F 1436 2 12 ne
+F 1439 2 12 ver 
+F 1447 2 12 a
+F 1450 2 12 lone 
+- 1454
+F 1459 2 12 And 
+F 1464 2 12 you’ll 
+F 1472 5 12 sing 
+- 1479
+F 1489 3 12 With 
+F 1494 2 12 the 
+F 1498 2 12 dead 
+- 1502
+F 1525 3 12 In
+F 1535 4 12 stead 
+- 1541
+F 1549 2 12 Said, 
+F 1555 2 12 you’ll 
+F 1565 5 12 sing 
+- 1572
+F 1580 3 12 With 
+F 1585 2 12 the 
+F 1589 2 12 dead 
+- 1593
+F 1617 3 12 In
+F 1627 4 12 stead 
+- 1633
+: 1711 3 10 You 
+: 1717 6 12 try 
+* 1727 1 12 to 
+* 1730 6 12 break 
+* 1741 2 15 the 
+* 1745 8 12 mould 
+- 1755
+: 1772 3 10 Be
+: 1778 6 12 fore 
+: 1788 2 12 you 
+: 1792 3 12 get 
+: 1799 2 8 too
+: 1804 4 7 ~ 
+: 1814 2 8 old
+: 1819 6 7 ~ 
+- 1827
+: 1841 7 12 Try 
+: 1852 1 12 to 
+: 1855 6 12 break 
+: 1866 2 8 the 
+: 1870 10 7 mould 
+- 1882
+* 1898 2 10 Be
+* 1904 5 12 fore 
+* 1913 3 12 you 
+* 1919 4 13 die
+* 1927 11 12 ~ 
+- 1940
+F 1966 2 12 Sing 
+F 1972 2 12 for 
+F 1975 2 12 your 
+F 1982 2 12 lo
+F 1985 2 12 ver 
+- 1988
+F 1989 2 12 Like 
+F 1997 2 12 blood 
+F 2001 2 12 from 
+F 2006 2 12 the 
+F 2010 2 12 stone 
+- 2014
+F 2027 2 12 Sing 
+F 2033 2 12 for 
+F 2036 2 12 your 
+F 2043 2 12 lo
+F 2046 2 12 ver 
+- 2049
+F 2050 2 12 Who’s 
+F 2059 2 12 wait
+F 2062 2 12 ing 
+F 2068 2 12 at 
+F 2072 4 12 home 
+- 2078
+F 2081 2 12 If 
+F 2084 2 12 you 
+F 2090 2 12 sing 
+F 2096 2 12 when 
+F 2099 2 12 you’re 
+F 2102 4 12 high 
+- 2108
+F 2115 2 12 And 
+F 2118 2 12 you’re 
+F 2123 2 12 dry 
+F 2127 2 12 as 
+F 2130 2 12 a 
+F 2133 2 12 bone 
+- 2137
+F 2144 2 12 Then 
+F 2148 2 12 you 
+F 2152 2 12 must 
+F 2157 2 12 re
+F 2160 2 12 a
+F 2163 2 12 lise 
+- 2167
+F 2175 2 12 That 
+F 2179 2 12 you’re 
+F 2183 2 12 ne
+F 2187 2 12 ver 
+F 2194 2 12 a
+F 2198 2 12 lone 
+- 2202
+F 2206 2 12 And 
+F 2211 2 12 you’ll 
+F 2219 5 12 sing 
+- 2226
+F 2236 3 12 With 
+F 2241 2 12 the 
+F 2245 2 12 dead 
+- 2249
+F 2272 3 12 In
+F 2282 4 12 stead 
+- 2288
+F 2299 2 12 Said, 
+F 2305 2 12 you’ll 
+F 2315 5 12 sing 
+- 2322
+F 2330 3 12 With 
+F 2335 2 12 the 
+F 2339 2 12 dead 
+- 2343
+F 2367 3 12 In
+F 2377 4 12 stead. 
+E

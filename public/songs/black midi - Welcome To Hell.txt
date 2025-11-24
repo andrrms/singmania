@@ -1,0 +1,486 @@
+#ARTIST:black midi
+#TITLE:Welcome To Hell
+#MP3:black midi - Welcome To Hell.mp3
+#CREATOR:lukmuk
+#COVER:black midi - Welcome To Hell [CO].jpg
+#BACKGROUND:black midi - Welcome To Hell [BG].jpg
+#GENRE:Progressive Rock
+#YEAR:2022
+#LANGUAGE:English
+#BPM:263
+#GAP:26190
+#VIDEO:v=Efmq_uXt1Rk,co=hellfire-628bc8cc15ba8.jpg,bg=https://bmblackmidi.com/wp-content/themes/bmbmbm/images/black-midi-hellfire-header.png,preview=71.0
+R 0 3 0 Lis
+R 5 3 0 ten! 
+- 18
+R 22 2 0 The 
+R 27 4 0 swee
+R 32 3 0 ~t 
+R 38 5 0 peals 
+R 45 3 0 of 
+R 50 5 0 moon
+R 56 5 0 light-
+R 62 4 0 in
+R 68 4 0 duced 
+R 74 4 0 love
+R 80 3 0 ma
+R 84 2 0 king 
+R 87 4 0 on 
+R 92 1 0 the 
+R 94 3 0 stree
+R 98 4 0 ~ts 
+R 104 3 0 to
+R 108 7 0 night 
+- 124
+R 127 3 0 Lis
+R 133 3 0 ten! 
+- 143
+R 146 3 0 The 
+R 151 4 0 soft 
+R 158 8 0 purr 
+R 170 3 0 of 
+R 174 2 0 mo
+R 177 2 0 tor
+R 180 2 0 bikes 
+- 192
+R 200 3 0 Are 
+R 206 1 0 re
+R 208 1 0 ady 
+R 210 1 0 to 
+R 212 2 0 stri
+R 215 2 0 ~ke 
+R 219 3 0 up 
+R 225 2 0 the 
+R 228 2 0 night 
+R 231 1 0 a
+R 234 5 0 light 
+- 249
+R 256 1 0 So 
+R 258 3 0 don’t 
+R 263 3 0 tell 
+R 267 1 0 me 
+R 269 1 0 of 
+R 271 3 0 your 
+R 276 2 0 trou
+R 279 3 0 bles, 
+R 291 2 0 your 
+R 294 1 0 e
+R 296 2 0 mo
+R 299 2 0 tion
+R 302 2 0 al 
+R 308 7 0 grief 
+- 325
+R 337 1 0 Take 
+R 339 2 0 in 
+R 343 1 0 the 
+R 346 4 0 sights, 
+R 353 1 0 this 
+R 355 2 0 is 
+R 359 4 0 shore 
+R 365 5 0 leave 
+- 380
+R 390 3 0 Don’t 
+R 394 3 0 talk 
+R 399 5 0 of 
+R 406 5 0 true 
+R 412 3 0 love, 
+R 424 4 0 un
+R 431 3 0 screw 
+R 437 3 0 your 
+R 442 5 0 frown 
+- 453
+R 456 3 0 En
+R 461 3 0 joy 
+R 465 1 0 the 
+R 468 1 0 en
+R 470 1 0 ter
+R 473 3 0 tain
+R 477 3 0 ments 
+R 487 1 0 of 
+R 490 2 0 night
+R 494 3 0 time 
+R 501 4 0 town 
+- 515
+R 523 2 0 Ex
+R 526 2 0 pe
+R 530 1 0 ri
+R 533 2 0 ence 
+R 538 1 0 the 
+R 540 2 0 red 
+R 544 3 0 rooms, 
+R 551 1 0 the 
+R 554 3 0 green 
+R 559 3 0 ta
+R 563 2 0 bles, 
+R 570 2 0 the 
+R 575 2 0 sou
+R 578 2 0 ve
+R 581 5 0 nirs 
+- 587
+R 589 3 0 Make 
+R 594 2 0 mem
+R 598 3 0 ’ries, 
+R 603 3 0 haun
+R 608 2 0 ting 
+R 612 2 0 or 
+R 616 3 0 fa
+R 621 4 0 bled 
+- 635
+R 655 2 0 The 
+R 659 1 0 gal
+R 661 1 0 lant 
+R 665 3 0 mist 
+R 670 2 0 of 
+R 675 2 0 red 
+R 679 1 0 bloo
+R 681 2 0 ded 
+R 684 5 0 chi
+R 690 1 0 ~
+R 692 1 0 val
+R 695 3 0 ry 
+- 699
+R 701 2 0 In
+R 704 3 0 sti
+R 709 4 0 ~lled 
+R 715 3 0 in 
+R 720 3 0 ba
+R 725 3 0 sic 
+R 731 3 0 trai
+R 736 3 0 ning 
+- 756
+: 800 2 1 By 
+: 803 3 1 sta
+: 808 2 1 ~n
+: 812 1 1 ding 
+: 814 2 1 in 
+: 818 8 4 line 
+: 828 2 4 to
+: 831 3 4 day 
+- 838
+: 840 4 4 You 
+: 846 4 4 se
+: 852 5 4 cure 
+: 859 3 4 a 
+: 864 4 4 place 
+* 872 6 4 a
+* 880 5 6 mong 
+* 887 3 6 the 
+* 893 8 7 saints 
+- 906
+: 908 11 8 Go 
+: 921 3 4 get 
+: 926 4 6 them, 
+: 932 4 7 son, 
+: 938 4 4 now 
+: 944 3 6 your 
+* 949 5 7 life 
+: 956 2 5 be
+: 959 7 6 gins 
+- 973
+: 976 1 4 To 
+* 978 8 7 die 
+: 987 2 7 for 
+: 991 3 7 your 
+: 996 3 7 coun
+: 1001 4 4 try 
+: 1009 2 4 does 
+: 1013 3 7 not 
+: 1017 1 7 win 
+: 1019 1 7 a 
+* 1021 6 7 war 
+- 1036
+: 1040 3 4 To 
+* 1044 7 7 kill 
+: 1052 2 7 for 
+: 1055 3 7 your 
+: 1060 4 7 coun
+: 1066 4 4 try 
+: 1073 2 6 is 
+: 1077 3 7 what 
+: 1082 5 7 wins 
+: 1089 2 7 a 
+* 1093 10 11 war 
+- 1138
+G 1180 5 0 Don’t 
+R 1190 1 0 tell 
+R 1192 1 0 your 
+R 1194 3 0 name, 
+R 1210 2 0 don’t 
+R 1213 2 0 ask 
+R 1218 2 0 for 
+R 1222 6 0 hers 
+- 1237
+R 1240 2 0 In 
+R 1243 2 0 this 
+R 1247 1 0 land 
+R 1249 2 0 of 
+R 1252 4 0 oys
+R 1258 4 0 ters, 
+R 1264 2 0 you 
+R 1267 2 0 are 
+R 1271 2 0 the 
+R 1274 6 0 world 
+- 1290
+R 1301 1 0 The 
+R 1303 3 0 pain
+R 1308 5 0 less, 
+R 1317 4 0 plain
+R 1323 4 0 ness 
+R 1331 1 0 of 
+R 1334 1 0 mi
+R 1336 1 0 li
+R 1339 1 0 ta
+R 1341 2 0 ry 
+R 1345 4 0 life 
+- 1360
+: 1364 2 -1 Re
+: 1367 8 0 sumes 
+: 1377 3 0 to
+: 1382 3 0 mor
+: 1387 6 0 row 
+* 1395 34 0 night 
+- 1464
+R 1565 2 0 If 
+R 1569 2 0 not 
+R 1572 2 0 for 
+R 1575 4 0 you, 
+R 1580 1 0 it 
+R 1582 1 0 would 
+R 1584 2 0 have 
+R 1587 2 0 been 
+R 1592 1 0 cho
+R 1594 1 0 le
+R 1597 1 0 ra, 
+R 1606 1 0 ma
+R 1608 3 0 la
+R 1613 2 0 ria 
+- 1626
+R 1630 3 0 Or 
+R 1636 2 0 some 
+R 1642 2 0 eas
+R 1647 3 0 tern 
+R 1653 1 0 di
+R 1656 5 0 sease 
+- 1671
+R 1695 1 0 For
+R 1698 1 0 get 
+R 1700 1 0 a
+R 1702 1 0 bout 
+R 1704 1 0 it, 
+R 1707 4 0 son 
+- 1714
+R 1716 1 0 A 
+G 1719 5 0 slap 
+R 1727 2 0 is 
+R 1730 2 0 all 
+R 1735 2 0 you 
+R 1739 7 0 need 
+- 1781
+R 1880 1 0 We 
+R 1882 1 0 did 
+R 1884 1 0 it 
+R 1886 3 0 all 
+- 1893
+R 1895 2 0 We’ve 
+R 1899 1 0 seen 
+R 1902 1 0 it 
+R 1905 4 0 all 
+- 1911
+R 1913 1 0 And 
+R 1915 4 0 worse, 
+R 1921 3 0 much 
+R 1926 3 0 worse, 
+R 1931 5 0 son 
+- 1941
+R 1943 2 0 The 
+R 1948 1 0 mas
+R 1950 1 0 sa
+R 1952 2 0 cres 
+R 1955 1 0 of 
+R 1958 2 0 a
+R 1961 3 0 ges 
+- 1971
+R 1974 2 0 Too 
+R 1979 1 0 ma
+R 1981 1 0 ny 
+R 1983 1 0 to 
+R 1985 2 0 re
+R 1988 5 0 call 
+- 2028
+G 2207 3 0 Limbs 
+R 2215 1 0 ren
+R 2217 4 0 dered 
+R 2224 4 0 birds, 
+R 2232 1 0 by 
+R 2234 3 0 the 
+R 2239 4 0 speed 
+R 2245 2 0 they 
+R 2249 2 0 flew 
+R 2253 3 0 off 
+- 2262
+R 2264 1 0 A 
+R 2267 2 0 soup 
+R 2272 2 0 no
+R 2275 2 0 thing
+R 2278 4 0 ness 
+R 2284 2 0 that 
+R 2289 2 0 once 
+R 2294 2 0 was 
+R 2299 2 0 your 
+R 2304 3 0 best 
+R 2311 5 0 friend 
+- 2323
+R 2326 1 0 Mo
+R 2329 1 0 ther
+R 2332 2 0 less 
+R 2337 3 0 chil
+R 2343 3 0 dren 
+R 2350 3 0 and 
+R 2355 3 0 temp
+R 2360 3 0 tress 
+R 2365 1 0 wid
+R 2367 6 0 ows 
+- 2379
+R 2382 2 0 The 
+G 2386 6 0 wild, 
+R 2398 2 0 the 
+G 2402 3 0 use
+G 2407 4 0 less, 
+- 2413
+R 2415 1 0 The 
+G 2417 5 0 dead, 
+R 2434 1 0 the 
+G 2436 5 0 un
+G 2443 7 0 ta
+G 2451 2 0 me
+G 2454 6 0 able 
+- 2495
+R 2811 1 0 Sni
+R 2813 1 0 vel
+R 2815 2 0 ling 
+G 2818 3 0 fu
+G 2822 3 0 ~ck, 
+R 2827 3 0 don’t 
+R 2833 1 0 stain 
+R 2836 2 0 this 
+R 2841 3 0 street 
+- 2844
+R 2846 1 0 Luc
+R 2848 1 0 ky 
+R 2850 1 0 I 
+R 2852 3 0 don’t 
+R 2857 3 0 shoot 
+R 2861 1 0 on 
+R 2864 1 0 the 
+R 2866 3 0 spo
+R 2871 2 0 ~t 
+- 2882
+R 2886 2 0 Our 
+R 2890 1 0 bul
+R 2892 2 0 lets 
+R 2896 3 0 were 
+R 2900 3 0 made 
+R 2907 3 0 for 
+R 2913 3 0 men 
+R 2918 3 0 like 
+R 2924 5 0 you 
+- 2933
+R 2935 2 0 The 
+R 2938 1 0 im
+R 2941 1 0 po
+R 2944 2 0 tent 
+R 2947 1 0 id
+R 2950 1 0 i
+R 2952 3 0 ots 
+R 2958 3 0 God 
+R 2963 2 0 for
+R 2968 5 0 got 
+- 2983
+R 2994 2 0 To
+R 2997 2 0 night 
+R 3000 1 0 you 
+R 3002 2 0 de
+R 3006 2 0 cide 
+R 3012 3 0 which 
+R 3018 2 0 cor
+R 3022 2 0 ner 
+R 3025 3 0 takes 
+R 3030 1 0 res
+R 3032 1 0 i
+R 3034 3 0 dence 
+- 3040
+R 3042 2 0 Which 
+R 3046 2 0 room 
+R 3050 2 0 looms 
+R 3054 2 0 for
+R 3057 1 0 e
+R 3059 1 0 ver 
+R 3061 1 0 in 
+R 3063 2 0 your 
+R 3066 3 0 mind 
+- 3075
+R 3077 2 0 But 
+R 3081 1 0 now 
+R 3084 1 0 you’re 
+R 3086 1 0 on 
+R 3088 1 0 your 
+R 3090 3 0 own 
+- 3100
+R 3103 2 0 We 
+R 3106 3 0 don’t 
+R 3111 5 0 need 
+R 3119 3 0 men 
+R 3124 3 0 like 
+R 3128 4 0 you 
+- 3167
+: 3502 7 -1 Da 
+: 3512 8 5 da 
+* 3523 19 4 da 
+- 3577
+R 3802 1 0 To
+R 3804 2 0 night 
+R 3808 1 0 you 
+R 3810 1 0 de
+R 3813 6 0 cide 
+R 3825 3 0 which 
+R 3830 3 0 cor
+R 3835 2 0 ner 
+R 3841 2 0 takes 
+R 3845 1 0 res
+R 3847 1 0 i
+R 3849 3 0 dence 
+- 3858
+R 3861 2 0 Which 
+R 3866 3 0 room 
+R 3871 3 0 looms 
+R 3877 1 0 for
+R 3881 1 0 e
+R 3883 1 0 ver 
+R 3885 1 0 in 
+R 3887 2 0 your 
+R 3891 8 0 mind 
+- 3909
+R 3927 2 0 But 
+R 3930 2 0 now 
+R 3934 2 0 you’re 
+R 3938 2 0 on 
+R 3942 2 0 your 
+R 3945 4 0 own, 
+R 3957 1 0 we 
+R 3959 3 0 don’t 
+R 3965 3 0 need 
+R 3969 2 0 men 
+R 3973 2 0 like 
+R 3977 3 0 you 
+- 3984
+R 3986 2 0 Pri
+R 3989 3 0 vate 
+R 4000 2 0 Tris
+R 4004 4 0 tan 
+R 4010 3 0 Bon
+R 4015 3 0 go, 
+G 4034 6 0 here
+G 4043 5 0 by 
+G 4051 5 0 dis
+G 4062 11 0 charged! 
+E

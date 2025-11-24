@@ -1,0 +1,197 @@
+#ARTIST:The Beatles
+#TITLE:For You Blue
+#MP3:The Beatles - For You Blue.mp3
+#CREATOR:choosie
+#YEAR:1969
+#LANGUAGE:English
+#BPM:257.28
+#GAP:9990
+#VIDEO:v=r3XHnO46Ai0,co=https://www.beatlesbible.com/wp/media/usa-for-you-blue.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 1 5 Be
+: 3 2 6 cause 
+: 8 4 9 you’re 
+: 16 4 14 sweet 
+: 24 4 12 and 
+: 32 2 11 lo
+: 37 2 7 vely, 
+: 41 2 7 girl 
+- 45
+* 63 1 4 I 
+* 66 2 5 love 
+* 71 8 14 you 
+- 81
+: 127 1 10 Be
+: 130 2 11 cause 
+: 136 4 14 you’re 
+: 144 4 19 sweet 
+: 151 4 18 and 
+: 158 2 17 lo
+: 163 2 14 vely, 
+: 167 4 11 girl 
+- 173
+: 183 4 7 It’s 
+: 191 4 6 true 
+- 197
+: 256 1 0 I 
+: 259 2 1 love 
+: 264 4 4 you 
+: 272 1 7 more
+: 275 2 9 ~ 
+: 280 4 8 than 
+: 288 2 7 e
+: 293 3 5 ver, 
+: 299 2 2 girl
+: 303 3 0 ~, 
+: 310 2 2 I 
+: 314 3 6 do
+: 320 4 2 ~ 
+- 326
+: 384 1 5 I 
+: 387 2 6 want 
+: 392 4 9 you 
+* 400 4 14 in 
+* 408 4 12 the 
+* 416 3 11 mor
+* 422 3 7 ning, 
+: 428 4 7 girl 
+- 434
+: 448 1 4 I 
+: 451 2 5 love 
+: 456 8 14 you 
+- 466
+: 512 1 10 I 
+: 515 2 11 want 
+: 520 4 14 you 
+: 528 4 19 at 
+: 536 4 18 the 
+: 543 4 17 mo
+: 550 4 14 ment 
+: 557 2 11 I
+: 561 2 9 ~ 
+: 568 4 7 feel 
+: 576 4 6 blue 
+- 582
+: 640 1 0 I’m 
+: 643 2 1 li
+: 648 4 4 ving 
+* 656 1 7 ev
+* 659 3 9 ~
+* 665 4 8 ery 
+* 672 4 7 mo
+* 679 3 5 ment, 
+: 685 2 2 girl
+: 689 2 0 ~, 
+: 696 2 2 for 
+: 700 2 6 you
+: 705 4 2 ~ 
+- 711
+F 867 4 0 Walk 
+- 873
+F 931 4 0 Walk, 
+F 939 4 0 cat, 
+F 947 4 0 walk 
+- 953
+F 980 4 0 Go, 
+F 990 2 0 John
+F 993 4 0 ny, 
+F 1002 4 0 go 
+- 1008
+F 1096 2 0 Same 
+F 1100 2 0 old 
+F 1104 2 0 the 
+F 1108 2 0 twelve 
+F 1112 4 0 bar 
+F 1120 4 0 blues 
+- 1126
+F 1352 2 0 El
+F 1356 2 0 more 
+F 1361 4 0 James 
+F 1367 2 0 got 
+F 1372 1 0 no
+F 1374 2 0 thing 
+F 1377 1 0 on 
+F 1379 3 0 this, 
+F 1385 2 0 ba
+F 1389 2 0 by 
+- 1393
+: 1536 1 5 I’ve 
+: 1539 2 6 loved 
+: 1544 4 9 you 
+: 1552 4 14 from 
+: 1560 4 12 the 
+: 1568 4 11 mo
+: 1575 4 7 ment 
+- 1581
+* 1599 2 4 I 
+* 1603 2 5 saw 
+* 1608 9 14 you 
+- 1619
+: 1664 1 10 You 
+: 1667 2 11 looked 
+: 1672 4 14 at 
+: 1680 4 19 me, 
+: 1688 4 18 that’s 
+: 1696 4 17 all 
+: 1704 4 14 you 
+: 1712 2 11 had
+: 1716 2 9 ~ 
+: 1721 4 7 to 
+: 1729 3 6 do 
+- 1734
+: 1792 1 0 I 
+: 1795 2 1 feel 
+: 1800 4 4 it 
+: 1808 4 9 now, 
+: 1816 4 8 I 
+: 1824 4 7 hope 
+: 1832 3 5 you 
+: 1839 3 2 feel 
+: 1845 3 2 it 
+: 1851 2 6 too
+: 1855 2 2 ~ 
+- 1859
+: 1919 1 5 Be
+: 1922 2 6 cause 
+: 1927 4 9 you’re 
+* 1935 4 14 sweet 
+* 1943 4 12 and 
+* 1951 2 11 lo
+* 1955 2 7 vely, 
+* 1959 3 7 girl 
+- 1964
+: 1983 1 4 I 
+: 1986 2 5 love 
+: 1991 8 14 you 
+- 2001
+: 2047 1 10 Be
+: 2050 2 11 cause 
+: 2056 4 14 you’re 
+: 2064 4 19 sweet 
+: 2071 4 18 and 
+: 2079 2 17 lo
+: 2084 3 14 vely, 
+: 2090 2 11 girl
+: 2094 2 9 ~ 
+- 2098
+: 2104 4 7 It’s 
+: 2112 4 6 true 
+- 2118
+: 2176 1 0 I 
+: 2179 2 1 love 
+: 2184 4 4 you 
+: 2192 1 7 more
+: 2195 2 9 ~ 
+: 2200 4 8 than 
+: 2208 2 7 e
+: 2212 4 5 ver, 
+: 2220 2 2 girl
+: 2224 2 0 ~, 
+* 2230 2 2 I 
+* 2234 3 6 do
+* 2240 3 2 ~ 
+- 2245
+F 2276 2 0 Rhy
+F 2280 2 0 thm 
+F 2284 2 0 and 
+F 2289 6 0 blues. 
+E

@@ -1,0 +1,555 @@
+#ARTIST:The Blues Brothers
+#TITLE:Everybody Needs Somebody To Love
+#MP3:The Blues Brothers - Everybody Needs Somebody To Love.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Soul, Soundtrack
+#YEAR:1980
+#LANGUAGE:English
+#BPM:372
+#GAP:13760
+#VIDEO:v=tUgavzoYKZI,co=https://media.hitparade.ch/cover/big/the_blues_brothers-everybody_needs_somebody_to_love_s_2.jpg,bg=blues-brothers-514ee8aa34581.jpg
+F 0 5 4 We’re 
+F 6 5 4 so 
+F 12 3 4 glad 
+F 16 3 4 to 
+F 20 2 4 see 
+- 24
+F 26 4 4 So 
+F 31 2 4 ma
+F 34 2 4 ny 
+F 37 2 4 of 
+F 40 2 4 you 
+F 44 2 4 love
+F 47 3 4 ly 
+F 51 1 4 peo
+F 53 2 4 ple 
+F 56 3 4 here 
+F 60 3 4 to
+F 64 4 4 night 
+- 70
+F 76 2 4 And 
+F 80 2 4 we 
+F 84 2 4 would 
+F 88 1 4 e
+F 90 3 4 spe
+F 94 1 4 cial
+F 96 1 4 ly 
+- 99
+F 100 2 4 Like 
+F 104 2 4 to 
+F 108 2 4 wel
+F 111 2 4 come 
+F 114 4 4 all 
+F 120 2 4 the 
+F 124 1 4 re
+F 126 2 4 pre
+F 129 2 4 sen
+F 132 2 4 ta
+F 135 1 4 tives 
+- 138
+F 140 2 4 Of 
+F 144 1 4 Il
+F 146 1 4 li
+F 148 3 4 nois’ 
+F 152 6 4 Law 
+F 160 2 4 En
+F 163 2 4 force
+F 166 4 4 ment 
+F 172 2 4 Com
+F 175 2 4 mu
+F 178 1 4 ni
+F 180 4 4 ty 
+- 186
+F 188 2 4 Who 
+F 192 2 4 have 
+F 195 3 4 cho
+F 199 3 4 sen 
+F 204 2 4 to 
+F 208 2 4 join 
+F 212 1 4 us 
+- 215
+F 216 2 4 Here 
+F 220 2 4 in the 
+F 224 3 4 Pa
+F 228 4 4 lace 
+F 234 2 4 Ho
+F 237 3 4 tel 
+F 242 3 4 Ball
+F 246 2 4 room 
+- 250
+F 252 2 4 At 
+F 256 2 4 this 
+F 260 8 4 time 
+- 270
+F 274 2 4 We 
+F 277 3 4 do 
+F 281 4 4 sin
+F 286 2 4 cere
+F 289 3 4 ly 
+F 293 1 4 hope 
+- 295
+F 296 2 4 You’ll 
+F 300 2 4 all 
+F 304 3 4 en
+F 308 4 4 joy 
+F 314 2 4 the 
+F 318 6 4 show, 
+- 326
+F 332 2 4 And 
+F 336 6 4 please 
+F 344 3 4 re
+F 348 3 4 mem
+F 352 3 4 ber 
+F 356 3 4 peo
+F 360 4 4 ple 
+- 366
+F 368 3 4 That 
+F 372 3 4 no 
+F 376 2 4 mat
+F 379 3 4 ter 
+F 383 4 4 who 
+F 388 3 4 you 
+F 392 4 4 are, 
+- 398
+F 400 2 4 And 
+F 404 2 4 what 
+F 408 2 4 you 
+F 412 2 4 do 
+F 416 2 4 to 
+F 420 8 4 live, 
+- 430
+F 434 4 4 Thrive 
+F 440 2 4 and 
+F 444 4 4 sur
+F 449 11 4 vive 
+- 462
+F 464 3 4 There 
+F 468 3 4 are 
+F 473 6 4 still 
+F 480 3 4 some 
+F 484 4 4 things 
+- 490
+F 492 2 4 That 
+F 496 6 4 make 
+F 504 2 4 us 
+F 508 10 4 all 
+F 520 2 4 the 
+F 524 12 4 same. 
+- 538
+F 544 16 4 You, 
+F 571 13 4 me, 
+F 598 16 4 them, 
+F 624 4 4 eve
+F 629 5 4 ry
+F 635 2 4 bo
+F 638 8 4 dy, 
+F 654 4 4 eve
+F 659 4 4 ry
+F 664 3 4 bo
+F 668 4 4 dy 
+- 674
+* 676 14 3 Eve
+: 691 5 0 ry
+: 698 13 2 bo
+: 712 12 0 dy 
+: 736 14 3 needs 
+: 752 7 0 some
+: 760 11 0 bo
+: 773 7 -2 dy 
+- 782
+: 800 12 4 Eve
+: 814 6 7 ry
+: 824 4 3 bo
+: 829 5 2 ~
+: 835 4 0 dy
+: 840 8 2 ~ 
+: 863 10 3 needs 
+: 874 9 0 some
+: 884 15 0 bo
+: 901 5 -2 dy 
+: 908 3 0 to 
+: 912 3 3 love
+: 916 7 4 ~ 
+- 925
+: 962 4 0 Some
+: 967 3 0 one 
+: 971 3 0 to 
+: 975 3 0 love
+: 979 5 -2 ~ 
+- 986
+: 992 3 -2 (Some
+: 996 3 0 one 
+: 1000 4 0 to 
+: 1005 4 0 love
+: 1010 10 -2 ~) 
+- 1022
+: 1024 3 -2 Sweet
+: 1028 3 -1 heart 
+: 1032 2 0 to 
+: 1038 7 3 miss 
+- 1047
+: 1053 3 -2 (Sweet 
+: 1057 3 0 heart 
+: 1062 2 0 to 
+: 1066 14 3 miss) 
+- 1082
+: 1085 3 0 Sug
+: 1089 2 0 ar 
+: 1093 2 0 to 
+* 1097 3 0 kiss
+* 1101 4 -2 ~ 
+- 1107
+: 1113 4 -2 (Su
+: 1118 2 0 gar 
+: 1122 2 0 to 
+: 1127 3 0 kiss
+: 1131 9 -2 ~) 
+- 1142
+: 1144 4 -2 I 
+: 1150 8 0 need 
+: 1162 8 3 you 
+: 1177 8 2 you 
+: 1190 8 0 you 
+- 1200
+: 1208 3 0 I 
+: 1212 6 0 need 
+* 1224 8 3 you 
+: 1238 8 2 you 
+: 1252 12 0 you 
+- 1266
+: 1270 2 0 I 
+: 1274 10 0 need 
+: 1286 10 3 you 
+: 1300 8 2 you 
+: 1316 1 0 you 
+- 1319
+: 1320 3 5 In 
+: 1324 3 6 the 
+* 1328 8 7 mor
+* 1338 12 7 ning 
+- 1352
+: 1382 3 7 When 
+: 1386 4 7 my 
+: 1392 9 7 soul’s 
+: 1402 6 7 on 
+: 1410 18 7 fire 
+- 1430
+: 1479 7 3 Some
+: 1487 6 4 times 
+: 1495 6 4 I 
+* 1503 16 4 feel
+* 1520 4 2 ~ 
+- 1526
+: 1547 3 -3 I 
+: 1551 3 2 feel 
+: 1555 2 0 a 
+: 1558 3 2 lit
+: 1562 2 0 tle 
+: 1566 5 2 sad 
+: 1572 4 0 in
+: 1578 11 3 side
+: 1590 3 -3 ~ 
+- 1595
+: 1605 4 4 When 
+: 1610 2 2 my 
+: 1613 3 4 ba
+: 1617 2 2 by 
+: 1621 3 2 mis
+: 1625 9 4 treats 
+: 1637 9 4 me 
+- 1648
+: 1657 3 -3 I 
+* 1661 3 7 ne
+: 1665 3 7 ver 
+* 1669 3 7 ne
+: 1673 2 7 ver 
+* 1676 3 7 ne
+: 1680 2 7 ver 
+: 1684 3 7 have 
+: 1688 3 7 a 
+: 1692 5 7 place 
+: 1700 2 7 to 
+: 1703 4 7 hide 
+- 1709
+: 1711 3 7 I 
+: 1715 4 7 need 
+: 1720 14 7 you 
+- 1736
+: 2223 7 4 Some
+: 2231 6 4 times 
+: 2238 6 3 I 
+: 2247 18 4 feel
+: 2266 6 2 ~ 
+- 2274
+: 2290 2 0 I 
+: 2293 4 2 feel 
+: 2298 2 0 a 
+: 2301 3 2 lit
+: 2305 2 0 tle 
+: 2309 3 2 sad 
+: 2313 3 0 in
+: 2321 8 3 side
+: 2330 4 -3 ~ 
+- 2336
+: 2348 3 4 When 
+: 2352 2 3 my 
+: 2356 2 4 ba
+: 2359 2 3 by 
+: 2363 3 4 mis
+: 2368 9 4 treats 
+: 2378 16 4 me 
+- 2396
+: 2400 3 -3 I 
+: 2404 2 7 ne
+: 2407 3 6 ver 
+: 2411 3 7 ne
+: 2415 2 6 ver 
+: 2419 3 7 ne
+: 2423 3 6 ver 
+: 2427 2 7 have 
+: 2431 2 6 a 
+: 2434 8 7 place 
+: 2443 2 4 to 
+: 2446 2 7 hide 
+- 2450
+: 2452 3 7 I 
+: 2456 5 7 need 
+: 2462 3 7 you
+: 2466 6 6 ~ 
+: 2479 5 7 you
+: 2485 3 6 ~ 
+: 2492 6 7 you
+: 2499 5 5 ~ 
+- 2506
+: 2511 3 7 I 
+: 2515 6 7 need 
+* 2526 12 7 you 
+: 2542 8 7 you 
+: 2554 14 7 you 
+- 2570
+: 2572 4 7 I 
+: 2578 9 7 need 
+: 2588 10 7 you 
+: 2603 10 7 you 
+: 2616 14 7 you 
+- 2632
+: 2634 3 7 I 
+: 2638 10 7 need 
+: 2650 8 7 you 
+: 2666 10 7 you 
+: 2682 10 7 you 
+- 2694
+: 2696 3 7 I 
+: 2702 9 7 need 
+* 2712 8 7 you 
+- 2722
+F 2728 3 4 You 
+F 2732 3 4 know 
+F 2736 1 4 peo
+F 2738 2 4 ple 
+F 2741 2 4 when 
+F 2744 2 4 you 
+F 2748 2 4 do 
+F 2751 4 4 find 
+F 2758 3 4 some
+F 2762 1 4 bo
+F 2764 1 4 dy 
+- 2767
+F 2768 3 4 Hold 
+F 2773 2 4 that 
+F 2777 1 4 wo
+F 2779 1 4 man, 
+- 2781
+F 2782 2 4 Hold 
+F 2786 2 4 that 
+F 2790 2 4 man 
+- 2794
+F 2796 4 4 Love 
+F 2801 4 4 him, 
+F 2806 3 4 please 
+F 2810 1 4 him, 
+- 2813
+F 2814 7 4 Squeeze 
+F 2822 3 4 her, 
+F 2826 3 4 please 
+F 2830 4 4 her, 
+- 2836
+F 2838 6 4 Hold, 
+F 2846 7 4 squeeze 
+F 2854 3 4 and 
+F 2858 3 4 please 
+F 2862 3 4 that 
+F 2866 1 4 per
+F 2868 1 4 son 
+- 2871
+F 2872 2 4 Giv
+F 2875 2 4 ’em 
+F 2878 4 4 all 
+F 2883 2 4 your 
+F 2886 4 4 love 
+- 2892
+F 2898 3 4 Sig
+F 2902 3 4 ni
+F 2906 4 4 fy 
+F 2912 3 4 your 
+F 2916 2 4 fee
+F 2919 3 4 lings 
+F 2923 1 4 with 
+- 2925
+F 2926 1 4 Eve
+F 2928 3 4 ry 
+F 2932 3 4 gen
+F 2936 3 4 tle 
+F 2940 2 4 ca
+F 2943 6 4 ress 
+F 2954 4 4 because 
+F 2959 4 4 it’s 
+F 2964 4 4 so 
+F 2969 2 4 important 
+- 2973
+F 2975 2 4 To 
+F 2978 3 4 have 
+F 2982 3 4 that 
+F 2986 3 4 spe
+F 2990 3 4 cial 
+F 2994 3 4 some
+F 2998 3 4 bo
+F 3002 4 4 dy 
+F 3008 4 4 to 
+F 3014 6 4 hold, 
+- 3022
+F 3024 6 4 Kiss, 
+F 3036 6 4 miss, 
+F 3048 9 4 squeeze 
+F 3058 3 4 and 
+F 3062 17 4 please 
+- 3081
+* 3083 8 19 Eve
+: 3097 8 19 ry
+: 3107 12 19 bo
+: 3120 8 19 dy 
+: 3144 11 19 needs 
+: 3158 8 19 some
+: 3168 11 19 bo
+: 3180 8 19 dy 
+- 3190
+: 3206 12 19 Eve
+: 3220 6 19 ry
+: 3228 7 19 bo
+: 3236 5 18 ~
+: 3242 19 19 dy 
+: 3267 11 19 needs 
+: 3279 8 19 some
+: 3288 7 19 bo
+: 3296 7 18 ~
+: 3304 8 19 dy 
+: 3313 2 19 to 
+: 3316 24 19 love 
+- 3342
+: 3366 4 19 Some
+: 3372 3 19 one 
+: 3376 2 19 to 
+: 3379 14 19 love 
+- 3395
+: 3427 4 19 Sweet
+: 3432 3 19 heart 
+: 3436 3 19 to 
+: 3441 12 19 miss 
+- 3455
+: 3488 3 18 Su
+: 3492 3 19 gar 
+: 3497 3 19 to 
+* 3501 14 19 kiss 
+- 3517
+: 3550 4 -1 I 
+: 3555 6 0 need 
+: 3566 12 3 you 
+: 3581 10 2 you 
+: 3594 12 0 you 
+- 3608
+: 3611 3 -1 I 
+: 3616 6 0 need 
+* 3627 8 3 you 
+: 3643 8 2 you 
+: 3655 12 0 you 
+- 3669
+: 3673 4 -2 I 
+: 3679 6 0 need 
+: 3689 11 3 you 
+: 3704 8 2 you 
+: 3718 8 0 you 
+- 3728
+: 3735 4 -1 I 
+: 3741 4 0 need 
+* 3750 8 3 you 
+: 3764 8 2 you 
+: 3780 11 -2 you 
+- 3793
+: 3795 3 6 I 
+: 3799 9 7 need 
+: 3812 8 7 you 
+: 3825 11 7 you 
+: 3840 12 7 you 
+- 3854
+: 3859 2 7 I 
+: 3862 6 7 need 
+: 3874 12 7 you 
+: 3888 12 7 you 
+: 3905 11 7 you 
+- 3918
+: 3920 3 7 I 
+: 3925 5 7 need 
+: 3935 12 7 you 
+: 3950 12 7 you 
+: 3965 12 7 you 
+- 3979
+: 3981 4 7 I 
+: 3986 6 7 need 
+: 3996 10 7 you 
+: 4011 10 7 you 
+: 4024 6 7 you 
+- 4032
+: 4034 2 7 In 
+: 4038 2 7 the 
+* 4042 7 7 mor
+* 4050 12 7 ning 
+- 4064
+: 4093 2 7 When 
+: 4096 2 7 my 
+: 4102 10 7 soul’s 
+: 4113 4 7 on 
+: 4119 27 7 fire 
+- 4148
+: 4171 3 7 When 
+: 4175 6 7 I 
+: 4183 6 7 need 
+: 4190 6 7 no 
+: 4197 6 7 one 
+: 4204 3 6 a
+: 4208 16 7 round 
+- 4226
+: 4228 3 7 I 
+: 4232 7 7 need 
+: 4243 8 7 you 
+: 4254 8 7 you 
+: 4266 8 7 you 
+: 4277 7 7 you 
+- 4286
+: 4289 2 7 I 
+: 4293 7 7 need 
+: 4303 10 7 you 
+: 4315 10 7 you 
+: 4327 8 7 you 
+: 4339 8 7 you 
+- 4349
+: 4351 2 7 I 
+: 4355 7 7 need 
+: 4365 10 7 you 
+: 4378 8 7 you 
+: 4389 12 7 you 
+- 4403
+: 4412 5 7 I 
+: 4418 6 7 need 
+: 4428 16 7 you 
+E

@@ -1,0 +1,172 @@
+#ARTIST:Vince Guaraldi Trio
+#TITLE:Christmas Time Is Here
+#MP3:Vince Guaraldi Trio - Christmas Time Is Here.mp3
+#CREATOR:stobb3s
+#GENRE:Christmas
+#YEAR:1965
+#LANGUAGE:English
+#BPM:400
+#GAP:10670
+#VIDEO:v=SvK3jEXJFdg,co=a-charlie-brown-christmas-5221eb23d959b.jpg,bg=guaraldi-vince-trio-5382f7f59e80b.jpg,tags=Christmas
+: 0 9 4 Christ
+: 12 5 0 mas 
+: 21 28 0 time 
+: 54 4 -5 is 
+: 63 48 -3 here 
+- 113
+: 125 10 4 Happ
+: 138 4 0 i
+: 147 28 0 ness 
+: 179 4 -5 and 
+: 187 39 -3 cheer 
+- 228
+: 247 9 -3 Fun 
+: 260 3 -5 for 
+: 268 26 -5 all 
+: 300 4 -8 that 
+: 309 11 -5 chil
+: 324 3 -8 dren 
+: 332 28 -8 call 
+- 362
+: 364 5 3 Their 
+: 372 11 2 fav
+: 387 4 5 orite 
+: 394 12 2 time 
+* 413 13 5 of 
+* 434 30 7 year 
+- 466
+: 498 9 4 Snow
+: 510 5 0 flakes 
+: 519 28 0 in 
+: 552 4 -5 the 
+: 561 48 -3 air 
+- 611
+: 623 10 4 Ca
+: 636 4 0 rols 
+: 645 28 0 ev
+: 678 4 -5 ery
+: 687 37 -3 where 
+- 726
+: 750 9 -3 Ol
+: 763 3 -5 den 
+: 771 26 -5 times 
+: 803 4 -8 and 
+: 812 11 -5 an
+: 827 3 -8 cient 
+: 835 28 -8 rhymes 
+- 865
+: 870 5 3 Of 
+: 878 11 2 love 
+: 893 4 5 and 
+: 900 12 2 dreams 
+* 919 13 5 to 
+* 940 30 7 share 
+- 972
+: 1002 9 0 Sleigh 
+: 1017 4 -4 bells 
+: 1025 26 -4 in 
+: 1057 3 0 the 
+: 1065 31 0 air 
+- 1098
+: 1126 9 0 Beau
+: 1141 4 -4 ty 
+: 1149 26 -4 ev
+: 1181 3 0 ery
+: 1189 31 0 where 
+- 1222
+: 1252 9 0 Yule
+: 1265 4 -3 tide 
+: 1273 26 -3 by 
+: 1305 4 0 the 
+: 1314 11 0 fi
+: 1329 3 -3 re
+: 1337 24 -3 side 
+- 1363
+: 1370 4 -2 And 
+: 1379 10 -2 joy
+: 1394 3 -5 ful 
+: 1402 13 -5 mem
+* 1422 17 -3 ories 
+* 1442 25 -3 there 
+- 1469
+: 1505 9 4 Christ
+: 1517 5 0 mas 
+: 1526 28 0 time 
+: 1559 4 -5 is 
+: 1568 48 -3 here 
+- 1618
+: 1633 10 4 Fam
+: 1646 4 0 ilies 
+: 1655 28 0 draw
+: 1687 4 -5 ing 
+: 1696 38 -3 near 
+- 1736
+: 1758 12 9 Oh, 
+: 1774 3 7 that 
+: 1782 29 7 we 
+: 1816 3 4 could 
+: 1825 11 7 al
+: 1840 3 4 ways 
+: 1847 26 4 see 
+- 1875
+: 1882 5 3 Such 
+: 1890 11 2 spi
+: 1905 4 5 rit 
+: 1912 12 2 through 
+* 1932 13 5 the 
+* 1953 30 7 year 
+- 1985
+: 3033 9 0 Sleigh 
+: 3048 4 -4 bells 
+: 3056 26 -4 in 
+: 3088 3 0 the 
+: 3096 31 0 air 
+- 3129
+: 3157 9 0 Beau
+: 3172 4 -4 ty 
+: 3180 26 -4 ev
+: 3213 3 0 ery
+: 3221 31 0 where 
+- 3254
+: 3286 9 0 Yule
+: 3299 4 -3 tide 
+: 3307 26 -3 by 
+: 3339 4 0 the 
+: 3348 11 0 fi
+: 3363 3 -3 re
+: 3371 24 -3 side 
+- 3397
+: 3403 4 -2 And 
+: 3412 10 -2 joy
+: 3427 3 -5 ful 
+: 3435 13 -5 mem
+: 3455 17 -3 ories 
+: 3475 25 -3 there 
+- 3502
+: 3538 9 4 Christ
+: 3550 5 0 mas 
+: 3559 28 0 time 
+: 3592 4 -5 is 
+: 3601 48 -3 here 
+- 3651
+: 3664 10 4 Fam
+: 3677 4 0 ilies 
+: 3686 28 0 draw
+: 3720 4 -5 ing 
+: 3729 38 -3 near 
+- 3769
+: 3792 12 9 Oh, 
+: 3808 3 7 that 
+: 3816 29 7 we 
+: 3850 3 4 could 
+: 3858 11 7 al
+: 3873 4 4 ways 
+: 3881 26 4 see 
+- 3909
+: 3914 6 3 Such 
+: 3923 11 2 spi
+: 3938 4 5 rit 
+: 3945 12 2 through 
+* 3966 12 5 the 
+* 3991 78 7 year 
+E

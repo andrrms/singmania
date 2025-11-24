@@ -1,0 +1,292 @@
+#ARTIST:Les Misérables (Original Broadway Cast)
+#TITLE:I Dreamed A Dream
+#MP3:Les Misérables (Original Broadway Cast) - I Dreamed A Dream.mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:1987
+#LANGUAGE:English
+#BPM:240
+#GAP:16400
+#VIDEO:a=5fiWR5iyFf0,co=https://www.bestoftheatre.co.uk/assets/images/content/shows/square-poster/original/les-miserables-10.jpg
+: 0 5 3 There 
+: 6 1 3 was 
+: 8 2 3 a 
+: 13 7 3 time 
+: 22 3 3 when 
+: 26 6 3 men 
+: 34 3 3 were 
+: 39 10 3 kind 
+- 51
+: 63 2 3 When 
+: 67 3 3 their 
+: 72 3 3 voi
+: 77 3 3 ces 
+: 82 4 3 were 
+: 91 10 3 soft 
+- 103
+: 121 3 3 And 
+: 125 3 3 their 
+: 129 9 3 words 
+: 140 5 3 in
+: 146 4 3 vi
+: 153 13 3 ting 
+- 168
+: 175 2 3 There 
+: 178 1 3 was 
+: 180 1 3 a 
+: 182 8 3 time 
+: 192 3 3 when 
+: 197 7 3 love 
+: 206 4 3 was 
+: 213 13 3 blind 
+- 228
+: 233 2 3 And 
+: 236 2 3 the 
+: 239 5 3 world 
+: 248 3 3 was 
+: 252 1 3 a 
+: 260 16 3 song 
+- 278
+: 288 2 3 And 
+: 291 2 3 the 
+: 296 9 3 song 
+: 307 2 3 was 
+: 310 2 3 ex
+: 316 7 3 ci
+: 326 12 3 ting 
+- 340
+: 346 3 3 There 
+: 350 1 3 was 
+: 352 1 3 a 
+: 356 21 3 time 
+: 380 2 3 when 
+: 383 2 3 it 
+* 388 13 7 all 
+: 403 4 3 went 
+: 419 39 3 wrong 
+- 460
+: 673 5 3 I 
+: 680 6 3 dreamed 
+: 690 3 3 a 
+: 696 6 3 dream 
+: 706 2 2 in 
+: 711 7 3 time 
+: 721 4 5 gone 
+: 728 40 7 by 
+- 770
+: 787 4 3 When 
+: 793 5 3 hope 
+: 801 5 3 was 
+: 808 6 3 high 
+: 817 4 3 and 
+: 823 7 5 life 
+: 833 7 7 worth 
+: 842 4 0 li
+: 850 25 3 ving 
+- 877
+: 903 4 7 I 
+: 909 6 7 dreamed 
+: 918 2 7 that 
+: 922 5 7 love 
+: 933 6 5 would 
+: 941 2 7 ne
+: 944 4 8 ver 
+: 951 43 10 die 
+- 996
+: 1012 4 7 I 
+: 1018 7 7 dreamed 
+: 1026 4 7 that 
+: 1031 7 7 God 
+: 1042 5 7 would 
+: 1049 3 8 be 
+: 1054 6 10 for
+: 1061 4 0 gi
+: 1067 24 3 ving 
+- 1093
+: 1126 5 3 Then 
+: 1132 3 3 I 
+: 1136 3 3 was 
+: 1144 6 3 young 
+: 1156 4 2 and 
+: 1163 2 3 un
+: 1166 4 5 a
+: 1174 45 7 fraid 
+- 1221
+: 1235 5 3 And 
+: 1241 7 3 dreams 
+: 1251 2 3 were 
+: 1255 8 3 made 
+: 1265 4 3 and 
+: 1271 12 5 used 
+: 1287 4 7 and 
+: 1292 6 0 was
+: 1303 32 3 ted 
+- 1337
+: 1349 4 7 There 
+: 1355 4 7 was 
+: 1360 4 7 no 
+: 1365 7 7 ran
+: 1374 7 5 som 
+: 1386 4 7 to 
+: 1391 4 8 be 
+: 1401 48 10 paid 
+- 1451
+: 1458 4 7 No 
+: 1464 5 7 song 
+: 1470 3 7 un
+: 1478 5 7 sung, 
+: 1488 5 7 no 
+: 1494 10 8 wine 
+: 1509 6 10 un
+: 1517 5 0 tas
+: 1528 29 3 ted 
+- 1559
+: 1575 7 4 But 
+: 1584 3 5 the 
+: 1589 7 7 ti
+: 1599 10 4 gers 
+: 1614 3 0 come 
+: 1620 3 -2 at 
+: 1631 36 -4 night 
+- 1669
+: 1681 6 4 With 
+: 1689 5 5 their 
+: 1696 6 7 voi
+: 1704 3 4 ces 
+: 1711 8 0 soft 
+: 1721 3 -2 as 
+: 1731 15 -3 thun
+: 1750 29 5 der 
+- 1781
+: 1789 4 2 As 
+: 1796 4 3 they 
+: 1805 12 5 tear 
+: 1820 3 2 your 
+: 1825 5 -2 hope 
+: 1831 4 -4 a
+* 1838 43 -6 part 
+- 1883
+: 1899 4 2 As 
+: 1905 6 3 they 
+: 1913 8 5 turn 
+: 1923 3 3 your 
+: 1928 10 2 dream 
+: 1943 3 5 to 
+: 1953 16 3 sha
+: 1971 22 5 ~
+: 1995 22 7 ~
+: 2020 19 8 ~
+: 2043 27 10 me 
+- 2072
+: 2092 4 3 He 
+: 2098 5 3 slept 
+: 2105 2 3 a 
+: 2110 4 3 sum
+: 2117 6 2 mer 
+: 2126 6 3 by 
+: 2136 5 5 my 
+: 2145 43 7 side 
+- 2190
+: 2201 3 3 He 
+: 2206 8 3 filled 
+: 2216 4 3 my 
+: 2222 6 3 days 
+: 2232 2 3 with 
+: 2237 4 5 end
+: 2244 6 7 less 
+: 2256 8 0 won
+: 2268 29 3 der 
+- 2299
+: 2312 4 7 He 
+: 2317 3 7 took 
+: 2321 4 7 my 
+: 2327 7 7 child
+: 2337 3 5 hood 
+: 2346 3 7 in 
+: 2350 4 8 his 
+: 2359 45 10 stride 
+- 2406
+: 2417 3 7 But 
+: 2421 2 7 he 
+: 2424 2 7 was 
+: 2428 7 7 gone 
+: 2441 5 5 when 
+: 2448 9 5 au
+: 2459 3 3 tumn 
+: 2467 70 3 came 
+- 2539
+: 2571 5 5 And 
+: 2578 2 5 still 
+: 2581 4 5 I 
+: 2587 8 5 dream 
+: 2598 3 4 he’ll 
+: 2603 5 5 come 
+: 2611 2 7 to 
+: 2617 45 9 me 
+- 2664
+: 2675 4 5 That 
+: 2680 4 5 we 
+: 2686 4 5 will 
+: 2691 7 5 live 
+: 2699 4 5 the 
+: 2706 16 7 years 
+: 2727 7 9 to
+: 2739 3 2 ge
+: 2744 27 5 ther 
+- 2773
+: 2780 4 9 But 
+: 2785 2 9 there 
+: 2788 4 9 are 
+: 2794 7 9 dreams 
+: 2805 3 7 that 
+: 2809 3 9 can
+: 2813 3 10 not 
+: 2820 46 12 be 
+- 2868
+: 2882 3 9 And 
+: 2886 2 9 there 
+: 2889 2 9 are 
+: 2895 9 9 storms 
+: 2907 4 9 we 
+: 2913 4 10 can
+: 2919 10 12 not 
+: 2933 6 2 wea
+: 2942 37 5 ther 
+- 2981
+: 3039 6 9 I 
+: 3047 2 9 had 
+: 3050 2 9 a 
+: 3054 11 10 dream 
+: 3066 5 9 my 
+: 3074 5 7 life 
+: 3082 4 9 would 
+: 3089 44 5 be 
+- 3135
+: 3144 8 10 So 
+: 3154 2 9 diffe
+: 3157 4 10 rent 
+: 3164 2 10 from 
+: 3168 2 9 this 
+: 3174 4 7 hell 
+* 3183 4 12 I’m 
+* 3188 3 7 li
+* 3193 6 5 ving 
+- 3201
+: 3204 3 9 So 
+: 3208 2 9 diffe
+: 3211 1 9 rent 
+: 3214 7 9 now 
+: 3227 4 7 from 
+: 3232 3 9 what 
+: 3236 2 10 it 
+* 3242 54 12 seemed 
+- 3298
+: 3318 7 9 Now 
+: 3328 6 9 life 
+: 3337 6 9 has 
+: 3345 16 9 killed 
+: 3368 4 9 the 
+: 3374 26 7 dream 
+: 3426 13 5 I 
+: 3452 157 5 dreamed. 
+E

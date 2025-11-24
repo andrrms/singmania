@@ -1,0 +1,222 @@
+#ARTIST:The Punkles
+#TITLE:All My Loving
+#MP3:The Punkles - All My Loving.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2002
+#LANGUAGE:English
+#BPM:297.5
+#GAP:1060
+#VIDEO:a=hfCiHo-QGMc,co=https://m.media-amazon.com/images/I/61n3a7Scl+L.jpg,bg=https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Punkles_rockfabrik.jpg/1200px-Punkles_rockfabrik.jpg
+: 0 5 8 Close 
+: 6 3 7 your 
+: 11 8 5 eyes 
+: 22 3 7 and 
+: 26 2 8 I’ll 
+: 31 5 10 kiss 
+: 39 4 12 you, 
+- 45
+: 50 4 14 To
+: 55 8 15 mor
+: 65 4 15 row 
+: 72 4 14 I’ll 
+: 77 4 12 miss 
+: 83 3 7 you, 
+- 88
+: 93 5 12 Re
+: 99 5 12 mem
+: 107 5 12 ber 
+: 116 4 10 I’ll 
+: 121 5 8 al
+: 129 6 7 ways 
+: 138 3 3 be 
+: 143 12 5 true. 
+- 157
+: 178 3 8 And 
+: 183 3 7 then 
+: 188 8 5 while 
+: 199 3 7 I’m 
+: 204 2 8 a
+: 207 7 10 way, 
+- 216
+: 221 3 12 I’ll 
+: 226 4 14 write 
+: 231 10 15 home 
+: 242 4 15 ev’
+: 248 2 14 ry 
+: 251 4 12 day
+: 256 5 7 ~, 
+- 263
+: 266 2 12 And 
+: 269 3 12 I’ll 
+: 275 6 12 send 
+: 284 4 12 all 
+: 291 4 10 my 
+: 297 2 8 lo
+: 300 5 7 ving 
+: 312 4 5 to 
+: 318 10 3 you. 
+- 330
+: 353 3 8 I’ll 
+: 358 2 7 pre
+: 362 7 5 tend 
+: 373 3 7 that 
+: 377 3 8 I’m 
+: 382 4 10 kis
+: 388 5 12 sing, 
+- 395
+: 401 3 14 The 
+: 406 8 15 lips 
+: 416 3 15 I 
+: 423 3 14 am 
+: 428 4 12 mis
+: 433 5 7 sing, 
+- 440
+: 444 4 12 And 
+: 450 6 12 hope 
+: 459 4 12 that 
+: 466 5 10 my 
+: 472 7 8 dreams 
+: 481 4 7 will 
+: 488 5 3 come 
+: 494 10 5 true. 
+- 506
+: 528 4 8 And 
+: 533 3 7 then 
+: 538 8 5 while 
+: 549 3 7 I’m 
+: 554 2 8 a
+: 557 5 10 way, 
+- 564
+: 571 3 12 I’ll 
+: 576 4 14 write 
+: 581 10 15 home 
+: 592 3 15 ev’
+: 597 3 14 ry 
+: 601 4 12 day
+: 606 3 7 ~, 
+- 611
+: 615 2 12 And 
+: 618 3 12 I’ll 
+: 624 7 12 send 
+: 633 4 12 all 
+: 640 4 10 my 
+: 646 3 8 lo
+: 650 4 7 ving 
+: 662 4 5 to 
+: 668 10 3 you. 
+- 680
+: 703 4 15 All 
+: 708 3 14 my 
+: 712 3 12 lo
+: 716 7 7 ving, 
+: 733 3 7 I 
+: 738 4 5 will 
+: 743 5 3 send 
+: 749 3 5 to 
+* 754 2 7 you
+* 757 2 10 ~
+* 760 7 7 ~. 
+- 769
+: 787 4 15 All 
+: 792 3 14 my 
+: 797 3 12 lo
+: 801 8 7 ving, 
+: 818 4 7 dar
+: 823 4 5 ling 
+: 828 4 5 I’ll 
+: 833 3 3 be 
+: 838 10 3 true. 
+- 850
+: 1043 5 8 Close 
+: 1049 3 7 your 
+: 1054 8 5 eyes 
+: 1065 3 7 and 
+: 1069 3 8 I’ll 
+: 1073 6 10 kiss 
+: 1081 5 12 you, 
+- 1088
+: 1093 3 14 To
+: 1098 6 15 mor
+: 1107 4 15 row 
+: 1114 4 14 I’ll 
+: 1119 4 12 miss 
+: 1125 5 7 you, 
+- 1132
+: 1137 4 12 Re
+: 1143 5 12 mem
+: 1151 5 12 ber 
+: 1159 4 10 I’ll 
+: 1165 4 8 al
+: 1173 7 7 ways 
+: 1182 3 3 be 
+: 1186 9 5 true. 
+- 1197
+: 1221 3 8 And 
+: 1226 3 7 then 
+: 1231 8 5 while 
+: 1242 3 7 I’m 
+: 1248 2 8 a
+: 1251 5 10 way, 
+- 1258
+: 1264 3 12 I’ll 
+: 1269 3 14 write 
+: 1274 8 15 home 
+: 1285 3 15 ev’
+: 1290 2 14 ry 
+: 1293 4 12 day
+: 1299 4 7 ~, 
+- 1305
+: 1309 2 12 And 
+: 1312 3 12 I’ll 
+: 1318 7 12 send 
+: 1328 4 12 all 
+: 1335 4 10 my 
+: 1341 2 8 lo
+: 1344 5 7 ving 
+: 1356 4 5 to 
+: 1362 10 3 you. 
+- 1374
+: 1395 4 15 All 
+: 1400 3 14 my 
+: 1406 3 12 lo
+: 1410 7 7 ving, 
+: 1427 3 7 I 
+: 1432 3 5 will 
+: 1437 5 3 send 
+: 1443 3 5 to 
+* 1448 2 7 you
+* 1451 2 10 ~
+* 1454 6 7 ~. 
+- 1462
+: 1481 4 15 All 
+: 1486 3 14 my 
+: 1492 3 12 lo
+: 1496 7 7 ving, 
+: 1513 4 7 dar
+: 1518 3 5 ling 
+: 1522 4 5 I’ll 
+: 1529 3 3 be 
+: 1533 10 3 true. 
+- 1545
+: 1567 4 15 All 
+: 1572 4 14 my 
+: 1577 3 12 lo
+: 1581 7 7 ving, 
+: 1607 6 17 all 
+: 1615 5 17 my 
+: 1625 4 17 lo
+: 1630 6 15 ving 
+* 1641 5 24 oh
+* 1647 5 22 ~. 
+- 1654
+: 1655 3 17 All 
+: 1659 3 17 my 
+: 1665 2 15 lo
+: 1668 6 17 ving, 
+: 1689 2 17 I 
+: 1692 3 15 will 
+: 1698 6 17 send 
+: 1706 3 15 to 
+: 1710 15 15 you. 
+E

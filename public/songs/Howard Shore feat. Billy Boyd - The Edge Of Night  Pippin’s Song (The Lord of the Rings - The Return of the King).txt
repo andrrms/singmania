@@ -1,0 +1,77 @@
+#ARTIST:Howard Shore feat. Billy Boyd
+#TITLE:The Edge Of Night / Pippin’s Song (The Lord of the Rings - The Return of the King)
+#MP3:Howard Shore feat. Billy Boyd - The Edge Of Night / Pippin’s Song (The Lord of the Rings - The Return of the King).mp3
+#CREATOR:Angeloffate
+#EDITION:Themes
+#GENRE:Soundtrack
+#YEAR:2003
+#LANGUAGE:English
+#BPM:321
+#GAP:40550
+#VIDEO:v=zmj25u5mVvg,co=the-lord-of-the-rings-the-return-of-the-king-50ef4d0e7781f.jpg,bg=the-lord-of-the-rings-the-return-of-the-king-51121045c2707.jpg,preview=40.54
+: 0 12 13 Home 
+: 16 8 20 is 
+: 26 3 20 be
+: 32 28 20 hind 
+- 62
+: 72 4 20 The
+: 78 2 22 ~ 
+: 84 10 23 world
+: 97 2 25 ~
+: 101 14 22 ~ 
+: 117 2 20 a
+: 121 23 20 head 
+- 146
+: 199 4 13 And 
+: 208 8 13 there 
+: 221 4 20 are 
+: 229 10 20 ma
+: 244 7 22 ny 
+: 255 19 23 paths 
+: 277 4 22 to 
+: 285 30 20 tread 
+- 317
+: 357 6 13 Through 
+: 367 7 13 sha
+: 377 29 8 dow 
+- 408
+: 434 8 13 To 
+: 447 4 15 the 
+: 454 12 16 edge 
+: 469 6 15 of 
+: 477 38 13 night 
+- 517
+: 553 4 13 Un
+: 559 8 13 til 
+: 572 4 20 the 
+: 579 21 20 stars 
+: 603 4 22 are 
+: 609 19 23 all 
+: 631 4 22 a
+: 639 43 20 light 
+- 684
+: 719 8 13 Mist 
+: 730 7 13 and 
+: 741 4 13 sha
+: 747 43 8 dow 
+- 792
+: 808 4 13 Cloud
+: 816 8 15 ~
+: 829 17 16 ~ 
+: 849 8 15 and 
+: 859 49 13 shade 
+- 910
+: 951 6 13 All 
+: 962 7 20 shall 
+: 972 43 20 fade 
+- 1017
+: 1062 6 20 All
+: 1071 4 22 ~
+: 1077 8 23 ~
+: 1088 19 25 ~ 
+: 1112 12 22 shall
+: 1127 4 23 ~
+: 1133 28 18 ~ 
+- 1163
+: 1265 37 20 Fade 
+E

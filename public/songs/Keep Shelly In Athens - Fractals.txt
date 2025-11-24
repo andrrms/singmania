@@ -1,0 +1,144 @@
+#ARTIST:Keep Shelly In Athens
+#TITLE:Fractals
+#MP3:Keep Shelly In Athens - Fractals.mp3
+#COVER:Keep Shelly In Athens - Fractals [CO].jpg
+#BACKGROUND:Keep Shelly In Athens - Fractals [BG].jpg
+#GENRE:Dream Pop
+#YEAR:2015
+#LANGUAGE:English
+#BPM:300
+#GAP:41160
+#VIDEO:v=1Htt42VlYzY,co=https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/28/99/13/2899135a-c2c0-350a-ac42-f847f377a7ea/0669158527724_1448.jpg/5000x5000bb.jpg,medley=1103-2283
+: 0 2 4 Fa
+: 4 7 4 ding 
+: 14 2 4 dis
+: 19 8 4 tant 
+: 30 4 4 me
+: 37 7 0 mo
+: 45 44 2 ry 
+- 99
+: 121 1 4 Ti
+: 123 4 4 mes 
+: 128 4 4 that 
+: 134 3 4 we 
+: 140 10 -1 bor
+: 152 45 0 row, 
+- 206
+: 210 5 0 To 
+: 218 19 7 wal
+: 238 37 4 low 
+- 285
+: 308 2 0 In
+: 313 15 2 side 
+- 348
+: 403 2 9 To 
+: 409 3 4 come 
+: 413 7 4 back 
+: 421 3 -1 in 
+: 426 16 2 glow 
+- 462
+: 499 3 9 To 
+: 505 6 4 come 
+: 512 6 4 back 
+: 519 3 4 in 
+: 525 24 7 so
+: 552 45 0 rrow 
+- 608
+: 612 9 0 To
+: 622 21 -1 mor
+: 644 111 0 row 
+- 795
+: 1103 18 7 Lay 
+: 1124 31 4 down 
+- 1165
+: 1190 9 0 We’re 
+: 1202 17 2 si
+: 1222 34 2 lent 
+- 1268
+: 1272 7 7 Fro
+: 1282 11 0 zen 
+: 1295 17 7 frac
+: 1315 43 4 tals, 
+- 1364
+: 1367 13 2 Now 
+: 1381 9 4 we’re 
+: 1391 19 12 sha
+: 1411 16 11 ding 
+: 1429 5 11 our 
+: 1436 54 7  
+- 1510
+: 1555 3 9 My 
+: 1559 10 4 threads 
+: 1570 9 0 are 
+: 1580 14 2 worn 
+- 1614
+: 1651 3 9 My 
+: 1657 9 4 words 
+: 1669 5 4 are 
+: 1676 9 -1 bro
+: 1688 32 0 ken 
+- 1730
+: 1752 18 7 Bro~
+: 1773 43 4  
+- 1836
+F 1874 4 12 (Fa
+F 1881 9 12 ding 
+F 1891 1 4 a
+F 1895 13 4 way) 
+- 1918
+: 1942 3 4 Spi
+: 1946 9 4 rits 
+: 1959 2 0 re
+: 1964 22 2 born 
+- 2006
+: 2039 2 4 Fee
+: 2043 1 4 ~
+: 2046 6 4 lings 
+: 2054 4 4 a
+: 2059 22 7 wo
+: 2083 54 0 ken 
+- 2146
+: 2149 7 0 Un
+: 2157 21 -1 spo
+: 2181 102 0 ken 
+- 2323
+: 2639 20 7 Lay 
+: 2660 53 4 down 
+- 2721
+: 2724 13 0 We’re 
+: 2738 17 7 si
+: 2756 36 2 lent 
+- 2802
+: 2806 15 7 Fro
+: 2822 7 0 zen 
+: 2833 16 7 frac
+: 2851 43 4 tals, 
+- 2901
+: 2904 12 2 Now 
+: 2918 9 4 we’re 
+: 2930 9 11 fa
+: 2942 22 11 ding 
+: 2965 7 7 a
+: 2973 44 7 way … 
+- 3021
+: 3023 19 7 Lay 
+: 3045 43 4 down 
+- 3098
+: 3108 13 0 We’re 
+: 3125 14 2 si
+: 3142 30 2 lent 
+- 3182
+: 3194 7 7 Fro
+: 3204 11 0 zen 
+: 3218 15 7 frac
+: 3235 43 7 tals, 
+- 3284
+: 3287 13 2 Now 
+: 3302 9 4 we’re 
+: 3313 13 10 voi
+: 3329 16 11 ces 
+: 3347 9 11 still 
+: 3359 11 7 shi
+: 3372 6 7 ve
+: 3379 19 9 rin’ 
+E

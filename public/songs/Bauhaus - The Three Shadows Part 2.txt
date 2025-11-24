@@ -1,0 +1,165 @@
+#ARTIST:Bauhaus
+#TITLE:The Three Shadows Part 2
+#MP3:Bauhaus - The Three Shadows Part 2.mp3
+#CREATOR:dude76
+#YEAR:1982
+#LANGUAGE:English
+#BPM:208
+#GAP:27550
+#VIDEO:a=aBrAJQaoyMU,co=the-skys-gone-out-5de853afda0d1.jpg,bg=bauhaus-4ddaec92bf8d1.jpg
+: 0 2 15 Oh 
+: 4 2 15 clas
+: 8 3 15 sic 
+: 13 2 18 gen
+: 17 2 18 tle
+: 21 19 15 men 
+- 42
+: 54 5 18 Say 
+: 61 6 18 your 
+: 69 2 22 pra
+: 73 22 22 yers 
+- 97
+: 111 3 22 To 
+: 116 1 22 the 
+* 119 36 20 wind 
+- 157
+: 162 5 20 Of 
+: 169 3 20 pro
+: 174 4 22 sti
+: 180 3 18 tu
+: 185 21 15 tion 
+- 208
+: 223 3 15 To 
+: 228 5 15 your 
+: 235 4 18 fa
+: 241 23 18 ces 
+- 266
+: 275 3 18 And 
+: 280 7 17 Rex 
+: 289 4 18 com
+: 295 1 17 ple
+: 298 19 15 xes 
+- 319
+: 336 1 16 Rid
+: 339 3 16 dle 
+: 344 3 16 my 
+: 349 19 14 breast 
+- 370
+: 376 3 10 Full 
+: 381 3 13 of 
+: 386 3 13 the 
+: 391 7 13 op
+: 400 5 15 pressed 
+: 407 9 15 pus 
+- 418
+: 512 3 10 Oh 
+: 517 2 16 gen
+: 521 1 16 tle
+: 524 24 14 men 
+- 550
+: 559 1 18 With 
+: 562 7 18 your 
+* 571 12 23 fish 
+- 585
+: 614 3 23 That 
+: 619 1 23 you 
+: 622 2 23 sur
+: 626 44 21 round 
+: 672 7 23 all 
+: 681 1 16 a
+: 684 21 19 round 
+- 707
+: 735 3 19 And 
+: 740 5 19 you 
+: 747 10 19 man 
+- 759
+: 764 3 19 Will 
+: 769 10 17 al
+: 781 13 19 ways 
+: 796 9 16 point 
+- 807
+: 837 10 16 Your 
+: 849 2 16 fi
+: 853 20 14 shes 
+- 875
+: 892 8 19 At 
+* 906 9 16 me 
+- 917
+: 1234 4 14 But 
+: 1240 9 19 I 
+: 1251 14 19 will 
+: 1267 12 18 al
+: 1281 8 19 ways 
+: 1291 1 18 e
+: 1294 10 16 xist 
+- 1306
+: 1346 1 14 Be
+: 1349 12 19 cause 
+- 1363
+: 1372 5 19 I 
+: 1379 10 18 al
+: 1391 9 19 ways 
+: 1402 1 18 e
+: 1405 10 16 xist 
+- 1417
+: 1448 4 16 Damn 
+: 1454 6 16 good, 
+: 1462 8 14 too 
+- 1472
+: 1569 1 19 The 
+* 1572 27 23 rat 
+: 1601 22 26 race 
+- 1624
+: 1625 1 26 Be
+: 1628 53 23 gins 
+- 1682
+: 1683 1 23 The 
+: 1685 26 21 fat 
+: 1713 23 23 face 
+: 1738 31 19 stings 
+- 1771
+: 1791 3 19 I 
+: 1796 17 19 hold 
+- 1815
+: 1818 2 19 The 
+: 1822 15 23 fresh 
+: 1839 11 23 pink 
+: 1852 6 26 ba
+: 1860 22 23 by 
+- 1884
+: 1893 2 23 With 
+: 1897 1 23 a 
+: 1900 19 16 smile 
+- 1921
+: 1970 1 19 I 
+: 1973 5 19 slice 
+: 1980 2 19 off 
+: 1984 3 19 those 
+: 1989 1 19 ro
+: 1992 3 19 sy 
+* 1997 8 16 cheeks 
+- 2007
+: 2017 2 16 ’Cause 
+: 2021 1 16 I 
+: 2024 10 16 feel 
+: 2036 6 16 so 
+: 2044 4 19 thir
+: 2050 10 16 sty 
+- 2062
+: 2122 3 16 And 
+: 2127 1 16 Oe
+: 2130 2 16 di
+: 2134 5 19 pus 
+* 2141 5 19 Rex 
+: 2148 3 19 com
+: 2153 2 23 ple
+: 2157 12 23 xes 
+- 2171
+F 2208 3 24 Rid
+F 2212 2 24 dle 
+F 2215 4 24 my 
+F 2220 14 24 closed 
+F 2235 4 24 bloa
+F 2240 7 24 ted 
+F 2248 10 24 breast 
+E

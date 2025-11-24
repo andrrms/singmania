@@ -1,0 +1,151 @@
+#ARTIST:Simon & Garfunkel
+#TITLE:For Emily, Whenever I May Find Her
+#MP3:Simon & Garfunkel - For Emily, Whenever I May Find Her.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:254.88
+#GAP:15160
+#VIDEO:a=TVaisTSsDVA,co=https://i.discogs.com/B6Zu1nvNKiFErL67D4eTYr6SESncPWba-WCGM1t2jjs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTIw/NDEtMTM5NzQ1NzEz/My02NDc4LmpwZWc.jpeg,bg=simon--garfunkel-60dff50e32737.jpg
+: 0 3 12 What 
+: 6 3 12 a 
+: 11 8 12 dream 
+: 22 3 10 I 
+: 27 6 9 had 
+- 35
+: 57 4 10 Pressed 
+: 65 2 10 in 
+: 69 5 10 or
+: 77 5 9 gan
+: 85 6 7 dy 
+- 93
+: 112 8 9 Clothed 
+: 123 5 10 in 
+* 133 2 9 cri
+* 137 2 7 no
+* 141 8 5 line 
+- 151
+: 166 4 3 Of 
+: 176 4 14 smo
+: 182 4 12 ky 
+: 188 3 10 Bur
+: 193 4 9 gun
+: 199 8 10 dy 
+- 209
+: 228 4 5 Sof
+: 234 2 10 ter 
+: 238 3 10 than 
+: 244 2 12 the 
+: 248 44 12 rain 
+- 294
+: 308 4 12 I 
+: 314 4 12 wan
+: 320 2 12 dered 
+* 323 4 14 emp
+* 330 4 12 ty 
+: 336 4 10 streets 
+: 343 6 9 down 
+- 351
+: 364 5 10 Passed 
+: 372 2 10 the 
+: 376 5 10 shop 
+: 384 4 9 dis
+: 390 14 7 plays 
+- 406
+: 418 4 9 I 
+: 425 4 9 heard 
+: 431 2 10 ca
+: 435 4 9 the
+: 441 4 7 dral 
+: 448 15 5 bells 
+- 465
+* 473 3 14 Trip
+* 478 6 12 ping 
+: 487 4 10 down 
+: 494 4 9 the 
+: 500 2 10 al
+: 504 3 9 ley 
+: 509 14 7 ways 
+- 525
+: 538 5 5 As 
+: 546 5 10 I 
+: 554 5 12 walked 
+: 563 38 12 on 
+- 603
+: 615 4 12 And 
+: 621 2 12 when 
+: 625 2 12 you 
+: 629 2 12 run
+: 633 4 14 ~ 
+* 639 2 12 to 
+* 643 4 10 me 
+: 650 8 9 your 
+- 660
+: 668 5 17 Cheeks 
+: 676 5 16 flushed 
+: 684 4 14 with 
+: 692 2 12 the 
+: 696 8 10 night 
+- 706
+: 725 2 9 We 
+: 729 4 9 walked 
+: 735 7 10 on 
+: 745 3 9 fros
+: 750 4 7 ted 
+: 756 12 5 fields 
+- 770
+: 783 2 3 Of 
+* 786 2 14 ju
+* 789 2 12 ni
+* 793 2 10 per 
+: 796 2 9 and 
+: 800 4 10 lamp
+: 807 16 7 light 
+- 825
+: 840 5 5 I 
+: 848 2 10 held 
+: 852 4 10 your
+: 857 7 12 ~ 
+: 867 66 12 hand 
+- 935
+: 1238 5 12 And 
+: 1246 2 12 when 
+: 1250 4 12 I 
+: 1256 5 12 a
+: 1264 2 12 woke
+: 1267 4 14 ~ 
+- 1273
+: 1288 4 5 And 
+: 1296 2 10 felt 
+: 1300 2 10 you 
+* 1304 5 10 warm 
+: 1312 2 9 and 
+* 1316 12 7 near 
+- 1330
+: 1344 4 9 I 
+: 1350 5 9 kissed 
+: 1358 5 10 your 
+: 1366 2 9 ho
+: 1370 4 7 ney 
+: 1376 12 5 hair 
+- 1390
+: 1409 4 14 With 
+: 1415 4 12 my 
+* 1421 4 10 grate
+* 1427 4 9 ful 
+: 1433 14 10 tears 
+- 1449
+: 1461 4 5 Oh, 
+: 1467 5 10 I 
+: 1475 5 10 love 
+: 1482 20 12 you, 
+: 1506 60 12 girl 
+- 1568
+: 1576 13 15 Oh, 
+: 1592 14 14 I
+: 1609 2 12 ~
+: 1613 12 10 ~ 
+- 1627
+* 1629 37 12 Love 
+: 1670 60 12 you. 
+E

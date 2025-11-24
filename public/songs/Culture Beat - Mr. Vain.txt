@@ -1,0 +1,638 @@
+#ARTIST:Culture Beat
+#TITLE:Mr. Vain
+#MP3:Culture Beat - Mr. Vain.mp3
+#CREATOR:Way2Evil
+#GENRE:Pop
+#YEAR:1993
+#LANGUAGE:English
+#BPM:279.4
+#GAP:28960
+#VIDEO:v=ZMtf_ouMTHw,co=mr-vain-5f2c95d6657c1.jpg,bg=culture-beat-50c8412a5d48f.jpg
+: 0 3 4 Call 
+: 4 2 4 him 
+: 8 2 2 Mis
+: 13 2 -3 ter 
+* 16 4 0 Rai
+* 21 3 -3 der 
+- 26
+: 29 5 4 Call 
+: 38 2 4 him 
+: 42 2 2 Mis
+: 46 2 -3 ter 
+: 50 9 0 Wrong 
+- 61
+: 68 4 4 Call 
+: 74 2 4 him 
+: 78 2 2 Mis
+: 82 2 -3 ter 
+: 86 6 0 Vain 
+- 94
+: 138 2 4 Call 
+: 142 2 4 him 
+: 146 2 2 Mis
+: 150 2 -3 ter 
+: 154 2 0 Rai
+: 158 2 -3 der 
+- 162
+: 164 7 4 Call 
+: 172 3 4 him 
+: 177 2 2 Mis
+: 181 3 -3 ter 
+: 186 6 0 Wrong 
+- 194
+: 202 3 4 Call 
+: 206 2 4 him 
+: 210 4 2 in
+* 218 13 0 sane 
+- 233
+: 259 2 0 He’d 
+: 262 3 4 say: 
+: 270 4 4 I 
+: 278 4 7 know 
+: 288 1 4 what 
+: 290 2 7 I 
+: 294 3 9 want 
+- 298
+: 300 2 7 And 
+: 304 4 7 I 
+: 312 2 7 want 
+: 316 2 2 it 
+: 320 7 4 now 
+- 329
+: 338 4 2 I 
+: 346 4 4 want 
+: 354 4 -3 you 
+- 360
+* 368 2 -3 ’Cause 
+: 372 4 2 I’m 
+: 380 2 0 Mis
+: 384 2 -3 ter 
+: 388 6 0 Vain 
+- 396
+: 405 4 4 I 
+: 413 4 7 know 
+: 421 1 4 what 
+: 423 2 4 I 
+: 427 4 9 want 
+: 433 2 7 and 
+: 437 4 7 I 
+: 445 5 7 want 
+: 452 2 2 it 
+: 456 6 4 now 
+- 464
+: 473 4 2 I 
+: 481 4 4 want 
+: 489 4 -3 you 
+- 495
+: 500 2 -3 ’Cause 
+: 504 4 2 I’m 
+: 514 2 0 Mis
+: 518 2 -3 ter 
+: 522 6 0 Vain 
+- 530
+R 540 2 3 Call 
+R 544 1 3 me 
+R 546 2 3 Rai
+R 550 1 3 der, 
+R 552 2 3 call 
+R 556 2 3 me 
+R 560 2 3 Wrong 
+- 563
+R 565 2 3 Call 
+R 569 2 3 me 
+R 572 3 3 in
+R 577 4 3 sane, 
+R 585 1 3 call 
+R 587 1 3 me 
+R 589 2 3 Mis
+R 593 2 3 ter 
+R 597 4 3 Vain 
+- 603
+R 608 2 3 Call 
+R 612 2 3 me 
+R 616 1 3 what 
+R 618 1 3 you 
+R 620 3 3 like 
+- 625
+R 627 1 3 As 
+R 629 2 3 long 
+R 633 2 3 as 
+R 637 2 3 you 
+R 641 4 3 call 
+R 647 2 3 me 
+R 654 2 3 time 
+R 658 2 3 and 
+R 662 2 3 a
+R 666 2 3 gain 
+- 670
+R 675 3 3 Feel 
+R 680 1 3 the 
+R 682 1 3 pre
+R 684 2 3 sence 
+R 688 1 3 of 
+R 690 1 3 the 
+R 692 2 3 au
+R 696 2 3 ra 
+- 699
+R 700 2 3 Of 
+R 704 2 3 the 
+R 708 4 3 man 
+R 721 2 3 none 
+R 725 2 3 to 
+R 729 2 3 com
+R 733 3 3 pare 
+- 738
+R 741 2 3 Love
+R 745 1 3 less 
+R 747 2 3 dy
+R 751 2 3 ing 
+- 754
+R 755 3 3 For 
+R 760 1 3 a 
+R 762 2 3 chance 
+R 766 2 3 just 
+R 770 1 3 to 
+R 772 2 3 touch 
+R 776 1 3 a 
+R 778 3 3 hand 
+- 783
+R 788 2 3 Or 
+R 792 1 3 a 
+R 794 1 3 mo
+R 796 2 3 ment 
+R 800 1 3 to 
+R 802 3 3 share 
+- 807
+R 812 2 3 Can’t 
+R 816 1 3 de
+R 818 1 3 ny 
+R 820 1 3 the 
+R 822 2 3 urge 
+R 826 1 3 that 
+R 828 2 3 makes 
+R 832 2 3 them 
+- 835
+R 836 2 3 Want 
+R 840 1 3 to 
+R 842 2 3 lose 
+R 848 2 3 them
+R 852 2 3 selves 
+- 856
+R 858 1 3 To 
+R 860 1 3 the 
+R 862 2 3 de
+R 866 1 3 bon
+R 868 2 3 air 
+R 872 2 3 one 
+- 876
+R 878 2 3 Hold 
+R 882 1 3 me 
+R 884 2 3 back 
+- 887
+R 888 1 3 The 
+R 890 2 3 sim
+R 894 2 3 ple 
+R 898 2 3 fact 
+R 902 1 3 is 
+R 904 1 3 that 
+R 906 2 3 I’m 
+R 910 2 3 all 
+R 914 3 3 that 
+- 919
+R 922 2 3 And 
+R 926 1 3 I’m 
+R 928 2 3 al
+R 932 2 3 ways 
+R 936 2 3 near 
+- 940
+R 942 1 3 One 
+R 944 1 3 se
+R 946 2 3 xy 
+R 950 2 3 can’t 
+R 954 1 3 per
+R 956 2 3 plex 
+R 960 1 3 me 
+R 962 2 3 now 
+- 966
+R 968 1 3 You 
+R 970 2 3 know 
+R 974 2 3 who’ 
+R 978 3 3 raw 
+- 983
+R 988 1 3 As 
+R 990 2 3 if 
+R 994 1 3 did
+R 996 2 3 n’t 
+R 1000 2 3 know 
+R 1003 1 3 be
+R 1005 2 3 fore 
+- 1008
+R 1010 1 3 I 
+R 1012 2 3 know 
+R 1016 1 3 what 
+R 1018 1 3 I 
+R 1020 2 3 want 
+R 1024 1 3 and 
+R 1026 1 3 I 
+R 1028 1 3 want 
+R 1030 1 3 it 
+R 1032 2 3 now 
+- 1036
+R 1038 1 3 I 
+R 1040 2 3 want 
+R 1044 6 3 you 
+- 1052
+R 1057 2 3 Then 
+R 1061 1 3 I 
+R 1063 2 3 want 
+R 1067 1 3 a 
+R 1069 1 3 lit
+R 1071 1 3 tle 
+R 1073 4 3 more 
+- 1079
+: 1346 3 4 Call 
+: 1351 2 4 him 
+* 1355 2 2 Mis
+* 1359 2 -3 ter 
+: 1363 2 0 Rai
+: 1367 2 -3 der 
+- 1371
+: 1375 4 4 Call 
+: 1385 2 4 him 
+: 1389 2 2 Mis
+: 1393 2 -3 ter 
+: 1397 5 0 Wrong 
+- 1404
+: 1414 3 4 Call 
+: 1419 2 4 him 
+: 1423 2 2 Mis
+: 1427 2 -3 ter 
+: 1431 6 0 Vain 
+- 1439
+: 1481 3 4 Call 
+: 1486 2 4 him 
+: 1490 2 2 Mis
+: 1494 2 -3 ter 
+* 1498 2 0 Rai
+* 1502 2 -3 der 
+- 1506
+: 1511 4 4 Call 
+: 1520 2 4 him 
+: 1524 2 2 Mis
+: 1528 2 -3 ter 
+: 1532 5 0 Wrong 
+- 1539
+: 1547 3 4 Call 
+: 1552 2 4 him 
+: 1556 4 -3 in
+: 1564 6 0 sane 
+- 1572
+: 1604 2 4 He’d 
+: 1608 2 0 say: 
+* 1616 4 4 I 
+: 1624 4 7 know 
+: 1632 1 4 what 
+: 1634 2 7 I 
+: 1638 3 9 want 
+- 1643
+: 1647 2 7 And 
+: 1651 4 7 I 
+: 1659 2 7 want 
+: 1663 2 2 it 
+: 1667 5 4 now 
+- 1674
+: 1684 4 2 I 
+* 1692 4 4 want 
+: 1700 4 -3 you 
+- 1706
+: 1713 2 -3 ’Cause 
+: 1717 4 4 I’m 
+: 1724 3 0 Mis
+: 1730 2 -3 ter 
+: 1734 6 0 Vain 
+- 1742
+: 1751 4 4 I 
+: 1759 4 7 know 
+: 1767 1 4 what 
+: 1769 2 4 I 
+: 1773 4 9 want 
+: 1779 2 7 and 
+: 1783 4 7 I 
+: 1793 3 7 want 
+: 1797 2 2 it 
+: 1801 6 4 now 
+- 1809
+: 1818 4 2 I 
+: 1826 4 4 want 
+* 1834 4 -3 you 
+- 1840
+: 1847 3 -3 ’Cause 
+: 1852 4 4 I’m 
+: 1860 2 0 Mis
+: 1864 2 -3 ter 
+: 1868 6 0 Vain 
+- 1876
+: 1927 2 9 Mis
+: 1931 2 4 ter 
+: 1934 4 9 Wro
+: 1940 8 12 ~ng! 
+- 1950
+: 1994 2 9 Mis
+: 1998 2 4 ter 
+* 2002 2 9 Wro
+* 2006 8 12 ~ng! 
+- 2016
+: 2060 3 9 Mis
+: 2064 2 9 ter 
+: 2068 2 7 Rai
+: 2072 8 9 der! 
+- 2082
+: 2121 13 14 Whoo 
+: 2136 10 9 ah! 
+- 2148
+R 2153 2 3 Girls 
+R 2157 2 3 all 
+R 2161 2 3 over 
+R 2165 2 3 the 
+R 2169 2 3 wo
+R 2173 1 3 ~rld 
+- 2175
+R 2175 1 3 They 
+R 2178 2 3 hope 
+R 2182 2 3 and 
+R 2187 2 3 pray 
+R 2192 2 3 and 
+R 2196 2 3 die 
+R 2200 2 3 for 
+R 2204 2 3 men 
+- 2207
+R 2209 2 3 Like 
+R 2213 2 3 me 
+R 2217 2 3 ’cause 
+R 2221 2 3 I’m 
+R 2225 2 3 the 
+R 2229 2 3 one 
+- 2232
+R 2233 2 3 Be
+R 2237 2 3 gotten 
+R 2241 2 3 son 
+R 2245 2 3 that 
+R 2249 2 3 breaks 
+R 2253 2 3 the 
+R 2257 1 3 mold 
+- 2259
+R 2259 1 3 Get 
+R 2261 1 3 a 
+R 2263 1 3 look 
+R 2265 1 3 at 
+R 2267 2 3 male 
+R 2271 2 3 epi
+R 2275 2 3 to
+R 2278 4 3 me 
+- 2284
+R 2287 4 3 Style 
+R 2293 2 3 has 
+R 2296 1 3 ne
+R 2298 2 3 ver 
+R 2301 1 3 seen 
+- 2303
+R 2303 2 3 That 
+R 2307 1 3 makes 
+R 2309 2 3 you 
+R 2313 2 3 want 
+R 2317 2 3 to 
+R 2321 1 3 grab 
+R 2323 2 3 and 
+R 2327 1 3 hold 
+- 2329
+R 2329 3 3 And 
+R 2334 3 3 squeeze 
+R 2338 7 3 real 
+R 2347 5 3 tight 
+- 2354
+R 2356 2 3 Whose 
+R 2359 2 3 gonna 
+R 2362 2 3 be 
+R 2366 2 3 the 
+R 2370 2 3 one 
+R 2373 2 3 to 
+R 2377 2 3 save 
+- 2380
+R 2380 2 3 You 
+R 2384 2 3 from 
+R 2388 2 3 your
+R 2392 5 3 self 
+- 2398
+R 2399 2 3 When 
+R 2402 2 3 you 
+R 2406 2 3 wan
+R 2410 2 3 na 
+R 2414 2 3 take 
+R 2418 2 3 a 
+R 2421 2 3 bite 
+- 2424
+R 2424 2 3 Please 
+R 2428 2 3 oh 
+R 2432 2 3 ba
+R 2436 2 3 by 
+R 2440 2 3 please 
+- 2444
+R 2446 2 3 You 
+R 2450 2 3 beg 
+R 2454 2 3 you 
+R 2458 2 3 want 
+R 2462 2 3 to 
+R 2466 2 3 say 
+- 2469
+R 2470 2 3 You 
+R 2474 2 3 got 
+R 2478 2 3 to 
+R 2482 2 3 get 
+R 2486 3 3 some 
+- 2490
+R 2491 2 3 Caught 
+R 2494 2 3 up 
+R 2498 2 3 in 
+R 2501 2 3 the 
+R 2504 3 3 charm 
+- 2508
+R 2510 2 3 That 
+R 2513 2 3 I 
+R 2516 2 3 laid 
+R 2520 2 3 on 
+R 2524 3 3 thick 
+- 2528
+R 2528 2 3 And 
+R 2532 2 3 now 
+R 2536 2 3 there’s 
+R 2540 2 3 no
+R 2544 2 3 where 
+R 2548 2 3 to 
+R 2552 2 3 run 
+- 2556
+R 2558 2 3 Just 
+R 2562 2 3 a
+R 2566 2 3 nother 
+R 2570 2 3 fish 
+R 2574 2 3 that 
+R 2578 1 3 bit 
+R 2580 2 3 the 
+R 2583 4 3 worm 
+R 2588 1 3 on 
+R 2590 1 3 a 
+R 2592 2 3 hook 
+- 2595
+R 2596 1 3 On 
+R 2598 1 3 a 
+R 2600 2 3 line 
+R 2604 2 3 yeah 
+- 2608
+R 2610 2 3 I 
+R 2614 2 3 keep 
+R 2618 2 3 ma
+R 2622 2 3 ny 
+R 2626 1 3 fe
+R 2628 4 3 males 
+- 2633
+R 2633 1 3 Long
+R 2635 2 3 ing 
+R 2639 2 3 for 
+R 2643 1 3 a 
+R 2645 3 3 chance 
+R 2649 1 3 to 
+R 2651 2 3 win 
+R 2655 2 3 my 
+R 2659 4 3 heart 
+- 2664
+R 2664 2 3 With 
+R 2667 2 3 S-
+R 2671 2 3 E-
+R 2675 2 3 X 
+R 2679 2 3 and 
+R 2683 2 3 plen
+R 2687 4 3 ty 
+- 2693
+: 2962 2 4 Call 
+: 2966 2 4 him 
+: 2970 2 2 Mis
+: 2974 2 -3 ter 
+: 2978 2 0 Rai
+: 2982 2 -3 der 
+- 2986
+: 2991 5 4 Call 
+: 2999 2 4 him 
+: 3003 2 2 Mis
+: 3007 2 -3 ter 
+: 3011 5 0 Wrong 
+- 3018
+* 3029 2 4 Call 
+* 3033 2 4 him 
+* 3037 2 2 Mis
+* 3041 2 -3 ter 
+* 3045 6 0 Vain 
+- 3053
+: 3097 2 4 Call 
+: 3101 2 4 him 
+: 3105 2 2 Mis
+: 3109 2 -3 ter 
+: 3113 2 0 Rai
+: 3117 2 -3 der 
+- 3121
+: 3126 4 4 Call 
+: 3134 2 4 him 
+: 3138 2 2 Mis
+: 3142 2 -3 ter 
+: 3146 5 0 Wrong 
+- 3153
+: 3163 3 4 Call 
+: 3168 2 4 him 
+* 3172 5 -3 in
+: 3180 6 0 sane 
+- 3188
+: 3219 2 4 He’d 
+: 3223 2 0 say: 
+: 3231 4 4 I 
+: 3239 4 7 know 
+: 3248 1 4 what 
+: 3250 2 7 I 
+: 3253 3 9 want 
+- 3258
+: 3261 2 7 And 
+: 3265 4 7 I 
+: 3273 2 7 want 
+: 3277 2 2 it 
+* 3281 6 4 now 
+- 3289
+: 3299 4 2 I 
+: 3307 4 4 want 
+: 3315 4 -3 you 
+- 3321
+: 3328 2 -3 ’Cause 
+: 3332 4 2 I’m 
+: 3340 2 0 Mis
+: 3344 2 -3 ter 
+: 3348 6 0 Vain 
+- 3356
+: 3366 4 4 I 
+: 3374 4 7 know 
+: 3382 1 4 what 
+: 3384 2 7 I 
+: 3388 4 9 want 
+: 3394 2 7 and 
+: 3398 4 7 I 
+: 3406 2 7 want 
+: 3410 2 2 it 
+: 3414 6 4 now 
+- 3422
+: 3433 4 2 I 
+: 3441 4 4 want 
+: 3449 4 -3 you 
+- 3455
+: 3462 2 -3 ’Cause 
+: 3466 4 4 I’m 
+: 3475 2 0 Mis
+: 3479 2 -3 ter 
+* 3483 6 0 Vain 
+- 3491
+: 3501 4 4 I 
+: 3509 4 7 know 
+: 3517 1 4 what 
+: 3519 2 7 I 
+: 3523 4 9 want 
+: 3529 2 7 and 
+: 3533 4 7 I 
+: 3541 2 7 want 
+: 3545 2 2 it 
+: 3549 6 4 now 
+- 3557
+: 3567 4 2 I 
+: 3575 4 4 want 
+: 3583 4 -3 you 
+- 3589
+: 3597 2 -3 ’Cause 
+: 3601 4 4 I’m 
+: 3609 2 0 Mis
+: 3613 2 -3 ter 
+* 3617 6 0 Vain 
+- 3625
+: 3635 4 4 I 
+: 3643 4 7 know 
+: 3651 1 4 what 
+: 3653 2 7 I 
+: 3657 4 9 want 
+: 3663 2 7 and 
+: 3667 4 7 I 
+: 3675 2 7 want 
+: 3679 2 2 it 
+: 3683 6 4 now 
+- 3691
+: 3702 4 2 I 
+: 3710 4 4 want 
+: 3718 4 -3 you 
+- 3724
+: 3731 2 -3 ’Cause 
+: 3735 4 4 I’m 
+: 3743 2 0 Mis
+: 3747 2 -3 ter 
+* 3751 10 0 Vain 
+E

@@ -1,0 +1,156 @@
+#ARTIST:Linda Ronstadt
+#TITLE:When Will I Be Loved
+#MP3:Linda Ronstadt - When Will I Be Loved.mp3
+#CREATOR:anthem_1
+#YEAR:1974
+#LANGUAGE:English
+#BPM:272
+#GAP:1040
+#VIDEO:a=r4TdEG2drsU,co=https://media.hitparade.ch/cover/800/linda_ronstadt-when_will_i_be_loved_s.jpg,bg=ronstadt-linda-5104ecb727340.jpg
+: 0 10 17 I’ve 
+: 13 6 13 been 
+: 22 10 13 cheat
+: 36 10 15 ed 
+- 48
+: 64 12 16 Been 
+: 81 4 12 mis
+: 89 12 12 treat
+: 104 10 12 ed 
+- 116
+: 132 14 16 When 
+: 149 6 12 will 
+: 159 13 12 I
+: 173 12 14 ~ 
+: 191 4 12 be 
+: 198 22 12 loved 
+- 222
+: 265 12 16 I’ve 
+: 281 6 12 been 
+: 288 10 12 put 
+: 301 10 14 down 
+- 313
+: 330 12 19 I’ve 
+: 347 6 12 been 
+: 356 10 12 pushed 
+: 368 12 14 ’round 
+- 382
+: 396 12 16 When 
+: 412 6 12 will 
+: 422 13 12 I
+: 436 12 14 ~ 
+: 452 4 12 be 
+: 458 30 12 loved 
+- 490
+: 526 4 12 When 
+: 533 2 9 I 
+: 537 9 12 find 
+: 547 2 16 a 
+: 551 4 14 new 
+: 559 8 12 man 
+- 569
+: 591 5 12 That 
+: 598 2 12 I 
+: 601 4 12 want 
+: 606 6 9 for 
+: 616 10 7 mine 
+- 628
+: 646 4 9 He 
+: 651 6 12 al
+: 658 3 12 ways 
+: 664 10 12 breaks 
+: 678 4 12 my 
+: 683 7 14 heart 
+: 692 2 14 in 
+: 695 6 14 two 
+- 703
+: 712 3 12 It 
+: 716 3 16 hap
+: 720 10 19 pens 
+: 732 10 14 eve
+: 746 6 12 ry 
+: 754 40 14 time 
+- 796
+: 820 14 16 I’ve 
+: 837 6 12 been 
+: 846 8 12 made 
+: 858 10 14 blue 
+- 870
+: 887 12 19 I’ve 
+: 902 6 12 been 
+: 910 10 12 lied 
+: 923 10 14 to 
+- 935
+: 951 12 16 When 
+: 968 8 12 will 
+: 978 12 12 I
+: 992 12 14 ~ 
+: 1007 4 12 be 
+: 1014 28 12 loved 
+- 1044
+F 1073 234 12 [Guitar Solo] 
+- 1309
+: 1339 6 12 When 
+: 1346 2 9 I 
+: 1349 8 12 find 
+: 1362 2 12 a 
+: 1365 4 16 new 
+: 1373 10 12 man 
+- 1385
+: 1406 4 12 That 
+: 1412 2 13 I 
+: 1415 3 12 want 
+: 1420 6 9 for 
+: 1429 12 7 mine 
+- 1443
+: 1458 4 9 He 
+: 1464 4 12 al
+: 1470 4 12 ways 
+: 1476 10 12 breaks 
+: 1491 3 12 my 
+: 1495 7 14 heart 
+: 1503 2 14 in 
+: 1508 6 14 two 
+- 1516
+: 1525 2 12 It 
+: 1529 3 16 hap
+: 1533 10 19 pens 
+: 1546 10 16 eve
+: 1558 6 14 ry 
+: 1566 21 16 time
+: 1588 5 18 ~
+: 1594 6 20 ~ 
+- 1602
+: 1614 12 14 Oh! 
+: 1633 14 16 I’ve 
+: 1649 6 12 been 
+: 1657 12 14 cheat
+: 1672 8 14 ed 
+- 1682
+: 1698 10 19 Been 
+: 1714 4 12 mis
+: 1721 12 12 treat
+: 1735 10 12 ed 
+- 1747
+: 1763 12 16 When 
+: 1779 6 12 will 
+: 1788 12 12 I
+: 1803 12 14 ~ 
+: 1818 4 12 be 
+: 1825 24 12 loved 
+- 1851
+: 1890 14 16 When 
+: 1907 8 12 will 
+: 1916 12 12 I
+: 1931 10 14 ~ 
+: 1945 4 12 be 
+: 1952 20 12 loved 
+- 1974
+: 1994 6 12 Tell 
+: 2002 6 14 me 
+: 2018 16 19 when 
+: 2036 10 16 will 
+: 2048 18 14 I 
+- 2068
+: 2074 22 12 Be 
+: 2116 104 14 loved 
+E

@@ -1,0 +1,575 @@
+#ARTIST:Scooter vs Status Quo
+#TITLE:Jump That Rock (Whatever You Want)
+#MP3:Scooter vs Status Quo - Jump That Rock (Whatever You Want).mp3
+#CREATOR:Leroidukitch
+#GENRE:Techno
+#YEAR:2007
+#LANGUAGE:English
+#BPM:291.91
+#GAP:22790
+#VIDEO:v=H0DTm_bWEjs,co=jump-that-rock-whatever-you-want-60aedae893cbd.jpg
+F 0 2 0 Al
+F 3 4 0 right 
+F 9 3 0 crew 
+- 14
+F 53 3 0 Scooter 
+F 64 2 0 in 
+F 67 3 0 the 
+F 71 3 0 house 
+- 76
+: 114 3 3 Co
+: 118 2 3 ming 
+: 122 2 3 up 
+: 125 2 3 with 
+: 129 2 3 the 
+: 133 2 3 in
+: 137 2 3 cre
+: 140 2 3 di 
+: 144 2 3 ble 
+- 148
+* 150 2 3 The 
+* 155 2 3 le
+* 158 2 3 gen
+* 163 3 3 da
+* 167 2 3 ry 
+- 171
+: 172 4 3 STA
+: 179 3 3 TUS 
+: 199 12 6 QUO 
+- 213
+: 220 2 7 What
+: 223 3 7 ever 
+: 227 3 6 you 
+: 231 4 6 want 
+- 237
+: 251 3 7 What
+: 255 3 7 ever 
+: 259 3 6 you 
+: 263 6 6 like 
+- 271
+: 283 3 7 What
+: 287 3 7 ever 
+: 291 3 6 you 
+: 295 4 6 say 
+- 300
+: 300 1 7 You 
+: 302 5 7 pay 
+: 308 2 6 your 
+: 311 2 6 money
+: 314 1 6 ~ 
+- 316
+: 316 2 7 You 
+: 319 4 7 take 
+: 324 1 6 your 
+: 326 8 6 choice 
+- 336
+: 347 3 6 What
+: 351 2 6 ever 
+: 354 3 4 you 
+: 358 8 4 need 
+- 368
+: 380 2 6 What
+: 383 3 6 ever 
+: 387 3 7 you 
+: 391 8 9 use 
+- 401
+: 412 2 7 What
+: 415 3 7 ever 
+: 419 3 6 you 
+: 423 5 6 win 
+- 430
+: 444 3 7 What
+: 448 2 7 ever 
+* 451 3 6 you 
+* 455 6 6 lose. 
+- 462
+F 462 6 0 Come 
+F 469 6 0 On 
+- 477
+: 478 3 7 What
+: 482 2 7 ever 
+: 485 3 6 you 
+: 489 4 6 want 
+- 495
+: 509 3 7 What
+: 513 3 7 ever 
+: 517 3 6 you 
+: 521 6 6 like 
+- 529
+: 541 3 7 What
+: 545 3 7 ever 
+: 549 3 6 you 
+: 553 4 6 say 
+- 558
+: 558 1 7 You 
+: 560 5 7 pay 
+: 566 2 6 your 
+: 569 2 6 money
+: 572 1 6 ~ 
+- 574
+: 574 2 7 You 
+: 577 4 7 take 
+: 582 1 6 your 
+: 584 8 6 choice 
+- 594
+: 605 3 6 What
+: 609 2 6 ever 
+: 612 3 4 you 
+: 616 8 4 need 
+- 626
+: 638 3 6 What
+: 642 2 6 ever 
+* 645 3 7 you 
+* 649 8 9 use 
+- 659
+: 670 3 7 What
+: 674 2 7 ever 
+: 677 3 6 you 
+: 681 5 6 win 
+- 688
+: 702 3 7 What
+: 706 2 7 ever 
+: 709 3 6 you 
+: 713 10 6 lose 
+- 725
+: 745 3 2 Stop 
+: 751 4 2 start 
+: 759 4 2 here 
+: 764 3 2 we 
+: 768 3 2 go 
+: 773 3 2 a
+: 777 3 2 gain 
+- 782
+: 802 3 2 On 
+: 807 3 2 the 
+: 811 3 2 mic 
+: 816 3 2 I’m 
+: 820 3 2 the 
+: 825 3 2 lu
+: 830 7 2 ckiest 
+: 838 4 2 man 
+- 844
+: 866 3 0 Gon
+: 871 2 0 na 
+: 874 2 0 get, 
+: 881 2 0 gon
+: 885 2 0 na 
+: 890 3 0 make 
+: 896 2 0 your 
+: 900 2 0 bo
+: 904 2 0 dy 
+: 908 3 0 sweat 
+- 913
+: 929 3 0 Check 
+: 933 3 0 my 
+: 937 3 0 lyri
+: 942 3 0 cal 
+: 947 5 0 set 
+: 957 4 0 and 
+: 962 3 0 you 
+: 966 3 0 will 
+: 971 4 0 never 
+: 976 4 0 for
+: 983 4 0 get 
+- 989
+: 992 3 0 I’m 
+: 997 3 0 the 
+: 1004 4 0 hard
+: 1011 3 0 core 
+: 1017 4 0 ti
+: 1023 4 0 tan, 
+: 1033 3 0 a 
+: 1037 3 0 legend 
+: 1041 3 0 in 
+: 1047 6 0 time 
+- 1055
+: 1056 3 0 Gon
+: 1060 3 0 na 
+: 1065 3 0 rock 
+: 1073 3 0 to 
+: 1077 4 0 the 
+: 1082 4 0 rhythm 
+: 1091 3 0 with 
+: 1096 3 0 the 
+: 1100 3 0 lyri
+: 1105 3 0 cal 
+: 1109 3 0 run 
+- 1114
+: 1124 3 0 On 
+: 1128 3 0 the 
+: 1132 4 0 mi
+: 1137 3 0 cro
+: 1141 4 0 phone 
+: 1153 3 0 like 
+: 1157 3 0 a 
+: 1161 3 0 nu
+: 1166 3 0 clear 
+: 1172 3 0 at
+: 1176 3 0 tack 
+- 1181
+: 1185 4 0 Flash
+: 1191 3 0 back 
+: 1199 3 0 going 
+: 1204 3 0 mad 
+- 1209
+: 1218 3 0 Like 
+: 1222 3 0 the 
+: 1226 3 0 DJ’s 
+: 1231 3 0 on 
+: 1235 3 0 the 
+: 1240 5 0 decks 
+- 1246
+: 1246 2 7 What
+: 1249 3 7 ever 
+: 1253 3 6 you 
+: 1257 4 6 want 
+- 1263
+: 1277 3 7 What
+: 1281 3 7 ever 
+: 1285 3 6 you 
+: 1289 6 6 like 
+- 1297
+: 1309 3 7 What
+: 1313 3 7 ever 
+: 1317 3 6 you 
+* 1321 4 6 say 
+- 1326
+: 1326 1 7 You 
+: 1328 5 7 pay 
+: 1334 2 6 your 
+: 1337 2 6 money
+: 1340 1 6 ~ 
+- 1342
+: 1342 2 7 You 
+: 1345 4 7 take 
+: 1350 1 6 your 
+: 1352 8 6 choice 
+- 1362
+: 1373 3 6 What
+: 1377 2 6 ever 
+: 1380 3 4 you 
+: 1384 8 4 need 
+- 1394
+: 1406 3 6 What
+: 1410 2 6 ever 
+: 1413 3 7 you 
+: 1417 8 9 use 
+- 1427
+: 1438 3 7 What
+: 1442 2 7 ever 
+: 1445 3 6 you 
+* 1449 5 6 win 
+- 1456
+: 1470 3 7 What
+: 1474 2 7 ever 
+: 1477 3 6 you 
+: 1481 10 6 lose 
+- 1492
+F 1493 8 3 Yeah 
+- 1503
+: 1504 3 7 What
+: 1508 2 7 ever 
+: 1511 3 6 you 
+: 1515 4 6 want 
+- 1521
+: 1535 3 7 What
+: 1539 3 7 ever 
+: 1543 3 6 you 
+: 1547 6 6 like 
+- 1555
+: 1567 3 7 What
+: 1571 3 7 ever 
+: 1575 3 6 you 
+: 1579 4 6 say 
+- 1584
+: 1584 1 7 You 
+: 1586 5 7 pay 
+: 1592 2 6 your 
+: 1595 2 6 money
+: 1598 1 6 ~ 
+- 1600
+: 1600 2 7 You 
+: 1603 4 7 take 
+: 1608 1 6 your 
+: 1610 8 6 choice 
+- 1620
+: 1631 3 6 What
+: 1635 2 6 ever 
+: 1638 3 4 you 
+: 1642 8 4 need 
+- 1652
+: 1664 3 6 What
+: 1668 2 6 ever 
+: 1671 3 7 you 
+: 1675 8 9 use 
+- 1685
+: 1696 3 7 What
+: 1700 2 7 ever 
+: 1703 3 6 you 
+* 1707 5 6 lose 
+- 1714
+: 1760 2 0 My 
+: 1763 3 0 name 
+: 1767 3 0 is 
+: 1772 2 0 MC 
+: 1778 5 0 Sauce 
+- 1785
+: 1804 4 0 Rebel 
+: 1810 3 0 without 
+: 1814 5 0 a 
+: 1820 5 0 cause 
+- 1826
+: 1826 3 0 I’m 
+: 1830 3 0 the 
+: 1834 5 0 king 
+: 1841 3 0 of 
+: 1846 4 0 slips 
+- 1852
+: 1853 3 0 You 
+: 1858 4 0 bet
+: 1863 3 0 ter 
+: 1868 4 0 move 
+: 1873 3 0 your 
+: 1877 5 0 hips 
+- 1884
+: 1893 2 0 Ri
+: 1896 3 0 gi
+: 1900 3 0 dy 
+: 1904 4 0 rigi
+: 1909 3 0 dy 
+: 1913 3 0 rock 
+: 1917 3 0 ri
+: 1921 3 0 gi
+: 1925 3 0 dy 
+* 1929 3 1 rock 
+- 1934
+: 1936 4 0 Can’t 
+: 1942 4 0 get 
+: 1948 4 0 e
+: 1953 4 0 nough 
+- 1958
+: 1959 2 0 Ri
+: 1962 2 0 gi
+: 1966 2 0 dy 
+: 1969 2 0 ri
+: 1973 2 0 gi
+: 1976 2 0 dy 
+: 1979 2 0 rock 
+- 1983
+: 1989 3 0 Co
+: 1993 3 0 ming 
+: 1997 2 0 hard 
+: 2001 2 0 and 
+: 2005 2 0 tough 
+- 2009
+: 2017 3 0 I’m 
+: 2022 3 0 the 
+: 2029 4 0 hard
+: 2036 3 0 core 
+: 2042 4 0 ti
+: 2048 4 0 tan, 
+: 2058 3 0 a 
+: 2062 3 0 legend 
+: 2066 3 0 in 
+: 2072 6 0 time 
+- 2080
+: 2081 3 0 Gon
+: 2085 3 0 na 
+: 2090 3 1 rock 
+: 2098 3 0 to 
+: 2102 4 0 the 
+: 2107 4 0 rhythm 
+: 2116 3 0 with 
+: 2121 3 0 the 
+: 2125 3 0 lyri
+: 2130 3 0 cal 
+: 2134 3 1 run 
+- 2139
+: 2149 3 0 On 
+: 2153 3 0 the 
+: 2157 4 0 mi
+: 2162 3 0 cro
+: 2166 4 1 phone 
+: 2178 3 0 like 
+: 2182 3 0 a 
+: 2186 3 0 nu
+: 2191 3 0 clear 
+: 2197 3 0 at
+: 2201 3 0 tack 
+- 2206
+: 2210 4 2 Flash
+: 2216 3 2 back 
+: 2224 3 2 going 
+: 2229 3 2 mad 
+- 2234
+: 2243 3 2 Like 
+: 2247 3 2 the 
+: 2251 3 2 DJ’s 
+: 2256 3 2 on 
+: 2260 3 2 the 
+: 2265 5 2 decks 
+- 2272
+: 2278 3 7 What
+: 2282 2 7 ever 
+: 2285 3 6 you 
+: 2289 4 6 want, 
+- 2295
+: 2307 2 3 Let 
+: 2310 2 3 me 
+: 2313 3 3 see 
+: 2319 2 3 you 
+: 2322 5 3 hands 
+- 2329
+: 2333 3 7 What
+: 2337 3 7 ever 
+: 2341 3 6 you 
+: 2345 6 6 like, 
+- 2353
+F 2357 2 0 This 
+F 2361 2 0 is 
+F 2364 2 0 Mi
+F 2368 3 0 chael, 
+F 2376 3 0 Rick 
+F 2383 2 0 and 
+F 2388 3 0 Rick 
+- 2393
+: 2397 3 6 What
+: 2401 2 6 ever 
+: 2404 3 4 you 
+: 2408 7 4 need, 
+- 2416
+F 2416 2 0 Fran
+F 2422 1 0 cis 
+F 2427 1 0 and 
+F 2432 2 0 the 
+F 2438 2 0 Screa
+F 2444 2 0 ming 
+F 2452 1 0 Lord 
+- 2455
+: 2461 3 7 What
+: 2465 2 7 ever 
+: 2468 3 6 you 
+: 2472 5 6 win, 
+- 2479
+: 2493 3 7 What
+: 2497 2 7 ever 
+: 2500 3 6 you 
+: 2504 5 6 lose 
+- 2511
+: 2517 3 3 Come 
+: 2521 2 3 On 
+- 2525
+: 2529 2 7 What
+: 2532 3 7 ever 
+: 2536 3 6 you 
+: 2540 4 6 want, 
+- 2546
+: 2547 4 2 Jump 
+: 2553 4 2 jump 
+: 2558 4 2 jump 
+- 2564
+F 2569 3 0 I 
+F 2573 2 0 want 
+F 2577 2 0 you 
+F 2581 2 0 to 
+F 2584 2 0 scream 
+- 2588
+: 2593 3 7 What
+: 2597 3 7 ever 
+: 2601 3 6 you 
+: 2605 6 6 like, 
+- 2612
+F 2612 2 0 Jump 
+F 2615 3 0 jump 
+F 2620 4 0 jump 
+- 2626
+: 2630 3 0 I’m 
+: 2634 2 0 the 
+: 2638 2 0 lyri
+: 2641 2 0 cal 
+: 2644 1 0 ma
+: 2646 5 0 chine 
+- 2653
+: 2654 2 6 What
+: 2657 3 6 ever 
+: 2661 3 4 you 
+: 2665 3 4 need, 
+- 2670
+: 2671 5 2 Yeah 
+: 2678 4 2 yeah 
+* 2683 4 2 yeah 
+- 2689
+: 2691 4 0 I 
+: 2696 2 0 want 
+: 2700 3 0 you 
+: 2704 2 0 to 
+: 2710 4 0 shout 
+- 2716
+: 2720 3 7 What
+: 2724 2 7 ever 
+: 2727 3 6 you 
+: 2731 5 6 win, 
+- 2738
+* 2752 3 7 What
+: 2756 2 7 ever 
+: 2759 3 6 you 
+: 2763 5 6 lose 
+- 2769
+: 2770 5 3 Wat
+: 2776 4 3 ch 
+: 2781 4 3 Out 
+- 2787
+: 3021 6 2 Come 
+: 3030 3 4 On 
+- 3035
+: 3038 3 7 Whatever
+: 3042 2 7 ~ 
+: 3045 3 6 you 
+: 3049 4 6 want 
+- 3055
+: 3069 3 7 Whatever
+: 3073 3 7 ~ 
+: 3077 3 6 you 
+: 3081 6 6 like 
+- 3089
+: 3101 3 7 Whatever
+: 3105 3 7 ~ 
+: 3109 3 6 you 
+: 3113 4 6 say 
+- 3118
+: 3118 1 7 You 
+: 3120 5 7 pay 
+: 3126 2 6 your 
+: 3129 2 6 money
+: 3132 1 6 ~ 
+- 3134
+: 3134 2 7 You 
+: 3137 4 7 take 
+: 3142 1 6 your 
+: 3144 8 6 choice 
+- 3154
+: 3165 3 6 Whatever
+: 3169 2 6 ~ 
+: 3172 3 4 you 
+: 3176 8 4 need 
+- 3186
+: 3198 3 6 Whatever
+: 3202 2 6 ~ 
+: 3205 3 7 you 
+* 3209 8 9 use 
+- 3219
+: 3230 3 7 Whatever
+: 3234 2 7 ~ 
+: 3237 3 6 you 
+: 3241 5 6 win 
+- 3248
+: 3262 3 7 Whatever
+: 3266 2 7 ~ 
+: 3269 3 6 you 
+: 3273 10 6 lose 
+- 3285
+: 3291 4 3 Right 
+: 3297 4 3 Now- 
+- 3303
+* 3390 10 3 Yeah 
+E

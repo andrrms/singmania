@@ -1,0 +1,567 @@
+#ARTIST:Crazy Ex-Girlfriend
+#TITLE:Anti-depressants Are So Not A Big Deal
+#MP3:Crazy Ex-Girlfriend - Anti-depressants Are So Not A Big Deal.mp3
+#CREATOR:Relisch
+#COVER:Crazy Ex-Girlfriend - Anti-depressants Are So Not A Big Deal [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend - Anti-depressants Are So Not A Big Deal [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2019
+#LANGUAGE:English
+#BPM:300
+#GAP:22950
+#VIDEO:v=OG6HZMMDEYA,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/29/5b/7e295bdb-abda-d547-4d4b-116fad8e4f8d/794043198731.jpg/5000x5000bb.jpg
+: 0 3 1 Flu
+: 4 3 2 ox
+: 8 3 -1 et
+: 12 7 -5 ine, 
+: 21 3 1 flu
+: 25 3 2 ox
+: 29 3 -1 et
+: 33 3 -5 ine! 
+- 38
+: 39 3 2 Par
+: 43 4 4 ox
+: 48 1 1 et
+: 50 7 -3 ine, 
+: 60 3 2 par
+: 64 4 4 ox
+: 69 1 1 et
+: 71 1 -3 ine! 
+- 73
+: 73 4 4 Cit
+: 78 5 6 al
+: 84 2 0 o
+: 87 5 -2 pram, 
+: 93 4 4 cit
+: 98 4 6 al
+: 103 2 0 o
+: 106 5 -2 pram! 
+- 113
+: 119 6 -1 Take 
+: 128 7 1 once 
+: 138 5 2 a 
+: 147 4 6 day 
+- 153
+: 154 3 1 Flu
+: 158 3 2 ox
+: 162 3 -1 et
+: 166 7 -5 ine, 
+: 175 3 1 flu
+: 179 3 2 ox
+: 183 3 -1 et
+: 187 3 -5 tine 
+- 192
+: 193 3 2 Par
+: 197 4 4 ox
+: 202 1 1 et
+: 204 7 -3 ine, 
+: 214 3 2 par
+: 218 4 4 ix
+: 223 1 1 et
+: 225 1 -3 ine 
+- 227
+* 227 4 4 Cit
+* 232 5 6 al
+* 238 2 0 o
+* 241 5 -2 pram, 
+* 247 4 4 cit
+* 252 4 6 al
+* 257 2 0 o
+* 260 5 -2 pram 
+- 267
+: 271 6 -1 May 
+: 279 8 1 cause 
+: 289 7 2 dry 
+: 297 9 6 mouth 
+- 308
+: 334 4 -3 From 
+: 339 2 -3 the 
+: 342 3 9 mo
+: 346 4 9 ment 
+: 351 4 9 that 
+: 356 4 9 we 
+: 361 4 9 learn 
+: 366 3 11 to 
+: 370 5 9 walk 
+: 376 6 7 and 
+: 384 9 6 speak 
+- 395
+: 412 4 -3 Our 
+: 417 2 4 par
+: 421 4 4 ents 
+: 426 4 4 tell 
+: 431 3 2 us 
+: 436 3 4 eve
+: 440 2 2 ry
+: 444 5 4 one’s 
+: 451 6 2 uni
+: 459 11 6 que 
+- 472
+: 488 4 -1 Now, 
+: 493 5 9 I’m 
+: 499 3 9 not 
+: 503 3 9 say
+: 507 4 9 ing 
+: 512 3 9 that 
+: 516 2 11 ad
+: 519 7 9 vice 
+: 527 6 7 is 
+: 534 22 6 bad 
+- 558
+: 566 3 2 But 
+: 570 2 4 hon
+: 573 3 4 ey, 
+: 577 4 4 you’re 
+* 582 4 6 not 
+* 588 2 4 spec
+* 591 4 2 ial 
+* 596 4 -1 ’cause 
+* 601 3 1 you’re 
+* 606 1 2 sad 
+- 609
+: 610 2 2 Not 
+: 613 2 2 spec
+: 616 7 -1 ial, 
+: 624 3 2 no 
+: 628 3 -1 you’re 
+: 632 5 2 not 
+- 639
+: 641 3 -3 The 
+: 645 6 -1 but
+: 652 6 -1 cher, 
+: 659 3 -3 the 
+: 664 5 -1 bak
+: 671 6 -1 er, 
+: 678 3 -3 the 
+: 683 5 1 gro
+: 690 4 1 ce
+: 696 4 -1 ry 
+: 701 8 1 clerk 
+- 711
+: 714 3 -1 They’re 
+: 718 5 1 all 
+: 724 3 1 on 
+: 728 3 1 2
+: 732 5 4 0 
+: 738 1 4 mil
+: 740 2 2 li
+: 743 8 4 grams 
+: 752 7 9 or 
+: 760 23 6 so 
+- 785
+: 788 3 -3 The 
+: 792 7 -1 mov
+: 800 5 -1 ers 
+- 807
+: 808 3 -3 The 
+: 812 6 -1 shak
+: 819 4 -1 ers 
+- 825
+: 826 3 -3 The 
+: 830 5 1 hap
+: 836 6 1 py 
+: 843 5 -1 home
+: 849 6 1 mak
+: 856 6 1 ers 
+- 864
+: 865 2 -1 You’d 
+: 868 3 1 be 
+: 872 1 -1 sur
+: 874 8 1 prised 
+: 883 2 1 how 
+: 886 2 1 ma
+: 889 5 4 ny 
+: 895 4 6 of 
+: 900 3 10 them 
+: 904 3 10 you 
+: 908 24 11 know 
+- 934
+: 943 4 11 An
+: 948 7 11 ti-
+: 956 4 9 de
+: 961 6 11 pres
+: 968 7 6 sants 
+: 976 2 6 are 
+: 979 5 9 so 
+: 985 4 11 not 
+: 990 2 9 a 
+: 993 2 7 big 
+: 997 12 6 deal 
+- 1011
+* 1014 1 9 B
+* 1016 2 11 ig 
+* 1019 2 11 whoop, 
+* 1022 1 9 you’re 
+* 1024 2 11 on 
+: 1027 1 9 an 
+: 1029 2 11 an
+: 1032 1 9 ti-
+: 1034 2 11 de
+: 1037 6 11 pres
+: 1044 4 6 sant 
+- 1050
+: 1051 7 9 Sweet 
+: 1059 6 11 cheeks, 
+: 1066 3 9 here’s 
+: 1070 2 7 the 
+: 1073 7 6 deal 
+- 1082
+: 1091 5 7 Wel
+: 1097 4 7 come 
+: 1102 4 7 to 
+: 1107 3 6 the 
+: 1111 10 7 club 
+: 1125 5 -1 with 
+: 1131 3 1 op
+: 1135 7 1 en 
+: 1143 4 -1 ad
+: 1148 5 1 mis
+: 1154 6 4 sion 
+- 1162
+: 1163 3 -3 You’re 
+: 1167 6 6 cast 
+: 1174 5 6 in 
+: 1180 5 4 the 
+: 1186 9 6 play 
+: 1198 5 -3 that 
+: 1204 6 -1 has 
+: 1211 7 -1 no 
+: 1219 3 -3 au
+: 1223 5 -1 di
+: 1229 5 2 tion 
+- 1236
+: 1237 5 6 Yes, 
+: 1243 1 7 eve
+: 1245 2 6 ry
+: 1248 6 7 one 
+: 1255 5 6 is 
+: 1261 3 7 spec
+: 1265 8 -1 ial, 
+: 1275 4 -1 that’s 
+: 1280 3 1 us
+: 1284 2 -1 ual
+: 1287 5 1 ly 
+: 1293 2 -1 the 
+: 1296 10 1 sitch 
+- 1308
+: 1312 3 -3 But 
+: 1316 3 6 when 
+: 1320 4 6 it 
+: 1325 5 6 comes 
+: 1331 4 4 to 
+: 1336 11 6 meds, 
+* 1349 3 4 you’re 
+* 1353 5 6 such 
+* 1359 3 4 a 
+* 1363 3 2 ba
+* 1367 6 1 sic 
+* 1375 9 2 bitch 
+- 1386
+: 1448 3 -3 I 
+: 1452 4 -1 lost 
+: 1458 2 -3 my 
+: 1461 3 -1 job 
+: 1465 4 -3 and 
+: 1471 3 -1 for 
+: 1475 2 -3 six 
+: 1478 5 -1 months, 
+: 1485 3 -3 I 
+: 1490 2 1 could
+: 1493 3 1 n’t 
+: 1498 3 1 leave 
+: 1503 2 -1 my 
+: 1507 6 1 bed, 
+F 1516 2 6 yeah! 
+- 1520
+: 1523 2 0 When 
+: 1526 1 -1 my 
+: 1528 2 1 hus
+: 1531 2 1 band 
+: 1534 3 1 died, 
+: 1539 2 -1 I 
+: 1542 3 1 stopped 
+: 1546 2 -1 bath
+: 1549 1 1 ing 
+- 1551
+: 1552 4 6 And 
+: 1557 4 10 watched 
+: 1562 3 11 Christ
+: 1566 3 11 ian 
+: 1570 1 9 T
+: 1572 2 11 V 
+: 1575 3 9 in
+: 1579 7 11 stead, 
+: 1587 8 -1 ooh! 
+- 1597
+: 1600 5 -1 Now 
+: 1607 6 -1 we’re 
+: 1614 5 -3 on 
+: 1620 6 -1 pills 
+: 1628 5 -1 and 
+: 1634 4 -3 it’s 
+: 1639 5 1 less 
+: 1646 4 1 of 
+: 1652 4 -1 a 
+: 1657 10 1 slog 
+- 1669
+: 1675 7 1 Just 
+: 1684 8 1 ask 
+: 1695 4 6 a
+: 1700 8 6 ny 
+: 1709 3 10 a
+: 1714 8 11 bused 
+: 1723 4 11 res
+: 1729 4 9 cue 
+: 1734 12 11 dog 
+- 1748
+F 1773 99 6 Bark 
+- 1874
+: 1875 3 6 The 
+: 1879 3 7 or
+: 1883 2 7 i
+: 1886 7 7 gins 
+: 1894 3 6 of 
+: 1898 10 7 life 
+: 1915 4 -1 are 
+: 1920 2 1 mes
+: 1923 3 1 sy 
+: 1927 2 1 and 
+: 1930 3 1 im
+: 1934 3 -1 pre
+: 1938 8 1 cise 
+- 1948
+: 1953 3 -1 We’re 
+: 1957 4 6 all 
+: 1962 1 6 the 
+: 1964 1 6 re
+: 1966 5 6 sult 
+: 1972 3 4 of 
+: 1976 7 6 natur
+: 1984 4 2 al 
+: 1989 5 -3 sel
+: 1995 6 1 ec
+: 2002 8 -1 tion 
+- 2012
+F 2013 9 6 True! 
+: 2027 5 -1 So 
+* 2033 3 7 why 
+* 2037 2 7 should 
+* 2040 5 6 I 
+* 2046 4 6 feel 
+* 2051 6 7 crap
+* 2058 2 2 py 
+- 2062
+: 2063 1 1 A
+: 2065 4 -1 bout 
+: 2070 2 1 some
+: 2073 2 1 thing 
+: 2076 2 1 that 
+: 2079 4 1 makes 
+: 2084 3 -1 me 
+: 2088 6 1 hap
+: 2095 4 -3 py? 
+- 2101
+: 2102 2 -3 Though 
+: 2105 2 -3 it 
+: 2108 3 6 may 
+: 2112 2 6 be 
+: 2116 4 6 hard 
+: 2121 3 4 to 
+: 2125 4 6 main
+: 2130 4 6 tain 
+: 2135 4 9 an 
+: 2140 3 6 er
+: 2145 5 13 ect
+: 2151 9 11 ion 
+- 2162
+F 2182 8 6 Maybe 
+F 2191 4 6 you 
+F 2196 2 6 should 
+F 2199 5 6 adjust 
+F 2205 3 6 your 
+F 2210 7 6 dosage! 
+- 2219
+F 2220 2 6 I 
+F 2223 6 6 already 
+F 2231 4 6 tried 
+F 2236 3 6 that, 
+F 2240 5 6 didn’t 
+F 2247 6 6 work 
+- 2255
+F 2256 4 6 Have 
+F 2262 3 6 you 
+F 2266 6 6 tried 
+F 2273 6 6 another 
+F 2281 11 6 medication? 
+- 2294
+F 2295 4 6 Yep, 
+F 2301 3 6 but 
+F 2305 2 6 that 
+F 2308 4 6 one 
+F 2314 2 6 made 
+F 2317 1 6 me 
+F 2319 3 6 gain 
+F 2323 5 6 weight 
+- 2330
+F 2332 4 6 Oh, 
+F 2337 3 6 that 
+F 2342 7 6 totally 
+F 2351 3 6 happened 
+F 2356 3 6 to 
+F 2360 4 6 me. 
+- 2366
+F 2371 3 6 It 
+F 2375 3 6 got 
+F 2379 4 6 better 
+F 2384 6 6 within 
+F 2391 2 6 a 
+F 2394 2 6 few 
+F 2398 5 6 months 
+- 2405
+F 2406 13 6 Thanks, 
+F 2425 10 6 cool! 
+- 2437
+: 2444 4 11 An
+: 2449 7 11 ti-
+: 2457 4 9 de
+: 2462 6 11 pres
+: 2469 7 6 sants 
+: 2477 2 6 are 
+: 2480 5 9 so 
+: 2486 4 11 not 
+: 2491 2 9 a 
+: 2494 2 7 big 
+: 2498 12 6 deal 
+- 2512
+: 2513 1 9 B
+: 2515 3 11 ig 
+: 2519 2 11 whoop, 
+* 2522 1 9 you’re 
+* 2524 1 11 on 
+* 2526 1 9 an 
+* 2528 2 11 an
+* 2531 1 9 ti-
+* 2533 3 11 de
+* 2537 6 11 pr
+* 2544 1 6 es
+* 2546 2 6 ant 
+- 2550
+F 2551 4 6 Take 
+F 2557 4 6 two 
+F 2562 1 6 with 
+F 2564 1 6 or 
+F 2566 6 6 without 
+F 2573 1 6 a 
+F 2575 5 6 meal 
+- 2582
+F 3097 3 1 Flu
+F 3101 3 2 ox
+F 3105 3 -1 et
+F 3109 7 -5 ine, 
+F 3118 3 1 flu
+F 3122 3 2 ox
+F 3126 3 -1 et
+F 3130 3 -5 ine 
+- 3135
+F 3136 3 2 Par
+F 3140 4 4 ox
+F 3145 1 1 et
+F 3147 7 -3 ine, 
+F 3157 3 2 par
+F 3161 4 4 ox
+F 3166 1 1 et
+F 3168 1 -3 ine 
+- 3170
+F 3171 5 6 Our 
+F 3177 5 6 lawyers 
+F 3183 2 6 won’t 
+F 3187 2 6 let 
+F 3190 2 6 us 
+F 3193 2 6 say 
+F 3196 4 6 brand 
+F 3201 8 6 names 
+- 3211
+: 3250 4 11 An
+: 3255 7 11 ti-
+: 3263 4 9 de
+: 3268 6 11 pres
+: 3275 7 6 sants 
+: 3284 4 6 are 
+: 3289 2 9 so 
+: 3292 1 9 so 
+: 3294 4 9 so 
+: 3299 1 9 not 
+: 3301 2 9 a 
+: 3304 3 7 big 
+: 3308 9 6 deal 
+- 3319
+: 3320 2 9 B
+: 3323 3 11 ig 
+: 3327 3 11 whoop, 
+: 3331 1 9 you’re 
+: 3333 1 11 on 
+: 3335 1 9 an 
+: 3337 2 11 an
+: 3340 1 9 ti-
+: 3342 3 11 de
+: 3346 4 11 pres
+: 3351 1 6 sa
+: 3353 2 6 nts 
+- 3357
+F 3358 3 6 Bark 
+- 3363
+F 3372 8 6 Connor, 
+F 3383 8 6 heel! 
+- 3393
+: 3395 5 6 Some 
+: 3401 4 7 cry 
+: 3406 4 7 that 
+: 3411 4 7 in 
+: 3416 3 6 the 
+: 3420 4 7 past, 
+: 3425 3 2 we 
+: 3429 3 2 did
+: 3434 3 -1 n’t 
+: 3438 2 0 med
+: 3441 2 0 i
+: 3444 3 0 cate 
+: 3448 4 0 ev
+: 3453 3 -1 ery
+: 3457 7 0 one 
+- 3466
+F 3472 9 6 Cool, 
+F 3482 3 6 witch 
+F 3486 3 6 tri
+F 3491 5 6 als 
+: 3498 1 6 and 
+: 3500 2 6 the 
+: 3503 2 6 Cru
+: 3506 7 6 sades 
+* 3514 3 11 sound 
+* 3518 4 11 like 
+* 3523 2 11 so 
+* 3526 3 9 much 
+* 3531 11 11 fun 
+- 3544
+: 3551 7 7 An
+: 3559 6 7 ti-
+: 3566 3 6 de
+: 3570 6 7 pres
+: 3577 8 2 sants 
+: 3589 7 1 are 
+: 3598 8 -1 so 
+: 3607 8 1 com
+: 3616 3 4 mon 
+- 3621
+: 3622 4 4 That 
+: 3627 2 7 tak
+: 3630 2 6 ing 
+: 3633 5 7 them 
+: 3639 4 7 is 
+: 3644 5 11 all 
+: 3650 3 9 we 
+: 3655 3 11 have 
+: 3659 4 9 in 
+: 3664 6 11 com
+: 3671 20 14 mon 
+E

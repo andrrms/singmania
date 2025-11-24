@@ -1,0 +1,207 @@
+#ARTIST:Simple Plan
+#TITLE:What’s New Scooby-Doo?
+#MP3:Simple Plan - What’s New Scooby-Doo?.mp3
+#CREATOR:Viktor1234678
+#COVER:Simple Plan - What’s New Scooby-Doo? [CO].jpg
+#BACKGROUND:Simple Plan - What’s New Scooby-Doo? [BG].jpg
+#YEAR:2002
+#LANGUAGE:English
+#BPM:316
+#GAP:2440
+#VIDEO:a=lG3H1-tKzmM,v=JI-KMDm8x0U,co=whats-new-scoobydoo-62b75d94cdef5.jpg
+: 0 3 3 What’s 
+: 4 3 5 new, 
+: 8 3 3 Scoo
+: 12 3 5 by-
+: 16 5 1 Doo? 
+- 26
+: 28 3 1 We’re 
+: 32 3 3 co
+: 36 3 5 ming 
+: 40 3 3 af
+: 44 3 1 ter 
+: 48 6 0 you 
+- 58
+: 60 3 -2 You’re 
+: 64 3 1 gon
+: 68 3 3 na 
+: 77 9 5 solve 
+: 88 5 5 that 
+: 96 3 3 my
+: 100 7 1 ste
+: 108 3 1 ry
+: 112 3 -2 ~ 
+- 121
+: 124 3 -2 I 
+: 128 3 3 see 
+: 132 3 5 you, 
+: 136 3 3 Scoo
+: 140 3 5 by-
+: 144 7 1 Doo 
+- 154
+: 156 3 -2 The 
+: 160 3 3 trail 
+: 164 3 5 leads 
+: 168 3 3 back 
+: 172 3 1 to 
+: 176 7 0 you 
+- 189
+: 192 3 3 What’s 
+: 196 3 5 new, 
+: 200 3 3 Scoo
+: 204 3 5 by-
+: 208 5 5 ~
+: 216 12 1 Doo? 
+- 238
+: 255 3 3 What’s 
+: 259 3 5 new, 
+: 263 3 3 Scoo
+: 267 3 5 by-
+: 271 7 1 Doo? 
+- 282
+: 284 3 -2 We’re 
+: 288 3 3 gon
+: 292 3 5 na 
+: 296 3 3 fol
+: 300 3 1 low 
+: 304 7 0 you 
+- 314
+: 316 3 -2 You’re 
+: 320 3 1 gon
+: 324 3 3 na 
+: 332 3 3 solve
+: 336 5 5 ~ 
+: 344 7 5 that 
+: 352 3 3 mys
+: 356 7 1 te
+: 364 3 1 ry
+: 368 3 -2 ~ 
+- 377
+: 380 3 0 We 
+: 384 3 3 see 
+: 388 3 5 you, 
+: 392 3 3 Scoo
+: 396 3 5 by-
+: 400 7 1 Doo 
+- 410
+: 412 3 1 We’re 
+: 416 3 3 co
+: 420 3 5 ming 
+: 424 3 3 af
+: 428 3 1 ter 
+: 432 6 0 you 
+- 444
+: 447 3 3 What’s 
+: 451 3 5 new, 
+: 455 3 3 Scoo
+: 459 3 5 by-
+: 463 5 5 ~
+: 471 12 1 Doo? 
+- 504
+: 544 3 -2 Don’t 
+: 548 5 0 look 
+: 557 5 0 back! 
+- 572
+: 576 3 0 You 
+: 580 3 3 may 
+: 588 10 6 find 
+: 601 6 6 a
+: 608 3 6 no
+: 612 5 6 ther 
+: 620 7 5 clue 
+- 648
+: 673 3 0 Scoo
+: 677 5 0 by 
+: 686 5 0 snacks 
+: 704 3 1 will 
+: 708 3 3 be 
+: 716 9 6 wai
+: 728 5 6 ting 
+: 735 3 6 here 
+: 739 6 6 for 
+: 748 9 8 you 
+- 765
+: 768 3 3 What’s 
+: 772 3 5 new, 
+: 776 3 3 Scoo
+: 780 3 5 by-
+: 784 5 1 Doo? 
+- 794
+: 796 3 1 We’re 
+: 800 3 3 co
+: 804 3 5 ming 
+: 808 3 3 af
+: 812 3 1 ter 
+: 816 6 0 you 
+- 827
+: 829 3 -2 You’re 
+: 833 3 1 gon
+: 837 3 3 na 
+: 846 9 5 solve 
+: 857 5 5 that 
+: 865 3 3 mys
+: 869 7 1 te
+: 877 3 1 ry
+: 881 3 -2 ~ 
+- 890
+: 892 3 -2 I 
+: 896 3 3 see 
+: 900 3 5 you, 
+: 904 3 3 Scoo
+: 908 3 5 by-
+: 912 7 1 Doo 
+- 922
+: 924 3 -2 The 
+: 928 3 3 trail 
+: 932 3 5 leads 
+: 936 3 3 back 
+: 940 3 1 to 
+: 944 7 0 you 
+- 957
+: 960 3 3 What’s 
+: 964 3 5 new, 
+: 968 3 3 Scoo
+: 972 3 5 by-
+: 976 5 5 ~
+: 984 12 1 Doo? 
+- 1006
+: 1024 3 3 Na, 
+: 1028 3 5 na, 
+: 1032 3 3 na, 
+: 1036 3 5 na, 
+: 1040 7 1 na 
+- 1054
+: 1057 3 3 Na, 
+: 1061 3 5 na, 
+: 1065 3 3 na, 
+: 1069 3 1 na, 
+: 1073 7 0 na 
+- 1086
+: 1088 3 1 Na, 
+: 1092 3 3 na, 
+: 1100 8 5 na, 
+: 1111 5 5 na, 
+: 1120 3 3 na, 
+: 1124 6 1 na, 
+: 1132 3 1 na
+: 1136 5 -2 ~ 
+- 1149
+: 1152 3 3 Na, 
+: 1156 3 5 na, 
+: 1160 3 3 na, 
+: 1164 3 5 na, 
+: 1168 7 1 na 
+- 1181
+: 1184 3 3 Na, 
+: 1188 3 5 na, 
+: 1192 3 3 na, 
+: 1196 3 1 na, 
+: 1200 7 0 na 
+- 1213
+: 1215 3 3 What’s 
+: 1219 3 5 new, 
+: 1223 3 3 Scoo
+: 1227 3 5 by-
+: 1231 5 5 ~
+: 1239 12 1 Doo? 
+E

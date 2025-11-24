@@ -1,0 +1,175 @@
+#ARTIST:Tiny Tim
+#TITLE:Tip Toe Thru The Tulips With Me
+#MP3:Tiny Tim - Tip Toe Thru The Tulips With Me.mp3
+#CREATOR:jabolko13
+#COVER:Tiny Tim - Tip Toe Thru The Tulips With Me [CO].jpg
+#BACKGROUND:Tiny Tim - Tip Toe Thru The Tulips With Me [BG].jpg
+#YEAR:1968
+#LANGUAGE:English
+#BPM:271.47
+#GAP:3790
+#VIDEO:a=zfLU3Mv_O9w,v=-lC5GQwal8U,co=https://images.genius.com/caadcaa43e0d4bfdcc3420c8364c10cc.750x750x1.jpg
+#VIDEOGAP:-2.1
+: 0 6 8 Tip
+: 9 9 8 toe 
+: 25 6 13 through 
+: 32 2 11 the 
+: 35 5 8 win
+: 42 8 9 dow 
+- 52
+: 58 5 18 By 
+: 64 3 13 the 
+: 68 4 11 win
+: 74 9 9 dow, 
+: 90 4 13 that 
+: 95 3 13 is 
+: 99 4 13 where 
+: 104 8 16 I’ll 
+: 114 6 4 be 
+- 121
+: 121 6 6 Come 
+: 130 5 9 tip
+: 137 10 6 toe 
+: 153 4 13 through 
+: 158 2 11 the 
+: 161 5 9 tu
+: 168 8 4 lips 
+: 184 6 9 with 
+: 192 12 6 me
+: 205 5 4 ~
+: 211 17 4 ~ 
+- 230
+* 244 7 18 Oh
+* 252 19 11 ~
+* 272 6 9 ~, 
+: 280 6 6 tip
+: 289 11 8 toe 
+: 306 7 11 from 
+: 314 1 9 the 
+: 316 7 9 gar
+: 324 8 9 den 
+- 334
+: 337 4 9 By
+: 342 1 2 ~ 
+: 344 1 1 the 
+: 346 7 9 gar
+: 354 12 11 den 
+: 371 2 4 of
+: 374 1 1 ~ 
+: 376 1 1 the 
+: 378 4 1 wi
+: 383 7 4 llow 
+: 391 6 4 tree 
+- 399
+: 402 5 6 And 
+: 409 6 8 tip
+: 416 11 8 toe 
+: 433 6 12 through 
+: 440 2 11 the 
+: 443 6 8 tu
+: 450 10 2 lips 
+: 466 6 9 with 
+: 475 10 8 me
+: 486 27 4 ~ 
+- 515
+* 557 3 16 Knee
+* 561 2 16 ~
+* 564 4 13 ~
+* 569 2 4 ~ 
+: 572 21 4 deep 
+: 596 5 16 in 
+: 603 7 16 flo
+: 611 8 13 wers 
+: 620 5 16 we’ll 
+: 626 23 13 stray 
+- 651
+: 667 8 14 We’ll
+: 676 4 11 ~ 
+: 683 25 4 keep 
+: 718 5 14 the 
+: 736 9 13 sho
+: 746 8 14 wers 
+: 755 3 14 a
+: 759 11 11 way 
+- 771
+: 771 6 -2 And 
+: 778 5 4 if 
+: 785 6 6 I 
+: 792 7 6 kiss 
+: 800 10 8 you 
+: 817 5 13 in 
+: 823 3 11 the 
+: 827 7 9 gar
+: 835 10 9 den, 
+: 849 5 14 in 
+: 855 3 13 the 
+: 859 5 11 moon
+: 865 10 11 light 
+- 877
+: 880 2 1 Will 
+: 883 5 1 you 
+: 889 5 1 par
+: 895 8 4 don 
+: 904 7 -8 me? 
+- 912
+: 912 7 6 And 
+: 921 5 8 tip
+: 928 12 8 toe 
+: 944 4 9 through 
+: 949 3 14 the 
+: 953 7 9 tu
+: 961 9 6 lips 
+: 978 6 8 with 
+: 985 11 8 me
+: 997 28 4 ~ 
+- 1027
+* 1315 7 16 May
+* 1323 11 9 ~
+* 1335 21 4 be 
+: 1362 6 16 it’s 
+: 1369 6 16 flo
+: 1377 8 13 wers 
+: 1386 6 16 you 
+: 1393 8 16 stray
+: 1402 19 13 ~ 
+: 1432 7 14 will
+: 1440 4 11 ~ 
+: 1448 3 -1 keep
+: 1452 21 -10 ~ 
+: 1482 5 2 the 
+: 1502 8 1 sho
+: 1511 7 6 wers
+: 1519 5 4 ~ 
+: 1525 2 1 a 
+: 1528 8 -1 way 
+- 1537
+* 1537 5 -3 And 
+* 1544 5 4 if 
+* 1550 7 6 I 
+* 1558 6 6 kiss 
+* 1565 10 6 you 
+* 1583 3 13 in 
+* 1587 2 9 the 
+* 1590 6 9 gar
+* 1597 9 9 den 
+* 1612 5 14 in 
+* 1618 3 14 the 
+* 1622 6 9 moon
+* 1629 10 11 light 
+- 1641
+* 1642 4 11 Will 
+* 1647 3 13 you 
+* 1652 7 13 par
+* 1660 6 16 don 
+* 1668 4 4 me
+* 1673 3 6 ~ 
+: 1677 7 6 and 
+: 1685 5 8 tip
+: 1692 12 6 toe 
+: 1710 4 13 through 
+: 1715 1 11 the 
+: 1717 6 9 tu
+: 1724 8 6 lips 
+: 1740 8 11 with 
+* 1749 35 16 me? 
+E

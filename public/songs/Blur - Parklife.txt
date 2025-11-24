@@ -1,0 +1,413 @@
+#ARTIST:Blur
+#TITLE:Parklife
+#MP3:Blur - Parklife.mp3
+#CREATOR:Diddlmaus30mg
+#EDITION:SingStar Legends [ES|FR|UK]
+#GENRE:Rock
+#YEAR:1994
+#LANGUAGE:English
+#BPM:276.92
+#GAP:22700
+#VIDEO:v=YSuHrTfcikU,co=parklife-57ded5a885eaf.jpg,bg=blur-5469a918e105a.jpg
+F 0 6 16 Oi 
+- 8
+F 269 2 16 Con
+F 273 1 16 fi
+F 275 4 16 dence 
+F 281 1 16 is 
+F 283 1 16 a 
+F 285 3 16 pre
+F 289 1 16 fe
+F 291 2 16 rence 
+- 294
+F 294 1 4 For 
+F 296 1 4 the 
+F 298 3 4 ha
+F 302 2 4 bi
+F 305 1 4 tu
+F 307 2 4 al 
+F 310 2 4 vo
+F 313 6 4 yeur 
+- 320
+F 321 3 4 Of 
+F 325 3 4 what 
+F 329 3 4 is 
+F 333 3 4 known 
+F 338 4 4 as 
+- 344
+: 377 5 16 Park
+: 385 5 14 life 
+- 392
+F 395 1 16 And 
+F 397 3 16 mor
+F 401 3 16 ning 
+F 405 3 16 soup 
+F 411 1 16 can 
+F 413 1 16 be 
+F 415 2 16 a
+F 418 6 16 void
+F 425 1 16 ed 
+- 427
+F 427 1 4 If 
+F 429 1 4 you 
+F 431 2 4 take 
+F 435 1 4 a 
+F 437 5 4 route 
+F 443 6 4 straight 
+F 453 6 4 through 
+- 461
+F 462 2 4 What 
+F 465 4 4 is 
+F 471 4 4 known 
+F 477 4 4 as 
+- 483
+: 505 5 16 Park
+: 513 5 14 life 
+- 520
+F 522 3 16 John’s 
+F 527 3 16 got 
+F 533 3 16 brew
+F 537 3 16 er’s 
+F 541 3 16 droop 
+- 545
+F 545 1 4 He 
+F 547 3 4 gets 
+F 552 3 4 in
+F 557 1 4 ti
+F 559 2 4 mi
+F 562 3 4 da
+F 566 2 4 ted 
+- 569
+F 569 2 4 By 
+F 572 3 4 the 
+F 577 3 4 dir
+F 581 3 4 ty 
+F 585 3 4 pi
+F 589 3 4 geons 
+- 594
+F 600 6 16 They 
+F 607 3 16 love 
+F 611 1 16 a 
+F 613 1 16 bit 
+F 615 2 16 of 
+F 618 2 16 it 
+- 622
+* 633 5 16 Park
+: 641 5 14 life 
+- 648
+F 650 4 16 Who’s 
+F 656 4 16 that 
+F 664 3 16 gut 
+F 668 4 16 lord 
+F 674 4 16 march
+F 680 4 16 ing? 
+- 686
+F 690 5 4 You 
+F 696 2 4 should 
+F 699 2 4 cut 
+F 703 3 4 down 
+- 707
+F 707 1 4 On 
+F 709 2 4 your 
+F 712 4 4 pork
+F 719 4 4 life 
+F 725 2 4 mate 
+- 729
+F 730 4 16 Get 
+F 736 4 16 some 
+F 741 2 16 ex
+F 744 2 16 er
+F 748 5 16 cise 
+- 755
+: 777 20 16 All 
+: 801 3 14 the 
+: 805 6 9 peo
+: 813 12 11 ple 
+- 827
+: 849 5 16 So 
+: 857 3 16 ma
+: 861 5 14 ny 
+: 869 6 9 peo
+: 877 12 11 ple 
+- 891
+: 893 2 11 And 
+: 897 5 11 they 
+* 905 10 19 all 
+: 921 12 18 go 
+: 937 5 16 hand 
+: 945 3 16 in 
+: 949 8 11 hand 
+- 959
+: 969 6 12 Hand 
+: 977 6 12 in 
+: 985 6 11 hand 
+: 993 6 14 through 
+: 1001 12 9 their 
+: 1025 4 10 park
+: 1033 10 11 life 
+- 1045
+F 1084 4 16 Know 
+F 1089 1 16 what 
+F 1091 1 16 I 
+F 1093 3 16 mean 
+- 1098
+F 1228 2 4 I 
+F 1232 2 4 get 
+F 1235 2 4 up 
+F 1238 1 4 when 
+F 1240 2 4 I 
+F 1243 4 4 want 
+- 1249
+F 1252 2 4 Ex
+F 1255 3 4 cept 
+F 1259 4 4 on 
+F 1265 4 4 Wednes
+F 1272 2 4 days 
+- 1275
+F 1276 1 16 When 
+F 1278 4 16 I 
+F 1283 3 16 get 
+F 1289 4 16 rude
+F 1295 2 16 ly 
+- 1298
+F 1298 2 16 A
+F 1301 4 16 wa
+F 1306 4 16 kened 
+F 1312 2 16 by 
+F 1315 2 16 the 
+F 1318 4 16 dust
+F 1323 3 16 men 
+- 1328
+: 1337 5 16 Park
+: 1345 5 14 life 
+- 1352
+F 1354 2 16 I 
+F 1357 4 16 put 
+F 1362 4 16 my 
+F 1367 4 16 trou
+F 1372 1 16 sers 
+F 1374 4 16 on 
+- 1380
+F 1384 1 16 Have 
+F 1386 3 16 a 
+F 1390 2 16 cup 
+F 1393 2 16 of 
+F 1396 4 16 tea 
+- 1402
+F 1407 1 4 And 
+F 1409 3 4 I 
+F 1417 3 4 think 
+F 1421 1 4 a
+F 1423 4 4 bout 
+F 1432 3 4 leav
+F 1436 4 4 ing 
+F 1441 2 4 the 
+F 1444 3 4 house 
+- 1449
+: 1465 5 16 Park
+* 1473 5 14 life 
+- 1480
+F 1482 4 16 I 
+F 1487 4 16 feed 
+F 1492 2 16 the 
+F 1495 2 16 pi
+F 1498 4 16 geons 
+- 1504
+F 1507 2 4 I 
+F 1510 4 4 some
+F 1515 4 4 times 
+F 1521 4 4 feed 
+F 1526 1 4 the 
+F 1528 3 4 spar
+F 1532 4 4 rows 
+F 1537 4 4 too 
+- 1543
+F 1548 1 16 It 
+F 1550 2 16 gives 
+F 1553 1 16 me 
+F 1555 5 16 a 
+F 1561 4 16 sense 
+F 1566 2 16 of 
+- 1569
+F 1569 1 16 E
+F 1571 5 16 nor
+F 1577 4 16 mous 
+F 1583 3 16 well 
+F 1587 2 16 be
+F 1590 2 16 ing 
+- 1593
+: 1593 5 16 Park
+: 1601 5 14 life 
+- 1608
+F 1611 2 16 And 
+F 1614 1 16 then 
+F 1616 2 16 I’m 
+F 1619 3 16 hap
+F 1623 3 16 py 
+- 1627
+F 1627 1 16 For 
+F 1629 2 16 the 
+F 1632 2 16 rest 
+F 1637 1 16 of 
+F 1639 2 16 the 
+F 1642 4 16 day 
+- 1648
+F 1651 5 4 Safe 
+F 1657 1 4 in 
+F 1659 2 4 the 
+F 1662 3 4 know
+F 1666 3 4 ledge 
+- 1670
+F 1670 2 4 There 
+F 1673 3 4 will 
+F 1677 3 4 al
+F 1681 3 4 ways 
+F 1686 1 4 be 
+- 1688
+F 1688 2 16 A 
+F 1691 2 16 bit 
+F 1694 2 16 of 
+F 1697 4 16 my 
+F 1702 4 16 heart 
+F 1707 2 16 de
+F 1710 4 16 vo
+F 1715 2 16 ted 
+F 1718 2 16 to 
+F 1721 3 16 it 
+- 1726
+* 1737 20 16 All 
+: 1761 3 14 the 
+: 1765 6 9 peo
+: 1773 12 11 ple 
+- 1787
+: 1809 5 16 So 
+: 1817 3 16 ma
+: 1821 5 14 ny 
+: 1829 6 9 peo
+: 1837 12 11 ple 
+- 1851
+: 1853 2 11 And 
+: 1857 5 11 they 
+: 1865 10 19 all 
+: 1881 12 18 go 
+: 1897 5 16 hand 
+: 1905 3 16 in 
+: 1909 8 11 hand 
+- 1919
+: 1929 6 12 Hand 
+: 1937 6 12 in 
+: 1945 6 11 hand 
+: 1953 6 14 through 
+: 1961 12 9 their 
+: 1985 4 10 park
+: 1993 10 11 life 
+- 2005
+: 2129 5 8 Park
+: 2137 5 8 life 
+- 2144
+: 2169 5 16 Park
+: 2177 5 14 life 
+- 2184
+: 2257 5 8 Park
+: 2265 5 8 life 
+- 2272
+: 2297 5 16 Park
+: 2305 5 14 life 
+- 2312
+F 2316 2 16 It’s 
+F 2319 3 16 got 
+F 2323 2 16 no
+F 2326 2 16 thing 
+F 2329 2 16 to 
+F 2332 3 16 do 
+F 2336 1 16 with 
+F 2338 2 16 your 
+- 2341
+F 2342 7 4 Vor
+F 2351 7 4 sprung 
+F 2360 7 4 durch 
+F 2369 3 4 Tech
+F 2373 3 4 nik 
+F 2380 2 4 you 
+F 2383 3 4 know 
+- 2388
+: 2425 5 16 Park
+: 2433 4 14 life 
+- 2438
+F 2438 2 16 And 
+F 2441 3 16 it’s 
+F 2445 3 16 not 
+F 2449 2 16 a
+F 2452 3 16 bout 
+F 2457 3 16 you 
+F 2463 3 16 jog
+F 2467 3 16 gers 
+- 2472
+F 2476 3 4 Who 
+F 2480 5 4 go 
+F 2487 7 4 round 
+F 2497 4 4 and 
+F 2502 7 4 round 
+- 2511
+F 2513 4 4 And 
+F 2518 7 4 round 
+F 2529 4 4 and 
+F 2534 7 4 round 
+- 2543
+: 2553 5 16 Park
+: 2561 5 14 life 
+- 2568
+: 2569 20 16 All 
+: 2593 3 14 the 
+: 2597 6 9 peo
+: 2605 12 11 ple 
+- 2619
+: 2641 5 16 So 
+: 2649 3 16 ma
+: 2653 5 14 ny 
+: 2661 6 9 peo
+: 2669 12 11 ple 
+- 2683
+: 2685 2 11 And 
+: 2689 5 11 they 
+: 2697 10 19 all 
+: 2713 12 18 go 
+: 2729 5 16 hand 
+: 2737 3 16 in 
+: 2741 8 11 hand 
+- 2751
+: 2761 6 12 Hand 
+: 2769 6 12 in 
+: 2777 6 11 hand 
+: 2785 6 14 through 
+: 2793 12 9 their 
+: 2817 4 10 park
+: 2825 10 11 life 
+- 2837
+: 2889 20 16 All 
+: 2913 3 14 the 
+: 2917 6 9 peo
+: 2925 12 11 ple 
+- 2939
+: 2961 5 16 So 
+: 2969 3 16 ma
+: 2973 5 14 ny 
+* 2981 6 9 peo
+: 2989 12 11 ple 
+- 3003
+: 3005 2 11 And 
+: 3009 5 11 they 
+: 3017 10 19 all 
+: 3033 12 18 go 
+: 3049 5 16 hand 
+: 3057 3 16 in 
+: 3061 8 11 hand 
+- 3071
+: 3081 6 12 Hand 
+: 3089 6 12 in 
+: 3097 6 11 hand 
+: 3105 6 14 through 
+: 3113 12 9 their 
+: 3137 4 10 park
+: 3145 10 11 life 
+E

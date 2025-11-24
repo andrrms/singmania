@@ -1,0 +1,124 @@
+#ARTIST:Phuture Noize
+#TITLE:Circles And Squares
+#MP3:Phuture Noize - Circles And Squares.mp3
+#CREATOR:rupertbayern
+#COVER:Phuture Noize - Circles And Squares [CO].jpg
+#BACKGROUND:Phuture Noize - Circles And Squares [BG].jpg
+#GENRE:Hardstyle
+#YEAR:2018
+#LANGUAGE:English
+#BPM:306
+#GAP:14650
+#VIDEO:v=IxL5YoC-gQk,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/51/26/c051264d-8f50-8251-0228-849dc3170f44/8719244844715.png/5000x5000bb.jpg
+: 0 2 25 A 
+: 4 7 25 thou
+: 12 5 27 sand 
+: 18 9 28 fa
+: 28 22 25 ces 
+- 60
+: 68 1 25 A 
+: 70 5 25 thou
+: 76 3 27 sand 
+: 80 11 28 pla
+: 92 20 25 ces 
+- 114
+: 116 1 23 A 
+: 118 5 27 hun
+: 124 3 27 dred 
+: 128 9 28 ca
+: 138 9 25 ses 
+- 147
+: 148 7 27 For
+: 156 3 27 cing 
+: 160 10 28 me 
+: 172 5 25 to 
+: 178 32 25 break 
+- 230
+: 258 1 25 My 
+: 260 7 25 mind 
+: 268 3 27 is 
+: 272 9 28 ra
+: 282 28 25 cing 
+- 317
+: 320 3 23 I 
+: 324 7 25 keep 
+: 332 3 27 on 
+: 336 7 28 cha
+: 344 26 25 sing 
+- 370
+: 372 7 28 All 
+: 380 5 28 these 
+: 386 16 27 dreams 
+- 402
+: 404 7 28 That 
+: 412 3 28 will 
+: 416 9 28 ne
+: 426 7 27 ver 
+: 434 22 25 end 
+- 458
+F 460 2 0 ~ 
+- 502
+: 1532 5 16 But 
+: 1538 7 25 here 
+: 1546 3 23 we 
+: 1550 20 20 are 
+- 1577
+: 1580 5 16 Still 
+: 1586 9 23 figh
+: 1596 26 20 ting 
+- 1631
+: 1634 9 16 Cre
+: 1644 5 23 a
+: 1650 10 20 ting 
+- 1670
+: 1680 11 21 Cir
+: 1692 5 21 cles 
+: 1698 12 20 and 
+: 1712 36 20 squares 
+- 1758
+: 1788 5 16 And 
+: 1794 7 25 here 
+: 1802 5 23 we 
+: 1808 16 20 are 
+- 1831
+: 1834 7 16 Still 
+: 1842 9 23 wri
+: 1852 10 20 ting 
+- 1872
+: 1888 9 16 Re
+: 1898 7 23 wri
+: 1906 22 20 ting 
+- 1930
+: 1932 5 16 The 
+: 1938 11 21 sto
+: 1950 3 23 ry 
+: 1954 5 20 that 
+: 1960 7 20 ne
+: 1968 5 16 ver 
+: 1974 22 16 ends 
+- 1998
+F 2000 2 0 ~ 
+- 2042
+: 2622 5 16 And 
+: 2628 7 25 here 
+: 2636 3 23 we 
+: 2640 20 20 are 
+- 2664
+: 2666 7 16 Still 
+: 2674 9 23 wri
+: 2684 8 20 ting 
+- 2702
+: 2722 7 16 Re
+: 2730 9 23 wri
+: 2740 20 20 ting 
+- 2762
+: 2764 5 26 The 
+: 2770 9 21 sto
+: 2780 5 23 ry 
+: 2786 3 20 that 
+: 2790 5 20 ne
+: 2796 14 16 ver 
+: 2812 40 16 ends 
+- 2852
+F 2854 2 0 ~ 
+E

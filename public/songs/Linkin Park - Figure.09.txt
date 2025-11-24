@@ -1,0 +1,571 @@
+#ARTIST:Linkin Park
+#TITLE:Figure.09
+#MP3:Linkin Park - Figure.09.mp3
+#CREATOR:FaKK, Loewy159
+#GENRE:Nu Metal
+#YEAR:2003
+#LANGUAGE:English
+#BPM:392
+#GAP:24010
+#VIDEO:a=LpC0SKU6O00,co=meteora-53a46c9919d00.jpg,bg=linkin-park-4de523586c57e.jpg
+R 0 2 -10 No
+R 4 2 -9 thin’ 
+R 8 2 -9 e
+R 12 2 -7 ver 
+R 17 6 -7 stops 
+R 25 2 -7 all 
+R 29 2 -8 these 
+R 34 4 -7 thoughts 
+R 41 2 -7 and 
+R 45 2 -10 the 
+R 50 5 -10 pain 
+R 58 2 -10 at
+R 62 4 -10 tached 
+R 69 2 -7 to 
+R 74 4 -7 them 
+- 82
+R 84 2 -7 Some
+R 88 2 -7 times 
+R 93 2 -9 I 
+R 97 2 -7 won
+R 101 2 -11 der 
+R 105 5 -7 why 
+R 113 4 -9 this 
+R 121 2 -9 is 
+R 126 3 -9 hap
+R 132 3 -9 pe
+R 137 4 -9 nin’ 
+- 146
+R 148 2 -9 It’s 
+R 153 5 -9 like 
+R 160 2 -7 no
+R 164 2 -8 thin’ 
+R 168 2 -9 I 
+R 172 2 -9 could 
+R 177 2 -6 do 
+R 181 2 -8 will 
+R 185 2 -8 dis
+R 190 4 -8 tract 
+R 196 2 -8 me 
+R 201 4 -10 when 
+- 210
+R 212 2 -10 I 
+R 216 2 -7 think 
+R 220 2 -9 of 
+R 224 2 -7 how 
+R 228 2 -9 I 
+R 233 2 -7 shot 
+R 237 2 -9 my
+R 241 3 -9 self 
+R 246 2 -9 in 
+R 250 2 -10 the 
+R 255 4 -10 back 
+R 261 2 -10 a
+R 265 6 -10 gain 
+- 275
+R 277 2 -6 ’Cause 
+R 281 2 -6 from 
+R 285 2 -7 the 
+R 289 2 -8 in
+R 293 2 -8 fi
+R 297 2 -9 nite 
+R 301 4 -7 words 
+R 308 2 -7 I 
+R 312 2 -8 could 
+R 317 6 -5 say 
+R 325 2 -6 I 
+- 332
+R 334 2 -4 Put 
+R 338 2 -4 all 
+R 342 2 -6 the 
+R 346 3 -6 pain 
+R 352 3 -6 you 
+R 357 5 -5 gave 
+R 365 2 -7 to 
+R 369 2 -8 me 
+R 373 2 -8 on 
+R 378 2 -8 dis
+R 382 3 -6 play 
+- 387
+R 389 2 -7 But 
+R 393 2 -7 did
+R 397 2 -6 ~n’t 
+R 401 2 -6 re
+R 405 2 -8 a
+R 409 6 -8 lize 
+R 420 2 -5 in
+R 424 2 -5 stead 
+R 428 2 -9 of 
+R 432 2 -5 set
+R 436 2 -7 tin’ 
+R 441 2 -7 it 
+R 447 8 -6 free 
+R 457 3 -8 I 
+- 466
+R 468 2 -7 Took 
+R 473 2 -7 what 
+R 477 2 -7 I 
+R 481 2 -7 ha
+R 485 2 -8 ted 
+R 489 2 -8 and 
+R 493 3 -6 made 
+R 498 2 -8 it 
+R 502 1 -9 a 
+R 505 2 -9 part 
+R 509 2 -9 of 
+R 513 8 -9 me 
+- 533
+R 537 2 -9 Ne
+R 541 2 -9 ver 
+R 545 7 -9 goes 
+R 554 2 -9 a
+R 558 10 -9 way 
+- 578
+R 600 2 8 Ne
+R 604 2 8 ver 
+R 608 7 8 goes 
+R 617 2 8 a
+R 621 8 8 way 
+- 632
+: 634 5 6 And 
+: 641 13 6 now 
+: 657 7 8 you’ve 
+: 666 6 8 be
+: 674 6 8 come 
+: 682 6 6 a 
+: 690 5 8 part 
+: 698 5 9 of 
+: 705 22 8 me, 
+: 730 7 8 you’ll 
+: 739 6 8 al
+: 747 5 8 ways 
+: 754 6 8 be 
+: 762 5 6 right 
+: 770 12 6 here 
+- 784
+: 786 5 8 You’ve 
+: 794 5 9 be
+: 801 5 8 come 
+: 810 5 6 a 
+: 817 7 8 part 
+: 826 6 9 of 
+: 834 20 8 me, 
+: 858 4 8 you’ll 
+: 865 5 8 al
+: 873 4 8 ways 
+: 881 5 8 be 
+: 889 5 6 my 
+: 897 12 6 fear 
+- 911
+: 913 12 8 I 
+: 929 10 8 can’t 
+: 945 6 8 se
+: 954 6 9 pa
+: 962 20 8 rate 
+: 985 4 8 my
+: 993 5 8 self 
+: 1002 5 6 from 
+: 1010 5 8 what 
+: 1017 5 6 I’ve 
+: 1025 11 6 done 
+- 1039
+: 1041 6 6 Gi
+: 1050 5 8 ving 
+: 1057 5 8 up 
+: 1065 6 6 a 
+: 1073 5 8 part 
+: 1081 4 9 of 
+: 1088 20 9 me, 
+: 1113 6 8 I’ve 
+: 1121 6 8 let 
+: 1129 5 8 my
+: 1137 4 8 self 
+: 1145 5 8 be
+* 1152 15 9 come 
+: 1170 18 8 you 
+- 1197
+: 1200 19 8 You 
+: 1232 19 8 You 
+: 1264 19 8 You 
+- 1292
+R 1296 3 -7 Hea
+R 1301 2 -8 rin’ 
+R 1305 2 -8 your 
+R 1310 4 -6 name, 
+R 1317 2 -8 the 
+R 1322 2 -8 me
+R 1326 2 -8 mo
+R 1330 4 -8 ries 
+R 1336 4 -8 come 
+R 1342 6 -6 back 
+R 1351 2 -7 a
+R 1355 5 -7 gain 
+- 1366
+R 1369 2 -10 I 
+R 1373 2 -9 re
+R 1377 2 -7 mem
+R 1381 2 -8 ber 
+R 1386 2 -7 when 
+R 1390 2 -9 it 
+R 1395 5 -8 star
+R 1403 2 -8 ted 
+R 1407 3 -8 hap
+R 1413 2 -8 pe
+R 1417 4 -8 nin’ 
+- 1427
+R 1430 2 -7 I’d 
+R 1434 5 -7 see 
+R 1442 2 -7 you 
+R 1446 2 -7 in 
+R 1450 2 -7 e
+R 1454 2 -8 very 
+R 1459 3 -7 thought 
+R 1464 4 -7 I 
+R 1470 5 -4 had 
+R 1477 3 -8 and 
+R 1482 5 -7 then 
+- 1492
+R 1494 2 -11 The 
+R 1498 4 -6 thoughts 
+R 1505 2 -6 slow
+R 1509 3 -7 ly 
+R 1514 4 -6 found 
+R 1522 6 -6 words 
+R 1531 2 -6 at
+R 1535 4 -6 tached 
+R 1542 2 -8 to 
+R 1546 4 -8 them 
+- 1556
+R 1558 2 -8 And 
+R 1562 4 -8 I 
+R 1569 2 -9 knew 
+R 1574 2 -9 as 
+R 1578 2 -9 they 
+R 1582 2 -9 es
+R 1587 4 -6 caped 
+R 1593 2 -8 a
+R 1598 4 -6 way 
+- 1604
+R 1606 2 -7 I 
+R 1610 2 -7 was 
+R 1614 2 -6 com
+R 1618 1 -6 mit
+R 1621 2 -6 tin’ 
+R 1626 2 -5 my
+R 1630 4 -5 self 
+R 1637 3 -6 to 
+R 1642 3 -6 ’em 
+R 1647 2 -6 and 
+R 1652 2 -6 e
+R 1657 3 -7 very 
+R 1662 3 -5 day 
+- 1667
+R 1669 2 -7 I 
+R 1674 3 -8 re
+R 1680 2 -3 gret 
+R 1686 2 -4 sa
+R 1690 2 -8 yin’ 
+R 1695 3 -8 those 
+R 1700 4 -8 things 
+R 1711 2 -6 ’cause 
+R 1715 4 -7 now 
+R 1721 4 -7 I 
+R 1727 5 -6 see 
+R 1734 2 -5 that 
+R 1738 6 -5 I 
+- 1748
+R 1750 2 -5 Took 
+R 1755 2 -5 what 
+R 1759 2 -7 I 
+R 1763 2 -4 ha
+R 1767 2 -8 ted 
+R 1771 2 -8 and 
+R 1775 3 -6 made 
+R 1780 2 -7 it 
+R 1784 1 -8 a 
+R 1787 2 -4 part 
+R 1791 2 -4 of 
+R 1795 8 -4 me 
+- 1814
+R 1818 2 -4 Ne
+R 1822 2 -4 ver 
+R 1826 7 -4 goes 
+R 1835 2 -4 a
+R 1839 10 -4 way 
+- 1859
+R 1881 2 8 Ne
+R 1885 2 8 ver 
+R 1889 7 8 goes 
+R 1898 2 8 a
+R 1902 8 8 way 
+- 1912
+: 1914 5 6 And 
+: 1921 13 6 now 
+: 1937 7 8 you’ve 
+: 1946 6 8 be
+: 1954 6 8 come 
+: 1962 6 6 a 
+: 1970 5 8 part 
+: 1978 5 9 of 
+: 1985 22 8 me, 
+: 2010 7 8 you’ll 
+: 2019 6 8 al
+: 2027 5 8 ways 
+: 2034 6 8 be 
+: 2042 5 6 right 
+: 2050 12 6 here 
+- 2064
+: 2066 5 8 You’ve 
+: 2074 5 9 be
+: 2081 5 8 come 
+: 2090 5 6 a 
+: 2097 7 8 part 
+: 2106 6 9 of 
+: 2114 20 8 me, 
+: 2138 4 8 you’ll 
+: 2145 5 8 al
+: 2153 4 8 ways 
+: 2161 5 8 be 
+: 2169 5 6 my 
+* 2177 12 6 fear 
+- 2192
+: 2194 12 8 I 
+: 2210 10 8 can’t 
+: 2226 6 8 se
+: 2235 6 9 pa
+* 2243 20 8 rate 
+: 2266 4 8 my
+: 2274 5 8 self 
+: 2283 5 6 from 
+: 2291 5 8 what 
+: 2298 5 6 I’ve 
+: 2306 11 6 done 
+- 2320
+: 2322 6 6 Gi
+: 2331 5 8 ving 
+: 2338 5 8 up 
+: 2346 6 6 a 
+: 2354 5 8 part 
+: 2362 4 9 of 
+: 2369 20 9 me, 
+: 2394 6 8 I’ve 
+: 2402 6 8 let 
+: 2410 5 8 my
+: 2418 4 8 self 
+: 2426 5 8 be
+: 2433 15 9 come 
+: 2451 18 8 you 
+- 2495
+R 2522 2 -4 Ne
+R 2526 2 -4 ver 
+R 2530 7 -4 goes 
+R 2539 2 -4 a
+R 2543 10 -4 way 
+- 2563
+R 2586 2 -4 Ne
+R 2590 2 -4 ver 
+R 2594 7 -4 goes 
+R 2603 2 -4 a
+R 2607 10 -9 way 
+- 2627
+R 2646 2 -9 It 
+R 2650 2 -9 ne
+R 2654 2 -9 ver 
+R 2658 7 -9 goes 
+R 2667 2 -9 a
+R 2671 10 -9 way 
+- 2691
+R 2710 2 -9 It 
+R 2714 2 -6 ne
+R 2718 2 -4 ver 
+R 2722 7 -4 goes 
+R 2731 2 -6 a
+R 2735 10 -2 way, 
+R 2747 2 -4 get 
+R 2751 2 -4 a
+R 2755 2 -4 way 
+R 2763 5 -4 from 
+R 2771 9 -4 me 
+- 2786
+R 2788 2 1 Gim
+R 2792 2 1 me 
+R 2796 2 1 my 
+R 2800 5 1 space 
+R 2808 4 1 back, 
+R 2815 2 2 you 
+R 2820 2 2 got
+R 2824 2 0 ta 
+R 2829 3 2 just 
+R 2836 10 2 go 
+- 2848
+R 2850 2 1 E
+R 2854 2 1 very
+R 2859 3 1 thing 
+R 2864 4 3 comes 
+R 2871 4 3 down 
+R 2879 2 1 to 
+R 2883 2 2 mem
+R 2887 3 2 ’ries 
+R 2892 3 2 of 
+R 2898 9 0 you 
+- 2909
+R 2911 2 12 I’ve 
+R 2915 4 2 kept 
+R 2923 3 2 it 
+R 2928 3 0 in, 
+R 2935 2 1 but 
+R 2939 2 1 now 
+R 2943 2 1 I’m 
+R 2947 2 0 let
+R 2951 2 0 tin’ 
+R 2955 4 2 you 
+R 2962 9 2 know 
+- 2973
+R 2975 2 2 I’ve 
+R 2979 2 2 let 
+R 2985 3 2 you 
+R 2990 5 2 go, 
+R 2998 2 2 so 
+R 3003 2 2 get 
+R 3007 2 2 a
+R 3011 4 2 way 
+R 3019 3 3 from 
+R 3026 10 3 me 
+- 3041
+R 3043 2 3 Gim
+R 3047 2 3 me 
+R 3051 2 3 my 
+R 3055 5 3 space 
+R 3063 4 3 back, 
+R 3070 2 3 you 
+R 3075 2 3 got
+R 3079 2 0 ta 
+R 3084 3 0 just 
+R 3091 10 0 go 
+- 3104
+R 3106 2 3 E
+R 3110 2 3 very
+R 3115 3 3 thing 
+R 3120 4 3 comes 
+R 3127 4 3 down 
+R 3134 2 1 to 
+R 3138 2 1 mem
+R 3142 3 1 ’ries 
+R 3147 3 4 of 
+R 3154 9 0 you 
+- 3165
+R 3167 2 0 I’ve 
+R 3171 4 5 kept 
+R 3179 3 2 it 
+R 3184 3 2 in, 
+R 3191 2 1 but 
+R 3195 2 1 now 
+R 3199 2 1 I’m 
+R 3203 2 1 let
+R 3207 2 1 tin’ 
+R 3211 4 2 you 
+R 3218 9 2 know 
+- 3229
+R 3231 2 2 I’ve 
+R 3235 2 2 let 
+R 3241 4 2 you 
+R 3247 5 2 go 
+- 3258
+: 3260 4 6 And 
+: 3267 12 6 now 
+: 3282 7 8 you’ve 
+: 3291 6 8 be
+: 3299 6 8 come 
+: 3307 6 6 a 
+: 3315 5 8 part 
+* 3323 5 9 of 
+: 3330 22 8 me, 
+: 3355 7 8 you’ll 
+: 3364 6 8 al
+: 3372 5 8 ways 
+: 3379 6 8 be 
+: 3387 5 6 right 
+: 3395 12 6 here 
+- 3409
+: 3411 5 8 You’ve 
+: 3419 5 9 be
+: 3426 5 8 come 
+: 3435 5 6 a 
+: 3442 7 8 part 
+: 3451 6 9 of 
+: 3459 20 8 me, 
+: 3483 4 8 you’ll 
+: 3490 5 8 al
+: 3498 4 8 ways 
+: 3506 5 8 be 
+: 3514 5 6 my 
+: 3522 12 6 fear 
+- 3537
+: 3539 12 8 I 
+: 3555 10 8 can’t 
+: 3571 6 8 se
+: 3580 6 9 pa
+: 3588 20 8 rate 
+: 3611 4 8 my
+: 3619 5 8 self 
+: 3628 5 6 from 
+: 3636 5 8 what 
+: 3643 5 6 I’ve 
+: 3650 11 6 done 
+- 3665
+: 3667 6 6 Gi
+: 3676 5 8 ving 
+: 3683 5 8 up 
+: 3691 6 6 a 
+: 3699 5 8 part 
+: 3707 4 9 of 
+: 3714 20 9 me 
+- 3737
+: 3739 6 8 I’ve 
+: 3747 6 8 let 
+: 3755 4 8 my
+: 3762 5 8 self 
+: 3770 6 8 be
+: 3778 15 9 come 
+: 3796 58 8 you 
+- 3863
+: 3867 6 8 I’ve 
+: 3875 6 8 let 
+: 3883 4 8 my
+: 3890 5 8 self 
+: 3898 6 8 be
+: 3906 15 9 come 
+* 3924 58 8 you 
+- 3991
+: 3994 6 8 I’ve 
+: 4003 6 8 let 
+: 4011 5 8 my
+: 4019 6 8 self 
+: 4027 7 8 be
+: 4037 11 6 come 
+- 4050
+: 4052 13 8 Lost 
+: 4067 7 8 in
+: 4076 13 6 side 
+: 4092 12 6 these 
+: 4108 14 8 thoughts 
+: 4125 4 8 o
+: 4131 6 6 ~f 
+: 4140 22 6 you 
+- 4172
+: 4180 6 6 Gi
+: 4188 6 8 ving 
+: 4196 5 8 up 
+: 4204 6 6 a 
+: 4212 5 8 part 
+: 4220 4 9 of 
+: 4227 20 9 me 
+- 4249
+: 4251 6 8 I’ve 
+: 4259 6 8 let 
+: 4267 4 8 my
+: 4274 5 8 self 
+* 4283 5 8 be
+* 4291 14 9 come 
+* 4308 60 8 you 
+E

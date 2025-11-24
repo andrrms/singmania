@@ -1,0 +1,225 @@
+#ARTIST:The Coasters
+#TITLE:Yakety Yak
+#MP3:The Coasters - Yakety Yak.mp3
+#CREATOR:Relisch
+#COVER:The Coasters - Yakety Yak [CO].jpg
+#BACKGROUND:The Coasters - Yakety Yak [BG].jpg
+#GENRE:Pop
+#YEAR:1958
+#LANGUAGE:English
+#BPM:300
+#GAP:410
+#VIDEO:a=epCN0f7FTIY,co=https://www.musicroom.com/product/image/large/dam449779_0.jpg
+: 0 3 7 Take 
+: 4 3 7 out 
+: 9 4 12 the 
+: 15 3 14 pa
+: 20 3 14 pers 
+: 26 3 12 and 
+: 31 3 11 the 
+: 35 13 14 trash 
+- 58
+: 81 3 7 Or 
+: 86 2 7 you 
+: 90 3 7 don’t 
+: 95 3 7 get 
+: 100 3 7 no 
+: 105 3 7 spen
+: 110 3 7 din’t 
+: 115 9 4 cash 
+- 134
+: 160 2 7 If 
+: 164 2 7 you 
+: 168 3 7 don’t 
+: 173 4 7 scrub 
+: 179 3 7 that 
+: 184 3 7 kit
+: 188 3 7 chen 
+: 193 12 6 floor 
+- 215
+: 238 4 7 You 
+: 244 3 7 ain’t 
+: 248 2 7 gon
+: 251 1 7 na 
+: 253 3 7 rock 
+: 258 3 7 and 
+: 263 4 7 roll 
+: 268 3 6 no 
+: 273 5 7 more 
+- 282
+: 284 2 7 Ya
+: 288 2 7 ke
+: 292 2 7 ty 
+: 295 4 7 yak 
+- 302
+* 304 3 7 (Don’t 
+* 309 3 2 talk 
+* 314 3 -1 back) 
+- 318
+: 320 2 7 Just 
+: 324 2 7 fi
+: 328 4 7 nish 
+: 336 3 7 clea
+: 340 3 7 nin’ 
+: 345 3 7 up 
+: 350 2 4 your 
+: 354 8 7 room 
+- 372
+: 398 2 7 Let’s 
+: 402 2 7 see 
+: 406 4 7 that 
+: 413 3 7 dust 
+: 418 3 7 fly 
+: 423 2 7 with 
+: 427 4 7 that 
+: 433 12 4 broom 
+- 455
+: 476 2 7 Get 
+: 479 4 7 all 
+: 485 3 7 that 
+: 490 4 7 gar
+: 496 3 7 bage 
+: 501 2 7 out 
+: 505 3 7 of 
+* 510 13 6 sight 
+- 533
+: 554 3 7 Or 
+: 559 3 7 you 
+: 564 3 7 don’t 
+: 569 2 7 go 
+: 573 3 7 out 
+: 578 5 7 Fri
+: 585 3 7 day 
+: 589 5 7 night 
+- 598
+: 600 2 7 Ya
+: 603 1 7 ke
+: 605 3 7 ty 
+: 609 5 7 yak 
+- 618
+* 620 3 7 Don’t ts
+* 625 3 2 talk 
+* 630 3 -1 back 
+- 635
+: 637 2 7 You 
+: 641 3 7 just 
+: 646 3 7 put 
+: 650 4 7 on 
+: 655 4 7 your 
+: 660 5 7 coat 
+: 666 3 2 and 
+: 671 8 7 hat 
+- 689
+: 714 4 7 And 
+: 719 3 7 walk 
+: 724 3 7 your
+: 729 3 7 self 
+* 734 1 7 to 
+* 736 2 7 the 
+* 739 3 7 laun
+* 743 4 7 dro
+* 748 8 4 mat 
+- 766
+: 793 3 7 And 
+: 798 2 7 when 
+: 802 4 7 you 
+: 807 2 7 fi
+: 810 5 7 nish 
+: 817 2 7 do
+: 820 5 7 in’ 
+: 827 8 6 that 
+- 845
+: 870 3 7 Bring 
+: 875 3 7 in 
+: 880 3 7 the 
+: 885 4 7 dog 
+: 890 4 7 and 
+: 896 2 7 put 
+: 899 4 7 out 
+: 904 2 7 the 
+: 907 6 7 cat 
+- 915
+: 917 2 7 Ya
+: 920 1 7 ke
+: 922 3 7 ty 
+: 926 5 7 yak 
+- 934
+: 936 4 7 Don’t 
+: 942 3 2 talk 
+: 947 5 -1 back 
+- 992
+: 1577 3 7 Don’t 
+: 1582 3 7 you 
+: 1586 4 7 give 
+: 1591 4 7 me 
+: 1596 4 7 no 
+: 1601 4 7 dir
+: 1607 3 2 ty 
+: 1612 8 7 looks 
+- 1630
+* 1656 3 7 Your 
+* 1661 3 7 fa
+* 1666 3 7 ther’s 
+* 1671 3 7 hip, 
+: 1676 3 7 he 
+: 1681 3 7 knows 
+: 1686 2 7 what 
+: 1691 10 4 cooks 
+- 1711
+: 1734 3 7 Just 
+: 1739 3 7 tell 
+: 1744 4 6 your 
+: 1750 2 7 hood
+: 1754 3 7 lum 
+: 1759 3 7 friend 
+: 1764 3 7 out
+: 1769 14 6 side 
+- 1793
+: 1814 3 7 You 
+: 1819 3 7 ain’t 
+: 1824 3 7 got 
+: 1829 3 7 time 
+: 1834 3 6 to 
+: 1839 3 7 take 
+: 1844 3 7 a 
+: 1849 7 2 ride 
+- 1858
+: 1860 2 7 Ya
+: 1863 1 7 ke
+: 1865 3 7 ty 
+: 1869 5 7 yak 
+- 1879
+: 1881 4 7 Don’t 
+: 1887 3 2 talk 
+: 1892 5 -1 back 
+- 1900
+: 1902 2 7 Ya
+: 1905 1 7 ke
+: 1907 3 7 ty 
+: 1911 5 7 yak 
+- 1921
+: 1923 2 7 Ya
+: 1926 1 7 ke
+: 1928 3 7 ty 
+: 1932 5 7 yak 
+- 1957
+: 1983 2 7 Ya
+: 1986 1 7 ke
+: 1988 3 7 ty 
+: 1992 5 7 yak 
+- 2001
+: 2003 2 7 Ya
+: 2006 1 7 ke
+: 2008 3 2 ty 
+: 2012 5 7 yak 
+- 2037
+: 2062 2 7 Ya
+: 2065 1 7 ke
+: 2067 3 7 ty 
+: 2071 5 7 yak 
+- 2080
+: 2082 2 7 Ya
+: 2085 1 7 ke
+: 2087 3 7 ty 
+: 2091 7 7 yak 
+E

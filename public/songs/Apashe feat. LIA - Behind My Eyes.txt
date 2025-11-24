@@ -1,0 +1,198 @@
+#ARTIST:Apashe feat. LIA
+#TITLE:Behind My Eyes
+#MP3:Apashe feat. LIA - Behind My Eyes.mp3
+#CREATOR:Quetzaldo
+#COVER:Apashe feat. LIA - Behind My Eyes [CO].jpg
+#BACKGROUND:Apashe feat. LIA - Behind My Eyes [BG].jpg
+#GENRE:Dubstep
+#YEAR:2020
+#LANGUAGE:English
+#BPM:397.5
+#GAP:230
+#VIDEO:v=Vxisneco8Ic,co=renaissance-5e982a7d9a6e6.jpg
+: 0 15 14 Bu
+: 16 12 14 ry 
+: 32 9 16 me 
+: 48 11 14 deep 
+: 63 16 12 un
+: 80 8 14 der
+: 96 12 15 neath 
+- 108
+: 110 9 16 E
+: 120 7 21 very
+: 128 12 16 thing 
+: 144 12 14 I 
+: 160 5 9 keep 
+: 169 6 16 in
+: 176 20 17 side 
+- 222
+: 252 16 12 Pret
+: 269 7 14 ty 
+: 286 15 14 lit
+: 302 6 12 tle 
+: 318 15 12 smile 
+: 334 6 14 ~ 
+- 346
+: 348 10 14 Hides 
+* 363 8 16 e
+* 373 4 21 very 
+: 381 15 16 tear 
+: 400 12 14 be
+: 414 5 9 hind 
+: 423 5 16 my 
+: 432 22 17 eyes 
+- 464
+: 474 8 21 I’ve 
+: 486 8 21 held 
+: 498 6 21 my 
+: 508 16 21 breath 
+: 528 7 14 since 
+: 539 6 14 I 
+: 549 5 17 was 
+: 558 22 16 young 
+- 590
+: 594 4 14 I 
+: 602 4 14 bit 
+: 610 4 17 my 
+: 618 24 16 tongue 
+: 658 5 14 since 
+: 667 6 14 I 
+: 677 5 17 was 
+: 686 22 16 young 
+- 718
+: 730 8 21 To 
+: 742 8 21 stop 
+* 754 7 21 my
+* 762 22 21 self 
+: 788 3 14 from 
+: 795 7 14 ram
+: 803 4 17 bling 
+: 811 21 16 on 
+- 842
+: 850 2 14 The 
+: 856 6 14 thoughts 
+: 866 4 17 I 
+: 874 22 16 want 
+: 912 2 14 to 
+: 918 7 14 ram
+: 926 4 14 ble 
+: 934 10 16 on 
+: 945 15 14 ~ 
+- 970
+: 1010 14 12 Just 
+: 1028 13 14 be
+: 1042 14 10 cause 
+: 1060 12 12 I 
+: 1076 10 7 let 
+: 1090 8 9 it 
+: 1106 14 2 slide 
+: 1122 14 1 ~ 
+- 1146
+: 1172 12 13 Doesn’t 
+: 1188 6 17 mean 
+: 1198 2 19 it 
+: 1202 10 19 isn’t 
+: 1218 10 21 pul
+: 1229 2 21 ling 
+: 1235 11 14 on 
+: 1250 14 16 my 
+- 1264
+: 1266 12 24 Heart 
+* 1282 12 26 un
+* 1298 12 21 til 
+* 1314 12 24 it’s 
+: 1330 15 19 al
+: 1346 12 21 most 
+: 1362 15 14 whi
+: 1378 10 13 te 
+- 1398
+: 1426 5 14 Cause 
+: 1435 2 20 I 
+: 1441 7 21 wan
+: 1449 3 21 na 
+: 1456 5 19 let 
+: 1465 3 17 you 
+: 1472 8 12 feel 
+: 1484 24 14 strong 
+- 1561
+: 2796 16 12 Pret
+: 2813 7 14 ty 
+: 2830 15 14 lit
+: 2846 6 12 tle 
+: 2862 15 12 smile 
+: 2878 6 14 ~ 
+- 2890
+: 2892 10 14 Hides 
+: 2907 8 16 e
+: 2917 4 21 very 
+: 2925 15 16 tear 
+: 2944 12 14 be
+: 2958 5 9 hind 
+: 2967 5 16 my 
+: 2976 22 17 eyes 
+- 3008
+* 3046 12 24 Gave 
+: 3062 16 22 a
+: 3079 11 22 way 
+: 3094 12 19 my 
+: 3110 16 16 pow
+: 3127 11 16 er 
+: 3142 30 14 till 
+- 3182
+: 3206 12 14 I 
+: 3222 11 17 was 
+: 3237 11 17 weak 
+: 3252 15 14 be
+: 3268 10 17 tween 
+: 3282 14 12 my 
+: 3300 18 24 knees 
+- 3320
+: 3322 7 22 And 
+: 3333 13 22 fell 
+: 3352 11 19 a
+: 3365 13 16 gainst 
+: 3382 12 14 my 
+: 3398 20 14 will 
+- 3428
+: 3460 12 15 Woke 
+: 3476 12 17 up 
+* 3492 14 19 hun
+* 3508 16 12 gry 
+- 3526
+: 3528 4 21 I 
+: 3536 8 21 need 
+: 3548 4 24 to 
+: 3556 16 24 feed 
+: 3582 4 13 my 
+: 3590 6 17 e
+: 3597 3 17 go 
+: 3604 24 16 pride 
+- 3640
+: 3644 4 14 So 
+: 3652 4 14 I 
+: 3660 4 16 don’t 
+: 3668 20 16 lie 
+: 3710 7 14 a
+: 3718 4 14 wake 
+: 3726 2 19 at 
+: 3732 20 16 night 
+- 3762
+: 3778 11 21 Won
+: 3790 9 21 der
+: 3800 6 24 ing 
+: 3810 18 21 why 
+: 3836 2 14 the 
+: 3842 8 14 days 
+: 3854 2 16 go 
+: 3860 18 16 by 
+- 3888
+: 3900 2 16 With 
+: 3906 6 14 cap
+: 3913 5 14 tured 
+: 3922 22 16 thoughts 
+: 3964 3 14 u
+: 3968 8 14 pon 
+: 3980 2 16 my 
+* 3984 15 16 mind 
+* 4000 16 14 ~ 
+E

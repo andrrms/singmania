@@ -1,0 +1,176 @@
+#ARTIST:Pixies
+#TITLE:Dead
+#MP3:Pixies - Dead.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2008 Vol. 2
+#GENRE:Alternative Rock
+#YEAR:1989
+#LANGUAGE:English
+#BPM:361
+#GAP:5850
+#VIDEO:a=UgWgDWgNBzQ,co=doolittle-5fc02a64dc7f9.jpg,bg=pixies-4e3a8a6c4bcc2.jpg
+F 0 2 12 I 
+F 4 3 12 can’t 
+F 10 2 12 think 
+F 14 2 12 of 
+F 18 3 12 no
+F 23 4 12 thin’ 
+- 29
+F 220 1 12 I’d 
+F 222 1 12 like 
+F 225 1 12 to 
+F 228 1 12 do 
+F 230 1 12 a 
+F 233 3 12 nur
+F 239 3 12 sery 
+F 244 4 12 rhyme 
+- 250
+: 711 3 3 You 
+: 718 3 3 cra
+: 724 3 3 zy 
+: 731 3 3 babe 
+: 737 3 3 Bath
+* 743 3 2 she
+: 748 3 3 ba 
+- 753
+: 761 3 3 I 
+: 767 3 3 want 
+: 774 3 3 cha 
+- 779
+: 785 3 3 You’re 
+: 791 3 3 suf
+: 797 2 3 fo
+: 803 3 3 cat
+* 808 3 3 ing 
+: 814 3 2 you 
+* 821 6 3 need 
+: 831 2 3 a 
+: 837 3 3 good 
+: 845 6 3 shed 
+- 853
+: 856 2 3 I’m 
+: 863 4 3 tired 
+: 869 3 3 of 
+: 874 4 3 liv
+: 880 3 3 ing 
+: 887 3 3 ’She
+: 893 2 3 be
+* 897 3 5 ~ 
+: 904 3 3 so 
+: 909 3 3 give 
+: 917 4 3 me 
+- 923
+: 935 10 12 Dead 
+- 947
+: 1054 6 12 Dead 
+- 1062
+: 1216 3 3 We’re 
+: 1221 3 3 a
+: 1228 3 3 pin’ 
+: 1233 3 3 ra
+: 1239 3 3 pin’ 
+: 1246 3 3 ta
+: 1252 4 3 pin’ 
+- 1258
+: 1265 3 3 Ca
+: 1271 3 3 thar
+: 1277 4 3 sis 
+- 1283
+: 1289 3 3 You 
+: 1294 3 3 get 
+: 1300 4 3 torn 
+: 1306 4 3 down 
+: 1313 3 3 and 
+: 1318 3 3 I 
+: 1325 3 3 get 
+- 1330
+: 1336 2 3 E
+: 1342 3 3 rect
+: 1349 4 3 ed 
+- 1355
+: 1361 2 3 My 
+* 1367 3 3 blood 
+: 1372 2 3 is 
+: 1378 3 3 work
+: 1384 3 3 ing 
+: 1390 3 3 but 
+: 1397 4 3 my 
+: 1408 3 3 my 
+: 1414 3 3 heart 
+: 1420 5 3 is 
+- 1427
+: 1438 9 12 Dead 
+- 1449
+* 1558 7 12 Dead 
+- 1567
+: 1727 4 12 Dead 
+- 1733
+: 1752 12 12 Hey 
+- 1766
+: 1793 3 12 Whad
+: 1797 2 12 da 
+: 1800 2 12 yah 
+: 1807 18 12 know? 
+- 1827
+: 1840 5 12 Your 
+: 1850 4 12 love
+: 1856 3 12 ~
+: 1861 7 12 ly 
+- 1870
+: 1882 9 12 Tan 
+- 1893
+: 1899 4 12 Bel
+: 1905 7 12 ly 
+- 1914
+: 1922 4 12 Is 
+- 1928
+: 1934 5 12 Start
+: 1941 4 12 ing 
+: 1951 3 12 to 
+: 1959 14 12 grow 
+- 1975
+: 2175 3 0 U
+: 2182 4 3 ri
+: 2188 3 3 ah 
+: 2194 3 3 hit 
+: 2200 2 3 the 
+: 2205 4 3 crap
+: 2212 4 3 per 
+- 2218
+: 2225 2 3 The 
+: 2230 4 3 crap
+: 2237 3 3 per 
+- 2242
+: 2248 3 3 U
+: 2254 3 4 ri
+: 2259 3 4 ah 
+* 2267 3 3 hit 
+: 2272 2 4 the 
+: 2279 3 4 crap
+: 2285 4 4 per, 
+: 2296 2 3 the 
+* 2303 3 3 crap
+* 2309 4 3 per 
+- 2315
+: 2320 3 3 U
+: 2326 3 3 ri
+: 2332 3 3 ah 
+: 2338 3 3 hit 
+: 2344 2 3 the 
+: 2349 4 3 crap
+: 2356 4 3 per 
+- 2362
+: 2368 2 3 The 
+: 2374 3 3 crap
+: 2380 3 3 per 
+- 2385
+: 2399 11 12 Dead 
+- 2412
+* 2519 4 12 Dead 
+- 2525
+: 2910 16 12 Ow 
+- 2928
+: 2973 17 12 Ow 
+- 2992
+: 3092 15 12 Ow 
+E

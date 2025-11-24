@@ -1,0 +1,283 @@
+#ARTIST:Pat Benatar
+#TITLE:Hit Me With Your Best Shot
+#MP3:Pat Benatar - Hit Me With Your Best Shot.mp3
+#CREATOR:lozboorman
+#YEAR:1980
+#LANGUAGE:English
+#BPM:255
+#GAP:15200
+#VIDEO:a=JRD80XRMT7s,co=https://steveyb.co.uk/wp-content/gallery/pat-benatar/PatBenatar-Sing06HitMeWithYourBestShot.jpg,bg=benatar-pat-6087ab954ebdb.jpg
+: 0 2 -1 Well 
+: 4 2 1 you’re 
+: 8 2 4 a 
+* 12 3 7 real 
+* 20 3 6 tough 
+: 28 2 6 cook
+: 32 2 4 ie 
+- 35
+: 36 2 4 With 
+: 40 2 1 a 
+: 44 4 4 long 
+: 52 2 4 his
+: 56 2 1 to
+: 60 4 6 ry 
+- 66
+: 72 2 4 Of 
+: 76 2 6 brea
+: 80 2 4 king 
+: 84 2 6 lit
+: 88 2 4 tle 
+: 92 4 6 hearts 
+- 98
+: 100 2 6 Like 
+: 104 2 4 the 
+: 108 2 6 one 
+: 112 2 6 in 
+: 116 6 8 me 
+- 124
+* 144 4 7 That’s 
+* 151 3 6 ok
+: 156 4 4 ay 
+- 162
+: 164 2 1 Let’s 
+: 168 4 4 see 
+: 176 2 4 how 
+: 180 2 1 you 
+: 184 4 6 do 
+: 192 3 4 it 
+- 197
+: 204 2 6 Put 
+: 208 2 6 up 
+: 212 2 4 your 
+: 216 4 6 dukes 
+- 222
+: 227 4 6 Let’s 
+: 235 2 6 get 
+: 239 4 6 down 
+: 247 4 8 to 
+: 255 2 6 it 
+: 259 2 4 ~ 
+- 263
+: 268 2 8 Hit 
+: 272 2 6 me 
+: 276 2 6 with 
+: 280 2 4 your 
+: 284 4 4 best 
+: 292 6 8 shot 
+- 300
+: 319 2 4 Why 
+: 324 2 6 don’t 
+* 328 2 4 you 
+* 332 1 8 hit 
+* 334 1 6 me 
+* 336 2 6 with 
+* 340 2 4 your 
+* 344 4 6 best 
+: 352 2 1 shot 
+: 356 5 -1 ~ 
+- 363
+: 396 2 8 Hit 
+: 400 2 6 me 
+: 404 2 6 with 
+: 408 2 4 your 
+: 412 4 4 best 
+: 420 6 8 shot 
+- 428
+: 444 2 8 Fi
+: 448 2 9 re 
+* 452 2 11 a
+* 456 7 6 way 
+* 464 16 4 ~ 
+- 482
+: 520 2 4 You 
+: 524 2 8 come 
+: 528 2 6 on 
+: 532 2 6 with 
+: 536 2 4 it, 
+: 540 2 4 come 
+: 544 4 4 on 
+- 550
+: 552 2 1 You 
+: 556 1 4 don’t 
+: 558 1 1 ~ 
+: 561 3 4 fight 
+: 568 1 4 fair 
+: 570 6 6 ~ 
+- 578
+: 596 2 6 That’s 
+: 600 2 4 ok
+: 604 4 6 ay 
+- 610
+: 620 1 6 See 
+: 622 1 4 if 
+* 624 4 6 I 
+* 632 8 8 care 
+- 642
+: 652 4 6 Knock 
+: 660 4 6 me 
+: 668 4 6 down 
+- 674
+: 676 2 1 It’s 
+: 680 4 4 all 
+: 688 4 4 in 
+: 696 8 6 vain 
+- 706
+: 712 2 -1 I 
+: 716 2 6 get 
+: 720 2 6 right 
+: 724 4 6 back 
+: 732 4 6 on 
+- 738
+: 740 2 4 My 
+: 744 4 6 feet 
+* 752 4 6 a
+* 760 1 6 gain 
+* 762 6 8 ~ 
+- 770
+: 780 2 8 Hit 
+: 784 2 6 me 
+: 788 2 6 with 
+: 792 2 4 your 
+: 796 4 4 best 
+: 804 6 8 shot 
+- 812
+: 832 2 4 Why 
+: 836 2 6 don’t 
+* 840 2 4 you 
+* 844 1 8 hit 
+* 846 1 6 me 
+* 848 2 6 with 
+* 852 2 4 your 
+* 856 4 6 best 
+: 864 2 1 shot 
+: 868 5 -1 ~ 
+- 875
+: 908 2 8 Hit 
+: 912 2 6 me 
+: 916 2 6 with 
+: 920 2 4 your 
+: 924 4 4 best 
+: 932 6 8 shot 
+- 940
+: 956 2 8 Fi
+: 960 2 9 re 
+* 964 2 11 a
+* 968 7 6 way 
+* 976 16 4 ~ 
+- 994
+: 1536 2 -1 Well 
+: 1540 2 1 you’re 
+: 1544 2 4 a 
+* 1548 3 7 real 
+* 1556 3 6 tough 
+: 1564 2 6 cook
+: 1568 2 4 ie 
+- 1571
+: 1572 2 4 With 
+: 1576 2 1 a 
+: 1580 4 4 long 
+: 1588 2 4 his
+: 1592 2 1 to
+: 1596 4 6 ry 
+- 1602
+: 1608 2 4 Of 
+: 1612 2 6 brea
+: 1616 2 4 king 
+: 1620 2 6 lit
+: 1624 2 4 tle 
+: 1628 4 6 hearts 
+- 1634
+: 1636 2 6 Like 
+: 1640 2 4 the 
+: 1644 2 6 one 
+: 1648 2 6 in 
+: 1652 6 8 me 
+- 1660
+: 1664 2 1 Be
+: 1668 2 1 fore 
+: 1672 2 4 I 
+* 1676 1 7 put 
+* 1678 1 6 a
+* 1680 2 6 no
+* 1684 2 4 ther 
+: 1688 3 4 notch 
+- 1693
+: 1700 2 4 In 
+: 1704 2 1 my 
+: 1708 2 4 lip
+: 1712 4 4 stick 
+: 1720 4 6 case 
+- 1726
+: 1736 2 4 You 
+: 1740 2 6 bet
+: 1744 2 4 ter 
+: 1748 3 6 make 
+: 1756 2 6 sure 
+- 1759
+: 1760 2 4 You 
+: 1764 2 6 put 
+: 1768 2 4 me 
+: 1772 2 6 in 
+: 1776 4 6 my 
+: 1784 8 8 place 
+- 1794
+* 1804 2 8 Hit 
+* 1808 2 6 me 
+* 1812 2 6 with 
+* 1816 2 4 your 
+: 1820 4 4 best 
+: 1828 6 8 shot 
+- 1836
+: 1868 2 8 Hit 
+: 1872 2 6 me 
+: 1876 2 6 with 
+: 1880 2 4 your 
+: 1884 4 4 best 
+: 1892 6 8 shot 
+- 1900
+: 1932 2 8 Hit 
+: 1936 2 6 me 
+: 1940 2 6 with 
+: 1944 2 4 your 
+: 1948 4 4 best 
+: 1956 6 8 shot 
+- 1964
+: 1980 2 8 Fi
+: 1984 2 9 re 
+: 1988 2 11 a
+* 1992 7 6 way 
+* 2000 16 4 ~ 
+- 2018
+: 2060 2 8 Hit 
+: 2064 2 6 me 
+: 2068 2 6 with 
+: 2072 2 4 your 
+: 2076 4 4 best 
+: 2084 6 8 shot 
+- 2092
+: 2112 2 4 Why 
+: 2116 2 6 don’t 
+* 2120 2 4 you 
+* 2124 1 8 hit 
+* 2126 1 6 me 
+* 2128 2 6 with 
+* 2132 2 4 your 
+* 2136 4 6 best 
+: 2144 2 1 shot 
+: 2148 5 -1 ~ 
+- 2155
+: 2188 2 8 Hit 
+: 2192 2 6 me 
+: 2196 2 6 with 
+: 2200 2 4 your 
+: 2204 4 4 best 
+: 2212 6 8 shot 
+- 2220
+: 2236 2 8 Fi
+* 2240 2 9 re 
+* 2244 2 11 a
+* 2248 52 11 way 
+- 2302
+: 2304 4 11 Hey 
+: 2312 6 11 hey 
+E

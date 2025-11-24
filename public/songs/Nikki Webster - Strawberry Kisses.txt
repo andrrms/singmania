@@ -1,0 +1,432 @@
+#ARTIST:Nikki Webster
+#TITLE:Strawberry Kisses
+#MP3:Nikki Webster - Strawberry Kisses.mp3
+#CREATOR:UltraSinger
+#COVER:Nikki Webster - Strawberry Kisses [CO].jpg
+#BACKGROUND:Nikki Webster - Strawberry Kisses [BG].jpg
+#YEAR:2001
+#LANGUAGE:English
+#BPM:393.22
+#GAP:26420
+#VIDEO:v=pc0JXDiZQ5k,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/40/ab/4b40abfd-159e-d2a8-e4bd-95a87e2d688a/886448228769.jpg/5000x5000bb.jpg
+: 0 6 16 From 
+: 8 2 16 the 
+: 12 5 16 bot
+: 18 4 16 tom 
+: 24 2 16 of 
+: 28 4 17 my 
+: 34 8 17 heart 
+- 52
+: 56 6 16 Boy 
+: 66 2 16 I 
+: 70 6 16 gotta 
+: 78 4 16 tell 
+: 84 6 20 you 
+: 92 6 20 this 
+- 108
+: 112 6 17 Since 
+: 120 2 16 the 
+: 124 6 16 day 
+: 132 4 16 we’ve 
+: 140 4 16 been 
+: 146 8 16 apart 
+- 164
+: 168 6 16 You’re 
+: 176 2 16 the 
+: 184 4 18 only 
+: 192 6 16 one 
+: 200 4 16 I 
+: 206 4 16 miss 
+- 216
+: 218 4 20 I’m 
+: 226 6 20 like 
+: 234 2 20 a 
+: 238 6 19 tree 
+: 248 4 16 with 
+: 254 6 16 no 
+: 262 6 16 roots 
+- 274
+: 276 4 20 I 
+: 282 4 20 just 
+: 288 6 20 can’t 
+: 296 6 21 live 
+: 304 12 20 without 
+: 318 50 16 you 
+: 378 20 19 Yeah 
+: 402 30 18 yeah 
+- 439
+: 442 6 16 Thought 
+: 452 2 16 we 
+: 456 4 16 were 
+: 462 8 16 just 
+: 472 1 16 a 
+: 474 8 13 summer 
+: 484 5 16 ro
+: 490 4 17 mance 
+- 503
+: 506 2 17 Nothing 
+: 512 2 16 but 
+: 516 2 16 a 
+: 520 4 16 pas
+: 526 8 20 sing 
+: 542 8 20 fling 
+- 557
+: 560 6 16 Seemed 
+: 568 2 17 my 
+: 572 8 16 heart 
+: 582 6 15 had 
+: 590 2 16 other 
+: 596 6 17 plans 
+- 609
+: 612 6 16 Now 
+: 620 6 16 I’m 
+: 628 2 16 a 
+: 636 2 16 puppet 
+: 642 1 15 on 
+: 644 2 15 a 
+: 652 6 16 string 
+- 664
+: 666 8 20 Don’t 
+: 676 4 20 leave 
+: 682 4 20 me 
+: 688 5 20 dang
+: 694 4 16 ling 
+: 704 4 16 out 
+: 710 4 16 there 
+- 721
+: 724 4 20 Boy 
+: 730 4 20 can’t 
+: 736 2 20 you 
+: 742 8 20 tell 
+: 752 6 16 how 
+: 760 2 16 much 
+: 768 2 21 I 
+: 774 54 21 care? 
+- 834
+: 836 4 20 Still 
+: 842 4 19 see 
+: 848 2 20 the 
+: 852 8 20 sun
+: 862 8 18 light 
+: 872 2 16 in 
+: 876 6 20 your 
+: 884 76 33 hair 
+: 964 6 18 Oh 
+: 972 10 16 oh 
+: 984 12 25 oh 
+- 996
+: 998 10 23 I’ve 
+: 1012 10 19 been 
+: 1024 12 16 missin’ 
+: 1040 2 16 your 
+: 1044 16 21 straw
+: 1062 16 21 berry 
+: 1082 12 16 kisses 
+- 1101
+: 1104 2 16 ’Cause 
+: 1110 2 16 no
+: 1116 4 16 thing 
+: 1124 8 18 as 
+: 1134 10 18 sweet 
+: 1160 2 15 that 
+: 1166 4 16 tastes 
+: 1172 6 16 still 
+: 1180 4 16 drives 
+: 1186 6 23 me 
+: 1194 24 20 crazy 
+- 1220
+: 1222 12 23 I’ve 
+: 1236 8 20 been 
+: 1250 12 16 wishin’ 
+: 1264 2 16 my 
+: 1268 17 21 straw
+: 1286 18 21 berry 
+: 1306 14 16 kisses 
+- 1326
+: 1328 2 16 Could 
+: 1332 16 16 fly 
+: 1350 6 18 through 
+: 1358 2 16 the 
+: 1362 12 16 wind 
+: 1376 4 15 to 
+: 1382 18 15 you 
+: 1402 12 15 from 
+: 1418 18 16 me 
+- 1436
+: 1438 2 16 I’ve 
+: 1444 4 19 been 
+: 1450 10 25 missin’ 
+: 1462 8 24 wishin’ 
+: 1474 12 23 missin’ 
+: 1488 4 11 your 
+: 1494 17 28 straw
+: 1512 16 37 berry 
+: 1530 14 39 kisses 
+- 1544
+: 1546 4 31 I’ve 
+: 1552 6 32 been 
+: 1560 10 18 missin’ 
+: 1572 12 16 wishin’ 
+: 1586 12 16 missin’ 
+: 1600 4 11 your 
+: 1606 12 12 straw
+: 1628 12 14 berry 
+: 1642 14 37 kisses 
+- 1666
+: 1686 4 16 There’s 
+: 1692 4 17 no 
+: 1698 5 16 ques
+: 1704 6 16 tion 
+: 1712 4 16 at 
+: 1718 8 16 all 
+- 1738
+: 1742 2 23 Boy 
+: 1748 2 13 you’re 
+: 1754 8 16 tops 
+: 1764 4 16 on 
+: 1770 4 16 my 
+: 1776 8 20 list 
+- 1794
+: 1798 4 16 I’m 
+: 1804 3 16 fal
+: 1808 2 17 ling 
+: 1812 6 16 head 
+: 1822 6 16 over 
+: 1832 8 10 toes 
+- 1850
+: 1854 2 16 At 
+: 1860 4 17 the 
+: 1868 3 17 tho
+: 1872 4 18 ught 
+: 1878 2 15 of 
+: 1882 4 15 your 
+: 1888 6 16 lips 
+- 1903
+: 1906 2 20 I 
+: 1910 4 20 know 
+: 1916 6 21 you’re 
+: 1924 5 20 cry
+: 1930 4 20 ing 
+: 1938 4 16 no 
+: 1944 6 16 no 
+- 1956
+: 1958 6 20 Can’t 
+: 1966 4 20 write 
+: 1972 6 21 those 
+: 1982 4 18 pretty 
+: 1988 4 16 words 
+: 1994 4 21 to 
+: 2000 60 33 show 
+- 2072
+: 2076 2 21 Me 
+: 2080 4 19 how 
+: 2086 4 20 you 
+: 2092 8 20 feel 
+: 2102 2 19 deep 
+: 2108 5 20 in
+: 2114 78 20 side 
+- 2196
+: 2198 2 16 Oh 
+: 2206 8 23 Oh 
+: 2218 10 23 Oh 
+- 2234
+: 2236 8 23 I’ve 
+: 2248 10 18 been 
+: 2260 5 18 mis
+: 2266 6 16 sing 
+: 2274 4 16 your 
+: 2280 16 33 straw
+: 2298 16 20 berry 
+: 2318 16 16 kisses 
+- 2338
+: 2340 4 13 ’Cause 
+: 2346 2 16 no
+: 2352 4 16 thing’s 
+: 2362 8 18 as 
+: 2372 8 18 sweet 
+: 2396 2 15 the 
+: 2400 6 16 taste 
+: 2408 4 16 still 
+: 2414 6 16 drives 
+: 2422 6 21 me 
+: 2430 24 18 crazy 
+- 2456
+: 2458 12 23 I’ve 
+: 2474 10 18 been 
+: 2486 5 19 wi
+: 2492 6 16 sing 
+: 2500 4 16 my 
+: 2506 17 21 straw
+: 2524 18 21 berry 
+: 2544 16 15 kisses 
+- 2560
+: 2562 6 16 Could 
+: 2570 12 16 fly 
+: 2586 4 16 through 
+: 2592 6 18 the 
+: 2600 10 18 wind 
+: 2614 4 16 to 
+: 2620 16 15 you 
+: 2640 8 15 from 
+: 2650 22 15 me 
+- 2698
+F 2772 1 16 I 
+: 2774 4 16 know 
+: 2780 2 17 what 
+: 2784 4 18 I’ll 
+: 2790 10 25 do 
+: 2802 2 16 once 
+: 2806 1 16 I 
+: 2808 6 16 find 
+: 2816 10 23 you 
+- 2828
+: 2830 6 21 You’re 
+: 2838 10 16 gonna 
+: 2850 6 21 make 
+: 2858 4 25 me 
+: 2864 6 24 your 
+: 2872 8 20 girl 
+- 2882
+: 2884 2 32 You’re 
+: 2888 4 16 gonna 
+: 2894 4 16 be 
+: 2900 10 16 mine 
+: 2914 4 16 even 
+: 2920 6 16 if 
+: 2928 8 16 I 
+- 2945
+: 2948 12 16 Gotta 
+: 2964 4 20 search 
+: 2970 8 18 the 
+: 2980 2 16 whole 
+: 2984 62 23 world 
+- 3056
+: 3064 10 25 But 
+: 3076 134 35 Ohhhhhhhhh 
+- 3214
+: 3216 12 23 Straw
+: 3230 12 21 berry 
+: 3244 20 16 kisses 
+: 3280 10 23 C’mon 
+: 3294 10 25 baby 
+: 3306 36 28 now 
+- 3352
+: 3392 8 23 Gonna 
+: 3402 2 20 make 
+: 3406 6 20 you 
+: 3414 32 16 mine 
+- 3498
+: 3668 12 23 I’ve 
+: 3682 8 19 been 
+: 3694 12 16 missin’ 
+: 3710 4 16 your 
+: 3716 14 21 straw
+: 3732 16 21 berry 
+: 3752 14 16 kisses 
+- 3770
+: 3772 2 16 ’Cause 
+: 3780 2 16 no
+: 3786 4 16 thing 
+: 3792 10 18 as 
+: 3804 10 18 sweet 
+: 3830 2 15 that 
+: 3836 4 16 tastes 
+: 3842 6 16 still 
+: 3850 4 16 drives 
+: 3856 6 23 me 
+: 3864 24 20 crazy 
+- 3890
+: 3892 8 20 I’ve 
+: 3906 6 18 been 
+: 3916 7 19 wi
+: 3924 6 16 shing 
+: 3932 4 16 my 
+: 3938 19 21 straw
+: 3958 12 21 berry 
+: 3974 14 16 kisses 
+- 3997
+: 4000 2 16 Could 
+: 4004 12 16 fly 
+: 4018 4 18 through 
+: 4024 4 18 the 
+: 4030 8 18 wind 
+: 4042 8 16 to 
+: 4052 16 15 you 
+: 4070 10 15 from 
+: 4082 6 15 me 
+- 4088
+: 4090 8 23 I’ve 
+: 4100 12 20 been 
+: 4114 3 19 mis
+: 4118 8 16 sing 
+: 4128 4 16 your 
+: 4134 23 33 straw
+: 4158 12 20 berry 
+: 4172 14 21 kisses 
+- 4196
+: 4200 7 16 No
+: 4208 8 23 thing’s 
+: 4218 6 20 as 
+: 4226 10 19 sweet 
+: 4248 4 15 The 
+: 4254 10 16 taste 
+: 4266 2 16 still 
+: 4270 6 23 drives 
+: 4278 4 21 me 
+: 4284 20 18 crazy 
+- 4310
+: 4312 14 20 I’ve 
+: 4328 8 23 been 
+: 4338 14 16 wishin’ 
+: 4354 4 16 my 
+: 4360 23 21 straw
+: 4384 10 19 berry 
+: 4396 18 18 kisses 
+- 4416
+: 4418 4 16 Could 
+: 4424 12 16 fly 
+: 4438 6 18 through 
+: 4446 2 18 the 
+: 4450 10 18 wind 
+: 4464 10 16 to 
+: 4476 14 16 you 
+: 4494 8 15 from 
+: 4508 4 23 me 
+- 4514
+: 4516 6 23 I’ve 
+: 4524 10 20 been 
+: 4536 12 16 missin’ 
+: 4550 4 16 your 
+: 4556 19 33 straw
+: 4576 12 33 berry 
+: 4592 16 16 kisses 
+- 4617
+: 4620 7 16 No
+: 4628 8 18 thing’s 
+: 4638 8 18 as 
+: 4648 10 19 sweet 
+: 4672 2 14 the 
+: 4676 6 16 taste 
+: 4684 4 16 still 
+: 4690 6 16 drives 
+: 4698 4 23 me 
+: 4704 30 21 crazy 
+- 4734
+: 4736 10 20 I’ve 
+: 4748 8 18 been 
+: 4760 12 16 wishin’ 
+: 4776 4 16 my 
+: 4782 19 33 straw
+: 4802 14 19 berry 
+: 4818 16 19 kisses 
+- 4836
+: 4838 2 16 Could 
+: 4846 12 16 fly 
+: 4860 4 16 through 
+: 4866 6 18 the 
+: 4874 8 18 wind 
+: 4886 8 16 to 
+: 4898 14 15 you 
+: 4914 8 15 from 
+: 4924 28 16 me 
+E

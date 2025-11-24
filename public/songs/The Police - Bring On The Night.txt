@@ -1,0 +1,324 @@
+#ARTIST:The Police
+#TITLE:Bring On The Night
+#MP3:The Police - Bring On The Night.mp3
+#CREATOR:DoubleDee
+#COVER:The Police - Bring On The Night [CO].jpg
+#BACKGROUND:The Police - Bring On The Night [BG].jpg
+#GENRE:Rock
+#YEAR:1979
+#LANGUAGE:English
+#BPM:219.2
+#GAP:27830
+#VIDEO:a=YVgWQyGOTvk,co=bring-on-the-night-55c7cb453ef46.jpg,bg=police-the-5bd459b542fbc.jpg
+: 0 1 0 The 
+: 2 3 7 af
+: 6 2 4 ter
+: 10 2 7 noon 
+: 14 3 4 has 
+: 18 3 7 gent
+: 22 6 6 ly 
+: 46 3 2 passed 
+: 52 2 4 me 
+: 55 22 4 by 
+- 79
+: 128 1 0 The 
+: 130 1 7 eve
+: 134 2 4 ning 
+: 138 2 7 spreads 
+: 142 1 4 its 
+: 146 6 7 sail 
+: 154 2 6 a
+: 159 8 3 gainst 
+: 174 2 2 the 
+: 180 5 11 sky
+: 186 34 9 ~ 
+- 222
+: 260 1 12 Wai
+: 262 3 12 ting 
+: 266 3 11 for 
+: 270 2 9 to
+: 274 4 11 mo
+: 280 13 9 rrow 
+- 295
+: 324 2 11 Just 
+: 327 2 9 a
+: 330 2 7 no
+: 333 2 9 ther 
+: 338 9 11 day
+: 348 11 9 ~ 
+- 361
+: 386 8 14 God 
+: 396 3 12 bid 
+: 400 5 11 yes
+: 406 2 9 ter
+: 409 7 9 day 
+: 431 3 7 good
+* 435 6 11 bye
+* 442 52 9 ~ 
+- 496
+: 515 6 11 Bring 
+: 522 5 11 on 
+: 529 4 9 the 
+: 534 8 9 night 
+- 544
+: 577 2 2 I 
+: 580 1 10 could
+: 582 1 9 n’t 
+: 586 3 7 stand 
+: 592 2 4 a
+: 596 1 11 no
+: 598 2 9 ther 
+: 602 4 7 hour 
+: 607 2 4 of 
+: 612 7 11 day
+: 620 5 9 light 
+- 627
+: 644 5 11 Bring 
+: 650 6 11 on 
+: 657 3 9 the 
+: 661 8 9 night 
+- 671
+: 705 2 2 I 
+: 708 1 11 could
+: 710 1 9 n’t 
+: 713 6 7 stand 
+: 720 2 4 a
+: 724 1 11 no
+: 726 2 9 ther 
+: 730 4 7 hour 
+: 735 2 4 of 
+: 740 5 11 day
+: 746 7 9 light 
+- 755
+: 769 3 12 The 
+: 773 4 12 fu
+: 778 3 11 ture 
+: 782 4 11 is 
+: 788 4 11 but 
+: 793 6 9 a 
+: 814 3 7 ques
+: 818 4 9 tion 
+: 823 19 11 mark 
+- 844
+: 897 4 11 Hangs 
+: 902 2 12 a
+: 905 3 11 bove 
+: 909 4 12 my 
+: 914 5 11 head 
+: 920 9 9 there 
+: 941 2 7 in 
+: 944 2 9 the 
+: 948 5 11 dark
+: 954 28 9 ~ 
+- 984
+* 1021 5 14 Can’t 
+: 1027 5 14 see 
+: 1034 3 12 for 
+: 1038 4 11 the 
+: 1044 4 12 bright
+: 1050 9 11 ness 
+- 1061
+: 1090 1 4 Is 
+: 1092 3 11 sta
+: 1097 4 12 ring 
+: 1102 3 9 me 
+* 1106 23 11 blind 
+- 1131
+: 1155 5 14 God 
+: 1162 2 12 bid 
+: 1165 4 11 this 
+: 1170 4 12 yes
+: 1175 2 11 ter
+: 1178 6 9 day 
+: 1199 3 7 good
+: 1203 6 11 bye
+: 1210 31 9 ~ 
+- 1243
+: 1284 5 11 Bring 
+: 1290 5 11 on 
+: 1296 5 9 the 
+: 1303 6 9 night 
+- 1311
+: 1346 1 4 I 
+: 1349 1 10 could
+: 1351 1 9 n’t 
+: 1354 5 7 stand 
+: 1360 2 4 a
+: 1364 1 10 no
+: 1366 2 9 ther 
+: 1369 5 7 hour 
+: 1375 3 4 of 
+: 1380 7 11 day
+: 1388 8 9 light 
+- 1398
+: 1412 5 11 Bring 
+: 1418 5 11 on 
+: 1424 5 9 the 
+: 1431 6 9 night 
+- 1439
+: 1475 1 4 I 
+: 1477 1 10 could
+: 1479 1 9 n’t 
+: 1482 5 7 stand 
+: 1488 2 4 a
+: 1492 1 10 no
+: 1494 2 9 ther 
+: 1497 5 7 hour 
+: 1503 3 4 of 
+: 1508 7 11 day
+: 1516 8 9 light 
+- 1526
+: 2181 5 11 Bring 
+: 2187 5 11 on 
+: 2193 5 9 the 
+: 2200 6 9 night 
+- 2208
+: 2242 1 4 I 
+: 2244 2 10 could
+: 2247 1 9 n’t 
+: 2250 5 7 stand 
+: 2257 2 4 a
+: 2261 1 10 no
+: 2263 2 9 ther 
+: 2266 5 7 hour 
+: 2272 3 4 of 
+: 2277 7 11 day
+: 2285 8 9 light 
+- 2295
+: 2309 5 11 Bring 
+: 2315 5 11 on 
+: 2321 5 9 the 
+: 2328 6 9 night 
+- 2336
+: 2371 1 4 I 
+: 2373 1 10 could
+: 2375 1 9 n’t 
+: 2379 5 7 stand 
+: 2386 2 4 a
+: 2390 1 10 no
+: 2392 1 9 ther 
+: 2394 5 7 hour 
+: 2400 3 4 of 
+: 2405 7 11 day
+: 2413 8 9 light 
+- 2423
+: 2561 2 4 I 
+: 2564 2 10 could
+: 2567 2 9 n’t 
+: 2570 6 7 stand 
+: 2577 1 4 a
+: 2581 1 10 no
+: 2583 2 9 ther 
+: 2587 4 7 hour 
+: 2592 1 4 of 
+: 2597 5 11 day
+: 2603 4 9 light 
+- 2609
+: 2627 1 4 I 
+: 2629 1 10 could
+: 2631 2 9 n’t 
+: 2634 6 7 stand 
+: 2641 1 4 a
+: 2645 2 10 no
+: 2648 2 9 ther 
+: 2652 4 7 hour 
+: 2657 1 4 of 
+: 2661 5 11 day
+: 2667 4 9 light 
+- 2673
+: 2689 2 4 I 
+: 2692 1 10 could
+: 2694 2 9 n’t 
+: 2697 6 7 stand 
+: 2706 1 4 a
+: 2709 2 10 no
+: 2712 2 9 ther 
+: 2715 4 7 hour 
+: 2720 1 4 of 
+: 2725 5 11 day
+: 2731 4 9 light 
+- 2737
+: 2754 2 4 I 
+: 2757 2 10 could
+: 2760 2 9 n’t 
+: 2763 6 7 stand 
+: 2770 1 4 a
+: 2774 1 10 no
+: 2776 1 9 ther 
+: 2780 4 7 hour 
+: 2785 1 4 of 
+: 2790 5 11 day
+: 2796 4 9 light 
+- 2802
+: 2819 2 4 I 
+: 2822 1 10 could
+: 2824 2 9 n’t 
+: 2827 6 7 stand 
+: 2834 1 4 a
+: 2838 1 10 no
+: 2840 2 9 ther 
+: 2844 4 7 hour 
+: 2849 1 4 of 
+: 2854 5 12 day
+: 2860 4 7 light 
+- 2866
+: 2882 2 4 I 
+: 2885 2 10 could
+: 2888 2 9 n’t 
+: 2892 5 7 stand 
+: 2898 1 4 a
+: 2902 1 10 no
+: 2904 1 9 ther 
+: 2908 4 7 hour 
+: 2913 1 4 of 
+: 2918 5 7 day
+: 2924 4 4 light 
+- 2930
+: 2946 2 4 I 
+: 2949 2 10 could
+: 2952 2 9 n’t 
+: 2955 6 7 stand 
+: 2962 1 4 a
+: 2965 2 10 no
+: 2968 2 9 ther 
+: 2972 4 7 hour 
+: 2977 1 4 of 
+: 2982 5 11 day
+: 2988 4 9 light 
+- 2994
+: 3010 2 4 I 
+: 3013 2 10 could
+: 3016 2 9 n’t 
+: 3019 6 7 stand 
+: 3026 1 4 a
+: 3030 1 10 no
+: 3032 2 9 ther 
+: 3036 4 7 hour 
+: 3041 1 4 of 
+: 3046 5 11 day
+: 3052 4 9 light 
+- 3058
+: 3073 2 4 I 
+: 3076 2 10 could
+: 3079 2 9 n’t 
+: 3082 6 7 stand 
+: 3089 1 4 a
+: 3093 1 10 no
+: 3095 2 9 ther 
+: 3099 4 7 hour 
+: 3104 1 4 of 
+: 3109 5 11 day
+: 3115 4 9 light 
+- 3121
+: 3138 2 4 I 
+: 3141 2 10 could
+: 3144 2 9 n’t 
+: 3147 6 7 stand 
+: 3154 1 4 a
+: 3158 1 10 no
+: 3160 2 9 ther 
+: 3164 4 7 hour 
+: 3169 1 4 of 
+: 3174 5 11 day
+: 3180 4 9 light 
+E

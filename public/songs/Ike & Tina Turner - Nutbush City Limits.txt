@@ -1,0 +1,261 @@
+#ARTIST:Ike & Tina Turner
+#TITLE:Nutbush City Limits
+#MP3:Ike & Tina Turner - Nutbush City Limits.mp3
+#CREATOR:Fepo
+#GENRE:Rock
+#YEAR:1973
+#LANGUAGE:English
+#BPM:297.5
+#GAP:22550
+#VIDEO:v=6Eh47h5gcQI,co=nutbush-city-limits-68b5a61232533.jpg,bg=turner-ike--turner-tina-524dd80cf0726.jpg
+: 0 4 2 A 
+: 5 5 5 Church 
+: 11 8 4 House 
+: 20 6 5 Gin 
+: 27 10 2 House 
+- 39
+: 63 2 3 A 
+: 66 8 4 School 
+: 75 8 2 House 
+: 84 6 3 Out 
+: 92 7 2 House 
+- 101
+: 122 4 2 On 
+: 128 5 10 High
+: 134 5 6 way 
+: 140 2 2 Num
+: 143 4 2 ber 
+: 148 6 5 Nine
+: 155 9 2 teen 
+- 166
+: 188 5 1 The 
+: 194 2 1 Peo
+: 197 4 1 ple 
+: 202 3 3 keep 
+: 206 2 0 the 
+: 209 4 4 Ci
+: 214 3 1 ty 
+: 218 9 2 clean 
+- 229
+: 243 4 5 They 
+: 248 2 5 call 
+: 251 2 5 it 
+: 256 6 10 Nut
+: 264 9 3 bush 
+- 275
+: 309 6 1 Oh 
+: 316 6 0 Nut
+* 325 7 -2 bush 
+- 334
+: 370 3 4 Call 
+: 374 3 2 it 
+: 378 4 4 Nut
+: 385 6 4 bush 
+: 393 2 6 Ci
+: 396 5 6 ty 
+: 402 2 5 li
+: 405 8 5 mits 
+- 415
+: 495 2 4 Twen
+: 498 4 4 ty
+: 503 7 8 five 
+: 511 3 5 was 
+: 515 3 7 the 
+: 519 5 8 Speed 
+: 525 3 4 li
+: 529 6 4 mit 
+- 537
+: 552 3 0 A 
+: 556 3 0 Mo
+: 560 2 0 tor
+: 563 5 2 cy
+: 569 3 1 cle 
+: 573 4 0 not 
+: 578 2 0 al
+: 581 6 2 lowed 
+: 589 3 -1 in 
+: 593 3 0 it 
+- 598
+: 614 3 0 You 
+: 618 2 0 go 
+: 621 4 0 to 
+: 626 4 3 School 
+: 631 5 0 on 
+: 640 7 2 Fri
+: 648 6 0 days 
+- 656
+: 676 4 0 To 
+: 681 3 0 go 
+: 685 3 0 to 
+: 689 8 2 Church 
+: 698 4 -1 on 
+: 704 6 1 Sun
+: 711 10 0 days 
+- 723
+: 739 3 0 They 
+: 743 3 0 call 
+: 747 3 0 it 
+* 752 5 4 Nut
+* 758 13 3 bush 
+- 773
+: 774 2 2 A 
+: 777 7 2 love 
+: 785 11 0 Town 
+- 798
+: 800 9 8 Oh 
+: 810 9 2 Nut
+: 820 11 1 bush 
+- 833
+: 865 4 0 Call 
+: 870 3 0 it 
+: 875 4 1 Nut
+: 880 7 0 bush 
+: 889 3 2 Ci
+: 893 2 1 ty 
+: 896 4 0 li
+: 901 6 0 mits 
+- 909
+: 984 5 0 You’re 
+: 990 2 0 gon
+: 993 3 0 na 
+: 997 6 3 feel 
+: 1004 5 0 on 
+: 1011 7 1 Week
+: 1019 10 0 days 
+- 1031
+: 1048 3 1 And 
+: 1052 3 0 have 
+: 1056 2 0 a 
+: 1059 3 2 Pic
+: 1063 3 1 nic 
+: 1067 4 0 on 
+: 1073 3 2 La
+: 1077 4 -1 bour 
+: 1082 9 0 Days 
+- 1093
+: 1108 3 0 You 
+: 1112 3 0 go 
+: 1116 3 0 to 
+: 1120 6 2 Town 
+: 1128 5 0 on 
+: 1134 4 2 Sa
+: 1139 4 2 tur
+: 1144 7 0 days 
+- 1153
+: 1168 5 0 But 
+: 1174 3 0 go 
+: 1178 2 0 to 
+: 1181 5 3 church 
+: 1187 8 0 ev’
+: 1196 4 0 ry 
+: 1203 7 1 Sun
+: 1211 6 0 day 
+- 1219
+: 1230 3 3 They 
+: 1234 3 4 call 
+: 1238 4 2 it 
+: 1244 6 3 Nut
+* 1252 21 6 bush 
+- 1275
+: 1294 7 5 Oh 
+: 1306 6 0 Nut
+: 1314 8 -1 bush 
+- 1324
+: 1358 4 2 Call 
+: 1363 2 1 it 
+: 1366 6 0 Nut
+: 1373 7 0 bush 
+: 1382 4 2 Ci
+: 1387 2 1 ty 
+: 1390 3 0 li
+: 1394 5 0 mits 
+- 1401
+: 1974 3 2 No 
+: 1978 5 0 Whis
+: 1984 2 -1 key 
+: 1987 3 1 for 
+: 1991 8 0 sale 
+- 2001
+: 2029 3 0 You 
+: 2033 5 0 get 
+: 2039 7 3 caught 
+: 2047 4 0 no 
+: 2053 10 2 Bail 
+- 2065
+: 2093 9 0 Soft 
+: 2103 7 2 Port 
+: 2111 3 0 and 
+: 2115 3 0 Mo
+: 2119 5 1 las
+: 2125 6 0 ses 
+- 2133
+: 2151 4 0 Is 
+: 2156 17 4 all 
+: 2174 5 0 you 
+: 2180 3 0 get 
+: 2184 3 -1 in 
+: 2190 14 0 Jail 
+- 2206
+: 2214 3 0 They 
+: 2219 2 3 call 
+: 2222 2 1 it 
+: 2225 7 2 Nut
+: 2233 15 0 bush 
+- 2250
+: 2278 7 4 Oh 
+: 2287 7 0 Nut
+: 2295 9 2 bush 
+- 2306
+: 2333 4 2 Yeah, 
+: 2338 2 0 they 
+: 2341 3 0 call 
+: 2345 2 0 it 
+: 2349 6 2 Nut
+: 2356 7 1 bush 
+: 2364 3 3 Ci
+: 2368 3 3 ty 
+- 2373
+: 2411 6 0 Nut 
+: 2418 6 0 bush 
+: 2425 3 4 Ci
+: 2429 2 3 ty 
+: 2432 3 1 li
+: 2436 8 1 mits 
+- 2446
+: 2468 4 0 Lit
+: 2473 3 0 tle 
+: 2477 5 0 old 
+: 2483 11 2 Town 
+: 2495 3 0 in 
+: 2499 2 0 Ten
+: 2502 3 0 nes
+: 2506 8 0 see 
+- 2516
+: 2520 5 2 That’s 
+: 2527 12 0 called 
+- 2541
+: 2602 20 5 Quiet 
+: 2625 1 0 lit
+: 2627 1 0 tle 
+: 2629 4 0 old 
+: 2634 2 0 Com
+: 2637 2 0 mu
+: 2640 2 2 n
+: 2643 7 1 ity 
+- 2652
+: 2712 3 0 A 
+: 2716 6 4 one 
+: 2723 6 0 Horse 
+: 2730 11 2 Town 
+- 2743
+: 2766 4 0 You 
+: 2771 3 0 have 
+: 2775 3 3 to 
+: 2779 11 0 watch 
+- 2792
+: 2816 3 2 What 
+: 2820 4 1 you’re 
+: 2825 2 2 put
+: 2828 4 1 ting 
+: 2833 7 0 down 
+E

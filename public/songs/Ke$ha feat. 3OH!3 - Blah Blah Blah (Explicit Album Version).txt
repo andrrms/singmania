@@ -1,0 +1,488 @@
+#ARTIST:Ke$ha feat. 3OH!3
+#TITLE:Blah Blah Blah (Explicit Album Version)
+#MP3:Ke$ha feat. 3OH!3 - Blah Blah Blah (Explicit Album Version).mp3
+#CREATOR:klops_007
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:240
+#GAP:2320
+#VIDEO:a=2Y-8zQp6a9g,co=blah-blah-blah-5e35c7d99e606.jpg,bg=kesha-4f898325be875.jpg,tags=explicit
+F 0 1 -2 Ba 
+F 2 1 -2 ba 
+F 4 1 -2 ba 
+F 8 3 -2 ba 
+- 12
+F 12 1 -2 Ba
+F 14 1 -2 ba
+F 16 3 -2 blah 
+F 20 3 -2 blah 
+F 24 3 -2 blah 
+- 29
+F 32 1 -2 Co
+F 34 1 -2 min’ 
+F 36 1 -2 out 
+F 38 1 -2 your 
+F 40 2 0 mouth 
+- 43
+F 44 1 -2 With 
+F 46 1 -2 your 
+F 48 2 -1 blah 
+F 52 2 0 blah 
+F 56 2 1 blah 
+- 59
+F 60 3 0 Just 
+F 64 2 5 zip 
+F 70 1 0 your 
+F 72 2 -3 lips 
+- 75
+F 76 1 -2 With 
+F 78 1 -1 a 
+F 80 2 0 pad
+F 84 2 -2 lock 
+- 88
+F 92 3 -1 And 
+F 96 1 -1 meet 
+F 98 1 -1 me 
+F 100 1 -1 in 
+F 102 1 -1 the 
+F 104 3 -1 back 
+- 108
+F 108 1 -1 With 
+F 110 1 -1 the 
+F 112 3 -1 jack 
+F 116 1 -1 and 
+F 118 1 -1 the 
+F 120 3 -1 juke
+F 124 2 -1 box 
+- 128
+F 130 1 -1 Don’t 
+F 132 1 -1 real
+F 134 1 -1 ly 
+F 136 2 -1 care 
+F 140 1 -1 where 
+F 142 1 -1 you 
+F 144 3 -1 live 
+F 148 3 -1 at 
+- 153
+F 156 3 -1 Just 
+F 160 1 -1 turn 
+F 162 1 -1 a
+F 164 3 -1 round 
+F 168 2 -1 boy 
+- 171
+F 172 1 -1 Let 
+F 174 1 -1 me 
+F 176 3 -1 hit 
+F 180 4 -1 that 
+- 186
+F 188 2 -1 Don’t 
+F 192 1 -1 be 
+F 194 1 -1 a 
+F 196 1 -1 lit
+F 198 1 -1 tle 
+F 200 2 -1 bitch 
+- 203
+F 204 1 -1 With 
+F 206 1 -1 your 
+F 208 3 -1 chit 
+F 212 3 -1 chat 
+- 217
+F 220 2 -1 Just 
+F 224 1 -1 show 
+F 226 1 -1 me 
+F 228 1 -1 where 
+F 230 1 -1 your 
+F 232 3 -1 dick’s 
+- 236
+: 236 2 9 Mu-
+: 240 2 9 mu-
+: 244 2 9 mu-
+: 248 2 9 mu
+: 252 2 7 sic’s 
+: 256 6 9 starts 
+- 264
+: 276 2 9 Lis
+: 280 2 7 ten 
+: 284 6 9 hot 
+: 296 5 12 stuff 
+- 303
+: 308 2 9 I’m 
+: 312 2 7 in 
+: 316 6 9 love 
+- 324
+: 344 2 14 With 
+: 348 10 14 this 
+: 364 6 9 song 
+- 371
+: 372 2 9 So 
+: 376 2 7 just 
+: 380 8 9 hush 
+- 390
+: 404 2 9 Ba
+: 408 2 7 by 
+: 412 8 9 shut 
+: 424 6 12 up 
+- 432
+: 436 2 9 Heard 
+: 440 2 7 e
+: 444 6 9 nough 
+- 452
+F 484 2 9 Stop 
+F 488 2 7 ta-
+F 492 2 5 ta-
+F 496 2 4 tal
+F 500 2 4 kin’ 
+F 504 4 1 that 
+- 510
+: 512 8 9 Blah 
+: 524 8 9 blah 
+: 536 8 9 blah 
+- 546
+F 548 2 9 Think 
+F 552 2 7 you’ll 
+F 556 2 5 be 
+F 560 2 4 get
+F 564 2 4 ting 
+F 568 6 5 this 
+- 575
+: 576 8 9 Nah 
+: 588 9 9 nah 
+: 600 9 9 nah 
+- 610
+F 612 2 12 Not 
+F 616 2 4 in 
+F 620 2 4 the 
+F 624 2 4 back 
+F 628 2 4 of 
+F 632 4 5 my 
+- 638
+: 640 8 9 Car 
+: 652 9 9 ar 
+: 664 9 9 ar 
+- 674
+F 676 2 12 If 
+F 680 2 5 you 
+F 684 2 5 keep 
+F 688 2 5 tal
+F 692 2 5 king 
+F 696 4 5 that 
+- 702
+F 704 6 7 Blah 
+F 716 6 2 blah 
+F 728 6 -2 blah 
+F 740 6 -4 blah 
+F 752 6 -7 blah 
+- 760
+F 768 5 -1 Boy 
+F 774 1 -1 come 
+F 776 1 -1 on 
+F 778 1 -1 and 
+F 780 1 -1 get 
+F 782 1 -1 me 
+F 784 2 -1 rock 
+F 788 4 -1 stuff 
+- 794
+F 796 2 -1 Come 
+F 800 1 -1 put 
+F 802 1 -1 a 
+F 804 1 -1 lit
+F 806 1 -1 tle 
+F 808 3 -1 love 
+F 812 1 -1 in 
+F 814 1 -1 my 
+F 816 3 -1 glove 
+F 820 2 -1 box 
+- 823
+F 824 1 -1 I 
+F 826 1 -1 just 
+F 828 1 -1 wan
+F 830 1 -1 na 
+F 832 3 -1 dance 
+F 838 1 -1 with 
+F 840 2 -1 no 
+F 844 3 -1 pants 
+F 848 4 -1 on 
+- 854
+F 864 1 -1 Meet 
+F 866 1 -1 me 
+F 868 1 -1 in 
+F 870 1 -1 the 
+F 872 3 -1 back 
+- 876
+F 876 1 -1 With 
+F 878 1 -1 the 
+F 880 3 -1 jack 
+F 884 1 -1 and 
+F 886 1 -1 the 
+F 888 3 -1 juke
+F 892 3 -1 box 
+- 897
+F 900 2 -1 So 
+F 904 2 -1 cut 
+F 908 1 -1 to 
+F 910 1 -1 the 
+F 912 5 -1 chase 
+F 920 3 -1 kid 
+- 924
+F 924 1 -1 ’Cause 
+F 926 1 -1 I 
+F 928 1 -1 know 
+F 930 1 -1 you 
+F 932 3 -1 don’t 
+F 936 3 -1 care 
+- 940
+F 940 1 -1 What 
+F 942 1 -1 my 
+F 944 1 -1 mid
+F 946 1 -1 dle 
+F 948 3 -1 name 
+F 952 3 -1 is 
+- 957
+F 964 3 -1 I 
+F 968 1 -1 wan
+F 970 1 -1 na 
+F 972 3 -1 be 
+F 976 3 -1 na
+F 980 2 -1 ked 
+- 983
+F 984 2 -1 And 
+F 988 2 -1 you 
+F 992 4 -1 waste 
+F 1000 2 -1 it 
+- 1003
+: 1004 2 9 Mu-
+: 1008 2 9 mu-
+: 1012 2 9 mu-
+: 1016 2 9 mu
+: 1020 2 7 sic’s 
+: 1024 6 9 starts 
+- 1032
+: 1044 2 9 Lis
+: 1048 2 7 ten 
+: 1052 6 9 hot 
+: 1064 4 12 stuff 
+- 1070
+: 1076 2 9 I’m 
+: 1080 2 7 in 
+: 1084 6 9 love 
+- 1092
+: 1112 2 14 With 
+: 1116 8 14 this 
+: 1132 5 9 song 
+- 1138
+: 1140 2 9 So 
+: 1144 2 7 just 
+: 1148 7 9 hush 
+- 1157
+: 1172 2 9 Ba
+: 1176 2 7 by 
+: 1180 6 9 shut 
+: 1192 5 12 up 
+- 1199
+: 1204 2 9 Heard 
+: 1208 2 7 e
+: 1212 6 9 nough 
+- 1220
+F 1252 2 13 Stop 
+F 1256 2 7 ta-
+F 1260 2 7 ta-
+F 1264 2 5 tal
+F 1268 2 5 kin’ 
+F 1272 4 1 that 
+- 1278
+: 1280 8 9 Blah 
+: 1292 8 9 blah 
+: 1304 8 9 blah 
+- 1314
+F 1316 2 13 Think 
+F 1320 2 4 you’ll 
+F 1324 2 4 be 
+F 1328 2 4 get
+F 1332 2 4 ting 
+F 1336 6 5 this 
+- 1343
+: 1344 8 9 Nah 
+: 1356 9 9 nah 
+: 1368 9 9 nah 
+- 1378
+F 1380 2 12 Not 
+F 1384 2 4 in 
+F 1388 2 4 the 
+F 1392 2 4 back 
+F 1396 2 4 of 
+F 1400 4 5 my 
+- 1406
+: 1408 8 9 Car 
+: 1420 8 9 ar 
+: 1432 8 9 ar 
+- 1442
+F 1444 2 12 If 
+F 1448 2 5 you 
+F 1452 2 5 keep 
+F 1456 2 5 tal
+F 1460 2 5 king 
+F 1464 4 5 that 
+- 1470
+F 1472 6 7 Blah 
+F 1484 6 2 blah 
+F 1496 6 -2 blah 
+F 1508 6 -4 blah 
+F 1520 6 -7 blah 
+- 1528
+F 1540 2 4 You 
+F 1544 2 -1 be 
+F 1548 2 -1 de
+F 1552 2 -1 lay
+F 1556 2 -1 in’ 
+- 1559
+F 1560 2 -1 You 
+F 1564 2 -1 al
+F 1568 2 -1 ways 
+F 1572 2 -1 say
+F 1576 2 -1 ing 
+F 1580 2 -1 some 
+F 1588 4 -1 shit 
+- 1594
+F 1604 2 4 You 
+F 1608 2 -1 say 
+F 1612 2 -1 I’m 
+F 1616 2 -1 play
+F 1620 2 -1 in’ 
+- 1623
+F 1624 2 -1 I’m 
+F 1628 2 -1 ne
+F 1632 2 -1 ver 
+F 1636 2 -1 lay
+F 1640 2 -1 in’ 
+F 1644 2 -1 the 
+F 1648 4 -1 dick 
+- 1654
+: 1656 2 -7 Say
+: 1660 2 -5 in’ 
+: 1664 6 -3 “Blah 
+: 1676 7 -7 Blah 
+: 1688 7 -10 Blah.” 
+- 1697
+: 1700 2 -7 ’Cause 
+: 1704 2 -5 I 
+: 1708 2 -7 don’t 
+: 1712 2 -5 care 
+: 1716 2 -5 who 
+: 1720 2 -3 you 
+: 1724 6 -5 are 
+- 1731
+: 1732 2 -7 In 
+: 1736 2 -3 this 
+: 1740 6 -5 bar 
+: 1748 2 -7 it 
+: 1752 2 -5 on
+: 1756 2 -7 ly 
+: 1760 2 -5 mat
+: 1764 2 -5 ters 
+- 1768
+: 1772 4 -5 Who 
+: 1780 6 -3 I 
+: 1788 3 -7 a
+: 1792 94 -10 ~m 
+- 1888
+F 1916 2 13 Stop 
+F 1920 2 7 ta-
+F 1924 2 7 ta-
+F 1928 2 5 tal
+F 1932 2 5 kin’ 
+F 1936 4 1 that 
+- 1942
+: 1944 8 9 Blah 
+: 1956 8 9 blah 
+: 1968 8 9 blah 
+- 1978
+F 1980 2 13 Think 
+F 1984 2 4 you’ll 
+F 1988 2 4 be 
+F 1992 2 4 get
+F 1996 2 4 ting 
+F 2000 6 5 this 
+- 2007
+: 2008 8 9 Nah 
+: 2020 8 9 nah 
+: 2032 8 9 nah 
+- 2042
+F 2044 2 12 Not 
+F 2048 2 8 in 
+F 2052 2 4 the 
+F 2056 2 4 back 
+F 2060 2 4 of 
+F 2064 4 5 my 
+- 2070
+: 2072 8 9 Car 
+: 2084 8 9 ar 
+: 2096 8 9 ar 
+- 2106
+F 2108 2 12 If 
+F 2112 2 5 you 
+F 2116 2 5 keep 
+F 2120 2 5 tal
+F 2124 2 5 kin’ 
+F 2128 4 5 that 
+- 2134
+F 2136 6 7 Blah 
+F 2148 6 2 blah 
+F 2160 6 -2 blah 
+F 2172 6 -4 blah 
+F 2184 6 -7 blah 
+- 2192
+: 2200 9 9 Blah 
+: 2212 8 9 blah 
+: 2224 8 9 blah 
+- 2234
+F 2236 2 12 Think 
+F 2240 2 4 you’ll 
+F 2244 2 4 be 
+F 2248 2 4 get
+F 2252 2 4 ting 
+F 2256 6 5 this 
+- 2263
+: 2264 8 9 Nah 
+: 2276 9 9 nah 
+: 2288 9 9 nah 
+- 2298
+F 2300 2 12 Not 
+F 2304 2 4 in 
+F 2308 2 4 the 
+F 2312 2 4 back 
+F 2316 2 4 of 
+F 2320 4 5 my 
+- 2326
+: 2328 8 9 Car 
+: 2340 8 9 ar 
+: 2352 8 9 ar 
+- 2362
+F 2364 2 12 If 
+F 2368 2 5 you 
+F 2372 2 5 keep 
+F 2376 2 5 tal
+F 2380 2 5 kin’ 
+F 2384 4 5 that 
+- 2390
+F 2392 6 7 Blah 
+F 2404 6 2 blah 
+F 2416 6 -2 blah 
+F 2428 6 -4 blah 
+F 2440 6 -7 blah 
+- 2448
+: 2504 2 6 Blah 
+: 2508 2 6 blah 
+: 2512 4 0 blah 
+- 2518
+: 2572 2 12 Stop 
+: 2576 2 17 tal
+: 2580 2 12 kin’ 
+- 2584
+F 2684 2 13 Stop 
+F 2688 2 9 ta-
+F 2692 2 7 ta-
+F 2696 2 5 tal
+F 2700 2 5 kin’ 
+F 2704 4 1 that 
+E

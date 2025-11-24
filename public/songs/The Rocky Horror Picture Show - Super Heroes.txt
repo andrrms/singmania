@@ -1,0 +1,132 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Super Heroes
+#MP3:The Rocky Horror Picture Show - Super Heroes.mp3
+#CREATOR:DoubleDee
+#COVER:The Rocky Horror Picture Show - Super Heroes [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - Super Heroes [BG].jpg
+#GENRE:Rock, Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:244
+#GAP:33680
+#VIDEO:a=1ACJxH9f-2g,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=the-rocky-horror-picture-show-54414d5bd38e9.jpg,preview=65.65,medley=0-448,tags=Musical%2C Movies
+* 0 8 -8 I’ve 
+: 15 2 0 done 
+: 18 4 -1 a 
+: 23 24 0 lot, 
+- 56
+: 60 9 -8 God 
+: 70 5 0 knows 
+: 77 6 -1 I’ve 
+: 87 5 0 trie
+: 93 19 2 ~d 
+- 122
+: 130 3 -1 To 
+: 135 2 0 find
+: 138 7 -1 ~ 
+: 146 2 -1 the 
+: 150 29 0 truth, 
+- 188
+: 192 11 2 I’ve 
+: 205 4 2 e
+: 210 6 0 ven 
+: 217 9 -1 lie
+: 227 2 0 ~
+: 230 2 -1 ~
+: 233 17 -3 ~d 
+- 260
+: 264 3 -8 But 
+: 268 7 0 all 
+: 277 6 -1 I 
+: 285 6 0 know
+: 292 6 -5 ~
+: 299 14 -3 ~ 
+- 322
+: 325 7 -5 Is 
+: 333 7 -3 down 
+: 342 4 -4 in
+: 349 7 -3 side 
+: 358 14 -1 I’m 
+: 381 8 0 blee
+: 390 15 -1 ~
+: 406 42 -3 ding 
+- 480
+* 520 7 4 And 
+* 529 7 12 su
+* 537 5 11 per
+* 544 2 11 he
+* 547 3 12 ~
+* 551 26 12 roes 
+- 589
+: 593 8 12 Come 
+: 603 4 11 to 
+: 610 8 12 fea
+: 619 18 14 ~st 
+- 646
+: 649 4 5 To 
+: 656 9 12 taste 
+: 666 3 11 the 
+: 671 4 9 fle
+: 676 5 12 ~
+: 682 5 11 ~sh 
+- 697
+: 712 8 12 Not 
+: 722 6 14 yet 
+: 729 3 12 de
+: 737 7 11 cea
+: 745 16 9 ~sed 
+- 771
+: 775 10 9 And 
+: 787 7 12 all 
+: 795 8 11 I 
+: 804 4 12 know
+: 809 3 7 ~
+: 813 6 9 ~
+: 820 2 8 ~
+: 823 3 5 ~ 
+- 837
+: 841 5 9 Is 
+: 852 3 8 still 
+: 856 5 8 the 
+: 862 6 9 beast 
+: 870 11 11 is 
+: 893 10 12 fee
+: 904 11 11 ~
+: 916 43 9 ding 
+- 991
+R 1778 5 -11 And 
+R 1787 4 -8 craw
+R 1792 5 -14 ling 
+- 1813
+R 1834 2 -17 On 
+R 1837 2 -17 the 
+R 1840 2 -14 pla
+R 1843 2 -14 net’s 
+R 1850 4 -20 face 
+- 1870
+R 1891 3 -6 Some 
+R 1896 3 -7 in
+R 1903 6 -12 sects 
+- 1925
+R 1948 3 -5 Called 
+R 1955 2 -10 the 
+R 1958 2 -8 hu
+R 1961 2 -8 man 
+R 1965 4 -8 race 
+- 1985
+R 2027 5 -9 Lost 
+R 2036 2 -11 in 
+R 2040 4 -17 time, 
+- 2076
+R 2114 3 -12 Lost 
+R 2120 2 -12 in 
+R 2127 6 -17 space 
+- 2149
+R 2166 4 -17 And 
+R 2173 4 -18 mea
+R 2179 5 -27 ning 
+- 2200
+: 2225 8 12 Mea
+: 2234 21 11 ~
+: 2256 97 9 ning 
+E

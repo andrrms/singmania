@@ -1,0 +1,113 @@
+#ARTIST:Within Temptation
+#TITLE:Towards The End
+#MP3:Within Temptation - Towards The End.mp3
+#CREATOR:lava
+#YEAR:2008
+#LANGUAGE:English
+#BPM:299.85
+#GAP:108140
+#VIDEO:a=y-4phsnE9hQ,co=the-silent-force-4dcb14c763460.jpg,bg=within-temptation-4ff5a641724c7.jpg
+: 0 2 0 The 
+: 5 10 4 turn 
+: 16 3 4 a
+: 20 22 4 gainst 
+- 44
+: 58 2 4 The 
+: 61 13 2 world 
+: 75 3 7 we 
+: 79 3 4 kno
+: 83 5 2 ~ 
+: 90 29 4 ~w 
+- 121
+: 137 9 9 Now 
+: 147 6 11 our 
+: 156 12 12 des
+: 171 9 11 ti
+: 184 13 7 ny 
+- 199
+: 206 4 7 Will 
+: 212 12 5 be 
+: 225 2 2 de
+: 230 8 2 ci
+: 241 26 4 ded 
+- 269
+: 278 5 4 We 
+: 286 12 7 have 
+: 300 2 2 to 
+: 304 32 4 send 
+- 338
+: 353 5 4 Our 
+: 360 5 2 bro
+: 366 4 2 thers 
+: 371 8 7 in 
+: 381 39 4 arms 
+- 422
+: 437 7 9 With 
+: 446 8 11 pain 
+: 456 12 12 in 
+: 470 10 11 our 
+: 483 16 7 heart 
+- 501
+: 506 3 7 We 
+: 511 12 5 watched 
+: 525 3 2 them 
+: 530 1 2 go
+: 532 5 4 ~
+: 538 2 5 ~
+: 542 5 2 ~
+: 548 21 4 ~ 
+- 571
+: 578 7 7 Will 
+: 587 12 11 they 
+: 601 3 12 re
+: 606 6 11 tu
+: 613 2 12 ~
+: 616 2 11 ~
+: 619 22 9 ~rn? 
+- 643
+: 755 9 9 Truth 
+: 766 7 11 is 
+: 775 6 12 we 
+: 784 19 9 had 
+: 812 6 12 no
+: 820 6 11 ~ 
+: 830 34 11 choi
+: 868 22 12 ~ce 
+- 892
+: 905 7 9 We’ll 
+: 914 7 11 try 
+: 924 5 12 to 
+: 932 20 9 shield 
+: 960 9 12 those 
+: 970 9 11 we 
+: 980 34 11 ca
+: 1016 24 12 ~n 
+- 1042
+: 1054 8 9 No 
+: 1065 7 11 bet
+: 1074 8 12 ter 
+: 1084 18 9 world 
+- 1104
+: 1110 7 12 Let 
+: 1121 8 11 this 
+: 1131 30 11 e
+: 1168 13 12 ~nd 
+- 1183
+: 1186 6 14 Mo
+: 1194 9 12 ~
+: 1205 24 12 the
+: 1231 7 11 ~rs 
+: 1242 13 11 cry 
+- 1257
+: 1272 6 11 Our 
+: 1280 35 12 boys 
+: 1316 21 14 die 
+- 1339
+: 1346 6 14 But 
+: 1354 24 12 we
+: 1379 9 11 ~’ll 
+: 1392 25 11 stand 
+* 1430 24 12 till 
+* 1457 8 12 the 
+* 1467 35 14 end 
+E

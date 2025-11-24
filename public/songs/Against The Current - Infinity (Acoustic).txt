@@ -1,0 +1,333 @@
+#ARTIST:Against The Current
+#TITLE:Infinity (Acoustic)
+#MP3:Against The Current - Infinity (Acoustic).mp3
+#CREATOR:princetongirl98
+#YEAR:2014
+#LANGUAGE:English
+#BPM:250
+#GAP:8340
+#VIDEO:v=WiEQnse-jPA,co=infinity-the-acoustic-sessions-634e82e0dc55b.jpg,bg=against-the-current-55d8b015a9639.jpg
+: 0 5 7 Roof
+: 7 6 7 top 
+: 15 10 2 tonight 
+: 27 2 11 we 
+: 31 2 11 are 
+: 35 2 0 the 
+: 39 6 11 sky
+: 47 8 9 line 
+- 57
+: 59 1 9 Col
+: 63 3 7 lect
+: 67 3 7 ing 
+: 72 4 7 shoot
+: 78 4 2 ing 
+: 83 11 9 stars 
+- 96
+: 103 6 9 Wishes 
+: 111 2 11 in 
+: 115 2 9 a 
+: 119 6 7 jar 
+- 126
+: 127 2 4 All 
+: 131 6 7 the 
+: 139 8 2 hearts 
+- 149
+: 151 4 2 Wide-
+: 157 5 11 awake 
+: 165 2 0 and 
+: 168 6 11 lone
+: 176 8 9 ly 
+- 186
+: 189 3 7 Dream 
+: 194 2 7 of 
+: 198 7 7 where 
+: 208 2 0 we 
+: 211 11 9 are 
+- 224
+: 255 10 7 Run 
+: 267 6 6 so 
+: 276 10 7 fast 
+- 288
+: 290 1 9 The 
+: 294 2 7 wind 
+: 299 2 7 can’t 
+: 303 2 9 catch 
+: 307 10 6 us 
+- 319
+: 321 4 6 It’s 
+: 328 1 9 at 
+: 332 4 6 our 
+: 339 7 2 backs 
+- 348
+: 355 2 0 The 
+: 359 1 9 sun 
+: 363 2 9 is 
+: 367 1 7 fall
+: 371 9 7 ing 
+- 382
+: 383 10 7 Things 
+: 396 7 9 don’t 
+: 405 9 11 last 
+- 416
+: 423 2 9 When 
+: 427 2 9 you’re 
+: 432 1 11 young 
+: 436 8 7 ’cause 
+- 446
+: 447 2 9 All 
+: 451 2 7 you 
+: 456 2 7 get 
+: 460 4 9 is 
+- 466
+: 467 6 4 Just 
+: 476 5 6 one 
+: 484 5 7 chance 
+: 492 7 9 to 
+- 501
+: 502 11 2 Break 
+: 515 9 7 a
+: 527 11 7 way 
+: 541 7 7 to 
+: 551 2 7 beat 
+: 555 1 9 the 
+: 559 9 11 odds 
+- 570
+: 573 3 11 All 
+: 579 7 2 along 
+: 588 1 9 it’s 
+: 591 3 11 been 
+: 596 3 7 a 
+: 601 2 9 race 
+- 604
+: 605 4 11 A
+: 612 5 9 gainst 
+: 620 1 7 the 
+: 623 6 7 clock 
+- 631
+: 632 10 7 Time 
+: 644 9 7 won’t 
+: 655 11 7 wait 
+- 667
+: 668 9 7 We’re 
+: 680 5 7 gonna 
+: 688 8 11 leave 
+- 698
+: 703 6 2 Some
+: 712 5 2 where 
+: 719 2 2 we’ll 
+: 724 9 9 find 
+: 734 1 9 in
+: 737 7 9 fin
+: 747 10 7 ity 
+- 759
+: 800 1 4 We’ll 
+: 804 1 2 find 
+: 807 3 9 in
+: 812 8 9 fin
+: 822 5 7 ity 
+- 829
+: 888 1 2 Break
+: 891 2 7 ing 
+: 895 9 7 hearts 
+: 908 5 7 just 
+: 915 5 2 for 
+: 923 1 0 the 
+: 927 6 11 hell 
+: 936 2 6 of 
+: 939 7 9 it 
+- 948
+: 951 3 0 Any
+: 956 9 6 thing 
+- 966
+: 967 2 7 So 
+: 971 5 7 we 
+: 979 6 9 can 
+: 987 2 7 feel 
+: 991 19 11 dangerous 
+- 1012
+: 1015 5 7 Every
+: 1023 6 4 where 
+: 1032 1 7 we 
+: 1035 6 7 go 
+- 1042
+: 1043 2 9 We 
+: 1047 5 9 leave 
+: 1055 3 7 sha
+: 1060 2 7 dows 
+: 1063 2 7 from 
+: 1067 2 9 the 
+: 1072 5 9 past 
+- 1079
+: 1080 2 7 We 
+: 1084 5 7 won’t 
+: 1092 5 7 die 
+: 1100 6 9 young 
+: 1108 1 6 but 
+: 1112 2 6 we’ll 
+: 1116 6 9 live 
+: 1124 7 9 fast 
+- 1133
+: 1159 9 6 Run 
+: 1170 7 9 so 
+: 1179 8 4 fast 
+- 1189
+: 1194 2 6 The 
+: 1199 1 7 wind 
+: 1202 2 9 can’t 
+: 1206 2 6 catch 
+: 1210 8 7 us 
+- 1220
+: 1223 6 7 It’s 
+: 1231 1 9 at 
+: 1235 5 11 our 
+: 1243 12 2 backs 
+- 1257
+: 1261 1 11 The 
+: 1264 2 11 sun 
+: 1269 2 7 is 
+: 1272 2 7 fal
+: 1276 7 7 ling 
+- 1285
+: 1286 10 2 Things 
+: 1299 6 11 don’t 
+: 1307 8 4 last 
+- 1317
+: 1326 1 11 When 
+: 1329 2 9 you’re 
+: 1334 2 7 young 
+: 1338 9 7 ’cause 
+- 1349
+: 1350 2 7 All 
+: 1354 2 7 you 
+: 1359 2 9 get 
+: 1363 5 4 is 
+- 1370
+: 1371 6 6 Just 
+: 1379 4 9 one 
+: 1386 6 9 chance 
+: 1395 7 2 to 
+- 1404
+: 1406 11 7 Break 
+: 1419 22 7 away 
+: 1443 8 7 to 
+: 1454 1 9 beat 
+: 1458 2 11 the 
+: 1462 7 7 odds 
+- 1471
+: 1479 1 2 All 
+: 1483 6 11 along 
+: 1491 3 7 it’s 
+: 1495 2 9 been 
+: 1500 2 11 a 
+: 1503 3 11 race 
+- 1508
+: 1509 4 9 A
+: 1515 5 7 gainst 
+: 1522 1 7 the 
+: 1526 6 2 clock 
+- 1533
+: 1534 9 7 Time 
+: 1546 9 7 won’t 
+: 1558 10 7 wait 
+: 1571 10 7 we’re 
+: 1583 5 9 gonna 
+: 1590 7 7 leave 
+- 1599
+: 1606 15 2 Somewhere 
+: 1623 1 9 we’ll 
+: 1626 10 9 find 
+: 1638 2 9 in
+: 1642 6 7 fin
+: 1651 12 7 ity 
+- 1665
+: 1689 1 9 Find 
+: 1692 1 9 in
+: 1695 6 9 fin
+: 1704 53 11 ity 
+- 1759
+: 1760 2 7 In
+: 1763 4 7 fin
+: 1770 79 2 ity 
+- 1851
+: 1908 9 0 Break 
+: 1919 24 7 away 
+: 1945 9 7 to 
+: 1956 2 7 beat 
+: 1960 1 7 the 
+: 1963 10 9 odds 
+- 1975
+: 1981 1 4 All 
+: 1984 6 2 along 
+: 1992 2 2 it’s 
+: 1996 2 9 been 
+: 2000 2 9 a 
+: 2004 3 7 race 
+- 2008
+: 2009 5 9 A
+: 2017 5 9 gainst 
+: 2025 1 2 the 
+: 2028 6 7 clock 
+- 2035
+: 2036 11 0 Time 
+: 2049 8 7 won’t 
+: 2060 11 2 wait 
+: 2073 10 7 we’re 
+: 2085 6 7 gonna 
+: 2093 7 9 leave 
+- 2102
+: 2108 5 0 Some
+: 2115 7 2 where 
+: 2125 1 2 we’ll 
+: 2128 9 11 find 
+: 2139 2 9 in
+: 2144 8 11 fin
+: 2153 7 7 ity 
+- 2162
+: 2164 11 7 Break 
+: 2177 23 7 away 
+: 2202 9 7 to 
+: 2213 1 2 beat 
+: 2216 1 7 the 
+: 2220 8 9 odds 
+- 2230
+: 2236 2 7 All 
+: 2240 2 11 along 
+: 2244 2 2 it’s 
+: 2249 2 2 been 
+: 2253 4 11 a 
+: 2259 3 7 race 
+- 2263
+: 2264 5 9 A
+: 2272 5 9 gainst 
+: 2280 1 2 the 
+: 2284 6 7 clock 
+- 2292
+: 2293 10 2 Time 
+: 2305 9 7 won’t 
+: 2317 10 2 wait 
+: 2329 9 7 we’re 
+: 2340 5 7 gonna 
+: 2348 9 9 leave 
+- 2359
+: 2364 5 0 Some
+: 2372 6 2 where 
+: 2381 1 2 we’ll 
+: 2384 10 11 find 
+: 2397 1 9 in
+: 2400 7 9 fin
+: 2409 79 2 ity 
+- 2489
+: 2490 7 2 Some
+: 2500 7 2 where 
+: 2509 1 2 we’ll 
+: 2513 10 9 find 
+: 2525 2 9 in
+: 2528 6 11 fin
+: 2537 12 7 ity 
+- 2551
+: 2644 2 4 We’ll 
+: 2647 1 0 find 
+: 2650 3 0 in
+: 2655 9 11 fin
+: 2666 19 7 ity 
+E

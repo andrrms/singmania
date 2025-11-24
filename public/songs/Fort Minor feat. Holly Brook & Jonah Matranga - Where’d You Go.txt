@@ -1,0 +1,635 @@
+#ARTIST:Fort Minor feat. Holly Brook & Jonah Matranga
+#TITLE:Where’d You Go
+#MP3:Fort Minor feat. Holly Brook & Jonah Matranga - Where’d You Go.mp3
+#CREATOR:macgyver2809, mancer
+#GENRE:Hip-Hop
+#YEAR:2005
+#LANGUAGE:English
+#BPM:240
+#GAP:74000
+#VIDEO:v=zQdglLeGQXM,co=https://is1-ssl.mzstatic.com/image/thumb/Music/0b/a9/de/mzi.mdexvxhy.jpg/5000x5000bb.jpg,bg=fort-minor-4ef5e1fc6d055.jpg,medley=1209-2060
+: 0 4 4 Where’d 
+: 5 2 6 you 
+: 8 17 8 go? 
+- 34
+: 37 3 -1 I 
+: 43 4 8 miss 
+: 48 4 4 you 
+: 54 11 6 so 
+- 67
+: 69 6 -1 Seems 
+: 76 4 4 like 
+: 81 4 4 it’s 
+: 86 4 4 been 
+: 91 2 6 for
+: 94 5 8 e
+: 100 7 4 ver 
+- 111
+: 113 3 -1 That 
+: 118 4 4 you
+: 123 4 4 ~’ve 
+: 129 7 8 been 
+: 138 1 6 go
+: 140 15 4 ~ne 
+- 187
+R 345 2 2 She 
+R 349 4 2 said 
+R 354 3 2 “Some 
+R 359 1 2 days 
+R 361 2 2 I 
+R 365 2 2 feel 
+R 369 2 2 like 
+R 373 4 2 shit 
+- 379
+R 381 2 2 Some 
+R 385 3 2 days 
+R 389 1 2 I 
+R 391 1 2 wan
+R 393 2 2 na 
+R 397 3 2 quit 
+- 403
+R 405 2 2 And 
+R 408 3 2 just 
+R 413 2 2 be 
+R 417 2 2 nor
+R 420 2 2 mal 
+R 423 1 2 for 
+R 425 1 2 a 
+R 427 3 2 bit” 
+- 431
+R 433 2 2 I 
+R 436 2 2 don’t 
+R 439 2 2 un
+R 442 2 2 der
+R 445 3 2 stand 
+R 451 1 2 why 
+R 453 1 2 you 
+R 455 2 2 have 
+R 458 1 2 to 
+R 460 1 2 al
+R 462 3 2 ways 
+R 466 1 2 be 
+G 469 1 2 gone 
+- 471
+R 473 2 2 I 
+R 476 2 2 get 
+R 479 1 2 a
+G 481 4 2 long 
+R 486 2 2 but 
+R 489 2 2 the 
+R 492 4 2 trips 
+R 497 2 2 al
+R 500 2 2 ways 
+R 503 3 2 feel 
+R 507 2 2 so 
+G 511 3 2 long 
+- 515
+R 517 2 2 And 
+R 525 2 2 I 
+R 528 2 2 find 
+R 531 2 2 my
+R 534 4 2 self 
+R 539 2 2 tryn
+R 542 1 2 a 
+R 544 3 2 stay 
+R 548 1 2 by 
+R 550 2 2 the 
+G 553 5 2 phone 
+- 559
+R 561 2 2 ’Cause 
+R 564 2 2 your 
+R 567 4 2 voice 
+R 572 1 2 al
+R 574 2 2 ways 
+R 577 3 2 helps 
+R 581 1 2 me 
+R 583 1 2 to 
+R 585 2 2 not 
+R 588 2 2 feel 
+R 591 2 2 so 
+R 594 2 2 a
+R 597 1 2 lone 
+- 599
+R 601 1 2 But 
+R 603 1 2 I 
+R 606 2 2 feel 
+R 609 3 2 like 
+R 613 1 2 an 
+R 615 1 2 i
+R 617 1 2 di
+R 619 2 2 ot 
+- 628
+R 631 2 2 Wor
+R 634 1 2 kin 
+R 636 2 2 my 
+R 640 2 2 day 
+R 644 1 2 a
+R 646 2 2 round 
+R 649 1 2 the 
+R 651 3 2 call 
+- 655
+R 657 1 2 But 
+R 659 1 2 when 
+R 661 1 2 I 
+R 663 2 2 pick 
+R 666 2 2 up 
+R 669 1 2 I 
+R 671 2 2 don’t 
+R 674 2 2 have 
+R 678 2 2 much 
+R 681 1 2 to 
+R 683 3 2 say 
+- 687
+R 689 4 2 So 
+R 697 2 2 I 
+R 700 2 2 want 
+R 703 2 2 you 
+R 706 1 2 to 
+R 708 2 2 know 
+R 712 1 2 it’s 
+R 714 2 2 a 
+R 717 1 2 litt
+R 719 1 2 le 
+R 722 4 2 fucked 
+R 728 1 2 up 
+- 729
+R 731 1 2 That 
+R 733 2 2 I’m 
+R 737 4 2 stuck 
+R 742 4 2 here 
+G 747 2 2 wait
+G 750 3 2 in’ 
+R 758 2 2 at 
+R 762 3 2 times 
+R 766 1 2 de
+G 768 3 2 ba
+G 772 1 2 tin’ 
+- 773
+R 775 2 2 Tel
+R 778 2 2 lin’ 
+R 781 3 2 you 
+R 785 1 2 that 
+R 788 2 2 I’ve 
+R 791 1 2 had 
+R 793 1 2 it 
+R 795 2 2 with 
+R 799 3 2 you 
+R 803 2 2 and 
+R 806 2 2 your 
+R 809 2 2 ca
+R 812 6 2 reer 
+- 819
+R 821 2 2 Me 
+R 824 1 2 and 
+R 826 1 2 the 
+R 828 3 2 rest 
+R 832 1 2 of 
+R 834 1 2 the 
+R 836 2 2 fa
+R 839 1 2 mi
+R 841 2 2 ly 
+R 844 2 2 here 
+R 849 1 2 sing
+R 851 1 2 ing 
+- 852
+: 854 4 4 Where’d 
+: 859 2 6 you 
+: 862 17 8 go? 
+- 887
+: 890 3 -1 I 
+: 896 5 8 miss 
+: 902 1 4 you 
+: 905 14 6 so 
+- 922
+: 924 5 -1 Seems 
+: 930 3 4 like 
+: 934 4 4 it’s 
+: 939 3 4 been 
+: 945 2 6 for
+: 948 4 8 e
+: 954 4 4 ver 
+- 964
+: 967 3 -1 That 
+: 972 4 4 you
+: 977 3 4 ~’ve 
+: 982 7 8 been 
+* 991 2 6 go
+* 994 15 4 ~ne 
+- 1020
+: 1024 4 4 Where’d 
+: 1029 3 6 you 
+: 1033 14 8 go? 
+- 1057
+: 1061 3 -1 I 
+: 1067 4 8 miss 
+: 1072 3 4 you 
+: 1077 14 6 so 
+- 1093
+: 1095 4 -1 Seems 
+: 1100 4 4 like 
+: 1105 2 4 it’s 
+: 1110 4 4 been 
+: 1115 2 6 for
+: 1118 6 8 e
+: 1125 8 4 ver 
+- 1136
+: 1138 4 -1 That 
+: 1143 4 4 you
+: 1148 3 4 ~’ve 
+: 1153 7 8 been 
+* 1161 2 6 go
+* 1164 15 4 ~ne 
+- 1186
+: 1189 4 -1 Please 
+: 1194 3 4 come 
+: 1198 4 6 back 
+: 1204 2 4 home 
+- 1207
+R 1209 1 2 You 
+R 1211 2 2 know 
+R 1217 2 2 the 
+R 1220 2 2 place 
+R 1223 2 2 where 
+R 1226 2 2 you 
+R 1229 3 2 used 
+R 1233 2 2 to 
+R 1236 3 2 live 
+- 1241
+R 1243 2 2 Used 
+R 1246 2 2 to 
+R 1249 2 2 bar
+R 1252 1 2 be
+R 1254 2 2 que 
+R 1257 2 2 up 
+R 1260 2 2 bur
+R 1263 2 2 gers 
+R 1266 2 2 and 
+R 1269 4 2 ribs 
+- 1275
+R 1277 2 2 Used 
+R 1280 1 2 to 
+R 1282 2 2 have 
+R 1285 1 2 a 
+R 1287 1 2 litt
+R 1289 1 2 le 
+R 1291 3 2 par
+R 1295 2 2 ty 
+R 1298 1 2 e
+R 1300 1 2 very 
+R 1303 2 2 Hal
+R 1306 1 2 lo
+R 1308 2 2 ween 
+- 1310
+R 1311 2 2 With 
+R 1314 1 2 can
+R 1316 2 2 dy 
+R 1319 1 2 by 
+R 1321 2 2 the 
+G 1324 2 2 pile 
+- 1327
+R 1329 2 2 But 
+R 1333 4 2 now 
+R 1339 2 2 you 
+R 1342 1 2 on
+R 1344 1 2 ly 
+R 1347 3 2 stop 
+R 1351 1 2 by 
+R 1353 1 2 e
+R 1355 1 2 very 
+R 1357 2 2 once 
+R 1361 1 2 in 
+R 1363 1 2 a 
+G 1365 2 2 while 
+- 1368
+R 1370 6 2 Shit, 
+R 1380 1 2 I 
+R 1382 2 2 find 
+R 1385 2 2 my
+R 1388 5 2 self 
+R 1395 2 2 just 
+R 1399 1 2 fil
+R 1401 2 2 lin’ 
+R 1405 2 2 my 
+R 1408 4 2 time 
+- 1419
+R 1422 1 2 A
+R 1424 1 2 ny
+R 1426 1 2 thing 
+R 1428 2 2 to 
+R 1431 2 2 keep 
+R 1434 2 2 the 
+R 1437 1 2 thought 
+R 1440 1 2 of 
+R 1442 1 2 you 
+R 1445 2 2 from 
+R 1448 1 2 my 
+R 1450 2 2 mind 
+- 1453
+R 1455 2 2 I’m 
+R 1458 1 2 do
+R 1460 1 2 in 
+R 1462 4 2 fine 
+R 1472 1 2 and 
+R 1474 1 2 I’m 
+R 1476 2 2 plan
+R 1479 1 2 nin’ 
+R 1481 1 2 to 
+R 1483 3 2 keep 
+R 1487 2 2 it 
+R 1490 2 2 that 
+R 1494 4 2 way 
+- 1499
+R 1501 1 2 You 
+R 1503 2 2 can 
+R 1507 1 2 call 
+R 1509 1 2 me 
+R 1511 1 2 if 
+R 1513 2 2 you 
+R 1516 1 2 find 
+R 1518 2 2 that 
+R 1521 1 2 you 
+R 1523 3 2 have 
+R 1527 3 2 some
+R 1531 1 2 thin’ 
+R 1533 1 2 to 
+R 1535 1 2 say 
+- 1537
+R 1539 1 2 And 
+R 1541 2 2 I’ll 
+R 1544 2 2 tell 
+R 1547 1 2 you 
+R 1551 2 2 I 
+R 1554 2 2 want 
+R 1557 1 2 you 
+R 1559 1 2 to 
+R 1561 2 2 know 
+R 1564 2 2 it’s 
+R 1567 1 2 a 
+R 1569 1 2 litt
+R 1571 1 2 le 
+R 1576 3 2 fucked 
+R 1580 2 2 up 
+- 1583
+R 1585 1 2 That 
+R 1587 2 2 I’m 
+R 1591 4 2 stuck 
+R 1596 1 2 here 
+R 1598 1 2 and 
+R 1601 2 2 wai
+R 1604 2 2 tin’ 
+R 1611 2 2 at 
+R 1615 3 2 times 
+R 1619 2 2 de
+R 1622 1 2 ba
+R 1624 1 2 tin’ 
+- 1626
+R 1628 1 2 Tell
+R 1630 2 2 in’ 
+R 1633 1 2 you 
+R 1637 2 2 hat 
+R 1640 2 2 I’ve 
+R 1643 2 2 had 
+R 1646 2 2 it 
+R 1649 2 2 with 
+R 1652 3 2 you 
+R 1657 1 2 and 
+R 1659 2 2 your 
+R 1662 2 2 ca
+R 1665 5 2 reer 
+- 1672
+R 1674 2 2 Me 
+R 1677 1 2 and 
+R 1679 1 2 the 
+R 1681 2 2 rest 
+R 1685 1 2 of 
+R 1687 1 2 the 
+R 1689 2 2 fa
+R 1692 1 2 mi
+R 1694 1 2 ly 
+R 1697 3 2 here 
+- 1706
+: 1708 4 4 Where’d 
+: 1713 2 6 you 
+: 1716 15 8 go? 
+- 1741
+: 1745 3 -1 I 
+: 1750 4 8 miss 
+: 1755 1 4 you 
+: 1759 12 6 so 
+- 1774
+: 1776 6 -1 Seems 
+: 1783 3 4 like 
+: 1788 3 4 it’s 
+: 1793 3 4 been 
+: 1797 3 6 for
+: 1801 5 8 e
+: 1807 9 4 ver 
+- 1818
+: 1820 3 -1 That 
+: 1825 4 4 you
+: 1830 4 4 ~’ve 
+: 1835 8 8 been 
+* 1845 2 6 go
+* 1848 19 4 ~ne 
+- 1875
+: 1878 4 4 Where’d 
+: 1883 2 6 you 
+: 1886 17 8 go? 
+- 1912
+: 1915 3 -1 I 
+: 1920 4 8 miss 
+: 1925 2 4 you 
+: 1930 14 6 so 
+- 1945
+: 1947 5 -1 Seems 
+: 1953 4 4 like 
+: 1958 4 4 it’s 
+: 1963 4 4 been 
+: 1969 2 6 for
+: 1972 5 8 e
+: 1978 9 4 ver 
+- 1990
+: 1992 2 -1 That 
+: 1996 5 4 you
+: 2002 3 4 ~’ve 
+: 2006 6 8 been 
+: 2014 2 6 go
+: 2017 14 4 ~ne 
+- 2040
+: 2043 4 -1 Please 
+: 2048 3 4 come 
+: 2052 4 6 back 
+: 2057 3 4 home 
+- 2061
+R 2063 1 2 I 
+R 2065 2 2 want 
+R 2068 1 2 you 
+R 2070 2 2 to 
+R 2073 2 2 know 
+R 2076 2 2 it’s 
+R 2079 1 2 a 
+R 2081 2 2 litt
+R 2084 1 2 le 
+R 2088 4 2 fucked 
+R 2093 1 2 up 
+- 2095
+R 2097 1 2 That 
+R 2099 2 2 I’m 
+R 2103 3 2 stuck 
+R 2108 3 2 here 
+R 2113 2 2 wai
+R 2116 2 2 tin’ 
+- 2121
+R 2123 3 2 No 
+R 2127 2 2 lon
+R 2130 1 2 ger 
+R 2132 2 2 de
+R 2135 2 2 ba
+R 2138 2 2 tin’ 
+- 2141
+R 2143 4 2 Tired 
+R 2148 2 2 of 
+R 2151 2 2 sitt
+R 2154 1 2 in’ 
+R 2156 2 2 and 
+R 2159 1 2 ha
+R 2161 1 2 tin’ 
+- 2162
+R 2164 1 2 And 
+R 2166 2 2 ma
+R 2169 2 2 kin’ 
+R 2172 1 2 these 
+R 2174 3 2 ex
+G 2178 2 2 cu
+G 2181 1 2 ses 
+- 2182
+R 2184 2 2 For 
+R 2187 3 2 why 
+R 2191 2 2 you’re 
+R 2194 1 2 not 
+R 2196 2 2 a
+R 2199 6 2 round 
+R 2207 2 2 and 
+R 2210 1 2 fee
+R 2212 2 2 ling 
+R 2216 2 2 so 
+G 2219 5 2 use
+G 2225 3 2 less 
+- 2229
+R 2231 2 2 It 
+R 2235 4 2 seems 
+R 2241 2 2 one 
+R 2245 1 2 thing 
+R 2247 2 2 has 
+R 2251 2 2 been 
+R 2254 3 2 true 
+R 2258 1 2 all 
+R 2260 2 2 a
+G 2263 6 2 long 
+- 2270
+R 2272 2 2 You 
+R 2275 3 2 don’t 
+R 2279 1 2 real
+R 2281 3 2 ly 
+R 2285 1 2 know 
+R 2287 1 2 what 
+R 2289 2 2 you 
+R 2293 3 2 got 
+R 2297 2 2 ’til 
+R 2300 2 2 it’s 
+G 2305 6 2 gone 
+- 2317
+R 2319 1 2 I 
+R 2321 3 2 guess 
+R 2325 2 2 I’ve 
+R 2328 2 2 had 
+R 2331 1 2 it 
+R 2333 2 2 with 
+R 2336 3 2 you 
+R 2340 1 2 and 
+R 2342 2 2 your 
+R 2345 2 2 ca
+R 2348 3 2 reer 
+- 2352
+R 2354 1 2 When 
+R 2356 1 2 you 
+R 2358 4 2 come 
+R 2363 1 2 back 
+R 2366 2 2 I 
+R 2370 3 2 won’t 
+R 2374 2 2 be 
+R 2377 3 2 here 
+- 2389
+: 2393 1 4 Where’d 
+: 2395 2 6 you 
+: 2398 17 8 go? 
+- 2423
+: 2426 3 -1 I 
+: 2431 5 8 miss 
+: 2437 2 4 you 
+: 2441 11 6 so 
+- 2458
+: 2460 4 -1 Seems 
+: 2465 4 4 like 
+: 2470 4 4 it’s 
+: 2475 3 4 been 
+: 2480 2 6 for
+: 2483 5 8 e
+: 2489 8 4 ver 
+- 2501
+: 2503 2 -1 That 
+: 2509 3 4 you
+: 2513 3 4 ~’ve 
+: 2518 8 8 been 
+: 2527 2 6 go
+: 2530 15 4 ~ne 
+- 2557
+: 2561 4 4 Where’d 
+: 2566 2 6 you 
+: 2569 14 8 go? 
+- 2594
+: 2598 3 -1 I 
+: 2603 3 8 miss 
+: 2608 2 4 you 
+: 2612 11 6 so 
+- 2629
+: 2631 4 -1 Seems 
+: 2636 4 4 like 
+: 2641 3 4 it’s 
+: 2646 4 4 been 
+* 2651 2 6 for
+* 2654 6 8 e
+* 2661 8 4 ver 
+- 2672
+: 2674 3 -1 That 
+: 2680 5 4 you
+: 2686 2 4 ~’ve 
+: 2689 7 8 been 
+* 2697 2 6 go
+* 2700 13 4 ~ne 
+- 2722
+: 2725 4 -1 Please 
+: 2730 3 4 come 
+: 2734 4 6 back 
+: 2740 17 4 home 
+- 2773
+: 2810 4 -1 Please 
+: 2816 3 4 come 
+: 2820 4 6 back 
+: 2825 14 4 home 
+- 2855
+: 2896 4 -1 Please 
+: 2901 3 4 come 
+: 2905 3 6 back 
+: 2910 16 4 home 
+- 2942
+: 2981 4 -1 Please 
+: 2986 3 4 come 
+: 2990 4 6 back 
+: 2996 15 4 home 
+- 3027
+: 3066 4 -1 Please 
+: 3071 3 4 come 
+: 3075 4 6 back 
+: 3080 19 4 home 
+E

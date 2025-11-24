@@ -1,0 +1,140 @@
+#ARTIST:The Byrds
+#TITLE:Eight Miles High
+#MP3:The Byrds - Eight Miles High.mp3
+#CREATOR:choosie
+#YEAR:1966
+#LANGUAGE:English
+#BPM:244.9
+#GAP:29200
+#VIDEO:a=NxyOhFBoxSY,co=https://www.waybackattack.com/images/byrds-eight.jpg,bg=byrds-the-5f411d12903a6.jpg
+: 0 12 4 Eight 
+: 15 12 6 miles 
+* 30 26 7 high 
+- 58
+: 68 5 6 And 
+: 76 4 6 when 
+: 82 5 4 you 
+: 90 5 2 touch 
+: 98 16 4 down 
+- 116
+: 130 5 14 You’ll 
+: 138 4 14 find 
+: 144 4 12 that 
+: 150 4 11 it’s 
+- 156
+* 166 6 12 Stran
+* 174 4 11 ger 
+: 180 7 9 than 
+: 190 28 7 known 
+- 220
+: 242 13 4 Signs 
+: 258 9 6 in 
+: 270 6 6 the 
+: 279 16 7 street 
+- 297
+: 312 5 6 That 
+: 320 4 6 say 
+: 326 4 4 where 
+: 333 5 2 you’re 
+: 340 4 4 go
+: 346 8 4 ing 
+- 356
+: 372 6 14 Are 
+: 380 4 14 some
+: 386 4 12 where
+: 392 6 11 ~ 
+- 400
+: 402 6 12 Just 
+* 410 3 12 be
+* 415 5 11 ing 
+: 423 4 9 their 
+: 430 10 7 own
+: 442 10 6 ~
+: 456 22 4 ~ 
+- 480
+: 546 12 4 No
+: 561 12 6 where 
+: 576 24 7 is 
+- 602
+: 614 5 6 There 
+: 622 5 6 warmth 
+: 630 4 4 to 
+: 636 6 2 be 
+: 644 16 4 found 
+- 662
+* 676 3 14 A
+* 681 6 14 mong 
+: 689 5 12 those 
+: 696 4 11 a
+: 706 4 11 fraid 
+: 712 4 12 of 
+: 718 4 12 los
+: 724 5 11 ing 
+: 732 6 9 their 
+: 741 22 7 ground 
+- 765
+* 790 13 4 Rain 
+: 806 13 6 grey 
+: 822 22 7 town 
+- 846
+: 867 5 6 Known 
+: 875 4 4 for 
+: 881 5 2 its 
+: 889 16 4 sound 
+- 907
+: 921 5 14 In 
+: 928 5 14 pla
+: 935 4 12 ces
+: 941 4 11 ~ 
+- 947
+* 952 5 12 Small 
+* 960 4 12 fa
+* 966 4 11 ces 
+: 973 5 9 un
+: 981 7 7 bound
+: 991 11 6 ~
+: 1005 14 4 ~ 
+- 1021
+: 1816 13 4 Round 
+: 1832 12 6 the 
+: 1847 26 7 squares 
+- 1875
+: 1893 5 6 Hud
+* 1900 3 4 dled 
+* 1905 6 2 in 
+: 1914 20 4 storms 
+- 1936
+: 1946 5 14 Some 
+: 1954 4 14 laugh
+: 1960 4 12 ing
+: 1966 2 11 ~ 
+- 1970
+: 1977 5 12 Some 
+: 1985 5 12 just 
+: 1993 4 11 shape
+: 1999 7 9 less 
+: 2009 28 7 forms 
+- 2039
+: 2061 13 4 Side
+: 2077 13 6 walk 
+* 2093 28 7 scenes 
+- 2123
+: 2131 4 6 And 
+: 2138 4 6 black 
+: 2145 4 4 li
+: 2151 6 2 mo
+: 2159 22 4 sines 
+- 2183
+: 2192 5 14 Some 
+: 2200 4 14 liv
+: 2206 4 12 ing
+: 2212 4 11 ~ 
+- 2218
+* 2222 5 12 Some 
+* 2230 5 12 stand
+* 2237 4 11 ing 
+: 2243 6 9 a
+: 2252 8 7 lone
+: 2263 9 6 ~
+: 2275 18 4 ~. 
+E

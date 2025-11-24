@@ -1,0 +1,64 @@
+#ARTIST:He-Man
+#TITLE:Extended Theme
+#MP3:He-Man - Extended Theme.mp3
+#CREATOR:snake84
+#LANGUAGE:English
+#BPM:280.6
+#GAP:3160
+#VIDEO:a=6MVoFIc-bIM,co=https://m.media-amazon.com/images/I/81q-Q-7yMIL.jpg
+: 0 4 7 He-
+: 8 4 9 Man! 
+- 14
+* 63 4 7 He-
+: 71 4 9 Man! 
+- 77
+: 127 4 7 He-
+: 135 4 9 Man! 
+- 141
+: 191 4 7 He-
+* 199 4 9 Man! 
+- 205
+: 543 2 14 He-
+* 547 4 12 Ma
+: 552 17 9 ~n! 
+- 571
+: 607 4 7 He-
+: 615 4 9 Man! 
+- 621
+* 671 4 7 He-
+: 679 4 9 Man! 
+- 685
+: 735 4 7 He-
+: 743 4 9 Man! 
+- 749
+: 1087 2 14 He-
+: 1091 6 12 Ma
+* 1099 16 9 ~n! 
+- 1117
+* 1599 2 14 He-
+: 1603 3 12 Ma
+: 1607 21 9 ~n! 
+- 1630
+: 1663 4 7 He-
+: 1671 4 9 Man! 
+- 1677
+: 1727 4 7 He-
+: 1735 4 9 Man! 
+- 1741
+* 1791 4 7 He-
+: 1799 4 9 Man! 
+- 1805
+: 2143 2 14 He-
+* 2147 6 12 Ma
+: 2155 17 9 ~n! 
+- 2174
+: 2655 2 14 He-
+: 2659 3 12 Ma
+: 2663 20 9 ~n! 
+- 2685
+* 2719 4 7 He-
+: 2727 4 9 Man! 
+- 2733
+: 2847 4 7 He-
+* 2855 4 9 Man! 
+E

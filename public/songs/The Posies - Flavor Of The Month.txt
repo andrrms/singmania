@@ -1,0 +1,204 @@
+#ARTIST:The Posies
+#TITLE:Flavor Of The Month
+#MP3:The Posies - Flavor Of The Month.mp3
+#CREATOR:daggeg
+#YEAR:1993
+#LANGUAGE:English
+#BPM:273.11
+#GAP:16050
+#VIDEO:a=QdZZOOY8WZo,co=https://i.discogs.com/ceGVHs1I66PCUIaXryJIb_BRiVR3elwDBB6K0W9ztxc/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYz/MjMtMTY5MzU5MzA5/My02NzIwLnBuZw.jpeg
+: 0 3 1 Can 
+: 4 3 4 you 
+: 8 7 6 hear 
+: 17 14 8 it? 
+- 33
+: 52 3 4 Like 
+: 56 3 1 an 
+: 60 6 4 in
+: 69 3 1 vi
+: 73 1 4 ta
+: 75 5 6 ~
+: 82 8 1 tion 
+- 92
+: 129 3 1 Can 
+: 133 3 4 you 
+: 137 3 6 feel
+: 141 3 4 ~ 
+: 146 18 4 it? 
+- 166
+: 182 3 4 It’s 
+: 186 3 1 a 
+: 190 4 4 re
+: 195 2 1 ~
+: 198 3 1 ve
+: 203 1 4 la
+: 205 4 6 ~
+: 211 9 1 tion 
+- 222
+: 234 3 1 The 
+* 238 4 4 fla
+* 243 6 4 vor 
+: 251 5 4 of 
+: 259 5 4 the 
+: 267 7 4 month 
+: 279 5 3 is 
+: 287 4 1 bu
+: 292 8 3 sy 
+- 301
+: 302 5 4 Melt
+: 308 2 1 ~
+: 311 3 1 ing 
+: 316 6 4 in 
+: 324 5 6 the 
+: 331 10 1 mouth 
+- 343
+: 360 2 1 Get
+: 363 2 3 ting 
+: 367 7 4 ea
+: 375 3 4 si
+: 379 6 4 er 
+: 387 4 4 to 
+: 395 7 4 swal
+: 403 8 3 low 
+- 413
+: 428 3 1 And 
+: 432 6 4 hard
+: 439 3 1 er 
+: 444 4 4 to 
+: 451 5 6 spit 
+: 459 11 1 out 
+- 472
+: 579 3 1 Can 
+: 583 3 4 you 
+: 587 6 6 hear 
+: 595 10 8 it? 
+- 607
+: 631 3 4 Does 
+: 635 3 1 the 
+: 639 5 4 sound 
+* 647 3 1 re
+* 651 1 4 mind
+* 653 4 6 ~ 
+: 660 7 1 you? 
+- 669
+: 708 3 1 Can 
+: 712 3 4 you 
+: 716 3 6 feel
+: 720 3 4 ~ 
+: 725 11 4 it? 
+- 738
+: 757 3 1 It’s 
+: 761 3 4 gon
+: 765 2 1 na 
+: 769 5 4 re
+: 777 3 1 de
+: 781 1 4 fine
+: 783 4 6 ~ 
+: 790 8 1 you 
+- 800
+: 817 3 4 Fla
+: 821 6 4 vor 
+: 829 5 4 of 
+: 837 5 4 the 
+: 845 7 4 month 
+: 856 5 3 is 
+: 865 4 1 bu
+: 870 8 3 sy 
+- 880
+: 882 4 4 Melt
+* 887 2 1 ~
+* 890 3 1 ing 
+* 895 4 4 in 
+: 903 5 6 the 
+: 910 9 1 mouth 
+- 921
+: 938 3 1 Get
+: 942 2 3 ting 
+: 946 8 4 ea
+: 955 3 4 si
+: 959 6 4 er 
+: 967 4 4 to 
+: 975 7 4 swal
+: 983 8 3 low 
+- 993
+: 1012 7 4 Hard
+: 1020 2 1 er 
+: 1024 4 4 to 
+: 1031 5 6 spit 
+: 1039 9 1 out 
+- 1050
+: 1395 4 4 Fla
+: 1400 6 4 vor 
+: 1408 5 4 of 
+: 1416 5 4 the 
+: 1424 7 4 month 
+: 1436 5 3 is 
+: 1444 4 1 bu
+: 1449 5 3 sy 
+- 1456
+: 1460 4 4 Melt
+: 1466 2 1 ~
+: 1469 2 1 ing 
+: 1474 4 4 in 
+: 1481 5 6 the 
+* 1489 27 1 mouth 
+- 1518
+: 1576 3 1 Can 
+: 1580 3 4 you 
+: 1584 6 6 hear 
+: 1593 12 8 it? 
+- 1607
+: 1628 3 4 Like 
+: 1632 2 1 an 
+: 1636 6 4 in
+: 1645 3 1 vi
+: 1649 1 4 ta
+: 1651 4 6 ~
+: 1658 12 1 tion 
+- 1672
+: 1706 3 1 Can 
+: 1710 3 4 you 
+: 1714 3 6 feel
+: 1718 3 4 ~ 
+: 1723 19 4 it? 
+- 1744
+: 1759 3 4 All 
+: 1763 3 1 re
+: 1767 6 4 verb
+: 1775 3 1 e
+: 1779 1 4 ra
+: 1781 4 6 ~
+: 1788 8 1 tion 
+- 1798
+* 1815 3 4 Fla
+* 1819 6 4 vor 
+* 1827 5 4 of 
+* 1836 5 4 the 
+* 1844 7 4 month 
+: 1855 5 3 is 
+: 1864 4 1 bu
+: 1869 8 3 sy 
+- 1878
+: 1879 4 4 Melt
+: 1885 2 1 ~
+: 1888 3 1 ing 
+: 1893 4 4 in 
+: 1901 5 6 the 
+: 1909 8 1 mouth 
+- 1919
+: 1937 3 1 Get
+: 1941 2 3 ting 
+: 1945 7 4 ea
+: 1953 3 4 si
+: 1957 6 4 er 
+: 1965 4 4 to 
+: 1973 7 4 swal
+: 1981 10 3 low 
+- 1993
+: 2005 3 1 And 
+: 2009 7 4 hard
+: 2017 3 1 er 
+: 2021 4 4 to 
+* 2029 5 6 spit 
+* 2037 9 1 out 
+E

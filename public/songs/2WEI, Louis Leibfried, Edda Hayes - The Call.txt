@@ -1,0 +1,201 @@
+#ARTIST:2WEI, Louis Leibfried, Edda Hayes
+#TITLE:The Call
+#MP3:2WEI, Louis Leibfried, Edda Hayes - The Call.mp3
+#CREATOR:unknown
+#YEAR:2022
+#LANGUAGE:English
+#BPM:240.2
+#GAP:18800
+#VIDEO:a=3S_ZKsu_Qhg,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/7d/31/137d3123-b3ff-b013-91cd-98b65d82a29c/811395036570.png/5000x5000bb.jpg
+: 0 16 12 Hear 
+: 18 8 5 my 
+: 34 6 12 plea 
+: 42 2 10 to 
+: 46 2 8 the 
+: 50 9 7 fall
+: 60 4 8 en 
+- 66
+: 68 16 12 Leave 
+: 86 6 3 me 
+: 98 2 10 to 
+: 102 4 8 be 
+: 110 2 7 with 
+: 114 2 6 the 
+: 118 9 5 bro
+: 128 4 7 ken 
+- 134
+: 136 16 10 One 
+: 154 8 5 last 
+: 170 10 8 time 
+: 182 3 10 be
+: 186 6 8 fore 
+: 194 6 5 I 
+: 204 16 7 go 
+- 222
+: 274 16 12 Hold 
+: 292 4 5 the 
+: 306 8 12 last 
+: 316 3 10 burn
+: 320 3 8 ing 
+: 324 7 7 em
+: 332 4 8 ber 
+- 338
+: 340 16 10 Let 
+: 358 10 3 us 
+: 374 7 10 ne
+: 382 3 8 ver 
+: 386 3 7 sur
+: 390 7 5 ren
+: 398 6 7 der 
+- 406
+: 408 14 8 May 
+: 424 10 5 we 
+: 440 11 8 rise 
+: 452 3 10 un
+: 456 11 8 to 
+: 468 3 5 the 
+: 472 20 7 call 
+- 494
+: 496 3 0 For 
+: 500 2 1 the 
+: 504 11 12 glo
+: 516 3 11 ry 
+: 520 11 7 and 
+: 532 2 8 the 
+: 536 32 5 fall 
+- 570
+: 590 3 8 For 
+: 594 2 10 the 
+: 598 6 12 beat 
+: 606 2 12 and 
+: 610 2 12 the 
+: 614 7 15 bro
+: 622 28 17 ken 
+- 652
+: 654 3 8 For 
+: 658 2 10 the 
+: 662 6 12 lost 
+: 670 2 12 and 
+: 674 2 12 for
+: 678 7 15 sa
+: 686 28 17 ken 
+- 716
+: 718 2 8 Let 
+: 722 2 10 us 
+: 726 7 12 ne
+: 734 2 12 ver 
+: 738 3 10 sur
+: 742 3 12 ren
+: 746 24 10 der 
+- 772
+: 782 2 8 May 
+: 786 2 11 we 
+: 790 10 12 rise 
+: 802 3 10 un
+: 806 2 8 to 
+: 810 10 7 the 
+: 822 20 5 call 
+- 844
+: 846 2 8 For 
+: 850 2 10 the 
+: 854 6 12 beat 
+: 862 2 12 and 
+: 866 2 12 the 
+: 870 7 15 bro
+: 878 28 17 ken 
+- 908
+: 910 2 8 For 
+: 914 2 10 the 
+: 918 6 12 lost 
+: 926 2 12 and 
+: 930 2 12 for
+: 934 7 15 sa
+: 942 28 17 ken 
+- 972
+: 974 2 8 Let 
+: 978 2 10 us 
+: 982 7 12 ne
+: 990 2 12 ver 
+: 994 3 10 sur
+: 998 3 12 ren
+: 1002 32 10 der 
+- 1036
+: 1038 3 0 For 
+: 1042 2 1 the 
+: 1046 11 12 glo
+: 1058 3 8 ry 
+: 1062 11 7 and 
+: 1074 2 8 the 
+: 1078 36 5 fall 
+- 1116
+: 2130 2 8 For 
+: 2134 2 10 the 
+: 2138 6 12 beat 
+: 2146 2 12 and 
+: 2150 2 12 the 
+: 2154 9 15 bro
+: 2164 24 17 ken 
+- 2190
+: 2196 2 8 For 
+: 2200 2 10 the 
+: 2204 6 12 lost 
+: 2212 2 12 and 
+: 2216 2 12 for
+: 2220 9 15 sa
+: 2230 18 17 ken 
+- 2250
+: 2262 2 8 Let 
+: 2266 2 10 us 
+: 2270 5 12 ne
+: 2276 2 12 ver 
+: 2280 3 10 sur
+: 2284 3 12 ren
+: 2288 18 10 der 
+- 2308
+: 2324 2 8 Now 
+: 2328 2 10 we 
+: 2332 12 12 rise 
+: 2346 3 10 un
+: 2350 2 8 to 
+: 2354 10 7 the 
+: 2366 24 5 call 
+- 2392
+F 2646 2 5 For 
+F 2650 2 5 the 
+F 2654 4 5 beat 
+F 2660 2 5 and 
+F 2664 2 5 the 
+F 2668 14 5 broken 
+- 2684
+F 2686 14 5 Chains 
+F 2702 4 5 that 
+F 2716 6 5 we 
+F 2724 5 5 are 
+F 2730 16 5 breaking 
+- 2748
+F 2750 14 5 Fate 
+F 2766 6 5 that 
+F 2780 6 5 we 
+F 2788 3 5 are 
+F 2792 18 5 awaiting 
+- 2812
+F 2814 12 5 We 
+F 2828 12 5 will 
+F 2846 8 5 rise 
+F 2856 10 5 unto 
+F 2868 4 5 the 
+F 2874 28 5 call 
+- 2904
+F 2910 10 5 Rise 
+F 2922 8 5 unto 
+F 2932 4 5 the 
+F 2940 28 5 call 
+- 2970
+: 3026 4 0 For 
+: 3032 3 0 the 
+: 3036 11 12 glo
+: 3048 3 8 ry 
+: 3052 7 7 and 
+: 3060 6 8 the 
+: 3068 32 5 fall 
+E

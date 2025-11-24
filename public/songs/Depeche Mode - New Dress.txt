@@ -1,0 +1,261 @@
+#ARTIST:Depeche Mode
+#TITLE:New Dress
+#MP3:Depeche Mode - New Dress.mp3
+#CREATOR:dude76
+#GENRE:Rock
+#YEAR:1986
+#LANGUAGE:English
+#BPM:300
+#GAP:16750
+#VIDEO:a=aYutmGaUAXc,co=black-celebration-5f18d35707690.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 14 9 Sex 
+: 15 10 2 jibe 
+- 26
+: 26 5 10 Hus
+: 32 9 9 band 
+: 42 10 7 mur
+: 53 9 9 ders 
+: 63 16 2 wife 
+- 81
+: 172 11 9 Bomb 
+: 184 9 2 blast 
+- 194
+: 194 4 10 Vic
+: 199 13 9 tim 
+: 213 12 7 fights 
+: 226 3 9 for 
+: 230 19 2 life 
+- 251
+: 341 9 9 Girl 
+: 351 8 2 thir
+: 360 11 10 teen 
+: 372 5 9 at
+: 378 10 7 tacked 
+: 389 9 9 with 
+: 399 17 2 knife 
+- 418
+: 509 11 9 Prin
+: 521 8 7 cess 
+* 530 10 5 Di 
+: 541 4 7 is 
+: 546 9 9 wea
+: 556 10 7 ring 
+: 567 4 7 a 
+: 572 8 5 new 
+: 581 20 7 dress 
+- 603
+: 935 9 9 Jet 
+: 945 6 2 air
+: 952 7 10 li
+: 960 6 9 ner 
+: 967 10 7 shot 
+: 978 8 9 from 
+: 987 20 2 sky 
+- 1009
+: 1098 6 9 Fa
+: 1105 9 2 mine, 
+- 1116
+: 1119 5 10 Hor
+: 1125 5 9 ror, 
+: 1134 8 7 mil
+: 1143 11 9 lions 
+: 1155 19 2 die 
+- 1176
+: 1266 11 9 Earth
+: 1278 6 2 quake, 
+: 1285 6 10 ter
+: 1292 10 9 ror 
+: 1303 6 7 fi
+: 1310 13 9 gures 
+: 1324 21 2 rise 
+- 1347
+: 1434 9 9 Prin
+: 1444 10 7 cess 
+: 1455 9 5 Di 
+: 1465 6 7 is 
+: 1472 9 9 wea
+: 1482 9 7 ring 
+: 1492 4 7 a 
+: 1497 11 5 new 
+: 1509 18 7 dress 
+- 1529
+* 1622 5 9 You 
+* 1628 4 7 can’t 
+* 1633 7 5 change 
+* 1641 3 7 the 
+* 1645 9 5 world 
+- 1656
+: 1661 2 2 But 
+: 1664 2 9 you 
+: 1667 3 7 can 
+: 1671 8 5 change 
+: 1680 2 7 the 
+: 1683 11 5 facts 
+- 1696
+: 1701 2 2 And 
+: 1704 3 9 when 
+: 1708 2 7 you 
+: 1711 8 5 change 
+: 1720 10 7 the 
+: 1731 10 5 facts 
+- 1743
+: 1745 3 9 You 
+: 1749 6 7 change 
+: 1756 6 5 points 
+: 1763 9 7 of 
+: 1773 7 7 view 
+- 1782
+: 1787 1 2 If 
+: 1789 1 9 you 
+: 1791 6 7 change 
+: 1798 6 5 points 
+: 1805 9 7 of 
+: 1815 8 5 view 
+- 1825
+: 1827 3 9 You 
+: 1831 4 7 may 
+: 1836 8 5 change 
+: 1845 8 7 a 
+: 1854 8 7 vote 
+- 1864
+: 1867 1 2 And 
+: 1869 2 9 when 
+: 1872 2 7 you 
+: 1875 9 5 change 
+: 1885 8 7 a 
+: 1894 11 5 vote 
+- 1907
+: 1908 4 9 You 
+: 1913 4 7 may 
+: 1918 9 5 change 
+: 1928 10 7 the 
+: 1939 37 5 world 
+- 1978
+: 2271 8 9 In 
+: 2280 6 2 black 
+- 2287
+: 2287 8 10 Town
+: 2296 12 9 ships 
+: 2309 4 7 fi
+: 2314 9 9 res 
+: 2324 21 2 blaze 
+- 2347
+: 2434 8 9 Pros
+: 2443 11 2 pects 
+- 2455
+: 2455 5 10 Bet
+: 2461 9 9 ter 
+: 2471 10 7 pre
+: 2482 5 9 mier 
+: 2488 25 2 says 
+- 2515
+: 2602 6 9 With
+: 2609 7 2 in 
+: 2617 12 10 sight 
+: 2630 8 9 are 
+: 2639 10 7 gol
+: 2650 10 9 den 
+: 2661 21 2 days 
+- 2684
+: 2770 7 9 Prin
+: 2778 13 7 cess 
+: 2792 9 5 Di 
+: 2802 5 7 is 
+: 2808 9 9 wea
+: 2818 10 7 ring 
+: 2829 4 7 a 
+: 2834 9 5 new 
+: 2844 18 7 dress 
+- 2864
+: 2959 4 9 You 
+: 2964 4 7 can’t 
+: 2969 7 5 change 
+: 2977 2 7 the 
+: 2980 10 5 world 
+- 2992
+: 2996 3 2 But 
+: 3000 3 9 you 
+: 3004 2 7 can 
+: 3007 8 5 change 
+: 3016 3 7 the 
+: 3020 10 5 facts 
+- 3032
+: 3038 2 2 And 
+: 3041 2 9 when 
+: 3044 2 7 you 
+: 3047 9 5 change 
+: 3057 9 7 the 
+: 3067 10 5 facts 
+- 3079
+: 3082 1 9 You 
+: 3084 7 7 change 
+: 3092 6 5 points 
+: 3099 8 7 of 
+: 3108 8 7 view 
+- 3118
+: 3122 1 2 If 
+: 3124 1 9 you 
+: 3126 7 7 change 
+: 3134 7 5 points 
+: 3142 8 7 of 
+: 3151 8 5 view 
+- 3161
+: 3164 2 9 You 
+: 3167 4 7 may 
+: 3172 9 5 change 
+: 3182 7 7 a 
+: 3190 9 7 vote 
+- 3201
+: 3203 1 2 And 
+: 3205 4 9 when 
+: 3210 1 7 you 
+: 3212 9 5 change 
+: 3222 7 7 a 
+: 3230 9 5 vote 
+- 3241
+: 3244 3 9 You 
+: 3248 4 7 may 
+: 3253 10 5 change 
+: 3264 10 7 the 
+* 3275 35 5 world 
+- 3312
+: 3433 7 9 Prin
+: 3441 12 7 cess 
+: 3454 10 5 Di 
+: 3465 6 7 is 
+: 3472 9 9 wea
+: 3482 10 7 ring 
+: 3493 3 7 a 
+: 3497 9 5 new 
+: 3507 25 7 dress 
+- 3534
+: 3601 7 9 Prin
+: 3609 12 7 cess 
+: 3622 10 5 Di 
+: 3633 6 7 is 
+: 3640 9 9 wea
+: 3650 10 7 ring 
+: 3661 4 7 a 
+: 3666 9 5 new 
+: 3676 21 7 dress 
+- 3699
+: 3769 8 9 Prin
+: 3778 12 7 cess 
+: 3791 10 5 Di 
+: 3802 5 7 is 
+: 3808 9 9 wea
+: 3818 9 7 ring 
+: 3828 5 7 a 
+: 3834 8 5 new 
+: 3843 21 7 dress 
+- 3866
+: 3937 8 9 Prin
+: 3946 12 7 cess 
+: 3959 10 5 Di 
+: 3970 4 7 is 
+: 3975 10 9 wea
+: 3986 10 7 ring 
+: 3997 4 7 a 
+* 4002 17 5 new 
+* 4020 36 7 dress 
+E

@@ -1,0 +1,230 @@
+#ARTIST:Bear McCreary feat. Megan Richards
+#TITLE:This Wandering Day (Rings Of Power)
+#MP3:Bear McCreary feat. Megan Richards - This Wandering Day (Rings Of Power).mp3
+#CREATOR:lava
+#GENRE:Soundtrack
+#YEAR:2022
+#LANGUAGE:English
+#BPM:299.8
+#GAP:180
+#VIDEO:a=MZDaDG9LVzU,v=N5QViu-OydQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6f/5a/fc/6f5afc95-4066-ec7e-63ba-82a7c15a297f/5188.jpg/5000x5000bb.jpg,bg=https://www.sideshow.com/wp/wp-content/uploads/2022/08/Harfoots-on-a-Journey-The-Rings-of-Power.jpg,preview=27.19
+: 0 2 -2 The 
+: 6 11 -2 sun 
+: 18 3 0 is 
+: 24 5 2 fast 
+: 34 7 5 fal
+: 47 6 2 lin’ 
+: 67 3 2 be
+: 73 8 3 neath 
+: 84 14 2 trees 
+: 100 3 0 of 
+: 106 16 -2 stone 
+- 132
+: 136 4 2 The 
+: 143 21 5 light 
+* 166 3 7 in 
+: 170 2 5 the 
+: 175 7 5 to
+: 184 7 2 wer 
+: 201 4 2 no 
+: 208 12 3 lon
+: 222 4 5 ger 
+: 228 9 7 my 
+: 240 16 7 home 
+- 262
+: 265 7 2 Past 
+: 274 13 5 eyes 
+: 290 4 2 of 
+: 296 5 5 pale 
+* 304 6 7 fi
+* 312 7 5 re 
+: 333 2 3 black 
+: 341 10 5 sand 
+: 357 3 2 for 
+: 365 3 5 my 
+: 370 11 5 bed 
+- 391
+: 398 3 0 I 
+: 406 8 -2 trade 
+: 416 3 0 all 
+: 421 7 2 I’ve 
+: 431 8 5 known 
+: 441 13 2 for 
+: 460 4 -2 the 
+: 466 6 0 un
+: 474 4 0 kno
+: 481 16 2 ~wn 
+: 499 4 0 a
+: 505 18 -2 head 
+- 533
+: 540 11 5 Call 
+: 554 3 3 to 
+: 558 6 2 me 
+: 568 12 5 call 
+: 583 1 3 to 
+: 586 7 2 me 
+* 599 7 10 lands 
+* 609 10 9 far 
+* 621 2 7 a
+* 625 13 5 way 
+- 648
+: 657 2 5 Fo
+: 660 2 3 ~r 
+: 664 8 2 I 
+: 674 3 3 must 
+: 682 7 5 now 
+: 691 13 5 wan
+: 706 3 3 der 
+: 711 3 2 this 
+: 720 14 0 wan
+: 736 2 2 de
+: 740 8 0 ring 
+: 751 13 0 day 
+- 773
+: 776 4 5 A
+* 782 10 10 way 
+: 794 7 9 I 
+: 802 3 7 must 
+: 810 13 5 wan
+: 825 3 3 der 
+: 830 4 2 this 
+: 842 12 0 wan
+: 855 4 -2 de
+* 860 9 -3 ring 
+: 873 15 -2 day 
+- 898
+: 922 3 -2 Of 
+: 930 10 -2 drink 
+: 943 7 0 I 
+: 952 5 2 have 
+: 959 4 5 lit
+: 964 14 2 tle 
+: 986 3 2 and 
+: 993 8 3 food 
+: 1003 7 2 I 
+: 1013 7 0 have 
+: 1023 9 -2 less 
+- 1044
+: 1048 3 5 My 
+: 1056 6 5 strength 
+: 1067 7 7 tells 
+: 1077 3 5 me 
+: 1083 9 5 “No” 
+: 1106 2 3 but 
+: 1110 2 2 the 
+: 1114 13 3 path 
+: 1128 3 5 de
+: 1133 8 7 mands 
+: 1145 8 7 “Yes” 
+- 1163
+: 1170 4 2 My 
+: 1178 10 5 legs 
+: 1192 3 2 are 
+: 1199 3 5 so 
+: 1206 5 7 short 
+: 1213 12 5 and 
+: 1229 3 3 the 
+: 1234 13 5 way 
+: 1248 2 2 is 
+: 1258 1 3 so
+: 1260 2 5 ~ 
+: 1265 12 5 long 
+- 1286
+: 1289 2 2 I’
+: 1293 2 0 ~ve 
+* 1297 7 -2 no 
+: 1306 3 0 rest 
+: 1318 5 2 nor 
+* 1326 3 5 com
+: 1333 5 2 fort 
+: 1350 4 -2 no 
+: 1359 3 0 com
+: 1367 9 2 fort 
+: 1385 2 0 but 
+: 1393 35 -2 song 
+- 1438
+: 1453 9 5 Sing 
+: 1465 2 3 to 
+: 1469 6 2 me 
+: 1480 11 5 sing 
+: 1495 2 3 to 
+: 1499 8 2 me 
+* 1514 7 10 lands 
+: 1526 6 9 far 
+: 1534 2 7 a
+: 1539 15 5 way 
+- 1561
+: 1564 2 5 Oh
+: 1567 2 3 ~ 
+: 1572 10 2 rise 
+: 1586 4 3 up 
+: 1591 5 5 and 
+: 1601 8 5 guide 
+: 1612 7 3 me 
+: 1621 2 2 this 
+: 1630 12 0 wan
+: 1644 2 2 de
+: 1648 7 0 ring 
+: 1660 14 0 day 
+- 1680
+: 1683 4 5 Please 
+* 1691 13 10 pro
+: 1707 4 9 mise 
+: 1717 3 7 to 
+: 1724 4 5 find 
+: 1736 5 3 me 
+: 1745 3 2 this 
+: 1754 15 0 wan
+: 1771 3 -2 de
+: 1776 7 -3 ring 
+: 1787 37 -2 day 
+- 1834
+: 1842 2 -2 At 
+: 1847 6 -2 last 
+: 1864 6 0 comes 
+: 1873 4 2 their 
+* 1878 3 5 an
+: 1886 9 2 swer 
+: 1906 3 2 through 
+: 1912 10 3 cold 
+: 1924 8 2 and 
+: 1936 2 0 through 
+: 1943 4 -2 frost 
+- 1957
+: 1968 4 5 That 
+: 1974 3 5 not 
+: 1981 9 7 all 
+: 1995 4 5 who 
+: 2003 7 5 won
+: 2012 12 2 der 
+: 2031 4 2 or 
+: 2037 12 3 wan
+: 2051 6 5 der 
+: 2059 5 7 are 
+: 2066 12 7 lost 
+- 2090
+: 2094 4 2 No 
+: 2100 5 5 mat
+: 2107 11 2 ter 
+: 2121 2 5 the 
+: 2129 3 7 sor
+: 2133 14 5 row 
+: 2151 5 3 no 
+: 2157 4 5 mat
+: 2165 12 2 ter 
+: 2180 2 5 the 
+: 2187 8 5 cost 
+- 2205
+: 2212 2 2 Tha
+: 2216 3 0 ~t 
+: 2223 6 -2 not 
+: 2232 9 0 all 
+: 2245 6 2 who 
+: 2255 6 5 won
+: 2263 14 2 der 
+: 2279 6 -2 or 
+: 2287 17 0 wan
+: 2306 19 2 der 
+: 2328 24 0 are 
+: 2375 61 -2 lost 
+E

@@ -1,0 +1,178 @@
+#ARTIST:Rhapsody
+#TITLE:The Magic Of The Wizard’s Dream
+#MP3:Rhapsody - The Magic Of The Wizard’s Dream.mp3
+#CREATOR:Canni
+#YEAR:2004
+#LANGUAGE:English
+#BPM:232.02
+#GAP:17350
+#VIDEO:a=qz7hCazQESM,co=symphony-of-enchanted-lands-ii-the-dark-secret-569f2b96d730f.jpg,bg=rhapsody-of-fire-60d61a506d3bb.jpg
+: 0 15 5 In 
+: 16 15 10 those 
+: 32 14 12 si
+: 47 11 13 lent 
+: 64 25 12 shades 
+: 90 5 10 of 
+: 96 16 5 grey 
+- 114
+: 130 12 5 I 
+: 143 14 10 will 
+: 158 23 12 find 
+: 185 6 13 a 
+: 195 30 13 place 
+- 227
+: 256 16 5 To 
+: 273 13 10 es
+: 287 16 12 cape 
+: 304 16 13 the 
+: 321 21 12 end
+: 343 8 10 less 
+: 352 25 5 night 
+- 379
+: 383 13 5 To 
+: 397 19 10 find 
+: 417 18 12 a 
+: 440 3 13 new 
+: 444 31 13 sun 
+- 477
+: 770 12 12 Moon
+: 783 17 12 shine 
+: 810 5 12 in 
+: 816 8 13 this 
+: 825 7 15 et
+: 833 14 18 er
+: 848 16 17 nal 
+: 865 40 17 night 
+- 907
+: 932 10 13 An
+: 943 29 13 gels 
+: 977 14 15 are 
+: 992 16 17 call
+: 1009 25 17 ing 
+- 1036
+: 1040 8 17 From 
+: 1049 6 19 di
+: 1056 16 22 vine 
+: 1073 25 20 lost 
+: 1104 8 20 crys
+: 1113 6 19 tal 
+: 1120 35 19 realms 
+- 1157
+: 1193 8 13 Rid
+: 1202 28 13 ing 
+: 1233 13 15 from 
+: 1247 17 17 hea
+: 1265 25 17 ven 
+- 1292
+: 1298 6 17 For 
+: 1305 7 19 the 
+: 1313 15 22 mag
+: 1329 19 20 ic 
+: 1360 8 20 of 
+: 1369 8 22 the 
+: 1378 22 25 Wiz
+: 1401 7 24 ars’s 
+: 1409 24 24 dream 
+- 1435
+: 1446 9 5 In 
+: 1456 15 10 the 
+: 1472 15 12 mis
+: 1488 14 13 ty 
+: 1505 22 12 lights 
+: 1528 7 10 of 
+: 1536 16 5 dawn 
+- 1554
+: 1570 12 5 Be
+: 1583 15 10 tween 
+: 1599 22 12 heart 
+: 1625 5 13 and 
+: 1631 26 13 soul 
+- 1659
+: 1698 13 5 El
+: 1712 15 10 gard’s 
+: 1728 16 12 call
+: 1745 11 13 ing 
+: 1760 20 12 for 
+: 1781 10 10 new 
+: 1792 24 5 hope 
+- 1818
+: 1825 14 5 To 
+: 1840 15 10 a
+: 1856 18 12 void 
+: 1878 7 13 our 
+: 1886 29 13 fall 
+- 1917
+: 2210 11 12 Moon
+: 2222 19 12 shine 
+: 2250 5 12 in 
+: 2256 9 13 this 
+: 2266 6 15 et
+: 2273 13 18 er
+: 2287 16 17 nal 
+: 2304 39 17 night 
+- 2345
+: 2369 14 13 An
+: 2384 29 13 gels 
+: 2416 15 15 are 
+: 2432 16 17 call
+: 2449 27 17 ing 
+- 2478
+: 2480 8 17 From 
+: 2489 7 19 di
+: 2497 15 22 vine 
+: 2513 27 20 lost 
+: 2544 8 20 crys
+: 2553 7 19 tal 
+: 2562 28 19 realms 
+- 2592
+: 2628 12 13 Rid
+: 2641 24 13 ing 
+: 2672 14 15 from 
+: 2687 17 17 heav
+: 2705 23 17 en 
+- 2730
+: 2738 6 17 For 
+: 2745 7 19 the 
+: 2753 16 22 mag
+: 2770 19 20 ic 
+: 2799 10 20 of 
+: 2810 6 22 the 
+: 2817 23 25 Wiz
+: 2841 7 24 ard’s 
+: 2849 22 24 dream 
+- 2873
+: 2881 14 13 An
+: 2896 27 13 gels 
+: 2928 15 15 are 
+: 2944 16 17 call
+: 2961 27 17 ing 
+- 2990
+: 2993 7 17 From 
+: 3001 7 19 di
+: 3009 14 22 vine 
+: 3024 26 20 lost 
+: 3056 8 20 crys
+: 3065 7 19 tal 
+: 3073 33 19 realms 
+- 3108
+: 3147 5 13 Rid
+: 3153 28 13 ing 
+: 3182 17 15 from 
+: 3200 17 17 heav
+: 3218 24 17 en 
+- 3244
+: 3249 7 17 For 
+: 3257 7 19 the 
+: 3265 16 22 mag
+: 3282 19 20 ic 
+: 3314 7 20 of 
+: 3322 6 22 the 
+: 3329 23 25 Wiz
+: 3353 6 24 ard’s 
+: 3360 19 24 dream 
+- 3380
+: 3380 11 22 The 
+: 3392 24 25 Wiz
+: 3417 7 27 ard’s 
+: 3425 22 27 dream 
+E

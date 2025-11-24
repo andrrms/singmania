@@ -1,0 +1,110 @@
+#ARTIST:The Beatles
+#TITLE:Her Majesty
+#MP3:The Beatles - Her Majesty.mp3
+#CREATOR:mustangfred
+#EDITION:The Beatles Rock Band
+#GENRE:Pop
+#YEAR:1969
+#LANGUAGE:English
+#BPM:323.44
+#GAP:3830
+#VIDEO:a=Mh1hKt5kQ_4,co=abbey-road-608579fa55f23.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 2 18 Her 
+* 3 4 18 Ma
+: 8 2 18 je
+: 12 2 18 sty’s 
+: 16 1 18 a 
+: 19 2 23 pret
+: 22 2 21 ty 
+: 25 1 17 nice
+: 27 2 16 ~ 
+: 31 4 14 girl 
+- 37
+: 38 1 9 But 
+: 41 2 9 she 
+: 44 2 17 does
+: 47 2 16 n’t 
+: 50 2 14 have 
+* 54 2 11 a 
+: 57 4 16 lot 
+: 62 2 11 to 
+: 66 9 14 say 
+- 77
+: 103 2 14 Her 
+: 106 5 18 Ma
+: 112 2 18 je
+: 115 3 18 sty’s 
+: 119 1 18 a 
+: 123 1 23 pret
+: 125 2 21 ty 
+: 128 2 18 nice
+: 131 2 16 ~ 
+: 135 4 14 girl 
+- 141
+: 142 2 11 But 
+* 145 2 11 she 
+: 148 2 16 chan
+: 152 1 18 ges 
+: 155 2 14 from 
+: 158 2 16 day
+* 161 1 18 ~ 
+: 165 1 14 to 
+: 167 7 16 day 
+- 176
+: 203 2 11 I 
+: 206 2 18 wan
+: 209 1 18 na 
+: 212 3 18 tell 
+: 216 2 18 her 
+: 219 2 18 that 
+: 222 2 18 I 
+: 225 3 18 love 
+: 229 2 18 her 
+: 232 2 18 a 
+: 235 4 18 lot 
+- 241
+: 245 2 16 But 
+: 248 1 16 I 
+: 250 2 18 got
+* 254 2 18 ta 
+: 257 2 18 get 
+: 260 1 18 a 
+: 264 2 23 bel
+: 267 1 21 ly 
+: 270 2 17 full 
+: 273 1 16 of 
+: 277 10 14 wine 
+- 289
+: 308 2 13 Her 
+: 311 2 13 Ma
+: 314 2 11 ~
+: 318 2 11 je
+: 321 2 13 sty’s 
+: 324 1 13 a 
+: 328 2 14 pret
+: 331 2 14 ty 
+: 334 4 14 nice 
+: 340 3 16 girl
+: 344 1 18 ~ 
+- 347
+: 348 2 11 Some 
+: 351 6 19 day 
+: 358 2 19 I’m 
+: 361 1 19 gon
+: 363 1 19 na 
+: 366 2 18 make 
+: 370 2 18 her 
+: 373 8 14 mine 
+: 382 2 18 oh 
+: 387 2 11 yeah
+: 390 2 9 ~ 
+- 394
+: 401 2 11 Some 
+: 404 2 18 day 
+: 407 2 19 I’m 
+: 410 1 20 gon
+: 412 1 20 na 
+* 415 2 21 make 
+: 419 2 18 her 
+: 422 10 14 mine 
+E

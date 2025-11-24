@@ -1,0 +1,372 @@
+#ARTIST:Muppets
+#TITLE:Cabin Fever
+#MP3:Muppets - Cabin Fever.mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#LANGUAGE:English
+#BPM:300
+#GAP:10120
+#VIDEO:v=cmQwL6qiByo,co=https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2712/2712924_so.jpg
+: 0 2 7 I 
+: 5 2 7 got 
+: 10 2 4 ca
+: 15 1 4 bin 
+: 20 3 7 fe
+: 26 4 10 ver 
+: 34 2 6 it’s 
+: 38 2 10 bur
+: 43 2 10 ning 
+: 48 2 8 in 
+: 53 1 6 my 
+: 58 6 8 brain 
+- 73
+: 76 2 7 I’ve 
+: 81 2 7 got 
+: 86 1 4 cab
+: 90 1 4 in 
+: 95 2 8 fe
+: 102 3 12 ver 
+F 109 2 10 it’s 
+F 114 2 6 driv
+F 120 1 6 ing 
+F 125 1 6 me 
+F 129 1 6 in
+F 133 8 6 sane 
+- 148
+: 151 2 7 We 
+: 156 2 7 got 
+: 163 1 4 cab
+: 168 1 4 in 
+: 173 2 7 fe
+: 179 3 10 ver, 
+- 186
+: 188 1 9 We’re 
+: 192 2 12 flip
+: 196 2 12 ping 
+: 201 2 9 our 
+: 205 2 8 band
+: 211 2 9 dan
+: 217 3 7 as 
+- 223
+: 225 2 5 Been 
+: 231 1 8 stuck 
+: 236 1 8 at 
+: 240 2 5 sea 
+: 245 2 5 so 
+: 250 1 8 long 
+: 255 1 5 we 
+- 262
+: 264 2 5 Have 
+: 269 2 10 simp
+: 274 2 10 ly 
+: 279 2 7 gone 
+* 284 2 5 ban
+* 289 3 7 an
+* 295 5 4 as 
+- 305
+F 307 1 6 Chi
+F 310 1 6 ca 
+F 313 1 6 chi
+F 316 1 6 ca 
+F 318 2 6 boom 
+- 321
+F 323 1 6 A 
+F 325 1 6 chi
+F 328 2 6 ca 
+F 331 1 6 chi
+F 333 2 6 ca 
+F 336 2 6 boom 
+F 340 3 6 boom 
+F 345 7 6 chic 
+- 362
+F 384 1 6 Chi
+F 386 2 6 ca 
+F 389 1 6 chi
+F 391 2 6 ca 
+F 394 2 6 boom 
+- 397
+F 399 1 6 A 
+F 402 1 6 chi
+F 405 2 6 ca 
+F 408 1 6 chi
+F 411 1 6 ca 
+F 413 3 6 boom 
+F 418 3 6 boom 
+F 424 6 6 chic 
+- 440
+: 462 1 7 We 
+: 466 1 7 got 
+: 471 1 4 cab
+: 476 1 4 in 
+: 480 3 7 fe
+: 486 4 11 ver 
+- 494
+: 496 1 7 We’ve 
+: 499 1 11 lost 
+: 503 2 11 what 
+: 508 2 9 sense 
+: 513 2 7 we 
+: 518 6 9 had 
+- 534
+: 538 1 9 We 
+: 542 2 9 got 
+: 547 1 5 cab
+: 551 2 5 in 
+: 556 3 9 fev
+: 562 5 10 er, 
+F 575 2 9 we’re 
+F 579 2 6 all 
+F 585 1 6 go
+F 587 2 6 ing 
+F 592 8 6 mad 
+- 333
+: 616 1 6 Grab 
+: 621 2 6 your 
+: 626 2 6 part
+: 630 2 6 ner 
+: 635 2 6 by 
+: 640 1 6 the 
+: 643 5 6 ears 
+- 651
+F 653 3 6 Lash 
+F 658 2 6 him 
+F 663 2 6 to 
+F 668 1 6 the 
+F 672 7 6 wheel 
+- 688
+F 691 3 6 Do-
+F 696 2 6 si-
+F 700 5 6 do 
+F 710 1 6 step 
+F 713 2 6 on 
+F 718 1 6 his 
+F 721 3 6 toe 
+- 726
+F 728 3 6 Lis
+F 733 2 6 ten 
+F 737 2 6 to 
+F 742 2 6 him 
+F 746 9 6 squeal 
+- 763
+: 766 1 12 Al
+: 768 1 12 le
+: 770 2 12 mand 
+: 775 4 12 left, 
+: 781 4 17 al
+: 786 2 17 le
+: 789 1 17 mande 
+* 793 3 17 right 
+- 796
+: 797 2 12 It’s 
+: 802 2 12 time 
+: 807 2 12 to 
+: 812 2 12 sail 
+: 817 2 15 or 
+: 822 1 12 sink 
+- 833
+: 841 1 17 Swing 
+: 846 1 17 your 
+: 851 1 17 part
+: 855 2 17 ner 
+: 860 1 21 o
+: 862 2 17 ver 
+: 866 1 17 the 
+: 869 2 17 side 
+- 877
+: 879 2 12 Drop 
+: 884 2 12 him 
+: 888 2 10 in 
+: 892 2 7 the 
+: 897 6 5 drink 
+- 912
+F 916 2 6 We 
+F 921 2 6 got 
+F 926 2 6 cab
+F 930 2 6 in 
+F 936 1 6 fev
+F 940 4 6 er 
+- 948
+F 950 2 6 No 
+F 955 3 6 if’s, 
+F 961 4 6 and’s, 
+F 968 2 6 or 
+F 972 9 6 but’s 
+- 982
+F 984 2 6 We’re 
+F 990 1 6 dis
+F 993 2 6 or
+F 997 1 6 i
+F 1000 2 6 en
+F 1005 1 6 ted 
+- 1006
+F 1007 1 6 And 
+F 1011 1 6 de
+F 1014 3 6 men
+F 1019 6 6 ted 
+- 1025
+F 1026 2 6 And 
+F 1031 2 6 a 
+F 1036 2 6 lit
+F 1040 3 6 tle 
+F 1046 7 6 nuts 
+- 1062
+: 1066 5 15 Ach 
+: 1074 5 13 du 
+: 1084 10 19 lie
+: 1098 2 16 ber 
+: 1103 5 13 Vol
+: 1111 2 13 swag
+: 1117 1 11 en 
+: 1121 6 10 car 
+- 1137
+: 1141 2 11 Sa
+: 1146 2 10 ur 
+: 1151 2 11 bra
+: 1155 2 10 ten 
+: 1160 2 11 vie
+: 1164 3 10 ner 
+: 1169 2 11 schnit
+: 1174 2 8 zel 
+- 1176
+: 1178 4 10 Und 
+: 1185 1 8 a 
+: 1187 3 10 vun
+: 1192 1 10 der 
+* 1197 3 13 bra 
+- 1205
+: 1207 2 11 We 
+: 1212 1 13 were 
+: 1216 5 15 sail
+: 1225 5 11 ing, 
+: 1233 7 19 sail
+: 1244 3 17 ing 
+- 1250
+: 1252 2 15 The 
+: 1255 4 13 wind 
+: 1261 1 13 was 
+: 1264 2 13 on 
+: 1268 2 11 our 
+: 1272 12 10 side 
+- 1304
+F 1334 2 6 And 
+F 1338 1 6 then 
+F 1341 3 6 it 
+F 1348 9 6 died 
+- 1363
+F 1366 2 6 I’ve 
+F 1371 2 6 got 
+F 1376 2 6 cab
+F 1380 2 6 in 
+F 1385 4 6 fe
+F 1392 4 6 ver 
+- 1398
+F 1400 2 6 I 
+F 1404 2 6 think 
+F 1409 2 6 I’ve 
+F 1414 2 6 lost 
+F 1417 3 6 my 
+F 1421 8 6 grip 
+- 1435
+F 1437 2 6 I’d 
+F 1442 2 6 like 
+F 1447 2 6 to 
+F 1451 2 6 get 
+F 1455 3 6 my 
+F 1461 4 6 hands 
+F 1467 5 6 on 
+- 1473
+F 1475 2 6 Who
+: 1480 1 6 ev
+: 1483 2 6 er 
+: 1488 3 6 wrote 
+: 1492 3 6 this 
+: 1498 6 6 script 
+- 1504
+F 1505 8 21 Si! 
+- 1513
+* 1514 39 21 I 
+: 1557 3 22 was 
+: 1563 3 23 floa
+: 1568 2 20 ting 
+: 1572 3 18 ’neath 
+: 1577 2 16 a 
+: 1582 2 14 tro
+: 1586 2 16 pic 
+: 1591 35 18 moon 
+- 1630
+: 1632 1 21 And 
+: 1638 2 23 dream
+: 1643 1 21 ing 
+: 1648 2 18 of 
+: 1653 2 16 a 
+: 1658 3 14 blue 
+: 1664 2 12 la
+: 1667 27 16 goon 
+- 1705
+: 1709 2 16 Now 
+: 1713 2 18 I’m 
+: 1721 2 14 cra
+: 1728 2 14 zy 
+: 1731 3 14 as 
+: 1738 1 10 a 
+* 1741 9 14 loon 
+- 1760
+: 1781 4 17 Cab
+: 1789 6 13 in 
+: 1799 5 21 fe
+: 1808 4 19 ver 
+: 1814 2 17 has 
+: 1818 5 15 rav
+: 1825 1 15 aged 
+: 1828 2 15 all 
+: 1832 1 13 a
+: 1837 5 12 board 
+- 1848
+: 1851 2 12 This 
+: 1856 2 13 once 
+: 1860 2 12 proud 
+: 1865 2 13 ves
+: 1870 1 12 sel 
+: 1874 2 13 has 
+: 1879 2 12 be
+: 1884 2 13 come 
+- 1886
+: 1887 2 10 A 
+: 1892 2 11 floa
+: 1897 2 10 ting 
+: 1903 1 12 psy
+: 1908 1 13 cho 
+: 1912 4 15 ward 
+- 1920
+: 1922 2 13 We 
+: 1927 1 15 were 
+: 1932 6 17 sail
+: 1941 5 13 ing, 
+: 1951 8 21 sail
+: 1961 9 17 ing 
+- 1970
+: 1971 4 15 Head
+: 1978 1 15 ded 
+: 1981 1 15 who 
+: 1985 2 13 knows 
+: 1989 4 12 where 
+- 2000
+: 2003 2 12 And 
+: 2008 5 10 now 
+: 2017 6 10 though 
+: 2027 5 10 we’re 
+: 2036 5 10 all 
+: 2045 22 10 here 
+- 2068
+* 2070 1 10 We’re 
+* 2076 1 10 not 
+* 2080 1 7 all 
+* 2084 8 9 there 
+- 2132
+F 2296 2 6 Cab
+F 2300 2 6 in 
+F 2306 3 6 fe
+F 2311 5 6 ver! 
+- 2316
+F 2317 24 6 Ahh... 
+E

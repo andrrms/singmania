@@ -1,0 +1,356 @@
+#ARTIST:The Rocky Horror Picture Show
+#TITLE:Wild And Untamed Thing
+#MP3:The Rocky Horror Picture Show - Wild And Untamed Thing.mp3
+#CREATOR:DoubleDee
+#COVER:The Rocky Horror Picture Show - Wild And Untamed Thing [CO].jpg
+#BACKGROUND:The Rocky Horror Picture Show - Wild And Untamed Thing [BG].jpg
+#GENRE:Musical
+#YEAR:1975
+#LANGUAGE:English
+#BPM:397
+#GAP:300
+#VIDEO:a=UJ6fYwtDs-U,v=e8xGVnLales,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/e9/ea/ace9ea5a-ab1a-1c3f-d745-dd468f6974b1/884385092450.jpg/5000x5000bb.jpg,bg=the-rocky-horror-picture-show-543c473e4a8bc.jpg,preview=47.82,medley=0-1183
+#VIDEOGAP:0.3
+#END:172000
+: 0 4 7 My 
+: 7 4 7 my 
+: 14 4 7 my
+: 19 1 0 ~ 
+- 20
+: 22 2 -5 My 
+: 26 2 -5 my 
+: 31 3 7 my 
+: 35 7 7 my 
+: 45 5 7 my
+: 51 3 0 ~ 
+- 61
+: 64 5 7 My 
+: 72 6 7 my 
+: 80 6 7 my 
+: 88 9 7 my 
+- 102
+* 104 10 3 My 
+* 116 5 0 my 
+- 122
+: 124 3 0 I’m 
+: 128 2 -3 a 
+: 132 6 0 wild 
+: 140 2 0 and 
+: 144 2 0 an 
+: 147 3 3 un
+: 152 4 0 tamed 
+: 162 2 2 thin
+: 165 3 -7 ~g 
+- 178
+: 187 3 5 I’m 
+: 191 2 -3 a 
+: 194 6 -2 bee 
+: 203 2 -2 with 
+: 207 2 -2 a 
+: 211 2 -2 dead
+: 215 12 -2 ly 
+: 231 8 5 sting 
+- 245
+: 247 2 0 You 
+: 251 2 -2 get 
+: 255 2 -4 a 
+: 259 3 0 hit 
+: 263 5 0 and 
+: 271 2 0 your 
+: 275 5 0 mind 
+: 283 7 0 goes 
+: 295 7 -2 ping 
+- 310
+: 313 2 -3 Your 
+: 317 2 -2 heart
+: 321 2 -7 ~’ll 
+: 325 2 -5 pump 
+: 329 2 -5 and 
+: 333 2 -5 your 
+: 337 6 2 blood 
+: 345 3 0 will
+: 349 5 2 ~
+: 355 2 0 ~ 
+: 361 6 0 sing 
+- 375
+: 378 3 0 So 
+: 382 3 0 let 
+: 386 2 -3 the 
+: 390 3 0 par
+: 394 2 0 ty 
+: 398 3 0 and 
+: 402 2 0 the 
+: 406 7 2 sounds 
+: 418 3 2 rock 
+: 426 3 -3 on
+: 430 3 -7 ~ 
+- 439
+: 441 2 -2 We’re 
+: 445 2 -2 gon
+: 449 2 -2 na 
+: 453 3 -2 shake 
+: 457 2 -2 it 
+: 461 3 -2 till 
+: 465 2 -2 the 
+: 469 4 -2 life 
+: 477 4 -2 has 
+: 489 5 -3 gone
+: 495 3 -4 ~
+: 500 3 -7 ~ 
+- 513
+: 517 6 0 Rose 
+: 525 2 0 tint 
+: 529 2 0 my 
+: 533 2 -4 wor
+: 536 3 -5 ~ld 
+- 539
+: 541 3 -7 Keep 
+: 545 2 -7 me 
+: 549 6 -5 safe 
+: 557 3 -5 from 
+: 561 3 -5 my 
+: 569 2 -5 trou
+: 573 3 -3 ble 
+: 577 2 -5 and
+: 580 3 -7 ~ 
+* 589 14 -7 pai
+* 604 5 -10 ~n 
+- 635
+: 700 3 0 We’re 
+: 704 1 0 a
+: 706 1 -3 ~ 
+: 709 6 0 wild 
+: 717 2 0 and 
+: 721 2 0 an 
+: 725 3 2 un
+: 730 4 0 tamed 
+: 738 3 0 thin
+: 742 3 -7 ~g 
+- 755
+: 765 3 -2 We’re 
+: 769 2 -2 a 
+: 773 7 -2 bee 
+: 781 2 -2 with 
+: 785 2 -2 a 
+: 789 2 -2 dead
+: 793 6 -2 ly 
+: 802 3 0 stin
+: 806 4 -7 ~g 
+- 822
+: 826 2 0 You 
+: 830 2 0 get 
+: 834 2 -3 a 
+: 838 3 0 hit 
+: 842 5 0 and 
+: 850 2 0 your 
+: 854 5 0 mind 
+: 862 6 0 goes 
+: 870 3 0 pin
+: 874 3 -7 ~g 
+- 887
+: 891 2 -3 Your 
+: 895 2 -3 heart
+: 899 2 -7 ~’ll 
+: 903 2 -5 pump 
+: 907 2 -5 and 
+: 911 2 -5 your 
+: 915 4 2 blood 
+: 923 2 1 will
+: 926 3 2 ~ 
+: 933 10 0 sing 
+- 951
+: 954 3 0 So 
+: 958 3 0 let 
+: 962 2 -3 the 
+: 966 3 0 par
+: 970 2 0 ty 
+: 974 3 0 and 
+: 978 2 0 the 
+: 982 2 2 soun
+: 985 4 0 ~ds 
+: 990 4 0 rock 
+: 995 3 -3 on
+: 999 3 -7 ~ 
+- 1014
+: 1018 2 -2 We’re 
+: 1022 2 -2 gon
+: 1026 2 -2 na 
+: 1030 3 -2 shake 
+: 1034 2 -2 it 
+: 1038 2 -2 till 
+: 1041 2 -2 the 
+: 1045 4 -2 life 
+: 1051 5 -2 has 
+: 1060 4 -3 gone
+: 1065 5 -7 ~ 
+- 1080
+* 1093 7 2 Rose 
+: 1102 3 0 tint 
+: 1106 3 0 my 
+: 1110 2 -4 wor
+: 1113 3 -5 ~ld 
+- 1116
+: 1118 3 -7 Keep 
+: 1122 2 -7 me 
+: 1126 6 -5 safe 
+: 1134 3 -5 from 
+: 1138 3 -5 my 
+: 1143 3 -5 trou
+: 1147 3 -3 ble 
+: 1151 3 -5 and
+: 1155 3 -7 ~ 
+: 1160 16 -7 pai
+: 1177 6 -10 ~n 
+- 1235
+: 1499 3 0 We’re 
+: 1503 1 0 a
+: 1505 1 -3 ~ 
+: 1508 6 0 wild 
+: 1516 2 0 and 
+: 1520 2 0 an 
+: 1524 3 2 un
+: 1529 4 0 tamed 
+: 1537 3 0 thin
+: 1541 3 -7 ~g 
+- 1554
+: 1562 3 2 We’re 
+: 1566 2 -5 a 
+: 1570 7 -2 bee 
+: 1578 2 -2 with 
+: 1582 2 -2 a 
+: 1586 2 -2 dead
+: 1590 6 -2 ly 
+: 1599 3 -4 stin
+: 1603 4 -7 ~g 
+- 1618
+: 1622 2 0 You 
+: 1626 2 0 get 
+: 1630 2 -3 a 
+: 1634 3 0 hit 
+: 1638 5 0 and 
+: 1646 2 0 your 
+: 1650 5 0 mind 
+: 1658 6 0 goes 
+: 1666 3 2 pin
+: 1670 3 -7 ~g 
+- 1682
+: 1686 2 -3 Your 
+: 1690 2 -3 heart
+: 1694 2 -7 ~’ll 
+: 1698 2 -5 pump 
+: 1702 2 -5 and 
+: 1706 2 -5 your 
+: 1710 5 2 blood 
+: 1718 6 2 will 
+: 1728 6 0 sin
+: 1735 3 -5 ~g 
+- 1746
+: 1749 3 0 So 
+: 1753 3 0 let 
+: 1757 2 -3 the 
+: 1761 3 0 par
+: 1765 2 0 ty 
+: 1769 3 0 and 
+: 1773 2 0 the 
+: 1777 2 2 soun
+: 1780 4 0 ~ds 
+: 1785 3 0 rock 
+: 1789 3 -3 on
+: 1793 3 -7 ~ 
+- 1808
+: 1812 2 -2 We’re 
+: 1816 2 -2 gon
+: 1820 2 -2 na 
+: 1824 3 -2 shake 
+: 1828 2 -2 it 
+: 1832 2 -2 till 
+: 1835 2 -2 the 
+: 1839 4 -2 life 
+: 1845 5 -2 has 
+: 1853 2 -4 gone
+: 1856 2 -3 ~, 
+: 1861 5 -4 gone, 
+: 1869 4 -4 gone
+: 1874 4 -7 ~ 
+- 1884
+: 1886 7 0 Rose 
+: 1895 3 0 tint 
+: 1899 3 0 my 
+: 1903 2 -4 wor
+: 1906 1 -5 ~ld 
+- 1908
+: 1910 3 -7 Keep 
+: 1914 2 -7 me 
+: 1918 6 -5 safe 
+: 1926 3 -5 from 
+: 1930 3 -5 my 
+: 1935 3 -5 trou
+: 1939 3 -3 ble 
+: 1943 3 -5 and
+: 1947 3 -7 ~ 
+: 1952 16 -7 pai
+: 1969 6 -10 ~n 
+- 2027
+: 2099 21 5 Frank-
+: 2122 20 5 N-
+: 2145 19 5 Fur
+: 2167 22 5 ter, 
+: 2191 17 5 it’s 
+: 2214 8 5 all
+: 2223 13 7 ~ 
+: 2238 4 8 o
+: 2243 9 7 ~
+: 2253 8 5 ver 
+- 2273
+: 2277 4 5 Your 
+: 2283 5 5 mis
+: 2291 14 5 sion 
+: 2307 6 5 is 
+: 2316 5 5 a 
+: 2327 18 5 fai
+: 2346 3 5 lure
+: 2350 4 2 ~ 
+- 2364
+: 2368 3 5 Your 
+: 2372 9 5 life
+: 2384 9 5 style’s 
+: 2396 4 5 too 
+* 2401 8 7 ex
+* 2417 7 9 treme
+* 2425 3 7 ~
+* 2429 9 5 ~
+* 2439 4 7 ~
+* 2444 13 5 ~ 
+- 2459
+: 2461 12 5 I’m 
+: 2475 10 5 your 
+: 2487 8 5 new 
+: 2497 4 5 com
+: 2502 23 5 man
+: 2527 4 5 der
+: 2532 4 2 ~ 
+- 2546
+: 2555 5 5 You 
+: 2562 15 5 now 
+: 2578 6 5 are 
+: 2585 10 7 my 
+: 2598 10 8 priso
+: 2610 11 5 ner 
+- 2623
+: 2625 8 5 We 
+: 2634 5 5 re
+: 2642 16 5 turn 
+: 2660 3 5 to 
+: 2666 14 5 Tran
+: 2682 6 5 syl
+: 2689 5 5 va
+: 2695 4 2 ~
+: 2700 10 0 nia 
+- 2720
+: 2735 3 4 Pre
+: 2741 13 5 pare 
+: 2755 7 5 the 
+* 2766 15 4 tran
+* 2783 14 5 sit 
+: 2799 76 7 beam 
+E

@@ -1,0 +1,53 @@
+#ARTIST:Yello
+#TITLE:Oh Yeah
+#MP3:Yello - Oh Yeah.mp3
+#CREATOR:T€chn0 Fr34k
+#YEAR:1985
+#LANGUAGE:English
+#BPM:268.1
+#GAP:6420
+#VIDEO:v=qARW6d-whRg,co=https://i.discogs.com/itCZmFKj4hR2gCj09Hgl3GTNv1eWiL6t26k4OFqBiNE/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQx/Ny0xMTM5ODM3NzU0/LmpwZWc.jpeg,co-crop=3-3-576-576,bg=yello-555fc67de7f79.jpg
+: 0 11 7 Oh 
+: 12 16 3 Yeah 
+- 30
+: 64 11 9 Oh 
+: 76 24 5 Yeah 
+- 102
+: 124 15 5 Oh 
+: 140 20 1 Yeah 
+- 162
+: 188 3 0 The 
+: 192 24 4 Moon 
+- 218
+: 256 7 5 Beau
+: 264 7 4 ti
+: 272 16 3 ful 
+- 290
+: 312 7 8 The 
+: 320 12 5 sun 
+- 334
+: 372 11 4 Even 
+: 384 7 6 more 
+: 392 7 5 beau
+: 400 3 4 ti
+: 404 16 3 ful 
+- 422
+: 444 19 4 Oh 
+: 464 24 -1 Yeah 
+- 490
+: 512 15 6 Oh 
+: 528 24 1 Yeah 
+- 554
+: 572 15 4 Oh 
+: 588 24 -1 Yeah 
+- 614
+: 1292 7 -2 Beau
+: 1300 3 -6 ti
+: 1304 16 -9 ful 
+- 1322
+: 1356 15 2 Oh 
+: 1372 16 -4 Yeah 
+- 1390
+: 1420 15 8 Oh 
+: 1436 36 3 Yeah 
+E

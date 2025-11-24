@@ -1,0 +1,386 @@
+#ARTIST:Disney’s The Nightmare Before Christmas
+#TITLE:Jack’s Lament
+#MP3:Disney’s The Nightmare Before Christmas - Jack’s Lament.mp3
+#CREATOR:matthu
+#GENRE:Soundtrack
+#YEAR:1993
+#LANGUAGE:English
+#BPM:299.4
+#GAP:39200
+#VIDEO:v=TtuXbXq6QqE,co=tim-burtons-the-nightmare-before-christmas-original-motion-p-68a9df9d6388f.jpg,bg=the-nightmare-before-christmas-5df495f6f3b82.jpg
+F 0 4 28 There 
+F 6 2 28 are 
+F 10 8 28 few 
+F 21 3 28 who’d 
+F 27 2 28 de
+F 31 6 28 ny 
+- 38
+F 39 2 28 At 
+: 43 2 22 what 
+: 47 2 24 I 
+: 52 7 25 do 
+F 61 2 28 I 
+F 65 2 28 am 
+F 69 2 28 the 
+F 73 5 28 best 
+- 80
+: 86 3 22 For 
+: 91 3 24 my 
+: 97 4 25 ta
+: 102 3 24 lents 
+: 111 3 24 are 
+: 116 2 22 re
+: 121 6 21 nowned 
+: 130 3 22 far 
+: 135 3 24 and 
+F 141 9 28 wide 
+- 152
+F 173 4 28 When 
+F 178 3 28 it 
+: 183 7 24 comes 
+F 194 3 28 to 
+F 199 3 28 sur
+F 205 3 28 pri
+F 210 3 28 ses 
+- 215
+F 224 2 28 In 
+F 228 2 28 the 
+: 231 5 24 moon
+: 238 5 24 lit 
+F 248 6 28 night 
+- 256
+: 262 2 22 I 
+: 267 2 24 ex
+: 271 5 24 cel 
+: 280 3 22 with
+: 286 3 21 out 
+F 292 3 28 e
+F 297 3 28 ver 
+F 304 2 28 e
+F 309 2 28 ven 
+F 315 3 28 try
+F 319 4 28 ing 
+- 325
+F 347 2 28 With 
+F 352 2 28 the 
+F 357 6 28 slight
+F 366 4 28 est 
+F 372 2 28 lit
+F 376 2 28 tle 
+F 380 2 28 ef
+F 384 3 28 fort 
+- 389
+: 390 3 24 Of 
+: 395 3 24 my 
+F 401 5 28 ghost~
+F 412 6 28 like 
+F 423 7 28 charms 
+- 432
+F 437 2 28 I 
+F 442 2 28 have 
+F 446 5 28 seen 
+: 455 5 27 grown 
+: 466 4 27 men 
+* 474 2 27 give 
+* 478 3 26 out 
+* 484 3 27 a 
+* 489 8 28 shriek 
+- 499
+F 521 3 28 With 
+F 527 2 28 the 
+F 532 6 28 wave 
+F 542 3 28 of 
+F 548 2 28 my 
+F 553 8 28 hand 
+- 563
+F 565 3 28 And 
+F 572 2 28 a 
+F 577 6 28 well~
+F 586 7 28 placed 
+F 597 7 28 moan 
+- 606
+: 611 4 27 I 
+: 617 2 29 have 
+: 621 5 30 swept 
+: 628 2 29 the 
+: 632 2 27 ver
+: 637 3 30 y 
+: 643 3 29 brav
+: 648 3 27 est 
+: 654 3 26 off 
+: 661 3 29 their 
+: 666 6 27 feet 
+- 674
+F 700 6 28 Yet 
+: 710 8 32 year 
+: 723 5 32 af
+: 729 5 32 ter 
+: 738 7 30 year 
+- 747
+F 756 4 28 It’s 
+F 762 3 28 the 
+F 767 7 28 same 
+F 778 10 28 rou
+F 790 9 28 tine 
+- 801
+F 811 2 28 And 
+F 814 2 28 I 
+: 819 6 34 grow 
+: 828 7 34 so 
+: 839 4 32 wear
+: 845 4 32 y 
+- 850
+: 851 4 29 Of 
+: 858 3 27 the 
+F 864 6 28 sound 
+F 876 7 28 of 
+F 887 11 28 screams 
+- 900
+F 912 2 28 And 
+F 916 13 28 I, 
+F 934 10 28 Jack, 
+- 946
+* 958 3 15 The 
+* 964 7 27 Pump
+* 975 9 26 kin 
+* 989 10 24 King 
+- 1001
+: 1011 3 27 Have 
+: 1017 10 30 grown 
+: 1030 8 30 so 
+: 1041 10 29 tired 
+- 1053
+F 1056 5 28 Of 
+F 1064 3 28 the 
+F 1070 8 28 same 
+F 1083 12 28 old 
+F 1101 16 28 thing 
+- 1119
+: 1176 9 34 Oh, 
+: 1187 13 33 some
+: 1204 9 34 where 
+: 1217 16 31 deep 
+* 1235 9 34 in
+* 1247 10 33 side 
+* 1259 8 31 of 
+* 1269 7 30 these 
+* 1279 15 28 bones 
+- 1296
+: 1300 7 31 An 
+: 1310 17 30 emp
+: 1329 10 31 ti
+: 1342 16 28 ness 
+: 1362 7 31 be
+: 1373 10 30 gan 
+: 1392 8 31 to 
+: 1405 11 28 grow 
+- 1418
+: 1425 7 34 There’s 
+: 1434 17 33 some
+: 1454 9 34 thing 
+: 1466 14 31 out 
+: 1485 8 34 there, 
+* 1495 8 33 far 
+* 1506 8 31 from 
+* 1516 7 30 my 
+* 1526 13 28 home 
+- 1541
+F 1549 6 31 A 
+: 1557 17 30 long
+: 1577 10 31 ing 
+: 1592 18 28 that 
+: 1614 11 31 I’ve 
+* 1629 16 30 ne
+* 1646 8 28 ~
+* 1657 13 27 ver 
+* 1674 48 28 known 
+- 1724
+F 1749 3 28 I’m 
+F 1753 3 28 the 
+F 1758 7 28 mas
+F 1768 4 28 ter 
+F 1774 3 28 of 
+F 1779 8 28 fright, 
+- 1789
+F 1792 3 28 And 
+F 1797 2 28 a 
+F 1801 8 28 de
+F 1811 5 28 mon 
+F 1819 2 28 of 
+F 1822 8 28 light 
+- 1832
+: 1835 2 28 And 
+: 1839 3 30 I’ll 
+: 1843 7 31 scare 
+: 1854 4 30 you 
+: 1860 2 28 right 
+: 1866 6 27 out 
+F 1875 3 28 of 
+F 1881 3 28 your 
+F 1889 10 28 pants 
+- 1901
+F 1920 5 28 To 
+F 1927 2 28 a 
+F 1932 7 28 guy 
+F 1943 3 28 in 
+F 1948 3 28 Ken
+F 1954 3 28 tu
+F 1959 4 28 cky, 
+- 1965
+F 1970 3 28 I’m 
+F 1976 3 28 Mis
+F 1982 10 28 ter 
+F 1994 2 28 Un
+F 1999 4 28 lu
+F 2004 6 28 cky 
+- 2011
+: 2011 2 27 And 
+: 2016 2 28 I’m 
+: 2022 5 30 known 
+: 2030 4 32 through
+: 2036 4 30 out 
+F 2042 4 28 En
+F 2049 4 28 gland 
+F 2057 4 28 and 
+F 2062 9 28 France 
+- 2073
+F 2094 6 28 And 
+F 2106 6 28 since 
+F 2116 3 28 I 
+F 2121 3 28 am 
+F 2126 8 28 dead, 
+- 2136
+F 2139 3 28 I 
+F 2144 3 28 can 
+F 2149 5 28 take 
+F 2157 5 28 off 
+F 2165 3 28 my 
+F 2171 7 28 head 
+- 2180
+: 2183 3 25 To 
+: 2188 3 26 re
+: 2193 7 28 cite 
+: 2203 7 21 Shake
+: 2215 3 21 spear
+: 2221 2 21 e~
+: 2225 3 20 an 
+: 2231 3 21 quo
+: 2237 6 22 ta
+: 2247 11 22 tions 
+- 2260
+* 2270 6 26 No 
+* 2281 3 29 a
+* 2287 2 29 ni
+* 2291 5 29 mal 
+* 2297 2 29 nor 
+* 2302 7 28 man 
+- 2311
+* 2318 3 28 Can 
+F 2323 10 28 scream 
+F 2339 2 28 like 
+F 2343 2 28 I 
+F 2347 8 28 can 
+- 2357
+: 2362 2 24 With 
+: 2366 2 24 the 
+: 2370 4 24 fu
+: 2376 3 23 ry 
+: 2381 3 21 of 
+: 2386 2 24 my 
+: 2390 5 23 re
+: 2397 2 21 ~
+: 2402 3 20 ci
+: 2407 3 23 ~
+: 2412 5 21 ta
+: 2423 5 9 tions 
+- 2430
+: 2447 6 23 But 
+: 2458 17 26 who 
+F 2480 14 26 here 
+: 2502 4 24 would 
+: 2508 4 24 e
+: 2514 3 26 ver 
+: 2519 4 26 un
+: 2525 4 26 der
+: 2531 12 24 stand 
+- 2545
+: 2553 3 24 That 
+: 2557 2 24 the 
+: 2561 7 28 Pump
+F 2570 7 28 kin 
+F 2581 8 26 King 
+- 2591
+F 2594 3 28 With 
+F 2599 4 28 the 
+F 2606 4 28 ske
+F 2613 3 28 le
+F 2619 7 28 ton 
+F 2632 7 28 grin 
+- 2641
+F 2656 3 28 Would 
+F 2661 5 28 ti
+F 2667 4 28 re 
+F 2673 3 28 of 
+F 2678 2 28 his 
+F 2682 10 28 crown, 
+- 2694
+F 2703 3 28 If 
+F 2707 2 28 they 
+: 2711 4 32 on
+: 2717 3 32 ly 
+: 2723 3 32 un
+: 2728 3 32 der
+F 2734 9 28 stood 
+- 2745
+F 2755 4 28 He’d 
+: 2761 4 30 give 
+: 2767 2 33 it 
+: 2771 11 33 all 
+: 2785 9 30 up 
+- 2796
+F 2801 3 28 If 
+F 2806 3 28 he 
+: 2811 8 33 on
+: 2824 10 33 ly 
+: 2841 30 32 could 
+- 2873
+: 2911 5 36 Oh, 
+: 2918 14 35 there’s 
+: 2935 7 36 an 
+: 2946 16 33 emp
+: 2964 11 36 ty 
+* 2977 8 35 place 
+* 2987 8 33 in 
+* 2997 7 32 my 
+* 3010 17 30 bones 
+- 3029
+: 3031 10 33 That 
+: 3043 16 32 calls 
+: 3062 10 33 out 
+: 3074 15 30 for 
+: 3093 9 33 some
+: 3105 17 32 thing 
+: 3125 8 33 un
+: 3135 12 30 known 
+- 3149
+: 3157 6 36 The 
+: 3166 18 35 fame 
+: 3187 7 36 and 
+: 3198 18 33 praise 
+: 3219 8 36 come 
+* 3230 6 35 year 
+* 3237 8 33 af
+* 3246 9 32 ter 
+* 3258 14 30 year 
+- 3274
+: 3280 8 33 Does 
+: 3290 19 32 no
+: 3311 10 33 thing 
+: 3324 19 30 for 
+- 3345
+: 3348 20 33 These 
+* 3373 17 32 e
+* 3392 11 30 ~mp
+* 3407 16 29 ty 
+* 3428 64 30 tears 
+E

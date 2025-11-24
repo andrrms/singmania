@@ -1,0 +1,279 @@
+#ARTIST:Cypecore
+#TITLE:Identity
+#MP3:Cypecore - Identity.mp3
+#CREATOR:Hecate
+#COVER:Cypecore - Identity [CO].jpg
+#BACKGROUND:Cypecore - Identity [BG].jpg
+#GENRE:Melodic Death Metal
+#YEAR:2016
+#LANGUAGE:English
+#BPM:252.32
+#GAP:31920
+#VIDEO:v=_AzMxjumRys,co=identity-5a8e0c940b164.jpg
+R 0 6 0 This 
+R 7 7 0 is 
+R 15 11 0 my 
+R 32 8 0 i
+R 41 3 0 den
+R 45 3 0 ti
+R 49 8 0 ty! 
+- 63
+R 65 6 0 This 
+R 73 5 0 is 
+R 79 11 0 my 
+R 95 7 0 i
+R 103 4 0 den
+R 108 4 0 ti
+R 113 9 0 ty! 
+- 126
+R 128 6 0 This 
+R 135 7 0 is 
+R 143 10 0 my 
+R 160 7 0 i
+R 168 3 0 den
+R 172 3 0 ti
+R 176 8 0 ty! 
+- 190
+R 192 5 0 This 
+R 198 7 0 is 
+R 206 35 0 my- 
+- 274
+: 517 3 2 Fa
+: 521 4 2 ding 
+: 526 3 2 a
+: 530 17 2 way 
+: 553 3 2 in 
+: 557 4 2 this 
+: 562 12 3 sea 
+: 576 8 6 of 
+: 586 18 6 grey 
+- 614
+: 636 3 2 Just 
+: 640 4 3 a 
+: 645 3 3 litt
+: 649 3 3 le 
+: 653 15 3 glimpse 
+: 684 5 4 to 
+: 690 18 1 stay 
+- 724
+: 771 3 2 Buil
+: 775 4 2 ding 
+: 780 4 2 an 
+: 785 5 2 em
+: 791 4 3 pi
+: 796 14 2 re 
+: 835 4 2 to 
+: 840 3 3 re
+: 844 10 7 main 
+- 870
+: 895 3 3 The 
+: 899 5 3 a
+: 905 5 3 shes 
+: 911 6 3 of 
+: 918 7 4 my 
+: 926 20 3 past 
+: 962 11 4 will 
+: 974 4 4 al
+: 979 3 4 le
+: 983 3 3 vi
+: 987 7 2 ate 
+: 1001 4 1 the 
+: 1006 13 0 pain 
+- 1052
+R 1146 6 0 This 
+R 1153 6 0 is 
+R 1160 11 0 my 
+R 1176 8 0 i
+R 1185 3 0 den
+R 1189 4 0 ti
+R 1194 9 0 ty! 
+- 1206
+R 1208 8 0 This 
+R 1217 6 0 is 
+R 1224 12 0 my 
+R 1241 6 0 i
+R 1248 4 0 den
+R 1253 3 0 ti
+R 1257 10 0 ty! 
+- 1270
+R 1272 8 0 This 
+R 1281 6 0 is 
+R 1288 10 0 my 
+R 1303 6 0 i
+R 1310 5 0 den
+R 1316 3 0 ti
+R 1320 10 0 ty! 
+- 1333
+R 1335 7 0 This 
+R 1343 7 0 is 
+G 1351 33 0 my- 
+- 1389
+R 1391 23 0 I 
+R 1423 17 0 feel 
+R 1444 3 0 like 
+R 1448 3 0 I 
+R 1452 3 0 am 
+R 1456 7 0 diffe
+R 1464 8 0 rent 
+- 1488
+: 1518 4 7 Ta
+: 1523 7 7 king 
+: 1533 4 7 place 
+: 1538 3 7 in 
+: 1542 4 7 a 
+: 1547 3 7 wo
+: 1551 13 6 ~rld 
+- 1573
+R 1576 5 0 With 
+R 1583 10 0 crime 
+R 1595 2 0 a
+R 1598 9 0 gainst 
+R 1610 4 0 hu
+R 1615 3 0 ma
+R 1619 3 0 ni
+R 1623 19 0 ty 
+- 1675
+: 1788 10 2 Dark 
+: 1801 4 3 mat
+: 1806 15 2 ter 
+: 1838 5 3 un
+: 1844 4 3 der 
+: 1849 7 6 my 
+: 1857 16 6 skin 
+- 1889
+: 1909 12 2 Hope … 
+: 1927 5 2 not 
+: 1934 4 2 to 
+: 1939 3 2 re
+: 1943 4 3 ve
+: 1948 10 2 al 
+: 1975 3 3 my 
+: 1979 4 3 e
+: 1984 3 3 vil 
+: 1988 8 1 twin 
+- 2012
+: 2040 3 2 Be
+: 2044 6 2 lie
+: 2051 16 2 ving … 
+: 2081 7 2 that 
+: 2089 7 3 dream 
+: 2098 4 3 be
+: 2103 10 6 comes 
+: 2114 16 6 real 
+- 2140
+: 2161 6 3 This 
+: 2169 11 3 is 
+: 2184 5 3 what 
+: 2190 5 3 I 
+: 2196 14 3 am, 
+R 2225 7 0 I 
+R 2233 9 0 act 
+R 2249 4 0 like 
+R 2254 10 0 I 
+R 2265 11 0 feel 
+- 2279
+R 2281 25 0 I 
+R 2311 18 0 feel 
+R 2333 4 0 like 
+R 2338 7 0 I’m 
+R 2346 6 0 diffe
+R 2353 10 0 rent 
+- 2379
+: 2408 4 7 Ta
+: 2413 7 7 king 
+: 2424 4 7 place 
+: 2429 3 7 in 
+: 2433 3 7 a 
+: 2437 4 7 wo
+: 2442 14 6 ~rld 
+- 2462
+R 2465 6 0 With 
+R 2472 9 0 crime 
+R 2484 3 0 a
+R 2488 8 0 gainst 
+R 2500 4 0 hu
+R 2505 2 0 ma
+R 2508 4 0 ni
+R 2513 18 0 ty 
+- 2534
+G 2536 24 0 I 
+G 2566 18 0 feel 
+R 2587 3 0 like 
+R 2591 8 0 I’m 
+R 2600 5 0 diffe
+R 2606 11 0 rent 
+- 2633
+: 2663 4 7 Ta
+: 2668 8 7 king 
+: 2679 4 7 place 
+: 2684 2 7 in 
+: 2687 4 7 a 
+: 2692 3 7 wo
+: 2696 12 6 ~rld 
+- 2715
+R 2718 4 0 With 
+R 2723 3 0 a 
+R 2727 7 0 force
+R 2735 7 0 ful 
+R 2746 3 0 per
+R 2750 4 0 so
+R 2755 3 0 na
+R 2759 3 0 li
+R 2763 23 0 ty 
+- 2819
+R 3816 5 0 This 
+R 3822 6 0 is 
+R 3829 11 0 my 
+R 3848 6 0 i
+R 3855 4 0 den
+R 3860 3 0 ti
+R 3864 9 0 ty 
+- 3877
+R 3879 6 0 This 
+R 3886 7 0 is 
+R 3894 8 0 my 
+R 3911 7 0 i
+R 3919 3 0 den
+R 3923 4 0 ti
+R 3928 8 0 ty! 
+- 3941
+R 3943 6 0 This 
+R 3950 6 0 is 
+R 3957 10 0 my 
+R 3974 8 0 i
+R 3983 3 0 den
+R 3987 4 0 ti
+R 3992 9 0 ty! 
+- 4003
+R 4005 7 0 This 
+R 4013 6 0 is 
+G 4020 25 0 my- 
+- 4055
+R 4070 7 0 This 
+R 4078 5 0 is 
+R 4084 12 0 my 
+R 4101 7 0 i
+R 4109 4 0 den
+R 4114 3 0 ti
+R 4118 9 0 ty! 
+- 4130
+R 4132 7 0 This 
+R 4140 6 0 is 
+R 4147 12 0 my 
+R 4165 7 0 i
+R 4173 4 0 den
+R 4178 3 0 ti
+R 4182 10 0 ty! 
+- 4195
+R 4197 6 0 This 
+R 4204 7 0 is 
+R 4212 12 0 my 
+R 4228 8 0 i
+R 4237 3 0 den
+R 4241 4 0 ti
+R 4246 11 0 ty! 
+- 4258
+R 4260 7 0 This 
+R 4268 8 0 is 
+G 4277 33 0 my 
+E

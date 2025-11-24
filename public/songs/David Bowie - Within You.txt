@@ -1,0 +1,110 @@
+#ARTIST:David Bowie
+#TITLE:Within You
+#MP3:David Bowie - Within You.mp3
+#CREATOR:GunnerXero
+#YEAR:1986
+#LANGUAGE:English
+#BPM:219.64
+#GAP:19200
+#VIDEO:v=GAVoJlSdImw,co=labyrinth-5e673469793e5.jpg,bg=bowie-david-654ddac53423f.jpg
+: 0 6 19 How 
+: 8 2 21 You 
+: 12 6 24 Turned 
+: 20 4 25 My 
+: 25 6 24 World 
+- 33
+: 34 4 19 You 
+: 41 4 18 Pre
+: 48 4 16 cious 
+: 57 6 20 Thing 
+- 65
+: 107 2 22 You 
+: 111 3 22 Starve 
+: 116 3 23 And 
+: 120 2 22 Near 
+: 123 2 18 Ex
+: 126 4 19 haust 
+: 134 6 17 Me 
+- 142
+: 183 4 19 Eve
+: 188 3 21 ry
+: 193 7 23 thing 
+: 201 2 24 I’ve 
+: 205 6 23 Done 
+- 213
+: 214 4 19 I’ve 
+: 220 5 18 Done 
+: 228 6 16 For 
+: 236 6 21 You 
+- 244
+: 288 3 19 I 
+: 292 4 22 Move 
+: 297 2 24 The 
+: 300 3 23 Stars 
+: 305 2 19 For 
+: 308 3 19 No 
+: 313 4 16 One 
+- 319
+: 388 1 10 You
+: 390 1 11 ’ve 
+: 392 5 12 Run 
+: 399 4 14 So 
+: 405 4 15 Long 
+- 411
+: 413 2 9 You’ve 
+: 416 6 12 Run 
+: 423 2 14 So 
+: 428 6 17 Far 
+- 436
+: 528 3 17 Your 
+: 533 5 19 Eyes 
+: 541 2 18 Can 
+: 545 4 17 Be 
+: 552 5 15 So 
+: 560 8 18 Cruel 
+- 570
+: 616 3 16 Just 
+: 620 2 18 As 
+: 623 4 20 I 
+: 630 3 17 Can 
+: 635 4 17 Be 
+: 641 3 15 So 
+: 647 7 18 Cruel 
+- 656
+* 734 5 18 Though 
+* 740 4 16 I 
+* 745 6 20 Do 
+* 752 3 18 Be
+* 757 4 17 lieve 
+* 763 3 15 In 
+* 769 3 19 You
+* 773 6 18 ~ 
+- 781
+* 844 4 18 Yes 
+* 851 3 16 I 
+* 856 5 19 Do
+* 862 6 18 ~ 
+- 870
+: 908 5 20 Live 
+: 915 4 20 With
+: 920 6 18 out 
+: 928 3 20 The 
+: 932 5 18 Sun
+: 938 7 17 light 
+- 947
+: 986 7 20 Love 
+: 995 3 20 With
+: 999 5 19 out 
+: 1007 3 20 Your 
+: 1012 5 19 Heart
+: 1019 6 17 beat 
+- 1027
+* 1064 9 20 I
+* 1079 5 20 ~
+* 1086 8 19 ~ 
+* 1102 6 16 Can’t 
+* 1115 6 15 Live 
+* 1128 5 14 With
+* 1136 6 13 in 
+* 1148 8 10 You 
+E

@@ -1,0 +1,334 @@
+#ARTIST:The Police
+#TITLE:Don’t Stand So Close To Me
+#MP3:The Police - Don’t Stand So Close To Me.mp3
+#CREATOR:bohning
+#EDITION:SingStar Vol. 2
+#COVER:The Police - Don’t Stand So Close To Me [CO].jpg
+#BACKGROUND:The Police - Don’t Stand So Close To Me [BG].jpg
+#YEAR:1980
+#LANGUAGE:English
+#BPM:280.7
+#GAP:36700
+#VIDEO:v=KNIZofPB8ZM,co=dont-stand-so-close-to-me-606f521218bac.jpg,bg=police-the-5bd459b542fbc.jpg,medley=1056-1548
+: 0 4 10 Young 
+: 8 4 9 tea
+: 16 6 5 cher 
+- 24
+: 32 4 10 The 
+: 40 4 9 sub
+: 48 4 5 ject 
+- 54
+: 64 4 10 Of 
+: 72 4 9 school
+: 80 4 5 girl 
+: 88 4 2 fan
+: 96 2 7 ta
+* 100 10 7 sy 
+- 112
+: 128 4 10 She 
+: 136 4 9 wants 
+: 144 6 5 him 
+- 152
+: 160 4 10 So 
+: 168 4 9 bad
+: 176 4 5 ly 
+- 182
+: 192 4 10 Knows 
+: 200 4 9 what 
+: 208 4 5 she 
+: 216 4 2 wants 
+: 224 2 7 to 
+: 228 8 7 be 
+- 238
+: 256 4 10 In
+: 264 4 9 side 
+: 272 6 5 her 
+- 280
+* 288 4 10 There’s 
+: 296 4 9 long
+: 304 6 5 ing 
+- 312
+: 320 6 10 This 
+: 328 4 9 girl’s 
+: 336 4 5 an 
+: 344 6 2 o
+: 352 8 7 pen 
+: 364 8 7 page 
+- 374
+: 384 4 10 Book 
+: 392 6 9 mar
+: 400 6 5 king 
+- 408
+: 412 2 5 She’s 
+: 416 4 10 so 
+: 424 4 9 close 
+: 432 6 5 now 
+- 440
+: 448 4 10 This 
+: 456 4 9 girl 
+: 464 4 5 is 
+: 472 6 2 half 
+: 480 2 7 his 
+: 484 8 7 age 
+- 494
+: 512 4 21 Don’t 
+: 520 6 21 stand 
+- 528
+: 544 4 21 Don’t 
+: 552 4 21 stand 
+: 560 4 18 so 
+- 566
+: 576 4 21 Don’t 
+: 584 4 21 stand 
+: 592 4 18 so 
+: 600 4 14 close 
+: 608 2 16 to 
+: 612 8 18 me 
+- 622
+: 640 4 21 Don’t 
+: 648 6 21 stand 
+- 656
+: 672 4 21 Don’t 
+: 680 4 21 stand 
+: 688 4 18 so 
+- 694
+: 704 4 21 Don’t 
+: 712 4 21 stand 
+: 720 4 18 so 
+: 728 4 14 close 
+: 736 2 16 to 
+: 740 6 18 me 
+- 748
+: 796 4 22 Her 
+: 804 4 21 friends 
+: 812 6 17 are 
+- 820
+: 832 4 22 So 
+: 840 4 21 jea
+: 848 6 17 lous 
+- 856
+: 864 4 22 You 
+: 872 6 21 know 
+: 880 4 17 how 
+: 888 4 14 bad 
+: 896 8 19 girls 
+: 908 6 19 get 
+- 916
+: 928 4 22 Some
+: 936 4 21 times 
+: 944 4 17 it’s 
+- 950
+: 952 4 19 Not 
+* 960 4 22 so 
+: 968 6 21 ea
+: 976 4 17 sy 
+- 982
+: 992 4 22 To 
+: 1000 4 21 be 
+: 1008 4 17 the 
+: 1016 6 14 tea
+: 1024 8 19 cher’s 
+: 1036 6 19 pet 
+- 1044
+: 1056 4 22 Temp
+: 1064 4 21 ta
+: 1072 6 17 tion 
+- 1080
+: 1088 4 22 Frus
+: 1096 4 21 tra
+: 1104 4 17 tion 
+- 1110
+: 1120 4 22 So 
+: 1128 4 21 bad 
+: 1136 4 17 it 
+: 1144 4 14 makes 
+: 1152 8 19 him 
+: 1164 6 19 cry 
+- 1172
+* 1184 4 22 Wet 
+: 1192 4 21 bus 
+: 1200 4 17 stop 
+- 1206
+: 1216 4 22 She’s 
+: 1224 4 21 wai
+: 1232 4 17 ting 
+- 1238
+: 1248 4 22 His 
+: 1256 4 21 car 
+: 1264 4 17 is 
+: 1272 6 14 warm 
+: 1280 6 19 and 
+: 1292 6 19 dry 
+- 1300
+: 1312 4 21 Don’t 
+: 1320 6 21 stand 
+- 1328
+: 1344 4 21 Don’t 
+: 1352 6 21 stand 
+: 1360 4 18 so 
+- 1366
+: 1376 4 21 Don’t 
+: 1384 4 21 stand 
+: 1392 4 18 so 
+: 1400 6 14 close 
+: 1408 2 16 to 
+: 1412 6 18 me 
+- 1420
+: 1440 4 21 Don’t 
+* 1448 6 21 stand 
+- 1456
+: 1472 4 21 Don’t 
+: 1480 4 21 stand 
+: 1488 4 18 so 
+- 1494
+: 1504 6 21 Don’t 
+: 1512 4 21 stand 
+: 1520 4 18 so 
+: 1528 4 14 close 
+: 1536 3 16 to 
+: 1540 8 18 me 
+- 1550
+: 1596 4 22 Loose 
+: 1604 4 21 talk 
+: 1612 6 17 in 
+- 1620
+* 1632 4 22 The 
+: 1640 4 21 class
+: 1648 6 17 room 
+- 1656
+: 1664 4 22 To 
+: 1672 4 21 hurt 
+: 1680 4 17 they 
+: 1688 6 14 try 
+: 1696 6 19 and 
+: 1708 8 19 try 
+- 1718
+: 1728 4 22 Strong 
+: 1736 6 21 words 
+: 1744 4 17 in 
+- 1750
+: 1760 6 22 The 
+: 1768 4 21 staff
+: 1776 6 17 room 
+- 1784
+: 1792 4 22 The 
+: 1800 4 21 ac
+: 1808 4 17 cu
+: 1816 6 14 sa
+: 1824 8 19 tions 
+: 1836 6 19 fly 
+- 1844
+: 1856 4 22 It’s 
+: 1864 6 21 no 
+: 1872 4 17 use 
+- 1878
+: 1888 4 22 He 
+: 1896 4 21 sees 
+: 1904 4 17 her 
+- 1910
+: 1920 4 22 He 
+: 1928 4 21 starts 
+: 1936 4 17 to 
+: 1944 6 14 shake 
+: 1952 10 19 and 
+: 1964 6 19 cough 
+- 1972
+: 1984 4 22 Just 
+: 1992 4 21 like 
+: 2000 4 17 the 
+- 2006
+: 2016 4 22 Old 
+: 2024 6 21 man 
+: 2032 4 17 in 
+- 2038
+: 2048 4 22 That 
+: 2056 4 21 book 
+: 2064 4 17 by 
+: 2072 4 14 Na
+: 2080 3 19 bo
+* 2084 10 19 kov 
+- 2096
+: 2112 4 21 Don’t 
+: 2120 6 21 stand 
+- 2128
+: 2144 4 21 Don’t 
+: 2152 4 21 stand 
+: 2160 4 18 so 
+- 2166
+: 2176 4 21 Don’t 
+: 2184 4 21 stand 
+: 2192 4 18 so 
+: 2200 4 14 close 
+: 2208 2 16 to 
+: 2212 6 18 me 
+- 2220
+: 2240 4 21 Don’t 
+: 2248 6 21 stand 
+- 2256
+: 2272 4 21 Don’t 
+: 2280 4 21 stand 
+* 2288 6 18 so 
+- 2296
+: 2304 4 21 Don’t 
+: 2312 4 21 stand 
+: 2320 4 18 so 
+: 2328 4 14 close 
+: 2336 2 16 to 
+: 2340 6 18 me 
+- 2348
+: 2976 2 21 Don’t 
+: 2984 4 21 stand 
+- 2990
+: 3008 2 21 Don’t 
+: 3016 4 21 stand 
+: 3024 4 18 so 
+- 3030
+* 3040 2 21 Don’t 
+: 3048 4 21 stand 
+: 3056 4 18 so 
+: 3064 4 14 close 
+: 3072 2 16 to 
+: 3076 4 18 me 
+- 3082
+: 3104 4 21 Don’t 
+: 3112 4 21 stand 
+- 3118
+: 3136 4 21 Don’t 
+: 3144 4 21 stand 
+: 3152 4 18 so 
+- 3158
+: 3168 4 21 Don’t 
+: 3176 4 21 stand 
+: 3184 4 18 so 
+: 3192 4 14 close 
+: 3200 2 16 to 
+* 3204 6 18 me 
+- 3212
+: 3232 4 21 Don’t 
+: 3240 4 21 stand 
+- 3246
+: 3264 4 21 Don’t 
+: 3272 4 21 stand 
+: 3278 4 18 so 
+- 3284
+: 3296 4 21 Don’t 
+: 3304 4 21 stand 
+: 3312 4 18 so 
+: 3320 4 14 close 
+: 3328 2 16 to 
+: 3332 4 18 me 
+- 3338
+: 3360 4 21 Don’t 
+: 3368 4 21 stand 
+- 3374
+: 3392 4 21 Don’t 
+: 3400 4 21 stand 
+: 3408 4 18 so 
+- 3414
+: 3424 4 21 Don’t 
+: 3432 4 21 stand 
+: 3440 4 18 so 
+: 3448 4 14 close 
+: 3456 3 16 to 
+: 3460 4 18 me 
+E

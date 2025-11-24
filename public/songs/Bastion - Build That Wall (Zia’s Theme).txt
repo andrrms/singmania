@@ -1,0 +1,159 @@
+#ARTIST:Bastion
+#TITLE:Build That Wall (Zia’s Theme)
+#MP3:Bastion - Build That Wall (Zia’s Theme).mp3
+#CREATOR:REL
+#GENRE:Game
+#YEAR:2011
+#LANGUAGE:English
+#BPM:300
+#GAP:25150
+#VIDEO:v=o3SZee4YZX8,co=https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.1000x1000x1.png
+: 0 6 -5 I 
+: 10 7 -2 dig 
+: 21 7 0 my 
+: 32 7 3 hole, 
+: 43 6 0 you 
+: 54 5 0 build 
+: 62 2 -2 a 
+: 66 23 0 wall 
+- 91
+: 178 6 -5 I 
+: 188 7 -2 dig 
+: 198 7 0 my 
+: 209 8 3 hole, 
+: 220 8 0 you 
+: 231 6 -2 build 
+: 240 2 -5 a 
+: 247 6 -2 wall
+: 254 8 -5 ~ 
+- 264
+: 355 5 7 One 
+: 364 7 5 day 
+: 375 8 3 that 
+: 387 6 5 wall 
+: 396 7 3 is 
+: 406 3 0 gonna
+: 411 3 -2 ~ 
+: 416 5 3 fall
+: 422 16 0 ~ 
+- 440
+: 488 9 -5 Gon’ 
+: 499 7 -2 build 
+: 510 7 0 that 
+: 521 7 3 city
+: 531 10 0 ~ 
+: 545 4 0 on 
+: 552 2 -2 a 
+: 557 19 0 hill 
+- 578
+: 666 6 -5 Gon’ 
+: 676 7 -2 build 
+: 686 7 0 that 
+: 697 8 3 city
+: 708 8 0 ~ 
+: 719 6 -2 on 
+: 728 2 -5 a 
+: 735 6 -2 hill
+: 742 8 -5 ~ 
+- 752
+: 844 8 7 Someday
+: 854 9 5 ~ 
+: 866 7 3 those 
+: 877 8 5 tears 
+: 887 5 3 are 
+: 895 4 0 gonna
+: 901 3 -2 ~ 
+: 906 28 3 spill 
+- 936
+: 999 7 7 So 
+: 1008 22 7 build 
+: 1032 19 5 that 
+: 1054 18 3 wall 
+: 1075 15 2 and 
+: 1097 20 2 build 
+: 1119 16 3 it 
+: 1141 20 2 strong 
+- 1163
+: 1167 12 0 ’Cause 
+: 1189 18 7 we’ll 
+: 1212 17 5 be 
+: 1235 14 3 there 
+: 1255 15 2 before
+: 1277 15 2 ~ 
+: 1299 15 3 too 
+: 1322 30 0 long 
+- 1354
+: 1382 4 -5 Gon’ 
+: 1389 7 -2 build 
+: 1399 8 0 that 
+: 1411 7 3 wall 
+: 1422 5 0 up 
+: 1432 4 0 to 
+: 1440 2 -2 the 
+: 1444 29 0 sky 
+- 1475
+: 1556 7 -5 Gon’ 
+: 1567 7 -2 build 
+: 1578 6 0 that 
+: 1588 6 3 wall 
+: 1598 7 0 up 
+: 1610 5 -2 to 
+: 1618 4 -5 the 
+: 1626 5 -2 sky
+: 1633 13 -5 ~ 
+- 1648
+: 1731 8 7 Someday
+: 1743 7 5 ~ 
+: 1754 8 3 your 
+: 1766 6 5 bird 
+: 1775 7 3 is 
+: 1785 4 0 gonna
+: 1791 3 -2 ~ 
+: 1796 26 3 fly 
+- 1824
+: 1866 8 -5 Gon’ 
+: 1878 7 -2 build 
+: 1889 7 0 that 
+: 1900 8 3 wall 
+: 1912 7 0 until
+: 1922 5 0 ~ 
+: 1930 2 -2 it’s 
+: 1935 19 0 done 
+- 1956
+: 2046 6 -5 Gon’ 
+: 2056 7 -2 build 
+: 2066 7 0 that 
+: 2077 8 3 wall 
+: 2089 8 0 until
+: 2100 4 -2 ~ 
+: 2108 3 -5 it’s 
+: 2114 9 -2 done
+: 2125 12 -5 ~ 
+- 2139
+: 2221 7 7 But 
+: 2232 7 5 now 
+: 2243 9 3 you’ve 
+: 2255 7 5 got 
+: 2265 6 3 nowhere
+: 2274 3 0 ~ 
+: 2280 3 -2 to 
+: 2285 28 3 run 
+- 2315
+: 2374 8 7 So 
+: 2388 21 7 build 
+: 2411 14 5 that 
+: 2431 16 3 wall 
+: 2453 13 2 and 
+: 2474 16 2 build 
+: 2495 12 3 it 
+: 2516 14 2 strong 
+- 2532
+: 2540 13 0 ’Cause 
+: 2564 14 7 we’ll 
+: 2586 14 5 be 
+: 2609 12 3 there 
+: 2630 12 2 before
+: 2652 12 2 ~ 
+: 2674 13 3 too 
+: 2697 32 0 long 
+E

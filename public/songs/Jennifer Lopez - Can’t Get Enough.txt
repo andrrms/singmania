@@ -1,0 +1,519 @@
+#ARTIST:Jennifer Lopez
+#TITLE:Can’t Get Enough
+#MP3:Jennifer Lopez - Can’t Get Enough.mp3
+#CREATOR:Lozboorman
+#COVER:Jennifer Lopez - Can’t Get Enough [CO].jpg
+#BACKGROUND:Jennifer Lopez - Can’t Get Enough [BG].jpg
+#GENRE:R&B
+#YEAR:2024
+#LANGUAGE:English
+#BPM:200
+#GAP:3250
+#VIDEO:a=0KX96mR3ZV8,v=8UMnAIaBofo,co=cant-get-enough-65b4d9d0802f2.jpg,bg=lopez-jennifer-520ebbb6bc97a.jpg,preview=57.62,medley=122-891
+#VIDEOGAP:26.91
+F 0 1 4 I 
+F 3 2 4 just 
+F 6 1 4 wan
+F 8 2 4 na 
+- 12
+F 24 1 0 I 
+F 26 2 0 just 
+F 29 1 0 feel 
+F 31 3 0 like, 
+- 36
+F 41 4 0 Ooh 
+- 47
+F 57 1 -1 Eve
+F 59 2 -1 ry
+F 62 2 -1 time 
+F 65 2 -1 I 
+F 68 2 -1 see 
+F 71 2 -1 ya 
+- 75
+F 88 2 0 I 
+F 91 2 0 just, 
+F 97 2 0 ooh 
+- 101
+F 105 3 4 Hey 
+- 110
+: 122 2 7 I 
+: 127 1 7 feel 
+: 129 2 7 like 
+: 133 2 9 star
+: 137 2 7 tin’ 
+: 141 3 5 some
+: 147 2 7 thing 
+- 151
+: 155 2 7 You 
+: 159 2 7 got 
+: 163 1 7 my 
+* 165 2 9 en
+: 169 2 7 gine 
+: 173 3 5 run
+: 179 2 7 nin’ 
+- 183
+: 187 2 7 You 
+: 191 2 7 got 
+: 195 1 7 the 
+: 197 2 9 keys 
+: 201 2 7 to 
+: 205 2 5 turn 
+: 209 2 7 me 
+: 213 5 5 on 
+- 220
+* 225 2 7 And 
+: 229 5 5 on 
+- 236
+: 249 1 5 You 
+: 251 2 7 got 
+: 255 1 7 me 
+: 257 2 7 ac
+: 261 2 9 ce
+: 265 2 7 le
+: 269 3 5 ra
+: 275 2 7 tin’ 
+- 279
+: 283 2 7 I 
+: 287 2 7 want 
+: 291 1 7 to 
+* 293 2 9 ce
+: 297 2 7 le
+: 301 3 5 brate 
+: 307 2 7 it 
+- 311
+: 315 2 7 Can’t 
+: 319 2 7 no
+: 323 1 7 thing 
+: 325 2 9 take 
+: 329 2 7 me 
+: 333 2 5 out 
+: 337 2 7 my 
+: 341 5 5 zone 
+- 348
+: 353 2 7 It’s 
+* 357 5 5 on 
+- 363
+: 365 2 2 When 
+: 369 2 5 it 
+: 373 5 9 fee
+: 379 1 7 ~ls 
+: 381 9 7 right 
+- 392
+: 397 2 2 No
+: 401 2 5 thing 
+: 405 4 9 else 
+: 413 4 7 mat
+* 421 4 5 ters 
+- 427
+: 429 2 2 Is 
+: 433 2 5 this 
+: 437 5 9 rea
+: 443 1 7 ~l 
+: 445 9 7 life? 
+- 456
+: 461 2 7 Too 
+: 466 3 5 good 
+* 472 2 12 to 
+: 477 2 7 be 
+: 481 3 7 true
+: 485 3 5 ~ 
+- 490
+: 493 2 2 Take 
+: 497 2 5 me 
+: 501 5 9 a
+: 507 1 7 ~ll 
+: 509 9 7 night 
+- 520
+: 525 2 2 I 
+: 529 2 5 can 
+: 533 4 9 feel 
+* 541 4 7 the 
+: 549 4 5 pas
+: 557 2 2 sion 
+- 560
+: 561 2 5 In 
+: 565 5 9 you
+: 571 1 7 ~r 
+: 573 9 7 eyes 
+- 584
+: 593 2 7 I’m 
+: 597 2 5 still 
+: 601 1 5 in 
+* 603 3 7 love 
+: 609 2 9 with 
+: 613 4 9 you 
+- 619
+* 623 1 7 You 
+* 625 1 7 know 
+* 627 1 7 I 
+* 629 2 7 can’t 
+: 633 1 7 get 
+: 635 1 7 e
+: 637 2 7 nough 
+- 641
+F 643 1 2 I 
+F 645 1 2 love 
+F 647 2 2 that 
+F 651 2 2 shit 
+- 654
+: 655 1 7 You 
+: 657 1 7 know 
+: 659 1 7 I 
+: 661 2 7 can’t 
+: 665 1 7 get 
+: 667 1 7 e
+: 669 2 7 nough 
+- 673
+F 675 1 2 You 
+F 677 1 2 love 
+F 679 2 2 that 
+F 683 2 2 shit 
+- 686
+: 687 1 7 You 
+: 689 1 7 know 
+: 691 1 7 I 
+: 693 2 7 can’t 
+: 697 1 7 get 
+: 699 1 7 e
+: 701 2 7 nough 
+- 704
+F 705 1 2 Give 
+F 707 1 2 me 
+F 709 1 2 all 
+F 711 2 2 that 
+F 715 1 2 shit 
+- 718
+* 725 3 9 Can’t 
+* 731 3 7 get 
+: 737 2 12 e
+: 741 3 9 nough 
+- 746
+: 751 1 7 You 
+: 753 1 7 know 
+: 755 1 7 I 
+* 757 2 7 can’t 
+: 761 1 7 get 
+: 763 1 7 e
+: 765 2 7 nough 
+- 769
+F 771 1 2 I 
+F 773 1 2 love 
+F 775 2 2 that 
+F 779 2 2 shit 
+- 782
+: 783 1 7 You 
+: 785 1 7 know 
+: 787 1 7 I 
+: 789 2 7 can’t 
+: 793 1 7 get 
+: 795 1 7 e
+: 797 2 7 nough 
+- 801
+F 803 1 2 You 
+F 805 1 2 love 
+F 807 2 2 that 
+F 811 2 2 shit 
+- 814
+: 815 1 7 You 
+: 817 1 7 know 
+: 819 1 7 I 
+: 821 2 7 can’t 
+: 825 1 7 get 
+: 827 1 7 e
+* 829 2 7 nough 
+- 832
+F 833 1 2 Give 
+F 835 1 2 me 
+F 837 1 2 all 
+F 839 2 2 that 
+F 843 1 2 shit 
+- 846
+: 853 3 9 Can’t 
+: 859 3 7 get 
+: 865 2 12 e
+: 869 3 9 nough 
+: 877 3 7 of 
+: 885 6 5 you 
+- 893
+: 901 2 5 I’m 
+: 907 3 5 still 
+: 913 2 2 in 
+* 917 27 5 love 
+- 946
+: 977 2 5 With 
+: 981 4 4 you, 
+: 989 18 0 boy 
+- 1009
+F 1030 1 4 I 
+F 1033 2 4 just 
+F 1036 1 4 wan
+F 1038 2 4 na 
+- 1042
+F 1057 2 0 I 
+F 1060 2 0 just 
+F 1063 2 0 feel 
+F 1066 2 0 like, 
+- 1070
+F 1083 1 -1 Eve
+F 1085 1 -1 ry
+F 1087 2 -1 time 
+F 1090 2 -1 I 
+F 1093 2 -1 see 
+F 1096 1 -1 ya, 
+F 1098 1 -1 it’s 
+F 1100 2 -1 like 
+- 1104
+F 1112 3 -1 Oh, 
+F 1121 3 -1 hey 
+- 1126
+: 1147 2 7 Give 
+: 1151 1 7 me 
+: 1153 2 7 that 
+: 1157 2 9 tou
+: 1161 2 7 chin’, 
+: 1165 3 5 tea
+: 1171 2 7 sin’ 
+- 1175
+: 1179 2 7 So 
+: 1183 2 7 good 
+: 1187 1 7 I 
+* 1189 2 9 can’t 
+: 1193 2 7 be
+: 1197 3 5 lieve 
+: 1203 2 7 it 
+- 1207
+: 1211 2 7 Don’t 
+: 1215 2 7 wan
+: 1219 1 7 na 
+: 1221 2 9 share 
+: 1225 2 7 with 
+: 1229 2 5 no 
+: 1233 3 7 one 
+: 1239 1 2 e
+* 1241 2 0 ~
+* 1244 1 2 ~
+* 1246 6 5 ~lse 
+- 1254
+: 1273 1 5 You’re 
+: 1275 2 7 al
+: 1279 2 7 ways 
+: 1283 1 7 the 
+: 1285 2 9 one 
+: 1289 2 7 I 
+: 1293 3 5 nee
+: 1299 2 7 ded 
+- 1303
+: 1307 2 7 Don’t 
+: 1311 2 7 got
+: 1315 1 7 ta 
+* 1317 2 9 keep 
+: 1321 2 7 a 
+: 1325 3 5 sec
+: 1331 2 7 ret 
+- 1335
+: 1337 1 5 But 
+: 1339 2 7 I 
+: 1343 2 7 let 
+: 1347 1 7 you 
+: 1349 2 9 keep 
+: 1353 2 7 me 
+: 1357 2 5 to 
+* 1361 3 7 your
+* 1368 8 5 self 
+- 1378
+: 1385 2 2 ’Cause, 
+: 1389 2 5 babe, 
+: 1393 2 7 it 
+: 1397 5 9 fee
+: 1403 1 7 ~ls 
+: 1405 9 7 like 
+- 1416
+: 1421 2 2 No
+: 1425 2 5 thing 
+* 1429 4 9 else 
+: 1437 4 7 mat
+: 1445 4 5 ters 
+- 1451
+: 1453 2 2 Is 
+: 1457 2 5 this 
+: 1461 5 9 rea
+: 1467 1 7 ~l 
+: 1469 9 7 life? 
+- 1480
+: 1485 2 7 Too 
+: 1490 3 5 good 
+* 1496 2 12 to 
+: 1501 2 7 be 
+: 1505 3 7 true
+: 1509 3 5 ~ 
+- 1514
+: 1517 2 2 Take 
+: 1521 2 5 me 
+: 1525 5 9 a
+: 1531 1 7 ~ll 
+: 1533 9 7 night 
+- 1544
+: 1549 2 2 I 
+: 1553 2 5 can 
+: 1557 4 9 feel 
+: 1565 4 7 the 
+* 1573 4 5 pas
+: 1581 2 2 sion 
+- 1584
+: 1585 2 5 In 
+: 1589 5 9 you
+: 1595 1 7 ~r 
+: 1597 9 7 eyes 
+- 1608
+: 1617 2 7 I’m 
+: 1621 2 5 still 
+: 1625 1 5 in 
+: 1627 3 7 love 
+: 1633 2 9 with 
+: 1637 4 9 you 
+- 1643
+: 1647 1 7 You 
+: 1649 1 7 know 
+: 1651 1 7 I 
+: 1653 2 7 can’t 
+* 1657 1 7 get 
+* 1659 1 7 e
+* 1661 2 7 nough 
+- 1665
+F 1667 1 2 I 
+F 1669 1 2 love 
+F 1671 2 2 that 
+F 1675 2 2 shit 
+- 1678
+: 1679 1 7 You 
+: 1681 1 7 know 
+: 1683 1 7 I 
+: 1685 2 7 can’t 
+: 1689 1 7 get 
+: 1691 1 7 e
+: 1693 2 7 nough 
+- 1697
+F 1699 1 2 You 
+F 1701 1 2 love 
+F 1703 2 2 that 
+F 1707 2 2 shit 
+- 1710
+: 1711 1 7 You 
+: 1713 1 7 know 
+: 1715 1 7 I 
+* 1717 2 7 can’t 
+: 1721 1 7 get 
+: 1723 1 7 e
+: 1725 2 7 nough 
+- 1728
+F 1729 1 2 Give 
+F 1731 1 2 me 
+F 1733 1 2 all 
+F 1735 2 2 that 
+F 1739 1 2 shit 
+- 1742
+: 1749 3 9 Can’t 
+: 1755 3 7 get 
+* 1761 2 12 e
+: 1765 4 9 nough 
+- 1771
+* 1775 1 7 You 
+* 1777 1 7 know 
+* 1779 1 7 I 
+* 1781 2 7 can’t 
+: 1785 1 7 get 
+: 1787 1 7 e
+: 1789 2 7 nough 
+- 1793
+F 1795 1 2 I 
+F 1797 1 2 love 
+F 1799 2 2 that 
+F 1803 2 2 shit 
+- 1806
+: 1807 1 7 You 
+: 1809 1 7 know 
+: 1811 1 7 I 
+: 1813 2 7 can’t 
+: 1817 1 7 get 
+: 1819 1 7 e
+: 1821 2 7 nough 
+- 1825
+F 1827 1 2 You 
+F 1829 1 2 love 
+F 1831 2 2 that 
+F 1835 2 2 shit 
+- 1838
+: 1839 1 7 You 
+: 1841 1 7 know 
+: 1843 1 7 I 
+: 1845 2 7 can’t 
+: 1849 1 7 get 
+: 1851 1 7 e
+* 1853 2 7 nough 
+- 1856
+F 1857 1 2 Give 
+F 1859 1 2 me 
+F 1861 1 2 all 
+F 1863 2 2 that 
+F 1867 1 2 shit 
+- 1870
+: 1877 3 9 Can’t 
+: 1883 3 7 get 
+* 1889 2 12 e
+* 1893 3 9 nough 
+: 1901 3 7 of 
+: 1909 8 5 you 
+- 1919
+: 1925 2 5 I’m 
+: 1931 3 5 still 
+: 1937 2 2 in 
+: 1941 27 5 love 
+- 1970
+: 2001 2 5 With 
+: 2005 4 4 you, 
+: 2013 18 0 boy 
+- 2033
+: 2053 2 5 I’m 
+: 2059 3 5 still 
+: 2065 2 2 in 
+* 2069 27 5 love 
+- 2098
+: 2129 2 5 With 
+: 2133 4 4 you, 
+: 2141 18 0 boy 
+- 2161
+: 2191 1 5 It’s 
+: 2193 1 5 the 
+: 2195 3 12 way 
+: 2201 1 10 you 
+: 2203 2 9 love 
+: 2207 1 5 me, 
+- 2209
+: 2209 1 5 The 
+: 2211 3 12 way 
+: 2217 1 10 you 
+: 2219 2 9 touch 
+: 2223 6 5 me 
+- 2231
+: 2255 1 5 It’s 
+: 2257 1 5 the 
+: 2259 3 12 way 
+: 2265 1 10 you 
+: 2267 2 9 look 
+: 2271 2 10 at 
+* 2275 1 9 me
+* 2277 1 10 ~
+* 2279 6 9 ~ 
+- 2287
+: 2309 3 9 Can’t 
+: 2315 3 9 get 
+: 2321 2 7 e
+: 2325 1 9 nou
+: 2327 1 10 ~
+: 2329 6 9 ~
+: 2336 1 7 ~gh 
+- 2339
+: 2385 2 5 Of 
+: 2389 4 4 you, 
+* 2397 23 7 boy 
+E

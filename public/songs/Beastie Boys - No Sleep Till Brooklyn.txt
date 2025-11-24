@@ -1,0 +1,554 @@
+#ARTIST:Beastie Boys
+#TITLE:No Sleep Till Brooklyn
+#MP3:Beastie Boys - No Sleep Till Brooklyn.mp3
+#CREATOR:gollum
+#EDITION:Rock Band Store 2011 Vol. 3
+#COVER:Beastie Boys - No Sleep Till Brooklyn [CO].jpg
+#BACKGROUND:Beastie Boys - No Sleep Till Brooklyn [BG].jpg
+#GENRE:Rap Rock
+#YEAR:1986
+#LANGUAGE:English
+#BPM:388
+#GAP:320
+#VIDEO:a=9b9-S5EB0mw,v=07Y0cy-nvAg,co=http://burningflags.com/wp-content/gallery/lpcovers/526454-beastie-boys-shes-crafty-no-sleep-till-brooklyn.jpg,bg=beastie-boys-4ddbae3230ead.jpg,medley=4911-5636
+#VIDEOGAP:33.4
+R 0 11 0 No 
+R 16 10 0 sleep 
+R 32 10 0 till 
+- 44
+R 267 6 0 Brook
+R 276 22 0 lyn 
+- 300
+R 559 3 0 Foot 
+R 566 3 0 on 
+R 570 2 0 the 
+R 576 3 0 pe
+R 580 2 0 dal, 
+R 583 4 0 ne
+R 588 2 0 ver 
+R 591 3 0 e
+R 595 2 0 ver 
+R 599 4 0 false 
+R 607 3 0 me
+R 611 5 0 tal 
+- 618
+R 622 2 0 En
+R 627 2 0 gine 
+R 630 3 0 run
+R 634 2 0 nin’ 
+R 637 4 0 hot
+R 642 2 0 ter 
+R 647 3 0 than 
+R 651 1 0 a 
+R 655 6 0 boi
+R 663 4 0 ling 
+R 670 4 0 ket
+R 675 1 0 tle 
+- 678
+R 683 2 0 My 
+R 687 5 0 job 
+R 694 3 0 ain’t 
+R 698 2 0 a 
+R 704 5 0 job, 
+R 711 2 0 it’s 
+R 715 2 0 a 
+R 719 5 0 damn 
+R 727 4 0 good 
+R 735 4 0 time 
+- 741
+R 751 2 0 Ci
+R 754 2 0 ty 
+R 760 4 0 to 
+R 767 3 0 ci
+R 771 2 0 ty 
+R 774 3 0 I’
+R 779 2 0 ma 
+R 783 3 0 run
+R 787 2 0 nin’ 
+R 791 6 0 my 
+R 798 10 0 rhymes 
+- 810
+R 813 8 1 On 
+R 824 2 0 lo
+R 832 3 0 ca
+R 838 3 0 tion 
+R 847 2 0 tou
+R 850 2 0 rin’ 
+R 854 3 0 ’round 
+R 859 2 0 the 
+R 863 3 0 na
+R 870 1 0 tion 
+- 873
+R 880 4 0 Beas
+R 888 5 0 tie 
+R 895 4 0 Boys 
+R 904 2 0 al
+R 907 3 0 ways 
+R 912 4 0 on 
+R 920 4 0 va
+R 928 3 0 ca
+R 935 3 0 tion 
+- 940
+R 943 2 0 It
+R 947 3 0 chy 
+R 951 3 0 trig
+R 955 2 0 ger 
+R 959 3 0 fin
+R 963 1 0 ger 
+R 965 3 0 but 
+R 969 2 0 a 
+R 974 3 0 sta
+R 978 2 0 ble 
+R 983 4 0 turn
+R 990 5 0 ta
+R 997 1 0 ble 
+- 1000
+R 1002 3 1 I 
+R 1006 3 0 do 
+R 1010 3 0 what 
+R 1014 2 0 I 
+R 1018 2 0 do 
+R 1022 2 0 best 
+R 1026 2 0 be
+R 1030 3 0 cause 
+R 1034 2 0 I’m 
+R 1038 3 0 wil
+R 1042 3 0 lin’ 
+R 1046 5 0 and 
+R 1054 3 0 a
+R 1058 8 0 ble 
+- 1068
+R 1070 4 0 Ain’t 
+R 1078 3 0 no 
+R 1086 4 0 fa
+R 1094 2 0 kin’ 
+R 1098 2 0 your 
+R 1103 2 0 mo
+R 1106 3 0 ney 
+R 1110 3 0 I’m 
+R 1118 5 0 ta
+R 1126 3 0 kin’ 
+- 1131
+R 1133 6 0 Goin’ 
+R 1141 3 0 coast 
+R 1147 2 0 to 
+R 1150 3 0 coast 
+R 1156 2 0 to 
+R 1159 5 0 watch 
+R 1167 3 0 all 
+R 1171 2 0 the 
+R 1175 2 0 gir
+R 1178 2 0 lies 
+R 1183 3 0 sha
+R 1187 1 1 kin’ 
+- 1189
+R 1191 1 1 And 
+R 1194 5 0 while 
+R 1200 5 0 you’re 
+R 1207 2 0 at 
+R 1211 2 0 the 
+R 1215 6 0 job 
+R 1223 1 0 wor
+R 1226 2 0 kin’ 
+R 1231 6 0 nine 
+R 1238 2 0 to 
+R 1242 4 0 five 
+- 1248
+R 1250 2 0 The 
+R 1253 3 0 Beas
+R 1259 2 0 tie 
+R 1263 4 0 Boys 
+R 1270 2 0 at 
+R 1274 2 0 the 
+R 1278 3 0 Gar
+R 1282 2 0 den 
+R 1285 5 0 cold 
+R 1294 2 0 kic
+R 1298 2 0 kin’ 
+R 1301 2 0 it 
+R 1306 17 0 live 
+- 1325
+R 1429 3 0 No 
+R 1438 4 0 sleep 
+R 1445 7 0 till 
+- 1454
+R 1571 2 0 A
+R 1574 2 0 no
+R 1578 2 0 ther 
+R 1582 4 0 plane, 
+R 1587 2 0 a
+R 1590 2 0 no
+R 1594 2 0 ther 
+R 1599 3 0 train, 
+R 1603 2 0 a
+R 1606 2 0 no
+R 1610 2 0 ther 
+R 1614 2 0 bot
+R 1617 2 0 tle 
+R 1621 3 0 in 
+R 1625 2 0 the 
+R 1629 1 0 brain 
+- 1631
+R 1633 3 0 A
+R 1637 2 0 no
+R 1640 2 0 ther 
+R 1645 4 0 girl, 
+R 1650 2 0 a
+R 1653 3 0 no
+R 1657 2 0 ther 
+R 1661 3 0 fight, 
+R 1666 2 0 a
+R 1669 2 0 no
+R 1673 2 0 ther 
+R 1677 6 0 drive 
+R 1685 5 0 all 
+R 1693 1 0 night 
+- 1695
+R 1696 12 1 Our 
+R 1711 2 0 ma
+R 1714 2 0 na
+R 1718 4 0 ger’s 
+R 1726 4 0 cra
+R 1732 3 0 zy, 
+R 1736 2 0 he 
+R 1739 4 0 al
+R 1744 2 0 ways 
+R 1750 3 0 smokes 
+R 1760 2 0 dust 
+- 1764
+R 1771 3 0 He’s 
+R 1775 3 0 got 
+R 1779 2 0 his 
+R 1783 6 0 own 
+R 1791 5 0 room 
+R 1799 2 0 at 
+R 1803 2 0 the 
+R 1807 4 0 back 
+R 1812 1 0 of 
+R 1814 2 0 the 
+R 1819 8 0 bus 
+- 1829
+R 1837 4 0 Tou
+R 1842 2 0 rin’ 
+R 1846 4 0 ’round 
+R 1851 2 0 the 
+R 1855 9 0 world, 
+R 1865 3 0 you 
+R 1870 3 0 rock 
+R 1874 2 0 a
+R 1878 2 0 round 
+R 1881 2 0 the 
+R 1887 11 0 clock 
+- 1900
+R 1902 3 0 Plane 
+R 1906 2 0 to 
+R 1909 6 0 ho
+R 1918 5 0 tel, 
+R 1927 5 0 girls 
+R 1935 5 0 on 
+R 1942 2 0 the 
+R 1947 6 0 jock 
+- 1955
+R 1966 3 0 Tra
+R 1970 2 0 shin’ 
+R 1974 4 0 ho
+R 1982 6 0 tels 
+R 1991 3 0 like 
+R 1995 2 0 it’s 
+R 1999 2 0 go
+R 2002 2 0 in’ 
+R 2005 3 0 out 
+R 2009 2 0 of 
+R 2015 1 0 style 
+- 2018
+R 2020 3 2 Get
+R 2024 3 2 ting 
+R 2030 5 2 paid 
+R 2036 2 0 a
+R 2039 3 0 long 
+R 2043 2 0 the 
+R 2047 5 0 way 
+R 2055 2 0 ’cause 
+R 2058 2 0 it’s 
+R 2063 3 0 worth 
+R 2071 5 0 your 
+R 2079 12 0 while 
+- 2093
+R 2095 6 0 Four 
+R 2102 3 0 on 
+R 2106 2 0 the 
+R 2111 6 0 floor, 
+R 2118 6 0 Ad 
+R 2127 4 0 Rock’s 
+R 2136 3 0 out 
+R 2140 2 0 the 
+R 2144 2 0 door 
+- 2148
+R 2150 3 0 M
+R 2157 1 0 C
+R 2160 6 0 A’s 
+R 2168 2 0 in 
+R 2171 2 0 the 
+R 2174 5 0 back 
+R 2182 3 0 ’cause 
+R 2187 2 0 he’s 
+R 2191 3 0 skee
+R 2196 2 0 zin’ 
+R 2199 2 0 with 
+R 2202 2 0 a 
+R 2206 1 0 whore 
+- 2209
+R 2211 2 1 We 
+R 2214 2 1 got 
+R 2218 2 1 a 
+R 2223 5 0 safe 
+R 2231 3 0 in 
+R 2235 2 0 the 
+R 2239 5 0 trunk 
+R 2247 3 0 with 
+R 2252 2 0 the 
+R 2255 4 0 mo
+R 2260 2 0 ney 
+R 2263 2 0 in 
+R 2266 2 0 a 
+R 2271 4 0 stack 
+- 2277
+R 2279 4 1 With 
+R 2288 4 0 dice 
+R 2295 2 0 in 
+R 2298 2 0 the 
+R 2304 4 0 front 
+R 2312 4 0 and 
+R 2319 2 0 Brook
+R 2323 2 0 lyn 
+R 2327 2 0 in 
+R 2330 2 0 the 
+R 2335 7 0 back 
+- 2344
+R 2346 4 0 Why 
+R 2351 2 0 you 
+R 2354 2 0 al
+R 2357 2 0 ways 
+R 2364 2 0 bi
+R 2367 2 0 tin’ 
+R 2371 4 0 my 
+R 2378 13 0 rhymes? 
+- 2393
+R 2452 7 0 No 
+R 2463 3 0 sleep 
+R 2470 5 0 till 
+- 2477
+R 2606 14 0 No 
+R 2639 9 0 sleep 
+R 2662 5 0 till 
+R 2671 4 0 Brook
+R 2678 14 0 lyn 
+- 2694
+R 2734 14 0 No 
+R 2766 9 0 sleep 
+R 2790 4 0 till 
+R 2798 4 0 Brook
+R 2807 12 0 lyn 
+- 2821
+R 2854 4 0 Ain’t 
+R 2863 4 0 seen 
+R 2869 4 0 the 
+R 2874 8 0 light 
+R 2887 2 0 since 
+R 2890 2 0 we 
+R 2895 5 0 star
+R 2901 1 0 ted 
+R 2903 3 0 this 
+R 2910 4 0 band 
+R 2915 1 0 so 
+- 2917
+R 2919 2 0 M
+R 2925 2 0 C
+R 2929 16 0 A 
+R 2946 2 0 get 
+R 2949 4 0 on 
+R 2954 2 0 the 
+R 2958 5 0 mic 
+R 2967 2 0 my 
+R 2971 15 0 man 
+- 2988
+R 2990 3 0 Born 
+R 2994 3 0 and 
+R 2998 3 0 bred 
+R 3002 2 0 in 
+R 3006 2 0 Brook
+R 3010 4 0 lyn 
+R 3015 2 0 in 
+R 3018 3 0 the 
+G 3022 3 0 U
+G 3026 4 0 S
+G 3034 10 0 A 
+- 3046
+R 3051 2 0 They 
+R 3054 3 0 call 
+R 3059 3 0 me 
+R 3063 3 0 A
+R 3067 2 0 dam 
+R 3070 3 0 Yauch 
+R 3075 2 0 but 
+R 3078 5 0 I’m 
+R 3086 4 0 M
+R 3094 4 0 C
+R 3099 3 0 A 
+- 3104
+R 3107 2 0 A 
+R 3110 3 0 like 
+R 3114 2 0 a 
+R 3117 3 0 le
+R 3122 2 0 mon 
+R 3126 2 0 to 
+R 3130 2 0 a 
+R 3134 9 0 lime, 
+G 3146 2 0 a 
+G 3149 6 0 lime 
+G 3158 2 0 to 
+G 3163 2 0 a 
+G 3167 2 0 le
+G 3171 1 0 mon 
+- 3174
+R 3178 2 0 A 
+R 3182 2 0 sip 
+R 3186 2 0 of 
+R 3190 4 0 def 
+R 3198 6 0 ale 
+R 3206 3 0 with 
+R 3210 7 0 all 
+R 3218 2 0 the 
+R 3223 5 0 fine 
+G 3231 2 0 wo
+G 3234 9 0 men 
+- 3245
+R 3247 3 0 Li
+R 3251 6 0 mos 
+R 3260 2 0 a
+R 3263 4 0 re
+R 3268 5 0 nas 
+R 3274 2 0 and 
+R 3279 3 0 T
+R 3284 3 0 V 
+R 3292 12 0 shows 
+- 3306
+R 3310 4 0 Au
+R 3315 2 0 to
+R 3319 4 0 graph 
+R 3326 2 0 pic
+R 3331 6 0 tures 
+R 3339 2 0 and 
+R 3343 4 0 clas
+R 3350 2 0 sy 
+R 3355 13 0 hoes 
+- 3370
+R 3374 3 0 Step 
+R 3379 6 0 off 
+R 3390 9 0 homes, 
+R 3402 4 0 get 
+R 3407 3 0 out
+R 3411 1 0 ta 
+R 3413 3 0 my 
+R 3418 9 0 way 
+- 3429
+R 3439 3 0 Tax 
+R 3446 3 0 lit
+R 3450 2 0 tle 
+R 3454 3 0 girl
+R 3458 2 0 ies 
+R 3464 2 0 from 
+R 3471 4 0 here 
+R 3476 2 0 to 
+G 3479 5 0 L
+G 3487 2 0 A 
+- 3491
+R 3494 4 1 Wa
+R 3499 3 1 kin’ 
+R 3503 7 1 up 
+- 3512
+R 3523 2 0 Be
+R 3527 3 0 fore 
+R 3531 2 0 I 
+R 3535 4 0 get 
+G 3542 2 0 to 
+G 3548 3 0 sleep 
+- 3553
+R 3555 2 0 ’Cause 
+R 3559 2 0 I’ll 
+R 3563 2 0 be 
+R 3567 2 0 roc
+R 3571 2 0 kin’ 
+R 3574 3 0 this 
+G 3583 3 0 par
+G 3587 3 0 ty 
+R 3591 4 0 eight 
+R 3598 8 0 days 
+R 3607 2 0 a 
+R 3611 9 0 week 
+- 3622
+R 3734 5 0 No 
+R 3742 4 0 sleep 
+R 3749 6 0 till 
+- 3757
+R 3887 14 0 No 
+R 3918 11 0 sleep 
+R 3940 6 0 till 
+R 3950 4 0 Brook
+R 3957 13 0 lyn 
+- 3972
+R 4014 13 0 No 
+R 4047 9 0 sleep 
+R 4070 4 0 till 
+R 4078 4 0 Brook
+R 4087 12 0 lyn 
+- 4101
+R 4141 11 0 No 
+R 4175 8 0 sleep 
+R 4199 4 1 till 
+R 4207 3 0 Brook
+R 4215 11 0 lyn 
+- 4228
+R 4268 12 0 No 
+R 4302 10 0 sleep 
+R 4326 6 1 till 
+R 4334 4 0 Brook
+R 4342 15 0 lyn, 
+R 4365 37 0 yeah 
+- 4404
+R 4911 14 0 No 
+R 4944 9 0 sleep 
+R 4966 5 1 till 
+R 4974 4 0 Brook
+R 4982 14 0 lyn 
+- 4998
+R 5039 12 0 No 
+R 5071 9 0 sleep 
+R 5093 7 1 till 
+R 5102 4 0 Brook
+R 5110 12 0 lyn 
+- 5124
+R 5166 11 0 No 
+R 5198 9 0 sleep 
+R 5220 7 1 till 
+G 5230 4 0 Brook
+G 5238 13 0 lyn 
+- 5253
+R 5294 12 0 No 
+R 5328 8 0 sleep 
+R 5349 6 0 till 
+R 5359 3 0 Brook
+R 5365 14 0 lyn 
+- 5381
+R 5422 11 0 No 
+R 5455 11 0 sleep 
+R 5478 6 1 till 
+R 5487 3 0 Brook
+R 5494 14 0 lyn 
+- 5510
+G 5549 10 0 No 
+G 5580 11 0 sleep 
+G 5605 6 1 till 
+G 5614 4 0 Brook
+G 5622 14 0 lyn 
+E

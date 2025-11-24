@@ -1,0 +1,115 @@
+#ARTIST:Glee Cast
+#TITLE:With You I’m Born Again
+#MP3:Glee Cast - With You I’m Born Again.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Soundtrack
+#YEAR:2010
+#LANGUAGE:English
+#BPM:323.46
+#GAP:10600
+#VIDEO:v=u8fjFHBkvyo,co=https://gleethecovers.files.wordpress.com/2011/02/s02e04-07-with-you-im-born-again-04.jpg
+* 0 6 28 Come 
+: 8 4 35 give 
+* 16 14 31 me 
+- 32
+: 36 4 33 Your 
+: 44 6 30 sweet
+: 52 2 28 ~
+: 56 2 26 ~
+: 60 16 26 ness 
+- 78
+: 92 6 28 Now 
+* 100 4 30 there’s 
+: 108 2 31 you, 
+- 112
+: 116 8 35 There 
+: 126 4 40 is 
+* 136 6 35 no 
+: 144 12 28 weak
+: 160 12 26 ness 
+- 174
+: 188 6 28 Ly
+: 196 6 30 ing 
+: 204 6 31 safe 
+: 212 6 35 wi
+: 220 6 33 thin 
+: 228 6 31 your 
+: 236 16 33 arms, 
+- 254
+: 264 6 30 I’m 
+: 272 6 28 born 
+: 280 6 23 a
+: 288 80 35 gain 
+- 370
+: 380 6 40 I 
+: 388 4 38 was 
+: 396 12 35 half, 
+- 410
+: 416 10 31 Not 
+: 428 24 33 whole 
+- 454
+: 468 4 30 In 
+: 476 26 31 step 
+- 504
+: 508 12 35 With 
+* 524 30 33 none 
+- 556
+: 572 6 40 Rea
+: 580 4 38 ching 
+: 588 6 35 through
+: 596 2 31 ~ 
+- 600
+: 604 8 31 This 
+: 620 26 33 world 
+- 648
+: 660 6 30 In 
+: 668 30 31 need 
+: 700 14 35 of 
+: 716 68 36 one 
+- 786
+: 804 6 31 Come 
+: 812 10 36 show
+: 824 2 34 ~ 
+: 828 18 32 me 
+- 848
+: 852 6 34 Your 
+: 860 6 31 kind
+: 868 4 29 ~
+: 876 16 27 ness 
+- 894
+: 908 6 29 In 
+: 916 6 31 your 
+: 924 4 32 arms 
+: 932 6 36 I 
+: 940 6 34 know 
+* 948 4 32 I’ll 
+: 956 6 31 find
+: 964 6 29 ~ 
+: 972 18 27 this 
+- 992
+: 1004 6 29 Wo
+: 1012 4 31 man, 
+: 1020 6 32 don’t 
+: 1028 6 36 you 
+: 1036 6 34 know, 
+: 1044 4 32 with 
+: 1052 16 34 you 
+- 1070
+: 1076 6 32 I’m 
+: 1084 6 31 born 
+: 1092 6 34 a
+: 1100 84 36 gain 
+- 1186
+* 1212 10 29 Ly
+: 1224 6 31 ing 
+: 1236 6 32 safe 
+: 1248 6 36 with 
+: 1260 18 34 you 
+- 1280
+: 1296 8 32 I’m 
+: 1308 42 34 born 
+- 1352
+: 1376 20 31 A
+: 1420 98 34 gain
+: 1520 80 33 ~ 
+E

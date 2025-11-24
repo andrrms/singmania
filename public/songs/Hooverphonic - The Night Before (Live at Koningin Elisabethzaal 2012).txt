@@ -1,0 +1,285 @@
+#ARTIST:Hooverphonic
+#TITLE:The Night Before (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - The Night Before (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - The Night Before (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - The Night Before (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:299.75
+#GAP:8520
+#VIDEO:v=uPTUvSKbfAM,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 4 -1 I 
+: 6 3 -3 ring 
+: 11 3 -1 your 
+: 16 12 -1 bell, 
+: 33 4 -1 buz
+: 40 7 0 zer 
+: 50 6 -1 o
+: 59 3 -1 pens 
+: 65 3 -3 the 
+: 70 9 -5 door 
+- 98
+: 157 2 -1 As 
+: 160 3 -1 I 
+: 165 4 -3 walk 
+: 171 7 -1 in, 
+: 184 2 -3 I 
+: 188 4 2 on
+: 195 4 2 ly 
+: 200 8 -1 mind 
+: 211 2 0 the
+: 214 2 2 ~ 
+: 218 40 -1 floor
+: 260 6 -3 ~ 
+- 276
+: 286 4 -1 I 
+: 291 5 -1 raise 
+: 297 4 -3 my 
+: 302 7 -1 head 
+: 311 3 -1 and 
+: 315 3 -3 I 
+: 320 4 -1 see, 
+- 330
+: 333 5 -1 A 
+* 339 6 2 sha
+* 346 5 2 dow 
+: 352 8 -1 on 
+: 361 3 0 the
+: 365 3 2 ~
+: 369 3 -1 ~ 
+: 373 9 -1 wall, 
+: 385 3 -1 vi
+: 389 4 -3 brant
+: 394 5 -1 ly 
+- 404
+: 406 3 -6 Re
+: 413 4 2 mind
+: 418 4 2 ing 
+: 425 9 -1 your 
+: 436 5 2 last 
+* 443 38 -1 call
+* 483 4 0 ~
+* 488 29 2 ~, 
+: 522 12 4 you 
+- 544
+: 555 5 -5 Are 
+: 561 6 7 ly
+: 568 5 7 ing 
+: 574 7 6 on 
+: 582 5 2 the 
+: 590 18 0 floor 
+- 618
+: 634 5 4 Try
+: 640 5 4 ing 
+: 648 8 6 to 
+: 659 5 7 re
+: 665 9 6 mem
+: 675 14 4 ber 
+- 698
+: 701 4 -5 What 
+: 707 3 7 hap
+: 712 6 7 pened 
+: 719 4 7 the 
+: 725 6 6 night 
+: 733 2 4 be
+: 736 2 2 ~
+: 743 35 2 fore
+: 779 4 4 ~
+: 784 21 6 ~
+: 809 43 4 ~ 
+- 871
+: 902 3 -1 Step 
+: 908 3 -3 by 
+: 916 5 -1 step, 
+: 925 1 -1 the 
+: 931 6 -1 sound 
+: 938 6 -1 of 
+: 945 7 -1 brea
+: 954 6 -3 king 
+: 962 24 -5 glass 
+- 1005
+: 1048 3 -1 What 
+: 1053 4 -1 hap
+: 1058 2 -3 pened 
+: 1063 6 -1 here, 
+- 1074
+: 1076 4 -8 Well, 
+: 1081 2 0 I
+: 1084 3 2 ~ 
+: 1089 5 2 can 
+: 1096 8 -1 on
+: 1106 6 2 ly 
+: 1113 38 -1 guess
+: 1153 8 -3 ~ 
+- 1173
+: 1177 3 -1 You 
+: 1183 3 -1 seem 
+: 1187 2 -3 a
+: 1191 7 -1 sleep 
+: 1201 4 -1 as 
+: 1206 3 -3 I 
+: 1210 9 -1 try 
+- 1223
+: 1225 4 -1 To 
+: 1230 3 2 put 
+: 1234 8 2 you 
+: 1243 8 -1 on 
+: 1252 2 0 the
+: 1255 4 2 ~ 
+: 1261 10 -1 bed, 
+: 1275 3 -1 as 
+: 1281 3 -3 I 
+: 1286 5 -1 find 
+- 1300
+: 1304 7 2 Tra
+: 1313 3 2 ces 
+: 1319 3 -1 of 
+: 1325 2 0 re
+: 1328 3 2 ~
+* 1333 38 -1 gret
+* 1372 4 0 ~
+* 1377 28 2 ~, 
+: 1409 17 4 you 
+- 1436
+: 1444 3 -5 Are 
+: 1448 6 7 ly
+: 1455 6 7 ing 
+: 1463 7 6 on 
+: 1471 4 2 the 
+: 1480 21 0 floor 
+- 1511
+: 1520 7 4 Try
+: 1528 4 4 ing 
+: 1535 10 6 to 
+: 1547 5 7 re
+: 1553 7 6 mem
+: 1564 15 4 ber 
+- 1586
+: 1589 4 -5 What 
+: 1594 4 7 hap
+: 1600 5 7 pened 
+: 1607 3 7 the 
+: 1612 8 6 night 
+: 1621 2 4 be
+: 1624 2 2 ~
+* 1631 35 2 fore
+* 1667 3 4 ~
+* 1672 26 6 ~, 
+: 1705 11 4 you 
+- 1726
+: 1733 6 -5 Are 
+: 1741 3 7 real
+: 1746 8 7 ly 
+: 1756 6 6 that
+: 1763 5 2 ~ 
+: 1775 10 0 sure 
+- 1795
+: 1810 2 0 That 
+: 1814 5 4 I’m 
+: 1821 4 4 the 
+: 1827 5 6 prince 
+: 1835 7 7 who’ll
+: 1844 4 2 ~ 
+: 1850 23 2 wake 
+- 1880
+: 1883 2 2 You
+: 1886 2 4 ~
+: 1889 25 6 ~
+: 1915 12 5 ~? 
+- 1935
+: 1938 3 5 We 
+: 1944 5 5 can’t 
+: 1952 3 5 re
+: 1957 7 4 wind 
+: 1965 2 2 the 
+: 1969 8 0 mo
+: 1979 6 2 vie 
+: 1988 6 4 called 
+: 1995 6 5 our 
+: 2003 6 4 life
+: 2010 8 2 ~ 
+- 2037
+: 2083 3 0 And 
+: 2089 6 5 though 
+: 2097 6 4 I’m 
+: 2104 8 2 your 
+: 2114 5 0 he
+: 2120 6 0 ro, 
+: 2127 2 2 I’m
+: 2130 4 4 ~ 
+: 2135 6 4 not 
+: 2143 4 5 that 
+: 2149 11 4 sure 
+: 2172 4 4 so 
+: 2177 8 5 un
+: 2186 9 4 sure
+: 2197 6 2 ~ 
+- 2208
+: 2210 4 4 Save
+: 2215 25 6 ~ 
+: 2242 22 4 you 
+- 2274
+: 2284 4 -5 Are 
+: 2289 5 7 ly
+: 2295 6 7 ing 
+: 2302 5 6 on
+: 2308 4 2 ~ 
+: 2313 6 2 the 
+: 2322 26 0 floor 
+- 2358
+: 2368 4 4 Try
+: 2373 5 4 ing 
+: 2383 5 6 to 
+: 2389 4 6 re
+: 2394 4 7 ~
+: 2399 4 2 ~
+: 2405 36 2 mem
+: 2442 3 4 ber
+: 2447 25 6 ~, 
+: 2478 19 4 you 
+- 2506
+: 2509 3 -5 Are 
+: 2515 4 7 ly
+: 2520 5 7 ing 
+: 2527 7 6 on 
+: 2536 5 2 the 
+: 2546 25 0 floor 
+: 2587 4 4 try
+: 2593 3 4 ing 
+: 2599 9 6 to 
+: 2610 5 7 re
+: 2616 9 6 mem
+: 2627 20 4 ber 
+- 2650
+: 2652 3 -5 What 
+: 2658 4 7 hap
+: 2663 5 7 pened 
+: 2670 4 7 the 
+: 2675 9 6 night 
+: 2685 3 4 be
+: 2689 3 2 ~
+: 2694 33 2 fore
+: 2728 4 4 ~
+: 2733 29 6 ~, 
+: 2764 9 4 you 
+- 2783
+: 2795 4 -5 Are 
+: 2802 3 7 real
+: 2807 5 7 ly 
+: 2814 7 6 that
+: 2822 5 2 ~ 
+: 2833 16 0 sure 
+- 2859
+: 2867 4 0 That 
+: 2873 5 4 I’m 
+: 2880 5 4 the 
+: 2886 2 4 prince
+: 2889 3 6 ~ 
+: 2897 7 7 who’ll 
+: 2906 18 2 wake 
+- 2934
+: 2944 6 4 You
+: 2952 26 6 ~
+: 2982 41 4 ~? 
+E

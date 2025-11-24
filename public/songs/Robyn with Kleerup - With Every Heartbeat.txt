@@ -1,0 +1,267 @@
+#ARTIST:Robyn with Kleerup
+#TITLE:With Every Heartbeat
+#MP3:Robyn with Kleerup - With Every Heartbeat.mp3
+#CREATOR:daggeg
+#YEAR:2007
+#LANGUAGE:English
+#BPM:242.03
+#GAP:31220
+#VIDEO:v=-ojHWQrm4UM,co=with-every-heartbeat-6638d8d9f1447.jpg,bg=robyn-51abef89a3961.jpg
+: 0 2 7 May
+: 4 2 7 be 
+: 8 2 7 we 
+: 12 2 7 could 
+: 16 6 7 make 
+: 24 2 7 it 
+: 28 6 7 al
+: 36 18 6 right 
+- 56
+: 128 2 7 We 
+: 132 2 7 could 
+: 136 2 7 make 
+: 140 2 7 it 
+: 144 2 7 bet
+: 148 2 7 ter 
+: 152 5 7 some
+: 161 11 6 time
+: 173 1 4 ~
+: 175 17 2 ~ 
+- 194
+: 256 2 7 May
+: 260 2 7 be 
+: 264 2 7 we 
+: 268 2 7 could 
+: 272 6 7 make 
+: 280 2 7 it 
+: 284 4 7 hap
+: 292 2 6 pen, 
+: 296 18 6 ba
+: 316 5 6 by 
+- 323
+: 385 2 7 We 
+: 389 2 7 could 
+: 393 5 7 keep 
+: 400 3 7 try
+: 404 2 9 ing 
+- 407
+: 408 5 11 But 
+: 416 5 9 things 
+: 424 5 6 will 
+: 432 5 4 ne
+: 440 5 2 ver 
+: 448 5 2 change 
+- 455
+: 461 2 2 So 
+: 465 2 4 I 
+* 469 2 6 don’t 
+: 473 5 7 look 
+* 481 7 7 back
+: 489 3 4 ~ 
+- 494
+: 520 2 7 Still 
+: 524 2 7 I’m 
+: 528 2 7 dy
+: 532 2 9 ing 
+: 536 5 11 with 
+: 544 5 9 e
+: 552 5 6 very 
+: 560 5 4 step 
+: 568 5 2 I 
+: 576 6 2 take 
+- 584
+: 588 2 2 But 
+: 592 2 4 I 
+: 596 2 6 don’t 
+: 600 5 9 look 
+: 608 10 7 back 
+- 620
+: 641 2 7 Just 
+: 645 2 7 a 
+: 649 2 7 lit
+: 653 2 7 tle, 
+: 657 2 7 lit
+: 661 2 7 tle 
+: 665 2 7 bit 
+* 669 6 7 bet
+* 677 7 6 ter
+* 685 1 4 ~
+* 687 10 2 ~ 
+- 699
+: 769 2 7 Good 
+: 773 2 7 e
+: 777 2 7 nough 
+: 781 2 7 to 
+: 785 4 7 waste 
+: 793 5 7 some 
+: 801 23 6 time 
+- 826
+: 897 2 7 Tell 
+: 901 2 7 me 
+: 905 2 7 would 
+: 909 2 7 it 
+: 913 5 7 make 
+: 920 2 7 you 
+: 924 4 7 hap
+: 933 2 6 py, 
+: 937 17 6 ba
+: 956 3 6 by
+: 960 1 4 ~
+: 962 12 2 ~
+: 975 3 1 ~ 
+- 980
+: 1025 2 7 We 
+: 1029 2 7 could 
+: 1033 5 7 keep 
+: 1041 3 7 try
+: 1045 2 9 ing 
+- 1048
+: 1049 5 11 But 
+: 1057 5 9 things 
+: 1065 5 6 will 
+: 1073 5 4 ne
+: 1081 5 2 ver 
+: 1089 5 2 change 
+- 1096
+* 1101 2 2 So 
+* 1105 2 4 I 
+* 1109 2 6 don’t 
+: 1113 5 7 look 
+: 1120 7 7 back
+: 1128 3 4 ~ 
+- 1133
+: 1160 2 7 Still 
+: 1164 2 7 I’m 
+: 1168 2 7 dy
+: 1172 2 9 ing 
+: 1176 5 11 with 
+: 1184 5 9 e
+: 1192 5 6 very 
+: 1200 5 4 step 
+: 1208 5 2 I 
+: 1216 6 2 take 
+- 1224
+: 1228 2 2 But 
+: 1232 2 4 I 
+: 1236 2 6 don’t 
+: 1240 5 9 look 
+: 1248 7 7 back
+: 1256 3 4 ~ 
+- 1261
+: 1273 7 7 Mm 
+- 1281
+: 1281 2 7 We 
+: 1285 2 7 could 
+: 1289 5 7 keep 
+: 1296 3 7 try
+: 1300 2 9 ing 
+- 1303
+: 1304 5 11 But 
+: 1312 5 9 things 
+: 1320 5 6 will 
+: 1328 5 4 ne
+: 1336 5 2 ver 
+: 1344 5 2 change 
+- 1351
+: 1356 2 2 So 
+: 1360 2 4 I 
+* 1364 2 6 don’t 
+* 1368 5 7 look 
+* 1376 10 7 back 
+- 1388
+: 1416 2 7 Still 
+: 1420 2 7 I’m 
+: 1424 2 7 dy
+: 1428 2 9 ing 
+: 1432 5 11 with 
+: 1440 5 9 e
+: 1448 5 6 very 
+: 1456 5 4 step 
+: 1464 5 2 I 
+: 1472 6 2 take 
+- 1480
+: 1485 2 2 But 
+: 1489 2 4 I 
+: 1493 2 6 don’t 
+: 1497 5 9 look 
+: 1505 10 7 back 
+- 1517
+: 2144 3 4 And 
+: 2152 3 7 it 
+: 2160 3 4 hurts 
+: 2168 3 7 with 
+: 2176 3 4 e
+: 2180 3 4 ve
+: 2184 3 7 ry 
+: 2192 5 2 heart
+: 2200 5 6 beat 
+- 2207
+: 2272 3 4 And 
+: 2280 3 7 it 
+: 2288 3 4 hurts 
+: 2296 3 7 with 
+: 2304 3 4 e
+: 2308 3 4 ve
+: 2312 3 7 ry 
+: 2320 5 2 heart
+: 2328 5 6 beat 
+- 2335
+: 2400 3 4 And 
+: 2408 3 7 it 
+: 2416 3 4 hurts 
+: 2424 3 7 with 
+: 2432 3 4 e
+: 2436 3 4 ve
+: 2440 3 7 ry 
+: 2448 5 2 heart
+: 2456 5 6 beat 
+- 2463
+: 2528 3 4 And 
+* 2536 3 7 it 
+* 2544 3 4 hurts 
+* 2552 3 7 with 
+* 2560 3 4 e
+* 2564 3 4 ve
+* 2568 3 7 ry 
+: 2576 5 2 heart
+: 2584 5 6 beat 
+- 2591
+: 2657 3 4 And 
+: 2665 3 7 it 
+: 2673 3 4 hurts 
+: 2680 3 7 with 
+: 2688 3 4 e
+: 2692 3 4 ve
+: 2696 3 7 ry 
+: 2704 5 2 heart
+: 2712 5 6 beat 
+- 2719
+: 2784 3 4 And 
+: 2792 3 7 it 
+: 2800 3 4 hurts 
+: 2808 3 7 with 
+: 2816 3 4 e
+: 2820 3 4 ve
+: 2824 3 7 ry 
+: 2832 5 2 heart
+: 2840 5 6 beat 
+- 2847
+: 2912 3 4 And 
+: 2920 3 7 it 
+: 2928 3 4 hurts 
+: 2936 3 7 with 
+: 2944 3 4 e
+: 2948 3 4 ve
+: 2952 3 7 ry 
+: 2960 5 2 heart
+: 2968 5 6 beat 
+- 2975
+: 3040 3 4 And 
+: 3048 3 7 it 
+: 3056 3 4 hurts 
+: 3064 3 7 with 
+* 3072 3 4 e
+* 3076 3 4 ve
+* 3080 3 7 ry 
+* 3088 5 2 heart
+* 3096 5 6 beat 
+E

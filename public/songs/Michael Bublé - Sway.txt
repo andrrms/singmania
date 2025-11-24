@@ -1,0 +1,353 @@
+#ARTIST:Michael Bublé
+#TITLE:Sway
+#MP3:Michael Bublé - Sway.mp3
+#CREATOR:REL
+#YEAR:2003
+#LANGUAGE:English
+#BPM:300
+#GAP:14600
+#VIDEO:v=xeMOO5EudYs,co=https://i.discogs.com/incX3WxVsnQtKPb1JufPaaUXVIfEsZhkpQjAYRQGy_U/rs:fit/g:sm/q:90/h:515/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDIz/MDktMTU0MTUyNDA1/Ni00MjIwLmpwZWc.jpeg,bg=bubl-michael-4fe2593972933.jpg
+: 0 5 9 When 
+: 8 2 9 mar
+: 13 2 9 im
+: 18 2 9 ba 
+: 23 2 7 rhyth
+: 27 2 9 ms 
+: 32 6 10 start 
+: 42 2 9 to 
+: 46 18 7 play 
+- 66
+: 68 8 11 Dance 
+: 79 2 9 with 
+: 84 18 7 me, 
+: 107 4 9 make 
+: 116 2 7 me 
+: 122 19 5 sway 
+- 143
+: 152 5 5 Like 
+: 160 2 5 a 
+: 165 3 5 la
+: 170 2 5 zy 
+: 175 2 4 o
+: 179 1 5 cean 
+: 184 7 7 hugs 
+: 194 2 5 the 
+: 198 17 4 shore 
+- 217
+: 221 6 7 Hold 
+: 230 3 5 me 
+: 236 17 4 close, 
+: 259 6 5 sway 
+: 268 3 4 me 
+: 274 16 2 more 
+- 292
+: 302 5 9 Like 
+: 310 2 9 a 
+: 315 2 9 flow
+: 320 2 9 wer 
+: 325 2 7 bend
+: 329 2 9 ing 
+: 334 6 10 in 
+: 344 2 9 the 
+: 348 18 7 breeze 
+- 368
+: 370 8 11 Bend 
+: 381 2 9 with 
+: 386 18 7 me, 
+: 409 4 9 sway 
+: 418 2 7 with 
+: 424 19 5 ease 
+- 445
+: 454 5 5 When 
+: 462 2 5 we 
+: 467 3 5 dance 
+: 472 2 5 you 
+: 477 2 4 have 
+: 481 1 5 a 
+: 486 7 7 way 
+: 496 2 5 with 
+: 500 17 4 me 
+- 519
+: 523 6 7 Stay 
+: 532 3 5 with 
+: 538 17 4 me, 
+: 561 6 5 sway 
+: 570 3 4 with 
+: 576 16 2 me 
+- 594
+: 609 4 4 O
+: 616 2 6 ther 
+: 621 4 7 dance
+: 628 3 6 rs 
+: 636 2 4 may 
+: 641 4 6 be 
+: 647 4 6 on 
+: 654 2 7 the 
+: 658 20 9 floor 
+- 680
+: 684 6 6 Dear, 
+: 692 2 7 but 
+: 697 4 9 my 
+: 703 4 11 eyes 
+: 711 3 12 will 
+: 717 3 14 see 
+: 724 2 14 on
+: 730 2 11 ly 
+: 735 22 14 you 
+- 759
+: 761 5 11 On
+: 768 2 12 ly 
+: 773 3 14 you 
+: 779 4 12 have 
+: 787 3 11 that 
+: 792 4 15 mag
+: 799 4 15 ic 
+: 806 3 11 tech
+: 812 20 15 nique 
+- 834
+: 840 3 11 When 
+: 846 2 13 we 
+: 850 4 15 sway 
+: 856 2 12 I 
+: 861 3 11 go 
+: 868 40 16 weak 
+- 910
+: 915 4 11 I 
+: 921 3 11 can 
+: 927 3 11 hear 
+: 932 2 11 the 
+: 937 2 11 sounds 
+: 941 3 11 of 
+: 946 8 12 vi
+: 956 2 11 o
+: 961 14 9 lins 
+- 977
+: 983 6 12 Long 
+: 993 2 11 be
+: 998 18 9 fore 
+: 1021 6 11 it 
+: 1031 2 9 be
+: 1036 21 7 gins 
+- 1059
+: 1065 4 7 Make 
+: 1074 2 7 me 
+: 1079 2 7 thrill 
+: 1084 2 7 as 
+: 1088 2 7 on
+: 1093 2 7 ly 
+: 1098 5 9 you 
+: 1106 3 7 know 
+: 1113 15 6 how 
+- 1130
+: 1136 6 9 Sway 
+: 1146 3 7 me 
+: 1152 23 6 smooth, 
+: 1177 5 7 sway 
+: 1185 3 5 me 
+: 1190 18 4 now 
+- 1210
+: 1524 4 4 O
+: 1531 2 6 ther 
+: 1536 4 7 dance
+: 1543 3 6 rs 
+: 1551 2 4 may 
+: 1556 4 6 be 
+: 1562 4 6 on 
+: 1569 2 7 the 
+: 1573 20 9 floor 
+- 1595
+: 1599 6 6 Dear, 
+: 1607 2 7 but 
+: 1612 4 9 my 
+: 1618 4 11 eyes 
+: 1626 3 12 will 
+: 1632 3 14 see 
+: 1639 2 14 on
+: 1645 2 11 ly 
+: 1650 22 14 you 
+- 1674
+: 1676 5 11 On
+: 1683 2 12 ly 
+: 1688 3 14 you 
+: 1694 4 12 have 
+: 1702 3 11 that 
+: 1707 4 15 mag
+: 1714 4 15 ic 
+: 1721 3 11 tech
+: 1727 20 15 nique 
+- 1749
+: 1755 3 11 When 
+: 1761 2 13 we 
+: 1765 4 15 sway 
+: 1771 2 12 I 
+: 1776 3 11 go 
+: 1783 40 16 weak 
+- 1825
+: 1830 4 11 I 
+: 1836 3 11 can 
+: 1842 3 11 hear 
+: 1847 2 11 the 
+: 1852 2 11 sounds 
+: 1856 3 11 of 
+: 1861 8 12 vi
+: 1871 2 11 o
+: 1876 14 9 lins 
+- 1892
+: 1898 6 12 Long 
+: 1908 2 11 be
+: 1913 18 9 fore 
+: 1936 6 11 it 
+: 1946 2 9 be
+: 1951 21 7 gins 
+- 1974
+: 1980 4 7 Make 
+: 1989 2 7 me 
+: 1994 2 7 thrill 
+: 1999 2 7 as 
+: 2003 2 7 on
+: 2008 2 7 ly 
+: 2013 5 9 you 
+: 2021 3 7 know 
+: 2028 15 6 how 
+- 2045
+: 2051 6 9 Sway 
+: 2061 3 7 me 
+: 2067 23 6 smooth, 
+: 2092 5 7 sway 
+: 2100 3 5 me 
+: 2105 18 4 now 
+- 2125
+: 2131 5 9 When 
+: 2139 2 9 mar
+: 2144 2 9 im
+: 2149 2 9 bas 
+: 2154 2 7 rhyth
+: 2158 2 9 ms 
+: 2163 6 10 start 
+: 2173 2 9 to 
+: 2177 18 7 play 
+- 2197
+: 2199 8 11 Dance 
+: 2210 2 9 with 
+: 2215 18 7 me, 
+: 2238 4 9 make 
+: 2247 2 7 me 
+: 2253 19 5 sway 
+- 2274
+: 2283 5 5 Like 
+: 2291 2 5 a 
+: 2296 3 5 la
+: 2301 2 5 zy 
+: 2306 2 4 o
+: 2310 1 5 cean 
+: 2315 7 7 hugs 
+: 2325 2 5 the 
+: 2329 17 4 shore 
+- 2348
+: 2352 6 7 Hold 
+: 2361 3 5 me 
+: 2367 17 4 close, 
+: 2390 6 5 sway 
+: 2399 3 4 me 
+: 2405 16 2 more 
+- 2423
+: 2477 4 9 Like 
+: 2484 3 9 a 
+: 2489 2 9 flow
+: 2494 3 9 er 
+: 2499 2 7 bend
+: 2503 3 9 ing 
+: 2508 7 10 in 
+: 2518 3 9 the 
+: 2523 8 7 breeze 
+- 2533
+: 2537 16 11 Bend 
+: 2554 3 9 with 
+: 2560 14 7 me, 
+: 2575 14 9 sway 
+: 2591 3 7 with 
+: 2597 16 5 ease 
+- 2615
+: 2630 5 5 When 
+: 2638 2 5 we 
+: 2643 3 5 dance 
+: 2648 2 5 you 
+: 2653 2 4 have 
+: 2657 1 5 a 
+: 2662 7 7 way 
+: 2672 2 5 with 
+: 2676 17 4 me 
+- 2695
+: 2699 6 7 Stay 
+: 2708 3 5 with 
+: 2714 17 4 me, 
+: 2737 6 5 sway 
+: 2746 3 4 with 
+: 2752 16 2 me 
+- 2770
+: 2779 6 9 When 
+: 2789 2 9 mar
+: 2794 2 9 im
+: 2798 2 9 bas 
+: 2803 3 7 start 
+: 2808 5 9 to 
+: 2816 29 11 play 
+- 2847
+: 2856 5 7 Hold 
+: 2864 2 6 me 
+: 2869 9 11 close, 
+: 2879 3 9 make 
+: 2884 5 7 me 
+: 2893 36 10 sway 
+- 2930
+: 2931 5 5 Like 
+: 2939 2 6 a 
+: 2942 1 5 la
+: 2944 1 5 zy 
+: 2946 1 5 o
+: 2951 2 5 cean 
+: 2956 2 4 hugs 
+: 2961 3 5 the 
+: 2967 30 8 shore 
+- 2999
+: 3009 6 4 Hold 
+: 3018 3 6 me 
+: 3023 8 7 close, 
+: 3034 6 5 sway 
+: 3042 4 4 me 
+: 3049 17 5 more 
+- 3068
+: 3085 5 9 Like 
+: 3093 3 9 a 
+: 3098 2 9 flow
+: 3103 2 9 er 
+: 3108 2 7 bend
+: 3113 2 9 ing 
+: 3118 6 10 in 
+: 3127 3 9 the 
+: 3132 9 7 breeze 
+- 3143
+: 3147 10 11 Bend 
+: 3162 4 9 with 
+: 3169 10 7 me, 
+: 3190 11 9 sway 
+: 3204 2 7 with 
+: 3208 19 5 ease 
+- 3229
+: 3238 4 5 When 
+: 3245 3 5 we 
+: 3250 3 5 dance 
+: 3255 3 5 you 
+: 3260 2 4 have 
+: 3264 3 5 a 
+: 3270 8 7 way 
+: 3280 2 5 with 
+: 3285 8 4 me 
+- 3295
+: 3307 8 7 Stay 
+: 3317 3 5 with 
+: 3322 10 4 me, 
+: 3334 17 5 sway 
+: 3353 3 4 with 
+: 3358 43 2 me 
+E

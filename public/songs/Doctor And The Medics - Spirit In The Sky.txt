@@ -1,0 +1,341 @@
+#ARTIST:Doctor And The Medics
+#TITLE:Spirit In The Sky
+#MP3:Doctor And The Medics - Spirit In The Sky.mp3
+#CREATOR:Fepo
+#COVER:Doctor And The Medics - Spirit In The Sky [CO].jpg
+#BACKGROUND:Doctor And The Medics - Spirit In The Sky [BG].jpg
+#GENRE:Pop
+#YEAR:1996
+#LANGUAGE:English
+#BPM:241.05
+#GAP:17100
+#VIDEO:v=VrUoDdS8lBc,co=https://i.discogs.com/inBDMTiwMErMhiubY4FFe33UaVzTJRFfk29u2fDjeqY/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzgw/NDQtMTMzOTgxMDg3/NS03NTU5LmpwZWc.jpeg
+: 0 2 1 When 
+: 4 2 -1 I 
+: 7 6 -3 die 
+: 15 3 -3 and 
+: 20 2 -3 they 
+: 23 3 1 lay 
+: 28 2 -1 me 
+: 32 2 -3 to 
+: 36 2 -3 re
+: 39 4 1 ~st 
+- 53
+: 64 2 1 Gon
+: 68 2 1 na 
+: 72 3 1 go
+: 76 2 1 in’ 
+: 80 2 1 to 
+: 84 2 1 the 
+: 87 3 -1 place 
+: 92 2 -1 tha
+: 95 3 1 ~t’s 
+: 100 12 -3 best 
+- 124
+: 128 2 2 When 
+: 132 2 2 they 
+: 136 2 2 lay 
+: 140 4 2 me 
+: 147 3 -1 do
+: 151 3 1 ~wn 
+: 156 2 -1 to 
+: 159 8 -3 die 
+- 177
+: 184 2 -1 Go
+: 188 2 -1 in 
+: 192 2 1 on 
+: 196 2 4 up 
+: 204 2 4 to 
+: 208 2 4 the 
+: 212 4 4 Spi
+: 218 4 4 rit 
+: 224 2 -1 in 
+: 227 2 1 the 
+: 231 10 -3 sky 
+- 246
+: 248 2 1 Go
+: 252 2 1 in 
+: 256 2 1 on 
+: 260 5 1 up 
+: 268 2 1 to 
+: 272 2 1 the 
+: 276 3 1 Spi
+: 281 4 1 rit 
+: 288 2 -1 in 
+: 291 2 1 the 
+: 295 8 -3 sky 
+- 312
+: 316 2 1 That’sts 
+: 320 2 1 where 
+: 324 2 1 I’m 
+: 328 2 -1 gon
+: 331 2 1 na 
+: 335 2 1 go 
+: 342 4 -1 when 
+: 348 2 -1 I
+: 351 3 1 ~ 
+: 356 10 -3 die 
+- 376
+: 380 2 2 When 
+: 384 2 2 I 
+: 388 5 2 die 
+: 396 2 2 and 
+: 400 2 2 they 
+: 404 2 -1 lay
+: 407 2 1 ~ 
+: 411 2 -1 me 
+: 415 3 -3 to 
+: 420 6 1 rest 
+- 426
+* 428 2 1 I’m 
+: 432 2 1 gon
+: 436 2 1 na 
+: 440 2 4 go 
+: 444 2 4 to 
+: 447 2 4 the 
+: 451 6 4 place 
+: 460 6 -1 that’s 
+: 468 2 1 the 
+: 471 8 -3 best 
+- 511
+: 764 2 -1 Pre
+: 768 2 1 pare 
+: 772 2 -3 your
+: 775 6 -3 self, 
+: 788 2 -3 you 
+: 792 2 1 know 
+: 796 2 -1 it 
+: 800 2 -3 a 
+: 804 2 -1 mu
+: 807 3 1 ~st 
+- 819
+: 823 2 1 Got
+: 827 2 1 ta 
+: 831 2 1 have 
+: 835 2 1 a 
+: 839 2 1 friend 
+: 843 5 1 named 
+: 851 5 -1 Je
+: 858 8 -3 sus 
+- 876
+: 895 2 2 So 
+: 899 2 2 you 
+: 903 2 2 know 
+* 907 4 2 that 
+: 915 4 1 when 
+: 921 2 -1 you 
+: 925 8 -3 die 
+- 943
+: 947 2 -3 It’s 
+: 951 3 -1 gon
+: 956 2 -1 na 
+: 959 2 1 re
+: 963 2 1 com
+: 967 2 4 mend 
+: 971 2 4 you 
+: 975 3 4 to 
+: 980 2 4 the 
+: 983 2 4 Spi
+: 987 2 4 rit 
+: 991 2 -1 in 
+: 995 2 1 the 
+: 999 9 -3 sky 
+- 1013
+: 1015 2 1 Go
+: 1019 2 1 in 
+: 1023 2 1 on 
+: 1027 5 1 up 
+: 1035 2 1 to 
+: 1039 2 1 the 
+: 1043 5 1 Spi
+: 1050 3 1 rit 
+: 1055 2 -1 in 
+: 1058 2 1 the 
+: 1062 8 -3 sky 
+- 1079
+: 1083 3 1 That’sts 
+: 1088 2 1 where 
+: 1092 2 1 you 
+: 1096 2 -1 gon
+: 1099 2 1 na 
+: 1103 2 1 go 
+: 1110 4 -1 when 
+: 1116 5 1 I 
+: 1123 10 -3 die 
+- 1143
+: 1147 2 2 When 
+: 1151 2 2 I 
+: 1155 5 2 die 
+: 1163 2 2 and 
+: 1167 2 2 they 
+: 1171 2 -1 lay
+: 1174 2 1 ~ 
+: 1178 2 -1 me 
+: 1182 3 -3 to 
+: 1187 6 1 rest 
+- 1194
+* 1196 2 1 I’m 
+: 1200 2 1 gon
+: 1204 2 1 na 
+: 1208 2 4 go 
+: 1212 2 4 to 
+: 1215 2 4 the 
+* 1219 6 4 place 
+: 1228 6 -1 that’s 
+: 1236 2 1 the 
+: 1239 8 -3 best 
+- 1279
+: 2038 3 1 Ne
+: 2043 2 1 ver 
+: 2047 2 1 been 
+: 2051 2 -1 a 
+: 2055 2 -3 sin
+: 2059 4 -3 ner, 
+- 2072
+: 2075 2 1 I’ve 
+: 2079 2 1 ne
+: 2083 2 1 ver 
+: 2087 7 -3 sinned 
+- 2100
+: 2103 2 1 I’ve 
+: 2107 2 1 got 
+: 2111 2 1 a 
+: 2115 5 1 friend 
+: 2123 6 1 named 
+: 2131 6 -1 Je
+: 2139 11 -3 sus 
+- 2160
+: 2175 2 2 So 
+: 2179 2 2 you 
+: 2183 2 2 know 
+: 2187 4 2 that 
+: 2195 2 1 when 
+: 2199 3 -1 I 
+: 2204 8 -3 die 
+- 2222
+: 2226 2 -3 It’s 
+: 2230 2 -1 gon
+: 2235 2 -1 na 
+: 2239 2 1 set 
+: 2243 2 1 me 
+: 2247 2 4 up 
+: 2251 2 4 with 
+: 2255 2 4 the 
+: 2259 5 4 Spi
+: 2266 3 4 rit 
+: 2271 2 -1 in 
+: 2275 2 1 the 
+: 2279 8 -3 sky 
+- 2293
+: 2295 2 1 Go
+: 2299 2 1 in 
+: 2303 2 1 on 
+: 2307 5 1 up 
+: 2315 2 1 to 
+: 2319 2 1 the 
+: 2323 5 1 Spi
+: 2330 3 1 rit 
+: 2335 2 -1 in 
+: 2338 2 1 the 
+: 2342 8 -3 sky 
+- 2359
+: 2363 2 1 That’sts 
+: 2367 2 1 where 
+: 2371 2 1 i’m 
+: 2374 2 -1 gon
+: 2377 1 1 na 
+: 2379 3 1 go 
+: 2390 4 -1 when 
+: 2396 5 1 I 
+: 2403 10 -3 die 
+- 2423
+: 2427 2 2 When 
+: 2431 2 2 I 
+: 2435 5 2 die 
+: 2443 2 2 and 
+: 2447 2 2 they 
+: 2451 2 -1 lay
+: 2454 2 1 ~ 
+: 2458 2 -1 me 
+: 2462 3 -3 to 
+: 2467 6 1 rest 
+- 2473
+* 2475 2 1 I’m 
+: 2479 2 1 gon
+: 2483 2 1 na 
+: 2487 2 4 go 
+: 2491 2 4 to 
+: 2494 2 4 the 
+* 2498 6 4 place 
+: 2507 6 -1 that’s 
+: 2515 2 1 the 
+: 2518 8 -3 best 
+- 2536
+: 2551 2 1 Go
+: 2555 2 1 in 
+: 2559 2 1 on 
+: 2563 5 1 up 
+: 2571 2 1 to 
+: 2575 2 1 the 
+: 2579 5 1 Spi
+: 2586 3 1 rit 
+: 2591 2 -1 in 
+: 2594 2 1 the 
+: 2598 8 -3 sky 
+- 2615
+: 2619 2 1 That’sts 
+: 2623 2 1 where 
+: 2627 2 1 i’m 
+: 2630 2 -1 gon
+: 2633 1 1 na 
+: 2635 3 1 go 
+: 2646 4 -1 when 
+: 2652 5 1 I 
+: 2659 10 -3 die 
+- 2679
+: 2683 2 2 When 
+: 2687 2 2 I 
+: 2691 5 2 die 
+: 2699 2 2 and 
+: 2703 2 2 they 
+: 2707 2 -1 lay
+: 2710 2 1 ~ 
+: 2714 2 -1 me 
+: 2718 3 -3 to 
+: 2723 6 1 rest 
+- 2729
+* 2731 2 1 I’m 
+: 2735 2 1 gon
+: 2739 2 1 na 
+: 2743 2 4 go 
+: 2747 2 4 to 
+: 2750 2 4 the 
+* 2754 6 4 place 
+: 2763 6 -1 that’s 
+: 2771 2 1 the 
+: 2774 8 -3 best 
+- 2792
+: 2807 2 4 Go 
+: 2811 2 4 to 
+: 2815 2 4 the 
+: 2819 5 4 place 
+: 2827 5 -1 that’s 
+: 2834 2 1 the 
+: 2838 10 -3 best 
+- 2858
+: 2869 2 4 Go 
+: 2873 2 4 to 
+: 2877 2 4 the 
+: 2881 5 4 place 
+: 2889 5 -1 that’s 
+: 2896 2 1 the 
+: 2900 10 -3 best 
+- 2920
+: 2934 2 4 Go 
+: 2938 2 4 to 
+: 2942 2 4 the 
+: 2946 5 4 place 
+: 2954 5 -1 that’s 
+: 2961 2 1 the 
+: 2965 10 -3 best 
+E

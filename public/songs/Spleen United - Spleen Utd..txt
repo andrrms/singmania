@@ -1,0 +1,121 @@
+#ARTIST:Spleen United
+#TITLE:Spleen Utd.
+#MP3:Spleen United - Spleen Utd..mp3
+#CREATOR:NikNak
+#EDITION:SingStar Summer Party
+#YEAR:2005
+#LANGUAGE:English
+#BPM:236
+#GAP:32670
+#VIDEO:v=8sZ99LXnq7U,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ad/a6/b4/ada6b4d8-cd9b-192c-aab0-0071fe533443/05700771100316.rgb.jpg/5000x5000bb.jpg
+: 0 5 9 Love 
+- 7
+: 12 2 7 Is 
+: 16 3 9 what 
+: 21 5 7 they’ll 
+* 28 5 16 get 
+- 35
+: 44 2 16 When 
+: 48 5 17 they 
+: 56 4 16 break 
+: 64 4 14 up 
+- 70
+: 76 2 11 And 
+: 80 3 12 join 
+: 86 2 11 in 
+* 93 7 9 Spleen 
+: 108 2 7 U
+: 112 5 9 ni
+: 120 3 7 ted 
+- 125
+: 128 2 9 Love
+: 131 3 7 ~ 
+- 136
+: 140 2 7 Is 
+* 144 3 9 what 
+: 150 3 7 they’ll 
+: 156 5 16 get 
+- 163
+: 172 2 16 When 
+: 176 5 17 they 
+: 184 5 19 break 
+: 192 4 14 up 
+- 198
+: 204 2 11 And 
+: 208 4 12 join 
+: 214 3 11 in 
+: 220 9 9 Spleen 
+: 236 2 7 U
+: 240 5 9 ni
+* 248 5 9 ted 
+- 255
+: 512 21 12 What 
+* 544 14 16 are 
+: 560 13 12 we 
+: 576 19 11 do
+: 596 5 9 ing 
+: 604 22 12 here 
+- 628
+: 640 21 12 When 
+: 672 12 16 all 
+: 688 13 12 we 
+: 704 11 14 want’s 
+: 720 11 11 out 
+: 736 20 9 there? 
+- 758
+: 1024 18 12 What 
+: 1056 14 16 are 
+: 1072 9 12 we 
+: 1088 19 11 do
+: 1108 5 11 ing 
+: 1116 3 11 here
+* 1120 18 12 ~ 
+- 1140
+: 1152 21 12 When 
+: 1184 12 16 all 
+: 1200 13 12 we 
+: 1216 11 14 want’s 
+: 1232 11 11 out 
+: 1248 20 9 there? 
+- 1270
+* 1280 5 9 Love 
+- 1287
+: 1292 2 7 Is 
+: 1296 3 9 what 
+: 1301 5 7 they’ll 
+: 1308 5 16 get 
+- 1315
+: 1324 2 16 When 
+: 1328 5 17 they 
+* 1336 4 16 break 
+: 1344 4 14 up 
+- 1350
+: 1356 2 11 And 
+: 1360 3 12 join 
+: 1366 2 11 in 
+: 1373 7 9 Spleen 
+: 1388 2 7 U
+: 1392 5 9 ni
+: 1400 3 7 ted 
+- 1405
+: 1408 2 9 Love
+: 1411 3 7 ~ 
+- 1416
+: 1420 2 7 Is 
+: 1424 3 9 what 
+* 1430 3 7 they’ll 
+: 1436 5 16 get 
+- 1443
+: 1452 2 16 When 
+: 1456 5 17 they 
+: 1464 5 19 break 
+: 1472 4 14 up 
+- 1478
+: 1484 2 11 And 
+* 1488 4 12 join 
+: 1494 3 11 in 
+: 1500 9 9 Spleen 
+: 1516 2 7 U
+: 1520 5 9 ni
+: 1528 5 9 ted 
+E

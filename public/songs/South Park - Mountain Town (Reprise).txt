@@ -1,0 +1,163 @@
+#ARTIST:South Park
+#TITLE:Mountain Town (Reprise)
+#MP3:South Park - Mountain Town (Reprise).mp3
+#CREATOR:leaby
+#LANGUAGE:English
+#BPM:220.75
+#GAP:380
+#VIDEO:v=S48x-W1ESYs,co=https://m.media-amazon.com/images/I/81SJVwN94BL.jpg
+: 0 2 22 Ever
+: 3 1 22 y
+: 5 6 22 thing 
+: 12 6 22 worked 
+: 19 4 22 out 
+- 24
+: 25 2 26 What 
+: 28 2 26 a 
+: 31 3 26 hap
+: 35 3 24 py 
+: 39 6 24 end
+* 46 5 26 ~ 
+- 53
+: 54 2 17 Am
+: 57 2 22 er
+: 60 1 22 ic
+: 62 3 22 ans 
+: 66 2 22 and 
+: 70 2 19 Can
+: 73 1 22 ad
+: 75 2 19 i
+: 78 4 19 ans 
+- 83
+: 84 2 19 Are 
+: 89 6 19 friends 
+: 96 3 17 ag
+: 100 7 17 ain 
+- 109
+: 117 1 19 So 
+: 119 3 21 let’s 
+: 123 3 22 all 
+: 128 2 22 join 
+: 132 4 22 hands 
+- 137
+: 137 2 26 And 
+: 141 2 28 knock 
+: 145 3 24 op
+: 149 3 26 pres
+: 153 3 28 sion 
+: 157 5 29 down 
+- 163
+: 163 2 29 Good 
+: 166 3 29 Lord
+: 170 1 26 y, 
+: 172 2 29 I’m 
+* 175 2 31 found! 
+- 178
+* 178 2 31 Don’t 
+* 181 1 18 you 
+: 183 2 19 know 
+: 186 1 21 our 
+: 188 1 22 litt
+: 190 1 24 le 
+: 192 3 26 lives 
+: 196 3 24 are 
+: 200 3 26 now 
+: 204 3 28 comp
+: 208 4 29 lete? 
+- 214
+: 222 4 17 ’Cause 
+: 227 2 26 Terr
+: 230 2 26 ance 
+: 233 5 28 and 
+: 239 2 26 Phill
+: 242 1 22 ip 
+: 244 4 24 are 
+: 249 5 22 sweet 
+- 255
+F 256 2 24 Sup
+F 260 2 24 er 
+F 263 5 24 sweet! 
+- 270
+: 274 7 26 Thank 
+: 282 7 28 God 
+: 290 3 26 we 
+: 294 5 28 live 
+: 300 1 26 in 
+: 302 2 26 this 
+- 305
+: 305 5 28 Qui
+: 311 2 26 et, 
+: 316 5 28 litt
+: 322 2 26 le, 
+: 327 3 28 pis
+: 331 5 26 sant, 
+: 338 4 28 red
+: 343 3 26 neck 
+- 347
+: 348 3 28 Pod
+: 353 3 26 unk, 
+* 358 3 28 jerk
+* 362 2 26 wat
+* 365 1 26 er, 
+: 368 3 28 green
+: 373 3 26 horn 
+- 377
+: 378 3 28 One-
+: 382 3 26 horse, 
+: 386 3 28 mud-
+: 391 3 26 hole, 
+* 395 1 28 peck
+* 397 1 28 er
+* 399 2 26 wood 
+- 403
+: 404 3 28 Right-
+: 409 2 26 wing, 
+: 413 1 28 whist
+: 415 1 28 le-
+: 417 2 26 stop, 
+: 422 4 28 hob
+: 427 2 26 nail 
+- 430
+* 430 3 28 Truck-
+* 435 1 26 driv
+* 437 1 26 ing, 
+: 440 3 28 old-
+: 444 2 26 fash
+: 447 1 26 ioned 
+- 449
+: 449 2 28 Hay
+: 452 3 26 seed, 
+* 458 3 28 in
+* 462 3 26 bred, 
+: 466 3 28 un
+: 470 4 26 kempt 
+- 475
+: 475 1 28 Out-
+: 477 1 28 of-
+: 479 2 26 date, 
+: 483 2 28 out-
+: 486 1 28 of-
+: 488 2 26 touch, 
+: 491 4 28 white-
+: 496 4 26 trash 
+- 501
+F 501 2 24 Kick 
+F 504 3 24 ass! 
+- 508
+: 508 31 28 Moun
+: 542 7 28 ta
+* 550 6 33 ~
+: 557 14 31 in 
+- 573
+: 578 67 34 Town 
+- 646
+: 646 29 34 Ah 
+- 676
+: 677 31 33 Ah 
+- 709
+* 709 36 26 Ah 
+- 746
+: 746 38 28 Ah 
+- 785
+: 786 73 29 Ah 
+E

@@ -1,0 +1,120 @@
+#ARTIST:The Legend Of Zelda
+#TITLE:Song Of Storms (Remix)
+#MP3:The Legend Of Zelda - Song Of Storms (Remix).mp3
+#CREATOR:Usdx
+#LANGUAGE:English
+#BPM:254.57
+#GAP:36470
+#VIDEO:v=45_OwWcifdg,co=https://i.scdn.co/image/ab67616d0000b273b51f66fd616b52893903ddf2
+: 0 2 2 In 
+: 3 1 5 the 
+* 5 7 14 night, 
+: 16 2 2 Blew 
+: 19 1 5 a 
+: 21 7 14 storm, 
+- 30
+: 32 7 4 Cha
+: 40 1 5 sing 
+: 42 2 4 sha
+: 45 2 5 dows 
+: 48 2 4 to 
+: 51 1 0 the 
+: 53 7 -3 shore. 
+- 62
+: 64 4 9 Light
+: 69 5 2 ning 
+: 75 2 5 filled 
+: 78 1 7 the 
+: 80 10 9 sky, 
+- 92
+: 95 5 9 Thun
+* 101 5 2 der 
+: 107 2 5 roared 
+: 110 1 7 and 
+: 112 10 4 cried. 
+- 124
+: 128 2 2 Close 
+: 131 1 5 your 
+: 133 8 14 eyes, 
+: 144 2 2 come 
+: 147 1 5 a
+: 149 9 14 long, 
+- 160
+: 162 5 4 Dance 
+: 168 2 5 un
+: 171 1 4 til 
+: 173 2 5 the 
+: 176 2 4 night 
+: 179 1 0 is 
+: 181 9 -3 gone, 
+- 192
+: 193 3 9 Sin
+: 197 5 2 ging 
+: 203 2 5 a
+* 206 1 7 ~ 
+: 208 9 9 song 
+: 218 5 9 of 
+* 224 23 2 storms. 
+- 249
+: 704 2 2 From 
+: 707 1 5 the 
+: 709 8 14 sky, 
+: 720 2 2 To 
+: 723 1 5 the 
+: 725 8 14 ground 
+- 735
+* 736 7 4 Rain 
+: 744 1 5 is 
+: 746 2 4 fa
+: 749 2 5 lling 
+: 752 2 4 all 
+: 755 1 0 a
+: 757 8 -3 round 
+- 767
+: 768 4 9 Thun
+: 773 4 2 der, 
+: 778 2 5 rain 
+: 781 2 7 and 
+: 784 8 9 wind 
+- 794
+: 796 3 9 A 
+: 800 4 9 Song 
+: 805 4 2 of 
+: 810 2 5 Storms 
+: 813 2 7 be
+* 816 12 4 gins. 
+- 830
+: 831 2 2 Play 
+: 834 1 5 a 
+: 836 8 14 song, 
+: 846 1 14 A 
+: 848 2 2 Me
+: 851 1 5 lo
+* 853 8 14 dy, 
+- 863
+: 864 6 4 Then 
+: 871 1 5 e
+: 873 2 4 ve
+: 876 2 5 ry
+: 879 2 4 one 
+: 882 1 0 will 
+: 884 8 -3 see! 
+- 893
+: 894 1 9 The 
+: 896 4 9 He
+* 901 4 2 ro 
+: 906 2 5 o
+: 909 2 7 ~f 
+: 912 9 9 Time 
+: 922 5 9 has 
+* 928 26 2 come. 
+- 956
+: 1116 1 9 The 
+: 1118 4 9 He
+: 1123 4 2 ro 
+: 1128 2 5 o
+: 1131 2 7 ~f 
+* 1134 9 9 Time 
+: 1144 5 9 has 
+: 1150 26 2 come. 
+E

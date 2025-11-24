@@ -1,0 +1,465 @@
+#ARTIST:Shampoo
+#TITLE:Trouble
+#MP3:Shampoo - Trouble.mp3
+#CREATOR:RetroGirl
+#YEAR:1994
+#LANGUAGE:English
+#BPM:266.46
+#GAP:1400
+#VIDEO:v=QL15Ya5fsgo,co=https://i.discogs.com/pUwc06jbnwmdbVt4IKuV2pfN8YWEmKe0-Xh3KJdBarM/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODU2/NjMtMTU3MDg4Mjc1/Ny02MzI3LmpwZWc.jpeg
+: 0 5 2 Uh 
+: 8 5 -1 Oh! 
+- 15
+: 24 5 2 We’re 
+: 32 5 2 in 
+: 40 2 1 trou
+: 44 3 -1 ble 
+- 49
+: 56 2 2 Some
+: 60 2 -1 thing’s 
+* 64 2 2 come 
+* 68 2 -1 a
+: 72 3 2 long 
+- 77
+: 80 2 2 And 
+: 84 2 -1 It’s 
+: 88 5 2 burst 
+: 96 5 2 our 
+: 104 2 1 bub
+: 108 3 -1 ble 
+- 113
+: 128 5 2 Uh 
+: 136 5 -1 Oh! 
+- 143
+: 152 5 2 We’re 
+: 160 5 2 in 
+: 168 2 1 trou
+: 172 3 -1 ble 
+- 177
+: 184 2 2 Got
+: 188 2 -1 ta 
+: 192 3 2 get 
+: 200 5 2 home 
+: 208 3 2 quick 
+: 216 5 2 march 
+: 224 2 2 on 
+: 228 2 -1 the 
+* 232 2 2 dou
+* 236 2 1 ble
+* 240 3 2 ~! 
+- 245
+F 500 3 0 We’ve 
+F 504 3 0 been 
+F 508 3 0 out 
+F 512 7 0 all 
+F 520 3 0 night 
+- 525
+F 528 3 0 And 
+F 532 3 0 we 
+F 536 3 0 have
+F 540 3 0 n’t 
+F 544 7 0 been 
+F 552 3 0 home
+F 556 3 0 ~ 
+- 561
+F 564 3 0 We’re 
+F 568 3 0 walk
+F 572 3 0 in’ 
+F 576 3 0 through 
+F 580 3 0 the 
+F 584 7 0 back 
+F 592 3 0 streets 
+- 597
+F 608 3 0 All 
+F 612 3 0 a
+F 616 3 0 lone
+F 620 3 0 ~! 
+- 625
+F 628 3 0 The 
+F 632 3 0 par
+F 636 3 0 ty 
+F 640 7 0 was 
+F 648 3 0 great 
+- 653
+F 664 3 0 We 
+F 668 3 0 were 
+F 672 3 0 real
+F 676 3 0 ly 
+F 680 7 0 frilled! 
+- 689
+F 692 3 0 And 
+F 696 3 0 when 
+F 700 3 0 we 
+F 704 3 0 get 
+F 712 7 0 in 
+F 720 3 0 we’re 
+- 725
+F 728 3 0 Gon
+F 732 3 0 na 
+F 736 7 0 get 
+F 744 7 0 killed! 
+- 753
+* 768 5 2 Uh 
+: 776 5 -1 Oh! 
+- 783
+: 792 5 2 We’re 
+: 800 5 2 in 
+: 808 2 1 trou
+: 812 3 -1 ble 
+- 817
+: 824 2 2 Some
+: 828 2 -1 thing’s 
+: 832 2 2 come 
+: 836 2 -1 a
+: 840 3 2 long 
+- 845
+: 848 2 2 And 
+: 852 2 -1 It’s 
+* 856 5 2 burst 
+: 864 5 2 our 
+: 872 2 1 bub
+: 876 3 -1 ble 
+- 881
+: 896 5 2 Uh 
+: 904 5 -1 Oh! 
+- 911
+: 920 5 2 We’re 
+: 928 5 2 in 
+: 936 2 1 trou
+: 940 3 -1 ble 
+- 945
+* 952 2 2 Got
+* 956 2 -1 ta 
+* 960 3 2 get 
+: 968 5 2 home 
+: 976 3 2 quick 
+: 984 5 2 march 
+: 992 2 2 on 
+: 996 2 -1 the 
+: 1000 2 2 dou
+: 1004 2 1 ble
+: 1008 3 2 ~! 
+- 1013
+F 1140 3 0 We 
+F 1144 3 0 could
+F 1148 3 0 n’t 
+F 1152 3 0 get 
+F 1156 3 0 a 
+F 1160 3 0 cab 
+- 1165
+F 1168 3 0 ’Cause 
+F 1172 3 0 we 
+F 1176 7 0 ain’t 
+F 1184 3 0 got 
+F 1188 3 0 no 
+F 1192 3 0 mo
+F 1196 3 0 ney! 
+- 1201
+F 1204 3 0 We 
+F 1208 3 0 missed 
+F 1212 3 0 the 
+F 1216 7 0 last 
+F 1224 3 0 train 
+- 1229
+F 1232 3 0 But 
+F 1236 3 0 we 
+F 1240 7 0 thought 
+- 1249
+F 1268 3 0 We’d 
+F 1272 3 0 get 
+F 1276 3 0 the 
+F 1280 7 0 night 
+F 1288 3 0 bus 
+- 1293
+F 1296 3 0 But 
+F 1300 3 0 the 
+F 1304 3 0 night 
+F 1308 3 0 bus 
+F 1312 3 0 nev
+F 1316 3 0 er 
+F 1320 3 0 came
+F 1324 3 0 ~! 
+- 1329
+F 1332 3 0 We’re 
+F 1336 3 0 eight 
+F 1340 3 0 miles 
+F 1344 7 0 from 
+F 1352 3 0 home 
+- 1357
+F 1360 3 0 And 
+F 1364 3 0 it 
+F 1368 3 0 start
+F 1372 3 0 ed 
+F 1376 7 0 to 
+- 1385
+: 1440 5 2 Uh 
+: 1448 5 -1 Oh! 
+- 1455
+: 1464 5 2 We’re 
+: 1472 5 2 in 
+* 1480 2 1 trou
+* 1484 3 -1 ble 
+- 1489
+: 1496 2 2 Some
+: 1500 2 -1 thing’s 
+: 1504 2 2 come 
+: 1508 2 -1 a
+: 1512 3 2 long 
+- 1517
+: 1520 2 2 And 
+: 1524 2 -1 It’s 
+: 1528 5 2 burst 
+: 1536 5 2 our 
+: 1544 2 1 bub
+: 1548 3 -1 ble 
+- 1553
+: 1568 5 2 Uh 
+* 1576 5 -1 Oh! 
+- 1583
+: 1592 5 2 We’re 
+: 1600 5 2 in 
+: 1608 2 1 trou
+: 1612 3 -1 ble 
+- 1617
+: 1624 5 2 Book 
+: 1632 2 2 us 
+: 1636 2 -1 a 
+: 1640 2 2 tick
+: 1644 2 2 et 
+: 1648 2 2 on 
+: 1652 2 -1 the 
+: 1656 3 2 next 
+: 1664 3 2 space 
+: 1672 2 2 shut
+: 1676 2 1 tle
+: 1680 3 2 ~! 
+- 1685
+F 1808 7 0 Yeah! 
+F 1816 7 0 Yeah! 
+- 1825
+* 1864 2 4 Trou
+* 1868 3 2 ble 
+- 1873
+F 1940 3 0 We 
+F 1944 3 0 tried 
+F 1948 3 0 to 
+F 1952 3 0 drive 
+F 1956 3 0 a 
+F 1960 3 0 car 
+- 1965
+F 1968 3 0 But 
+F 1972 3 0 we 
+F 1976 7 0 soon 
+F 1984 3 0 re
+F 1988 3 0 al
+F 1992 3 0 ized
+F 1996 3 0 ~ 
+- 2001
+F 2004 3 0 We 
+F 2008 3 0 got 
+F 2012 3 0 on 
+F 2016 3 0 the 
+F 2020 7 0 road 
+- 2029
+F 2040 3 0 None 
+F 2044 3 0 of 
+F 2048 3 0 us 
+F 2052 3 0 could 
+F 2056 7 0 drive! 
+- 2065
+F 2068 3 0 Po
+F 2072 3 0 lice 
+F 2076 3 0 car 
+F 2080 3 0 came 
+F 2084 3 0 a
+F 2088 3 0 long 
+- 2093
+F 2096 3 0 And 
+F 2100 3 0 they 
+F 2104 3 0 took 
+F 2108 3 0 us 
+F 2112 3 0 for 
+F 2116 3 0 a 
+F 2120 3 0 ride
+F 2124 3 0 ~ 
+- 2129
+F 2132 3 0 And 
+F 2136 3 0 when 
+F 2140 3 0 we 
+F 2144 7 0 get 
+F 2152 7 0 home 
+F 2160 7 0 we’re 
+F 2168 3 0 gon
+F 2172 3 0 na 
+F 2176 3 0 get 
+- 2181
+F 2184 3 0 Gon
+F 2188 3 0 na 
+F 2192 3 0 get 
+- 2197
+F 2200 3 0 Gon
+F 2204 3 0 na 
+F 2208 7 0 get 
+F 2216 15 0 Fried! 
+- 2233
+: 2240 5 2 Uh 
+: 2248 5 -1 Oh! 
+- 2255
+: 2264 5 2 We’re 
+: 2272 5 2 in 
+: 2280 2 1 trou
+: 2284 3 -1 ble 
+- 2289
+* 2296 2 2 Some
+* 2300 2 -1 thing’s 
+: 2304 2 2 come 
+: 2308 2 -1 a
+: 2312 3 2 long 
+- 2317
+: 2320 2 2 And 
+: 2324 2 -1 It’s 
+: 2328 5 2 burst 
+: 2336 5 2 our 
+: 2344 2 1 bub
+: 2348 3 -1 ble 
+- 2353
+: 2368 5 2 Uh 
+: 2376 5 -1 Oh! 
+- 2383
+: 2392 5 2 We’re 
+: 2400 5 2 in 
+: 2408 2 1 trou
+: 2412 3 -1 ble 
+- 2417
+: 2424 2 2 Got
+: 2428 2 -1 ta 
+: 2432 3 2 get 
+: 2440 5 2 home 
+: 2448 3 2 quick 
+: 2456 5 2 march 
+: 2464 2 2 on 
+: 2468 2 -1 the 
+: 2472 2 2 dou
+: 2476 2 1 ble
+: 2480 3 2 ~! 
+- 2485
+: 2496 5 2 Uh 
+: 2504 5 -1 Oh! 
+- 2511
+: 2520 5 2 We’re 
+: 2528 5 2 in 
+: 2536 2 1 trou
+: 2540 3 -1 ble 
+- 2545
+: 2624 5 2 Uh 
+: 2632 5 -1 Oh! 
+- 2639
+: 2648 5 2 We’re 
+: 2656 5 2 in 
+: 2664 2 1 trou
+: 2668 3 -1 ble 
+- 2673
+: 2752 5 2 Uh 
+: 2760 5 -1 Oh! 
+- 2767
+: 2776 5 2 We’re 
+: 2784 5 2 in 
+: 2792 2 1 trou
+: 2796 3 -1 ble 
+- 2801
+: 2808 2 2 Some
+: 2812 2 -1 thing’s 
+: 2816 2 2 come 
+: 2820 2 -1 a
+: 2824 3 2 long 
+- 2829
+: 2832 2 2 And 
+: 2836 2 -1 It’s 
+: 2840 5 2 burst 
+: 2848 5 2 our 
+: 2856 2 1 bub
+: 2860 3 -1 ble 
+- 2865
+: 2880 5 2 Uh 
+: 2888 5 -1 Oh! 
+- 2895
+: 2904 5 2 We’re 
+: 2912 5 2 in 
+* 2920 2 1 trou
+* 2924 3 -1 ble 
+- 2929
+: 2936 5 2 Book 
+: 2944 2 2 us 
+: 2948 2 -1 a 
+: 2952 2 2 tick
+: 2956 2 2 et 
+: 2960 2 2 on 
+: 2964 2 -1 the 
+: 2968 3 2 next 
+: 2976 3 2 space 
+: 2984 2 2 shut
+: 2988 2 1 tle
+: 2992 3 2 ~! 
+- 2997
+: 3008 5 2 Uh 
+: 3016 5 -1 Oh! 
+- 3023
+: 3032 5 2 We’re 
+* 3040 5 2 in 
+: 3048 2 1 trou
+: 3052 3 -1 ble 
+- 3057
+: 3064 2 2 Some
+: 3068 2 -1 thing’s 
+: 3072 2 2 come 
+: 3076 2 -1 a
+: 3080 3 2 long 
+- 3085
+: 3088 2 2 And 
+: 3092 2 -1 It’s 
+: 3096 5 2 burst 
+: 3104 5 2 our 
+: 3112 2 1 bub
+: 3116 3 -1 ble 
+- 3121
+: 3136 5 2 Uh 
+: 3144 5 -1 Oh! 
+- 3151
+: 3160 5 2 We’re 
+: 3168 5 2 in 
+: 3176 2 1 trou
+: 3180 3 -1 ble 
+- 3185
+: 3192 2 2 Got
+: 3196 2 -1 ta 
+: 3200 3 2 get 
+: 3208 5 2 home 
+: 3216 3 2 quick 
+: 3224 5 2 march 
+* 3232 2 2 on 
+* 3236 2 -1 the 
+* 3240 2 2 dou
+* 3244 2 1 ble
+* 3248 3 2 ~! 
+- 3253
+: 3264 5 2 Uh 
+: 3272 5 -1 Oh! 
+- 3279
+: 3288 5 2 We’re 
+: 3296 5 2 in 
+: 3304 2 1 trou
+: 3308 3 -1 ble 
+- 3313
+: 3320 2 2 Some
+: 3324 2 -1 thing’s 
+: 3328 2 2 come 
+: 3332 2 -1 a
+: 3336 3 2 long 
+- 3341
+: 3344 2 2 And 
+: 3348 2 -1 It’s 
+: 3352 5 2 burst 
+: 3360 5 2 our 
+: 3368 2 1 bub
+: 3372 3 -1 ble 
+E

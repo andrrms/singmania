@@ -1,0 +1,296 @@
+#ARTIST:3 Doors Down
+#TITLE:Smack
+#MP3:3 Doors Down - Smack.mp3
+#CREATOR:Azrael86
+#YEAR:1999
+#LANGUAGE:English
+#BPM:255.4
+#GAP:42890
+#VIDEO:a=MKDvfJ_J1y4,co=https://i.discogs.com/31ewt0GCIbs-tvBQwFRxWkZG_i5Vdi0b8j8lKefxxTA/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTA0/MDYtMTQyMDkxMjk5/OC00ODAxLmpwZWc.jpeg,bg=3-doors-down-6519c670be34e.jpg
+: 0 2 11 Ru
+: 4 1 11 bber 
+: 6 2 11 hea
+: 12 2 11 ded 
+: 16 2 14 mo
+: 20 2 9 tor 
+: 24 2 9 jun
+: 28 2 9 ky 
+- 31
+: 32 2 9 Run 
+: 36 1 9 me 
+: 38 2 9 down 
+: 44 2 9 and 
+: 48 2 9 try 
+: 52 2 9 to 
+: 56 2 9 stomp 
+: 60 2 9 me 
+- 63
+: 64 2 11 Throw 
+: 68 1 11 my 
+: 70 2 11 life 
+: 76 1 11 a
+: 78 2 14 way 
+: 84 2 9 and 
+: 88 2 11 I’ll 
+: 92 2 9 be 
+: 96 2 14 worth
+: 100 1 9 less 
+- 102
+: 102 2 11 Just 
+: 106 2 9 like 
+: 114 6 11 you 
+- 122
+: 126 2 11 Some
+: 130 1 11 where 
+: 132 2 11 now 
+: 138 2 11 a 
+: 142 2 14 ba
+: 146 2 9 by’s 
+: 150 2 9 cry
+: 154 2 9 ing 
+- 157
+: 158 2 9 Down 
+: 162 1 9 the 
+: 164 2 9 road 
+: 170 2 9 his 
+: 174 1 9 mo
+: 176 2 9 ther’s 
+: 180 2 9 dy
+: 184 2 11 ing 
+- 188
+: 190 1 11 Shot 
+: 192 2 11 a 
+: 196 4 11 line 
+* 206 1 14 blew 
+* 208 2 14 her 
+* 212 6 14 mind 
+- 220
+* 222 2 13 Now 
+* 226 2 13 she’s 
+* 230 2 13 tur
+* 234 2 13 ning 
+* 238 3 14 blue
+* 242 4 11 ~ 
+- 248
+: 254 2 11 Don’t 
+: 258 1 11 you 
+: 260 2 11 throw 
+: 266 2 11 your 
+: 270 2 14 life 
+: 274 1 9 a
+: 276 2 9 way 
+- 280
+: 282 2 9 Just 
+: 286 2 9 wait 
+: 290 2 9 un
+: 294 2 9 til 
+: 298 2 9 a
+: 302 2 9 no
+: 306 1 9 ther 
+: 308 5 11 day
+: 314 4 9 ~ 
+- 320
+: 322 1 11 Don’t 
+: 324 1 11 you 
+: 326 2 11 throw 
+: 330 2 11 your 
+: 334 2 14 life 
+: 338 1 14 a
+: 340 4 14 way 
+- 345
+: 346 2 14 Cause 
+: 350 2 13 ba
+: 354 1 13 by 
+: 356 2 13 I 
+: 362 2 13 can 
+: 366 6 13 feel 
+: 374 3 14 it
+: 378 6 11 ~ 
+- 385
+: 386 1 11 Don’t 
+: 388 1 11 you 
+: 390 2 11 e
+: 394 2 11 ver 
+: 398 2 14 com
+: 402 1 9 pro
+: 404 2 9 mise 
+: 410 6 9 it 
+- 417
+: 418 1 9 Don’t 
+: 420 1 9 you 
+: 422 2 9 e
+: 426 2 9 ven 
+: 430 1 9 re
+: 432 2 9 a
+: 436 2 9 lize 
+: 440 6 11 it 
+- 448
+: 450 1 11 Don’t 
+: 452 1 11 you 
+: 454 2 11 throw 
+: 458 2 11 your 
+: 462 2 14 life 
+: 466 1 14 a
+: 468 5 14 way 
+- 474
+: 474 2 14 Cause 
+: 478 2 14 ba
+: 482 1 14 by 
+: 484 2 14 I 
+: 490 2 14 can 
+: 494 4 13 feel 
+: 502 2 13 it 
+: 510 3 14 now
+: 514 6 11 ~ 
+- 522
+: 764 2 11 Trip 
+: 768 1 11 and 
+: 770 4 11 fall 
+- 775
+: 776 2 11 I’m 
+: 780 2 14 sure 
+: 784 1 14 you 
+: 786 2 14 all 
+: 792 2 14 can 
+: 796 2 13 tell 
+: 800 2 13 me 
+- 803
+: 804 2 13 What 
+: 808 2 13 is 
+: 812 2 13 on 
+: 816 1 13 the 
+: 818 2 11 wall 
+: 824 2 11 be
+: 828 2 11 hind 
+: 832 2 11 the 
+: 836 2 11 li
+: 840 2 11 quor 
+: 844 2 14 store 
+- 847
+: 848 2 9 Where 
+: 852 2 11 you 
+: 856 2 9 get 
+: 860 2 14 smacked 
+: 864 2 9 up 
+: 868 2 11 all 
+: 872 2 9 the 
+: 880 6 11 time 
+- 888
+: 890 2 11 Per
+: 894 1 11 fect 
+: 896 2 11 li
+: 902 2 11 ttle 
+: 906 2 14 life 
+: 910 2 9 you 
+: 914 2 9 was
+: 918 2 9 ted 
+- 921
+: 922 2 9 O
+: 926 1 9 ver
+: 928 2 9 dosed 
+: 932 1 9 and 
+: 934 2 9 that 
+: 938 2 9 death 
+: 942 2 9 you 
+: 946 2 9 tas
+: 950 2 9 ted 
+- 953
+: 954 1 11 Scared 
+: 956 2 11 you 
+: 960 2 11 back 
+: 966 1 11 in
+: 968 1 14 to 
+: 970 2 14 your
+: 974 4 14 self 
+- 980
+: 986 2 13 Now 
+: 990 2 13 you 
+: 994 2 13 walk 
+: 998 2 13 the 
+: 1002 6 14 line 
+- 1010
+: 1018 2 11 Don’t 
+: 1022 1 11 you 
+: 1024 2 11 throw 
+: 1030 2 11 your 
+: 1034 2 14 life 
+: 1038 1 9 a
+: 1040 4 9 way 
+- 1045
+: 1046 2 9 Just 
+: 1050 2 9 wait 
+: 1054 2 9 un
+: 1058 2 9 til 
+: 1062 2 9 a
+: 1066 2 9 no
+: 1070 1 9 ther 
+: 1072 5 11 day
+: 1078 4 9 ~ 
+- 1084
+: 1086 1 11 Don’t 
+: 1088 1 11 you 
+: 1090 2 11 throw 
+: 1094 2 11 your 
+: 1098 2 14 life 
+: 1102 1 14 a
+: 1104 2 14 way 
+- 1108
+: 1110 2 14 Cause 
+: 1114 2 14 ba
+: 1118 1 14 by 
+: 1120 2 14 I 
+: 1126 2 14 can 
+: 1130 4 13 feel 
+: 1138 3 14 it
+: 1142 6 11 ~ 
+- 1149
+: 1150 1 11 Don’t 
+: 1152 1 11 you 
+: 1154 2 11 e
+: 1158 2 11 ver 
+: 1162 2 14 com
+: 1166 1 9 pro
+: 1168 2 9 mise 
+: 1174 4 9 it 
+- 1180
+: 1182 1 9 Don’t 
+: 1184 1 9 you 
+: 1186 2 9 e
+: 1190 2 9 ven 
+: 1194 1 9 re
+: 1196 2 9 a
+: 1200 2 9 lize 
+: 1204 4 11 it 
+- 1210
+: 1216 1 11 Don’t 
+: 1218 1 11 you 
+: 1220 2 11 throw 
+: 1224 2 11 your 
+: 1228 2 14 life 
+: 1232 1 14 a
+: 1234 2 14 way 
+- 1238
+: 1240 2 14 Cause 
+: 1244 2 14 ba
+: 1248 1 14 by 
+: 1250 2 14 I 
+: 1256 2 14 can 
+: 1260 4 13 feel 
+: 1268 4 13 it 
+F 1276 6 11 now 
+- 1284
+* 1576 7 18 Life 
+* 1584 6 17 a
+* 1592 3 18 -way
+* 1596 8 17 ~ 
+- 1606
+* 1642 5 18 Life 
+* 1648 6 17 a
+* 1656 3 18 -way
+* 1660 6 17 ~ 
+- 1668
+* 1706 5 18 Life 
+* 1712 6 17 a
+* 1720 3 18 -way
+* 1724 8 17 ~ 
+E

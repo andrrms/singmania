@@ -1,0 +1,346 @@
+#ARTIST:South Park
+#TITLE:Put It Down
+#MP3:South Park - Put It Down.mp3
+#CREATOR:g21
+#YEAR:2017
+#LANGUAGE:English
+#BPM:356
+#GAP:23930
+#VIDEO:v=AXHZaDiBKsU,co=https://bilder.fernsehserien.de/gfx/pics/1200/South-Park-2.jpg
+#START:18.0
+: 0 11 16 Peo
+: 12 7 16 ple 
+: 20 8 16 are 
+: 32 15 21 dy
+: 48 12 21 ing, 
+: 68 3 16 the 
+: 72 4 14 fault 
+: 80 3 16 is 
+: 84 7 14 our 
+: 92 16 12 own 
+- 118
+: 128 3 16 You 
+: 132 3 16 can 
+: 136 3 16 do 
+: 140 4 16 lots 
+: 148 7 16 of 
+: 156 15 21 dam
+: 172 16 21 age 
+: 192 3 16 when 
+: 196 7 14 you’re 
+: 204 4 16 on 
+: 212 7 14 your 
+: 220 16 12 phone 
+- 248
+: 252 3 16 We 
+: 256 3 16 all 
+: 260 7 16 have 
+: 268 4 16 to 
+: 276 7 16 a
+: 284 16 21 gree 
+: 312 7 23 to 
+: 320 8 24 change 
+: 332 7 23 it 
+: 340 7 19 some
+: 348 16 21 how 
+- 376
+: 380 7 16 Let’s 
+: 388 3 16 all 
+: 392 8 16 make 
+: 404 7 16 a 
+: 412 16 21 pledge 
+: 444 7 16 to 
+: 452 7 14 end 
+: 460 7 16 it 
+: 468 4 14 right 
+: 476 16 12 now 
+- 502
+: 532 3 12 Put 
+: 536 7 11 it 
+: 544 15 9 down 
+- 559
+: 560 7 9 Don’t 
+: 568 7 11 be 
+: 576 7 12 on 
+: 584 4 7 your 
+: 592 7 7 phone 
+: 600 7 16 while 
+: 608 7 16 be
+: 616 4 14 ing 
+: 624 3 14 Pres
+: 628 4 12 i
+: 636 12 12 dent 
+- 654
+: 656 3 12 Put 
+: 660 7 11 it 
+: 668 12 9 down 
+- 686
+: 688 3 9 You 
+: 692 3 9 might 
+: 696 4 11 do 
+: 704 4 12 some
+: 712 3 7 thing 
+: 716 8 7 dumb 
+: 728 7 16 and 
+: 736 7 16 cause 
+: 744 3 14 an 
+: 748 7 14 ac
+: 756 3 12 ci
+: 760 8 12 dent 
+- 777
+: 780 3 7 Let’s 
+: 784 4 12 all 
+: 792 3 11 a
+: 796 4 12 gree 
+: 812 7 12 here 
+: 820 3 11 to
+: 824 4 12 day 
+: 840 3 7 that 
+: 844 3 12 if 
+: 848 3 11 we’re 
+: 852 4 12 lead
+: 860 3 11 er 
+: 864 4 12 of 
+: 872 3 11 the 
+: 876 3 12 U
+: 880 8 14 S
+: 892 8 14 A 
+- 906
+: 908 3 7 We’ll 
+: 912 3 12 put 
+: 916 7 11 it 
+: 924 24 9 down 
+- 971
+: 1036 3 12 Put 
+: 1040 8 11 it 
+: 1052 24 9 down 
+- 1099
+: 1164 3 12 Put 
+: 1168 7 11 it 
+: 1176 24 9 down 
+- 1223
+: 1292 3 12 No
+: 1296 7 11 one 
+: 1304 24 9 cares 
+- 1351
+: 1420 3 12 Put 
+: 1424 7 11 it 
+: 1432 15 9 down 
+: 1448 3 9 if 
+: 1452 4 11 you’re 
+: 1464 7 12 Pres
+: 1472 3 7 i
+: 1476 8 7 dent 
+: 1488 4 4 to
+: 1496 4 7 day 
+- 1502
+: 1504 3 14 If 
+: 1508 3 12 you 
+: 1512 3 14 find 
+: 1516 1 12 your
+: 1518 2 14 self 
+: 1524 4 14 be
+: 1532 1 12 ing 
+: 1534 1 14 Pres
+: 1536 3 12 i
+: 1540 7 14 dent 
+: 1548 4 16 to
+: 1556 16 12 day 
+- 1578
+: 1580 4 9 Ah 
+: 1588 3 11 ah 
+: 1592 15 12 ah, 
+: 1608 3 7 ah 
+: 1612 7 4 a 
+: 1620 16 7 aaah 
+- 1659
+: 1704 7 9 Ah 
+: 1712 7 11 ah 
+: 1720 8 12 ah, 
+: 1732 7 7 ah 
+: 1740 7 4 a 
+: 1748 27 7 aaah, 
+: 1776 4 8 aaah 
+- 1790
+: 1800 3 12 Put 
+: 1804 7 11 it 
+: 1812 16 9 down 
+- 1830
+F 1832 3 9 For 
+F 1836 3 9 su
+F 1840 3 9 i
+F 1844 1 9 cide 
+F 1846 1 9 in 
+F 1848 3 9 our 
+F 1852 3 9 na
+F 1856 7 9 tion 
+- 1863
+F 1864 3 9 Or 
+F 1868 3 9 I 
+F 1872 3 9 will 
+F 1876 3 9 rip 
+F 1880 1 9 my 
+F 1882 1 9 own 
+F 1884 3 9 guts 
+F 1888 4 9 out 
+F 1900 4 9 with
+F 1908 3 9 out 
+F 1912 3 9 one 
+F 1916 1 9 hes
+F 1918 1 9 i
+F 1920 3 9 ta
+F 1924 3 9 tion 
+- 1927
+F 1928 1 9 Ded
+F 1930 1 9 i
+F 1932 3 9 ca
+F 1936 3 9 tion, 
+F 1940 1 9 that’s 
+F 1942 1 9 what 
+F 1944 4 9 it’s 
+F 1952 3 9 tak
+F 1956 3 9 en 
+F 1960 3 9 to 
+F 1964 1 9 a
+F 1966 1 9 wak
+F 1968 3 9 en 
+F 1972 3 9 peo
+F 1976 3 9 ple 
+F 1980 3 9 to 
+F 1984 4 9 care 
+- 1990
+F 1992 3 9 And 
+F 1996 1 9 yet 
+F 1998 1 9 my 
+F 2000 3 9 fu
+F 2004 3 9 ture’s 
+F 2008 3 9 so 
+F 2012 3 9 ha
+F 2016 3 9 zy, 
+F 2020 1 9 my 
+F 2022 1 9 girl
+F 2024 4 9 friend’s 
+F 2032 4 9 makin’ 
+F 2040 3 9 me 
+F 2044 3 9 cra
+F 2048 4 9 zy 
+- 2054
+F 2056 3 9 But 
+F 2060 3 9 still 
+F 2064 3 9 I’m 
+F 2068 3 9 workin’ 
+F 2072 3 9 so 
+F 2076 4 9 hard. 
+F 2084 3 9 You 
+F 2088 3 9 know, 
+F 2092 3 9 just 
+F 2096 3 9 tryin’ 
+F 2100 4 9 to 
+F 2108 3 9 hold 
+F 2112 4 9 on, 
+- 2118
+F 2120 3 9 ’Cause 
+F 2124 3 9 I 
+F 2128 3 9 know 
+F 2132 3 9 that 
+F 2136 3 9 you 
+F 2140 4 9 don’t 
+F 2148 3 9 miss 
+F 2152 3 9 me 
+F 2156 1 9 so 
+F 2158 1 9 much 
+F 2160 3 9 if 
+F 2164 3 9 I 
+F 2168 3 9 was 
+F 2172 4 9 gone. 
+- 2178
+F 2180 3 9 And 
+F 2184 3 9 all 
+F 2188 3 9 the 
+F 2192 3 9 voic
+F 2196 3 9 es 
+F 2200 3 9 start 
+F 2204 3 9 so 
+F 2208 7 9 lo, 
+F 2216 3 9 but 
+F 2220 1 9 eve
+F 2222 1 9 ry 
+F 2224 3 9 day 
+F 2228 3 9 I 
+F 2232 3 9 hear 
+F 2236 3 9 them 
+F 2240 7 9 grow. 
+- 2247
+F 2248 3 9 Sayin’ 
+F 2252 3 9 “Er
+F 2256 3 9 ic, 
+F 2260 3 9 don’t 
+F 2264 3 9 do 
+F 2268 3 9 it! 
+F 2272 3 9 Don’t 
+F 2276 3 9 do 
+F 2280 3 9 it! 
+F 2284 24 9 Noooo”. 
+- 2318
+: 2340 3 12 Put 
+: 2344 4 11 it 
+: 2352 15 9 down 
+- 2367
+: 2368 3 9 Don’t 
+: 2372 8 11 be 
+: 2384 7 12 on 
+: 2392 3 7 your 
+: 2396 11 7 phone 
+: 2408 3 16 while 
+: 2412 7 16 be
+: 2420 3 14 ing 
+: 2424 4 14 pres
+: 2432 4 12 i
+: 2440 12 12 dent 
+- 2458
+: 2460 3 12 Put 
+: 2464 8 11 it 
+: 2476 12 9 down 
+- 2490
+: 2492 3 9 You 
+: 2496 3 9 might 
+: 2500 4 11 do 
+: 2508 4 12 some
+: 2516 3 7 thing 
+: 2520 11 7 dumb 
+: 2532 7 16 and 
+: 2540 7 16 cause 
+: 2548 3 14 an 
+: 2552 3 14 ac
+: 2556 4 12 ci
+: 2564 8 12 dent 
+- 2584
+: 2588 3 7 We 
+: 2592 3 12 all 
+: 2596 3 11 a
+: 2600 16 12 gree 
+: 2620 7 12 here 
+: 2628 3 11 to
+: 2632 15 12 day 
+: 2648 3 7 that 
+: 2652 3 12 if 
+: 2656 3 11 we’re 
+: 2660 3 12 ev
+: 2664 3 11 er 
+: 2668 3 12 lead
+: 2672 1 11 er 
+: 2674 1 12 of 
+: 2676 4 11 the 
+: 2684 3 12 U
+: 2688 8 14 S
+: 2700 8 14 A 
+- 2710
+: 2712 3 7 We’ll 
+: 2716 4 12 put 
+: 2724 7 11 it 
+: 2732 32 9 down 
+- 2787
+: 2844 3 12 Put 
+: 2848 7 11 it 
+: 2856 40 9 down 
+E

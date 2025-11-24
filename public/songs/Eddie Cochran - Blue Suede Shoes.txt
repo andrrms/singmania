@@ -1,0 +1,319 @@
+#ARTIST:Eddie Cochran
+#TITLE:Blue Suede Shoes
+#MP3:Eddie Cochran - Blue Suede Shoes.mp3
+#CREATOR:Lolomazz
+#COVER:Eddie Cochran - Blue Suede Shoes [CO].jpg
+#BACKGROUND:Eddie Cochran - Blue Suede Shoes [BG].jpg
+#YEAR:1957
+#LANGUAGE:English
+#BPM:350
+#GAP:310
+#VIDEO:a=Uoch4vBVqFY,co=https://img.cdandlp.com/2024/02/imgL/127459382.jpg,bg=cochran-eddie-51cae6ff214d9.jpg
+: 0 1 4 Well 
+: 2 2 6 it’s 
+: 6 2 4 ah 
+: 9 4 9 one 
+: 15 2 9 for 
+: 19 2 9 the 
+: 22 2 12 mo
+: 26 6 12 ney 
+- 42
+: 56 5 9 Two 
+: 64 3 9 for 
+: 68 2 9 the 
+: 71 4 12 show 
+- 85
+: 100 3 9 Three 
+: 106 1 9 to 
+: 108 8 9 get 
+: 117 2 13 rea
+: 121 2 13 dy 
+: 124 3 16 now 
+- 128
+: 130 6 19 Go 
+: 137 5 14 cat 
+: 145 5 11 go 
+- 150
+: 152 3 9 But 
+: 156 2 12 don’t
+: 159 3 9 ~
+: 164 3 9 you 
+- 177
+* 197 2 16 Step 
+: 201 1 16 on 
+: 203 4 14 my 
+: 208 4 12 blue 
+: 214 4 9 suede 
+: 225 3 9 shoes 
+- 238
+: 272 2 13 Well 
+: 275 3 14 you 
+: 279 2 15 can 
+: 282 3 16 do 
+: 287 2 16 a
+: 290 2 16 ny
+: 294 3 16 thing 
+- 304
+: 307 2 4 But 
+: 310 3 4 lay 
+: 315 4 9 off 
+: 320 2 9 of 
+: 323 4 11 my 
+: 331 3 12 blue 
+: 338 3 9 suede 
+: 346 5 9 shoes 
+- 374
+: 401 2 4 Well 
+: 404 3 6 you 
+: 408 2 4 can 
+: 411 5 9 knock 
+: 418 3 9 me 
+: 423 11 12 down 
+- 438
+: 440 2 9 Step 
+: 444 2 9 in 
+: 447 3 9 my 
+* 451 4 4 face 
+- 465
+: 472 2 9 Slan
+: 476 2 9 der 
+: 479 3 9 my 
+: 487 6 12 name 
+- 493
+: 494 2 9 All
+: 497 2 7 ~
+: 500 2 9 o
+: 505 2 9 ver 
+: 508 3 9 the 
+: 513 2 6 place 
+- 524
+: 528 3 9 Do 
+: 532 2 9 a
+: 535 3 9 ny
+: 539 11 12 thing 
+- 550
+: 552 2 9 That 
+: 555 2 7 you 
+: 558 5 9 wan
+: 565 3 9 na 
+: 570 2 12 do 
+- 582
+: 592 5 9 Uh 
+: 599 8 9 huh 
+: 609 2 13 ho
+: 612 2 13 ney 
+- 619
+: 621 3 16 Lay 
+* 625 6 19 off 
+: 632 1 19 of 
+: 634 6 16 my 
+: 642 6 12 shoes 
+- 648
+: 649 3 9 And 
+: 654 2 12 don’t
+: 657 2 9 ~
+: 661 3 12 you 
+- 674
+: 685 2 16 Step 
+: 688 1 16 on 
+: 690 3 14 my 
+: 695 5 12 blue 
+: 702 6 9 suede 
+: 717 5 9 shoes 
+- 732
+: 767 2 12 Well 
+: 770 2 14 you 
+: 773 2 15 can 
+: 777 2 16 do 
+: 780 2 16 a
+: 783 2 16 ny
+: 787 4 16 thing 
+- 794
+: 796 2 4 But 
+: 799 2 4 lay 
+: 802 5 9 off 
+: 810 2 9 of 
+: 814 2 11 my 
+: 820 6 12 blue 
+: 827 4 9 suede 
+: 834 5 9 shoes 
+- 845
+: 848 4 16 Hey 
+: 853 3 15 ya 
+: 857 3 12 ya 
+: 861 3 9 ya 
+- 910
+: 1263 4 9 Burn 
+: 1269 5 9 my 
+: 1277 6 12 house 
+- 1289
+: 1291 6 9 Steal 
+: 1298 2 9 my 
+: 1302 6 4 car 
+- 1318
+: 1322 3 9 Drink 
+: 1328 5 9 my 
+: 1336 2 12 li
+: 1339 2 13 quor 
+- 1347
+: 1349 2 9 From 
+: 1354 2 6 an 
+* 1357 4 9 old 
+: 1364 6 9 fruit 
+: 1372 5 7 jar 
+- 1384
+: 1387 2 9 Do 
+: 1390 3 9 a
+: 1394 2 9 ny
+: 1398 5 12 thing 
+- 1408
+: 1410 1 9 That 
+: 1412 2 7 you 
+: 1415 6 9 wan
+: 1423 3 9 na 
+: 1427 10 12 do 
+- 1442
+: 1444 2 9 But 
+: 1447 4 9 uh 
+: 1455 5 9 huh 
+: 1463 2 13 ho
+: 1467 2 13 ney 
+- 1472
+: 1474 4 16 Lay 
+: 1479 6 19 off 
+: 1486 3 19 of 
+: 1490 5 19 my 
+: 1496 6 19 shoes 
+- 1502
+: 1504 3 16 And 
+: 1508 4 19 don’t 
+: 1515 3 9 you 
+- 1528
+: 1538 2 16 Step 
+: 1542 2 16 on 
+: 1545 3 14 my 
+: 1550 5 12 blue 
+: 1557 5 9 suede 
+: 1570 6 9 shoes 
+- 1586
+: 1614 3 13 You 
+: 1618 3 13 can 
+: 1622 3 14 do 
+: 1626 2 16 a
+: 1630 2 16 ny
+: 1633 2 16 thing 
+- 1644
+: 1647 2 6 But 
+: 1650 2 6 lay 
+: 1654 5 9 off 
+: 1662 1 7 of 
+: 1665 3 11 my 
+: 1670 1 9 blue
+: 1672 3 12 ~
+: 1678 5 9 suede 
+: 1690 6 9 shoes 
+- 1706
+: 1735 1 4 Well 
+: 1737 2 6 it’s 
+: 1741 2 4 ah 
+: 1744 4 9 one 
+: 1750 2 9 for 
+: 1754 2 9 the 
+: 1757 2 12 mo
+: 1761 6 12 ney 
+- 1775
+: 1778 5 9 Two 
+: 1786 3 9 for 
+: 1790 2 9 the 
+: 1793 4 12 show 
+- 1805
+: 1808 3 9 Three 
+: 1814 1 9 to 
+: 1816 8 9 get 
+: 1825 2 13 rea
+: 1829 2 13 dy 
+: 1832 3 16 now 
+- 1836
+: 1838 6 19 Go 
+: 1845 5 14 cat 
+: 1853 5 11 go 
+- 1858
+: 1860 3 9 But 
+: 1864 2 12 don’t
+: 1867 3 9 ~
+: 1872 3 9 you 
+- 1885
+* 1895 2 16 Step 
+: 1899 1 16 on 
+: 1901 4 14 my 
+: 1906 4 12 blue 
+: 1912 4 9 suede 
+: 1923 3 9 shoes 
+- 1936
+: 1970 2 13 Well 
+: 1973 3 14 you 
+: 1977 2 15 can 
+: 1980 3 16 do 
+: 1985 2 16 a
+: 1988 2 16 ny
+: 1992 3 16 thing 
+- 2002
+: 2005 2 4 But 
+: 2008 3 4 lay 
+: 2013 4 9 off 
+: 2018 2 9 of 
+: 2021 4 11 my 
+: 2029 3 12 blue 
+: 2036 3 9 suede 
+: 2044 12 9 shoes 
+- 2066
+: 2095 2 7 Well 
+: 2098 3 9 it’s 
+: 2102 4 7 a 
+- 2111
+: 2113 3 9 Blue, 
+: 2121 3 9 blue 
+: 2129 1 7 my 
+: 2132 3 9 blue 
+: 2139 6 9 suede 
+* 2148 7 12 shoes 
+: 2156 2 7 ah 
+- 2167
+: 2170 4 9 Blue, 
+: 2178 4 9 blue 
+: 2185 1 7 my 
+: 2189 4 9 blue 
+: 2196 7 9 suede 
+: 2206 5 12 shoes 
+- 2221
+: 2229 2 9 Blue, 
+: 2236 5 9 blue 
+: 2243 1 7 my 
+: 2247 4 9 blue 
+: 2254 8 9 suede 
+: 2264 6 12 shoes 
+: 2277 2 14 ba
+: 2281 2 26 by 
+- 2284
+: 2286 3 9 Blue, 
+: 2294 5 9 blue 
+: 2301 2 7 my 
+: 2305 4 9 blue 
+: 2313 4 9 suede 
+- 2326
+: 2329 2 16 You 
+: 2333 2 16 can 
+: 2336 2 16 do 
+: 2340 2 16 a
+: 2343 2 16 ny
+: 2347 4 16 thing 
+- 2354
+: 2356 2 4 But 
+: 2359 2 6 lay 
+: 2362 5 9 off 
+: 2370 2 9 of 
+: 2373 3 11 my 
+: 2381 4 12 blue 
+: 2388 4 9 suede 
+: 2398 15 9 shoes 
+E

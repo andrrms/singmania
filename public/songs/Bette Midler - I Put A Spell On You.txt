@@ -1,0 +1,273 @@
+#ARTIST:Bette Midler
+#TITLE:I Put A Spell On You
+#MP3:Bette Midler - I Put A Spell On You.mp3
+#CREATOR:dylanb2344
+#YEAR:1993
+#LANGUAGE:English
+#BPM:305.2
+#GAP:670
+#VIDEO:v=DCTbr3vjb6I,co=https://i1.sndcdn.com/artworks-000608536789-bg3nvr-t500x500.jpg,bg=midler-bette-5403691f1bb49.jpg
+F 0 6 0 Thank 
+F 7 4 0 you 
+F 12 12 0 max 
+- 26
+F 79 2 0 For 
+F 82 4 0 that 
+F 87 12 0 mar
+F 100 3 0 ve
+F 104 2 0 lous 
+F 107 2 0 in
+F 110 1 0 tro
+F 112 1 0 du
+F 114 14 0 ction 
+- 130
+F 176 4 0 I 
+F 182 5 0 put 
+F 188 4 0 a 
+F 193 13 0 spell 
+F 207 7 0 on 
+F 215 8 0 you 
+- 225
+F 260 3 0 And 
+F 264 9 0 now 
+F 275 8 0 you’re 
+F 284 25 0 mine. 
+- 311
+F 346 4 0 You 
+F 351 8 0 can’t 
+F 360 10 0 stop 
+F 372 4 0 the 
+F 378 13 0 things 
+F 392 6 0 I 
+F 399 14 0 do. 
+- 415
+F 430 5 0 I 
+F 436 3 0 ain’t 
+F 440 21 0 lyyyyy
+F 462 19 0 in’. 
+- 483
+F 535 1 0 It’s 
+F 537 2 0 been 
+F 540 4 0 3
+F 545 3 0 0
+F 549 2 0 0 
+F 552 16 0 years 
+- 570
+F 573 6 0 Right 
+F 581 10 0 down 
+F 592 2 0 to 
+F 595 2 0 the 
+F 598 13 0 day, 
+- 613
+F 621 5 0 Now 
+F 627 3 0 the 
+F 631 4 0 witch 
+F 636 4 0 is 
+F 641 10 0 back 
+- 653
+F 668 5 0 And 
+F 674 9 0 there’s 
+F 684 13 0 hell 
+F 707 3 0 to 
+F 711 15 0 pay. 
+- 728
+F 754 3 0 I 
+F 758 3 0 put 
+F 762 5 0 a 
+F 770 24 0 spell 
+F 796 7 0 on 
+F 806 15 0 you 
+- 823
+F 864 10 0 And 
+F 880 28 0 now 
+F 909 29 0 you’re 
+F 944 88 0 miiiiiine! 
+- 1034
+F 1081 9 0 Hello, 
+F 1092 3 0 Sa
+F 1096 16 0 lem! 
+F 1131 2 0 My 
+F 1135 3 0 name’s 
+F 1142 1 0 Wi
+F 1144 3 0 ni
+F 1148 4 0 fred, 
+F 1162 6 0 what’s 
+F 1170 20 0 yours? 
+- 1192
+: 1196 6 5 I 
+: 1203 1 5 put 
+: 1205 2 5 a 
+: 1210 4 8 spell 
+: 1215 4 5 on 
+: 1220 6 5 you
+: 1227 14 8 ~ 
+- 1243
+: 1252 3 5 And 
+: 1256 6 12 now 
+: 1263 9 10 you’re 
+: 1273 4 8 go
+: 1278 30 5 ne. 
+- 1310
+: 1323 5 5 My 
+: 1329 2 5 wha
+: 1332 5 5 mmy 
+: 1341 3 8 fell 
+: 1345 6 5 on 
+: 1352 5 5 you
+: 1358 17 8 ~ 
+- 1377
+: 1383 3 5 And 
+: 1387 3 5 it 
+: 1391 4 5 was 
+: 1400 9 0 strong. 
+- 1410
+: 1410 4 0 So 
+: 1416 7 4 strong, 
+: 1428 2 4 so 
+: 1431 10 7 strong, 
+: 1442 4 7 so 
+: 1447 7 10 strong! 
+- 1455
+: 1455 10 12 Your 
+: 1466 4 12 wre
+: 1471 2 5 tched 
+: 1474 1 5 little
+: 1476 3 5 ~ 
+: 1480 10 5 lives 
+- 1492
+: 1496 3 5 Have 
+: 1500 7 5 all 
+: 1508 3 8 been 
+: 1512 8 12 cursed, 
+- 1521
+: 1521 3 12 ’Cause 
+: 1525 2 12 of 
+: 1528 9 13 all 
+: 1538 2 5 the 
+: 1541 1 5 wi
+: 1543 3 5 tches 
+: 1548 5 5 working
+: 1554 7 5 ~ 
+- 1563
+: 1570 3 5 I’m 
+: 1574 2 5 the 
+: 1577 9 5 worst 
+- 1587
+: 1587 4 5 I 
+: 1592 2 5 put 
+: 1595 3 5 a 
+: 1602 3 8 spell 
+: 1606 3 5 on 
+: 1611 5 5 you
+: 1617 4 0 ~
+: 1622 12 0 ~ 
+- 1636
+: 1641 3 0 And 
+: 1646 12 12 now 
+: 1659 3 10 you’re 
+: 1663 5 8 mi
+: 1669 28 5 ne! 
+- 1699
+: 1737 3 8 Watch 
+: 1741 3 10 out! 
+: 1749 3 8 Watch 
+: 1753 3 10 out! 
+: 1761 3 8 Watch 
+: 1765 3 10 out! 
+: 1774 3 8 Watch 
+: 1778 3 10 out! 
+- 1783
+: 1850 3 5 If 
+: 1854 3 5 you 
+: 1858 4 8 don’t 
+: 1867 3 8 be
+: 1871 7 5 lieve, 
+- 1879
+: 1879 3 5 You’d 
+: 1884 1 5 be
+: 1886 1 5 tter 
+: 1888 4 10 get 
+: 1899 3 5 su
+: 1903 3 3 per
+: 1907 4 5 sti
+: 1912 13 12 tious. 
+- 1927
+F 1929 3 0 Ask 
+F 1936 3 0 my 
+F 1940 3 0 si
+F 1944 6 0 sters! 
+- 1952
+F 2010 2 0 I 
+F 2013 3 0 put 
+F 2017 3 0 a 
+F 2024 8 0 spell 
+F 2033 6 0 on 
+F 2040 17 0 you.... 
+- 2059
+F 2134 6 0 I 
+F 2142 4 0 put 
+F 2148 8 0 a 
+F 2157 6 0 spell 
+F 2164 8 0 on 
+F 2173 10 0 you. 
+- 2185
+F 2196 2 0 Si
+F 2199 14 0 sters! 
+- 2215
+F 2219 3 0 Ah 
+F 2227 4 0 say 
+F 2235 3 0 en
+F 2239 3 0 to 
+F 2243 3 0 pi 
+F 2250 3 0 al
+F 2254 2 0 pha 
+F 2258 3 0 ma
+F 2263 3 0 bi 
+F 2267 3 0 u
+F 2271 3 0 pen
+F 2275 3 0 di 
+- 2280
+F 2284 3 0 Ah 
+F 2290 3 0 say 
+F 2299 3 0 en
+F 2303 3 0 to 
+F 2307 3 0 pi 
+F 2315 3 0 al
+F 2319 3 0 pha 
+F 2323 3 0 ma
+F 2327 2 0 bi 
+F 2330 3 0 u
+F 2335 3 0 pen
+F 2339 5 0 di 
+- 2346
+F 2348 3 0 In 
+F 2357 3 0 co
+F 2361 3 0 mma 
+F 2365 2 0 co
+F 2368 3 0 ri
+F 2373 3 0 ya
+F 2377 3 0 ma 
+- 2381
+F 2382 3 0 In 
+F 2390 2 0 co
+F 2393 2 0 mma 
+F 2397 2 0 co
+F 2401 2 0 ri
+F 2404 2 0 ya
+F 2409 2 0 ma 
+- 2412
+F 2412 16 0 Ay 
+F 2429 17 0 aye 
+- 2447
+: 2447 13 0 Say 
+: 2462 16 0 bye 
+: 2479 19 0 bye
+: 2499 3 -2 ~
+: 2503 3 0 yy
+: 2507 25 1 yy
+: 2533 2 3 yy
+: 2536 20 1 ye 
+- 2558
+: 2559 10 0 Bye 
+: 2572 8 0 bye! 
+E

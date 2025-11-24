@@ -1,0 +1,239 @@
+#ARTIST:Staff Sergeant Barry Sadler
+#TITLE:The Ballad Of The Green Berets
+#MP3:Staff Sergeant Barry Sadler - The Ballad Of The Green Berets.mp3
+#CREATOR:Fepo
+#YEAR:1965
+#LANGUAGE:English
+#BPM:335.24
+#GAP:6610
+#VIDEO:v=m5WJJVSE_BE,co=https://m.media-amazon.com/images/I/51O4x1UFn5L.jpg
+: 0 6 4 Figh
+: 8 5 4 ting 
+: 16 17 4 sol
+: 39 6 0 diers 
+: 48 6 2 from 
+: 56 4 2 the 
+: 63 13 0 sky 
+- 78
+: 128 6 4 Fear
+: 137 6 7 less 
+: 145 11 7 men 
+- 158
+: 170 3 7 Who 
+: 177 6 9 jump 
+: 186 5 7 and 
+: 194 10 7 die 
+- 206
+: 242 5 12 Men 
+* 249 6 12 who 
+: 257 10 12 mean 
+- 269
+: 297 5 5 Just 
+: 306 5 9 what 
+: 313 4 7 they 
+: 321 16 7 say 
+- 339
+: 370 4 4 The 
+: 377 7 4 brave 
+: 386 11 2 men 
+- 399
+: 427 2 -5 Of 
+: 430 4 -5 the 
+: 435 6 -7 Green 
+: 442 5 2 Be
+: 449 11 0 ret 
+- 462
+: 498 7 4 Sil
+: 507 5 4 ver 
+: 515 13 4 wings 
+- 530
+: 555 4 0 U
+: 562 7 2 pon 
+: 571 5 2 their 
+: 578 10 0 chest 
+- 590
+: 628 5 4 These 
+: 636 4 7 are 
+: 643 10 7 men 
+- 655
+: 682 5 7 A
+: 689 3 9 me
+: 693 4 7 ri
+: 698 5 7 ca’s 
+: 706 8 7 best 
+- 716
+: 748 4 12 One 
+: 755 5 12 hun
+: 761 5 12 dred 
+: 769 11 12 men 
+- 782
+: 810 4 5 Will 
+: 818 5 9 test 
+: 826 4 7 to 
+: 833 10 7 day 
+- 845
+: 877 5 4 But 
+: 884 3 4 on
+: 889 3 4 ly 
+: 896 11 2 three 
+- 909
+: 937 4 -5 Win 
+: 942 3 -5 the 
+: 946 5 -7 Green 
+: 953 5 2 Be
+: 960 12 0 ret 
+- 974
+: 1024 7 4 Trained 
+: 1034 3 4 to 
+: 1040 11 4 live 
+- 1053
+: 1064 4 0 Off 
+: 1072 5 2 na
+: 1080 6 2 ture’s 
+: 1089 10 0 land 
+- 1101
+: 1153 7 5 Trained 
+: 1161 4 7 in 
+: 1169 6 7 com
+: 1177 7 7 bat 
+- 1186
+: 1200 7 9 Hand 
+: 1209 4 7 to 
+: 1215 13 7 hand 
+- 1230
+: 1264 5 12 Men 
+: 1271 4 12 who 
+: 1278 7 12 fight 
+- 1287
+: 1318 5 5 By 
+: 1325 6 9 night 
+: 1334 5 7 and 
+: 1342 10 7 day 
+- 1354
+: 1393 4 4 Cou
+: 1398 5 4 rage 
+: 1407 5 2 peak 
+- 1414
+: 1445 4 -5 From 
+: 1450 3 -5 the 
+: 1454 5 -7 Green 
+: 1460 6 2 Be
+: 1468 5 0 rets 
+- 1475
+: 1515 6 4 Sil
+: 1524 4 4 ver 
+: 1532 10 4 wings 
+- 1544
+: 1572 3 0 U
+: 1579 6 2 pon 
+: 1587 5 2 their 
+: 1594 9 0 chest 
+- 1605
+: 1644 6 4 These 
+: 1651 4 7 are 
+: 1659 9 7 men 
+- 1670
+: 1697 5 7 A
+: 1704 4 9 me
+: 1710 3 7 ri
+: 1714 5 7 ca’s 
+: 1722 9 7 best 
+- 1733
+: 1761 5 12 One 
+: 1768 6 12 hun
+: 1777 5 12 dred 
+: 1785 8 12 men 
+- 1795
+: 1825 5 5 Will 
+: 1832 6 9 test 
+: 1839 6 7 to 
+: 1848 9 7 day 
+- 1859
+: 1888 6 4 But 
+: 1896 6 4 on
+: 1904 5 4 ly 
+: 1912 12 2 three 
+- 1926
+: 1950 5 -5 Win 
+: 1956 3 -5 the 
+: 1960 6 -7 Green 
+: 1968 5 2 Be
+: 1974 9 0 ret 
+- 1985
+: 2039 7 4 Back 
+: 2047 3 4 at 
+: 2054 9 4 home 
+- 2065
+: 2076 5 0 A 
+: 2084 7 2 young 
+: 2092 5 2 wife 
+: 2100 7 0 waits 
+- 2109
+: 2160 5 5 Her 
+: 2167 6 5 Green 
+: 2175 4 7 Be
+: 2182 8 7 ret 
+- 2192
+: 2206 5 7 Has 
+: 2215 4 9 met 
+: 2222 5 7 his 
+: 2229 7 7 fate 
+- 2238
+: 2279 5 12 He 
+: 2286 6 12 has 
+: 2295 14 12 died 
+- 2311
+: 2333 4 5 For 
+: 2341 7 9 those 
+: 2352 5 7 op
+: 2359 9 7 pressed 
+- 2370
+: 2407 5 4 Lea
+: 2414 5 4 ving 
+: 2421 9 2 her 
+- 2432
+: 2464 4 -5 His 
+: 2470 6 -5 last 
+: 2479 4 2 re
+: 2486 9 0 quest 
+- 2497
+: 2528 4 4 Put 
+: 2534 7 4 sil
+: 2543 6 4 ver 
+: 2551 12 4 wings 
+- 2565
+: 2592 5 0 On 
+: 2600 4 2 my 
+: 2607 7 2 son’s 
+: 2616 8 0 chest 
+- 2626
+: 2665 6 4 Make 
+: 2673 6 7 him 
+: 2682 9 7 one 
+- 2693
+: 2722 4 7 Of 
+: 2727 3 7 A
+: 2731 3 9 me
+: 2735 3 7 ri
+: 2739 5 7 ca’s 
+: 2747 7 7 best 
+- 2756
+: 2787 6 12 He’ll 
+: 2795 6 12 be 
+: 2803 4 12 a 
+: 2810 13 12 man 
+- 2825
+: 2851 6 5 They’ll 
+: 2859 6 9 test 
+: 2867 7 7 one 
+: 2875 10 7 day 
+- 2887
+: 2925 8 4 Have 
+: 2934 5 4 him 
+: 2941 9 2 win 
+- 2952
+: 2981 7 -5 The 
+: 2990 8 -7 Green 
+: 2999 5 2 Be
+: 3006 58 0 ret 
+E

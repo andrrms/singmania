@@ -1,0 +1,186 @@
+#ARTIST:Patsy Cline
+#TITLE:I Fall To Pieces
+#MP3:Patsy Cline - I Fall To Pieces.mp3
+#CREATOR:Relisch
+#COVER:Patsy Cline - I Fall To Pieces [CO].jpg
+#BACKGROUND:Patsy Cline - I Fall To Pieces [BG].jpg
+#GENRE:Ballad
+#YEAR:1961
+#LANGUAGE:English
+#BPM:300
+#GAP:10850
+#VIDEO:a=9loTXznGJy4,co=https://i.discogs.com/sZDvl0BIsg0PzKfyDsUJje8S2bAuuiOWg9Fu_mIdGy0/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ4/NzAtMTUyMjIzNDQ1/My0zNjAxLmpwZWc.jpeg,bg=cline-patsy-50c576aba92e3.jpg
+: 0 43 0 I 
+: 45 36 2 fall 
+: 88 7 0 to 
+: 96 13 12 pieces
+: 110 52 12 ~ 
+- 172
+: 188 7 11 Each 
+: 197 8 12 time 
+: 206 21 14 I 
+: 228 17 12 see 
+: 246 13 12 you 
+: 262 6 11 again
+: 269 50 9 ~ 
+- 329
+: 353 38 0 I 
+: 392 41 2 fall 
+: 434 8 0 to 
+: 443 14 12 pieces
+: 458 43 12 ~ 
+- 511
+: 534 16 10 How 
+: 551 7 12 can 
+: 560 13 14 I 
+: 575 12 12 be 
+: 588 15 9 just 
+: 604 12 7 your 
+: 618 31 5 friend? 
+- 659
+: 685 11 12 You 
+: 697 16 12 want 
+: 715 9 9 me 
+: 726 9 10 to 
+: 736 19 12 act 
+: 757 10 12 like 
+: 769 18 14 we’ve 
+: 788 6 12 never
+: 795 3 11 ~ 
+: 800 26 11 kissed 
+- 836
+: 845 9 12 You 
+: 855 6 14 want 
+: 862 7 12 me 
+: 870 12 14 to 
+: 883 5 4 forget
+: 889 9 4 ~ 
+* 899 6 14 (to 
+* 907 3 4 forget)
+* 911 16 4 ~ 
+- 929
+: 931 6 7 Pretend
+: 938 8 9 ~ 
+: 948 9 10 we’ve 
+: 959 4 14 never
+: 965 9 12 ~ 
+: 976 10 12 met 
+: 987 4 14 (never
+: 992 3 12 ~ 
+: 996 12 12 met) 
+- 1016
+: 1019 5 10 And 
+: 1025 9 12 I’ve 
+: 1035 34 14 tried 
+: 1070 5 13 and 
+: 1076 3 14 I’ve 
+: 1080 28 16 tried, 
+: 1120 2 14 but 
+: 1123 13 16 I 
+: 1137 5 14 haven’t
+: 1144 6 12 ~ 
+: 1152 29 12 yet 
+- 1186
+: 1188 10 10 You 
+: 1199 9 12 walk 
+: 1210 35 14 by 
+: 1246 13 14 and 
+: 1260 18 12 I 
+: 1279 13 12 fall 
+: 1293 6 9 to 
+: 1300 7 7 pieces
+: 1308 36 5 ~ 
+- 1384
+: 1561 40 0 I 
+: 1602 34 2 fall 
+: 1643 9 0 to 
+: 1654 12 12 pieces
+: 1667 39 12 ~ 
+- 1716
+: 1745 10 11 Each 
+: 1757 16 12 time 
+: 1774 6 14 someone
+: 1782 13 12 ~ 
+: 1797 20 12 speaks 
+: 1818 9 11 your 
+: 1828 9 9 name 
+: 1840 11 12 (speaks 
+: 1852 7 11 your 
+: 1861 26 9 name) 
+- 1897
+: 1907 38 0 I 
+: 1946 25 2 fall 
+: 1980 16 0 to 
+: 1998 13 12 pieces
+: 2012 40 12 ~ 
+- 2062
+* 2082 20 10 Time 
+* 2103 5 12 only
+* 2109 15 14 ~ 
+* 2126 13 12 adds 
+: 2140 15 9 to 
+: 2157 6 7 the 
+: 2164 33 5 flame 
+- 2217
+: 2237 10 12 You 
+: 2248 13 12 tell 
+: 2270 11 9 me 
+: 2282 7 10 to 
+: 2290 23 12 find 
+: 2314 6 12 someone
+: 2321 15 14 ~ 
+: 2337 5 12 else 
+: 2343 11 11 to 
+: 2356 29 11 love 
+- 2394
+: 2397 7 12 Someone
+: 2406 7 14 ~ 
+: 2415 5 12 who’ll 
+: 2422 12 14 love 
+: 2436 5 4 me 
+: 2443 10 4 too 
+: 2454 5 14 (love 
+: 2460 4 4 me 
+: 2466 12 4 too) 
+- 2479
+: 2481 8 10 The 
+: 2490 11 12 way 
+: 2502 11 14 you 
+: 2514 9 13 used 
+: 2524 5 14 to 
+: 2530 9 16 do 
+: 2540 5 14 (used 
+: 2546 3 16 to 
+: 2550 11 14 do) 
+- 2567
+: 2570 7 10 But 
+: 2578 8 12 each 
+: 2587 35 14 time 
+: 2623 7 13 I 
+: 2631 4 14 go 
+: 2637 27 16 out 
+: 2674 10 14 with 
+: 2686 4 16 someone
+: 2692 8 14 ~ 
+: 2701 31 12 new 
+- 2740
+: 2743 11 10 You 
+: 2755 7 12 walk 
+: 2764 32 14 by 
+: 2797 5 14 and 
+: 2804 25 12 I 
+: 2830 7 12 fall 
+: 2838 3 9 to 
+: 2845 7 7 pieces
+: 2858 31 5 ~ 
+- 2899
+: 2915 11 10 You 
+: 2927 9 12 walk 
+: 2938 34 14 by 
+: 2973 3 14 and 
+: 2983 17 12 I 
+* 3001 18 12 fall 
+* 3020 8 9 to 
+* 3030 8 7 pieces
+* 3039 47 5 ~ 
+E

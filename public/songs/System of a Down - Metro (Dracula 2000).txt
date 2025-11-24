@@ -1,0 +1,262 @@
+#ARTIST:System of a Down
+#TITLE:Metro (Dracula 2000)
+#MP3:System of a Down - Metro (Dracula 2000).mp3
+#CREATOR:FaKK
+#EDITION:Dracula 2000 Soundtrack
+#GENRE:Metal
+#YEAR:2001
+#LANGUAGE:English
+#BPM:368
+#GAP:40000
+#VIDEO:a=YWHbVYBAj6g,co=https://m.media-amazon.com/images/I/61vY5jkeMYL.jpg,bg=system-of-a-down-53dff3149ce3f.jpg
+: 0 15 -5 I’m 
+: 16 7 -7 a
+: 24 7 -7 lo
+* 32 20 -5 one 
+- 54
+: 56 3 -7 Sit
+: 60 3 -5 ting 
+: 64 3 -5 with 
+: 68 3 -5 my 
+: 72 5 -4 bro
+: 78 7 -5 ken 
+* 86 16 -5 glass 
+- 112
+: 132 7 -7 My 
+: 140 13 -5 four 
+* 154 24 0 walls 
+- 178
+: 180 3 -4 Fo
+: 184 2 -4 low 
+: 187 7 -4 me 
+: 195 4 -7 through 
+* 200 10 -4 my 
+* 212 15 -5 past 
+- 237
+: 274 3 -5 I 
+: 278 3 -7 was 
+: 282 3 -5 on 
+: 286 3 -7 a 
+: 290 3 -5 pa
+: 294 6 -7 ris 
+* 301 14 -5 train 
+- 325
+: 338 3 0 I 
+: 342 7 -2 e
+: 350 7 0 merged 
+: 358 7 -2 in 
+: 366 5 0 lon
+: 372 5 -2 don 
+* 378 12 -5 rain 
+- 390
+: 392 7 -5 And 
+: 400 6 -5 you 
+: 407 4 -5 wai
+: 412 3 -7 ting 
+: 416 11 -5 there 
+- 428
+: 430 3 -5 Swim
+: 434 3 -5 ming 
+: 438 6 -5 through 
+: 445 3 -4 ap
+: 449 3 -4 pol
+: 453 3 -4 o
+: 457 7 -4 gie
+* 465 15 -5 es 
+- 490
+: 528 1 7 I 
+: 530 3 7 re
+: 534 3 7 mem
+: 538 7 7 ber 
+: 546 6 7 sear
+: 553 5 7 ching 
+: 559 5 7 for 
+: 565 6 7 the 
+: 572 3 7 per
+: 576 5 7 fect 
+: 582 12 7 words 
+- 604
+: 631 1 5 I 
+: 633 3 5 was 
+: 637 3 5 hop
+: 641 5 5 ing 
+: 647 5 7 you 
+: 653 6 7 might 
+: 660 7 3 change 
+: 668 6 2 your 
+* 675 16 0 mind 
+- 701
+: 728 2 7 I 
+: 731 2 7 re
+: 734 3 7 mem
+: 738 5 7 ber 
+: 744 2 7 a 
+: 747 5 7 sol
+: 753 6 7 dier 
+: 760 5 7 stan
+: 766 7 7 ding 
+: 774 5 7 next 
+: 780 3 7 to 
+* 784 20 7 me 
+- 814
+: 824 7 5 Ri
+: 832 5 5 ding 
+: 838 6 5 on 
+: 845 5 5 the 
+: 851 7 7 met
+: 859 10 3 ro
+: 870 5 2 o
+* 876 52 0 o 
+- 977
+: 1164 7 3 I 
+: 1172 7 3 was 
+: 1180 7 3 smi
+: 1188 7 0 ling 
+: 1196 7 0 as 
+: 1204 7 0 you 
+: 1212 3 -2 took 
+: 1216 7 0 my 
+: 1224 8 0 hand 
+- 1241
+: 1244 7 3 Saw 
+: 1252 7 0 the 
+: 1260 7 0 moon 
+: 1268 7 0 we 
+: 1276 3 -2 spoke 
+: 1280 7 0 in 
+: 1288 8 0 france 
+- 1305
+: 1308 7 3 You 
+: 1316 7 0 were 
+: 1324 7 0 past 
+: 1332 7 0 the 
+: 1340 3 -2 shal
+: 1344 7 0 low 
+: 1352 8 0 words 
+- 1367
+: 1370 5 4 Years 
+: 1376 7 5 have 
+: 1384 9 4 passed 
+: 1394 7 0 and 
+: 1402 5 4 still 
+: 1408 6 5 the 
+* 1415 15 0 hurt 
+- 1432
+: 1434 7 3 You 
+: 1442 7 0 were 
+: 1450 7 0 past 
+: 1458 6 0 the 
+: 1465 4 -2 shal
+: 1470 7 0 low 
+: 1478 8 0 words 
+- 1493
+: 1496 5 4 Years 
+: 1502 7 5 have 
+: 1510 9 4 passed 
+: 1520 7 0 and 
+: 1528 5 4 still 
+: 1534 6 5 the 
+* 1541 16 0 hurt 
+- 1559
+: 1561 3 7 I 
+: 1565 3 5 can 
+: 1569 3 7 see 
+: 1573 3 5 you 
+* 1577 15 7 now 
+- 1592
+: 1593 3 7 Smi
+: 1597 3 5 ling 
+: 1601 3 7 as 
+: 1605 3 5 i 
+: 1609 7 7 pulled 
+: 1617 3 5 a
+: 1621 5 7 wa
+: 1627 8 10 y 
+- 1645
+: 1656 12 7 So
+: 1671 17 7 rry 
+- 1690
+: 1692 1 7 I 
+: 1694 3 7 re
+: 1698 3 7 mem
+: 1702 5 7 ber 
+: 1708 3 7 the 
+: 1712 5 7 le
+: 1718 5 7 ter 
+: 1724 5 7 wrin
+: 1730 6 7 kled 
+: 1737 1 7 in 
+: 1739 5 7 my 
+: 1745 12 7 hand 
+- 1767
+: 1794 5 5 “Ill 
+: 1800 5 5 love 
+: 1806 5 5 you 
+: 1812 5 7 al
+: 1818 7 7 ways” 
+: 1826 5 3 filled 
+: 1832 7 2 my 
+* 1840 16 0 eyes 
+- 1866
+: 1895 2 7 I 
+: 1898 3 7 re
+: 1902 2 7 mem
+: 1905 5 7 ber 
+: 1911 3 7 the 
+: 1915 8 7 night 
+: 1924 3 7 we 
+: 1928 9 7 walked 
+: 1938 1 8 a
+: 1940 7 7 long 
+: 1948 3 5 the 
+* 1952 20 3 Seine 
+- 1982
+: 1990 7 5 Ri
+: 1998 7 5 ding 
+: 2006 5 5 on 
+: 2012 4 5 the 
+: 2017 10 7 met
+: 2028 8 3 ro
+: 2037 5 2 o
+* 2043 45 0 o 
+- 2137
+: 2784 1 7 I 
+: 2786 2 7 re
+: 2789 2 7 mem
+: 2792 3 7 ber 
+: 2796 3 7 a 
+: 2800 5 7 fee
+: 2806 5 7 ling 
+: 2812 5 7 com
+: 2818 5 7 ing 
+: 2824 3 7 ov
+: 2828 4 7 er 
+: 2833 12 7 me 
+- 2855
+: 2877 2 7 Then 
+: 2880 3 7 the 
+: 2884 3 7 sol
+: 2888 5 7 dier 
+: 2894 5 7 turned 
+: 2900 5 7 and 
+: 2906 6 7 walked 
+: 2913 3 7 a
+* 2917 16 7 way 
+- 2943
+* 2968 16 7 Fuck 
+* 2992 16 7 you 
+- 3009
+: 3011 5 7 For 
+: 3017 5 7 lov
+: 3023 12 7 ing 
+* 3036 26 7 me 
+- 3062
+: 3064 6 5 Ri
+: 3071 5 5 ding 
+: 3077 6 5 on 
+: 3084 5 5 the 
+: 3090 9 7 me
+: 3100 7 3 tro
+: 3108 6 2 o
+* 3115 28 0 o 
+E

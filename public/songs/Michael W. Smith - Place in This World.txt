@@ -1,0 +1,330 @@
+#ARTIST:Michael W. Smith
+#TITLE:Place in This World
+#MP3:Michael W. Smith - Place in This World.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Michael W. Smith - Place in This World [CO].jpg
+#BACKGROUND:Michael W. Smith - Place in This World [BG].jpg
+#GENRE:Rock, Pop Rock
+#YEAR:1990
+#LANGUAGE:English
+#BPM:386.72
+#GAP:17150
+#VIDEO:v=LpXMnY_t03M,co=go-west-young-man-60bcde5d75e6c.jpg,bg=https://www.ccmmagazine.com/wp-content/uploads/2018/12/Michael-W-Smith-2018.jpg
+: 0 4 7 The 
+: 5 10 7 wind 
+: 17 6 7 is 
+: 27 10 7 mo
+: 37 9 9 ving 
+- 56
+: 65 3 11 But 
+: 71 9 2 I 
+: 85 3 7 am 
+: 91 8 4 stan
+: 99 7 4 ding 
+: 110 12 5 still
+- 132
+: 169 3 7 A 
+: 175 6 7 life 
+: 186 4 4 of 
+: 195 10 9 pa
+: 205 9 9 ges 
+- 224
+: 244 7 7 Wai
+: 251 6 9 ting 
+: 260 8 7 to 
+: 277 7 4 be 
+: 287 9 5 filled
+- 306
+: 339 3 7 A 
+: 346 12 7 heart 
+: 362 3 0 that’s 
+: 368 10 7 hope
+: 378 9 9 ful 
+- 397
+: 405 4 0 A 
+: 411 14 2 head 
+: 428 3 4 that’s 
+: 434 6 4 full 
+: 443 4 4 of 
+: 452 20 7 dreams 
+- 482
+: 510 2 7 But 
+: 516 8 7 this 
+: 525 7 9 be
+: 536 8 9 co
+: 547 11 9 ming
+- 568
+: 584 2 7 Is 
+: 588 6 9 har
+: 597 3 7 der 
+: 602 9 7 than 
+: 615 6 4 it 
+: 626 16 5 seems 
+- 652
+: 668 15 0 Feels 
+: 686 8 9 like 
+: 729 18 0 I’m 
+- 757
+: 764 4 0 Loo
+: 768 3 2 king 
+: 775 9 2 for 
+: 787 2 2 a 
+: 789 14 2 rea
+: 803 13 7 son 
+- 826
+: 830 14 4 Roa
+: 848 7 5 ming 
+: 855 14 5 through 
+: 870 4 5 the 
+: 876 12 5 night 
+: 891 2 4 to 
+: 897 10 0 find
+- 911
+: 913 7 0 My 
+: 923 11 7 place 
+: 940 3 5 in 
+: 945 3 4 this 
+: 955 22 0 world 
+- 984
+: 987 7 4 My 
+: 997 17 4 place 
+: 1017 4 5 in 
+: 1026 8 4 this 
+: 1039 37 2 world
+: 1080 1 2 ~
+: 1083 2 0 ~
+: 1086 6 0 ~
+- 1101
+: 1104 6 2 Not 
+: 1112 1 2 a 
+: 1115 7 2 lot 
+: 1126 4 2 to 
+: 1131 9 2 lean
+: 1140 8 7 ~ 
+: 1152 7 9 on 
+- 1166
+: 1169 2 7 I 
+: 1173 17 4 need 
+: 1191 4 5 your 
+: 1195 11 5 light 
+: 1211 2 4 to 
+: 1216 12 5 help 
+: 1232 2 4 me 
+: 1238 11 0 find
+- 1251
+: 1253 6 0 My 
+: 1263 8 7 place 
+: 1273 6 5 in 
+: 1283 8 4 this 
+: 1295 20 0 world 
+- 1324
+: 1327 8 4 My 
+: 1338 15 4 place 
+: 1359 4 4 in 
+: 1367 9 4 this 
+: 1379 42 2 world
+: 1424 2 2 ~
+: 1427 2 4 ~
+: 1431 78 0 ~
+- 1560
+: 1658 1 7 If 
+: 1662 9 7 there 
+: 1677 3 7 are 
+: 1684 13 7 mil
+: 1697 12 9 lions 
+- 1719
+: 1723 19 2 Down
+: 1745 3 4 ~ 
+: 1751 7 4 on 
+: 1760 5 4 their 
+: 1769 26 5 knees 
+- 1805
+: 1831 6 7 A
+: 1837 5 7 mong 
+: 1844 7 9 the 
+: 1853 10 9 ma
+: 1863 9 9 ny 
+- 1882
+: 1902 10 9 Can 
+: 1914 3 9 you 
+: 1919 10 7 still 
+: 1933 7 4 hear 
+: 1942 14 4 me? 
+- 1972
+: 2002 9 7 Hear 
+: 2013 8 7 me 
+: 2028 7 7 as
+: 2035 7 9 king 
+- 2052
+: 2060 16 7 Where 
+: 2081 3 4 do 
+: 2087 13 4 I 
+: 2103 3 7 be
+: 2108 22 5 long 
+- 2140
+: 2168 3 5 Is 
+: 2172 9 7 there 
+: 2182 1 7 a 
+: 2194 9 9 vi
+: 2203 9 9 sion
+- 2222
+: 2236 3 7 That 
+: 2243 6 9 I 
+: 2254 3 7 can 
+: 2260 11 7 call 
+: 2276 4 5 my 
+: 2286 15 5 own? 
+- 2311
+: 2325 12 11 Show 
+: 2343 3 9 me 
+: 2396 11 0 I’m 
+- 2418
+: 2422 4 0 Loo
+: 2426 4 2 king 
+: 2433 9 2 for 
+: 2446 2 2 a 
+: 2448 12 2 rea
+: 2460 11 7 son 
+- 2481
+: 2485 11 4 Roa
+: 2496 11 5 ming 
+: 2512 15 5 through 
+: 2528 3 5 the 
+: 2534 12 5 night 
+: 2550 2 5 to 
+: 2555 8 0 find 
+- 2569
+: 2571 6 0 My 
+: 2581 8 7 place 
+: 2591 5 5 in 
+: 2601 5 4 this 
+: 2611 23 0 world 
+- 2640
+: 2642 7 4 My 
+: 2653 19 5 place 
+: 2677 4 4 in 
+: 2686 4 4 this 
+: 2695 40 2 world
+: 2738 2 2 ~
+: 2742 2 0 ~
+: 2745 13 0 ~
+- 2760
+: 2762 5 2 Not 
+: 2769 2 2 a 
+: 2773 7 2 lot 
+: 2783 3 2 to 
+: 2787 9 2 lean
+: 2798 7 7 ~ 
+: 2809 6 7 on 
+- 2824
+: 2827 2 7 I 
+: 2830 14 7 need 
+: 2846 5 4 your 
+: 2852 11 5 light 
+: 2868 2 5 to 
+: 2873 12 4 help 
+: 2888 3 4 me 
+: 2894 11 0 find
+- 2908
+: 2910 7 0 My 
+: 2920 8 7 place 
+: 2937 4 4 in 
+: 2942 2 4 this 
+: 2947 25 0 world 
+- 2981
+: 2985 7 5 My 
+: 2996 17 5 place 
+: 3015 5 5 in 
+: 3025 5 4 this 
+: 3038 38 2 world
+: 3081 4 2 ~
+: 3087 3 2 ~
+: 3092 84 2 ~
+- 3227
+: 3750 4 4 Loo
+: 3754 4 4 king 
+: 3761 12 4 for 
+: 3774 1 2 a 
+: 3777 12 4 rea
+: 3789 11 7 son 
+- 3812
+: 3816 15 7 Roa
+: 3834 6 7 king 
+: 3841 14 7 through 
+: 3858 2 7 the 
+: 3863 12 7 night 
+: 3879 2 5 to 
+: 3885 9 2 find
+- 3899
+: 3901 8 2 My 
+: 3911 10 7 place 
+: 3921 6 7 in 
+: 3931 7 5 this 
+: 3939 26 2 world 
+- 3973
+: 3976 7 2 My 
+: 3987 18 2 place 
+: 4006 6 7 in 
+: 4017 9 5 this 
+: 4029 36 4 world
+: 4068 3 4 ~
+: 4072 2 7 ~
+: 4076 10 2 ~
+- 4093
+: 4096 4 4 Not 
+: 4106 3 4 a
+: 4109 3 4  lot 
+: 4116 3 4 to 
+: 4122 5 4 lean
+: 4131 3 7 ~ 
+: 4137 10 7 on
+- 4155
+: 4158 3 7 I 
+: 4164 15 7 need 
+: 4182 2 7 your 
+: 4187 12 7 light 
+: 4202 3 7 to 
+: 4208 12 7 help 
+: 4224 2 7 me 
+: 4229 9 4 find 
+- 4244
+: 4246 7 2 My 
+: 4257 8 7 place 
+: 4271 6 5 in 
+: 4284 4 2 this 
+: 4290 20 2 world 
+- 4318
+: 4321 7 2 My 
+: 4332 10 2 place 
+: 4358 4 4 in 
+: 4364 2 5 this 
+: 4371 58 4 world 
+- 4433
+: 4435 6 4 Loo
+: 4441 5 4 king 
+: 4449 11 4 for 
+: 4462 1 2 a 
+: 4464 14 4 rea
+: 4478 14 7 son 
+- 4501
+: 4504 12 7 Roa
+: 4516 11 7 king 
+: 4531 6 7 through 
+: 4548 2 7 the 
+: 4553 6 9 night 
+: 4563 5 7 to 
+: 4574 10 2 find
+- 4588
+: 4590 6 2 My 
+: 4601 7 2 place 
+: 4612 6 7 in 
+: 4623 5 2 this 
+: 4632 14 2 world
+: 4646 14 2 ~
+- 4664
+: 4666 6 2 My 
+: 4676 20 2 place 
+: 4700 4 7 in 
+: 4709 4 5 this 
+: 4717 165 4 world 
+E

@@ -1,0 +1,298 @@
+#ARTIST:Bob Dylan
+#TITLE:Love Minus Zero
+#MP3:Bob Dylan - Love Minus Zero.mp3
+#CREATOR:choosie
+#GENRE:Folk Rock
+#YEAR:1965
+#LANGUAGE:English
+#BPM:250.56
+#GAP:4400
+#VIDEO:a=7ZzyRcySgK8,co=https://i.discogs.com/OoFxd4YZ79XrVI4gW-Ow13yRTWC_ROi67gvnu5ueGXY/rs:fit/g:sm/q:90/h:585/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzUw/NTgtMTMwODA0MjM2/MC5qcGVn.jpeg,bg=bob-dylan-4ea5a290624b4.jpg,preview=4.28,medley=574-1678
+: 0 2 4 My 
+: 4 8 4 love, 
+: 20 2 4 she 
+: 24 4 4 speaks 
+: 30 4 8 like 
+: 38 2 11 si
+: 42 6 11 lence 
+- 50
+: 78 2 11 With
+: 82 2 13 out 
+: 86 4 13 i
+: 92 2 13 deals
+: 96 2 11 ~ 
+: 100 2 11 or 
+: 104 4 11 vio
+: 110 6 11 lence 
+- 118
+: 140 2 11 She 
+: 144 1 13 does
+: 146 1 13 n’t 
+: 148 4 13 have 
+: 154 2 9 to 
+: 158 2 13 say 
+: 162 2 9 she’s 
+: 166 2 11 faith
+: 170 2 8 ful
+: 174 4 4 ~ 
+- 180
+: 190 2 6 Yet 
+: 194 2 8 she’s 
+* 198 6 9 true 
+: 206 4 8 like 
+: 214 4 6 ice, 
+: 222 4 4 like 
+: 230 2 6 fi
+: 234 4 6 re 
+- 240
+: 298 2 4 Peo
+: 302 6 4 ple 
+: 312 4 4 car
+: 318 4 8 ry 
+: 324 4 11 ro
+: 330 6 11 ses 
+- 338
+: 364 2 11 And 
+: 368 2 13 make 
+: 372 2 13 pro
+: 376 1 13 mi
+: 378 4 13 ses 
+: 384 2 11 by 
+: 388 1 9 the 
+: 390 2 11 ho
+: 394 10 11 urs 
+- 406
+: 430 2 13 My 
+: 434 2 13 love, 
+: 438 2 11 she 
+* 442 6 13 laughs 
+: 450 2 11 like 
+: 454 2 9 the 
+: 459 3 11 flo
+: 464 6 4 wers 
+- 472
+: 486 2 8 Va
+: 490 2 9 len
+: 494 2 9 tines
+: 498 4 8 ~ 
+: 510 4 6 can’t 
+: 516 2 6 buy 
+: 520 6 4 her 
+- 528
+: 574 2 8 In 
+: 578 2 6 the 
+* 582 6 4 dime 
+* 590 6 4 stores 
+: 598 6 4 and 
+: 606 4 8 bus 
+: 612 2 11 sta
+: 616 6 11 tions 
+- 624
+: 652 2 11 Peo
+: 656 4 13 ple 
+: 664 1 13 talk 
+: 666 3 13 of 
+: 670 2 11 si
+: 674 2 9 tu
+: 678 2 11 a
+: 682 8 11 tions 
+- 692
+: 718 2 11 Read 
+: 722 4 13 books, 
+: 728 2 11 re
+: 732 4 13 peat 
+: 738 2 9 quo
+: 742 2 11 ta
+: 746 8 4 tions 
+- 756
+: 766 2 9 Draw 
+: 770 2 8 con
+: 774 4 9 clu
+: 780 6 8 sions 
+: 790 3 9 o
+: 794 3 8 ~n 
+: 798 4 4 the 
+* 804 10 6 wall 
+- 816
+: 872 8 4 Some 
+: 882 2 4 speak 
+: 886 8 4 of 
+: 896 4 8 the 
+: 902 2 11 fu
+: 906 6 11 ture 
+- 914
+* 940 2 13 My 
+* 944 6 13 love, 
+: 954 2 13 she 
+: 958 4 11 speaks 
+: 966 2 11 soft
+: 970 8 11 ly 
+- 980
+: 996 1 11 She 
+: 998 4 13 knows 
+: 1004 4 13 there’s 
+: 1010 2 9 no 
+: 1014 4 11 suc
+: 1020 2 13 cess 
+: 1024 2 9 like 
+: 1030 2 11 fail
+: 1034 2 8 ure
+: 1038 4 4 ~ 
+- 1044
+: 1054 2 6 And 
+: 1058 2 8 that 
+: 1062 2 9 fail
+: 1066 2 9 ure’s 
+: 1070 6 8 no 
+: 1078 4 6 suc
+: 1084 2 6 cess 
+: 1088 2 4 at 
+: 1092 6 4 all 
+- 1100
+: 1150 1 8 The
+: 1152 6 6 ~ 
+: 1160 2 4 cloak 
+: 1164 6 4 and 
+: 1172 6 4 dag
+: 1180 6 8 ger 
+: 1188 2 11 dan
+: 1192 8 11 gles 
+- 1202
+: 1228 2 11 Ma
+: 1232 6 13 dams 
+: 1240 4 13 light 
+: 1246 4 11 the 
+* 1252 2 11 can
+* 1256 8 11 dles 
+- 1266
+: 1292 2 11 In 
+: 1296 1 13 ce
+: 1298 2 13 re
+: 1302 1 13 mo
+: 1304 2 13 nies 
+: 1308 2 11 of 
+: 1312 2 9 the 
+: 1316 4 11 horse
+: 1322 6 11 men 
+- 1330
+: 1344 1 9 E
+: 1346 1 9 ven 
+: 1348 4 8 the 
+: 1354 4 9 pawn 
+: 1360 4 8 must 
+: 1366 4 6 hold 
+: 1372 6 4 a 
+: 1380 8 6 grudge 
+- 1390
+* 1448 2 4 Sta
+* 1452 8 4 tues 
+: 1464 2 4 made 
+: 1468 6 8 of 
+: 1476 6 11 match
+: 1484 6 11 sticks 
+- 1492
+: 1516 2 11 Crum
+: 1520 1 13 ble 
+: 1522 6 13 in
+: 1530 4 13 to 
+: 1536 1 11 one 
+: 1538 1 9 a
+: 1540 1 11 no
+: 1542 8 11 ther 
+- 1552
+: 1572 2 11 My 
+: 1576 4 13 love 
+: 1582 6 13 winks, 
+: 1590 2 11 she 
+: 1594 2 13 does 
+: 1598 6 11 not 
+: 1606 2 11 bo
+: 1610 1 8 ther
+: 1612 4 4 ~ 
+- 1618
+: 1632 2 8 She 
+: 1636 6 9 knows 
+: 1644 2 9 too 
+: 1648 4 9 much 
+: 1654 1 4 to 
+: 1656 2 6 ar
+: 1660 2 6 gue 
+: 1664 2 6 or 
+* 1668 2 4 to 
+* 1672 6 4 judge 
+- 1680
+: 2012 2 8 The
+: 2016 6 6 ~ 
+: 2024 6 4 bridge 
+: 2032 2 4 at 
+: 2036 6 4 mid
+: 2044 6 8 night 
+: 2052 2 11 trem
+: 2056 8 11 bles 
+- 2066
+: 2092 2 11 The 
+: 2096 2 13 coun
+: 2100 6 13 try 
+* 2108 2 13 doc
+* 2112 2 11 tor 
+: 2116 4 11 ram
+: 2122 8 11 bles 
+- 2132
+: 2150 2 11 Ban
+: 2154 2 13 kers’ 
+: 2158 2 13 nie
+: 2162 4 13 ces 
+: 2168 4 11 seek 
+: 2176 2 9 per
+: 2180 2 11 fec
+: 2184 1 8 tion
+: 2186 4 4 ~ 
+- 2192
+: 2204 2 9 Ex
+: 2208 2 9 pect
+: 2212 1 6 ing 
+: 2214 4 9 all 
+: 2220 1 9 the 
+: 2222 4 8 gifts 
+: 2228 2 4 that 
+* 2232 1 6 wise
+* 2234 4 9 ~ 
+* 2240 6 4 men 
+: 2248 6 6 bring 
+- 2256
+: 2300 6 6 The 
+: 2308 6 4 wind 
+: 2316 10 4 howls 
+: 2328 3 4 like 
+: 2332 6 8 a 
+: 2340 2 11 ham
+: 2344 8 11 mer 
+- 2354
+: 2388 1 11 And 
+: 2390 1 13 the 
+: 2392 4 13 night 
+: 2398 2 13 was
+: 2402 4 11 ~ 
+* 2408 2 11 rai
+* 2412 6 11 ny 
+- 2420
+: 2444 2 11 My 
+: 2448 6 13 love, 
+: 2456 2 13 she’s 
+: 2460 6 13 like 
+: 2468 2 11 some 
+: 2472 2 11 ra
+: 2476 1 8 ven
+: 2478 4 4 ~ 
+- 2484
+: 2492 2 8 At 
+: 2496 2 8 my 
+: 2500 2 9 win
+: 2504 4 9 dow 
+* 2512 1 4 with 
+* 2514 1 6 a 
+* 2516 10 6 bro
+* 2528 2 4 ~
+* 2532 1 4 ken 
+* 2534 6 4 wing. 
+E

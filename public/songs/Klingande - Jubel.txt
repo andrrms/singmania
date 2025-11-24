@@ -1,0 +1,117 @@
+#ARTIST:Klingande
+#TITLE:Jubel
+#MP3:Klingande - Jubel.mp3
+#CREATOR:Fepo
+#GENRE:Pop
+#YEAR:2013
+#LANGUAGE:English
+#BPM:250
+#GAP:12250
+#VIDEO:v=b6vSf0cA9qY,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/38/e8/5438e81b-9389-9c1d-b881-2906fb1eb407/13UAAIM67649.rgb.jpg/5000x5000bb.jpg,bg=klingande-530ba5e523300.jpeg
+#START:5.0
+: 0 7 0 Save 
+: 16 3 0 me
+: 20 8 2 ~ 
+- 30
+: 32 8 0 Save 
+: 48 3 0 me
+: 52 8 2 ~ 
+- 62
+: 64 2 4 Sa
+: 68 2 5 ~
+: 72 2 4 ~
+: 76 2 5 ~
+: 80 2 4 ~
+: 84 2 5 ~
+: 88 2 4 ~
+: 92 2 5 ~ve 
+: 96 7 7 me
+: 104 6 12 ~ 
+- 112
+: 648 5 2 Save 
+: 656 5 0 me 
+- 663
+* 1212 9 9 Eh 
+- 1223
+: 1244 8 9 Eh 
+- 1254
+: 1276 8 9 Eh 
+- 1286
+: 1304 8 9 Eh 
+- 1314
+F 1512 3 0 One, 
+F 1520 3 0 two, 
+F 1528 3 0 three, 
+F 1536 3 0 four 
+- 1541
+F 1544 3 0 One, 
+F 1552 3 0 two, 
+F 1560 3 0 three, 
+F 1568 3 0 four 
+- 1573
+: 1708 2 0 You 
+: 1712 2 2 think 
+: 1716 1 0 I 
+: 1718 3 2 don’t 
+: 1724 4 4 laugh 
+- 1730
+: 1732 6 0 Oh, 
+: 1740 2 0 do 
+: 1744 2 2 things 
+: 1748 1 0 I 
+: 1750 3 2 can 
+: 1756 4 4 like 
+: 1764 4 0 so 
+- 1770
+: 1772 2 7 Why 
+: 1776 2 2 are 
+: 1780 2 2 we 
+: 1784 4 2 lo
+: 1789 4 0 sing 
+: 1796 7 4 ti
+: 1804 3 5 ~
+: 1808 3 4 ~
+: 1812 7 0 ~me 
+- 1821
+: 1836 2 7 I 
+: 1840 2 2 long 
+: 1844 1 2 to 
+: 1846 4 2 get 
+: 1852 6 4 up 
+- 1859
+: 1860 5 0 Oh, 
+: 1868 2 7 bring 
+: 1872 2 2 me 
+: 1876 1 2 what 
+: 1878 3 2 I 
+: 1884 4 4 need 
+: 1892 4 0 so 
+- 1898
+: 1900 3 7 Why 
+: 1904 2 2 are 
+: 1908 2 2 we 
+: 1912 3 2 lo
+: 1917 3 0 sing 
+: 1924 7 -1 ti
+: 1932 13 0 ~
+: 1948 6 4 ~me 
+- 1956
+: 1996 2 -1 It’s 
+: 2000 2 0 like 
+: 2004 2 0 I’ve 
+: 2008 4 0 seen 
+: 2016 2 0 the 
+: 2020 4 -3 light 
+- 2026
+: 2028 2 -1 You 
+: 2032 2 -1 real
+: 2036 2 -1 ly 
+: 2040 2 -1 have 
+: 2044 2 -1 ne
+: 2048 2 0 ver 
+: 2052 3 -1 kno
+: 2056 8 0 ~wn 
+- 2066
+: 2600 4 2 Save 
+: 2608 5 0 me 
+E

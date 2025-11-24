@@ -1,0 +1,163 @@
+#ARTIST:The Wiggles
+#TITLE:Rock-A-Bye Your Bear
+#MP3:The Wiggles - Rock-A-Bye Your Bear.mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#YEAR:2013
+#LANGUAGE:English
+#BPM:240
+#GAP:8910
+#VIDEO:a=wjb5UNPFZqk,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 1 2 E
+: 2 3 4 ~
+: 6 3 4 very
+: 10 3 4 bo
+: 14 3 2 dy 
+: 18 7 1 clap 
+- 27
+: 64 1 2 E
+: 66 3 4 ~
+: 70 3 4 very
+* 74 3 4 bo
+: 78 3 4 dy 
+: 82 8 9 sing 
+- 92
+: 98 4 4 La 
+: 103 2 4 la 
+: 106 4 4 la 
+: 111 2 4 la 
+: 114 12 9 la 
+- 128
+* 130 7 6 Bow 
+: 138 3 6 to 
+: 142 3 6 your 
+: 146 5 6 part
+: 152 8 9 ner 
+- 162
+: 192 1 2 Then
+: 194 3 4 ~ 
+: 198 3 4 you 
+: 202 5 4 turn 
+* 208 1 2 a
+: 210 11 1 round 
+- 223
+: 256 1 6 Hands
+: 258 7 8 ~ 
+: 266 5 8 in 
+: 272 1 8 the 
+: 274 11 8 air 
+- 287
+: 288 1 4 Rock
+: 290 5 6 ~ 
+: 296 1 6 a
+* 298 4 6 bye 
+: 303 2 6 your 
+: 306 10 6 bear 
+- 318
+: 320 1 2 Bear’s
+* 322 7 4 ~ 
+: 330 4 4 now 
+: 335 2 2 a
+: 338 8 1 sleep 
+- 348
+F 354 6 9 Shh 
+F 362 6 9 shh 
+F 370 6 9 shh 
+- 378
+: 384 1 2 Bear’s
+: 386 7 4 ~ 
+: 394 4 4 now 
+: 399 2 2 a
+: 402 8 1 sleep 
+- 412
+F 418 6 9 Shh 
+F 426 6 9 shh 
+F 434 6 9 shh 
+- 442
+: 576 1 2 E
+: 578 3 4 ~
+: 582 3 4 very
+: 586 3 4 bo
+: 590 3 2 dy 
+: 594 7 1 clap 
+- 603
+: 640 1 2 E
+: 642 3 4 ~
+: 646 3 4 very
+: 650 3 4 bo
+: 654 3 4 dy 
+* 658 8 9 sing 
+- 668
+: 674 4 4 La 
+: 679 2 4 la 
+: 682 4 4 la 
+: 687 2 4 la 
+: 690 12 9 la 
+- 704
+: 706 7 6 Bow 
+: 714 3 6 to 
+: 718 3 6 your 
+* 722 5 6 part
+: 728 8 9 ner 
+- 738
+: 768 1 2 Then
+* 770 3 4 ~ 
+: 774 3 4 you 
+: 778 5 4 turn 
+: 784 1 2 a
+: 786 11 1 round 
+- 799
+: 832 1 6 Hands
+: 834 7 8 ~ 
+: 842 5 8 in 
+: 848 1 8 the 
+* 850 11 8 air 
+- 863
+: 864 1 4 Rock
+: 866 5 6 ~ 
+: 872 1 6 a
+: 874 4 6 bye 
+: 879 2 6 your 
+: 882 10 6 bear 
+- 894
+: 896 1 2 Bear’s
+: 898 7 4 ~ 
+: 906 4 4 now 
+: 911 2 2 a
+: 914 8 1 sleep 
+- 924
+F 930 6 9 Shh 
+F 938 6 9 shh 
+F 946 6 9 shh 
+- 954
+: 960 1 2 Bear’s
+: 962 7 4 ~ 
+: 970 4 4 now 
+: 975 2 2 a
+* 978 8 1 sleep 
+- 988
+F 994 6 9 Shh 
+F 1002 6 9 shh 
+F 1010 6 9 shh 
+- 1018
+: 1024 1 2 Bear’s
+: 1026 7 4 ~ 
+: 1034 4 4 now 
+: 1039 2 2 a
+: 1042 8 1 sleep 
+- 1052
+F 1058 6 9 Shh 
+F 1066 6 9 shh 
+F 1074 6 9 shh 
+- 1082
+: 1088 1 2 Bear’s
+: 1090 7 4 ~ 
+: 1098 4 4 now 
+: 1103 2 2 a
+: 1106 8 1 sleep 
+- 1116
+F 1122 6 9 Shh 
+F 1130 6 9 shh 
+F 1138 6 9 shh 
+E

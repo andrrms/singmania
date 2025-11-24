@@ -1,0 +1,460 @@
+#ARTIST:Bionic Ghost Kids
+#TITLE:Poison Ivy
+#MP3:Bionic Ghost Kids - Poison Ivy.mp3
+#CREATOR:b1991
+#COVER:Bionic Ghost Kids - Poison Ivy [CO].jpg
+#BACKGROUND:Bionic Ghost Kids - Poison Ivy [BG].jpg
+#GENRE:Screamo, Dance
+#YEAR:2008
+#LANGUAGE:English
+#BPM:266.37
+#GAP:14500
+#VIDEO:v=Utc-X66_Bkw,co=https://is1-ssl.mzstatic.com/image/thumb/Music/f7/87/cf/mzi.fpifsxol.jpg/5000x5000bb.jpg
+R 0 24 0 I 
+- 25
+R 27 3 0 Was 
+R 33 3 0 that 
+R 39 3 0 what 
+R 44 3 0 you 
+R 49 5 0 wan
+R 57 5 0 ted, 
+R 66 25 0 cry 
+- 93
+R 95 1 0 I 
+R 98 2 0 cried 
+R 102 1 0 my
+R 105 3 0 self 
+R 110 2 0 to 
+R 114 4 0 sleep 
+R 121 3 0 e
+R 126 2 0 very 
+R 130 25 0 night 
+- 156
+R 158 2 0 In 
+R 162 2 0 my 
+R 167 18 0 dreams 
+- 189
+R 191 5 0 You 
+R 198 1 0 a
+R 201 11 0 ppear 
+- 220
+R 223 3 0 You 
+R 228 1 0 and 
+R 231 14 0 me 
+- 257
+R 261 2 0 Is 
+R 265 3 0 this 
+R 270 2 0 the 
+R 274 4 0 price 
+R 281 3 0 I 
+R 286 2 0 am 
+R 290 5 0 pay
+R 296 16 0 ing 
+- 321
+R 325 2 0 Is 
+R 330 2 0 this 
+R 334 2 0 the 
+R 338 6 0 life 
+R 350 2 0 that 
+R 354 5 0 I’m 
+R 362 2 0 su
+R 366 7 0 pposed 
+R 376 4 0 to 
+R 383 3 0 live 
+- 387
+R 389 2 0 Is 
+R 393 3 0 this 
+R 398 3 0 my 
+R 403 3 0 heart 
+R 409 3 0 you 
+R 414 2 0 are 
+R 418 5 0 brea
+R 425 10 0 king 
+- 445
+R 454 2 0 Is 
+R 458 2 0 this 
+R 462 2 0 my 
+R 466 4 0 heart 
+R 473 3 0 you 
+R 478 2 0 are 
+R 482 4 0 brea
+R 489 6 0 king, 
+R 498 7 0 I
+R 507 14 0 vy! 
+- 531
+* 549 2 12 That’s 
+* 553 2 12 why 
+* 557 2 12 I 
+* 561 2 12 still 
+: 565 2 5 be
+: 569 2 5 lieve 
+: 573 2 5 you’re 
+* 577 4 7 poi
+* 583 1 7 so
+* 585 6 9 ~n, 
+: 593 5 7 I
+: 601 9 5 vy 
+- 611
+: 613 2 12 That’s 
+: 617 2 12 why 
+: 621 2 12 I 
+: 625 2 12 still 
+: 629 2 5 be
+: 633 2 5 lieve 
+: 637 2 5 that 
+: 641 4 7 you 
+: 647 1 7 ai
+: 649 5 9 ~n’t 
+: 657 6 7 right 
+: 665 2 5 for 
+: 669 5 2 me 
+- 675
+: 677 2 12 That’s 
+: 681 2 12 why 
+: 685 2 12 I 
+: 689 2 12 still 
+: 693 2 5 be
+: 697 2 5 lieve 
+: 701 2 5 you’re 
+: 704 1 5 po
+: 706 3 7 ~i
+: 711 1 7 so
+: 713 5 9 ~n, 
+: 721 5 7 I
+: 729 9 5 vy 
+- 739
+: 741 2 12 That’s 
+: 745 2 12 why 
+: 749 2 12 I 
+: 753 2 12 still 
+: 757 2 5 be
+: 761 2 5 lieve 
+: 765 2 5 that 
+: 769 5 7 you 
+: 777 1 7 a
+: 779 3 9 ~re 
+: 785 2 7 poi
+: 789 2 5 son 
+: 793 6 2 to 
+: 801 19 5 me 
+- 855
+: 1061 2 12 That’s 
+: 1065 2 12 why 
+: 1069 2 12 I 
+: 1073 2 12 still 
+: 1077 2 5 be
+: 1081 2 5 lieve 
+: 1085 2 5 you’re 
+: 1089 3 7 poi
+: 1094 1 7 so
+: 1096 6 9 ~n, 
+: 1104 6 7 I
+: 1112 10 5 vy 
+- 1123
+: 1125 2 12 That’s 
+: 1129 2 12 why 
+: 1133 2 12 I 
+: 1137 2 12 still 
+: 1141 2 5 be
+: 1145 2 5 lieve 
+: 1149 2 5 that 
+: 1153 4 7 you 
+: 1159 1 7 ai
+: 1161 5 9 ~n’t 
+: 1169 5 7 right 
+: 1177 2 5 for 
+: 1181 5 2 me 
+- 1187
+: 1189 2 12 That’s 
+: 1193 2 12 why 
+: 1197 2 12 I 
+: 1201 2 12 still 
+: 1205 2 5 be
+: 1209 2 5 lieve 
+: 1213 1 5 you’re 
+: 1215 1 5 po
+: 1217 5 7 ~i
+: 1224 1 7 so
+: 1226 5 9 ~n, 
+: 1233 6 7 I
+: 1241 9 5 vy 
+- 1251
+: 1253 2 12 That’s 
+: 1257 2 12 why 
+: 1261 1 12 I 
+: 1264 2 12 still 
+: 1268 2 5 be
+: 1272 3 5 lieve 
+: 1277 2 5 that 
+: 1281 6 7 you 
+: 1289 6 9 won’t 
+: 1297 6 7 die 
+: 1305 2 5 for 
+: 1309 5 2 me 
+- 1315
+* 1317 2 17 How 
+* 1321 2 17 does 
+* 1325 2 17 it 
+* 1329 2 17 feel 
+: 1333 2 12 to 
+: 1337 2 12 think 
+: 1341 2 12 that 
+* 1345 6 14 I 
+* 1353 5 12 still 
+* 1361 6 10 need 
+* 1369 3 10 yo
+* 1373 5 12 u? 
+- 1379
+* 1381 2 17 How 
+* 1385 2 17 can 
+* 1389 2 17 you 
+* 1393 2 17 be 
+: 1397 2 12 so 
+: 1401 2 12 blind, 
+: 1405 2 12 I 
+: 1409 5 14 won’t 
+: 1417 6 12 be
+* 1425 6 10 lieve 
+* 1433 2 9 in 
+* 1437 5 12 you! 
+- 1443
+: 1445 2 12 That’s 
+: 1449 2 12 why 
+: 1453 2 12 I 
+: 1457 2 12 still 
+: 1461 2 5 be
+: 1465 2 5 lieve 
+: 1469 2 5 you’re 
+: 1473 4 7 poi
+: 1479 1 7 so
+: 1481 6 9 ~n, 
+: 1489 6 7 I
+: 1497 9 5 vy 
+- 1507
+: 1509 2 12 That’s 
+: 1513 2 12 why 
+: 1517 2 12 I 
+: 1521 2 12 still 
+: 1525 2 5 be
+: 1529 2 5 lieve 
+: 1533 2 5 that 
+: 1537 4 7 you 
+: 1544 1 7 a
+: 1546 5 9 ~re 
+: 1553 2 7 poi
+: 1557 2 5 son 
+: 1561 5 2 to 
+: 1568 18 5 me 
+- 1621
+R 1827 25 0 I 
+- 1853
+R 1855 2 0 A
+R 1859 4 0 ddic
+R 1866 4 0 ted 
+R 1872 2 0 to 
+R 1876 5 0 I
+R 1883 6 0 vy, 
+R 1892 25 0 cry 
+- 1918
+R 1920 1 0 I 
+R 1923 1 0 cried 
+R 1926 1 0 my
+R 1928 5 0 self 
+R 1936 2 0 to 
+R 1940 5 0 sleep 
+R 1948 2 0 e
+R 1952 2 0 very 
+R 1956 24 0 night 
+- 1981
+R 1983 3 0 This 
+R 1988 3 0 so
+R 1993 11 0 rrow 
+- 2011
+R 2014 2 0 Is 
+R 2018 1 0 hur
+R 2021 1 0 ting 
+R 2024 15 0 me. 
+- 2044
+R 2046 2 0 It’s 
+R 2050 1 0 ki
+R 2053 2 0 lling 
+R 2057 14 0 me 
+- 2083
+R 2087 2 0 This 
+R 2091 2 0 is 
+R 2096 2 0 my 
+R 2100 3 0 heart 
+R 2106 3 0 that 
+R 2111 3 0 you’re 
+R 2116 5 0 brea
+R 2123 10 0 king 
+- 2143
+R 2152 2 0 This 
+R 2156 2 0 is 
+R 2160 2 0 my 
+R 2164 4 0 heart 
+R 2171 3 0 that 
+R 2176 2 0 you’re 
+R 2180 5 0 brea
+R 2187 11 0 king 
+- 2208
+R 2216 2 0 This 
+R 2220 2 0 is 
+R 2224 2 0 my 
+R 2228 3 0 heart 
+R 2234 3 0 that 
+R 2239 2 0 you’re 
+R 2243 5 0 brea
+R 2250 11 0 king 
+- 2271
+R 2279 2 0 This 
+R 2283 2 0 is 
+R 2287 2 0 my 
+R 2291 4 0 life 
+R 2297 2 0 that 
+R 2301 2 0 you’re 
+R 2305 8 0 ta
+R 2315 7 0 king, 
+R 2324 6 0 I
+R 2332 6 0 vy 
+- 2339
+: 2341 2 12 That’s 
+: 2345 2 12 why 
+: 2349 2 12 I 
+: 2353 2 12 still 
+: 2357 2 5 be
+: 2361 2 5 lieve 
+: 2365 2 5 you’re 
+: 2369 4 7 poi
+: 2375 1 7 so
+: 2377 5 9 ~n, 
+: 2385 6 7 I
+: 2393 11 5 vy 
+- 2405
+: 2407 2 12 That’s 
+: 2411 2 12 why 
+: 2415 2 12 I 
+: 2419 2 12 still 
+: 2423 2 5 be
+: 2427 2 5 lieve 
+: 2431 2 5 that 
+: 2435 4 7 you 
+: 2441 1 7 ai
+: 2443 4 9 ~n’t 
+: 2450 7 7 right 
+: 2459 2 5 for 
+: 2463 5 2 me 
+- 2469
+: 2471 2 12 That’s 
+: 2475 2 12 why 
+: 2479 2 12 I 
+: 2483 2 12 still 
+: 2487 2 5 be
+: 2491 2 5 lieve 
+: 2495 2 5 you’re 
+: 2498 1 5 po
+: 2500 2 7 ~i
+: 2504 1 7 so
+: 2506 5 9 ~n, 
+: 2514 5 7 I
+: 2521 11 5 vy 
+- 2533
+: 2535 2 12 That’s 
+: 2539 2 12 why 
+: 2543 2 12 I 
+: 2547 2 12 still 
+: 2551 2 5 be
+: 2555 2 5 lieve 
+: 2559 2 5 that 
+: 2563 6 7 you 
+: 2571 6 9 won’t 
+: 2579 6 7 die 
+: 2587 3 5 for 
+: 2592 3 2 me 
+- 2596
+: 2598 2 17 How 
+: 2602 2 17 does 
+: 2606 2 17 it 
+: 2610 2 17 feel 
+: 2614 2 12 to 
+: 2618 2 12 think 
+: 2622 2 12 that 
+: 2626 6 14 I 
+: 2634 6 12 still 
+: 2642 6 10 need 
+: 2650 2 10 yo
+: 2653 6 12 u? 
+- 2660
+: 2662 2 17 How 
+: 2666 2 17 can 
+: 2670 2 17 you 
+: 2674 2 17 be 
+: 2678 2 12 so 
+: 2682 2 12 blind, 
+: 2686 2 12 I 
+: 2690 6 14 won’t 
+: 2698 6 12 be
+: 2706 6 10 lieve 
+: 2714 2 9 in 
+: 2718 5 12 you! 
+- 2724
+: 2726 2 12 That’s 
+: 2730 2 12 why 
+: 2734 2 12 I 
+: 2738 2 12 still 
+: 2742 2 5 be
+: 2746 2 5 lieve 
+: 2750 2 5 you’re 
+: 2754 4 7 poi
+: 2760 1 7 so
+: 2762 5 9 ~n, 
+: 2770 6 7 I
+: 2778 9 5 vy 
+- 2788
+: 2790 2 12 That’s 
+: 2794 2 12 why 
+: 2798 2 12 I 
+: 2802 2 12 still 
+: 2806 2 5 be
+: 2810 2 5 lieve 
+: 2814 2 5 that 
+: 2818 5 7 you 
+: 2826 1 7 a
+: 2828 4 9 ~re 
+: 2834 2 7 poi
+: 2838 2 5 son 
+: 2842 6 2 to 
+: 2850 19 5 me 
+- 2904
+* 2970 8 2 To 
+* 2980 1 2 me
+* 2982 16 5 ~ 
+- 3033
+: 3111 2 12 That’s 
+: 3115 2 12 why 
+: 3119 2 12 I 
+: 3123 2 12 still 
+: 3127 2 5 be
+: 3131 2 5 lieve 
+: 3135 2 5 you’re 
+: 3139 4 7 poi
+: 3145 1 7 so
+: 3147 5 9 ~n, 
+: 3155 6 7 I
+: 3163 10 5 vy 
+- 3174
+: 3176 2 12 That’s 
+: 3180 2 12 why 
+: 3184 2 12 I 
+: 3188 2 12 still 
+: 3192 2 5 be
+: 3196 2 5 lieve 
+: 3200 2 5 that 
+: 3204 5 7 you 
+: 3211 1 7 a
+: 3213 5 9 ~re 
+: 3220 2 7 poi
+: 3224 2 5 son 
+: 3228 6 2 to 
+: 3236 20 5 me 
+E

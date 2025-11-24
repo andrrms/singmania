@@ -1,0 +1,110 @@
+#ARTIST:GROUPLOVE
+#TITLE:Back In The 90’s (BoJack Horseman Outro)
+#MP3:GROUPLOVE - Back In The 90’s (BoJack Horseman Outro).mp3
+#CREATOR:Hoanzl
+#COVER:GROUPLOVE - Back In The 90’s (BoJack Horseman Outro) [CO].jpg
+#BACKGROUND:GROUPLOVE - Back In The 90’s (BoJack Horseman Outro) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2014
+#LANGUAGE:English
+#BPM:420
+#GAP:1040
+#VIDEO:a=FBw-Z8ULwcc,v=rQvIR1oL1vE,co=https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2f/cc/a5/2fcca5f6-0174-272a-9013-33abe2af4e90/bojack-horseman_3000.jpg/5000x5000bb.jpg,preview=1.03,medley=0-429
+: 0 7 6 Back 
+: 16 5 6 in 
+: 24 3 4 the 
+: 29 5 6 Nine
+: 37 6 4 tees 
+- 45
+: 47 5 6 I 
+: 55 5 4 was 
+: 63 5 6 in 
+: 71 4 4 a 
+: 79 6 6 ve
+: 87 4 4 ry 
+: 95 4 6 fa
+: 103 6 8 mous 
+: 111 6 9 T
+* 119 16 9 ~
+: 137 5 9 V 
+: 148 37 4 show 
+- 187
+: 247 4 4 I’m 
+: 255 8 6 Bo
+: 270 4 6 Jack 
+: 278 3 4 the 
+: 283 7 6 Horse 
+: 295 5 9 (Bo
+: 302 4 4 Jack) 
+- 308
+: 310 4 4 Bo
+: 318 4 6 Jack 
+: 326 2 4 the 
+: 330 7 6 Horse 
+- 339
+: 343 4 4 Don’t 
+: 350 4 6 act 
+: 358 4 8 like 
+: 367 5 8 you
+* 374 14 9 ~ 
+: 390 3 9 do
+: 394 3 4 ~n’t 
+: 399 30 4 know 
+- 431
+: 510 3 4 And 
+: 514 4 4 I’m 
+: 524 5 4 try
+: 532 7 1 ing 
+: 548 6 4 to 
+: 558 4 1 hold 
+: 564 4 4 on 
+: 573 3 4 to 
+: 579 5 1 my 
+* 589 20 -6 past 
+- 611
+: 632 3 4 It’s 
+: 640 4 4 been 
+: 648 2 1 so 
+: 652 6 4 long 
+- 660
+: 662 7 4 I 
+: 678 4 1 don’t 
+: 686 4 4 think 
+: 694 5 1 I’m 
+: 702 3 4 gon
+: 706 4 6 na 
+: 714 29 6 last 
+- 745
+: 767 3 4 I 
+: 774 5 4 guess 
+: 783 5 4 I’m 
+: 790 3 1 just 
+: 795 7 4 try
+: 803 7 1 ing 
+- 812
+: 814 4 1 Make 
+: 822 3 1 you 
+: 828 4 1 un
+: 834 4 -3 der
+: 845 12 -6 stand 
+- 859
+: 869 6 -6 That 
+: 878 13 -1 I’m 
+: 894 12 -1 more 
+: 910 15 1 horse 
+* 932 2 1 than 
+: 936 2 -1 a 
+: 940 29 -3 man 
+- 971
+: 990 9 -3 Or 
+: 1006 12 -1 I’m 
+: 1022 9 -1 more 
+: 1038 7 -1 ma
+: 1046 9 1 ~n 
+: 1059 3 1 than 
+: 1064 3 -1 a 
+: 1069 27 -3 horse 
+- 1098
+: 1109 6 1 Bo
+: 1117 8 -3 Jack! 
+E

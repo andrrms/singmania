@@ -1,0 +1,554 @@
+#ARTIST:DJ BoBo
+#TITLE:Take Control
+#MP3:DJ BoBo - Take Control.mp3
+#CREATOR:Edi316
+#COVER:DJ BoBo - Take Control [CO].jpg
+#BACKGROUND:DJ BoBo - Take Control [BG].jpg
+#GENRE:Eurodance
+#YEAR:1993
+#LANGUAGE:English
+#BPM:390
+#GAP:500
+#VIDEO:v=ZZY3LAQM_8c,co=take-control-5e3d85717aaf4.jpg,bg=bobo-dj-4fddf4022dfec.jpg
+: 0 4 -1 Take 
+: 5 5 2 con
+: 12 3 4 tro
+: 16 8 6 ~l 
+: 47 4 2 of 
+: 53 6 4 your 
+: 64 6 2 mi
+: 71 6 -1 ~nd 
+- 87
+: 107 4 2 Your 
+: 113 7 4 bo
+: 121 7 4 dy 
+: 131 8 4 and 
+: 143 7 9 your 
+: 155 5 4 sou
+: 161 14 6 ~l 
+- 187
+: 191 4 -1 Take 
+: 197 5 2 con
+: 204 3 4 tro
+: 208 8 6 ~l 
+: 239 4 2 of 
+: 246 6 4 your 
+: 256 6 2 mi
+: 263 6 -1 ~nd 
+- 279
+: 299 4 2 Your 
+: 305 7 4 bo
+: 313 7 4 dy 
+: 323 8 2 and 
+: 337 2 1 you
+: 340 3 -1 ~r 
+: 348 14 -1 soul 
+- 414
+R 783 1 0 You 
+R 786 4 0 take, 
+R 792 1 0 you 
+R 795 4 0 shake, 
+R 800 1 0 you 
+R 804 4 0 break, 
+R 813 1 0 I’m 
+R 815 3 0 not 
+R 822 4 0 fake 
+- 828
+R 830 2 0 You’re 
+R 834 4 0 cool 
+R 840 2 0 the 
+R 843 3 0 way 
+R 848 2 0 you 
+R 852 5 0 move 
+R 862 1 0 no 
+R 864 4 0 more 
+R 870 2 0 mis
+R 875 3 0 takes 
+- 880
+R 882 3 0 Can’t 
+R 887 3 0 stand 
+R 894 5 0 still 
+R 902 2 0 you 
+R 906 2 0 got 
+R 911 2 0 the 
+R 915 4 0 move 
+- 927
+R 930 3 0 Feel 
+R 935 2 0 the 
+R 938 3 0 bass
+R 944 4 0 line, 
+R 954 3 0 feel 
+R 959 2 0 the 
+R 963 5 0 groove 
+- 972
+R 974 2 0 The 
+R 977 4 0 beat, 
+R 987 1 0 the 
+R 989 4 0 bass, 
+R 998 2 0 the 
+R 1001 3 0 ly
+R 1006 1 0 rics 
+R 1008 3 0 are 
+R 1014 4 0 fine 
+- 1023
+R 1025 2 0 Get 
+R 1029 2 0 on 
+R 1033 2 0 the 
+R 1037 4 0 floor 
+R 1043 3 0 you 
+R 1050 2 0 got 
+R 1056 2 0 no 
+R 1062 4 0 time 
+- 1072
+R 1074 3 0 Par
+R 1080 2 0 ty 
+R 1083 3 0 peo
+R 1088 2 0 ple 
+R 1091 2 0 I 
+R 1095 1 0 will 
+R 1097 2 0 give 
+R 1101 2 0 you 
+R 1104 2 0 a 
+R 1110 5 0 chance 
+- 1121
+R 1123 1 0 Wave 
+R 1125 2 0 up 
+R 1130 2 0 your 
+R 1133 3 0 hands 
+R 1139 3 0 and 
+R 1145 3 0 feel ... 
+- 1154
+: 1156 7 -1 E
+: 1164 3 -1 very
+: 1169 5 6 bo
+: 1175 3 6 dy 
+: 1181 3 4 take 
+: 1187 3 6 a 
+: 1194 4 2 cha
+: 1199 3 -1 ~nce 
+: 1212 10 6 wa
+: 1223 4 6 ving 
+: 1229 3 4 up 
+: 1235 3 2 your 
+: 1241 5 4 ha
+: 1247 4 6 ~nds 
+- 1262
+: 1266 7 6 Can 
+: 1278 5 6 you 
+: 1289 6 6 fee
+: 1296 3 4 ~l 
+: 1302 2 2 this 
+: 1308 5 4 tra
+: 1314 6 6 ~nce 
+- 1330
+: 1349 5 -1 E
+: 1355 3 -1 very
+: 1361 5 6 bo
+: 1367 3 6 dy 
+: 1373 3 4 take 
+: 1380 3 6 a 
+: 1385 5 2 cha
+: 1391 3 -1 ~nce 
+: 1404 10 6 wa
+: 1415 4 6 ving 
+: 1421 3 4 up 
+: 1427 3 2 your 
+: 1433 6 4 ha
+: 1440 4 6 ~nds 
+- 1453
+* 1457 7 6 Can 
+* 1469 5 6 you 
+* 1482 5 6 fee
+* 1488 3 4 ~l 
+* 1493 3 2 this 
+* 1500 4 4 tra
+* 1505 6 6 ~nce 
+- 1521
+: 1535 4 -1 Take 
+: 1541 5 2 con
+: 1548 3 4 tro
+: 1552 7 6 ~l 
+: 1582 4 2 of 
+: 1590 6 4 your 
+: 1601 5 2 mi
+: 1607 6 -1 ~nd 
+- 1623
+: 1643 4 2 Your 
+: 1649 6 4 bo
+: 1656 7 4 dy 
+: 1667 7 4 and 
+: 1679 7 9 your 
+: 1692 4 4 sou
+: 1697 14 6 ~l 
+- 1723
+: 1727 4 -1 Take 
+: 1734 4 2 con
+: 1740 3 4 tro
+: 1744 8 6 ~l 
+: 1774 4 2 of 
+: 1782 6 4 your 
+: 1793 6 2 mi
+: 1800 5 -1 ~nd 
+- 1815
+: 1835 4 2 Your 
+: 1842 6 4 bo
+: 1849 7 4 dy 
+: 1859 8 2 and 
+: 1872 3 1 you
+: 1876 3 -1 ~r 
+: 1884 14 -1 soul 
+- 1950
+R 2315 2 0 Can 
+R 2318 1 0 you 
+R 2321 3 0 see 
+R 2327 3 0 now 
+R 2333 2 0 what 
+R 2336 2 0 I’m 
+R 2343 3 0 say
+R 2348 2 0 ing 
+- 2362
+R 2366 2 0 The 
+R 2369 3 0 beat 
+R 2374 1 0 is 
+R 2377 5 0 loud 
+R 2387 2 0 and 
+R 2393 2 0 I 
+R 2398 3 0 am 
+R 2405 4 0 play
+R 2411 2 0 ing 
+- 2415
+R 2417 3 0 Play
+R 2422 2 0 ing 
+R 2425 1 0 with 
+R 2427 1 0 your 
+R 2429 4 0 life 
+R 2441 2 0 play
+R 2444 1 0 ing 
+R 2447 1 0 with 
+R 2450 1 0 your 
+R 2453 4 0 soul 
+- 2462
+R 2464 2 0 Here 
+R 2468 3 0 on 
+R 2475 3 0 stage 
+R 2480 2 0 and 
+R 2483 1 0 un
+R 2485 2 0 der 
+R 2488 4 0 my 
+R 2495 2 0 con
+R 2498 2 0 trol 
+- 2503
+R 2505 1 0 So 
+R 2507 2 0 let 
+R 2510 2 0 the 
+R 2513 2 0 rhy
+R 2516 3 0 thm 
+R 2525 3 0 take 
+R 2531 2 0 you 
+R 2537 3 0 on 
+R 2542 2 0 the 
+R 2547 4 0 floor 
+- 2555
+R 2557 2 0 With 
+R 2560 1 0 a 
+R 2562 2 0 bass 
+R 2566 2 0 and 
+R 2569 2 0 a 
+R 2572 3 0 drum 
+R 2578 2 0 that 
+R 2582 1 0 you 
+R 2584 2 0 ne
+R 2587 1 0 ver 
+R 2589 2 0 heard 
+R 2593 1 0 be
+R 2596 4 0 fore 
+- 2606
+R 2609 2 0 O
+R 2612 2 0 pen 
+R 2618 2 0 your 
+R 2621 3 0 mind 
+R 2627 1 0 cause 
+R 2630 1 0 I’m 
+R 2632 2 0 tal
+R 2635 1 0 king 
+R 2637 1 0 a
+R 2639 2 0 bout 
+R 2644 3 0 dan
+R 2651 3 0 cing 
+- 2657
+R 2659 2 0 O
+R 2663 1 0 pen 
+R 2665 2 0 your 
+R 2668 4 0 mind 
+R 2675 1 0 this 
+R 2678 1 0 is 
+R 2681 2 0 not ... 
+- 2689
+: 2692 6 -1 E
+: 2699 3 -1 very
+: 2704 5 6 bo
+: 2710 3 6 dy 
+: 2716 3 4 take 
+: 2723 3 6 a 
+: 2729 4 2 cha
+: 2734 3 -1 ~nce 
+: 2748 10 6 wa
+: 2759 4 6 ving 
+: 2765 3 4 up 
+: 2771 3 2 your 
+: 2777 5 4 ha
+: 2783 4 6 ~nds 
+- 2797
+: 2801 7 6 Can 
+: 2814 5 6 you 
+: 2825 5 6 fee
+: 2831 3 4 ~l 
+: 2837 2 2 this 
+: 2844 5 4 tra
+: 2850 6 6 ~nce 
+- 2866
+* 2884 6 -1 E
+* 2891 3 -1 very
+* 2896 6 6 bo
+* 2903 3 6 dy 
+* 2909 3 4 take 
+* 2915 3 6 a 
+* 2921 4 2 cha
+* 2926 3 -1 ~nce 
+: 2940 10 6 wa
+: 2951 4 6 ving 
+: 2957 3 4 up 
+: 2962 3 2 your 
+: 2969 5 4 ha
+: 2975 4 6 ~nds 
+- 2990
+: 2994 7 6 Can 
+: 3006 5 6 you 
+: 3017 5 6 fee
+: 3023 3 4 ~l 
+: 3029 2 2 this 
+: 3036 4 4 tra
+: 3041 6 6 ~nce 
+- 3057
+: 3070 4 -1 Take 
+: 3077 4 2 con
+: 3083 4 4 tro
+: 3088 7 6 ~l 
+: 3118 4 2 of 
+: 3125 6 4 your 
+: 3136 5 2 mi
+: 3142 6 -1 ~nd 
+- 3158
+: 3179 4 2 Your 
+: 3184 7 4 bo
+: 3192 7 4 dy 
+: 3203 8 4 and 
+: 3215 7 9 your 
+: 3227 4 4 sou
+: 3232 14 6 ~l 
+- 3258
+: 3262 4 -1 Take 
+: 3269 5 2 con
+: 3276 3 4 tro
+: 3280 8 6 ~l 
+: 3310 4 2 of 
+: 3317 6 4 your 
+: 3328 6 2 mi
+: 3335 6 -1 ~nd 
+- 3351
+: 3371 4 2 Your 
+: 3377 7 4 bo
+: 3385 7 4 dy 
+: 3394 8 2 and 
+: 3407 3 1 you
+: 3411 2 -1 ~r 
+: 3419 14 -1 soul 
+- 3485
+: 4222 4 -1 Take 
+: 4228 5 2 con
+: 4235 3 4 tro
+: 4239 8 6 ~l 
+: 4270 4 2 of 
+: 4277 6 4 your 
+: 4287 6 2 mi
+: 4294 6 -1 ~nd 
+- 4310
+* 4330 4 2 Your 
+* 4336 7 4 bo
+* 4344 7 4 dy 
+* 4355 8 4 and 
+* 4366 7 9 your 
+* 4378 5 4 sou
+* 4384 14 6 ~l 
+- 4410
+: 4414 4 -1 Take 
+: 4420 5 2 con
+: 4427 3 4 tro
+: 4431 8 6 ~l 
+: 4462 4 2 of 
+: 4469 6 4 your 
+: 4480 5 2 mi
+: 4486 6 -1 ~nd 
+- 4502
+: 4523 4 2 Your 
+: 4528 8 4 bo
+: 4537 7 4 dy 
+: 4547 8 2 and 
+: 4559 2 1 you
+: 4562 3 -1 ~r 
+: 4571 14 -1 soul 
+- 4595
+R 4622 3 0 You 
+R 4626 4 0 take, 
+R 4631 1 0 you 
+R 4634 4 0 shake, 
+R 4640 1 0 you 
+R 4644 4 0 break, 
+R 4652 1 0 I’m 
+R 4655 3 0 not 
+R 4662 4 0 fake 
+- 4668
+R 4670 2 0 You’re 
+R 4674 4 0 cool 
+R 4679 2 0 the 
+R 4683 3 0 way 
+R 4688 2 0 you 
+R 4691 5 0 move 
+R 4701 1 0 no 
+R 4704 4 0 more 
+R 4710 2 0 mis
+R 4715 2 0 takes 
+- 4719
+R 4721 3 0 Can’t 
+R 4727 3 0 stand 
+R 4734 5 0 still 
+R 4742 2 0 you 
+R 4745 2 0 got 
+R 4751 2 0 the 
+R 4754 4 0 move 
+- 4767
+R 4770 3 0 Feel 
+R 4774 2 0 the 
+R 4778 3 0 bass
+R 4784 4 0 line, 
+R 4793 3 0 feel 
+R 4798 2 0 the 
+R 4802 5 0 groove 
+- 4812
+R 4814 2 0 The 
+R 4817 4 0 beat, 
+R 4826 1 0 the 
+R 4829 4 0 bass, 
+R 4838 2 0 the 
+R 4841 3 0 ly
+R 4845 1 0 rics 
+R 4847 3 0 are 
+R 4853 4 0 fine 
+- 4863
+R 4865 2 0 Get 
+R 4868 2 0 on 
+R 4873 2 0 the 
+R 4877 4 0 floor 
+R 4883 3 0 you 
+R 4889 2 0 got 
+R 4895 2 0 no 
+R 4901 4 0 time 
+- 4911
+R 4914 3 0 Par
+R 4919 2 0 ty 
+R 4922 3 0 peo
+R 4928 2 0 ple 
+R 4931 2 0 I 
+R 4934 1 0 will 
+R 4937 2 0 give 
+R 4940 2 0 you 
+R 4943 2 0 a 
+R 4950 5 0 chance 
+- 4960
+R 4962 1 0 Wave 
+R 4965 2 0 up 
+R 4970 2 0 your 
+R 4973 3 0 hands 
+R 4979 3 0 and 
+R 4984 3 0 feel … 
+- 4993
+: 4996 6 -1 E
+: 5003 3 -1 very
+: 5009 5 6 bo
+: 5015 3 6 dy 
+: 5020 3 4 take 
+: 5027 3 6 a 
+: 5033 4 2 cha
+: 5038 3 -1 ~nce 
+: 5051 11 6 wa
+: 5063 3 6 ving 
+: 5069 3 4 up 
+: 5075 3 2 your 
+: 5081 5 4 ha
+: 5087 4 6 ~nds 
+- 5101
+: 5105 7 6 Can 
+: 5117 5 6 you 
+: 5129 5 6 fee
+: 5135 3 4 ~l 
+: 5141 2 2 this 
+: 5148 4 4 tra
+: 5153 6 6 ~nce 
+- 5169
+: 5188 6 -1 E
+: 5195 3 -1 very
+: 5200 5 6 bo
+: 5206 3 6 dy 
+: 5212 3 4 take 
+: 5219 3 6 a 
+: 5225 4 2 cha
+: 5230 3 -1 ~nce 
+* 5244 10 6 wa
+* 5255 4 6 ving 
+* 5261 3 4 up 
+* 5267 3 2 your 
+* 5273 5 4 ha
+* 5279 4 6 ~nds 
+- 5293
+: 5297 7 6 Can 
+: 5309 5 6 you 
+: 5321 5 6 fee
+: 5327 3 4 ~l 
+: 5333 2 2 this 
+: 5339 5 4 tra
+: 5345 6 6 ~nce 
+- 5361
+: 5374 4 -1 Take 
+: 5381 4 2 con
+: 5387 4 4 tro
+: 5392 7 6 ~l 
+: 5422 4 2 of 
+: 5429 6 4 your 
+: 5440 5 2 mi
+: 5446 6 -1 ~nd 
+- 5462
+: 5483 4 2 Your 
+: 5488 7 4 bo
+: 5496 7 4 dy 
+: 5506 8 4 and 
+: 5519 7 9 your 
+: 5531 4 4 sou
+: 5536 14 6 ~l 
+- 5560
+: 5567 4 -1 Take 
+: 5572 5 2 con
+: 5579 3 4 tro
+: 5583 8 6 ~l 
+: 5614 4 2 of 
+: 5621 6 4 your 
+: 5632 5 2 mi
+: 5638 6 -1 ~nd 
+- 5654
+: 5675 4 2 Your 
+: 5680 8 4 bo
+: 5689 7 4 dy 
+: 5699 8 2 and 
+: 5712 2 1 you
+: 5715 3 -1 ~r 
+: 5723 14 -1 soul 
+E

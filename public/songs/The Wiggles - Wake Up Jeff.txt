@@ -1,0 +1,253 @@
+#ARTIST:The Wiggles
+#TITLE:Wake Up Jeff
+#MP3:The Wiggles - Wake Up Jeff.mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#LANGUAGE:English
+#BPM:324.16
+#GAP:2780
+#VIDEO:v=QRZ7VS7uJHI,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 3 12 Wake 
+: 8 3 12 up 
+: 16 6 12 Jeff 
+- 24
+: 28 4 5 E
+: 36 2 5 very
+: 40 2 5 bo
+: 44 2 7 dy’s 
+: 48 2 4 wig
+: 52 5 2 gling 
+- 59
+: 64 3 12 Wake 
+: 72 3 12 up 
+: 80 4 12 Jeff 
+- 86
+: 92 3 0 We 
+: 96 2 2 real
+: 100 2 2 ly 
+: 104 3 2 need 
+* 108 7 7 you 
+- 117
+: 128 3 12 Wake 
+: 136 3 12 up 
+: 144 4 12 Jeff 
+- 150
+: 156 2 0 You’re 
+: 160 2 5 miss
+: 164 2 5 ing 
+: 168 3 5 all 
+: 172 2 7 the 
+: 176 3 4 fun 
+: 180 5 2 now 
+- 187
+F 192 3 17 Wake 
+F 200 4 17 up 
+F 208 5 17 Jeff 
+- 215
+F 220 6 17 Before 
+F 228 2 17 the 
+F 232 2 17 day’s 
+F 236 7 17 through 
+- 245
+: 256 3 12 What’s 
+: 264 4 12 that 
+* 272 5 12 sound? 
+- 279
+: 280 2 4 I 
+: 284 2 4 can 
+: 288 2 5 hear 
+: 292 2 5 some
+: 296 3 5 bo
+: 300 2 7 dy 
+: 304 3 4 snor
+: 308 5 2 ing 
+- 315
+: 320 4 12 What’s 
+: 328 4 12 that 
+: 336 3 12 sound? 
+- 340
+: 340 2 4 It’s 
+: 344 4 4 not 
+: 352 2 2 Mur
+: 356 2 2 ray 
+: 360 2 2 or 
+* 364 6 7 Greg 
+- 372
+: 384 3 12 An
+: 388 2 12 tho
+: 392 3 12 ny’s 
+: 396 3 9 a
+: 400 5 12 wake 
+- 407
+: 408 2 4 So 
+: 412 2 4 let’s 
+: 416 2 5 have 
+: 420 2 5 an
+: 424 3 5 o
+: 428 2 7 ther 
+: 432 3 4 guess 
+* 436 5 2 now 
+- 443
+F 448 5 17 Oh 
+F 456 2 17 my 
+F 460 10 17 goodness 
+- 472
+F 476 2 17 It 
+F 480 4 17 must 
+F 488 3 17 be 
+F 493 5 17 Jeff 
+- 500
+: 513 3 12 Wake 
+: 521 3 12 up 
+: 529 6 12 Jeff 
+- 537
+: 541 4 5 E
+: 549 2 5 very
+: 553 2 5 bo
+: 557 2 7 dy’s 
+: 561 2 4 wig
+: 565 5 2 gling 
+- 572
+: 577 3 12 Wake 
+: 585 3 12 up 
+* 593 4 12 Jeff 
+- 599
+: 605 3 0 We 
+: 609 2 2 real
+: 613 2 2 ly 
+: 617 3 2 need 
+: 621 7 7 you 
+- 630
+: 641 3 12 Wake 
+: 649 3 12 up 
+: 657 4 12 Jeff 
+- 663
+: 669 2 0 You’re 
+: 673 2 5 miss
+: 677 2 5 ing 
+: 681 3 5 all 
+: 685 2 7 the 
+: 689 3 4 fun 
+: 693 5 2 now 
+- 700
+F 705 3 17 Wake 
+F 713 4 17 up 
+F 721 5 17 Jeff 
+- 728
+F 733 6 17 Before 
+F 741 2 17 the 
+F 745 5 17 day’s 
+F 752 7 17 through 
+- 761
+: 1023 3 12 Do
+: 1027 2 12 ro
+: 1031 3 12 thy 
+: 1035 2 9 the 
+* 1039 3 12 di
+: 1043 3 7 no
+: 1047 2 4 saur 
+- 1050
+: 1051 2 4 Is 
+: 1055 3 5 munch
+: 1059 3 5 ing 
+: 1063 3 5 on 
+: 1067 2 7 some 
+: 1071 3 4 ro
+: 1075 4 2 ses 
+- 1081
+* 1087 5 12 Wags 
+: 1095 3 9 the 
+: 1100 5 12 Dog 
+- 1107
+: 1115 2 0 Is 
+: 1119 2 2 dig
+: 1123 2 2 ging 
+: 1127 2 2 up 
+: 1131 9 7 bones 
+- 1142
+* 1151 5 12 Hen
+: 1159 3 12 ry 
+: 1163 3 9 the 
+: 1167 3 12 Oc
+: 1171 2 4 to
+: 1175 3 4 pus 
+- 1179
+: 1179 2 4 Is 
+: 1183 3 5 dan
+: 1187 2 5 cing 
+: 1191 3 5 ’round 
+: 1195 2 7 in 
+: 1199 2 4 cir
+: 1203 6 2 cles 
+- 1211
+F 1215 4 17 Wake 
+F 1223 3 17 up 
+F 1231 5 17 Jeff 
+- 1238
+F 1243 2 17 We 
+F 1247 2 17 need 
+F 1251 2 17 you 
+F 1255 2 17 for 
+F 1259 2 17 the 
+F 1263 6 17 show 
+- 1271
+: 1279 3 12 Wake 
+: 1287 3 12 up 
+: 1295 6 12 Jeff 
+- 1303
+: 1307 4 5 E
+: 1315 2 5 very
+: 1319 2 5 bo
+: 1323 2 7 dy’s 
+: 1327 2 4 wig
+: 1331 5 2 gling 
+- 1338
+: 1343 3 12 Wake 
+: 1351 3 12 up 
+: 1359 4 12 Jeff 
+- 1365
+: 1371 3 0 We 
+: 1375 2 2 real
+: 1379 2 2 ly 
+: 1383 3 2 need 
+* 1387 7 7 you 
+- 1396
+: 1407 3 12 Wake 
+: 1415 3 12 up 
+: 1423 4 12 Jeff 
+- 1429
+: 1435 2 0 You’re 
+: 1439 2 5 miss
+: 1443 2 5 ing 
+: 1447 3 5 all 
+: 1451 2 7 the 
+: 1455 3 4 fun 
+* 1459 5 2 now 
+- 1466
+F 1471 3 17 Wake 
+F 1479 4 17 up 
+F 1487 5 17 Jeff 
+- 1494
+: 1499 2 7 Be
+: 1503 2 7 fore 
+: 1507 2 9 the 
+: 1511 3 11 day’s 
+: 1515 6 12 through 
+- 1523
+F 1622 5 11 Ah 
+F 1641 25 11 ah 
+F 1670 3 11 ah 
+- 1675
+F 1681 1 11 Can 
+F 1683 2 11 you 
+F 1686 2 11 keep 
+F 1691 2 11 that 
+F 1696 5 11 noise 
+F 1702 3 11 down? 
+- 1707
+F 1711 3 11 I’m 
+F 1717 5 11 trying 
+F 1725 3 11 to 
+F 1729 7 11 sleep 
+E

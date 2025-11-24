@@ -1,0 +1,371 @@
+#ARTIST:Taylor Swift
+#TITLE:Dear Reader
+#MP3:Taylor Swift - Dear Reader.mp3
+#CREATOR:princetongirl98
+#GENRE:Pop
+#YEAR:2022
+#LANGUAGE:English
+#BPM:200.45
+#GAP:18680
+#VIDEO:v=X0Jti9F-oQA,co=midnights-63578bde02878.jpg,bg=swift-taylor-5cc5c7f6c99a0.jpg
+: 0 4 0 Dear 
+: 7 2 0 rea
+: 11 2 11 der 
+- 15
+: 20 1 0 If 
+: 22 1 4 it 
+: 24 2 4 feels 
+: 28 1 5 like 
+: 30 1 0 a 
+: 34 5 0 trap 
+- 41
+: 48 2 0 You’re 
+: 52 1 0 al
+: 55 1 2 rea
+: 59 2 0 dy 
+: 63 5 2 in 
+: 71 10 2 one 
+- 83
+: 120 2 0 Dear 
+: 124 2 0 rea
+: 128 3 0 der 
+- 133
+: 141 1 4 Get 
+: 144 1 5 out 
+: 148 2 4 your 
+: 152 4 0 map 
+- 158
+: 168 1 4 Pick 
+: 171 1 0 some
+: 174 1 2 where 
+: 177 1 2 and 
+: 181 5 2 just 
+: 188 11 2 run 
+- 201
+: 238 5 7 Dear 
+: 244 1 7 rea
+: 248 4 0 der 
+- 254
+: 260 1 7 Burn 
+: 264 1 0 all 
+: 267 1 0 the 
+: 270 7 2 files, 
+- 279
+: 286 1 0 De
+: 289 2 0 sert 
+: 293 1 2 all 
+: 296 1 2 your 
+: 300 6 2 past 
+: 308 17 2 lives 
+- 327
+: 354 1 7 And 
+: 357 1 2 if 
+: 360 1 0 you 
+: 363 6 0 don’t 
+: 379 1 4 re
+: 382 1 5 cog
+: 385 1 4 nize 
+: 389 5 2 your
+: 397 6 0 self 
+- 405
+: 408 2 0 That 
+: 412 1 2 means 
+: 416 2 0 you 
+: 420 1 2 did 
+: 424 1 0 it 
+: 427 8 2 right 
+- 437
+: 482 2 9 Ne
+: 486 1 11 ver 
+: 490 2 11 take 
+: 494 1 11 ad
+: 498 4 4 vice 
+- 504
+: 505 5 11 From 
+: 512 4 11 some
+: 519 5 0 one 
+: 526 7 9 who’s 
+: 541 1 4 fal
+: 545 2 5 ling 
+: 549 5 4 a
+: 556 12 0 part 
+- 570
+: 601 2 0 Ne
+: 605 1 2 ver 
+: 609 2 2 take 
+: 613 2 2 ad
+: 617 4 4 vice 
+: 623 5 7 from 
+: 631 5 9 some
+: 638 2 0 one 
+- 641
+: 642 1 0 Who
+: 644 3 2 ~
+: 649 2 2 ~
+: 653 13 0 ~’s 
+: 676 1 2 fal
+: 679 2 5 ling 
+: 683 2 4 a
+: 687 11 0 part 
+- 700
+: 712 4 0 Dear 
+: 719 2 0 rea
+: 724 3 9 der 
+- 729
+: 735 1 4 Bend 
+: 738 2 5 when 
+: 741 2 4 you 
+: 746 6 0 can 
+- 754
+: 763 1 0 Snap 
+: 767 2 2 when 
+: 771 2 0 you 
+: 775 5 2 have 
+: 782 11 2 to 
+- 795
+: 831 4 0 Dear 
+: 838 2 0 rea
+: 842 3 0 der 
+- 847
+: 851 1 2 You 
+: 854 1 4 don’t 
+: 857 1 5 have 
+: 861 2 4 to 
+: 864 5 2 an
+: 871 6 0 swer 
+- 879
+: 883 2 0 Just 
+: 887 1 2 ’cause 
+: 890 2 0 they 
+: 895 5 2 asked 
+: 902 17 11 you 
+- 921
+: 950 4 7 Dear 
+: 957 2 7 rea
+: 961 3 0 der 
+- 966
+: 970 1 2 The 
+: 973 3 7 greatest 
+: 978 2 0 of 
+: 982 4 0 lux
+: 989 3 0 ur
+: 995 8 2 ies 
+: 1008 2 2 is 
+: 1013 2 0 your 
+: 1016 1 4 se
+: 1020 2 4 ~
+: 1024 20 2 ~crets 
+- 1046
+: 1070 5 0 Dear 
+: 1076 2 0 rea
+: 1080 4 0 der 
+- 1085
+: 1086 1 0 When 
+: 1089 2 4 you 
+: 1092 1 4 aim 
+: 1096 1 5 at 
+: 1099 2 0 the 
+: 1102 4 2 de
+: 1109 5 0 vil 
+- 1116
+: 1120 3 0 Make 
+: 1125 1 7 sure 
+: 1128 2 0 you 
+: 1132 5 2 don’t 
+: 1139 19 2 miss 
+- 1160
+: 1194 3 9 Ne
+: 1199 2 11 ver 
+: 1203 2 11 take 
+: 1207 1 11 ad
+: 1210 5 4 vice 
+- 1216
+: 1217 5 11 From 
+: 1225 5 11 some
+: 1232 5 0 one 
+: 1239 7 9 who’s 
+: 1254 2 2 fal
+: 1258 2 5 ling 
+: 1262 5 4 a
+: 1269 12 0 part 
+- 1283
+: 1314 1 11 Ne
+: 1317 1 2 ver 
+: 1321 2 2 take 
+: 1326 2 2 ad
+: 1330 4 4 vice 
+: 1336 5 7 from 
+: 1343 5 7 some
+: 1350 3 0 one 
+- 1354
+: 1355 2 0 Who
+: 1358 2 2 ~
+: 1363 1 11 ~
+: 1366 13 0 ~’s 
+: 1388 2 2 fal
+: 1392 2 5 ling 
+: 1396 2 4 a
+: 1400 9 0 part 
+- 1411
+: 1415 1 0 So 
+: 1417 2 0 I 
+: 1420 1 0 wander 
+: 1423 4 0 through 
+: 1428 2 2 these 
+: 1432 5 2 nights 
+- 1439
+: 1440 1 0 I 
+: 1442 4 0 prefer 
+: 1448 1 0 hi
+: 1450 1 0 ding 
+: 1453 2 0 in 
+: 1457 2 2 plain 
+: 1461 4 2 sight 
+- 1467
+: 1475 1 0 My 
+: 1477 2 2 fourth 
+: 1481 1 7 drink 
+: 1483 2 7 in 
+: 1487 2 7 my 
+: 1491 4 2 hand 
+- 1496
+: 1497 1 0 These 
+: 1499 1 0 des
+: 1501 1 0 per
+: 1503 1 0 ate 
+: 1505 1 7 pray
+: 1508 1 9 ers 
+: 1511 1 11 of 
+: 1514 1 5 a 
+: 1517 2 4 cursed 
+: 1522 4 4 man 
+- 1528
+: 1530 1 4 Spil
+: 1533 2 4 ling 
+: 1537 2 0 out 
+: 1540 1 2 to 
+: 1543 2 0 you 
+: 1547 3 2 for 
+: 1551 4 2 free 
+- 1557
+: 1563 1 0 But 
+: 1566 2 0 dar
+: 1570 1 0 ling, 
+: 1572 2 0 dar
+: 1577 3 2 ling, 
+: 1582 4 2 please 
+- 1588
+: 1593 1 2 You 
+: 1595 1 4 wouldn’t 
+: 1597 2 2 take 
+: 1600 2 2 my 
+: 1604 4 2 word 
+: 1610 2 2 for 
+: 1614 1 2 it 
+- 1617
+: 1618 1 2 If 
+: 1621 1 2 you 
+: 1625 2 2 knew 
+: 1629 2 2 who 
+: 1632 1 2 was 
+: 1636 2 4 ta
+: 1639 2 5 ~
+: 1642 1 5 ~
+: 1644 1 4 ~l
+: 1647 4 0 king 
+- 1653
+: 1683 1 2 If 
+: 1685 1 2 you 
+: 1687 1 2 knew 
+: 1690 1 2 where 
+: 1692 1 2 I 
+: 1695 1 2 was 
+: 1698 1 4 wa
+: 1700 6 5 ~
+: 1708 3 4 l
+: 1713 15 2 king 
+- 1730
+: 1741 1 0 To 
+: 1744 1 2 a 
+: 1746 2 2 house, 
+: 1750 1 2 not 
+: 1753 1 2 a 
+: 1755 1 2 home, 
+: 1757 1 2 all 
+: 1760 1 2 a
+: 1763 2 2 lone 
+- 1766
+: 1767 1 4 ’Cause 
+: 1770 2 2 nobody’s 
+: 1774 7 0 there 
+- 1783
+: 1800 1 2 Where 
+: 1802 1 2 I 
+: 1804 2 2 pace 
+: 1808 1 2 in 
+: 1810 1 2 my 
+: 1812 2 2 pen 
+: 1816 1 2 and 
+- 1818
+: 1818 1 4 My 
+: 1821 2 2 friends 
+: 1824 1 2 found 
+: 1828 1 2 friends 
+: 1831 2 0 who 
+: 1835 5 2 care 
+- 1842
+: 1860 1 2 No 
+: 1862 1 7 one 
+: 1864 2 2 sees 
+: 1867 1 2 when 
+: 1869 1 2 you 
+: 1872 1 2 lose 
+- 1874
+: 1874 1 2 When 
+: 1878 1 2 you’re 
+: 1880 1 2 play
+: 1883 1 2 ing 
+: 1885 2 2 so
+: 1889 2 2 li
+: 1893 8 0 taire 
+- 1903
+F 1906 1 0 You 
+F 1908 1 0 should 
+F 1911 1 0 find 
+F 1913 1 0 a
+F 1916 2 0 no
+F 1919 1 0 ther 
+F 1923 4 0 gui
+F 1929 5 0 ding 
+F 1937 10 0 light 
+- 1949
+F 1952 4 0 Gui
+F 1958 5 0 ding 
+F 1966 7 0 light 
+- 1975
+F 1977 1 0 But 
+F 1980 1 0 I 
+F 1982 5 0 shine 
+F 1989 5 0 so 
+F 1997 5 0 bright 
+- 2004
+F 2024 1 0 You 
+F 2027 1 0 should 
+F 2029 1 0 find 
+F 2032 1 0 a
+F 2034 3 0 no
+F 2040 1 0 ther 
+F 2042 4 0 gui
+F 2048 6 0 ding 
+F 2056 5 0 light 
+- 2063
+F 2071 4 0 Gui
+F 2077 5 0 ding 
+F 2084 6 0 light 
+- 2092
+F 2093 2 0 But 
+F 2097 1 0 I 
+F 2099 6 0 shine 
+F 2108 5 0 so 
+F 2115 15 0 bright 
+E

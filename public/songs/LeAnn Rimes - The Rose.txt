@@ -1,0 +1,207 @@
+#ARTIST:LeAnn Rimes
+#TITLE:The Rose
+#MP3:LeAnn Rimes - The Rose.mp3
+#CREATOR:webruci
+#GENRE:Country
+#YEAR:1997
+#LANGUAGE:English
+#BPM:400
+#GAP:6960
+#VIDEO:a=725SGY6VSYw,co=https://steveyb.co.uk/wp-content/gallery/leann-rimes/LeAnnRimes-02YouLightUpMyLife.jpg,bg=rimes-leann-52c7b6115a8d5.jpg
+: 0 8 2 Some 
+: 11 8 4 say 
+: 22 62 6 love, 
+: 92 6 6 it 
+: 102 11 7 is 
+: 115 11 6 a 
+: 128 25 6 ri
+: 154 54 4 ver 
+- 210
+: 222 8 4 That 
+: 236 55 2 drowns 
+: 295 8 2 the 
+: 307 17 4 ten
+: 325 18 6 der 
+: 344 50 6 reed 
+- 396
+: 409 8 2 Some 
+: 420 8 4 say 
+: 431 62 6 love, 
+: 500 8 6 it 
+: 512 11 7 is 
+: 525 11 6 a 
+: 538 25 6 ra
+: 564 52 4 zor 
+- 618
+: 625 8 4 That 
+: 640 55 2 leaves 
+: 701 6 2 your 
+: 713 13 4 soul 
+: 732 18 6 to 
+: 752 50 6 bleed 
+- 804
+: 820 8 6 Some 
+: 832 8 7 say 
+: 845 62 9 love, 
+: 910 8 9 it 
+: 920 10 9 is 
+: 932 10 9 a 
+: 944 15 9 hun
+: 960 55 2 ger 
+- 1017
+: 1041 6 6 An 
+: 1050 61 7 end
+: 1112 12 6 less, 
+: 1125 7 4 a
+: 1133 14 2 ching 
+: 1148 25 -1 nee
+: 1174 46 -3 ~d 
+- 1222
+: 1231 8 2 I 
+: 1242 8 4 say 
+: 1253 60 6 love, 
+: 1319 8 6 it 
+: 1329 11 7 is 
+: 1342 11 6 a 
+: 1356 25 6 flow
+: 1382 29 4 er 
+- 1413
+* 1455 4 4 And 
+* 1462 59 2 you 
+* 1525 5 2 it’s 
+* 1534 18 4 on
+* 1553 12 2 ly 
+* 1567 100 2 seed 
+- 1669
+: 1744 8 2 It’s 
+: 1754 6 4 the 
+: 1763 62 6 heart 
+: 1830 6 6 a
+: 1841 16 7 fraid 
+: 1860 5 6 of 
+: 1868 18 6 brea
+: 1891 62 4 king 
+- 1955
+: 1960 8 4 That 
+: 1972 9 4 ne
+: 1982 58 2 ver 
+: 2048 16 4 learns 
+: 2066 12 6 to 
+: 2080 38 6 dance 
+- 2120
+: 2151 8 2 It’s 
+: 2161 8 4 the 
+: 2174 67 6 dream 
+: 2242 7 6 a
+: 2250 20 7 fraid 
+: 2271 8 6 of 
+: 2280 21 6 wa
+: 2302 60 4 king 
+- 2364
+* 2370 6 4 That 
+* 2380 11 4 ne
+* 2392 56 2 ver 
+* 2456 20 4 takes 
+* 2479 10 6 the 
+* 2494 40 6 chance 
+- 2536
+: 2560 8 6 It’s 
+: 2572 8 7 the 
+: 2584 64 9 one 
+: 2650 6 9 who 
+: 2658 15 9 won’t 
+: 2674 6 9 be 
+: 2686 27 9 ta
+: 2714 49 2 ken 
+- 2765
+: 2780 6 6 Who 
+: 2789 58 7 can
+: 2851 6 6 not 
+: 2861 14 4 seem 
+: 2880 6 2 to 
+: 2890 25 -1 gi
+: 2916 44 -3 ~ve 
+- 2962
+: 2970 8 2 And 
+: 2981 8 4 the 
+: 2992 60 6 soul 
+: 3057 8 6 a
+: 3069 13 7 fraid 
+: 3085 7 6 of 
+: 3095 27 6 dy
+: 3123 59 4 ing 
+- 3183
+* 3184 8 4 That 
+* 3196 9 4 ne
+* 3206 62 2 ver 
+* 3275 14 4 learns 
+* 3294 14 2 to 
+* 3310 86 2 live 
+- 3398
+: 3480 8 2 And 
+: 3491 8 4 the 
+: 3502 62 6 night 
+: 3568 8 6 has 
+: 3580 16 7 been 
+: 3600 6 6 too 
+: 3608 19 6 lone
+: 3628 56 4 ly 
+- 3686
+: 3688 18 4 And the 
+: 3708 61 2 road 
+: 3775 5 2 has 
+: 3785 17 4 been 
+: 3809 6 6 too 
+: 3821 60 6 long 
+- 3883
+: 3888 8 2 And 
+: 3900 8 4 you 
+: 3911 60 6 think 
+: 3977 6 6 that 
+: 3988 15 7 love 
+: 4008 4 6 is 
+: 4016 22 6 on
+: 4039 50 4 ly 
+- 4091
+* 4096 12 4 For 
+* 4112 6 6 the 
+* 4120 9 4 luc
+* 4130 58 2 ky 
+* 4196 10 4 and 
+* 4218 10 6 the 
+* 4232 58 6 strong 
+- 4292
+: 4299 8 6 Just 
+: 4312 11 7 remem
+: 4324 74 9 ber 
+: 4401 17 9 in 
+: 4421 4 9 the 
+: 4428 14 9 win
+: 4443 58 2 ter 
+- 4503
+: 4505 16 4 Far 
+: 4524 7 6 be
+: 4532 57 7 neath 
+: 4593 6 6 the 
+: 4603 16 4 bit
+: 4620 7 2 ter 
+: 4630 27 -1 sno
+: 4658 30 -3 ~w 
+- 4690
+: 4712 12 2 Lies 
+: 4728 9 4 the 
+: 4739 57 6 seed 
+: 4799 7 6 that 
+: 4811 15 7 with 
+: 4831 6 6 the 
+: 4839 28 6 sun’s 
+: 4868 41 4 love 
+- 4911
+: 4914 9 4 In 
+: 4930 6 2 the 
+: 4938 60 2 spring, 
+: 5007 4 2 be
+: 5016 38 4 comes 
+: 5055 10 2 a 
+* 5069 128 2 rose 
+E

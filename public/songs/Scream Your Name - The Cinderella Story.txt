@@ -1,0 +1,264 @@
+#ARTIST:Scream Your Name
+#TITLE:The Cinderella Story
+#MP3:Scream Your Name - The Cinderella Story.mp3
+#CREATOR:IC
+#YEAR:2013
+#LANGUAGE:English
+#BPM:320
+#GAP:27460
+#VIDEO:v=UwFBgutVkZw,co=https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/db/98/ba/db98ba58-93ce-2010-f1b1-0f3534ad0c67/cover.jpg/5000x5000bb.jpg
+F 0 3 0 She 
+F 6 3 0 had 
+F 11 3 0 to 
+F 15 5 0 work 
+F 28 3 0 in 
+F 34 7 0 dirt 
+- 43
+F 48 6 0 Down 
+F 57 5 0 on 
+F 65 4 0 her 
+F 71 13 0 knees 
+- 86
+: 88 4 7 She 
+: 94 6 7 has 
+: 102 3 7 been 
+: 108 8 7 trea
+: 118 5 7 ted 
+: 126 7 9 so
+: 135 7 6 ~ 
+: 145 7 7 bad(ly) 
+- 154
+F 155 2 0 No 
+F 158 4 0 one 
+F 164 7 0 heard 
+F 177 3 0 her 
+F 181 7 0 si
+F 190 7 0 lent 
+F 200 8 0 des
+F 209 7 0 paired 
+F 218 9 0 scream 
+- 229
+: 240 6 7 There’s 
+: 248 4 7 no 
+: 257 6 7 damn 
+: 265 7 7 way 
+: 275 13 6 out 
+- 290
+: 293 6 6 So 
+: 301 9 6 say 
+: 312 32 7 no 
+- 346
+: 349 14 7 Try 
+: 368 7 7 to 
+: 377 7 7 get 
+: 386 18 7 free
+: 406 21 6 ~ 
+- 429
+: 451 7 6 Say 
+: 460 4 7 no
+: 465 3 6 ~
+: 469 20 7 ~ 
+- 491
+: 497 16 4 Fight 
+: 516 5 4 for 
+: 525 7 7 your 
+: 535 24 6 dreams 
+- 561
+: 1021 2 6 She 
+: 1025 4 6 was 
+: 1030 4 6 so 
+F 1036 7 6 damn 
+F 1052 9 6 cute 
+- 1063
+F 1067 4 0 But 
+F 1073 5 0 no
+F 1080 5 0 bo
+F 1086 3 0 dy 
+F 1090 9 0 saw 
+F 1102 6 0 it 
+- 1109
+: 1109 7 7 Then 
+: 1118 4 7 she 
+: 1124 3 7 as
+: 1128 9 7 cen
+: 1138 3 7 ded 
+: 1146 7 9 from 
+: 1156 3 7 the
+: 1160 3 6 ~ 
+: 1165 4 7 a
+: 1170 3 4 shes 
+- 1174
+F 1175 2 0 They 
+F 1178 2 0 were 
+F 1183 9 0 shocked 
+F 1197 2 0 and 
+F 1201 5 0 real
+F 1207 3 0 ly 
+F 1211 4 0 fuc
+F 1216 3 0 king 
+F 1220 15 0 jea
+F 1236 8 0 lous 
+- 1246
+: 1252 2 4 A 
+: 1256 18 7 sweet 
+: 1276 3 7 li
+: 1281 3 7 ttle 
+: 1286 4 7 prin
+: 1294 3 7 ce
+: 1299 11 6 ~ss 
+- 1312
+: 1313 6 7 So 
+: 1321 9 7 say 
+: 1332 32 7 no 
+- 1366
+: 1369 16 7 Try 
+: 1387 7 7 to 
+: 1396 7 7 get 
+: 1406 18 7 free
+: 1426 21 6 ~ 
+- 1449
+: 1471 6 6 Say 
+: 1480 4 7 no
+: 1485 3 6 ~
+: 1489 20 7 ~ 
+- 1511
+: 1517 16 4 Fight 
+: 1536 5 4 for 
+: 1545 7 7 your 
+: 1555 48 6 dreams 
+- 1605
+: 1610 6 7 So 
+: 1618 9 6 say 
+: 1629 30 7 no 
+- 1661
+: 1666 16 7 Try 
+: 1684 7 7 to 
+: 1693 7 7 get 
+: 1703 18 7 free
+: 1723 21 6 ~ 
+- 1746
+: 1768 6 6 Say 
+: 1777 4 7 no
+: 1782 3 6 ~
+: 1786 20 7 ~ 
+- 1808
+: 1814 16 4 Fight 
+: 1833 5 4 for 
+: 1842 7 7 your 
+: 1852 44 6 dreams 
+- 1897
+F 1898 5 6 Fight 
+F 1908 3 6 for 
+F 1913 4 6 your 
+F 1919 15 6 dreams 
+- 1936
+F 2481 10 6 Fight 
+F 2500 7 6 for 
+F 2509 6 6 your 
+F 2518 21 6 dreams 
+- 2541
+F 3088 4 6 So 
+F 3093 7 6 do 
+F 3102 4 6 what 
+F 3107 2 6 the 
+F 3112 7 6 fuck 
+F 3122 5 6 you 
+F 3130 72 6 want 
+- 3204
+: 3576 73 7 No
+: 3651 61 6 ~ 
+- 3714
+: 3716 5 6 Say 
+: 3724 4 7 no
+: 3729 3 6 ~
+: 3733 20 7 ~ 
+- 3755
+: 3761 16 4 Fight 
+: 3780 5 4 for 
+: 3789 7 7 your 
+: 3799 55 6 dreams 
+- 3856
+: 3863 8 6 Say 
+: 3873 78 7 no
+: 3952 4 9 ~
+: 3957 34 6 ~ 
+- 3993
+: 3996 5 6 You 
+: 4004 7 6 have 
+: 4013 7 6 to 
+: 4025 6 7 live 
+: 4033 5 4 your 
+: 4040 15 2 life 
+- 4057
+: 4062 5 7 Live 
+: 4069 6 4 your 
+: 4077 14 2 dreams 
+- 4093
+: 4095 9 6 Lead 
+: 4106 5 6 your 
+: 4113 14 6 own 
+: 4129 3 6 and 
+: 4135 5 7 on
+: 4142 2 4 ly 
+: 4146 8 2 life 
+- 4156
+: 4159 3 6 You 
+: 4163 2 6 have 
+: 4166 2 6 to 
+: 4169 8 7 live 
+: 4179 2 4 your 
+: 4183 19 2 life 
+- 4204
+: 4226 7 7 Live 
+: 4235 7 7 your 
+: 4244 5 7 drea
+: 4251 38 6 ~ms 
+- 4291
+: 4353 2 4 You 
+: 4356 7 11 have 
+: 4364 5 7 to 
+: 4370 7 7 live 
+: 4379 11 9 your 
+: 4391 45 9 life 
+- 4438
+: 4448 8 11 Live 
+: 4458 5 11 your 
+: 4466 10 11 drea
+: 4477 2 7 ~
+: 4480 13 7 ~ms 
+- 4495
+: 4504 8 11 Lead 
+: 4514 3 7 your 
+: 4519 7 7 own 
+: 4528 2 7 and 
+: 4532 3 7 on
+: 4536 3 9 ly 
+: 4541 4 9 li
+: 4546 18 6 ~fe 
+- 4566
+: 4583 2 11 You 
+: 4587 3 11 have 
+: 4592 3 11 to 
+: 4597 7 11 life 
+: 4605 6 11 your 
+: 4614 11 11 drea
+: 4626 3 7 ~
+: 4630 10 7 ~ms 
+- 4642
+: 4647 2 4 To 
+: 4651 9 7 lead 
+: 4662 3 7 your 
+: 4667 9 7 own 
+: 4678 2 7 and 
+: 4681 3 7 on
+: 4685 3 7 ly 
+: 4690 31 6 life 
+- 4723
+F 4726 4 6 Sto
+F 4731 6 6 ry 
+F 4739 4 6 of 
+F 4745 8 6 cin
+F 4755 3 6 de
+F 4761 10 6 rel
+F 4781 66 6 la 
+E

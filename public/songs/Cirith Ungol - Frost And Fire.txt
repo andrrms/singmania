@@ -1,0 +1,231 @@
+#ARTIST:Cirith Ungol
+#TITLE:Frost And Fire
+#MP3:Cirith Ungol - Frost And Fire.mp3
+#CREATOR:Ich,werdennsonst?
+#GENRE:Heavy Metal
+#YEAR:1981
+#LANGUAGE:English
+#BPM:351.6
+#GAP:11290
+#VIDEO:a=6rpVmUKFIwg,v=jSaCSmnCmSs,co=frost-and-fire-61bd4d1cd7698.jpg,bg=cirith-ungol-6532df0bb897d.jpg
+#VIDEOGAP:5.0
+: 0 1 0 The 
+: 2 9 11 tales 
+: 12 5 4 that 
+: 18 3 4 speak 
+: 22 7 3 of 
+: 30 9 4 frost 
+: 40 4 3 and 
+: 45 11 7 fire 
+- 58
+: 66 4 4 The 
+: 72 6 11 Frost 
+: 82 7 4 Mons
+: 90 9 4 treme 
+: 100 3 4 and 
+: 104 1 4 the 
+: 106 7 4 Fire 
+: 114 3 7 Di
+: 118 8 9 vine 
+- 128
+: 131 3 0 The 
+: 136 8 11 frost 
+: 145 3 9 pre
+: 149 6 9 serves 
+: 156 1 5 and 
+: 158 3 5 the 
+: 162 7 5 fire 
+: 170 3 9 will 
+: 174 12 11 destroy us 
+- 188
+: 194 3 7 Pou
+: 198 7 4 ring 
+: 206 10 9 rain 
+: 218 3 7 on 
+: 222 5 4 the 
+: 228 17 9 sands 
+: 246 1 7 of 
+: 248 20 11 time 
+- 270
+: 289 4 5 I 
+: 294 9 5 feel 
+: 304 6 5 it 
+: 319 6 12 bur
+: 326 12 11 ning 
+: 359 2 5 and 
+: 362 5 5 I 
+: 368 9 9 feel 
+: 378 1 5 the 
+: 380 22 9 freeze 
+- 404
+: 434 3 7 The 
+: 438 15 7 frost, 
+: 454 3 7 the 
+* 458 16 12 fire, 
+: 478 3 7 it 
+: 482 11 7 burns 
+: 494 2 7 in
+: 497 12 7 side 
+: 510 1 4 of 
+: 512 28 9 me 
+- 542
+: 824 9 11 Tales 
+: 834 3 4 that 
+: 838 5 4 speak 
+: 844 5 3 of 
+: 850 11 4 frost 
+: 862 3 3 and 
+: 866 14 7 fire 
+- 881
+: 882 6 11 Guar
+: 889 4 11 dian 
+: 894 7 4 an
+: 902 3 4 gels 
+: 906 3 3 and 
+: 910 3 3 the 
+: 914 7 4 de
+: 922 4 4 mons 
+: 927 8 3 of 
+: 936 10 7 night 
+- 948
+: 950 5 0 The 
+: 956 11 11 power 
+: 968 2 9 pre
+: 971 6 9 serves 
+: 978 3 5 and 
+: 982 1 5 the 
+: 984 7 5 Beast 
+: 992 1 5 will 
+: 994 4 5 des
+: 999 5 5 troy 
+: 1005 5 11 us 
+- 1012
+: 1019 5 7 Ga
+: 1025 4 4 the
+: 1030 3 9 ring 
+: 1034 8 7 dark
+: 1043 4 7 ness 
+: 1048 1 4 in 
+: 1050 3 4 the 
+: 1054 4 9 cir
+: 1059 4 9 cle 
+: 1064 3 7 of 
+: 1068 11 11 light 
+- 1081
+: 1110 5 5 I 
+: 1116 9 5 feel 
+: 1126 5 5 it 
+: 1140 7 12 bur
+: 1148 14 11 ning 
+: 1176 3 5 and 
+: 1180 6 5 I 
+: 1187 6 9 feel 
+: 1194 3 5 the 
+: 1198 24 9 freeze 
+- 1224
+: 1235 6 7 The 
+: 1242 11 7 frost, 
+: 1254 5 7 the 
+* 1260 18 12 fire, 
+: 1290 6 7 it 
+: 1297 12 7 burns 
+: 1310 3 7 in
+: 1314 12 7 side 
+: 1327 1 4 of 
+: 1329 33 9 me, 
+* 1367 31 12 yeah 
+- 1400
+: 3450 4 5 I 
+: 3455 6 5 feel 
+: 3462 7 5 it 
+: 3470 4 12 bur
+: 3475 13 12 ning 
+: 3515 3 5 and 
+: 3519 7 5 I 
+: 3527 7 9 feel 
+: 3535 4 5 the 
+: 3540 18 9 freeze 
+- 3560
+: 3580 5 7 The 
+: 3586 15 7 frost, 
+: 3602 8 7 the 
+* 3611 19 12 fire, 
+: 3636 5 7 it 
+: 3642 11 7 burns 
+: 3654 3 7 in
+: 3658 11 7 side 
+: 3670 1 4 of 
+: 3672 56 9 me 
+- 3730
+: 3980 9 11 Tales 
+: 3990 3 4 that 
+: 3994 5 4 speak 
+: 4000 5 3 of 
+: 4006 9 4 frost 
+: 4016 3 3 and 
+: 4020 12 7 fire 
+- 4034
+: 4036 11 4 Tales 
+: 4048 3 4 of 
+: 4052 3 4 all 
+: 4056 2 4 the 
+: 4059 12 11 souls 
+: 4072 5 9 that 
+: 4078 14 9 fell 
+- 4094
+: 4102 11 4 Words 
+: 4114 5 4 that 
+: 4121 9 4 burn 
+: 4131 4 3 and 
+: 4136 10 4 words 
+: 4147 4 4 that 
+: 4152 3 11 chill 
+: 4156 3 9 us 
+- 4160
+: 4160 5 11 Like 
+: 4166 5 9 laugh
+: 4172 3 9 ter 
+: 4176 3 9 kin
+: 4180 5 9 dling 
+: 4186 4 5 in 
+: 4191 4 5 the 
+: 4196 10 4 heart 
+: 4207 8 7 of 
+: 4216 18 9 Hell 
+- 4236
+: 4260 7 5 I 
+: 4268 6 5 feel 
+: 4275 5 5 it 
+: 4283 6 12 bur
+: 4290 12 11 ning 
+: 4331 2 5 and 
+: 4334 6 5 I 
+: 4341 6 9 feel 
+: 4348 3 5 the 
+: 4352 18 9 freeze 
+- 4372
+: 4393 4 7 The 
+: 4398 9 7 frost, 
+: 4408 4 7 the 
+* 4413 15 12 fire, 
+: 4437 5 7 it 
+: 4443 12 7 burns 
+: 4456 6 7 in
+: 4463 15 7 side 
+: 4479 4 4 of 
+: 4484 18 9 me 
+- 4504
+: 4508 7 7 It 
+: 4516 7 7 burns 
+: 4524 4 7 in
+: 4529 10 7 side 
+: 4540 5 4 of 
+: 4546 20 9 me, 
+: 4578 10 7 it 
+: 4589 7 7 burns 
+: 4597 3 7 in
+: 4601 10 7 side 
+: 4612 1 4 of 
+: 4614 13 9 me. 
+* 4628 21 12 Yeah! 
+E

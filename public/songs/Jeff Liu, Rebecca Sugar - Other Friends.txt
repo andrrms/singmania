@@ -1,0 +1,287 @@
+#ARTIST:Jeff Liu, Rebecca Sugar
+#TITLE:Other Friends
+#MP3:Jeff Liu, Rebecca Sugar - Other Friends.mp3
+#CREATOR:Jamato
+#EDITION:Steven Universe the Movie
+#COVER:Jeff Liu, Rebecca Sugar - Other Friends [CO].jpg
+#BACKGROUND:Jeff Liu, Rebecca Sugar - Other Friends [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2019
+#LANGUAGE:English
+#BPM:472
+#GAP:580
+#VIDEO:v=2EdGviwUj1g,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/16/9e/31169e3d-17c0-f801-da2c-d095c3ddda07/794043201790.jpg/5000x5000bb.jpg
+#END:103000
+: 0 5 7 That’s 
+: 8 5 7 right 
+: 15 5 4 I 
+: 23 5 7 heard 
+: 31 5 4 the 
+: 39 5 7 sto
+: 47 3 6 ry, 
+- 52
+: 54 5 7 O
+: 60 5 4 ver 
+: 66 4 2 and 
+: 71 5 -1 o
+: 77 3 -3 ver 
+: 82 3 -5 a
+: 88 6 -2 gain, 
+- 104
+: 111 13 -1 Gee, 
+: 126 5 -5 it’s 
+: 132 9 -1 swell 
+: 142 6 -5 to 
+: 149 6 -1 fi
+: 156 2 2 nal
+: 159 3 4 ly 
+: 163 7 -1 meet 
+: 171 7 -5 her 
+: 182 15 -2 o
+: 199 12 -3 ther 
+: 212 19 -5 friends! 
+- 241
+: 256 8 7 That’s 
+: 265 6 7 right, 
+: 272 7 4 I 
+: 280 7 10 heard 
+: 288 2 7 the 
+: 292 10 9 sto
+: 303 6 7 ry, 
+- 311
+: 313 6 10 Don’t 
+: 320 2 9 real
+: 323 3 7 ly 
+: 327 6 4 like 
+: 334 4 2 how 
+: 339 4 -1 it 
+: 344 16 -2 ends, 
+- 369
+: 373 9 -1 Gee, 
+: 383 7 -5 it’s 
+: 391 9 -1 swell 
+: 401 3 -5 to 
+: 405 6 -1 fi
+: 412 2 2 nal
+: 415 3 4 ly 
+: 419 9 -1 meet 
+: 429 8 -5 her 
+: 438 17 -2 o
+: 456 11 -3 ther 
+: 468 19 -5 friends! 
+- 497
+: 512 6 -2 What 
+: 519 4 -2 did 
+: 524 6 -5 she 
+: 531 9 -2 say 
+: 541 5 -5 a
+: 547 10 -2 bout 
+: 558 7 -5 me? 
+- 567
+: 569 5 -1 What 
+: 575 6 2 did 
+: 582 3 4 she 
+: 586 28 -1 say? 
+- 624
+: 640 5 -2 What 
+: 646 7 -2 did 
+: 654 7 -5 you 
+: 662 7 -2 do 
+: 670 3 -5 with
+: 674 10 -2 out 
+: 685 7 -5 me? 
+- 694
+: 696 5 -1 What 
+: 702 8 2 did 
+: 711 5 4 you 
+: 717 26 7 do? 
+- 753
+: 766 7 -2 Did 
+: 774 7 -2 you 
+: 782 7 -5 play 
+: 790 11 -2 games 
+: 802 2 -5 with
+: 805 8 -2 out 
+: 814 6 -5 me? 
+- 822
+: 824 5 -2 What 
+: 830 7 1 did 
+: 838 7 4 you 
+: 846 25 7 play? 
+- 875
+: 877 4 4 Did 
+: 882 5 6 you 
+: 888 5 7 think 
+: 894 4 4 all 
+: 899 4 6 this 
+: 904 6 7 time 
+: 911 3 4 that 
+: 915 3 6 I 
+: 919 3 7 would
+: 923 4 4 n’t 
+: 928 8 6 find 
+: 937 5 7 out 
+: 943 4 11 a
+: 948 11 11 bout 
+* 960 26 9 you? 
+- 996
+: 1011 12 -1 Oh, 
+: 1025 6 7 that’s 
+: 1032 6 7 right, 
+: 1039 6 4 I 
+: 1046 7 7 heard 
+: 1054 3 4 the 
+: 1058 11 7 sto
+: 1070 4 6 ry, 
+- 1076
+: 1078 7 7 O
+: 1086 4 4 ver 
+: 1091 3 2 and 
+: 1095 6 -1 o
+: 1102 4 -3 ver 
+: 1107 3 -5 a
+: 1111 10 -2 gain, 
+- 1131
+: 1135 11 -1 Gee, 
+: 1147 8 -5 it’s 
+: 1156 11 -1 swell 
+: 1168 3 -5 to 
+: 1172 6 -1 fi
+: 1179 3 2 nal
+: 1183 4 4 ly 
+: 1188 6 -1 meet 
+: 1195 10 -5 her 
+: 1207 33 -2 o
+: 1241 26 -3 ther 
+: 1268 20 -5 friends! 
+- 1350
+: 1855 7 7 Who 
+: 1863 4 6 am 
+: 1868 10 4 I? 
+- 1886
+* 1889 5 11 Who 
+* 1895 5 9 am 
+* 1901 5 7 I? 
+- 1909
+: 1911 5 11 What 
+: 1917 4 9 are 
+: 1922 6 7 you 
+: 1929 4 4 e
+: 1934 5 0 ven 
+: 1940 14 -1 say
+: 1955 9 6 ing? 
+- 1970
+: 1972 11 7 I’m 
+: 1984 3 4 the 
+: 1988 8 7 lo
+: 1997 8 4 ser 
+: 2006 7 6 of 
+: 2014 2 4 the 
+: 2017 11 6 game 
+: 2029 14 4 you 
+: 2044 3 7 did
+: 2048 3 7 n’t 
+: 2052 5 7 know 
+: 2058 4 9 you 
+: 2063 5 7 were 
+: 2069 16 5 play
+: 2086 9 3 ing! 
+- 2104
+: 2108 11 7 Let’s 
+: 2120 6 7 play 
+: 2127 3 4 a
+: 2131 7 11 no
+: 2139 5 9 ther 
+: 2145 11 7 game, 
+- 2158
+: 2160 4 4 This 
+: 2165 8 -1 time 
+: 2174 5 2 I 
+: 2180 6 4 get 
+: 2187 6 6 to 
+: 2194 11 11 win! 
+- 2215
+: 2226 12 11 Lives 
+: 2239 3 7 on 
+: 2243 3 9 the 
+: 2247 13 11 line, 
+- 2262
+: 2264 3 11 Win
+: 2268 4 7 ner 
+: 2273 6 9 takes 
+: 2280 12 11 all, 
+- 2296
+: 2298 4 11 Rea
+: 2303 3 7 dy 
+: 2307 3 9 or 
+: 2311 4 11 not, 
+: 2318 15 14 Let’s 
+: 2334 8 12 be
+: 2343 9 11 gin! 
+- 2356
+F 2358 10 -1 Oh, 
+: 2369 7 7 that’s 
+: 2377 6 7 right 
+: 2384 6 4 I 
+: 2391 9 7 heard 
+: 2401 2 4 the 
+: 2404 10 7 sto
+: 2415 4 6 ry, 
+- 2421
+: 2423 7 7 O
+: 2431 5 4 ver 
+: 2437 3 2 and 
+: 2441 4 -1 o
+: 2446 4 -3 ver 
+: 2451 2 -5 a
+: 2454 17 -2 gain, 
+- 2478
+: 2481 13 -1 Gee, 
+: 2495 6 -5 it’s 
+: 2502 7 -1 swell 
+: 2510 6 -5 to 
+: 2517 5 -1 fi
+: 2523 2 2 nal
+: 2526 5 4 ly 
+* 2532 8 -1 beat 
+: 2541 8 -5 her 
+: 2550 15 -2 o
+: 2566 13 -3 ther 
+: 2580 12 -5 friends! 
+- 2604
+F 2608 15 -1 Oh, 
+: 2624 5 7 that’s 
+: 2630 7 7 right 
+: 2638 6 4 I 
+: 2645 8 10 heard 
+: 2654 3 7 the 
+: 2658 12 9 sto
+: 2671 5 7 ry, 
+- 2678
+: 2680 5 10 Don’t 
+: 2686 2 9 real
+: 2689 3 7 ly 
+: 2693 7 4 like 
+: 2701 4 2 how 
+: 2706 5 -1 it 
+: 2712 10 -2 ends, 
+- 2732
+: 2739 12 -1 Gee, 
+: 2752 4 -5 it’s 
+: 2757 9 -1 swell 
+: 2767 2 -5 to 
+: 2770 4 -1 fi
+: 2775 5 2 nal
+: 2781 5 4 ly 
+* 2787 9 -1 beat 
+: 2797 8 -5 her 
+: 2806 36 -2 o
+: 2843 16 -3 ther, 
+- 2868
+: 2871 34 -2 O
+: 2906 26 -3 ther, 
+- 2936
+: 2938 60 -2 O
+* 2999 64 7 ther 
+: 3064 56 6 friends! 
+E

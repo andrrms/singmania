@@ -1,0 +1,275 @@
+#ARTIST:blink-182
+#TITLE:Give Me One Good Reason
+#MP3:blink-182 - Give Me One Good Reason.mp3
+#CREATOR:Unknown
+#COVER:blink-182 - Give Me One Good Reason [CO].jpg
+#BACKGROUND:blink-182 - Give Me One Good Reason [BG].jpg
+#YEAR:2001
+#LANGUAGE:English
+#BPM:314
+#GAP:12540
+#VIDEO:a=0cY04U8MXT8,co=take-off-your-pants-and-jacket-55e8bfcd395e3.jpg,bg=blink-182-4eaea7576e7f3.jpg,medley=380-1264,tags=explicit
+: 0 4 8 Mom 
+: 4 4 8 and 
+: 8 8 8 dad 
+- 16
+: 16 8 4 They 
+: 24 4 3 quite 
+: 28 4 3 don’t 
+: 32 4 4 un
+: 36 4 6 der
+: 40 8 6 stand 
+: 48 8 3 it 
+- 60
+: 64 4 8 All 
+: 68 4 8 the 
+: 72 8 8 kids 
+- 80
+: 80 8 4 They 
+: 88 4 3 laugh 
+: 92 4 3 as 
+: 96 4 4 if 
+: 100 4 6 they 
+: 104 8 6 planned 
+: 112 8 3 it 
+- 124
+: 128 4 8 Why 
+: 132 4 8 do 
+: 136 8 8 girls 
+: 144 4 4 want 
+: 148 4 4 to 
+: 152 8 3 pierce 
+: 160 8 4 their 
+: 168 12 4 nose 
+- 184
+: 188 4 4 And 
+: 192 4 8 walk 
+: 196 4 8 around 
+: 200 8 8 in 
+: 208 8 4 torn 
+: 216 8 9 panty
+: 224 4 8 ho
+: 228 4 4 se, 
+: 232 2 6 oh 
+- 234
+: 234 6 6 ~ 
+: 240 4 8 yeah
+: 244 16 8 ~ 
+- 320
+: 380 4 8 I 
+: 384 4 8 like 
+: 388 4 8 the 
+: 392 4 8 ones 
+: 396 4 8 who 
+: 400 4 4 say 
+: 404 4 4 they 
+- 408
+: 408 4 3 Lis
+: 412 4 3 ten 
+: 416 4 4 to 
+: 420 4 6 the 
+: 424 8 6 punk 
+: 432 8 3 rock 
+- 442
+: 444 4 8 I 
+: 448 4 8 like 
+: 452 4 8 the 
+: 456 4 8 kids 
+: 460 4 8 who 
+: 464 4 4 fight 
+- 468
+: 468 4 4 A
+: 472 4 3 gainst 
+: 476 4 3 how 
+: 480 4 4 they 
+: 484 4 6 were 
+: 488 8 6 brought 
+: 496 8 3 up 
+- 506
+: 508 4 8 They 
+: 512 4 8 hate 
+: 516 4 8 the 
+: 520 4 8 trends 
+- 524
+: 524 4 8 And 
+: 528 4 6 think 
+: 532 4 4 it’s 
+: 536 8 3 fucked 
+: 544 8 4 to 
+: 552 12 4 care 
+- 568
+: 572 4 4 It’s 
+: 576 4 8 cool 
+: 580 4 8 when 
+: 584 4 8 they 
+: 588 4 8 piss 
+: 592 4 6 peo
+: 596 4 4 ple 
+: 600 4 9 off 
+- 604
+: 604 4 9 With 
+: 608 4 8 what 
+: 612 4 4 they 
+: 616 8 6 wear, 
+- 624
+: 624 4 8 Oh 
+: 628 16 8 yeah 
+- 700
+: 756 4 8 So 
+: 760 12 8 give 
+: 772 12 4 me 
+: 792 12 8 one 
+: 804 12 4 good 
+: 824 12 4 rea
+: 836 12 6 son
+: 848 32 3 ~ 
+- 884
+: 888 12 8 Why 
+: 900 12 4 we 
+: 920 12 8 need 
+: 932 12 4 to 
+: 952 12 4 be 
+: 964 12 3 like 
+: 976 32 4 them 
+- 1012
+: 1016 12 8 Kids 
+: 1028 12 4 will 
+: 1048 12 8 have 
+: 1060 12 4 fun 
+: 1072 8 4 and 
+: 1080 12 4 of
+: 1092 12 6 fend
+: 1104 32 3 ~ 
+- 1140
+: 1144 12 8 They 
+: 1156 12 4 don’t 
+: 1176 12 8 want 
+: 1188 12 4 to 
+: 1200 8 4 and 
+: 1208 12 4 don’t 
+: 1220 12 3 fit 
+: 1232 32 4 in 
+- 1400
+: 1536 4 8 Hate 
+: 1540 4 8 the 
+: 1544 4 8 jocks, 
+: 1548 4 8 the 
+: 1552 4 4 preps, 
+- 1556
+: 1556 4 4 The 
+: 1560 4 3 hip
+: 1564 4 3 pie
+: 1568 4 4 fu
+: 1572 4 6 ckin’ 
+: 1576 8 6 scum
+: 1584 8 3 bags 
+- 1596
+: 1600 4 8 He
+: 1604 4 8 avy
+: 1608 4 8 met
+: 1612 4 8 alers 
+: 1616 4 4 with 
+: 1620 4 4 their 
+: 1624 4 3 aw
+: 1628 4 3 ful, 
+- 1632
+: 1632 4 4 Pus
+: 1636 4 6 sy 
+: 1640 8 6 hair 
+: 1648 8 3 bands 
+- 1660
+: 1664 4 8 Count
+: 1668 4 8 ing 
+: 1672 4 8 sec
+: 1676 4 8 onds 
+: 1680 4 6 un
+: 1684 4 4 til 
+: 1688 4 3 we 
+: 1692 4 3 can 
+: 1696 4 4 get 
+: 1700 4 6 a
+: 1704 12 4 way 
+- 1722
+: 1728 4 8 Ditch
+: 1732 4 8 in’ 
+: 1736 8 8 school 
+: 1744 4 6 al
+: 1748 4 4 most 
+: 1752 4 9 ev
+: 1756 4 9 ery 
+: 1760 4 8 sin
+: 1764 4 4 gle 
+: 1768 8 6 day, 
+- 1776
+: 1776 4 8 Oh 
+: 1780 16 8 yeah 
+- 1916
+: 2036 4 8 So 
+: 2040 12 8 give 
+: 2052 12 4 me 
+: 2072 12 8 one 
+: 2084 12 4 good 
+: 2104 12 4 rea
+: 2116 12 6 son
+: 2128 32 3 ~ 
+- 2164
+: 2168 12 8 Why 
+: 2180 12 4 we 
+: 2200 12 8 need 
+: 2212 12 4 to 
+: 2232 12 4 be 
+: 2244 12 3 like 
+: 2256 32 4 them 
+- 2292
+: 2296 12 8 Kids 
+: 2308 12 4 will 
+: 2328 12 8 have 
+: 2340 12 4 fun 
+: 2352 8 4 and 
+: 2360 12 4 of
+: 2372 12 6 fend
+: 2384 32 3 ~ 
+- 2420
+: 2424 12 8 They 
+: 2436 12 4 don’t 
+: 2456 12 8 want 
+: 2468 12 4 to 
+: 2480 8 4 and 
+: 2488 12 4 don’t 
+: 2500 12 3 fit 
+: 2512 32 4 in 
+- 2868
+: 3192 12 8 Give 
+: 3204 12 4 me 
+: 3224 12 8 one 
+: 3236 12 4 good 
+: 3256 12 4 rea
+: 3268 12 6 son
+: 3280 32 3 ~ 
+- 3316
+: 3320 12 8 Why 
+: 3332 12 4 we 
+: 3352 12 8 need 
+: 3364 12 4 to 
+: 3384 12 4 be 
+: 3396 12 3 like 
+: 3408 32 4 them 
+- 3444
+: 3448 12 8 Kids 
+: 3460 12 4 will 
+: 3480 12 8 have 
+: 3492 12 4 fun 
+: 3504 8 4 and 
+: 3512 12 4 of
+: 3524 12 6 fend
+: 3536 32 3 ~ 
+- 3572
+: 3576 12 8 They 
+: 3588 12 4 don’t 
+: 3608 12 8 want 
+: 3620 12 4 to 
+: 3632 8 4 and 
+: 3640 12 4 don’t 
+: 3652 12 3 fit 
+: 3664 32 4 in 
+E

@@ -1,0 +1,113 @@
+#ARTIST:My Little Pony
+#TITLE:So Many Wonders
+#MP3:My Little Pony - So Many Wonders.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2011
+#LANGUAGE:English
+#BPM:360
+#GAP:2790
+#VIDEO:v=5spYX1Q1dOI,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 4 24 What 
+: 8 4 26 is 
+: 16 4 28 this 
+: 24 6 26 place 
+: 40 6 28 filled 
+: 48 4 29 with 
+: 54 8 31 so 
+: 64 7 31 ma
+: 72 4 28 ny 
+: 78 8 33 won
+: 90 4 31 ders? 
+- 96
+: 108 5 24 Ca
+: 114 4 26 sting 
+: 122 4 28 its 
+: 130 8 26 spell 
+: 148 5 28 th
+: 154 6 29 at 
+: 162 6 31 I 
+: 172 6 31 am 
+: 182 8 28 now 
+: 192 6 33 un
+: 202 8 34 der 
+- 212
+: 218 5 34 Squirr
+: 224 4 34 els 
+: 234 4 31 in 
+: 240 4 27 the 
+: 248 8 24 trees 
+: 258 6 26 and 
+: 266 4 27 the 
+: 272 8 29 cute 
+: 286 4 29 li
+: 292 4 26 ttle 
+: 300 12 24 bu
+: 314 6 22 nnies 
+- 322
+: 328 8 34 Birds 
+: 340 8 31 fly
+: 350 4 27 ing 
+: 358 6 24 free 
+: 370 7 26 a
+: 378 6 27 nd 
+: 386 8 29 bees 
+: 400 4 29 with 
+: 408 4 26 their 
+: 414 10 33 ho
+: 428 4 31 ney 
+- 434
+* 442 32 33 Ho
+* 476 80 31 ney! 
+- 558
+: 590 20 31 Oh, 
+: 614 6 31 what 
+: 622 4 28 a 
+: 628 1 33 ma
+: 630 3 31 gi
+: 634 4 28 cal 
+: 640 4 24 place 
+- 646
+: 652 4 29 And 
+: 658 2 31 I 
+: 662 6 33 owe 
+: 670 4 33 it 
+: 678 8 33 all 
+: 690 2 33 to 
+: 696 1 29 the 
+: 698 2 35 Pe
+: 702 4 31 ga
+: 708 2 29 sus 
+: 712 8 26 race 
+- 722
+: 726 2 33 If 
+: 730 2 33 I 
+: 734 6 33 knew 
+: 744 4 33 the 
+: 754 4 36 ground 
+: 762 2 35 had 
+: 766 2 33 so 
+: 772 4 31 much 
+: 778 2 28 up 
+: 782 4 35 its 
+: 788 4 33 sleeve 
+- 794
+: 800 4 29 I’d 
+: 806 2 28 have 
+: 810 4 26 come 
+: 816 6 28 here 
+: 828 5 29 soo
+: 834 4 30 ner, 
+: 842 4 30 and 
+: 848 4 31 ne
+: 854 4 32 ver 
+: 860 4 35 leave 
+- 866
+: 874 4 31 Yes, 
+: 886 4 26 I 
+: 900 10 28 love 
+: 922 17 29 e
+: 940 16 31 very
+* 958 116 36 thing! 
+E

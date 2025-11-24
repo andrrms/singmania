@@ -1,0 +1,457 @@
+#ARTIST:Red Hot Chili Peppers
+#TITLE:Around The World
+#MP3:Red Hot Chili Peppers - Around The World.mp3
+#CREATOR:DoubleDee
+#COVER:Red Hot Chili Peppers - Around The World [CO].jpg
+#BACKGROUND:Red Hot Chili Peppers - Around The World [BG].jpg
+#YEAR:1999
+#LANGUAGE:English
+#BPM:382
+#GAP:16600
+#VIDEO:v=a9eNQZbjpJk,co=around-the-world-5b75e4c3c46c3.jpg,preview=50.7,medley=370-1374
+#START:1.9
+: 0 239 20 Yeah, 
+F 240 5 28 woo 
+- 295
+R 370 3 15 All 
+R 374 2 16 a
+R 378 3 16 round 
+R 382 2 16 the 
+R 386 6 16 world 
+- 399
+R 402 2 15 We 
+R 406 2 16 can 
+R 410 4 16 make 
+R 418 4 15 time 
+- 431
+R 434 3 14 Rom
+R 438 3 15 pin’ 
+R 442 3 15 and 
+R 446 2 15 a–
+R 449 3 15 stom
+R 453 2 14 pin’ 
+R 457 3 14 cuz 
+R 461 2 14 I’m 
+R 465 4 14 in 
+R 472 4 14 my 
+R 480 6 15 prime 
+- 493
+R 496 7 15 Born 
+R 504 2 14 in 
+R 508 3 15 the 
+R 512 4 14 North 
+R 520 3 14 and 
+R 524 5 15 sworn 
+R 531 2 13 to 
+R 535 3 15 en
+R 539 3 15 ter
+R 543 3 16 tain 
+R 551 3 14 ya 
+- 563
+R 566 2 13 Cuz 
+R 570 2 16 I’m 
+R 574 7 13 down 
+R 582 2 14 for 
+R 586 2 13 the 
+R 590 3 14 state 
+R 594 2 11 of 
+R 598 2 14 Penn
+R 602 2 14 syl
+R 606 3 14 va
+R 614 1 14 nia 
+- 616
+R 618 2 16 I 
+R 622 2 15 try 
+R 626 2 14 not 
+R 633 2 15 to 
+R 637 3 16 whine 
+R 645 3 15 but 
+- 654
+R 656 2 12 I 
+R 660 4 16 must 
+R 668 7 16 warn 
+R 676 5 14 ya 
+- 689
+R 692 3 16 ’Bout 
+R 696 2 14 the 
+R 700 3 15 mo
+R 704 3 15 ther
+R 708 2 15 fuck
+R 712 2 15 in’ 
+R 716 3 15 girls 
+R 720 2 15 from 
+G 724 2 15 Ca
+G 728 2 16 li
+G 732 2 16 for
+G 739 2 16 nia 
+- 744
+R 746 3 16 A
+R 750 2 16 la
+R 754 2 16 ba
+R 758 2 16 ma 
+R 762 2 16 ba
+R 766 3 16 by 
+R 771 3 16 said 
+R 786 2 17 hal
+R 790 2 17 le
+R 794 3 17 lu
+R 802 3 17 jah 
+- 814
+R 817 5 16 Good 
+R 825 3 14 God 
+R 833 4 14 girl, 
+- 842
+R 844 2 13 I 
+R 848 3 16 wish 
+R 852 2 12 I 
+R 856 5 16 knew 
+R 864 4 16 ya 
+- 878
+* 888 4 12 I 
+* 896 25 12 know 
+: 923 4 12 I 
+: 930 22 12 know 
+: 954 4 15 for 
+: 961 35 10 sure 
+- 1006
+: 1010 8 12 That 
+: 1019 6 12 life 
+: 1027 5 10 is 
+: 1035 7 12 beau
+: 1043 5 12 ti
+: 1051 5 12 ful 
+: 1058 7 10 a
+: 1067 14 12 round 
+: 1083 6 10 the 
+: 1091 14 7 wor
+: 1107 17 10 ~ld 
+- 1134
+: 1147 7 12 I 
+: 1156 22 12 know 
+: 1180 6 12 I 
+: 1189 3 10 know
+: 1193 19 12 ~ 
+: 1213 4 15 it’s 
+: 1221 34 10 you 
+- 1265
+: 1269 4 12 You 
+: 1276 8 12 say 
+: 1286 6 10 hel
+: 1293 8 12 lo 
+: 1302 5 12 and 
+: 1310 6 12 then 
+: 1318 4 10 I 
+: 1326 7 12 say 
+: 1334 13 10 a
+: 1349 25 7 dieu 
+- 1399
+R 1454 5 14 Come 
+R 1462 4 14 back 
+R 1470 3 14 ba
+R 1474 3 14 by 
+R 1478 2 14 cause 
+R 1482 3 14 I’d 
+R 1486 4 13 like 
+R 1494 3 13 to 
+R 1502 6 14 say 
+- 1512
+R 1514 2 12 I’ve 
+R 1518 3 14 been 
+R 1522 2 14 a
+R 1526 3 14 round 
+R 1530 2 12 the 
+R 1534 4 14 world 
+- 1540
+R 1542 4 14 Back 
+R 1550 6 14 from 
+R 1558 4 15 Bom
+R 1566 5 15 bay 
+- 1577
+R 1580 4 14 Fox 
+R 1589 5 14 hole 
+R 1597 5 15 love, 
+R 1605 4 13 Pie 
+R 1614 2 14 in 
+R 1618 4 14 your 
+R 1626 4 14 face 
+- 1640
+R 1644 3 13 Liv
+R 1648 3 14 in’ 
+R 1653 2 14 in 
+R 1657 2 14 and 
+R 1661 2 14 out 
+R 1668 2 14 of 
+R 1672 2 14 a 
+R 1676 3 14 big 
+R 1684 4 14 fat 
+R 1692 4 16 suit
+R 1700 4 13 case 
+- 1706
+R 1708 2 16 Bo
+R 1712 3 16 na 
+R 1716 4 15 fide 
+R 1724 3 14 ride 
+R 1732 3 15 step 
+R 1736 2 15 a
+R 1740 3 15 side 
+R 1748 3 14 my 
+R 1756 4 15 John
+R 1764 5 15 son 
+- 1775
+R 1778 3 14 Yes 
+R 1782 3 16 I 
+R 1786 5 17 could 
+R 1795 2 14 in 
+R 1799 2 15 the 
+R 1803 3 16 woods 
+R 1807 2 13 of 
+R 1811 5 14 Wis
+R 1817 5 15 con
+R 1825 1 16 sin 
+- 1828
+R 1830 3 8 Ah, 
+R 1835 3 8 wake 
+R 1839 3 16 up 
+R 1845 3 14 the 
+R 1850 3 13 cake 
+- 1856
+R 1858 2 15 It’s 
+R 1862 2 12 a 
+R 1865 4 13 lake 
+R 1873 4 15 she’s 
+R 1881 3 15 kiss
+R 1885 3 15 in’ 
+R 1889 4 13 me 
+- 1901
+R 1904 2 16 As 
+R 1908 2 16 they 
+R 1912 4 16 do 
+R 1920 3 15 when 
+R 1924 3 16 they 
+R 1928 4 16 do 
+R 1936 3 16 in 
+R 1943 3 16 Si
+R 1947 3 16 ci
+R 1952 3 16 ly 
+- 1965
+: 1976 4 12 I 
+: 1983 24 12 know 
+: 2009 4 12 I 
+: 2017 22 12 know 
+: 2041 4 15 for 
+: 2050 33 10 sure 
+- 2093
+: 2097 8 12 That 
+: 2106 6 12 life 
+: 2114 5 10 is 
+: 2123 7 12 beau
+: 2131 5 12 ti
+: 2139 5 12 ful 
+: 2146 7 10 a
+: 2154 14 12 round 
+: 2171 6 10 the 
+: 2179 14 7 wor
+: 2194 19 10 ~ld 
+- 2223
+: 2234 7 12 I 
+: 2243 24 12 know 
+: 2269 6 12 I 
+: 2277 3 10 know
+: 2281 19 12 ~ 
+: 2301 4 15 it’s 
+: 2309 34 10 you 
+- 2354
+: 2358 4 12 You 
+: 2366 8 12 say 
+: 2376 6 10 hel
+: 2383 7 12 lo 
+: 2391 5 12 and 
+: 2399 6 12 then 
+: 2407 4 10 I 
+: 2416 7 12 say 
+* 2424 13 10 a
+* 2438 25 7 dieu 
+- 2513
+: 2665 297 19 Yeah 
+- 3012
+R 3106 3 15 Where 
+R 3110 2 16 you 
+R 3114 2 16 wan
+R 3118 3 16 na 
+R 3122 3 14 go? 
+- 3134
+R 3138 3 14 Who 
+R 3142 2 15 you 
+R 3146 3 15 wan
+R 3150 3 15 na 
+R 3154 4 15 be? 
+- 3163
+R 3165 3 8 Or 
+R 3169 2 16 what 
+R 3173 2 14 you 
+R 3177 2 14 wan
+R 3181 2 14 na 
+R 3185 3 15 do? 
+- 3191
+R 3193 3 13 Just 
+R 3200 5 13 come 
+R 3208 5 14 with 
+R 3216 4 18 me 
+- 3229
+R 3232 4 16 I 
+R 3240 4 15 saw 
+R 3248 4 15 God 
+R 3256 2 15 and 
+R 3260 3 13 I 
+R 3268 5 15 saw 
+R 3275 3 14 the 
+R 3280 5 15 foun
+R 3288 3 16 tains 
+- 3293
+R 3295 3 14 You 
+R 3299 2 15 and 
+R 3303 4 15 me 
+R 3311 4 15 girl 
+R 3318 2 14 sit
+R 3322 2 12 tin’ 
+R 3326 2 14 in 
+R 3330 2 14 the 
+R 3334 2 15 Swiss 
+R 3341 4 14 moun
+R 3349 3 12 tains 
+- 3355
+R 3357 4 17 Me 
+R 3365 3 11 oh 
+R 3374 5 16 my 
+R 3381 4 10 oh 
+R 3389 5 15 me 
+R 3397 5 13 and 
+R 3405 4 15 guy 
+R 3412 3 11 ho 
+- 3418
+R 3420 2 15 Freer
+R 3424 2 15 ~ 
+R 3428 2 15 than 
+R 3432 2 15 a 
+R 3436 2 14 bird 
+R 3444 2 15 ’cause 
+R 3448 3 15 we’re 
+R 3452 2 12 rock
+R 3456 2 12 in’ 
+R 3460 4 13 O
+R 3468 4 13 hi
+R 3476 3 13 o 
+- 3485
+R 3487 2 12 A
+R 3491 2 12 round 
+R 3495 2 13 the 
+R 3499 2 15 world 
+- 3511
+R 3519 3 15 I 
+R 3523 3 14 feel 
+R 3531 3 13 du
+R 3535 2 13 ti
+R 3539 2 13 ful 
+- 3550
+R 3554 3 15 Take 
+R 3558 2 14 a 
+R 3562 4 15 wife 
+R 3569 2 14 ’cause 
+G 3578 3 16 life 
+G 3585 2 16 is 
+G 3593 2 17 beau
+G 3597 2 16 ti
+G 3601 2 13 ful 
+- 3613
+: 3625 6 12 I 
+: 3633 2 10 know
+: 3636 21 12 ~ 
+: 3659 4 12 I 
+: 3666 22 12 know 
+: 3691 4 15 for 
+: 3699 33 10 sure 
+- 3744
+* 3748 5 12 Ding 
+* 3755 6 12 ding, 
+* 3763 5 10 dong 
+: 3772 7 12 dong, 
+: 3780 5 12 ding 
+: 3788 5 12 ding, 
+: 3796 6 10 dong 
+: 3804 13 12 dong, 
+: 3820 6 10 ding 
+: 3827 14 7 ding 
+- 3851
+: 3883 7 12 I 
+: 3892 3 10 know
+: 3896 20 12 ~ 
+: 3917 6 12 I 
+: 3924 3 10 know
+: 3928 19 12 ~ 
+: 3949 4 15 it’s 
+: 3957 34 10 you 
+- 4002
+: 4006 4 12 Ding 
+: 4013 7 12 ding, 
+: 4021 6 10 dong 
+: 4029 5 12 dong, 
+: 4037 5 12 ding 
+: 4045 6 12 ding, 
+: 4053 4 10 dong 
+: 4061 14 12 dong, 
+: 4077 6 10 ding 
+: 4086 12 7 ding 
+- 4108
+* 4135 3 12 Mo
+* 4139 3 12 ther 
+* 4143 4 12 Rus
+* 4151 6 10 sia 
+: 4159 3 12 do 
+: 4163 4 12 not 
+: 4173 6 15 suf
+: 4181 2 11 fer
+: 4184 5 12 ~ 
+- 4195
+: 4198 4 12 I 
+: 4207 4 12 know 
+: 4215 4 10 you’re 
+* 4223 6 15 bold 
+* 4231 3 12 e
+* 4235 2 10 nough
+* 4238 3 12 ~ 
+- 4243
+: 4245 6 12 I’ve 
+: 4254 5 12 been 
+: 4262 7 12 a
+: 4271 6 12 round 
+: 4279 4 10 the 
+: 4287 4 12 world 
+- 4293
+: 4295 5 12 And 
+: 4303 6 12 I 
+: 4311 5 10 have 
+: 4319 14 12 seen 
+: 4335 3 10 your 
+: 4343 15 7 love
+: 4359 17 10 ~ 
+- 4386
+: 4399 5 12 I 
+: 4407 2 10 know
+: 4410 21 12 ~ 
+: 4432 4 12 I 
+: 4439 2 10 know
+: 4442 20 12 ~ 
+: 4464 3 15 it’s 
+* 4472 36 10 you 
+- 4517
+: 4521 6 12 You 
+: 4528 7 12 say 
+: 4536 6 10 hel
+: 4544 6 12 lo 
+: 4552 7 12 and 
+: 4560 7 12 then 
+: 4568 6 10 I 
+: 4576 7 12 say 
+* 4584 14 10 a
+* 4600 29 7 dieu 
+E

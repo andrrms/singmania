@@ -1,0 +1,218 @@
+#ARTIST:Elastica
+#TITLE:Connection
+#MP3:Elastica - Connection.mp3
+#CREATOR:SUBKEI
+#GENRE:Alternative
+#YEAR:1994
+#LANGUAGE:English
+#BPM:485.48
+#GAP:35970
+#VIDEO:v=ilKcXIFi-Rc,co=https://i.discogs.com/fs0Mp9W5m6gkE3svmwkhkCF-QDfub9ypXeL33Vj31bU/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjYx/OC0xNTM2NjkzOTM2/LTI4NTEuanBlZw.jpeg,bg=elastica-4f82071e14b8f.jpg
+: 0 6 11 Ri
+: 7 6 10 ding 
+: 15 14 9 on 
+: 31 3 9 a
+: 35 2 9 ny 
+: 40 14 8 wave 
+- 56
+: 62 7 5 There 
+: 70 5 1 is 
+: 78 4 -2 the 
+: 85 7 5 luck 
+: 95 5 -1 you 
+: 101 15 -2 crave 
+- 118
+: 125 6 6 They 
+: 133 8 5 don’t 
+: 142 4 4 be
+: 148 8 10 lieve 
+: 158 5 2 it 
+: 166 13 2 now, 
+- 181
+: 183 4 3 They 
+: 191 5 11 just 
+: 202 4 3 think 
+: 207 8 -2 it’s 
+: 223 6 -1 stu
+: 232 6 -2 pid 
+- 240
+: 256 5 11 So 
+: 262 11 10 got 
+- 275
+: 287 2 8 A
+: 290 3 7 ny
+: 294 13 6 thing? 
+- 309
+: 319 3 7 A
+: 323 2 6 ny
+: 326 13 5 one 
+- 341
+: 350 4 12 Could 
+: 355 4 0 have 
+: 362 13 0 done 
+- 377
+: 382 7 8 Who 
+: 391 7 7 would
+: 399 4 7 ’ve 
+: 407 9 12 cared 
+: 418 3 0 at 
+: 422 6 0 all, 
+- 430
+* 432 8 7 Not 
+* 444 14 5 you
+* 462 5 -2 ~ 
+- 469
+: 519 4 -2 A
+: 526 7 0 no
+: 534 7 -2 ther 
+: 542 13 -2 heart 
+- 557
+: 598 3 -2 Has 
+: 606 5 3 made 
+: 613 3 3 the 
+: 619 16 -2 trade 
+- 637
+: 662 4 -2 For
+: 669 8 0 get 
+: 678 6 -2 it, 
+- 686
+: 693 5 -2 For
+: 700 8 10 get 
+: 710 7 -2 it, 
+- 719
+: 725 6 -2 For
+: 734 7 0 get 
+: 742 6 -2 it 
+- 750
+: 751 5 0 I 
+: 760 13 1 don’t 
+: 775 7 -2 un
+: 783 3 -4 der
+: 792 12 -2 stand 
+- 806
+: 809 6 -2 How 
+: 817 3 0 a 
+: 822 17 1 heart 
+: 841 4 -2 is 
+: 847 3 -4 a 
+: 854 13 -2 spade 
+: 871 12 0 but 
+- 885
+: 897 6 1 Some
+: 904 7 -2 how 
+: 913 5 -4 the 
+: 920 13 -2 vi
+: 936 4 -2 tal 
+: 942 8 0 con
+: 951 9 1 nec
+: 968 5 -2 tion 
+: 975 4 -2 is 
+: 984 8 -2 made
+: 994 10 -4 ~ 
+- 1006
+: 1535 7 11 Ri
+: 1543 7 10 ding 
+: 1551 11 9 on 
+: 1566 4 9 a
+: 1571 3 8 ny
+: 1575 13 7 thing 
+- 1590
+: 1599 4 8 A
+: 1604 3 7 ny
+: 1609 12 6 thing’s 
+- 1623
+: 1630 4 5 Good 
+: 1635 3 0 e
+: 1640 11 -2 nough 
+- 1653
+: 1663 7 8 Who 
+: 1671 7 7 would
+: 1679 5 7 ’ve 
+: 1687 7 12 thought 
+: 1697 4 2 it 
+: 1704 15 1 up 
+- 1721
+: 1727 7 7 Some
+: 1736 7 0 one 
+: 1744 11 0 like 
+: 1759 7 1 you
+: 1767 7 -2 ~ 
+- 1776
+: 1792 3 10 Just 
+: 1800 3 2 as 
+: 1807 6 2 they 
+: 1815 8 3 brought 
+: 1825 4 2 me 
+: 1832 13 2 round 
+- 1847
+: 1856 6 6 Now 
+: 1863 6 5 that 
+: 1870 7 5 they 
+* 1879 7 10 brought 
+* 1890 5 1 you 
+* 1897 14 -2 down 
+- 1913
+: 1920 7 4 Round
+: 1929 3 5 a
+: 1933 8 5 bout 
+: 1944 4 10 and 
+: 1953 6 0 round
+: 1960 3 -1 a
+: 1964 12 -2 bout 
+- 1978
+: 1984 3 6 Who 
+: 1989 3 6 wants 
+: 1997 2 -2 a 
+: 2000 11 -2 life 
+: 2016 5 3 a
+: 2022 2 -2 ny
+: 2026 9 -2 way? 
+- 2037
+* 2057 3 -2 A
+* 2063 7 0 no
+* 2071 7 -2 ther 
+* 2080 15 -2 heart 
+- 2097
+: 2134 4 -2 Has 
+: 2143 7 3 made 
+: 2151 3 3 the 
+: 2158 14 -2 grade 
+- 2174
+: 2200 4 -2 For
+: 2207 6 0 get 
+: 2216 6 -2 it, 
+- 2224
+: 2232 4 -2 For
+: 2239 6 10 get 
+: 2248 6 -2 it, 
+- 2256
+: 2264 5 -2 For
+: 2271 8 0 get 
+: 2281 4 -2 it 
+- 2287
+: 2288 5 0 I 
+: 2297 14 1 don’t 
+: 2313 6 -2 un
+: 2320 4 -4 der
+: 2328 14 -2 stand 
+- 2344
+: 2345 6 -2 How 
+: 2352 5 0 the 
+: 2360 13 1 last 
+: 2377 6 -2 card 
+: 2384 5 -4 is 
+: 2393 12 -2 played 
+: 2408 13 0 but 
+- 2423
+: 2434 5 1 Some
+: 2440 8 -2 how 
+: 2452 4 -4 the 
+* 2457 12 -2 vi
+* 2473 7 -2 tal 
+: 2481 6 0 con
+: 2489 11 1 nec
+: 2505 7 -2 tion 
+: 2513 4 -2 is 
+: 2521 9 -2 made
+: 2532 12 -4 ~ 
+E

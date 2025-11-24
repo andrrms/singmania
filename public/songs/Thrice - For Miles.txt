@@ -1,0 +1,272 @@
+#ARTIST:Thrice
+#TITLE:For Miles
+#MP3:Thrice - For Miles.mp3
+#CREATOR:kevin.silbstedt
+#YEAR:2005
+#LANGUAGE:English
+#BPM:312
+#GAP:19160
+#VIDEO:a=av3tTJHOrQE,co=vheissu-4f5f5ffb1d633.jpg,bg=thrice-62394b53664d9.jpg
+: 0 4 -8 I 
+: 6 16 4 know 
+: 28 26 2 one 
+: 56 6 0 day 
+- 64
+: 84 10 2 All 
+: 96 6 4 our 
+: 104 10 4 scars 
+: 116 10 5 will 
+: 128 10 2 dis
+: 140 10 0 ap
+: 152 14 2 pear 
+- 168
+: 176 10 2 Like 
+: 188 10 4 the 
+: 200 6 2 stars 
+: 208 6 0 at 
+: 216 14 -1 dawn 
+- 232
+: 234 2 -3 And 
+: 238 6 4 all 
+: 246 6 2 of 
+: 254 2 0 our 
+: 258 2 0 pa
+: 262 14 -3 in 
+- 278
+: 288 6 3 Will 
+: 296 10 2 fade 
+: 308 6 -3 a
+: 316 8 -3 way 
+: 326 10 -1 when 
+: 338 10 0 morn
+: 350 10 2 ing 
+: 362 22 -1 comes 
+- 386
+: 402 6 -8 And 
+: 410 22 4 on 
+: 434 22 2 that 
+: 458 10 0 day 
+- 470
+: 486 6 2 When we 
+: 494 6 4 look 
+: 502 10 4 back
+: 514 12 5 wards 
+: 528 10 2 we 
+: 540 6 0 will 
+: 550 16 2 see 
+- 568
+: 576 2 2 That 
+: 580 4 4 e
+: 586 8 2 very 
+: 596 8 2 thing 
+: 606 6 0 is 
+: 614 21 -1 changed 
+- 636
+: 636 2 -3 And 
+: 640 6 4 all 
+: 648 4 2 of 
+: 654 4 0 our 
+: 660 2 0 tri
+: 664 14 -3 als 
+- 680
+: 688 6 3 Will 
+: 696 6 2 be 
+: 704 6 -3 as 
+: 712 8 -3 mile
+: 722 10 -1 stones 
+: 734 10 0 on 
+: 746 10 2 the 
+: 758 22 -1 way 
+- 782
+: 838 6 0 And 
+: 846 4 0 as 
+: 854 6 4 long 
+: 862 6 2 as 
+: 870 6 0 we 
+: 878 22 0 live 
+- 902
+: 934 2 -3 Ev
+: 938 4 0 ery 
+: 944 10 4 scar 
+: 956 6 2 is 
+: 964 6 0 a 
+: 972 8 0 bridge 
+: 982 6 2 to 
+: 990 24 4 some
+: 1020 16 0 one’s 
+: 1038 22 2 bro
+: 1062 22 7 ken 
+: 1088 24 4 heart 
+- 1114
+: 1214 6 0 And 
+: 1222 6 0 there’s 
+: 1230 6 4 no 
+: 1238 6 2 grea
+: 1246 6 0 ter 
+: 1254 22 0 love 
+- 1278
+: 1310 6 -3 Than 
+: 1318 2 0 that 
+: 1322 6 4 one 
+: 1330 6 2 shed 
+: 1338 6 0 his 
+: 1346 6 0 blood 
+: 1354 6 -1 for 
+: 1362 6 -3 his 
+: 1370 22 -4 friends 
+- 1394
+: 1562 22 8 On 
+: 1586 22 8 that 
+: 1610 22 8 day 
+- 1634
+: 1636 4 8 All 
+: 1642 1 9 of 
+: 1644 6 11 the 
+: 1652 16 11 scales 
+: 1670 8 9 will 
+: 1680 10 5 swing 
+: 1692 10 7 to 
+: 1704 14 4 set 
+- 1720
+: 1728 10 2 All 
+: 1740 10 4 the 
+: 1752 6 2 wrongs 
+: 1760 4 0 to 
+: 1768 14 -1 right 
+- 1784
+: 1792 4 9 All 
+: 1800 2 4 of 
+: 1804 6 2 our 
+: 1812 2 2 te
+: 1816 14 0 ars 
+- 1832
+: 1840 4 9 And all 
+: 1846 6 4 of 
+: 1854 6 2 our 
+: 1862 10 2 fears 
+: 1874 10 4 will 
+: 1886 10 5 take 
+: 1898 10 4 to 
+: 1910 22 4 flight 
+- 1934
+: 1954 22 8 But un
+: 1978 22 8 til 
+: 2002 22 8 then 
+- 2025
+: 2026 6 8 All 
+: 2034 6 9 of 
+: 2042 4 11 our 
+: 2048 12 11 scars 
+: 2062 8 9 will 
+: 2072 10 5 still 
+: 2084 10 7 re
+: 2096 14 4 main 
+- 2112
+: 2120 10 2 But we’ve 
+: 2132 10 4 learned 
+: 2144 6 2 that 
+: 2152 6 0 if 
+: 2160 14 -1 we’ll 
+- 2176
+: 2184 6 9 O
+: 2192 6 4 pen 
+: 2200 2 2 the 
+: 2204 16 2 wounds 
+- 2222
+: 2224 3 0 And 
+: 2228 8 9 share 
+: 2238 6 4 them 
+: 2246 6 2 then 
+: 2254 10 2 soon 
+: 2266 10 4 they 
+: 2278 10 5 start 
+: 2290 10 7 to 
+: 2302 16 4 heal 
+- 2320
+: 2390 6 0 As 
+: 2398 6 4 long 
+: 2406 6 2 as 
+: 2414 6 0 we 
+: 2422 22 0 live 
+- 2446
+: 2478 4 -3 Ev
+: 2484 4 0 ery 
+: 2490 10 4 scar 
+: 2502 4 2 is 
+: 2508 6 0 a 
+: 2516 10 0 bridge 
+: 2528 6 2 to 
+: 2536 22 4 some
+: 2560 22 0 one’s 
+: 2584 22 2 bro
+: 2608 22 7 ken 
+: 2632 22 4 heart 
+- 2656
+: 2764 2 0 And 
+: 2768 6 4 there’s 
+: 2776 6 2 no 
+: 2784 10 0 greater 
+: 2796 22 0 love 
+- 2820
+: 2854 6 -3 Than 
+: 2862 6 0 that 
+: 2870 6 4 one 
+: 2878 6 2 shed 
+: 2886 6 0 his 
+: 2894 6 0 blood 
+: 2902 6 -1 for 
+: 2910 6 -3 his 
+: 2918 22 -3 friends 
+- 2942
+F 3732 4 0 We 
+F 3738 6 0 must 
+F 3746 12 0 see 
+F 3760 2 0 that 
+F 3764 14 0 every 
+F 3780 12 0 scar 
+F 3794 6 0 is 
+F 3802 2 0 a 
+F 3806 15 0 bridge
+F 3822 1 0 and 
+F 3824 6 0 as 
+F 3832 8 0 long 
+F 3842 6 0 as 
+F 3850 4 0 we 
+F 3856 9 0 live 
+- 3866
+F 3866 4 0 We 
+F 3872 6 0 must 
+F 3880 18 0 o
+F 3900 26 0 pen 
+F 3928 26 0 up 
+F 3956 18 0 these 
+F 3976 74 0 wounds 
+- 4052
+F 4094 1 0 When 
+F 4096 8 0 some
+F 4106 12 0 one 
+F 4120 10 0 stands 
+F 4132 4 0 in 
+F 4138 4 0 your 
+F 4144 9 0 shoes 
+- 4154
+F 4154 4 0 And 
+F 4160 6 0 will 
+F 4168 10 0 shed 
+F 4180 6 0 his 
+F 4188 6 0 own 
+F 4196 17 0 blood 
+- 4214
+F 4214 4 0 There’s 
+F 4220 6 0 no 
+F 4228 12 0 greater 
+F 4242 8 0 love 
+- 4252
+F 4256 2 0 We 
+F 4260 4 0 must 
+F 4266 22 0 o
+F 4290 22 0 pen 
+F 4314 24 0 up 
+F 4340 18 0 these 
+F 4360 32 0 wounds 
+E

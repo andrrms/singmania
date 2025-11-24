@@ -1,0 +1,223 @@
+#ARTIST:The Brothers Four
+#TITLE:The Green Leaves Of Summer
+#MP3:The Brothers Four - The Green Leaves Of Summer.mp3
+#CREATOR:dude76
+#YEAR:1960
+#LANGUAGE:English
+#BPM:218
+#GAP:9150
+#VIDEO:v=GRPPKZzClWE,co=https://i.discogs.com/-OuMN8hYDsHVI_jUhNpIpVgZyICgPh2Inbr6or62sNQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDMw/NDUtMTQ3ODU5NjQy/Mi0xODc2LmpwZWc.jpeg
+: 0 31 18 Oooh 
+: 33 26 19 ooh 
+- 61
+: 66 32 18 Oooh 
+: 100 24 19 ooh 
+- 126
+: 127 2 10 A 
+: 131 23 15 time 
+: 156 3 17 to 
+: 161 2 15 be 
+: 165 2 14 rea
+: 169 15 10 pin’ 
+- 186
+: 193 2 10 A 
+: 197 22 15 time 
+: 221 3 17 to 
+: 226 1 18 be 
+: 229 4 17 so
+: 235 17 13 win’ 
+- 254
+: 259 3 13 The 
+: 264 21 18 green 
+: 287 5 17 leaves 
+: 294 1 18 of 
+: 297 2 20 sum
+: 301 15 15 mer 
+- 318
+: 321 7 20 Are 
+: 330 4 21 cal
+: 336 18 21 lin’ 
+: 356 6 21 me 
+: 364 20 22 home 
+- 386
+: 389 3 22 ’Twas 
+: 394 3 23 so 
+* 399 22 25 good 
+: 423 3 23 to 
+: 428 3 22 be 
+: 433 3 20 young 
+* 438 13 15 then 
+- 453
+: 457 3 20 In 
+: 462 1 22 the 
+: 465 23 23 sea
+: 490 4 22 son 
+: 496 3 20 of 
+: 501 2 18 plen
+: 505 12 13 ty 
+- 519
+: 524 3 17 When 
+: 529 2 20 the 
+: 533 2 22 cat
+: 537 7 20 fish 
+: 557 6 18 were 
+: 565 5 17 jum
+: 572 17 17 pin’ 
+- 590
+: 591 7 17 As 
+: 600 23 15 high 
+: 625 3 17 as 
+: 630 1 15 the 
+: 632 25 14 sky 
+- 659
+: 662 2 10 A 
+: 666 23 15 time 
+: 691 3 17 just 
+: 696 2 15 for 
+: 700 3 14 plan
+: 705 15 10 tin’ 
+- 722
+: 728 3 10 A 
+: 733 22 15 time 
+: 757 3 17 just 
+: 762 2 18 for 
+: 766 4 17 plou
+: 772 17 13 ghin’ 
+- 791
+: 795 2 13 A 
+: 799 24 18 time 
+: 825 2 17 to 
+: 829 2 18 be 
+* 833 3 20 cour
+* 838 15 15 tin’ 
+- 855
+: 858 8 20 A 
+: 868 23 21 girl 
+: 893 2 21 of 
+: 897 3 21 your 
+: 902 18 22 own 
+- 922
+: 926 4 22 ’Twas 
+: 932 3 23 so 
+: 937 21 25 good 
+: 960 4 23 to 
+: 966 2 22 be 
+: 970 3 20 young 
+: 975 12 15 then 
+- 989
+: 993 4 20 To 
+: 999 2 22 be 
+: 1003 24 23 close 
+: 1029 3 22 to 
+: 1034 2 20 the 
+: 1038 20 18 earth 
+- 1060
+: 1062 3 18 And 
+: 1067 1 20 to 
+: 1070 25 22 stand 
+: 1097 2 20 by 
+: 1101 3 18 your 
+: 1106 7 17 wife 
+- 1115
+: 1130 3 17 At 
+: 1135 2 14 the 
+* 1139 15 15 mo
+* 1156 7 17 ment 
+: 1165 5 14 of 
+: 1172 61 15 birth 
+- 1235
+: 1239 33 18 Oooh 
+: 1274 25 19 ooh 
+- 1301
+: 1367 2 10 A 
+: 1371 22 15 time 
+: 1395 3 17 to 
+: 1400 2 15 be 
+* 1404 2 14 rea
+* 1408 16 10 pin’ 
+- 1426
+: 1432 2 10 A 
+: 1436 23 15 time 
+: 1461 3 17 to 
+: 1466 1 18 be 
+: 1468 4 17 so
+: 1474 17 13 win’ 
+- 1493
+: 1498 2 13 A 
+: 1502 22 18 time 
+: 1526 3 17 just 
+: 1531 2 18 for 
+: 1535 3 20 li
+: 1540 14 15 vin’ 
+- 1556
+: 1560 8 20 A 
+: 1570 23 21 place 
+: 1595 2 17 for 
+: 1599 2 21 to 
+: 1603 19 22 die 
+- 1624
+: 1627 4 22 ’Twas 
+: 1633 3 23 so 
+: 1638 21 25 good 
+: 1661 5 23 to 
+: 1668 2 22 be 
+: 1672 3 20 young 
+: 1677 12 15 then 
+- 1691
+: 1695 4 20 To 
+: 1701 1 22 be 
+: 1704 24 23 close 
+: 1730 3 22 to 
+: 1735 2 20 the 
+: 1739 18 18 earth 
+- 1759
+: 1764 3 18 Now 
+: 1769 2 20 the 
+: 1773 22 22 green 
+: 1797 4 20 leaves 
+: 1803 1 18 of 
+: 1806 3 17 sum
+: 1811 16 17 mer 
+- 1829
+: 1832 6 17 Are 
+: 1840 15 15 cal
+: 1857 7 17 lin’ 
+: 1866 6 14 me 
+: 1874 19 15 home 
+- 1895
+: 1899 3 22 ’Twas 
+: 1904 3 23 so 
+: 1909 23 25 good 
+: 1934 3 23 to 
+: 1939 2 22 be 
+: 1943 3 20 young 
+: 1948 13 15 then 
+- 1963
+: 1967 4 20 To 
+: 1973 1 22 be 
+: 1976 24 23 close 
+: 2002 3 22 to 
+: 2007 2 20 the 
+* 2011 20 18 earth 
+- 2033
+: 2036 3 18 Now 
+: 2041 2 20 the 
+: 2045 15 22 green 
+: 2062 8 20 leaves 
+: 2072 2 18 of 
+: 2076 4 17 sum
+: 2082 17 17 mer 
+- 2101
+: 2104 6 17 Are 
+: 2112 16 15 cal
+: 2130 7 17 lin’ 
+: 2139 6 14 me 
+: 2147 33 15 ho
+: 2182 25 19 ~me 
+- 2209
+: 2216 31 18 Oooh 
+: 2249 28 19 ooh 
+- 2279
+: 2284 32 18 Oooh 
+: 2318 21 19 ooh 
+E

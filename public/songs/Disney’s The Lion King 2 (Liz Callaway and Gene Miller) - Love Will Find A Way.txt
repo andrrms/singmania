@@ -1,0 +1,230 @@
+#ARTIST:Disney’s The Lion King 2 (Liz Callaway and Gene Miller)
+#TITLE:Love Will Find A Way
+#MP3:Disney’s The Lion King 2 (Liz Callaway and Gene Miller) - Love Will Find A Way.mp3
+#CREATOR:g21
+#GENRE:Soundtrack
+#YEAR:1998
+#LANGUAGE:English
+#BPM:240
+#GAP:10280
+#VIDEO:v=5XhufW7-c_k,co=https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/4a/b8/484ab88d-ff92-1804-b601-b07a477d5478/06PNDIM00515.rgb.jpg/5000x5000bb.jpg
+: 0 1 -5 In 
+: 2 1 -3 a 
+: 4 12 0 per
+: 18 3 -5 fect 
+: 22 20 -3 world 
+- 44
+: 64 2 -5 One 
+: 68 1 -3 we’ve 
+: 70 11 4 ne
+: 82 3 0 ver 
+: 86 24 2 known 
+- 112
+: 132 2 2 We 
+: 136 1 4 would 
+: 138 9 5 ne
+: 148 4 7 ver 
+: 154 16 0 need 
+- 172
+: 182 1 -3 To 
+: 184 7 -2 face 
+: 192 3 0 the 
+: 196 15 2 world 
+: 212 3 -2 a
+: 216 18 -5 lone 
+- 236
+: 258 3 -5 They 
+: 262 1 -3 can 
+: 264 11 0 have 
+: 276 4 -5 the 
+: 282 22 -3 world 
+- 306
+: 318 2 -5 We’ll 
+: 322 1 -3 cre
+: 324 11 0 ate 
+: 336 3 4 our 
+: 340 30 5 own 
+- 372
+: 388 4 4 I 
+: 394 3 5 may 
+: 398 10 7 not 
+: 410 3 5 be 
+: 414 11 5 brave 
+: 426 3 7 or 
+: 430 6 7 strong 
+: 440 3 9 or 
+: 444 12 5 smart 
+- 457
+: 458 3 0 But 
+: 462 5 0 some
+: 468 3 -2 where 
+: 472 5 0 in 
+: 478 7 2 my 
+: 486 7 4 se
+: 494 7 5 cret 
+: 502 12 7 heart 
+- 515
+: 516 3 0 I 
+: 520 28 9 know 
+: 550 7 10 love 
+: 558 7 9 will 
+: 566 11 12 find 
+: 578 4 0 a 
+: 584 20 2 way 
+- 606
+: 612 5 7 A
+: 618 3 5 ny
+: 622 7 7 where 
+: 630 4 5 I 
+: 636 21 5 go 
+- 658
+: 658 5 9 I’m 
+: 664 26 3 home 
+: 692 3 0 if 
+: 696 4 -3 you 
+: 702 5 0 are 
+: 708 5 5 there 
+: 714 7 9 be
+: 722 15 9 side 
+: 738 11 7 me 
+- 750
+: 750 1 0 Like 
+: 752 26 7 dark, 
+: 780 5 10 tur
+: 786 5 9 ning 
+: 792 11 12 in
+: 804 4 0 to 
+: 810 16 2 day 
+- 828
+: 836 5 4 Some
+: 842 7 5 how 
+: 850 5 7 we’ll 
+: 856 6 9 come 
+: 864 24 8 through 
+- 890
+: 892 11 10 Now 
+: 904 3 9 that 
+: 908 5 5 I’ve 
+: 914 7 9 found 
+: 922 29 5 you 
+- 952
+: 952 8 9 Love 
+: 962 7 7 will 
+: 970 12 5 find 
+: 990 4 4 a 
+: 996 28 3 way 
+- 1026
+: 1074 3 -1 I 
+: 1078 3 1 was 
+: 1082 12 4 so 
+: 1096 3 -1 a
+: 1100 18 1 fraid 
+- 1120
+: 1136 4 -1 Now 
+: 1142 3 1 I 
+: 1146 11 8 re
+: 1158 3 4 a
+: 1162 20 6 lize 
+- 1184
+: 1194 3 6 Love 
+: 1198 3 8 is 
+: 1202 4 9 ne
+: 1208 8 11 ver 
+: 1218 14 4 wrong 
+- 1234
+: 1246 3 1 And 
+: 1250 5 2 so 
+: 1256 7 6 it 
+: 1264 5 9 ne
+: 1270 6 2 ver 
+: 1278 20 -1 dies 
+- 1300
+: 1316 3 -1 There’s 
+: 1320 3 1 a 
+: 1324 6 4 per
+: 1332 3 -1 fect 
+: 1336 22 1 world 
+- 1360
+: 1374 3 -1 Shi
+: 1378 3 1 ning 
+: 1382 5 4 in 
+: 1388 7 8 your 
+: 1396 22 9 eyes 
+- 1420
+: 1446 3 8 And 
+: 1450 3 9 if 
+: 1454 10 11 on
+: 1466 3 9 ly 
+: 1470 9 9 they 
+: 1480 3 4 could 
+: 1484 9 11 feel 
+: 1494 3 13 it 
+: 1498 9 9 too 
+- 1508
+: 1508 4 4 The 
+: 1516 5 4 hap
+: 1522 4 2 pi
+: 1528 7 4 ness 
+: 1536 3 6 I 
+: 1540 5 8 feel 
+: 1546 5 9 with 
+: 1552 8 11 you 
+- 1561
+: 1562 7 4 They’d 
+: 1570 26 9 know 
+: 1598 6 11 love 
+: 1606 5 9 will 
+: 1612 12 13 find 
+: 1626 3 4 a 
+: 1630 20 6 way 
+- 1652
+: 1656 6 8 A
+: 1664 4 9 ny
+: 1670 5 11 where 
+: 1676 7 9 we 
+: 1684 22 6 go 
+- 1707
+: 1708 5 9 We’re 
+: 1714 22 11 home 
+: 1740 3 4 if 
+: 1744 5 1 we 
+: 1750 5 1 are 
+: 1756 7 4 there 
+: 1764 7 9 to
+: 1772 13 9 ge
+: 1786 8 8 ther 
+- 1796
+: 1798 3 4 Like 
+: 1802 22 9 dark, 
+: 1830 6 11 tur
+: 1838 5 9 ning 
+: 1844 11 13 in
+: 1856 4 4 to 
+: 1862 25 4 day 
+- 1888
+: 1888 7 8 Some
+: 1896 5 9 how 
+: 1902 7 11 we’ll 
+: 1910 7 13 come 
+: 1918 24 12 through 
+- 1944
+: 1946 7 11 Now 
+: 1954 4 9 that 
+: 1962 6 8 I’ve 
+: 1970 7 6 found 
+: 1978 24 11 you 
+- 2003
+: 2004 7 13 Love 
+: 2012 7 11 will 
+: 2020 7 9 find 
+: 2028 7 8 a 
+: 2036 24 9 way 
+- 2062
+: 2064 16 13 I 
+: 2084 16 16 know 
+: 2104 15 14 love 
+: 2120 15 11 will 
+: 2136 16 1 find 
+: 2158 16 2 a 
+: 2176 30 1 way 
+E

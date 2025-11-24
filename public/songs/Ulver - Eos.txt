@@ -1,0 +1,72 @@
+#ARTIST:Ulver
+#TITLE:Eos
+#MP3:Ulver - Eos.mp3
+#CREATOR:Ythir
+#GENRE:Electronic
+#YEAR:2007
+#LANGUAGE:English
+#BPM:240
+#GAP:38830
+#VIDEO:a=U9kGpx88MoE,co=shadows-of-the-sun-4f27407430bd4.jpg,bg=-4f9caa6a7e29e.jpg
+: 0 4 -5 The 
+* 8 24 3 sun 
+: 36 4 3 is 
+* 44 24 0 far 
+: 72 3 -5 a
+: 76 28 -7 way 
+- 106
+: 200 8 -2 It 
+: 212 8 -5 goes 
+: 228 4 -5 in 
+: 236 15 -4 cir
+: 252 24 -5 cles 
+- 278
+* 316 56 7 Some
+: 376 8 5 one 
+* 388 32 5 dies 
+- 422
+* 504 24 5 Some
+: 532 8 3 one 
+* 544 28 0 lives 
+- 574
+F 676 4 0 In 
+F 696 16 0 pain 
+- 714
+: 1416 8 -5 It’s 
+* 1428 68 -2 bu
+: 1504 40 2 rning 
+- 1546
+: 1560 4 -2 In
+: 1568 4 -5 to 
+: 1576 4 -5 the 
+: 1584 20 -2 thin 
+: 1616 32 -10 air 
+- 1650
+* 1772 16 7 Of 
+: 1800 8 5 the 
+* 1812 15 3 na
+: 1828 20 2 ture 
+- 1850
+* 1928 16 5 Of 
+: 1952 8 3 a 
+* 1964 20 2 cul
+: 1988 16 0 ture 
+- 2006
+: 2100 4 -5 On 
+: 2108 4 7 the 
+: 2116 8 5 da
+: 2128 8 3 ~
+: 2140 4 2 ~
+: 2148 4 0 rk 
+: 2156 40 -2 side 
+- 2198
+: 2324 4 -5 Un
+: 2332 4 -5 der 
+: 2340 4 7 the 
+* 2348 72 7 moon 
+- 2422
+: 2484 12 -5 The 
+* 2500 64 5 wolves 
+* 2580 12 -4 ga
+: 2596 28 -5 ther 
+E

@@ -1,0 +1,1579 @@
+#ARTIST:Eminem feat. Dido
+#TITLE:Stan
+#MP3:Eminem feat. Dido - Stan.mp3
+#CREATOR:Canni
+#GENRE:Hip-Hop
+#YEAR:2000
+#LANGUAGE:English
+#BPM:327.85
+#GAP:82500
+#VIDEO:v=aqUpe6QeBTk,co=stan-5cf18cb76b9e8.jpg,bg=eminem-5e80e3fc39802.jpg
+#END:488500
+: 0 3 8 My 
+: 5 3 15 tea’s 
+: 12 4 15 gone 
+: 20 7 15 cold, 
+: 30 3 16 I’m 
+: 35 2 13 won
+: 39 6 11 d’rin’ 
+: 49 4 15 why
+: 54 2 11 ~
+: 57 6 13 ~ 
+- 65
+: 78 2 10 I 
+: 82 3 10 got 
+: 87 4 11 out 
+: 94 4 15 of 
+: 102 5 10 bed 
+: 110 3 15 at 
+: 115 8 8 all 
+- 125
+: 131 2 -4 The 
+: 135 3 3 mor
+: 140 5 3 ning 
+: 147 5 3 rain 
+: 155 6 3 clouds 
+: 164 4 1 up 
+: 172 6 -1 my 
+: 180 6 3 win
+: 188 9 1 dow 
+- 199
+: 212 3 -1 And 
+: 217 4 6 I 
+: 224 5 8 can’t 
+: 233 6 3 see 
+: 242 3 1 at 
+: 247 8 3 all 
+- 257
+: 263 2 -4 And 
+: 267 2 6 e
+: 271 6 6 ven 
+: 279 4 6 if 
+: 287 4 6 I 
+: 295 3 1 could 
+: 300 2 1 i
+: 305 3 1 ~t’d 
+: 310 8 3 all 
+: 321 5 -1 be 
+: 328 5 1 grey 
+- 335
+: 339 2 -1 But 
+: 343 2 1 your 
+: 348 5 3 pic
+: 356 3 4 ture 
+: 361 6 3 on 
+: 369 4 3 my 
+: 377 7 3 wall 
+- 386
+: 401 2 -4 It 
+: 405 2 3 re
+: 410 12 1 mi
+: 424 3 3 ~nds 
+: 430 5 -1 me 
+- 437
+: 439 2 -1 That 
+: 442 2 -1 it’s 
+: 446 4 3 not 
+: 453 3 -1 so 
+: 459 8 1 bad 
+- 469
+: 472 3 -1 It’s 
+: 478 4 3 not 
+: 485 5 -1 so 
+: 493 9 1 bad 
+- 504
+: 523 3 8 My 
+: 528 3 15 tea’s 
+: 535 4 15 gone 
+: 543 7 15 cold, 
+: 553 3 16 I’m 
+: 558 3 13 won
+: 563 6 11 d’rin’ 
+: 573 4 15 why
+: 578 2 11 ~
+: 581 6 13 ~ 
+- 589
+: 602 2 10 I 
+: 606 3 10 got 
+: 611 4 11 out 
+: 618 4 15 of 
+: 626 5 10 bed 
+: 634 3 15 at 
+: 639 8 8 all 
+- 649
+: 656 2 -4 The 
+: 660 3 3 mor
+: 665 5 3 ning 
+: 672 5 3 rain 
+: 680 6 3 clouds 
+: 689 4 1 up 
+: 697 6 -1 my 
+: 705 6 3 win
+: 713 9 1 dow 
+- 724
+: 736 3 -1 And 
+: 741 4 6 I 
+: 748 5 8 can’t 
+: 757 6 3 see 
+: 766 3 1 at 
+: 771 8 3 all 
+- 781
+: 787 2 -4 And 
+: 791 2 6 e
+: 795 6 6 ven 
+: 803 4 6 if 
+: 811 4 6 I 
+: 819 3 1 could 
+: 824 2 1 i
+: 829 3 1 ~t’d 
+: 834 8 3 all 
+: 845 5 -1 be 
+: 852 5 1 grey 
+- 859
+: 866 2 -1 But 
+: 869 2 1 your 
+: 873 6 3 pic
+: 882 3 4 ture 
+: 888 5 3 on 
+: 895 4 3 my 
+: 903 7 3 wall 
+- 912
+: 922 4 -4 It 
+: 928 2 3 re
+: 933 12 1 mi
+: 947 3 3 ~nds 
+: 953 5 -1 me 
+- 960
+: 963 2 -1 That 
+: 966 2 -1 it’s 
+: 970 4 3 not 
+: 977 3 -1 so 
+: 983 8 1 bad 
+- 993
+: 999 3 -1 It’s 
+: 1005 4 3 not 
+: 1012 5 -1 so 
+: 1020 7 1 bad 
+- 1029
+F 1045 4 2 Dear 
+F 1051 10 2 Slim 
+- 1062
+F 1062 2 2 I 
+F 1065 4 0 wrote 
+F 1070 3 0 you 
+F 1074 2 4 but 
+F 1077 1 6 you 
+F 1079 5 3 still 
+F 1085 3 4 ain’t 
+F 1089 4 6 cal
+F 1094 6 6 lin’ 
+- 1102
+F 1104 1 6 I 
+F 1106 3 4 left 
+F 1110 2 -4 my 
+F 1113 5 6 cell, 
+F 1120 3 6 my 
+F 1124 3 6 pa
+F 1128 2 6 ger 
+- 1132
+F 1134 1 6 And 
+F 1136 2 0 my 
+F 1139 5 -1 home 
+F 1145 3 -1 phone 
+F 1149 1 -1 at 
+F 1151 3 -1 the 
+F 1155 4 -1 bot
+F 1160 5 -1 tom 
+- 1167
+F 1169 1 -1 I 
+F 1171 5 -1 sent 
+F 1177 3 -1 two 
+F 1181 2 -1 let
+F 1184 3 -1 ters 
+F 1189 3 -1 back 
+F 1193 2 -1 in 
+F 1197 3 0 au
+F 1201 4 0 tumn
+- 1205
+F 1205 2 6 You 
+F 1208 2 4 must 
+F 1211 4 3 not 
+F 1216 2 2 have 
+F 1219 4 6 got 
+F 1224 7 6 ’em 
+- 1233
+F 1237 1 4 It 
+F 1239 7 6 probably 
+F 1247 1 3 was 
+F 1249 1 6 a 
+F 1251 9 6 problem 
+F 1261 1 6 at 
+F 1263 3 6 the 
+F 1267 5 1 post 
+F 1273 8 2 office 
+- 1282
+F 1282 2 -1 Or 
+F 1285 11 2 somethin’ 
+- 1298
+F 1300 7 0 Sometimes 
+F 1308 1 0 I 
+F 1310 7 0 scribble 
+F 1318 3 1 ad
+F 1322 8 2 dresses 
+F 1331 1 0 too 
+F 1333 8 1 sloppy 
+- 1342
+F 1343 2 2 When 
+F 1346 2 2 I 
+F 1350 4 4 jot 
+F 1355 5 5 ’em 
+- 1361
+F 1363 4 4 But 
+F 1368 12 6 anyways, 
+F 1381 5 6 fuck 
+F 1387 4 7 it, 
+- 1392
+F 1393 3 6 What’s 
+F 1397 2 6 been 
+F 1400 4 -1 up 
+F 1405 3 -1 man, 
+F 1409 5 -1 how’s 
+F 1415 2 -1 your 
+F 1418 7 -1 daughter? 
+- 1427
+F 1429 2 0 My 
+F 1433 3 -1 girl
+F 1437 4 0 friends 
+F 1442 6 2 pregnant 
+F 1449 4 3 too, 
+- 1454
+F 1455 3 -1 I’m 
+F 1459 3 0 ’bout 
+F 1463 1 0 to 
+F 1465 3 1 be 
+F 1469 2 6 a 
+F 1472 6 2 father 
+- 1480
+F 1487 3 5 If I 
+F 1491 6 5 have a 
+F 1498 3 1 daug
+F 1502 3 -8 ther, 
+F 1507 5 2 guess 
+F 1513 2 3 what 
+F 1516 6 4 I’ma 
+F 1523 5 3 call 
+F 1529 4 1 her 
+- 1535
+F 1537 2 2 I’m-a 
+F 1540 4 1 name 
+F 1545 1 3 her 
+F 1547 8 3 Bonnie. 
+- 1557
+F 1570 3 1 I 
+F 1574 4 -1 read 
+F 1580 4 1 about 
+F 1585 2 1 your 
+F 1588 6 1 uncle 
+F 1595 4 1 Ron
+F 1600 2 4 nie 
+F 1603 3 6 too, 
+F 1607 3 6 I’m 
+F 1611 9 6 sorry 
+- 1622
+F 1629 1 6 I 
+F 1631 1 4 had 
+F 1633 2 -4 a 
+F 1636 4 6 friend 
+F 1641 3 -4 kill 
+F 1645 9 6 himself 
+F 1655 5 6 over 
+F 1661 4 1 some 
+F 1667 3 2 bitch 
+- 1671
+F 1671 2 11 Who 
+F 1674 4 1 didn’t 
+F 1679 4 1 want 
+F 1684 5 1 him. 
+- 1691
+F 1695 1 -1 I 
+F 1697 1 10 know 
+F 1699 4 0 you 
+F 1704 7 0 probably 
+F 1712 4 2 hear 
+F 1717 1 1 this 
+F 1719 7 0 every
+F 1727 7 1 day, 
+- 1735
+F 1735 2 2 But 
+F 1738 2 2 I’m 
+F 1741 3 6 your 
+F 1745 7 6 biggest 
+F 1753 5 5 fan. 
+- 1760
+F 1769 3 5 I 
+F 1773 4 6 even 
+F 1778 3 7 got 
+F 1782 2 7 the 
+F 1785 5 6 under
+F 1791 5 6 ground 
+F 1797 3 2 shit 
+- 1801
+F 1803 2 2 That 
+F 1806 1 2 you 
+F 1808 4 2 did 
+F 1813 3 2 with 
+F 1817 6 2 Scam. 
+- 1825
+F 1835 1 2 I 
+F 1837 2 2 got 
+F 1840 2 11 a 
+F 1843 5 0 room 
+- 1849
+F 1849 2 1 Full 
+F 1852 1 -1 of 
+F 1854 4 -1 your 
+F 1859 5 5 pos
+F 1865 2 6 ters 
+F 1868 2 2 and 
+F 1871 3 2 your 
+F 1875 3 6 pic
+F 1879 5 2 tures, 
+F 1885 3 6 man. 
+- 1890
+F 1897 2 -4 I 
+F 1900 4 6 like 
+F 1905 1 6 the 
+F 1907 3 6 shit 
+F 1911 3 5 you 
+F 1915 3 6 did 
+F 1919 3 6 with 
+F 1923 7 -1 Ruckus 
+F 1931 3 6 too, 
+- 1935
+F 1937 1 10 That 
+F 1939 4 10 shit 
+F 1944 4 10 was 
+F 1949 5 10 fat. 
+- 1956
+F 1968 10 -1 Anyways, 
+F 1979 1 0 I 
+F 1981 2 0 hope 
+F 1984 3 0 you 
+F 1988 3 1 get 
+F 1992 3 2 this 
+F 1996 5 3 man, 
+- 2003
+F 2005 3 6 Hit 
+F 2009 3 6 me 
+F 2013 6 6 back, 
+F 2020 4 2 just 
+F 2025 1 6 to 
+F 2027 6 6 chat 
+- 2035
+F 2039 5 -5 Truly 
+F 2045 8 -5 yours, 
+F 2054 8 2 biggest 
+F 2063 6 2 fan 
+F 2071 5 3 this 
+F 2077 2 2 is 
+F 2081 4 0 Stan. 
+- 2087
+: 2098 3 8 My 
+: 2103 3 15 tea’s 
+: 2110 4 15 gone 
+: 2118 6 15 cold, 
+: 2127 3 16 I’m 
+: 2132 3 13 won
+: 2137 6 11 d’rin’ 
+: 2147 4 15 why
+: 2152 2 11 ~
+: 2155 6 13 ~ 
+- 2163
+: 2176 2 10 I 
+: 2180 3 10 got 
+: 2185 4 11 out 
+: 2192 4 15 of 
+: 2200 5 10 bed 
+: 2208 3 15 at 
+: 2213 8 8 all 
+- 2223
+: 2228 2 -4 The 
+: 2232 3 3 mor
+: 2237 5 3 ning 
+: 2244 5 3 rain 
+: 2252 6 3 clouds 
+: 2261 4 1 up 
+: 2269 6 -1 my 
+: 2277 6 3 win
+: 2285 9 1 dow 
+- 2296
+: 2310 3 -1 And 
+: 2315 4 6 I 
+: 2322 5 8 can’t 
+: 2331 6 3 see 
+: 2340 3 1 at 
+: 2345 8 3 all, 
+- 2355
+: 2362 2 -4 And 
+: 2366 2 6 e
+: 2370 6 6 ven 
+: 2378 4 6 if 
+: 2386 4 6 I 
+: 2394 3 1 could 
+: 2399 2 1 it
+: 2404 3 1 ’d 
+: 2409 8 3 all 
+: 2420 5 -1 be 
+: 2427 5 1 grey, 
+- 2434
+: 2438 2 -2 But 
+: 2441 2 1 your 
+: 2445 6 3 pic
+: 2454 3 4 ture 
+: 2460 5 3 on 
+: 2467 4 3 my 
+: 2475 7 3 wall 
+- 2484
+: 2500 2 -4 It 
+: 2504 2 3 re
+: 2508 15 1 minds 
+: 2527 4 -1 me 
+- 2533
+: 2536 2 -1 That 
+: 2541 2 -1 it’s 
+: 2545 4 3 not 
+: 2552 4 -1 so 
+: 2558 7 1 bad 
+- 2567
+: 2569 3 -1 It’s 
+: 2577 4 3 not 
+: 2585 3 -1 so 
+: 2593 5 1 ba
+: 2600 3 -1 ~d 
+- 2604
+F 2604 3 4 Dear 
+F 2608 10 -1 Slim, 
+F 2623 4 0 you 
+F 2628 3 0 still 
+F 2632 3 0 ain’t 
+F 2636 3 0 called 
+F 2640 2 0 or 
+F 2643 8 0 wrote, 
+- 2652
+F 2652 1 6 I 
+F 2654 3 4 hope 
+F 2658 2 2 you 
+F 2661 3 6 have 
+F 2665 1 6 the 
+F 2667 8 4 chance. 
+- 2677
+F 2682 1 4 I 
+F 2684 1 -4 ain’t 
+F 2686 8 4 mad, 
+- 2696
+F 2698 2 6 I 
+F 2701 2 6 just 
+F 2704 2 -5 think 
+F 2707 3 -5 it’s 
+- 2712
+F 2715 2 0 Fucked 
+F 2718 3 0 up 
+F 2722 2 0 you 
+F 2725 3 2 don’t 
+F 2730 3 0 answer 
+F 2735 7 0 fans. 
+- 2744
+F 2752 2 1 If 
+F 2755 2 1 you 
+F 2758 4 0 didn’t 
+F 2763 2 0 want 
+F 2768 4 1 to 
+F 2773 1 0 talk 
+F 2775 1 0 to 
+F 2777 1 -1 me 
+- 2779
+F 2780 8 6 Outside 
+F 2789 2 6 your 
+F 2792 9 6 concert 
+F 2802 3 6 you 
+F 2806 2 2 didn’t 
+F 2809 4 6 have 
+F 2814 4 6 to, 
+- 2820
+F 2823 1 -4 But 
+F 2825 3 6 you 
+F 2829 3 6 could 
+F 2833 1 6 have 
+F 2835 6 6 signed 
+- 2842
+F 2842 1 0 An 
+F 2844 5 0 auto
+F 2850 5 0 graph 
+F 2856 1 0 for 
+F 2858 8 0 Matthew. 
+- 2867
+F 2868 5 0 That’s 
+F 2874 1 1 my 
+F 2876 3 0 little 
+F 2880 8 -1 brother, 
+F 2889 5 0 man. 
+- 2895
+F 2896 3 0 He’s 
+F 2901 4 0 only 
+F 2906 5 -1 six 
+F 2912 4 6 years 
+F 2917 5 3 old. 
+- 2923
+F 2924 3 6 We 
+F 2928 5 6 waited 
+F 2934 2 2 in 
+F 2937 4 6 the 
+F 2942 8 4 blistering 
+F 2951 6 6 cold 
+F 2958 3 6 for 
+F 2962 4 6 you 
+- 2968
+F 2972 4 0 4 
+F 2977 6 0 hours 
+F 2984 1 0 and 
+F 2986 2 2 ya 
+F 2989 4 -1 just 
+F 2994 3 0 said 
+F 2998 6 -1 no. 
+- 3006
+F 3012 3 1 That’s 
+F 3016 4 1 pretty 
+F 3021 6 1 shitty 
+F 3028 6 1 man, 
+- 3035
+F 3036 3 -1 Your 
+F 3040 3 2 like 
+F 3044 3 6 his 
+F 3048 7 5 fuckin’ 
+F 3056 10 6 idol 
+- 3068
+F 3071 1 2 He 
+F 3073 4 5 want’s 
+F 3078 2 5 to 
+F 3081 2 3 be 
+F 3084 2 5 just 
+F 3087 4 4 like 
+F 3092 6 3 you man, 
+- 3099
+F 3100 1 2 He 
+F 3102 6 1 likes 
+F 3109 1 2 you 
+F 3111 4 0 more 
+F 3116 2 2 than 
+F 3119 11 6 I do. 
+- 3132
+F 3142 1 2 I 
+F 3144 3 2 ain’t 
+F 3148 3 2 that 
+F 3152 5 2 mad 
+F 3158 4 2 though, 
+- 3163
+F 3164 1 -1 I 
+F 3166 3 0 just 
+F 3170 2 6 don’t 
+F 3173 5 2 like 
+F 3179 3 6 bein’ 
+F 3183 6 4 lied 
+F 3190 6 6 to. 
+- 3198
+F 3200 9 6 Remember 
+F 3210 2 6 when 
+F 3213 4 5 we 
+F 3218 3 6 met 
+F 3222 2 4 in 
+F 3225 9 6 Denver 
+- 3236
+F 3238 2 0 You 
+F 3241 2 1 said 
+F 3244 3 0 if 
+F 3248 1 0 I
+F 3250 1 0 ’d 
+F 3252 4 0 write 
+F 3257 2 0 to 
+F 3260 1 0 you, 
+- 3262
+F 3262 1 0 You 
+F 3264 3 0 would 
+F 3268 5 0 write 
+F 3274 8 0 back 
+- 3283
+F 3284 1 1 See, 
+F 3286 3 1 I’m 
+F 3290 2 1 just 
+F 3293 4 1 like 
+F 3298 2 2 you 
+F 3301 2 5 in 
+F 3304 2 4 a 
+F 3307 7 5 way. 
+- 3315
+F 3316 1 4 I 
+F 3318 4 5 never 
+F 3323 4 5 knew 
+F 3328 3 5 my 
+F 3332 7 5 father 
+F 3340 10 5 neither. 
+- 3352
+F 3354 1 6 He 
+F 3356 3 6 used 
+F 3360 1 6 to 
+F 3362 8 4 always 
+- 3371
+F 3371 4 0 Cheat 
+F 3376 2 0 on 
+F 3379 3 1 my 
+F 3383 3 0 mom 
+F 3387 3 0 and 
+F 3391 4 0 beat 
+F 3396 5 0 her 
+- 3403
+F 3406 4 0 I 
+F 3411 1 0 can 
+F 3413 7 2 relate 
+F 3421 3 1 to 
+F 3425 1 0 what 
+F 3427 3 -1 you’re 
+F 3431 10 4 sayin’ 
+- 3442
+F 3442 1 2 In 
+F 3444 2 4 your 
+F 3447 8 6 songs. 
+- 3456
+F 3456 3 4 So 
+F 3460 2 6 when 
+F 3463 2 5 I 
+F 3466 3 4 have 
+F 3470 1 4 a 
+F 3472 7 5 shitty 
+: 3480 6 5 day, 
+- 3487
+F 3488 3 6 I 
+F 3492 5 6 drift 
+F 3498 5 0 away 
+F 3504 1 6 and 
+F 3506 3 4 put 
+F 3510 2 6 ’em 
+F 3513 5 6 on. 
+- 3519
+F 3520 4 0 ’Cause 
+F 3525 2 1 I 
+F 3528 3 0 don’t 
+F 3532 5 0 really 
+F 3538 3 0 got 
+F 3542 3 0 shit 
+F 3546 2 0 else, 
+- 3549
+F 3550 4 11 So 
+F 3555 3 2 that 
+F 3559 3 12 shit 
+F 3563 6 5 helps 
+F 3570 1 4 when 
+F 3572 4 3 I’m 
+F 3577 15 6 depressed. 
+- 3594
+F 3598 1 0 I 
+F 3600 5 -5 even 
+F 3606 5 4 got a 
+F 3612 9 3 tattoo 
+- 3622
+F 3622 3 3 With 
+F 3626 1 5 your 
+F 3628 5 4 name 
+F 3634 7 3 across 
+F 3642 1 2 the 
+F 3644 10 4 chest. 
+- 3656
+F 3658 10 0 Sometimes 
+F 3669 2 -1 I 
+F 3672 3 2 even 
+F 3676 7 0 cut 
+F 3684 9 2 myself 
+- 3694
+F 3694 1 1 To 
+F 3696 3 4 see 
+F 3700 2 6 how 
+F 3703 2 6 much 
+F 3706 2 2 it 
+F 3709 6 5 bleeds. 
+- 3716
+F 3716 3 3 It’s 
+F 3720 3 5 like 
+F 3724 7 1 adre
+F 3732 9 5 naline. 
+- 3742
+F 3742 1 5 The 
+F 3744 3 5 pain 
+F 3748 1 5 is 
+F 3750 5 5 such 
+F 3756 1 5 a 
+F 3758 7 1 sudded 
+F 3766 5 2 rush 
+F 3772 3 2 for 
+F 3776 4 2 me. 
+- 3781
+F 3782 2 1 See, 
+F 3785 9 0 everything 
+F 3795 3 0 you 
+F 3799 4 0 say 
+F 3804 3 0 is 
+F 3808 6 0 real, 
+- 3815
+F 3817 2 0 And 
+F 3820 2 1 I 
+F 3823 5 0 respect 
+F 3829 3 5 you 
+F 3833 3 2 ’cause 
+F 3837 3 5 you 
+F 3841 4 5 tell 
+F 3846 4 5 it. 
+- 3852
+F 3855 3 5 My 
+F 3859 4 3 girl 
+F 3864 2 4 friend’s 
+F 3867 9 6 jealous 
+- 3877
+F 3877 1 6 ’Cause 
+F 3879 2 6 I 
+F 3882 6 6 talk 
+F 3889 5 0 about 
+F 3895 3 0 you 
+F 3899 8 2 24/
+F 3908 11 0 7 
+- 3920
+F 3921 2 0 But 
+F 3924 4 0 she 
+F 3929 3 -1 don’t 
+F 3933 3 0 know 
+F 3937 3 2 you 
+F 3941 3 -1 like 
+F 3945 1 0 I 
+F 3947 3 -1 know 
+F 3951 2 0 you, 
+F 3954 10 -1 Slim, 
+- 3965
+F 3965 3 4 No 
+F 3969 3 6 one 
+F 3973 10 6 does. 
+- 3984
+F 3985 3 6 She 
+F 3989 1 4 don’t 
+F 3991 5 -6 know 
+F 3997 2 6 what 
+F 4000 1 5 it 
+F 4002 3 6 was 
+F 4006 4 6 like 
+F 4011 1 6 for 
+F 4013 7 6 people 
+- 4021
+F 4021 4 0 Like 
+F 4026 4 0 us 
+F 4031 3 0 grow
+F 4035 1 2 ing 
+F 4037 5 0 up. 
+- 4043
+F 4043 3 0 You’ve 
+F 4047 2 0 got 
+F 4050 3 0 to 
+F 4054 3 0 call 
+F 4058 2 0 me 
+F 4061 7 0 man. 
+- 4069
+F 4069 3 2 I’ll 
+F 4073 2 2 be 
+F 4076 3 2 the 
+F 4080 6 2 biggest 
+F 4087 5 5 fan 
+F 4093 2 5 you’ll 
+F 4096 4 6 ever 
+F 4101 4 6 lose. 
+- 4106
+F 4106 12 4 Sincerely 
+F 4119 7 1 yours, 
+F 4127 6 3 Stan. 
+- 4135
+F 4137 3 6 P.
+F 4141 5 5 S.: 
+F 4147 3 4 We 
+F 4151 3 2 should 
+F 4155 4 4 be 
+F 4160 9 2 together 
+F 4170 7 3 too. 
+- 4179
+: 4197 3 8 My 
+: 4202 3 15 tea’s 
+: 4209 4 15 gone 
+: 4217 5 15 cold, 
+: 4225 3 16 I’m 
+: 4230 3 13 won
+: 4235 6 11 d’rin’ 
+: 4245 4 15 why
+: 4250 2 11 ~
+: 4253 6 13 ~ 
+- 4261
+: 4274 2 10 I 
+: 4278 3 10 got 
+: 4283 4 11 out 
+: 4290 4 15 of 
+: 4298 5 10 bed 
+: 4306 3 15 at 
+: 4311 8 8 all 
+- 4321
+: 4329 2 -4 The 
+: 4333 3 3 mor
+: 4338 5 3 ning 
+: 4345 5 3 rain 
+: 4353 6 3 clouds 
+: 4362 4 1 up 
+: 4370 6 -1 my 
+: 4378 6 3 win
+: 4386 9 1 dow 
+- 4397
+: 4410 3 -1 And 
+: 4415 4 6 I 
+: 4422 5 8 can’t 
+: 4431 6 3 see 
+: 4440 3 1 at 
+: 4445 8 3 all, 
+- 4455
+: 4460 2 -4 And 
+: 4464 2 6 e
+: 4468 6 6 ven 
+: 4476 4 6 if 
+: 4484 4 6 I 
+: 4492 3 1 could 
+: 4497 2 1 it
+: 4502 3 1 ’d 
+: 4507 8 3 all 
+: 4518 5 -1 be 
+: 4525 5 1 grey, 
+- 4532
+: 4538 2 -2 But 
+: 4541 2 1 your 
+: 4545 6 3 pic
+: 4554 3 4 ture 
+: 4560 5 3 on 
+: 4567 4 3 my 
+: 4575 7 3 wall 
+- 4584
+: 4598 2 -4 It 
+: 4602 2 3 re
+: 4606 15 1 minds 
+: 4625 4 -1 me 
+- 4631
+: 4635 2 -1 That 
+: 4640 2 -1 it’s 
+: 4644 4 3 not 
+: 4651 4 -1 so 
+: 4657 7 1 bad 
+- 4666
+: 4673 2 -1 It’s 
+: 4677 4 3 not 
+: 4684 4 -1 so 
+: 4690 7 1 bad 
+- 4699
+F 4714 3 0 Dear 
+F 4718 8 -1 Mr. 
+- 4727
+F 4728 3 2 “I’m 
+F 4732 3 0 too 
+F 4736 3 0 good 
+F 4740 3 0 to 
+F 4744 4 2 call 
+F 4749 2 4 or 
+F 4752 4 2 write 
+F 4758 3 6 my 
+F 4762 10 2 fans” 
+- 4774
+F 4778 5 -5 This
+F 4784 1 5 ’ll 
+F 4786 2 5 be 
+F 4789 1 5 the 
+F 4791 6 5 last 
+F 4798 8 5 package 
+- 4807
+F 4808 1 0 I 
+F 4810 5 -1 ever 
+F 4816 5 0 send 
+F 4822 2 0 your 
+F 4825 3 -1 ass. 
+- 4829
+F 4830 3 0 It’s 
+F 4834 3 -1 been 
+F 4838 5 0 six 
+F 4844 7 0 months 
+F 4852 1 0 and 
+F 4854 3 0 still 
+F 4858 1 0 no 
+F 4860 6 0 word. 
+- 4867
+F 4868 2 0 I 
+F 4871 2 0 don’t 
+F 4874 7 2 deserve 
+F 4882 8 5 it? 
+- 4891
+F 4892 2 6 I 
+F 4895 2 6 know 
+F 4898 3 4 you 
+F 4902 3 6 got 
+F 4906 2 3 my 
+F 4910 5 6 last 
+F 4916 3 5 two 
+F 4920 5 6 letters, 
+- 4926
+F 4927 3 -4 I 
+F 4931 3 6 wrote 
+F 4935 3 6 the 
+F 4939 10 0 addresses 
+F 4950 2 0 on 
+F 4953 2 0 ’em 
+F 4956 14 0 perfect. 
+- 4971
+F 4973 2 -1 So 
+F 4976 3 0 this 
+F 4980 2 0 is 
+F 4983 3 0 my 
+F 4987 2 2 cas
+F 4990 3 0 sette 
+F 4994 3 0 I’m 
+F 4998 7 -2 sending 
+F 5006 4 0 you. 
+- 5011
+F 5012 3 6 I 
+F 5016 3 3 hope 
+F 5020 2 6 you 
+F 5023 3 6 hear 
+F 5027 3 6 it. 
+- 5032
+F 5039 2 6 I’m 
+F 5042 1 2 in 
+F 5044 3 6 the 
+F 5048 3 4 car 
+F 5052 4 6 right 
+F 5057 3 5 now. 
+- 5061
+F 5063 4 6 I’m 
+F 5068 4 -5 doing 
+F 5073 7 0 90 
+F 5081 2 0 on 
+F 5084 3 -1 the 
+F 5088 7 0 freeway. 
+- 5097
+F 5103 4 0 Hey 
+F 5108 5 0 Slim, 
+F 5121 3 1 “I 
+F 5125 2 0 drank 
+F 5128 2 0 a 
+F 5131 2 0 fifth 
+F 5134 2 0 of 
+F 5137 7 2 vodka, 
+- 5146
+F 5152 1 -6 Ya 
+F 5154 3 5 dare 
+F 5158 2 5 me 
+F 5161 1 -6 to 
+F 5163 7 5 drive?” 
+- 5172
+F 5179 2 -5 You 
+F 5182 3 4 know 
+F 5186 2 4 The 
+F 5189 4 3 song 
+F 5194 3 3 by 
+F 5198 4 3 Phil 
+F 5203 9 4 Collins 
+- 5213
+F 5214 1 5 “In 
+F 5216 1 4 The 
+F 5218 4 5 air 
+F 5223 1 4 of 
+F 5225 1 1 the 
+F 5227 3 -1 Night”? 
+- 5232
+F 5235 4 1 About 
+F 5240 2 1 that 
+F 5243 4 1 guy 
+- 5249
+F 5252 1 2 Who 
+F 5254 2 0 could 
+F 5257 2 1 have 
+F 5260 2 0 saved 
+- 5264
+F 5266 3 2 That 
+F 5270 6 4 other 
+F 5277 3 3 guy 
+F 5281 4 5 from 
+F 5286 4 5 drow
+F 5292 2 5 ning? 
+- 5295
+F 5297 2 5 But 
+F 5300 5 3 didn’t? 
+- 5307
+F 5310 3 5 Then 
+F 5314 4 6 Phil 
+F 5319 4 6 saw 
+F 5324 2 6 it 
+F 5327 3 6 all 
+- 5332
+F 5336 2 -1 Then 
+F 5339 1 10 at 
+F 5341 2 1 his 
+F 5344 1 -1 show 
+F 5346 2 0 he 
+F 5349 3 0 found 
+F 5354 3 0 him? 
+- 5359
+F 5363 2 0 That’s 
+F 5366 5 1 kinda 
+F 5372 3 0 how 
+F 5376 3 1 this 
+F 5380 4 2 is. 
+- 5386
+F 5392 1 2 You 
+F 5394 3 2 could 
+F 5398 1 2 have 
+F 5400 8 6 rescued 
+F 5409 2 6 me 
+F 5412 2 6 from 
+F 5415 6 4 drowning. 
+- 5423
+F 5426 3 3 Now 
+F 5430 4 4 It’s 
+F 5435 2 3 too 
+F 5438 4 6 late. 
+- 5444
+F 5449 2 5 I’m 
+F 5452 2 5 on 
+F 5455 1 -4 a 
+F 5457 10 4 1000 
+F 5468 7 2 downers 
+F 5476 4 2 now, 
+F 5481 3 0 I’m 
+F 5485 8 1 drowsy. 
+- 5495
+F 5499 1 0 And 
+F 5501 3 -1 all 
+F 5505 3 0 I 
+F 5509 2 2 wanted 
+- 5513
+F 5515 4 1 Was 
+F 5520 1 0 a 
+F 5522 11 -1 lousy 
+F 5534 5 5 letter 
+F 5540 1 2 or 
+F 5542 3 2 a 
+F 5546 8 5 call. 
+- 5556
+F 5562 2 2 I 
+F 5565 3 3 hope 
+F 5569 3 6 you 
+F 5573 3 6 know 
+- 5577
+F 5577 3 6 I 
+F 5581 4 6 ripped 
+F 5586 2 -4 all 
+F 5589 1 6 o’ 
+F 5591 4 6 your 
+F 5596 8 2 pictures 
+F 5605 4 2 off 
+F 5610 3 2 the 
+F 5614 6 2 wall. 
+- 5622
+F 5632 3 1 I 
+F 5636 3 0 love 
+F 5640 3 0 you 
+F 5644 8 0 Slim, 
+F 5653 3 0 we 
+F 5657 2 0 could 
+F 5660 3 -1 have 
+F 5664 3 4 been 
+F 5668 5 6 together. 
+- 5675
+F 5680 4 6 Think 
+F 5685 7 2 about 
+F 5693 3 5 it. 
+- 5698
+F 5700 3 6 You 
+F 5704 5 -4 ruined 
+F 5710 2 4 it 
+F 5713 2 5 now, 
+- 5717
+F 5719 3 3 I hope 
+F 5724 2 1 you 
+F 5727 3 2 can’t 
+F 5731 5 3 sleep 
+F 5737 6 5 and 
+F 5744 6 3 dream 
+F 5751 7 0 about 
+F 5759 5 -1 it. 
+- 5765
+F 5765 2 0 And 
+F 5768 3 -1 when 
+F 5772 3 -1 you 
+F 5776 5 0 dream, 
+- 5782
+F 5783 1 1 I 
+F 5785 2 1 hope 
+F 5788 1 1 you 
+F 5790 4 2 can’t 
+F 5795 6 5 sleep 
+F 5802 1 2 and 
+F 5804 1 3 you 
+F 5806 9 6 Scream 
+F 5816 6 6 about 
+F 5823 4 2 it 
+- 5828
+F 5830 2 6 I 
+F 5833 3 6 hope 
+F 5837 3 4 your 
+F 5841 7 6 conscious 
+- 5849
+F 5849 6 5 Eats 
+F 5856 1 1 at 
+F 5858 2 0 you 
+F 5861 2 0 and 
+F 5864 3 0 you 
+F 5868 3 0 can’t 
+F 5872 8 -1 breathe 
+F 5881 7 0 without 
+F 5889 4 1 me. 
+- 5895
+F 5901 3 -11 See 
+F 5906 6 -1 Slim, 
+F 5916 5 -1 shut 
+F 5922 2 -1 up 
+F 5925 4 5 bitch, 
+F 5930 2 2 I’m 
+F 5933 5 5 trying 
+F 5939 3 6 to 
+F 5943 8 2 talk. 
+- 5953
+F 5955 4 -7 Hey 
+F 5960 6 6 Slim, 
+F 5971 3 6 that’s 
+F 5976 3 7 my 
+F 5981 7 6 girlfriend 
+- 5990
+F 5992 3 0 Screa
+F 5996 3 1 ming 
+- 6001
+F 6012 1 0 But 
+F 6014 3 0 I 
+F 6018 3 0 didn’t 
+F 6022 2 0 slit 
+F 6025 3 0 her 
+F 6029 6 0 throat, 
+- 6036
+F 6038 4 2 I 
+F 6043 2 0 just 
+F 6046 4 0 tied 
+F 6051 2 0 her 
+F 6054 3 2 up, 
+F 6060 4 6 see 
+F 6065 2 4 I 
+F 6068 3 6 ain’t 
+F 6072 4 4 like 
+F 6077 6 6 you. 
+- 6084
+F 6084 3 4 ’Cause 
+F 6088 2 -6 if 
+F 6091 3 6 she 
+F 6095 3 -5 suff
+F 6099 8 6 ocates, 
+- 6108
+F 6108 3 6 She’ll 
+F 6112 6 6 suffer 
+F 6119 5 0 more, 
+F 6125 3 1 and 
+F 6129 3 1 then 
+F 6133 3 0 she’ll 
+F 6137 6 2 die 
+F 6144 5 0 too. 
+- 6151
+F 6160 6 1 Well, 
+F 6169 6 2 gotta 
+F 6176 5 1 go, 
+- 6182
+F 6184 3 4 I’m 
+F 6188 7 6 almost 
+F 6196 2 6 at 
+F 6199 3 3 the 
+F 6203 4 6 bridge 
+F 6208 8 6 now. 
+- 6217
+F 6218 3 4 Oh 
+F 6222 6 6 shit, 
+F 6233 1 6 I 
+F 6235 9 4 forgot, 
+- 6246
+F 6248 1 6 How 
+F 6250 1 4 am 
+F 6252 1 2 I 
+F 6254 5 2 supposed 
+F 6260 1 3 to 
+F 6262 4 3 send 
+F 6267 2 4 this 
+F 6270 3 2 shit 
+F 6274 8 2 out? 
+- 6284
+F 7061 4 0 Dear 
+F 7066 9 0 Stan, 
+F 7078 2 0 I 
+F 7081 4 2 meant 
+F 7086 2 0 to 
+F 7089 3 0 write 
+F 7093 1 0 you 
+F 7095 9 0 sooner, 
+- 7105
+F 7105 2 6 But 
+F 7108 2 5 I’ve 
+F 7111 4 4 just 
+F 7116 2 6 been 
+F 7119 8 4 busy. 
+- 7129
+F 7135 2 2 You 
+F 7138 1 1 said 
+F 7140 2 -4 your 
+F 7143 8 5 girlfriend’s 
+F 7152 7 5 pregnant 
+F 7160 8 6 now, 
+- 7169
+F 7171 3 1 How 
+F 7175 3 0 far 
+F 7179 4 0 along 
+F 7184 4 0 is 
+F 7189 6 0 she? 
+- 7197
+F 7201 7 1 Look, 
+F 7209 3 0 I’m 
+F 7213 4 0 really 
+F 7218 7 0 flattered 
+- 7226
+F 7227 2 0 You 
+F 7230 3 2 would 
+F 7234 4 4 call 
+F 7239 3 6 your 
+F 7243 7 5 daughter 
+F 7251 7 5 that. 
+- 7260
+F 7262 1 6 And 
+F 7264 3 2 here’s 
+F 7268 1 2 an 
+F 7270 11 6 autograph 
+F 7282 2 6 for 
+F 7285 2 -5 your 
+F 7288 8 6 brother: 
+- 7298
+F 7302 1 0 I 
+F 7304 3 0 wrote 
+F 7308 2 1 it 
+F 7311 2 0 on 
+F 7314 2 0 your 
+F 7317 6 0 Starter 
+F 7324 5 1 cap. 
+- 7331
+F 7341 2 0 I’m 
+F 7344 8 0 sorry 
+F 7353 2 0 I 
+F 7356 2 0 didn’t 
+F 7359 3 0 see 
+F 7363 3 0 you 
+F 7367 2 2 at 
+F 7370 2 4 the 
+F 7373 7 6 show, 
+- 7381
+F 7382 1 6 I 
+F 7384 3 5 must 
+F 7388 1 6 have 
+F 7390 3 6 missed 
+F 7394 8 4 you. 
+- 7403
+F 7404 4 6 Don’t 
+F 7409 3 6 think 
+F 7413 2 -4 I 
+F 7416 2 6 did 
+F 7419 3 6 that 
+F 7423 3 6 shit 
+F 7427 6 1 inten
+F 7434 11 -1 tionally, 
+- 7446
+F 7447 3 0 Just 
+F 7451 2 0 to 
+F 7454 5 0 diss 
+F 7460 6 2 you. 
+- 7467
+F 7468 3 0 But 
+F 7472 4 -1 what’s 
+F 7477 3 0 this 
+F 7481 3 0 shit 
+F 7485 2 0 you 
+F 7488 4 0 said 
+F 7493 4 -4 about 
+- 7499
+F 7502 2 2 You 
+F 7505 2 2 like 
+F 7508 1 6 to 
+F 7510 4 6 cut 
+F 7515 2 3 your 
+F 7518 7 6 wrists 
+F 7526 7 2 too? 
+- 7534
+F 7534 5 3 I say 
+F 7540 4 -5 that 
+F 7545 3 5 shit 
+F 7549 3 3 just 
+F 7553 6 4 clowning 
+F 7560 7 2 dogg, 
+- 7568
+F 7568 5 4 C’mon ~ 
+F 7574 4 6 how 
+F 7579 4 6 fucked 
+F 7584 2 4 up 
+F 7587 3 2 is 
+F 7591 8 1 you? 
+- 7600
+F 7602 1 -1 You 
+F 7604 3 0 got 
+F 7608 3 0 some 
+F 7612 7 1 issues, 
+F 7620 3 0 Stan, 
+- 7624
+F 7626 1 2 I 
+F 7628 3 6 think 
+F 7632 1 6 you 
+F 7634 3 2 need 
+F 7638 3 6 some 
+F 7642 4 4 coun
+F 7647 5 6 selin’ 
+- 7654
+F 7659 1 1 To 
+F 7661 3 6 help 
+F 7665 3 -4 your 
+F 7669 3 6 ass 
+- 7673
+F 7673 4 4 From 
+F 7678 7 6 bouncin’ 
+F 7686 3 6 off 
+F 7690 2 0 the 
+F 7693 5 0 walls 
+- 7699
+F 7699 3 0 When 
+F 7703 2 2 you 
+F 7706 4 0 get 
+F 7711 3 0 down 
+F 7715 7 0 some. 
+- 7724
+F 7730 3 0 And 
+F 7734 4 -1 what’s 
+F 7739 4 0 this 
+F 7744 3 2 shit 
+F 7748 4 0 about 
+- 7753
+F 7753 4 1 Us 
+F 7758 3 0 meant 
+F 7762 2 6 to 
+F 7765 4 3 be 
+F 7770 10 2 together? 
+- 7782
+F 7788 3 4 That 
+F 7792 3 6 type 
+F 7796 2 6 of 
+F 7799 3 6 shit
+F 7803 2 6 ’ll 
+F 7806 4 6 make 
+F 7811 2 6 me 
+F 7814 4 0 not 
+- 7819
+F 7819 3 1 Want 
+F 7823 2 0 us 
+F 7826 2 -1 to 
+F 7829 4 0 meet 
+F 7834 5 0 each 
+F 7840 7 0 other. 
+- 7849
+F 7862 1 -1 I 
+F 7864 7 0 really 
+F 7872 2 0 think 
+- 7875
+F 7877 2 1 You 
+F 7880 2 1 and 
+F 7883 3 1 your 
+F 7887 3 1 girl
+F 7891 5 5 friend 
+F 7897 3 2 need 
+F 7901 3 6 each 
+F 7905 6 6 other. 
+- 7913
+F 7920 2 5 Or 
+F 7923 7 5 maybe 
+F 7931 3 5 you 
+F 7935 3 5 just 
+F 7939 3 5 need 
+F 7943 2 5 to 
+F 7946 3 5 treat 
+F 7950 3 -1 her 
+F 7954 4 0 better. 
+- 7960
+F 7970 1 0 I 
+F 7972 2 0 hope 
+F 7975 3 0 you 
+F 7979 3 -1 get 
+F 7983 2 0 to 
+F 7986 3 2 read 
+F 7990 3 0 this 
+F 7994 8 0 letter, 
+- 8004
+F 8011 1 0 I 
+F 8013 3 0 hope 
+F 8017 1 0 it 
+F 8019 8 5 reaches 
+F 8028 2 2 you 
+F 8031 2 5 in 
+F 8034 8 5 time. 
+- 8043
+F 8043 4 2 Before 
+F 8048 2 6 you 
+F 8051 3 4 hurt 
+F 8055 12 5 yourself 
+- 8069
+F 8072 2 6 I 
+F 8075 4 6 think 
+F 8080 2 -6 that 
+F 8083 3 0 you’d 
+F 8087 3 5 be 
+F 8091 4 4 doin’ 
+F 8096 4 5 just 
+F 8101 5 2 fine. 
+- 8107
+F 8107 1 6 And 
+F 8109 1 6 if 
+F 8111 3 0 you’d 
+F 8115 7 -1 relax 
+F 8123 1 0 a 
+F 8125 8 0 little. 
+- 8134
+F 8135 4 1 I’m 
+F 8140 4 0 glad 
+F 8145 1 0 that 
+F 8147 1 0 I 
+F 8149 2 0 in
+F 8152 5 3 spired 
+F 8159 2 5 you, 
+- 8162
+F 8162 2 5 But 
+F 8165 9 6 Stan, 
+- 8175
+F 8175 5 4 Why 
+F 8181 2 6 are 
+F 8184 2 -1 you 
+F 8187 2 6 so 
+F 8190 10 4 mad? 
+- 8201
+F 8202 4 6 Try 
+F 8207 2 6 to 
+F 8210 1 6 un
+F 8212 10 0 derstand 
+F 8224 2 2 that 
+F 8227 2 -1 I 
+F 8230 4 0 do 
+F 8235 3 0 want 
+F 8239 2 0 you 
+F 8242 2 0 as 
+F 8245 1 0 a 
+F 8247 8 -1 fan. 
+- 8257
+F 8259 3 0 I 
+F 8263 3 0 just 
+F 8267 4 2 don’t 
+F 8272 3 0 want 
+F 8276 3 0 you 
+F 8280 2 0 to 
+F 8283 1 2 do 
+F 8285 3 5 some 
+F 8289 9 2 crazy 
+F 8299 5 6 shit. 
+- 8305
+F 8305 3 6 I 
+F 8309 3 6 seen 
+F 8313 3 5 this 
+F 8317 3 3 one 
+F 8321 3 6 shit 
+F 8325 4 2 on 
+F 8330 2 6 the 
+F 8333 7 6 news 
+- 8341
+F 8341 1 6 A 
+F 8343 4 6 couple 
+F 8348 5 -1 weeks 
+F 8354 5 0 ago 
+F 8360 3 0 that 
+F 8364 2 0 made 
+F 8367 3 0 me 
+F 8371 9 2 sick. 
+- 8382
+F 8384 3 0 Some 
+F 8388 3 0 dude 
+F 8392 3 0 was 
+F 8396 5 0 drunk 
+- 8402
+F 8404 3 1 And 
+F 8408 2 0 drove 
+F 8411 2 0 his 
+F 8414 5 1 car 
+F 8420 5 5 over 
+F 8426 3 5 a 
+F 8430 4 6 bridge. 
+- 8435
+F 8435 3 3 And 
+F 8439 3 4 had 
+F 8443 3 5 his 
+F 8447 3 0 girl
+F 8451 4 -6 friend 
+F 8456 2 5 in 
+F 8459 3 5 the 
+F 8463 4 6 trunk 
+- 8468
+F 8468 3 6 And 
+F 8472 3 -6 she 
+F 8476 3 1 was 
+F 8480 8 0 pregnant 
+F 8489 1 0 with 
+F 8491 3 0 his 
+F 8495 7 1 kid. 
+- 8503
+F 8503 3 0 And 
+F 8507 1 -1 in 
+F 8509 2 0 the 
+F 8512 4 0 car 
+F 8517 3 0 they 
+F 8521 3 0 found 
+F 8525 1 0 a 
+F 8527 5 0 tape 
+- 8534
+F 8536 2 -1 But 
+F 8539 1 0 it 
+F 8541 4 0 didn’t 
+F 8546 5 2 say 
+F 8552 3 5 who 
+F 8556 2 1 it 
+F 8559 1 5 was 
+F 8561 6 6 to. 
+- 8568
+F 8570 3 4 Come 
+F 8574 2 4 to 
+F 8577 3 3 think 
+F 8581 6 4 about 
+F 8588 3 2 it 
+- 8593
+F 8598 3 -6 His 
+F 8602 5 4 name 
+F 8608 5 -6 was … 
+- 8615
+F 8623 1 4 It 
+F 8625 3 -1 was 
+F 8629 4 0 you. 
+- 8635
+F 8650 8 -1 Damn! 
+E

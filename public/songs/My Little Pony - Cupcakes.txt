@@ -1,0 +1,114 @@
+#ARTIST:My Little Pony
+#TITLE:Cupcakes
+#MP3:My Little Pony - Cupcakes.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2011
+#LANGUAGE:English
+#BPM:360
+#GAP:860
+#VIDEO:v=b9EqoWzTKRY,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 1 2 All 
+: 2 1 2 you 
+: 4 3 2 have 
+: 8 1 2 to 
+: 10 3 2 do 
+: 14 2 2 is 
+: 18 1 6 take 
+: 20 2 6 a 
+: 23 3 4 cup 
+: 30 3 2 of 
+: 34 5 4 flo
+: 40 4 2 ur 
+- 46
+: 48 5 5 Add 
+: 54 2 1 it 
+: 58 5 5 to 
+: 65 3 7 the 
+: 70 12 9 mix! 
+- 84
+: 95 2 2 Now 
+: 98 2 2 just 
+: 101 3 2 take 
+: 105 1 2 a 
+: 107 2 2 li
+: 110 1 2 ttle 
+: 112 3 6 some
+: 116 2 6 thing 
+: 119 5 4 sweet, 
+: 126 4 2 not 
+: 132 5 4 so
+: 138 2 2 ur 
+- 141
+: 142 2 5 A 
+: 145 4 5 bit 
+: 151 3 2 of 
+: 156 4 5 salt, 
+: 162 2 7 just 
+: 166 2 7 a 
+: 169 9 9 pinch! 
+- 180
+: 192 3 7 Bak
+: 196 2 7 ing 
+: 199 4 7 these 
+: 204 6 7 treats 
+: 211 3 7 is 
+: 215 6 6 such 
+: 222 2 2 a 
+: 227 5 2 cinch 
+- 233
+: 234 1 2 Add 
+: 236 3 2 a 
+: 240 3 4 tea
+: 244 7 -3 spoon 
+: 252 3 2 of 
+: 257 3 4 va
+: 261 5 6 nil
+: 267 9 2 la 
+- 278
+: 287 1 7 Add 
+: 289 2 7 a 
+: 292 1 7 litt
+: 294 2 7 le 
+: 298 5 7 more, 
+: 304 1 7 and 
+: 306 2 7 you 
+: 309 6 6 count 
+: 316 2 2 to 
+: 320 4 2 four 
+- 326
+: 328 1 2 And 
+: 330 1 2 you 
+: 332 4 4 ne
+: 337 4 -1 ver 
+: 342 5 4 get 
+: 348 4 8 your 
+: 356 3 9 fill
+* 360 8 9 a 
+- 370
+: 376 5 6 Cup
+: 382 9 2 cakes, 
+: 392 4 2 so 
+: 398 6 7 sweet 
+: 405 4 7 and 
+: 411 4 7 tast
+: 416 3 7 y 
+- 420
+: 420 5 6 Cup
+: 426 9 2 cakes, 
+: 436 4 2 don’t 
+: 442 4 7 be 
+: 447 4 7 too 
+: 453 4 7 hast
+: 458 4 7 y 
+- 463
+: 463 5 6 Cup
+: 469 11 2 cakes, 
+: 486 3 5 cup
+: 490 6 5 cakes 
+: 498 3 9 cup
+: 502 5 9 cakes 
+: 508 5 14 cup
+* 514 26 14 cakes! 
+E

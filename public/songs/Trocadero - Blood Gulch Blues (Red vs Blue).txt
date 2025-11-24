@@ -1,0 +1,119 @@
+#ARTIST:Trocadero
+#TITLE:Blood Gulch Blues (Red vs Blue)
+#MP3:Trocadero - Blood Gulch Blues (Red vs Blue).mp3
+#CREATOR:mouton5000
+#YEAR:2004
+#LANGUAGE:English
+#BPM:201.05
+#GAP:11790
+#VIDEO:v=dGxY9d4B17c,co=https://images.genius.com/37e8b365b4be62349af5dd8976f93b7f.1000x1000x1.jpg
+: 0 3 0 Ro
+: 4 2 0 ses 
+: 7 4 0 are 
+: 12 11 0 Red 
+- 25
+: 28 2 -3 And 
+: 31 2 0 Vio
+: 34 2 0 lets 
+: 37 5 0 are 
+: 43 10 -3 Blue 
+- 55
+: 60 3 0 One 
+: 64 3 0 day 
+: 68 2 0 we’ll 
+: 71 12 0 cruise 
+: 84 4 0 down 
+: 89 2 0 Blood 
+: 92 3 -1 Gulch 
+: 96 2 -1 a
+: 99 3 -1 ve
+: 103 12 -1 nue 
+- 117
+: 119 2 -1 It’s 
+: 122 3 0 Red 
+: 126 3 0 ver
+: 130 6 0 sus 
+: 137 11 0 Red 
+- 149
+: 150 3 0 And 
+: 154 4 4 Blue 
+: 159 2 4 ver
+: 162 4 4 sus 
+: 167 11 0 Blue 
+- 180
+: 182 2 0 It’s 
+: 185 2 4 I 
+: 188 2 4 a
+: 191 6 4 gainst 
+: 198 6 0 I 
+- 205
+: 205 8 0 And 
+: 214 3 -1 Me 
+: 218 2 -1 a
+: 221 5 -1 gainst 
+: 227 25 -1 You 
+- 254
+: 275 2 0 Vio
+: 278 4 0 lets 
+: 283 2 0 are 
+: 286 12 0 Blue 
+- 300
+: 306 2 -1 Ro
+: 309 2 -1 ses 
+: 312 5 -1 are 
+: 318 10 -1 Red 
+- 330
+: 335 3 -1 Li
+: 339 4 -1 ving 
+: 344 4 -3 like 
+: 349 6 -1 this 
+: 359 3 -1 we 
+: 363 3 -1 were 
+: 367 2 -3 al
+: 370 3 -3 rea
+: 374 3 -3 dy 
+: 378 59 -3 dead 
+- 439
+: 506 3 4 Hop 
+: 510 3 4 in 
+: 514 3 4 my 
+: 518 10 2 car 
+- 529
+: 529 4 2 It 
+: 534 3 2 don’t 
+: 538 3 2 have 
+: 542 2 2 a
+: 545 7 2 ny 
+* 553 34 -3 doors
+* 588 2 -5 ~
+* 591 2 -3 ~
+* 594 3 -5 ~
+* 598 3 -3 ~
+* 602 3 -5 ~
+* 606 15 -3 ~ 
+- 623
+: 626 3 -3 It’s 
+: 630 3 0 built 
+: 634 2 0 like 
+: 637 3 0 a 
+: 641 8 -1 cat 
+- 651
+: 656 2 -1 It 
+: 659 3 -1 lands 
+: 663 4 -1 on 
+: 668 6 -1 all 
+* 675 69 -3 fours 
+- 746
+: 747 3 -3 My 
+: 751 2 0 car’s 
+: 754 4 0 like 
+: 759 3 0 a 
+: 763 4 -1 pu
+: 768 6 -1 ma 
+- 776
+: 778 3 -1 It 
+: 782 4 2 drives 
+: 787 1 2 on 
+: 789 7 2 all 
+* 797 128 -3 fours 
+E

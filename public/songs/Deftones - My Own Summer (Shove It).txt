@@ -1,0 +1,274 @@
+#ARTIST:Deftones
+#TITLE:My Own Summer (Shove It)
+#MP3:Deftones - My Own Summer (Shove It).mp3
+#CREATOR:boohjaa
+#GENRE:Alternative
+#YEAR:1997
+#LANGUAGE:English
+#BPM:286
+#GAP:19100
+#VIDEO:v=XOzs1FehYOA,co=my-own-summer-shove-it-51d201c4999c5.jpg,bg=deftones-50184bc7587e4.jpg
+: 0 7 16 Hey 
+: 9 15 20 you, 
+- 26
+: 67 5 6 Big 
+: 77 21 8 star 
+- 100
+: 130 10 6 Tell 
+: 145 22 8 me 
+- 169
+: 190 6 6 When 
+: 197 3 6 it’s 
+: 202 28 11 o
+: 232 28 7 ver 
+- 262
+: 512 12 6 Hey 
+: 526 20 8 you, 
+- 548
+: 577 6 6 Big 
+: 587 17 8 mood 
+- 606
+: 642 9 6 Guide 
+: 653 22 8 me 
+- 677
+: 704 4 6 To 
+: 714 9 11 shel
+: 726 18 7 ter 
+- 746
+: 764 1 6 ’Cause 
+: 769 3 6 I’m 
+: 780 16 8 through 
+- 798
+: 826 4 6 When 
+: 832 3 6 the 
+: 842 17 8 two 
+- 861
+: 888 5 6 Hits 
+: 896 2 6 the 
+: 903 16 8 six 
+- 921
+: 953 8 6 And 
+: 962 2 6 it’s 
+: 968 28 11 sum
+: 1000 10 7 mer 
+- 1012
+F 1038 22 11 Come 
+- 1062
+F 1064 4 11 Shove 
+F 1070 3 11 it, 
+F 1075 5 11 shove 
+F 1081 3 11 it, 
+F 1087 5 11 shove 
+F 1093 3 11 it 
+- 1098
+F 1104 19 11 Shove 
+- 1125
+F 1126 6 11 Shove 
+F 1134 3 11 it, 
+F 1139 5 11 shove 
+F 1145 3 11 it, 
+F 1150 6 11 shove 
+F 1157 1 11 it 
+- 1159
+F 1159 1 11 The 
+F 1162 10 11 sun 
+- 1174
+F 1189 6 11 Shove 
+F 1197 3 11 it, 
+F 1203 5 11 shove 
+F 1209 3 11 it, 
+F 1214 6 11 shove 
+F 1221 1 11 it 
+- 1223
+F 1223 18 11 Aside 
+- 1243
+F 1246 6 11 Shove 
+F 1253 4 11 it 
+F 1258 5 11 a
+F 1265 30 11 side 
+- 1297
+: 1304 4 11 I 
+: 1312 5 16 think 
+: 1321 22 11 god 
+: 1345 3 9 is 
+: 1353 11 9 mo
+: 1369 27 13 ving 
+: 1408 3 9 his 
+: 1417 54 8 tongue 
+- 1473
+: 1495 4 11 There’s 
+: 1503 6 16 no 
+: 1512 23 11 crowd 
+: 1538 5 9 in 
+: 1546 7 9 the 
+: 1559 24 13 streets 
+: 1595 4 9 and 
+: 1600 3 9 no 
+: 1607 56 8 sun 
+- 1665
+F 1693 11 11 My 
+F 1715 11 11 own 
+F 1741 4 11 sum
+F 1746 6 11 mer 
+- 1754
+: 1844 2 1 The 
+: 1852 23 8 shade 
+- 1877
+: 1899 5 1 Is 
+: 1907 4 1 a 
+: 1915 20 8 tool 
+- 1937
+: 1963 4 1 A 
+: 1968 6 1 de
+: 1978 28 8 vice 
+- 2008
+: 2036 2 1 A 
+: 2041 16 7 sa
+: 2059 24 3 viour 
+- 2085
+: 2099 3 1 I 
+: 2105 19 8 try 
+- 2126
+: 2155 2 1 And 
+: 2160 6 1 look 
+: 2171 10 8 up 
+- 2183
+: 2218 3 4 To 
+: 2224 3 6 the 
+: 2234 18 8 sky 
+- 2254
+: 2283 4 6 But 
+: 2289 5 6 my 
+: 2297 14 11 eyes 
+: 2315 36 7 burn 
+- 2353
+F 2366 18 7 Come 
+- 2386
+F 2389 7 11 Shove 
+F 2397 3 11 it, 
+F 2403 5 11 shove 
+F 2410 3 11 it, 
+F 2415 6 11 shove 
+F 2422 1 11 it 
+- 2425
+F 2432 15 11 Shove 
+- 2449
+F 2455 7 11 Shove 
+F 2463 3 11 it, 
+F 2468 5 11 shove 
+F 2475 3 11 it, 
+F 2480 6 11 shove 
+F 2487 1 11 it 
+- 2489
+F 2489 1 11 The 
+F 2491 9 11 sun 
+- 2502
+F 2520 6 11 Shove 
+F 2528 3 11 it, 
+F 2533 5 11 shove 
+F 2539 3 11 it, 
+F 2544 4 11 shove 
+F 2549 2 11 it 
+- 2552
+F 2552 28 11 Aside 
+- 2582
+F 2584 7 11 Shove 
+F 2592 3 11 it 
+F 2596 5 11 a
+F 2604 20 11 side 
+- 2625
+F 2626 18 7 Come 
+- 2646
+F 2647 9 11 Shove 
+F 2657 3 11 it, 
+F 2661 5 11 shove 
+F 2667 3 11 it, 
+F 2672 6 11 shove 
+F 2679 2 11 it 
+- 2683
+F 2688 21 11 Shove 
+- 2710
+F 2711 7 11 Shove 
+F 2719 3 11 it, 
+F 2725 5 11 shove 
+F 2732 3 11 it, 
+F 2737 6 11 shove 
+F 2744 1 11 it 
+- 2746
+F 2746 1 11 The 
+F 2748 24 11 sun 
+- 2774
+F 2777 7 11 Shove 
+F 2785 3 11 it, 
+F 2790 5 11 shove 
+F 2797 3 11 it, 
+F 2801 5 11 shove 
+F 2808 1 11 it 
+- 2810
+F 2810 27 11 Aside 
+- 2838
+F 2839 7 11 Shove 
+F 2847 3 11 it 
+F 2851 5 11 a
+F 2860 19 11 side 
+- 2881
+: 2891 6 11 I 
+: 2899 8 16 think 
+: 2910 18 11 god 
+: 2933 5 9 is 
+: 2942 13 9 mo
+: 2960 29 13 ving 
+: 2999 4 9 his 
+: 3007 52 8 tongue 
+- 3061
+: 3085 6 11 There’s 
+: 3093 5 16 no 
+: 3104 20 11 crowd 
+: 3128 4 9 in 
+: 3136 8 9 the 
+: 3150 23 13 streets 
+: 3183 5 9 and 
+: 3190 3 9 no 
+: 3198 54 8 sun 
+- 3254
+: 3307 10 6 In 
+: 3326 30 8 my 
+: 3388 32 8 own 
+: 3454 18 9 sum
+: 3476 56 8 mer 
+- 3534
+F 3592 18 7 Come 
+- 3612
+F 3615 5 11 Shove 
+F 3621 3 11 it, 
+F 3625 5 11 shove 
+F 3631 3 11 it, 
+F 3637 7 11 shove 
+F 3645 3 11 it 
+- 3650
+F 3652 21 11 Shove 
+- 3675
+F 3679 6 11 Shove 
+F 3686 3 11 it, 
+F 3692 5 11 shove 
+F 3699 3 11 it, 
+F 3704 4 11 shove 
+F 3709 1 11 it 
+- 3711
+F 3711 1 11 The 
+F 3713 24 11 sun 
+- 3739
+F 3741 7 11 Shove 
+F 3749 3 11 it, 
+F 3754 5 11 shove 
+F 3761 3 11 it, 
+F 3765 5 11 shove 
+F 3772 1 11 it 
+- 3774
+F 3774 27 11 Aside 
+- 3803
+F 3805 9 11 Shove 
+F 3815 2 11 it 
+F 3821 2 11 a
+F 3828 20 11 side 
+E

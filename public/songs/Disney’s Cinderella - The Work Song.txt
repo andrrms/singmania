@@ -1,0 +1,263 @@
+#ARTIST:Disney’s Cinderella
+#TITLE:The Work Song
+#MP3:Disney’s Cinderella - The Work Song.mp3
+#CREATOR:Kimbo
+#EDITION:SingStar singalong with Disney
+#GENRE:Soundtrack
+#YEAR:1950
+#LANGUAGE:English
+#BPM:326.1
+#GAP:20240
+#VIDEO:v=N2B5hzGeCWY,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/0d/ab/360dab3e-3313-8d45-1057-dfbdc5bae2d4/00094634594653.jpg/5000x5000bb.jpg,bg=cinderella-5e41026b676af.jpg
+: 0 2 26 Cin
+: 4 3 28 de
+: 9 3 30 rel
+: 14 2 30 ly 
+- 18
+: 19 2 30 Cin
+: 24 2 30 de
+: 29 3 30 rel
+: 33 2 26 ly 
+- 37
+: 39 3 26 Night 
+: 44 3 23 and 
+* 49 4 26 day 
+- 54
+: 54 2 23 It’s 
+: 59 2 23 Cin
+: 63 4 23 de
+: 68 4 26 rel
+: 73 2 23 ly 
+- 77
+F 78 2 11 Make 
+F 82 2 11 the 
+F 88 7 11 fire 
+- 97
+F 99 2 9 Fix 
+F 104 2 9 the 
+F 109 7 9 breakfast 
+- 118
+F 119 2 11 Wash 
+F 124 2 11 the 
+F 129 8 11 dishes 
+- 138
+F 139 2 9 Do 
+F 144 2 9 the 
+F 148 6 9 moppin’ 
+- 156
+F 159 3 14 And 
+F 164 2 14 the 
+F 169 7 14 sweepin’ 
+- 178
+F 179 2 11 And 
+F 183 2 11 the 
+F 188 7 11 dustin’ 
+- 197
+: 202 2 21 They 
+* 208 3 23 al
+: 213 3 21 ways 
+: 218 2 21 keep 
+: 222 3 21 her 
+: 227 4 23 hop
+: 232 2 21 pin’ 
+- 236
+: 242 3 33 She 
+: 247 4 33 go 
+: 252 4 31 a
+: 257 3 33 round 
+: 261 2 31 in 
+: 267 3 33 cir
+: 271 2 31 cles 
+- 275
+: 276 4 30 ’Til 
+: 281 4 28 she’s 
+* 287 3 31 ve
+: 292 3 30 ry, 
+: 297 3 31 ve
+: 301 2 30 ry 
+: 306 4 31 diz
+: 311 2 30 zy 
+- 315
+F 316 3 14 Still 
+F 321 3 14 they 
+F 328 7 14 holler 
+- 336
+F 337 3 9 Keep 
+F 342 3 9 her 
+F 347 8 9 busy 
+- 356
+: 357 5 23 Cin
+: 363 3 21 de
+: 367 4 26 rel
+* 372 14 26 ly 
+- 388
+: 1031 2 26 We 
+: 1037 2 28 can 
+* 1041 4 30 do 
+: 1046 2 30 it, 
+: 1050 3 30 we 
+: 1055 2 30 can 
+: 1059 5 30 do 
+: 1065 2 26 it 
+- 1068
+: 1068 3 26 We 
+: 1074 2 26 can 
+: 1078 4 26 help 
+: 1084 2 23 our 
+: 1087 3 23 Cin
+: 1094 3 23 de
+: 1098 4 26 rel
+: 1105 2 23 ly 
+- 1108
+: 1109 2 23 We 
+: 1115 2 23 can 
+: 1118 4 23 make 
+: 1125 2 21 her 
+: 1128 3 21 dress 
+: 1134 2 21 so 
+* 1138 5 23 pret
+: 1144 2 21 ty 
+- 1148
+: 1153 1 21 There’s 
+: 1157 3 23 no
+: 1164 2 21 thing 
+: 1167 5 23 to 
+: 1173 2 21 it 
+: 1176 5 23 real
+: 1182 2 21 ly 
+- 1186
+: 1187 8 30 We’ll 
+: 1197 4 31 tie 
+: 1202 2 28 a 
+: 1206 3 28 sash 
+: 1212 2 28 a
+: 1215 5 31 round 
+: 1221 2 28 it 
+- 1225
+* 1235 6 31 Put 
+: 1242 1 28 a 
+: 1245 4 28 rib
+: 1251 2 28 bon 
+: 1255 5 31 through 
+: 1261 2 28 it 
+- 1265
+: 1271 3 31 When 
+: 1275 3 33 danc
+: 1281 3 31 ing 
+: 1285 3 33 at 
+: 1291 3 31 the 
+: 1295 3 33 ball 
+- 1300
+: 1301 2 31 She’ll 
+: 1304 4 30 be 
+: 1310 2 28 more 
+: 1314 4 31 beau
+: 1321 2 30 ti
+: 1324 3 31 ful 
+: 1330 2 30 than 
+: 1334 5 31 all
+: 1340 2 30 ~ 
+- 1343
+: 1344 5 28 In 
+: 1350 2 26 the 
+: 1354 3 30 love
+: 1360 3 28 ly 
+* 1364 4 26 dress 
+: 1370 2 25 we’ll 
+: 1374 3 28 make 
+- 1379
+: 1381 2 26 For 
+: 1384 6 25 Cin
+: 1391 2 23 de
+: 1394 4 26 rel
+: 1399 13 26 ly 
+- 1414
+: 1425 6 30 Hur
+: 1432 2 31 ry, 
+: 1435 5 33 hur
+: 1442 2 33 ry, 
+: 1445 5 33 hur
+: 1452 2 33 ry, 
+: 1456 5 33 hur
+: 1462 2 30 ry 
+- 1465
+: 1466 4 30 Gon
+: 1472 2 30 na 
+: 1476 5 30 help 
+: 1482 2 26 our 
+: 1485 4 26 Cin
+: 1492 2 26 de
+* 1495 5 30 rel
+: 1501 2 26 ly 
+- 1504
+: 1505 3 33 Got 
+: 1512 2 33 no 
+: 1515 5 35 time 
+: 1521 2 33 to 
+: 1525 5 33 dil
+: 1531 3 33 ly
+: 1535 5 35 dal
+: 1541 2 33 ly 
+- 1545
+: 1550 2 33 We 
+: 1554 2 35 got 
+: 1561 1 33 to 
+: 1565 2 35 get 
+: 1571 1 33 a 
+: 1574 5 35 go
+: 1580 1 33 in’ 
+- 1583
+F 1584 6 19 I’ll 
+F 1594 2 19 cut 
+F 1597 2 19 it 
+F 1600 2 19 with 
+F 1605 2 19 the 
+F 1610 7 19 scissors 
+- 1619
+F 1632 1 18 And 
+F 1635 4 18 I 
+F 1641 1 18 can 
+F 1644 4 18 do 
+F 1649 2 18 the 
+F 1653 5 18 sewin’ 
+- 1660
+F 1664 3 18 Leave 
+F 1669 2 18 the 
+F 1673 6 18 sewin’ 
+F 1684 3 18 to 
+F 1689 2 18 the 
+F 1693 5 18 women 
+- 1700
+F 1714 4 16 You 
+F 1720 2 16 go 
+F 1723 3 16 get 
+F 1729 2 16 some 
+F 1733 5 16 trimmin’ 
+- 1740
+: 1742 5 28 And 
+: 1750 2 26 we’ll 
+* 1753 4 30 make 
+: 1760 2 28 a 
+: 1763 4 26 love
+: 1769 2 25 ly 
+: 1773 4 28 dress 
+- 1778
+: 1779 2 26 For 
+: 1782 5 25 Cin
+: 1788 3 23 de
+: 1792 4 26 rel
+: 1797 4 26 ly 
+- 1803
+: 1829 2 26 We’ll 
+: 1832 4 30 make 
+: 1839 3 28 a 
+: 1843 3 26 love
+: 1849 2 25 ly 
+: 1853 3 28 dress 
+- 1858
+: 1859 2 26 For 
+: 1863 3 25 Cin
+: 1869 3 23 de
+: 1873 3 26 rel
+: 1877 11 26 ly 
+E

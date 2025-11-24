@@ -1,0 +1,197 @@
+#ARTIST:Slowdive
+#TITLE:kisses
+#MP3:Slowdive - kisses.mp3
+#CREATOR:mus31
+#COVER:Slowdive - kisses [CO].jpg
+#BACKGROUND:Slowdive - kisses [BG].jpg
+#GENRE:Indie
+#YEAR:2024
+#LANGUAGE:English
+#BPM:256.57
+#GAP:21610
+#VIDEO:v=G9RpHfPyEx8,co=everything-is-alive-64f6607abf981.jpg
+: 0 3 5 Tell 
+: 4 3 3 me, 
+: 8 5 1 “You’re 
+: 14 3 0 the 
+: 18 10 1 best 
+: 31 12 -2 thing” 
+- 53
+: 77 3 -2 I 
+: 81 3 5 tell 
+: 85 3 5 you, 
+: 90 4 5 “That’s 
+: 96 4 5 what 
+: 101 4 1 you 
+: 108 9 3 need” 
+- 126
+: 129 3 5 Rol
+: 133 3 3 ling 
+: 137 3 1 on 
+: 141 3 0 those 
+: 145 9 1 good 
+: 160 12 -2 looks 
+- 189
+: 209 4 5 May
+: 214 3 5 be 
+: 219 3 5 it’s 
+: 225 5 5 just 
+: 232 4 1 e
+: 238 11 3 nough 
+- 252
+: 254 3 -2 I 
+: 258 2 5 know 
+: 261 3 3 you 
+: 265 3 1 dream 
+: 269 2 0 of 
+: 272 12 1 snow
+: 289 15 -2 fields 
+- 314
+: 329 4 -2 Floa
+: 334 2 -2 ting 
+: 337 6 5 high 
+: 344 4 5 a
+: 350 6 5 bove 
+: 358 4 1 the 
+: 364 16 3 trees 
+- 384
+: 386 3 5 Li
+: 390 3 3 ving 
+: 394 3 1 for 
+: 398 3 0 the 
+: 402 8 1 new 
+: 415 14 -2 thing 
+- 446
+: 465 3 5 Some
+: 469 9 5 times 
+: 479 2 5 the 
+: 482 3 5 new 
+: 486 6 1 won’t 
+: 493 7 3 do 
+- 510
+: 530 13 5 Kis
+: 544 15 -2 ses 
+- 576
+: 594 8 5 Born 
+: 605 6 5 de
+: 612 7 1 sert 
+: 620 14 3 sun 
+- 644
+: 659 16 5 Kis
+: 677 31 -2 ses 
+- 718
+: 722 7 5 Born 
+: 732 6 5 de
+: 740 7 1 sert 
+: 748 13 3 sun 
+- 771
+: 785 17 5 Kis
+: 804 21 -2 ses 
+- 835
+* 850 9 5 Born 
+* 860 7 5 de
+* 868 8 1 sert 
+* 877 11 3 sun 
+- 922
+: 1411 3 5 May
+: 1415 4 3 be 
+: 1420 4 1 there’s 
+: 1425 2 0 a 
+: 1428 10 1 car 
+: 1455 5 -2 the
+: 1461 14 1 re 
+- 1487
+: 1491 3 5 Dri
+: 1495 4 5 ving 
+: 1500 3 5 a
+: 1504 4 5 way 
+: 1510 6 1 from 
+: 1518 9 3 here 
+- 1536
+: 1539 3 5 Tak
+: 1543 4 3 ing 
+: 1548 3 1 all 
+: 1552 3 0 the 
+: 1556 10 1 ghosts, 
+: 1580 4 -2 the 
+: 1585 10 1 hurt 
+- 1605
+: 1618 3 -2 Well, 
+: 1622 3 5 e
+: 1626 2 5 very
+: 1629 4 5 thing 
+: 1634 8 5 starts 
+: 1644 2 1 a
+: 1647 9 3 new 
+- 1665
+: 1668 3 5 Tell 
+: 1672 3 3 me 
+: 1676 3 1 what 
+: 1680 3 0 you 
+: 1684 12 1 need, 
+: 1707 4 -2 what’s 
+: 1712 15 1 right 
+- 1737
+: 1745 3 -2 What
+: 1749 3 5 ev
+: 1753 3 5 er 
+: 1758 3 5 is 
+: 1763 6 5 just 
+: 1771 3 1 e
+: 1775 11 3 nough 
+- 1792
+: 1794 5 5 Li
+: 1800 6 3 ving 
+: 1807 3 1 with 
+: 1811 3 0 the 
+: 1815 10 1 truth, 
+: 1836 3 -2 a 
+: 1840 11 1 start 
+- 1861
+: 1875 3 5 May
+: 1879 4 5 be 
+: 1886 4 5 it’s 
+: 1892 6 5 just 
+: 1900 2 1 e
+: 1903 11 3 nough 
+- 1924
+: 1940 14 5 Kis
+: 1956 27 -2 ses 
+- 1993
+: 2003 10 5 Born 
+: 2015 5 5 de
+: 2022 7 1 sert 
+: 2030 12 3 sun 
+- 2052
+: 2068 17 5 Kis
+: 2087 22 -2 ses 
+- 2119
+: 2132 10 5 Born 
+: 2144 7 5 de
+: 2152 6 1 sert 
+: 2159 12 3 sun 
+- 2181
+: 2196 16 5 Kis
+: 2214 23 -2 ses 
+- 2247
+* 2260 10 5 Born 
+* 2271 7 5 de
+* 2279 8 1 sert 
+* 2288 12 3 sun 
+- 2334
+: 3098 13 5 Kis
+: 3113 17 -2 ses 
+- 3140
+: 3158 11 5 Born 
+: 3170 6 5 de
+: 3177 8 1 sert 
+: 3186 15 3 sun 
+- 3211
+: 3223 17 5 Kis
+: 3241 20 -2 ses 
+- 3271
+* 3287 11 5 Born 
+* 3299 6 5 de
+* 3306 7 1 sert 
+* 3314 8 3 sun 
+E

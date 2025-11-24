@@ -1,0 +1,199 @@
+#ARTIST:Gregory Porter
+#TITLE:Liquid Spirit (Claptone Remix)
+#MP3:Gregory Porter - Liquid Spirit (Claptone Remix).mp3
+#CREATOR:choosie
+#YEAR:2015
+#LANGUAGE:English
+#BPM:242
+#GAP:24060
+#VIDEO:a=Rh98CXLWm1A,co=https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6f/21/06/6f2106cd-b458-3bdb-f32c-711f65a33e50/00602547511461.rgb.jpg/5000x5000bb.jpg,bg=porter-gregory-5276274394896.jpg
+: 0 2 11 Un
+: 4 2 11 re
+: 9 2 9 route 
+: 13 1 7 the 
+: 16 1 9 ri
+: 18 2 11 vers 
+- 26
+: 28 1 4 Let 
+* 30 1 7 the 
+* 32 1 9 dammed
+* 34 4 11 ~ 
+: 41 1 9 wa
+: 44 2 7 ter 
+: 48 1 9 be
+: 50 2 11 ~ 
+- 58
+: 60 1 4 There’s 
+: 62 1 7 some 
+: 64 1 11 pe
+: 66 1 9 ople 
+: 68 1 9 down 
+: 70 1 7 the 
+: 73 1 9 way 
+: 75 2 7 that’s 
+: 80 2 9 thir
+: 84 3 4 sty 
+- 89
+: 91 1 4 So 
+: 93 1 7 let 
+: 95 1 9 the 
+: 97 2 11 li
+: 101 2 9 quid 
+: 106 1 9 spi
+: 108 2 7 rit 
+: 113 1 9 free
+: 115 3 11 ~ 
+- 130
+: 134 1 11 The 
+: 136 1 11 pe
+: 138 1 9 ople 
+: 140 2 9 are 
+* 144 4 9 thir
+* 150 1 11 sty 
+- 152
+: 154 1 4 ’Cos 
+: 156 1 7 of 
+: 158 1 9 man’s
+: 160 3 11 ~ 
+: 165 2 9 un
+: 169 1 9 na
+: 171 2 7 tural 
+: 176 1 9 hand
+: 178 3 11 ~ 
+- 189
+: 192 2 11 Watch 
+: 197 1 9 what 
+: 199 2 9 hap
+: 202 1 7 pens 
+: 205 1 4 when 
+: 207 1 4 the 
+: 209 1 7 pe
+: 211 1 7 ople 
+: 213 2 9 catch 
+: 217 1 9 wind 
+- 218
+: 220 1 4 When 
+: 222 1 4 the 
+: 224 1 7 wa
+: 226 1 7 ter 
+: 228 1 9 hits 
+: 230 1 7 the 
+: 232 1 9 banks 
+: 234 1 7 of 
+: 236 1 4 that 
+: 239 3 7 hard 
+: 244 3 4 dry 
+: 249 4 4 land 
+- 261
+* 264 2 4 Li
+* 268 2 2 quid 
+* 273 3 7 spi
+* 279 8 4 rit 
+- 303
+: 328 2 4 Li
+: 332 2 2 quid 
+: 337 1 7 spi
+: 339 6 9 ~
+: 349 8 4 rit 
+- 373
+: 392 2 4 Li
+: 396 2 2 quid 
+: 401 3 7 spi
+: 407 8 4 rit 
+- 431
+: 456 2 4 Li
+: 460 2 2 quid 
+* 465 1 7 spi
+* 467 5 9 ~
+* 476 2 9 rit
+* 479 3 11 ~ 
+- 492
+F 500 1 0 Clap 
+F 502 1 0 your 
+F 504 4 0 hands 
+F 510 3 0 now 
+- 545
+* 1152 2 11 Un
+* 1156 2 11 re
+* 1160 3 9 route 
+: 1165 1 7 the 
+: 1168 1 9 ri
+: 1170 2 11 vers 
+- 1178
+: 1180 1 4 Let 
+: 1182 1 7 the 
+: 1184 1 9 dammed
+: 1186 4 11 ~ 
+: 1193 1 9 wa
+: 1195 2 7 ter 
+: 1200 1 9 be
+: 1202 3 11 ~ 
+- 1210
+: 1212 1 4 There’s 
+: 1214 1 7 some 
+: 1216 1 11 pe
+: 1218 1 9 ople 
+: 1220 1 9 down 
+: 1222 1 7 the 
+: 1225 1 9 way 
+: 1227 2 7 that’s 
+: 1232 3 9 thir
+: 1237 2 4 sty 
+- 1240
+: 1242 1 4 So 
+: 1244 1 7 let 
+: 1246 1 9 the 
+: 1248 2 11 li
+: 1252 2 9 quid 
+: 1257 1 9 spi
+: 1260 2 7 rit 
+: 1265 1 9 free
+: 1267 3 11 ~ 
+- 1282
+: 1286 1 11 The 
+: 1288 1 11 pe
+: 1290 1 9 ople 
+: 1293 2 9 are 
+: 1297 3 9 thir
+: 1302 2 11 sty 
+- 1304
+: 1306 1 4 ’Cos 
+: 1308 1 7 of 
+: 1310 1 9 man’s
+: 1312 3 11 ~ 
+: 1317 2 9 un
+: 1321 1 9 na
+: 1324 2 7 tural 
+: 1328 1 9 hand
+: 1330 3 11 ~ 
+- 1341
+: 1344 2 11 Watch 
+: 1349 1 9 what 
+: 1351 2 9 hap
+: 1354 1 7 pens 
+: 1357 1 4 when 
+: 1359 1 4 the 
+: 1361 1 7 pe
+: 1363 1 7 ople 
+: 1365 2 9 catch 
+: 1369 1 9 wind 
+- 1370
+: 1372 1 4 When 
+: 1374 1 4 the 
+: 1376 1 7 wa
+: 1378 1 7 ter 
+: 1380 1 9 hits 
+: 1382 1 7 the 
+: 1384 1 9 banks 
+: 1386 1 7 of 
+: 1388 1 4 that 
+* 1391 3 7 hard 
+* 1396 3 4 dry 
+* 1401 4 4 land 
+- 1437
+: 1511 2 4 Li
+: 1515 2 2 quid 
+* 1520 1 7 spi
+* 1522 6 9 ~
+* 1532 9 4 rit 
+E

@@ -1,0 +1,164 @@
+#ARTIST:blink-182
+#TITLE:Happy Holidays, You Bastard
+#MP3:blink-182 - Happy Holidays, You Bastard.mp3
+#CREATOR:tair1
+#GENRE:Alternative
+#YEAR:2001
+#LANGUAGE:English
+#BPM:240
+#GAP:380
+#VIDEO:a=-KYOAw47O-I,co=take-off-your-pants-and-jacket-57742cfda2b73.jpg,bg=blink-182-4eaea7576e7f3.jpg,tags=explicit
+: 0 1 11 It’s 
+: 2 1 11 Christ
+: 4 3 11 mas 
+: 8 3 13 Eve 
+- 12
+: 12 3 15 And 
+: 16 1 15 I’ve 
+: 18 3 11 only 
+: 22 5 11 wrapped 
+* 28 3 11 two 
+* 32 7 11 fuckin’ 
+* 40 4 11 presents 
+- 45
+: 46 1 13 It’s 
+: 48 1 13 Christ
+: 50 1 13 mas 
+: 52 5 13 Eve 
+- 58
+: 58 1 15 And 
+: 60 1 13 I’ve 
+: 62 5 11 only 
+: 68 5 11 wrapped 
+: 74 3 13 two 
+: 78 5 15 fuckin’ 
+: 84 6 15 presents 
+- 91
+: 92 1 11 And 
+* 94 1 11 I 
+* 96 4 11 hate, 
+* 102 4 11 hate, 
+* 108 1 11 hate 
+: 110 3 13 your 
+: 114 1 13 guts, 
+- 116
+: 116 3 14 I 
+: 120 2 14 hate, 
+: 124 3 13 hate, 
+: 128 3 11 hate 
+: 132 1 11 your 
+: 134 4 11 guts, 
+- 139
+: 140 1 15 And 
+* 142 3 15 I’ll 
+* 146 5 15 never 
+* 152 3 11 talk 
+* 156 1 11 to 
+* 158 3 11 you 
+* 162 12 16 again, 
+- 176
+: 184 5 16 I’ll 
+: 190 3 16 never 
+: 194 5 11 talk 
+: 200 1 11 to 
+: 202 3 11 you 
+: 206 12 15 again 
+- 220
+: 232 3 15 I’ll 
+: 236 3 15 never 
+: 240 3 13 talk 
+: 244 1 13 to 
+: 246 3 13 you 
+: 250 12 13 again 
+- 264
+: 274 5 11 I’ll 
+: 280 5 15 never 
+: 286 1 15 talk 
+: 288 3 15 to 
+: 292 1 13 you 
+: 294 5 13 again, 
+- 300
+* 300 1 13 I’ll 
+* 302 5 13 never 
+* 308 2 11 talk 
+- 311
+: 312 1 15 It’s 
+: 314 3 13 Labor 
+: 318 3 13 day 
+: 322 3 13 and 
+: 326 3 13 my 
+: 330 5 11 grandpa 
+- 336
+: 336 3 15 Just 
+: 340 1 15 ate 
+: 342 3 15 seven 
+* 346 5 13 fuckin’ 
+* 352 1 13 hot
+* 354 4 13 dogs 
+- 359
+: 360 1 13 It’s 
+: 362 3 13 Labor 
+: 366 3 11 day 
+: 370 1 11 and 
+: 372 1 11 my 
+: 374 5 13 grandpa 
+- 380
+: 380 3 15 Just 
+: 384 1 15 ate 
+: 386 5 11 seven 
+: 392 3 11 fuckin’ 
+: 396 1 11 hot
+: 398 4 11 dogs 
+- 403
+: 404 1 11 And 
+: 406 1 11 he 
+* 408 4 13 shit 
+* 414 4 13 shit 
+* 420 3 13 shits 
+* 424 1 15 his 
+* 426 3 13 pants 
+- 430
+: 430 1 11 He’s 
+: 432 1 11 al
+: 434 1 11 ways 
+: 436 3 13 fuckin’ 
+: 440 5 15 shittin’ 
+: 446 1 15 his 
+: 448 3 11 pants 
+- 452
+: 452 1 11 And 
+: 454 3 11 I’ll 
+: 458 5 11 never 
+: 464 3 11 talk 
+: 468 1 13 to 
+: 470 3 13 you 
+: 474 12 13 again 
+- 488
+* 498 5 15 I’ll 
+* 504 3 13 never 
+* 508 3 11 talk 
+* 512 1 11 to 
+* 514 1 11 you 
+* 516 14 15 again 
+- 532
+: 542 5 15 I’ll 
+: 548 3 15 never 
+: 552 3 11 talk 
+: 556 1 11 to 
+: 558 3 11 you 
+: 562 14 16 again 
+- 578
+: 588 3 16 I’ll 
+: 592 5 11 never 
+: 598 3 11 talk 
+: 602 3 11 to 
+: 606 1 14 you 
+: 608 5 14 again 
+- 614
+* 614 1 14 I’ll 
+* 616 3 15 never 
+* 620 3 16 talk 
+* 624 1 17 to 
+* 626 3 17 you 
+* 630 28 14 again 
+E

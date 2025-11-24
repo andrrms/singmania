@@ -1,0 +1,182 @@
+#ARTIST:Cinderella (Musical)
+#TITLE:Do I Love You Because You’re Beautiful?
+#MP3:Cinderella (Musical) - Do I Love You Because You’re Beautiful?.mp3
+#CREATOR:Relisch
+#COVER:Cinderella (Musical) - Do I Love You Because You’re Beautiful? [CO].jpg
+#BACKGROUND:Cinderella (Musical) - Do I Love You Because You’re Beautiful? [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1997
+#LANGUAGE:English
+#BPM:300
+#GAP:3950
+#VIDEO:v=0ro28nT9rg4,co=https://images.genius.com/e9bd7c825599d51ca8c89fd7edde5e12.768x768x1.png
+: 0 15 7 Do
+: 21 17 6  I
+: 41 9 7  love
+: 51 5 9  you
+: 57 3 7  because
+: 61 15 5 ~
+: 77 5 7  you’re
+: 83 11 9  beautiful
+: 95 3 5 ~
+: 99 18 5 ~,
+- 126
+: 130 9 5 Or
+: 140 8 5  are
+: 150 6 5  you
+: 158 11 7  beautiful
+: 170 6 3 ~
+: 177 21 3 ~
+- 208
+: 219 9 3 Because
+: 228 8 3 ~
+: 237 7 3  I
+: 245 15 5  love
+: 261 35 5  you?
+- 306
+: 326 15 7 Am
+: 342 20 6  I
+* 364 4 7  making
+* 369 6 9 ~
+* 377 3 7  believe
+* 382 9 5 ~
+: 393 6 7  I
+: 401 15 9  see
+: 417 5 4  in
+: 424 18 4  you
+- 450
+: 453 8 4 A
+: 463 9 4  girl
+: 473 8 4  too
+: 484 18 7  lovely
+: 503 3 3 ~
+: 508 20 3  to
+- 534
+: 536 5 2 Be
+: 542 8 2  really
+: 553 6 2 ~
+: 563 58 5  true?
+- 631
+: 649 16 7 Do
+: 667 19 7  I
+: 688 8 9  want
+: 698 5 10  you
+: 704 3 9  because
+: 709 8 7 ~
+: 720 8 9  you’re
+: 729 13 10  wonderful
+: 744 4 5 ~
+: 750 25 5 ~,
+- 780
+: 782 8 5 Or
+: 791 9 5  are
+: 801 9 5  you
+: 812 12 12  wonderful
+: 826 3 7 ~
+: 831 29 7 ~
+- 866
+: 869 8 7 Because
+: 878 8 7 ~
+: 887 5 7  I
+: 893 19 9  want
+: 913 54 9  you?
+- 973
+: 976 20 10 Are
+: 997 6 10  you
+: 1005 6 10  the
+* 1014 7 10  sweet
+* 1023 8 10  invention
+* 1033 5 10 ~
+* 1040 3 12 ~
+: 1044 5 9  of
+: 1050 3 10  a
+: 1055 16 10  lover’s
+: 1072 2 12 ~
+: 1076 25 14  dream,
+- 1110
+: 1114 12 14 Or
+: 1127 10 10  are
+: 1138 7 12  you
+: 1147 23 14  really
+: 1171 13 14 ~
+: 1185 5 14  as
+: 1192 5 14  beautiful
+: 1198 5 12 ~
+: 1204 13 10 ~
+: 1218 14 12  as
+: 1234 12 9  you
+: 1248 37 10  seem?
+- 1325
+: 1406 21 7 Am
+: 1428 19 6  I
+: 1448 7 7  making
+: 1457 4 9 ~
+: 1462 3 7  believe
+: 1467 9 5 ~
+: 1477 9 7  I
+: 1487 15 9  see
+: 1503 3 5  in
+: 1508 18 5  you
+- 1537
+* 1541 7 5 A
+* 1550 9 5  man
+* 1561 8 5  too
+* 1570 16 7  perfect
+* 1587 3 3 ~
+: 1592 21 3  to
+- 1619
+: 1622 8 3 Be
+: 1632 8 3  really
+: 1642 8 3 ~
+: 1652 54 5  true?
+- 1716
+: 1737 18 7 Do
+: 1756 18 7  I
+: 1776 7 9  want
+: 1785 3 10  you
+: 1790 3 9  because
+: 1795 7 7 ~
+: 1804 9 9  you’re
+: 1815 16 10  wonderful
+: 1832 3 5 ~
+: 1836 23 5 ~,
+- 1865
+: 1867 7 5 Or
+: 1876 8 5  are
+: 1887 6 5  you
+: 1897 14 12  wonderful
+: 1912 4 7 ~
+: 1917 22 7 ~
+- 1945
+: 1948 8 7 Because
+: 1957 9 7 ~
+: 1968 8 7  I
+: 1978 20 9  want
+: 2000 39 9  you?
+- 2049
+: 2063 18 10 Are
+: 2082 10 10  you
+: 2093 5 10  the
+: 2100 8 10  sweet
+: 2110 7 10  invention
+: 2118 6 10 ~
+: 2125 4 12 ~
+: 2130 5 9  of
+: 2137 3 10  a
+: 2142 14 10  lover’s
+: 2158 3 12 ~
+: 2163 24 14  dream,
+- 2194
+: 2197 11 14 Or
+: 2210 10 10  are
+: 2221 9 12  you
+: 2232 22 14  really
+: 2256 17 14 ~
+* 2274 7 14  as
+* 2282 5 14  wonderful
+* 2288 4 12 ~
+* 2294 14 10 ~
+: 2315 16 12  as
+: 2334 17 9  you
+: 2353 50 10  seem?
+E

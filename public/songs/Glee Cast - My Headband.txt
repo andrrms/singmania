@@ -1,0 +1,116 @@
+#ARTIST:Glee Cast
+#TITLE:My Headband
+#MP3:Glee Cast - My Headband.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Soundtrack
+#YEAR:2011
+#LANGUAGE:English
+#BPM:258.96
+#GAP:4200
+#VIDEO:v=BSB6TXyoj34,co=https://gleethecovers.files.wordpress.com/2011/02/s02e14-01-my-headband-04.jpg
+: 0 10 32 There 
+: 12 6 27 you 
+: 22 14 29 rest, 
+- 38
+: 50 4 20 With 
+: 56 6 32 all 
+: 68 8 27 the 
+: 78 12 29 rest 
+- 92
+: 100 2 20 Of 
+: 104 2 20 my 
+: 108 2 20 ac
+: 112 2 32 ces
+: 116 2 32 so
+: 120 22 32 ries 
+- 144
+: 150 8 31 On 
+: 164 4 27 my 
+: 170 4 20 night 
+: 178 30 29 stand 
+- 210
+: 228 8 32 You’re 
+: 238 4 27 red 
+: 244 2 27 or 
+: 248 2 29 ye
+: 252 16 29 llow, 
+- 270
+: 278 2 20 And 
+: 284 6 32 like 
+: 294 4 27 a 
+: 300 4 27 good 
+: 306 2 29 fe
+: 310 20 29 llow 
+- 332
+: 340 4 25 Some
+: 347 4 24 times 
+: 354 4 25 you 
+: 361 4 24 get 
+* 368 6 25 lost 
+- 376
+: 380 6 24 In 
+: 388 6 20 my 
+: 396 26 22 mess 
+- 424
+: 446 2 24 But 
+: 450 2 24 when 
+: 454 4 25 school 
+: 460 2 24 girl 
+- 464
+: 466 4 25 Pig
+: 472 5 24 tails
+: 478 14 25 ~ 
+: 496 4 29 won’t 
+: 504 11 27 do
+: 516 4 29 ~ 
+- 522
+: 556 2 22 And 
+: 560 2 24 I 
+: 564 4 25 need 
+: 570 2 24 to 
+: 576 4 25 con
+* 582 18 25 trol 
+- 602
+: 608 4 29 My 
+: 616 11 27 ’do
+: 628 20 29 ~ 
+- 650
+: 670 2 24 You’re 
+: 674 2 24 the 
+: 678 4 25 on
+: 684 2 24 ly 
+: 688 4 25 one 
+- 694
+: 696 2 27 I 
+: 702 6 29 can 
+: 710 2 32 count 
+: 714 6 32 on 
+- 722
+: 726 4 34 My 
+: 734 4 37 head
+: 740 20 36 band 
+- 762
+: 772 4 32 You’re 
+: 780 14 34 my 
+: 796 2 37 head
+* 800 24 36 band 
+- 826
+: 834 4 32 Wrapped 
+: 840 2 32 right 
+- 844
+* 846 2 31 A
+: 850 10 32 round 
+: 862 6 34 my 
+: 870 2 32 me
+: 874 8 31 lon 
+- 884
+: 886 2 31 You’re 
+: 890 2 31 a 
+: 894 6 32 pro
+: 902 2 31 duct 
+- 906
+: 910 6 32 Like 
+: 918 2 34 Ma
+: 922 2 32 ge
+: 926 10 32 llan 
+E

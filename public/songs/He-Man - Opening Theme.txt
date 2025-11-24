@@ -1,0 +1,181 @@
+#ARTIST:He-Man
+#TITLE:Opening Theme
+#MP3:He-Man - Opening Theme.mp3
+#CREATOR:snake84
+#LANGUAGE:English
+#BPM:335.82
+#GAP:6200
+#VIDEO:v=7yeA7a0uS3A,co=https://m.media-amazon.com/images/I/81q-Q-7yMIL.jpg
+#START:4.0
+: 0 6 8 He-
+* 9 6 10 Man! 
+- 24
+F 27 2 5 And 
+F 30 3 5 the 
+F 36 6 5 Mas
+F 45 9 5 ters 
+F 57 3 5 of 
+F 63 2 5 the 
+F 66 2 5 u
+F 69 3 5 ni
+F 75 7 5 verse! 
+- 92
+F 126 1 5 I 
+F 129 3 5 am 
+F 133 1 5 A
+F 136 3 5 dam 
+- 148
+F 152 3 5 Prince 
+F 158 3 5 of 
+F 162 2 5 E
+F 165 2 5 ter
+F 168 2 5 ni
+F 171 2 5 a 
+F 174 3 5 and 
+F 178 2 5 de
+F 182 3 5 fen
+F 186 2 5 der 
+- 189
+F 191 2 5 Of 
+F 194 3 5 the 
+F 198 3 5 sec
+F 203 3 5 rets 
+F 207 3 5 of 
+F 212 3 5 Cas
+F 216 3 5 tle 
+F 221 6 5 Grey
+F 229 4 5 skull 
+- 242
+F 246 6 5 This 
+F 260 3 5 is 
+F 266 3 5 Crin
+F 272 3 5 ger 
+- 284
+F 287 3 5 My 
+F 293 3 5 fear
+F 299 3 5 less 
+F 305 3 5 friend 
+- 318
+F 339 3 5 Fa
+F 344 2 5 bo
+F 347 3 5 lous 
+F 351 3 5 sec
+F 356 3 5 ret 
+F 360 3 5 po
+F 365 3 5 wers 
+F 369 3 5 were 
+F 374 2 5 re
+F 377 4 5 vealed 
+F 383 3 5 to 
+F 387 3 5 me 
+- 391
+F 393 3 5 The 
+F 398 3 5 day 
+F 402 3 5 I 
+F 407 3 5 held 
+F 411 2 5 a
+F 414 4 5 loft 
+F 422 3 5 my 
+F 426 3 5 ma
+F 431 3 5 gic 
+F 435 6 5 sword 
+F 444 3 5 and 
+F 450 3 5 said: 
+- 462
+F 465 3 5 “By 
+F 470 3 5 the 
+F 476 4 5 po
+F 482 3 5 wer 
+F 487 3 5 of 
+F 493 5 5 Grey
+F 502 6 5 skull!” 
+- 518
+: 552 6 8 He-
+: 561 6 10 Man! 
+- 577
+F 591 15 5 I 
+F 611 9 5 have 
+F 623 4 5 the 
+F 630 4 5 po
+F 638 21 5 wer!!! 
+- 703
+F 848 3 5 Crin
+F 852 3 5 ger 
+F 859 2 5 be
+F 863 3 5 came 
+F 867 3 5 the 
+F 872 3 5 migh
+F 876 3 5 ty 
+F 882 3 5 bat
+F 887 2 5 tle
+F 891 3 5 cat 
+- 895
+F 897 3 5 And 
+F 902 3 5 I 
+F 907 2 5 be
+F 910 5 5 came 
+F 930 3 5 He-
+F 935 6 5 Man 
+- 948
+F 951 2 5 The 
+F 954 4 5 most 
+F 962 3 5 po
+F 966 3 5 wer
+F 971 4 5 ful 
+F 978 6 5 man 
+F 986 2 5 in 
+F 989 2 5 the 
+F 992 2 5 u
+F 995 3 5 ni
+F 999 6 5 verse 
+- 1027
+F 1083 3 5 On
+F 1088 3 5 ly 
+F 1092 3 5 three 
+F 1097 2 5 o
+F 1100 3 5 thers 
+F 1107 6 5 share 
+F 1116 3 5 this 
+F 1122 3 5 sec
+F 1127 3 5 ret 
+- 1140
+F 1154 2 5 Ou
+F 1157 3 5 ~r 
+F 1161 6 5 friends; 
+F 1172 3 5 the 
+F 1176 3 5 Sor
+F 1181 2 5 ce
+F 1185 3 5 ress 
+- 1194
+F 1197 3 5 Man 
+F 1202 3 5 at 
+F 1206 7 5 Arms 
+F 1221 2 5 and 
+F 1225 4 5 Or
+F 1231 3 5 ko 
+- 1243
+F 1247 2 5 To
+F 1250 2 5 ge
+F 1253 3 5 ther, 
+F 1258 2 5 we 
+F 1261 2 5 de
+F 1264 3 5 fend 
+F 1271 3 5 Cas
+F 1276 3 5 tle 
+F 1281 6 5 Grey
+F 1290 6 5 skull 
+- 1299
+F 1301 4 5 From 
+F 1311 3 5 the 
+F 1317 4 5 e
+F 1323 3 5 vil 
+F 1331 4 5 for
+F 1337 3 5 ces 
+F 1341 3 5 of 
+F 1348 2 5 Ske
+F 1352 2 5 le
+F 1356 6 5 tor 
+- 1384
+* 1434 6 8 He-
+: 1443 6 10 Man! 
+E

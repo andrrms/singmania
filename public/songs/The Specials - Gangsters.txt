@@ -1,0 +1,198 @@
+#ARTIST:The Specials
+#TITLE:Gangsters
+#MP3:The Specials - Gangsters.mp3
+#CREATOR:choosie
+#YEAR:1979
+#LANGUAGE:English
+#BPM:260.1
+#GAP:3200
+#VIDEO:v=lgCZN1rU5co,co=https://media.hitparade.ch/cover/800/the_specials-gangsters_s.jpg,bg=the-specials-4ddbcb76b3fa4.jpg
+F 0 3 18 Ber
+F 4 3 18 nie 
+F 8 3 18 Rhodes 
+F 13 3 18 knows, 
+F 22 4 18 don’t 
+F 32 3 18 ar
+F 38 4 18 gue 
+- 44
+: 174 10 16 Why 
+: 189 4 16 must 
+: 197 4 16 you 
+: 205 10 15 re
+: 220 4 15 cord 
+: 228 4 15 my 
+: 236 4 16 phone
+: 244 4 12 ~ 
+: 252 8 9 calls 
+- 262
+: 291 2 9 Are 
+: 295 2 9 you 
+: 299 11 16 plan
+: 315 4 16 ning 
+: 323 4 16 a 
+: 331 10 15 boot
+: 346 4 15 leg 
+: 354 4 15 L
+: 362 5 16 P 
+- 369
+: 425 3 16 Said 
+: 440 4 16 you’ve 
+: 448 4 16 been 
+: 456 11 15 threa
+: 472 4 15 tened 
+: 480 4 15 by 
+* 488 4 16 gang
+* 496 4 12 ~
+* 504 6 9 sters 
+- 512
+: 535 4 9 Now 
+: 543 4 9 it’s 
+: 551 22 14 you 
+: 579 2 14 that 
+: 583 11 12 threa
+: 599 4 12 te
+: 607 4 12 ning 
+: 615 8 16 me 
+- 625
+: 676 11 16 Can’t 
+: 692 4 16 fight 
+: 700 4 16 cor
+: 708 11 15 rup
+: 724 4 15 tion 
+: 732 4 15 with 
+: 740 4 16 con
+: 748 4 12 ~ 
+: 756 6 9 tricks 
+- 764
+: 800 2 9 They 
+: 804 5 16 use 
+: 820 4 16 the 
+: 828 4 16 low 
+: 836 10 15 to 
+: 851 4 15 com
+: 859 4 15 mit 
+: 867 7 16 crime 
+- 876
+: 923 2 9 And 
+: 927 2 9 I’m 
+: 931 3 16 dread, 
+: 943 3 16 dread 
+: 959 2 16 to 
+: 963 3 15 think 
+- 968
+: 979 4 15 What 
+: 987 4 15 the 
+* 995 11 16 fu
+* 1011 4 16 ture 
+* 1019 4 12 will 
+* 1027 4 9 bring 
+- 1033
+: 1043 3 9 When 
+: 1051 4 9 we’re 
+: 1059 1 12 li
+: 1062 19 12 ving 
+- 1083
+: 1086 2 12 In 
+: 1091 22 14 gang
+: 1118 2 14 ster 
+: 1123 18 16 time 
+- 1143
+F 1151 5 16 Don’t 
+F 1158 3 16 call 
+F 1162 3 16 me 
+F 1169 3 16 scar
+F 1176 4 16 face 
+- 1182
+: 1633 11 16 Can’t 
+: 1649 4 16 in
+: 1657 4 16 te
+: 1666 10 15 rupt 
+: 1682 4 15 while 
+: 1690 4 15 I’m 
+: 1698 4 16 talk
+: 1706 4 12 ~
+: 1714 6 9 ing 
+- 1722
+: 1753 2 9 Or 
+: 1757 2 9 they’ll 
+: 1762 11 16 con
+: 1778 4 16 fis
+: 1786 4 16 cate 
+: 1794 11 15 all 
+* 1810 4 15 your 
+* 1818 4 15 gui
+* 1826 8 16 tars 
+- 1836
+: 1886 2 9 And 
+: 1890 3 16 catch 
+: 1906 4 16 twen
+: 1914 4 16 ty
+: 1922 5 15 -two 
+- 1929
+: 1938 4 15 Says 
+: 1946 4 15 if 
+: 1954 10 16 I 
+: 1970 4 16 sing 
+: 1978 4 12 the 
+: 1986 4 9 truth 
+- 1992
+: 2002 4 9 They 
+: 2010 4 9 won’t 
+: 2018 7 12 make 
+: 2030 7 12 me 
+- 2039
+: 2042 4 12 An 
+* 2050 7 14 o
+* 2062 7 14 ver
+* 2074 4 14 night 
+: 2082 12 16 star 
+- 2096
+: 2143 2 9 Don’t 
+: 2147 2 16 of
+: 2153 2 16 fer 
+: 2158 2 16 us 
+: 2163 2 14 le
+: 2169 2 14 gal 
+: 2174 2 14 pro
+: 2179 2 16 tec
+: 2184 2 9 tion 
+- 2188
+: 2206 2 9 They 
+: 2210 2 16 use 
+: 2216 2 16 the 
+: 2221 2 16 low 
+: 2226 2 14 to 
+: 2232 2 14 com
+: 2237 2 14 mit 
+: 2242 4 16 crime 
+- 2248
+: 2268 2 9 I 
+: 2272 2 16 dread 
+: 2283 2 16 to 
+: 2288 2 14 think 
+: 2294 2 14 what 
+: 2299 2 14 the 
+: 2304 2 16 fu
+: 2309 2 16 ture 
+: 2314 2 12 will 
+: 2319 2 9 bring 
+- 2323
+: 2326 2 9 When 
+: 2330 2 9 we’re 
+: 2334 1 12 li
+: 2337 12 12 ving 
+: 2362 2 12 in 
+: 2366 8 14 real 
+- 2376
+* 2382 4 14 Gang
+* 2390 4 14 ster 
+* 2398 23 16 time 
+- 2423
+F 2426 3 16 Ber
+F 2431 2 16 nie 
+F 2434 3 16 Rhodes 
+F 2440 4 16 knows, 
+F 2446 4 16 don’t 
+F 2453 4 16 ar
+F 2460 3 16 gue! 
+E

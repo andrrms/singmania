@@ -1,0 +1,359 @@
+#ARTIST:Alesana
+#TITLE:Tilting The Hourglass
+#MP3:Alesana - Tilting The Hourglass.mp3
+#CREATOR:DJJONAS
+#YEAR:2006
+#LANGUAGE:English
+#BPM:297.5
+#GAP:19940
+#VIDEO:a=Q1OgDVHFj8k,co=on-frail-wings-of-vanity-and-wax-4ebd61f2a624b.jpg,bg=alesana-4ee59b63affce.jpg
+F 0 9 2 You 
+F 10 9 2 take 
+F 20 5 2 my 
+F 26 9 2 breathe 
+- 36
+F 36 4 2 A
+F 41 22 2 way... 
+- 65
+: 77 5 12 But 
+: 83 4 9 I 
+: 88 9 7 ne
+: 98 7 4 ver 
+- 107
+: 109 9 5 Tas
+: 119 8 4 ted 
+: 128 9 2 your 
+: 138 11 0 lips 
+- 151
+: 153 10 0 As 
+: 164 9 9 fate 
+: 174 9 7 keeps 
+: 184 8 4 me 
+- 194
+: 195 8 5 Locked 
+: 204 10 7 a
+: 215 21 7 way 
+- 238
+F 243 4 2 I 
+F 248 4 2 must 
+F 253 10 2 close 
+- 265
+F 268 4 2 My 
+F 273 7 2 eyes 
+F 282 1 2 to 
+- 284
+F 284 7 2 See 
+F 292 8 2 your 
+F 303 12 2 face 
+- 317
+: 319 8 2 Emp
+: 328 10 4 ti
+: 339 10 2 ness 
+- 350
+: 350 10 0 Has 
+: 361 4 7 dar
+: 366 4 7 kened 
+: 371 10 4 my 
+: 382 11 2 eyes 
+- 394
+: 394 8 4 As 
+: 403 9 2 I 
+: 413 10 4 hope
+: 424 9 2 less
+: 434 9 0 ly 
+- 444
+: 445 4 7 Beg 
+: 450 4 7 for 
+: 455 8 4 my 
+: 464 11 7 life 
+- 476
+: 476 9 9 To 
+: 486 55 4 end 
+- 543
+: 547 8 2 Tell 
+: 556 10 4 me 
+: 567 49 0 why... 
+- 618
+: 651 38 9 My 
+: 690 39 11 iron 
+: 730 36 7 eyes 
+- 768
+: 769 20 5 Tell 
+: 790 18 7 the 
+: 809 10 4 tale 
+- 820
+F 821 3 2 Her
+F 825 11 2 oes 
+- 838
+F 840 3 2 Al
+F 844 8 2 ways 
+F 861 2 2 pay 
+- 864
+F 864 13 2 In 
+- 878
+F 878 9 2 Their 
+- 888
+F 888 21 2 Blood 
+- 911
+F 973 3 2 I 
+F 977 5 2 see 
+F 983 4 2 the 
+F 988 7 2 fear 
+F 996 6 2 grow
+F 1003 10 2 ing 
+- 1015
+F 1016 5 2 In 
+F 1022 14 2 their 
+F 1037 4 2 lost 
+F 1042 13 2 eyes 
+- 1056
+F 1057 5 2 My 
+F 1063 4 2 pur
+F 1068 6 2 pose 
+F 1075 7 2 is 
+F 1083 5 2 so 
+F 1089 10 2 clear... 
+- 1100
+F 1100 5 2 I 
+F 1106 13 2 am 
+F 1120 6 2 the 
+F 1127 12 2 ax 
+- 1141
+F 1149 19 2 I 
+F 1169 19 2 am 
+F 1189 20 2 the 
+F 1210 15 2 ax 
+- 1226
+F 1226 4 2 And 
+F 1231 4 2 this 
+F 1236 4 2 is 
+F 1241 7 2 why 
+F 1249 7 2 I 
+F 1257 9 2 must 
+- 1267
+F 1267 4 2 Not 
+F 1272 9 2 fear 
+F 1287 5 2 the 
+F 1293 15 2 end 
+- 1310
+: 1330 5 4 And 
+: 1336 5 7 when 
+: 1342 5 7 I’m 
+: 1348 13 7 gone 
+- 1363
+: 1374 6 7 Will 
+: 1381 4 7 you 
+: 1386 5 7 for
+: 1392 13 7 get 
+: 1415 11 9 me
+: 1427 18 7 e? 
+- 1447
+F 1488 4 2 Pen 
+F 1493 4 2 wears 
+F 1498 5 2 its 
+F 1504 7 2 stea
+F 1512 7 2 dy 
+F 1520 10 2 course 
+- 1531
+F 1531 4 2 A
+F 1536 10 2 cross 
+F 1553 4 2 the 
+F 1558 11 2 page 
+- 1571
+F 1573 3 2 Re
+F 1577 5 2 signed 
+F 1583 6 2 to 
+F 1590 9 2 it’s 
+F 1600 7 2 de
+F 1608 6 2 signs 
+- 1615
+F 1615 6 2 To 
+F 1622 9 2 take 
+F 1637 5 2 the 
+F 1643 10 2 hive 
+- 1654
+: 1654 10 2 Emp
+: 1665 9 4 ti
+: 1675 10 2 ness 
+- 1686
+: 1687 8 0 Has 
+: 1696 4 7 dar
+: 1701 4 7 kened 
+: 1706 10 4 my 
+: 1717 9 2 eyes 
+- 1727
+: 1727 9 4 As 
+: 1737 9 2 I 
+: 1747 10 4 hope
+: 1758 9 2 less
+: 1768 10 0 ly 
+- 1779
+: 1779 4 7 Beg 
+: 1784 4 7 for 
+: 1789 9 4 my 
+: 1799 9 7 life 
+- 1809
+: 1810 10 9 To 
+: 1821 55 4 end 
+- 1878
+: 1884 9 2 Tell 
+: 1894 9 4 me 
+: 1904 46 0 why... 
+- 1952
+: 1989 9 2 Emp
+: 1999 9 4 ti
+: 2009 11 2 ness 
+- 2021
+: 2022 7 0 Has 
+: 2030 4 7 dar
+: 2035 4 7 kened 
+: 2040 9 4 my 
+: 2050 10 2 eyes 
+- 2062
+: 2063 7 4 As 
+: 2071 9 2 I 
+: 2081 8 4 hope
+: 2090 10 2 less
+: 2101 9 0 ly 
+- 2112
+: 2113 3 7 Beg 
+: 2117 4 7 for 
+: 2122 9 4 my 
+: 2132 10 7 life 
+- 2143
+: 2143 10 9 To 
+: 2154 54 4 end 
+- 2210
+: 2216 9 2 Tell 
+: 2226 11 4 me 
+: 2238 47 0 why... 
+- 2287
+: 2321 36 9 My 
+: 2358 20 11 i
+: 2379 18 12 ron 
+: 2398 33 7 eyes 
+- 2433
+: 2436 20 5 Tell 
+: 2457 17 7 the 
+- 2476
+F 2488 3 2 Her
+F 2492 13 2 oes 
+F 2508 3 2 al
+F 2512 10 2 ways 
+- 2524
+F 2528 2 2 Pay 
+F 2531 12 2 in 
+- 2545
+F 2548 8 2 Their 
+F 2557 31 2 blood 
+- 2590
+F 2791 5 2 I 
+F 2797 4 2 am 
+F 2802 5 2 the 
+F 2808 64 2 ax... 
+- 2874
+F 2893 19 2 Fear 
+F 2915 10 2 has 
+F 2926 10 2 been 
+F 2937 11 2 lost 
+- 2950
+F 2953 5 2 To 
+F 2959 16 2 faith 
+- 2977
+F 2983 5 2 The 
+F 2989 4 2 dar
+F 2994 9 2 kened 
+- 3004
+F 3005 4 2 Night 
+F 3010 4 2 has 
+F 3015 11 2 come 
+- 3027
+F 3027 4 2 Be
+F 3032 9 2 fore 
+F 3043 4 2 the 
+F 3048 17 2 end 
+- 3067
+F 3068 23 2 Of 
+F 3092 8 2 which 
+F 3103 10 2 we 
+F 3114 14 2 must 
+F 3130 5 2 pre
+F 3136 18 2 vail 
+- 3156
+F 3157 4 2 Ad
+F 3162 5 2 mist 
+F 3168 9 2 the 
+F 3178 6 2 pitch 
+F 3185 4 2 of 
+F 3190 10 2 steel 
+- 3201
+F 3201 5 2 We 
+F 3207 10 2 shall 
+F 3218 4 2 a
+F 3223 22 2 rise 
+- 3247
+F 3252 10 2 I 
+F 3263 21 2 will 
+- 3286
+F 3296 9 2 De
+F 3306 33 2 stroy 
+F 3340 10 2 all 
+F 3351 7 2 those 
+F 3359 4 2 who 
+F 3364 3 2 o
+F 3368 10 2 ppose 
+- 3379
+F 3379 33 3 Me 
+- 3413
+: 3413 37 9 My 
+: 3451 18 11 i
+: 3470 18 12 ron 
+: 3489 37 7 eyes 
+- 3527
+: 3528 18 5 Tell 
+: 3547 16 7 the 
+: 3564 10 4 tale 
+- 3575
+F 3576 3 2 Her
+F 3580 12 2 oes 
+- 3593
+F 3593 4 2 Al
+F 3598 11 2 ways 
+- 3611
+F 3616 2 2 Pay 
+F 3619 9 2 in 
+- 3630
+F 3633 8 2 Their 
+F 3642 27 2 blood 
+- 3671
+: 3718 39 9 My 
+: 3758 19 11 i
+: 3778 18 12 ron 
+: 3797 33 7 eyes 
+- 3832
+: 3834 18 5 Tell 
+: 3853 18 7 the 
+: 3872 9 4 tale 
+- 3882
+F 3882 3 2 Her
+F 3886 11 2 oes 
+- 3899
+F 3901 3 2 Al
+F 3905 10 2 ways 
+- 3917
+F 3920 4 2 Pay 
+F 3925 9 2 in 
+- 3936
+F 3939 10 2 Their 
+F 3950 28 2 blood 
+- 3980
+F 4034 4 2 I 
+F 4039 4 2 see 
+F 4044 4 2 the 
+F 4049 7 2 fear 
+F 4057 6 2 grow
+F 4064 6 2 ing 
+- 4072
+F 4076 4 2 In 
+F 4081 11 2 there... 
+E

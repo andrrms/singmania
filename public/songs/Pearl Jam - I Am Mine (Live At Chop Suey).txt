@@ -1,0 +1,319 @@
+#ARTIST:Pearl Jam
+#TITLE:I Am Mine (Live At Chop Suey)
+#MP3:Pearl Jam - I Am Mine (Live At Chop Suey).mp3
+#CREATOR:RetroGirl
+#YEAR:2002
+#LANGUAGE:English
+#BPM:328
+#GAP:20800
+#VIDEO:v=Nkgv3LoQY2o,co=https://i.discogs.com/OEiai7cwY2rYKpcc3lZNRSXXgebRixDtgjB67vNr_wQ/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY1/NzItMTQwMjg4MzE5/MC00Mjc3LmpwZWc.jpeg,bg=pearl-jam-5259e260bbaaf.jpg
+: 0 4 -1 The 
+: 7 10 2 sel
+: 20 10 2 fish 
+: 33 9 5 they’re 
+: 44 9 5 all 
+- 54
+: 56 8 4 Stan
+: 67 2 5 ding 
+* 71 8 4 in 
+: 83 12 0 line 
+- 97
+: 108 6 2 Fai
+: 117 4 2 thing 
+: 123 6 2 and 
+: 133 8 5 ho
+: 143 5 5 ping 
+: 151 4 5 to 
+- 157
+: 160 3 4 Buy 
+: 166 3 5 them 
+: 170 10 4 selves 
+: 184 11 -1 time 
+- 197
+: 210 3 0 Me 
+* 215 16 2 I 
+: 235 3 5 fig
+: 240 4 5 ure 
+: 248 10 5 as 
+- 260
+: 262 4 4 Each 
+: 268 6 5 breath 
+: 277 7 4 goes 
+: 285 10 0 by 
+- 297
+: 307 2 -1 I 
+: 311 12 1 on
+: 328 4 0 ly 
+: 336 8 2 own 
+: 352 12 2 my 
+: 365 24 4 mind 
+- 391
+: 408 3 2 The 
+* 412 7 2 North 
+: 421 6 2 is 
+: 429 4 2 to 
+: 436 7 5 South 
+- 445
+: 447 6 5 What 
+: 454 7 5 the 
+: 462 5 5 clock 
+: 468 9 4 is 
+: 479 6 5 to 
+: 488 10 0 time 
+- 500
+: 509 3 0 There’s 
+: 514 6 2 east 
+: 522 7 2 and 
+: 530 7 2 there’s 
+: 539 7 2 west 
+- 547
+: 549 5 5 And 
+: 556 7 5 there’s 
+* 565 2 5 eve
+* 569 6 4 ry
+: 577 10 5 where 
+: 590 13 -1 life 
+- 605
+: 611 3 -3 I 
+: 615 8 2 know 
+: 625 5 2 I 
+: 632 7 2 was 
+: 640 6 2 born 
+- 647
+: 649 2 5 And 
+: 653 10 5 I 
+: 665 7 5 know 
+: 675 2 4 that 
+: 678 10 5 I’ll 
+: 691 8 -1 die 
+- 701
+: 713 3 -1 The 
+: 718 11 2 in 
+: 733 5 0 be
+: 740 14 1 tween 
+: 759 11 2 is 
+: 772 23 3 mine 
+- 797
+: 817 12 2 I 
+* 842 17 3 am 
+: 868 5 1 mine
+: 874 16 2 ~ 
+- 892
+: 954 6 11 And 
+: 962 6 11 the 
+: 970 8 11 fee
+: 980 3 7 ling 
+- 985
+: 987 3 8 It 
+: 991 10 13 gets 
+: 1003 8 12 left 
+: 1012 4 11 be
+: 1018 10 9 hind 
+- 1030
+: 1045 12 12 All 
+: 1059 9 12 the 
+: 1070 4 12 in
+: 1075 3 11 no
+: 1079 11 7 cence 
+- 1092
+: 1096 8 12 Lost 
+: 1106 2 12 at 
+* 1109 16 12 one 
+: 1127 18 11 time 
+- 1147
+: 1159 9 12 Sig
+: 1169 4 12 ni
+: 1174 3 11 fi
+: 1179 7 8 cant 
+- 1188
+: 1194 8 13 Be
+: 1204 8 12 tween 
+: 1213 2 11 the 
+: 1217 14 8 lines 
+- 1233
+: 1243 3 7 There’s 
+: 1248 4 11 no 
+: 1254 21 11 need 
+: 1277 2 10 to 
+: 1280 22 8 hide 
+- 1304
+: 1336 6 10 We’re 
+: 1344 12 10 safe 
+: 1358 18 11 to
+: 1378 18 10 night 
+- 1398
+: 1612 5 -1 The 
+: 1619 7 2 o
+: 1627 5 2 cean 
+: 1633 8 2 is 
+: 1644 6 6 full 
+- 1652
+: 1657 10 5 ’Cause 
+: 1669 7 5 eve
+: 1678 5 4 ry
+* 1685 10 5 one’s 
+: 1697 12 -1 crying 
+- 1711
+: 1717 3 -1 The 
+: 1722 7 3 full 
+: 1732 6 2 moon 
+: 1740 6 2 is 
+: 1748 3 2 loo
+: 1753 3 5 king 
+- 1758
+: 1760 11 5 For 
+: 1773 9 5 friends 
+: 1783 2 4 at 
+: 1786 10 5 high
+: 1799 10 -1 tide 
+- 1811
+: 1820 3 1 The 
+: 1824 5 2 sor
+: 1830 5 2 row 
+* 1836 12 2 grows 
+: 1850 3 2 big
+: 1854 2 5 ger 
+- 1858
+: 1862 9 5 When 
+: 1872 2 7 the 
+* 1875 4 5 sor
+* 1881 9 4 row’s 
+: 1892 6 5 de
+: 1900 10 -1 nied 
+- 1912
+: 1922 3 0 I 
+* 1926 12 2 on
+: 1942 7 0 ly 
+: 1951 10 0 know 
+: 1969 10 2 my 
+: 1981 16 4 mind 
+- 1999
+: 2027 14 2 I 
+: 2053 14 0 am 
+: 2079 5 0 mine
+: 2085 22 1 ~ 
+- 2109
+: 2163 8 11 And 
+: 2175 4 11 the 
+: 2181 7 11 fee
+: 2190 2 7 ling 
+- 2194
+: 2196 4 8 It 
+: 2201 11 13 gets 
+: 2214 6 12 left 
+: 2222 4 11 be
+: 2228 14 9 hind 
+- 2244
+: 2256 10 12 All 
+: 2269 8 12 the 
+: 2280 3 12 in
+* 2286 3 11 no
+: 2291 11 7 cence 
+- 2303
+: 2305 8 12 Lost 
+: 2315 3 12 at 
+: 2319 16 12 one 
+: 2337 18 11 time 
+- 2357
+: 2370 10 12 Sig
+: 2381 2 12 ni
+: 2384 2 11 fi
+: 2388 7 8 cant 
+- 2397
+: 2405 7 13 Be
+: 2414 6 12 hind 
+: 2422 3 11 the 
+: 2427 14 8 eyes 
+- 2443
+: 2452 3 9 There’s 
+: 2456 6 11 no 
+: 2464 19 11 need 
+: 2485 3 9 to 
+: 2489 22 8 hide 
+- 2513
+: 2543 8 10 We’re 
+: 2553 12 10 safe 
+: 2567 19 11 to
+: 2588 26 9 night 
+- 2616
+F 2671 8 9 Oh 
+- 2681
+: 3051 12 11 And 
+* 3065 10 11 the 
+: 3077 6 11 mea
+: 3085 4 7 nings 
+- 3091
+: 3093 4 8 That 
+: 3098 9 13 get 
+: 3110 8 12 left 
+: 3120 3 11 be
+: 3125 10 9 hind 
+- 3137
+: 3153 11 12 All 
+: 3166 9 12 the 
+: 3177 5 12 fee
+: 3185 2 10 ling 
+: 3189 10 7 sense 
+- 3201
+: 3203 6 12 Go 
+: 3211 4 12 in 
+: 3216 17 12 the 
+: 3235 18 11 time 
+- 3255
+: 3261 7 12 We’re 
+* 3269 8 12 all 
+: 3279 2 12 di
+: 3283 1 11 fe
+: 3286 9 9 rent 
+- 3297
+: 3303 7 13 Be
+: 3312 6 12 hind 
+: 3320 3 11 the 
+: 3325 15 8 eyes 
+- 3342
+: 3349 3 9 We 
+: 3354 7 11 may 
+: 3362 20 11 need 
+: 3384 3 9 to 
+: 3388 41 8 hide 
+- 3431
+: 3453 10 11 And 
+: 3467 8 11 the 
+: 3478 8 11 mea
+: 3488 3 7 nings 
+- 3493
+: 3495 4 8 That 
+: 3501 8 13 get 
+* 3512 7 12 left 
+: 3521 3 11 be
+: 3526 15 9 hind 
+- 3543
+: 3555 9 12 All 
+: 3566 11 12 the 
+: 3579 2 12 in
+: 3583 2 11 no
+: 3587 10 7 cents 
+- 3599
+: 3604 7 12 Lost 
+: 3612 4 12 at 
+: 3618 18 12 one 
+: 3638 15 11 time 
+- 3655
+: 3668 10 12 Sig
+: 3680 2 12 ni
+* 3683 2 11 fi
+: 3686 8 8 cant 
+- 3696
+: 3703 7 11 Be
+: 3712 7 12 tween 
+: 3721 2 11 the 
+: 3725 16 8 lines 
+- 3743
+: 3750 3 9 There’s 
+: 3754 6 10 no 
+: 3762 19 11 need 
+: 3783 3 11 to 
+: 3787 56 12 hide 
+- 3845
+F 3858 9 9 Ah 
+E

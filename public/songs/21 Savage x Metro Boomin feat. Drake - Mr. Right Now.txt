@@ -1,0 +1,643 @@
+#ARTIST:21 Savage x Metro Boomin feat. Drake
+#TITLE:Mr. Right Now
+#MP3:21 Savage x Metro Boomin feat. Drake - Mr. Right Now.mp3
+#CREATOR:Subby77
+#COVER:21 Savage x Metro Boomin feat. Drake - Mr. Right Now [CO].jpg
+#BACKGROUND:21 Savage x Metro Boomin feat. Drake - Mr. Right Now [BG].jpg
+#YEAR:2020
+#LANGUAGE:English
+#BPM:353.71
+#GAP:11220
+#VIDEO:a=f4RmrWhQxrM,co=savage-mode-ii-5f96249bb9fc7.jpg,bg=21-savage-5b5b0dc07dcd4.jpg,tags=explicit
+: 0 3 -5 I’m
+: 4 2 -5 a 
+* 7 6 -1 sli
+* 14 1 -3 ~
+* 16 6 -5 ~
+* 23 9 -7 ~de 
+* 34 1 -5 a
+* 36 1 -5 ny
+* 39 2 -5 time 
+* 44 2 -3 you 
+: 48 7 -7 want 
+- 64
+: 67 2 -5 Put 
+: 71 2 -5 you 
+: 75 2 -5 in 
+: 79 3 -5 Cha
+: 83 8 -5 nel, 
+: 92 2 -5 I’m
+: 95 2 -5 a 
+: 99 3 -5 teach 
+: 103 3 -5 you 
+: 107 3 -5 how 
+: 111 3 -3 to 
+: 115 7 -7 stunt 
+- 129
+: 132 2 -5 Slip 
+: 136 2 -5 and 
+* 140 3 -1 sli
+* 144 6 -3 ~
+* 151 4 -5 ~
+* 156 8 -7 ~de 
+: 165 3 -5 like 
+: 169 2 -5 a 
+: 172 2 -5 wa
+: 175 3 -3 ter
+: 179 10 -7 fall 
+- 192
+: 194 3 -7 You 
+: 198 2 -5 need 
+: 201 2 -5 some 
+: 206 1 -5 T
+: 208 3 -5 L
+: 213 5 -6 C, 
+: 221 2 -5 we 
+: 224 4 -5 can 
+: 229 8 -5 creep 
+: 238 1 -5 if 
+: 240 4 -3 you 
+: 245 8 -7 want 
+- 263
+: 273 6 -3 Ayy, 
+: 289 2 -3 turn 
+: 292 2 -3 your 
+: 297 7 0 phone 
+: 305 5 -5 off, 
+: 322 2 -3 take 
+: 326 2 0 your 
+: 330 7 0 clothes 
+: 338 7 -5 off 
+- 351
+* 354 3 -3 I’m 
+* 358 2 -3 a 
+* 362 3 0 sav
+* 366 4 -5 age, 
+: 371 2 -5 but 
+: 374 3 -3 I 
+: 379 2 -3 fuck 
+: 382 3 -3 her 
+: 387 2 -3 to 
+: 391 2 -3 a 
+: 395 7 0 slow 
+: 404 7 -5 song 
+- 417
+: 420 2 -1 Turn 
+: 423 3 -1 the 
+: 427 7 0 lights 
+: 435 8 -1 down, 
+: 453 2 0 lay 
+: 456 2 0 the 
+: 461 7 0 pipe 
+: 469 8 -5 down 
+- 483
+: 486 2 -1 I 
+: 489 2 -1 ain’t 
+: 493 2 0 M
+: 496 3 0 r. 
+: 500 7 0 Right, 
+: 510 3 -3 but 
+: 514 4 -3 I’m 
+: 519 3 -3 M
+: 523 4 -3 r. 
+: 528 4 -3 Right 
+: 535 6 -5 Now 
+- 551
+: 560 3 0 She 
+: 564 2 -3 want 
+: 568 2 0 me 
+: 571 2 -3 to 
+: 576 2 0 fuck 
+: 580 3 -3 her 
+: 584 2 0 to 
+* 589 2 -3 Be
+* 592 6 -7 yon
+* 599 8 -7 cé 
+- 618
+: 622 2 -3 But 
+: 625 2 0 I 
+: 628 2 -3 don’t 
+: 633 2 0 treat 
+: 636 5 -3 her 
+: 643 2 0 like 
+: 646 3 -3 she 
+: 651 3 0 my 
+* 655 2 -7 fi
+* 658 6 -3 an
+* 665 6 -7 cé 
+- 681
+: 692 2 -3 Make 
+: 695 3 -5 that 
+: 699 7 -3 thing 
+: 707 7 -3 sing 
+: 716 4 -3 like 
+: 723 8 -3 Sa
+: 732 9 -3 de 
+- 751
+: 758 1 -3 Nine
+: 760 5 -5 teen
+: 766 2 -3 for
+: 769 3 -5 ty
+: 773 4 -3 two, 
+: 779 2 -5 it 
+: 782 2 -3 ain’t 
+: 786 2 -5 no 
+: 789 6 -3 Char
+: 796 10 -7 donnay 
+- 812
+R 815 2 0 In 
+R 818 2 0 a 
+R 822 7 2 Lamb’ 
+R 830 9 0 truck, 
+R 848 2 0 with 
+R 852 2 0 my 
+R 857 3 2 Rich
+R 861 3 2 ard 
+R 866 8 0 on 
+- 879
+R 881 2 0 Got 
+R 884 3 0 a 
+R 889 2 2 pret
+R 892 4 2 ty 
+R 898 8 0 girl, 
+R 914 2 0 that 
+R 917 4 0 I’m 
+R 923 2 0 fee
+G 926 2 0 lin’ 
+G 930 9 0 on 
+- 945
+R 947 2 0 We 
+R 950 3 0 in 
+R 955 2 2 qua
+G 958 3 2 ran
+G 962 10 0 tine, 
+G 979 2 0 but 
+G 982 3 0 my 
+G 987 8 2 M’s 
+G 996 8 0 long 
+- 1010
+R 1013 1 0 Bud
+R 1015 3 0 dy 
+R 1020 7 2 lame-
+R 1028 17 0 lame, 
+R 1046 2 0 he 
+R 1049 2 0 got 
+R 1054 6 2 friend
+R 1061 10 0 zoned 
+- 1076
+R 1078 2 0 Got 
+R 1081 2 0 a 
+R 1085 3 2 cou
+R 1089 3 2 ple 
+R 1094 8 0 spots, 
+R 1110 2 0 and 
+R 1114 3 0 they 
+R 1119 6 2 all 
+R 1127 9 0 owned 
+- 1142
+R 1144 3 0 Bought 
+R 1148 3 0 a 
+R 1153 6 2 pent
+R 1160 9 0 house, 
+R 1177 3 0 ’cause 
+R 1181 5 0 I’m 
+R 1187 2 2 ne
+R 1190 3 2 ver 
+R 1194 8 0 home 
+- 1208
+G 1210 3 0 Threw 
+G 1214 3 0 my 
+G 1218 6 2 heart 
+G 1226 3 0 out 
+G 1230 3 0 the 
+G 1235 7 2 win
+G 1243 6 0 dow, 
+R 1250 2 2 fee
+R 1253 4 2 lings 
+R 1259 9 0 gone 
+- 1274
+G 1276 2 0 Threw 
+G 1279 3 0 my 
+G 1283 7 2 heart 
+G 1292 1 0 out 
+G 1295 2 0 the 
+G 1299 6 0 win
+G 1306 4 -3 dow, 
+R 1312 2 -3 but 
+- 1315
+: 1317 2 -5 I’m
+: 1320 3 -5 a 
+* 1324 3 -1 sli
+* 1328 9 -3 ~
+* 1338 3 -5 ~
+* 1342 8 -7 ~de 
+: 1351 2 -5 a
+: 1354 2 -5 ny
+: 1358 3 -5 time 
+: 1362 3 -3 you 
+: 1366 8 -7 want 
+- 1380
+: 1383 2 -5 Put 
+: 1386 3 -5 you 
+: 1390 2 -5 in 
+: 1394 4 -5 Cha
+: 1399 8 -5 nel, 
+: 1408 2 -5 I’m
+: 1411 2 -5 a 
+: 1415 4 -5 teach 
+: 1420 3 -5 you 
+: 1424 3 -5 how 
+: 1428 3 -3 to 
+: 1432 9 -7 stunt 
+- 1444
+: 1446 4 -5 Slip 
+: 1451 4 -5 and 
+* 1456 3 -1 sli
+* 1460 6 -3 ~
+* 1467 6 -5 ~
+* 1474 8 -7 ~de 
+: 1483 1 -5 like 
+: 1486 1 -5 a 
+: 1488 1 -5 wa
+: 1490 7 -3 ter
+: 1498 10 -7 fall 
+- 1510
+: 1512 3 -5 You 
+: 1516 2 -5 need 
+: 1519 3 -5 some 
+: 1523 1 -5 T
+: 1525 4 -5 L
+: 1530 9 -5 C, 
+: 1540 2 -5 we 
+: 1543 4 -5 can 
+: 1548 7 -5 creep 
+: 1556 2 -5 if 
+: 1559 2 -3 you 
+: 1563 10 -7 want 
+- 1584
+: 1588 9 -3 Ayy, 
+: 1605 2 -3 turn 
+: 1608 4 -3 your 
+: 1613 6 0 phone 
+: 1621 9 -5 off, 
+: 1638 2 -3 take 
+: 1641 3 -3 your 
+: 1646 7 0 clothes 
+: 1655 8 -5 off 
+- 1668
+: 1670 3 -3 I’m 
+: 1674 2 -3 a 
+: 1678 2 0 sav
+: 1681 4 -5 age, 
+: 1687 2 -5 but 
+: 1690 3 -3 I 
+: 1695 2 -3 fuck 
+: 1699 2 -3 her 
+: 1703 2 -3 to 
+: 1706 3 -3 a 
+: 1711 7 0 slow 
+: 1720 9 -5 song 
+- 1734
+: 1736 2 -1 Turn 
+: 1740 2 -1 the 
+: 1744 8 0 lights 
+: 1753 8 -1 down, 
+: 1768 2 0 lay 
+: 1772 3 0 the 
+: 1777 8 0 pipe 
+: 1786 7 -5 down 
+- 1799
+: 1802 2 -1 I 
+: 1805 4 -1 ain’t 
+: 1810 2 0 M
+: 1813 4 0 r. 
+: 1818 8 0 Right, 
+: 1828 2 -3 but 
+: 1831 3 -3 I’m 
+: 1835 2 -3 M
+: 1838 4 -3 r. 
+: 1843 6 0 Right 
+: 1850 10 -5 Now 
+- 1865
+R 1867 3 -7 Turn 
+R 1871 3 -7 your 
+R 1875 8 -7 phone 
+R 1884 10 -7 off, 
+R 1901 3 -7 take 
+R 1905 3 -7 your 
+R 1909 7 -5 clothes 
+R 1917 9 -7 off 
+- 1931
+R 1933 4 -7 I’m 
+R 1938 2 -7 a 
+R 1942 9 -7 sav’, 
+R 1952 1 -7 but 
+R 1954 2 -7 I 
+R 1958 4 -7 fuck 
+R 1963 2 -7 her 
+R 1966 2 -7 to 
+R 1970 1 -7 a 
+R 1973 9 -7 slow 
+R 1983 9 -7 song 
+- 1998
+R 2000 3 -7 Said 
+R 2004 3 -7 the 
+R 2008 7 -5 nail 
+R 2016 1 -7 la
+R 2018 5 -7 dy 
+R 2025 2 -5 went 
+R 2029 2 -7 and 
+R 2033 2 -7 did 
+R 2036 1 -7 her 
+R 2042 7 -5 toes 
+R 2050 8 -7 wrong 
+- 2063
+R 2065 2 -7 Said 
+R 2069 3 -7 her 
+R 2074 6 -5 last 
+R 2082 2 -7 man 
+R 2086 2 -7 was 
+R 2090 1 -5 al
+R 2092 4 -5 ways 
+R 2098 1 -7 play
+R 2100 5 -7 in’ 
+R 2106 7 -5 Drake 
+R 2114 13 -7 songs 
+- 2129
+R 2131 6 -7 Yeah, 
+R 2139 6 -7 cell
+R 2146 9 -7 phones 
+R 2156 5 -5 out 
+R 2164 2 -7 when 
+R 2167 2 -7 I 
+R 2172 8 -7 roll 
+R 2181 8 -7 up 
+- 2195
+R 2197 2 -7 Yeah, 
+R 2201 2 -7 the 
+R 2205 1 -5 nig
+R 2207 4 -7 ga 
+R 2213 3 -5 had 
+R 2217 2 -7 a 
+R 2222 1 -5 prob
+R 2224 2 -7 lem 
+R 2229 2 -7 ’til 
+R 2233 4 -7 I 
+R 2239 6 -7 showed 
+R 2246 7 -7 up 
+- 2260
+R 2263 6 -5 E’ry
+R 2270 2 -5 bo
+R 2273 3 -7 dy 
+R 2278 1 -5 with 
+R 2282 1 -7 a 
+G 2287 2 -5 “at” 
+G 2292 2 -7 be
+G 2295 3 -5 fore 
+G 2299 5 -7 they 
+G 2305 5 -5 name 
+G 2312 11 -7 tough 
+- 2326
+R 2328 8 -7 Yeah, 
+R 2337 3 -5 more 
+R 2341 3 -5 con
+R 2345 3 -7 cerned 
+R 2349 2 -7 with 
+R 2353 2 -5 blow
+R 2356 3 -5 in’ 
+R 2361 2 -7 up 
+R 2364 2 -7 than 
+R 2369 1 -5 grow
+R 2371 3 -5 in’ 
+R 2376 11 -7 up 
+- 2392
+G 2394 8 -5 Yeah, 
+G 2403 1 -5 said 
+G 2405 2 -5 she 
+G 2409 3 -5 wan
+G 2413 4 -7 na 
+G 2419 5 -5 fuck 
+G 2426 1 -5 to 
+G 2428 6 -7 some 
+G 2436 3 -5 S
+G 2440 2 -7 ZA, 
+G 2444 7 -5 wait 
+- 2458
+G 2461 2 -5 ’Cause 
+G 2464 3 -7 I 
+G 2468 2 -5 used 
+G 2471 2 -7 to 
+G 2474 8 -5 date 
+G 2483 3 -5 S
+G 2487 3 -7 ZA 
+G 2492 2 -7 back 
+G 2495 6 -7 in 
+G 2502 5 -7 ’0
+G 2508 12 -7 8 
+- 2523
+R 2525 2 -7 If 
+R 2529 3 -7 you 
+R 2534 8 -5 cool 
+R 2543 1 -5 with 
+R 2546 1 -5 it, 
+R 2551 1 -7 ba
+R 2553 2 -7 by, 
+R 2558 2 -7 she 
+R 2561 2 -7 can 
+R 2565 7 -5 still 
+R 2573 9 -7 play 
+- 2590
+R 2593 2 -7 While 
+R 2596 2 -7 I 
+R 2599 3 -5 jump 
+R 2604 2 -7 in
+R 2607 3 -5 side 
+R 2611 4 -7 that 
+R 2616 2 -5 box 
+R 2620 2 -7 and 
+R 2624 3 -5 have 
+R 2629 2 -7 a 
+R 2633 7 -5 field 
+R 2641 7 -7 day 
+- 2654
+G 2657 2 -5 I’m 
+G 2661 3 -5 the 
+G 2665 7 -5 slow 
+G 2674 4 -5 stroke 
+G 2683 6 -5 king, 
+R 2691 2 -5 hit 
+R 2694 2 -5 me 
+R 2699 1 -5 a
+R 2701 5 -5 ny
+R 2707 11 -7 time 
+- 2721
+R 2723 2 -7 And 
+R 2727 2 -7 my 
+R 2731 7 -5 goal 
+R 2740 1 -5 is 
+R 2742 2 -5 to 
+R 2748 2 -5 get 
+R 2752 2 -5 you 
+R 2756 2 -5 to 
+R 2760 2 -5 the 
+R 2764 1 -3 fin
+R 2766 4 -3 ish 
+R 2772 12 -7 line 
+- 2787
+R 2789 2 -7 I 
+R 2793 4 -5 seen 
+R 2798 6 -3 good 
+R 2805 2 -5 mo
+R 2808 6 -5 vies 
+R 2815 5 -5 and 
+R 2821 8 -5 bad, 
+R 2830 1 -3 plen
+R 2832 6 -3 ty 
+R 2839 10 -7 times 
+- 2857
+G 2860 2 -7 So 
+G 2863 3 -5 let 
+G 2867 3 -5 me 
+G 2872 1 -5 fin
+G 2874 4 -5 ish 
+G 2879 9 -5 strong, 
+G 2889 7 -7 girl 
+- 2896
+: 2897 2 -5 I’m
+: 2900 2 -5 a 
+: 2904 3 -1 sli
+: 2908 9 -3 ~
+: 2918 4 -5 ~
+: 2923 6 -7 ~de 
+: 2931 1 -5 a
+: 2933 3 -5 ny
+: 2937 4 -5 time 
+: 2942 3 -3 you 
+: 2946 10 -7 want 
+- 2960
+: 2962 2 -5 Put 
+: 2965 3 -5 you 
+: 2969 3 -5 in 
+: 2973 3 -5 Cha
+: 2977 8 -5 nel, 
+: 2987 2 -5 I’m
+: 2991 2 -5 a 
+: 2995 2 -5 teach 
+: 2999 2 -5 you 
+: 3003 2 -5 how 
+: 3007 2 -5 to 
+: 3011 10 -7 stunt 
+- 3027
+: 3029 2 -5 Slip 
+: 3032 2 -5 and 
+* 3036 3 -1 sli
+* 3040 5 -3 ~
+* 3046 5 -5 ~
+* 3052 7 -7 ~de 
+* 3061 2 -5 like 
+* 3065 2 -5 a 
+* 3069 1 -5 wa
+* 3071 3 -3 ter
+* 3075 12 -7 fall 
+- 3088
+: 3090 2 -7 You 
+: 3094 2 -5 need 
+: 3098 2 -5 some 
+: 3102 1 -5 T
+: 3104 5 -5 L
+: 3110 5 -5 C, 
+: 3117 2 -5 we 
+: 3121 2 -5 can 
+: 3126 7 -5 creep 
+: 3134 2 -5 if 
+: 3138 2 -3 you 
+: 3143 9 -7 want 
+- 3163
+: 3167 10 -3 Ayy, 
+: 3184 2 -3 turn 
+: 3188 2 -3 your 
+: 3192 7 0 phone 
+: 3200 9 -5 off, 
+: 3217 2 -3 take 
+: 3220 3 -3 your 
+: 3225 7 -3 clothes 
+: 3234 7 0 off 
+- 3247
+* 3249 2 -3 I’m 
+* 3253 2 -3 a 
+* 3257 3 0 sav
+* 3261 4 -5 age, 
+* 3266 2 -5 but 
+* 3269 3 -3 I 
+* 3274 2 -3 fuck 
+* 3278 4 -3 her 
+* 3283 2 -3 to 
+* 3286 2 -3 a 
+* 3289 7 0 slow 
+* 3297 10 -5 song 
+- 3313
+: 3315 2 -1 Turn 
+: 3319 2 -1 the 
+: 3324 6 0 lights 
+: 3332 8 -1 down, 
+: 3347 2 0 lay 
+: 3350 3 0 the 
+: 3355 8 0 pipe 
+: 3364 9 -5 down 
+- 3378
+: 3380 2 -1 I 
+: 3383 3 -1 ain’t 
+: 3388 1 0 M
+: 3390 3 0 r. 
+: 3394 8 0 Right, 
+: 3403 3 -3 but 
+: 3407 4 -3 I’m 
+: 3413 1 -3 M
+: 3415 3 -3 r. 
+: 3420 7 -3 Right 
+: 3429 10 -5 Now 
+- 3451
+: 3455 2 0 She 
+: 3458 3 -3 want 
+: 3462 3 0 me 
+: 3466 4 -3 to 
+: 3471 2 0 fuck 
+: 3474 2 -3 her 
+: 3478 2 0 to 
+: 3481 6 -3 some 
+* 3489 6 0 Keith 
+* 3496 8 0 Sweat 
+- 3515
+: 3519 2 -3 But 
+: 3522 3 -3 she 
+: 3526 2 -7 stay 
+: 3530 3 -3 in 
+: 3534 3 -7 a
+: 3538 1 -7 part
+: 3540 6 -7 ments 
+: 3547 2 -3 I 
+: 3550 3 -7 got 
+: 3554 6 -3 beef 
+: 3561 7 -7 at 
+- 3578
+: 3587 1 -5 Pus
+: 3589 3 -5 sy 
+: 3594 7 -5 so 
+: 3603 2 -1 good, 
+: 3607 2 -3 I 
+: 3611 2 -3 had 
+: 3616 2 -3 to 
+: 3620 7 -3 sneak 
+: 3629 8 -7 back 
+- 3649
+* 3653 2 -3 Hit 
+* 3657 2 -5 her 
+* 3661 2 -3 with 
+* 3664 3 -5 my 
+* 3669 1 -3 Gliz
+* 3671 4 -3 zy, 
+* 3676 2 -3 boy, 
+* 3679 3 -3 I 
+* 3683 8 -3 keep 
+* 3694 9 -7 that 
+E

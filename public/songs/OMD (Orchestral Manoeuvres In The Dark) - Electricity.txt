@@ -1,0 +1,169 @@
+#ARTIST:OMD (Orchestral Manoeuvres In The Dark)
+#TITLE:Electricity
+#MP3:OMD (Orchestral Manoeuvres In The Dark) - Electricity.mp3
+#CREATOR:Buberatz
+#YEAR:1979
+#LANGUAGE:English
+#BPM:325.2
+#GAP:35270
+#VIDEO:v=Y43XLVqjytQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/85/09/cc/8509cc09-3e18-336d-fdf0-447fd1910acc/19UMGIM76929.rgb.jpg/5000x5000bb.jpg,bg=orchestral-manoeuvres-in-the-dark-59d4f35e3a878.jpg
+: 0 3 16 O
+: 4 3 14 ur 
+: 8 7 16 one 
+: 16 3 16 source 
+: 20 3 14 of 
+: 24 7 16 e
+: 32 3 14 ner
+: 36 20 16 gy 
+- 58
+: 64 7 12 The 
+: 72 4 12 ul
+: 80 3 12 ti
+: 84 3 11 mate 
+: 88 7 12 dis
+: 96 3 11 cove
+: 100 20 12 ry 
+- 122
+: 128 3 7 E
+: 132 4 7 lec
+: 140 8 7 tric 
+: 152 7 7 blue 
+: 160 3 9 for 
+: 164 20 7 me 
+- 186
+: 192 7 14 Ne
+: 200 7 14 ver 
+: 208 7 14 more 
+: 216 7 16 to 
+: 224 3 12 be 
+: 228 16 14 free 
+- 246
+: 256 3 16 E
+: 260 3 14 e
+: 264 4 16 lec
+: 272 3 16 tri
+: 276 3 14 ii
+: 280 7 16 ci
+: 288 3 14 ty
+: 292 20 16 yy 
+- 314
+: 320 7 12 Nu
+: 328 4 12 cle
+: 336 3 12 ar 
+: 340 3 11 and 
+: 344 7 12 H
+: 352 3 11 E
+: 356 20 12 P 
+- 378
+: 384 7 7 Car
+: 392 7 7 bon 
+: 400 7 7 fuels 
+: 408 7 7 from 
+: 416 3 9 the 
+: 420 20 7 sea 
+- 442
+: 448 7 14 Wa
+: 456 7 14 sted 
+: 464 7 14 elec
+: 472 3 16 tri
+: 476 4 14 ci
+: 484 16 14 ty 
+- 502
+: 1792 3 16 O
+: 1796 3 14 ur 
+: 1800 4 16 one 
+: 1808 3 16 source 
+: 1812 3 14 of 
+: 1816 3 16 e
+: 1820 7 14 ner
+: 1828 20 16 gy 
+- 1850
+: 1856 3 12 E
+: 1860 4 12 ee
+: 1868 3 12 lec
+: 1872 3 12 tri
+: 1876 3 11 ii
+: 1880 3 12 ci
+: 1884 7 11 ty
+: 1892 20 12 yy 
+- 1914
+: 1920 4 7 All 
+: 1928 3 7 we 
+: 1932 8 7 need 
+: 1944 7 7 to 
+: 1952 3 9 live 
+: 1956 20 7 today 
+- 1978
+: 1984 4 14 A 
+: 1992 3 14 gift 
+: 1996 3 12 for 
+: 2000 7 14 man 
+: 2008 7 16 to 
+: 2016 3 14 throw 
+: 2020 20 14 away 
+- 2042
+: 2048 3 16 The 
+: 2052 3 14 chance 
+: 2056 7 16 to 
+: 2064 3 16 chance 
+: 2068 3 14 has 
+: 2072 7 16 near
+: 2080 3 14 ly 
+: 2084 20 16 gone 
+- 2106
+: 2112 3 12 The 
+: 2116 4 12 al
+: 2124 3 12 ter
+: 2128 3 12 na
+: 2132 3 11 tive 
+: 2136 7 12 is 
+: 2144 3 11 only 
+: 2148 20 12 one 
+- 2170
+: 2176 4 7 The 
+: 2184 7 7 final 
+: 2192 3 7 source 
+: 2196 3 7 of 
+: 2200 7 7 e
+: 2208 3 9 ner
+: 2212 20 7 gy 
+- 2234
+: 2240 4 14 So
+: 2248 4 14 lar 
+: 2256 7 14 elec
+: 2264 3 16 tri
+: 2268 7 14 ci
+: 2276 16 14 ty 
+- 2294
+: 3072 7 16 E
+: 3080 12 16 lec
+: 3096 3 16 tri
+: 3100 7 16 ci
+: 3108 12 16 ty 
+- 3122
+: 3136 7 16 E
+: 3144 12 16 lec
+: 3160 3 16 tri
+: 3164 4 16 ci
+: 3172 16 16 ty 
+- 3190
+: 3200 4 16 E
+: 3208 12 16 lec
+: 3224 3 16 tri
+: 3228 4 16 ci
+: 3236 20 16 ty 
+- 3258
+: 3264 4 16 E
+: 3272 12 16 lec
+: 3288 3 16 tri
+: 3292 4 16 ci
+: 3300 20 16 ty 
+- 3322
+: 3328 4 16 E
+: 3336 12 16 lec
+: 3352 3 16 tri
+: 3356 4 16 ci
+: 3364 16 16 ty 
+- 3382
+: 3384 100 16 Eeeeeee 
+E

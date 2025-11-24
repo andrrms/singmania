@@ -1,0 +1,270 @@
+#ARTIST:AC/DC
+#TITLE:Sweet Candy
+#MP3:AC/DC - Sweet Candy.mp3
+#CREATOR:Fepo
+#GENRE:Rock
+#YEAR:2014
+#LANGUAGE:English
+#BPM:288.12
+#GAP:16620
+#VIDEO:a=ewBkQvvjWQc,co=rock-or-bust-62d010498847b.jpg,bg=acdc-5296727bf0463.jpg
+F 0 2 12 Here 
+F 4 2 12 she 
+F 8 6 12 come, 
+F 20 3 12 yeah 
+- 25
+F 92 2 13 Do
+F 95 2 13 ing 
+F 98 2 16 that 
+F 103 8 16 thing, 
+F 116 5 16 yeah 
+- 123
+F 161 2 12 Make 
+F 164 2 12 the 
+F 168 5 12 boys 
+F 175 4 12 go 
+F 183 4 12 wild 
+- 189
+F 244 11 12 Yeah, 
+F 260 4 12 sweet 
+F 267 5 12 child 
+- 274
+: 315 5 13 She 
+: 322 4 13 do 
+: 329 2 11 a 
+: 334 4 13 da
+: 340 4 11 ~nce 
+- 346
+: 356 3 6 Sli
+: 361 3 4 ~des 
+: 368 5 6 down 
+: 375 2 6 the 
+: 379 11 9 pole 
+- 392
+: 411 3 6 She 
+: 417 5 6 turn 
+: 424 2 9 a 
+: 429 5 11 back
+: 436 4 9 flip 
+- 442
+: 453 4 6 Make 
+: 459 2 6 your 
+: 463 5 6 heart 
+: 471 12 6 roll 
+- 485
+: 508 3 13 Caught 
+: 514 4 11 in 
+: 521 2 10 a 
+: 526 5 11 spot
+: 533 7 9 light 
+- 542
+: 549 6 6 Crawls 
+: 557 2 6 a
+: 560 3 6 cross 
+: 565 2 6 the 
+: 569 14 9 floor 
+- 585
+: 604 3 6 Calls 
+: 610 3 6 for 
+: 616 4 9 at
+: 622 5 11 ten
+: 630 9 9 tion 
+- 641
+: 643 2 6 The 
+: 646 3 6 boys 
+: 651 4 3 yell 
+: 657 2 6 out 
+: 661 2 1 for 
+: 664 5 6 more 
+- 671
+: 675 5 9 Sweet 
+* 682 3 9 Can
+: 687 5 9 dy 
+- 693
+: 693 5 6 Clap 
+: 702 7 4 and 
+* 712 21 11 kneel 
+- 735
+: 771 5 9 Sweet 
+* 778 3 9 Can
+: 783 6 6 dy 
+- 790
+: 791 5 6 Clap 
+: 800 7 4 and 
+* 810 21 11 kneel 
+- 833
+: 866 4 9 Sweet 
+: 873 4 9 Ca
+: 879 5 9 ndy 
+- 885
+: 886 5 6 Clap 
+: 895 7 4 and 
+* 905 21 11 kneel 
+- 928
+: 963 4 9 Sweet 
+: 970 3 9 Ca
+: 976 4 6 ndy 
+- 981
+: 981 5 6 Clap 
+: 990 7 4 and 
+: 1000 21 11 kneel 
+- 1023
+: 1030 8 9 Al
+* 1041 7 9 right, 
+: 1053 10 9 Can
+: 1066 5 6 dy 
+- 1073
+: 1077 7 13 She 
+: 1088 4 11 splits 
+: 1095 2 11 the 
+: 1099 5 11 ni
+: 1106 4 9 ~ght 
+- 1112
+: 1126 2 6 Sel
+: 1130 2 4 ling 
+: 1134 2 6 us 
+: 1138 3 6 her 
+: 1144 14 9 charms 
+- 1160
+: 1180 2 6 She 
+: 1184 5 6 glide 
+: 1192 3 9 a
+: 1197 5 11 round 
+: 1204 2 9 the 
+: 1207 9 11 pole 
+- 1218
+: 1220 2 6 A
+: 1223 6 13 ~ll 
+: 1232 5 6 naugh
+: 1239 3 8 ty 
+: 1244 12 6 wrongs 
+- 1258
+: 1275 4 13 She 
+: 1282 4 12 lea
+: 1288 3 9 ~ve 
+: 1294 4 12 all 
+: 1300 2 11 the 
+: 1304 7 6 guys 
+: 1317 4 6 pan
+: 1323 3 6 ting 
+: 1328 3 6 in 
+: 1333 2 6 wai
+: 1337 6 9 ~t, 
+F 1350 9 12 yeah 
+- 1361
+: 1372 3 3 She 
+: 1377 4 6 knows 
+: 1383 3 9 just 
+: 1389 3 11 what 
+: 1395 3 9 she 
+: 1401 5 6 done 
+- 1407
+: 1408 2 6 And 
+: 1411 2 6 she 
+: 1414 2 9 give 
+: 1417 3 6 it 
+: 1422 3 9 a
+: 1427 2 6 ~ll 
+: 1431 2 4 and 
+: 1435 8 6 shake 
+- 1444
+: 1444 4 9 Sweet 
+: 1450 3 9 Can
+: 1455 4 9 dy 
+- 1461
+: 1462 4 6 Clap 
+: 1470 7 4 and 
+: 1480 21 11 kneel 
+- 1503
+: 1539 4 10 Sweet 
+: 1546 4 10 Can
+: 1552 5 6 dy 
+- 1559
+: 1560 5 6 Clap 
+: 1569 4 4 and 
+: 1576 23 11 kneel 
+- 1601
+: 1635 3 9 Sweet 
+: 1641 5 13 Can
+: 1648 6 6 dy 
+- 1655
+: 1655 5 6 Clap 
+: 1664 4 4 and 
+: 1671 23 11 kneel 
+- 1696
+: 1729 6 13 Sweet 
+: 1738 4 10 Can
+: 1745 6 6 dy 
+- 1752
+: 1753 3 6 Clap 
+: 1759 4 4 and 
+: 1767 15 11 kneel 
+- 1784
+: 1785 3 6 I 
+: 1790 2 6 see 
+: 1793 3 6 you 
+: 1798 9 9 all 
+: 1809 9 9 like 
+: 1820 11 9 Can
+: 1834 6 6 dy 
+- 1842
+F 1922 3 12 There 
+F 1928 2 12 she 
+F 1932 12 12 go, 
+F 1946 4 12 yeah 
+- 1952
+F 2023 7 12 Yeah 
+- 2032
+: 2229 5 6 Clap 
+: 2238 6 4 and 
+: 2247 28 11 kneel 
+- 2277
+: 2307 4 10 Sweet 
+: 2314 4 10 Can
+: 2320 4 6 dy 
+- 2326
+: 2327 5 6 Clap 
+: 2336 6 4 and 
+: 2345 28 11 kneel 
+- 2375
+: 2402 5 9 Sweet 
+: 2410 4 13 Can
+: 2416 4 6 dy 
+- 2422
+: 2423 5 6 Clap 
+: 2432 6 4 and 
+: 2441 28 11 kneel 
+- 2471
+: 2497 6 13 Sweet 
+: 2506 4 10 Can
+: 2512 5 6 dy 
+- 2518
+: 2519 5 6 Clap 
+: 2528 6 4 and 
+: 2537 26 11 kneel 
+- 2565
+: 2567 6 10 All 
+: 2576 8 10 like 
+: 2588 10 10 Can
+: 2601 5 6 dy 
+- 2608
+: 2613 5 13 Sweet, 
+: 2624 6 13 sweet 
+: 2637 9 6 Can
+: 2649 6 9 dy 
+- 2657
+: 2709 7 13 Sweet, 
+: 2720 7 13 sweet 
+: 2731 12 11 Can
+: 2745 5 10 dy 
+- 2752
+: 2806 7 13 Sweet, 
+* 2816 7 13 sweet 
+: 2828 10 6 Can
+: 2840 8 9 dy 
+- 2850
+: 2905 7 12 All 
+: 2915 8 13 night 
+: 2930 6 6 Can
+: 2938 7 6 dy 
+E

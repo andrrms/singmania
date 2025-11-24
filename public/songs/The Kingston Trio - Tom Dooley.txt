@@ -1,0 +1,292 @@
+#ARTIST:The Kingston Trio
+#TITLE:Tom Dooley
+#MP3:The Kingston Trio - Tom Dooley.mp3
+#CREATOR:Canni
+#GENRE:Folk
+#YEAR:1958
+#LANGUAGE:English
+#BPM:236.75
+#GAP:31260
+#VIDEO:v=fNokv45B2AI,co=https://i.discogs.com/SK_THKkrhb1XdMe9VVu3hccCwlFMaOB81VcPVpyxnP4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzcx/MTctMTYwMjU5NTIx/NS0yMTk4LmpwZWc.jpeg,preview=108.8,medley=1209-1922
+: 0 3 -1 Hang 
+: 4 7 -1 down 
+: 12 1 -1 your 
+: 14 7 1 head, 
+: 22 9 4 Tom 
+* 38 7 8 Doo
+* 46 13 8 ley. 
+- 60
+: 62 3 -1 Hang 
+: 66 5 -1 down 
+: 72 3 -1 your 
+: 76 7 1 head 
+: 84 5 4 and 
+: 92 21 6 cry. 
+- 115
+: 120 5 -1 Hang 
+: 126 5 -1 down 
+: 132 3 -1 your 
+: 136 7 1 head, 
+: 144 11 4 Tom 
+: 160 7 6 Doo
+: 168 11 6 ley. 
+- 180
+: 182 3 6 Poor 
+: 186 5 6 boy, 
+: 192 3 8 you’re 
+: 196 7 4 bound 
+: 204 3 1 to 
+: 208 23 4 die. 
+- 233
+: 238 3 -1 I 
+: 242 3 -1 met 
+: 246 7 -1 her 
+: 254 9 1 on 
+: 264 3 4 the 
+: 268 7 8 moun
+: 276 19 8 tain, 
+- 297
+: 302 3 -1 There 
+: 306 10 -1 I 
+: 317 3 1 took 
+: 321 7 4 her 
+: 329 27 6 life. 
+- 358
+: 361 5 -1 Met 
+: 367 7 -1 her 
+: 375 7 1 on 
+: 383 5 4 the 
+: 389 7 6 moun
+: 397 19 6 tain, 
+- 418
+: 421 5 6 Stabbed 
+: 427 9 8 her 
+: 437 3 4 with 
+: 441 7 1 my 
+: 449 29 4 knife. 
+- 480
+: 483 3 -1 Hang 
+: 487 7 -1 down 
+: 495 1 -1 your 
+: 497 7 1 head, 
+: 505 9 4 Tom 
+: 523 7 8 Doo
+: 531 11 8 ley. 
+- 543
+: 545 3 -1 Hang 
+: 549 7 -1 down 
+: 557 1 -1 your 
+: 559 7 1 head 
+: 567 7 4 and 
+: 575 17 6 cry. 
+- 594
+: 605 5 -1 Hang 
+: 611 7 -1 down 
+: 619 1 -1 your 
+: 621 7 1 head, 
+: 629 9 4 Tom 
+: 645 7 6 Doo
+: 653 9 6 ley. 
+- 663
+: 665 5 6 Poor 
+: 671 7 6 boy, 
+: 679 1 8 you’re 
+: 681 7 4 bound 
+* 689 3 1 to 
+* 693 23 4 die. 
+- 718
+: 731 5 -1 This 
+: 738 9 1 time 
+: 749 4 4 to
+: 754 7 8 mor
+: 763 19 8 row, 
+- 784
+: 787 3 -1 Reck
+: 791 9 -1 on 
+: 801 7 1 where 
+: 809 5 4 I’ll 
+* 815 29 6 be. 
+- 846
+: 849 7 -1 Hadn’t 
+: 857 3 -1 it 
+: 861 7 1 been 
+: 869 7 4 for 
+: 877 5 6 Gray
+: 883 15 6 son, 
+- 900
+: 903 3 6 I’d
+: 907 3 6 ’ve 
+: 911 3 6 been 
+: 915 9 6 in 
+: 925 3 4 Ten
+: 929 7 1 nes
+: 937 27 4 see. 
+- 966
+: 971 3 -1 Hang 
+: 975 7 -1 down 
+: 983 3 -1 your 
+: 987 7 1 head, 
+: 995 7 4 Tom 
+: 1009 7 8 Doo
+: 1017 11 8 ley. 
+- 1029
+: 1031 3 -1 Hang 
+: 1035 5 -1 down 
+: 1041 3 -1 your 
+: 1045 7 1 head 
+: 1053 7 4 and 
+* 1061 27 6 cry. 
+- 1089
+: 1091 3 -1 Hang 
+: 1095 7 -1 down 
+: 1103 3 -1 your 
+: 1107 7 1 head, 
+: 1115 9 4 Tom 
+: 1129 7 6 Doo
+: 1137 13 6 ley. 
+- 1151
+: 1151 3 6 Poor 
+: 1155 5 6 boy, 
+: 1161 3 8 you’re 
+: 1165 7 4 bound 
+: 1173 3 1 to 
+: 1177 13 4 die. 
+- 1192
+: 1209 3 -1 Hang 
+: 1213 7 -1 down 
+: 1221 3 -1 your 
+: 1225 7 1 head, 
+: 1233 7 4 Tom 
+: 1247 7 8 Doo
+: 1255 13 8 ley. 
+- 1269
+: 1269 3 -1 Hang 
+: 1273 7 -1 down 
+: 1281 3 -1 your 
+: 1285 5 1 head 
+: 1291 7 4 and 
+: 1299 23 6 cry. 
+- 1324
+: 1329 3 -1 Hang 
+: 1333 7 -1 down 
+: 1341 1 -1 your 
+: 1343 7 1 head, 
+: 1351 7 4 Tom 
+: 1367 7 6 Doo
+: 1375 11 6 ley. 
+- 1387
+: 1389 3 6 Poor 
+: 1393 5 6 boy, 
+* 1399 3 8 you’re 
+* 1403 7 4 bound 
+: 1411 3 1 to 
+: 1415 15 4 die. 
+- 1432
+: 1453 5 -1 This 
+: 1459 11 1 time 
+: 1471 3 4 to
+: 1475 5 8 mor
+: 1481 21 8 row, 
+- 1504
+: 1507 3 -1 Reck
+: 1511 7 -1 on 
+: 1519 7 1 where 
+: 1527 7 4 I’ll 
+: 1535 23 6 be. 
+- 1560
+: 1567 5 -1 Down 
+: 1573 5 -1 in 
+: 1579 3 -1 some 
+: 1583 7 1 lone
+: 1591 3 4 some 
+: 1595 7 6 val
+: 1603 19 6 ley, 
+- 1624
+: 1629 7 6 Hangin’ 
+: 1637 1 6 from 
+: 1639 1 8 a 
+: 1642 4 4 white 
+: 1647 7 1 oak 
+: 1656 24 4 tree. 
+- 1682
+: 1689 3 -1 Hang 
+: 1693 7 -1 down 
+: 1701 1 -1 your 
+: 1703 7 1 head, 
+: 1711 7 4 Tom 
+: 1727 7 8 Doo
+: 1735 13 8 ley. 
+- 1749
+: 1749 3 -1 Hang 
+: 1753 7 -1 down 
+: 1761 1 -1 your 
+: 1763 7 1 head 
+: 1771 7 4 and 
+: 1779 25 6 cry. 
+- 1806
+: 1809 3 -1 Hang 
+: 1813 7 -1 down 
+: 1821 1 -1 your 
+: 1823 7 1 head, 
+: 1831 9 4 Tom 
+: 1847 7 6 Doo
+: 1855 11 6 ley. 
+- 1867
+: 1869 3 6 Poor 
+: 1873 7 6 boy, 
+: 1881 1 8 you’re 
+: 1883 7 4 bound 
+: 1891 3 1 to 
+: 1895 27 4 die. 
+- 1924
+: 1929 3 -1 Hang 
+: 1933 5 -1 down 
+: 1939 1 -1 your 
+: 1941 7 1 head, 
+: 1949 7 4 Tom 
+: 1965 7 8 Doo
+: 1973 11 8 ley. 
+- 1985
+: 1987 3 -1 Hang 
+: 1991 5 -1 down 
+* 1997 3 -1 your 
+* 2001 7 1 head 
+: 2009 7 4 and 
+: 2017 25 6 cry. 
+- 2043
+: 2045 3 -1 Hang 
+: 2049 5 -1 down 
+: 2055 3 -1 your 
+: 2059 7 1 head, 
+: 2067 7 4 Tom 
+: 2081 7 6 Doo
+: 2089 11 6 ley. 
+- 2101
+: 2103 3 6 Poor 
+: 2107 7 6 boy, 
+: 2115 3 8 you’re 
+: 2119 5 4 bound 
+: 2125 3 1 to 
+: 2129 27 4 die. 
+- 2158
+* 2161 3 6 Poor 
+* 2165 7 6 boy, 
+: 2173 3 8 you’re 
+: 2177 7 4 bound 
+: 2185 3 1 to 
+: 2189 27 4 die. 
+- 2218
+: 2221 3 6 Poor 
+: 2225 7 6 boy, 
+: 2233 3 8 you’re 
+: 2237 7 4 bound 
+: 2245 3 1 to 
+: 2249 27 4 die. 
+- 2278
+: 2283 3 6 Poor 
+: 2287 7 6 boy, 
+: 2295 3 1 you’re 
+: 2299 5 4 bound 
+: 2305 4 1 to 
+: 2321 16 4 die. 
+E

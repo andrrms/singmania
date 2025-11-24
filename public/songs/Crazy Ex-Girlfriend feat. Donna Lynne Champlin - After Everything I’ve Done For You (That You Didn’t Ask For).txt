@@ -1,0 +1,413 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Donna Lynne Champlin
+#TITLE:After Everything I’ve Done For You (That You Didn’t Ask For)
+#MP3:Crazy Ex-Girlfriend feat. Donna Lynne Champlin - After Everything I’ve Done For You (That You Didn’t Ask For).mp3
+#CREATOR:Relisch
+#COVER:Crazy Ex-Girlfriend feat. Donna Lynne Champlin - After Everything I’ve Done For You (That You Didn’t Ask For) [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Donna Lynne Champlin - After Everything I’ve Done For You (That You Didn’t Ask For) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2016
+#LANGUAGE:English
+#BPM:300
+#GAP:2100
+#VIDEO:v=xtKtmXzeyqs,co=crazy-ex-girlfriend-original-television-soundtrack-season-1--6851bdb869b41.jpg
+: 0 10 0 Time 
+: 11 2 -7 for 
+: 14 2 -7 you 
+: 17 2 -7 to 
+: 20 9 -2 shut 
+: 30 7 0 up! 
+- 47
+: 60 8 1 Time 
+: 69 2 -6 for 
+: 72 2 -6 you 
+: 75 2 -6 to 
+: 78 11 -1 sit 
+: 90 22 1 down! 
+- 118
+: 121 3 1 Paul
+: 125 5 1 a’s 
+: 131 13 1 tired 
+: 146 3 -7 of 
+: 150 1 -7 be
+: 152 3 -7 ing 
+: 156 3 1 your 
+: 160 7 2 side
+: 168 4 -7 kick 
+- 173
+: 175 3 0 Your 
+: 179 7 2 hench
+: 187 1 -7 man 
+- 189
+: 191 6 2 Your 
+: 198 6 4 ea
+: 205 10 0 ger 
+- 226
+: 230 8 2 Lit
+: 239 14 0 tle 
+- 265
+: 269 32 4 Clown
+: 302 81 0 ! 
+- 423
+* 475 6 2 Af
+* 482 4 -2 ter 
+: 488 5 -3 eve
+: 494 4 0 ry
+: 500 5 2 thing 
+: 507 4 0 I’ve 
+: 512 6 3 done 
+: 520 3 2 for 
+: 525 5 0 you— 
+- 531
+: 533 3 2 That 
+: 537 5 -3 I 
+: 543 4 0 did
+: 549 3 2 n’t 
+: 555 9 2 ask 
+: 566 5 0 for 
+- 572
+: 574 3 0 Do 
+: 578 3 2 you 
+: 582 3 0 have 
+: 586 3 -3 a
+: 590 2 -3 ny 
+: 594 3 0 id
+: 599 6 2 ea 
+: 607 2 0 the 
+: 610 9 3 work 
+: 625 3 0 you’re 
+: 630 4 2 un
+: 635 5 2 do
+: 641 13 -3 i
+: 655 7 0 ~ng? 
+- 671
+: 675 5 0 Af
+: 682 3 1 ter 
+: 687 6 2 ev
+: 694 4 5 ery
+: 699 6 7 thing 
+: 706 4 5 I’ve 
+: 712 7 8 done 
+: 720 3 5 for 
+: 725 4 8 you 
+- 730
+* 732 4 5 “That 
+* 737 5 2 you 
+* 744 4 5 did
+* 749 5 7 n’t 
+* 756 8 7 ask 
+* 766 2 5 for” 
+- 769
+: 771 6 7 Let’s 
+: 778 3 7 just 
+: 782 3 5 say 
+: 786 8 7 Greg 
+- 795
+: 797 3 7 Is
+: 801 4 7 n’t 
+: 808 2 5 the 
+: 811 4 8 on
+: 817 3 7 ly 
+: 821 7 7 one 
+: 830 9 7 you’re 
+: 841 7 7 screw
+: 849 18 5 ing! 
+- 873
+F 876 2 6 Wan
+F 879 2 6 na 
+F 882 4 6 know 
+F 887 4 6 all 
+F 892 2 6 the 
+F 895 2 6 things 
+F 898 4 6 I’ve 
+F 903 5 6 done 
+F 909 2 6 for 
+F 912 10 6 you? 
+- 930
+: 933 3 5 I 
+: 937 4 7 broke 
+: 942 2 7 in
+: 945 2 5 to 
+: 948 4 7 Jo
+: 953 3 7 sh’s 
+: 957 2 5 old 
+: 961 3 7 high 
+: 965 3 7 school 
+: 969 1 5 and 
+- 971
+: 973 4 7 Made 
+: 978 2 7 cop
+: 981 4 5 ies 
+: 986 6 7 of 
+: 993 4 7 all 
+: 998 5 5 his 
+: 1005 17 8 grades 
+- 1030
+: 1033 3 5 I 
+: 1038 2 8 bumped 
+: 1042 2 8 in
+: 1046 2 5 to 
+: 1050 3 8 Lour
+: 1054 3 8 des 
+: 1058 2 5 at 
+: 1062 3 8 Star
+: 1066 3 8 bucks 
+: 1070 1 5 and 
+- 1073
+: 1075 3 8 Sug
+: 1079 3 8 gest
+: 1083 2 5 ed 
+: 1088 6 9 you 
+: 1096 3 12 be 
+: 1100 5 14 a 
+: 1107 11 7 brides
+: 1120 9 5 maid 
+- 1132
+: 1134 3 5 I 
+: 1138 2 8 black
+: 1142 3 8 mailed 
+: 1146 3 5 Val
+: 1150 3 8 en
+: 1154 2 8 ci
+: 1158 3 5 a’s 
+: 1162 5 8 boss 
+- 1168
+: 1170 4 5 So 
+: 1176 2 8 now 
+: 1179 3 8 I 
+: 1183 3 5 con
+: 1188 8 8 trol 
+: 1197 3 7 when 
+: 1202 7 5 she 
+: 1210 4 7 teach
+: 1216 6 5 es 
+- 1223
+F 1225 6 6 That’s 
+F 1232 10 6 right! 
+F 1245 2 6 I 
+F 1249 4 6 make 
+F 1254 3 6 yo
+F 1258 3 6 ga 
+F 1262 5 6 class 
+F 1268 2 6 sched
+F 1271 2 6 u
+F 1274 2 6 les! 
+- 1280
+: 1282 3 7 There’s 
+: 1286 2 7 no 
+: 1289 3 14 lim
+: 1293 4 12 it 
+: 1298 3 12 to 
+* 1302 3 16 where 
+* 1306 3 9 my 
+* 1310 8 14 reach 
+* 1319 6 12 i
+* 1326 9 14 s! 
+- 1345
+: 1374 7 3 Af
+: 1382 4 1 ter 
+: 1387 6 -2 eve
+: 1394 4 1 ry
+: 1400 6 3 thing 
+: 1407 3 3 I’ve 
+: 1412 8 4 done 
+: 1421 3 1 for 
+: 1425 7 3 you 
+: 1433 3 1 that 
+: 1438 5 -2 you 
+: 1444 4 1 did
+: 1449 4 3 n’t 
+: 1456 10 3 ask 
+: 1468 13 1 for 
+- 1482
+F 1484 15 6 God! 
+: 1505 2 1 Will 
+: 1508 3 3 your 
+: 1512 9 4 lies 
+: 1523 4 1 nev
+: 1528 4 3 er 
+: 1533 13 3 e
+: 1547 17 1 nd? 
+- 1573
+: 1576 5 1 Af
+: 1582 4 1 ter 
+: 1587 6 3 eve
+: 1595 4 6 ry
+: 1600 6 8 thing 
+: 1608 3 6 I’ve 
+: 1612 7 9 done 
+: 1621 2 6 for 
+: 1625 7 8 you 
+: 1633 3 6 that 
+: 1638 6 3 you 
+: 1645 4 6 did
+: 1650 4 8 n’t 
+: 1656 9 8 ask 
+: 1667 11 6 for 
+- 1681
+: 1683 3 6 The 
+: 1687 4 8 least 
+: 1692 2 8 you 
+: 1695 3 6 can 
+: 1699 5 8 do 
+: 1705 2 8 is 
+: 1708 2 6 be 
+: 1711 7 8 hon
+: 1719 4 6 est 
+: 1724 4 8 with 
+: 1730 6 6 your 
+: 1737 4 9 mo
+: 1742 7 6 ther 
+- 1750
+: 1752 5 2 I 
+: 1758 3 6 mean, 
+: 1763 10 6 friend 
+- 1793
+: 1834 4 0 What’s 
+: 1840 3 0 that 
+: 1845 3 0 look 
+: 1849 4 1 on 
+: 1855 3 -1 your 
+: 1859 8 1 face? 
+- 1875
+: 1878 3 0 You’re 
+* 1883 3 0 hor
+* 1888 4 -4 ri
+* 1893 10 -4 fied, 
+: 1914 4 0 you 
+: 1919 3 0 think 
+: 1923 3 0 I’m 
+: 1928 2 1 a 
+: 1931 8 0 mon
+: 1940 7 -5 ster 
+- 1957
+: 1961 3 0 For 
+: 1965 3 0 do
+: 1970 2 0 ing 
+: 1973 7 1 your 
+: 1981 4 1 dir
+: 1986 4 -4 ty 
+: 1992 12 -4 work 
+- 2024
+: 2045 3 0 You 
+: 2049 4 -1 think 
+: 2055 3 -1 love 
+: 2059 2 -1 is 
+: 2062 5 -1 stain
+: 2068 3 -1 less 
+: 2072 2 -3 and 
+: 2075 9 -1 pure? 
+- 2090
+: 2092 2 -1 But 
+: 2095 3 -1 be
+: 2099 5 -1 neath 
+: 2105 2 -1 all 
+: 2108 3 -1 the 
+: 2112 4 -1 fan
+: 2117 4 0 ta
+: 2122 11 -1 sy 
+- 2135
+: 2137 9 -1 There’s 
+: 2147 9 0 filth 
+: 2157 6 0 and 
+: 2164 11 3 there’s 
+: 2177 38 0 gore 
+- 2222
+: 2225 20 0 So 
+: 2246 25 1 now 
+: 2272 19 0 it’s 
+: 2298 8 0 time 
+: 2307 3 -7 for 
+: 2311 1 -7 me 
+: 2313 2 -7 to 
+: 2316 4 -2 walk 
+: 2321 8 0 out! 
+- 2340
+: 2344 9 1 Time 
+: 2354 2 -6 for 
+: 2357 2 -6 me 
+: 2360 2 -6 to 
+: 2363 7 -4 say 
+: 2371 15 1 no! 
+- 2391
+: 2393 4 1 Pau
+: 2398 4 1 la’s 
+: 2403 10 2 tired 
+: 2414 2 -5 of 
+: 2417 2 -5 work
+: 2420 4 -5 ing 
+: 2425 3 1 for 
+: 2429 6 2 no 
+: 2436 8 -5 thanks 
+: 2445 3 1 at 
+: 2449 19 2 all 
+- 2469
+: 2471 6 4 Pau
+: 2478 16 0 la’s 
+: 2508 7 2 gon
+: 2516 14 0 na 
+: 2544 23 4 g
+: 2568 50 0 o! 
+- 2628
+: 2637 5 5 You’re 
+: 2643 8 8 no
+: 2652 4 5 thing 
+: 2657 1 7 with
+: 2659 5 5 out 
+: 2665 15 8 me 
+: 2683 5 7 and 
+: 2689 3 8 my 
+* 2693 7 9 cre
+* 2701 5 8 a
+* 2707 3 9 ti
+* 2711 2 8 vi
+* 2714 6 9 ty
+* 2721 16 2 ~! 
+- 2738
+: 2740 3 5 I 
+: 2744 2 7 cre
+: 2747 2 8 a
+: 2750 3 7 ted 
+: 2754 10 8 you, 
+: 2766 7 5 you 
+: 2774 1 8 lived 
+: 2776 2 8 in 
+: 2779 3 5 my 
+: 2783 11 7 womb 
+: 2795 3 5 I 
+: 2799 6 7 mean, 
+: 2806 6 9 fi
+: 2813 1 8 gu
+: 2815 1 9 ra
+: 2817 2 8 ti
+: 2820 3 9 ve
+: 2824 18 2 ly 
+- 2843
+: 2845 2 5 Af
+: 2848 2 6 ter 
+: 2851 7 7 eve
+: 2859 4 5 ry
+: 2864 6 7 thing 
+: 2872 4 5 I’ve 
+: 2877 8 8 done 
+: 2886 4 5 for 
+: 2891 8 7 you 
+- 2904
+: 2906 3 9 I 
+* 2910 4 8 don’t, 
+* 2916 2 9 I 
+* 2919 3 8 don’t, 
+* 2923 1 9 I 
+* 2925 2 8 don’t 
+: 2928 5 9 know 
+: 2934 17 12 why 
+- 2952
+: 2954 5 7 So 
+: 2960 27 9 now 
+: 2991 8 7 I’m 
+: 3000 2 9 gon
+: 3003 3 7 na 
+: 3007 40 9 say... 
+- 3050
+: 3052 19 12 Good
+: 3072 148 12 bye! 
+E

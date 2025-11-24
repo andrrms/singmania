@@ -1,0 +1,216 @@
+#ARTIST:The Rolling Stones
+#TITLE:Play With Fire
+#MP3:The Rolling Stones - Play With Fire.mp3
+#CREATOR:choosie
+#YEAR:1964
+#LANGUAGE:English
+#BPM:220.58
+#GAP:8770
+#VIDEO:v=0xBGSlnTino,co=https://i.discogs.com/crDEmFYF4xFsdM7cRESXcxOmkZIKbkIyvbs2HaZPuGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTgx/Ni0xNDg3NzAxNjIy/LTI2NDEuanBlZw.jpeg,bg=rolling-stones-the-52cc3ee862e65.jpg
+: 0 4 14 Well, 
+: 7 4 16 you’ve 
+: 15 2 19 got 
+: 20 6 16 your 
+: 30 2 14 dia
+: 35 3 16 monds 
+- 40
+: 46 3 16 And 
+: 53 4 11 you’ve 
+* 61 2 14 got 
+* 66 6 16 your 
+: 77 2 19 pret
+: 81 4 16 ty 
+: 89 2 14 clothes
+: 93 2 16 ~ 
+- 97
+: 108 3 16 And 
+: 115 4 11 the 
+: 123 2 14 chauf
+: 127 6 16 feur 
+: 137 2 19 drives
+: 141 2 16 ~ 
+: 145 2 16 your 
+: 150 2 14 car
+: 154 2 16 ~ 
+- 158
+: 168 2 11 You 
+: 172 2 11 let 
+* 183 4 14 e
+* 191 4 16 very
+* 198 2 19 bo
+* 202 3 16 dy 
+: 209 2 14 know
+: 213 2 16 ~ 
+- 217
+: 228 2 16 But 
+: 232 3 16 don’t 
+: 244 11 19 play 
+: 260 10 21 with 
+: 275 4 23 me 
+- 281
+: 283 2 23 Cause 
+: 287 2 23 you’re 
+: 291 2 24 playin’ 
+: 295 4 24 with 
+: 303 2 24 fire
+: 307 4 23 ~ 
+- 313
+: 367 2 11 Your 
+: 371 2 14 mo
+: 375 7 16 ther 
+: 387 2 19 she’s
+: 391 2 16 ~ 
+: 395 2 14 an 
+: 399 3 14 hei
+: 405 3 16 ress 
+- 410
+: 419 4 16 Owns 
+: 426 4 11 a 
+: 434 2 14 block 
+: 439 6 16 in 
+* 450 4 19 Saint 
+* 458 4 14 John’s 
+* 466 4 16 Wood 
+- 472
+: 482 3 16 And 
+: 489 4 11 your 
+: 497 4 14 fa
+: 505 4 16 ther’d 
+: 513 2 19 be 
+: 518 2 16 there
+: 522 3 14 ~ 
+: 529 2 14 with 
+: 533 2 16 her 
+- 537
+: 561 3 14 If 
+: 567 6 16 he 
+: 577 2 19 on
+: 581 2 16 ~
+: 585 2 14 ly 
+: 589 2 14 could
+: 593 2 16 ~ 
+- 597
+* 610 2 16 But 
+* 614 6 16 don’t 
+* 626 11 19 play 
+: 642 10 21 with 
+: 657 4 23 me 
+- 663
+: 665 2 23 Cause 
+: 669 2 23 you’re 
+: 674 2 24 playin’ 
+: 678 4 24 with 
+: 686 2 24 fire
+: 690 5 23 ~ 
+- 697
+: 878 2 11 Your 
+: 882 4 14 old 
+: 890 4 16 man 
+: 898 2 19 took 
+: 902 2 16 her
+: 906 2 14 ~ 
+: 911 3 14 dia
+: 917 2 16 monds 
+- 921
+: 930 3 16 And 
+* 938 2 11 ti
+* 942 4 14 a
+* 950 5 16 ras 
+: 962 2 19 by
+: 966 2 16 ~ 
+: 971 2 14 the 
+: 975 4 16 score 
+- 981
+: 994 4 11 Now 
+: 1002 4 14 she 
+: 1010 3 16 gets 
+: 1018 4 16 her 
+: 1026 3 19 kicks 
+: 1034 3 16 in 
+: 1042 2 14 Ste
+: 1047 4 16 pney 
+- 1053
+: 1058 2 16 Not 
+: 1062 6 11 in 
+: 1073 3 14 Knights
+: 1081 3 16 bridge 
+: 1089 2 19 a
+: 1093 2 16 ~
+: 1097 2 14 ny
+: 1101 2 14 more
+: 1105 2 16 ~ 
+- 1109
+: 1121 2 16 So 
+: 1125 5 16 don’t 
+: 1137 11 19 play 
+* 1153 11 21 with 
+* 1169 4 23 me 
+- 1175
+: 1177 2 23 Cause 
+: 1181 2 23 you’re 
+: 1185 2 24 playin’ 
+: 1189 4 24 with 
+: 1197 2 24 fire
+: 1201 4 23 ~ 
+- 1207
+: 1266 4 14 Now 
+: 1274 4 16 you’ve 
+: 1282 3 19 got 
+: 1290 2 16 some 
+: 1294 4 14 dia
+: 1302 2 16 monds 
+- 1306
+: 1325 2 11 And 
+: 1329 4 14 you 
+: 1337 4 16 will 
+: 1345 3 19 have 
+: 1353 2 16 some 
+: 1358 2 14 o
+: 1363 2 16 thers 
+- 1367
+: 1376 4 11 But 
+* 1384 4 11 you’d 
+* 1393 2 14 bet
+* 1397 6 16 ter 
+: 1409 2 19 watch 
+: 1413 2 16 your
+: 1417 2 14 ~ 
+: 1421 3 14 step, 
+: 1428 3 16 girl 
+- 1433
+: 1441 4 16 Or 
+: 1449 4 11 start 
+: 1457 2 14 li
+: 1461 4 16 ving 
+: 1473 2 19 with 
+: 1477 2 16 your
+: 1481 2 14 ~ 
+: 1489 2 14 mo
+: 1493 2 16 ther 
+- 1497
+: 1505 2 16 So 
+: 1509 4 16 don’t 
+* 1521 11 19 play 
+* 1537 10 21 with 
+* 1553 4 23 me 
+- 1559
+: 1561 2 23 Cause 
+: 1565 2 23 you’re 
+: 1569 2 24 playin’ 
+: 1573 4 24 with 
+: 1581 2 24 fire
+: 1585 4 23 ~ 
+- 1591
+: 1633 2 19 So 
+: 1637 4 19 don’t 
+: 1649 11 19 play 
+: 1665 11 21 with 
+: 1681 4 23 me 
+- 1687
+: 1689 2 23 Cause 
+: 1693 2 23 you’re 
+* 1697 2 24 playin’ 
+* 1702 5 24 with 
+* 1711 2 24 fire
+* 1716 5 23 ~. 
+E

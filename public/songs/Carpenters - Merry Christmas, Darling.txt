@@ -1,0 +1,234 @@
+#ARTIST:Carpenters
+#TITLE:Merry Christmas, Darling
+#MP3:Carpenters - Merry Christmas, Darling.mp3
+#EDITION:Christmas
+#COVER:Carpenters - Merry Christmas, Darling [CO].jpg
+#BACKGROUND:Carpenters - Merry Christmas, Darling [BG].jpg
+#GENRE:Christmas
+#YEAR:1970
+#LANGUAGE:English
+#BPM:240
+#GAP:8000
+#VIDEO:v=eorAnq2ph7E,co=https://i.discogs.com/eIE7Kw-jfXIUb05_GYIAtHNQLKPZGH1kX_4cz_FLXFw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/NjgtMTM0MDY5MjA5/MC0zNjM5LmpwZWc.jpeg,bg=carpenters-50b008249c908.jpg,tags=Christmas
+#START:7.0
+: 0 3 16 Gree
+: 4 3 15 ting 
+: 8 12 16 cards 
+: 21 3 19 have 
+: 25 7 18 all 
+: 33 5 14 been 
+: 39 11 11 sent 
+- 60
+: 67 3 7 The 
+: 71 4 7 Christ
+: 76 3 16 mas 
+: 81 6 14 rush 
+: 88 5 16 is 
+: 94 13 11 through 
+- 117
+: 127 2 7 But 
+: 130 8 7 I 
+: 140 5 7 still 
+: 146 8 7 have 
+: 157 3 9 one 
+: 163 3 11 wish 
+: 168 2 9 to 
+: 172 22 7 make 
+- 204
+: 215 4 7 A 
+: 220 4 16 spe
+: 229 4 12 cial 
+: 237 8 9 one 
+: 252 5 7 for 
+: 264 24 6 you 
+- 304
+: 321 4 2 Mer
+: 328 4 -1 ry 
+: 337 7 -3 Christ
+: 345 4 -5 mas 
+: 357 10 -3 dar
+: 368 22 -3 ling 
+- 400
+: 415 5 -1 We’re 
+: 422 3 0 a
+: 426 9 2 part 
+: 445 5 -5 that’s 
+: 453 13 -3 true 
+- 482
+: 505 3 -5 But 
+: 509 8 7 I 
+: 518 5 7 can 
+: 524 24 6 dream 
+: 551 6 2 and 
+: 558 5 -1 in 
+: 564 4 -3 my 
+: 573 16 -5 dreams 
+- 592
+: 594 10 -8 I’m 
+: 606 6 0 Christ
+: 613 4 0 mas
+: 618 12 -1 sing 
+: 635 8 2 with 
+: 645 10 -3 you 
+- 671
+: 700 7 2 Ho
+: 708 3 -1 li
+: 712 16 -3 days 
+: 734 4 -5 are 
+: 739 10 -3 joy
+: 750 20 -3 ful 
+- 780
+: 790 4 -1 There’s 
+: 795 5 2 al
+: 801 9 -1 ways 
+: 813 5 -3 some
+: 819 4 -5 thing 
+: 825 20 -3 new 
+- 855
+: 873 6 -5 But 
+: 883 9 7 eve
+: 893 5 7 ry 
+: 899 23 6 day’s 
+: 926 5 2 a 
+: 934 5 -1 ho
+: 940 3 -3 li
+: 944 16 -5 day 
+- 970
+: 977 7 4 When 
+: 989 6 -3 I’m 
+: 1000 8 -3 near 
+: 1011 2 -3 to 
+: 1014 11 -3 you 
+- 1035
+: 1053 4 -2 Though 
+: 1059 4 0 the 
+: 1064 7 2 lights 
+: 1073 4 2 on 
+: 1079 6 5 my 
+: 1089 14 4 tree 
+- 1112
+: 1115 4 0 I 
+: 1122 4 0 wish 
+: 1127 3 0 you 
+: 1132 4 4 could 
+: 1137 11 2 see 
+- 1158
+: 1171 3 -2 I 
+: 1175 2 -2 wish 
+: 1179 3 2 it 
+: 1183 13 0 eve
+: 1197 3 2 ry
+: 1203 25 -3 day 
+- 1238
+: 1250 10 5 Logs 
+: 1262 4 5 on 
+: 1268 3 7 the 
+: 1272 16 5 fire 
+- 1295
+* 1298 6 9 Fill 
+: 1307 5 7 me 
+: 1313 5 5 with 
+: 1319 5 2 de
+: 1325 12 0 sire 
+- 1346
+: 1350 4 -1 To 
+: 1355 5 -1 see 
+: 1361 5 -1 you 
+: 1367 10 -3 and 
+: 1379 5 -1 to
+: 1385 6 0 ~ 
+: 1396 17 2 say 
+- 1422
+: 1425 5 2 That 
+: 1431 6 4 I 
+: 1441 12 6 wish 
+: 1455 5 2 you 
+: 1461 6 -1 Me
+: 1469 4 -3 ~r
+: 1478 7 -5 ry 
+: 1490 5 -3 Christ
+: 1496 24 -3 mas 
+- 1530
+: 1545 5 -1 Hap
+: 1551 4 0 py 
+: 1556 9 2 New 
+: 1568 16 -5 Year, 
+: 1585 12 4 too 
+- 1607
+: 1617 9 5 I’ve 
+: 1631 7 7 just 
+: 1639 9 7 one 
+: 1649 7 6 wish 
+: 1658 6 9 on 
+: 1667 5 6 this 
+: 1673 4 2 Christ
+: 1678 4 2 mas 
+: 1683 20 2 Eve 
+- 1713
+: 1728 5 0 I 
+: 1738 2 0 wish 
+: 1743 3 0 I 
+: 1751 10 -1 were 
+: 1767 2 -3 with 
+: 1771 17 -5 you 
+- 1820
+: 1996 3 4 The 
+: 2001 8 5 logs 
+: 2011 6 5 on 
+: 2019 3 7 the 
+: 2023 15 5 fire 
+- 2044
+* 2047 6 9 Fill 
+* 2058 5 7 me 
+* 2064 5 5 with 
+* 2070 5 2 de
+* 2076 12 0 sire 
+- 2097
+: 2100 4 -1 To 
+: 2106 5 -1 see 
+: 2112 5 -1 you 
+: 2118 8 -3 and 
+: 2129 5 -1 to
+: 2135 6 0 ~ 
+: 2144 22 2 say 
+- 2172
+: 2174 5 9 That 
+: 2180 6 7 I 
+: 2192 10 6 wish 
+: 2203 6 2 you 
+: 2210 6 -1 Me
+: 2219 3 -3 ~r
+: 2229 5 -5 ry 
+: 2238 6 -3 Christ
+: 2245 23 -3 mas 
+- 2278
+: 2293 5 -1 Hap
+: 2299 5 0 py 
+: 2305 10 2 New 
+: 2316 12 -5 Year, 
+* 2330 23 4 too 
+- 2362
+: 2366 10 7 I’ve 
+: 2380 7 7 just 
+: 2388 8 7 one 
+: 2398 7 6 wish 
+: 2406 6 9 on 
+: 2415 5 6 this 
+: 2421 4 2 Christ
+: 2426 4 2 mas 
+: 2431 22 2 Eve 
+- 2463
+: 2476 4 0 I 
+: 2487 2 0 wish 
+: 2493 2 0 I 
+: 2502 9 -1 were 
+: 2513 2 0 with 
+: 2516 16 2 you 
+- 2548
+: 2578 3 -2 I 
+: 2585 6 7 wish 
+: 2593 6 3 I 
+: 2604 7 2 were 
+: 2624 6 0 with 
+: 2646 40 -2 you 
+E

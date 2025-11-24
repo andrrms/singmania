@@ -1,0 +1,179 @@
+#ARTIST:Lick The Tins
+#TITLE:I Can’t Help Falling In Love
+#MP3:Lick The Tins - I Can’t Help Falling In Love.mp3
+#CREATOR:DoubleDee
+#GENRE:Folk Rock
+#YEAR:1986
+#LANGUAGE:English
+#BPM:272
+#GAP:38880
+#VIDEO:v=7kORTAjFAWM,co=https://i.discogs.com/67u43Ll2ZdrUbLV2UnkPmL4o5HJeUO4Ry075OplGw9o/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU1/MjUtMTUwOTkwMTkx/Mi04NjcxLmpwZWc.jpeg
+: 0 6 3 Wise 
+: 8 10 10 men 
+: 20 3 2 say
+: 24 10 3 ~ 
+: 48 2 7 on
+: 51 2 7 ly 
+: 54 17 8 fools 
+: 72 12 7 rush 
+: 86 5 7 in
+: 92 12 5 ~ 
+- 106
+: 116 3 -2 But 
+: 120 11 0 I 
+: 136 11 2 can’t 
+: 148 13 3 help 
+: 168 3 5 fal
+: 172 2 7 ling 
+: 176 3 8 in
+: 180 3 5 ~ 
+: 184 14 7 love 
+: 200 3 7 with
+: 204 9 5 ~ 
+: 216 8 3 you 
+- 226
+: 256 5 3 Shall 
+: 264 9 10 I 
+: 276 3 2 stay
+: 280 8 3 ~ 
+- 290
+: 304 1 5 Would 
+: 306 1 7 it 
+: 308 14 8 be 
+: 328 10 10 a 
+: 340 3 7 sin
+: 344 7 5 ~ 
+- 353
+: 369 3 -2 If 
+: 373 14 0 I 
+: 391 10 2 can’t 
+: 404 3 2 help
+: 408 10 3 ~ 
+: 424 3 7 fal
+: 428 2 7 ling 
+: 432 3 8 in
+: 436 3 5 ~ 
+: 440 15 7 love 
+: 456 3 7 with
+: 460 7 5 ~ 
+: 468 3 2 you
+: 472 7 3 ~ 
+- 481
+* 512 4 10 Like 
+* 517 2 10 a 
+* 520 3 10 ri
+* 524 6 7 ver 
+* 536 13 10 flows 
+: 576 3 10 sure
+: 580 14 10 ly 
+: 596 3 10 to 
+: 600 3 7 the 
+: 604 12 12 sea 
+- 618
+: 641 2 7 Dar
+: 646 13 10 ling 
+: 661 3 10 so 
+: 665 3 7 it 
+* 669 7 12 goes
+* 677 10 7 ~ 
+- 689
+: 697 2 7 Some 
+: 701 5 10 things 
+: 709 2 7 were 
+: 713 6 10 meant 
+: 721 5 7 to 
+* 727 27 5 be 
+- 756
+: 768 5 3 Take 
+: 776 10 10 my 
+: 788 3 2 hand
+: 792 10 3 ~ 
+: 816 3 7 take 
+: 820 3 7 my 
+: 824 12 8 whole 
+: 840 12 10 life 
+: 854 3 7 too
+: 858 15 5 ~ 
+- 875
+: 880 3 -2 ’Cause 
+: 884 12 0 I 
+: 904 11 2 can’t 
+: 916 15 3 help 
+: 936 3 5 fal
+: 940 3 7 ling 
+: 944 3 8 in
+: 948 3 5 ~ 
+: 952 3 5 love
+: 956 9 7 ~ 
+: 968 3 7 with
+: 972 7 5 ~ 
+: 981 3 2 you
+: 985 12 3 ~ 
+- 999
+: 1281 6 3 Wise 
+: 1289 10 10 men 
+: 1301 3 2 say
+: 1305 10 3 ~ 
+: 1329 2 7 on
+: 1332 2 7 ly 
+: 1335 17 8 fools 
+: 1353 12 10 rush 
+: 1367 5 7 in
+: 1373 12 5 ~ 
+- 1387
+: 1393 3 -2 But 
+: 1398 11 0 I 
+: 1416 11 2 can’t 
+: 1429 13 3 help 
+: 1449 3 8 fal
+: 1453 2 8 ling 
+: 1457 3 8 in
+: 1461 3 10 ~ 
+: 1465 14 7 love 
+: 1481 3 7 with
+: 1485 9 5 ~ 
+: 1497 8 3 you 
+- 1507
+: 1536 7 3 Shall 
+: 1544 9 10 I 
+: 1556 20 3 stay 
+- 1578
+: 1585 1 7 Would 
+: 1587 2 7 it 
+: 1590 17 8 be 
+: 1609 9 10 a 
+: 1620 3 7 sin
+: 1624 12 5 ~ 
+- 1638
+: 1650 3 -2 If 
+: 1654 14 0 I 
+: 1672 10 2 can’t 
+: 1685 3 2 help
+: 1689 10 3 ~ 
+: 1705 3 8 fal
+: 1709 2 8 ling 
+: 1713 3 8 in
+: 1717 3 5 ~ 
+: 1721 15 7 love 
+: 1737 3 7 with
+: 1741 7 5 ~ 
+: 1749 3 2 you
+: 1753 7 3 ~ 
+- 1762
+: 1777 3 -2 If 
+: 1784 3 0 I 
+: 1788 10 -4 ~
+: 1801 4 2 can’t 
+: 1806 5 -2 ~
+: 1812 3 2 help
+: 1816 10 3 ~ 
+: 1832 3 5 fal
+: 1836 2 7 ling 
+: 1840 3 8 in
+: 1844 3 5 ~ 
+: 1849 14 7 love 
+: 1865 3 7 with
+: 1869 7 5 ~ 
+: 1877 3 2 you
+: 1881 7 3 ~ 
+E

@@ -1,0 +1,257 @@
+#ARTIST:Milk Inc.
+#TITLE:Blackout (Radio Edit)
+#MP3:Milk Inc. - Blackout (Radio Edit).mp3
+#CREATOR:claudio bertozzi
+#GENRE:Dance
+#YEAR:2009
+#LANGUAGE:English
+#BPM:300
+#GAP:14850
+#VIDEO:a=ZN4mdMZZyaY,co=https://is1-ssl.mzstatic.com/image/thumb/Music/a9/8d/4d/mzi.vnqpqmoe.jpg/5000x5000bb.jpg,bg=milk-inc-51d050ff4020f.jpg
+: 0 2 15 Will 
+: 4 5 15 there 
+: 13 4 13 be 
+: 19 3 16 someone
+: 24 10 19 ~ 
+: 37 4 13 to 
+: 46 3 13 hold
+: 50 11 9 ~ 
+- 63
+: 91 5 9 When 
+: 98 7 13 the 
+: 107 6 13 lights 
+: 119 4 9 go 
+: 125 7 9 out 
+- 134
+: 139 5 9 Will 
+: 147 5 13 I 
+: 155 9 17 be 
+: 167 7 17 left 
+: 178 7 21 in 
+: 188 7 17 the 
+: 198 6 17 cold
+: 206 6 13 ~ 
+- 214
+: 227 4 9 When 
+: 233 6 13 the 
+: 242 5 13 lights 
+: 250 6 8 go 
+- 258
+F 261 12 6 Blackout 
+- 275
+F 405 15 6 Blackout 
+- 422
+: 559 8 9 I 
+: 569 6 13 was 
+: 578 8 13 once 
+- 588
+: 624 6 9 The 
+: 633 6 13 girl 
+: 640 7 13 that 
+: 648 6 13 made 
+: 663 9 17 your 
+: 675 9 17 world 
+- 686
+: 693 8 13 Stand 
+: 705 8 13 still 
+- 715
+: 762 7 9 Don’t 
+: 772 6 13 you 
+: 782 10 13 remember 
+- 794
+: 816 5 13 In 
+: 823 6 15 a 
+: 831 10 17 corner 
+: 845 7 13 of 
+: 856 6 16 my 
+: 868 10 13 mind 
+- 880
+: 886 2 16 I 
+: 889 8 16 keep 
+: 899 3 16 the 
+: 903 6 16 memory
+: 916 14 12 ~ 
+- 932
+: 949 3 16 Of 
+: 954 7 16 every 
+: 964 4 16 little
+: 969 3 15 ~ 
+: 981 7 17 thing 
+: 990 4 16 you 
+: 1001 8 19 said 
+- 1011
+: 1019 6 17 You 
+: 1027 3 16 remember
+: 1032 9 19 ~ 
+: 1046 10 17 me
+: 1059 7 14 ~ 
+- 1068
+: 1106 2 15 Will 
+: 1110 5 15 there 
+: 1119 4 13 be 
+: 1125 6 16 someone 
+: 1132 10 15 to 
+: 1143 8 13 hold
+: 1152 9 10 ~ 
+- 1163
+: 1195 11 9 When 
+: 1208 3 6 the 
+: 1214 5 9 lights 
+: 1221 7 13 go 
+: 1230 6 13 out 
+- 1238
+: 1246 7 9 Will 
+: 1254 5 9 I 
+: 1260 5 9 be 
+: 1268 5 13 left 
+: 1276 9 17 in 
+: 1288 7 17 the 
+: 1299 7 21 cold 
+- 1308
+: 1328 6 17 When 
+: 1336 5 13 the 
+: 1342 2 6 lights 
+: 1357 4 9 go 
+- 1363
+F 1372 5 13 Blackout 
+- 1379
+F 1398 8 13 Blackout 
+- 1408
+: 1598 8 9 You’re 
+: 1608 6 13 the 
+: 1617 17 13 one 
+- 1636
+: 1663 6 9 Living 
+: 1672 31 13 underneath 
+- 1705
+: 1727 17 13 My 
+: 1746 9 17 skin 
+- 1757
+: 1800 9 6 Don’t 
+: 1810 8 11 you 
+: 1819 9 11 remember 
+- 1830
+: 1847 12 9 In 
+: 1861 6 13 a 
+: 1871 10 13 corner 
+: 1884 7 6 of 
+: 1894 8 13 my 
+: 1906 6 15 mind 
+- 1914
+: 1922 7 13 I 
+: 1931 6 16 keep 
+: 1940 4 13 the 
+: 1946 8 13 memory
+: 1956 6 10 ~ 
+- 1964
+: 1985 8 16 Of 
+: 1995 3 16 every 
+: 1999 6 16 little 
+: 2012 14 12 thing 
+: 2033 8 12 you 
+: 2045 3 16 said 
+- 2050
+: 2060 4 16 You 
+: 2067 23 13 remember 
+: 2096 7 17 me 
+- 2105
+: 2128 13 19 Will 
+: 2144 10 13 there 
+: 2157 6 17 be 
+: 2165 3 16 someone 
+: 2170 9 19 to 
+: 2184 10 17 hold 
+- 2196
+: 2233 11 9 When 
+: 2246 3 6 the 
+: 2252 5 9 lights 
+: 2259 7 13 go 
+: 2268 6 13 out 
+- 2276
+: 2284 7 9 Will 
+: 2292 5 9 I 
+: 2298 5 9 be 
+: 2306 5 13 left 
+: 2314 9 17 in 
+: 2326 7 17 the 
+: 2337 7 21 cold 
+- 2346
+: 2366 6 17 When 
+: 2374 5 13 the 
+: 2380 2 6 lights 
+: 2395 4 9 go 
+- 2401
+F 2410 5 13 Blackout 
+- 2417
+F 2534 6 6 Oh 
+F 2542 5 6 oh 
+F 2549 10 6 oh... 
+- 2561
+F 2575 6 6 Oh 
+F 2583 5 6 oh 
+F 2590 10 6 oh... 
+- 2602
+: 2835 2 16 Don’t 
+: 2840 2 16 you 
+: 2863 2 16 know 
+: 2868 2 16 me 
+- 2872
+: 2898 4 16 Don’t 
+: 2905 4 16 you 
+: 2912 5 16 recognize
+: 2920 3 18 ~
+: 2925 3 20 ~ 
+: 2937 4 17 me
+: 2944 4 13 ~ 
+- 2950
+: 2973 6 16 Don’t 
+: 2981 6 16 you 
+- 2989
+: 3004 7 13 Wonder 
+: 3022 5 13 why
+: 3028 3 11 ~ 
+- 3033
+: 3099 2 15 Will 
+: 3103 5 15 there 
+: 3112 4 13 be 
+: 3118 10 16 someone 
+: 3147 10 19 to 
+: 3160 4 13 hold
+: 3169 3 13 ~ 
+- 3174
+: 3202 3 17 When 
+: 3209 5 17 the 
+: 3216 7 17 lights 
+: 3225 6 17 go 
+: 3236 4 13 out 
+- 3242
+: 3382 2 15 Will 
+: 3386 5 15 there 
+: 3395 4 13 be 
+: 3401 3 16 someone 
+: 3406 10 19 to 
+: 3419 4 13 hold
+: 3428 3 13 ~ 
+- 3433
+: 3460 4 6 When 
+: 3473 5 9 the 
+: 3480 7 13 lights 
+: 3489 6 13 go 
+: 3501 4 9 out 
+- 3507
+: 3516 5 6 Will 
+: 3524 5 9 I 
+: 3532 5 13 be 
+: 3540 9 17 left 
+: 3552 7 17 in 
+: 3563 7 21 the 
+: 3573 7 17 cold
+: 3583 6 17 ~ 
+- 3591
+: 3609 5 6 When 
+: 3620 4 9 the 
+: 3626 6 13 lights 
+: 3635 5 13 go... 
+- 3642
+F 3646 9 6 Blackout 
+E

@@ -1,0 +1,254 @@
+#ARTIST:Evita (Madonna)
+#TITLE:Another Suitcase In Another Hall
+#MP3:Evita (Madonna) - Another Suitcase In Another Hall.mp3
+#CREATOR:jockel1974
+#EDITION:[SC]-Songs
+#GENRE:Soundtrack
+#YEAR:1996
+#LANGUAGE:English
+#BPM:240
+#GAP:15010
+#VIDEO:a=wUVNXoOPkX0,co=https://steveyb.co.uk/wp-content/gallery/madonna/Madonna-Sing057AnotherSuitcaseInAnotherHall.jpg,bg=evita-5cc0517188bfb.jpg
+: 0 6 3 I 
+: 7 6 3 don’t 
+: 18 4 3 ex
+: 23 5 5 pect 
+: 32 5 7 my 
+: 40 4 8 love 
+: 45 4 7 af
+: 50 8 8 fairs 
+- 60
+* 66 4 12 To 
+: 72 11 3 last 
+: 92 5 1 for 
+: 99 10 0 long 
+- 111
+: 121 3 -2 Ne
+: 125 3 0 ver 
+: 129 11 1 fool 
+: 144 11 0 my
+: 158 11 -2 self 
+- 171
+: 181 4 -4 That 
+: 186 4 -2 my 
+: 191 14 0 dreams 
+: 209 3 1 will 
+: 215 3 0 come 
+: 222 8 -2 true 
+- 232
+: 251 8 3 Be
+: 260 5 3 ing 
+: 266 5 5 used 
+: 273 4 7 to 
+: 280 5 8 trou
+: 286 3 7 ble 
+- 291
+: 296 5 8 I 
+* 305 4 12 an
+: 313 17 3 ti
+: 333 4 3 ci
+: 340 6 5 pate 
+: 349 4 0 it 
+- 355
+: 368 3 0 But 
+: 374 4 3 all 
+: 380 2 1 the 
+: 384 7 0 same 
+: 395 4 -2 I 
+: 402 6 -4 hate 
+: 411 4 -7 it 
+- 417
+: 433 10 -2 Would
+: 445 2 0 n’t 
+: 451 11 0 you 
+- 464
+: 473 4 8 So 
+: 480 4 8 what 
+: 485 4 8 ha
+: 490 5 12 ppens 
+: 499 18 3 now 
+- 519
+: 533 6 8 So 
+: 540 4 8 what 
+: 545 4 8 ha
+: 550 5 12 ppens 
+: 559 22 3 now 
+- 583
+: 602 6 0 Where 
+: 609 3 0 am 
+: 613 5 3 I 
+: 619 5 0 go
+: 625 4 -2 ing 
+: 630 21 -4 to 
+- 653
+: 663 6 0 Where 
+: 670 4 0 am 
+: 675 5 3 I 
+: 683 5 0 go
+: 689 4 -2 ing 
+: 694 21 -4 to 
+- 717
+: 951 7 3 Time 
+: 963 3 3 and 
+: 968 5 5 time 
+: 975 3 7 a
+: 979 5 8 gain 
+- 986
+: 991 4 7 I’ve 
+: 996 7 8 said 
+* 1005 3 12 that 
+: 1013 12 3 I 
+: 1034 5 1 don’t 
+: 1042 8 0 care 
+- 1052
+: 1061 4 0 That 
+: 1066 3 -2 I’m 
+: 1070 4 0 im
+: 1075 9 1 mune 
+: 1088 11 0 to 
+: 1103 13 -2 gloom 
+- 1118
+: 1127 3 -4 That 
+: 1131 3 -2 I’m 
+: 1136 11 0 hard 
+: 1153 4 1 through 
+: 1159 4 0 and 
+: 1165 12 -2 through 
+- 1179
+: 1192 3 3 But 
+: 1196 4 3 ev
+: 1202 4 3 ery
+: 1209 7 5 time 
+: 1219 3 7 it 
+: 1225 5 8 ma
+: 1231 4 7 tters 
+- 1237
+: 1241 5 8 All 
+: 1249 4 12 my 
+: 1257 14 3 words 
+: 1280 3 3 de
+: 1284 4 5 sert 
+: 1292 8 0 me 
+- 1302
+: 1313 4 0 So 
+: 1323 2 3 a
+: 1326 2 1 ny
+: 1329 5 0 one 
+: 1336 6 -2 can 
+: 1344 6 -4 hurt 
+: 1351 8 -7 me 
+- 1361
+: 1379 8 -2 And 
+: 1389 3 0 they 
+: 1394 12 0 do 
+- 1408
+: 1417 5 8 So 
+: 1424 4 8 what 
+: 1429 4 8 ha
+: 1435 5 12 ppens 
+: 1442 22 3 now 
+- 1466
+: 1477 4 8 So 
+: 1484 4 8 what 
+: 1489 4 8 ha
+* 1495 5 12 ppens 
+: 1503 24 3 now 
+- 1529
+: 1546 5 0 Where 
+: 1554 3 0 am 
+: 1558 4 3 I 
+: 1564 4 0 go
+: 1569 2 -2 ing 
+: 1574 16 -4 to 
+- 1592
+: 1607 5 0 Where 
+: 1615 3 0 am 
+: 1619 4 3 I 
+: 1627 4 0 go
+: 1632 3 -2 ing 
+: 1641 18 -4 to 
+- 1661
+: 2172 7 3 Call 
+: 2184 4 3 in 
+: 2189 5 5 three 
+: 2195 6 7 months 
+: 2202 7 8 time 
+- 2211
+: 2216 4 7 And 
+: 2222 4 8 I’ll 
+: 2228 3 12 be 
+: 2233 15 3 fine 
+: 2259 3 1 I 
+: 2264 9 0 know 
+- 2275
+: 2289 3 0 Well 
+: 2293 5 1 may
+: 2300 4 1 be 
+: 2307 5 0 not 
+: 2315 4 0 that 
+: 2323 10 -2 fine 
+- 2335
+: 2342 3 -2 But 
+: 2346 3 -4 I’ll 
+: 2350 3 -2 sur
+: 2354 15 0 vive 
+: 2373 3 1 a
+: 2377 3 0 ny
+: 2384 10 -2 how 
+- 2396
+: 2411 3 3 I 
+: 2416 4 3 won’t 
+: 2423 3 3 re
+: 2427 6 5 call 
+- 2435
+: 2441 3 7 The 
+: 2446 6 8 names 
+: 2454 3 7 and 
+: 2460 5 8 pla
+* 2467 5 12 ces 
+- 2474
+: 2477 3 3 Of 
+: 2483 4 3 each 
+: 2490 6 3 sad 
+: 2500 2 3 o
+: 2504 4 5 cca
+: 2511 5 0 sion 
+- 2518
+: 2532 2 0 But 
+: 2537 3 3 that’s 
+: 2543 4 1 no 
+: 2551 4 0 con
+: 2558 3 -2 so
+: 2563 4 -4 la
+: 2570 5 -7 tion 
+- 2577
+: 2596 8 -2 Here 
+: 2608 3 0 and 
+: 2614 10 0 now 
+- 2626
+: 2635 5 8 So 
+: 2642 4 8 what 
+: 2648 4 8 ha
+: 2654 6 12 ppens 
+: 2662 18 3 now 
+- 2682
+: 2697 4 8 So 
+: 2704 4 8 what 
+: 2710 4 8 ha
+* 2716 4 12 ppens 
+: 2724 17 3 now 
+- 2743
+: 2766 4 0 Where 
+: 2773 2 0 am 
+: 2777 3 3 I 
+: 2783 3 0 go
+: 2788 2 -2 ing 
+: 2794 16 -4 to 
+- 2812
+: 2833 4 0 Where 
+: 2840 3 0 am 
+* 2846 6 3 I 
+: 2859 3 0 go
+: 2864 3 -2 ing 
+: 2872 13 -4 to 
+E

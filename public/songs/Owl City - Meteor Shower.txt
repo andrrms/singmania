@@ -1,0 +1,77 @@
+#ARTIST:Owl City
+#TITLE:Meteor Shower
+#MP3:Owl City - Meteor Shower.mp3
+#CREATOR:aac
+#GENRE:Dance & Electronic
+#YEAR:2009
+#LANGUAGE:English
+#BPM:380
+#GAP:45370
+#VIDEO:a=TdQZaCPNw6M,co=ocean-eyes-64dd2e6dd20ac.jpg,bg=owl-city-4f14e8637ea49.jpg
+: 0 8 -2 I 
+: 12 8 -5 can 
+: 24 8 -3 final
+: 40 4 -7 ly 
+: 48 4 -7 see
+: 56 32 -5 ~ 
+- 90
+: 112 4 -5 That 
+: 120 4 -7 you’re 
+: 128 8 -10 right 
+: 140 8 -7 there 
+: 152 4 -3 be
+: 160 8 -5 side 
+* 176 40 -7 me 
+- 218
+: 256 8 2 I 
+: 268 8 5 am 
+* 280 8 7 not 
+: 292 8 5 my 
+* 304 40 0 own 
+- 346
+: 376 4 0 For 
+: 384 8 2 I 
+: 396 8 0 have 
+: 408 8 4 been 
+: 420 8 0 made 
+: 432 32 5 new 
+- 466
+: 512 8 2 Please 
+: 524 8 5 don’t 
+: 536 8 7 let 
+: 548 8 5 me 
+: 560 40 0 go 
+- 602
+: 632 4 0 I 
+: 640 8 2 des
+: 652 8 5 perate
+* 664 4 9 ly 
+: 672 8 7 need 
+* 688 48 5 you 
+- 738
+: 1408 8 2 I 
+: 1420 8 5 am 
+: 1432 8 7 not 
+: 1444 8 5 my 
+: 1456 40 0 own 
+- 1498
+: 1528 4 0 For 
+: 1536 8 2 I 
+: 1548 8 0 have 
+: 1560 8 4 been 
+: 1572 8 0 made 
+: 1584 32 5 new 
+- 1618
+: 1664 8 2 Please 
+: 1676 8 5 don’t 
+: 1688 8 7 let 
+* 1700 8 5 me 
+: 1712 40 0 go 
+- 1754
+: 1784 4 0 I 
+: 1792 8 2 des
+: 1804 8 5 perate
+: 1816 4 9 ly 
+: 1824 8 7 need 
+: 1840 48 5 you 
+E

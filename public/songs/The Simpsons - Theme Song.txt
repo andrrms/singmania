@@ -1,0 +1,14 @@
+#ARTIST:The Simpsons
+#TITLE:Theme Song
+#MP3:The Simpsons - Theme Song.mp3
+#CREATOR:Unknown
+#YEAR:1989
+#LANGUAGE:English
+#BPM:300
+#GAP:11230
+#VIDEO:v=aPzS3QYb868,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/be/42/a0be4278-073f-6414-ff00-4d499914b4cb/21UM1IM46989.rgb.jpg/5000x5000bb.jpg
+#START:9.0
+: 0 12 0 The 
+: 15 12 6 Simp
+: 28 30 7 sons 
+E

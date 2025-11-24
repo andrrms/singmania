@@ -1,0 +1,299 @@
+#ARTIST:Hooverphonic
+#TITLE:Heartbroken (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - Heartbroken (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - Heartbroken (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - Heartbroken (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:6450
+#VIDEO:v=AazC2TJuRNU,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 9 -2 Since 
+: 21 4 -5 you’ve 
+: 26 4 -3 been 
+: 34 9 -2 gone 
+: 54 3 -5 you’ 
+: 59 3 -3 would 
+: 65 8 -2 think 
+- 81
+: 84 6 -5 I 
+: 91 6 -3 feel 
+: 98 12 -2 lone
+: 111 4 -2 ly
+: 116 11 0 ~ 
+: 130 4 -7 cry
+: 136 6 -5 ~ 
+: 148 13 2 all 
+: 162 7 0 night 
+- 179
+: 195 11 -6 Lose 
+: 212 14 1 my 
+: 227 10 0 mind 
+- 247
+: 259 14 -2 I’m 
+: 281 4 -5 all 
+: 286 5 -3 a
+: 293 12 -2 lone 
+: 314 3 -5 and 
+: 318 4 -3 it 
+: 325 8 -2 feels 
+: 345 3 -5 like 
+: 349 4 -3 a 
+: 355 14 -2 bless
+: 372 7 0 ing 
+- 385
+: 387 6 -6 Well
+: 394 9 -5 ~ 
+: 407 7 2 does
+: 416 2 0 ~ 
+: 422 12 0 that 
+- 444
+: 454 1 3 Di
+: 456 7 5 ~
+: 464 1 3 ~s
+: 470 14 3 ap
+: 487 8 6 point
+: 496 5 5 ~ 
+: 503 5 5 you? 
+- 511
+* 513 2 -2 I 
+* 519 4 9 put 
+* 524 6 9 out 
+* 531 8 7 all 
+* 540 5 5 the 
+* 551 7 5 stops 
+- 569
+: 573 2 2 To 
+: 577 4 4 feel 
+: 584 6 5 sad 
+- 601
+: 605 3 2 To 
+: 610 2 4 miss 
+: 616 9 5 all 
+: 631 3 5 we
+: 635 6 7 ~
+: 642 4 4 ~ 
+: 648 10 4 had 
+- 667
+: 670 2 4 But 
+: 673 3 4 I’m 
+: 681 8 5 sor
+: 691 9 4 ry 
+- 706
+: 708 2 4 I 
+: 717 9 4 ain’t 
+: 728 2 3 hea
+: 731 11 4 ~rt
+: 746 9 9 bro
+: 756 3 7 ~
+: 764 7 7 ken, 
+: 773 4 7 I 
+: 780 3 9 put 
+: 784 4 9 out 
+: 789 8 7 all 
+: 799 4 5 the 
+: 811 6 5 stops 
+- 828
+: 832 4 2 To 
+: 837 4 4 re
+: 843 5 5 gret 
+: 865 4 4 all 
+: 870 2 5 the 
+: 878 11 10 fights 
+: 893 5 9 we
+: 901 8 4 ~ 
+: 910 9 4 had 
+- 931
+: 935 6 4 But 
+: 942 5 5 re
+: 948 5 4 al
+: 954 7 4 ly 
+: 968 2 4 I 
+: 972 13 4 ain’t 
+: 989 2 3 hea
+: 992 12 4 ~rt
+: 1005 9 9 bro
+: 1016 4 7 ~
+: 1022 27 7 ken 
+- 1069
+: 1100 10 -2 Hey 
+- 1121
+: 1125 3 -5 I 
+: 1131 4 -3 feel 
+: 1138 5 -2 great 
+- 1151
+: 1154 3 -5 I 
+: 1159 6 -3 feel 
+: 1167 13 -2 strong 
+: 1187 4 -5 does 
+: 1194 2 -3 it 
+: 1197 10 -2 re
+: 1209 6 -2 al
+: 1217 6 0 ly 
+: 1233 11 -5 seem 
+: 1250 7 2 so
+: 1258 6 0 ~ 
+: 1265 7 0 wrong 
+- 1282
+: 1297 4 -7 No
+: 1302 5 -6 ~t 
+: 1313 15 1 too 
+: 1331 13 0 long 
+- 1353
+: 1357 5 -2 For 
+: 1363 13 -3 you 
+: 1383 4 -5 and 
+: 1389 6 -3 the 
+: 1396 7 -2 way 
+: 1417 2 -5 you’ve 
+: 1421 2 -3 been 
+: 1427 5 -2 try
+: 1433 6 -2 ing 
+- 1446
+: 1449 3 -5 To 
+: 1453 2 -3 con
+: 1459 15 -2 trol 
+: 1476 8 0 me, 
+: 1486 3 -7 well 
+: 1491 14 -5 you 
+: 1509 7 2 know
+: 1517 5 0 ~ 
+: 1523 6 0 what 
+- 1539
+: 1551 2 2 Those 
+: 1557 9 5 days
+: 1567 3 3 ~ 
+: 1573 10 3 are 
+: 1587 3 3 o
+: 1591 5 6 ~
+: 1598 5 5 ~
+: 1605 4 5 ver 
+- 1613
+* 1615 2 -2 I 
+* 1619 6 9 put 
+* 1626 6 9 out 
+* 1633 8 7 all 
+* 1642 5 5 the 
+* 1653 7 5 stops 
+- 1672
+: 1676 1 2 To 
+: 1679 4 4 feel 
+: 1686 6 5 sad 
+- 1703
+: 1707 3 2 To 
+: 1712 2 4 miss 
+: 1718 8 5 all 
+: 1732 4 5 we
+: 1737 6 7 ~
+: 1744 4 4 ~ 
+: 1750 10 4 had 
+- 1766
+: 1769 2 4 But 
+: 1772 3 4 I’m 
+: 1779 13 5 sor
+: 1794 8 4 ry 
+- 1805
+: 1807 2 4 I 
+: 1816 9 4 ain’t 
+: 1827 2 3 hea
+: 1830 11 4 ~rt
+: 1845 9 9 bro
+: 1855 3 7 ~
+: 1863 7 7 ken, 
+: 1872 4 7 I 
+: 1879 3 9 put 
+: 1883 4 9 out 
+: 1888 8 7 all 
+: 1898 4 5 the 
+: 1910 6 5 stops 
+- 1926
+: 1935 4 2 To 
+: 1940 4 4 re
+: 1946 5 5 gret 
+: 1968 4 4 all 
+: 1973 2 5 the 
+: 1981 11 10 fights 
+: 1996 5 9 we
+: 2004 9 4 ~ 
+: 2014 10 4 had 
+- 2033
+: 2037 6 4 But 
+: 2044 5 5 re
+: 2050 5 4 al
+: 2056 8 4 ly 
+: 2070 8 4 I 
+: 2079 9 4 ain’t 
+: 2092 1 3 hea
+: 2094 12 4 ~rt
+: 2107 13 9 bro
+: 2124 15 7 ken
+: 2141 22 5 ~ 
+- 2173
+: 2199 2 5 I 
+: 2205 6 9 ain’t
+: 2212 6 7 ~ 
+: 2221 13 7 heart
+: 2238 7 10 bro
+: 2248 42 9 ~ken 
+- 2300
+: 2329 3 5 I 
+: 2336 9 9 ain’t 
+: 2351 15 7 heart 
+: 2367 15 4 bro
+: 2385 1 4 ke
+: 2387 12 5 ~n 
+- 2439
+* 2589 3 5 I 
+* 2597 6 9 ain’t
+* 2604 3 7 ~ 
+* 2610 13 7 heart
+* 2626 9 10 bro
+* 2637 26 9 ~ken 
+- 2703
+: 2810 2 4 But 
+: 2813 3 4 I’m 
+: 2820 10 5 sor
+: 2832 8 4 ry 
+- 2846
+: 2848 2 4 I 
+: 2857 9 4 ain’t 
+: 2868 2 3 hea
+: 2871 11 4 ~rt
+: 2886 9 9 bro
+: 2896 3 7 ~
+: 2904 7 7 ken, 
+: 2913 4 7 I 
+: 2920 3 9 put 
+: 2924 4 9 out 
+: 2929 8 7 all 
+: 2939 4 5 the 
+: 2951 6 5 stops 
+- 2968
+: 2972 4 2 To 
+: 2977 4 4 re
+: 2983 5 5 gret 
+: 3005 4 4 all 
+: 3010 2 5 the 
+: 3018 11 10 fights 
+: 3033 5 9 we
+: 3041 8 4 ~ 
+: 3050 10 4 had 
+- 3070
+: 3074 3 4 But 
+: 3079 7 5 re
+: 3087 6 4 al
+: 3094 8 4 ly 
+: 3107 4 4 I 
+: 3113 12 4 ain’t 
+: 3129 1 3 hea
+: 3131 12 4 ~rt
+: 3144 14 9 bro
+: 3161 10 7 ken 
+- 3175
+: 3177 10 9 Some
+: 3189 7 7 times 
+: 3199 2 5 you 
+: 3203 4 5 should 
+: 3209 9 5 stop 
+E

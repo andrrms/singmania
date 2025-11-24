@@ -1,0 +1,504 @@
+#ARTIST:Steven Curtis Chapman
+#TITLE:The Great Adventure
+#MP3:Steven Curtis Chapman - The Great Adventure.mp3
+#CREATOR:UltraSinger, mindtakerr
+#COVER:Steven Curtis Chapman - The Great Adventure [CO].jpg
+#BACKGROUND:Steven Curtis Chapman - The Great Adventure [BG].jpg
+#GENRE:Contemporary Christian, Christian
+#YEAR:1992
+#LANGUAGE:English
+#BPM:377.29
+#GAP:530
+#VIDEO:v=hVFPjIp6nkk,co=https://m.media-amazon.com/images/I/51VzOlpBp0L.jpg,bg=https://www.billboard.com/wp-content/uploads/2022/10/Steven-Curtis-Chapman-2022-cr-micah-kandros-billboard-1548.jpg,tags=skydaddy
+* 0 2 7 Sad
+* 3 5 11 dle 
+* 14 6 7 up 
+* 22 10 2 your 
+* 33 17 2 hor
+* 51 25 6 ses! 
+- 126
+: 428 5 2 Star
+: 434 6 2 ted 
+: 444 2 9 out 
+: 450 3 7 this 
+: 460 6 7 mor
+: 467 6 7 ning 
+- 483
+: 500 2 6 In 
+: 503 2 2 the 
+: 508 5 9 u
+: 514 3 9 su
+: 518 4 6 al 
+: 524 12 9 way 
+- 546
+: 579 1 2 Cha
+: 581 2 2 sing 
+: 590 5 2 thoughts 
+: 599 8 2 in
+: 608 9 2 side 
+: 623 8 7 my 
+: 634 8 7 head 
+- 652
+: 667 2 1 Of 
+: 674 4 6 all 
+: 679 2 6 I 
+: 683 8 7 had 
+: 694 1 9 to 
+: 698 10 7 do 
+: 709 6 6 to
+: 716 7 9 day 
+- 733
+: 759 3 6 A
+: 763 1 9 no
+: 765 2 9 ther 
+: 770 10 11 time 
+: 782 8 9 a
+: 791 8 9 round 
+: 802 2 9 the 
+: 808 6 9 cir
+: 815 7 11 cle 
+- 832
+: 840 5 9 Try 
+: 846 3 9 to 
+: 851 9 11 make 
+: 864 2 11 it 
+: 867 4 11 bet
+: 872 4 9 ter 
+: 878 8 9 than 
+: 889 5 2 the 
+: 895 16 11 last 
+- 921
+: 947 3 1 I 
+: 952 4 2 o
+: 957 5 2 pened 
+: 964 8 2 up 
+: 975 5 6 the 
+: 981 8 7 Bi
+: 991 7 7 ble 
+- 1008
+: 1016 3 7 And 
+: 1020 3 7 I 
+: 1024 4 7 read 
+: 1030 2 2 a
+: 1035 8 9 bout 
+: 1046 23 9 me 
+- 1094
+: 1121 3 11 Said 
+: 1126 4 2 I’ve 
+: 1132 13 2 been 
+: 1148 4 9 a 
+: 1154 5 11 pri
+: 1160 3 2 so
+: 1164 4 2 ner 
+- 1178
+: 1187 4 7 And 
+: 1192 8 7 God’s 
+: 1203 7 9 grace 
+: 1213 3 4 had 
+: 1219 5 9 set 
+: 1225 3 4 me 
+: 1229 22 4 free 
+- 1261
+: 1279 5 9 And 
+: 1285 7 11 some
+: 1293 8 11 where 
+: 1304 7 9 be
+: 1312 8 9 tween 
+: 1322 5 9 the 
+: 1328 10 9 pa
+: 1339 11 11 ges 
+- 1360
+: 1367 3 11 It 
+: 1371 8 11 hit 
+: 1382 5 11 me 
+: 1388 4 11 like 
+: 1396 1 9 a 
+: 1399 11 9 light
+: 1411 12 2 ning 
+: 1431 5 11 bolt 
+- 1444
+: 1447 4 2 I 
+: 1453 3 9 saw 
+: 1458 2 9 a 
+: 1462 9 11 big 
+: 1474 6 7 fron
+: 1484 8 2 tier 
+: 1495 4 2 in 
+: 1501 2 4 front 
+: 1506 2 2 of 
+: 1511 17 2 me 
+- 1534
+: 1537 4 6 And 
+: 1542 2 9 I 
+: 1546 7 11 heard 
+: 1557 3 2 some
+: 1561 3 2 bo
+: 1565 4 11 dy 
+: 1572 10 2 say 
+- 1592
+* 1599 7 4 Let’s 
+* 1608 30 4 go! 
+- 1642
+: 1644 6 1 Sad
+: 1651 7 2 dle 
+: 1661 6 2 up 
+: 1670 9 6 your 
+: 1681 13 6 hor
+: 1696 30 2 ses! 
+- 1728
+: 1730 4 2 We’ve 
+: 1736 6 2 got 
+: 1743 1 7 a 
+: 1746 6 2 trail 
+: 1759 2 9 to 
+: 1762 18 9 blaze 
+- 1790
+: 1822 5 2 Through 
+: 1828 3 2 the 
+: 1833 8 2 wild 
+: 1843 9 6 blue 
+: 1854 15 6 yon
+: 1870 15 4 der 
+- 1885
+: 1886 5 2 Of 
+: 1892 14 2 God’s 
+: 1909 8 2 a
+: 1918 6 2 ma
+: 1925 7 2 zing 
+: 1935 42 4 grace 
+- 1987
+: 1994 8 9 Let’s 
+: 2005 5 2 fol
+: 2011 6 4 low 
+: 2018 8 6 our 
+: 2028 6 6 Le
+: 2035 7 6 a
+: 2044 10 4 der 
+: 2055 9 6 in
+: 2065 10 2 to 
+: 2077 3 2 the 
+: 2081 6 7 glo
+: 2088 5 2 ri
+: 2094 6 2 ous 
+: 2103 8 9 un
+: 2112 9 11 known 
+- 2146
+: 2173 8 11 This 
+: 2184 10 1 is 
+: 2196 3 11 the 
+: 2201 13 11 life 
+: 2217 10 1 like 
+: 2229 7 7 no 
+: 2238 16 2 o
+: 2255 16 2 ther 
+: 2275 17 6 whoa 
+: 2295 22 4 whoa 
+- 2323
+* 2326 8 7 This 
+* 2337 7 6 is 
+* 2348 3 2 the 
+* 2353 8 4 great 
+* 2365 4 4 ad
+* 2371 6 4 ven
+* 2379 35 2 ture! 
+- 2439
+: 2467 49 2 Yeah 
+- 2526
+: 2559 5 6 Come 
+: 2571 3 2 on 
+: 2577 5 2 get 
+: 2587 6 2 read
+: 2594 6 2 y 
+- 2610
+: 2620 4 7 For 
+: 2627 2 6 the 
+: 2631 10 7 ride 
+: 2643 2 2 of 
+: 2646 8 9 your 
+: 2656 27 9 life 
+- 2693
+: 2706 4 9 Gon
+: 2711 4 1 na 
+: 2717 9 2 leave 
+: 2728 5 2 long-
+: 2739 5 2 faced 
+: 2748 9 6 re
+: 2759 13 2 lig
+: 2773 13 2 ion 
+- 2796
+: 2804 2 7 In 
+: 2807 1 4 a 
+: 2810 8 11 cloud 
+: 2820 2 4 of 
+: 2825 7 4 dust 
+: 2833 9 11 be
+: 2843 9 4 hind 
+- 2862
+: 2880 5 9 And 
+: 2886 7 9 dis
+: 2894 5 11 co
+: 2900 6 11 ver 
+: 2907 3 11 all 
+: 2912 4 9 the 
+: 2918 9 9 new 
+: 2929 6 9 ho
+: 2936 6 9 ri
+: 2943 7 11 zons 
+- 2960
+: 2971 5 11 Just 
+: 2977 9 11 wai
+: 2987 9 2 ting 
+: 2998 4 2 to 
+: 3004 7 4 be 
+: 3015 5 6 ex
+: 3022 24 4 plored 
+- 3056
+* 3065 5 11 This 
+* 3080 2 2 is 
+* 3086 5 2 what 
+* 3097 9 9 we 
+* 3109 12 6 were 
+* 3125 6 6 cre
+* 3132 6 2 a
+* 3139 7 2 ted 
+* 3151 29 4 for! 
+- 3181
+: 3183 18 6 Yeah 
+- 3205
+: 3207 6 7 Sad
+: 3214 6 11 dle 
+: 3223 6 2 up 
+: 3233 8 6 your 
+: 3243 12 6 hor
+: 3259 28 2 ses! 
+- 3292
+: 3294 3 2 We’ve 
+: 3299 6 2 got 
+: 3306 1 9 a 
+: 3309 7 2 trail 
+: 3321 3 9 to 
+: 3326 12 9 blaze 
+- 3348
+: 3384 5 2 Through 
+: 3390 4 2 the 
+: 3395 10 2 wild 
+: 3406 8 6 blue 
+: 3415 16 6 yon
+: 3432 16 4 der 
+: 3449 4 2 of 
+: 3454 13 2 God’s 
+: 3470 5 11 a
+: 3478 5 2 ma
+: 3487 6 2 zing 
+: 3496 39 4 grace 
+- 3545
+: 3557 9 2 Let’s 
+: 3569 4 2 fol
+: 3574 5 4 low 
+: 3581 8 6 our 
+: 3591 13 6 lea
+: 3605 13 4 der 
+: 3619 9 6 in
+: 3629 9 2 to 
+: 3640 6 2 the 
+: 3647 4 2 glo
+: 3652 4 2 ri
+: 3657 5 2 ous 
+: 3666 11 9 un
+: 3678 11 11 known 
+- 3714
+: 3740 7 6 This 
+: 3748 9 6 is 
+: 3759 4 11 the 
+: 3765 11 11 life 
+: 3779 10 1 like 
+: 3791 8 7 no 
+: 3802 15 2 o
+: 3822 13 2 ther 
+: 3839 16 6 whoa 
+: 3860 20 4 whoa 
+- 3887
+: 3890 6 11 This 
+: 3899 9 6 is 
+: 3912 3 2 the 
+: 3917 10 4 great 
+: 3928 3 4 ad
+: 3933 7 6 ven
+: 3942 16 2 ture! 
+- 3968
+: 3982 13 11 We’ll 
+: 3998 9 1 tra
+: 4008 9 2 vel 
+: 4020 13 4 o
+: 4034 13 11 ver 
+: 4056 9 11 o
+: 4066 9 4 ver 
+: 4078 12 6 moun
+: 4091 13 4 tains 
+: 4106 10 2 so 
+: 4118 32 1 high 
+- 4159
+: 4163 17 1 We’ll 
+: 4181 8 11 go 
+: 4190 5 9 through 
+: 4196 14 11 val
+: 4211 14 9 leys 
+: 4228 7 9 be
+: 4237 22 9 low 
+- 4284
+: 4328 14 11 Still 
+: 4345 9 1 through 
+: 4357 7 2 it 
+: 4367 19 2 all 
+- 4391
+: 4393 19 6 We’ll 
+: 4416 16 4 find 
+: 4437 9 2 that 
+- 4450
+: 4452 9 2 This 
+: 4462 9 2 is 
+: 4474 4 2 the 
+: 4480 7 1 grea
+: 4488 8 1 test 
+: 4498 8 9 jour
+: 4508 9 9 ney 
+- 4526
+: 4529 3 7 That 
+: 4535 3 9 the 
+: 4540 6 11 hu
+: 4547 6 11 man 
+: 4555 7 2 heart 
+: 4563 5 2 will 
+: 4569 11 4 e
+: 4581 12 6 ver 
+: 4595 26 4 see 
+- 4630
+: 4633 3 11 The 
+: 4637 7 11 love 
+: 4645 2 2 of 
+: 4649 8 2 God 
+: 4660 8 6 will 
+: 4670 15 6 take 
+: 4688 1 4 us 
+: 4692 5 4 far 
+- 4707
+* 4718 4 6 Be
+* 4723 5 6 yond 
+* 4729 7 4 our 
+* 4740 6 4 wil
+* 4747 7 7 dest 
+* 4757 41 7 dreams 
+- 4803
+: 4805 79 2 Yeah! 
+- 4909
+: 4944 15 2 Oh 
+: 4964 1 2 sad
+: 4966 2 2 dle 
+: 4979 4 2 up 
+: 4987 8 6 your 
+: 4998 8 2 hor
+: 5007 8 2 ses 
+- 5025
+: 5034 6 6 Come 
+: 5043 6 6 on 
+: 5053 5 2 get 
+: 5059 6 2 read
+: 5066 7 2 y 
+: 5074 5 2 to 
+: 5080 13 6 ride
+: 5094 13 7 ~ 
+- 5116
+: 5119 4 7 Sad
+: 5124 4 2 dle 
+: 5133 2 2 up 
+: 5139 11 6 your 
+: 5153 15 6 hor
+: 5170 28 2 ses! 
+- 5200
+: 5202 4 2 We’ve 
+: 5208 4 2 got 
+: 5214 4 2 a 
+: 5219 9 2 trail 
+: 5230 4 9 to 
+: 5235 16 9 blaze 
+- 5261
+: 5292 5 7 Through 
+: 5299 4 2 the 
+: 5305 7 2 wild 
+: 5315 6 6 blue 
+: 5325 16 6 yon
+: 5342 16 4 der 
+: 5360 3 2 of 
+: 5365 13 2 God’s 
+: 5380 5 2 a
+: 5386 19 7 ma
+: 5408 9 6 zing 
+: 5418 35 4 grace 
+- 5463
+: 5467 5 2 Let’s 
+: 5477 5 2 fol
+: 5483 5 4 low 
+: 5494 4 6 our 
+: 5500 12 6 Lea
+: 5513 12 6 der 
+: 5527 7 6 in
+: 5537 9 2 to 
+: 5548 4 2 the 
+: 5553 6 2 glo
+: 5560 5 2 ri
+: 5566 6 2 ous 
+: 5576 11 9 un
+: 5588 11 11 known 
+- 5609
+: 5648 8 6 This 
+: 5658 7 6 is 
+: 5669 3 11 the 
+: 5675 12 11 life 
+: 5690 7 11 like 
+: 5701 7 1 no 
+: 5711 20 2 o
+: 5733 12 2 ther 
+- 5747
+* 5749 16 6 This 
+* 5769 2 4 is 
+* 5773 3 4 the 
+* 5780 11 2 great 
+* 5793 8 4 ad
+* 5802 9 7 ven
+* 5812 48 7 ture 
+- 5910
+: 5968 4 6 Come 
+: 5974 7 7 on 
+: 5984 3 11 this 
+: 5989 3 7 is 
+: 5995 2 2 the 
+: 6000 8 7 great 
+: 6011 4 6 ad
+: 6017 6 6 ven
+: 6026 30 2 ture 
+- 6081
+: 6123 4 9 Sad
+: 6128 5 6 dle 
+: 6139 6 6 up 
+- 6155
+: 6159 5 7 Sad
+: 6165 6 7 dle 
+: 6174 8 7 up 
+: 6185 9 9 your 
+: 6196 16 6 hor
+: 6213 58 2 ses 
+- 6281
+: 6320 8 2 We 
+: 6331 3 2 got 
+: 6336 4 11 a 
+: 6342 7 2 trail 
+: 6352 8 6 to 
+: 6363 20 6 blaze 
+- 6392
+: 6395 7 6 Through 
+: 6405 16 7 God’s 
+: 6424 3 7 a
+: 6430 19 6 ma
+: 6451 7 2 zing 
+: 6460 52 2 grace 
+E

@@ -1,0 +1,211 @@
+#ARTIST:The Bates
+#TITLE:Goldfinger
+#MP3:The Bates - Goldfinger.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:1990
+#LANGUAGE:English
+#BPM:265.88
+#GAP:17200
+#VIDEO:a=7ZLD_S-nETc,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/00/ee/1600ee3b-b01a-f8aa-596d-24c1eee4b63d/00724384048358.jpg/5000x5000bb.jpg,bg=https://www.hna.de/bilder/2017/05/23/8346472/1437159467-so-ging-es-los-the-bates-von-links-mit-armin-beck-sologitarre-markus-zimbl-zimmer-bass-und-gesang-frank-klube-klubescheid-s-2Rea.jpg
+: 0 8 4 Gold
+: 13 4 11 fin
+: 21 14 9 ger 
+- 37
+: 78 3 11 He’s 
+: 83 1 8 the 
+: 86 7 9 man, 
+- 95
+: 100 2 4 The 
+: 104 6 6 man 
+: 112 2 6 with 
+: 116 2 6 the 
+: 121 7 14 Mi
+: 130 2 13 das 
+: 135 4 12 touch 
+- 141
+: 181 3 11 A 
+: 190 6 11 spi
+: 199 4 7 der’s 
+: 208 5 11 touch 
+- 215
+: 260 5 6 Such 
+: 269 5 6 a 
+: 277 9 4 cold 
+: 290 4 11 fin
+: 298 10 9 ger 
+- 310
+: 355 2 11 Be
+: 358 2 7 ckons 
+: 363 6 9 you 
+- 371
+: 377 2 4 To 
+: 381 4 6 en
+: 387 3 6 ter 
+: 393 3 6 his 
+* 399 4 14 web 
+: 405 3 13 of 
+: 412 6 12 sin 
+- 420
+: 458 3 12 But 
+: 467 5 12 don’t 
+: 476 6 12 go 
+: 485 10 13 in 
+- 497
+: 541 6 15 Gol
+: 549 3 13 den 
+: 554 4 11 words 
+: 561 2 11 he 
+: 565 2 8 will 
+: 570 4 11 pour 
+: 577 2 11 in 
+: 582 2 13 your 
+: 587 11 15 ear 
+- 600
+: 614 1 15 But 
+: 616 2 13 his 
+: 619 4 11 life 
+: 625 3 11 can’t 
+: 630 2 8 dis
+: 635 4 11 guise 
+: 641 3 11 what 
+: 646 3 15 you 
+* 651 13 18 feel 
+- 666
+: 679 1 16 For 
+: 681 2 16 a 
+: 684 6 15 gol
+: 692 2 15 den 
+: 697 8 15 girl 
+- 707
+: 716 4 16 Knows 
+: 723 3 15 when 
+: 727 2 13 he’s 
+: 733 2 11 kissed 
+: 739 6 8 her 
+- 747
+: 756 3 11 It’s 
+: 762 2 11 the 
+: 765 4 10 kiss 
+: 774 3 8 of 
+: 783 5 16 death 
+- 790
+: 797 2 11 From 
+: 801 3 10 Mis
+: 809 4 6 ter 
+: 817 8 4 Gold
+: 830 4 11 fin
+: 839 11 9 ger 
+- 852
+: 894 1 11 Pret
+: 896 1 8 ty 
+: 899 7 9 girl, 
+- 908
+: 915 2 4 Be
+: 919 4 6 ware 
+: 925 4 6 of 
+: 931 2 6 his 
+* 936 4 14 heart 
+: 942 3 13 of 
+: 948 8 12 gold 
+- 958
+: 995 3 12 This 
+: 1004 5 12 heart 
+: 1012 3 12 is 
+: 1021 25 13 cold 
+- 1048
+: 1077 5 15 Gol
+: 1085 2 13 den 
+: 1090 4 11 words 
+: 1097 2 11 he 
+: 1101 2 8 will 
+: 1106 4 11 pour 
+: 1112 2 11 in 
+: 1117 2 13 your 
+: 1122 11 15 ear 
+- 1135
+: 1149 1 15 But 
+: 1151 2 13 his 
+: 1154 4 11 life 
+: 1160 3 11 can’t 
+: 1166 2 8 dis
+: 1171 4 11 guise 
+: 1177 3 11 what 
+: 1182 2 15 you 
+* 1187 11 18 feel 
+- 1200
+: 1214 1 16 For 
+: 1216 1 16 a 
+: 1220 4 15 gol
+: 1226 3 16 den 
+: 1232 8 15 girl 
+- 1242
+: 1252 3 16 Knows 
+: 1258 2 15 when 
+: 1262 2 13 he’s 
+: 1268 3 11 kissed 
+: 1275 5 8 her 
+- 1282
+: 1292 2 11 It’s 
+: 1297 2 11 the 
+: 1301 4 10 kiss 
+: 1309 4 8 of 
+* 1318 5 16 death 
+- 1325
+: 1332 3 11 From 
+: 1337 3 10 Mis
+: 1345 4 6 ter 
+: 1353 8 4 Gold
+: 1366 4 11 fin
+: 1374 11 9 ger 
+- 1387
+: 1431 1 11 Pret
+: 1433 1 8 ty 
+: 1436 7 9 girl, 
+- 1445
+: 1452 2 4 Be
+: 1456 4 6 ware 
+: 1463 3 6 of 
+: 1468 2 6 this 
+: 1473 4 14 heart 
+: 1479 3 13 of 
+: 1486 7 12 gold 
+- 1495
+: 1533 3 12 This 
+: 1542 6 12 heart 
+: 1551 3 12 is 
+: 1559 25 13 cold 
+- 1586
+: 1602 3 13 He 
+: 1607 5 16 loves 
+: 1615 4 15 on
+: 1623 3 11 ly 
+* 1628 29 13 gold 
+- 1659
+: 1679 6 16 On
+: 1687 3 11 ~
+: 1692 2 11 ly 
+* 1696 38 13 gold 
+- 1736
+: 1745 2 16 He 
+* 1749 10 18 lo
+: 1761 4 13 ~ves 
+: 1770 23 13 gold 
+- 1795
+: 1802 2 13 He 
+: 1806 5 16 loves 
+: 1813 5 15 on
+: 1821 2 11 ly 
+: 1826 29 13 gold 
+- 1857
+: 1874 6 16 On
+: 1885 3 11 ly 
+: 1890 36 13 gold 
+- 1928
+: 1938 2 16 He 
+: 1942 7 18 loves 
+* 1954 52 20 go
+: 2009 5 16 ~
+: 2017 49 13 ~ld, 
+: 2071 5 20 ya! 
+E

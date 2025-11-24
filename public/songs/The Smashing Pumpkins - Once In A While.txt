@@ -1,0 +1,226 @@
+#ARTIST:The Smashing Pumpkins
+#TITLE:Once In A While
+#MP3:The Smashing Pumpkins - Once In A While.mp3
+#CREATOR:bohning, lily
+#COVER:The Smashing Pumpkins - Once In A While [CO].jpg
+#BACKGROUND:The Smashing Pumpkins - Once In A While [BG].jpg
+#GENRE:Alternative Rock
+#YEAR:1998
+#LANGUAGE:English
+#BPM:242
+#GAP:26220
+#VIDEO:a=lWCw43Mdgw8,co=ava-adore-5e5d16b65988d.jpg,bg=smashing-pumpkins-the-656caaeecb6f5.jpg,preview=49.71,medley=641-1587
+: 0 10 7 Hor
+: 12 13 2 ses 
+: 30 11 9 run 
+- 43
+: 50 4 11 Once 
+: 56 2 9 in 
+: 60 2 7 a 
+: 64 3 7 whi
+: 68 20 4 ~le 
+: 92 2 2 for 
+: 96 11 2 you 
+- 109
+: 128 2 2 The 
+: 132 14 7 shades 
+: 148 12 2 will 
+: 162 8 9 dra
+: 171 5 7 ~w 
+- 178
+: 184 3 11 Once 
+: 189 2 9 in 
+: 193 2 7 a 
+: 197 2 7 whi
+: 201 19 4 ~le 
+: 225 2 2 for 
+: 230 9 2 you 
+- 241
+: 266 10 7 Des
+: 278 6 2 ti
+: 286 7 2 ny 
+: 295 7 9 wi
+: 303 6 7 ~ll 
+: 311 9 7 hide 
+: 322 2 2 the 
+: 326 14 11 sense 
+: 344 6 11 of 
+: 352 4 9 your 
+: 358 10 9 time 
+- 370
+: 380 3 11 Once 
+: 385 2 9 in 
+: 389 2 7 a 
+: 393 2 7 whi
+: 397 17 9 ~le 
+- 416
+: 430 2 9 Once 
+: 434 1 9 in 
+: 437 2 9 a 
+: 441 3 9 whi
+: 446 5 7 ~le 
+: 453 3 6 for 
+: 458 9 7 you 
+- 469
+: 511 2 11 Once 
+: 515 2 9 in 
+: 519 2 7 a 
+: 523 2 7 whi
+: 527 17 9 ~
+: 546 3 7 ~le 
+: 551 2 7 for 
+: 555 7 7 you 
+- 564
+: 641 2 11 Once 
+: 645 2 9 in 
+: 649 2 7 a 
+: 653 2 7 whi
+: 657 17 9 ~
+: 676 3 7 ~le 
+: 681 2 6 for 
+: 685 7 7 you 
+- 694
+: 717 2 2 The 
+: 721 10 7 sol
+: 733 6 2 diers 
+: 741 5 2 will 
+: 748 11 9 fall 
+- 761
+: 770 2 11 Once 
+: 774 2 9 in 
+: 778 2 7 a 
+: 782 2 7 whi
+: 786 17 9 ~
+: 805 3 7 ~le 
+: 810 2 7 for 
+: 814 7 7 you 
+- 823
+: 844 2 2 The 
+: 848 12 7 shades 
+: 862 11 2 will 
+: 876 14 9 crawl 
+- 892
+: 898 2 11 Once 
+: 902 2 9 in 
+: 906 2 7 a 
+: 910 2 7 whi
+: 914 17 9 ~
+: 933 3 7 ~le 
+: 937 2 7 for 
+: 941 7 7 you 
+- 950
+: 980 6 7 You’ll 
+: 988 10 2 take 
+: 1000 2 2 the 
+: 1004 6 9 wa
+: 1012 6 7 ~lls 
+- 1020
+: 1025 5 7 I 
+: 1032 2 2 will 
+: 1036 13 11 take 
+: 1051 7 11 the 
+: 1061 5 9 new 
+: 1067 6 9 ring 
+- 1075
+: 1089 3 11 Once 
+: 1094 2 9 in 
+: 1098 2 7 a 
+: 1102 21 9 while 
+- 1125
+: 1135 5 9 Once 
+: 1142 1 9 in 
+: 1144 1 9 a 
+: 1147 4 9 whi
+: 1153 3 7 ~le 
+: 1158 3 7 it’s 
+: 1163 11 11 you
+: 1176 4 7 ~ 
+- 1182
+: 1216 3 11 Once 
+: 1221 1 9 in 
+: 1224 2 7 a 
+: 1228 2 7 whi
+: 1232 17 9 ~
+: 1251 3 7 ~le 
+: 1256 2 7 it’s 
+: 1260 10 7 you 
+- 1272
+: 1342 4 11 Once 
+: 1348 2 9 in 
+: 1351 2 7 a 
+: 1354 2 7 whi
+: 1358 42 9 ~le 
+- 1402
+: 1411 5 7 You’ll 
+: 1418 6 11 make 
+: 1426 6 9 it 
+: 1434 6 11 on 
+: 1442 2 9 you
+: 1445 2 7 ~r 
+: 1448 9 7 own 
+- 1459
+: 1476 2 7 You’ll 
+: 1480 6 11 make 
+: 1488 3 9 it 
+: 1493 9 11 so 
+: 1505 2 9 a
+: 1508 2 7 ~
+: 1512 17 7 lone 
+- 1531
+: 1548 5 6 Feel 
+: 1557 7 6 so 
+: 1568 5 7 a
+: 1574 13 4 lone 
+- 1589
+: 1901 7 7 You’ll 
+: 1911 10 2 try 
+: 1923 1 2 to 
+: 1926 10 9 care 
+- 1938
+: 1946 3 11 Once 
+: 1951 3 9 in 
+: 1956 1 7 a 
+: 1959 4 7 whi
+: 1964 21 4 ~le 
+: 1988 2 2 for 
+: 1994 7 2 me 
+- 2003
+: 2023 2 2 And 
+: 2027 10 7 I 
+: 2039 7 2 will 
+: 2048 5 2 be 
+: 2055 10 9 there 
+- 2067
+: 2075 3 11 Once 
+: 2080 2 9 in 
+: 2084 1 7 a 
+: 2087 2 7 whi
+: 2091 22 9 ~le 
+- 2115
+: 2121 5 9 Once 
+: 2128 1 9 in 
+: 2130 2 9 a 
+: 2134 3 9 whi
+: 2139 5 7 ~le 
+: 2146 1 7 for 
+: 2149 30 11 you
+: 2180 19 9 ~ 
+- 2200
+: 2201 3 11 Once 
+: 2206 2 9 in 
+: 2210 1 7 a 
+: 2213 2 7 whi
+: 2217 18 9 ~
+: 2237 3 7 ~le 
+: 2242 2 7 for 
+: 2246 10 7 you 
+- 2258
+: 2327 3 11 Once 
+: 2332 2 9 in 
+: 2336 1 7 a 
+: 2339 2 7 whi
+: 2343 19 9 ~
+: 2364 2 7 ~le 
+: 2368 2 7 for 
+: 2372 10 7 you 
+E

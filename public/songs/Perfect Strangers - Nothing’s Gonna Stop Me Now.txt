@@ -1,0 +1,140 @@
+#ARTIST:Perfect Strangers
+#TITLE:Nothing’s Gonna Stop Me Now
+#MP3:Perfect Strangers - Nothing’s Gonna Stop Me Now.mp3
+#CREATOR:Supau
+#COVER:Perfect Strangers - Nothing’s Gonna Stop Me Now [CO].jpg
+#BACKGROUND:Perfect Strangers - Nothing’s Gonna Stop Me Now [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1984
+#LANGUAGE:English
+#BPM:286.28
+#GAP:12200
+#VIDEO:v=aPyc7dH28KE,co=https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/74/1d/36/741d3681-a61f-53b3-891e-f727eca147b3/mzl.zghvwvmx.jpg/5000x5000bb.jpg
+: 0 4 7 Some
+: 8 6 12 times 
+: 17 2 7 the 
+: 21 3 7 world 
+: 26 2 14 looks 
+: 34 2 14 per
+: 42 6 7 fect, 
+- 58
+: 69 2 5 No
+: 73 2 4 thing 
+: 78 1 2 to 
+: 82 1 0 re
+: 86 1 0 ar
+: 90 12 2 range. 
+- 113
+: 117 2 12 Some
+: 122 4 12 times 
+: 129 2 12 you 
+: 134 14 7 just 
+: 152 2 17 get 
+: 157 2 16 a 
+: 161 2 14 feel
+: 165 7 12 ing 
+- 173
+: 175 1 12 Like 
+: 179 2 14 you 
+: 183 8 16 need 
+: 194 3 12 some 
+: 200 3 14 kind 
+: 206 2 16 of 
+: 212 25 14 change. 
+- 247
+: 258 2 12 No 
+: 262 2 12 mat
+: 266 1 12 ter 
+: 270 2 12 what 
+: 274 1 12 the 
+: 278 6 14 odds 
+: 287 4 14 are 
+: 295 4 14 this 
+: 303 13 19 time, 
+- 323
+: 326 1 19 No
+: 331 2 19 thing’s 
+: 335 1 19 going 
+: 339 2 19 to 
+: 344 5 19 stand 
+: 351 2 17 in 
+: 356 2 16 my 
+: 360 2 12 way. 
+- 369
+: 372 1 12 This 
+: 376 3 12 flame 
+: 382 2 12 in 
+: 387 1 12 my 
+: 392 8 12 heart, 
+- 402
+: 404 1 12 Like 
+: 407 1 12 a 
+: 410 2 12 long 
+: 418 2 12 lost 
+: 425 3 12 friend 
+- 433
+: 435 1 12 Gives 
+: 440 1 16 eve
+: 444 1 19 ry 
+: 448 2 19 dark 
+: 456 2 19 street 
+: 464 1 17 a 
+: 468 5 21 light 
+: 476 1 19 at 
+: 480 1 16 the 
+: 484 17 19 end. 
+- 511
+: 535 11 12 Stand
+: 548 8 7 ing 
+* 559 24 19 tall, 
+: 591 2 16 on 
+: 596 2 17 the 
+: 601 9 19 wings 
+: 613 3 17 of 
+: 621 3 16 my 
+: 629 28 14 dream. 
+- 663
+: 665 9 12 Rise 
+: 677 5 7 and 
+* 688 25 19 fall, 
+: 718 3 16 on 
+: 724 2 17 the 
+: 730 10 19 wings 
+: 743 3 17 of 
+: 751 3 16 my 
+: 759 23 14 dream. 
+- 789
+: 792 2 14 The 
+: 795 5 14 rain 
+: 804 2 12 and 
+: 808 3 14 thun
+: 814 4 14 der 
+- 822
+: 824 2 12 The 
+: 828 4 14 wind 
+: 835 1 12 and 
+: 839 8 16 haze 
+- 849
+: 851 1 14 I’m 
+: 859 12 15 bound 
+: 872 3 12 for 
+: 876 2 14 bet
+: 879 2 16 ter 
+: 883 19 12 days. 
+- 914
+: 918 1 7 It’s 
+: 922 9 15 my 
+: 935 3 16 life 
+: 951 1 12 and 
+: 956 1 19 my 
+: 967 2 16 dream, 
+- 978
+: 982 1 9 And 
+: 988 3 16 no
+: 992 1 14 thing’s 
+: 996 1 12 going 
+: 1000 1 12 to 
+: 1005 3 14 stop 
+: 1013 2 16 me 
+: 1021 23 12 now. 
+E

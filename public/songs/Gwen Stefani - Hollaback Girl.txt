@@ -1,0 +1,720 @@
+#ARTIST:Gwen Stefani
+#TITLE:Hollaback Girl
+#MP3:Gwen Stefani - Hollaback Girl.mp3
+#CREATOR:Canni
+#EDITION:SingStar R&B
+#GENRE:Pop
+#YEAR:2004
+#LANGUAGE:English
+#BPM:220
+#GAP:8960
+#VIDEO:v=gZHjRQjbHrE,co=hollaback-girl-5419c34581fee.jpg,bg=stefani-gwen-541c4e335dafa.jpg,tags=explicit
+F 0 3 6 Uh 
+F 4 4 6 huh, 
+F 12 3 6 this 
+F 16 3 6 my 
+F 20 3 6 shit 
+- 25
+F 28 3 1 All 
+F 32 1 1 the 
+F 34 4 1 girls 
+F 40 1 1 stomp 
+F 42 1 1 your 
+F 44 3 1 feet 
+F 48 3 1 like 
+F 52 3 1 this 
+- 57
+F 59 1 6 A 
+F 61 4 6 few 
+F 66 3 6 times 
+F 70 1 6 I’ve 
+F 72 1 6 been 
+F 74 1 6 a
+F 76 2 6 round 
+F 80 2 6 that 
+F 84 3 6 track 
+- 88
+F 88 1 1 So 
+F 90 1 1 it’s 
+F 92 2 1 not 
+F 96 1 1 just 
+F 98 3 1 gon
+F 102 1 1 na 
+F 104 3 1 hap
+F 108 3 1 pen 
+F 112 3 1 like 
+F 116 2 1 that 
+- 119
+F 120 1 6 ’Cause 
+F 122 1 6 I 
+F 124 3 6 ain’t 
+F 128 3 6 no 
+F 132 3 6 hol
+F 136 1 6 la
+F 138 3 6 back 
+F 144 8 6 girl 
+- 153
+F 154 1 1 I 
+F 156 3 1 ain’t 
+F 160 3 1 no 
+F 164 3 1 hol
+F 168 1 1 la
+F 170 3 1 back 
+F 176 6 1 girl 
+- 184
+F 186 1 6 A 
+F 188 4 6 few 
+F 194 3 6 times 
+F 198 1 6 I’ve 
+F 200 1 6 been 
+F 202 1 6 a
+F 204 2 6 round 
+F 208 2 6 that 
+F 212 3 6 track 
+- 216
+F 216 1 1 So 
+F 218 1 1 it’s 
+F 220 2 1 not 
+F 224 1 1 just 
+F 226 3 1 gon
+F 230 1 1 na 
+F 232 3 1 hap
+F 236 3 1 pen 
+F 240 3 1 like 
+F 244 2 1 that 
+- 247
+F 248 1 6 ’Cause 
+F 250 1 6 I 
+F 252 3 6 ain’t 
+F 256 3 6 no 
+F 260 3 6 hol
+F 264 1 6 la
+F 266 3 6 back 
+F 272 6 6 girl 
+- 280
+F 282 1 1 I 
+F 284 3 1 ain’t 
+F 288 3 1 no 
+F 292 3 1 hol
+F 296 1 1 la
+F 298 3 1 back 
+F 304 6 1 girl 
+- 312
+: 324 7 15 Ooh, 
+: 332 1 15 ooh 
+- 335
+: 340 2 15 This 
+: 344 2 18 my 
+: 348 2 15 shit, 
+: 356 2 15 this 
+: 360 2 18 my 
+: 364 2 15 shit 
+- 368
+: 388 7 15 Ooh, 
+: 396 1 15 ooh 
+- 399
+: 404 2 15 This 
+: 408 2 18 my 
+: 412 2 15 shit, 
+: 420 2 15 this 
+: 424 2 18 my 
+: 428 2 15 shit 
+- 432
+* 452 7 15 Ooh, 
+: 460 1 15 ooh 
+- 463
+: 468 2 15 This 
+: 472 2 18 my 
+: 476 2 15 shit, 
+: 484 2 15 this 
+: 488 2 18 my 
+: 492 2 15 shit 
+- 496
+: 516 7 15 Ooh, 
+: 524 1 15 ooh 
+- 527
+: 532 2 15 This 
+: 536 2 18 my 
+: 540 2 15 shit, 
+: 548 2 15 this 
+: 552 2 18 my 
+: 556 2 15 shit 
+- 560
+: 570 1 13 I 
+: 572 3 13 heard 
+: 576 2 15 that 
+: 580 2 15 you 
+: 584 2 15 were 
+: 588 3 13 tal
+: 592 2 15 kin’ 
+: 596 2 15 shit 
+- 599
+: 600 1 15 And 
+: 602 1 15 you 
+: 604 3 13 did
+: 608 2 15 n’t 
+: 612 2 15 think 
+: 616 2 15 that 
+: 620 3 13 I 
+: 624 2 15 would 
+* 628 3 20 hear 
+: 632 2 18 it 
+- 636
+: 640 1 15 Peo
+: 642 1 15 ple 
+: 644 3 15 hear 
+: 648 3 15 you 
+: 652 1 13 tal
+: 654 1 15 kin’ 
+: 656 3 15 like 
+: 660 2 15 that 
+- 663
+: 664 1 15 Get
+: 666 1 15 tin’ 
+: 668 3 15 eve
+: 672 1 15 ry
+: 674 3 15 bo
+: 678 1 15 dy 
+: 680 3 15 fired 
+: 684 7 15 up 
+- 693
+: 696 1 10 So 
+: 698 1 10 I’m 
+: 700 1 13 rea
+: 702 1 13 dy 
+: 704 1 15 to 
+: 706 1 15 at
+: 708 2 15 tack 
+- 711
+: 712 1 15 Gon
+: 714 1 15 na 
+: 716 3 13 lead 
+: 720 2 15 the 
+: 724 2 15 pack 
+- 727
+: 728 1 15 Gon
+: 730 1 15 na 
+: 732 1 13 get 
+: 734 1 13 a 
+: 736 2 15 touch
+: 740 2 15 down 
+- 743
+: 744 1 15 Gon
+: 746 1 15 na 
+: 748 3 13 take 
+: 752 2 15 you 
+: 756 3 20 ou
+: 760 2 18 ~t 
+- 764
+: 768 3 15 That’s 
+: 772 3 15 right, 
+: 776 1 15 put 
+: 778 1 15 your 
+: 780 3 13 pom
+: 784 3 15 poms 
+: 788 2 15 down 
+- 791
+: 792 1 15 Get
+: 794 1 15 tin’ 
+: 796 3 15 eve
+: 800 1 15 ry
+: 802 3 15 bo
+: 806 1 15 dy 
+* 808 3 15 fired 
+: 812 7 15 up 
+- 821
+F 827 1 6 A 
+F 829 4 6 few 
+F 834 3 6 times 
+F 838 1 6 I’ve 
+F 840 1 6 been 
+F 842 1 6 a
+F 844 2 6 round 
+F 848 2 6 that 
+F 852 3 6 track 
+- 856
+F 856 1 1 So 
+F 858 1 1 it’s 
+F 860 2 1 not 
+F 864 1 1 just 
+F 866 3 1 gon
+F 870 1 1 na 
+F 872 3 1 hap
+F 876 3 1 pen 
+F 880 3 1 like 
+F 884 2 1 that 
+- 887
+F 888 1 6 ’Cause 
+F 890 1 6 I 
+F 892 3 6 ain’t 
+F 896 3 6 no 
+F 900 3 6 hol
+F 904 1 6 la
+F 906 3 6 back 
+F 912 8 6 girl 
+- 921
+F 922 1 1 I 
+F 924 3 1 ain’t 
+F 928 3 1 no 
+F 932 3 1 hol
+F 936 1 1 la
+F 938 3 1 back 
+F 944 6 1 girl 
+- 952
+F 954 1 6 A 
+F 956 4 6 few 
+F 962 3 6 times 
+F 966 1 6 I’ve 
+F 968 1 6 been 
+F 970 1 6 a
+F 972 2 6 round 
+F 976 2 6 that 
+F 980 3 6 track 
+- 984
+F 984 1 1 So 
+F 986 1 1 it’s 
+F 988 2 1 not 
+F 992 1 1 just 
+F 994 3 1 gon
+F 998 1 1 na 
+F 1000 3 1 hap
+F 1004 3 1 pen 
+F 1008 3 1 like 
+F 1012 2 1 that 
+- 1015
+F 1016 1 6 ’Cause 
+F 1018 1 6 I 
+F 1020 3 6 ain’t 
+F 1024 3 6 no 
+F 1028 3 6 hol
+F 1032 1 6 la
+F 1034 3 6 back 
+F 1040 6 6 girl 
+- 1048
+F 1050 1 1 I 
+F 1052 3 1 ain’t 
+F 1056 3 1 no 
+F 1060 3 1 hol
+F 1064 1 1 la
+F 1066 3 1 back 
+F 1072 6 1 girl 
+- 1080
+: 1092 7 15 Ooh, 
+: 1100 1 15 ooh 
+- 1103
+: 1108 2 15 This 
+: 1112 2 18 my 
+: 1116 2 15 shit, 
+: 1124 2 15 this 
+: 1128 2 18 my 
+: 1132 2 15 shit 
+- 1136
+: 1156 7 15 Ooh, 
+: 1164 1 15 ooh 
+- 1167
+: 1172 2 15 This 
+: 1176 2 18 my 
+: 1180 2 15 shit, 
+: 1188 2 15 this 
+: 1192 2 18 my 
+: 1196 2 15 shit 
+- 1200
+: 1220 7 15 Ooh, 
+: 1228 1 15 ooh 
+- 1231
+: 1236 2 15 This 
+: 1240 2 18 my 
+: 1244 2 15 shit, 
+: 1252 2 15 this 
+: 1256 2 18 my 
+: 1260 2 15 shit 
+- 1264
+: 1284 7 15 Ooh, 
+: 1292 1 15 ooh 
+- 1295
+: 1300 2 15 This 
+: 1304 2 18 my 
+: 1308 2 15 shit, 
+: 1316 2 15 this 
+: 1320 2 18 my 
+: 1324 2 15 shit 
+- 1328
+: 1338 1 10 So 
+: 1340 3 13 that’s 
+: 1344 2 15 right 
+: 1348 3 15 dude 
+- 1352
+: 1352 1 15 Meet 
+: 1354 1 15 me 
+: 1356 3 13 at 
+: 1360 2 15 the 
+: 1364 2 15 blea
+: 1367 2 15 chers 
+- 1370
+: 1370 1 15 No 
+: 1372 3 13 prin
+: 1376 1 15 ci
+: 1378 4 15 pals 
+- 1383
+: 1384 3 15 No 
+: 1388 3 13 stu
+: 1392 2 15 dent 
+* 1396 3 20 tea
+: 1400 2 18 chers 
+- 1404
+: 1408 1 15 Both 
+: 1410 1 15 of 
+: 1412 3 15 us 
+: 1416 1 15 wan
+: 1418 1 15 na 
+: 1420 3 13 be 
+: 1424 3 15 the 
+: 1428 3 15 win
+: 1432 1 15 ner 
+- 1434
+: 1434 1 15 But 
+: 1436 3 15 there 
+: 1440 1 15 can 
+: 1442 3 15 on
+: 1446 1 15 ly 
+: 1448 3 15 be 
+: 1452 7 15 one 
+- 1461
+: 1464 3 10 So 
+: 1468 3 13 I’m 
+: 1472 1 15 gon
+: 1474 1 15 na 
+: 1476 2 15 fight 
+- 1479
+: 1480 1 15 Gon
+: 1482 1 15 na 
+: 1484 1 13 give 
+: 1486 1 15 it 
+: 1488 2 15 my 
+: 1492 2 15 all 
+- 1495
+: 1496 1 15 Gon
+: 1498 1 15 na 
+: 1500 3 13 make 
+: 1504 3 15 you 
+: 1508 2 15 fall 
+- 1511
+: 1512 1 15 Gon
+: 1514 1 15 na 
+: 1516 3 13 sock 
+: 1520 2 15 it 
+: 1524 3 20 to 
+: 1528 2 18 you 
+- 1532
+: 1536 3 15 That’s 
+: 1540 3 15 right, 
+: 1544 1 15 I’m 
+: 1546 1 15 the 
+: 1548 3 13 last 
+: 1552 3 15 one 
+: 1556 3 15 stan
+: 1560 1 15 din’ 
+- 1562
+: 1562 1 15 A
+: 1564 1 15 no
+: 1566 1 15 ther 
+: 1568 3 15 one 
+* 1572 3 15 bites 
+: 1576 1 15 the 
+: 1578 7 15 dust 
+- 1587
+F 1595 1 6 A 
+F 1597 3 6 few 
+F 1602 3 6 times 
+F 1606 1 6 I’ve 
+F 1608 1 6 been 
+F 1610 1 6 a
+F 1612 2 6 round 
+F 1616 2 6 that 
+F 1620 3 6 track 
+- 1624
+F 1624 1 1 So 
+F 1626 1 1 it’s 
+F 1628 2 1 not 
+F 1632 1 1 just 
+F 1634 3 1 gon
+F 1638 1 1 na 
+F 1640 3 1 hap
+F 1644 3 1 pen 
+F 1648 3 1 like 
+F 1652 2 1 that 
+- 1655
+F 1656 1 6 ’Cause 
+F 1658 1 6 I 
+F 1660 3 6 ain’t 
+F 1664 3 6 no 
+F 1668 3 6 hol
+F 1672 1 6 la
+F 1674 3 6 back 
+F 1680 8 6 girl 
+- 1689
+F 1690 1 1 I 
+F 1692 3 1 ain’t 
+F 1696 3 1 no 
+F 1700 3 1 hol
+F 1704 1 1 la
+F 1706 3 1 back 
+F 1712 6 1 girl 
+- 1720
+F 1722 1 6 A 
+F 1724 4 6 few 
+F 1730 3 6 times 
+F 1734 1 6 I’ve 
+F 1736 1 6 been 
+F 1738 1 6 a
+F 1740 2 6 round 
+F 1744 2 6 that 
+F 1748 3 6 track 
+- 1752
+F 1752 1 1 So 
+F 1754 1 1 it’s 
+F 1756 2 1 not 
+F 1760 1 1 just 
+F 1762 3 1 gon
+F 1766 1 1 na 
+F 1768 3 1 hap
+F 1772 3 1 pen 
+F 1776 3 1 like 
+F 1780 2 1 that 
+- 1783
+F 1784 1 6 ’Cause 
+F 1786 1 6 I 
+F 1788 3 6 ain’t 
+F 1792 3 6 no 
+F 1796 3 6 hol
+F 1800 1 6 la
+F 1802 3 6 back 
+F 1808 6 6 girl 
+- 1816
+F 1818 1 1 I 
+F 1820 3 1 ain’t 
+F 1824 3 1 no 
+F 1828 3 1 hol
+F 1832 1 1 la
+F 1834 3 1 back 
+F 1840 6 1 girl 
+- 1848
+: 1860 7 15 Ooh, 
+: 1868 1 15 ooh 
+- 1871
+: 1876 2 15 This 
+: 1880 2 18 my 
+: 1884 2 15 shit, 
+: 1892 2 15 this 
+: 1896 2 18 my 
+: 1900 2 15 shit 
+- 1904
+: 1924 7 15 Ooh, 
+: 1932 1 15 ooh 
+- 1935
+: 1940 2 15 This 
+: 1944 2 18 my 
+: 1948 2 15 shit, 
+: 1956 2 15 this 
+: 1960 2 18 my 
+: 1964 2 15 shit 
+- 1968
+: 1988 7 15 Ooh, 
+: 1996 1 15 ooh 
+- 1999
+: 2004 2 15 This 
+: 2008 2 18 my 
+: 2012 2 15 shit, 
+: 2020 2 15 this 
+: 2024 2 18 my 
+: 2028 2 15 shit 
+- 2032
+: 2052 7 15 Ooh, 
+: 2060 1 15 ooh 
+- 2063
+: 2068 2 15 This 
+: 2072 2 18 my 
+: 2076 2 15 shit 
+- 2080
+F 2084 3 6 Let 
+F 2088 3 6 me 
+F 2092 3 6 hear 
+F 2096 3 6 you 
+F 2100 3 6 say 
+- 2104
+F 2104 3 1 This 
+F 2108 3 1 shit 
+F 2116 3 1 is 
+F 2120 3 1 ba
+F 2124 3 1 na
+F 2128 3 1 nas 
+- 2133
+F 2136 3 6 B
+F 2144 3 6 A
+F 2148 3 6 N
+F 2152 3 6 A
+F 2156 3 6 N
+F 2160 3 6 A
+F 2164 3 6 S 
+- 2168
+F 2168 3 1 This 
+F 2172 3 1 shit 
+F 2180 3 1 is 
+F 2184 3 1 ba
+F 2188 3 1 na
+F 2192 3 1 nas 
+- 2197
+F 2200 3 6 B
+F 2208 3 6 A
+F 2212 3 6 N
+F 2216 3 6 A
+F 2220 3 6 N
+F 2224 3 6 A
+F 2228 3 6 S 
+- 2232
+F 2232 3 1 This 
+F 2236 3 1 shit 
+F 2244 3 1 is 
+F 2248 3 1 ba
+F 2252 3 1 na
+F 2256 3 1 nas 
+- 2261
+F 2264 3 6 B
+F 2272 3 6 A
+F 2276 3 6 N
+F 2280 3 6 A
+F 2284 3 6 N
+F 2288 3 6 A
+F 2292 3 6 S 
+- 2296
+F 2296 3 1 This 
+F 2300 3 1 shit 
+F 2308 3 1 is 
+F 2312 3 1 ba
+F 2316 3 1 na
+F 2320 3 1 nas 
+- 2325
+F 2328 3 6 B
+F 2336 3 6 A
+F 2340 3 6 N
+F 2344 3 6 A
+F 2348 3 6 N
+F 2352 3 6 A
+F 2356 3 6 S 
+- 2361
+F 2363 1 6 A 
+F 2365 3 6 few 
+F 2370 3 6 times 
+F 2374 1 6 I’ve 
+F 2376 1 6 been 
+F 2378 1 6 a
+F 2380 2 6 round 
+F 2384 2 6 that 
+F 2388 3 6 track 
+- 2392
+F 2392 1 1 So 
+F 2394 1 1 it’s 
+F 2396 2 1 not 
+F 2400 1 1 just 
+F 2402 3 1 gon
+F 2406 1 1 na 
+F 2408 3 1 hap
+F 2412 3 1 pen 
+F 2416 3 1 like 
+F 2420 2 1 that 
+- 2423
+F 2424 1 6 ’Cause 
+F 2426 1 6 I 
+F 2428 3 6 ain’t 
+F 2432 3 6 no 
+F 2436 3 6 hol
+F 2440 1 6 la
+F 2442 3 6 back 
+F 2448 8 6 girl 
+- 2457
+F 2458 1 1 I 
+F 2460 3 1 ain’t 
+F 2464 3 1 no 
+F 2468 3 1 hol
+F 2472 1 1 la
+F 2474 3 1 back 
+F 2480 6 1 girl 
+- 2488
+F 2490 1 6 A 
+F 2492 4 6 few 
+F 2498 3 6 times 
+F 2502 1 6 I’ve 
+F 2504 1 6 been 
+F 2506 1 6 a
+F 2508 2 6 round 
+F 2512 2 6 that 
+F 2516 3 6 track 
+- 2520
+F 2520 1 1 So 
+F 2522 1 1 it’s 
+F 2524 2 1 not 
+F 2528 1 1 just 
+F 2530 3 1 gon
+F 2534 1 1 na 
+F 2536 3 1 hap
+F 2540 3 1 pen 
+F 2544 3 1 like 
+F 2548 2 1 that 
+- 2551
+F 2552 1 6 ’Cause 
+F 2554 1 6 I 
+F 2556 3 6 ain’t 
+F 2560 3 6 no 
+F 2564 3 6 hol
+F 2568 1 6 la
+F 2570 3 6 back 
+F 2576 6 6 girl 
+- 2584
+F 2586 1 1 I 
+F 2588 3 1 ain’t 
+F 2592 3 1 no 
+F 2596 3 1 hol
+F 2600 1 1 la
+F 2602 3 1 back 
+F 2608 6 1 girl 
+- 2616
+: 2628 7 15 Ooh, 
+: 2636 1 15 ooh 
+- 2639
+: 2644 2 15 This 
+: 2648 2 18 my 
+: 2652 2 15 shit, 
+: 2660 2 15 this 
+: 2664 2 18 my 
+: 2668 2 15 shit 
+- 2672
+: 2692 7 15 Ooh, 
+: 2700 1 15 ooh 
+- 2703
+: 2708 2 15 This 
+: 2712 2 18 my 
+: 2716 2 15 shit, 
+: 2724 2 15 this 
+* 2728 2 18 my 
+: 2732 2 15 shit 
+- 2736
+: 2756 7 15 Ooh, 
+: 2764 1 15 ooh 
+- 2767
+: 2772 2 15 This 
+: 2776 2 18 my 
+: 2780 2 15 shit, 
+: 2788 2 15 this 
+: 2792 2 18 my 
+: 2796 2 15 shit 
+- 2800
+: 2820 7 15 Ooh, 
+: 2828 1 15 ooh 
+- 2831
+: 2836 2 15 This 
+: 2840 2 18 my 
+: 2844 2 15 shit, 
+: 2852 2 15 this 
+: 2856 2 18 my 
+: 2860 2 15 shit 
+E

@@ -1,0 +1,729 @@
+#ARTIST:Malik Harris
+#TITLE:Rockstars (ESC 2022 Germany)
+#MP3:Malik Harris - Rockstars (ESC 2022 Germany).mp3
+#CREATOR:Dragon33
+#EDITION:Eurovision Song Contest 2022
+#COVER:Malik Harris - Rockstars (ESC 2022 Germany) [CO].jpg
+#BACKGROUND:Malik Harris - Rockstars (ESC 2022 Germany) [BG].jpg
+#GENRE:Pop-Rap
+#YEAR:2022
+#LANGUAGE:English
+#BPM:216.12
+#GAP:200
+#VIDEO:v=D3FN2umFaM8,co=rockstars-68f915e3c6d59.jpg
+: 0 1 7 Look 
+: 3 2 7 where 
+: 8 4 12 we 
+: 14 5 11 are 
+- 21
+: 38 1 7 We 
+: 40 1 7 used 
+: 43 1 7 to 
+: 45 1 7 be 
+: 47 1 7 the 
+: 51 3 12 rock
+: 57 4 11 stars
+: 62 2 9 ~ 
+- 66
+: 81 1 7 Who 
+: 83 1 7 ne
+: 85 1 7 ver 
+: 88 1 7 thought 
+: 90 1 7 of 
+: 94 3 12 no 
+: 100 6 11 harm 
+- 108
+: 110 1 9 ’Til 
+: 112 1 9 this 
+: 115 2 9 thing 
+: 121 1 9 we 
+: 123 1 7 call 
+: 125 3 9 life 
+: 130 3 11 stopped 
+* 136 4 4 glea
+: 142 2 7 ming
+: 145 2 4 ~ 
+- 149
+: 150 1 7 I 
+: 152 1 9 wish 
+: 155 1 7 there 
+: 158 2 9 was 
+: 161 1 7 a 
+: 163 2 9 way 
+: 166 1 7 to 
+: 169 3 9 go 
+: 174 2 11 back 
+: 179 5 12 drea
+: 185 3 11 ming
+: 189 2 9 ~ 
+- 193
+: 209 1 7 Re
+: 212 1 7 mem
+: 214 1 7 be
+: 216 1 7 ring 
+: 219 1 7 gets 
+: 222 3 12 so 
+: 228 2 11 hard
+: 231 2 9 ~ 
+- 235
+: 251 1 7 When 
+: 253 2 7 time 
+: 257 1 7 is 
+: 259 1 7 mo
+: 261 1 7 ving 
+: 264 3 12 so 
+: 270 7 11 fast 
+- 279
+: 281 1 9 Wish 
+: 283 1 7 there 
+: 285 2 9 was 
+: 288 1 7 a 
+: 290 2 9 way 
+: 293 1 7 to 
+: 296 3 9 know 
+: 302 2 11 that 
+: 307 3 4 we’re 
+: 313 2 7 in
+: 316 2 4 ~ 
+- 320
+: 321 1 4 The 
+: 323 2 7 good 
+: 326 1 9 old 
+: 328 2 9 days 
+: 331 1 9 be
+: 333 2 9 fore 
+: 336 2 7 we 
+: 339 3 9 all 
+: 344 2 11 just 
+: 350 3 4 leave 
+: 356 3 7 ’em 
+- 361
+: 368 1 7 I 
+* 370 4 9 tried 
+: 376 2 9 get
+: 379 1 7 ting 
+: 382 1 9 rid 
+: 384 1 9 of 
+: 386 1 7 the 
+: 389 2 9 pain
+: 392 2 7 ~ 
+- 395
+: 396 1 7 I 
+: 398 2 9 tried 
+: 401 1 7 to 
+: 403 2 9 make 
+: 406 1 7 it 
+: 409 2 9 go 
+: 412 1 7 a
+: 414 2 9 way 
+- 417
+: 417 1 9 But 
+: 419 1 7 it 
+: 421 2 9 pro
+: 424 1 9 ba
+: 427 1 7 bly 
+: 430 3 11 won’t 
+: 435 4 9 change 
+- 440
+: 441 1 9 Al
+: 443 1 7 ways 
+: 446 2 9 thin
+: 449 1 7 king 
+: 451 1 9 ’bout 
+: 453 1 7 my 
+: 456 4 11 own 
+: 462 4 7 wo
+: 467 2 4 rries 
+- 471
+: 481 1 4 Re
+: 483 1 9 mem
+: 486 1 7 ber 
+: 488 1 9 back 
+: 491 1 7 when 
+: 494 1 9 we 
+: 496 1 7 had 
+: 499 3 11 no 
+: 505 4 7 wo
+: 510 2 4 rries? 
+- 514
+F 526 3 9 Hm 
+- 531
+: 539 1 7 Now 
+: 541 4 9 life 
+: 547 2 9 just 
+: 550 1 7 ain’t 
+: 553 1 9 hit
+: 555 1 9 ting 
+: 557 1 7 the 
+: 560 2 9 same
+: 563 1 7 ~ 
+- 565
+: 566 1 7 I 
+: 569 1 9 sit 
+: 571 1 7 and 
+: 573 2 9 miss 
+: 577 1 9 and 
+: 579 2 9 re
+: 582 1 7 mi
+: 584 2 9 ni
+: 587 1 9 sce 
+: 589 1 9 a
+: 591 1 7 bout 
+: 593 1 9 in
+: 595 1 9 no
+: 598 1 7 cent 
+: 601 3 11 old 
+: 606 3 9 days 
+- 611
+: 612 1 9 When 
+: 614 1 7 I 
+: 616 2 9 was 
+: 619 1 7 a
+: 622 2 9 fraid 
+: 625 1 7 of 
+: 627 3 11 no
+: 633 4 7 bo
+: 638 2 4 dy 
+- 642
+: 652 1 7 Now 
+: 654 1 9 I’m 
+: 656 1 7 a
+: 659 2 9 fraid 
+: 662 1 7 of 
+: 664 1 9 be
+: 666 1 9 ing 
+: 668 1 7 a 
+: 670 3 11 no
+* 675 5 7 bo
+: 681 2 4 dy 
+- 685
+: 699 1 4 Don’t 
+: 702 1 9 wan
+: 704 2 9 na 
+: 707 1 9 leave 
+: 709 1 9 my 
+: 712 2 9 bed
+: 715 1 7 ~ 
+- 717
+: 718 1 7 I’ll 
+: 720 1 7 just 
+: 724 2 9 stay 
+: 727 1 9 and 
+: 729 1 9 ne
+: 731 1 9 ver 
+: 734 1 9 get 
+: 736 1 9 it 
+: 739 1 4 to
+: 742 2 7 ge
+: 745 1 4 ther 
+- 748
+: 782 1 4 ’Cause 
+: 784 1 4 the 
+: 787 2 9 voi
+: 790 1 9 ces 
+: 793 1 9 in 
+: 795 1 9 my 
+: 797 2 9 head
+: 800 1 7 ~ 
+- 802
+: 803 1 7 They 
+: 805 1 7 keep 
+: 808 2 11 sa
+: 811 2 11 ying 
+: 814 2 11 it
+: 817 2 11 ’ll 
+: 820 1 11 ne
+: 822 1 9 ver 
+: 824 1 7 get 
+: 828 7 7 bet
+: 836 2 4 ter 
+- 840
+: 854 1 4 Look 
+: 857 3 7 where 
+* 862 4 12 we 
+: 868 5 11 are 
+- 875
+: 892 1 7 We 
+: 894 1 7 used 
+: 897 1 7 to 
+: 899 1 7 be 
+: 901 1 7 the 
+: 904 3 12 rock
+: 910 4 11 stars
+: 915 2 9 ~ 
+- 919
+: 935 1 7 Who 
+: 937 1 7 ne
+: 939 1 7 ver 
+: 942 1 7 thought 
+: 944 1 7 of 
+: 948 3 12 no 
+: 954 6 11 harm 
+- 962
+: 964 1 9 ’Til 
+: 966 1 7 this 
+: 969 2 9 thing 
+: 974 1 9 we 
+: 977 1 7 call 
+: 979 3 9 life 
+: 984 3 11 stopped 
+: 990 4 4 glea
+: 996 2 7 ming
+: 999 2 4 ~ 
+- 1003
+: 1005 1 7 I 
+: 1007 1 9 wish 
+: 1009 1 7 there 
+: 1011 2 9 was 
+: 1015 1 7 a 
+: 1017 2 9 way 
+: 1020 1 7 to 
+: 1023 3 9 go 
+: 1028 2 11 back 
+: 1033 5 12 drea
+: 1039 3 11 ming
+: 1043 2 9 ~ 
+- 1047
+: 1063 1 7 Re
+: 1065 1 7 mem
+: 1068 1 7 be
+: 1070 1 7 ring 
+: 1073 1 7 gets 
+: 1076 3 12 so 
+: 1082 2 11 hard
+: 1085 2 9 ~ 
+- 1089
+: 1105 1 7 When 
+: 1107 2 7 time 
+: 1111 1 7 is 
+: 1113 1 7 mo
+: 1115 1 7 ving 
+: 1118 3 12 so 
+: 1124 7 11 fast 
+- 1133
+: 1135 1 9 Wish 
+: 1137 1 7 there 
+: 1140 2 9 was 
+: 1143 1 7 a 
+: 1145 2 9 way 
+: 1148 1 7 to 
+: 1151 3 9 know 
+: 1156 2 11 that 
+: 1161 3 4 we’re 
+: 1166 2 7 in
+: 1169 2 4 ~ 
+- 1173
+: 1175 1 4 The 
+: 1177 2 7 good 
+: 1180 1 9 old 
+* 1182 2 9 days 
+: 1185 1 9 be
+: 1187 2 9 fore 
+: 1190 2 7 we 
+: 1193 3 9 all 
+: 1198 2 11 just 
+: 1203 3 4 leave 
+: 1209 5 7 ’em 
+- 1216
+R 1218 1 9 Some
+R 1221 2 9 times 
+R 1225 1 9 I 
+R 1227 1 9 got 
+R 1229 1 9 this 
+R 1232 1 9 kin
+R 1234 1 9 da 
+R 1237 2 9 sting 
+- 1240
+R 1241 1 9 That’s 
+R 1243 1 9 right 
+R 1245 1 9 in
+R 1247 1 9 side 
+R 1250 1 9 my 
+R 1253 2 9 chest 
+- 1257
+R 1263 1 9 Its 
+R 1265 1 9 on
+R 1267 1 9 ly 
+R 1269 1 9 pur
+R 1272 1 9 pose 
+R 1274 2 9 is 
+- 1277
+R 1278 1 9 Con
+R 1281 1 9 vin
+R 1283 1 9 cing 
+R 1286 1 9 me 
+R 1288 1 9 that 
+R 1290 1 9 I’m 
+R 1292 1 9 a 
+R 1295 2 9 mess 
+- 1299
+R 1308 1 9 And 
+R 1310 1 9 e
+R 1312 1 9 ven 
+R 1314 1 9 though 
+R 1316 1 9 it’s 
+R 1318 1 9 al
+R 1320 1 9 ways 
+R 1323 1 9 been 
+R 1325 1 9 an 
+R 1327 1 9 un
+R 1329 1 9 in
+R 1331 2 9 vi
+R 1334 1 9 ted 
+R 1337 1 9 guest 
+- 1339
+R 1340 1 9 It 
+R 1343 2 9 finds 
+R 1346 1 9 a 
+R 1348 2 9 way 
+R 1351 1 9 in 
+R 1353 1 9 none
+R 1356 1 9 the
+R 1358 2 9 less 
+- 1362
+R 1363 1 9 Wish 
+R 1365 1 9 I 
+R 1367 1 9 could 
+G 1370 3 9 change 
+R 1375 1 9 my 
+R 1378 1 9 ad
+R 1380 2 9 dress 
+- 1384
+R 1389 1 9 And 
+R 1391 1 9 you 
+R 1393 2 9 know 
+- 1397
+R 1401 1 9 Just 
+R 1404 1 9 be 
+R 1406 1 9 some
+R 1408 1 9 bo
+R 1410 1 9 dy 
+R 1412 2 9 else 
+R 1415 1 9 for 
+R 1417 1 9 a 
+R 1419 1 9 cou
+R 1421 1 9 ple 
+R 1423 1 9 of 
+R 1425 2 9 days 
+- 1429
+R 1434 1 9 Al
+R 1436 2 9 though, 
+- 1440
+R 1444 1 9 I’m 
+R 1446 1 9 pret
+R 1448 1 9 ty 
+R 1450 2 9 sure 
+R 1453 1 9 we 
+R 1455 1 9 all 
+R 1457 1 9 feel 
+R 1459 1 9 the 
+R 1461 1 9 same 
+R 1464 1 9 kin
+R 1466 1 9 da 
+R 1468 2 9 way 
+- 1472
+R 1477 1 9 ’Cause 
+R 1479 1 9 if 
+R 1481 1 9 you 
+R 1483 1 9 think 
+R 1486 1 9 a
+R 1488 1 9 bout 
+R 1490 1 9 it 
+- 1492
+R 1493 1 9 Aren’t 
+R 1495 1 9 we 
+R 1497 1 9 all 
+R 1500 1 9 set 
+R 1503 1 9 in 
+R 1505 1 9 a 
+R 1507 3 9 place 
+- 1511
+R 1512 1 9 Where 
+R 1514 1 9 we 
+R 1516 1 9 look 
+R 1518 2 9 back 
+R 1522 1 9 at 
+R 1524 1 9 bet
+R 1526 1 9 ter 
+R 1529 2 9 days 
+- 1532
+R 1533 1 9 And 
+R 1535 1 9 wish 
+R 1538 1 9 they 
+R 1540 2 9 weren’t 
+R 1543 1 9 so 
+R 1545 2 9 far 
+R 1548 1 9 a
+R 1550 2 9 way? 
+- 1554
+R 1562 1 9 I 
+R 1564 1 9 wish 
+R 1566 1 9 that 
+R 1568 1 9 I 
+R 1570 1 9 could 
+R 1572 1 9 just 
+R 1575 1 9 go 
+G 1578 3 9 back 
+- 1582
+R 1583 1 9 And 
+R 1585 1 9 be 
+R 1587 1 9 the 
+R 1589 1 9 way 
+R 1591 1 9 I 
+R 1593 3 9 was 
+- 1598
+R 1605 1 9 I 
+R 1607 1 9 wish 
+R 1609 1 9 I’d 
+R 1612 1 9 still 
+R 1614 1 9 not 
+R 1617 1 9 give 
+R 1619 1 9 a 
+R 1621 3 9 damn 
+- 1625
+R 1626 1 9 ’Bout 
+R 1628 1 9 how 
+R 1630 1 9 I 
+R 1632 1 9 come 
+R 1634 1 9 a
+R 1636 3 9 cross 
+- 1641
+R 1648 1 9 I 
+R 1650 1 9 wish 
+R 1652 1 9 the 
+R 1654 1 9 way 
+R 1656 1 9 I 
+R 1659 2 9 saw 
+R 1662 1 9 my
+R 1665 2 9 self 
+R 1669 1 9 had 
+R 1671 1 9 ne
+R 1673 1 9 ver 
+R 1675 1 9 got
+R 1677 1 9 ten 
+R 1679 3 9 lost 
+- 1683
+R 1684 1 9 In 
+R 1686 1 9 all 
+R 1688 1 9 the 
+R 1691 1 9 wo
+R 1693 1 9 rries, 
+R 1696 1 9 all 
+R 1698 1 9 the 
+R 1701 2 9 thoughts, 
+- 1705
+R 1706 1 9 O
+R 1708 1 9 ver
+R 1711 1 9 thin
+R 1713 1 9 king 
+R 1716 1 9 all 
+R 1718 1 9 the 
+R 1721 3 9 parts 
+- 1725
+R 1726 2 9 So 
+R 1730 1 9 ex
+R 1732 2 9 haus
+R 1735 1 9 ted, 
+R 1738 2 9 al
+R 1741 1 9 ways 
+R 1744 2 9 caught 
+- 1747
+R 1748 1 9 Up 
+R 1751 1 9 in
+R 1753 1 9 side 
+R 1756 1 9 my 
+R 1758 2 9 doubts 
+R 1762 1 9 and 
+R 1766 4 9 flaws 
+- 1772
+R 1776 1 9 And 
+R 1778 1 9 I’m
+R 1780 1 9 a 
+G 1782 1 9 count 
+R 1784 1 9 them 
+R 1786 2 9 all 
+- 1790
+R 1791 1 9 Some
+R 1793 1 9 bo
+R 1795 1 9 dy 
+R 1797 1 9 catch 
+R 1799 1 9 me, 
+R 1801 1 9 I’m 
+R 1803 1 9 ’bout 
+R 1805 1 9 to 
+R 1807 4 9 fall 
+- 1813
+R 1820 1 9 Yeah, 
+R 1822 1 9 I’m 
+R 1824 1 9 ’bout 
+R 1826 1 9 to 
+R 1829 4 9 fall 
+- 1835
+R 1839 1 9 Can 
+R 1841 1 9 we 
+R 1844 2 9 press 
+R 1850 5 9 pause? 
+- 1857
+: 1929 1 7 Or 
+: 1931 1 7 do 
+: 1933 1 7 a 
+: 1936 3 12 re
+: 1942 4 11 start
+: 1947 2 9 ~ 
+- 1950
+: 1951 1 7 And 
+: 1953 1 7 be 
+: 1956 2 7 who 
+: 1960 3 12 we 
+: 1965 3 11 are
+: 1969 2 9 ~? 
+- 1973
+: 1988 1 7 We 
+: 1990 1 7 used 
+: 1993 1 7 to 
+: 1996 1 7 be 
+: 1998 1 7 the 
+* 2001 3 12 rock
+* 2007 4 11 stars
+* 2012 2 9 ~ 
+- 2016
+: 2031 1 7 Who 
+: 2033 1 7 ne
+: 2035 1 7 ver 
+: 2038 1 7 thought 
+: 2040 1 7 of 
+: 2044 3 12 no 
+: 2050 6 11 harm 
+- 2058
+: 2060 1 9 ’Til 
+: 2062 1 7 this 
+: 2065 2 9 thing 
+: 2070 1 9 we 
+: 2073 1 7 call 
+: 2075 3 9 life 
+: 2080 3 11 stopped 
+: 2086 4 4 glea
+: 2091 2 7 ming
+: 2094 2 4 ~ 
+- 2098
+: 2101 1 7 I 
+: 2103 1 9 wish 
+: 2105 1 7 there 
+: 2108 2 9 was 
+: 2111 1 7 a 
+: 2113 2 9 way 
+: 2116 1 7 to 
+: 2119 3 9 go 
+: 2124 2 11 back 
+: 2129 5 12 drea
+: 2135 4 11 ming
+: 2140 2 9 ~ 
+- 2144
+: 2159 1 7 Re
+: 2162 1 7 mem
+: 2164 1 7 be
+: 2166 1 7 ring 
+: 2169 1 7 gets 
+* 2172 3 12 so 
+: 2178 2 11 hard
+: 2181 2 9 ~ 
+- 2185
+: 2201 1 7 When 
+: 2203 2 7 time 
+: 2207 1 7 is 
+: 2209 1 7 mo
+: 2211 1 7 ving 
+: 2214 3 12 so 
+: 2220 7 11 fast 
+- 2229
+: 2231 1 9 Wish 
+: 2233 1 7 there 
+: 2235 2 9 was 
+: 2238 1 7 a 
+: 2240 2 9 way 
+: 2243 1 7 to 
+: 2246 3 9 know 
+: 2252 2 11 that 
+: 2257 3 4 we’re 
+: 2262 2 7 in
+: 2265 2 4 ~ 
+- 2269
+: 2271 1 4 The 
+: 2273 2 7 good 
+: 2276 1 9 old 
+: 2278 2 9 days 
+: 2281 1 9 be
+: 2283 2 9 fore 
+: 2286 2 7 we 
+: 2289 3 9 all 
+: 2294 2 14 just 
+: 2299 3 16 leave 
+: 2305 2 14 ’em 
+- 2309
+* 2347 2 19 Di
+* 2350 2 19 dn’t 
+: 2354 3 18 we
+: 2358 2 16 ~? 
+- 2362
+: 2390 2 19 Di
+: 2393 2 19 dn’t 
+: 2397 4 16 we? 
+- 2403
+: 2415 1 11 We 
+: 2417 1 14 used 
+: 2420 1 14 to 
+: 2423 1 14 be 
+: 2425 1 11 the 
+: 2428 3 16 rock
+: 2434 3 14 stars
+: 2438 2 11 ~ 
+- 2442
+: 2457 1 7 We 
+: 2459 1 7 used 
+: 2462 1 7 to 
+: 2465 1 7 be 
+: 2467 1 7 the 
+: 2470 3 11 rock
+: 2476 5 7 stars 
+- 2483
+: 2501 1 7 Re
+: 2503 1 7 mem
+: 2506 1 7 be
+: 2508 1 7 ring 
+: 2510 1 7 gets 
+: 2513 3 12 so 
+: 2519 3 11 hard
+: 2523 2 9 ~ 
+- 2527
+: 2543 1 7 When 
+: 2545 2 7 time 
+: 2548 1 7 is 
+: 2550 1 7 mo
+: 2552 1 7 ving 
+: 2556 3 12 so 
+* 2562 7 11 fast 
+- 2571
+: 2573 1 9 Wish 
+: 2575 1 7 there 
+: 2577 2 9 was 
+: 2580 1 7 a 
+: 2582 2 9 way 
+: 2585 1 7 to 
+: 2588 3 9 know 
+: 2594 2 11 that 
+: 2598 3 4 we’re 
+: 2604 2 7 in
+: 2607 2 4 ~ 
+- 2611
+: 2613 1 4 The 
+: 2615 2 7 good 
+: 2618 1 9 old 
+: 2620 2 9 days 
+: 2623 1 9 be
+: 2625 2 9 fore 
+: 2628 2 7 we 
+: 2631 3 9 all 
+: 2636 2 11 just 
+: 2641 4 4 leave 
+: 2647 4 7 ’em 
+E

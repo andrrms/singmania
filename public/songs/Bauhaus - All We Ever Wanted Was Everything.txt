@@ -1,0 +1,146 @@
+#ARTIST:Bauhaus
+#TITLE:All We Ever Wanted Was Everything
+#MP3:Bauhaus - All We Ever Wanted Was Everything.mp3
+#CREATOR:krasserdude
+#COVER:Bauhaus - All We Ever Wanted Was Everything [CO].jpg
+#BACKGROUND:Bauhaus - All We Ever Wanted Was Everything [BG].jpg
+#YEAR:1982
+#LANGUAGE:English
+#BPM:470.34
+#GAP:49770
+#VIDEO:a=5lVxjr6BH1I,co=the-skys-gone-out-5de853afda0d1.jpg,bg=the-skys-gone-out-5de853afda0d1.jpg
+: 0 16 4 All 
+: 44 2 4 we 
+: 48 2 7 e
+: 52 4 7 ver 
+: 60 6 4 wan
+: 70 12 0 ted 
+: 118 10 7 was 
+: 140 2 4 eve
+: 146 4 0 ry
+: 154 14 0 thing 
+- 199
+: 258 16 4 All 
+: 302 3 2 we 
+: 306 3 4 e
+: 310 5 2 ver 
+: 318 12 4 got 
+: 370 5 2 was 
+: 378 22 4 cold 
+- 431
+: 516 4 4 Get 
+: 522 12 0 up, 
+: 564 10 7 eat 
+: 580 4 4 jel
+: 587 9 -3 ly 
+- 606
+: 645 5 4 Sand
+: 654 8 0 wich 
+: 670 14 0 bars, 
+: 692 6 7 and 
+: 702 10 4 barbed 
+: 719 19 -3 wire 
+- 748
+: 776 14 -5 Squash 
+: 808 6 -5 eve
+: 816 10 -3 ry 
+: 832 18 0 week 
+: 872 5 4 in
+: 879 5 4 to 
+: 887 4 2 a 
+: 895 20 0 day 
+- 977
+: 1550 56 4 Oh-
+* 1615 19 7 oh-
+: 1645 21 5 oh-
+: 1679 43 -1 oh 
+- 1753
+: 1808 52 4 Oh-
+: 1873 19 7 oh-
+: 1904 20 5 oh-
+: 1937 63 -1 oh 
+- 2010
+: 2058 4 0 The 
+: 2066 18 4 sound 
+: 2114 4 4 of 
+: 2120 4 2 the 
+: 2127 13 4 drum 
+: 2180 5 7 is 
+: 2191 5 4 ca
+: 2198 10 0 lling 
+- 2239
+: 2317 4 0 The 
+: 2325 17 4 sound 
+: 2375 3 4 of 
+: 2380 3 7 the 
+: 2386 16 4 drum 
+: 2438 4 2 has 
+: 2446 18 4 called 
+- 2495
+: 2582 4 4 Flash 
+: 2592 8 0 of 
+: 2607 12 0 youth 
+: 2648 14 7 shoot 
+: 2681 4 4 out 
+: 2688 8 7 of 
+: 2705 11 4 dark
+: 2720 14 0 ness 
+- 2765
+* 2840 5 -5 Fa
+* 2848 6 -5 ctory
+* 2865 76 -5 town 
+- 3003
+: 3101 51 4 Oh-
+: 3165 21 7 oh-
+: 3195 23 5 oh-
+: 3228 44 -1 oh 
+- 3303
+: 3359 53 4 Oh-
+: 3423 24 7 oh-
+: 3454 22 5 oh-
+: 3486 66 -1 oh 
+- 3583
+: 3618 22 4 Oh
+: 3642 5 2 ~
+: 3649 13 0 ~, 
+: 3666 4 0 to 
+: 3674 26 0 be 
+: 3728 6 7 the 
+: 3739 27 4 cream 
+- 3828
+: 3908 2 2 Oh
+: 3911 9 4 ~, 
+: 3923 4 2 to 
+: 3931 47 4 be 
+: 3988 4 2 the 
+: 3995 32 4 cream 
+- 4089
+: 4167 7 7 Oh
+: 4175 3 4 ~, 
+: 4182 4 4 to 
+: 4190 22 4 be 
+: 4246 4 7 the 
+: 4256 34 4 cream 
+- 4321
+* 4392 42 -5 Oh, 
+: 4440 4 -3 to 
+: 4447 36 0 be 
+: 4497 7 4 the
+: 4505 5 2 ~ 
+: 4517 29 0 cream 
+- 4577
+: 4651 29 7 Oh
+: 4683 6 4 ~, 
+: 4698 5 2 to 
+: 4706 46 4 be
+: 4755 3 2 ~ 
+: 4761 4 2 the 
+: 4768 40 4 cream 
+- 4870
+: 4941 6 7 Oh
+: 4948 6 4 ~, 
+: 4956 2 2 to 
+: 4964 36 4 be 
+: 5021 4 2 the 
+: 5029 43 4 cream 
+E

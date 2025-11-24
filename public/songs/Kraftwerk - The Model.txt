@@ -1,0 +1,157 @@
+#ARTIST:Kraftwerk
+#TITLE:The Model
+#MP3:Kraftwerk - The Model.mp3
+#CREATOR:choosie
+#YEAR:1978
+#LANGUAGE:English
+#BPM:248
+#GAP:17780
+#VIDEO:v=GEnx9xS79Lc,co=https://www.top40.nl/media/cache/related/uploads/subtitle/16837/original.jpg,bg=kraftwerk-4f1c4dd5f16e7.jpg
+: 0 5 9 She’s 
+: 8 5 9 a 
+: 16 2 9 mo
+: 20 2 12 del 
+: 24 2 11 and 
+: 28 2 9 she’s 
+: 32 9 11 loo
+: 44 2 7 king 
+: 48 6 4 good 
+- 56
+: 124 2 4 I’d 
+: 128 5 9 like 
+: 136 5 9 to 
+: 144 2 9 take 
+: 148 2 12 her 
+: 152 2 11 home, 
+: 156 2 9 that’s 
+: 160 9 11 un
+: 172 2 7 der
+: 176 6 4 stood 
+- 184
+: 252 2 4 She 
+: 256 5 9 plays 
+: 264 2 9 hard 
+: 268 2 9 to 
+: 272 2 9 get, 
+: 276 2 12 she 
+: 280 2 11 smiles 
+: 284 2 9 from 
+* 288 9 11 time 
+* 300 2 7 to 
+* 304 6 4 time 
+- 312
+: 380 2 4 It 
+: 384 2 9 on
+: 388 2 9 ly 
+: 392 2 9 takes 
+: 396 2 9 a 
+: 400 2 9 ca
+: 404 2 12 me
+: 408 2 11 ra 
+: 412 2 9 to 
+: 416 9 11 change 
+: 428 2 7 her 
+: 432 6 4 mind 
+- 440
+: 763 2 4 She’s 
+: 767 2 9 go
+: 771 2 9 ing 
+* 775 2 9 out 
+* 779 2 9 to
+* 783 2 9 night, 
+- 786
+: 787 2 12 Loves 
+: 791 2 11 drin
+: 795 2 9 king 
+: 799 9 11 just 
+: 811 2 7 cham
+: 815 6 4 pagne 
+- 823
+: 891 2 4 And 
+: 895 5 9 she 
+: 903 2 9 has 
+: 907 2 9 been 
+: 911 2 9 chec
+: 915 2 12 king 
+: 919 2 11 near
+: 923 2 9 ly 
+: 927 9 11 all 
+: 939 2 7 the 
+: 943 6 4 men 
+- 951
+: 1019 2 4 She’s 
+: 1023 5 9 play
+: 1031 2 9 ing 
+: 1035 2 9 her 
+: 1039 2 9 game 
+: 1043 2 12 and 
+: 1047 2 11 you 
+: 1051 2 9 can 
+: 1055 9 11 hear 
+: 1067 2 7 them 
+: 1071 6 4 say 
+- 1079
+: 1151 2 4 She 
+: 1155 2 9 is 
+: 1159 2 9 loo
+: 1163 2 9 king 
+: 1167 2 9 good, 
+* 1171 2 12 for 
+* 1175 2 11 beau
+* 1179 2 9 ty 
+: 1183 9 11 we 
+: 1195 2 7 will 
+: 1199 6 4 pay 
+- 1207
+: 2300 2 4 She’s 
+: 2304 2 9 po
+: 2308 2 9 sing 
+: 2312 2 9 for 
+* 2316 2 9 con
+* 2320 2 9 su
+* 2324 2 12 mer 
+: 2328 2 11 pro
+: 2332 2 9 ducts 
+: 2336 7 11 now 
+: 2348 2 7 and 
+: 2352 6 4 then 
+- 2360
+: 2432 2 9 Eve
+: 2436 2 9 ry 
+: 2440 2 9 ca
+: 2444 2 9 me
+: 2448 2 9 ra 
+: 2452 2 12 she 
+: 2456 2 11 gives 
+: 2460 2 9 the 
+: 2464 6 11 best 
+: 2476 2 7 she 
+: 2480 5 4 can 
+- 2487
+: 2556 2 4 I 
+: 2560 2 9 saw 
+: 2564 2 9 her 
+: 2568 2 9 on 
+: 2572 2 9 the 
+: 2576 2 9 co
+: 2580 2 12 ver 
+: 2584 2 11 of 
+: 2588 2 9 a 
+: 2592 9 11 ma
+: 2604 2 7 ga
+: 2608 6 4 zine 
+- 2616
+: 2682 2 4 Now 
+: 2688 2 9 she’s 
+: 2692 2 9 a 
+: 2696 2 9 big 
+: 2700 2 9 suc
+: 2704 2 9 cess, 
+* 2708 2 12 I 
+* 2712 2 11 want 
+* 2716 2 9 to 
+* 2720 5 11 meet 
+* 2728 2 11 her 
+* 2732 2 7 a
+* 2736 6 4 gain. 
+E

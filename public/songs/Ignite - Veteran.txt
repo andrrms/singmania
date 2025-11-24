@@ -1,0 +1,387 @@
+#ARTIST:Ignite
+#TITLE:Veteran
+#MP3:Ignite - Veteran.mp3
+#CREATOR:rootsrocker
+#YEAR:2000
+#LANGUAGE:English
+#BPM:399.62
+#GAP:5420
+#VIDEO:a=b8zMvc6CPJM,co=a-place-called-home-5e846eaae2bfb.jpg,bg=ignite-615f38bdb533e.jpg
+: 0 9 20 YEAH 
+: 12 4 11 YOU’RE 
+: 18 16 14 ABANDONED 
+: 38 5 14 SO 
+: 46 19 13 SORRY 
+- 67
+: 68 9 11 YOU’RE 
+: 79 2 11 JUST 
+: 84 2 9 A 
+: 88 5 17 WASTE 
+: 97 5 16 OF 
+: 104 16 19 THEIR 
+: 124 6 17 TIME 
+- 131
+: 132 8 16 YEAH 
+: 145 2 13 YOU’VE 
+: 151 2 14 BEEN 
+: 155 4 13 LIED 
+: 162 5 14 TO 
+: 170 5 14 ONCE 
+: 179 17 11 AGAIN 
+- 198
+: 199 8 10 YEAH 
+: 210 3 11 WE’LL 
+: 216 2 12 THEY’VE 
+: 221 4 14 PAID 
+: 228 5 10 YOU 
+: 236 13 12 NO 
+- 251
+: 256 8 17 WHERE 
+: 268 8 20 ARE 
+: 279 5 18 WE 
+- 286
+: 288 10 17 WHERE 
+: 301 7 19 ARE 
+: 311 3 19 WE 
+: 317 32 16 NOW 
+- 351
+: 384 10 20 WHERE 
+: 396 7 19 ARE 
+: 407 6 18 WE 
+- 415
+: 416 11 16 WHERE 
+: 430 6 19 ARE 
+: 439 4 17 WE 
+: 446 30 16 NOW 
+- 478
+: 510 2 20 Old 
+: 515 9 15 woman 
+: 532 2 16 have 
+: 537 2 20 you 
+: 541 3 14 seen 
+: 550 5 16 your 
+: 557 11 16 better 
+: 572 12 11 day 
+- 586
+* 596 2 15 ARE 
+* 601 4 15 YOU 
+* 607 10 16 FEELING 
+* 620 6 16 SO 
+* 630 18 12 ALONE 
+- 650
+: 661 2 14 Well 
+: 666 2 20 the 
+: 670 5 15 times 
+: 678 4 16 they 
+: 685 3 16 all 
+: 691 5 16 have 
+: 700 8 16 changed 
+- 710
+: 711 19 15 Forgotten 
+: 734 11 16 hungry 
+: 748 5 16 and 
+: 757 8 17 cold 
+- 767
+* 768 12 17 VETERAN 
+: 789 2 16 are 
+: 794 3 20 you 
+: 800 19 19 satisfied 
+: 822 5 17 with 
+: 830 13 13 life 
+- 845
+: 854 2 20 Are 
+: 859 2 20 you 
+: 864 10 14 sleeping 
+: 878 5 16 on 
+: 886 21 15 concrete 
+- 909
+: 918 2 20 Are 
+: 923 2 14 you 
+: 927 11 16 forgotten 
+: 941 6 15 and 
+: 951 13 17 alone 
+- 966
+: 968 5 13 Poor 
+: 976 13 16 homeless 
+: 992 4 16 in 
+: 999 4 18 this 
+: 1006 15 17 country 
+- 1023
+: 1025 9 17 WHERE 
+: 1038 8 19 ARE 
+: 1049 6 18 WE 
+- 1057
+: 1059 11 16 WHERE 
+: 1073 6 18 ARE 
+: 1082 4 16 WE 
+: 1089 29 16 NOW 
+- 1120
+: 1156 10 16 WHERE 
+: 1169 6 19 ARE 
+: 1179 6 18 WE 
+- 1187
+: 1189 12 17 WHERE 
+: 1203 7 19 ARE 
+: 1212 3 17 WE 
+: 1218 27 17 NOW 
+- 1247
+: 1279 3 20 Hey 
+: 1286 9 15 senior 
+: 1304 2 14 have 
+: 1309 3 13 you 
+: 1315 4 14 been 
+: 1322 5 17 taken 
+: 1330 5 17 past 
+: 1338 5 18 your 
+: 1346 12 15 prime 
+- 1360
+: 1368 2 20 Have 
+: 1373 2 13 you 
+: 1378 2 14 been 
+: 1383 5 16 taken 
+: 1391 15 12 advantage 
+: 1409 12 9 of 
+- 1423
+: 1434 2 20 Are 
+: 1438 2 14 you 
+: 1443 11 16 forgotten 
+: 1457 6 16 tired 
+: 1466 4 17 and 
+: 1475 6 16 poor 
+- 1483
+: 1485 3 11 By 
+: 1491 3 11 the 
+: 1496 7 17 ones 
+: 1506 3 17 you’ve 
+: 1512 7 17 voted 
+: 1522 13 18 for 
+- 1537
+: 1552 8 16 YEAH 
+: 1563 3 16 YOU’RE 
+: 1569 16 16 ABANDONED 
+: 1588 6 16 SO 
+: 1597 16 16 SORRY 
+- 1615
+: 1617 8 12 YOU’RE 
+: 1628 3 12 JUST 
+: 1633 2 17 A 
+: 1638 5 13 WASTE 
+: 1645 5 17 OF 
+: 1654 5 17 THEIR 
+: 1663 7 14 TIME 
+- 1672
+: 1681 7 14 YEAH 
+: 1692 4 14 YOU’VE 
+: 1699 2 15 BEEN 
+: 1704 5 15 LIED 
+: 1712 4 18 TO 
+: 1720 5 14 ONCE 
+: 1728 15 14 AGAIN 
+- 1745
+: 1746 7 13 YEAH 
+: 1758 3 12 WE’LL 
+: 1763 2 12 THEY’VE 
+: 1768 4 13 PAID 
+: 1775 5 14 YOU 
+: 1783 5 17 NO 
+: 1792 8 12 MIND 
+- 1802
+: 1810 9 15 YEAH 
+: 1823 3 16 YOU’RE 
+: 1829 15 17 ABANDONED 
+: 1847 5 18 SO 
+: 1856 16 17 SORRY 
+- 1874
+: 1875 8 16 YOU’RE 
+: 1887 2 12 JUST 
+: 1892 2 17 A 
+: 1897 5 18 WASTE 
+: 1905 5 18 OF 
+: 1914 5 18 THEIR 
+: 1922 6 19 TIME 
+- 1930
+: 1938 8 16 YEAH 
+: 1950 4 16 YOU’VE 
+: 1957 2 17 BEEN 
+: 1962 4 18 LIED 
+: 1969 5 9 TO 
+: 1977 5 17 ONCE 
+: 1986 14 17 AGAIN 
+- 2002
+: 2004 8 16 YEAH 
+: 2016 3 15 WE’LL 
+: 2022 2 16 THEY’VE 
+: 2026 4 16 PAID 
+: 2033 5 17 YOU 
+: 2041 4 16 NO 
+: 2050 36 16 MIND 
+- 2088
+: 2339 2 16 The 
+: 2344 19 19 slavery 
+: 2366 4 19 of 
+: 2375 21 20 poverty 
+- 2398
+* 2401 4 17 NO 
+* 2407 3 20 ONE 
+* 2414 3 9 SHOULD 
+* 2420 5 19 BE 
+* 2428 7 20 HUNGRY 
+* 2438 3 20 IN 
+* 2444 3 19 THIS 
+* 2449 11 19 COUNTRY 
+- 2462
+: 2465 9 19 Enough 
+: 2477 3 20 to 
+: 2483 8 20 feed 
+: 2498 4 9 to 
+: 2505 18 9 medicate 
+- 2525
+: 2528 4 20 To 
+: 2535 5 9 clothe 
+: 2543 2 20 the 
+: 2548 3 20 backs 
+: 2553 3 19 and 
+: 2559 4 9 housing 
+: 2567 3 20 for 
+: 2572 15 19 families 
+- 2589
+: 2592 4 19 The 
+: 2599 5 9 cuts 
+: 2607 3 16 in 
+: 2613 7 19 care 
+: 2627 2 19 and 
+: 2632 17 20 medicaid 
+: 2656 4 19 lead 
+: 2664 4 20 me 
+: 2671 5 19 believe 
+- 2678
+: 2680 3 20 Our 
+: 2686 4 20 government 
+: 2693 2 20 just 
+: 2698 3 20 doesn’t 
+: 2704 7 19 care 
+- 2713
+: 2722 3 19 We 
+: 2728 3 20 send 
+: 2735 3 19 our 
+: 2741 7 18 aid 
+: 2753 3 19 our 
+: 2760 7 20 misspent 
+: 2770 9 10 funds 
+- 2781
+: 2786 20 20 Americans 
+: 2809 11 9 hungry 
+: 2825 5 10 living 
+: 2833 2 10 in 
+: 2838 2 10 the 
+: 2842 35 9 gutter 
+- 2879
+: 3102 2 16 The 
+: 3107 4 20 cuts 
+: 3114 2 19 in 
+: 3119 7 18 care 
+: 3134 2 19 and 
+: 3139 19 20 medicaid 
+: 3165 3 19 lead 
+: 3171 4 9 me 
+: 3178 4 19 believe 
+- 3184
+: 3186 2 9 Our 
+: 3191 7 9 government 
+: 3200 2 20 just 
+: 3205 3 18 doesn’t 
+: 3210 9 19 care 
+- 3221
+: 3228 2 18 We 
+: 3233 4 20 send 
+: 3241 2 19 our 
+: 3246 6 18 aid 
+: 3260 3 9 our 
+: 3266 6 10 misspent 
+: 3276 9 11 funds 
+- 3287
+: 3293 20 9 Americans 
+: 3316 11 9 hungry 
+: 3331 5 10 living 
+: 3339 2 9 in 
+: 3344 2 10 the 
+: 3348 39 10 gutter 
+- 3389
+: 3445 8 10 WHERE 
+: 3456 6 9 ARE 
+: 3466 6 19 WE 
+- 3474
+: 3476 10 9 WHERE 
+: 3489 7 19 ARE 
+: 3499 4 17 WE 
+: 3505 28 18 NOW 
+- 3535
+: 3572 9 10 WHERE 
+: 3585 7 9 ARE 
+: 3595 7 20 WE 
+- 3604
+: 3605 9 9 WHERE 
+: 3617 8 19 ARE 
+: 3629 3 18 WE 
+: 3635 28 18 NOW 
+- 3665
+: 3709 9 20 YEAH 
+: 3721 3 19 YOU’RE 
+: 3727 16 10 ABANDONED 
+: 3746 5 17 SO 
+: 3754 15 17 SORRY 
+- 3771
+: 3773 7 17 YOU’RE 
+: 3785 3 19 JUST 
+: 3790 2 19 A 
+: 3795 5 12 WASTE 
+: 3802 4 17 OF 
+: 3810 5 19 THEIR 
+: 3818 7 19 TIME 
+- 3827
+: 3835 9 18 YEAH 
+: 3847 6 19 YOU’VE 
+: 3856 4 9 BEEN 
+: 3863 4 19 LIED 
+: 3870 4 17 TO 
+: 3877 5 19 ONCE 
+: 3885 13 16 AGAIN 
+- 3900
+: 3902 7 16 YEAH 
+: 3912 4 17 WE’LL 
+: 3918 2 19 THEY’VE 
+: 3923 3 19 PAID 
+: 3929 4 17 YOU 
+: 3936 5 16 NO 
+: 3945 14 19 MIND 
+- 3961
+: 3965 8 19 YEAH 
+: 3976 4 19 YOU’RE 
+: 3983 15 9 ABANDONED 
+: 4001 6 19 SO 
+: 4010 16 18 SORRY 
+- 4028
+: 4029 9 18 YOU’RE 
+: 4041 2 19 JUST 
+: 4045 2 20 A 
+: 4050 5 9 WASTE 
+: 4058 5 16 OF 
+: 4066 5 20 THEIR 
+: 4074 8 20 TIME 
+- 4084
+: 4092 7 18 YEAH 
+: 4103 3 19 YOU’VE 
+: 4109 2 19 BEEN 
+: 4113 4 20 LIED 
+: 4121 4 18 TO 
+: 4128 4 18 ONCE 
+: 4135 14 17 AGAIN 
+- 4151
+: 4154 7 16 YEAH 
+: 4166 3 17 WE’LL 
+: 4171 2 19 THEY’VE 
+: 4176 4 19 PAID 
+: 4184 4 18 YOU 
+: 4191 4 17 NO 
+: 4199 31 18 MIND 
+E

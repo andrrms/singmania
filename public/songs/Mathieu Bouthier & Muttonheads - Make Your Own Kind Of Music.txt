@@ -1,0 +1,323 @@
+#ARTIST:Mathieu Bouthier & Muttonheads
+#TITLE:Make Your Own Kind Of Music
+#MP3:Mathieu Bouthier & Muttonheads - Make Your Own Kind Of Music.mp3
+#CREATOR:Lolomazz
+#COVER:Mathieu Bouthier & Muttonheads - Make Your Own Kind Of Music [CO].jpg
+#BACKGROUND:Mathieu Bouthier & Muttonheads - Make Your Own Kind Of Music [BG].jpg
+#YEAR:2006
+#LANGUAGE:English
+#BPM:240
+#GAP:34740
+#VIDEO:v=R_R6GarCcjk,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/34/6d/9a346da7-16e3-ba9d-506b-32322f1ed47a/4250783678989.png/5000x5000bb.jpg
+F 0 7 20 Make
+F 15 3 20  your
+F 19 6 20  own
+F 26 6 20  kind
+F 35 2 18  of
+F 38 5 16  mu
+F 44 6 18 sic
+- 58
+F 61 7 20 Make
+F 76 3 20  your
+F 80 6 20  own
+F 87 6 20  kind
+F 96 2 18  of
+F 99 5 16  mu
+F 105 6 18 sic
+- 118
+F 121 7 20 Make
+F 136 3 20  your
+F 140 6 20  own
+F 147 6 20  kind
+F 156 2 18  of
+F 159 5 16  mu
+F 165 6 18 sic
+- 179
+: 182 7 20 Make
+: 197 3 20  your
+: 201 6 20  own
+: 208 6 20  kind
+: 217 2 18  of
+: 220 5 16  mu
+: 226 6 18 sic
+- 240
+: 243 7 20 Make
+: 258 3 20  your
+: 262 6 20  own
+: 269 6 20  kind
+: 278 2 18  of
+: 281 5 16  mu
+: 287 6 18 sic
+- 300
+: 303 7 20 Make
+: 318 3 20  your
+: 322 6 20  own
+: 329 6 20  kind
+: 338 2 18  of
+: 341 5 16  mu
+: 347 6 18 sic
+- 363
+: 373 7 23 Sing
+: 383 2 23  your
+: 386 5 23  own
+: 392 3 21  spe
+: 396 6 20 cial
+: 403 6 18  song
+- 420
+: 424 7 20 Make
+: 438 4 20  your
+: 443 6 21  own
+: 450 6 20  kind
+: 458 3 18  of
+: 462 6 16  mu
+: 469 6 18 sic
+- 476
+: 478 10 16 Even
+: 490 4 11  if
+: 495 2 16  no
+: 498 5 11 bo
+: 504 7 16 dy
+: 512 5 16  else
+: 518 5 11  sings
+: 524 4 16  a
+: 529 7 18 long
+- 552
+: 596 7 20 (Make
+: 611 3 20  your
+: 615 6 20  own
+: 622 6 20  kind
+: 631 2 18  of
+: 634 5 16  mu
+: 640 6 18 sic
+- 653
+: 656 17 23 Sing
+: 676 2 23  your
+* 679 5 23  own
+* 685 3 21  spe
+* 689 6 20 cial
+* 696 6 18  song)
+- 712
+: 716 7 20 (Make
+: 731 3 20  your
+: 735 6 20  own
+: 742 6 20  kind
+: 751 2 18  of
+: 754 5 16  mu
+: 760 6 18 sic
+- 773
+: 776 17 23 Sing
+: 796 2 23  your
+: 799 5 23  own
+: 805 3 21  spe
+: 809 6 20 cial
+: 816 6 18  song)
+- 833
+: 837 7 20 (Make
+: 852 3 20  your
+: 856 6 20  own
+: 863 6 20  kind
+: 872 2 18  of
+: 875 5 16  mu
+: 881 6 18 sic
+- 894
+: 897 17 23 Sing
+: 917 2 23  your
+: 920 5 23  own
+: 926 3 21  spe
+: 930 6 20 cial
+: 937 6 18  song)
+- 954
+: 958 7 20 (Make
+: 973 3 20  your
+: 977 6 20  own
+: 984 6 20  kind
+: 993 2 18  of
+: 996 5 16  mu
+: 1002 6 18 sic
+- 1015
+: 1018 17 23 Sing
+: 1038 2 23  your
+: 1041 5 23  own
+: 1047 3 21  spe
+* 1051 6 20 cial
+* 1058 6 18  song)
+- 1074
+: 1081 7 20 (Make
+: 1096 3 20  your
+: 1100 6 20  own
+: 1107 6 20  kind
+: 1116 2 18  of
+: 1119 5 16  mu
+: 1125 6 18 sic
+- 1163
+: 1266 17 23 Sing
+: 1286 2 23  your
+: 1289 5 23  own
+: 1295 3 21  spe
+: 1299 6 20 cial
+: 1306 6 18  song)
+- 1344
+: 1444 7 20 (Make
+: 1459 3 20  your
+: 1463 6 20  own
+: 1470 6 20  kind
+: 1479 2 18  of
+: 1482 5 16  mu
+: 1488 6 18 sic
+- 1503
+: 1506 15 23 Sing
+: 1524 2 23  your
+: 1527 5 23  own
+: 1533 3 21  spe
+: 1537 6 20 cial
+: 1544 6 18  song)
+- 1561
+: 1565 7 20 Make
+: 1579 4 20  your
+: 1584 6 21  own
+: 1591 6 20  kind
+: 1599 3 18  of
+: 1603 6 16  mu
+: 1610 6 18 sic
+- 1617
+: 1619 10 16 Even
+: 1631 4 11  if
+: 1636 2 16  no
+: 1639 5 11 bo
+: 1645 7 16 dy
+: 1653 5 16  else
+: 1659 5 11  sings
+: 1665 4 16  a
+: 1670 7 18 long
+- 1693
+: 1735 7 20 (Make
+: 1750 3 20  your
+: 1754 6 20  own
+: 1761 6 20  kind
+: 1770 2 18  of
+: 1773 5 16  mu
+: 1779 6 18 sic
+- 1794
+: 1797 15 23 Sing
+* 1815 2 23  your
+: 1818 5 23  own
+: 1824 3 21  spe
+: 1828 6 20 cial
+: 1835 6 18  song)
+- 1851
+: 1855 7 20 (Make
+: 1870 3 20  your
+: 1874 6 20  own
+: 1881 6 20  kind
+: 1890 2 18  of
+: 1893 5 16  mu
+: 1899 6 18 sic
+- 1914
+: 1917 15 23 Sing
+: 1935 2 23  your
+: 1938 5 23  own
+: 1944 3 21  spe
+: 1948 6 20 cial
+: 1955 6 18  song)
+- 1972
+: 1976 7 20 (Make
+: 1991 3 20  your
+: 1995 6 20  own
+: 2002 6 20  kind
+: 2011 2 18  of
+: 2014 5 16  mu
+: 2020 6 18 sic
+- 2038
+: 2042 11 23 Sing
+: 2056 2 23  your
+: 2059 5 23  own
+: 2065 3 21  spe
+: 2069 6 20 cial
+: 2076 6 18  song)
+- 2093
+: 2097 7 20 Make
+: 2111 4 20  your
+: 2116 6 21  own
+: 2123 6 20  kind
+: 2131 3 18  of
+: 2135 6 16  mu
+: 2142 6 18 sic
+- 2149
+: 2151 10 16 Even
+: 2163 4 11  if
+: 2168 2 16  no
+* 2171 5 11 bo
+* 2177 7 16 dy
+* 2185 5 16  else
+: 2191 5 11  sings
+: 2197 4 16  a
+: 2202 7 18 long
+- 2225
+: 2269 7 20 (Make
+: 2284 3 20  your
+: 2288 6 20  own
+: 2295 6 20  kind
+: 2304 2 18  of
+: 2307 5 16  mu
+: 2313 6 18 sic
+- 2328
+: 2331 15 23 Sing
+: 2349 2 23  your
+: 2352 5 23  own
+: 2358 3 21  spe
+: 2362 6 20 cial
+: 2369 6 18  song)
+- 2385
+: 2389 7 20 (Make
+: 2404 3 20  your
+: 2408 6 20  own
+: 2415 6 20  kind
+: 2424 2 18  of
+: 2427 5 16  mu
+: 2433 6 18 sic
+- 2448
+: 2451 15 23 Sing
+: 2469 2 23  your
+: 2472 5 23  own
+: 2478 3 21  spe
+: 2482 6 20 cial
+: 2489 6 18  song)
+- 2507
+: 2511 7 20 (Make
+: 2526 3 20  your
+: 2530 6 20  own
+* 2537 6 20  kind
+: 2546 2 18  of
+: 2549 5 16  mu
+: 2555 6 18 sic
+- 2570
+: 2573 15 23 Sing
+: 2591 2 23  your
+: 2594 5 23  own
+: 2600 3 21  spe
+: 2604 6 20 cial
+: 2611 6 18  song)
+- 2629
+: 2633 7 20 (Make
+: 2648 3 20  your
+: 2652 6 20  own
+: 2659 6 20  kind
+: 2668 2 18  of
+: 2671 5 16  mu
+: 2677 6 18 sic
+- 2692
+: 2695 15 23 Sing
+: 2713 2 23  your
+: 2716 5 23  own
+: 2722 3 21  spe
+: 2726 6 20 cial
+: 2733 6 18  song)
+- 2750
+: 2754 7 20 Make
+: 2769 3 20  your
+: 2773 6 20  own
+* 2780 6 20  kind
+* 2789 2 18  of
+* 2792 5 16  mu
+* 2798 6 18 sic
+E

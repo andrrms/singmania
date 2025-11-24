@@ -1,0 +1,348 @@
+#ARTIST:The Postal Service
+#TITLE:Nothing Better [DUET]
+#MP3:The Postal Service - Nothing Better [DUET].mp3
+#CREATOR:x-y-zero
+#EDITION:[DUET]-Songs
+#YEAR:2003
+#LANGUAGE:English
+#BPM:270
+#GAP:26980
+#VIDEO:v=nNl5k4yseEY,co=give-up-4f0b230a2b4ff.jpg,bg=the-postal-service-4f0b23ed9b844.jpg,p1=Ben Gibbard,p2=Jen Wood
+P1
+: 0 3 -3 Will 
+: 4 3 6 some
+: 8 3 6 one 
+: 12 5 6 please 
+: 18 5 4 call 
+: 24 3 2 a 
+: 28 7 4 sur
+: 36 8 2 geon 
+- 46
+: 52 3 2 Who 
+: 56 3 4 can 
+: 60 7 6 crack 
+: 68 5 9 my 
+: 74 5 6 ribs 
+- 80
+: 80 3 4 And 
+: 84 7 2 re
+: 92 7 -1 pair 
+: 100 7 -1 this 
+: 108 3 -1 bro
+: 112 7 6 ken 
+: 120 8 4 heart 
+- 130
+: 134 5 2 That 
+: 140 7 2 you’re 
+: 148 3 1 de
+: 152 7 2 ser
+: 160 8 -1 ting 
+- 170
+: 184 3 -1 For 
+: 188 7 7 bet
+: 196 7 7 ter 
+: 204 7 7 com
+: 212 3 6 pa
+: 216 8 4 ny 
+- 226
+: 256 3 -3 I 
+: 260 3 6 can’t 
+: 264 3 6 ac
+: 268 5 6 cept 
+: 274 5 4 that 
+: 280 3 2 it’s 
+: 284 7 4 o
+: 292 8 2 ver 
+- 302
+: 308 3 2 I 
+: 312 3 4 will 
+: 316 7 6 block 
+: 324 3 2 the 
+: 328 7 9 door 
+- 336
+: 336 3 6 Like 
+: 340 7 4 a 
+: 348 7 -1 goa
+: 356 7 -1 lie 
+: 364 3 -1 ten
+: 368 3 -1 ding 
+: 372 3 6 the 
+: 376 8 4 net 
+- 386
+: 388 7 2 In 
+: 396 3 1 the 
+: 400 7 1 third 
+: 408 7 2 quar
+: 416 8 -1 ter 
+: 436 3 -1 of 
+: 440 3 -1 a 
+: 444 7 7 tied-
+: 452 7 7 game 
+: 460 7 7 ri
+: 468 3 6 val
+: 472 8 4 ry 
+- 482
+: 532 8 1 So 
+: 548 7 2 just 
+: 556 12 2 say 
+: 572 7 2 how 
+: 580 3 2 to 
+: 584 7 2 make 
+: 592 7 -1 it 
+: 600 12 4 right 
+- 614
+: 660 8 1 And 
+: 676 7 2 I 
+: 684 7 14 swear 
+: 692 7 14 I’ll 
+: 700 3 7 do 
+: 704 7 7 my 
+: 712 7 7 best 
+: 720 3 7 to 
+: 724 7 6 com
+: 732 8 4 ply 
+- 742
+: 796 7 14 Tell 
+: 804 7 14 me 
+: 812 3 7 am 
+: 816 7 7 I 
+: 824 8 9 right 
+: 836 7 6 to 
+: 844 7 4 think 
+- 852
+: 852 3 2 That 
+: 856 3 4 there 
+: 860 7 9 could 
+: 868 3 6 be 
+: 872 7 4 no
+: 880 7 2 thing 
+: 888 7 4 bet
+: 896 8 6 ter 
+- 906
+: 920 3 2 Than 
+: 924 7 14 ma
+: 932 7 14 king 
+: 940 3 7 you 
+: 944 7 7 my 
+: 952 8 9 bride 
+- 962
+: 964 7 6 And 
+: 972 7 4 slow
+: 980 7 2 ly 
+: 988 7 1 gro
+: 996 7 1 wing 
+: 1004 7 1 old 
+: 1012 3 1 to
+: 1016 7 2 ge
+: 1024 8 -1 ther 
+- 1034
+: 1828 7 1 I 
+: 1836 7 14 can’t 
+: 1844 7 14 my 
+: 1852 5 7 dar
+: 1858 5 7 ling 
+: 1864 3 7 I 
+: 1868 3 7 love 
+: 1872 7 6 you 
+: 1880 12 9 so … 
+- 1894
+: 1908 7 6 Oh, 
+: 1916 12 4 oh 
+- 1930
+: 1948 7 14 Tell 
+: 1956 7 14 me 
+: 1964 3 7 am 
+: 1968 7 7 I 
+: 1976 8 9 right 
+: 1988 7 6 to 
+: 1996 7 4 think 
+- 2004
+: 2004 3 2 That 
+: 2008 3 4 there 
+: 2012 7 9 could 
+: 2020 3 6 be 
+: 2024 7 4 no
+: 2032 7 2 thing 
+: 2040 7 4 bet
+: 2048 8 6 ter 
+- 2058
+: 2072 3 2 Than 
+: 2076 7 14 ma
+: 2084 7 14 king 
+: 2092 3 7 you 
+: 2096 7 7 my 
+: 2104 8 9 bride 
+- 2114
+: 2116 7 6 And 
+: 2124 7 4 slow
+: 2132 7 2 ly 
+: 2140 7 1 gro
+: 2148 7 1 wing 
+: 2156 7 1 old 
+: 2164 3 1 to
+: 2168 7 2 ge
+: 2176 8 -1 ther 
+- 2186
+: 2980 7 2 I 
+: 2988 7 2 know 
+: 2996 7 2 that 
+: 3004 7 2 I 
+: 3012 3 2 have 
+: 3016 7 2 made 
+: 3024 7 -1 mis
+: 3032 3 4 tak
+: 3036 8 6 es 
+- 3046
+: 3092 8 1 And 
+: 3108 7 2 I 
+: 3116 7 14 swear 
+: 3124 7 14 I’ll 
+: 3132 3 7 ne
+: 3136 7 7 ver 
+: 3144 7 7 wrong 
+: 3152 3 7 you 
+: 3156 3 6 a
+: 3160 12 4 gain 
+P2
+: 1152 3 -3 I 
+: 1156 3 6 feel 
+: 1160 3 6 I 
+: 1164 5 6 must 
+: 1170 5 4 in
+: 1176 3 2 ter
+: 1180 7 4 ject 
+: 1188 8 2 here 
+- 1198
+: 1200 3 1 You’re 
+: 1204 3 2 get
+: 1208 3 4 ting 
+: 1212 3 6 car
+: 1216 3 6 ried 
+: 1220 3 9 a
+: 1224 7 6 way 
+- 1232
+: 1232 3 4 Fee
+: 1236 7 2 ling 
+: 1244 7 -1 sor
+: 1252 7 -1 ry 
+: 1260 3 -1 for 
+: 1264 7 6 your
+: 1272 8 4 self 
+- 1282
+: 1284 7 2 With 
+: 1292 7 1 these 
+: 1300 3 1 re
+: 1304 7 2 vi
+: 1312 8 -1 sions 
+: 1336 3 -1 and 
+: 1340 7 6 gaps 
+: 1348 7 7 in 
+: 1356 7 7 his
+: 1364 3 6 to
+: 1368 8 4 ry 
+- 1378
+: 1408 3 -3 So 
+: 1412 3 6 let 
+: 1416 3 6 me 
+: 1420 5 6 help 
+: 1426 5 4 you 
+: 1432 3 2 re
+: 1436 7 4 mem
+: 1444 8 2 ber 
+- 1454
+: 1456 3 2 I’ve 
+: 1460 7 4 made 
+: 1468 7 6 charts 
+: 1476 3 9 and 
+: 1480 7 6 graphs 
+- 1488
+: 1488 3 4 That 
+: 1492 7 2 should 
+: 1500 7 -1 final
+: 1508 7 -1 ly 
+: 1516 3 -1 make 
+: 1520 7 6 it 
+: 1528 7 4 clear. 
+- 1536
+: 1536 3 2 I’ve 
+: 1540 7 2 pre
+: 1548 7 1 pared 
+: 1556 3 1 a 
+: 1560 7 2 lec
+: 1568 8 -1 ture 
+: 1592 3 -1 on 
+: 1596 7 6 why 
+: 1604 7 7 I 
+: 1612 7 7 have 
+: 1620 3 6 to 
+: 1624 12 4 leave 
+- 1638
+: 1684 8 1 So 
+: 1700 7 2 please 
+: 1708 7 2 back 
+: 1716 7 2 a
+: 1724 7 2 way 
+: 1732 3 2 and 
+: 1736 7 2 let 
+: 1744 7 -1 me 
+: 1752 12 4 go 
+- 1766
+: 1908 7 6 Oh, 
+: 1916 12 4 oh 
+- 1930
+: 2204 7 2 Don’t 
+: 2212 7 2 you 
+: 2220 3 7 feed 
+: 2224 7 7 me 
+: 2232 12 9 lies 
+- 2246
+: 2248 3 6 A
+: 2252 7 4 bout 
+: 2260 7 2 some 
+: 2268 7 9 i
+: 2276 3 6 dea
+: 2280 7 4 lis
+: 2288 7 2 tic 
+: 2296 7 4 fu
+: 2304 8 6 ture 
+- 2314
+: 2332 7 2 Your 
+: 2340 7 2 heart 
+: 2348 3 7 won’t 
+: 2352 7 7 heal 
+: 2360 11 9 right 
+- 2372
+: 2372 7 6 If 
+: 2380 7 4 you 
+: 2388 7 2 keep 
+: 2396 7 1 tea
+: 2404 7 1 ring 
+: 2412 7 1 out 
+: 2420 3 1 the 
+: 2424 7 2 su
+: 2432 8 -1 tures 
+- 2442
+: 3236 7 2 You’ve 
+: 3244 7 2 got 
+: 3252 7 2 a 
+: 3260 7 2 lure 
+: 3268 3 2 I 
+: 3272 7 2 can’t 
+: 3280 7 -1 de
+: 3288 3 4 ny
+: 3292 8 6 ~ 
+- 3302
+: 3348 8 1 But 
+: 3364 7 2 you’ve 
+: 3372 7 2 had 
+: 3380 7 2 your 
+: 3388 7 7 chance 
+: 3396 7 7 so 
+: 3404 7 7 say 
+: 3412 3 6 good
+: 3416 16 4 bye 
+- 3434
+: 3468 7 6 Say 
+: 3476 7 1 good
+: 3484 16 2 bye 
+E

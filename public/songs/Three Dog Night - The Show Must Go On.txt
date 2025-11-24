@@ -1,0 +1,287 @@
+#ARTIST:Three Dog Night
+#TITLE:The Show Must Go On
+#MP3:Three Dog Night - The Show Must Go On.mp3
+#CREATOR:Lolomazz
+#COVER:Three Dog Night - The Show Must Go On [CO].jpg
+#BACKGROUND:Three Dog Night - The Show Must Go On [BG].jpg
+#YEAR:1974
+#LANGUAGE:English
+#BPM:204
+#GAP:34000
+#VIDEO:a=o4HSeHY5Q18,v=bZBycguKPBU,co=https://i.discogs.com/j3hXHnGLzcOp9uD0JTljJUPCMjSKfvrhJC5CoGx9xgU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDk1/OTMtMTUwODA3NjY1/NC03Njc0LmpwZWc.jpeg,bg=three-dog-night-52e4b8bda636f.JPG
+: 0 3 9 Ba
+: 4 5 9 by, 
+: 20 3 9 al
+: 24 1 9 though 
+: 26 5 9 I 
+: 32 3 9 chose 
+: 36 3 9 this 
+: 40 3 9 lone
+: 44 3 9 ly 
+: 48 3 9 life 
+- 51
+: 52 3 9 It 
+: 56 3 7 seems 
+: 60 3 7 it’s 
+: 64 3 7 stran
+: 68 3 7 glin’ 
+: 72 3 4 me 
+: 76 5 4 now 
+- 94
+: 128 3 4 All 
+: 132 1 9 the 
+: 134 5 9 wild 
+: 140 3 9 men, 
+: 144 3 9 big 
+: 148 1 9 ci
+: 150 5 9 gars, 
+: 156 3 9 gi
+: 160 3 9 gan
+: 164 1 7 tic 
+: 166 5 5 car 
+- 177
+: 180 3 5 They’re 
+: 184 7 9 all 
+: 192 3 7 laugh
+: 196 3 7 in’ 
+: 200 3 4 at 
+: 204 1 4 the 
+: 206 7 2 lie 
+- 226
+: 244 1 4 Oh, 
+: 246 5 5 I’ve 
+: 252 3 5 been 
+: 256 5 5 used, 
+: 268 19 5 Ooo
+: 288 7 14 oo 
+- 304
+: 308 3 12 I’ve 
+: 312 1 5 been 
+: 314 5 5 a 
+: 320 5 5 fool, 
+: 332 13 5 Oh 
+: 348 1 9 what 
+: 350 3 7 a 
+: 354 7 5 fool 
+- 372
+: 376 3 7 I 
+: 380 1 4 broke 
+: 382 3 4 all 
+: 386 1 4 the 
+: 388 5 4 rules, 
+: 398 15 5 Oh
+: 414 3 5 ~ 
+: 418 9 14 yeah 
+- 435
+: 438 5 12 But 
+: 444 7 9 I 
+: 452 3 9 must 
+: 456 3 9 let 
+* 460 3 7 the 
+* 464 5 5 show 
+* 470 7 7 go 
+: 478 7 5 on 
+- 498
+: 516 3 5 Ba
+: 520 5 9 by, 
+: 538 1 9 there’s 
+: 540 3 9 an 
+: 544 3 9 e
+: 548 3 9 nor
+: 552 3 9 mous 
+: 556 3 9 crowd 
+: 560 3 9 of 
+: 564 5 9 peo
+: 570 3 9 ple 
+- 573
+: 574 1 7 They’re 
+: 576 3 7 all 
+: 580 3 7 af
+: 584 3 7 ter 
+: 588 3 4 my 
+: 592 5 4 blood 
+- 610
+: 640 3 4 I 
+: 644 3 9 wish 
+: 648 3 9 may
+: 652 3 9 be 
+: 656 3 9 they’d 
+: 660 7 9 tear 
+: 668 3 9 down 
+: 672 1 9 the 
+: 674 5 7 walls 
+: 680 3 9 of 
+: 684 3 9 this 
+: 688 3 9 the
+: 692 1 9 a
+: 694 5 9 tre 
+- 699
+: 700 3 9 Let 
+: 704 3 7 me 
+: 708 5 5 out, 
+: 716 3 7 let 
+: 720 1 4 me 
+: 722 5 2 out 
+- 740
+: 760 1 4 Oh, 
+: 762 5 5 I’m 
+: 768 3 5 so 
+: 772 5 5 blind, 
+: 784 11 5 Oh 
+: 798 5 9 I’m 
+: 804 5 7 blind 
+- 820
+: 824 3 4 I 
+: 828 3 4 wast
+: 832 3 4 ed 
+: 836 5 4 time, 
+: 844 3 5 wast
+: 848 3 9 ed, 
+: 852 3 7 wast
+: 856 3 9 ed, 
+: 860 3 9 wast
+: 864 3 9 ed 
+: 868 5 5 time 
+- 884
+: 888 1 7 Walk
+: 890 1 4 in’ 
+: 892 1 4 on 
+: 894 5 4 the 
+: 900 7 4 wire, 
+: 912 19 5 high 
+: 932 7 14 wire 
+- 950
+: 954 3 12 But 
+: 958 7 9 I 
+* 966 3 9 must 
+* 970 3 9 let 
+: 974 3 7 the 
+: 978 7 5 show 
+: 986 7 7 go 
+: 994 7 5 on 
+- 1028
+: 1278 1 5 Oh, 
+: 1280 5 5 I’m 
+: 1286 3 5 so 
+: 1290 7 5 blind 
+- 1306
+: 1310 5 5 Oh 
+: 1318 3 9 I’m 
+: 1322 5 5 blind 
+- 1338
+: 1342 3 7 I 
+: 1346 3 4 wast
+: 1350 3 4 ed 
+: 1354 5 4 time, 
+: 1362 3 5 wast
+: 1366 3 9 ed, 
+: 1370 3 9 wast
+: 1374 3 9 ed, 
+: 1378 1 9 all 
+: 1380 3 9 too 
+: 1384 1 7 much 
+: 1386 5 5 time 
+- 1402
+: 1406 1 7 Walk
+: 1408 1 4 in’ 
+: 1410 3 4 on 
+: 1414 3 4 the 
+: 1418 7 4 wire, 
+: 1430 19 5 high 
+: 1450 7 14 wire 
+- 1468
+: 1472 3 12 But 
+: 1476 7 9 I 
+: 1484 3 9 must 
+: 1488 3 9 let 
+: 1492 3 7 the 
+* 1496 7 5 show 
+* 1504 7 7 go 
+* 1512 7 5 on 
+- 1532
+: 1548 3 5 Ba
+: 1552 5 9 by, 
+: 1568 3 9 I 
+: 1572 1 9 wish 
+: 1574 5 9 you’d 
+: 1580 3 9 help 
+: 1584 3 9 me 
+: 1588 1 7 es
+: 1590 5 5 cape 
+- 1601
+: 1604 3 9 Help 
+: 1608 3 7 me 
+: 1612 1 5 get 
+: 1614 3 7 a
+: 1618 5 4 way 
+- 1650
+: 1678 5 4 Leave 
+: 1684 3 5 me 
+: 1688 3 5 out
+: 1692 3 5 side 
+: 1696 1 5 my 
+: 1698 3 9 ad
+: 1702 5 9 dress 
+- 1712
+: 1714 3 9 Far 
+: 1718 5 7 a
+: 1724 5 5 way 
+: 1734 3 9 from 
+: 1738 3 7 this 
+: 1742 5 5 mas
+: 1750 3 7 quer
+: 1754 5 4 a
+: 1760 5 4 de 
+- 1778
+: 1794 1 2 ’Cause 
+: 1796 5 4 I’ve 
+: 1802 3 5 been 
+: 1806 7 4 blind, 
+: 1818 13 5 Oh 
+: 1832 7 9 so 
+: 1840 7 7 blind 
+- 1855
+: 1858 3 4 I 
+: 1862 3 4 wast
+: 1866 3 4 ed 
+: 1870 3 4 time 
+: 1878 3 5 wast
+: 1882 3 9 ed, 
+: 1886 3 7 wast
+: 1890 3 9 ed, 
+: 1898 3 9 wast
+: 1902 3 9 ed 
+: 1906 3 5 time 
+- 1918
+: 1922 1 7 Walk
+: 1924 1 4 in’ 
+: 1926 1 4 on 
+: 1928 5 4 the 
+: 1934 7 4 wire, 
+: 1952 13 5 high
+: 1966 1 5 ~ 
+: 1968 9 14 wire 
+- 1986
+: 1990 3 12 But 
+: 1994 5 9 I 
+: 2002 3 9 must 
+: 2006 3 9 let 
+: 2010 3 7 the 
+: 2014 5 5 show 
+: 2022 3 7 go 
+- 2025
+: 2026 5 5 I 
+: 2034 3 9 must 
+: 2038 3 9 let 
+: 2042 3 7 the 
+* 2046 5 5 show 
+* 2054 3 7 go 
+- 2057
+: 2058 5 5 I 
+: 2066 3 9 must 
+: 2070 3 9 let 
+* 2074 3 7 the 
+* 2078 5 5 show 
+: 2086 5 7 go 
+: 2094 5 5 on 
+E

@@ -1,0 +1,335 @@
+#ARTIST:Bill Haley & His Comets
+#TITLE:Rock Around The Clock
+#MP3:Bill Haley & His Comets - Rock Around The Clock.mp3
+#CREATOR:MasterChristian
+#YEAR:1954
+#LANGUAGE:English
+#BPM:272
+#GAP:920
+#VIDEO:a=hzYBEJgKjv0,co=rock-around-the-clock-5417255c0dc15.jpg,bg=haley-bill--his-comets-54a25a04490a9.jpg
+: 0 4 -3 One, 
+: 6 4 -3 two, 
+: 12 3 -3 three 
+: 16 1 -3 o’
+: 18 4 -3 clock, 
+: 25 3 -3 four 
+: 29 1 -3 o’
+: 31 3 -3 clock 
+: 37 3 -3 rock 
+- 42
+: 49 5 1 Five, 
+: 55 5 1 six, 
+: 61 2 1 se
+: 64 1 1 ven 
+: 66 1 1 o’
+: 68 3 1 clock, 
+: 73 3 1 eight 
+: 77 1 1 o’
+: 79 4 1 clock 
+: 85 4 1 rock 
+- 91
+: 97 5 4 Nine, 
+: 104 3 4 ten, 
+: 108 1 4 e
+: 110 1 4 le
+: 112 1 4 ven 
+: 114 1 4 o’
+: 116 3 4 clock, 
+: 122 3 4 twelve 
+: 126 1 4 o’
+: 128 4 4 clock 
+: 134 3 4 rock 
+- 138
+: 138 1 4 We’re 
+: 140 2 4 gon
+: 143 1 4 na 
+: 145 5 4 rock 
+: 155 1 4 a
+: 157 5 4 round 
+: 168 1 4 the 
+: 170 4 4 clock 
+: 176 3 4 to
+: 180 4 4 night 
+- 185
+: 186 3 -1 Put 
+: 193 1 1 your 
+: 195 3 -3 glad 
+: 200 6 1 rags 
+: 207 4 4 on, 
+: 219 5 -3 join 
+: 225 3 1 me 
+: 229 4 4 on 
+- 235
+: 241 1 1 We’ll 
+: 243 3 -3 have 
+: 248 4 1 some 
+: 254 5 4 fun 
+: 261 3 6 when 
+* 265 2 4 the 
+: 268 4 7 clock 
+: 273 5 4 strikes 
+: 279 4 0 one 
+- 284
+: 284 1 -3 We’re 
+: 286 1 -3 gon
+: 288 2 -5 na 
+: 291 3 4 rock 
+: 300 2 2 a
+: 303 4 0 round 
+: 308 3 -3 the 
+: 314 4 4 clock 
+: 321 2 2 to
+: 324 2 0 night 
+- 328
+: 331 1 4 We’re 
+: 333 2 4 gon
+: 336 1 4 na 
+: 338 3 4 rock, 
+: 344 3 2 rock, 
+: 350 3 1 rock, 
+: 356 2 -3 till 
+: 359 2 -3 the 
+: 362 4 4 broad 
+: 367 3 2 day
+: 371 3 1 light 
+- 376
+: 378 1 2 We’re 
+: 380 2 2 gon
+: 383 2 1 na 
+: 386 3 2 rock, 
+: 391 3 2 gon
+: 395 1 1 na 
+: 397 4 2 rock 
+: 402 6 4 a
+: 409 5 4 round 
+: 415 3 2 the 
+: 419 4 1 clock 
+* 428 1 -3 to
+* 430 19 -3 night 
+- 451
+: 473 5 9 When 
+: 479 1 9 the 
+: 481 4 9 clock 
+: 486 5 13 strikes 
+: 492 6 16 two, 
+: 504 4 9 three 
+: 509 3 13 and 
+: 513 7 16 four 
+- 521
+: 521 3 13 If 
+: 527 1 9 the 
+: 529 4 13 band 
+: 534 5 16 slows 
+: 540 5 18 down 
+: 546 5 16 we’ll 
+: 552 5 19 yell 
+: 558 4 16 for 
+: 563 4 12 more 
+- 569
+: 570 1 9 We’re 
+: 572 1 9 gon
+: 574 2 7 na 
+: 577 3 16 rock 
+: 586 2 14 a
+: 589 4 12 round 
+: 594 3 9 the 
+: 600 4 16 clock 
+: 607 2 14 to
+: 610 2 12 night 
+- 614
+: 616 1 16 We’re 
+: 618 3 16 gon
+: 622 1 16 na 
+* 624 3 16 rock, 
+* 630 3 14 rock, 
+* 636 3 13 rock, 
+: 642 2 9 till 
+: 645 2 9 the 
+: 648 5 16 broad 
+: 654 3 14 day
+: 658 3 13 light 
+- 663
+: 665 1 14 We’re 
+: 667 2 14 gon
+: 670 2 13 na 
+: 673 3 14 rock, 
+: 678 3 14 gon
+: 682 1 13 na 
+: 684 4 14 rock 
+: 689 5 16 a
+: 695 7 16 round 
+: 703 2 14 the 
+: 706 3 13 clock 
+: 714 2 9 to
+: 717 17 9 night 
+- 736
+: 1048 4 -1 When 
+: 1053 2 1 the 
+* 1056 5 -3 chimes 
+: 1062 5 1 ring 
+: 1068 6 4 five, 
+* 1080 4 -3 six 
+: 1085 4 1 and 
+: 1090 4 4 se
+: 1095 2 4 ven 
+- 1099
+: 1105 4 -3 We’ll 
+: 1111 4 1 be 
+: 1117 5 4 right 
+: 1123 3 6 in 
+: 1128 3 4 se
+: 1132 4 7 venth 
+: 1138 4 4 hea
+: 1143 2 0 ven 
+- 1146
+: 1146 1 -3 We’re 
+: 1148 2 -3 gon
+* 1151 1 -5 na 
+: 1153 3 4 rock 
+: 1163 2 2 a
+: 1166 4 0 round 
+: 1171 3 -3 the 
+: 1177 4 4 clock 
+: 1183 3 2 to
+: 1187 3 0 night 
+- 1192
+: 1194 1 4 We’re 
+: 1196 2 4 gon
+: 1199 2 4 na 
+: 1202 3 4 rock, 
+: 1207 4 2 rock, 
+: 1213 4 1 rock, 
+: 1220 2 -3 till 
+: 1223 1 -3 the 
+: 1225 5 4 broad 
+: 1231 3 2 day
+: 1235 3 1 light 
+- 1240
+: 1242 1 2 We’re 
+: 1244 2 2 gon
+: 1247 1 1 na 
+: 1249 4 2 rock, 
+: 1255 3 2 gon
+: 1259 1 1 na 
+: 1261 4 2 rock 
+: 1266 5 4 a
+: 1272 7 4 round 
+: 1280 3 2 the 
+: 1284 3 1 clock 
+: 1291 2 -3 to
+* 1294 17 -3 night 
+- 1313
+: 1337 1 9 Oh 
+: 1339 3 9 when 
+: 1343 1 9 it’s 
+: 1345 4 9 eight, 
+: 1351 5 13 nine, 
+: 1357 5 16 ten, 
+: 1368 1 9 e
+: 1370 2 9 le
+: 1373 3 13 ven 
+: 1378 7 16 too 
+- 1386
+: 1386 4 13 I’ll 
+: 1391 1 9 be 
+: 1393 5 13 go
+: 1399 5 16 in’ 
+: 1405 5 18 strong 
+: 1411 5 16 and 
+: 1417 5 19 so 
+: 1423 3 16 will 
+: 1427 3 12 you 
+- 1432
+: 1433 1 9 We’re 
+: 1435 2 9 gon
+: 1438 2 7 na 
+: 1441 4 16 rock 
+: 1451 2 14 a
+: 1454 4 12 round 
+: 1459 3 9 the 
+: 1465 4 16 clock 
+: 1472 2 14 to
+: 1475 3 12 night 
+- 1480
+: 1482 1 16 We’re 
+: 1484 2 16 gon
+: 1487 1 16 na 
+* 1489 4 16 rock, 
+* 1495 4 14 rock, 
+* 1502 3 13 rock, 
+: 1508 2 9 till 
+: 1511 2 9 the 
+: 1514 5 16 broad 
+: 1520 3 14 day
+: 1524 3 13 light 
+- 1529
+: 1530 1 14 We’re 
+: 1532 2 14 gon
+: 1535 2 13 na 
+: 1538 4 14 rock, 
+: 1544 2 14 gon
+: 1547 2 13 na 
+: 1550 3 14 rock 
+: 1554 5 16 a
+: 1560 7 16 round 
+: 1568 3 14 the 
+: 1572 3 13 clock 
+* 1579 3 9 to
+* 1583 15 9 night 
+- 1600
+: 1909 3 9 When 
+: 1913 2 9 the 
+: 1916 5 9 clock 
+: 1922 5 13 strikes 
+: 1928 4 16 twelve, 
+: 1933 5 9 we’ll 
+: 1940 3 9 cool 
+: 1944 4 13 off 
+: 1949 4 16 then 
+- 1955
+: 1956 7 9 Start 
+: 1964 4 13 roc
+: 1970 4 16 kin’ 
+: 1975 6 18 round 
+: 1985 3 16 the 
+: 1989 4 19 clock 
+: 1994 3 16 a
+: 1998 4 12 gain 
+- 2003
+: 2004 2 9 We’re 
+: 2007 2 9 gon
+: 2010 2 7 na 
+: 2013 3 16 rock 
+: 2022 2 14 a
+: 2025 4 12 round 
+: 2030 3 9 the 
+: 2037 3 16 clock 
+: 2042 3 14 to
+: 2046 3 12 night 
+- 2051
+: 2053 1 16 We’re 
+: 2055 2 16 gon
+: 2058 1 16 na 
+: 2060 4 16 rock, 
+: 2067 3 14 rock, 
+: 2073 3 13 rock, 
+: 2079 2 9 till 
+: 2082 2 9 the 
+: 2085 5 16 broad 
+: 2091 2 14 day
+: 2094 3 13 light 
+- 2099
+: 2101 1 14 We’re 
+: 2103 2 14 gon
+: 2106 2 13 na 
+* 2109 4 14 rock, 
+: 2115 2 14 gon
+: 2118 2 13 na 
+* 2121 4 14 rock 
+* 2126 5 16 a
+* 2132 6 16 round 
+: 2139 3 14 the 
+: 2143 4 13 clock 
+* 2151 3 9 to
+* 2155 24 9 night 
+E

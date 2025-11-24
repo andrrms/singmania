@@ -1,0 +1,653 @@
+#ARTIST:Neneh Cherry
+#TITLE:Manchild
+#MP3:Neneh Cherry - Manchild.mp3
+#CREATOR:daggeg
+#YEAR:1989
+#LANGUAGE:English
+#BPM:340.2
+#GAP:6380
+#VIDEO:v=OJ9VBMBS3qE,co=https://images.genius.com/3c7a80116a12e967a642f801235e3d81.600x525x1.jpg,bg=cherry-neneh-53538b1eeca0c.jpg
+R 0 1 0 O
+R 6 1 0 K, 
+R 14 1 0 you’re 
+R 18 1 0 on 
+R 22 1 0 your 
+R 26 1 0 own, 
+R 39 1 0 it’s 
+R 45 1 0 late 
+- 48
+R 58 1 0 Your 
+R 64 1 0 girl
+R 72 1 0 friend 
+R 78 1 0 is 
+R 81 1 0 on 
+R 85 1 0 a
+R 88 1 0 no
+R 92 1 0 ther 
+R 96 1 0 date 
+R 102 1 0 with 
+R 105 1 0 the 
+R 109 1 0 he
+R 114 1 0 ro 
+R 118 1 0 in 
+R 121 1 0 your 
+R 126 1 0 dream 
+- 129
+R 140 1 0 Turn 
+R 143 1 0 a
+R 147 1 0 round, 
+R 159 1 0 ask 
+R 166 1 0 your
+R 170 1 0 self. 
+- 173
+R 185 1 0 So, 
+R 189 1 0 you 
+R 192 1 0 think 
+R 195 1 0 you’re 
+R 198 1 0 gon
+R 201 1 0 na 
+R 204 1 0 win 
+R 209 1 0 this 
+R 215 1 0 time 
+R 223 1 0 Man
+R 229 1 0 child? 
+- 232
+: 387 13 5 Is 
+: 402 4 6 it 
+: 410 3 8 the 
+: 415 12 5 pain
+: 428 5 1 ~ 
+: 435 5 1 oR 
+: 443 3 1 the 
+: 447 6 1 drink
+: 454 3 -1 ~
+: 459 4 -1 ing 
+- 465
+: 475 2 -4 Or 
+: 479 2 -4 the 
+: 484 7 12 Sun
+: 492 3 12 day 
+: 496 6 10 sink
+: 504 4 5 ing 
+: 512 10 5 feel
+: 523 5 8 ing 
+- 530
+: 588 3 3 The 
+: 592 7 5 car
+: 600 2 3 ~ 
+: 604 3 3 ne
+: 608 2 1 ver 
+: 612 6 3 seems 
+: 621 3 1 to 
+: 625 5 5 work 
+- 632
+: 651 4 6 When 
+: 656 3 6 it’s 
+: 660 5 9 late 
+: 668 3 6 your 
+: 672 10 9 girl
+: 683 6 6 friend’s 
+: 691 3 2 on 
+: 696 3 2 a 
+: 700 5 6 date 
+- 707
+: 716 3 4 And 
+: 720 3 4 the 
+: 725 3 4 he
+: 729 4 4 ro 
+: 737 4 8 with 
+: 745 4 8 her 
+: 753 4 8 in 
+: 761 4 8 your 
+: 769 7 9 dream
+: 777 2 7 ~ 
+- 780
+: 781 3 7 In 
+: 785 3 7 your 
+: 789 4 4 sleep 
+: 797 2 0 it 
+: 801 2 7 seemed
+: 804 6 9 ~ 
+: 813 5 7 like 
+: 821 7 4 you
+: 829 4 6 ~ 
+- 835
+* 844 3 6 Turn 
+* 848 3 4 a
+: 852 5 6 round 
+: 865 4 6 ask 
+: 872 3 4 your
+: 876 5 6 selR 
+- 883
+: 909 3 6 Turn 
+: 913 3 4 a
+: 917 5 6 round 
+: 929 4 6 ask 
+: 937 3 4 your
+: 941 5 6 selR 
+- 948
+: 981 9 5 Man
+* 993 18 3 child, 
+- 1013
+: 1029 3 1 Will 
+: 1033 5 1 you 
+: 1042 7 3 e
+: 1050 2 -2 ~
+: 1053 3 -2 ver 
+: 1058 10 -1 win
+: 1069 8 1 ~ 
+- 1079
+: 1109 9 5 Man
+: 1121 18 3 child, 
+- 1141
+: 1157 4 11 Look 
+: 1162 3 11 at 
+: 1166 3 11 the 
+: 1170 5 11 state 
+: 1178 6 6 you’re 
+: 1186 9 5 in
+: 1196 5 8 ~ 
+- 1203
+: 1253 13 5 Could 
+: 1269 7 6 you
+: 1277 3 8 ~ 
+: 1282 11 5 go
+: 1294 6 1 ~ 
+: 1302 7 1 un
+: 1310 4 1 der
+: 1315 7 1 co
+: 1323 2 -1 ~
+: 1326 4 -1 ver 
+- 1332
+: 1342 3 -4 And 
+: 1350 6 11 sell 
+: 1358 3 11 your 
+: 1362 7 8 brand 
+: 1374 5 3 new 
+: 1383 6 5 lo
+: 1390 4 8 ver 
+R 1406 2 0 could 
+R 1410 5 0 you 
+- 1417
+: 1454 3 1 Be 
+: 1459 6 3 some
+: 1468 5 1 one 
+* 1476 6 3 else 
+* 1486 3 3 for 
+* 1490 3 1 a 
+* 1495 6 5 night 
+- 1503
+: 1518 3 6 May
+: 1522 3 6 be 
+: 1527 6 9 some
+: 1535 3 6 one 
+: 1539 7 9 else 
+: 1551 6 2 will 
+: 1559 6 2 love 
+: 1567 5 6 you 
+- 1574
+: 1584 3 4 You 
+: 1590 3 4 sell 
+: 1595 5 4 your 
+: 1603 7 8 soul 
+: 1615 3 8 for 
+: 1619 3 8 a 
+: 1623 3 8 tack
+: 1627 5 8 y 
+: 1635 4 9 song
+: 1640 4 7 ~ 
+- 1646
+: 1648 2 7 Like 
+: 1651 3 7 the 
+: 1656 5 4 one 
+: 1663 3 0 you 
+: 1667 4 9 hear
+: 1672 5 7 ~ 
+: 1679 3 7 on 
+: 1684 3 7 the 
+: 1688 3 4 ra
+: 1692 3 4 di
+: 1696 5 6 o 
+- 1703
+* 1711 3 6 Turn 
+* 1715 3 4 a
+* 1719 5 6 round 
+: 1731 4 6 ask 
+: 1739 3 4 your
+: 1743 5 6 selR 
+- 1750
+: 1776 3 6 Turn 
+: 1780 3 4 a
+: 1784 5 6 round 
+R 1793 2 -3 and 
+R 1797 4 9 ask 
+R 1805 3 -3 your
+R 1809 5 -3 selR 
+- 1816
+: 1847 9 5 Man
+: 1859 18 3 child, 
+- 1879
+: 1895 4 1 Will 
+: 1900 6 1 you 
+: 1910 6 3 e
+: 1917 3 -2 ~
+: 1921 3 -2 ver 
+: 1925 9 -1 win
+: 1935 7 1 ~ 
+- 1944
+: 1976 9 5 Man
+: 1988 14 3 child, 
+- 2004
+: 2024 3 11 Look 
+: 2028 3 11 at 
+: 2032 3 11 the 
+: 2037 5 11 state 
+: 2046 6 6 you’re 
+: 2054 9 5 in
+: 2064 5 8 ~ 
+- 2071
+: 2104 9 5 Man
+: 2116 18 3 child, 
+- 2136
+: 2152 3 1 He 
+: 2156 7 1 will 
+: 2165 6 3 make
+: 2172 3 -2 ~ 
+: 2177 3 -2 you 
+: 2182 9 -1 cry
+: 2192 6 1 ~ 
+- 2200
+: 2232 9 5 Man
+: 2244 18 3 child, 
+- 2264
+* 2297 9 5 Man
+* 2309 18 3 child, 
+- 2329
+: 2361 9 5 Man
+: 2373 26 3 child 
+- 2401
+: 2487 3 3 From 
+: 2491 3 3 Mon
+: 2495 5 3 day 
+: 2504 6 3 down 
+: 2511 9 5 to 
+: 2523 7 6 Fri
+: 2531 6 3 day 
+- 2539
+: 2550 3 3 You’re 
+: 2554 4 3 work
+: 2559 5 3 ing 
+: 2566 7 3 on 
+: 2575 6 5 a
+: 2583 6 6 no
+: 2590 3 6 ther 
+: 2595 5 3 man’s 
+: 2603 26 5 car 
+- 2631
+: 2680 3 1 Or 
+: 2684 3 3 is 
+: 2688 4 3 it 
+: 2696 6 3 in 
+: 2704 5 5 the 
+: 2711 6 6 fac
+: 2719 3 3 to
+: 2723 5 3 ry? 
+- 2730
+: 2743 3 3 It 
+: 2747 4 3 does
+: 2752 5 3 n’t 
+: 2760 7 3 mat
+: 2768 7 5 ter 
+: 2777 8 6 where 
+: 2787 6 3 you 
+: 2796 38 5 are 
+- 2836
+R 2980 1 0 Just 
+R 2988 1 0 turn 
+R 2992 1 0 a
+R 2996 1 0 round 
+R 3000 1 0 and 
+R 3004 1 0 ask 
+R 3008 1 0 your
+R 3012 1 0 selR 
+R 3016 1 0 is 
+R 3020 1 0 this 
+R 3024 1 0 com
+R 3028 1 0 mu
+R 3032 1 0 ni
+R 3036 1 0 ca
+R 3040 1 0 tion 
+- 3043
+R 3048 1 0 Ac
+R 3052 1 0 cen
+R 3056 1 0 tu
+R 3060 1 0 ate 
+R 3064 1 0 the 
+R 3068 1 0 po
+R 3073 1 0 si
+R 3077 1 0 tive 
+R 3081 1 0 and 
+R 3085 1 0 give 
+R 3089 1 0 some 
+R 3093 1 0 il
+R 3097 1 0 lus
+R 3101 1 0 tra
+R 3105 1 0 tion 
+- 3108
+R 3112 1 0 See 
+R 3117 1 0 Man
+R 3121 1 0 child, 
+R 3129 1 0 you’re 
+R 3133 1 0 no 
+R 3137 1 0 one, 
+R 3145 1 0 I 
+R 3149 1 0 turn 
+R 3153 1 0 the 
+R 3157 1 0 mic
+R 3161 1 0 ro
+R 3165 1 0 phone 
+R 3170 1 0 on 
+- 3173
+R 3176 1 0 Cont
+R 3180 1 0 rol 
+R 3185 1 0 com
+R 3189 1 0 mu
+R 3193 1 0 ni
+R 3197 1 0 ca
+R 3201 1 0 tion 
+R 3205 1 0 when 
+R 3209 1 0 I’m 
+R 3213 1 0 kick
+R 3217 1 0 in’ 
+R 3221 1 0 it 
+R 3225 1 0 and 
+R 3229 1 0 so 
+R 3233 1 0 on 
+- 3236
+R 3237 1 0 To 
+R 3241 1 0 the 
+R 3245 1 0 point 
+R 3253 1 0 that 
+R 3257 1 0 I 
+R 3261 1 0 need, 
+R 3273 1 0 the 
+R 3278 1 0 air 
+R 3286 1 0 that 
+R 3289 1 0 I 
+R 3294 1 0 breathe 
+- 3297
+R 3305 1 0 In
+R 3309 1 0 to 
+R 3314 1 0 an 
+R 3317 1 0 au
+R 3321 1 0 di
+R 3326 1 0 ence 
+R 3333 1 0 that’s 
+R 3337 1 0 wait
+R 3345 1 0 ing 
+R 3350 1 0 and 
+R 3354 1 0 ec
+R 3358 1 0 sta
+R 3362 1 0 tic 
+R 3366 1 0 to 
+R 3370 1 0 re
+R 3374 1 0 ceive 
+- 3377
+R 3382 1 0 For 
+R 3385 1 0 the 
+R 3389 1 0 mean
+R 3394 1 0 time 
+R 3402 1 0 a
+R 3406 1 0 no
+R 3410 1 0 ther 
+R 3414 1 0 mean 
+R 3418 1 0 rhyme, 
+R 3426 1 0 I 
+R 3430 1 0 keep 
+R 3434 1 0 on 
+R 3438 1 0 say
+R 3442 1 0 in’ 
+R 3446 1 0 it 
+- 3449
+R 3454 1 0 I 
+R 3458 1 0 know 
+R 3462 1 0 what 
+R 3466 1 0 the 
+R 3470 1 0 time 
+R 3474 1 0 is 
+R 3478 1 0 and 
+R 3482 1 0 the 
+R 3486 1 0 crowd 
+R 3490 1 0 will 
+R 3494 1 0 keep 
+R 3498 1 0 on 
+R 3502 1 0 play
+R 3506 1 0 ing 
+R 3510 1 0 it 
+- 3513
+R 3515 1 0 Through 
+R 3522 1 0 the 
+R 3526 1 0 speak
+R 3530 1 0 er 
+R 3534 1 0 box
+R 3538 1 0 es 
+R 3546 1 0 loud’s 
+R 3554 1 0 my 
+R 3558 1 0 di
+R 3562 1 0 a
+R 3566 1 0 gno
+R 3570 1 0 sis 
+- 3573
+R 3578 1 0 ’Cause 
+R 3582 1 0 I 
+R 3586 1 0 be
+R 3590 1 0 lieve 
+R 3594 1 0 in 
+R 3598 1 0 mi
+R 3602 1 0 ra
+R 3606 1 0 cles 
+R 3610 1 0 and 
+R 3614 1 0 words 
+R 3618 1 0 in 
+R 3622 1 0 stea
+R 3626 1 0 dy 
+R 3630 1 0 dos
+R 3634 1 0 es. 
+- 3637
+R 3642 1 0 E
+R 3646 1 0 nough 
+R 3654 1 0 R
+R 3658 1 0 -E
+R 3662 1 0 -S-
+R 3670 1 0 P
+R 3675 1 0 -E 
+R 3683 1 0 and 
+R 3687 1 0 C
+R 3694 1 0 -T 
+- 3697
+R 3706 1 0 Re
+R 3710 1 0 spect 
+R 3715 1 0 your
+R 3719 1 0 selR 
+R 3723 1 0 ex
+R 3727 1 0 press 
+R 3735 1 0 no 
+R 3739 1 0 stress 
+R 3747 1 0 the 
+R 3751 1 0 mike 
+R 3755 1 0 is 
+R 3759 1 0 ea
+R 3763 1 0 sy 
+- 3765
+R 3766 1 0 Just 
+R 3770 1 0 be
+R 3774 1 0 lieve 
+R 3783 1 0 that 
+R 3787 1 0 all 
+R 3798 1 0 you 
+R 3803 1 0 need 
+R 3814 1 0 is 
+R 3818 1 0 the 
+R 3822 1 0 air 
+R 3831 1 0 that 
+R 3835 1 0 you 
+R 3839 1 0 breathe. 
+- 3842
+: 3904 9 5 Man
+: 3915 18 3 child, 
+- 3935
+: 3952 3 1 Will 
+: 3956 5 1 you 
+* 3964 8 3 e
+* 3973 2 -2 ~
+: 3976 2 -2 ver 
+: 3980 10 -1 win
+: 3991 6 1 ~ 
+- 3999
+: 4031 9 5 Man
+: 4043 18 3 child, 
+- 4063
+: 4079 3 11 Look 
+: 4083 3 11 at 
+: 4087 3 11 the 
+: 4092 5 11 state 
+: 4100 6 6 you’re 
+: 4108 10 5 in
+: 4119 5 8 ~ 
+- 4126
+: 4161 9 5 Man
+: 4172 18 3 child, 
+- 4192
+: 4208 4 1 He 
+: 4213 7 1 will 
+: 4222 5 3 make 
+: 4232 3 -2 you 
+: 4236 11 -1 cry
+: 4248 5 1 ~ 
+- 4255
+: 4288 9 5 Man
+: 4300 20 3 child, 
+- 4322
+: 4352 9 5 Man
+: 4364 20 3 child, 
+- 4386
+* 4416 9 5 Man
+* 4428 26 3 child 
+- 4456
+: 4490 2 3 He’s 
+: 4493 2 3 the 
+: 4497 4 11 ap
+: 4502 6 11 ple 
+: 4510 4 11 oR 
+: 4519 6 6 your 
+: 4527 9 5 life
+: 4537 6 8 ~ 
+- 4545
+R 4586 1 0 Once 
+R 4593 1 0 bit
+R 4597 1 0 ten 
+R 4602 1 0 twice 
+R 4610 1 0 shy, 
+R 4614 1 0 why 
+R 4618 1 0 don’t 
+R 4622 1 0 you 
+R 4626 1 0 bite 
+R 4630 1 0 me 
+R 4634 1 0 a
+R 4638 1 0 gain 
+- 4641
+R 4649 1 0 Just 
+R 4657 1 0 take 
+R 4661 1 0 it 
+R 4665 1 0 in 
+R 4673 1 0 right 
+R 4677 1 0 and 
+R 4681 1 0 go 
+R 4690 1 0 tell 
+R 4694 1 0 your 
+R 4698 1 0 friend 
+- 4701
+R 4714 1 0 Are 
+R 4718 1 0 you 
+R 4722 1 0 rea
+R 4726 1 0 dy 
+R 4730 1 0 for 
+R 4734 1 0 the 
+R 4738 1 0 words 
+R 4746 1 0 I 
+R 4750 1 0 turn 
+R 4759 1 0 the 
+R 4763 1 0 mi
+R 4767 1 0 cro
+R 4771 1 0 phone 
+R 4779 1 0 on 
+- 4782
+R 4784 1 0 A 
+R 4787 1 0 fi
+R 4790 1 0 gure 
+R 4794 1 0 oR 
+R 4799 1 0 speech 
+R 4807 1 0 to 
+R 4811 1 0 reach 
+R 4815 1 0 you 
+R 4819 1 0 at 
+R 4826 1 0 the 
+R 4831 1 0 back 
+R 4839 1 0 and 
+R 4843 1 0 so 
+R 4851 1 0 on 
+- 4854
+R 4859 1 0 The 
+R 4863 1 0 style 
+R 4874 1 0 I’m 
+R 4882 1 0 sti
+R 4886 1 0 mu
+R 4891 1 0 la
+R 4895 1 0 ting 
+R 4899 1 0 dance 
+R 4907 1 0 floors 
+- 4910
+R 4915 1 0 Raise 
+R 4919 1 0 your 
+R 4923 1 0 bo
+R 4927 1 0 dy 
+R 4931 1 0 tem
+R 4935 1 0 pera
+R 4939 1 0 ture 
+R 4943 1 0 now 
+- 4946
+R 4951 1 0 And 
+R 4955 1 0 this 
+R 4959 1 0 de
+R 4963 1 0 mands 
+R 4971 1 0 for 
+- 4974
+R 4979 1 0 Po
+R 4983 1 0 wer 
+R 4987 1 0 in 
+R 4991 1 0 the 
+R 4995 1 0 amp 
+R 4999 1 0 you 
+R 5003 1 0 know 
+R 5007 1 0 louds 
+R 5015 1 0 my 
+R 5019 1 0 di
+R 5023 1 0 a
+R 5027 1 0 gno
+R 5031 1 0 sis 
+- 5034
+R 5039 1 0 ’Cause 
+R 5043 1 0 I 
+R 5047 1 0 be
+R 5051 1 0 lieve 
+R 5055 1 0 in 
+R 5059 1 0 mi
+R 5063 1 0 ra
+R 5067 1 0 cles 
+R 5071 1 0 words 
+R 5079 1 0 in 
+R 5083 1 0 hea
+R 5087 1 0 vy 
+R 5091 1 0 do
+R 5099 1 0 ses. 
+E

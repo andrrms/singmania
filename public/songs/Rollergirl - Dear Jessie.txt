@@ -1,0 +1,243 @@
+#ARTIST:Rollergirl
+#TITLE:Dear Jessie
+#MP3:Rollergirl - Dear Jessie.mp3
+#CREATOR:karmidi, Way2Evil, bohning
+#YEAR:1999
+#LANGUAGE:English
+#BPM:270
+#GAP:34140
+#VIDEO:v=AoIiNhWEfoQ,co=https://i.ibb.co/SmmnXGh/Rollergirl-Dear-Jessie.jpg,co-crop=154-0-1320-1320,bg=rollergirl-51727ab140fc0.jpg
+: 0 2 4 Run
+: 4 5 4 ning 
+: 12 3 4 throu
+: 16 2 6 ~gh 
+: 20 3 4 the 
+: 24 2 2 love 
+: 28 3 4 pa
+: 32 8 2 rade 
+- 42
+: 296 5 9 Pink 
+: 304 3 7 e
+: 308 2 6 le
+: 312 3 4 phants 
+: 316 2 2 and 
+: 320 3 4 le
+: 324 2 6 mo
+: 328 11 2 nade 
+- 341
+: 344 3 2 Dea
+: 348 2 4 ~r 
+: 352 3 4 Jes
+: 356 2 2 sie, 
+: 360 3 -1 hear 
+: 364 2 2 the 
+: 368 5 4 laugh
+: 376 3 2 ter 
+- 381
+: 384 2 4 Run
+: 388 5 4 ning 
+: 396 3 4 throu
+: 400 2 6 ~gh 
+: 404 3 4 the 
+: 408 2 2 love 
+: 412 3 4 pa
+: 416 8 2 rade 
+- 426
+: 472 3 2 Dea
+: 476 2 4 ~r 
+: 480 3 4 Jes
+: 484 2 2 sie 
+: 488 3 -1 see 
+: 492 2 2 the 
+: 496 7 4 ro
+: 504 3 2 ses 
+- 509
+: 512 2 4 Rai
+: 516 5 4 ning 
+: 524 3 4 o
+: 528 2 6 ~n 
+: 532 3 4 the 
+: 536 2 2 love 
+: 540 3 4 pa
+: 544 4 2 rade 
+- 550
+: 728 3 2 Dea
+: 732 2 4 ~r 
+: 736 3 4 Jes
+: 740 2 2 sie 
+: 744 3 -1 see 
+: 748 2 2 the 
+: 752 7 4 ro
+: 760 3 2 ses 
+- 765
+: 768 2 4 Rai
+: 772 5 4 ning 
+: 780 3 4 o
+: 784 2 6 ~n 
+: 788 3 4 the 
+: 792 2 2 love 
+: 796 3 4 pa
+: 800 7 2 rade 
+- 809
+: 1280 2 4 Run
+: 1284 5 4 ning 
+: 1292 3 4 throu
+: 1296 2 6 ~gh 
+: 1300 3 4 the 
+: 1304 2 2 love 
+: 1308 3 4 pa
+: 1312 8 2 rade 
+- 1322
+: 1576 5 9 Pink 
+: 1584 3 7 e
+: 1588 2 6 le
+: 1592 3 4 phants 
+: 1596 2 2 and 
+: 1600 3 4 le
+: 1604 2 6 mo
+: 1608 11 2 nade 
+- 1621
+: 1624 3 2 Dea
+: 1628 2 4 ~r 
+: 1632 3 4 Jes
+: 1636 2 2 sie, 
+: 1640 3 -1 hear 
+: 1644 2 2 the 
+: 1648 5 4 laugh
+: 1656 3 2 ter 
+- 1661
+: 1664 2 4 Run
+: 1668 5 4 ning 
+: 1676 3 4 throu
+: 1680 2 6 ~gh 
+: 1684 3 4 the 
+: 1688 2 2 love 
+: 1692 3 4 pa
+: 1696 8 2 rade 
+- 1706
+: 1752 3 2 Dea
+: 1756 2 4 ~r 
+: 1760 3 4 Jes
+: 1764 2 2 sie 
+: 1768 3 -1 see 
+: 1772 2 2 the 
+: 1776 7 4 ro
+: 1784 3 2 ses 
+- 1789
+: 1792 2 4 Rai
+: 1796 5 4 ning 
+: 1804 3 4 o
+: 1808 2 6 ~n 
+: 1812 3 4 the 
+: 1816 2 2 love 
+: 1820 3 4 pa
+: 1824 5 2 rade 
+- 1831
+: 2088 5 9 Pink 
+: 2096 3 7 e
+: 2100 2 6 le
+: 2104 3 4 phants 
+: 2108 2 2 and 
+: 2112 3 4 le
+: 2116 2 6 mo
+: 2120 11 2 nade 
+- 2133
+: 2136 3 2 Dea
+: 2140 2 4 ~r 
+: 2144 3 4 Jes
+: 2148 2 2 sie, 
+: 2152 3 -1 hear 
+: 2156 2 2 the 
+: 2160 5 4 laugh
+: 2168 3 2 ter 
+- 2173
+: 2176 2 4 Run
+: 2180 5 4 ning 
+: 2188 3 4 throu
+: 2192 2 6 ~gh 
+: 2196 3 4 the 
+: 2200 2 2 love 
+: 2204 3 4 pa
+: 2208 8 2 rade 
+- 2218
+: 2264 3 2 Dea
+: 2268 2 4 ~r 
+: 2272 3 4 Jes
+: 2276 2 2 sie 
+: 2280 3 -1 see 
+: 2284 2 2 the 
+: 2288 7 4 ro
+: 2296 3 2 ses 
+- 2301
+: 2304 2 4 Rai
+: 2308 5 4 ning 
+: 2316 3 4 o
+: 2320 2 6 ~n 
+: 2324 3 4 the 
+: 2328 2 2 love 
+: 2332 3 4 pa
+: 2336 8 2 rade 
+- 2264
+: 2264 3 2 Dea
+: 2268 2 4 ~r 
+: 2272 3 4 Jes
+: 2276 2 2 sie 
+: 2280 3 -1 see 
+: 2284 2 2 the 
+: 2288 7 4 ro
+: 2296 3 2 ses 
+- 2301
+: 2304 2 4 Rai
+: 2308 5 4 ning 
+: 2316 3 4 o
+: 2320 2 6 ~n 
+: 2324 3 4 the 
+: 2328 2 2 love 
+: 2332 3 4 pa
+: 2336 5 2 rade 
+- 2342
+* 2344 5 9 Pink 
+* 2352 3 7 e
+* 2356 2 6 le
+* 2360 3 4 phants 
+* 2364 2 2 and 
+* 2368 3 4 le
+* 2372 2 6 mo
+* 2376 11 2 nade 
+- 2389
+* 2392 3 2 Dea
+* 2396 2 4 ~r 
+* 2400 3 4 Jes
+* 2404 2 2 sie, 
+* 2408 3 -1 hear 
+* 2412 2 2 the 
+* 2416 5 4 laugh
+* 2424 3 2 ter 
+- 2429
+* 2432 2 4 Run
+* 2436 5 4 ning 
+* 2444 3 4 throu
+* 2448 2 6 ~gh 
+* 2452 3 4 the 
+* 2456 2 2 love 
+* 2460 3 4 pa
+* 2464 3 2 rade 
+- 2469
+: 2520 3 2 Dea
+: 2524 2 4 ~r 
+: 2528 3 4 Jes
+: 2532 2 2 sie 
+: 2536 3 -1 see 
+: 2540 2 2 the 
+: 2544 7 4 ro
+: 2552 3 2 ses 
+- 2557
+: 2560 2 4 Rai
+: 2564 5 4 ning 
+: 2572 3 4 o
+: 2576 2 6 ~n 
+: 2580 3 4 the 
+: 2584 2 2 love 
+: 2588 3 4 pa
+: 2592 5 2 rade 
+E

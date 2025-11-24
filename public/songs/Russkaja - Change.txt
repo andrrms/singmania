@@ -1,0 +1,251 @@
+#ARTIST:Russkaja
+#TITLE:Change
+#MP3:Russkaja - Change.mp3
+#CREATOR:haistshomie666
+#YEAR:2010
+#LANGUAGE:English
+#BPM:250.14
+#GAP:26540
+#VIDEO:v=4aGx4gsCV8o,co=russian-voodoo-64747077f4135.jpg,bg=russkaja-51f158dd71347.jpg
+F 0 1 0 I 
+F 4 5 0 changed 
+F 16 2 0 my 
+F 21 2 0 Vod
+F 25 1 0 ka 
+F 29 2 0 for 
+F 33 1 0 the 
+F 37 2 0 Whis
+F 41 4 0 ky 
+- 47
+F 64 3 0 That’s 
+F 69 5 0 why 
+F 81 2 0 i 
+F 85 4 0 got 
+F 92 4 0 this 
+F 97 7 0 voice 
+- 106
+F 128 2 0 I 
+F 133 7 0 changed 
+F 145 2 0 my 
+F 150 1 0 Ol
+F 154 1 0 ga 
+F 158 2 0 for 
+F 162 1 0 the 
+F 166 1 0 Brit
+F 170 5 0 ney 
+- 177
+F 193 2 0 Be
+F 198 3 0 cause 
+F 210 1 0 I 
+F 215 5 0 have 
+F 226 1 0 no 
+F 230 5 0 choice 
+- 237
+F 258 2 0 I 
+F 263 5 0 changed 
+F 274 3 0 my 
+F 279 1 0 Praw
+F 283 2 0 da 
+F 287 2 0 for 
+F 291 2 0 the 
+F 295 1 0 New 
+F 299 1 0 York 
+F 303 5 0 Times 
+- 310
+F 322 2 0 To 
+F 327 4 0 read 
+F 339 3 0 a
+F 344 2 0 bout 
+F 348 2 0 the 
+F 352 1 0 dai
+F 356 1 0 ly 
+F 360 7 0 truth 
+- 369
+F 383 5 0 I 
+F 392 6 0 changed 
+F 400 5 0 my 
+F 407 2 0 coun
+F 412 1 0 try 
+F 416 2 0 for 
+F 420 1 0 a 
+F 424 1 0 bet
+F 428 2 0 ter 
+F 432 7 0 life 
+- 441
+F 451 3 0 And 
+F 456 6 0 now 
+F 468 2 0 I 
+F 473 6 0 got 
+F 484 3 0 the 
+F 489 10 0 blues 
+- 501
+: 521 5 0 Loi 
+: 528 2 3 lo
+: 533 2 3 lo
+: 537 9 3 loi 
+- 548
+: 585 5 2 Loi 
+: 593 1 5 lo
+: 597 2 5 lo
+: 601 7 5 loi 
+- 610
+: 649 4 3 Loi 
+: 656 1 7 lo
+: 660 1 7 lo
+: 664 8 7 loi 
+- 674
+F 708 1 0 Ai
+F 712 1 0 rat 
+F 716 1 0 tat 
+F 719 1 0 tat 
+F 723 1 0 tat 
+F 727 1 0 tat 
+F 731 1 0 tat 
+F 735 3 0 tat 
+- 740
+: 810 3 5 Oi
+: 817 3 3 oi
+: 823 3 2 oi
+: 828 3 0 oi
+: 834 2 -3 oi
+: 839 8 -5 oi 
+- 849
+F 1023 5 0 I 
+F 1029 3 0 changed 
+F 1040 4 0 my 
+F 1045 3 0 schasch
+F 1049 3 0 lik 
+F 1053 3 0 for 
+F 1057 3 0 Mc
+F 1063 3 0 Do
+F 1067 3 0 nalds 
+- 1072
+F 1088 2 0 There 
+F 1093 4 0 was 
+F 1100 7 0 big 
+F 1113 4 0 dif
+F 1120 3 0 fe
+F 1125 7 0 rence 
+- 1134
+F 1152 4 0 I 
+F 1158 5 0 changed 
+F 1169 4 0 my 
+F 1174 2 0 Ru
+F 1178 2 0 bel 
+F 1182 2 0 for 
+F 1186 2 0 the 
+F 1190 2 0 Dol
+F 1194 8 0 lar 
+- 1204
+F 1218 3 0 And 
+F 1222 6 0 lost 
+F 1234 3 0 a 
+F 1239 5 0 lot 
+F 1250 3 0 per
+F 1255 7 0 cents 
+- 1264
+F 1283 2 0 I 
+F 1287 7 0 changed 
+F 1298 3 0 my 
+F 1304 2 0 La
+F 1308 1 0 da 
+F 1312 1 0 for 
+F 1315 2 0 the 
+F 1320 1 0 Ca
+F 1323 2 0 dil
+F 1327 5 0 lac 
+- 1334
+F 1345 3 0 To 
+F 1351 5 0 drive 
+F 1360 6 0 route 
+F 1370 5 0 six
+F 1378 3 0 ty
+F 1383 7 0 six 
+- 1392
+F 1407 5 0 I 
+F 1415 8 0 cried 
+F 1428 3 0 by 
+F 1433 2 0 wat
+F 1438 2 0 ching 
+F 1442 2 0 pret
+F 1446 1 0 ty 
+F 1450 2 0 wo
+F 1454 8 0 man 
+- 1464
+F 1477 3 0 I 
+F 1482 5 0 think 
+F 1490 3 0 it 
+F 1497 5 0 sounds 
+F 1506 4 0 like 
+F 1513 6 0 this 
+- 1521
+: 1640 5 0 Loi 
+: 1648 2 3 lo
+: 1652 2 3 lo
+: 1656 7 3 loi 
+- 1665
+: 1703 5 2 Loi 
+: 1712 1 5 lo
+: 1716 1 5 lo
+: 1720 8 5 loi 
+- 1730
+: 1767 5 3 Loi 
+: 1775 2 7 lo
+: 1779 2 7 lo
+: 1783 7 7 loi 
+- 1792
+F 1827 2 0 Ai
+F 1831 1 0 rat 
+F 1835 1 0 tat 
+F 1839 1 0 tat 
+F 1843 2 0 tat 
+F 1847 1 0 tat 
+F 1851 1 0 tat 
+F 1855 3 0 tat 
+- 1860
+: 2185 3 5 Oi
+: 2191 3 3 oi
+: 2196 3 2 oi
+: 2203 3 0 oi
+: 2208 2 -3 oi
+: 2213 14 -5 oi 
+- 2229
+: 2339 5 0 Loi 
+: 2347 2 4 lo
+: 2351 2 4 lo
+: 2355 7 4 loi 
+- 2364
+: 2403 5 2 Loi 
+: 2410 1 5 lo
+: 2414 1 5 lo
+: 2418 8 5 loi 
+- 2428
+: 2465 5 4 Loi 
+: 2474 2 7 lo
+: 2478 2 7 lo
+: 2483 8 7 loi 
+- 2493
+F 2524 2 0 Ai
+F 2529 2 0 rat 
+F 2533 1 0 tat 
+F 2537 2 0 tat 
+F 2541 1 0 tat 
+F 2545 1 0 tat 
+F 2549 1 0 tat 
+F 2553 2 0 tat 
+- 2557
+: 2592 5 0 Loi 
+: 2600 2 3 lo
+: 2605 2 3 lo
+: 2609 8 3 loi 
+- 2619
+: 2656 6 2 Loi 
+: 2664 1 5 lo
+: 2668 1 5 lo
+: 2672 8 5 loi 
+- 2682
+: 2720 2 3 Loi 
+: 2727 2 7 lo
+: 2731 2 7 lo
+: 2736 14 7 loi 
+E

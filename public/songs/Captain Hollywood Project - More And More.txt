@@ -1,0 +1,538 @@
+#ARTIST:Captain Hollywood Project
+#TITLE:More And More
+#MP3:Captain Hollywood Project - More And More.mp3
+#CREATOR:Fepo
+#GENRE:Eurodance
+#YEAR:1992
+#LANGUAGE:English
+#BPM:251.74
+#GAP:15380
+#VIDEO:v=V-rS174AUT0,co=more-and-more-562da37cc3535.jpg,bg=captain-hollywood-project-51d14ea54d5a9.jpg
+: 0 6 4 More 
+: 8 2 2 and 
+: 12 6 2 more 
+: 24 2 0 and 
+: 28 6 0 more 
+- 36
+: 44 2 0 I 
+: 48 2 4 don’t 
+: 52 2 4 know 
+: 56 2 4 where 
+: 60 2 2 we’re 
+: 64 2 2 go
+: 68 2 4 ing 
+: 72 2 2 to
+: 75 5 4 ~ 
+- 82
+: 128 6 4 More 
+: 136 2 2 and 
+: 140 6 2 more 
+: 152 2 0 and 
+: 156 6 0 more 
+- 164
+: 172 2 0 There’s 
+: 176 2 4 so 
+: 180 2 4 much 
+: 184 2 4 we 
+: 188 2 2 don’t 
+: 192 2 2 wan
+: 196 2 4 na 
+: 200 2 2 do
+: 203 5 4 ~ 
+- 210
+: 252 2 0 ’Cause 
+: 256 2 7 we 
+: 260 4 0 lie, 
+: 268 2 0 we 
+: 272 4 7 cheat 
+- 278
+: 280 2 0 And 
+: 284 2 0 we 
+: 288 5 7 run 
+: 296 4 5 from 
+: 304 2 4 each 
+: 308 2 2 and 
+: 312 2 2 eve
+: 316 2 0 ry 
+: 320 2 2 heart 
+: 324 2 4 af
+: 328 7 4 fair 
+- 337
+: 380 2 0 Yes 
+: 384 2 7 we 
+: 388 4 0 lie, 
+: 396 2 0 we 
+: 400 5 7 cheat 
+- 406
+* 408 2 0 And 
+* 412 2 0 we 
+* 417 2 7 hu
+* 420 2 5 ~rt 
+* 425 4 5 till 
+* 432 2 4 some
+* 436 2 2 bo
+* 440 4 2 dy’s 
+* 448 2 2 in 
+* 452 2 4 des
+* 456 7 4 pair 
+- 465
+R 768 7 4 Boom 
+R 784 2 4 keep 
+R 787 2 4 in 
+R 791 4 4 tune 
+- 797
+R 808 1 4 Hol
+R 810 2 4 ly
+R 814 3 4 wood 
+R 818 3 4 will 
+R 824 2 4 zoom 
+- 827
+R 829 4 4 Left 
+R 834 2 4 to 
+R 837 2 4 the 
+R 841 2 4 point 
+R 846 2 4 right 
+R 850 2 4 to 
+R 853 2 4 the 
+R 857 3 4 point 
+- 861
+R 863 2 4 Smoke 
+R 867 2 4 it, 
+R 876 2 4 like 
+R 879 2 4 it’s 
+R 883 2 4 a 
+R 889 3 4 joint 
+- 894
+R 896 2 4 Ma
+R 900 2 4 king 
+R 910 2 4 ain’t 
+R 913 2 4 got 
+R 917 3 4 time 
+R 922 1 4 to 
+R 924 2 4 be 
+R 928 2 4 fa
+R 932 2 4 king 
+- 936
+R 941 2 4 It’s 
+R 946 2 4 my 
+R 950 2 4 turn 
+R 954 1 4 and 
+R 956 2 4 I’m 
+R 959 3 4 ta
+R 964 3 4 king 
+- 969
+R 974 2 4 Eve
+R 978 2 4 ry
+R 982 2 4 thing 
+R 985 2 4 with
+R 988 2 4 out 
+R 992 2 4 sha
+R 996 2 4 king, 
+R 1000 2 4 yo 
+- 1004
+R 1006 2 4 Here 
+R 1010 2 4 with 
+R 1014 1 4 the 
+R 1016 2 4 ba
+R 1020 1 4 con 
+- 1022
+R 1023 4 4 Hap
+R 1028 2 4 py 
+R 1034 2 4 is 
+R 1038 2 4 how 
+R 1042 2 4 we 
+R 1046 2 4 should 
+R 1049 2 4 be 
+- 1053
+R 1056 1 4 Re
+R 1058 2 4 a
+R 1061 2 4 li
+R 1066 2 4 zing 
+R 1069 2 4 we 
+R 1074 2 4 are 
+R 1078 3 4 weal
+R 1082 2 4 thy 
+- 1085
+R 1087 3 4 Li
+R 1092 3 4 ving 
+R 1100 2 4 here 
+R 1105 2 4 on 
+R 1110 2 4 this 
+R 1114 4 4 earth 
+- 1120
+R 1123 2 4 En
+R 1128 5 4 joy 
+R 1136 1 4 what 
+R 1138 2 4 it’s 
+R 1142 3 4 worth 
+- 1147
+R 1151 3 4 An
+R 1156 3 4 ger 
+R 1165 2 4 left 
+R 1170 2 4 be
+R 1173 3 4 hind 
+R 1179 3 4 you 
+- 1184
+R 1192 2 4 Just 
+R 1196 2 4 don’t 
+R 1200 1 4 let 
+R 1202 2 4 it 
+R 1206 3 4 find 
+R 1211 1 4 you 
+- 1213
+R 1215 7 4 Love 
+R 1226 2 4 will 
+R 1230 2 4 not 
+R 1234 2 4 re
+R 1238 3 4 main 
+- 1243
+R 1249 2 4 As 
+R 1254 2 4 long 
+R 1258 2 4 as 
+R 1262 2 4 you 
+R 1265 3 4 com
+R 1272 4 4 plain 
+- 1278
+: 1280 6 4 More 
+: 1288 2 2 and 
+: 1292 6 2 more 
+: 1304 2 0 and 
+: 1308 6 0 more 
+- 1316
+: 1324 2 0 I 
+: 1328 2 4 don’t 
+: 1332 2 4 know 
+: 1336 2 4 where 
+: 1340 2 2 we’re 
+: 1344 2 2 go
+: 1348 2 4 ing 
+: 1352 2 2 to
+: 1355 5 4 ~ 
+- 1362
+: 1408 6 4 More 
+: 1416 2 2 and 
+: 1420 6 2 more 
+: 1432 2 0 and 
+: 1436 6 0 more 
+- 1444
+: 1452 2 0 There’s 
+: 1456 2 4 so 
+: 1460 2 4 much 
+: 1464 2 4 we 
+: 1468 2 2 don’t 
+: 1472 2 2 wan
+: 1476 2 4 na 
+: 1480 2 2 do
+: 1483 5 4 ~ 
+- 1490
+* 1532 2 0 ’Cause 
+* 1536 2 7 we 
+* 1540 4 0 lie, 
+* 1548 2 0 we 
+* 1552 4 7 cheat 
+- 1558
+: 1560 2 0 And 
+: 1564 2 0 we 
+: 1568 5 7 run 
+: 1576 4 5 from 
+: 1584 2 4 each 
+: 1588 2 2 and 
+: 1592 2 2 eve
+: 1596 2 0 ry 
+: 1600 2 2 heart 
+: 1604 2 4 af
+: 1608 7 4 fair 
+- 1617
+: 1660 2 0 Yes 
+: 1664 2 7 we 
+: 1668 4 0 lie, 
+: 1676 2 0 we 
+: 1680 5 7 cheat 
+- 1686
+: 1688 2 0 And 
+: 1692 2 0 we 
+: 1696 4 7 hu
+: 1701 2 5 ~rt 
+: 1704 5 5 till 
+: 1712 2 4 some
+: 1716 2 2 bo
+: 1720 5 2 dy’s 
+: 1728 2 2 in 
+: 1732 2 4 des
+: 1737 6 4 pair 
+- 1745
+: 1793 6 4 More 
+: 1801 2 2 and 
+: 1805 6 2 more 
+: 1816 2 0 and 
+: 1820 6 0 more 
+- 1828
+: 1857 6 4 More 
+: 1865 2 2 and 
+: 1869 6 2 more 
+: 1880 2 0 and 
+: 1884 6 0 more 
+- 1892
+R 2160 4 4 More, 
+R 2169 3 4 more 
+R 2176 4 4 bam 
+- 2182
+R 2188 2 4 Don’t 
+R 2192 1 4 give 
+R 2194 2 4 a 
+R 2198 6 4 damn 
+- 2206
+R 2216 2 4 Pump 
+R 2220 1 4 the 
+R 2222 2 4 mu
+R 2225 2 4 sic 
+R 2228 2 4 and 
+R 2232 4 4 jam 
+- 2238
+R 2240 4 4 There’s 
+R 2246 2 4 no 
+R 2252 4 4 time 
+R 2257 2 4 for 
+R 2260 2 4 the 
+R 2264 3 4 prob
+R 2269 3 4 lem 
+- 2274
+R 2280 1 4 Not 
+R 2282 2 4 a 
+R 2286 2 4 thought 
+R 2290 2 4 to 
+R 2296 2 4 solve 
+R 2300 1 4 them 
+- 2302
+R 2304 2 4 Just 
+R 2310 3 4 make 
+R 2316 5 4 sure 
+R 2324 3 4 you 
+R 2328 3 4 get 
+R 2332 2 4 it 
+- 2336
+R 2344 2 4 Show 
+R 2347 2 4 the 
+R 2350 2 4 fel
+R 2353 2 4 las 
+R 2356 2 4 you 
+R 2360 2 4 with 
+R 2363 2 4 it 
+- 2367
+R 2375 2 4 Be
+R 2378 2 4 ing 
+R 2382 3 4 prompt, 
+R 2387 2 4 you 
+R 2392 2 4 did 
+R 2395 1 4 it 
+- 2398
+R 2400 2 4 Ne
+R 2404 2 4 ver 
+R 2411 2 4 will 
+R 2414 2 4 you 
+R 2418 3 4 for
+R 2424 2 4 get 
+R 2427 2 4 it 
+- 2430
+R 2432 5 4 There’s 
+R 2442 3 4 a 
+R 2446 2 4 way 
+R 2449 2 4 to 
+R 2456 3 4 stop 
+R 2460 3 4 this 
+- 2465
+R 2472 2 4 Lis
+R 2475 2 4 ten 
+R 2478 2 4 to 
+R 2482 3 4 the 
+R 2488 3 4 pro
+R 2492 2 4 phets 
+- 2496
+R 2504 1 4 Eve
+R 2506 2 4 ry
+R 2509 2 4 thing 
+R 2514 2 4 they 
+R 2520 3 4 said 
+- 2525
+R 2528 3 4 Yo, 
+R 2538 2 4 it 
+R 2542 3 4 should 
+R 2546 4 4 be 
+R 2552 3 4 read 
+- 2557
+R 2560 5 4 More, 
+R 2572 1 4 he 
+R 2574 2 4 had 
+R 2578 2 4 to 
+R 2584 4 4 tell 
+- 2589
+R 2591 4 4 Things 
+R 2602 2 4 that 
+R 2606 1 4 made 
+R 2609 3 4 him 
+R 2616 3 4 well 
+- 2621
+R 2623 2 4 L-
+R 2626 2 4 I-
+R 2630 2 4 G-
+R 2634 3 4 H-
+R 2640 3 4 T 
+R 2646 3 4 shi
+R 2650 2 4 ning 
+- 2654
+R 2656 2 4 And 
+R 2660 2 4 my 
+R 2664 1 4 bro
+R 2666 3 4 ther’s 
+R 2672 3 4 heart 
+R 2678 2 4 cry
+R 2682 3 4 ing 
+- 2687
+: 2689 5 4 More 
+: 2696 2 2 and 
+: 2701 6 2 more 
+: 2712 2 0 and 
+: 2716 6 0 more 
+- 2724
+: 2733 1 0 I 
+: 2736 2 4 don’t 
+: 2740 2 4 know 
+: 2744 2 4 where 
+: 2748 2 2 we’re 
+: 2752 2 2 go
+: 2756 2 4 ing 
+: 2760 2 2 to
+: 2763 5 4 ~ 
+- 2770
+: 2816 6 4 More 
+: 2824 2 2 and 
+: 2829 6 2 more 
+: 2840 2 0 and 
+: 2844 6 0 more 
+- 2852
+* 2860 2 0 There’s 
+* 2864 2 4 so 
+* 2868 2 4 much 
+* 2873 2 4 we 
+* 2876 2 2 don’t 
+* 2880 2 2 wan
+* 2884 2 4 na 
+* 2889 1 2 do
+* 2891 5 4 ~ 
+- 2898
+: 2940 2 0 ’Cause 
+: 2945 2 7 we 
+: 2948 4 0 lie, 
+: 2956 2 0 we 
+: 2961 3 7 cheat 
+- 2966
+: 2968 2 0 And 
+: 2972 2 0 we 
+: 2976 5 7 run 
+: 2985 4 5 from 
+: 2991 3 4 each 
+: 2997 2 2 and 
+: 3001 2 2 eve
+: 3005 2 0 ry 
+: 3009 2 2 heart 
+: 3012 2 4 af
+: 3017 6 4 fair 
+- 3025
+: 3069 2 0 Yes 
+: 3073 2 7 we 
+: 3077 4 0 lie, 
+: 3085 2 0 we 
+: 3089 3 7 cheat 
+- 3094
+: 3096 2 0 And 
+: 3100 2 0 we 
+: 3105 3 7 hu
+: 3109 2 5 ~rt 
+: 3113 5 5 till 
+: 3120 2 4 some
+: 3125 2 2 bo
+: 3129 3 2 dy’s 
+: 3136 2 2 in 
+: 3140 2 5 des
+: 3145 7 4 pair 
+- 3154
+: 3201 5 4 More 
+: 3209 2 2 and 
+: 3213 6 2 more 
+: 3224 2 0 and 
+: 3228 6 0 more 
+- 3236
+: 3244 2 0 I 
+: 3248 2 4 don’t 
+: 3252 2 4 know 
+: 3256 2 4 where 
+: 3260 2 2 we’re 
+: 3265 2 2 go
+: 3268 2 4 ing 
+: 3273 2 2 to
+: 3276 4 4 ~ 
+- 3282
+: 3329 5 4 More 
+: 3336 2 2 and 
+: 3341 6 2 more 
+: 3353 2 0 and 
+: 3356 6 0 more 
+- 3364
+: 3372 2 0 There’s 
+: 3377 2 4 so 
+: 3381 2 4 much 
+: 3385 2 4 we 
+: 3388 2 2 don’t 
+: 3392 2 2 wan
+: 3396 2 4 na 
+: 3401 2 2 do
+: 3404 4 4 ~ 
+- 3410
+: 3452 2 0 ’Cause 
+: 3456 2 7 we 
+: 3461 4 0 lie, 
+: 3468 2 0 we 
+: 3473 4 7 cheat 
+- 3478
+* 3480 2 0 And 
+* 3484 2 0 we 
+* 3488 5 7 run 
+* 3497 4 5 from 
+* 3505 2 4 each 
+* 3509 2 2 and 
+* 3513 2 2 eve
+* 3516 2 0 ry 
+* 3520 2 2 heart 
+* 3524 2 4 af
+* 3529 6 4 fair 
+- 3537
+: 3581 2 0 Yes 
+: 3585 2 7 we 
+: 3589 4 0 lie, 
+: 3596 2 0 we 
+: 3601 4 7 cheat 
+- 3607
+: 3609 2 0 And 
+: 3612 2 0 we 
+: 3617 3 7 hu
+: 3621 2 5 ~rt 
+: 3625 5 5 till 
+: 3633 2 4 some
+: 3637 2 2 bo
+: 3641 5 2 dy’s 
+: 3648 2 2 in 
+: 3652 2 4 des
+: 3657 6 4 pair 
+- 3665
+: 3713 6 4 More 
+: 3720 2 2 and 
+: 3725 6 2 more 
+: 3737 2 0 and 
+: 3741 6 0 more 
+- 3749
+: 3777 6 4 More 
+: 3784 2 2 and 
+: 3789 6 2 more 
+: 3801 2 0 and 
+: 3804 6 0 more 
+E

@@ -1,0 +1,320 @@
+#ARTIST:The Raveonettes
+#TITLE:That Great Love Sound
+#MP3:The Raveonettes - That Great Love Sound.mp3
+#CREATOR:sanicsip
+#YEAR:2003
+#LANGUAGE:English
+#BPM:360
+#GAP:15000
+#VIDEO:v=Akl3k1kcPvY,co=https://i.discogs.com/myvFhB4vDb17022H_PHG1f6-kSnTt3fEXf22eTmtYp0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODg3/MS0xMTA4MjA4NDIz/LmpwZw.jpeg,bg=raveonettes-the-507eeb953c427.jpg
+: 0 7 1 Chang
+: 8 3 2 ing 
+: 12 3 25 Your 
+: 16 11 14 Strut 
+: 28 3 1 When 
+: 32 3 26 You 
+: 36 11 16 Know 
+: 48 8 5 I’m 
+- 58
+* 60 7 29 Be
+* 68 11 17 hind 
+* 80 20 5 You 
+- 102
+: 168 3 1 Chang
+: 172 3 25 ing 
+: 176 7 15 Your 
+: 184 15 4 Ways 
+: 200 3 27 Cause 
+: 204 3 15 You 
+: 208 7 3 Don’t 
+: 216 8 28 Know 
+- 226
+* 232 4 17 What 
+* 240 7 6 To 
+* 248 20 5 Do 
+- 270
+: 332 3 29 I 
+: 336 11 17 On
+: 348 3 5 ly 
+: 352 11 20 Wan
+: 364 11 18 na 
+: 376 11 9 Tell 
+: 388 16 23 You 
+- 406
+: 416 11 22 How 
+: 428 8 11 I 
+: 440 7 11 Feel 
+: 448 11 35 In
+: 460 20 23 side 
+- 482
+: 504 3 30 If 
+: 508 7 17 On
+: 516 7 17 ly 
+: 524 7 6 You 
+: 532 11 17 Could 
+: 544 7 17 Lis
+: 552 20 5 ten 
+- 574
+: 588 15 2 Try 
+: 604 3 26 To 
+: 608 11 22 Change 
+: 620 7 12 Your 
+: 628 28 22 Mind 
+- 658
+: 704 3 17 So 
+: 708 11 9 I 
+: 720 7 23 Walk 
+: 728 11 23 Right 
+: 740 8 10 Up 
+: 752 3 5 To 
+* 756 20 34 You 
+- 778
+: 788 3 17 And 
+: 792 11 8 You 
+: 804 11 22 Walk 
+: 816 7 22 All 
+* 824 12 10 Over 
+* 840 20 23 Me 
+- 862
+: 872 7 18 And 
+: 880 7 9 I 
+: 888 11 8 Ask 
+* 900 7 33 You 
+* 908 11 21 What 
+: 920 3 8 You 
+* 924 20 22 Want 
+- 946
+: 956 3 20 And 
+: 960 7 9 You 
+: 968 12 23 Tell 
+: 984 7 22 Me 
+* 992 11 9 What 
+* 1004 7 6 You 
+* 1012 16 34 Need 
+- 1030
+: 1040 7 20 Can’t 
+: 1048 3 9 You 
+: 1052 11 21 Feel 
+: 1064 7 22 It 
+: 1072 11 9 All 
+: 1084 11 22 Come 
+: 1096 20 23 Down 
+- 1118
+: 1128 3 11 Can’t 
+: 1132 3 8 You 
+: 1136 11 10 Hear 
+: 1148 11 11 It 
+: 1160 11 10 All 
+* 1172 32 11 Around 
+- 1206
+: 1212 3 9 At 
+: 1216 3 12 The 
+: 1220 11 8 Place 
+: 1232 7 10 Where 
+: 1240 11 8 Lost 
+: 1252 11 8 Is 
+: 1264 20 9 Found 
+- 1286
+* 1296 11 9 That 
+* 1308 20 11 Great 
+* 1332 16 11 Love 
+* 1352 36 11 Sound 
+- 1390
+: 1396 7 1 Talk
+: 1404 3 2 ing 
+: 1408 3 25 To 
+: 1412 7 14 You 
+: 1420 7 1 Makes 
+: 1428 3 26 Me 
+: 1432 11 16 Wan
+: 1444 4 5 na 
+- 1450
+* 1456 7 29 Shake 
+* 1464 8 17 And 
+* 1476 20 5 Shout 
+- 1498
+: 1564 7 1 Touch
+: 1572 7 25 ing 
+: 1580 11 15 You 
+: 1592 3 4 Makes 
+: 1596 3 27 Me 
+: 1600 11 15 Wan
+: 1612 4 3 na 
+- 1618
+* 1624 11 17 Come 
+* 1636 11 6 Right 
+* 1648 24 5 Out 
+- 1674
+: 1736 7 29 You 
+: 1744 7 17 Could 
+: 1752 11 5 Nev
+: 1764 7 20 er 
+: 1772 11 9 Want 
+: 1784 16 23 Me 
+- 1802
+: 1816 3 22 The 
+: 1820 3 22 Same 
+: 1824 15 11 Way 
+: 1840 7 11 I 
+: 1848 11 35 Want 
+: 1860 16 23 You 
+- 1878
+: 1900 3 18 I’m 
+: 1904 11 17 Love 
+: 1916 3 17 Tor
+: 1920 15 6 nado 
+: 1936 20 17 Struck 
+- 1958
+: 1980 7 5 I 
+: 1988 11 2 Don’t 
+: 2000 7 26 Know 
+: 2008 11 22 What 
+: 2020 7 12 To 
+: 2028 24 22 Do 
+- 2054
+: 2100 3 17 So 
+: 2104 11 9 I 
+: 2116 7 23 Walk 
+: 2124 11 23 Right 
+: 2136 8 10 Up 
+: 2148 3 5 To 
+* 2152 16 34 You 
+- 2170
+: 2184 3 17 And 
+: 2188 11 8 You 
+: 2200 11 22 Walk 
+: 2212 7 22 All 
+* 2220 12 10 Over 
+* 2236 20 23 Me 
+- 2258
+: 2268 7 18 And 
+: 2276 7 9 I 
+: 2284 11 8 Ask 
+* 2296 7 33 You 
+* 2304 11 21 What 
+: 2316 3 8 You 
+* 2320 20 22 Want 
+- 2342
+: 2356 3 20 And 
+: 2360 3 9 You 
+: 2364 15 23 Tell 
+: 2380 11 22 Me 
+* 2392 7 9 What 
+* 2400 7 6 You 
+* 2408 16 34 Need 
+- 2426
+: 2440 3 20 Can’t 
+: 2444 7 9 You 
+: 2452 7 21 Feel 
+: 2460 7 22 It 
+: 2468 11 9 All 
+: 2480 11 22 Come 
+* 2492 24 23 Down 
+- 2518
+: 2528 7 11 Can’t 
+: 2536 3 8 You 
+: 2540 7 10 Hear 
+: 2548 7 11 It 
+: 2556 11 10 All 
+* 2568 32 11 Around 
+- 2602
+: 2608 3 9 At 
+: 2612 7 12 The 
+: 2620 7 8 Place 
+: 2628 11 10 Where 
+: 2640 11 8 Lost 
+: 2652 7 8 Is 
+: 2660 20 9 Found 
+- 2682
+* 2692 11 9 That 
+* 2704 20 11 Great 
+* 2728 16 11 Love 
+* 2752 36 11 Sound 
+- 2790
+: 3032 3 17 So 
+: 3036 11 9 I 
+: 3048 7 23 Walk 
+: 3056 11 23 Right 
+: 3068 7 10 Up 
+: 3076 7 5 To 
+* 3084 16 34 You 
+- 3102
+: 3116 3 17 And 
+: 3120 11 8 You 
+: 3132 11 22 Walk 
+: 3144 7 22 All 
+* 3152 15 10 Over 
+* 3168 20 23 Me 
+- 3190
+: 3200 7 18 And 
+: 3208 7 9 I 
+: 3216 11 8 Ask 
+* 3228 7 33 You 
+* 3236 11 21 What 
+: 3248 3 8 You 
+* 3252 20 22 Want 
+- 3274
+: 3288 3 20 And 
+: 3292 3 9 You 
+: 3296 15 23 Tell 
+: 3312 7 22 Me 
+* 3320 11 9 What 
+* 3332 7 6 You 
+* 3340 20 34 Need 
+- 3362
+: 3368 7 20 Can’t 
+: 3376 3 9 You 
+: 3380 11 21 Feel 
+: 3392 8 22 It 
+: 3404 7 9 All 
+: 3412 11 22 Come 
+* 3424 20 23 Down 
+- 3446
+: 3456 3 11 Can’t 
+: 3460 3 8 You 
+: 3464 11 10 Hear 
+: 3476 11 11 It 
+: 3488 11 10 All 
+* 3500 32 11 Around 
+- 3534
+: 3540 3 9 At 
+: 3544 7 12 The 
+: 3552 7 8 Place 
+: 3560 11 10 Where 
+: 3572 11 8 Lost 
+: 3584 7 8 Is 
+: 3592 20 9 Found 
+- 3614
+* 3624 12 9 That 
+* 3640 28 11 Great 
+* 3680 28 11 Love 
+* 3724 60 11 Sound 
+- 3786
+: 3792 7 20 Can’t 
+: 3800 3 9 You 
+: 3804 11 21 Feel 
+: 3816 7 22 It 
+: 3824 11 9 All 
+: 3836 11 22 Come 
+* 3848 20 23 Down 
+- 3870
+: 3876 7 11 Can’t 
+: 3884 3 8 You 
+: 3888 11 10 Hear 
+: 3900 11 11 It 
+: 3912 11 10 All 
+* 3924 32 11 Around 
+- 3958
+: 3964 3 9 At 
+: 3968 3 12 The 
+: 3972 11 8 Place 
+: 3984 7 10 Where 
+: 3992 11 8 Lost 
+: 4004 11 8 Is 
+: 4016 20 9 Found 
+- 4038
+* 4048 11 9 That 
+* 4060 20 11 Great 
+* 4084 20 11 Love 
+* 4108 52 11 Sound 
+E

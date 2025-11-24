@@ -1,0 +1,90 @@
+#ARTIST:OMD (Orchestral Manoeuvres In The Dark)
+#TITLE:Maid Of Orleans (The Waltz Joan Of Arc)
+#MP3:OMD (Orchestral Manoeuvres In The Dark) - Maid Of Orleans (The Waltz Joan Of Arc).mp3
+#CREATOR:znxineohp
+#YEAR:1981
+#LANGUAGE:English
+#BPM:218
+#GAP:81700
+#VIDEO:v=vmwMhjbThKg,co=https://m.media-amazon.com/images/I/71LigTqmUkL.jpg,co-crop=6-6-1000-1000,bg=orchestral-manoeuvres-in-the-dark-59d4f35e3a878.jpg
+: 0 3 5 If 
+: 4 7 7 Joan 
+: 12 3 10 of 
+* 16 3 10 A
+* 20 20 7 ~rc 
+- 42
+: 51 8 7 Had 
+: 60 3 5 a 
+* 64 22 5 heart 
+- 88
+: 90 3 7 Would 
+: 94 3 8 she 
+: 98 3 7 give 
+* 102 22 3 it 
+- 126
+: 134 7 3 As 
+: 142 3 0 a 
+* 146 3 0 gi
+* 150 19 -2 ~ft 
+- 171
+: 189 3 7 To 
+: 193 6 7 such 
+: 200 4 5 as 
+* 205 20 7 me 
+- 227
+: 237 3 8 Who 
+: 241 7 7 longs 
+: 249 5 5 to 
+* 255 22 -2 see 
+- 279
+: 281 3 7 How 
+: 285 3 8 an 
+* 289 5 7 an
+* 295 18 3 gel 
+- 315
+: 325 7 8 Ought 
+: 333 3 7 to 
+* 337 2 7 be
+* 340 2 5 ~
+* 343 18 3 ~ 
+- 363
+: 761 3 16 Her 
+: 765 6 16 dreams 
+: 773 3 14 to 
+* 777 23 16 give 
+- 802
+: 809 3 16 Her 
+: 813 7 16 heart 
+* 821 3 14 a
+* 825 19 14 way 
+- 846
+: 852 3 16 Like 
+: 856 3 17 an 
+* 860 5 16 or
+* 866 26 12 phan 
+- 894
+: 896 7 12 Along 
+: 904 3 14 the 
+* 908 34 16 way 
+- 944
+: 950 4 16 She 
+: 955 7 16 cared 
+: 963 3 15 so 
+* 967 28 16 much 
+- 997
+: 998 3 17 She 
+: 1002 3 16 of
+: 1006 5 14 fered 
+* 1012 25 14 up 
+- 1039
+: 1045 4 17 Her 
+* 1050 4 16 bo
+* 1055 25 12 dy 
+- 1082
+: 1085 1 12 To
+: 1087 6 17 ~ 
+: 1094 3 16 the 
+* 1098 3 16 gra
+* 1102 3 14 ~
+* 1106 33 12 ~ve 
+E

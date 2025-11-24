@@ -1,0 +1,165 @@
+#ARTIST:Jonas Brothers
+#TITLE:I Left My Heart In Scandinavia
+#MP3:Jonas Brothers - I Left My Heart In Scandinavia.mp3
+#CREATOR:vexevir
+#LANGUAGE:English
+#BPM:370
+#GAP:10980
+#VIDEO:v=Iaxi4RQalO0,co=https://images.genius.com/ce3a2f6b16bace26b0d1e7898a6a7d25.719x719x1.jpg,bg=jonas-brothers-51f54c5b9799b.jpg
+: 0 4 -3 Lon
+: 6 4 -1 don’s 
+: 14 1 -3 nice
+: 16 6 -1 ~ 
+: 26 4 -5 but 
+: 32 2 0 it’s 
+: 40 6 -1 not 
+: 48 4 -5 sun
+: 54 4 -8 ny 
+- 60
+: 124 2 -5 The 
+: 128 4 -3 De
+: 134 4 -1 serts 
+: 142 1 -3 hot
+: 144 4 -1 ~ 
+: 152 4 -5 ’cuz 
+: 160 6 0 there’s 
+* 168 10 -1 no 
+: 184 8 -5 rain 
+- 194
+: 256 2 -1 You 
+: 260 8 -1 can 
+: 272 6 -1 laugh 
+: 280 4 -5 but 
+- 286
+F 288 4 4 It’s 
+F 296 6 4 not 
+F 304 3 -3 fun
+F 308 4 -5 ny 
+- 314
+: 380 2 -5 I 
+: 384 6 -1 found 
+: 392 2 -1 a 
+: 396 6 -1 place 
+: 404 2 -3 where 
+: 408 6 -1 my 
+: 416 8 2 heart 
+: 426 8 -1 will 
+- 436
+* 450 10 -5 Stay 
+- 462
+: 512 2 -3 Tok
+: 516 6 -1 yos 
+: 528 6 -1 fast 
+: 536 4 -5 but 
+: 544 6 0 I’m 
+: 552 6 -1 not 
+: 560 6 -5 wind
+: 568 6 -8 ed 
+- 576
+: 640 4 -1 New 
+: 646 4 -1 Yorks 
+: 656 6 -1 cash 
+: 666 4 -5 but 
+: 672 4 0 that’s 
+: 680 10 -1 ok
+: 698 6 -5 ay 
+- 706
+: 768 4 -1 I
+: 774 6 -1 ta
+: 782 8 -1 lys 
+: 794 4 -5 a 
+: 800 4 0 price
+: 808 4 -1 less 
+* 816 4 -5 me
+: 822 1 -8 mo
+: 824 6 -8 ry 
+- 832
+: 896 4 -1 Just 
+: 906 6 -1 go 
+: 914 4 -1 walk 
+: 920 2 -3 the 
+: 926 6 2 streets 
+: 936 10 -1 of 
+: 954 8 -5 Spain 
+- 964
+: 992 4 -5 But 
+: 998 1 -5 I
+* 1000 4 -3 ~ 
+: 1008 18 -6 found 
+- 1028
+: 1056 4 0 That 
+: 1062 6 -1 I 
+: 1072 6 -1 left 
+: 1088 8 2 my 
+* 1104 16 9 heart
+: 1122 8 7 ~ 
+- 1132
+: 1164 2 -5 In 
+: 1170 6 0 Scan
+: 1178 2 -1 di
+: 1182 6 -3 na
+: 1192 4 -5 via 
+- 1198
+: 1202 6 -1 Left 
+: 1216 8 2 my 
+: 1232 16 9 heart
+: 1250 8 7 ~ 
+- 1260
+: 1292 2 -5 In 
+: 1298 6 0 Scan
+: 1306 2 -1 di
+: 1310 6 -3 na
+: 1320 4 -5 via 
+- 1326
+: 1330 6 -1 Left 
+: 1344 8 2 my 
+: 1360 8 9 love 
+- 1370
+: 1376 6 7 In
+: 1392 6 -1 side 
+: 1400 2 2 of 
+* 1408 6 11 her 
+: 1416 12 7 arms 
+- 1430
+: 1448 2 -3 Yeah 
+: 1452 4 -1 I 
+: 1458 4 0 left 
+: 1464 8 -1 my 
+: 1480 16 -3 heart
+: 1498 6 -1 ~ 
+- 1506
+: 1548 2 -5 In 
+: 1554 6 0 Scan
+: 1562 2 -1 di
+: 1566 6 -3 na
+: 1578 10 -5 via 
+- 1590
+: 1676 2 -5 In 
+: 1682 6 0 Scan
+: 1690 2 -1 di
+* 1694 6 2 na
+: 1704 8 -5 via 
+- 1714
+F 1804 3 0 Shweb 
+F 1808 3 0 bad 
+F 1812 3 0 de
+F 1816 3 0 eb 
+F 1820 3 0 a 
+F 1824 3 0 de
+F 1828 3 0 eb 
+F 1832 7 0 boo 
+F 1840 8 0 bow 
+- 1850
+: 1960 2 -3 Yeah 
+: 1964 4 -1 I 
+: 1970 4 0 left 
+: 1976 8 -1 my 
+: 1992 16 -3 heart
+: 2010 6 -1 ~ 
+- 2018
+F 2060 4 -1 In 
+F 2066 3 -1 Scan
+F 2070 3 -1 di
+F 2074 7 -1 na
+F 2082 6 -1 via 
+E

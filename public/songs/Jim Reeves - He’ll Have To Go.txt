@@ -1,0 +1,217 @@
+#ARTIST:Jim Reeves
+#TITLE:He’ll Have To Go
+#MP3:Jim Reeves - He’ll Have To Go.mp3
+#CREATOR:rote_rose
+#COVER:Jim Reeves - He’ll Have To Go [CO].jpg
+#BACKGROUND:Jim Reeves - He’ll Have To Go [BG].jpg
+#GENRE:Swing
+#YEAR:1959
+#LANGUAGE:English
+#BPM:363.86
+#GAP:8930
+#VIDEO:v=wzQ9oCHqyNo,co=https://i.discogs.com/w9czdXp3R7TUcpRlVTakmOrTwBdHJO4KZJC0uXX5uEg/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcx/NTcwLTE0OTQ0NzE1/NjgtNzA0OS5qcGVn.jpeg
+: 0 4 1 Put 
+: 5 4 3 your 
+: 10 10 5 sweet 
+* 21 10 1 lips 
+- 37
+: 40 14 1 A 
+: 55 3 3 li
+: 59 3 5 ttle 
+: 63 7 6 clo
+: 71 36 6 ser 
+: 108 3 6 to 
+: 112 3 10 the 
+: 116 39 8 phone 
+- 179
+: 211 7 5 Let’s 
+: 219 5 6 pre
+: 225 25 8 tend 
+- 250
+: 252 7 8 That 
+: 261 10 10 we’re 
+: 272 5 8 to
+: 278 6 5 ge
+: 285 30 -4 ther 
+: 322 6 6 all 
+: 329 4 5 a
+: 334 31 3 lone 
+- 389
+: 416 12 1 I’ll 
+: 430 5 1 tell 
+: 436 4 3 the 
+: 441 23 5 man 
+- 465
+: 467 7 3 To 
+: 475 10 5 turn 
+: 486 6 6 the 
+: 493 9 8 juke
+: 503 31 8 box 
+: 535 9 10 way 
+: 545 9 8 down 
+: 559 40 -6 low 
+- 609
+: 630 12 1 And 
+: 643 4 1 you 
+: 648 4 3 can 
+: 653 15 5 tell 
+- 677
+: 680 8 5 Your 
+* 689 11 6 friend 
+: 701 10 5 there 
+: 712 7 3 with 
+: 720 12 3 you 
+- 736
+: 738 12 -4 He’ll 
+: 751 4 0 have 
+: 756 4 3 to 
+: 761 43 1 go 
+- 814
+: 851 10 1 Whis
+: 862 6 3 per 
+: 869 7 5 to 
+: 877 18 -4 me 
+- 905
+: 912 5 5 Tell 
+: 918 5 5 me 
+: 924 26 6 do 
+: 951 10 6 you 
+: 962 7 8 love 
+: 970 5 10 me 
+: 976 60 8 true 
+- 1046
+: 1072 7 5 Or 
+: 1080 7 6 is 
+: 1088 33 8 he 
+: 1124 7 10 hol
+: 1132 6 8 ding 
+* 1139 17 5 you 
+: 1168 14 -4 the 
+: 1183 7 6 way 
+: 1191 8 5 I 
+: 1200 49 3 do? 
+- 1259
+: 1274 12 1 Though 
+: 1287 5 1 love 
+: 1293 5 3 is 
+: 1299 27 5 blind 
+- 1327
+: 1329 9 5 Make 
+: 1339 6 5 up 
+: 1346 8 6 your 
+: 1355 23 8 mind 
+- 1379
+: 1381 15 10 I’ve 
+: 1397 7 10 got 
+: 1405 14 8 to 
+: 1420 39 -6 know 
+- 1469
+: 1500 6 1 Should 
+: 1507 9 6 I 
+: 1517 6 6 hang 
+: 1524 7 5 up 
+- 1540
+: 1543 13 -4 Or 
+: 1557 5 1 will 
+: 1563 6 5 you 
+: 1570 6 5 tell 
+: 1577 14 3 him 
+- 1603
+: 1607 6 -4 He’ll 
+: 1614 6 0 have 
+: 1621 3 3 to 
+* 1625 55 1 go? 
+- 1690
+: 1709 8 6 You 
+: 1718 8 8 can’t 
+: 1727 31 10 say 
+: 1759 5 8 the 
+: 1765 13 10 words 
+: 1779 13 11 I 
+: 1793 4 10 want 
+: 1798 3 8 to 
+: 1802 26 6 hear 
+- 1828
+: 1830 9 5 While 
+: 1840 9 6 you’re 
+: 1850 9 5 with 
+: 1868 13 5 a
+: 1882 4 5 no
+: 1887 4 6 ther 
+: 1892 14 5 man 
+- 1916
+: 1939 3 6 Do 
+: 1943 7 8 you 
+* 1951 25 10 want 
+: 1977 7 8 me? 
+: 1985 7 10 Ans
+: 1993 7 11 wer 
+: 2001 7 10 yes 
+: 2009 3 8 or 
+: 2013 26 6 no 
+- 2044
+: 2046 7 1 Dar
+: 2054 7 3 ling, 
+: 2062 18 5 I 
+: 2085 13 -4 will 
+: 2099 5 6 un
+: 2105 5 5 ders
+: 2111 30 3 tand 
+- 2151
+: 2155 4 1 Put 
+: 2160 4 3 your 
+: 2165 11 5 sweet 
+: 2177 17 1 lips 
+- 2204
+: 2208 3 1 A 
+: 2212 3 3 li
+: 2216 5 5 ttle 
+: 2222 5 6 clo
+: 2228 31 6 ser 
+: 2263 4 8 to 
+: 2268 4 10 the 
+: 2273 50 8 phone 
+- 2333
+: 2370 8 5 Let’s 
+: 2379 4 6 pre
+: 2384 26 8 tend 
+- 2410
+: 2412 6 8 That 
+: 2419 11 10 we’re 
+: 2431 12 8 to
+: 2444 6 5 ge
+: 2451 27 -4 ther 
+: 2482 6 6 all 
+: 2489 5 5 a
+: 2495 55 3 lone 
+- 2560
+: 2575 13 1 I’ll 
+* 2589 5 1 tell 
+: 2595 5 3 the 
+: 2601 20 5 man 
+- 2626
+: 2628 8 3 To 
+: 2637 9 5 turn 
+: 2647 6 6 the 
+: 2654 10 8 juke
+: 2665 30 8 box 
+: 2696 9 10 way 
+: 2706 11 8 down 
+: 2719 50 -6 low 
+- 2779
+: 2791 13 1 And 
+: 2805 4 1 you 
+: 2810 4 3 can 
+: 2815 23 5 tell 
+- 2841
+: 2843 7 5 Your 
+: 2851 11 6 friend 
+: 2863 9 5 there 
+: 2873 5 6 with 
+: 2879 15 3 you 
+- 2904
+: 2908 20 -4 He’ll 
+: 2929 19 0 have 
+: 2952 37 3 to 
+* 2991 85 1 go 
+E

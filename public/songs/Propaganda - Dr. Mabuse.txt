@@ -1,0 +1,221 @@
+#ARTIST:Propaganda
+#TITLE:Dr. Mabuse
+#MP3:Propaganda - Dr. Mabuse.mp3
+#CREATOR:Buberatz
+#YEAR:1984
+#LANGUAGE:English
+#BPM:216.5
+#GAP:51400
+#VIDEO:v=px4xHQd9h14,co=dr-mabuse-6274c7743cff8.jpg
+: 0 3 0 Sell 
+: 4 2 0 him 
+: 7 1 0 your 
+: 9 5 0 soul 
+- 16
+: 17 3 0 Sell 
+: 21 1 0 him 
+: 23 1 0 your 
+: 25 5 0 soul 
+- 32
+: 34 1 0 Sell 
+: 36 2 0 him 
+: 40 2 0 your 
+: 44 4 0 soul 
+- 50
+: 66 3 2 Ne
+: 70 1 4 ver 
+: 72 2 1 look 
+: 76 4 3 back 
+- 82
+: 98 3 2 Ne
+: 102 1 4 ver 
+: 104 2 1 look 
+: 108 4 3 back 
+- 114
+: 130 1 2 Sell 
+: 132 2 2 him 
+: 136 2 2 your 
+: 140 4 2 soul 
+- 146
+: 162 2 8 Sell 
+: 166 2 8 him 
+: 170 2 8 your 
+: 174 4 9 soul 
+- 180
+: 194 3 4 Ne
+: 198 1 4 ver 
+: 200 2 4 look 
+: 204 4 3 back 
+- 210
+: 258 3 6 Ne
+: 262 1 6 ver 
+: 264 2 6 look 
+: 268 4 5 back 
+- 274
+: 386 3 6 Ne
+: 390 1 6 ver 
+: 392 2 6 look 
+: 396 4 6 back 
+- 402
+: 516 1 2 Sell 
+: 518 2 2 him 
+: 522 2 0 your 
+: 526 4 2 soul 
+- 532
+: 764 2 4 He’s 
+: 768 3 4 de
+: 772 3 6 vo
+: 776 2 4 ted 
+: 780 2 0 to 
+: 784 2 0 the 
+: 788 3 0 de
+: 792 4 0 vil 
+- 798
+: 800 3 0 Fas
+: 804 3 0 ci
+: 808 3 0 na
+: 812 2 0 ted 
+: 816 2 0 by 
+: 820 4 2 crime 
+- 826
+: 840 3 0 Gla
+: 844 3 0 mo
+: 848 3 0 rous 
+: 852 6 0 death 
+- 860
+: 864 3 3 Is 
+: 868 3 4 his 
+: 872 5 4 de
+: 878 3 2 sti
+: 882 5 2 na
+: 888 6 0 tion 
+- 896
+: 912 5 0 E
+: 918 5 0 ter
+: 924 5 0 nal 
+: 930 5 0 pass
+: 936 6 0 ion 
+- 944
+: 958 3 5 His 
+: 962 6 6 gain 
+- 970
+: 1030 1 0 Sell 
+: 1032 2 0 him 
+: 1036 2 0 your 
+: 1040 4 0 soul 
+- 1046
+: 1048 1 0 Sell 
+: 1050 2 0 him 
+: 1054 2 0 your 
+: 1058 4 0 soul 
+- 1063
+: 1064 1 0 Sell 
+: 1066 2 0 him 
+: 1070 2 0 your 
+: 1074 4 0 soul 
+- 1080
+: 1096 3 2 Ne
+: 1100 1 4 ver 
+: 1102 2 1 look 
+: 1106 4 3 back 
+- 1112
+: 1128 3 2 Ne
+: 1132 1 4 ver 
+: 1134 2 1 look 
+: 1138 4 3 back 
+- 1144
+: 1160 1 2 Sell 
+: 1162 2 2 him 
+: 1166 2 2 your 
+: 1170 4 2 soul 
+- 1176
+: 1192 1 8 Sell 
+: 1194 2 8 him 
+: 1198 2 8 your 
+: 1202 4 9 soul 
+- 1208
+: 1222 3 4 Ne
+: 1226 1 4 ver 
+: 1228 2 4 look 
+: 1232 4 3 back 
+- 1238
+: 1288 3 6 Ne
+: 1292 1 6 ver 
+: 1294 2 6 look 
+: 1298 4 5 back 
+- 1304
+: 1416 1 2 Sell 
+: 1418 2 2 him 
+: 1422 2 2 your 
+: 1426 4 2 soul 
+- 1432
+: 1450 1 8 Sell 
+: 1452 2 8 him 
+: 1456 2 8 your 
+: 1460 4 9 soul 
+- 1466
+: 1546 3 6 Ne
+: 1550 1 6 ver 
+: 1552 2 6 look 
+: 1556 4 6 back 
+- 1562
+: 1924 2 4 He’s 
+: 1928 3 4 a 
+: 1932 3 6 sa
+: 1936 3 0 ta
+: 1940 4 0 nic 
+: 1946 5 0 gamb
+: 1952 4 0 ler 
+- 1958
+: 1962 3 0 With 
+: 1966 5 0 you 
+: 1972 2 0 just 
+: 1976 2 0 the 
+: 1980 4 2 fool 
+- 1986
+: 1994 2 3 And 
+: 1998 3 4 you’ve 
+: 2002 3 4 al
+: 2006 1 4 rea
+: 2008 2 4 dy 
+: 2012 4 4 lost 
+- 2018
+: 2024 3 3 The 
+: 2028 3 4 chance 
+: 2032 5 4 of 
+: 2038 3 4 your 
+: 2042 5 5 life
+: 2048 6 5 time 
+- 2056
+: 2068 5 0 So 
+: 2074 5 0 don’t 
+: 2080 5 0 be 
+: 2086 5 0 a 
+: 2092 6 0 fool 
+- 2100
+: 2110 2 -1 Don’t 
+: 2114 2 1 be 
+: 2118 2 6 a 
+: 2122 4 6 fool 
+- 2128
+: 2158 4 8 Kein 
+: 2166 3 6 Zu
+: 2170 6 8 rück 
+: 2178 10 8 für 
+: 2190 8 8 Dich 
+- 2200
+: 2216 4 3 There’s 
+: 2226 9 10 no 
+: 2236 13 8 way 
+: 2250 10 8 back 
+- 2262
+: 2320 1 0 Sell 
+: 2322 2 0 him 
+: 2326 2 0 your 
+: 2330 4 0 soul 
+- 2336
+: 2832 3 6 Ne
+: 2836 1 6 ver 
+: 2838 2 6 look 
+: 2842 4 6 back 
+E

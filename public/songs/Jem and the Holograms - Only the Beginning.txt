@@ -1,0 +1,277 @@
+#ARTIST:Jem and the Holograms
+#TITLE:Only the Beginning
+#MP3:Jem and the Holograms - Only the Beginning.mp3
+#CREATOR:Supau
+#COVER:Jem and the Holograms - Only the Beginning [CO].jpg
+#BACKGROUND:Jem and the Holograms - Only the Beginning [BG].jpg
+#GENRE:Cartoon
+#YEAR:1985
+#LANGUAGE:English
+#BPM:300
+#GAP:1640
+#VIDEO:v=rUGWGxDBFew,co=https://images.genius.com/079e305ed9344024002147c14f653ea0.1000x1000x1.jpg
+: 0 2 0 Mu
+: 4 2 0 sic 
+: 8 2 0 in 
+: 12 2 0 the 
+: 16 9 0 air 
+- 26
+: 28 7 2 News 
+: 36 2 2 is 
+: 40 2 2 in 
+: 44 2 2 the 
+: 48 2 2 ma
+: 52 5 2 king 
+- 58
+: 60 6 3 Mu
+: 68 2 3 sic 
+: 72 2 3 in 
+: 76 2 3 the 
+: 80 7 3 air 
+- 90
+: 92 7 5 Some
+: 100 2 5 thing 
+: 104 2 5 big 
+: 108 2 5 is 
+: 112 2 5 break
+* 116 33 5 ing 
+- 155
+: 158 11 7 Wow, 
+: 170 2 5 look 
+: 174 2 3 a
+: 178 7 3 round 
+: 186 2 3 at 
+: 190 2 3 the 
+: 194 2 3 sight 
+: 198 2 3 and 
+: 202 2 0 the 
+: 206 5 3 sound 
+- 213
+: 215 2 3 Did 
+: 219 2 5 we 
+: 223 7 7 take 
+: 232 2 7 you 
+: 236 2 5 by 
+: 240 2 3 sur
+: 244 5 3 prise? 
+- 250
+: 252 2 3 Bet 
+: 256 2 3 you 
+: 260 7 10 can’t 
+: 268 2 8 be
+: 272 10 7 lieve 
+: 284 2 3 your 
+: 288 26 5 eyes, 
+: 320 7 12 whoa
+: 328 3 10 ~
+: 332 3 9 ~
+: 336 4 7 ~ 
+- 344
+: 346 2 7 Well, 
+: 350 2 7 this 
+: 354 2 9 is 
+: 358 2 10 on
+: 362 2 10 ly 
+: 366 2 9 the 
+: 370 2 9 be
+: 374 2 7 gin
+: 378 5 7 ning 
+- 384
+: 386 6 14 On
+: 394 2 12 ly 
+: 398 2 10 the 
+: 402 2 12 be
+: 406 9 12 gin
+: 420 13 12 ning 
+- 443
+: 468 10 7 Now, 
+: 480 2 5 now’s 
+: 484 2 3 the 
+: 488 6 3 time 
+: 496 2 3 when 
+: 500 2 3 our 
+: 504 2 3 star’s 
+: 508 2 3 on 
+: 512 2 0 the 
+: 516 5 3 climb 
+- 522
+: 524 2 3 Watch 
+: 528 2 5 us 
+: 532 7 7 try 
+: 544 2 5 for 
+: 548 2 3 the 
+: 552 6 3 prize 
+- 563
+: 565 2 3 We’re 
+: 569 2 10 al
+: 573 2 10 rea
+: 577 2 8 dy 
+: 581 8 7 on 
+: 593 2 3 the 
+: 597 27 5 rise, 
+: 630 7 12 oh
+: 638 3 10 ~
+: 642 3 9 ~
+: 646 4 7 ~ 
+- 652
+: 654 2 7 Well, 
+: 658 2 7 this 
+: 662 2 9 is 
+: 666 2 10 on
+: 670 2 10 ly 
+: 674 2 9 the 
+: 678 2 9 be
+: 682 2 7 gin
+: 686 5 7 ning 
+- 694
+: 696 6 14 On
+: 704 2 12 ly 
+: 708 2 10 the 
+: 712 2 12 be
+: 716 9 12 gin
+: 728 12 12 ning 
+- 742
+: 744 7 14 On
+: 753 2 14 ly 
+: 756 2 12 the 
+: 760 2 12 be
+: 764 2 10 gin
+: 768 5 10 ning 
+- 774
+: 776 6 10 On
+: 784 2 10 ly 
+: 788 2 9 the 
+: 792 2 9 be
+: 796 2 7 gin
+: 800 5 7 ning 
+- 808
+: 810 6 14 On
+: 818 2 12 ly 
+: 822 2 10 the 
+: 826 2 12 be
+: 830 9 12 gin
+: 842 30 12 ning 
+- 882
+: 890 10 7 Wow, 
+: 902 2 5 look 
+: 906 2 3 a
+: 910 6 3 round 
+: 918 2 3 at 
+: 922 2 3 the 
+: 926 2 3 sight 
+: 930 2 3 and 
+: 934 2 0 the 
+: 938 5 3 sound 
+- 944
+: 946 2 3 Did 
+: 950 2 5 we 
+: 954 7 7 take 
+: 962 2 7 you 
+: 966 2 5 by 
+: 970 2 3 sur
+: 974 2 3 prise? 
+- 980
+: 982 2 3 Bet 
+: 986 2 3 you 
+: 990 7 10 can’t 
+: 1000 2 8 be
+: 1004 10 7 lieve 
+: 1016 2 3 your 
+: 1020 26 5 eyes, 
+* 1052 7 12 whoa
+* 1060 3 10 ~
+* 1064 3 9 ~
+* 1068 4 7 ~ 
+- 1076
+: 1078 2 7 Well, 
+: 1082 2 7 this 
+: 1086 2 9 is 
+: 1090 2 10 on
+: 1094 2 10 ly 
+: 1098 2 9 the 
+: 1102 2 9 be
+: 1106 2 7 gin
+: 1110 5 7 ning 
+- 1116
+: 1118 6 14 On
+: 1126 2 12 ly 
+: 1130 2 10 the 
+: 1134 2 12 be
+: 1138 9 12 gin
+: 1150 13 12 ning 
+- 1173
+: 1199 10 7 Now, 
+: 1211 2 5 now’s 
+: 1215 2 3 the 
+: 1219 6 3 time 
+: 1227 2 3 when 
+: 1231 2 3 our 
+: 1235 2 3 star’s 
+: 1239 2 3 on 
+: 1243 2 0 the 
+: 1247 5 3 climb 
+- 1253
+: 1255 2 3 Watch 
+: 1259 2 5 us 
+: 1263 7 7 try 
+: 1275 2 5 for 
+: 1279 2 3 the 
+: 1283 6 3 prize 
+- 1294
+: 1296 2 3 We’re 
+: 1300 2 10 al
+: 1304 2 10 rea
+: 1308 2 8 dy 
+: 1312 8 7 on 
+: 1324 2 3 the 
+: 1328 27 5 rise, 
+: 1360 7 12 oh
+: 1368 3 10 ~
+: 1372 3 9 ~
+: 1376 4 7 ~ 
+- 1383
+: 1385 2 7 Well, 
+: 1389 2 7 this 
+: 1393 2 9 is 
+: 1397 2 10 on
+: 1401 2 10 ly 
+: 1405 2 9 the 
+: 1409 2 9 be
+: 1413 2 7 gin
+: 1417 5 7 ning 
+- 1424
+: 1426 6 14 On
+: 1434 2 12 ly 
+: 1438 2 10 the 
+: 1442 2 12 be
+: 1446 9 12 gin
+: 1460 11 12 ning 
+- 1472
+: 1474 7 14 On
+: 1484 2 14 ly 
+: 1487 2 12 the 
+: 1491 2 12 be
+: 1495 2 10 gin
+: 1499 5 10 ning 
+- 1505
+: 1507 6 10 On
+: 1516 2 10 ly 
+: 1520 2 9 the 
+: 1524 2 9 be
+: 1528 2 7 gin
+: 1532 5 7 ning 
+- 1538
+: 1540 6 14 On
+: 1548 2 12 ly 
+: 1552 2 10 the 
+: 1556 2 12 be
+* 1560 9 12 gin
+* 1572 13 12 ning 
+- 1586
+: 1588 6 14 On
+: 1596 2 14 ly 
+: 1600 2 12 the 
+: 1604 2 10 be
+: 1608 2 9 gin
+: 1612 6 7 ning 
+E

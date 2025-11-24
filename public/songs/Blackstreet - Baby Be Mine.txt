@@ -1,0 +1,328 @@
+#ARTIST:Blackstreet
+#TITLE:Baby Be Mine
+#MP3:Blackstreet - Baby Be Mine.mp3
+#CREATOR:Askus
+#COVER:Blackstreet - Baby Be Mine [CO].jpg
+#BACKGROUND:Blackstreet - Baby Be Mine [BG].jpg
+#GENRE:R&B
+#YEAR:1994
+#LANGUAGE:English
+#BPM:280.78
+#GAP:500
+#VIDEO:a=2SrE9pXe4Ko,co=https://www.23records.jp/data/twothreerecords/product/20131028_ec592a.JPG
+: 0 4 -5 Now 
+: 5 2 -3 is 
+: 8 3 -2 the 
+: 12 6 -3 time, 
+: 20 3 -5 and 
+: 25 5 -10 here’s 
+: 31 3 -9 the 
+: 35 4 -10 pla
+: 40 10 -12 ~ce 
+- 60
+: 70 3 1 I 
+: 75 5 2 want … 
+- 82
+: 84 3 -5 The 
+: 88 4 -3 glow 
+: 93 3 -2 of 
+: 97 6 -3 love 
+: 105 5 -10 is 
+: 111 6 -10 written 
+: 118 3 -10 on 
+: 122 5 2 your 
+: 128 12 0 face 
+- 151
+: 155 3 1 I 
+: 160 5 2 want … 
+- 168
+: 170 3 -5 Don’t 
+: 175 3 -3 be 
+: 179 2 -2 a
+* 182 6 -3 fraid 
+: 191 3 -3 just 
+: 195 6 -10 come 
+: 203 4 -9 to 
+: 208 6 -12 me 
+- 224
+: 240 3 1 I 
+: 245 5 2 want … 
+- 254
+: 256 3 -5 For 
+: 260 3 -3 your 
+: 264 3 -2 good 
+: 268 5 -3 lo
+: 274 4 -10 vin’ 
+: 279 3 -10 I’ve 
+: 283 5 -10 been 
+* 289 8 5 waitin’ 
+: 298 4 3 pa
+: 303 4 2 tient
+: 308 6 0 ly 
+- 324
+: 344 4 -5 So 
+: 351 5 5 come 
+: 358 5 3 clo
+: 364 6 2 ser 
+: 372 3 0 plea
+: 376 6 2 ~se 
+- 390
+: 393 7 2 And 
+: 402 4 0 I 
+: 408 5 -2 will 
+: 415 7 -3 show 
+: 426 4 -3 you 
+: 433 3 -2 the 
+: 438 4 -3 way
+: 443 7 -5 ~ 
+- 455
+: 457 6 5 Love 
+: 464 4 5 and 
+: 469 3 3 ex
+: 473 3 2 ta
+: 477 10 0 sy 
+: 489 3 2 to
+: 494 11 -2 night 
+- 513
+: 516 4 -7 ’Cause 
+: 522 5 5 It’s 
+: 528 7 3 hard 
+: 536 5 2 to 
+: 542 5 0 fi
+: 548 3 2 ~nd 
+- 561
+: 565 6 2 Real 
+: 573 5 -2 love, 
+: 579 5 -2 so 
+: 585 6 -3 ba
+: 592 3 -5 by 
+: 596 7 -3 won’t 
+: 604 3 -2 you 
+: 608 7 -3 try 
+: 616 8 -5 me, 
+- 627
+: 629 5 5 And 
+: 635 3 3 for
+: 639 3 3 e
+: 644 3 2 ver 
+: 648 6 0 you 
+: 655 4 2 will 
+: 660 4 2 be 
+: 665 5 0 mine 
+- 675
+: 677 14 -2 You 
+F 693 4 0 oh
+F 698 4 -2 ~
+F 703 1 0 ~
+F 705 2 2 ~ 
+- 707
+: 709 3 1 I 
+: 713 5 2 need 
+: 719 15 0 you, 
+: 736 2 -2 (baby
+: 739 1 0 ~ 
+: 741 2 2 be 
+: 744 5 3 mine)
+: 750 5 2 ~ 
+- 755
+: 757 9 2 Baby, 
+* 767 9 2 baby 
+: 777 3 2 won’t 
+: 781 4 2 you 
+: 786 5 2 be 
+: 792 16 0 mine? 
+- 815
+: 818 4 0 (Ba
+: 823 4 2 by 
+* 830 10 0 please) 
+- 845
+: 847 13 -2 You 
+: 879 3 1 I 
+: 883 5 2 need 
+: 889 8 0 you 
+- 907
+: 927 8 2 Baby, 
+: 937 10 2 baby 
+: 948 4 2 let’s 
+: 953 4 2 spend 
+: 958 5 2 some 
+: 964 9 0 time 
+- 983
+: 996 3 2 I 
+: 1006 5 1 I 
+: 1012 6 2 want … 
+- 1036
+: 1071 2 2 I 
+: 1081 3 2 I 
+: 1092 4 1 I 
+: 1097 4 2 want … 
+- 1119
+: 1156 3 2 I 
+: 1166 3 1 I 
+: 1176 4 1 I 
+: 1182 6 2 want … 
+- 1206
+: 1241 3 2 I 
+: 1251 3 0 I 
+: 1262 4 0 I 
+: 1267 7 2 want … 
+- 1292
+: 1325 10 2 Baby 
+: 1336 10 2 baby 
+: 1347 4 1 I 
+: 1352 5 2 want … 
+- 1394
+: 1433 3 1 I 
+: 1437 5 2 want … 
+- 1460
+: 1496 3 2 I 
+: 1507 3 2 I 
+: 1517 3 1 I 
+: 1522 6 2 want … 
+- 1565
+: 1707 5 -7 So 
+: 1713 7 5 let’s 
+: 1722 3 3 not 
+: 1728 6 2 waste 
+: 1735 5 0 ti
+: 1741 4 2 ~me 
+- 1752
+: 1755 6 2 Life 
+: 1765 4 0 is 
+: 1770 3 -2 too 
+: 1775 7 -3 short, 
+: 1785 3 -10 for 
+: 1790 5 -10 if’s 
+: 1796 3 -2 and 
+: 1800 2 -3 may
+: 1803 2 -1 be
+: 1806 4 -5 ~’s 
+- 1817
+: 1820 4 5 I 
+: 1826 4 5 want 
+: 1831 4 3 you 
+: 1836 4 2 to 
+: 1841 4 0 tell 
+: 1847 4 2 me 
+: 1852 4 2 right 
+: 1858 8 -2 now 
+- 1875
+: 1879 3 -7 That 
+: 1883 6 5 you’re 
+: 1891 5 3 good 
+: 1897 5 2 to 
+: 1905 5 0 go
+: 1911 2 2 ~ 
+- 1922
+: 1926 7 2 And 
+: 1935 4 0 we 
+* 1941 5 -2 will 
+* 1948 5 -3 flow 
+: 1958 5 -3 to 
+: 1966 4 -10 the 
+: 1972 5 -3 swi
+: 1978 9 -5 ~ng 
+- 1989
+: 1991 5 5 And 
+: 1997 3 3 for
+: 2001 4 3 e
+: 2006 3 2 ver 
+: 2010 6 0 you 
+: 2017 4 2 will 
+: 2022 4 2 be 
+: 2027 5 0 mine 
+- 2037
+: 2039 17 0 You 
+: 2071 3 1 I 
+: 2075 5 2 need 
+: 2081 17 0 you 
+- 2108
+: 2119 9 2 Baby, 
+: 2129 9 2 baby 
+: 2139 3 2 won’t 
+: 2143 4 2 you 
+: 2148 5 2 be 
+* 2154 16 0 mine? 
+- 2180
+: 2198 4 1 I 
+: 2203 4 2 want 
+: 2208 20 -2 you, 
+: 2241 3 1 I 
+: 2245 4 2 need 
+: 2250 20 0 you 
+- 2280
+: 2289 8 2 Baby, 
+: 2299 10 2 baby 
+: 2310 4 2 let’s 
+* 2315 4 2 spend 
+* 2320 5 2 some 
+: 2326 9 0 time 
+- 2344
+: 2347 3 2 I 
+: 2358 3 1 I 
+: 2368 3 1 I 
+: 2372 6 2 want … 
+- 2415
+: 2453 3 1 I 
+: 2458 6 2 want … 
+- 2482
+: 2538 3 1 I 
+: 2543 6 2 want … 
+- 2586
+: 2625 3 1 I 
+: 2630 6 2 want … 
+- 2673
+F 2731 2 2 Girl 
+F 2734 2 1 you 
+F 2737 2 2 got 
+F 2740 2 1 it 
+F 2743 3 2 goin’ 
+F 2747 5 2 on 
+- 2762
+F 2773 2 0 To 
+F 2776 2 0 the 
+F 2779 7 0 break-a-break 
+F 2787 2 0 of 
+F 2790 6 0 dawn 
+- 2833
+F 2902 2 2 Girl 
+F 2905 2 1 you 
+F 2908 2 2 got 
+F 2911 2 1 it 
+F 2914 3 2 goin’ 
+F 2918 5 2 on 
+- 2933
+F 2944 2 0 To 
+F 2947 2 0 the 
+F 2950 7 0 break-a-break 
+F 2958 2 0 of 
+F 2961 6 0 dawn 
+- 3004
+F 3071 2 2 Girl 
+F 3074 2 1 you 
+F 3077 2 2 got 
+F 3080 2 1 it 
+F 3083 3 2 goin’ 
+F 3087 5 2 on 
+- 3102
+F 3113 2 0 To 
+F 3116 2 0 the 
+F 3119 7 0 break-a-break 
+F 3127 2 0 of 
+F 3130 6 0 dawn 
+- 3173
+F 3241 2 2 Girl 
+F 3244 2 1 you 
+F 3247 2 2 got 
+F 3250 2 1 it 
+F 3253 3 2 goin’ 
+F 3257 5 2 on 
+- 3272
+F 3283 2 0 To 
+F 3286 2 0 the 
+F 3289 7 0 break-a-break 
+F 3297 2 0 of 
+F 3300 6 0 dawn 
+- 3324
+F 3379 15 0 Blackstreet 
+E

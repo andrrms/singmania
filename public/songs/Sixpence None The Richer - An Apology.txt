@@ -1,0 +1,266 @@
+#ARTIST:Sixpence None The Richer
+#TITLE:An Apology
+#MP3:Sixpence None The Richer - An Apology.mp3
+#CREATOR:lava
+#YEAR:1994
+#LANGUAGE:English
+#BPM:299.2
+#GAP:27760
+#VIDEO:a=n_eCl8FZvCk,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/95/cd/4a/95cd4a49-8296-6349-a466-e5b085605175/img002.jpg/5000x5000bb.jpg,bg=sixpence-none-the-richer-516a1db446f6a.jpg
+: 0 8 2 Ques
+: 9 12 4 tions 
+: 22 17 7 flew 
+- 41
+: 57 7 0 And 
+: 65 7 2 words 
+: 73 5 0 were 
+: 79 7 2 hurled 
+: 87 7 0 in
+: 95 8 2 to 
+: 104 7 4 the 
+: 112 7 0 air 
+- 121
+: 122 2 0 And 
+: 125 2 2 when 
+: 128 3 0 the 
+: 132 13 2 smoke 
+: 146 11 4 had 
+: 159 11 0 cleared 
+- 172
+: 196 4 0 I 
+: 201 4 4 saw 
+: 206 6 4 you 
+: 213 8 4 ly
+: 222 8 4 ing 
+: 231 8 2 there 
+- 241
+: 264 4 0 I 
+: 269 4 2 used 
+: 274 6 2 my 
+: 281 8 2 words 
+: 290 9 2 like 
+: 300 3 2 bul
+: 304 2 2 lets 
+: 307 4 2 in 
+: 312 3 0 a 
+: 316 7 4 gun 
+- 324
+: 325 3 0 To 
+: 329 3 2 pick 
+: 333 4 0 your 
+: 338 2 2 e
+: 341 9 2 go 
+: 351 7 2 off 
+: 359 7 0 like 
+: 367 7 2 skeet 
+: 375 8 0 flung 
+- 384
+* 385 11 7 In 
+: 397 5 0 the 
+: 403 7 2 gal
+: 411 5 2 le
+: 417 9 2 ry 
+: 427 9 4 of 
+: 437 11 0 fools 
+- 450
+: 541 4 7 Too 
+: 546 3 7 ma
+: 550 3 7 ny 
+: 554 8 7 words 
+: 563 6 7 come 
+: 570 8 7 from 
+: 579 7 7 my 
+: 587 8 7 mouth 
+- 596
+: 596 8 7 I 
+: 605 9 7 wish 
+: 615 3 7 would 
+: 619 4 7 re
+: 624 6 7 main 
+: 631 7 7 un
+: 639 10 7 said 
+- 650
+: 651 4 0 And 
+: 656 7 4 oh 
+: 664 8 7 I’ve 
+: 673 7 7 had 
+: 681 9 7 to 
+: 691 8 7 eat 
+: 700 7 7 them 
+: 708 12 7 all 
+- 721
+: 721 5 7 And 
+: 727 8 7 now 
+: 736 5 7 a
+: 742 7 7 gain 
+: 750 7 7 I 
+* 758 8 12 must 
+* 767 4 11 con
+* 772 13 7 fess 
+- 787
+: 802 2 4 It 
+: 805 4 4 was 
+: 810 4 7 a 
+: 815 4 7 sil
+: 820 7 4 ly 
+: 828 8 4 thing 
+: 837 6 0 to 
+: 844 7 2 say 
+: 852 7 4 to 
+: 860 8 4 you 
+- 869
+: 869 3 7 It 
+: 873 4 7 was 
+: 878 3 7 a 
+: 882 3 7 sil
+: 886 7 4 ly 
+: 894 10 4 thing 
+: 905 7 0 to 
+: 913 7 2 say 
+: 921 7 4 to 
+: 929 8 4 you 
+: 938 5 4 I 
+: 944 5 0 ~ 
+: 950 11 0 know 
+- 963
+: 1074 2 7 It 
+: 1077 4 7 was 
+: 1082 3 7 a 
+: 1086 4 7 sil
+: 1091 8 4 ly 
+: 1100 8 4 thing 
+: 1109 6 0 to 
+: 1116 7 2 say 
+: 1124 7 4 to 
+: 1132 8 4 you 
+- 1141
+: 1141 3 7 It 
+: 1145 4 7 was 
+: 1150 3 7 a 
+: 1154 4 7 sil
+: 1159 6 4 ly 
+: 1166 8 4 thing 
+: 1175 5 0 to 
+: 1181 8 2 say 
+: 1190 7 4 to 
+: 1198 12 4 you 
+: 1211 4 4 I 
+: 1216 6 0 ~ 
+: 1223 7 0 know 
+- 1232
+: 1358 12 2 Ques
+: 1371 12 4 tions 
+: 1384 13 7 flew 
+- 1399
+: 1417 8 0 And 
+: 1426 7 2 words 
+: 1434 5 0 were 
+: 1440 7 2 hurled 
+: 1448 7 0 in
+: 1456 8 2 to 
+: 1465 7 4 the 
+: 1473 7 0 air 
+- 1481
+: 1482 3 0 And 
+: 1486 4 2 when 
+: 1491 4 0 the 
+: 1496 12 2 smoke 
+: 1509 9 4 had 
+: 1520 10 0 cleared 
+- 1532
+: 1558 3 0 I 
+: 1562 5 4 saw 
+: 1568 7 4 you 
+: 1576 7 4 ly
+: 1584 7 4 ing 
+: 1592 9 2 there 
+- 1603
+: 1625 4 0 I 
+: 1630 4 2 used 
+: 1635 6 2 my 
+: 1642 9 2 words 
+: 1652 6 2 like 
+: 1659 4 2 bul
+: 1664 4 2 lets 
+: 1669 3 2 in 
+: 1673 3 0 a 
+: 1677 7 4 gun 
+- 1685
+: 1686 3 0 To 
+: 1690 3 2 pick 
+: 1694 3 0 your 
+: 1698 3 2 e
+: 1702 10 2 go 
+: 1713 7 2 off 
+: 1721 5 0 like 
+: 1727 9 2 skeet 
+: 1737 7 0 flung 
+- 1745
+* 1746 11 7 In 
+: 1758 5 0 the 
+: 1764 11 2 gal
+: 1776 3 2 le
+: 1780 7 2 ry 
+: 1788 9 4 of 
+: 1798 11 0 fools 
+- 1811
+: 1903 3 7 Too 
+: 1907 5 7 ma
+: 1913 3 7 ny 
+: 1917 7 7 words 
+: 1925 6 7 come 
+: 1932 8 7 from 
+: 1941 7 7 my 
+: 1949 7 7 mouth 
+- 1957
+: 1958 8 7 I 
+: 1967 9 7 wish 
+: 1977 3 7 would 
+: 1981 2 7 re
+: 1984 7 7 main 
+: 1992 6 7 un
+: 1999 12 7 said 
+- 2012
+: 2012 5 0 And 
+: 2018 6 4 oh 
+: 2025 9 7 I’ve 
+: 2035 7 7 had 
+: 2043 9 7 to 
+: 2053 8 7 eat 
+: 2062 7 7 them 
+: 2070 12 7 all 
+- 2083
+: 2083 3 7 And 
+: 2087 9 7 now 
+: 2097 6 7 a
+: 2104 7 7 gain 
+: 2112 7 7 I 
+* 2120 6 12 must 
+* 2127 6 11 con
+* 2134 13 7 fess 
+- 2149
+: 2163 3 4 It 
+: 2167 3 4 was 
+: 2171 3 7 a 
+: 2175 4 7 sil
+: 2180 7 4 ly 
+: 2188 7 4 thing 
+: 2196 6 0 to 
+: 2203 9 2 say 
+: 2213 7 4 to 
+: 2221 8 4 you 
+- 2230
+: 2231 3 7 It 
+: 2235 3 7 was 
+: 2239 3 7 a 
+: 2243 3 7 sil
+: 2247 9 4 ly 
+: 2257 7 4 thing 
+: 2265 7 0 to 
+: 2273 7 2 say 
+: 2281 9 4 to 
+: 2291 8 4 you 
+: 2300 5 4 I 
+: 2306 4 0 ~ 
+: 2311 11 0 know 
+E

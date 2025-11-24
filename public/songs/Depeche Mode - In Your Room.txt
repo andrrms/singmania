@@ -1,0 +1,359 @@
+#ARTIST:Depeche Mode
+#TITLE:In Your Room
+#MP3:Depeche Mode - In Your Room.mp3
+#CREATOR:holocaust73
+#GENRE:Rock
+#YEAR:1993
+#LANGUAGE:English
+#BPM:240
+#GAP:38200
+#VIDEO:v=cGvZyrhObrg,co=https://cdn.albumoftheyear.org/album/228398-in-your-room.jpg,bg=depeche-mode-5fb522e740915.jpg
+: 0 13 9 In 
+: 14 7 8 yo
+: 22 7 6 ur 
+: 30 28 8 room 
+- 60
+: 72 3 9 Where
+: 76 13 9 time 
+: 90 7 8 sta
+: 98 5 6 nds 
+: 104 26 8 still 
+- 132
+: 150 5 8 Or 
+: 156 21 11 moves 
+: 178 5 4 at 
+: 184 8 4 your 
+: 194 30 4 will 
+- 226
+: 248 1 8 Will
+: 250 1 8 you 
+: 252 3 8 let 
+: 256 3 8 the 
+: 260 7 9 mor 
+: 268 5 9 ning 
+: 274 11 8 come 
+: 286 30 6 soon- 
+- 318
+: 364 1 6 Or
+: 366 1 6 will 
+: 368 1 6 you 
+: 370 5 6 leave 
+: 376 3 6 me 
+: 380 15 4 lying 
+: 396 24 4 here 
+- 422
+: 442 1 8 In
+: 444 3 8 your 
+: 448 9 8 fovou 
+: 458 5 8 rite 
+: 464 11 8 dark 
+: 476 32 4 ness 
+- 510
+: 522 5 8 Your 
+: 528 5 8 favou 
+: 534 6 8 rite 
+: 542 9 8 half 
+: 552 20 0 light 
+- 574
+: 600 4 4 Your 
+: 606 7 6 fovou 
+: 614 6 4 rite 
+: 622 7 3 con 
+: 630 5 4 cious 
+: 636 26 6 ness 
+- 664
+: 678 4 6 Your 
+: 684 7 6 fa 
+: 692 1 4 vou 
+: 694 3 3 rite 
+* 698 60 6 slave 
+- 760
+: 1056 10 9 In 
+: 1068 5 8 yo 
+: 1074 6 6 ur 
+: 1082 36 8 room 
+- 1120
+: 1128 3 8 Where 
+: 1132 15 9 souls 
+: 1148 5 8 dis 
+: 1154 5 6 ap 
+: 1160 32 8 pear 
+- 1194
+: 1202 3 8 On 
+: 1206 3 8 ly 
+: 1210 17 11 you 
+: 1228 5 4 ex 
+: 1234 6 4 ist 
+: 1242 26 4 here 
+- 1270
+: 1304 1 8 Will
+: 1306 3 8 you 
+: 1310 5 8 lead 
+: 1316 1 8 me 
+: 1318 5 8 to 
+: 1324 5 9 your 
+: 1330 5 8 arm 
+: 1336 28 6 chair 
+- 1366
+: 1422 3 4 Or 
+: 1426 7 6 leave 
+: 1434 3 6 me 
+: 1438 5 6 ly 
+: 1444 7 4 ing 
+: 1452 22 4 here 
+- 1476
+: 1500 5 8 Your 
+: 1506 9 8 favou
+: 1516 3 8 rite 
+* 1520 3 8 in 
+* 1524 3 6 no 
+* 1528 24 4 cence 
+- 1554
+: 1578 3 8 Your 
+: 1582 9 8 favou 
+: 1592 5 8 rite 
+: 1598 20 0 prize 
+- 1620
+: 1658 3 4 Your 
+: 1662 7 6 favou 
+: 1670 5 4 rite 
+: 1676 22 3 smile 
+- 1700
+: 1736 3 4 Your 
+: 1740 9 6 favou 
+: 1750 3 3 rite 
+: 1754 52 6 slave 
+- 1808
+: 1834 3 1 I’m 
+: 1838 5 6 hang
+: 1844 1 6 ing 
+: 1846 3 6 on 
+: 1850 3 6 your 
+: 1854 14 4 words 
+- 1870
+: 1874 3 1 I’m 
+: 1878 3 6 liv 
+: 1882 3 6 ing 
+: 1886 3 6 on 
+: 1890 3 6 your 
+: 1894 18 4 breath 
+- 1914
+: 1916 3 6 Fee 
+: 1920 1 6 ling 
+: 1922 3 6 with 
+: 1926 3 6 your 
+: 1930 14 4 skin 
+- 1946
+: 1954 3 8 Will
+: 1958 3 8 i 
+: 1962 3 8 al
+: 1966 13 8 ways 
+: 1980 5 4 be
+* 1986 9 4 here 
+- 1996
+: 1996 3 6 Hang 
+: 2000 3 6 ing 
+: 2004 3 6 on
+: 2008 1 6 your 
+: 2010 14 4 words 
+- 2026
+: 2034 5 6 Liv 
+: 2040 3 6 ing 
+: 2044 1 6 on 
+: 2046 3 6 your 
+: 2050 12 4 breath 
+- 2064
+: 2072 3 6 Feel 
+: 2076 5 6 ing 
+: 2082 3 6 with 
+: 2086 1 6 your 
+: 2088 16 4 skin 
+- 2106
+: 2112 3 8 Will
+: 2116 3 8 i 
+: 2120 3 8 al
+: 2124 13 8 ways 
+: 2138 5 4 be
+: 2144 6 4 here 
+- 2151
+: 2152 3 6 Hang 
+: 2156 3 6 ing 
+: 2160 3 6 on 
+: 2164 1 6 your 
+: 2166 16 4 words 
+- 2184
+: 2192 3 6 Liv 
+: 2196 3 6 ing 
+: 2200 3 6 on 
+: 2204 1 6 your 
+: 2206 14 4 breath 
+- 2222
+: 2228 5 6 Feel 
+: 2234 3 6 ing 
+: 2238 3 6 with 
+: 2242 3 6 your 
+: 2246 14 4 skin 
+- 2262
+: 2268 3 8 Will
+: 2272 3 8 i 
+: 2276 3 8 al
+: 2280 15 8 ways 
+: 2296 7 4 be
+: 2304 20 4 here 
+- 2326
+: 2898 11 9 In 
+: 2910 5 8 yo 
+: 2916 5 6 ur 
+* 2922 34 8 room 
+- 2958
+: 2972 17 9 Your 
+: 2990 5 8 bur 
+: 2996 5 6 ning 
+: 3002 30 8 eyes 
+- 3034
+: 3042 9 8 Cause 
+: 3052 25 11 flames 
+: 3078 3 4 to 
+: 3082 5 4 a 
+: 3088 24 4 rise 
+- 3114
+: 3146 3 8 Will
+: 3150 1 8 you 
+: 3152 3 8 let 
+: 3156 3 8 the 
+: 3160 5 8 fire 
+: 3166 5 9 die 
+: 3172 11 8 down 
+: 3184 28 6 soon 
+- 3214
+: 3262 3 4 Or 
+: 3266 3 6 will 
+: 3270 3 6 i 
+: 3274 5 6 al 
+: 3280 13 4 ways 
+: 3294 3 4 be
+: 3298 18 4 here 
+- 3318
+: 3342 3 8 Your
+: 3346 9 8 favou 
+: 3356 5 8 rite 
+* 3362 11 8 pass 
+* 3374 20 4 ion 
+- 3396
+: 3420 3 8 Your 
+: 3424 9 8 favou 
+: 3434 5 8 rite 
+: 3440 20 0 game 
+- 3462
+: 3498 3 4 Your 
+: 3502 11 6 favou 
+: 3514 5 6 rite 
+: 3520 5 4 mir
+: 3526 18 6 ror 
+- 3546
+: 3576 3 4 Your 
+: 3580 11 6 favou 
+: 3592 3 3 rite 
+: 3596 50 6 slave 
+- 3648
+: 3676 3 6 I’m 
+: 3680 3 6 hang
+: 3684 3 6 ing 
+: 3688 3 6 on
+: 3692 1 6 your 
+: 3694 14 4 words 
+- 3710
+: 3718 5 6 Liv 
+: 3724 3 6 ing 
+: 3728 3 6 on 
+: 3732 1 6 your 
+: 3734 14 4 breath 
+- 3750
+: 3758 3 6 Feel 
+: 3762 3 6 ing 
+: 3766 3 6 with 
+: 3770 3 6 your 
+: 3774 14 4 skin 
+- 3790
+: 3796 3 8 Will
+: 3800 3 8 i 
+: 3804 3 8 al
+: 3808 11 8 ways 
+: 3820 5 4 be
+: 3826 9 4 here 
+- 3836
+: 3836 3 6 Hang 
+* 3840 3 6 ing 
+: 3844 5 6 on 
+: 3850 1 6 your 
+: 3852 14 4 words 
+- 3868
+: 3874 5 1 Liv 
+: 3880 3 6 ing 
+: 3884 3 6 on 
+: 3888 3 6 your 
+: 3892 14 4 breath 
+- 3908
+: 3914 5 6 Feel 
+: 3920 3 6 ing 
+: 3924 3 6 with 
+: 3928 1 6 your 
+: 3930 16 4 skin 
+- 3948
+: 3952 1 8 Will
+: 3954 3 8 i 
+: 3958 5 8 al
+: 3964 13 8 ways 
+: 3978 3 4 be
+: 3982 11 4 here 
+- 3994
+: 3994 3 6 Hang 
+: 3998 3 6 ing 
+: 4002 3 6 on 
+: 4006 1 6 your 
+: 4008 16 4 words 
+- 4026
+: 4032 5 1 Liv 
+: 4038 3 6 ing 
+: 4042 3 6 on 
+: 4046 3 6 your 
+: 4050 14 4 breath 
+- 4066
+: 4070 5 6 Feel 
+: 4076 3 6 ing 
+: 4080 3 6 with 
+: 4084 3 6 your 
+: 4088 18 4 skin 
+- 4107
+: 4108 3 8 Will
+: 4112 3 8 i 
+: 4116 3 8 al
+: 4120 13 8 ways 
+: 4134 3 4 be
+: 4138 11 4 here 
+- 4150
+: 4150 3 6 Hang 
+: 4154 3 6 ing 
+: 4158 3 6 on 
+: 4162 1 6 your 
+: 4164 14 4 words 
+- 4180
+: 4188 5 6 Liv 
+: 4194 3 6 ing 
+: 4198 3 6 on 
+: 4202 5 6 your 
+: 4208 14 4 breath 
+- 4224
+: 4226 5 6 Feel 
+: 4232 3 6 ing 
+: 4236 3 6 with 
+: 4240 3 6 your 
+: 4244 16 4 skin 
+- 4262
+: 4264 3 8 Will 
+: 4268 3 8 i 
+: 4272 5 4 al 
+: 4278 15 4 ways
+: 4294 5 4 be 
+: 4300 24 4 here 
+E

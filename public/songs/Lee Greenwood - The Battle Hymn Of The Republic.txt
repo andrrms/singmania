@@ -1,0 +1,156 @@
+#ARTIST:Lee Greenwood
+#TITLE:The Battle Hymn Of The Republic
+#MP3:Lee Greenwood - The Battle Hymn Of The Republic.mp3
+#CREATOR:jockel1974
+#YEAR:1992
+#LANGUAGE:English
+#BPM:296
+#GAP:12500
+#VIDEO:a=N9XCBNhw9JE,co=https://m.media-amazon.com/images/I/41JM82JG7PL.jpg,bg=greenwood-lee-51ffed6a676f2.jpg
+: 0 15 5 Mine 
+: 16 11 5 eyes 
+: 28 3 5 have 
+: 32 11 5 seen 
+: 44 3 5 the 
+: 48 7 2 glo
+: 56 8 5 ry 
+- 66
+: 68 7 10 Of 
+: 76 3 12 the 
+: 80 7 14 co
+: 88 7 14 ming 
+: 96 11 14 of 
+: 108 3 12 the 
+: 112 12 10 Lord. 
+- 126
+: 132 7 10 He 
+: 140 3 9 is
+: 144 7 7 tramp
+: 152 3 7 ling 
+: 156 15 7 out 
+: 172 3 9 the 
+: 176 7 10 vint
+: 184 7 9 age 
+- 192
+: 192 11 10 Where 
+: 204 3 7 the 
+: 208 7 5 grapes 
+: 216 3 7 of 
+: 220 7 5 wrath 
+: 228 3 2 are 
+: 232 19 5 stored. 
+- 252
+: 252 11 5 He 
+: 264 7 5 hath 
+: 272 7 5 loos’d 
+: 280 3 5 the 
+: 284 11 5 fate
+: 296 7 3 ful 
+: 304 7 2 light
+: 312 7 5 ning 
+- 320
+: 320 7 10 Of 
+: 328 3 12 His 
+: 332 7 14 ter
+: 340 3 14 ri
+: 344 11 14 ble 
+: 356 7 12 swift 
+: 364 12 10 sword. 
+- 378
+: 384 11 10 His 
+: 396 15 12 truth 
+: 412 15 12 is 
+: 428 15 10 mar
+: 444 15 9 ching 
+: 460 36 10 on. 
+- 498
+: 572 15 5 I’ve  
+: 588 11 5 seen 
+: 600 3 5 Him 
+: 604 11 5 in 
+: 616 3 5 the 
+: 620 7 2 watch
+: 628 8 5 fires 
+- 638
+: 640 7 10 Of 
+: 648 3 12 a 
+: 652 7 14 hun
+: 660 7 14 dred 
+: 668 3 14 cir
+: 672 11 12 cling 
+: 684 12 10 camps. 
+- 698
+: 700 7 10 They  
+: 708 7 9 have 
+: 716 7 7 build
+: 724 19 5 Him 
+: 744 7 5 in 
+: 752 3 10 al
+: 756 8 9 ter 
+- 766
+: 772 3 10 In 
+: 776 3 7 the 
+: 780 7 5 eve
+: 788 7 7 ning 
+: 796 7 5 dews 
+: 804 3 2 and 
+: 808 15 5 damps. 
+- 824
+: 824 11 5 I 
+: 836 3 9 have 
+: 840 7 5 read 
+: 848 7 5 His 
+: 856 7 5 right
+: 864 7 3 eous 
+: 872 3 2 sen
+: 876 8 5 tence 
+- 886
+: 888 15 10 By 
+: 904 3 12 the 
+: 908 7 14 dim 
+: 916 3 7 ning 
+: 920 11 14 flar
+: 932 7 2 and 
+: 940 12 10 lamps. 
+- 954
+: 956 15 10 His 
+: 972 15 12 day
+: 988 15 12 is 
+: 1004 7 10 march
+: 1012 19 9 ing 
+: 1032 48 10 on. 
+- 1082
+: 1096 27 5 Glo
+: 1124 3 3 ry 
+: 1128 11 2 glo
+: 1140 11 5 ry 
+: 1152 7 10 hal
+: 1160 3 12 le
+: 1164 31 14 lu
+: 1196 20 10 jah! 
+- 1218
+: 1228 23 7 Glo
+: 1252 7 9 ry 
+: 1260 7 10 glo
+: 1268 7 5 ry 
+: 1276 7 10 hal
+: 1284 7 12 le
+: 1292 31 14 lu
+: 1324 20 10 jah! 
+- 1346
+: 1348 31 5 Glo
+: 1380 7 9 ry 
+: 1388 7 10 glo
+: 1396 7 9 ry 
+: 1404 11 10 hal
+: 1416 3 7 le
+: 1420 31 5 lu
+: 1452 12 10 jah! 
+- 1466
+: 1468 15 10 His 
+: 1484 15 12 truth 
+: 1500 15 12 is 
+: 1516 15 10 march
+: 1532 15 9 ing 
+: 1548 52 10 on. 
+E

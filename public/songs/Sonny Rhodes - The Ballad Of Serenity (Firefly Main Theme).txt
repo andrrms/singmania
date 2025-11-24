@@ -1,0 +1,95 @@
+#ARTIST:Sonny Rhodes
+#TITLE:The Ballad Of Serenity (Firefly Main Theme)
+#MP3:Sonny Rhodes - The Ballad Of Serenity (Firefly Main Theme).mp3
+#CREATOR:REL
+#GENRE:Soundtrack
+#YEAR:2005
+#LANGUAGE:English
+#BPM:300
+#GAP:1500
+#VIDEO:v=o-sp68GjYL0,co=https://is1-ssl.mzstatic.com/image/thumb/Music/v4/76/53/4e/76534eac-ffd8-cc12-1eb0-3e727a5ddfd7/888608276986.jpg/5000x5000bb.jpg
+: 0 6 7 Take 
+: 8 6 7 my 
+: 16 10 7 love, 
+: 29 6 5 take 
+: 38 4 5 my 
+: 45 8 5 land 
+- 55
+: 57 5 5 Take 
+: 66 4 5 me 
+: 73 4 5 where 
+: 79 4 7 I 
+: 86 4 4 can
+: 92 5 4 not 
+: 99 16 2 stand 
+- 117
+: 129 3 3 I 
+: 134 4 3 don’t 
+: 141 10 3 care, 
+: 155 5 7 I’m 
+: 164 4 5 still 
+: 171 6 5 free 
+- 179
+: 185 3 5 You 
+: 190 5 5 can’t 
+: 198 7 5 take 
+: 207 2 7 the 
+: 211 6 4 sky 
+: 220 5 4 from 
+: 228 20 2 me. 
+- 250
+: 270 4 7 Take 
+: 276 3 7 me 
+: 281 8 7 out 
+: 298 4 5 to 
+: 305 3 5 the 
+: 310 7 5 black 
+- 319
+: 327 2 5 Tell 
+: 331 3 5 them 
+: 337 7 5 I 
+: 346 5 7 ain’t 
+: 354 3 4 com
+: 359 3 4 in’ 
+: 365 10 2 back 
+- 377
+: 395 5 3 Burn 
+: 403 3 3 the 
+: 408 7 3 land 
+* 417 4 -2 and 
+: 424 5 7 boil 
+: 431 2 5 the 
+: 435 10 5 sea 
+- 447
+: 452 3 5 You 
+: 457 7 5 can’t 
+: 466 6 5 take 
+: 474 2 7 the 
+: 478 6 4 sky 
+: 486 4 4 from 
+: 494 19 2 me. 
+- 515
+: 703 4 7 There’s 
+: 709 5 7 no 
+: 717 8 7 place 
+: 728 5 7 I 
+: 736 3 5 can 
+: 742 9 5 be 
+- 753
+: 758 5 5 Since 
+: 767 3 5 I’ve 
+: 774 6 5 found 
+* 784 2 7 Ser
+* 788 2 4 en
+* 793 3 4 i
+* 798 14 2 ty 
+- 814
+: 827 2 3 And 
+: 831 3 3 you 
+: 835 6 3 can’t 
+: 844 6 3 take 
+: 853 2 3 the 
+: 857 7 7 sky 
+: 865 6 5 from 
+: 874 19 5 me. 
+E

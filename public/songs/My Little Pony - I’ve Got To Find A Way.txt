@@ -1,0 +1,104 @@
+#ARTIST:My Little Pony
+#TITLE:I’ve Got To Find A Way
+#MP3:My Little Pony - I’ve Got To Find A Way.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2013
+#LANGUAGE:English
+#BPM:400
+#GAP:21560
+#VIDEO:v=lYaFjjYMEro,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+: 0 7 5 I 
+: 8 11 7 have 
+: 20 10 5 to 
+* 33 14 2 find 
+: 50 10 5 a 
+: 61 20 5 way 
+- 83
+: 107 5 5 To 
+: 115 8 7 make 
+: 127 11 5 this 
+* 139 12 2 all 
+: 154 4 0 o
+: 159 4 -2 -o
+: 167 21 -2 kay 
+- 190
+: 207 3 10 I 
+: 213 7 10 can’t 
+: 221 5 10 be
+: 227 8 9 lieve 
+: 237 6 5 this 
+: 245 14 2 small 
+: 262 4 5 mi
+: 267 5 7 -is
+: 275 28 5 take 
+- 305
+: 319 7 2 Could
+: 327 6 5 ’ve 
+: 334 7 5 caused 
+: 342 11 2 so 
+: 355 12 -2 much 
+* 369 5 0 he-
+* 375 5 -2 art
+: 381 17 -2 ache 
+- 400
+: 402 11 -2 Oh 
+: 416 83 5 why, 
+- 501
+: 507 7 -2 Oh 
+: 520 34 5 why
+* 555 4 3 -e
+* 560 5 2 -y
+* 566 6 3 -e
+: 573 17 2 -y 
+- 592
+: 624 22 5 Lo
+: 652 23 9 sing 
+* 676 21 10 pro
+: 698 5 7 -o
+: 705 12 7 mise 
+- 719
+: 726 6 5 I 
+: 734 11 15 don’t 
+: 746 6 14 kno
+: 753 6 10 -ow 
+: 760 10 10 what 
+* 773 12 14 to 
+: 786 37 12 do 
+- 825
+: 839 27 7 See
+: 867 25 10 king 
+* 895 18 12 ans
+: 918 14 9 wers 
+- 934
+: 938 6 14 I 
+: 945 15 15 fear 
+: 961 4 14 I
+: 966 3 12 -I 
+: 972 13 12 won’t 
+: 986 10 10 get 
+: 997 29 7 through 
+- 1028
+: 1039 5 3 To
+: 1045 5 5 -o 
+: 1051 56 5 you 
+- 1109
+: 1146 10 -2 Oh 
+: 1159 80 5 why, 
+- 1241
+: 1252 13 -2 Oh 
+: 1266 31 5 why
+* 1299 6 3 -e
+* 1306 6 2 -y
+* 1313 7 3 -e
+: 1321 34 2 -y 
+- 1357
+F 1421 6 0 Oh 
+F 1430 15 0 Spike, 
+- 1447
+F 1463 5 0 What 
+F 1469 3 0 have 
+F 1473 4 0 I 
+F 1478 10 0 done? 
+E

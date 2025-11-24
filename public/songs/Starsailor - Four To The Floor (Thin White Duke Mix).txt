@@ -1,0 +1,217 @@
+#ARTIST:Starsailor
+#TITLE:Four To The Floor (Thin White Duke Mix)
+#MP3:Starsailor - Four To The Floor (Thin White Duke Mix).mp3
+#CREATOR:justjack
+#GENRE:Dance
+#YEAR:2004
+#LANGUAGE:English
+#BPM:246
+#GAP:8270
+#VIDEO:a=ZBH-BjusSeY,co=https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/61/90/55/619055cb-f877-0689-7fcc-afd4ff4ac5db/dj.tkcehxxe.jpg/5000x5000bb.jpg,bg=starsailor-4f15e89e285ea.jpg
+: 0 4 1 Four 
+: 8 2 1 to 
+: 12 2 -1 the 
+: 16 6 1 floor 
+- 23
+: 24 2 1 I 
+: 28 2 -1 was 
+: 32 6 1 sure 
+- 40
+: 48 2 3 Ne
+: 52 2 4 ver 
+: 56 2 3 see
+: 60 2 4 ing 
+: 64 6 1 clear 
+- 72
+: 112 2 3 I 
+: 116 2 4 could 
+: 120 2 3 have 
+: 124 2 4 it 
+: 128 6 1 all 
+- 136
+: 172 2 4 If 
+: 176 2 3 on
+: 180 2 4 ly 
+: 184 2 3 you 
+: 188 2 4 were 
+: 192 6 1 here 
+- 200
+: 256 4 1 Four 
+: 264 2 1 to 
+: 268 2 -1 the 
+: 272 4 1 floor 
+- 278
+: 280 2 1 I 
+: 284 2 -1 was 
+: 288 6 1 sure 
+- 296
+: 304 2 3 Ne
+: 308 2 4 ver 
+: 312 2 3 see
+: 316 2 4 ing 
+: 320 6 1 clear 
+- 328
+: 368 2 3 I 
+: 372 2 4 could 
+: 376 2 3 have 
+: 380 2 4 it 
+: 384 6 1 all 
+- 392
+: 428 2 4 When
+: 432 2 3 e
+: 436 2 4 ver 
+: 440 2 3 you 
+: 444 2 4 are 
+: 448 6 1 near 
+- 456
+: 512 4 1 Four 
+: 520 2 1 to 
+: 524 2 -1 the 
+: 528 4 1 floor 
+- 534
+: 536 2 1 I 
+: 540 2 -1 was 
+: 544 6 1 sure 
+- 552
+: 556 2 -3 That 
+: 560 2 3 she 
+: 564 2 4 would 
+: 568 2 3 be 
+: 572 2 4 my 
+: 576 6 1 girl 
+- 584
+: 620 2 4 We’d 
+: 624 2 3 rent 
+: 628 2 4 a 
+: 632 2 3 lit
+: 636 2 4 tle 
+: 640 6 1 world 
+- 648
+: 688 2 4 Have 
+: 692 2 4 a 
+: 696 2 3 lit
+: 700 2 4 tle 
+: 704 6 1 girl 
+- 712
+: 768 28 4 Woah 
+: 800 28 3 oh 
+: 832 28 1 oh 
+- 862
+: 896 28 1 Woah 
+: 928 28 3 oh 
+: 960 28 4 oh 
+- 990
+: 1024 4 1 Four 
+: 1032 2 1 to 
+: 1036 2 -1 the 
+: 1040 4 1 floor 
+- 1046
+: 1048 2 1 I 
+: 1052 2 -1 was 
+: 1056 6 1 sure 
+- 1064
+: 1068 2 -3 That 
+: 1072 2 3 she 
+: 1076 2 4 would 
+: 1080 2 3 be 
+: 1084 2 4 my 
+: 1088 6 1 girl 
+- 1096
+: 1132 2 4 We’d 
+: 1136 2 3 rent 
+: 1140 2 4 a 
+: 1144 2 3 lit
+: 1148 2 4 tle 
+: 1152 6 1 world 
+- 1160
+: 1200 2 4 Have 
+: 1204 2 4 a 
+: 1208 2 3 lit
+: 1212 2 4 tle 
+: 1216 6 1 girl 
+- 1224
+: 1280 4 1 Four 
+: 1288 2 1 to 
+: 1292 2 -1 the 
+: 1296 4 1 floor 
+- 1302
+: 1304 2 1 I 
+: 1308 2 -1 was 
+: 1312 6 1 sure 
+- 1320
+: 1328 2 3 Ne
+: 1332 2 4 ver 
+: 1336 2 3 see
+: 1340 2 4 ing 
+: 1344 6 1 clear 
+- 1352
+: 1392 2 3 I 
+: 1396 2 4 could 
+: 1400 2 3 have 
+: 1404 2 4 it 
+: 1408 6 1 all 
+- 1416
+: 1452 2 4 If 
+: 1456 2 3 on
+: 1460 2 4 ly 
+: 1464 2 3 you 
+: 1468 2 4 were 
+: 1472 6 1 here 
+- 1480
+: 1792 4 1 Four 
+: 1800 2 1 to 
+: 1804 2 -1 the 
+: 1808 4 1 floor 
+- 1814
+: 1816 2 1 I 
+: 1820 2 -1 was 
+: 1824 6 1 sure 
+- 1832
+: 1836 2 -3 That 
+: 1840 2 3 she 
+: 1844 2 4 would 
+: 1848 2 3 be 
+: 1852 2 4 my 
+: 1856 6 1 girl 
+- 1864
+: 1900 2 4 We’d 
+: 1904 2 3 rent 
+: 1908 2 4 a 
+: 1912 2 3 lit
+: 1916 2 4 tle 
+: 1920 6 1 world 
+- 1928
+: 1968 2 4 Have 
+: 1972 2 4 a 
+: 1976 2 3 lit
+: 1980 2 4 tle 
+: 1984 6 1 girl 
+- 1992
+: 2048 4 1 Four 
+: 2056 2 1 to 
+: 2060 2 -1 the 
+: 2064 4 1 floor 
+- 2070
+: 2072 2 1 I 
+: 2076 2 -1 was 
+: 2080 6 1 sure 
+- 2088
+: 2096 2 3 Ne
+: 2100 2 4 ver 
+: 2104 2 3 see
+: 2108 2 4 ing 
+: 2112 6 1 clear 
+- 2120
+: 2160 2 3 I 
+: 2164 2 4 could 
+: 2168 2 3 have 
+: 2172 2 4 it 
+: 2176 6 1 all 
+- 2184
+: 2220 2 4 When
+: 2224 2 3 e
+: 2228 2 4 ver 
+: 2232 2 3 you 
+: 2236 2 4 are 
+: 2240 6 1 near 
+E

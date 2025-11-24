@@ -1,0 +1,297 @@
+#ARTIST:Black Rebel Motorcycle Club
+#TITLE:Stop
+#MP3:Black Rebel Motorcycle Club - Stop.mp3
+#CREATOR:Unknown
+#COVER:Black Rebel Motorcycle Club - Stop [CO].jpg
+#BACKGROUND:Black Rebel Motorcycle Club - Stop [BG].jpg
+#YEAR:2003
+#LANGUAGE:English
+#BPM:244
+#GAP:34000
+#VIDEO:v=BiPLOmTp6IA,co=stop-5253645be87f9.jpg,bg=black-rebel-motorcycle-club-546a568552bb1.jpg
+: 0 4 7 We 
+: 6 4 9 don’t 
+: 12 6 9 like 
+: 20 6 9 you, 
+: 28 2 7 we 
+: 32 4 7 just 
+: 36 4 9 wan
+: 40 2 9 na 
+: 46 6 9 try 
+: 52 8 9 you 
+- 90
+: 122 4 7 I’m 
+: 128 2 9 ti 
+: 132 2 9 red 
+: 134 4 7 of 
+: 140 6 9 run
+: 146 6 9 nin’, 
+: 156 2 7 the 
+: 160 2 9 fee
+: 162 4 9 ling 
+: 166 4 7 ain’t 
+: 172 6 9 co
+: 178 12 7 min’ 
+- 218
+: 248 4 7 This 
+: 252 4 9 all 
+: 258 2 9 could 
+: 260 2 7 be 
+: 264 6 9 sim
+: 272 4 9 pler, 
+: 280 2 7 it 
+: 284 4 9 all 
+: 290 2 9 could 
+: 292 2 7 be 
+: 296 6 9 sim
+: 304 8 7 pler 
+- 342
+: 374 2 7 But 
+: 378 4 9 all 
+: 382 4 9 this 
+: 386 2 7 is 
+: 390 4 9 sick
+: 398 6 9 ness, 
+: 406 2 7 the 
+: 410 4 9 fee
+: 414 4 9 ling 
+: 418 4 7 ain’t 
+: 422 6 9 in 
+: 430 12 7 this 
+- 470
+: 500 2 7 Cause 
+: 504 4 9 we 
+: 510 6 9 don’t 
+: 518 6 9 know 
+: 526 4 9 where 
+: 532 4 7 to 
+: 540 20 9 stop 
+- 564
+: 568 2 9 We 
+: 574 6 9 don’t 
+: 582 4 9 know 
+: 588 4 9 where 
+: 594 4 7 to 
+: 602 18 9 stop 
+- 622
+: 624 4 7 I 
+: 630 6 9 try 
+: 638 2 9 and 
+: 642 2 7 I 
+: 646 6 9 try, 
+: 654 2 9 but 
+: 658 2 7 I 
+: 660 4 9 can’t 
+: 664 2 9 get 
+: 668 4 7 e
+: 672 16 9 nough 
+- 690
+: 692 4 7 I 
+: 698 4 9 won’t 
+: 704 6 12 fail 
+: 714 6 12 you, 
+: 722 2 7 but 
+: 724 4 9 you 
+: 730 4 9 won’t 
+: 736 4 12 bleed 
+: 742 4 9 for 
+: 748 8 12 me 
+- 816
+: 878 4 7 Have 
+: 884 2 9 I 
+: 886 4 9 been 
+: 894 6 9 sin
+: 902 6 9 ful, 
+: 910 4 7 have 
+: 916 2 9 I 
+: 920 2 9 been 
+: 924 6 9 sinf
+: 932 12 7 ul 
+- 972
+: 1002 2 7 It’s 
+: 1006 4 9 all 
+: 1010 4 9 been 
+: 1016 2 7 for 
+: 1020 4 9 no
+: 1026 6 9 thin’, 
+: 1034 4 7 you’re 
+: 1040 2 9 good 
+: 1042 4 9 ain’t 
+: 1046 4 7 for 
+: 1052 4 9 no
+: 1058 12 7 thin’ 
+- 1098
+: 1128 4 7 It’s 
+: 1134 6 9 hard 
+: 1140 4 9 not 
+: 1146 2 7 to 
+: 1150 4 9 die 
+: 1156 4 9 when 
+: 1160 2 7 your 
+: 1164 4 9 time 
+: 1168 4 9 has 
+: 1172 4 7 been 
+: 1178 6 9 killed 
+: 1186 10 12 off 
+- 1224
+: 1254 4 7 But 
+: 1258 4 9 I 
+: 1264 2 9 have 
+: 1266 4 7 been 
+: 1272 6 9 grate
+: 1280 6 9 ful 
+: 1286 4 7 you 
+: 1290 4 9 know 
+: 1294 4 9 this 
+: 1300 2 7 could 
+: 1304 4 9 take 
+: 1312 10 7 hold 
+- 1352
+: 1382 2 7 Cause 
+: 1384 4 9 we 
+: 1390 4 9 don’t 
+: 1396 6 9 know 
+: 1404 6 9 where 
+: 1412 4 7 to 
+: 1418 22 9 stop 
+- 1444
+: 1448 4 9 We 
+: 1454 4 9 don’t 
+: 1460 6 9 know 
+: 1468 4 9 where 
+: 1476 4 7 to 
+: 1482 22 9 stop 
+- 1504
+: 1506 2 7 I 
+: 1512 4 9 try 
+: 1518 4 9 and 
+: 1522 2 7 I 
+: 1528 6 9 try, 
+: 1536 2 9 but 
+: 1538 4 7 I 
+: 1542 4 9 can’t 
+: 1546 4 9 get 
+: 1552 2 7 e
+: 1554 16 9 nough 
+- 1570
+: 1572 4 7 I 
+: 1578 4 9 won’t 
+: 1586 6 12 fail 
+: 1594 6 12 you, 
+: 1604 2 7 but 
+: 1606 4 9 you 
+: 1612 4 9 won’t 
+: 1618 6 12 bleed 
+: 1624 4 9 for 
+: 1628 4 12 me 
+- 1760
+: 1888 26 16 Try 
+: 1916 4 14 keep 
+: 1922 6 14 your 
+: 1932 6 12 head 
+: 1940 8 16 up 
+: 1948 2 16 hi
+: 1950 26 10 ~
+: 1976 34 9 gh 
+- 2012
+: 2014 26 16 Time 
+: 2042 4 14 burns 
+: 2050 4 14 so 
+: 2058 6 12 deep 
+: 2066 6 12 in
+: 2072 16 14 side 
+: 2092 12 9 you 
+- 2104
+: 2106 4 9 Rips 
+: 2112 6 9 your 
+: 2120 4 12 throat 
+: 2126 18 12 out 
+- 2204
+: 2264 4 7 We 
+: 2270 6 9 don’t 
+: 2278 6 9 like 
+: 2286 6 9 you, 
+: 2292 4 7 we 
+: 2296 4 7 just 
+: 2302 2 9 wan
+: 2304 2 9 na 
+: 2310 6 9 try 
+: 2316 8 9 you 
+- 2354
+: 2386 2 7 I’m 
+: 2392 2 9 ti
+: 2394 4 9 red 
+: 2398 4 7 of 
+: 2404 6 9 run
+: 2410 6 9 nin’, 
+: 2418 2 7 the 
+: 2422 4 9 fee
+: 2426 4 9 ling 
+: 2430 4 7 ain’t 
+: 2436 6 9 co
+: 2442 12 7 min’ 
+- 2482
+: 2512 2 7 It 
+: 2516 4 9 all 
+: 2520 4 9 could 
+: 2524 4 9 be 
+: 2530 4 9 dif
+: 2536 8 9 ferent, 
+: 2546 2 7 it 
+: 2548 4 9 all 
+: 2554 2 9 could 
+: 2556 4 9 be 
+: 2562 4 9 dif
+: 2568 12 7 ferent 
+- 2608
+: 2638 2 7 But 
+: 2642 4 9 all 
+: 2646 2 9 this 
+: 2650 2 9 is 
+: 2656 4 9 sick
+: 2662 8 9 ness, 
+: 2670 4 7 the 
+: 2674 4 9 fee
+: 2678 4 9 ling 
+: 2682 4 9 ain’t 
+: 2688 6 9 in 
+: 2696 10 7 this 
+- 2736
+: 2766 2 7 Cause 
+: 2768 4 9 we 
+: 2774 4 9 don’t 
+: 2780 6 9 know 
+: 2788 6 9 where 
+: 2796 4 7 sto
+: 2804 20 9 p 
+- 2828
+: 2832 4 9 We 
+: 2838 4 9 don’t 
+: 2844 6 9 know 
+: 2852 6 9 where 
+: 2860 4 7 to 
+: 2868 20 9 stop 
+- 2888
+: 2890 4 7 I 
+: 2896 6 9 try 
+: 2902 4 9 and 
+: 2906 2 7 I 
+: 2912 6 9 try, 
+: 2918 4 9 but 
+: 2922 2 7 I 
+: 2926 4 9 can’t 
+: 2930 2 9 get 
+: 2934 4 7 e
+: 2938 16 9 nough 
+- 2956
+: 2956 4 7 I 
+: 2960 6 9 won’t 
+: 2970 6 12 fail 
+: 2978 6 12 you, 
+: 2988 2 7 but 
+: 2990 2 9 you 
+: 2994 6 9 won’t 
+: 3002 6 12 bleed 
+: 3010 4 9 for 
+: 3016 14 12 me 
+E

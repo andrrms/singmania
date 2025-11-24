@@ -1,0 +1,106 @@
+#ARTIST:The Big Bang Theory (Barenaked Ladies)
+#TITLE:Theme (History Of Everything)
+#MP3:The Big Bang Theory (Barenaked Ladies) - Theme (History Of Everything).mp3
+#CREATOR:fjmonter
+#COVER:The Big Bang Theory (Barenaked Ladies) - Theme (History Of Everything) [CO].jpg
+#BACKGROUND:The Big Bang Theory (Barenaked Ladies) - Theme (History Of Everything) [BG].jpg
+#YEAR:2007
+#LANGUAGE:English
+#BPM:323.15
+#GAP:220
+#VIDEO:v=6CawmYcysAQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/16/4f/9c/164f9c46-270e-fa3a-87e2-c445d578616b/794043204791.jpg/5000x5000bb.jpg,bg=the-big-bang-theory-5149014d7df46.jpg
+: 0 7 7 Our 
+: 10 8 16 whole 
+: 20 3 16 u
+: 25 3 14 ni
+: 30 3 14 verse 
+- 34
+: 35 3 11 Was 
+: 40 3 11 in 
+: 44 3 9 a 
+: 49 5 11 hot 
+: 58 5 14 dense 
+: 68 4 7 state 
+- 73
+: 73 3 7 Then, 
+: 78 3 7 near
+: 83 2 2 ly 
+: 88 4 4 four
+: 94 3 7 teen 
+: 99 3 7 bi
+: 104 3 9 llion 
+: 109 3 11 years 
+: 114 3 9 a
+: 119 3 7 go 
+- 123
+: 123 2 9 Ex
+: 128 3 11 pan
+: 133 3 11 sion 
+: 138 3 14 star
+: 143 3 7 ted, 
+: 148 4 7 wait 
+- 154
+: 158 3 2 The 
+: 163 2 4 Earth 
+: 167 2 7 be
+: 171 2 7 gan 
+: 175 2 9 to 
+: 179 2 11 cool 
+- 183
+: 184 1 9 The 
+: 186 1 7 au
+: 188 2 9 to
+* 192 4 11 trophs 
+: 199 2 11 be
+: 203 2 9 gan 
+: 207 2 9 to 
+: 211 4 7 drool 
+- 216
+: 216 2 7 Ne
+: 220 2 7 an
+: 224 2 2 der
+: 228 2 4 thals 
+: 232 2 7 de
+: 236 2 7 ve
+: 240 2 9 loped 
+: 244 2 11 tools, 
+: 248 2 9 we 
+: 252 2 7 built 
+: 256 2 9 a 
+: 260 2 11 wall 
+- 263
+: 264 2 14 We 
+: 268 2 11 built 
+: 272 2 14 the 
+: 276 3 16 py
+: 280 2 14 ra
+: 284 2 11 mids 
+- 288
+: 292 5 4 Math, 
+: 300 2 7 sci
+: 304 2 9 ence, 
+: 308 2 11 his
+: 312 2 9 to
+: 316 2 7 ry, 
+- 319
+: 320 2 7 Un
+: 324 3 11 ra
+: 328 2 14 ve
+: 332 2 14 lling 
+: 336 2 14 the 
+: 340 2 16 mys
+: 344 2 14 te
+: 348 2 14 ries 
+- 351
+: 352 2 9 That 
+: 356 5 4 all 
+: 364 3 7 star
+: 368 2 9 ted 
+: 372 2 11 with 
+: 376 2 9 The 
+: 380 2 7 Big
+: 383 3 9 ~ 
+* 388 6 7 Bang 
+- 395
+: 396 11 19 Bang 
+E

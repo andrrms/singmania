@@ -1,0 +1,212 @@
+#ARTIST:Frank Sinatra
+#TITLE:Witchcraft
+#MP3:Frank Sinatra - Witchcraft.mp3
+#CREATOR:dude76
+#GENRE:Easy Listening
+#YEAR:1957
+#LANGUAGE:English
+#BPM:235
+#GAP:9210
+#VIDEO:a=_RCtDnfYPGo,co=https://m.media-amazon.com/images/I/71ITVLEUFiL.jpg,bg=frank-sinatra-4de018d4c92ad.jpg
+: 0 7 -10 Those 
+: 8 8 -10 fin
+: 17 7 -8 gers 
+: 25 6 -8 in 
+: 32 4 -7 my 
+: 37 17 -7 hair 
+- 60
+: 62 3 -10 That 
+: 66 24 -10 sly 
+: 91 5 -8 come 
+: 97 2 -8 hi
+: 100 1 -7 ther 
+: 102 22 -7 stare 
+- 126
+: 128 4 -10 That 
+: 133 11 -10 strips 
+: 145 6 -8 my 
+: 152 5 -8 con
+: 158 8 -7 science 
+: 167 14 -7 bare 
+- 181
+: 182 6 -7 It’s 
+: 189 7 -7 witch
+: 197 4 -7 cra
+: 202 19 -10 ~ft 
+- 236
+: 255 11 -7 And 
+: 267 7 -7 I’ve 
+: 275 5 -5 got 
+: 281 9 -5 no 
+: 291 3 -3 de
+: 295 6 -3 fense 
+: 302 5 -4 for 
+: 308 7 -5 it 
+- 320
+: 322 6 -7 The 
+: 329 9 -7 heat 
+: 339 6 -5 is 
+: 346 8 -5 too 
+: 355 4 -4 in
+: 360 6 -4 tense 
+: 367 4 -5 for 
+* 372 9 -7 it 
+- 384
+: 386 7 -7 What 
+: 394 13 -7 good 
+: 408 6 -5 would 
+: 415 4 -5 com
+: 420 2 -4 mon 
+: 423 8 -4 sense 
+: 432 4 -5 for 
+: 437 4 -7 it 
+: 442 22 -8 do? 
+- 474
+: 491 16 -12 ’Cause 
+: 508 5 -10 it’s 
+* 514 6 0 witch
+: 521 28 -5 craft 
+- 558
+: 561 5 -12 Wi
+: 567 4 -10 cked 
+: 572 12 0 witch
+: 585 28 -5 craft 
+- 622
+: 626 7 -12 And 
+: 634 8 -10 al
+: 643 15 0 though 
+: 659 7 -5 I 
+: 667 15 0 know 
+: 683 4 -5 it’s 
+: 688 6 -5 strict
+: 695 5 -3 ly 
+: 701 7 0 ta
+* 709 41 2 boo 
+- 760
+: 773 9 0 When 
+: 783 10 0 you 
+: 794 2 -1 a
+: 797 12 -1 rouse 
+: 810 2 -3 the 
+: 813 7 -3 need 
+: 821 3 -4 in 
+: 825 11 -3 me 
+- 836
+: 837 8 0 My 
+: 846 5 0 heart 
+: 852 16 -1 says 
+: 869 6 -1 “Yes, 
+: 876 4 -3 in
+: 881 5 -3 deed” 
+: 887 3 -4 in 
+: 891 11 -3 me 
+- 905
+: 907 5 -2 “Pro
+: 913 8 -2 ce
+: 922 4 -3 ed 
+: 927 4 -3 with 
+: 932 6 -3 what 
+: 939 4 -5 you’re 
+: 944 6 -5 lea
+: 951 3 -6 din’ 
+: 955 4 -5 me 
+: 960 27 -3 to” 
+- 1002
+: 1031 8 -10 It’s 
+: 1040 11 -10 such 
+: 1052 6 -8 an 
+: 1059 4 -8 an
+: 1064 8 -7 cient 
+: 1073 11 -7 pitch 
+- 1092
+: 1095 11 -10 But 
+: 1107 8 -10 one 
+: 1116 5 -8 I 
+: 1122 8 -8 would
+: 1131 2 -7 n’t 
+: 1134 16 -7 switch 
+- 1158
+: 1161 11 -10 ’Cause 
+: 1173 12 -10 there’s 
+: 1186 6 -9 no 
+: 1193 6 -9 ni
+: 1200 6 -8 cer 
+: 1207 12 -7 witch 
+: 1220 4 -8 than 
+: 1225 20 -7 you 
+- 1276
+: 1532 24 -12 ’Cause 
+: 1557 4 -9 it’s 
+: 1562 5 0 witch
+: 1568 20 -5 craft 
+- 1593
+: 1595 5 0 That 
+: 1601 11 0 cra
+: 1613 4 -5 zy 
+: 1618 7 0 witch
+: 1626 20 -5 craft 
+- 1656
+: 1666 6 -12 And 
+: 1673 5 -10 al
+: 1679 14 0 though 
+: 1694 14 -5 I 
+: 1709 16 0 know 
+- 1729
+: 1731 5 -5 It’s 
+: 1737 5 -5 strict
+: 1743 4 -3 ly 
+: 1748 6 0 ta
+* 1755 60 2 boo 
+- 1815
+: 1816 8 0 When 
+: 1825 10 0 you 
+: 1836 2 -1 a
+: 1839 11 -1 rouse 
+: 1851 2 -3 the 
+: 1854 8 -3 need 
+: 1863 2 -4 in 
+* 1866 13 -3 me 
+- 1880
+: 1882 8 0 My 
+: 1891 5 0 heart 
+: 1897 10 -1 says 
+: 1908 10 -1 “Yes, 
+: 1919 3 -3 in
+: 1923 6 -3 deed” 
+: 1930 3 -4 in 
+: 1934 10 -3 me 
+- 1947
+: 1949 6 -2 “Pro
+: 1956 17 -2 ceed 
+: 1974 3 -3 with 
+: 1978 5 -3 what 
+: 1984 4 -5 you’re 
+: 1989 5 -5 lea
+: 1995 2 -6 din’ 
+: 1998 3 -5 me 
+: 2002 37 -3 to” 
+- 2054
+: 2072 8 -10 It’s 
+: 2081 10 -10 such 
+: 2092 7 -8 an 
+: 2100 3 -8 an
+: 2104 8 -7 cient 
+: 2113 10 -7 pitch 
+- 2132
+: 2135 9 -10 But 
+: 2145 7 -10 one 
+: 2153 2 -8 that 
+: 2156 4 -8 I’d 
+: 2161 6 -8 ne
+: 2168 4 -7 ver 
+: 2173 15 -7 switch 
+- 2198
+: 2202 9 -10 ’Cause 
+: 2212 12 -10 there’s 
+: 2225 6 -8 no 
+: 2232 3 -8 ni
+: 2236 7 -5 cer 
+: 2244 12 0 witch 
+: 2258 5 -8 than 
+* 2264 95 -7 you 
+E

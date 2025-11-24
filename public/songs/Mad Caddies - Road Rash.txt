@@ -1,0 +1,224 @@
+#ARTIST:Mad Caddies
+#TITLE:Road Rash
+#MP3:Mad Caddies - Road Rash.mp3
+#CREATOR:Schluckschuppen
+#GENRE:Ska
+#YEAR:1998
+#LANGUAGE:English
+#BPM:298
+#GAP:18850
+#VIDEO:v=9bLRyia4BqQ,co=duck-and-cover-56e152c98fc1f.jpg,bg=mad-caddies-4ea07bec54e9c.jpg
+: 0 1 16 Take 
+: 2 1 16 a 
+: 4 3 16 walk 
+: 9 2 16 out
+: 13 7 16 side 
+- 21
+: 21 2 14 It’s 
+: 25 2 12 a 
+: 29 2 14 nice 
+: 33 2 14 day 
+: 37 2 14 for 
+: 41 2 14 a 
+: 45 3 14 drive 
+: 49 1 14 au
+: 51 1 14 to
+: 53 2 12 mo
+: 57 2 10 ti
+: 61 4 12 va
+: 69 6 9 tion 
+- 77
+: 121 2 17 The 
+: 125 2 16 air 
+: 129 2 16 is 
+: 133 3 16 get
+: 137 2 16 ting 
+: 141 5 16 clear 
+- 148
+: 149 2 14 And 
+: 153 2 12 the 
+: 157 2 14 time 
+: 161 2 14 is 
+: 165 2 14 get
+: 169 1 14 ting 
+: 171 4 14 near 
+: 177 3 17 for 
+: 181 2 17 us 
+: 185 2 17 to 
+: 189 6 17 roll 
+- 197
+: 247 1 9 Got
+: 249 1 9 ta 
+: 251 3 9 watch 
+: 255 2 9 my 
+: 259 3 9 style 
+- 263
+: 264 2 7 Cause 
+: 268 3 9 God 
+: 272 2 9 it’s 
+: 276 3 9 al
+: 280 2 9 most 
+: 284 5 9 o
+: 292 5 4 ver 
+- 299
+: 312 1 9 Got 
+: 314 1 9 a 
+: 316 1 9 lit
+: 318 1 9 tle 
+: 320 3 9 more 
+: 324 3 5 room 
+: 328 2 5 to 
+: 332 3 9 try 
+: 336 2 9 it 
+: 340 3 9 hope
+: 344 3 8 ful
+: 348 6 7 ly 
+- 356
+: 385 2 17 I’ve 
+: 389 2 17 walked 
+: 393 2 17 this 
+: 397 2 16 earth 
+: 401 2 16 for 
+: 405 3 16 twen
+: 409 2 14 ty 
+: 413 3 14 years 
+- 417
+: 417 2 14 And 
+: 421 3 17 now 
+: 425 2 17 my 
+: 430 6 17 mind 
+: 438 5 16 is 
+: 446 6 17 float
+: 454 8 16 ing... 
+- 464
+: 470 2 17 Out 
+: 474 2 17 to 
+* 478 9 17 sea 
+- 489
+: 738 1 16 Gon
+: 740 1 16 na 
+: 742 2 16 hit 
+: 746 2 16 the 
+: 750 5 16 van, 
+: 758 3 14 man 
+- 762
+: 763 2 12 You 
+: 767 2 14 just 
+: 771 2 14 don’t 
+: 775 3 14 un
+: 779 2 14 der
+: 783 3 14 stand 
+- 787
+: 787 1 14 To
+: 789 1 14 tal 
+: 791 2 12 ag
+: 795 2 10 gra
+: 799 5 12 va
+: 807 5 9 tion 
+- 814
+: 863 2 16 Rol
+: 867 2 16 ling 
+: 871 2 16 down 
+: 875 2 16 the 
+: 879 3 16 high
+: 883 2 16 way 
+- 886
+: 887 3 14 Do
+: 891 2 12 ing 
+: 895 3 14 nine
+: 899 2 14 ty 
+: 903 3 14 go
+: 907 1 14 ing 
+: 909 4 14 my 
+: 915 2 14 way 
+: 919 2 17 in 
+: 923 2 17 con
+: 927 7 17 trol 
+- 936
+: 987 1 5 Got
+: 989 1 7 ta 
+: 991 2 9 watch 
+: 995 2 9 those 
+: 999 3 9 cor
+: 1003 2 9 ners 
+- 1006
+: 1007 2 9 In 
+: 1011 1 9 the 
+: 1015 3 9 stretch 
+: 1019 2 9 of 
+: 1023 5 9 dan
+: 1032 5 4 ger 
+- 1039
+: 1052 2 5 A 
+: 1056 3 9 prob
+: 1060 2 9 lem 
+: 1064 3 5 could 
+: 1068 2 5 a
+: 1072 3 9 rise 
+: 1076 2 9 e
+: 1080 3 9 ven
+: 1084 1 9 tu
+: 1086 1 8 al
+: 1088 5 7 ly 
+- 1095
+: 1124 2 17 I’ve 
+: 1128 2 17 walked 
+: 1132 2 17 this 
+: 1136 3 16 earth 
+: 1140 2 16 for 
+: 1144 3 16 twen
+: 1148 2 14 ty 
+: 1152 3 14 years 
+- 1156
+: 1157 2 14 And 
+: 1161 3 17 now 
+: 1165 2 17 my 
+: 1169 5 17 mind 
+: 1177 4 16 is 
+: 1185 6 17 float
+: 1193 9 16 ing... 
+- 1204
+* 1208 2 17 Out 
+* 1212 2 17 to 
+* 1217 9 17 sea 
+- 1228
+: 1480 3 9 Ev
+: 1484 2 9 ery 
+: 1488 3 9 time 
+: 1492 2 9 I 
+: 1496 2 9 look 
+: 1500 2 9 in
+: 1504 2 9 to 
+: 1508 2 9 the 
+: 1512 5 9 north 
+: 1520 5 4 wind 
+- 1527
+: 1544 2 9 I 
+: 1548 2 9 can’t 
+: 1552 3 9 find 
+: 1556 2 9 a 
+: 1560 3 9 mean
+: 1564 2 9 ing 
+: 1568 2 9 just 
+: 1572 2 9 a 
+: 1576 11 9 rhyme 
+- 1589
+: 1607 6 9 I 
+: 1615 5 7 don’t 
+: 1623 5 5 know 
+: 1631 6 7 but 
+: 1639 6 9 I’ve 
+: 1647 4 12 been 
+: 1655 6 14 told 
+- 1662
+: 1663 5 12 That 
+: 1671 5 14 good 
+: 1679 5 14 things 
+: 1687 5 14 come 
+: 1695 5 14 with 
+: 1703 13 13 ti
+: 1718 3 16 me 
+- 1722
+* 1723 2 17 Let’s 
+* 1727 9 17 go! 
+E

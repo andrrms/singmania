@@ -1,0 +1,1164 @@
+#ARTIST:Eminem
+#TITLE:Without Me
+#MP3:Eminem - Without Me.mp3
+#CREATOR:DoubleDee
+#COVER:Eminem - Without Me [CO].jpg
+#BACKGROUND:Eminem - Without Me [BG].jpg
+#YEAR:2002
+#LANGUAGE:English
+#BPM:448
+#GAP:5360
+#VIDEO:a=pyb13N80DZQ,v=YVkUvmDQ3HY,co=https://i0.wp.com/static-1.ivoox.com/audios/7/8/0/5/6811447295087_XXL.jpg,bg=eminem-5e80e3fc39802.jpg,preview=92.15,medley=525-3056
+#VIDEOGAP:9
+G 0 4 10 Two 
+G 6 3 5 trai
+G 11 2 3 ler-
+G 17 2 3 park 
+G 24 3 2 girls 
+R 32 2 2 go 
+R 40 2 2 round 
+R 45 2 1 the 
+R 48 3 0 out
+R 56 6 1 side 
+- 64
+R 71 4 3 Round 
+R 77 2 2 the 
+R 80 3 1 out
+R 89 4 1 side, 
+R 104 3 6 round 
+R 109 2 0 the 
+R 113 2 -1 out
+R 120 7 0 side 
+- 129
+R 256 4 10 Two 
+R 263 3 5 trai
+R 267 2 4 ler-
+R 271 2 3 park 
+R 279 3 2 girls 
+R 288 2 3 go 
+R 296 2 2 round 
+R 300 2 1 the 
+R 304 3 0 out
+R 312 6 1 side 
+- 320
+R 327 4 3 Round 
+R 333 2 2 the 
+R 336 3 1 out
+R 344 4 1 side, 
+R 359 3 6 round 
+R 364 2 0 the 
+R 368 2 -1 out
+R 375 7 0 side 
+- 384
+: 525 5 9 Guess 
+: 533 6 10 who’s 
+: 541 8 7 back, 
+: 589 6 2 back 
+: 598 5 10 a
+: 605 7 7 gain? 
+- 614
+: 654 7 9 Sha
+: 662 6 10 dy’s 
+: 670 8 7 back, 
+: 718 5 2 tell 
+: 726 5 10 a 
+: 734 7 7 friend 
+- 743
+: 781 5 7 Guess 
+: 790 3 7 who’s 
+: 797 8 7 back? 
+: 814 5 5 Guess 
+: 822 3 5 who’s 
+: 830 8 5 back? 
+- 840
+: 846 5 3 Guess 
+: 854 3 3 who’s 
+: 862 8 3 back? 
+: 878 5 2 Guess 
+: 886 3 2 who’s 
+: 893 8 2 back? 
+- 903
+: 910 5 0 Guess 
+: 918 5 0 who’s 
+: 926 8 0 back? 
+: 942 3 -3 Guess 
+: 949 3 -2 who’s 
+: 957 8 -5 back? 
+- 967
+: 972 5 -7 Guess 
+: 981 4 -7 who’s 
+: 989 8 -6 back? 
+- 999
+* 1006 3 2 (Da-
+* 1013 4 3 da-
+* 1021 4 2 da, 
+: 1037 5 7 da, 
+: 1053 5 7 da, 
+: 1069 5 7 da, 
+: 1085 5 7 da, 
+: 1101 5 7 da, 
+: 1116 5 7 da) 
+- 1123
+: 1132 3 2 (Da-
+: 1140 3 3 da-
+: 1149 4 2 da, 
+: 1165 4 7 da, 
+: 1181 4 7 da, 
+: 1197 4 7 da, 
+: 1213 4 7 da) 
+- 1219
+R 1277 3 9 I’ve 
+R 1284 2 4 cre
+R 1287 2 4 a
+R 1290 2 4 ted 
+R 1293 2 4 a 
+R 1296 5 4 mons
+R 1306 3 2 ter 
+- 1311
+R 1313 2 2 ’Cause 
+R 1317 2 8 no
+R 1321 2 7 bo
+R 1325 2 5 dy 
+R 1329 2 5 wants 
+R 1337 2 3 to 
+R 1341 2 2 see 
+R 1345 4 5 Mar
+R 1353 2 2 shall 
+R 1357 2 0 no 
+R 1361 4 1 more 
+- 1367
+R 1369 2 1 They 
+R 1373 3 2 want 
+R 1381 2 7 Sha
+R 1385 2 1 dy, 
+R 1389 2 2 I’m 
+R 1393 3 0 chopped 
+R 1401 3 5 li
+R 1405 2 -4 ver 
+- 1409
+R 1417 3 -2 Well, 
+R 1421 2 -1 if 
+R 1425 2 -1 you 
+R 1429 2 -1 want 
+R 1437 3 4 Sha
+R 1441 2 0 dy, 
+R 1445 3 -2 this 
+R 1449 2 -2 is 
+R 1453 2 1 what 
+R 1457 3 1 I’ll 
+R 1465 2 1 give 
+R 1469 2 -4 ya 
+- 1473
+R 1480 2 -1 A 
+R 1484 2 -1 lit
+R 1488 2 -1 tle 
+R 1492 2 -1 bit 
+R 1496 2 -1 of 
+R 1500 4 6 weed 
+R 1508 2 2 mixed 
+R 1512 2 2 with 
+R 1516 2 2 some 
+R 1520 4 2 hard 
+R 1528 2 0 li
+R 1532 1 -1 quor 
+- 1534
+R 1536 3 0 Some 
+R 1540 3 7 vod
+R 1548 2 5 ka 
+R 1552 2 4 tha
+R 1556 2 3 t’ll 
+R 1560 3 3 jump-
+R 1568 4 3 start 
+R 1576 2 1 my 
+R 1580 3 3 heart 
+R 1588 2 1 quic
+R 1592 1 1 ker 
+- 1594
+R 1596 2 0 Than 
+R 1600 2 1 a 
+R 1604 5 3 shock 
+R 1612 2 0 when 
+R 1616 2 0 I 
+R 1620 2 1 get 
+R 1624 5 3 shocked 
+R 1632 2 0 at 
+R 1640 2 1 the 
+R 1644 5 3 hos
+R 1652 2 0 pi
+R 1656 1 1 tal 
+- 1658
+R 1660 3 0 By 
+R 1664 2 1 the 
+R 1668 4 3 doc
+R 1676 2 0 tor 
+R 1681 2 -1 when 
+R 1684 2 0 I’m 
+R 1688 3 1 not 
+R 1696 2 0 co
+R 1700 2 3 o
+R 1708 2 0 pe
+R 1712 2 -1 ra
+R 1716 2 -4 ting 
+- 1720
+R 1724 3 0 When 
+R 1728 2 1 I’m 
+R 1732 4 3 roc
+R 1740 2 -2 kin’ 
+R 1744 2 2 the 
+R 1748 2 5 ta
+R 1752 2 -1 ble 
+R 1756 2 -1 while 
+R 1760 2 4 he’s 
+R 1764 4 6 o
+R 1772 2 2 pe
+R 1776 2 1 ra
+R 1780 2 -1 ting 
+- 1784
+R 1800 2 6 You 
+R 1804 2 9 wai
+R 1808 2 7 ted 
+R 1812 2 5 this 
+R 1816 4 5 long, 
+R 1824 2 2 now 
+R 1828 4 3 stop 
+R 1836 2 2 de
+R 1840 5 2 ba
+R 1848 2 0 ting 
+- 1851
+R 1852 3 0 ’Cause 
+R 1856 3 2 I’m 
+R 1860 4 1 back, 
+R 1868 2 0 I’m 
+R 1872 2 0 on 
+R 1876 2 1 the 
+R 1880 4 2 rag 
+R 1888 2 0 and 
+R 1892 6 0 o
+R 1900 2 -1 vu
+R 1904 5 -2 la
+R 1912 2 -3 ting 
+- 1916
+R 1928 3 -7 I 
+R 1932 4 2 know 
+R 1940 3 -3 that 
+R 1944 3 -3 you 
+R 1948 2 -2 got 
+R 1952 2 0 a 
+R 1956 5 4 job, 
+R 1964 2 -3 Ms. 
+R 1969 5 -2 Che
+R 1976 2 0 ney 
+- 1979
+R 1980 2 0 But 
+R 1984 2 1 your 
+R 1988 3 4 hus
+R 1995 3 0 band’s 
+R 2000 3 4 heart 
+R 2008 4 -1 prob
+R 2014 3 4 lem’s 
+G 2020 3 7 com
+G 2028 2 3 pli
+G 2032 5 1 ca
+G 2040 1 -2 ting 
+- 2042
+R 2044 3 4 So 
+R 2048 2 7 the 
+G 2052 3 9 F
+G 2060 3 6 C
+G 2068 3 6 C 
+R 2076 3 3 won’t 
+R 2084 2 3 let 
+R 2090 2 0 me 
+R 2096 2 2 be 
+- 2100
+R 2104 2 0 Or 
+R 2108 3 2 let 
+R 2116 4 1 me 
+R 2124 4 2 be 
+R 2132 3 1 me, 
+R 2140 4 0 so 
+R 2148 2 2 let 
+R 2154 3 0 me 
+R 2160 4 5 see 
+- 2166
+R 2176 2 0 They 
+R 2180 3 -1 tried 
+R 2184 2 -1 to 
+R 2188 3 0 shut 
+R 2192 2 -1 me 
+R 2196 3 1 down 
+R 2204 3 0 on 
+R 2212 3 0 M
+R 2219 3 -2 T
+R 2224 3 -1 V 
+- 2229
+: 2236 2 -2 But 
+: 2240 2 -2 it 
+: 2244 3 -5 feels 
+: 2252 4 2 so 
+: 2260 3 7 emp
+: 2268 3 -5 ty 
+: 2276 2 -5 with
+: 2280 4 -5 out 
+: 2288 4 -2 me 
+- 2294
+: 2300 4 2 So 
+: 2315 3 8 come 
+: 2319 3 7 on 
+: 2323 2 5 and 
+: 2327 4 5 dip, 
+: 2339 2 3 bum 
+: 2343 2 3 on 
+: 2347 2 3 your 
+: 2351 4 2 lips 
+- 2357
+R 2364 3 3 Fuck 
+R 2372 3 2 that, 
+R 2380 3 2 cum 
+R 2384 3 1 on 
+R 2388 2 0 your 
+R 2391 4 1 lips 
+R 2400 2 -2 and 
+R 2404 3 0 some 
+R 2408 2 0 on 
+R 2411 3 -2 your 
+R 2416 3 0 tits 
+- 2421
+R 2423 3 -2 And 
+R 2428 3 0 get 
+R 2434 3 0 rea
+R 2438 2 -2 dy, 
+R 2448 3 -5 ’cause 
+R 2452 3 2 this 
+R 2459 3 -2 shit’s 
+R 2463 2 -5 a
+R 2467 3 -2 bout 
+R 2471 2 0 to 
+R 2475 2 -1 get 
+R 2479 3 0 hea
+R 2483 1 -5 vy 
+- 2486
+R 2488 2 -4 I 
+R 2492 2 -2 just 
+R 2499 2 0 set
+R 2503 2 -2 tled 
+R 2507 2 -2 all 
+R 2511 2 -1 my 
+R 2515 4 -1 law
+R 2522 3 -2 suits 
+G 2532 3 10 (Fuck 
+G 2537 2 7 you, 
+G 2542 3 7 Deb
+G 2547 2 6 bie!) 
+- 2551
+* 2554 4 2 Now, 
+* 2562 3 10 this 
+: 2569 2 7 looks 
+: 2577 3 5 like 
+: 2584 2 4 a 
+: 2594 3 4 job 
+: 2602 3 3 for 
+: 2606 2 4 me
+: 2609 2 3 ~ 
+- 2613
+: 2618 6 3 So 
+: 2626 2 4 eve
+: 2630 2 3 ry
+: 2634 2 3 bo
+: 2638 2 2 dy, 
+: 2650 3 3 just 
+: 2658 4 3 fol
+: 2664 2 2 low 
+: 2668 6 3 me 
+- 2676
+: 2682 2 3 ’Cause 
+: 2686 2 6 we 
+: 2690 2 4 need 
+: 2694 2 3 a 
+: 2698 2 2 lit
+: 2702 2 1 tle 
+: 2714 3 3 con
+: 2722 2 2 tro
+: 2726 4 2 ver
+: 2734 3 2 sy
+: 2738 3 1 ~ 
+- 2743
+: 2745 3 1 ’Cause 
+: 2749 2 1 it 
+: 2753 3 -1 feels 
+: 2761 3 4 so 
+: 2769 3 7 emp
+: 2777 2 -5 ty 
+: 2785 2 -5 with
+: 2789 3 -5 out 
+: 2797 4 -5 me 
+- 2803
+R 2805 3 -2 I 
+R 2809 3 2 said 
+: 2817 3 10 this 
+: 2824 4 7 looks 
+: 2832 3 5 like 
+: 2839 2 4 a 
+: 2849 3 3 job 
+: 2857 3 2 for 
+: 2861 2 3 me
+: 2864 2 2 ~ 
+- 2868
+: 2873 6 2 So 
+: 2881 2 4 eve
+: 2885 2 3 ry
+: 2889 2 3 bo
+: 2893 2 2 dy, 
+: 2905 3 2 just 
+: 2913 4 3 fol
+: 2919 2 2 low 
+: 2923 6 2 me 
+- 2931
+: 2937 2 2 ’Cause 
+: 2941 2 6 we 
+: 2945 2 4 need 
+: 2949 2 3 a 
+: 2953 2 2 lit
+: 2957 2 1 tle 
+: 2969 3 2 con
+: 2977 2 1 tro
+: 2981 4 1 ver
+: 2989 3 2 sy
+: 2993 3 1 ~ 
+- 2998
+: 3000 3 0 ’Cause 
+: 3004 2 0 it 
+: 3008 3 -2 feels 
+: 3016 3 4 so 
+: 3024 3 7 emp
+: 3032 2 -5 ty 
+: 3040 2 -5 with
+: 3044 3 -5 out 
+: 3052 4 -5 me 
+- 3058
+R 3066 2 9 Lit
+R 3069 2 7 tle 
+R 3074 3 5 hel
+R 3082 3 2 lions, 
+R 3098 3 8 kids 
+R 3105 3 5 fee
+R 3110 2 4 ling 
+R 3114 2 4 re
+R 3118 4 5 bel
+R 3126 3 2 lious 
+- 3131
+R 3133 2 2 Em
+R 3137 2 4 bar
+R 3142 4 1 rassed, 
+R 3150 2 0 their 
+R 3154 3 4 pa
+R 3158 2 3 rents 
+R 3163 3 1 still 
+R 3170 3 1 lis
+R 3174 2 2 ten 
+R 3178 2 2 to 
+R 3182 4 5 El
+R 3189 3 -1 vis 
+- 3194
+R 3204 3 -2 They 
+R 3209 4 2 start 
+R 3217 2 2 fee
+R 3221 3 -1 lin’ 
+R 3228 3 0 like 
+R 3234 2 5 pri
+R 3238 2 0 so
+R 3242 2 0 ners, 
+R 3246 3 5 help
+R 3254 3 -4 less 
+- 3259
+R 3261 2 2 ’Til 
+R 3265 3 7 some
+R 3269 3 6 one 
+R 3273 3 5 comes 
+R 3277 2 5 a
+R 3281 5 5 long 
+R 3289 2 4 on 
+R 3293 2 3 a 
+R 3297 2 6 mis
+R 3301 2 1 sion 
+R 3305 2 1 and 
+R 3309 4 2 yells 
+* 3317 6 9 “Bitch!” 
+- 3325
+R 3333 2 2 A 
+R 3337 2 8 vi
+R 3341 2 5 sio
+R 3345 4 2 na
+R 3353 3 -2 ry, 
+G 3361 2 -2 vi
+G 3365 2 3 sion 
+G 3369 2 5 is 
+G 3373 4 7 sca
+G 3381 2 -3 ry 
+- 3385
+R 3389 3 2 Could 
+R 3393 3 6 start 
+R 3397 2 5 a 
+R 3401 3 6 re
+R 3405 2 5 vo
+R 3409 3 4 lu
+R 3417 3 -3 tion, 
+R 3421 2 4 pol
+R 3425 2 8 lu
+R 3429 2 5 tin’ 
+R 3433 2 4 the 
+R 3437 4 4 air
+R 3443 5 4 waves 
+- 3450
+R 3453 2 4 A 
+R 3457 2 5 re
+R 3461 2 0 bel, 
+R 3473 2 4 so 
+R 3477 2 5 just 
+R 3481 3 5 let 
+R 3485 2 4 me 
+R 3489 2 4 re
+R 3493 2 4 vel 
+R 3497 2 4 and 
+R 3501 4 4 bask 
+- 3507
+R 3509 2 4 In 
+R 3513 2 3 the 
+R 3517 4 5 fact 
+R 3525 2 4 that 
+R 3529 2 3 I 
+R 3533 2 4 got 
+R 3537 2 4 eve
+R 3541 2 4 ry
+R 3545 4 4 one 
+R 3553 2 4 kis
+R 3557 2 4 sin’ 
+R 3561 2 4 my 
+R 3565 3 4 ass 
+- 3570
+R 3573 2 4 And 
+R 3577 2 3 it’s 
+R 3581 2 3 a 
+R 3585 2 3 di
+R 3589 2 4 sas
+R 3597 2 1 ter, 
+R 3605 2 9 such 
+R 3609 2 7 a 
+G 3613 2 5 ca
+G 3617 2 5 tas
+G 3625 2 3 tro
+G 3629 3 5 phe 
+- 3634
+R 3637 2 3 For 
+R 3641 2 2 you 
+R 3645 2 2 to 
+R 3649 3 5 see 
+R 3657 2 2 so 
+R 3661 4 2 damn 
+R 3669 2 1 much 
+R 3673 2 0 of 
+R 3677 2 0 my 
+R 3681 5 -1 ass, 
+R 3689 2 -2 you 
+R 3693 4 -1 asked 
+R 3701 2 -1 for 
+R 3705 2 1 me
+R 3709 2 5 ~? 
+- 3713
+R 3717 2 -2 Well, 
+R 3721 3 0 I’m 
+R 3727 3 -1 back, 
+* 3737 2 0 da-
+* 3741 2 0 na-
+* 3745 2 1 na-
+* 3749 2 1 na, 
+* 3753 2 0 na-
+* 3757 2 0 na-
+* 3761 2 -1 na-
+* 3765 2 -1 na-
+* 3769 2 0 na-
+* 3773 2 0 na 
+- 3777
+: 3785 3 2 Fix 
+: 3789 1 1 your 
+: 3792 2 -1 bent 
+: 3796 2 -1 an
+: 3800 2 0 ten
+: 3804 2 0 na, 
+: 3808 2 1 tune 
+: 3812 2 1 it 
+: 3816 2 0 in, 
+: 3820 2 0 and 
+: 3824 2 -1 then 
+: 3828 2 -1 I’m 
+: 3832 2 0 gon
+: 3836 1 0 na 
+- 3838
+R 3840 2 0 En
+R 3844 2 0 ter 
+R 3848 2 1 in 
+R 3852 2 0 and 
+R 3856 2 -1 up 
+R 3860 2 2 un
+R 3864 2 -1 der 
+R 3868 2 0 your 
+R 3872 5 3 skin 
+R 3880 2 1 like 
+R 3884 2 0 a 
+R 3888 3 4 splin
+R 3892 2 -1 ter 
+- 3896
+R 3900 2 2 The 
+R 3904 2 7 cen
+R 3908 2 5 ter 
+R 3912 2 4 of 
+R 3916 1 3 at
+R 3920 2 3 ten
+R 3928 2 -1 tion, 
+R 3936 2 7 back 
+R 3940 2 5 for 
+R 3944 2 4 the 
+R 3948 2 4 win
+R 3952 1 2 ter 
+- 3954
+R 3956 2 2 I’m 
+R 3960 2 3 in
+R 3964 2 2 te
+R 3968 2 1 res
+R 3976 2 0 ting, 
+R 3988 2 0 the 
+R 3992 2 4 best 
+R 4000 2 0 thing 
+R 4006 2 3 since 
+R 4011 3 5 wrest
+R 4019 4 0 ling 
+- 4025
+G 4027 3 0 In
+G 4031 3 5 fes
+G 4039 4 0 ting 
+R 4047 2 -2 in 
+R 4051 2 1 your 
+R 4057 3 5 kid’s 
+R 4063 3 0 ears 
+R 4070 3 3 and 
+R 4076 2 6 nes
+R 4082 3 2 ting 
+- 4087
+R 4103 3 0 Tes
+R 4111 2 -2 ting, 
+G 4122 2 -5 “At
+G 4127 3 2 ten
+G 4133 3 2 tion, 
+G 4143 3 -2 please!” 
+- 4148
+R 4150 2 4 Feel 
+R 4154 2 3 the 
+R 4159 4 4 ten
+R 4167 3 0 sion 
+R 4175 2 2 soon 
+R 4179 2 1 as 
+R 4183 3 2 some
+R 4187 2 1 one 
+R 4191 3 1 men
+R 4197 2 0 tions 
+R 4203 3 2 me 
+- 4208
+R 4214 3 1 Here’s 
+R 4218 2 0 my 
+R 4223 4 1 ten 
+R 4231 4 -1 cents, 
+R 4243 2 -1 my 
+R 4247 4 3 two 
+R 4255 3 -1 cents 
+R 4260 3 1 is 
+R 4268 3 3 free 
+- 4273
+R 4276 2 -1 A 
+R 4280 3 4 nui
+R 4288 3 -3 sance, 
+G 4296 2 5 who 
+G 4304 3 -5 sent? 
+R 4312 3 7 You 
+R 4320 3 5 sent 
+R 4328 2 5 for 
+R 4332 4 7 me? 
+- 4338
+: 4342 4 2 Now, 
+: 4350 3 10 this 
+: 4357 2 7 looks 
+: 4365 3 5 like 
+: 4372 2 4 a 
+: 4382 3 4 job 
+: 4390 3 3 for 
+: 4394 2 4 me
+: 4397 2 3 ~ 
+- 4401
+: 4406 6 3 So 
+: 4414 2 4 eve
+: 4418 2 3 ry
+: 4422 2 3 bo
+: 4426 2 2 dy, 
+: 4438 3 3 just 
+: 4446 4 3 fol
+: 4452 2 2 low 
+: 4456 6 3 me 
+- 4464
+: 4470 2 3 ’Cause 
+: 4474 2 6 we 
+: 4478 2 4 need 
+: 4482 2 3 a 
+: 4486 2 2 lit
+: 4490 2 1 tle 
+: 4502 3 3 con
+: 4510 2 2 tro
+: 4514 4 2 ver
+: 4522 3 2 sy
+: 4526 3 1 ~ 
+- 4530
+: 4532 3 1 ’Cause 
+: 4536 2 1 it 
+: 4540 3 -1 feels 
+: 4548 3 4 so 
+: 4556 3 7 emp
+: 4564 2 -5 ty 
+: 4572 2 -5 with
+: 4576 3 -5 out 
+: 4584 4 -5 me 
+- 4590
+: 4592 3 -2 I 
+: 4596 3 2 said 
+: 4604 3 10 this 
+: 4612 4 7 looks 
+: 4620 3 5 like 
+: 4627 2 4 a 
+: 4637 3 3 job 
+: 4645 3 2 for 
+: 4649 2 3 me
+: 4652 2 2 ~ 
+- 4656
+: 4661 6 2 So 
+: 4669 2 4 eve
+: 4673 2 3 ry
+: 4677 2 3 bo
+: 4681 2 2 dy, 
+: 4693 3 2 just 
+: 4701 4 3 fol
+: 4707 2 2 low 
+: 4712 5 2 me 
+- 4719
+: 4725 2 2 ’Cause 
+: 4729 2 6 we 
+: 4733 2 4 need 
+: 4737 2 3 a 
+: 4741 2 2 lit
+: 4745 2 1 tle 
+: 4757 3 2 con
+: 4765 2 1 tro
+: 4769 4 1 ver
+: 4777 3 2 sy
+: 4781 3 1 ~ 
+- 4786
+: 4788 3 0 ’Cause 
+: 4792 2 0 it 
+: 4796 3 -2 feels 
+: 4804 3 4 so 
+: 4812 3 7 emp
+: 4820 2 -5 ty 
+: 4828 2 -5 with
+: 4832 3 -5 out 
+: 4840 4 -5 me 
+- 4846
+R 4850 2 2 A 
+R 4854 3 7 tis
+R 4862 2 3 ket, 
+R 4866 1 3 a 
+R 4870 4 4 tas
+R 4878 2 2 ket, 
+G 4886 2 9 I’ll 
+G 4890 2 7 go 
+G 4894 3 5 tit-
+G 4901 2 4 for-
+G 4906 4 5 tat 
+G 4913 3 2 wit’ 
+- 4918
+R 4926 2 9 A
+R 4930 2 8 ny
+R 4934 2 7 bo
+R 4938 2 6 dy 
+R 4942 3 5 who’s 
+R 4950 2 5 tal
+R 4954 2 4 kin’, 
+R 4958 3 4 “This 
+R 4964 3 4 shit, 
+R 4970 3 4 that 
+R 4978 3 4 shit” 
+- 4983
+R 4985 3 5 Chris 
+R 4991 3 4 Kirk
+R 4998 3 5 pa
+R 5006 3 4 trick, 
+R 5014 3 7 you 
+R 5018 2 5 can 
+R 5022 3 5 get 
+R 5028 2 3 your 
+R 5032 4 5 ass 
+R 5043 3 4 kicked 
+- 5048
+R 5054 3 7 Worse 
+R 5062 2 4 than 
+R 5066 2 3 them 
+R 5070 2 4 lit
+R 5074 2 3 tle 
+R 5078 2 6 Limp 
+R 5084 2 10 Biz
+R 5091 3 2 kit 
+R 5097 3 3 bas
+R 5106 3 0 tards 
+- 5111
+R 5113 2 0 And 
+R 5117 3 3 Mo
+R 5124 4 8 by? 
+R 5132 3 8 You 
+R 5137 2 4 can 
+R 5141 2 3 get 
+R 5149 4 5 stomped 
+R 5156 2 5 by 
+R 5161 3 6 O
+R 5168 3 -2 bie 
+- 5173
+R 5177 2 -4 You 
+R 5181 2 0 thir
+R 5185 2 0 ty-
+R 5189 2 2 six-
+R 5197 2 0 year-
+R 5201 2 2 old 
+R 5207 3 2 bald-
+R 5213 2 0 hea
+R 5217 2 0 ded 
+R 5221 5 3 fag, 
+R 5229 5 3 blow 
+R 5237 3 -5 me 
+- 5242
+R 5249 3 -4 You 
+R 5253 4 3 don’t 
+R 5261 3 2 know 
+R 5269 2 -9 me, 
+R 5273 2 -9 you’re 
+R 5277 2 1 too 
+R 5281 3 0 old, 
+R 5289 3 -1 let 
+R 5295 4 0 go 
+- 5301
+R 5304 2 -7 It’s 
+R 5308 2 -1 o
+R 5316 2 -10 ver, 
+R 5325 4 8 no
+R 5331 3 6 bo
+R 5336 2 5 dy 
+R 5340 3 5 lis
+R 5344 3 4 tens 
+R 5348 2 4 to 
+R 5352 4 5 tech
+R 5360 4 3 no 
+- 5366
+R 5368 3 2 Now, 
+R 5372 2 3 let’s 
+R 5380 3 2 go, 
+R 5396 3 8 just 
+R 5404 3 6 give 
+R 5408 3 5 me 
+R 5412 2 4 the 
+R 5417 2 6 sig
+R 5424 1 4 nal 
+- 5426
+R 5428 2 4 I’ll 
+R 5432 3 3 be 
+R 5436 5 4 there 
+R 5444 2 2 with 
+R 5448 2 2 a 
+R 5452 5 2 whole 
+R 5460 4 3 list 
+R 5468 3 3 full 
+R 5472 2 2 of 
+R 5476 2 2 new 
+R 5480 2 3 in
+R 5488 3 2 sults 
+- 5493
+R 5496 2 2 I’ve 
+R 5500 2 2 been 
+R 5508 5 0 dope, 
+R 5520 2 0 sus
+R 5524 4 5 pense
+R 5532 2 -1 ful 
+R 5536 2 0 with 
+R 5540 2 0 a 
+R 5547 4 5 pen
+R 5553 1 -2 cil 
+- 5555
+R 5556 2 -1 E
+R 5560 2 0 ver 
+R 5564 3 2 since 
+R 5572 4 6 Prince 
+R 5581 2 -1 turned 
+R 5584 2 1 him
+R 5589 4 3 self 
+R 5596 2 -2 in
+R 5600 2 1 to 
+R 5604 2 5 a 
+R 5610 4 8 sym
+R 5616 4 -4 bol 
+- 5622
+R 5631 3 0 But 
+R 5636 4 9 some
+R 5643 5 5 times 
+R 5651 2 2 the 
+R 5656 3 3 shit 
+R 5664 3 3 just 
+R 5672 4 5 seems 
+- 5678
+R 5684 2 2 Eve
+R 5688 2 2 ry
+R 5692 2 2 bo
+R 5696 2 2 dy 
+R 5700 2 2 on
+R 5704 2 2 ly 
+R 5708 3 0 wants 
+R 5714 2 3 to 
+G 5720 2 -3 dis
+G 5727 3 3 cuss 
+G 5735 4 9 me 
+- 5741
+R 5752 3 -7 So 
+R 5756 3 7 this 
+R 5764 3 -3 must 
+R 5771 5 -2 mean 
+R 5778 3 4 I’m 
+G 5783 4 0 dis
+G 5791 3 4 gus
+G 5799 4 9 ting 
+- 5805
+R 5817 2 -5 But 
+R 5820 2 9 it’s 
+R 5827 3 2 just 
+R 5836 5 8 me, 
+R 5843 3 7 I’m 
+R 5848 2 1 just 
+R 5856 3 6 ob
+R 5863 6 9 scene 
+- 5871
+R 5875 2 7 Though 
+R 5879 3 7 I’m 
+R 5883 3 9 not 
+R 5891 2 5 the 
+R 5895 3 5 first 
+R 5903 4 5 king 
+R 5911 3 2 of 
+R 5916 4 4 con
+R 5923 2 2 tro
+R 5927 2 4 ver
+R 5935 3 4 sy 
+- 5940
+R 5943 2 2 I 
+R 5947 4 3 am 
+R 5955 2 2 the 
+R 5959 3 2 worst 
+R 5966 4 2 thing 
+R 5975 3 2 since 
+R 5979 4 2 El
+R 5986 2 1 vis 
+R 5991 4 3 Pres
+R 5999 3 1 ley 
+- 6004
+R 6008 2 0 To 
+R 6012 3 -7 do 
+R 6020 3 0 Black 
+R 6028 3 7 mu
+R 6036 3 -3 sic 
+R 6043 3 -5 so 
+R 6048 4 2 sel
+R 6056 4 5 fish
+R 6064 3 -7 ly 
+- 6069
+R 6072 3 -7 And 
+R 6076 3 -5 use 
+R 6084 3 3 it 
+R 6092 3 8 to 
+R 6100 3 0 get 
+R 6108 3 -3 my
+R 6112 3 4 self 
+R 6120 3 9 weal
+R 6128 3 0 thy 
+F 6136 6 5 (Hey!) 
+- 6144
+R 6154 3 8 There’s 
+R 6159 2 3 a 
+R 6163 3 1 con
+R 6171 3 2 cept 
+R 6179 2 1 that 
+R 6183 5 2 works 
+- 6190
+R 6196 3 8 Twen
+R 6200 2 8 ty 
+R 6204 2 7 mil
+R 6208 2 6 lion 
+R 6212 2 5 o
+R 6216 2 4 ther 
+R 6220 4 3 white 
+R 6227 2 3 rap
+R 6235 4 2 pers 
+R 6243 2 1 e
+R 6247 5 2 merge 
+- 6254
+R 6259 2 3 But 
+R 6263 2 5 no 
+R 6267 2 7 mat
+R 6271 2 5 ter 
+R 6275 2 4 how 
+R 6282 3 3 ma
+R 6286 2 3 ny 
+R 6291 3 4 fish 
+R 6299 3 3 in 
+R 6305 2 2 the 
+R 6312 4 3 sea 
+- 6318
+: 6326 3 2 It’d 
+: 6331 2 -5 be 
+: 6339 3 2 so 
+: 6347 2 9 emp
+: 6354 3 -5 ty 
+: 6362 2 -4 with
+: 6366 2 -5 out 
+: 6375 2 5 me
+: 6378 3 4 ~ 
+- 6383
+: 6385 4 2 Now, 
+: 6393 3 10 this 
+: 6400 2 7 looks 
+: 6408 3 5 like 
+: 6416 2 4 a 
+: 6425 3 4 job 
+: 6433 3 3 for 
+: 6437 2 4 me
+: 6440 2 3 ~ 
+- 6444
+: 6450 6 3 So 
+: 6458 2 4 eve
+: 6462 2 3 ry
+: 6466 2 3 bo
+: 6470 2 2 dy, 
+: 6481 3 3 just 
+: 6489 4 3 fol
+: 6495 2 2 low 
+: 6500 6 3 me 
+- 6508
+: 6512 2 3 ’Cause 
+: 6516 2 6 we 
+: 6520 2 4 need 
+: 6524 2 3 a 
+: 6528 2 2 lit
+: 6532 2 1 tle 
+: 6544 3 3 con
+: 6552 2 2 tro
+: 6556 4 2 ver
+: 6564 3 2 sy
+: 6568 3 1 ~ 
+- 6573
+: 6576 3 1 ’Cause 
+: 6580 2 1 it 
+: 6584 3 -1 feels 
+: 6592 3 4 so 
+: 6600 3 7 emp
+: 6608 2 -5 ty 
+: 6616 2 -5 with
+: 6620 3 -5 out 
+: 6628 4 -5 me 
+- 6634
+: 6636 3 -2 I 
+: 6640 3 2 said 
+: 6648 3 10 this 
+: 6656 4 7 looks 
+: 6664 3 5 like 
+: 6672 2 4 a 
+: 6680 3 3 job 
+: 6688 3 2 for 
+: 6692 2 3 me
+: 6695 2 2 ~ 
+- 6699
+: 6705 6 2 So 
+: 6713 2 4 eve
+: 6717 2 3 ry
+: 6721 2 3 bo
+: 6725 2 2 dy, 
+: 6737 3 2 just 
+: 6745 4 3 fol
+: 6752 2 2 low 
+: 6756 5 2 me 
+- 6763
+: 6769 2 2 ’Cause 
+: 6773 2 6 we 
+: 6777 2 4 need 
+: 6781 2 3 a 
+: 6785 2 2 lit
+: 6789 2 1 tle 
+: 6801 3 2 con
+: 6809 2 1 tro
+: 6813 4 1 ver
+: 6821 3 2 sy
+: 6825 3 1 ~ 
+- 6830
+: 6832 3 0 ’Cause 
+: 6836 2 0 it 
+: 6840 3 -2 feels 
+: 6848 3 4 so 
+: 6856 3 7 emp
+: 6864 2 -5 ty 
+: 6872 2 -5 with
+: 6876 3 -5 out 
+: 6884 2 -5 me 
+- 6887
+: 6888 6 10 Dei-
+: 6896 6 9 dei, 
+: 6904 6 7 la-
+: 6912 9 2 la 
+- 6923
+: 6944 6 2 La-
+: 6952 6 0 la, 
+: 6960 6 2 la-
+: 6968 6 5 la-
+: 6977 7 2 la 
+- 6986
+: 7008 6 2 La-
+: 7016 6 0 la, 
+: 7024 6 2 la-
+: 7032 6 0 la-
+: 7040 8 -2 la 
+- 7050
+: 7072 6 -2 La-
+: 7080 6 -3 la, 
+: 7088 6 -7 la-
+: 7097 6 -5 la 
+- 7105
+* 7136 4 2 Hum, 
+* 7144 6 10 dei-
+* 7152 6 9 dei, 
+* 7160 6 7 la-
+* 7168 9 2 la 
+- 7179
+: 7200 6 2 La-
+: 7208 6 0 la, 
+: 7216 6 2 la-
+: 7224 6 5 la-
+: 7233 7 2 la 
+- 7242
+: 7264 6 2 La-
+: 7272 6 0 la, 
+: 7280 6 2 la-
+: 7288 6 0 la-
+: 7296 8 -2 la 
+- 7306
+: 7328 6 -2 La-
+: 7336 6 -3 la, 
+: 7344 6 -7 la-
+: 7353 6 -5 la, 
+F 7393 11 0 kids! 
+E

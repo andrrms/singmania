@@ -1,0 +1,446 @@
+#ARTIST:Rage Against The Machine
+#TITLE:Guerrilla Radio
+#MP3:Rage Against The Machine - Guerrilla Radio.mp3
+#CREATOR:Zevac
+#EDITION:Rock Band Store 2009 Vol. 3
+#GENRE:Rap Metal
+#YEAR:1999
+#LANGUAGE:English
+#BPM:393.8
+#GAP:49060
+#VIDEO:v=Rm1nCYOZB-s,co=guerrilla-radio-5e2faaf46fe3c.jpg,bg=rage-against-the-machine-537881b93200f.jpg
+R 0 6 0 Trans
+R 9 3 0 mis
+R 14 7 0 sion 
+R 25 5 0 Third 
+R 32 4 0 World 
+R 39 5 0 War 
+R 47 4 0 third 
+R 54 6 0 round 
+- 62
+R 65 1 0 A 
+R 69 2 0 de
+R 73 2 0 cade 
+R 76 2 0 of 
+R 80 1 0 the 
+R 83 2 0 wea
+R 88 1 0 pon 
+R 92 1 0 of 
+R 98 4 0 sound 
+R 104 1 0 a
+R 108 3 0 bove 
+R 115 8 0 ground 
+- 125
+R 137 3 0 No 
+R 145 3 0 shel
+R 150 2 0 ter 
+R 153 1 0 if 
+R 157 1 0 you’re 
+R 159 2 0 loo
+R 164 1 0 king 
+R 167 1 0 for 
+R 172 5 0 shade 
+R 178 2 0 I 
+R 181 2 0 lick 
+- 185
+R 190 4 0 Shots 
+R 196 2 0 at 
+R 200 1 0 the 
+R 204 3 0 bru
+R 208 2 0 tal 
+R 213 2 0 cha
+R 217 6 0 rade 
+- 225
+R 231 4 0 As 
+R 238 2 0 the 
+R 242 5 0 polls 
+R 250 6 0 close 
+R 257 3 0 like 
+R 262 2 0 a 
+R 268 4 0 cas
+R 275 2 0 ket 
+- 279
+R 287 4 0 On 
+R 295 4 0 truth 
+R 302 2 0 de
+R 306 8 0 voured 
+- 316
+R 319 3 0 Si
+R 323 2 0 lent 
+R 328 4 0 play 
+R 333 2 0 in 
+R 337 1 0 the 
+R 342 3 0 shad
+R 346 1 0 ow 
+R 349 2 0 of 
+R 353 5 0 pow
+R 359 1 0 er 
+- 362
+R 368 1 0 A 
+R 374 3 0 spec
+R 381 1 0 ta
+R 385 6 0 cle 
+R 400 1 0 mo
+R 404 4 0 no
+R 411 2 0 po
+R 415 8 0 lized 
+- 425
+R 430 2 0 The 
+R 435 4 0 ca
+R 440 1 0 me
+R 442 1 0 ra’s 
+R 447 8 0 eyes 
+R 457 2 0 on 
+R 464 5 0 choice 
+R 471 2 0 dis
+R 476 7 0 guised 
+- 485
+R 487 3 0 Was 
+R 491 2 0 it 
+R 496 5 0 cast 
+R 503 2 0 for 
+R 507 2 0 the 
+R 512 4 0 mass 
+R 518 2 0 who 
+R 523 4 0 burn 
+R 528 2 0 and 
+R 533 7 0 toil 
+- 542
+R 545 1 0 Or 
+R 548 2 0 for 
+R 552 2 0 the 
+R 556 3 0 vul
+R 562 2 0 tures 
+R 566 2 0 who 
+R 571 4 0 thirst 
+R 578 2 0 for 
+R 583 4 0 blood 
+R 588 2 0 and 
+R 592 7 0 oil? 
+- 601
+R 607 3 0 Yes 
+R 612 2 0 a 
+R 618 4 0 spec
+R 625 1 0 ta
+R 630 6 0 cle 
+R 643 2 0 mon
+R 648 3 0 o
+R 653 2 0 po
+R 658 8 0 lized 
+- 668
+R 673 2 0 They 
+R 677 4 0 hold 
+R 684 2 0 the 
+R 689 9 0 reins 
+- 700
+R 708 5 0 Stole 
+R 715 2 0 your 
+R 719 7 0 eyes 
+- 728
+R 730 2 0 All 
+R 734 1 0 the 
+R 739 3 0 fist
+R 745 2 0 a
+R 749 9 0 gons 
+- 760
+R 765 2 0 The 
+R 769 2 0 bul
+R 772 2 0 lets 
+R 776 2 0 and 
+R 780 8 0 bombs 
+R 790 3 0 who 
+R 796 2 0 stuff 
+R 801 1 0 the 
+R 806 4 0 banks 
+- 812
+R 819 3 0 Who 
+R 825 4 0 staff 
+R 831 2 0 the 
+R 835 4 0 par
+R 840 2 0 ty 
+R 844 4 0 ranks 
+- 850
+R 863 5 0 More 
+R 870 2 0 for 
+R 875 5 0 Gore 
+R 882 2 0 or 
+R 885 2 0 the 
+R 891 2 0 son 
+R 894 2 0 of 
+R 897 2 0 a 
+R 903 4 0 drug 
+R 910 5 0 lord 
+- 917
+R 919 3 0 None 
+R 923 2 0 of 
+R 927 2 0 the 
+R 930 2 0 a
+R 935 7 0 bove 
+- 944
+R 958 3 0 Cut 
+R 963 2 0 the 
+R 968 8 0 cord 
+- 978
+R 986 5 0 Lights 
+R 995 7 0 out 
+- 1004
+R 1014 3 0 Guer
+R 1018 2 0 ril
+R 1021 3 0 la 
+R 1025 4 0 ra
+R 1030 2 0 di
+R 1033 10 0 o 
+- 1045
+R 1072 5 0 Turn 
+R 1079 3 0 that 
+R 1093 4 0 up 
+- 1099
+R 1110 5 0 Lights 
+R 1119 7 0 out 
+- 1128
+R 1138 2 0 Guer
+R 1142 2 0 ril
+R 1146 2 0 la 
+R 1150 4 0 ra
+R 1155 2 0 di
+R 1158 10 0 o 
+- 1170
+R 1195 6 0 Turn 
+R 1203 4 0 that 
+R 1217 4 0 up 
+- 1223
+R 1233 5 0 Lights 
+R 1242 7 0 out 
+- 1251
+R 1261 2 0 Guer
+R 1265 3 0 ril
+R 1269 3 0 la 
+R 1273 4 0 ra
+R 1278 1 0 di
+R 1281 10 0 o 
+- 1293
+R 1319 6 0 Turn 
+R 1327 4 0 that 
+R 1341 4 0 up 
+- 1347
+R 1357 4 0 Lights 
+R 1366 6 0 out 
+- 1374
+R 1384 3 0 Guer
+R 1388 3 0 ril
+R 1392 2 0 la 
+R 1396 4 0 ra
+R 1401 2 0 di
+R 1404 10 0 o 
+- 1416
+R 1464 5 0 Con
+R 1472 4 0 tact 
+R 1480 2 0 I 
+R 1485 4 0 high
+R 1493 4 0 jacked 
+R 1500 2 0 the 
+R 1505 3 0 fre
+R 1511 4 0 quen
+R 1519 6 0 cies 
+- 1527
+R 1534 3 0 Bloc
+R 1539 1 0 kin’ 
+R 1542 2 0 the 
+R 1547 5 0 belt
+R 1554 5 0 way 
+R 1561 4 0 move 
+R 1568 2 0 on 
+R 1573 4 0 D
+R 1580 6 0 C 
+- 1588
+R 1595 3 0 Way 
+R 1601 4 0 past 
+R 1608 2 0 the 
+R 1612 5 0 days 
+R 1620 2 0 of 
+R 1626 4 0 bom
+R 1631 1 0 bin’ 
+R 1635 2 0 M
+R 1641 4 0 C’s 
+R 1650 5 0 sound 
+R 1657 6 0 off 
+- 1665
+R 1674 3 0 Mu
+R 1679 2 0 mi
+R 1682 2 0 a 
+R 1687 5 0 gwan 
+R 1694 4 0 be 
+R 1702 6 0 free 
+R 1709 3 0 who 
+R 1716 5 0 got 
+R 1722 2 0 ’em? 
+- 1726
+R 1730 4 0 Yo 
+R 1740 2 0 check 
+R 1745 2 0 the 
+R 1750 2 0 fe
+R 1754 2 0 de
+R 1757 2 0 ral 
+R 1762 7 0 file 
+- 1771
+R 1775 6 0 All 
+R 1782 2 0 you 
+R 1788 3 0 pen 
+R 1794 2 0 de
+R 1798 2 0 vils 
+R 1802 3 0 know 
+R 1807 1 0 the 
+R 1813 5 0 trial 
+R 1819 2 0 was 
+R 1825 7 0 vile 
+- 1834
+R 1839 4 0 Ar
+R 1845 1 0 my 
+R 1847 1 0 of 
+R 1852 4 0 pigs 
+R 1861 3 0 try 
+R 1865 1 0 to 
+R 1870 3 0 si
+R 1874 2 0 lence 
+R 1879 3 0 my 
+R 1887 2 0 style 
+- 1891
+R 1893 2 0 Off 
+R 1897 2 0 ’em 
+R 1902 4 0 all 
+R 1907 2 0 out 
+R 1911 2 0 that 
+R 1916 4 0 box 
+R 1923 2 0 it’s 
+R 1929 3 0 my 
+G 1934 3 0 ra
+G 1938 1 0 di
+G 1940 4 0 o 
+G 1947 9 0 dial 
+- 1958
+R 1965 5 0 Lights 
+R 1974 7 0 out 
+- 1983
+R 1993 3 0 Guer
+R 1997 2 0 ril
+R 2001 3 0 la 
+R 2005 4 0 ra
+R 2010 2 0 di
+R 2013 10 0 o 
+- 2025
+R 2050 5 0 Turn 
+R 2058 4 0 that 
+R 2073 4 0 up 
+- 2079
+R 2088 5 0 Lights 
+R 2097 7 0 out 
+- 2106
+R 2115 3 0 Guer
+R 2120 2 0 ril
+R 2123 2 0 la 
+R 2127 4 0 ra
+R 2132 1 0 di
+R 2135 10 0 o 
+- 2147
+R 2173 6 0 Turn 
+R 2180 4 0 that 
+R 2196 4 0 up 
+- 2202
+G 2210 5 0 Lights 
+G 2219 7 0 out 
+- 2228
+R 2237 3 0 Guer
+R 2241 2 0 ril
+R 2245 2 0 la 
+R 2249 4 0 ra
+R 2254 2 0 di
+R 2257 10 0 o 
+- 2269
+R 2295 6 0 Turn 
+R 2303 4 0 that 
+R 2319 4 0 up 
+- 2325
+R 2333 5 0 Lights 
+R 2341 7 0 out 
+- 2350
+G 2358 4 0 Guer
+G 2363 2 0 ril
+G 2367 2 0 la 
+G 2371 3 0 ra
+G 2376 1 0 di
+G 2378 11 0 o 
+- 2391
+R 2416 6 0 Turn 
+R 2423 4 0 that 
+R 2438 6 0 up 
+- 2446
+R 3415 4 0 It 
+R 3422 4 0 has 
+R 3428 2 0 to 
+R 3435 5 0 start 
+R 3445 5 0 some
+R 3452 9 0 where 
+- 3463
+R 3477 2 0 It 
+R 3481 5 0 has 
+R 3490 2 0 to 
+G 3495 5 0 start 
+G 3506 4 0 some
+G 3512 12 0 time 
+- 3526
+R 3535 3 0 What 
+R 3543 3 0 bet
+R 3547 2 0 ter 
+R 3555 5 0 place 
+R 3562 3 0 than 
+R 3568 14 0 here? 
+- 3584
+R 3595 2 0 What 
+R 3604 2 0 bet
+R 3607 3 0 ter 
+G 3614 10 0 time 
+R 3628 4 0 than 
+R 3636 13 0 now? 
+- 3651
+R 3688 14 0 All 
+R 3718 14 0 hell 
+R 3748 5 0 can’t 
+R 3758 4 0 stop 
+R 3764 3 0 us 
+R 3770 15 0 now! 
+- 3787
+R 3809 16 0 All 
+R 3839 16 0 hell 
+R 3870 5 0 can’t 
+R 3880 4 0 stop 
+R 3887 3 0 us 
+R 3894 15 0 now! 
+- 3911
+R 3932 18 0 All 
+R 3963 16 0 hell 
+R 3994 5 0 can’t 
+R 4005 4 0 stop 
+R 4011 3 0 us 
+R 4019 15 0 now! 
+- 4036
+R 4055 18 0 All 
+R 4086 15 0 hell 
+R 4116 6 0 can’t 
+R 4129 4 0 stop 
+R 4134 3 0 us 
+R 4142 17 0 now! 
+- 4161
+R 4179 17 0 All 
+R 4210 17 0 hell 
+R 4241 4 0 can’t 
+R 4252 4 0 stop 
+R 4258 3 0 us 
+R 4266 14 0 now! 
+- 4282
+R 4303 16 0 All 
+R 4334 16 0 hell 
+G 4365 5 0 can’t 
+G 4375 4 0 stop 
+G 4381 3 0 us 
+G 4390 20 0 now! 
+E

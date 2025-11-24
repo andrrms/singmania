@@ -1,0 +1,198 @@
+#ARTIST:Nerf Herder
+#TITLE:Welcome To My World
+#MP3:Nerf Herder - Welcome To My World.mp3
+#CREATOR:rootsrocker
+#YEAR:2002
+#LANGUAGE:English
+#BPM:352.74
+#GAP:6010
+#VIDEO:a=sOIcm9Zey6s,co=american-cheese-5e2b244bb87ed.jpg
+* 0 17 9 WHOA! 
+- 19
+: 128 4 17 Sitting 
+: 136 2 18 in 
+: 140 1 18 my 
+: 144 13 11 boxers 
+- 159
+: 160 4 20 Eating 
+: 167 4 11 apple 
+: 175 8 19 jacks 
+- 185
+* 191 5 16 WELCOME 
+* 199 3 18 TO 
+* 205 1 17 MY 
+* 209 7 12 WORLD! 
+- 218
+* 222 6 13 WELCOME 
+* 232 3 17 TO 
+* 237 2 17 MY 
+* 241 12 9 WORLD! 
+- 255
+: 256 4 20 Whacking 
+: 263 2 9 it 
+: 268 2 20 to 
+: 273 4 20 late 
+: 280 5 10 night 
+: 288 22 18 cinemax 
+- 312
+* 320 5 14 WELCOME 
+* 328 4 17 TO 
+* 335 1 16 MY 
+* 339 9 16 WORLD! 
+- 350
+* 385 20 20 JAGERMEISTER 
+: 408 4 9 and 
+: 415 11 9 Captain 
+: 429 10 18 Crunch 
+- 441
+* 446 22 17 NICOTINE 
+: 471 3 17 and 
+: 476 2 17 the 
+: 480 7 18 Brady 
+: 491 11 16 Bunch 
+- 504
+: 511 2 17 I’m 
+: 516 2 20 building 
+: 521 2 9 a 
+: 526 5 9 boat 
+- 533
+: 536 3 10 Out 
+: 543 2 11 of 
+: 547 6 9 pudding 
+: 557 9 14 cups 
+- 568
+* 579 6 19 WELCOME 
+* 588 3 17 TO 
+* 594 2 17 MY 
+* 599 12 17 WORLD! 
+- 613
+* 641 14 18 WELCOME 
+* 658 2 17 TO 
+* 662 3 20 MY 
+* 668 28 20 WORLD! 
+- 698
+: 705 4 19 NON 
+: 713 5 15 STOP 
+: 721 3 20 NO 
+: 727 4 20 GIRL 
+: 734 14 20 ACTION 
+- 750
+: 752 13 10 WITHOUT 
+: 769 17 9 YOU 
+- 788
+: 962 2 17 This 
+: 967 3 20 old 
+: 973 5 20 shirt 
+: 982 5 10 is 
+: 991 6 9 starting 
+: 1000 2 19 to 
+: 1005 9 19 stink 
+- 1016
+* 1021 3 15 I 
+* 1027 3 18 DON’T 
+* 1033 2 17 GIVE 
+* 1037 2 16 A 
+* 1042 6 17 DAMN 
+* 1050 4 17 WHAT 
+* 1058 9 19 PEOPLE 
+* 1070 9 17 THINK! 
+- 1081
+: 1090 3 20 I 
+: 1095 2 9 can 
+: 1100 2 9 take 
+: 1105 2 9 a 
+: 1109 3 9 leak 
+: 1115 3 10 in 
+: 1120 2 11 the 
+: 1125 5 9 kitchen 
+: 1133 11 19 sink 
+- 1146
+* 1155 6 18 WELCOME 
+* 1164 3 17 TO 
+* 1170 2 16 MY 
+* 1174 11 17 WORLD! 
+- 1187
+: 1219 3 20 No 
+: 1225 4 20 you 
+: 1233 10 9 needn’t 
+: 1248 5 9 shed 
+: 1256 3 20 a 
+: 1262 9 19 tear 
+- 1273
+: 1279 3 20 ’Cause 
+: 1284 2 10 I’ve 
+: 1290 3 12 got 
+: 1297 11 11 waffles 
+- 1310
+: 1311 3 11 And 
+: 1317 3 11 I’ve 
+: 1323 4 9 got 
+* 1330 10 19 BEER 
+- 1342
+: 1347 2 20 And 
+: 1351 2 20 I’ve 
+: 1356 3 9 got 
+: 1362 13 20 Mr. 
+: 1378 25 19 Belvedere 
+- 1405
+* 1408 7 19 WELCOME 
+* 1419 3 17 TO 
+* 1425 2 16 MY 
+* 1429 11 18 WORLD! 
+- 1442
+* 1475 14 18 WELCOME 
+* 1492 2 17 TO 
+* 1497 5 20 MY 
+* 1505 23 19 WORLD! 
+- 1530
+: 1539 5 20 NON 
+: 1547 4 20 STOP 
+: 1555 3 20 NO 
+: 1561 5 20 GIRL 
+: 1569 13 20 ACTION 
+- 1584
+: 1586 11 20 WITHOUT 
+: 1601 14 20 YOU 
+- 1617
+* 1647 21 19 YEAH! 
+- 1670
+: 1932 4 16 DON’T 
+: 1939 4 16 WANT 
+: 1947 4 18 TO 
+: 1954 15 20 BE 
+: 1972 16 17 HERE 
+- 1990
+: 1995 5 20 DON’T 
+: 2004 4 20 WANT 
+: 2011 5 19 TO 
+: 2020 10 19 BE 
+: 2034 5 18 HERE 
+: 2043 13 15 TONIGHT 
+- 2058
+: 2059 4 17 CAN’T 
+: 2067 5 16 STAND 
+: 2075 42 18 ANOTHER 
+- 2119
+: 2133 21 18 EPISODE 
+: 2157 3 18 OF 
+: 2163 5 18 CHEERS 
+: 2171 13 16 TONIGHT 
+- 2186
+: 2187 4 20 I 
+: 2195 5 20 HATE 
+: 2203 4 20 THAT 
+: 2211 29 19 WOODY 
+- 2242
+: 2251 4 18 I 
+: 2259 4 18 HATE 
+: 2267 43 17 DIANE 
+- 2312
+: 2316 14 19 FRASIER 
+: 2333 3 19 AND 
+: 2340 14 19 NORM 
+: 2357 4 16 AND 
+: 2364 7 18 THAT 
+- 2373
+: 2380 11 19 DUMBASS 
+: 2395 47 18 MAILMAN 
+E

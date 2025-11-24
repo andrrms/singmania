@@ -1,0 +1,243 @@
+#ARTIST:Dusty Springfield
+#TITLE:You Don’t Have To Say You Love Me
+#MP3:Dusty Springfield - You Don’t Have To Say You Love Me.mp3
+#CREATOR:Jlk2
+#YEAR:1966
+#LANGUAGE:English
+#BPM:243.03
+#GAP:19940
+#VIDEO:v=QR4vE9xL3yk,co=you-dont-have-to-say-you-love-me-559f43f56cf1c.jpg,bg=springfield-dusty-5048026c50b06.jpg
+: 0 4 2 When 
+* 7 3 4 I 
+* 13 14 5 said 
+: 30 3 9 I 
+: 34 25 10 nee
+: 60 6 9 ded 
+: 68 37 7 you 
+- 107
+: 114 2 0 You 
+: 117 10 2 said 
+- 129
+: 143 3 4 You 
+: 148 3 7 would 
+: 155 10 9 al
+: 166 7 7 ways 
+: 176 32 5 stay 
+- 210
+: 225 2 -2 It 
+: 228 2 -2 was
+: 231 2 0 n’t 
+: 234 14 2 me 
+: 249 4 5 who 
+: 254 21 7 changed 
+: 277 4 5 but 
+: 283 17 4 you 
+- 302
+: 304 3 5 And 
+* 308 20 7 now 
+: 329 4 5 you’ve 
+* 334 17 4 gone 
+: 358 9 5 a
+* 368 35 4 way 
+- 405
+: 427 10 2 Don’t 
+: 438 6 4 you 
+: 445 16 5 see 
+: 462 6 9 That 
+: 469 15 10 now 
+: 485 9 9 you’ve 
+: 495 36 7 gone 
+: 541 5 0 And 
+: 547 4 2 I’m 
+: 552 9 4 left 
+: 562 13 7 here 
+- 577
+: 589 9 9 On 
+: 599 8 7 my 
+: 608 25 5 own 
+- 635
+: 653 3 -2 That 
+: 657 2 0 I 
+: 660 14 2 have 
+: 675 5 5 to 
+: 688 12 7 fol
+: 701 4 5 low 
+: 706 16 4 you 
+: 727 8 5 And 
+: 740 16 7 beg 
+- 758
+: 762 15 4 You 
+- 779
+: 781 4 4 To 
+: 788 6 7 come 
+: 799 39 9 home 
+: 841 7 2 You 
+: 849 9 4 don’t 
+: 859 4 6 have 
+: 864 2 2 to 
+: 867 5 7 say 
+- 874
+: 878 2 6 You 
+: 881 6 4 love 
+: 888 5 2 me 
+: 901 3 4 Just 
+: 905 7 6 be 
+: 913 8 4 close 
+: 922 6 6 at 
+: 929 13 -3 hand 
+- 944
+: 949 10 6 You 
+: 960 3 7 don’t 
+: 964 8 9 have 
+: 973 3 6 to 
+: 977 6 11 stay 
+: 984 5 9 for
+* 990 7 7 e
+: 998 4 6 ver 
+: 1011 4 7 I 
+- 1016
+: 1016 5 9 Will 
+: 1026 4 7 un
+: 1031 5 9 der
+: 1037 14 7 stand 
+- 1053
+: 1057 1 6 Be
+: 1059 9 9 lieve 
+: 1069 10 6 me 
+: 1083 3 6 be
+: 1087 7 9 lieve 
+: 1095 11 6 me 
+: 1110 3 6 I 
+: 1114 15 11 can’t 
+: 1130 4 6 help 
+- 1136
+: 1140 3 4 But 
+: 1144 3 4 love 
+: 1148 7 2 you 
+: 1160 2 2 But 
+: 1163 2 2 be
+: 1166 5 2 lieve 
+* 1172 10 4 me 
+: 1189 3 6 I’ll 
+- 1193
+: 1193 5 7 Ne
+: 1199 5 7 ver 
+: 1205 9 9 tie 
+: 1215 11 11 you 
+: 1227 53 9 down 
+- 1282
+: 1297 5 2 Left 
+: 1303 2 2 a
+: 1306 6 2 lone 
+: 1313 5 4 with 
+: 1319 11 5 just 
+- 1332
+: 1345 5 9 A 
+: 1351 7 10 mem
+: 1359 3 9 o
+: 1363 35 7 ry 
+- 1400
+: 1405 10 0 Life 
+: 1416 6 2 seems 
+: 1423 9 4 dead 
+- 1434
+: 1445 4 7 And 
+: 1450 15 9 so 
+* 1466 7 7 un
+: 1474 31 5 real 
+- 1507
+: 1520 4 -2 All 
+: 1525 6 0 that’s 
+: 1532 12 2 left 
+- 1546
+: 1556 7 5 Is 
+: 1564 13 7 lone
+: 1578 4 5 li
+: 1583 14 4 ness 
+- 1599
+: 1615 6 5 There’s 
+: 1622 5 7 no
+: 1628 13 5 thing 
+: 1647 11 4 left 
+: 1659 12 5 to
+: 1672 31 2 feel 
+- 1705
+: 1719 10 2 You 
+: 1730 6 4 don’t
+: 1737 7 6 have 
+: 1745 1 2 to 
+: 1747 8 7 say 
+: 1756 6 6 you 
+: 1763 7 4 love 
+: 1771 6 2 me 
+: 1778 6 4 Just 
+- 1785
+: 1785 7 6 Be 
+: 1793 9 4 close 
+: 1803 6 6 at 
+: 1810 9 -3 hand 
+- 1821
+: 1836 4 6 You 
+: 1841 3 7 don’t 
+: 1847 6 9 have 
+: 1854 1 6 to 
+: 1856 10 11 stay 
+: 1867 5 9 for
+* 1873 7 7 e
+: 1881 4 5 ver 
+: 1888 12 7 I 
+- 1902
+: 1903 1 9 Will 
+: 1905 2 7 un
+: 1908 2 9 der
+: 1911 11 7 stand 
+- 1924
+: 1936 4 6 Be
+* 1941 11 9 lieve 
+: 1953 32 9 me 
+: 1992 4 6 be
+: 1997 12 11 lieve 
+* 2010 39 11 me 
+: 2050 3 4 You 
+: 2055 13 6 don’t 
+- 2069
+: 2069 4 8 Have 
+: 2074 3 4 to 
+: 2078 8 9 say 
+: 2088 3 8 you 
+: 2092 7 6 love 
+: 2100 3 4 me 
+- 2105
+* 2111 6 6 Just 
+: 2118 5 8 be 
+: 2124 7 6 close 
+: 2132 7 8 at 
+: 2140 15 -1 hand 
+- 2157
+: 2163 7 8 You 
+: 2171 3 9 don’t 
+: 2175 6 11 have 
+: 2182 3 8 to 
+: 2186 9 13 stay 
+: 2196 7 11 for
+: 2204 6 9 e
+: 2211 4 8 ver 
+: 2216 12 9 I 
+- 2229
+: 2229 5 11 Will 
+: 2235 3 9 un
+: 2239 2 11 der
+: 2242 11 9 stand 
+- 2255
+: 2266 6 8 Be
+: 2273 11 11 lieve 
+: 2286 32 11 me 
+: 2319 6 8 be
+: 2326 11 11 lieve 
+: 2338 33 11 me, 
+: 2376 4 8 be
+: 2381 15 13 lie
+: 2397 6 11 ~
+: 2404 5 8 ~ve 
+: 2410 112 11 me 
+E

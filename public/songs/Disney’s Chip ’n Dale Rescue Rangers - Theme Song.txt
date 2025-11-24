@@ -1,0 +1,164 @@
+#ARTIST:Disney’s Chip ’n Dale Rescue Rangers
+#TITLE:Theme Song
+#MP3:Disney’s Chip ’n Dale Rescue Rangers - Theme Song.mp3
+#CREATOR:Supau
+#COVER:Disney’s Chip ’n Dale Rescue Rangers - Theme Song [CO].jpg
+#BACKGROUND:Disney’s Chip ’n Dale Rescue Rangers - Theme Song [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1990
+#LANGUAGE:English
+#BPM:286.03
+#GAP:5690
+#VIDEO:v=PELdq2SIhr4,co=https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png,co-crop=298-1-766-766,bg=https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png
+: 0 8 7 Some
+: 11 12 14 times, 
+: 32 9 7 some 
+: 43 13 14 crimes 
+- 67
+: 71 5 7 Go 
+: 79 2 10 slip
+: 83 6 14 pin’ 
+: 92 6 12 through 
+: 100 5 10 the 
+: 108 9 9 cracks 
+- 118
+: 120 4 6 But 
+: 128 6 7 these 
+: 138 11 14 two 
+: 159 9 7 gum
+: 171 12 14 shoes 
+- 195
+: 199 6 7 Are 
+: 208 1 10 pic
+: 212 6 14 kin’ 
+: 220 6 14 up 
+: 228 5 12 the 
+: 236 6 12 slack 
+- 242
+: 244 1 10 There’s 
+: 248 6 12 no 
+: 256 5 15 case 
+: 264 1 14 too 
+: 268 6 14 big, 
+: 276 5 10 no 
+: 283 6 15 case 
+: 291 5 14 too 
+: 299 9 14 small 
+- 313
+: 315 2 10 When 
+: 319 2 12 you 
+: 324 5 14 need 
+: 332 5 14 help, 
+: 339 5 12 just 
+: 347 5 14 call 
+- 353
+: 355 1 17 Ch-
+: 359 1 17 ch-
+: 363 2 17 ch-
+: 367 2 17 Chip 
+: 371 6 17 ’n 
+: 379 10 16 Dale, 
+: 399 6 16 Res
+: 407 1 12 cue 
+: 411 7 14 Rangers! 
+- 418
+: 420 1 17 Ch-
+: 424 2 17 ch-
+: 427 1 17 ch-
+: 431 2 17 Chip 
+: 435 5 17 ’n 
+: 443 6 16 Dale, 
+: 451 2 19 when 
+: 455 2 17 there’s 
+: 459 4 16 dan
+: 466 7 12 ger 
+- 479
+: 482 2 17 Oh 
+: 487 1 17 no, 
+: 491 1 17 it 
+: 495 3 17 nev
+: 501 2 17 er 
+: 506 9 19 fails, 
+: 519 5 17 once 
+: 527 2 15 they’re 
+: 532 5 14 in
+: 539 9 15 volved 
+- 549
+: 551 6 12 Some
+: 559 6 14 how 
+: 567 5 15 what
+: 576 2 19 ev
+: 580 5 17 er’s 
+: 587 5 17 wrong 
+: 595 5 15 gets 
+: 602 7 17 solved 
+- 609
+: 611 1 8 Ch-
+: 615 2 8 ch-
+: 619 1 8 ch-
+: 623 2 8 Chip 
+: 627 6 8 ’n 
+: 636 10 7 Dale, 
+: 655 6 7 Res
+: 664 2 3 cue 
+: 668 6 5 Rangers 
+- 674
+: 676 1 8 Ch-
+: 679 1 8 ch-
+: 683 1 8 ch-
+: 687 2 8 Chip 
+: 691 6 8 ’n 
+: 699 6 7 Dale, 
+: 707 2 10 when 
+: 711 1 8 there’s 
+: 715 5 7 dan
+: 723 6 3 ger 
+- 736
+: 739 2 8 No 
+: 743 1 8 no, 
+: 748 2 8 it 
+: 752 3 8 nev
+: 757 3 8 er 
+: 763 9 10 fails, 
+: 775 5 8 they’ll 
+: 783 6 6 take 
+: 792 1 5 the 
+: 795 9 6 clues 
+- 805
+: 807 5 3 And 
+: 815 5 5 find 
+: 823 5 6 the 
+: 831 5 10 wheres 
+: 839 2 8 and 
+: 843 6 8 whys 
+: 851 5 6 and 
+: 859 6 8 whos 
+- 865
+: 867 1 12 Ch-
+: 871 2 12 ch-
+: 875 2 12 ch-
+: 879 2 12 Chip 
+: 883 5 12 ’n 
+: 891 10 10 Dale, 
+: 911 6 10 Res
+: 919 2 6 cue 
+: 923 6 8 Rangers! 
+- 929
+: 931 2 12 Ch-
+: 935 1 12 ch-
+: 939 1 12 ch-
+: 942 2 12 Chip 
+: 947 5 12 ’n 
+: 955 6 10 Dale, 
+: 963 2 15 When 
+: 967 1 12 there’s 
+: 971 5 10 dan
+: 979 7 6 ger 
+- 992
+: 995 1 12 Ch-
+: 998 1 12 ch-
+: 1003 1 12 ch-
+: 1007 2 12 Chip 
+: 1011 3 12 ’n 
+: 1018 13 13 Dale! 
+E

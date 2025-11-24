@@ -1,0 +1,76 @@
+#ARTIST:Muse
+#TITLE:Exogenesis Symphony Part 3 (Redemption)
+#MP3:Muse - Exogenesis Symphony Part 3 (Redemption).mp3
+#CREATOR:gun8
+#GENRE:Rock
+#YEAR:2009
+#LANGUAGE:English
+#BPM:250
+#GAP:129880
+#VIDEO:a=wRCzchqOSxk,co=the-resistance-50a7c56c2b936.jpg,bg=muse-524d9dadd5acf.jpg,preview=129.88
+#END:266000
+: 0 26 2 Let’s 
+: 32 26 3 start 
+: 64 28 5 o
+: 96 18 3 ver 
+: 124 10 -2 a
+: 137 62 7 gain 
+- 201
+* 209 9 7 Why
+* 219 3 5 ~ 
+: 224 9 5 ca
+: 234 3 3 ~n’t 
+: 239 9 3 we 
+: 255 25 2 sta
+: 281 6 3 ~rt 
+: 288 22 3 it 
+: 318 24 5 o
+: 344 5 3 ~
+: 351 15 3 ver 
+: 378 8 -2 a
+: 388 64 7 gain 
+- 454
+* 460 12 7 Just 
+: 476 10 5 le
+: 487 4 3 ~t 
+: 492 10 3 us 
+: 508 25 2 sta
+: 534 5 3 ~rt 
+: 540 22 3 it 
+: 570 25 5 o
+: 596 5 3 ~
+: 602 14 3 ver 
+: 629 7 -2 a
+: 638 74 7 gain 
+- 714
+* 724 8 -2 And 
+: 734 13 5 we’ll 
+: 751 10 7 be 
+: 765 64 7 good 
+- 831
+: 836 12 7 This 
+: 852 10 5 ti
+: 863 4 3 ~me 
+: 868 12 3 we’ll 
+: 884 54 5 ge
+: 940 8 7 ~t 
+: 950 30 7 it 
+- 982
+: 990 4 0 Mhh 
+: 999 3 0 Get 
+: 1004 3 0 it 
+: 1011 59 8 ri
+* 1072 26 7 ~ght 
+- 1100
+: 1104 10 5 It’s 
+: 1120 10 7 our 
+: 1136 6 7 last 
+: 1151 47 7 chance 
+- 1200
+* 1228 18 9 To
+: 1247 4 7 ~ 
+: 1253 3 7 for
+: 1260 4 7 give 
+: 1266 6 6 our
+: 1278 43 6 selves 
+E

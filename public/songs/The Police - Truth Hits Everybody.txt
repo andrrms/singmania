@@ -1,0 +1,337 @@
+#ARTIST:The Police
+#TITLE:Truth Hits Everybody
+#MP3:The Police - Truth Hits Everybody.mp3
+#CREATOR:bohning
+#EDITION:Rock Band
+#COVER:The Police - Truth Hits Everybody [CO].jpg
+#BACKGROUND:The Police - Truth Hits Everybody [BG].jpg
+#GENRE:Rock
+#YEAR:1978
+#LANGUAGE:English
+#BPM:330.25
+#GAP:3160
+#VIDEO:a=Gbyey6-5IEc,co=https://i.discogs.com/OzXNRdCVyy0b91HqijFHzFmY02hPrtjCjGRhDQezojw/rs:fit/g:sm/q:90/h:402/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzc5/NDYtMTM1MTE4OTIy/MS0yNDY2LmpwZWc.jpeg,bg=police-the-545729c302906.jpg
+: 0 3 8 Woah
+: 4 3 6 ~
+: 8 4 4 ~ 
+- 14
+: 65 2 8 Woah
+: 68 4 6 ~
+: 73 3 4 ~ 
+- 78
+* 129 3 8 Woah
+* 133 3 6 ~
+* 137 4 4 ~ 
+- 143
+: 225 3 4 Sleep 
+: 229 3 4 lay 
+: 234 2 4 be
+: 237 4 4 hind 
+: 242 2 4 me 
+: 245 3 4 like 
+: 249 1 4 a 
+: 253 3 3 bro
+: 258 7 1 ken 
+: 266 5 3 o
+: 272 3 1 ~
+: 278 5 1 cean 
+- 285
+: 290 2 4 Strange 
+: 294 3 4 wa
+: 298 3 4 king 
+: 302 3 4 dreams 
+: 307 2 4 be
+: 311 3 4 fore 
+: 315 2 4 my 
+: 318 4 3 eyes 
+: 324 4 1 un
+: 331 7 1 fold 
+- 340
+* 354 3 4 You 
+* 358 3 4 lay 
+* 362 2 4 there 
+* 367 3 4 slee
+* 371 2 4 ping 
+* 375 3 4 like 
+* 380 2 4 an 
+* 383 3 3 o
+* 387 3 1 pen 
+* 395 6 3 doo
+* 402 5 1 ~r 
+* 408 4 1 way 
+- 414
+: 420 1 4 I 
+: 424 1 4 stepped 
+: 427 2 4 out
+: 432 3 4 side 
+: 436 2 4 my
+: 440 3 4 self 
+: 444 2 4 and 
+: 448 2 3 felt 
+: 454 3 1 so 
+: 460 6 1 cold 
+- 468
+: 480 2 1 Take 
+: 484 6 1 a 
+: 492 4 3 look 
+: 501 3 3 at 
+: 508 7 1 my 
+: 517 4 1 new 
+: 525 6 3 toy 
+- 532
+: 533 3 3 I
+: 537 2 -1 t’ll 
+: 541 5 1 blow 
+: 549 7 1 your 
+: 558 7 3 head 
+: 566 4 3 in 
+: 574 5 4 two 
+: 581 5 4 oh 
+: 590 12 8 boy
+: 603 8 4 ~ 
+- 613
+* 626 3 6 Truth 
+* 631 4 8 hits 
+* 639 10 11 ev’
+* 651 2 8 ry
+* 655 11 8 bo
+* 668 2 6 dy
+* 671 4 4 ~ 
+- 677
+: 691 3 6 Truth 
+: 696 3 8 hits 
+: 703 11 11 ev’
+: 715 3 8 ry
+: 719 14 8 one 
+- 735
+* 755 3 6 Truth 
+* 760 3 8 hits 
+* 767 10 11 ev’
+* 779 2 8 ry
+* 784 10 8 bo
+* 795 3 6 dy
+* 799 3 4 ~ 
+- 804
+: 818 4 6 Truth 
+: 823 4 8 hits 
+: 831 10 11 ev’
+: 843 4 8 ry
+: 848 11 8 one 
+- 861
+: 883 3 6 Truth 
+: 887 3 8 hits 
+: 895 10 11 ev’
+: 907 2 8 ry
+: 911 11 8 bo
+: 923 2 6 dy
+: 926 3 4 ~ 
+- 931
+* 946 3 6 Truth 
+* 951 4 8 hits 
+* 959 10 11 ev’
+* 971 3 4 ry
+* 975 2 7 o
+* 978 47 6 ~ne 
+- 1027
+: 1047 1 4 I 
+: 1052 3 4 thought 
+: 1056 2 4 a
+: 1059 3 4 bout 
+: 1064 2 4 it 
+: 1067 2 4 and 
+: 1071 2 4 my 
+: 1076 3 3 dream 
+: 1080 3 1 was 
+: 1088 10 1 bro
+: 1100 4 1 ken 
+- 1106
+: 1113 1 3 I 
+: 1116 2 4 clutch 
+: 1120 4 4 at 
+: 1125 3 4 i
+: 1129 2 4 ma
+: 1133 3 4 ges 
+: 1137 4 4 like 
+: 1145 4 3 dy
+: 1150 4 1 ing 
+: 1156 9 1 breath 
+- 1167
+* 1177 2 4 And 
+* 1180 3 4 I 
+* 1185 3 4 don’t 
+* 1189 4 4 want 
+* 1194 2 4 to 
+* 1197 2 4 make 
+* 1200 2 4 a 
+* 1205 2 3 fuss 
+* 1209 5 1 a
+* 1217 5 3 bou
+* 1223 5 1 ~t 
+* 1229 2 1 it 
+- 1233
+: 1241 3 4 The 
+: 1245 2 4 on
+: 1248 2 4 ly 
+: 1253 2 4 cer
+: 1256 2 4 tain 
+: 1261 2 4 thing 
+: 1264 3 4 in 
+: 1269 3 3 life 
+: 1273 3 1 is 
+: 1281 5 1 death 
+- 1288
+: 1301 2 1 Take 
+: 1305 6 1 a 
+: 1313 3 3 look 
+: 1321 3 3 at 
+: 1329 6 1 my 
+: 1336 5 1 new 
+: 1345 6 3 toy 
+- 1352
+: 1353 3 3 I
+: 1357 2 -1 t’ll 
+: 1361 5 1 blow 
+: 1370 7 1 your 
+: 1378 7 3 head 
+: 1386 4 3 in 
+: 1395 5 4 two 
+: 1402 6 4 oh 
+: 1410 12 8 boy
+: 1423 2 6 ~
+: 1426 6 4 ~ 
+- 1434
+* 1447 2 6 Truth 
+* 1451 3 8 hits 
+* 1459 10 11 ev’
+* 1470 3 8 ry
+* 1475 11 8 bo
+* 1487 4 6 dy
+* 1492 3 4 ~ 
+- 1497
+: 1511 2 6 Truth 
+: 1515 4 8 hits 
+: 1522 10 11 ev’
+: 1533 4 8 ry
+: 1539 15 8 one 
+- 1556
+* 1574 3 6 Truth 
+* 1578 3 8 hits 
+* 1586 11 11 ev’
+* 1598 2 8 ry
+* 1602 11 8 bo
+* 1614 2 6 dy
+* 1617 3 4 ~ 
+- 1622
+: 1637 2 6 Truth 
+: 1641 3 8 hits 
+: 1649 11 11 ev’
+: 1661 3 8 ry
+: 1665 12 8 one 
+- 1679
+: 1700 3 6 Truth 
+: 1705 3 8 hits 
+: 1712 11 11 ev’
+: 1724 2 8 ry
+: 1728 10 8 bo
+: 1740 4 6 dy
+: 1745 2 4 ~ 
+- 1749
+* 1764 2 6 Truth 
+* 1768 3 8 hits 
+* 1776 10 11 ev’
+* 1788 2 4 ry
+* 1791 2 8 o
+* 1794 231 6 ~ne 
+- 2027
+: 2053 19 6 Where 
+: 2073 6 8 you
+: 2080 4 4 ~ 
+: 2085 23 4 want 
+: 2109 2 9 to 
+: 2113 51 8 be 
+- 2166
+: 2181 16 6 Won’t 
+: 2201 6 8 you
+: 2208 3 4 ~ 
+: 2212 18 4 e
+: 2232 3 9 ve
+: 2236 9 8 ~r 
+: 2251 28 6 see 
+- 2281
+* 2823 120 18 Ooh 
+- 2945
+: 2961 2 6 Truth 
+: 2965 4 8 hits 
+: 2972 11 11 ev’
+: 2985 2 8 ry
+: 2989 11 8 bo
+: 3001 3 6 dy
+: 3005 4 4 ~ 
+- 3011
+* 3025 3 6 Truth 
+* 3029 3 8 hits 
+* 3036 11 11 ev’
+* 3048 4 8 ry
+* 3053 15 8 one 
+- 3070
+: 3088 3 6 Truth 
+: 3092 4 8 hits 
+: 3100 10 11 ev’
+: 3111 2 8 ry
+: 3116 11 8 bo
+: 3128 2 6 dy
+: 3131 3 4 ~ 
+- 3136
+* 3151 3 6 Truth 
+* 3156 3 8 hits 
+* 3163 10 8 ev’
+* 3176 2 -1 ry
+* 3179 12 8 one 
+- 3193
+: 3215 3 6 Truth 
+: 3219 4 8 hits 
+: 3227 11 11 ev’
+: 3239 2 8 ry
+: 3243 11 8 bo
+: 3255 3 6 dy
+: 3259 3 4 ~ 
+- 3264
+: 3279 2 6 Truth 
+: 3283 3 8 hits 
+: 3291 11 11 ev’
+: 3303 3 8 ry
+: 3307 9 8 one 
+- 3318
+: 3341 3 6 Truth 
+: 3346 3 8 hits 
+: 3353 10 11 ev’
+: 3365 2 8 ry
+: 3370 10 8 bo
+: 3381 3 6 dy
+: 3385 3 4 ~ 
+- 3390
+: 3404 3 6 Truth 
+: 3409 4 8 hits 
+: 3417 7 8 ev’
+: 3428 2 -1 ry
+: 3433 10 8 one 
+- 3445
+: 3468 3 6 Truth 
+: 3472 4 8 hits 
+: 3480 10 11 ev’
+: 3491 2 8 ry
+: 3496 11 8 bo
+: 3508 2 6 dy
+: 3511 3 4 ~ 
+- 3516
+: 3532 3 6 Truth 
+: 3536 3 8 hits 
+: 3543 10 11 ev’
+: 3555 2 4 ry
+: 3560 2 8 o
+: 3563 31 6 ~
+: 3595 32 8 ~
+: 3628 31 9 ~
+: 3660 23 11 ~ne 
+F 3692 9 10 now! 
+E

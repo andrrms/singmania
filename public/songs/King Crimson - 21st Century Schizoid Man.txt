@@ -1,0 +1,132 @@
+#ARTIST:King Crimson
+#TITLE:21st Century Schizoid Man
+#MP3:King Crimson - 21st Century Schizoid Man.mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero 5
+#GENRE:Progressive Rock
+#YEAR:1969
+#LANGUAGE:English
+#BPM:390.25
+#GAP:48600
+#VIDEO:a=7OvW8Z7kiws,co=https://cdn.gelestatic.it/capital/sites/2/2018/01/21sito.jpg
+#START:29
+: 0 8 19 Cat’s 
+: 23 4 17 foot
+: 28 5 15 ~ 
+- 35
+: 45 9 19 I
+: 57 2 19 ron 
+: 62 4 17 claw
+: 67 7 15 ~ 
+- 76
+: 102 3 19 Neu
+: 106 3 17 ro-
+: 112 4 19 sur
+: 119 3 17 ge
+: 124 5 19 ons 
+- 131
+: 137 14 19 Scream
+: 152 2 15 ~ 
+: 159 3 19 for 
+: 164 5 17 more
+: 170 7 15 ~ 
+- 179
+F 185 1 10 At 
+: 192 4 19 par
+: 198 2 17 a
+: 205 4 19 noi
+: 211 3 17 a’s
+: 215 4 19 ~ 
+- 221
+: 228 8 19 Poi
+: 239 3 19 son 
+: 245 4 17 door
+: 250 9 15 ~ 
+- 261
+: 273 3 10 Twen
+: 278 3 10 ty 
+: 285 5 10 first 
+: 296 8 10 cen
+: 307 7 7 tury 
+: 318 5 10 schi
+: 330 3 10 zoid
+: 334 5 12 ~ 
+: 343 16 12 man 
+- 361
+: 885 13 19 Blood 
+: 907 6 17 rack
+: 914 7 15 ~ 
+- 923
+: 943 7 19 Barb 
+: 954 4 17 wire
+: 959 6 15 ~ 
+- 967
+: 990 3 19 Pol
+: 996 2 17 i
+: 1001 4 19 ti
+: 1007 9 19 cian’s 
+: 1025 3 19 fu
+: 1030 3 17 ner
+: 1034 4 19 al 
+F 1042 11 10 pyre 
+- 1055
+: 1071 2 19 In
+: 1077 2 17 no
+: 1083 4 19 cents 
+: 1095 5 19 raped 
+: 1107 5 19 with 
+: 1119 3 19 na
+: 1125 8 19 palm 
+: 1136 4 17 fire
+: 1141 8 15 ~ 
+- 1151
+: 1164 3 10 Twen
+: 1170 3 10 ty 
+: 1177 6 10 first 
+: 1188 7 10 cen
+: 1199 7 7 tury 
+: 1211 7 10 schi
+: 1222 3 10 zoid
+: 1226 4 12 ~ 
+: 1234 19 12 man 
+- 1255
+: 8294 9 19 Death’s 
+* 8314 5 17 seed
+* 8320 6 15 ~ 
+- 8328
+: 8336 7 19 Blind 
+: 8348 7 19 man’s 
+F 8360 1 10 greed 
+- 8363
+: 8394 1 19 Po
+: 8399 3 17 ets 
+: 8405 4 19 star
+: 8411 4 17 ving
+: 8416 6 19 ~ 
+: 8430 3 17 chil
+: 8434 3 19 ~
+: 8440 3 19 dren 
+F 8446 1 10 bleed 
+- 8449
+: 8471 1 19 No
+: 8476 3 17 thing 
+: 8483 5 19 he’s 
+: 8495 6 19 got 
+- 8503
+: 8510 3 7 He 
+: 8517 3 19 real
+: 8522 6 19 ly 
+: 8534 4 17 needs
+: 8539 5 15 ~ 
+- 8546
+: 8561 4 10 Twen
+: 8567 4 10 ty 
+: 8574 6 10 first 
+* 8585 8 10 cen
+* 8597 6 7 tury 
+* 8609 5 10 schi
+* 8620 2 10 zoid
+* 8623 4 12 ~ 
+: 8632 12 12 man
+: 8645 3 7 ~ 
+E

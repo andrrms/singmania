@@ -1,0 +1,307 @@
+#ARTIST:Hooverphonic
+#TITLE:Anger Never Dies (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - Anger Never Dies (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - Anger Never Dies (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - Anger Never Dies (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:28000
+#VIDEO:a=LCFLsOTjt0E,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 3 2 See 
+: 4 3 1 the 
+: 9 4 2 leaves 
+: 19 2 1 how 
+: 25 5 2 slow 
+: 31 3 1 they 
+: 37 7 2 tum
+: 47 7 4 ble 
+: 57 15 2 down 
+- 82
+: 101 3 2 Cov
+: 105 3 1 er
+: 109 5 2 ing 
+: 115 4 1 the 
+: 122 5 2 green 
+: 129 5 1 and 
+: 136 5 2 yel
+: 144 9 4 low 
+: 155 16 1 lawn 
+- 181
+: 197 2 -3 As 
+: 201 4 2 proof 
+: 207 2 1 of 
+: 212 5 2 what 
+: 218 2 1 has 
+: 224 5 2 been 
+: 230 5 1 and 
+: 236 6 2 what 
+: 245 12 4 will 
+: 259 13 2 come 
+- 282
+: 296 3 -5 En
+: 303 3 2 joy
+: 307 4 1 ing 
+: 312 4 2 ha
+: 319 4 1 zy 
+: 324 5 2 light 
+: 330 5 1 of 
+: 338 9 2 ear
+: 350 6 4 ly 
+: 360 16 1 dawn 
+- 387
+: 391 4 -1 It 
+: 397 5 1 ain’t 
+: 403 4 2 good 
+: 410 2 4 e
+: 413 6 2 nough 
+- 426
+: 429 4 2 Good 
+: 435 3 4 e
+: 439 7 2 nough 
+- 452
+: 455 4 2 Good 
+: 460 2 4 e
+: 463 4 2 nough 
+* 470 2 4 to 
+* 476 5 5 try 
+* 482 4 4 and 
+* 488 3 2 not 
+* 495 4 -2 suc
+* 505 18 -5 ceed 
+- 533
+: 545 5 -3 Suc
+: 553 23 -1 ceed
+: 578 11 1 ~ 
+- 599
+* 607 9 7 An
+* 619 8 6 ger 
+* 629 9 4 ne
+* 641 5 6 ver 
+* 650 8 0 dies 
+- 668
+: 676 3 0 It’s 
+: 681 2 2 part
+: 684 6 2 ~ 
+: 692 2 0 of 
+: 698 10 -1 life 
+- 720
+: 724 5 -1 It’s 
+: 731 10 -1 part 
+: 743 6 -3 of 
+: 751 13 6 you 
+- 774
+: 802 3 -3 The 
+: 808 9 7 end 
+: 818 7 6 will
+: 826 1 4 ~ 
+: 830 10 4 cease 
+: 844 3 6 the 
+: 853 8 0 fire 
+- 873
+: 877 5 0 And 
+: 883 4 2 make 
+: 890 4 2 us 
+: 896 2 -1 ac 
+: 900 13 0 cept 
+- 923
+: 927 3 -1 We 
+: 934 7 -1 tend 
+: 943 5 -3 to 
+: 952 3 4 lose
+: 957 15 6 ~
+: 979 18 6 ~
+: 999 10 4 ~
+: 1010 26 2 ~ 
+- 1056
+: 1111 2 2 See 
+: 1115 3 1 the 
+: 1120 7 2 tears 
+: 1130 3 1 how 
+: 1136 6 2 slow 
+: 1143 3 1 they 
+: 1149 5 2 tum
+: 1157 7 4 ble 
+: 1168 14 2 down 
+- 1192
+: 1212 2 2 Cov
+: 1215 5 1 er
+: 1221 5 2 ing 
+: 1230 2 1 be
+: 1234 7 2 lieve 
+: 1243 3 1 in 
+: 1248 5 2 emp
+: 1257 5 4 ty 
+: 1270 12 1 vows 
+- 1292
+: 1309 2 -3 As 
+: 1313 3 2 proof 
+: 1317 2 1 of 
+: 1322 5 2 what 
+: 1328 2 1 has 
+: 1334 5 2 been 
+: 1340 5 1 and 
+: 1346 6 2 what 
+: 1355 12 4 will 
+: 1369 13 2 be 
+- 1392
+: 1415 3 2 Al
+: 1420 1 1 co
+: 1423 4 2 hol 
+: 1437 3 2 puts 
+: 1443 2 1 us 
+: 1450 5 2 both 
+: 1457 3 2 to
+: 1462 8 4 ~ 
+: 1475 16 1 sleep 
+- 1500
+: 1503 4 -1 It 
+: 1509 4 1 ain’t 
+: 1515 5 2 good 
+: 1522 2 4 e
+: 1525 5 2 nough 
+- 1538
+: 1541 5 2 Good 
+: 1547 3 4 e
+: 1551 5 2 nough 
+- 1563
+: 1566 4 2 Good 
+: 1572 2 4 e
+: 1575 4 2 nough 
+: 1582 2 4 to 
+: 1588 4 5 try 
+: 1594 4 4 and 
+: 1599 4 2 not 
+: 1605 4 -2 suc
+: 1614 19 -3 ceed 
+- 1643
+: 1658 3 -3 Suc
+: 1663 25 -1 ceed
+: 1690 12 1 ~ 
+- 1712
+: 1719 9 7 An
+: 1731 8 6 ger 
+: 1741 9 4 ne
+: 1753 5 6 ver 
+: 1762 8 0 dies 
+- 1780
+: 1787 4 0 It’s 
+: 1795 5 2 part 
+: 1804 3 0 of 
+: 1810 9 -1 life 
+- 1829
+: 1837 3 -1 It’s 
+: 1843 9 -1 part 
+: 1854 5 -3 of 
+: 1864 13 6 you 
+- 1887
+: 1913 3 -3 The 
+: 1919 9 7 end 
+: 1929 7 6 will
+: 1937 1 4 ~ 
+: 1941 10 4 cease 
+: 1955 3 6 the 
+: 1964 8 0 fire 
+- 1982
+: 1990 3 0 And 
+: 1995 4 2 make 
+: 2001 4 2 us 
+: 2006 4 -1 ac
+: 2012 9 -1 cept 
+: 2038 5 -1 we 
+: 2046 6 -1 tend 
+: 2054 6 -3 to 
+: 2066 2 4 lo
+: 2069 26 6 ~
+: 2096 5 6 ~
+: 2102 4 6 ~
+: 2107 2 4 ~
+: 2110 11 4 ~
+: 2122 31 2 se 
+- 2193
+: 2578 9 7 An
+: 2590 8 6 ger 
+: 2600 9 4 ne
+: 2612 5 6 ver 
+: 2621 8 0 dies 
+- 2639
+: 2646 4 0 It’s 
+: 2654 5 2 part 
+: 2663 3 0 of 
+: 2669 9 -1 life 
+- 2688
+: 2696 3 -1 It’s 
+: 2702 9 -1 part 
+: 2713 5 -3 of 
+: 2723 13 6 you 
+- 2746
+: 2772 3 -3 The 
+: 2778 9 7 end 
+: 2788 7 6 will
+: 2796 1 4 ~ 
+: 2800 10 4 cease 
+: 2814 3 6 the 
+: 2823 8 0 fire 
+- 2841
+: 2848 3 0 And 
+: 2853 4 2 make 
+: 2859 4 2 us 
+: 2864 4 0 ac
+: 2870 9 -1 cept 
+: 2896 5 -1 we 
+: 2904 6 -1 tend 
+: 2912 6 -3 to 
+: 2924 2 4 lo
+: 2927 26 6 ~ 
+- 2963
+: 2979 9 7 An
+: 2991 7 6 ger 
+: 3001 11 4 ne
+: 3015 6 6 ver 
+: 3025 13 9 dies 
+: 3047 5 9 it’s 
+: 3057 7 9 part 
+: 3066 4 9 of 
+: 3072 15 7 life 
+- 3096
+: 3100 3 7 It’s 
+: 3107 8 7 part 
+: 3116 4 9 of 
+: 3123 13 6 you 
+- 3156
+: 3176 3 6 The 
+: 3182 9 7 end 
+: 3192 7 6 will
+: 3200 1 4 ~ 
+: 3204 10 4 cease 
+: 3218 3 6 the 
+: 3227 19 9 fire 
+- 3250
+: 3252 3 9 And 
+: 3257 4 9 make 
+: 3263 4 9 us 
+: 3268 4 9 ac
+: 3274 9 7 cept 
+- 3293
+: 3301 3 7 We 
+: 3308 7 7 tend 
+: 3318 4 9 to 
+: 3324 22 6 lo
+: 3348 12 6 ~
+: 3361 3 6 ~
+: 3366 5 6 ~
+: 3372 11 4 ~
+: 3384 14 2 se 
+: 3404 4 -1 we 
+: 3412 8 2 tend 
+: 3424 9 4 to 
+- 3439
+* 3442 19 5 Lo
+* 3464 14 4 ~
+* 3482 15 2 ~
+* 3501 14 -2 ~
+* 3522 17 -3 se 
+- 3549
+* 3577 66 -3 Lose 
+E

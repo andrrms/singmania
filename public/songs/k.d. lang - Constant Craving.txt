@@ -1,0 +1,187 @@
+#ARTIST:k.d. lang
+#TITLE:Constant Craving
+#MP3:k.d. lang - Constant Craving.mp3
+#CREATOR:bohning
+#EDITION:SingStar Vol. 3: Party Edition
+#COVER:k.d. lang - Constant Craving [CO].jpg
+#BACKGROUND:k.d. lang - Constant Craving [BG].jpg
+#YEAR:1992
+#LANGUAGE:English
+#BPM:256.2
+#GAP:15800
+#VIDEO:v=oXqPjx94YMg,co=https://i.discogs.com/u49TPz5UtJkr7ba8U1WybeXL5N591V6Di58DbJNYDEY/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTAw/Ni0xMzA0OTcwMzMz/LmpwZWc.jpeg,bg=lang-kd-5144f26f02722.jpg,medley=1536-1984
+: 0 30 12 E
+* 32 19 19 ven 
+: 55 4 17 through 
+: 60 10 19 the 
+: 72 11 20 dar
+: 87 8 12 kest 
+: 96 12 13 phase 
+- 110
+: 128 30 12 Be 
+: 159 16 19 it 
+: 184 3 17 thick 
+: 188 8 19 or 
+: 199 49 20 thin 
+- 250
+: 256 30 12 Al
+: 288 17 19 ways 
+: 311 4 17 some
+: 316 10 19 one 
+: 328 11 20 mar
+: 343 8 12 ches 
+: 352 14 13 brave 
+- 368
+: 384 22 12 Here 
+: 407 4 19 be
+: 412 8 17 ~
+: 421 12 17 neath 
+: 439 12 19 my 
+* 454 47 20 skin 
+- 503
+: 508 3 17 And 
+: 512 30 20 con
+: 543 25 19 stant 
+: 575 23 19 cra
+: 599 7 17 ~
+: 607 17 17 ving 
+- 626
+: 636 3 17 Has 
+: 640 26 20 a
+: 667 11 18 ~l
+: 679 19 18 way
+: 699 11 17 ~s 
+: 711 19 17 been 
+- 732
+* 768 30 12 May
+: 800 15 19 be 
+: 823 4 17 a 
+: 828 10 19 great 
+: 840 11 20 mag
+: 855 5 12 net 
+: 864 16 13 pulls 
+- 882
+: 896 29 12 All 
+: 928 19 19 souls 
+: 956 3 17 to
+: 960 7 19 wards 
+: 970 46 20 truth 
+- 1018
+: 1030 3 12 Or 
+: 1035 20 12 may
+: 1056 18 19 be 
+: 1080 3 17 it 
+: 1084 8 19 is 
+: 1096 11 20 life 
+: 1112 5 12 it
+: 1120 12 13 self 
+- 1134
+: 1144 4 10 Feeds 
+: 1152 3 10 wi
+* 1156 26 12 ~s
+: 1184 4 17 do
+: 1189 11 19 ~m 
+- 1202
+: 1212 3 17 To 
+: 1216 5 19 its 
+: 1224 51 20 youth 
+- 1277
+: 1280 29 20 Con
+: 1312 25 19 stant 
+: 1344 23 19 cra
+: 1368 7 17 ~
+: 1376 17 17 ving 
+- 1395
+: 1404 3 17 Has 
+* 1408 26 20 a
+: 1435 11 18 ~l
+: 1447 19 18 way
+: 1467 12 17 ~s 
+: 1480 19 17 been 
+- 1501
+: 1536 27 19 Cra
+: 1564 11 17 ~
+: 1576 13 17 ving 
+- 1591
+: 1624 7 20 Ah 
+: 1633 5 22 ha
+: 1639 35 24 ~ 
+- 1676
+: 1680 7 20 Con
+: 1688 7 19 stant 
+: 1696 26 19 cra
+: 1723 5 17 ~
+: 1729 16 17 ving 
+- 1747
+: 1752 6 19 Has 
+: 1760 55 19 al
+: 1816 15 20 ways 
+: 1836 18 17 been 
+- 1856
+: 1880 7 17 Has 
+: 1888 20 19 a
+: 1909 1 17 ~
+: 1911 26 15 ~
+: 1938 1 13 ~
+: 1940 12 12 ~l
+: 1953 14 12 ways 
+: 1968 16 13 been 
+- 1986
+* 2528 30 20 Con
+: 2559 25 19 stant 
+: 2591 21 19 cra
+: 2613 9 17 ~
+: 2623 17 17 ving 
+- 2642
+: 2652 3 17 Has 
+: 2656 26 20 a
+: 2683 11 18 ~l
+: 2695 19 18 way
+: 2715 11 17 ~s 
+* 2727 25 17 been 
+- 2754
+* 2784 30 20 Con
+: 2815 29 19 stant 
+: 2847 24 19 cra
+: 2872 6 17 ~
+: 2879 17 17 ving 
+- 2898
+: 2907 4 17 Has 
+: 2912 22 20 a
+: 2935 15 18 ~l
+: 2951 20 18 ways 
+* 2976 24 20 been 
+- 3002
+: 3040 27 19 Cra
+: 3068 11 17 ~
+: 3080 13 17 ving 
+- 3095
+: 3127 7 20 Ah 
+: 3136 5 22 ha
+: 3142 35 24 ~ 
+- 3179
+: 3184 6 20 Con
+: 3191 7 19 stant 
+: 3200 26 19 cra
+: 3227 5 17 ~
+: 3233 16 17 ving 
+- 3251
+: 3255 7 17 Has 
+: 3263 56 19 al
+: 3320 15 20 ways 
+: 3340 18 17 been 
+- 3360
+: 3383 7 19 Has 
+: 3391 55 19 al
+* 3447 19 20 ways 
+: 3467 18 17 been 
+- 3487
+: 3510 7 19 Has 
+: 3519 4 19 a
+: 3524 1 17 ~
+: 3526 38 15 ~l
+: 3565 4 15 way
+: 3570 1 13 ~
+: 3572 17 12 ~s 
+: 3590 23 13 been 
+E

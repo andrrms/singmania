@@ -1,0 +1,374 @@
+#ARTIST:Bon Jovi
+#TITLE:This Is Love This Is Life
+#MP3:Bon Jovi - This Is Love This Is Life.mp3
+#CREATOR:goldenouille
+#GENRE:Rock
+#YEAR:2010
+#LANGUAGE:English
+#BPM:243.96
+#GAP:8130
+#VIDEO:a=YrLxTjqm6Zg,co=greatest-hits-the-ultimate-collection-54bae4eb6b822.jpg,bg=bon-jovi-5219a5d43ad1d.jpg
+: 0 3 5 These 
+: 4 7 5 days 
+: 12 7 5 what’s 
+: 20 8 5 left 
+: 29 3 5 of 
+: 33 3 5 me
+: 37 3 3 ~ 
+: 41 6 3 ain’t 
+: 48 5 3 no 
+: 55 7 -4 Prince 
+: 63 8 -2 Char
+: 72 12 1 ming 
+- 86
+: 123 3 1 And 
+: 127 3 3 my 
+: 131 4 5 Cin
+: 136 3 5 de
+: 140 3 5 rel
+: 144 3 5 la 
+: 148 6 5 feels 
+: 155 3 5 like 
+: 159 3 5 she 
+: 163 7 3 stayed 
+: 171 3 3 at 
+: 175 3 3 the 
+: 179 7 5 dance 
+: 187 3 -2 too 
+: 191 15 1 long 
+- 208
+: 255 3 0 We 
+: 259 7 1 ain’t 
+: 267 7 1 got 
+: 275 4 1 much 
+: 280 2 1 but 
+: 283 3 1 what 
+: 287 3 1 we 
+: 291 7 0 got 
+: 299 3 0 is 
+: 303 7 1 all 
+: 311 7 -4 that 
+: 319 7 -2 mat
+: 327 15 1 ters 
+- 344
+: 383 4 1 We’re 
+: 388 3 5 pi
+: 392 3 5 ckin’ 
+: 396 3 5 up 
+: 400 3 5 the 
+: 404 3 5 pie
+: 408 3 5 ces, 
+: 412 3 5 tryin’ 
+: 416 3 5 to 
+: 420 3 3 put 
+: 424 3 3 ’em 
+: 428 3 3 back 
+: 432 4 3 where 
+: 437 5 6 they 
+: 443 4 -2 be
+: 448 20 1 long 
+- 470
+: 484 10 5 Oh 
+: 495 9 6 oh, 
+: 505 3 5 it’s 
+: 509 2 5 gon
+: 512 3 5 na 
+: 516 3 5 be 
+: 520 7 3 al
+: 528 11 5 right 
+- 541
+: 547 3 5 This 
+: 551 6 5 is 
+: 558 8 6 lo
+: 567 7 5 ve, 
+: 575 6 5 this 
+: 583 7 3 is 
+: 591 11 3 life 
+- 604
+: 607 4 5 When 
+: 612 6 5 times 
+: 619 7 5 get 
+: 627 4 5 tough 
+: 632 3 5 we’re 
+: 636 6 5 still 
+: 643 7 5 worth 
+: 651 4 1 the 
+: 656 11 1 fight 
+- 669
+: 675 3 5 This 
+: 679 7 5 is 
+: 687 8 6 lo
+: 696 7 5 ve, 
+: 704 7 5 this 
+: 712 7 3 is 
+: 720 11 3 life 
+- 733
+: 735 3 5 The 
+: 739 7 5 road 
+: 747 4 5 here
+: 752 3 5 ’s 
+: 756 7 5 paved 
+: 764 3 5 with 
+: 768 3 5 the 
+: 772 7 5 bro
+: 780 2 1 ken
+: 783 8 1 hear
+: 792 12 5 ted 
+- 806
+: 808 3 5 We 
+: 812 2 5 got
+: 815 3 5 ta 
+: 819 3 5 fi
+: 823 7 5 nish 
+: 831 6 3 what 
+: 838 8 3 we 
+: 847 11 5 star
+: 859 5 3 ted 
+- 866
+: 867 30 5 Ohhh, 
+: 900 3 5 bet
+: 904 7 1 ter 
+: 912 6 1 hold 
+: 919 6 1 on 
+: 926 13 5 tight 
+- 941
+: 946 7 5 This 
+: 954 7 5 is 
+: 962 15 3 love, 
+: 978 4 1 this 
+: 983 10 0 is 
+: 994 5 1 li
+: 1000 9 -2 fe 
+- 1011
+: 1047 3 1 These 
+: 1051 3 1 days 
+: 1055 3 3 it 
+: 1059 7 5 seems 
+: 1067 7 5 like 
+: 1075 7 5 there’s 
+: 1083 7 5 three 
+: 1091 7 3 sides 
+: 1099 4 1 to 
+: 1104 14 5 ev
+: 1119 3 -4 ery 
+: 1123 4 -2 sto
+: 1128 12 1 ry 
+- 1142
+: 1183 4 1 There’s 
+: 1188 14 5 yours, 
+: 1203 15 5 mine, 
+: 1219 3 3 lat
+: 1223 3 3 ely 
+: 1227 3 3 there’s 
+: 1231 4 3 the 
+: 1236 7 5 cold 
+: 1244 7 3 hard 
+: 1252 3 1 tru
+: 1256 16 -2 th 
+- 1274
+: 1304 3 -2 Who 
+: 1308 2 1 cares 
+: 1311 3 3 who’s 
+: 1315 7 5 wrong 
+: 1323 3 5 or 
+: 1327 7 5 right 
+: 1339 3 5 when 
+: 1343 3 5 we 
+: 1347 3 5 turn 
+: 1351 3 3 out 
+: 1355 3 3 the 
+: 1359 6 3 lights? 
+- 1367
+: 1368 2 3 We’ll 
+: 1371 3 3 find 
+: 1375 3 3 for
+: 1379 3 1 give
+: 1383 3 3 ness 
+: 1387 3 3 when 
+: 1391 3 3 we’re 
+: 1395 3 3 in 
+: 1399 3 3 each 
+: 1403 3 3 o
+: 1407 3 5 ther’s 
+: 1411 7 3 arms 
+: 1419 2 1 to
+: 1422 10 -2 night 
+- 1434
+: 1435 3 1 It 
+: 1439 3 3 ain’t 
+: 1443 3 5 pret
+: 1447 3 5 ty 
+: 1451 3 5 but 
+: 1455 3 5 some
+: 1459 6 5 how 
+: 1466 3 5 we 
+: 1471 7 5 al
+: 1479 7 3 ways 
+: 1487 8 5 make 
+: 1496 6 -2 it 
+: 1503 3 1 throu
+: 1507 13 1 gh 
+- 1522
+: 1539 11 5 Oh 
+: 1551 8 6 oh, 
+: 1560 3 5 it’s 
+: 1564 2 5 gon
+: 1567 3 5 na 
+: 1571 3 5 be 
+: 1575 7 3 al
+: 1583 11 5 right 
+- 1596
+: 1603 4 5 This 
+: 1608 6 5 is 
+: 1615 7 6 lo
+: 1623 7 5 ve, 
+: 1631 8 5 this 
+: 1640 7 3 is 
+: 1648 9 3 life 
+- 1659
+: 1663 3 5 When 
+: 1667 7 5 times 
+: 1675 7 5 get 
+: 1683 4 5 tough 
+: 1688 3 5 we’re 
+: 1692 6 5 still 
+: 1699 7 5 worth 
+: 1707 3 1 the 
+: 1711 14 1 fight 
+- 1727
+: 1731 4 5 This 
+: 1736 7 5 is 
+: 1744 7 6 lo
+: 1752 6 5 ve, 
+: 1760 7 5 this 
+: 1768 6 3 is 
+: 1775 13 3 life 
+- 1790
+: 1791 3 5 The 
+: 1795 7 5 road 
+: 1803 2 5 here
+: 1806 3 5 ’s 
+: 1810 9 5 paved 
+: 1820 2 5 with 
+: 1823 3 5 the 
+: 1827 7 5 bro
+: 1835 4 1 ken
+: 1840 6 1 hear
+: 1847 10 5 ted 
+- 1859
+: 1863 3 5 We 
+: 1867 3 5 got
+: 1871 3 5 ta 
+: 1875 3 5 fi
+: 1879 7 5 nish 
+: 1887 7 3 what 
+: 1895 7 3 we 
+: 1903 10 5 star
+: 1914 6 3 ted 
+- 1922
+: 1923 32 5 Ohhh, 
+: 1956 3 5 bet
+: 1960 6 1 ter 
+: 1967 7 1 hold 
+: 1975 8 1 on 
+: 1984 11 5 tight 
+- 1997
+: 2002 7 5 This 
+: 2010 8 5 is 
+: 2019 11 3 love, 
+: 2034 4 1 this 
+: 2039 10 0 is 
+: 2050 4 1 li
+: 2055 10 -2 fe 
+- 2067
+: 2371 12 5 Oh 
+: 2384 7 6 oh, 
+: 2392 3 5 it’s 
+: 2396 3 5 gon
+: 2400 3 5 na 
+: 2404 3 5 be 
+: 2408 8 3 al
+: 2417 9 5 right 
+- 2428
+: 2436 3 5 This 
+: 2440 5 5 is 
+: 2446 8 6 lo
+: 2455 8 5 ve, 
+: 2464 6 5 this 
+: 2471 7 3 is 
+: 2479 10 3 life 
+- 2491
+: 2495 4 5 When 
+: 2500 7 5 times 
+: 2508 6 5 get 
+: 2515 3 5 tough 
+: 2519 4 5 we’re 
+: 2524 7 5 still 
+: 2532 7 5 worth 
+: 2540 3 1 the 
+: 2544 10 1 fight 
+- 2556
+: 2563 4 5 This 
+: 2568 7 5 is 
+: 2576 7 6 lo
+: 2584 7 5 ve, 
+: 2592 7 5 this 
+: 2600 7 3 is 
+: 2608 10 3 life 
+- 2620
+: 2623 3 5 The 
+: 2627 7 5 road 
+: 2635 2 5 here
+: 2638 3 5 ’s 
+: 2642 8 5 paved 
+: 2651 3 5 with 
+: 2655 4 5 the 
+: 2660 6 5 bro
+: 2667 4 1 ken
+: 2672 6 1 hear
+: 2679 13 5 ted 
+- 2694
+: 2696 3 5 We 
+: 2700 3 5 got
+: 2704 3 5 ta 
+: 2708 3 5 fi
+: 2712 7 5 nish 
+: 2720 7 3 what 
+: 2728 6 3 we 
+: 2735 11 5 star
+: 2747 5 3 ted 
+- 2754
+: 2755 31 5 Ohhh, 
+: 2788 3 5 bet
+: 2792 7 1 ter 
+: 2800 7 1 hold 
+: 2808 6 1 on 
+: 2815 11 5 tight 
+- 2828
+: 2834 7 5 This 
+: 2842 8 5 is 
+: 2851 14 3 love, 
+: 2866 4 1 this 
+: 2871 10 0 is 
+: 2882 4 1 li
+: 2887 9 -2 fe 
+- 2898
+: 2962 8 5 This 
+: 2971 7 5 is 
+: 2979 11 3 love, 
+: 2995 4 1 this 
+: 3000 9 5 is 
+: 3010 47 5 li
+: 3058 5 3 ~
+: 3064 6 1 ~
+: 3071 7 -2 ~
+: 3079 9 -4 fe 
+- 3090
+: 3092 7 5 This 
+: 3100 7 5 is 
+: 3108 15 3 love, 
+: 3124 4 1 this 
+: 3129 9 0 is 
+: 3139 4 1 li
+: 3144 10 -2 fe 
+E

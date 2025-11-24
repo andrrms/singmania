@@ -1,0 +1,246 @@
+#ARTIST:The Beatles
+#TITLE:Being For The Benefit Of Mr. Kite!
+#MP3:The Beatles - Being For The Benefit Of Mr. Kite!.mp3
+#CREATOR:choosie
+#YEAR:1967
+#LANGUAGE:English
+#BPM:334.17
+#GAP:6400
+#VIDEO:a=bJVWZy4QOy0,co=sgt-peppers-lonely-hearts-club-band-56334ed56c411.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 2 7 For 
+: 4 2 7 the 
+: 8 2 12 be
+: 12 2 12 ne
+: 16 2 12 fit 
+: 20 3 12 of 
+: 27 5 11 Mis
+: 36 2 11 ter 
+: 41 4 7 Kite 
+- 47
+: 57 4 10 There 
+: 64 2 10 will 
+: 68 2 10 be 
+: 72 2 10 a 
+: 77 5 9 show 
+: 87 2 9 to
+: 91 4 5 night 
+: 99 4 5 on 
+* 107 4 7 tram
+* 114 2 7 po
+* 118 6 7 line 
+- 126
+: 198 2 7 The 
+: 203 4 12 Hen
+: 210 2 12 der
+: 215 4 12 sons 
+: 222 2 12 will 
+: 227 4 11 all 
+: 234 2 11 be 
+: 239 6 7 there 
+- 247
+: 250 2 10 Late 
+: 254 3 10 of 
+: 260 4 10 Pab
+: 267 4 10 lo 
+: 275 4 9 Fan
+: 283 2 9 ques 
+: 288 6 5 fair, 
+: 299 2 9 what 
+: 303 2 9 a 
+: 307 6 9 scene 
+- 315
+: 341 2 9 O
+: 344 2 9 ver 
+: 348 4 2 men 
+: 356 2 2 and 
+: 360 4 9 hor
+: 367 2 9 ses 
+: 371 4 14 hoops 
+: 379 2 14 and 
+: 383 4 9 gar
+: 391 2 9 ters 
+- 394
+: 395 4 10 Las
+: 403 2 10 tly 
+* 407 2 5 through 
+* 411 2 5 a 
+* 416 4 9 hogs 
+* 423 4 9 head 
+: 436 3 9 of 
+: 442 2 8 real
+: 445 3 9 ~ 
+: 451 2 2 fi
+: 456 3 2 re 
+- 461
+: 483 2 9 In 
+: 486 2 9 this 
+: 491 6 10 way 
+: 502 4 10 Mis
+: 509 2 10 ter 
+: 514 4 9 K. 
+- 520
+: 522 2 9 Will 
+: 526 2 9 chal
+: 530 2 9 lenge 
+: 534 2 9 the 
+: 539 24 14 world 
+- 565
+: 677 2 7 The 
+: 681 2 12 ce
+: 685 2 12 le
+: 689 3 12 bra
+: 695 3 12 ted 
+* 703 5 11 Mis
+* 712 2 11 ter 
+* 717 4 7 K. 
+- 723
+: 725 2 7 Per
+: 730 4 10 forms 
+: 738 2 10 his 
+: 742 2 10 feat 
+: 747 3 10 on 
+: 754 2 9 sa
+: 758 2 9 tur
+: 762 4 5 day 
+: 770 2 5 at 
+: 776 2 7 Bi
+: 780 4 7 shops
+: 788 4 7 gate 
+- 794
+: 868 2 7 The 
+: 872 4 12 Hen
+: 879 2 12 der
+: 883 4 12 sons 
+: 891 2 12 will 
+: 895 4 11 dance 
+: 902 2 11 and 
+: 907 4 7 sing 
+- 913
+: 915 2 7 As 
+: 919 2 10 Mis
+: 923 2 10 ter 
+: 927 4 10 Kite 
+: 935 4 10 flies 
+: 943 4 9 through 
+: 951 2 9 the 
+: 955 4 5 ring 
+- 961
+* 966 4 9 Don’t 
+* 974 2 9 be 
+* 978 4 9 late 
+- 984
+: 1006 2 9 Mes
+: 1009 2 9 s’rs 
+: 1013 4 2 K. 
+: 1021 2 2 and 
+: 1025 4 9 H. 
+: 1032 2 9 as
+: 1037 4 14 sure 
+: 1045 2 14 the 
+: 1049 4 9 pub
+: 1056 2 9 lic 
+- 1059
+: 1060 4 10 Their 
+: 1068 2 10 pro
+: 1072 4 5 duc
+: 1080 2 5 tion 
+: 1085 4 9 will 
+: 1092 2 9 be 
+: 1096 2 9 se
+: 1100 2 8 cond 
+: 1104 2 9 to 
+: 1109 5 2 none 
+- 1116
+: 1148 2 9 And 
+: 1151 2 9 of 
+: 1156 6 10 course, 
+* 1167 2 10 He
+* 1171 2 10 nry 
+* 1175 2 10 The 
+* 1179 6 9 Horse 
+- 1187
+: 1190 2 9 Dan
+: 1194 2 9 ces 
+: 1198 2 9 the 
+: 1203 20 14 waltz 
+- 1225
+: 1835 2 7 The 
+* 1839 4 12 band 
+* 1847 2 12 be
+* 1851 4 12 gins 
+: 1860 2 12 at 
+: 1864 4 11 ten 
+: 1872 2 11 to 
+: 1876 4 7 six 
+- 1882
+: 1885 2 7 When 
+: 1889 2 10 Mis
+: 1893 3 10 ter 
+: 1898 4 10 K. 
+: 1907 2 10 per
+: 1911 4 9 forms 
+: 1919 2 9 his 
+: 1924 4 5 tricks 
+: 1933 2 5 with
+: 1937 2 7 out 
+: 1941 2 7 a 
+: 1946 5 7 sound 
+- 1953
+: 2027 2 7 And 
+: 2031 4 12 Mis
+: 2039 2 12 ter 
+: 2043 4 12 H. 
+: 2051 2 12 will 
+: 2056 2 11 de
+: 2060 2 11 mon
+: 2065 4 7 strate 
+- 2071
+: 2073 4 7 Ten 
+: 2080 2 10 so
+: 2084 2 10 mer
+: 2088 4 10 saults 
+: 2096 4 10 he’ll 
+: 2103 2 9 un
+: 2107 2 9 der
+: 2112 4 5 take 
+- 2118
+: 2121 4 5 On 
+* 2129 2 9 so
+* 2133 3 9 lid 
+* 2140 8 9 ground 
+- 2150
+: 2171 1 9 Ha
+: 2173 1 9 ving 
+: 2176 4 2 been 
+: 2183 2 2 some 
+: 2188 4 9 days 
+: 2196 2 9 in 
+: 2200 2 14 pre
+: 2204 2 14 pa
+: 2208 3 9 ra
+: 2214 2 9 tion 
+- 2217
+: 2218 2 9 A 
+: 2223 4 10 splen
+: 2231 2 10 did 
+: 2236 4 5 time 
+: 2244 2 5 is 
+: 2249 2 9 gua
+: 2253 3 9 ran
+: 2258 5 9 teed 
+: 2267 2 8 for 
+: 2272 8 2 all 
+- 2282
+: 2311 2 9 And 
+: 2314 2 9 to
+: 2318 4 10 night 
+: 2330 4 10 Mis
+: 2338 2 10 ter 
+: 2342 4 9 Kite 
+- 2348
+: 2350 2 9 Is 
+: 2354 2 9 top
+: 2358 2 8 ping 
+: 2362 2 9 the 
+* 2367 24 14 bill. 
+E

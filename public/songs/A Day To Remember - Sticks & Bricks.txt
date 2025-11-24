@@ -1,0 +1,425 @@
+#ARTIST:A Day To Remember
+#TITLE:Sticks & Bricks
+#MP3:A Day To Remember - Sticks & Bricks.mp3
+#CREATOR:Lorc
+#GENRE:Pop-Punk
+#YEAR:2010
+#LANGUAGE:English
+#BPM:280
+#GAP:1180
+#VIDEO:v=gvKqESevuck,co=https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/ff/da/deffda50-12f1-01e3-c928-bd02eb91d1f5/19CRGIM19275.rgb.jpg/5000x5000bb.jpg,bg=a-day-to-remember-4f235569da7d7.jpg
+F 0 3 8 I 
+F 4 3 8 am 
+F 8 7 8 fueled 
+F 16 3 8 by 
+F 20 3 8 all 
+F 24 7 8 forms 
+F 32 3 8 of 
+F 36 7 8 fai
+F 44 28 8 lure. 
+- 74
+F 76 3 8 I 
+F 80 3 8 paid 
+F 84 3 8 the 
+F 88 4 8 price, 
+- 94
+F 96 3 8 So 
+F 100 3 8 I’ll 
+F 104 3 8 take 
+F 108 6 8 what’s 
+F 116 14 8 mine! 
+- 132
+F 400 3 8 Bet 
+F 404 3 8 ya 
+F 408 3 8 did
+F 412 3 8 n’t 
+F 416 7 8 see 
+F 424 3 8 that 
+F 428 9 8 one 
+F 438 3 8 com
+F 442 2 8 in’ 
+- 446
+F 448 1 8 Cause 
+F 450 3 8 I 
+F 454 3 8 do 
+F 458 3 8 as 
+F 462 4 8 I 
+F 468 4 8 please, 
+- 474
+F 476 1 8 And 
+F 478 1 8 a
+F 480 3 8 po
+F 484 3 8 lo
+F 488 7 8 gize 
+F 496 3 8 for 
+F 500 7 8 no
+F 508 10 8 thing. 
+- 520
+F 524 3 8 My 
+F 528 3 8 time 
+F 532 3 8 is 
+F 536 3 8 fly
+F 540 1 8 ing 
+- 543
+F 544 1 8 But 
+F 546 1 8 I’m 
+F 548 1 8 still 
+F 550 3 8 se
+F 554 3 8 cond 
+F 558 5 8 to 
+F 564 8 8 none. 
+- 574
+F 576 3 8 Al
+F 580 3 8 ways 
+F 584 3 8 shi
+F 588 3 8 ning 
+F 592 3 8 the 
+F 596 3 8 brigh
+F 600 2 8 test, 
+- 604
+F 606 1 8 When 
+F 608 3 8 I’m 
+F 612 3 8 placed 
+F 616 3 8 un
+F 620 3 8 der 
+F 624 3 8 the 
+F 628 8 8 gun. 
+- 638
+F 640 4 8 God 
+F 648 4 8 Damn 
+- 654
+F 656 7 8 So 
+F 664 7 8 here 
+F 672 7 8 I 
+F 680 30 8 stand, 
+- 712
+F 714 3 8 The 
+F 718 3 8 on
+F 722 5 8 ly 
+F 728 3 8 son 
+F 732 3 8 of 
+F 736 3 8 a 
+F 740 3 8 wor
+F 744 10 8 king 
+F 756 8 8 class 
+F 768 12 8 man. 
+- 782
+F 784 7 8 I 
+F 792 3 8 won’t 
+F 796 3 8 be 
+F 800 3 8 held 
+F 804 8 8 back, 
+- 814
+F 832 6 8 I 
+F 840 10 8 can’t 
+F 852 10 8 be 
+F 864 7 8 held 
+F 872 12 8 down. 
+- 886
+: 888 7 8 Where 
+: 896 7 8 were 
+: 904 7 8 you
+: 912 8 5 ~ 
+- 922
+: 928 1 5 When 
+: 932 3 10 my 
+: 936 7 8 walls 
+: 944 7 8 came 
+: 952 7 8 fal
+: 960 7 8 ling 
+: 968 7 8 down
+: 976 15 5 ~
+: 992 24 3 ~? 
+- 1018
+* 1029 2 3 You 
+* 1032 7 5 tried 
+* 1040 3 3 to 
+* 1044 8 5 hide, 
+- 1054
+: 1056 2 5 You 
+: 1060 5 6 stood 
+: 1068 5 -1 close 
+: 1078 3 -2 by
+: 1082 6 -4 ~, 
+- 1090
+: 1092 2 0 And 
+: 1096 7 5 did
+: 1104 3 5 n’t 
+: 1108 7 5 make 
+: 1116 6 6 a 
+: 1124 9 3 sound
+: 1134 3 2 ~
+: 1138 14 1 ~. 
+- 1154
+F 1418 5 1 Find 
+F 1424 3 1 you 
+F 1428 3 1 some 
+F 1432 3 1 pa
+F 1436 1 1 per, 
+- 1439
+F 1440 1 1 And 
+F 1442 1 1 I’ll 
+F 1444 2 1 go 
+F 1448 3 1 grab 
+F 1452 3 1 you 
+F 1456 3 1 a 
+F 1460 8 1 pen. 
+- 1470
+F 1472 3 1 You 
+F 1476 3 1 can 
+F 1480 4 1 start 
+F 1486 3 1 ta
+F 1490 4 1 king 
+F 1496 1 1 notes 
+- 1499
+F 1500 1 1 On 
+F 1502 1 1 how 
+F 1504 1 1 this 
+F 1506 3 1 all 
+F 1510 5 1 star
+F 1516 3 1 ted 
+F 1520 3 1 a
+F 1524 18 1 gain. 
+- 1544
+F 1548 3 1 Been 
+F 1552 3 1 dead 
+F 1556 4 1 last, 
+- 1562
+F 1564 1 1 But 
+F 1566 5 1 found 
+F 1572 3 1 my 
+F 1576 3 1 way 
+F 1580 3 1 to 
+F 1584 3 1 the 
+F 1588 2 1 front. 
+- 1592
+F 1594 1 1 With 
+F 1596 3 1 my 
+F 1600 3 1 in
+F 1604 3 1 spi
+F 1608 3 1 ra
+F 1612 3 1 tio
+F 1616 3 1 nal 
+F 1620 6 1 quotes 
+- 1628
+F 1630 1 1 On 
+F 1632 3 1 why 
+F 1636 1 1 I 
+F 1638 3 1 ne
+F 1642 3 1 ver 
+F 1646 3 1 gave 
+F 1650 2 1 up. 
+- 1654
+: 1656 7 8 Where 
+: 1664 7 8 were 
+: 1672 7 8 you
+: 1680 8 5 ~ 
+- 1690
+: 1696 1 5 When 
+: 1700 3 10 my 
+: 1704 7 8 walls 
+: 1712 7 8 came 
+: 1720 7 8 fal
+: 1728 7 8 ling 
+: 1736 7 8 down
+: 1744 15 5 ~
+: 1760 24 3 ~? 
+- 1786
+: 1797 2 3 You 
+: 1800 7 5 tried 
+: 1808 3 3 to 
+: 1813 8 5 hide 
+- 1823
+: 1824 2 5 You 
+: 1828 5 6 stood 
+: 1836 5 -1 close 
+: 1846 3 -2 by
+: 1850 6 -4 ~, 
+- 1858
+* 1860 2 0 And 
+* 1864 7 5 did
+* 1872 3 5 n’t 
+* 1876 7 5 make 
+* 1884 7 6 a 
+* 1892 9 3 sound
+* 1902 3 2 ~
+* 1906 2 1 ~. 
+- 1910
+: 1912 7 8 Where 
+: 1920 7 8 were 
+: 1928 7 8 you
+: 1936 12 5 ~ 
+- 1950
+: 1952 1 5 When 
+: 1956 3 10 it 
+: 1960 7 8 all 
+: 1968 7 8 came 
+: 1976 6 8 back 
+: 1984 7 1 a
+: 1992 7 3 round
+: 2000 15 5 ~
+: 2016 28 3 ~? 
+- 2046
+: 2051 2 4 The 
+: 2054 7 5 rea
+: 2062 5 3 sons 
+: 2068 9 4 why 
+: 2080 3 5 you 
+: 2084 6 5 passed 
+: 2092 8 -2 me 
+: 2102 3 -2 by
+: 2106 6 -4 ~ 
+- 2114
+: 2116 2 0 Will 
+: 2120 7 5 al
+: 2128 3 5 ways 
+: 2132 7 5 hold 
+: 2140 7 6 you 
+: 2148 11 3 down
+: 2160 7 2 ~
+: 2168 16 1 ~. 
+- 2186
+F 2192 3 1 If 
+F 2196 3 1 you 
+F 2200 3 1 can’t 
+F 2204 3 1 stand 
+F 2208 3 1 the 
+F 2212 7 1 pres
+F 2220 14 1 sure 
+- 2236
+F 2238 5 1 Stay 
+F 2244 3 1 the 
+F 2248 7 1 fuck 
+F 2256 7 1 out 
+F 2264 3 1 of 
+F 2268 8 1 my 
+F 2278 6 1 way. 
+- 2286
+F 2288 4 1 I 
+F 2294 4 1 know 
+F 2300 6 1 my 
+F 2310 4 1 place. 
+- 2316
+F 2318 1 1 This 
+F 2320 3 1 one 
+F 2324 3 1 goes 
+F 2328 3 1 out 
+F 2332 3 1 to 
+F 2336 3 1 e
+F 2340 3 1 very
+F 2344 2 1 one 
+- 2348
+F 2350 1 1 Who’s 
+F 2352 4 1 lied 
+F 2358 3 1 to 
+F 2362 4 1 my 
+F 2370 24 1 face. 
+- 2396
+F 2410 3 1 MY 
+F 2414 5 1 HEART 
+F 2420 3 1 IS 
+F 2424 6 1 FILLED 
+F 2432 6 1 WITH 
+F 2440 14 1 HATE! 
+- 2456
+F 2706 5 1 I’m 
+F 2712 3 1 ma
+F 2716 3 1 king 
+F 2720 3 1 a 
+F 2724 7 1 dif
+F 2732 26 1 ference. 
+- 2760
+F 2770 5 1 I’m 
+F 2776 3 1 ta
+F 2780 3 1 king 
+F 2784 3 1 a 
+F 2788 32 1 chance. 
+- 2822
+F 2830 3 1 You 
+F 2834 3 1 can 
+F 2838 3 1 say 
+F 2842 3 1 what 
+F 2846 4 1 you 
+F 2852 7 1 want 
+F 2860 3 1 a
+F 2864 6 1 bout 
+F 2872 1 1 me, 
+- 2875
+F 2876 1 1 But 
+F 2878 7 1 no 
+F 2886 8 1 one 
+F 2898 3 1 can 
+F 2902 3 1 tell 
+F 2906 3 1 me 
+F 2910 7 1 I 
+F 2918 14 1 can’t! 
+- 2934
+: 2936 7 8 Where 
+: 2944 7 8 were 
+: 2952 7 8 you
+: 2960 8 5 ~ 
+- 2970
+* 2976 1 5 When 
+* 2980 3 10 my 
+* 2984 7 8 walls 
+* 2992 7 8 came 
+: 3000 7 8 fal
+: 3008 7 8 ling 
+: 3016 7 8 down
+: 3024 15 5 ~
+: 3040 24 3 ~? 
+- 3066
+: 3076 3 3 You 
+: 3080 7 5 tried 
+: 3088 3 3 to 
+: 3092 8 5 hide 
+- 3102
+: 3104 3 5 You 
+: 3108 5 6 stood 
+: 3116 5 -1 close 
+: 3126 3 -2 by
+: 3130 6 -4 ~, 
+- 3138
+: 3140 2 0 And 
+: 3144 7 5 did
+: 3152 3 5 n’t 
+: 3156 7 5 make 
+: 3164 7 6 a 
+: 3172 9 3 sound
+: 3182 3 2 ~
+: 3186 2 1 ~. 
+- 3190
+: 3192 7 8 Where 
+: 3200 7 8 were 
+: 3208 7 8 you
+: 3216 12 5 ~ 
+- 3230
+: 3232 1 5 When 
+: 3236 3 10 it 
+: 3240 7 8 all 
+: 3248 7 8 came 
+: 3256 6 8 back 
+: 3264 7 1 a
+: 3272 7 3 round
+: 3280 15 5 ~
+: 3296 28 3 ~? 
+- 3326
+: 3331 2 3 The 
+: 3334 7 5 rea
+: 3342 5 3 sons 
+: 3348 11 4 why 
+: 3360 3 5 you 
+: 3364 5 6 passed 
+: 3373 7 -2 me 
+: 3382 3 -2 by
+: 3386 6 -4 ~ 
+- 3394
+: 3396 2 0 Will 
+: 3400 7 5 al
+: 3408 3 5 ways 
+: 3412 7 5 hold 
+: 3420 6 6 you 
+: 3428 11 3 down
+: 3440 7 2 ~
+: 3448 16 1 ~. 
+E

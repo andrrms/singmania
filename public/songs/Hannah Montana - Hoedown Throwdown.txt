@@ -1,0 +1,516 @@
+#ARTIST:Hannah Montana
+#TITLE:Hoedown Throwdown
+#MP3:Hannah Montana - Hoedown Throwdown.mp3
+#CREATOR:seanie627
+#EDITION:Sing It Pop Hits
+#GENRE:Soundtrack
+#YEAR:2009
+#LANGUAGE:English
+#BPM:289.69
+#GAP:4344
+#VIDEO:v=i6GaII8CiG0,co=https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/4a/5a/054a5af3-fac5-11b4-546a-5eef8ecd59c1/13UABIM57524.rgb.jpg/5000x5000bb.jpg
+F 0 6 3 One, 
+F 10 6 3 Two, 
+F 21 6 3 Three! 
+- 29
+F 31 3 3 Ev
+F 35 2 3 ery
+F 38 3 3 bo
+F 42 2 3 dy 
+F 45 2 3 come 
+F 48 4 3 on 
+F 53 3 3 off 
+F 57 3 3 your 
+F 61 5 3 feet 
+- 67
+F 68 6 3 I’m 
+F 75 2 3 gon
+F 78 3 3 na 
+F 83 3 3 tell 
+F 87 3 3 you 
+F 91 4 3 ’bout 
+F 96 2 3 a 
+F 99 4 3 beat 
+- 105
+F 108 4 3 That’s 
+F 113 1 3 gon
+F 115 2 3 na 
+F 119 3 3 make 
+F 123 3 3 you 
+F 127 5 3 move 
+F 133 4 3 your 
+F 138 6 3 feet 
+- 146
+: 154 3 -2 I’ll 
+: 159 3 -2 give 
+: 164 3 -2 the 
+: 170 6 3 bar
+: 181 6 3 be
+: 192 7 3 que 
+- 200
+: 202 3 3 Show 
+: 207 2 3 and 
+: 213 2 3 tell 
+: 218 2 3 you 
+: 224 2 3 how 
+: 229 2 3 to 
+: 234 7 3 move 
+- 243
+: 245 3 3 If 
+: 250 3 3 you’re 
+: 255 2 3 five 
+: 261 2 3 or 
+: 266 3 3 eight
+: 271 2 3 y 
+: 276 6 3 two 
+- 284
+: 287 3 3 This 
+: 293 2 3 is 
+: 298 2 -2 some
+: 303 2 -2 thing 
+: 309 2 -2 you 
+: 314 2 -2 can 
+* 320 9 3 do 
+- 331
+F 340 2 3 Pop 
+F 345 2 3 it, 
+F 351 2 3 lock 
+F 356 2 3 it, 
+F 362 2 3 pol
+F 368 2 3 ka 
+F 373 2 3 dot 
+F 379 2 3 it 
+- 382
+F 383 3 3 Coun
+F 388 3 3 tri
+F 394 2 3 fy, 
+F 399 2 3 then 
+F 405 2 3 hip 
+F 410 2 3 hop 
+F 415 2 3 it 
+- 419
+F 421 1 3 Put 
+F 423 2 3 your 
+F 426 3 3 hawk 
+F 431 1 3 in 
+F 433 2 3 the 
+F 437 4 3 sky 
+- 442
+F 442 3 3 Move 
+F 448 4 3 side 
+F 453 2 3 to 
+F 456 6 3 side 
+- 464
+F 469 3 3 Jump 
+F 474 1 3 to 
+F 476 1 3 the 
+F 479 4 3 left 
+- 485
+F 489 2 3 Stick 
+F 492 3 3 it, 
+F 499 10 3 glide 
+- 511
+F 682 3 3 Pop 
+F 687 2 3 it, 
+F 692 3 3 lock 
+F 697 3 3 it, 
+F 703 2 3 pol
+F 708 2 3 ka 
+F 713 3 3 dot 
+F 718 3 3 it 
+- 722
+F 724 3 3 Coun
+F 729 2 3 tri
+F 734 2 3 fy, 
+F 740 2 3 then 
+F 745 3 3 hip 
+F 750 3 3 hop 
+F 756 3 3 it 
+- 760
+F 761 2 3 Put 
+F 764 2 3 your 
+F 767 4 3 hawk 
+F 772 1 3 in 
+F 774 2 3 the 
+F 777 4 3 sky 
+- 782
+F 783 2 3 Move 
+F 788 4 3 side 
+F 793 2 3 to 
+F 796 6 3 side 
+- 804
+F 809 3 3 Jump 
+F 815 1 3 to 
+F 817 1 3 the 
+F 820 4 3 left 
+- 826
+F 830 2 3 Stick 
+F 833 3 3 it, 
+F 841 9 3 glide 
+- 852
+: 857 3 7 Zig
+: 862 5 3 zag 
+: 872 4 7 ’cross 
+: 878 1 7 the 
+: 881 6 3 floor 
+- 889
+: 893 3 7 Shuf
+: 898 3 7 fle 
+: 904 2 3 in 
+: 909 3 3 di
+: 915 3 5 ag
+: 920 1 5 o
+: 923 5 5 nal 
+- 929
+: 931 2 5 When 
+: 934 1 5 the 
+* 937 7 5 drum 
+: 947 3 2 hits 
+- 951
+: 953 3 2 Hands 
+: 958 3 5 on 
+: 963 2 5 your 
+: 967 5 2 hips 
+- 974
+: 979 4 5 One 
+: 984 4 5 foot
+: 990 3 5 ed 
+: 995 3 5 one 
+: 1001 4 7 eight
+: 1006 2 3 y 
+: 1009 3 3 twist 
+- 1013
+F 1015 1 3 And 
+F 1017 1 3 then 
+F 1019 3 3 a 
+- 1024
+: 1027 3 7 Zig
+: 1032 6 3 zag, 
+: 1043 5 7 step, 
+: 1051 8 3 slide 
+- 1061
+: 1064 3 7 Lean 
+: 1069 3 7 it 
+: 1075 6 3 left 
+- 1082
+: 1084 4 5 Clap 
+: 1090 4 5 three 
+: 1096 6 5 times 
+- 1104
+: 1107 3 5 Shake 
+: 1112 3 5 it 
+: 1118 6 2 out, 
+: 1128 3 5 head 
+: 1133 2 5 to 
+: 1137 5 2 toe 
+- 1144
+: 1150 2 5 Throw 
+: 1153 1 5 it 
+: 1155 2 5 all 
+: 1158 1 3 to
+: 1160 2 5 ge
+: 1163 2 3 ther 
+- 1166
+: 1166 3 5 That’s 
+: 1171 3 7 how 
+: 1176 2 3 we 
+* 1179 6 3 roll 
+- 1186
+: 1186 1 7 Do 
+: 1188 2 10 the 
+: 1192 5 3 hoe
+: 1200 8 3 down 
+- 1210
+F 1212 6 3 Throw
+F 1222 5 3 down! 
+- 1228
+F 1230 1 3 Do 
+F 1233 1 3 the 
+F 1235 5 3 hoe
+F 1244 9 3 down 
+- 1254
+F 1256 6 3 Throw
+F 1265 6 3 down! 
+- 1272
+F 1273 1 3 Do 
+F 1276 1 3 the 
+F 1278 5 3 hoe
+F 1286 8 3 down 
+- 1296
+F 1299 6 3 Throw
+F 1308 7 3 down! 
+- 1317
+: 1321 1 5 Throw 
+: 1323 1 5 it 
+: 1325 2 5 all 
+: 1328 1 3 to
+: 1330 2 5 ge
+: 1333 2 3 ther 
+- 1336
+: 1337 2 5 That’s 
+: 1342 3 7 how 
+: 1347 2 3 we 
+: 1350 7 3 roll 
+- 1359
+: 1495 4 7 Zig
+: 1501 4 3 zag 
+: 1511 4 7 ’cross 
+: 1517 2 7 the 
+* 1520 7 3 floor 
+- 1529
+: 1533 3 7 Shuf
+: 1538 2 7 fle 
+: 1543 3 3 in 
+: 1548 3 3 di
+: 1554 4 5 ag
+: 1559 2 5 o
+: 1562 4 5 nal 
+- 1568
+: 1571 1 5 When 
+: 1573 2 5 the 
+: 1576 6 5 drum 
+: 1585 5 2 hits 
+- 1591
+: 1592 3 2 Hands 
+: 1597 3 5 on 
+: 1601 2 5 your 
+: 1605 7 2 hips 
+- 1614
+: 1618 4 5 One 
+: 1623 3 5 foot
+: 1628 2 5 ed 
+: 1633 3 5 one 
+: 1639 3 7 eight
+: 1644 2 3 y 
+: 1647 4 3 twist 
+- 1652
+F 1653 1 3 And 
+F 1655 2 3 then 
+F 1658 3 3 a 
+- 1662
+: 1664 4 7 Zig
+: 1671 6 3 zag, 
+: 1682 5 7 step, 
+: 1690 6 3 slide 
+- 1698
+: 1702 3 7 Lean 
+: 1708 3 7 it 
+: 1713 6 3 left 
+- 1721
+: 1723 3 5 Clap 
+: 1729 3 5 three 
+: 1734 6 5 times 
+- 1742
+: 1745 4 5 Shake 
+: 1750 3 5 it 
+* 1756 6 2 out, 
+: 1767 4 5 head 
+: 1773 2 5 to 
+: 1776 6 2 toe 
+- 1784
+: 1789 2 5 Throw 
+: 1792 1 5 it 
+: 1794 2 5 all 
+: 1797 1 3 to
+: 1799 2 5 ge
+: 1802 1 3 ther 
+- 1804
+: 1804 3 5 That’s 
+: 1810 4 7 how 
+: 1815 2 3 we 
+: 1818 5 3 roll 
+- 1824
+: 1825 2 7 Do 
+: 1828 2 10 the 
+: 1831 5 3 hoe
+* 1840 9 3 down 
+- 1851
+F 1853 6 3 Throw
+F 1860 6 3 down! 
+- 1867
+F 1868 2 3 Do 
+F 1871 2 3 the 
+F 1874 4 3 hoe
+F 1882 8 3 down 
+- 1892
+F 1895 6 3 Throw
+F 1903 6 3 down! 
+- 1910
+F 1911 2 3 Do 
+F 1914 2 3 the 
+F 1917 5 3 hoe
+F 1924 8 3 down 
+- 1934
+F 1936 7 3 Throw
+F 1945 7 3 down! 
+- 1954
+: 1958 2 5 Throw 
+: 1961 2 5 it 
+: 1964 2 5 all 
+: 1967 1 3 to
+: 1969 2 5 ge 
+: 1972 2 3 ther 
+- 1975
+: 1975 3 5 That’s 
+: 1980 4 7 how 
+: 1985 2 3 we 
+: 1988 6 3 roll 
+- 1996
+F 2022 4 3 Boom 
+F 2028 2 3 de 
+F 2031 2 3 clap 
+F 2035 2 3 de 
+F 2038 3 3 clap 
+- 2042
+F 2042 3 3 Boom 
+F 2048 3 3 boom 
+F 2054 5 3 clap 
+- 2060
+F 2062 1 3 Come 
+F 2064 3 3 on, 
+F 2068 1 3 here 
+F 2070 2 3 we 
+F 2073 4 3 go 
+- 2079
+F 2086 3 3 Pop 
+F 2091 2 3 it, 
+F 2096 3 3 lock 
+F 2101 3 3 it, 
+F 2107 3 3 pol
+F 2113 3 3 ka 
+F 2118 3 3 dot 
+F 2123 3 3 it 
+- 2127
+F 2129 3 3 Coun
+F 2134 2 3 tri
+F 2139 3 3 fy, 
+F 2145 2 3 then 
+F 2150 2 3 hip 
+F 2155 2 3 hop 
+F 2160 3 3 it 
+- 2165
+F 2167 1 3 Put 
+F 2169 2 3 your 
+F 2172 4 3 hawk 
+F 2177 1 3 in 
+F 2179 2 3 the 
+F 2182 4 3 sky 
+- 2187
+F 2188 2 3 Move 
+F 2193 4 3 side 
+F 2198 2 3 to 
+F 2201 6 3 side 
+- 2209
+F 2213 4 3 Jump 
+F 2218 2 3 to 
+F 2221 2 3 the 
+F 2224 4 3 left 
+- 2230
+F 2235 2 3 Stick 
+F 2238 2 3 it, 
+F 2244 10 3 glide 
+- 2256
+: 2261 4 7 Zig
+* 2267 6 3 zag 
+: 2277 4 7 ’cross 
+: 2282 2 7 the 
+: 2286 6 3 floor 
+- 2294
+: 2298 3 7 Shuf
+: 2303 3 7 fle 
+: 2309 3 3 in 
+: 2315 3 3 di
+: 2320 4 5 ag
+: 2325 2 5 o
+: 2328 4 5 nal 
+- 2334
+: 2336 2 5 When 
+: 2339 2 5 the 
+* 2342 7 5 drum 
+: 2352 4 2 hits 
+- 2357
+: 2358 3 2 Hands 
+: 2363 3 5 on 
+: 2368 2 5 your 
+: 2371 6 2 hips 
+- 2379
+: 2384 4 5 One 
+: 2389 5 5 foot
+: 2395 3 5 ed 
+: 2400 3 5 one 
+: 2405 3 7 eight
+: 2410 2 3 y 
+: 2414 4 3 twist 
+- 2419
+F 2419 1 3 And 
+F 2421 1 3 then 
+F 2423 3 3 a 
+- 2428
+: 2431 4 7 Zig
+: 2437 7 3 zag, 
+: 2448 4 7 step, 
+: 2456 8 3 slide 
+- 2466
+: 2469 3 7 Lean 
+: 2474 3 7 it 
+: 2480 5 3 left 
+- 2487
+: 2489 4 5 Clap 
+: 2495 4 5 three 
+* 2501 6 5 times 
+- 2509
+: 2512 3 5 Shake 
+: 2517 3 5 it 
+: 2523 5 2 out, 
+: 2533 3 5 head 
+: 2538 2 5 to 
+: 2541 6 2 toe 
+- 2549
+: 2555 2 5 Throw 
+: 2558 1 5 it 
+: 2560 2 5 all 
+: 2563 1 3 to
+: 2565 1 5 ge
+: 2567 3 3 ther 
+- 2571
+: 2571 3 5 That’s 
+: 2576 4 7 how 
+: 2581 2 3 we 
+: 2584 4 3 roll 
+- 2589
+: 2591 2 7 Do 
+: 2594 2 10 the 
+: 2597 5 3 hoe
+: 2605 8 3 down 
+- 2615
+F 2619 5 3 Throw
+F 2626 6 3 down! 
+- 2633
+F 2635 2 3 Do 
+F 2638 2 3 the 
+F 2641 4 3 hoe
+F 2649 9 3 down 
+- 2659
+F 2661 6 3 Throw
+F 2670 6 3 down! 
+- 2677
+F 2677 2 3 Do 
+F 2680 2 3 the 
+F 2683 5 3 hoe
+F 2691 9 3 down 
+- 2701
+F 2703 6 3 Throw
+F 2712 7 3 down! 
+- 2721
+: 2725 2 5 Throw 
+: 2728 1 5 it 
+: 2730 3 5 all 
+: 2734 1 3 to
+: 2736 1 5 ge
+: 2738 2 3 ther 
+- 2741
+: 2741 3 5 That’s 
+: 2746 3 7 how 
+: 2751 2 3 we 
+* 2754 5 3 roll 
+E

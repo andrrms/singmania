@@ -1,0 +1,492 @@
+#ARTIST:Blazon Stone
+#TITLE:Black Sails On The Horizon
+#MP3:Blazon Stone - Black Sails On The Horizon.mp3
+#CREATOR:BlodsveptKrigare
+#COVER:Blazon Stone - Black Sails On The Horizon [CO].jpg
+#BACKGROUND:Blazon Stone - Black Sails On The Horizon [BG].jpg
+#GENRE:Metal
+#YEAR:2021
+#LANGUAGE:English
+#BPM:350.13
+#GAP:31670
+#VIDEO:a=UYRtuysIjM0,co=damnation-6126bddd65751.jpg
+: 0 4 6 Laughs 
+: 8 4 6 of 
+: 16 3 6 mad
+: 20 2 4 ~
+: 24 4 2 ness, 
+: 32 2 4 e
+: 36 2 2 chos 
+: 40 4 1 a
+: 48 8 2 round 
+- 62
+: 64 4 -1 Cu
+: 72 4 2 tlass 
+: 80 4 6 in 
+: 88 4 9 the 
+: 96 3 6 air
+: 100 16 4 ~ 
+- 125
+: 128 4 6 Spent 
+: 136 4 6 all 
+: 144 3 6 bloo
+: 148 2 4 ~
+: 152 4 2 died 
+: 160 2 4 pie
+: 164 2 2 ces 
+: 168 4 1 of 
+: 176 8 -1 eight 
+- 190
+: 192 4 2 Back 
+: 200 4 11 in
+: 208 4 9 to 
+: 216 4 6 the 
+: 224 20 4 storm 
+- 253
+: 256 4 6 Cast 
+: 264 4 6 a
+: 272 3 6 side
+: 276 2 4 ~ 
+: 280 4 2 from 
+: 288 2 4 or
+: 292 2 2 der 
+: 296 4 1 and 
+: 304 8 2 law 
+- 318
+: 320 4 -1 Bro
+: 328 4 2 ken 
+: 336 4 6 to 
+: 344 4 9 the 
+: 352 3 6 core
+: 356 16 4 ~ 
+- 378
+: 380 2 4 A 
+: 384 4 6 soul
+: 392 4 6 less 
+: 400 3 6 gang
+: 404 2 4 ~ 
+: 408 4 2 of 
+: 416 2 4 mur
+: 420 2 2 de
+: 424 4 1 rous 
+: 432 8 -1 crooks 
+- 446
+: 448 4 2 Done 
+: 456 4 11 with 
+: 464 4 9 wine 
+: 472 4 6 and 
+: 480 20 4 whores 
+- 510
+: 520 4 7 Tra
+: 528 4 7 cing 
+: 536 4 2 the 
+: 544 4 -1 scent 
+: 552 4 -3 of 
+: 560 4 -1 gold 
+: 568 4 2 like 
+: 576 12 -1 sharks 
+- 590
+: 592 12 2 Through 
+: 608 4 4 hun
+: 616 4 6 ger, 
+: 624 4 4 dread 
+: 632 4 2 and 
+: 640 24 -1 blood 
+- 710
+: 760 4 6 Like 
+: 768 4 6 scour
+: 776 4 2 ging 
+: 784 4 -1 pes
+: 792 4 -3 ti
+: 800 4 -1 lence 
+- 806
+: 808 4 2 They 
+: 816 3 4 strike
+: 820 4 6 ~ 
+: 828 8 6 down 
+: 840 4 2 whom
+: 848 8 4 e
+: 860 8 6 ver 
+: 872 4 9 they 
+F 880 1 11 (cross) 
+- 881
+: 882 2 6 Black 
+: 888 4 11 sails 
+: 896 4 11 on 
+: 904 2 9 the 
+: 908 2 11 ho
+: 912 4 13 ri
+: 920 8 9 zon 
+- 934
+: 936 4 4 The 
+: 944 4 6 plun
+: 952 12 9 de
+: 968 4 11 ring 
+: 976 8 4 rage 
+- 990
+: 992 4 6 Roars 
+: 1000 4 4 like 
+: 1008 8 2 thun
+: 1020 8 -1 der 
+: 1032 4 -3 and 
+: 1040 8 -1 rain 
+- 1050
+: 1052 8 2 Brings 
+: 1064 4 4 a 
+: 1072 8 2 shi
+: 1084 8 -1 pload 
+: 1096 4 -3 of 
+: 1104 4 6 blood 
+: 1112 4 9 and 
+: 1120 8 4 pain 
+- 1134
+: 1136 4 6 Black 
+: 1144 4 11 sails 
+: 1152 4 11 on 
+: 1160 2 9 the 
+: 1164 2 11 ho
+: 1168 4 13 ri
+: 1176 8 9 zon 
+- 1190
+: 1192 4 4 The 
+: 1200 4 6 plun
+: 1208 12 9 de
+: 1224 4 11 ring 
+: 1232 8 4 rage 
+- 1246
+: 1248 4 6 Roars 
+: 1256 4 4 like 
+: 1264 8 2 thun
+: 1276 8 -1 der 
+: 1288 4 -3 and 
+: 1296 8 -1 rain 
+- 1306
+: 1308 8 2 Brings 
+: 1320 4 4 a 
+: 1328 8 2 shi
+: 1340 8 -1 pload 
+: 1352 4 -3 of 
+: 1360 4 6 blood 
+: 1368 4 9 and 
+: 1376 8 9 pain, 
+: 1392 64 11 yeah! 
+- 1502
+: 1633 4 6 Tain
+: 1641 4 6 ted 
+: 1649 3 6 waves
+: 1653 2 4 ~ 
+: 1657 4 2 by 
+: 1665 2 4 car
+: 1669 2 2 nage 
+: 1673 4 1 of 
+: 1681 8 2 war 
+- 1695
+: 1697 4 -1 Heads 
+: 1705 4 2 and 
+: 1713 4 6 limbs 
+: 1721 4 9 torn 
+: 1729 3 6 off
+: 1733 12 4 ~ 
+- 1757
+: 1761 4 6 Trea
+: 1769 4 6 sured 
+: 1777 3 6 ships
+: 1781 2 4 ~ 
+: 1785 4 2 a
+: 1793 2 4 ban
+: 1797 2 2 doned 
+: 1801 4 1 by 
+: 1809 8 -1 god 
+- 1823
+: 1825 4 2 Heis
+: 1833 4 11 ting 
+: 1841 4 9 claws 
+: 1849 4 6 of 
+: 1857 16 4 greed 
+- 1885
+: 1889 4 6 En
+: 1897 4 6 dless 
+: 1905 2 6 war 
+: 1909 2 4 a
+: 1913 4 2 gainst 
+: 1921 2 4 po
+: 1925 2 2 wers 
+: 1929 4 1 a
+: 1937 8 2 bove 
+- 1951
+: 1953 4 -1 Res
+: 1961 4 2 ting’s 
+: 1969 4 6 out 
+: 1977 4 9 of 
+: 1985 3 6 mind
+: 1989 16 4 ~ 
+- 2014
+: 2017 4 6 Ha
+: 2025 4 6 tred 
+: 2033 3 6 from
+: 2037 2 4 ~ 
+: 2041 4 2 the 
+: 2049 2 4 ro
+: 2053 2 2 yal
+: 2057 4 1 ties 
+: 2065 8 -1 grows 
+- 2079
+: 2081 4 2 No 
+: 2089 4 11 grace 
+: 2097 4 9 in 
+: 2105 4 6 this 
+: 2113 20 4 life 
+- 2143
+: 2153 4 7 Tra
+: 2161 4 7 cing 
+: 2169 4 2 the 
+: 2177 4 -1 scent 
+: 2185 4 -3 of 
+: 2193 4 -1 gold 
+: 2201 4 2 like 
+: 2209 12 -1 sharks 
+- 2223
+: 2225 12 2 Through 
+: 2241 4 4 hun
+: 2249 4 6 ger, 
+: 2257 4 4 dread 
+: 2265 4 2 and 
+: 2273 24 -1 blood 
+- 2343
+: 2393 4 6 Like 
+: 2401 4 6 scour
+: 2409 4 2 ging 
+: 2417 4 -1 pes
+: 2425 4 -3 ti
+: 2433 4 -1 lence 
+- 2439
+: 2441 4 2 They 
+: 2449 3 4 strike
+: 2453 4 6 ~ 
+: 2461 8 6 down 
+: 2473 4 2 whom
+: 2481 8 4 e
+: 2493 8 6 ver 
+: 2505 4 9 they 
+F 2513 1 11 (cross) 
+- 2514
+: 2515 2 6 Black 
+: 2521 4 11 sails 
+: 2529 4 11 on 
+: 2537 2 9 the 
+: 2541 2 11 ho
+: 2545 4 13 ri
+: 2553 8 9 zon 
+- 2567
+: 2569 4 4 The 
+: 2577 4 6 plun
+: 2585 12 9 de
+: 2601 4 11 ring 
+: 2609 8 4 rage 
+- 2623
+: 2625 4 6 Roars 
+: 2633 4 4 like 
+: 2641 8 2 thun
+: 2653 8 -1 der 
+: 2665 4 -3 and 
+: 2673 8 -1 rain 
+- 2683
+: 2685 8 2 Brings 
+: 2697 4 4 a 
+: 2705 8 2 shi
+: 2717 8 -1 pload 
+: 2729 4 -3 of 
+: 2737 4 6 blood 
+: 2745 4 9 and 
+: 2753 8 4 pain 
+- 2767
+: 2769 4 6 Black 
+: 2777 4 11 sails 
+: 2785 4 11 on 
+: 2793 2 9 the 
+: 2797 2 11 ho
+: 2801 4 13 ri
+: 2809 8 9 zon 
+- 2823
+: 2825 4 4 The 
+: 2833 4 6 plun
+: 2841 12 9 de
+: 2857 4 11 ring 
+: 2865 8 4 rage 
+- 2879
+: 2881 4 6 Roars 
+: 2889 4 4 like 
+: 2897 8 2 thun
+: 2909 8 -1 der 
+: 2921 4 -3 and 
+: 2929 8 -1 rain 
+- 2939
+: 2941 8 2 Brings 
+: 2953 4 4 a 
+: 2961 8 2 shi
+: 2973 8 -1 pload 
+: 2985 4 -3 of 
+: 2993 4 6 blood 
+: 3001 4 9 and 
+: 3009 8 9 pain 
+- 3063
+: 4530 4 6 There’s 
+: 4538 4 6 no 
+: 4546 3 6 place
+: 4550 2 4 ~ 
+: 4554 4 2 in 
+: 4562 2 4 hea
+: 4566 2 2 ven 
+: 4570 4 1 or 
+: 4578 8 2 hell 
+- 4592
+: 4594 4 -1 There’s 
+: 4602 4 2 no 
+: 4610 4 6 jail 
+: 4618 4 9 to 
+: 4626 3 6 hold
+: 4630 16 4 ~ 
+- 4655
+: 4658 4 6 Hang
+: 4666 4 6 mans 
+: 4674 3 6 sword
+: 4678 2 4 ~ 
+: 4682 4 2 shows 
+: 4690 2 4 mer
+: 4694 2 2 cy 
+: 4698 4 1 and 
+: 4706 8 -1 bliss 
+- 4720
+: 4722 4 2 Sen
+: 4730 4 11 tenced 
+: 4738 4 9 to 
+: 4746 4 6 the 
+: 4754 20 4 cage 
+- 4783
+: 4786 4 6 Af
+: 4794 4 6 ter 
+: 4802 3 6 nights
+: 4806 2 4 ~ 
+: 4810 4 2 of 
+: 4818 2 4 hun
+: 4822 2 2 ger 
+: 4826 4 1 and 
+: 4834 8 2 cold 
+- 4848
+: 4850 4 -1 Crew 
+: 4858 4 2 from 
+: 4866 4 6 hell 
+: 4874 4 9 re
+: 4882 3 6 turns
+: 4886 16 4 ~ 
+- 4911
+: 4914 4 6 Break 
+: 4922 4 6 out 
+: 4930 3 6 of
+: 4934 2 4 ~ 
+: 4938 4 2 this 
+: 4946 2 4 gib
+: 4950 2 2 be
+: 4954 4 1 ting 
+: 4962 8 -1 crate 
+- 4976
+: 4978 4 2 Let 
+: 4986 4 11 the 
+: 4994 4 9 ven
+: 5002 4 6 geance 
+: 5010 20 4 burn 
+- 5040
+: 5050 4 6 Tra
+: 5058 4 6 cing 
+: 5066 4 2 the 
+: 5074 4 -1 scent 
+: 5082 4 -3 of 
+: 5090 4 -1 gold 
+: 5098 4 2 like 
+: 5106 12 -1 sharks 
+- 5120
+: 5122 12 2 Through 
+: 5138 4 4 hun
+: 5146 4 6 ger, 
+: 5154 4 4 dread 
+: 5162 4 2 and 
+: 5170 24 -1 blood 
+- 5240
+: 5290 4 6 Like 
+: 5298 4 6 scour
+: 5306 4 2 ging 
+: 5314 4 -1 pes
+: 5322 4 -3 ti
+: 5330 4 -1 lence 
+- 5336
+: 5338 4 2 They 
+: 5346 3 4 strike
+: 5350 4 6 ~ 
+: 5358 8 6 down 
+: 5370 4 2 whom
+: 5378 8 4 e
+: 5390 8 6 ver 
+: 5402 4 9 they 
+F 5410 1 11 (cross) 
+- 5411
+: 5412 2 6 Black 
+: 5418 4 11 sails 
+: 5426 4 11 on 
+: 5434 2 9 the 
+: 5438 2 11 ho
+: 5442 4 13 ri
+: 5450 8 9 zon 
+- 5464
+: 5466 4 4 The 
+: 5474 4 6 plun
+: 5482 12 9 de
+: 5498 4 11 ring 
+: 5506 8 4 rage 
+- 5520
+: 5522 4 6 Roars 
+: 5530 4 4 like 
+: 5538 8 2 thun
+: 5550 8 -1 der 
+: 5562 4 -3 and 
+: 5570 8 -1 rain 
+- 5580
+: 5582 8 2 Brings 
+: 5594 4 4 a 
+: 5602 8 2 shi
+: 5614 8 -1 pload 
+: 5626 4 -3 of 
+: 5634 4 6 blood 
+: 5642 4 9 and 
+: 5650 8 4 pain 
+- 5664
+: 5666 4 6 Black 
+: 5674 4 11 sails 
+: 5682 4 11 on 
+: 5690 2 9 the 
+: 5694 2 11 ho
+: 5698 4 13 ri
+: 5706 8 9 zon 
+- 5720
+: 5722 4 4 The 
+: 5730 4 6 plun
+: 5738 12 9 de
+: 5754 4 11 ring 
+: 5762 8 4 rage 
+- 5776
+: 5778 4 6 Roars 
+: 5786 4 4 like 
+: 5794 8 2 thun
+: 5806 8 -1 der 
+: 5818 4 -3 and 
+: 5826 8 -1 rain 
+- 5836
+: 5838 8 2 Brings 
+: 5850 4 4 a 
+: 5858 8 2 shi
+: 5870 8 -1 pload 
+: 5882 4 -3 of 
+: 5890 4 6 blood 
+: 5898 4 9 and 
+: 5906 8 9 pain, 
+: 5922 72 11 yeah! 
+E

@@ -1,0 +1,211 @@
+#ARTIST:Sting
+#TITLE:Fragile
+#MP3:Sting - Fragile.mp3
+#CREATOR:Canni
+#YEAR:1987
+#LANGUAGE:English
+#BPM:243.3
+#GAP:43440
+#VIDEO:v=lB6a-iD6ZOY,co=https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/98/a3/c698a3bd-17d7-f889-e89d-324109d7f974/19UMGIM62636.rgb.jpg/5000x5000bb.jpg,bg=sting-541d5de240ed7.jpg
+: 0 2 4 If 
+: 4 2 11 blood 
+: 8 2 9 will 
+: 14 8 11 flow 
+- 24
+: 44 2 4 When 
+: 48 4 11 flesh 
+: 54 2 9 and 
+: 58 4 11 steel 
+: 64 2 12 are 
+: 68 8 9 one 
+- 78
+: 102 2 9 Dry
+: 106 2 9 ing 
+: 110 2 9 in 
+: 114 2 7 the 
+: 118 2 9 co
+: 122 4 9 lour 
+- 128
+: 140 2 6 Of 
+: 144 2 7 the 
+: 148 4 9 eve
+: 154 3 11 ning 
+: 160 8 11 sun 
+- 170
+: 186 2 4 To
+: 190 2 11 mor
+: 194 2 9 row’s 
+: 198 10 11 rain 
+- 210
+: 228 4 4 Will 
+: 234 4 11 wash 
+: 240 2 9 the 
+: 244 4 11 stains 
+: 250 2 12 a
+: 254 10 9 way 
+- 266
+: 282 2 4 But 
+: 286 4 9 some
+: 292 2 9 thing 
+: 296 4 9 in 
+: 302 4 9 our 
+: 308 6 11 minds 
+- 316
+: 320 2 9 Will 
+: 324 4 9 al
+: 330 4 7 ways 
+: 338 4 4 stay 
+- 344
+: 376 2 4 Per
+: 380 2 11 haps 
+: 384 2 9 this 
+: 390 2 11 fi
+: 394 2 9 nal 
+: 398 4 11 act 
+: 404 2 9 was 
+: 408 4 11 meant 
+- 414
+: 422 2 4 To 
+: 426 4 11 clinch 
+: 432 2 12 a 
+: 436 2 11 life
+: 440 4 9 time’s 
+: 446 4 9 ar
+: 452 2 7 gu
+: 456 4 4 ment 
+- 462
+: 468 2 4 That 
+: 472 2 9 no
+: 476 2 9 thing 
+: 480 4 9 comes 
+: 486 2 7 from 
+: 490 2 9 vi
+: 494 2 7 o
+: 498 4 9 lence 
+- 504
+: 514 2 7 And 
+: 518 2 9 no
+: 522 4 11 thing 
+: 528 2 11 e
+: 532 4 11 ver 
+: 538 14 11 could 
+- 554
+: 562 2 4 For 
+: 566 2 11 all 
+: 570 2 11 those 
+: 574 2 11 born 
+- 578
+: 580 4 11 Be
+: 586 2 11 neath 
+: 590 4 11 an 
+: 596 4 11 an
+: 604 6 11 gry 
+: 616 8 7 star 
+- 626
+: 656 2 9 Less 
+: 660 2 9 we 
+: 664 2 9 for
+: 668 2 9 get 
+: 672 4 9 how 
+- 677
+: 678 4 9 Fra
+: 684 6 6 gile 
+: 692 2 4 we 
+: 696 6 4 are 
+- 704
+: 752 10 9 On 
+: 766 4 7 and 
+: 772 10 9 on 
+- 784
+: 788 6 7 The 
+: 796 10 7 rain 
+: 812 4 6 will 
+: 818 8 7 fall 
+- 828
+: 834 6 6 Like 
+: 842 8 7 tears 
+: 852 4 6 from 
+: 858 4 6 a 
+: 864 10 4 star 
+- 876
+: 884 4 6 Like 
+: 890 6 7 tears 
+: 898 4 6 from 
+: 904 4 6 a 
+: 910 8 4 star 
+- 920
+: 938 10 9 On 
+: 952 4 7 and 
+: 958 10 9 on 
+- 970
+: 976 4 7 The 
+: 982 8 7 rain 
+: 996 4 6 will 
+: 1002 8 7 say 
+- 1012
+: 1020 6 6 How 
+: 1028 8 7 fra
+: 1038 4 6 gile 
+: 1044 4 6 we 
+: 1050 6 4 are 
+- 1058
+: 1070 4 6 How 
+: 1076 6 7 fra
+: 1084 4 6 gile 
+: 1090 4 6 we 
+: 1096 8 4 are 
+- 1106
+: 1864 10 9 On 
+: 1880 4 7 and 
+: 1886 10 9 on 
+- 1898
+: 1902 4 7 The 
+: 1908 10 7 rain 
+: 1924 4 6 will 
+: 1930 6 7 fall 
+- 1938
+: 1948 4 6 Like 
+: 1956 6 7 tears 
+: 1966 4 6 from 
+: 1972 4 6 a 
+: 1978 6 4 star 
+- 1986
+: 1998 4 6 Like 
+: 2004 6 7 tears 
+: 2012 4 6 from 
+: 2018 4 6 a 
+: 2024 8 4 star 
+- 2034
+: 2050 8 9 On 
+: 2064 4 7 and 
+: 2070 10 9 on 
+- 2082
+: 2086 4 7 The 
+: 2094 8 7 rain 
+: 2110 4 6 will 
+: 2116 6 7 say 
+- 2124
+: 2134 4 6 How 
+: 2142 6 7 fra
+: 2150 4 6 gile 
+: 2156 4 6 we 
+: 2162 6 4 are 
+- 2170
+: 2184 4 6 How 
+: 2190 6 7 fra
+: 2198 4 6 gile 
+: 2204 4 6 we 
+: 2210 6 4 are 
+- 2218
+: 2230 4 6 How 
+: 2236 6 7 fra
+: 2244 4 6 gile 
+: 2250 4 6 we 
+: 2256 6 4 are 
+- 2264
+: 2276 4 6 How 
+: 2282 6 7 fra
+: 2290 4 6 gile 
+: 2296 4 6 we 
+: 2302 8 4 are 
+E

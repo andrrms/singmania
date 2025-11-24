@@ -1,0 +1,176 @@
+#ARTIST:Pink Floyd
+#TITLE:Pigs On The Wing (Pt. 1 & 2)
+#MP3:Pink Floyd - Pigs On The Wing (Pt. 1 & 2).mp3
+#CREATOR:extraaa
+#COVER:Pink Floyd - Pigs On The Wing (Pt. 1 & 2) [CO].jpg
+#BACKGROUND:Pink Floyd - Pigs On The Wing (Pt. 1 & 2) [BG].jpg
+#GENRE:Psychedelic
+#YEAR:1977
+#LANGUAGE:English
+#BPM:417.65
+#GAP:14420
+#VIDEO:v=iTkKcB6wZ7s,co=animals-5f45179189ac9.jpg,bg=pink-floyd-4dea8509aef63.jpg
+: 0 2 2 If
+: 7 3 11  you
+: 13 4 11  did
+: 20 1 9 n't
+: 32 6 7  care
+: 39 2 4 ~
+- 96
+: 209 2 0 What
+: 215 3 2  hap
+: 221 1 2 pened
+: 228 1 2  to
+: 234 10 11  me
+- 299
+: 418 1 2 And
+: 424 4 11  I
+: 430 3 11  did
+: 436 1 9 n't
+: 445 8 7  care
+: 454 2 4 ~
+- 511
+* 645 2 2 For
+* 653 13 11  you
+- 721
+: 845 3 11 We
+: 851 6 11  would
+: 859 3 9 ~
+: 885 3 9  zig
+: 894 4 9 zag
+: 903 4 7  our
+: 910 6 9  way
+: 917 2 7 ~
+- 929
+: 963 3 2 Through
+: 969 2 0  the
+: 976 1 9  bore
+: 978 2 11 ~
+: 982 1 9 dom
+: 988 1 7  and
+: 996 5 9  pain
+: 1002 3 7 ~
+- 1032
+: 1073 1 7 Oc
+: 1080 3 9 ca
+: 1084 2 11 ~
+: 1092 2 11 sio
+: 1098 3 11 nal
+: 1104 8 11 ly
+: 1131 3 11  glan
+: 1135 2 9 ~
+: 1144 4 7 cing
+: 1157 2 9  up
+: 1169 6 9  through
+: 1176 2 7 ~
+: 1181 1 7  the
+: 1188 5 9  rain
+: 1194 7 11 ~
+- 1256
+: 1314 3 9 Won
+: 1321 4 9 de
+: 1327 4 9 ring
+: 1332 3 7 ~
+: 1352 1 9  which
+: 1359 3 9  of
+: 1363 2 7 ~
+: 1370 1 7  the
+: 1376 3 9  bug
+: 1382 1 9 gers
+: 1389 1 7  to
+: 1395 4 7  blame
+: 1402 11 9 ~
+- 1468
+: 1588 2 4 And
+: 1596 3 6  wat
+: 1604 7 6 ching
+- 1638
+: 1709 2 6 For
+: 1716 2 6  pigs
+: 1724 6 7  on
+: 1734 2 9  the
+: 1742 6 7  wing
+- 1803
+: 3226 2 11 You
+: 3229 3 9 ~
+: 3237 4 11  know
+: 3245 2 9  that
+: 3250 3 7  I
+: 3260 6 7  care
+: 3268 3 4 ~
+- 3326
+: 3441 2 2 What
+: 3447 2 2  hap
+: 3452 1 0 pens
+: 3459 2 2  to
+* 3466 13 11  you
+- 3534
+: 3644 3 11 And
+: 3650 3 9  I
+: 3657 4 11  know
+: 3664 2 9  that
+: 3671 1 7  you
+: 3679 5 7  care
+: 3685 3 4 ~
+- 3743
+: 3875 1 2 For
+: 3879 3 2  me
+* 3887 12 11  too
+- 3954
+: 4077 4 11 So
+: 4084 8 11  I
+: 4093 4 9 ~
+: 4117 4 9  don't
+: 4130 4 9  feel
+: 4137 2 7  a
+: 4143 7 9 lone
+: 4151 2 7 ~
+- 4163
+: 4195 3 2 Or
+: 4200 2 1  the
+: 4208 3 11  weight
+: 4213 2 9  of
+: 4218 2 7  the
+: 4226 9 9  stone
+: 4236 2 7 ~
+- 4265
+: 4311 3 9 Now
+: 4315 5 11 ~
+: 4324 3 11  that
+: 4329 4 11  I've
+: 4344 5 11  found
+: 4362 2 11  some
+: 4369 6 7 where
+: 4384 5 7  safe
+: 4390 2 4 ~
+- 4403
+: 4407 1 2 To
+: 4413 4 11  bu
+: 4419 2 9 ry
+: 4425 3 7  my
+: 4431 10 11  bone
+: 4442 4 9 ~
+- 4473
+: 4524 1 7 And
+: 4529 3 9  a
+: 4535 8 9 ny
+: 4552 8 9  fool
+: 4561 3 7 ~
+: 4568 14 9  knows
+- 4592
+: 4601 1 7 A
+: 4606 7 9  dog
+: 4619 8 9  needs
+: 4632 3 7  a
+: 4639 13 9  home
+- 4707
+: 4830 2 4 A
+: 4837 4 6  shel
+: 4845 8 6 ter
+- 4880
+: 4948 3 6 From
+: 4959 3 6  pigs
+: 4967 6 7  on
+* 4977 1 9  the
+: 4983 10 7  wing
+E

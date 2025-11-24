@@ -1,0 +1,283 @@
+#ARTIST:Emmylou Harris
+#TITLE:Mister Sandman
+#MP3:Emmylou Harris - Mister Sandman.mp3
+#CREATOR:Ultrastarfreak
+#YEAR:1980
+#LANGUAGE:English
+#BPM:225.84
+#GAP:8340
+#VIDEO:v=jodYJVLx_Sw,co=https://i.discogs.com/ipwsT8A85J_W__oiss0D_8MMWtsZENCvjj-Hx3fOnXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/NjItMTQwNzMzMzYw/OS02ODU0LmpwZWc.jpeg,bg=harris-emmylou-605b7ed257cca.jpg
+: 0 5 17 Mis
+: 6 3 19 ter 
+: 10 7 21 Sand
+: 18 10 19 man 
+: 42 5 21 bring 
+: 48 3 21 me 
+: 52 3 19 a 
+: 56 22 21 dream 
+- 80
+: 82 3 22 Make 
+: 86 3 22 him 
+: 90 3 21 the 
+: 94 3 22 cu 
+: 98 5 22 test 
+: 104 5 21 that 
+: 110 3 15 I’ve 
+: 114 3 15 e 
+: 118 3 14 ver 
+: 122 12 15 seen 
+- 136
+: 146 3 21 Give 
+: 150 3 21 him 
+: 154 3 19 two 
+: 158 8 21 lips 
+: 168 5 19 like 
+: 174 3 14 ro 
+: 178 5 14 ses 
+: 184 3 12 and 
+: 188 5 14 clo 
+: 194 8 17 ver 
+- 204
+: 212 3 24 Then 
+: 216 3 24 tell 
+: 220 3 22 him 
+: 224 3 24 that 
+: 228 3 22 his 
+: 232 3 24 lone 
+: 236 3 22 some 
+: 240 7 25 nights 
+: 248 6 25 are 
+: 256 3 26 o 
+: 260 8 24 ver. 
+- 270
+: 272 7 21 Sand 
+: 280 10 19 man 
+: 304 5 21 I’m 
+: 310 3 21 so 
+: 314 3 19 a 
+: 318 22 21 lone 
+- 342
+: 344 3 22 Don’t 
+: 348 3 22 have 
+: 352 3 21 no 
+: 356 3 22 bo 
+: 360 6 22 dy 
+: 368 3 21 to 
+: 372 7 15 call 
+: 380 3 14 my 
+: 384 16 15 own 
+- 402
+: 404 7 12 Please 
+: 412 5 15 turn 
+: 418 5 19 on 
+: 424 3 22 your 
+: 428 3 22 ma 
+: 432 3 22 gic 
+: 436 20 24 beam 
+- 458
+: 462 3 22 Mis 
+: 466 3 24 ter 
+: 470 7 26 Sand 
+: 478 7 26 man 
+: 486 3 26 bring 
+: 490 3 22 me 
+: 494 6 26 a 
+: 502 20 22 dream. 
+- 523
+: 524 3 10 Bam
+: 528 3 12 bam
+: 532 3 14 bam
+: 536 4 15 bam
+: 562 4 15 Bam
+: 568 4 17 bam
+: 594 4 10 bam
+: 600 4 15 bam
+: 630 3 15 bam
+: 634 4 17 bam 
+- 640
+: 656 3 10 Mis 
+: 660 3 12 ter 
+: 664 3 14 Sand 
+: 668 16 12 man 
+: 696 3 14 bring 
+: 700 3 14 me 
+: 704 3 12 a 
+: 708 20 14 dream 
+- 730
+: 732 4 15 Make 
+: 738 3 15 him 
+: 742 3 14 the 
+: 746 3 15 cu 
+: 750 4 15 test 
+: 756 3 14 that 
+: 760 3 8 I’ ve 
+: 764 3 8 e
+: 768 3 7 ver 
+: 772 10 8 seen 
+- 784
+: 796 5 14 Give 
+: 802 3 14 him 
+: 806 3 12 the 
+: 810 11 14 word 
+: 822 3 12 that 
+: 826 3 7 I’m 
+: 830 3 7 not 
+: 834 3 5 a 
+: 838 7 7 ro 
+: 846 12 10 ver 
+- 860
+: 862 3 17 Then 
+: 866 3 17 tell 
+: 870 3 15 him 
+: 874 3 17 that 
+: 878 3 15 his 
+: 882 3 17 lone 
+: 886 3 15 some 
+: 890 7 18 nights 
+: 898 5 18 are 
+: 904 3 19 o 
+: 908 8 17 ver. 
+- 918
+: 920 7 14 Sand 
+: 928 12 12 man 
+: 952 5 14 I’m 
+: 958 3 14 so 
+: 962 3 12 a 
+: 966 20 14 lone 
+- 987
+: 988 5 15 Don’t 
+: 994 3 15 have 
+: 998 3 14 no 
+: 1002 3 15 bo
+: 1006 7 15 dy 
+: 1014 3 14 to 
+: 1018 6 8 call 
+: 1026 6 7 my 
+: 1034 12 8 own 
+- 1048
+: 1050 5 5 Please 
+: 1056 5 8 turn 
+: 1062 5 12 on 
+: 1068 3 15 your 
+: 1072 3 15 ma 
+: 1076 4 15 gic 
+: 1082 20 17 beam 
+- 1103
+: 1104 3 15 Mis 
+: 1108 3 17 ter 
+: 1112 7 19 Sand 
+: 1120 7 19 man 
+: 1128 3 19 bring 
+: 1132 3 15 me 
+: 1136 6 19 a 
+: 1144 20 15 dream 
+- 1165
+: 1166 3 10 Bam
+: 1170 3 12 bam
+: 1174 3 14 bam
+: 1178 4 15 bam
+: 1204 3 15 Bam
+: 1208 4 12 bam
+: 1240 6 10 bam
+: 1248 8 15 bam
+: 1268 7 15 bam
+: 1276 8 10 bam 
+- 1286
+: 1302 3 17 Mis 
+: 1306 3 19 ter 
+: 1310 5 21 Sand 
+: 1316 10 19 man 
+: 1342 3 21 bring 
+: 1346 3 21 us 
+: 1350 3 19 a 
+: 1354 10 21 dream 
+- 1365
+: 1366 1 21 Give 
+: 1368 1 21 him 
+: 1370 1 21 a 
+: 1372 9 22 pair 
+: 1382 3 21 of 
+: 1386 5 22 eyes 
+: 1392 7 22 with 
+: 1400 3 21 a 
+: 1404 3 15 come 
+: 1408 3 15 hi
+: 1412 3 14 ther 
+: 1416 8 15 gleam 
+- 1426
+: 1430 1 12 Give 
+: 1432 1 12 him 
+: 1434 1 12 a 
+: 1436 7 21 lone 
+: 1444 4 19 ly 
+: 1452 11 21 heart 
+: 1464 4 19 like 
+- 1469
+: 1470 5 14 Pa
+: 1476 5 12 gli 
+: 1482 5 14 ac 
+: 1488 6 17 ci 
+- 1496
+: 1504 3 24 And 
+: 1508 3 24 lots 
+: 1512 3 22 of 
+: 1516 3 24 wa 
+: 1520 3 22 vy 
+: 1524 3 24 hair 
+: 1528 5 22 like 
+- 1534
+: 1534 6 25 Li 
+: 1542 6 25 be 
+: 1550 3 26 ra
+: 1554 6 24 ce. 
+- 1562
+: 1572 3 17 Mis 
+: 1576 3 19 ter 
+: 1580 5 21 Sand 
+: 1586 9 19 man 
+: 1596 5 21 some 
+: 1602 3 21 one 
+: 1606 3 19 to 
+: 1610 20 21 hold 
+- 1632
+: 1634 3 22 Would 
+: 1638 3 22 be 
+: 1642 3 21 so 
+: 1646 3 22 pea 
+: 1650 7 22 chy 
+- 1658
+: 1658 3 21 Be 
+: 1662 3 15 fore 
+: 1666 3 15 we’re 
+: 1670 3 14 too 
+: 1674 9 15 old 
+- 1684
+: 1684 7 14 So 
+: 1692 7 12 please 
+: 1700 5 15 turn 
+: 1706 5 19 on 
+: 1712 3 22 your 
+: 1716 3 22 ma 
+: 1720 3 22 gic 
+: 1724 16 24 beam 
+- 1742
+: 1748 3 22 Mis 
+: 1752 3 24 ter 
+: 1756 7 26 Sand 
+: 1764 7 26 man 
+: 1772 3 26 bring 
+: 1776 4 22 us 
+- 1782
+: 1788 7 26 Please 
+: 1796 7 26 please 
+: 1804 7 26 please 
+: 1812 3 22 Mis 
+: 1816 3 24 ter 
+: 1820 7 26 Sand 
+: 1828 16 26 man 
+- 1846
+: 1852 7 26 Bring 
+: 1860 6 22 us 
+: 1868 14 26 a 
+: 1884 40 22 dream... 
+E

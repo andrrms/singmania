@@ -1,0 +1,207 @@
+#ARTIST:Syd Matters
+#TITLE:To All Of You
+#MP3:Syd Matters - To All Of You.mp3
+#CREATOR:testguy1245
+#COVER:Syd Matters - To All Of You [CO].jpg
+#BACKGROUND:Syd Matters - To All Of You [BG].jpg
+#GENRE:Indie
+#YEAR:2008
+#LANGUAGE:English
+#BPM:258
+#GAP:27450
+#VIDEO:a=AoHFCLxTkE4,v=YwJqUbd1vzs,co=someday-we-will-foresee-obstacles-64a075c2e7bb7.jpg,bg=syd-matters-552b12b3636d9.jpg,medley=789-1376
+: 0 4 6 To 
+: 5 6 6 all 
+: 13 4 4 of 
+: 18 16 3 you, 
+: 40 3 6 A
+: 45 6 6 me
+: 52 4 4 ri
+: 57 6 3 can 
+: 65 1 4 girls 
+: 67 10 6 ~, 
+: 79 2 6 it’s 
+: 84 8 6 sad 
+: 94 16 4 to 
+- 116
+: 118 4 6 I
+: 123 6 6 ma
+: 130 5 4 gine 
+: 137 3 3 a 
+: 142 1 4 world
+: 144 11 6 ~ 
+: 157 4 6 with
+: 162 9 6 out 
+: 173 16 3 you 
+- 195
+: 197 4 6 A
+: 202 7 6 me
+: 210 4 4 ri
+: 215 6 3 can 
+: 222 2 4 girls
+: 225 11 6 ~ 
+: 237 3 6 I’d 
+: 242 8 6 like 
+: 251 16 4 to 
+- 273
+: 276 3 6 Be 
+: 281 7 6 part 
+: 289 4 4 of 
+: 294 7 3 the 
+: 302 1 4 world
+: 304 10 6 ~ 
+: 316 2 6 a
+: 319 11 6 round 
+: 331 16 3 you 
+- 357
+: 361 6 6 Dri
+: 368 4 4 ving 
+: 374 4 3 a 
+: 380 1 4 car
+: 382 7 6 ~ 
+: 391 3 6 by 
+: 395 2 6 the 
+: 399 9 6 sea
+: 410 16 4 side 
+- 435
+: 439 5 6 Wat
+: 446 5 4 ching 
+: 452 4 3 the 
+: 457 2 4 world
+: 460 6 6 ~ 
+: 469 4 6 from 
+: 474 2 6 the 
+: 478 9 6 bright 
+: 489 20 3 side 
+- 526
+: 553 28 1 (Yeah) 
+- 615
+: 789 4 6 To 
+: 796 5 6 all 
+: 802 4 4 of 
+: 808 17 3 you, 
+: 829 4 6 A
+: 834 6 6 me
+: 841 4 4 ri
+: 846 6 3 can 
+: 854 1 4 girls
+: 856 8 6 ~ 
+: 865 3 6 in 
+: 869 3 6 the 
+: 873 9 6 mo
+: 883 17 4 vies 
+- 910
+: 914 5 6 No
+: 920 4 4 one 
+: 926 4 3 can 
+: 933 1 4 tell
+: 935 7 6 ~ 
+: 943 3 6 where 
+: 947 4 6 your 
+: 952 11 6 heart 
+: 965 15 3 is 
+- 986
+: 988 2 6 A
+: 992 7 6 me
+: 1000 3 4 ri
+: 1005 6 3 can 
+: 1012 1 4 girls
+: 1014 6 6 ~ 
+: 1022 6 6 like 
+: 1031 6 6 dol
+: 1038 16 4 lies 
+- 1062
+: 1065 4 6 With 
+: 1071 5 6 shi
+: 1078 4 6 ny 
+: 1084 10 6 smiles 
+: 1095 4 3 and 
+: 1100 4 3 plas
+: 1105 4 4 tic 
+: 1110 1 4 bo
+: 1112 20 3 dies 
+- 1149
+: 1174 4 3 I 
+: 1179 3 4 wish 
+: 1183 3 3 I 
+: 1189 23 1 had 
+: 1261 1 -1 an 
+: 1263 2 -1 A
+: 1266 2 1 me
+: 1269 3 3 ri
+: 1274 30 -1 can 
+: 1342 9 3 girl
+: 1352 24 -1 friend 
+- 1444
+: 1816 4 6 I 
+: 1822 5 6 cry 
+: 1829 5 4 some 
+: 1836 16 3 times, 
+: 1861 4 6 wal
+: 1867 4 4 king 
+: 1873 4 3 a
+: 1878 2 4 round
+: 1881 13 6 ~ 
+: 1895 4 6 my 
+: 1900 8 6 own 
+: 1910 21 4 place 
+- 1937
+: 1939 7 6 Won
+: 1947 3 4 de
+: 1951 7 3 ring 
+: 1959 1 4 why
+: 1961 10 6 ~ 
+: 1973 4 6 she 
+: 1979 6 6 cries 
+: 1987 4 4 some
+: 1992 17 3 times 
+- 2015
+: 2018 5 6 Tal
+: 2025 4 4 king 
+: 2030 5 3 a
+: 2036 1 4 bout
+: 2038 13 6 ~ 
+: 2053 5 6 her 
+: 2059 7 6 own 
+: 2067 20 4 place 
+- 2094
+: 2097 7 6 Some
+: 2105 4 4 where 
+: 2110 4 3 a
+: 2115 1 4 round
+: 2117 13 6 ~ 
+: 2131 2 6 the 
+: 2135 10 6 moun
+: 2147 20 3 tains 
+- 2173
+: 2176 6 6 No
+: 2183 4 4 one 
+: 2189 6 3 could 
+: 2196 2 4 dry
+: 2199 5 6 ~ 
+: 2206 6 6 her 
+: 2216 8 6 foun
+: 2225 20 4 tain 
+- 2252
+: 2255 5 6 Till 
+: 2262 4 4 she 
+: 2267 6 3 got 
+: 2275 1 4 ti
+: 2277 6 6 red 
+: 2284 4 6 to 
+: 2289 6 6 com
+: 2297 21 3 plain 
+- 2335
+: 2358 4 3 That’s 
+: 2363 2 4 when 
+: 2366 3 3 I 
+: 2373 33 1 fly 
+: 2445 1 -1 to 
+: 2447 1 -1 the 
+: 2449 3 1 wild
+: 2453 3 3 ~
+: 2460 28 -1 land, 
+: 2524 3 -1 to 
+: 2528 9 3 your 
+: 2539 29 -1 land 
+E

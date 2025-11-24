@@ -1,0 +1,241 @@
+#ARTIST:Belle and Sebastian
+#TITLE:We Rule The School
+#MP3:Belle and Sebastian - We Rule The School.mp3
+#CREATOR:choosie
+#YEAR:1996
+#LANGUAGE:English
+#BPM:243
+#GAP:7990
+#VIDEO:a=M4oRpcG_hR4,co=tigermilk-55bbcb27a2cdc.jpg,bg=belle-and-sebastian-5b424e09ac2b0.jpg
+: 0 2 7 On 
+: 4 2 7 a 
+: 8 5 7 beech 
+: 16 5 3 tree, 
+: 24 2 5 rude
+: 28 5 7 ly 
+: 36 8 7 carved 
+- 53
+: 56 9 12 “N
+: 68 21 10 C 
+: 92 6 12 loved 
+: 101 6 7 me” 
+- 116
+: 119 5 10 Why 
+: 127 4 8 did 
+: 133 4 7 she 
+: 139 2 5 do 
+: 143 3 3 it? 
+- 147
+: 149 4 5 Was 
+: 155 5 7 she 
+: 163 12 7 scared? 
+- 181
+: 184 2 7 Was 
+: 188 5 7 she 
+* 196 9 5 bored? 
+- 221
+: 256 2 7 On 
+: 260 2 7 a 
+: 264 5 7 beech 
+: 272 5 3 tree, 
+: 280 2 5 rude
+: 284 5 7 ly 
+: 292 8 7 carved 
+- 308
+: 311 5 12 “N
+: 319 22 10 C 
+: 345 6 12 loved 
+: 354 10 7 me” 
+- 371
+* 374 5 10 Why 
+: 382 4 8 did 
+: 388 4 7 she 
+: 394 2 5 do 
+: 398 2 3 it? 
+- 402
+: 404 4 5 Was 
+: 410 5 7 she 
+: 418 10 7 scared? 
+- 434
+: 436 2 7 Was 
+: 440 5 7 she 
+: 448 6 5 pushed? 
+- 470
+: 492 5 2 Do 
+: 500 5 3 some
+: 508 5 5 thing 
+* 516 2 7 pret
+* 520 5 8 ty 
+: 528 4 7 while 
+: 535 5 5 you 
+: 543 4 7 can 
+- 557
+: 564 6 12 Don’t 
+: 573 22 10 fall 
+: 599 5 12 a
+: 607 6 7 sleep 
+- 622
+: 626 5 10 Scate
+: 634 2 8 ing 
+: 638 4 7 a 
+: 644 2 5 pi
+: 648 4 3 rou
+: 654 4 5 ette 
+: 661 5 7 on 
+: 669 14 7 ice 
+- 690
+: 693 5 7 Is 
+* 701 18 5 cool 
+- 729
+: 744 5 2 Do 
+: 752 5 3 some
+: 760 5 5 thing 
+: 768 2 7 pret
+: 772 5 8 ty 
+: 780 4 7 while 
+: 787 5 5 you 
+: 795 8 7 can 
+- 812
+: 815 8 12 Don’t 
+: 826 22 10 be 
+: 851 4 12 a 
+: 858 10 7 fool 
+- 875
+* 878 4 10 Read
+* 884 2 8 ing 
+: 888 4 7 the 
+: 894 4 5 Gos
+: 900 3 3 pel 
+: 905 4 5 to 
+: 911 5 7 your
+: 919 10 7 self 
+- 940
+: 944 5 7 Is 
+: 952 16 5 fine 
+- 1000
+: 1386 2 7 On 
+: 1390 2 7 a 
+* 1394 5 7 bus 
+* 1402 5 3 stop 
+: 1410 2 5 in 
+: 1414 5 7 the 
+: 1422 10 7 town 
+- 1443
+: 1447 5 12 “We 
+: 1455 20 10 rule 
+: 1479 5 12 the 
+: 1487 10 7 school” 
+- 1503
+: 1505 4 10 Writ
+: 1511 4 8 ten 
+: 1517 5 7 for 
+* 1524 2 5 a
+* 1528 4 3 ny
+* 1534 5 5 one 
+: 1542 4 7 to 
+: 1549 12 7 read 
+- 1567
+: 1570 3 7 And 
+: 1575 4 7 to 
+: 1583 10 5 see 
+- 1609
+: 1643 2 7 On 
+: 1647 2 7 a 
+: 1651 5 7 bus 
+: 1659 5 3 stop 
+: 1667 2 5 in 
+: 1671 5 7 the 
+: 1679 12 7 town 
+- 1700
+* 1703 5 12 “We 
+* 1711 21 10 rule 
+* 1735 5 12 the 
+* 1743 12 7 school” 
+- 1761
+: 1764 4 10 Writ
+: 1770 4 8 ten 
+: 1776 3 7 for 
+: 1781 2 5 a
+: 1785 4 3 ny
+: 1792 4 5 one 
+: 1799 5 7 with 
+: 1807 7 7 eyes 
+- 1823
+: 1827 2 7 In 
+: 1831 5 7 their 
+: 1839 12 5 heads 
+- 1867
+* 1885 5 2 Do 
+* 1893 5 3 some
+* 1901 5 5 thing 
+: 1909 2 7 pret
+: 1913 5 8 ty 
+: 1921 5 7 while 
+: 1929 5 5 you 
+: 1937 8 7 can 
+- 1954
+: 1957 8 12 Don’t 
+: 1970 20 10 fall 
+: 1993 5 12 a 
+: 2001 8 7 sleep 
+- 2019
+: 2023 4 10 Wri
+: 2029 4 8 ting 
+: 2035 2 7 from 
+: 2039 5 5 Ca
+: 2047 3 3 li
+: 2052 4 5 forn
+: 2059 4 7 I
+: 2066 14 7 A 
+- 2085
+: 2087 2 7 To 
+* 2091 5 7 New 
+* 2099 26 5 York 
+- 2157
+: 2672 2 7 Call 
+: 2676 2 7 me 
+: 2680 2 7 a 
+: 2684 4 7 pro
+: 2690 5 3 phet 
+: 2698 5 5 if 
+: 2706 5 7 you 
+: 2714 8 7 like 
+- 2732
+: 2736 4 12 It’s 
+: 2743 31 10 no 
+* 2778 5 12 se
+* 2786 14 7 cret 
+- 2809
+: 2813 5 10 You 
+: 2821 5 8 know 
+: 2828 3 7 the 
+: 2833 2 5 world
+: 2837 3 3 ~ 
+: 2842 4 3 was 
+: 2848 5 5 made 
+: 2856 6 7 for 
+: 2865 10 7 men 
+- 2885
+: 2892 5 10 You 
+: 2900 4 8 know 
+: 2906 3 7 the 
+: 2911 2 5 world
+: 2915 3 3 ~ 
+: 2920 4 3 was 
+: 2926 6 5 made 
+* 2935 7 7 for 
+* 2945 10 7 men 
+- 2966
+: 2970 5 10 You 
+: 2978 4 8 know 
+: 2984 4 7 the 
+: 2990 2 5 world
+: 2994 2 3 ~ 
+: 2999 4 3 was 
+: 3005 5 5 made 
+: 3013 9 7 for 
+: 3026 10 7 men 
+- 3046
+* 3064 32 14 Not 
+* 3100 35 10 us. 
+E

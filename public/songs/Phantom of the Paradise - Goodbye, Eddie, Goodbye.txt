@@ -1,0 +1,446 @@
+#ARTIST:Phantom of the Paradise
+#TITLE:Goodbye, Eddie, Goodbye
+#MP3:Phantom of the Paradise - Goodbye, Eddie, Goodbye.mp3
+#CREATOR:Supau
+#COVER:Phantom of the Paradise - Goodbye, Eddie, Goodbye [CO].jpg
+#BACKGROUND:Phantom of the Paradise - Goodbye, Eddie, Goodbye [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1974
+#LANGUAGE:English
+#BPM:312.44
+#GAP:1140
+#VIDEO:v=ghrqS9f8-_4,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/18/66/8b18664a-9589-4a68-622c-999b8248880e/00602547020413.rgb.jpg/5000x5000bb.jpg
+: 0 8 11 We’ll 
+: 10 4 9 re
+: 16 6 9 mem
+: 24 6 7 ber 
+: 33 6 11 you 
+: 42 6 14 for
+: 52 5 14 e
+: 58 20 19 ~
+: 80 4 19 ver, 
+: 88 6 18 Ed
+: 95 5 16 ~
+: 102 12 16 die 
+- 121
+: 124 6 12 Through 
+: 132 3 12 the 
+: 137 7 12 sac
+: 146 5 12 ri
+: 154 2 12 fice
+: 157 4 14 ~ 
+: 164 3 11 you 
+: 169 12 12 made 
+- 185
+: 187 3 12 We 
+: 191 6 15 can’t 
+: 200 3 15 be
+: 205 3 12 lieve
+: 209 4 14 ~ 
+: 216 3 14 the 
+: 222 9 12 price 
+: 233 3 12 you 
+: 238 23 10 paid 
+- 271
+: 284 7 7 For 
+: 293 30 19 love
+: 324 35 21 ~
+: 360 48 23 ~ 
+- 414
+: 417 5 9 For 
+: 425 68 11 love 
+- 513
+: 554 2 14 Lit
+: 558 2 14 tle 
+: 562 2 12 Ed
+: 566 2 11 die 
+: 570 2 12 Mit
+: 574 6 14 ty, 
+: 582 5 14 born 
+: 590 2 14 in 
+: 594 2 12 Jer
+: 598 2 11 sey 
+: 602 3 12 Ci
+: 606 5 14 ty 
+- 613
+: 615 4 11 Star
+: 621 2 11 ted 
+: 625 2 11 sing
+: 629 2 11 in’ 
+: 634 2 14 when 
+: 638 2 11 he 
+: 642 2 9 was 
+: 646 3 9 five
+: 650 20 11 ~ 
+- 676
+: 679 5 12 Ne
+: 686 2 12 ver 
+: 690 2 11 knew 
+: 694 2 11 his 
+: 698 2 9 fa
+: 702 2 7 ther, 
+: 710 3 12 mo
+: 716 2 12 ther 
+: 721 2 12 di
+: 725 2 12 dn’t 
+: 730 2 9 bo
+: 734 5 7 ther 
+- 740
+: 742 2 7 To 
+: 746 2 9 catch 
+: 750 2 11 his 
+: 757 4 12 last 
+: 765 5 12 name 
+: 773 4 9 fast 
+: 781 3 11 as 
+: 788 4 12 he 
+: 796 4 14 came 
+- 802
+: 804 6 14 He 
+: 813 2 14 was 
+: 817 2 12 off 
+: 821 2 11 and 
+: 825 2 12 fly
+: 828 3 14 ing, 
+: 836 3 14 times 
+: 843 2 14 were 
+: 847 2 12 real
+: 852 2 11 ly 
+: 857 2 12 try
+: 861 5 14 ing 
+- 869
+: 871 2 11 Ed
+: 876 2 11 die 
+: 880 2 11 and 
+: 884 2 11 his 
+: 888 2 14 mo
+: 892 2 11 ther 
+: 896 3 9 a
+: 900 3 9 lone
+: 904 13 11 ~ 
+- 928
+: 932 4 12 Soon 
+: 939 2 12 a
+: 943 2 11 no
+: 947 2 11 ther 
+: 952 2 9 mis
+: 956 5 7 ter, 
+: 964 3 12 soon 
+: 971 2 12 a 
+: 975 2 11 ba
+: 979 2 11 by 
+: 983 2 9 sis
+: 987 6 7 ter 
+- 995
+: 997 2 9 Ma
+: 1002 2 9 ma 
+: 1007 2 11 kept 
+: 1014 2 12 swing
+: 1019 2 14 ing’ 
+: 1024 2 14 and 
+: 1028 2 16 Ed
+: 1033 2 16 die 
+: 1037 2 14 kept 
+: 1045 2 11 sing
+: 1049 2 14 in’ 
+- 1051
+: 1053 4 11 Ah,
+: 1058 44 23 ~ 
+: 1108 3 23 ya 
+: 1114 3 21 ya 
+: 1119 3 19 ya 
+: 1125 42 23 ya 
+- 1171
+: 1173 3 23 Ya 
+: 1179 3 21 ya 
+: 1184 3 23 ya 
+: 1189 40 24 ya, 
+: 1235 3 24 ya 
+: 1240 3 23 ya 
+: 1245 3 24 ya 
+: 1251 55 26 ya 
+- 1311
+: 1313 42 23 Ya, 
+: 1361 3 23 ya 
+: 1367 3 21 ya 
+: 1373 3 19 ya 
+: 1378 41 23 ya 
+- 1422
+: 1424 3 23 Ya 
+: 1429 3 21 ya 
+: 1435 3 23 ya 
+: 1440 41 24 ya, 
+: 1486 3 24 ya 
+: 1492 3 23 ya 
+: 1497 3 24 ya 
+: 1503 49 26 ya 
+- 1554
+: 1556 5 18 For 
+: 1565 8 18 love
+: 1574 35 19 ~, 
+: 1624 3 18 for 
+: 1633 7 18 love
+: 1641 10 19 ~ 
+- 1653
+F 1655 2 12 And 
+F 1658 6 12 now, 
+F 1681 2 12 the 
+F 1685 2 12 tra
+F 1689 2 12 gic 
+F 1693 2 12 sto
+F 1699 8 12 ry 
+- 1717
+F 1740 3 12 Ed
+F 1746 2 12 die’s 
+F 1751 2 12 sis
+F 1756 6 12 ter, 
+F 1775 2 12 Ma
+F 1780 2 12 ry 
+F 1785 2 12 Lou
+F 1788 4 12 ise, 
+F 1811 2 12 nee
+F 1815 2 12 ded 
+F 1819 2 12 an 
+F 1822 2 12 o
+F 1825 2 12 pe
+F 1830 2 12 ra
+F 1834 2 12 tion 
+- 1846
+F 1861 2 12 To 
+F 1866 2 12 get 
+F 1870 2 12 the 
+F 1874 2 12 mo
+F 1878 2 12 ney 
+F 1885 2 12 he 
+F 1888 2 12 would 
+F 1891 2 12 have 
+F 1895 2 12 to 
+F 1899 2 12 be
+F 1903 2 12 come 
+F 1913 2 12 an 
+F 1917 2 12 o
+F 1921 2 12 ver
+F 1926 2 12 night 
+F 1933 2 12 sen
+F 1939 2 12 sa
+F 1945 2 12 tion 
+- 1967
+F 1993 2 12 Ed
+F 1997 2 12 die 
+F 2001 2 12 be
+F 2005 3 12 lieved 
+F 2016 2 12 the 
+F 2020 2 12 A
+F 2024 1 12 me
+F 2026 2 12 ri
+F 2029 2 12 can 
+F 2033 2 12 peo
+F 2037 2 12 ple 
+F 2046 2 12 had 
+F 2053 2 12 won
+F 2057 2 12 der
+F 2062 2 12 ful, 
+F 2072 2 12 love-
+F 2077 2 12 gi
+F 2082 2 12 ving 
+F 2088 3 12 hearts 
+- 2101
+F 2116 2 12 His 
+F 2121 2 12 well 
+F 2127 2 12 pub
+F 2133 2 12 li
+F 2138 2 12 cized 
+F 2143 5 12 end, 
+F 2157 2 12 he 
+F 2161 2 12 con
+F 2164 2 12 si
+F 2167 2 12 dered 
+F 2173 2 12 would 
+F 2177 2 12 send 
+- 2188
+F 2192 2 12 His 
+F 2195 2 12 mem
+F 2198 2 12 or
+F 2201 2 12 i
+F 2205 2 12 al 
+F 2209 2 12 al
+F 2213 2 12 bum 
+F 2223 2 12 to 
+F 2227 2 12 the 
+F 2231 2 12 top 
+F 2235 2 12 of 
+F 2239 2 12 the 
+F 2243 2 12 charts 
+F 2257 2 12 and 
+F 2261 2 12 it 
+F 2265 2 12 did 
+- 2267
+: 2268 44 23 Ya, 
+: 2313 4 23 ya 
+: 2321 3 21 ya 
+: 2326 3 19 ya 
+: 2331 42 23 ya 
+- 2376
+: 2378 3 23 Ya 
+: 2384 3 21 ya 
+: 2389 3 23 ya 
+: 2394 40 24 ya, 
+: 2440 3 24 ya 
+: 2446 3 23 ya 
+: 2451 3 24 ya 
+* 2457 55 26 ya 
+- 2516
+: 2518 44 23 Ya, 
+: 2565 4 23 ya 
+: 2573 3 21 ya 
+: 2578 3 19 ya 
+: 2583 42 23 ya 
+- 2628
+: 2630 3 23 Ya 
+: 2636 3 21 ya 
+: 2641 3 23 ya 
+: 2646 40 24 ya, 
+: 2693 3 24 ya 
+: 2699 3 23 ya 
+: 2704 3 24 ya 
+* 2710 55 26 ya 
+- 2770
+: 2772 3 18 Good
+: 2779 5 18 bye,
+: 2787 44 19 ~ 
+: 2840 4 18 good
+: 2849 4 18 bye
+: 2856 46 19 ~ 
+- 2908
+F 2911 2 12 When 
+F 2916 2 12 a 
+F 2920 2 12 young 
+F 2925 2 12 sing
+F 2931 2 12 er 
+F 2937 2 12 dies, 
+F 2951 2 12 to 
+F 2955 2 12 our 
+F 2962 2 12 shock 
+F 2966 2 12 and 
+F 2970 2 12 sur
+F 2975 2 12 prise 
+- 2986
+F 2990 2 12 In 
+F 2994 2 12 a 
+F 2997 2 12 plane 
+F 3001 2 12 crash 
+F 3007 2 12 or 
+F 3010 2 12 fla
+F 3015 2 12 shy 
+F 3020 2 12 sports 
+F 3025 2 12 car 
+- 3037
+F 3053 2 12 He 
+F 3059 2 12 be
+F 3063 2 12 comes 
+F 3069 2 12 quite 
+F 3073 2 12 well 
+F 3079 2 12 known 
+F 3090 2 12 and 
+F 3095 2 12 the 
+F 3099 2 12 kind
+F 3104 2 12 ness 
+F 3108 2 12 he’s 
+F 3113 2 12 shown 
+- 3121
+F 3124 2 12 Has 
+F 3128 2 12 made 
+F 3132 2 12 more 
+F 3140 2 12 than 
+F 3146 2 12 one 
+F 3154 2 12 post 
+F 3158 2 12 mor
+F 3162 2 12 tem 
+F 3167 2 12 star 
+- 3179
+F 3208 11 12 Well 
+F 3224 2 12 you 
+F 3229 2 12 did 
+F 3232 3 12 it 
+F 3240 2 12 Ed
+F 3244 7 12 die, 
+F 3265 2 12 and 
+F 3269 2 12 though 
+F 3273 2 12 it’s 
+F 3278 2 12 hard 
+F 3287 2 12 to 
+F 3290 2 12 app
+F 3294 2 12 laud 
+F 3302 2 12 su
+F 3306 2 12 i
+F 3310 2 12 cide 
+- 3322
+F 3336 2 12 You 
+F 3341 2 12 gave 
+F 3348 2 12 all 
+F 3353 2 12 you 
+F 3359 2 12 could 
+F 3365 2 12 give, 
+F 3376 2 12 so 
+F 3380 2 12 your 
+F 3385 2 12 sis
+F 3390 2 12 ter 
+F 3398 2 12 could 
+F 3402 2 12 live 
+- 3413
+F 3416 9 12 All 
+F 3427 2 12 A
+F 3431 2 12 mer
+F 3435 2 12 i
+F 3439 2 12 ca’s 
+F 3447 2 12 choked 
+F 3453 2 12 up 
+F 3464 2 12 in
+F 3468 2 12 side, 
+F 3481 2 12 man 
+- 3493
+: 3508 7 11 We’ll 
+: 3517 3 9 re
+: 3522 6 7 mem
+: 3531 5 7 ber 
+: 3540 6 11 you 
+: 3550 6 14 for
+: 3558 4 14 e
+: 3563 18 19 ~
+: 3583 6 19 ver, 
+: 3595 3 18 Ed
+: 3599 5 16 ~
+: 3608 10 16 die 
+- 3628
+: 3632 6 12 Through 
+: 3639 3 12 the 
+: 3645 5 12 sac
+: 3655 3 12 ri
+: 3661 6 14 fice 
+: 3672 3 11 you 
+: 3676 4 12 made 
+- 3691
+: 3695 2 12 We 
+: 3700 3 15 can’t 
+: 3708 2 15 be
+: 3713 2 14 lieve 
+: 3723 2 14 the 
+: 3728 3 12 price 
+: 3740 2 12 you 
+: 3746 2 10 paid 
+- 3754
+: 3757 3 7 For 
+: 3766 58 19 love 
+- 3844
+: 3886 3 9 For 
+: 3895 57 23 love 
+- 3972
+: 4015 4 9 For 
+: 4024 97 23 love 
+- 4131
+: 4151 29 15 Ah 
+: 4183 30 19 ah 
+: 4216 29 22 ah 
+: 4248 30 27 ah 
+* 4281 96 26 ah 
+E

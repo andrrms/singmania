@@ -1,0 +1,195 @@
+#ARTIST:Depeche Mode
+#TITLE:Photographic (Some Bizarre Version)
+#MP3:Depeche Mode - Photographic (Some Bizarre Version).mp3
+#CREATOR:Canni
+#YEAR:1981
+#LANGUAGE:English
+#BPM:320
+#GAP:12160
+#VIDEO:a=EKqozrXKT9k,co=https://images.genius.com/5c892b931bf3d0e12d03a45109d2c1b6.1000x1000x1.png,bg=depeche-mode-5d75532a4e94b.jpg
+: 0 2 27 A 
+: 8 4 27 white 
+: 20 4 27 house 
+- 26
+: 32 2 30 A 
+: 40 4 30 white 
+: 52 8 27 room 
+- 62
+: 68 2 27 The 
+: 72 7 29 pro
+: 80 7 29 gram 
+: 88 4 27 of 
+: 96 3 25 to
+: 100 4 27 day 
+- 106
+: 136 4 27 Lights 
+: 148 4 27 on, 
+: 168 4 30 switch 
+: 180 4 27 on 
+- 186
+: 188 8 27 Your 
+: 200 7 29 eyes 
+: 208 7 29 are 
+: 216 7 27 far 
+: 224 3 25 a
+: 228 8 27 way 
+- 238
+: 256 4 27 The 
+: 264 4 27 map 
+: 280 3 27 re
+: 284 7 30 pre
+: 292 7 30 sents 
+: 300 8 27 you 
+- 310
+: 312 4 27 And 
+: 320 3 27 the 
+: 324 8 29 tape 
+: 344 3 27 is 
+: 348 4 25 your 
+: 356 8 27 voice 
+- 366
+: 392 3 27 Fol
+: 396 8 27 low 
+: 408 4 27 all 
+: 416 3 30 a
+: 420 7 30 long 
+: 428 8 27 you 
+- 438
+: 440 4 27 Till 
+: 448 4 27 you 
+: 456 3 29 re
+: 460 7 29 cog
+: 468 11 27 nize 
+: 480 3 25 the 
+: 484 8 27 choice 
+- 494
+: 584 11 15 I 
+: 596 12 15 take 
+: 616 8 13 pic
+: 628 8 10 tures 
+- 638
+: 712 7 15 Pho
+: 720 3 15 to
+: 724 7 15 gra
+: 732 4 15 phic 
+: 744 8 13 pic
+: 756 8 10 tures 
+- 766
+: 776 7 15 Bright 
+: 784 8 15 light, 
+: 840 7 15 Dark 
+: 848 8 15 room 
+- 858
+: 904 7 15 Bright 
+: 912 8 15 light, 
+: 968 7 15 Dark 
+: 976 8 15 room 
+- 986
+: 1088 4 27 I 
+: 1096 3 27 said 
+: 1100 8 27 I’d 
+: 1112 7 27 write 
+: 1120 7 30 a 
+: 1128 3 30 let
+: 1132 8 27 ter 
+- 1142
+: 1144 3 27 But 
+: 1148 7 27 I 
+: 1156 7 29 ne
+: 1164 8 29 ver 
+: 1176 4 27 got 
+: 1184 3 25 the 
+: 1188 8 27 time 
+- 1198
+: 1216 3 27 And 
+: 1220 3 27 I’m 
+: 1224 3 27 look
+: 1228 11 27 ing 
+: 1240 7 27 to 
+: 1248 3 30 the 
+: 1252 8 30 day 
+- 1262
+: 1280 4 27 I 
+: 1288 4 29 mes
+: 1296 3 29 me
+: 1300 8 27 rize 
+: 1312 3 25 the 
+: 1316 8 27 light 
+- 1326
+: 1344 7 27 In 
+: 1352 7 27 years 
+: 1360 7 27 I 
+: 1368 7 27 spent 
+: 1376 7 30 just 
+: 1384 7 30 think
+: 1392 4 27 ing 
+- 1398
+: 1400 3 27 Of 
+: 1404 7 27 a 
+: 1412 7 29 mo
+: 1420 4 29 ment 
+: 1432 3 27 we 
+: 1436 4 25 both 
+: 1444 8 27 knew 
+- 1454
+: 1472 7 27 A 
+: 1480 3 27 se
+: 1484 7 27 cond 
+: 1492 8 27 passed 
+: 1504 3 27 like 
+: 1508 3 30 an 
+: 1512 7 30 emp
+: 1520 3 27 ty 
+: 1524 4 27 room 
+- 1530
+: 1532 4 27 It 
+: 1540 11 29 seems 
+: 1552 7 29 it 
+: 1560 7 27 can’t 
+: 1568 7 25 be 
+: 1576 8 27 true 
+- 1586
+: 1672 11 15 I 
+: 1684 12 15 take 
+: 1704 4 13 pic
+: 1716 8 10 tures 
+- 1726
+: 1800 7 15 Pho
+: 1808 3 15 to
+: 1812 7 15 gra
+: 1820 4 15 phic 
+: 1832 4 13 pic
+: 1844 8 10 tures 
+- 1854
+: 1864 7 15 Bright 
+: 1872 8 15 light, 
+: 1928 7 15 Dark 
+: 1936 8 15 room 
+- 1946
+: 1992 7 15 Bright 
+: 2000 8 15 light, 
+: 2056 7 15 Dark 
+: 2064 8 15 room 
+- 2074
+: 2760 11 15 I 
+: 2772 12 15 take 
+: 2792 4 13 pic
+: 2804 8 10 tures 
+- 2814
+: 2890 7 15 Pho
+: 2898 3 15 to
+: 2902 7 15 gra
+: 2910 4 15 phic 
+: 2922 4 13 pic
+: 2934 8 10 tures 
+- 2944
+: 2954 7 27 Bright 
+: 2962 8 27 light, 
+: 3018 7 27 Dark 
+: 3026 8 27 room 
+- 3036
+: 3082 7 27 Bright 
+: 3090 8 27 light, 
+: 3146 7 27 Dark 
+: 3154 8 27 room 
+E

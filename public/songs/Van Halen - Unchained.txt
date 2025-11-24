@@ -1,0 +1,401 @@
+#ARTIST:Van Halen
+#TITLE:Unchained
+#MP3:Van Halen - Unchained.mp3
+#CREATOR:Gollum
+#EDITION:Guitar Hero Van Halen
+#GENRE:Heavy Metal
+#YEAR:1981
+#LANGUAGE:English
+#BPM:394.88
+#GAP:12000
+#VIDEO:a=xx86CxKYtg0,co=https://i.discogs.com/FmySx0OyzR5HS0NNIk2Ww3p14TFOTZLeiCSobbL2bRk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc0/NzMtMTU4MTk3Njc0/MS0xMjkyLmpwZWc.jpeg,bg=van-halen-550f48d29e712.jpg
+F 0 8 2 Al
+F 10 14 2 right! 
+- 26
+F 79 16 2 Wow! 
+- 97
+F 170 48 2 Hey 
+F 222 6 2 ha 
+F 232 4 2 ha 
+F 239 21 2 ho! 
+- 262
+F 412 4 2 You 
+F 417 14 2 say 
+- 433
+: 460 2 11 I 
+: 465 5 13 can
+: 471 3 11 not 
+: 476 3 13 get 
+: 481 4 13 there 
+: 488 6 13 from 
+F 496 12 2 here, 
+F 512 5 2 ba
+F 518 5 2 by 
+- 525
+: 552 4 20 And 
+: 557 4 20 I 
+: 563 4 20 don’t 
+: 569 5 20 care 
+: 576 3 13 where 
+: 581 7 13 I’m 
+: 594 6 15 go
+: 601 4 11 in’ 
+- 607
+F 642 6 2 Here’s 
+F 649 3 2 to 
+F 654 5 2 your 
+F 660 11 2 thin 
+F 672 8 2 red 
+F 686 21 2 line 
+- 709
+: 730 21 16 Mmm, 
+: 759 3 18 I’m 
+: 765 3 16 step
+: 770 5 16 ping 
+: 776 5 16 o
+: 783 11 18 ver 
+- 796
+: 798 4 18 Thought 
+: 803 4 18 you’d 
+: 810 5 18 nev
+: 817 4 18 er 
+: 822 5 16 miss 
+: 828 2 16 me 
+: 833 3 16 ’til 
+: 837 3 16 I 
+- 842
+: 844 5 15 Got 
+: 850 2 15 a 
+: 856 3 15 fat 
+: 867 3 15 cit
+: 873 4 13 y 
+: 878 4 11 ad
+: 884 11 15 dress
+: 896 12 13 ~ 
+- 910
+: 948 6 20 Non
+: 959 6 20 stop 
+: 970 6 18 talk
+: 979 6 18 er 
+: 990 10 17 what 
+: 1001 4 15 a 
+: 1007 4 17 rock
+: 1012 5 15 er 
+- 1019
+: 1030 9 15 Blue-
+: 1041 6 15 eyed 
+: 1052 5 15 mur
+: 1058 6 15 der 
+: 1065 3 17 in 
+: 1069 6 15 a 
+: 1077 6 18 size 
+: 1087 8 18 five 
+: 1099 9 18 dress
+: 1109 2 20 ~! 
+- 1113
+: 1115 17 17 Change 
+- 1134
+: 1151 5 13 No
+: 1157 2 13 thin’ 
+: 1163 6 18 stays 
+: 1176 3 11 the 
+: 1181 11 13 same 
+F 1197 5 2 un
+: 1207 18 17 chained 
+- 1227
+: 1244 4 13 Yeah 
+: 1249 5 13 ya 
+: 1255 7 20 hit 
+: 1267 5 20 the 
+: 1273 5 20 ground
+: 1279 3 18 ~ 
+: 1284 5 20 run
+: 1291 8 18 nin’ 
+- 1301
+: 1303 17 17 Change 
+- 1322
+: 1335 5 13 Ain’t 
+: 1342 4 13 no
+: 1348 3 13 thin’ 
+: 1354 5 20 stays 
+: 1361 5 20 the 
+: 1367 8 20 same 
+F 1382 6 2 un
+: 1394 19 17 chained 
+- 1415
+: 1428 4 13 Yeah 
+: 1434 4 13 ya 
+: 1440 10 20 hit 
+: 1452 4 20 the 
+: 1458 4 20 ground
+: 1463 3 18 ~ 
+: 1469 5 20 run
+: 1475 13 18 nin’ 
+- 1490
+F 1521 2 2 I 
+F 1526 5 2 don’t 
+F 1532 4 2 ask 
+F 1538 3 2 for 
+F 1544 4 2 per
+F 1551 5 2 mis
+F 1558 19 2 sion 
+- 1579
+: 1613 5 13 This 
+: 1619 5 13 is 
+: 1626 6 20 my 
+: 1637 4 13 chance 
+: 1643 3 13 to 
+: 1648 27 11 fly 
+- 1677
+: 1706 4 13 May
+: 1712 4 13 be 
+: 1718 3 13 e
+: 1723 4 13 nough 
+: 1730 4 13 ain’t 
+: 1735 2 13 e
+: 1742 5 13 nough 
+: 1752 5 13 for 
+: 1758 17 20 you 
+- 1777
+: 1799 4 13 But 
+: 1805 3 13 it’s 
+: 1811 7 20 my 
+: 1821 5 13 turn 
+: 1828 3 13 to 
+: 1838 18 11 drive 
+- 1858
+: 1860 4 18 Thought 
+: 1865 4 18 you’d 
+: 1871 5 18 nev
+: 1878 3 18 er 
+: 1883 6 16 miss 
+: 1890 2 16 me 
+: 1895 3 16 ’til 
+: 1899 3 16 I 
+- 1904
+: 1906 5 15 Got 
+: 1912 3 15 a 
+: 1917 5 15 fat 
+: 1929 3 15 cit
+: 1934 4 13 y 
+: 1943 3 11 ad
+: 1947 10 15 dress
+: 1958 7 13 ~ 
+- 1967
+: 2009 8 20 Non
+: 2019 11 20 stop 
+: 2031 6 18 talk
+: 2040 5 18 er 
+: 2051 11 17 what 
+: 2063 5 15 a 
+: 2069 4 17 rock
+: 2075 4 15 er 
+- 2081
+: 2092 10 15 Blue-
+: 2104 6 15 eyed 
+: 2114 5 15 mur
+: 2121 4 15 der 
+: 2127 3 17 in 
+: 2131 6 15 a 
+: 2139 6 18 size 
+: 2149 8 18 five 
+: 2161 10 18 dress
+: 2172 2 20 ~! 
+- 2176
+: 2178 18 17 Change 
+- 2198
+: 2218 5 13 No
+: 2224 2 13 thin’ 
+: 2228 7 17 stays 
+: 2236 7 17 the 
+: 2244 11 17 same 
+F 2259 5 2 un
+: 2269 16 16 chained
+: 2286 5 17 ~ 
+- 2293
+: 2306 4 13 And 
+: 2312 5 13 ya 
+: 2319 10 20 hit 
+: 2330 5 20 the 
+: 2337 4 20 ground
+: 2342 3 18 ~ 
+: 2347 5 20 run
+: 2354 8 18 nin’ 
+- 2364
+: 2366 12 16 Change
+: 2379 4 17 ~ 
+- 2385
+: 2400 4 13 Ain’t 
+: 2405 5 13 no
+: 2412 4 13 thin’ 
+: 2418 6 20 stays 
+: 2425 5 20 the 
+: 2431 10 20 same 
+F 2446 6 2 un
+* 2458 18 17 chained 
+- 2478
+: 2493 3 13 Yeah 
+: 2498 4 13 ya 
+: 2504 11 20 hit 
+: 2516 5 20 the 
+: 2522 8 20 ground 
+: 2531 8 20 run
+: 2542 14 18 ning 
+- 2558
+: 2868 19 17 Change 
+- 2889
+: 2908 5 13 No
+: 2914 2 13 thin’ 
+: 2919 7 16 stays 
+: 2928 5 16 the 
+: 2934 12 16 same 
+F 2950 8 2 un
+: 2960 15 17 chained 
+- 2977
+: 2995 4 13 Yeah 
+: 3000 4 13 ya 
+: 3007 10 20 hit 
+: 3018 6 20 the 
+: 3025 5 20 ground
+: 3031 2 18 ~ 
+: 3036 4 20 run
+: 3041 8 18 nin’ 
+- 3051
+: 3054 18 17 Change 
+- 3074
+: 3089 4 13 Ain’t 
+: 3095 3 13 no
+: 3101 3 13 thin’ 
+: 3106 5 20 stays 
+: 3112 5 20 the 
+: 3118 8 20 same 
+F 3133 6 2 un
+: 3145 22 17 chained 
+- 3169
+: 3180 3 13 Yeah 
+: 3185 4 13 ya 
+: 3194 8 20 hit 
+: 3203 5 20 the 
+: 3209 10 20 ground 
+* 3222 5 20 run
+* 3229 17 18 ning 
+- 3248
+F 3277 18 2 Woo= 
+F 3300 14 2 hoo 
+F 3320 2 2 take 
+F 3324 3 2 a 
+F 3328 2 2 look 
+F 3331 2 2 at 
+F 3334 11 2 this 
+- 3347
+F 3366 10 2 Hey 
+F 3381 11 2 man 
+F 3395 7 2 that 
+F 3406 8 2 suit 
+F 3416 9 2 is 
+F 3431 20 2 you 
+- 3453
+F 3467 18 2 Woo= 
+F 3486 7 2 wee 
+F 3497 5 2 you’ll 
+F 3504 5 2 get 
+F 3510 7 2 some 
+F 3519 5 2 leg 
+F 3528 5 2 to
+F 3534 6 2 night 
+F 3545 8 2 for 
+F 3556 20 2 sure 
+- 3578
+F 3595 2 2 Tell 
+F 3598 11 2 us 
+F 3614 9 2 how 
+F 3628 8 2 you 
+F 3642 26 2 do 
+F 3674 4 2 woo= 
+F 3679 4 2 hoo= 
+F 3685 15 2 hoo 
+- 3702
+F 3758 2 2 Hey 
+F 3762 4 2 hey 
+F 3768 4 2 hey 
+F 3775 12 2 hey! 
+- 3789
+F 3800 8 2 One 
+F 3813 8 2 break 
+- 3823
+F 3837 9 2 Com
+F 3848 9 2 in’ 
+F 3862 25 2 up! 
+- 3889
+* 3903 19 17 Change 
+- 3924
+: 3937 3 13 Ain’t 
+: 3943 5 13 no
+: 3949 2 13 thin’ 
+F 3954 7 2 stays 
+F 3963 5 2 the 
+F 3970 12 2 same 
+F 3986 8 2 un
+: 3996 15 17 chained 
+- 4013
+: 4031 4 13 Yeah 
+: 4036 5 13 ya 
+: 4044 7 20 hit 
+: 4055 5 20 the 
+: 4062 4 20 ground
+: 4067 3 18 ~ 
+: 4072 5 20 run
+: 4079 9 18 nin’ 
+- 4090
+: 4092 16 17 Change 
+- 4110
+: 4127 4 13 Ain’t 
+: 4133 3 13 no
+: 4138 3 13 thin’ 
+: 4144 5 20 stays 
+: 4150 5 20 the 
+: 4156 7 20 same 
+F 4171 6 2 un
+: 4183 18 17 chained 
+- 4203
+: 4218 3 13 Yeah 
+: 4224 4 13 ya 
+: 4232 8 20 hit 
+: 4242 5 20 the 
+* 4248 3 20 ground
+* 4252 3 18 ~ 
+* 4257 2 18 run
+* 4261 3 20 ~
+* 4268 5 18 nin’ 
+- 4275
+: 4277 18 17 Change 
+- 4297
+: 4311 4 13 Ain’t 
+: 4317 5 13 no
+: 4323 3 13 thin’ 
+: 4329 6 20 stays 
+: 4336 3 20 the 
+F 4341 14 2 same 
+F 4360 7 2 un
+* 4370 15 17 chained 
+- 4387
+F 4405 4 2 Yeah 
+F 4410 5 2 ya 
+: 4417 9 20 hit 
+: 4428 5 20 the 
+* 4435 5 20 ground
+* 4441 2 18 ~ 
+: 4445 4 20 run
+: 4452 8 18 nin’ 
+- 4462
+: 4465 17 17 Change 
+- 4484
+: 4497 5 13 Ain’t 
+: 4503 3 13 no
+: 4508 4 13 thin’ 
+: 4516 5 20 stays 
+: 4523 5 20 the 
+: 4529 10 20 same 
+F 4544 6 2 un
+* 4555 17 17 chained 
+E

@@ -1,0 +1,105 @@
+#ARTIST:John Williams (Home Alone OST)
+#TITLE:Somewhere In My Memory
+#MP3:John Williams (Home Alone OST) - Somewhere In My Memory.mp3
+#CREATOR:stobb3s
+#GENRE:Christmas
+#YEAR:1990
+#LANGUAGE:English
+#BPM:400
+#GAP:64830
+#VIDEO:v=5kHH6LJpEbQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/db/c3/b8dbc3f7-4806-e4a3-f550-9408357850c1/886445465518.jpg/5000x5000bb.jpg
+: 0 14 9 Can
+: 19 18 6 dles 
+: 42 13 9 in 
+: 63 19 6 the 
+: 88 35 14 win
+: 129 28 9 dow 
+- 159
+: 175 12 4 Sha
+: 195 16 11 dows 
+: 218 15 9 pain
+: 240 6 2 ting 
+: 249 6 7 the 
+: 259 40 6 cei
+: 304 27 4 ling 
+- 333
+: 349 16 9 Ga
+: 371 18 6 zing 
+: 393 13 9 at 
+: 413 15 6 the 
+* 434 38 14 fire 
+* 478 27 9 glow 
+- 507
+: 523 6 11 Fee
+: 532 7 14 ling 
+: 542 11 7 that 
+: 564 7 6 gin
+: 574 6 9 ger
+: 584 15 2 bread 
+: 607 39 6 fee
+: 652 29 4 ling 
+- 683
+: 719 6 6 Pre
+: 727 7 2 cious 
+: 737 19 7 mo
+: 759 19 4 ments 
+- 780
+: 802 7 8 Spe
+: 812 8 4 cial 
+: 823 17 11 peo
+: 843 17 9 ple 
+- 862
+: 890 7 10 Ha
+: 899 7 6 ppy 
+: 909 17 13 fa
+: 930 18 11 ces 
+- 950
+: 978 6 14 I 
+: 987 7 11 can 
+: 998 42 13 see 
+- 1041
+: 1042 14 9 Some
+: 1062 17 6 where 
+: 1084 13 9 in 
+: 1105 19 6 my 
+* 1129 36 14 mem
+* 1171 28 9 ory 
+- 1201
+: 1216 12 4 Christ
+: 1236 16 11 mas 
+: 1259 15 9 joys 
+: 1281 6 2 all 
+: 1290 6 7 a
+: 1300 40 6 round 
+: 1345 27 4 me 
+- 1374
+: 1386 15 9 Li
+: 1407 16 6 ving 
+: 1429 12 9 in 
+: 1450 18 6 my 
+* 1473 36 14 mem
+* 1515 28 9 ory 
+- 1545
+: 1584 3 11 All 
+: 1589 4 13 of 
+: 1595 8 14 the 
+: 1607 17 9 mu
+: 1627 18 6 sic 
+- 1647
+: 1671 3 11 All 
+: 1676 4 13 of 
+: 1682 8 14 the 
+: 1694 17 9 ma
+: 1714 18 6 gic 
+- 1734
+: 1757 3 11 All 
+: 1762 4 13 of 
+: 1768 8 14 the 
+: 1780 17 9 fam
+: 1800 12 6 ily 
+- 1814
+: 1819 15 2 Home 
+: 1842 41 14 here 
+* 1893 28 13 with 
+* 1926 65 14 me 
+E

@@ -1,0 +1,247 @@
+#ARTIST:Martha Reeves & The Vandellas
+#TITLE:Heatwave (Love Is Like A Heatwave)
+#MP3:Martha Reeves & The Vandellas - Heatwave (Love Is Like A Heatwave).mp3
+#CREATOR:Relisch
+#COVER:Martha Reeves & The Vandellas - Heatwave (Love Is Like A Heatwave) [CO].jpg
+#BACKGROUND:Martha Reeves & The Vandellas - Heatwave (Love Is Like A Heatwave) [BG].jpg
+#GENRE:Pop
+#YEAR:1963
+#LANGUAGE:English
+#BPM:300
+#GAP:28650
+#VIDEO:a=64w0UqTHGFg,co=heat-wave-551d4a21d6a90.jpg,bg=reeves-martha-and-vandellas-the-4f842a658d7de.jpg
+: 0 3 11 Whenever
+: 4 6 11 ~
+: 11 2 9 ~ 
+: 14 6 11 I’m 
+: 21 6 9 with 
+: 29 18 11 him 
+- 59
+: 63 6 6 Something
+: 70 2 9 ~ 
+: 73 5 11 inside
+: 80 11 9 ~
+: 92 20 6 ~ 
+- 118
+: 121 8 11 Starts 
+: 130 6 9 to 
+: 137 11 9 burnin’
+: 149 12 11 ~ 
+- 171
+: 180 7 6 And 
+: 188 6 9 I’m 
+: 196 13 11 filled 
+: 211 5 9 with 
+: 218 5 11 desire
+: 225 10 9 ~
+: 237 16 6 ~ 
+- 259
+: 261 4 2 Could 
+: 266 2 -1 it 
+: 269 8 2 be 
+* 280 2 2 the 
+* 283 4 6 devil
+* 288 2 6 ~ 
+* 291 5 4 in 
+* 297 3 6 me 
+- 301
+: 303 3 2 Or 
+: 307 4 2 is 
+: 312 6 7 this 
+: 319 3 2 the 
+: 324 5 7 way 
+: 331 5 7 love’s 
+: 337 3 2 supposed
+: 341 6 11 ~ 
+: 348 3 9 to 
+: 353 4 9 be 
+- 358
+: 360 2 -1 Just 
+: 363 3 2 like 
+: 367 2 -1 a 
+: 370 6 14 heatwave
+: 377 15 14 ~ 
+- 402
+: 410 6 6 Burning
+: 418 2 -1 ~ 
+: 421 2 2 in 
+: 425 5 2 my 
+: 432 2 2 heart
+: 435 2 4 ~
+: 438 9 6 ~ 
+- 457
+: 465 6 2 Can’t 
+: 472 5 11 keep 
+: 478 6 9 from 
+: 486 11 11 cryin’
+: 498 10 11 ~ 
+- 516
+: 519 3 -3 It’s 
+: 523 3 -1 tearing
+: 527 2 -3 ~ 
+: 530 3 2 me 
+: 534 6 4 apart
+: 541 24 2 ~ 
+- 577
+: 581 2 11 Whenever
+: 585 5 11 ~
+: 591 2 9 ~ 
+: 594 5 11 he 
+: 601 6 9 calls 
+: 609 6 11 my 
+: 616 12 11 name 
+- 635
+: 638 19 6 So 
+: 658 13 9 slow, 
+: 672 5 11 sweet 
+: 678 13 11 and 
+: 693 2 6 plain
+: 696 2 4 ~
+: 699 8 2 ~ 
+- 708
+: 710 6 9 I 
+: 718 10 9 feel, 
+: 732 12 11 yeah, 
+: 749 15 11 yeah, 
+: 766 1 6 well 
+: 769 2 9 I 
+: 772 8 11 feel 
+: 782 4 9 that 
+: 798 5 9 burning
+: 804 5 11 ~ 
+: 810 3 9 flame
+: 814 7 5 ~ 
+- 825
+* 827 4 -1 Has 
+* 832 7 2 my 
+* 841 6 2 blood 
+* 850 3 2 pressure
+* 854 2 -1 ~ 
+: 858 2 2 got 
+: 862 2 2 a 
+: 865 3 6 hold 
+: 869 7 4 on 
+: 879 1 6 me 
+- 881
+: 883 5 2 Or 
+: 889 3 2 is 
+: 893 6 7 this 
+: 900 4 2 the 
+: 905 6 7 way 
+: 912 6 7 love’s 
+: 919 2 2 supposed
+: 922 5 11 ~ 
+: 928 2 9 to 
+: 931 5 9 be 
+- 939
+: 941 2 -1 Just 
+: 944 3 2 like 
+: 949 1 -1 a 
+: 952 5 14 heatwave
+: 959 14 14 ~ 
+- 983
+: 992 6 6 Burning
+: 999 2 -1 ~ 
+: 1002 3 2 in 
+: 1006 6 2 my 
+: 1013 2 2 heart
+: 1016 2 4 ~
+: 1019 8 6 ~ 
+- 1037
+: 1045 6 2 Can’t 
+: 1052 5 11 keep 
+: 1059 6 9 from 
+: 1066 11 11 cryin’
+: 1078 10 11 ~ 
+- 1097
+: 1100 2 -3 It’s 
+: 1103 3 -1 tearing
+: 1107 2 -3 ~ 
+: 1110 3 2 me 
+: 1114 6 4 apart
+: 1121 23 2 ~ 
+- 1184
+: 1540 6 11 Sometimes
+: 1547 3 11 ~
+: 1551 5 9 ~ 
+: 1557 4 11 I 
+: 1562 5 9 stare 
+: 1569 2 9 in
+: 1572 3 9 ~ 
+: 1576 11 11 space 
+- 1595
+: 1598 13 6 Tears 
+: 1612 5 11 all 
+: 1618 13 9 over
+: 1632 6 6 ~ 
+: 1639 12 11 my 
+: 1653 12 11 face 
+- 1666
+: 1668 2 11 I 
+: 1671 3 11 can’t 
+: 1675 2 9 explain
+: 1678 5 9 ~ 
+: 1684 8 12 it, 
+* 1697 2 11 don’t 
+* 1700 3 11 understand
+* 1705 1 6 ~
+* 1707 7 11 ~ 
+* 1715 7 6 it 
+- 1724
+: 1726 3 6 I 
+: 1730 4 9 ’ain’t 
+: 1735 3 11 never
+: 1739 2 9 ~ 
+: 1742 3 9 felt 
+: 1746 4 11 like 
+: 1751 5 9 this 
+: 1757 4 6 before
+: 1764 16 6 ~ 
+- 1783
+: 1785 4 -1 Now 
+: 1791 7 2 this 
+: 1800 2 2 funny
+: 1803 2 -1 ~ 
+: 1807 5 2 feeling
+: 1813 3 -1 ~ 
+: 1817 6 2 has 
+: 1824 3 6 me 
+: 1828 5 6 amazed
+: 1835 2 4 ~
+: 1838 7 6 ~ 
+- 1848
+: 1850 3 2 I 
+: 1854 1 2 don’t 
+: 1856 2 7 know 
+: 1859 1 2 what 
+: 1861 2 7 to 
+: 1865 5 7 do, 
+: 1873 5 2 my 
+: 1880 6 11 head’s 
+: 1887 2 9 in 
+: 1890 2 9 a 
+: 1894 5 9 haze 
+- 1900
+: 1902 1 -1 Just 
+: 1905 2 2 like 
+: 1909 1 -1 a 
+: 1912 5 14 heatwave
+: 1919 18 14 ~ 
+- 1977
+* 2210 6 2 Don’t 
+* 2217 6 2 pass 
+* 2225 5 2 up 
+* 2232 10 6 this 
+* 2243 15 6 chance 
+- 2265
+: 2268 6 2 This 
+: 2276 6 7 time 
+: 2283 3 7 it’s 
+: 2287 2 2 a 
+: 2290 5 11 true 
+: 2297 5 9 romance
+: 2304 7 9 ~ 
+- 2317
+: 2319 5 14 Heatwave
+: 2326 15 14 ~ 
+E

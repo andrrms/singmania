@@ -1,0 +1,776 @@
+#ARTIST:“Weird Al” Yankovic
+#TITLE:Amish Paradise
+#MP3:“Weird Al” Yankovic - Amish Paradise.mp3
+#CREATOR:Nudelsuppe
+#GENRE:Parody
+#YEAR:1996
+#LANGUAGE:English
+#BPM:327.7
+#GAP:13720
+#VIDEO:v=xo74Dn7W_pA,co=https://i.ytimg.com/vi/jH2JxkvoDlk/maxresdefault.jpg,co-crop=242-0-746-720,co-resize=720,bg=yankovic-weird-al-4ff2dadfebfa4.jpg,preview=49.36,medley=780-1526
+R 0 2 2 As 
+R 4 2 2 I 
+R 8 3 3 walk 
+R 16 2 3 through 
+R 20 2 3 the 
+R 24 2 3 val
+R 28 2 4 ley 
+- 30
+R 32 2 4 Where 
+R 36 2 5 I 
+R 40 2 5 har
+R 44 2 7 vest 
+R 48 3 6 my 
+R 52 3 7 grain 
+- 58
+R 60 2 8 I 
+R 64 2 7 take 
+R 68 2 8 a 
+R 72 2 7 look 
+R 76 2 8 at 
+R 80 2 9 my 
+R 84 2 10 wife 
+- 90
+R 92 2 11 And 
+R 97 2 10 re
+R 100 2 12 a
+R 104 4 11 lize 
+R 111 2 12 she’s 
+R 115 2 5 ve
+R 118 2 9 ry 
+R 123 4 14 plain 
+- 130
+R 132 2 -1 But 
+R 136 4 2 that’s 
+R 144 4 9 just 
+R 152 2 14 per
+R 156 2 9 fect 
+- 158
+R 160 2 4 For 
+R 164 2 0 an 
+R 168 2 0 a
+R 172 2 -1 mish 
+R 176 2 0 like 
+R 180 2 0 me 
+- 186
+R 188 2 7 You 
+R 192 2 9 know 
+R 196 2 12 I 
+R 201 5 14 shun 
+R 208 2 2 fan
+R 212 3 3 cy 
+R 216 2 2 things 
+R 220 2 7 like 
+R 224 2 9 e
+R 228 2 11 lec
+R 232 2 14 tri
+R 236 2 4 ci
+R 240 2 -1 ty 
+- 252
+R 256 2 5 At 
+R 260 2 8 four 
+R 264 2 5 thir
+R 268 2 8 ty 
+R 272 2 8 in 
+R 276 2 9 the 
+R 280 2 3 mor
+R 284 2 8 ning 
+- 286
+R 288 2 8 I’m 
+R 292 2 5 mil
+R 296 2 7 kin’ 
+R 300 1 2 cows
+R 303 1 5 ~
+R 306 1 9 ~
+R 309 1 11 ~ 
+- 316
+R 319 2 8 Je
+R 323 2 6 be
+R 328 2 6 di
+R 332 2 7 ah 
+R 335 2 7 feeds 
+R 339 2 10 the 
+R 343 2 6 chic
+R 348 2 7 kens 
+- 350
+R 352 2 9 And 
+R 356 2 7 Ja
+R 360 2 11 cob 
+R 365 1 8 plows
+R 367 1 5 ~
+R 369 1 2 ~
+R 371 1 0 ~ 
+- 378
+R 380 8 7 Fool 
+- 388
+R 390 1 5 And 
+R 392 2 2 I’ve 
+R 400 2 4 been 
+R 408 2 5 mil
+R 412 2 7 kin’ 
+- 414
+R 416 2 6 And 
+R 420 2 4 plow
+R 424 2 5 ~
+R 428 2 7 in’ 
+R 432 2 7 so 
+R 436 2 8 long 
+R 444 2 10 that 
+- 453
+R 456 1 12 E
+R 459 1 12 ven 
+R 461 1 13 E
+R 463 2 16 ze
+R 467 2 14 ki
+R 470 1 10 el 
+R 472 3 7 thinks 
+- 478
+R 480 2 5 That 
+R 484 2 5 my 
+R 488 2 2 mind 
+R 496 2 0 is 
+R 500 2 0 gone 
+- 510
+R 513 2 9 I’m 
+R 516 2 12 a 
+R 520 3 15 man 
+R 528 2 16 of 
+R 532 2 17 the 
+R 536 3 12 land 
+- 542
+R 544 2 7 I’m 
+R 548 2 5 in
+R 552 2 2 to 
+R 556 2 12 dis
+R 560 2 5 ci
+R 564 4 2 pline 
+- 574
+R 577 2 4 Got 
+R 580 2 5 a 
+R 584 2 7 Bi
+R 588 2 9 ble 
+R 592 2 11 in 
+R 596 2 12 my 
+R 600 3 14 hand 
+- 606
+R 608 2 14 And 
+R 612 2 16 a 
+R 616 2 17 beard 
+R 620 2 14 on 
+R 624 2 9 my 
+R 628 4 7 chin 
+- 634
+R 636 2 9 But 
+R 640 2 12 if 
+R 644 2 11 I 
+R 648 2 11 fi
+R 652 2 14 nish 
+R 656 2 12 all 
+R 660 2 15 of 
+R 664 2 11 my 
+R 668 2 7 chores 
+- 674
+R 676 2 9 And 
+R 680 2 7 you 
+R 684 2 8 fi
+R 688 2 12 nish 
+R 692 4 5 thine 
+- 702
+R 704 2 4 Then 
+R 708 2 2 to
+R 712 2 7 night 
+R 716 2 11 we’re 
+R 720 2 12 gon
+R 724 2 14 na 
+R 728 2 7 par
+R 732 2 5 ty 
+- 734
+R 736 2 7 Like 
+R 740 2 5 it’s 
+R 744 2 11 six
+R 748 2 14 teen 
+R 752 2 11 nine
+R 756 2 14 ty 
+R 760 2 2 nine 
+- 772
+: 780 2 10 We’ve 
+: 784 4 15 been 
+: 792 4 15 spen
+: 800 2 14 ding 
+: 805 5 14 most 
+: 812 2 12 o
+: 815 2 12 ur 
+: 820 8 12 lives 
+- 830
+: 832 2 12 Li
+: 836 2 12 ving 
+: 840 5 11 in 
+: 848 2 7 an 
+: 852 5 14 A
+: 860 6 15 mish 
+: 872 3 14 pa
+: 877 2 12 ra
+: 880 3 10 ~
+: 885 6 12 dise 
+- 901
+: 908 2 10 I’ve 
+: 912 5 15 churned 
+: 920 5 17 but
+: 928 2 15 ter 
+: 932 5 14 once 
+: 940 4 12 or 
+: 948 6 12 twice 
+- 958
+: 960 2 12 Li
+: 964 2 12 ving 
+: 968 5 11 in 
+: 976 2 7 an 
+: 980 5 14 A
+: 988 6 15 mish 
+: 1000 3 14 pa
+: 1005 2 12 ra
+: 1008 3 10 ~
+: 1012 6 12 dise 
+- 1028
+: 1036 2 10 It’s 
+: 1040 5 15 hard 
+: 1048 5 15 work 
+: 1056 2 14 and 
+: 1060 5 14 sa
+: 1068 5 12 cri
+: 1076 5 12 fice 
+- 1086
+: 1088 2 12 Li
+: 1092 2 12 ving 
+: 1096 5 11 in 
+: 1104 2 7 an 
+: 1108 5 14 A
+: 1116 6 15 mish 
+: 1128 2 14 pa
+: 1133 2 12 ra
+: 1136 3 10 ~
+: 1140 6 12 dise 
+- 1156
+: 1164 2 10 We 
+: 1168 4 15 sell 
+: 1176 4 17 quilts 
+: 1184 2 15 at 
+: 1188 5 14 dis
+: 1196 5 12 count 
+: 1204 5 12 price 
+- 1214
+: 1216 2 12 Li
+: 1220 2 12 ving 
+: 1224 5 11 in 
+: 1232 2 7 an 
+: 1236 5 14 A
+: 1244 6 15 mish 
+: 1256 2 14 pa
+: 1261 2 12 ra
+: 1264 3 10 ~
+: 1268 6 12 dise 
+- 1281
+R 1284 2 -5 A 
+R 1288 2 3 lo
+R 1292 2 4 cal 
+R 1296 5 3 boy 
+R 1303 2 2 kicked 
+R 1308 2 2 me 
+- 1310
+R 1312 2 0 In 
+R 1316 2 -1 the 
+R 1320 2 7 butt 
+R 1324 2 0 last 
+R 1332 2 3 week 
+- 1338
+R 1340 2 5 I 
+R 1344 2 6 just 
+R 1352 2 7 smiled 
+R 1360 2 6 at 
+R 1364 2 6 him 
+- 1373
+R 1376 2 10 And 
+R 1380 2 11 I 
+R 1384 2 14 turned 
+R 1392 2 6 the 
+R 1396 2 7 o
+R 1400 2 4 ther 
+R 1404 2 2 cheek 
+- 1410
+R 1412 2 0 I 
+R 1416 2 5 real
+R 1420 2 10 ly 
+R 1424 2 12 don’t 
+R 1432 2 7 care 
+- 1434
+R 1436 2 7 In 
+R 1439 2 7 fact 
+R 1443 2 7 I 
+R 1447 2 2 wish 
+R 1451 2 7 him 
+R 1455 2 2 well 
+- 1465
+R 1468 2 5 ’Cause 
+R 1472 2 7 I’ll 
+R 1476 2 7 be 
+R 1480 2 7 lau
+R 1484 2 9 ghing 
+R 1488 2 12 my 
+R 1492 2 14 head 
+R 1496 2 11 off 
+- 1502
+R 1504 2 5 When 
+R 1508 2 4 he’s 
+R 1512 2 4 bur
+R 1516 2 3 ning 
+R 1520 2 3 in 
+R 1524 2 3 hell 
+- 1530
+R 1532 2 7 But 
+R 1536 2 9 I 
+R 1540 2 11 ain’t 
+R 1544 2 12 ne
+R 1548 2 9 ver 
+R 1552 2 7 punched 
+R 1556 2 5 a 
+R 1560 2 5 tou
+R 1564 2 4 rist 
+- 1566
+R 1568 2 5 E
+R 1572 2 4 ven 
+R 1576 2 5 if 
+R 1580 2 2 he 
+R 1583 2 0 de
+R 1586 2 9 served 
+R 1592 2 5 it 
+- 1601
+R 1604 2 5 An 
+R 1608 2 5 A
+R 1612 2 7 mish 
+R 1616 2 7 with 
+R 1620 2 12 a 
+R 1624 2 7 ’tude? 
+- 1630
+R 1632 2 11 You 
+R 1636 2 14 know 
+R 1644 2 16 that’s 
+R 1648 2 14 un
+R 1652 2 9 heard 
+R 1660 2 -3 of 
+- 1666
+R 1668 2 -1 I 
+R 1672 2 2 ne
+R 1676 2 -1 ver 
+R 1679 2 -1 wear 
+R 1688 2 9 but
+R 1692 2 5 tons 
+- 1694
+R 1696 2 2 But 
+R 1700 2 4 I 
+R 1704 2 4 got 
+R 1708 2 2 a 
+R 1712 2 0 cool 
+R 1720 2 11 hat 
+- 1726
+R 1728 2 7 And 
+R 1732 2 5 my 
+R 1736 2 7 ho
+R 1740 2 9 mies 
+R 1744 2 11 a
+R 1748 2 12 gree 
+- 1754
+R 1756 2 13 I 
+R 1760 2 12 real
+R 1764 2 13 ly 
+R 1768 2 12 look 
+R 1772 2 13 good 
+R 1776 2 12 in 
+R 1780 2 8 black 
+- 1784
+R 1786 9 5 Fool 
+- 1798
+R 1800 2 5 If 
+R 1804 2 4 you 
+R 1808 2 4 come 
+R 1812 2 2 to 
+R 1816 2 7 vi
+R 1820 2 4 sit 
+- 1822
+R 1824 2 2 You’ll 
+R 1828 2 4 be 
+R 1832 2 7 bored 
+R 1840 2 4 to 
+R 1844 2 12 tears 
+- 1850
+R 1852 2 9 We 
+R 1856 2 7 ha
+R 1860 2 7 ven’t 
+R 1864 2 9 e
+R 1868 2 9 ven 
+R 1871 2 9 paid 
+R 1875 2 11 the 
+R 1880 5 14 phone 
+R 1888 3 7 bill 
+- 1891
+R 1892 2 7 In 
+R 1896 2 4 three 
+R 1900 2 2 hun
+R 1904 2 2 dred 
+R 1908 2 2 years 
+- 1917
+R 1920 2 7 But 
+R 1924 2 10 we 
+R 1928 5 14 ain’t 
+R 1935 2 7 real
+R 1939 2 4 ly 
+R 1944 4 7 quaint 
+- 1950
+R 1952 2 7 So 
+R 1956 5 10 please 
+R 1963 2 2 don’t 
+R 1968 2 2 point 
+R 1971 2 2 and 
+R 1976 3 4 stare 
+- 1985
+R 1988 2 2 We’re 
+R 1991 5 7 just 
+R 1999 2 2 tech
+R 2003 2 2 no
+R 2008 2 9 lo
+R 2011 2 2 gic
+R 2016 2 2 ally 
+R 2020 2 2 im
+R 2024 5 7 paired 
+- 2037
+: 2040 5 12 There’s 
+: 2047 2 12 no 
+: 2056 4 15 phone, 
+: 2064 6 15 no 
+: 2072 6 17 lights, 
+: 2080 2 15 no 
+: 2088 2 15 mo
+: 2092 2 14 ~
+: 2096 2 12 tor
+: 2100 8 12 car, 
+- 2110
+: 2112 2 12 Not 
+: 2115 2 12 a 
+: 2120 8 14 sin
+: 2132 2 14 gle 
+: 2136 3 15 lu
+: 2140 2 14 ~
+: 2144 2 14 xu
+: 2148 2 12 ry 
+- 2160
+: 2180 2 12 Like 
+: 2184 6 15 Ro
+: 2192 5 15 bin
+: 2200 4 17 son 
+: 2208 3 15 Cru
+: 2213 4 14 ~
+: 2219 3 12 soe 
+- 2232
+: 2236 2 12 It’s 
+: 2240 2 12 as 
+: 2244 4 14 pri
+: 2252 2 14 mi
+: 2256 2 14 tive
+: 2259 2 15 ~ 
+: 2263 3 14 as 
+: 2268 2 12 can 
+: 2274 2 12 be
+: 2277 12 15 ~ 
+- 2299
+: 2316 2 12 We’ve 
+: 2320 3 15 been 
+: 2326 6 15 spen
+: 2335 3 15 ding 
+: 2340 2 14 most 
+: 2348 2 12 o
+: 2351 2 12 ur 
+: 2355 8 12 lives 
+- 2366
+: 2368 2 12 Li
+: 2372 2 12 ving 
+: 2376 5 11 in 
+: 2384 2 7 an 
+: 2388 5 14 A
+: 2396 5 15 mish 
+: 2408 2 14 pa
+: 2412 2 12 ra
+: 2416 2 10 ~
+: 2420 6 12 dise 
+- 2436
+: 2444 2 10 We’re 
+: 2447 5 15 just 
+: 2454 6 17 plain 
+: 2462 3 15 and 
+: 2467 5 14 sim
+: 2475 5 12 ple 
+: 2484 8 12 guys 
+- 2494
+: 2496 2 12 Li
+: 2500 2 12 ving 
+: 2504 6 11 in 
+: 2512 2 7 an 
+: 2516 6 14 A
+: 2524 8 15 mish 
+: 2536 4 14 pa
+: 2541 2 12 ra
+: 2545 2 10 ~
+: 2548 11 12 dise 
+- 2568
+: 2572 2 10 There’s 
+: 2576 3 15 no 
+: 2582 5 15 time 
+: 2590 2 15 for 
+: 2596 4 14 sin 
+: 2604 4 12 and 
+: 2611 8 12 vice 
+- 2622
+: 2624 2 12 Li
+: 2628 2 12 ving 
+: 2632 6 11 in 
+: 2640 2 7 an 
+: 2644 6 14 A
+: 2652 7 15 mish 
+: 2664 4 14 pa
+: 2669 2 12 ra
+: 2673 2 10 ~
+: 2676 8 12 dise 
+- 2696
+: 2700 2 12 We 
+: 2704 4 15 don’t 
+: 2712 6 17 fight, 
+: 2720 2 15 we 
+: 2725 3 14 all 
+: 2730 6 12 play 
+: 2738 10 12 nice 
+- 2750
+: 2752 2 12 Li
+: 2756 2 12 ving 
+: 2760 6 11 in 
+: 2768 2 7 an 
+: 2772 6 14 A
+: 2780 5 15 mish 
+: 2792 4 14 pa
+: 2797 2 12 ra
+: 2801 2 10 ~
+: 2804 8 12 dise 
+- 2819
+R 2822 2 7 Hit
+R 2826 2 2 chin’ 
+R 2830 2 2 up 
+R 2834 2 2 the 
+R 2838 2 2 bug
+R 2842 2 7 gy 
+- 2851
+R 2854 2 9 Chur
+R 2858 2 7 nin’ 
+R 2862 2 7 lots 
+R 2866 2 7 of 
+R 2870 2 7 but
+R 2874 2 11 ter 
+- 2883
+R 2886 2 9 Raised 
+R 2890 2 7 the 
+R 2894 2 9 barn 
+R 2898 2 7 on 
+R 2902 2 9 Mon
+R 2906 2 11 day 
+- 2915
+R 2918 2 11 Soon 
+R 2922 2 11 I’ll 
+R 2926 2 9 raise 
+R 2930 2 11 an
+R 2934 2 16 o
+R 2938 2 7 ther 
+- 2947
+R 2950 2 5 Think 
+R 2954 2 5 you’re 
+R 2958 2 5 real
+R 2962 2 5 ly 
+R 2966 2 5 right
+R 2970 4 12 eous? 
+- 2980
+R 2982 2 12 Think 
+R 2986 2 7 you’re 
+R 2990 2 7 pure 
+R 2995 2 5 in 
+R 2998 2 9 heart? 
+- 3006
+R 3008 2 9 Well 
+R 3011 2 7 I 
+R 3016 6 9 know 
+R 3024 2 11 I’m 
+R 3027 2 11 a 
+R 3031 3 16 mil
+R 3036 2 11 lion 
+R 3040 3 7 times 
+- 3043
+R 3044 2 5 As 
+R 3048 2 7 hum
+R 3052 2 5 ble 
+R 3056 2 5 as 
+R 3060 5 4 thou 
+R 3068 2 2 art 
+- 3077
+R 3080 2 5 I’m 
+R 3083 2 4 the 
+R 3087 2 7 pi
+R 3091 2 4 ous 
+R 3095 2 5 guy 
+- 3097
+R 3098 3 5 The 
+R 3103 2 5 lit
+R 3107 2 4 tle 
+R 3111 2 7 Am
+R 3115 2 5 lettes 
+R 3119 2 7 wan
+R 3123 2 5 na 
+R 3127 2 7 be 
+R 3131 2 5 like 
+- 3133
+R 3135 2 7 On 
+R 3139 2 5 my 
+R 3143 3 9 knees 
+R 3151 2 7 day 
+R 3155 2 7 and 
+R 3159 2 7 night 
+- 3165
+R 3167 2 7 Sco
+R 3171 2 5 rin’ 
+R 3175 6 9 points 
+R 3183 2 7 for 
+R 3187 2 7 the 
+R 3191 2 12 af
+R 3195 2 14 ter
+R 3199 2 7 life 
+- 3208
+R 3211 2 4 So 
+R 3215 2 5 don’t 
+R 3219 2 4 be 
+R 3223 4 9 vain 
+- 3233
+R 3235 2 5 And 
+R 3239 2 7 don’t 
+R 3243 2 7 be 
+R 3247 2 14 whi
+R 3251 2 7 ny 
+- 3257
+R 3259 2 7 Or 
+R 3263 2 7 else 
+R 3267 2 7 my 
+R 3271 2 9 bro
+R 3275 2 9 ther 
+- 3277
+R 3279 2 9 I 
+R 3283 2 10 might 
+R 3287 2 11 have 
+R 3291 2 12 to 
+R 3295 2 14 get 
+R 3299 2 16 me
+R 3303 2 17 die
+R 3307 2 11 val 
+R 3311 2 7 on 
+R 3315 2 7 your 
+R 3319 2 5 hi
+R 3323 2 2 ney 
+- 3335
+: 3339 2 12 We’ve 
+: 3343 4 15 been 
+: 3349 7 15 spen
+: 3358 2 14 ding 
+: 3362 6 14 most 
+: 3371 2 12 o
+: 3375 2 12 ur 
+: 3379 6 12 lives 
+- 3389
+: 3391 2 12 Li
+: 3395 2 12 ving 
+: 3399 6 11 in 
+: 3407 2 7 an 
+: 3411 6 14 A
+: 3419 8 15 mish 
+: 3429 5 14 pa
+: 3435 2 12 ra
+: 3438 2 10 ~
+: 3443 6 12 dise 
+- 3459
+: 3466 2 10 We’re 
+: 3470 5 15 all 
+: 3477 6 17 cra
+: 3485 3 15 zy 
+: 3490 6 14 Men
+: 3498 4 12 no
+: 3505 10 12 nites 
+- 3517
+: 3519 2 12 Li
+: 3523 2 12 ving 
+: 3527 6 11 in 
+: 3535 2 7 an 
+: 3539 6 14 A
+: 3547 8 15 mish 
+: 3559 4 14 pa
+: 3564 2 12 ra
+: 3568 2 10 ~
+: 3572 6 12 dise 
+- 3589
+: 3593 2 10 There’s 
+: 3597 5 15 no 
+: 3605 6 15 cops 
+: 3614 2 14 or 
+: 3618 6 14 traf
+: 3626 5 12 fic 
+: 3633 8 12 lights 
+- 3644
+: 3646 2 12 Li
+: 3650 2 12 ving 
+: 3654 6 11 in 
+: 3662 2 7 an 
+: 3666 6 14 A
+: 3674 6 15 mish 
+: 3686 2 14 pa
+: 3691 2 12 ra
+: 3694 2 10 ~
+: 3697 6 12 dise 
+- 3713
+: 3722 2 10 But 
+: 3726 6 15 you’d 
+: 3734 6 17 prob’
+: 3742 2 15 bly 
+: 3747 4 14 think 
+: 3753 5 12 it 
+: 3761 8 12 bites 
+- 3772
+: 3774 2 12 Li
+: 3778 2 12 ving 
+: 3782 5 11 in 
+: 3790 2 7 an 
+: 3794 5 14 A
+: 3802 6 15 mish 
+: 3814 3 14 pa
+: 3819 2 12 ~
+: 3823 2 10 ra
+: 3827 6 12 dise 
+- 3842
+: 3845 28 8 Ah
+: 3874 4 7 ah
+: 3879 15 5 ah
+: 3898 3 7 ah
+: 3902 3 5 ah
+: 3909 17 2 ah 
+- 3936
+: 3943 12 0 Ah
+: 3956 4 2 ah
+: 3964 4 3 ah
+: 3972 22 8 ah
+: 3995 2 10 ah
+: 3998 4 7 ah
+: 4003 20 5 ah
+: 4024 5 5 ah
+: 4031 3 3 ah
+: 4038 12 2 ah 
+- 4057
+R 4060 24 5 Yech 
+E

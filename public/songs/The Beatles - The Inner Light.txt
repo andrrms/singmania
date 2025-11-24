@@ -1,0 +1,148 @@
+#ARTIST:The Beatles
+#TITLE:The Inner Light
+#MP3:The Beatles - The Inner Light.mp3
+#CREATOR:choosie
+#YEAR:1968
+#LANGUAGE:English
+#BPM:310.14
+#GAP:27960
+#VIDEO:v=sa3948JzWCc,co=lady-madonna-5237041f2eab4.jpg,bg=beatles-the-64296efa76270.jpg
+: 0 3 7 With
+: 7 4 10 out 
+: 18 3 10 go
+: 25 4 10 ing 
+: 34 4 13 out 
+: 43 4 13 of 
+* 51 4 13 my 
+* 60 8 8 door 
+- 70
+: 98 3 7 I 
+: 104 3 8 can 
+: 112 7 10 know 
+: 125 7 10 all 
+: 138 7 13 things 
+: 151 8 13 on 
+: 165 8 12 earth
+: 178 6 8 ~ 
+- 186
+: 208 3 7 With
+: 215 6 10 out 
+: 227 3 10 look
+: 234 4 10 ing 
+: 242 4 13 out 
+: 251 4 13 of 
+: 259 4 13 my 
+: 268 8 12 win
+: 281 6 8 dow 
+- 289
+* 307 3 7 I 
+* 313 3 8 could 
+* 320 7 10 know 
+: 333 7 10 the 
+: 346 7 13 ways 
+: 359 6 13 of 
+: 372 8 12 hea
+: 385 6 8 ven 
+- 393
+: 416 3 7 The 
+: 423 4 8 far
+: 431 4 8 ther 
+: 440 4 8 one 
+: 449 8 8 tra
+: 462 14 7 vels 
+- 478
+: 520 3 3 The 
+: 527 5 7 less 
+: 539 6 7 one 
+: 553 9 3 knows
+: 567 16 1 ~ 
+- 585
+: 624 3 3 The 
+: 631 5 7 less 
+: 644 6 7 one 
+* 658 9 3 real
+* 672 7 1 ly 
+: 686 32 8 knows 
+- 720
+: 1267 3 7 With
+: 1274 4 10 out 
+: 1286 3 10 go
+: 1293 4 10 ing 
+: 1301 4 13 out 
+: 1311 4 13 of 
+: 1320 4 13 your 
+: 1329 8 8 door 
+- 1339
+: 1365 3 7 You 
+: 1371 3 8 can 
+: 1379 7 10 know 
+: 1392 7 10 all 
+: 1405 7 13 things 
+: 1418 8 13 on 
+* 1432 7 12 earth
+* 1444 7 8 ~ 
+- 1453
+: 1475 3 7 With
+: 1482 6 10 out 
+: 1494 3 10 look
+: 1501 4 10 ing 
+: 1509 4 13 out 
+: 1518 4 13 of 
+: 1527 4 13 your 
+: 1535 8 12 win
+: 1548 6 8 dow 
+- 1556
+: 1573 3 7 You 
+: 1579 3 8 can 
+: 1586 6 10 know 
+: 1598 7 10 the 
+: 1611 8 13 ways 
+: 1625 6 13 of 
+: 1639 8 12 hea
+: 1652 6 8 ven 
+- 1660
+: 1682 3 7 The 
+: 1689 4 8 far
+: 1697 4 8 ther 
+: 1706 4 8 one 
+* 1715 8 8 tra
+* 1728 20 7 vels 
+- 1750
+: 1786 3 3 The 
+: 1793 5 7 less 
+: 1805 6 7 one 
+: 1819 9 3 knows
+: 1833 16 1 ~ 
+- 1851
+: 1890 3 3 The 
+: 1898 5 7 less 
+: 1911 6 7 one 
+: 1924 9 3 real
+: 1938 7 1 ly 
+: 1951 8 8 knows
+: 1964 30 8 ~ 
+- 1996
+: 2097 3 7 Ar
+: 2103 6 10 rive 
+: 2114 2 8 with
+: 2117 4 7 out 
+* 2126 3 8 tra
+* 2132 2 7 vel
+* 2137 8 3 ling 
+- 2147
+: 2241 3 7 See 
+: 2247 6 10 all 
+: 2259 2 8 with
+: 2262 4 7 out 
+: 2271 3 8 loo
+: 2276 2 7 ~
+: 2280 4 3 king 
+- 2286
+* 2289 3 7 Do 
+* 2295 6 10 all 
+: 2307 2 8 with
+: 2310 4 7 out 
+: 2319 3 8 do
+: 2324 2 7 ~
+: 2328 4 3 ing. 
+E

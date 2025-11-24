@@ -1,0 +1,351 @@
+#ARTIST:Pretenders
+#TITLE:Precious
+#MP3:Pretenders - Precious.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band Store 2009 Vol. 1
+#GENRE:New Wave
+#YEAR:1980
+#LANGUAGE:English
+#BPM:391.35
+#GAP:26070
+#VIDEO:a=OAn65_5x1kw,co=https://i.discogs.com/m8RU559od6PHLtX1iYOuMTj6YE38xbtYXGba5MCPADA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTkx/Ny0xMzUwODA0MjI3/LTgxOTMuanBlZw.jpeg,bg=pretenders-52113470c940d.jpg
+F 0 1 12 I 
+F 2 3 14 like 
+F 7 1 14 the 
+F 10 1 14 way 
+F 12 5 14 you 
+F 21 3 16 cross 
+F 27 2 16 the 
+- 33
+F 35 3 16 Street 
+F 43 3 12 ’cause 
+F 47 8 12 you’re 
+- 65
+F 90 3 14 Pre
+F 95 4 14 cious 
+- 109
+: 142 3 11 Mov
+: 146 3 9 ing 
+: 151 2 12 through 
+: 154 2 9 the 
+: 159 6 11 Cleve
+: 168 6 11 land 
+: 176 5 12 heat 
+: 185 4 9 how
+: 190 6 6 ~ 
+- 201
+: 203 15 12 Pre
+: 219 5 13 ~
+: 228 3 9 cious 
+- 241
+: 280 4 19 Tak
+: 285 2 16 ing 
+: 288 3 19 rides 
+: 293 3 16 and 
+: 298 2 16 all
+: 301 3 15 ~ 
+: 306 4 14 the 
+: 315 3 14 kicks 
+: 320 2 12 you’re 
+: 324 6 12 so 
+- 337
+: 340 16 14 Pre
+: 357 3 16 ~
+: 366 2 16 cious 
+- 378
+F 413 2 14 But 
+F 416 2 14 you 
+F 419 2 14 know 
+F 422 2 14 I 
+F 425 2 14 was 
+F 432 3 14 shit
+F 437 3 14 tin’ 
+F 441 5 14 bricks 
+- 452
+F 455 3 14 ’Cause 
+F 460 21 14 I’m 
+- 491
+: 501 3 4 Pre
+: 507 5 9 cious 
+- 538
+: 589 4 14 Made 
+: 595 2 11 me 
+: 599 4 12 wan
+: 604 4 12 na 
+- 634
+: 661 4 11 Made 
+: 666 2 14 me 
+: 670 4 17 wan
+: 676 3 18 na 
+- 705
+: 732 4 18 Made 
+: 737 1 16 me 
+: 741 4 19 make 
+: 746 2 21 it
+: 749 5 23 ~ 
+- 766
+F 770 25 14 Oh, 
+F 798 3 14 you’re 
+- 808
+F 811 5 14 So 
+F 821 17 14 mean 
+- 890
+F 963 2 13 East 
+F 967 2 14 Fif
+F 971 2 9 ty= 
+F 975 2 14 Fifth 
+F 980 2 9 and 
+F 983 2 14 Eu
+F 988 1 9 clid 
+F 990 4 14 A
+F 995 2 7 ve
+F 998 9 7 nue 
+F 1012 3 14 was 
+F 1018 10 14 real 
+- 1038
+: 1060 3 4 Pre
+: 1065 6 9 cious 
+- 1081
+: 1099 3 11 Ho
+: 1104 6 12 tel 
+: 1113 3 11 Sterl
+: 1117 3 12 ing 
+: 1122 2 12 com
+: 1125 3 12 ing 
+: 1129 3 11 in
+: 1133 2 12 to 
+: 1137 8 12 view 
+: 1150 2 7 a-
+: 1154 10 9 how 
+- 1170
+: 1172 17 12 Pre
+: 1190 3 13 ~
+: 1198 2 9 cious 
+- 1210
+F 1245 1 14 It’s 
+F 1247 1 14 a 
+F 1249 1 14 pi
+F 1251 2 14 ty 
+F 1254 2 14 that 
+F 1258 4 14 you 
+F 1265 6 14 bruised 
+F 1273 5 14 my 
+F 1280 3 14 hip 
+F 1288 2 14 ’cause 
+- 1292
+F 1294 22 14 I’m 
+F 1319 2 14 pre
+F 1323 7 14 cious 
+- 1340
+F 1382 1 14 You 
+F 1386 2 14 should
+F 1389 1 14 n’t 
+F 1391 1 14 let 
+F 1395 6 14 your 
+F 1403 3 14 man
+F 1408 3 14 ners 
+F 1416 3 14 slip 
+F 1423 4 14 you’re 
+F 1431 6 14 too 
+- 1447
+* 1456 9 12 Pre
+* 1466 2 13 ~
+: 1471 3 9 cious 
+- 1500
+: 1557 3 14 Made 
+: 1562 3 10 me 
+: 1567 4 12 wan
+: 1572 3 12 na 
+- 1601
+: 1628 3 12 Made 
+: 1633 2 14 me 
+: 1637 3 17 wan
+: 1642 3 19 na 
+- 1671
+: 1699 4 19 Made 
+: 1704 1 16 me 
+: 1708 4 19 make 
+: 1713 3 21 it
+: 1717 4 23 ~ 
+- 1732
+F 1736 23 19 Oh, 
+F 1760 2 9 you’re 
+- 1773
+F 1777 7 9 So 
+F 1787 4 9 mean 
+- 1843
+: 2048 2 9 Oh, 
+: 2051 3 16 we 
+: 2055 2 16 went 
+: 2058 3 15 a
+: 2063 2 16 round
+: 2066 6 15 ~ 
+: 2073 2 15 and 
+: 2076 3 16 round
+: 2080 2 15 ~ 
+- 2084
+: 2086 3 15 And 
+: 2090 3 16 round
+: 2094 4 15 ~ 
+: 2099 3 15 and 
+: 2103 4 16 round
+: 2108 3 15 ~ 
+: 2112 3 15 and 
+: 2116 4 16 round
+: 2121 3 13 ~ 
+: 2125 2 13 the 
+- 2132
+: 2134 7 12 Shore
+: 2142 6 12 way 
+- 2158
+: 2186 3 8 Oh, 
+: 2190 3 16 we 
+: 2194 3 16 was 
+: 2199 3 15 a 
+: 2204 3 16 du
+: 2208 4 15 et, 
+: 2215 4 16 du
+: 2220 3 15 et 
+- 2227
+: 2229 2 16 Du
+: 2233 3 15 et, 
+: 2243 2 16 du
+: 2247 3 15 et, 
+: 2256 3 16 do 
+: 2260 3 15 it 
+: 2264 3 16 on 
+: 2269 2 18 the 
+: 2273 6 19 pave
+: 2282 2 16 ment
+: 2285 6 19 ~ 
+- 2301
+: 2327 4 19 Oh
+* 2332 5 21 ~
+* 2338 3 18 ~, 
+: 2343 7 21 may
+* 2352 7 18 be 
+- 2369
+: 2373 4 13 Ma
+* 2380 2 13 y-
+* 2383 2 13 uh-
+: 2386 3 13 be 
+: 2390 3 9 I’m 
+: 2395 3 9 gon
+: 2399 2 9 na 
+* 2402 3 9 have 
+: 2407 2 9 a 
+* 2413 7 11 ba
+: 2421 3 13 ~
+* 2426 7 9 by 
+- 2443
+F 2464 3 11 Oh, 
+F 2468 2 19 we 
+F 2471 3 16 was 
+F 2476 2 14 a 
+F 2481 2 19 du
+F 2484 8 16 et 
+- 2502
+F 2519 8 14 Oh, 
+F 2528 2 14 we 
+F 2532 1 14 do 
+F 2534 1 14 it 
+F 2536 3 14 all 
+F 2541 7 14 night 
+- 2600
+F 3448 1 14 I 
+F 3450 2 14 was 
+F 3455 1 14 feel
+F 3457 3 14 ing 
+F 3462 2 14 kind 
+F 3465 1 14 of 
+F 3467 2 14 e
+F 3472 2 14 the
+F 3475 1 14 re
+F 3477 6 14 al 
+- 3491
+F 3494 2 14 ’Cause 
+F 3497 13 14 I’m 
+- 3536
+: 3577 2 9 I 
+: 3580 2 12 had 
+: 3584 3 12 my 
+: 3588 4 11 eye 
+: 3593 3 12 on 
+: 3597 4 12 your 
+: 3602 2 12 Im
+: 3606 3 11 pe
+: 3611 2 9 ri
+: 3614 4 9 al 
+- 3624
+: 3627 3 7 You’re 
+: 3633 4 9 so 
+- 3663
+F 3710 1 14 Now 
+F 3713 1 14 Ho
+F 3715 2 14 ward 
+F 3719 1 14 the 
+F 3723 2 14 Duck 
+F 3728 1 14 and 
+F 3731 2 14 Mis
+F 3735 1 14 ter 
+F 3740 2 14 Stress 
+F 3744 4 14 both 
+- 3751
+F 3753 14 14 Stayed, 
+F 3768 4 14 uh 
+- 3782
+F 3803 3 14 I’m 
+F 3807 3 14 pre
+F 3812 7 14 cious 
+- 3829
+: 3845 3 16 Trapped 
+: 3850 3 15 in 
+: 3854 3 16 a 
+: 3858 2 15 world
+: 3861 3 16 ~ 
+: 3866 1 15 that 
+: 3870 3 16 they 
+: 3874 3 16 ne
+: 3879 1 15 ver
+: 3881 4 16 ~ 
+: 3887 9 16 made 
+- 3907
+F 3911 2 14 But 
+F 3915 3 16 not 
+F 3920 3 16 me 
+F 3924 3 12 ba
+F 3928 1 12 by 
+F 3930 2 12 I’m 
+F 3934 2 14 too 
+F 3938 3 14 pre
+F 3942 2 9 cious 
+F 3945 2 14 had 
+F 3948 1 9 to 
+- 3955
+F 3958 3 9 Fuck
+F 3962 8 9 off 
+- 3980
+: 4021 1 9 You 
+: 4026 3 14 made 
+: 4031 2 11 me 
+: 4035 4 12 wan
+: 4040 2 10 na 
+- 4068
+: 4097 3 12 Made 
+: 4101 3 14 me 
+: 4106 3 17 wan
+: 4110 4 19 na 
+- 4124
+: 4163 2 19 You 
+: 4167 3 19 made 
+: 4172 2 16 me 
+: 4176 3 19 make 
+: 4181 3 19 it
+: 4185 4 23 ~ 
+- 4201
+F 4205 22 14 Oh, 
+F 4230 3 14 you’re 
+- 4240
+F 4243 6 14 So 
+F 4253 12 14 mean 
+E

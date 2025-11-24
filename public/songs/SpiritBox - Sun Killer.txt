@@ -1,0 +1,265 @@
+#ARTIST:SpiritBox
+#TITLE:Sun Killer
+#MP3:SpiritBox - Sun Killer.mp3
+#CREATOR:Hecate
+#COVER:SpiritBox - Sun Killer [CO].jpg
+#BACKGROUND:SpiritBox - Sun Killer [BG].jpg
+#GENRE:Alternative Metal
+#YEAR:2021
+#LANGUAGE:English
+#BPM:355.46
+#GAP:29470
+#VIDEO:v=iXY93aMLG7s,co=eternal-blue-60b1b049714c3.jpg
+: 0 12 4 I 
+: 15 14 2 was 
+: 31 15 5 born 
+: 48 14 4 to 
+: 64 16 4 break, 
+: 85 14 4 shal
+: 100 16 2 low 
+: 118 13 5 pa
+: 132 14 4 ra
+: 147 17 0 dise 
+- 167
+: 169 15 4 Con
+: 185 15 2 sumed, 
+: 203 16 5 I 
+: 220 13 4 ig
+: 234 14 4 nore 
+: 256 15 4 me
+: 272 15 2 te
+: 288 15 7 o
+: 304 14 9 ric 
+: 319 17 5 rise 
+- 341
+: 343 14 4 If 
+: 358 15 2 the 
+: 374 17 5 blade 
+: 392 12 4 is 
+: 405 13 4 dull, 
+: 426 17 4 there 
+: 444 13 2 is 
+: 458 16 5 con
+: 475 14 4 se
+: 490 14 0 quence 
+- 510
+: 513 15 4 You 
+: 531 14 2 dis
+: 546 16 7 please 
+: 563 13 5 the 
+: 577 15 4 host, 
+: 598 15 4 there 
+: 615 14 2 is 
+: 630 16 5 no 
+: 647 12 4 de
+: 660 11 2 fense 
+- 671
+: 672 8 2 Tell 
+: 682 10 -1 me 
+: 694 10 2 the 
+: 706 19 4 waves 
+: 727 19 5 won’t 
+: 748 64 7 rise 
+- 822
+: 831 12 4 And 
+: 845 8 2 mon
+: 854 10 -1 sters 
+: 866 9 2 will 
+: 876 18 11 fade 
+: 895 19 7 with 
+: 920 5 5 ti
+: 926 6 7 ~
+: 933 29 5 ~
+: 963 33 4 me 
+- 1002
+: 1005 7 4 To 
+: 1015 9 2 tem
+: 1025 9 -1 per 
+: 1036 8 2 the 
+: 1046 17 4 blade 
+: 1065 15 -1 with 
+: 1090 7 5 the 
+: 1098 10 2 twist 
+: 1109 11 -1 of 
+: 1121 11 2 a 
+: 1133 23 4 knife 
+- 1166
+: 1175 9 4 A 
+: 1185 9 2 sun 
+: 1195 13 -1 kil
+: 1209 9 2 ler 
+: 1219 18 11 lul
+: 1238 21 7 la
+: 1260 7 5 by
+: 1268 7 7 ~
+: 1276 27 5 ~
+: 1304 32 4 ~ 
+- 1346
+: 1369 13 4 They 
+: 1383 16 2 were 
+: 1400 17 5 born 
+: 1418 10 4 of 
+: 1430 16 4 dust, 
+: 1453 15 4 shal
+: 1469 16 2 low 
+: 1487 12 5 pa
+: 1500 14 4 ra
+: 1515 15 0 sites 
+- 1536
+: 1538 15 4 Break
+: 1554 16 2 down 
+: 1572 14 5 de
+: 1587 13 4 struc
+: 1601 16 4 tion, 
+: 1626 11 4 o
+: 1638 16 2 cean 
+: 1656 14 7 floors 
+: 1672 14 9 col
+: 1687 14 5 lide 
+- 1709
+: 1712 11 4 If 
+: 1725 16 2 the 
+: 1743 14 5 blade 
+: 1759 12 4 is 
+: 1773 11 4 dull, 
+: 1796 14 4 there 
+: 1812 13 2 is 
+: 1827 15 5 con
+: 1843 14 4 se
+: 1858 14 0 quence 
+- 1881
+: 1885 11 4 If 
+: 1898 12 2 I 
+: 1912 15 7 stay, 
+: 1930 11 5 I 
+: 1943 13 5 know 
+: 1968 12 4 I’ll 
+: 1982 14 2 be 
+: 1998 16 7 vi
+: 2015 11 9 o
+: 2027 11 5 lent 
+- 2039
+: 2041 9 2 Tell 
+: 2051 11 -1 me 
+: 2063 11 2 the 
+: 2075 18 4 waves 
+: 2094 22 5 won’t 
+: 2117 64 7 rise~
+: 2182 10 5 ~ 
+- 2199
+: 2202 9 4 And 
+: 2213 9 2 mon
+: 2223 10 -1 sters 
+: 2234 9 2 will 
+: 2244 19 11 fade 
+: 2264 20 7 with 
+: 2286 5 5 ti
+: 2292 8 7 ~
+: 2301 28 5 ~
+: 2330 34 7 me 
+- 2370
+: 2372 9 7 To 
+: 2383 9 9 tem
+: 2393 10 7 per 
+: 2404 9 9 the 
+: 2415 18 5 blaze 
+: 2434 18 4 with 
+: 2458 8 5 the 
+: 2468 9 2 twist 
+: 2479 10 -1 of 
+: 2491 8 2 a 
+: 2501 27 4 knife 
+- 2539
+: 2543 8 7 A 
+: 2554 8 9 sun 
+: 2564 10 7 ki
+: 2575 9 9 ller 
+: 2586 20 9 lul
+: 2607 19 11 la
+: 2627 13 7 by
+: 2641 16 5 ~
+: 2658 6 7 ~
+: 2665 13 9 ~
+: 2679 6 7 ~
+: 2686 18 5 ~ 
+- 2714
+R 2725 11 0 Sun 
+R 2740 16 0 kil
+R 2757 12 0 ler 
+R 2772 12 0 sing 
+R 2789 12 0 me 
+R 2807 4 0 to 
+R 2813 15 0 sleep 
+- 2851
+R 2896 12 0 Sun 
+R 2913 15 0 kil
+R 2929 9 0 ler 
+R 2944 12 0 sing 
+R 2960 15 0 me 
+R 2978 4 0 to 
+: 2983 13 0 sleep 
+- 3019
+R 3068 11 0 Sun 
+R 3084 13 0 kil
+R 3098 10 0 ler 
+R 3113 11 0 sing 
+R 3131 13 0 me 
+R 3148 6 0 to 
+R 3155 13 0 sleep 
+- 3191
+R 3239 9 0 Sun 
+R 3253 16 0 kil
+R 3270 11 0 ler 
+R 3285 10 0 sing 
+R 3302 13 0 me 
+R 3319 6 0 to 
+: 3326 11 0 sleep 
+- 3360
+R 3409 11 0 Sun 
+R 3425 13 0 kil
+R 3439 12 0 ler 
+R 3456 10 0 sing 
+R 3473 11 0 me 
+R 3490 5 0 to 
+R 3496 12 0 sleep 
+- 3531
+R 3581 11 0 Sun 
+R 3596 14 0 kil
+R 3611 13 0 ler 
+R 3628 12 0 sing 
+R 3643 13 0 me 
+R 3661 5 0 to 
+R 3667 15 0 sleep 
+- 3692
+R 3708 14 0 Sun 
+R 3724 15 0 kil
+R 3740 12 0 ler 
+R 3754 17 0 sing 
+R 3773 15 0 me 
+R 3790 4 0 to 
+R 3796 44 0 sleep 
+- 3850
+R 3882 12 0 Sun 
+R 3896 14 0 kil
+R 3911 13 0 ler 
+R 3926 17 0 sing 
+R 3945 13 0 me 
+R 3961 4 0 to 
+R 3967 53 0 sleep 
+- 4030
+R 4051 15 0 Sun 
+R 4068 13 0 kil
+R 4082 14 0 ler 
+R 4098 12 0 sing 
+R 4112 16 0 me 
+R 4131 5 0 to 
+R 4138 40 0 sleep 
+- 4188
+R 4224 10 0 Sun 
+R 4237 15 0 kil
+R 4253 12 0 ler 
+R 4267 14 0 sing 
+R 4283 16 0 me 
+R 4302 5 0 to 
+R 4309 87 0 sleep 
+E

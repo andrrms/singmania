@@ -1,0 +1,186 @@
+#ARTIST:Hooverphonic
+#TITLE:Club Montepulciano (Live at Koningin Elisabethzaal 2012)
+#MP3:Hooverphonic - Club Montepulciano (Live at Koningin Elisabethzaal 2012).mp3
+#CREATOR:lava
+#COVER:Hooverphonic - Club Montepulciano (Live at Koningin Elisabethzaal 2012) [CO].jpg
+#BACKGROUND:Hooverphonic - Club Montepulciano (Live at Koningin Elisabethzaal 2012) [BG].jpg
+#YEAR:2012
+#LANGUAGE:English
+#BPM:300
+#GAP:12000
+#VIDEO:v=l39d9DJtPyg,co=https://groundzero.fr/wp-content/uploads/2021/04/Hooverphonic-With-Orchestra-Live.jpg,bg=https://is1-ssl.mzstatic.com/image/thumb/Video/v4/6d/d6/8f/6dd68ff9-6821-9b9e-8010-c8f6164b2193/8864436569250101VIC.jpg/1920x1080mv.jpg
+: 0 3 1 Fi
+: 4 5 1 o
+: 10 4 4 na 
+: 22 3 3 said 
+- 35
+: 47 2 -1 Some
+: 50 2 -1 thing 
+: 53 7 3 nice 
+: 66 4 -1 to 
+: 72 7 1 me 
+- 119
+: 176 11 1 Green 
+: 197 9 1 vel
+: 210 8 4 vet 
+: 222 4 3 jack
+: 229 3 -1 et 
+- 242
+: 253 2 3 Sets 
+: 259 7 -1 you 
+: 271 6 1 free 
+- 317
+: 378 4 6 Len
+: 384 8 4 ny 
+: 396 9 6 beige 
+: 409 4 6 is 
+: 414 5 4 per
+: 422 11 6 form
+: 434 13 6 ing 
+: 460 6 9 spin
+: 467 5 9 ning 
+: 474 6 6 wheel
+: 482 8 4 ~ 
+- 530
+: 574 13 1 Club 
+: 598 8 1 Mon
+: 608 5 1 te
+: 615 2 4 pul
+: 621 8 3 cia
+: 631 14 -1 no 
+: 647 3 -1 is 
+: 652 4 3 what 
+: 659 7 -1 you 
+: 668 12 1 need 
+- 720
+: 775 7 6 Blue 
+: 783 9 4 Ha
+: 793 9 6 waii 
+- 812
+: 819 2 6 Pic
+: 822 4 6 ca
+: 827 5 6 dil
+: 834 12 4 ly 
+: 848 15 6 whore 
+- 871
+: 874 1 6 A 
+: 876 7 6 cock
+: 884 7 6 tail 
+: 892 7 6 is 
+: 900 8 6 what 
+: 909 11 6 I’m 
+: 922 7 9 long
+: 930 5 9 ing
+: 937 4 6 ~ 
+: 947 4 6 for
+: 952 11 4 ~ 
+- 973
+: 977 7 6 Blue 
+: 985 9 4 Ha
+: 995 9 6 waii 
+- 1015
+: 1019 2 6 Pic
+: 1022 4 6 ca
+: 1027 5 6 dil
+: 1033 12 4 ly 
+: 1047 16 6 whore 
+- 1073
+: 1077 13 6 Roger 
+: 1093 11 6 fell 
+: 1105 12 6 a
+* 1119 11 9 sleep 
+* 1133 7 9 you 
+* 1142 17 6 know
+* 1160 15 9 ~
+* 1176 5 6 ~
+* 1183 11 4 ~ 
+- 1234
+: 1596 3 1 Fi
+: 1600 5 1 o
+: 1606 4 4 na 
+: 1618 3 3 said 
+- 1631
+: 1646 1 -1 Some
+: 1649 2 -1 thing 
+: 1652 9 3 nice 
+: 1665 4 -1 to 
+: 1671 9 1 me 
+- 1720
+: 1773 13 1 New 
+: 1793 10 1 blue 
+: 1807 5 4 jack 
+: 1820 10 3 suit 
+- 1840
+: 1852 3 3 Sets 
+: 1859 6 -1 you 
+: 1871 4 1 free
+: 1876 3 3 ~
+: 1880 10 1 ~ 
+- 1930
+: 1976 4 6 Len
+: 1982 8 4 ny 
+: 1994 9 6 beige 
+: 2007 4 6 is 
+: 2012 5 4 per
+: 2020 11 6 form
+: 2032 13 6 ing 
+: 2059 6 9 spin
+: 2066 5 9 ning 
+: 2073 6 6 wheel
+: 2081 8 4 ~ 
+- 2129
+: 2175 13 1 Club 
+: 2199 8 1 Mon
+: 2209 5 1 te
+: 2215 3 4 pul
+: 2222 8 3 cia
+: 2232 14 -1 no 
+: 2248 3 -1 is 
+: 2253 4 3 what 
+: 2260 7 -1 you 
+: 2269 12 1 need 
+- 2321
+: 2376 7 6 Blue 
+: 2384 9 4 Ha
+: 2394 9 6 waii 
+- 2413
+: 2421 2 6 Pic
+: 2424 4 6 ca
+: 2429 4 6 dil
+: 2435 13 4 ly 
+: 2450 15 6 whore 
+- 2472
+: 2475 1 6 A 
+: 2477 7 6 cock
+: 2485 7 6 tail 
+: 2493 7 6 is 
+: 2501 8 6 what 
+: 2510 11 6 I’m 
+: 2523 7 9 long
+: 2531 7 9 ing
+: 2540 4 6 ~ 
+: 2548 4 6 for
+: 2553 11 4 ~ 
+- 2573
+: 2577 7 6 Blue 
+: 2585 9 4 Ha
+: 2595 9 6 waii 
+- 2614
+: 2621 2 6 Pic
+: 2624 4 6 ca
+: 2629 4 6 dil
+: 2634 11 4 ly 
+: 2647 18 6 whore 
+- 2674
+: 2678 6 6 Ro
+: 2685 4 6 ger 
+: 2694 11 6 fell 
+: 2706 12 6 as
+* 2720 9 9 leep 
+* 2731 7 9 you 
+* 2743 14 6 know
+* 2759 15 9 ~
+* 2776 5 6 ~
+* 2783 6 4 ~
+* 2790 6 1 ~ 
+E

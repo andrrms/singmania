@@ -1,0 +1,273 @@
+#ARTIST:Animaniacs
+#TITLE:Theme
+#MP3:Animaniacs - Theme.mp3
+#CREATOR:Unknown
+#COVER:Animaniacs - Theme [CO].jpg
+#BACKGROUND:Animaniacs - Theme [BG].jpg
+#YEAR:1990
+#LANGUAGE:English
+#BPM:332
+#GAP:2100
+#VIDEO:v=O7Q4tPTLUVk,co=https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/28/5e/12285ed6-2e3c-65e5-da46-c3cbb942b79e/794043205972.jpg/5000x5000bb.jpg
+: 0 6 3 It’s 
+: 8 6 2 time 
+: 16 6 3 for 
+: 24 12 5 A
+: 36 4 3 ni
+: 40 12 2 ma
+: 52 4 3 ni
+: 56 6 0 acs 
+- 70
+: 80 4 2 And 
+: 84 4 3 we’re 
+: 88 12 5 Za
+: 100 4 3 ny 
+: 104 12 2 to 
+: 116 4 3 the 
+: 120 6 -2 max 
+- 134
+: 144 4 0 So 
+: 148 4 -2 just 
+: 152 4 -4 sit 
+: 156 4 -4 back 
+: 160 4 0 and 
+: 164 4 3 re
+: 168 6 8 lax 
+- 176
+: 180 4 8 You’ll 
+* 184 6 10 laugh 
+: 190 2 8 till 
+: 192 4 7 you 
+: 196 4 8 col
+: 200 4 5 lapse 
+- 208
+: 212 4 5 We’re 
+: 216 6 3 ani
+: 224 6 12 ma
+: 232 10 10 ni
+: 244 4 8 a
+: 248 6 8 ~cs 
+- 262
+: 272 8 7 Come 
+: 280 4 9 join 
+: 284 4 7 the 
+: 288 4 6 War
+: 292 4 7 ner 
+: 296 4 4 bro
+: 300 4 7 thers 
+- 304
+: 304 4 6 And 
+: 308 4 7 the 
+: 312 4 9 War
+: 316 4 7 ner 
+: 320 4 6 Sis
+: 324 4 7 ter 
+* 328 4 2 Dot 
+- 338
+: 344 4 9 Just 
+: 348 4 7 for 
+: 352 4 6 fun 
+: 356 4 7 we 
+: 360 4 2 run 
+: 364 4 7 a
+: 368 4 6 round 
+: 372 4 7 the 
+- 376
+: 376 4 9 War
+: 380 4 7 ner 
+: 384 4 6 mo
+: 388 4 7 vie 
+: 392 4 4 lot 
+- 400
+: 404 4 2 They 
+: 408 4 0 lock 
+: 412 4 0 us 
+: 416 4 4 in 
+: 420 4 7 the 
+: 424 4 12 to
+: 428 4 12 wer 
+- 434
+: 436 4 12 When
+: 440 4 14 e
+: 444 4 12 ver 
+: 448 4 11 we 
+: 452 4 12 get 
+: 456 4 9 caught 
+- 464
+: 468 4 7 But 
+: 472 4 9 we 
+: 476 4 7 break 
+* 480 4 7 loose 
+: 484 4 7 and 
+: 488 4 10 then 
+: 492 4 8 run 
+: 496 4 8 vamoose 
+- 500
+: 500 4 8 And 
+: 504 4 11 now 
+: 508 4 9 you 
+: 512 4 9 know 
+: 516 4 9 the 
+: 520 4 10 plot 
+- 528
+: 532 4 10 We’re 
+: 536 12 12 A
+: 548 4 10 ni
+: 552 12 9 ma
+: 564 4 10 ni
+: 568 6 7 acs 
+- 582
+: 592 4 9 Dot 
+: 596 4 10 is 
+: 600 6 12 cute 
+: 608 6 10 and 
+: 616 6 9 Ya
+: 624 6 10 ko 
+: 632 6 5 yaks 
+- 646
+: 656 4 7 Wak
+: 660 4 5 ko 
+: 664 4 3 packs 
+: 670 2 3 a
+: 672 4 7 way 
+: 676 4 10 the 
+: 680 6 15 snacks 
+- 686
+: 688 4 14 While 
+: 692 4 15 Bill 
+: 696 4 17 Clin
+: 700 4 15 ton 
+* 704 4 14 plays 
+: 708 4 15 the 
+: 712 4 12 sax 
+- 720
+: 724 4 12 We’re 
+: 728 6 10 A
+: 736 6 19 ni
+: 744 10 17 ma
+: 756 4 15 ni
+: 760 6 15 acs 
+- 1360
+: 1954 4 2 Meet 
+: 1958 4 4 Pin
+: 1962 4 2 ky 
+: 1966 4 1 and 
+: 1970 4 2 the 
+: 1974 4 -1 Brain 
+- 1978
+: 1978 4 2 Who 
+: 1982 4 1 want 
+: 1986 4 2 to 
+: 1990 4 4 rule 
+: 1994 4 2 the 
+: 1998 4 1 u
+: 2002 4 2 ni
+: 2006 4 -3 verse 
+- 2014
+: 2018 4 2 Good
+: 2022 4 4 fea
+: 2026 4 2 thers 
+: 2030 4 1 flock 
+: 2034 4 2 to
+: 2038 4 -3 ge
+: 2042 4 2 ther 
+- 2046
+: 2046 4 1 Slap
+: 2050 4 2 py 
+* 2054 4 4 wacks 
+: 2058 4 2 ’em 
+: 2062 4 1 with 
+: 2066 4 2 her 
+: 2070 4 -1 purse 
+- 2080
+: 2086 4 -5 But
+: 2090 4 -5 tons 
+: 2094 4 -1 cha
+: 2098 4 2 ses 
+: 2102 4 7 Min
+: 2106 4 7 dy 
+- 2112
+: 2114 4 7 While 
+: 2118 4 9 Ri
+: 2122 4 7 ta 
+: 2126 4 6 sings 
+: 2130 4 7 a 
+: 2134 4 4 verse 
+- 2142
+: 2146 4 2 The 
+: 2150 4 4 wri
+: 2154 4 2 ters 
+: 2158 4 2 flipped 
+: 2162 4 2 we 
+: 2166 4 5 have 
+: 2170 4 3 no 
+: 2174 4 3 script 
+- 2178
+: 2178 4 3 Why 
+: 2182 4 6 bot
+: 2186 4 4 her 
+: 2190 4 4 to 
+: 2194 4 4 re
+: 2198 4 5 hearse? 
+- 2206
+: 2210 4 5 We’re 
+: 2214 12 7 A
+: 2226 4 5 ni
+: 2230 12 4 ma
+: 2242 4 5 ni
+: 2246 6 2 acs 
+- 2260
+: 2270 4 4 We 
+: 2274 4 5 have 
+: 2278 6 7 pay 
+: 2286 6 5 for 
+* 2294 6 4 play 
+: 2302 6 5 con
+: 2310 6 0 tracts 
+- 2326
+: 2338 4 0 We’re 
+: 2342 4 -2 za
+: 2346 4 -2 ny 
+: 2350 4 2 to 
+: 2354 4 5 the 
+: 2358 6 10 max 
+- 2364
+: 2366 4 9 There’s 
+: 2372 2 10 ba
+: 2374 4 12 lo
+: 2378 4 10 ney 
+: 2382 4 9 in 
+: 2386 4 10 our 
+: 2390 4 7 slacks 
+- 2398
+: 2402 4 5 We’re 
+: 2406 6 7 A
+: 2414 6 8 ni
+: 2422 4 9 ma
+: 2426 4 5 ny 
+- 2434
+: 2438 4 7 To
+: 2442 4 7 tal
+: 2446 4 8 ly 
+: 2450 4 8 in
+: 2454 4 9 sa
+: 2458 4 5 ne 
+- 2466
+: 2470 4 7 Pin
+: 2474 4 7 ky 
+: 2478 4 8 and 
+: 2482 4 8 the 
+: 2486 4 9 Brai
+: 2490 4 5 ny 
+- 2498
+: 2502 6 7 A
+: 2510 6 8 ni
+: 2518 4 9 ma
+: 2522 10 14 ni
+: 2534 14 17 acs! 
+- 2550
+: 2550 4 5 Those 
+: 2556 4 7 are 
+: 2562 4 9 the 
+: 2566 4 10 facts! 
+E

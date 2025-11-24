@@ -1,0 +1,535 @@
+#ARTIST:OMC
+#TITLE:How Bizarre
+#MP3:OMC - How Bizarre.mp3
+#CREATOR:MDKeil
+#EDITION:SingStar Chartbreaker
+#GENRE:Pop
+#YEAR:1995
+#LANGUAGE:English
+#BPM:249.84
+#GAP:15760
+#VIDEO:v=C2cMG33mWVY,co=how-bizarre-5982721e89a43.jpg,bg=https://i.ytimg.com/vi/C2cMG33mWVY/maxresdefault.jpg
+F 0 2 0 Bro
+F 3 1 0 ther 
+F 6 1 0 Pe
+F 8 1 0 le’s 
+F 13 2 0 in 
+F 17 1 0 the 
+F 19 2 0 back 
+- 23
+F 33 3 2 Sweet 
+F 38 2 2 See
+F 41 1 2 na’s 
+F 44 1 2 in 
+F 46 1 2 the 
+F 49 3 2 front 
+- 54
+F 69 3 4 Crui
+F 73 2 4 sing 
+F 77 2 4 down 
+F 81 1 4 the 
+F 84 3 4 free
+F 88 2 4 way 
+- 92
+F 93 3 5 In 
+F 97 2 5 the 
+F 101 2 5 hot, 
+F 109 2 5 hot 
+F 117 2 5 sun 
+- 121
+F 133 1 7 Sud
+F 135 2 7 den
+F 139 2 7 ly 
+F 143 2 7 red 
+F 147 2 7 blue 
+F 151 3 7 lights 
+- 156
+F 164 3 9 Flash 
+F 169 2 9 us 
+F 173 2 9 from 
+F 177 1 9 be
+F 179 4 9 hind 
+- 185
+F 197 3 11 Loud 
+F 203 2 11 voice 
+F 209 2 11 boo
+F 213 2 11 ming 
+- 216
+F 217 4 11 “Please 
+F 224 1 12 step 
+F 226 2 12 out 
+F 232 2 12 on
+F 237 1 12 to 
+F 239 1 12 the 
+F 241 6 12 line” 
+- 249
+F 261 2 14 Pe
+F 264 2 14 le 
+F 268 2 14 breathes 
+F 272 2 14 words 
+F 275 1 14 of 
+F 277 2 14 com
+F 281 3 14 fort 
+- 286
+F 293 1 16 See
+F 295 1 16 na 
+F 297 2 16 just 
+F 301 2 16 hides 
+F 305 1 16 her 
+F 307 8 16 eyes 
+- 317
+F 323 1 17 Po
+F 325 2 17 lice
+F 329 2 17 man 
+F 333 2 17 taps 
+F 336 3 17 his 
+F 341 2 17 shades 
+- 344
+F 345 2 17 “Is 
+F 349 1 17 that 
+F 351 1 17 a 
+F 355 2 17 Che
+F 358 2 17 vy 
+F 362 2 17 six
+F 366 2 17 ty 
+F 369 5 17 nine?” 
+- 376
+F 381 2 19 How 
+F 385 1 19 bi
+F 387 3 19 zarre 
+- 392
+F 429 2 21 How 
+F 433 1 21 bi
+F 435 3 21 zarre, 
+F 445 2 19 how 
+F 449 1 19 bi
+F 451 4 19 zarre 
+- 457
+F 517 2 0 Des
+F 521 1 0 ti
+F 523 2 0 na
+F 527 1 0 tion 
+F 529 2 0 un
+F 533 5 0 known 
+- 540
+F 541 2 2 As 
+F 545 2 2 we 
+F 549 1 2 pull 
+F 551 2 2 in 
+F 555 1 2 for 
+F 558 2 2 some 
+F 563 6 2 gas 
+- 571
+F 579 2 4 A 
+F 582 2 4 fresh
+F 586 2 4 ly 
+F 590 2 4 pas
+F 594 1 4 ted 
+F 596 2 4 pos
+F 600 2 4 ter 
+- 603
+F 604 1 4 Re
+F 606 2 4 veals 
+F 610 2 4 a 
+F 614 4 4 smile 
+F 620 1 4 from 
+F 624 1 4 the 
+F 626 2 4 pack 
+- 630
+F 645 1 5 E
+F 647 2 5 le
+F 651 2 5 phants 
+F 657 2 5 and 
+F 661 2 5 a
+F 665 1 5 cro
+F 667 1 5 bats 
+- 670
+F 677 4 7 Lions 
+F 683 2 7 next 
+F 689 2 7 mon
+F 693 6 7 key 
+- 701
+F 709 1 9 Pe
+F 711 2 9 le 
+F 715 2 9 speaks 
+F 721 2 9 “righ
+F 725 2 9 teous” 
+- 729
+F 733 2 11 Sis
+F 737 1 11 ter 
+F 739 1 11 See
+F 741 2 11 na 
+F 745 3 11 says 
+F 750 3 11 “fun
+F 756 2 11 ky” 
+- 760
+F 765 2 12 How 
+F 769 1 12 bi
+F 771 5 12 zarre 
+- 778
+F 813 2 14 How 
+F 817 1 14 bi
+F 819 4 14 zarre, 
+F 831 2 12 how 
+F 834 1 12 bi
+F 836 3 12 zarre 
+- 841
+* 885 7 16 Ooh
+: 893 2 12 ~ 
+: 897 6 12 ba
+: 905 2 12 by 
+- 909
+: 921 5 7 Ooh 
+: 929 4 7 ba
+: 937 3 3 by
+: 941 3 2 ~ 
+- 945
+: 945 2 -5 It’s 
+: 949 2 0 ma
+: 953 2 0 king 
+: 957 2 -5 me 
+: 961 6 0 cra
+: 969 3 0 zy 
+- 974
+: 977 2 -5 It’s 
+: 981 2 2 ma
+: 985 2 2 king 
+: 989 2 0 me 
+: 993 6 2 cra
+: 1001 3 2 zy
+: 1005 8 4 ~ 
+- 1015
+: 1021 2 12 Eve
+: 1025 2 12 ry
+: 1029 6 12 time 
+: 1037 7 14 I 
+: 1045 2 12 look 
+: 1049 3 11 a
+: 1053 2 9 ~
+: 1057 8 9 round 
+- 1067
+: 1085 2 12 Eve
+: 1089 2 12 ry
+: 1093 6 12 time 
+: 1101 6 14 I 
+: 1109 2 12 look 
+: 1113 3 11 a
+: 1117 2 9 ~
+: 1121 8 9 round 
+- 1131
+: 1149 2 12 Eve
+: 1153 2 12 ry
+: 1157 6 12 time 
+: 1165 6 14 I 
+: 1173 2 12 look 
+: 1177 3 11 a
+: 1181 3 9 ~
+: 1185 7 9 round 
+- 1194
+: 1201 3 7 It’s 
+: 1205 2 12 in 
+: 1209 4 12 my 
+: 1217 4 12 face 
+- 1223
+F 1285 4 -12 Ring 
+F 1291 2 -12 mas
+F 1295 1 -12 ter 
+F 1297 2 -12 steps 
+F 1301 2 -12 out 
+- 1305
+F 1309 3 -10 Says 
+F 1315 1 -10 “the 
+F 1317 1 -10 e
+F 1319 1 -10 le
+F 1321 1 -10 phants 
+F 1325 2 -10 left 
+F 1329 5 -10 town” 
+- 1336
+F 1349 2 -8 Peo
+F 1353 2 -8 ple 
+F 1357 2 -8 jump 
+F 1361 2 -8 and 
+F 1365 4 -8 jive 
+F 1373 3 -7 and 
+- 1378
+F 1379 1 -7 The 
+F 1381 3 -7 clowns 
+F 1385 1 -7 have 
+F 1391 1 -7 stuck 
+F 1393 1 -7 a
+F 1395 7 -7 round 
+- 1404
+F 1413 2 -5 T
+F 1416 2 -5 V 
+F 1419 4 -5 news 
+F 1425 2 -5 and 
+F 1429 1 -5 ca
+F 1431 1 -5 me
+F 1433 5 -5 ras 
+- 1440
+F 1441 1 -3 There’s 
+F 1445 1 -3 chop
+F 1448 1 -3 pers 
+F 1451 1 -3 in 
+F 1454 1 -3 the 
+F 1456 6 -3 sky 
+- 1464
+F 1475 1 -1 Ma
+F 1477 5 -1 rines, 
+F 1485 1 -1 po
+F 1487 1 -1 lice, 
+F 1490 1 -1 re
+F 1493 2 -1 por
+F 1496 2 -1 ters 
+- 1499
+F 1500 3 -1 Ask 
+F 1505 5 -1 where, 
+F 1513 2 -1 for 
+F 1517 2 -1 and 
+F 1521 7 -1 why 
+- 1530
+F 1541 1 0 Pe
+F 1543 1 0 le 
+F 1546 3 0 yells 
+F 1553 1 0 “We’re 
+F 1555 1 0 out
+F 1557 1 0 ta 
+F 1560 5 0 here” 
+- 1567
+F 1573 1 2 See
+F 1575 2 2 na 
+F 1579 2 2 says 
+F 1583 2 2 “Right 
+F 1587 5 2 on” 
+- 1594
+F 1605 2 4 Make 
+F 1609 1 4 your 
+F 1611 5 4 moves 
+- 1617
+F 1617 2 4 And 
+F 1621 2 4 star
+F 1625 1 4 ting 
+F 1627 5 4 grooves 
+- 1634
+F 1635 1 4 Be
+F 1637 1 4 fore 
+F 1640 2 4 they 
+F 1644 2 4 knew 
+F 1647 1 4 we 
+F 1649 1 4 were 
+F 1651 5 4 gone 
+- 1658
+F 1669 2 5 Jumped 
+F 1673 2 5 in
+F 1677 2 5 to 
+F 1680 1 5 the 
+F 1683 2 5 Che
+F 1687 4 5 vy 
+- 1693
+F 1701 1 7 Hea
+F 1703 2 7 ded 
+F 1707 2 7 for 
+F 1711 2 7 big 
+F 1714 5 7 lights 
+- 1721
+F 1733 1 9 Wan
+F 1735 1 9 na 
+F 1737 3 9 know 
+F 1741 2 9 the 
+F 1744 4 9 rest? 
+- 1750
+F 1753 4 9 Hey 
+F 1769 3 11 buy 
+F 1773 2 11 the 
+F 1777 4 11 rights 
+- 1783
+F 1790 2 12 How 
+F 1793 1 12 bi
+F 1795 5 12 zarre 
+- 1802
+F 1837 2 12 How 
+F 1841 1 12 bi
+F 1843 5 12 zarre, 
+F 1855 2 7 how 
+F 1858 1 7 bi
+F 1860 5 7 zarre 
+- 1867
+: 1909 7 16 Ooh
+: 1917 2 12 ~ 
+: 1921 6 12 ba
+: 1929 4 12 by 
+- 1935
+: 1945 4 7 Ooh 
+: 1953 4 7 ba
+: 1961 3 3 by
+: 1965 3 2 ~ 
+- 1969
+: 1969 2 -5 It’s 
+: 1973 2 0 ma
+: 1977 2 0 king 
+: 1981 2 -5 me 
+: 1985 7 0 cra
+: 1993 2 0 zy 
+- 1997
+: 2001 2 0 It’s 
+: 2005 2 2 ma
+: 2009 2 2 king 
+: 2013 2 0 me 
+: 2017 3 0 cra
+: 2021 3 2 ~
+: 2025 3 2 zy
+: 2029 8 4 ~ 
+- 2039
+: 2045 2 12 Eve
+: 2049 2 12 ry
+: 2053 6 12 time 
+: 2061 5 14 I 
+: 2069 2 12 look 
+: 2073 3 11 a
+: 2077 3 9 ~
+: 2081 8 9 round 
+- 2091
+: 2109 2 12 Eve
+: 2113 2 12 ry
+: 2117 6 12 time 
+: 2125 5 14 I 
+: 2133 2 12 look 
+: 2137 3 11 a
+: 2141 3 9 ~
+: 2145 8 9 round 
+- 2155
+: 2173 2 12 Eve
+: 2177 2 12 ry
+: 2181 6 12 time 
+: 2189 5 14 I 
+: 2197 2 12 look 
+: 2201 3 11 a
+: 2205 3 9 ~
+: 2209 7 9 round 
+- 2218
+: 2225 3 7 It’s 
+: 2229 2 12 in 
+: 2233 4 12 my 
+: 2241 4 12 face 
+- 2247
+: 2289 2 4 It’s 
+: 2293 2 4 in 
+: 2297 6 4 my 
+: 2305 8 4 face 
+- 2315
+: 2741 7 16 Ooh
+: 2749 2 12 ~ 
+: 2753 6 12 ba
+: 2761 2 12 by 
+- 2765
+: 2777 5 7 Ooh 
+: 2785 6 7 ba
+: 2793 3 3 by
+* 2797 3 2 ~ 
+- 2801
+: 2801 2 -5 It’s 
+: 2805 2 0 ma
+: 2809 2 0 king 
+: 2813 2 -5 me 
+: 2817 6 0 cra
+: 2825 3 0 zy 
+- 2830
+: 2833 3 0 It’s 
+: 2837 2 2 ma
+: 2841 2 2 king 
+: 2845 2 0 me 
+: 2849 3 0 cra
+: 2853 3 2 ~
+: 2857 3 2 zy
+: 2861 8 4 ~ 
+- 2871
+: 2877 3 12 Eve
+: 2881 2 12 ry
+: 2885 6 12 time 
+: 2893 6 14 I 
+: 2901 2 12 look 
+: 2905 3 11 a
+: 2909 3 9 ~
+: 2913 10 9 round 
+- 2925
+: 2941 2 12 Eve
+: 2945 2 12 ry
+: 2949 7 12 time 
+* 2957 7 14 I 
+: 2965 2 12 look 
+: 2969 3 11 a
+: 2973 2 9 ~
+: 2977 8 9 round 
+- 2987
+: 3005 2 12 Eve
+: 3009 2 12 ry
+: 3013 5 12 time 
+: 3021 5 14 I 
+: 3029 2 12 look 
+: 3033 3 11 a
+: 3037 3 9 ~
+: 3041 8 9 round 
+- 3051
+: 3057 2 7 It’s 
+: 3061 2 12 in 
+: 3065 6 12 my 
+: 3073 7 12 face 
+- 3082
+: 3125 7 16 Ooh
+: 3133 2 12 ~ 
+: 3137 6 12 ba
+: 3145 3 12 by 
+- 3150
+: 3161 6 7 Ooh 
+: 3169 6 7 ba
+: 3177 3 3 by
+: 3181 3 2 ~ 
+- 3185
+: 3185 3 -5 It’s 
+: 3189 2 0 ma
+: 3193 2 0 king 
+: 3197 2 -5 me 
+: 3201 6 0 cra
+: 3209 2 0 zy 
+- 3213
+: 3217 3 0 It’s 
+: 3221 2 2 ma
+: 3225 3 2 king 
+: 3229 2 0 me 
+: 3233 3 0 cra
+: 3237 3 2 ~
+: 3241 3 2 zy
+: 3245 8 4 ~ 
+- 3255
+: 3261 2 12 Eve
+: 3265 2 12 ry
+: 3269 6 12 time 
+: 3277 6 14 I 
+: 3285 2 12 look 
+: 3289 3 11 a
+: 3293 2 9 ~
+: 3297 9 9 round 
+- 3308
+: 3325 2 12 Eve
+: 3329 2 12 ry
+: 3333 6 12 time 
+: 3341 6 14 I 
+: 3349 2 12 look 
+: 3353 3 11 a
+: 3357 2 9 ~
+: 3361 8 9 round 
+- 3371
+: 3389 2 12 Eve
+: 3393 2 12 ry
+: 3397 6 12 time 
+: 3405 6 14 I 
+: 3413 2 12 look 
+: 3417 3 11 a
+: 3421 2 9 ~
+: 3425 9 9 round 
+- 3436
+: 3441 3 7 It’s 
+: 3445 2 12 in 
+: 3449 5 12 my 
+* 3457 7 12 face 
+E

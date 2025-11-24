@@ -1,0 +1,204 @@
+#ARTIST:L’Orchestra Cinématique
+#TITLE:If I Had A Heart (Vikings Theme Song)
+#MP3:L’Orchestra Cinématique - If I Had A Heart (Vikings Theme Song).mp3
+#CREATOR:Fepo
+#YEAR:2018
+#LANGUAGE:English
+#BPM:225
+#GAP:47300
+#VIDEO:a=FFWVjdS1Kz4,co=https://i.scdn.co/image/ab67616d0000b2731c2520bf792588e732198485
+: 0 3 4 This 
+: 5 2 4 will 
+: 10 3 4 ne
+: 15 2 4 ver 
+: 20 3 4 end 
+- 25
+: 26 2 4 ’Cause 
+: 30 2 7 I 
+: 35 4 7 want 
+: 46 24 9 more 
+- 72
+: 84 12 11 More, 
+: 100 2 9 give 
+: 104 2 7 me 
+: 109 9 9 more, 
+: 121 3 7 give 
+: 126 3 4 me 
+: 131 13 4 more 
+- 146
+: 168 3 4 This 
+: 173 2 4 will 
+: 178 3 4 ne
+: 183 2 4 ver 
+: 188 3 4 end 
+- 193
+: 195 2 4 ’Cause 
+: 199 2 7 I 
+: 204 4 7 want 
+: 215 24 9 more 
+- 241
+: 253 12 11 More, 
+: 269 2 9 give 
+: 273 2 7 me 
+: 278 9 9 more, 
+: 290 3 7 give 
+: 295 3 4 me 
+: 300 13 4 more 
+- 315
+: 508 2 4 If 
+: 512 4 4 I 
+: 518 4 4 had 
+: 524 2 4 a 
+: 529 4 4 heart, 
+: 535 3 4 I 
+: 540 3 7 could 
+: 545 6 7 love 
+: 553 9 9 you 
+- 564
+: 593 3 9 If 
+: 598 3 9 I 
+: 603 6 9 had 
+: 611 2 7 a 
+: 614 3 7 voice, 
+: 620 3 7 I 
+: 625 2 7 would 
+: 631 15 4 sing 
+- 648
+: 679 6 4 Af
+: 687 7 4 ter 
+: 696 2 4 the 
+: 700 6 4 night 
+: 708 5 7 when 
+: 715 3 7 I 
+: 720 4 9 wake 
+: 726 11 9 up 
+- 739
+: 757 3 9 I’ll 
+: 763 7 9 see 
+: 772 3 9 what 
+: 777 3 4 to
+: 782 12 7 mor
+: 796 4 7 row 
+: 804 12 4 brings 
+- 818
+: 847 13 4 Aah 
+: 862 2 2 ah 
+: 865 2 -1 ah 
+: 869 11 2 aah, 
+: 882 2 -1 ah 
+: 885 2 -3 ah 
+: 889 19 -1 aah 
+- 910
+: 932 13 -1 Aah 
+: 947 2 -3 ah 
+: 950 2 -5 ah 
+: 954 11 -3 aah, 
+: 967 2 -5 ah 
+: 970 2 -8 ah 
+: 974 18 -8 aah 
+- 994
+: 1016 13 4 Aah 
+: 1031 2 2 ah 
+: 1034 2 -1 ah 
+: 1038 11 2 aah, 
+: 1051 2 -1 ah 
+: 1054 2 -3 ah 
+: 1058 19 -1 aah 
+- 1079
+: 1103 3 9 If 
+: 1108 3 9 I 
+: 1113 6 9 had 
+: 1121 2 7 a 
+: 1124 3 7 voice, 
+: 1130 3 7 I 
+: 1135 2 7 would 
+: 1141 15 4 sing 
+- 1158
+: 1355 3 4 Dang
+: 1360 2 4 ling 
+: 1364 4 4 feet 
+: 1370 3 -1 from 
+: 1375 4 4 win
+: 1381 3 -1 dow 
+: 1387 8 -1 frame 
+- 1396
+: 1397 3 -1 Will 
+: 1402 3 -1 they 
+: 1407 3 2 e
+: 1412 3 2 ver, 
+: 1418 3 -1 e
+: 1423 4 -1 ver 
+: 1429 2 4 reach 
+: 1434 4 9 the 
+* 1440 21 9 floor? 
+- 1463
+: 1482 12 11 More, 
+: 1498 2 9 give 
+: 1502 2 7 me 
+: 1507 9 9 more, 
+: 1519 3 7 give 
+: 1524 3 4 me 
+: 1529 13 4 more 
+- 1544
+: 1567 3 4 Crushed 
+: 1572 2 4 and 
+: 1577 3 4 filled 
+: 1582 4 -1 with 
+: 1588 3 2 all 
+: 1593 3 -1 I 
+: 1598 8 -1 found 
+- 1608
+: 1609 3 -1 Un
+: 1614 3 -1 der
+: 1620 3 2 neath 
+: 1625 3 2 and 
+: 1630 3 -1 in
+: 1635 3 -1 side 
+- 1640
+: 1641 3 4 Just 
+: 1646 3 7 to 
+: 1651 11 9 come 
+: 1664 2 11 a
+: 1667 13 9 round 
+- 1682
+: 1694 12 11 More, 
+: 1710 2 9 give 
+: 1714 2 7 me 
+: 1719 9 9 more, 
+: 1731 3 7 give 
+: 1736 3 4 me 
+: 1741 13 4 more 
+- 1756
+: 1778 13 4 Aah 
+: 1793 2 2 ah 
+: 1796 2 -1 ah 
+: 1800 11 2 aah, 
+: 1813 2 -1 ah 
+: 1816 2 -3 ah 
+: 1820 19 -1 aah 
+- 1841
+: 1865 13 -1 Aah 
+: 1880 2 -3 ah 
+: 1883 2 -5 ah 
+: 1887 11 -3 aah, 
+: 1900 2 -5 ah 
+: 1903 2 -8 ah 
+: 1907 18 -8 aah 
+- 1927
+: 1947 13 4 Aah 
+: 1962 2 2 ah 
+: 1965 2 -1 ah 
+: 1969 11 2 aah, 
+: 1982 2 -1 ah 
+: 1985 2 -3 ah 
+: 1989 19 -1 aah 
+- 2010
+: 2033 3 9 If 
+: 2038 3 9 I 
+: 2043 6 9 had 
+: 2051 2 7 a 
+: 2054 3 7 voice, 
+: 2060 3 7 I 
+: 2065 2 7 would 
+: 2071 15 4 sing 
+E

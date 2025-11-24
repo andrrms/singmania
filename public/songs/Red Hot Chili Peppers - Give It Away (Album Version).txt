@@ -1,0 +1,980 @@
+#ARTIST:Red Hot Chili Peppers
+#TITLE:Give It Away (Album Version)
+#MP3:Red Hot Chili Peppers - Give It Away (Album Version).mp3
+#CREATOR:jalkazar
+#YEAR:1991
+#LANGUAGE:English
+#BPM:399
+#GAP:3080
+#VIDEO:a=2Wx_UG_UjTY,co=give-it-away-5e40cc6ccb565.jpg,bg=red-hot-chili-peppers-54572982c5713.jpg
+F 0 4 17 Ohh 
+- 6
+F 69 5 17 Ohh 
+- 76
+F 158 44 17 Ow 
+F 209 4 17 woo! 
+- 215
+F 235 3 17 What 
+F 239 2 17 I 
+F 244 2 17 got 
+F 248 1 17 you 
+F 252 2 17 got 
+F 255 1 17 to 
+F 262 3 17 give 
+F 266 1 17 it 
+F 270 2 17 to 
+F 274 2 17 your 
+F 279 5 17 ma
+F 288 7 17 ma 
+- 297
+F 305 3 17 What 
+F 309 2 17 I 
+F 313 2 17 got 
+F 317 1 17 you 
+F 322 2 17 got 
+F 326 1 17 to 
+F 331 3 17 give 
+F 335 1 17 it 
+F 339 4 17 to 
+F 344 2 17 your 
+F 348 5 17 pa
+F 357 8 17 pa 
+- 367
+F 375 3 17 What 
+F 379 2 17 I 
+F 383 2 17 got 
+F 387 1 17 you 
+F 392 2 17 got 
+F 396 1 17 to 
+F 401 3 17 give 
+F 405 1 17 it 
+F 410 2 17 to 
+F 413 3 17 your 
+F 419 4 17 daugh
+F 426 3 17 ter 
+- 430
+F 431 2 17 You 
+F 435 4 17 do 
+F 440 3 17 a 
+F 444 3 17 lit
+F 448 3 17 tle 
+F 452 3 17 dance 
+F 456 2 17 and 
+F 462 2 17 then 
+F 465 2 17 you 
+F 470 2 17 drink 
+F 474 3 17 a 
+F 478 3 17 lit
+F 482 5 17 tle 
+F 488 8 17 wa
+F 497 6 17 ter 
+- 505
+F 510 2 17 Oh 
+F 514 4 17 what 
+F 519 2 17 I 
+F 522 3 17 got 
+F 527 2 17 you 
+F 531 3 17 got 
+F 535 2 17 to 
+F 540 3 17 get 
+F 544 3 17 it 
+F 550 2 17 put 
+F 553 3 17 it 
+F 557 5 17 in 
+F 564 9 17 you 
+- 575
+F 584 2 17 What 
+F 588 2 17 I 
+F 592 3 17 got 
+F 596 2 17 you 
+F 602 3 17 got 
+F 606 2 17 to 
+F 610 3 17 get 
+F 614 2 17 it 
+F 619 4 17 put 
+F 624 3 17 it 
+F 628 4 17 in 
+F 636 6 17 you 
+- 644
+F 654 3 17 What 
+F 658 2 17 I 
+F 662 2 17 got 
+F 666 2 17 you 
+F 671 3 17 got 
+F 675 2 17 to 
+F 679 3 17 get 
+F 683 2 17 it 
+F 688 3 17 put 
+F 692 3 17 it 
+F 697 4 17 in 
+F 705 4 17 you 
+- 711
+F 714 4 17 Ree
+F 719 2 17 ling 
+F 722 3 17 with 
+F 727 3 17 the 
+F 732 2 17 fee
+F 735 5 17 ling 
+F 741 6 17 don’t 
+F 749 5 17 stop 
+F 757 5 17 con
+F 766 6 17 tin
+F 775 7 17 ue 
+- 784
+F 790 3 17 A 
+F 794 3 17 re
+F 798 3 17 al
+F 803 8 17 ize 
+F 812 3 17 I 
+F 816 3 17 don’t 
+F 821 3 17 want 
+F 825 3 17 to 
+F 829 3 17 be 
+F 833 2 17 a 
+F 838 6 17 mi
+F 847 5 17 ser 
+- 854
+F 864 5 17 Con
+F 873 8 17 fide 
+F 883 2 17 with 
+F 887 8 17 sly 
+F 896 2 17 you’ll 
+F 900 3 17 be 
+F 904 3 17 the 
+F 909 5 17 wi
+F 917 6 17 ser 
+- 925
+F 933 5 17 Young 
+F 942 5 17 blood 
+F 952 2 17 is 
+F 956 2 17 the 
+F 961 2 17 lo
+F 965 2 17 vin’ 
+F 970 3 17 up
+F 979 6 17 ri
+F 986 4 17 ser 
+- 992
+F 996 3 17 How 
+F 1000 3 17 come 
+F 1005 3 17 eve
+F 1009 2 17 ry
+F 1013 4 17 bo
+F 1018 2 17 dy 
+F 1022 3 17 wan
+F 1026 2 17 na 
+F 1031 3 17 keep 
+F 1035 2 17 it 
+F 1040 2 17 like 
+F 1043 2 17 the 
+F 1048 6 17 kai
+F 1057 6 17 ser? 
+- 1065
+F 1075 1 17 Give 
+F 1077 1 17 it 
+F 1079 3 17 a
+F 1083 6 17 way 
+F 1092 1 17 give 
+F 1094 1 17 it 
+F 1096 3 17 a
+F 1101 6 17 way 
+F 1109 1 17 give 
+F 1111 2 17 it 
+F 1114 3 17 a
+F 1118 5 17 way 
+F 1126 10 17 now 
+- 1138
+F 1143 2 17 Give 
+F 1147 1 17 it 
+F 1149 2 17 a
+F 1152 7 17 way 
+F 1161 2 17 give 
+F 1164 1 17 it 
+F 1166 2 17 a
+F 1169 6 17 way 
+F 1178 1 17 give 
+F 1180 1 17 it 
+F 1182 2 17 a
+F 1186 6 17 way 
+F 1196 11 17 now 
+- 1209
+F 1213 2 17 Give 
+F 1216 2 17 it 
+F 1219 1 17 a
+F 1221 6 17 way 
+F 1230 1 17 give 
+F 1232 2 17 it 
+F 1235 2 17 a
+F 1239 6 17 way 
+F 1247 2 17 give 
+F 1250 2 17 it 
+F 1253 2 17 a
+F 1256 6 17 way 
+F 1264 4 17 now 
+- 1270
+F 1273 6 17 I 
+F 1281 6 17 can’t 
+F 1290 3 17 tell 
+F 1294 2 17 if 
+F 1299 3 17 I’m 
+F 1303 2 17 a 
+F 1307 3 17 king 
+F 1312 3 17 pin 
+F 1316 3 17 or 
+F 1320 2 17 a 
+F 1325 5 17 pau
+F 1333 4 17 per 
+- 1339
+F 1343 2 17 Greed
+F 1346 4 17 y 
+F 1351 3 17 lit
+F 1355 3 17 tle 
+F 1360 3 17 peo
+F 1364 3 17 ple 
+F 1368 3 17 in 
+F 1373 2 17 a 
+F 1378 7 17 sea 
+F 1386 4 17 of 
+F 1394 5 17 dis
+F 1403 5 17 tress 
+- 1410
+F 1420 3 17 Keep 
+F 1424 3 17 your 
+F 1429 5 17 more 
+F 1438 7 17 to 
+F 1446 4 17 re
+F 1455 5 17 ceive 
+F 1464 6 17 your 
+F 1473 5 17 less 
+- 1480
+F 1490 2 17 Un
+F 1493 3 17 im
+F 1498 5 17 pressed 
+F 1508 3 17 by 
+F 1512 3 17 ma
+F 1517 3 17 ter
+F 1521 2 17 i
+F 1525 4 17 al 
+F 1534 3 17 ex
+F 1542 5 17 cess 
+- 1549
+F 1551 6 17 Love 
+F 1560 5 17 is 
+F 1569 6 17 free 
+F 1578 4 17 love 
+F 1587 5 17 me 
+F 1595 5 17 say 
+F 1603 7 17 hell 
+F 1612 5 17 yes 
+- 1619
+F 1630 6 17 Low 
+F 1638 7 17 brow 
+F 1647 3 17 but 
+F 1651 3 17 I 
+F 1655 3 17 rock 
+F 1660 4 17 a 
+F 1665 2 17 lit
+F 1668 4 17 tle 
+F 1674 5 17 know 
+F 1682 8 17 how 
+- 1692
+F 1700 5 17 No 
+F 1709 5 17 time 
+F 1717 3 17 for 
+F 1722 2 17 the 
+F 1726 3 17 pig
+F 1730 3 17 gies 
+F 1734 3 17 or 
+F 1738 3 17 the 
+F 1743 4 17 hoose
+F 1752 9 17 gow 
+- 1763
+F 1769 4 17 Get 
+F 1779 4 17 smart 
+F 1787 5 17 get 
+F 1796 7 17 down 
+F 1804 3 17 with 
+F 1808 3 17 the 
+F 1813 7 17 pow 
+F 1821 3 17 wow 
+- 1826
+F 1830 3 17 Ne
+F 1834 3 17 ver 
+F 1838 3 17 been 
+F 1842 3 17 a 
+F 1847 3 17 bet
+F 1851 3 17 ter 
+F 1856 7 17 time 
+F 1873 5 17 than 
+F 1881 5 17 right 
+F 1890 9 17 now 
+- 1901
+F 1909 5 17 Bob 
+F 1917 9 17 Mar
+F 1927 4 17 ley 
+F 1935 3 17 po
+F 1940 2 17 et 
+F 1943 4 17 and 
+F 1948 2 17 a 
+F 1952 4 17 pro
+F 1960 4 17 phet 
+- 1966
+F 1979 5 17 Bob 
+F 1988 8 17 Mar
+F 1997 4 17 ley 
+F 2005 3 17 taught 
+F 2009 3 17 me 
+F 2014 3 17 how 
+F 2018 4 17 to 
+F 2023 4 17 off 
+F 2031 5 17 it 
+- 2038
+F 2048 5 17 Bob 
+F 2057 6 17 Mar
+F 2066 5 17 ley 
+F 2074 3 17 wal
+F 2079 2 17 kin’ 
+F 2083 2 17 like 
+F 2088 2 17 he 
+F 2093 4 17 talk 
+F 2100 4 17 it 
+- 2106
+F 2110 5 17 Good
+F 2119 4 17 ness 
+F 2128 5 17 me 
+F 2135 4 17 can’t 
+F 2140 2 17 you 
+F 2145 2 17 see 
+F 2148 3 17 I’m 
+F 2153 3 17 gon
+F 2157 2 17 na 
+F 2162 5 17 cough 
+F 2170 4 17 it 
+- 2176
+F 2187 2 17 Give 
+F 2190 1 17 it 
+F 2192 3 17 a
+F 2196 7 17 way 
+F 2205 1 17 give 
+F 2207 3 17 it 
+F 2211 2 17 a
+F 2214 6 17 way 
+F 2222 2 17 give 
+F 2225 1 17 it 
+F 2227 2 17 a
+F 2231 6 17 way 
+F 2240 9 17 now 
+- 2251
+F 2258 1 17 Give 
+F 2260 1 17 it 
+F 2262 3 17 a
+F 2266 6 17 way 
+F 2274 2 17 give 
+F 2277 2 17 it 
+F 2280 2 17 a
+F 2284 5 17 way 
+F 2291 2 17 give 
+F 2294 2 17 it 
+F 2297 2 17 a
+F 2300 6 17 way 
+F 2309 8 17 now 
+- 2319
+F 2326 1 17 Give 
+F 2328 2 17 it 
+F 2331 2 17 a
+F 2334 6 17 way 
+F 2342 2 17 give 
+F 2345 2 17 it 
+F 2348 3 17 a
+F 2352 6 17 way 
+F 2360 2 17 give 
+F 2363 1 17 it 
+F 2365 2 17 a
+F 2368 7 17 way 
+F 2378 6 17 now 
+F 2387 32 17 oh 
+F 2428 6 17 oh 
+F 2439 13 17 yeah 
+- 2454
+F 2465 2 17 Give 
+F 2468 1 17 it 
+F 2470 2 17 a
+F 2473 8 17 way 
+F 2483 2 17 give 
+F 2486 1 17 it 
+F 2488 2 17 a
+F 2492 7 17 way 
+F 2500 2 17 give 
+F 2503 2 17 it 
+F 2506 2 17 a
+F 2509 5 17 way 
+F 2517 10 17 now 
+- 2529
+F 2534 2 17 Give 
+F 2537 2 17 it 
+F 2540 2 17 a
+F 2543 6 17 way 
+F 2552 2 17 give 
+F 2555 1 17 it 
+F 2557 2 17 a
+F 2560 7 17 way 
+F 2569 2 17 give 
+F 2572 1 17 it 
+F 2574 2 17 a
+F 2578 5 17 way 
+F 2586 10 17 now 
+- 2598
+F 2603 1 17 Give 
+F 2605 2 17 it 
+F 2608 2 17 a
+F 2611 7 17 way 
+F 2620 2 17 give 
+F 2623 2 17 it 
+F 2626 2 17 a
+F 2629 6 17 way 
+F 2637 2 17 give 
+F 2640 2 17 it 
+F 2643 2 17 a
+F 2647 5 17 way 
+F 2654 4 17 now 
+- 2660
+F 2662 5 17 I 
+F 2672 5 17 can’t 
+F 2680 3 17 tell 
+F 2684 3 17 if 
+F 2688 3 17 I’m 
+F 2693 2 17 a 
+F 2698 3 17 king 
+F 2702 3 17 pin 
+F 2706 2 17 or 
+F 2709 3 17 a 
+F 2714 6 17 pau
+F 2724 14 17 per 
+- 2740
+F 3281 4 17 Luck
+F 3286 2 17 y 
+F 3291 6 17 me 
+F 3300 3 17 swim
+F 3305 2 17 min’ 
+F 3310 3 17 in 
+F 3317 3 17 my 
+F 3321 3 17 a
+F 3326 4 17 bil
+F 3331 6 17 i
+F 3341 5 17 ty 
+- 3348
+F 3353 3 17 Dan
+F 3357 3 17 cin’ 
+F 3362 8 17 down 
+F 3372 7 17 on 
+F 3380 5 17 life 
+F 3388 3 17 with 
+F 3393 2 17 a
+F 3397 4 17 gil
+F 3402 6 17 i
+F 3411 5 17 ty 
+- 3418
+F 3423 2 17 Come 
+F 3426 3 17 and 
+F 3431 3 17 drink 
+F 3436 3 17 it 
+F 3441 3 17 up 
+F 3449 3 17 from 
+F 3458 3 17 my 
+F 3462 2 17 fer
+F 3467 3 17 til
+F 3472 5 17 i
+F 3481 9 17 ty 
+- 3492
+F 3502 4 17 Blessed 
+F 3510 3 17 with 
+F 3514 3 17 a 
+F 3519 3 17 buc
+F 3523 3 17 ket 
+F 3527 7 17 of 
+F 3535 3 17 luc
+F 3539 3 17 ky 
+F 3545 5 17 mo
+F 3553 3 17 bi
+F 3557 3 17 li
+F 3563 7 17 ty 
+- 3572
+F 3581 5 17 My 
+F 3589 8 17 mom 
+F 3599 5 17 I 
+F 3607 2 17 love 
+F 3610 3 17 her 
+F 3615 3 17 ’cause 
+F 3619 3 17 she 
+F 3624 4 17 love 
+F 3633 6 17 me 
+- 3641
+F 3651 5 17 Long 
+F 3659 9 17 gone 
+F 3670 2 17 are 
+F 3673 2 17 the 
+F 3677 6 17 times 
+F 3685 3 17 when 
+F 3689 3 17 she 
+F 3695 4 17 scrub 
+F 3703 6 17 me 
+- 3711
+F 3721 3 17 Fee
+F 3725 3 17 lin’ 
+F 3730 5 17 good 
+F 3739 4 17 my 
+F 3747 4 17 bro
+F 3752 2 17 ther 
+F 3756 3 17 gon
+F 3760 3 17 na 
+F 3764 5 17 hug 
+F 3773 4 17 me 
+- 3779
+F 3781 4 17 Drin
+F 3786 2 17 kin’ 
+F 3790 4 17 my 
+F 3798 4 17 juice 
+F 3807 5 17 young 
+F 3816 5 17 love 
+F 3824 3 17 chug 
+F 3828 3 17 a 
+F 3833 4 17 lug 
+F 3842 5 17 me 
+- 3849
+F 3860 3 17 There’s 
+F 3864 3 17 a 
+F 3868 3 17 ri
+F 3872 3 17 ver 
+F 3877 6 17 born 
+F 3886 7 17 to 
+F 3896 2 17 be 
+F 3899 2 17 a 
+F 3904 6 17 gi
+F 3913 7 17 ver 
+- 3922
+F 3930 3 17 Keep 
+F 3935 3 17 you 
+F 3939 9 17 warm 
+F 3949 5 17 won’t 
+F 3958 3 17 let 
+F 3966 4 17 you 
+F 3975 3 17 shi
+F 3984 7 17 ver 
+- 3993
+F 4001 5 17 His 
+F 4010 5 17 heart 
+F 4019 3 17 is 
+F 4023 2 17 a 
+F 4028 3 17 ne
+F 4032 2 17 ver 
+F 4036 3 17 gon
+F 4040 3 17 na 
+F 4045 5 17 wi
+F 4053 4 17 ther 
+- 4059
+F 4061 3 17 Come 
+F 4065 4 17 on 
+F 4070 3 17 eve
+F 4074 2 17 ry
+F 4080 1 17 bo
+F 4082 3 17 dy 
+F 4088 5 17 time 
+F 4097 5 17 to 
+F 4105 7 17 de
+F 4113 5 17 li
+F 4121 6 17 ver 
+- 4129
+F 4138 2 17 Give 
+F 4141 1 17 it 
+F 4143 2 17 a
+F 4148 7 17 way 
+F 4157 2 17 give 
+F 4160 2 17 it 
+F 4163 2 17 a
+F 4166 7 17 way 
+F 4175 1 17 give 
+F 4177 2 17 it 
+F 4180 2 17 a
+F 4183 6 17 way 
+F 4192 9 17 now 
+- 4203
+F 4208 2 17 Give 
+F 4211 1 17 it 
+F 4213 3 17 a
+F 4217 7 17 way 
+F 4225 3 17 give 
+F 4229 1 17 it 
+F 4231 2 17 a
+F 4234 6 17 way 
+F 4242 2 17 give 
+F 4245 2 17 it 
+F 4248 2 17 a
+F 4251 6 17 way 
+F 4260 9 17 now 
+- 4271
+F 4276 1 17 Give 
+F 4278 2 17 it 
+F 4281 2 17 a
+F 4285 6 17 way 
+F 4294 2 17 give 
+F 4297 1 17 it 
+F 4299 2 17 a
+F 4303 6 17 way 
+F 4311 2 17 give 
+F 4314 1 17 it 
+F 4316 2 17 a
+F 4320 6 17 way 
+F 4328 4 17 now 
+- 4334
+F 4338 5 17 I 
+F 4345 5 17 can’t 
+F 4354 3 17 tell 
+F 4359 3 17 if 
+F 4363 3 17 I’m 
+F 4367 2 17 a 
+F 4371 3 17 king 
+F 4376 2 17 pin 
+F 4380 3 17 or 
+F 4384 2 17 a 
+F 4389 6 17 pau
+F 4398 18 17 per 
+- 4418
+F 4694 3 17 What 
+F 4698 3 17 I 
+F 4703 2 17 got 
+F 4707 3 17 you 
+F 4712 3 17 got 
+F 4716 2 17 to 
+F 4722 3 17 give 
+F 4726 1 17 it 
+F 4730 3 17 to 
+F 4734 3 17 your 
+F 4740 5 17 ma
+F 4748 8 17 ma 
+- 4758
+F 4766 3 17 What 
+F 4770 3 17 I 
+F 4775 2 17 got 
+F 4779 2 17 you 
+F 4783 4 17 got 
+F 4788 2 17 to 
+F 4792 3 17 give 
+F 4797 1 17 it 
+F 4802 3 17 to 
+F 4806 2 17 your 
+F 4811 5 17 pa
+F 4818 8 17 pa 
+- 4828
+F 4837 3 17 What 
+F 4841 3 17 I 
+F 4845 2 17 got 
+F 4849 2 17 you 
+F 4854 3 17 got 
+F 4858 2 17 to 
+F 4863 3 17 give 
+F 4867 2 17 it 
+F 4871 3 17 to 
+F 4875 3 17 your 
+F 4880 4 17 daugh
+F 4887 3 17 ter 
+- 4891
+F 4892 2 17 You 
+F 4896 4 17 do 
+F 4901 3 17 a 
+F 4906 2 17 lit
+F 4909 3 17 tle 
+F 4913 3 17 dance 
+F 4919 2 17 and 
+F 4923 2 17 then 
+F 4928 2 17 you 
+F 4932 2 17 drink 
+F 4936 3 17 a 
+F 4940 3 17 lit
+F 4944 3 17 tle 
+F 4948 4 17 wa
+F 4958 5 17 ter 
+- 4965
+F 4975 4 17 What 
+F 4980 2 17 I 
+F 4984 3 17 got 
+F 4988 2 17 you 
+F 4993 3 17 got 
+F 4997 2 17 to 
+F 5002 3 17 get 
+F 5006 3 17 it 
+F 5011 3 17 put 
+F 5015 3 17 it 
+F 5019 5 17 in 
+F 5028 7 17 you 
+- 5037
+F 5045 3 17 What 
+F 5050 3 17 I 
+F 5054 3 17 got 
+F 5058 2 17 you 
+F 5063 3 17 got 
+F 5067 2 17 to 
+F 5072 3 17 get 
+F 5076 3 17 it 
+F 5081 3 17 put 
+F 5085 4 17 it 
+F 5090 5 17 in 
+F 5098 7 17 you 
+- 5107
+F 5116 2 17 What 
+F 5119 3 17 I 
+F 5124 2 17 got 
+F 5129 2 17 you 
+F 5133 3 17 got 
+F 5137 3 17 to 
+F 5142 3 17 get 
+F 5146 2 17 it 
+F 5151 3 17 put 
+F 5155 2 17 it 
+F 5159 5 17 in 
+F 5168 4 17 you 
+- 5174
+F 5177 3 17 Ree
+F 5181 3 17 ling 
+F 5185 2 17 with 
+F 5189 2 17 the 
+F 5194 3 17 fee
+F 5198 2 17 ling 
+F 5203 4 17 don’t 
+F 5211 5 17 stop 
+F 5220 5 17 con
+F 5229 4 17 tin
+F 5237 7 17 ue 
+- 5246
+F 5251 3 17 Oh 
+F 5255 3 17 re
+F 5259 3 17 al
+F 5264 7 17 ize 
+F 5274 2 17 I 
+F 5277 3 17 don’t 
+F 5282 3 17 want 
+F 5286 2 17 to 
+F 5290 3 17 be 
+F 5294 2 17 a 
+F 5300 7 17 mi
+F 5309 6 17 ser 
+- 5317
+F 5325 5 17 Con
+F 5334 7 17 fide 
+F 5344 3 17 with 
+F 5352 4 17 sly 
+F 5357 2 17 you’ll 
+F 5361 3 17 be 
+F 5365 4 17 the 
+F 5370 7 17 wi
+F 5379 6 17 ser 
+- 5387
+F 5396 5 17 Young 
+F 5405 5 17 blood 
+F 5414 2 17 is 
+F 5418 2 17 the 
+F 5422 3 17 lo
+F 5426 3 17 vin’ 
+F 5430 3 17 up
+F 5439 6 17 ri
+F 5447 4 17 ser 
+- 5453
+F 5456 3 17 How 
+F 5461 3 17 come 
+F 5465 3 17 eve
+F 5469 3 17 ry
+F 5474 3 17 bo
+F 5478 3 17 dy 
+F 5482 3 17 wan
+F 5486 2 17 na 
+F 5491 3 17 keep 
+F 5495 2 17 it 
+F 5499 3 17 like 
+F 5504 2 17 the 
+F 5508 8 17 kai
+F 5517 7 17 ser? 
+- 5526
+F 5535 3 17 Give 
+F 5539 1 17 it 
+F 5541 2 17 a
+F 5544 7 17 way 
+F 5552 2 17 give 
+F 5555 2 17 it 
+F 5558 2 17 a
+F 5561 6 17 way 
+F 5569 3 17 give 
+F 5573 1 17 it 
+F 5575 2 17 a
+F 5579 5 17 way 
+F 5587 10 17 now 
+- 5599
+F 5605 3 17 Give 
+F 5609 1 17 it 
+F 5611 2 17 a
+F 5614 7 17 way 
+F 5622 3 17 give 
+F 5626 1 17 it 
+F 5628 3 17 a
+F 5632 7 17 way 
+F 5640 1 17 give 
+F 5642 2 17 it 
+F 5645 2 17 a
+F 5649 6 17 way 
+F 5658 9 17 now 
+- 5669
+F 5675 2 17 Give 
+F 5678 1 17 it 
+F 5680 3 17 a
+F 5684 6 17 way 
+F 5692 2 17 give 
+F 5695 1 17 it 
+F 5697 3 17 a
+F 5702 6 17 way 
+F 5710 2 17 give 
+F 5713 2 17 it 
+F 5716 2 17 a
+F 5719 6 17 way 
+F 5728 8 17 now 
+- 5738
+F 5745 2 17 Give 
+F 5748 2 17 it 
+F 5751 2 17 a
+F 5755 6 17 way 
+F 5762 2 17 give 
+F 5765 2 17 it 
+F 5768 2 17 a
+F 5771 6 17 way 
+F 5780 1 17 give 
+F 5782 2 17 it 
+F 5785 2 17 a
+F 5789 6 17 way 
+F 5798 9 17 now 
+- 5809
+F 5849 2 17 Give 
+F 5852 2 17 it 
+F 5855 2 17 a
+F 5859 6 17 way 
+F 5868 9 17 now 
+- 5879
+F 5920 2 17 Give 
+F 5923 1 17 it 
+F 5925 2 17 a
+F 5929 6 17 way 
+F 5938 13 17 now 
+- 5953
+F 5991 1 17 Give 
+F 5993 2 17 it 
+F 5996 2 17 a
+F 5999 6 17 way 
+F 6008 11 17 now 
+- 6021
+F 6060 2 17 Give 
+F 6063 1 17 it 
+F 6065 2 17 a
+F 6069 6 17 way 
+F 6077 9 17 now 
+- 6088
+F 6130 2 17 Give 
+F 6133 1 17 it 
+F 6135 3 17 a
+F 6139 6 17 way 
+F 6147 10 17 now 
+- 6159
+F 6200 2 17 Give 
+F 6204 1 17 it 
+F 6206 2 17 a
+F 6209 6 17 way 
+F 6218 9 17 now 
+- 6229
+F 6270 2 17 Give 
+F 6273 2 17 it 
+F 6276 2 17 a
+F 6279 5 17 way 
+F 6287 9 17 now 
+- 6298
+F 6338 3 17 Give 
+F 6342 1 17 it 
+F 6344 2 17 a
+F 6347 6 17 way 
+F 6356 10 17 now 
+- 6368
+F 6409 1 17 Give 
+F 6411 2 17 it 
+F 6414 3 17 a
+F 6418 5 17 way 
+F 6426 9 17 now 
+- 6437
+F 6479 2 17 Give 
+F 6482 2 17 it 
+F 6485 2 17 a
+F 6488 5 17 way 
+F 6497 7 17 now 
+- 6506
+F 6550 1 17 Give 
+F 6552 2 17 it 
+F 6555 2 17 a
+F 6558 5 17 way 
+F 6566 8 17 now 
+- 6576
+F 6618 2 17 Give 
+F 6621 1 17 it 
+F 6623 2 17 a
+F 6627 6 17 way 
+F 6636 8 17 now 
+- 6646
+F 6687 2 17 Give 
+F 6690 2 17 it 
+F 6693 2 17 a
+F 6696 5 17 way 
+F 6704 8 17 now 
+- 6714
+F 6757 2 17 Give 
+F 6760 1 17 it 
+F 6762 2 17 a
+F 6765 5 17 way 
+F 6774 9 17 now 
+- 6785
+F 6827 1 17 Give 
+F 6829 2 17 it 
+F 6832 2 17 a
+F 6836 4 17 way 
+F 6844 7 17 now 
+- 6853
+F 6894 2 17 Give 
+F 6897 1 17 it 
+F 6899 3 17 a
+F 6903 4 17 way 
+F 6912 7 17 now 
+- 6921
+F 6963 2 17 Give 
+F 6966 2 17 it 
+F 6969 2 17 a
+F 6972 8 17 way 
+F 6982 6 17 now 
+- 6990
+F 7034 2 17 Give 
+F 7037 2 17 it 
+F 7040 2 17 a
+F 7043 5 17 way 
+F 7051 6 17 now 
+- 7059
+F 7101 2 17 Give 
+F 7104 2 17 it 
+F 7107 2 17 a
+F 7110 6 17 way 
+F 7119 6 17 now 
+- 7127
+F 7170 2 17 Give 
+F 7173 1 17 it 
+F 7175 2 17 a
+F 7179 6 17 way 
+F 7188 7 17 now 
+- 7197
+: 7240 1 19 Give 
+: 7242 2 19 it 
+: 7245 2 19 a
+: 7248 7 19 way
+: 7257 66 21 ~ 
+: 7328 7 15 now
+: 7337 5 14 ~
+: 7343 2 10 ~
+: 7346 27 9 ~ 
+E

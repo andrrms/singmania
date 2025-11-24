@@ -1,0 +1,167 @@
+#ARTIST:The Rasmus
+#TITLE:No Fear
+#MP3:The Rasmus - No Fear.mp3
+#CREATOR:Peschi
+#YEAR:2005
+#LANGUAGE:English
+#BPM:234
+#GAP:38300
+#VIDEO:v=qMYxkh224Tg,co=no-fear-5d74164eb2d21.jpg,bg=rasmus-the-52aaf6692017f.jpg
+: 0 16 8 Girl 
+- 18
+: 48 3 8 You 
+: 52 3 8 live
+: 56 1 8 d 
+: 58 7 8 your 
+: 66 9 8 life 
+- 76
+: 76 5 4 Like 
+: 82 1 4 a 
+: 84 5 4 sleep
+: 90 4 4 ing 
+: 96 10 4 swan 
+- 108
+: 126 5 11 Your 
+: 132 7 11 time 
+: 140 5 11 has 
+: 146 8 11 come 
+- 156
+: 184 3 11 To 
+: 188 5 6 go 
+: 194 3 6 deep
+: 198 8 6 er 
+- 208
+: 254 16 6 Girl 
+- 272
+: 302 5 6 Your 
+: 308 7 8 final 
+: 316 16 8 journey 
+- 334
+: 336 3 8 Has 
+: 340 5 8 just 
+: 346 14 8 begun 
+- 362
+: 380 9 4 But 
+: 390 10 4 destiny 
+- 402
+: 432 9 4 Chose 
+: 442 3 4 the 
+: 446 5 4 reap
+: 452 10 11 er 
+- 464
+: 498 9 11 No 
+: 508 16 11 fear 
+- 526
+: 550 7 11 Desti
+: 558 13 11 nation 
+: 572 9 6 Dark
+: 582 10 6 ness 
+- 594
+: 628 5 6 No 
+: 634 20 6 fear 
+- 656
+: 676 9 4 Desti
+: 686 10 11 nation 
+: 700 7 8 Dark
+: 708 12 11 ness 
+- 722
+: 756 3 11 No 
+: 760 10 8 fear 
+- 772
+: 832 16 8 Girl 
+- 850
+: 876 5 8 Rain 
+: 882 7 8 falls 
+: 890 6 8 down 
+- 898
+: 900 5 8 From 
+: 906 1 8 the 
+: 908 9 8 northern 
+: 918 20 15 skies 
+- 940
+: 950 7 15 Like 
+: 958 7 15 poison
+: 966 3 15 ed 
+: 970 14 15 knives 
+- 986
+: 1006 7 15 With 
+: 1014 5 15 no 
+: 1020 12 15 mercy 
+- 1034
+: 1082 16 16 Girl 
+- 1100
+: 1132 3 16 Close 
+: 1136 5 16 your 
+: 1142 10 16 eyes 
+- 1154
+: 1156 3 16 For 
+: 1160 3 16 the 
+: 1164 5 16 one 
+: 1170 5 16 last 
+: 1176 24 11 time 
+- 1202
+: 1210 3 11 Sleep
+: 1214 3 11 less 
+: 1218 20 11 nights 
+- 1240
+: 1250 5 11 From 
+: 1256 7 11 here 
+: 1264 3 11 to 
+: 1268 18 11 eternity 
+- 1288
+: 1322 5 13 No 
+: 1328 14 13 fear 
+- 1344
+: 1376 7 13 Desti
+: 1384 7 13 nation 
+: 1392 9 13 Dark
+: 1402 12 13 ness 
+- 1416
+: 1452 5 13 No 
+: 1458 14 13 fear 
+- 1474
+: 1502 7 15 Desti
+: 1510 7 15 nation 
+: 1518 9 15 Dark
+: 1528 14 15 ness 
+- 1544
+: 1584 11 15 No 
+: 1596 22 15 fear 
+- 1620
+: 2124 21 15 Ooh 
+: 2146 9 15 No 
+: 2156 22 8 fear 
+- 2180
+: 2198 7 8 Desti
+: 2206 9 8 nation 
+: 2216 7 8 Dark
+: 2224 14 8 ness 
+- 2240
+: 2272 5 8 No 
+: 2278 22 8 fear 
+- 2302
+: 2324 7 8 Desti
+: 2332 7 8 nation 
+: 2340 9 8 Dark
+: 2350 14 8 ness 
+- 2366
+: 2376 21 8 Ooh 
+: 2398 7 8 No 
+: 2406 16 8 fear 
+- 2424
+: 2448 9 8 Desti
+: 2458 9 8 nation 
+: 2468 9 8 Dark
+: 2478 14 8 ness 
+- 2494
+: 2528 7 8 No 
+: 2536 14 8 fear 
+- 2552
+: 2576 7 8 Desti
+: 2584 9 8 nation 
+: 2594 11 15 Dark
+: 2606 24 15 ness 
+- 2632
+: 2654 5 15 No 
+: 2660 12 15 fear 
+E

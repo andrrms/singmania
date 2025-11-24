@@ -1,0 +1,592 @@
+#ARTIST:Pitbull
+#TITLE:Back In Time
+#MP3:Pitbull - Back In Time.mp3
+#CREATOR:Usdx
+#YEAR:2012
+#LANGUAGE:English
+#BPM:254.2
+#GAP:3960
+#VIDEO:v=guAAwPlI8OQ,co=back-in-time-5377a4435c3f6.jpg,bg=pitbull-509820b8d9d6c.jpg
+F 0 4 0 Let’s 
+F 5 2 0 ex
+F 9 2 0 cuse 
+F 13 1 0 me 
+F 15 4 0 ba
+F 20 2 0 by 
+- 24
+F 25 4 0 Go, 
+- 31
+F 40 2 0 Yeah 
+F 44 2 0 you 
+F 48 2 0 ba
+F 52 2 0 by 
+- 56
+F 58 4 0 Back, 
+- 64
+F 66 1 0 Ooh 
+F 68 2 0 you 
+F 72 2 0 groo
+F 76 2 0 vy 
+F 80 2 0 ba
+F 84 2 0 by 
+- 88
+F 89 4 0 In, 
+- 95
+F 96 2 0 Let’s 
+F 100 2 0 make 
+F 103 1 0 a 
+F 105 2 0 mo
+F 108 2 0 vie 
+F 111 2 0 ba
+F 115 2 0 by 
+- 119
+F 121 7 0 Time, 
+- 130
+F 133 2 0 Ex
+F 136 3 0 cuse 
+F 140 2 0 me 
+F 143 2 0 ba
+F 147 2 0 by 
+- 151
+F 153 6 0 Let’s, 
+- 161
+F 168 2 0 Yeah 
+F 172 2 0 you 
+F 176 2 0 ba
+F 180 2 0 by 
+- 184
+F 185 5 0 Go, 
+- 192
+F 193 2 0 Ooh 
+F 197 2 0 you 
+F 201 2 0 groo
+F 205 2 0 vy 
+F 208 2 0 ba
+F 212 2 0 by 
+- 216
+F 217 5 0 Back, 
+- 224
+F 225 2 0 Let’s 
+F 228 2 0 make 
+F 231 2 0 a 
+F 234 2 0 mo
+F 237 2 0 vie 
+F 240 2 0 ba
+F 244 2 0 by 
+- 247
+F 248 3 0 Time 
+- 253
+F 254 2 0 It’s 
+F 257 3 0 Mr 
+F 261 2 0 World
+F 265 6 0 wide, 
+- 273
+F 276 2 0 A
+F 280 2 0 gent 
+F 284 4 0 A, 
+- 290
+F 294 2 0 Re
+F 297 2 0 por
+F 300 2 0 ting 
+F 303 5 0 live 
+- 310
+F 319 1 0 From 
+F 322 2 0 Cape 
+F 325 1 0 Ca
+F 327 2 0 na
+F 330 3 0 veral, 
+- 335
+F 341 9 0 MK, 
+- 352
+F 357 2 0 Big 
+F 361 3 0 Syphe 
+F 366 1 0 Let’s 
+F 368 5 0 ride 
+- 375
+F 401 6 0 Back 
+F 417 4 0 in 
+F 433 4 0 time 
+- 439
+* 442 12 19 Ba
+: 457 8 19 by, 
+- 467
+: 489 6 17 O
+: 497 6 19 ~h 
+: 506 9 19 ba
+: 517 3 16 ~
+: 522 8 16 by 
+- 532
+: 553 7 17 O
+: 562 5 19 ~h 
+: 570 12 19 ba
+: 585 7 19 by, 
+- 594
+: 618 4 17 My 
+: 625 5 19 sweet 
+: 633 10 19 ba
+: 645 3 16 ~
+: 650 7 16 by 
+- 659
+: 682 4 17 You’re 
+* 689 4 19 the 
+: 697 3 16 one 
+- 702
+F 743 4 0 Mia
+F 748 2 0 mi 
+F 751 2 0 e
+F 754 2 0 quals 
+- 758
+F 761 3 0 Black 
+F 766 6 0 mask, 
+- 774
+F 776 4 0 Black 
+F 782 6 0 clothes 
+F 789 1 0 with 
+F 791 1 0 a 
+F 793 1 0 lit
+F 795 1 0 tle 
+F 797 1 0 bit 
+F 799 1 0 of 
+F 801 3 0 rope 
+F 805 1 0 to 
+F 807 4 0 tie, 
+- 813
+F 814 1 0 I 
+F 817 2 0 flipped 
+F 821 2 0 it 
+- 825
+F 826 2 0 Black 
+F 830 5 0 suits, 
+- 837
+F 841 4 0 White 
+F 846 4 0 shirts, 
+- 852
+F 857 3 0 Black 
+F 862 3 0 glas
+F 866 2 0 ses 
+F 869 1 0 with 
+F 871 1 0 a 
+F 873 2 0 mat
+F 876 2 0 ching 
+F 880 2 0 tie 
+- 884
+F 885 2 0 Like 
+F 889 2 0 A
+F 892 2 0 gent 
+F 895 4 0 J 
+F 901 2 0 or 
+F 905 2 0 A
+F 908 2 0 gent 
+F 912 4 0 K, 
+- 917
+F 918 1 0 And 
+F 920 1 0 I 
+F 922 1 0 wish 
+F 924 1 0 the 
+F 926 2 0 whole 
+F 929 5 0 world 
+F 936 8 0 would 
+- 945
+F 945 8 0 Ok, 
+- 955
+F 959 1 0 I’m 
+F 961 1 0 tr
+F 963 1 0 yin’ 
+F 965 1 0 make 
+F 967 1 0 a 
+F 969 2 0 bi
+F 972 1 0 llion 
+F 974 1 0 out 
+F 976 1 0 of 
+F 978 2 0 1
+F 981 2 0 5 
+F 985 5 0 cents 
+- 992
+F 998 1 0 Un
+F 1000 1 0 ders
+F 1002 2 0 tand, 
+F 1005 1 0 un
+F 1007 1 0 ders
+F 1009 3 0 tood 
+- 1013
+F 1014 1 0 I’m 
+F 1016 1 0 a 
+F 1018 2 0 go- 
+- 1022
+F 1023 2 0 Get
+F 1026 2 0 ter, 
+F 1030 2 0 mo
+F 1033 2 0 ver, 
+F 1036 2 0 sha
+F 1039 2 0 ker, 
+F 1042 2 0 cul
+F 1045 2 0 ture, 
+- 1049
+F 1050 1 0 Bu
+F 1052 1 0 ry 
+F 1054 1 0 a 
+F 1056 2 0 boar
+F 1059 2 0 der, 
+F 1062 1 0 re
+F 1064 5 0 cord-brea
+F 1070 2 0 ker 
+F 1073 3 0 won’t 
+F 1077 2 0 cha 
+- 1081
+F 1083 2 0 Give 
+F 1086 2 0 cre
+F 1089 1 0 dit 
+F 1091 1 0 where 
+F 1093 2 0 cre
+F 1096 1 0 dit 
+F 1098 1 0 is 
+F 1100 3 0 due 
+- 1105
+F 1106 2 0 Don’t 
+F 1109 2 0 cha 
+F 1113 1 0 know 
+F 1115 1 0 that 
+F 1117 1 0 I 
+F 1119 1 0 don’t 
+F 1121 3 0 give 
+F 1125 3 0 a 
+F 1129 3 0 num
+F 1133 2 0 ber 
+F 1137 13 0 two 
+- 1152
+F 1154 2 0 Y’all 
+F 1157 2 0 just 
+F 1161 2 0 half
+F 1165 2 0 way 
+F 1169 5 0 thoughts 
+- 1176
+F 1181 3 0 Not 
+F 1185 3 0 worth 
+F 1189 2 0 the 
+F 1193 2 0 back 
+F 1196 1 0 of 
+F 1198 2 0 my 
+F 1201 7 0 mind 
+- 1210
+F 1221 1 0 But 
+F 1223 1 0 to 
+F 1225 1 0 un
+F 1227 1 0 ders
+F 1229 2 0 tand 
+F 1232 1 0 the 
+F 1234 2 0 fu
+F 1238 4 0 ture 
+- 1244
+F 1247 1 0 We 
+F 1249 2 0 have 
+F 1252 1 0 to 
+F 1254 2 0 go 
+F 1257 3 0 back 
+F 1262 1 0 in 
+F 1265 6 0 time 
+- 1273
+* 1338 12 19 Ba
+: 1353 8 19 by, 
+- 1363
+: 1385 6 17 O
+: 1393 6 19 ~h 
+: 1402 9 19 ba
+: 1413 3 16 ~
+: 1418 8 16 by 
+- 1428
+: 1449 7 17 O
+: 1458 5 19 ~h 
+: 1466 12 19 ba
+: 1481 7 19 by, 
+- 1490
+: 1514 4 17 My 
+: 1521 5 19 sweet 
+: 1529 10 19 ba
+: 1541 3 16 ~
+: 1546 7 16 by 
+- 1555
+: 1578 4 17 You’re 
+* 1585 4 19 the 
+: 1593 3 16 one 
+- 1598
+F 1650 2 0 I 
+F 1653 2 0 got 
+F 1656 1 0 the 
+F 1658 5 0 globe, 
+- 1664
+F 1665 4 0 Yeah, 
+F 1670 1 0 in 
+F 1672 1 0 the 
+F 1674 2 0 palm 
+F 1677 1 0 of 
+F 1679 2 0 my 
+F 1682 3 0 hand 
+- 1687
+F 1688 1 0 Wher
+F 1690 3 0 ever 
+F 1694 2 0 I 
+F 1697 3 0 spin 
+F 1701 2 0 it, 
+- 1705
+F 1706 2 0 That’s 
+F 1710 1 0 where 
+F 1712 1 0 I 
+F 1714 7 0 land 
+- 1723
+F 1733 3 0 Let’s 
+F 1738 2 0 save 
+F 1741 1 0 the 
+F 1744 6 0 world 
+- 1752
+F 1753 2 0 Men 
+F 1756 2 0 In 
+F 1759 5 0 Black 
+- 1766
+F 1768 1 0 I 
+F 1770 1 0 know 
+F 1772 1 0 you 
+F 1774 1 0 un
+F 1776 1 0 ders
+F 1778 5 0 tand 
+- 1785
+F 1802 2 0 Stop 
+F 1805 1 0 the 
+F 1807 5 0 move
+F 1813 2 0 ment, 
+- 1817
+F 1829 2 0 They 
+F 1832 1 0 can 
+F 1834 4 0 try 
+F 1839 1 0 if 
+F 1841 1 0 they 
+F 1843 3 0 want 
+F 1848 2 0 to 
+- 1852
+F 1854 1 0 Ig
+F 1856 1 0 no
+F 1858 1 0 rar 
+F 1860 1 0 lo 
+F 1862 2 0 la
+F 1865 4 0 ti
+F 1870 1 0 no, 
+F 1873 5 0 si, 
+- 1880
+F 1884 1 0 They 
+F 1886 1 0 can 
+F 1888 4 0 try 
+F 1893 1 0 if 
+F 1895 1 0 they 
+F 1897 4 0 want 
+F 1903 3 0 to 
+- 1908
+F 1910 2 0 What 
+F 1914 2 0 Pit 
+F 1918 3 0 solves 
+F 1922 1 0 is 
+F 1924 1 0 a 
+F 1926 3 0 bit 
+F 1931 4 0 raw 
+- 1937
+F 1938 2 0 Took 
+F 1942 2 0 like 
+F 1946 3 0 jig
+F 1951 3 0 saw 
+F 1955 2 0 and 
+F 1958 3 0 built 
+F 1963 1 0 it 
+F 1965 3 0 all 
+- 1970
+F 1971 2 0 Des
+F 1974 2 0 pite 
+F 1977 1 0 a 
+F 1979 3 0 big 
+F 1983 4 0 loss, 
+F 1989 1 0 I’d 
+F 1991 1 0 bet 
+F 1993 1 0 it 
+F 1996 5 0 all 
+- 2002
+F 2003 2 0 And 
+F 2006 3 0 fought 
+F 2011 4 0 blind 
+F 2016 1 0 a
+F 2018 2 0 gainst 
+F 2021 2 0 the 
+F 2024 5 0 world, 
+- 2030
+F 2030 2 0 Ray 
+F 2033 7 0 Charles 
+- 2042
+F 2050 3 0 Y’all 
+F 2054 2 0 just 
+F 2058 2 0 half
+F 2062 2 0 way 
+F 2066 4 0 thoughts 
+- 2072
+F 2078 2 0 Not 
+F 2081 3 0 worth 
+F 2086 2 0 the 
+F 2090 2 0 back 
+F 2093 1 0 of 
+F 2095 2 0 my 
+F 2098 6 0 mind 
+- 2106
+F 2117 2 0 But 
+F 2120 1 0 to 
+F 2122 1 0 un
+F 2124 1 0 ders
+F 2126 1 0 tand 
+F 2128 1 0 the 
+F 2130 4 0 fu
+F 2135 3 0 ture, 
+- 2140
+F 2144 1 0 We 
+F 2146 1 0 have 
+F 2148 1 0 to 
+F 2150 2 0 go 
+F 2154 2 0 back 
+F 2158 2 0 in 
+F 2162 7 0 time 
+- 2171
+* 2235 12 19 Ba
+: 2250 8 19 by, 
+- 2260
+: 2282 6 17 O
+: 2290 6 19 ~h 
+: 2299 9 19 ba
+: 2310 3 16 ~
+: 2315 8 16 by 
+- 2325
+: 2346 7 17 O
+: 2355 5 19 ~h 
+: 2363 12 19 ba
+: 2378 7 19 by, 
+- 2387
+: 2411 4 17 My 
+: 2418 5 19 sweet 
+: 2426 10 19 ba
+: 2438 3 16 ~
+: 2443 7 16 by 
+- 2452
+: 2475 4 17 You’re 
+* 2482 4 19 the 
+: 2490 3 16 one 
+- 2495
+F 2561 4 0 Let’s 
+F 2566 2 0 ex
+F 2570 2 0 cuse 
+F 2574 1 0 me 
+F 2576 4 0 ba
+F 2581 2 0 by 
+- 2585
+F 2586 4 0 Go, 
+- 2592
+F 2601 2 0 Yeah 
+F 2605 2 0 you 
+F 2609 2 0 ba
+F 2613 2 0 by 
+- 2617
+F 2619 4 0 Back, 
+- 2625
+F 2627 1 0 Ooh 
+F 2629 2 0 you 
+F 2633 2 0 groo
+F 2637 2 0 vy 
+F 2641 2 0 ba
+F 2645 2 0 by 
+- 2649
+F 2650 4 0 In, 
+- 2656
+F 2657 2 0 Let’s 
+F 2661 2 0 make 
+F 2664 1 0 a 
+F 2666 2 0 mo
+F 2669 2 0 vie 
+F 2672 2 0 ba
+F 2676 2 0 by 
+- 2680
+F 2682 7 0 Time, 
+- 2691
+F 2694 2 0 Ex
+F 2697 3 0 cuse 
+F 2701 2 0 me 
+F 2704 2 0 ba
+F 2708 2 0 by 
+- 2712
+F 2714 6 0 Let’s, 
+- 2722
+F 2729 2 0 Yeah 
+F 2733 2 0 you 
+F 2737 2 0 ba
+F 2741 2 0 by 
+- 2745
+F 2746 5 0 Go, 
+- 2753
+F 2754 2 0 Ooh 
+F 2758 2 0 you 
+F 2762 2 0 groo
+F 2766 2 0 vy 
+F 2769 2 0 ba
+F 2773 2 0 by 
+- 2777
+F 2778 5 0 Back, 
+- 2785
+F 2786 2 0 Let’s 
+F 2789 2 0 make 
+F 2792 2 0 a 
+F 2795 2 0 mo
+F 2798 2 0 vie 
+F 2801 2 0 ba
+F 2805 2 0 by 
+- 2808
+F 2809 3 0 Time 
+- 2814
+* 2875 10 19 Ba
+* 2887 3 16 ~
+* 2892 7 16 by 
+- 2901
+: 2923 4 17 My 
+: 2930 5 19 sweet 
+: 2938 10 19 ba
+: 2950 3 16 ~
+: 2955 7 16 by 
+- 2964
+: 2986 4 17 My 
+: 2993 5 19 sweet 
+: 3001 10 19 ba
+: 3013 3 16 ~
+: 3018 7 16 by 
+- 3027
+: 3050 4 17 My 
+: 3057 5 19 sweet 
+: 3065 10 19 ba
+: 3077 3 16 ~
+: 3082 7 16 by 
+- 3091
+: 3115 5 17 You’re 
+: 3123 3 19 the... 
+* 3132 9 19 ba
+: 3143 3 16 ~
+: 3148 7 16 by 
+- 3157
+: 3179 6 17 O
+: 3187 6 19 ~h 
+: 3196 9 19 ba
+: 3207 3 16 ~
+: 3212 8 16 by 
+- 3222
+: 3243 7 17 O
+: 3252 5 19 ~h 
+: 3260 12 19 ba
+: 3275 7 19 by, 
+- 3284
+: 3308 4 17 My 
+: 3315 5 19 sweet 
+: 3323 10 19 ba
+: 3335 3 16 ~
+: 3340 7 16 by 
+- 3349
+: 3372 4 17 You’re 
+* 3379 4 19 the 
+: 3387 3 16 one 
+E

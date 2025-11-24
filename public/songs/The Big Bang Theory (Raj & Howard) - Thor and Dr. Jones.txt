@@ -1,0 +1,110 @@
+#ARTIST:The Big Bang Theory (Raj & Howard)
+#TITLE:Thor and Dr. Jones
+#MP3:The Big Bang Theory (Raj & Howard) - Thor and Dr. Jones.mp3
+#CREATOR:Phi
+#LANGUAGE:English
+#BPM:260
+#GAP:170
+#VIDEO:v=DbY_IfcKM9s,co=https://i.ytimg.com/vi/7-kZRD1iaGI/maxresdefault.jpg,co-crop=280-0-720-720
+: 0 5 14 In
+: 7 5 14 dy’s 
+: 14 5 14 whip 
+: 25 5 14 snapped 
+- 39
+: 43 5 14 Thor’s 
+: 50 5 12 ham
+: 57 5 9 mer 
+: 69 5 9 missed 
+- 84
+F 99 5 12 It 
+F 105 4 12 was 
+F 112 4 12 A
+F 117 4 12 ven
+F 122 4 12 ger 
+- 132
+F 135 5 12 Ver
+F 142 5 12 sus 
+F 148 4 12 ar
+F 154 4 12 che
+F 160 4 12 o
+F 166 4 12 lo
+F 172 4 12 gist 
+- 186
+: 199 5 14 In
+: 205 5 14 dy 
+: 212 5 14 held 
+: 219 3 14 his 
+: 223 13 14 ground 
+- 241
+: 243 5 14 And 
+: 249 5 12 straigh
+: 256 5 12 tened 
+: 263 5 12 his 
+: 269 4 14 fe
+* 275 4 16 do
+* 281 10 16 ra 
+- 298
+F 301 4 12 Thor 
+F 307 3 12 said, 
+F 312 3 12 “That’s 
+F 316 2 12 a 
+F 319 4 12 nice 
+F 325 5 12 look 
+- 336
+F 339 5 12 In 
+F 350 10 12 19
+F 362 17 12 44
+F 381 6 12 -a 
+- 404
+: 448 5 14 Thor 
+: 455 3 12 and 
+: 461 3 14 D
+: 465 2 12 r. 
+* 471 4 16 Jo
+* 477 19 11 ~nes 
+- 497
+: 499 5 14 Thor 
+: 506 3 12 and 
+: 512 3 14 D
+: 516 2 12 r. 
+: 522 4 16 Jo
+: 528 19 11 ~nes 
+- 548
+: 550 4 12 One 
+: 556 3 12 plays 
+: 560 2 12 with 
+* 563 3 12 light
+* 567 4 12 ning, 
+: 573 2 12 the 
+: 577 2 11 o
+: 580 3 11 ther 
+: 589 6 11 plays 
+: 596 6 11 with 
+* 604 19 12 bones 
+- 633
+: 653 5 14 Thor 
+: 660 3 12 and 
+: 666 3 14 D
+: 670 2 12 r. 
+: 676 4 16 Jo
+: 682 14 11 ~nes 
+- 702
+: 705 5 14 Thor 
+: 712 3 12 and 
+: 718 3 14 D
+: 722 2 12 r. 
+: 728 4 16 Jo
+: 734 19 11 ~nes 
+- 755
+: 757 4 12 One 
+: 763 3 12 plays 
+: 767 2 12 with 
+: 770 3 12 light
+* 774 4 12 ning, 
+* 779 2 12 the 
+: 783 2 11 o
+: 786 3 11 ther 
+: 796 6 11 plays 
+: 803 6 11 with 
+* 811 37 12 bones 
+E

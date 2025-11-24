@@ -1,0 +1,221 @@
+#ARTIST:A Few Mistakes Ago
+#TITLE:Side Channels Are Everywhere
+#MP3:A Few Mistakes Ago - Side Channels Are Everywhere.mp3
+#CREATOR:lava
+#LANGUAGE:English
+#BPM:300.25
+#GAP:17720
+#VIDEO:v=qiihq9qmoL8,co=https://i.ibb.co/fCrbZWT/afma.jpg
+: 0 2 2 Side 
+: 3 2 2 chan
+: 6 3 2 nels 
+: 11 2 2 are 
+: 16 2 0 eve
+: 19 2 0 ry
+: 22 3 0 where 
+- 25
+: 27 3 0 Most 
+: 32 2 -2 of 
+: 36 3 -2 the 
+: 40 3 2 time 
+: 44 2 2 we’re 
+: 49 2 -3 un
+: 52 2 -3 a
+: 56 3 -2 ware 
+- 59
+: 61 2 -7 But 
+: 65 2 2 hor
+: 69 2 2 ses 
+: 72 3 2 know 
+: 78 2 2 we’re 
+: 82 2 5 lea
+: 86 2 7 king 
+: 90 2 5 all 
+: 94 2 2 the 
+: 99 5 0 time 
+- 114
+: 127 1 5 When 
+: 131 2 7 loo
+: 135 2 5 king 
+: 139 1 5 in 
+: 142 3 2 the 
+: 147 3 2 fridge 
+- 150
+: 151 3 0 When 
+: 155 3 0 cou
+: 160 2 -2 ghing 
+: 163 3 -2 just 
+: 168 1 -2 a 
+: 171 1 2 bit 
+: 173 2 2 in 
+: 178 7 -2 bridge 
+- 191
+: 193 1 -7 Use 
+: 197 2 -2 side 
+: 200 1 -2 chan
+: 203 3 -2 nels 
+: 208 2 -2 for 
+: 212 2 0 fun 
+: 216 2 -2 and 
+: 221 2 0 for 
+: 225 1 2 the 
+: 229 8 2 prize. 
+- 247
+: 260 1 -7 ’Cause 
+: 262 2 -2 side 
+: 266 1 -2 chan
+: 269 3 -2 nels 
+: 274 2 -2 are 
+: 278 3 0 with 
+: 283 2 -2 us 
+: 289 1 -5 all 
+: 292 1 -2 the 
+: 296 13 -2 time. 
+- 319
+: 326 1 -7 In 
+: 330 2 2 soft
+: 333 2 2 ware 
+: 337 2 2 it’s 
+: 341 1 2 the 
+: 346 3 0 same 
+- 349
+: 350 3 0 We 
+: 354 2 0 au
+: 358 2 0 to
+: 362 2 -2 mate 
+: 366 2 -2 side 
+: 370 2 2 chan
+: 373 1 2 nel 
+: 378 7 -2 game 
+- 391
+F 393 1 -7 With 
+: 395 2 2 lea
+: 398 3 2 kage 
+: 402 3 2 with
+: 407 1 2 in 
+: 410 3 5 all 
+: 415 2 7 that’s 
+: 419 2 5 op
+: 423 2 2 ti
+: 427 9 0 mized 
+- 446
+F 457 1 5 And 
+: 459 3 7 ca
+: 465 1 5 ches 
+: 468 4 5 leak 
+: 474 1 2 and 
+: 477 2 2 D
+: 481 2 0 RAM 
+: 485 2 0 leaks 
+- 488
+: 490 2 -2 And 
+: 493 2 -2 branch 
+F 498 1 -2 pre
+F 501 1 2 dic
+F 505 2 -7 tion 
+F 509 2 2 real
+F 512 1 -6 ly 
+F 515 4 -7 leaks 
+- 519
+: 521 1 -7 A 
+: 525 2 -2 last 
+: 530 1 -2 re
+: 533 2 -2 sort 
+: 538 2 -2 is 
+: 543 2 0 rea
+: 547 1 -2 ding 
+: 550 2 0 po
+: 554 2 2 wer 
+: 559 6 2 spikes 
+- 575
+: 586 3 -7 And 
+: 591 2 -2 side 
+: 595 1 -2 chan
+: 598 3 -2 nels 
+: 603 2 -2 are 
+: 607 3 0 with 
+: 612 2 -2 us 
+: 616 2 -5 all 
+: 620 2 -2 the 
+: 626 12 -2 time 
+- 678
+: 1049 2 -5 And 
+: 1053 1 4 if 
+: 1056 2 4 you 
+: 1061 2 4 see 
+: 1065 2 4 some 
+: 1068 3 2 noise 
+: 1073 1 2 and 
+: 1076 4 2 ask 
+- 1080
+: 1081 2 2 It’s 
+: 1085 3 0 da
+: 1089 2 0 ta 
+: 1093 2 4 we 
+: 1097 3 4 still 
+: 1101 3 -1 need 
+: 1105 2 -1 to 
+: 1109 3 0 parse 
+- 1112
+: 1114 2 -5 Leak 
+: 1118 2 4 PIN 
+: 1122 2 4 and 
+: 1127 2 4 pass
+: 1130 3 4 word 
+: 1134 2 7 key 
+: 1139 2 9 and 
+: 1143 2 7 all 
+: 1146 2 4 the 
+: 1150 7 2 like 
+- 1167
+: 1179 3 7 You 
+: 1184 2 9 got 
+: 1188 2 7 e
+: 1191 3 7 nough 
+: 1196 1 4 of 
+: 1199 4 4 tran
+: 1204 3 2 si
+: 1208 3 2 ence 
+- 1211
+: 1212 2 -1 But 
+: 1217 2 0 e
+: 1221 2 0 ven 
+: 1224 2 4 with 
+: 1228 3 4 a 
+: 1233 2 -1 new 
+: 1236 1 -1 de
+: 1238 5 0 fense 
+- 1243
+: 1244 2 -5 The 
+: 1249 3 0 side 
+: 1253 1 0 chan
+: 1255 3 0 nels 
+: 1260 3 0 are 
+: 1265 3 2 with 
+: 1270 2 0 us 
+: 1274 2 2 all 
+: 1277 2 4 the 
+: 1281 7 4 time 
+- 1298
+: 1312 2 -5 Cause 
+: 1315 3 0 side 
+: 1319 2 0 chan
+: 1322 4 0 nels 
+: 1328 2 0 are 
+: 1331 3 2 with 
+: 1336 3 0 us 
+: 1341 2 -3 all 
+: 1344 2 0 the 
+: 1348 8 0 time 
+- 1366
+: 1377 2 -3 Yeah 
+: 1380 4 0 side 
+: 1385 2 0 chan
+: 1388 4 0 nels 
+: 1394 2 0 are 
+: 1398 3 2 with 
+: 1403 2 0 us 
+: 1407 2 -3 all 
+: 1411 2 0 the 
+: 1415 7 0 time 
+E

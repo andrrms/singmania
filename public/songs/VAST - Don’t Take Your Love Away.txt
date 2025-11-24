@@ -1,0 +1,225 @@
+#ARTIST:VAST
+#TITLE:Don’t Take Your Love Away
+#MP3:VAST - Don’t Take Your Love Away.mp3
+#CREATOR:lava
+#COVER:VAST - Don’t Take Your Love Away [CO].jpg
+#BACKGROUND:VAST - Don’t Take Your Love Away [BG].jpg
+#YEAR:2006
+#LANGUAGE:English
+#BPM:300
+#GAP:22170
+#VIDEO:a=MYMBn8JAlCI,co=https://is1-ssl.mzstatic.com/image/thumb/Music/05/7b/27/mzi.fkuqtwbs.jpg/5000x5000bb.jpg
+: 0 6 3 I’m 
+: 8 4 2 look
+: 14 4 0 ing 
+: 22 3 -2 for 
+: 26 3 -3 in
+: 33 5 -2 spi
+: 40 7 0 ra
+: 49 6 -3 tion 
+- 65
+: 85 3 0 And 
+: 90 4 2 I 
+: 97 3 3 think 
+: 104 3 3 I 
+: 110 4 2 found 
+: 117 3 0 it 
+: 123 7 -2 in 
+: 133 8 0 your 
+: 144 16 0 heart 
+- 170
+: 188 3 0 It’s 
+: 193 3 2 the 
+: 198 5 3 kind 
+: 205 4 3 of 
+: 211 5 2 thing 
+: 217 3 0 you 
+: 222 5 -2 get 
+: 229 4 -3 when 
+: 235 3 -3 you’re 
+: 239 3 -2 not 
+: 244 6 0 look
+: 251 10 -3 ing 
+- 271
+: 290 2 9 It’s 
+: 294 3 10 the 
+: 301 5 12 kind 
+: 308 3 12 of 
+: 314 5 12 thing 
+: 320 4 7 you 
+: 327 5 10 had 
+: 335 3 10 from 
+: 340 3 10 the 
+: 347 15 9 start 
+- 402
+: 813 4 15 Put 
+: 819 5 15 me 
+: 826 5 14 on 
+: 833 3 12 a 
+: 838 4 10 ship 
+: 844 4 9 that 
+: 849 4 10 is 
+: 855 7 12 sink
+: 864 10 9 ing 
+- 884
+: 904 3 12 On 
+: 909 3 14 a 
+: 914 5 14 voy
+: 921 4 12 age 
+: 927 4 12 to 
+: 933 2 7 an 
+: 938 5 10 un
+: 946 10 12 tamed 
+: 958 17 12 land 
+- 995
+: 1017 4 15 Take 
+: 1023 2 15 a
+: 1027 6 14 way 
+: 1035 4 12 the 
+: 1041 6 10 free
+: 1048 2 9 doms 
+: 1052 6 10 I 
+: 1063 4 12 want
+: 1069 12 9 ed 
+- 1091
+: 1112 37 10 I 
+: 1150 6 7 un
+: 1157 4 3 der
+: 1163 5 5 sta
+: 1170 18 7 nd 
+- 1198
+* 1219 51 19 Please 
+* 1279 4 19 don’t 
+* 1285 3 19 take 
+* 1289 3 19 your 
+* 1294 5 19 love 
+* 1300 4 17 a
+* 1306 7 15 way 
+* 1314 4 12 from 
+* 1319 4 14 m
+* 1325 22 12 e 
+- 1357
+: 1381 4 19 Don’t 
+: 1387 4 19 take 
+: 1393 3 19 your 
+: 1397 5 19 love 
+: 1404 2 17 a
+: 1408 6 15 way 
+: 1417 3 12 from 
+: 1423 3 14 m
+: 1428 23 12 e 
+- 1471
+: 1528 4 14 Please 
+: 1535 3 12 don’t 
+: 1541 5 12 take 
+: 1547 4 7 your 
+: 1553 7 10 love 
+: 1562 6 12 a
+: 1570 32 12 way 
+- 1613
+: 1617 6 7 From 
+: 1625 19 7 me 
+- 1684
+: 2446 5 14 Please 
+: 2453 6 12 don’t 
+: 2460 5 12 take 
+: 2468 3 7 your 
+: 2473 4 10 love 
+: 2481 7 12 from 
+: 2491 20 12 me 
+- 2551
+: 2753 5 14 Please 
+: 2760 3 12 don’t 
+: 2765 4 12 take 
+: 2771 4 7 your 
+: 2777 5 10 love 
+: 2788 7 12 from 
+: 2798 13 9 me 
+- 2851
+: 3265 3 15 Put 
+: 3270 3 15 me 
+: 3276 5 14 in
+: 3283 4 12 side 
+: 3289 4 10 flesh 
+: 3297 3 9 that 
+: 3302 3 10 is 
+: 3309 5 12 dy
+: 3316 6 9 ing 
+- 3342
+: 3366 5 14 Ghost 
+: 3373 4 12 that 
+: 3379 4 12 wan
+: 3385 4 7 ders 
+: 3392 4 10 with
+: 3398 10 12 out 
+: 3412 11 12 rest 
+- 3443
+: 3469 3 14 Bur
+: 3474 5 15 ied 
+: 3481 4 14 by 
+: 3486 3 12 de
+: 3491 7 10 si
+: 3500 3 9 res 
+: 3504 5 10 and 
+: 3512 5 12 weak
+: 3519 12 9 ness 
+- 3541
+: 3567 35 10 I 
+: 3604 3 7 un
+: 3608 1 3 der
+: 3613 4 5 sta
+: 3619 11 7 nd 
+- 3670
+* 4076 53 19 Please 
+* 4138 4 19 don’t 
+* 4144 3 19 take 
+* 4149 4 19 your 
+* 4155 4 19 love 
+* 4160 4 17 a
+* 4166 6 15 way 
+* 4175 2 12 from 
+* 4179 5 14 m
+* 4185 19 12 e 
+- 4214
+: 4239 5 19 Don’t 
+: 4246 3 19 take 
+: 4251 3 19 your 
+: 4256 4 19 love 
+: 4262 3 17 a
+: 4267 6 15 way 
+: 4274 7 12 from 
+: 4283 4 14 m
+: 4289 21 12 e 
+- 4330
+: 4387 4 14 Please 
+: 4393 5 12 don’t 
+: 4400 7 12 take 
+: 4408 5 7 your 
+: 4414 4 10 love 
+: 4420 9 12 from 
+: 4432 17 12 me 
+- 4469
+: 4489 4 12 Please 
+: 4496 3 12 don’t 
+: 4502 5 12 take 
+: 4508 5 7 your 
+: 4515 5 10 love 
+: 4524 4 12 from 
+: 4535 12 9 me 
+- 4567
+: 4594 4 14 H
+: 4600 2 12 m
+: 4604 5 12 m
+: 4611 4 7 m
+: 4619 4 10 m
+: 4625 8 12 m
+: 4635 22 12 m 
+- 4667
+: 4695 3 14 H
+: 4700 4 12 m
+: 4706 5 12 m
+: 4713 4 7 m
+: 4720 4 10 m
+: 4727 8 12 m
+: 4738 20 12 m 
+E

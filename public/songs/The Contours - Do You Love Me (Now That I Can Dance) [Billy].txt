@@ -1,0 +1,310 @@
+#ARTIST:The Contours
+#TITLE:Do You Love Me (Now That I Can Dance) [Billy]
+#MP3:The Contours - Do You Love Me (Now That I Can Dance) [Billy].mp3
+#CREATOR:ultrastarsongs
+#EDITION:SingStar Motown
+#COVER:The Contours - Do You Love Me (Now That I Can Dance) [Billy] [CO].jpg
+#BACKGROUND:The Contours - Do You Love Me (Now That I Can Dance) [Billy] [BG].jpg
+#GENRE:Soul
+#YEAR:1962
+#LANGUAGE:English
+#BPM:303
+#GAP:940
+#VIDEO:v=l3zJZ2d4cis,co=https://www.udiscovermusic.com/wp-content/uploads/2020/08/Contours-Do-You-Love-Me-820x820.jpg,bg=https://www.motownmuseum.org/wp-content/uploads/2020/12/mm_The-Countours_Original-Members-2-1024x828.jpg,p1=Billy,p2=Backing
+F 0 2 24 You 
+F 3 3 24 broke 
+F 8 3 24 my 
+F 12 4 24 heart 
+- 32
+F 48 3 24 ’Cause 
+F 52 3 24 I 
+F 56 5 24 couldn’t 
+F 62 5 24 dance 
+- 82
+F 97 2 24 You 
+F 100 3 24 didn’t 
+F 104 8 24 even 
+F 121 4 24 want 
+F 126 2 24 me 
+F 129 10 24 around 
+- 150
+F 162 3 24 And 
+F 166 3 24 now 
+F 172 3 24 I’m 
+F 180 5 24 back 
+F 198 2 24 to 
+F 202 3 24 let 
+F 207 4 24 you 
+F 213 6 24 know 
+- 224
+F 230 2 24 I 
+F 233 3 24 can 
+F 237 6 24 really 
+F 248 3 24 shake 
+F 252 4 24 ’em 
+F 258 6 24 down 
+- 284
+: 304 2 12 Do 
+: 307 3 10 you 
+* 311 11 12 love 
+: 324 6 5 me? 
+- 349
+: 368 3 12 Do 
+: 372 3 10 you 
+: 376 11 12 love 
+: 388 5 5 me? 
+- 411
+: 429 2 9 Ah 
+: 433 2 12 do 
+: 437 2 10 you 
+: 441 11 12 love 
+: 453 7 5 me? 
+- 482
+: 505 23 5 Now 
+: 529 6 5 that 
+: 537 21 5 I 
+: 561 5 7 can 
+* 569 63 0 dance 
+- 653
+F 674 3 24 Watch 
+F 678 3 24 me 
+F 682 5 24 now 
+- 703
+* 719 11 10 Ah 
+: 731 2 8 work 
+: 735 2 5 it 
+: 739 2 5 all
+: 743 2 2 ~ 
+: 747 7 5 ba
+: 755 3 14 by 
+- 770
+: 783 2 5 Well 
+: 787 5 5 you 
+: 795 3 5 dri
+: 799 3 2 vin’ 
+: 803 6 5 me 
+: 811 7 5 cra
+: 819 3 2 zy 
+- 834
+: 847 2 2 With 
+: 851 2 5 just 
+: 855 2 2 a 
+: 859 3 5 lit
+: 863 2 5 tle 
+: 867 2 5 bit 
+: 871 2 5 of 
+: 875 7 7 soul 
+: 883 6 5 now 
+- 918
+: 947 2 12 I 
+: 951 2 5 can 
+* 955 4 5 mash 
+: 963 2 2 po
+: 967 2 5 ta
+: 971 3 2 to 
+- 993
+: 1012 2 2 I 
+: 1016 2 0 can 
+: 1020 7 5 do 
+: 1028 4 5 the 
+: 1036 4 5 twist 
+- 1058
+F 1076 4 24 Now 
+- 1082
+: 1084 6 5 Tell 
+: 1092 5 12 me 
+: 1100 2 5 ba
+: 1104 2 5 by 
+- 1123
+: 1141 3 10 Do 
+: 1145 3 8 you 
+: 1149 2 5 like 
+: 1153 2 2 it 
+: 1157 4 5 like 
+: 1165 4 2 this? 
+- 1191
+: 1214 7 7 Tell 
+: 1222 2 0 me 
+- 1251
+F 1278 4 24 Tell 
+F 1286 3 24 me 
+- 1311
+: 1334 3 12 Do 
+: 1338 3 10 you 
+: 1342 10 12 love 
+: 1354 8 5 me? 
+- 1378
+: 1395 3 9 Now 
+: 1399 3 12 do 
+: 1403 3 10 you 
+: 1407 11 12 love 
+: 1419 6 5 me? 
+- 1442
+: 1459 2 9 Now 
+: 1463 3 12 do 
+: 1467 3 10 you 
+: 1471 12 12 love 
+: 1484 5 5 me? 
+- 1512
+* 1536 22 5 Now 
+: 1560 6 5 that 
+: 1568 20 5 I 
+: 1592 7 7 can 
+: 1600 55 0 dance
+: 1666 14 4 ~ 
+- 1692
+F 1705 3 24 Watch 
+F 1709 3 24 me 
+F 1713 5 24 now 
+- 1735
+: 1752 18 5 Ah 
+: 1771 3 5 shake 
+: 1775 2 2 it 
+: 1779 3 5 up 
+: 1787 3 5 shake 
+: 1791 3 2 it 
+- 1804
+: 1815 10 5 Ah 
+: 1827 2 5 shake 
+: 1831 2 2 ’em, 
+: 1835 2 5 shake 
+: 1839 2 2 ’em 
+: 1842 4 5 down
+: 1846 4 8 ~ 
+- 1865
+: 1880 10 5 Ah 
+: 1891 2 5 lit
+: 1895 2 2 tle 
+: 1899 2 5 bit 
+: 1903 2 2 of 
+* 1908 7 5 soul 
+: 1916 5 2 now 
+- 1965
+: 2010 10 5 Ah 
+: 2022 2 5 get 
+: 2026 2 2 it 
+: 2030 2 5 pret
+: 2034 2 2 ty 
+: 2038 7 5 ba
+: 2046 4 9 by 
+- 2062
+: 2075 7 5 Ah 
+: 2083 2 3 you’re 
+: 2087 2 5 dri
+: 2090 2 3 ving 
+: 2098 2 2 me 
+: 2102 7 5 cra
+: 2110 3 2 zy 
+- 2126
+: 2140 8 5 Ah 
+: 2150 2 5 don’t
+: 2154 2 2 ~ 
+: 2158 2 5 get
+: 2162 2 2 ~ 
+: 2166 7 5 la
+* 2174 4 7 zy 
+- 2208
+F 2239 2 12 I 
+F 2242 2 0 can 
+- 2245
+: 2246 5 5 Mash 
+: 2254 2 5 po
+: 2258 2 5 ta
+: 2262 2 5 to 
+- 2281
+: 2298 2 0 Oh 
+: 2302 2 0 I 
+: 2306 2 -2 can 
+: 2310 6 5 do 
+: 2318 5 5 the 
+: 2326 2 5 twist
+: 2328 3 9 ~ 
+- 2346
+: 2362 6 7 Well 
+: 2369 3 4 now 
+: 2374 3 5 tell
+: 2378 3 4 ~ 
+: 2383 6 5 me 
+: 2391 3 5 ba
+: 2395 2 5 by 
+- 2414
+: 2431 2 5 Do 
+: 2435 2 2 you 
+: 2439 2 5 like 
+: 2443 2 2 it 
+: 2447 6 5 like 
+* 2455 4 5 this? 
+- 2481
+F 2504 7 24 Tell 
+F 2512 2 24 me 
+- 2541
+F 2568 7 24 Tell 
+F 2577 3 24 me 
+- 2593
+F 2606 13 24 Wow 
+- 2620
+: 2622 2 10 Oh 
+: 2625 3 12 do 
+: 2629 2 10 you 
+: 2634 11 12 love 
+: 2645 5 5 me? 
+- 2668
+: 2686 2 9 Now 
+: 2690 2 12 do 
+* 2694 2 10 you 
+: 2698 11 12 love 
+: 2710 4 5 me? 
+- 2732
+: 2751 2 9 Now 
+: 2755 2 12 do 
+: 2759 2 10 you 
+: 2763 11 12 love 
+: 2775 4 5 me? 
+- 2879
+: 2979 5 5 Ah 
+: 2985 2 2 I’m 
+: 2989 3 5 work
+: 2994 2 2 ing 
+: 2997 4 5 hard 
+: 3005 7 5 ba
+: 3013 5 17 by 
+- 3030
+: 3043 4 9 Well 
+: 3049 4 10 you’re 
+: 3055 2 8 driv
+: 3058 3 5 ing 
+: 3063 4 5 me 
+: 3070 6 5 cra
+: 3078 5 2 zy 
+- 3094
+: 3106 3 5 Oh 
+: 3114 3 2 and 
+: 3119 3 5 don’t 
+: 3123 3 2 you 
+: 3127 3 5 get
+: 3131 2 2 ~ 
+: 3134 5 5 la
+: 3142 5 5 zy 
+- 3192
+: 3237 8 5 Ah 
+: 3249 3 5 hey 
+: 3253 3 5 hey 
+: 3261 7 5 ba
+: 3269 5 12 by 
+- 3287
+: 3300 3 5 Well 
+: 3308 2 5 you’re 
+: 3312 2 5 driv
+: 3316 2 5 ing 
+* 3320 5 10 me 
+: 3328 5 5 cra
+: 3336 4 5 zy 
+- 3342
+: 3366 10 10 Oh 
+: 3377 2 7 don’t 
+: 3381 2 5 you 
+: 3385 3 5 get
+: 3389 2 2 ~ 
+: 3393 6 5 la
+: 3401 3 2 zy 
+E

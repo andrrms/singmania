@@ -1,0 +1,101 @@
+#ARTIST:Dodger, Ben Briggs & Besso0
+#TITLE:Undertale (from Undertale)
+#MP3:Dodger, Ben Briggs & Besso0 - Undertale (from Undertale).mp3
+#CREATOR:Oddbrother
+#COVER:Dodger, Ben Briggs & Besso0 - Undertale (from Undertale) [CO].jpg
+#BACKGROUND:Dodger, Ben Briggs & Besso0 - Undertale (from Undertale) [BG].jpg
+#GENRE:Film Score
+#YEAR:2016
+#LANGUAGE:English
+#BPM:207.5
+#GAP:112870
+#VIDEO:v=ipluRrCyxlY,co=https://images.genius.com/13539822cbde5e221ec469c9542cef11.1000x1000x1.jpg
+: 0 12 -2 Reck
+: 17 11 10 less 
+: 34 22 5 child 
+- 58
+: 66 14 3 Fall
+: 82 1 8 en
+: 84 10 10 ~ 
+: 99 19 -2 down 
+- 120
+: 132 13 -2 Wel
+: 147 15 2 come 
+: 164 1 8 to
+: 166 10 10 ~ 
+- 178
+: 188 1 10 The
+: 190 5 12 ~ 
+: 196 14 10 Un
+: 213 10 5 der
+: 224 2 3 ~
+: 229 2 5 ground
+: 232 20 3 ~ 
+- 254
+* 262 16 -2 Good 
+: 279 1 8 or
+: 281 11 10 ~ 
+: 295 16 5 bad 
+- 313
+: 327 12 3 Choose 
+: 341 14 10 your 
+: 359 16 -2 path 
+- 377
+: 390 17 0 You 
+: 408 12 3 ac
+: 424 2 8 cept
+: 427 9 10 ~ 
+- 438
+: 440 1 10 The
+: 442 4 12 ~
+: 447 1 14 ~
+: 449 1 12 ~
+: 451 4 10 ~ 
+: 456 2 8 af
+: 459 8 10 ~
+: 472 1 3 ter
+: 474 9 5 ~
+: 484 3 3 ~
+: 488 11 3 math 
+- 501
+: 520 12 -2 Friend 
+: 536 1 8 or
+: 538 10 10 ~ 
+: 552 20 5 foe? 
+- 574
+: 586 14 3 Who 
+: 602 12 10 could 
+: 617 22 -2 know? 
+- 641
+: 650 14 -2 As 
+: 666 14 2 you 
+: 682 2 8 go
+: 685 11 10 ~ 
+- 698
+: 699 1 10 Your
+: 701 11 12 ~ 
+* 715 2 10 heart 
+: 731 1 3 will
+: 733 12 5 ~ 
+: 747 20 3 grow 
+- 769
+: 780 11 -2 Dark 
+: 796 12 10 with 
+: 812 16 5 hate 
+- 830
+* 844 13 3 Bright 
+: 860 11 10 with 
+: 877 19 -2 love 
+- 898
+: 909 13 0 Reck
+: 926 13 3 less 
+: 943 1 8 child
+: 945 11 10 ~ 
+- 958
+: 959 1 10 From
+: 961 12 12 ~ 
+: 974 3 10 up 
+: 991 1 3 a
+: 993 10 5 ~
+: 1007 26 3 bove 
+E

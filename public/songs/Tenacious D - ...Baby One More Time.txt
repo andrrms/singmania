@@ -1,0 +1,220 @@
+#ARTIST:Tenacious D
+#TITLE:...Baby One More Time
+#MP3:Tenacious D - ...Baby One More Time.mp3
+#CREATOR:Viktor1234678
+#COVER:Tenacious D - ...Baby One More Time [CO].jpg
+#BACKGROUND:Tenacious D - ...Baby One More Time [BG].jpg
+#YEAR:2024
+#LANGUAGE:English
+#BPM:200
+#GAP:6470
+#VIDEO:v=_oYSiPBUuC8,co=baby-one-more-time-from-kung-fu-panda-4-67f2693c33b6a.jpg
+: 0 3 0 Oh, 
+: 4 2 0 ba
+: 8 2 0 by, 
+: 12 2 0 ba
+: 16 4 0 by 
+- 22
+: 24 3 0 How 
+: 28 3 2 was 
+: 32 3 -1 I 
+: 36 3 -5 sup
+: 40 5 -5 posed 
+: 52 3 -7 to 
+: 56 5 -5 know 
+- 74
+: 88 3 -5 That 
+: 92 3 0 some
+: 96 3 0 thin’ 
+: 100 3 2 was
+: 104 3 3 n’t 
+: 108 7 2 right 
+: 116 7 0 here? 
+- 127
+: 129 3 0 Oh, 
+: 133 3 0 ba
+: 137 3 0 by, 
+: 141 3 0 ba
+: 145 4 0 by 
+- 150
+: 152 3 0 I 
+: 156 3 2 should
+: 160 3 0 n’t 
+: 164 3 -5 have 
+: 168 6 -5 let 
+: 180 3 -2 you 
+: 184 3 -2 go
+: 188 5 -5 ~
+: 194 2 -7 ~
+: 197 7 -9 ~ 
+- 213
+: 216 3 -5 And 
+: 220 3 0 now 
+: 224 3 0 you’re 
+: 228 3 2 out 
+: 232 3 3 of 
+: 236 5 2 sight, 
+: 244 4 0 yeah 
+- 251
+: 253 5 3 Show 
+: 261 5 3 me 
+: 268 3 3 how 
+: 272 3 3 you 
+: 276 3 5 want 
+: 280 3 3 it 
+: 284 6 2 to 
+: 293 5 2 be 
+- 306
+: 309 3 0 Tell 
+: 313 3 2 me, 
+: 317 6 3 ba
+: 325 4 3 by, 
+: 332 3 3 ’cause 
+: 336 3 3 I 
+: 340 3 5 need 
+: 344 3 3 to 
+: 348 5 7 know 
+: 356 5 7 now 
+- 363
+: 365 3 12 Oh, 
+: 369 3 7 be
+: 373 3 5 ca
+: 377 6 3 use 
+- 383
+: 384 3 0 My 
+: 388 3 0 lone
+: 392 3 0 li
+: 396 5 0 ness 
+: 408 3 0 is 
+: 412 3 -1 kil
+: 416 3 0 lin’ 
+: 420 5 2 me 
+: 429 4 7 (And 
+: 437 3 5 I
+: 441 5 3 ~) 
+- 447
+: 449 3 3 I 
+: 453 3 3 must 
+: 457 3 3 con
+: 461 5 3 fess, 
+: 472 3 3 I 
+: 476 3 5 still 
+: 480 3 7 be
+: 484 3 8 lie
+: 488 4 7 ve 
+: 496 3 12 (Still 
+: 500 3 11 be
+: 504 5 12 lieve) 
+- 511
+: 513 3 0 When 
+: 517 3 0 I’m 
+: 521 3 0 not 
+: 525 3 0 with 
+: 529 3 0 you, 
+: 533 3 0 I 
+: 537 3 -1 lose 
+: 541 3 0 my 
+: 545 7 2 mind 
+- 555
+: 557 3 3 Give 
+: 561 3 5 me 
+: 565 3 3 a 
+: 569 15 7 sign
+: 585 1 5 ~
+: 587 1 3 ~
+: 589 1 5 ~
+: 591 9 3 ~ 
+- 603
+: 605 3 7 Hit 
+: 609 3 8 me, 
+: 613 3 7 ba
+: 617 3 8 by, 
+: 621 3 7 one 
+: 625 3 8 more 
+: 629 3 7 time 
+- 632
+: 633 3 12 Oh, 
+: 637 3 12 hit 
+: 641 3 7 me, 
+: 645 3 5 ba
+: 649 1 5 by, 
+: 651 1 3 but 
+: 653 2 5 not 
+: 656 3 3 too 
+: 660 5 7 hard 
+- 666
+: 668 3 12 Hit 
+: 672 3 7 me 
+: 676 3 5 one 
+: 680 3 7 more 
+: 684 6 3 time 
+- 698
+: 701 3 12 Hit 
+: 705 3 7 me, 
+: 709 3 5 ba
+: 713 1 5 by, 
+: 715 1 3 but 
+: 717 2 5 not 
+: 720 3 3 too 
+: 724 6 7 hard 
+- 730
+: 732 3 3 One 
+: 736 3 3 more 
+: 740 3 3 time 
+: 744 1 3 a
+: 746 1 3 gain 
+- 747
+: 748 3 3 I 
+: 752 3 5 must 
+: 756 3 7 con
+: 760 5 7 fеss 
+- 773
+: 776 3 3 That 
+: 780 3 3 my 
+: 784 3 5 lone
+: 788 3 7 li
+: 792 6 7 ness 
+: 808 3 3 is 
+: 812 3 3 kil
+: 816 3 5 lin’ 
+: 820 3 7 me 
+: 824 7 7 now
+: 832 3 8 ~
+: 836 3 7 ~
+: 840 3 8 ~
+: 844 3 7 ~
+: 848 3 5 ~ 
+- 851
+: 852 3 3 Don’t 
+: 856 3 3 you 
+: 860 3 10 know
+: 864 3 8 ~ 
+: 868 5 8 I 
+: 876 7 7 still 
+: 884 3 5 bе
+: 888 5 7 lieve 
+- 901
+: 904 3 3 That 
+: 908 3 3 you 
+: 912 3 5 will 
+: 916 3 7 be 
+: 920 8 7 here 
+: 936 3 3 and 
+: 940 3 3 give 
+: 944 3 5 me 
+: 948 3 7 a 
+: 952 12 7 sign?
+: 965 1 7 ~
+: 967 2 5 ~
+: 970 2 3 ~
+: 973 2 5 ~
+: 976 4 3 ~ 
+- 986
+: 988 3 7 Hit 
+: 992 3 8 me, 
+: 996 3 7 ba
+: 1000 3 8 by, 
+: 1004 3 7 one 
+: 1008 3 8 more 
+: 1012 6 7 time 
+E

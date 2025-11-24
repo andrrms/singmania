@@ -1,0 +1,439 @@
+#ARTIST:Go-Jo
+#TITLE:Milkshake Man (ESC 2025 Australia)
+#MP3:Go-Jo - Milkshake Man (ESC 2025 Australia).mp3
+#CREATOR:Quetzaldo, Dragon33
+#EDITION:Eurovision Song Contest 2025
+#COVER:Go-Jo - Milkshake Man (ESC 2025 Australia) [CO].jpg
+#BACKGROUND:Go-Jo - Milkshake Man (ESC 2025 Australia) [BG].jpg
+#GENRE:Pop
+#YEAR:2025
+#LANGUAGE:English
+#BPM:308
+#GAP:10620
+#VIDEO:v=_08I6mjHSLA,co=milkshake-man-68ad5dfee020c.jpg
+: 0 4 24 Come 
+: 6 1 24 and 
+: 8 1 24 take 
+: 12 1 24 a 
+: 16 1 22 sip 
+: 24 1 22 from 
+: 28 1 22 my 
+: 32 2 21 spe
+: 38 1 21 cial 
+: 44 2 19 cup 
+- 50
+: 52 3 17 I 
+: 60 6 17 heard 
+: 68 1 17 that 
+: 72 1 17 you 
+: 76 1 15 could 
+: 80 1 17 use 
+: 84 1 15 a 
+: 88 2 17 lit
+: 92 1 15 tle 
+* 96 1 17 pi~
+* 98 2 19 ck 
+: 104 2 12 me 
+: 108 2 12 up 
+- 120
+: 124 3 22 What 
+: 132 1 24 can 
+: 136 1 24 get 
+: 140 1 24 you 
+: 144 6 22 high 
+: 152 2 22 when 
+: 156 1 22 you’re 
+: 160 1 21 oh-
+: 164 3 21 so 
+: 172 3 19 sad
+: 176 2 17 ? 
+- 178
+: 180 1 17 It’s 
+: 184 1 15 the 
+: 188 4 17 milk 
+: 196 4 17 from 
+: 204 1 15 the 
+: 208 1 17 mi
+: 210 2 19 ~lk
+: 216 3 12 shake 
+: 224 5 12 man 
+- 249
+R 308 2 24 Well, 
+R 312 2 24 I 
+R 316 1 24 got 
+R 320 1 24 choco
+R 324 3 24 late, 
+R 332 1 24 va
+R 336 2 24 nil
+R 340 2 24 la 
+R 344 3 24 and 
+R 350 4 24 lac
+R 356 2 24 tose-
+R 364 8 24 free 
+- 392
+R 440 1 22 And 
+R 442 1 22 a 
+R 446 2 22 ca
+R 450 2 22 ra
+R 454 1 22 mel 
+R 458 1 22 ba
+R 462 1 22 na
+G 466 6 22 na 
+R 474 1 22 that 
+R 478 2 22 you 
+R 482 4 22 have 
+R 490 2 22 got 
+R 496 1 22 to 
+R 500 6 22 see 
+- 515
+R 518 1 7 You 
+R 522 1 7 can 
+R 526 6 7 call 
+R 534 1 7 me 
+R 538 1 7 the 
+R 542 4 7 milk
+R 550 3 7 shake 
+R 558 8 7 man 
+- 575
+R 578 1 7 I 
+R 582 1 7 wan
+R 586 1 7 na 
+R 590 1 7 shake 
+R 594 1 7 and 
+R 598 1 7 make 
+R 602 1 7 the 
+R 606 5 7 whole 
+R 614 5 7 world 
+R 622 7 7 dance 
+- 639
+R 643 1 7 They 
+R 646 1 7 drink 
+R 650 1 7 my 
+R 654 5 7 milk 
+R 663 2 7 all 
+R 667 1 7 a
+R 671 4 7 cross 
+R 679 1 7 the 
+R 683 4 7 land 
+- 689
+: 691 1 12 I 
+: 695 1 14 can 
+: 699 3 16 te
+: 703 2 17 ~ll 
+: 707 1 19 you 
+: 711 2 21 want 
+: 715 1 22 a 
+: 719 4 24 taste 
+: 727 1 24 of 
+: 731 1 25 the 
+: 735 4 26 milk
+* 743 4 27 shake 
+: 752 8 27 ma
+: 761 2 28 ~
+: 764 2 29 ~n 
+- 786
+: 819 1 19 I 
+: 823 1 19 can 
+: 827 6 22 tell 
+: 835 2 22 you 
+: 839 2 22 want 
+: 843 1 22 a 
+: 847 5 22 taste 
+: 855 1 22 of 
+: 859 1 22 the 
+: 863 4 21 milk
+: 871 4 21 shake 
+: 879 7 21 ma
+: 887 3 20 ~
+: 891 18 19 ~n 
+- 919
+: 946 1 19 I 
+: 950 1 19 can 
+: 954 6 22 tell 
+: 962 2 22 you 
+: 966 2 22 want 
+: 970 1 22 a 
+: 974 5 22 taste 
+: 982 1 22 of 
+: 986 1 22 the 
+: 990 4 26 milk
+: 998 4 26 shake 
+: 1006 15 26 ma
+: 1022 3 25 ~
+: 1026 23 24 ~n 
+- 1059
+: 1078 1 12 The 
+: 1082 5 24 shake 
+: 1090 1 24 is 
+: 1094 2 24 not 
+: 1098 1 24 a 
+: 1102 4 22 drink, 
+: 1110 1 22 it’s 
+: 1114 1 22 a 
+* 1118 5 21 state 
+: 1126 1 21 of 
+: 1130 2 19 mi
+: 1133 1 17 ~nd 
+- 1135
+: 1137 1 17 It’s 
+: 1141 1 15 a 
+: 1145 3 17 se
+: 1153 1 15 cret 
+: 1157 1 17 su
+: 1161 1 15 per
+: 1165 2 17 po
+: 1169 1 15 wer 
+: 1173 2 17 you 
+: 1177 1 15 were 
+: 1181 5 19 born 
+: 1189 1 12 to 
+: 1193 7 12 find 
+- 1206
+: 1209 5 22 Drink 
+: 1217 2 24 it 
+: 1221 2 24 e
+: 1225 1 24 very 
+: 1229 5 22 day 
+: 1237 2 22 and 
+: 1241 1 22 be
+: 1245 5 21 fore 
+: 1253 1 21 you 
+: 1257 4 19 know 
+- 1266
+R 1268 1 21 You’ll 
+R 1272 1 21 be 
+R 1276 2 21 big
+R 1280 2 21 ger 
+R 1288 1 21 and 
+R 1292 2 21 stron
+R 1296 2 21 ger 
+- 1302
+R 1304 1 21 With 
+R 1308 5 21 har
+R 1316 1 21 der 
+G 1320 10 21 bones 
+- 1350
+R 1392 2 24 Well, 
+R 1396 2 24 I 
+R 1400 1 24 got 
+R 1404 1 24 man
+R 1408 3 24 go, 
+R 1416 1 24 mo
+R 1420 2 24 ji
+R 1424 3 24 to, 
+R 1430 1 24 and 
+R 1436 2 24 fruit
+R 1444 2 24 bal
+R 1448 9 24 let 
+- 1477
+R 1519 1 21 And 
+R 1523 1 21 did 
+R 1527 1 21 you 
+R 1531 2 21 see 
+R 1535 1 21 the 
+R 1539 2 21 naugh
+R 1543 1 21 ty 
+R 1547 1 21 spe
+R 1551 2 21 cial 
+R 1555 1 21 on 
+R 1559 1 21 my 
+- 1565
+G 1567 5 9 Crème 
+R 1575 2 9 brû~
+R 1579 9 9 lée? 
+- 1598
+R 1602 1 9 You 
+R 1606 1 9 can 
+R 1610 5 9 call 
+R 1618 1 9 me 
+R 1622 1 9 the 
+R 1626 3 9 milk
+R 1634 3 9 shake 
+R 1642 8 9 man 
+- 1659
+R 1663 1 21 I 
+R 1667 1 21 wan
+R 1671 1 21 na 
+R 1675 1 21 shake 
+R 1679 1 21 up 
+R 1683 2 21 all 
+R 1687 1 21 the 
+R 1691 4 21 milk 
+R 1699 4 21 I 
+R 1707 8 21 can 
+- 1724
+R 1727 1 9 They 
+R 1731 1 9 know 
+R 1735 1 9 my 
+R 1739 4 9 name 
+R 1747 2 9 all 
+R 1751 1 9 a
+R 1755 4 9 cross 
+R 1763 1 9 the 
+R 1767 5 9 land 
+- 1773
+: 1775 1 12 I 
+: 1779 1 14 can 
+: 1783 3 16 te
+: 1787 2 17 ~ll 
+: 1791 1 19 you 
+: 1795 2 21 want 
+: 1799 1 22 a 
+: 1803 4 24 taste 
+: 1811 1 24 of 
+: 1815 1 25 the 
+: 1819 4 26 milk
+: 1827 4 27 shake 
+: 1835 8 27 ma
+: 1844 2 28 ~
+: 1847 2 29 ~n 
+- 1869
+: 1903 1 19 I 
+: 1907 1 19 can 
+: 1911 6 22 tell 
+: 1919 2 22 you 
+: 1923 2 22 want 
+: 1927 1 22 a 
+* 1931 5 22 taste 
+: 1939 1 22 of 
+: 1943 1 22 the 
+: 1947 4 21 milk
+: 1955 4 21 shake 
+: 1963 7 21 ma
+: 1971 3 20 ~
+: 1975 18 19 ~n 
+- 2003
+: 2031 1 19 I 
+: 2035 1 19 can 
+: 2039 6 22 tell 
+: 2047 2 22 you 
+: 2051 2 22 want 
+: 2055 1 22 a 
+: 2059 5 22 taste 
+: 2067 1 22 of 
+: 2071 1 22 the 
+: 2075 4 26 milk
+: 2083 4 26 shake 
+: 2091 15 26 ma
+: 2107 3 25 ~
+: 2111 17 24 ~n 
+- 2137
+F 2140 1 22 Ex
+F 2142 3 22 cu
+F 2146 3 22 sez-
+F 2150 4 22 moi 
+F 2156 3 19 mon
+F 2160 10 19 sieur, 
+- 2176
+F 2178 5 24 A
+F 2184 3 20 vez-
+F 2188 4 19 vous 
+F 2193 3 19 du 
+F 2198 4 20 lait 
+F 2204 3 19 pour 
+F 2210 8 19 moi? 
+- 2227
+R 2230 1 3 When 
+R 2234 4 3 I 
+R 2242 2 3 say, 
+R 2249 4 3 “Sweet, 
+R 2257 4 3 sweet”, 
+R 2265 4 3 you 
+R 2273 4 3 say, 
+G 2281 3 3 “Yum, 
+R 2288 3 3 yum” 
+- 2295
+R 2297 4 3 Sweet, 
+R 2305 4 3 sweet, 
+- 2311
+F 2313 4 27 Yum, 
+F 2321 4 27 yum 
+- 2326
+R 2328 4 3 Sweet, 
+R 2336 4 3 sweet, 
+- 2342
+F 2344 4 27 Yum, 
+F 2352 3 27 yum 
+- 2355
+R 2356 1 7 When 
+R 2360 4 7 I 
+R 2368 2 7 say, 
+R 2376 4 7 “Sweet, 
+R 2384 4 7 sweet”, 
+R 2392 4 7 you 
+R 2400 4 7 say, 
+R 2407 4 7 “Yum, 
+R 2415 4 7 yum” 
+- 2421
+R 2423 4 7 Sweet, 
+R 2431 4 7 sweet, 
+- 2437
+F 2439 4 27 Yum, 
+F 2447 4 27 yum 
+- 2453
+G 2455 4 17 Sweet, 
+R 2463 4 17 sweet, 
+- 2469
+F 2471 4 31 Yum, 
+F 2479 4 31 yum 
+- 2524
+: 2793 1 19 I 
+: 2797 1 19 can 
+: 2801 6 22 tell 
+: 2809 2 22 you 
+: 2813 2 22 want 
+: 2817 1 22 a 
+: 2821 5 22 taste 
+: 2829 1 22 of 
+: 2833 1 22 the 
+: 2837 4 21 milk
+: 2845 4 21 shake 
+: 2853 7 21 ma
+: 2861 3 20 ~
+: 2865 18 19 ~n 
+- 2893
+: 2921 1 19 I 
+: 2925 1 19 can 
+: 2929 6 22 tell 
+: 2937 2 22 you 
+: 2941 2 22 want 
+: 2945 1 22 a 
+: 2949 5 22 taste 
+: 2957 1 22 of 
+: 2961 1 22 the 
+: 2965 4 26 milk
+: 2973 4 26 shake 
+* 2981 15 26 ma
+: 2997 3 25 ~
+: 3001 23 24 ~n 
+- 3034
+: 3048 1 19 I 
+: 3052 1 19 can 
+: 3056 6 22 tell 
+: 3064 2 22 you 
+: 3068 2 22 want 
+: 3072 1 22 a 
+: 3076 5 22 taste 
+: 3084 1 22 of 
+: 3088 1 22 the 
+: 3092 4 21 milk
+: 3100 4 21 shake 
+: 3108 7 21 ma
+: 3116 3 20 ~
+: 3120 18 19 ~n 
+- 3148
+: 3175 1 19 I 
+: 3179 1 19 can 
+: 3183 6 22 tell 
+: 3191 2 22 you 
+: 3195 2 22 want 
+: 3199 1 22 a 
+: 3203 5 22 taste 
+: 3211 1 22 of 
+: 3215 1 22 the 
+* 3219 4 26 milk
+: 3227 4 26 shake 
+: 3235 15 26 ma
+: 3251 3 25 ~
+: 3255 26 24 ~n 
+E

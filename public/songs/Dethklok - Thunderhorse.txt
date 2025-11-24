@@ -1,0 +1,114 @@
+#ARTIST:Dethklok
+#TITLE:Thunderhorse
+#MP3:Dethklok - Thunderhorse.mp3
+#CREATOR:davidmmm
+#GENRE:Metal
+#YEAR:2007
+#LANGUAGE:English
+#BPM:400
+#GAP:5750
+#VIDEO:v=m6o8h5FwcNU,co=the-dethalbum-5c99a4562cb03.jpg,bg=dethklok-4e055b410d023.jpg
+: 0 17 17 Ride
+: 71 14 19 Ride
+: 139 17 17 Ride 
+- 158
+: 209 17 19 Ride 
+- 228
+: 278 4 19 Thun
+: 283 8 19 der 
+- 293
+: 313 4 19 Thun
+: 318 10 19 der 
+- 330
+: 348 3 19 Thun
+: 353 9 19 der 
+- 364
+: 383 3 19 Thun
+: 387 10 19 der 
+- 399
+: 489 3 17 Thun
+: 493 3 17 der
+: 498 9 17 horse! 
+- 509
+: 557 3 17 Thun
+: 562 2 17 der
+: 566 10 17 horse! 
+- 578
+: 626 3 17 Thun
+: 631 2 17 der
+: 635 11 17 horse! 
+- 648
+: 697 3 17 Thun
+: 702 3 17 der
+: 706 12 17 horse! 
+- 720
+: 762 2 18 Re
+: 765 9 17 venge! 
+- 776
+: 832 3 18 Re
+: 836 11 17 venge! 
+- 849
+: 901 2 18 Re
+: 905 11 17 venge! 
+- 918
+: 1461 2 18 Thun
+: 1465 12 17 der 
+- 1479
+: 1531 1 14 Ho
+: 1534 14 13 rse 
+- 1550
+: 1600 4 18 Thun
+: 1605 8 17 der 
+- 1615
+: 1666 3 15 Ho
+: 1671 10 14 rse 
+- 1683
+: 2019 2 18 Thun
+: 2023 12 17 der 
+- 2037
+: 2089 2 15 Ho
+: 2092 14 14 rse 
+- 2108
+: 2157 2 0 Thun
+: 2161 12 0 der 
+- 2175
+: 2226 2 14 Ho
+: 2230 14 12 rse 
+- 2246
+: 2399 7 15 Thun
+: 2407 10 14 der, 
+: 2419 8 17 Thun
+: 2428 11 16 der... 
+- 2441
+: 2538 8 15 Thun
+: 2547 8 14 der, 
+: 2557 8 17 Thun
+: 2566 8 16 der, 
+: 2577 2 18 Thun
+: 2580 7 17 der... 
+- 2589
+: 2644 2 18 Thun
+: 2647 7 16 der 
+- 2656
+: 2713 2 18 Thun
+: 2717 8 16 der 
+- 2727
+: 2782 1 16 Ho
+: 2785 15 16 rse 
+- 2802
+: 2852 4 17 Thun
+: 2857 3 17 der
+: 2861 12 17 horse! 
+- 2875
+: 2904 4 17 Thun
+: 2909 4 17 der
+: 2914 14 17 horse! 
+- 2930
+: 2957 4 17 Thun
+: 2962 4 17 der
+: 2967 10 17 horse! 
+- 2979
+: 3019 3 17 Thun
+: 3023 5 17 der
+: 3029 8 17 horse! 
+E

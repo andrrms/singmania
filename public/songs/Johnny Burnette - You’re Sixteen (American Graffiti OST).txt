@@ -1,0 +1,242 @@
+#ARTIST:Johnny Burnette
+#TITLE:You’re Sixteen (American Graffiti OST)
+#MP3:Johnny Burnette - You’re Sixteen (American Graffiti OST).mp3
+#CREATOR:Canni
+#GENRE:Soundtrack
+#YEAR:1960
+#LANGUAGE:English
+#BPM:306.9
+#GAP:5300
+#VIDEO:v=uoVAjWc9Puk,co=https://i1.sndcdn.com/artworks-DasVurRKW2uXXcID-iyayog-t500x500.jpg,co-rotate=0.4,co-crop=8-4-486-486,bg=https://wallpaperaccess.com/full/5633987.jpg
+: 0 9 12 Ooh, 
+: 10 9 12 you 
+: 20 5 12 come 
+: 26 3 12 on 
+: 30 3 9 like 
+: 34 3 7 a 
+: 38 11 12 dream, 
+- 51
+: 58 3 11 Pea
+: 62 3 12 ches 
+: 66 3 13 and 
+: 70 11 14 cream, 
+- 83
+: 84 11 12 Lips 
+: 96 5 12 like 
+: 102 7 12 straw
+: 110 3 9 ber
+: 114 3 12 ry 
+: 118 13 9 wine. 
+- 133
+: 134 5 4 You’re 
+: 140 7 4 six
+: 148 11 2 teen, 
+: 170 9 9 you’re 
+: 180 3 9 beau
+: 184 1 9 ti
+: 186 9 7 ful, 
+: 202 7 9 and 
+: 210 5 9 you’re 
+: 216 27 9 mine. 
+- 245
+: 264 5 12 You’re 
+: 270 5 12 all 
+: 276 3 12 rib
+: 280 3 9 bon 
+: 284 3 7 and 
+: 288 15 12 curls, 
+- 305
+: 306 7 11 Ooh, 
+: 314 1 12 what 
+: 316 3 13 a 
+: 320 13 14 girl, 
+- 335
+: 336 11 12 Eyes 
+: 348 5 12 that 
+: 354 5 12 wee
+: 360 3 9 kle 
+: 364 3 12 and 
+: 368 13 9 shine. 
+- 383
+: 386 5 4 You’re 
+: 392 7 4 six
+: 400 11 2 teen, 
+: 422 9 9 you’re 
+: 432 3 9 beau
+: 436 3 9 ti
+: 440 13 7 ful, 
+: 454 5 3 and 
+: 460 7 4 you’re 
+: 468 25 0 mine. 
+- 495
+: 526 7 11 You’re 
+: 534 7 11 my 
+: 542 5 12 ba
+: 548 7 11 by, 
+: 560 5 11 you’re 
+: 566 3 11 my 
+: 570 9 11 pet. 
+- 581
+: 592 3 12 We 
+: 596 5 13 fell 
+: 602 1 12 in 
+: 604 9 13 love 
+: 614 3 13 on 
+: 618 1 12 the 
+: 620 7 13 night 
+: 628 3 13 we 
+: 632 11 9 met. 
+- 645
+: 646 5 9 You 
+: 652 5 12 touched 
+: 658 5 9 my 
+: 664 7 12 hand, 
+: 678 3 9 my 
+: 682 7 12 heart 
+: 690 5 9 went 
+: 696 7 12 ’pop’. 
+- 705
+: 706 5 16 And 
+: 712 9 16 ooh, 
+: 722 5 14 when 
+: 728 3 12 we 
+: 732 9 16 kissed, 
+: 744 5 15 we 
+: 750 3 16 could 
+: 754 5 15 not 
+: 760 9 16 stop. 
+- 770
+: 770 5 16 You 
+: 776 7 16 walked 
+: 784 3 16 out 
+: 788 1 14 of 
+: 790 3 12 my 
+: 794 11 12 dreams, 
+: 810 7 11 in
+: 818 1 12 to 
+: 820 5 13 my 
+: 826 15 14 arms, 
+- 842
+: 842 7 12 Now, 
+: 850 3 12 you’re 
+: 854 5 9 my 
+: 860 3 12 an
+: 864 5 9 gel 
+: 870 3 12 di
+: 874 11 9 vine. 
+- 887
+: 890 5 4 You’re 
+: 896 7 3 six
+: 904 15 2 teen, 
+: 926 9 9 you’re 
+: 936 3 9 beau
+: 940 3 9 ti
+: 944 13 7 ful, 
+: 958 7 3 and 
+: 966 5 4 you’re 
+: 972 23 0 mine. 
+- 997
+: 1148 5 16 You’re 
+: 1154 9 16 six
+: 1164 13 9 teen, 
+: 1188 9 16 your 
+: 1198 3 16 beau
+: 1202 3 14 ti
+: 1206 15 12 ful, 
+: 1222 5 16 and 
+: 1228 5 16 you’re 
+: 1234 29 16 mine. 
+- 1265
+: 1414 5 16 You’re 
+: 1420 7 16 six
+: 1428 13 9 teen, 
+: 1452 7 16 your 
+: 1460 5 16 beau
+: 1466 3 14 ti
+: 1470 13 12 ful, 
+: 1484 7 16 and 
+: 1492 5 16 you’re 
+: 1498 27 16 mine. 
+- 1527
+: 1548 3 11 Oh 
+: 1552 3 11 well, 
+: 1556 13 11 you’re 
+: 1570 7 11 my 
+: 1578 5 12 ba
+: 1584 9 11 by, 
+: 1596 5 11 you’re 
+: 1602 3 11 my 
+: 1606 9 11 pet. 
+- 1617
+: 1626 5 12 We 
+: 1632 5 13 fell 
+: 1638 3 12 in 
+: 1642 7 13 love 
+: 1650 3 13 on 
+: 1654 3 12 the 
+: 1658 5 13 night 
+: 1664 5 13 we 
+: 1670 9 9 met. 
+- 1681
+: 1684 3 9 You 
+: 1688 7 12 touched 
+: 1696 5 9 my 
+: 1702 13 12 hand, 
+: 1716 3 9 my 
+: 1720 7 12 heart 
+: 1728 3 9 went 
+: 1732 7 12 ’pop’. 
+- 1741
+: 1750 3 16 And 
+: 1754 7 16 ooh, 
+: 1762 5 14 when 
+: 1768 3 12 we 
+: 1772 11 16 kissed, 
+: 1784 3 15 we 
+: 1788 5 16 could 
+: 1794 5 15 not 
+: 1800 11 16 stop. 
+- 1812
+: 1812 3 16 You 
+: 1816 7 16 walked 
+: 1824 3 16 out 
+: 1828 3 14 of 
+: 1832 3 12 my 
+: 1836 11 12 dreams, 
+- 1849
+: 1850 9 11 In
+: 1860 3 12 to 
+: 1864 3 13 my 
+: 1868 17 14 heard, 
+- 1886
+: 1886 5 12 Now, 
+: 1894 3 12 you’re 
+: 1898 5 9 my 
+: 1904 5 12 an
+: 1910 3 9 gel 
+: 1914 3 12 di
+: 1918 13 9 vine. 
+- 1933
+: 1934 5 4 You’re 
+: 1940 7 3 six
+: 1948 13 2 teen, 
+: 1970 7 9 you’re 
+: 1980 3 9 beau
+: 1984 3 9 ti
+: 1988 15 7 ful, 
+: 2004 7 3 and 
+: 2012 5 4 you’re 
+: 2018 23 0 mine. 
+- 2043
+: 2056 7 4 Well, 
+: 2064 9 4 you’re 
+: 2074 5 3 six
+: 2080 13 2 teen, 
+: 2102 7 9 you’re 
+: 2110 5 9 beau
+: 2116 3 9 ti
+: 2120 7 7 ful, 
+: 2128 13 9 and 
+: 2142 5 9 you’re 
+: 2148 43 9 mine. 
+E

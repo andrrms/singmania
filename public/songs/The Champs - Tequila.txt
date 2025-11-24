@@ -1,0 +1,22 @@
+#ARTIST:The Champs
+#TITLE:Tequila
+#MP3:The Champs - Tequila.mp3
+#CREATOR:Fepo
+#GENRE:Rock’n’Roll
+#YEAR:1958
+#LANGUAGE:English
+#BPM:272.7
+#GAP:51820
+#VIDEO:a=q3sJVbHlcdQ,co=https://is1-ssl.mzstatic.com/image/thumb/Features/v4/9c/73/fa/9c73fadf-029c-888d-f5c3-312ad63f5442/dj.zgdcsize.jpg/5000x5000bb.jpg,bg=https://i.ytimg.com/vi/ZnA5-oVpagM/maxresdefault.jpg
+* 0 2 17 Te
+* 4 2 22 qui
+* 8 5 15 la 
+- 15
+* 774 2 17 Te
+* 778 2 22 qui
+* 782 5 15 la 
+- 789
+* 1348 3 17 Te
+* 1354 3 24 qui
+* 1360 14 19 la 
+E

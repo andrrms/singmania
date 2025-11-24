@@ -1,0 +1,283 @@
+#ARTIST:Beth Orton
+#TITLE:She Cries Your Name
+#MP3:Beth Orton - She Cries Your Name.mp3
+#CREATOR:GunnerXero
+#EDITION:SingStar PS3 DLC
+#COVER:Beth Orton - She Cries Your Name [CO].jpg
+#BACKGROUND:Beth Orton - She Cries Your Name [BG].jpg
+#GENRE:Folk Rock
+#YEAR:1996
+#LANGUAGE:English
+#BPM:215.8
+#GAP:45280
+#VIDEO:v=rFZc4ax4tJs,co=https://images.eil.com/large_image/BETH_ORTON_SHE%2BCRIES%2BYOUR%2BNAME-159119.jpg
+: 0 2 9 Fa
+: 3 1 11 ~l
+: 5 2 11 lin’ 
+: 9 2 11 from 
+: 13 1 11 the 
+: 15 1 11 we
+: 17 2 14 ~s
+: 21 3 14 tern 
+: 25 2 14 shore 
+- 28
+: 29 1 14 To 
+: 31 1 14 fi
+: 33 3 16 ~nd 
+: 38 2 14 your
+: 41 1 11 se
+: 43 1 9 ~lf 
+: 45 1 9 a
+: 47 3 11 lone 
+: 53 2 14 a
+* 56 10 11 gain 
+- 68
+: 74 2 14 Won
+: 77 1 16 d’ri
+: 79 1 18 ~n’ 
+: 81 2 16 where 
+: 86 1 14 you 
+: 88 3 11 have 
+: 94 1 9 bee
+: 96 14 11 ~n 
+- 112
+: 134 1 9 You
+: 136 1 11 ~r 
+: 138 2 11 lone
+: 142 1 11 ly 
+* 144 14 14 voice 
+- 160
+: 162 1 14 Ca
+: 164 1 16 ~lls 
+: 166 1 14 a
+: 168 1 11 cro
+: 170 2 9 ~ss 
+: 174 1 9 the 
+: 176 3 11 star
+: 180 2 14 lit 
+: 185 8 11 coast 
+- 195
+: 201 2 14 Rea
+: 205 1 16 chi
+: 207 1 18 ~ng 
+: 209 2 16 out 
+: 213 1 14 to 
+: 216 3 11 be 
+: 221 1 9 see
+: 223 10 11 ~n 
+- 235
+: 266 3 21 She 
+: 271 4 18 crie
+: 276 4 16 ~s 
+: 283 5 16 your 
+: 289 11 11 name 
+- 302
+: 331 3 21 Three 
+: 335 5 18 ti
+: 341 5 16 ~mes 
+: 347 4 16 a
+: 352 13 11 gain 
+- 367
+: 395 3 21 She 
+: 399 5 18 crie
+: 405 4 16 ~s 
+: 411 4 16 your 
+: 417 17 11 name 
+- 436
+: 460 6 14 How 
+: 468 3 14 lo
+: 472 2 16 ~ng 
+: 476 2 14 can 
+: 480 2 11 this 
+: 484 4 14 love 
+: 491 5 11 re
+: 497 13 11 main 
+- 512
+: 805 3 9 Cut 
+: 810 1 11 be
+: 812 3 11 neath 
+: 818 1 11 the 
+: 820 3 14 sur
+: 825 3 14 face 
+: 829 3 14 screen 
+- 833
+: 834 1 14 Of 
+: 836 4 16 what 
+: 842 1 14 we 
+: 844 1 11 say
+: 846 3 9 ~ 
+: 850 1 9 and 
+: 852 4 11 what 
+: 857 1 11 we 
+: 860 8 11 seem 
+- 870
+: 878 3 14 Is 
+: 882 1 16 a
+: 884 2 18 ~ 
+: 887 2 16 trick 
+: 890 1 11 to 
+: 892 3 11 be 
+: 897 1 9 see
+* 899 11 11 ~n 
+- 912
+: 937 1 9 She 
+: 939 2 11 keeps 
+: 943 1 11 cry
+: 945 2 11 ing 
+: 949 2 14 out 
+: 953 2 14 your 
+* 957 8 14 name 
+- 966
+: 967 1 16 But 
+: 969 2 14 her 
+: 973 1 11 screa
+: 975 4 9 ~m 
+: 981 2 11 sounds 
+: 985 1 14 the 
+: 987 11 11 same 
+- 1000
+: 1011 2 14 How 
+: 1015 1 16 fic
+: 1017 2 14 kle 
+: 1021 2 11 fate 
+: 1025 1 9 can 
+: 1027 11 11 be 
+- 1040
+: 1071 3 21 She 
+: 1076 5 18 crie
+: 1082 4 16 ~s 
+: 1087 4 16 your 
+: 1093 12 11 name 
+- 1107
+: 1136 3 21 Three 
+: 1140 5 18 ti
+: 1146 4 16 ~mes 
+: 1152 4 16 a
+: 1158 10 11 gain 
+- 1170
+: 1200 2 21 She 
+: 1204 5 18 crie
+: 1210 4 16 ~s 
+: 1216 4 16 your 
+* 1222 13 11 name 
+- 1237
+: 1264 6 14 How 
+: 1272 3 14 lo
+: 1276 3 16 ~ng 
+: 1280 3 14 can 
+: 1284 2 11 this 
+: 1288 4 14 love 
+: 1295 4 11 re
+: 1301 16 11 main 
+- 1319
+: 1611 1 9 Bi
+: 1613 1 11 ~rds 
+: 1615 2 11 which 
+: 1619 2 11 scream 
+: 1623 2 11 for 
+: 1627 1 14 ter
+: 1629 2 14 ri
+: 1632 3 14 tory 
+- 1636
+: 1637 2 14 Can 
+: 1641 1 14 lea
+: 1643 1 17 ~rn 
+: 1647 1 11 to 
+: 1649 1 11 si
+* 1651 3 9 ~ng 
+: 1655 1 9 eu
+: 1657 2 11 pho
+: 1661 1 14 ri
+: 1663 8 11 cally 
+- 1673
+: 1684 1 14 Give 
+: 1686 1 16 ah 
+: 1688 2 18 him 
+: 1692 2 16 time 
+: 1696 1 14 and 
+: 1698 3 11 he’s 
+: 1703 2 9 rea
+: 1706 16 11 ~l 
+- 1724
+: 1742 1 9 And 
+: 1744 1 11 there’s 
+: 1746 1 9 a 
+: 1748 2 11 waste
+: 1752 2 11 land 
+: 1756 1 14 in 
+: 1758 2 14 your 
+: 1762 7 14 soul 
+- 1770
+: 1770 1 14 The 
+: 1772 1 14 bu
+: 1774 1 16 ~rned 
+: 1776 2 14 out 
+: 1780 3 11 trees 
+: 1784 1 9 will 
+: 1786 2 11 leave 
+: 1790 2 14 you 
+: 1794 9 11 cold 
+- 1805
+: 1812 1 14 Li
+: 1814 1 16 ~
+* 1816 2 18 ving 
+: 1820 2 16 out 
+: 1824 1 11 an 
+: 1826 2 11 i
+: 1832 1 9 dea
+: 1834 13 11 ~l 
+- 1849
+* 1877 2 21 She 
+: 1881 5 18 crie
+: 1887 4 16 ~s 
+: 1893 4 16 your 
+: 1899 13 11 name 
+- 1914
+: 1941 3 21 Three 
+: 1945 5 18 ti
+: 1951 4 16 ~mes 
+: 1957 4 16 a
+: 1962 13 11 gain 
+- 1977
+: 2006 3 21 She 
+: 2010 4 18 crie
+: 2016 3 16 ~s 
+: 2021 4 16 your 
+: 2027 15 11 name 
+- 2044
+: 2070 6 14 How 
+: 2078 3 14 lo
+: 2082 3 16 ~ng 
+: 2086 2 14 can 
+* 2090 2 11 this 
+: 2094 4 14 love 
+: 2100 4 11 re
+: 2106 15 11 main 
+- 2123
+: 2167 3 21 She 
+: 2172 4 18 crie
+: 2177 4 16 ~s 
+: 2183 4 16 your 
+: 2189 14 11 name 
+- 2205
+: 2231 4 21 Twelve 
+: 2236 5 18 ti
+: 2242 3 16 ~mes 
+: 2248 4 16 a
+: 2253 13 11 gain 
+- 2268
+: 2296 3 21 She 
+: 2300 5 18 crie
+: 2306 3 16 ~s 
+: 2312 4 16 your 
+: 2317 14 11 name 
+- 2333
+: 2360 7 14 How 
+: 2368 3 14 lo
+: 2372 3 16 ~ng 
+: 2376 3 14 can 
+: 2380 3 11 this 
+: 2384 3 14 love 
+: 2390 3 11 re
+* 2396 14 11 main 
+E

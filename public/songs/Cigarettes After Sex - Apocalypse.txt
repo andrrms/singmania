@@ -1,0 +1,346 @@
+#ARTIST:Cigarettes After Sex
+#TITLE:Apocalypse
+#MP3:Cigarettes After Sex - Apocalypse.mp3
+#CREATOR:mfonte
+#COVER:Cigarettes After Sex - Apocalypse [CO].jpg
+#BACKGROUND:Cigarettes After Sex - Apocalypse [BG].jpg
+#GENRE:Dream Pop
+#YEAR:2017
+#LANGUAGE:English
+#BPM:349.11
+#GAP:36530
+#VIDEO:v=-mnH9-SX2Tg,co=apocalypse-596ec3b7f0636.jpg,bg=cigarettes-after-sex-6070b460b3763.jpg
+: 0 4 4 You 
+: 8 11 5 leapt 
+: 24 3 5 from 
+: 33 3 5 crum
+: 40 3 5 bling 
+: 49 3 5 bri
+: 56 3 5 dges 
+: 65 3 5 wat
+: 73 3 5 ching 
+: 81 3 5 ci
+: 89 3 5 tys
+: 98 7 5 ca
+: 107 5 5 pes 
+- 113
+: 115 11 5 Turn 
+: 130 4 5 to 
+: 137 27 4 dust 
+- 187
+: 245 3 4 Fil
+: 254 4 4 ming 
+: 263 13 5 he
+: 280 3 5 li
+: 287 2 5 cop
+: 295 3 5 ters 
+: 303 3 5 cra
+: 311 2 5 shing 
+: 319 2 5 in 
+: 326 2 5 the 
+: 335 3 5 o
+: 343 2 5 cean 
+: 351 4 5 from 
+: 365 6 5 way 
+: 375 9 7 a
+: 389 32 4 bove 
+- 444
+: 508 2 4 Got 
+: 516 2 4 the 
+: 524 2 5 mu
+: 531 3 5 sic 
+: 539 2 5 in 
+: 547 2 5 you 
+: 555 2 5 ba
+: 563 3 5 by 
+- 569
+: 571 2 9 Tell 
+: 579 2 12 me 
+: 587 18 9 why 
+- 615
+: 635 2 5 Got 
+: 642 2 5 the 
+: 649 3 5 music 
+: 658 3 5 in 
+: 666 3 5 you 
+: 674 2 5 ba
+: 682 5 5 by 
+- 687
+: 689 9 9 Tell 
+: 701 4 12 me 
+: 710 16 9 why 
+- 736
+: 758 3 4 You’ve 
+: 767 3 4 been 
+: 775 2 5 locked 
+: 783 2 5 in 
+: 791 2 5 here 
+: 799 2 5 fo
+: 806 2 5 re
+: 814 2 5 ver 
+: 822 2 5 and 
+: 830 2 5 you 
+: 838 10 4 just 
+- 851
+: 853 8 4 Can’t 
+: 869 8 4 say 
+: 884 3 4 good
+: 892 28 5 bye 
+- 966
+: 1025 4 5 Kis
+: 1032 3 5 ses 
+: 1040 2 5 on 
+: 1048 2 5 the 
+: 1056 3 5 fore
+: 1064 3 5 heads 
+: 1073 2 5 of 
+: 1080 3 5 the 
+: 1089 3 5 lo
+: 1097 3 5 vers 
+: 1104 3 5 wrapped 
+- 1115
+: 1118 5 5 In 
+: 1127 3 5 your 
+: 1139 35 4 arms 
+- 1197
+: 1251 3 4 You’ve 
+: 1259 3 5 been 
+: 1268 11 5 hi
+: 1283 4 5 ding 
+: 1291 3 5 them 
+: 1299 2 5 in 
+: 1307 3 5 hol
+: 1315 2 5 lowed 
+: 1323 3 5 out 
+: 1331 2 5 pi
+: 1339 3 5 a
+: 1346 2 5 nos 
+- 1353
+: 1355 8 5 Left 
+: 1369 4 5 in 
+: 1379 8 5 the 
+: 1393 25 4 dark 
+- 1464
+: 1512 2 4 Got 
+: 1519 2 4 the 
+: 1527 2 5 mu
+: 1535 2 5 sic 
+: 1542 2 5 in 
+: 1550 2 5 you 
+: 1557 3 5 ba
+: 1566 2 5 by 
+- 1572
+: 1574 2 9 Tell 
+: 1581 2 12 me 
+: 1589 15 9 why 
+- 1614
+: 1636 3 5 Got 
+: 1644 2 5 the 
+: 1652 2 5 mu
+: 1659 2 5 sic 
+: 1667 2 5 in 
+: 1674 2 5 you 
+: 1682 2 5 ba
+: 1690 2 5 by 
+- 1696
+: 1698 2 9 Tell 
+: 1705 2 12 me 
+: 1712 17 9 why 
+- 1739
+: 1758 2 4 You’ve 
+: 1766 2 4 been 
+: 1774 2 5 locked 
+: 1782 2 5 in 
+: 1789 2 5 here 
+: 1798 2 5 fo
+: 1805 2 5 re
+: 1813 2 5 ver 
+: 1821 2 5 and 
+: 1829 2 5 you 
+: 1836 8 4 just 
+- 1850
+: 1852 10 4 Can’t 
+: 1868 9 4 say 
+: 1883 3 4 good
+: 1891 20 5 bye 
+- 1957
+: 2045 3 2 Your 
+: 2053 4 5 lips 
+- 2058
+: 2060 3 2 My 
+* 2068 19 7 lips 
+- 2097
+: 2109 4 2 A
+: 2117 3 5 po
+: 2125 3 2 ca
+* 2133 10 7 lypse 
+- 2189
+: 2305 2 2 Your 
+: 2308 4 5 lips 
+- 2319
+: 2322 5 2 My 
+* 2329 15 7 lips 
+- 2356
+: 2360 4 2 A
+: 2370 4 5 po
+: 2378 3 2 ca
+* 2387 15 7 lypse 
+- 2448
+: 2513 4 5 Go 
+: 2520 3 5 & 
+: 2527 4 5 sneak 
+: 2534 2 5 us 
+: 2539 4 5 through 
+: 2548 4 5 the 
+: 2558 4 5 ri
+: 2566 3 5 vers 
+- 2573
+: 2575 3 5 Flood 
+: 2582 3 5 is 
+: 2590 3 7 dri
+: 2598 3 7 ving 
+: 2606 5 7 up 
+: 2622 6 7 to 
+: 2630 6 7 your 
+: 2643 24 5 knees 
+- 2677
+* 2689 11 4 Oh 
+* 2706 17 5 please 
+- 2746
+: 2783 2 7 Come 
+: 2788 8 7 out 
+: 2799 3 5 and 
+: 2807 10 9 haunt 
+: 2822 11 7 me 
+- 2840
+: 2843 2 7 I 
+: 2848 8 7 know 
+: 2860 3 5 you 
+: 2868 10 9 want 
+: 2883 12 7 me 
+- 2901
+: 2904 2 7 Come 
+: 2909 2 7 out 
+: 2924 4 5 and 
+: 2932 10 9 haunt 
+: 2945 16 4 me 
+- 2984
+: 3011 13 5 Sha
+: 3028 2 5 ring 
+: 3036 3 5 all 
+: 3043 2 5 your 
+: 3051 2 5 se
+: 3059 3 5 crets 
+: 3067 3 5 with 
+: 3075 2 5 each 
+: 3083 3 5 o
+: 3091 2 5 ther 
+- 3096
+: 3098 9 5 Since 
+: 3112 5 5 you 
+: 3121 11 5 were 
+: 3137 27 4 kids 
+- 3187
+: 3241 5 4 Slee
+: 3250 5 4 ping 
+: 3258 10 5 soun
+: 3274 3 5 dly 
+: 3282 2 5 with 
+: 3289 2 5 the 
+: 3297 3 5 lo
+: 3305 2 5 cket 
+: 3313 2 5 that 
+: 3320 2 5 she 
+: 3327 3 5 ga
+: 3336 3 5 ve 
+: 3345 4 5 you 
+- 3356
+: 3359 6 5 Clutched 
+: 3368 2 5 in 
+: 3380 10 5 your 
+: 3393 16 4 fist 
+- 3432
+: 3497 4 4 Got 
+: 3505 2 4 the 
+: 3513 2 5 mu
+: 3520 2 5 sic 
+: 3528 2 5 in 
+: 3535 2 5 you 
+: 3543 2 5 ba
+: 3551 3 5 by 
+- 3557
+: 3559 2 9 Tell 
+: 3567 2 12 me 
+: 3575 14 9 why 
+- 3599
+: 3621 3 5 Got 
+: 3628 2 5 the 
+: 3635 2 5 mu
+: 3643 2 5 sic 
+: 3651 2 5 in 
+: 3659 2 5 you 
+: 3666 3 5 ba
+: 3675 2 5 by 
+- 3681
+: 3683 2 9 Tell 
+: 3690 2 12 me 
+: 3698 13 9 why 
+- 3721
+: 3740 4 4 You’ve 
+: 3749 3 4 been 
+: 3757 2 5 locked 
+: 3765 2 5 in 
+: 3773 3 5 here 
+: 3780 2 5 fo
+: 3788 2 5 re
+: 3796 2 5 ver 
+: 3803 2 5 and 
+: 3811 2 5 you 
+: 3818 10 4 just 
+- 3832
+: 3834 9 4 Can’t 
+: 3850 9 4 say 
+: 3865 4 4 good
+: 3873 24 5 bye 
+- 3943
+: 4236 4 4 You’ve 
+: 4244 3 4 been 
+: 4251 3 5 locked 
+: 4259 2 5 in 
+: 4266 3 5 here 
+: 4274 3 5 fo
+: 4282 3 5 re
+: 4290 2 5 ver 
+: 4297 3 5 and 
+: 4305 3 5 you 
+: 4314 9 4 just 
+- 4326
+: 4328 10 4 Can’t 
+: 4343 10 4 say 
+: 4359 3 4 good
+: 4368 32 5 bye 
+- 4446
+: 5043 10 12 When 
+: 5056 11 10 you’re 
+: 5072 20 9 all 
+: 5098 5 7 a
+: 5107 27 9 lone 
+- 5144
+: 5168 10 7 I 
+: 5183 11 7 will 
+: 5199 18 10 reach 
+: 5223 4 9 for 
+: 5231 20 9 you 
+- 5261
+: 5292 11 12 When 
+: 5307 11 10 you’re 
+: 5324 13 9 fee
+: 5341 9 7 ling 
+: 5354 29 9 low 
+- 5393
+: 5414 12 7 I 
+: 5429 12 7 will 
+: 5445 9 4 be 
+: 5459 11 5 there 
+: 5475 42 5 too 
+E

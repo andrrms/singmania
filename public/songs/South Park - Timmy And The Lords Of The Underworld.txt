@@ -1,0 +1,236 @@
+#ARTIST:South Park
+#TITLE:Timmy And The Lords Of The Underworld
+#MP3:South Park - Timmy And The Lords Of The Underworld.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band
+#GENRE:Rock
+#YEAR:2000
+#LANGUAGE:English
+#BPM:374.67
+#GAP:19250
+#VIDEO:a=oFFQpd9akSg,co=https://m.media-amazon.com/images/I/71b8jkWeuxL.jpg,bg=https://m.media-amazon.com/images/M/MV5BOWM0MGQwOTEtOGFhMC00OGRiLThlMzMtYjBjNzMyM2E0MDYxXkEyXkFqcGc@._V1_.jpg
+#START:17.0
+F 0 2 10 Tim
+F 3 24 10 my! 
+- 29
+F 82 2 10 Tim
+F 85 7 10 my 
+F 93 2 10 liv
+F 96 3 10 in’ 
+F 100 1 10 a 
+F 102 6 10 lie 
+- 110
+F 166 10 10 Dah 
+F 178 12 10 duoah 
+- 192
+F 232 2 10 Ugh 
+F 240 5 10 ah 
+F 252 10 10 daah, 
+F 264 1 10 Tim
+F 266 2 10 my! 
+- 270
+: 306 2 3 And 
+: 309 2 3 the 
+: 312 7 3 Lords 
+: 321 3 3 of 
+: 327 3 3 the 
+: 331 4 6 Un
+: 336 2 3 der
+: 339 8 3 world 
+- 349
+: 392 3 3 Dark
+: 397 2 3 ness 
+: 402 3 3 fills 
+: 407 4 3 my 
+: 412 4 1 heart 
+: 417 2 1 with 
+: 421 8 3 pain 
+- 431
+F 442 2 10 Tim
+F 445 5 10 my! 
+- 452
+: 463 3 3 And 
+: 468 2 3 when 
+: 474 7 3 girls 
+: 484 3 3 start 
+: 489 3 3 to 
+* 494 3 6 sleep 
+: 499 1 3 with 
+* 502 8 3 girls 
+- 512
+: 553 2 3 Beel
+: 556 2 1 ~
+: 559 2 3 ze
+: 563 5 3 bub 
+: 570 4 3 will 
+: 575 4 1 rise 
+: 581 2 1 a
+: 584 8 3 gain 
+- 594
+F 605 2 10 Tim
+F 608 6 10 my 
+F 616 3 10 liv
+F 620 2 10 in’ 
+F 623 1 10 a 
+F 625 9 10 lie 
+- 636
+F 679 1 10 Pah 
+F 681 3 10 yup 
+F 686 3 10 pa 
+F 695 4 10 dub 
+F 702 3 10 dub, 
+F 708 5 10 Tim
+F 716 14 10 my! 
+- 732
+F 770 7 10 Yeah 
+- 779
+F 788 2 10 Duh 
+F 793 8 10 doh 
+- 803
+F 857 1 10 Tim
+F 859 7 10 my! 
+- 868
+: 913 1 3 And 
+: 915 2 3 the 
+: 918 7 3 Lords 
+: 928 3 3 of 
+: 933 5 3 the 
+: 939 3 6 Un
+: 943 3 3 der
+: 947 8 3 world 
+- 957
+: 1001 3 3 Dark
+: 1006 2 3 ness 
+: 1011 3 3 fills 
+: 1017 3 3 my 
+: 1021 3 1 heart 
+: 1026 2 1 with 
+: 1031 7 3 pain, 
+F 1042 1 3 Tim
+F 1044 11 3 my! 
+- 1057
+: 1071 3 3 And 
+: 1076 3 3 when 
+: 1081 7 3 girls 
+: 1092 3 3 start 
+: 1097 3 3 to 
+: 1103 3 6 sleep 
+: 1108 2 3 with 
+: 1113 6 3 girls 
+- 1121
+: 1162 6 3 Dio
+: 1169 2 3 pho
+: 1174 4 3 sys 
+: 1180 3 3 will 
+: 1184 4 1 rise 
+* 1189 2 1 a
+* 1192 7 3 gain, 
+- 1201
+F 1205 4 3 Duh, 
+F 1214 3 3 Tim
+F 1218 3 3 my 
+F 1225 4 3 break 
+F 1230 3 3 it 
+F 1235 8 3 down 
+- 1245
+F 1367 21 3 Heah! 
+- 1390
+F 1421 2 3 Tim
+F 1424 9 3 my! 
+- 1435
+F 1545 19 3 Doah, 
+- 1566
+F 1639 2 3 Tim
+F 1642 12 3 my! 
+- 1656
+F 1663 2 3 I 
+F 1670 3 3 pledge 
+F 1675 3 3 al
+F 1679 4 3 le
+F 1684 10 3 giance 
+- 1696
+F 1700 4 3 To 
+F 1705 2 3 the 
+F 1710 12 3 flag, 
+F 1724 3 3 Tim
+F 1735 7 3 my! 
+F 1743 1 3 the 
+F 1745 5 3 U
+F 1751 4 3 ni
+F 1756 2 3 ted 
+F 1759 10 3 States 
+- 1771
+F 1811 4 3 Of 
+: 1817 4 10 Tim
+: 1826 169 3 my!
+: 1996 2 13 ~ 
+- 2000
+F 2055 2 3 Tim
+F 2058 17 3 my! 
+- 2077
+F 2135 2 10 Tim
+F 2138 5 10 my 
+F 2145 3 10 liv
+F 2149 2 10 in’ 
+F 2152 1 10 a 
+F 2154 9 10 lie 
+- 2165
+F 2211 3 10 Dap 
+F 2215 2 10 pit 
+- 2219
+F 2226 4 10 Gul 
+F 2231 3 10 hod, 
+F 2238 2 10 Tim
+F 2241 3 10 my 
+- 2246
+F 2289 5 10 Huyah 
+- 2296
+F 2310 7 10 Dah 
+- 2319
+: 2363 2 3 And 
+: 2367 1 3 the 
+: 2369 6 3 Lords 
+: 2378 3 3 of 
+: 2383 3 3 the 
+* 2388 3 6 Un
+* 2393 2 3 der
+* 2396 8 3 world 
+- 2406
+: 2450 3 3 Dark
+: 2456 2 3 ness 
+: 2460 3 3 fills 
+: 2465 3 3 my 
+: 2470 4 1 heart 
+: 2475 2 1 with 
+: 2480 6 3 pain, 
+F 2491 2 3 Tim
+F 2494 3 3 my! 
+- 2499
+: 2526 1 3 And 
+: 2528 2 1 when 
+: 2532 6 3 girls 
+: 2542 3 3 start 
+* 2547 3 3 to 
+* 2552 3 6 sleep 
+: 2557 2 3 with 
+: 2562 7 3 girls 
+- 2571
+: 2597 2 3 Tim
+: 2600 1 3 my, 
+: 2603 2 3 Tim
+: 2606 4 3 my, 
+: 2611 7 3 Beel
+: 2619 2 3 ze
+: 2622 5 3 bub 
+: 2628 3 3 will 
+: 2632 5 1 rise 
+* 2638 2 1 a
+* 2641 7 3 gain 
+- 2650
+: 2654 2 10 Tim
+: 2657 23 10 my!
+: 2681 2 6 ~, 
+- 2685
+F 2718 3 3 Tim
+F 2722 14 3 my! 
+E

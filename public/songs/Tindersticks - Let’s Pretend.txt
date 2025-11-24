@@ -1,0 +1,122 @@
+#ARTIST:Tindersticks
+#TITLE:Let’s Pretend
+#MP3:Tindersticks - Let’s Pretend.mp3
+#CREATOR:dude76
+#GENRE:Rock, Pop
+#YEAR:1997
+#LANGUAGE:English
+#BPM:236
+#GAP:69060
+#VIDEO:a=sou85eJwSz0,co=curtains-4ee32da8afaf3.jpg
+: 0 10 -8 Let’s 
+: 19 8 -6 not
+: 28 13 -3 ~ 
+- 43
+: 49 5 -3 Make 
+: 55 3 -3 it 
+: 59 2 -3 in
+: 62 4 -3 to 
+: 67 7 -3 a 
+: 75 4 -3 big
+: 80 4 -5 ~ 
+: 85 21 -5 thing 
+- 108
+: 130 9 -8 Let’s 
+: 148 8 -6 not
+* 157 15 -3 ~ 
+- 174
+: 191 4 -3 Get
+: 196 4 -2 ~ 
+: 201 9 -3 lost 
+: 211 4 -5 in 
+: 216 13 -5 this 
+- 231
+: 256 3 -9 I 
+: 260 3 -8 know 
+: 264 3 -8 it 
+: 268 10 -8 is 
+- 280
+: 288 3 -9 I 
+: 292 5 -8 know 
+: 298 4 -8 we 
+: 303 12 -8 could 
+- 317
+: 329 3 -8 I 
+: 333 7 -5 guess 
+: 341 2 -5 we 
+: 344 9 -5 sure
+: 354 6 -5 ly 
+: 361 14 -6 would 
+- 377
+: 396 7 -5 Let’s 
+: 404 3 -5 pre
+: 408 8 -5 tend 
+: 417 7 -5 it’s 
+: 425 13 -7 not 
+- 440
+: 450 3 -8 It 
+: 454 2 -8 doe
+: 457 5 -8 sn’t 
+: 463 3 -8 mean 
+: 467 6 -10 a 
+* 474 7 -10 thing 
+- 483
+: 516 9 -8 Let’s 
+: 535 7 -6 not
+: 543 16 -3 ~ 
+- 561
+: 569 7 -3 Blow 
+: 577 4 -3 it 
+: 582 3 -3 out 
+: 586 3 -3 of 
+: 590 4 -3 all
+: 595 4 -5 ~ 
+: 600 16 -5 senses 
+- 618
+: 642 3 -5 As 
+: 646 3 -3 though 
+: 650 2 -3 it 
+: 653 5 -3 meant 
+: 659 5 -3 so 
+: 665 17 -3 much 
+- 684
+: 699 3 -3 It’s 
+: 703 2 -3 al
+: 706 4 -3 ways 
+: 711 4 -3 thought 
+: 716 2 -3 a
+: 719 4 -3 bout 
+: 724 5 -5 for 
+: 730 8 -5 weeks
+: 739 2 -3 ~
+: 742 15 -5 ~ 
+- 759
+: 772 2 -10 Not 
+: 775 3 -8 ev’
+: 779 2 -8 ry 
+* 782 12 -8 time 
+: 801 4 -8 your 
+: 806 6 -8 lips 
+: 813 6 -8 meet 
+: 820 4 -8 mine
+: 825 10 -7 ~ 
+- 837
+: 842 2 -7 I 
+* 845 26 -5 think 
+: 872 4 -5 of
+: 877 2 -7 ~ 
+: 880 8 -7 her 
+- 890
+: 899 3 -9 But 
+: 903 4 -8 when 
+: 908 3 -7 her 
+: 912 10 -7 hands 
+: 933 10 -7 reach 
+: 944 10 -8 out 
+- 956
+: 967 4 -10 I
+: 972 2 -8 ~ 
+: 975 6 -8 think 
+: 982 3 -10 of 
+* 986 17 -8 you 
+E

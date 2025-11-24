@@ -1,0 +1,204 @@
+#ARTIST:George Harrison
+#TITLE:Ballad Of Sir Frankie Crisp (Let It Roll)
+#MP3:George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll).mp3
+#CREATOR:Fepo
+#COVER:George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll) [CO].jpg
+#BACKGROUND:George Harrison - Ballad Of Sir Frankie Crisp (Let It Roll) [BG].jpg
+#GENRE:Beat
+#YEAR:1970
+#LANGUAGE:English
+#BPM:369.89
+#GAP:22880
+#VIDEO:v=6QCWZJJr3BM,co=https://m.media-amazon.com/images/I/81oVcJBV1OL.jpg,co-crop=128-0-1456-1456
+: 0 4 1 Let
+: 6 4 2  it
+: 12 13 2  roll
+: 27 2 0  a
+: 31 7 0 cross
+: 41 3 2  the
+: 46 18 -1  floor
+- 66
+: 134 6 -1 Through
+: 142 3 -1  the
+: 147 13 -1  hall,
+: 162 3 -3  and
+: 167 5 -5  out
+: 175 2 -5  the
+: 179 10 -1  door
+- 191
+: 268 4 1 To
+: 274 2 1  the
+: 278 11 4  foun
+: 291 3 6 tain
+: 296 10 2  of
+: 308 4 4  per
+: 314 5 2 pe
+: 321 7 1 tual
+: 330 14 -1  mirth
+- 346
+: 399 4 -1 Let
+: 405 4 1  it
+* 411 11 2  roll
+: 424 3 -1  for
+: 429 6 1  all
+: 437 5 2  it's
+: 445 16 1  worth
+- 463
+: 1059 5 2 Find
+: 1066 4 2  me
+: 1072 7 2  where
+: 1081 5 2  'ye
+: 1088 6 2  e
+: 1096 7 -1 cho
+: 1106 17 -1  lays
+- 1125
+: 1193 6 -1 Lose
+: 1201 4 -1  'ye
+: 1207 5 -1  bo
+: 1214 9 -1 dies
+: 1225 5 -1  in
+: 1231 3 -5  the
+: 1238 8 -3  ma
+: 1247 9 -1 ~ze
+- 1258
+: 1327 6 1 See
+: 1335 2 2  the
+: 1339 11 4  Lord
+: 1352 3 1  and
+: 1357 5 2  all
+: 1364 6 4  the
+: 1372 7 2  mouths
+: 1381 4 2  he
+: 1387 15 -1  feeds
+- 1404
+: 1460 3 -1 Let
+: 1465 5 1  it
+* 1472 11 2  roll
+: 1485 3 -1  a
+: 1490 6 1 mong
+: 1498 6 2  the
+: 1506 19 1  weeds
+- 1527
+: 1558 7 6 Let
+: 1567 4 6  it
+: 1573 7 4  ro
+: 1581 9 2 ~ll
+- 1592
+: 2184 3 0 Let
+: 2189 2 2  it
+: 2193 10 2  roll
+: 2206 6 2  out
+: 2216 6 0  through
+: 2225 2 0  the
+: 2229 15 -1  caves
+- 2246
+: 2315 3 -1 'Ye
+: 2320 5 -1  long
+: 2327 12 -1  walks
+: 2341 5 -1  of
+: 2348 7 -5  Coole
+: 2357 3 -1  and
+: 2362 10 -3  Shades
+- 2374
+: 2448 5 1 Through
+: 2455 3 1  'ye
+: 2460 11 4  Woode,
+: 2473 3 1  here
+: 2478 7 2  may
+: 2487 4 4  'ye
+: 2494 9 2  rest
+: 2506 3 2  a
+: 2511 18 -1 while
+- 2531
+: 2580 6 -1 Hand
+: 2588 4 -1 ker
+: 2594 9 2 chiefs
+: 2605 3 -1  to
+: 2610 8 2  match
+: 2620 5 2  your
+: 2627 15 1  tie
+- 2644
+: 2680 7 6 Let
+: 2689 4 6  it
+: 2695 7 4  ro
+: 2703 9 2 ~ll
+- 2714
+: 2940 5 9 Let
+: 2947 5 9  it
+: 2954 9 9  ro
+: 2964 9 7 ~ll
+- 2975
+: 3006 6 4 Let
+: 3014 3 4  it
+: 3019 19 4  roll
+- 3040
+: 3072 5 7 Let
+: 3079 3 7  it
+* 3084 18 7  roll,
+- 3104
+: 3138 4 2 Let
+: 3144 4 2  it
+: 3150 14 -1  roll
+- 3166
+: 3237 7 2 Fools
+: 3246 3 2  i
+: 3251 5 2 llu
+: 3258 6 2 sions
+: 3266 8 2  eve
+: 3276 6 0 ry
+: 3284 9 -1 where
+- 3295
+: 3371 7 -1 Joan
+: 3380 2 -1  and
+: 3384 6 -1  Mol
+: 3392 5 -1 ly
+: 3399 8 -1  sweeps
+: 3412 3 -3  the
+: 3417 8 -3  stai
+: 3427 7 -1 ~r
+- 3436
+: 3503 8 1 Eyes
+: 3513 4 1  are
+: 3519 7 4  shi
+: 3528 4 1 ning
+: 3535 6 2  full
+: 3543 6 4  of
+: 3551 4 2  in
+: 3557 6 1 ner
+: 3565 20 -1  light
+- 3587
+: 3636 5 -1 Let
+: 3643 3 -1  it
+: 3648 9 2  roll
+: 3670 4 -1  in
+: 3676 3 2 to
+: 3681 17 1  night
+- 3700
+: 4451 7 7 Let
+: 4460 3 6  it
+: 4465 8 6  ro
+: 4474 7 4 ~ll
+- 4483
+: 4518 4 6 Let
+: 4524 5 6  it
+: 4531 15 -1  roll
+- 4548
+: 4582 5 7 Let
+: 4589 3 7  it
+: 4594 10 9  ro
+: 4606 3 7 ~
+: 4611 11 4 ~ll
+- 4624
+: 4648 6 4 Let
+: 4656 4 6  it
+: 4662 16 4  roll
+- 4680
+: 4713 4 7 Let
+: 4719 4 7  it
+: 4725 9 6  ro
+: 4735 10 4 ~ll
+- 4747
+: 4778 5 -1 Let
+: 4785 3 -1  it
+: 4790 13 -1  roll
+E

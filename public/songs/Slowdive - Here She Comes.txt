@@ -1,0 +1,85 @@
+#ARTIST:Slowdive
+#TITLE:Here She Comes
+#MP3:Slowdive - Here She Comes.mp3
+#CREATOR:dude76
+#GENRE:Shoegaze
+#YEAR:1993
+#LANGUAGE:English
+#BPM:263
+#GAP:21560
+#VIDEO:a=ijEBnd0D3WQ,co=souvlaki-55ba7c6c4554c.jpg,bg=slowdive-59f26b62ed8fd.jpg
+: 0 4 11 It’s 
+: 6 6 11 so 
+: 14 13 13 lone
+: 29 11 10 ly 
+: 42 20 11 in 
+: 64 6 13 this 
+: 72 28 11 place 
+- 102
+: 124 6 15 So 
+: 132 14 15 cold 
+: 148 4 13 I 
+: 154 21 15 don’t 
+: 177 4 13 be
+: 183 26 11 lieve 
+- 211
+: 335 8 11 And 
+: 345 3 11 as 
+: 350 11 13 no 
+: 363 13 10 one 
+: 378 17 11 knows 
+: 397 8 13 my 
+: 407 29 11 name 
+- 438
+: 461 6 11 It’s 
+: 469 7 13 ea
+: 478 14 13 sy 
+: 494 15 10 to 
+: 511 3 10 pre
+: 516 23 8 tend 
+- 541
+: 573 6 11 It’s 
+: 581 6 15 ea
+: 589 15 15 sy 
+: 606 16 13 to 
+* 624 3 15 be
+* 629 21 15 lieve 
+- 652
+: 894 7 11 There’s 
+: 903 1 11 a 
+: 905 16 13 sha
+: 923 12 10 dow 
+: 937 19 11 on 
+: 958 4 13 my 
+: 964 24 11 wall 
+- 990
+: 1020 6 11 It 
+: 1028 7 13 dan
+: 1037 11 13 ces 
+: 1050 15 15 like 
+: 1067 4 13 my 
+: 1073 28 11 soul 
+- 1103
+: 1139 8 15 Dan
+: 1149 10 15 ces 
+: 1161 19 13 like 
+: 1182 3 15 my 
+: 1186 29 15 soul 
+- 1217
+: 1453 5 11 It’s 
+: 1460 5 11 so 
+: 1467 12 13 cold 
+: 1481 30 15 now 
+- 1513
+: 1579 2 11 I 
+: 1582 18 15 swear 
+: 1602 4 15 it 
+: 1608 19 13 will 
+: 1629 4 15 be 
+: 1635 28 11 warm 
+- 1665
+: 1733 4 11 Here 
+: 1739 7 11 she 
+: 1748 11 13 come 
+* 1761 29 15 now 
+E

@@ -1,0 +1,127 @@
+#ARTIST:Green Day
+#TITLE:Song Of The Century
+#MP3:Green Day - Song Of The Century.mp3
+#CREATOR:RetroGirl
+#EDITION:Green Day Rock Band
+#GENRE:Rock
+#YEAR:2009
+#LANGUAGE:English
+#BPM:394.77
+#GAP:7520
+#VIDEO:v=XTWUD4mi_GE,co=21st-century-breakdown-52a297ca71cac.jpg,bg=green-day-50ffbad4a8916.jpg
+: 0 12 12 Sing 
+: 13 5 12 us 
+: 23 1 14 a 
+: 29 6 14 song
+: 36 7 16 ~ 
+: 45 6 14 of 
+: 54 3 12 the 
+: 64 6 7 cen
+: 71 7 9 ~
+: 85 7 7 tu
+: 94 17 7 ry 
+- 113
+F 124 1 7 That’s 
+: 128 11 12 lou
+: 140 6 12 der 
+: 148 4 14 than 
+* 157 2 14 bombs
+: 160 5 16 ~ 
+: 169 7 14 and 
+* 179 4 12 e
+: 188 17 14 ter
+* 208 7 16 ni
+: 218 15 14 ty 
+- 235
+: 243 2 4 The 
+: 250 9 12 e
+: 260 7 12 ra 
+: 269 2 14 of 
+: 278 3 14 sta
+: 282 6 16 ~
+: 290 4 14 tic 
+: 298 4 12 and 
+: 307 5 7 con
+: 313 8 9 ~
+: 327 6 7 tra
+: 337 16 7 band 
+- 355
+F 368 1 0 That’s 
+: 371 7 12 lea
+* 380 7 12 ding 
+: 389 5 14 us 
+* 399 3 14 in
+: 403 4 16 ~
+: 411 6 14 to 
+: 419 3 12 the 
+: 428 18 14 Pro
+* 450 4 16 mised 
+: 460 15 14 Land 
+- 477
+: 494 9 9 Tell 
+: 505 5 12 us 
+: 514 1 11 a 
+: 519 13 12 sto
+: 534 8 7 ry 
+: 544 4 7 that’s 
+: 555 8 5 by 
+: 566 8 12 can
+: 576 5 11 dle
+: 583 15 12 light 
+- 600
+: 618 7 9 Wa
+: 629 8 12 ging 
+* 638 3 11 a 
+* 643 14 12 war
+: 658 8 7 ~ 
+* 668 4 7 and 
+* 676 6 5 lo
+* 687 5 12 sing 
+: 694 2 12 the 
+: 701 14 14 fight 
+- 717
+: 736 3 4 They’re 
+: 745 11 12 play
+: 757 4 12 ing 
+: 764 5 14 a 
+: 775 3 14 song
+: 779 6 16 ~ 
+: 787 7 14 of 
+: 797 3 12 the 
+: 806 4 7 cen
+: 811 10 9 ~
+: 829 8 7 tu
+: 838 15 7 ry 
+- 855
+: 869 9 12 Pa
+: 880 4 12 nic 
+: 890 3 14 and 
+: 898 4 14 pro
+: 903 6 16 ~
+: 911 4 14 mise 
+: 920 4 12 and 
+: 929 6 14 pro
+: 940 8 14 spe
+: 949 6 16 ri
+: 957 17 14 ty 
+- 976
+: 995 10 9 Tell 
+: 1008 7 12 me 
+: 1016 1 11 a 
+: 1024 12 12 sto
+: 1038 11 7 ry 
+: 1050 2 7 in
+: 1059 8 5 to 
+: 1069 7 12 that 
+: 1082 4 11 good 
+: 1091 17 12 night 
+- 1110
+: 1138 8 7 Sing 
+: 1149 6 12 us 
+: 1159 1 12 a 
+: 1166 6 12 song
+: 1173 42 14 ~
+: 1216 2 12 ~ 
+: 1223 13 12 for 
+: 1241 32 12 me 
+E

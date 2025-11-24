@@ -1,0 +1,229 @@
+#ARTIST:Dune
+#TITLE:Hand In Hand
+#MP3:Dune - Hand In Hand.mp3
+#CREATOR:Endlager
+#YEAR:1996
+#LANGUAGE:English
+#BPM:343.3
+#GAP:58800
+#VIDEO:v=XtCTwPCyw1A,co=https://i.discogs.com/V7DsAt7_sbfhiO-KQlMIHCgmuJtGE4FVJ0G8w7DbAjo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc3/MC0xNDkyNjIyMjk0/LTE4MDcuanBlZw.jpeg,bg=dune-58e114ba6b055.jpg
+: 0 6 5 Let’s 
+: 8 6 6 go 
+: 16 15 8 hand 
+: 32 14 10 in 
+: 48 14 8 hand 
+- 63
+: 64 7 10 In
+: 72 6 12 to 
+: 80 14 13 love
+: 96 14 12 ly 
+: 112 14 10 land 
+- 127
+: 128 6 13 Side 
+: 136 6 10 by 
+: 144 12 8 side 
+- 158
+: 160 7 5 To 
+: 168 6 6 a 
+: 176 6 8 world 
+: 184 6 10 that 
+- 191
+: 192 7 5 Shines 
+: 200 7 3 so 
+: 208 32 5 bright 
+- 242
+: 256 7 5 Let’s 
+: 264 6 6 go 
+: 272 14 8 hand 
+: 288 14 10 in 
+: 304 12 8 hand 
+- 318
+: 320 7 7 In
+: 328 7 12 to 
+: 336 14 13 love
+: 352 14 12 ly 
+: 368 14 10 land 
+- 383
+: 384 6 13 Side 
+: 392 6 10 by 
+: 400 14 8 side 
+- 415
+: 416 7 5 Fol
+: 424 7 6 low 
+: 432 6 8 me 
+: 440 6 8 in
+: 448 7 10 to 
+: 456 7 12 the 
+: 464 42 13 light 
+- 508
+: 512 6 5 Let’s 
+: 520 6 6 go 
+: 528 15 8 hand 
+: 544 14 10 in 
+: 560 14 8 hand 
+- 575
+: 576 7 10 In
+: 584 6 12 to 
+: 592 14 13 love
+: 608 14 12 ly 
+: 624 14 10 land 
+- 639
+: 640 6 13 Side 
+: 648 6 10 by 
+: 656 12 8 side 
+- 670
+: 672 7 5 To 
+: 680 6 6 a 
+: 688 6 8 world 
+: 696 6 10 that 
+- 703
+: 704 7 4 Shines 
+: 712 7 3 so 
+: 720 32 5 bright 
+- 754
+: 768 7 5 Let’s 
+: 776 6 6 go 
+: 784 14 8 hand 
+: 800 14 10 in 
+: 816 12 8 hand 
+- 830
+: 832 7 10 In
+: 840 7 12 to 
+: 848 14 13 love
+: 864 14 12 ly 
+: 880 14 10 land 
+- 895
+: 896 6 13 Side 
+: 904 6 10 by 
+: 912 14 8 side 
+- 927
+: 928 7 5 Fol
+: 936 7 6 low 
+: 944 6 8 me 
+: 952 6 8 in
+: 960 7 10 to 
+: 968 7 12 the 
+: 976 42 13 light 
+- 1020
+: 1792 7 5 Let’s 
+: 1800 6 6 go 
+: 1808 14 8 hand 
+: 1824 14 10 in 
+: 1840 12 8 hand 
+- 1854
+: 1856 7 10 In
+: 1864 7 12 to 
+: 1872 14 13 love
+: 1888 14 12 ly 
+: 1904 14 10 land 
+- 1919
+: 1920 6 18 Side 
+: 1928 6 10 by 
+: 1936 14 8 side 
+- 1951
+: 1952 7 5 Fol
+: 1960 7 6 low 
+: 1968 6 8 me 
+: 1976 6 8 in
+: 1984 7 10 to 
+: 1992 7 12 the 
+* 2000 42 13 light 
+- 2044
+: 2048 6 5 Let’s 
+: 2056 6 6 go 
+: 2064 15 8 hand 
+: 2080 14 10 in 
+: 2096 14 8 hand 
+- 2111
+: 2112 7 10 In
+: 2120 6 12 to 
+: 2128 14 13 love
+: 2144 14 12 ly 
+: 2160 14 10 land 
+- 2175
+: 2176 6 13 Side 
+: 2184 6 10 by 
+: 2192 12 8 side 
+- 2206
+: 2208 7 5 To 
+: 2216 6 6 a 
+: 2224 6 8 world 
+: 2232 6 10 that 
+- 2239
+: 2240 7 5 Shines 
+: 2248 7 3 so 
+* 2256 32 5 bright 
+- 2290
+: 2304 7 5 Let’s 
+: 2312 6 6 go 
+: 2320 14 8 hand 
+: 2336 14 10 in 
+: 2352 12 8 hand 
+- 2366
+: 2368 7 10 In
+: 2376 7 12 to 
+: 2384 14 13 love
+: 2400 14 12 ly 
+: 2416 14 10 land 
+- 2431
+: 2432 6 13 Side 
+: 2440 6 10 by 
+: 2448 14 8 side 
+- 2463
+: 2464 7 5 Fol
+: 2472 7 6 low 
+: 2480 6 8 me 
+: 2488 6 8 in
+: 2496 7 10 to 
+: 2504 7 12 the 
+: 2512 42 13 light 
+- 2556
+: 2560 6 5 Let’s 
+: 2568 6 6 go 
+: 2576 15 8 hand 
+: 2592 14 10 in 
+: 2608 14 8 hand 
+- 2623
+: 2624 7 10 In
+: 2632 6 12 to 
+: 2640 14 13 love
+: 2656 14 12 ly 
+: 2672 14 10 land 
+- 2687
+: 2688 6 13 Side 
+: 2696 6 10 by 
+: 2704 12 8 side 
+- 2718
+: 2720 7 5 To 
+: 2728 6 6 a 
+: 2736 6 8 world 
+: 2744 6 10 that 
+- 2751
+: 2752 7 5 Shines 
+: 2760 7 3 so 
+: 2768 32 5 bright 
+- 2802
+: 2816 7 5 Let’s 
+: 2824 6 6 go 
+: 2832 14 8 hand 
+: 2848 14 10 in 
+: 2864 12 8 hand 
+- 2878
+: 2880 7 10 In
+: 2888 7 12 to 
+: 2896 14 13 love
+: 2912 14 12 ly 
+: 2928 14 10 land 
+- 2943
+: 2944 6 13 Side 
+: 2952 6 10 by 
+: 2960 14 8 side 
+- 2975
+: 2976 7 5 Fol
+: 2984 7 6 low 
+: 2992 6 8 me 
+: 3000 6 8 in
+: 3008 7 10 to 
+: 3016 7 12 the 
+* 3024 42 13 light 
+E

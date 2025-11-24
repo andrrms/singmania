@@ -1,0 +1,200 @@
+#ARTIST:50 First Dates (Adam Sandler)
+#TITLE:Forgetful Lucy
+#MP3:50 First Dates (Adam Sandler) - Forgetful Lucy.mp3
+#CREATOR:livewireau
+#YEAR:2004
+#LANGUAGE:English
+#BPM:206.3
+#GAP:10110
+#VIDEO:v=6-nC2ToHVQc,co=https://m.media-amazon.com/images/I/81AsgdtN3oL.jpg,bg=sandler-adam-504aeea833eb0.jpg
+: 0 1 11 The 
+: 2 1 10 Huk
+: 6 2 11 i
+: 10 2 16 lau 
+: 15 2 20 was 
+: 19 2 16 the 
+: 23 6 20 place 
+- 31
+: 62 2 15 Where 
+: 66 2 15 I 
+: 70 4 20 first 
+: 76 2 9 saw 
+: 79 3 9 your 
+: 85 7 11 face 
+- 94
+: 124 2 15 We 
+: 129 5 20 liked 
+: 136 2 11 each 
+: 140 2 13 o
+: 143 2 10 ther 
+: 146 2 18 right 
+: 149 2 11 a
+: 152 6 11 way 
+- 160
+: 186 3 15 But 
+: 190 2 15 you 
+: 194 2 17 did
+: 197 1 11 n’t 
+: 199 1 16 re
+: 201 2 16 mem
+: 204 1 18 ber 
+: 206 2 12 me 
+- 209
+: 209 2 12 The 
+: 212 1 13 ve
+: 214 1 13 ry 
+: 216 1 13 next 
+: 219 3 13 day 
+- 224
+: 255 1 11 For
+: 257 12 11 get
+: 272 11 15 ful 
+* 285 4 15 Lu
+* 291 8 18 cy 
+- 301
+: 317 2 16 Has 
+: 320 4 16 got 
+: 326 5 9 a 
+: 334 7 13 nice 
+: 343 2 9 ca
+: 347 5 16 boo
+: 354 9 16 sey 
+- 365
+: 384 2 10 I 
+: 387 2 17 used 
+: 390 2 16 to 
+: 394 1 15 trick 
+: 396 1 18 you 
+: 399 1 19 in
+: 402 1 16 to 
+: 404 1 11 pull
+: 406 1 19 ing 
+- 408
+: 408 1 16 Your 
+: 410 1 15 car 
+: 413 1 20 o
+: 415 1 20 ver 
+: 417 1 20 so 
+: 419 1 20 we 
+: 423 1 16 could 
+: 427 2 19 chat 
+- 431
+: 445 1 11 But 
+: 449 2 11 my 
+: 455 1 16 fav
+: 457 1 16 or
+: 459 1 20 ite 
+: 463 1 9 time 
+: 466 1 20 was 
+: 469 1 20 when 
+- 471
+: 472 1 16 You 
+: 473 1 9 beat 
+: 474 1 9 the 
+: 476 1 9 shit 
+: 478 1 9 out 
+: 480 1 20 of 
+: 482 1 16 U
+: 484 1 9 la 
+: 485 1 20 with 
+: 487 1 20 a 
+: 489 1 9 bat 
+- 492
+: 509 1 15 Then 
+: 512 3 11 we 
+: 516 2 10 drove 
+: 519 2 18 up 
+: 522 1 18 to 
+: 525 1 16 see 
+: 529 4 18 Dr 
+: 535 5 11 Keats 
+- 542
+: 570 2 11 And 
+: 573 2 11 found 
+: 577 2 16 out 
+: 582 3 20 why 
+: 588 2 19 Doug 
+: 594 1 12 al
+: 597 1 12 ways 
+- 599
+: 599 1 9 Has 
+: 601 1 11 to 
+: 603 1 12 change 
+: 607 2 15 his 
+: 610 4 11 sheets 
+- 616
+: 637 1 11 For
+: 640 12 18 get
+: 654 12 15 ful 
+: 668 3 18 Lu
+: 674 8 18 cy 
+- 684
+: 693 2 18 Cracked 
+: 697 2 20 her 
+: 700 5 9 head 
+: 707 6 9 like 
+: 715 6 13 Ga
+: 723 2 13 ry 
+: 727 7 16 Bu
+: 736 10 16 sey 
+- 748
+: 759 2 11 But 
+: 762 1 16 I 
+: 764 3 18 still 
+: 770 1 15 love 
+: 772 2 18 her 
+: 777 7 11 so 
+- 786
+: 817 2 15 And 
+: 821 5 11 I’ll 
+: 827 2 15 ne
+: 830 1 9 ver 
+: 833 2 16 let 
+: 836 2 20 her 
+: 839 7 9 go 
+- 848
+: 880 2 17 E
+: 883 2 11 ven 
+: 887 2 11 if 
+: 890 2 10 while 
+: 894 1 18 I’m 
+: 897 2 11 sing
+: 901 2 11 ing 
+: 904 2 11 this 
+: 907 8 11 song 
+- 917
+: 941 2 18 She’s 
+: 945 2 11 wish
+: 949 2 20 ing 
+: 952 2 10 I 
+: 955 2 11 had 
+: 958 2 20 Jock
+: 961 1 12 o 
+- 964
+: 969 1 12 The 
+: 971 1 13 wal
+: 974 1 10 rus’ 
+: 977 1 15 schlong 
+- 980
+: 1012 1 20 For
+: 1015 11 11 get
+: 1028 13 15 ful 
+: 1042 4 15 Lu
+: 1049 12 18 cy 
+- 1063
+: 1072 3 18 Her 
+: 1077 5 11 lips 
+: 1084 6 9 are 
+: 1091 5 9 so 
+: 1097 7 13 damn 
+: 1107 5 16 jui
+: 1113 12 16 cy 
+- 1127
+: 1132 2 17 How 
+: 1136 3 20 bout 
+: 1141 2 20 a
+: 1144 5 20 no
+: 1150 2 20 ther 
+: 1153 6 18 first 
+: 1161 15 11 kiss 
+E

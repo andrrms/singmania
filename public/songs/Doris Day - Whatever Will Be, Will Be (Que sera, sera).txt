@@ -1,0 +1,227 @@
+#ARTIST:Doris Day
+#TITLE:Whatever Will Be, Will Be (Que sera, sera)
+#MP3:Doris Day - Whatever Will Be, Will Be (Que sera, sera).mp3
+#CREATOR:RES
+#YEAR:1956
+#LANGUAGE:English
+#BPM:345.5
+#GAP:8280
+#VIDEO:a=tV0CegHzums,co=https://media.hitparade.ch/cover/big/doris_day-whatever_will_be_will_be_(que_sera_sera)_s.jpg,co-crop=0-0-699-699,bg=day-doris-5048044e26cb7.jpg
+: 0 7 -3 When 
+: 8 7 -1 I 
+: 16 7 1 was 
+: 24 14 4 just 
+: 40 7 1 a 
+: 48 15 4 lit
+: 64 7 1 tle 
+: 72 18 4 girl 
+- 94
+: 96 6 1 I 
+: 104 8 4 asked 
+: 115 4 1 my 
+: 120 3 6 mo
+: 125 13 4 ther 
+: 142 6 6 what 
+: 150 5 4 will 
+: 157 7 1 I 
+: 165 18 2 be 
+- 193
+: 210 8 8 Will 
+: 220 6 9 I 
+: 228 6 11 be 
+: 236 4 9 pret
+: 241 12 8 ty, 
+: 259 4 6 will 
+: 264 2 6 I
+: 267 6 8 ~ 
+: 274 5 9 be 
+: 282 7 8 rich 
+- 299
+: 306 6 2 Here’s 
+: 313 6 4 what 
+: 321 6 6 she 
+: 329 8 4 said 
+: 345 6 -4 to 
+: 353 10 -3 me 
+- 373
+: 384 10 9 Que 
+: 396 3 7 se
+: 400 12 6 ra, 
+: 420 3 2 se
+: 424 20 6 ra 
+- 454
+: 461 6 8 What 
+: 469 6 11 e
+: 477 6 9 ver 
+: 485 6 6 will 
+: 493 12 4 be, 
+: 508 6 -3 will 
+: 517 22 1 be 
+- 551
+: 555 6 3 The 
+: 563 4 6 fu
+: 570 6 4 ture’s 
+: 578 8 1 not 
+: 588 11 4 ours 
+* 602 4 -1 to 
+* 609 20 4 see 
+- 638
+: 641 9 -1 Que 
+: 652 4 1 se
+: 658 11 2 ra, 
+: 676 4 -4 se
+: 681 8 -3 ra 
+- 699
+: 735 6 -1 What 
+: 743 6 1 will 
+: 751 12 2 be, 
+: 765 6 -4 will 
+: 774 21 -3 be 
+- 818
+: 844 6 -3 When 
+: 852 6 -1 I 
+: 860 6 1 grew 
+: 868 18 4 up 
+: 893 7 4 and 
+: 902 3 4 fell 
+: 906 8 4 in 
+: 916 11 4 love 
+- 937
+: 941 6 1 I 
+: 948 5 4 asked 
+: 958 5 1 my 
+: 964 5 6 sweet
+: 970 12 4 heart 
+: 986 6 6 what 
+: 995 6 4 lies 
+: 1004 4 1 a
+: 1009 18 2 head 
+- 1037
+: 1057 6 8 Will 
+: 1066 5 9 we 
+: 1073 5 11 have 
+: 1081 8 9 rain
+: 1090 11 8 bows 
+: 1104 6 6 day 
+: 1113 7 8 af
+: 1124 3 9 ter 
+: 1128 14 8 day 
+- 1149
+: 1152 6 2 Heres 
+: 1160 6 4 what 
+: 1168 6 6 my 
+* 1176 5 4 sweet
+* 1182 8 -4 heart 
+: 1198 10 -3 say 
+- 1218
+: 1230 8 9 Que 
+: 1241 4 7 se
+: 1246 12 6 ra, 
+: 1264 3 2 se
+: 1268 14 6 ra 
+- 1292
+: 1307 6 8 What 
+: 1315 4 11 e
+: 1322 6 9 ver 
+: 1331 6 6 will 
+: 1339 12 4 be, 
+: 1354 7 -3 will 
+: 1363 17 1 be 
+- 1390
+: 1402 6 3 The 
+: 1410 6 6 fu
+: 1418 6 4 ture’s 
+: 1426 6 1 not 
+: 1433 13 4 ours 
+: 1449 4 -1 to 
+: 1456 18 4 see 
+- 1486
+: 1490 6 -1 Que 
+: 1499 4 1 se
+: 1504 10 2 ra, 
+: 1524 3 -4 se
+: 1528 12 -3 ra 
+- 1550
+: 1584 6 -1 What 
+: 1592 6 1 will 
+: 1600 12 2 be, 
+: 1616 5 -4 will 
+: 1624 18 -3 be 
+- 1665
+: 1694 6 -3 Now 
+: 1703 6 -1 I 
+: 1710 6 1 have 
+: 1719 14 4 chil
+: 1735 7 1 dren 
+: 1744 14 4 of 
+: 1760 7 1 my 
+: 1768 14 4 own 
+- 1788
+: 1791 6 1 They 
+: 1799 7 4 ask 
+: 1811 3 1 their 
+: 1815 4 6 mo
+: 1820 12 4 ther 
+: 1838 6 6 what 
+: 1846 4 4 will 
+: 1853 6 1 I 
+: 1862 22 2 be 
+- 1894
+: 1908 7 8 Will 
+: 1918 7 9 I 
+: 1927 5 11 be 
+: 1934 6 9 hand
+: 1943 10 8 some 
+: 1959 5 6 will 
+: 1965 9 8 I 
+: 1976 6 9 be 
+: 1984 7 8 rich 
+- 2001
+: 2008 6 2 I 
+: 2016 6 4 tell 
+* 2024 7 6 them 
+* 2032 11 4 ten
+* 2048 7 -4 der
+* 2056 12 -3 ly 
+- 2078
+: 2088 10 9 Que 
+: 2100 3 7 se
+: 2104 12 6 ra, 
+: 2123 3 2 se
+: 2127 19 6 ra 
+- 2156
+: 2164 6 8 What 
+: 2174 6 11 e
+: 2182 6 9 ver 
+: 2190 6 6 will 
+: 2198 12 4 be, 
+: 2214 6 -3 will 
+: 2222 20 1 be 
+- 2252
+: 2260 6 3 The 
+: 2268 6 6 fu
+: 2276 6 4 tures 
+* 2284 6 1 not 
+: 2292 11 4 ours 
+: 2306 4 -1 to 
+: 2313 16 4 see 
+- 2341
+: 2345 6 -1 Que 
+: 2356 3 1 se
+: 2360 12 2 ra, 
+: 2380 3 1 se
+: 2384 3 1 ra
+: 2388 21 -3 ~ 
+- 2419
+: 2439 6 -1 What 
+: 2448 6 1 will 
+: 2455 12 2 be, 
+: 2470 7 -4 will 
+: 2479 38 -3 be 
+- 2527
+: 2534 6 -1 Que 
+: 2542 7 2 se
+: 2550 12 6 ra, 
+: 2565 7 8 se
+* 2573 47 9 ra 
+E

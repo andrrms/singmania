@@ -1,0 +1,611 @@
+#ARTIST:Fat Boys with Chubby Checker
+#TITLE:The Twist
+#MP3:Fat Boys with Chubby Checker - The Twist.mp3
+#CREATOR:Fepo
+#GENRE:Pop-Rock Oldies
+#YEAR:1988
+#LANGUAGE:English
+#BPM:314.6
+#GAP:2900
+#VIDEO:v=m_Org--M39s,co=https://media.hitparade.ch/cover/800/fat_boys_with_chubby_checker-the_twist_s.jpg,bg=fat-boys-5070caee204ec.jpg
+F 0 14 8 Twist 
+- 16
+: 20 47 11 Ahh, 
+F 73 4 11 we’re 
+F 82 7 11 back 
+- 91
+: 124 2 4 Come 
+: 128 4 8 on, 
+: 136 5 8 ba
+: 144 4 8 by 
+- 150
+: 180 4 4 Let’s 
+: 188 4 8 do 
+: 196 4 6 the 
+: 204 7 4 twist 
+- 213
+: 253 3 4 Come 
+: 258 5 8 on, 
+: 266 3 6 ba
+: 271 6 4 ~
+: 282 18 9 by 
+- 302
+: 309 4 4 Let’s 
+* 317 4 8 do 
+* 325 4 6 the 
+* 333 7 4 twist 
+- 342
+: 369 2 8 Take 
+: 373 3 8 me 
+: 378 4 8 by 
+: 385 3 6 my 
+: 390 2 8 lit
+: 394 2 4 tle 
+: 398 5 6 ha
+: 405 3 -1 ~nd 
+- 410
+: 438 2 1 And 
+: 443 4 4 go 
+: 453 4 4 like 
+: 461 7 4 this 
+- 470
+F 522 2 8 The 
+F 526 3 8 par
+F 531 2 8 ty 
+F 535 3 8 was 
+F 540 3 8 packed 
+- 545
+F 547 2 8 I’m 
+F 551 2 8 tal
+F 555 2 8 king 
+F 559 5 8 back 
+F 566 2 8 to 
+F 571 3 8 back 
+- 576
+F 578 3 8 There 
+F 582 1 8 was 
+F 586 2 8 a 
+F 589 2 8 rap
+F 594 2 8 per 
+F 598 3 8 that 
+F 603 2 8 was 
+F 607 2 8 rap
+F 611 2 8 ping 
+- 614
+F 615 2 8 To 
+F 618 2 8 a 
+F 623 2 8 beat 
+F 627 2 8 that 
+F 631 2 8 was 
+F 634 4 8 wack 
+- 640
+F 646 3 8 They 
+F 650 2 8 was 
+F 654 2 8 go
+F 658 2 8 ing 
+F 662 2 8 through 
+F 666 2 8 the 
+F 670 2 8 mo
+F 674 2 8 tions 
+- 678
+F 679 3 8 Out 
+F 684 5 8 on 
+F 691 2 8 the 
+F 695 5 8 dance 
+F 702 3 8 floor 
+- 707
+F 708 2 8 And 
+F 712 2 8 when 
+F 716 2 8 the 
+F 720 2 8 rap
+F 724 2 8 per 
+F 728 2 8 was 
+F 732 4 8 done 
+- 738
+F 739 2 8 They 
+F 743 2 8 wa
+F 747 2 8 sn’t 
+F 751 2 8 yel
+F 755 2 8 ling 
+F 759 5 8 en
+F 766 4 8 core 
+- 772
+F 780 2 8 The 
+F 784 2 8 peo
+F 788 2 8 ple 
+F 792 2 8 were 
+F 796 2 8 ti
+F 799 2 8 red 
+- 803
+F 808 2 8 Of 
+F 812 2 8 the 
+F 816 2 8 same 
+F 820 6 8 old 
+F 828 4 8 groove 
+- 834
+F 836 2 8 They 
+F 840 2 8 wan
+F 844 2 8 ted 
+F 848 2 8 some
+F 852 2 8 thing 
+F 858 6 8 def 
+- 866
+F 872 2 8 Some
+F 876 2 8 thing 
+F 880 3 8 new 
+F 885 2 8 and 
+F 889 2 8 im
+F 893 3 8 proved 
+- 898
+F 904 2 8 Some
+F 908 2 8 thing 
+F 912 2 8 ea
+F 916 2 8 sy 
+F 920 2 8 to 
+F 925 4 8 do 
+- 931
+F 936 4 8 But 
+F 944 3 8 hard 
+F 949 2 8 to 
+F 953 2 8 re
+F 957 2 8 sist 
+- 961
+F 968 2 8 I 
+F 972 2 8 got 
+F 976 2 8 some
+F 980 2 8 thing 
+F 984 2 8 for 
+F 988 5 8 y’all 
+- 995
+F 997 2 8 What 
+F 1001 2 8 do 
+F 1005 2 8 you 
+F 1009 2 8 call 
+F 1013 2 8 it 
+F 1017 2 8 the 
+F 1021 2 8 twist 
+- 1025
+: 1026 2 4 Come 
+: 1030 3 8 on, 
+: 1036 5 8 ba
+: 1045 4 8 by 
+- 1051
+: 1079 4 4 Let’s 
+: 1087 4 8 do 
+: 1095 4 6 the 
+: 1103 7 4 twist 
+- 1112
+: 1142 5 8 Chub
+: 1149 2 8 by 
+: 1153 2 8 Chec
+: 1157 2 8 ker 
+: 1161 2 8 and 
+: 1165 2 6 the 
+: 1169 6 4 Fat 
+: 1180 17 9 Boys 
+- 1199
+: 1208 4 4 We’re 
+* 1214 4 8 do
+: 1221 3 8 ing 
+: 1226 3 8 the 
+* 1233 7 4 twist 
+- 1242
+: 1269 3 8 Take 
+: 1274 2 8 us 
+: 1278 4 8 by 
+: 1285 3 6 our 
+: 1290 2 8 lit
+: 1294 2 4 tle 
+: 1298 5 6 hand 
+- 1305
+: 1338 2 2 And 
+: 1343 3 4 go
+: 1348 2 -1 ~ 
+: 1353 4 4 like 
+: 1362 5 4 this 
+- 1369
+F 1394 4 11 We, 
+F 1405 4 11 we, 
+F 1422 3 9 we 
+F 1427 2 8 broke 
+F 1431 2 7 in
+F 1435 2 8 to 
+F 1439 2 8 the 
+F 1443 2 6 booth 
+- 1447
+F 1451 2 8 And 
+F 1455 2 8 the 
+F 1459 2 8 re
+F 1463 3 8 cord 
+F 1469 3 8 stacks 
+- 1474
+F 1482 6 8 Came 
+F 1491 2 8 up 
+F 1495 2 8 with 
+F 1499 2 8 the 
+F 1503 2 8 twist 
+- 1507
+F 1511 2 8 And 
+F 1515 2 8 we 
+F 1519 2 8 were 
+F 1523 3 8 scrat
+F 1528 2 8 ching 
+F 1532 2 8 the 
+F 1536 7 8 track 
+- 1545
+F 1546 2 8 Peo
+F 1550 2 8 ple 
+F 1554 2 8 star
+F 1558 2 8 ted 
+F 1562 2 8 jam
+F 1566 2 8 ming 
+F 1570 4 8 hard 
+- 1576
+F 1580 2 8 To 
+F 1584 2 8 the 
+F 1588 2 8 fun
+F 1592 3 8 ky 
+F 1600 6 8 sound 
+- 1608
+F 1612 2 8 Did 
+F 1616 2 8 the 
+F 1620 2 8 twist 
+F 1628 2 8 down 
+F 1632 2 8 and 
+F 1636 4 8 up 
+- 1642
+F 1648 2 8 Then 
+F 1653 2 8 up 
+F 1657 5 8 and 
+F 1664 7 8 down 
+- 1673
+F 1676 2 8 Then 
+F 1680 2 8 I 
+F 1684 2 8 heard 
+F 1688 2 8 some
+F 1692 2 8 bo
+F 1696 2 8 dy 
+F 1700 4 8 yell 
+- 1706
+F 1708 3 8 Yo, 
+F 1715 4 8 Chub
+F 1721 2 8 by’s 
+F 1728 6 8 here 
+- 1735
+F 1736 2 8 The 
+F 1740 2 8 peo
+F 1744 2 8 ple 
+F 1748 2 8 took 
+F 1752 2 8 a 
+F 1756 2 8 lit
+F 1760 2 8 tle 
+F 1764 3 8 pause 
+- 1769
+F 1772 2 8 Just 
+F 1776 2 8 to 
+F 1780 3 8 stop 
+F 1786 2 8 and 
+F 1792 4 8 stare 
+- 1798
+F 1800 2 8 He 
+F 1804 2 8 said, 
+F 1808 2 8 I’ll 
+F 1812 2 8 show 
+F 1816 2 8 you 
+F 1820 2 8 peo
+F 1824 2 8 ple 
+- 1827
+F 1828 4 8 How 
+F 1836 2 8 to 
+F 1840 5 8 twist 
+F 1848 5 8 with 
+F 1856 4 8 style 
+- 1862
+F 1864 3 8 ’Cause 
+F 1869 2 8 I’ve 
+F 1873 2 8 been 
+F 1877 2 8 do
+F 1881 2 8 ing 
+F 1885 2 8 the 
+F 1889 6 8 twist 
+- 1897
+: 1916 8 11 You 
+: 1928 6 8 should 
+: 1936 11 8 see
+: 1949 6 4 ~ 
+- 1957
+: 1980 5 4 Prince 
+: 1988 3 8 Ma
+: 1993 2 4 ~r
+: 1997 5 6 kie 
+: 2005 3 4 Dee 
+- 2010
+: 2044 4 8 Check 
+: 2050 4 8 out 
+: 2061 3 6 that 
+: 2070 8 4 Kool 
+: 2081 15 9 Rock 
+- 2098
+: 2109 3 4 He’s 
+: 2114 5 8 roc
+: 2121 2 4 king 
+: 2125 5 8 like 
+: 2134 4 4 me 
+- 2140
+: 2170 3 8 Here 
+: 2177 5 8 comes 
+: 2184 2 8 the 
+: 2189 5 8 Beat 
+: 2196 4 6 Bo
+: 2202 3 -1 ~x 
+- 2207
+F 2234 2 8 Come 
+F 2239 2 8 on, 
+F 2242 2 8 and 
+F 2246 2 8 do 
+F 2250 2 8 it, 
+F 2254 2 8 for 
+F 2258 3 8 me 
+- 2263
+: 2375 3 6 Come 
+: 2380 5 9 on, 
+: 2387 4 8 ba
+: 2394 6 8 by 
+- 2402
+F 2456 6 8 Come, 
+F 2467 4 8 come, 
+F 2474 3 8 oh 
+F 2480 3 8 come, 
+F 2487 3 8 oh 
+F 2492 4 8 come 
+F 2498 2 8 oh 
+- 2502
+: 2503 3 6 Come 
+: 2508 3 8 on, 
+: 2515 5 8 ba
+: 2523 3 8 by 
+- 2528
+: 2632 3 8 Do 
+: 2639 3 6 the 
+: 2645 7 4 twist 
+- 2654
+: 2712 6 8 Do, 
+: 2723 6 8 do, 
+: 2739 6 8 do, 
+: 2749 5 8 do, 
+: 2756 3 8 do, 
+: 2761 4 8 do 
+: 2768 3 6 the 
+: 2775 7 4 twist 
+- 2784
+: 2826 2 4 Come 
+: 2831 4 8 on, 
+: 2838 4 8 ba
+: 2845 4 8 by 
+- 2851
+: 2879 4 4 Let’s 
+: 2887 4 8 do 
+: 2895 4 6 the 
+: 2903 7 4 twist 
+- 2912
+: 2943 3 8 Chub
+: 2949 4 8 by 
+: 2956 3 8 and 
+: 2961 3 6 the 
+: 2969 8 4 Fat 
+: 2980 15 9 Boys 
+- 2997
+: 3008 3 4 We’re 
+: 3013 5 9 do
+: 3020 2 4 ing 
+: 3024 4 8 the 
+: 3032 9 4 twist 
+- 3043
+: 3068 2 9 Take 
+: 3072 2 9 the 
+: 3076 9 8 world 
+: 3089 2 8 by 
+: 3093 2 4 the 
+: 3097 4 6 ha
+: 3103 3 -1 ~nd 
+- 3108
+: 3137 2 1 And 
+: 3142 3 4 do
+: 3147 3 -1 ~ 
+: 3153 3 4 the 
+: 3160 8 4 twist 
+- 3170
+F 3225 2 8 Chub
+F 3229 2 8 by 
+F 3233 2 8 took 
+F 3237 2 8 my 
+F 3241 3 8 sis
+F 3246 2 8 ter 
+- 3250
+F 3251 3 8 Down 
+F 3255 5 8 to 
+F 3262 2 8 the 
+F 3266 5 8 dance 
+F 3273 3 8 floor 
+- 3278
+F 3283 2 8 Did 
+F 3287 2 8 the 
+F 3291 2 8 twist 
+F 3295 2 8 so 
+F 3301 5 8 def 
+- 3308
+F 3311 2 8 The 
+F 3315 6 8 crowd 
+F 3323 3 8 yelled 
+F 3330 3 8 for 
+F 3335 5 8 more 
+- 3342
+F 3347 2 8 So 
+F 3351 2 8 I 
+F 3355 2 8 po
+F 3359 2 8 nied 
+F 3363 2 8 with 
+F 3366 2 8 my 
+F 3369 3 8 mo
+F 3373 3 8 ther 
+- 3377
+F 3378 2 8 Did 
+F 3382 2 8 the 
+F 3386 2 8 Fly 
+F 3390 2 8 with 
+F 3394 2 8 my 
+F 3398 5 8 goil 
+- 3405
+F 3407 2 8 And 
+F 3411 5 8 when 
+F 3419 5 8 Buff 
+F 3426 2 8 did 
+F 3430 2 8 the 
+F 3434 2 8 Lim
+F 3439 2 8 bo 
+- 3442
+F 3443 2 8 We 
+F 3447 2 8 was 
+F 3451 2 8 roc
+F 3455 2 8 king 
+F 3459 2 8 the 
+F 3463 2 8 world 
+- 3466
+: 3467 2 4 Come 
+: 3471 4 8 on, 
+: 3479 5 8 ba
+: 3487 4 8 by 
+- 3493
+: 3523 4 4 Let’s 
+: 3531 4 8 do 
+: 3539 4 6 the 
+: 3547 7 4 twist 
+- 3556
+: 3583 5 8 Chub
+: 3590 2 8 by 
+: 3594 2 8 Chec
+: 3598 2 8 ker 
+: 3602 2 8 and 
+: 3606 2 6 the 
+: 3610 6 4 Fat 
+: 3621 17 9 Boys 
+- 3640
+: 3651 4 4 We’re 
+: 3657 4 8 do
+: 3664 3 4 ing 
+: 3669 3 8 the 
+: 3676 7 4 twist 
+- 3685
+: 3711 2 8 Take 
+: 3715 2 8 the 
+: 3719 9 8 world 
+: 3732 2 8 by 
+: 3736 2 4 the 
+: 3740 4 6 ha
+: 3746 3 -1 ~nd 
+- 3751
+: 3779 4 1 And 
+: 3786 5 4 go 
+: 3796 4 4 like 
+: 3805 5 4 this 
+- 3812
+F 3833 26 11 Hey, 
+F 3862 3 8 the 
+F 3867 5 8 West 
+F 3874 9 4 coast 
+- 3885
+F 3920 2 8 And 
+F 3924 2 8 on 
+F 3928 2 8 the 
+F 3932 3 8 East 
+F 3937 5 8 coast 
+- 3944
+F 3985 3 8 And 
+F 3990 2 8 in 
+F 3993 2 8 the 
+F 3997 10 8 South 
+- 4009
+F 4048 2 8 And 
+F 4052 2 8 in 
+F 4056 2 8 the 
+F 4060 12 8 North 
+- 4074
+F 4112 2 8 And 
+F 4116 2 8 all 
+F 4120 2 8 o
+F 4124 3 8 ver 
+F 4129 2 8 the 
+F 4133 9 8 world 
+- 4144
+: 4178 3 8 What 
+: 4184 4 8 time 
+: 4190 2 8 is 
+: 4194 2 8 it? 
+- 4198
+: 4239 2 4 Come 
+: 4243 4 8 on, 
+: 4251 5 8 ba
+: 4259 4 8 by 
+- 4265
+: 4294 4 4 Let’s 
+: 4302 4 8 do 
+: 4310 4 6 the 
+: 4318 7 4 twist 
+- 4327
+: 4357 5 8 Chub
+: 4364 2 8 by 
+: 4368 2 8 Chec
+: 4372 2 8 ker 
+: 4376 2 8 and 
+: 4380 2 6 the 
+: 4384 6 4 Fat 
+: 4395 17 9 Boys 
+- 4414
+: 4423 4 4 We’re 
+: 4429 4 8 do
+: 4436 3 4 ing 
+: 4441 3 8 the 
+: 4448 7 4 twist 
+- 4457
+: 4485 2 8 Take 
+: 4488 2 8 us 
+: 4491 5 8 by 
+: 4499 2 8 our 
+: 4503 2 8 lit
+: 4507 3 4 tle 
+: 4512 5 6 hands 
+- 4519
+: 4551 4 1 And 
+: 4558 5 4 go 
+: 4568 4 4 like 
+: 4577 5 4 this 
+- 4584
+: 4607 27 11 Oh, 
+: 4637 7 8 yeah, 
+: 4647 5 8 yeah 
+- 4654
+: 4679 3 4 And 
+: 4685 3 8 do
+: 4690 2 4 ~ 
+: 4695 4 8 the 
+: 4703 7 4 twist 
+- 4712
+: 4764 16 9 Yeah, 
+- 4782
+: 4811 6 8 Just 
+: 4821 6 8 like 
+: 4833 5 4 me 
+- 4840
+: 4885 4 11 Ooh, 
+: 4892 9 8 yea
+: 4903 9 6 ~h, 
+- 4914
+: 4936 4 4 And 
+: 4942 3 4 do
+: 4947 2 -1 ~ 
+: 4951 4 4 the 
+: 4959 7 4 twist 
+- 4968
+: 4996 19 11 Oh, 
+: 5021 10 8 yeah 
+E

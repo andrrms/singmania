@@ -1,0 +1,235 @@
+#ARTIST:Linkin Park
+#TITLE:Victimized
+#MP3:Linkin Park - Victimized.mp3
+#CREATOR:SweetStar
+#GENRE:Rock
+#YEAR:2012
+#LANGUAGE:English
+#BPM:380
+#GAP:25490
+#VIDEO:a=-6eUCOFXuxo,co=living-things-53a3dd03b1014.jpg,bg=linkin-park-4de523586c57e.jpg
+: 0 17 2 No 
+: 24 5 5 re
+: 32 12 9 grets 
+: 48 7 7 for 
+: 60 2 5 the 
+: 64 5 7 con
+: 72 6 9 fi
+: 80 4 7 dence 
+: 88 5 5 be
+: 96 16 2 trayed 
+- 114
+: 128 19 2 No 
+: 152 5 5 more 
+: 160 15 9 hi
+: 176 5 7 ding 
+: 184 3 5 in 
+: 192 21 7 sha
+: 216 6 9 ~
+: 224 12 9 dow 
+- 238
+: 248 4 9 Cause 
+* 256 20 14 I 
+: 280 5 12 won’t 
+: 288 10 9 wait 
+: 304 9 7 for 
+: 316 2 5 the 
+: 320 5 7 debt 
+: 328 5 9 to 
+: 336 5 7 be 
+: 344 5 5 re
+: 352 15 2 paid 
+- 369
+: 384 20 2 Time 
+: 408 4 2 has 
+: 416 10 9 come 
+: 432 9 9 for 
+: 448 32 2 you 
+- 482
+: 512 5 9 Vic
+: 520 2 9 ti
+: 524 10 9 mized 
+: 544 5 9 vic
+: 552 2 9 ti
+: 556 10 9 mized 
+- 568
+: 576 3 9 Ne
+: 580 2 9 ver 
+: 584 4 9 a
+: 592 8 9 gain, 
+: 608 5 9 vic
+: 616 2 9 ti
+: 620 10 9 mized 
+- 632
+: 640 5 9 Vic
+: 648 2 9 ti
+* 652 10 9 mized 
+: 672 5 9 vic
+: 680 2 9 ti
+: 684 10 9 mized 
+- 696
+: 704 3 9 Ne
+: 708 2 9 ver 
+: 712 4 9 a
+: 720 8 9 gain, 
+: 736 5 9 vic
+: 744 2 9 ti
+* 748 22 9 mized 
+- 772
+F 820 2 13 They’re 
+F 824 2 13 ac
+F 828 2 13 ting 
+F 832 2 13 like 
+F 836 2 13 they 
+F 840 2 13 want 
+F 844 2 13 a 
+F 848 2 13 ri
+F 852 2 13 ot 
+- 855
+F 856 2 13 It’s 
+F 860 2 13 a 
+F 864 2 13 ri
+F 868 2 13 ot 
+F 872 2 13 I’ll 
+F 876 2 13 give 
+F 880 2 13 ’em 
+- 884
+F 888 2 13 As 
+F 892 2 13 a 
+F 896 2 13 si
+F 900 2 13 ren 
+F 904 5 13 climbs 
+F 912 2 13 hig
+F 916 2 13 her 
+F 920 2 13 on 
+F 924 2 13 this 
+F 928 2 13 vi
+F 932 2 13 o
+F 936 2 13 lent 
+F 940 2 13 rhy
+F 944 2 13 thm 
+- 948
+F 952 4 13 These 
+F 960 6 13 snakes 
+F 968 2 13 in 
+F 972 2 13 the 
+F 976 6 13 grass 
+- 984
+F 988 2 13 Sup
+F 992 2 13 pl
+F 996 2 13 ying 
+F 1000 2 13 the 
+F 1004 2 13 ve
+F 1008 2 13 nom 
+- 1012
+F 1016 2 13 I 
+F 1020 2 13 ain’t 
+F 1024 4 13 scared 
+F 1032 2 13 of 
+F 1036 2 13 your 
+F 1040 4 13 teeth 
+- 1046
+F 1048 2 13 I 
+F 1052 2 13 ad
+F 1056 2 13 mi
+F 1060 2 13 re 
+F 1064 2 13 what’s 
+F 1068 2 13 in 
+F 1072 2 13 ’em 
+- 1076
+F 1080 2 13 You’ll 
+F 1084 2 13 be 
+F 1088 2 13 wai
+F 1092 2 13 ting 
+F 1096 2 13 in 
+F 1100 2 13 the 
+F 1104 2 13 sha
+F 1108 2 13 dows 
+F 1112 4 13 there 
+- 1118
+F 1120 2 13 Thin
+F 1124 2 13 king 
+F 1128 2 13 you’re 
+F 1132 2 13 hid
+F 1136 2 13 den 
+- 1140
+F 1144 2 13 But 
+F 1148 2 13 the 
+F 1152 5 13 truth 
+F 1160 4 13 is 
+- 1166
+F 1168 2 13 You 
+F 1172 2 13 don’t 
+F 1176 2 13 have 
+F 1180 2 13 the 
+F 1184 2 13 sto
+F 1188 2 13 mach 
+F 1192 2 13 to 
+F 1196 2 13 get 
+F 1200 2 13 ’em 
+- 1204
+F 1208 2 13 Go 
+F 1212 2 13 on 
+F 1216 2 13 al
+F 1220 2 13 rea
+F 1224 2 13 dy 
+F 1228 2 13 hit 
+F 1232 2 13 ’em 
+- 1236
+F 1240 2 13 Yeah, 
+F 1244 2 13 you 
+F 1248 2 13 got 
+F 1252 2 13 to 
+F 1256 2 13 be 
+F 1260 2 13 kid
+F 1264 2 13 ding 
+- 1268
+F 1272 2 13 Wan
+F 1276 2 13 na 
+F 1280 2 13 talk 
+F 1284 2 13 a
+F 1288 2 13 bout 
+F 1292 2 13 a 
+F 1296 2 13 vic
+F 1300 2 13 tim? 
+- 1303
+F 1304 2 13 Im
+F 1308 2 13 ma 
+F 1312 2 13 put 
+F 1316 2 13 you 
+F 1320 2 13 there 
+F 1324 2 13 with 
+F 1328 2 13 ’em 
+- 1332
+: 1344 5 9 Vic
+: 1352 2 9 ti
+: 1356 10 9 mized 
+: 1376 5 9 vic
+: 1384 2 9 ti
+* 1388 10 9 mized 
+- 1400
+: 1408 3 9 Ne
+: 1412 2 9 ver 
+: 1416 4 9 a
+: 1424 8 9 gain, 
+: 1440 5 9 vic
+: 1448 2 9 ti
+: 1452 10 9 mized 
+- 1464
+: 1472 5 9 Vic
+: 1480 2 9 ti
+: 1484 10 9 mized 
+: 1504 5 9 vic
+: 1512 2 9 ti
+: 1516 10 9 mized 
+- 1528
+: 1536 3 9 Ne
+: 1540 2 9 ver 
+: 1544 4 9 a
+: 1552 8 9 gain, 
+: 1568 5 9 vic
+: 1576 2 9 ti
+* 1580 100 9 mized 
+- 1682
+: 1728 124 9 Aaaw! 
+E

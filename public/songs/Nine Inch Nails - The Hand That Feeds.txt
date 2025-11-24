@@ -1,0 +1,409 @@
+#ARTIST:Nine Inch Nails
+#TITLE:The Hand That Feeds
+#MP3:Nine Inch Nails - The Hand That Feeds.mp3
+#CREATOR:Gollum
+#EDITION:Rock Band
+#GENRE:Rock Industrial
+#YEAR:2005
+#LANGUAGE:English
+#BPM:395.39
+#GAP:13850
+#VIDEO:v=xwhBRJStz7w,co=the-hand-that-feeds-5d6d46cc71ce2.jpg,bg=nine-inch-nails-621473f8a2d4d.jpg
+: 0 3 12 You’re 
+: 6 4 12 keep
+: 12 5 12 ing 
+: 18 4 12 in 
+: 26 8 12 step 
+- 36
+: 61 5 9 In 
+: 67 4 9 the 
+: 74 4 9 line
+: 80 14 7 ~ 
+- 96
+: 111 3 12 Got 
+: 117 3 9 your 
+: 123 8 12 chin 
+: 135 10 12 held 
+: 148 7 12 high 
+: 158 5 12 and 
+: 166 3 9 you 
+: 173 9 12 feel 
+: 185 5 12 just 
+- 192
+: 198 8 12 Fine 
+- 208
+: 210 4 12 ’Cause 
+: 216 2 9 you 
+: 222 9 12 do
+: 234 6 9 ~ 
+- 242
+: 258 3 9 What 
+: 265 2 9 you’re 
+: 271 5 9 told
+: 278 13 7 ~ 
+- 293
+: 309 4 14 But 
+: 314 4 12 in
+* 321 9 16 side 
+: 334 4 14 your
+* 339 6 12 ~ 
+* 346 8 12 heart 
+- 356
+: 358 5 14 It 
+: 364 3 12 is 
+: 370 9 16 black 
+: 383 5 16 and 
+: 389 3 16 it’s 
+: 395 6 16 hol
+* 402 4 16 low 
+: 407 5 16 and 
+: 414 2 16 it’s 
+: 420 10 16 cold 
+- 432
+: 456 3 9 Just 
+: 463 3 9 how 
+: 470 8 16 deep 
+: 482 8 19 do 
+: 494 10 14 you 
+: 507 9 16 be
+: 519 5 12 lieve
+: 527 13 9 ~? 
+- 542
+* 555 4 9 Will 
+: 562 3 7 you 
+* 568 7 16 bite 
+* 581 9 19 the 
+: 592 8 14 hand 
+: 605 7 16 that 
+: 618 5 12 feeds
+: 625 13 9 ~? 
+- 640
+: 654 4 9 Will 
+: 660 2 9 you 
+: 667 10 16 chew 
+: 679 8 19 un
+: 692 10 14 til 
+: 704 6 16 it 
+: 715 6 12 bleeds
+: 724 13 9 ~? 
+- 739
+: 753 4 9 Can 
+: 759 2 7 you 
+: 765 12 16 get 
+: 778 7 19 up 
+: 790 7 14 off 
+: 802 7 16 your 
+: 815 5 12 knees
+: 823 13 9 ~? 
+- 838
+: 852 4 9 Are 
+: 858 2 7 you 
+: 864 11 16 brave 
+: 878 7 19 e
+: 890 5 14 nough 
+: 901 8 16 to 
+: 915 5 12 see
+: 923 16 9 ~? 
+- 941
+: 951 4 9 Do 
+: 956 4 7 you 
+: 963 4 16 want
+* 969 5 14 ~ 
+: 975 4 14 to
+* 981 3 12 ~ 
+: 988 10 14 change 
+: 1000 9 16 it? 
+- 1011
+: 1179 6 12 What 
+: 1186 3 12 if 
+: 1192 3 12 this 
+: 1198 3 12 whole 
+: 1204 3 12 cru
+: 1211 9 12 sade’s
+: 1223 4 9 ~ 
+- 1229
+: 1247 3 7 A 
+: 1253 5 9 cha
+: 1260 5 9 rade
+: 1266 16 7 ~ 
+- 1284
+: 1296 5 12 And 
+: 1303 4 9 be
+: 1309 9 12 hind 
+: 1322 8 12 it 
+: 1334 11 12 all 
+: 1346 4 12 there’s 
+: 1353 2 9 a 
+: 1359 8 12 price 
+: 1371 5 12 to 
+: 1378 2 9 be 
+: 1383 9 12 paid 
+- 1394
+: 1396 5 12 For 
+: 1402 2 9 the 
+: 1407 11 12 blood
+: 1421 6 9 ~ 
+- 1429
+: 1444 4 9 Which 
+: 1451 3 9 we 
+: 1457 6 9 dine
+: 1466 11 7 ~ 
+- 1479
+* 1494 3 14 Jus
+* 1500 2 12 ti
+: 1507 11 16 fied 
+: 1519 4 14 in 
+: 1526 2 12 the 
+: 1532 8 12 name 
+- 1542
+: 1544 3 14 Of 
+* 1550 5 12 the 
+: 1557 2 14 ho
+: 1560 8 16 ~
+: 1570 10 16 ly 
+* 1581 11 16 and 
+: 1594 4 16 the 
+: 1600 3 16 di
+: 1606 15 16 vine 
+- 1623
+: 1643 4 9 Just 
+: 1649 4 9 how 
+: 1656 9 16 deep 
+: 1668 10 19 do 
+: 1680 9 14 you 
+: 1692 9 16 be
+: 1705 6 12 lieve
+: 1713 18 9 ~? 
+- 1733
+: 1741 5 9 Will 
+: 1748 2 7 you 
+: 1754 7 16 bite 
+* 1767 9 19 the 
+: 1779 9 14 hand 
+: 1791 7 16 that 
+* 1804 4 12 feeds
+: 1810 14 9 ~? 
+- 1826
+: 1841 4 9 Will 
+: 1846 3 9 you 
+: 1853 11 16 chew 
+: 1865 8 19 un
+: 1878 9 14 til 
+: 1890 6 16 it 
+: 1902 6 12 bleeds
+: 1911 15 9 ~? 
+- 1928
+: 1939 3 9 Can 
+: 1945 3 9 you 
+: 1951 11 16 get 
+: 1964 7 19 up 
+: 1977 6 14 off 
+: 1988 9 16 your 
+: 2001 8 12 knees
+: 2011 15 9 ~? 
+- 2028
+: 2039 4 9 Are 
+: 2044 2 9 you 
+: 2051 10 16 brave 
+: 2063 8 19 e
+: 2076 6 14 nough 
+: 2087 7 16 to 
+: 2100 7 12 see
+: 2109 12 9 ~? 
+- 2123
+: 2137 4 9 Do 
+* 2143 4 7 you 
+: 2149 5 16 want
+* 2156 5 14 ~ 
+: 2163 4 14 to
+: 2168 3 12 ~ 
+: 2174 10 14 change 
+* 2186 15 12 it? 
+- 2203
+: 2625 10 9 So 
+: 2638 5 9 na
+: 2644 19 9 ïve 
+- 2665
+: 2681 3 9 I 
+: 2687 2 9 keep 
+: 2693 17 9 hold
+: 2711 3 9 ing 
+: 2718 16 9 on 
+: 2737 4 9 to 
+: 2742 6 9 what 
+: 2754 11 9 I 
+* 2767 11 9 want 
+: 2780 3 9 to 
+* 2786 3 9 be
+: 2792 16 9 lieve 
+- 2810
+F 2823 8 9 I 
+F 2835 2 9 could 
+F 2841 13 9 see 
+- 2856
+F 2866 5 9 But 
+F 2872 3 9 I 
+F 2879 8 9 keep 
+: 2890 18 9 hold
+: 2909 4 9 ing 
+: 2916 17 9 on, 
+: 2935 3 12 and 
+: 2941 17 14 on, 
+: 2959 3 14 and 
+: 2965 17 16 on, 
+: 2984 3 19 and 
+: 2990 18 21 on 
+- 3010
+F 3594 5 9 Will 
+F 3601 3 9 you 
+F 3607 8 9 bite 
+- 3617
+F 3633 4 9 The 
+F 3638 10 9 hand 
+F 3651 2 9 that 
+F 3657 14 9 feeds 
+F 3676 7 9 you? 
+- 3685
+F 3694 4 9 Will 
+F 3699 3 9 you 
+F 3707 11 9 stay 
+F 3725 9 9 down 
+F 3738 10 9 on 
+F 3750 4 9 your 
+F 3756 16 9 knees? 
+- 3774
+F 3793 4 9 Will 
+F 3799 2 9 you 
+F 3805 7 9 bite 
+- 3814
+F 3830 2 9 The 
+F 3835 11 9 hand 
+F 3848 3 9 that 
+F 3855 14 9 feeds 
+F 3873 8 9 you? 
+- 3883
+F 3891 4 9 Will 
+F 3898 2 9 you 
+F 3904 11 9 stay 
+- 3917
+F 3923 9 9 Down 
+F 3935 10 9 on 
+F 3948 2 9 your 
+F 3953 15 9 knees? 
+- 3970
+F 3990 4 9 Will 
+F 3996 2 9 you 
+F 4003 9 9 bite 
+- 4014
+F 4028 3 9 The 
+F 4034 10 9 hand 
+F 4046 3 9 that 
+F 4053 14 9 feeds 
+F 4071 11 9 you? 
+- 4084
+: 4089 4 9 Will 
+: 4095 5 9 you 
+: 4102 14 9 stay 
+: 4120 10 9 down 
+: 4133 10 9 on 
+: 4145 4 9 your 
+: 4152 26 9 knees? 
+- 4180
+F 4188 4 9 Will 
+F 4194 3 9 you 
+F 4201 10 9 bite 
+- 4213
+F 4226 3 9 The 
+F 4231 9 9 hand 
+F 4243 2 9 that 
+F 4250 14 9 feeds 
+F 4269 11 9 you? 
+- 4282
+: 4288 4 9 Will 
+: 4293 4 9 you 
+: 4300 14 9 stay 
+: 4318 6 9 down 
+: 4326 12 9 on 
+: 4342 5 9 your 
+: 4349 21 9 knees? 
+- 4372
+F 4385 5 9 Will 
+F 4392 3 9 you 
+F 4398 8 9 bite 
+- 4408
+F 4417 5 9 The 
+F 4423 10 9 hand 
+- 4435
+F 4441 3 9 That 
+F 4448 15 9 feeds 
+F 4466 11 9 you? 
+- 4479
+F 4485 4 9 Will 
+F 4490 3 9 you 
+F 4497 11 9 stay 
+F 4515 6 9 down 
+F 4523 12 9 on 
+F 4540 4 9 your 
+F 4547 21 9 knees? 
+- 4570
+F 4584 4 9 Will 
+F 4589 3 9 you 
+F 4596 8 9 bite 
+- 4606
+F 4614 5 9 The 
+F 4621 10 9 hand 
+- 4633
+F 4640 3 9 That 
+F 4646 14 9 feeds 
+F 4664 11 9 you? 
+- 4677
+F 4683 4 9 Will 
+F 4688 3 9 you 
+F 4695 11 9 stay 
+F 4713 6 9 down 
+F 4720 11 9 on 
+F 4738 4 9 your 
+F 4744 22 9 knees? 
+- 4768
+F 4781 4 9 Will 
+F 4787 3 9 you 
+F 4793 7 9 bite 
+- 4802
+F 4812 6 9 The 
+F 4819 10 9 hand 
+- 4831
+F 4837 3 9 That 
+F 4843 13 9 feeds 
+F 4861 12 9 you? 
+- 4875
+F 4881 4 9 Will 
+F 4886 3 9 you 
+F 4892 10 9 stay 
+- 4904
+F 4911 6 9 Down 
+F 4918 9 9 on 
+- 4929
+F 4936 3 9 Your 
+F 4943 18 9 knees? 
+- 4963
+F 4979 4 9 Will 
+F 4985 2 9 you 
+F 4991 8 9 bite 
+- 5001
+F 5010 5 9 The 
+F 5016 10 9 hand 
+- 5028
+F 5035 3 9 That 
+F 5042 13 9 feeds 
+F 5058 12 9 you? 
+- 5072
+F 5078 4 9 Will 
+F 5084 3 9 you 
+F 5090 10 9 stay 
+- 5102
+F 5109 6 9 Down 
+F 5116 9 9 on 
+- 5127
+F 5133 4 9 Your 
+F 5139 25 9 knees? 
+E

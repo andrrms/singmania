@@ -1,0 +1,189 @@
+#ARTIST:Scooter
+#TITLE:Can’t Stop The Hardcore
+#MP3:Scooter - Can’t Stop The Hardcore.mp3
+#CREATOR:haistshomie666
+#YEAR:2014
+#LANGUAGE:English
+#BPM:300
+#GAP:13670
+#VIDEO:v=nJ3bet-Y79w,co=cant-stop-the-hardcore-5b931d4fa9a7c.jpg
+: 0 7 2 Eve
+: 9 7 2 ry
+: 18 4 4 bo
+: 23 4 6 dy 
+: 28 4 4 eve
+: 33 4 2 ry
+: 38 6 -1 where 
+- 46
+: 65 7 2 You 
+: 75 16 7 can’t 
+: 93 7 4 stop 
+: 102 7 6 the 
+: 111 3 2 hard
+: 116 12 0 core 
+- 130
+: 148 7 4 Mid
+: 157 8 4 dle 
+: 167 3 6 fin
+: 171 4 7 gers 
+: 176 4 6 in 
+: 181 3 4 the 
+: 185 9 0 air 
+- 196
+: 212 5 2 You 
+: 221 13 6 can’t 
+: 239 6 7 stop 
+: 248 6 6 the 
+: 257 2 4 hard
+: 262 11 2 core 
+- 275
+: 293 7 2 Drin
+: 302 5 2 king 
+: 311 3 4 Vod
+: 315 4 6 ka 
+: 320 4 4 Bel
+: 325 4 2 ve
+: 330 9 -1 dere 
+- 341
+: 355 7 2 You 
+: 365 13 7 can’t 
+: 382 7 4 stop 
+: 391 8 6 the 
+: 400 3 2 hard
+: 404 9 0 core 
+- 415
+: 435 6 4 Na
+: 445 6 4 ked 
+: 453 3 6 bit
+: 457 3 7 ches 
+: 462 3 6 o
+: 467 3 4 ver 
+: 471 8 0 there 
+- 481
+: 496 6 2 You 
+: 505 14 6 can’t 
+: 522 7 7 stop 
+: 531 6 6 the 
+: 540 3 4 hard
+: 544 8 2 core 
+- 554
+: 575 6 2 Eve
+: 583 7 2 ry
+: 592 3 4 bo
+: 596 3 6 dy 
+: 600 4 4 eve
+: 605 3 2 ry
+: 609 8 -1 where 
+- 619
+: 635 6 2 You 
+: 644 13 7 can’t 
+: 660 7 4 stop 
+: 669 6 6 the 
+: 677 4 2 hard
+: 682 13 0 core 
+- 697
+: 711 7 4 Mid
+: 719 8 4 dle 
+: 729 3 6 fin
+: 733 3 7 gers 
+: 737 3 6 in 
+: 741 3 4 the 
+: 745 8 0 air 
+- 755
+: 771 5 2 You 
+: 778 13 6 can’t 
+: 795 6 7 stop 
+: 804 6 6 the 
+: 812 3 4 hard
+: 817 13 2 core 
+- 832
+: 845 6 2 Drin
+: 853 7 2 king 
+: 861 3 4 Vod
+: 865 4 6 ka 
+: 870 3 4 Bel
+: 874 4 2 ve
+: 879 8 -1 dere 
+- 889
+: 903 6 2 You 
+: 911 14 7 can’t 
+: 927 7 4 stop 
+: 935 5 6 the 
+: 943 4 2 hard
+: 948 12 0 core 
+- 962
+: 977 7 4 Na
+: 985 7 4 ked 
+: 993 3 6 bit
+: 997 3 7 ches 
+: 1001 3 6 o
+: 1005 4 4 ver 
+: 1010 8 0 there 
+- 1020
+: 1033 7 2 You 
+: 1041 13 6 can’t 
+: 1057 7 7 stop 
+: 1065 8 6 the 
+: 1074 3 4 hard
+: 1078 11 2 core 
+- 1091
+: 2228 6 2 Eve
+: 2236 6 2 ry
+: 2244 2 4 bo
+: 2248 3 6 dy 
+: 2252 3 4 eve
+: 2256 3 2 ry
+: 2260 9 -1 where 
+- 2271
+: 2284 6 2 You 
+: 2292 14 7 can’t 
+: 2308 6 4 stop 
+: 2316 6 6 the 
+: 2324 3 2 hard
+: 2329 13 0 core 
+- 2344
+: 2355 6 4 Mid
+: 2363 6 4 dle 
+: 2371 3 6 fin
+: 2375 3 7 gers 
+: 2379 3 6 in 
+: 2383 3 4 the 
+: 2388 8 0 air 
+- 2398
+: 2411 6 2 You 
+: 2419 14 6 can’t 
+: 2436 6 7 stop 
+: 2444 6 6 the 
+: 2452 3 4 hard
+: 2456 10 2 core 
+- 2468
+: 2483 6 2 Drin
+: 2491 6 2 king 
+: 2499 3 4 Vod
+: 2503 3 6 ka 
+: 2507 3 4 Bel
+: 2511 3 2 ve
+: 2515 8 -1 dere 
+- 2525
+: 2539 6 2 You 
+: 2547 14 7 can’t 
+: 2563 7 4 stop 
+: 2571 6 6 the 
+: 2579 3 2 hard
+: 2583 9 0 core 
+- 2594
+: 2611 6 4 Na
+: 2619 5 4 ked 
+: 2627 3 6 bit
+: 2631 3 7 ches 
+: 2635 3 6 o
+: 2639 3 4 ver 
+: 2643 7 0 there 
+- 2652
+: 2666 6 2 You 
+: 2673 14 6 can’t 
+: 2690 6 7 stop 
+: 2698 7 6 the 
+: 2706 3 4 hard
+: 2710 11 2 core 
+E

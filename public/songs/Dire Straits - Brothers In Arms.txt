@@ -1,0 +1,217 @@
+#ARTIST:Dire Straits
+#TITLE:Brothers In Arms
+#MP3:Dire Straits - Brothers In Arms.mp3
+#CREATOR:RES
+#YEAR:1985
+#LANGUAGE:English
+#BPM:317.08
+#GAP:32480
+#VIDEO:v=jhdFe3evXpk,co=brothers-in-arms-602dc7d1ae81c.jpg,bg=dire-straits-526b61f51a659.jpg
+: 0 4 -1 These 
+: 8 4 -1 mist 
+: 17 5 3 co
+: 25 4 6 vered 
+: 33 17 8 moun
+: 66 8 6 tains 
+- 76
+: 132 2 1 Are 
+: 136 2 1 a 
+: 140 8 1 home 
+: 152 6 3 now 
+: 164 5 6 for 
+: 172 5 3 me 
+- 179
+: 264 2 6 But 
+: 268 2 6 my 
+: 272 8 6 home 
+: 282 3 6 is 
+: 290 3 6 the 
+: 298 7 8 low
+: 330 8 3 lands 
+- 340
+: 397 5 3 And 
+: 405 6 3 al
+: 417 6 4 ways 
+: 429 5 6 will 
+: 438 12 8 be 
+- 452
+: 531 5 6 Some 
+: 540 5 6 day 
+: 548 6 6 you’ll 
+: 557 5 6 re
+: 566 14 8 turn 
+: 597 7 6 to 
+- 606
+: 665 5 6 Your 
+: 673 6 6 val
+: 682 5 3 leys 
+: 690 5 6 and 
+: 698 3 3 your 
+: 706 16 8 farms 
+- 724
+: 797 2 1 And 
+: 801 2 1 you’ll 
+: 805 8 1 no 
+* 817 7 3 lon
+* 829 6 6 ger 
+- 836
+: 837 9 3 Burn 
+: 851 6 1 to 
+: 860 5 -1 be 
+* 870 2 -4 bro
+* 874 18 4 thers 
+: 896 2 3 in 
+: 901 15 1 arms 
+- 918
+: 1320 7 -1 Through 
+: 1329 4 -1 these 
+: 1338 5 -1 fields 
+: 1347 4 3 of 
+: 1359 3 6 des
+: 1368 17 8 truc
+: 1393 6 6 tion 
+- 1401
+: 1459 5 1 Bap
+: 1468 5 1 ti
+: 1476 4 3 sms 
+: 1484 4 6 of 
+: 1491 3 6 fi
+: 1496 8 3 re 
+- 1506
+: 1590 4 6 I’ve 
+: 1597 4 6 wit
+: 1605 3 6 nessed 
+: 1613 4 6 your 
+: 1621 17 8 su
+: 1644 5 3 ~ff’
+: 1654 7 3 rin’ 
+- 1663
+: 1718 2 3 As 
+: 1722 2 3 the 
+: 1726 8 3 batt
+: 1737 5 4 le 
+: 1746 6 6 raged 
+: 1758 3 8 high
+: 1763 9 8 er 
+- 1774
+: 1847 4 6 And 
+: 1854 5 6 though 
+: 1862 5 8 they 
+: 1870 4 10 did 
+* 1878 5 11 hurt 
+: 1886 9 8 me 
+: 1902 4 3 so 
+: 1910 18 10 bad 
+- 1930
+: 1974 2 3 In 
+: 1978 2 3 the 
+: 1982 9 3 fear 
+: 1994 4 4 and 
+: 2004 5 6 a
+: 2013 15 8 larm 
+- 2030
+: 2102 8 1 You 
+: 2114 4 1 did 
+: 2122 4 3 not 
+: 2134 5 6 de
+: 2142 6 3 sert 
+: 2150 7 1 me 
+- 2159
+: 2166 5 -1 My 
+: 2174 2 -4 bro
+: 2178 17 4 thers 
+: 2198 2 3 in 
+: 2202 17 1 arms 
+- 2221
+: 2598 8 3 There’re 
+: 2614 4 -1 so 
+: 2623 5 1 ma
+: 2631 7 3 ny 
+: 2640 4 -1 diffe
+: 2648 4 1 rent 
+: 2656 20 3 worlds 
+- 2678
+: 2745 4 3 So 
+: 2752 3 6 ma
+: 2756 8 6 ny 
+: 2768 4 3 diffe
+: 2776 4 1 rent 
+: 2784 13 -1 suns 
+- 2799
+: 2873 3 -4 And 
+: 2880 4 1 we 
+: 2888 4 3 have 
+: 2896 4 -1 just 
+: 2904 4 1 one 
+* 2912 17 3 world 
+- 2931
+: 2999 2 3 But 
+: 3003 2 3 we 
+: 3007 2 6 live 
+: 3011 4 6 in 
+: 3023 2 6 diffe
+: 3027 4 8 rent 
+: 3039 8 -1 ones 
+- 3049
+: 3765 4 -1 Now 
+: 3773 3 -1 the 
+: 3781 5 -1 sun’s 
+: 3789 4 3 gone 
+: 3797 4 6 to 
+* 3805 6 8 hell 
+- 3813
+* 3845 11 6 Hell 
+- 3858
+: 3906 2 -1 The 
+: 3909 4 1 moon 
+: 3917 8 3 ri
+: 3929 6 6 ding 
+: 3941 3 6 hi
+: 3945 11 3 ~gh 
+- 3958
+: 4022 3 6 Let 
+: 4030 4 6 me 
+: 4038 4 6 bid 
+: 4046 3 3 you 
+: 4054 4 6 fare
+: 4061 14 8 well 
+- 4077
+: 4159 3 3 Eve
+: 4163 2 3 ry 
+: 4167 6 3 man 
+: 4175 4 4 has 
+: 4183 5 6 to 
+: 4191 13 8 die 
+- 4206
+: 4287 2 6 But 
+: 4291 2 6 it’s 
+: 4296 6 6 writt
+: 4304 4 6 en 
+: 4312 4 6 in 
+: 4320 3 6 the 
+: 4328 20 8 sta
+: 4351 6 6 ~r
+: 4360 18 3 light 
+- 4380
+: 4412 2 3 And 
+: 4416 2 3 eve
+: 4420 2 3 ry 
+: 4424 7 3 line 
+: 4436 4 4 in 
+: 4445 5 6 your 
+: 4456 15 8 palm 
+- 4473
+: 4536 4 1 We 
+: 4543 2 1 are 
+* 4549 8 6 fools 
+: 4563 6 6 to 
+: 4572 6 4 make 
+: 4583 9 3 war 
+- 4594
+: 4597 6 1 On 
+: 4608 4 -1 our 
+: 4616 2 -4 bro
+* 4620 15 4 thers 
+: 4641 3 3 in 
+: 4646 15 1 arms 
+E

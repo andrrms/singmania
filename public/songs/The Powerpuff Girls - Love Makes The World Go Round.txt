@@ -1,0 +1,281 @@
+#ARTIST:The Powerpuff Girls
+#TITLE:Love Makes The World Go Round
+#MP3:The Powerpuff Girls - Love Makes The World Go Round.mp3
+#CREATOR:GaryCXJk
+#COVER:The Powerpuff Girls - Love Makes The World Go Round [CO].jpg
+#BACKGROUND:The Powerpuff Girls - Love Makes The World Go Round [BG].jpg
+#YEAR:1999
+#LANGUAGE:English
+#BPM:375.21
+#GAP:22730
+#VIDEO:v=dBJWgpsLHCo,co=https://metadata-static.plex.tv/0/gracenote/01a8362aa38265f0b9b60af8f8660099.jpg
+: 0 2 11 O
+: 5 2 11 pen 
+: 9 2 11 your 
+: 12 3 11 eyes 
+: 17 3 11 and 
+: 23 3 10 take 
+: 29 3 8 in 
+: 33 4 6 eve
+: 39 3 8 ry 
+: 45 6 9 thing 
+: 53 3 9 that 
+: 58 2 10 you 
+: 63 12 10 see 
+- 84
+: 87 2 11 Look 
+: 92 5 11 at 
+: 98 4 11 all 
+: 103 1 11 the 
+: 107 6 10 co
+: 116 4 8 lors, 
+: 127 2 6 that 
+: 132 2 7 yel
+: 135 4 9 low, 
+: 142 4 9 blue 
+: 147 2 9 and 
+: 152 12 10 green 
+- 171
+: 174 2 16 We 
+: 180 5 13 can 
+: 187 4 11 take 
+: 193 1 10 an 
+: 195 5 10 air
+: 202 9 10 plane 
+: 212 4 10 and 
+: 219 4 9 fly 
+: 224 1 9 a
+: 226 4 11 cross 
+: 233 1 11 the 
+: 236 8 8 globe 
+- 253
+: 256 2 8 Look 
+: 261 5 9 down 
+: 267 1 9 up
+: 270 5 9 on 
+: 276 2 9 the 
+: 280 8 8 co
+: 289 4 8 lors, 
+: 295 3 8 eve
+: 300 3 8 ry
+: 304 3 8 one 
+: 311 1 8 come 
+: 313 4 10 on, 
+: 318 2 10 let’s 
+: 323 6 11 go 
+- 335
+* 338 1 11 Be
+* 340 7 11 cause 
+- 348
+: 350 10 -1 Love 
+: 361 10 3 love 
+: 372 9 6 love 
+- 381
+: 383 3 6 La 
+: 387 5 6 la 
+: 394 20 8 love 
+- 422
+: 425 3 8 La 
+: 429 6 8 la 
+: 436 20 11 love 
+- 465
+: 469 3 11 Makes 
+: 475 3 11 the 
+: 480 6 15 world 
+: 488 6 13 go 
+: 496 14 11 round 
+- 519
+: 523 10 -1 Love 
+: 534 10 3 love 
+: 545 9 6 love 
+- 554
+: 556 3 6 La 
+: 560 5 6 la 
+: 567 20 8 love 
+- 595
+: 598 3 8 La 
+: 602 6 8 la 
+: 609 20 11 love 
+- 638
+: 642 3 11 Makes 
+: 648 3 11 the 
+: 653 6 15 world 
+: 661 6 13 go 
+: 669 14 11 round 
+- 693
+: 697 2 11 O
+: 701 3 11 pen 
+: 705 3 11 your 
+: 709 3 11 ears 
+: 714 3 11 and 
+: 719 3 10 lis
+: 725 3 8 ten 
+: 730 3 6 what 
+: 736 3 8 the 
+: 741 5 9 world 
+: 750 3 9 has 
+: 756 1 9 to 
+: 761 11 10 say 
+- 781
+: 784 4 11 Hear 
+: 789 1 11 the 
+: 793 5 11 birds 
+: 801 4 11 and 
+: 806 5 10 bells 
+: 813 3 9 and 
+: 819 2 6 you 
+: 822 3 8 will 
+: 829 2 9 have 
+: 832 2 9 a 
+* 837 3 9 brigh
+* 842 2 9 ter 
+: 846 4 9 day
+: 851 9 10 ~ 
+- 868
+: 871 3 15 Eve
+: 877 4 13 ry 
+: 883 2 11 one 
+: 888 3 11 has 
+: 892 1 10 a 
+: 896 2 10 spe
+: 901 2 10 cial 
+: 906 8 10 song 
+: 916 3 9 deep 
+: 921 2 8 in
+: 925 4 11 side 
+: 930 2 11 their 
+: 934 8 8 heart 
+- 954
+: 958 2 8 If 
+: 963 4 9 you 
+: 968 4 9 want, 
+: 974 2 9 you 
+: 977 2 9 could 
+: 981 3 8 sing 
+: 986 2 8 with 
+: 989 3 8 us, 
+: 996 2 8 it’s 
+: 1000 1 8 a 
+: 1002 3 8 per
+: 1007 2 8 fect 
+: 1011 3 9 place 
+: 1017 1 10 to 
+: 1021 8 11 start 
+- 1079
+: 1396 10 -1 Love 
+: 1407 10 3 love 
+: 1418 9 6 love 
+- 1427
+: 1429 3 6 La 
+: 1433 4 6 la 
+: 1440 20 5 love 
+- 1469
+: 1473 2 5 La 
+: 1476 6 5 la 
+: 1484 20 4 love 
+- 1513
+: 1516 2 4 Makes 
+: 1522 3 4 the 
+: 1527 7 3 world 
+: 1536 8 4 go 
+: 1545 12 3 round 
+- 1567
+: 1577 2 13 You 
+: 1583 4 11 can’t 
+: 1591 3 13 hurt 
+: 1597 5 11 me 
+: 1603 3 11 with 
+: 1608 4 11 the 
+: 1614 8 13 things 
+: 1623 3 13 that 
+: 1629 2 15 you 
+: 1633 8 13 do 
+- 1650
+: 1653 3 13 I’ll 
+: 1658 3 11 pick 
+: 1662 3 11 up 
+* 1668 5 11 dan
+* 1674 3 11 de
+* 1679 5 13 li
+* 1685 4 13 ons 
+: 1690 4 11 and 
+: 1695 4 11 I’ll 
+: 1701 3 14 give 
+: 1706 4 14 them 
+: 1713 3 13 to 
+: 1719 14 11 you 
+- 1743
+: 1756 3 11 Pup
+: 1763 6 6 py 
+: 1772 8 3 dogs 
+- 1790
+: 1799 6 11 Kit
+: 1806 7 7 ty 
+: 1816 5 5 cats 
+- 1831
+: 1843 5 11 Swim
+: 1850 10 13 ming 
+: 1866 4 13 through 
+: 1871 19 11 love 
+- 1900
+: 1925 2 13 You 
+: 1931 4 11 can’t 
+: 1939 3 13 hurt 
+: 1945 5 11 me 
+: 1951 3 11 with 
+: 1956 4 11 the 
+: 1962 8 13 things 
+: 1971 3 13 that 
+: 1977 2 15 you 
+: 1981 8 13 do 
+- 1998
+: 2001 3 13 I’ll 
+: 2006 3 11 pick 
+: 2010 3 11 up 
+: 2016 5 11 dan
+: 2022 3 11 de
+: 2027 5 13 li
+: 2033 4 13 ons 
+: 2038 4 11 and 
+: 2043 4 11 I’ll 
+: 2049 3 14 give 
+: 2054 4 14 them 
+: 2061 3 13 to 
+: 2067 14 11 you 
+- 2092
+: 2096 10 -1 Love 
+: 2107 10 3 love 
+: 2118 9 6 love 
+- 2127
+: 2129 3 6 La 
+: 2133 5 6 la 
+: 2140 20 8 love 
+- 2168
+: 2171 3 8 La 
+: 2175 6 8 la 
+: 2182 20 11 love 
+- 2211
+: 2215 3 11 Makes 
+: 2221 3 11 the 
+: 2226 6 15 world 
+: 2234 6 13 go 
+: 2242 14 11 round 
+- 2265
+: 2269 10 -1 Love 
+: 2280 10 3 love 
+: 2291 9 6 love 
+- 2300
+: 2302 3 6 La 
+: 2306 5 6 la 
+: 2313 20 8 love 
+- 2341
+: 2344 3 8 La 
+: 2348 6 8 la 
+: 2355 20 11 love 
+- 2384
+: 2388 3 11 Makes 
+: 2395 3 11 the 
+: 2400 6 15 world 
+: 2408 7 13 go 
+* 2417 40 11 round 
+E

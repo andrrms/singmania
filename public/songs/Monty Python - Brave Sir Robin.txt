@@ -1,0 +1,263 @@
+#ARTIST:Monty Python
+#TITLE:Brave Sir Robin
+#MP3:Monty Python - Brave Sir Robin.mp3
+#CREATOR:Kekstuete
+#GENRE:Soundtrack
+#YEAR:1975
+#LANGUAGE:English
+#BPM:383.8
+#GAP:16570
+#VIDEO:v=cFdgjYoBMIg,co=the-album-of-the-soundtrack-of-the-trailer-of-the-film-of-mo-50239e0fb5eff.jpg
+: 0 6 0 Brave
+: 8 4 5 ly 
+: 13 5 5 bold 
+: 22 2 7 Sir 
+: 28 4 8 Ro
+: 33 4 5 bin 
+- 39
+: 51 3 7 Rode 
+: 56 5 8 forth 
+: 65 2 5 from 
+: 70 5 7 Ca
+: 77 3 4 me
+: 83 10 5 lot. 
+- 95
+: 114 4 5 He 
+: 121 3 7 was 
+: 126 6 8 not 
+: 136 2 10 a
+: 142 4 12 fraid 
+: 151 2 12 to 
+: 155 8 12 die, 
+- 165
+: 172 4 10 Oh 
+: 185 6 15 brave 
+: 193 3 13 Sir 
+: 198 5 13 Ro
+: 204 5 12 bin. 
+- 211
+: 227 5 8 He 
+: 237 3 10 was 
+: 242 6 12 not 
+: 251 3 13 at 
+: 256 5 15 all 
+: 265 3 15 a
+: 269 3 15 fraid 
+- 274
+: 275 2 15 To 
+: 279 2 12 be 
+: 283 7 10 killed 
+: 292 2 10 in 
+: 297 5 10 nas
+: 305 2 12 ty 
+: 310 11 10 ways. 
+- 323
+: 339 9 8 Brave, 
+: 353 9 10 brave, 
+: 366 10 12 brave, 
+: 381 2 12 brave
+: 384 3 10 ~ 
+: 390 3 8 Sir 
+: 394 4 10 Ro
+: 399 6 10 bin. 
+- 407
+: 453 4 0 He 
+: 460 3 5 was 
+: 466 2 5 not 
+: 470 2 5 in 
+: 473 2 7 the 
+: 476 6 8 least 
+: 489 2 7 bit 
+: 492 5 5 scared 
+- 499
+: 500 2 4 To 
+: 503 2 8 be 
+: 508 5 7 mashed 
+: 519 3 5 in
+: 523 8 4 to 
+: 533 2 7 a 
+: 539 5 5 pulp. 
+- 546
+: 567 3 5 Or 
+: 575 2 7 to 
+: 580 6 8 have 
+: 589 2 10 his 
+: 593 7 12 eyes 
+: 603 5 12 gouged 
+: 611 6 12 out, 
+- 619
+: 625 5 10 And 
+: 635 2 10 his 
+: 639 5 15 el
+: 649 2 13 bows 
+: 656 4 13 bro
+: 663 3 12 ken. 
+- 668
+: 679 2 12 To 
+: 684 7 8 have 
+: 695 2 10 his 
+: 699 6 12 knee
+: 708 3 13 caps 
+: 714 6 15 split 
+- 722
+: 728 3 15 And 
+: 736 4 15 his 
+: 742 5 15 bo
+: 751 2 15 dy 
+: 756 5 13 burned 
+: 763 3 12 a
+: 769 11 10 way, 
+- 782
+: 788 3 12 And 
+: 792 3 10 his 
+: 797 3 8 limbs 
+: 806 3 8 all 
+: 812 5 10 hacked 
+: 821 2 10 and 
+: 824 8 12 man
+: 835 3 12 gled 
+- 839
+: 840 2 12 Brave
+: 843 3 10 ~ 
+: 849 2 8 Sir 
+: 853 3 10 Ro
+: 859 4 10 bin. 
+- 865
+: 907 2 12 His 
+: 912 3 15 head 
+: 921 4 15 smashed 
+: 926 2 15 in 
+- 929
+: 930 2 13 And 
+: 934 2 12 his 
+: 940 4 10 heart 
+: 949 3 10 cut 
+: 954 2 10 out 
+- 958
+: 959 2 12 And 
+: 963 1 13 his 
+: 967 1 15 li
+: 969 2 15 ver 
+: 975 2 15 re
+: 980 2 15 moved 
+- 984
+: 987 2 13 And 
+: 990 2 12 his 
+: 994 7 10 bowls 
+: 1003 4 10 un
+: 1009 3 10 plugged 
+- 1013
+: 1014 2 12 And 
+: 1017 2 13 his 
+: 1022 4 15 nos
+: 1032 2 15 trils 
+: 1036 2 15 raped 
+- 1040
+: 1041 2 13 And 
+: 1044 2 12 his 
+: 1049 2 10 bot
+: 1052 4 10 tom 
+: 1057 4 10 burnt 
+: 1063 3 10 off 
+- 1067
+: 1068 1 12 And 
+: 1070 3 13 his 
+: 1074 4 15 pen... 
+- 1080
+: 1629 4 5 He 
+: 1634 3 5 is 
+: 1641 5 5 brave 
+: 1649 2 7 Sir 
+: 1655 5 8 Ro
+: 1661 5 5 bin 
+- 1668
+: 1671 5 5 Brave 
+: 1680 3 7 Sir 
+: 1686 3 8 Ro
+: 1691 4 5 bin 
+- 1697
+: 1880 8 3 To 
+: 1893 21 8 fight 
+: 1922 13 10 and... 
+- 1937
+: 3419 4 0 Brave 
+: 3427 2 0 Sir 
+: 3430 7 5 Ro
+: 3439 3 8 bin 
+: 3443 6 7 ran 
+: 3452 2 4 a
+: 3456 6 5 way. 
+- 3464
+: 3484 4 5 Brave
+: 3490 3 7 ly 
+: 3494 3 8 ran 
+: 3503 3 10 a
+: 3507 7 12 way 
+: 3515 2 12 a
+: 3518 12 12 way. 
+- 3532
+: 3582 3 13 When 
+: 3587 5 15 dan
+: 3595 3 15 ger 
+: 3600 2 15 reared
+: 3603 3 13 ~ 
+: 3608 3 12 it’s 
+: 3613 4 10 u
+: 3621 2 10 gly 
+: 3625 6 10 head, 
+- 3632
+: 3633 3 10 He 
+: 3639 5 12 brave
+: 3646 2 12 ly 
+: 3650 3 12 turned
+: 3654 3 10 ~ 
+: 3658 3 8 his 
+: 3664 4 7 tail 
+: 3670 2 7 and 
+: 3674 4 7 fled. 
+- 3680
+: 3684 2 10 Yes, 
+: 3690 5 15 brave 
+: 3696 4 15 Sir 
+: 3701 5 12 Ro
+: 3708 4 12 bin 
+: 3713 7 10 turned 
+: 3724 2 10 a
+: 3728 5 10 bout 
+- 3735
+: 3736 3 10 And 
+: 3740 6 12 ga
+: 3748 4 12 llan
+: 3754 2 12 tly
+: 3757 3 10 ~ 
+: 3761 3 8 he 
+: 3765 5 7 chi
+: 3773 3 7 ckened 
+: 3777 4 7 out. 
+- 3783
+: 3792 6 5 Brave
+: 3801 2 5 ly 
+: 3806 5 7 ta
+: 3812 4 7 king 
+: 3817 6 8 to 
+: 3824 5 8 his 
+: 3830 4 7 feet, 
+- 3836
+: 3838 3 7 He 
+: 3844 5 5 beat 
+: 3851 3 5 a 
+: 3856 6 7 ve
+: 3864 3 7 ry 
+: 3870 6 8 brave 
+: 3878 3 8 re
+: 3883 4 7 treat. 
+- 3889
+: 3897 6 8 Bra
+: 3904 2 8 vest 
+: 3909 5 10 of 
+: 3915 4 10 the 
+: 3922 13 15 brave, 
+: 3942 3 13 Sir 
+: 3948 3 13 Ro
+: 3953 6 12 bin! 
+E

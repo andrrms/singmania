@@ -1,0 +1,333 @@
+#ARTIST:Strong Bad
+#TITLE:Everybody To The Limit
+#MP3:Strong Bad - Everybody To The Limit.mp3
+#CREATOR:GaryCXJk
+#YEAR:2003
+#LANGUAGE:English
+#BPM:400.7
+#GAP:270
+#VIDEO:v=votBDwhTu1E,co=https://f4.bcbits.com/img/a0804031450_10.jpg
+R 0 8 2 Come 
+R 19 12 2 on, 
+R 44 4 2 F
+R 51 5 2 hq
+R 59 7 2 wh
+R 68 12 2 gads. 
+- 120
+R 531 1 2 I 
+R 533 5 2 said 
+R 540 6 2 come 
+R 555 5 2 on 
+R 568 1 2 F
+R 570 6 2 hq
+R 577 3 2 wh
+R 581 8 2 gads 
+- 589
+R 591 4 2 Said 
+R 596 6 2 come 
+R 603 6 2 on 
+R 610 3 2 F
+R 614 5 2 hq
+R 621 4 2 wh
+R 627 10 2 gads 
+- 646
+R 650 2 2 Eve
+R 653 3 2 ry
+R 657 2 2 bo
+R 660 3 2 dy 
+R 665 2 2 to 
+R 668 2 2 the 
+R 671 3 2 li
+R 675 2 2 mit 
+- 677
+R 679 2 2 Eve
+R 682 3 2 ry
+R 686 2 2 bo
+R 689 3 2 dy 
+R 694 2 2 to 
+R 697 2 2 the 
+R 700 3 2 li
+R 704 2 2 mit 
+- 706
+R 708 2 2 Eve
+R 711 2 2 ry
+R 714 4 2 bo
+R 719 2 2 dy 
+R 722 3 2 come 
+R 726 3 2 on 
+R 730 2 2 F
+R 733 3 2 hq
+R 737 3 2 wh
+R 741 6 2 gads 
+- 757
+R 764 1 2 I 
+R 766 5 2 said 
+R 773 6 2 come 
+R 788 5 2 on 
+R 801 1 2 F
+R 803 6 2 hq
+R 810 3 2 wh
+R 814 8 2 gads 
+- 822
+R 824 4 2 Said 
+R 829 6 2 come 
+R 836 6 2 on 
+R 843 3 2 F
+R 847 5 2 hq
+R 854 4 2 wh
+R 860 10 2 gads 
+- 879
+R 883 2 2 Eve
+R 886 3 2 ry
+R 890 2 2 bo
+R 893 3 2 dy 
+R 898 2 2 to 
+R 901 2 2 the 
+R 904 3 2 li
+R 908 2 2 mit 
+- 910
+R 912 3 2 Who’s 
+R 916 3 2 that? 
+R 924 2 2 It’s 
+R 927 2 2 to 
+R 930 3 2 the 
+R 934 3 2 li
+R 938 2 2 mit 
+- 940
+R 942 2 2 Eve
+R 945 2 2 ry
+R 948 4 2 bo
+R 953 2 2 dy 
+R 956 3 2 come 
+R 960 3 2 on 
+R 964 2 2 F
+R 967 3 2 hq
+R 971 3 2 wh
+R 975 6 2 gads 
+- 991
+R 1019 3 2 Come 
+R 1023 2 2 on 
+R 1029 2 2 F
+R 1033 3 2 hq
+R 1038 3 2 wh
+R 1043 5 2 gads 
+- 1058
+R 1074 3 2 I 
+R 1080 4 2 see 
+R 1085 3 2 you 
+R 1090 3 2 joc
+R 1096 3 2 kin’ 
+R 1101 4 2 me 
+- 1115
+R 1137 2 2 Tryin’ 
+R 1141 2 2 to 
+R 1146 4 2 play 
+R 1152 6 2 like 
+- 1168
+R 1183 3 2 You 
+R 1189 4 2 know 
+R 1197 4 2 me 
+- 1211
+R 1229 3 2 I’m 
+R 1233 3 2 like 
+R 1240 6 2 come 
+R 1256 4 2 on 
+R 1267 2 2 F
+R 1270 5 2 hq
+R 1276 2 2 wh
+R 1279 5 2 gads 
+- 1288
+R 1290 3 2 Said 
+R 1294 5 2 come 
+R 1301 5 2 on 
+R 1308 3 2 F
+R 1312 3 2 h
+R 1316 3 2 q
+R 1320 3 2 wh
+R 1324 6 2 gads 
+- 1340
+R 1349 2 2 Eve
+R 1352 3 2 ry
+R 1356 2 2 bo
+R 1359 3 2 dy 
+R 1364 2 2 to 
+R 1367 2 2 the 
+R 1370 3 2 li
+R 1374 2 2 mit 
+- 1376
+R 1378 3 2 The 
+R 1382 3 2 Cheat 
+R 1390 2 2 is 
+R 1393 2 2 to 
+R 1396 3 2 the 
+R 1400 3 2 li
+R 1404 2 2 mit 
+- 1406
+R 1408 2 2 Eve
+R 1411 2 2 ry
+R 1414 4 2 bo
+R 1419 2 2 dy 
+R 1422 3 2 come 
+R 1426 3 2 on 
+R 1430 2 2 F
+R 1433 3 2 hq
+R 1437 3 2 wh
+R 1441 6 2 gads 
+- 1459
+R 1463 2 2 I 
+R 1466 5 2 said 
+R 1473 5 2 ooh 
+R 1487 5 2 ah 
+R 1499 2 2 F
+R 1502 4 2 hq
+R 1508 3 2 wh
+R 1513 4 2 gads 
+- 1521
+R 1523 4 2 Said 
+R 1528 3 2 ooh 
+R 1535 2 2 ah 
+R 1541 2 2 F
+R 1545 3 2 h
+R 1549 2 2 q
+R 1552 3 2 wh
+R 1556 10 2 gads 
+- 1576
+R 1588 5 2 Who’s 
+R 1596 3 2 that 
+R 1602 4 2 fh-
+R 1607 4 2 huh-
+R 1613 6 2 hoo-
+R 1621 3 2 hu
+R 1625 2 2 ga-
+R 1628 7 2 wha 
+- 1635
+R 1636 2 2 I 
+R 1639 3 2 said
+R 1643 2 2 -a 
+R 1647 3 2 who 
+R 1651 2 2 is 
+R 1654 2 2 that
+R 1657 2 2 -a 
+R 1661 3 2 F
+R 1665 3 2 hq
+R 1669 2 2 wh
+R 1672 13 2 gads 
+- 1695
+R 1706 4 2 I 
+R 1713 4 2 don’t 
+R 1720 5 2 know 
+R 1735 4 2 who 
+R 1741 4 2 it 
+R 1746 5 2 is 
+- 1757
+R 1760 2 2 But 
+R 1763 2 2 it 
+R 1766 6 2 proba
+R 1773 3 2 bly 
+R 1777 4 2 is 
+R 1782 2 2 F
+R 1785 4 2 hq
+R 1790 2 2 wh
+R 1793 10 2 gads 
+- 1812
+R 1816 3 2 I 
+R 1820 3 2 asked 
+R 1826 4 2 my 
+R 1831 4 2 friend 
+R 1838 5 2 Joe 
+- 1843
+R 1845 2 2 I 
+R 1848 5 2 asked 
+R 1856 3 2 my 
+R 1860 4 2 friend 
+R 1867 4 2 Jake 
+- 1876
+R 1878 2 2 They 
+R 1881 3 2 said 
+R 1885 2 2 it 
+R 1888 3 2 was 
+R 1892 2 2 F
+R 1895 3 2 h
+R 1899 3 2 q
+R 1903 2 2 wh
+R 1906 8 2 gads 
+- 1924
+R 1928 1 2 I 
+R 1930 5 2 said 
+R 1937 6 2 come 
+R 1952 5 2 on 
+R 1965 1 2 F
+R 1967 6 2 hq
+R 1974 3 2 wh
+R 1978 8 2 gads 
+- 1986
+R 1988 4 2 Said 
+R 1993 6 2 come 
+R 2000 6 2 on 
+R 2007 3 2 F
+R 2011 5 2 hq
+R 2018 4 2 wh
+R 2024 10 2 gads 
+- 2046
+R 2050 5 2 Who’s-
+R 2056 4 2 a 
+R 2061 2 2 to 
+R 2065 2 2 the 
+R 2068 2 2 li
+R 2071 3 2 mit? 
+- 2074
+R 2075 4 2 Say 
+R 2080 2 2 me! 
+R 2088 2 2 I’m 
+R 2091 2 2 to 
+R 2094 2 2 the 
+R 2098 2 2 li
+R 2101 2 2 mit 
+- 2103
+R 2105 2 2 Eve
+R 2108 2 2 ry
+R 2111 3 2 bo
+R 2115 3 2 dy 
+R 2119 2 2 come 
+R 2122 3 2 on 
+R 2126 3 2 F
+R 2130 3 2 hq
+R 2134 2 2 wh
+R 2137 9 2 gads 
+- 2199
+R 2299 4 2 Man, 
+R 2307 2 2 F
+R 2310 5 2 hq
+R 2316 3 2 wh
+R 2320 10 2 gads 
+- 2340
+R 2367 2 2 You’re 
+R 2370 4 2 just 
+R 2376 4 2 ma
+R 2381 2 2 king 
+R 2385 3 2 your
+R 2389 5 2 self 
+R 2395 4 2 look 
+R 2400 7 2 worse, 
+R 2410 2 2 y’
+R 2413 5 2 know 
+- 2428
+R 2455 2 2 I 
+R 2458 6 2 mean, 
+R 2480 2 2 eve
+R 2483 2 2 ry
+R 2486 2 2 bo
+R 2489 3 2 dy’s 
+R 2493 4 2 just 
+R 2498 5 2 gonna 
+R 2504 4 2 feel 
+R 2510 6 2 sor
+R 2517 3 2 ry 
+R 2521 5 2 for 
+R 2527 3 2 ya 
+- 2540
+R 2567 1 2 I 
+R 2569 4 2 mean, 
+R 2574 4 2 I 
+R 2580 5 2 do 
+E

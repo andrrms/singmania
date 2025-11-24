@@ -1,0 +1,517 @@
+#ARTIST:Electric Callboy
+#TITLE:MC Thunder
+#MP3:Electric Callboy - MC Thunder.mp3
+#CREATOR:Su-Metal
+#YEAR:2017
+#LANGUAGE:English
+#BPM:353.08
+#GAP:28730
+#VIDEO:v=wobbf3lb2nk,co=https://cdn-images.dzcdn.net/images/cover/1d12cb880a572cd7b287eb3deea27aac/0x1900-000000-80-0-0.jpg,bg=eskimo-callboy-517275721ad8a.jpg,tags=explicit
+F 0 4 0 It’s 
+F 6 3 0 al
+F 11 2 0 most 
+F 16 7 0 six 
+F 27 3 0 in 
+F 31 2 0 the 
+F 35 4 0 mor
+F 40 3 0 ning 
+- 45
+F 47 2 0 Rol
+F 50 4 0 ling 
+F 56 3 0 out 
+F 61 2 0 of 
+F 65 2 0 the 
+F 71 6 0 club 
+- 79
+F 81 3 0 No 
+F 86 4 0 pen
+F 91 3 0 ny 
+F 96 6 0 left 
+F 107 3 0 in 
+F 112 2 0 my 
+F 116 4 0 po
+F 121 3 0 cket 
+- 126
+F 128 2 0 It 
+F 131 3 0 went 
+F 136 5 0 all 
+F 144 5 0 to 
+F 151 3 0 the 
+F 156 10 0 shots 
+- 168
+F 170 2 0 I’d 
+F 177 3 0 kill 
+F 182 3 0 for 
+F 187 2 0 a 
+F 192 4 0 bur
+F 197 5 0 ger 
+- 204
+F 206 4 0 Or 
+F 212 2 0 a 
+F 217 3 0 cab 
+F 222 3 0 to 
+F 227 4 0 ride 
+F 233 10 0 home 
+- 245
+F 247 7 0 I’d 
+F 258 2 0 like 
+F 262 3 0 to 
+F 267 3 0 call 
+F 273 2 0 my 
+F 277 1 0 mom 
+- 280
+F 282 3 0 But 
+F 287 3 0 where 
+F 292 3 0 the 
+F 298 5 0 fuck 
+F 305 4 0 is 
+F 313 3 0 my 
+F 318 12 0 phone 
+- 332
+F 338 4 0 Oh 
+F 344 6 0 my 
+F 353 6 0 god, 
+F 362 4 0 what 
+F 368 3 0 do 
+F 373 3 0 my 
+F 378 1 0 eyes 
+- 381
+F 383 3 0 Spot 
+F 389 3 0 there 
+F 393 2 0 at 
+F 396 1 0 the 
+F 398 4 0 par
+F 403 3 0 king 
+F 408 9 0 place 
+- 419
+F 423 3 0 Fine 
+F 429 7 0 curves 
+F 444 3 0 good 
+F 450 5 0 shape 
+F 463 5 0 nice 
+F 471 6 0 rack 
+- 479
+F 483 3 0 I 
+F 489 5 0 wa
+F 495 3 0 nna 
+F 500 6 0 ride 
+F 509 4 0 this 
+F 515 4 0 im
+F 520 4 0 pres
+F 525 3 0 sive 
+F 530 4 0 beau
+F 535 1 0 ty 
+- 538
+F 540 3 0 Ev
+F 544 4 0 ery 
+F 551 3 0 night 
+F 556 2 0 and 
+F 560 10 0 day 
+- 572
+F 580 6 0 Burn 
+F 591 3 0 all 
+F 596 2 0 the 
+F 600 4 0 rub
+F 605 1 0 bers 
+- 608
+F 610 4 0 Bet
+F 615 2 0 ter 
+F 620 2 0 get 
+F 624 2 0 out 
+F 627 6 0 of 
+F 635 3 0 the 
+F 640 16 0 way 
+- 658
+: 797 3 7 I’m 
+: 803 4 7 dri
+: 808 3 9 ving 
+: 813 2 9 in 
+: 817 3 7 a 
+: 822 4 9 Ca
+: 827 5 11 dil
+: 833 6 4 lac 
+- 841
+: 848 4 11 Ca
+: 853 4 11 dil
+: 858 12 9 lac 
+- 872
+: 878 3 7 And 
+: 883 3 7 I 
+: 888 3 9 don’t 
+: 893 4 9 wa
+: 898 2 7 nna 
+: 903 3 9 give 
+: 908 3 11 it 
+: 913 8 4 back 
+- 923
+: 928 3 11 Give 
+: 933 3 11 it 
+: 939 4 9 ba
+: 944 8 7 ~ck 
+- 954
+: 959 3 7 I’m 
+: 964 4 7 dri
+: 969 3 9 ving 
+: 974 3 9 in 
+: 979 2 7 a 
+: 984 4 9 Ca
+: 989 4 11 dil
+: 994 6 4 lac 
+- 1002
+: 1009 4 11 Ca
+: 1014 5 11 dil
+: 1020 12 9 lac 
+- 1034
+: 1054 5 7 So 
+: 1064 5 9 fuck 
+: 1075 5 9 that, 
+: 1085 5 9 fuck 
+: 1094 6 9 that 
+- 1102
+* 1105 3 9 This 
+* 1110 3 9 is 
+* 1115 3 9 not 
+* 1120 3 11 my 
+* 1125 4 9 Ca
+* 1130 4 7 dil
+* 1135 7 4 lac 
+- 1144
+F 1493 4 0 It’s 
+F 1499 3 0 al
+F 1504 2 0 ways 
+F 1509 6 0 time 
+F 1519 3 0 for 
+F 1523 3 0 a 
+F 1529 5 0 burn
+F 1535 1 0 out 
+- 1538
+F 1539 4 0 Wai
+F 1544 3 0 ting 
+F 1549 3 0 at 
+F 1554 2 0 the 
+F 1558 3 0 Mc
+F 1564 10 0 Drive 
+- 1576
+F 1579 4 0 Gim
+F 1584 3 0 me 
+F 1589 3 0 twen
+F 1593 3 0 ty 
+F 1599 4 0 chi
+F 1605 2 0 cken 
+F 1609 5 0 nug
+F 1615 2 0 gets 
+- 1619
+F 1621 2 0 And 
+F 1624 3 0 some 
+F 1629 4 0 nudes 
+F 1635 2 0 of 
+F 1640 3 0 your 
+F 1645 10 0 wife 
+- 1657
+F 1659 3 0 And 
+F 1664 3 0 the 
+F 1670 4 0 night 
+F 1675 2 0 is 
+F 1680 2 0 my 
+F 1684 4 0 wit
+F 1689 7 0 ness 
+- 1698
+F 1700 3 0 As 
+F 1705 3 0 I 
+F 1710 3 0 drive 
+F 1715 4 0 in
+F 1720 3 0 to 
+F 1725 11 0 town 
+- 1738
+F 1740 3 0 Check 
+F 1745 3 0 my 
+F 1750 6 0 new 
+F 1761 5 0 whip 
+F 1771 3 0 ba
+F 1775 3 0 by 
+- 1780
+F 1782 2 0 With 
+F 1786 2 0 the 
+F 1790 5 0 V
+F 1796 5 0 8 
+F 1806 10 0 sound 
+- 1818
+F 1831 4 0 Oh 
+F 1837 5 0 my 
+F 1846 6 0 god, 
+F 1855 4 0 what 
+F 1862 2 0 do 
+F 1866 3 0 my 
+F 1871 2 0 eyes 
+- 1875
+F 1877 3 0 Spot 
+F 1882 3 0 there 
+F 1886 1 0 at 
+F 1889 1 0 the 
+F 1892 4 0 par
+F 1897 3 0 king 
+F 1902 8 0 place 
+- 1912
+F 1916 3 0 Fine 
+F 1922 7 0 curves 
+F 1937 3 0 good 
+F 1943 7 0 shape 
+F 1957 4 0 nice 
+F 1963 7 0 rack 
+- 1972
+F 1977 3 0 I 
+F 1982 5 0 wa
+F 1988 3 0 nna 
+F 1993 6 0 ride 
+F 2002 4 0 this 
+F 2008 4 0 im
+F 2013 4 0 pres
+F 2018 3 0 sive 
+F 2023 4 0 beau
+F 2028 2 0 ty 
+- 2032
+F 2034 3 0 Ev
+F 2038 2 0 ery 
+F 2043 4 0 night 
+F 2049 2 0 and 
+F 2054 8 0 day 
+- 2064
+F 2073 7 0 Burn 
+F 2084 2 0 all 
+F 2088 3 0 the 
+F 2094 4 0 rub
+F 2099 1 0 bers 
+- 2102
+F 2103 5 0 Bet
+F 2109 2 0 ter 
+F 2113 4 0 get 
+F 2119 2 0 out 
+F 2122 3 0 of 
+F 2127 3 0 the 
+F 2133 15 0 way 
+- 2150
+: 2290 3 7 I’m 
+: 2296 3 7 dri
+: 2300 4 9 ving 
+: 2306 2 9 in 
+: 2310 3 7 a 
+: 2315 5 9 Ca
+: 2321 4 11 dil
+: 2326 8 4 lac 
+- 2336
+: 2341 4 11 Ca
+: 2346 4 11 dil
+: 2351 10 9 lac 
+- 2363
+* 2371 3 7 And 
+* 2376 3 7 I 
+* 2381 3 9 don’t 
+* 2386 4 9 wa
+* 2391 3 7 nna 
+* 2397 3 9 give 
+* 2401 3 11 it 
+* 2406 8 4 back 
+- 2416
+: 2421 4 11 Give 
+: 2426 3 11 it 
+: 2432 3 9 ba
+: 2436 8 7 ~ck 
+- 2446
+: 2452 3 7 I’m 
+: 2457 4 7 dri
+: 2462 3 9 ving 
+: 2467 3 9 in 
+: 2472 3 7 a 
+: 2477 4 9 Ca
+: 2482 4 11 dil
+: 2487 8 4 lac 
+- 2497
+: 2502 4 11 Ca
+: 2507 4 11 dil
+: 2512 12 9 lac 
+- 2526
+: 2547 6 7 So 
+: 2557 5 9 fuck 
+: 2567 5 9 that, 
+: 2578 5 9 fuck 
+: 2588 5 9 that 
+- 2595
+* 2598 3 9 This 
+* 2603 3 9 is 
+* 2608 3 9 not 
+* 2613 3 11 my 
+* 2618 4 9 Ca
+* 2623 4 7 dil
+* 2628 5 4 lac 
+- 2635
+F 2950 4 0 Like 
+F 2956 3 0 a 
+F 2960 8 0 brave 
+F 2971 3 0 man 
+F 2976 3 0 in 
+F 2981 1 0 tights 
+- 2984
+F 2986 3 0 I 
+F 2991 3 0 on
+F 2995 3 0 ly 
+F 3002 3 0 take 
+F 3006 3 0 from 
+F 3011 3 0 the 
+F 3017 8 0 rich 
+- 3027
+F 3032 3 0 Call 
+F 3037 2 0 me 
+F 3041 7 0 M
+F 3051 7 0 C 
+F 3062 4 0 Thun
+F 3067 5 0 der 
+- 3074
+F 3081 7 0 M
+F 3091 6 0 C 
+F 3102 4 0 Thun
+F 3107 1 0 der 
+- 3110
+F 3112 3 0 Like 
+F 3117 2 0 a 
+F 3121 8 0 brave 
+F 3133 3 0 man 
+F 3137 3 0 in 
+F 3142 2 0 tights 
+- 3146
+F 3148 3 0 I 
+F 3153 3 0 on
+F 3157 3 0 ly 
+F 3163 3 0 take 
+F 3168 3 0 from 
+F 3173 3 0 the 
+F 3178 10 0 rich 
+- 3190
+F 3193 3 0 Call 
+F 3198 3 0 me 
+F 3203 6 0 M
+F 3213 6 0 C 
+F 3224 3 0 Thun
+F 3228 5 0 der 
+- 3235
+F 3243 6 0 M
+F 3253 6 0 C 
+F 3264 3 0 Thun
+F 3268 6 0 der 
+- 3276
+F 3284 1 0 Thun
+F 3289 4 0 der, 
+F 3305 3 0 thun
+F 3309 4 0 der, 
+F 3324 4 0 thun
+F 3329 4 0 der, 
+F 3345 3 0 thun
+F 3349 4 0 der 
+- 3355
+F 3757 4 0 Like 
+F 3763 2 0 a 
+F 3767 6 0 brave 
+F 3778 4 0 man 
+F 3784 2 0 in 
+F 3788 1 0 tights 
+- 3791
+F 3793 3 0 I 
+F 3798 3 0 on
+F 3802 3 0 ly 
+F 3809 3 0 take 
+F 3814 3 0 from 
+F 3819 2 0 the 
+F 3824 10 0 rich 
+- 3836
+F 3839 3 0 Call 
+F 3843 3 0 me 
+F 3848 7 0 M
+F 3859 5 0 C 
+F 3869 4 0 Thun
+F 3874 5 0 der 
+- 3881
+F 3889 6 0 M
+F 3899 6 0 C 
+F 3909 4 0 Thun
+F 3915 1 0 der 
+- 3918
+F 3920 2 0 Like 
+F 3924 3 0 a 
+F 3929 7 0 brave 
+F 3940 3 0 man 
+F 3945 2 0 in 
+F 3950 1 0 tights 
+- 3953
+F 3954 3 0 I 
+F 3960 3 0 on
+F 3964 2 0 ly 
+F 3970 3 0 take 
+F 3975 3 0 from 
+F 3980 3 0 the 
+F 3985 10 0 rich 
+- 3997
+F 4000 3 0 Call 
+F 4005 3 0 me 
+F 4010 6 0 M
+F 4020 6 0 C 
+F 4030 4 0 Thun
+F 4035 5 0 der 
+- 4042
+F 4051 6 0 M
+F 4060 6 0 C 
+F 4071 4 0 Thun
+F 4076 6 0 der 
+- 4084
+: 4388 4 7 I’m 
+: 4394 4 7 dri
+: 4399 3 9 ving 
+: 4404 3 9 in 
+: 4408 3 7 a 
+: 4414 4 9 Ca
+: 4419 4 11 dil
+: 4424 6 4 lac 
+- 4432
+* 4439 4 11 Ca
+* 4444 4 11 dil
+* 4450 9 9 lac 
+- 4461
+: 4469 3 7 And 
+: 4474 4 7 I 
+: 4480 3 9 don’t 
+: 4485 3 9 wa
+: 4489 3 7 nna 
+: 4495 3 9 give 
+: 4499 3 11 it 
+: 4505 6 4 back 
+- 4513
+* 4520 3 11 Give 
+* 4525 3 11 it 
+* 4530 3 9 ba
+* 4534 8 7 ~ck 
+- 4544
+: 4550 3 7 I’m 
+: 4555 4 7 dri
+: 4560 3 9 ving 
+: 4565 3 9 in 
+: 4570 3 7 a 
+: 4575 5 9 Ca
+: 4581 4 11 dil
+: 4586 7 4 lac 
+- 4595
+: 4600 5 11 Ca
+: 4606 4 11 dil
+: 4611 12 9 lac 
+- 4625
+: 4646 5 7 So 
+: 4656 5 9 fuck 
+: 4665 5 9 that, 
+: 4676 5 9 fuck 
+: 4686 5 9 that 
+- 4693
+: 4697 3 9 Now 
+: 4702 3 9 this 
+: 4707 2 9 is 
+: 4712 3 11 my 
+: 4717 4 9 Ca
+: 4722 4 7 dil
+: 4727 6 4 lac 
+E

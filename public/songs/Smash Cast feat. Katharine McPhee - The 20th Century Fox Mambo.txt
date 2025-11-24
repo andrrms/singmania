@@ -1,0 +1,365 @@
+#ARTIST:Smash Cast feat. Katharine McPhee
+#TITLE:The 20th Century Fox Mambo
+#MP3:Smash Cast feat. Katharine McPhee - The 20th Century Fox Mambo.mp3
+#CREATOR:seanie627
+#GENRE:Musical
+#YEAR:2013
+#LANGUAGE:English
+#BPM:375.68
+#GAP:8620
+#VIDEO:v=sUbS8uWEj5c,co=https://i.scdn.co/image/ab67616d0000b273fdd981f21ace2dbf9f86b14a,bg=smash-2012-530fdf7f5761c.jpg
+: 0 4 0 At 
+: 8 6 2 Pa
+: 16 4 4 ra
+: 22 8 2 mount 
+: 32 5 0 it’s 
+: 40 6 2 oh 
+: 48 6 2 la 
+: 57 16 2 la 
+- 75
+: 152 2 3 The 
+: 156 6 4 War
+: 164 4 7 ner 
+: 172 4 4 Bro
+: 178 4 3 thers 
+: 184 8 4 cha 
+: 194 8 4 cha 
+: 204 16 4 cha 
+- 222
+: 300 4 8 And 
+: 308 4 8 L 
+: 316 4 9 B 
+: 322 4 8 May
+: 328 4 9 er 
+: 334 6 8 loves 
+: 342 6 9 his 
+: 350 13 8 schmaltz 
+- 364
+: 364 6 9 So 
+: 372 6 8 M 
+: 380 4 9 G 
+: 386 8 8 M 
+: 396 6 9 made 
+: 404 4 8 the 
+: 412 6 9 great 
+* 420 28 10 waltz 
+- 450
+: 528 4 1 But 
+: 533 3 2 the 
+: 538 11 7 Twen
+: 550 2 9 ti
+: 553 5 7 eth 
+: 564 4 5 Cen
+: 569 4 7 tu
+: 574 8 5 ry 
+: 584 8 3 Fox
+: 596 12 4 trot 
+- 610
+: 628 4 1 It’s 
+: 636 8 7 pre
+: 646 6 9 cious 
+- 654
+F 656 4 0 But 
+F 662 4 0 pre
+F 668 4 0 cious 
+- 674
+: 680 6 7 It’s 
+: 688 10 5 not 
+: 700 16 6 hot 
+- 718
+: 740 4 2 To 
+: 748 10 7 make 
+: 760 8 7 the 
+: 772 8 7 big 
+: 784 12 2 boys 
+: 800 4 8 hi
+: 806 8 8 re 
+: 816 20 8 me 
+- 838
+: 844 12 8 Please 
+: 860 8 9 make 
+: 872 8 9 that 
+: 888 12 8 rhy
+: 904 14 9 thm 
+- 919
+: 920 31 12 Fier
+: 952 2 10 ~ 
+: 955 1 12 ~ 
+: 957 2 10 ~ 
+* 960 68 9 y 
+- 1030
+F 1068 4 0 Come 
+F 1073 3 0 on 
+F 1078 6 0 boys 
+F 1085 2 0 and 
+F 1090 9 0 girls 
+- 1101
+F 1108 8 0 Make 
+F 1117 3 0 me 
+F 1121 4 0 o
+F 1126 7 0 ver 
+- 1135
+: 1280 4 2 In 
+: 1286 4 3 this 
+: 1292 2 5 fac
+: 1296 6 7 tory 
+: 1304 2 8 where 
+: 1308 6 7 dreams 
+: 1316 4 7 can 
+: 1322 4 3 come 
+: 1328 6 0 true 
+- 1336
+: 1342 6 2 Are 
+: 1350 4 3 you 
+: 1356 6 5 read
+: 1363 3 8 y 
+: 1368 2 5 to 
+: 1372 4 7 make 
+: 1379 4 7 some
+: 1385 3 3 one 
+: 1391 5 0 new 
+- 1398
+: 1406 6 8 You’re 
+: 1415 3 7 the 
+: 1419 5 5 team 
+: 1426 3 10 that 
+: 1431 3 8 must 
+: 1435 5 7 teach 
+: 1442 4 12 me 
+: 1449 2 7 to 
+: 1453 8 11 do 
+- 1463
+: 1465 2 8 The 
+: 1468 4 7 Twen
+: 1473 2 8 ti
+: 1477 2 7 eth 
+: 1480 6 5 Cen
+: 1488 4 3 tu
+: 1493 5 2 ry 
+: 1500 8 0 Fox 
+- 1510
+: 1512 8 3 Mam
+: 1524 9 0 bo 
+- 1535
+: 1566 6 2 Done 
+: 1573 2 3 the 
+: 1576 6 5 home
+: 1584 3 7 work 
+: 1588 4 8 and 
+: 1593 4 7 I’ll 
+: 1600 4 7 pass 
+: 1608 2 3 the 
+: 1612 7 0 test 
+- 1621
+: 1624 2 1 I’ll 
+: 1628 6 2 do 
+: 1636 4 3 what
+: 1642 4 5 ev
+: 1648 2 8 er 
+: 1652 2 5 my 
+* 1656 6 7 teach
+: 1664 4 7 er 
+: 1671 3 3 sug
+: 1676 6 0 gests 
+- 1684
+: 1692 4 8 I 
+: 1698 4 7 can 
+: 1704 5 5 do 
+: 1711 3 10 it 
+- 1716
+F 1718 6 0 Clothed 
+F 1728 4 0 or 
+F 1734 3 0 un
+F 1739 7 0 dressed 
+- 1748
+: 1750 2 8 The 
+: 1754 3 7 Twen
+: 1759 2 8 ti
+: 1763 2 7 eth 
+: 1768 4 5 Cen
+: 1773 4 3 tu
+: 1778 4 2 ry 
+: 1785 8 0 Fox 
+- 1795
+* 1797 8 3 Mam
+: 1809 9 0 bo 
+- 1820
+: 1854 4 10 Make 
+: 1861 3 8 it 
+: 1866 6 7 up 
+- 1874
+: 1878 4 10 Shake 
+: 1885 3 8 it 
+: 1890 6 7 up 
+- 1898
+: 1900 4 10 Let 
+: 1908 2 7 the 
+: 1912 6 8 fan
+: 1920 2 10 ta
+: 1924 6 7 sies 
+: 1932 3 8 be
+: 1936 12 5 gin 
+- 1949
+F 1950 4 0 Here’s 
+F 1956 2 0 the 
+F 1960 7 0 dope 
+- 1969
+F 1980 4 0 To 
+F 1986 4 0 get 
+F 1992 8 0 cast 
+F 2004 6 0 change 
+F 2012 2 0 the 
+F 2016 8 0 past 
+- 2026
+: 2028 6 12 Make 
+: 2036 2 10 the 
+: 2040 4 11 light 
+: 2046 4 7 just 
+: 2052 4 8 right 
+: 2058 2 6 for 
+- 2062
+: 2064 10 7 Ci
+: 2076 2 5 ne
+: 2080 4 2 ma
+* 2088 6 -5 scope 
+- 2096
+: 2104 4 2 Take 
+: 2110 2 3 a 
+: 2114 7 5 gam
+: 2122 2 7 ble 
+: 2126 2 8 ’cause 
+: 2130 4 7 it’s 
+: 2138 4 7 safe 
+: 2145 2 3 to 
+: 2150 5 0 bet 
+- 2157
+: 2165 5 2 Mis
+: 2172 2 3 ter 
+: 2178 6 5 Za
+: 2185 2 8 nick 
+: 2188 4 5 ain’t 
+: 2194 6 7 seen 
+: 2202 5 7 no
+: 2209 2 3 thing 
+: 2214 6 0 yet 
+- 2222
+: 2228 6 8 When 
+: 2236 4 7 we’re 
+: 2242 4 5 fi
+: 2248 4 10 nished 
+: 2254 4 8 he’ll 
+: 2260 4 7 ne
+* 2266 4 12 ver 
+: 2272 4 7 for
+: 2278 6 11 get 
+- 2286
+: 2288 2 8 This 
+: 2292 4 7 Twen
+: 2297 2 9 ti
+: 2301 2 7 eth 
+: 2304 6 9 Cen
+: 2312 2 10 tu
+: 2316 4 11 ry 
+: 2322 10 12 Fox 
+- 2334
+F 2758 5 0 For 
+F 2767 33 0 fame 
+- 2802
+F 2812 12 0 Play 
+F 2828 5 0 the 
+F 2838 32 0 game 
+- 2872
+F 2880 8 0 Change 
+F 2892 8 0 your 
+F 2904 28 0 name 
+- 2934
+F 2944 4 0 To 
+F 2950 2 0 the 
+F 2956 4 0 Twen
+F 2961 2 0 ti
+F 2965 2 0 eth 
+F 2968 6 0 Cen
+F 2976 2 0 tu
+F 2980 6 0 ry 
+F 2988 10 0 Fox 
+- 3000
+: 3024 6 10 Make 
+: 3032 4 8 it 
+: 3038 6 7 up 
+- 3046
+: 3048 6 11 Shake 
+: 3056 4 9 it 
+: 3062 6 8 up 
+- 3070
+: 3072 6 11 Make 
+: 3080 2 8 me 
+: 3084 6 9 feel 
+: 3092 4 11 like 
+: 3097 3 9 the 
+: 3101 5 8 main 
+: 3108 3 9 at
+: 3112 8 8 trac
+* 3122 24 6 tion 
+- 3148
+: 3152 6 13 Change 
+: 3160 2 11 the 
+: 3164 8 10 clothes 
+- 3174
+: 3176 6 13 Fix 
+: 3184 2 11 the 
+: 3188 6 10 nose 
+: 3198 4 10 and 
+: 3203 5 9 then 
+- 3209
+F 3210 4 0 Five 
+F 3218 4 0 six 
+F 3226 2 0 se
+F 3230 2 0 ven 
+F 3234 4 0 eight 
+F 3242 4 0 ac
+F 3250 5 0 tion 
+- 3257
+F 3258 4 0 Ac
+F 3266 3 0 tion 
+- 3271
+: 3274 4 4 Now 
+: 3280 4 5 I’m 
+: 3286 6 7 blonde 
+: 3294 4 10 but 
+: 3300 6 9 I 
+: 3308 4 9 ain’t 
+: 3316 4 5 so 
+: 3322 6 2 dumb 
+- 3330
+: 3336 6 4 Hol
+: 3344 4 5 ly
+: 3349 5 7 wood 
+: 3356 2 10 will 
+: 3360 2 7 be 
+: 3364 6 9 un
+: 3372 2 9 der 
+: 3376 4 5 my 
+: 3384 4 2 thumb 
+- 3390
+: 3400 4 10 I’ll 
+: 3406 4 9 change 
+: 3412 4 7 part
+: 3418 6 12 ners 
+: 3426 4 10 un
+: 3432 2 9 til 
+* 3436 6 14 I 
+: 3444 2 9 be
+: 3448 8 13 come 
+- 3458
+: 3648 2 10 The 
+: 3652 4 8 Twen
+: 3657 2 9 ti
+: 3661 2 10 eth 
+: 3664 6 11 Cen
+: 3672 2 12 tu
+: 3676 6 13 ry 
+* 3684 8 14 Fox 
+- 3694
+: 3718 14 17 Mam
+* 3734 15 14 bo 
+E

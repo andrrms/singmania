@@ -1,0 +1,185 @@
+#ARTIST:Chris Rea
+#TITLE:Looking For The Summer
+#MP3:Chris Rea - Looking For The Summer.mp3
+#CREATOR:mustangfred
+#GENRE:Pop
+#YEAR:1991
+#LANGUAGE:English
+#BPM:380.36
+#GAP:32410
+#VIDEO:v=FIL8PxLmjm4,co=https://coverartarchive.org/release/0d53a9ee-9fe4-4fb1-9caa-f70ee397e27d/38170798262.jpg,bg=rea-chris-4fc1e517505f5.jpg,preview=45.21,medley=0-1390
+: 0 2 -6 Look 
+: 8 2 -1 deep 
+: 14 4 -1 in
+: 22 6 2 to 
+: 32 4 2 the 
+* 38 4 4 A
+* 44 6 4 pril 
+: 54 10 6 face 
+- 66
+: 132 2 -6 A 
+: 136 6 -1 change 
+: 146 2 -1 has 
+: 154 2 2 clear
+: 158 2 2 ly 
+: 166 4 4 ta
+: 172 2 -1 ken 
+: 180 8 -1 place 
+- 190
+: 326 4 -6 Loo
+: 332 4 -3 king 
+: 340 4 -1 for 
+: 346 2 -1 the 
+* 354 4 2 sum
+* 360 6 -1 mer 
+- 368
+: 516 2 -6 The 
+: 520 4 -1 eyes 
+: 530 4 -1 take 
+: 536 4 2 on 
+: 542 2 2 a 
+: 550 8 4 cer
+: 560 10 4 tain 
+: 576 12 6 gaze 
+- 590
+: 644 2 -6 And 
+: 648 4 -1 leave 
+: 656 4 -1 be
+: 662 8 2 hind 
+: 672 2 2 the 
+: 680 4 4 spring
+: 690 8 -1 time 
+: 704 12 -1 days 
+- 718
+: 832 4 -6 Go 
+: 840 4 2 loo
+: 846 2 1 king 
+: 854 2 -1 for 
+: 858 2 -3 the 
+: 866 4 2 sum
+: 872 4 -1 mer 
+- 878
+: 1024 2 6 This 
+: 1030 4 6 ain’t 
+: 1038 2 6 no 
+: 1044 4 6 game 
+: 1052 2 6 of 
+: 1058 2 6 kiss 
+: 1066 2 4 and 
+: 1074 14 7 tell 
+- 1090
+: 1146 4 2 The 
+* 1152 2 2 im
+* 1156 2 4 pli
+* 1162 2 4 ca
+* 1166 2 6 ~
+* 1172 4 4 tions 
+: 1184 4 4 how 
+: 1192 2 2 you 
+: 1200 2 4 know 
+: 1210 4 -1 so 
+: 1216 8 -1 well 
+- 1226
+: 1350 2 -6 Go 
+: 1354 2 2 loo
+: 1358 2 1 king 
+: 1366 2 -1 for 
+: 1370 2 -3 the 
+: 1378 4 2 sum
+: 1384 6 -1 mer 
+- 1392
+: 2052 2 -1 The 
+: 2058 4 6 time 
+: 2064 2 6 has 
+: 2072 6 6 come 
+: 2080 2 6 and 
+: 2084 6 6 they 
+: 2092 4 4 must 
+: 2100 12 7 go 
+- 2114
+: 2166 2 -6 To 
+: 2174 4 2 play 
+: 2180 2 4 the 
+: 2184 2 4 pas
+* 2188 2 6 ~
+* 2194 2 4 sion 
+: 2200 6 4 out 
+: 2210 2 2 that 
+: 2218 6 4 haunts 
+: 2228 2 -1 you 
+: 2236 6 -1 so 
+- 2244
+: 2376 4 1 Loo
+: 2382 4 1 king 
+: 2390 4 -1 for 
+: 2396 2 -3 the 
+: 2402 4 2 sum
+: 2408 6 -1 mer 
+- 2416
+: 2564 2 -6 Re
+: 2568 4 1 mem
+: 2576 2 -1 ber 
+: 2582 6 2 love 
+: 2592 4 2 how 
+: 2598 4 2 it 
+: 2606 4 4 was 
+: 2614 2 4 the 
+: 2620 10 6 same 
+- 2632
+: 2676 2 -1 We 
+: 2684 4 -1 scratched 
+: 2692 4 -1 and 
+: 2700 6 2 hurt 
+: 2708 4 2 each 
+: 2716 2 2 o
+: 2720 2 2 thers 
+: 2726 4 2 gro
+: 2732 4 4 ~w
+: 2738 2 -1 ing 
+: 2746 4 -1 pains 
+- 2752
+: 2878 2 -6 We 
+: 2882 2 -3 were 
+: 2888 2 2 loo
+: 2892 4 1 king 
+: 2900 4 -1 for 
+: 2906 2 -3 the 
+: 2914 4 2 sum
+: 2920 8 -1 mer 
+- 2930
+: 3076 2 -1 And 
+: 3082 2 6 still 
+: 3086 2 6 I 
+: 3094 4 6 stand 
+: 3102 2 6 this 
+: 3110 4 6 ve
+: 3116 2 4 ry 
+: 3122 14 7 day 
+- 3138
+: 3200 2 4 With 
+: 3204 2 6 a 
+: 3208 2 4 bu
+: 3212 4 6 ~
+: 3218 6 4 ~r
+: 3226 2 4 ning 
+: 3232 2 4 wish 
+: 3238 2 2 to 
+: 3246 4 2 fly
+: 3252 4 4 ~ 
+: 3260 4 -1 a
+: 3266 6 -1 way 
+- 3274
+: 3530 8 6 I’m 
+* 3546 6 9 still
+* 3554 2 6 ~ 
+: 3560 6 11 loo
+: 3570 2 9 king
+: 3574 30 11 ~ 
+- 3606
+: 3720 4 2 Loo
+: 3726 4 1 king 
+: 3734 6 -1 for 
+: 3742 2 -3 the 
+: 3750 2 2 sum
+: 3754 4 -1 mer 
+E

@@ -1,0 +1,225 @@
+#ARTIST:The Beatles
+#TITLE:Your Mother Should Know
+#MP3:The Beatles - Your Mother Should Know.mp3
+#CREATOR:Eggman
+#GENRE:Pop
+#YEAR:1967
+#LANGUAGE:English
+#BPM:240.5
+#GAP:4190
+#VIDEO:a=tCXsFjzMKdc,co=https://i.ibb.co/Hz3X8gY/R-10442129-1497524727-1960.jpg,bg=the-beatles-4e57923151e84.jpg
+: 0 4 4 Let’s 
+: 5 6 9 all 
+: 13 2 12 get 
+: 16 5 16 up 
+: 24 4 12 and 
+: 30 6 16 dance 
+: 37 3 14 to 
+: 41 2 12 a 
+: 45 6 11 song 
+- 53
+: 54 2 12 That 
+: 57 4 11 was 
+: 62 2 9 a 
+* 65 4 7 hit 
+* 73 3 4 be
+* 78 8 9 fore 
+: 89 5 4 your 
+: 97 4 7 mo
+: 102 2 9 ther 
+: 105 4 7 was 
+: 110 8 5 born. 
+- 120
+: 129 4 7 Though 
+: 134 2 9 she 
+: 137 4 11 was 
+: 142 9 12 born 
+: 153 4 14 a 
+: 158 6 16 long, 
+: 166 6 16 long 
+: 174 9 16 time 
+: 185 3 16 a
+: 189 6 16 go. 
+- 197
+: 206 1 10 Your 
+: 208 4 16 mo
+: 213 2 17 ther 
+: 216 4 13 should 
+: 221 8 14 know. 
+- 231
+: 269 1 7 Your 
+: 272 4 14 mo
+: 277 2 12 ther 
+: 280 4 11 should 
+: 285 8 12 know 
+- 295
+: 320 4 4 Sing 
+: 326 2 8 it 
+* 329 4 11 a
+* 334 7 14 gain! 
+- 343
+: 353 4 4 Let’s 
+: 359 6 9 all 
+: 366 2 12 get 
+: 370 5 16 up 
+: 377 3 12 and 
+: 383 6 16 dance 
+: 391 3 14 to 
+: 395 2 12 a 
+: 399 5 11 song 
+- 406
+: 407 2 12 That 
+: 410 4 11 was 
+: 415 2 9 a 
+: 418 4 7 hit 
+: 426 4 4 be
+: 432 7 9 fore 
+: 443 5 4 your 
+: 451 5 7 mo
+: 457 2 9 ther 
+: 460 4 7 was 
+: 465 8 5 born. 
+- 475
+: 484 4 7 Though 
+: 489 3 9 she 
+: 493 4 11 was 
+: 498 8 12 born 
+: 508 4 14 a 
+: 513 7 16 long, 
+: 521 7 16 long 
+: 529 9 16 time 
+: 540 4 16 a
+: 545 8 16 go. 
+- 555
+: 563 1 9 Your 
+: 565 4 16 mo
+: 570 2 17 ther 
+: 573 4 13 should 
+: 578 7 14 know. 
+- 587
+: 628 1 6 Your 
+* 631 3 15 mo
+* 635 2 12 ther 
+: 638 4 11 should 
+: 643 8 12 know. 
+- 653
+: 923 5 4 Lift 
+: 929 6 9 up 
+: 937 2 12 your 
+: 940 5 16 hearts 
+: 949 3 12 and 
+: 953 6 16 sing 
+: 961 3 14 me 
+: 965 3 12 a 
+: 969 6 11 song 
+- 977
+: 978 2 12 That 
+: 981 4 11 was 
+: 986 2 9 a 
+: 989 4 7 hit 
+: 997 4 4 be
+: 1002 7 9 fore 
+: 1013 6 4 your 
+: 1021 5 7 mo
+: 1027 2 9 ther 
+: 1030 4 7 was 
+: 1035 10 5 born. 
+- 1047
+: 1054 4 7 Though 
+: 1059 2 9 she 
+: 1062 4 11 was 
+: 1067 9 12 born 
+: 1078 4 14 a 
+: 1083 7 16 long, 
+: 1091 7 16 long 
+: 1099 9 16 time 
+: 1110 4 16 a
+: 1115 8 16 go. 
+- 1125
+: 1133 1 10 Your 
+: 1135 4 16 mo
+: 1140 2 17 ther 
+: 1143 4 13 should 
+: 1148 8 14 know. 
+- 1158
+: 1197 1 7 Your 
+: 1200 3 15 mo
+: 1204 2 12 ther 
+: 1207 4 11 should 
+: 1213 8 12 know. 
+- 1223
+: 1262 1 10 Your 
+: 1265 3 16 mo
+: 1269 2 14 ther 
+: 1272 4 13 should 
+: 1277 8 14 know. 
+- 1287
+: 1327 1 7 Your 
+: 1330 3 15 mo
+: 1334 2 12 ther 
+: 1337 4 11 should 
+: 1342 8 12 know. 
+- 1352
+: 1588 5 4 Sing 
+: 1594 2 8 it 
+: 1597 4 11 a
+: 1602 11 14 gain! 
+- 1615
+* 1621 4 4 Da 
+* 1626 6 9 da 
+* 1634 2 12 da 
+* 1637 5 16 da 
+- 1644
+: 1645 3 12 Da 
+: 1650 7 16 da 
+: 1658 6 14 da 
+: 1666 2 12 da 
+: 1669 5 11 da 
+: 1675 2 12 da 
+: 1678 4 11 da 
+: 1683 2 9 da 
+: 1686 7 7 da 
+: 1694 3 4 da 
+: 1699 8 9 da 
+- 1709
+: 1710 5 4 Da 
+: 1717 5 7 da 
+: 1723 2 9 da 
+: 1726 4 7 da 
+: 1731 10 5 da. 
+- 1743
+: 1750 4 7 Though 
+: 1755 2 9 she 
+: 1758 4 11 was 
+: 1763 10 12 born 
+: 1775 4 14 a 
+: 1780 7 16 long, 
+: 1788 6 16 long 
+: 1796 10 16 time 
+* 1807 4 16 a
+* 1812 8 16 go. 
+- 1822
+: 1829 1 10 Your 
+: 1832 3 16 mo
+: 1836 2 17 ther 
+: 1839 4 13 should 
+: 1844 8 14 know. 
+- 1854
+: 1893 1 7 Your 
+: 1896 3 15 mo
+: 1900 2 12 ther 
+: 1903 4 11 should 
+: 1908 8 12 know. 
+- 1918
+: 1958 1 10 Your 
+: 1961 3 16 mo
+: 1965 2 14 ther 
+: 1968 4 13 should 
+: 1973 8 14 know. 
+- 1983
+: 2023 1 7 Your 
+: 2026 3 15 mo
+: 2030 2 12 ther 
+: 2033 4 11 should 
+: 2038 8 12 know. 
+E

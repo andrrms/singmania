@@ -1,0 +1,121 @@
+#ARTIST:Crazy Ex-Girlfriend
+#TITLE:Meet Rebecca (Season 4 Theme)
+#MP3:Crazy Ex-Girlfriend - Meet Rebecca (Season 4 Theme).mp3
+#CREATOR:blackcat6
+#COVER:Crazy Ex-Girlfriend - Meet Rebecca (Season 4 Theme) [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend - Meet Rebecca (Season 4 Theme) [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2019
+#LANGUAGE:English
+#BPM:313.63
+#GAP:150
+#VIDEO:v=J4owK09kW58,co=https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/29/5b/7e295bdb-abda-d547-4d4b-116fad8e4f8d/794043198731.jpg/5000x5000bb.jpg
+: 0 5 8 Meet 
+: 8 2 4 Re
+: 13 3 6 bec
+: 20 14 4 ca! 
+- 44
+: 72 2 -1 She’s 
+: 76 1 -1 the 
+* 80 3 9 coo
+* 84 1 9 lest 
+: 88 6 8 girl 
+: 96 3 6 in 
+: 100 5 4 the 
+: 108 3 8 world
+: 112 4 6 ~ 
+- 118
+F 120 4 -1 Wait... 
+: 128 6 8 wrong 
+: 136 2 4 Re
+: 140 4 6 bec
+: 148 12 4 ca 
+- 180
+: 203 1 -1 It’s 
+: 208 3 9 this 
+: 216 5 8 one 
+: 224 2 6 o
+: 228 4 4 ver 
+: 236 3 8 here
+: 240 4 6 ~ 
+- 250
+: 252 1 -1 She’s 
+: 256 2 1 spun
+: 260 4 1 ky, 
+: 268 2 1 she’s 
+: 273 4 1 sweet 
+- 282
+: 284 1 1 A 
+: 288 3 3 ge
+: 292 2 1 ne
+: 296 1 -1 rous 
+* 300 4 3 friend 
+- 306
+F 308 4 6 Oh, 
+: 316 1 -1 but 
+: 320 4 1 there 
+: 327 2 1 she 
+: 331 1 1 looks 
+: 336 5 1 kind 
+: 343 2 6 of 
+: 347 9 3 mean 
+- 358
+F 360 6 -1 Hmmm 
+- 370
+F 372 1 4 O
+F 376 1 4 kay, 
+: 380 1 -1 she’s 
+: 384 2 1 snar
+: 388 3 1 ky, 
+: 396 2 -1 sar
+: 400 2 1 cas
+: 405 2 1 tic 
+- 413
+F 416 2 0 And 
+F 420 4 0 uh, 
+F 430 2 0 what? 
+- 434
+: 436 2 4 You 
+: 439 3 4 know, 
+: 443 2 4 we’re 
+: 447 4 9 not 
+: 456 3 8 real
+: 460 1 8 ly 
+: 464 7 6 see
+: 472 3 4 ing 
+: 476 1 4 a 
+* 480 3 8 com
+* 485 4 11 mon 
+: 492 10 11 theme 
+- 508
+: 511 5 10 Meet 
+: 519 2 6 Re
+: 524 4 8 bec
+: 531 14 6 ca! 
+- 555
+: 583 1 1 She’s 
+: 588 1 1 too 
+: 592 5 11 hard 
+: 600 4 10 to 
+: 608 2 8 sum
+: 612 5 6 ma
+: 620 3 10 rize
+: 624 5 8 ~ 
+- 640
+: 644 2 1 So 
+: 647 2 1 let’s 
+: 652 1 1 go 
+: 656 3 3 back 
+: 665 3 3 to 
+* 671 3 10 o
+* 675 3 8 ther 
+* 679 2 6 Re
+: 684 5 8 bec
+: 695 6 6 ca 
+- 711
+F 724 3 0 My 
+F 728 3 0 name 
+F 732 3 0 is 
+F 736 4 0 Debo
+F 741 5 0 rah! 
+E

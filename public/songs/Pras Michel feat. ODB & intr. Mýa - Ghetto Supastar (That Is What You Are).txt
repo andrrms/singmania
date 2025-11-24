@@ -1,0 +1,895 @@
+#ARTIST:Pras Michel feat. ODB & intr. Mýa
+#TITLE:Ghetto Supastar (That Is What You Are)
+#MP3:Pras Michel feat. ODB & intr. Mýa - Ghetto Supastar (That Is What You Are).mp3
+#CREATOR:RetroGirl
+#GENRE:Rap
+#YEAR:1998
+#LANGUAGE:English
+#BPM:300
+#GAP:9110
+#VIDEO:v=gP3zuuGav-Y,co=https://m.media-amazon.com/images/I/71yYSQvOEDL.jpg,co-crop=6-4-1258-1258,bg=michel-pras-58ac297e14994.jpg
+R 0 4 1 Man 
+R 8 4 6 man 
+- 14
+R 48 2 6 Look 
+R 52 2 6 up 
+R 55 1 6 at 
+R 57 1 6 the 
+R 60 2 6 sky 
+- 64
+R 96 2 6 All 
+R 100 2 6 the 
+R 104 4 6 stars 
+R 112 3 6 man, 
+R 118 1 6 the 
+R 120 2 6 stars 
+R 124 2 6 is 
+R 130 2 6 beau
+R 133 1 6 ti
+R 135 2 6 ful 
+R 139 2 6 to
+R 142 2 6 night 
+- 146
+: 150 3 22 Ghet
+: 155 2 20 to 
+: 162 3 20 su
+: 167 2 18 per
+: 174 7 18 star 
+- 183
+: 198 3 22 That 
+: 204 2 20 is 
+: 210 2 20 what 
+: 216 2 18 you 
+: 222 8 18 are 
+- 232
+: 245 3 23 Co
+: 251 2 22 min’ 
+: 258 3 22 from 
+: 264 2 20 a
+: 270 9 20 far 
+- 281
+: 293 3 23 Rea
+: 299 2 22 chin’ 
+: 306 3 22 for 
+: 312 2 20 the 
+: 318 8 20 stars 
+- 328
+: 342 3 22 Run 
+: 347 3 20 a
+: 354 3 20 way 
+: 360 2 18 with 
+: 366 10 18 me 
+- 378
+: 390 3 22 To 
+: 396 2 20 a
+: 402 3 20 no
+: 408 2 18 ther 
+: 414 9 18 place 
+- 425
+: 438 3 18 We 
+: 444 2 18 can 
+: 450 3 20 re
+: 456 8 22 ly 
+: 468 3 20 on 
+: 474 2 18 each 
+: 480 3 20 o
+: 486 6 18 ther, 
+: 498 4 20 uh 
+: 505 12 18 huh 
+- 519
+: 533 2 22 From 
+: 539 2 22 one 
+: 546 9 22 cor
+: 558 2 20 ner 
+: 564 3 18 to 
+: 570 2 18 a
+: 574 6 18 no
+: 582 2 18 ther, 
+: 593 4 20 uh 
+: 600 10 18 huh 
+- 612
+R 618 3 6 Yo, 
+R 630 3 6 yo 
+- 635
+R 642 2 6 Some 
+R 646 3 6 got 
+R 652 2 6 hopes 
+R 657 2 6 and 
+R 660 2 6 dreams 
+- 664
+R 666 2 6 We 
+R 669 3 6 got 
+R 675 3 6 ways 
+R 680 2 6 and 
+R 684 2 6 means 
+- 688
+R 690 2 6 The 
+R 693 2 6 su
+R 696 3 6 preme 
+R 702 3 6 dream 
+R 708 2 6 team 
+- 711
+R 713 2 6 Al
+R 716 2 6 ways 
+R 719 2 6 up 
+R 722 2 6 with 
+R 725 2 6 the 
+R 729 3 6 schemes 
+- 734
+R 740 2 6 From 
+R 743 3 6 hub 
+R 747 3 6 caps 
+R 753 2 6 to 
+R 756 2 6 sel
+R 759 2 6 lin’ 
+R 762 3 6 raps 
+- 767
+R 771 3 6 Name 
+R 777 2 6 your 
+R 780 3 6 theme 
+- 785
+R 789 2 6 My 
+R 792 3 6 rise 
+R 798 2 6 to 
+R 801 2 6 the 
+R 804 3 6 top 
+- 809
+R 816 2 6 Floa
+R 819 2 6 tin’ 
+R 822 2 6 on 
+R 825 2 6 this 
+R 828 3 6 cream 
+- 833
+R 837 2 6 Who 
+R 840 1 6 the 
+R 842 2 6 hell 
+R 845 2 6 wan
+R 848 2 6 na 
+R 852 3 6 stop 
+R 856 2 6 me 
+- 859
+R 861 2 6 I 
+R 864 2 6 ha
+R 867 2 6 ted 
+R 870 2 6 those 
+R 873 2 6 who 
+R 876 2 6 doubt 
+R 880 2 6 me 
+- 884
+R 886 1 6 A 
+R 888 2 6 mil
+R 891 2 6 lion 
+R 894 2 6 re
+R 897 2 6 fu
+R 900 3 6 gees 
+- 904
+R 906 2 6 With 
+R 909 2 6 un
+R 912 2 6 li
+R 915 2 6 mi
+R 918 2 6 ted 
+R 921 2 6 war
+R 924 2 6 ran
+R 927 3 6 ties 
+- 932
+R 936 4 6 Black 
+R 942 3 6 Ce
+R 946 2 6 sar, 
+R 954 2 6 da
+R 957 2 6 ting 
+R 960 3 6 top 
+R 966 3 6 skee
+R 970 2 6 zers 
+- 974
+R 978 2 6 Di
+R 981 2 6 plo
+R 984 2 6 ma
+R 987 2 6 tic 
+R 990 2 6 le
+R 993 2 6 ga
+R 996 2 6 lese 
+- 1000
+R 1005 2 6 No 
+R 1008 3 6 time 
+R 1014 1 6 for 
+R 1016 2 6 a 
+R 1020 2 6 Vi
+R 1024 2 6 sa 
+- 1028
+R 1030 2 6 They 
+R 1033 2 6 just 
+R 1038 2 6 be
+R 1042 3 6 gun 
+- 1047
+R 1050 2 6 I’
+R 1053 2 6 ma 
+R 1056 2 6 shoot 
+R 1059 2 6 them 
+R 1063 2 6 one 
+R 1066 2 6 by 
+R 1070 3 6 one 
+- 1075
+R 1077 2 6 Got 
+R 1081 3 6 five 
+R 1085 3 6 sides 
+R 1090 1 6 to 
+R 1092 3 6 me 
+- 1096
+R 1098 2 6 Some
+R 1101 2 6 thin’ 
+R 1104 2 6 like 
+R 1107 2 6 a 
+R 1111 2 6 pen
+R 1114 2 6 ta
+R 1117 3 6 gon 
+- 1122
+R 1127 3 6 Strike 
+R 1134 2 6 with 
+R 1137 1 6 the 
+R 1139 3 6 for
+R 1144 2 6 ces 
+R 1147 2 6 of 
+R 1151 3 6 King 
+R 1158 2 6 So
+R 1161 2 6 lo
+R 1164 3 6 mon 
+- 1168
+R 1170 2 6 Let
+R 1173 2 6 tin’ 
+R 1176 3 6 by
+R 1180 3 6 gones 
+R 1185 2 6 be 
+R 1188 3 6 by
+R 1192 3 6 gones, 
+R 1197 2 6 and 
+R 1200 3 6 so 
+R 1204 3 6 on, 
+R 1209 2 6 and 
+R 1212 3 6 so 
+R 1216 2 6 on 
+- 1220
+R 1222 1 6 I’
+R 1224 1 6 ma 
+R 1226 2 6 teach 
+R 1230 2 6 this 
+R 1233 3 6 cat 
+- 1238
+R 1242 3 6 How 
+R 1246 2 6 to 
+R 1249 2 6 live 
+R 1254 2 6 in 
+R 1257 2 6 the 
+R 1260 2 6 ghet
+R 1263 2 6 to 
+- 1267
+R 1271 2 6 Kee
+R 1274 2 6 pin’ 
+R 1277 3 6 it 
+R 1284 2 6 re
+R 1288 3 6 tro
+R 1296 2 6 spec
+R 1299 2 6 tive 
+R 1302 2 6 from 
+R 1305 2 6 the 
+R 1308 2 6 get 
+R 1312 2 6 go 
+- 1316
+R 1320 3 6 Lay 
+R 1324 3 6 low 
+- 1329
+R 1332 2 6 Let 
+R 1335 2 6 my 
+R 1338 3 6 mind 
+R 1344 4 6 shine 
+R 1350 2 6 like 
+R 1353 2 6 a 
+R 1356 2 6 ha
+R 1359 2 6 lo 
+- 1362
+R 1364 1 6 P-
+R 1366 1 6 p-
+R 1368 2 6 po
+R 1371 2 6 li
+R 1374 2 6 tic 
+R 1377 2 6 with 
+R 1380 2 6 ghet
+R 1383 2 6 to 
+R 1386 2 6 se
+R 1389 2 6 na
+R 1392 1 6 tors 
+- 1395
+: 1399 3 22 Ghet
+: 1404 2 20 to 
+: 1411 3 20 su
+: 1416 2 18 per
+: 1423 7 18 star 
+- 1432
+: 1447 3 22 That 
+: 1453 2 20 is 
+: 1459 2 20 what 
+: 1465 2 18 you 
+: 1471 9 18 are 
+- 1482
+* 1495 3 23 Co
+* 1500 2 22 min’ 
+: 1507 3 22 from 
+: 1513 2 20 a
+: 1519 9 20 far 
+- 1530
+: 1543 3 23 Rea
+: 1548 2 22 chin’ 
+: 1555 3 22 for 
+: 1561 2 20 the 
+: 1567 8 20 stars 
+- 1577
+: 1591 3 22 Run 
+: 1596 3 20 a
+: 1603 3 20 way 
+: 1609 2 18 with 
+: 1615 10 18 me 
+- 1627
+: 1639 3 22 To 
+: 1645 2 20 a
+: 1651 3 20 no
+: 1657 2 18 ther 
+: 1663 9 18 place 
+- 1674
+* 1687 3 18 We 
+* 1693 2 18 can 
+* 1699 3 20 re
+* 1705 8 22 ly 
+: 1717 3 20 on 
+: 1723 2 18 each 
+: 1729 3 20 o
+: 1736 6 18 ther, 
+: 1747 4 20 uh 
+: 1754 12 18 huh 
+- 1768
+: 1783 2 22 From 
+: 1789 2 22 one 
+: 1795 9 22 cor
+: 1807 2 20 ner 
+: 1813 3 18 to 
+: 1819 2 18 a
+: 1823 6 18 no
+: 1831 2 18 ther, 
+: 1842 4 20 uh 
+: 1849 10 18 huh 
+- 1861
+R 1864 2 6 And 
+R 1867 2 6 you 
+R 1870 4 6 don’t 
+R 1876 3 6 stop, 
+R 1883 3 6 yo 
+- 1888
+R 1894 2 6 My 
+R 1897 4 6 eyes 
+R 1903 2 6 is 
+R 1908 4 6 sore 
+- 1914
+R 1921 2 6 Be
+R 1924 2 6 in’ 
+R 1927 2 6 a 
+R 1930 2 6 se
+R 1933 2 6 na
+R 1936 3 6 tor 
+- 1940
+R 1942 2 6 Be
+R 1945 3 6 hind 
+R 1950 3 6 closed 
+R 1956 2 6 doors 
+R 1961 2 6 hit
+R 1964 2 6 tin’ 
+R 1967 3 6 truth 
+R 1972 2 6 to 
+R 1975 2 6 the 
+R 1979 3 6 sea
+R 1985 2 6 floor 
+- 1989
+R 1991 2 6 The 
+R 1994 2 6 rich 
+R 1999 3 6 go 
+R 2004 3 6 North 
+R 2010 2 6 ig
+R 2015 3 6 nore, 
+R 2021 2 6 the 
+R 2024 2 6 tug 
+R 2027 2 6 of 
+R 2030 2 6 war 
+- 2034
+R 2036 2 6 While 
+R 2039 2 6 the 
+R 2042 2 6 kids 
+R 2046 2 6 are 
+R 2051 2 6 poor 
+- 2054
+R 2056 2 6 O
+R 2059 2 6 pen 
+R 2062 2 6 new 
+R 2065 2 6 and 
+R 2068 2 6 bet
+R 2071 2 6 ter 
+R 2075 3 6 drug 
+R 2080 3 6 stores 
+- 2085
+R 2089 2 6 So 
+R 2092 2 6 I 
+R 2095 2 6 be
+R 2099 2 6 came 
+R 2104 3 6 hard
+R 2110 3 6 core 
+- 2115
+R 2119 2 6 Coul
+R 2122 2 6 dn’t 
+R 2125 3 6 take 
+R 2129 1 6 it 
+R 2131 2 6 no 
+R 2135 1 6 more 
+- 2137
+R 2139 2 6 I’
+R 2142 2 6 ma 
+R 2146 2 6 re
+R 2149 3 6 veal 
+R 2155 4 6 eve
+R 2160 2 6 ry
+R 2164 3 6 thing 
+- 2169
+R 2171 4 6 Change 
+R 2177 2 6 the 
+R 2181 3 6 law 
+- 2186
+R 2188 2 6 I 
+R 2192 3 6 find 
+R 2197 2 6 my
+R 2201 3 6 self, 
+R 2209 3 6 wal
+R 2213 2 6 kin’ 
+R 2217 2 6 the 
+R 2220 3 6 streets 
+- 2225
+R 2227 1 6 Try
+R 2229 1 6 in’ 
+R 2231 2 6 to 
+R 2234 3 6 find 
+R 2240 2 6 what’s 
+R 2243 2 6 real
+R 2246 2 6 ly 
+R 2249 2 6 go
+R 2252 2 6 in’ 
+R 2255 4 6 on 
+R 2261 2 6 in 
+R 2265 2 6 the 
+R 2269 2 6 streets 
+- 2272
+R 2274 1 6 Now 
+R 2276 2 6 eve
+R 2279 2 6 ry 
+R 2283 3 6 dog 
+R 2288 2 6 got 
+R 2291 2 6 his 
+R 2294 3 6 day 
+- 2299
+R 2305 2 6 Need
+R 2308 2 6 less 
+R 2313 2 6 to 
+R 2317 3 6 say 
+- 2322
+R 2326 2 6 When 
+R 2329 2 6 the 
+R 2332 3 6 chief 
+R 2337 2 6 a
+R 2340 2 6 way 
+- 2343
+R 2345 2 6 That’s 
+R 2348 2 6 when 
+R 2351 2 6 them 
+R 2354 3 6 cats 
+R 2359 2 6 want 
+R 2362 2 6 to 
+R 2366 3 6 play 
+- 2371
+R 2374 2 6 I 
+R 2377 4 6 told 
+R 2383 2 6 you 
+- 2387
+R 2389 2 6 Mess 
+R 2392 2 6 a
+R 2395 2 6 round 
+R 2398 2 6 you 
+R 2401 2 6 fools 
+R 2405 2 6 like 
+R 2410 3 6 Cas
+R 2414 2 6 sius 
+R 2418 3 6 Clay 
+- 2423
+R 2427 3 6 Stretch 
+R 2432 2 6 my 
+R 2435 1 6 hea
+R 2437 2 6 ter, 
+R 2440 2 6 make 
+R 2443 2 6 you 
+R 2446 1 6 do 
+R 2448 2 6 a 
+R 2451 2 6 pas 
+R 2454 1 6 de 
+R 2456 2 6 bour
+R 2460 2 6 ree 
+- 2464
+R 2467 3 6 Kick 
+R 2471 2 6 your 
+R 2474 4 6 balls 
+R 2480 3 6 like 
+R 2485 3 6 Pe
+R 2489 3 6 le 
+- 2494
+R 2497 2 6 Pick 
+R 2500 2 6 ’em 
+R 2503 2 6 do
+R 2506 2 6 in’ 
+R 2509 3 6 bal
+R 2513 3 6 let 
+- 2518
+R 2522 3 6 Peak 
+R 2527 3 6 like 
+R 2533 3 6 Dan
+R 2539 2 6 te 
+- 2543
+R 2545 2 6 Broa
+R 2548 2 6 der 
+R 2552 3 6 than 
+R 2557 3 6 Broad
+R 2561 2 6 way 
+- 2564
+R 2566 1 6 Get 
+R 2568 1 6 ap
+R 2570 3 6 plause 
+R 2575 2 6 like 
+R 2578 2 6 a 
+R 2582 2 6 ma
+R 2585 2 6 ta
+R 2588 3 6 dor 
+- 2593
+R 2595 3 6 Cry 
+R 2599 2 6 yel
+R 2602 2 6 lin’ 
+R 2605 3 6 o
+R 2610 2 6 lé 
+- 2613
+R 2615 1 6 Who 
+R 2617 1 6 the 
+R 2619 3 6 hell 
+R 2624 1 6 wan
+R 2626 1 6 na 
+R 2629 3 6 save 
+R 2634 2 6 me, 
+R 2639 3 6 from 
+R 2643 1 6 B.
+R 2645 2 6 K. …
+- 2648
+: 2648 3 22 Ghet
+: 2653 2 20 to 
+: 2660 3 20 su
+: 2665 2 18 per
+: 2672 7 18 star 
+- 2681
+: 2696 3 22 That 
+: 2701 2 20 is 
+: 2708 2 20 what 
+: 2713 2 18 you 
+: 2719 9 18 are 
+- 2730
+: 2744 3 23 Co
+: 2749 2 22 min’ 
+: 2756 3 22 from 
+: 2761 2 20 a
+: 2768 9 20 far 
+- 2779
+: 2792 3 23 Rea
+: 2797 2 22 chin’ 
+: 2804 3 22 for 
+* 2810 2 20 the 
+* 2816 8 20 stars 
+- 2826
+: 2840 3 22 Run 
+: 2845 3 20 a
+: 2852 3 20 way 
+: 2858 2 18 with 
+: 2864 10 18 me 
+- 2876
+: 2888 3 22 To 
+: 2894 2 20 a
+: 2900 3 20 no
+: 2905 2 18 ther 
+: 2912 9 18 place 
+- 2923
+: 2936 3 18 We 
+: 2942 2 18 can 
+: 2949 2 20 re
+: 2955 8 22 ly 
+: 2967 3 20 on 
+: 2973 2 18 each 
+: 2979 3 20 o
+: 2985 6 18 ther, 
+: 2997 4 20 uh 
+: 3004 12 18 huh 
+- 3018
+: 3032 2 22 From 
+: 3038 2 22 one 
+: 3045 9 22 cor
+: 3057 2 20 ner 
+: 3063 2 18 to 
+: 3068 2 18 a
+: 3072 6 18 no
+: 3081 2 18 ther, 
+* 3092 4 20 uh 
+* 3099 10 18 huh 
+- 3111
+R 3138 2 6 Just 
+R 3141 2 6 when 
+R 3144 2 6 you 
+R 3147 3 6 thought 
+R 3152 2 6 it 
+R 3155 2 6 was 
+R 3158 3 6 safe 
+- 3163
+R 3165 2 6 In 
+R 3168 2 6 a 
+R 3171 3 6 com
+R 3175 2 6 mon 
+R 3179 2 6 place 
+- 3183
+R 3186 2 6 Show
+R 3191 3 6 case 
+R 3196 2 6 your 
+R 3200 4 6 fi
+R 3206 2 6 nest 
+R 3209 2 6 is 
+R 3212 2 6 lo
+R 3215 2 6 sin’ 
+R 3218 3 6 fast 
+R 3223 2 6 in 
+R 3227 2 6 the 
+R 3230 3 6 horse 
+R 3236 2 6 race 
+- 3240
+R 3242 3 6 Two 
+R 3248 3 6 faced, 
+R 3254 2 6 get
+R 3257 2 6 tin’ 
+R 3260 3 6 de
+R 3266 3 6 faced, 
+R 3271 2 6 out 
+R 3274 2 6 like 
+R 3278 3 6 Scar
+R 3283 2 6 face 
+- 3287
+R 3289 3 6 Throw 
+R 3293 2 6 your 
+R 3296 4 6 roll 
+R 3302 2 6 mo
+R 3305 2 6 ney, 
+R 3308 2 6 let 
+R 3311 2 6 me 
+R 3314 2 6 put 
+R 3317 2 6 on 
+R 3320 2 6 my 
+R 3323 4 6 screw
+R 3329 1 6 face 
+- 3331
+R 3333 3 6 I’m 
+R 3338 2 6 pa
+R 3341 2 6 ra
+R 3344 2 6 noid 
+R 3347 2 6 at 
+R 3350 2 6 the 
+R 3353 3 6 things 
+R 3358 3 6 I 
+R 3362 2 6 said 
+- 3366
+R 3368 3 6 Won
+R 3372 2 6 de
+R 3375 2 6 rin’ 
+R 3379 2 6 what’s 
+R 3383 2 6 the 
+R 3387 2 6 pe
+R 3390 2 6 nal
+R 3393 2 6 ty 
+R 3396 2 6 from 
+R 3399 3 6 day 
+R 3404 2 6 to 
+R 3408 2 6 day 
+- 3411
+R 3413 2 6 I’m 
+R 3416 2 6 hang
+R 3419 2 6 in’ 
+R 3422 2 6 out 
+R 3428 2 6 par
+R 3431 2 6 ty
+R 3434 2 6 in’ 
+R 3438 2 6 with 
+R 3443 4 6 girls 
+R 3449 2 6 that 
+R 3453 2 6 ne
+R 3456 2 6 ver 
+R 3459 3 6 die 
+- 3464
+R 3466 2 6 You 
+R 3470 2 6 see 
+R 3473 1 6 I 
+R 3475 1 6 was 
+R 3477 1 6 pic
+R 3479 1 6 kin’ 
+R 3481 1 6 on 
+R 3483 1 6 the 
+R 3486 3 6 small 
+R 3492 2 6 fries 
+- 3496
+R 3498 2 6 My 
+R 3501 2 6 cam
+R 3505 3 6 paign 
+R 3510 2 6 tel
+R 3513 1 6 lin’ 
+R 3516 3 6 lies 
+- 3520
+R 3522 2 6 Was 
+R 3525 3 6 just 
+R 3530 2 6 sprea
+R 3533 2 6 din’ 
+R 3536 2 6 my 
+R 3540 3 6 love 
+- 3545
+R 3548 2 6 Di
+R 3551 2 6 dn’t 
+R 3555 3 6 know 
+R 3560 2 6 my 
+R 3564 3 6 love 
+- 3569
+R 3572 2 6 Was 
+R 3575 2 6 the 
+R 3578 2 6 one 
+R 3581 2 6 hol
+R 3584 2 6 din’ 
+R 3587 2 6 the 
+R 3590 2 6 gun 
+R 3593 2 6 and 
+R 3596 2 6 the 
+R 3600 4 6 glove 
+- 3606
+R 3611 2 6 But 
+R 3614 3 6 it’s 
+R 3619 3 6 all 
+R 3624 3 6 good 
+R 3630 3 6 as 
+R 3636 3 6 long 
+R 3641 1 6 as 
+R 3643 1 6 it’s 
+R 3645 2 6 un
+R 3648 2 6 der
+R 3651 3 6 stood 
+- 3656
+R 3660 2 6 It’s 
+R 3663 3 6 all 
+R 3669 2 6 to
+R 3672 2 6 ge
+R 3675 2 6 ther 
+R 3678 4 6 now, 
+R 3687 3 6 in 
+R 3693 2 6 the 
+R 3696 3 6 hood 
+- 3701
+* 3706 3 22 Ghet
+* 3711 2 20 to 
+* 3718 3 20 su
+* 3723 2 18 per
+* 3730 7 18 star 
+- 3739
+: 3753 3 22 That 
+: 3759 2 20 is 
+: 3766 2 20 what 
+: 3771 2 18 you 
+: 3777 9 18 are 
+- 3788
+: 3801 3 23 Co
+: 3806 2 22 min’ 
+: 3813 3 22 from 
+: 3819 2 20 a
+: 3825 9 20 far 
+- 3836
+: 3849 3 23 Rea
+: 3855 2 22 chin’ 
+: 3862 3 22 for 
+: 3868 2 20 the 
+: 3874 8 20 stars 
+- 3884
+: 3898 3 22 Run 
+: 3903 3 20 a
+: 3910 3 20 way 
+: 3916 2 18 with 
+: 3922 10 18 me 
+- 3934
+: 3945 3 22 To 
+: 3951 2 20 a
+: 3957 3 20 no
+: 3963 2 18 ther 
+: 3970 9 18 place 
+- 3981
+: 3993 3 18 We 
+: 3999 2 18 can 
+: 4006 3 20 re
+: 4012 8 22 ly 
+: 4023 3 20 on 
+: 4029 2 18 each 
+: 4035 3 20 o
+: 4042 6 18 ther, 
+: 4054 4 20 uh 
+: 4061 12 18 huh 
+- 4075
+: 4089 2 22 From 
+: 4095 2 22 one 
+: 4102 9 22 cor
+: 4114 2 20 ner 
+: 4119 3 18 to 
+: 4125 2 18 a
+: 4129 6 18 no
+: 4138 2 18 ther, 
+: 4149 4 20 uh 
+: 4156 12 18 huh 
+- 4170
+: 4234 3 22 Ghet
+: 4239 2 20 to 
+: 4246 3 20 su
+: 4251 2 18 per
+: 4258 7 18 star 
+- 4267
+: 4281 3 22 That 
+: 4287 2 20 is 
+: 4293 2 20 what 
+: 4299 2 18 you 
+: 4306 8 18 are 
+- 4316
+: 4329 3 23 Co
+: 4335 2 22 min’ 
+: 4341 3 22 from 
+: 4347 2 20 a
+: 4354 9 20 far 
+- 4365
+: 4377 3 23 Rea
+: 4383 2 22 chin’ 
+: 4390 3 22 for 
+: 4396 2 20 the 
+: 4402 8 20 stars 
+- 4412
+: 4426 3 22 Run 
+: 4431 3 20 a
+: 4437 3 20 way 
+: 4443 2 18 with 
+: 4450 10 18 me 
+- 4462
+: 4473 3 22 To 
+: 4479 2 20 a
+: 4486 3 20 no
+: 4492 2 18 ther 
+: 4498 9 18 place 
+- 4509
+: 4521 3 18 We 
+: 4527 2 18 can 
+: 4534 3 20 re
+: 4540 8 22 ly 
+: 4552 3 20 on 
+: 4558 2 18 each 
+: 4564 3 20 o
+: 4570 6 18 ther, 
+: 4582 4 20 uh 
+: 4589 12 18 huh 
+- 4603
+: 4617 2 22 From 
+: 4623 2 22 one 
+* 4630 9 22 cor
+* 4642 2 20 ner 
+: 4647 3 18 to 
+: 4653 2 18 a
+: 4657 6 18 no
+: 4666 2 18 ther, 
+: 4677 4 20 uh 
+: 4684 12 18 huh 
+E

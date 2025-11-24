@@ -1,0 +1,215 @@
+#ARTIST:Annie (Aileen Quinn)
+#TITLE:Tomorrow
+#MP3:Annie (Aileen Quinn) - Tomorrow.mp3
+#CREATOR:Relisch
+#COVER:Annie (Aileen Quinn) - Tomorrow [CO].jpg
+#BACKGROUND:Annie (Aileen Quinn) - Tomorrow [BG].jpg
+#GENRE:Soundtrack
+#YEAR:1982
+#LANGUAGE:English
+#BPM:300
+#GAP:45750
+#VIDEO:v=6PtdpI-D6mM,co=annie-5cdadfa4ed21f.jpg,co-crop=219-0-562-562,preview=84.45,medley=774-1703
+#START:7
+#END:161000
+: 0 5 -2 The 
+: 8 3 -3 sun 
+: 12 2 -2 will 
+: 15 6 0 come 
+: 23 9 3 out 
+- 34
+: 44 2 8 To
+: 48 4 6 mor
+: 55 10 4 row 
+- 67
+: 72 3 9 So 
+: 76 2 7 ya 
+: 80 3 5 got
+: 85 5 4 ta 
+: 92 5 2 hang 
+: 98 6 7 on 
+- 105
+: 107 11 4 ’Til 
+: 120 2 0 to
+: 124 6 -3 mor
+: 131 19 5 row
+- 152
+: 169 5 5 Come 
+: 175 5 7 what 
+: 182 44 8 may 
+- 228
+: 238 6 10 To
+: 245 5 12 mor
+: 251 11 10 row! 
+- 264
+: 267 6 9 To
+: 275 6 12 mor
+: 282 10 10 row! 
+- 294
+: 297 7 9 I 
+: 306 5 12 love 
+: 313 10 10 ya 
+- 325
+: 329 6 3 To
+: 337 6 10 mor
+: 344 10 8 row! 
+- 356
+: 361 5 5 You’re 
+: 368 7 8 on
+: 376 11 7 ly 
+: 391 3 3 a 
+: 397 15 -2 day 
+* 415 11 5 a
+* 429 26 3 way 
+- 457
+: 774 3 1 The 
+: 780 4 -2 sun 
+: 785 1 -1 will 
+: 789 6 1 come 
+: 797 10 6 out 
+- 809
+: 819 5 10 To
+: 825 4 8 mor
+: 831 7 6 row 
+- 840
+: 844 2 10 Bet 
+: 848 2 8 your 
+: 851 3 6 bot
+: 856 6 5 tom 
+: 864 5 3 dol
+: 870 5 8 lar 
+- 877
+: 880 5 5 That 
+: 889 3 1 to
+: 894 4 -2 mor
+: 900 23 6 row 
+- 925
+: 933 6 8 There’ll 
+: 941 6 10 be 
+: 948 30 -1 sun! 
+- 980
+: 996 4 1 Just 
+: 1003 3 -2 thin
+: 1007 3 -1 king 
+: 1011 3 1 a
+: 1016 13 6 bout 
+- 1031
+: 1036 6 10 To
+: 1043 4 8 mor
+: 1049 10 6 row 
+- 1061
+: 1064 5 10 Clears 
+: 1070 2 8 a
+: 1073 4 6 way 
+* 1079 4 5 the 
+* 1084 5 3 cob
+* 1091 4 8 webs, 
+- 1096
+: 1098 6 5 And 
+: 1106 4 1 the 
+: 1112 5 -2 sor
+: 1119 27 6 row 
+- 1148
+: 1154 5 8 ’Til 
+: 1160 7 10 there’s 
+: 1169 27 -1 none! 
+- 1198
+: 1209 1 1 When 
+: 1211 2 1 I’m 
+: 1216 2 1 stuck 
+: 1221 3 6 with 
+: 1225 2 8 a 
+: 1228 11 9 day 
+- 1241
+: 1247 3 6 That’s 
+: 1252 15 9 gray, 
+- 1269
+: 1273 2 6 And 
+: 1277 9 9 lonely
+: 1287 5 11 ~, 
+- 1294
+F 1310 3 4 I 
+F 1315 4 4 just 
+F 1321 3 4 stick 
+F 1325 3 -2 out 
+* 1329 4 -1 my 
+* 1335 8 1 chin 
+* 1353 5 -3 and 
+* 1360 10 1 grin, 
+: 1381 5 -3 and 
+: 1388 30 1 say, 
+- 1420
+: 1489 3 -1 The 
+: 1495 2 -2 sun 
+: 1499 2 -1 will 
+: 1503 5 1 come 
+: 1509 9 6 out 
+- 1520
+: 1529 5 10 To
+: 1535 4 8 mor
+: 1541 9 6 row, 
+- 1552
+: 1555 3 10 So 
+: 1560 4 8 ya 
+: 1565 3 6 got
+: 1569 6 5 ta 
+: 1576 4 3 hang 
+: 1582 5 8 on 
+- 1588
+: 1590 9 5 ’Til 
+: 1600 3 1 to
+: 1605 4 -2 mor
+: 1610 17 6 row 
+- 1629
+: 1643 5 8 Come 
+: 1649 6 10 what 
+: 1656 47 11 may 
+- 1705
+: 1708 4 13 To
+: 1713 4 15 mor
+: 1719 11 13 row! 
+- 1731
+: 1733 5 10 To
+: 1739 5 15 mor
+: 1746 10 13 row! 
+- 1760
+: 1760 4 10 I 
+: 1766 5 15 love 
+: 1772 11 13 ya 
+- 1784
+: 1786 5 6 To
+: 1793 5 13 mor
+: 1799 12 11 row! 
+- 1812
+: 1814 5 8 You’re 
+: 1821 5 11 on
+: 1828 9 10 ly 
+: 1839 8 6 a 
+: 1848 13 1 day 
+: 1863 10 8 a
+: 1875 21 6 way 
+- 1898
+: 1904 25 13 To
+: 1930 6 15 mor
+: 1937 8 13 row! 
+- 1946
+: 1948 6 10 To
+: 1956 5 15 mor
+: 1962 9 13 row! 
+- 1972
+* 1974 6 10 I 
+* 1982 5 15 love 
+* 1989 10 13 ya 
+- 2000
+* 2002 7 6 To
+* 2010 5 13 mor
+* 2017 9 11 row! 
+- 2027
+: 2029 8 8 You’re 
+: 2038 5 11 on
+: 2045 9 10 ly 
+: 2056 6 6 a 
+: 2064 48 13 day 
+: 2117 50 14 a
+: 2169 101 14 way. 
+E

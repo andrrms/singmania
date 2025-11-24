@@ -1,0 +1,191 @@
+#ARTIST:Johnny Mathis
+#TITLE:A Time For Us
+#MP3:Johnny Mathis - A Time For Us.mp3
+#CREATOR:Densetsu
+#YEAR:1968
+#LANGUAGE:English
+#BPM:214
+#GAP:10270
+#VIDEO:a=jh9YoMbS02s,co=https://cdn.awsli.com.br/2500x2500/769/769081/produto/78241789/62147c5c91.jpg
+: 0 4 9 A 
+: 6 8 12 time 
+: 16 4 11 for 
+: 22 14 4 us, 
+: 42 4 4 some 
+: 48 6 7 day 
+: 56 4 4 there’ll 
+: 62 16 9 be 
+- 79
+: 80 4 9 When 
+: 86 8 7 chains 
+: 96 4 5 are 
+: 102 14 7 torn 
+- 118
+: 120 8 7 By 
+: 130 3 5 cou
+: 134 4 4 rage 
+: 140 18 2 born 
+: 160 2 4 of 
+: 164 1 2 a 
+: 166 6 0 love 
+: 176 2 2 that’s 
+: 180 14 4 free 
+- 196
+: 198 6 9 A 
+: 206 8 12 time 
+: 216 1 11 when 
+: 218 14 4 dreams 
+: 238 2 4 so 
+: 242 8 7 long 
+: 252 3 4 de
+: 256 24 9 nied 
+- 282
+: 286 4 9 Can 
+: 292 33 14 flou
+: 326 24 11 rish 
+- 352
+: 356 4 4 As 
+: 362 14 12 we 
+: 378 3 11 un
+: 382 8 9 veil 
+: 392 1 7 the 
+: 394 10 12 love 
+: 406 4 11 we 
+: 412 14 9 now 
+: 428 4 7 must 
+: 434 22 9 hide 
+- 458
+: 460 4 9 A 
+: 466 26 12 time 
+: 496 4 12 for 
+: 502 24 14 us, 
+: 530 2 16 at 
+: 534 30 17 last 
+: 566 2 14 to 
+: 570 22 16 see 
+- 594
+: 596 6 12 A 
+: 604 26 14 life 
+: 632 4 10 worth
+: 638 24 12 while 
+: 664 6 9 for 
+: 672 28 11 you 
+: 702 2 7 and 
+: 706 32 9 me 
+- 740
+: 754 6 9 And 
+: 762 6 12 with 
+: 770 2 11 our 
+: 774 18 4 love, 
+: 798 2 4 through 
+: 802 6 7 tears 
+: 810 1 4 and 
+: 812 14 9 thorns 
+- 828
+: 830 6 9 We 
+: 838 4 7 will 
+: 844 3 5 en
+: 848 10 7 dure 
+- 860
+: 864 4 7 As 
+: 870 4 5 we 
+: 876 4 4 pass 
+: 882 1 2 su
+: 884 2 2 re
+: 888 10 2 ly 
+: 900 4 4 through 
+: 906 1 2 e
+: 908 1 0 ve
+: 910 4 2 ry 
+: 916 16 4 storm 
+- 934
+: 936 2 9 A 
+: 940 8 12 time 
+: 950 2 11 for 
+: 954 12 4 us, 
+- 968
+: 970 4 4 Some 
+: 976 4 7 day 
+: 982 4 4 there’ll 
+: 988 24 9 be 
+: 1014 2 9 a 
+: 1018 34 14 new 
+: 1054 28 11 world 
+- 1084
+: 1088 4 4 A 
+: 1094 16 12 world 
+: 1112 2 11 of 
+: 1116 3 9 shi
+: 1120 4 7 ning 
+: 1126 8 12 hope 
+: 1136 1 11 for 
+: 1138 16 9 you 
+: 1156 4 7 and 
+: 1162 36 9 me 
+- 1200
+: 1400 4 12 For 
+: 1406 28 11 you 
+: 1436 2 7 and 
+: 1440 34 9 me 
+- 1476
+: 1498 4 9 And 
+: 1504 14 12 with 
+: 1520 4 11 our 
+: 1526 18 4 love, 
+: 1548 2 4 through 
+: 1552 10 7 tears 
+: 1564 2 4 and 
+: 1568 14 9 thorns 
+- 1584
+: 1590 6 9 We 
+: 1598 6 7 will 
+: 1606 3 5 en
+: 1610 14 7 dure 
+: 1632 4 7 as 
+- 1637
+: 1638 4 5 We 
+: 1644 4 4 pass 
+: 1650 1 2 su
+: 1652 1 2 re
+: 1654 14 2 ly 
+: 1674 6 4 through 
+: 1682 3 2 e
+: 1686 3 0 ve
+: 1690 2 2 ry 
+: 1694 20 4 storm 
+- 1716
+: 1718 2 9 A 
+: 1722 8 12 time 
+: 1732 2 11 for 
+: 1736 12 4 us, 
+- 1750
+: 1752 2 4 Some 
+: 1756 6 7 day 
+: 1766 4 4 there’ll 
+: 1772 26 9 be 
+: 1802 1 9 a 
+: 1804 36 14 new 
+: 1842 22 11 world 
+- 1866
+: 1872 2 4 A 
+: 1876 18 12 world 
+: 1896 1 11 of 
+: 1898 4 9 shi
+: 1904 4 7 ning 
+: 1910 6 12 hope 
+: 1918 4 11 for 
+: 1924 14 9 you 
+: 1940 6 7 and 
+: 1948 40 9 me 
+- 1990
+: 2014 4 4 A 
+: 2020 18 12 world 
+: 2040 4 11 of 
+: 2046 5 9 shi
+: 2052 6 7 ning 
+: 2060 8 12 hope 
+: 2070 8 11 for 
+: 2080 28 9 you 
+: 2110 40 7 and 
+: 2152 92 9 me 
+E

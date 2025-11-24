@@ -1,0 +1,391 @@
+#ARTIST:Manowar
+#TITLE:Kings Of Metal
+#MP3:Manowar - Kings Of Metal.mp3
+#CREATOR:aac
+#GENRE:True Metal
+#YEAR:1988
+#LANGUAGE:English
+#BPM:264.3
+#GAP:7390
+#VIDEO:a=RSSmwXy98IY,co=https://i.discogs.com/FJveOHUmzTEIEgcCIHPiNmWvuY_Xqe6b0YErV2Qh7L4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/NTQtMTY3MjIyNDM4/MS05OTg3LmpwZWc.jpeg,bg=manowar-62eec6f65bdc2.jpg
+: 0 4 4 Ma
+: 5 2 4 no
+: 8 6 4 war 
+: 16 3 7 Ma
+: 20 3 4 no
+: 24 5 4 war 
+: 32 3 4 li
+: 36 3 2 ving 
+: 40 3 4 on 
+: 44 3 2 the 
+: 48 10 8 road 
+- 60
+: 124 2 7 When 
+: 128 3 10 we’re 
+: 132 5 11 in 
+* 140 11 11 town 
+- 153
+: 160 3 8 Spea
+: 164 3 4 kers 
+: 168 5 4 ex
+: 176 12 8 plode 
+- 190
+: 244 4 9 Now 
+: 251 2 9 we 
+: 256 3 9 don’t 
+: 260 1 7 at
+: 264 5 9 tract 
+: 272 6 9 wimps 
+: 284 3 9 ’cause 
+: 288 6 12 we’re 
+: 296 4 9 too 
+: 304 10 9 loud 
+- 316
+: 379 3 9 Just 
+: 385 7 11 true 
+: 393 2 12 me
+* 396 3 9 tal 
+* 400 4 12 peo
+: 405 4 4 ple 
+: 411 4 9 that’s 
+: 418 2 10 Ma
+: 421 3 4 no
+: 425 5 4 war’s 
+: 432 4 4 crowd
+: 437 4 7 ~ 
+- 443
+: 496 6 7 They 
+: 504 3 6 wan
+: 508 3 4 na 
+: 513 4 4 keep 
+: 520 5 4 us 
+: 528 10 4 down 
+- 539
+: 540 3 7 But 
+: 544 6 9 they 
+* 552 5 7 can’t 
+: 560 9 11 last 
+- 571
+: 572 2 7 When 
+: 576 3 9 we 
+: 580 7 9 get 
+: 588 4 11 up 
+: 596 2 4 we’re 
+: 600 3 4 gon
+: 604 2 4 na 
+F 608 5 4 kick 
+F 616 5 4 your 
+F 624 7 4 ass 
+- 632
+F 633 2 4 Gon
+F 636 3 4 na 
+: 641 2 4 keep 
+: 645 5 4 on 
+: 652 7 8 bur
+: 660 7 8 nin’ 
+- 668
+: 668 3 4 We 
+: 672 6 9 al
+* 680 6 7 ways 
+: 688 8 11 will 
+- 698
+: 705 3 9 O
+: 709 2 7 ther 
+: 713 6 9 bands 
+: 722 8 11 play 
+F 737 4 4 Ma
+F 742 2 4 no
+F 745 5 4 war 
+F 753 6 4 kill 
+- 761
+: 768 3 12 O
+: 773 2 7 ther 
+: 777 5 6 bands 
+* 785 2 9 play
+: 788 4 6 ~ 
+F 801 3 4 Ma
+F 805 3 4 no
+F 809 6 4 war 
+F 817 5 4 kill 
+- 824
+: 890 5 4 We 
+: 896 4 4 like 
+: 901 5 4 it 
+: 909 7 7 hard, 
+: 924 3 4 we 
+: 928 4 4 like 
+: 933 6 4 it 
+: 940 11 7 fast 
+- 953
+: 1012 3 4 We 
+: 1016 3 11 got 
+: 1020 4 11 the 
+: 1025 3 11 big
+: 1029 5 11 gest 
+: 1037 10 11 amps, 
+- 1049
+: 1056 4 11 Man
+: 1061 3 4 ~ 
+: 1065 5 4 they 
+* 1072 10 4 blast 
+- 1084
+: 1153 6 9 True 
+: 1160 3 9 me
+: 1164 4 7 tal 
+: 1169 3 9 peo
+: 1173 3 7 ple 
+: 1177 3 10 wan
+: 1181 3 7 na 
+: 1185 6 11 rock 
+: 1196 4 9 not 
+: 1203 4 9 pose
+: 1208 6 6 ~ 
+- 1216
+: 1272 3 4 Wea
+: 1276 3 4 rin’ 
+: 1280 7 4 jeans 
+: 1288 4 4 and 
+: 1293 2 8 lea
+: 1297 4 4 ther, 
+: 1304 4 4 not 
+: 1312 3 6 cra
+: 1316 3 4 cker 
+: 1321 4 5 jack 
+: 1328 10 4 clothes 
+- 1340
+: 1392 6 7 They 
+: 1400 3 6 wan
+: 1404 3 4 na 
+: 1409 4 4 keep 
+: 1416 5 4 us 
+* 1424 10 4 down 
+- 1435
+: 1436 3 7 But 
+: 1440 6 9 they 
+: 1448 5 7 can’t 
+: 1456 9 11 last 
+- 1467
+: 1468 2 7 When 
+: 1472 3 9 we 
+: 1476 7 9 get 
+* 1484 4 11 up 
+: 1492 2 4 we’re 
+: 1496 3 4 gon
+: 1500 2 4 na 
+F 1504 5 4 kick 
+F 1512 5 4 your 
+F 1520 7 4 ass 
+- 1528
+F 1529 2 4 Gon
+F 1532 3 4 na 
+: 1537 2 4 keep 
+: 1544 5 4 on 
+: 1552 4 8 bur
+: 1557 7 8 nin’ 
+- 1565
+: 1565 3 4 We 
+: 1569 6 9 al
+* 1577 6 7 ways 
+: 1585 8 11 will 
+- 1595
+: 1600 3 9 O
+: 1604 2 7 ther 
+: 1608 6 9 bands 
+: 1617 8 11 play 
+F 1632 4 4 Ma
+F 1637 2 4 no
+F 1640 5 4 war 
+F 1648 6 4 kill 
+- 1656
+: 1664 3 11 O
+: 1669 2 7 ther 
+: 1673 5 7 bands 
+: 1681 2 7 play
+: 1684 4 9 ~ 
+F 1697 3 4 Ma
+F 1701 3 4 no
+F 1705 6 4 war 
+F 1713 5 4 kill 
+- 1720
+F 2162 5 4 We’re 
+F 2168 5 4 the 
+: 2176 5 4 kings 
+: 2185 5 4 of 
+* 2192 3 7 me
+* 2197 5 7 tal 
+: 2208 4 4 com
+: 2213 3 4 min’ 
+: 2217 2 4 to 
+: 2221 8 7 town 
+- 2231
+: 2300 3 8 When 
+: 2305 3 12 we 
+: 2309 6 12 light 
+: 2317 6 10 up, 
+- 2325
+: 2329 3 4 Have 
+: 2333 2 4 the 
+* 2337 6 7 roof 
+: 2345 5 4 nailed 
+: 2353 8 4 down 
+- 2363
+: 2437 3 4 Don’t 
+: 2441 4 9 try 
+: 2446 2 7 to 
+: 2449 3 11 tell 
+: 2453 4 4 us 
+: 2461 3 9 that 
+: 2465 4 11 we’re 
+: 2472 5 9 too 
+: 2481 10 9 loud 
+- 2493
+: 2553 3 7 ’Cause 
+: 2557 3 9 there 
+: 2563 4 11 ain’t 
+: 2570 4 11 no 
+* 2577 8 11 way 
+: 2587 2 7 that 
+: 2590 2 4 we’ll 
+: 2594 2 7 e
+: 2597 2 4 ver 
+: 2601 6 4 turn 
+: 2609 10 7 down 
+- 2621
+: 2672 6 7 They 
+: 2680 3 6 wan
+: 2684 3 4 na 
+: 2689 4 4 keep 
+: 2696 5 4 us 
+: 2704 10 4 down 
+- 2715
+: 2716 3 7 But 
+* 2720 6 9 they 
+: 2728 5 7 can’t 
+: 2736 9 11 last 
+- 2747
+: 2748 2 7 When 
+: 2752 3 9 we 
+: 2756 7 9 get 
+: 2764 4 11 up 
+: 2772 2 4 we’re 
+: 2776 3 4 gon
+: 2780 2 4 na 
+F 2784 5 4 kick 
+F 2792 5 4 your 
+F 2800 7 4 ass 
+- 2808
+F 2809 2 4 Gon
+F 2812 3 4 na 
+: 2817 2 4 keep 
+: 2821 5 4 on 
+: 2828 7 8 bur
+: 2836 7 8 nin’ 
+- 2844
+: 2844 3 4 We 
+: 2848 6 9 al
+: 2856 6 7 ways 
+* 2864 8 11 will 
+- 2874
+: 2881 3 9 O
+: 2885 2 7 ther 
+: 2889 6 9 bands 
+: 2898 8 10 play 
+F 2913 4 4 Ma
+F 2918 2 4 no
+F 2921 5 4 war 
+F 2929 6 4 kill 
+- 2936
+: 2937 3 9 We’re 
+: 2941 3 7 the 
+* 2945 7 9 kings 
+* 2953 4 9 of 
+: 2961 3 12 me
+: 2965 8 12 tal 
+- 2975
+F 2977 5 4 Kick 
+F 2984 7 4 your 
+F 2994 7 4 ass 
+- 3003
+: 3008 6 4 Kick 
+: 3016 6 7 your 
+: 3024 6 4 ass 
+- 3032
+F 3041 3 4 Ma
+F 3045 3 4 no
+F 3049 6 4 war 
+F 3057 7 4 kill 
+- 3066
+: 3072 3 10 Com
+: 3076 3 7 min’ 
+: 3080 3 7 to 
+: 3084 9 10 town 
+- 3095
+F 3105 5 4 Kick 
+F 3113 6 4 your 
+F 3121 5 4 ass 
+- 3128
+: 3129 3 7 We’re 
+: 3133 2 6 the 
+: 3136 5 6 kings 
+* 3144 5 6 of 
+: 3152 3 7 me
+: 3156 7 7 tal 
+- 3165
+F 3169 3 4 Ma
+F 3173 3 4 no
+F 3177 5 4 war 
+F 3185 8 4 kill 
+- 3195
+: 3200 4 9 Com
+: 3205 2 9 min’ 
+: 3208 3 9 to 
+* 3213 7 12 town 
+: 3221 2 9 we’re 
+: 3225 3 10 gon
+: 3229 3 9 na 
+F 3234 4 4 kick 
+F 3240 6 4 your 
+F 3248 5 4 ass 
+- 3255
+: 3256 3 9 We’re 
+: 3260 3 11 the 
+: 3264 6 9 kings 
+: 3272 6 6 of 
+: 3281 3 9 me
+: 3285 9 9 tal 
+- 3295
+F 3296 5 4 Ma
+F 3302 2 4 no
+F 3306 4 4 war 
+F 3313 8 4 kill 
+- 3323
+F 3361 5 4 Kick 
+F 3368 7 4 your 
+F 3377 6 4 ass 
+- 3385
+F 3425 2 4 Ma
+F 3428 4 4 no
+F 3433 5 4 war 
+F 3441 6 4 kill 
+- 3448
+: 3448 3 9 We’re 
+: 3452 3 4 the 
+* 3456 6 4 kings 
+: 3464 6 4 of 
+: 3473 6 7 me
+: 3480 4 8 tal 
+- 3486
+F 3488 6 4 Kick 
+F 3496 7 4 your 
+F 3505 6 4 ass 
+- 3513
+: 3520 4 4 Com
+: 3525 3 4 min’ 
+: 3529 3 4 to 
+* 3533 7 8 town 
+- 3542
+F 3552 3 4 Ma
+F 3556 3 4 no
+F 3561 5 4 war 
+F 3569 5 4 kill 
+E

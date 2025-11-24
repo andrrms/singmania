@@ -1,0 +1,154 @@
+#ARTIST:Helmet
+#TITLE:Unsung
+#MP3:Helmet - Unsung.mp3
+#CREATOR:daggeg
+#YEAR:1992
+#LANGUAGE:English
+#BPM:316
+#GAP:40110
+#VIDEO:v=jBfygUiS50g,co=https://1.bp.blogspot.com/-3gkCYFFzt4o/ThjgtwhYNyI/AAAAAAAAGeE/SKSKFXJOF1Q/s500/helmet_unsung.png,bg=helmet-554cc396ebb43.jpg
+: 0 3 28 Your 
+: 8 5 28 con
+: 15 6 26 tri
+: 23 5 28 bu
+: 31 4 26 tion 
+: 40 4 23 left 
+: 47 6 21 un
+: 55 6 23 no
+: 63 5 26 ticed 
+: 79 3 23 so
+: 83 5 21 me 
+- 90
+: 127 5 28 As
+: 135 6 28 soc
+: 143 5 26 i
+: 152 5 28 a
+: 159 5 26 tion 
+: 167 4 23 with 
+: 175 4 21 an 
+: 183 7 23 im
+: 191 6 26 age 
+- 199
+: 254 5 28 Just 
+* 262 7 28 cre
+* 270 5 26 dit 
+: 279 5 28 time 
+: 287 3 26 for 
+: 295 6 23 show
+: 302 5 21 ing 
+: 311 4 23 up 
+: 318 15 26 a
+: 334 4 23 ga
+: 339 5 21 in 
+- 346
+: 383 4 28 At
+: 390 6 28 ten
+: 398 5 26 tion 
+: 407 5 28 wan
+: 414 4 26 dered 
+: 422 4 23 I’m 
+: 430 4 21 left 
+: 437 5 23 with 
+: 445 5 26 it 
+- 452
+: 518 11 26 Gone 
+: 533 12 26 by 
+: 549 9 23 sin 
+- 560
+: 579 11 23 Too 
+: 595 9 23 slow
+: 610 4 16 ly 
+- 616
+: 641 10 19 Can’t 
+: 657 12 23 pass 
+: 674 6 23 it 
+* 688 8 21 u
+* 697 3 19 u
+* 701 2 16 p 
+- 705
+: 766 11 26 Then 
+: 782 12 26 I 
+: 798 7 23 thought 
+- 807
+: 814 11 23 No
+: 829 4 23 thing 
+: 844 8 23 is 
+: 858 6 16 right 
+- 866
+: 891 11 19 I 
+: 905 9 21 turned 
+: 921 7 23 it 
+: 936 19 21 off 
+- 957
+: 1385 5 28 To 
+: 1394 5 28 die 
+: 1401 5 26 un
+: 1409 5 28 sung 
+: 1417 5 26 would 
+: 1425 6 23 real
+* 1433 3 21 ly 
+* 1441 5 23 bring 
+* 1449 14 26 you 
+* 1466 2 23 do
+* 1469 4 21 wn 
+- 1475
+: 1512 6 28 Al
+: 1520 5 28 though 
+: 1528 5 26 wet 
+: 1536 5 28 eyes 
+: 1544 5 26 would 
+: 1552 7 23 ne
+: 1560 3 21 ver 
+: 1568 5 23 suit 
+: 1576 5 26 you 
+- 1583
+: 1639 5 28 Walk 
+: 1647 5 28 through 
+: 1655 5 26 no 
+: 1664 5 28 ar
+: 1671 6 26 che
+: 1679 6 23 ty
+: 1688 4 21 pal 
+: 1696 6 23 su
+: 1703 14 26 i
+: 1718 3 23 ci
+: 1722 5 21 de 
+- 1729
+: 1767 5 28 Die 
+* 1775 5 28 young 
+: 1782 4 26 is 
+: 1791 5 28 far 
+: 1798 6 26 too 
+: 1806 6 23 bo
+: 1814 5 21 ring 
+: 1822 5 23 these 
+: 1830 5 26 days 
+- 1837
+: 1901 11 26 Your 
+: 1916 9 26 will 
+: 1931 13 23 to 
+- 1946
+: 1962 9 23 Speak 
+: 1978 9 23 clear
+: 1992 5 16 ly 
+- 1999
+: 2025 9 19 Ex
+: 2039 11 23 posed 
+: 2055 11 23 too 
+: 2070 8 21 mu
+: 2079 3 19 u
+: 2083 3 16 ch 
+- 2088
+* 2147 12 26 Un
+* 2162 12 26 sung 
+: 2179 5 23 once 
+- 2186
+: 2209 12 23 Too 
+: 2225 9 23 of
+: 2238 4 16 ten 
+- 2244
+: 2270 11 19 Could 
+: 2285 10 21 not 
+: 2300 9 23 rub 
+* 2315 58 21 off 
+E

@@ -1,0 +1,281 @@
+#ARTIST:The Wedding Singer (Adam Sandler)
+#TITLE:Grow Old With You
+#MP3:The Wedding Singer (Adam Sandler) - Grow Old With You.mp3
+#CREATOR:livewireau
+#GENRE:Soundtrack
+#YEAR:1998
+#LANGUAGE:English
+#BPM:248.18
+#GAP:4410
+#VIDEO:v=TPsW2FYprfI,co=https://is1-ssl.mzstatic.com/image/thumb/Music/11/df/ae/mzi.qvdasvwd.jpg/5000x5000bb.jpg,bg=sandler-adam-504aeea833eb0.jpg
+F 0 1 16 Good 
+F 2 1 18 af
+F 4 1 17 ter
+F 7 1 17 noon 
+F 10 1 20 ev
+F 12 1 16 ery
+F 14 1 16 one 
+- 17
+F 21 2 17 We’re 
+F 26 2 18 fly
+F 29 1 10 ing 
+F 31 1 14 at 
+F 35 3 16 26 
+F 42 2 16 thous
+F 46 2 15 and 
+F 50 2 16 feet 
+- 54
+F 56 1 19 Mov
+F 58 1 15 ing 
+F 60 1 19 up 
+F 62 2 17 to 
+F 66 2 16 30 
+F 71 2 16 thous
+F 74 1 19 and 
+F 78 1 16 feet 
+- 81
+F 87 2 14 And 
+F 90 1 18 we’ve 
+F 92 1 18 got 
+F 94 2 19 clear 
+F 98 2 16 skies 
+- 102
+F 104 2 13 All 
+F 109 1 10 the 
+F 116 1 10 way 
+F 120 1 10 to 
+F 123 1 14 Las 
+F 127 2 19 Ve
+F 130 1 18 gas 
+- 133
+F 144 2 20 Right 
+F 148 2 20 now 
+F 153 2 16 we’re 
+F 157 2 17 bring
+F 160 1 10 ing 
+F 162 1 19 you 
+- 164
+F 164 1 20 Some 
+F 167 1 16 in
+F 170 2 20 flight 
+F 176 2 15 ent
+F 179 1 16 er
+F 181 2 16 tain
+F 185 2 19 ment 
+- 189
+F 196 2 18 One 
+F 200 1 14 of 
+F 202 1 16 our 
+F 204 2 15 first 
+F 209 2 14 class 
+F 214 2 16 pass
+F 217 1 19 en
+F 220 1 17 gers 
+- 223
+F 228 1 16 Would 
+F 233 1 10 like 
+F 235 1 14 to 
+F 238 1 18 sing 
+F 241 1 20 you 
+F 245 1 20 a 
+F 247 1 14 song 
+- 250
+F 252 2 16 In
+F 256 1 12 spir
+F 260 1 14 ed 
+F 262 1 13 by 
+- 264
+F 265 1 13 One 
+F 268 1 13 of 
+F 270 1 12 our 
+F 272 1 16 coach 
+F 279 2 20 pass
+F 282 1 16 en
+F 286 1 16 gers 
+- 289
+F 298 1 13 And 
+F 300 2 19 since 
+F 304 2 19 we 
+F 308 1 15 let 
+F 310 1 14 our 
+- 312
+F 313 2 13 First 
+F 319 2 19 class 
+F 323 2 16 pass
+F 326 1 17 en
+F 329 2 19 gers 
+- 333
+F 339 2 19 Do 
+F 342 2 18 pret
+F 348 1 20 ty 
+F 350 1 19 much 
+- 352
+F 353 1 14 What
+F 358 1 10 ev
+F 360 1 13 er 
+F 363 1 15 they 
+F 365 1 20 want 
+- 368
+F 385 1 16 Here 
+F 388 1 20 he 
+F 390 1 10 is 
+- 393
+: 408 1 17 I 
+: 410 2 16 wan
+: 413 1 16 na 
+: 418 2 17 make 
+: 424 3 9 you 
+: 431 9 13 smile 
+- 442
+: 462 2 19 When
+: 465 1 9 ev
+: 468 2 13 er 
+: 471 2 14 you’re 
+* 480 11 14 sad 
+- 493
+: 503 4 13 Car
+: 509 3 16 ry 
+: 514 2 16 you 
+: 517 1 16 a
+: 519 3 16 round 
+- 524
+: 525 3 16 When 
+: 530 3 16 your 
+: 534 3 16 arth
+: 538 3 16 rit
+: 544 4 18 is 
+: 551 3 9 is 
+* 555 7 9 bad 
+- 564
+: 569 3 18 Oh 
+: 574 4 11 all 
+: 579 5 13 i 
+: 586 3 13 wan
+: 590 2 13 na 
+: 595 8 19 do 
+- 605
+: 616 2 16 Is 
+: 619 6 11 grow 
+: 628 7 14 old 
+: 637 4 13 with 
+: 644 10 9 you 
+- 656
+: 709 3 16 I’ll 
+: 713 2 16 get 
+: 718 2 16 you 
+: 722 3 9 med
+: 728 5 9 i
+: 735 12 9 cine 
+- 749
+: 757 2 9 When 
+: 761 3 13 you 
+: 766 2 18 tum
+: 770 2 13 my 
+: 777 3 14 aches 
+- 782
+: 806 3 15 Build 
+: 811 2 13 you 
+: 814 2 16 a 
+: 819 9 16 fire 
+- 829
+: 829 3 16 If 
+: 834 2 16 the 
+: 839 4 17 furn
+: 845 6 19 ace 
+: 855 10 9 breaks 
+- 866
+: 867 4 19 Oh, 
+* 876 5 19 it 
+: 882 3 9 could 
+: 889 3 19 be 
+: 894 3 19 so 
+: 899 11 13 nice 
+- 912
+: 925 3 16 Grow
+: 931 3 11 in 
+: 936 7 14 old 
+: 946 7 13 with 
+: 956 6 9 you 
+- 964
+: 1019 10 9 I’ll 
+: 1031 10 16 miss 
+: 1043 8 9 you 
+: 1058 16 16 kiss 
+: 1077 12 18 you 
+- 1091
+: 1093 3 19 Give 
+: 1098 2 16 you 
+: 1102 6 16 my 
+: 1110 6 14 coat 
+- 1118
+* 1119 7 13 When 
+: 1128 3 9 you 
+: 1133 8 20 are 
+: 1143 11 9 cold 
+- 1156
+: 1163 13 16 Need 
+: 1180 12 9 you 
+: 1199 15 16 feed 
+: 1217 10 18 you 
+- 1229
+: 1234 3 19 E
+: 1240 2 10 ven 
+: 1244 3 13 let 
+: 1250 2 13 you 
+: 1254 6 13 hold 
+- 1262
+: 1263 2 13 The 
+: 1267 2 16 re
+: 1272 3 13 mote 
+: 1277 7 13 con
+: 1285 8 9 trol 
+- 1295
+: 1304 2 18 So 
+: 1307 3 11 let 
+: 1313 2 13 me 
+: 1316 3 13 do 
+: 1321 3 13 the 
+: 1326 3 9 dish
+: 1330 2 13 es 
+- 1333
+: 1334 3 20 In 
+: 1338 8 13 our 
+: 1347 2 18 kit
+: 1350 2 11 chen 
+: 1355 14 11 sink 
+- 1371
+: 1382 2 13 Put 
+: 1386 2 13 you 
+: 1391 2 16 to 
+: 1394 5 16 bed 
+- 1400
+: 1401 1 16 When 
+: 1404 2 16 you’ve 
+: 1407 2 16 had 
+- 1411
+: 1414 4 16 Too 
+: 1419 4 16 much 
+: 1429 2 14 to 
+* 1432 9 9 drink 
+- 1443
+: 1462 4 11 Oh, 
+: 1470 2 11 i 
+: 1474 2 9 could 
+: 1478 2 13 be 
+: 1483 4 13 the 
+: 1489 10 13 man 
+- 1501
+: 1519 3 16 Who 
+* 1524 10 11 grows 
+: 1535 8 14 old 
+: 1545 10 13 with 
+: 1557 11 9 you 
+- 1570
+: 1593 3 16 I 
+: 1598 3 19 wan
+: 1603 3 9 na 
+: 1609 11 9 grow 
+: 1621 12 9 old 
+: 1634 12 20 with 
+: 1647 17 9 you 
+E

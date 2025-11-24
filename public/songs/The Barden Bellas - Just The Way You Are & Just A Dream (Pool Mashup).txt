@@ -1,0 +1,171 @@
+#ARTIST:The Barden Bellas
+#TITLE:Just The Way You Are & Just A Dream (Pool Mashup)
+#MP3:The Barden Bellas - Just The Way You Are & Just A Dream (Pool Mashup).mp3
+#CREATOR:EmilySavereux
+#GENRE:Musical
+#YEAR:2012
+#LANGUAGE:English
+#BPM:219.9
+#GAP:34220
+#VIDEO:v=12Q90oDfylk,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/54/21/145421d0-d8e7-b969-379a-a1240a806a1d/12UMGIM47751.rgb.jpg/5000x5000bb.jpg
+: 0 9 1 Oh 
+- 13
+: 15 3 1 Her 
+: 20 2 1 eyes,
+: 23 2 -2 ~ 
+: 27 2 1 her 
+: 31 3 1 eyes 
+- 36
+: 38 1 1 Make 
+: 40 1 -2 the 
+: 43 5 1 stars 
+: 49 2 1 look 
+: 52 3 -2 like 
+: 57 3 1 they’re 
+: 62 3 3 not 
+: 67 3 -2 shi
+: 71 3 -2 ning 
+- 78
+: 80 2 1 Her 
+: 83 4 1 hair,
+: 88 2 -2 ~ 
+: 92 2 1 her 
+: 95 2 1 hair 
+- 100
+: 102 3 1 Falls 
+: 107 2 1 per
+: 111 1 -2 fect
+: 114 2 1 ly 
+: 117 2 -2 with
+: 121 3 1 out 
+: 126 3 3 her 
+: 130 5 -2 try
+: 136 4 -2 ing 
+- 144
+: 146 3 -2 She’s 
+: 150 2 -2 so 
+: 153 3 -1 beau
+: 157 1 -2 ti
+: 159 13 -2 ful 
+- 179
+: 182 2 -2 And 
+: 185 1 -2 I 
+: 187 2 -1 tell 
+: 190 2 -2 her 
+: 193 2 -1 e
+: 198 5 1 very
+: 206 5 -2 day
+: 212 2 -4 ~
+: 216 9 -2 ~ 
+- 239
+: 271 2 1 I 
+: 274 4 1 know,
+: 279 3 -2 ~ 
+: 283 3 1 I 
+: 287 4 1 know 
+- 293
+: 295 2 1 When 
+: 298 1 -2 I 
+: 300 2 1 com
+: 303 2 1 ple
+: 306 2 1 ment 
+: 309 3 1 her 
+: 313 2 -2 she 
+: 316 2 1 won’t 
+: 319 4 3 be
+: 324 2 -2 lieve 
+: 327 2 -2 me 
+- 333
+: 335 2 1 It’s 
+: 340 3 1 so,
+: 344 2 -2 ~ 
+: 347 2 1 it’s 
+: 351 3 1 so 
+- 356
+: 358 2 1 Sad 
+: 361 1 -2 to 
+: 364 1 1 think 
+: 366 1 -2 that 
+: 368 2 1 she 
+: 371 2 -2 don’t 
+: 376 3 1 see 
+: 380 5 3 what 
+: 386 2 -2 I 
+: 391 3 -2 see 
+- 398
+: 400 2 -2 But 
+: 403 2 -1 e
+: 406 1 -2 very 
+: 409 3 -1 time 
+: 413 2 -2 she 
+: 417 2 -1 asks 
+: 421 2 -2 me 
+* 425 2 1 “Do 
+: 428 3 -6 I 
+: 432 5 -6 look 
+: 438 2 -4 o
+: 441 5 -4 kay?” 
+- 450
+: 452 2 -1 I 
+: 460 20 -2 say 
+- 490
+: 498 3 1 When 
+: 503 2 1 I 
+: 507 3 6 see 
+: 511 5 8 your 
+* 520 35 10 face 
+- 564
+: 568 3 6 There’s 
+: 572 3 6 not 
+: 576 3 8 a 
+: 583 6 10 thing 
+: 591 5 8 that 
+: 598 6 6 I 
+: 607 4 8 would 
+: 616 11 6 change 
+- 632
+: 634 4 5 ’Cause 
+: 639 3 6 you’re 
+: 644 2 8 a
+: 647 5 10 ma
+: 654 6 8 zing
+: 664 9 3 ~ 
+: 679 6 11 just 
+: 688 3 10 the 
+: 695 6 6 way 
+: 703 5 8 you 
+: 712 33 6 are 
+- 751
+: 754 3 1 When 
+: 758 2 1 I 
+: 762 3 6 see 
+: 767 4 8 your 
+: 776 33 10 face 
+- 821
+: 825 2 6 There’s 
+: 828 3 6 not 
+: 833 3 8 a 
+: 839 6 10 thing 
+: 847 5 8 that 
+: 854 6 6 I 
+: 863 4 8 would 
+: 872 11 6 change 
+- 888
+: 890 4 5 ’Caus 
+: 895 3 6 your 
+: 900 2 8 a
+: 903 5 10 ma
+: 911 4 8 zing
+: 918 11 3 ~ 
+: 935 6 11 just 
+: 944 3 10 the 
+: 951 6 6 way 
+: 959 5 8 you 
+: 968 32 6 are 
+- 1007
+: 1010 4 1 When 
+: 1015 1 1 I 
+: 1019 3 6 see 
+* 1024 5 13 your 
+: 1033 25 10 face 
+E

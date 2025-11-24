@@ -1,0 +1,529 @@
+#ARTIST:Sleaford Mods feat. Billy Nomates
+#TITLE:Mork N Mindy
+#MP3:Sleaford Mods feat. Billy Nomates - Mork N Mindy.mp3
+#CREATOR:peter.lustig
+#YEAR:2020
+#LANGUAGE:English
+#BPM:244.34
+#GAP:16300
+#VIDEO:v=iKcbSOjIzjQ,co=https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/fa/60/e1fa60ba-1365-0ac6-df7c-93eaa267c27f/191402019056.png/5000x5000bb.jpg
+: 0 3 8 Mork 
+: 4 2 8 ’n’ 
+: 7 2 8 Min
+: 10 3 11 dy, 
+- 15
+: 25 5 8 Action 
+: 31 2 3 Man 
+: 34 2 8 ’n’ 
+: 37 2 8 Cin
+: 40 3 8 dy 
+- 45
+: 60 1 6 I 
+: 62 2 8 don’t 
+: 65 3 8 mess 
+: 69 8 8 about 
+- 79
+: 94 1 8 I 
+: 96 1 3 make 
+: 98 1 10 ’em 
+: 100 3 8 kiss 
+: 105 2 8 each 
+: 108 2 11 other 
+- 111
+: 111 1 3 When 
+: 113 1 11 my 
+: 115 2 8 mum 
+: 118 1 11 ’n’ 
+: 120 4 8 dad 
+: 125 1 6 go 
+: 127 4 3 out 
+: 141 1 11 No 
+: 143 8 11 messing, 
+- 153
+: 154 2 8 No 
+: 157 6 10 curtain 
+: 165 4 8 twitching, 
+- 171
+: 173 2 11 No 
+: 176 4 11 stres
+: 181 3 11 ~sing 
+- 186
+: 197 1 8 I 
+: 199 1 8 don’t 
+: 201 1 1 hang 
+: 202 1 8 a
+: 204 1 8 bout, 
+- 207
+: 212 2 11 I 
+: 215 1 11 get 
+: 217 2 1 ’em 
+: 220 3 8 down 
+: 224 1 6 and 
+: 226 6 10 dirty 
+- 234
+: 237 3 11 Then 
+: 241 2 11 get 
+: 244 2 11 ’em 
+: 250 1 10 fall
+: 252 2 8 ing 
+: 255 3 3 out, 
+- 259
+: 260 3 8 Then 
+: 264 2 11 get 
+: 267 1 11 ’em 
+: 269 2 10 flir
+: 272 5 11 ty 
+- 279
+: 282 2 10 Get 
+: 285 1 6 ’em 
+: 287 5 10 throwing 
+: 293 5 10 plates 
+: 299 2 11 at 
+: 302 2 11 each
+: 305 4 11 other 
+- 311
+: 312 1 11 ’Cause 
+: 314 2 11 that’s 
+: 317 2 8 what’s 
+: 320 2 3 it’s 
+: 323 2 8 alla
+: 326 5 10 bout 
+- 333
+: 337 4 11 Oi, 
+: 342 2 11 fuck 
+: 345 2 3 off 
+: 349 3 8 back 
+: 353 2 8 to 
+: 356 2 6 your 
+: 359 2 8 own 
+: 362 4 4 room 
+- 367
+: 367 3 8 ,Wel
+: 371 5 11 come 
+- 378
+: 386 2 8 In 
+: 389 1 8 the 
+: 391 3 8 back 
+: 395 4 8 room, 
+- 401
+: 405 3 11 When 
+: 409 3 11 fuck 
+: 413 4 8 all’s 
+: 418 2 8 going 
+: 421 2 8 on, 
+- 424
+: 425 3 8 What’s 
+: 429 3 8 new? 
+- 434
+: 438 1 11 And 
+: 440 1 11 the 
+: 442 4 10 plated 
+: 447 4 8 scenes 
+: 453 1 8 of 
+: 455 3 8 that 
+- 460
+: 467 2 6 I 
+: 470 2 11 live 
+: 473 1 6 on 
+: 475 2 8 a 
+: 478 3 8 really 
+: 482 1 8 de
+: 484 8 8 pressing 
+: 494 4 11 cul 
+: 499 2 11 de 
+: 502 4 11 sac 
+- 508
+: 510 3 6 Where 
+: 514 4 11 coup
+: 519 2 8 les 
+: 522 3 8 get 
+: 526 8 10 divorced 
+- 535
+: 536 2 11 And 
+: 539 5 8 people 
+: 545 3 8 come 
+: 549 2 10 up 
+: 552 3 8 that 
+: 556 2 11 you’d 
+: 559 3 11 never 
+: 564 4 11 seen 
+: 569 7 8 before 
+- 578
+: 579 4 8 Like 
+: 584 4 10 that 
+: 592 4 11 smell 
+: 597 1 11 of 
+: 599 9 11 cigars 
+: 609 2 6 and 
+: 612 5 10 oil 
+: 618 5 8 twat 
+- 625
+: 626 3 11 You 
+: 630 4 11 go, 
+: 637 3 6 too 
+: 642 7 6 high 
+: 653 3 6 too 
+: 657 4 6 low 
+- 662
+: 662 2 11 It 
+: 666 3 4 does
+: 670 3 3 n’t 
+: 674 3 4 make 
+: 678 2 3 a 
+: 681 2 6 diff
+: 684 5 6 erence 
+- 690
+: 691 2 4 I 
+: 694 3 3 know, 
+: 700 4 6 too 
+: 706 9 6 high, 
+: 717 2 6 too 
+: 720 4 6 low 
+- 725
+: 726 2 11 But 
+: 729 2 3 the 
+: 732 5 3 system 
+: 738 5 8 won’t 
+: 745 12 11 go 
+- 759
+: 765 3 6 Too 
+: 769 7 6 high, 
+: 782 2 6 too 
+: 785 4 6 low 
+- 791
+: 792 2 11 It 
+: 795 2 4 does
+: 798 2 3 n’t 
+: 802 3 4 make 
+: 806 3 8 a 
+: 810 3 11 diff
+: 814 5 6 erence 
+- 821
+: 822 1 3 I 
+: 824 3 1 know, 
+: 830 3 6 too 
+: 835 8 6 high, 
+: 846 3 6 too 
+: 850 3 6 low 
+- 854
+: 854 2 11 But 
+: 857 2 8 the 
+: 860 4 11 system 
+: 866 8 8 won’t 
+: 875 13 11 go 
+- 890
+: 898 4 8 Mork 
+: 903 1 8 ’n’ 
+: 905 2 11 Min
+: 908 5 11 dy 
+- 915
+: 917 1 11 I 
+: 919 2 11 got 
+: 922 2 11 ea
+: 925 2 8 gle 
+: 928 3 8 eyes 
+: 932 1 8 a
+: 934 3 10 bove 
+: 938 3 8 me 
+- 943
+: 955 2 3 I 
+: 958 5 3 just 
+: 964 2 11 hit 
+: 967 3 11 it 
+: 971 7 11 out, 
+- 980
+: 982 3 11 In 
+: 986 5 11 beige 
+: 992 2 3 and 
+: 995 4 8 tan 
+: 1000 1 8 and 
+: 1002 3 11 stain 
+: 1006 4 4 proof 
+: 1011 5 11 kitchen 
+: 1017 5 8 mats 
+- 1023
+: 1023 2 3 And 
+: 1026 4 10 out, 
+: 1035 7 11 house, 
+: 1050 6 3 pheasant 
+: 1057 4 8 just 
+: 1064 5 11 hanging 
+: 1070 6 11 about 
+- 1078
+: 1082 3 11 Look 
+: 1086 1 8 at 
+: 1088 1 11 the 
+: 1090 4 11 seed 
+: 1095 3 8 pouch 
+: 1099 2 8 on 
+: 1102 2 11 the 
+: 1105 6 11 fucker, 
+- 1113
+: 1116 4 11 Old 
+: 1121 2 3 man 
+: 1124 2 8 and 
+: 1127 2 8 his 
+: 1130 6 11 brother 
+- 1138
+: 1139 4 11 Setting 
+: 1144 7 11 about, 
+: 1156 5 11 stinks 
+: 1162 2 8 like 
+: 1165 1 11 an 
+: 1167 2 11 old 
+: 1171 6 11 body, 
+- 1179
+: 1180 4 8 Like 
+: 1185 8 10 mornings 
+: 1194 2 8 on 
+: 1197 2 11 the 
+: 1200 4 11 voddy 
+- 1206
+: 1210 3 1 Shot
+: 1214 3 8 gun 
+: 1218 3 11 la
+: 1222 2 8 ger 
+: 1225 3 8 hot
+: 1229 3 11 ty, 
+- 1234
+: 1236 5 10 Like 
+: 1242 3 11 Porn
+: 1246 4 10 Hub, 
+: 1251 8 11 sticking 
+: 1260 12 10 constantly 
+- 1274
+: 1277 2 11 Wi
+: 1280 5 11 Fi’s 
+: 1286 3 11 gone 
+: 1290 2 8 all 
+: 1293 2 11 Lo-
+: 1296 6 11 Fi, 
+- 1303
+: 1304 3 8 My 
+: 1308 4 1 arse 
+: 1313 3 3 is 
+: 1317 5 8 feeling 
+: 1323 3 1 too 
+: 1328 4 1 dry 
+- 1334
+: 1336 4 11 Like 
+: 1341 6 10 crackers 
+: 1348 1 11 out 
+: 1350 2 8 at 
+: 1354 8 11 midnight, 
+- 1363
+: 1363 2 11 I 
+: 1366 5 11 can’t 
+: 1372 2 8 be 
+: 1375 3 6 arsed 
+: 1379 3 8 with 
+: 1384 4 8 butter, 
+: 1389 6 11 alright 
+- 1397
+: 1405 2 1 You’re 
+: 1408 2 11 not 
+: 1411 2 11 from 
+: 1414 4 11 ’round 
+: 1419 4 11 here, 
+- 1425
+: 1429 6 11 Crashed 
+: 1436 3 8 landed 
+: 1440 5 3 about 
+: 1446 1 8 a 
+: 1448 2 8 week 
+: 1451 7 11 ago 
+- 1460
+: 1477 3 1 Yeah, 
+: 1483 1 3 I 
+: 1485 1 1 feel 
+: 1487 2 11 for 
+: 1490 2 10 you, 
+: 1493 1 11 I 
+: 1495 4 11 do 
+- 1501
+: 1527 3 11 The 
+: 1531 4 3 state 
+: 1536 1 11 of 
+: 1538 1 3 it 
+: 1540 1 8 is 
+: 1542 8 10 alarming, 
+- 1552
+: 1558 2 11 So 
+: 1561 4 11 don’t 
+: 1566 5 10 presume 
+: 1572 8 8 anything 
+- 1582
+: 1591 3 11 Or 
+: 1595 3 11 Blue 
+: 1599 1 10 Mon
+: 1601 5 3 day 
+: 1607 2 8 will 
+: 1610 5 11 some
+: 1616 2 11 day 
+: 1619 7 11 become 
+: 1627 4 3 you 
+- 1633
+: 1653 2 11 Well 
+: 1656 2 11 the 
+: 1659 10 3 furniture’s 
+: 1670 2 8 the 
+: 1673 7 11 same, 
+- 1682
+: 1685 3 11 But 
+: 1689 2 11 the 
+: 1692 7 10 menu’s 
+: 1700 2 8 re
+: 1703 9 8 arranged 
+- 1714
+: 1716 2 11 And 
+: 1719 1 11 your 
+: 1721 6 11 jokes 
+: 1728 3 1 won’t 
+: 1732 3 10 land 
+: 1736 1 8 in 
+: 1738 1 8 the 
+: 1740 3 11 same 
+: 1744 7 1 space 
+- 1752
+: 1753 3 11 You’r 
+: 1757 5 3 used 
+: 1763 4 10 to 
+- 1769
+: 1780 3 11 You 
+: 1784 5 11 go, 
+: 1792 3 6 too 
+: 1796 8 6 high, 
+: 1806 3 6 too 
+: 1810 5 6 low 
+- 1816
+: 1816 2 11 It 
+: 1819 7 4 doesn’t 
+: 1827 3 4 make 
+: 1831 2 8 a 
+: 1834 10 6 difference 
+- 1845
+: 1845 2 4 I 
+: 1848 4 11 know, 
+: 1855 4 6 too 
+: 1860 8 6 high, 
+: 1871 3 6 too 
+: 1875 3 6 low 
+- 1879
+: 1880 2 11 But 
+: 1883 1 8 the 
+: 1885 7 3 system 
+: 1893 6 8 won’t 
+: 1900 12 11 go 
+- 1914
+: 1919 4 6 Too 
+: 1924 9 6 high, 
+: 1935 3 6 too 
+: 1939 4 6 low 
+- 1944
+: 1944 2 11 It 
+: 1947 6 4 doesn’t 
+: 1954 4 6 make 
+: 1959 2 8 a
+: 1962 4 8 diff
+: 1967 4 6 rence 
+- 1972
+: 1972 2 4 I 
+: 1975 4 3 know, 
+: 1983 4 6 too 
+: 1988 8 6 high, 
+: 1999 3 6 too 
+: 2003 4 6 low 
+- 2008
+: 2008 1 11 But 
+: 2010 1 11 the 
+: 2012 7 11 system 
+: 2020 6 11 won’t 
+: 2027 16 3 go 
+- 2045
+: 2297 2 11 I 
+: 2300 4 1 looked 
+: 2305 3 3 out 
+: 2309 3 4 on 
+: 2313 2 8 the 
+: 2316 6 4 throw 
+- 2324
+: 2327 9 11 Outside 
+: 2337 1 3 of 
+: 2339 4 4 my 
+: 2344 9 4 window 
+- 2355
+: 2360 7 11 Outside 
+: 2368 3 4 there 
+: 2372 7 3 wasn’t 
+: 2381 11 11 anything 
+: 2397 8 6 nice 
+: 2407 2 10 to 
+: 2411 10 11 see 
+- 2423
+: 2425 2 11 I 
+: 2428 5 3 wanted 
+: 2434 7 8 things 
+: 2442 2 8 to 
+: 2445 5 11 smell, 
+- 2452
+: 2454 4 11 Like 
+: 2460 7 11 meadows, 
+: 2468 3 1 not 
+: 2472 4 8 like 
+: 2477 9 11 hell 
+- 2488
+: 2493 7 1 Dying 
+: 2501 2 3 dan
+: 2504 2 1 de
+: 2507 6 3 li
+: 2514 4 3 ons 
+: 2519 4 3 and 
+: 2525 7 6 bum
+: 2533 3 11 ble
+: 2537 14 10 bees 
+- 2552
+: 2553 2 11 I 
+: 2556 4 3 looked 
+: 2561 6 3 out 
+: 2568 2 8 at 
+: 2571 2 8 the 
+: 2574 9 11 throw 
+: 2584 9 3 outside 
+: 2594 1 3 of 
+: 2596 3 3 my 
+: 2600 12 3 window 
+- 2614
+: 2617 2 11 Out
+: 2620 5 3 side 
+: 2626 2 3 there 
+: 2629 3 3 was
+: 2633 4 8 n’t 
+: 2638 4 3 any
+: 2643 7 3 thing 
+: 2653 8 6 nice 
+: 2663 3 10 to 
+: 2667 10 10 see 
+- 2679
+: 2680 2 10 I 
+: 2683 7 3 wanted 
+: 2691 4 3 things 
+: 2696 2 8 to 
+: 2699 9 4 smell, 
+: 2710 4 4 like 
+: 2715 2 11 mea
+: 2718 6 11 dows, 
+: 2725 3 3 not 
+: 2729 4 1 lik 
+: 2734 7 11 hell 
+- 2743
+: 2748 4 3 D
+: 2753 3 4 ying 
+: 2757 3 3 dan
+: 2761 2 1 de
+: 2764 5 3 li
+: 2770 3 1 ons 
+: 2774 7 3 and 
+: 2782 4 6 bum
+: 2787 4 11 ble
+: 2792 21 11 bees 
+E

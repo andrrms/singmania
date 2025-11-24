@@ -1,0 +1,87 @@
+#ARTIST:Rage
+#TITLE:Beauty
+#MP3:Rage - Beauty.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#YEAR:2006
+#LANGUAGE:English
+#BPM:297.5
+#GAP:50760
+#VIDEO:a=iVpP-nNZyEc,co=speak-of-the-dead-55d91131dcd26.jpg,bg=rage-615eac69a2e3c.jpg
+: 0 24 17 I’m 
+: 36 10 16 bliss 
+: 54 9 17 in 
+: 73 7 17 eve
+: 82 3 10 ry
+: 88 15 10 thing 
+- 105
+: 164 10 16 The 
+: 182 13 17 fea
+: 201 13 19 ther 
+: 219 20 19 and 
+: 253 3 9 the 
+: 258 28 17 wing 
+- 288
+: 311 13 14 Though 
+: 330 13 16 I’m 
+: 349 13 17 gone 
+- 364
+: 386 12 16 I’m 
+: 404 15 17 more 
+: 422 15 19 a
+: 441 18 19 live 
+: 471 3 9 I 
+: 477 9 17 was 
+- 488
+: 508 2 17 The 
+: 512 4 17 beau
+: 519 11 10 ty 
+: 573 6 14 in 
+: 581 3 12 it 
+: 586 20 12 all 
+- 608
+: 1335 5 16 When 
+: 1343 4 16 dark
+: 1349 3 16 ness 
+: 1355 7 16 falls 
+: 1365 3 16 a
+: 1369 6 16 round 
+: 1378 12 16 you 
+- 1392
+: 1408 5 16 And 
+: 1416 3 16 you 
+: 1421 3 16 can 
+: 1428 6 16 see 
+: 1437 3 16 no
+: 1441 8 17 thing 
+: 1452 3 19 at
+: 1456 2 17 ~ 
+: 1461 9 17 all
+: 1471 8 14 ~ 
+- 1481
+: 1491 3 14 Then 
+: 1496 3 16 there’s 
+: 1501 8 17 gon
+: 1510 2 16 na 
+: 1515 11 16 shine 
+: 1528 3 14 a 
+: 1533 12 14 light 
+- 1547
+: 1563 5 16 And 
+: 1570 20 16 you
+: 1591 5 14 ~ 
+: 1597 3 14 will
+: 1601 2 12 ~ 
+: 1606 19 12 find 
+- 1627
+: 1656 8 9 There 
+: 1666 3 12 is 
+* 1672 6 16 beau
+* 1680 26 11 ty 
+- 1708
+: 1800 8 9 That 
+: 1811 5 12 there 
+: 1817 4 16 is 
+* 1825 6 11 beau
+* 1834 36 4 ty 
+E

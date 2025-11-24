@@ -1,0 +1,322 @@
+#ARTIST:Stars
+#TITLE:What Is To Be Done?
+#MP3:Stars - What Is To Be Done?.mp3
+#CREATOR:lava
+#COVER:Stars - What Is To Be Done? [CO].jpg
+#BACKGROUND:Stars - What Is To Be Done? [BG].jpg
+#YEAR:2014
+#LANGUAGE:English
+#BPM:300
+#GAP:25150
+#VIDEO:a=BQSL9XgSzc4,co=no-one-is-lost-5542422c9940e.jpg,bg=stars-5046cd018ee0e.jpg
+: 0 2 2 Since 
+: 4 4 2 you’re 
+: 9 4 2 fal
+: 15 2 4 ling 
+: 18 2 6 a
+: 22 4 6 wa
+: 28 9 2 y 
+- 47
+: 75 2 2 Since 
+: 79 3 2 you’re 
+: 85 3 2 hi
+: 91 4 4 ding 
+: 98 4 6 your 
+: 105 8 4 face 
+- 123
+: 136 2 -3 There’s 
+: 140 3 4 no
+: 144 3 6 thing 
+: 150 2 6 I 
+: 153 4 6 can 
+: 159 2 7 do 
+: 162 3 6 a
+: 167 5 6 bout 
+: 175 7 6 that 
+- 222
+: 300 2 2 Since 
+: 304 2 2 the 
+: 309 5 2 child’s 
+: 319 3 4 grow
+: 324 3 6 ing 
+: 329 7 5 up 
+- 346
+: 374 3 2 Since 
+: 379 3 2 the 
+* 384 6 5 time 
+* 392 5 4 does
+* 399 3 2 n’t 
+* 406 9 2 stop 
+- 455
+: 520 3 2 Since 
+: 525 4 2 you 
+: 531 1 2 de
+: 535 2 2 ci
+: 539 2 4 ded 
+: 543 4 6 to 
+: 548 2 6 go
+: 552 9 2 ~ 
+- 571
+: 600 3 2 Since 
+: 605 3 2 the 
+: 610 5 2 heart 
+: 617 4 4 beat 
+: 622 5 6 is 
+: 631 11 4 slow 
+- 652
+: 661 1 4 There’s 
+: 665 3 6 no
+: 670 3 6 thing 
+: 675 3 6 I 
+: 679 4 6 can 
+: 684 2 7 do 
+: 688 3 6 a
+: 693 4 6 bout 
+: 699 10 6 that 
+- 749
+: 823 5 2 Since 
+: 830 3 2 the 
+: 835 5 2 love 
+: 842 4 4 let
+: 847 4 6 ter’s 
+: 855 9 5 lost 
+- 874
+: 899 3 2 Since 
+: 905 4 2 we 
+: 911 5 5 coun
+: 918 4 4 ted 
+: 924 7 2 the 
+: 935 11 2 cost 
+- 986
+: 1046 1 2 Since 
+: 1050 4 2 they’ve 
+: 1055 4 2 for
+: 1060 3 2 got
+: 1064 4 4 ten 
+: 1070 3 6 our 
+: 1074 4 6 na
+: 1079 7 2 me 
+- 1096
+: 1125 2 2 Since 
+: 1130 3 2 we 
+: 1135 4 2 all 
+: 1141 4 4 lose 
+: 1148 5 6 this 
+: 1158 13 4 game 
+- 1182
+: 1186 1 4 There’s 
+: 1190 3 9 no
+: 1195 3 9 thing 
+: 1200 3 9 I 
+: 1205 3 9 can 
+: 1210 2 7 do 
+: 1213 2 6 a
+: 1217 5 6 bout 
+: 1225 10 6 that 
+- 1275
+: 1348 4 2 Since 
+: 1354 4 2 I 
+: 1360 7 9 tried 
+: 1369 4 7 and 
+: 1375 5 6 I 
+: 1384 12 5 tried 
+- 1406
+: 1423 5 2 Since 
+: 1430 3 2 you 
+: 1435 6 2 lied 
+: 1442 5 4 and 
+: 1449 6 2 you 
+: 1458 4 6 lie
+: 1463 7 2 ~d 
+- 1510
+: 1566 3 9 What 
+: 1571 4 9 do 
+: 1576 3 9 we 
+: 1580 4 11 do 
+: 1585 4 6 a
+: 1591 5 6 bout 
+: 1599 13 4 that? 
+- 1622
+: 1640 4 9 What 
+: 1646 3 9 do 
+: 1651 2 9 we 
+: 1655 2 11 do 
+: 1659 3 6 a
+: 1664 7 6 bout 
+: 1673 14 4 that? 
+- 1697
+: 1715 3 9 What 
+: 1720 3 9 do 
+: 1725 3 9 we 
+: 1731 2 11 do 
+: 1735 3 6 a
+: 1739 7 6 bout 
+: 1748 43 6 that? 
+- 1831
+: 2175 2 2 Since 
+: 2179 2 2 the 
+: 2184 5 2 blue 
+: 2191 5 4 turned 
+: 2199 2 6 to 
+: 2205 2 6 black
+: 2209 5 2 ~ 
+- 2224
+: 2245 2 2 Since 
+: 2250 3 2 you 
+: 2255 3 -1 can 
+: 2260 4 2 ne
+: 2266 3 4 ver 
+: 2275 6 6 come 
+: 2283 9 4 back 
+- 2302
+: 2311 1 4 There’s 
+: 2315 3 9 no
+: 2320 3 9 thing 
+: 2325 3 9 I 
+: 2329 4 9 can 
+: 2334 3 7 do 
+: 2338 1 6 a
+: 2341 5 6 bout 
+: 2348 10 6 that 
+- 2398
+: 2474 3 2 Since 
+: 2479 2 2 the 
+: 2483 7 2 tide 
+: 2492 6 4 changed 
+: 2500 4 6 its 
+: 2508 17 5 course 
+- 2535
+: 2549 3 2 Since 
+: 2555 3 2 we 
+: 2560 6 2 all 
+: 2568 3 4 lose 
+: 2573 8 2 our 
+: 2583 17 2 voice 
+- 2640
+: 2700 2 2 Since 
+: 2705 2 2 the 
+: 2710 3 2 sig
+: 2715 3 4 nal 
+: 2719 2 6 will 
+: 2724 3 6 fa
+: 2728 8 2 de 
+- 2746
+: 2773 3 2 Since 
+: 2779 4 2 we 
+: 2785 5 9 lose 
+: 2792 4 7 what 
+: 2798 6 6 we 
+: 2808 10 4 made 
+- 2828
+: 2836 2 2 There’s 
+: 2840 4 9 no
+: 2846 3 9 thing 
+: 2851 3 9 I 
+: 2855 3 9 can 
+: 2860 2 11 do 
+: 2863 2 9 a
+: 2867 5 9 bout 
+: 2874 21 6 that 
+- 2935
+: 3000 1 2 Since 
+: 3005 2 2 the 
+: 3010 5 9 wa
+: 3017 3 7 ter 
+: 3023 3 6 is 
+: 3029 9 5 deep 
+- 3048
+: 3075 2 2 Since 
+: 3080 2 2 we 
+: 3084 5 2 no 
+: 3091 5 4 lon
+: 3098 4 2 ger 
+: 3108 10 2 sleep 
+- 3158
+: 3224 3 9 Since 
+: 3230 3 9 it 
+: 3235 4 9 all 
+: 3241 4 7 has 
+: 3247 5 6 to 
+: 3254 2 6 e
+: 3258 7 2 nd 
+- 3275
+: 3298 4 9 Since 
+: 3304 4 9 I’m 
+: 3310 2 9 mis
+: 3315 6 7 sing 
+: 3323 6 6 my 
+: 3331 11 4 friend 
+- 3352
+: 3360 1 9 There’s 
+: 3364 4 11 no
+: 3369 5 9 thing 
+: 3375 3 9 I 
+: 3379 3 9 can 
+: 3384 2 11 do 
+: 3388 3 9 a
+: 3393 4 9 bout 
+: 3400 26 6 that 
+- 3466
+: 3525 2 2 Since 
+: 3530 3 2 you’re 
+: 3535 5 2 mo
+: 3541 3 4 ving 
+: 3546 3 6 a
+: 3550 9 5 way 
+- 3569
+: 3595 3 5 Since 
+: 3601 1 5 it’s 
+: 3606 2 5 the 
+: 3610 4 5 end 
+: 3616 4 7 of 
+: 3622 6 5 the 
+: 3632 18 9 play 
+- 3690
+: 3741 2 9 What 
+: 3745 3 9 do 
+: 3749 4 9 we 
+: 3754 3 11 do 
+: 3759 3 6 a
+: 3764 5 6 bout 
+: 3771 13 4 that? 
+- 3794
+: 3815 3 9 What 
+: 3820 2 9 do 
+: 3824 3 9 we 
+: 3829 4 11 do 
+: 3834 4 6 a
+: 3840 6 6 bout 
+: 3849 14 4 that? 
+- 3873
+: 3891 2 9 What 
+: 3895 3 9 do 
+: 3900 3 9 we 
+: 3905 3 11 do 
+: 3910 2 6 a
+: 3915 6 6 bout 
+: 3924 22 6 that? 
+- 3986
+: 4040 2 9 What 
+: 4044 3 9 do 
+: 4050 2 9 we 
+: 4054 3 11 do 
+: 4059 3 6 a
+: 4064 5 6 bout 
+: 4074 13 4 that? 
+- 4097
+: 4115 3 9 What 
+: 4120 2 9 do 
+: 4124 3 9 we 
+: 4129 4 11 do 
+: 4134 4 6 a
+: 4140 6 6 bout 
+: 4149 14 4 that? 
+- 4173
+: 4190 4 9 What 
+: 4195 3 9 do 
+: 4200 3 9 we 
+: 4205 2 11 do 
+: 4209 4 6 a
+: 4215 5 6 bout 
+: 4223 48 6 that? 
+E

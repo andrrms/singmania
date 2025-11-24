@@ -1,0 +1,243 @@
+#ARTIST:My Little Pony
+#TITLE:The Laughter Song
+#MP3:My Little Pony - The Laughter Song.mp3
+#CREATOR:amadas
+#EDITION:My Little Pony
+#GENRE:Pony
+#YEAR:2010
+#LANGUAGE:English
+#BPM:436
+#GAP:3260
+#VIDEO:v=FMGo9fu4FNU,co=https://i.ibb.co/9VbMVPy/mylittlepony.jpg,bg=my-little-pony-friendship-is-magic-5ff4f76975b29.jpg
+F 0 10 0 Oh, 
+F 14 17 0 girls! 
+F 32 7 0 Don’t 
+F 40 4 0 you 
+F 46 14 0 see?! 
+- 70
+: 88 7 -3 When 
+: 96 7 2 I 
+: 104 3 2 was 
+: 108 3 2 a 
+: 112 5 2 lit
+: 118 5 6 tle 
+* 124 7 7 fil
+: 132 6 6 ly 
+- 138
+: 140 7 2 And 
+: 148 4 -3 the 
+: 158 7 2 sun 
+: 166 5 2 was 
+: 172 7 2 go
+: 180 10 6 ing 
+: 192 17 4 do
+* 210 3 6 -o
+: 214 5 4 -o
+: 220 28 2 -own 
+- 250
+F 252 5 0 Tell 
+F 258 3 0 me 
+F 262 7 0 she’s 
+F 270 5 0 not... 
+- 275
+: 276 6 -3 The 
+: 284 7 2 dark
+: 292 7 2 ness 
+: 300 7 2 and 
+: 308 4 6 the 
+: 316 5 7 sha
+: 322 6 6 dows 
+- 328
+: 330 8 2 They 
+: 340 7 -3 would 
+: 348 7 2 al
+: 356 5 2 ways 
+: 362 7 2 make 
+* 370 7 6 me 
+: 378 23 4 fro
+: 402 3 6 -o
+: 406 5 4 -o
+: 412 27 2 -own 
+- 439
+F 440 7 0 She 
+F 448 12 0 is... 
+- 467
+: 470 4 6 I’d 
+: 478 5 7 hide 
+: 484 3 6 un
+: 488 5 2 der 
+: 494 11 7 my 
+: 506 5 6 pil
+* 512 12 2 low, 
+- 528
+: 530 7 6 From 
+: 538 5 7 what 
+: 544 5 6 I 
+: 550 7 2 thought 
+: 558 7 7 I 
+: 566 20 6 saw. 
+- 592
+: 594 5 6 But 
+: 600 5 7 Gran
+: 606 3 7 ny 
+: 610 5 7 Pie 
+: 616 7 11 said 
+: 624 7 9 that 
+: 632 5 2 was
+: 638 3 2 n’t 
+: 642 3 4 the 
+: 646 9 6 way 
+- 655
+: 656 7 2 To 
+: 664 7 6 deal 
+: 672 5 4 with 
+: 678 9 2 fears 
+: 688 9 6 at 
+* 698 23 4 all! 
+- 721
+F 722 3 2 Then 
+F 726 3 2 what 
+F 730 11 2 is? 
+- 741
+: 742 5 4 She 
+: 748 8 2 said: 
+: 760 15 9 “Pin
+: 776 11 6 kie 
+: 788 3 6 you 
+: 792 5 7 got
+: 798 4 6 ta 
+: 804 9 4 stand 
+: 814 5 2 up 
+: 820 12 -3 tall 
+- 836
+: 838 7 2 Learn 
+: 846 5 2 to 
+: 852 7 4 face 
+: 860 5 6 your 
+: 866 9 4 fe
+: 876 10 2 ars 
+- 886
+: 888 11 9 You’ll 
+: 900 12 6 see, 
+: 916 3 6 that 
+: 920 3 7 they 
+: 924 5 6 can’t 
+: 930 7 4 hurt 
+: 938 3 2 you 
+- 941
+: 942 5 2 Just 
+: 948 9 6 laugh 
+: 958 5 4 to 
+: 964 8 2 make 
+: 974 5 2 them 
+: 980 5 4 dis
+* 986 8 6 ap
+: 996 36 4 pear!” 
+- 1041
+F 1044 14 9 Ha! 
+F 1060 15 4 Ha! 
+F 1076 10 -3 Ha! 
+- 1115
+* 1158 32 9 So, 
+: 1192 9 7 gig
+: 1202 7 7 gle 
+: 1210 7 11 at 
+: 1218 5 9 the 
+: 1224 9 9 ghost
+: 1234 14 6 ly 
+- 1254
+: 1256 7 2 Guf
+: 1264 7 2 faw 
+: 1272 7 6 at 
+: 1280 3 2 the 
+: 1284 11 4 gross
+: 1296 16 4 ly 
+- 1318
+: 1320 9 7 Crack 
+: 1330 7 7 up 
+: 1338 7 11 at 
+: 1346 3 9 the 
+: 1350 7 9 cree
+: 1358 18 6 py 
+- 1382
+: 1384 3 2 Whoop 
+: 1388 3 2 it 
+: 1392 7 2 up 
+: 1400 7 6 with 
+: 1408 3 2 the 
+: 1412 9 4 wee
+* 1422 13 4 py
+: 1436 3 6 -y
+: 1440 4 4 -y 
+- 1444
+: 1446 9 7 Chor
+: 1456 7 7 tle 
+: 1464 7 11 at 
+: 1472 3 9 the 
+: 1476 9 9 koo
+: 1486 14 6 ky 
+- 1506
+: 1508 11 2 Snor
+: 1520 6 2 tle 
+: 1528 5 6 at 
+: 1534 4 2 the 
+: 1540 7 4 spoo
+: 1548 17 4 ky 
+- 1565
+: 1566 4 6 And 
+: 1572 5 7 tell 
+: 1578 3 7 that 
+: 1582 3 7 big 
+: 1586 3 7 dumb 
+: 1590 3 7 sca
+: 1594 3 7 ry 
+: 1598 3 7 face 
+- 1601
+: 1602 3 7 To 
+: 1606 3 6 take 
+: 1610 3 6 a 
+: 1614 3 6 hike 
+: 1618 1 6 and 
+: 1620 3 6 leave 
+: 1624 3 6 you 
+: 1628 1 6 a
+: 1630 3 6 lone 
+- 1633
+: 1634 3 8 And 
+: 1638 3 9 if 
+: 1642 3 9 he 
+: 1646 5 9 thinks 
+: 1652 1 9 he 
+: 1654 3 9 can 
+: 1658 3 9 scare 
+: 1662 1 9 you 
+- 1663
+: 1664 3 9 Then 
+: 1668 3 9 he’s 
+: 1672 2 9 got 
+: 1675 2 9 a
+* 1678 3 9 no
+: 1682 2 9 ther 
+: 1685 4 9 thing 
+: 1690 3 9 co
+: 1694 3 9 ming 
+- 1697
+: 1698 2 9 And 
+: 1701 2 9 the 
+: 1704 3 13 ve
+: 1708 3 13 ry 
+: 1712 3 13 i
+: 1716 3 13 dea 
+: 1720 1 13 of 
+* 1722 5 16 such 
+: 1728 1 16 a 
+: 1730 3 16 thing 
+- 1733
+: 1734 5 16 Just 
+: 1740 3 16 makes 
+: 1744 3 16 you 
+: 1748 3 16 wan
+: 1752 4 16 na 
+- 1785
+: 1836 162 14 Laugh! 
+E

@@ -1,0 +1,574 @@
+#ARTIST:Avenue Q
+#TITLE:The Internet Is For Porn
+#MP3:Avenue Q - The Internet Is For Porn.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Musical
+#YEAR:2003
+#LANGUAGE:English
+#BPM:202.48
+#GAP:300
+#VIDEO:a=KhCL5Ygzc24,co=avenue-q-the-musical-537cae0598e16.jpg,bg=https://images.wallpapersden.com/image/download/avenue-q-band-toys_amplameUmZqaraWkpJRmbmdlrWZlbWVnZWZuaWZl.jpg
+F 0 2 10 Fi
+F 3 1 10 nal
+F 5 3 10 ly 
+- 10
+F 16 3 10 I 
+F 20 1 10 get 
+F 22 1 10 to 
+F 24 2 10 teach 
+F 27 2 10 a 
+F 31 5 10 whole 
+F 38 2 10 les
+F 41 2 10 son 
+- 44
+F 45 3 10 All 
+F 49 1 10 by 
+F 51 2 10 my
+F 56 3 10 self 
+- 61
+F 70 1 10 And 
+F 72 2 10 I’m 
+F 75 1 10 gon
+F 77 1 10 na 
+F 79 2 10 teach 
+F 82 2 10 some
+F 85 2 10 thing 
+F 88 1 10 re
+F 90 1 10 le
+F 92 3 10 vant 
+- 96
+F 98 1 10 Some
+F 100 3 10 thing 
+F 104 3 10 mo
+F 108 4 10 dern 
+- 114
+F 118 3 10 The 
+F 122 2 10 in
+F 125 1 10 ter
+F 127 4 10 net 
+- 133
+: 145 2 10 The 
+: 149 2 19 in
+: 153 2 22 ter
+: 157 3 22 net 
+: 161 3 19 is 
+: 166 3 20 real
+: 170 2 17 ly, 
+: 174 3 15 real
+: 178 2 14 ly 
+: 183 4 15 great 
+- 189
+: 197 2 7 For 
+: 201 6 3 porn 
+- 209
+: 215 2 10 I’ve 
+: 219 1 19 got 
+: 221 1 22 a 
+: 223 2 22 fast 
+: 226 1 22 con
+: 228 1 22 nec
+: 230 2 22 tion 
+- 233
+: 235 1 19 So 
+: 237 3 20 I 
+: 241 2 17 don’t 
+: 245 2 15 have 
+: 249 2 14 to 
+: 254 6 22 wait 
+- 262
+: 267 2 12 For 
+: 271 5 10 porn 
+- 278
+: 286 2 10 There’s 
+: 289 3 17 al
+: 294 2 19 ways 
+: 298 2 20 some 
+: 302 2 19 new 
+: 307 2 17 site 
+- 310
+: 311 2 7 For 
+: 316 3 5 porn! 
+- 320
+: 321 2 10 I 
+: 325 2 19 browse 
+: 329 2 20 all 
+: 333 3 22 day 
+: 338 2 20 and 
+: 342 3 19 night 
+- 346
+: 348 2 12 For 
+: 352 4 10 porn! 
+- 357
+: 357 2 12 It’s 
+: 361 2 17 like 
+: 365 2 19 I’m 
+: 369 3 21 sur
+: 374 3 19 fing 
+: 379 2 17 at 
+: 383 2 19 the 
+: 387 4 21 speed 
+* 392 2 24 of 
+: 397 6 22 light 
+- 404
+: 405 6 12 For 
+: 414 7 10 porn! 
+- 423
+: 428 2 -2 The 
+: 432 2 7 in
+: 436 2 7 ter
+: 439 2 5 net 
+: 442 2 7 is 
+: 445 2 5 for 
+: 449 6 3 porn 
+- 457
+: 461 2 3 The 
+: 465 2 8 in
+: 469 2 8 ter
+: 472 2 7 net 
+: 476 1 8 is 
+: 478 2 7 for 
+: 482 6 5 porn 
+- 490
+: 500 2 7 Why 
+: 504 2 10 you 
+: 508 2 11 think 
+: 512 2 11 the 
+: 516 2 12 net 
+: 520 2 12 was 
+: 524 4 15 born? 
+- 530
+: 533 5 10 Porn, 
+: 541 5 2 porn, 
+* 549 12 3 porn 
+- 563
+F 569 2 3 Trek
+F 572 4 3 kie! 
+- 578
+F 580 3 3 Oh! 
+F 585 2 3 Hel
+F 588 1 3 lo 
+F 590 3 3 Kate 
+F 594 3 3 Mons
+F 598 6 3 ter 
+- 606
+F 608 2 3 You 
+F 611 2 3 are 
+F 614 1 3 ru
+F 616 1 3 i
+F 618 1 3 ning 
+F 620 2 3 my 
+F 623 7 3 song 
+- 631
+F 632 4 3 Oh, 
+F 637 4 3 me 
+F 642 3 3 sor
+F 646 3 3 ry 
+- 650
+F 650 1 3 Me 
+F 652 2 3 no 
+F 655 3 3 mean 
+F 659 5 3 to 
+- 665
+F 665 3 3 Well, 
+F 669 1 3 if 
+F 671 1 3 you 
+F 673 1 3 woul
+F 675 1 3 dn’t 
+F 677 2 3 mind, 
+F 680 3 3 please 
+- 683
+F 683 1 3 Be
+F 685 2 3 ing 
+F 688 2 3 qui
+F 691 1 3 et 
+F 693 1 3 for 
+F 695 1 3 a 
+F 697 1 3 mi
+F 699 1 3 nute 
+- 700
+F 700 1 3 So 
+F 702 1 3 I 
+F 704 1 3 can 
+F 706 1 3 fi
+F 708 2 3 nish? 
+- 712
+F 720 1 3 O
+F 722 1 3 key-
+F 724 1 3 Do
+F 726 6 3 key 
+- 733
+F 735 3 3 Good! 
+- 740
+: 748 2 10 I’m 
+: 752 2 19 glad 
+: 757 2 22 we 
+: 761 3 22 have 
+: 766 2 19 this 
+: 770 2 20 new 
+: 774 2 17 tech
+: 778 3 15 no
+: 782 2 14 lo
+: 786 7 15 gy 
+- 795
+: 798 3 7 For 
+: 803 3 3 porn! 
+- 807
+F 808 3 3 Oop! 
+- 813
+: 816 2 10 Which 
+: 820 2 19 gives 
+: 824 2 22 us 
+: 828 2 22 un
+: 832 3 19 told 
+: 837 2 20 op
+: 841 2 17 por
+: 845 3 15 tu
+: 850 2 14 ni
+* 854 9 22 ty 
+- 865
+: 868 2 12 For 
+: 872 4 10 porn! 
+- 877
+F 877 5 10 Oops! 
+- 884
+: 886 2 10 Right 
+: 890 2 17 from 
+: 895 2 19 your 
+: 899 3 20 own 
+: 904 2 19 desk
+: 908 2 17 top 
+- 911
+: 912 3 7 For 
+- 917
+: 921 1 10 You 
+: 923 2 10 can 
+: 926 2 19 re
+: 930 2 20 search 
+: 934 4 22 browse 
+: 939 2 20 and 
+: 943 3 19 shop 
+- 948
+: 957 2 12 Un
+: 961 2 17 til 
+: 966 2 19 you’ve 
+: 970 4 21 had 
+: 975 2 19 e
+: 979 2 17 nough 
+- 982
+: 984 1 19 And 
+: 986 1 19 your 
+: 988 1 21 rea
+: 990 1 21 dy 
+: 992 2 24 to 
+: 997 7 22 stop 
+- 1005
+: 1006 5 12 For 
+: 1014 9 10 porn! 
+- 1025
+: 1029 2 -2 The 
+: 1033 2 7 in
+: 1037 2 7 ter
+: 1040 2 5 net 
+: 1044 1 7 is 
+: 1046 2 5 for 
+: 1050 6 3 porn! 
+- 1058
+: 1062 2 3 The 
+: 1066 2 8 in
+: 1070 2 8 ter
+: 1073 2 7 net 
+: 1077 1 8 is 
+: 1079 2 7 for 
+: 1083 6 5 porn! 
+- 1091
+: 1100 3 7 Me 
+: 1104 2 10 up 
+: 1109 2 11 all 
+: 1113 3 11 night 
+- 1117
+: 1117 1 12 Hon
+: 1119 2 12 king 
+: 1122 2 12 me 
+: 1126 3 15 horn 
+: 1131 2 12 to 
+- 1134
+: 1134 5 10 Porn, 
+: 1143 5 2 porn, 
+* 1151 11 3 porn! 
+- 1164
+F 1170 5 3 That’s 
+F 1180 8 3 gross! 
+- 1190
+F 1199 1 3 You’re 
+F 1201 3 3 a 
+F 1205 2 3 per
+F 1208 4 3 vert 
+- 1213
+F 1214 6 3 Aah, 
+F 1221 2 3 sticks 
+F 1224 2 3 and 
+F 1227 6 3 stones, 
+F 1234 3 3 Kate 
+F 1238 4 3 Mons
+F 1243 4 3 ter 
+- 1248
+F 1248 6 3 No, 
+F 1255 2 3 real
+F 1258 4 3 ly 
+- 1263
+F 1265 1 3 You’re 
+F 1267 3 3 a 
+F 1272 2 3 per
+F 1275 4 3 vert 
+- 1281
+F 1287 4 3 Nor
+F 1292 2 3 mal 
+F 1295 2 3 peo
+F 1298 2 3 ple 
+F 1301 3 3 don’t 
+F 1305 1 3 sit 
+F 1307 2 3 at 
+F 1310 3 3 home 
+- 1314
+F 1314 1 3 And 
+F 1316 1 3 look 
+F 1318 1 3 at 
+F 1320 3 3 porn 
+F 1324 1 3 on 
+F 1326 2 3 the 
+F 1329 1 3 in
+F 1331 1 3 ter
+F 1333 3 3 net 
+- 1338
+F 1349 14 3 Ooooh! 
+- 1365
+F 1370 4 3 What? 
+- 1376
+F 1381 7 3 You 
+F 1389 6 3 have 
+F 1396 8 3 no 
+F 1405 4 3 i
+F 1410 2 3 de
+F 1413 6 3 a! 
+- 1420
+F 1421 2 3 Rea
+F 1424 1 3 dy 
+F 1426 1 3 nor
+F 1428 2 3 mal 
+F 1431 2 3 peo
+F 1434 3 3 ple? 
+- 1438
+F 1439 2 3 Rea
+F 1442 4 3 dy! 
+F 1448 1 3 Rea
+F 1450 4 3 dy! 
+F 1456 2 5 Rea
+F 1459 1 5 dy! 
+- 1461
+F 1461 1 12 Let 
+F 1463 2 12 me 
+F 1466 1 12 hear 
+F 1468 1 12 it! 
+- 1470
+: 1470 2 -2 The 
+: 1474 2 7 in
+: 1478 2 7 ter
+: 1481 2 5 net 
+: 1485 1 7 is 
+: 1487 2 5 for 
+: 1491 3 3 porn! 
+- 1496
+: 1505 2 3 The 
+: 1509 2 8 in
+: 1513 1 8 ter
+: 1515 2 7 net 
+: 1519 2 8 is 
+: 1522 2 7 for 
+: 1525 3 5 porn! 
+- 1530
+: 1543 3 7 All 
+: 1547 2 10 these 
+: 1551 3 11 guys 
+: 1556 2 11 un
+: 1560 2 12 zip 
+: 1564 2 12 their 
+: 1568 3 15 flies 
+- 1572
+: 1573 2 12 For 
+: 1577 5 10 porn, 
+: 1585 5 2 porn, 
+: 1593 9 3 porn! 
+- 1604
+: 1611 11 10 Porn! 
+* 1627 11 14 Porn! 
+- 1640
+F 1648 6 14 Wha? 
+- 1656
+F 1658 1 14 Now 
+F 1660 2 14 I 
+F 1663 1 14 hap
+F 1665 1 14 pen 
+F 1667 2 14 to 
+F 1670 3 14 know 
+F 1674 2 14 for 
+F 1677 1 14 a 
+F 1679 4 14 fact 
+- 1684
+F 1684 4 14 That 
+F 1689 5 14 you 
+- 1695
+F 1697 6 14 Rod 
+- 1704
+F 1706 1 14 Check 
+F 1708 2 14 your 
+F 1711 2 14 port
+F 1714 1 14 fo
+F 1716 1 14 li
+F 1718 2 14 o 
+- 1721
+F 1721 5 14 And 
+F 1727 4 14 trade 
+F 1732 5 14 stocks 
+F 1738 2 14 on
+F 1741 6 14 line 
+- 1748
+F 1748 4 14 That’s 
+F 1753 2 14 cor
+F 1756 4 14 rect! 
+- 1761
+F 1761 3 14 And 
+F 1765 2 14 Bri
+F 1768 4 14 an 
+- 1773
+F 1775 6 14 You 
+- 1782
+F 1784 4 14 Buy 
+F 1789 4 14 things 
+F 1794 3 14 on 
+F 1798 1 14 a
+F 1800 1 14 ma
+F 1802 2 14 zon
+F 1805 3 14 .
+F 1809 6 14 com 
+- 1816
+F 1817 5 14 Sure 
+- 1823
+F 1825 2 14 And 
+F 1828 2 14 Ga
+F 1831 5 14 ry 
+- 1837
+F 1838 6 14 You 
+- 1845
+F 1846 4 14 Keep 
+F 1851 2 14 sel
+F 1854 3 14 ling 
+F 1858 2 14 your 
+F 1861 1 14 pos
+F 1863 1 14 ses
+F 1865 3 14 sions 
+- 1869
+F 1869 4 14 On 
+F 1874 2 14 e
+F 1877 6 14 Bay 
+- 1884
+F 1884 2 14 Yes, 
+F 1887 4 14 I 
+F 1892 6 14 do! 
+- 1899
+F 1900 2 14 And 
+F 1903 1 14 Prince
+F 1905 3 14 ton 
+- 1910
+F 1912 4 14 You 
+- 1918
+F 1920 2 14 Sent 
+F 1923 1 14 me 
+F 1925 3 14 that 
+F 1929 4 14 sweet 
+F 1934 3 14 on
+F 1938 4 14 line 
+F 1943 3 14 birth
+F 1947 2 14 day 
+F 1950 7 14 card 
+- 1958
+F 1960 5 14 True! 
+- 1967
+F 1971 4 14 Oh, 
+F 1976 2 14 but 
+F 1979 6 14 Kate 
+- 1987
+F 1989 2 14 What 
+F 1992 2 14 you 
+F 1995 1 14 think 
+F 1997 2 14 he 
+F 2000 5 14 do 
+- 2006
+F 2008 5 14 Af
+F 2014 6 14 ter? 
+- 2022
+F 2024 13 14 Hmmm? 
+- 2039
+F 2044 10 14 Yeah 
+- 2055
+F 2056 18 14 Eeew! 
+- 2076
+: 2079 2 -2 The 
+: 2083 3 7 in
+: 2087 2 7 ter
+: 2090 2 5 net 
+: 2094 1 7 is 
+: 2096 2 5 for 
+: 2101 4 3 porn! 
+- 2107
+: 2113 2 3 The 
+: 2117 2 8 in
+: 2121 2 8 ter
+: 2124 2 7 net 
+: 2127 1 8 is 
+: 2129 2 7 for 
+: 2134 4 5 porn! 
+- 2140
+: 2150 3 7 Grab 
+: 2154 2 10 your 
+* 2158 3 11 dick 
+: 2163 2 11 and 
+: 2167 3 12 dou
+: 2171 2 12 ble 
+: 2175 2 15 click 
+- 2178
+: 2179 2 12 For 
+: 2183 5 10 porn, 
+: 2192 4 2 porn, 
+: 2200 8 3 porn! 
+- 2210
+: 2218 5 12 Po-
+: 2225 6 8 po-
+: 2233 8 12 po-
+: 2242 6 15 porn! 
+- 2249
+: 2251 6 14 Po-
+: 2259 6 10 po-
+* 2267 9 17 porn! 
+- 2278
+: 2280 2 10 The 
+: 2284 2 7 in
+: 2287 2 7 ter
+: 2290 2 7 net 
+: 2293 1 7 is 
+: 2295 2 7 for 
+- 2298
+: 2300 2 10 In
+: 2303 2 10 ter
+: 2306 2 10 net 
+: 2309 1 10 is 
+: 2311 2 10 for 
+- 2314
+: 2316 2 15 In
+: 2319 2 15 ter
+: 2322 2 15 net 
+: 2325 1 15 is 
+: 2327 2 15 for 
+- 2330
+* 2332 4 19 Porn! 
+E

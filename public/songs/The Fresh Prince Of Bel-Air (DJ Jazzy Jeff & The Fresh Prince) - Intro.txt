@@ -1,0 +1,357 @@
+#ARTIST:The Fresh Prince Of Bel-Air (DJ Jazzy Jeff & The Fresh Prince)
+#TITLE:Intro
+#MP3:The Fresh Prince Of Bel-Air (DJ Jazzy Jeff & The Fresh Prince) - Intro.mp3
+#CREATOR:zozole
+#COVER:The Fresh Prince Of Bel-Air (DJ Jazzy Jeff & The Fresh Prince) - Intro [CO].jpg
+#BACKGROUND:The Fresh Prince Of Bel-Air (DJ Jazzy Jeff & The Fresh Prince) - Intro [BG].jpg
+#GENRE:Rap
+#YEAR:1992
+#LANGUAGE:English
+#BPM:202.44
+#GAP:10250
+#VIDEO:v=kOzZAV8Gt5E,co=https://media.hitparade.ch/cover/800/dj_jazzy_jeff_the_fresh_prince-the_fresh_prince_of_bel_air_s.jpg,bg=jazzy-jeff-dj--fresh-prince-the-51f2924a620d2.jpg
+: 0 3 2 Now, 
+: 4 3 5 this 
+: 8 2 3 is 
+: 11 1 2 the 
+: 13 1 2 sto
+: 15 3 4 ry 
+: 19 2 5 all 
+: 22 1 4 a
+: 24 2 3 bout 
+: 28 3 2 how 
+- 32
+: 32 2 2 My 
+: 35 2 3 life 
+: 39 2 4 got 
+: 43 3 5 flipped 
+: 47 3 2 turned 
+: 51 2 3 up
+: 54 2 4 side 
+: 58 4 2 down 
+- 63
+: 63 1 2 And 
+: 65 1 2 I’d 
+: 67 2 4 like 
+: 70 1 3 to 
+: 72 2 4 take 
+: 75 1 4 a 
+: 77 1 4 mi
+: 79 1 3 nute 
+- 81
+: 81 2 2 Just 
+: 84 1 5 sit 
+: 86 3 3 right 
+: 90 3 2 there 
+- 94
+: 95 1 2 I’ll 
+: 97 1 2 tell 
+: 99 1 2 you 
+: 101 1 4 how 
+: 103 1 2 I 
+: 105 1 2 became 
+: 107 1 2 the 
+: 109 1 4 prince 
+: 111 1 2 of 
+: 113 1 2 a 
+: 115 2 4 town 
+: 118 3 3 called 
+: 122 2 2 Bel 
+: 125 2 2 Air 
+- 129
+: 256 3 2 In 
+: 261 3 5 west 
+: 266 1 3 Phi
+: 268 1 2 la
+: 270 1 3 del
+: 272 1 2 phi
+: 274 2 3 a 
+: 278 2 4 born 
+: 282 1 3 and 
+: 284 5 3 raised 
+- 290
+: 290 1 2 On 
+: 292 1 3 the 
+: 294 1 4 play
+: 296 3 3 ground 
+: 300 1 2 was 
+: 302 2 3 where 
+: 305 1 2 I 
+: 307 2 3 spent 
+: 310 1 2 most 
+: 312 1 3 of 
+: 314 1 4 my 
+: 316 4 4 days 
+- 322
+: 325 2 4 Chil
+: 328 1 5 lin’ 
+: 330 1 4 out 
+: 333 1 3 ma
+: 335 3 4 xin’ 
+: 339 1 3 re
+: 341 1 3 lax
+: 343 1 4 in’ 
+: 346 2 2 all 
+: 349 2 4 cool 
+- 352
+: 352 2 4 And 
+: 355 1 3 all 
+: 357 1 2 shoo
+: 359 2 4 tin 
+: 362 2 3 some 
+: 365 1 4 b
+: 367 3 3 ball 
+: 371 2 4 out
+: 374 3 3 side 
+: 378 1 2 of 
+: 380 3 3 school 
+- 384
+: 384 2 4 When 
+: 387 1 3 a 
+: 389 1 4 cou
+: 391 2 3 ple 
+: 394 1 3 of 
+: 396 4 2 guys 
+- 401
+: 402 1 2 Who 
+: 404 1 3 were 
+: 406 1 4 up 
+: 408 1 2 to 
+: 410 1 3 no 
+: 412 5 3 good 
+- 419
+: 421 2 2 Star
+: 424 2 3 tin 
+: 427 1 4 mak
+: 429 1 3 ing 
+: 431 1 2 tro
+: 433 1 3 uble 
+: 435 1 4 in 
+: 437 1 3 my 
+: 439 1 4 nei
+: 441 1 3 ghbor
+: 443 2 2 hood 
+- 447
+: 448 1 2 I 
+: 450 2 2 got 
+: 453 1 3 in 
+: 455 1 5 one 
+: 457 3 3 little 
+: 461 3 2 fight 
+: 465 1 3 and 
+: 467 1 3 my 
+: 469 1 4 mom 
+: 471 3 3 got 
+: 475 5 3 scared 
+- 481
+: 481 1 2 She 
+: 483 1 2 said 
+: 485 1 4 ’You’re 
+: 487 1 4 mo
+: 489 1 5 vin’ 
+: 491 1 4 with 
+: 493 1 5 your 
+: 495 1 4 auntie 
+: 497 2 4 and 
+: 500 2 4 uncle 
+: 503 1 3 in 
+: 505 2 2 Bel 
+: 508 4 2 Air’ 
+- 514
+: 515 1 2 I 
+: 517 2 4 begged 
+: 520 3 2 and 
+: 524 2 4 plea
+: 527 1 4 ded 
+: 529 1 2 with 
+: 531 3 2 her 
+: 535 2 4 day 
+: 538 1 2 af
+: 540 1 2 ter 
+: 542 1 4 day 
+- 544
+: 544 1 2 But 
+: 546 1 2 she 
+: 548 4 4 packed 
+: 553 1 2 my 
+: 555 3 4 suite 
+: 559 4 2 case 
+: 564 1 2 and 
+: 566 1 4 sent 
+: 568 1 2 me 
+: 570 1 4 on 
+: 572 1 2 my 
+: 574 2 4 way 
+- 578
+: 580 1 2 She 
+: 582 2 2 gave 
+: 585 1 2 me 
+: 587 1 2 a 
+: 589 2 4 kiss 
+: 592 2 2 and 
+: 595 1 2 then 
+: 597 1 2 she 
+: 599 1 4 gave 
+: 601 1 2 me 
+: 603 1 2 my 
+: 605 1 3 ti
+: 607 1 3 cket. 
+- 609
+: 609 1 2 I 
+: 611 1 2 put 
+: 613 1 2 my 
+: 615 1 4 walk
+: 617 3 4 man 
+: 621 3 2 on 
+: 626 1 2 and 
+: 628 1 4 said, 
+: 630 1 2 ’I 
+: 632 1 2 might 
+: 634 1 2 as 
+: 636 1 2 well 
+: 638 2 4 kick 
+: 641 3 4 it’. 
+- 646
+: 648 5 4 First 
+: 654 5 4 class, 
+: 661 2 2 yo 
+: 664 1 2 this 
+: 666 1 2 is 
+: 668 5 4 bad 
+- 674
+: 674 1 2 Drin
+: 676 2 2 king 
+: 679 1 4 o
+: 681 1 4 range 
+: 683 2 3 juice 
+: 686 1 2 out 
+: 688 1 2 of 
+: 690 1 2 a 
+: 692 2 4 cham
+: 695 3 5 pagne 
+: 699 5 5 glass. 
+- 706
+: 708 1 2 Is 
+: 710 2 4 this 
+: 713 2 2 what 
+: 716 1 2 the 
+: 718 1 4 peo
+: 720 1 4 ple 
+: 722 1 2 of 
+: 724 3 3 Bel 
+: 728 3 3 Air 
+: 732 2 3 living 
+: 735 4 4 like? 
+- 740
+: 741 10 4 Hmmmmm 
+: 752 4 3 this 
+: 757 2 2 might 
+: 760 2 2 be 
+: 763 1 4 all
+: 765 4 4 right. 
+- 771
+: 772 1 2 I 
+: 774 1 3 whist
+: 776 1 3 led 
+: 778 1 2 for 
+: 780 1 3 a 
+: 782 3 4 cab 
+: 786 1 2 and 
+: 788 1 3 when 
+: 790 1 2 it 
+: 792 2 3 came 
+: 795 4 4 near 
+- 800
+: 800 2 2 The 
+: 803 5 3 license 
+: 809 1 3 plate 
+: 811 2 2 said 
+: 814 2 4 fresh 
+: 817 1 2 and 
+: 819 1 2 it 
+: 821 1 2 had 
+: 823 1 4 dice 
+: 825 1 3 in 
+: 827 1 2 the 
+: 829 4 2 mirror 
+- 835
+: 837 1 3 If 
+: 839 1 4 a
+: 841 1 4 ny
+: 843 1 4 thing 
+: 845 1 3 I 
+: 847 1 2 can 
+: 849 1 3 say 
+: 851 1 2 is 
+: 853 1 2 that 
+: 855 1 3 this 
+: 857 1 3 cab 
+: 859 2 2 was 
+: 862 4 4 rare 
+- 867
+: 867 1 2 But 
+: 869 1 2 I 
+: 871 1 2 thought 
+: 873 2 3 ’Man 
+: 876 1 3 for
+: 878 1 3 get 
+: 880 1 3 it’ 
+: 882 1 4 ’Yo 
+: 884 3 4 home 
+: 888 1 4 to 
+: 890 2 4 Bel 
+: 893 6 4 Air’ 
+- 901
+: 1016 4 4 I 
+: 1021 5 2 pulled 
+: 1030 2 4 up 
+: 1033 2 2 to 
+: 1036 1 2 the 
+: 1038 2 4 house 
+: 1041 1 2 a
+: 1043 1 2 bout 
+: 1045 2 3 se
+: 1048 2 3 ven 
+: 1051 2 2 or 
+: 1054 3 3 eight 
+- 1058
+: 1058 1 3 And 
+: 1060 1 3 I 
+: 1062 3 2 yelled 
+: 1066 1 2 to 
+: 1068 1 2 the 
+: 1070 2 3 cab
+: 1073 1 3 bie 
+: 1075 1 4 ’Yo 
+: 1077 2 4 homes 
+: 1080 2 4 smell 
+: 1083 1 4 ya 
+: 1085 2 4 la
+: 1088 4 4 ter’ 
+- 1094
+: 1095 1 2 I 
+: 1097 1 3 looked 
+: 1099 1 2 to 
+: 1101 1 3 my 
+: 1103 1 3 king
+: 1105 1 2 dom 
+- 1107
+: 1107 1 2 I 
+: 1109 1 3 was 
+: 1111 1 4 fi
+: 1113 1 3 nal
+: 1115 1 2 ly 
+: 1117 4 2 there 
+- 1123
+: 1125 1 2 To 
+: 1127 1 3 sit 
+: 1129 1 2 on 
+: 1131 1 3 my 
+: 1133 4 2 throne 
+: 1138 2 3 as 
+: 1141 1 2 the 
+: 1143 1 3 Prince 
+: 1145 1 2 of 
+: 1147 1 3 Bel 
+: 1149 6 2 Air 
+E

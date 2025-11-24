@@ -1,0 +1,428 @@
+#ARTIST:Taylor Swift
+#TITLE:champagne problems
+#MP3:Taylor Swift - champagne problems.mp3
+#CREATOR:hugamuga
+#GENRE:Folk Pop
+#YEAR:2020
+#LANGUAGE:English
+#BPM:342
+#GAP:23480
+#VIDEO:v=wMpqCRF7TKg,co=evermore-5fdae2a88cb10.jpg,bg=swift-taylor-5cc5c7f6c99a0.jpg,medley=1272-2271
+: 0 3 4 You 
+: 4 6 4 booked 
+: 12 2 5 the 
+: 15 8 7 night 
+: 25 8 5 train 
+: 34 7 4 for 
+: 42 3 2 a 
+: 46 10 2 rea
+: 58 5 4 son 
+- 65
+: 94 2 0 So 
+: 98 4 0 you 
+: 104 6 0 could 
+: 112 6 2 sit 
+: 119 14 4 there 
+: 137 9 2 in 
+: 152 11 0 this 
+: 169 14 -7 hurt 
+- 185
+: 256 4 4 Bust
+: 262 5 5 ling 
+: 270 9 7 crowds 
+: 281 6 5 or 
+: 288 9 4 si
+: 298 7 2 lent 
+: 306 15 2 slee
+: 322 12 4 pers 
+- 336
+: 366 2 2 You’re 
+: 370 5 2 not 
+: 376 15 4 sure 
+: 392 14 2 which 
+: 407 14 0 is 
+: 423 13 -7 worse 
+- 438
+: 480 2 0 Be
+: 483 2 0 cause 
+: 486 8 0 I 
+- 496
+: 512 5 0 Dropped 
+: 518 2 0 your 
+: 522 11 2 hand 
+* 535 4 0 while 
+* 542 7 -1 dan
+* 550 7 0 cing 
+- 559
+: 575 4 0 Left 
+: 580 4 0 you 
+: 586 10 2 out 
+: 598 6 0 there 
+: 606 7 -1 stan
+: 614 8 0 ding 
+- 624
+: 630 7 0 Crest 
+: 638 6 0 fal
+: 646 4 0 len 
+: 651 9 2 on 
+: 661 6 0 the 
+: 669 7 -1 lan
+: 678 4 0 ding 
+- 684
+* 686 12 -7 Cham
+* 702 12 -7 pagne 
+* 719 5 -8 prob
+* 725 15 -8 lems 
+- 742
+: 757 6 0 Your 
+: 764 7 0 mom’s 
+: 773 6 0 ring 
+: 780 7 2 in 
+: 789 6 0 your 
+: 796 6 -1 poc
+: 804 7 0 ket 
+- 813
+: 822 3 0 My 
+: 828 8 0 pic
+: 838 4 0 ture 
+: 843 9 2 in 
+: 853 7 0 your 
+: 862 7 -1 wal
+: 870 7 0 let 
+- 879
+: 885 7 0 Your 
+: 894 6 0 heart 
+: 902 5 0 was 
+: 908 7 2 glass, 
+: 917 6 0 I 
+: 925 7 -1 dropped 
+: 933 4 0 it 
+- 939
+: 941 9 -7 Cham
+: 955 10 -7 pagne 
+: 971 7 -8 prob
+: 979 14 -8 lems 
+- 995
+: 1272 2 4 You 
+: 1276 6 4 told 
+: 1283 3 5 your 
+: 1287 9 7 fam’
+: 1297 6 5 ly 
+: 1305 7 4 for 
+: 1314 3 0 a 
+: 1318 9 2 rea
+: 1328 7 4 son 
+- 1337
+: 1385 2 0 You 
+: 1388 4 2 coul
+: 1393 13 4 dn’t 
+: 1409 10 2 keep 
+: 1424 12 0 it 
+: 1441 12 -7 in 
+- 1455
+: 1526 2 4 Your 
+: 1529 2 5 sis
+: 1532 8 7 ter 
+: 1541 10 7 splashed 
+: 1552 6 5 out 
+: 1559 7 4 on 
+: 1567 4 0 the 
+: 1573 19 2 bot
+: 1593 9 4 tle 
+- 1604
+: 1633 4 0 Now 
+: 1640 5 2 no 
+: 1647 15 4 one’s 
+: 1674 5 2 ce
+: 1680 5 0 le
+: 1686 29 2 bra
+: 1717 15 0 ting 
+- 1734
+: 1775 6 0 Dom 
+: 1784 7 0 Pé
+: 1792 4 0 rig
+: 1797 8 2 non, 
+: 1808 5 0 you 
+: 1816 6 -1 brought 
+: 1824 7 0 it 
+- 1833
+: 1840 5 0 No 
+: 1847 7 0 crowd 
+: 1856 3 0 of 
+: 1860 11 2 friends 
+: 1872 6 0 ap
+: 1879 6 -1 plau
+: 1887 8 0 ded 
+- 1897
+: 1904 5 0 Your 
+* 1911 5 0 home
+* 1917 6 0 town 
+* 1924 7 2 skep
+* 1933 6 0 tics 
+: 1943 6 -1 called 
+: 1951 4 0 it 
+- 1957
+: 1959 10 -7 Cham
+: 1976 8 -7 pagne 
+: 1991 5 -8 prob
+: 1998 9 -8 lems 
+- 2009
+: 2030 6 0 You 
+: 2038 6 0 had 
+: 2046 3 0 a 
+: 2050 9 2 speech, 
+: 2061 7 0 you’re 
+: 2069 6 -1 speech
+: 2077 11 0 less 
+- 2090
+: 2094 6 0 Love 
+: 2102 7 0 slipped 
+: 2111 2 0 be
+: 2115 9 2 yond 
+: 2126 6 0 your 
+: 2134 6 -1 rea
+: 2142 7 0 ches 
+- 2151
+: 2157 3 0 And 
+: 2161 2 0 I 
+: 2164 6 0 coul
+: 2171 7 0 dn’t 
+: 2180 8 2 give 
+: 2189 6 0 a 
+: 2197 6 -1 rea
+: 2205 4 0 son 
+- 2211
+: 2213 12 -7 Cham
+: 2229 10 -7 pagne 
+: 2246 6 -8 prob
+: 2254 17 -8 lems 
+- 2273
+: 2800 1 0 Your 
+: 2802 2 2 Mi
+: 2806 8 4 das 
+: 2815 10 2 touch 
+: 2826 2 0 on 
+: 2829 2 0 the 
+: 2833 4 2 Che
+: 2838 6 4 vy 
+: 2846 8 2 door 
+- 2856
+: 2863 2 0 No
+: 2866 2 2 vem
+: 2869 6 4 ber 
+: 2877 8 2 flush 
+: 2886 2 0 and 
+: 2889 3 0 your 
+* 2893 3 2 flan
+* 2897 6 4 nel 
+* 2907 9 2 cure 
+- 2918
+: 2920 5 2 “This 
+: 2927 7 2 dorm 
+: 2936 6 2 was 
+: 2944 7 2 once 
+: 2953 3 2 a 
+: 2957 2 2 mad 
+: 2963 7 0 house” 
+- 2972
+: 2975 2 0 I 
+: 2978 5 2 made 
+: 2984 3 2 a 
+: 2989 6 2 joke, 
+: 2996 2 0 “Well, 
+: 3000 7 0 it’s 
+: 3008 7 5 made 
+: 3016 3 4 for 
+: 3021 5 2 me” 
+: 3028 8 0 How 
+- 3038
+: 3056 4 2 E
+: 3061 4 4 ver
+: 3068 6 2 green, 
+: 3079 5 0 our 
+: 3086 8 2 group 
+: 3095 3 4 of 
+: 3099 9 2 friends 
+- 3110
+: 3112 5 0 Don’t 
+: 3119 6 2 think 
+: 3127 2 4 we’ll 
+: 3131 10 2 say 
+: 3143 6 0 that 
+: 3153 6 2 word 
+: 3161 3 4 a
+: 3165 6 2 gain 
+- 3173
+: 3176 5 2 And 
+: 3184 6 2 soon 
+: 3192 6 2 they’ll 
+: 3200 6 2 have 
+: 3208 1 2 the 
+- 3210
+: 3212 7 0 Nerve 
+: 3221 6 0 to 
+: 3232 7 2 deck 
+: 3241 3 4 the 
+: 3245 7 2 halls 
+- 3253
+: 3255 5 0 That 
+: 3261 6 5 we 
+: 3268 6 4 once 
+: 3276 6 0 walked 
+: 3284 7 0 through 
+- 3293
+* 3296 5 7 One 
+* 3303 3 7 for 
+* 3307 2 7 the 
+* 3311 3 0 mo
+* 3315 6 0 ney, 
+: 3327 7 7 two 
+: 3335 2 7 for 
+: 3339 2 7 the 
+: 3343 9 0 show 
+- 3354
+: 3356 2 0 I 
+: 3359 3 7 ne
+: 3363 3 7 ver 
+: 3367 5 7 was 
+: 3374 4 0 rea
+: 3379 3 0 dy, 
+: 3383 4 0 so 
+: 3388 3 4 I 
+: 3392 6 5 watch 
+: 3399 5 4 you 
+: 3406 3 0 go 
+- 3411
+: 3414 5 0 Some
+: 3422 5 2 times 
+: 3431 4 2 you 
+: 3439 5 2 just 
+: 3447 6 2 don’t 
+: 3455 6 2 know 
+: 3463 3 2 the 
+: 3468 5 2 an
+: 3474 5 0 swer 
+- 3481
+: 3484 3 0 ’Til 
+: 3488 2 2 some
+: 3491 7 2 one’s 
+: 3499 5 2 on 
+: 3506 7 2 their 
+: 3514 10 4 knees 
+: 3526 3 0 and 
+: 3530 4 -1 asks 
+: 3536 7 0 you 
+- 3545
+: 3548 2 0 “She 
+: 3551 4 2 woul
+: 3556 6 4 d’ve 
+: 3563 8 2 made 
+: 3572 2 0 such 
+: 3576 2 0 a 
+: 3580 4 2 love
+: 3586 6 4 ly 
+: 3594 7 2 bride 
+- 3603
+: 3605 3 0 What 
+: 3609 2 0 a 
+: 3613 6 2 shame 
+: 3621 6 4 she’s 
+* 3629 4 4 fucked 
+: 3635 3 2 in 
+: 3639 3 0 the 
+: 3644 9 2 head” 
+- 3655
+* 3658 2 0 They 
+* 3662 7 0 said 
+- 3671
+: 3673 2 2 But 
+: 3677 4 4 you’ll 
+: 3683 6 4 find 
+: 3690 2 4 the 
+: 3693 4 4 real 
+: 3698 5 2 thing 
+: 3706 4 0 in
+: 3713 7 0 stead 
+- 3722
+: 3738 2 2 She’ll 
+: 3742 4 2 patch 
+: 3747 6 4 up 
+: 3754 2 4 your 
+: 3757 5 4 ta
+* 3764 8 2 pes
+: 3773 5 0 try 
+: 3780 2 0 that 
+: 3783 5 2 I 
+: 3789 10 0 shred 
+- 3801
+: 3815 1 0 And 
+: 3817 9 0 hold 
+: 3828 3 0 your 
+: 3832 9 2 hand 
+: 3842 8 0 while 
+: 3851 6 -1 dan
+: 3858 7 0 cing 
+- 3867
+: 3884 4 0 Ne
+: 3891 3 0 ver 
+: 3895 10 2 leave 
+: 3907 7 0 you 
+: 3916 6 -1 stan
+: 3923 8 0 ding 
+- 3933
+: 3939 6 0 Crest 
+: 3947 8 0 fal
+: 3956 3 0 len 
+: 3960 10 2 on 
+: 3972 5 0 the 
+: 3979 7 -1 lan
+: 3987 8 0 ding 
+- 3997
+: 4004 4 -7 With 
+: 4012 9 -7 cham
+: 4022 9 -7 pagne 
+: 4034 8 -8 prob
+: 4045 9 -8 lems 
+- 4056
+: 4066 7 0 Your 
+: 4075 6 0 mom’s 
+: 4083 2 0 ring 
+: 4086 9 2 in 
+: 4097 6 0 your 
+: 4105 7 -1 poc
+: 4113 7 0 ket 
+- 4122
+: 4130 6 0 Her 
+: 4138 6 0 pic
+: 4146 3 0 ture 
+: 4150 9 2 in 
+: 4161 6 0 your 
+: 4169 7 -1 wal
+: 4177 7 0 let 
+- 4186
+: 4193 7 0 You 
+: 4202 8 0 won’t 
+: 4211 3 0 re
+: 4215 9 2 memb
+: 4226 5 0 er 
+: 4232 6 -1 all 
+: 4239 7 0 my 
+- 4248
+: 4250 12 -7 Cham
+: 4264 14 -7 pagne 
+: 4282 10 -8 prob
+: 4294 14 -8 lems 
+- 4310
+: 4453 3 0 You 
+: 4458 6 0 won’t 
+: 4465 3 0 re
+: 4469 8 2 mem
+: 4479 4 0 ber 
+: 4484 6 -1 all 
+: 4491 7 0 my 
+- 4500
+: 4504 14 -7 Cham
+: 4519 11 -7 pagne 
+* 4535 7 -8 prob
+* 4544 25 -8 lems 
+E

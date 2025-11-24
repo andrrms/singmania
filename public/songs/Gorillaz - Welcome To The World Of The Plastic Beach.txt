@@ -1,0 +1,251 @@
+#ARTIST:Gorillaz
+#TITLE:Welcome To The World Of The Plastic Beach
+#MP3:Gorillaz - Welcome To The World Of The Plastic Beach.mp3
+#CREATOR:mugib
+#YEAR:2010
+#LANGUAGE:English
+#BPM:352
+#GAP:14910
+#VIDEO:v=p0OVD0_YJnU,co=plastic-beach-4e1db4d3d551a.jpg,bg=gorillaz-61570b8315ad6.jpg
+: 0 8 12 Gorillaz 
+: 10 5 19 and 
+: 16 1 20 the 
+: 18 6 19 boss 
+: 26 6 16 Dogg 
+: 34 4 15 Planet 
+- 40
+: 42 2 16 Of 
+: 46 2 14 the 
+: 50 6 15 apes 
+- 58
+: 1532 1 12 The 
+: 1534 14 13 revolution 
+: 1552 4 19 will 
+: 1560 6 15 be 
+: 1568 12 12 televised 
+- 1582
+: 1652 2 12 And 
+: 1656 2 12 the 
+* 1660 9 19 pollution 
+: 1670 2 12 from 
+: 1674 1 14 the 
+: 1676 16 19 ocean 
+- 1694
+: 1698 2 19 Now 
+: 1702 2 19 with 
+: 1706 14 12 devotion 
+- 1722
+: 1786 12 12 Push 
+: 1800 3 19 peace 
+: 1804 8 19 and 
+: 1814 6 12 keep 
+: 1818 2 20 it 
+: 1822 1 20 in 
+: 1824 18 12 motion 
+- 1844
+: 2042 6 12 Kids, 
+: 2052 4 15 gather 
+: 2062 6 13 around 
+: 2078 1 15 Yeah, 
+: 2080 1 12 I 
+: 2082 2 15 need 
+- 2086
+: 2088 2 12 Your 
+: 2092 12 9 focus 
+- 2106
+: 2174 2 12 I 
+: 2176 1 20 know 
+: 2178 1 12 it 
+: 2180 7 12 seems 
+: 2188 4 20 like 
+: 2194 1 19 the 
+: 2196 7 19 world 
+: 2204 2 15 is 
+- 2207
+: 2208 5 12 So 
+: 2214 14 12 hopeless 
+- 2230
+: 2332 2 12 It’s 
+: 2336 2 15 like 
+: 2340 12 12 wonderland 
+- 2354
+: 2562 3 12 Now 
+: 2566 2 19 fascinate 
+: 2570 12 15 me 
+: 2588 2 20 Picture 
+: 2592 4 13 and 
+- 2598
+: 2600 3 14 Animate 
+: 2604 6 12 me 
+: 2622 3 11 ’Cause 
+: 2626 8 11 I’m 
+: 2636 8 16 rollin’ 
+: 2650 5 10 Deep 
+- 2656
+: 2656 8 16 Holein’ 
+: 2670 6 12 Click 
+: 2678 6 15 clacking 
+: 2690 5 12 Crack
+: 2696 2 15 a
+: 2700 10 16 lacking 
+- 2712
+: 2716 6 20 Full 
+: 2724 8 17 packing 
+: 2738 7 19 Mo’ 
+: 2746 8 9 stacking 
+: 2750 11 9 Acting 
+: 2762 3 9 a 
+- 2766
+: 2766 4 19 Fool 
+: 2782 6 16 when 
+: 2794 3 16 I 
+: 2798 8 15 teach 
+- 2808
+: 2822 3 12 Welcome 
+: 2826 3 12 to 
+: 2830 2 16 the 
+: 2834 8 16 world 
+: 2844 3 13 of 
+: 2848 2 12 the 
+: 2852 8 16 Plastic 
+- 2861
+: 2862 10 15 Beach 
+- 2874
+: 2946 6 19 Welcome 
+: 2956 3 12 to 
+: 2960 1 12 the 
+: 2962 8 12 world 
+: 2972 1 17 of 
+: 2974 2 17 the 
+: 2978 8 9 Plastic 
+- 2988
+: 2990 10 16 Beach 
+- 3002
+: 3074 2 12 Mirror 
+: 3080 3 11 mirror 
+: 3084 12 12 on 
+: 3098 2 12 the 
+: 3102 10 12 wall 
+: 3118 2 9 Boss 
+: 3122 10 15 Dawg 
+- 3134
+: 3136 8 11 Give 
+: 3144 1 20 it 
+: 3146 1 20 to 
+: 3148 4 12 ’em 
+- 3154
+: 3168 2 19 Get 
+: 3172 8 19 involved 
+: 3184 1 13 Turn 
+: 3186 4 12 it 
+: 3196 6 12 up 
+: 3208 1 12 Speed 
+: 3210 2 12 it 
+: 3214 10 16 up 
+- 3226
+: 3234 7 12 Slow 
+: 3242 2 12 it 
+: 3246 10 9 up 
+: 3262 9 9 Underground 
+: 3272 4 9 where 
+: 3280 1 19 the 
+- 3282
+: 3282 9 19 Under 
+: 3292 5 16 us 
+: 3298 14 16 undercut 
+: 3318 10 16 Shipped 
+: 3334 3 16 up 
+- 3338
+: 3338 14 19 Shipped 
+: 3354 10 12 out 
+: 3370 4 12 Swimmin’ 
+: 3376 5 12 with 
+: 3382 2 9 the 
+- 3385
+: 3386 10 10 Sharks 
+: 3396 1 20 Put 
+: 3398 1 20 my 
+: 3400 10 12 gills 
+: 3412 8 17 up 
+: 3422 1 20 Turn 
+: 3424 1 12 the 
+- 3426
+: 3426 7 17 Wheels 
+: 3434 2 19 up 
+: 3442 4 16 Real 
+: 3448 8 16 tough 
+: 3464 4 19 Drinkin’ 
+- 3469
+: 3470 8 11 Lemonade 
+: 3486 1 17 in 
+: 3488 6 9 the 
+: 3496 12 16 shade 
+: 3512 1 16 Getting 
+: 3514 8 16 blade 
+- 3524
+: 3526 2 16 With 
+: 3528 1 20 a 
+: 3530 4 16 gang 
+: 3536 3 16 of 
+: 3540 12 11 prilgrims 
+- 3554
+: 3664 5 11 Yeah, 
+: 3670 4 12 just 
+: 3676 3 20 like 
+: 3680 8 16 that 
+: 3700 2 12 Belly 
+: 3704 4 9 floppin’ 
+- 3710
+: 3714 3 19 Lockin’ 
+: 3718 6 14 while 
+: 3726 4 16 I’m 
+: 3732 9 9 rockin’ 
+: 3734 2 20 in 
+: 3740 1 20 the 
+- 3742
+: 3742 1 20 Bubble 
+* 3744 8 9 bath 
+- 3754
+: 3788 1 9 And 
+: 3790 2 12 I’m 
+: 3794 8 12 just 
+: 3804 2 9 like 
+: 3808 8 16 math 
+: 3822 7 20 Fozo’s 
+: 3830 11 12 added 
+- 3842
+: 3842 2 14 Up 
+: 3846 4 9 that 
+: 3852 5 12 get 
+: 3858 1 9 you 
+: 3860 6 9 more 
+: 3870 8 14 cash 
+- 3880
+: 3912 2 9 So 
+: 3916 2 12 quick, 
+: 3920 12 12 so 
+: 3934 8 16 fast 
+: 3950 5 19 All 
+: 3956 2 16 the 
+: 3960 2 9 kids 
+: 3966 7 19 say 
+- 3974
+: 3974 1 20 They 
+: 3972 2 20 love 
+: 3976 1 20 it 
+: 3978 1 14 when 
+: 3980 6 9 I 
+: 3988 1 20 make 
+: 3990 6 19 ’em 
+: 3998 10 12 laugh 
+- 4010
+: 4092 12 16 Welcome 
+: 4106 2 11 to 
+: 4110 2 16 the 
+: 4114 1 16 world 
+: 4116 2 11 of 
+: 4120 2 16 the 
+: 4124 10 16 Plastic 
+- 4135
+: 4136 16 9 Beach 
+E

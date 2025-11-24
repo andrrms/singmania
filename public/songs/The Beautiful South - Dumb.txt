@@ -1,0 +1,257 @@
+#ARTIST:The Beautiful South
+#TITLE:Dumb
+#MP3:The Beautiful South - Dumb.mp3
+#CREATOR:jockel1974
+#YEAR:1997
+#LANGUAGE:English
+#BPM:210
+#GAP:22790
+#VIDEO:a=UNcpxAx3tWk,co=https://images.genius.com/92a34098a36c7781fe3eabba3466fa38.500x459x1.jpg,bg=beautiful-south-the-55c781ce9f6ed.jpg
+: 0 3 4 It 
+: 4 1 2 does
+: 6 1 2 n’t 
+: 8 3 2 take 
+: 12 3 2 a 
+* 16 3 5 mathe
+: 20 3 4 ma
+: 24 1 5 ti
+: 26 6 2 cian 
+- 34
+: 46 3 2 To 
+: 50 1 4 add 
+: 52 3 2 a 
+: 56 3 2 sim
+: 60 3 2 ple 
+: 64 10 5 sum 
+- 76
+F 90 1 5 Eith
+: 92 3 2 er 
+: 96 3 1 you 
+: 100 3 1 are 
+: 104 1 2 sim
+: 106 3 2 ply 
+: 110 3 2 beau
+: 114 1 4 ti
+: 116 8 3 ful 
+- 126
+: 136 1 2 Or 
+: 138 1 5 I 
+: 140 5 3 am 
+: 146 3 4 sim
+: 150 5 2 ply 
+: 156 4 2 dumb 
+- 162
+: 164 5 4 Dumb 
+: 170 5 7 dumb 
+* 176 18 2 dumb 
+- 196
+: 248 7 2 Dumb 
+: 256 9 2 dumb 
+: 266 10 0 dumb 
+- 278
+: 340 5 1 Dumb 
+: 346 7 0 dumb 
+: 354 12 1 dumb 
+- 368
+: 538 5 2 It 
+: 544 1 0 does
+: 546 1 0 n’t 
+: 548 5 0 take 
+: 554 1 -1 Rob
+: 556 3 0 ert 
+F 560 1 1 the 
+: 562 12 1 Bruce 
+- 576
+: 582 5 0 To 
+: 588 1 -3 see 
+: 590 3 0 the 
+: 594 1 0 web 
+: 596 5 -1 you’ve 
+* 602 14 -1 spun 
+- 618
+F 624 1 2 Eith
+: 626 3 0 er 
+: 630 3 1 you 
+: 634 3 -1 are 
+: 638 3 0 sim
+: 642 3 0 ply 
+: 646 1 1 beau
+: 648 3 2 ti
+* 652 8 0 ful 
+- 662
+: 674 3 1 Or 
+F 678 5 2 I 
+: 684 3 0 am 
+: 688 3 0 sim
+: 692 3 0 ply 
+: 696 4 0 dumb 
+- 702
+: 704 7 2 Dumb 
+: 712 5 0 dumb 
+: 718 10 0 dumb 
+- 730
+: 786 7 0 Dumb 
+: 794 7 -1 dumb 
+F 802 14 0 dumb 
+- 818
+: 876 7 0 Dumb 
+: 884 5 3 dumb 
+: 890 16 0 dumb 
+- 908
+: 1074 1 0 It 
+: 1076 1 0 does
+: 1078 3 0 n’t 
+: 1082 3 0 take 
+: 1086 3 1 a 
+: 1090 5 0 Lab
+: 1096 1 0 ra
+* 1098 14 3 dor 
+- 1114
+: 1116 3 0 To 
+: 1120 1 0 show 
+: 1122 1 0 a 
+: 1124 5 0 blind 
+: 1130 5 0 man 
+F 1136 18 3 sun 
+- 1156
+: 1158 1 3 Eith
+: 1160 3 2 er 
+: 1164 3 0 you 
+: 1168 5 -1 are 
+: 1174 1 0 sim
+F 1176 3 0 ply 
+: 1180 3 1 beau
+: 1184 1 2 ti
+: 1186 10 0 ful 
+- 1198
+: 1206 3 2 Or 
+: 1210 3 4 I 
+: 1214 3 0 am 
+* 1218 5 0 sim
+: 1224 3 0 ply 
+: 1228 6 0 dumb 
+- 1236
+: 1238 7 0 Dumb 
+: 1246 5 2 dumb 
+* 1252 14 0 dumb 
+- 1268
+: 1322 7 0 Dumb 
+: 1330 7 1 dumb 
+F 1338 16 0 dumb 
+- 1356
+: 1410 7 0 Dumb 
+: 1418 7 0 dumb 
+* 1426 16 -1 dumb 
+- 1444
+: 1678 3 0 The 
+: 1682 5 1 sun, 
+: 1688 3 0 the 
+* 1692 6 3 sky 
+- 1700
+: 1704 3 0 The 
+: 1708 3 2 moon, 
+: 1712 3 0 the 
+F 1716 10 -1 stars 
+- 1727
+: 1728 7 0 Ju
+F 1736 3 -1 pi
+: 1740 5 3 ter 
+: 1746 5 1 Nep
+* 1752 1 0 tune 
+: 1754 3 -1 and 
+F 1758 10 0 Mars 
+- 1770
+: 1774 7 -2 All 
+: 1782 3 0 these 
+: 1786 5 0 things 
+: 1792 3 3 I 
+F 1796 1 2 clear
+: 1798 3 1 ly 
+: 1802 8 1 see 
+- 1812
+: 1814 3 0 It 
+: 1818 3 1 don’t 
+: 1822 3 0 take 
+: 1826 7 -1 a 
+: 1834 1 0 tel
+: 1836 1 0 e
+: 1838 3 0 scope 
+: 1842 1 0 for 
+: 1844 5 0 you 
+: 1850 1 -1 to 
+* 1852 5 3 love 
+: 1858 10 1 me 
+- 1870
+: 1884 7 2 Aah 
+: 1892 9 2 aah 
+: 1902 7 0 ahh 
+- 1910
+: 1910 3 0 For 
+: 1914 1 0 you 
+: 1916 10 1 to, 
+- 1928
+: 1930 1 0 For 
+: 1932 3 0 you 
+: 1936 1 2 to 
+* 1938 9 8 love 
+: 1948 12 0 me 
+- 1962
+: 1972 7 2 Aah 
+: 1980 9 2 aah 
+: 1990 12 0 ahh 
+- 2004
+: 2006 17 3 It’s 
+: 2024 7 0 dumb 
+: 2032 7 0 dumb 
+F 2040 12 0 dumb 
+- 2054
+: 2060 7 2 Aah 
+: 2068 7 2 aah 
+: 2076 11 0 ahh 
+- 2088
+: 2088 3 1 So 
+: 2092 5 0 dumb, 
+: 2098 3 1 so 
+: 2102 4 0 dumb 
+- 2107
+: 2108 1 4 It’s 
+: 2110 5 0 so 
+: 2116 5 2 dumb 
+: 2122 7 2 dumb 
+F 2130 10 2 dumb 
+- 2142
+: 2146 9 2 Aah 
+: 2156 9 2 aah 
+: 2166 8 0 ahh 
+- 2176
+: 2178 23 0 Yeah 
+: 2202 1 4 it’s 
+: 2204 5 1 dumb 
+: 2210 5 1 dumb 
+: 2216 12 1 dumb 
+- 2230
+: 2260 25 0 Aah 
+: 2286 3 0 it’s 
+: 2290 3 0 so 
+: 2294 7 2 dumb 
+F 2302 21 0 dumb 
+* 2324 50 4 dumb 
+- 2376
+: 2444 11 0 So 
+: 2456 11 0 so 
+: 2468 3 0 so 
+: 2472 5 0 dumb 
+: 2478 5 0 dumb 
+: 2484 16 0 dumb 
+- 2502
+F 2558 7 0 It’s 
+: 2566 15 0 dumb 
+: 2582 15 0 dumb, 
+: 2598 16 0 dumb 
+- 2616
+: 2642 5 0 It’s  
+: 2648 5 0 so 
+: 2654 7 0 dumb 
+: 2662 5 0 dumb 
+* 2668 58 0 dumb 
+E

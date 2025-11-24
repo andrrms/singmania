@@ -1,0 +1,298 @@
+#ARTIST:It Lives, It Breathes
+#TITLE:Elevated (AEW Theme Will Ospreay)
+#MP3:It Lives, It Breathes - Elevated (AEW Theme Will Ospreay).mp3
+#CREATOR:Lolomazz
+#COVER:It Lives, It Breathes - Elevated (AEW Theme Will Ospreay) [CO].jpg
+#BACKGROUND:It Lives, It Breathes - Elevated (AEW Theme Will Ospreay) [BG].jpg
+#YEAR:2017
+#LANGUAGE:English
+#BPM:220
+#GAP:9510
+#VIDEO:v=68xRsrBCQoM,co=https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/a3/31/f8/a331f824-3dd1-e8b6-5148-8d016d71fc26/191061761174.jpg/5000x5000bb.jpg
+: 0 3 9 E
+: 4 1 9 le
+: 6 3 7 va
+: 10 3 9 ted 
+- 16
+: 18 5 9 El-, 
+: 26 7 9 e
+: 34 3 9 le
+: 38 3 9 va
+: 42 1 7 te 
+: 44 1 5 me 
+: 46 3 2 to 
+: 50 3 0 the 
+: 54 5 2 sky 
+- 60
+: 62 7 9 Woah
+: 70 7 2 ~, 
+: 78 1 9 we’re 
+: 80 9 7 so 
+: 90 7 7 e
+: 98 1 9 le
+: 100 5 7 va
+: 106 11 5 ted 
+- 125
+: 128 3 9 E
+: 132 1 9 le
+: 134 3 7 va
+: 138 3 9 ted 
+- 144
+: 146 5 9 El-, 
+: 154 7 9 e
+: 162 3 9 le
+: 166 3 9 va
+: 170 1 7 te 
+: 172 1 5 me 
+: 174 3 2 to 
+: 178 3 0 the 
+: 182 5 2 sky 
+- 188
+: 190 7 9 Woah,
+: 198 7 2 ~ 
+: 206 1 9 we’re 
+: 208 9 7 so 
+: 218 7 7 e
+: 226 1 9 le
+: 228 5 7 va
+: 234 11 5 ted 
+- 274
+: 318 3 7 Ri
+: 322 1 7 sing 
+: 324 3 9 up 
+: 328 3 7 to 
+* 332 3 5 the 
+* 336 7 7 sound 
+* 350 3 5 of 
+* 354 3 7 your 
+: 358 3 9 na
+: 362 3 7 me 
+: 366 1 5 in 
+: 368 3 7 the 
+: 372 7 9 crowd 
+- 382
+: 384 1 5 Ca
+: 386 3 4 lling 
+: 390 7 2 out 
+: 398 3 2 for 
+: 402 3 4 the 
+: 406 7 5 re
+: 414 7 4 vo
+: 422 7 2 lu
+: 430 7 2 tion 
+- 443
+: 446 5 5 Make 
+: 452 3 7 your 
+: 456 5 9 way 
+: 462 1 7 through 
+: 464 3 5 the 
+: 468 7 7 crown 
+- 476
+: 478 1 5 And 
+: 480 3 7 re
+: 484 3 9 mem
+: 488 3 7 ber 
+: 492 5 5 that 
+: 498 3 7 sound
+: 502 7 9 ~ 
+- 510
+: 512 1 5 Ca
+: 514 3 4 lling 
+* 518 7 2 out 
+* 526 3 2 for 
+* 530 3 4 an 
+: 534 7 5 e
+: 542 7 4 vo
+: 550 7 2 lu
+: 558 7 2 tion 
+- 571
+: 574 5 5 Loo
+: 580 3 7 king 
+: 584 5 9 out 
+: 590 1 7 you 
+: 592 3 5 have 
+: 596 7 7 found 
+- 604
+: 606 1 5 That 
+: 608 3 7 you’re 
+: 612 3 9 ma
+: 616 3 7 kin’ 
+: 620 5 5 them 
+: 626 3 7 proud
+: 630 7 9 ~ 
+- 666
+: 704 3 9 E
+: 708 1 9 le
+: 710 3 7 va
+: 714 3 9 ted 
+- 720
+: 722 5 9 El-, 
+: 730 7 9 e
+: 738 3 9 le
+: 742 3 9 va
+: 746 1 7 te 
+: 748 1 5 me 
+: 750 3 2 to 
+: 754 3 0 the 
+: 758 5 2 sky 
+- 764
+: 766 7 9 Woah,
+: 774 7 2 ~ 
+: 782 1 9 we’re 
+: 784 9 7 so 
+: 794 7 7 e
+: 802 1 9 le
+: 804 5 7 va
+: 810 11 5 ted 
+- 827
+: 830 3 9 E
+: 834 1 9 le
+* 836 3 7 va
+* 840 3 9 ted 
+- 846
+: 848 5 9 El-, 
+: 856 7 9 e
+: 864 3 9 le
+: 868 3 9 va
+: 872 1 7 te 
+: 874 1 5 me 
+: 876 3 2 to 
+: 880 3 0 the 
+: 884 5 2 sky 
+- 890
+: 892 7 9 Woah,
+: 900 7 2 ~ 
+: 908 1 9 we’re 
+: 910 9 7 so 
+: 920 7 7 e
+: 928 1 9 le
+: 930 5 7 va
+: 936 11 5 ted 
+- 976
+: 1278 3 7 Ri
+: 1282 1 7 sing 
+: 1284 3 9 up 
+: 1288 3 7 to 
+: 1292 3 5 the 
+: 1296 7 7 sound 
+: 1310 3 5 of 
+: 1314 3 7 your 
+: 1318 3 9 na
+: 1322 3 7 me 
+: 1326 1 5 in 
+: 1328 3 7 the 
+: 1332 7 9 crowd 
+- 1368
+: 1404 5 5 Make 
+: 1410 3 7 your 
+: 1414 5 9 way 
+: 1420 1 7 through 
+: 1422 3 5 the 
+: 1426 7 7 crown 
+- 1436
+: 1438 1 5 And 
+: 1440 3 7 re
+: 1444 3 9 mem
+: 1448 3 7 ber 
+: 1452 5 5 that 
+: 1458 3 7 sound
+: 1462 7 9 ~ 
+- 1498
+: 1528 5 2 Os
+* 1534 7 2 preay 
+: 1542 7 2 Os
+: 1550 7 2 preay 
+- 1571
+: 1592 5 2 Os
+: 1598 7 2 preay 
+: 1606 7 2 Os
+: 1614 7 2 preay 
+- 1635
+: 1656 5 2 Os
+: 1662 7 2 preay 
+: 1670 7 2 Os
+: 1678 7 2 preay 
+- 1699
+: 1718 7 2 Os
+: 1726 7 2 preay 
+: 1734 7 2 Os
+* 1742 7 2 preay 
+- 1763
+: 1792 3 9 E
+: 1796 1 9 le
+: 1798 3 7 va
+: 1802 3 9 ted 
+- 1808
+: 1810 5 9 El-, 
+: 1818 7 9 e
+: 1826 3 9 le
+: 1830 3 9 va
+: 1834 1 7 te 
+: 1836 1 5 me 
+: 1838 3 2 to 
+: 1842 3 0 the 
+: 1846 5 2 sky 
+- 1852
+: 1854 7 9 Woah,
+: 1862 7 2 ~ 
+: 1870 1 9 we’re 
+: 1872 9 7 so 
+: 1882 7 7 e
+: 1890 1 9 le
+: 1892 5 7 va
+: 1898 11 5 ted 
+- 1915
+: 1918 3 9 E
+: 1922 1 9 le
+: 1924 3 7 va
+: 1928 3 9 ted 
+- 1934
+: 1936 5 9 El-, 
+: 1944 7 9 e
+: 1952 3 9 le
+: 1956 3 9 va
+: 1960 1 7 te 
+: 1962 1 5 me 
+: 1964 3 2 to 
+: 1968 3 0 the 
+: 1972 5 2 sky 
+- 1978
+: 1980 7 9 Woah,
+: 1988 7 2 ~ 
+: 1996 1 9 we’re 
+: 1998 9 7 so 
+: 2008 7 7 e
+: 2016 1 9 le
+: 2018 5 7 va
+: 2024 11 5 ted 
+- 2040
+: 2042 3 14 We’re 
+: 2048 3 12 e
+: 2052 1 10 le
+: 2054 1 12 va
+: 2056 9 14 ted 
+- 2079
+: 2110 7 9 Woah,
+: 2118 7 2 ~ 
+: 2126 1 9 we’re 
+: 2128 9 7 so 
+: 2138 7 7 e
+: 2146 1 9 le
+: 2148 5 7 va
+: 2154 11 5 ted 
+- 2168
+: 2170 3 14 So 
+: 2176 3 12 e
+: 2180 1 10 le
+: 2182 1 12 va
+: 2184 9 14 ted 
+- 2207
+: 2240 7 9 Woah,
+: 2248 7 2 ~ 
+: 2256 1 9 we’re 
+* 2258 9 7 so 
+* 2268 7 7 e
+* 2276 1 9 le
+* 2278 5 7 va
+: 2284 11 5 ted 
+E

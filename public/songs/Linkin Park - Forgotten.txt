@@ -1,0 +1,694 @@
+#ARTIST:Linkin Park
+#TITLE:Forgotten
+#MP3:Linkin Park - Forgotten.mp3
+#CREATOR:JKA
+#GENRE:Rapcore
+#YEAR:2000
+#LANGUAGE:English
+#BPM:288.45
+#GAP:90
+#VIDEO:a=HNCgBuI2eJc,co=hybrid-theory-53a3dcaeb78c2.jpg,bg=linkin-park-4de523586c57e.jpg
+: 0 2 9 From 
+: 3 2 4 the 
+: 6 2 8 top
+: 9 1 6 ~ 
+: 11 1 4 to 
+: 13 2 3 the 
+: 16 3 8 bot
+: 20 1 1 tom 
+F 23 2 0 bot
+F 26 1 0 tom 
+F 28 2 0 to 
+F 31 3 0 top 
+F 35 2 0 I 
+F 38 2 0 stop 
+- 42
+: 43 1 9 At 
+: 45 2 5 the 
+: 48 1 8 co
+: 50 3 3 re 
+: 54 1 3 I’ve 
+: 56 2 4 for
+: 59 4 8 gotten 
+F 64 2 0 in 
+F 67 2 0 the 
+F 70 2 0 mid
+F 73 1 0 dle 
+F 75 2 0 of 
+F 78 2 0 my 
+F 81 2 0 thoughts 
+- 85
+: 86 2 8 Ta
+: 89 1 4 ken 
+: 91 5 8 far 
+: 97 1 4 from 
+: 99 2 4 my 
+: 102 4 8 safe
+: 107 2 3 ty 
+F 110 1 0 the 
+F 112 4 0 pic
+F 117 3 0 ture is 
+F 121 6 0 there 
+- 129
+: 131 1 6 The 
+: 133 2 8 me
+: 136 2 4 mory 
+: 139 1 8 won’t 
+: 141 2 4 es
+: 144 4 11 cape 
+: 149 3 5 me 
+F 153 1 0 but 
+F 155 4 0 why 
+F 160 2 0 should 
+F 163 2 0 I 
+F 166 2 0 care? 
+- 170
+: 171 2 8 From 
+: 174 2 4 the 
+: 177 2 8 top
+: 180 1 6 ~ 
+: 182 1 4 to 
+: 184 2 3 the 
+: 187 3 9 bot
+: 191 1 1 tom 
+F 193 2 0 bot
+F 196 1 0 tom 
+F 198 2 0 to 
+F 201 3 0 top 
+F 205 3 0 I 
+F 209 2 0 stop 
+- 213
+: 214 1 9 At 
+: 216 2 5 the 
+: 219 1 8 co
+: 221 3 3 re 
+: 225 1 3 I’ve 
+: 227 2 4 for
+: 230 4 8 gotten 
+F 235 2 0 in 
+F 238 2 0 the 
+F 241 1 0 mid
+F 243 2 0 dle 
+F 246 1 0 of 
+F 248 2 0 my 
+F 251 2 0 thoughts 
+- 255
+: 256 2 8 Ta
+: 259 1 4 ken 
+: 261 4 8 far 
+: 266 2 4 from 
+: 269 2 4 my 
+: 272 5 8 safe
+: 278 2 3 ty 
+F 281 1 0 the 
+F 283 4 0 pic
+F 288 3 0 ture is 
+F 292 6 0 there 
+- 300
+: 301 1 6 The 
+: 303 2 8 me
+: 306 2 4 mory 
+: 309 1 8 won’t 
+: 311 3 4 es
+: 315 4 11 cape 
+: 320 2 5 me 
+F 323 1 0 but 
+F 325 4 0 why 
+F 330 2 0 should 
+F 333 2 0 I 
+F 336 3 0 care? 
+- 341
+F 342 1 0 There’s 
+F 344 2 0 a 
+F 347 4 0 place 
+F 352 4 0 so 
+F 357 4 0 dark 
+F 362 2 0 you 
+F 365 5 0 can’t 
+F 371 3 0 see 
+F 375 2 0 the 
+F 378 2 0 end 
+- 382
+F 383 5 0 Skies 
+F 389 5 0 cock 
+F 395 4 0 back 
+F 400 2 0 and 
+F 403 2 0 shock 
+F 406 1 0 that 
+F 408 2 0 which 
+F 411 4 0 can’t 
+F 416 2 0 de
+F 419 1 0 fend 
+- 422
+F 423 2 0 The 
+F 426 5 0 rain 
+F 432 4 0 then 
+F 437 5 0 sends 
+F 443 3 0 drip
+F 447 5 0 ping, 
+F 456 2 0 a
+F 459 2 0 ci
+F 462 1 0 dic 
+F 464 4 0 ques
+F 469 1 0 tions 
+- 471
+F 472 4 0 Force
+F 477 2 0 ful
+F 480 2 0 ly, 
+F 483 1 0 the 
+F 485 4 0 power 
+F 490 2 0 of 
+F 493 1 0 sug
+F 495 5 0 ges
+F 501 3 0 tion 
+- 506
+F 507 4 0 Then 
+F 512 1 0 with 
+F 514 2 0 the 
+F 517 5 0 eyes 
+F 523 2 0 shut, 
+- 527
+F 528 2 0 Loo
+F 531 1 0 king 
+F 533 2 0 thought 
+F 536 1 0 the 
+F 538 5 0 rust 
+F 544 2 0 and 
+F 547 4 0 rot 
+F 552 1 0 and 
+F 554 5 0 dust 
+- 561
+F 562 2 0 A 
+F 565 5 0 small 
+F 571 4 0 spot 
+F 576 2 0 of 
+F 579 4 0 light 
+F 584 4 0 floods 
+F 589 2 0 the 
+F 592 4 0 floor 
+- 598
+F 599 2 0 And 
+F 602 5 0 pours 
+F 608 2 0 o
+F 611 1 0 ver 
+F 613 2 0 the 
+F 616 4 0 rus
+F 621 2 0 ted 
+F 624 4 0 world 
+F 629 2 0 of 
+F 632 2 0 pre
+F 635 2 0 tend 
+- 639
+F 640 1 0 And 
+F 642 2 0 the 
+F 645 5 0 eyes 
+F 651 4 0 ease 
+F 656 2 0 o
+F 659 2 0 pen 
+F 662 1 0 and 
+F 664 2 0 it’s 
+F 667 4 0 dark 
+F 672 2 0 a
+F 675 4 0 gain 
+- 681
+: 682 2 9 From 
+: 685 2 4 the 
+: 688 2 8 top
+: 691 2 6 ~ 
+: 694 1 4 to 
+: 696 1 3 the 
+: 698 3 9 bot
+: 702 1 1 tom 
+F 705 1 0 bot
+F 707 2 0 tom 
+F 710 1 0 to 
+F 712 4 0 top 
+F 717 3 0 I 
+F 721 1 0 stop 
+- 724
+: 725 2 9 At 
+: 728 1 5 the 
+: 730 1 8 co
+: 732 3 3 re 
+: 736 1 4 I’ve 
+: 738 2 3 for
+: 741 4 8 gotten 
+F 747 2 0 in 
+F 750 2 0 the 
+F 753 1 0 mid
+F 755 2 0 dle 
+F 758 1 0 of 
+F 760 2 0 my 
+F 763 2 0 thoughts 
+- 767
+: 768 2 8 Ta
+: 771 2 4 ken 
+: 774 4 8 far 
+: 779 2 4 from 
+: 782 2 4 my 
+: 785 3 8 safe
+: 789 1 3 ty 
+F 792 2 0 the 
+F 795 4 0 pic
+F 800 3 0 ture is 
+F 804 6 0 there 
+- 812
+: 813 1 6 The 
+: 815 2 8 me
+: 818 1 4 mory 
+: 820 2 8 won’t 
+: 823 3 4 es
+: 827 3 11 cape 
+: 831 3 5 me 
+F 835 2 0 but 
+F 838 4 0 why 
+F 843 1 0 should 
+F 845 3 0 I 
+F 849 10 -1 care? 
+- 861
+: 869 4 3 In 
+: 874 4 3 the 
+: 879 5 3 me
+: 885 4 1 mory 
+: 890 4 -1 you’ll 
+: 895 11 1 find 
+: 907 3 1 me
+: 911 38 3 ~ 
+- 951
+: 954 9 3 Eyes 
+: 964 5 6 bur
+* 970 4 8 ning
+* 975 4 6 ~ 
+: 980 48 6 up 
+- 1030
+: 1034 5 3 The 
+: 1040 4 3 dark
+: 1045 4 3 ness 
+: 1050 5 6 hol
+: 1056 4 3 ding 
+: 1061 4 3 me 
+: 1066 10 1 tight
+: 1077 4 1 ly
+: 1082 31 3 ~ 
+- 1115
+: 1118 6 -1 Un
+: 1125 4 -1 til 
+: 1130 5 -1 the 
+: 1136 12 -2 sun 
+: 1156 6 -1 ri
+: 1163 3 -1 ses
+* 1167 4 1 ~ 
+* 1172 5 -1 up
+* 1178 13 -2 ~
+* 1192 3 -3 ~
+* 1196 11 -4 ~ 
+- 1209
+F 1274 3 0 Mo
+F 1278 1 0 ving 
+F 1280 2 0 all 
+F 1283 1 0 a
+F 1285 8 0 round, 
+F 1295 3 0 scream
+F 1299 2 0 ing 
+F 1302 2 0 of 
+F 1305 2 0 the 
+F 1308 4 0 ups 
+F 1313 2 0 and 
+F 1316 7 0 downs 
+- 1325
+F 1326 2 0 Pol
+F 1329 1 0 lu
+F 1331 1 0 tion 
+F 1333 3 0 ma
+F 1337 1 0 ni
+F 1339 4 0 fested 
+F 1344 2 0 in 
+F 1347 2 0 per
+F 1350 2 0 pe
+F 1353 1 0 tu
+F 1355 3 0 al 
+F 1359 4 2 sound 
+- 1365
+F 1367 3 0 The 
+F 1371 3 0 wheels 
+F 1375 3 0 go 
+F 1379 7 0 round 
+F 1387 2 0 and 
+F 1390 2 0 the 
+F 1393 2 0 sun
+F 1396 3 0 set 
+F 1400 2 0 creeps 
+- 1404
+F 1405 2 0 Be
+F 1408 3 0 hind 
+F 1412 5 0 street 
+F 1418 6 0 lamps, 
+F 1429 4 0 chain
+F 1434 2 0 link 
+F 1437 3 0 and 
+F 1441 3 0 con
+F 1445 5 0 crete 
+- 1452
+F 1453 2 0 A 
+F 1456 1 0 lit
+F 1458 2 0 tle 
+F 1461 3 0 piece 
+F 1465 1 0 of 
+F 1467 2 0 pa
+F 1470 1 0 per 
+F 1472 1 0 with 
+F 1474 2 0 a 
+F 1477 3 0 pic
+F 1481 3 0 ture 
+F 1485 6 0 drawn 
+- 1493
+F 1494 2 0 Floats 
+F 1497 6 0 on 
+F 1504 2 0 down 
+F 1507 2 0 the 
+F 1510 3 0 street 
+F 1515 2 0 till 
+F 1518 3 0 the 
+F 1522 3 0 wind 
+F 1526 2 0 is 
+F 1529 3 0 gone 
+- 1534
+F 1535 2 0 And 
+F 1538 2 0 the 
+F 1541 1 0 me
+F 1543 1 0 mo
+F 1545 2 0 ry 
+F 1548 5 0 now 
+F 1554 1 0 is 
+F 1556 2 0 like 
+F 1559 2 0 the 
+F 1562 2 0 pic
+F 1565 2 0 ture 
+F 1568 4 0 was 
+F 1573 2 0 then 
+- 1577
+F 1578 2 0 When 
+F 1581 1 0 the 
+F 1583 2 0 pa
+F 1586 2 0 per’s 
+F 1589 2 0 crum
+F 1592 1 0 pled 
+F 1594 2 0 up 
+F 1597 1 0 it 
+F 1599 2 0 can’t 
+F 1602 3 0 be 
+F 1606 3 0 per
+F 1610 2 0 fect 
+F 1613 3 0 a
+F 1617 1 0 gain 
+- 1620
+: 1621 2 9 From 
+: 1624 1 4 the 
+: 1626 2 9 top
+: 1629 2 6 ~ 
+: 1632 1 4 to 
+: 1634 2 3 the 
+: 1637 3 9 bot
+: 1641 1 1 tom 
+F 1643 1 0 bot
+F 1645 2 0 tom 
+F 1648 1 0 to 
+F 1650 4 0 top 
+F 1655 3 0 I 
+F 1659 1 0 stop 
+- 1662
+: 1663 2 9 At 
+: 1666 1 5 the 
+: 1668 1 8 co
+: 1670 3 3 re 
+: 1674 2 3 I’ve 
+: 1677 2 4 for
+: 1680 4 8 gotten 
+F 1685 2 0 in 
+F 1688 1 0 the 
+F 1690 2 0 mid
+F 1693 2 0 dle 
+F 1696 1 0 of 
+F 1698 2 0 my 
+F 1701 1 0 thoughts 
+- 1704
+: 1705 2 8 Ta
+: 1708 3 4 ken 
+: 1712 4 8 far 
+: 1717 2 4 from 
+: 1720 2 4 my 
+: 1723 3 8 safe
+: 1727 2 3 ty 
+F 1730 2 0 the 
+F 1733 3 0 pic
+F 1737 4 0 ture is 
+F 1742 6 0 there 
+- 1750
+: 1751 2 6 The 
+: 1754 2 8 me
+: 1757 1 4 mory 
+: 1759 1 8 won’t 
+: 1761 3 4 es
+: 1765 4 11 cape 
+: 1770 3 5 me 
+F 1774 1 0 but 
+F 1776 3 0 why 
+F 1780 2 0 should 
+F 1783 2 0 I 
+F 1786 2 0 care? 
+- 1790
+: 1791 2 9 From 
+: 1794 2 4 the 
+: 1797 2 9 top
+: 1800 1 7 ~ 
+: 1802 1 4 to 
+: 1804 3 3 the 
+: 1808 2 9 bot
+: 1811 1 1 tom 
+F 1813 2 0 bot
+F 1816 1 0 tom 
+F 1818 2 0 to 
+F 1821 4 0 top 
+F 1826 3 0 I 
+F 1830 1 0 stop 
+- 1833
+: 1834 2 9 At 
+: 1837 2 5 the 
+: 1840 1 8 co
+: 1842 2 3 re 
+: 1845 1 3 I’ve 
+: 1847 3 4 for
+: 1851 4 8 gotten 
+F 1856 1 0 in 
+F 1858 1 0 the 
+F 1860 2 0 mid
+F 1863 2 0 dle 
+F 1866 1 0 of 
+F 1868 3 0 my 
+F 1872 2 0 thoughts 
+- 1876
+: 1877 2 8 Ta
+: 1880 2 4 ken 
+: 1883 4 8 far 
+: 1888 1 4 from 
+: 1890 2 4 my 
+: 1894 3 8 safe
+: 1898 1 3 ty 
+F 1900 2 0 the 
+F 1903 4 0 pic
+F 1908 3 0 ture is 
+F 1912 5 0 there 
+- 1919
+: 1922 2 6 The 
+: 1925 2 8 me
+: 1928 1 4 mory 
+: 1930 1 8 won’t 
+: 1932 3 4 es
+: 1936 3 9 cape 
+: 1940 3 5 me 
+F 1944 1 0 but 
+F 1946 4 0 why 
+F 1951 1 0 should 
+F 1953 3 0 I 
+F 1957 11 0 care? 
+- 1970
+: 1978 5 3 In 
+: 1984 4 3 the 
+: 1989 4 3 me
+: 1994 4 1 mory 
+: 1999 5 -1 you’ll 
+: 2005 11 1 find 
+: 2017 3 1 me
+: 2021 39 3 ~ 
+- 2062
+: 2064 9 3 Eyes 
+: 2074 4 6 bur
+: 2079 5 8 ning
+: 2085 4 6 ~ 
+: 2090 46 6 up 
+- 2138
+: 2143 5 3 The 
+: 2149 4 3 dark
+: 2154 5 3 ness 
+: 2160 4 6 hol
+: 2165 4 3 ding 
+: 2170 4 3 me 
+* 2175 11 1 tight
+* 2187 4 1 ly
+* 2192 31 3 ~ 
+- 2225
+: 2227 6 -1 Un
+: 2234 4 -1 til 
+: 2239 4 -1 the 
+: 2244 12 -2 sun 
+: 2265 5 -1 ri
+* 2271 5 -1 ses
+* 2277 5 1 ~ 
+: 2283 4 -1 up
+: 2288 11 -2 ~
+: 2300 4 -3 ~
+: 2305 13 -4 ~ 
+- 2320
+F 2393 1 0 Now 
+F 2395 2 0 you 
+F 2398 2 0 got 
+F 2401 2 0 me 
+F 2404 4 0 caught 
+F 2409 1 0 in 
+F 2411 1 0 the 
+F 2413 1 0 act 
+- 2415
+F 2416 3 0 You 
+F 2420 2 0 bring 
+F 2423 1 0 the 
+F 2425 5 0 thought 
+F 2431 6 0 back 
+- 2439
+F 2442 1 0 I’m tel
+F 2444 1 0 ling 
+F 2446 3 0 you 
+F 2450 1 0 that 
+- 2453
+F 2454 2 0 I 
+F 2457 2 0 see 
+F 2460 2 0 it 
+F 2463 4 0 right 
+F 2468 4 0 through 
+F 2473 2 0 you 
+- 2477
+F 2478 3 0 Now 
+F 2482 1 0 you 
+F 2484 2 0 got 
+F 2487 2 0 me 
+F 2490 3 0 caught 
+F 2494 4 0 in the 
+F 2499 1 0 act 
+- 2502
+: 2503 2 12 You 
+: 2506 1 14 bring 
+: 2508 2 14 the 
+: 2511 5 14 thought 
+: 2517 9 14 back 
+- 2528
+: 2539 3 14 I 
+: 2544 1 14 see 
+: 2546 2 14 it 
+: 2549 3 14 right 
+: 2553 4 14 through 
+: 2558 10 14 you 
+- 2570
+F 2571 1 0 ...Got 
+F 2573 1 0 me 
+F 2575 3 0 caught 
+F 2579 4 0 in the 
+F 2584 1 0 act 
+- 2586
+* 2587 2 12 You 
+* 2590 2 14 bring 
+* 2593 2 14 the 
+* 2596 4 14 thought 
+* 2601 10 14 back 
+- 2613
+: 2650 2 1 Uh
+: 2653 77 3 ~ 
+- 2732
+: 2735 31 3 Uh
+: 2767 5 6 ~
+: 2773 38 3 ~ 
+- 2813
+: 2819 81 3 Uh 
+- 2902
+: 2905 31 3 Uh
+* 2937 6 6 ~
+: 2944 15 3 ~
+* 2960 4 6 ~
+: 2965 29 3 ~ 
+- 2996
+: 3001 5 3 In 
+: 3007 4 3 the 
+: 3012 5 3 me
+: 3018 4 1 mory 
+: 3023 4 -1 you’ll 
+: 3028 10 1 find 
+: 3039 4 1 me
+: 3044 41 3 ~ 
+- 3087
+: 3088 8 3 Eyes 
+: 3097 5 6 bur
+: 3103 4 8 ning
+: 3108 5 6 ~ 
+: 3114 44 6 up 
+- 3160
+: 3167 4 3 The 
+: 3172 5 3 dark
+: 3178 4 3 ness 
+: 3183 4 6 hol
+: 3188 4 3 ding 
+: 3193 4 3 me 
+: 3198 11 0 tight
+: 3210 5 0 ly
+: 3216 32 3 ~ 
+- 3250
+: 3252 4 3 Un
+: 3257 4 3 til 
+: 3262 4 3 the 
+: 3268 16 1 sun 
+: 3289 5 1 ri
+: 3295 5 1 ses
+: 3301 4 3 ~ 
+: 3306 18 1 up
+: 3325 7 -1 ~ 
+- 3334
+: 3343 5 3 In 
+: 3349 3 3 the 
+: 3353 4 3 me
+: 3358 18 1 mory 
+: 3386 8 3 you’ll 
+: 3395 6 3 find 
+: 3402 18 1 me 
+- 3422
+: 3428 9 3 Eyes 
+: 3438 5 6 bur
+: 3444 4 8 ning
+: 3449 4 6 ~ 
+: 3455 45 6 up 
+- 3502
+: 3507 5 3 The 
+: 3513 5 3 dark
+: 3519 4 3 ness 
+: 3524 3 6 hol
+: 3528 5 3 ding 
+: 3534 4 3 me 
+: 3539 10 1 tight
+: 3550 6 1 ly
+: 3557 31 3 ~ 
+- 3590
+: 3593 5 -1 Un
+: 3599 4 -1 til 
+: 3604 2 -1 the 
+: 3608 12 -2 sun 
+: 3630 5 -1 ri
+: 3636 4 -1 ses
+: 3641 6 1 ~ 
+: 3648 49 -1 up 
+E

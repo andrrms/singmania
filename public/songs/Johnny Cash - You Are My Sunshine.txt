@@ -1,0 +1,195 @@
+#ARTIST:Johnny Cash
+#TITLE:You Are My Sunshine
+#MP3:Johnny Cash - You Are My Sunshine.mp3
+#CREATOR:Loewy159
+#COVER:Johnny Cash - You Are My Sunshine [CO].jpg
+#BACKGROUND:Johnny Cash - You Are My Sunshine [BG].jpg
+#GENRE:Country
+#YEAR:2003
+#LANGUAGE:English
+#BPM:362
+#GAP:27250
+#VIDEO:a=5AtvXdmPe3A,co=unearthed-57dc9773f1ab6.jpg,bg=cash-johnny-6592daed478ac.jpg,preview=51.78,medley=0-1143
+#END:155000
+: 0 8 4 The 
+: 9 4 9 o
+: 14 7 11 ther 
+: 22 14 13 night 
+: 40 11 13 dear, 
+: 69 5 13 as 
+: 75 4 13 I 
+: 83 4 13 lay
+: 88 4 11 ~ 
+: 97 11 9 slee
+: 111 9 9 ping 
+- 130
+: 140 8 9 I 
+: 152 9 11 dreamed 
+: 163 7 13 I 
+: 172 13 14 held 
+: 187 4 16 you
+: 192 8 18 ~ 
+: 209 7 18 i
+: 217 9 14 ~n 
+: 228 9 14 my
+: 238 4 11 ~ 
+: 247 15 13 arms 
+- 272
+: 292 4 9 When 
+: 298 12 11 I 
+: 312 6 13 a
+: 320 12 14 woke, 
+: 337 6 16 dea
+: 344 9 18 ~r, 
+: 366 7 18 I 
+: 375 7 16 was 
+: 384 7 14 mis
+: 397 7 13 ta
+: 405 7 11 ~
+: 415 9 9 ken 
+- 434
+: 455 3 9 So 
+: 460 5 11 I 
+: 468 7 11 bow
+: 476 8 13 ~ed 
+: 498 8 13 my 
+: 508 10 11 head 
+: 532 3 11 and 
+: 537 3 13 I 
+: 545 11 9 cried 
+- 566
+: 592 6 9 You 
+: 599 6 9 are 
+: 607 8 11 my 
+* 619 14 13 sun 
+* 636 17 13 shine, 
+: 666 7 13 my 
+: 674 9 11 on
+: 684 6 13 ly 
+: 694 12 9 sun
+: 708 16 9 shine 
+- 733
+: 737 9 9 You 
+: 747 5 11 make 
+: 755 10 13 me 
+* 767 5 14 hap
+* 774 4 16 py
+* 779 8 18 ~ 
+: 806 8 18 when 
+: 822 6 16 skie
+: 829 3 14 ~s
+: 836 4 14 are 
+: 842 20 13 gray 
+- 872
+: 885 10 9 You’ll 
+: 897 5 11 ne
+: 903 5 13 ver 
+: 912 15 14 know, 
+: 931 8 16 dea
+: 940 8 18 ~r, 
+: 959 7 18 how 
+: 968 4 16 much 
+: 974 8 14 I
+: 983 4 11 ~ 
+: 989 7 13 lo
+: 997 6 11 ~ve 
+: 1006 11 9 you 
+- 1027
+: 1042 8 9 Please 
+: 1052 6 11 don’t 
+: 1062 7 13 take 
+: 1087 9 13 my 
+: 1099 14 11 sun
+: 1118 12 11 shine 
+: 1131 3 13 a
+: 1137 6 9 way 
+- 1191
+: 1770 6 9 I’ve 
+: 1777 6 9 al
+: 1786 8 11 ways 
+: 1800 6 11 lo
+: 1807 6 13 ~ved 
+: 1816 13 13 you 
+: 1843 8 13 and 
+: 1853 7 11 made 
+: 1862 6 13 you 
+: 1872 4 9 ha
+: 1878 10 9 ppy 
+- 1898
+: 1916 8 9 And 
+: 1925 5 11 no
+: 1932 8 13 thing 
+: 1942 11 14 else 
+: 1969 8 18 could 
+: 1981 17 16 come 
+: 2000 9 14 be
+: 2010 5 11 ~
+: 2018 23 13 tween 
+- 2051
+: 2063 4 9 But 
+: 2069 8 11 now 
+: 2079 9 13 you’ve 
+: 2091 7 14 left 
+: 2101 5 16 me
+: 2107 5 18 ~ 
+: 2136 7 14 to 
+: 2145 10 16 love 
+: 2157 4 14 a
+: 2162 4 13 no
+: 2169 9 9 ther 
+- 2188
+: 2217 4 9 You 
+: 2223 5 11 have 
+: 2234 27 13 sha
+: 2262 3 13 ttered 
+: 2268 11 11 all 
+: 2295 4 11 of 
+: 2301 4 13 my
+: 2306 5 11 ~ 
+: 2316 17 9 dreams 
+- 2343
+: 2353 6 9 You 
+: 2360 6 9 are 
+: 2368 8 11 my 
+: 2380 14 13 sun
+: 2397 17 13 shine, 
+: 2427 7 13 my 
+: 2435 9 13 on
+: 2445 6 13 ly 
+: 2454 12 9 sun
+: 2469 15 9 shine 
+- 2494
+: 2498 9 9 You 
+: 2509 5 11 make 
+: 2518 7 13 me 
+: 2528 12 14 hap
+: 2542 5 16 py
+: 2548 5 18 ~ 
+: 2569 7 18 when 
+: 2581 6 16 skies
+: 2588 6 14 ~s 
+: 2596 4 14 are 
+* 2603 19 13 gray 
+- 2632
+: 2644 10 9 You’ll 
+: 2656 4 11 ne
+: 2661 6 13 ver 
+: 2670 16 14 know, 
+: 2689 5 16 dea
+: 2695 12 18 ~r, 
+: 2718 7 18 how 
+: 2727 4 16 much 
+* 2733 13 14 I 
+* 2748 7 13 lo
+* 2756 6 11 ~ve 
+* 2765 11 9 you 
+- 2786
+: 2796 8 9 Please 
+: 2808 6 11 don’t 
+: 2817 7 13 take 
+: 2845 8 13 my 
+: 2856 17 11 sun
+: 2878 14 11 shine 
+: 2899 5 13 a
+: 2907 28 9 way 
+E

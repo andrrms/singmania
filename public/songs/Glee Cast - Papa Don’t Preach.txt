@@ -1,0 +1,171 @@
+#ARTIST:Glee Cast
+#TITLE:Papa Don’t Preach
+#MP3:Glee Cast - Papa Don’t Preach.mp3
+#CREATOR:ultrastarsongs
+#GENRE:Pop
+#YEAR:2009
+#LANGUAGE:English
+#BPM:246.29
+#GAP:5980
+#VIDEO:v=Juki0a1l1cw,co=https://gleethecovers.files.wordpress.com/2011/02/s01e11-02-papa-dont-preach-04.jpg
+: 0 3 0 Pa
+: 4 3 0 pa 
+: 8 2 0 I 
+: 12 5 0 know 
+: 20 6 3 you’re 
+: 28 6 1 going 
+: 36 6 0 to 
+: 45 6 -2 be 
+: 53 2 0 up
+: 57 6 0 set 
+- 65
+: 77 2 0 ’Cause 
+: 80 3 0 I 
+: 84 6 3 was 
+: 93 6 5 al
+: 102 6 0 ways 
+: 110 3 -4 your 
+: 114 2 -2 lit
+: 117 3 -2 tle 
+: 122 7 -4 girl 
+- 131
+: 140 3 0 But 
+: 144 3 0 you 
+: 148 7 3 should 
+: 158 5 1 know 
+: 166 5 0 by 
+: 173 7 -2 now 
+- 182
+: 194 3 -4 I’m 
+: 198 3 -2 not 
+: 203 3 0 a 
+: 207 5 -2 ba
+: 214 10 -4 by 
+- 226
+: 271 3 0 You 
+: 275 3 0 al
+: 279 6 3 ways 
+: 287 6 1 taught 
+: 295 6 0 me 
+: 303 6 -2 right 
+: 312 2 0 from 
+: 315 8 0 wrong 
+- 325
+: 335 3 0 I 
+: 339 4 0 need 
+: 344 5 3 your 
+* 351 6 5 help, 
+: 359 7 0 dad
+: 368 2 -4 dy 
+: 372 3 -2 please 
+: 376 2 -2 be 
+: 380 8 -4 strong 
+- 390
+: 401 2 0 I 
+: 404 3 0 may 
+: 409 6 3 be 
+: 417 6 1 young 
+: 425 5 0 at 
+: 432 6 -2 heart 
+- 440
+: 444 3 -7 But 
+: 448 3 -7 I 
+: 453 3 -4 know 
+: 457 2 -2 what 
+: 461 2 0 I’m 
+: 466 5 -2 sa
+: 473 9 -4 ying 
+- 484
+: 530 3 5 The 
+: 534 3 5 one 
+: 538 6 8 you 
+* 546 6 10 warned 
+: 554 6 7 me 
+: 562 6 3 all 
+: 571 2 5 a
+: 575 8 5 bout 
+- 585
+: 595 2 5 The 
+: 598 3 5 one 
+* 602 6 12 you 
+: 610 6 10 said 
+: 618 6 7 I 
+: 627 2 3 could 
+: 631 2 3 do 
+: 635 3 5 with
+: 639 8 5 out 
+- 649
+: 662 3 5 We’re 
+: 667 3 7 in 
+: 671 3 8 an 
+: 675 5 10 aw
+: 682 5 7 ful 
+: 691 3 5 mess
+: 695 5 3 ~ 
+- 702
+: 704 3 0 And 
+: 708 2 0 I 
+: 712 3 5 don’t
+: 716 3 7 ~ 
+: 720 3 8 mean 
+: 725 6 7 may
+: 733 14 5 be 
+- 749
+* 757 2 8 Please
+: 760 12 7 ~ 
+- 774
+: 775 3 8 Pa
+: 780 3 8 pa 
+: 784 5 7 don’t 
+: 791 9 5 preach 
+- 802
+: 808 3 8 I’m 
+: 813 5 7 in 
+: 820 6 3 trou
+: 828 3 5 ble 
+: 833 4 5 deep 
+- 839
+: 840 3 8 Pa
+: 845 3 8 pa 
+: 849 5 7 don’t 
+: 856 8 5 preach 
+- 866
+: 873 3 8 I’ve 
+: 877 5 7 been 
+: 885 5 3 lo
+: 893 3 5 sing 
+: 897 8 5 sleep 
+- 907
+: 913 3 5 But 
+: 918 2 5 I 
+* 923 3 12 made 
+: 927 2 12 up 
+: 930 2 12 my 
+: 934 9 10 mind 
+- 945
+: 950 3 11 I’m
+: 954 12 10 ~ 
+- 968
+: 969 3 8 Kee
+: 974 2 10 ping 
+: 979 3 12 my 
+: 983 6 10 ba
+: 990 11 8 by, 
+- 1003
+* 1010 4 8 Oh
+* 1015 5 7 ~ 
+- 1022
+: 1023 3 0 I’m 
+: 1027 2 3 gon
+: 1030 3 3 na 
+: 1035 3 5 keep
+: 1040 2 0 ~ 
+: 1044 3 0 my 
+: 1048 5 3 ba
+: 1055 3 5 by 
+- 1060
+: 1061 2 3 Mmmh
+: 1064 3 8 ~
+* 1068 18 7 ~
+: 1087 10 8 ~ 
+E

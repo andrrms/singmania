@@ -1,0 +1,445 @@
+#ARTIST:Eliza Doolittle
+#TITLE:Pack Up
+#MP3:Eliza Doolittle - Pack Up.mp3
+#CREATOR:belgium2
+#GENRE:Pop
+#YEAR:2010
+#LANGUAGE:English
+#BPM:278.51
+#GAP:14050
+#VIDEO:v=fPt-hkcvoJ0,co=https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/72/f0/cb72f00e-0891-0f51-c965-7005a256f204/5099990959356.jpg/5000x5000bb.jpg,bg=eliza-doolittle-4e4ab00b57a7a.jpg
+: 0 2 8 I 
+: 3 2 11 get 
+: 7 5 15 ti
+: 13 2 15 red, 
+: 31 2 11 and 
+: 34 2 13 up
+: 42 3 8 set 
+- 47
+: 63 2 6 And 
+: 67 2 8 I’m 
+: 73 8 13 trying 
+: 90 3 11 to 
+: 94 3 13 care 
+: 98 3 11 a 
+: 102 3 13 lit
+: 107 6 15 tle 
+: 116 4 6 less 
+- 122
+: 131 3 6 When 
+: 135 2 8 I 
+: 140 4 13 goo
+: 146 3 13 gle 
+: 154 4 11 I 
+: 159 2 13 on
+: 163 2 11 ly 
+: 167 4 13 get 
+: 173 4 15 de
+: 180 4 6 pressed 
+- 186
+: 195 2 8 I 
+: 198 2 6 was 
+: 201 2 8 taught 
+: 204 2 6 to 
+: 207 6 15 dodge 
+: 216 4 10 those 
+: 223 6 8 is
+: 231 5 15 sues, 
+: 240 3 13 I 
+: 247 3 10 was 
+: 257 3 6 told 
+- 262
+: 266 4 11 Don’t 
+: 274 3 15 wor
+: 278 4 15 ry, 
+: 294 3 10 there’s 
+: 298 3 13 no 
+: 306 3 8 doubt 
+- 311
+: 327 3 6 There’s 
+: 331 2 8 al
+: 334 3 11 ways 
+: 339 5 13 some
+: 345 3 13 thing 
+: 352 3 11 to 
+: 357 3 13 cry 
+: 363 5 15 a
+: 371 3 8 bout 
+- 376
+: 397 3 6 When 
+: 403 2 8 you’re 
+: 407 2 11 stuck 
+: 412 3 13 in 
+: 419 2 13 an 
+: 423 4 13 an
+: 429 2 15 gry 
+: 435 7 0 crowd 
+- 444
+: 459 3 8 They 
+: 463 3 6 don’t 
+: 471 3 13 think 
+: 477 1 13 what 
+: 479 2 13 they 
+: 483 6 13 say 
+: 494 1 11 be
+: 496 3 13 fore 
+: 501 3 11 they 
+: 505 2 14 o
+: 508 3 13 pen 
+: 512 3 14 their 
+: 517 5 13 mouth, 
+: 527 2 11 you 
+: 530 2 13 got
+: 533 2 11 ta 
+- 537
+* 539 3 11 Pack 
+* 543 3 11 up 
+: 551 2 8 your 
+: 554 3 11 troubles 
+: 559 3 11 in 
+: 563 6 8 your 
+: 571 3 11 old 
+: 579 3 8 knit 
+: 587 4 6 bag 
+- 593
+* 595 4 8 And 
+* 603 3 3 bu
+* 607 3 1 ry 
+* 611 3 -1 them 
+* 618 2 -4 be
+* 621 5 -1 neath 
+* 628 3 3 the 
+* 634 3 3 sea 
+- 639
+: 670 4 11 I 
+: 677 4 8 don’t 
+: 686 4 6 care 
+: 695 3 8 what 
+: 700 2 6 the 
+: 703 2 11 peo
+: 707 2 6 ple 
+: 711 3 8 may 
+: 717 4 6 say 
+- 723
+: 728 3 8 What 
+: 733 3 6 the 
+: 737 2 11 peo
+: 740 2 6 ple 
+: 744 3 8 may 
+: 750 3 3 say 
+: 759 2 6 a
+: 762 2 2 bout 
+: 767 3 2 me. 
+- 772
+: 802 3 11 Pack 
+: 806 3 11 up 
+: 814 2 8 your 
+: 817 3 11 troubles 
+: 822 3 11 get 
+: 826 6 8 your 
+: 834 3 11 old 
+: 842 3 8 grin 
+: 850 4 6 back 
+- 856
+: 860 4 8 Don’t 
+: 868 2 3 wor
+: 871 3 1 ry 
+: 875 1 -1 a
+: 877 2 -4 bout 
+: 880 3 -1 the 
+: 884 3 3 ca
+: 891 3 3 val
+: 899 4 0 ry 
+- 905
+: 934 4 11 I 
+: 941 4 8 don’t 
+: 950 4 6 care 
+: 959 3 8 what 
+: 964 2 6 the 
+: 967 2 11 whis
+: 971 2 6 pe
+: 975 3 8 rers 
+: 981 4 6 say 
+- 987
+: 991 3 8 Cause 
+: 996 3 6 they 
+: 1000 2 11 whis
+: 1003 3 6 per 
+: 1007 3 8 too 
+: 1015 3 3 loud 
+: 1022 2 6 for 
+: 1029 8 2 me 
+- 1039
+: 1056 2 8 A 
+: 1059 3 11 hot 
+* 1067 3 15 to
+* 1072 3 15 pic, 
+- 1077
+: 1115 2 15 May
+: 1118 3 13 be 
+: 1123 3 11 I 
+: 1128 4 8 should 
+* 1149 3 13 drop 
+* 1154 3 13 it, 
+- 1159
+: 1182 2 15 It’s 
+: 1186 2 13 a 
+: 1191 3 11 tou
+: 1195 3 8 chy 
+: 1216 3 13 sub
+: 1220 3 13 ject, 
+- 1225
+: 1248 2 15 And 
+: 1254 2 13 I 
+: 1257 2 11 like 
+: 1262 2 8 to 
+: 1265 3 15 tip
+: 1274 5 13 toe 
+: 1283 3 8 ’round 
+: 1290 3 15 the 
+: 1299 3 14 s**t 
+: 1309 1 8 go
+: 1311 2 6 ing 
+: 1314 3 8 down, 
+- 1318
+: 1319 3 8 You 
+: 1323 3 11 got 
+: 1331 3 15 pen
+: 1335 3 15 ny, 
+: 1353 3 11 no 
+: 1363 3 8 pound 
+- 1368
+: 1383 3 6 So 
+: 1387 3 8 if 
+: 1391 3 11 your 
+: 1395 3 13 busi
+: 1399 3 13 ness 
+: 1407 3 11 is 
+: 1412 2 13 run
+: 1418 3 15 ning 
+: 1425 3 8 out 
+- 1430
+: 1451 1 6 It’s 
+: 1453 3 8 not 
+: 1457 2 11 my 
+: 1461 4 13 busi
+: 1466 3 13 ness 
+: 1475 3 11 to 
+: 1479 3 13 talk 
+: 1487 3 15 a
+: 1495 3 8 bout 
+- 1500
+: 1517 3 8 They 
+: 1523 3 6 don’t 
+: 1529 3 13 think 
+: 1535 1 13 what 
+: 1537 2 13 they 
+: 1541 6 13 say 
+: 1550 1 11 be
+: 1552 3 13 fore 
+: 1557 3 11 they 
+: 1561 2 14 o
+: 1564 3 13 pen 
+: 1568 3 14 their 
+: 1573 5 13 mouth, 
+: 1584 2 11 you 
+: 1588 2 13 got
+: 1591 2 11 ta 
+- 1594
+: 1595 3 11 Pack 
+: 1599 3 11 up 
+: 1607 2 8 your 
+: 1610 3 11 troubles 
+: 1615 3 11 in 
+: 1619 6 8 your 
+: 1627 3 11 old 
+: 1635 3 8 knit 
+: 1643 4 6 bag 
+- 1649
+: 1651 4 8 And 
+: 1659 3 3 bu
+: 1663 3 1 ry 
+: 1667 3 -1 them 
+: 1674 2 -4 be
+: 1677 5 -1 neath 
+: 1684 3 3 the 
+: 1690 3 3 sea 
+- 1695
+: 1727 4 11 I 
+: 1734 4 8 don’t 
+: 1743 4 6 care 
+: 1752 3 8 what 
+: 1757 2 6 the 
+: 1760 2 11 peo
+: 1764 2 6 ple 
+: 1768 3 8 may 
+: 1774 4 6 say 
+- 1780
+: 1783 3 8 What 
+: 1788 3 6 the 
+: 1792 2 11 peo
+: 1795 2 6 ple 
+: 1799 3 8 may 
+: 1805 3 3 say 
+: 1814 2 6 a
+: 1817 2 2 bout 
+: 1823 3 2 me 
+- 1828
+: 1857 3 11 Pack 
+: 1861 3 11 up 
+: 1869 2 8 your 
+: 1872 3 11 troubles 
+: 1879 3 11 get 
+: 1883 6 8 your 
+: 1891 3 11 old 
+: 1899 3 8 grin 
+: 1907 4 6 back 
+- 1913
+: 1917 4 8 Don’t 
+: 1925 2 3 wor
+: 1928 3 1 ry 
+: 1932 1 -1 a
+: 1934 2 -4 bout 
+: 1937 3 -1 the 
+: 1941 3 3 ca
+: 1948 3 3 val
+: 1956 4 0 ry 
+- 1962
+: 1991 4 11 I 
+: 1999 4 8 don’t 
+: 2008 4 6 care 
+: 2017 3 8 what 
+: 2022 2 6 the 
+: 2025 2 11 whis
+: 2029 2 6 pe
+: 2033 3 8 rers 
+: 2039 4 6 say 
+- 2045
+: 2050 3 8 Cause 
+: 2055 3 6 they 
+: 2059 2 11 whis
+: 2062 3 6 per 
+: 2066 3 8 too 
+: 2074 3 3 loud 
+: 2081 2 6 for 
+: 2088 8 2 me 
+- 2098
+F 2131 3 0 Tweet 
+F 2139 3 0 tweet 
+- 2144
+F 2155 3 0 Tweet 
+F 2163 3 0 tweet 
+F 2171 3 0 tweet 
+F 2177 3 0 tweet 
+F 2181 4 0 tweet 
+- 2187
+F 2188 3 0 Tweet 
+F 2195 3 0 tweet 
+F 2203 3 0 tweet 
+- 2208
+F 2231 3 0 Tweet 
+F 2235 3 0 tweet 
+F 2239 3 0 tweet 
+F 2243 3 0 tweet 
+F 2247 3 0 tweet 
+F 2251 3 0 tweet 
+F 2259 3 0 tweet 
+F 2267 3 0 tweet 
+- 2272
+F 2295 2 -8 Tweet 
+F 2301 2 -8 tweet 
+F 2304 2 -8 tweet 
+F 2309 2 -8 tweet 
+F 2313 2 -8 tweet 
+F 2319 2 -8 tweet 
+F 2327 2 -8 tweet 
+F 2335 3 -8 tweet 
+F 2343 3 -8 tweet 
+- 2348
+: 2387 3 11 Pack 
+: 2391 3 11 up 
+: 2399 2 8 your 
+: 2402 3 11 troubles 
+: 2407 3 11 in 
+: 2411 6 8 your 
+: 2419 3 11 old 
+: 2427 3 8 knit 
+: 2435 4 6 bag 
+- 2441
+: 2443 4 8 And 
+: 2451 3 3 bu
+: 2455 3 1 ry 
+: 2459 3 -1 them 
+: 2466 2 -4 be
+: 2469 5 -1 neath 
+: 2476 3 3 the 
+: 2482 3 3 sea 
+- 2487
+: 2520 4 11 I 
+: 2527 4 8 don’t 
+: 2536 4 6 care 
+: 2545 3 8 what 
+: 2550 2 6 the 
+: 2553 2 11 peo
+: 2557 2 6 ple 
+: 2561 3 8 may 
+: 2567 4 6 say 
+- 2573
+: 2576 3 8 What 
+: 2581 3 6 the 
+: 2585 2 11 peo
+: 2588 2 6 ple 
+: 2592 3 8 may 
+: 2598 3 3 say 
+: 2607 2 6 a
+: 2610 2 2 bout 
+: 2619 3 2 me 
+- 2624
+: 2652 3 11 Pack 
+: 2656 3 11 up 
+: 2664 2 8 your 
+: 2667 3 11 troubles 
+: 2674 3 11 get 
+: 2678 6 8 your 
+: 2686 3 11 old 
+: 2694 3 8 grin 
+: 2702 4 6 back 
+- 2707
+: 2707 4 8 Don’t 
+: 2715 2 3 wor
+: 2718 3 1 ry 
+: 2722 1 -1 a
+: 2724 2 -4 bout 
+: 2727 3 -1 the 
+: 2731 3 3 ca
+: 2738 3 3 val
+: 2746 4 0 ry 
+- 2752
+: 2783 4 11 I 
+: 2791 4 8 don’t 
+: 2800 4 6 care 
+: 2809 3 8 what 
+: 2814 2 6 the 
+: 2817 2 11 whis
+: 2821 2 6 pe
+: 2825 3 8 rers 
+: 2831 4 6 say 
+- 2837
+* 2842 3 8 ’Cause 
+* 2847 3 6 they 
+* 2851 2 11 whis
+* 2854 3 6 per 
+* 2858 3 8 too 
+* 2866 3 3 loud 
+* 2873 2 6 for 
+* 2880 8 2 me 
+- 2890
+F 2904 64 0 Yeah yeah yeah 
+- 2970
+F 2991 37 0 Do-do-do-bab-bab-doobie-do 
+- 3030
+F 3035 22 0 Yeah 
+F 3069 34 0 yeah 
+- 3105
+F 3118 82 0 Da-doobie-do-ba-do-do 
+E

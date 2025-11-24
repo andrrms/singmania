@@ -1,0 +1,270 @@
+#ARTIST:Taylor Swift
+#TITLE:I Look In People’s Windows
+#MP3:Taylor Swift - I Look In People’s Windows.mp3
+#CREATOR:taylorsongs
+#COVER:Taylor Swift - I Look In People’s Windows [CO].jpg
+#BACKGROUND:Taylor Swift - I Look In People’s Windows [BG].jpg
+#GENRE:Pop
+#YEAR:2024
+#LANGUAGE:English
+#BPM:400
+#GAP:10560
+#VIDEO:v=6HIA7ouBfGY,co=the-tortured-poets-department-6623ba2286e2d.jpg,preview=42.45,medley=1689-3137
+: 0 6 32 I 
+: 9 4 28 had 
+: 16 7 28 died 
+: 26 4 28 the 
+: 34 5 28 ti
+: 41 4 30 ni
+: 47 3 28 est 
+: 51 12 30 death 
+- 74
+: 78 5 32 I 
+: 86 7 28 spied 
+: 96 5 28 the 
+: 104 5 28 catch 
+: 113 1 30 in 
+: 115 6 30 your 
+: 124 12 30 breath 
+- 139
+* 141 9 28 Out, 
+* 158 11 21 out, 
+* 191 10 20 out, 
+* 209 9 16 out, 
+* 227 10 30 out, 
+* 244 21 28 out 
+- 276
+: 280 7 32 North 
+: 289 8 28 bound 
+: 299 7 28 I 
+: 307 5 28 got 
+: 315 5 30 car
+: 321 5 30 ried 
+: 328 4 30 a
+: 333 14 30 way 
+- 357
+: 368 6 28 As 
+: 378 4 28 you 
+: 383 6 28 boar
+: 390 4 30 ded 
+: 396 5 30 your 
+: 404 12 30 train 
+- 419
+: 421 12 28 South, 
+: 438 12 21 south, 
+: 472 11 20 south, 
+: 489 10 16 south, 
+: 506 12 35 south, 
+: 526 19 28 south 
+- 555
+: 573 3 27 A 
+: 578 11 28 fea
+: 591 4 27 ther 
+: 597 11 28 ta
+: 609 3 27 ken 
+: 615 11 28 by 
+: 628 4 27 the 
+: 634 16 28 wind 
+: 664 9 30 blow
+: 676 22 28 ing 
+- 708
+: 719 12 27 I’m 
+: 733 2 27 a
+: 736 10 28 fflic
+: 748 4 27 ted 
+: 756 9 28 by 
+: 768 4 27 the 
+: 773 11 28 not 
+: 806 11 33 know
+: 819 12 32 ing 
+: 833 6 28 so 
+- 848
+: 852 7 32 I 
+: 861 6 28 look 
+: 869 7 28 in 
+: 878 6 28 peo
+: 886 8 30 ple’s 
+: 896 8 30 win
+: 906 9 32 dows 
+- 919
+: 921 8 32 Trans
+: 931 6 28 fixed 
+: 940 6 28 by 
+: 948 7 28 rose 
+: 957 8 30 gol
+: 966 8 30 den 
+: 976 8 28 glows 
+- 991
+: 994 5 32 They 
+: 1002 6 32 have 
+: 1010 6 28 their 
+: 1017 10 28 friends 
+: 1029 6 30 ov
+: 1037 6 30 er 
+: 1045 4 28 to 
+: 1052 11 27 drink 
+: 1071 10 23 nice 
+: 1089 8 35 wi
+: 1106 17 27 ~
+: 1124 7 25 ne 
+- 1131
+: 1133 7 32 I 
+: 1143 6 28 look 
+: 1151 7 28 in 
+: 1160 6 28 peo
+: 1168 9 30 ple’s 
+: 1178 6 30 win
+: 1186 7 32 dows 
+- 1201
+: 1204 7 32 In 
+: 1212 6 28 case 
+: 1222 6 28 you’re 
+: 1229 6 28 at 
+: 1238 5 30 their 
+: 1246 8 30 ta
+: 1257 8 28 ble 
+- 1271
+: 1274 5 32 What 
+: 1283 4 30 if 
+: 1292 7 28 your 
+: 1300 8 28 eyes 
+: 1311 7 30 looked 
+: 1319 4 30 up 
+: 1326 6 28 and 
+: 1335 8 27 met 
+: 1352 11 23 mine 
+- 1369
+: 1371 9 35 One 
+: 1389 14 27 more 
+: 1406 6 27 ti
+: 1413 4 25 me 
+- 1470
+: 1689 4 32 You 
+: 1695 4 28 had 
+: 1702 8 28 stopped 
+: 1714 5 28 and 
+: 1721 4 28 til
+: 1727 3 30 ted 
+: 1732 4 30 your 
+: 1741 11 30 head 
+- 1761
+: 1765 5 30 I 
+: 1773 7 28 still 
+: 1781 9 28 pon
+: 1791 4 28 der 
+: 1798 4 30 what 
+: 1804 4 30 it 
+: 1811 10 30 meant 
+: 1828 8 28 now, 
+: 1845 10 21 now 
+- 1865
+: 1880 8 20 Now, 
+: 1898 9 16 now, 
+: 1915 8 32 now, 
+: 1933 14 28 now 
+- 1957
+: 1968 6 30 I 
+: 1976 6 28 tried 
+: 1984 7 28 sear
+: 1993 7 28 ching 
+: 2002 4 28 fa
+: 2008 3 30 ces 
+: 2012 4 30 on 
+: 2021 16 30 streets 
+- 2045
+: 2048 7 28 What 
+: 2056 6 28 are 
+: 2066 4 28 the 
+: 2072 5 28 chan
+: 2079 4 30 ces 
+: 2085 5 30 you’d 
+: 2092 14 30 be 
+: 2109 13 28 down
+: 2128 11 21 town 
+- 2149
+: 2160 14 20 Down
+: 2179 9 16 town, 
+: 2195 13 32 down
+: 2214 17 28 town 
+- 2241
+: 2266 12 28 Does 
+: 2280 3 27 it 
+: 2285 12 28 feel 
+: 2298 6 27 al
+: 2305 11 28 right 
+: 2318 3 27 to 
+: 2324 14 28 not 
+: 2355 9 30 know 
+: 2366 20 28 me? 
+- 2396
+* 2406 14 28 I’m 
+* 2422 2 27 a
+* 2426 10 28 ddic
+* 2438 4 27 ted 
+* 2444 11 28 to 
+* 2457 4 27 the 
+* 2464 8 28 ’if 
+* 2493 11 33 o
+* 2507 13 32 nly’ 
+- 2522
+* 2524 7 28 So 
+: 2539 7 28 I 
+: 2549 6 28 look 
+: 2557 7 28 in 
+: 2566 7 28 peo
+: 2575 8 30 ple’s 
+: 2585 6 30 win
+: 2593 9 32 dows 
+- 2608
+: 2610 7 32 Like 
+: 2619 6 28 I’m 
+: 2628 7 28 some 
+: 2637 8 30 de
+: 2646 7 30 ranged 
+: 2655 7 30 weir
+: 2665 9 28 do 
+- 2679
+: 2681 7 32 I 
+: 2690 4 32 a
+: 2697 7 28 ttend 
+: 2707 6 28 Christ
+: 2716 6 30 mas 
+: 2725 8 30 par
+: 2735 4 28 ties 
+: 2743 9 27 from 
+: 2759 10 23 out
+: 2776 11 35 si
+: 2796 15 27 ~
+: 2813 7 25 de 
+- 2820
+: 2822 7 32 I 
+: 2831 6 28 look 
+: 2839 7 28 in 
+: 2848 6 30 peo
+: 2856 8 30 ple’s 
+: 2866 7 30 win
+: 2876 8 32 dows 
+- 2890
+: 2892 6 32 In 
+: 2901 5 32 case 
+: 2911 6 28 you’re 
+: 2918 6 28 at 
+: 2927 6 30 their 
+: 2935 9 30 ta
+: 2946 6 28 ble 
+- 2960
+: 2963 7 32 What 
+: 2972 5 32 if 
+: 2982 6 28 your 
+: 2990 9 30 eyes 
+: 3001 7 30 looked 
+: 3010 6 30 up 
+: 3020 6 28 and 
+: 3029 7 27 met 
+: 3048 13 23 mine 
+- 3067
+* 3069 13 35 One 
+* 3093 21 27 more 
+* 3119 8 27 ti
+* 3129 8 25 me 
+E

@@ -1,0 +1,182 @@
+#ARTIST:The Wiggles
+#TITLE:Getting Strong!
+#MP3:The Wiggles - Getting Strong!.mp3
+#CREATOR:IC
+#EDITION:SingStar The Wiggles
+#GENRE:Children
+#LANGUAGE:English
+#BPM:349.2
+#GAP:4720
+#VIDEO:a=QGC2GImirk4,co=https://www.jbhifi.com.au/cdn/shop/products/643685-Product-0-I-638320026605702350.jpg
+: 0 10 12 Run
+: 12 3 9 ning 
+: 16 3 5 on 
+: 20 6 9 the 
+* 28 6 7 spot 
+- 36
+: 46 4 9 Run, 
+: 52 6 9 run, 
+: 60 6 5 run 
+- 68
+: 126 12 12 Run
+: 140 3 9 ning 
+: 144 3 5 on 
+: 148 4 9 the 
+: 156 4 7 spot 
+- 162
+: 176 2 9 Run, 
+* 180 14 9 run, 
+: 198 4 5 run 
+- 204
+: 242 3 0 Get
+: 246 6 2 ting 
+: 254 8 5 strong 
+- 264
+: 274 3 0 Get
+: 278 5 2 ting 
+: 284 8 5 strong 
+- 294
+: 306 3 0 Get
+: 310 6 2 ting 
+: 318 8 5 strong 
+- 328
+* 338 3 0 Get
+: 342 5 2 ting 
+: 348 8 5 strong 
+- 358
+: 370 3 0 Get
+: 374 4 2 ting 
+: 382 8 5 strong 
+- 392
+: 400 2 9 Get
+: 404 4 9 ting 
+: 412 8 7 strong 
+- 422
+: 432 2 9 Get
+: 436 4 9 ting 
+: 444 8 5 strong 
+- 454
+: 512 10 24 Jump
+: 524 3 21 ing 
+* 528 3 17 up 
+: 532 6 21 and 
+: 540 10 19 down 
+- 552
+: 558 4 21 Jump, 
+: 564 6 21 jump, 
+: 576 6 17 jump 
+- 584
+* 640 10 24 Jump
+: 652 3 21 ing 
+: 656 3 17 up 
+: 660 4 21 and 
+: 668 10 19 down 
+- 680
+: 686 4 21 Jump, 
+: 692 8 21 jump, 
+: 704 6 17 jump 
+- 712
+: 754 3 12 Get
+: 758 6 14 ting 
+: 766 8 17 strong 
+- 776
+: 786 3 12 Get
+: 790 6 14 ting 
+: 798 8 17 strong 
+- 808
+: 818 3 12 Get
+: 822 6 14 ting 
+: 830 8 17 strong 
+- 840
+: 852 3 12 Get
+: 856 5 14 ting 
+: 862 8 17 strong 
+- 872
+: 884 3 12 Get
+: 888 4 14 ting 
+: 896 8 17 strong 
+- 906
+: 912 2 21 Get
+: 916 4 21 ting 
+: 926 8 19 strong 
+- 936
+: 944 2 21 Get
+: 948 4 21 ting 
+: 958 8 17 strong 
+- 968
+: 1024 10 12 Skip
+: 1036 3 9 ping 
+: 1040 3 5 with 
+: 1044 6 9 the 
+* 1052 6 7 rope 
+- 1060
+: 1072 4 9 Skip, 
+: 1078 6 9 skip, 
+: 1088 4 5 skip 
+- 1094
+: 1152 10 12 Skip
+: 1164 3 9 ping 
+: 1168 3 5 with 
+: 1172 4 9 the 
+: 1180 4 7 rope 
+- 1186
+: 1200 2 9 Skip, 
+: 1204 14 9 skip, 
+* 1224 4 5 skip 
+- 1230
+: 1268 3 0 Get
+: 1272 5 2 ting 
+: 1278 8 5 strong 
+- 1288
+: 1300 3 0 Get
+: 1304 5 2 ting 
+* 1310 8 5 strong 
+- 1320
+: 1332 3 0 Get
+: 1336 6 2 ting 
+: 1344 8 5 strong 
+- 1354
+: 1364 3 0 Get
+: 1368 5 2 ting 
+: 1374 8 5 strong 
+- 1384
+: 1396 3 0 Get
+: 1400 4 2 ting 
+: 1408 8 5 strong 
+- 1418
+: 1424 2 9 Get
+* 1428 4 9 ting 
+: 1438 8 7 strong 
+- 1448
+: 1456 2 9 Get
+: 1460 8 9 ting 
+: 1472 8 5 strong 
+- 1482
+: 1524 3 0 Get
+: 1528 6 2 ting 
+: 1536 8 5 strong 
+- 1546
+: 1556 3 0 Get
+: 1560 5 2 ting 
+: 1566 8 5 strong 
+- 1576
+: 1588 3 0 Get
+: 1592 6 2 ting 
+: 1600 8 5 strong 
+- 1610
+: 1620 3 0 Get
+: 1624 3 2 ting 
+: 1628 8 5 strong 
+- 1638
+: 1652 3 0 Get
+: 1656 4 2 ting 
+* 1664 8 5 strong 
+- 1674
+: 1682 2 9 Get
+: 1686 4 9 ting 
+: 1694 8 7 strong 
+- 1704
+: 1714 2 9 Get
+: 1718 16 9 ting 
+: 1738 6 5 strong 
+E

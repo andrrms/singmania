@@ -1,0 +1,237 @@
+#ARTIST:The Alan Parsons Project
+#TITLE:I Wouldn’t Want To Be Like You
+#MP3:The Alan Parsons Project - I Wouldn’t Want To Be Like You.mp3
+#CREATOR:Strummer
+#COVER:The Alan Parsons Project - I Wouldn’t Want To Be Like You [CO].jpg
+#BACKGROUND:The Alan Parsons Project - I Wouldn’t Want To Be Like You [BG].jpg
+#GENRE:Rock
+#YEAR:1977
+#LANGUAGE:English
+#BPM:397.4
+#GAP:58000
+#VIDEO:v=qOwFVowEugQ,co=https://i.discogs.com/Kla5M9SowNy16O1Sw6Ix0GRiXrwbeR7iTVcYoo0b8yg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYw/NzQ4LTE0OTI2Nzg1/NzEtNjk3Ny5qcGVn.jpeg,bg=parsons-alan-project-the-50fb9f5a87408.jpg
+: 0 2 23 If 
+: 4 2 23 I 
+: 8 4 26 had 
+: 18 8 28 mind 
+: 30 6 30 to
+: 38 15 28 ~ 
+- 55
+: 124 2 23 I 
+: 128 1 23 woul
+: 130 2 23 dn’t 
+: 136 1 26 wan
+: 138 2 26 na 
+: 144 4 28 think 
+: 150 10 26 like 
+: 164 15 23 you. 
+- 181
+: 249 2 23 And 
+: 253 1 23 if 
+: 256 1 23 I 
+: 260 3 26 had 
+: 268 14 28 time
+: 283 2 26 ~ 
+: 291 5 30 to
+: 297 17 28 ~ 
+- 316
+: 375 1 23 I 
+: 380 1 23 woul
+: 382 2 23 dn’t 
+: 387 1 26 wan
+: 389 2 26 na 
+: 395 4 28 talk 
+: 403 1 26 to 
+: 407 12 23 you. 
+- 421
+* 442 6 23 Oh 
+* 450 9 30 oh 
+* 463 19 28 oh 
+- 484
+: 506 3 30 I 
+: 510 3 30 don’t 
+: 517 6 28 care
+: 524 5 26 ~
+: 530 16 23 ~ 
+- 548
+: 569 2 30 What 
+: 575 2 30 you 
+: 580 28 28 do 
+- 610
+: 629 2 21 I 
+: 633 1 23 woul
+: 635 2 23 dn’t 
+: 641 1 26 want 
+: 643 2 26 to 
+: 648 7 28 be 
+: 656 4 26 like 
+: 664 10 23 you. 
+- 676
+: 689 8 23 Yeah 
+: 698 3 21 eah 
+: 702 2 26 eah. 
+- 706
+: 760 2 23 If 
+: 763 1 23 I 
+: 766 3 26 was 
+: 775 8 28 high-
+: 789 26 28 class 
+- 817
+: 883 2 21 I 
+: 887 1 23 woul
+: 889 2 23 dn’t 
+: 894 3 26 need 
+: 898 1 26 a 
+: 901 3 28 buck 
+: 909 1 26 to 
+: 913 25 23 pass. 
+- 940
+: 1009 2 21 And 
+: 1013 2 23 if 
+: 1016 1 23 I 
+: 1020 1 26 was 
+: 1022 1 26 a 
+: 1027 9 28 fall 
+: 1039 8 30 guy
+: 1048 24 28 ~ 
+- 1074
+* 1129 1 21 I 
+* 1132 1 23 woul
+* 1134 2 21 dn’t 
+* 1139 3 23 need 
+* 1147 4 21 no 
+* 1155 4 23 al
+* 1162 2 21 i
+* 1168 3 17 bi
+* 1172 7 16 ~
+* 1180 4 14 ~
+* 1188 20 23 ~ 
+- 1210
+: 1267 2 30 I 
+: 1271 3 30 don’t 
+: 1279 9 28 care
+: 1289 16 26 ~ 
+- 1307
+: 1330 2 30 What 
+: 1337 1 26 you 
+: 1343 24 28 do 
+- 1369
+: 1391 1 21 I 
+: 1394 1 23 woul
+: 1396 2 23 dn’t 
+: 1401 3 26 want 
+: 1405 1 26 to 
+: 1409 4 28 be 
+: 1416 4 26 like 
+: 1424 22 23 you. 
+- 1448
+* 1468 26 23 Oh 
+* 1495 13 26 oh 
+* 1509 21 30 oh. 
+- 1532
+: 2275 3 33 Back 
+: 2279 3 33 on 
+: 2285 1 33 the 
+: 2290 7 30 bot
+: 2300 3 29 tom 
+: 2305 42 28 line 
+- 2349
+: 2384 2 33 Dig
+: 2391 2 30 gin’ 
+: 2398 11 28 for 
+: 2411 2 26 a 
+: 2415 4 30 lous
+: 2423 4 28 y 
+: 2431 6 28 dime
+: 2438 22 26 ~ 
+- 2462
+: 2466 4 23 Yeah
+: 2471 2 21 ~ 
+: 2474 2 23 eah
+: 2478 9 26 ~ 
+- 2489
+: 2530 2 23 If 
+: 2533 2 23 I 
+: 2536 3 26 hit 
+: 2545 5 30 mo
+: 2552 4 28 ther 
+: 2557 6 30 lode
+: 2564 17 28 ~ 
+: 2585 3 26 oh
+: 2590 23 28 ~ 
+- 2615
+: 2638 1 23 I’d 
+: 2641 2 30 co
+: 2644 6 30 ver 
+: 2654 4 28 a
+: 2661 3 28 ny
+: 2669 9 26 thing 
+: 2679 3 30 that 
+: 2687 7 28 showed
+: 2695 16 26 ~ 
+- 2713
+: 2722 7 23 Oh 
+: 2730 6 30 oh 
+: 2737 32 28 oh 
+- 2771
+: 2786 3 30 I 
+: 2790 3 30 don’t 
+: 2798 11 28 care
+: 2810 22 26 ~ 
+- 2834
+: 2850 2 30 What 
+: 2856 2 30 you 
+: 2862 30 28 do 
+- 2894
+: 2909 2 21 I 
+: 2914 1 23 woul
+: 2916 2 23 dn’t 
+: 2922 1 26 want 
+: 2924 2 26 to 
+: 2930 4 28 be 
+: 2938 4 26 like 
+: 2946 15 23 you. 
+- 2963
+* 2978 7 23 Oh 
+* 2986 6 30 oh 
+* 2993 24 28 oh 
+- 3019
+: 3042 2 30 I 
+: 3046 2 30 don’t 
+: 3054 13 28 care
+: 3068 18 26 ~ 
+- 3088
+: 3106 2 30 What 
+: 3112 2 30 you 
+: 3117 33 28 do 
+- 3152
+F 3168 1 21 I 
+F 3170 3 23 woul
+F 3174 3 23 dn’t 
+F 3178 3 23 wan
+F 3182 3 23 na 
+- 3187
+F 3233 1 9 I 
+F 3235 2 11 woul
+F 3238 3 11 dn’t 
+F 3242 3 13 want 
+F 3246 3 13 to 
+F 3251 41 15 be 
+F 3299 7 13 like 
+F 3311 10 17 you 
+- 3323
+R 3352 3 17 I 
+R 3360 3 16 woul
+R 3368 3 16 dn’t 
+R 3376 4 14 want 
+R 3384 4 16 to 
+R 3393 3 16 be 
+R 3401 3 11 like 
+R 3409 31 11 you 
+- 3442
+F 3481 5 21 Hey
+F 3487 11 23 ~ 
+F 3542 24 14 hmmm 
+F 3605 29 23 hey 
+F 3660 72 35 oh. 
+E

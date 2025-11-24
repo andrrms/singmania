@@ -1,0 +1,209 @@
+#ARTIST:Joel Stewart
+#TITLE:Mike Dean (That Peter Crouch Podcast)
+#MP3:Joel Stewart - Mike Dean (That Peter Crouch Podcast).mp3
+#CREATOR:Kirbylife
+#LANGUAGE:English
+#BPM:229.56
+#GAP:14510
+#VIDEO:v=8lUbyCFrJuE,co=https://s3.amazonaws.com/assets.pippa.io/shows/6242e9f71c8beb00139400a6/1669169352904-cd661cb5bc08d1f047fb7d857cc6010c.jpeg
+: 0 3 19 What 
+: 4 4 19 a 
+: 10 2 20 sto
+: 13 5 18 ry 
+: 19 2 19 of 
+: 22 2 17 a 
+: 25 9 16 boy 
+- 36
+: 71 4 21 From 
+: 76 5 20 the 
+: 82 4 22 chi
+: 87 6 19 cken 
+: 94 4 21 slaugh
+: 99 3 23 ter
+: 104 3 20 house 
+- 109
+: 122 1 28 To 
+: 124 1 31 the 
+: 127 7 20 lights 
+- 136
+: 145 1 22 And 
+: 148 1 17 the 
+: 151 8 27 noise 
+- 161
+: 176 1 22 The 
+: 179 2 21 F
+: 182 4 21 A 
+: 187 5 21 cup 
+: 193 4 17 fi
+: 198 5 17 nal 
+- 205
+: 217 7 31 And 
+: 225 5 31 eu
+: 231 1 30 ro
+: 233 2 29 pe
+: 236 3 29 an 
+: 240 8 28 games 
+- 250
+: 264 3 29 Oh 
+: 270 7 31 Mike 
+: 281 1 29 ne
+: 283 2 29 ver 
+: 287 8 27 change 
+- 297
+: 319 3 28 Ref 
+: 324 4 31 them 
+: 329 7 29 all 
+: 338 2 29 the 
+: 341 7 25 same 
+- 350
+: 378 6 20 Oh 
+: 385 2 20 and 
+: 388 7 20 where 
+: 402 2 18 will 
+: 406 3 16 we 
+: 412 7 19 be 
+- 421
+: 471 1 23 With
+: 473 8 20 out 
+: 482 5 18 you 
+: 488 2 17 on 
+: 491 4 17 our 
+: 496 4 18 T
+: 501 4 16 V 
+: 507 9 16 screens 
+- 518
+: 564 2 14 The 
+: 567 2 18 most 
+: 570 7 19 card 
+: 579 2 19 friend
+: 582 5 18 ly 
+: 588 1 17 we’ve 
+: 591 1 17 ev
+: 593 2 17 er 
+: 597 7 18 seen 
+- 606
+: 634 3 23 It’s 
+: 638 8 26 Mike 
+: 647 9 26 Dean 
+- 658
+: 736 5 22 Mike 
+* 742 38 24 Dean, 
+: 784 3 21 Mike 
+: 789 7 20 Dean 
+- 798
+: 830 4 22 The 
+* 835 14 24 fu
+: 850 1 22 nni
+: 852 5 22 est 
+: 859 5 22 ref 
+: 865 5 21 we’ve 
+: 871 2 21 ev
+: 874 5 21 er 
+: 880 9 20 seen 
+- 891
+: 924 5 22 Mike 
+* 930 38 24 Dean, 
+: 971 3 21 Mike 
+: 977 7 20 Dean 
+- 986
+: 1017 5 22 The 
+* 1024 26 24 Chi
+: 1052 6 22 cken 
+: 1059 1 21 kill
+: 1061 5 21 ing 
+: 1068 1 21 ma
+: 1070 7 21 chine 
+- 1079
+: 1133 1 23 And 
+: 1135 5 19 I’ll 
+: 1141 2 20 ne
+: 1144 2 19 ver 
+: 1147 2 26 for
+: 1150 8 27 get 
+- 1160
+: 1194 4 22 Watch
+: 1199 5 22 ing 
+: 1205 5 22 you 
+: 1211 4 22 cel
+: 1216 2 20 e
+: 1219 7 22 brate 
+: 1228 1 23 a 
+: 1231 8 18 goal 
+- 1241
+: 1249 7 19 Like 
+: 1257 2 20 you 
+: 1260 4 19 had 
+: 1266 7 17 scored 
+: 1274 5 27 it 
+- 1281
+: 1319 2 18 So 
+: 1322 5 20 en
+: 1328 4 20 joy 
+: 1334 1 27 your 
+: 1336 6 27 time 
+- 1344
+: 1386 5 22 Watch
+: 1392 4 21 ing 
+* 1397 7 22 Tran
+: 1405 9 20 mere 
+- 1416
+: 1436 1 18 With 
+: 1438 2 19 a 
+: 1441 10 18 beer 
+: 1459 2 27 by 
+: 1462 2 28 your 
+: 1465 8 28 side 
+- 1475
+: 1502 4 20 Week
+: 1507 6 20 ends 
+: 1514 7 20 won’t 
+: 1522 5 17 feel 
+: 1529 2 26 the 
+: 1532 9 26 same 
+- 1543
+: 1590 4 18 No 
+: 1596 2 19 scream
+: 1599 2 20 ing 
+: 1604 3 20 at 
+: 1608 7 20 you 
+: 1616 5 17 at 
+: 1622 2 17 the 
+: 1625 7 17 game 
+- 1634
+: 1694 4 20 Oh 
+: 1699 6 20 Mike 
+: 1712 2 27 nev
+: 1715 2 27 er 
+: 1718 12 27 change 
+- 1732
+: 1858 5 22 Mike 
+* 1864 38 24 Dean, 
+: 1905 3 21 Mike 
+: 1911 7 20 Dean 
+- 1920
+: 1951 5 22 The 
+* 1957 13 24 fu
+: 1971 1 22 nni
+: 1973 5 22 est 
+: 1980 5 22 ref 
+: 1986 5 21 we’ve 
+: 1992 1 21 ev
+: 1994 5 21 er 
+: 2001 9 20 seen 
+- 2012
+: 2045 5 22 Mike 
+* 2052 38 24 Dean, 
+: 2092 3 21 Mike 
+: 2098 7 20 Dean 
+- 2107
+: 2139 4 22 The 
+* 2144 28 24 Chi
+: 2173 5 22 cken 
+: 2179 2 21 kill
+: 2182 5 21 ing 
+: 2189 2 21 ma
+: 2192 10 21 chine 
+- 2204
+* 2226 7 17 Mike 
+* 2235 13 17 Dean 
+E

@@ -1,0 +1,298 @@
+#ARTIST:Diplo & Miguel
+#TITLE:Don’t Forget My Love
+#MP3:Diplo & Miguel - Don’t Forget My Love.mp3
+#CREATOR:mus31
+#COVER:Diplo & Miguel - Don’t Forget My Love [CO].jpg
+#BACKGROUND:Diplo & Miguel - Don’t Forget My Love [BG].jpg
+#GENRE:Electronic
+#YEAR:2022
+#LANGUAGE:English
+#BPM:241.8
+#GAP:5360
+#VIDEO:v=KLu7QyEpdBM,co=https://geo-media.beatsource.com/image_size/1400x1400/3/1/0/310dc308-871d-4961-a475-dbbe61a26ecf.jpg
+: 0 1 -3 Re
+: 2 1 -3 mem
+: 4 2 -1 ber 
+: 7 2 2 the 
+: 11 5 4 fee
+: 19 6 6 ling 
+: 29 4 2 of 
+: 36 4 -1 my 
+: 42 5 -1 fin
+: 49 4 -3 ger
+: 54 4 -6 tips 
+: 60 3 -6 on 
+: 65 4 -1 your 
+: 71 3 -3 sk
+: 75 5 -6 in 
+- 96
+: 125 2 -3 And 
+: 128 2 -3 the 
+: 131 2 -3 way 
+: 134 1 -1 that 
+: 136 2 2 our 
+: 139 6 4 kis
+: 146 6 6 ses 
+: 155 9 2 taste 
+: 171 6 -1 swee
+: 178 3 -1 ter 
+: 182 2 -3 af
+: 185 2 -6 ter 
+: 188 7 -1 drin
+: 198 8 -3 king 
+- 222
+: 253 2 -3 And 
+: 256 1 -3 the 
+: 258 2 -3 way 
+: 261 1 -1 that 
+: 263 3 2 I 
+: 268 7 4 rage 
+: 276 4 6 in
+: 281 3 2 to 
+: 286 6 -1 your 
+: 293 5 -1 love 
+: 299 5 -3 while 
+: 306 4 -6 you 
+: 312 6 -1 breathe 
+: 319 6 -6 me 
+: 326 9 -6 in 
+- 351
+: 381 4 -3 Just 
+: 386 2 -3 so 
+: 389 2 -1 you 
+: 392 2 2 can 
+: 396 5 4 feel 
+: 402 5 6 me 
+: 410 7 2 with 
+: 418 6 -1 you 
+: 426 4 -1 e
+: 431 5 -3 ven 
+: 437 6 -6 when 
+: 445 1 -3 I’m 
+: 447 4 -3 not 
+: 453 4 2 a
+: 458 11 1 round 
+- 485
+: 506 4 1 Don’t 
+: 511 1 1 for
+: 513 2 1 get 
+: 517 3 -3 my 
+: 522 9 -1 love 
+- 563
+* 634 3 1 Don’t 
+* 638 1 1 for
+* 640 2 1 get 
+* 643 3 -3 my 
+* 647 8 -1 love 
+- 687
+: 762 3 1 Don’t 
+: 766 1 1 for
+: 768 2 1 get 
+: 771 3 -3 my 
+: 775 8 -1 love 
+- 815
+: 891 3 1 Don’t 
+: 895 1 1 for
+: 897 2 1 get 
+: 900 4 -3 my 
+: 906 7 -1 love 
+- 945
+: 1018 4 1 Don’t 
+: 1023 1 1 for
+: 1025 2 1 get 
+: 1028 3 -3 my 
+: 1033 8 -1 love 
+- 1073
+: 1147 3 1 Don’t 
+: 1151 1 1 for
+: 1153 2 1 get 
+: 1156 2 -3 my 
+: 1159 8 0 love 
+- 1199
+* 1277 3 1 Don’t 
+* 1281 1 1 for
+* 1283 2 1 get 
+* 1286 3 -3 my 
+* 1290 9 -1 love 
+- 1331
+: 1401 3 1 Don’t 
+: 1405 1 1 for
+: 1407 2 1 get 
+: 1410 3 -3 my 
+: 1414 4 -1 love 
+- 1418
+: 1419 3 2 Tan
+: 1423 4 -1 trums, 
+: 1430 3 2 set 
+: 1434 4 -1 fire 
+- 1439
+: 1441 3 2 Two 
+: 1445 4 -1 dice, 
+: 1452 3 2 we 
+: 1456 4 -1 roll 
+- 1463
+: 1465 4 2 Ex
+: 1470 4 -1 cite, 
+: 1477 4 2 your 
+: 1482 7 -1 eyes 
+- 1490
+: 1492 2 2 In
+: 1495 5 -1 hale 
+: 1502 4 2 the 
+: 1507 7 -1 love 
+- 1524
+: 1536 2 6 Play 
+: 1539 1 7 in 
+: 1541 2 6 the 
+: 1544 6 6 dark 
+- 1560
+: 1572 5 6 Rules 
+: 1578 4 4 break, 
+: 1584 3 2 why 
+: 1590 1 1 pre
+: 1592 5 1 tend? 
+- 1599
+: 1601 5 6 We 
+: 1609 4 4 take 
+: 1614 4 2 what 
+: 1620 3 1 we 
+: 1625 4 1 can 
+- 1632
+: 1634 5 6 We 
+: 1642 4 6 ride 
+: 1647 5 7 to 
+: 1653 4 6 the 
+: 1658 4 6 end, 
+: 1663 3 7 to 
+: 1667 4 6 the 
+: 1672 6 6 sun 
+- 1694
+: 1712 3 -3 Push 
+: 1716 5 -1 that 
+: 1722 5 1 weight 
+: 1728 5 2 on 
+: 1734 5 4 me 
+: 1741 5 6 like 
+: 1747 5 7 a 
+: 1753 6 9 fiend 
+- 1760
+: 1762 5 9 Let’s 
+: 1769 4 9 rage 
+: 1775 4 6 in 
+: 1780 5 2 the 
+: 1786 5 1 moon
+: 1793 6 -1 light, 
+: 1802 4 -1 ca
+: 1807 3 -3 l
+: 1811 6 -5 m 
+- 1827
+: 1838 5 -3 Like 
+: 1844 4 -1 a 
+: 1849 6 1 shot 
+: 1856 4 2 rings 
+: 1861 5 1 out 
+: 1868 4 2 in 
+: 1873 3 1 the 
+: 1878 8 1 dark
+: 1888 11 -1 ness 
+- 1903
+: 1905 4 -3 So 
+: 1910 4 -1 you 
+: 1915 2 1 don’t 
+: 1918 1 1 for
+: 1920 3 1 get 
+: 1924 3 -3 my 
+: 1928 9 -1 love 
+- 1969
+: 2042 3 1 Don’t 
+: 2046 1 1 for
+: 2048 2 1 get 
+: 2051 3 -3 my 
+: 2055 8 -1 love 
+- 2095
+: 2167 6 1 Don’t 
+: 2174 1 1 for
+: 2176 3 1 get 
+: 2180 3 -3 my 
+: 2184 9 -1 love, 
+: 2201 7 0 don’t 
+: 2209 2 0 for
+: 2212 3 0 get 
+: 2216 3 -3 my 
+: 2221 9 -1 love 
+- 2230
+: 2232 6 1 Don’t 
+: 2239 1 1 for
+: 2241 2 1 get 
+: 2244 3 -3 my...
+: 2249 4 1 Don’t 
+: 2254 1 1 for
+: 2256 3 1 get... 
+- 2263
+: 2265 4 1 Don’t 
+: 2270 1 1 for
+: 2272 3 1 get... 
+- 2285
+: 2295 4 1 Don’t 
+: 2300 1 1 for
+: 2302 2 1 get 
+: 2305 3 -3 my 
+: 2309 9 -1 love 
+- 2350
+: 2428 2 1 Don’t 
+: 2431 1 1 for
+: 2433 2 1 get 
+: 2436 2 -3 my 
+: 2439 8 -1 love 
+- 2479
+* 2554 2 1 Don’t 
+* 2557 1 1 for
+* 2559 2 1 get 
+* 2562 3 -3 my 
+* 2567 6 -1 love 
+- 2573
+: 2574 5 -1 Love, 
+: 2580 5 1 love, 
+: 2586 6 2 love, 
+: 2593 8 6 love, 
+: 2602 4 6 love, 
+: 2607 7 6 love 
+- 2626
+: 2630 8 -1 Love, 
+: 2640 9 1 love, 
+: 2650 7 2 love, 
+: 2658 7 6 love, 
+: 2666 5 4 love, 
+: 2672 6 4 love 
+- 2678
+: 2679 4 1 Don’t 
+: 2684 3 1 for
+: 2688 3 1 get 
+: 2692 3 -3 my 
+: 2696 8 -1 love 
+- 2704
+: 2705 9 1 Love, 
+: 2715 6 2 love,
+: 2722 8 6 love,
+: 2732 5 4 love,
+: 2739 5 4 love 
+- 2753
+: 2757 9 -1 Love, 
+: 2767 9 1 love, 
+: 2777 6 2 love 
+: 2784 8 9 love, 
+: 2793 6 4 love,
+: 2801 5 4 love 
+- 2806
+: 2808 4 1 Don’t 
+: 2813 2 1 for
+: 2816 3 1 get 
+: 2820 3 -3 my 
+: 2824 7 -1 love 
+- 2863
+* 3063 3 1 Don’t 
+* 3067 2 1 for
+* 3070 4 1 get 
+* 3076 3 -3 my 
+* 3080 7 -1 love 
+E

@@ -1,0 +1,202 @@
+#ARTIST:Protomartyr
+#TITLE:The Devil In His Youth
+#MP3:Protomartyr - The Devil In His Youth.mp3
+#CREATOR:krasserdude
+#COVER:Protomartyr - The Devil In His Youth [CO].jpg
+#BACKGROUND:Protomartyr - The Devil In His Youth [BG].jpg
+#GENRE:Post Punk
+#YEAR:2015
+#LANGUAGE:English
+#BPM:398
+#GAP:21320
+#VIDEO:a=MF2EWrxUpZw,co=the-agent-intellect-5b3e63f1653ea.jpg
+: 0 3 14 Be
+: 8 3 14 fore 
+: 16 3 10 re
+: 25 3 12 cor
+: 33 5 14 ded 
+: 42 11 12 time 
+- 79
+: 132 4 14 In 
+: 139 4 14 some 
+: 148 3 10 su
+: 156 4 12 bur
+: 164 2 14 ban 
+: 172 12 12 room, 
+: 205 11 10 see 
+- 269
+: 325 3 10 The 
+: 334 3 12 de
+: 339 5 12 vil 
+: 350 3 14 in 
+: 355 5 12 his 
+: 365 9 10 youth 
+- 427
+: 522 4 12 He 
+: 530 4 14 grew 
+: 538 3 10 up 
+: 546 3 12 pale 
+: 555 3 14 and
+: 559 2 12 ~ 
+: 563 24 12 heal
+: 595 13 10 thy 
+- 618
+: 643 3 14 With 
+: 651 4 14 the 
+: 660 4 14 ble
+: 668 3 10 ssings 
+: 676 4 12 of 
+: 684 4 14 his 
+: 692 24 12 fa
+: 717 5 10 ~
+: 725 13 10 ther 
+- 791
+: 845 4 10 The 
+: 854 2 12 de
+: 858 4 12 vil 
+: 869 3 14 in 
+: 873 3 12 his 
+: 884 6 10 youth 
+- 943
+: 1038 4 14 His 
+: 1046 4 14 pri
+: 1053 4 10 vilege 
+: 1061 4 12 came 
+: 1070 6 14 be
+: 1079 27 12 fore 
+: 1112 11 10 him 
+- 1133
+: 1165 3 14 The 
+: 1174 4 14 pro
+: 1182 4 12 mise 
+: 1191 4 12 of 
+: 1199 3 14 a
+: 1207 23 12 do
+: 1238 13 10 ring 
+- 1304
+: 1360 3 10 The 
+: 1367 2 12 de
+: 1372 4 12 vil 
+: 1382 2 14 in 
+: 1387 3 12 his 
+: 1397 9 10 youth 
+- 1459
+: 1550 3 14 But 
+: 1558 4 14 it 
+: 1566 3 14 all 
+: 1574 9 14 changed 
+: 1590 3 14 when 
+: 1594 3 12 he 
+: 1602 7 12 came 
+: 1612 4 10 of 
+: 1619 11 12 age 
+- 1640
+: 1671 5 14 It 
+: 1678 4 14 was 
+: 1687 4 14 no
+: 1695 4 14 thing 
+: 1703 4 14 like 
+: 1711 4 14 the 
+: 1720 4 14 si
+: 1725 3 12 mu
+: 1730 5 12 la
+: 1738 4 10 ted 
+: 1746 7 12 game 
+- 1763
+: 1774 4 10 The 
+: 1783 3 12 wo
+: 1787 5 12 men 
+: 1796 3 12 di
+: 1801 3 10 dn’t 
+: 1808 5 12 love 
+: 1817 4 7 him 
+- 1831
+: 1839 4 10 The 
+: 1846 3 12 ra
+: 1854 4 12 ces 
+: 1863 4 12 all 
+: 1871 2 10 i
+: 1876 3 12 gnored 
+: 1885 5 7 him 
+- 1899
+: 1903 4 10 His 
+: 1911 3 12 pro
+: 1918 2 12 cla
+: 1923 5 12 ma
+: 1932 3 10 tions 
+: 1942 5 12 failed 
+- 1956
+: 1959 4 12 So 
+: 1966 4 10 he 
+: 1975 9 12 screamed 
+- 1994
+: 2009 9 12 “Now 
+: 2024 9 12 you 
+: 2041 11 10 bend!” 
+- 2078
+: 2128 4 10 The 
+: 2137 2 12 de
+: 2141 4 12 vil 
+: 2152 2 14 in 
+: 2156 3 12 his 
+: 2166 10 10 youth 
+- 2229
+: 2343 5 12 I 
+: 2350 4 12 will 
+: 2358 6 14 make 
+: 2366 2 14 them 
+: 2374 4 14 feel 
+: 2382 5 12 the 
+: 2391 8 14 way 
+: 2406 8 14 I 
+: 2422 12 10 do 
+- 2444
+: 2470 3 12 I’ll 
+: 2477 3 12 co
+: 2485 4 14 rrupt 
+: 2493 3 12 them 
+: 2501 4 14 till 
+: 2509 3 12 they 
+: 2517 4 14 think 
+: 2524 2 14 the 
+: 2529 3 14 way 
+: 2536 3 14 I 
+: 2548 9 10 do 
+- 2583
+: 2637 3 10 The 
+: 2645 2 12 de
+: 2649 5 12 vil 
+: 2661 2 14 in 
+: 2665 3 12 his 
+: 2674 7 10 youth 
+- 2734
+: 2851 7 14 You 
+: 2860 5 12 will 
+: 2867 11 17 feel 
+: 2883 10 17 the 
+: 2899 12 17 way 
+: 2915 11 14 I 
+: 2931 13 12 do 
+- 2954
+: 2980 9 12 You’ll 
+: 2994 8 17 hurt 
+: 3009 9 17 the 
+: 3026 6 17 way 
+: 3039 6 14 I 
+: 3048 10 12 do 
+- 3084
+: 3143 2 10 He 
+: 3146 3 10 was 
+: 3154 4 12 ea
+: 3161 2 12 si
+: 3165 3 12 ly 
+: 3172 4 12 a
+: 3179 15 10 bused 
+- 3220
+: 3272 4 10 The 
+: 3280 2 12 de
+: 3285 4 12 vil 
+: 3295 2 14 in 
+: 3300 4 12 his 
+: 3308 13 10 youth 
+E

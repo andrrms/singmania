@@ -1,0 +1,103 @@
+#ARTIST:The Ethiopians
+#TITLE:Train To Skaville
+#MP3:The Ethiopians - Train To Skaville.mp3
+#CREATOR:daggeg
+#YEAR:1967
+#LANGUAGE:English
+#BPM:384.37
+#GAP:990
+#VIDEO:a=L5fJQ9DYL0k,co=https://i.discogs.com/5MbItXjFj0dIfoBvBgtkFUytSs3QaEc5ZmQipJFPx6Q/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEw/NzE3LTE2NTAxOTAw/MjctNjUxOS5qcGVn.jpeg
+: 0 5 3 Train 
+: 13 3 -2 to 
+: 25 6 7 Ska
+: 37 6 3 ville 
+- 45
+: 724 4 10 Beep 
+: 734 91 10 beep 
+- 827
+: 845 9 8 Train 
+: 860 6 12 to 
+: 876 9 10 Ska
+: 890 10 7 ville 
+- 902
+: 1009 4 10 Beep 
+* 1017 91 10 beep 
+- 1110
+: 1126 9 8 Train 
+: 1142 6 12 to 
+: 1157 10 10 Ska
+: 1173 10 7 ville 
+- 1185
+: 1266 7 8 Keep 
+: 1279 7 7 your 
+: 1292 80 10 seat 
+- 1374
+: 1622 1 0 Eve
+: 1624 1 0 ry
+: 1626 3 0 one 
+: 1631 3 0 on 
+: 1640 5 2 board 
+- 1647
+: 1684 3 0 Keep 
+: 1692 3 0 your 
+* 1700 5 0 seat 
+- 1707
+: 1806 3 0 Ride 
+: 1816 3 0 on 
+: 1826 5 -2 ride 
+- 1833
+: 1845 3 0 Non 
+: 1853 3 -4 stop 
+- 1858
+: 1878 4 3 Ska
+: 1886 4 -2 ville 
+- 1892
+: 2008 4 3 Ska
+: 2016 4 -2 ville 
+- 2022
+: 2068 5 5 Free 
+* 2094 6 2 time 
+- 2102
+: 2201 4 10 Beep 
+: 2210 102 10 beep 
+- 2314
+: 2479 4 10 Beep 
+: 2488 103 10 beep 
+- 2593
+* 2786 4 3 Ska
+* 2793 4 -2 ville 
+- 2799
+: 3037 4 7 Ska
+: 3046 4 -2 ville 
+- 3052
+: 3145 7 3 Free 
+: 3162 7 0 man 
+: 3179 9 2 free 
+- 3190
+: 3239 5 0 Free 
+: 3258 2 0 as 
+: 3263 3 0 a 
+: 3269 4 0 bird 
+- 3275
+: 3291 2 0 In 
+: 3295 2 0 a 
+: 3302 5 -2 tree 
+- 3309
+: 3525 4 10 Beep 
+: 3534 97 10 beep 
+- 3633
+: 3734 4 10 Beep 
+: 3743 98 10 beep 
+- 3843
+: 3942 4 10 Beep 
+* 3951 95 10 beep 
+- 4048
+: 4151 4 10 Beep 
+: 4159 52 10 beep 
+- 4213
+F 4229 5 0 Train 
+F 4247 3 0 to 
+F 4255 3 0 the 
+F 4263 8 0 Ska
+F 4274 6 0 ville 
+E

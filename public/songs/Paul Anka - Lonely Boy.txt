@@ -1,0 +1,225 @@
+#ARTIST:Paul Anka
+#TITLE:Lonely Boy
+#MP3:Paul Anka - Lonely Boy.mp3
+#CREATOR:Canni
+#YEAR:1958
+#LANGUAGE:English
+#BPM:265.6
+#GAP:7580
+#VIDEO:a=fv-Gjc6fzlc,co=https://i.discogs.com/ovgBmvdGF9edO7k1AdqGCHhD0heo72Vbd-JnQ6dHE3Q/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDY0/NTgtMTYxMjY1Nzgw/Ni00MjM0LmpwZWc.jpeg,bg=anka-paul-50ce0468e9cc3.jpg
+: 0 7 4 I’m 
+: 8 3 4 just 
+: 12 3 4 a 
+: 16 7 4 lone
+: 24 3 4 ly 
+: 28 12 2 boy 
+- 42
+: 64 7 4 Lone
+: 72 7 4 ly 
+: 80 3 4 and 
+: 84 20 4 blue 
+- 106
+: 132 3 2 I’m 
+: 136 3 2 all 
+: 140 3 5 a
+: 144 20 5 lone 
+- 166
+: 188 3 2 With 
+: 192 7 4 no
+: 200 3 4 thin’ 
+: 204 3 2 to 
+: 208 20 2 do 
+- 230
+: 252 3 4 I’ve 
+: 256 7 4 got 
+: 264 3 4 eve
+: 268 3 2 ry
+: 272 20 4 thing 
+- 294
+: 320 7 4 You 
+: 328 3 4 could 
+: 332 7 4 think 
+: 340 20 4 of 
+- 362
+: 380 3 2 But 
+: 384 11 2 all 
+: 396 3 5 I 
+: 400 20 5 want 
+- 422
+: 444 3 2 Is 
+: 448 7 4 some
+: 456 3 4 one 
+: 460 3 2 to 
+: 464 24 0 love 
+- 490
+: 512 7 4 Some
+: 520 3 4 one 
+: 524 3 0 yes 
+: 528 7 4 some
+: 536 3 4 one 
+: 540 3 2 to 
+: 544 16 4 love 
+- 562
+: 592 7 4 Some
+: 600 3 4 one 
+: 604 3 4 to 
+: 608 16 4 kiss 
+- 626
+: 656 7 2 Some
+: 664 3 2 one 
+: 668 3 5 to 
+: 672 20 5 hold 
+- 694
+: 712 7 2 At a 
+: 720 7 4 moment 
+: 728 7 2 like 
+: 736 20 0 this 
+- 758
+: 780 7 4 I’d 
+: 788 3 4 like 
+: 792 7 2 to 
+: 800 12 4 hear 
+- 814
+: 844 7 4 Some
+: 852 3 4 bo
+: 856 3 4 dy 
+: 860 16 4 say 
+- 878
+: 904 11 2 I’ll give 
+: 916 3 2 you 
+: 920 3 5 my 
+: 924 16 4 love 
+- 942
+: 972 3 2 Each 
+: 976 7 4 night 
+: 984 3 2 and 
+: 988 16 4 day 
+- 1006
+: 1100 7 4 I’m 
+: 1108 3 4 just 
+: 1112 3 2 a 
+: 1116 7 4 lone
+: 1124 3 4 ly 
+: 1128 12 0 boy 
+- 1142
+: 1164 7 4 Lone
+: 1172 3 4 ly 
+: 1176 3 4 and 
+: 1180 16 4 blue 
+- 1198
+: 1232 3 2 I’m 
+: 1236 3 2 all 
+: 1240 3 5 a
+: 1244 20 4 lone 
+- 1266
+: 1284 7 2 With 
+: 1292 7 4 no
+: 1300 3 4 thin’ 
+: 1304 3 2 to 
+: 1308 24 2 do 
+- 1334
+: 1352 3 4 I’ve 
+: 1356 3 4 got 
+: 1360 3 4 e
+: 1364 3 2 ve
+: 1368 3 4 ry
+: 1372 20 4 thing 
+- 1394
+: 1420 7 4 You 
+: 1428 3 4 could 
+: 1432 3 4 think 
+: 1436 16 4 of 
+- 1454
+: 1480 3 2 But 
+: 1484 7 2 all 
+: 1492 7 5 I 
+: 1500 12 5 want 
+- 1514
+: 1544 3 2 Is 
+: 1548 7 4 some
+: 1556 3 4 one 
+: 1560 3 2 to 
+: 1564 20 0 love 
+- 1586
+: 1612 7 4 Some
+: 1620 7 4 body 
+: 1628 7 4 some
+: 1636 7 4 body 
+: 1644 7 4 some
+: 1652 7 4 body
+: 1660 24 2 please 
+- 1686
+: 1704 7 4 Send 
+: 1712 7 4 her 
+: 1720 3 4 to 
+: 1724 12 4 me 
+- 1738
+: 1772 7 2 I’ll 
+: 1780 3 2 make 
+: 1784 3 5 her 
+: 1788 7 4 hap
+: 1796 8 2 py 
+- 1806
+: 1832 7 2 Just 
+: 1840 3 4 wait 
+: 1844 3 2 and 
+: 1848 16 2 see 
+- 1866
+: 1892 7 4 I 
+: 1900 3 4 pray
+: 1904 3 4 ed 
+: 1908 3 2 so 
+: 1912 20 4 hard 
+- 1934
+: 1952 3 2 To 
+: 1956 3 2 the 
+: 1960 7 4 hea
+: 1968 3 4 vens 
+: 1972 3 4 a
+: 1976 12 4 bove 
+- 1990
+: 2020 3 2 That 
+: 2024 7 2 I 
+: 2032 7 5 might 
+: 2040 16 4 find 
+- 2058
+: 2084 7 2 Some
+: 2092 3 4 one 
+: 2096 3 2 to 
+: 2100 16 4 love 
+- 2118
+: 2212 7 4 I’m 
+: 2220 3 4 just 
+: 2224 3 2 a 
+: 2228 7 4 lone
+: 2236 3 4 ly 
+: 2240 12 0 boy 
+- 2254
+: 2276 7 4 Lone
+: 2284 7 4 ly 
+: 2292 3 4 and 
+: 2296 20 4 blue 
+- 2318
+: 2344 7 2 I’m 
+: 2352 3 2 all 
+: 2356 3 5 a
+: 2360 20 4 lone 
+- 2382
+: 2404 3 2 With 
+: 2408 7 4 no
+: 2416 3 4 thin’ 
+: 2420 3 2 to 
+: 2424 20 2 do 
+- 2446
+: 2464 7 4 I’ve 
+: 2472 3 4 got 
+: 2476 3 4 e
+: 2480 3 2 ve
+: 2484 3 4 ry
+: 2488 20 4 thing 
+- 2510
+: 2536 3 4 You 
+: 2540 3 4 could 
+: 2544 3 4 think 
+: 2548 4 4 of 
+E

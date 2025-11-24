@@ -1,0 +1,195 @@
+#ARTIST:Glee Cast
+#TITLE:Don’t Sleep In The Subway
+#MP3:Glee Cast - Don’t Sleep In The Subway.mp3
+#CREATOR:seanie627
+#YEAR:2014
+#LANGUAGE:English
+#BPM:336.33
+#GAP:3370
+#VIDEO:v=XugmHibSYbE,co=https://gleethecovers.files.wordpress.com/2014/04/s05e14-dont-sleep-in-the-subway-05.jpg
+: 0 3 -1 You 
+: 5 2 0 wan
+: 10 3 -1 der 
+: 15 2 2 a
+: 20 15 2 round 
+- 37
+: 49 5 4 On 
+: 56 3 6 your 
+* 60 21 7 own 
+: 85 3 -1 lit
+: 90 5 0 tle 
+: 99 16 2 cloud 
+- 117
+: 131 3 -1 When 
+: 136 3 2 you 
+: 141 15 4 don’t 
+: 161 11 -5 see 
+: 175 2 -3 the 
+: 180 15 -1 why 
+- 197
+: 210 7 0 Or 
+: 220 3 -1 the 
+: 224 11 -3 where
+* 238 45 2 fore 
+- 285
+: 304 14 -1 Oh, 
+: 320 2 -1 you 
+: 325 3 -1 walk 
+: 330 3 0 out 
+: 335 3 -1 on 
+: 340 17 2 me 
+- 359
+: 370 2 4 When 
+: 374 3 6 we 
+: 379 17 7 both 
+: 404 4 -1 dis
+: 409 5 0 a
+: 418 20 2 gree 
+- 440
+: 448 8 -1 ’Cause 
+: 459 3 2 to 
+: 464 12 4 rea
+: 481 6 -5 son 
+: 490 12 -3 is 
+- 504
+: 512 7 -1 Not 
+: 523 4 0 what 
+: 529 4 -1 you
+: 534 4 -3 ~ 
+: 540 12 -3 care 
+* 554 73 2 for 
+- 629
+: 633 6 3 Good
+: 643 11 4 bye 
+: 659 6 6 means 
+: 669 3 8 no
+: 674 13 6 thing 
+- 689
+: 693 5 4 When 
+: 699 4 3 it’s 
+: 704 23 1 all 
+- 729
+: 732 6 6 For 
+* 742 36 -1 show 
+- 780
+: 792 6 6 So 
+: 802 10 7 why 
+: 815 2 9 pre
+: 820 18 11 tend 
+- 840
+: 844 6 9 You’ve 
+: 852 3 7 some
+: 857 3 6 where 
+: 863 23 4 else 
+- 888
+: 891 8 9 To 
+* 901 42 2 go 
+- 945
+: 953 6 7 Don’t 
+: 963 4 7 sleep 
+: 970 2 6 in 
+: 974 2 3 the 
+: 980 8 5 sub
+: 990 10 10 way, 
+: 1001 4 5 dar
+: 1010 9 -2 ling 
+- 1021
+: 1035 6 3 Don’t 
+: 1045 5 3 stand 
+: 1053 2 2 in 
+: 1057 2 0 the 
+: 1062 9 2 pour
+: 1074 8 7 ing 
+: 1086 4 5 rain
+: 1091 13 4 ~ 
+: 1105 6 7 ~ 
+- 1113
+: 1119 7 7 Don’t 
+: 1128 4 7 sleep 
+: 1135 3 5 in 
+: 1139 3 3 the 
+: 1145 6 5 sub
+: 1155 9 10 way, 
+: 1167 5 5 dar
+: 1176 6 -2 ling 
+- 1184
+: 1188 3 0 The 
+: 1192 3 3 night 
+: 1199 5 2 is 
+: 1207 14 -2 long 
+- 1223
+: 1227 3 0 For
+: 1232 3 3 get 
+: 1238 8 2 your 
+: 1249 7 0 fool
+: 1259 2 -2 ish 
+: 1264 5 0 pride 
+- 1271
+: 1275 4 3 No
+: 1280 6 2 thing’s 
+: 1289 12 -2 wrong 
+- 1303
+: 1311 3 0 Now 
+: 1316 7 3 you’re 
+: 1327 2 2 be
+: 1331 7 0 side 
+: 1341 2 -2 me 
+: 1347 2 0 a
+* 1352 36 -2 gain 
+- 1390
+: 1416 1 10 Oh
+: 1418 5 12 ~ 
+: 1424 1 10 ~ 
+: 1426 6 9 ~ 
+* 1433 10 9 ~ 
+- 1445
+: 1447 6 7 Don’t 
+: 1457 3 7 sleep 
+: 1463 2 5 in 
+: 1467 2 3 the 
+: 1472 6 5 sub
+* 1481 37 10 way 
+- 1520
+: 1527 6 3 Don’t 
+: 1537 2 3 stand 
+: 1543 2 2 in 
+: 1547 2 0 the 
+: 1552 7 2 pour
+: 1562 10 7 ing 
+: 1575 4 7 rain
+: 1580 21 5 ~ 
+- 1603
+: 1607 7 7 Don’t 
+: 1617 3 7 sleep 
+: 1623 2 5 in 
+: 1627 2 3 the 
+: 1632 7 5 sub
+: 1642 9 10 way, 
+: 1653 3 5 dar
+: 1661 8 -2 ling 
+- 1671
+: 1673 2 0 The 
+: 1677 3 3 night 
+: 1683 6 2 is 
+: 1692 13 -2 long 
+- 1707
+: 1711 2 0 For
+: 1716 4 3 get 
+: 1723 6 2 your 
+: 1732 6 0 fool
+: 1741 2 -1 ish 
+: 1746 7 0 pride 
+- 1755
+: 1756 2 3 No
+: 1762 5 2 thing’s 
+: 1770 15 -2 wrong 
+- 1787
+: 1792 4 0 Now 
+: 1797 7 3 you’re 
+: 1806 2 2 be
+: 1811 9 0 side 
+: 1821 4 -2 me 
+: 1826 3 0 a
+: 1832 3 -2 gain
+* 1836 87 -3 ~ 
+E

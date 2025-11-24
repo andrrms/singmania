@@ -1,0 +1,116 @@
+#ARTIST:Toni Petersson
+#TITLE:Wow No Cow
+#MP3:Toni Petersson - Wow No Cow.mp3
+#CREATOR:barbeque
+#COVER:Toni Petersson - Wow No Cow [CO].jpg
+#BACKGROUND:Toni Petersson - Wow No Cow [BG].jpg
+#YEAR:2014
+#LANGUAGE:English
+#BPM:292
+#GAP:2400
+#VIDEO:v=5q9KrSffIrs,co=https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/50/98/b75098d3-5483-1575-c22a-9503af45a817/195999547510.jpg/5000x5000bb.jpg
+: 0 2 3 It’s 
+: 5 5 5 like 
+: 13 2 3 mi
+: 17 11 1 -ilk 
+- 38
+F 60 2 0 But 
+: 64 5 3 made 
+: 72 2 5 for 
+: 77 11 3 hu
+: 90 3 1 -u
+: 95 11 1 mans 
+- 116
+: 129 2 3 It’s 
+: 134 5 5 like 
+: 142 2 3 mi
+: 146 4 5 -ilk 
+- 169
+F 189 2 0 But 
+: 194 5 3 made 
+: 201 2 5 for 
+: 206 13 3 hu
+: 221 3 1 -u
+: 227 9 1 mans 
+- 241
+: 243 13 5 Wow 
+- 266
+: 275 10 5 Wow 
+- 296
+: 300 4 5 No 
+: 309 2 -2 co
+: 313 4 1 -ow 
+- 327
+: 340 4 1 No 
+: 353 3 1 no 
+: 361 3 1 no 
+- 371
+: 374 12 5 Wow 
+- 396
+: 407 10 5 Wow 
+- 426
+: 430 4 5 No 
+: 439 2 -2 co
+: 443 4 1 -ow 
+- 457
+: 469 4 1 No 
+: 483 3 1 no 
+: 490 3 1 no 
+- 503
+: 516 3 1 It’s 
+: 522 3 1 al
+: 530 6 1 right 
+- 555
+: 582 2 1 It’s 
+: 586 4 1 like 
+: 594 3 1 milk 
+- 616
+* 641 3 1 Oh, 
+* 647 2 8 it’s 
+* 653 2 3 al
+* 658 3 3 ri
+* 664 7 1 -ight, 
+F 674 6 0 yeah! 
+- 690
+F 705 2 0 It’s 
+: 710 2 1 just 
+: 715 4 1 like 
+: 723 4 1 milk 
+- 737
+: 758 11 5 Wow 
+- 779
+: 789 2 3 Wo
+: 793 6 5 -o
+: 801 4 3 -ow 
+- 811
+: 813 3 5 No 
+: 823 3 -2 co
+: 828 11 1 -ow 
+- 849
+: 853 5 1 No 
+: 865 3 1 no 
+: 873 3 1 no 
+- 882
+: 885 15 5 Wow 
+- 912
+: 916 2 3 Wo
+: 920 6 5 -o
+: 928 2 3 -ow 
+- 938
+: 941 4 5 No 
+: 950 3 -2 co
+: 957 8 1 -ow 
+- 976
+: 980 4 1 No 
+: 994 3 1 no 
+: 1001 6 1 no 
+- 1017
+: 1028 3 1 It’s 
+: 1036 3 1 al
+: 1042 7 1 right 
+- 1068
+: 1092 2 1 It’s 
+* 1096 2 1 li
+* 1100 2 3 -ike 
+: 1106 6 1 milk 
+E

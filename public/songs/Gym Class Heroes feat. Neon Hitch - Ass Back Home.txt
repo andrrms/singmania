@@ -1,0 +1,666 @@
+#ARTIST:Gym Class Heroes feat. Neon Hitch
+#TITLE:Ass Back Home
+#MP3:Gym Class Heroes feat. Neon Hitch - Ass Back Home.mp3
+#CREATOR:cka_tm
+#YEAR:2011
+#LANGUAGE:English
+#BPM:260.34
+#GAP:13350
+#VIDEO:v=ltOR2VzDZFM,co=ass-back-home-68b403d29816d.jpg,bg=gym-class-heroes-4ee234756a986.jpg
+F 0 16 0 Oh, 
+F 34 3 0 so 
+F 38 7 0 se
+F 46 4 0 xy 
+F 51 7 0 y’all 
+- 60
+: 78 3 -2 I 
+: 82 6 -2 don’t 
+: 89 7 -2 know
+: 97 6 0 ~
+: 104 6 2 ~
+: 111 6 10 ~
+: 118 10 9 ~ 
+: 134 11 7 where 
+: 146 3 5 you’re 
+: 150 6 0 go
+: 157 9 0 ing 
+- 168
+: 180 5 -2 Or 
+: 186 4 2 when 
+: 191 5 0 you’re 
+: 197 5 -2 com
+: 206 8 -3 ing 
+: 218 7 -2 home
+: 226 4 0 ~
+: 232 5 2 ~
+: 238 7 10 ~
+: 246 10 9 ~ 
+- 257
+: 258 3 5 I 
+: 262 10 7 left 
+: 273 3 5 the 
+: 277 12 0 keys 
+: 290 3 -2 un
+: 294 7 -2 der 
+: 305 4 5 the 
+: 310 10 0 mat 
+: 322 3 -2 to 
+: 326 5 -3 our 
+: 333 9 -2 front 
+: 345 8 -2 door
+: 354 6 0 ~
+: 361 4 -2 ~
+: 366 7 0 ~
+: 374 7 2 ~
+: 382 7 3 ~
+: 390 12 2 ~ 
+- 404
+: 406 3 -2 For 
+: 410 6 -2 one 
+: 418 7 0 more 
+: 426 6 -2 chance 
+: 433 3 0 to 
+: 437 7 2 hold 
+: 445 7 3 you 
+: 453 8 2 close 
+- 462
+: 462 3 -2 I 
+: 466 8 -2 don’t 
+: 475 5 -2 know
+: 481 5 0 ~
+: 487 6 2 ~
+: 494 7 10 ~
+: 502 10 9 ~ 
+: 519 8 7 where 
+: 530 4 5 you’re 
+: 535 6 0 go
+: 542 12 0 ing 
+- 556
+: 568 2 -2 Just 
+: 571 3 2 get 
+: 575 4 0 your 
+: 582 6 -2 ass 
+: 589 8 -3 back 
+: 598 1 -2 home 
+- 600
+F 600 1 0 We 
+F 602 2 0 both 
+F 606 2 0 knew 
+F 610 2 0 this 
+F 613 3 0 type 
+F 617 2 0 of 
+F 620 7 0 life 
+- 628
+F 628 3 0 Didn’t
+F 632 4 0 ~ 
+F 637 7 0 come 
+F 645 3 0 with 
+F 649 3 0 ins
+F 653 4 0 truc
+F 658 1 0 tions 
+- 660
+F 660 4 0 So 
+F 665 2 0 I’m 
+F 668 3 0 trying
+F 672 2 0 ~ 
+F 675 1 0 to 
+F 677 1 0 do 
+F 679 3 0 my 
+F 683 2 0 best 
+- 686
+F 686 6 0 To 
+F 693 5 0 make 
+F 699 6 0 some
+F 706 2 0 thing 
+F 709 3 0 out
+F 713 2 0 ta 
+F 716 2 0 no
+F 719 4 0 thing 
+- 725
+F 726 1 0 And 
+F 728 2 0 some
+F 731 6 0 times 
+F 738 1 0 it 
+F 740 3 0 gets 
+- 745
+F 752 3 0 Down
+F 756 4 0 right 
+F 764 4 0 shit
+F 769 3 0 ty 
+F 773 1 0 in 
+F 776 5 0 fact 
+- 783
+F 788 2 0 When 
+F 791 2 0 you 
+F 795 3 0 call 
+F 799 4 0 and 
+F 804 2 0 I 
+F 808 2 0 don’t 
+F 811 2 0 e
+F 814 2 0 ven 
+F 818 3 0 know 
+- 822
+F 822 3 0 What 
+F 826 3 0 ci
+F 830 4 0 ty 
+F 836 2 0 I’m 
+F 841 3 0 at 
+- 846
+F 852 2 0 Or 
+F 855 2 0 what 
+F 859 3 0 day 
+F 863 1 0 of 
+F 865 1 0 the 
+F 867 3 0 week 
+F 871 1 0 in 
+F 873 1 0 the 
+F 875 1 0 mid
+F 877 1 0 dle 
+F 879 1 0 of 
+F 881 1 0 the 
+F 883 2 0 month 
+- 887
+F 888 1 0 In 
+F 890 1 0 a 
+F 892 2 0 year 
+F 895 3 0 I 
+F 899 3 0 don’t 
+F 903 2 0 re
+F 906 4 0 call 
+- 911
+F 912 1 0 It’s 
+F 914 3 0 like 
+F 919 2 0 my 
+F 922 3 0 life’s 
+F 927 1 0 on 
+F 929 1 0 re
+F 931 2 0 peat 
+F 935 1 0 and 
+F 937 1 0 the 
+F 939 2 0 last 
+F 943 1 0 time 
+F 945 2 0 we 
+F 948 2 0 spoke 
+- 951
+F 952 2 0 I 
+F 955 2 0 told 
+F 958 1 0 you 
+F 960 2 0 I 
+F 964 2 0 wouldn’t 
+F 968 2 0 be 
+F 971 4 0 long 
+F 981 5 0 (yeah) 
+- 987
+F 988 2 0 That 
+F 991 2 0 was 
+F 994 5 0 last 
+F 1000 2 0 No
+F 1003 2 0 vem
+F 1006 3 0 ber 
+F 1010 4 0 now 
+F 1015 2 0 De
+F 1018 3 0 cem
+F 1022 3 0 ber’s 
+F 1026 2 0 al
+F 1029 5 0 most 
+F 1035 7 0 gone 
+- 1044
+F 1046 1 0 I’d 
+F 1048 2 0 a
+F 1051 2 0 po
+F 1056 1 0 lo
+F 1058 4 0 gize 
+F 1064 2 0 but 
+F 1067 2 0 I 
+F 1071 2 0 don’t 
+F 1076 2 0 rea
+F 1079 3 0 lize 
+F 1084 2 0 what 
+F 1088 3 0 I’m 
+F 1093 5 0 doing 
+F 1099 3 0 wrong 
+- 1103
+: 1103 3 -2 I 
+: 1107 6 -2 don’t 
+: 1115 7 -2 know
+: 1123 4 0 ~
+: 1128 7 2 ~
+: 1136 7 10 ~
+: 1145 11 9 ~ 
+: 1158 8 7 where 
+: 1170 3 5 you’re 
+: 1174 6 0 go
+: 1181 8 0 ing 
+- 1191
+: 1206 3 -2 Or 
+: 1210 4 2 when 
+: 1216 5 0 you’re 
+: 1222 7 -2 com
+: 1230 7 -3 ing 
+: 1242 6 -2 home
+: 1250 4 0 ~
+: 1255 7 2 ~
+: 1263 7 10 ~
+: 1271 9 9 ~ 
+- 1281
+: 1282 4 5 I 
+: 1287 10 7 left 
+: 1298 3 5 the 
+: 1302 12 0 keys 
+: 1315 3 -2 un
+: 1319 8 -2 der 
+: 1330 4 5 the 
+: 1335 9 0 mat 
+: 1346 4 -2 to 
+: 1351 5 -3 our 
+: 1358 8 -2 front 
+: 1371 6 -2 door
+: 1378 7 0 ~
+: 1386 3 -2 ~
+: 1390 7 0 ~
+: 1398 7 2 ~
+: 1406 7 3 ~
+: 1414 12 2 ~ 
+- 1428
+: 1430 4 -2 For 
+: 1435 7 -2 one 
+: 1443 6 0 more 
+: 1450 7 -2 chance 
+: 1458 3 0 to 
+: 1462 7 2 hold 
+: 1470 7 3 you 
+: 1478 7 2 close 
+- 1487
+: 1488 2 -2 I 
+: 1492 7 -2 don’t 
+: 1500 5 -2 know
+: 1506 5 0 ~
+: 1512 7 2 ~
+: 1521 5 10 ~
+: 1527 9 9 ~ 
+: 1544 9 7 where 
+: 1554 4 5 you’re 
+: 1560 5 0 go
+: 1566 8 0 ing 
+- 1576
+: 1592 4 -2 Just 
+: 1597 3 2 get 
+: 1601 4 0 your 
+: 1606 6 -2 ass 
+: 1613 8 -3 back 
+: 1618 3 -2 home 
+- 1621
+F 1621 1 0 And 
+F 1623 1 0 you 
+F 1625 2 0 been 
+F 1628 3 0 no
+F 1632 3 0 thing 
+F 1636 3 0 but 
+F 1640 2 0 a
+F 1643 4 0 ma
+F 1648 3 0 zing 
+- 1652
+F 1652 3 0 And 
+F 1656 2 0 I 
+F 1659 1 0 will 
+F 1661 1 0 ne
+F 1663 1 0 ver 
+F 1665 2 0 take 
+F 1668 2 0 that 
+F 1671 2 0 for 
+F 1674 5 0 gran
+F 1680 2 0 ted 
+- 1683
+F 1683 2 0 Half 
+F 1686 1 0 of 
+F 1688 3 0 these 
+F 1692 3 0 birds 
+F 1696 1 0 would 
+F 1698 1 0 have 
+F 1700 3 0 flew 
+- 1704
+F 1704 2 0 To 
+F 1707 4 0 coop 
+F 1712 1 0 but 
+F 1714 5 0 you, 
+F 1720 2 0 you 
+F 1723 3 0 tru
+F 1727 3 0 ly 
+F 1731 3 0 un
+F 1735 3 0 ders
+F 1739 3 0 tand 
+F 1743 2 0 it 
+- 1746
+F 1747 3 0 And 
+F 1751 2 0 the 
+F 1754 5 0 fact 
+F 1760 1 0 you 
+F 1762 5 0 stood 
+F 1768 1 0 be
+F 1770 6 0 side 
+F 1777 2 0 me 
+- 1780
+F 1780 3 0 Eve
+F 1784 3 0 ry 
+F 1788 3 0 time 
+F 1792 3 0 you 
+F 1796 3 0 heard 
+F 1800 3 0 some 
+F 1804 3 0 bo
+F 1808 3 0 gus
+F 1812 6 0 ness 
+- 1819
+F 1820 3 0 You 
+F 1824 2 0 de
+F 1827 5 0 serve 
+F 1833 1 0 a 
+F 1835 3 0 stan
+F 1839 4 0 ding 
+F 1844 3 0 no 
+- 1848
+F 1848 3 0 ’Cause 
+F 1852 3 0 they’d 
+F 1856 1 0 a 
+F 1858 5 0 just 
+F 1864 3 0 been 
+F 1868 3 0 o
+F 1872 3 0 ver 
+F 1876 2 0 it 
+- 1879
+F 1879 1 0 Let 
+F 1881 1 0 em 
+F 1883 3 0 talk, 
+F 1887 2 0 let 
+F 1890 1 0 em 
+F 1892 2 0 talk, 
+F 1895 2 0 let 
+F 1898 1 0 em 
+F 1900 2 0 talk, 
+F 1903 2 0 let 
+F 1906 1 0 em 
+F 1908 1 0 talk 
+- 1910
+F 1910 2 0 Like 
+F 1913 3 0 we 
+F 1917 2 0 don’t 
+F 1920 4 0 hear 
+F 1925 2 0 what 
+F 1928 2 0 they 
+F 1931 5 0 sa
+F 1937 5 0 ying 
+- 1943
+F 1943 2 0 Let 
+F 1946 1 0 em 
+F 1948 3 0 walk, 
+F 1953 1 0 let 
+F 1955 1 0 em 
+F 1957 3 0 walk, 
+F 1961 1 0 let 
+F 1963 1 0 em 
+F 1965 1 0 walk, 
+F 1967 2 0 let 
+F 1970 1 0 em 
+F 1972 1 0 walk 
+- 1974
+F 1974 2 0 We’ll 
+F 1977 2 0 just 
+F 1980 4 0 drive 
+F 1985 2 0 by 
+F 1988 3 0 and 
+F 1992 3 0 keep 
+F 1996 4 0 wa
+F 2001 3 0 ving 
+F 2005 2 0 it 
+- 2008
+F 2008 4 0 Cause 
+F 2013 2 0 you 
+F 2016 3 0 and 
+F 2020 4 0 I 
+F 2025 2 0 a
+F 2028 3 0 bove 
+F 2032 5 0 all 
+F 2038 4 0 that 
+- 2044
+F 2048 4 0 Just 
+F 2053 3 0 let 
+F 2057 2 0 em 
+F 2060 5 0 wa
+F 2066 2 0 llow 
+F 2069 3 0 in 
+F 2073 2 0 it 
+- 2076
+F 2076 4 0 Now 
+F 2081 4 0 they 
+F 2086 1 0 all 
+F 2088 5 0 choked 
+F 2094 4 0 up, 
+F 2099 10 0 yuck 
+- 2110
+F 2110 6 0 Cause 
+F 2117 3 0 they 
+F 2121 1 0 be 
+F 2123 5 0 swa
+F 2129 3 0 llo
+F 2133 4 0 wing 
+F 2128 4 0 it 
+- 2133
+: 2133 4 -2 I 
+: 2138 1 -2 don’t 
+: 2140 7 -2 know
+: 2149 4 0 ~
+: 2154 6 2 ~
+: 2161 7 10 ~
+: 2170 11 9 ~ 
+: 2185 8 7 where 
+: 2196 3 5 you’re 
+: 2200 6 0 go
+: 2207 8 0 ing 
+- 2217
+: 2232 3 -2 Or 
+: 2236 4 2 when 
+: 2242 5 0 you’re 
+: 2248 7 -2 com
+: 2256 7 -3 ing 
+: 2268 6 -2 home
+: 2276 4 0 ~
+: 2281 7 2 ~
+: 2289 7 10 ~
+: 2297 9 9 ~ 
+- 2307
+: 2308 4 5 I 
+: 2313 10 7 left 
+: 2324 3 5 the 
+: 2328 12 0 keys 
+: 2341 3 -2 un
+: 2345 8 -2 der 
+: 2356 4 5 the 
+: 2361 9 0 mat 
+: 2372 4 -2 to 
+: 2377 5 -3 our 
+: 2384 8 -2 front 
+: 2397 6 -2 door
+: 2404 7 0 ~
+: 2412 3 -2 ~
+: 2416 7 0 ~
+: 2424 7 2 ~
+: 2432 7 3 ~
+: 2440 12 2 ~ 
+- 2454
+: 2456 4 -2 For 
+: 2461 7 -2 one 
+: 2469 6 0 more 
+: 2476 7 -2 chance 
+: 2484 3 0 to 
+: 2488 7 2 hold 
+: 2496 7 3 you 
+: 2504 7 2 close 
+- 2513
+: 2514 2 -2 I 
+: 2518 7 -2 don’t 
+: 2526 5 -2 know
+: 2532 5 0 ~
+: 2538 7 2 ~
+: 2547 5 10 ~
+: 2553 9 9 ~ 
+: 2570 9 7 where 
+: 2580 4 5 you’re 
+: 2586 5 0 go
+: 2592 8 0 ing 
+- 2602
+: 2618 4 -2 Just 
+: 2623 3 2 get 
+: 2627 4 0 your 
+: 2632 6 -2 ass 
+: 2639 8 -3 back 
+: 2648 6 -2 home 
+- 2656
+F 2666 3 0 No 
+F 2670 1 0 one 
+F 2672 3 0 holds 
+F 2676 1 0 me 
+F 2678 3 0 down 
+F 2682 2 0 like 
+F 2685 1 0 you 
+F 2687 2 0 do, 
+F 2690 3 0 sweet
+F 2694 8 0 heart 
+- 2704
+F 2719 1 0 You 
+F 2721 4 0 keep 
+F 2726 3 0 doing 
+F 2730 6 0 that, 
+F 2750 2 0 I’ll 
+F 2753 1 0 keep 
+F 2755 4 0 doing 
+F 2760 6 0 this 
+- 2768
+F 2779 2 0 We’ll 
+F 2782 2 0 be 
+F 2785 4 0 aight 
+F 2790 1 0 in 
+F 2792 1 0 the 
+F 2794 4 0 end 
+- 2800
+F 2805 5 0 Trust 
+F 2811 8 0 that 
+- 2821
+F 2851 1 0 We 
+F 2853 3 0 put 
+F 2857 1 0 the 
+F 2859 2 0 us 
+F 2862 1 0 in 
+F 2864 5 0 trust, 
+F 2870 3 0 ba
+F 2874 4 0 by 
+- 2880
+F 2898 3 0 Let’s 
+F 2902 8 0 go! 
+- 2912
+: 2918 5 2 I 
+: 2924 7 -2 don’t 
+: 2932 8 2 care 
+: 2941 5 0 what 
+: 2947 5 2 you’re 
+: 2953 7 0 af
+: 2961 4 -2 ter 
+- 2967
+: 2982 7 2 As 
+: 2990 7 -2 long 
+: 2998 7 2 as 
+: 3006 7 0 I’m 
+: 3014 3 2 the 
+: 3018 5 0 one, 
+: 3024 5 -2 No
+: 3030 3 -3 ~
+: 3034 8 -5 ~ 
+- 3044
+: 3046 6 2 I 
+: 3053 6 -2 don’t 
+: 3060 7 2 care 
+: 3068 7 0 why 
+: 3076 5 2 you’re 
+: 3082 7 0 lea
+: 3090 6 -2 ving 
+- 3098
+: 3108 6 2 You’ll 
+: 3115 7 -2 miss 
+: 3123 8 2 me 
+: 3132 7 0 when 
+: 3140 6 2 you’re 
+: 3147 4 0 gone 
+- 3152
+: 3152 4 -2 I 
+: 3157 6 -2 don’t 
+: 3166 7 -2 know
+: 3174 4 0 ~
+: 3179 7 2 ~
+: 3187 7 10 ~
+: 3195 11 9 ~ 
+: 3210 8 7 where 
+: 3221 4 5 you’re 
+: 3226 6 0 go
+: 3233 8 0 ing 
+- 3243
+: 3258 3 -2 Or 
+: 3262 4 2 when 
+: 3268 5 0 you’re 
+: 3274 7 -2 com
+: 3282 7 -3 ing 
+: 3294 6 -2 home
+: 3302 4 0 ~
+: 3307 7 2 ~
+: 3315 7 10 ~
+: 3323 9 9 ~ 
+- 3333
+: 3334 4 5 I 
+: 3339 10 7 left 
+: 3350 3 5 the 
+: 3354 12 0 keys 
+: 3367 3 -2 un
+: 3371 8 -2 der 
+: 3382 4 5 the 
+: 3387 9 0 mat 
+: 3398 4 -2 to 
+: 3403 5 -3 our 
+: 3410 8 -2 front 
+: 3423 6 -2 door
+: 3430 7 0 ~
+: 3438 3 -2 ~
+: 3442 7 0 ~
+: 3450 7 2 ~
+: 3458 7 3 ~
+: 3466 12 2 ~ 
+- 3480
+: 3482 4 -2 For 
+: 3487 7 -2 one 
+: 3495 6 0 more 
+: 3502 7 -2 chance 
+: 3510 3 0 to 
+: 3514 7 2 hold 
+: 3522 7 3 you 
+: 3530 7 2 close 
+- 3539
+: 3540 2 -2 I 
+: 3544 7 -2 don’t 
+: 3552 5 -2 know
+: 3558 5 0 ~
+: 3564 7 2 ~
+: 3573 5 10 ~
+: 3579 9 9 ~ 
+: 3596 9 7 where 
+: 3606 4 5 you’re 
+: 3612 5 0 go
+: 3618 8 0 ing 
+- 3628
+: 3644 4 -2 Just 
+: 3649 3 2 get 
+: 3653 4 0 your 
+: 3658 6 -2 ass 
+: 3665 8 -3 back 
+: 3674 6 -2 home 
+- 3681
+F 3682 4 0 I’m 
+F 3687 4 0 home 
+F 3692 4 0 ba
+F 3697 4 0 by 
+E

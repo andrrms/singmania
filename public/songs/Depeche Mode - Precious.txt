@@ -1,0 +1,244 @@
+#ARTIST:Depeche Mode
+#TITLE:Precious
+#MP3:Depeche Mode - Precious.mp3
+#CREATOR:IC
+#EDITION:[SC]-Songs
+#GENRE:Synth-Pop
+#YEAR:2005
+#LANGUAGE:English
+#BPM:212
+#GAP:19780
+#VIDEO:v=TQ3GwGfQ8II,co=https://www.depechemode.de/wp-content/uploads/2011/06/depeche-mode-precious.jpg,bg=depeche-mode-4e142171de6df.jpg
+: 0 3 1 Pre
+: 5 3 -1 cious 
+: 11 3 -2 and 
+: 16 4 -4 fra
+: 22 3 -6 gile 
+: 28 5 -2 things 
+- 35
+: 64 4 1 Need 
+: 70 4 -1 spe
+: 76 2 -2 cial 
+: 80 5 -4 han
+: 88 2 -6 d
+: 92 5 -6 ling 
+- 99
+: 129 4 1 My 
+: 135 4 -1 god 
+: 141 2 -2 what 
+: 145 4 -4 have 
+: 152 3 -6 we 
+: 157 5 -4 done 
+: 165 6 -2 to 
+* 174 39 3 you? 
+- 215
+: 258 3 1 We 
+: 263 4 -1 al
+: 269 2 -2 ways 
+: 274 4 -4 try 
+: 281 3 -6 to 
+: 286 8 -2 share 
+- 296
+: 323 3 1 The 
+: 328 3 -1 ten
+: 334 3 -2 de
+: 339 3 -4 rest 
+: 345 3 -6 of 
+: 351 5 -6 care 
+- 358
+: 387 4 1 Now 
+: 393 4 -1 look 
+: 399 3 -2 what 
+: 404 4 -4 we 
+: 410 3 -6 have 
+: 416 4 -4 put 
+: 424 5 -2 you 
+: 432 40 3 through... 
+- 474
+: 517 5 1 Things 
+: 525 4 -1 get 
+: 533 2 -2 dam
+: 537 3 -6 aged 
+- 542
+: 549 5 1 Things 
+: 557 4 -1 get 
+: 565 2 -2 bro
+: 570 2 -6 ken 
+- 574
+: 581 4 1 I 
+: 587 4 -1 thought 
+: 593 2 -2 we’d 
+: 597 2 -4 man
+: 601 3 -6 age 
+- 606
+: 610 2 -6 But 
+* 614 4 1 words 
+: 620 3 -1 left 
+: 625 2 -2 un
+: 629 3 -4 spo
+: 635 2 -6 ken 
+- 639
+: 646 3 1 Left 
+: 652 3 -1 us 
+: 658 2 -2 so 
+: 662 2 -4 brit
+: 666 2 -6 tle 
+- 670
+: 678 4 1 There 
+: 684 3 -1 was 
+: 690 2 -2 so 
+: 694 3 -4 lit
+: 700 3 -6 tle 
+: 706 4 -4 left 
+: 714 5 -2 to 
+: 722 6 -9 give 
+- 730
+: 969 4 1 An
+: 975 4 -1 gels 
+: 981 2 -2 with 
+: 985 5 -4 sil
+: 993 3 -6 ver 
+: 997 6 -2 wings 
+- 1005
+: 1033 4 1 Should
+: 1039 3 -1 n’t 
+: 1045 4 -2 know 
+: 1054 2 -4 suf
+: 1058 2 -6 fer
+: 1062 4 -6 ing 
+- 1068
+: 1094 2 -6 I 
+: 1098 3 1 wish 
+: 1104 3 -1 I 
+: 1110 2 -2 could 
+: 1114 3 -4 take 
+: 1121 3 -6 the 
+: 1126 5 -4 pain 
+: 1135 5 -2 for 
+* 1143 39 3 you 
+- 1184
+: 1223 2 -6 If 
+: 1227 4 1 god 
+: 1233 4 -1 has 
+: 1239 2 -2 a 
+: 1243 4 -4 mas
+: 1250 3 -6 ter 
+: 1255 5 -2 plan 
+- 1262
+: 1288 2 -6 That 
+: 1292 4 1 on
+: 1298 4 -1 ly 
+: 1304 2 -2 he 
+: 1308 5 -4 un
+: 1315 3 -6 der
+: 1320 6 -6 stands 
+- 1328
+: 1353 2 -6 I 
+: 1357 3 1 hope 
+: 1362 2 -1 it’s 
+: 1368 2 -2 Your 
+: 1373 4 -4 eyes 
+: 1380 3 -6 he’s 
+: 1385 6 -4 see
+: 1393 5 -2 ing 
+: 1401 40 3 through 
+- 1443
+: 1486 5 1 Things 
+: 1494 4 -1 get 
+: 1502 2 -2 dam
+: 1506 3 -6 aged 
+- 1511
+: 1518 5 1 Things 
+* 1526 4 -1 get 
+: 1534 2 -2 bro
+: 1539 2 -6 ken 
+- 1543
+: 1550 4 1 I 
+: 1556 4 -1 thought 
+: 1562 2 -2 we’d 
+: 1567 2 -4 man
+: 1571 3 -6 age 
+- 1576
+: 1579 2 -6 But 
+: 1583 4 1 words 
+: 1589 3 -1 left 
+: 1594 2 -2 un
+: 1598 3 -4 spo
+: 1604 2 -6 ken 
+- 1608
+: 1615 3 1 Left 
+: 1620 3 -1 us 
+: 1627 2 -2 so 
+: 1631 2 -4 brit
+: 1636 2 -6 tle 
+- 1640
+: 1647 4 1 There 
+: 1653 3 -1 was 
+: 1659 2 -2 so 
+: 1663 3 -4 lit
+: 1669 2 -6 tle 
+: 1676 4 -4 left 
+: 1684 5 -2 to 
+: 1692 5 -9 give 
+- 1699
+: 2197 3 1 I 
+: 2202 4 -1 pray 
+: 2208 2 -2 You 
+: 2213 4 -4 learn 
+* 2220 2 -6 to 
+: 2225 6 -2 trust 
+- 2233
+: 2261 3 1 Have 
+: 2267 3 -1 faith 
+: 2273 2 -2 in 
+: 2277 4 -4 both 
+: 2284 3 -6 of 
+: 2289 6 -6 us 
+- 2297
+: 2325 3 1 And 
+: 2330 4 -1 keep 
+: 2337 3 -2 room 
+: 2342 4 -4 in 
+: 2348 3 -6 your 
+: 2354 5 -4 heart 
+: 2362 5 -2 for 
+: 2371 39 3 two 
+- 2412
+: 2455 5 1 Things 
+: 2463 4 -1 get 
+: 2471 2 -2 dam
+: 2475 3 -6 aged 
+- 2480
+: 2487 5 1 Things 
+: 2495 4 -1 get 
+: 2503 2 -2 bro
+* 2508 2 -6 ken 
+- 2512
+: 2519 4 1 I 
+: 2525 4 -1 thought 
+: 2531 2 -2 we’d 
+: 2535 2 -4 man
+: 2539 3 -6 age 
+- 2544
+: 2548 2 -6 But 
+: 2552 3 1 words 
+: 2558 3 -1 left 
+: 2564 2 -2 un
+: 2568 3 -4 spo
+: 2574 2 -6 ken 
+- 2578
+: 2584 3 1 Left 
+: 2590 3 -1 us 
+: 2596 2 -2 so 
+: 2600 3 -4 brit
+: 2605 2 -6 tle 
+- 2609
+: 2616 4 1 There 
+: 2622 3 -1 was 
+: 2628 2 -2 so 
+: 2632 3 -4 lit
+: 2638 3 -6 tle 
+: 2645 4 -4 left 
+* 2653 5 -2 to 
+: 2661 8 -9 give 
+E

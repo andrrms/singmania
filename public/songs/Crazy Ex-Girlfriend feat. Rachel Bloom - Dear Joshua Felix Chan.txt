@@ -1,0 +1,212 @@
+#ARTIST:Crazy Ex-Girlfriend feat. Rachel Bloom
+#TITLE:Dear Joshua Felix Chan
+#MP3:Crazy Ex-Girlfriend feat. Rachel Bloom - Dear Joshua Felix Chan.mp3
+#CREATOR:blackcat6
+#COVER:Crazy Ex-Girlfriend feat. Rachel Bloom - Dear Joshua Felix Chan [CO].jpg
+#BACKGROUND:Crazy Ex-Girlfriend feat. Rachel Bloom - Dear Joshua Felix Chan [BG].jpg
+#GENRE:Soundtrack
+#YEAR:2016
+#LANGUAGE:English
+#BPM:321.51
+#GAP:380
+#VIDEO:a=c4XsaVCihHs,co=crazy-ex-girlfriend-original-television-soundtrack-season-1--6851bdb869b41.jpg
+: 0 5 -5 Dear 
+: 8 4 4 Jo
+: 16 6 4 shu
+: 24 4 4 a 
+: 32 13 7 Fe
+: 48 2 5 lix 
+: 58 11 4 Chan 
+- 79
+: 98 2 -5 I 
+: 101 3 -5 re
+: 106 6 4 mem
+: 114 5 4 ber 
+: 122 4 4 the 
+: 131 3 7 mo
+: 135 2 5 ment 
+: 139 6 7 it 
+: 150 3 5 be
+: 156 14 4 gan 
+- 180
+: 190 5 0 You 
+: 197 5 0 were 
+* 206 3 9 pla
+* 210 2 9 ying 
+: 214 3 9 fris
+: 218 3 9 bee 
+: 223 3 9 shir
+: 227 1 9 tless 
+- 230
+: 232 3 7 On 
+: 236 1 7 the 
+: 240 3 7 field 
+: 244 1 7 a
+: 247 3 7 cross 
+: 252 2 7 the 
+: 256 1 5 lake 
+- 258
+: 260 1 5 Next 
+: 265 6 7 to 
+: 273 4 5 the 
+: 281 4 4 dumps
+: 290 3 0 ter 
+- 298
+: 300 3 0 And 
+: 304 2 0 your 
+: 310 6 9 skin 
+: 318 2 9 glis
+: 323 2 9 tened 
+: 326 2 9 in 
+: 329 1 9 the 
+: 334 4 7 sun
+: 339 1 7 light 
+- 341
+: 343 2 7 All 
+: 346 2 7 your 
+: 349 3 7 moles, 
+: 353 1 7 a 
+: 358 2 5 cons
+: 364 1 5 te
+: 366 1 5 lla
+: 370 1 5 tion 
+* 373 3 4 on 
+* 377 2 5 your 
+* 383 4 7 chest 
+- 429
+: 478 4 -5 Dear 
+: 486 4 4 Jo
+: 493 4 4 shu
+: 498 8 4 a 
+: 510 10 7 when 
+: 523 4 5 we 
+: 532 5 4 fro
+: 539 2 0 lic 
+- 551
+: 572 3 -5 I 
+: 580 5 4 feel 
+: 587 4 4 like, 
+: 594 6 4 and 
+: 602 2 7 not 
+: 607 1 5 to 
+: 610 5 7 be 
+: 617 2 7 hy
+: 621 3 5 per
+: 626 5 4 bo
+: 633 3 0 lic 
+- 646
+: 665 3 0 But 
+: 669 3 0 I 
+: 676 4 9 feel 
+: 681 2 9 like 
+: 685 2 9 I 
+: 689 1 9 could 
+: 693 3 9 die 
+: 697 1 9 of 
+: 701 2 7 hap
+: 705 3 7 pi
+: 709 2 7 ness 
+- 714
+: 716 1 7 When 
+: 718 2 7 I’m 
+: 722 2 5 nes
+: 726 1 5 tled 
+: 729 1 5 in 
+: 733 2 5 your 
+* 738 1 7 hair
+* 740 1 5 less 
+* 745 7 4 arms 
+- 759
+: 762 1 0 We’re 
+: 764 2 0 like 
+: 769 1 9 Tris
+: 773 2 9 tan 
+: 776 2 9 and 
+: 779 3 9 I
+: 785 3 9 solde 
+- 790
+: 792 2 7 An
+: 796 1 7 cient 
+: 800 2 7 lo
+: 804 2 7 vers 
+: 808 2 7 run
+: 811 1 7 ning 
+- 814
+: 816 1 5 Des
+: 820 1 5 perate
+: 824 5 5 ly 
+: 830 2 4 in 
+: 833 1 5 the 
+: 839 7 7 fo
+: 848 2 -5 rest 
+- 871
+: 930 5 -5 Dear 
+: 939 5 4 Jo
+: 948 3 4 shu
+: 952 8 4 a 
+: 966 13 7 Fe
+: 981 2 5 lix 
+: 991 16 4 Chan 
+- 1017
+: 1037 2 -5 It’s 
+: 1045 11 4 mu
+: 1058 3 4 sic 
+* 1066 2 7 when 
+* 1069 3 5 I 
+* 1076 7 7 hold 
+: 1085 4 5 your 
+: 1092 18 4 hand 
+- 1120
+: 1134 6 0 I 
+: 1143 2 9 loved 
+: 1147 1 9 you 
+: 1151 2 9 from 
+: 1155 2 9 the 
+: 1159 3 9 mo
+: 1163 1 9 ment 
+: 1167 2 7 that 
+: 1170 2 7 I 
+: 1176 3 7 saw 
+: 1180 2 7 you 
+- 1183
+: 1185 2 7 You’re 
+: 1188 1 7 my 
+: 1192 3 5 he
+: 1196 4 5 ro, 
+: 1202 7 7 I 
+: 1211 4 5 be
+: 1216 3 4 lieve 
+: 1221 3 0 in 
+: 1226 10 0 you 
+- 1246
+: 1258 2 0 There’s 
+: 1264 2 9 no
+: 1268 3 9 thing 
+: 1273 3 9 you 
+: 1281 3 9 can’t 
+: 1288 6 7 do 
+- 1306
+: 1310 2 7 You 
+: 1313 2 7 make 
+: 1316 2 7 a 
+: 1321 1 5 dif
+: 1325 3 5 ference 
+: 1332 4 4 in 
+: 1338 3 5 the 
+: 1343 15 7 world 
+- 1368
+: 1380 3 -5 And 
+: 1386 3 -5 you 
+: 1390 4 -5 make 
+: 1399 9 5 all 
+: 1410 3 4 the 
+: 1416 2 2 dif
+: 1421 5 0 ference 
+* 1431 3 -1 in 
+* 1436 3 0 the 
+* 1441 2 2 world
+* 1444 9 4 ~ 
+- 1463
+: 1470 14 2 To 
+: 1500 38 0 me 
+E

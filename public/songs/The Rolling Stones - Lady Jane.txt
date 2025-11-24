@@ -1,0 +1,169 @@
+#ARTIST:The Rolling Stones
+#TITLE:Lady Jane
+#MP3:The Rolling Stones - Lady Jane.mp3
+#CREATOR:Fepo
+#COVER:The Rolling Stones - Lady Jane [CO].jpg
+#BACKGROUND:The Rolling Stones - Lady Jane [BG].jpg
+#GENRE:Pop
+#YEAR:1966
+#LANGUAGE:English
+#BPM:303.39
+#GAP:32050
+#VIDEO:v=lRDnufYNz8c,co=https://img.cdandlp.com/2013/11/imgL/116290592.jpg
+: 0 5 33 My 
+: 8 7 33 sweet 
+: 20 3 31 La
+: 25 3 30 dy 
+: 30 6 26 Ja
+: 37 7 28 ~ne 
+- 46
+: 88 4 30 When 
+: 94 4 31 I 
+: 101 4 31 see 
+: 107 8 30 you 
+: 117 4 28 a
+: 123 5 23 gai
+: 129 10 26 ~n 
+- 141
+: 188 5 33 Your 
+: 196 6 33 ser
+: 204 5 31 vant 
+: 212 2 30 of 
+: 216 6 26 I
+: 223 7 28 ~ 
+- 232
+: 277 3 31 And 
+: 283 5 31 will 
+: 290 4 31 humb
+: 296 7 30 ly 
+: 306 4 28 re
+: 312 6 23 mai
+: 319 6 26 ~n 
+- 327
+: 419 7 26 Just 
+: 431 9 16 heed 
+: 443 7 26 this 
+: 454 13 24 plea 
+: 470 6 16 my 
+: 478 10 16 love 
+- 490
+: 515 7 24 On 
+: 525 9 14 ben
+: 537 5 24 ded 
+: 548 14 23 knees 
+: 565 6 11 my 
+: 573 10 11 love 
+- 585
+: 608 8 28 I 
+: 619 8 36 pledge 
+: 631 5 28 my
+: 637 3 26 ~
+* 643 9 26 self 
+: 657 9 26 to 
+: 679 5 30 La
+: 686 5 33 dy 
+: 693 16 28 Jane 
+- 711
+: 817 4 33 My 
+: 825 4 33 dear 
+: 831 7 31 La
+: 841 3 30 dy 
+: 847 5 26 A
+: 853 8 28 ~nne 
+- 863
+: 911 5 31 I’ve 
+: 918 4 31 done 
+: 925 4 30 what 
+: 933 6 28 I 
+: 941 6 23 ca
+: 948 7 26 ~n 
+- 957
+: 1005 4 33 I 
+: 1011 4 33 must 
+: 1018 5 31 take 
+: 1027 6 30 my 
+: 1035 6 26 lea
+: 1042 6 28 ~ve 
+- 1050
+: 1100 4 31 For 
+: 1106 4 31 pro
+: 1112 5 30 mised 
+: 1121 5 28 I 
+: 1129 4 23 a
+: 1134 6 26 ~m 
+- 1142
+: 1235 6 26 This 
+: 1247 9 16 play 
+: 1259 5 26 is 
+: 1269 12 24 run 
+: 1290 3 16 my 
+: 1295 10 16 love 
+- 1307
+: 1331 5 24 Your 
+: 1342 8 14 time 
+: 1354 8 24 has 
+: 1366 9 23 come 
+: 1383 4 11 my 
+: 1389 10 11 love 
+- 1401
+: 1424 6 16 I’ve 
+: 1435 7 24 pledged 
+: 1447 7 16 my 
+: 1459 9 14 troth 
+: 1472 7 14 to 
+* 1495 5 18 La
+* 1502 4 21 dy 
+* 1509 11 16 Jane 
+- 1522
+: 2468 3 33 Oh 
+: 2473 6 33 my 
+* 2482 4 31 sweet 
+: 2491 4 30 Ma
+: 2497 6 26 rie
+: 2504 6 28 ~ 
+- 2512
+: 2562 4 31 I 
+: 2568 5 31 wait 
+: 2575 4 30 at 
+: 2583 5 28 your 
+: 2591 6 23 ea
+: 2598 6 26 ~se 
+- 2606
+: 2657 3 33 The 
+: 2662 7 33 sands 
+: 2673 4 31 have 
+: 2679 4 30 run 
+: 2685 4 26 ou
+: 2690 6 28 ~t 
+- 2698
+: 2744 5 31 For 
+: 2751 5 31 your 
+: 2758 5 31 la
+: 2765 5 30 dy 
+: 2773 5 28 and 
+: 2781 6 23 me
+: 2788 6 26 ~ 
+- 2796
+: 2885 8 26 Wed
+: 2895 8 16 lock 
+: 2908 5 26 is 
+: 2919 13 24 nigh 
+: 2938 4 16 my 
+: 2944 9 16 love 
+- 2955
+: 2977 7 24 Her 
+: 2989 8 14 sta
+: 3001 6 24 tion’s 
+: 3013 8 23 right 
+: 3029 5 11 my 
+: 3036 10 11 love 
+- 3048
+: 3069 8 16 Life 
+: 3081 6 24 is 
+: 3093 8 16 se
+: 3106 7 14 cure 
+: 3117 7 14 with 
+: 3139 5 18 La
+: 3146 4 21 dy 
+: 3153 33 16 Jane 
+E

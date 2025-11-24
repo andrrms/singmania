@@ -1,0 +1,321 @@
+#ARTIST:Pendulum
+#TITLE:The Tempest
+#MP3:Pendulum - The Tempest.mp3
+#CREATOR:Bluescreen
+#YEAR:2008
+#LANGUAGE:English
+#BPM:348
+#GAP:25460
+#VIDEO:a=bwX_zWjaFtE,co=https://i.discogs.com/quBSDzmZnr2qRD0O06gA4pWtffivBSGL0Yy9kHaZYAE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzky/MDAtMTU4OTMyMjk4/OC04MzEyLmpwZWc.jpeg,bg=pendulum-4dea3d066ec08.jpg
+#END:314459
+: 0 8 12 Saw 
+: 10 6 12 you 
+: 18 4 9 the 
+: 24 7 12 o
+: 32 4 9 ther 
+: 38 32 12 day 
+- 72
+: 104 7 8 Loo
+: 112 30 10 king 
+: 144 8 8 so 
+: 154 5 8 un
+: 160 16 5 dermined 
+- 178
+: 250 5 12 Ac
+: 256 4 10 ting 
+: 264 6 12 like 
+: 272 2 10 it 
+: 278 10 12 would
+: 290 4 10 n’t 
+: 296 8 12 hap
+: 306 32 10 pen 
+- 340
+: 344 12 5 Making 
+: 358 8 10 sense 
+: 368 4 10 of 
+: 374 14 10 any
+: 390 8 10 thing 
+: 400 6 10 that 
+: 408 6 10 you 
+: 416 4 5 could 
+: 422 40 5 find 
+- 464
+: 466 5 5 Be
+: 472 6 8 cause 
+: 480 6 10 it’s 
+: 488 12 10 just 
+: 502 3 8 a
+: 506 5 7 ~
+: 512 12 5 bout 
+: 526 10 0 to 
+: 538 13 7 hap
+: 552 12 5 pen 
+- 566
+: 580 4 5 And 
+: 586 10 7 you’ll 
+: 598 8 0 be 
+: 608 64 0 there 
+- 674
+: 722 4 5 You 
+: 728 6 5 must 
+: 736 6 10 have 
+: 744 12 12 known 
+: 758 4 10 the 
+: 764 16 5 storm 
+: 784 6 5 was 
+: 792 12 7 co
+: 806 18 8 ~ming 
+- 826
+F 832 8 8 When 
+: 842 12 10 clouds 
+: 856 7 10 ap
+: 864 64 9 peared 
+- 930
+: 1232 8 5 May 
+: 1242 2 5 as 
+: 1246 8 5 well 
+: 1256 8 8 let 
+: 1268 6 12 the 
+: 1280 14 7 rain 
+: 1296 20 12 come 
+: 1320 40 5 down 
+- 1361
+: 1362 4 5 And 
+: 1368 8 8 join 
+: 1378 1 10 the 
+: 1380 11 10 cir
+: 1392 32 8 cus 
+: 1426 12 3 of 
+: 1440 13 7 peo
+: 1454 16 5 ple 
+- 1472
+: 1488 12 8 While 
+: 1502 9 5 you
+: 1512 6 3 ’re 
+: 1520 88 5 there 
+- 1610
+: 2536 7 12 Some
+: 2544 18 12 thing 
+: 2564 2 8 is 
+: 2568 7 10 chan
+: 2576 14 8 ging 
+- 2592
+: 2600 16 8 Bruising 
+: 2624 8 5 and 
+: 2636 5 7 a
+: 2642 6 5 ching 
+- 2649
+: 2650 4 5 And 
+: 2656 6 5 I’m 
+: 2664 24 12 trying 
+: 2692 2 9 to 
+: 2696 8 12 find 
+: 2706 6 5 out 
+: 2720 2 0 what 
+: 2724 2 5 it 
+: 2728 23 12 is
+: 2752 3 10 ~
+: 2756 3 7 ~
+: 2760 20 3 ~ 
+- 2782
+F 2786 1 7 When 
+F 2788 2 7 I 
+: 2792 8 12 fix 
+: 2802 14 12 her 
+: 2820 2 8 she’s 
+: 2824 7 10 brea
+: 2832 16 8 king 
+- 2850
+: 2856 14 8 Reason 
+: 2872 8 5 keeps 
+: 2882 5 5 es
+: 2888 7 7 ca
+: 2896 8 5 ping 
+- 2905
+: 2906 6 5 We’re 
+: 2914 28 12 protecting 
+: 2948 4 9 and 
+: 2954 5 12 bur
+: 2960 6 5 ning 
+: 2968 8 0 like 
+: 2978 1 5 a 
+: 2980 11 6 cy~
+: 2992 48 5 st 
+- 3042
+: 3556 3 5 I 
+: 3560 6 12 know 
+: 3568 12 12 that 
+: 3582 4 12 I 
+: 3588 4 5 can 
+: 3594 6 10 help 
+: 3602 6 8 you 
+- 3610
+: 3618 4 5 I 
+: 3624 6 10 just 
+: 3632 6 8 don’t 
+: 3640 7 8 fu
+: 3648 6 5 cking 
+: 3656 6 7 want 
+: 3664 8 5 to 
+- 3673
+: 3674 4 3 And 
+: 3680 6 5 the 
+: 3688 7 12 fee
+: 3696 14 12 ling 
+: 3716 2 5 gets 
+: 3720 7 10 stron
+: 3728 6 8 ger 
+: 3736 6 5 by 
+: 3746 4 8 the 
+: 3752 23 12 da
+: 3776 5 10 ~
+: 3782 5 8 ~
+: 3788 4 5 ~
+: 3794 16 3 y 
+- 3811
+: 3812 2 12 You 
+: 3816 6 12 say 
+: 3824 8 12 that 
+: 3842 4 5 I’m 
+: 3848 6 10 sel
+: 3856 16 8 fish 
+- 3874
+: 3876 3 5 But 
+: 3880 6 10 I 
+: 3888 14 8 know 
+: 3904 6 5 you 
+: 3912 8 8 need 
+: 3922 6 5 this 
+- 3929
+: 3930 3 3 And 
+: 3934 4 5 I’m 
+: 3944 6 12 just 
+: 3952 16 12 so 
+: 3976 7 8 si
+: 3984 8 7 ~ck 
+: 3994 4 5 of 
+: 4000 6 8 the 
+: 4008 7 8 cha
+: 4016 7 7 ~
+: 4024 40 5 se 
+- 4066
+: 4080 6 5 While 
+: 4088 6 5 you 
+: 4096 6 5 were 
+: 4104 15 12 letting 
+: 4120 7 12 your 
+* 4128 30 12 guard 
+: 4160 32 10 down 
+- 4194
+: 4208 6 5 I 
+: 4216 6 5 will 
+: 4224 6 5 be 
+: 4232 15 8 letting 
+: 4248 38 8 myself 
+: 4288 32 5 go 
+- 4322
+: 4336 6 5 While 
+: 4344 6 5 you 
+: 4352 6 5 keep 
+: 4360 14 12 running, 
+: 4376 6 15 don’t 
+: 4384 15 12 sha
+: 4400 6 12 ~ke 
+: 4408 6 5 the 
+: 4416 40 10 ground 
+- 4458
+: 4464 6 5 I 
+: 4472 6 5 will 
+: 4480 6 5 be 
+: 4488 14 8 setting 
+: 4504 40 8 myself 
+: 4552 31 10 a
+* 4584 64 12 light 
+- 4650
+: 5104 8 7 Too 
+: 5114 4 7 late, 
+: 5120 6 0 you 
+: 5128 6 3 dropped 
+: 5136 4 5 the 
+: 5142 9 6 draw
+: 5152 12 5 bridge 
+- 5166
+: 5168 5 7 You
+: 5174 2 7 ~ 
+: 5178 8 5 let 
+: 5188 2 0 the 
+: 5192 7 3 vam
+: 5200 10 5 pires 
+: 5212 18 7 in 
+- 5231
+: 5232 8 7 You 
+: 5242 6 7 caused 
+: 5250 4 0 this 
+: 5256 6 3 shit 
+: 5264 4 5 to 
+: 5270 10 5 happen, 
+: 5282 4 5 and 
+: 5288 8 10 now 
+: 5298 4 10 you 
+: 5304 8 8 want 
+: 5314 30 8 out? 
+- 5346
+: 5360 6 7 Too 
+: 5368 6 7 late, 
+: 5376 6 0 you 
+: 5384 6 3 dropped 
+: 5392 2 5 the 
+: 5396 11 7 draw
+: 5408 8 5 bridge 
+- 5418
+: 5424 6 7 You 
+: 5432 6 7 let 
+: 5440 4 0 the 
+: 5450 5 3 vam
+: 5456 8 5 pires 
+: 5466 14 7 in 
+- 5482
+: 5488 6 5 I 
+: 5496 6 5 hope 
+: 5504 4 0 you 
+: 5512 6 3 know 
+: 5520 6 5 that 
+: 5528 6 7 that 
+: 5536 4 5 is 
+: 5544 12 10 nobody’s 
+: 5558 8 7 fault 
+: 5568 6 5 but 
+: 5576 24 5 yours 
+- 5602
+: 5616 6 5 While 
+: 5624 6 5 you 
+: 5632 6 5 are 
+: 5640 14 12 letting 
+: 5656 6 12 your 
+: 5664 30 12 guard 
+: 5696 40 10 down 
+- 5738
+: 5744 6 4 I 
+: 5752 6 4 will 
+: 5760 6 4 be 
+: 5768 14 7 letting 
+: 5784 38 7 myself 
+: 5824 40 5 go 
+- 5866
+: 5872 6 5 While 
+: 5880 6 5 you 
+: 5888 6 5 keep 
+: 5896 14 12 running, 
+: 5912 6 15 don’t 
+: 5920 22 12 shake 
+: 5944 6 8 the 
+: 5952 40 10 ground 
+- 5994
+: 6000 6 4 I 
+: 6008 6 4 will 
+: 6016 6 4 be 
+: 6024 14 8 setting 
+: 6040 38 8 myself 
+: 6088 31 10 a
+* 6120 72 12 light 
+E

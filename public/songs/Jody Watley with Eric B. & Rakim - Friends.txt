@@ -1,0 +1,858 @@
+#ARTIST:Jody Watley with Eric B. & Rakim
+#TITLE:Friends
+#MP3:Jody Watley with Eric B. & Rakim - Friends.mp3
+#CREATOR:RetroGirl
+#GENRE:R&B
+#YEAR:1989
+#LANGUAGE:English
+#BPM:200.65
+#GAP:11680
+#VIDEO:v=ZtqKb8XwbKg,co=https://m.media-amazon.com/images/I/71-+Hz7TjmL.jpg
+: 0 2 -3 Have 
+: 4 2 -3 you 
+: 8 1 2 e
+: 10 2 4 ~
+: 14 3 2 ver
+: 18 1 0 ~
+: 20 3 -3 ~ 
+- 31
+: 34 2 -3 Been 
+: 38 1 0 stab
+: 40 1 2 ~
+: 42 1 2 bed 
+: 44 1 2 in 
+: 46 1 4 the 
+: 48 3 2 back 
+- 60
+: 64 2 -3 By 
+: 68 2 -3 some
+: 72 1 0 one
+: 74 1 2 ~ 
+: 77 1 4 you 
+: 80 2 2 thought 
+: 84 2 0 was 
+: 88 3 0 real
+: 92 6 0 ly 
+: 100 2 -5 cool
+: 103 3 -3 ~? 
+- 116
+: 128 1 -3 Did 
+: 130 2 -3 they 
+: 134 1 2 steal
+: 136 1 4 ~ 
+: 140 2 2 your 
+: 144 1 2 lo
+: 146 2 0 ver 
+- 160
+: 164 1 -3 Or 
+: 166 5 0 was 
+: 172 2 0 it 
+: 176 1 0 mo
+: 178 1 2 ~
+: 180 2 4 ney? 
+- 194
+: 198 1 -3 Or 
+: 200 1 -1 was
+: 202 1 0 ~ 
+: 205 2 0 it 
+: 212 2 -1 lies
+: 215 4 0 ~ 
+: 220 6 0 they 
+: 229 1 -5 told
+: 231 4 -3 ~? 
+- 248
+: 264 1 7 Stra
+: 266 5 9 ~n
+: 273 5 7 gers 
+: 281 5 2 just 
+: 289 1 2 dis
+: 291 3 4 ~
+: 297 3 2 guised 
+: 302 1 2 as 
+: 304 1 2 your
+: 306 1 4 ~ 
+: 309 5 2 friends 
+- 318
+: 320 2 0 Ne
+: 323 1 2 ver 
+: 325 2 4 a
+: 329 5 2 gain 
+- 339
+: 341 2 -3 Cause 
+: 345 3 0 now 
+: 349 5 0 you 
+* 357 1 0 know
+* 359 2 2 ~
+* 362 1 4 ~
+* 364 1 2 ~
+* 366 1 0 ~
+* 368 1 -3 ~ 
+- 379
+: 389 2 -3 That 
+* 393 1 2 friends
+* 395 2 4 ~ 
+- 401
+: 403 3 0 Will 
+: 408 1 0 let 
+* 411 1 0 you
+* 413 3 2 ~ 
+: 417 5 -3 down 
+- 423
+: 425 1 2 Friends
+: 427 2 4 ~ 
+- 433
+: 435 2 0 Won’t 
+: 440 2 0 be 
+: 443 1 0 a
+: 445 3 2 ~
+: 449 3 -3 round, 
+: 453 1 -3 when 
+: 455 1 -3 you 
+: 457 1 2 need
+: 459 3 4 ~ 
+: 465 1 2 them
+: 467 2 4 ~ 
+- 471
+: 473 2 0 Most, 
+: 477 1 -3 where 
+: 479 2 0 are 
+: 483 2 0 your 
+* 488 1 0 friends
+* 490 1 2 ~
+* 492 2 4 ~? 
+- 507
+: 521 1 7 Friends
+: 523 2 9 ~ 
+- 530
+: 532 2 4 Are 
+: 536 2 7 hard 
+: 540 2 7 to 
+: 545 1 7 find
+: 547 2 9 ~
+: 550 1 4 ~, 
+: 553 1 7 friends
+: 555 3 9 ~ 
+- 564
+: 567 2 7 Yours 
+: 571 1 7 and
+: 573 3 9 ~ 
+* 578 1 2 mine
+* 580 1 0 ~
+* 582 3 -3 ~
+* 586 6 0 ~
+* 594 1 2 ~ 
+- 598
+: 600 1 -3 I’m 
+: 602 2 0 tal
+: 606 1 -3 kin’ 
+: 608 2 0 ’bout 
+: 612 2 0 your 
+: 616 1 -5 friends
+: 618 2 -3 ~ 
+- 633
+: 650 1 2 Smiles
+: 652 2 4 ~ 
+- 658
+: 660 2 0 They 
+: 664 3 0 hide 
+: 669 1 0 be
+: 671 2 2 ~
+: 674 4 -3 hind 
+- 680
+: 682 1 2 Ne
+: 684 1 4 ~
+: 686 3 4 ver 
+: 691 2 0 know 
+: 694 1 -3 what’s 
+: 696 3 0 on 
+: 700 1 0 their
+: 702 2 2 ~ 
+: 706 4 -3 mind 
+- 712
+: 714 1 2 Could
+: 716 1 4 ~ 
+: 718 3 4 be 
+- 724
+: 726 5 0 True 
+: 734 3 0 de
+: 742 1 0 cep
+: 744 1 2 ~
+: 747 2 4 tion 
+- 762
+: 778 1 7 Jea
+: 780 1 9 ~
+: 782 1 7 lou
+: 785 3 7 sy 
+: 789 1 4 and 
+: 791 3 7 en
+: 797 1 7 vy
+: 799 2 9 ~ 
+: 802 3 2 reign 
+- 806
+: 808 1 0 They 
+: 810 3 2 ne
+: 815 1 0 ver 
+: 817 1 2 want 
+: 820 1 0 to 
+: 823 1 2 see 
+: 825 1 0 you 
+: 827 2 2 get 
+: 831 1 2 a
+: 833 1 4 ~
+: 835 5 2 head 
+- 849
+: 852 2 -5 They 
+: 855 1 -3 just 
+: 859 2 0 hold 
+: 863 1 -1 you
+: 865 3 0 ~ 
+: 871 1 -5 back
+: 873 2 -3 ~ 
+- 888
+: 907 1 2 Friends
+: 909 2 4 ~ 
+- 915
+: 917 3 0 Will 
+: 922 1 0 let 
+: 925 1 0 you
+: 927 2 2 ~ 
+: 931 5 -3 down 
+- 937
+: 939 1 2 Friends
+: 941 2 4 ~ 
+- 947
+: 949 2 0 Won’t 
+: 954 2 0 be 
+: 957 1 0 a
+: 959 3 2 ~
+: 963 3 -3 round, 
+: 967 1 -3 when 
+: 969 1 -3 you 
+: 971 1 2 need
+: 973 3 4 ~ 
+: 979 1 2 them
+: 981 2 4 ~ 
+- 985
+: 987 2 0 Most, 
+: 991 1 -3 where 
+: 993 2 0 are 
+: 997 2 0 your 
+: 1002 1 0 friends
+: 1004 1 2 ~
+: 1006 2 4 ~? 
+- 1019
+* 1023 1 7 Oh
+* 1025 2 9 ~, 
+* 1028 2 7 oh, 
+* 1031 2 9 uh, 
+* 1035 1 7 friends
+* 1037 2 9 ~
+* 1040 1 4 ~ 
+- 1044
+: 1046 2 4 Are 
+: 1050 2 7 hard 
+: 1054 3 7 to 
+: 1059 1 7 find
+: 1061 2 9 ~ 
+- 1065
+: 1067 1 7 Friends
+: 1069 3 9 ~ 
+- 1078
+: 1081 3 7 Yours 
+: 1086 1 7 and
+: 1088 2 9 ~ 
+: 1092 1 2 mine
+: 1094 1 0 ~
+: 1096 3 -3 ~
+: 1100 7 0 ~ 
+- 1111
+: 1113 1 -3 I’m 
+: 1116 2 0 tal
+: 1119 1 -3 kin’ 
+: 1122 1 0 ’bout 
+: 1126 1 0 your 
+: 1130 1 -5 friends
+: 1132 2 -3 ~ 
+- 1147
+F 1164 2 0 Friends 
+F 1168 1 0 are 
+F 1170 3 0 hard 
+F 1174 1 0 to 
+F 1176 3 0 find, 
+F 1181 1 0 so 
+F 1183 2 0 be 
+F 1186 2 0 care
+F 1189 1 0 ful 
+- 1190
+F 1191 1 0 You 
+F 1193 1 0 could 
+F 1196 3 0 find 
+F 1200 1 0 an 
+F 1202 2 0 inch 
+F 1206 1 0 or 
+F 1210 2 0 mile 
+F 1214 1 0 if 
+F 1216 1 0 I 
+F 1218 2 0 pay 
+F 1222 2 0 you 
+- 1226
+F 1228 1 0 Some 
+F 1231 2 0 ain’t 
+F 1235 1 0 that 
+F 1238 2 0 bad, 
+F 1242 1 0 but 
+F 1244 1 0 one 
+F 1246 2 0 might 
+F 1250 2 0 back 
+F 1254 1 0 stab 
+- 1256
+F 1258 2 0 To 
+F 1261 1 0 get 
+F 1264 1 0 their 
+F 1266 1 0 fin
+F 1268 1 0 ger
+F 1270 1 0 tips 
+F 1272 1 0 on 
+- 1274
+F 1276 2 0 What 
+F 1279 2 0 one 
+F 1282 3 0 might 
+F 1286 3 0 have 
+- 1290
+F 1292 1 0 Bite 
+F 1296 1 0 the 
+F 1298 2 0 hand 
+F 1302 1 0 that 
+F 1304 2 0 feeds 
+F 1307 1 0 you 
+- 1309
+F 1311 2 0 Leave 
+F 1314 1 0 the 
+F 1316 1 0 peo
+F 1318 1 0 ple 
+F 1320 1 0 who 
+F 1322 2 0 need 
+F 1326 1 0 you 
+- 1328
+F 1330 1 0 For 
+F 1332 1 0 those 
+F 1334 1 0 who 
+F 1336 1 0 hold 
+F 1338 1 0 you 
+F 1340 2 0 back 
+F 1343 1 0 and 
+F 1345 1 0 mis
+F 1347 2 0 lead 
+F 1350 1 0 you 
+- 1352
+F 1354 1 0 So 
+F 1356 1 0 be 
+F 1358 1 0 a 
+F 1360 1 0 lea
+F 1362 1 0 der, 
+F 1367 1 0 don’t 
+F 1370 1 0 get 
+F 1373 1 0 lead 
+F 1375 2 0 on 
+F 1379 1 0 un
+F 1381 1 0 lea
+F 1383 1 0 ded 
+- 1385
+F 1387 1 0 The 
+F 1389 1 0 wrong 
+F 1392 1 0 di
+F 1395 2 0 rec
+F 1399 1 0 tion, 
+F 1402 1 0 a 
+F 1404 3 0 dead 
+F 1408 1 0 ends 
+F 1411 1 0 next 
+F 1415 1 0 then 
+- 1419
+F 1421 1 0 You 
+F 1423 1 0 need 
+F 1425 1 0 a 
+F 1427 2 0 de
+F 1431 2 0 tour, 
+F 1435 2 0 life’s 
+F 1439 1 0 like 
+F 1441 1 0 a 
+F 1443 2 0 see
+F 1446 2 0 saw 
+- 1451
+F 1453 1 0 Ups 
+F 1456 1 0 and 
+F 1459 2 0 downs 
+- 1462
+F 1464 1 0 And 
+F 1466 1 0 I’ll 
+F 1468 1 0 bet 
+F 1471 2 0 there 
+F 1474 1 0 ’ll 
+F 1476 1 0 be 
+F 1479 1 0 more 
+- 1483
+F 1485 1 0 Pot
+F 1488 1 0 holes 
+F 1491 1 0 and 
+F 1493 1 0 ob
+F 1497 1 0 sta
+F 1500 1 0 cles 
+F 1503 1 0 in 
+F 1505 1 0 our 
+F 1507 1 0 path 
+- 1509
+F 1511 2 0 That’s 
+F 1515 2 0 righ
+F 1519 2 0 teous 
+- 1522
+F 1524 1 0 At 
+F 1526 1 0 times 
+F 1528 1 0 we 
+F 1530 1 0 need 
+F 1532 1 0 a 
+F 1534 2 0 hand 
+F 1537 1 0 to 
+F 1539 3 0 fight 
+F 1544 1 0 this 
+- 1547
+F 1549 1 0 Way 
+F 1551 1 0 of 
+F 1554 1 0 life 
+- 1558
+F 1560 1 0 Straigh
+F 1563 1 0 ten 
+F 1566 1 0 up, 
+F 1569 1 0 take 
+F 1571 1 0 the 
+F 1573 1 0 door 
+F 1576 1 0 to 
+F 1578 1 0 the 
+F 1580 2 0 pla
+F 1584 1 0 cid 
+- 1586
+F 1588 1 0 And 
+F 1590 1 0 don’t 
+F 1592 1 0 you 
+F 1595 2 0 act 
+F 1600 1 0 two-
+F 1603 3 0 faced 
+- 1609
+F 1611 1 0 Cause 
+F 1613 2 0 jea
+F 1617 2 0 lou
+F 1620 1 0 sy 
+F 1624 1 0 and 
+F 1626 1 0 en
+F 1629 1 0 vy 
+- 1631
+F 1633 1 0 And 
+F 1635 1 0 you 
+F 1638 1 0 still 
+F 1640 1 0 act 
+F 1644 1 0 friend
+F 1648 1 0 ly, 
+F 1650 1 0 you 
+F 1652 1 0 could 
+F 1654 1 0 find 
+- 1656
+F 1658 1 0 The 
+F 1660 1 0 end 
+F 1664 1 0 when 
+F 1666 1 0 you 
+F 1668 1 0 pre
+F 1670 1 0 tend 
+F 1672 1 0 to 
+F 1674 1 0 be 
+- 1676
+: 1678 1 2 Friends
+: 1680 2 4 ~ 
+- 1686
+: 1688 3 0 Will 
+: 1693 1 0 let 
+: 1696 1 0 you
+: 1698 2 2 ~ 
+: 1702 4 -3 down 
+- 1708
+: 1710 1 2 Friends
+: 1712 2 4 ~ 
+- 1718
+: 1720 2 0 Won’t 
+: 1724 3 0 be 
+: 1728 1 0 a
+: 1730 3 2 ~
+: 1734 3 -3 round, 
+: 1738 1 -3 when 
+: 1740 1 -3 you 
+: 1742 1 2 need
+: 1744 3 4 ~ 
+: 1750 1 2 them
+: 1752 2 4 ~ 
+- 1756
+: 1758 2 0 Most, 
+: 1762 1 -3 where 
+: 1764 2 0 are 
+: 1768 2 0 your 
+: 1772 1 0 friends
+: 1774 1 2 ~
+: 1776 2 4 ~? 
+- 1790
+: 1794 1 7 Yeah
+: 1796 2 9 ~
+: 1799 2 7 ~
+: 1802 2 9 ~, 
+: 1806 1 7 friends
+: 1808 2 9 ~
+: 1811 1 4 ~ 
+- 1815
+: 1817 2 4 Are 
+: 1821 2 7 hard 
+: 1825 2 7 to 
+: 1830 1 7 find
+: 1832 2 9 ~ 
+- 1836
+: 1838 1 7 Friends
+: 1840 3 9 ~ 
+- 1849
+: 1852 3 7 Yours 
+: 1857 1 7 and
+: 1859 2 9 ~ 
+: 1863 1 2 mine
+: 1865 1 0 ~
+: 1867 3 -3 ~
+: 1871 7 0 ~ 
+- 1882
+: 1884 1 -3 I’m 
+: 1887 2 0 tal
+: 1890 1 -3 kin’ 
+: 1893 1 0 ’bout 
+: 1897 1 0 your 
+: 1901 1 -5 friends
+: 1903 2 -3 ~ 
+- 1931
+F 2448 1 0 You 
+F 2450 1 0 used 
+F 2452 1 0 to 
+F 2455 2 0 kiss 
+F 2459 1 0 me, 
+F 2462 2 0 tell 
+F 2466 1 0 me 
+F 2468 1 0 you 
+F 2471 3 0 missed 
+F 2475 1 0 me 
+- 2477
+F 2479 1 0 But 
+F 2481 1 0 now 
+F 2483 1 0 you 
+F 2485 1 0 try 
+F 2487 1 0 to 
+F 2489 2 0 glaze 
+F 2492 1 0 me 
+- 2494
+F 2496 2 0 Play 
+F 2499 1 0 me 
+F 2501 1 0 and 
+F 2503 3 0 diss 
+F 2507 1 0 me 
+- 2509
+F 2511 1 0 Uh, 
+F 2513 2 0 wide 
+F 2517 1 0 a
+F 2519 1 0 wake 
+- 2521
+F 2523 1 0 Read
+F 2525 1 0 y 
+F 2527 1 0 to 
+F 2529 1 0 break, 
+F 2531 1 0 so 
+F 2533 1 0 we 
+F 2535 2 0 ar
+F 2539 1 0 gue 
+- 2541
+F 2543 1 0 What 
+F 2545 1 0 hap
+F 2547 1 0 pened 
+F 2549 1 0 to 
+F 2551 1 0 the 
+F 2553 2 0 kis
+F 2556 2 0 ses 
+F 2559 1 0 and 
+F 2561 1 0 ride 
+- 2563
+F 2565 1 0 How 
+F 2567 3 0 are 
+F 2571 1 0 you? 
+- 2573
+F 2575 1 0 For
+F 2577 1 0 got 
+F 2579 1 0 a
+F 2581 1 0 bout 
+F 2583 1 0 the 
+F 2585 1 0 times 
+- 2587
+F 2589 1 0 When 
+F 2591 1 0 I 
+F 2593 2 0 rhymed, 
+F 2596 1 0 when 
+F 2598 1 0 I 
+F 2600 2 0 bathed 
+F 2603 2 0 you 
+- 2607
+F 2609 1 0 Dreams 
+F 2611 1 0 was 
+F 2613 1 0 the 
+F 2615 1 0 on
+F 2617 1 0 ly 
+F 2619 1 0 lit
+F 2621 1 0 tle 
+F 2623 1 0 things 
+- 2625
+F 2627 1 0 That 
+F 2629 2 0 I 
+F 2632 2 0 gave 
+F 2636 1 0 you 
+- 2638
+F 2640 1 0 You 
+F 2642 1 0 still 
+F 2644 1 0 ain’t 
+F 2647 2 0 thank
+F 2651 1 0 ful 
+- 2653
+F 2655 1 0 You’re 
+F 2657 3 0 still 
+F 2661 1 0 com
+F 2664 1 0 plai
+F 2666 1 0 nin’ 
+- 2668
+F 2670 1 0 Used 
+F 2672 1 0 to 
+F 2674 1 0 be 
+F 2676 1 0 a 
+F 2678 2 0 quiet 
+F 2681 3 0 storm 
+F 2685 1 0 but 
+F 2688 2 0 now 
+F 2691 2 0 its 
+F 2695 3 0 rai
+F 2699 1 0 nin’ 
+- 2702
+F 2704 1 0 Far
+F 2706 1 0 ther 
+F 2708 1 0 than 
+F 2712 2 0 e
+F 2715 2 0 ver 
+- 2718
+F 2720 1 0 I’m 
+F 2723 1 0 thin
+F 2725 1 0 king 
+F 2727 3 0 whe
+F 2732 1 0 ther 
+- 2734
+F 2736 1 0 If 
+F 2738 1 0 we 
+F 2740 1 0 should 
+F 2742 1 0 be 
+F 2744 2 0 friends, 
+F 2748 1 0 let 
+F 2750 1 0 it 
+F 2752 2 0 end? 
+F 2756 1 0 Is 
+F 2758 1 0 it 
+F 2760 2 0 bet
+F 2763 1 0 ter 
+- 2764
+F 2766 1 0 To 
+F 2768 1 0 for
+F 2770 1 0 get 
+F 2772 1 0 or 
+F 2774 1 0 re
+F 2776 3 0 mem
+F 2780 1 0 ber? 
+F 2784 1 0 Your 
+F 2786 1 0 bo
+F 2788 2 0 dy’s 
+F 2792 2 0 ten
+F 2795 2 0 der 
+- 2798
+F 2800 1 0 The 
+F 2802 1 0 vibe 
+F 2804 1 0 that 
+F 2806 1 0 I 
+F 2809 2 0 send 
+F 2812 2 0 her, 
+F 2816 2 0 makes 
+F 2819 1 0 her 
+F 2821 1 0 sur
+F 2824 3 0 ren
+F 2828 1 0 der 
+- 2830
+F 2832 1 0 The 
+F 2834 1 0 fee
+F 2836 1 0 lings 
+F 2838 1 0 of 
+F 2840 3 0 cap
+F 2844 1 0 ture, 
+F 2848 3 0 caught 
+F 2852 1 0 in 
+F 2854 1 0 a 
+F 2856 2 0 rap
+F 2860 1 0 ture 
+- 2862
+F 2864 1 0 No 
+F 2866 1 0 wom
+F 2868 1 0 an 
+F 2870 1 0 can 
+F 2872 1 0 match 
+- 2874
+F 2876 1 0 Ya, 
+F 2878 1 0 so 
+F 2880 1 0 when 
+F 2882 1 0 I’m 
+F 2884 1 0 loo
+F 2886 1 0 kin’ 
+F 2888 2 0 at 
+F 2892 2 0 ya 
+- 2896
+F 2898 1 0 Paint 
+F 2900 1 0 a 
+F 2902 1 0 per
+F 2904 1 0 fect 
+F 2906 1 0 pic
+F 2908 1 0 ture 
+F 2910 1 0 so 
+F 2912 1 0 you 
+F 2914 1 0 can 
+- 2916
+F 2918 1 0 Re
+F 2921 1 0 mem
+F 2923 1 0 ber 
+F 2925 2 0 me 
+- 2931
+F 2933 1 0 But 
+F 2935 1 0 you 
+F 2937 1 0 can 
+F 2939 2 0 find 
+F 2942 1 0 the 
+F 2945 1 0 end 
+- 2947
+F 2949 1 0 If 
+F 2951 1 0 you 
+F 2953 1 0 pre
+F 2955 1 0 tend 
+F 2957 1 0 to 
+F 2959 1 0 be 
+- 2960
+: 2962 1 2 Friends
+: 2964 2 4 ~ 
+- 2970
+: 2972 3 0 Will 
+: 2977 1 0 let 
+: 2981 1 0 you
+: 2983 2 2 ~ 
+: 2987 4 -3 down 
+- 2992
+: 2994 1 2 Friends
+: 2996 2 4 ~ 
+- 3003
+: 3005 2 0 Won’t 
+: 3009 2 0 be 
+: 3012 1 0 a
+: 3014 3 2 ~
+: 3019 3 -3 round, 
+: 3023 1 -3 when 
+: 3025 1 -3 you 
+: 3027 1 2 need
+: 3029 3 4 ~ 
+: 3035 1 2 them
+: 3037 2 4 ~ 
+- 3041
+: 3043 2 0 Most, 
+: 3047 1 -3 where 
+: 3049 2 0 are 
+: 3053 2 0 your 
+: 3057 1 0 friends
+: 3059 1 2 ~
+: 3061 2 4 ~? 
+- 3075
+: 3079 1 7 Oh
+: 3081 1 9 ~, 
+: 3083 2 7 oh, 
+: 3087 2 9 uh, 
+: 3091 1 7 friends
+: 3093 2 9 ~
+: 3096 1 4 ~ 
+- 3099
+: 3101 2 4 Are 
+: 3105 2 7 hard 
+: 3109 3 7 to 
+: 3115 1 7 find
+: 3117 2 9 ~ 
+- 3121
+: 3123 1 7 Friends
+: 3125 3 9 ~ 
+- 3134
+: 3137 3 7 Yours 
+: 3141 1 7 and
+: 3143 2 9 ~ 
+: 3148 1 2 mine
+: 3150 1 0 ~
+: 3152 3 -3 ~
+: 3156 7 0 ~ 
+- 3167
+: 3169 1 -3 I’m 
+: 3171 2 0 tal
+: 3175 1 -3 kin’ 
+: 3178 1 0 ’bout 
+: 3182 1 0 your 
+: 3186 1 -5 friends
+: 3188 2 -3 ~ 
+- 3203
+: 3219 1 2 Friends
+: 3221 2 4 ~ 
+- 3227
+: 3229 3 0 Will 
+: 3234 1 0 let 
+: 3237 1 0 you
+: 3239 2 2 ~ 
+: 3243 4 -3 down 
+- 3249
+: 3251 1 2 Friends
+: 3253 2 4 ~ 
+- 3259
+: 3261 2 0 Won’t 
+: 3265 3 0 be 
+: 3269 1 0 a
+: 3271 3 2 ~
+: 3275 3 -3 round, 
+: 3279 1 -3 when 
+: 3281 1 -3 you 
+: 3283 1 2 need
+: 3285 3 4 ~ 
+: 3291 1 2 them
+: 3293 2 4 ~ 
+- 3297
+F 3299 2 0 Most, 
+F 3303 1 -3 where 
+F 3305 2 0 are 
+F 3309 2 0 your 
+F 3313 1 0 friends
+F 3315 1 2 ~
+F 3317 2 4 ~? 
+- 3331
+F 3335 1 7 Yeah
+F 3337 2 9 ~
+F 3340 2 7 ~
+F 3343 2 9 ~ 
+F 3347 1 7 friends
+F 3349 2 9 ~
+F 3352 1 4 ~ 
+- 3356
+F 3358 2 4 Are 
+F 3362 2 7 hard 
+F 3366 2 7 to 
+F 3371 1 7 find
+F 3373 2 9 ~ 
+- 3377
+F 3379 1 7 Friends
+F 3381 3 9 ~ 
+E
