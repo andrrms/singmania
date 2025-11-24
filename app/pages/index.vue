@@ -10,7 +10,7 @@ import SongCarousel from '~/components/SongCarousel.vue'
 const router = useRouter()
 const songStore = useSongStore()
 const searchStore = useSearchStore()
-const { songs, fetchSongs } = useLibrary()
+const { songs, fetchSongs, loading } = useLibrary()
 
 onMounted(async () => {
 	searchStore.clear()
@@ -134,7 +134,7 @@ const allSongsForCard = computed(() => allSongsCarousel.value.map(getSongForCard
 				</div>
 
 				<!-- Recent Songs -->
-				<SongCarousel title="Adicionados Recentemente" :songs="recentSongsForCard" @select="loadSong">
+				<SongCarousel title="Adicionados Recentemente" :songs="recentSongsForCard" @select="loadSong" :loading="loading">
 					<template #icon>
 						<ClientOnly>
 							<Icon name="material-symbols:schedule-rounded" class="text-violet-400" />
@@ -143,7 +143,7 @@ const allSongsForCard = computed(() => allSongsCarousel.value.map(getSongForCard
 				</SongCarousel>
 
 				<!-- Duets -->
-				<SongCarousel title="Duetos para Cantar Junto" :songs="duetSongsForCard" @select="loadSong">
+				<SongCarousel title="Duetos para Cantar Junto" :songs="duetSongsForCard" @select="loadSong" :loading="loading">
 					<template #icon>
 						<ClientOnly>
 							<Icon name="material-symbols:group-rounded" class="text-fuchsia-400" />
@@ -152,7 +152,7 @@ const allSongsForCard = computed(() => allSongsCarousel.value.map(getSongForCard
 				</SongCarousel>
 
 				<!-- All Songs -->
-				<SongCarousel title="Todas as Músicas" :songs="allSongsForCard" @select="loadSong">
+				<SongCarousel title="Todas as Músicas" :songs="allSongsForCard" @select="loadSong" :loading="loading">
 					<template #icon>
 						<ClientOnly>
 							<Icon name="material-symbols:library-music-rounded" class="text-blue-400" />

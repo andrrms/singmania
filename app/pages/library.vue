@@ -7,6 +7,7 @@ import { useSongStore } from '~/stores/song'
 import { usePreferencesStore } from '~/stores/preferences'
 import { useLibrary, type SongListItem } from '~/composables/useLibrary'
 import SongCard from '~/components/SongCard.vue'
+import SongCardSkeleton from '~/components/SongCardSkeleton.vue'
 
 const router = useRouter()
 const songStore = useSongStore()
@@ -332,7 +333,7 @@ const getSongForCard = (s: SongListItem): any => ({
 				</div>
 
 				<!-- Load More Spinner -->
-				<div v-if="loading && songs.length === 0" class="flex items-center justify-center py-20">
+				<div v-if="loading" class="flex items-center justify-center py-8 w-full col-span-full">
 					<Icon name="svg-spinners:90-ring-with-bg" class="w-10 h-10 text-white/50" />
 				</div>
 			</div>
@@ -345,8 +346,10 @@ const getSongForCard = (s: SongListItem): any => ({
 			</div>
 
 			<!-- Initial Loading -->
-			<div v-else class="flex items-center justify-center h-64">
-				<div class="animate-spin rounded-full h-12 w-12 border-b-2 border-white"></div>
+			<div v-else class="grid gap-6" :style="{
+				gridTemplateColumns: `repeat(${numColumns}, minmax(0, 1fr))`
+			}">
+				<SongCardSkeleton v-for="i in 20" :key="i" />
 			</div>
 		</div>
 	</div>

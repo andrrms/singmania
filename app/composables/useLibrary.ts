@@ -25,7 +25,7 @@ export const useLibrary = () => {
   const hasMore = ref(true)
 
   const fetchSongs = async (append = false) => {
-    if (loading.value) return
+    if (loading.value && append) return
     loading.value = true
 
     try {
@@ -75,7 +75,6 @@ export const useLibrary = () => {
   // Reset pagination when filters change
   watch([search, typeFilter, languageFilter, sort], () => {
     page.value = 1
-    songs.value = []
     hasMore.value = true
     fetchSongs()
   })

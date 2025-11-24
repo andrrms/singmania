@@ -7,6 +7,7 @@ import { useSongStore } from '~/stores/song'
 import { useSearchStore } from '~/stores/search'
 import { useLibrary, type SongListItem } from '~/composables/useLibrary'
 import SongCard from '~/components/SongCard.vue'
+import SongCardSkeleton from '~/components/SongCardSkeleton.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -18,6 +19,10 @@ const searchInput = ref<HTMLInputElement | null>(null)
 const scrollerWrapper = ref<HTMLElement | null>(null)
 const selectedFilter = ref<'All' | 'YouTube' | 'Local' | 'Duet'>('All')
 const viewMode = ref<'grid' | 'list' | 'grid-list'>('grid')
+
+const updateSearch = useDebounceFn((val: string) => {
+	search.value = val
+}, 500)
 
 const fetchSuggestions = useDebounceFn(async (query: string) => {
 	if (!query || query.length < 2) {
@@ -39,7 +44,7 @@ const fetchSuggestions = useDebounceFn(async (query: string) => {
 
 // Sync search store with useLibrary
 watch(() => searchStore.searchQuery, (val) => {
-	search.value = val
+	updateSearch(val)
 	fetchSuggestions(val)
 })
 
@@ -272,8 +277,13 @@ const selectSuggestion = (suggestion: SongListItem) => {
 					<p class="text-lg font-medium">Digite para começar a pesquisar...</p>
 				</div>
 
-				<div v-else-if="loading && songs.length === 0" class="flex items-center justify-center h-64">
-					<div class="animate-spin rounded-full h-12 w-12 border-b-2 border-white"></div>
+				<!-- Initial Loading -->
+				<div v-else-if="loading && songs.length === 0" :class="[
+					viewMode === 'grid' ? 'grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6' : '',
+					viewMode === 'list' ? 'flex flex-col gap-2' : '',
+					viewMode === 'grid-list' ? 'grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4' : ''
+				]">
+					<SongCardSkeleton v-for="i in 12" :key="i" />
 				</div>
 
 				<div v-else-if="songs.length > 0" :class="[
@@ -312,11 +322,11 @@ const selectSuggestion = (suggestion: SongListItem) => {
 							</div>
 						</div>
 					</template>
-				</div>
 
-				<!-- Load More Spinner -->
-				<div v-if="loading && songs.length > 0" class="py-8 flex justify-center">
-					<div class="animate-spin rounded-full h-8 w-8 border-b-2 border-white"></div>
+					<!-- Load More Spinner -->
+					<div v-if="loading" class="col-span-full flex justify-center py-8">
+						<div class="animate-spin rounded-full h-8 w-8 border-b-2 border-white"></div>
+					</div>
 				</div>
 
 				<!-- Empty State -->

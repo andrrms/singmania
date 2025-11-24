@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import SongCard from './SongCard.vue'
+import SongCardSkeleton from './SongCardSkeleton.vue'
 
 defineProps<{
 	title: string
 	songs: any[]
+	loading?: boolean
 }>()
 
 const emit = defineEmits<{
@@ -46,15 +48,26 @@ const scroll = (direction: 'left' | 'right') => {
 
 		<!-- Carousel -->
 		<div ref="scrollContainer" class="flex gap-6 overflow-x-auto pb-10 pt-6 px-6 snap-x snap-mandatory scrollbar-hide">
-			<div v-for="song in songs" :key="song.id" class="snap-start shrink-0 w-[300px] md:w-[350px]">
-				<SongCard :song="song" @click="emit('select', song)" />
-			</div>
+			
+			<!-- Loading Skeletons -->
+			<template v-if="loading">
+				<div v-for="i in 5" :key="i" class="snap-start shrink-0 w-[300px] md:w-[350px]">
+					<SongCardSkeleton />
+				</div>
+			</template>
 
-			<!-- Empty State -->
-			<div v-if="songs.length === 0"
-				class="w-full py-12 flex flex-col items-center justify-center text-white/30 border-2 border-dashed border-white/10 rounded-3xl">
-				<p>Nenhuma música nesta categoria</p>
-			</div>
+			<!-- Songs -->
+			<template v-else>
+				<div v-for="song in songs" :key="song.id" class="snap-start shrink-0 w-[300px] md:w-[350px]">
+					<SongCard :song="song" @click="emit('select', song)" />
+				</div>
+
+				<!-- Empty State -->
+				<div v-if="songs.length === 0"
+					class="w-full py-12 flex flex-col items-center justify-center text-white/30 border-2 border-dashed border-white/10 rounded-3xl">
+					<p>Nenhuma música nesta categoria</p>
+				</div>
+			</template>
 		</div>
 	</div>
 </template>

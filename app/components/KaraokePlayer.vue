@@ -541,7 +541,7 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 			<!-- Score Display (Left Side - Moved Up) -->
 			<div v-if="selectedDifficulty !== 'Freestyle'"
 				class="absolute left-4 top-24 z-40 transition-all duration-500 pointer-events-none">
-				<ScoreDisplay :score="score" :rating="rating" :last-feedback="lastFeedback" :golden-note-hit="goldenNoteHit"
+				<ScoreDisplay :score="score" :total-max-score="totalMaxScore" :rating="rating" :last-feedback="lastFeedback" :golden-note-hit="goldenNoteHit"
 					:singer-p1="singerP1" :singer-p2="singerP2" :selected-player="selectedPlayer" />
 			</div>
 

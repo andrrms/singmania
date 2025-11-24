@@ -3,6 +3,7 @@ import { computed, ref, watch } from 'vue'
 
 const props = defineProps<{
 	score: number
+	totalMaxScore?: number
 	rating: string
 	lastFeedback: { text: string, type: string, count: number } | null
 	goldenNoteHit: boolean
@@ -83,7 +84,7 @@ const playerName = computed(() => {
 		<div class="w-full h-4 bg-black/50 mt-1 overflow-hidden border border-white/10 relative -skew-x-[12deg] -rotate-6">
 			<div class="h-full bg-gradient-to-r from-violet-600 to-fuchsia-500 transition-all duration-1000 relative z-10"
 				:class="{ 'from-yellow-400 to-amber-300 shadow-[0_0_20px_rgba(251,191,36,0.8)]': goldenNoteHit }"
-				:style="{ width: `${Math.min(100, (score / 10000) * 100)}%` }">
+				:style="{ width: `${Math.min(100, (score / (totalMaxScore || 10000)) * 100)}%` }">
 			</div>
 			<!-- Gold Shine Effect -->
 			<div v-if="goldenNoteHit" class="absolute inset-0 bg-white/50 z-20 animate-pulse"></div>
