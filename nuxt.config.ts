@@ -6,9 +6,14 @@ export default defineNuxtConfig({
     layoutTransition: { name: 'layout', mode: 'out-in' },
     head: {
       title: 'SingMania!',
+      titleTemplate: '%s | SingMania!',
+      noscript: [
+        { innerHTML: '<p>Por favor, ative o JavaScript para usar esta aplicação.</p>' }
+      ],
       meta: [
         { charset: 'utf-8' },
-        { name: 'viewport', content: 'width=device-width, initial-scale=1' }
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { name: 'color-scheme', content: 'dark' }
       ]
     }
   },
@@ -17,7 +22,8 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxt/icon',
     '@nuxtjs/tailwindcss',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    'vue-sonner/nuxt'
   ],
   nitro: {
     serverAssets: [
@@ -29,5 +35,5 @@ export default defineNuxtConfig({
   },
   build: {
     transpile: ['vue-virtual-scroller', '@supabase/supabase-js']
-  }
+  },
 })

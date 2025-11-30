@@ -28,12 +28,18 @@ export interface SavedSong {
 }
 
 const DB_NAME = 'karaoke-db'
-const DB_VERSION = 2
+const DB_VERSION = 3
 const STORE_NAME = 'songs'
+const LIBRARY_STORE = 'library_songs'
+const META_STORE = 'library_meta'
 
 export const initDB = (): Promise<IDBDatabase> => {
+	if (typeof indexedDB === 'undefined') {
+		return Promise.reject('IndexedDB is not available')
+	}
 	return new Promise((resolve, reject) => {
 		const request = indexedDB.open(DB_NAME, DB_VERSION)
+
 
 		request.onerror = (event) => {
 			console.error('IndexedDB error:', event)
@@ -49,12 +55,76 @@ export const initDB = (): Promise<IDBDatabase> => {
 			if (!db.objectStoreNames.contains(STORE_NAME)) {
 				const store = db.createObjectStore(STORE_NAME, { keyPath: 'id', autoIncrement: true })
 				store.createIndex('title_artist', ['title', 'artist'], { unique: false })
-			} else {
-				// Version 2 upgrade: Ensure structure is compatible (IndexedDB is flexible with objects, so just bumping version is enough to trigger upgrade if needed, but we don't need schema changes for new fields in objects)
+			}
+			
+			if (!db.objectStoreNames.contains(LIBRARY_STORE)) {
+				const libStore = db.createObjectStore(LIBRARY_STORE, { keyPath: 'filename' })
+				libStore.createIndex('title', 'title', { unique: false })
+				libStore.createIndex('artist', 'artist', { unique: false })
+				libStore.createIndex('addedAt', 'addedAt', { unique: false })
+				libStore.createIndex('language', 'language', { unique: false })
+				// For searching, we might need to iterate or use a compound index, but simple indices help
+			}
+
+			if (!db.objectStoreNames.contains(META_STORE)) {
+				db.createObjectStore(META_STORE, { keyPath: 'key' })
 			}
 		}
 	})
 }
+
+export const cacheLibrary = async (songs: any[], stats: any): Promise<void> => {
+	const db = await initDB()
+	return new Promise((resolve, reject) => {
+		const transaction = db.transaction([LIBRARY_STORE, META_STORE], 'readwrite')
+		const libStore = transaction.objectStore(LIBRARY_STORE)
+		const metaStore = transaction.objectStore(META_STORE)
+
+		// Clear existing library
+		libStore.clear()
+
+		// Add all songs
+		songs.forEach(song => {
+			libStore.put(song)
+		})
+
+		// Update stats
+		metaStore.put({ key: 'stats', ...stats, lastFetch: Date.now() })
+
+		transaction.oncomplete = () => resolve()
+		transaction.onerror = () => reject('Error caching library')
+	})
+}
+
+export const getCachedLibrary = async (): Promise<{ songs: any[], stats: any } | null> => {
+	const db = await initDB()
+	return new Promise((resolve, reject) => {
+		const transaction = db.transaction([LIBRARY_STORE, META_STORE], 'readonly')
+		const libStore = transaction.objectStore(LIBRARY_STORE)
+		const metaStore = transaction.objectStore(META_STORE)
+
+		const statsRequest = metaStore.get('stats')
+		
+		statsRequest.onsuccess = () => {
+			const stats = statsRequest.result
+			if (!stats) {
+				resolve(null)
+				return
+			}
+
+			const songsRequest = libStore.getAll()
+			songsRequest.onsuccess = () => {
+				resolve({
+					songs: songsRequest.result,
+					stats
+				})
+			}
+			songsRequest.onerror = () => reject('Error fetching cached songs')
+		}
+		statsRequest.onerror = () => reject('Error fetching cached stats')
+	})
+}
+
 
 export const updateSong = async (id: number, updates: Partial<SavedSong>): Promise<void> => {
 	const db = await initDB()

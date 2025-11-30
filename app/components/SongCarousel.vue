@@ -1,8 +1,4 @@
 <script setup lang="ts">
-import { ref } from 'vue'
-import SongCard from './SongCard.vue'
-import SongCardSkeleton from './SongCardSkeleton.vue'
-
 defineProps<{
 	title: string
 	songs: any[]
@@ -23,32 +19,29 @@ const scroll = (direction: 'left' | 'right') => {
 </script>
 
 <template>
-	<div class="flex flex-col gap-4">
+	<div class="flex flex-col">
 		<!-- Header -->
-		<div class="flex items-center justify-between px-2">
-			<h2 class="text-2xl font-bold text-white flex items-center gap-2">
+		<div class="ps-8 flex items-center justify-between px-2">
+			<h2 class="text-2xl font-bold text-white flex items-center gap-2 ms-4">
 				<slot name="icon"></slot>
 				{{ title }}
 			</h2>
-			<div class="flex gap-2">
+			<div class="flex gap-2 mr-8">
 				<button @click="scroll('left')"
-					class="p-2 rounded-full bg-white/5 hover:bg-white/20 text-white transition-colors">
-					<ClientOnly>
-						<Icon name="material-symbols:arrow-back-ios-new-rounded" class="w-5 h-5" />
-					</ClientOnly>
+					class="inline-flex p-2 rounded-full bg-white/5 hover:bg-white/20 text-white transition-colors">
+					<Icon name="material-symbols:arrow-back-ios-new-rounded" class="w-5 h-5" />
 				</button>
 				<button @click="scroll('right')"
-					class="p-2 rounded-full bg-white/5 hover:bg-white/20 text-white transition-colors">
-					<ClientOnly>
-						<Icon name="material-symbols:arrow-forward-ios-rounded" class="w-5 h-5" />
-					</ClientOnly>
+					class="inline-flex p-2 rounded-full bg-white/5 hover:bg-white/20 text-white transition-colors">
+					<Icon name="material-symbols:arrow-forward-ios-rounded" class="w-5 h-5" />
 				</button>
 			</div>
 		</div>
 
 		<!-- Carousel -->
-		<div ref="scrollContainer" class="flex gap-6 overflow-x-auto pb-10 pt-6 px-6 snap-x snap-mandatory scrollbar-hide">
-			
+		<div ref="scrollContainer"
+			class="flex gap-6 overflow-x-auto py-8 px-6 snap-x snap-mandatory scroll-px-8 scrollbar-hide">
+
 			<!-- Loading Skeletons -->
 			<template v-if="loading">
 				<div v-for="i in 5" :key="i" class="snap-start shrink-0 w-[300px] md:w-[350px]">

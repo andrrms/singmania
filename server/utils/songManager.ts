@@ -54,9 +54,49 @@ export interface SongFilterOptions {
   sort?: string
 }
 
+export const getLibraryStats = async (): Promise<{ count: number, lastUpdated: number }> => {
+  if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
+    try {
+      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+
+      // Get count
+      const { count, error: countError } = await supabase
+        .from('songs')
+        .select('*', { count: 'exact', head: true })
+
+      // Get last updated
+      const { data: lastSong, error: lastSongError } = await supabase
+        .from('songs')
+        .select('created_at')
+        .order('created_at', { ascending: false })
+        .limit(1)
+        .single()
+
+      if (!countError && !lastSongError) {
+        return {
+          count: count || 0,
+          lastUpdated: lastSong ? new Date(lastSong.created_at).getTime() : 0
+        }
+      }
+    } catch (e) {
+      console.error('Error fetching library stats from Supabase', e)
+    }
+  }
+
+  // Fallback to local
+  const songs = await getSongList()
+  const lastUpdated = songs.reduce((max, song) => Math.max(max, song.addedAt), 0)
+
+  return {
+    count: songs.length,
+    lastUpdated
+  }
+}
+
 export const getSongs = async (options: SongFilterOptions): Promise<{ data: SongListItem[], total: number }> => {
   const { page, limit, search, type, language, sort } = options
   const offset = (page - 1) * limit
+  const fetchAll = limit === -1
 
   // 1. Supabase (Production)
   if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
@@ -94,7 +134,9 @@ export const getSongs = async (options: SongFilterOptions): Promise<{ data: Song
       }
 
       // Pagination
-      query = query.range(offset, offset + limit - 1)
+      if (!fetchAll) {
+        query = query.range(offset, offset + limit - 1)
+      }
 
       const { data, error, count } = await query
 
@@ -120,7 +162,7 @@ export const getSongs = async (options: SongFilterOptions): Promise<{ data: Song
 
   // 2. Fallback (Local File System)
   const allSongs = await getSongList()
-  
+
   let songs = allSongs
 
   // Type Filter
@@ -164,7 +206,7 @@ export const getSongs = async (options: SongFilterOptions): Promise<{ data: Song
   const paginatedSongs = songs.slice(offset, offset + limit)
 
   return {
-    data: paginatedSongs,
+    data: fetchAll ? songs : paginatedSongs,
     total
   }
 }
@@ -173,10 +215,10 @@ export const getAvailableLanguages = async (): Promise<string[]> => {
   if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
     try {
       const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
-      
+
       // Try RPC first for efficiency
       const { data: rpcData, error: rpcError } = await supabase.rpc('get_distinct_languages')
-      
+
       if (!rpcError && rpcData) {
         return rpcData.map((r: any) => r.language).sort()
       }
@@ -186,7 +228,7 @@ export const getAvailableLanguages = async (): Promise<string[]> => {
         .from('songs')
         .select('language')
         .not('language', 'is', null)
-      
+
       if (error) {
         console.error('Supabase error in getAvailableLanguages:', error)
       } else if (data) {
@@ -227,20 +269,20 @@ export const getSongList = async (): Promise<SongListItem[]> => {
 
     const files = await fs.readdir(SONGS_DIR)
     const txtFiles = files.filter(f => f.endsWith('.txt'))
-    
+
     const songPromises = txtFiles.map(async (filename) => {
-        try {
-          const filePath = path.join(SONGS_DIR, filename)
-          const content = await fs.readFile(filePath, 'utf-8')
-          const stats = await fs.stat(filePath)
-          const addedAt = stats.birthtimeMs || stats.mtimeMs
-          
-          return parseSong(filename, content, addedAt)
-        } catch (e) {
-          return null
-        }
+      try {
+        const filePath = path.join(SONGS_DIR, filename)
+        const content = await fs.readFile(filePath, 'utf-8')
+        const stats = await fs.stat(filePath)
+        const addedAt = stats.birthtimeMs || stats.mtimeMs
+
+        return parseSong(filename, content, addedAt)
+      } catch (e) {
+        return null
+      }
     })
-    
+
     const results = await Promise.all(songPromises)
     cachedSongs = results.filter((s): s is SongListItem => s !== null)
     return cachedSongs
@@ -251,75 +293,73 @@ export const getSongList = async (): Promise<SongListItem[]> => {
 }
 
 const parseSong = (filename: string, content: string, addedAt: number): SongListItem => {
-    const title = extractHeaderValue(content, 'TITLE')
-    const artist = extractHeaderValue(content, 'ARTIST')
-    const language = extractHeaderValue(content, 'LANGUAGE')
-    let cover = extractHeaderValue(content, 'COVER')
-    const youtubeId = extractYoutubeId(content)
+  const title = extractHeaderValue(content, 'TITLE')
+  const artist = extractHeaderValue(content, 'ARTIST')
+  const language = extractHeaderValue(content, 'LANGUAGE')
+  let cover = extractHeaderValue(content, 'COVER')
+  const youtubeId = extractYoutubeId(content)
 
-    // Fallback to filename parsing if tags are missing
-    let finalTitle = title
-    let finalArtist = artist
+  // Fallback to filename parsing if tags are missing
+  let finalTitle = title
+  let finalArtist = artist
 
-    if (!finalTitle || !finalArtist) {
-      const nameWithoutExt = filename.replace(/\.txt$/, '')
-      const parts = nameWithoutExt.split(' - ')
-      if (parts.length >= 2) {
-        if (!finalArtist) finalArtist = parts[0].trim()
-        if (!finalTitle) finalTitle = parts.slice(1).join(' - ').trim()
-      } else {
-        if (!finalTitle) finalTitle = nameWithoutExt
-        if (!finalArtist) finalArtist = 'Unknown'
-      }
+  if (!finalTitle || !finalArtist) {
+    const nameWithoutExt = filename.replace(/\.txt$/, '')
+    const parts = nameWithoutExt.split(' - ')
+    if (parts.length >= 2) {
+      if (!finalArtist) finalArtist = parts[0].trim()
+      if (!finalTitle) finalTitle = parts.slice(1).join(' - ').trim()
+    } else {
+      if (!finalTitle) finalTitle = nameWithoutExt
+      if (!finalArtist) finalArtist = 'Unknown'
     }
+  }
 
-    const isDuet = filename.toUpperCase().includes('DUET') || (content.includes('P1') && content.includes('P2'))
+  const isDuet = filename.toUpperCase().includes('DUET') || (content.includes('P1') && content.includes('P2'))
 
-    // Generate Cover URL if missing but we have YouTube ID
-    if (!cover && youtubeId) {
-      cover = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`
-    }
+  // Generate Cover URL if missing but we have YouTube ID
+  if (!cover && youtubeId) {
+    cover = `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`
+  }
 
-    return {
-      filename,
-      title: finalTitle || filename,
-      artist: finalArtist || 'Unknown',
-      isDuet,
-      cover,
-      youtubeId,
-      addedAt,
-      language
-    }
+  return {
+    filename,
+    title: finalTitle || filename,
+    artist: finalArtist || 'Unknown',
+    isDuet,
+    cover,
+    youtubeId,
+    addedAt,
+    language
+  }
 }
 
-export const getSongContent = async (filename: string): Promise<string | null> => {
+export const getSongContent = async (filename: string): Promise<{ id: string, content: string, createdAt: string } | null> => {
   // 1. Try Supabase
   if (process.env.SUPABASE_URL && process.env.SUPABASE_KEY) {
     try {
-        const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
-        const { data, error } = await supabase
-            .from('songs')
-            .select('content')
-            .eq('filename', filename)
-            .single()
-        
-        if (error) {
-            console.error(`Supabase error reading content for ${filename}:`, error)
-        } else if (data) {
-            return data.content
+      const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY)
+      const { data, error } = await supabase
+        .from('songs')
+        .select('id, content, created_at')
+        .eq('filename', filename)
+        .single()
+
+      if (error) {
+        console.error(`Supabase error reading content for ${filename}:`, error)
+        return null
+      } else if (data) {
+        return {
+          id: data.id,
+          content: data.content,
+          createdAt: data.created_at
         }
+      }
     } catch (e) {
-        console.error(`Error reading song content from Supabase ${filename}`, e)
+      console.error(`Error reading song content from Supabase ${filename}`, e)
+      return null
     }
   }
 
-  // 2. Fallback to Local
-  try {
-    const SONGS_DIR = path.resolve(process.cwd(), 'public/songs')
-    const filePath = path.join(SONGS_DIR, filename)
-    return await fs.readFile(filePath, 'utf-8')
-  } catch (e) {
-    console.error(`Error reading song content ${filename}`, e)
-    return null
-  }
+  return null
 }

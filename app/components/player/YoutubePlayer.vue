@@ -5,7 +5,6 @@ const props = defineProps<{
   videoId: string
   playing: boolean
   volume: number
-  seekTo?: number // Optional prop to trigger seek
 }>()
 
 const emit = defineEmits<{
@@ -34,7 +33,7 @@ const loadYoutubeAPI = () => {
     } else {
       document.head.appendChild(tag)
     }
-    ;(window as any).onYouTubeIframeAPIReady = () => resolve()
+    ; (window as any).onYouTubeIframeAPIReady = () => resolve()
   })
 }
 
@@ -64,7 +63,7 @@ const initYoutubePlayer = async () => {
         event.target.setVolume(props.volume * 100)
         emit('ready', duration.value)
         if (props.playing) {
-            event.target.playVideo()
+          event.target.playVideo()
         }
       },
       onStateChange: (event: any) => {
@@ -73,7 +72,7 @@ const initYoutubePlayer = async () => {
           emit('update:playing', true)
         }
         if (event.data === 2) {
-            emit('update:playing', false)
+          emit('update:playing', false)
         }
         if (event.data === 0) {
           emit('ended')
@@ -119,12 +118,10 @@ watch(() => props.volume, (vol) => {
   }
 })
 
-// Expose seek method via defineExpose or watch a prop
-// Using defineExpose is cleaner for parent to call
 const seekTo = (time: number) => {
-    if (ytPlayer && ytPlayer.seekTo) {
-        ytPlayer.seekTo(time, true)
-    }
+  if (ytPlayer && ytPlayer.seekTo) {
+    ytPlayer.seekTo(time, true)
+  }
 }
 
 defineExpose({ seekTo })

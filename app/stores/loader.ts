@@ -2,7 +2,7 @@ import { defineStore } from 'pinia'
 import { ref } from 'vue'
 
 export const useLoaderStore = defineStore('loader', () => {
-	const isLoading = ref(true)
+	const isLoading = ref(false)
 	const progress = ref(0)
 	const total = ref(0)
 	const currentFile = ref('')

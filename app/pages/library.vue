@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useInfiniteScroll } from '@vueuse/core'
 import { parseUltraStar } from '~/utils/ultrastarParser'
@@ -12,15 +12,15 @@ import SongCardSkeleton from '~/components/SongCardSkeleton.vue'
 const router = useRouter()
 const songStore = useSongStore()
 const preferences = usePreferencesStore()
-const { songs, loading, total, loadMore, fetchSongs, sort, typeFilter, languageFilter, hasMore } = useLibrary()
+const { songs, loading, total, loadMore, sort, typeFilter, languageFilter, hasMore } = useLibrary()
 
-const containerWidth = ref(1000)
 const scrollerWrapper = ref<HTMLElement | null>(null)
-const availableLanguages = ref<string[]>([])
+const { data: availableLanguages } = await useFetch<string[]>('/api/languages')
 
 const languageMap: Record<string, string> = {
 	'English': 'Inglês',
-	'Portuguese': 'Português',
+	'Portuguese': 'Português (Portugal)',
+	'Portuguese (Brazil)': 'Português',
 	'Spanish': 'Espanhol',
 	'Japanese': 'Japonês',
 	'Korean': 'Coreano',
@@ -37,8 +37,6 @@ const getLanguageLabel = (lang: string) => {
 
 const filters = [
 	{ label: 'Todas', value: 'all' },
-	{ label: 'YouTube', value: 'youtube' },
-	{ label: 'Local', value: 'local' },
 	{ label: 'Duetos', value: 'duet' }
 ]
 
@@ -47,7 +45,6 @@ const sortOptions = [
 	{ label: 'Artista', value: 'artist' },
 	{ label: 'Data', value: 'date' }
 ]
-
 const groupedSongs = computed(() => {
 	const groups: Record<string, SongListItem[]> = {}
 
@@ -64,36 +61,9 @@ const groupedSongs = computed(() => {
 		}
 
 		if (!groups[key]) groups[key] = []
-		groups[key].push(song)
+		groups[key]!.push(song)
 	})
 	return groups
-})
-
-onMounted(async () => {
-	// refreshSongs() // Removed as useLibrary handles initial load
-	const { data } = await useFetch('/api/languages')
-	if (data.value) {
-		availableLanguages.value = data.value as string[]
-	}
-
-	if (scrollerWrapper.value) {
-		const ro = new ResizeObserver((entries) => {
-			for (const entry of entries) {
-				containerWidth.value = entry.contentRect.width
-			}
-		})
-		ro.observe(scrollerWrapper.value)
-		containerWidth.value = scrollerWrapper.value.clientWidth
-	}
-})
-
-// Sync preferences
-watch(() => preferences.sortBy, (val) => {
-	sort.value = val
-}, { immediate: true })
-
-watch(sort, (val) => {
-	preferences.sortBy = val
 })
 
 useInfiniteScroll(
@@ -106,18 +76,9 @@ useInfiniteScroll(
 	{ distance: 100 }
 )
 
-const numColumns = computed(() => {
-	const w = containerWidth.value
-	if (w >= 1536) return 5 // 2xl
-	if (w >= 1280) return 4 // xl
-	if (w >= 768) return 3 // md
-	return 2 // default
-})
-
 const loadSong = async (songItem: SongListItem) => {
 	songStore.reset()
 	try {
-		// Use $fetch instead of useFetch for user-triggered actions
 		const songContent = await $fetch<string>(`/api/songs/${encodeURIComponent(songItem.filename)}`)
 
 		if (!songContent) {
@@ -130,7 +91,6 @@ const loadSong = async (songItem: SongListItem) => {
 		let backgroundSrc: string | undefined = undefined
 		let coverSrc: string | undefined = undefined
 
-		// Helper to get URL
 		const getAssetUrl = (val: string) => `/songs/${val}`
 
 		if (song.metadata.MP3) audioSrc = getAssetUrl(song.metadata.MP3)
@@ -271,9 +231,7 @@ const getSongForCard = (s: SongListItem): any => ({
 					<h2 class="text-2xl font-bold text-white/20 mb-4 px-2 uppercase">{{ groupName }}</h2>
 
 					<!-- Grid View -->
-					<div v-if="preferences.viewMode === 'grid'" class="grid gap-6" :style="{
-						gridTemplateColumns: `repeat(${numColumns}, minmax(0, 1fr))`
-					}">
+					<div v-if="preferences.viewMode === 'grid'" class="grid gap-6 grid-auto-fit">
 						<div v-for="song in groupSongs" :key="song.filename" class="relative group/card">
 							<SongCard :song="getSongForCard(song)" @click="loadSong(song)" />
 						</div>
@@ -304,9 +262,7 @@ const getSongForCard = (s: SongListItem): any => ({
 					</div>
 
 					<!-- Grid-List View -->
-					<div v-else class="grid gap-4" :style="{
-						gridTemplateColumns: `repeat(${Math.max(1, Math.floor(numColumns / 1.5))}, minmax(0, 1fr))`
-					}">
+					<div v-else class="grid gap-4 grid-auto-fit">
 						<div v-for="song in groupSongs" :key="song.filename" @click="loadSong(song)"
 							class="group flex items-center gap-3 p-3 rounded-xl bg-white/5 hover:bg-white/10 transition-colors cursor-pointer border border-transparent hover:border-white/10">
 
@@ -346,9 +302,7 @@ const getSongForCard = (s: SongListItem): any => ({
 			</div>
 
 			<!-- Initial Loading -->
-			<div v-else class="grid gap-6" :style="{
-				gridTemplateColumns: `repeat(${numColumns}, minmax(0, 1fr))`
-			}">
+			<div v-else class="grid gap-6 grid-auto-fit">
 				<SongCardSkeleton v-for="i in 20" :key="i" />
 			</div>
 		</div>
@@ -356,6 +310,10 @@ const getSongForCard = (s: SongListItem): any => ({
 </template>
 
 <style scoped>
+.grid-auto-fit {
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
 .custom-scrollbar::-webkit-scrollbar {
 	width: 8px;
 	height: 8px;

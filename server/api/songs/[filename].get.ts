@@ -2,7 +2,7 @@ import { getSongContent } from '../../utils/songManager'
 
 export default defineEventHandler(async (event) => {
   const filenameParam = getRouterParam(event, 'filename')
-  
+
   if (!filenameParam) {
     throw createError({
       statusCode: 400,
@@ -20,5 +20,9 @@ export default defineEventHandler(async (event) => {
     })
   }
 
-  return content
+  return {
+    id: content.id,
+    content: content.content,
+    createdAt: content.createdAt
+  }
 })

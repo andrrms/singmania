@@ -11,6 +11,7 @@ const router = useRouter()
 const songStore = useSongStore()
 const searchStore = useSearchStore()
 const { songs, fetchSongs, loading } = useLibrary()
+const { $toast } = useNuxtApp()
 
 onMounted(async () => {
 	searchStore.clear()
@@ -21,8 +22,7 @@ onMounted(async () => {
 
 // Computed Categories
 const recentSongs = computed(() => {
-	// Since we don't have addedAt, just show the first 20
-	return songs.value.slice(0, 20)
+	return songs.value.sort((a, b) => b.addedAt - a.addedAt).slice(0, 20)
 })
 
 const duetSongs = computed(() => {
@@ -36,13 +36,12 @@ const allSongsCarousel = computed(() => {
 const loadSong = async (songItem: SongListItem) => {
 	songStore.reset()
 	try {
-		const songContent = await $fetch<string>(`/api/songs/${encodeURIComponent(songItem.filename)}`)
+		const songContent = await $fetch(`/api/songs/${encodeURIComponent(songItem.filename)}`) as APISongContent
+		const song = parseUltraStar(songContent.content)
 
 		if (!songContent) {
-			throw new Error('Failed to load song content')
+			throw new Error('Falha ao carregar música.')
 		}
-
-		const song = parseUltraStar(songContent)
 
 		let audioSrc = ''
 		let backgroundSrc: string | undefined = undefined
@@ -76,7 +75,7 @@ const loadSong = async (songItem: SongListItem) => {
 		router.push('/player')
 	} catch (e) {
 		console.error('Falha ao carregar música', e)
-		alert('Falha ao carregar música.')
+		$toast.error('Falha ao carregar música.')
 	}
 }
 
@@ -94,7 +93,6 @@ const getSongForCard = (s: SongListItem): any => ({
 	filename: s.filename
 })
 
-const songsForCard = computed(() => songs.value.map(getSongForCard))
 const recentSongsForCard = computed(() => recentSongs.value.map(getSongForCard))
 const duetSongsForCard = computed(() => duetSongs.value.map(getSongForCard))
 const allSongsForCard = computed(() => allSongsCarousel.value.map(getSongForCard))
@@ -106,57 +104,54 @@ const allSongsForCard = computed(() => allSongsCarousel.value.map(getSongForCard
 		<!-- Main Content -->
 		<main class="flex-1 h-full overflow-y-auto relative z-10 custom-scrollbar">
 
-			<div class="px-8 pb-20 space-y-12 pt-4">
+			<div class="pb-20 space-y-12 pt-4">
 
 				<!-- Hero Banner -->
-				<div class="relative w-full h-[340px] rounded-[40px] overflow-hidden group">
-					<div
-						class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1516280440614-6697288d5d38?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center">
-					</div>
-					<div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent"></div>
+				<div class="px-8">
+					<div class="relative w-full h-[340px] rounded-[40px] overflow-hidden group">
+						<div
+							class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1516280440614-6697288d5d38?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center">
+						</div>
+						<div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent"></div>
 
-					<div class="absolute inset-0 p-12 flex flex-col justify-center items-start max-w-5xl">
-						<span
-							class="px-3 py-1 bg-fuchsia-500 text-white text-xs font-bold uppercase tracking-wider rounded-lg mb-4">Destaque</span>
-						<h2 class="text-5xl md:text-7xl font-black text-white mb-6 leading-tight">
-							Solte a sua
-							<span class="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-fuchsia-400">Voz
-								Interior</span>
-						</h2>
-						<p class="text-lg text-white/80 mb-8 font-medium">
-							Explore milhares de músicas, cante com amigos e divirta-se como nunca antes.
-						</p>
-						<button @click="router.push('/library')"
-							class="px-8 py-4 bg-violet-600 hover:bg-violet-500 text-white rounded-2xl font-bold text-lg shadow-[0_0_30px_rgba(139,92,246,0.4)] transition-all hover:scale-105">
-							Começar Agora
-						</button>
+						<div class="absolute inset-0 p-12 flex flex-col justify-center items-start max-w-5xl">
+							<span
+								class="px-3 py-1 bg-fuchsia-500 text-white text-xs font-bold uppercase tracking-wider rounded-lg mb-4">Destaque</span>
+							<h2 class="text-5xl md:text-7xl font-black text-white mb-6 leading-tight">
+								Solte a sua
+								<span class="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-fuchsia-400">Voz
+									Interior</span>
+							</h2>
+							<p class="text-lg text-white/80 mb-8 font-medium">
+								Explore milhares de músicas, cante com amigos e divirta-se como nunca antes.
+							</p>
+							<button @click="router.push('/library')"
+								class="px-8 py-4 bg-violet-600 hover:bg-violet-500 text-white rounded-2xl font-bold text-lg shadow-[0_0_30px_rgba(139,92,246,0.4)] transition-all hover:scale-105">
+								Começar Agora
+							</button>
+						</div>
 					</div>
 				</div>
 
 				<!-- Recent Songs -->
-				<SongCarousel title="Adicionados Recentemente" :songs="recentSongsForCard" @select="loadSong" :loading="loading">
+				<SongCarousel title="Adicionados Recentemente" :songs="recentSongsForCard" @select="loadSong"
+					:loading="loading">
 					<template #icon>
-						<ClientOnly>
-							<Icon name="material-symbols:schedule-rounded" class="text-violet-400" />
-						</ClientOnly>
+						<Icon name="material-symbols:schedule-rounded" class="text-violet-400" />
 					</template>
 				</SongCarousel>
 
 				<!-- Duets -->
 				<SongCarousel title="Duetos para Cantar Junto" :songs="duetSongsForCard" @select="loadSong" :loading="loading">
 					<template #icon>
-						<ClientOnly>
-							<Icon name="material-symbols:group-rounded" class="text-fuchsia-400" />
-						</ClientOnly>
+						<Icon name="material-symbols:group-rounded" class="text-fuchsia-400" />
 					</template>
 				</SongCarousel>
 
 				<!-- All Songs -->
 				<SongCarousel title="Todas as Músicas" :songs="allSongsForCard" @select="loadSong" :loading="loading">
 					<template #icon>
-						<ClientOnly>
-							<Icon name="material-symbols:library-music-rounded" class="text-blue-400" />
-						</ClientOnly>
+						<Icon name="material-symbols:library-music-rounded" class="text-blue-400" />
 					</template>
 				</SongCarousel>
 

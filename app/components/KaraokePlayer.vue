@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import { useKeyModifier, useIdle, useStorage } from '@vueuse/core'
+import { useKeyModifier, useIdle } from '@vueuse/core'
 import { ref, watch, computed, onMounted } from 'vue'
 import { twMerge } from 'tailwind-merge'
 import type { UltraStarSong } from '../utils/ultrastarParser'
 import { updateSong } from '../utils/db'
 import { usePitchDetector } from '../composables/usePitchDetector'
 import { useScoring } from '../composables/useScoring'
+import { useKaraokePlayer } from '../composables/useKaraokePlayer'
 import { usePreferencesStore } from '~/stores/preferences'
 import PlayerControls from './player/PlayerControls.vue'
 import PlayerSettings from './player/PlayerSettings.vue'
@@ -33,12 +34,36 @@ const emit = defineEmits<{
 	(e: 'back'): void
 }>()
 
-// --- Unified State ---
+// --- Player Logic (Composable) ---
+const {
+	playing,
+	currentTime,
+	duration,
+	isReady,
+	hasEnded,
+	volume,
+	globalOffset,
+	backgroundDim,
+	lyricsScale,
+	songTitle,
+	songArtist,
+	videoGap,
+	firstNoteTime,
+	lastNoteTime,
+	introDuration,
+	showIntro,
+	isLyricsFinished,
+	isSongFinished,
+	isInterval,
+	seekTo,
+	restartSong,
+	handlePlayerReady,
+	handlePlayerEnded,
+	handleIntervalUpdate
+} = useKaraokePlayer(props)
+
+// --- Local State ---
 const isYoutube = computed(() => !!props.youtubeId)
-const isInterval = ref(false)
-let intervalTimeout: any = null
-const isReady = ref(false)
-const hasStarted = ref(false)
 const micPermission = ref<PermissionState | 'unknown'>('unknown')
 const selectedDifficulty = ref('Fácil')
 const difficulties = ['Fácil', 'Difícil', 'SingStar!', 'Freestyle']
@@ -46,35 +71,13 @@ const selectedPlayer = ref<number | undefined>(undefined)
 const showSettings = ref(false)
 const preferences = usePreferencesStore()
 const showPitchVisualizer = ref(false)
-const globalOffset = ref(props.gapOffset || 0)
-const originalOffset = ref(props.gapOffset || 0) // To track changes
-const backgroundDim = ref(0.6)
-const lyricsScale = ref(1)
-
-watch(() => props.gapOffset, (newVal) => {
-	if (newVal !== undefined) {
-		globalOffset.value = newVal
-		originalOffset.value = newVal
-	}
-})
+const originalOffset = ref(props.gapOffset || 0) // To track changes for saving
+const hasStarted = ref(false)
 
 const shiftPressed = useKeyModifier('Shift')
-const hasEnded = ref(false)
-const { idle: isIdle } = useIdle(3000) // Hide controls after 3s of inactivity
+const { idle: isIdle } = useIdle(3000)
 
-// Main control refs (used by UI)
-const currentTime = ref(0)
-const duration = ref(0)
-const playing = ref(false)
-const volume = useStorage('karaoke-volume', 1)
-
-const songBpm = computed(() => parseFloat(props.song.metadata['BPM']?.replace(',', '.') || '0'))
-const initialGap = parseFloat(props.song.metadata['GAP']?.replace(',', '.') || '0')
-const localGap = ref(initialGap)
-const songGap = computed(() => localGap.value)
-const videoGap = computed(() => parseFloat(props.song.metadata['VIDEOGAP']?.replace(',', '.') || '0'))
-const songTitle = computed(() => props.song.metadata['TITLE'] || 'Título Desconhecido')
-const songArtist = computed(() => props.song.metadata['ARTIST'] || 'Artista Desconhecido')
+// --- Computed Helpers ---
 const singerP1 = computed(() => props.song.metadata['DUETSINGERP1'])
 const singerP2 = computed(() => props.song.metadata['DUETSINGERP2'])
 const hasDuetNotes = computed(() => {
@@ -141,65 +144,7 @@ watch(hasEnded, (ended) => {
 	}
 })
 
-
-const handleIntervalUpdate = (active: boolean, duration?: number, nextNoteTime?: number) => {
-	// Logic:
-	// 1. Delay 2s to show
-	// 2. Must have at least 1s before next note (handled by LyricsDisplay usually, but let's double check if we have info)
-	// 3. Interval duration must be > 4s (after calculations)
-
-	// Note: LyricsDisplay emits 'interval' with (active). It doesn't pass duration/nextNoteTime currently.
-	// We might need to rely on the fact that LyricsDisplay handles the "when" to emit.
-	// But the user asked: "delay de 2s para mostrar... reaparecer com no mínimo 1s de antecedência... se durar menos de 4s não mostre"
-
-	// Since we don't have the duration info here easily without recalculating, let's assume the caller (LyricsDisplay) 
-	// or we can just implement the delay and see. 
-	// Actually, to implement "don't show if < 4s", we need to know the duration.
-	// Let's stick to the delay logic here. If the interval is short, the "active=false" will come quickly and cancel the timeout.
-
-	if (active) {
-		// Entering interval: Debounce 2s
-		if (!isInterval.value && !intervalTimeout) {
-			intervalTimeout = setTimeout(() => {
-				// Check if we are still "active" (implicit by timeout not being cleared)
-				// We also need to check if we have enough time remaining? 
-				// For now, just the delay. If the interval was 3s, this runs at 2s, shows for 1s.
-				// User said: "Caso, com esses cálculos, o intervalo dure menos de 4 segundos, não mostre."
-				// This implies: (TotalInterval - 2s Delay - 1s Buffer) >= 4s? Or just TotalInterval >= 4s?
-				// "delay de 2s... reaparecer com no mínimo 1s... Caso, com esses cálculos, o intervalo dure menos de 4s, não mostre"
-				// This likely means the *visible* time. Visible = Total - 2 - 1.
-				// So Total - 3 >= 4 => Total >= 7s.
-				// If we don't know the total duration here, we can't enforce this strictly without modifying LyricsDisplay to pass it.
-				// However, we can just enforce the 2s delay. If the "active=false" comes before 2s + 4s, we might have shown it for too short.
-				// But we can't predict the future "active=false" event here.
-
-				// Let's assume for this MVP refactor we just add the 2s delay. 
-				// If we really need the duration check, we'd need to look up the next line in `song.lines`.
-
-				isInterval.value = true
-				intervalTimeout = null
-			}, 2000)
-		}
-	} else {
-		// Leaving interval: Immediate (or with 1s buffer if we could control it, but LyricsDisplay controls the trigger)
-		// The user said "reaparecer com no mínimo 1s de antecedência". This means the interval screen should HIDE 1s before the singing starts.
-		// LyricsDisplay likely emits 'false' when the next line is about to start.
-
-		if (intervalTimeout) {
-			clearTimeout(intervalTimeout)
-			intervalTimeout = null
-		}
-		isInterval.value = false
-	}
-}
-
-const restartSong = () => {
-	seekTo(0)
-	resetScore()
-	playing.value = true
-	hasEnded.value = false
-}
-
+// --- Settings Actions ---
 const saveSettings = async () => {
 	if (!props.songId) {
 		alert('Não é possível salvar configurações de uma música não salva.')
@@ -207,7 +152,6 @@ const saveSettings = async () => {
 	}
 
 	try {
-		// Save the offset difference to the database instead of modifying the file
 		await updateSong(props.songId, { gapOffset: globalOffset.value })
 		originalOffset.value = globalOffset.value
 		alert('Configurações salvas! O ajuste de sincronia foi atualizado.')
@@ -224,126 +168,91 @@ const resetSettings = () => {
 	lyricsScale.value = 1
 }
 
-
-// Pre-calculate active segments for each player to debounce activity
-// If gaps between lines are small (< 5s), merge them into a single active segment
-const getPlayerSegments = (playerNum: number) => {
-	const segments: { start: number, end: number }[] = []
-	let currentSegment: { start: number, end: number } | null = null
-	const GAP_THRESHOLD = 5 // seconds
-
-	for (const line of props.song.lines) {
-		// If player is undefined, it's usually both. Let's assume undefined = both.
-		const isForPlayer = line.player === playerNum || line.player === undefined
-
-		if (!isForPlayer) continue
-		if (!line.startTime || !line.endTime) continue
-
-		if (!currentSegment) {
-			currentSegment = { start: line.startTime, end: line.endTime }
-		} else {
-			if (line.startTime - currentSegment.end < GAP_THRESHOLD) {
-				// Merge
-				currentSegment.end = line.endTime
-			} else {
-				// Push and start new
-				segments.push(currentSegment)
-				currentSegment = { start: line.startTime, end: line.endTime }
-			}
-		}
-	}
-	if (currentSegment) segments.push(currentSegment)
-	return segments
+const handleRestart = () => {
+	restartSong()
+	resetScore()
 }
 
-const p1Segments = computed(() => getPlayerSegments(1))
-const p2Segments = computed(() => getPlayerSegments(2))
+// --- Player Refs ---
+const youtubePlayerRef = ref<InstanceType<typeof YoutubePlayer> | null>(null)
+const localPlayerRef = ref<InstanceType<typeof LocalPlayer> | null>(null)
 
-const activePlayers = computed(() => {
-	// If we are in an instrumental interval, no one is "active" (names should be gray/inactive)
-	if (isInterval.value) return new Set<number>()
-
-	const time = currentTime.value + globalOffset.value
-	const active = new Set<number>()
-
-	// Check P1
-	if (p1Segments.value.some(s => time >= s.start && time <= s.end)) {
-		active.add(1)
-	}
-	// Check P2
-	if (p2Segments.value.some(s => time >= s.start && time <= s.end)) {
-		active.add(2)
-	}
-	return active
+// Sync seek
+watch(currentTime, (time) => {
+	// Only seek if the difference is significant (e.g. user scrubbed)
+	// But here we might be getting updates FROM the player.
+	// We need a way to distinguish "update from player" vs "request to seek"
+	// The composable has `seekTo` which updates `currentTime`.
+	// The players emit `update:currentTime`.
+	// If we bind `currentTime` to the players, we need to be careful not to create loops.
+	// Actually, `YoutubePlayer` and `LocalPlayer` expose `seekTo`.
+	// We should use that for seeking, and just listen to updates.
 })
 
-const firstNoteTime = computed(() => {
-	if (props.song.lines.length === 0) return 0
-	const firstLine = props.song.lines[0]
-	return firstLine ? (firstLine.startTime || 0) : 0
-})
-
-const lastNoteTime = computed(() => {
-	if (props.song.lines.length === 0) return 0
-	const lastLine = props.song.lines[props.song.lines.length - 1]
-	return lastLine ? (lastLine.endTime || 0) : 0
-})
-
-const isSongFinished = computed(() => {
-	// Consider song finished if we are near the end of duration
-	// OR if we are significantly past the last note (e.g. 10s) and user stopped playing?
-	// Actually, user wants a specific screen when "song finishes". Usually means audio ends.
-	if (hasEnded.value) return true
-	return duration.value > 0 && currentTime.value >= duration.value - 0.5
-})
-
-const isLyricsFinished = computed(() => {
-	return currentTime.value > (lastNoteTime.value + 2)
-})
-
-const introDuration = computed(() => {
-	const start = firstNoteTime.value
-	let targetDuration = 0
-
-	if (start > 5) {
-		targetDuration = start * 0.75
+// Override the composable's seekTo to actually control the refs
+const performSeek = (time: number) => {
+	seekTo(time) // Update state
+	if (isYoutube.value) {
+		youtubePlayerRef.value?.seekTo(time)
 	} else {
-		targetDuration = 5
+		localPlayerRef.value?.seekTo(time)
 	}
+}
 
-	// Clip to ensure lyrics have 1s prep time (lyrics start at start - 1)
-	// So title must end at start - 1
-	const lyricsStartTime = Math.max(0, start - 1)
-	return Math.min(targetDuration, lyricsStartTime)
+// --- Mic & Start ---
+onMounted(() => {
+	checkMicPermission()
 })
 
-const showIntro = computed(() => {
-	// Start hidden (when time is 0), show when playing starts
-	if (currentTime.value <= 0.1) return false
-	return currentTime.value < introDuration.value
-})
+const checkMicPermission = async () => {
+	try {
+		const permissions = await navigator.permissions.query({ name: 'microphone' as PermissionName })
+		if (permissions.state === 'granted') {
+			micPermission.value = 'granted'
+		} else if (permissions.state === 'denied') {
+			micPermission.value = 'denied'
+		} else {
+			micPermission.value = 'prompt'
+		}
 
-const showHeaderTitle = computed(() => {
-	// Show header title after intro is done
-	return !showIntro.value
-})
+		permissions.onchange = () => {
+			micPermission.value = permissions.state
+		}
+	} catch (e) {
+		micPermission.value = 'prompt'
+	}
+}
 
-const shouldShowLyrics = computed(() => {
-	if (isLyricsFinished.value) return false
+const requestMicAccess = async () => {
+	try {
+		const stream = await navigator.mediaDevices.getUserMedia({
+			audio: {
+				echoCancellation: false,
+				noiseSuppression: false,
+				autoGainControl: false
+			}
+		})
+		micPermission.value = 'granted'
+		stream.getTracks().forEach(track => track.stop())
+		startPitch()
+	} catch (e) {
+		console.error('Mic permission denied', e)
+		micPermission.value = 'denied'
+	}
+}
 
-	// Show 1s after intro ends, OR 1s before first note (whichever is earlier)
-	const showTime = Math.min(introDuration.value + 1, Math.max(0, firstNoteTime.value - 1))
+const startGame = () => {
+	hasStarted.value = true
+	playing.value = true
+	if (micPermission.value === 'granted') {
+		startPitch()
+	}
+}
 
-	return currentTime.value >= showTime
-})
-
-const isBackgroundClear = computed(() => {
-	return showIntro.value || isInterval.value || isLyricsFinished.value
-})
-
-const backgroundVisualClass = computed(() => {
-	return isBackgroundClear.value ? 'opacity-100 blur-none' : 'opacity-60 blur-md'
-})
+// --- Visual Helpers ---
+const showHeaderTitle = computed(() => !showIntro.value)
+const isBackgroundClear = computed(() => showIntro.value || isInterval.value || isLyricsFinished.value)
+const backgroundVisualClass = computed(() => isBackgroundClear.value ? 'opacity-100 blur-none' : 'opacity-60 blur-md')
 
 // Calculate intervals for timeline
 const intervals = computed(() => {
@@ -363,97 +272,10 @@ const intervals = computed(() => {
 	return ints
 })
 
-// Format time helper
 const formatTime = (seconds: number) => {
 	const mins = Math.floor(seconds / 60)
 	const secs = Math.floor(seconds % 60)
 	return `${mins}:${secs.toString().padStart(2, '0')}`
-}
-
-// --- Player Refs ---
-const youtubePlayerRef = ref<InstanceType<typeof YoutubePlayer> | null>(null)
-const localPlayerRef = ref<InstanceType<typeof LocalPlayer> | null>(null)
-
-const seekTo = (time: number) => {
-	currentTime.value = time
-	if (isYoutube.value) {
-		youtubePlayerRef.value?.seekTo(time)
-	} else {
-		localPlayerRef.value?.seekTo(time)
-	}
-}
-
-const handlePlayerReady = (dur: number) => {
-	duration.value = dur
-	isReady.value = true
-}
-
-onMounted(() => {
-	checkMicPermission()
-})
-
-const checkMicPermission = async () => {
-	try {
-		// Check if we already have permission without prompting
-		const permissions = await navigator.permissions.query({ name: 'microphone' as PermissionName })
-		if (permissions.state === 'granted') {
-			micPermission.value = 'granted'
-		} else if (permissions.state === 'denied') {
-			micPermission.value = 'denied'
-		} else {
-			micPermission.value = 'prompt'
-		}
-
-		permissions.onchange = () => {
-			micPermission.value = permissions.state
-		}
-	} catch (e) {
-		// Fallback for browsers that don't support permission query
-		micPermission.value = 'prompt'
-	}
-}
-
-const requestMicAccess = async () => {
-	try {
-		const stream = await navigator.mediaDevices.getUserMedia({
-			audio: {
-				echoCancellation: false,
-				noiseSuppression: false,
-				autoGainControl: false
-			}
-		})
-		micPermission.value = 'granted'
-		// Stop the stream immediately, we just wanted permission
-		stream.getTracks().forEach(track => track.stop())
-
-		// Start the actual detector now that we have permission
-		startPitch()
-	} catch (e) {
-		console.error('Mic permission denied', e)
-		micPermission.value = 'denied'
-	}
-}
-
-const startGame = () => {
-	hasStarted.value = true
-	playing.value = true
-	// Ensure pitch detection is running if permission was already granted
-	if (micPermission.value === 'granted') {
-		startPitch()
-	}
-}
-
-const handlePlayerEnded = () => {
-	hasEnded.value = true
-	playing.value = false
-}
-
-const handleTimeUpdate = (time: number) => {
-	currentTime.value = time
-}
-
-const handlePlayingUpdate = (isPlaying: boolean) => {
-	playing.value = isPlaying
 }
 </script>
 
@@ -477,8 +299,8 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 			<div v-if="isYoutube"
 				:class="twMerge('w-full h-full pointer-events-none transition-all duration-1000', backgroundVisualClass, isSongFinished ? 'opacity-0' : '')">
 				<YoutubePlayer ref="youtubePlayerRef" :video-id="youtubeId!" :playing="playing" :volume="volume"
-					@ready="handlePlayerReady" @ended="handlePlayerEnded" @update:current-time="handleTimeUpdate"
-					@update:playing="handlePlayingUpdate" />
+					@ready="handlePlayerReady" @ended="handlePlayerEnded" @update:current-time="currentTime = $event"
+					@update:playing="playing = $event" />
 			</div>
 
 			<!-- Local Video/Image Background -->
@@ -486,8 +308,8 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 				:class="twMerge('w-full h-full transition-all duration-1000', backgroundVisualClass, isSongFinished ? 'opacity-0' : '')">
 				<LocalPlayer ref="localPlayerRef" :audio-src="audioSrc!" :background-src="backgroundSrc"
 					:is-video-background="isVideoBackground!" :playing="playing" :volume="volume" :video-gap="videoGap"
-					@ready="handlePlayerReady" @ended="handlePlayerEnded" @update:current-time="handleTimeUpdate"
-					@update:playing="handlePlayingUpdate" />
+					@ready="handlePlayerReady" @ended="handlePlayerEnded" @update:current-time="currentTime = $event"
+					@update:playing="playing = $event" />
 			</div>
 
 			<!-- Overlay for better text readability -->
@@ -511,8 +333,9 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 				<transition enter-active-class="transition-opacity duration-1000 ease-out" enter-from-class="opacity-0"
 					enter-to-class="opacity-100" leave-active-class="transition-opacity duration-1000 ease-in"
 					leave-from-class="opacity-100" leave-to-class="opacity-0">
-					<LyricsDisplay v-show="shouldShowLyrics" :lines="song.lines" :current-time="currentTime + globalOffset"
-						:playing="playing" :lyrics-scale="lyricsScale" @interval="handleIntervalUpdate" class="z-0" />
+					<LyricsDisplay v-show="!isLyricsFinished && currentTime >= 0" :lines="song.lines"
+						:current-time="currentTime + globalOffset" :playing="playing" :lyrics-scale="lyricsScale"
+						@interval="handleIntervalUpdate" class="z-0" />
 				</transition>
 			</div>
 
@@ -541,8 +364,9 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 			<!-- Score Display (Left Side - Moved Up) -->
 			<div v-if="selectedDifficulty !== 'Freestyle'"
 				class="absolute left-4 top-24 z-40 transition-all duration-500 pointer-events-none">
-				<ScoreDisplay :score="score" :total-max-score="totalMaxScore" :rating="rating" :last-feedback="lastFeedback" :golden-note-hit="goldenNoteHit"
-					:singer-p1="singerP1" :singer-p2="singerP2" :selected-player="selectedPlayer" />
+				<ScoreDisplay :score="score" :total-max-score="totalMaxScore" :rating="rating" :last-feedback="lastFeedback"
+					:golden-note-hit="goldenNoteHit" :singer-p1="singerP1" :singer-p2="singerP2"
+					:selected-player="selectedPlayer" />
 			</div>
 
 			<!-- Settings Toggle -->
@@ -579,7 +403,7 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 			<!-- Skip Controls (Bottom Center-Left) -->
 			<div class="absolute bottom-32 left-1/2 -translate-x-1/2 flex items-center gap-4 z-50 pointer-events-auto">
 				<!-- Skip Intro -->
-				<button v-if="showIntro && currentTime < firstNoteTime - 5" @click="seekTo(Math.max(0, firstNoteTime - 5))"
+				<button v-if="showIntro && currentTime < firstNoteTime - 5" @click="performSeek(Math.max(0, firstNoteTime - 5))"
 					class="flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 backdrop-blur-md text-white font-bold uppercase tracking-wider rounded-full transition-all shadow-lg hover:scale-105 border border-white/10">
 					<span>Pular Intro</span>
 					<Icon name="material-symbols:skip-next-rounded" class="w-6 h-6" />
@@ -616,7 +440,7 @@ const handlePlayingUpdate = (isPlaying: boolean) => {
 		<ResultsScreen v-if="isSongFinished" :score="score" :total-max-score="totalMaxScore" :rank="finalRank"
 			:song-title="songTitle" :song-artist="songArtist" :cover-src="coverSrc" :youtube-id="youtubeId"
 			:difficulty="selectedDifficulty" :note-stats="noteStats" :total-notes="totalNotes" :gold-hit="goldenNotesHit"
-			:gold-total="totalGoldenNotes" @restart="restartSong" @back="emit('back')" />
+			:gold-total="totalGoldenNotes" @restart="handleRestart" @back="emit('back')" />
 	</div>
 </template>
 

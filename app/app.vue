@@ -1,19 +1,6 @@
 <script setup lang="ts">
 import { SpeedInsights } from "@vercel/speed-insights/nuxt"
 import { Analytics } from '@vercel/analytics/nuxt'
-import LoadingOverlay from '~/components/LoadingOverlay.vue'
-import DeviceCheck from '~/components/DeviceCheck.vue'
-import { onMounted } from 'vue'
-import { useLoaderStore } from '~/stores/loader'
-
-const loaderStore = useLoaderStore()
-
-onMounted(() => {
-  // Hide loader after mount
-  setTimeout(() => {
-    loaderStore.finishLoading()
-  }, 1000)
-})
 </script>
 
 <template>
@@ -23,6 +10,7 @@ onMounted(() => {
     <DeviceCheck />
     <LoadingOverlay />
     <NuxtRouteAnnouncer />
+    <Toaster />
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
