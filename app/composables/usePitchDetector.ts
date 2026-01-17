@@ -94,13 +94,9 @@ export function usePitchDetector() {
     
     if (pitchBuffer.length < 2) return newPitch
     
-    // Use median to reject outliers (octave jumps)
+    // Use middle value (not averaged) to reject outliers (octave jumps)
     const sorted = [...pitchBuffer].sort((a, b) => a - b)
-    const mid = Math.floor(sorted.length / 2)
-    
-    if (sorted.length % 2 === 0) {
-      return (sorted[mid - 1] + sorted[mid]) / 2
-    }
+    const mid = Math.floor((sorted.length - 1) / 2)
     return sorted[mid]
   }
 
