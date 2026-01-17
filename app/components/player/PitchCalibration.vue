@@ -406,10 +406,24 @@ onUnmounted(() => {
 				</div>
 				
 				<!-- Action Button -->
-				<button v-if="status === 'idle'" @click="startCalibrationForNote"
-					class="w-full px-6 py-4 bg-violet-500 hover:bg-violet-400 text-white font-bold text-lg uppercase tracking-wider rounded-xl transition-all hover:scale-105">
-					<Icon name="material-symbols:play-arrow-rounded" class="inline w-6 h-6 mr-2 -mt-0.5" />
-					Iniciar Calibração
+				<div v-if="status === 'idle'" class="flex gap-3">
+					<button @click="playReferenceNote"
+						class="flex-1 px-6 py-4 bg-white/10 hover:bg-white/20 text-white font-bold text-lg uppercase tracking-wider rounded-xl transition-all hover:scale-105 border border-white/10"
+						:disabled="isPlaying">
+						<Icon :name="isPlaying ? 'material-symbols:volume-up-rounded' : 'material-symbols:play-circle-rounded'" class="inline w-6 h-6 mr-2 -mt-0.5" :class="{ 'animate-pulse': isPlaying }" />
+						{{ isPlaying ? 'Ouvindo...' : 'Ouvir Nota' }}
+					</button>
+					<button @click="startCalibrationForNote"
+						class="flex-1 px-6 py-4 bg-violet-500 hover:bg-violet-400 text-white font-bold text-lg uppercase tracking-wider rounded-xl transition-all hover:scale-105">
+						<Icon name="material-symbols:mic-rounded" class="inline w-6 h-6 mr-2 -mt-0.5" />
+						Gravar
+					</button>
+				</div>
+				
+				<button v-else-if="status === 'playing'" disabled
+					class="w-full px-6 py-4 bg-yellow-500/50 text-white font-bold text-lg uppercase tracking-wider rounded-xl cursor-not-allowed">
+					<Icon name="material-symbols:volume-up-rounded" class="inline w-6 h-6 mr-2 -mt-0.5 animate-pulse" />
+					Ouvindo nota...
 				</button>
 				
 				<button v-else-if="status === 'recording'" disabled

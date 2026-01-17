@@ -117,7 +117,7 @@ const hasCalibration = computed(() => preferences.pitchCalibrationOffset !== 0)
 								<p v-if="selectedDifficulty === 'Fácil'"
 									class="text-green-400 text-xs font-bold uppercase tracking-widest">
 									<Icon name="material-symbols:child-care-rounded" class="inline w-4 h-4 -mt-0.5 mr-1" />
-									Qualquer oitava pontua!
+									Cante sem preocupações!
 								</p>
 								<p v-else-if="selectedDifficulty === 'SingStar!'"
 									class="text-yellow-400 text-xs font-bold uppercase tracking-widest animate-pulse">
