@@ -25,7 +25,7 @@ export function usePitchDetector() {
   const pitch = computed(() => {
     if (rawPitch.value === null) return null
     const preferences = usePreferencesStore()
-    // Apply calibration: if user sings flat, offset will be negative, so we add it
+    // Apply calibration: if user sings flat, offset will be positive, so we add it to correct upward
     return rawPitch.value + preferences.pitchCalibrationOffset
   })
 
