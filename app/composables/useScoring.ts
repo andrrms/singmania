@@ -169,8 +169,9 @@ export function useScoring(
             // This means any octave of the same note will score
             if (settings.value.ignoreOctave) {
               // Get the note within the octave (0-11)
+              // +12 ensures positive result for JavaScript's modulo with negative numbers
               const detectedNoteInOctave = ((Math.round(detectedPitch.value) % 12) + 12) % 12
-              const targetNoteInOctave = ((note.pitch % 12) + 12) % 12
+              const targetNoteInOctave = note.pitch % 12 // UltraStar pitches are always positive
               const noteDiff = Math.min(
                 Math.abs(detectedNoteInOctave - targetNoteInOctave),
                 12 - Math.abs(detectedNoteInOctave - targetNoteInOctave)

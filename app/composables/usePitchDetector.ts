@@ -13,8 +13,8 @@ export function usePitchDetector() {
   const cents = ref<number>(0) // Detune
   const volume = ref<number>(0)
   
-  // Smoothing buffer for pitch stability
-  const pitchBuffer: number[] = []
+  // Instance-specific smoothing buffer for pitch stability
+  let pitchBuffer: number[] = []
   const PITCH_BUFFER_SIZE = 3 // Number of samples for smoothing
   
   let animationId: number
@@ -76,7 +76,8 @@ export function usePitchDetector() {
     
     let T0 = maxpos
 
-    const x1 = c[T0 - 1] ?? 0, x2 = c[T0] ?? 0, x3 = c[T0 + 1] ?? 0
+    // Safe to access directly since we checked bounds above
+    const x1 = c[T0 - 1], x2 = c[T0], x3 = c[T0 + 1]
     const a = (x1 + x3 - 2 * x2) / 2
     const b = (x3 - x1) / 2
     if (a) T0 = T0 - b / (2 * a)

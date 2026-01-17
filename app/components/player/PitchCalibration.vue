@@ -38,10 +38,13 @@ let micGainNode: GainNode | null = null
 let mediaStream: MediaStream | null = null
 let animationId: number | null = null
 
+// Minimum number of pitch samples needed for valid calibration
+const MIN_SAMPLES_FOR_CALIBRATION = 5
+
 const currentNote = computed(() => calibrationNotes[currentNoteIndex.value])
 
 const progress = computed(() => {
-	const completedNotes = recordedPitches.value.filter(arr => arr.length >= 5).length
+	const completedNotes = recordedPitches.value.filter(arr => arr.length >= MIN_SAMPLES_FOR_CALIBRATION).length
 	return (completedNotes / calibrationNotes.length) * 100
 })
 
@@ -248,7 +251,7 @@ const startCalibrationForNote = async () => {
 	isRecording.value = false
 	
 	// Check if we got enough samples
-	if (recordedPitches.value[currentNoteIndex.value].length < 5) {
+	if (recordedPitches.value[currentNoteIndex.value].length < MIN_SAMPLES_FOR_CALIBRATION) {
 		// Not enough samples, try again
 		status.value = 'idle'
 		recordedPitches.value[currentNoteIndex.value] = []
