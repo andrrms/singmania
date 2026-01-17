@@ -307,6 +307,8 @@ const resetCalibration = () => {
 	recordedPitches.value = [[], [], []]
 	status.value = 'idle'
 	calculatedOffset.value = 0
+	detectedPitch.value = null
+	detectedNote.value = '-'
 }
 
 const skipCalibration = () => {
