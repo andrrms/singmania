@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import MicSetup from './MicSetup.vue'
+import PitchCalibration from './PitchCalibration.vue'
+import { usePreferencesStore } from '~/stores/preferences'
 
-const props = defineProps<{
+defineProps<{
 	songTitle: string
 	songArtist: string
 	isReady: boolean
@@ -23,6 +25,10 @@ const emit = defineEmits<{
 	(e: 'update:player', value: number | undefined): void
 }>()
 
+const preferences = usePreferencesStore()
+const showCalibration = ref(false)
+
+const hasCalibration = computed(() => preferences.pitchCalibrationOffset !== 0)
 </script>
 
 <template>
@@ -108,12 +114,17 @@ const emit = defineEmits<{
 
 							<!-- Info Text -->
 							<div class="h-12 flex items-center justify-center text-center">
-								<p v-if="selectedDifficulty === 'SingStar!'"
+								<p v-if="selectedDifficulty === 'Fácil'"
+									class="text-green-400 text-xs font-bold uppercase tracking-widest">
+									<Icon name="material-symbols:child-care-rounded" class="inline w-4 h-4 -mt-0.5 mr-1" />
+									Cante sem preocupações!
+								</p>
+								<p v-else-if="selectedDifficulty === 'SingStar!'"
 									class="text-yellow-400 text-xs font-bold uppercase tracking-widest animate-pulse">
 									<Icon name="material-symbols:warning-rounded" class="inline w-4 h-4 -mt-0.5 mr-1" />
 									Modo Expert: Precisão Extrema!
 								</p>
-								<p v-if="selectedDifficulty === 'Freestyle'"
+								<p v-else-if="selectedDifficulty === 'Freestyle'"
 									class="text-blue-400 text-xs font-bold uppercase tracking-widest">
 									<Icon name="material-symbols:mic-external-on-rounded" class="inline w-4 h-4 -mt-0.5 mr-1" />
 									Modo Livre: Sem Pontuação
@@ -170,6 +181,18 @@ const emit = defineEmits<{
 						<MicSetup />
 					</div>
 
+					<!-- Calibration Button -->
+					<div class="w-full max-w-6xl flex justify-center">
+						<button @click="showCalibration = true"
+							class="px-6 py-3 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 text-white/70 hover:text-white font-bold uppercase tracking-wider rounded-xl transition-all flex items-center gap-3">
+							<Icon name="material-symbols:tune-rounded" class="w-5 h-5" />
+							<span>Calibrar Voz</span>
+							<span v-if="hasCalibration" class="px-2 py-0.5 bg-green-500/20 text-green-400 text-xs rounded-full">
+								{{ preferences.pitchCalibrationOffset >= 0 ? '+' : '' }}{{ preferences.pitchCalibrationOffset.toFixed(1) }}
+							</span>
+						</button>
+					</div>
+
 					<!-- Action Buttons -->
 					<div class="flex flex-wrap justify-center gap-6 mt-4">
 						<button @click="emit('back')"
@@ -194,6 +217,9 @@ const emit = defineEmits<{
 				</div>
 			</div>
 		</div>
+
+		<!-- Calibration Modal -->
+		<PitchCalibration v-if="showCalibration" @close="showCalibration = false" />
 	</div>
 </template>
 
