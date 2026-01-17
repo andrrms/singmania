@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted, computed } from 'vue'
 import { usePreferencesStore } from '~/stores/preferences'
+import { autoCorrelate, calculateRMS, frequencyToMidi, midiToNoteName } from '~/utils/pitchUtils'
 
 const emit = defineEmits<{
 	(e: 'close'): void
@@ -24,11 +25,13 @@ const recordedPitches = ref<number[][]>([[], [], []]) // Array of pitches for ea
 const status = ref<'idle' | 'playing' | 'recording' | 'done'>('idle')
 const countdown = ref(0)
 const calculatedOffset = ref(0)
+const octaveWarning = ref(false) // Warning if user is singing in wrong octave
 
 // Audio context and oscillator for playing reference tones
 let audioContext: AudioContext | null = null
 let oscillator: OscillatorNode | null = null
 let gainNode: GainNode | null = null
+let oscillatorTimeoutId: ReturnType<typeof setTimeout> | null = null
 
 // Pitch detection
 let micAudioContext: AudioContext | null = null
@@ -48,78 +51,37 @@ const progress = computed(() => {
 	return (completedNotes / calibrationNotes.length) * 100
 })
 
-const noteStrings = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 const detectedNote = ref('-')
 const detectedPitch = ref<number | null>(null)
 const volume = ref(0)
-
-const autoCorrelate = (buf: Float32Array, sampleRate: number) => {
-	let SIZE = buf.length
-	let rms = 0
-
-	for (let i = 0; i < SIZE; i++) {
-		const val = buf[i] || 0
-		rms += val * val
-	}
-	rms = Math.sqrt(rms / SIZE)
-	volume.value = rms
-
-	if (rms < 0.01) return -1
-
-	let r1 = 0, r2 = SIZE - 1
-	const thres = 0.15
-	for (let i = 0; i < SIZE / 2; i++)
-		if (Math.abs(buf[i] || 0) < thres) { r1 = i; break; }
-	for (let i = 1; i < SIZE / 2; i++)
-		if (Math.abs(buf[SIZE - i] || 0) < thres) { r2 = SIZE - i; break; }
-
-	buf = buf.slice(r1, r2)
-	SIZE = buf.length
-	
-	if (SIZE < 2) return -1
-
-	const c = new Array(SIZE).fill(0)
-	for (let i = 0; i < SIZE; i++)
-		for (let j = 0; j < SIZE - i; j++)
-			c[i] = c[i] + (buf[j] || 0) * (buf[j + i] || 0)
-
-	let d = 0; while (c[d] > c[d + 1]) d++
-	let maxval = -1, maxpos = -1
-	for (let i = d; i < SIZE; i++) {
-		if (c[i] > maxval) {
-			maxval = c[i]
-			maxpos = i
-		}
-	}
-	
-	if (maxpos < 1 || maxpos >= SIZE - 1) return -1
-	
-	let T0 = maxpos
-
-	const x1 = c[T0 - 1] ?? 0, x2 = c[T0] ?? 0, x3 = c[T0 + 1] ?? 0
-	const a = (x1 + x3 - 2 * x2) / 2
-	const b = (x3 - x1) / 2
-	if (a) T0 = T0 - b / (2 * a)
-
-	return sampleRate / T0
-}
 
 const updatePitch = () => {
 	if (!analyser || !micAudioContext) return
 	
 	const buf = new Float32Array(2048)
 	analyser.getFloatTimeDomainData(buf)
+	
+	// Calculate volume for UI feedback
+	volume.value = calculateRMS(buf)
+	
 	const freq = autoCorrelate(buf, micAudioContext.sampleRate)
 
 	if (freq !== -1 && freq > 50 && freq < 2000) {
-		const noteNum = 12 * (Math.log(freq / 440) / Math.log(2)) + 69
+		const noteNum = frequencyToMidi(freq)
 		detectedPitch.value = noteNum
-		const roundedNote = Math.round(noteNum)
-		detectedNote.value = noteStrings[((roundedNote % 12) + 12) % 12] || '-'
+		detectedNote.value = midiToNoteName(noteNum)
 		
-		// If recording, save the pitch
+		// If recording, save the pitch and check for octave mismatch
 		if (isRecording.value && currentNoteIndex.value < calibrationNotes.length) {
 			recordedPitches.value[currentNoteIndex.value].push(noteNum)
+			
+			// Check if user is singing in a different octave (more than 6 semitones away)
+			const targetMidi = calibrationNotes[currentNoteIndex.value].midi
+			const noteDiff = Math.abs(noteNum - targetMidi)
+			if (noteDiff > 6 && noteDiff % 12 < 3) {
+				// User is likely singing in a different octave
+				octaveWarning.value = true
+			}
 		}
 	} else {
 		detectedPitch.value = null
@@ -183,6 +145,12 @@ const playReferenceNote = () => {
 		audioContext = new window.AudioContext()
 	}
 	
+	// Clear any pending timeout to prevent stale callbacks
+	if (oscillatorTimeoutId) {
+		clearTimeout(oscillatorTimeoutId)
+		oscillatorTimeoutId = null
+	}
+	
 	// Stop any existing oscillator
 	if (oscillator) {
 		oscillator.stop()
@@ -204,17 +172,24 @@ const playReferenceNote = () => {
 	isPlaying.value = true
 	
 	// Stop after 2 seconds
-	setTimeout(() => {
+	oscillatorTimeoutId = setTimeout(() => {
 		if (oscillator) {
 			oscillator.stop()
 			oscillator.disconnect()
 			oscillator = null
 		}
 		isPlaying.value = false
+		oscillatorTimeoutId = null
 	}, 2000)
 }
 
 const stopReferenceNote = () => {
+	// Clear any pending timeout
+	if (oscillatorTimeoutId) {
+		clearTimeout(oscillatorTimeoutId)
+		oscillatorTimeoutId = null
+	}
+	
 	if (oscillator) {
 		oscillator.stop()
 		oscillator.disconnect()
@@ -309,6 +284,7 @@ const resetCalibration = () => {
 	calculatedOffset.value = 0
 	detectedPitch.value = null
 	detectedNote.value = '-'
+	octaveWarning.value = false
 }
 
 const skipCalibration = () => {
@@ -387,6 +363,12 @@ onUnmounted(() => {
 						</div>
 						<div class="text-4xl font-bold text-white">{{ countdown }}</div>
 					</div>
+				</div>
+				
+				<!-- Octave Warning -->
+				<div v-if="octaveWarning && status === 'recording'" class="mb-4 p-3 bg-yellow-500/20 border border-yellow-500/30 rounded-lg text-yellow-400 text-sm">
+					<Icon name="material-symbols:warning-rounded" class="inline w-4 h-4 mr-1 -mt-0.5" />
+					Parece que você está cantando em uma oitava diferente. Tente cantar na mesma altura da nota de referência.
 				</div>
 				
 				<!-- Detected Pitch Display -->
