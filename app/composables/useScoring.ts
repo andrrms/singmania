@@ -59,32 +59,37 @@ export function useScoring(
     let points = 20
     let pitchTol = 1
     let thresholds = { ok: 0.25, good: 0.5, excellent: 0.75 }
+    let ignoreOctave = false // When true, only check note name, not octave
 
     switch (difficulty.value) {
       case 'Freestyle':
         points = 0
         pitchTol = 0
         thresholds = { ok: 1, good: 1, excellent: 1 } // Impossible to score
+        ignoreOctave = false
         break
       case 'Fácil':
         points = 10
         pitchTol = 2
         thresholds = { ok: 0.2, good: 0.4, excellent: 0.6 }
+        ignoreOctave = true // Easy mode: any octave counts
         break
       case 'SingStar!': // Hardest
       case 'Difícil':
         points = 30
         pitchTol = 0.5
         thresholds = { ok: 0.4, good: 0.6, excellent: 0.85 }
+        ignoreOctave = false
         break
       case 'Normal':
       default:
         points = 20
         pitchTol = 1
         thresholds = { ok: 0.25, good: 0.5, excellent: 0.75 }
+        ignoreOctave = false
         break
     }
-    return { points, pitchTol, thresholds }
+    return { points, pitchTol, thresholds, ignoreOctave }
   })
 
   // Initialize and calculate total max score
@@ -159,10 +164,27 @@ export function useScoring(
             hit = true
           } else {
             const pitchDiff = Math.abs(detectedPitch.value - note.pitch)
-            const octaveDiff = Math.abs(pitchDiff % 12)
-            const normalizedDiff = Math.min(octaveDiff, 12 - octaveDiff)
-            if (normalizedDiff <= settings.value.pitchTol) {
-              hit = true
+            
+            // For "Fácil" mode (ignoreOctave=true), only check if the note name matches
+            // This means any octave of the same note will score
+            if (settings.value.ignoreOctave) {
+              // Get the note within the octave (0-11)
+              const detectedNoteInOctave = ((Math.round(detectedPitch.value) % 12) + 12) % 12
+              const targetNoteInOctave = ((note.pitch % 12) + 12) % 12
+              const noteDiff = Math.min(
+                Math.abs(detectedNoteInOctave - targetNoteInOctave),
+                12 - Math.abs(detectedNoteInOctave - targetNoteInOctave)
+              )
+              if (noteDiff <= settings.value.pitchTol) {
+                hit = true
+              }
+            } else {
+              // Normal octave-aware detection
+              const octaveDiff = Math.abs(pitchDiff % 12)
+              const normalizedDiff = Math.min(octaveDiff, 12 - octaveDiff)
+              if (normalizedDiff <= settings.value.pitchTol) {
+                hit = true
+              }
             }
           }
 

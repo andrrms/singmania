@@ -1,4 +1,4 @@
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onUnmounted, computed } from 'vue'
 import { usePreferencesStore } from '~/stores/preferences'
 
 export function usePitchDetector() {
@@ -8,17 +8,29 @@ export function usePitchDetector() {
   const gainNode = ref<GainNode | null>(null)
   const mediaStream = ref<MediaStream | null>(null)
   
-  const pitch = ref<number | null>(null) // MIDI note number
+  const rawPitch = ref<number | null>(null) // Raw MIDI note number before calibration
   const note = ref<string>('-') // Note name (C, D#, etc)
   const cents = ref<number>(0) // Detune
   const volume = ref<number>(0)
+  
+  // Smoothing buffer for pitch stability
+  const pitchBuffer: number[] = []
+  const PITCH_BUFFER_SIZE = 3 // Number of samples for smoothing
   
   let animationId: number
 
   const noteStrings = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
+  // Apply calibration offset to get the final pitch
+  const pitch = computed(() => {
+    if (rawPitch.value === null) return null
+    const preferences = usePreferencesStore()
+    // Apply calibration: if user sings flat, offset will be negative, so we add it
+    return rawPitch.value + preferences.pitchCalibrationOffset
+  })
+
   const autoCorrelate = (buf: Float32Array, sampleRate: number) => {
-    // Implements the ACF2+ algorithm
+    // Implements the ACF2+ algorithm with improvements for human voice
     let SIZE = buf.length
     let rms = 0
 
@@ -32,7 +44,10 @@ export function usePitchDetector() {
     if (rms < 0.01) // Not enough signal
       return -1
 
-    let r1 = 0, r2 = SIZE - 1, thres = 0.2
+    // Improved threshold detection for human voice
+    // Use a slightly lower threshold to capture more of the waveform
+    let r1 = 0, r2 = SIZE - 1
+    const thres = 0.15
     for (let i = 0; i < SIZE / 2; i++)
       if (Math.abs(buf[i] || 0) < thres) { r1 = i; break; }
     for (let i = 1; i < SIZE / 2; i++)
@@ -40,6 +55,8 @@ export function usePitchDetector() {
 
     buf = buf.slice(r1, r2)
     SIZE = buf.length
+    
+    if (SIZE < 2) return -1
 
     const c = new Array(SIZE).fill(0)
     for (let i = 0; i < SIZE; i++)
@@ -54,14 +71,36 @@ export function usePitchDetector() {
         maxpos = i
       }
     }
+    
+    if (maxpos < 1 || maxpos >= SIZE - 1) return -1
+    
     let T0 = maxpos
 
-    const x1 = c[T0 - 1], x2 = c[T0], x3 = c[T0 + 1]
+    const x1 = c[T0 - 1] ?? 0, x2 = c[T0] ?? 0, x3 = c[T0 + 1] ?? 0
     const a = (x1 + x3 - 2 * x2) / 2
     const b = (x3 - x1) / 2
     if (a) T0 = T0 - b / (2 * a)
 
     return sampleRate / T0
+  }
+
+  // Median filter for pitch smoothing (reduces octave jumping)
+  const getSmoothedPitch = (newPitch: number): number => {
+    pitchBuffer.push(newPitch)
+    if (pitchBuffer.length > PITCH_BUFFER_SIZE) {
+      pitchBuffer.shift()
+    }
+    
+    if (pitchBuffer.length < 2) return newPitch
+    
+    // Use median to reject outliers (octave jumps)
+    const sorted = [...pitchBuffer].sort((a, b) => a - b)
+    const mid = Math.floor(sorted.length / 2)
+    
+    if (sorted.length % 2 === 0) {
+      return (sorted[mid - 1] + sorted[mid]) / 2
+    }
+    return sorted[mid]
   }
 
   const updatePitch = () => {
@@ -71,20 +110,20 @@ export function usePitchDetector() {
     analyser.value.getFloatTimeDomainData(buf)
     const ac = autoCorrelate(buf, audioContext.value.sampleRate)
 
-    if (ac !== -1) {
+    if (ac !== -1 && ac > 50 && ac < 2000) { // Valid frequency range for human voice (50Hz - 2000Hz)
       const noteNum = 12 * (Math.log(ac / 440) / Math.log(2)) + 69
-      const roundedNote = Math.round(noteNum)
       
-      // Smoothing: Simple moving average could be added here if needed
-      // For now, we just update directly but we could lerp
-      pitch.value = noteNum
-      note.value = noteStrings[roundedNote % 12] || '-'
-      cents.value = Math.floor((noteNum - roundedNote) * 100)
+      // Apply smoothing to reduce jitter
+      const smoothedNote = getSmoothedPitch(noteNum)
+      const roundedNote = Math.round(smoothedNote)
+      
+      rawPitch.value = smoothedNote
+      note.value = noteStrings[((roundedNote % 12) + 12) % 12] || '-'
+      cents.value = Math.floor((smoothedNote - roundedNote) * 100)
     } else {
-      // Keep last pitch or reset? 
-      // Resetting makes the arrow disappear or drop. 
-      // Let's set to null to indicate silence
-      pitch.value = null
+      // Clear buffer when no signal to prevent stale data
+      pitchBuffer.length = 0
+      rawPitch.value = null
     }
 
     animationId = requestAnimationFrame(updatePitch)
@@ -130,8 +169,9 @@ export function usePitchDetector() {
     if (mediaStream.value) mediaStream.value.getTracks().forEach(t => t.stop())
     if (audioContext.value) audioContext.value.close()
     
-    pitch.value = null
+    rawPitch.value = null
     note.value = '-'
+    pitchBuffer.length = 0
   }
 
   onUnmounted(() => {
@@ -142,7 +182,9 @@ export function usePitchDetector() {
     start,
     stop,
     pitch,
+    rawPitch, // Expose raw pitch for calibration purposes
     note,
-    volume
+    volume,
+    cents
   }
 }

@@ -7,12 +7,15 @@ export const usePreferencesStore = defineStore('preferences', () => {
 	const debugMode = useStorage('player-debug-mode', false)
 	const inputDeviceId = useStorage<string>('input-device-id', 'default')
 	const inputGain = useStorage<number>('input-gain', 1.0)
+	// Pitch calibration offset in semitones (positive = detected pitch is higher than actual)
+	const pitchCalibrationOffset = useStorage<number>('pitch-calibration-offset', 0)
 
 	return {
 		viewMode,
 		sortBy,
 		debugMode,
 		inputDeviceId,
-		inputGain
+		inputGain,
+		pitchCalibrationOffset
 	}
 })
